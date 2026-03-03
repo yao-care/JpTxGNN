@@ -13,7 +13,7 @@ nav_exclude: true
 |------|-----|
 | DrugBank ID | [DB01129](https://go.drugbank.com/drugs/DB01129) |
 | エビデンスレベル | L5（計算予測のみ） |
-| 予測適応症数 | 11 |
+| 予測適応症数 | 21 |
 | 日本商品名（例） | パリエット錠１０ｍｇ, パリエット錠１０ｍｇ（選）, パリエット錠２０ｍｇ |
 
 ## 承認適応症（KEGG）
@@ -22,21 +22,31 @@ nav_exclude: true
 
 ## 予測適応症（TxGNN）
 
-以下は TxGNN 知識グラフにより予測された潜在的新適応症です。
+以下は TxGNN モデルにより予測された潜在的新適応症です。スコアが高いほど関連性が高いと予測されています。
 
-| # | 適応症 | ソース | レベル |
+| # | 適応症 | スコア | ソース |
 |---|--------|--------|--------|
-| 1 | peptic ulcer disease | TxGNN Knowledge Graph | L5 |
-| 2 | peptic esophagitis | TxGNN Knowledge Graph | L5 |
-| 3 | Zollinger-Ellison syndrome | TxGNN Knowledge Graph | L5 |
-| 4 | systemic mastocytosis | TxGNN Knowledge Graph | L5 |
-| 5 | mastocytosis | TxGNN Knowledge Graph | L5 |
-| 6 | gastroesophageal reflux disease | TxGNN Knowledge Graph | L5 |
-| 7 | gastrin secretion abnormality | TxGNN Knowledge Graph | L5 |
-| 8 | multiple endocrine neoplasia | TxGNN Knowledge Graph | L5 |
-| 9 | hyperinsulinism (disease) | TxGNN Knowledge Graph | L5 |
-| 10 | esophagitis (disease) | TxGNN Knowledge Graph | L5 |
-| 11 | duodenal ulcer (disease) | TxGNN Knowledge Graph | L5 |
+| 1 | systemic mastocytosis | 99% | DL |
+| 2 | peptic esophagitis | 99% | DL |
+| 3 | gastrin secretion abnormality | 99% | DL |
+| 4 | Smouldering systemic mastocytosis | 99% | DL |
+| 5 | lymphoadenopathic mastocytosis with eosinophilia | 99% | DL |
+| 6 | duodenal ulcer (disease) | 98% | DL |
+| 7 | Zollinger-Ellison syndrome | 98% | DL |
+| 8 | active peptic ulcer disease | 98% | DL |
+| 9 | duodenogastric reflux | 98% | DL |
+| 10 | gastroduodenitis | 98% | DL |
+| 11 | duodenal obstruction | 98% | DL |
+| 12 | gastrojejunal ulcer | 98% | DL |
+| 13 | peptic ulcer perforation | 98% | DL |
+| 14 | peptic ulcer disease | 97% | DL |
+| 15 | gastric ulcer (disease) | 97% | DL |
+| 16 | abnormality of glucagon secretion | 96% | DL |
+| 17 | esophagitis (disease) | 95% | DL |
+| 18 | multiple endocrine neoplasia | 93% | DL |
+| 19 | hyperinsulinism (disease) | 85% | DL |
+| 20 | mastocytosis | 31% | DL |
+| 21 | gastroesophageal reflux disease | 16% | DL |
 
 ## 免責事項
 

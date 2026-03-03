@@ -13,7 +13,7 @@ nav_exclude: true
 |------|-----|
 | DrugBank ID | [DB01167](https://go.drugbank.com/drugs/DB01167) |
 | エビデンスレベル | L5（計算予測のみ） |
-| 予測適応症数 | 11 |
+| 予測適応症数 | 13 |
 | 日本商品名（例） | イトラコナゾールカプセル５０ｍｇ「ＳＷ」, イトラコナゾール内用液１％「ＶＴＲＳ」, イトラコナゾール錠１００ｍｇ「日医工」 |
 
 ## 承認適応症（KEGG）
@@ -22,21 +22,23 @@ nav_exclude: true
 
 ## 予測適応症（TxGNN）
 
-以下は TxGNN 知識グラフにより予測された潜在的新適応症です。
+以下は TxGNN モデルにより予測された潜在的新適応症です。スコアが高いほど関連性が高いと予測されています。
 
-| # | 適応症 | ソース | レベル |
+| # | 適応症 | スコア | ソース |
 |---|--------|--------|--------|
-| 1 | sporotrichosis | TxGNN Knowledge Graph | L5 |
-| 2 | fusariosis | TxGNN Knowledge Graph | L5 |
-| 3 | black piedra | TxGNN Knowledge Graph | L5 |
-| 4 | blastomycosis | TxGNN Knowledge Graph | L5 |
-| 5 | white piedra | TxGNN Knowledge Graph | L5 |
-| 6 | disseminated candidiasis | TxGNN Knowledge Graph | L5 |
-| 7 | esophageal candidiasis | TxGNN Knowledge Graph | L5 |
-| 8 | coccidioidomycosis | TxGNN Knowledge Graph | L5 |
-| 9 | histoplasmosis | TxGNN Knowledge Graph | L5 |
-| 10 | candidemia | TxGNN Knowledge Graph | L5 |
-| 11 | aspergillosis | TxGNN Knowledge Graph | L5 |
+| 1 | pneumocystosis | 99% | DL |
+| 2 | Cryptococcal meningitis | 93% | DL |
+| 3 | esophageal candidiasis | 91% | DL |
+| 4 | fusariosis | 88% | DL |
+| 5 | aspergillosis | 83% | DL |
+| 6 | blastomycosis | 69% | DL |
+| 7 | disseminated candidiasis | 68% | DL |
+| 8 | candidemia | 47% | DL |
+| 9 | white piedra | 18% | DL |
+| 10 | coccidioidomycosis | 13% | DL |
+| 11 | histoplasmosis | 12% | DL |
+| 12 | sporotrichosis | 12% | DL |
+| 13 | black piedra | 7% | DL |
 
 ## 免責事項
 

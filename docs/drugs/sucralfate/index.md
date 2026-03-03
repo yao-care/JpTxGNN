@@ -13,7 +13,7 @@ nav_exclude: true
 |------|-----|
 | DrugBank ID | [DB00364](https://go.drugbank.com/drugs/DB00364) |
 | エビデンスレベル | L5（計算予測のみ） |
-| 予測適応症数 | 1 |
+| 予測適応症数 | 12 |
 | 日本商品名（例） | アルサルミン内用液１０％, アルサルミン内用液１０％（選）, アルサルミン細粒９０％ |
 
 ## 承認適応症（KEGG）
@@ -22,11 +22,22 @@ nav_exclude: true
 
 ## 予測適応症（TxGNN）
 
-以下は TxGNN 知識グラフにより予測された潜在的新適応症です。
+以下は TxGNN モデルにより予測された潜在的新適応症です。スコアが高いほど関連性が高いと予測されています。
 
-| # | 適応症 | ソース | レベル |
+| # | 適応症 | スコア | ソース |
 |---|--------|--------|--------|
-| 1 | duodenal ulcer (disease) | TxGNN Knowledge Graph | L5 |
+| 1 | duodenal ulcer (disease) | 99% | DL |
+| 2 | duodenogastric reflux | 99% | DL |
+| 3 | duodenal obstruction | 99% | DL |
+| 4 | esophagitis (disease) | 97% | DL |
+| 5 | peptic esophagitis | 95% | DL |
+| 6 | duodenitis | 95% | DL |
+| 7 | active peptic ulcer disease | 95% | DL |
+| 8 | gastroduodenitis | 94% | DL |
+| 9 | C1 inhibitor deficiency | 94% | DL |
+| 10 | peptic ulcer perforation | 94% | DL |
+| 11 | gastrojejunal ulcer | 94% | DL |
+| 12 | serpinopathy with toxic serpin polymerization | 92% | DL |
 
 ## 免責事項
 

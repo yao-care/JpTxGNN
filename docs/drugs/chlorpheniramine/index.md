@@ -13,26 +13,41 @@ nav_exclude: true
 |------|-----|
 | DrugBank ID | [DB01114](https://go.drugbank.com/drugs/DB01114) |
 | エビデンスレベル | L5（計算予測のみ） |
-| 予測適応症数 | 11 |
+| 予測適応症数 | 26 |
 | 日本商品名（例） | エンペラシン配合錠, サクコルチン配合錠, セレスタミン配合錠 |
 
 ## 予測適応症（TxGNN）
 
-以下は TxGNN 知識グラフにより予測された潜在的新適応症です。
+以下は TxGNN モデルにより予測された潜在的新適応症です。スコアが高いほど関連性が高いと予測されています。
 
-| # | 適応症 | ソース | レベル |
+| # | 適応症 | スコア | ソース |
 |---|--------|--------|--------|
-| 1 | atopic conjunctivitis | TxGNN Knowledge Graph | L5 |
-| 2 | vernal conjunctivitis | TxGNN Knowledge Graph | L5 |
-| 3 | urticaria (disease) | TxGNN Knowledge Graph | L5 |
-| 4 | vasomotor rhinitis | TxGNN Knowledge Graph | L5 |
-| 5 | nasopharyngitis | TxGNN Knowledge Graph | L5 |
-| 6 | angioedema | TxGNN Knowledge Graph | L5 |
-| 7 | common cold | TxGNN Knowledge Graph | L5 |
-| 8 | familial dermatographia | TxGNN Knowledge Graph | L5 |
-| 9 | papillary conjunctivitis | TxGNN Knowledge Graph | L5 |
-| 10 | pharyngitis | TxGNN Knowledge Graph | L5 |
-| 11 | allergic rhinitis | TxGNN Knowledge Graph | L5 |
+| 1 | papillary conjunctivitis | 99% | DL |
+| 2 | pharyngitis | 99% | DL |
+| 3 | atopic conjunctivitis | 99% | DL |
+| 4 | allergic urticaria | 99% | DL |
+| 5 | nasal cavity disease | 99% | DL |
+| 6 | acute laryngopharyngitis | 99% | DL |
+| 7 | cold urticaria | 99% | DL |
+| 8 | common cold | 98% | DL |
+| 9 | rosacea conjunctivitis | 98% | DL |
+| 10 | nasopharyngitis | 97% | DL |
+| 11 | headache disorder | 97% | DL |
+| 12 | recalcitrant atopic dermatitis | 97% | DL |
+| 13 | vernal conjunctivitis | 96% | DL |
+| 14 | trigeminal autonomic cephalalgia | 96% | DL |
+| 15 | IgE responsiveness, atopic | 95% | DL |
+| 16 | rhinitis | 95% | DL |
+| 17 | anorectal stricture | 92% | DL |
+| 18 | glossodynia | 91% | DL |
+| 19 | coccygodynia | 91% | DL |
+| 20 | anal polyp | 91% | DL |
+| 21 | viral conjunctivitis | 90% | DL |
+| 22 | urticaria (disease) | 73% | DL |
+| 23 | angioedema | 67% | DL |
+| 24 | familial dermatographia | 23% | DL |
+| 25 | vasomotor rhinitis | 12% | DL |
+| 26 | allergic rhinitis | 0% | DL |
 
 ## 免責事項
 

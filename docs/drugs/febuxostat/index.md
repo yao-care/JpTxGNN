@@ -13,7 +13,7 @@ nav_exclude: true
 |------|-----|
 | DrugBank ID | [DB04854](https://go.drugbank.com/drugs/DB04854) |
 | エビデンスレベル | L5（計算予測のみ） |
-| 予測適応症数 | 1 |
+| 予測適応症数 | 10 |
 | 日本商品名（例） | フェブキソスタット錠１０ｍｇ「ケミファ」, フェブキソスタット錠１０ｍｇ「サワイ」, フェブキソスタット錠１０ｍｇ「トーワ」 |
 
 ## 承認適応症（KEGG）
@@ -22,11 +22,20 @@ nav_exclude: true
 
 ## 予測適応症（TxGNN）
 
-以下は TxGNN 知識グラフにより予測された潜在的新適応症です。
+以下は TxGNN モデルにより予測された潜在的新適応症です。スコアが高いほど関連性が高いと予測されています。
 
-| # | 適応症 | ソース | レベル |
+| # | 適応症 | スコア | ソース |
 |---|--------|--------|--------|
-| 1 | obsolete hyperuricemia (disease) | TxGNN Knowledge Graph | L5 |
+| 1 | obsolete hyperuricemia (disease) | 99% | DL |
+| 2 | hypouricemia, renal | 99% | DL |
+| 3 | hypoxanthine guanine phosphoribosyltransferase partial deficiency | 99% | DL |
+| 4 | Lesch-Nyhan syndrome | 99% | DL |
+| 5 | hepatoportal sclerosis | 91% | DL |
+| 6 | early-onset familial noncirrhotic portal hypertension | 91% | DL |
+| 7 | idiopathic copper-associated cirrhosis | 91% | DL |
+| 8 | primitive portal vein thrombosis | 91% | DL |
+| 9 | hepatopulmonary syndrome | 91% | DL |
+| 10 | hepatic porphyria | 91% | DL |
 
 ## 免責事項
 

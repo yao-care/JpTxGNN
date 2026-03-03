@@ -13,7 +13,7 @@ nav_exclude: true
 |------|-----|
 | DrugBank ID | [DB00619](https://go.drugbank.com/drugs/DB00619) |
 | エビデンスレベル | L5（計算予測のみ） |
-| 予測適応症数 | 10 |
+| 予測適応症数 | 100 |
 | 日本商品名（例） | イマチニブメシル酸塩１００ｍｇ錠, イマチニブ錠１００ｍｇ「オーハラ」, イマチニブ錠１００ｍｇ「ケミファ」 |
 
 ## 承認適応症（KEGG）
@@ -22,20 +22,62 @@ nav_exclude: true
 
 ## 予測適応症（TxGNN）
 
-以下は TxGNN 知識グラフにより予測された潜在的新適応症です。
+以下は TxGNN モデルにより予測された潜在的新適応症です。スコアが高いほど関連性が高いと予測されています。
 
-| # | 適応症 | ソース | レベル |
+| # | 適応症 | スコア | ソース |
 |---|--------|--------|--------|
-| 1 | chronic myelogenous leukemia, BCR-ABL1 positive | TxGNN Knowledge Graph | L5 |
-| 2 | idiopathic hypereosinophilic syndrome | TxGNN Knowledge Graph | L5 |
-| 3 | hypereosinophilic syndrome | TxGNN Knowledge Graph | L5 |
-| 4 | mastocytosis | TxGNN Knowledge Graph | L5 |
-| 5 | systemic mastocytosis | TxGNN Knowledge Graph | L5 |
-| 6 | chronic eosinophilic leukemia, not otherwise specified | TxGNN Knowledge Graph | L5 |
-| 7 | gastrointestinal stromal tumor | TxGNN Knowledge Graph | L5 |
-| 8 | blast phase chronic myelogenous leukemia, BCR-ABL1 positive | TxGNN Knowledge Graph | L5 |
-| 9 | dermatofibrosarcoma protuberans | TxGNN Knowledge Graph | L5 |
-| 10 | chronic eosinophilic leukemia | TxGNN Knowledge Graph | L5 |
+| 1 | dermatofibrosarcoma protuberans | 99% | DL |
+| 2 | heart fibrosarcoma | 99% | DL |
+| 3 | fibroblastic neoplasm | 99% | DL |
+| 4 | conventional fibrosarcoma | 99% | DL |
+| 5 | kidney fibrosarcoma | 99% | DL |
+| 6 | low grade fibromyxoid sarcoma | 99% | DL |
+| 7 | liposarcoma | 99% | DL |
+| 8 | liver fibrosarcoma | 99% | DL |
+| 9 | autosomal recessive familial Mediterranean fever | 99% | DL |
+| 10 | ovarian myxoid liposarcoma | 99% | DL |
+| 11 | familial rhabdoid tumor | 99% | DL |
+| 12 | benign PEComa | 99% | DL |
+| 13 | uterine corpus perivascular epithelioid cell tumor | 99% | DL |
+| 14 | lymphangiomyoma | 99% | DL |
+| 15 | lymphangioleiomyomatosis | 99% | DL |
+| 16 | bone fibrosarcoma | 99% | DL |
+| 17 | cutaneous undifferentiated pleomorphic sarcoma | 99% | DL |
+| 18 | cutaneous leiomyosarcoma (disease) | 99% | DL |
+| 19 | central nervous system fibrosarcoma | 99% | DL |
+| 20 | vulva sarcoma | 99% | DL |
+| 21 | gallbladder leiomyosarcoma | 99% | DL |
+| 22 | lung PEComa | 99% | DL |
+| 23 | breast fibrosarcoma | 99% | DL |
+| 24 | uterine corpus leiomyoma | 99% | DL |
+| 25 | familial Mediterranean fever, autosomal dominant | 99% | DL |
+| 26 | parameningeal embryonal rhabdomyosarcoma | 99% | DL |
+| 27 | autoinflammatory syndrome with immune deficiency | 99% | DL |
+| 28 | uterine corpus myxoid leiomyosarcoma | 99% | DL |
+| 29 | botryoid-type embryonal rhabdomyosarcoma of the vagina | 99% | DL |
+| 30 | leiomyosarcoma | 99% | DL |
+| 31 | prostate embryonal rhabdomyosarcoma | 99% | DL |
+| 32 | embryonal extrahepatic bile duct rhabdomyosarcoma | 99% | DL |
+| 33 | extrahepatic bile duct rhabdomyosarcoma | 99% | DL |
+| 34 | rhabdomyosarcoma (disease) | 99% | DL |
+| 35 | mixed endometrial stromal and smooth muscle tumor | 99% | DL |
+| 36 | uterine corpus epithelioid leiomyosarcoma | 99% | DL |
+| 37 | anus leiomyosarcoma | 99% | DL |
+| 38 | retroperitoneal sarcoma | 99% | DL |
+| 39 | small intestinal sarcoma | 99% | DL |
+| 40 | liver sarcoma | 99% | DL |
+| 41 | myxofibrosarcoma | 99% | DL |
+| 42 | mastocytosis | 98% | DL |
+| 43 | familial Mediterranean fever | 98% | DL |
+| 44 | situs inversus | 98% | DL |
+| 45 | extracutaneous mastocytoma | 98% | DL |
+| 46 | childhood malignant neoplasm | 98% | DL |
+| 47 | aggressive systemic mastocytosis | 98% | DL |
+| 48 | heart position anomaly | 98% | DL |
+| 49 | basal ganglia calcification, idiopathic | 98% | DL |
+| 50 | spindle cell liposarcoma | 98% | DL |
+
+*（上位50件を表示。全100件の予測があります）*
 
 ## 免責事項
 

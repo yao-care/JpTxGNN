@@ -13,7 +13,7 @@ nav_exclude: true
 |------|-----|
 | DrugBank ID | [DB00612](https://go.drugbank.com/drugs/DB00612) |
 | エビデンスレベル | L5（計算予測のみ） |
-| 予測適応症数 | 2 |
+| 予測適応症数 | 8 |
 | 日本商品名（例） | ビソプロロールフマル酸塩錠２．５ｍｇ「サワイ」, ビソプロロールフマル酸塩錠２．５ｍｇ「サンド」, ビソプロロールフマル酸塩錠２．５ｍｇ「テバ」 |
 
 ## 承認適応症（KEGG）
@@ -22,12 +22,18 @@ nav_exclude: true
 
 ## 予測適応症（TxGNN）
 
-以下は TxGNN 知識グラフにより予測された潜在的新適応症です。
+以下は TxGNN モデルにより予測された潜在的新適応症です。スコアが高いほど関連性が高いと予測されています。
 
-| # | 適応症 | ソース | レベル |
+| # | 適応症 | スコア | ソース |
 |---|--------|--------|--------|
-| 1 | hypertension | TxGNN Knowledge Graph | L5 |
-| 2 | hypertensive disorder | TxGNN Knowledge Graph | L5 |
+| 1 | hypertensive disorder | 99% | DL |
+| 2 | malignant renovascular hypertension | 99% | DL |
+| 3 | malignant hypertensive renal disease | 99% | DL |
+| 4 | pulmonary hypertension with unclear multifactorial mechanism | 99% | DL |
+| 5 | pulmonary hypertension owing to lung disease and/or hypoxia | 99% | DL |
+| 6 | Braddock syndrome | 99% | DL |
+| 7 | chronic pulmonary heart disease | 98% | DL |
+| 8 | Prinzmetal angina | 94% | DL |
 
 ## 免責事項
 

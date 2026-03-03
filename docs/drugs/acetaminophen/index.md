@@ -13,7 +13,7 @@ nav_exclude: true
 |------|-----|
 | DrugBank ID | [DB00316](https://go.drugbank.com/drugs/DB00316) |
 | エビデンスレベル | L5（計算予測のみ） |
-| 予測適応症数 | 7 |
+| 予測適応症数 | 15 |
 | 日本商品名（例） | アセトアミノフェンシロップ小児用２％「トーワ」, アセトアミノフェン坐剤小児用１００ｍｇ「シオエ」, アセトアミノフェン坐剤小児用１００ｍｇ「日新」 |
 
 ## 承認適応症（KEGG）
@@ -22,17 +22,25 @@ nav_exclude: true
 
 ## 予測適応症（TxGNN）
 
-以下は TxGNN 知識グラフにより予測された潜在的新適応症です。
+以下は TxGNN モデルにより予測された潜在的新適応症です。スコアが高いほど関連性が高いと予測されています。
 
-| # | 適応症 | ソース | レベル |
+| # | 適応症 | スコア | ソース |
 |---|--------|--------|--------|
-| 1 | vasomotor rhinitis | TxGNN Knowledge Graph | L5 |
-| 2 | migraine with or without aura, susceptibility to | TxGNN Knowledge Graph | L5 |
-| 3 | nasopharyngitis | TxGNN Knowledge Graph | L5 |
-| 4 | common cold | TxGNN Knowledge Graph | L5 |
-| 5 | headache disorder | TxGNN Knowledge Graph | L5 |
-| 6 | migraine disorder | TxGNN Knowledge Graph | L5 |
-| 7 | allergic rhinitis | TxGNN Knowledge Graph | L5 |
+| 1 | migraine disorder | 99% | DL |
+| 2 | migraine with brainstem aura | 99% | DL |
+| 3 | headache disorder | 98% | DL |
+| 4 | trigeminal autonomic cephalalgia | 98% | DL |
+| 5 | common cold | 96% | DL |
+| 6 | migraine with or without aura, susceptibility to | 95% | DL |
+| 7 | atrophoderma vermiculata | 94% | DL |
+| 8 | tendinitis | 94% | DL |
+| 9 | idiopathic granulomatous myositis | 94% | DL |
+| 10 | myositis fibrosa | 94% | DL |
+| 11 | ulerythema ophryogenesis | 92% | DL |
+| 12 | fibromyalgia | 90% | DL |
+| 13 | nasopharyngitis | 85% | DL |
+| 14 | vasomotor rhinitis | 2% | DL |
+| 15 | allergic rhinitis | 0% | DL |
 
 ## 免責事項
 

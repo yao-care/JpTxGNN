@@ -13,7 +13,7 @@ nav_exclude: true
 |------|-----|
 | DrugBank ID | [DB00455](https://go.drugbank.com/drugs/DB00455) |
 | エビデンスレベル | L5（計算予測のみ） |
-| 予測適応症数 | 9 |
+| 予測適応症数 | 14 |
 | 日本商品名（例） | クラリチンドライシロップ１％, クラリチンドライシロップ１％（選）, クラリチンレディタブ錠１０ｍｇ |
 
 ## 承認適応症（KEGG）
@@ -22,19 +22,24 @@ nav_exclude: true
 
 ## 予測適応症（TxGNN）
 
-以下は TxGNN 知識グラフにより予測された潜在的新適応症です。
+以下は TxGNN モデルにより予測された潜在的新適応症です。スコアが高いほど関連性が高いと予測されています。
 
-| # | 適応症 | ソース | レベル |
+| # | 適応症 | スコア | ソース |
 |---|--------|--------|--------|
-| 1 | atopic conjunctivitis | TxGNN Knowledge Graph | L5 |
-| 2 | vernal conjunctivitis | TxGNN Knowledge Graph | L5 |
-| 3 | vasomotor rhinitis | TxGNN Knowledge Graph | L5 |
-| 4 | nasopharyngitis | TxGNN Knowledge Graph | L5 |
-| 5 | common cold | TxGNN Knowledge Graph | L5 |
-| 6 | idiopathic urticaria | TxGNN Knowledge Graph | L5 |
-| 7 | papillary conjunctivitis | TxGNN Knowledge Graph | L5 |
-| 8 | pharyngitis | TxGNN Knowledge Graph | L5 |
-| 9 | allergic rhinitis | TxGNN Knowledge Graph | L5 |
+| 1 | papillary conjunctivitis | 99% | DL |
+| 2 | pharyngitis | 98% | DL |
+| 3 | atopic conjunctivitis | 98% | DL |
+| 4 | allergic urticaria | 98% | DL |
+| 5 | nasal cavity disease | 98% | DL |
+| 6 | acute laryngopharyngitis | 98% | DL |
+| 7 | rosacea conjunctivitis | 98% | DL |
+| 8 | cold urticaria | 96% | DL |
+| 9 | common cold | 94% | DL |
+| 10 | nasopharyngitis | 92% | DL |
+| 11 | vernal conjunctivitis | 88% | DL |
+| 12 | idiopathic urticaria | 1% | DL |
+| 13 | vasomotor rhinitis | 1% | DL |
+| 14 | allergic rhinitis | 0% | DL |
 
 ## 免責事項
 

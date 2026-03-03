@@ -1,20 +1,19 @@
 {
-  "generated": "2026-03-02T19:54:04.513681",
+  "generated": "2026-03-03T16:04:06.224760",
   "data": {
     "drugs": {
-      "total": 123,
-      "with_indication": 88
+      "total": 3824,
+      "with_dl_predictions": 224966
     },
-    "candidates": {
-      "total": 33901,
-      "unique_drugs": 123,
-      "unique_indications": 473
+    "predictions": {
+      "kg_predictions": 33901,
+      "dl_enhanced": 33901,
+      "dl_only": 191065,
+      "total_indications": 155638
     },
     "search_index": {
-      "drugs": 3952
-    },
-    "news": {
-      "matched": 9
+      "version": "2.0",
+      "drugs": 3824
     }
   }
 }

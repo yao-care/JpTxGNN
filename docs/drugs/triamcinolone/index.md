@@ -13,7 +13,7 @@ nav_exclude: true
 |------|-----|
 | DrugBank ID | [DB00620](https://go.drugbank.com/drugs/DB00620) |
 | エビデンスレベル | L5（計算予測のみ） |
-| 予測適応症数 | 129 |
+| 予測適応症数 | 100 |
 | 日本商品名（例） | オルテクサー口腔用軟膏０．１％, トリアムシノロンアセトニドクリーム０．１％「ＴＫ」, トリアムシノロンアセトニドゲル０．１％「ＴＫ」 |
 
 ## 承認適応症（KEGG）
@@ -22,139 +22,62 @@ nav_exclude: true
 
 ## 予測適応症（TxGNN）
 
-以下は TxGNN 知識グラフにより予測された潜在的新適応症です。
+以下は TxGNN モデルにより予測された潜在的新適応症です。スコアが高いほど関連性が高いと予測されています。
 
-| # | 適応症 | ソース | レベル |
+| # | 適応症 | スコア | ソース |
 |---|--------|--------|--------|
-| 1 | exostosis | TxGNN Knowledge Graph | L5 |
-| 2 | localized pagetoid reticulosis | TxGNN Knowledge Graph | L5 |
-| 3 | parapsoriasis | TxGNN Knowledge Graph | L5 |
-| 4 | lupus erythematosus | TxGNN Knowledge Graph | L5 |
-| 5 | bursitis | TxGNN Knowledge Graph | L5 |
-| 6 | mantle cell lymphoma | TxGNN Knowledge Graph | L5 |
-| 7 | sympathetic ophthalmia | TxGNN Knowledge Graph | L5 |
-| 8 | periarthritis | TxGNN Knowledge Graph | L5 |
-| 9 | hereditary angioedema | TxGNN Knowledge Graph | L5 |
-| 10 | asthma | TxGNN Knowledge Graph | L5 |
-| 11 | aspiration pneumonia (disease) | TxGNN Knowledge Graph | L5 |
-| 12 | miliary tuberculosis | TxGNN Knowledge Graph | L5 |
-| 13 | synovitis (disease) | TxGNN Knowledge Graph | L5 |
-| 14 | iris disease | TxGNN Knowledge Graph | L5 |
-| 15 | necrobiosis lipoidica | TxGNN Knowledge Graph | L5 |
-| 16 | lymphoma | TxGNN Knowledge Graph | L5 |
-| 17 | ankylosing spondylitis | TxGNN Knowledge Graph | L5 |
-| 18 | psoriasis | TxGNN Knowledge Graph | L5 |
-| 19 | autoimmune disease | TxGNN Knowledge Graph | L5 |
-| 20 | pulmonary eosinophilia | TxGNN Knowledge Graph | L5 |
-| 21 | inherited isolated adrenal insufficiency due to partial CYP11A1 deficiency | TxGNN Knowledge Graph | L5 |
-| 22 | aphthous stomatitis | TxGNN Knowledge Graph | L5 |
-| 23 | adrenogenital syndrome | TxGNN Knowledge Graph | L5 |
-| 24 | familial glucocorticoid deficiency | TxGNN Knowledge Graph | L5 |
-| 25 | exanthem (disease) | TxGNN Knowledge Graph | L5 |
-| 26 | follicular lymphoma | TxGNN Knowledge Graph | L5 |
-| 27 | intrinsic asthma | TxGNN Knowledge Graph | L5 |
-| 28 | angioedema | TxGNN Knowledge Graph | L5 |
-| 29 | tendinitis | TxGNN Knowledge Graph | L5 |
-| 30 | inherited aplastic anemia | TxGNN Knowledge Graph | L5 |
-| 31 | granuloma annulare | TxGNN Knowledge Graph | L5 |
-| 32 | actinic keratosis (disease) | TxGNN Knowledge Graph | L5 |
-| 33 | dermatitis, atopic | TxGNN Knowledge Graph | L5 |
-| 34 | occupational dermatitis | TxGNN Knowledge Graph | L5 |
-| 35 | precursor T-cell acute lymphoblastic leukemia | TxGNN Knowledge Graph | L5 |
-| 36 | allergic asthma | TxGNN Knowledge Graph | L5 |
-| 37 | canker sore | TxGNN Knowledge Graph | L5 |
-| 38 | pemphigus | TxGNN Knowledge Graph | L5 |
-| 39 | acute lymphoblastic leukemia (disease) | TxGNN Knowledge Graph | L5 |
-| 40 | contact dermatitis | TxGNN Knowledge Graph | L5 |
-| 41 | Addison disease | TxGNN Knowledge Graph | L5 |
-| 42 | fetal erythroblastosis | TxGNN Knowledge Graph | L5 |
-| 43 | acquired thrombocytopenia | TxGNN Knowledge Graph | L5 |
-| 44 | juvenile idiopathic arthritis | TxGNN Knowledge Graph | L5 |
-| 45 | multiple sclerosis | TxGNN Knowledge Graph | L5 |
-| 46 | psoriatic arthritis | TxGNN Knowledge Graph | L5 |
-| 47 | familial adrenal hypoplasia with absent pituitary luteinizing hormone | TxGNN Knowledge Graph | L5 |
-| 48 | chondrocalcinosis | TxGNN Knowledge Graph | L5 |
-| 49 | inflammatory bowel disease | TxGNN Knowledge Graph | L5 |
-| 50 | spondyloarthropathy | TxGNN Knowledge Graph | L5 |
-| 51 | mycosis fungoides and variants | TxGNN Knowledge Graph | L5 |
-| 52 | chronic cutaneous lupus erythematosus | TxGNN Knowledge Graph | L5 |
-| 53 | familial nephrotic syndrome | TxGNN Knowledge Graph | L5 |
-| 54 | heparin-induced thrombocytopenia (disease) | TxGNN Knowledge Graph | L5 |
-| 55 | sarcoidosis | TxGNN Knowledge Graph | L5 |
-| 56 | panuveitis (disease) | TxGNN Knowledge Graph | L5 |
-| 57 | Crohn disease | TxGNN Knowledge Graph | L5 |
-| 58 | skin disease | TxGNN Knowledge Graph | L5 |
-| 59 | Stevens-Johnson syndrome | TxGNN Knowledge Graph | L5 |
-| 60 | juvenile arthritis due to defect in LACC1 | TxGNN Knowledge Graph | L5 |
-| 61 | epicondylitis | TxGNN Knowledge Graph | L5 |
-| 62 | temporal arteritis | TxGNN Knowledge Graph | L5 |
-| 63 | eosinophilic pneumonia | TxGNN Knowledge Graph | L5 |
-| 64 | granulomatous slack skin disease | TxGNN Knowledge Graph | L5 |
-| 65 | acquired angioedema | TxGNN Knowledge Graph | L5 |
-| 66 | brain edema | TxGNN Knowledge Graph | L5 |
-| 67 | pediatric systemic lupus erythematosus | TxGNN Knowledge Graph | L5 |
-| 68 | seborrheic keratosis | TxGNN Knowledge Graph | L5 |
-| 69 | eye disease | TxGNN Knowledge Graph | L5 |
-| 70 | classic Hodgkin lymphoma | TxGNN Knowledge Graph | L5 |
-| 71 | Hodgkins lymphoma | TxGNN Knowledge Graph | L5 |
-| 72 | atopic eczema | TxGNN Knowledge Graph | L5 |
-| 73 | alopecia areata | TxGNN Knowledge Graph | L5 |
-| 74 | systemic lupus erythematosus (disease) | TxGNN Knowledge Graph | L5 |
-| 75 | Hodgkin's paragranuloma | TxGNN Knowledge Graph | L5 |
-| 76 | autoimmune thrombocytopenic | TxGNN Knowledge Graph | L5 |
-| 77 | serum sickness | TxGNN Knowledge Graph | L5 |
-| 78 | humoral hypercalcemia of malignancy | TxGNN Knowledge Graph | L5 |
-| 79 | dermatitis herpetiformis | TxGNN Knowledge Graph | L5 |
-| 80 | lipoid nephrosis | TxGNN Knowledge Graph | L5 |
-| 81 | lymphosarcoma | TxGNN Knowledge Graph | L5 |
-| 82 | disease of orbital region | TxGNN Knowledge Graph | L5 |
-| 83 | classic Hodgkin lymphoma, lymphocyte-rich type | TxGNN Knowledge Graph | L5 |
-| 84 | ciliary body disease | TxGNN Knowledge Graph | L5 |
-| 85 | non-Hodgkin lymphoma | TxGNN Knowledge Graph | L5 |
-| 86 | lymphoma, non-Hodgkin, familial | TxGNN Knowledge Graph | L5 |
-| 87 | rheumatic heart disease | TxGNN Knowledge Graph | L5 |
-| 88 | renin-angiotensin-aldosterone system-blocker-induced angioedema | TxGNN Knowledge Graph | L5 |
-| 89 | adrenocortical insufficiency | TxGNN Knowledge Graph | L5 |
-| 90 | thyroiditis (disease) | TxGNN Knowledge Graph | L5 |
-| 91 | non-histaminic angioedema | TxGNN Knowledge Graph | L5 |
-| 92 | exfoliative dermatitis | TxGNN Knowledge Graph | L5 |
-| 93 | leukemia, lymphocytic, susceptibility to | TxGNN Knowledge Graph | L5 |
-| 94 | seborrheic dermatitis | TxGNN Knowledge Graph | L5 |
-| 95 | adrenal insufficiency | TxGNN Knowledge Graph | L5 |
-| 96 | neurodermatitis | TxGNN Knowledge Graph | L5 |
-| 97 | discoid lupus erythematosus | TxGNN Knowledge Graph | L5 |
-| 98 | erythema multiforme | TxGNN Knowledge Graph | L5 |
-| 99 | pneumonitis | TxGNN Knowledge Graph | L5 |
-| 100 | Diamond-Blackfan anemia | TxGNN Knowledge Graph | L5 |
-| 101 | subacute bursitis | TxGNN Knowledge Graph | L5 |
-| 102 | folliculotropic mycosis fungoides | TxGNN Knowledge Graph | L5 |
-| 103 | X-linked adrenal hypoplasia congenita | TxGNN Knowledge Graph | L5 |
-| 104 | primary cutaneous T-cell non-Hodgkin lymphoma | TxGNN Knowledge Graph | L5 |
-| 105 | lichen disease | TxGNN Knowledge Graph | L5 |
-| 106 | uveitis | TxGNN Knowledge Graph | L5 |
-| 107 | spondyloarthropathy, susceptibility to | TxGNN Knowledge Graph | L5 |
-| 108 | tenosynovitis | TxGNN Knowledge Graph | L5 |
-| 109 | vasomotor rhinitis | TxGNN Knowledge Graph | L5 |
-| 110 | nephrotic syndrome | TxGNN Knowledge Graph | L5 |
-| 111 | obsolete Hodgkin's granuloma | TxGNN Knowledge Graph | L5 |
-| 112 | lichen planus | TxGNN Knowledge Graph | L5 |
-| 113 | acute lymphoblastic/lymphocytic leukemia | TxGNN Knowledge Graph | L5 |
-| 114 | rheumatoid arthritis | TxGNN Knowledge Graph | L5 |
-| 115 | autoimmune hemolytic anemia | TxGNN Knowledge Graph | L5 |
-| 116 | musculoskeletal system disease | TxGNN Knowledge Graph | L5 |
-| 117 | cutaneous candidiasis | TxGNN Knowledge Graph | L5 |
-| 118 | primary cutaneous T-cell lymphoma | TxGNN Knowledge Graph | L5 |
-| 119 | chronic beryllium disease | TxGNN Knowledge Graph | L5 |
-| 120 | chronic primary adrenal insufficiency | TxGNN Knowledge Graph | L5 |
-| 121 | Crohn's colitis | TxGNN Knowledge Graph | L5 |
-| 122 | neoplasm of mature B-cells | TxGNN Knowledge Graph | L5 |
-| 123 | allergic rhinitis | TxGNN Knowledge Graph | L5 |
-| 124 | keloid | TxGNN Knowledge Graph | L5 |
-| 125 | keloid formation | TxGNN Knowledge Graph | L5 |
-| 126 | Langerhans cell histiocytosis | TxGNN Knowledge Graph | L5 |
-| 127 | B-cell neoplasm | TxGNN Knowledge Graph | L5 |
-| 128 | congenital adrenal hyperplasia | TxGNN Knowledge Graph | L5 |
-| 129 | gout | TxGNN Knowledge Graph | L5 |
+| 1 | rheumatic heart disease | 99% | DL |
+| 2 | necrobiosis lipoidica | 99% | DL |
+| 3 | miliary tuberculosis | 99% | DL |
+| 4 | adrenocortical insufficiency | 99% | DL |
+| 5 | nephrotic syndrome | 99% | DL |
+| 6 | heparin-induced thrombocytopenia (disease) | 99% | DL |
+| 7 | autoimmune hemolytic anemia | 99% | DL |
+| 8 | Addison disease | 99% | DL |
+| 9 | inherited isolated adrenal insufficiency due to partial CYP11A1 deficiency | 99% | DL |
+| 10 | mantle cell lymphoma | 99% | DL |
+| 11 | subacute bursitis | 99% | DL |
+| 12 | acquired thrombocytopenia | 99% | DL |
+| 13 | alopecia areata | 99% | DL |
+| 14 | tenosynovitis | 99% | DL |
+| 15 | epicondylitis | 99% | DL |
+| 16 | granulomatous slack skin disease | 99% | DL |
+| 17 | familial adrenal hypoplasia with absent pituitary luteinizing hormone | 99% | DL |
+| 18 | Stevens-Johnson syndrome | 99% | DL |
+| 19 | alopecia mucinosa | 99% | DL |
+| 20 | telogen effluvium | 99% | DL |
+| 21 | Quinquaud's folliculitis decalvans | 99% | DL |
+| 22 | alopecia antibody deficiency | 99% | DL |
+| 23 | hereditary hypotrichosis with recurrent skin vesicles | 99% | DL |
+| 24 | alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome | 99% | DL |
+| 25 | atrichia with papular lesions | 99% | DL |
+| 26 | idiopathic steroid-sensitive nephrotic syndrome | 99% | DL |
+| 27 | alopecia universalis onychodystrophy vitiligo | 99% | DL |
+| 28 | sporadic idiopathic steroid-resistant nephrotic syndrome | 99% | DL |
+| 29 | PAGOD syndrome | 99% | DL |
+| 30 | 46,XY disorder of sex development | 99% | DL |
+| 31 | disorder of GPI anchor biosynthesis | 99% | DL |
+| 32 | acquired aplastic anemia | 99% | DL |
+| 33 | hemoglobinuria | 99% | DL |
+| 34 | Stevens-Johnson syndrome/toxic epidermal necrolysis overlap syndrome | 99% | DL |
+| 35 | persistent polyclonal B-cell lymphocytosis | 99% | DL |
+| 36 | autoimmune myocarditis | 99% | DL |
+| 37 | adrenomyodystrophy | 99% | DL |
+| 38 | primary hypereosinophilic syndrome | 99% | DL |
+| 39 | nephrotic syndrome of childhood - steroid sensitive | 99% | DL |
+| 40 | lipoid nephrosis | 98% | DL |
+| 41 | acute lymphoblastic leukemia (disease) | 98% | DL |
+| 42 | ankylosing spondylitis | 98% | DL |
+| 43 | gout | 98% | DL |
+| 44 | familial glucocorticoid deficiency | 98% | DL |
+| 45 | Crohn's colitis | 98% | DL |
+| 46 | spondyloarthropathy, susceptibility to | 98% | DL |
+| 47 | eosinophilic pneumonia | 98% | DL |
+| 48 | fetal erythroblastosis | 98% | DL |
+| 49 | chronic primary adrenal insufficiency | 98% | DL |
+| 50 | pemphigus | 98% | DL |
+
+*（上位50件を表示。全100件の予測があります）*
 
 ## 免責事項
 

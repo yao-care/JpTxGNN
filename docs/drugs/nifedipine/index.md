@@ -13,7 +13,7 @@ nav_exclude: true
 |------|-----|
 | DrugBank ID | [DB01115](https://go.drugbank.com/drugs/DB01115) |
 | エビデンスレベル | L5（計算予測のみ） |
-| 予測適応症数 | 3 |
+| 予測適応症数 | 5 |
 | 日本商品名（例） | アダラートＣＲ錠１０ｍｇ, アダラートＣＲ錠２０ｍｇ, アダラートＣＲ錠２０ｍｇ（選） |
 
 ## 承認適応症（KEGG）
@@ -22,13 +22,15 @@ nav_exclude: true
 
 ## 予測適応症（TxGNN）
 
-以下は TxGNN 知識グラフにより予測された潜在的新適応症です。
+以下は TxGNN モデルにより予測された潜在的新適応症です。スコアが高いほど関連性が高いと予測されています。
 
-| # | 適応症 | ソース | レベル |
+| # | 適応症 | スコア | ソース |
 |---|--------|--------|--------|
-| 1 | Prinzmetal angina | TxGNN Knowledge Graph | L5 |
-| 2 | hypertension | TxGNN Knowledge Graph | L5 |
-| 3 | hypertensive disorder | TxGNN Knowledge Graph | L5 |
+| 1 | Prinzmetal angina | 93% | DL |
+| 2 | migraine with brainstem aura | 92% | DL |
+| 3 | migraine disorder | 91% | DL |
+| 4 | hypertensive disorder | 69% | DL |
+| 5 | hypertension | 2% | DL |
 
 ## 免責事項
 

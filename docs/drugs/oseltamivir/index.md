@@ -13,17 +13,26 @@ nav_exclude: true
 |------|-----|
 | DrugBank ID | [DB00198](https://go.drugbank.com/drugs/DB00198) |
 | エビデンスレベル | L5（計算予測のみ） |
-| 予測適応症数 | 2 |
+| 予測適応症数 | 11 |
 | 日本商品名（例） | オセルタミビルカプセル７５ｍｇ「サワイ」, オセルタミビル錠７５ｍｇ「トーワ」, オセルタミビルＤＳ３％「サワイ」 |
 
 ## 予測適応症（TxGNN）
 
-以下は TxGNN 知識グラフにより予測された潜在的新適応症です。
+以下は TxGNN モデルにより予測された潜在的新適応症です。スコアが高いほど関連性が高いと予測されています。
 
-| # | 適応症 | ソース | レベル |
+| # | 適応症 | スコア | ソース |
 |---|--------|--------|--------|
-| 1 | influenza | TxGNN Knowledge Graph | L5 |
-| 2 | influenza, severe, susceptibility to | TxGNN Knowledge Graph | L5 |
+| 1 | influenza, severe, susceptibility to | 98% | DL |
+| 2 | pyelonephritis | 97% | DL |
+| 3 | disorder of tyrosine metabolism | 96% | DL |
+| 4 | teratogenic Pierre Robin syndrome | 96% | DL |
+| 5 | disorder of phenylalanine metabolism | 95% | DL |
+| 6 | tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuria | 95% | DL |
+| 7 | staphylococcus aureus infection | 95% | DL |
+| 8 | cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency | 93% | DL |
+| 9 | pneumonia | 92% | DL |
+| 10 | influenza | 90% | DL |
+| 11 | streptococcal pneumonia | 90% | DL |
 
 ## 免責事項
 

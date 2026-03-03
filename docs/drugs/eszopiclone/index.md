@@ -13,7 +13,7 @@ nav_exclude: true
 |------|-----|
 | DrugBank ID | [DB00402](https://go.drugbank.com/drugs/DB00402) |
 | エビデンスレベル | L5（計算予測のみ） |
-| 予測適応症数 | 1 |
+| 予測適応症数 | 2 |
 | 日本商品名（例） | エスゾピクロン錠１ｍｇ「アメル」, エスゾピクロン錠１ｍｇ「ケミファ」, エスゾピクロン錠１ｍｇ「サワイ」 |
 
 ## 承認適応症（KEGG）
@@ -22,11 +22,12 @@ nav_exclude: true
 
 ## 予測適応症（TxGNN）
 
-以下は TxGNN 知識グラフにより予測された潜在的新適応症です。
+以下は TxGNN モデルにより予測された潜在的新適応症です。スコアが高いほど関連性が高いと予測されています。
 
-| # | 適応症 | ソース | レベル |
+| # | 適応症 | スコア | ソース |
 |---|--------|--------|--------|
-| 1 | insomnia (disease) | TxGNN Knowledge Graph | L5 |
+| 1 | insomnia (disease) | 99% | DL |
+| 2 | sleep disorder, initiating and maintaining sleep | 97% | DL |
 
 ## 免責事項
 

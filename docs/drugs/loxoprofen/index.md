@@ -13,16 +13,20 @@ nav_exclude: true
 |------|-----|
 | DrugBank ID | [DB09212](https://go.drugbank.com/drugs/DB09212) |
 | エビデンスレベル | L5（計算予測のみ） |
-| 予測適応症数 | 1 |
+| 予測適応症数 | 5 |
 | 日本商品名（例） | ロキソニンゲル１％, ロキソニンゲル１％（選）, ロキソニン錠６０ｍｇ |
 
 ## 予測適応症（TxGNN）
 
-以下は TxGNN 知識グラフにより予測された潜在的新適応症です。
+以下は TxGNN モデルにより予測された潜在的新適応症です。スコアが高いほど関連性が高いと予測されています。
 
-| # | 適応症 | ソース | レベル |
+| # | 適応症 | スコア | ソース |
 |---|--------|--------|--------|
-| 1 | rheumatoid arthritis | TxGNN Knowledge Graph | L5 |
+| 1 | rheumatoid arthritis | 99% | DL |
+| 2 | colobomatous microphthalmia-rhizomelic dysplasia syndrome | 99% | DL |
+| 3 | brachydactyly-syndactyly syndrome | 99% | DL |
+| 4 | osteoarthritis susceptibility | 96% | DL |
+| 5 | heparin cofactor 2 deficiency | 91% | DL |
 
 ## 免責事項
 

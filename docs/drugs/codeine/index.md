@@ -13,22 +13,40 @@ nav_exclude: true
 |------|-----|
 | DrugBank ID | [DB00318](https://go.drugbank.com/drugs/DB00318) |
 | エビデンスレベル | L5（計算予測のみ） |
-| 予測適応症数 | 7 |
+| 予測適応症数 | 25 |
 | 日本商品名（例） | クロフェドリンＳ配合シロップ, フスコデ配合シロップ, ムコブロチン配合シロップ |
 
 ## 予測適応症（TxGNN）
 
-以下は TxGNN 知識グラフにより予測された潜在的新適応症です。
+以下は TxGNN モデルにより予測された潜在的新適応症です。スコアが高いほど関連性が高いと予測されています。
 
-| # | 適応症 | ソース | レベル |
+| # | 適応症 | スコア | ソース |
 |---|--------|--------|--------|
-| 1 | vasomotor rhinitis | TxGNN Knowledge Graph | L5 |
-| 2 | nasopharyngitis | TxGNN Knowledge Graph | L5 |
-| 3 | common cold | TxGNN Knowledge Graph | L5 |
-| 4 | headache disorder | TxGNN Knowledge Graph | L5 |
-| 5 | rhinitis | TxGNN Knowledge Graph | L5 |
-| 6 | pharyngitis | TxGNN Knowledge Graph | L5 |
-| 7 | allergic rhinitis | TxGNN Knowledge Graph | L5 |
+| 1 | pharyngitis | 99% | DL |
+| 2 | common cold | 99% | DL |
+| 3 | headache disorder | 99% | DL |
+| 4 | nasal cavity disease | 99% | DL |
+| 5 | acute laryngopharyngitis | 99% | DL |
+| 6 | trigeminal autonomic cephalalgia | 99% | DL |
+| 7 | allergic urticaria | 99% | DL |
+| 8 | nasopharyngitis | 98% | DL |
+| 9 | faucial diphtheria | 97% | DL |
+| 10 | cervical disc degenerative disorder | 97% | DL |
+| 11 | papillary conjunctivitis | 97% | DL |
+| 12 | tracheal disease | 95% | DL |
+| 13 | cold urticaria | 94% | DL |
+| 14 | bronchial disease | 93% | DL |
+| 15 | rhinitis | 92% | DL |
+| 16 | endobronchial leiomyoma | 92% | DL |
+| 17 | endobronchial lipoma | 92% | DL |
+| 18 | bronchus adenoma | 92% | DL |
+| 19 | massive neonatal aspiration syndrome | 92% | DL |
+| 20 | hantavirus infectious disease | 91% | DL |
+| 21 | respiratory syncytial virus bronchiolitis | 91% | DL |
+| 22 | lung disease | 90% | DL |
+| 23 | meconium aspiration syndrome | 90% | DL |
+| 24 | vasomotor rhinitis | 2% | DL |
+| 25 | allergic rhinitis | 0% | DL |
 
 ## 免責事項
 

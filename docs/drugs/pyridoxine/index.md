@@ -13,7 +13,7 @@ nav_exclude: true
 |------|-----|
 | DrugBank ID | [DB00165](https://go.drugbank.com/drugs/DB00165) |
 | エビデンスレベル | L5（計算予測のみ） |
-| 予測適応症数 | 1 |
+| 予測適応症数 | 6 |
 | 日本商品名（例） | ビタミンＢ６錠３０ｍｇ「Ｆ」 |
 
 ## 承認適応症（KEGG）
@@ -22,11 +22,16 @@ nav_exclude: true
 
 ## 予測適応症（TxGNN）
 
-以下は TxGNN 知識グラフにより予測された潜在的新適応症です。
+以下は TxGNN モデルにより予測された潜在的新適応症です。スコアが高いほど関連性が高いと予測されています。
 
-| # | 適応症 | ソース | レベル |
+| # | 適応症 | スコア | ソース |
 |---|--------|--------|--------|
-| 1 | pyridoxine deficiency anemia | TxGNN Knowledge Graph | L5 |
+| 1 | Ureaplasma urethritis | 93% | DL |
+| 2 | gonococcal urethritis | 93% | DL |
+| 3 | urinary tract infection (disease) | 93% | DL |
+| 4 | uterine inflammatory disease | 92% | DL |
+| 5 | xanthogranulomatous pyelonephritis | 92% | DL |
+| 6 | pyridoxine deficiency anemia | 84% | DL |
 
 ## 免責事項
 

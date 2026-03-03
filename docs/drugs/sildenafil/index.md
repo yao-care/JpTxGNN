@@ -13,7 +13,7 @@ nav_exclude: true
 |------|-----|
 | DrugBank ID | [DB00203](https://go.drugbank.com/drugs/DB00203) |
 | エビデンスレベル | L5（計算予測のみ） |
-| 予測適応症数 | 4 |
+| 予測適応症数 | 11 |
 | 日本商品名（例） | シルデナフィル錠２０ｍｇＲＥ「ＪＧ」, レバチオ錠２０ｍｇ, レバチオＯＤフィルム２０ｍｇ |
 
 ## 承認適応症（KEGG）
@@ -22,14 +22,21 @@ nav_exclude: true
 
 ## 予測適応症（TxGNN）
 
-以下は TxGNN 知識グラフにより予測された潜在的新適応症です。
+以下は TxGNN モデルにより予測された潜在的新適応症です。スコアが高いほど関連性が高いと予測されています。
 
-| # | 適応症 | ソース | レベル |
+| # | 適応症 | スコア | ソース |
 |---|--------|--------|--------|
-| 1 | pulmonary arterial hypertension | TxGNN Knowledge Graph | L5 |
-| 2 | psychologic dyspareunia | TxGNN Knowledge Graph | L5 |
-| 3 | premature ejaculation (disease) | TxGNN Knowledge Graph | L5 |
-| 4 | erectile dysfunction (disease) | TxGNN Knowledge Graph | L5 |
+| 1 | Ambras type hypertrichosis universalis congenita | 98% | DL |
+| 2 | malformation syndrome with odontal and/or periodontal component | 98% | DL |
+| 3 | syndrome with a Dandy-Walker malformation as major feature | 98% | DL |
+| 4 | isolated genetic hair shaft abnormality | 97% | DL |
+| 5 | hypertrichosis (disease) | 97% | DL |
+| 6 | homozygous familial hypercholesterolemia | 93% | DL |
+| 7 | hypoalphalipoproteinemia | 90% | DL |
+| 8 | erectile dysfunction (disease) | 50% | DL |
+| 9 | premature ejaculation (disease) | 11% | DL |
+| 10 | psychologic dyspareunia | 10% | DL |
+| 11 | pulmonary arterial hypertension | 64% | DL |
 
 ## 免責事項
 

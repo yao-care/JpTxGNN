@@ -13,7 +13,7 @@ nav_exclude: true
 |------|-----|
 | DrugBank ID | [DB00820](https://go.drugbank.com/drugs/DB00820) |
 | エビデンスレベル | L5（計算予測のみ） |
-| 予測適応症数 | 5 |
+| 予測適応症数 | 44 |
 | 日本商品名（例） | アドシルカ錠２０ｍｇ, アドシルカ錠２０ｍｇ（選）, ザルティア錠２．５ｍｇ |
 
 ## 承認適応症（KEGG）
@@ -22,15 +22,54 @@ nav_exclude: true
 
 ## 予測適応症（TxGNN）
 
-以下は TxGNN 知識グラフにより予測された潜在的新適応症です。
+以下は TxGNN モデルにより予測された潜在的新適応症です。スコアが高いほど関連性が高いと予測されています。
 
-| # | 適応症 | ソース | レベル |
+| # | 適応症 | スコア | ソース |
 |---|--------|--------|--------|
-| 1 | psychologic dyspareunia | TxGNN Knowledge Graph | L5 |
-| 2 | benign prostatic hyperplasia (disease) | TxGNN Knowledge Graph | L5 |
-| 3 | erectile dysfunction (disease) | TxGNN Knowledge Graph | L5 |
-| 4 | premature ejaculation (disease) | TxGNN Knowledge Graph | L5 |
-| 5 | pulmonary hypertension | TxGNN Knowledge Graph | L5 |
+| 1 | benign prostatic hyperplasia (disease) | 99% | DL |
+| 2 | Ambras type hypertrichosis universalis congenita | 99% | DL |
+| 3 | hypertrichosis (disease) | 99% | DL |
+| 4 | malformation syndrome with odontal and/or periodontal component | 99% | DL |
+| 5 | syndrome with a Dandy-Walker malformation as major feature | 99% | DL |
+| 6 | isolated genetic hair shaft abnormality | 99% | DL |
+| 7 | familial isolated trichomegaly | 99% | DL |
+| 8 | pulmonary hypertension | 99% | DL |
+| 9 | kyphoscoliotic heart disease | 99% | DL |
+| 10 | migraine with brainstem aura | 99% | DL |
+| 11 | migraine disorder | 98% | DL |
+| 12 | hypotrichosis simplex of the scalp | 98% | DL |
+| 13 | Raynaud disease | 98% | DL |
+| 14 | congenital hypotrichosis milia | 98% | DL |
+| 15 | alopecia | 98% | DL |
+| 16 | diffuse alopecia areata | 98% | DL |
+| 17 | genetic alopecia | 98% | DL |
+| 18 | familial clubfoot due to 17q23.1q23.2 microduplication | 97% | DL |
+| 19 | obsolete patella aplasia, coxa vara, and tarsal synostosis | 97% | DL |
+| 20 | pulmonary hypertension, primary, autosomal recessive | 97% | DL |
+| 21 | prostate calculus | 97% | DL |
+| 22 | obsolete susceptibility to ischemic stroke | 97% | DL |
+| 23 | pseudopelade of Brocq | 97% | DL |
+| 24 | 16q24.1 microdeletion syndrome | 97% | DL |
+| 25 | isolated pulmonary capillaritis | 97% | DL |
+| 26 | primary interstitial lung disease specific to childhood | 97% | DL |
+| 27 | coxopodopatellar syndrome | 97% | DL |
+| 28 | chromosome 17q23.1-q23.2 deletion syndrome | 97% | DL |
+| 29 | hypoalphalipoproteinemia | 96% | DL |
+| 30 | congenital pulmonary lymphangiectasia | 96% | DL |
+| 31 | cerebrovascular disorder | 96% | DL |
+| 32 | amenorrhea (disease) | 94% | DL |
+| 33 | congenital alveolar capillary dysplasia | 94% | DL |
+| 34 | stroke disorder | 94% | DL |
+| 35 | cor pulmonale | 94% | DL |
+| 36 | spinal cord ischemia | 93% | DL |
+| 37 | ABri amyloidosis | 92% | DL |
+| 38 | pulmonary hypertension, primary | 92% | DL |
+| 39 | idiopathic pulmonary arterial hypertension | 91% | DL |
+| 40 | peripheral vascular disease | 90% | DL |
+| 41 | pulmonary arterial hypertension | 90% | DL |
+| 42 | erectile dysfunction (disease) | 63% | DL |
+| 43 | premature ejaculation (disease) | 6% | DL |
+| 44 | psychologic dyspareunia | 4% | DL |
 
 ## 免責事項
 

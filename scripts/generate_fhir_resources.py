@@ -275,29 +275,29 @@ def main():
     (output_dir / "Bundle").mkdir(parents=True, exist_ok=True)
 
     # リソースを生成
-    all_resources = []
+    medication_resources = []
     total_indications = 0
 
     for drug in drugs:
         # MedicationKnowledge を作成
         med_knowledge = create_medication_knowledge(drug, base_url)
-        all_resources.append(med_knowledge)
+        medication_resources.append(med_knowledge)
 
         # MedicationKnowledge を保存
         output_file = output_dir / "MedicationKnowledge" / f"{drug['slug']}.json"
         with open(output_file, "w", encoding="utf-8") as f:
             json.dump(med_knowledge, f, ensure_ascii=False, indent=2)
 
-        # 各適応症の ClinicalUseDefinition を作成
-        for indication in drug.get("indications", []):
+        # 各適応症の ClinicalUseDefinition を作成（上位10件のみファイル保存）
+        for i, indication in enumerate(drug.get("indications", [])):
             clinical_use = create_clinical_use_definition(drug, indication, base_url)
-            all_resources.append(clinical_use)
             total_indications += 1
 
-            # ClinicalUseDefinition を保存
-            output_file = output_dir / "ClinicalUseDefinition" / f"{clinical_use['id']}.json"
-            with open(output_file, "w", encoding="utf-8") as f:
-                json.dump(clinical_use, f, ensure_ascii=False, indent=2)
+            # 上位10件のみファイルとして保存（容量削減）
+            if i < 10:
+                output_file = output_dir / "ClinicalUseDefinition" / f"{clinical_use['id']}.json"
+                with open(output_file, "w", encoding="utf-8") as f:
+                    json.dump(clinical_use, f, ensure_ascii=False, indent=2)
 
     print(f"{len(drugs)} MedicationKnowledge リソースを生成")
     print(f"{total_indications} ClinicalUseDefinition リソースを生成")
@@ -308,11 +308,11 @@ def main():
         json.dump(capability, f, ensure_ascii=False, indent=2)
     print("CapabilityStatement (metadata) を生成")
 
-    # 全リソースを含む Bundle を作成
-    bundle = create_bundle(all_resources, base_url)
+    # MedicationKnowledge のみを含む Bundle を作成（軽量版）
+    bundle = create_bundle(medication_resources, base_url)
     with open(output_dir / "Bundle" / "all-predictions.json", "w", encoding="utf-8") as f:
         json.dump(bundle, f, ensure_ascii=False, indent=2)
-    print(f"{len(all_resources)} リソースを含む Bundle を生成")
+    print(f"{len(medication_resources)} MedicationKnowledge を含む Bundle を生成")
 
     print(f"\nFHIR リソースの生成完了: {output_dir}")
 

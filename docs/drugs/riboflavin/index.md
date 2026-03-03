@@ -13,7 +13,7 @@ nav_exclude: true
 |------|-----|
 | DrugBank ID | [DB00140](https://go.drugbank.com/drugs/DB00140) |
 | エビデンスレベル | L5（計算予測のみ） |
-| 予測適応症数 | 1 |
+| 予測適応症数 | 2 |
 | 日本商品名（例） | ハイボン錠２０ｍｇ, ハイボン錠２０ｍｇ（選）, リボフラビン酪酸エステル細粒１０％「ツルハラ」 |
 
 ## 承認適応症（KEGG）
@@ -22,11 +22,12 @@ nav_exclude: true
 
 ## 予測適応症（TxGNN）
 
-以下は TxGNN 知識グラフにより予測された潜在的新適応症です。
+以下は TxGNN モデルにより予測された潜在的新適応症です。スコアが高いほど関連性が高いと予測されています。
 
-| # | 適応症 | ソース | レベル |
+| # | 適応症 | スコア | ソース |
 |---|--------|--------|--------|
-| 1 | vitamin deficiency disorder | TxGNN Knowledge Graph | L5 |
+| 1 | biotin metabolic disease | 94% | DL |
+| 2 | vitamin deficiency disorder | 93% | DL |
 
 ## 免責事項
 

@@ -13,7 +13,7 @@ nav_exclude: true
 |------|-----|
 | DrugBank ID | [DB00678](https://go.drugbank.com/drugs/DB00678) |
 | エビデンスレベル | L5（計算予測のみ） |
-| 予測適応症数 | 3 |
+| 予測適応症数 | 20 |
 | 日本商品名（例） | ニューロタン錠１００ｍｇ, ニューロタン錠１００ｍｇ（選）, ニューロタン錠２５ｍｇ |
 
 ## 承認適応症（KEGG）
@@ -22,13 +22,30 @@ nav_exclude: true
 
 ## 予測適応症（TxGNN）
 
-以下は TxGNN 知識グラフにより予測された潜在的新適応症です。
+以下は TxGNN モデルにより予測された潜在的新適応症です。スコアが高いほど関連性が高いと予測されています。
 
-| # | 適応症 | ソース | レベル |
+| # | 適応症 | スコア | ソース |
 |---|--------|--------|--------|
-| 1 | diabetic nephropathy | TxGNN Knowledge Graph | L5 |
-| 2 | hypertension | TxGNN Knowledge Graph | L5 |
-| 3 | hypertensive disorder | TxGNN Knowledge Graph | L5 |
+| 1 | hypertensive disorder | 99% | DL |
+| 2 | malignant hypertensive renal disease | 99% | DL |
+| 3 | malignant renovascular hypertension | 99% | DL |
+| 4 | pulmonary hypertension owing to lung disease and/or hypoxia | 99% | DL |
+| 5 | pulmonary hypertension with unclear multifactorial mechanism | 99% | DL |
+| 6 | Braddock syndrome | 99% | DL |
+| 7 | Prinzmetal angina | 99% | DL |
+| 8 | autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome | 99% | DL |
+| 9 | brain small vessel disease 1 with or without ocular anomalies | 99% | DL |
+| 10 | diabetic nephropathy | 98% | DL |
+| 11 | chronic pulmonary heart disease | 98% | DL |
+| 12 | intracerebral hemorrhage | 97% | DL |
+| 13 | obsolete susceptibility to ischemic stroke | 97% | DL |
+| 14 | brain stem infarction | 97% | DL |
+| 15 | cerebral infarction | 96% | DL |
+| 16 | cerebral arterial disease | 93% | DL |
+| 17 | cerebral artery occlusion | 93% | DL |
+| 18 | MRI defined brain infarct | 91% | DL |
+| 19 | cerebrovascular disorder | 90% | DL |
+| 20 | hypertension | 5% | DL |
 
 ## 免責事項
 

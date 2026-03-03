@@ -76,17 +76,20 @@ nav_exclude: true
     content += f"""
 ## 予測適応症（TxGNN）
 
-以下は TxGNN 知識グラフにより予測された潜在的新適応症です。
+以下は TxGNN モデルにより予測された潜在的新適応症です。スコアが高いほど関連性が高いと予測されています。
 
-| # | 適応症 | ソース | レベル |
+| # | 適応症 | スコア | ソース |
 |---|--------|--------|--------|
 """
 
-    for i, ind in enumerate(indications, 1):
+    for i, ind in enumerate(indications[:50], 1):  # Limit to top 50
         ind_name = ind.get("name", "")
-        ind_source = ind.get("source", "TxGNN")
-        ind_level = ind.get("level", "L5")
-        content += f"| {i} | {ind_name} | {ind_source} | {ind_level} |\n"
+        ind_score = ind.get("score", 50)
+        ind_source = "DL" if "Deep Learning" in ind.get("source", "") else "KG"
+        content += f"| {i} | {ind_name} | {ind_score}% | {ind_source} |\n"
+
+    if len(indications) > 50:
+        content += f"\n*（上位50件を表示。全{len(indications)}件の予測があります）*\n"
 
     content += """
 ## 免責事項

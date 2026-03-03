@@ -13,7 +13,7 @@ nav_exclude: true
 |------|-----|
 | DrugBank ID | [DB00999](https://go.drugbank.com/drugs/DB00999) |
 | エビデンスレベル | L5（計算予測のみ） |
-| 予測適応症数 | 3 |
+| 予測適応症数 | 11 |
 | 日本商品名（例） | エカード配合錠ＨＤ, エカード配合錠ＨＤ（選）, エカード配合錠ＬＤ |
 
 ## 承認適応症（KEGG）
@@ -22,13 +22,21 @@ nav_exclude: true
 
 ## 予測適応症（TxGNN）
 
-以下は TxGNN 知識グラフにより予測された潜在的新適応症です。
+以下は TxGNN モデルにより予測された潜在的新適応症です。スコアが高いほど関連性が高いと予測されています。
 
-| # | 適応症 | ソース | レベル |
+| # | 適応症 | スコア | ソース |
 |---|--------|--------|--------|
-| 1 | congestive heart failure | TxGNN Knowledge Graph | L5 |
-| 2 | hypertension | TxGNN Knowledge Graph | L5 |
-| 3 | hypertensive disorder | TxGNN Knowledge Graph | L5 |
+| 1 | hypertensive disorder | 98% | DL |
+| 2 | malignant hypertensive renal disease | 98% | DL |
+| 3 | malignant renovascular hypertension | 98% | DL |
+| 4 | pulmonary hypertension owing to lung disease and/or hypoxia | 98% | DL |
+| 5 | pulmonary hypertension with unclear multifactorial mechanism | 98% | DL |
+| 6 | Braddock syndrome | 97% | DL |
+| 7 | chronic pulmonary heart disease | 97% | DL |
+| 8 | congestive heart failure | 93% | DL |
+| 9 | acute pulmonary heart disease | 93% | DL |
+| 10 | primary hereditary glaucoma | 90% | DL |
+| 11 | hypertension | 16% | DL |
 
 ## 免責事項
 

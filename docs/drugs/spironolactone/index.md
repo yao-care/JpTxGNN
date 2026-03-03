@@ -13,7 +13,7 @@ nav_exclude: true
 |------|-----|
 | DrugBank ID | [DB00421](https://go.drugbank.com/drugs/DB00421) |
 | エビデンスレベル | L5（計算予測のみ） |
-| 予測適応症数 | 7 |
+| 予測適応症数 | 16 |
 | 日本商品名（例） | アルダクトンＡ錠２５ｍｇ, アルダクトンＡ錠２５ｍｇ（選）, アルダクトンＡ錠５０ｍｇ |
 
 ## 承認適応症（KEGG）
@@ -22,17 +22,26 @@ nav_exclude: true
 
 ## 予測適応症（TxGNN）
 
-以下は TxGNN 知識グラフにより予測された潜在的新適応症です。
+以下は TxGNN モデルにより予測された潜在的新適応症です。スコアが高いほど関連性が高いと予測されています。
 
-| # | 適応症 | ソース | レベル |
+| # | 適応症 | スコア | ソース |
 |---|--------|--------|--------|
-| 1 | hypertension | TxGNN Knowledge Graph | L5 |
-| 2 | hypertensive disorder | TxGNN Knowledge Graph | L5 |
-| 3 | primary aldosteronism | TxGNN Knowledge Graph | L5 |
-| 4 | hyperaldosteronism | TxGNN Knowledge Graph | L5 |
-| 5 | Waterhouse-Friderichsen syndrome | TxGNN Knowledge Graph | L5 |
-| 6 | congestive heart failure | TxGNN Knowledge Graph | L5 |
-| 7 | Bartter disease | TxGNN Knowledge Graph | L5 |
+| 1 | hypotrichosis simplex of the scalp | 99% | DL |
+| 2 | congenital hypotrichosis milia | 99% | DL |
+| 3 | diffuse alopecia areata | 98% | DL |
+| 4 | hypertensive disorder | 97% | DL |
+| 5 | alopecia | 97% | DL |
+| 6 | malignant hypertensive renal disease | 97% | DL |
+| 7 | malignant renovascular hypertension | 97% | DL |
+| 8 | pulmonary hypertension owing to lung disease and/or hypoxia | 97% | DL |
+| 9 | pulmonary hypertension with unclear multifactorial mechanism | 97% | DL |
+| 10 | Braddock syndrome | 96% | DL |
+| 11 | chronic pulmonary heart disease | 95% | DL |
+| 12 | Waterhouse-Friderichsen syndrome | 85% | DL |
+| 13 | congestive heart failure | 74% | DL |
+| 14 | primary aldosteronism | 35% | DL |
+| 15 | hyperaldosteronism | 28% | DL |
+| 16 | Bartter disease | 15% | DL |
 
 ## 免責事項
 

@@ -13,25 +13,47 @@ nav_exclude: true
 |------|-----|
 | DrugBank ID | [DB00715](https://go.drugbank.com/drugs/DB00715) |
 | エビデンスレベル | L5（計算予測のみ） |
-| 予測適応症数 | 10 |
+| 予測適応症数 | 32 |
 | 日本商品名（例） | パロキセチン塩酸塩１０ｍｇ錠, パロキセチン塩酸塩２０ｍｇ錠, パロキセチン塩酸塩５ｍｇ錠 |
 
 ## 予測適応症（TxGNN）
 
-以下は TxGNN 知識グラフにより予測された潜在的新適応症です。
+以下は TxGNN モデルにより予測された潜在的新適応症です。スコアが高いほど関連性が高いと予測されています。
 
-| # | 適応症 | ソース | レベル |
+| # | 適応症 | スコア | ソース |
 |---|--------|--------|--------|
-| 1 | anxiety disorder | TxGNN Knowledge Graph | L5 |
-| 2 | unipolar depression | TxGNN Knowledge Graph | L5 |
-| 3 | obsessive-compulsive disorder | TxGNN Knowledge Graph | L5 |
-| 4 | social phobia | TxGNN Knowledge Graph | L5 |
-| 5 | neurotic disorder | TxGNN Knowledge Graph | L5 |
-| 6 | phobic disorder | TxGNN Knowledge Graph | L5 |
-| 7 | endogenous depression | TxGNN Knowledge Graph | L5 |
-| 8 | major depressive disorder | TxGNN Knowledge Graph | L5 |
-| 9 | dysthymic disorder | TxGNN Knowledge Graph | L5 |
-| 10 | post-traumatic stress disorder | TxGNN Knowledge Graph | L5 |
+| 1 | dysthymic disorder | 99% | DL |
+| 2 | major depressive disorder | 99% | DL |
+| 3 | endogenous depression | 99% | DL |
+| 4 | Ohdo syndrome and variants | 99% | DL |
+| 5 | obsessive-compulsive disorder | 98% | DL |
+| 6 | unipolar depression | 98% | DL |
+| 7 | anxiety disorder | 98% | DL |
+| 8 | melancholia | 98% | DL |
+| 9 | blepharophimosis - intellectual disability syndrome, Ohdo type | 98% | DL |
+| 10 | neurotic depression | 98% | DL |
+| 11 | benign paroxysmal torticollis of infancy | 98% | DL |
+| 12 | agoraphobia | 97% | DL |
+| 13 | schizoid personality disorder | 97% | DL |
+| 14 | histrionic personality disorder (disease) | 97% | DL |
+| 15 | schizotypal personality disorder | 97% | DL |
+| 16 | paranoid personality disorder | 97% | DL |
+| 17 | Keppen-Lubinsky syndrome | 97% | DL |
+| 18 | ligneous conjunctivitis | 97% | DL |
+| 19 | neurotic disorder | 96% | DL |
+| 20 | congenital isolated adrenocorticotropic hormone deficiency (disease) | 96% | DL |
+| 21 | migraine disorder | 96% | DL |
+| 22 | migraine with brainstem aura | 96% | DL |
+| 23 | phobic disorder | 95% | DL |
+| 24 | autosomal dominant slowed nerve conduction velocity | 95% | DL |
+| 25 | myofascial pain syndrome | 94% | DL |
+| 26 | childhood apraxia of speech | 94% | DL |
+| 27 | vitamin B12-responsive methylmalonic acidemia | 94% | DL |
+| 28 | dependent personality disorder | 92% | DL |
+| 29 | avoidant personality disorder | 91% | DL |
+| 30 | narcissistic personality disorder | 90% | DL |
+| 31 | post-traumatic stress disorder | 83% | DL |
+| 32 | social phobia | 0% | DL |
 
 ## 免責事項
 
