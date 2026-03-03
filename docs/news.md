@@ -1,12 +1,47 @@
 ---
-layout: page
+layout: default
 title: 健康ニュース
+nav_order: 3
+description: "ドラッグリポジショニングに関連する最新の健康・医療ニュース"
 permalink: /news/
 ---
 
-# 健康ニュースモニタリング
+# 健康ニュース
 
-JpTxGNN は日本の健康関連ニュースを自動収集し、リポジショニング候補薬との関連を分析します。
+<p class="key-answer" data-question="JpTxGNN の健康ニュースとは？">
+JpTxGNN データベースの医薬品と疾患に関連する最新の健康・医療ニュースを監視しています。ドラッグリポジショニング研究に関連する新しい発見や臨床試験の結果をお届けします。
+</p>
+
+---
+
+## ニュースソース
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1rem; margin: 2rem 0;">
+  <div style="padding: 1rem; background: #f8f9fa; border-radius: 8px; text-align: center;">
+    <div style="font-size: 2rem; margin-bottom: 0.5rem;">📰</div>
+    <strong>医療ニュース</strong>
+    <p style="color: #666; font-size: 0.9rem; margin-top: 0.5rem;">国内外の医療・健康ニュース</p>
+  </div>
+  <div style="padding: 1rem; background: #f8f9fa; border-radius: 8px; text-align: center;">
+    <div style="font-size: 2rem; margin-bottom: 0.5rem;">🔬</div>
+    <strong>研究成果</strong>
+    <p style="color: #666; font-size: 0.9rem; margin-top: 0.5rem;">最新の研究論文と発見</p>
+  </div>
+  <div style="padding: 1rem; background: #f8f9fa; border-radius: 8px; text-align: center;">
+    <div style="font-size: 2rem; margin-bottom: 0.5rem;">💊</div>
+    <strong>臨床試験</strong>
+    <p style="color: #666; font-size: 0.9rem; margin-top: 0.5rem;">進行中の臨床試験情報</p>
+  </div>
+  <div style="padding: 1rem; background: #f8f9fa; border-radius: 8px; text-align: center;">
+    <div style="font-size: 2rem; margin-bottom: 0.5rem;">🏥</div>
+    <strong>規制情報</strong>
+    <p style="color: #666; font-size: 0.9rem; margin-top: 0.5rem;">PMDA・厚労省の発表</p>
+  </div>
+</div>
+
+---
+
+## 最新ニュース
 
 <div id="news-container">
   <div id="news-stats">
@@ -14,31 +49,6 @@ JpTxGNN は日本の健康関連ニュースを自動収集し、リポジショ
   </div>
   <div id="news-list"></div>
 </div>
-
-## ニュースソース
-
-| ソース | 説明 |
-|--------|------|
-| Google News Japan | 健康カテゴリ |
-| Yahoo! Japan ニュース | 科学・ライフカテゴリ |
-
-## キーワードマッチング
-
-収集したニュースは以下のキーワードとマッチングされます：
-
-- **薬物名**: 3,952 種類（英語・日本語）
-- **適応症**: 544 種類（英語・日本語）
-
-## 更新頻度
-
-- ニュース収集: 毎日
-- キーワードマッチング: 毎日
-
-## 免責事項
-
-- ニュースは自動収集されたものであり、内容の正確性を保証しません
-- 医療判断の参考にしないでください
-- 詳細は各ニュースソースの原文を参照してください
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -48,13 +58,11 @@ document.addEventListener('DOMContentLoaded', function() {
   fetch('/data/news-index.json')
     .then(response => response.json())
     .then(data => {
-      // 統計表示
       statsDiv.innerHTML = `
         <p><strong>最終更新:</strong> ${new Date(data.generated).toLocaleString('ja-JP')}</p>
         <p><strong>マッチしたニュース:</strong> ${data.count} 件</p>
       `;
 
-      // ニュース一覧
       if (data.news && data.news.length > 0) {
         let html = '<ul class="news-list">';
         data.news.slice(0, 20).forEach(item => {
@@ -83,12 +91,12 @@ document.addEventListener('DOMContentLoaded', function() {
 
         listDiv.innerHTML = html;
       } else {
-        listDiv.innerHTML = '<p>マッチしたニュースはありません。</p>';
+        listDiv.innerHTML = '<div style="background: #fff3cd; border: 1px solid #ffc107; border-radius: 8px; padding: 16px;"><strong>準備中</strong><br>健康ニュースの自動収集システムは現在開発中です。</div>';
       }
     })
     .catch(err => {
-      statsDiv.innerHTML = '<p>ニュースデータの読み込みに失敗しました。</p>';
-      console.error('Failed to load news index:', err);
+      statsDiv.innerHTML = '';
+      listDiv.innerHTML = '<div style="background: #fff3cd; border: 1px solid #ffc107; border-radius: 8px; padding: 16px;"><strong>準備中</strong><br>健康ニュースの自動収集システムは現在開発中です。</div>';
     });
 });
 </script>
@@ -137,3 +145,49 @@ document.addEventListener('DOMContentLoaded', function() {
   color: #e65100;
 }
 </style>
+
+---
+
+## 関連キーワード
+
+本サイトでは以下のキーワードに関連するニュースを監視予定です：
+
+### 医薬品カテゴリ
+
+- 抗がん剤
+- 免疫抑制剤
+- 循環器用薬
+- 消化器用薬
+- 神経系用薬
+
+### 疾患カテゴリ
+
+- 希少疾患
+- 自己免疫疾患
+- 感染症
+- 代謝疾患
+- 神経変性疾患
+
+---
+
+## ニュース通知
+
+最新のニュースを受け取るには：
+
+<div style="display: flex; gap: 1rem; flex-wrap: wrap; margin: 1rem 0;">
+  <a href="{{ '/feed.xml' | relative_url }}" style="display: inline-flex; align-items: center; gap: 0.5rem; padding: 10px 20px; background: #FF6600; color: white; text-decoration: none; border-radius: 8px;">
+    RSS フィード
+  </a>
+  <a href="https://github.com/yao-care/JpTxGNN" style="display: inline-flex; align-items: center; gap: 0.5rem; padding: 10px 20px; background: #333; color: white; text-decoration: none; border-radius: 8px;">
+    GitHub で Watch
+  </a>
+</div>
+
+---
+
+## 免責事項
+
+<div class="disclaimer">
+<strong>重要なお知らせ</strong><br>
+本ページのニュース情報は参考目的のみで提供されており、医療アドバイスを構成するものではありません。健康上の問題については、必ず医療専門家にご相談ください。
+</div>

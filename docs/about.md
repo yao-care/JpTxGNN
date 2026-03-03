@@ -1,6 +1,9 @@
 ---
-layout: page
-title: プロジェクト概要
+layout: default
+title: プロジェクトについて
+parent: 説明
+nav_order: 3
+description: "JpTxGNN プロジェクトの概要"
 permalink: /about/
 ---
 

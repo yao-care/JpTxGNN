@@ -1,6 +1,9 @@
 ---
-layout: page
-title: 予測手法
+layout: default
+title: 方法論
+parent: 説明
+nav_order: 1
+description: "TxGNN モデルと予測手法の詳細"
 permalink: /methodology/
 ---
 

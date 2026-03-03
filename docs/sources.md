@@ -1,6 +1,9 @@
 ---
-layout: page
+layout: default
 title: データソース
+parent: リソース
+nav_order: 1
+description: "JpTxGNN で使用しているデータソースの説明"
 permalink: /sources/
 ---
 

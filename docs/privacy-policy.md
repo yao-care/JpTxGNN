@@ -1,6 +1,9 @@
 ---
-layout: page
+layout: default
 title: プライバシーポリシー
+parent: 説明
+nav_order: 4
+description: "個人情報の取り扱いについて"
 permalink: /privacy-policy/
 ---
 

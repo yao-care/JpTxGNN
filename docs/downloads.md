@@ -1,6 +1,9 @@
 ---
-layout: page
+layout: default
 title: データダウンロード
+parent: リソース
+nav_order: 2
+description: "JpTxGNN 予測データのダウンロード"
 permalink: /downloads/
 ---
 

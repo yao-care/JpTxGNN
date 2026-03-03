@@ -1,6 +1,9 @@
 ---
-layout: page
+layout: default
 title: 使用ガイド
+parent: 説明
+nav_order: 2
+description: "JpTxGNN の使用方法"
 permalink: /guide/
 ---
 
