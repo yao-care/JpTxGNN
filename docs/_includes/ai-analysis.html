@@ -1,0 +1,124 @@
+<!-- AI 分析按鈕 -->
+<div class="ai-analysis" style="margin: 2rem 0; padding: 1.5rem; background: linear-gradient(135deg, #f3e5f5 0%, #e8eaf6 100%); border-radius: 12px; border: 1px solid #ce93d8;">
+  <div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 1rem;">
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#7B1FA2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M12 2a2 2 0 0 1 2 2c0 .74-.4 1.39-1 1.73V7h1a7 7 0 0 1 7 7h1a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-1v1a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-1H2a1 1 0 0 1-1-1v-3a1 1 0 0 1 1-1h1a7 7 0 0 1 7-7h1V5.73c-.6-.34-1-.99-1-1.73a2 2 0 0 1 2-2z"/>
+      <circle cx="7.5" cy="14.5" r="1.5"/>
+      <circle cx="16.5" cy="14.5" r="1.5"/>
+    </svg>
+    <strong style="font-size: 1.1rem; color: #4A148C;">用 AI 幫我深入分析</strong>
+  </div>
+
+  <p style="color: #666; margin-bottom: 1rem; font-size: 0.95rem;">
+    想進一步了解這個藥物的老藥新用潛力嗎？點擊下方按鈕，直接開啟 AI 助手進行分析。
+  </p>
+
+  <!-- 預設提問（隱藏，供 JS 讀取） -->
+  <div id="ai-prompt-{{ page.title | slugify }}" style="display: none;">我正在研究 {{ page.title }} 的老藥新用潛力。
+
+根據 TwTxGNN 報告（https://twtxgnn.yao.care/drugs/{{ page.title | slugify }}/），這個藥物：
+- 證據等級：{{ page.evidence_level }}
+- 預測適應症數：{{ page.indication_count }} 個
+
+請幫我：
+1. 分析這個預測的合理性（從藥理機轉角度）
+2. 評估目前臨床證據的強度
+3. 建議下一步研究方向
+4. 提醒可能的安全性考量</div>
+
+  <!-- 按鈕區 -->
+  <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; align-items: center;">
+    <!-- Claude -->
+    <button onclick="openClaudeWithPrompt('{{ page.title | slugify }}')"
+            id="claude-btn-{{ page.title | slugify }}"
+            style="display: inline-flex; align-items: center; gap: 0.375rem; padding: 0.6rem 1.2rem; background: #D97706; color: white; border: none; border-radius: 6px; cursor: pointer; font-size: 0.9rem; font-weight: 500; transition: all 0.2s;"
+            onmouseover="this.style.background='#B45309'" onmouseout="this.style.background='#D97706'">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M4.709 15.955l4.72-2.647.08-.23-.08-.128-4.675-2.685a3.31 3.31 0 01-.944-4.827 3.31 3.31 0 014.839-.85l4.078 2.727.142-.142V3.302a3.31 3.31 0 013.31-3.31 3.31 3.31 0 013.31 3.31v5.315l.233.07.126-.08 4.675-2.685a3.31 3.31 0 014.827.944 3.31 3.31 0 01-.85 4.839l-4.078 2.727.047.227h4.222a3.31 3.31 0 013.31 3.31 3.31 3.31 0 01-3.31 3.31h-5.315l-.07.233.08.126 2.685 4.675a3.31 3.31 0 01-.944 4.827 3.31 3.31 0 01-4.839-.85l-2.727-4.078-.227.047v4.222a3.31 3.31 0 01-3.31 3.31 3.31 3.31 0 01-3.31-3.31v-5.315l-.233-.07-.126.08-4.675 2.685a3.31 3.31 0 01-4.827-.944 3.31 3.31 0 01.85-4.839l4.078-2.727-.047-.227H3.31a3.31 3.31 0 01-3.31-3.31 3.31 3.31 0 013.31-3.31h5.315z" transform="scale(0.5) translate(12, 12)"/></svg>
+      <span>用 Claude 分析</span>
+    </button>
+
+    <!-- ChatGPT -->
+    <button onclick="openChatGPTWithPrompt('{{ page.title | slugify }}')"
+            style="display: inline-flex; align-items: center; gap: 0.375rem; padding: 0.6rem 1.2rem; background: #10A37F; color: white; border: none; border-radius: 6px; cursor: pointer; font-size: 0.9rem; font-weight: 500; transition: all 0.2s;"
+            onmouseover="this.style.background='#0D8A6A'" onmouseout="this.style.background='#10A37F'">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M22.2819 9.8211a5.9847 5.9847 0 0 0-.5157-4.9108 6.0462 6.0462 0 0 0-6.5098-2.9A6.0651 6.0651 0 0 0 4.9807 4.1818a5.9847 5.9847 0 0 0-3.9977 2.9 6.0462 6.0462 0 0 0 .7427 7.0966 5.98 5.98 0 0 0 .511 4.9107 6.051 6.051 0 0 0 6.5146 2.9001A5.9847 5.9847 0 0 0 13.2599 24a6.0557 6.0557 0 0 0 5.7718-4.2058 5.9894 5.9894 0 0 0 3.9977-2.9001 6.0557 6.0557 0 0 0-.7475-7.0729zm-9.022 12.6081a4.4755 4.4755 0 0 1-2.8764-1.0408l.1419-.0804 4.7783-2.7582a.7948.7948 0 0 0 .3927-.6813v-6.7369l2.02 1.1686a.071.071 0 0 1 .038.052v5.5826a4.504 4.504 0 0 1-4.4945 4.4944zm-9.6607-4.1254a4.4708 4.4708 0 0 1-.5346-3.0137l.142.0852 4.783 2.7582a.7712.7712 0 0 0 .7806 0l5.8428-3.3685v2.3324a.0804.0804 0 0 1-.0332.0615L9.74 19.9502a4.4992 4.4992 0 0 1-6.1408-1.6464zM2.3408 7.8956a4.485 4.485 0 0 1 2.3655-1.9728V11.6a.7664.7664 0 0 0 .3879.6765l5.8144 3.3543-2.0201 1.1685a.0757.0757 0 0 1-.071 0l-4.8303-2.7865A4.504 4.504 0 0 1 2.3408 7.8956zm16.0993 3.8558L12.6 8.3829l2.02-1.1638a.0757.0757 0 0 1 .071 0l4.8303 2.7913a4.4944 4.4944 0 0 1-.6765 8.1042v-5.6772a.79.79 0 0 0-.407-.667zm2.0107-3.0231l-.142-.0852-4.7735-2.7818a.7759.7759 0 0 0-.7854 0L9.409 9.2297V6.8974a.0662.0662 0 0 1 .0284-.0615l4.8303-2.7866a4.4992 4.4992 0 0 1 6.6802 4.66zM8.3065 12.863l-2.02-1.1638a.0804.0804 0 0 1-.038-.0567V6.0742a4.4992 4.4992 0 0 1 7.3757-3.4537l-.142.0805L8.704 5.459a.7948.7948 0 0 0-.3927.6813zm1.0976-2.3654l2.602-1.4998 2.6069 1.4998v2.9994l-2.5974 1.4997-2.6067-1.4997Z"/></svg>
+      用 ChatGPT 分析
+    </button>
+  </div>
+
+  <!-- 提示訊息區 -->
+  <div id="ai-hint-{{ page.title | slugify }}" style="display: none; margin-top: 0.75rem; padding: 0.75rem 1rem; border-radius: 6px; font-size: 0.9rem;"></div>
+
+  <p style="color: #888; font-size: 0.8rem; margin-top: 1rem; margin-bottom: 0;">
+    <strong>Claude</strong>：點擊後會複製提問並開啟新視窗，請按 Ctrl+V（Mac: Cmd+V）貼上<br>
+    <strong>ChatGPT</strong>：點擊後直接開啟並自動帶入提問
+  </p>
+</div>
+
+<script>
+function getAIPrompt(drugSlug) {
+  const promptEl = document.getElementById('ai-prompt-' + drugSlug);
+  return promptEl ? promptEl.textContent.trim() : '';
+}
+
+function showHint(drugSlug, message, type) {
+  const hintEl = document.getElementById('ai-hint-' + drugSlug);
+  if (!hintEl) return;
+
+  hintEl.textContent = message;
+  hintEl.style.display = 'block';
+
+  if (type === 'claude') {
+    hintEl.style.background = '#FEF3C7';
+    hintEl.style.color = '#92400E';
+    hintEl.style.border = '1px solid #F59E0B';
+  } else {
+    hintEl.style.background = '#D1FAE5';
+    hintEl.style.color = '#065F46';
+    hintEl.style.border = '1px solid #10B981';
+  }
+
+  // 10 秒後自動隱藏
+  setTimeout(() => {
+    hintEl.style.display = 'none';
+  }, 10000);
+}
+
+function openClaudeWithPrompt(drugSlug) {
+  const prompt = getAIPrompt(drugSlug);
+  const btn = document.getElementById('claude-btn-' + drugSlug);
+
+  navigator.clipboard.writeText(prompt).then(() => {
+    // 顯示提示訊息
+    showHint(drugSlug, '✓ 已複製提問！請在 Claude 視窗中按 Ctrl+V（Mac: Cmd+V）貼上，然後送出。', 'claude');
+
+    // 按鈕變色提示
+    const span = btn.querySelector('span');
+    span.textContent = '已複製！請貼上';
+    btn.style.background = '#4CAF50';
+
+    // 開啟 Claude
+    window.open('https://claude.ai/new', '_blank');
+
+    // 5 秒後恢復按鈕
+    setTimeout(() => {
+      span.textContent = '用 Claude 分析';
+      btn.style.background = '#D97706';
+    }, 5000);
+  });
+}
+
+function openChatGPTWithPrompt(drugSlug) {
+  const prompt = getAIPrompt(drugSlug);
+
+  // 顯示提示訊息
+  showHint(drugSlug, '✓ 正在開啟 ChatGPT，提問將自動帶入...', 'chatgpt');
+
+  // 同時複製到剪貼簿（備用）
+  navigator.clipboard.writeText(prompt);
+
+  // ChatGPT 支援 ?q= 參數預填
+  const encodedPrompt = encodeURIComponent(prompt);
+  window.open('https://chatgpt.com/?q=' + encodedPrompt, '_blank');
+}
+</script>

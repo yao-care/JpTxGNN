@@ -1,0 +1,36 @@
+# 日本 PMDA 藥品資料欄位映射設定
+
+# 基本設定
+country_code: "JP"
+language: "ja"
+regulatory_agency: "PMDA"
+
+# 欄位映射
+# 將 PMDA 資料欄位對應到標準欄位
+field_mapping:
+  license_id: "承認番号"
+  brand_name_local: "販売名"
+  brand_name_en: "一般名"
+  ingredients: "有効成分"
+  indication: "効能・効果"
+  dosage_form: "剤形"
+  manufacturer: "製造販売業者"
+  approval_date: "承認日"
+  status: "承認状況"
+
+# 註銷/無效狀態值
+withdrawn_statuses:
+  - "取消"
+  - "取り消し"
+  - "回収"
+  - "販売中止"
+  - "承認整理"
+
+# 成分分隔符
+ingredient_separator: "、"
+
+# 日期格式
+date_format: "%Y年%m月%d日"
+
+# 編碼
+encoding: "utf-8"

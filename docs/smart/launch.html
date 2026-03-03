@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JpTxGNN SMART App - 起動中</title>
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Hiragino Kaku Gothic ProN', sans-serif;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .launch-container {
+      background: white;
+      border-radius: 16px;
+      padding: 48px;
+      text-align: center;
+      box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+      max-width: 400px;
+    }
+    .spinner {
+      width: 48px;
+      height: 48px;
+      border: 4px solid #e0e0e0;
+      border-top-color: #667eea;
+      border-radius: 50%;
+      animation: spin 1s linear infinite;
+      margin: 0 auto 24px;
+    }
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+    h1 {
+      font-size: 24px;
+      color: #333;
+      margin-bottom: 12px;
+    }
+    p {
+      color: #666;
+      font-size: 14px;
+    }
+    .error {
+      display: none;
+      background: #fee;
+      border: 1px solid #f99;
+      border-radius: 8px;
+      padding: 16px;
+      margin-top: 24px;
+      color: #c00;
+      text-align: left;
+    }
+    .error.visible {
+      display: block;
+    }
+  </style>
+</head>
+<body>
+  <div class="launch-container">
+    <div class="spinner" id="spinner"></div>
+    <h1>JpTxGNN SMART App</h1>
+    <p id="status">EHR システムに接続中...</p>
+    <div class="error" id="error"></div>
+  </div>
+
+  <!-- SMART on FHIR Client Library -->
+  <script src="https://cdn.jsdelivr.net/npm/fhirclient@2.5.4/build/fhir-client.min.js"></script>
+
+  <script>
+    (function() {
+      'use strict';
+
+      const statusEl = document.getElementById('status');
+      const errorEl = document.getElementById('error');
+      const spinnerEl = document.getElementById('spinner');
+
+      function showError(message) {
+        spinnerEl.style.display = 'none';
+        statusEl.textContent = '起動失敗';
+        errorEl.textContent = message;
+        errorEl.classList.add('visible');
+      }
+
+      // Get the base URL for redirect
+      const baseUrl = window.location.origin;
+      const redirectUri = baseUrl + '/smart/app.html';
+
+      // SMART on FHIR authorization
+      FHIR.oauth2.authorize({
+        // Client ID - should be registered with the EHR
+        // For testing with SMART Launcher, use 'whatever' or leave empty
+        client_id: 'jptxgnn-smart-app',
+
+        // Requested scopes
+        scope: [
+          'launch',                          // EHR launch context
+          'patient/MedicationRequest.read',  // Read medication orders
+          'patient/MedicationStatement.read', // Read medication statements
+          'openid',                           // OpenID Connect
+          'fhirUser'                          // Get user info
+        ].join(' '),
+
+        // Redirect URI after authorization
+        redirect_uri: redirectUri,
+
+        // Use PKCE for security (required for public clients)
+        pkce: true
+      }).catch(function(error) {
+        console.error('SMART authorization error:', error);
+        showError('SMART 認証フローを開始できませんでした。EHR システムからこのアプリを起動していることを確認してください。\n\nエラーメッセージ: ' + (error.message || error));
+      });
+
+    })();
+  </script>
+</body>
+</html>

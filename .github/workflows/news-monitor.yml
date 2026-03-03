@@ -1,0 +1,60 @@
+name: 健康ニュース監視
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # 6時間ごとに実行
+  workflow_dispatch:        # 手動トリガー
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install feedparser requests beautifulsoup4 lxml
+
+      # Step 1: キーワードリストの確認
+      - name: Check keywords.json
+        run: |
+          if [ ! -f data/news/keywords.json ]; then
+            echo "キーワードリストを生成中..."
+            python scripts/generate_news_keywords.py
+          fi
+
+      # Step 2: 日本のニュースソースからフェッチ
+      - name: Fetch from Japan news sources
+        run: |
+          if [ -f scripts/fetchers/japan_news.py ]; then
+            python scripts/fetchers/japan_news.py
+          fi
+
+      # Step 3: 処理とページ生成
+      - name: Process and generate pages
+        run: python scripts/process_news.py
+
+      # Step 4: 変更をコミット
+      - name: Commit changes
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+
+          # 変更があるファイルのみ追加
+          git add data/news/*.json docs/data/news-index.json
+
+          # 変更の確認
+          if git diff --staged --quiet; then
+            echo "ニュースの更新なし"
+          else
+            git commit -m "健康ニュース更新 $(date +%Y-%m-%d-%H%M)"
+            git push
+          fi

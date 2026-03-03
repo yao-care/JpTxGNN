@@ -1,0 +1,75 @@
+name: IndexNow - 検索エンジンへの更新通知
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'docs/**/*.md'
+      - 'docs/drugs/**'
+
+jobs:
+  indexnow:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Get changed files
+        id: changed
+        run: |
+          # 変更された markdown ファイルを取得
+          CHANGED_FILES=$(git diff --name-only HEAD~1 HEAD -- 'docs/**/*.md' 'docs/drugs/**' | head -100)
+
+          if [ -z "$CHANGED_FILES" ]; then
+            echo "No markdown files changed"
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+
+          echo "Changed files:"
+          echo "$CHANGED_FILES"
+          echo "has_changes=true" >> $GITHUB_OUTPUT
+
+          # URL リストに変換
+          URLS=""
+          for file in $CHANGED_FILES; do
+            # docs/ プレフィックスと .md サフィックスを削除
+            url_path=$(echo "$file" | sed 's|^docs/||' | sed 's|\.md$|/|' | sed 's|^drugs/|drugs/|')
+
+            # index.md の特別処理
+            if [ "$url_path" = "index/" ]; then
+              url_path=""
+            fi
+
+            full_url="https://jptxgnn.yao.care/${url_path}"
+            URLS="${URLS}\"${full_url}\","
+          done
+
+          # 最後のカンマを削除
+          URLS=$(echo "$URLS" | sed 's/,$//')
+          echo "urls=[$URLS]" >> $GITHUB_OUTPUT
+
+      - name: Submit to IndexNow
+        if: steps.changed.outputs.has_changes == 'true'
+        run: |
+          # JSON payload の準備
+          PAYLOAD=$(cat <<EOF
+          {
+            "host": "jptxgnn.yao.care",
+            "key": "jptxgnn2024indexnow",
+            "urlList": ${{ steps.changed.outputs.urls }}
+          }
+          EOF
+          )
+
+          echo "Submitting to IndexNow:"
+          echo "$PAYLOAD" | jq .
+
+          # Bing IndexNow に送信
+          curl -X POST "https://api.indexnow.org/indexnow" \
+            -H "Content-Type: application/json" \
+            -d "$PAYLOAD" \
+            -w "\nHTTP Status: %{http_code}\n" || true

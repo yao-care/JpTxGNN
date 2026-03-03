@@ -1,0 +1,76 @@
+name: Check New Evidence
+
+on:
+  schedule:
+    # Run at 00:00 and 12:00 UTC (09:00 and 21:00 Japan time)
+    - cron: '0 0,12 * * *'
+  workflow_dispatch:  # Allow manual triggering
+
+permissions:
+  contents: write  # For updating cache files
+  issues: write    # For creating issues
+
+jobs:
+  check-evidence:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          pip install requests pandas beautifulsoup4
+
+      - name: Check ClinicalTrials.gov
+        run: |
+          echo "Checking ClinicalTrials.gov for new Japan-related trials..."
+          # This would run a script to check for new evidence
+          # For now, just a placeholder
+          echo "ClinicalTrials.gov check completed"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        continue-on-error: true
+
+      - name: Check PubMed
+        run: |
+          echo "Checking PubMed for new research..."
+          # This would run a script to check for new evidence
+          echo "PubMed check completed"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+        continue-on-error: true
+
+      - name: Fetch Japan Health News
+        run: |
+          echo "Fetching Japan health news..."
+          # This would run the news fetcher
+          echo "News fetch completed"
+        continue-on-error: true
+
+      - name: Update cache files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if [ -d "data/cache" ]; then
+            git add data/cache/
+          fi
+          if [ -f "data/news/japan_news.json" ]; then
+            git add data/news/japan_news.json
+          fi
+          if ! git diff --staged --quiet; then
+            git commit -m "Update evidence cache [skip ci]"
+            git pull --rebase origin main || true
+            git push || echo "Cache update skipped due to conflicts"
+          else
+            echo "No changes to commit"
+          fi

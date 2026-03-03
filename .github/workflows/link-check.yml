@@ -1,0 +1,55 @@
+name: 連結檢查
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'docs/**'
+  pull_request:
+    branches: [main]
+    paths:
+      - 'docs/**'
+  workflow_dispatch:  # 手動觸發
+
+jobs:
+  link-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: 檢查連結
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >
+            --verbose
+            --no-progress
+            --accept 200,204,206,301,302,403,429
+            --exclude-mail
+            --exclude "^https://claude.ai"
+            --exclude "^https://chat.openai.com"
+            --exclude "^https://chatgpt.com"
+            --exclude "^https://twitter.com"
+            --exclude "^https://x.com"
+            --exclude "linkedin.com"
+            --timeout 30
+            --max-retries 3
+            './docs/**/*.md'
+            './docs/**/*.html'
+          fail: false  # 不要因為死連結而失敗，改為產生報告
+
+      - name: 上傳報告
+        uses: actions/upload-artifact@v6
+        if: always()
+        with:
+          name: link-check-report
+          path: ./lychee/out.md
+          retention-days: 30
+
+      - name: 顯示結果摘要
+        if: always()
+        run: |
+          if [ -f ./lychee/out.md ]; then
+            echo "## 連結檢查結果" >> $GITHUB_STEP_SUMMARY
+            cat ./lychee/out.md >> $GITHUB_STEP_SUMMARY
+          fi

@@ -1,0 +1,76 @@
+{
+  "resourceType": "CapabilityStatement",
+  "id": "jptxgnn-fhir-server",
+  "url": "https://jptxgnn.yao.care/fhir/metadata",
+  "version": "1.0.0",
+  "name": "JpTxGNNFHIRServer",
+  "title": "JpTxGNN FHIR Server",
+  "status": "active",
+  "experimental": true,
+  "date": "2026-03-02",
+  "publisher": "JpTxGNN",
+  "contact": [
+    {
+      "telecom": [
+        {
+          "system": "url",
+          "value": "https://jptxgnn.yao.care"
+        }
+      ]
+    }
+  ],
+  "description": "JpTxGNN 医薬品リポジショニング予測データを FHIR リソースとして公開。3952 医薬品、37686 予測適応症を含む。",
+  "kind": "instance",
+  "software": {
+    "name": "JpTxGNN Static FHIR API",
+    "version": "1.0.0"
+  },
+  "implementation": {
+    "description": "GitHub Pages から提供される静的 FHIR リソース",
+    "url": "https://jptxgnn.yao.care/fhir"
+  },
+  "fhirVersion": "4.0.1",
+  "format": [
+    "application/fhir+json"
+  ],
+  "rest": [
+    {
+      "mode": "server",
+      "documentation": "静的 FHIR API - 医薬品リポジショニング予測への読み取り専用アクセス",
+      "resource": [
+        {
+          "type": "MedicationKnowledge",
+          "profile": "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge",
+          "interaction": [
+            {
+              "code": "read"
+            }
+          ],
+          "searchParam": [
+            {
+              "name": "_id",
+              "type": "token",
+              "documentation": "医薬品識別子 (slug)"
+            }
+          ]
+        },
+        {
+          "type": "ClinicalUseDefinition",
+          "profile": "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition",
+          "interaction": [
+            {
+              "code": "read"
+            }
+          ],
+          "searchParam": [
+            {
+              "name": "subject",
+              "type": "reference",
+              "documentation": "MedicationKnowledge への参照"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

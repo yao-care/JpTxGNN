@@ -1,0 +1,113 @@
+title: JpTxGNN 医薬品リポジショニング検証報告
+description: 日本 PMDA 医薬品 Drug Repurposing 予測・検証システム
+remote_theme: just-the-docs/just-the-docs
+url: https://jptxgnn.yao.care
+baseurl: ""
+lang: ja
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# RSS Feed 設定
+feed:
+  path: feed.xml
+  collections:
+    drugs:
+      path: "/drugs/feed.xml"
+
+# Open Graph 設定
+og_image: /assets/images/og-default.png
+
+# Twitter Card 設定
+twitter:
+  card: summary_large_image
+
+# 作者情報 (E-E-A-T)
+author:
+  name: JpTxGNN Team
+  url: https://jptxgnn.yao.care/about/
+
+# 未来日付の投稿を許可
+future: true
+
+# Kramdown 設定
+kramdown:
+  smart_quotes: ["apos", "apos", "quot", "quot"]
+  typographic_symbols:
+    ndash: "--"
+    mdash: "---"
+
+# ナビゲーション設定
+nav_sort: case_insensitive
+
+# 検索設定
+search_enabled: true
+search:
+  heading_level: 3
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s/]+/
+  rel_url: true
+  button: false
+
+# フッター
+footer_content: "Copyright &copy; 2026 Yao.Care. 本報告は研究参考のみを目的としており、医療アドバイスを構成するものではありません。"
+
+# カラーテーマ
+color_scheme: light
+
+# 補助リンク
+aux_links:
+  "GitHub":
+    - "https://github.com/yao-care/JpTxGNN"
+
+# 外部ナビゲーションリンク
+nav_external_links:
+  - title: ホームへ戻る
+    url: /
+    hide_icon: false
+
+# トップへ戻る
+back_to_top: true
+back_to_top_text: "トップへ戻る"
+
+# 排除ファイル
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - "*.template"
+
+# Collections
+collections:
+  drugs:
+    output: true
+    permalink: /drugs/:name/
+  news:
+    output: true
+    permalink: /news/:name/
+
+defaults:
+  - scope:
+      path: "_drugs"
+      type: "drugs"
+    values:
+      layout: "default"
+      nav_exclude: false
+  - scope:
+      path: "_news"
+      type: "news"
+    values:
+      layout: "default"
+      nav_exclude: true
+  - scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: "default"
+      nav_exclude: true

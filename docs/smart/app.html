@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JpTxGNN SMART App - 医薬品リポジショニング候補検索</title>
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Hiragino Kaku Gothic ProN', sans-serif;
+      background: #f5f7fa;
+      min-height: 100vh;
+      color: #333;
+    }
+
+    .header {
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+
+    .header h1 {
+      font-size: 24px;
+      margin-bottom: 4px;
+    }
+
+    .header p {
+      opacity: 0.9;
+      font-size: 14px;
+    }
+
+    .loading {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 60vh;
+      padding: 40px;
+    }
+
+    .spinner {
+      width: 48px;
+      height: 48px;
+      border: 4px solid #e0e0e0;
+      border-top-color: #667eea;
+      border-radius: 50%;
+      animation: spin 1s linear infinite;
+      margin-bottom: 16px;
+    }
+
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+
+    .loading-text {
+      color: #666;
+      font-size: 16px;
+    }
+
+    .error {
+      display: none;
+      max-width: 600px;
+      margin: 40px auto;
+      padding: 24px;
+      background: #fff;
+      border-radius: 12px;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.1);
+    }
+
+    .error.visible {
+      display: block;
+    }
+
+    .error-title {
+      color: #c00;
+      font-size: 18px;
+      margin-bottom: 12px;
+    }
+
+    .error-message {
+      color: #666;
+      line-height: 1.6;
+    }
+
+    .content {
+      display: none;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 24px;
+    }
+
+    .content.visible {
+      display: block;
+    }
+
+    .info-card {
+      background: white;
+      border-radius: 12px;
+      padding: 24px;
+      margin-bottom: 24px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+
+    .info-card h2 {
+      font-size: 18px;
+      margin-bottom: 16px;
+      color: #333;
+    }
+
+    .info-card p {
+      color: #666;
+      line-height: 1.6;
+      margin-bottom: 16px;
+    }
+
+    .btn {
+      display: inline-block;
+      padding: 12px 24px;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+      text-decoration: none;
+      border-radius: 8px;
+      font-size: 14px;
+      transition: all 0.2s;
+    }
+
+    .btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
+    }
+
+    .disclaimer {
+      background: #fff3cd;
+      border: 1px solid #ffc107;
+      border-radius: 8px;
+      padding: 16px;
+      margin-top: 24px;
+      font-size: 13px;
+      color: #856404;
+    }
+
+    .disclaimer strong {
+      display: block;
+      margin-bottom: 8px;
+    }
+  </style>
+</head>
+<body>
+  <header class="header">
+    <h1>JpTxGNN SMART App</h1>
+    <p>医薬品リポジショニング候補検索システム</p>
+  </header>
+
+  <div class="loading" id="loading">
+    <div class="spinner"></div>
+    <div class="loading-text">認証情報を確認中...</div>
+  </div>
+
+  <div class="error" id="error">
+    <h2 class="error-title">エラーが発生しました</h2>
+    <p class="error-message" id="error-message"></p>
+  </div>
+
+  <main class="content" id="content">
+    <div class="info-card">
+      <h2>SMART on FHIR 認証完了</h2>
+      <p>
+        EHR システムからの認証が完了しました。
+        JpTxGNN では、日本で承認された医薬品に対する新規適応症の予測を提供しています。
+      </p>
+      <p>
+        現在、このアプリはデモ版です。完全な EHR 統合機能は開発中です。
+        今すぐ医薬品リポジショニング予測データを閲覧するには、下のボタンをクリックしてください。
+      </p>
+      <a href="/drugs/" class="btn">医薬品検索へ</a>
+    </div>
+
+    <div class="info-card">
+      <h2>利用可能な機能</h2>
+      <ul style="margin-left: 20px; line-height: 1.8; color: #666;">
+        <li>123 種類の医薬品に対するリポジショニング予測</li>
+        <li>33,901 件の潜在的新適応症候補</li>
+        <li>FHIR R4 形式でのデータエクスポート</li>
+        <li>健康ニュースモニタリング</li>
+      </ul>
+    </div>
+
+    <div class="disclaimer">
+      <strong>免責事項</strong>
+      本サービスは研究目的のみで提供されており、医療アドバイスを構成するものではありません。
+      すべての予測は臨床検証を経ていません。医療判断には使用しないでください。
+      <br><br>
+      <a href="/privacy-policy/" style="color: #856404;">プライバシーポリシー</a>
+    </div>
+  </main>
+
+  <script src="https://cdn.jsdelivr.net/npm/fhirclient@2.5.4/build/fhir-client.min.js"></script>
+  <script>
+    (function() {
+      'use strict';
+
+      const loadingEl = document.getElementById('loading');
+      const errorEl = document.getElementById('error');
+      const errorMessageEl = document.getElementById('error-message');
+      const contentEl = document.getElementById('content');
+
+      function showError(message) {
+        loadingEl.style.display = 'none';
+        errorMessageEl.textContent = message;
+        errorEl.classList.add('visible');
+      }
+
+      function showContent() {
+        loadingEl.style.display = 'none';
+        contentEl.classList.add('visible');
+      }
+
+      // Try to complete SMART authorization
+      FHIR.oauth2.ready()
+        .then(function(client) {
+          console.log('SMART client ready:', client);
+          showContent();
+        })
+        .catch(function(error) {
+          console.error('SMART ready error:', error);
+          // If not in SMART context, still show the content
+          if (error.message && error.message.includes('No state')) {
+            showContent();
+          } else {
+            showError('SMART 認証を完了できませんでした。\n\nエラー: ' + (error.message || error));
+          }
+        });
+
+    })();
+  </script>
+</body>
+</html>

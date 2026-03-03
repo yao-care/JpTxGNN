@@ -1,0 +1,956 @@
+<!-- Navigation: Always expanded, no folding -->
+<style>
+/* 隱藏折疊箭頭 */
+.nav-list-expander {
+  display: none !important;
+}
+/* 子選單永遠展開 */
+.nav-list .nav-list-item > .nav-list {
+  display: block !important;
+}
+/* 分組標題樣式 */
+.nav-list > .nav-list-item > .nav-list-link {
+  font-weight: 600;
+  color: #5c5962;
+  text-transform: uppercase;
+  font-size: 0.75rem;
+  letter-spacing: 0.05em;
+}
+/* 子項目樣式 */
+.nav-list .nav-list .nav-list-link {
+  font-weight: normal;
+  font-size: 0.875rem;
+}
+</style>
+
+<!-- D3.js for interactive charts -->
+<script src="https://d3js.org/d3.v7.min.js"></script>
+
+<!-- Google Search Console 驗證 -->
+<!-- 請將 YOUR_VERIFICATION_CODE 替換為 Google 提供的驗證碼 -->
+<!-- <meta name="google-site-verification" content="YOUR_VERIFICATION_CODE" /> -->
+
+<!-- RSS Feed -->
+<link rel="alternate" type="application/rss+xml" title="TwTxGNN 最新更新" href="{{ '/feed.xml' | absolute_url }}">
+
+<!-- YMYL 審核資訊 Meta -->
+<meta name="last-reviewed" content="2026-02-19">
+<meta name="reviewed-by" content="TwTxGNN Research Team">
+
+<!-- Schema.org 結構化資料 -->
+{% if page.layout == 'default' and page.evidence_level %}
+<!-- MedicalWebPage Schema for Drug Reports -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "MedicalWebPage",
+      "@id": "{{ page.url | absolute_url }}#webpage",
+      "name": "{{ page.title }} 老藥新用驗證報告",
+      "description": "{{ page.description | default: page.title | append: ' 的老藥新用潛力分析' }}",
+      "url": "{{ page.url | absolute_url }}",
+      "datePublished": "2026-02-19",
+      "dateModified": "2026-02-19",
+      "lastReviewed": "2026-02-19",
+      "reviewedBy": {
+        "@type": "Organization",
+        "name": "TwTxGNN Research Team"
+      },
+      "author": {
+        "@type": "Organization",
+        "name": "TwTxGNN Team",
+        "url": "https://twtxgnn.yao.care/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "TwTxGNN",
+        "url": "https://twtxgnn.yao.care/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://twtxgnn.yao.care/assets/images/og-default.png"
+        }
+      },
+      "about": {
+        "@type": "Drug",
+        "name": "{{ page.title }}"
+      },
+      "specialty": "Pharmacology",
+      "medicalAudience": {
+        "@type": "MedicalAudience",
+        "audienceType": "Researcher"
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [".key-answer", ".key-takeaway", "h1", "h2"]
+      },
+      "isAccessibleForFree": true
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "{{ page.url | absolute_url }}#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "首頁",
+          "item": "{{ '/' | absolute_url }}"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "{{ page.parent }}",
+          "item": "{% if page.evidence_level == 'L1' or page.evidence_level == 'L2' %}{{ '/evidence-high' | absolute_url }}{% elsif page.evidence_level == 'L3' or page.evidence_level == 'L4' %}{{ '/evidence-medium' | absolute_url }}{% else %}{{ '/evidence-low' | absolute_url }}{% endif %}"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "{{ page.title }}",
+          "item": "{{ page.url | absolute_url }}"
+        }
+      ]
+    }
+  ]
+}
+</script>
+
+{% elsif page.url == '/' %}
+<!-- Homepage Schema: WebSite + Organization + Article -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://twtxgnn.yao.care/#website",
+      "name": "TwTxGNN 老藥新用驗證報告",
+      "url": "https://twtxgnn.yao.care/",
+      "description": "用 AI 預測台灣健保藥品的潛在新適應症，並提供臨床證據驗證報告",
+      "publisher": {
+        "@id": "https://twtxgnn.yao.care/#organization"
+      },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://twtxgnn.yao.care/?search={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://twtxgnn.yao.care/#organization",
+      "name": "TwTxGNN",
+      "url": "https://twtxgnn.yao.care/",
+      "description": "基於哈佛 TxGNN 模型的老藥新用預測平台",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://twtxgnn.yao.care/assets/images/og-default.png"
+      },
+      "sameAs": [
+        "https://github.com/yao-care/TwTxGNN"
+      ],
+      "knowsAbout": [
+        "Drug Repurposing",
+        "Machine Learning in Healthcare",
+        "Clinical Evidence Synthesis",
+        "Taiwan Healthcare"
+      ]
+    },
+    {
+      "@type": "Article",
+      "@id": "https://twtxgnn.yao.care/#article",
+      "headline": "老藥新用，從數據到證據",
+      "description": "用 AI 預測台灣健保藥品的潛在新適應症，提供 191 個藥物的臨床試驗與文獻證據驗證報告",
+      "author": {
+        "@id": "https://twtxgnn.yao.care/#organization"
+      },
+      "publisher": {
+        "@id": "https://twtxgnn.yao.care/#organization"
+      },
+      "datePublished": "2026-02-19",
+      "dateModified": "2026-02-19",
+      "mainEntityOfPage": "https://twtxgnn.yao.care/",
+      "isAccessibleForFree": true
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://twtxgnn.yao.care/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "首頁",
+          "item": "https://twtxgnn.yao.care/"
+        }
+      ]
+    }
+  ]
+}
+</script>
+
+{% elsif page.url == '/about/' %}
+<!-- AboutPage Schema with FAQPage -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "AboutPage",
+      "@id": "{{ page.url | absolute_url }}#webpage",
+      "name": "關於 TwTxGNN",
+      "description": "TwTxGNN 老藥新用驗證報告的專案說明、資料來源與引用方式",
+      "url": "{{ page.url | absolute_url }}",
+      "datePublished": "2026-02-19",
+      "dateModified": "2026-02-19",
+      "mainEntity": {
+        "@type": "Organization",
+        "name": "TwTxGNN",
+        "url": "https://twtxgnn.yao.care/",
+        "description": "基於哈佛 TxGNN 模型的老藥新用預測平台"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "{{ page.url | absolute_url }}#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "什麼是老藥新用？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "老藥新用（Drug Repurposing）是指發現現有藥物的新治療用途。相較於新藥開發需要 10-15 年和 10-20 億美元，老藥新用只需 3-5 年和 1-3 億美元，且已有人體安全性資料。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "什麼是 TxGNN？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "TxGNN 是由哈佛醫學院團隊開發的深度學習模型，整合 17,080 個節點的知識圖譜，使用圖神經網路預測藥物與疾病的新關聯。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "資料來源有哪些？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "本平台整合 TxGNN（AI 預測）、ClinicalTrials.gov（臨床試驗）、PubMed（學術文獻）、DrugBank（藥物資訊）、TFDA（台灣上市資訊）、DDInter（藥物交互作用）等公開資料來源。"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "{{ page.url | absolute_url }}#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "首頁",
+          "item": "https://twtxgnn.yao.care/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "關於專案",
+          "item": "{{ page.url | absolute_url }}"
+        }
+      ]
+    }
+  ]
+}
+</script>
+
+{% elsif page.url == '/methodology/' %}
+<!-- HowTo Schema for Methodology -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "HowTo",
+      "@id": "{{ page.url | absolute_url }}#howto",
+      "name": "TwTxGNN 預測與驗證方法",
+      "description": "從 AI 預測到證據驗證的完整流程說明",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "TxGNN 預測",
+          "text": "使用知識圖譜結合圖神經網路進行藥物-疾病關係預測，設定最低預測分數 99%。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "資料收集",
+          "text": "針對每個預測配對，自動收集 ClinicalTrials.gov、PubMed、DrugBank、TFDA 等來源的證據。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "證據等級判定",
+          "text": "根據收集到的證據，判定 L1-L5 證據等級，L1 為最高（多個 Phase 3 RCT），L5 為僅模型預測。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "決策建議",
+          "text": "根據證據等級和其他因素，給出 Go、Proceed、Consider、Explore、Hold 決策建議。"
+        }
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "{{ page.url | absolute_url }}#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "首頁",
+          "item": "https://twtxgnn.yao.care/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "方法論",
+          "item": "{{ page.url | absolute_url }}"
+        }
+      ]
+    }
+  ]
+}
+</script>
+
+{% elsif page.url == '/drugs/' %}
+<!-- ItemList Schema for Drug List -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "CollectionPage",
+      "@id": "{{ page.url | absolute_url }}#webpage",
+      "name": "藥物列表 - TwTxGNN",
+      "description": "TwTxGNN 所有藥物驗證報告列表，共 191 種藥物",
+      "url": "{{ page.url | absolute_url }}"
+    },
+    {
+      "@type": "ItemList",
+      "@id": "{{ page.url | absolute_url }}#itemlist",
+      "name": "TwTxGNN 藥物驗證報告",
+      "description": "191 種台灣健保藥品的老藥新用驗證報告",
+      "numberOfItems": 191,
+      "itemListOrder": "https://schema.org/ItemListOrderAscending"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "{{ page.url | absolute_url }}#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "首頁",
+          "item": "https://twtxgnn.yao.care/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "藥物列表",
+          "item": "{{ page.url | absolute_url }}"
+        }
+      ]
+    }
+  ]
+}
+</script>
+
+{% elsif page.url == '/news/' %}
+<!-- CollectionPage Schema for News Overview -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "CollectionPage",
+      "@id": "{{ page.url | absolute_url }}#webpage",
+      "name": "健康新聞監測 - TwTxGNN",
+      "description": "{{ page.description | default: '自動監測 191 種藥物與適應症的最新健康新聞報導' }}",
+      "url": "{{ page.url | absolute_url }}",
+      "isPartOf": {
+        "@id": "https://twtxgnn.yao.care/#website"
+      },
+      "about": {
+        "@type": "Thing",
+        "name": "健康新聞"
+      },
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [".key-answer", "h1", "h2"]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "{{ page.url | absolute_url }}#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "首頁",
+          "item": "https://twtxgnn.yao.care/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "健康新聞",
+          "item": "{{ page.url | absolute_url }}"
+        }
+      ]
+    }
+  ]
+}
+</script>
+
+{% elsif page.url contains '/news/' and page.url != '/news/' %}
+<!-- Article Schema for News Subpages (Drug/Indication News) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "{{ page.url | absolute_url }}#article",
+      "headline": "{{ page.title }}",
+      "description": "{{ page.description | default: page.title }}",
+      "url": "{{ page.url | absolute_url }}",
+      "datePublished": "2026-02-21",
+      "dateModified": "2026-02-21",
+      "author": {
+        "@type": "Organization",
+        "name": "TwTxGNN",
+        "url": "https://twtxgnn.yao.care/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "TwTxGNN",
+        "url": "https://twtxgnn.yao.care/",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://twtxgnn.yao.care/assets/images/og-default.png"
+        }
+      },
+      "isPartOf": {
+        "@id": "https://twtxgnn.yao.care/news/#webpage"
+      },
+      "mainEntityOfPage": "{{ page.url | absolute_url }}",
+      "speakable": {
+        "@type": "SpeakableSpecification",
+        "cssSelector": [".key-answer", ".drug-info-card", "h1", "h2"]
+      },
+      "isAccessibleForFree": true
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "{{ page.url | absolute_url }}#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "首頁",
+          "item": "https://twtxgnn.yao.care/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "健康新聞",
+          "item": "https://twtxgnn.yao.care/news/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "{{ page.title }}",
+          "item": "{{ page.url | absolute_url }}"
+        }
+      ]
+    }
+  ]
+}
+</script>
+
+{% else %}
+<!-- Default BreadcrumbList for other pages -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "首頁",
+      "item": "https://twtxgnn.yao.care/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "{{ page.title }}",
+      "item": "{{ page.url | absolute_url }}"
+    }
+  ]
+}
+</script>
+{% endif %}
+
+<!-- SGE/AEO 支援樣式 -->
+<style>
+.key-answer {
+  background: linear-gradient(135deg, #e8f5e9 0%, #c8e6c9 100%);
+  padding: 1rem 1.25rem;
+  border-radius: 8px;
+  border-left: 4px solid #2E7D32;
+  margin: 1rem 0;
+  font-size: 1.05rem;
+}
+.key-takeaway {
+  background: #e3f2fd;
+  padding: 1rem;
+  border-radius: 8px;
+  margin: 1rem 0;
+  border-left: 4px solid #1976D2;
+}
+.key-takeaway::before {
+  content: "重點：";
+  font-weight: 700;
+  color: #1976D2;
+}
+.expert-quote {
+  background: #fafafa;
+  padding: 1.25rem;
+  border-left: 4px solid #9E9E9E;
+  margin: 1.5rem 0;
+  font-style: italic;
+}
+.expert-quote cite {
+  display: block;
+  margin-top: 0.75rem;
+  font-style: normal;
+  font-weight: 600;
+  color: #666;
+}
+.actionable-steps {
+  background: #fff8e1;
+  padding: 1rem 1rem 1rem 2rem;
+  border-radius: 8px;
+  margin: 1rem 0;
+}
+.actionable-steps li {
+  margin: 0.5rem 0;
+}
+.comparison-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+}
+.comparison-table th {
+  background: #f5f5f5;
+  padding: 0.75rem;
+  text-align: left;
+  border-bottom: 2px solid #ddd;
+}
+.comparison-table td {
+  padding: 0.75rem;
+  border-bottom: 1px solid #eee;
+}
+.disclaimer {
+  background: #fff3cd;
+  padding: 1rem;
+  margin-top: 2rem;
+  border-left: 4px solid #ffc107;
+  border-radius: 4px;
+}
+
+/* 適應症手風琴樣式 */
+.indication-section {
+  margin: 1rem 0;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  overflow: hidden;
+}
+.indication-section summary {
+  padding: 1rem 1.25rem;
+  cursor: pointer;
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  font-weight: 500;
+  list-style: none;
+}
+.indication-section summary::-webkit-details-marker {
+  display: none;
+}
+.indication-section summary::before {
+  content: "▶";
+  font-size: 0.75rem;
+  transition: transform 0.2s;
+}
+.indication-section[open] summary::before {
+  transform: rotate(90deg);
+}
+.indication-section[open] summary {
+  border-bottom: 1px solid #e0e0e0;
+}
+.indication-content {
+  padding: 1.25rem;
+  background: #fff;
+}
+.indication-content h3 {
+  margin-top: 1rem;
+  font-size: 1.1rem;
+  color: #333;
+}
+.indication-content h3:first-child {
+  margin-top: 0;
+}
+
+/* 適應症區塊內的表格 */
+.indication-content table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1rem 0;
+  font-size: 0.9rem;
+}
+.indication-content table th,
+.indication-content table td {
+  border: 1px solid #ddd;
+  padding: 0.5rem 0.75rem;
+  text-align: left;
+}
+.indication-content table th {
+  background: #f5f6f7;
+  font-weight: 600;
+}
+.indication-content table tr:hover {
+  background: #f9f9f9;
+}
+.indication-content table a {
+  color: #1976D2;
+  text-decoration: none;
+}
+.indication-content table a:hover {
+  text-decoration: underline;
+}
+/* 響應式表格 */
+@media (max-width: 768px) {
+  .indication-content table {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+}
+
+/* 無專門研究提示 */
+.no-evidence-notice {
+  background: #f8f9fa;
+  border: 1px solid #e9ecef;
+  border-radius: 6px;
+  padding: 1rem;
+  color: #6c757d;
+  font-size: 0.95rem;
+}
+
+/* 證據等級標籤 */
+.evidence-badge {
+  padding: 3px 10px;
+  border-radius: 12px;
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+.evidence-L1 { background: #28a745; color: white; }
+.evidence-L2 { background: #17a2b8; color: white; }
+.evidence-L3 { background: #ffc107; color: #333; }
+.evidence-L4 { background: #fd7e14; color: white; }
+.evidence-L5 { background: #6c757d; color: white; }
+
+/* 預測分數 */
+.prediction-score {
+  font-size: 0.9rem;
+  color: #666;
+  margin-left: auto;
+}
+
+/* 主要適應症標記 */
+.primary-badge {
+  background: #e3f2fd;
+  color: #1976D2;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 0.8rem;
+}
+
+/* 無證據警告 */
+.no-evidence-warning {
+  background: #fff3cd;
+  border: 1px solid #ffc107;
+  border-radius: 6px;
+  padding: 0.75rem 1rem;
+  margin: 0.5rem 0;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+.no-evidence-warning::before {
+  content: "⚠️";
+}
+
+/* ===== 藥物查詢區塊 ===== */
+.drug-lookup-container {
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin: 1rem 0 1.5rem;
+}
+
+.lookup-search-box {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.lookup-input-wrapper {
+  flex: 1;
+  position: relative;
+}
+
+.lookup-input-wrapper input {
+  width: 100%;
+  padding: 0.875rem 2.5rem 0.875rem 1rem;
+  font-size: 1rem;
+  border: 2px solid #dee2e6;
+  border-radius: 8px;
+  outline: none;
+  transition: border-color 0.2s, box-shadow 0.2s;
+  box-sizing: border-box;
+}
+
+.lookup-input-wrapper input:focus {
+  border-color: #2E7D32;
+  box-shadow: 0 0 0 3px rgba(46, 125, 50, 0.15);
+}
+
+.lookup-search-btn {
+  padding: 0.875rem 1.5rem;
+  font-size: 1rem;
+  font-weight: 600;
+  color: white;
+  background: #2E7D32;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.2s;
+  white-space: nowrap;
+}
+
+.lookup-search-btn:hover {
+  background: #1B5E20;
+}
+
+.lookup-clear-btn {
+  position: absolute;
+  right: 0.75rem;
+  top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  font-size: 1.25rem;
+  color: #999;
+  cursor: pointer;
+  padding: 0.25rem;
+  line-height: 1;
+}
+
+.lookup-clear-btn:hover {
+  color: #666;
+}
+
+.lookup-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1rem;
+  align-items: center;
+  font-size: 0.9rem;
+}
+
+.lookup-filters .filter-label {
+  color: #666;
+  font-weight: 500;
+}
+
+.lookup-filters label {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  cursor: pointer;
+}
+
+.lookup-filters input[type="checkbox"] {
+  accent-color: #2E7D32;
+}
+
+.lookup-results {
+  margin-top: 1rem;
+}
+
+.lookup-notice {
+  text-align: center;
+  color: #666;
+  padding: 1rem;
+  font-size: 0.95rem;
+}
+
+.result-section {
+  margin-bottom: 1.5rem;
+}
+
+.result-section h4,
+.result-section .section-title {
+  font-size: 0.9rem;
+  color: #666;
+  margin: 0 0 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  font-weight: 600;
+}
+
+.result-card {
+  background: white;
+  border-radius: 8px;
+  padding: 1rem;
+  margin-bottom: 0.75rem;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+}
+
+.result-header {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.result-header .drug-name,
+.result-header .indication-name {
+  font-weight: 600;
+  font-size: 1.05rem;
+  color: #333;
+  text-decoration: none;
+}
+
+.result-header .drug-name:hover {
+  color: #2E7D32;
+}
+
+.level-badge {
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 0.75rem;
+  font-weight: 600;
+}
+
+.level-L1 { background: #28a745; color: white; }
+.level-L2 { background: #17a2b8; color: white; }
+.level-L3 { background: #ffc107; color: #333; }
+.level-L4 { background: #fd7e14; color: white; }
+.level-L5 { background: #6c757d; color: white; }
+
+.result-original {
+  font-size: 0.85rem;
+  color: #666;
+  margin-bottom: 0.5rem;
+}
+
+.result-indications {
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+
+.result-indications .ind-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  margin-right: 0.75rem;
+  margin-bottom: 0.25rem;
+}
+
+.result-indications .no-match {
+  color: #999;
+  font-style: italic;
+}
+
+.result-indications .more,
+.result-drugs .more {
+  color: #666;
+  font-size: 0.85rem;
+}
+
+.view-report {
+  display: inline-block;
+  margin-top: 0.5rem;
+  font-size: 0.85rem;
+  color: #2E7D32;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.view-report:hover {
+  text-decoration: underline;
+}
+
+.result-drugs {
+  font-size: 0.9rem;
+}
+
+.result-drugs .drug-item {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.4rem 0;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.result-drugs .drug-item:last-child {
+  border-bottom: none;
+}
+
+.result-drugs .drug-item a {
+  color: #2E7D32;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.result-drugs .drug-item a:hover {
+  text-decoration: underline;
+}
+
+.result-drugs .score {
+  color: #666;
+  font-size: 0.85rem;
+}
+
+.result-drugs .original-hint {
+  color: #999;
+  font-size: 0.8rem;
+  flex-basis: 100%;
+  margin-left: 0;
+}
+
+@media (max-width: 600px) {
+  .lookup-filters {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .result-drugs .drug-item {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
+</style>

@@ -1,0 +1,1963 @@
+{
+  "generated": "2026-03-02",
+  "total_count": 123,
+  "source": "JpTxGNN - https://jptxgnn.yao.care/",
+  "drugs": [
+    {
+      "slug": "prednisolone",
+      "name": "PREDNISOLONE",
+      "drugbank_id": "DB00860",
+      "evidence_level": "L5",
+      "indication_count": 146,
+      "original_indication": "慢性副腎皮質機能不全, 原発性、亜急性甲状腺炎、甲状腺中毒症、ACTH単独欠損症、関節リウマチ、若年性関節リウマチ; スチル病、リウマチ性多発筋痛、エリテマトーデス, 全身性及び慢性円板状、大動脈炎症候群、高安動脈炎、結節性多発動脈炎、顕微鏡的多発血管炎、多発血管炎性肉芽腫症、多発性筋炎; 皮膚筋炎、強皮症、川崎病、ネフローゼ及びネフローゼ症候群、気管支喘息、溶血性貧血, 免疫性又は免疫性機序の疑われるもの、慢性骨髄性白血病、慢性リンパ性白血病、再生不良性貧血、潰瘍性大腸炎、劇症肝炎、肺結核、ギランバレー症候群、重症筋無力症、多発性硬化症、小舞踏病、デュシェンヌ型筋ジストロフィー、悪性リンパ腫、多発性骨髄腫、乳癌、強直性脊椎炎、前立腺癌、接触皮膚炎、アトピー皮膚炎、脂漏性皮膚炎、乾癬、膿疱性乾癬、掌蹠膿疱症、毛孔性紅色粃糠疹、扁平苔癬、アナフィラクトイド紫斑、スチブンス・ジョンソン病、ベーチェット病、レイノー病、天疱瘡群、デューリング疱疹状皮膚炎、類天疱瘡、先天性表皮水疱症、帯状疱疹、眼瞼炎、メニエル病及びメニエル症候群、アレルギー性鼻炎",
+      "predicted_indication": "non-Hodgkin lymphoma、hypersensitivity pneumonitis、allergic rhinitis（他 143 件）",
+      "brand_names": [
+        "スピラゾンクリーム０．３％",
+        "スピラゾン軟膏０．３％",
+        "プレドニゾロン吉草酸エステル酢酸エステルクリーム０．３％「ＹＤ」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/prednisolone/"
+    },
+    {
+      "slug": "dexamethasone",
+      "name": "DEXAMETHASONE",
+      "drugbank_id": "DB01234",
+      "evidence_level": "L5",
+      "indication_count": 144,
+      "original_indication": "乾癬、掌蹠膿疱症、慢性円板状エリテマトーデス、毛孔性紅色粃糠疹、菌状息肉症、天疱瘡群、家族性良性慢性天疱瘡、類天疱瘡",
+      "predicted_indication": "non-Hodgkin lymphoma、allergic rhinitis、spondyloarthropathy, susceptibility to（他 141 件）",
+      "brand_names": [
+        "アフタゾロン口腔用軟膏０．１％",
+        "アフタゾロン口腔用軟膏０．１％（選）",
+        "オイラゾンクリーム０．０５％"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/dexamethasone/"
+    },
+    {
+      "slug": "hydrocortisone",
+      "name": "HYDROCORTISONE",
+      "drugbank_id": "DB00741",
+      "evidence_level": "L5",
+      "indication_count": 139,
+      "original_indication": "",
+      "predicted_indication": "non-Hodgkin lymphoma、allergic rhinitis、spondyloarthropathy, susceptibility to（他 136 件）",
+      "brand_names": [
+        "プロクトセディル軟膏",
+        "ヘモポリゾン軟膏",
+        "ヘモレックス軟膏"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/hydrocortisone/"
+    },
+    {
+      "slug": "triamcinolone",
+      "name": "TRIAMCINOLONE",
+      "drugbank_id": "DB00620",
+      "evidence_level": "L5",
+      "indication_count": 129,
+      "original_indication": "慢性副腎皮質機能不全, 原発性、亜急性甲状腺炎、甲状腺中毒症、関節リウマチ、若年性関節リウマチ; スチル病、リウマチ性多発筋痛、エリテマトーデス, 全身性及び慢性円板状、高安動脈炎、結節性多発動脈、顕微鏡的多発血管、多発血管炎性肉芽腫症、多発性筋炎; 皮膚筋炎、強皮症、ネフローゼ及びネフローゼ症候群、気管支喘息、溶血性貧血, 免疫性又は免疫性機序の疑われるもの、急性白血病、慢性骨髄性白血病、慢性リンパ性白血病、再生不良性貧血、凝固因子の障害による出血性素因、潰瘍性大腸炎、ギランバレー症候群、重症筋無力症、多発性硬化症、小舞踏病、ホジキン病、菌状息肉症、乳癌、強直性脊椎炎、前立腺癌、接触皮膚炎、アトピー皮膚炎、脂漏性皮膚炎、乾癬、尋常性乾癬、関節症性乾癬、乾癬性紅皮症、膿疱性乾癬、掌蹠膿疱症、扁平苔癬、限局性強皮症、スチブンス・ジョンソン病、フックス症候群、ベーチェット病、天疱瘡群、デューリング疱疹状皮膚炎、類天疱瘡、帯状疱疹、視神経炎、アレルギー性鼻炎、糖尿病黄斑浮腫、凍瘡、毛孔性紅色粃糠疹",
+      "predicted_indication": "non-Hodgkin lymphoma、allergic rhinitis、spondyloarthropathy, susceptibility to（他 126 件）",
+      "brand_names": [
+        "オルテクサー口腔用軟膏０．１％",
+        "トリアムシノロンアセトニドクリーム０．１％「ＴＫ」",
+        "トリアムシノロンアセトニドゲル０．１％「ＴＫ」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/triamcinolone/"
+    },
+    {
+      "slug": "betamethasone",
+      "name": "BETAMETHASONE",
+      "drugbank_id": "DB00443",
+      "evidence_level": "L5",
+      "indication_count": 123,
+      "original_indication": "乾癬、掌蹠膿疱症、扁平苔癬、毛孔性紅色粃糠疹、ジベルバラ色粃糠疹、慢性円板状エリテマトーデス、凍瘡、天疱瘡群、ジューリング疱疹状皮膚炎、類天疱瘡",
+      "predicted_indication": "non-Hodgkin lymphoma、allergic rhinitis、spondyloarthropathy, susceptibility to（他 120 件）",
+      "brand_names": [
+        "サンベタゾン眼耳鼻科用液０．１％",
+        "ステロネマ注腸１．５ｍｇ　１．９７５ｍｇ",
+        "ステロネマ注腸３ｍｇ　３．９５ｍｇ"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/betamethasone/"
+    },
+    {
+      "slug": "ampicillin",
+      "name": "AMPICILLIN",
+      "drugbank_id": "DB00415",
+      "evidence_level": "L5",
+      "indication_count": 35,
+      "original_indication": "",
+      "predicted_indication": "meningococcal infection、pharyngitis、urinary tract infection (disease)（他 32 件）",
+      "brand_names": [
+        "ビクシリンＳ配合錠　（２５０ｍｇ）"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/ampicillin/"
+    },
+    {
+      "slug": "propranolol",
+      "name": "PROPRANOLOL",
+      "drugbank_id": "DB00571",
+      "evidence_level": "L5",
+      "indication_count": 28,
+      "original_indication": "本態性高血圧症、狭心症、期外収縮、頻拍性心房細動、新鮮心房細動、乳児血管腫",
+      "predicted_indication": "familial hypertrophic cardiomyopathy、His bundle tachycardia、cavernous hemangiomas of face-supraumbilical midline raphe syndrome（他 25 件）",
+      "brand_names": [
+        "インデラル錠１０ｍｇ",
+        "インデラル錠１０ｍｇ（選）",
+        "プロプラノロール塩酸塩徐放カプセル６０ｍｇ「サワイ」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/propranolol/"
+    },
+    {
+      "slug": "methotrexate",
+      "name": "METHOTREXATE",
+      "drugbank_id": "DB00563",
+      "evidence_level": "L5",
+      "indication_count": 24,
+      "original_indication": "慢性リンパ性白血病、慢性骨髄性白血病、絨毛癌、乳癌、尿路上皮癌、骨肉腫、胃癌、関節リウマチ、尋常性乾癬、関節症性乾癬、膿疱性乾癬、乾癬性紅皮症、若年性特発性関節炎",
+      "predicted_indication": "non-Hodgkin lymphoma、bone osteosarcoma、granulomatous slack skin disease（他 21 件）",
+      "brand_names": [
+        "メトトレキサートカプセル２ｍｇ「サワイ」",
+        "メトトレキサートカプセル２ｍｇ「サンド」",
+        "メトトレキサートカプセル２ｍｇ「トーワ」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/methotrexate/"
+    },
+    {
+      "slug": "metronidazole",
+      "name": "METRONIDAZOLE",
+      "drugbank_id": "DB00916",
+      "evidence_level": "L5",
+      "indication_count": 17,
+      "original_indication": "",
+      "predicted_indication": "rosacea、vulvitis、arthropathy（他 14 件）",
+      "brand_names": [
+        "メトロニダゾールゲル０．７５％「マルイシ」",
+        "ロゼックスゲル０．７５％"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/metronidazole/"
+    },
+    {
+      "slug": "azithromycin",
+      "name": "AZITHROMYCIN",
+      "drugbank_id": "DB00207",
+      "evidence_level": "L5",
+      "indication_count": 14,
+      "original_indication": "歯周組織炎、マイコバクテリウム・アビウムコンプレックス(MAC)症、結膜炎、眼瞼炎",
+      "predicted_indication": "streptococcal pneumonia、pneumonia caused by chlamydia、bacterial pneumonia（他 11 件）",
+      "brand_names": [
+        "アジスロマイシン小児用細粒１０％「タカタ」　１００ｍｇ",
+        "アジスロマイシン小児用錠１００ｍｇ「タカタ」",
+        "アジスロマイシン細粒小児用１０％「トーワ」　１００ｍｇ"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/azithromycin/"
+    },
+    {
+      "slug": "moxifloxacin",
+      "name": "MOXIFLOXACIN",
+      "drugbank_id": "DB00218",
+      "evidence_level": "L5",
+      "indication_count": 14,
+      "original_indication": "眼瞼炎、結膜炎",
+      "predicted_indication": "streptococcal pneumonia、pneumonia caused by chlamydia、Klebsiella pneumonia（他 11 件）",
+      "brand_names": [
+        "ベガモックス点眼液０．５％",
+        "ベガモックス点眼液０．５％（選）",
+        "モキシフロキサシン点眼液０．５％「サンド」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/moxifloxacin/"
+    },
+    {
+      "slug": "diclofenac",
+      "name": "DICLOFENAC",
+      "drugbank_id": "DB00586",
+      "evidence_level": "L5",
+      "indication_count": 13,
+      "original_indication": "",
+      "predicted_indication": "melanoacanthoma、arthropathy、actinic keratosis (disease)（他 10 件）",
+      "brand_names": [
+        "ジクロフェナクナトリウムクリーム１％「テイコク」",
+        "ジクロフェナクナトリウムクリーム１％「ユートク」",
+        "ジクロフェナクナトリウムテープ１５ｍｇ「テイコク」　７×１０ｃｍ"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/diclofenac/"
+    },
+    {
+      "slug": "levofloxacin",
+      "name": "LEVOFLOXACIN",
+      "drugbank_id": "DB01137",
+      "evidence_level": "L5",
+      "indication_count": 13,
+      "original_indication": "眼瞼炎、結膜炎、肺炎マイコプラズマ、胆嚢炎、腸チフス、パラチフス、コレラ、歯周組織炎、炭疽、ブルセラ症、ペスト、野兎病、肺結核、結核症、Q熱",
+      "predicted_indication": "streptococcal pneumonia、anthrax infection、pneumonia caused by chlamydia（他 10 件）",
+      "brand_names": [
+        "クラビット点眼液０．５％",
+        "クラビット点眼液０．５％（選）",
+        "クラビット点眼液１．５％"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/levofloxacin/"
+    },
+    {
+      "slug": "amoxicillin",
+      "name": "AMOXICILLIN",
+      "drugbank_id": "DB01060",
+      "evidence_level": "L5",
+      "indication_count": 12,
+      "original_indication": "淋菌感染症、梅毒、歯周組織炎、猩紅熱、ヘリコバクター・ピロリ感染症",
+      "predicted_indication": "streptococcal pneumonia、bacterial pneumonia、Klebsiella pneumonia（他 9 件）",
+      "brand_names": [
+        "アモキシシリン細粒２０％「ＴＣＫ」　２００ｍｇ",
+        "ワイドシリン細粒２０％　２００ｍｇ"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/amoxicillin/"
+    },
+    {
+      "slug": "atorvastatin",
+      "name": "ATORVASTATIN",
+      "drugbank_id": "DB01076",
+      "evidence_level": "L5",
+      "indication_count": 12,
+      "original_indication": "",
+      "predicted_indication": "hyperlipidemia, familial combined, LPL related、Prinzmetal angina、hyperlipoproteinemia（他 9 件）",
+      "brand_names": [
+        "アトルバスタチンカルシウム１０ｍｇ錠",
+        "アトルバスタチンカルシウム５ｍｇ口腔内崩壊錠",
+        "アトルバスタチンカルシウム５ｍｇ錠"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/atorvastatin/"
+    },
+    {
+      "slug": "lidocaine",
+      "name": "LIDOCAINE",
+      "drugbank_id": "DB00281",
+      "evidence_level": "L5",
+      "indication_count": 12,
+      "original_indication": "",
+      "predicted_indication": "Pediculus humanus capitis infestation、dermatitis、scabies（他 9 件）",
+      "brand_names": [
+        "ネイサート坐剤",
+        "ネリザ坐剤",
+        "ネリザ軟膏"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/lidocaine/"
+    },
+    {
+      "slug": "chlorpheniramine",
+      "name": "CHLORPHENIRAMINE",
+      "drugbank_id": "DB01114",
+      "evidence_level": "L5",
+      "indication_count": 11,
+      "original_indication": "",
+      "predicted_indication": "common cold、nasopharyngitis、papillary conjunctivitis（他 8 件）",
+      "brand_names": [
+        "エンペラシン配合錠",
+        "サクコルチン配合錠",
+        "セレスタミン配合錠"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/chlorpheniramine/"
+    },
+    {
+      "slug": "itraconazole",
+      "name": "ITRACONAZOLE",
+      "drugbank_id": "DB01167",
+      "evidence_level": "L5",
+      "indication_count": 11,
+      "original_indication": "スポロトリコーシス、クロモミコーシス、白癬、カンジダ症、慢性皮膚粘膜カンジダ症、癜風、爪白癬、ブラストミセス症、ヒストプラスマ症",
+      "predicted_indication": "coccidioidomycosis、black piedra、candidemia（他 8 件）",
+      "brand_names": [
+        "イトラコナゾールカプセル５０ｍｇ「ＳＷ」",
+        "イトラコナゾール内用液１％「ＶＴＲＳ」",
+        "イトラコナゾール錠１００ｍｇ「日医工」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/itraconazole/"
+    },
+    {
+      "slug": "rabeprazole",
+      "name": "RABEPRAZOLE",
+      "drugbank_id": "DB01129",
+      "evidence_level": "L5",
+      "indication_count": 11,
+      "original_indication": "胃潰瘍、十二指腸潰瘍、吻合部潰瘍、逆流性食道炎、Zollinger-Ellison症候群、非びらん性胃食道逆流症、ヘリコバクター・ピロリの除菌の補助",
+      "predicted_indication": "peptic ulcer disease、esophagitis (disease)、duodenal ulcer (disease)（他 8 件）",
+      "brand_names": [
+        "パリエット錠１０ｍｇ",
+        "パリエット錠１０ｍｇ（選）",
+        "パリエット錠２０ｍｇ"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/rabeprazole/"
+    },
+    {
+      "slug": "rosuvastatin",
+      "name": "ROSUVASTATIN",
+      "drugbank_id": "DB01098",
+      "evidence_level": "L5",
+      "indication_count": 11,
+      "original_indication": "高コレステロール血症、家族性高コレステロール血症",
+      "predicted_indication": "hyperlipidemia, familial combined, LPL related、hyperlipoproteinemia、atherosclerosis（他 8 件）",
+      "brand_names": [
+        "エゼロス配合錠ＨＤ「サワイ」",
+        "エゼロス配合錠ＨＤ「ＪＧ」",
+        "エゼロス配合錠ＬＤ「サワイ」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/rosuvastatin/"
+    },
+    {
+      "slug": "paroxetine",
+      "name": "PAROXETINE",
+      "drugbank_id": "DB00715",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "",
+      "predicted_indication": "endogenous depression、dysthymic disorder、obsessive-compulsive disorder（他 7 件）",
+      "brand_names": [
+        "パロキセチン塩酸塩１０ｍｇ錠",
+        "パロキセチン塩酸塩２０ｍｇ錠",
+        "パロキセチン塩酸塩５ｍｇ錠"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/paroxetine/"
+    },
+    {
+      "slug": "pravastatin",
+      "name": "PRAVASTATIN",
+      "drugbank_id": "DB00175",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "高脂血症、家族性高コレステロール血症",
+      "predicted_indication": "hyperlipidemia, familial combined, LPL related、hyperlipoproteinemia、atherosclerosis（他 7 件）",
+      "brand_names": [
+        "プラバスタチンナトリウム錠１０ｍｇ「ツルハラ」",
+        "プラバスタチンナトリウム錠１０ｍｇ「ＹＤ」",
+        "プラバスタチンナトリウム錠５ｍｇ「ツルハラ」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/pravastatin/"
+    },
+    {
+      "slug": "cetirizine",
+      "name": "CETIRIZINE",
+      "drugbank_id": "DB00341",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "アレルギー性鼻炎",
+      "predicted_indication": "idiopathic urticaria、common cold、nasopharyngitis（他 6 件）",
+      "brand_names": [
+        "ザイザルシロップ０．０５％",
+        "ザイザルシロップ０．０５％（選）",
+        "ザイザル錠５ｍｇ"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/cetirizine/"
+    },
+    {
+      "slug": "clarithromycin",
+      "name": "CLARITHROMYCIN",
+      "drugbank_id": "DB01211",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "非結核性抗酸菌症、マイコバクテリウム・アビウムコンプレックス(MAC)症、ヘリコバクター・ピロリ感染症、歯周組織炎、猩紅熱、百日咳",
+      "predicted_indication": "streptococcal pneumonia、pneumonia caused by chlamydia、bacterial pneumonia（他 6 件）",
+      "brand_names": [
+        "クラリシッド錠５０ｍｇ小児用",
+        "クラリシッド錠５０ｍｇ小児用（選）",
+        "クラリスロマイシン錠小児用５０ｍｇ「タカタ」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/clarithromycin/"
+    },
+    {
+      "slug": "clotrimazole",
+      "name": "CLOTRIMAZOLE",
+      "drugbank_id": "DB00257",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "カンジダに起因する腟炎および外陰腟炎、白癬、カンジダ症、癜風、口腔カンジダ症",
+      "predicted_indication": "tinea corporis、tinea pedis、dermatophytosis of groin and perianal area（他 6 件）",
+      "brand_names": [
+        "エンペシドクリーム１％",
+        "エンペシドクリーム１％（選）",
+        "クロトリマゾールクリーム１％「イワキ」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/clotrimazole/"
+    },
+    {
+      "slug": "famotidine",
+      "name": "FAMOTIDINE",
+      "drugbank_id": "DB00927",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "胃潰瘍、十二指腸潰瘍、吻合部潰瘍、逆流性食道炎、Zollinger-Ellison症候群",
+      "predicted_indication": "gastric ulcer (disease)、esophagitis (disease)、duodenal ulcer (disease)（他 6 件）",
+      "brand_names": [
+        "ガスター散１０％",
+        "ガスター散１０％（選）",
+        "ガスター散２％"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/famotidine/"
+    },
+    {
+      "slug": "imatinib",
+      "name": "IMATINIB",
+      "drugbank_id": "DB00619",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "慢性骨髄性白血病、消化管間質腫瘍 (KIT陽性)、急性リンパ性白血病 (フィラデルフィア染色体陽性)、好酸球増多症候群 (FIP1L1-PDGFRα陽性)、慢性好酸球性白血病 (FIP1L1-PDGFRα陽性)",
+      "predicted_indication": "chronic eosinophilic leukemia、idiopathic hypereosinophilic syndrome、hypereosinophilic syndrome（他 6 件）",
+      "brand_names": [
+        "イマチニブメシル酸塩１００ｍｇ錠",
+        "イマチニブ錠１００ｍｇ「オーハラ」",
+        "イマチニブ錠１００ｍｇ「ケミファ」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/imatinib/"
+    },
+    {
+      "slug": "lansoprazole",
+      "name": "LANSOPRAZOLE",
+      "drugbank_id": "DB00448",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "胃潰瘍、十二指腸潰瘍、吻合部潰瘍、逆流性食道炎、非びらん性胃食道逆流症、ヘリコバクター・ピロリの除菌の補助",
+      "predicted_indication": "gastric ulcer (disease)、peptic ulcer disease、esophagitis (disease)（他 6 件）",
+      "brand_names": [
+        "タケプロンカプセル１５　１５ｍｇ",
+        "タケプロンカプセル３０　３０ｍｇ",
+        "タケプロンＯＤ錠１５　１５ｍｇ"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/lansoprazole/"
+    },
+    {
+      "slug": "loratadine",
+      "name": "LORATADINE",
+      "drugbank_id": "DB00455",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "アレルギー性鼻炎",
+      "predicted_indication": "idiopathic urticaria、common cold、nasopharyngitis（他 6 件）",
+      "brand_names": [
+        "クラリチンドライシロップ１％",
+        "クラリチンドライシロップ１％（選）",
+        "クラリチンレディタブ錠１０ｍｇ"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/loratadine/"
+    },
+    {
+      "slug": "simvastatin",
+      "name": "SIMVASTATIN",
+      "drugbank_id": "DB00641",
+      "evidence_level": "L5",
+      "indication_count": 9,
+      "original_indication": "高脂血症、家族性高コレステロール血症",
+      "predicted_indication": "hyperlipoproteinemia、atherosclerosis、arteriosclerosis disorder（他 6 件）",
+      "brand_names": [
+        "シンバスタチン錠１０ｍｇ「あすか」",
+        "シンバスタチン錠１０ｍｇ「オーハラ」",
+        "シンバスタチン錠１０ｍｇ「トーワ」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/simvastatin/"
+    },
+    {
+      "slug": "budesonide",
+      "name": "BUDESONIDE",
+      "drugbank_id": "DB01222",
+      "evidence_level": "L5",
+      "indication_count": 8,
+      "original_indication": "気管支喘息、クローン病、潰瘍性大腸炎",
+      "predicted_indication": "Crohn's colitis、allergic rhinitis、Crohn disease（他 5 件）",
+      "brand_names": [
+        "シムビコートタービュヘイラー３０吸入",
+        "シムビコートタービュヘイラー３０吸入（選）",
+        "シムビコートタービュヘイラー６０吸入"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/budesonide/"
+    },
+    {
+      "slug": "celecoxib",
+      "name": "CELECOXIB",
+      "drugbank_id": "DB00482",
+      "evidence_level": "L5",
+      "indication_count": 8,
+      "original_indication": "関節リウマチ",
+      "predicted_indication": "arthropathy、spondyloarthropathy、juvenile arthritis due to defect in LACC1（他 5 件）",
+      "brand_names": [
+        "セレコキシブ錠１００ｍｇ「アメル」",
+        "セレコキシブ錠１００ｍｇ「オーハラ」",
+        "セレコキシブ錠１００ｍｇ「ケミファ」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/celecoxib/"
+    },
+    {
+      "slug": "cyanocobalamin",
+      "name": "CYANOCOBALAMIN",
+      "drugbank_id": "DB00115",
+      "evidence_level": "L5",
+      "indication_count": 8,
+      "original_indication": "甲状腺機能亢進症、広節裂頭条虫症",
+      "predicted_indication": "pernicious anemia、deficiency anemia、iron deficiency anemia（他 5 件）",
+      "brand_names": [
+        "サンコバ点眼液０．０２％　５ｍＬ",
+        "サンコバ点眼液０．０２％　５ｍＬ（選）",
+        "シアノコバラミン点眼液０．０２％「センジュ」　５ｍＬ"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/cyanocobalamin/"
+    },
+    {
+      "slug": "ibuprofen",
+      "name": "IBUPROFEN",
+      "drugbank_id": "DB01050",
+      "evidence_level": "L5",
+      "indication_count": 8,
+      "original_indication": "関節リウマチ",
+      "predicted_indication": "arthropathy、spondyloarthropathy、patent ductus arteriosus（他 5 件）",
+      "brand_names": [
+        "イブプロフェン顆粒２０％「ツルハラ」",
+        "イブプロフェン２０％顆粒",
+        "ブルフェン顆粒２０％"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/ibuprofen/"
+    },
+    {
+      "slug": "lorazepam",
+      "name": "LORAZEPAM",
+      "drugbank_id": "DB00186",
+      "evidence_level": "L5",
+      "indication_count": 8,
+      "original_indication": "神経症における不安",
+      "predicted_indication": "Lennox-Gastaut syndrome、visual epilepsy、cutis verticis gyrata（他 5 件）",
+      "brand_names": [
+        "ロラゼパム錠０．５ｍｇ「サワイ」",
+        "ロラゼパム錠１ｍｇ「サワイ」",
+        "ロラゼパム１ｍｇ錠"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/lorazepam/"
+    },
+    {
+      "slug": "theophylline",
+      "name": "THEOPHYLLINE",
+      "drugbank_id": "DB00277",
+      "evidence_level": "L5",
+      "indication_count": 8,
+      "original_indication": "気管支喘息、肺気腫",
+      "predicted_indication": "lung disease、pulmonary emphysema、obsolete rare pulmonary disease（他 5 件）",
+      "brand_names": [
+        "テオドール錠１００ｍｇ",
+        "テオドール錠２００ｍｇ",
+        "テオフィリンドライシロップ２０％「タカタ」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/theophylline/"
+    },
+    {
+      "slug": "acetaminophen",
+      "name": "ACETAMINOPHEN",
+      "drugbank_id": "DB00316",
+      "evidence_level": "L5",
+      "indication_count": 7,
+      "original_indication": "疼痛治療",
+      "predicted_indication": "common cold、nasopharyngitis、migraine disorder（他 4 件）",
+      "brand_names": [
+        "アセトアミノフェンシロップ小児用２％「トーワ」",
+        "アセトアミノフェン坐剤小児用１００ｍｇ「シオエ」",
+        "アセトアミノフェン坐剤小児用１００ｍｇ「日新」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/acetaminophen/"
+    },
+    {
+      "slug": "amlodipine",
+      "name": "AMLODIPINE",
+      "drugbank_id": "DB00381",
+      "evidence_level": "L5",
+      "indication_count": 7,
+      "original_indication": "",
+      "predicted_indication": "Prinzmetal angina、cerebrovascular disorder、cerebral infarction（他 4 件）",
+      "brand_names": [
+        "アイミクス配合錠ＨＤ",
+        "アイミクス配合錠ＨＤ（選）",
+        "アイミクス配合錠ＬＤ"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/amlodipine/"
+    },
+    {
+      "slug": "codeine",
+      "name": "CODEINE",
+      "drugbank_id": "DB00318",
+      "evidence_level": "L5",
+      "indication_count": 7,
+      "original_indication": "",
+      "predicted_indication": "common cold、nasopharyngitis、pharyngitis（他 4 件）",
+      "brand_names": [
+        "クロフェドリンＳ配合シロップ",
+        "フスコデ配合シロップ",
+        "ムコブロチン配合シロップ"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/codeine/"
+    },
+    {
+      "slug": "dextromethorphan",
+      "name": "DEXTROMETHORPHAN",
+      "drugbank_id": "DB00514",
+      "evidence_level": "L5",
+      "indication_count": 7,
+      "original_indication": "気管支拡張症",
+      "predicted_indication": "common cold、nasopharyngitis、pharyngitis（他 4 件）",
+      "brand_names": [
+        "デキストロメトルファン臭化水素酸塩細粒１０％「ツルハラ」",
+        "デキストロメトルファン臭化水素酸塩錠１５ｍｇ「ツルハラ」",
+        "デキストロメトルファン臭化水素酸塩錠１５ｍｇ「トーワ」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/dextromethorphan/"
+    },
+    {
+      "slug": "duloxetine",
+      "name": "DULOXETINE",
+      "drugbank_id": "DB00476",
+      "evidence_level": "L5",
+      "indication_count": 7,
+      "original_indication": "",
+      "predicted_indication": "endogenous depression、fibromyalgia、major depressive disorder（他 4 件）",
+      "brand_names": [
+        "サインバルタカプセル２０ｍｇ",
+        "サインバルタカプセル２０ｍｇ（選）",
+        "サインバルタカプセル３０ｍｇ"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/duloxetine/"
+    },
+    {
+      "slug": "olanzapine",
+      "name": "OLANZAPINE",
+      "drugbank_id": "DB00334",
+      "evidence_level": "L5",
+      "indication_count": 7,
+      "original_indication": "統合失調症、双極性障害",
+      "predicted_indication": "endogenous depression、manic bipolar affective disorder、schizophrenia（他 4 件）",
+      "brand_names": [
+        "オランザピン細粒１％「アメル」",
+        "オランザピン細粒１％「サワイ」",
+        "オランザピン細粒１％「タカタ」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/olanzapine/"
+    },
+    {
+      "slug": "promethazine",
+      "name": "PROMETHAZINE",
+      "drugbank_id": "DB01069",
+      "evidence_level": "L5",
+      "indication_count": 7,
+      "original_indication": "パーキンソニスム、アレルギー性鼻炎",
+      "predicted_indication": "papillary conjunctivitis、allergic rhinitis、urticaria (disease)（他 4 件）",
+      "brand_names": [
+        "サラザック配合顆粒",
+        "セラピナ配合顆粒",
+        "トーワチーム配合顆粒"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/promethazine/"
+    },
+    {
+      "slug": "sertraline",
+      "name": "SERTRALINE",
+      "drugbank_id": "DB01104",
+      "evidence_level": "L5",
+      "indication_count": 7,
+      "original_indication": "うつ病・うつ状態、パニック障害",
+      "predicted_indication": "dysthymic disorder、obsessive-compulsive disorder、neurotic disorder（他 4 件）",
+      "brand_names": [
+        "ジェイゾロフト錠１００ｍｇ",
+        "ジェイゾロフト錠１００ｍｇ（選）",
+        "ジェイゾロフト錠２５ｍｇ"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/sertraline/"
+    },
+    {
+      "slug": "acyclovir",
+      "name": "ACYCLOVIR",
+      "drugbank_id": "DB00787",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "original_indication": "単純疱疹、単純ヘルペスウイルス感染症、帯状疱疹、性器ヘルペス、水痘、単純ヘルペスウイルスに起因する角膜炎",
+      "predicted_indication": "chickenpox、herpes labialis、genital herpes（他 3 件）",
+      "brand_names": [
+        "アシクロビルクリーム５％「ラクール」",
+        "アシクロビルシロップ８％「タカタ」",
+        "アシクロビル内服ゼリー２００ｍｇ「日医工」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/acyclovir/"
+    },
+    {
+      "slug": "aripiprazole",
+      "name": "ARIPIPRAZOLE",
+      "drugbank_id": "DB01238",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "original_indication": "統合失調症、双極性障害における躁症状、うつ病・うつ状態",
+      "predicted_indication": "manic bipolar affective disorder、schizophrenia、autism (disease)（他 3 件）",
+      "brand_names": [
+        "アリピプラゾール内用液分包１２ｍｇ「ニプロ」　０．１％１２ｍＬ",
+        "アリピプラゾール内用液分包１２ｍｇ「明治」　０．１％１２ｍＬ",
+        "アリピプラゾール内用液分包３ｍｇ「ニプロ」　０．１％３ｍＬ"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/aripiprazole/"
+    },
+    {
+      "slug": "diazepam",
+      "name": "DIAZEPAM",
+      "drugbank_id": "DB00829",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "original_indication": "神経症における不安、うつ病、熱性けいれん",
+      "predicted_indication": "tetanus、alcohol withdrawal delirium、anxiety（他 3 件）",
+      "brand_names": [
+        "ジアゼパム錠１０ｍｇ「ツルハラ」",
+        "ジアゼパム錠２「サワイ」　２ｍｇ",
+        "ジアゼパム錠２「トーワ」　２ｍｇ"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/diazepam/"
+    },
+    {
+      "slug": "esomeprazole",
+      "name": "ESOMEPRAZOLE",
+      "drugbank_id": "DB00736",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "original_indication": "",
+      "predicted_indication": "esophagitis (disease)、Zollinger-Ellison syndrome、hyperinsulinism (disease)（他 3 件）",
+      "brand_names": [
+        "エソメプラゾールカプセル１０ｍｇ「ケミファ」",
+        "エソメプラゾールカプセル１０ｍｇ「サワイ」",
+        "エソメプラゾールカプセル１０ｍｇ「トーワ」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/esomeprazole/"
+    },
+    {
+      "slug": "ezetimibe",
+      "name": "EZETIMIBE",
+      "drugbank_id": "DB00973",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "original_indication": "高コレステロール血症、家族性高コレステロール血症、ホモ接合体性シトステロール血症",
+      "predicted_indication": "hyperlipidemia, familial combined, LPL related、familial hyperlipidemia、obsolete familial combined hyperlipidemia（他 3 件）",
+      "brand_names": [
+        "エゼチミブ錠１０ｍｇ「アメル」",
+        "エゼチミブ錠１０ｍｇ「ケミファ」",
+        "エゼチミブ錠１０ｍｇ「サワイ」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/ezetimibe/"
+    },
+    {
+      "slug": "fexofenadine",
+      "name": "FEXOFENADINE",
+      "drugbank_id": "DB00950",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "original_indication": "アレルギー性鼻炎、アトピー性皮膚炎",
+      "predicted_indication": "idiopathic urticaria、papillary conjunctivitis、allergic rhinitis（他 3 件）",
+      "brand_names": [
+        "アレグラ錠３０ｍｇ",
+        "アレグラ錠６０ｍｇ",
+        "ディレグラ配合錠"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/fexofenadine/"
+    },
+    {
+      "slug": "iron",
+      "name": "IRON",
+      "drugbank_id": "DB01592",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "original_indication": "",
+      "predicted_indication": "deficiency anemia、iron deficiency anemia、hypochromic anemia（他 3 件）",
+      "brand_names": [
+        "インクレミンシロップ５％",
+        "クエン酸第一鉄ナトリウム鉄５０ｍｇ錠",
+        "クエン酸第一鉄ナトリウム錠５０ｍｇ「ツルハラ」　鉄５０ｍｇ"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/iron/"
+    },
+    {
+      "slug": "meloxicam",
+      "name": "MELOXICAM",
+      "drugbank_id": "DB00814",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "original_indication": "関節リウマチ",
+      "predicted_indication": "arthropathy、spondyloarthropathy、juvenile arthritis due to defect in LACC1（他 3 件）",
+      "brand_names": [
+        "メロキシカム錠１０ｍｇ「クニヒロ」",
+        "メロキシカム錠１０ｍｇ「ケミファ」",
+        "メロキシカム錠１０ｍｇ「サワイ」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/meloxicam/"
+    },
+    {
+      "slug": "metoprolol",
+      "name": "METOPROLOL",
+      "drugbank_id": "DB00264",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "original_indication": "本態性高血圧症、狭心症",
+      "predicted_indication": "acute coronary syndrome、hemoglobinopathy、myocardial infarction (disease)（他 3 件）",
+      "brand_names": [
+        "セロケン錠２０ｍｇ",
+        "セロケン錠２０ｍｇ（選）",
+        "メトプロロール酒石酸塩錠２０ｍｇ「サワイ」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/metoprolol/"
+    },
+    {
+      "slug": "omeprazole",
+      "name": "OMEPRAZOLE",
+      "drugbank_id": "DB00338",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "original_indication": "胃潰瘍、十二指腸潰瘍、吻合部潰瘍、逆流性食道炎、非びらん性胃食道逆流症、Zollinger-Ellison症候群、ヘリコバクター・ピロリの除菌の補助",
+      "predicted_indication": "esophagitis (disease)、duodenal ulcer (disease)、Zollinger-Ellison syndrome（他 3 件）",
+      "brand_names": [
+        "オメプラゾン錠１０ｍｇ",
+        "オメプラゾン錠２０ｍｇ",
+        "オメプラゾール腸溶錠１０ｍｇ「武田テバ」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/omeprazole/"
+    },
+    {
+      "slug": "risperidone",
+      "name": "RISPERIDONE",
+      "drugbank_id": "DB00734",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "original_indication": "統合失調症",
+      "predicted_indication": "manic bipolar affective disorder、schizophrenia、autism (disease)（他 3 件）",
+      "brand_names": [
+        "リスパダール内用液１ｍｇ／ｍＬ　０．１％",
+        "リスパダール細粒１％",
+        "リスパダール細粒１％（選）"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/risperidone/"
+    },
+    {
+      "slug": "spironolactone",
+      "name": "SPIRONOLACTONE",
+      "drugbank_id": "DB00421",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "original_indication": "高血圧症、原発性アルドステロン症",
+      "predicted_indication": "Waterhouse-Friderichsen syndrome、Bartter disease、hyperaldosteronism（他 3 件）",
+      "brand_names": [
+        "アルダクトンＡ錠２５ｍｇ",
+        "アルダクトンＡ錠２５ｍｇ（選）",
+        "アルダクトンＡ錠５０ｍｇ"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/spironolactone/"
+    },
+    {
+      "slug": "telmisartan",
+      "name": "TELMISARTAN",
+      "drugbank_id": "DB00966",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "original_indication": "高血圧症",
+      "predicted_indication": "cerebrovascular disorder、stroke disorder、cerebral infarction（他 3 件）",
+      "brand_names": [
+        "テラムロ配合錠ＡＰ「サワイ」",
+        "テラムロ配合錠ＡＰ「トーワ」",
+        "テラムロ配合錠ＡＰ「ニプロ」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/telmisartan/"
+    },
+    {
+      "slug": "terbinafine",
+      "name": "TERBINAFINE",
+      "drugbank_id": "DB00857",
+      "evidence_level": "L5",
+      "indication_count": 6,
+      "original_indication": "白癬、カンジダ症、癜風、スポロトリコーシス、クロモミコーシス",
+      "predicted_indication": "tinea corporis、tinea unguium、tinea pedis（他 3 件）",
+      "brand_names": [
+        "テルビナフィン塩酸塩クリーム１％「イワキ」",
+        "テルビナフィン塩酸塩クリーム１％「サワイ」",
+        "テルビナフィン塩酸塩クリーム１％「トーワ」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/terbinafine/"
+    },
+    {
+      "slug": "atenolol",
+      "name": "ATENOLOL",
+      "drugbank_id": "DB00335",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "original_indication": "本態性高血圧症、狭心症、期外収縮",
+      "predicted_indication": "hemoglobinopathy、myocardial infarction (disease)、hypertensive disorder（他 2 件）",
+      "brand_names": [
+        "アテノロール錠２５ｍｇ「サワイ」",
+        "アテノロール錠２５ｍｇ「ツルハラ」",
+        "アテノロール錠２５ｍｇ「トーワ」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/atenolol/"
+    },
+    {
+      "slug": "diltiazem",
+      "name": "DILTIAZEM",
+      "drugbank_id": "DB00343",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "original_indication": "狭心症、本態性高血圧症",
+      "predicted_indication": "Prinzmetal angina、ventricular tachycardia、hypertensive disorder（他 2 件）",
+      "brand_names": [
+        "ジルチアゼム塩酸塩徐放カプセル１００ｍｇ「トーワ」",
+        "ジルチアゼム塩酸塩徐放カプセル１００ｍｇ「日医工」",
+        "ジルチアゼム塩酸塩徐放カプセル２００ｍｇ「トーワ」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/diltiazem/"
+    },
+    {
+      "slug": "haloperidol",
+      "name": "HALOPERIDOL",
+      "drugbank_id": "DB00502",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "original_indication": "統合失調症、躁病",
+      "predicted_indication": "Tourette syndrome、mental disorder、schizoaffective disorder（他 2 件）",
+      "brand_names": [
+        "セレネース細粒１％",
+        "セレネース細粒１％（選）",
+        "セレネース錠０．７５ｍｇ"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/haloperidol/"
+    },
+    {
+      "slug": "lisinopril",
+      "name": "LISINOPRIL",
+      "drugbank_id": "DB00722",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "original_indication": "高血圧症",
+      "predicted_indication": "hemoglobinopathy、myocardial infarction (disease)、hypertensive disorder（他 2 件）",
+      "brand_names": [
+        "リシノプリル錠１０ｍｇ「サワイ」",
+        "リシノプリル錠１０ｍｇ「トーワ」",
+        "リシノプリル錠１０ｍｇ「ＮＩＧ」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/lisinopril/"
+    },
+    {
+      "slug": "tadalafil",
+      "name": "TADALAFIL",
+      "drugbank_id": "DB00820",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "original_indication": "肺動脈性肺高血圧症",
+      "predicted_indication": "benign prostatic hyperplasia (disease)、pulmonary hypertension、erectile dysfunction (disease)（他 2 件）",
+      "brand_names": [
+        "アドシルカ錠２０ｍｇ",
+        "アドシルカ錠２０ｍｇ（選）",
+        "ザルティア錠２．５ｍｇ"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/tadalafil/"
+    },
+    {
+      "slug": "voriconazole",
+      "name": "VORICONAZOLE",
+      "drugbank_id": "DB00582",
+      "evidence_level": "L5",
+      "indication_count": 5,
+      "original_indication": "侵襲性アスペルギルス症、肺アスペルギローマ、慢性壊死性肺アスペルギルス症、カンジダ症、クリプトコックス髄膜炎、肺クリプトコックス症、スケドスポリウム症",
+      "predicted_indication": "candidemia、esophageal candidiasis、aspergillosis（他 2 件）",
+      "brand_names": [
+        "ブイフェンド錠２００ｍｇ",
+        "ブイフェンド錠２００ｍｇ（選）",
+        "ブイフェンド錠５０ｍｇ"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/voriconazole/"
+    },
+    {
+      "slug": "capecitabine",
+      "name": "CAPECITABINE",
+      "drugbank_id": "DB01101",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "original_indication": "乳癌、結腸・直腸癌、胃癌",
+      "predicted_indication": "diffuse gastric adenocarcinoma、gastric linitis plastica、gastric carcinoma（他 1 件）",
+      "brand_names": [
+        "カペシタビン錠３００ｍｇ「サワイ」",
+        "カペシタビン錠３００ｍｇ「タカタ」",
+        "カペシタビン錠３００ｍｇ「トーワ」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/capecitabine/"
+    },
+    {
+      "slug": "carbamazepine",
+      "name": "CARBAMAZEPINE",
+      "drugbank_id": "DB00564",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "original_indication": "躁病, 躁うつ病の躁状態、統合失調症、三叉神経痛",
+      "predicted_indication": "manic bipolar affective disorder、glossopharyngeal motor neuropathy、cutis verticis gyrata（他 1 件）",
+      "brand_names": [
+        "カルバマゼピン錠１００ｍｇ「アメル」",
+        "カルバマゼピン錠１００ｍｇ「フジナガ」",
+        "カルバマゼピン錠２００ｍｇ「アメル」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/carbamazepine/"
+    },
+    {
+      "slug": "cyclosporine",
+      "name": "CYCLOSPORINE",
+      "drugbank_id": "DB00091",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "original_indication": "",
+      "predicted_indication": "xerophthalmia、rheumatoid arthritis、Sjogren syndrome（他 1 件）",
+      "brand_names": [
+        "シクロスポリンカプセル１０ｍｇ「サンド」",
+        "シクロスポリンカプセル１０ｍｇ「トーワ」",
+        "シクロスポリンカプセル１０ｍｇ「日医工」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/cyclosporine/"
+    },
+    {
+      "slug": "escitalopram",
+      "name": "ESCITALOPRAM",
+      "drugbank_id": "DB01175",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "original_indication": "",
+      "predicted_indication": "unipolar depression、anxiety disorder、major depressive disorder（他 1 件）",
+      "brand_names": [
+        "エスシタロプラム錠１０ｍｇ「サワイ」",
+        "エスシタロプラム錠１０ｍｇ「タカタ」",
+        "エスシタロプラム錠１０ｍｇ「トーワ」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/escitalopram/"
+    },
+    {
+      "slug": "heparin",
+      "name": "HEPARIN",
+      "drugbank_id": "DB01109",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "original_indication": "凍瘡",
+      "predicted_indication": "purpura fulminans、pulmonary embolism (disease)、acquired purpura fulminans（他 1 件）",
+      "brand_names": [
+        "ゼスタッククリーム",
+        "ヒルドイドクリーム０．３％",
+        "ヒルドイドクリーム０．３％（選）"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/heparin/"
+    },
+    {
+      "slug": "mirtazapine",
+      "name": "MIRTAZAPINE",
+      "drugbank_id": "DB00370",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "original_indication": "",
+      "predicted_indication": "unipolar depression、anxiety disorder、major depressive disorder（他 1 件）",
+      "brand_names": [
+        "ミルタザピン錠１５ｍｇ「ケミファ」",
+        "ミルタザピン錠１５ｍｇ「サワイ」",
+        "ミルタザピン錠１５ｍｇ「トーワ」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/mirtazapine/"
+    },
+    {
+      "slug": "montelukast",
+      "name": "MONTELUKAST",
+      "drugbank_id": "DB00471",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "original_indication": "",
+      "predicted_indication": "allergic rhinitis、vasomotor rhinitis、allergic asthma（他 1 件）",
+      "brand_names": [
+        "キプレスチュアブル錠５ｍｇ",
+        "キプレスチュアブル錠５ｍｇ（選）",
+        "キプレスＯＤ錠１０ｍｇ"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/montelukast/"
+    },
+    {
+      "slug": "pregabalin",
+      "name": "PREGABALIN",
+      "drugbank_id": "DB00230",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "original_indication": "神経障害性疼痛、線維筋痛症",
+      "predicted_indication": "postherpetic neuralgia、anxiety disorder、myofascial pain syndrome（他 1 件）",
+      "brand_names": [
+        "プレガバリンカプセル１５０ｍｇ「サワイ」",
+        "プレガバリンカプセル１５０ｍｇ「トーワ」",
+        "プレガバリンカプセル１５０ｍｇ「日医工」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/pregabalin/"
+    },
+    {
+      "slug": "sildenafil",
+      "name": "SILDENAFIL",
+      "drugbank_id": "DB00203",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "original_indication": "肺動脈性肺高血圧症",
+      "predicted_indication": "erectile dysfunction (disease)、pulmonary arterial hypertension、premature ejaculation (disease)（他 1 件）",
+      "brand_names": [
+        "シルデナフィル錠２０ｍｇＲＥ「ＪＧ」",
+        "レバチオ錠２０ｍｇ",
+        "レバチオＯＤフィルム２０ｍｇ"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/sildenafil/"
+    },
+    {
+      "slug": "timolol",
+      "name": "TIMOLOL",
+      "drugbank_id": "DB00373",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "original_indication": "",
+      "predicted_indication": "hypertensive disorder、open-angle glaucoma、ocular hypertension（他 1 件）",
+      "brand_names": [
+        "コソプト配合点眼液",
+        "コソプト配合点眼液（選）",
+        "タフチモ配合点眼液「日点」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/timolol/"
+    },
+    {
+      "slug": "verapamil",
+      "name": "VERAPAMIL",
+      "drugbank_id": "DB00661",
+      "evidence_level": "L5",
+      "indication_count": 4,
+      "original_indication": "心房細動、狭心症、心筋梗塞",
+      "predicted_indication": "hypertensive disorder、acute coronary syndrome、ventricular tachycardia（他 1 件）",
+      "brand_names": [
+        "ベラパミル塩酸塩錠４０ｍｇ「タイヨー」",
+        "ベラパミル塩酸塩錠４０ｍｇ「ツルハラ」",
+        "ベラパミル塩酸塩錠４０ｍｇ「ＪＧ」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/verapamil/"
+    },
+    {
+      "slug": "alprazolam",
+      "name": "ALPRAZOLAM",
+      "drugbank_id": "DB00404",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "mixed anxiety and depressive disorder、anxiety disorder、anxiety",
+      "brand_names": [
+        "アルプラゾラム錠０．４ｍｇ「アメル」",
+        "アルプラゾラム錠０．４ｍｇ「サワイ」",
+        "アルプラゾラム錠０．４ｍｇ「トーワ」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/alprazolam/"
+    },
+    {
+      "slug": "clopidogrel",
+      "name": "CLOPIDOGREL",
+      "drugbank_id": "DB00758",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "acute coronary syndrome、intracranial embolism、ST-elevation myocardial infarction",
+      "brand_names": [
+        "クロピドグレル硫酸塩２５ｍｇ錠",
+        "クロピドグレル錠２５ｍｇ「クニヒロ」",
+        "クロピドグレル錠２５ｍｇ「ケミファ」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/clopidogrel/"
+    },
+    {
+      "slug": "enalapril",
+      "name": "ENALAPRIL",
+      "drugbank_id": "DB00584",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "本態性高血圧症、悪性高血圧",
+      "predicted_indication": "hypertensive disorder、congestive heart failure、heart failure",
+      "brand_names": [
+        "エナラプリルマレイン酸塩細粒１％「アメル」",
+        "エナラプリルマレイン酸塩錠１０ｍｇ「オーハラ」",
+        "エナラプリルマレイン酸塩錠１０ｍｇ「ケミファ」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/enalapril/"
+    },
+    {
+      "slug": "hydrochlorothiazide",
+      "name": "HYDROCHLOROTHIAZIDE",
+      "drugbank_id": "DB00999",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "高血圧症",
+      "predicted_indication": "hypertensive disorder、hypertension、congestive heart failure",
+      "brand_names": [
+        "エカード配合錠ＨＤ",
+        "エカード配合錠ＨＤ（選）",
+        "エカード配合錠ＬＤ"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/hydrochlorothiazide/"
+    },
+    {
+      "slug": "lactulose",
+      "name": "LACTULOSE",
+      "drugbank_id": "DB00581",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "hepatic encephalopathy、constipation disorder、hepatic coma",
+      "brand_names": [
+        "ラグノスＮＦ経口ゼリー分包１２ｇ　５４．１６７％"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/lactulose/"
+    },
+    {
+      "slug": "lamivudine",
+      "name": "LAMIVUDINE",
+      "drugbank_id": "DB00709",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "chronic hepatitis B virus infection、AIDS、HIV infectious disease",
+      "brand_names": [
+        "エプジコム配合錠",
+        "エプジコム配合錠（選）",
+        "ラバミコム配合錠「アメル」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/lamivudine/"
+    },
+    {
+      "slug": "losartan",
+      "name": "LOSARTAN",
+      "drugbank_id": "DB00678",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "高血圧症、糖尿病性腎症",
+      "predicted_indication": "hypertensive disorder、diabetic nephropathy、hypertension",
+      "brand_names": [
+        "ニューロタン錠１００ｍｇ",
+        "ニューロタン錠１００ｍｇ（選）",
+        "ニューロタン錠２５ｍｇ"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/losartan/"
+    },
+    {
+      "slug": "metoclopramide",
+      "name": "METOCLOPRAMIDE",
+      "drugbank_id": "DB01233",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "胃・十二指腸潰瘍",
+      "predicted_indication": "gastroesophageal reflux disease、peptic esophagitis、esophagitis (disease)",
+      "brand_names": [
+        "プリンペラン細粒２％",
+        "プリンペラン細粒２％（選）",
+        "プリンペラン錠５　５ｍｇ"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/metoclopramide/"
+    },
+    {
+      "slug": "nifedipine",
+      "name": "NIFEDIPINE",
+      "drugbank_id": "DB01115",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "本態性高血圧症、狭心症",
+      "predicted_indication": "hypertensive disorder、Prinzmetal angina、hypertension",
+      "brand_names": [
+        "アダラートＣＲ錠１０ｍｇ",
+        "アダラートＣＲ錠２０ｍｇ",
+        "アダラートＣＲ錠２０ｍｇ（選）"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/nifedipine/"
+    },
+    {
+      "slug": "tramadol",
+      "name": "TRAMADOL",
+      "drugbank_id": "DB00193",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "osteoarthritis susceptibility、arthropathy、osteoarthritis",
+      "brand_names": [
+        "トラマドール塩酸塩ＯＤ錠２５ｍｇ「ＫＯ」",
+        "トラマドール塩酸塩ＯＤ錠５０ｍｇ「ＫＯ」",
+        "トラマールＯＤ錠２５ｍｇ"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/tramadol/"
+    },
+    {
+      "slug": "valproic-acid",
+      "name": "VALPROIC ACID",
+      "drugbank_id": "DB00313",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "躁病および躁うつ病の躁状態",
+      "predicted_indication": "manic bipolar affective disorder、absence epilepsy、epilepsy",
+      "brand_names": [
+        "セレニカＲ顆粒４０％",
+        "セレニカＲ顆粒４０％（選）",
+        "デパケンシロップ５％"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/valproic-acid/"
+    },
+    {
+      "slug": "warfarin",
+      "name": "WARFARIN",
+      "drugbank_id": "DB00682",
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "original_indication": "",
+      "predicted_indication": "pulmonary embolism (disease)、intracranial embolism、thrombotic disease",
+      "brand_names": [
+        "ワルファリンＫ細粒０．２％「ＮＳ」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/warfarin/"
+    },
+    {
+      "slug": "allopurinol",
+      "name": "ALLOPURINOL",
+      "drugbank_id": "DB00437",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "痛風",
+      "predicted_indication": "acute urate nephropathy、obsolete hyperuricemia (disease)",
+      "brand_names": [
+        "アロプリノール錠１００ｍｇ「あゆみ」",
+        "アロプリノール錠１００ｍｇ「アメル」",
+        "アロプリノール錠１００ｍｇ「ケミファ」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/allopurinol/"
+    },
+    {
+      "slug": "ascorbic-acid",
+      "name": "ASCORBIC ACID",
+      "drugbank_id": "DB00126",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "ascorbic acid deficiency、scurvy",
+      "brand_names": [
+        "シナール配合顆粒",
+        "シーピー配合顆粒"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/ascorbic-acid/"
+    },
+    {
+      "slug": "erlotinib",
+      "name": "ERLOTINIB",
+      "drugbank_id": "DB00530",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "非小細胞肺癌 (EGFR遺伝子変異陽性)、膵癌",
+      "predicted_indication": "pancreatic adenocarcinoma、non-small cell lung carcinoma (disease)",
+      "brand_names": [
+        "エルロチニブ錠１００ｍｇ「ＮＫ」",
+        "エルロチニブ錠１５０ｍｇ「ＮＫ」",
+        "エルロチニブ錠２５ｍｇ「ＮＫ」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/erlotinib/"
+    },
+    {
+      "slug": "fenofibrate",
+      "name": "FENOFIBRATE",
+      "drugbank_id": "DB01039",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "高脂血症、家族性高脂血症",
+      "predicted_indication": "hypertriglyceridemia (disease)、hypoalphalipoproteinemia",
+      "brand_names": [
+        "トライコア錠５３．３ｍｇ",
+        "トライコア錠５３．３ｍｇ（選）",
+        "トライコア錠８０ｍｇ"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/fenofibrate/"
+    },
+    {
+      "slug": "furosemide",
+      "name": "FUROSEMIDE",
+      "drugbank_id": "DB00695",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "本態性高血圧症、高血圧症",
+      "predicted_indication": "hypertensive disorder、congestive heart failure",
+      "brand_names": [
+        "フロセミド錠１０ｍｇ「ＮＩＧ」",
+        "フロセミド錠１０ｍｇ「ＮＰ」",
+        "フロセミド錠１０ｍｇ「ＳＮ」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/furosemide/"
+    },
+    {
+      "slug": "gliclazide",
+      "name": "GLICLAZIDE",
+      "drugbank_id": "DB01120",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "インスリン非依存型糖尿病",
+      "predicted_indication": "type 2 diabetes mellitus、diabetes mellitus (disease)",
+      "brand_names": [
+        "グリクラジド錠２０ｍｇ「サワイ」",
+        "グリクラジド錠２０ｍｇ「トーワ」",
+        "グリクラジド錠２０ｍｇ「ＮＰ」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/gliclazide/"
+    },
+    {
+      "slug": "glimepiride",
+      "name": "GLIMEPIRIDE",
+      "drugbank_id": "DB00222",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "2型糖尿病",
+      "predicted_indication": "type 2 diabetes mellitus、diabetes mellitus (disease)",
+      "brand_names": [
+        "アマリール０．５ｍｇ錠",
+        "アマリール０．５ｍｇ錠（選）",
+        "アマリール３ｍｇ錠"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/glimepiride/"
+    },
+    {
+      "slug": "glyburide",
+      "name": "GLYBURIDE",
+      "drugbank_id": "DB01016",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "インスリン非依存型糖尿病",
+      "predicted_indication": "type 2 diabetes mellitus、diabetes mellitus (disease)",
+      "brand_names": [
+        "オイグルコン錠１．２５ｍｇ",
+        "オイグルコン錠１．２５ｍｇ（選）",
+        "オイグルコン錠２．５ｍｇ"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/glyburide/"
+    },
+    {
+      "slug": "lamotrigine",
+      "name": "LAMOTRIGINE",
+      "drugbank_id": "DB00555",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "Lennox-Gastaut症候群、双極性障害における気分エピソードの再発・再燃抑制",
+      "predicted_indication": "cutis verticis gyrata、Lennox-Gastaut syndrome",
+      "brand_names": [
+        "ラミクタール錠小児用５ｍｇ",
+        "ラミクタール錠小児用５ｍｇ（選）",
+        "ラミクタール錠１００ｍｇ"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/lamotrigine/"
+    },
+    {
+      "slug": "latanoprost",
+      "name": "LATANOPROST",
+      "drugbank_id": "DB00654",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "緑内障",
+      "predicted_indication": "ocular hypertension、open-angle glaucoma",
+      "brand_names": [
+        "キサラタン点眼液０．００５％",
+        "キサラタン点眼液０．００５％（選）",
+        "ザラカム配合点眼液"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/latanoprost/"
+    },
+    {
+      "slug": "loperamide",
+      "name": "LOPERAMIDE",
+      "drugbank_id": "DB00836",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "dysentery、diarrheal disease",
+      "brand_names": [
+        "ロペミンカプセル１ｍｇ",
+        "ロペミンカプセル１ｍｇ（選）",
+        "ロペラミド塩酸塩カプセル１ｍｇ「サワイ」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/loperamide/"
+    },
+    {
+      "slug": "metformin",
+      "name": "METFORMIN",
+      "drugbank_id": "DB00331",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "2型糖尿病、多嚢胞性卵巣症候群",
+      "predicted_indication": "type 2 diabetes mellitus、diabetes mellitus (disease)",
+      "brand_names": [
+        "エクメット配合錠ＨＤ",
+        "エクメット配合錠ＬＤ",
+        "グリコラン錠２５０ｍｇ"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/metformin/"
+    },
+    {
+      "slug": "oseltamivir",
+      "name": "OSELTAMIVIR",
+      "drugbank_id": "DB00198",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "influenza, severe, susceptibility to、influenza",
+      "brand_names": [
+        "オセルタミビルカプセル７５ｍｇ「サワイ」",
+        "オセルタミビル錠７５ｍｇ「トーワ」",
+        "オセルタミビルＤＳ３％「サワイ」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/oseltamivir/"
+    },
+    {
+      "slug": "oxybutynin",
+      "name": "OXYBUTYNIN",
+      "drugbank_id": "DB01062",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "obsolete neurogenic bladder (disease)、cauda equina syndrome",
+      "brand_names": [
+        "オキシブチニン塩酸塩錠１ｍｇ「サワイ」",
+        "オキシブチニン塩酸塩錠２ｍｇ「サワイ」",
+        "オキシブチニン塩酸塩錠３ｍｇ「サワイ」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/oxybutynin/"
+    },
+    {
+      "slug": "pioglitazone",
+      "name": "PIOGLITAZONE",
+      "drugbank_id": "DB01132",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "2型糖尿病",
+      "predicted_indication": "type 2 diabetes mellitus、diabetes mellitus (disease)",
+      "brand_names": [
+        "アクトス錠１５　１５ｍｇ",
+        "アクトス錠１５　１５ｍｇ（選）",
+        "アクトス錠３０　３０ｍｇ"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/pioglitazone/"
+    },
+    {
+      "slug": "quetiapine",
+      "name": "QUETIAPINE",
+      "drugbank_id": "DB01224",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "統合失調症、双極性障害におけるうつ症状",
+      "predicted_indication": "major affective disorder、manic bipolar affective disorder",
+      "brand_names": [
+        "クエチアピンフマル酸塩１２．５ｍｇ錠",
+        "クエチアピンフマル酸塩２５ｍｇ錠",
+        "クエチアピン細粒１０％「アメル」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/quetiapine/"
+    },
+    {
+      "slug": "topiramate",
+      "name": "TOPIRAMATE",
+      "drugbank_id": "DB00273",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "",
+      "predicted_indication": "cutis verticis gyrata、Lennox-Gastaut syndrome",
+      "brand_names": [
+        "トピナ錠１００ｍｇ",
+        "トピナ錠１００ｍｇ（選）",
+        "トピナ錠２５ｍｇ"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/topiramate/"
+    },
+    {
+      "slug": "valsartan",
+      "name": "VALSARTAN",
+      "drugbank_id": "DB00177",
+      "evidence_level": "L5",
+      "indication_count": 2,
+      "original_indication": "高血圧症",
+      "predicted_indication": "hypertensive disorder、hypertension",
+      "brand_names": [
+        "ディオバン錠１６０ｍｇ",
+        "ディオバン錠１６０ｍｇ（選）",
+        "ディオバン錠２０ｍｇ"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/valsartan/"
+    },
+    {
+      "slug": "bisoprolol",
+      "name": "BISOPROLOL",
+      "drugbank_id": "DB00612",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "本態性高血圧症、狭心症、拡張型心筋症、頻脈性心房細動",
+      "predicted_indication": "hypertensive disorder",
+      "brand_names": [
+        "ビソプロロールフマル酸塩錠２．５ｍｇ「サワイ」",
+        "ビソプロロールフマル酸塩錠２．５ｍｇ「サンド」",
+        "ビソプロロールフマル酸塩錠２．５ｍｇ「テバ」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/bisoprolol/"
+    },
+    {
+      "slug": "carvedilol",
+      "name": "CARVEDILOL",
+      "drugbank_id": "DB01136",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "本態性高血圧症、狭心症、拡張型心筋症、頻脈性心房細動",
+      "predicted_indication": "hypertensive disorder",
+      "brand_names": [
+        "アーチスト錠１０ｍｇ",
+        "アーチスト錠１０ｍｇ（選）",
+        "アーチスト錠２．５ｍｇ"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/carvedilol/"
+    },
+    {
+      "slug": "dapagliflozin",
+      "name": "DAPAGLIFLOZIN",
+      "drugbank_id": "DB06292",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "2型糖尿病",
+      "predicted_indication": "diabetes mellitus (disease)",
+      "brand_names": [
+        "ダパグリフロジン錠１０ｍｇ「サワイ」",
+        "ダパグリフロジン錠１０ｍｇ「ＴＳＰ」",
+        "ダパグリフロジン錠５ｍｇ「サワイ」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/dapagliflozin/"
+    },
+    {
+      "slug": "eszopiclone",
+      "name": "ESZOPICLONE",
+      "drugbank_id": "DB00402",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "不眠症",
+      "predicted_indication": "insomnia (disease)",
+      "brand_names": [
+        "エスゾピクロン錠１ｍｇ「アメル」",
+        "エスゾピクロン錠１ｍｇ「ケミファ」",
+        "エスゾピクロン錠１ｍｇ「サワイ」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/eszopiclone/"
+    },
+    {
+      "slug": "febuxostat",
+      "name": "FEBUXOSTAT",
+      "drugbank_id": "DB04854",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "痛風",
+      "predicted_indication": "obsolete hyperuricemia (disease)",
+      "brand_names": [
+        "フェブキソスタット錠１０ｍｇ「ケミファ」",
+        "フェブキソスタット錠１０ｍｇ「サワイ」",
+        "フェブキソスタット錠１０ｍｇ「トーワ」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/febuxostat/"
+    },
+    {
+      "slug": "gefitinib",
+      "name": "GEFITINIB",
+      "drugbank_id": "DB00317",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "非小細胞肺癌 (EGFR遺伝子変異陽性)",
+      "predicted_indication": "non-small cell lung carcinoma (disease)",
+      "brand_names": [
+        "イレッサ錠２５０　２５０ｍｇ",
+        "イレッサ錠２５０　２５０ｍｇ（選）",
+        "ゲフィチニブ錠２５０ｍｇ「サワイ」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/gefitinib/"
+    },
+    {
+      "slug": "levetiracetam",
+      "name": "LEVETIRACETAM",
+      "drugbank_id": "DB01202",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "partial epilepsy",
+      "brand_names": [
+        "レベチラセタム粒状錠２５０ｍｇ「サワイ」",
+        "レベチラセタム粒状錠５００ｍｇ「サワイ」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/levetiracetam/"
+    },
+    {
+      "slug": "loxoprofen",
+      "name": "LOXOPROFEN",
+      "drugbank_id": "DB09212",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "rheumatoid arthritis",
+      "brand_names": [
+        "ロキソニンゲル１％",
+        "ロキソニンゲル１％（選）",
+        "ロキソニン錠６０ｍｇ"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/loxoprofen/"
+    },
+    {
+      "slug": "morphine",
+      "name": "MORPHINE",
+      "drugbank_id": "DB00295",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "diarrheal disease",
+      "brand_names": [
+        "モルヒネ硫酸塩水和物徐放細粒分包１０ｍｇ「フジモト」",
+        "モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」",
+        "モルペス細粒２％"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/morphine/"
+    },
+    {
+      "slug": "prasugrel",
+      "name": "PRASUGREL",
+      "drugbank_id": "DB06209",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "狭心症、心筋梗塞",
+      "predicted_indication": "acute coronary syndrome",
+      "brand_names": [
+        "エフィエント錠２．５ｍｇ",
+        "エフィエント錠３．７５ｍｇ",
+        "エフィエント錠５ｍｇ"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/prasugrel/"
+    },
+    {
+      "slug": "pyridoxine",
+      "name": "PYRIDOXINE",
+      "drugbank_id": "DB00165",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "脂漏性湿疹、接触皮膚炎",
+      "predicted_indication": "pyridoxine deficiency anemia",
+      "brand_names": [
+        "ビタミンＢ６錠３０ｍｇ「Ｆ」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/pyridoxine/"
+    },
+    {
+      "slug": "riboflavin",
+      "name": "RIBOFLAVIN",
+      "drugbank_id": "DB00140",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "高コレステロール血症",
+      "predicted_indication": "vitamin deficiency disorder",
+      "brand_names": [
+        "ハイボン錠２０ｍｇ",
+        "ハイボン錠２０ｍｇ（選）",
+        "リボフラビン酪酸エステル細粒１０％「ツルハラ」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/riboflavin/"
+    },
+    {
+      "slug": "silodosin",
+      "name": "SILODOSIN",
+      "drugbank_id": "DB06207",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "benign prostatic hyperplasia (disease)",
+      "brand_names": [
+        "シロドシン錠２ｍｇ「オーハラ」",
+        "シロドシン錠２ｍｇ「トーワ」",
+        "シロドシン錠２ｍｇ「ニプロ」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/silodosin/"
+    },
+    {
+      "slug": "solifenacin",
+      "name": "SOLIFENACIN",
+      "drugbank_id": "DB01591",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "overactive bladder (disease)",
+      "brand_names": [
+        "ソリフェナシンコハク酸塩錠２．５ｍｇ「サワイ」",
+        "ソリフェナシンコハク酸塩錠２．５ｍｇ「ツルハラ」",
+        "ソリフェナシンコハク酸塩錠２．５ｍｇ「トーワ」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/solifenacin/"
+    },
+    {
+      "slug": "sucralfate",
+      "name": "SUCRALFATE",
+      "drugbank_id": "DB00364",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "胃潰瘍、十二指腸潰瘍",
+      "predicted_indication": "duodenal ulcer (disease)",
+      "brand_names": [
+        "アルサルミン内用液１０％",
+        "アルサルミン内用液１０％（選）",
+        "アルサルミン細粒９０％"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/sucralfate/"
+    },
+    {
+      "slug": "tacrolimus",
+      "name": "TACROLIMUS",
+      "drugbank_id": "DB00864",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "臓器移植における拒絶反応、移植片対宿主病、重症筋無力症、関節リウマチ、ループス腎炎、活動期潰瘍性大腸炎、多発性筋炎・皮膚筋炎、アトピー性皮膚炎",
+      "predicted_indication": "atopic eczema",
+      "brand_names": [
+        "タクロリムスカプセル０．５ｍｇ「サンド」",
+        "タクロリムスカプセル０．５ｍｇ「ニプロ」",
+        "タクロリムスカプセル０．５ｍｇ「ＪＧ」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/tacrolimus/"
+    },
+    {
+      "slug": "tamsulosin",
+      "name": "TAMSULOSIN",
+      "drugbank_id": "DB00706",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "",
+      "predicted_indication": "benign prostatic hyperplasia (disease)",
+      "brand_names": [
+        "タムスロシン塩酸塩カプセル０．１ｍｇ「ＮＩＧ」",
+        "タムスロシン塩酸塩カプセル０．２ｍｇ「ＮＩＧ」",
+        "タムスロシン塩酸塩０．１ｍｇ口腔内崩壊錠"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/tamsulosin/"
+    },
+    {
+      "slug": "zolpidem",
+      "name": "ZOLPIDEM",
+      "drugbank_id": "DB00425",
+      "evidence_level": "L5",
+      "indication_count": 1,
+      "original_indication": "不眠症",
+      "predicted_indication": "insomnia (disease)",
+      "brand_names": [
+        "ゾルピデム酒石酸塩内用液１０ｍｇ「タカタ」　２ｍＬ",
+        "ゾルピデム酒石酸塩内用液５ｍｇ「タカタ」　１ｍＬ",
+        "ゾルピデム酒石酸塩錠１０ｍｇ「アメル」"
+      ],
+      "japan_approved": true,
+      "url": "/drugs/zolpidem/"
+    }
+  ]
+}

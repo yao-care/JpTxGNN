@@ -1,0 +1,422 @@
+<!-- D3.js Interactive Charts -->
+<style>
+.d3-chart-section {
+  margin: 2rem 0;
+}
+.d3-chart-title {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: #333;
+}
+.d3-chart-container {
+  background: #fafafa;
+  border-radius: 12px;
+  padding: 1.5rem;
+  overflow-x: auto;
+}
+.d3-bar-chart .bar {
+  transition: opacity 0.2s;
+  cursor: pointer;
+}
+.d3-bar-chart .bar:hover {
+  opacity: 0.8;
+}
+.d3-bar-chart .bar-label {
+  font-size: 12px;
+  fill: #666;
+}
+.d3-bar-chart .axis text {
+  font-size: 11px;
+  fill: #666;
+}
+.d3-bar-chart .axis path,
+.d3-bar-chart .axis line {
+  stroke: #ddd;
+}
+.d3-tooltip {
+  position: absolute;
+  background: rgba(0, 0, 0, 0.85);
+  color: white;
+  padding: 8px 12px;
+  border-radius: 6px;
+  font-size: 13px;
+  pointer-events: none;
+  z-index: 1000;
+  max-width: 250px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+}
+.d3-tooltip .drug-name {
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+.d3-tooltip .drug-info {
+  opacity: 0.9;
+  font-size: 12px;
+}
+.d3-scatter .dot {
+  cursor: pointer;
+  transition: r 0.2s;
+}
+.d3-scatter .dot:hover {
+  r: 10;
+}
+.chart-tabs {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+.chart-tab {
+  padding: 0.5rem 1rem;
+  background: #e0e0e0;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: all 0.2s;
+}
+.chart-tab:hover {
+  background: #d0d0d0;
+}
+.chart-tab.active {
+  background: #2E7D32;
+  color: white;
+}
+</style>
+
+<!-- Bar Chart: High Evidence Drugs -->
+<div class="d3-chart-section">
+  <div class="d3-chart-title">高證據藥物一覽（L1-L2）</div>
+  <div class="d3-chart-container">
+    <div id="indication-bar-chart"></div>
+  </div>
+</div>
+
+<!-- Scatter Plot: Evidence Level Distribution -->
+<div class="d3-chart-section">
+  <div class="d3-chart-title">證據等級 vs 適應症數量</div>
+  <div class="chart-tabs">
+    <button class="chart-tab active" data-filter="all">全部 (191)</button>
+    <button class="chart-tab" data-filter="high">高證據 L1-L2 (18)</button>
+    <button class="chart-tab" data-filter="medium">中證據 L3-L4 (35)</button>
+  </div>
+  <div class="d3-chart-container">
+    <div id="evidence-scatter-chart"></div>
+  </div>
+</div>
+
+<!-- Tooltip -->
+<div class="d3-tooltip" style="display: none;"></div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // Drug data from Jekyll
+  const drugData = {{ site.data.drug_stats.all_drugs | jsonify }};
+  const levelCounts = {{ site.data.drug_stats.level_counts | jsonify }};
+
+  const levelColors = {
+    'L1': '#2E7D32',
+    'L2': '#66BB6A',
+    'L3': '#FDD835',
+    'L4': '#FB8C00',
+    'L5': '#9E9E9E'
+  };
+
+  const levelLabels = {
+    'L1': 'Phase 3 RCT',
+    'L2': 'Phase 2 RCT',
+    'L3': '觀察性研究',
+    'L4': '前臨床研究',
+    'L5': '僅模型預測'
+  };
+
+  const tooltip = d3.select('.d3-tooltip');
+
+  // ========== Bar Chart ==========
+  function createBarChart() {
+    const container = d3.select('#indication-bar-chart');
+    container.selectAll('*').remove();
+
+    // Filter high evidence drugs (L1-L2) and sort by level then indication_count
+    const highEvidence = drugData
+      .filter(d => d.level === 'L1' || d.level === 'L2')
+      .sort((a, b) => {
+        if (a.level !== b.level) return a.level.localeCompare(b.level);
+        return b.indication_count - a.indication_count;
+      });
+
+    const margin = {top: 20, right: 30, bottom: 100, left: 50};
+    const width = Math.min(800, container.node().getBoundingClientRect().width) - margin.left - margin.right;
+    const height = 350 - margin.top - margin.bottom;
+
+    const svg = container.append('svg')
+      .attr('class', 'd3-bar-chart')
+      .attr('width', width + margin.left + margin.right)
+      .attr('height', height + margin.top + margin.bottom)
+      .append('g')
+      .attr('transform', `translate(${margin.left},${margin.top})`);
+
+    const x = d3.scaleBand()
+      .domain(highEvidence.map(d => d.name))
+      .range([0, width])
+      .padding(0.15);
+
+    const y = d3.scaleLinear()
+      .domain([0, d3.max(highEvidence, d => d.indication_count) + 1])
+      .nice()
+      .range([height, 0]);
+
+    // X axis
+    svg.append('g')
+      .attr('class', 'axis x-axis')
+      .attr('transform', `translate(0,${height})`)
+      .call(d3.axisBottom(x))
+      .selectAll('text')
+      .attr('transform', 'rotate(-45)')
+      .style('text-anchor', 'end')
+      .attr('dx', '-0.5em')
+      .attr('dy', '0.5em');
+
+    // Y axis
+    svg.append('g')
+      .attr('class', 'axis y-axis')
+      .call(d3.axisLeft(y).ticks(5));
+
+    // Y axis label
+    svg.append('text')
+      .attr('transform', 'rotate(-90)')
+      .attr('y', -40)
+      .attr('x', -height / 2)
+      .attr('text-anchor', 'middle')
+      .style('font-size', '12px')
+      .style('fill', '#666')
+      .text('預測適應症數量');
+
+    // Bars
+    svg.selectAll('.bar')
+      .data(highEvidence)
+      .enter()
+      .append('rect')
+      .attr('class', 'bar')
+      .attr('x', d => x(d.name))
+      .attr('y', d => y(d.indication_count))
+      .attr('width', x.bandwidth())
+      .attr('height', d => height - y(d.indication_count))
+      .attr('fill', d => levelColors[d.level])
+      .attr('rx', 4)
+      .on('mouseover', function(event, d) {
+        tooltip.style('display', 'block')
+          .html(`
+            <div class="drug-name">${d.name}</div>
+            <div class="drug-info">
+              證據等級: ${d.level} (${levelLabels[d.level]})<br>
+              預測適應症: ${d.indication_count} 個
+            </div>
+          `);
+      })
+      .on('mousemove', function(event) {
+        tooltip
+          .style('left', (event.pageX + 15) + 'px')
+          .style('top', (event.pageY - 10) + 'px');
+      })
+      .on('mouseout', function() {
+        tooltip.style('display', 'none');
+      })
+      .on('click', function(event, d) {
+        window.location.href = '{{ "/" | relative_url }}drugs/' + d.slug + '/';
+      });
+
+    // Legend
+    const legend = svg.append('g')
+      .attr('transform', `translate(${width - 100}, 0)`);
+
+    [['L1', 'Phase 3 RCT'], ['L2', 'Phase 2 RCT']].forEach(([level, label], i) => {
+      const g = legend.append('g')
+        .attr('transform', `translate(0, ${i * 20})`);
+      g.append('rect')
+        .attr('width', 14)
+        .attr('height', 14)
+        .attr('fill', levelColors[level])
+        .attr('rx', 2);
+      g.append('text')
+        .attr('x', 20)
+        .attr('y', 11)
+        .style('font-size', '11px')
+        .style('fill', '#666')
+        .text(`${level} ${label}`);
+    });
+  }
+
+  // ========== Scatter Plot ==========
+  let currentFilter = 'all';
+
+  function createScatterPlot(filter) {
+    const container = d3.select('#evidence-scatter-chart');
+    container.selectAll('*').remove();
+
+    let filteredData = drugData;
+    if (filter === 'high') {
+      filteredData = drugData.filter(d => d.level === 'L1' || d.level === 'L2');
+    } else if (filter === 'medium') {
+      filteredData = drugData.filter(d => d.level === 'L3' || d.level === 'L4');
+    }
+
+    const margin = {top: 20, right: 30, bottom: 50, left: 60};
+    const width = Math.min(800, container.node().getBoundingClientRect().width) - margin.left - margin.right;
+    const height = 350 - margin.top - margin.bottom;
+
+    const svg = container.append('svg')
+      .attr('class', 'd3-scatter')
+      .attr('width', width + margin.left + margin.right)
+      .attr('height', height + margin.top + margin.bottom)
+      .append('g')
+      .attr('transform', `translate(${margin.left},${margin.top})`);
+
+    const levelOrder = ['L1', 'L2', 'L3', 'L4', 'L5'];
+
+    const x = d3.scalePoint()
+      .domain(levelOrder)
+      .range([30, width - 30])
+      .padding(0.5);
+
+    const y = d3.scaleLinear()
+      .domain([0, d3.max(filteredData, d => d.indication_count) + 1])
+      .nice()
+      .range([height, 0]);
+
+    // Grid lines
+    svg.append('g')
+      .attr('class', 'grid')
+      .attr('opacity', 0.1)
+      .call(d3.axisLeft(y).tickSize(-width).tickFormat(''));
+
+    // X axis
+    svg.append('g')
+      .attr('class', 'axis x-axis')
+      .attr('transform', `translate(0,${height})`)
+      .call(d3.axisBottom(x));
+
+    // X axis label
+    svg.append('text')
+      .attr('x', width / 2)
+      .attr('y', height + 40)
+      .attr('text-anchor', 'middle')
+      .style('font-size', '12px')
+      .style('fill', '#666')
+      .text('證據等級');
+
+    // Y axis
+    svg.append('g')
+      .attr('class', 'axis y-axis')
+      .call(d3.axisLeft(y).ticks(5));
+
+    // Y axis label
+    svg.append('text')
+      .attr('transform', 'rotate(-90)')
+      .attr('y', -45)
+      .attr('x', -height / 2)
+      .attr('text-anchor', 'middle')
+      .style('font-size', '12px')
+      .style('fill', '#666')
+      .text('適應症數量');
+
+    // Add jitter to avoid overlap
+    const jitter = d3.randomUniform(-20, 20);
+
+    // Dots
+    svg.selectAll('.dot')
+      .data(filteredData)
+      .enter()
+      .append('circle')
+      .attr('class', 'dot')
+      .attr('cx', d => x(d.level) + jitter())
+      .attr('cy', d => y(d.indication_count))
+      .attr('r', 6)
+      .attr('fill', d => levelColors[d.level])
+      .attr('opacity', 0.7)
+      .attr('stroke', '#fff')
+      .attr('stroke-width', 1)
+      .on('mouseover', function(event, d) {
+        d3.select(this).attr('opacity', 1);
+        tooltip.style('display', 'block')
+          .html(`
+            <div class="drug-name">${d.name}</div>
+            <div class="drug-info">
+              證據等級: ${d.level} (${levelLabels[d.level]})<br>
+              預測適應症: ${d.indication_count} 個
+            </div>
+          `);
+      })
+      .on('mousemove', function(event) {
+        tooltip
+          .style('left', (event.pageX + 15) + 'px')
+          .style('top', (event.pageY - 10) + 'px');
+      })
+      .on('mouseout', function() {
+        d3.select(this).attr('opacity', 0.7);
+        tooltip.style('display', 'none');
+      })
+      .on('click', function(event, d) {
+        window.location.href = '{{ "/" | relative_url }}drugs/' + d.slug + '/';
+      });
+
+    // Legend - positioned at bottom left with background
+    const legendData = filter === 'all' ? levelOrder :
+                       filter === 'high' ? ['L1', 'L2'] : ['L3', 'L4'];
+
+    const legendWidth = 60;
+    const legendHeight = legendData.length * 20 + 10;
+
+    const legend = svg.append('g')
+      .attr('transform', `translate(10, ${height - legendHeight - 10})`);
+
+    // Background
+    legend.append('rect')
+      .attr('x', -8)
+      .attr('y', -5)
+      .attr('width', legendWidth)
+      .attr('height', legendHeight)
+      .attr('fill', 'white')
+      .attr('opacity', 0.9)
+      .attr('rx', 4);
+
+    legendData.forEach((level, i) => {
+      const g = legend.append('g')
+        .attr('transform', `translate(0, ${i * 20 + 5})`);
+
+      g.append('circle')
+        .attr('r', 5)
+        .attr('fill', levelColors[level]);
+
+      g.append('text')
+        .attr('x', 10)
+        .attr('y', 4)
+        .style('font-size', '11px')
+        .style('fill', '#333')
+        .text(level);
+    });
+  }
+
+  // Tab click handlers
+  d3.selectAll('.chart-tab').on('click', function() {
+    d3.selectAll('.chart-tab').classed('active', false);
+    d3.select(this).classed('active', true);
+    currentFilter = this.dataset.filter;
+    createScatterPlot(currentFilter);
+  });
+
+  // Initialize charts
+  createBarChart();
+  createScatterPlot('all');
+
+  // Responsive resize
+  let resizeTimeout;
+  window.addEventListener('resize', function() {
+    clearTimeout(resizeTimeout);
+    resizeTimeout = setTimeout(function() {
+      createBarChart();
+      createScatterPlot(currentFilter);
+    }, 250);
+  });
+});
+</script>
