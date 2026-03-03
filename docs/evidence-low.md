@@ -1,8 +1,10 @@
 ---
 layout: default
-title: モデル予測のみ (L5)
-nav_order: 7
+title: モデル予測のみ
+parent: 医薬品レポート
+nav_order: 3
 description: "L5 レベルのドラッグリポジショニング候補薬。現在 AI モデル予測のみで臨床エビデンスがなく、研究方向の参考として使用できます。"
+permalink: /evidence-low/
 ---
 
 # モデル予測のみの薬物

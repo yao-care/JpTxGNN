@@ -1,8 +1,10 @@
 ---
 layout: default
-title: 中エビデンスレベル (L3-L4)
-nav_order: 6
+title: 中エビデンスレベル
+parent: 医薬品レポート
+nav_order: 2
 description: "L3-L4 レベルのドラッグリポジショニング候補薬。観察研究または前臨床エビデンスによる支持があり、さらなる研究探索の価値があります。"
+permalink: /evidence-medium/
 ---
 
 # 中エビデンスレベル薬物

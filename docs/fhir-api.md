@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: default
 title: FHIR API
 permalink: /fhir-api/
+nav_exclude: true
 ---
 
 # FHIR R4 API ドキュメント

@@ -1,8 +1,10 @@
 ---
 layout: default
-title: 高エビデンスレベル (L1-L2)
-nav_order: 5
+title: 高エビデンスレベル
+parent: 医薬品レポート
+nav_order: 1
 description: "L1-L2 レベルのドラッグリポジショニング候補薬。複数の臨床試験またはシステマティックレビューによる支持があり、臨床評価への優先的移行が可能です。"
+permalink: /evidence-high/
 ---
 
 # 高エビデンスレベル薬物
