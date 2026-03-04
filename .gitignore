@@ -75,6 +75,8 @@ dmypy.json
 
 # 大規模データディレクトリ（手動ダウンロードまたはスクリプト生成）
 /data/*
+# cache ディレクトリは保持（GitHub Actions で更新）
+!/data/cache/
 # news ディレクトリは保持（GitHub Actions で更新）
 !/data/news/
 # external ディレクトリは保持（詞彙表）
