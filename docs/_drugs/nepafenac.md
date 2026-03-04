@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Nepafenac
-parent: 僅模型預測 (L5)
+parent: 高證據等級 (L1-L2)
 nav_order: 113
-evidence_level: L5
+evidence_level: L1
 indication_count: 1
 ---
 
 # Nepafenac
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+證據等級: **L1** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---

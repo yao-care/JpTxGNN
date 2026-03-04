@@ -28,8 +28,8 @@ def fix_markdown_tables(content: str) -> str:
 def get_evidence_level(content: str) -> str:
     """從 markdown 內容提取最佳證據等級"""
     # v5 格式：從「快速總覽」表格提取
-    # | 證據等級 | L1 |
-    v5_match = re.search(r'\|\s*證據等級\s*\|\s*(L[1-5])\s*\|', content)
+    # | 證據等級 | L2 (單一 RCT/多個 Phase 2) |
+    v5_match = re.search(r'\|\s*證據等級\s*\|\s*(L[1-5])', content)
     if v5_match:
         return v5_match.group(1)
 

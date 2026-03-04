@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Ethynodiol Diacetate
-parent: 僅模型預測 (L5)
+parent: 中證據等級 (L3-L4)
 nav_order: 67
-evidence_level: L5
+evidence_level: L3
 indication_count: 1
 ---
 
 # Ethynodiol Diacetate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+證據等級: **L3** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---

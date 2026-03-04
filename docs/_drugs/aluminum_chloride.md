@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Aluminum Chloride
-parent: 僅模型預測 (L5)
+parent: 中證據等級 (L3-L4)
 nav_order: 17
-evidence_level: L5
+evidence_level: L3
 indication_count: 1
 ---
 
 # Aluminum Chloride
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+證據等級: **L3** | 預測適應症: **1** 個
 {: .fs-6 .fw-300 }
 
 ---
