@@ -370,7 +370,7 @@ class TxGNNPredictor:
         self.model = TxGNN(
             data=self.tx_data,
             weight_bias_track=False,
-            proj_name="TwTxGNN",
+            proj_name="JpTxGNN",
             exp_name="taiwan_drug_repurposing",
             device=self.device,
         )
