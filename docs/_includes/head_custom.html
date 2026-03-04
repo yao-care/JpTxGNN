@@ -1,10 +1,10 @@
 <!-- Navigation styling (collapsible enabled) -->
 <style>
-/* 父項目樣式 */
+/* 親項目スタイル */
 .nav-list > .nav-list-item > .nav-list-link {
   font-weight: 600;
 }
-/* 子項目樣式 */
+/* 子項目スタイル */
 .nav-list .nav-list .nav-list-link {
   font-weight: normal;
   font-size: 0.875rem;
@@ -14,18 +14,18 @@
 <!-- D3.js for interactive charts -->
 <script src="https://d3js.org/d3.v7.min.js"></script>
 
-<!-- Google Search Console 驗證 -->
-<!-- 請將 YOUR_VERIFICATION_CODE 替換為 Google 提供的驗證碼 -->
+<!-- Google Search Console 認証 -->
+<!-- YOUR_VERIFICATION_CODE を Google 提供のコードに置き換えてください -->
 <!-- <meta name="google-site-verification" content="YOUR_VERIFICATION_CODE" /> -->
 
 <!-- RSS Feed -->
 <link rel="alternate" type="application/rss+xml" title="JpTxGNN 最新更新" href="{{ '/feed.xml' | absolute_url }}">
 
-<!-- YMYL 審核資訊 Meta -->
-<meta name="last-reviewed" content="2026-02-19">
+<!-- YMYL レビュー情報 Meta -->
+<meta name="last-reviewed" content="2026-03-04">
 <meta name="reviewed-by" content="JpTxGNN Research Team">
 
-<!-- Schema.org 結構化資料 -->
+<!-- Schema.org 構造化データ -->
 {% if page.layout == 'default' and page.evidence_level %}
 <!-- MedicalWebPage Schema for Drug Reports -->
 <script type="application/ld+json">
@@ -35,12 +35,12 @@
     {
       "@type": "MedicalWebPage",
       "@id": "{{ page.url | absolute_url }}#webpage",
-      "name": "{{ page.title }} 老藥新用驗證報告",
-      "description": "{{ page.description | default: page.title | append: ' 的老藥新用潛力分析' }}",
+      "name": "{{ page.title }} ドラッグリポジショニング検証報告",
+      "description": "{{ page.description | default: page.title | append: ' のドラッグリポジショニング可能性分析' }}",
       "url": "{{ page.url | absolute_url }}",
-      "datePublished": "2026-02-19",
-      "dateModified": "2026-02-19",
-      "lastReviewed": "2026-02-19",
+      "datePublished": "2026-03-04",
+      "dateModified": "2026-03-04",
+      "lastReviewed": "2026-03-04",
       "reviewedBy": {
         "@type": "Organization",
         "name": "JpTxGNN Research Team"
@@ -81,7 +81,7 @@
         {
           "@type": "ListItem",
           "position": 1,
-          "name": "首頁",
+          "name": "ホーム",
           "item": "{{ '/' | absolute_url }}"
         },
         {
@@ -111,9 +111,9 @@
     {
       "@type": "WebSite",
       "@id": "https://jptxgnn.yao.care/#website",
-      "name": "JpTxGNN 老藥新用驗證報告",
+      "name": "JpTxGNN ドラッグリポジショニング検証報告",
       "url": "https://jptxgnn.yao.care/",
-      "description": "用 AI 預測台灣健保藥品的潛在新適應症，並提供臨床證據驗證報告",
+      "description": "AI を用いて日本医療用医薬品の潜在的新適応症を予測し、臨床エビデンス検証報告を提供",
       "publisher": {
         "@id": "https://jptxgnn.yao.care/#organization"
       },
@@ -128,7 +128,7 @@
       "@id": "https://jptxgnn.yao.care/#organization",
       "name": "JpTxGNN",
       "url": "https://jptxgnn.yao.care/",
-      "description": "基於哈佛 TxGNN 模型的老藥新用預測平台",
+      "description": "ハーバード大学 TxGNN モデルに基づくドラッグリポジショニング予測プラットフォーム",
       "logo": {
         "@type": "ImageObject",
         "url": "https://jptxgnn.yao.care/assets/images/og-default.png"
@@ -140,22 +140,22 @@
         "Drug Repurposing",
         "Machine Learning in Healthcare",
         "Clinical Evidence Synthesis",
-        "Taiwan Healthcare"
+        "Japanese Healthcare"
       ]
     },
     {
       "@type": "Article",
       "@id": "https://jptxgnn.yao.care/#article",
-      "headline": "老藥新用，從數據到證據",
-      "description": "用 AI 預測台灣健保藥品的潛在新適應症，提供 191 個藥物的臨床試驗與文獻證據驗證報告",
+      "headline": "ドラッグリポジショニング、データからエビデンスへ",
+      "description": "AI を用いて日本医療用医薬品の潜在的新適応症を予測し、3,824 種の医薬品に対する臨床試験・文献エビデンス検証報告を提供",
       "author": {
         "@id": "https://jptxgnn.yao.care/#organization"
       },
       "publisher": {
         "@id": "https://jptxgnn.yao.care/#organization"
       },
-      "datePublished": "2026-02-19",
-      "dateModified": "2026-02-19",
+      "datePublished": "2026-03-04",
+      "dateModified": "2026-03-04",
       "mainEntityOfPage": "https://jptxgnn.yao.care/",
       "isAccessibleForFree": true
     },
@@ -166,7 +166,7 @@
         {
           "@type": "ListItem",
           "position": 1,
-          "name": "首頁",
+          "name": "ホーム",
           "item": "https://jptxgnn.yao.care/"
         }
       ]
@@ -184,16 +184,16 @@
     {
       "@type": "AboutPage",
       "@id": "{{ page.url | absolute_url }}#webpage",
-      "name": "關於 JpTxGNN",
-      "description": "JpTxGNN 老藥新用驗證報告的專案說明、資料來源與引用方式",
+      "name": "JpTxGNN について",
+      "description": "JpTxGNN ドラッグリポジショニング検証報告のプロジェクト説明、データソース、引用方法",
       "url": "{{ page.url | absolute_url }}",
-      "datePublished": "2026-02-19",
-      "dateModified": "2026-02-19",
+      "datePublished": "2026-03-04",
+      "dateModified": "2026-03-04",
       "mainEntity": {
         "@type": "Organization",
         "name": "JpTxGNN",
         "url": "https://jptxgnn.yao.care/",
-        "description": "基於哈佛 TxGNN 模型的老藥新用預測平台"
+        "description": "ハーバード大学 TxGNN モデルに基づくドラッグリポジショニング予測プラットフォーム"
       }
     },
     {
@@ -202,26 +202,26 @@
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "什麼是老藥新用？",
+          "name": "ドラッグリポジショニングとは？",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "老藥新用（Drug Repurposing）是指發現現有藥物的新治療用途。相較於新藥開發需要 10-15 年和 10-20 億美元，老藥新用只需 3-5 年和 1-3 億美元，且已有人體安全性資料。"
+            "text": "ドラッグリポジショニング（Drug Repurposing）とは、既存薬の新しい治療用途を発見することです。新薬開発には 10〜15 年と 10〜20 億ドルが必要ですが、ドラッグリポジショニングは 3〜5 年と 1〜3 億ドルで済み、すでに人体安全性データがあります。"
           }
         },
         {
           "@type": "Question",
-          "name": "什麼是 TxGNN？",
+          "name": "TxGNN とは？",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "TxGNN 是由哈佛醫學院團隊開發的深度學習模型，整合 17,080 個節點的知識圖譜，使用圖神經網路預測藥物與疾病的新關聯。"
+            "text": "TxGNN はハーバード大学医学部チームが開発した深層学習モデルで、17,080 ノードの知識グラフを統合し、グラフニューラルネットワークを用いて薬物と疾患の新しい関連を予測します。"
           }
         },
         {
           "@type": "Question",
-          "name": "資料來源有哪些？",
+          "name": "データソースは何ですか？",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "本平台整合 TxGNN（AI 預測）、ClinicalTrials.gov（臨床試驗）、PubMed（學術文獻）、DrugBank（藥物資訊）、TFDA（台灣上市資訊）、DDInter（藥物交互作用）等公開資料來源。"
+            "text": "本プラットフォームは TxGNN（AI 予測）、ClinicalTrials.gov（臨床試験）、PubMed（学術文献）、DrugBank（薬物情報）、PMDA（日本承認情報）、DDInter（薬物相互作用）などの公開データソースを統合しています。"
           }
         }
       ]
@@ -233,13 +233,13 @@
         {
           "@type": "ListItem",
           "position": 1,
-          "name": "首頁",
+          "name": "ホーム",
           "item": "https://jptxgnn.yao.care/"
         },
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "關於專案",
+          "name": "プロジェクトについて",
           "item": "{{ page.url | absolute_url }}"
         }
       ]
@@ -257,32 +257,32 @@
     {
       "@type": "HowTo",
       "@id": "{{ page.url | absolute_url }}#howto",
-      "name": "JpTxGNN 預測與驗證方法",
-      "description": "從 AI 預測到證據驗證的完整流程說明",
+      "name": "JpTxGNN 予測と検証方法",
+      "description": "AI 予測からエビデンス検証までの完全なプロセス説明",
       "step": [
         {
           "@type": "HowToStep",
           "position": 1,
-          "name": "TxGNN 預測",
-          "text": "使用知識圖譜結合圖神經網路進行藥物-疾病關係預測，設定最低預測分數 99%。"
+          "name": "TxGNN 予測",
+          "text": "知識グラフとグラフニューラルネットワークを組み合わせて薬物-疾患関係を予測し、最低予測スコア 90% を設定。"
         },
         {
           "@type": "HowToStep",
           "position": 2,
-          "name": "資料收集",
-          "text": "針對每個預測配對，自動收集 ClinicalTrials.gov、PubMed、DrugBank、TFDA 等來源的證據。"
+          "name": "データ収集",
+          "text": "各予測ペアについて、ClinicalTrials.gov、PubMed、DrugBank、PMDA などのソースからエビデンスを自動収集。"
         },
         {
           "@type": "HowToStep",
           "position": 3,
-          "name": "證據等級判定",
-          "text": "根據收集到的證據，判定 L1-L5 證據等級，L1 為最高（多個 Phase 3 RCT），L5 為僅模型預測。"
+          "name": "エビデンスレベル判定",
+          "text": "収集したエビデンスに基づき、L1-L5 エビデンスレベルを判定。L1 が最高（複数の Phase 3 RCT）、L5 がモデル予測のみ。"
         },
         {
           "@type": "HowToStep",
           "position": 4,
-          "name": "決策建議",
-          "text": "根據證據等級和其他因素，給出 Go、Proceed、Consider、Explore、Hold 決策建議。"
+          "name": "意思決定提案",
+          "text": "エビデンスレベルとその他の要因に基づき、Go、Proceed、Consider、Explore、Hold の意思決定提案を提供。"
         }
       ]
     },
@@ -293,7 +293,7 @@
         {
           "@type": "ListItem",
           "position": 1,
-          "name": "首頁",
+          "name": "ホーム",
           "item": "https://jptxgnn.yao.care/"
         },
         {
@@ -317,16 +317,16 @@
     {
       "@type": "CollectionPage",
       "@id": "{{ page.url | absolute_url }}#webpage",
-      "name": "藥物列表 - JpTxGNN",
-      "description": "JpTxGNN 所有藥物驗證報告列表，共 191 種藥物",
+      "name": "医薬品レポート - JpTxGNN",
+      "description": "JpTxGNN 全医薬品検証報告一覧、計 3,824 種の医薬品",
       "url": "{{ page.url | absolute_url }}"
     },
     {
       "@type": "ItemList",
       "@id": "{{ page.url | absolute_url }}#itemlist",
-      "name": "JpTxGNN 藥物驗證報告",
-      "description": "191 種台灣健保藥品的老藥新用驗證報告",
-      "numberOfItems": 191,
+      "name": "JpTxGNN 医薬品検証報告",
+      "description": "3,824 種の日本医療用医薬品のドラッグリポジショニング検証報告",
+      "numberOfItems": 3824,
       "itemListOrder": "https://schema.org/ItemListOrderAscending"
     },
     {
@@ -336,13 +336,13 @@
         {
           "@type": "ListItem",
           "position": 1,
-          "name": "首頁",
+          "name": "ホーム",
           "item": "https://jptxgnn.yao.care/"
         },
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "藥物列表",
+          "name": "医薬品レポート",
           "item": "{{ page.url | absolute_url }}"
         }
       ]
@@ -360,15 +360,15 @@
     {
       "@type": "CollectionPage",
       "@id": "{{ page.url | absolute_url }}#webpage",
-      "name": "健康新聞監測 - JpTxGNN",
-      "description": "{{ page.description | default: '自動監測 191 種藥物與適應症的最新健康新聞報導' }}",
+      "name": "健康ニュース - JpTxGNN",
+      "description": "{{ page.description | default: '3,824 種の医薬品と適応症に関する最新健康ニュースを自動監視' }}",
       "url": "{{ page.url | absolute_url }}",
       "isPartOf": {
         "@id": "https://jptxgnn.yao.care/#website"
       },
       "about": {
         "@type": "Thing",
-        "name": "健康新聞"
+        "name": "健康ニュース"
       },
       "speakable": {
         "@type": "SpeakableSpecification",
@@ -382,13 +382,13 @@
         {
           "@type": "ListItem",
           "position": 1,
-          "name": "首頁",
+          "name": "ホーム",
           "item": "https://jptxgnn.yao.care/"
         },
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "健康新聞",
+          "name": "健康ニュース",
           "item": "{{ page.url | absolute_url }}"
         }
       ]
@@ -409,8 +409,8 @@
       "headline": "{{ page.title }}",
       "description": "{{ page.description | default: page.title }}",
       "url": "{{ page.url | absolute_url }}",
-      "datePublished": "2026-02-21",
-      "dateModified": "2026-02-21",
+      "datePublished": "2026-03-04",
+      "dateModified": "2026-03-04",
       "author": {
         "@type": "Organization",
         "name": "JpTxGNN",
@@ -442,13 +442,13 @@
         {
           "@type": "ListItem",
           "position": 1,
-          "name": "首頁",
+          "name": "ホーム",
           "item": "https://jptxgnn.yao.care/"
         },
         {
           "@type": "ListItem",
           "position": 2,
-          "name": "健康新聞",
+          "name": "健康ニュース",
           "item": "https://jptxgnn.yao.care/news/"
         },
         {
@@ -473,7 +473,7 @@
     {
       "@type": "ListItem",
       "position": 1,
-      "name": "首頁",
+      "name": "ホーム",
       "item": "https://jptxgnn.yao.care/"
     },
     {
@@ -487,7 +487,7 @@
 </script>
 {% endif %}
 
-<!-- SGE/AEO 支援樣式 -->
+<!-- SGE/AEO サポートスタイル -->
 <style>
 .key-answer {
   background: linear-gradient(135deg, #e8f5e9 0%, #c8e6c9 100%);
@@ -505,7 +505,7 @@
   border-left: 4px solid #1976D2;
 }
 .key-takeaway::before {
-  content: "重點：";
+  content: "重点：";
   font-weight: 700;
   color: #1976D2;
 }
@@ -555,7 +555,7 @@
   border-radius: 4px;
 }
 
-/* 適應症手風琴樣式 */
+/* 適応症アコーディオンスタイル */
 .indication-section {
   margin: 1rem 0;
   border: 1px solid #e0e0e0;
@@ -599,7 +599,7 @@
   margin-top: 0;
 }
 
-/* 適應症區塊內的表格 */
+/* 適応症セクション内のテーブル */
 .indication-content table {
   border-collapse: collapse;
   width: 100%;
@@ -626,7 +626,7 @@
 .indication-content table a:hover {
   text-decoration: underline;
 }
-/* 響應式表格 */
+/* レスポンシブテーブル */
 @media (max-width: 768px) {
   .indication-content table {
     display: block;
@@ -635,7 +635,7 @@
   }
 }
 
-/* 無專門研究提示 */
+/* エビデンスなし通知 */
 .no-evidence-notice {
   background: #f8f9fa;
   border: 1px solid #e9ecef;
@@ -645,7 +645,7 @@
   font-size: 0.95rem;
 }
 
-/* 證據等級標籤 */
+/* エビデンスレベルバッジ */
 .evidence-badge {
   padding: 3px 10px;
   border-radius: 12px;
@@ -658,14 +658,14 @@
 .evidence-L4 { background: #fd7e14; color: white; }
 .evidence-L5 { background: #6c757d; color: white; }
 
-/* 預測分數 */
+/* 予測スコア */
 .prediction-score {
   font-size: 0.9rem;
   color: #666;
   margin-left: auto;
 }
 
-/* 主要適應症標記 */
+/* 主要適応症マーク */
 .primary-badge {
   background: #e3f2fd;
   color: #1976D2;
@@ -674,7 +674,7 @@
   font-size: 0.8rem;
 }
 
-/* 無證據警告 */
+/* エビデンスなし警告 */
 .no-evidence-warning {
   background: #fff3cd;
   border: 1px solid #ffc107;
@@ -689,7 +689,7 @@
   content: "⚠️";
 }
 
-/* ===== 藥物查詢區塊 ===== */
+/* ===== 医薬品検索ブロック ===== */
 .drug-lookup-container {
   background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
   border-radius: 12px;

@@ -68,9 +68,12 @@ document.addEventListener('DOMContentLoaded', function() {
         data.news.slice(0, 20).forEach(item => {
           const date = new Date(item.published).toLocaleDateString('ja-JP');
           const source = item.sources[0] || {};
-          const keywords = item.keywords.map(k =>
-            `<span class="keyword-tag ${k.type}">${k.keyword}</span>`
-          ).join(' ');
+          const keywords = item.keywords.map(k => {
+            if (k.type === 'drug' && k.slug) {
+              return `<a href="/drugs/${k.slug}/" class="keyword-tag ${k.type}">${k.keyword}</a>`;
+            }
+            return `<span class="keyword-tag ${k.type}">${k.keyword}</span>`;
+          }).join(' ');
 
           html += `
             <li class="news-item">
