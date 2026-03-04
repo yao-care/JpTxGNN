@@ -1,6 +1,6 @@
 {
-  "generated": "2026-03-04T12:34:56.969402+00:00",
-  "count": 9,
+  "generated": "2026-03-04T18:35:04.588140+00:00",
+  "count": 10,
   "news": [
     {
       "id": "2691f1f4baf7",
@@ -250,6 +250,70 @@
         {
           "name": "ｄメニューニュース",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tQW1HOGZJNmdzc0ZUbGdETUtONUlLT2pvOWlkdnQxMmUxTXNxZ0VCamRfZzNUS3hLcGJSdGhyMmRCRzBJdk5qRW9nMDZ2bURSZ0lJVzhyQzBiVGxwckR1TXpMSmdDbm9pdXJEZ0pPUktIQTE1ekE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "02534381346d",
+      "title": "オキシブチニンが前立腺がんのホットフラッシュを大幅に軽減｜医師向け医療ニュースはケアネット",
+      "published": "2026-03-02T19:00:00+00:00",
+      "sources": [
+        {
+          "name": "CareNet.com",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1QVp3RlpIT0phcnQwOTZqZUs2bGMxUUtFLXQtZmV0LWZtd1Nqel9CNFpwNUt1d3lLbTNXdy04SEhrSXA1TVdpNjRSNi1pRzR1NE44YUd4aHNKUQ?oc=5"
         }
       ],
       "keywords": [
