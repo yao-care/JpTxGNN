@@ -1,8 +1,254 @@
 {
-  "last_updated": "2026-03-03T18:35:56.636496+00:00",
-  "total_count": 50,
-  "matched_count": 13,
+  "last_updated": "2026-03-04T01:11:38.917172+00:00",
+  "total_count": 52,
+  "matched_count": 15,
   "news": [
+    {
+      "id": "2691f1f4baf7",
+      "title": "「克服5カ年計画」策定から10年、脳卒中対策のこれまでとこれから―AIやデータ分析で変わる未来の治療(メディカルドック)",
+      "published": "2026-03-04T01:00:37+00:00",
+      "summary": "日本循環器学会と日本脳卒中学会が2016年に「脳卒中と循環器病克服5カ年計画」を発表してから今年で10年。2019年には「脳卒中・循環器病対策基本法」が施行されました。5カ年計画と基本法は、平均寿命と",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/e30fc3a3dee26ab99869b44d930c8b36aac325ff?source=rss"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "脳卒中",
+          "related_drugs": [
+            {
+              "slug": "atorvastatin",
+              "name": "アトーゼット配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "pravastatin",
+              "name": "メバロチン錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "simvastatin",
+              "name": "リポバス錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "エックスフォージ配合ＯＤ錠（選）"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "ミカムロ配合錠ＢＰ（選）"
+            },
+            {
+              "slug": "rosuvastatin",
+              "name": "クレストールＯＤ錠５ｍｇ（選）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3821eed4b0f6",
+      "title": "健康成人における急性単純性虫垂炎に対する治療戦略の選択肢：APPAC 10年追跡（解説：寺田 教彦 氏）－2089",
+      "published": "2026-03-04T01:00:00+00:00",
+      "summary": "健康成人における急性単純性虫垂炎に対する治療戦略の選択肢：APPAC 10年追跡（解説：寺田 教彦 氏）－2089&nbsp;&nbsp;CareNet.com",
+      "sources": [
+        {
+          "name": "CareNet.com",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB6a0p1UmNhUWItTmJRNmJVN1VKVnBvdElBcV9PYXNNQllDeEppM0RLdWgxTFhHdzhsb1dSalcwbFN5dFBnSkZJb0tmcnk1NktsV2lWVy1zUGhWWFFr?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "99bb68de9a98",
+      "title": "【ヤフコメで話題】「年金の繰上げ・繰下げ受給の判断は個々の事情次第」「制度や税・社会保険料の複雑さに悩む声」 - 年金受給開始時期の選択を巡る議論(Yahoo!ニュース オリジナル THE PAGE)",
+      "published": "2026-03-04T00:37:27+00:00",
+      "summary": "年金の繰上げ・繰下げ受給の選択について、Yahoo!ニュースのコメント欄で話題になっています。 コメントでは、定年後の収入や雇用延長、健康状態、家族構成、資産状況など、個々の事情によって最適な受給開始",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/f620032bddcba2fbdc18e715c76008c43a5b0c95?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "b932f3a12b6a",
+      "title": "トヨタ、ホンダ、日産の自動車3社が従業員の健康支援でタッグ　産業保健職が学び合い　3・8国際女性デー(産経新聞)",
+      "published": "2026-03-04T00:00:00+00:00",
+      "summary": "自動車大手のトヨタ、ホンダ、日産に勤める保健師や看護師ら「産業保健職」が企業を超えてつながり、健康支援をテーマに学び合う勉強会を開いている。〝男社会〟の業界で、男女それぞれの健康課題にどう取り組めばい",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/5a7e44c6e829014c35ec540c2f3cf77f19e4effb?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "13f1e77c9c4d",
+      "title": "“文字の起源”を覆す発見か　4万年前の旧石器人類が刻んだ記号、原楔形文字に匹敵の情報量　PNAS誌で掲載(ITmedia NEWS)",
+      "published": "2026-03-03T23:05:09+00:00",
+      "summary": "ドイツのザールラント大学とドイツのベルリン国立博物館群に所属する研究者らがPNAS誌で発表した論文「Humans 40,000 y ago developed a system of convent",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/d0b4cdf428f26407c0baa67efbb7cc7495e8f9a8?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "9775055844e9",
+      "title": "男性の罹患率が高い中咽頭がんは増加傾向に…。男子HPVワクチン接種が世界で広がるこれだけの理由",
+      "published": "2026-03-03T21:05:23+00:00",
+      "summary": "男性の罹患率が高い中咽頭がんは増加傾向に…。男子HPVワクチン接種が世界で広がるこれだけの理由&nbsp;&nbsp;現代ビジネスGoogle ニュースですべての記事を見る",
+      "sources": [
+        {
+          "name": "現代ビジネス",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjMFRqek00eUlKQnJ4cWxscUpaa1pzUWk4RTFPYkRwMVlwRHZmR3FrZGtYdGF3cG94d1p2akY5NkFMTE5mbDdsa3VtOE9lTGs?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3029fe09ecaf",
+      "title": "脂肪性肝疾患の診断基準、心代謝系・女性の飲酒量について決定／日本消化器病学会・日本肝臓学会",
+      "published": "2026-03-03T19:00:00+00:00",
+      "summary": "脂肪性肝疾患の診断基準、心代謝系・女性の飲酒量について決定／日本消化器病学会・日本肝臓学会&nbsp;&nbsp;CareNet.com",
+      "sources": [
+        {
+          "name": "CareNet.com",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ocGotMzhsQUtnSkV3SS01d2t5VGJhbWpOY0JVSjY3MzdOOW8zb1FpM1pWVFdsazVSWWpCSlAyVDZsWXB6dVRXWHFZZmpOMlBhRi13X2lsd1Jfb3RVNnlB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "0622d62a22c9",
+      "title": "脳卒中による障害が少ない側の腕を鍛えることで動作能力が向上｜医師向け医療ニュースはケアネット",
+      "published": "2026-03-03T19:00:00+00:00",
+      "summary": "脳卒中による障害が少ない側の腕を鍛えることで動作能力が向上｜医師向け医療ニュースはケアネット&nbsp;&nbsp;CareNet.com",
+      "sources": [
+        {
+          "name": "CareNet.com",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52MTIxZGt0RnBrZ3ZHclBaTVZKZjZ4SmVNUkxwdWdOQ3Q0bU1UOGdkMndEeFh0WFBMdUVUM0JYU29wQjVVWlNZeGl5RFVVeTBGaDV3YjJtSWxDQQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "脳卒中",
+          "related_drugs": [
+            {
+              "slug": "atorvastatin",
+              "name": "アトーゼット配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "pravastatin",
+              "name": "メバロチン錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "simvastatin",
+              "name": "リポバス錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "エックスフォージ配合ＯＤ錠（選）"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "ミカムロ配合錠ＢＰ（選）"
+            },
+            {
+              "slug": "rosuvastatin",
+              "name": "クレストールＯＤ錠５ｍｇ（選）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "64cd85d7582d",
+      "title": "減塩食品の普及が国民の心臓や脳を守る｜医師向け医療ニュースはケアネット",
+      "published": "2026-03-03T19:00:00+00:00",
+      "summary": "減塩食品の普及が国民の心臓や脳を守る｜医師向け医療ニュースはケアネット&nbsp;&nbsp;CareNet.com",
+      "sources": [
+        {
+          "name": "CareNet.com",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xenI5Qkp4czg4azF2dXplLWNLY25UY2ptS2h5QUR5YkJjYlZUakJ4bjh4ZHdrNmhYdXRmNmN3THYxTVJSbDJGc0k0ckdDTXo5SHFMVGcwR0VoQQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "f9aace31b985",
+      "title": "うつ病予防に有効な魚の摂取量は？｜医師向け医療ニュースはケアネット",
+      "published": "2026-03-03T19:00:00+00:00",
+      "summary": "うつ病予防に有効な魚の摂取量は？｜医師向け医療ニュースはケアネット&nbsp;&nbsp;CareNet.com",
+      "sources": [
+        {
+          "name": "CareNet.com",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBjbTVQVzVvSlF6SHRvYzJQdnlac1ZwWloxUVR0ZC1EZmVtQXRId05BeDBGdkx4eUlISVppY2VzeS01SXJFTW90NzRaZWUwOXZEa2wzTlc3WjJGdlUzRF9Z?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "60fd8233144a",
       "title": "コーヒーの摂取が認知症発症リスクを下げる可能性",
@@ -17,19 +263,6 @@
       "matched_keywords": []
     },
     {
-      "id": "01703ec3c58f",
-      "title": "「1日の水分摂取量」は何L？“1日2L”の迷信の真実が明らかに。「計算方法」と正しい水分量を解説【医師監修】(ウィメンズヘルス)",
-      "published": "2026-03-03T14:00:02+00:00",
-      "summary": "細胞が機能するために不可欠な「水」。ホルモンの働き、神経伝達物質によるメンタルの働き、エネルギー代謝、免疫の働き、活性酸素の除去、解毒など、体のすべての働きは、水があるからこそ成り立っている。 どん",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/e6f787abdbfdcd071bc7d1f43da0993f680779c0?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "3352b96cbb71",
       "title": "愛知県豊橋市の男子高校生がはしか感染 東三河の県立高校関係者の感染は計14人目",
       "published": "2026-03-03T13:17:51+00:00",
@@ -38,19 +271,6 @@
         {
           "name": "47NEWS",
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1mXzIzWklTUUxCaF9idVNBeE1DemtzTGJaNlN4THdnTU9DUmJRVEhlMmJfaEEwSUlYUHhreWF4RU1pSHREM0pOeHVuOA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "e8ccbe57bafa",
-      "title": "「むしろファンデよりいい」 美容のプロたちに選ばれている化粧下地(GISELe)",
-      "published": "2026-03-03T12:52:00+00:00",
-      "summary": "理想はさっと塗るだけでベースメイクが完結。さらにファンデ前に仕込むことで仕上がりも段違い。おまけにUVケア効果にも優れた化粧下地。多くのコスメを知り尽くしたプロたちが「とくにコレがいい」という愛用品を",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/35905dc1d5dbfb3c27ed0ee9d3e1fa5383dd179e?source=rss"
         }
       ],
       "matched_keywords": []
@@ -375,19 +595,6 @@
         {
           "name": "講談社コクリコ",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hRldWS1EwVjlzaDRBZWFfNmNtcngzSmlnSTB4Y2cyQ2RPQUJHSVZ2dU03ZWYtbEpKZGNVWllDeElRVUlKUlZJbnpsaTdOakw2RjZpVkZOcW5PTHZkR2o0d3d1MFVhOUdWNVlN?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "bd32af5c80af",
-      "title": "＜あぶない！＞HPVは女性だけの問題じゃない 男性もワクチン接種を",
-      "published": "2026-03-02T20:05:00+00:00",
-      "summary": "＜あぶない！＞HPVは女性だけの問題じゃない 男性もワクチン接種を&nbsp;&nbsp;中日新聞WebGoogle ニュースですべての記事を見る",
-      "sources": [
-        {
-          "name": "中日新聞Web",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwS3NtdkJSSWJwdVQ3S0tXVW1TVnd0V25Oa3NMZU93anIxZnNDdXNSZnp2M211VDNUV3FmVlZod2dtNGUxTkw0c3d3YXBzaFJHemZlYTFZLVAtWDRReFNlZg?oc=5"
         }
       ],
       "matched_keywords": []
@@ -856,19 +1063,6 @@
       "matched_keywords": []
     },
     {
-      "id": "7b8f7e74ffd7",
-      "title": "【開催報告】令和7年度老健事業「認知症の人と家族等の研究ニーズに関する研究」ワークショップ（2026年2月3日、11日）",
-      "published": "2026-03-02T00:03:09+00:00",
-      "summary": "【開催報告】令和7年度老健事業「認知症の人と家族等の研究ニーズに関する研究」ワークショップ（2026年2月3日、11日）&nbsp;&nbsp;日本医療政策機構(HGPI)",
-      "sources": [
-        {
-          "name": "日本医療政策機構(HGPI)",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBjU3lHdV9XbVoxZTJKUkw1SzJfRUU1WnVwYlhOWVBrYzlFSlU0TnJwRXJDTVJfbTBYYlhSWUN4cHpkVGkzZkZBRzhReGRjRFJybzlWUnFhdUlTdw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "989e80151677",
       "title": "厄介な人間関係は“老化を加速”させる──米国チームが発表　親族だと大ダメージ、配偶者だと関連なし(ITmedia NEWS)",
       "published": "2026-03-01T23:05:13+00:00",
@@ -877,110 +1071,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/cb8d43c57c80eb5fbf56ad114c14bd5816e7e768?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "e8112c894d49",
-      "title": "神戸大学、手の写真だけで希少疾患を診断するAIを開発―専門医を上回る精度を達成",
-      "published": "2026-03-01T22:43:39+00:00",
-      "summary": "神戸大学、手の写真だけで希少疾患を診断するAIを開発―専門医を上回る精度を達成&nbsp;&nbsp;innovaTopia",
-      "sources": [
-        {
-          "name": "innovaTopia",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LZmVKVktVUXpxcnNNQURtR19IVEc5R1NRUm9GcmY5ZG50dUdjYlFab3Z2MWJnMFdqVHNvSUhDNVlkdUdUaG5fZVdTaV9pQWVvdWc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "ef9fec26d6a2",
-      "title": "【大腸・膵臓・食道】専門医が教えるがん検診の正解――内視鏡を受けるべき人は？膵臓をみる新しい検査の可能性、食道がんの検診ポイント(東洋経済オンライン)",
-      "published": "2026-03-01T22:00:00+00:00",
-      "summary": "【大腸・膵臓・食道】専門医が教えるがん検診の正解――内視鏡を受けるべき人は？膵臓をみる新しい検査の可能性、食道がんの検診ポイント(東洋経済オンライン)&nbsp;&nbsp;Yahoo!ファイナンス専門医が教えるがん検診｢ムダな検査｣｢必要な検査｣――【肺がん】CTが必要な人･不要な人の違い【子宮頸がん】内診が嫌な人の注目の検査とは？&nbsp;&nbsp;東洋経済オンラインがんを見逃さない！ 早期発見で「5年生存率9割以上」 （2ページ目）：がん予防・早期発見の勘所：日経Gooday（グッデイ）&nbsp;&nbsp;日経Gooday【大腸･膵臓･食道】専門医が教えるがん検診の正解――内視鏡を受けるべき人は？膵臓をみる新しい検査の可能性､食道がんの検診ポイント&nbsp;&nbsp;東洋経済オンライン｢大腸･膵臓･食道がん｣専門医が教える検診の正解（東洋経済オンライン）&nbsp;&nbsp;ｄメニューニュース",
-      "sources": [
-        {
-          "name": "Yahoo!ファイナンス",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRzNWRWpreG5qalFMck5zc3pveFVDUm9HaFZodEJTaDlPRzZhSEZOalNObkNLQ2NrMDFHY1NzVlR0UmtsN09FVko3c2JXTkJELWF6TmxfQllUdzBIX21zaGk1RUFqdThNQ1RTU1B2ck5wZVFEckc1TGJvZlFPMWgzY19Udkp5Zm8?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "がん",
-          "related_drugs": [
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "ゼローダ錠３００　３００ｍｇ（選）"
-            },
-            {
-              "slug": "propranolol",
-              "name": "インデラル錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "imatinib",
-              "name": "グリベック錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "8cd30a7f8ded",
-      "title": "学者が斬る・視点争点：ワクチンが公費助成となる条件 五十嵐中 - 週刊エコノミスト Online",
-      "published": "2026-03-01T20:01:20+00:00",
-      "summary": "学者が斬る・視点争点：ワクチンが公費助成となる条件 五十嵐中&nbsp;&nbsp;週刊エコノミスト Online",
-      "sources": [
-        {
-          "name": "週刊エコノミスト Online",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtQlFFMVlTRjhwRmZid0JsTnhxcHJOV0VHUnlOajZpTFc5MEs4UjZDWFZmbXphdWhkajRKMkQ4OWsySjZOd25tSl80UGM5ZVBpWDNDUlM1N3VULVhuaDdRWm9rbnlwLUFBWDc0RE93em9vakpEODBQamZHZDlKeHM?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "383eaed65b88",
-      "title": "高齢者の術後せん妄の予防に有効な薬物療法とは／BMJ｜医師向け医療ニュースはケアネット",
-      "published": "2026-03-01T19:00:00+00:00",
-      "summary": "高齢者の術後せん妄の予防に有効な薬物療法とは／BMJ｜医師向け医療ニュースはケアネット&nbsp;&nbsp;CareNet.com",
-      "sources": [
-        {
-          "name": "CareNet.com",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0tSVZtWDZDRGw5NXJ3cUc4bEhrQkFsT3dGZUt1TklWM2lvYTJmNW9uMk1mOGJxSlREa2tHMTRVdWRKOHpxMS1UVDRoZUxsNDhlbjBkU2NXTlNrMUIwa0xF?oc=5"
         }
       ],
       "matched_keywords": []
