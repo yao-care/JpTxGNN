@@ -25,36 +25,24 @@ jobs:
           python-version: '3.12'
 
       - name: Install dependencies
-        run: |
-          pip install requests pandas beautifulsoup4
+        run: pip install requests
+
+      - name: Extract drug list
+        run: python scripts/extract_drug_list.py
 
       - name: Check ClinicalTrials.gov
-        run: |
-          echo "Checking ClinicalTrials.gov for new Japan-related trials..."
-          # This would run a script to check for new evidence
-          # For now, just a placeholder
-          echo "ClinicalTrials.gov check completed"
+        run: python scripts/check_clinicaltrials.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }}
         continue-on-error: true
 
       - name: Check PubMed
-        run: |
-          echo "Checking PubMed for new research..."
-          # This would run a script to check for new evidence
-          echo "PubMed check completed"
+        run: python scripts/check_pubmed.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }}
           NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
-        continue-on-error: true
-
-      - name: Fetch Japan Health News
-        run: |
-          echo "Fetching Japan health news..."
-          # This would run the news fetcher
-          echo "News fetch completed"
         continue-on-error: true
 
       - name: Update cache files
@@ -64,8 +52,8 @@ jobs:
           if [ -d "data/cache" ]; then
             git add data/cache/
           fi
-          if [ -f "data/news/japan_news.json" ]; then
-            git add data/news/japan_news.json
+          if [ -f "scripts/drug_list.json" ]; then
+            git add scripts/drug_list.json
           fi
           if ! git diff --staged --quiet; then
             git commit -m "Update evidence cache [skip ci]"
