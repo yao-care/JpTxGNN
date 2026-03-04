@@ -1,82 +1,7 @@
 {
-  "generated": "2026-03-04T06:35:34.604560+00:00",
-  "count": 14,
+  "generated": "2026-03-04T12:34:56.969402+00:00",
+  "count": 9,
   "news": [
-    {
-      "id": "8516e37f3169",
-      "title": "ニコンの空間オミックス解析ソフトウェア技術が、東京大学が主導する乳がん転移の共同研究で活用",
-      "published": "2026-03-04T05:28:57+00:00",
-      "sources": [
-        {
-          "name": "河北新報オンライン",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yOGVDZ0VMc0piSVNiRmRhNDdLeWdlb3lfU1ZMWVZuQlRFR0FWUUdTZTB2ZkgxXzV6bTZnTkVqNUU5c01KWHFZMEFxU1VqZEF0N0NINg?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "がん",
-          "related_drugs": [
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "ゼローダ錠３００　３００ｍｇ（選）"
-            },
-            {
-              "slug": "propranolol",
-              "name": "インデラル錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "imatinib",
-              "name": "グリベック錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳がん",
-          "related_drugs": [
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "2691f1f4baf7",
       "title": "「克服5カ年計画」策定から10年、脳卒中対策のこれまでとこれから―AIやデータ分析で変わる未来の治療(メディカルドック)",
@@ -122,13 +47,13 @@
       ]
     },
     {
-      "id": "92ecdd041f57",
-      "title": "男子校で性教育を伝える産婦人科医が答える、男子にHPVワクチンが必要な理由と子どもたちへの伝え方",
+      "id": "9775055844e9",
+      "title": "男性の罹患率が高い中咽頭がんは増加傾向に…。男子HPVワクチン接種が世界で広がるこれだけの理由",
       "published": "2026-03-03T21:05:23+00:00",
       "sources": [
         {
           "name": "現代ビジネス",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VbXZPY1VDOE11VGc1dzl0TjliQWZRWnRBX09kOU9kdl8xMEVvQ0RZcktXeTRhanpXa3d3bnZBNDkyU192eVhoaHRiM3M1MWM?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjMFRqek00eUlKQnJ4cWxscUpaa1pzUWk4RTFPYkRwMVlwRHZmR3FrZGtYdGF3cG94d1p2akY5NkFMTE5mbDdsa3VtOE9lTGs?oc=5"
         }
       ],
       "keywords": [
@@ -186,8 +111,8 @@
       ]
     },
     {
-      "id": "dd4d03080805",
-      "title": "脳卒中による障害が少ない側の腕を鍛えることで動作能力が向上｜CareNet.com",
+      "id": "0622d62a22c9",
+      "title": "脳卒中による障害が少ない側の腕を鍛えることで動作能力が向上｜医師向け医療ニュースはケアネット",
       "published": "2026-03-03T19:00:00+00:00",
       "sources": [
         {
@@ -382,70 +307,6 @@
       ]
     },
     {
-      "id": "02534381346d",
-      "title": "オキシブチニンが前立腺がんのホットフラッシュを大幅に軽減｜医師向け医療ニュースはケアネット",
-      "published": "2026-03-02T19:00:00+00:00",
-      "sources": [
-        {
-          "name": "CareNet.com",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1QVp3RlpIT0phcnQwOTZqZUs2bGMxUUtFLXQtZmV0LWZtd1Nqel9CNFpwNUt1d3lLbTNXdy04SEhrSXA1TVdpNjRSNi1pRzR1NE44YUd4aHNKUQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "がん",
-          "related_drugs": [
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "ゼローダ錠３００　３００ｍｇ（選）"
-            },
-            {
-              "slug": "propranolol",
-              "name": "インデラル錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "imatinib",
-              "name": "グリベック錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "b9d9f76417b1",
       "title": "脳卒中管理で非専門医が押さえておきたい重要ポイントは？「脳卒中治療ガイドライン」改訂｜医師向け医療ニュースはケアネット",
       "published": "2026-03-02T19:00:00+00:00",
@@ -541,158 +402,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/1c992209734dc98d32a12a2780e1e9677f270c8b?source=rss"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "がん",
-          "related_drugs": [
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "ゼローダ錠３００　３００ｍｇ（選）"
-            },
-            {
-              "slug": "propranolol",
-              "name": "インデラル錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "imatinib",
-              "name": "グリベック錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "b4dce23418de",
-      "title": "帯状疱疹ワクチンが認知症を予防？ 相次ぐ研究結果が示す可能性",
-      "published": "2026-03-02T08:00:00+00:00",
-      "sources": [
-        {
-          "name": "ライブドアニュース",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9xeXE4SWU3SWVIQVF0MVRqcEZja2xxWVJVRkZRV0VMenY1eVFTcmQwYmVFZGpPLTZkVWJmbVgwTHJibnVpWnVYYTNVZ3JrY18tUUVkUDRicDdCS2k2X3dr?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "herpes zoster",
-          "keyword": "帯状疱疹",
-          "related_drugs": [
-            {
-              "slug": "acyclovir",
-              "name": "ゾビラックス軟膏５％（選）"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "95397e85a106",
-      "title": "令和8年度版「健康診査・がん検診ガイド」",
-      "published": "2026-03-02T06:04:13+00:00",
-      "sources": [
-        {
-          "name": "city.maibara.lg.jp",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1yMXBSTXVHU1N4dURIbVc2cDhOYWo2T3d2dzNqc1FwaTRrMFQ3aWFkQVNaWmgxbG5NMGlwWWJjWmJiUWhKMEQ2Y3lBcnpqTEdOd2diM1lRNm9UakxlWHBqT2NjRkJjWVNrQWFCWQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "がん",
-          "related_drugs": [
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "ゼローダ錠３００　３００ｍｇ（選）"
-            },
-            {
-              "slug": "propranolol",
-              "name": "インデラル錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "imatinib",
-              "name": "グリベック錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "583c98cfa577",
-      "title": "「家族が大腸がん」を発症すると自分も発症するリスクが高い？ 若い世代も知るべき遺伝リスクとは(メディカルドック)",
-      "published": "2026-03-01T02:01:26+00:00",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/7ff19a1fe8e7a2744fb8ba06f0d13401799519f2?source=rss"
         }
       ],
       "keywords": [
