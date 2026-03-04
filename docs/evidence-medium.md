@@ -26,72 +26,22 @@ permalink: /evidence-medium/
 
 ## 薬物リスト
 
-<div id="drug-stats">
-  <p>読み込み中...</p>
-</div>
+{% assign l3_drugs = site.drugs | where: "evidence_level", "L3" | sort: "title" %}
+{% assign l4_drugs = site.drugs | where: "evidence_level", "L4" | sort: "title" %}
 
-<div id="drug-list"></div>
+### L3 レベル ({{ l3_drugs.size }} 件)
 
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-  const statsDiv = document.getElementById('drug-stats');
-  const listDiv = document.getElementById('drug-list');
+| 薬物名 | 適応症数 | リンク |
+|--------|----------|--------|
+{% for drug in l3_drugs %}| **{{ drug.title }}** | {{ drug.indication_count }} | [レポートを見る]({{ drug.url | relative_url }}) |
+{% endfor %}
 
-  fetch('/data/drugs.json')
-    .then(response => response.json())
-    .then(data => {
-      // L3-L4 薬物をフィルタ
-      const l3Drugs = data.drugs.filter(d => d.evidence_level === 'L3');
-      const l4Drugs = data.drugs.filter(d => d.evidence_level === 'L4');
+### L4 レベル ({{ l4_drugs.size }} 件)
 
-      statsDiv.innerHTML = `
-        <p><strong>L3 レベル:</strong> ${l3Drugs.length} 件 | <strong>L4 レベル:</strong> ${l4Drugs.length} 件</p>
-      `;
-
-      let html = '';
-
-      if (l3Drugs.length > 0) {
-        html += '<h3>L3 レベル（' + l3Drugs.length + ' 件）</h3>';
-        html += '<table><thead><tr><th>薬物名</th><th>予測適応症数</th><th>リンク</th></tr></thead><tbody>';
-        l3Drugs.forEach(drug => {
-          html += `<tr>
-            <td><strong>${drug.name}</strong></td>
-            <td>${drug.indication_count}</td>
-            <td><a href="${drug.url}">レポートを見る</a></td>
-          </tr>`;
-        });
-        html += '</tbody></table>';
-      }
-
-      if (l4Drugs.length > 0) {
-        html += '<h3>L4 レベル（' + l4Drugs.length + ' 件）</h3>';
-        html += '<table><thead><tr><th>薬物名</th><th>予測適応症数</th><th>リンク</th></tr></thead><tbody>';
-        l4Drugs.forEach(drug => {
-          html += `<tr>
-            <td><strong>${drug.name}</strong></td>
-            <td>${drug.indication_count}</td>
-            <td><a href="${drug.url}">レポートを見る</a></td>
-          </tr>`;
-        });
-        html += '</tbody></table>';
-      }
-
-      if (l3Drugs.length === 0 && l4Drugs.length === 0) {
-        html = `<div style="background: #fff3cd; padding: 1rem; border-left: 4px solid #ffc107; border-radius: 4px;">
-          <strong>データ準備中</strong><br>
-          現在、中エビデンスレベル（L3-L4）の薬物はありません。エビデンス収集プロセスが完了次第、こちらに表示されます。<br><br>
-          すべての薬物は現在 <a href="/evidence-low/">L5（モデル予測のみ）</a> として分類されています。
-        </div>`;
-      }
-
-      listDiv.innerHTML = html;
-    })
-    .catch(err => {
-      statsDiv.innerHTML = '';
-      listDiv.innerHTML = '<p>データの読み込みに失敗しました。</p>';
-    });
-});
-</script>
+| 薬物名 | 適応症数 | リンク |
+|--------|----------|--------|
+{% for drug in l4_drugs %}| **{{ drug.title }}** | {{ drug.indication_count }} | [レポートを見る]({{ drug.url | relative_url }}) |
+{% endfor %}
 
 ---
 
