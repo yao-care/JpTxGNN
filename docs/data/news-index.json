@@ -1,7 +1,82 @@
 {
-  "generated": "2026-03-04T01:11:38.918943+00:00",
-  "count": 15,
+  "generated": "2026-03-04T06:35:34.604560+00:00",
+  "count": 14,
   "news": [
+    {
+      "id": "8516e37f3169",
+      "title": "ニコンの空間オミックス解析ソフトウェア技術が、東京大学が主導する乳がん転移の共同研究で活用",
+      "published": "2026-03-04T05:28:57+00:00",
+      "sources": [
+        {
+          "name": "河北新報オンライン",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yOGVDZ0VMc0piSVNiRmRhNDdLeWdlb3lfU1ZMWVZuQlRFR0FWUUdTZTB2ZkgxXzV6bTZnTkVqNUU5c01KWHFZMEFxU1VqZEF0N0NINg?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "2691f1f4baf7",
       "title": "「克服5カ年計画」策定から10年、脳卒中対策のこれまでとこれから―AIやデータ分析で変わる未来の治療(メディカルドック)",
@@ -47,13 +122,13 @@
       ]
     },
     {
-      "id": "9775055844e9",
-      "title": "男性の罹患率が高い中咽頭がんは増加傾向に…。男子HPVワクチン接種が世界で広がるこれだけの理由",
+      "id": "92ecdd041f57",
+      "title": "男子校で性教育を伝える産婦人科医が答える、男子にHPVワクチンが必要な理由と子どもたちへの伝え方",
       "published": "2026-03-03T21:05:23+00:00",
       "sources": [
         {
           "name": "現代ビジネス",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjMFRqek00eUlKQnJ4cWxscUpaa1pzUWk4RTFPYkRwMVlwRHZmR3FrZGtYdGF3cG94d1p2akY5NkFMTE5mbDdsa3VtOE9lTGs?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VbXZPY1VDOE11VGc1dzl0TjliQWZRWnRBX09kOU9kdl8xMEVvQ0RZcktXeTRhanpXa3d3bnZBNDkyU192eVhoaHRiM3M1MWM?oc=5"
         }
       ],
       "keywords": [
@@ -111,8 +186,8 @@
       ]
     },
     {
-      "id": "0622d62a22c9",
-      "title": "脳卒中による障害が少ない側の腕を鍛えることで動作能力が向上｜医師向け医療ニュースはケアネット",
+      "id": "dd4d03080805",
+      "title": "脳卒中による障害が少ない側の腕を鍛えることで動作能力が向上｜CareNet.com",
       "published": "2026-03-03T19:00:00+00:00",
       "sources": [
         {
@@ -605,66 +680,6 @@
             {
               "slug": "hydrocortisone",
               "name": "ヘモレックス軟膏"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "32615d73619e",
-      "title": "糖尿病の母親の児はてんかん発症リスクが高い",
-      "published": "2026-03-02T05:49:57+00:00",
-      "sources": [
-        {
-          "name": "糖尿病リソースガイド",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmZV81d0x1LWFUWE4wOFdIOThTU1oyUGM4TDZhQWxuazBTV2M1V3NERktZVnZ6eE9PMFJwd0g5M1c5U2RXbFZfQmFSODh5c3hKNk1pZ3VjaGlCdWVyV0Y3c0pVZE9tRW8yODB3?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "epilepsy",
-          "keyword": "てんかん",
-          "related_drugs": [
-            {
-              "slug": "valproic-acid",
-              "name": "セレニカＲ顆粒４０％（選）"
-            },
-            {
-              "slug": "carbamazepine",
-              "name": "テグレトール錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "diazepam",
-              "name": "ホリゾン錠５ｍｇ（選）"
-            },
-            {
-              "slug": "lamotrigine",
-              "name": "ラミクタール錠２５ｍｇ（選）"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "e4421569fe8c",
-      "title": "「インフルエンザ脳症を疑う初期症状」はご存知ですか？救急車を呼んだ方がよい症状も解説！",
-      "published": "2026-03-02T03:01:38+00:00",
-      "sources": [
-        {
-          "name": "メディカルドック",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE96M3dSX2t6QWd2RndLXzBYanRsWUxNbjk0QVIzdU83dkdBUkpXQThVRDNRNHB6MTh6OWZjYVpSdnBpa3B2dkpxUXRQUk4?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "influenza",
-          "keyword": "インフルエンザ",
-          "related_drugs": [
-            {
-              "slug": "oseltamivir",
-              "name": "タミフルドライシロップ３％（選）"
             }
           ]
         }
