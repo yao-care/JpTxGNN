@@ -1,20 +1,8 @@
-<!-- Navigation: Always expanded, no folding -->
+<!-- Navigation styling (collapsible enabled) -->
 <style>
-/* 隱藏折疊箭頭 */
-.nav-list-expander {
-  display: none !important;
-}
-/* 子選單永遠展開 */
-.nav-list .nav-list-item > .nav-list {
-  display: block !important;
-}
-/* 分組標題樣式 */
+/* 父項目樣式 */
 .nav-list > .nav-list-item > .nav-list-link {
   font-weight: 600;
-  color: #5c5962;
-  text-transform: uppercase;
-  font-size: 0.75rem;
-  letter-spacing: 0.05em;
 }
 /* 子項目樣式 */
 .nav-list .nav-list .nav-list-link {
@@ -31,11 +19,11 @@
 <!-- <meta name="google-site-verification" content="YOUR_VERIFICATION_CODE" /> -->
 
 <!-- RSS Feed -->
-<link rel="alternate" type="application/rss+xml" title="TwTxGNN 最新更新" href="{{ '/feed.xml' | absolute_url }}">
+<link rel="alternate" type="application/rss+xml" title="JpTxGNN 最新更新" href="{{ '/feed.xml' | absolute_url }}">
 
 <!-- YMYL 審核資訊 Meta -->
 <meta name="last-reviewed" content="2026-02-19">
-<meta name="reviewed-by" content="TwTxGNN Research Team">
+<meta name="reviewed-by" content="JpTxGNN Research Team">
 
 <!-- Schema.org 結構化資料 -->
 {% if page.layout == 'default' and page.evidence_level %}
@@ -55,20 +43,20 @@
       "lastReviewed": "2026-02-19",
       "reviewedBy": {
         "@type": "Organization",
-        "name": "TwTxGNN Research Team"
+        "name": "JpTxGNN Research Team"
       },
       "author": {
         "@type": "Organization",
-        "name": "TwTxGNN Team",
-        "url": "https://twtxgnn.yao.care/"
+        "name": "JpTxGNN Team",
+        "url": "https://jptxgnn.yao.care/"
       },
       "publisher": {
         "@type": "Organization",
-        "name": "TwTxGNN",
-        "url": "https://twtxgnn.yao.care/",
+        "name": "JpTxGNN",
+        "url": "https://jptxgnn.yao.care/",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://twtxgnn.yao.care/assets/images/og-default.png"
+          "url": "https://jptxgnn.yao.care/assets/images/og-default.png"
         }
       },
       "about": {
@@ -122,31 +110,31 @@
   "@graph": [
     {
       "@type": "WebSite",
-      "@id": "https://twtxgnn.yao.care/#website",
-      "name": "TwTxGNN 老藥新用驗證報告",
-      "url": "https://twtxgnn.yao.care/",
+      "@id": "https://jptxgnn.yao.care/#website",
+      "name": "JpTxGNN 老藥新用驗證報告",
+      "url": "https://jptxgnn.yao.care/",
       "description": "用 AI 預測台灣健保藥品的潛在新適應症，並提供臨床證據驗證報告",
       "publisher": {
-        "@id": "https://twtxgnn.yao.care/#organization"
+        "@id": "https://jptxgnn.yao.care/#organization"
       },
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://twtxgnn.yao.care/?search={search_term_string}",
+        "target": "https://jptxgnn.yao.care/?search={search_term_string}",
         "query-input": "required name=search_term_string"
       }
     },
     {
       "@type": "Organization",
-      "@id": "https://twtxgnn.yao.care/#organization",
-      "name": "TwTxGNN",
-      "url": "https://twtxgnn.yao.care/",
+      "@id": "https://jptxgnn.yao.care/#organization",
+      "name": "JpTxGNN",
+      "url": "https://jptxgnn.yao.care/",
       "description": "基於哈佛 TxGNN 模型的老藥新用預測平台",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://twtxgnn.yao.care/assets/images/og-default.png"
+        "url": "https://jptxgnn.yao.care/assets/images/og-default.png"
       },
       "sameAs": [
-        "https://github.com/yao-care/TwTxGNN"
+        "https://github.com/yao-care/JpTxGNN"
       ],
       "knowsAbout": [
         "Drug Repurposing",
@@ -157,29 +145,29 @@
     },
     {
       "@type": "Article",
-      "@id": "https://twtxgnn.yao.care/#article",
+      "@id": "https://jptxgnn.yao.care/#article",
       "headline": "老藥新用，從數據到證據",
       "description": "用 AI 預測台灣健保藥品的潛在新適應症，提供 191 個藥物的臨床試驗與文獻證據驗證報告",
       "author": {
-        "@id": "https://twtxgnn.yao.care/#organization"
+        "@id": "https://jptxgnn.yao.care/#organization"
       },
       "publisher": {
-        "@id": "https://twtxgnn.yao.care/#organization"
+        "@id": "https://jptxgnn.yao.care/#organization"
       },
       "datePublished": "2026-02-19",
       "dateModified": "2026-02-19",
-      "mainEntityOfPage": "https://twtxgnn.yao.care/",
+      "mainEntityOfPage": "https://jptxgnn.yao.care/",
       "isAccessibleForFree": true
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://twtxgnn.yao.care/#breadcrumb",
+      "@id": "https://jptxgnn.yao.care/#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "首頁",
-          "item": "https://twtxgnn.yao.care/"
+          "item": "https://jptxgnn.yao.care/"
         }
       ]
     }
@@ -196,15 +184,15 @@
     {
       "@type": "AboutPage",
       "@id": "{{ page.url | absolute_url }}#webpage",
-      "name": "關於 TwTxGNN",
-      "description": "TwTxGNN 老藥新用驗證報告的專案說明、資料來源與引用方式",
+      "name": "關於 JpTxGNN",
+      "description": "JpTxGNN 老藥新用驗證報告的專案說明、資料來源與引用方式",
       "url": "{{ page.url | absolute_url }}",
       "datePublished": "2026-02-19",
       "dateModified": "2026-02-19",
       "mainEntity": {
         "@type": "Organization",
-        "name": "TwTxGNN",
-        "url": "https://twtxgnn.yao.care/",
+        "name": "JpTxGNN",
+        "url": "https://jptxgnn.yao.care/",
         "description": "基於哈佛 TxGNN 模型的老藥新用預測平台"
       }
     },
@@ -246,7 +234,7 @@
           "@type": "ListItem",
           "position": 1,
           "name": "首頁",
-          "item": "https://twtxgnn.yao.care/"
+          "item": "https://jptxgnn.yao.care/"
         },
         {
           "@type": "ListItem",
@@ -269,7 +257,7 @@
     {
       "@type": "HowTo",
       "@id": "{{ page.url | absolute_url }}#howto",
-      "name": "TwTxGNN 預測與驗證方法",
+      "name": "JpTxGNN 預測與驗證方法",
       "description": "從 AI 預測到證據驗證的完整流程說明",
       "step": [
         {
@@ -306,7 +294,7 @@
           "@type": "ListItem",
           "position": 1,
           "name": "首頁",
-          "item": "https://twtxgnn.yao.care/"
+          "item": "https://jptxgnn.yao.care/"
         },
         {
           "@type": "ListItem",
@@ -329,14 +317,14 @@
     {
       "@type": "CollectionPage",
       "@id": "{{ page.url | absolute_url }}#webpage",
-      "name": "藥物列表 - TwTxGNN",
-      "description": "TwTxGNN 所有藥物驗證報告列表，共 191 種藥物",
+      "name": "藥物列表 - JpTxGNN",
+      "description": "JpTxGNN 所有藥物驗證報告列表，共 191 種藥物",
       "url": "{{ page.url | absolute_url }}"
     },
     {
       "@type": "ItemList",
       "@id": "{{ page.url | absolute_url }}#itemlist",
-      "name": "TwTxGNN 藥物驗證報告",
+      "name": "JpTxGNN 藥物驗證報告",
       "description": "191 種台灣健保藥品的老藥新用驗證報告",
       "numberOfItems": 191,
       "itemListOrder": "https://schema.org/ItemListOrderAscending"
@@ -349,7 +337,7 @@
           "@type": "ListItem",
           "position": 1,
           "name": "首頁",
-          "item": "https://twtxgnn.yao.care/"
+          "item": "https://jptxgnn.yao.care/"
         },
         {
           "@type": "ListItem",
@@ -372,11 +360,11 @@
     {
       "@type": "CollectionPage",
       "@id": "{{ page.url | absolute_url }}#webpage",
-      "name": "健康新聞監測 - TwTxGNN",
+      "name": "健康新聞監測 - JpTxGNN",
       "description": "{{ page.description | default: '自動監測 191 種藥物與適應症的最新健康新聞報導' }}",
       "url": "{{ page.url | absolute_url }}",
       "isPartOf": {
-        "@id": "https://twtxgnn.yao.care/#website"
+        "@id": "https://jptxgnn.yao.care/#website"
       },
       "about": {
         "@type": "Thing",
@@ -395,7 +383,7 @@
           "@type": "ListItem",
           "position": 1,
           "name": "首頁",
-          "item": "https://twtxgnn.yao.care/"
+          "item": "https://jptxgnn.yao.care/"
         },
         {
           "@type": "ListItem",
@@ -425,20 +413,20 @@
       "dateModified": "2026-02-21",
       "author": {
         "@type": "Organization",
-        "name": "TwTxGNN",
-        "url": "https://twtxgnn.yao.care/"
+        "name": "JpTxGNN",
+        "url": "https://jptxgnn.yao.care/"
       },
       "publisher": {
         "@type": "Organization",
-        "name": "TwTxGNN",
-        "url": "https://twtxgnn.yao.care/",
+        "name": "JpTxGNN",
+        "url": "https://jptxgnn.yao.care/",
         "logo": {
           "@type": "ImageObject",
-          "url": "https://twtxgnn.yao.care/assets/images/og-default.png"
+          "url": "https://jptxgnn.yao.care/assets/images/og-default.png"
         }
       },
       "isPartOf": {
-        "@id": "https://twtxgnn.yao.care/news/#webpage"
+        "@id": "https://jptxgnn.yao.care/news/#webpage"
       },
       "mainEntityOfPage": "{{ page.url | absolute_url }}",
       "speakable": {
@@ -455,13 +443,13 @@
           "@type": "ListItem",
           "position": 1,
           "name": "首頁",
-          "item": "https://twtxgnn.yao.care/"
+          "item": "https://jptxgnn.yao.care/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "健康新聞",
-          "item": "https://twtxgnn.yao.care/news/"
+          "item": "https://jptxgnn.yao.care/news/"
         },
         {
           "@type": "ListItem",
@@ -486,7 +474,7 @@
       "@type": "ListItem",
       "position": 1,
       "name": "首頁",
-      "item": "https://twtxgnn.yao.care/"
+      "item": "https://jptxgnn.yao.care/"
     },
     {
       "@type": "ListItem",
