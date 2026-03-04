@@ -68,12 +68,24 @@ document.addEventListener('DOMContentLoaded', function() {
         data.news.slice(0, 20).forEach(item => {
           const date = new Date(item.published).toLocaleDateString('ja-JP');
           const source = item.sources[0] || {};
-          const keywords = item.keywords.map(k => {
+          // キーワード表示：疾患 + 関連薬物へのリンク
+          let keywordsHtml = '';
+          item.keywords.forEach(k => {
             if (k.type === 'drug' && k.slug) {
-              return `<a href="/drugs/${k.slug}/" class="keyword-tag ${k.type}">${k.keyword}</a>`;
+              // 薬物キーワード → 薬物レポートへリンク
+              keywordsHtml += `<a href="/drugs/${k.slug}/" class="keyword-tag drug">${k.keyword || k.name}</a> `;
+            } else if (k.type === 'indication') {
+              // 疾患キーワード表示
+              keywordsHtml += `<span class="keyword-tag indication">${k.keyword || k.name}</span> `;
+              // 関連薬物へのリンク（最大3つ）
+              if (k.related_drugs && k.related_drugs.length > 0) {
+                k.related_drugs.slice(0, 3).forEach(drug => {
+                  keywordsHtml += `<a href="/drugs/${drug.slug}/" class="keyword-tag drug">${drug.name}</a> `;
+                });
+              }
             }
-            return `<span class="keyword-tag ${k.type}">${k.keyword}</span>`;
-          }).join(' ');
+          });
+          const keywords = keywordsHtml;
 
           html += `
             <li class="news-item">
