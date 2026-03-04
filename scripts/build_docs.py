@@ -190,8 +190,8 @@ indication_count: {indication_count}
         print(f"✅ {drug_title} ({evidence_level}, {indication_count} 適應症)")
         nav_order += 1
 
-    # 建立藥物列表頁面
-    create_drug_list_page(drug_list)
+    # 不再建立藥物列表頁面（由 nav-drugs.md 提供）
+    # create_drug_list_page(drug_list)
 
     print(f"\n📊 總計轉換 {len(drug_list)} 個藥物")
     return drug_list
