@@ -1,7 +1,103 @@
 {
-  "generated": "2026-03-04T18:35:04.588140+00:00",
-  "count": 10,
+  "generated": "2026-03-05T01:14:06.915017+00:00",
+  "count": 8,
   "news": [
+    {
+      "id": "5f51f0432717",
+      "title": "心臓発作の転帰における「性別とフレイルのパラドックス」",
+      "published": "2026-03-04T21:03:25+00:00",
+      "sources": [
+        {
+          "name": "m3.com",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sMTVsME00Y3N3V0JWa3g4QmM3VXZveDhjdTh5VGJVUXNTS1dwM0g3UkNMZl8wOGF5dG93WWZaNzRWN1JyTC00WThYRUI3Rnp4N1E?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心臓発作",
+          "related_drugs": [
+            {
+              "slug": "atenolol",
+              "name": "テノーミン錠５０　５０ｍｇ（選）"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "ロプレソール錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "lisinopril",
+              "name": "ロンゲス錠２０ｍｇ（選）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ff8b1ce7f3bb",
+      "title": "高リスク上咽頭がん、camrelizumabの上乗せ・維持療法が有効／BMJ｜CareNet.com",
+      "published": "2026-03-04T19:00:00+00:00",
+      "sources": [
+        {
+          "name": "CareNet.com",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zeFZWZ2NwLTNzRXByOWljNERWTE1CY2phMzV0WFFLWmNpZFZGdjZrdnY4TGFoU2ZueEFkcTA3SjdxZTFNZVNSR0ZBQ2JOUUMwZUhrR0YzNEtiZGhxb2Zr?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "2691f1f4baf7",
       "title": "「克服5カ年計画」策定から10年、脳卒中対策のこれまでとこれから―AIやデータ分析で変わる未来の治療(メディカルドック)",
@@ -155,50 +251,6 @@
       ]
     },
     {
-      "id": "911adf5e4b8c",
-      "title": "チルゼパチドの日本人リアルワールドデータ 2型糖尿病患者でHbA1cの有意な改善 亀田総合病院",
-      "published": "2026-03-03T04:53:29+00:00",
-      "sources": [
-        {
-          "name": "糖尿病リソースガイド",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BQjBlTlZTNWtuX3JXR0xMU1RBMFhERXY2X2xwRTRoWEkzb1RIOHZsOWhPUV85Z25INE4zMEJUVF9BVVYtX3dTVjZteFQzbFl3NUJoU1Z1RXF2d1FHZXM1NHB6OTJfcmtVeklv?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "type 2 diabetes mellitus",
-          "keyword": "2型糖尿病",
-          "related_drugs": [
-            {
-              "slug": "pioglitazone",
-              "name": "アクトスＯＤ錠３０　３０ｍｇ（選）"
-            },
-            {
-              "slug": "glimepiride",
-              "name": "アマリール０．５ｍｇ錠（選）"
-            },
-            {
-              "slug": "glyburide",
-              "name": "オイグルコン錠２．５ｍｇ（選）"
-            },
-            {
-              "slug": "gliclazide",
-              "name": "グリミクロン錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "metformin",
-              "name": "メホビル配合錠ＨＤ「トーワ」"
-            },
-            {
-              "slug": "dapagliflozin",
-              "name": "ダパグリフロジン錠１０ｍｇ「サワイ」"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "5e156a05a207",
       "title": "脳梗塞・認知症予防に善玉コレステロールが有効か 国立循環器病研究センター",
       "published": "2026-03-03T02:10:00+00:00",
@@ -243,13 +295,13 @@
       ]
     },
     {
-      "id": "8e66228eb229",
-      "title": "男性がん罹患者数1位、46年で約40倍増…前立腺がんの対策は？ 老年科専門医・下方浩史教授が解説「早期発見で助かるが…」（文春オンライン）",
-      "published": "2026-03-03T02:00:00+00:00",
+      "id": "497c9ceed58b",
+      "title": "男性がん罹患者数1位、46年で約40倍増…前立腺がんの対策は？ 老年科専門医・下方浩史教授が解説「早期発見で助かるが…」 - au Webポータル",
+      "published": "2026-03-03T02:10:00+00:00",
       "sources": [
         {
-          "name": "ｄメニューニュース",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tQW1HOGZJNmdzc0ZUbGdETUtONUlLT2pvOWlkdnQxMmUxTXNxZ0VCamRfZzNUS3hLcGJSdGhyMmRCRzBJdk5qRW9nMDZ2bURSZ0lJVzhyQzBiVGxwckR1TXpMSmdDbm9pdXJEZ0pPUktIQTE1ekE?oc=5"
+          "name": "au Webポータル",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE44OTNMTHdqZ0JoMkNLNThVUEsyRFNaa2J5d3l4cWxjczBQb0pRNHVwSEdYcG5nMnNqRG54d2xHVUNtd0ZMcDVqMDQ4Mm52ci0tcWMxRkpkWW5lMjlhem51ek1leEFUU1JoQTFuNW5oalBzSGhfNG5zbHZmaw?oc=5"
         }
       ],
       "keywords": [
@@ -293,158 +345,6 @@
             {
               "slug": "erlotinib",
               "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "02534381346d",
-      "title": "オキシブチニンが前立腺がんのホットフラッシュを大幅に軽減｜医師向け医療ニュースはケアネット",
-      "published": "2026-03-02T19:00:00+00:00",
-      "sources": [
-        {
-          "name": "CareNet.com",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1QVp3RlpIT0phcnQwOTZqZUs2bGMxUUtFLXQtZmV0LWZtd1Nqel9CNFpwNUt1d3lLbTNXdy04SEhrSXA1TVdpNjRSNi1pRzR1NE44YUd4aHNKUQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "がん",
-          "related_drugs": [
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "ゼローダ錠３００　３００ｍｇ（選）"
-            },
-            {
-              "slug": "propranolol",
-              "name": "インデラル錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "imatinib",
-              "name": "グリベック錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "b9d9f76417b1",
-      "title": "脳卒中管理で非専門医が押さえておきたい重要ポイントは？「脳卒中治療ガイドライン」改訂｜医師向け医療ニュースはケアネット",
-      "published": "2026-03-02T19:00:00+00:00",
-      "sources": [
-        {
-          "name": "CareNet.com",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KZ0ZyRW45LXhLSGlIM3UxVUdtT2hlbVlDLVRNdkFjWk85cEJ2VnpDNC1rZUVvX29ReWw0TWJzTWpydUppNG1QR0g5dE5INlpocDVfYl83eVlzTmQ2Z1k4?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "脳卒中",
-          "related_drugs": [
-            {
-              "slug": "atorvastatin",
-              "name": "アトーゼット配合錠ＨＤ（選）"
-            },
-            {
-              "slug": "pravastatin",
-              "name": "メバロチン錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "simvastatin",
-              "name": "リポバス錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "エックスフォージ配合ＯＤ錠（選）"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "ミカムロ配合錠ＢＰ（選）"
-            },
-            {
-              "slug": "rosuvastatin",
-              "name": "クレストールＯＤ錠５ｍｇ（選）"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "9254c13cfa30",
-      "title": "濾胞性リンパ腫、R-CHOP療法の15年PFS（SWOG S0016）／JAMA Oncol｜医師向け医療ニュースはケアネット",
-      "published": "2026-03-02T19:00:00+00:00",
-      "sources": [
-        {
-          "name": "CareNet.com",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wX0c3blVoWk0wV0xSR3Bzc3hGcHNQUjZTQXBjS05VYUtydDNuYXBFY244UHpuMThENHlYZGNQemdFZ2JHUWhpcnQ5eHRZQ3VZYXc4b1lCRFNaNjB5NS04?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "リンパ腫",
-          "keyword": "リンパ腫",
-          "related_drugs": [
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
             },
             {
               "slug": "prednisolone",
