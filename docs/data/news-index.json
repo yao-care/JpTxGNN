@@ -1,7 +1,150 @@
 {
-  "generated": "2026-03-06T18:31:56.604553+00:00",
-  "count": 15,
+  "generated": "2026-03-07T01:09:00.081550+00:00",
+  "count": 16,
   "news": [
+    {
+      "id": "41a2f702c70d",
+      "title": "実は30〜50代女性に多い「リウマチ」。33歳で発症した筆者が直面した、想像を絶する“副作用と闘病”のリアル",
+      "published": "2026-03-06T23:47:51+00:00",
+      "sources": [
+        {
+          "name": "女子SPA!",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE05VTdEYS1XNlppa2N6N3RHRlowdE1fVWRNMU1kZHlGTF8wMFF5Y0xpSEJ3YTItaWZpZ1d5MW40NDl3Zw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "rheumatoid arthritis",
+          "keyword": "リウマチ",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "cyclosporine",
+              "name": "ネオーラル５０ｍｇカプセル（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "meloxicam",
+              "name": "モービック錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "diclofenac",
+              "name": "ボルタレンサポ５０ｍｇ（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "celecoxib",
+              "name": "セレコックス錠２００ｍｇ（選）"
+            },
+            {
+              "slug": "ibuprofen",
+              "name": "ブルフェン顆粒２０％（選）"
+            },
+            {
+              "slug": "loxoprofen",
+              "name": "ロキソニンゲル１％（選）"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0e2f61b64b06",
+      "title": "乳がん検診、マンモグラフィーと超音波の併用で進行がんリスク低下",
+      "published": "2026-03-06T22:00:00+00:00",
+      "sources": [
+        {
+          "name": "朝日新聞",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYS0hPTWt2M0llRV9aMWllcVpteFJKM2xSNkJoNmJ5OHNOWXBreU1Nb0RZd1QybkRLNXQ3UWN1a3JJTDFtS3RqN3hWZEdzUGVjNTJob2YzcHF2bUt6TDNLYnIxQWtyQWM?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "cd21a2b9e597",
       "title": "『大腸がん』を早期発見するアクションプラン。便潜血検査が「陰性」でも安心できない理由(メディカルドック)",
@@ -61,6 +204,81 @@
             {
               "slug": "hydrocortisone",
               "name": "ヘモレックス軟膏"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b7341814a713",
+      "title": "がんの予防と早期発見に役立つ検査や対策は？【納得のがん治療のために知っておくべきこと】#8",
+      "published": "2026-03-06T06:05:00+00:00",
+      "sources": [
+        {
+          "name": "ｄメニューニュース",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQci1Sc1JsckN3VGdjbW9LYWd5ZUVubC1wVWpTUTdIRUZ4T3dsS2llSWFKdnA3YzI1VHVqWWJqMHVCTktiUU5Xb1FkbFROeGEwNG8wM3lwbHJKczQtV2o5WUZWMWJhRUNGOGZMNXlLSTNyWEZRWlV4dGVUX2xaMUlkWW83T0jSAYoBQVVfeXFMTjZVSHdmY01NeFdaOXJQVFpTS1lFNEMwMTJTQ1I4MVNfcENIUXk1bk1od3gzTmc2NmRqMjV6cjNqdWtUYUJhVXNzdmlEcGt3aGJBUG04dzRNY05PXzJHNlV5dEkzbTR3dnVLU1NTTXFKTkZyN0pRTU41TzBYYl9wS19KU0FZRjVFblh3?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
             }
           ]
         }
@@ -728,102 +946,6 @@
             {
               "slug": "enalapril",
               "name": "レニベース錠１０　１０ｍｇ（選）"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "5f51f0432717",
-      "title": "心臓発作の転帰における「性別とフレイルのパラドックス」",
-      "published": "2026-03-04T21:03:25+00:00",
-      "sources": [
-        {
-          "name": "m3.com",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sMTVsME00Y3N3V0JWa3g4QmM3VXZveDhjdTh5VGJVUXNTS1dwM0g3UkNMZl8wOGF5dG93WWZaNzRWN1JyTC00WThYRUI3Rnp4N1E?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "心臓発作",
-          "related_drugs": [
-            {
-              "slug": "atenolol",
-              "name": "テノーミン錠５０　５０ｍｇ（選）"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "ロプレソール錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "lisinopril",
-              "name": "ロンゲス錠２０ｍｇ（選）"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "ff8b1ce7f3bb",
-      "title": "高リスク上咽頭がん、camrelizumabの上乗せ・維持療法が有効／BMJ｜CareNet.com",
-      "published": "2026-03-04T19:00:00+00:00",
-      "sources": [
-        {
-          "name": "CareNet.com",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zeFZWZ2NwLTNzRXByOWljNERWTE1CY2phMzV0WFFLWmNpZFZGdjZrdnY4TGFoU2ZueEFkcTA3SjdxZTFNZVNSR0ZBQ2JOUUMwZUhrR0YzNEtiZGhxb2Zr?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "がん",
-          "related_drugs": [
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "ゼローダ錠３００　３００ｍｇ（選）"
-            },
-            {
-              "slug": "propranolol",
-              "name": "インデラル錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "imatinib",
-              "name": "グリベック錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
             }
           ]
         }
