@@ -1,174 +1,186 @@
 {
-  "last_updated": "2026-03-08T01:14:44.297108+00:00",
+  "last_updated": "2026-03-08T06:31:39.228865+00:00",
   "total_count": 44,
-  "matched_count": 11,
+  "matched_count": 13,
   "news": [
     {
-      "id": "beeb1d90711c",
-      "title": "「学校行きたくない…」小学生の娘がこぼしたSOS。複雑な心境を乗り越えて母が出した“ADHDの検査受けようか”という選択【作者に聞く】(ウォーカープラス)",
-      "published": "2026-03-08T01:13:40+00:00",
-      "summary": "子育てのリアルな葛藤を描いた漫画『娘のADHD疑惑・検査診断していない理由』をブログで連載している、早乃あかりさん(@akari238ffm)。作品は、娘にADHDの可能性を感じながらも、検査や診断を",
+      "id": "669a8074b205",
+      "title": "ある日突然“失語症”になった夫　あちこちに相談…行き着いた交流会で変化(西日本新聞)",
+      "published": "2026-03-08T06:00:31+00:00",
+      "summary": "脳卒中などの病気や事故によって脳の言語中枢が損なわれる「失語症」。相手の話が理解できない、言葉が出ないといった症状がつらく、家に引きこもってしまう人もいる。そんな人たちが安心して交流できる場が友の会",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/38f0238edc87a60e4c7dfe59ecfbbff847857161?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "d53dfe007a8b",
-      "title": "「これって、ふたりの問題だよね」　安田美沙子さんが夫と向き合った不妊治療　意識を変えた「メールでの本音」と今(Hint",
-      "published": "2026-03-08T01:10:16+00:00",
-      "summary": "3月8日は「国際女性デー」です。「Hint-Pot」では「私の選択、私の幸福」にクローズアップし、タレントの安田美沙子さんのインタビューをお届けします。ライフワークとして続けるランニングや、キッチン",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/13fe7dbe0c6d85b42fc4e3654f7217885e0992db?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "170e9d381538",
-      "title": "《まるで浮き上がっているように見える》愛子さま「雅子さまと揃えた淡色ドレス」そのすごい視覚効果【専門家の分析】(女性セブンプラス)",
-      "published": "2026-03-08T01:00:00+00:00",
-      "summary": "東京都青梅市で最高気温25.1度を記録するなど、季節外れの穏やかな陽気となった2月23日、天皇陛下の66歳のお誕生日を祝う一般参賀が皇居・東庭で行われた。",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/1cb732f745353f04434b9018e91420d608a1fcde?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "2b1aa265fe68",
-      "title": "「お金の体力」事前に把握し治療の選択広げよう　黒田尚子さんに聞く、がんの経済毒性　知りたいがんのこと～がん電話相談(産経新聞)",
-      "published": "2026-03-08T01:00:00+00:00",
-      "summary": "医療費などの出費に加え収入減など、がん治療中の家計への影響を指す「経済毒性」という言葉がある。乳がん経験があり、患者家計サポート協会（千葉）の顧問を務めるファイナンシャルプランナー、黒田尚子さんに、が",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/c84d618b403de72e01bbb8761a908d04d4bc839b?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/154f4eb115a80cc051cfacebb26e66d955e2e57e?source=rss"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "がん",
+          "name": "stroke",
+          "keyword": "脳卒中",
           "related_drugs": [
             {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
+              "slug": "atorvastatin",
+              "name": "アトーゼット配合錠ＨＤ（選）"
             },
             {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+              "slug": "pravastatin",
+              "name": "メバロチン錠５　５ｍｇ（選）"
             },
             {
-              "slug": "capecitabine",
-              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+              "slug": "simvastatin",
+              "name": "リポバス錠５　５ｍｇ（選）"
             },
             {
-              "slug": "propranolol",
-              "name": "インデラル錠１０ｍｇ（選）"
+              "slug": "amlodipine",
+              "name": "エックスフォージ配合ＯＤ錠（選）"
             },
             {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
+              "slug": "telmisartan",
+              "name": "ミカムロ配合錠ＢＰ（選）"
             },
             {
-              "slug": "imatinib",
-              "name": "グリベック錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳がん",
-          "related_drugs": [
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
+              "slug": "rosuvastatin",
+              "name": "クレストールＯＤ錠５ｍｇ（選）"
             }
           ]
         }
       ]
     },
     {
-      "id": "4f0704a64610",
-      "title": "捨てていた「酢酸菌」に力、健康やうまみ…　濾過しない「にごり酢」へ伝統回帰(産経新聞)",
-      "published": "2026-03-08T00:30:00+00:00",
-      "summary": "酢をあえて濾過（ろか）しない「にごり酢」が注目されている。にごりの中には栄養素やうまみが残されているが、酢醸造の近代化とともに透明に濾過されるようになり、搾りかすとして捨てられていた。しかし近年、にご",
+      "id": "d8573be198a5",
+      "title": "力士は大食いでも「糖尿病」にならないって本当？　筋肉量多くても防げない“意外な落とし穴”とは【専門医解説】(オトナンサー)",
+      "published": "2026-03-08T05:15:00+00:00",
+      "summary": "大相撲春場所（三月場所）が3月8日、初日を迎えました。横綱昇進を目指す大関安青錦に注目が集まっており、観戦を楽しみにしている人は多いのではないでしょうか。 ところで、力士は体を作るために食事量が",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/386e778268130085bf83c87567f4890cf359dbda?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/b61bbff4a2e8681498c4fa504a4fc0e3afb60987?source=rss"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "36d9c7b59135",
-      "title": "花粉シーズンを乗り切る美容テク｜高濃度スキンケア×腸活食で、シミ・赤み対策を(美的.com)",
-      "published": "2026-03-08T00:01:41+00:00",
-      "summary": "今回体験したのは、最新の肌解析マシン「Meicet Skin Analyzer」。 美容サロンやクリニックで使われている、AI搭載の肌分析マシンで、顔を撮影するだけで、今の肌状態を“見える化”してく",
+      "id": "c09b8ec23d9f",
+      "title": "コリ解消は正しい「座り方」から──体へのストレスを最小限に、筋トレ効果も(クロワッサンオンライン)",
+      "published": "2026-03-08T05:00:28+00:00",
+      "summary": "日常生活で、睡眠時間を除けば、「座っている」時間はとても長いもの。改善することでコリから劇的に解放されます。理学療法士の山口正貴さんに基本の座り方、長時間座っているときの合間のリセット法などを教えても",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/bcf10f6466f81e96c7fc931fc557c9722595f3ff?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/ed179f05535834bbac34671fa3e79e7e2011c4f5?source=rss"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "3e025d4882eb",
-      "title": "『5歳児健診』が推奨される理由とは? 就学前に子どもの特性発見へ「課題見つかっても余裕持って準備できる」(FNNプライムオンライン)",
-      "published": "2026-03-08T00:00:43+00:00",
-      "summary": "近年、就学する前に子どもの特性を発見し、適切な対応につなげるための『5歳児健診』が勧められている。これまでの乳幼児健診との違いや新潟県内の実施状況などを医師に聞いた。",
+      "id": "72e0bf973bd2",
+      "title": "幸福は積み立てられる！　ハーバード大の研究からわかった、幸せな老後を確実にするための「7つの投資」(クーリエ・ジャポン)",
+      "published": "2026-03-08T05:00:00+00:00",
+      "summary": "年金と同じように、「老後の幸せ」も若いうちから積み立てておくことができる──。ハーバード・ビジネス・スクール教授として「幸福学」を教えるアーサー・C・ブルックスはそう指摘する。膨大なデータの分析から導",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/88d12660a094a76b9822ed03fd3c1368db933300?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/08b7d677c58d77278a69d1f1438112eaa573c4d5?source=rss"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "0f2dd2def1a8",
-      "title": "「日本ダンス医科学会」が初の学術集会、多彩な研究成果を発表(産経新聞)",
-      "published": "2026-03-08T00:00:00+00:00",
-      "summary": "「ダンス」と聞くと、研ぎ澄まされた身体芸術である「バレエ」や2024年パリ五輪の正式競技「ブレイキン」といったトップアスリートのパフォーマンスを思い浮かべる人もいれば、社交ダンスや盆踊りに思いをめぐら",
+      "id": "9c6f2f46f048",
+      "title": "不妊治療クリニック選びは「通いやすさ」が大切！選び方、重要3カ条って？(たまひよONLINE)",
+      "published": "2026-03-08T04:55:00+00:00",
+      "summary": "不妊治療を始めようと思ったときに、最初にしなくてはならないのはクリニック選び。どうやって情報収集する？ クリニックを選ぶポイントは？ 治療を続けるときに大事なことは？ 今回は「賢く情報収集！クリニ",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/8b054780c917fc99ed253a00f87d7433c3b82e36?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/98bacb0a06ee1dc8a10f2483c011191f15fa2ff1?source=rss"
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "56987c36c8ee",
+      "title": "【闘病】「あなた、死にますよ！」 二度の宣告と骨壊死。『難病』に人生をむしばまれた絶望の15年(メディカルドック)",
+      "published": "2026-03-08T02:03:01+00:00",
+      "summary": "うつとパニック障害で休職中、「元気に過ごしていたはず」の日常に、「全身性エリテマトーデス（SLE）」は何の前触れもなく忍び寄っていました。唯一の異変は、水分を取ってもトイレに行かなくなったこと。 そ",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/bc4c6ef234bf432cdf0c59976efc33ae21e6471d?source=rss"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "anxiety disorder",
+          "keyword": "パニック障害",
+          "related_drugs": [
+            {
+              "slug": "olanzapine",
+              "name": "ジプレキサザイディス錠２．５ｍｇ（選）"
+            },
+            {
+              "slug": "lorazepam",
+              "name": "ワイパックス錠１．０　１ｍｇ（選）"
+            },
+            {
+              "slug": "alprazolam",
+              "name": "ソラナックス０．４ｍｇ錠（選）"
+            },
+            {
+              "slug": "sertraline",
+              "name": "ジェイゾロフトＯＤ錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "mirtazapine",
+              "name": "リフレックス錠３０ｍｇ（選）"
+            },
+            {
+              "slug": "duloxetine",
+              "name": "サインバルタカプセル３０ｍｇ（選）"
+            },
+            {
+              "slug": "pregabalin",
+              "name": "リリカＯＤ錠１５０ｍｇ（選）"
+            },
+            {
+              "slug": "escitalopram",
+              "name": "レクサプロ錠２０ｍｇ（選）"
+            },
+            {
+              "slug": "paroxetine",
+              "name": "パロキセチン錠２０ｍｇ「ＳＰＫＫ」"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "751d926c8c7f",
+      "title": "インフルエンザＡ型とＢ型では対策が違うの？クリニック理事長林裕章先生にお伺いしました",
+      "published": "2026-03-08T01:32:25+00:00",
+      "summary": "インフルエンザＡ型とＢ型では対策が違うの？クリニック理事長林裕章先生にお伺いしました&nbsp;&nbsp;TRILL",
+      "sources": [
+        {
+          "name": "TRILL",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5LWmR3STNsZVlKMUhuV0tTakRWYi1PQWw4dXh5RFFZOXJ5SzhVcXhEYnhva2RMRkQ3SXdycmFGWkthN21Qb29XcXZSS0c4NnM?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "influenza",
+          "keyword": "インフルエンザ",
+          "related_drugs": [
+            {
+              "slug": "oseltamivir",
+              "name": "タミフルドライシロップ３％（選）"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "1c44cf03d18c",
@@ -268,6 +280,19 @@
         {
           "name": "apf.inc",
           "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQQWNRSmdpb09CbnlQTS1OREdrNWI2NFpEdzFNaEtMeGtUM1NqV0FMM3RvNHNQTF92RjlTZnBCdGtDRzJYaGZ3b0lKV1BSQkRydVFSSnQtOXdiZVUzM0dBckVyUGJvV2loNDYwSGV5RFVnaVhLWjlFMDZ6aDhPMjRnT2lOOVBLZVR1cFpnaGdaZ2ZxNjRucEdRdkQyRnVybGNNdmJHSjdmS0Z2cUhuTXh2V2xHRVRTRFd5SW5sa2tSSkk1TzkxbWo0cll0SHVFTXYwcTkxcHJxUmxKM2tjeXU3ckgzUmZGNzgzVTU5QV9uZVJ3TmltWDFiNE1HTU5uWWZYWWJrWXFrQVpSTkh0aEJGYnBxSG9jV0ppOGRIb190Y3F4THM2cW5FYkZLT3FrWjNCYjBmSEZPOVFxQndUR0E?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "c5536db02898",
+      "title": "なぜO型は新型コロナに強いのか…血液型で病気の｢かかりやすさ｣｢重症化しやすさ｣が決まるメカニズム",
+      "published": "2026-03-07T03:15:00+00:00",
+      "summary": "なぜO型は新型コロナに強いのか…血液型で病気の｢かかりやすさ｣｢重症化しやすさ｣が決まるメカニズム&nbsp;&nbsp;ライブドアニュース「血液型で病気リスクがこんなに違う」O型の発症率が66%も少ない「世界で約100万人が命を落としてきた病気」&nbsp;&nbsp;Yahoo!ニュースなぜO型は新型コロナに強いのか…血液型で病気の｢かかりやすさ｣｢重症化しやすさ｣が決まるメカニズム (2ページ目)&nbsp;&nbsp;PRESIDENT Online（プレジデントオンライン）決定版：最も有利とされる血液型はどれ？驚愕の結論と意外な理由&nbsp;&nbsp;apf.inc日本人に突出して多いのはA型だが韓国は全く異なるのはなぜか…\"血液型に刻まれた人類の進化と適応の歴史\"&nbsp;&nbsp;PRESIDENT Online（プレジデントオンライン）",
+      "sources": [
+        {
+          "name": "ライブドアニュース",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ORDNjN2NiVmJMVWxucEM3WTRNZ1JmTnZiaVlSTkxkQ3l3QkZyTUQ3QlFiNkVGeWlCczlpXzlBcWlEeDQxQjZwYmFnMzcxSEhvZEFTVjhYUjE0amdaVlQ0?oc=5"
         }
       ],
       "matched_keywords": []
@@ -398,7 +423,7 @@
       "id": "bd1936aa076b",
       "title": "80代で50代の記憶力を保つ「スーパーエイジャー」の秘密とAIの役割 - Forbes JAPAN",
       "published": "2026-03-07T01:07:00+00:00",
-      "summary": "80代で50代の記憶力を保つ「スーパーエイジャー」の秘密とAIの役割&nbsp;&nbsp;Forbes JAPAN【鎌田實氏寄稿】人との関わりを大切に スーパーエイジャーを目指そう:人生100年時代の新健康法&nbsp;&nbsp;福島民友新聞社",
+      "summary": "80代で50代の記憶力を保つ「スーパーエイジャー」の秘密とAIの役割&nbsp;&nbsp;Forbes JAPAN【最新研究】50代と同等の思考力を保つ80歳のヒミツ&nbsp;&nbsp;newspicks.com【鎌田實氏寄稿】人との関わりを大切に スーパーエイジャーを目指そう:人生100年時代の新健康法&nbsp;&nbsp;福島民友新聞社",
       "sources": [
         {
           "name": "Forbes JAPAN",
@@ -480,7 +505,7 @@
       "id": "d7c723798d33",
       "title": "《やせていても要注意》“隠れ糖尿病”のリスク　健康診断で見逃されてしまうことも…「頭がボーッとする」「夕方急に眠くなる」など要注意な自覚症状",
       "published": "2026-03-06T22:00:00+00:00",
-      "summary": "《やせていても要注意》“隠れ糖尿病”のリスク 健康診断で見逃されてしまうことも…「頭がボーッとする」「夕方急に眠くなる」など要注意な自覚症状&nbsp;&nbsp;ｄメニューニュースやせていても要注意》“隠れ糖尿病”のリスク 健康診断で見逃されてしまうことも…「頭がボーッとする」「夕方急に眠くなる」など要注意な自覚症状（女性セブンプラス&nbsp;&nbsp;Yahoo!ニュース《メンタルにも影響》「血糖値スパイク」とは何か？ 急上昇した血糖値がインスリンの大量分泌で急低下 脳が飢餓状態と判断し、イライラ、不安、攻撃性が高まる&nbsp;&nbsp;ｄメニューニュース予防法が進化する「糖尿病」気をつけたい習慣や最新の治療法は｜更年期のお悩み相談室&nbsp;&nbsp;Fujingaho女性の糖尿病》年齢を重ねるほど罹患率アップ 閉経が近づくとエストロゲン分泌量が低下し、血糖値が上昇しやすくなる 「目」「腎臓」「神経」への三大合併症の恐ろしさ （女性セブンプラス&nbsp;&nbsp;Yahoo!ニュース",
+      "summary": "《やせていても要注意》“隠れ糖尿病”のリスク 健康診断で見逃されてしまうことも…「頭がボーッとする」「夕方急に眠くなる」など要注意な自覚症状&nbsp;&nbsp;ｄメニューニュースやせていても要注意》“隠れ糖尿病”のリスク 健康診断で見逃されてしまうことも…「頭がボーッとする」「夕方急に眠くなる」など要注意な自覚症状（女性セブンプラス&nbsp;&nbsp;Yahoo!ニュース《女性の糖尿病》年齢を重ねるほど罹患率アップ 閉経が近づくとエストロゲン分泌量が低下し、血糖値が上昇しやすくなる 「目」「腎臓」「神経」への三大合併症の恐ろしさ (1/1)&nbsp;&nbsp;女性セブンプラス《メンタルにも影響》「血糖値スパイク」とは何か？ 急上昇した血糖値がインスリンの大量分泌で急低下 脳が飢餓状態と判断し、イライラ、不安、攻撃性が高まる&nbsp;&nbsp;ｄメニューニュース予防法が進化する「糖尿病」気をつけたい習慣や最新の治療法は｜更年期のお悩み相談室&nbsp;&nbsp;Fujingaho",
       "sources": [
         {
           "name": "ｄメニューニュース",
@@ -501,6 +526,71 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "f04353a9c6ea",
+      "title": "HPVワクチン定期接種対象 すべての年代で接種率上昇",
+      "published": "2026-03-06T13:10:00+00:00",
+      "summary": "HPVワクチン定期接種対象 すべての年代で接種率上昇&nbsp;&nbsp;時事ドットコム「男性でもHPVワクチン接種できる」認知率は約４割&nbsp;&nbsp;FNNプライムオンラインHPVとRSウイルス💉ワクチン行政の壁に挑む&nbsp;&nbsp;選挙ドットコム4価HPVワクチン、浸潤性子宮頸がんリスクを長期抑制／BMJ｜CareNet.com&nbsp;&nbsp;CareNet.com男子校で性教育を伝える産婦人科医が答える、男子にHPVワクチンが必要な理由と子どもたちへの伝え方（FRaU）&nbsp;&nbsp;Yahoo!ニュース",
+      "sources": [
+        {
+          "name": "時事ドットコム",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xU1BfeW9nd2tLdWo1Q0txV21XbG9ESV9ieDcwRHR6aG1KVTJiVzhGem95NWpacW5CRTZ0Y01rS2tBUFh1Nl9KTk1tTzI1Q3lubGZXSnhaMl93Nk1Jek90dEFPSDdBSVpSaG8w?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "d3f4bf09105e",
@@ -646,6 +736,19 @@
       "matched_keywords": []
     },
     {
+      "id": "1ee92d7b6c7a",
+      "title": "麻しん（はしか）患者 感染期間内に広島市内の施設を利用 感染力が強く高熱が続くと重症化の恐れ",
+      "published": "2026-03-06T07:27:00+00:00",
+      "summary": "麻しん（はしか）患者 感染期間内に広島市内の施設を利用 感染力が強く高熱が続くと重症化の恐れ&nbsp;&nbsp;FNNプライムオンライン愛知県内で確認の「麻しん（はしか）」患者 感染可能期間に広島市内の施設を利用 広島市「同じ時間帯に利用した人は体調に注意を」と呼びかけ&nbsp;&nbsp;TBS NEWS DIGはしか発症の愛知県の30代男性、名神・桂川PAを利用 京都市、注意呼び掛け&nbsp;&nbsp;京都新聞デジタルはしか患者が広島市を2月に訪問&nbsp;&nbsp;中国新聞デジタル愛知 新たに２人のはしか感染を確認 豊川市の女子高校生と知立市の男性（30代） （中京テレビＮＥＷＳ）&nbsp;&nbsp;Yahoo!ニュース",
+      "sources": [
+        {
+          "name": "FNNプライムオンライン",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11RmdTQVJjb0dPb3FjU3hPUFM4d0RRM3VzMU1pRmJOaHc3Q0g4aE1QdzJXcHpfTUpUWG9TQTBLTEM2ZElyWGRhNk9fZkRZdw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "da1b7770727c",
       "title": "ファイザーとあすか製薬、RSウイルスワクチン「アブリスボ®筋注用」のコ・プロモーションを開始 - Pfizer Japan",
       "published": "2026-03-06T07:11:20+00:00",
@@ -680,84 +783,6 @@
         {
           "name": "apf.inc",
           "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPdzRSMDBNWDc1bGJ2Y2EwQUViQjM5UktVVkFGRkI3SExYUGRRa0VQMllHcDJVZG1kTG9HXzUzQUNSdnNPSW1lZ3lGajdqZGxVdk1CRUpONVl0eUdHY2RLcHFPeEdvN2tZcmQxMW8tSWljaEJLa3d6QVEtV3VjUUp4M1pzbGJoTDNRSTVHRGtEZlFzYzZQanlfSG11a3V5SnZScG9LazB6ck51MTVNVlRoWGx1am9hQzhDSmt3aklwYXVpM2c5S1o1QXprLWlfZHNKRmVJR0tCTUx5VmNZT3hkTXRteDF4VWJQeE0taWV2SUdKVzk3Yms1akNUUnpreUpQaEtFU0lBcDJzeEMxZkxTQ2g5WVRud0hjaDZMUlh2OUJaSmRUazNaYmtaWWpPS2haVDQ4YUxBc0g0VjQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "e324ad216555",
-      "title": "HPVワクチンの男性への定期接種は実現するか？先行する豪では子宮頸がん撲滅も見えてきた",
-      "published": "2026-03-06T06:00:00+00:00",
-      "summary": "HPVワクチンの男性への定期接種は実現するか？先行する豪では子宮頸がん撲滅も見えてきた&nbsp;&nbsp;ライブドアニュース「男性でもHPVワクチン接種できる」認知率は約４割&nbsp;&nbsp;FNNプライムオンラインHPVとRSウイルス💉ワクチン行政の壁に挑む&nbsp;&nbsp;選挙ドットコム4価HPVワクチン、浸潤性子宮頸がんリスクを長期抑制／BMJ｜CareNet.com&nbsp;&nbsp;CareNet.com男子校で性教育を伝える産婦人科医が答える、男子にHPVワクチンが必要な理由と子どもたちへの伝え方（FRaU）&nbsp;&nbsp;Yahoo!ニュース",
-      "sources": [
-        {
-          "name": "ライブドアニュース",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE42M1R4eDV4aTEwX1ZoNDhBeXg4Y1ZVQ2dZWm9tWHE0d1FzTUszelhQQ3ZWdmpSdkNJY2JhbkVWNFYxTVJyZDc2NURSOGl4RVczMnVrUWhwQmdIVWZaUC1v?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "がん",
-          "related_drugs": [
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "ゼローダ錠３００　３００ｍｇ（選）"
-            },
-            {
-              "slug": "propranolol",
-              "name": "インデラル錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "imatinib",
-              "name": "グリベック錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "71499fdef88c",
-      "title": "思春期いじめ被害 心の不調につながる仕組み一部解明 都医学研など",
-      "published": "2026-03-06T05:10:00+00:00",
-      "summary": "思春期いじめ被害 心の不調につながる仕組み一部解明 都医学研など&nbsp;&nbsp;医療介護CBnews",
-      "sources": [
-        {
-          "name": "医療介護CBnews",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9aalh5bXFtdXlPa0ZpQ2ZtOUVUcXVPN0VKdmxMbEk4MDFneEk1SjJZc0steWhsVFdITnJXSTcwdHUyM19GVG5ST1k0S1FWWDFCQi1ibDhPWlk2SXc?oc=5"
         }
       ],
       "matched_keywords": []

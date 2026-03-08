@@ -1,77 +1,126 @@
 {
-  "generated": "2026-03-08T01:14:44.298738+00:00",
-  "count": 11,
+  "generated": "2026-03-08T06:31:39.230316+00:00",
+  "count": 13,
   "news": [
     {
-      "id": "2b1aa265fe68",
-      "title": "「お金の体力」事前に把握し治療の選択広げよう　黒田尚子さんに聞く、がんの経済毒性　知りたいがんのこと～がん電話相談(産経新聞)",
-      "published": "2026-03-08T01:00:00+00:00",
+      "id": "669a8074b205",
+      "title": "ある日突然“失語症”になった夫　あちこちに相談…行き着いた交流会で変化(西日本新聞)",
+      "published": "2026-03-08T06:00:31+00:00",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/c84d618b403de72e01bbb8761a908d04d4bc839b?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/154f4eb115a80cc051cfacebb26e66d955e2e57e?source=rss"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "がん",
+          "name": "stroke",
+          "keyword": "脳卒中",
           "related_drugs": [
             {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
+              "slug": "atorvastatin",
+              "name": "アトーゼット配合錠ＨＤ（選）"
             },
             {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+              "slug": "pravastatin",
+              "name": "メバロチン錠５　５ｍｇ（選）"
             },
             {
-              "slug": "capecitabine",
-              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+              "slug": "simvastatin",
+              "name": "リポバス錠５　５ｍｇ（選）"
             },
             {
-              "slug": "propranolol",
-              "name": "インデラル錠１０ｍｇ（選）"
+              "slug": "amlodipine",
+              "name": "エックスフォージ配合ＯＤ錠（選）"
             },
             {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
+              "slug": "telmisartan",
+              "name": "ミカムロ配合錠ＢＰ（選）"
             },
             {
-              "slug": "imatinib",
-              "name": "グリベック錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
+              "slug": "rosuvastatin",
+              "name": "クレストールＯＤ錠５ｍｇ（選）"
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "id": "56987c36c8ee",
+      "title": "【闘病】「あなた、死にますよ！」 二度の宣告と骨壊死。『難病』に人生をむしばまれた絶望の15年(メディカルドック)",
+      "published": "2026-03-08T02:03:01+00:00",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/bc4c6ef234bf432cdf0c59976efc33ae21e6471d?source=rss"
+        }
+      ],
+      "keywords": [
         {
           "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳がん",
+          "name": "anxiety disorder",
+          "keyword": "パニック障害",
           "related_drugs": [
             {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
+              "slug": "olanzapine",
+              "name": "ジプレキサザイディス錠２．５ｍｇ（選）"
+            },
+            {
+              "slug": "lorazepam",
+              "name": "ワイパックス錠１．０　１ｍｇ（選）"
+            },
+            {
+              "slug": "alprazolam",
+              "name": "ソラナックス０．４ｍｇ錠（選）"
+            },
+            {
+              "slug": "sertraline",
+              "name": "ジェイゾロフトＯＤ錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "mirtazapine",
+              "name": "リフレックス錠３０ｍｇ（選）"
+            },
+            {
+              "slug": "duloxetine",
+              "name": "サインバルタカプセル３０ｍｇ（選）"
+            },
+            {
+              "slug": "pregabalin",
+              "name": "リリカＯＤ錠１５０ｍｇ（選）"
+            },
+            {
+              "slug": "escitalopram",
+              "name": "レクサプロ錠２０ｍｇ（選）"
+            },
+            {
+              "slug": "paroxetine",
+              "name": "パロキセチン錠２０ｍｇ「ＳＰＫＫ」"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "751d926c8c7f",
+      "title": "インフルエンザＡ型とＢ型では対策が違うの？クリニック理事長林裕章先生にお伺いしました",
+      "published": "2026-03-08T01:32:25+00:00",
+      "sources": [
+        {
+          "name": "TRILL",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5LWmR3STNsZVlKMUhuV0tTakRWYi1PQWw4dXh5RFFZOXJ5SzhVcXhEYnhva2RMRkQ3SXdycmFGWkthN21Qb29XcXZSS0c4NnM?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "influenza",
+          "keyword": "インフルエンザ",
+          "related_drugs": [
+            {
+              "slug": "oseltamivir",
+              "name": "タミフルドライシロップ３％（選）"
             }
           ]
         }
@@ -341,13 +390,13 @@
       ]
     },
     {
-      "id": "cd21a2b9e597",
-      "title": "『大腸がん』を早期発見するアクションプラン。便潜血検査が「陰性」でも安心できない理由(メディカルドック)",
-      "published": "2026-03-06T11:03:15+00:00",
+      "id": "f04353a9c6ea",
+      "title": "HPVワクチン定期接種対象 すべての年代で接種率上昇",
+      "published": "2026-03-06T13:10:00+00:00",
       "sources": [
         {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/6d3ca7b43be7af1aae764d7cb2e6ed51d12daaa1?source=rss"
+          "name": "時事ドットコム",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xU1BfeW9nd2tLdWo1Q0txV21XbG9ESV9ieDcwRHR6aG1KVTJiVzhGem95NWpacW5CRTZ0Y01rS2tBUFh1Nl9KTk1tTzI1Q3lubGZXSnhaMl93Nk1Jek90dEFPSDdBSVpSaG8w?oc=5"
         }
       ],
       "keywords": [
@@ -405,13 +454,13 @@
       ]
     },
     {
-      "id": "e324ad216555",
-      "title": "HPVワクチンの男性への定期接種は実現するか？先行する豪では子宮頸がん撲滅も見えてきた",
-      "published": "2026-03-06T06:00:00+00:00",
+      "id": "cd21a2b9e597",
+      "title": "『大腸がん』を早期発見するアクションプラン。便潜血検査が「陰性」でも安心できない理由(メディカルドック)",
+      "published": "2026-03-06T11:03:15+00:00",
       "sources": [
         {
-          "name": "ライブドアニュース",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE42M1R4eDV4aTEwX1ZoNDhBeXg4Y1ZVQ2dZWm9tWHE0d1FzTUszelhQQ3ZWdmpSdkNJY2JhbkVWNFYxTVJyZDc2NURSOGl4RVczMnVrUWhwQmdIVWZaUC1v?oc=5"
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/6d3ca7b43be7af1aae764d7cb2e6ed51d12daaa1?source=rss"
         }
       ],
       "keywords": [
