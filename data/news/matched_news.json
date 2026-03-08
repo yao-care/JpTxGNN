@@ -1,20 +1,250 @@
 {
-  "last_updated": "2026-03-07T18:20:53.428433+00:00",
-  "total_count": 53,
-  "matched_count": 16,
+  "last_updated": "2026-03-08T01:14:44.297108+00:00",
+  "total_count": 44,
+  "matched_count": 11,
   "news": [
     {
-      "id": "012622f6c1de",
-      "title": "エースコック「麺がうまい 醤油らぁ麺 大盛り」発売。みずみずしくもちもちした食感の「潤もち食感幅広麺」を味わう(グルメ Watch)",
-      "published": "2026-03-07T15:00:00+00:00",
-      "summary": "エースコックは「麺がうまい 醤油らぁ麺 大盛り」を3月16日に発売する。価格は258円前後（税別）。 新開発の「潤もち食感幅広麺」はみずみずしくもちもちした食感を楽しむことができ、鶏油の香るベー",
+      "id": "beeb1d90711c",
+      "title": "「学校行きたくない…」小学生の娘がこぼしたSOS。複雑な心境を乗り越えて母が出した“ADHDの検査受けようか”という選択【作者に聞く】(ウォーカープラス)",
+      "published": "2026-03-08T01:13:40+00:00",
+      "summary": "子育てのリアルな葛藤を描いた漫画『娘のADHD疑惑・検査診断していない理由』をブログで連載している、早乃あかりさん(@akari238ffm)。作品は、娘にADHDの可能性を感じながらも、検査や診断を",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/dd44ae9250c08ac33e1bafb613d215fcae4a1e95?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/38f0238edc87a60e4c7dfe59ecfbbff847857161?source=rss"
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "d53dfe007a8b",
+      "title": "「これって、ふたりの問題だよね」　安田美沙子さんが夫と向き合った不妊治療　意識を変えた「メールでの本音」と今(Hint",
+      "published": "2026-03-08T01:10:16+00:00",
+      "summary": "3月8日は「国際女性デー」です。「Hint-Pot」では「私の選択、私の幸福」にクローズアップし、タレントの安田美沙子さんのインタビューをお届けします。ライフワークとして続けるランニングや、キッチン",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/13fe7dbe0c6d85b42fc4e3654f7217885e0992db?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "170e9d381538",
+      "title": "《まるで浮き上がっているように見える》愛子さま「雅子さまと揃えた淡色ドレス」そのすごい視覚効果【専門家の分析】(女性セブンプラス)",
+      "published": "2026-03-08T01:00:00+00:00",
+      "summary": "東京都青梅市で最高気温25.1度を記録するなど、季節外れの穏やかな陽気となった2月23日、天皇陛下の66歳のお誕生日を祝う一般参賀が皇居・東庭で行われた。",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/1cb732f745353f04434b9018e91420d608a1fcde?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "2b1aa265fe68",
+      "title": "「お金の体力」事前に把握し治療の選択広げよう　黒田尚子さんに聞く、がんの経済毒性　知りたいがんのこと～がん電話相談(産経新聞)",
+      "published": "2026-03-08T01:00:00+00:00",
+      "summary": "医療費などの出費に加え収入減など、がん治療中の家計への影響を指す「経済毒性」という言葉がある。乳がん経験があり、患者家計サポート協会（千葉）の顧問を務めるファイナンシャルプランナー、黒田尚子さんに、が",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/c84d618b403de72e01bbb8761a908d04d4bc839b?source=rss"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4f0704a64610",
+      "title": "捨てていた「酢酸菌」に力、健康やうまみ…　濾過しない「にごり酢」へ伝統回帰(産経新聞)",
+      "published": "2026-03-08T00:30:00+00:00",
+      "summary": "酢をあえて濾過（ろか）しない「にごり酢」が注目されている。にごりの中には栄養素やうまみが残されているが、酢醸造の近代化とともに透明に濾過されるようになり、搾りかすとして捨てられていた。しかし近年、にご",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/386e778268130085bf83c87567f4890cf359dbda?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "36d9c7b59135",
+      "title": "花粉シーズンを乗り切る美容テク｜高濃度スキンケア×腸活食で、シミ・赤み対策を(美的.com)",
+      "published": "2026-03-08T00:01:41+00:00",
+      "summary": "今回体験したのは、最新の肌解析マシン「Meicet Skin Analyzer」。 美容サロンやクリニックで使われている、AI搭載の肌分析マシンで、顔を撮影するだけで、今の肌状態を“見える化”してく",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/bcf10f6466f81e96c7fc931fc557c9722595f3ff?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "3e025d4882eb",
+      "title": "『5歳児健診』が推奨される理由とは? 就学前に子どもの特性発見へ「課題見つかっても余裕持って準備できる」(FNNプライムオンライン)",
+      "published": "2026-03-08T00:00:43+00:00",
+      "summary": "近年、就学する前に子どもの特性を発見し、適切な対応につなげるための『5歳児健診』が勧められている。これまでの乳幼児健診との違いや新潟県内の実施状況などを医師に聞いた。",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/88d12660a094a76b9822ed03fd3c1368db933300?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "0f2dd2def1a8",
+      "title": "「日本ダンス医科学会」が初の学術集会、多彩な研究成果を発表(産経新聞)",
+      "published": "2026-03-08T00:00:00+00:00",
+      "summary": "「ダンス」と聞くと、研ぎ澄まされた身体芸術である「バレエ」や2024年パリ五輪の正式競技「ブレイキン」といったトップアスリートのパフォーマンスを思い浮かべる人もいれば、社交ダンスや盆踊りに思いをめぐら",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/8b054780c917fc99ed253a00f87d7433c3b82e36?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "1c44cf03d18c",
+      "title": "進行乳がん、マンモ＋超音波で発症者減",
+      "published": "2026-03-07T20:00:00+00:00",
+      "summary": "進行乳がん、マンモ＋超音波で発症者減&nbsp;&nbsp;朝日新聞乳がん検診、マンモグラフィーと超音波の併用で進行がんリスク低下（朝日新聞）&nbsp;&nbsp;Yahoo!ニュース無痛MRIやエコーの有用性は？【乳がん検診】専門家が語る“真実”――マンモグラフィのエビデンスと後悔しない検診の受け方を徹底解説（東洋経済オンライン）&nbsp;&nbsp;Yahoo!ニュース",
+      "sources": [
+        {
+          "name": "朝日新聞",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHN3FkcElVOTQwNURRSE41QUo1alBiZ000VDRPcmJfWkVHM0RzcFVSVTJhTFduMGN1V3JEcTN2bTcyakF3dDdBYThKdVdYaDZ4OHlaU2dvQ01vSXB6?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "55fc3bc110e5",
@@ -25,45 +255,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/4f6bf6e020c2b58f99aa444e22eeb843e264b12e?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "5f79ee906026",
-      "title": "「本当にいいシャンプー」は？ 美容師が使っている「美容室帰りの髪が続く」名品(GISELe)",
-      "published": "2026-03-07T12:52:00+00:00",
-      "summary": "シャンプー＆コンディショナー、トリートメント、スカルプケアなど、数多くのアイテムを試してきた美容通にも話を聞き込み。特別な日だけではなく、毎日使うものだからこそ、積み重ねて効果を発揮する名品ばかり。",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/ba0c1a0590ec62906a9199771c6266ccc4030ac0?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "3a18d15bf865",
-      "title": "小嶋陽菜さんがこだわりを解説！「Her lip to BEAUTY」から美容液リップが登場(MAQUIA)",
-      "published": "2026-03-07T12:30:01+00:00",
-      "summary": "小嶋陽菜さんがプロデューサーをつとめる「Her lip to BEAUTY」から待望の美容液リップが登場！ ふっくらボリュームのある唇がチャームポイントのこじはるが、開発に6年以上を費やしたというこだ",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/748f87d11651dbac455705db72f25cda7e5cca15?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "6d7d47ff587a",
-      "title": "【春ヘア】ブラウンからブロンドまで、今試したいトレンドカラー4(ELLE DIGITAL)",
-      "published": "2026-03-07T12:20:23+00:00",
-      "summary": "今回提案したいのは、最もシックにトレンド感を醸し出せる、リュクスな4つのヘアカラー。取り入れるだけで誰でもすぐに、より光沢のある健康的なヘアを実現できる。目指すのは、次にヘアサロンに行くタイミングを少",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/022bdc969dc186e809976a1d1aec14da4084ed6b?source=rss"
         }
       ],
       "matched_keywords": []
@@ -217,14 +408,14 @@
       "matched_keywords": []
     },
     {
-      "id": "37f2cff7a37b",
+      "id": "41a2f702c70d",
       "title": "実は30〜50代女性に多い「リウマチ」。33歳で発症した筆者が直面した、想像を絶する“副作用と闘病”のリアル",
-      "published": "2026-03-06T23:47:00+00:00",
-      "summary": "実は30〜50代女性に多い「リウマチ」。33歳で発症した筆者が直面した、想像を絶する“副作用と闘病”のリアル&nbsp;&nbsp;ｄメニューニュースGoogle ニュースですべての記事を見る",
+      "published": "2026-03-06T23:47:51+00:00",
+      "summary": "実は30〜50代女性に多い「リウマチ」。33歳で発症した筆者が直面した、想像を絶する“副作用と闘病”のリアル&nbsp;&nbsp;女子SPA!Google ニュースですべての記事を見る",
       "sources": [
         {
-          "name": "ｄメニューニュース",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05T0JHRzZaQVVTakYxNnlDUUhubFBKRXR1X1VqcnhzZmJEYzdUV0FkdGhDSUl3a0JZOS1hR19GT09NRWJnMmlRMkxFQjJmY05reWRZNW5xUmVycVRTRk5SU0ZlV1drWUwxbThoQ1NWdW42cWVKMUx2WEV1UEUwd9IBgwFBVV95cUxNUFhhanpOVEdXbUd5d1hQSUg2dlhBVlFpMkI1SURqT1JzeUZYcXM0S0N3Z181NzdmaG9sYXVsNFc5SGw2R3dVTG1odE5fS1I4X0x6SEpyUUQ4dkRNOS1PZHFhSVJVT3d2N09tMElwd0N0T29CUWNaTThBQTBRRnN0WW9Cbw?oc=5"
+          "name": "女子SPA!",
+          "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE05VTdEYS1XNlppa2N6N3RHRlowdE1fVWRNMU1kZHlGTF8wMFF5Y0xpSEJ3YTItaWZpZ1d5MW40NDl3Zw?oc=5"
         }
       ],
       "matched_keywords": [
@@ -286,93 +477,17 @@
       ]
     },
     {
-      "id": "ab5071fcd358",
-      "title": "《やせていても要注意》“隠れ糖尿病”のリスク 健康診断で見逃されてしまうことも…「頭がボーッとする」「夕方急に眠くなる」など要注意な自覚症状 (1/2)",
+      "id": "d7c723798d33",
+      "title": "《やせていても要注意》“隠れ糖尿病”のリスク　健康診断で見逃されてしまうことも…「頭がボーッとする」「夕方急に眠くなる」など要注意な自覚症状",
       "published": "2026-03-06T22:00:00+00:00",
-      "summary": "《やせていても要注意》“隠れ糖尿病”のリスク 健康診断で見逃されてしまうことも…「頭がボーッとする」「夕方急に眠くなる」など要注意な自覚症状 (1/2)&nbsp;&nbsp;女性セブンプラスやせていても要注意》“隠れ糖尿病”のリスク 健康診断で見逃されてしまうことも…「頭がボーッとする」「夕方急に眠くなる」など要注意な自覚症状（女性セブンプラス&nbsp;&nbsp;Yahoo!ニュース《女性の糖尿病》年齢を重ねるほど罹患率アップ 閉経が近づくとエストロゲン分泌量が低下し、血糖値が上昇しやすくなる 「目」「腎臓」「神経」への三大合併症の恐ろしさ&nbsp;&nbsp;ｄメニューニュース予防法が進化する「糖尿病」気をつけたい習慣や最新の治療法は｜更年期のお悩み相談室&nbsp;&nbsp;婦人画報デジタル一度なったら治らない糖尿病…スマホアプリで血糖値を管理 「し・め・じ」を退けよう！ 健康で長生きを！（読売新聞（ヨミドクター））&nbsp;&nbsp;Yahoo!ニュース",
+      "summary": "《やせていても要注意》“隠れ糖尿病”のリスク 健康診断で見逃されてしまうことも…「頭がボーッとする」「夕方急に眠くなる」など要注意な自覚症状&nbsp;&nbsp;ｄメニューニュースやせていても要注意》“隠れ糖尿病”のリスク 健康診断で見逃されてしまうことも…「頭がボーッとする」「夕方急に眠くなる」など要注意な自覚症状（女性セブンプラス&nbsp;&nbsp;Yahoo!ニュース《メンタルにも影響》「血糖値スパイク」とは何か？ 急上昇した血糖値がインスリンの大量分泌で急低下 脳が飢餓状態と判断し、イライラ、不安、攻撃性が高まる&nbsp;&nbsp;ｄメニューニュース予防法が進化する「糖尿病」気をつけたい習慣や最新の治療法は｜更年期のお悩み相談室&nbsp;&nbsp;Fujingaho女性の糖尿病》年齢を重ねるほど罹患率アップ 閉経が近づくとエストロゲン分泌量が低下し、血糖値が上昇しやすくなる 「目」「腎臓」「神経」への三大合併症の恐ろしさ （女性セブンプラス&nbsp;&nbsp;Yahoo!ニュース",
       "sources": [
         {
-          "name": "女性セブンプラス",
-          "link": "https://news.google.com/rss/articles/CBMiOEFVX3lxTE00R1JmQnFLdVNPOHVKTmRMUGUwNXJHdHh2OUFtd2xsaHF5Ujc1T2ljdk50Vjl1M2FT?oc=5"
+          "name": "ｄメニューニュース",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBKeTRnWEdoYmlqUS1pVU0yMjFkanMzNmw0NUUzZlhZOUFsS3VlLUtENEs5dy1SYnhvVGJCMnRzaWpobzVHSXVMQWZ3dEJlTE1VZzhPZ1JONHFfWUMwa2ZyMWFGZldHaE1Sd0530gFwQVVfeXFMTVpFOW5EbERjdFk5YWtpLUt3Vzl3Q0FuYnU1V0E3WHRJS1ZvSnV5TTQwbjRpWUExX24zU1hZbnlndnhNbDRickZBNGEyODAtY19uOTNYcHV4RFBTNGFqYXFLOXVCMFVoUkxfckdUWmpxRw?oc=5"
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "0e2f61b64b06",
-      "title": "乳がん検診、マンモグラフィーと超音波の併用で進行がんリスク低下",
-      "published": "2026-03-06T22:00:00+00:00",
-      "summary": "乳がん検診、マンモグラフィーと超音波の併用で進行がんリスク低下&nbsp;&nbsp;朝日新聞乳がん検診、マンモグラフィーと超音波の併用で進行がんリスク低下（朝日新聞）&nbsp;&nbsp;Yahoo!ニュース無痛MRIやエコーの有用性は？【乳がん検診】専門家が語る\"真実\"――マンモグラフィのエビデンスと後悔しない検診の受け方を徹底解説&nbsp;&nbsp;東洋経済オンライン",
-      "sources": [
-        {
-          "name": "朝日新聞",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYS0hPTWt2M0llRV9aMWllcVpteFJKM2xSNkJoNmJ5OHNOWXBreU1Nb0RZd1QybkRLNXQ3UWN1a3JJTDFtS3RqN3hWZEdzUGVjNTJob2YzcHF2bUt6TDNLYnIxQWtyQWM?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "がん",
-          "related_drugs": [
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "ゼローダ錠３００　３００ｍｇ（選）"
-            },
-            {
-              "slug": "propranolol",
-              "name": "インデラル錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "imatinib",
-              "name": "グリベック錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳がん",
-          "related_drugs": [
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "0dcfcd486ec5",
@@ -570,17 +685,69 @@
       "matched_keywords": []
     },
     {
-      "id": "1bee20b6c88b",
-      "title": "ビクテグラビル／レナカパビル配合剤STR、抗レトロウイルス療法を切り替えたHIV陽性者のウイルス抑制を維持",
+      "id": "e324ad216555",
+      "title": "HPVワクチンの男性への定期接種は実現するか？先行する豪では子宮頸がん撲滅も見えてきた",
       "published": "2026-03-06T06:00:00+00:00",
-      "summary": "ビクテグラビル／レナカパビル配合剤STR、抗レトロウイルス療法を切り替えたHIV陽性者のウイルス抑制を維持&nbsp;&nbsp;河北新報オンライン",
+      "summary": "HPVワクチンの男性への定期接種は実現するか？先行する豪では子宮頸がん撲滅も見えてきた&nbsp;&nbsp;ライブドアニュース「男性でもHPVワクチン接種できる」認知率は約４割&nbsp;&nbsp;FNNプライムオンラインHPVとRSウイルス💉ワクチン行政の壁に挑む&nbsp;&nbsp;選挙ドットコム4価HPVワクチン、浸潤性子宮頸がんリスクを長期抑制／BMJ｜CareNet.com&nbsp;&nbsp;CareNet.com男子校で性教育を伝える産婦人科医が答える、男子にHPVワクチンが必要な理由と子どもたちへの伝え方（FRaU）&nbsp;&nbsp;Yahoo!ニュース",
       "sources": [
         {
-          "name": "河北新報オンライン",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yWDB4NTVKemhfbEU1azFLM01nVmdEVUFDM0F0TGZROFdMYVJqOTBpWXBVejJZVXFNc2pkcFl4VWwyTHA0OF8wN0lEUWZJR1VYR2RvYXpndVlVWHVw?oc=5"
+          "name": "ライブドアニュース",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE42M1R4eDV4aTEwX1ZoNDhBeXg4Y1ZVQ2dZWm9tWHE0d1FzTUszelhQQ3ZWdmpSdkNJY2JhbkVWNFYxTVJyZDc2NURSOGl4RVczMnVrUWhwQmdIVWZaUC1v?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "71499fdef88c",
@@ -609,84 +776,6 @@
       "matched_keywords": []
     },
     {
-      "id": "b37a549d25e8",
-      "title": "令和8年度 せいか健康だより",
-      "published": "2026-03-06T01:13:26+00:00",
-      "summary": "令和8年度 せいか健康だより&nbsp;&nbsp;town.seika.kyoto.jp",
-      "sources": [
-        {
-          "name": "town.seika.kyoto.jp",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZLU5lMm5JQWI2emw2ZjRWaDhhc25scW1taU8yeGhOa3h2T3Q1bkJkMFpfdWljdDItcGJpc2ZCNHJ4Y1dvaW1iZUhZUHFHc0lVQWJaYkJ6ZVZqaThZdjZJM09zX05MbTZxcjNNS080bk1TbGR6SWo4?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "dd06f4d7d04b",
-      "title": "HPVワクチン定期接種対象 すべての年代で接種率上昇 - PR TIMES",
-      "published": "2026-03-06T01:01:20+00:00",
-      "summary": "HPVワクチン定期接種対象 すべての年代で接種率上昇&nbsp;&nbsp;PR TIMES「男性でもHPVワクチン接種できる」認知率は約４割&nbsp;&nbsp;FNNプライムオンライン男子校で性教育を伝える産婦人科医が答える、男子にHPVワクチンが必要な理由と子どもたちへの伝え方（FRaU）&nbsp;&nbsp;Yahoo!ニュース男性の罹患率が高い中咽頭がんは増加傾向に…。男子HPVワクチン接種が世界で広がるこれだけの理由&nbsp;&nbsp;gendai.mediaHPVとRSウイルス💉ワクチン行政の壁に挑む&nbsp;&nbsp;選挙ドットコム",
-      "sources": [
-        {
-          "name": "PR TIMES",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Ib1BrTE5ueTZCT3ZsMHRkUnN4VVBGSEdzNlMyNGxRQThHMXY5RTJjRVZ6cjR6WmtpR3V4Mm54Y1FUOTRJS25XUmVIYmdHUkpfR05Eb2lFVG9maWxlQ3ZCM0FzM1J5bjN3dXc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "がん",
-          "related_drugs": [
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "ゼローダ錠３００　３００ｍｇ（選）"
-            },
-            {
-              "slug": "propranolol",
-              "name": "インデラル錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "imatinib",
-              "name": "グリベック錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "61cc98761137",
       "title": "アストロボティック、イタリア宇宙機関の月面居住モジュール「MPH」向け車輪の開発を受注(sorae 宇宙へのポータルサイト)",
       "published": "2026-03-06T00:53:03+00:00",
@@ -700,267 +789,14 @@
       "matched_keywords": []
     },
     {
-      "id": "ff7288ad619c",
-      "title": "「身体を眠らせ、命を守る」加速する“人工冬眠研究”の現在地【堀江貴文】",
-      "published": "2026-03-06T00:50:00+00:00",
-      "summary": "「身体を眠らせ、命を守る」加速する“人工冬眠研究”の現在地【堀江貴文】&nbsp;&nbsp;GOETHE[ゲーテ]",
-      "sources": [
-        {
-          "name": "GOETHE[ゲーテ]",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1fSnpqcGdjVE5FNHNGUV9KM3pXZUJQR2dpbXdWTW9veDhub3RFUnRUVnY3N2NNQ3NhRVpybWRxUFFaSmR5ejFNM0p6R1Zzc2pxVmR6dllJWkdsSFBuME9yREM5cW8?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "cf4cdc25a4e3",
-      "title": "アルツハイマー病、合併てんかんの治療で認知機能低下が緩やかに－長寿研",
-      "published": "2026-03-06T00:30:00+00:00",
-      "summary": "アルツハイマー病、合併てんかんの治療で認知機能低下が緩やかに－長寿研&nbsp;&nbsp;QLifePro",
-      "sources": [
-        {
-          "name": "QLifePro",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RamE2Y2dZejJWZms5cGpwM256ZmZlVEpOakhWTnJUUUVyOXFpSl9BbWpHZkZtRF84QlhXT3JMRDFEcU9oaVR5SnBDeEJ2bkMtdFM3VlFQTUhRVE8t?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "epilepsy",
-          "keyword": "てんかん",
-          "related_drugs": [
-            {
-              "slug": "valproic-acid",
-              "name": "セレニカＲ顆粒４０％（選）"
-            },
-            {
-              "slug": "carbamazepine",
-              "name": "テグレトール錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "diazepam",
-              "name": "ホリゾン錠５ｍｇ（選）"
-            },
-            {
-              "slug": "lamotrigine",
-              "name": "ラミクタール錠２５ｍｇ（選）"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "01f64666a23b",
-      "title": "日本人2型糖尿病、血中水銀濃度高値で発症リスク約2倍－JIHSほか",
-      "published": "2026-03-06T00:10:00+00:00",
-      "summary": "日本人2型糖尿病、血中水銀濃度高値で発症リスク約2倍－JIHSほか&nbsp;&nbsp;QLifePro",
-      "sources": [
-        {
-          "name": "QLifePro",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBybmF5ek10eEx5Tlo1Y3lXSmlXSmpfd0hfQmxPUjFuS0Zhd3VCdzltUWZLR29YNlZEY0NfMzA2RFZrSWh6UEltdGEybVpTWENoQjhGdmtIdTJOeHIwSzZ6NjhuWDRkZ1p5UmlIQzJ2Yw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "type 2 diabetes mellitus",
-          "keyword": "2型糖尿病",
-          "related_drugs": [
-            {
-              "slug": "pioglitazone",
-              "name": "アクトスＯＤ錠３０　３０ｍｇ（選）"
-            },
-            {
-              "slug": "glimepiride",
-              "name": "アマリール０．５ｍｇ錠（選）"
-            },
-            {
-              "slug": "glyburide",
-              "name": "オイグルコン錠２．５ｍｇ（選）"
-            },
-            {
-              "slug": "gliclazide",
-              "name": "グリミクロン錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "metformin",
-              "name": "メホビル配合錠ＨＤ「トーワ」"
-            },
-            {
-              "slug": "dapagliflozin",
-              "name": "ダパグリフロジン錠１０ｍｇ「サワイ」"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "35ee4b135838",
-      "title": "北斗七星 2026年3月2日付 vol.2094",
-      "published": "2026-03-06T00:00:00+00:00",
-      "summary": "北斗七星 2026年3月2日付 vol.2094&nbsp;&nbsp;週刊BCN＋帯状疱疹のワクチン、２０２７～２９年度の定期接種対象者が２６年度に接種しても補助…中間市と４町（読売新聞オンライン）&nbsp;&nbsp;Yahoo!ニュース帯状疱疹ワクチンが認知症を予防？ 相次ぐ研究結果が示す可能性&nbsp;&nbsp;WIRED.jp帯状疱疹ワクチンが認知症を防ぐ？最新の大規模研究が明かす驚きの研究結果&nbsp;&nbsp;newspicks.com帯状疱疹のワクチン、２０２７～２９年度の定期接種対象者が２６年度に接種しても補助…中間市と４町&nbsp;&nbsp;読売新聞オンライン",
-      "sources": [
-        {
-          "name": "週刊BCN＋",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9kMmNaM20yS2VGclVXM2pUbm5famY5Q243SjJsd3BCbks0ci1nYk1uaXZ4MlpKZUJnSFp5TW1QVDBYTWd5T2tFWjQxcU83OTFDSk1qR1ByS3B4TFpIcFhPMVRKbjFYU1dwS1dEb3lhUXZha2R3NkNV?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "herpes zoster",
-          "keyword": "帯状疱疹",
-          "related_drugs": [
-            {
-              "slug": "acyclovir",
-              "name": "ゾビラックス軟膏５％（選）"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "5f4c4c050031",
-      "title": "RSV感染による肺炎球菌増殖、Gas6／Axl経路が治療標的候補－東京医科大",
-      "published": "2026-03-06T00:00:00+00:00",
-      "summary": "RSV感染による肺炎球菌増殖、Gas6／Axl経路が治療標的候補－東京医科大&nbsp;&nbsp;QLifePro",
-      "sources": [
-        {
-          "name": "QLifePro",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4tVWhVUEFWbUJHRFA3dWk3Mk83c3c2c0VuN1dXV3lpcjlEUWJUbkRQVEZqTGtjaGtFYWhvV25kd3VIWTc2N2xpeFhqR1F6SnhTQ1NjUUY0Znc0X3lodXc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "684c3ef3e52e",
-      "title": "脳腫瘍の再発から治験へ、家族の支えに対し「ごめんね」から「ありがとう」に変えた生き方",
-      "published": "2026-03-05T23:24:52+00:00",
-      "summary": "脳腫瘍の再発から治験へ、家族の支えに対し「ごめんね」から「ありがとう」に変えた生き方&nbsp;&nbsp;がん情報サイト「オンコロ」",
-      "sources": [
-        {
-          "name": "がん情報サイト「オンコロ」",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sWThHekVNbk1CMEJ3dEpvZFZtWEdPMG5fQUVZanpaVzdwZnBRY0FyMExjVGc2YzU3MWxrYk1DLUpCbFVEWmNmZ0cxMXl0NXUzTThR?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "がん",
-          "related_drugs": [
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "ゼローダ錠３００　３００ｍｇ（選）"
-            },
-            {
-              "slug": "propranolol",
-              "name": "インデラル錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "imatinib",
-              "name": "グリベック錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腫瘍",
-          "keyword": "腫瘍",
-          "related_drugs": [
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "ゼローダ錠３００　３００ｍｇ（選）"
-            },
-            {
-              "slug": "propranolol",
-              "name": "インデラル錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "imatinib",
-              "name": "グリベック錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "83a6393ca142",
       "title": "厚労省、がん患者の5年生存率を公表　部位で異なる生存率　発症自体を防ぐ、予防可能な生活習慣とは？(ITmedia NEWS)",
-      "published": "2026-03-05T23:05:00+00:00",
+      "published": "2026-03-05T23:05:13+00:00",
       "summary": "厚生労働省は、2016年にがんと診断された患者の経過を追跡した「全国がん登録 5年生存率報告」を公表した。この調査は「がん登録等の推進に関する法律」に基づき、国内全ての病院と指定診療所から収集された",
       "sources": [
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/fca23c4cacfb082f5923f8145bb30fd225878682?source=rss"
-        },
-        {
-          "name": "ｄメニューニュース",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUWdDOEh5TFFiU0Vlb0RsYXU2MVJPRFBkRFdTSHo2NXBxS2tFdVl2YmcyNmg4SUN3bndsdFlzYkhGbTc4QjdMVEUzV2R5QkZxT0RLSnRjM2k5a0l1U3F6Q3pjMl9RLU9sZllZbkVKTlhjMk9hdi05bERqM3VMQUh3NndfZk8tT2lsRnpiQdIBkgFBVV95cUxPMFRoMk0wVUd1MHR2XzBZN0pBYjNCTnFwbndWZ3QyNGhCNWIwekpCZUxRc2YyVk5zYTVZT0x1Q0RvYnJvcDZrbHh0eWEwenFseEdtbU94U1J4Vy1UUFJ1aXV6aVRFVWJWMjd4Z09tWWFGUTBBT2U0cElJQ0w2Ykx0UDdEYWZfejVYaXFjNWV4MXdEQQ?oc=5"
         }
       ],
       "matched_keywords": [
@@ -1016,19 +852,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "4e8413b2b203",
-      "title": "知らなかった事実…繰り返すかゆみ「大人の蕁麻疹」8割がこのタイプだった――最新の治療法と対策について専門医を徹底取材",
-      "published": "2026-03-05T22:46:00+00:00",
-      "summary": "知らなかった事実…繰り返すかゆみ「大人の蕁麻疹」8割がこのタイプだった――最新の治療法と対策について専門医を徹底取材&nbsp;&nbsp;Yahoo!ファイナンスGoogle ニュースですべての記事を見る",
-      "sources": [
-        {
-          "name": "Yahoo!ファイナンス",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd2xic19wZWZmS1BXTUtXXzBBQ200aTV4OHVNaldhaGhtQUIzbTFUZDNwR2xzX1dPTjhFSDN3clRpbzZWSGVaQU0tRk1xUGx6NjFkcGY0Q1RKdmVjRGplNFltYjdRblYwZVdMUFBtYnlocTFuX3JCTTN6Wk00U3h2b1BVdi1kTzg?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "bb260fcc7de8",
@@ -1042,194 +865,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "2fa967ac719a",
-      "title": "腎機能はアルツハイマー病血液バイオマーカーに影響するが認知症リスクとは関連しない｜CareNet.com",
-      "published": "2026-03-05T19:00:00+00:00",
-      "summary": "腎機能はアルツハイマー病血液バイオマーカーに影響するが認知症リスクとは関連しない｜CareNet.com&nbsp;&nbsp;CareNet.com",
-      "sources": [
-        {
-          "name": "CareNet.com",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wbWhDQ2NzOFVFUGE1Wl9vdEpLWDJ0NU9EakV2MHBjN2N4SW5ITmdoSGpndGNvdkdISmh3XzZpa0RQbVJoalE2clhSazR6UHRFeE1kdTR6ZWdwUQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "2db4e1df337e",
-      "title": "冠動脈疾患の画像診断、放射線被曝量に世界的格差／JAMA｜CareNet.com",
-      "published": "2026-03-05T19:00:00+00:00",
-      "summary": "冠動脈疾患の画像診断、放射線被曝量に世界的格差／JAMA｜CareNet.com&nbsp;&nbsp;CareNet.com",
-      "sources": [
-        {
-          "name": "CareNet.com",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52elNqTk5sN1NGTzZxMkxCMmVvakhRbjR3QVZ5N1VlTWV3Z3VkaXRod2k1TVIwNDRxYVBkVmR3U2hoWmthSWUwNU9xS1ByLXpjak1sbnZxcjUtSm9FQUg0?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "冠動脈疾患",
-          "related_drugs": [
-            {
-              "slug": "nifedipine",
-              "name": "アダラートＣＲ錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "atorvastatin",
-              "name": "アトーゼット配合錠ＨＤ（選）"
-            },
-            {
-              "slug": "atenolol",
-              "name": "テノーミン錠５０　５０ｍｇ（選）"
-            },
-            {
-              "slug": "propranolol",
-              "name": "インデラル錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "spironolactone",
-              "name": "アルダクトンＡ錠５０ｍｇ（選）"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "ロプレソール錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "enalapril",
-              "name": "レニベース錠１０　１０ｍｇ（選）"
-            },
-            {
-              "slug": "lisinopril",
-              "name": "ロンゲス錠２０ｍｇ（選）"
-            },
-            {
-              "slug": "diltiazem",
-              "name": "ヘルベッサー錠６０　６０ｍｇ（選）"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "エックスフォージ配合ＯＤ錠（選）"
-            },
-            {
-              "slug": "furosemide",
-              "name": "ラシックス錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "clopidogrel",
-              "name": "プラビックス錠７５ｍｇ（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "verapamil",
-              "name": "ワソラン錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "hydrochlorothiazide",
-              "name": "プレミネント配合錠ＨＤ（選）"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "2ae3c5e74957",
-      "title": "慢性片頭痛に対する抗CGRP抗体とCGRP受容体拮抗薬併用療法の有用性は？｜CareNet.com",
-      "published": "2026-03-05T19:00:00+00:00",
-      "summary": "慢性片頭痛に対する抗CGRP抗体とCGRP受容体拮抗薬併用療法の有用性は？｜CareNet.com&nbsp;&nbsp;CareNet.com",
-      "sources": [
-        {
-          "name": "CareNet.com",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WX21oTkhJQzhyN3dvenhINEVDWEVSbnBDQ25CRnVsYXExbGxMeFBjb0lSbWY4dS1lWW5WaU5wYTNyTHNuNDcwUGNmYWVqcnB1NF9VU1B4cWE2VW9fd05j?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "9b2d32c85879",
-      "title": "大腸がん術後の運動プログラム、初のガイドライン推奨に／ESMO｜CareNet.com",
-      "published": "2026-03-05T19:00:00+00:00",
-      "summary": "大腸がん術後の運動プログラム、初のガイドライン推奨に／ESMO｜CareNet.com&nbsp;&nbsp;CareNet.com",
-      "sources": [
-        {
-          "name": "CareNet.com",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lUEI5Tmx4OGtfclFNcG9FZkh5V3ZsdVZOOWRRLUJoUXJpc1NoTmNZbTVsZDc5V01UY1EwNEpBT1AyLXhpSHNLb3Q4S3h0dTlQTzFKd25lMGZoT3NSSEdF?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "がん",
-          "related_drugs": [
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "ゼローダ錠３００　３００ｍｇ（選）"
-            },
-            {
-              "slug": "propranolol",
-              "name": "インデラル錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "imatinib",
-              "name": "グリベック錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "28150d64def6",
