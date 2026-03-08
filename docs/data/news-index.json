@@ -1,46 +1,50 @@
 {
-  "generated": "2026-03-08T12:28:18.551334+00:00",
-  "count": 13,
+  "generated": "2026-03-08T18:21:10.522041+00:00",
+  "count": 12,
   "news": [
     {
-      "id": "0321abea78c1",
-      "title": "1日1杯のオレンジジュースが長生きに影響する？最新研究の気になるポイントを解説(ELLE DIGITAL)",
-      "published": "2026-03-08T11:50:02+00:00",
+      "id": "23adc50d9d9e",
+      "title": "鎖骨の上のツボ「欠盆」を押すと、せきや喘息、喉の痛みが軽くなるかもしれません(家庭画報.com)",
+      "published": "2026-03-08T12:30:11+00:00",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/671b3ae91eada304aa6804b3afa68370453395dc?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/10bb5600b894745f9d1dd7e3bd380479c6a8d4e9?source=rss"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "common cold",
-          "keyword": "風邪",
+          "name": "asthma",
+          "keyword": "喘息",
           "related_drugs": [
             {
-              "slug": "cetirizine",
-              "name": "ザイザルシロップ０．０５％（選）"
+              "slug": "theophylline",
+              "name": "ユニコン錠１００　１００ｍｇ（選）"
             },
             {
-              "slug": "loratadine",
-              "name": "クラリチン錠１０ｍｇ（選）"
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
             },
             {
-              "slug": "chlorpheniramine",
-              "name": "セレスタミン配合錠（選）"
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
             },
             {
-              "slug": "dextromethorphan",
-              "name": "デキストロメトルファン臭化水素酸塩細粒１０％「ツルハラ」"
+              "slug": "budesonide",
+              "name": "シムビコートタービュヘイラー６０吸入（選）"
             },
             {
-              "slug": "acetaminophen",
-              "name": "トラムセット配合錠（選）"
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
             },
             {
-              "slug": "codeine",
-              "name": "ムコブロチン配合シロップ"
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
             }
           ]
         }
@@ -121,81 +125,6 @@
             {
               "slug": "oseltamivir",
               "name": "タミフルドライシロップ３％（選）"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "1c44cf03d18c",
-      "title": "進行乳がん、マンモ＋超音波で発症者減",
-      "published": "2026-03-07T20:00:00+00:00",
-      "sources": [
-        {
-          "name": "朝日新聞",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHN3FkcElVOTQwNURRSE41QUo1alBiZ000VDRPcmJfWkVHM0RzcFVSVTJhTFduMGN1V3JEcTN2bTcyakF3dDdBYThKdVdYaDZ4OHlaU2dvQ01vSXB6?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "がん",
-          "related_drugs": [
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "ゼローダ錠３００　３００ｍｇ（選）"
-            },
-            {
-              "slug": "propranolol",
-              "name": "インデラル錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "imatinib",
-              "name": "グリベック錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳がん",
-          "related_drugs": [
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
             }
           ]
         }
@@ -392,7 +321,7 @@
     {
       "id": "f04353a9c6ea",
       "title": "HPVワクチン定期接種対象 すべての年代で接種率上昇",
-      "published": "2026-03-06T13:10:00+00:00",
+      "published": "2026-03-06T19:40:00+00:00",
       "sources": [
         {
           "name": "時事ドットコム",
