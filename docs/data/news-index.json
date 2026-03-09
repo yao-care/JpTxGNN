@@ -1,7 +1,135 @@
 {
-  "generated": "2026-03-09T01:14:30.869993+00:00",
+  "generated": "2026-03-09T06:50:20.383665+00:00",
   "count": 15,
   "news": [
+    {
+      "id": "7a73a8cea8aa",
+      "title": "HPVワクチン定期接種 対象の全年代で経験率上昇 日本対がん協会調べ",
+      "published": "2026-03-09T06:00:00+00:00",
+      "sources": [
+        {
+          "name": "医療介護CBnews",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5reEFaZkNMNlZFay1FZV83MHQ3MGpSMVgteUpzU0dQcnRudFp4WWdxMzFwbmVOclFacTFYVkNZSVZ3THB5VE9FOE5TU1BWQjhhTXpTSWJ3anRISTg?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fbe8e4f04c1e",
+      "title": "がん細胞を自滅させる薬で「大きな前進」、鍵となるFSP1を阻害　期待の酵素阻害療法(ナショナル ジオグラフィック日本版)",
+      "published": "2026-03-09T02:02:55+00:00",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/6a3b57794b5db308ff54a49f18f9eb4ccde99578?source=rss"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "176858bb894e",
       "title": "リンパ節内シャント構造を発見、がん転移やリンパ浮腫治療に新たな可能性－東北大ほか",
@@ -462,70 +590,6 @@
       ]
     },
     {
-      "id": "c37f816ea2ef",
-      "title": "若年成人のがん、唯一死亡率が増えているのは？｜医師向け医療ニュースはケアネット",
-      "published": "2026-03-08T19:00:00+00:00",
-      "sources": [
-        {
-          "name": "CareNet.com",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82M3A4dkRnMzVqTUJaUV8xT2ZkRDhuaE9SU3owb0gzQ1g2NDV1Q0J5amxoalA1UDZTS3AtNDNGOUFJUFQ3RlN5VEUyMVFLcEFmY2ZnT2daaDlmcXhxRDJN?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "がん",
-          "related_drugs": [
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "ゼローダ錠３００　３００ｍｇ（選）"
-            },
-            {
-              "slug": "propranolol",
-              "name": "インデラル錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "imatinib",
-              "name": "グリベック錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "56987c36c8ee",
       "title": "【闘病】「あなた、死にますよ！」 二度の宣告と骨壊死。『難病』に人生をむしばまれた絶望の15年(メディカルドック)",
       "published": "2026-03-08T02:03:01+00:00",
@@ -589,30 +653,6 @@
         {
           "name": "TRILL",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5LWmR3STNsZVlKMUhuV0tTakRWYi1PQWw4dXh5RFFZOXJ5SzhVcXhEYnhva2RMRkQ3SXdycmFGWkthN21Qb29XcXZSS0c4NnM?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "influenza",
-          "keyword": "インフルエンザ",
-          "related_drugs": [
-            {
-              "slug": "oseltamivir",
-              "name": "タミフルドライシロップ３％（選）"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "99eae434c515",
-      "title": "「タミフルは危険」ではなかった！けいれんや混乱状態、幻覚はインフルエンザの症状そのもの→大規模調査で判明",
-      "published": "2026-03-07T02:00:00+00:00",
-      "sources": [
-        {
-          "name": "ｄメニューニュース",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0wVVhXZjhqZGxFZC1BTzVtZkl1VzY5VFAxZ3pCeWtObUhxMlFqSFpXeklrZEUxNmNJMExOVk1FaE5oc0ZQVGVzNnFhTGJhSVVSQnNqTXNOd0w2UE9DQk0yMndIeFlYOW4tcm1IUmw3QUY5V2RxRHZF0gF8QVVfeXFMUE1FRXZWZmczVmxocU5KUW43dl9NTnlvMkZEN2N1Skx6UThIVUk1SVZLTHRIVnFveTRnUjdhU3IzeU1Xb1U0MGJqeGdIeEJJNHVZRFRwVzhnNTB0QzlwYlVsd2czaDEtMHBWSzRBN2ZaRzYycHp5c0lFa1hJMg?oc=5"
         }
       ],
       "keywords": [
