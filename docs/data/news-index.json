@@ -1,15 +1,90 @@
 {
-  "generated": "2026-03-10T01:08:51.795567+00:00",
-  "count": 20,
+  "generated": "2026-03-10T06:37:07.845198+00:00",
+  "count": 21,
   "news": [
     {
-      "id": "0ffe3c96d7b4",
-      "title": "Ⅰ期肺がんの手術後しばらくして呼吸苦しい「乳び胸」に 70代女性の治療法は　　がん電話相談から(産経新聞)",
-      "published": "2026-03-10T00:06:38+00:00",
+      "id": "9e995f3a7844",
+      "title": "難治性の乳がん増殖を抑制する化合物を植物成分から作製 岐阜大など(Science Portal)",
+      "published": "2026-03-10T06:32:59+00:00",
       "sources": [
         {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/e3a7a1bdda7314508386ec5ffd1dd31a33ec6ccd?source=rss"
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/fbbed2090ba42e81da99fb14a8a8e6a74609be36?source=rss"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "90d83cda9de0",
+      "title": "9人に1人が罹患する前立腺がんを専門医が解説―「放っておいていいがん」の認識は誤り(メディカルドック)",
+      "published": "2026-03-10T03:06:53+00:00",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/436aa4b6a59b35ad47afd4c4aaea93fd6f96708d?source=rss"
         }
       ],
       "keywords": [
@@ -67,8 +142,72 @@
       ]
     },
     {
-      "id": "f7d818f85001",
-      "title": "胃がんリスク因子の年齢別解析、ピロリ感染と喫煙が高齢で増加｜CareNet.com",
+      "id": "e0404cbc0cdd",
+      "title": "Ⅰ期肺がんの手術後しばらくして呼吸苦しい「乳び胸」に 70代女性の治療法は がん電話相談から",
+      "published": "2026-03-10T00:00:00+00:00",
+      "sources": [
+        {
+          "name": "産経ニュース",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKWVVmSjhhRnNfQ3oxbXpsRFZUMFkwb3lKLTVtVGhPRmlWZFJpM0hfWEpwYXlDbW8wdURNUE1tMDhFb0x1ZFROYXItazljMTh6SkFXRUtDbEoxc1JKOGRkamM1aTVEbG1rSTNtWEhXbFNqMGVyNmc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4138e85dca92",
+      "title": "胃がんリスク因子の年齢別解析、ピロリ感染と喫煙が高齢で増加｜医師向け医療ニュースはケアネット",
       "published": "2026-03-09T19:00:00+00:00",
       "sources": [
         {
@@ -590,13 +729,13 @@
       ]
     },
     {
-      "id": "a327fc1fc840",
-      "title": "《正しいコーヒー習慣》コーヒーは1日何杯まで？認知症・糖尿病・肝がんリスク低減のデータも、専門家が教える“健康に効く飲み方”",
-      "published": "2026-03-08T20:00:00+00:00",
+      "id": "e14c3e9ff790",
+      "title": "コーヒー、茶で認知症リスク抑制 デカフェでは関連認められず",
+      "published": "2026-03-08T20:00:35+00:00",
       "sources": [
         {
-          "name": "週刊女性PRIME",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WRkhjUGFEUFFaN18yYUdjT1VpNDkxdVQyQmtyMVpzYkVTc1NBWmlGVklIVHVZZlhZb24xajVKWGtjaEFwbHg4QkpLMmtRRzQ?oc=5"
+          "name": "読売新聞オンライン",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95VjVOSlVEbU1UcTZraTlZMEY2OEFHaE5tOHdkd1lMclRHTHJoakJVcS1RUlBXS0pIQ1h6a0JUS0d1d0FmNG5nOGtVLUlxeWhtRThCRXpkZUVQV1VRbE9Jc2VwbWJRN2hNbWtjdzJR?oc=5"
         }
       ],
       "keywords": [
@@ -951,30 +1090,6 @@
             {
               "slug": "paroxetine",
               "name": "パロキセチン錠２０ｍｇ「ＳＰＫＫ」"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "751d926c8c7f",
-      "title": "インフルエンザＡ型とＢ型では対策が違うの？クリニック理事長林裕章先生にお伺いしました",
-      "published": "2026-03-08T01:32:25+00:00",
-      "sources": [
-        {
-          "name": "TRILL",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5LWmR3STNsZVlKMUhuV0tTakRWYi1PQWw4dXh5RFFZOXJ5SzhVcXhEYnhva2RMRkQ3SXdycmFGWkthN21Qb29XcXZSS0c4NnM?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "influenza",
-          "keyword": "インフルエンザ",
-          "related_drugs": [
-            {
-              "slug": "oseltamivir",
-              "name": "タミフルドライシロップ３％（選）"
             }
           ]
         }
