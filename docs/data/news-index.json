@@ -1,7 +1,71 @@
 {
-  "generated": "2026-03-10T06:37:07.845198+00:00",
-  "count": 21,
+  "generated": "2026-03-10T12:37:51.061224+00:00",
+  "count": 22,
   "news": [
+    {
+      "id": "7750f64a703a",
+      "title": "吉森保×東えりか　がん患者の5人に1人「希少」じゃない希少がん(日経BOOKプラス)",
+      "published": "2026-03-10T12:00:00+00:00",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/22ee0bb66ddaf4c8a4173ae5db038484eb48b9ee?source=rss"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "9e995f3a7844",
       "title": "難治性の乳がん増殖を抑制する化合物を植物成分から作製 岐阜大など(Science Portal)",
@@ -206,8 +270,8 @@
       ]
     },
     {
-      "id": "4138e85dca92",
-      "title": "胃がんリスク因子の年齢別解析、ピロリ感染と喫煙が高齢で増加｜医師向け医療ニュースはケアネット",
+      "id": "f7d818f85001",
+      "title": "胃がんリスク因子の年齢別解析、ピロリ感染と喫煙が高齢で増加｜CareNet.com",
       "published": "2026-03-09T19:00:00+00:00",
       "sources": [
         {
@@ -537,6 +601,70 @@
       ]
     },
     {
+      "id": "176858bb894e",
+      "title": "リンパ節内シャント構造を発見、がん転移やリンパ浮腫治療に新たな可能性－東北大ほか",
+      "published": "2026-03-09T00:30:00+00:00",
+      "sources": [
+        {
+          "name": "QLifePro",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5NNHlRdnNFUUtCcS14d1hYc0xLUFlNdlZOSHRYcTNXaG84cGNXa3VhOWdtQkowR0pNd2tfTDhuUEpDN2dNT3duRmJYcGI0dVNnNV9vYXpETnVucDBabk9vZTlLcTktRU1MMUFkazVncw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "97ef82e78f74",
       "title": "卵巣がん腹膜播種の新規機序、「ACMS」形成で高い浸潤能を獲得－名大ほか",
       "published": "2026-03-09T00:20:00+00:00",
@@ -729,13 +857,13 @@
       ]
     },
     {
-      "id": "e14c3e9ff790",
-      "title": "コーヒー、茶で認知症リスク抑制 デカフェでは関連認められず",
-      "published": "2026-03-08T20:00:35+00:00",
+      "id": "a327fc1fc840",
+      "title": "《正しいコーヒー習慣》コーヒーは1日何杯まで？認知症・糖尿病・肝がんリスク低減のデータも、専門家が教える“健康に効く飲み方”",
+      "published": "2026-03-08T20:00:00+00:00",
       "sources": [
         {
-          "name": "読売新聞オンライン",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95VjVOSlVEbU1UcTZraTlZMEY2OEFHaE5tOHdkd1lMclRHTHJoakJVcS1RUlBXS0pIQ1h6a0JUS0d1d0FmNG5nOGtVLUlxeWhtRThCRXpkZUVQV1VRbE9Jc2VwbWJRN2hNbWtjdzJR?oc=5"
+          "name": "週刊女性PRIME",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5WRkhjUGFEUFFaN18yYUdjT1VpNDkxdVQyQmtyMVpzYkVTc1NBWmlGVklIVHVZZlhZb24xajVKWGtjaEFwbHg4QkpLMmtRRzQ?oc=5"
         }
       ],
       "keywords": [
@@ -1040,6 +1168,70 @@
       ]
     },
     {
+      "id": "f9d6308b494c",
+      "title": "若年成人のがん、唯一死亡率が増えているのは？｜CareNet.com",
+      "published": "2026-03-08T19:00:00+00:00",
+      "sources": [
+        {
+          "name": "CareNet.com",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82M3A4dkRnMzVqTUJaUV8xT2ZkRDhuaE9SU3owb0gzQ1g2NDV1Q0J5amxoalA1UDZTS3AtNDNGOUFJUFQ3RlN5VEUyMVFLcEFmY2ZnT2daaDlmcXhxRDJN?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "56987c36c8ee",
       "title": "【闘病】「あなた、死にますよ！」 二度の宣告と骨壊死。『難病』に人生をむしばまれた絶望の15年(メディカルドック)",
       "published": "2026-03-08T02:03:01+00:00",
@@ -1263,114 +1455,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/fca23c4cacfb082f5923f8145bb30fd225878682?source=rss"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "がん",
-          "related_drugs": [
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "ゼローダ錠３００　３００ｍｇ（選）"
-            },
-            {
-              "slug": "propranolol",
-              "name": "インデラル錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "imatinib",
-              "name": "グリベック錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f10c847cf48f",
-      "title": "「美容院脳卒中症候群」の症状やなりやすい人の特徴はご存知ですか？【医師解説】(メディカルドック)",
-      "published": "2026-03-05T11:04:53+00:00",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/8f8707880bff863b3bd1fbdaefdb953150fe69fe?source=rss"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "脳卒中",
-          "related_drugs": [
-            {
-              "slug": "atorvastatin",
-              "name": "アトーゼット配合錠ＨＤ（選）"
-            },
-            {
-              "slug": "pravastatin",
-              "name": "メバロチン錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "simvastatin",
-              "name": "リポバス錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "エックスフォージ配合ＯＤ錠（選）"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "ミカムロ配合錠ＢＰ（選）"
-            },
-            {
-              "slug": "rosuvastatin",
-              "name": "クレストールＯＤ錠５ｍｇ（選）"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "03175ee2b3cb",
-      "title": "【訃報】俳優・勝呂誉さん 「肺がん」の症状や“痛みが現れる場所”を医師が解説(メディカルドック)",
-      "published": "2026-03-05T10:26:14+00:00",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/f6900eab2e652a70d4128ed06099e579a0827a65?source=rss"
         }
       ],
       "keywords": [
