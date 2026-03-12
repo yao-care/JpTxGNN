@@ -20,7 +20,6 @@ jobs:
       - name: Get changed files
         id: changed
         run: |
-          # 変更された markdown ファイルを取得
           CHANGED_FILES=$(git diff --name-only HEAD~1 HEAD -- 'docs/**/*.md' 'docs/drugs/**' | head -100)
 
           if [ -z "$CHANGED_FILES" ]; then
@@ -33,13 +32,10 @@ jobs:
           echo "$CHANGED_FILES"
           echo "has_changes=true" >> $GITHUB_OUTPUT
 
-          # URL リストに変換
           URLS=""
           for file in $CHANGED_FILES; do
-            # docs/ プレフィックスと .md サフィックスを削除
             url_path=$(echo "$file" | sed 's|^docs/||' | sed 's|\.md$|/|' | sed 's|^drugs/|drugs/|')
 
-            # index.md の特別処理
             if [ "$url_path" = "index/" ]; then
               url_path=""
             fi
@@ -48,18 +44,17 @@ jobs:
             URLS="${URLS}\"${full_url}\","
           done
 
-          # 最後のカンマを削除
           URLS=$(echo "$URLS" | sed 's/,$//')
           echo "urls=[$URLS]" >> $GITHUB_OUTPUT
 
       - name: Submit to IndexNow
         if: steps.changed.outputs.has_changes == 'true'
         run: |
-          # JSON payload の準備
           PAYLOAD=$(cat <<EOF
           {
             "host": "jptxgnn.yao.care",
-            "key": "jptxgnn2024indexnow",
+            "key": "8d7eeaf572474f0d9417b6522543383c",
+            "keyLocation": "https://jptxgnn.yao.care/8d7eeaf572474f0d9417b6522543383c.txt",
             "urlList": ${{ steps.changed.outputs.urls }}
           }
           EOF
@@ -68,7 +63,6 @@ jobs:
           echo "Submitting to IndexNow:"
           echo "$PAYLOAD" | jq .
 
-          # Bing IndexNow に送信
           curl -X POST "https://api.indexnow.org/indexnow" \
             -H "Content-Type: application/json" \
             -d "$PAYLOAD" \

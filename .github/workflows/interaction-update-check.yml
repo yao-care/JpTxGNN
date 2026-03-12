@@ -1,0 +1,264 @@
+name: 藥物交互作用資料更新檢查
+
+on:
+  schedule:
+    - cron: '30 2 * * *'  # 每日 UTC 02:30（台灣 10:30）
+  workflow_dispatch:  # 手動觸發
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  check-interaction-updates:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: 讀取版本記錄
+        id: local
+        run: |
+          PHARMACOLOGY_DATE=$(jq -r '.guide_to_pharmacology.last_modified' .github/ddi-versions.json)
+          DFI_COUNT=$(jq -r '.ddinter_dfi.record_count' .github/ddi-versions.json)
+          DDI_COUNT=$(jq -r '.ddinter.ddi_with_mechanism' .github/ddi-versions.json)
+          DDSI_COUNT=$(jq -r '.ddinter_ddsi.record_count' .github/ddi-versions.json)
+          echo "pharmacology_date=$PHARMACOLOGY_DATE" >> $GITHUB_OUTPUT
+          echo "dfi_count=$DFI_COUNT" >> $GITHUB_OUTPUT
+          echo "ddi_count=$DDI_COUNT" >> $GITHUB_OUTPUT
+          echo "ddsi_count=$DDSI_COUNT" >> $GITHUB_OUTPUT
+
+      - name: 檢查 Guide to PHARMACOLOGY 更新
+        id: pharmacology
+        run: |
+          REMOTE_DATE=$(curl -sI "https://www.guidetopharmacology.org/DATA/approved_drug_detailed_interactions.csv" | grep -i "last-modified" | cut -d' ' -f2- | tr -d '\r')
+          echo "remote_date=$REMOTE_DATE" >> $GITHUB_OUTPUT
+
+          LOCAL_DATE="${{ steps.local.outputs.pharmacology_date }}"
+          if [ "$REMOTE_DATE" != "$LOCAL_DATE" ] && [ -n "$REMOTE_DATE" ]; then
+            echo "needs_update=true" >> $GITHUB_OUTPUT
+          else
+            echo "needs_update=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: 檢查 DDInter 2.0 DFI 更新
+        id: dfi
+        run: |
+          # 透過 API 取得目前 DFI 記錄數
+          RESPONSE=$(curl -sS -X POST "https://ddinter2.scbdd.com/server/food-interaction-source/" \
+            -d "draw=1&start=0&length=1" --max-time 30 || echo '{"recordsTotal":0}')
+
+          REMOTE_COUNT=$(echo "$RESPONSE" | jq -r '.recordsTotal // 0')
+          LOCAL_COUNT="${{ steps.local.outputs.dfi_count }}"
+
+          echo "remote_count=$REMOTE_COUNT" >> $GITHUB_OUTPUT
+          echo "local_count=$LOCAL_COUNT" >> $GITHUB_OUTPUT
+
+          if [ "$REMOTE_COUNT" != "$LOCAL_COUNT" ] && [ "$REMOTE_COUNT" != "0" ]; then
+            echo "needs_update=true" >> $GITHUB_OUTPUT
+            echo "diff=$((REMOTE_COUNT - LOCAL_COUNT))" >> $GITHUB_OUTPUT
+          else
+            echo "needs_update=false" >> $GITHUB_OUTPUT
+            echo "diff=0" >> $GITHUB_OUTPUT
+          fi
+
+      - name: 檢查 DDInter 2.0 DDI 更新
+        id: ddi
+        run: |
+          RESPONSE=$(curl -sS -X POST "https://ddinter2.scbdd.com/server/interaction-source/" \
+            -d "draw=1&start=0&length=1" --max-time 30 || echo '{"recordsTotal":0}')
+
+          REMOTE_COUNT=$(echo "$RESPONSE" | jq -r '.recordsTotal // 0')
+          LOCAL_COUNT="${{ steps.local.outputs.ddi_count }}"
+
+          echo "remote_count=$REMOTE_COUNT" >> $GITHUB_OUTPUT
+          echo "local_count=$LOCAL_COUNT" >> $GITHUB_OUTPUT
+
+          if [ "$REMOTE_COUNT" != "$LOCAL_COUNT" ] && [ "$REMOTE_COUNT" != "0" ]; then
+            echo "needs_update=true" >> $GITHUB_OUTPUT
+            echo "diff=$((REMOTE_COUNT - LOCAL_COUNT))" >> $GITHUB_OUTPUT
+          else
+            echo "needs_update=false" >> $GITHUB_OUTPUT
+            echo "diff=0" >> $GITHUB_OUTPUT
+          fi
+
+      - name: 檢查 DDInter 2.0 DDSI 更新
+        id: ddsi
+        run: |
+          RESPONSE=$(curl -sS -X POST "https://ddinter2.scbdd.com/server/disease-interaction-source/" \
+            -d "draw=1&start=0&length=1" --max-time 30 || echo '{"recordsTotal":0}')
+
+          REMOTE_COUNT=$(echo "$RESPONSE" | jq -r '.recordsTotal // 0')
+          LOCAL_COUNT="${{ steps.local.outputs.ddsi_count }}"
+
+          echo "remote_count=$REMOTE_COUNT" >> $GITHUB_OUTPUT
+          echo "local_count=$LOCAL_COUNT" >> $GITHUB_OUTPUT
+
+          if [ "$REMOTE_COUNT" != "$LOCAL_COUNT" ] && [ "$REMOTE_COUNT" != "0" ]; then
+            echo "needs_update=true" >> $GITHUB_OUTPUT
+            echo "diff=$((REMOTE_COUNT - LOCAL_COUNT))" >> $GITHUB_OUTPUT
+          else
+            echo "needs_update=false" >> $GITHUB_OUTPUT
+            echo "diff=0" >> $GITHUB_OUTPUT
+          fi
+
+      - name: 產生檢查報告
+        run: |
+          echo "## 藥物交互作用資料更新檢查報告" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### DHI (藥物-草藥) - 手動精選" >> $GITHUB_STEP_SUMMARY
+          echo "| 項目 | 值 |" >> $GITHUB_STEP_SUMMARY
+          echo "|------|-----|" >> $GITHUB_STEP_SUMMARY
+          echo "| 記錄數 | $(jq -r '.dhi_curated.record_count' .github/ddi-versions.json) |" >> $GITHUB_STEP_SUMMARY
+          echo "| 草藥數 | $(jq -r '.dhi_curated.herb_count' .github/ddi-versions.json) |" >> $GITHUB_STEP_SUMMARY
+          echo "| 資料來源 | 手動精選（無公開 API） |" >> $GITHUB_STEP_SUMMARY
+          echo "| 待追蹤 | DDInter 2.0 未來將支援 DHI |" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### Guide to PHARMACOLOGY" >> $GITHUB_STEP_SUMMARY
+          echo "| 項目 | 值 |" >> $GITHUB_STEP_SUMMARY
+          echo "|------|-----|" >> $GITHUB_STEP_SUMMARY
+          echo "| 遠端最後更新 | ${{ steps.pharmacology.outputs.remote_date }} |" >> $GITHUB_STEP_SUMMARY
+          echo "| 本地記錄日期 | ${{ steps.local.outputs.pharmacology_date }} |" >> $GITHUB_STEP_SUMMARY
+          echo "| 需要更新 | ${{ steps.pharmacology.outputs.needs_update }} |" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+
+          echo "### DDInter 2.0 - DFI (藥物-食物)" >> $GITHUB_STEP_SUMMARY
+          echo "| 項目 | 值 |" >> $GITHUB_STEP_SUMMARY
+          echo "|------|-----|" >> $GITHUB_STEP_SUMMARY
+          echo "| 遠端記錄數 | ${{ steps.dfi.outputs.remote_count }} |" >> $GITHUB_STEP_SUMMARY
+          echo "| 本地記錄數 | ${{ steps.dfi.outputs.local_count }} |" >> $GITHUB_STEP_SUMMARY
+          echo "| 差異 | ${{ steps.dfi.outputs.diff }} |" >> $GITHUB_STEP_SUMMARY
+          echo "| 需要更新 | ${{ steps.dfi.outputs.needs_update }} |" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+
+          echo "### DDInter 2.0 - DDI (藥物-藥物，含機制描述)" >> $GITHUB_STEP_SUMMARY
+          echo "| 項目 | 值 |" >> $GITHUB_STEP_SUMMARY
+          echo "|------|-----|" >> $GITHUB_STEP_SUMMARY
+          echo "| 遠端記錄數 | ${{ steps.ddi.outputs.remote_count }} |" >> $GITHUB_STEP_SUMMARY
+          echo "| 本地記錄數 | ${{ steps.ddi.outputs.local_count }} |" >> $GITHUB_STEP_SUMMARY
+          echo "| 差異 | ${{ steps.ddi.outputs.diff }} |" >> $GITHUB_STEP_SUMMARY
+          echo "| 需要更新 | ${{ steps.ddi.outputs.needs_update }} |" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+
+          echo "### DDInter 2.0 - DDSI (藥物-疾病)" >> $GITHUB_STEP_SUMMARY
+          echo "| 項目 | 值 |" >> $GITHUB_STEP_SUMMARY
+          echo "|------|-----|" >> $GITHUB_STEP_SUMMARY
+          echo "| 遠端記錄數 | ${{ steps.ddsi.outputs.remote_count }} |" >> $GITHUB_STEP_SUMMARY
+          echo "| 本地記錄數 | ${{ steps.ddsi.outputs.local_count }} |" >> $GITHUB_STEP_SUMMARY
+          echo "| 差異 | ${{ steps.ddsi.outputs.diff }} |" >> $GITHUB_STEP_SUMMARY
+          echo "| 需要更新 | ${{ steps.ddsi.outputs.needs_update }} |" >> $GITHUB_STEP_SUMMARY
+          echo "| 狀態 | 已整合 (115 藥物) |" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+
+          echo "---" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "### 更新指令" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**DFI 更新：**" >> $GITHUB_STEP_SUMMARY
+          echo "\`\`\`bash" >> $GITHUB_STEP_SUMMARY
+          echo "uv run python scripts/process_ddinter_dfi.py" >> $GITHUB_STEP_SUMMARY
+          echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**DDSI 更新：**" >> $GITHUB_STEP_SUMMARY
+          echo "\`\`\`bash" >> $GITHUB_STEP_SUMMARY
+          echo "uv run python scripts/process_ddinter_ddsi.py" >> $GITHUB_STEP_SUMMARY
+          echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "**DHI 更新：**" >> $GITHUB_STEP_SUMMARY
+          echo "\`\`\`bash" >> $GITHUB_STEP_SUMMARY
+          echo "uv run python scripts/integrate_dfi_dhi.py" >> $GITHUB_STEP_SUMMARY
+          echo "\`\`\`" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "---" >> $GITHUB_STEP_SUMMARY
+          echo "*檢查時間：$(date -u '+%Y-%m-%d %H:%M UTC')*" >> $GITHUB_STEP_SUMMARY
+
+      - name: 建立 Issue（如有更新）
+        if: steps.pharmacology.outputs.needs_update == 'true' || steps.dfi.outputs.needs_update == 'true' || steps.ddi.outputs.needs_update == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const updates = [];
+
+            if ('${{ steps.pharmacology.outputs.needs_update }}' === 'true') {
+              updates.push('Guide to PHARMACOLOGY');
+            }
+            if ('${{ steps.dfi.outputs.needs_update }}' === 'true') {
+              updates.push(`DFI (${${{ steps.dfi.outputs.diff }}} 筆新增)`);
+            }
+            if ('${{ steps.ddi.outputs.needs_update }}' === 'true') {
+              updates.push(`DDI (${${{ steps.ddi.outputs.diff }}} 筆新增)`);
+            }
+
+            const title = `[資料更新] ${updates.join(', ')} 有新版本`;
+            const body = `## 藥物交互作用資料更新通知
+
+            偵測到以下資料來源有更新：
+
+            ### 更新摘要
+
+            | 資料來源 | 本地 | 遠端 | 差異 |
+            |----------|------|------|------|
+            | Guide to PHARMACOLOGY | ${{ steps.local.outputs.pharmacology_date }} | ${{ steps.pharmacology.outputs.remote_date }} | - |
+            | DDInter DFI | ${{ steps.dfi.outputs.local_count }} | ${{ steps.dfi.outputs.remote_count }} | ${{ steps.dfi.outputs.diff }} |
+            | DDInter DDI | ${{ steps.ddi.outputs.local_count }} | ${{ steps.ddi.outputs.remote_count }} | ${{ steps.ddi.outputs.diff }} |
+
+            ### 更新步驟
+
+            1. **DFI 更新**
+            \`\`\`bash
+            uv run python scripts/process_ddinter_dfi.py
+            \`\`\`
+
+            2. **更新版本記錄**
+            編輯 \`.github/ddi-versions.json\`，更新 \`last_checked\` 和 \`record_count\`
+
+            3. **提交變更**
+            \`\`\`bash
+            git add . && git commit -m "更新藥物交互作用資料"
+            \`\`\`
+
+            ### 資料來源文件
+
+            詳見 [DATA_SOURCES.md](docs/DATA_SOURCES.md)
+
+            ---
+            *此 Issue 由 GitHub Actions 自動建立*
+            `;
+
+            // 檢查是否已有相同標題的 open issue
+            const issues = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: 'data-update'
+            });
+
+            const existingIssue = issues.data.find(issue =>
+              issue.title.startsWith('[資料更新]')
+            );
+
+            if (!existingIssue) {
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title: title,
+                body: body,
+                labels: ['data-update', 'maintenance']
+              });
+              console.log('Created new issue');
+            } else {
+              // 更新現有 issue
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: existingIssue.number,
+                body: `## 更新檢查 - ${new Date().toISOString().split('T')[0]}
+
+                | 資料來源 | 本地 | 遠端 | 差異 |
+                |----------|------|------|------|
+                | DDInter DFI | ${{ steps.dfi.outputs.local_count }} | ${{ steps.dfi.outputs.remote_count }} | ${{ steps.dfi.outputs.diff }} |
+                | DDInter DDI | ${{ steps.ddi.outputs.local_count }} | ${{ steps.ddi.outputs.remote_count }} | ${{ steps.ddi.outputs.diff }} |
+                `
+              });
+              console.log('Updated existing issue');
+            }

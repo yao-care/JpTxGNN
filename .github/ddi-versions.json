@@ -1,0 +1,40 @@
+{
+  "guide_to_pharmacology": {
+    "last_checked": "2026-02-21",
+    "last_modified": "Mon, 15 Dec 2025 14:25:09 GMT",
+    "record_count": 4636,
+    "version": "2025.4",
+    "url": "https://www.guidetopharmacology.org/DATA/approved_drug_detailed_interactions.csv"
+  },
+  "ddinter": {
+    "last_checked": "2026-02-21",
+    "version": "2.0",
+    "ddi_total_pairs": 302516,
+    "ddi_with_mechanism": 8466,
+    "url": "https://ddinter2.scbdd.com/download/",
+    "api_endpoint": "https://ddinter2.scbdd.com/server/interaction-source/",
+    "note": "API 回傳有機制描述的 DDI，下載頁面有完整配對"
+  },
+  "ddinter_dfi": {
+    "last_checked": "2026-02-21",
+    "version": "2.0",
+    "record_count": 857,
+    "food_count": 29,
+    "matched_drugs": 56,
+    "api_endpoint": "https://ddinter2.scbdd.com/server/food-interaction-source/"
+  },
+  "ddinter_ddsi": {
+    "last_checked": "2026-02-21",
+    "version": "2.0",
+    "record_count": 8359,
+    "matched_drugs": 115,
+    "api_endpoint": "https://ddinter2.scbdd.com/server/disease-interaction-source/",
+    "status": "integrated"
+  },
+  "dhi_curated": {
+    "last_checked": "2026-02-21",
+    "record_count": 35,
+    "herb_count": 10,
+    "source": "manual_curation"
+  }
+}

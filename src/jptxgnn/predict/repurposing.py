@@ -145,8 +145,17 @@ def find_repurposing_candidates(
 
     # 去重
     if len(result_df) > 0:
+        # First: remove exact duplicates per license
         result_df = result_df.drop_duplicates(
             subset=[license_field, "藥物成分", "潛在新適應症"]
+        )
+
+        # Second: for DL prediction efficiency, keep only unique (drugbank_id, disease) pairs
+        # This prevents redundant DL predictions for the same drug-disease combination
+        # We keep the first occurrence (arbitrary license_id as representative)
+        result_df = result_df.drop_duplicates(
+            subset=["drugbank_id", "潛在新適應症"],
+            keep="first"
         )
 
     return result_df

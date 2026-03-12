@@ -63,38 +63,95 @@ def build_name_index(drugbank_df: pd.DataFrame) -> Dict[str, str]:
                     index[base_name] = drugbank_id
 
     # 添加常見同義詞對照
+    # 格式：{FDA 成分名稱: DrugBank 名稱}
     synonym_map = {
-        # 維生素
+        # ===== 維生素（通用名 -> DrugBank 化學名）=====
         "NIACINAMIDE": "NICOTINAMIDE",
         "NICOTINIC ACID": "NIACIN",
-        "PYRIDOXINE": "VITAMIN B6",
-        "THIAMINE": "VITAMIN B1",
-        "RIBOFLAVIN": "VITAMIN B2",
-        "CYANOCOBALAMIN": "VITAMIN B12",
-        "ASCORBIC ACID": "VITAMIN C",
-        "TOCOPHEROL": "VITAMIN E",
-        "RETINOL": "VITAMIN A",
-        "CHOLECALCIFEROL": "VITAMIN D3",
-        "ERGOCALCIFEROL": "VITAMIN D2",
-        "PHYTONADIONE": "VITAMIN K1",
-        # 常見藥物別名
-        "ACETYLSALICYLIC ACID": "ASPIRIN",
+        "VITAMIN B1": "THIAMINE",
+        "THIAMINE HCL": "THIAMINE",
+        "THIAMINE MONONITRATE": "THIAMINE",
+        "VITAMIN B2": "RIBOFLAVIN",
+        "VITAMIN B6": "PYRIDOXINE",
+        "PYRIDOXINE HCL": "PYRIDOXINE",
+        "VITAMIN B12": "CYANOCOBALAMIN",
+        "VITAMIN C": "ASCORBIC ACID",
+        "VITAMIN E": "TOCOPHEROL",
+        "TOCOPHEROL ACETATE": "ALPHA-TOCOPHEROL ACETATE",
+        "ALPHA-TOCOPHEROL": "TOCOPHEROL",
+        "VITAMIN A": "RETINOL",
+        "RETINOL PALMITATE": "RETINOL",
+        "VITAMIN D3": "CHOLECALCIFEROL",
+        "VITAMIN D2": "ERGOCALCIFEROL",
+        "VITAMIN K1": "PHYTONADIONE",
+        "PANTOTHENATE CALCIUM": "PANTOTHENIC ACID",
+        "CALCIUM PANTOTHENATE": "PANTOTHENIC ACID",
+        "PANTHENOL": "DEXPANTHENOL",
+        "D-PANTHENOL": "DEXPANTHENOL",
+        # ===== 常見藥物別名 =====
+        "ASPIRIN": "ACETYLSALICYLIC ACID",
         "PARACETAMOL": "ACETAMINOPHEN",
         "ADRENALINE": "EPINEPHRINE",
+        "L-ADRENALINE": "EPINEPHRINE",
         "NORADRENALINE": "NOREPINEPHRINE",
         "LIGNOCAINE": "LIDOCAINE",
         "FRUSEMIDE": "FUROSEMIDE",
         "SALBUTAMOL": "ALBUTEROL",
-        # L- 前綴處理
+        "SIMETHICONE": "DIMETHICONE",
+        "ALUMINUM HYDROXIDE DRIED GEL": "ALUMINUM HYDROXIDE",
+        "ALUMINIUM HYDROXIDE": "ALUMINUM HYDROXIDE",
+        # ===== 葡萄糖/右旋糖 =====
+        "DEXTROSE": "D-GLUCOSE",
+        "DEXTROSE MONOHYDRATE": "D-GLUCOSE",
+        "GLUCOSE": "D-GLUCOSE",
+        "GLUCOSE MONOHYDRATE": "D-GLUCOSE",
+        # ===== L-/D-/DL- 前綴處理 =====
         "L-MENTHOL": "LEVOMENTHOL",
         "MENTHOL": "LEVOMENTHOL",
         "DL-MENTHOL": "RACEMENTHOL",
-        "L-ADRENALINE": "EPINEPHRINE",
-        # 水合物/無水
+        "DL-METHIONINE": "METHIONINE",
+        "L-METHIONINE": "METHIONINE",
+        "L-LYSINE HCL": "LYSINE",
+        "L-LYSINE": "LYSINE",
+        # ===== 水合物/無水形式 =====
         "CAFFEINE ANHYDROUS": "CAFFEINE",
-        "DEXTROSE MONOHYDRATE": "GLUCOSE",
-        "DEXTROSE": "GLUCOSE",
-        "GLUCOSE MONOHYDRATE": "GLUCOSE",
+        "ATORVASTATIN CALCIUM TRIHYDRATE": "ATORVASTATIN",
+        "LIDOCAINE HCL MONOHYDRATE": "LIDOCAINE",
+        # ===== 抗生素 =====
+        "AMOXYCILLIN": "AMOXICILLIN",
+        "CEPHRADINE": "CEFRADINE",
+        "RIFAMPIN": "RIFAMPICIN",
+        "GENTAMYCIN": "GENTAMICIN",
+        # ===== 心血管藥物 =====
+        "AMLODIPINE BESILATE": "AMLODIPINE",
+        # ===== 免疫抑制劑 =====
+        "CYCLOSPORIN": "CYCLOSPORINE",
+        "CICLOSPORIN": "CYCLOSPORINE",
+        # ===== 通用映射 =====
+        "ALCOHOL": "ETHANOL",
+        "L-CARNITINE": "LEVOCARNITINE",
+        "L-CYSTEINE": "CYSTEINE",
+        "PHYTOMENADIONE": "PHYLLOQUINONE",
+        "HYOSCINE": "SCOPOLAMINE",
+        "ISOPROTERENOL": "ISOPRENALINE",
+        "TORSEMIDE": "TORASEMIDE",
+        "URSODIOL": "URSODEOXYCHOLIC ACID",
+        "VALACYCLOVIR": "VALACICLOVIR",
+        # ===== 常見化合物 =====
+        "CALCIUM": "CALCIUM",
+        "MAGNESIUM": "MAGNESIUM",
+        "ZINC": "ZINC",
+        "BIOTIN": "BIOTIN",
+        "FOLIC ACID": "FOLIC ACID",
+        "CHARCOAL": "ACTIVATED CHARCOAL",
+        "CAMPHOR": "CAMPHOR",
+        "WARFARIN": "WARFARIN",
+        "IBUPROFEN": "IBUPROFEN",
+        "METFORMIN": "METFORMIN",
+        "ATROPINE": "ATROPINE",
+        "EPINEPHRINE": "EPINEPHRINE",
+        "THEOPHYLLINE": "THEOPHYLLINE",
+        "CAFFEINE": "CAFFEINE",
     }
 
     for alias, canonical in synonym_map.items():

@@ -1,13 +1,13 @@
 {
-  "generated": "2026-03-03T16:04:06.224760",
+  "generated": "2026-03-08T12:00:00.000000",
   "data": {
     "drugs": {
       "total": 3824,
       "with_dl_predictions": 224966
     },
     "predictions": {
-      "kg_predictions": 33901,
-      "dl_enhanced": 33901,
+      "kg_predictions": 2946,
+      "dl_enhanced": 2946,
       "dl_only": 191065,
       "total_indications": 155638
     },
