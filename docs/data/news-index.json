@@ -1,7 +1,162 @@
 {
-  "generated": "2026-03-12T18:40:18.981317+00:00",
-  "count": 14,
+  "generated": "2026-03-13T01:12:22.661070+00:00",
+  "count": 13,
   "news": [
+    {
+      "id": "2281e8f28afd",
+      "title": "【闘病】人工肛門、1日20回のトイレ… 20年検診を避けた末の『直腸がん』ステージ3(メディカルドック)",
+      "published": "2026-03-13T01:00:23+00:00",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/5044093b0788e252db86e1d4c9a85a8b95bacb07?source=rss"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f4421fbcf47c",
+      "title": "GLP-1と健康的な生活習慣遵守の併用で2型糖尿病の心血管イベントリスクが低下",
+      "published": "2026-03-13T00:11:47+00:00",
+      "sources": [
+        {
+          "name": "糖尿病リソースガイド",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TbVFNZ3NRSXd3aS00QWJIdUNOTmFBaDhCT0lPbTF6b1ltTkREdklvdlhVMVVCU09vdzhkbTFTMjJ0OTY0SUQ1cW9mbkxjTjZEbDJXbE90REk5ekVha3pQbEZUY2l6WmxPR0Nv?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "atorvastatin",
+              "name": "アトーゼット配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "pravastatin",
+              "name": "メバロチン錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "atenolol",
+              "name": "テノーミン錠５０　５０ｍｇ（選）"
+            },
+            {
+              "slug": "simvastatin",
+              "name": "リポバス錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "ロプレソール錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "lisinopril",
+              "name": "ロンゲス錠２０ｍｇ（選）"
+            },
+            {
+              "slug": "rosuvastatin",
+              "name": "クレストールＯＤ錠５ｍｇ（選）"
+            },
+            {
+              "slug": "clopidogrel",
+              "name": "プラビックス錠７５ｍｇ（選）"
+            },
+            {
+              "slug": "verapamil",
+              "name": "ワソラン錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "prasugrel",
+              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "type 2 diabetes mellitus",
+          "keyword": "2型糖尿病",
+          "related_drugs": [
+            {
+              "slug": "pioglitazone",
+              "name": "アクトスＯＤ錠３０　３０ｍｇ（選）"
+            },
+            {
+              "slug": "glimepiride",
+              "name": "アマリール０．５ｍｇ錠（選）"
+            },
+            {
+              "slug": "glyburide",
+              "name": "オイグルコン錠２．５ｍｇ（選）"
+            },
+            {
+              "slug": "gliclazide",
+              "name": "グリミクロン錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "metformin",
+              "name": "メホビル配合錠ＨＤ「トーワ」"
+            },
+            {
+              "slug": "dapagliflozin",
+              "name": "ダパグリフロジン錠１０ｍｇ「サワイ」"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "e826bb3221bb",
       "title": "タイ保健省がインフルエンザ患者増加に警戒 高リスク層にワクチン接種呼びかけ",
@@ -21,30 +176,6 @@
             {
               "slug": "oseltamivir",
               "name": "タミフルドライシロップ３％（選）"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "7318da878fec",
-      "title": "50代以上のほとんどが「心不全」予備軍!?セルフチェックと対策(HALMEK up)",
-      "published": "2026-03-12T13:15:01+00:00",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/0318c00397004b63bdb50b8b7d6542d72e2a33b8?source=rss"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "heart failure",
-          "keyword": "心不全",
-          "related_drugs": [
-            {
-              "slug": "enalapril",
-              "name": "レニベース錠１０　１０ｍｇ（選）"
             }
           ]
         }
@@ -417,114 +548,6 @@
             {
               "slug": "hydrocortisone",
               "name": "ヘモレックス軟膏"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "21455c00266c",
-      "title": "超加工食品の大量摂取でがんサバイバーの死亡リスクが上昇か｜CareNet.com",
-      "published": "2026-03-10T19:00:00+00:00",
-      "sources": [
-        {
-          "name": "CareNet.com",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5BM0xsRGhNSGJvUC1FeUg0T216ZGdBQzE0TXRYUkxzTWJpZHRtS2xkbGpyTlE5aXpHclNtREhINWlDS0x3cGk0TU5jLVY0OFJhYXkzNHdHYzF0dw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "がん",
-          "related_drugs": [
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "ゼローダ錠３００　３００ｍｇ（選）"
-            },
-            {
-              "slug": "propranolol",
-              "name": "インデラル錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "imatinib",
-              "name": "グリベック錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "7333642a62bd",
-      "title": "地中海食が女性の脳卒中予防に有効か｜CareNet.com",
-      "published": "2026-03-10T19:00:00+00:00",
-      "sources": [
-        {
-          "name": "CareNet.com",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sTW5JV2wxZE9GandveXpvRV90VzRMTjVBMW5lMHJfSjJzZno2NF9uclE4T0lNLU9NclJHdmo3RERtSmJYV0Q0ZERfa09wb0xTY09KMXR5Q2FBZw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "脳卒中",
-          "related_drugs": [
-            {
-              "slug": "atorvastatin",
-              "name": "アトーゼット配合錠ＨＤ（選）"
-            },
-            {
-              "slug": "pravastatin",
-              "name": "メバロチン錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "simvastatin",
-              "name": "リポバス錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "エックスフォージ配合ＯＤ錠（選）"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "ミカムロ配合錠ＢＰ（選）"
-            },
-            {
-              "slug": "rosuvastatin",
-              "name": "クレストールＯＤ錠５ｍｇ（選）"
             }
           ]
         }
