@@ -1,15 +1,15 @@
 {
-  "generated": "2026-03-14T12:29:40.510228+00:00",
+  "generated": "2026-03-14T18:24:40.273154+00:00",
   "count": 8,
   "news": [
     {
-      "id": "69cc4cfc3409",
-      "title": "バナナやキウイが「血管の緊張」を和らげる!? 栄養士が教える、高血圧対策に最強の食べ方【米】(ウィメンズヘルス)",
-      "published": "2026-03-14T12:00:18+00:00",
+      "id": "6b82b31b11eb",
+      "title": "尿の「ナトカリ比」を知ることで食事改善や高血圧の予防・管理に生かせます【気になる医学用語】(家庭画報.com)",
+      "published": "2026-03-14T15:00:02+00:00",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/1f53c5bb9a87f5b5d5f76670d460b71980526d13?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/7e8ea40bd7fbfc6dae4af5c52cd48b58007a3425?source=rss"
         }
       ],
       "keywords": [
@@ -89,56 +89,6 @@
             {
               "slug": "losartan",
               "name": "ニューロタン錠５０ｍｇ（選）"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "心臓発作",
-          "related_drugs": [
-            {
-              "slug": "atenolol",
-              "name": "テノーミン錠５０　５０ｍｇ（選）"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "ロプレソール錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "lisinopril",
-              "name": "ロンゲス錠２０ｍｇ（選）"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "脳卒中",
-          "related_drugs": [
-            {
-              "slug": "atorvastatin",
-              "name": "アトーゼット配合錠ＨＤ（選）"
-            },
-            {
-              "slug": "pravastatin",
-              "name": "メバロチン錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "simvastatin",
-              "name": "リポバス錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "エックスフォージ配合ＯＤ錠（選）"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "ミカムロ配合錠ＢＰ（選）"
-            },
-            {
-              "slug": "rosuvastatin",
-              "name": "クレストールＯＤ錠５ｍｇ（選）"
             }
           ]
         }
