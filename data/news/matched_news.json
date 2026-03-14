@@ -1,33 +1,247 @@
 {
-  "last_updated": "2026-03-14T06:34:52.699248+00:00",
-  "total_count": 47,
+  "last_updated": "2026-03-14T12:29:40.508572+00:00",
+  "total_count": 45,
   "matched_count": 8,
   "news": [
     {
-      "id": "d5d3e88c9f1b",
-      "title": "そもそも四国八十八カ所巡礼って？ 挑戦するなら何が必要？ ビギナーが知っておくべき情報を詰め込んだ入門マンガ【書評】(ダ・ヴィンチWeb)",
-      "published": "2026-03-14T06:00:00+00:00",
-      "summary": "生きているうちにやってみたいことのひとつに、四国八十八カ所巡礼、いわゆるお遍路を挙げる人は少なくないのではないだろうか。その理由は、叶えたい願いがある、新しい自分を発見したい、挑戦してみたい、などさま",
+      "id": "69cc4cfc3409",
+      "title": "バナナやキウイが「血管の緊張」を和らげる!? 栄養士が教える、高血圧対策に最強の食べ方【米】(ウィメンズヘルス)",
+      "published": "2026-03-14T12:00:18+00:00",
+      "summary": "高血圧は、知らず知らずのうちに進行し、胸の痛みや頭痛、めまいなどの症状を引き起こす可能性がある。さらには心臓発作や脳卒中など、より深刻な健康上の合併症につながるリスクもあるため、健康診断などで自身の数",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/85696d2a0fb6d985281c0fb6c2f9efb7d43acc9f?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/1f53c5bb9a87f5b5d5f76670d460b71980526d13?source=rss"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "hypertension",
+          "keyword": "高血圧",
+          "related_drugs": [
+            {
+              "slug": "nifedipine",
+              "name": "アダラートＣＲ錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "valsartan",
+              "name": "ディオバンＯＤ錠１６０ｍｇ（選）"
+            },
+            {
+              "slug": "atenolol",
+              "name": "テノーミン錠５０　５０ｍｇ（選）"
+            },
+            {
+              "slug": "carvedilol",
+              "name": "アーチスト錠２０ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "spironolactone",
+              "name": "アルダクトンＡ錠５０ｍｇ（選）"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "ロプレソール錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "enalapril",
+              "name": "レニベース錠１０　１０ｍｇ（選）"
+            },
+            {
+              "slug": "lisinopril",
+              "name": "ロンゲス錠２０ｍｇ（選）"
+            },
+            {
+              "slug": "diltiazem",
+              "name": "ヘルベッサー錠６０　６０ｍｇ（選）"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "エックスフォージ配合ＯＤ錠（選）"
+            },
+            {
+              "slug": "furosemide",
+              "name": "ラシックス錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "bisoprolol",
+              "name": "メインテート錠５ｍｇ（選）"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "ミカムロ配合錠ＢＰ（選）"
+            },
+            {
+              "slug": "timolol",
+              "name": "デュオトラバ配合点眼液（選）"
+            },
+            {
+              "slug": "verapamil",
+              "name": "ワソラン錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "hydrochlorothiazide",
+              "name": "プレミネント配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "losartan",
+              "name": "ニューロタン錠５０ｍｇ（選）"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心臓発作",
+          "related_drugs": [
+            {
+              "slug": "atenolol",
+              "name": "テノーミン錠５０　５０ｍｇ（選）"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "ロプレソール錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "lisinopril",
+              "name": "ロンゲス錠２０ｍｇ（選）"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "脳卒中",
+          "related_drugs": [
+            {
+              "slug": "atorvastatin",
+              "name": "アトーゼット配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "pravastatin",
+              "name": "メバロチン錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "simvastatin",
+              "name": "リポバス錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "エックスフォージ配合ＯＤ錠（選）"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "ミカムロ配合錠ＢＰ（選）"
+            },
+            {
+              "slug": "rosuvastatin",
+              "name": "クレストールＯＤ錠５ｍｇ（選）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "faa7a209a8de",
+      "title": "ハードオフ、7700円の“タイムカード打刻機”→よく見たら……「店側も引いてるやんけw」　まさかのボタンに「今じゃ考えられない？」(ねとらぼ)",
+      "published": "2026-03-14T12:00:00+00:00",
+      "summary": "あるハードオフにて、7700円の「タイムレコーダー」を発見。搭載されていた“あるボタン”が、使ったことのない人をおののかせています。X（Twitter）の投稿は記事執筆時点で165万回以上表示され、",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/7df8c1283821af1ed69ab37aafd55faf518922a0?source=rss"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "4a3be2887de5",
-      "title": "【首都圏在住者が選ぶ】「教育環境が充実している街（駅）」ランキング！　第2位は「研究学園」、1位は？(ねとらぼ)",
-      "published": "2026-03-14T05:50:00+00:00",
-      "summary": "リクルートは、2025年10月6日～11月20日にかけて、首都圏（東京都・神奈川県・埼玉県・千葉県・茨城県）在住の20～49歳の男女9000人を対象に調査を行い、その結果を「住みたい街ランキング20",
+      "id": "e83e426264e5",
+      "title": "水面がぶくぶくしている池→のぞいたら……「マジか」「うそでしょう？」　現れたまさかの生き物に「あの激レア生物が観られるなんて！」(ねとらぼ)",
+      "published": "2026-03-14T12:00:00+00:00",
+      "summary": "オーストラリアの池でまさかの生き物を発見した動画がYouTubeに投稿されました。その貴重な映像は「図鑑でしか見たことがなかった」「めちゃくちゃびっくり」と話題になり、記事作成時点で4万8000再生",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/c227ad75188d243ba24d090c53158e0d8d60f6b2?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/a7fd64d04481efbf515739c81be934f513b20187?source=rss"
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "4784617acf3f",
+      "title": "「株の健康診断書」で高評価の株を買えば暴騰するのか？投資家のつみたてにいさんに直撃してみた(＠ＤＩＭＥ)",
+      "published": "2026-03-14T11:40:23+00:00",
+      "summary": "今回、「つみたてにいさん@高配当・優待株投資（@tsumitate_nisan）さん」にインタビューを敢行。投資歴6年、30代の会社員男性で、夫婦で節約・貯蓄・投資のサイクルを維持しながら増配株・増待",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/73df28bf28aed100f58ed214ad2fa4e508b152a7?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "85ddbaac1a37",
+      "title": "玄米を週4回食べるだけで、認知機能が改善？ 東北大学×東洋ライスが脳の認知機能改善を実証(ヨガジャーナルオンライン)",
+      "published": "2026-03-14T11:40:00+00:00",
+      "summary": "「玄米が体にいい」とは昔からよく言われますが、脳の健康にまで影響するとしたら？ 東北大学スマート・エイジング学際重点研究センターと東洋ライス株式会社による共同研究が、2026年2月に東京都内で発表され",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/9889c51f00fe3d793b2714dae69bb843a449ae58?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "4fab703a840c",
+      "title": "感染後1カ月で脳卒中リスク5倍！命取りになる「絶対NGな行動」",
+      "published": "2026-03-14T06:03:32+00:00",
+      "summary": "感染後1カ月で脳卒中リスク5倍！命取りになる「絶対NGな行動」&nbsp;&nbsp;apf.inc",
+      "sources": [
+        {
+          "name": "apf.inc",
+          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNek85NnhseU4zaFZGSURDZ1lpYW85Z0lNVXFwX1pxMnVzUDNQNFhBa1d2TXpmQThFYUVaakc5c1ZDTV9QMDJ2RE9zQ2xEc2lydjNiZENoaHFqcVQ0ZW42WFJZT3ZxcGl5VERKU21lNVdOQWJoQk1QaFVyRDJqVUVfUHpXRU1zdFVxN0R1NzNNLTRCOW1vYUZUVkR2eEs2WU8yNUx3T1VsSDQ3S1RnVXRmNzhQalk5eWlNT2RWa3FVd216aVpqVzZhUFlxcjhSRUp2aWR1ZGM4UUFJV1h6aFZCdTZEd29tTUFOVHRDUXhvNEM2b0ZoY0FCa3lFVDdtcF9ZSzJFQjdfWm4xRHMyek5UcGlkdzBMeUJfb2RwMnQ1MGN4ZTZ3NnRJNE81WS11bkgyLUJ4MFQ1S2NubkpUOHc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "脳卒中",
+          "related_drugs": [
+            {
+              "slug": "atorvastatin",
+              "name": "アトーゼット配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "pravastatin",
+              "name": "メバロチン錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "simvastatin",
+              "name": "リポバス錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "エックスフォージ配合ＯＤ錠（選）"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "ミカムロ配合錠ＢＰ（選）"
+            },
+            {
+              "slug": "rosuvastatin",
+              "name": "クレストールＯＤ錠５ｍｇ（選）"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "26262aea119b",
@@ -56,19 +270,6 @@
       "matched_keywords": []
     },
     {
-      "id": "105aaa3496d3",
-      "title": "Firefly Neuroscience株、ADHD亜型研究で急騰 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-      "published": "2026-03-13T19:22:00+00:00",
-      "summary": "Firefly Neuroscience株、ADHD亜型研究で急騰 執筆&nbsp;&nbsp;Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-      "sources": [
-        {
-          "name": "Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5MaFZMeURyMk1ka0FsM0pGSXpldHZUWjE2dlFtZGJWVUFJTEJESktlSE9OYWZaNWdhZ0xoS21FOTRLZFgxaXp0QVpMcTh1TTBRMndfS01HYmJtaGhPNTJXSGhFbE1VUGFidmhtdUcwSnZKZlRCaGVZ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "1e32bfaf5408",
       "title": "1型糖尿病の“見える”膵臓評価を可能に―新規PET検査による膵β細胞量評価―",
       "published": "2026-03-13T11:49:49+00:00",
@@ -85,7 +286,7 @@
       "id": "efaa1b631977",
       "title": "1日2～3杯の「コーヒー」が『腎臓』を救う!? “腎臓ケア”に有効なワケ【医師解説】（メディカルドック）",
       "published": "2026-03-13T11:04:19+00:00",
-      "summary": "1日2～3杯の「コーヒー」が『腎臓』を救う!? “腎臓ケア”に有効なワケ【医師解説】（メディカルドック）&nbsp;&nbsp;Yahoo!ニュースGoogle ニュースですべての記事を見る",
+      "summary": "1日2～3杯の「コーヒー」が『腎臓』を救う!? “腎臓ケア”に有効なワケ【医師解説】（メディカルドック）&nbsp;&nbsp;Yahoo!ニュースコーヒーや紅茶を飲む人は「認知症リスクが50％以上低い」可能性&nbsp;&nbsp;Forbes JAPAN大規模調査：毎日コーヒーを飲むことは、あなたが思っている以上に体に良い。&nbsp;&nbsp;Vietnam.vnコーヒー派もお茶派も必読！ 脳の老化を遅らせる「1日の最適な摂取量」が判明&nbsp;&nbsp;@DIME アットダイムどちらもろ過が重要です 本格コーヒー味わいながら腎臓病考える 熊本市東区&nbsp;&nbsp;熊本日日新聞社",
       "sources": [
         {
           "name": "Yahoo!ニュース",
@@ -557,136 +758,6 @@
       ]
     },
     {
-      "id": "77d96f32e45c",
-      "title": "全国がん登録データで初の5年生存率 国際標準「純生存率」を導入｜ニュース",
-      "published": "2026-03-12T08:37:48+00:00",
-      "summary": "全国がん登録データで初の5年生存率 国際標準「純生存率」を導入｜ニュース&nbsp;&nbsp;保健指導リソースガイド厚労省、がん患者の5年生存率を公表 部位で異なる生存率 発症自体を防ぐ、予防可能な生活習慣とは？&nbsp;&nbsp;ITmedia",
-      "sources": [
-        {
-          "name": "保健指導リソースガイド",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uRXB1VFJSLTdYbnVCcWJfaXZGa3Q2YUVzOC1Dc2JaSWpaSGVoZnU2TmR6aVlPYWJCLVFlNkxyUUN2YkV1Wk5xWXNaX2pSU2pTc0FLN2R6OURPZlNDUWJFb001TDVvUlZR?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "がん",
-          "related_drugs": [
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "ゼローダ錠３００　３００ｍｇ（選）"
-            },
-            {
-              "slug": "propranolol",
-              "name": "インデラル錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "imatinib",
-              "name": "グリベック錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "26754f1fe1e0",
-      "title": "HPVワクチンに関する調査報告（2025年度）｜関連資料・リリース",
-      "published": "2026-03-12T08:27:40+00:00",
-      "summary": "HPVワクチンに関する調査報告（2025年度）｜関連資料・リリース&nbsp;&nbsp;保健指導リソースガイド子宮頸がんワクチンの迷走 国立がん研部長「初期対応に不適切な面も」&nbsp;&nbsp;読売新聞オンラインHPVワクチン「男性も接種可能」の認知率4割 - 日本対がん協会調べ（医療介護ＣＢニュース）&nbsp;&nbsp;Yahoo!ニュースHPVワクチン定期接種 対象の全年代で経験率上昇 - 日本対がん協会調べ（医療介護ＣＢニュース）&nbsp;&nbsp;Yahoo!ニュースHPVワクチン「男性も接種可能」の認知率4割 日本対がん協会調べ&nbsp;&nbsp;医療介護CBnews",
-      "sources": [
-        {
-          "name": "保健指導リソースガイド",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8tbGY0WEhhelJkSTFOQkhVRGozbjE4VUNHU0JBSm45YTZOYUlRT09oRVhpSkJCRXBqa3ZhNDdZM0RPRXFqYVgzbzczQWZEc1JNTnowLWJ0VTNGUTQyUmRNQlR0eEU0WTZLRkR5S2pOS25WZTlG?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "がん",
-          "related_drugs": [
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "ゼローダ錠３００　３００ｍｇ（選）"
-            },
-            {
-              "slug": "propranolol",
-              "name": "インデラル錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "imatinib",
-              "name": "グリベック錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "66b5a24290dd",
       "title": "石器時代の料理人、食材を「驚くほど選び抜く」　新研究(CNN.co.jp)",
       "published": "2026-03-12T08:06:00+00:00",
@@ -1057,45 +1128,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/162e49eaf01427a93d64f1c79bec485bee7a9261?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "cb2350b12ed6",
-      "title": "生命の宇宙起源説は本当？ 隕石衝突の衝撃でも死なない微生物(ギズモード・ジャパン)",
-      "published": "2026-03-10T02:00:01+00:00",
-      "summary": "生命は、隕石に乗って地球へたどり着いた…のかも？ 生命の起源を宇宙に求める探査研究が続いています。宇宙空間を旅することができるかもしれない生物の可能性として、良く知られているのが強い放射線耐性を有す",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/f5c1478d3b590e4b9035f3604fd83e5138ebf8d1?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "29d611e49ea4",
-      "title": "チーターのミイラを7体発見、サウジの洞窟、驚きの保存状態　再導入の貴重な手がかりに(ナショナル ジオグラフィック日本版)",
-      "published": "2026-03-09T11:11:12+00:00",
-      "summary": "2022年、サウジアラビアの人里離れた奥地の洞窟群の中で、研究者たちが驚くべきものを発見した。チーター（Acinonyx jubatus）のミイラだ。洞窟の乾燥した環境のおかげで、7体のチーターのミ",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/0275ad6230cc2aff09d97e3da23ea2204c9f313c?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "d7c723798d33",
-      "title": "《やせていても要注意》“隠れ糖尿病”のリスク　健康診断で見逃されてしまうことも…「頭がボーッとする」「夕方急に眠くなる」など要注意な自覚症状",
-      "published": "2026-03-06T22:11:25+00:00",
-      "summary": "《やせていても要注意》“隠れ糖尿病”のリスク 健康診断で見逃されてしまうことも…「頭がボーッとする」「夕方急に眠くなる」など要注意な自覚症状&nbsp;&nbsp;ｄメニューニュースやせていても要注意》“隠れ糖尿病”のリスク 健康診断で見逃されてしまうことも…「頭がボーッとする」「夕方急に眠くなる」など要注意な自覚症状（女性セブンプラス&nbsp;&nbsp;Yahoo!ニュース進化する血糖管理～経皮的持続血糖モニタリング（東京予防クリニック 村上友太院長）～&nbsp;&nbsp;時事メディカル",
-      "sources": [
-        {
-          "name": "ｄメニューニュース",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBKeTRnWEdoYmlqUS1pVU0yMjFkanMzNmw0NUUzZlhZOUFsS3VlLUtENEs5dy1SYnhvVGJCMnRzaWpobzVHSXVMQWZ3dEJlTE1VZzhPZ1JONHFfWUMwa2ZyMWFGZldHaE1Sd0530gFwQVVfeXFMTVpFOW5EbERjdFk5YWtpLUt3Vzl3Q0FuYnU1V0E3WHRJS1ZvSnV5TTQwbjRpWUExX24zU1hZbnlndnhNbDRickZBNGEyODAtY19uOTNYcHV4RFBTNGFqYXFLOXVCMFVoUkxfckdUWmpxRw?oc=5"
         }
       ],
       "matched_keywords": []
