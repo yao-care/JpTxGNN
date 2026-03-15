@@ -1,136 +1,82 @@
 {
-  "last_updated": "2026-03-14T18:24:40.271525+00:00",
-  "total_count": 39,
-  "matched_count": 8,
+  "last_updated": "2026-03-15T01:23:38.129664+00:00",
+  "total_count": 32,
+  "matched_count": 7,
   "news": [
     {
-      "id": "6b82b31b11eb",
-      "title": "尿の「ナトカリ比」を知ることで食事改善や高血圧の予防・管理に生かせます【気になる医学用語】(家庭画報.com)",
-      "published": "2026-03-14T15:00:02+00:00",
-      "summary": "尿に排せつされるナトリウムとカリウムの比が高血圧の予防・管理の指標に",
+      "id": "fe536d95fe3a",
+      "title": "児童文学作家の竹下文子さん死去　絵本「せんろはつづく」(共同通信)",
+      "published": "2026-03-15T01:00:04+00:00",
+      "summary": "「せんろはつづく」や「なまえのないねこ」などの絵本で知られる児童文学作家の竹下文子（たけした・ふみこ、本名鈴木文子＝すずき・ふみこ）さんが10日、がんのため静岡県下田市で死去した。69歳。北九州市出",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/7e8ea40bd7fbfc6dae4af5c52cd48b58007a3425?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/aaab32cfe6fb1e76907cc5faa0e124d077ec8cd7?source=rss"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
-          "name": "hypertension",
-          "keyword": "高血圧",
+          "name": "generic_cancer",
+          "keyword": "がん",
           "related_drugs": [
             {
-              "slug": "nifedipine",
-              "name": "アダラートＣＲ錠４０ｍｇ（選）"
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
             },
             {
-              "slug": "valsartan",
-              "name": "ディオバンＯＤ錠１６０ｍｇ（選）"
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
             },
             {
-              "slug": "atenolol",
-              "name": "テノーミン錠５０　５０ｍｇ（選）"
-            },
-            {
-              "slug": "carvedilol",
-              "name": "アーチスト錠２０ｍｇ（選）"
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
             },
             {
               "slug": "propranolol",
               "name": "インデラル錠１０ｍｇ（選）"
             },
             {
-              "slug": "spironolactone",
-              "name": "アルダクトンＡ錠５０ｍｇ（選）"
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
             },
             {
-              "slug": "metoprolol",
-              "name": "ロプレソール錠４０ｍｇ（選）"
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
             },
             {
-              "slug": "enalapril",
-              "name": "レニベース錠１０　１０ｍｇ（選）"
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
             },
             {
-              "slug": "lisinopril",
-              "name": "ロンゲス錠２０ｍｇ（選）"
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
             },
             {
-              "slug": "diltiazem",
-              "name": "ヘルベッサー錠６０　６０ｍｇ（選）"
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
             },
             {
-              "slug": "amlodipine",
-              "name": "エックスフォージ配合ＯＤ錠（選）"
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
             },
             {
-              "slug": "furosemide",
-              "name": "ラシックス錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "bisoprolol",
-              "name": "メインテート錠５ｍｇ（選）"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "ミカムロ配合錠ＢＰ（選）"
-            },
-            {
-              "slug": "timolol",
-              "name": "デュオトラバ配合点眼液（選）"
-            },
-            {
-              "slug": "verapamil",
-              "name": "ワソラン錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "hydrochlorothiazide",
-              "name": "プレミネント配合錠ＨＤ（選）"
-            },
-            {
-              "slug": "losartan",
-              "name": "ニューロタン錠５０ｍｇ（選）"
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
             }
           ]
         }
       ]
     },
     {
-      "id": "874d1685d6bd",
-      "title": "【エディターが推す台湾土産5選】ドラストで買いたいコスメやのど飴(＠BAILA)",
-      "published": "2026-03-14T13:50:30+00:00",
-      "summary": "旅先でつい立ち寄りたくなるのが、現地のドラッグストア。台湾の薬局やコスメショップは、日本のものと似ていながらも、台湾ブランドのコスメやローカル医薬品、ユニークな美容アイテムなど、宝探し感覚で買い物でき",
+      "id": "3f37ddb56e5f",
+      "title": "H3ロケット、2回目のエンジン試験実施　50秒間燃焼、燃料タンクの圧力データなど収集(産経新聞)",
+      "published": "2026-03-14T22:58:56+00:00",
+      "summary": "宇宙航空研究開発機構（JAXA）は15日、主力大型ロケット「H3」6号機の2回目の主エンジン燃焼試験を、予定通り実施した。種子島宇宙センター（鹿児島県南種子町）の移動式発射台に、機体が上昇しないよう固",
       "sources": [
         {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/bb0b634211e03bd2485348780923516b538e49de?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "49f90a081adf",
-      "title": "小島美子さん死去、96歳　日本音楽史研究の第一人者(共同通信)",
-      "published": "2026-03-14T13:16:15+00:00",
-      "summary": "日本音楽史研究の第一人者で、国立歴史民俗博物館名誉教授の小島美子（こじま・とみこ）さんが2月27日、肝不全のため死去した。96歳。福島県出身。家族葬を行った。 東京大卒。中学の教師を経て東京芸術",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/802b00c0ce6fd0fd6bcd1e865b62ebc75e5dc198?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "f02dd3e822b8",
-      "title": "日本音楽史研究第一人者の小島美子さん死去(共同通信)",
-      "published": "2026-03-14T13:13:56+00:00",
-      "summary": "日本音楽史研究の第一人者で、国立歴史民俗博物館名誉教授の小島美子さんが2月27日、肝不全のため死去した。96歳。福島県出身。",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/a37d94f65cb3892fbe322d580019981a2d20bea3?source=rss"
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/f132ed143c62da5e1a373e618d289a045cce0ac2?source=rss"
         }
       ],
       "matched_keywords": []
@@ -209,7 +155,7 @@
     {
       "id": "1e32bfaf5408",
       "title": "1型糖尿病の“見える”膵臓評価を可能に―新規PET検査による膵β細胞量評価―",
-      "published": "2026-03-13T11:49:49+00:00",
+      "published": "2026-03-13T12:00:00+00:00",
       "summary": "1型糖尿病の“見える”膵臓評価を可能に―新規PET検査による膵β細胞量評価―&nbsp;&nbsp;京都大学",
       "sources": [
         {
@@ -315,158 +261,14 @@
       "matched_keywords": []
     },
     {
-      "id": "f64b1c21bbb6",
-      "title": "【研究成果】二次元材料である六方晶窒化ホウ素（hBN）の生体量子センサ化に成功 – 欠陥導入と構造制御で細胞計測を実現",
-      "published": "2026-03-13T01:13:06+00:00",
-      "summary": "【研究成果】二次元材料である六方晶窒化ホウ素（hBN）の生体量子センサ化に成功 – 欠陥導入と構造制御で細胞計測を実現&nbsp;&nbsp;hiroshima-u.ac.jp",
-      "sources": [
-        {
-          "name": "hiroshima-u.ac.jp",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBxbENjem9vUndwSEM2MDdYYllyVmI2M05yZGFsa3BxNm5ib3U5b09HcDlFNF9qWE1KTFdJRWZKMGpXWmJQSlZYS3JuaGhsR3dINFE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "d766ddf08d06",
-      "title": "末梢動脈疾患（PAD）の症状改善にメトホルミンは無効（解説：小川 大輔 氏）－2092｜CareNet.com",
+      "id": "d8e2193ab82d",
+      "title": "末梢動脈疾患（PAD）の症状改善にメトホルミンは無効（解説：小川 大輔 氏）－2092｜医師向け医療ニュースはケアネット",
       "published": "2026-03-13T01:00:00+00:00",
-      "summary": "末梢動脈疾患（PAD）の症状改善にメトホルミンは無効（解説：小川 大輔 氏）－2092｜CareNet.com&nbsp;&nbsp;CareNet.com",
+      "summary": "末梢動脈疾患（PAD）の症状改善にメトホルミンは無効（解説：小川 大輔 氏）－2092｜医師向け医療ニュースはケアネット&nbsp;&nbsp;CareNet.com",
       "sources": [
         {
           "name": "CareNet.com",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4tYU9IZ0NOX3Fpay1vRlZwcUl3LW96MFBVN2d3alJFNG40WWxLWU0zVTR4YlVmYjlLUUluWVB1cUUxaTdlZEc0VWM1X1JfZERKS0dQbUtRRDJFRU1z?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "f4421fbcf47c",
-      "title": "GLP-1と健康的な生活習慣遵守の併用で2型糖尿病の心血管イベントリスクが低下",
-      "published": "2026-03-13T00:11:47+00:00",
-      "summary": "GLP-1と健康的な生活習慣遵守の併用で2型糖尿病の心血管イベントリスクが低下&nbsp;&nbsp;糖尿病リソースガイド",
-      "sources": [
-        {
-          "name": "糖尿病リソースガイド",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TbVFNZ3NRSXd3aS00QWJIdUNOTmFBaDhCT0lPbTF6b1ltTkREdklvdlhVMVVCU09vdzhkbTFTMjJ0OTY0SUQ1cW9mbkxjTjZEbDJXbE90REk5ekVha3pQbEZUY2l6WmxPR0Nv?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "atorvastatin",
-              "name": "アトーゼット配合錠ＨＤ（選）"
-            },
-            {
-              "slug": "pravastatin",
-              "name": "メバロチン錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "atenolol",
-              "name": "テノーミン錠５０　５０ｍｇ（選）"
-            },
-            {
-              "slug": "simvastatin",
-              "name": "リポバス錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "ロプレソール錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "lisinopril",
-              "name": "ロンゲス錠２０ｍｇ（選）"
-            },
-            {
-              "slug": "rosuvastatin",
-              "name": "クレストールＯＤ錠５ｍｇ（選）"
-            },
-            {
-              "slug": "clopidogrel",
-              "name": "プラビックス錠７５ｍｇ（選）"
-            },
-            {
-              "slug": "verapamil",
-              "name": "ワソラン錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "prasugrel",
-              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "type 2 diabetes mellitus",
-          "keyword": "2型糖尿病",
-          "related_drugs": [
-            {
-              "slug": "pioglitazone",
-              "name": "アクトスＯＤ錠３０　３０ｍｇ（選）"
-            },
-            {
-              "slug": "glimepiride",
-              "name": "アマリール０．５ｍｇ錠（選）"
-            },
-            {
-              "slug": "glyburide",
-              "name": "オイグルコン錠２．５ｍｇ（選）"
-            },
-            {
-              "slug": "gliclazide",
-              "name": "グリミクロン錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "metformin",
-              "name": "メホビル配合錠ＨＤ「トーワ」"
-            },
-            {
-              "slug": "dapagliflozin",
-              "name": "ダパグリフロジン錠１０ｍｇ「サワイ」"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "ca08b3fd02e1",
-      "title": "【妊婦さんに朗報】赤ちゃんをRSウイルスから守る「母子免疫ワクチン」が26年4月から定期接種へ！ 宋 美玄先生に聞く安全性とメリット",
-      "published": "2026-03-12T23:12:58+00:00",
-      "summary": "【妊婦さんに朗報】赤ちゃんをRSウイルスから守る「母子免疫ワクチン」が26年4月から定期接種へ！ 宋 美玄先生に聞く安全性とメリット&nbsp;&nbsp;shitakoe.com4月から「RSウイルスワクチン」の定期接種化 公費での支援により原則無料に 従来は費用負担がハードルに（テレビ静岡NEWS）&nbsp;&nbsp;Yahoo!ニュースRSウイルス感染症予防接種&nbsp;&nbsp;選挙ドットコム【令和8年4月開始予定】〈妊婦のかた対象〉RSウイルス母子免疫ワクチン定期予防接種&nbsp;&nbsp;city.fukushima.fukushima.jp4月から「RSウイルスワクチン」の定期接種化 公費での支援により原則無料に 従来は費用負担がハードルに&nbsp;&nbsp;FNNプライムオンライン",
-      "sources": [
-        {
-          "name": "shitakoe.com",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE04bVBrdUhHdXRfMjVrdFF5ZUpYRFd6T19GcEpBWklvMWotLXlxMWJ1QXNwdUphXy1xZXlLV2J1LVZlU1NMZXFrYkpR?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "61d4ee1d38d8",
-      "title": "PHSは過去のもの？それとも現役？／医師1,000人アンケート｜医師向け医療ニュースはケアネット",
-      "published": "2026-03-12T19:00:00+00:00",
-      "summary": "PHSは過去のもの？それとも現役？／医師1,000人アンケート｜医師向け医療ニュースはケアネット&nbsp;&nbsp;CareNet.com",
-      "sources": [
-        {
-          "name": "CareNet.com",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QekM0RXh2d0VoRTJqTFlvTmxtUVZlM1piWWh4UXVkTXZ4OWFLaXU2MDI4N19iVXc1Mno1TTFWdWItdU9zWXd0UTdNNlFKNm0ySnhjVzRER0swRTAyN0NZ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "041cb3e73b0a",
-      "title": "GLP-1受容体作動薬、物質使用障害の予防や治療に有効か／BMJ｜医師向け医療ニュースはケアネット",
-      "published": "2026-03-12T19:00:00+00:00",
-      "summary": "GLP-1受容体作動薬、物質使用障害の予防や治療に有効か／BMJ｜医師向け医療ニュースはケアネット&nbsp;&nbsp;CareNet.com",
-      "sources": [
-        {
-          "name": "CareNet.com",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9uSGlWM2lyd194dEVhNmVkVTVQS1dBVlZLVW9PeENIbFhZVVVfNmRjUnNjbFVNamJVU2d1V2pnS21pMUdnLVVlSXM3VGdiUUV2a3g2cE5IS0tQNVFYeXJZ?oc=5"
         }
       ],
       "matched_keywords": []
