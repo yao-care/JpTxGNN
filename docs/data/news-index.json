@@ -1,7 +1,35 @@
 {
-  "generated": "2026-03-16T12:48:49.691748+00:00",
-  "count": 6,
+  "generated": "2026-03-16T18:49:22.988813+00:00",
+  "count": 7,
   "news": [
+    {
+      "id": "c29cc8016d15",
+      "title": "米脂質異常症ガイドライン改訂、治療目標値復活",
+      "published": "2026-03-16T14:45:06+00:00",
+      "sources": [
+        {
+          "name": "日経メディカル",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sejJ6V3dGZWs3SmdmSVlfVEFZYWtvX2dWU0JwdFJEcnZlVVEwV21lRlIyM0JlNDI4Mm5jOG5nVU1YMGhZaHNBTERjU1lhRnFGQWc1UnYyb0pSdzZVX0N6cUdYVFpseV9iQl84VDJuLWNaSDBOWHBZYVZHekxJNkE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "hyperlipidemia",
+          "keyword": "脂質異常症",
+          "related_drugs": [
+            {
+              "slug": "ezetimibe",
+              "name": "ゼチーア錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "fenofibrate",
+              "name": "トライコア錠８０ｍｇ（選）"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "8c38c58d9176",
       "title": "「内視鏡検査」は何歳から受けるべき？ 専門医が教える胃カメラ・大腸カメラの重要性(メディカルドック)",

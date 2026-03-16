@@ -1,8 +1,89 @@
 {
-  "last_updated": "2026-03-16T12:48:49.690152+00:00",
-  "total_count": 53,
-  "matched_count": 6,
+  "last_updated": "2026-03-16T18:49:22.987293+00:00",
+  "total_count": 56,
+  "matched_count": 7,
   "news": [
+    {
+      "id": "9cb5e1f6a75b",
+      "title": "「フラルネ」が美白ボディミルクを発売　透明感のある”スルすべボディ”へ(FASHIONSNAP)",
+      "published": "2026-03-16T15:00:23+00:00",
+      "summary": "アルビオンのスキンケアブランド「フラルネ（FLARUNE）」が、新ボディミルク「ラデュー ブライトボディミルク」（医薬部外品、250g 3850円）を5月17日に発売する。",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/8f93fe6ae4d0182de64b7726dd9dfc314e7a19c0?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "c29cc8016d15",
+      "title": "米脂質異常症ガイドライン改訂、治療目標値復活",
+      "published": "2026-03-16T14:45:06+00:00",
+      "summary": "米脂質異常症ガイドライン改訂、治療目標値復活&nbsp;&nbsp;日経メディカル",
+      "sources": [
+        {
+          "name": "日経メディカル",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sejJ6V3dGZWs3SmdmSVlfVEFZYWtvX2dWU0JwdFJEcnZlVVEwV21lRlIyM0JlNDI4Mm5jOG5nVU1YMGhZaHNBTERjU1lhRnFGQWc1UnYyb0pSdzZVX0N6cUdYVFpseV9iQl84VDJuLWNaSDBOWHBZYVZHekxJNkE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "hyperlipidemia",
+          "keyword": "脂質異常症",
+          "related_drugs": [
+            {
+              "slug": "ezetimibe",
+              "name": "ゼチーア錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "fenofibrate",
+              "name": "トライコア錠８０ｍｇ（選）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "98096c7ee1ed",
+      "title": "おうち時間に着るだけ！？ニトリ「リカバリーウェア」トップス。ゆったり美シルエットもいい。仕事終わりに、スポーツ後に！(LIMO)",
+      "published": "2026-03-16T13:31:07+00:00",
+      "summary": "毎日の暮らしに寄り添うファッションアイテムを展開する「ニトリ」。そんなニトリで女性用「疲労回復トップス」を販売中です。 一般医療機器として届出もされているので安心して着られる一着。疲れて帰宅した夜に",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/c20b4f9aa59a9b5ee81b553f1d5983a7cce4b636?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "9ba110a79ea3",
+      "title": "“運命”を感じて迎えた元保護犬→2度の手術を乗り越え、今では元気いっぱいにお散歩を楽しむコに成長！(いぬのきもち WEB MAGAZINE)",
+      "published": "2026-03-16T13:00:00+00:00",
+      "summary": "運命のようなものを感じて… 紹介するのは、X（旧Twitter）ユーザー@cafe_miyajunさんの愛犬・アッティくん（取材時5才）。こちらはお散歩中のアッティくんをとらえた写真です。 そんな",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/fa33d84a451f5643c380de1a8f5538ef423ac02c?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "bb2225423a01",
+      "title": "「とくにキレイなチノパンツ」 ブーツもスニーカーも似合う絶妙シルエット(GISELe)",
+      "published": "2026-03-16T12:52:00+00:00",
+      "summary": "デニムにはないベージュのトラウザー感覚。シーンやテイストを限定せずに、デニムのように「何とでも合わせやすく・どこにでも行ける」。 ラクとキレイを両立しながら着回せる、スタイルUP効果に優れた名品をご紹",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/19c89bd55ccc494a779209c03fd35f389ba258bd?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "d99ceba2148d",
       "title": "ジム通いを始めたら！トレーニングと併用したいアイテム3選(＠ＤＩＭＥ)",
@@ -38,32 +119,6 @@
         {
           "name": "Yahoo! Japan Life",
           "link": "https://news.yahoo.co.jp/articles/b7a8595142d7db31765a7c0a8a5b5a09a1e05f60?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "26364c158b03",
-      "title": "ツナ缶を毎日食べると体に何が起きる？米国栄養士が警告する「水銀蓄積」のリスク(ウィメンズヘルス)",
-      "published": "2026-03-16T12:00:02+00:00",
-      "summary": "ツナ缶は食の世界におけるアーミーナイフ。それほど高価ではなく、とても便利で頼れる存在。昼食や夕食に取り入れれば、ちゃんと大人の生活ができているような気さえする。しかし、そんなツナ缶とも適度な距離感で付",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/c75403f94812827b8e93a69c00344844f4361f09?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "f6bf5b2f0f4d",
-      "title": "あさり缶に、ただ混ぜるだけ！貧血予防にぴったり夜の鉄分＆たんぱく質補給レシピ｜管理栄養士が解説(ヨガジャーナルオンライン)",
-      "published": "2026-03-16T11:55:00+00:00",
-      "summary": "みなさんは息切れやめまい、立ちくらみといった貧血症状に悩んでいませんか？貧血にいい食材といえば、レバーを思い浮かべるかもしれませんが、下処理や調理が大変ですよね。そんなときにおすすめなのが「アサリ缶」",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/3c656f31308dcf604dabbabdbc4fc6358bfa1871?source=rss"
         }
       ],
       "matched_keywords": []
@@ -176,7 +231,7 @@
       "id": "7a0b6f6e7d70",
       "title": "ママから届ける「抗体のプレゼント」──RSウイルス「母子免疫ワクチン」、4月から定期接種へ - J-CAST ニュース",
       "published": "2026-03-16T08:30:00+00:00",
-      "summary": "ママから届ける「抗体のプレゼント」──RSウイルス「母子免疫ワクチン」、4月から定期接種へ&nbsp;&nbsp;J-CAST ニュース【令和8年4月開始予定】〈妊婦のかた対象〉RSウイルス母子免疫ワクチン定期予防接種&nbsp;&nbsp;city.fukushima.fukushima.jp4月から「RSウイルスワクチン」の定期接種化 公費での支援により原則無料に 従来は費用負担がハードルに（テレビ静岡NEWS）&nbsp;&nbsp;Yahoo!ニュース4月から「RSウイルスワクチン」の定期接種化 公費での支援により原則無料に 従来は費用負担がハードルに&nbsp;&nbsp;FNNプライムオンライン",
+      "summary": "ママから届ける「抗体のプレゼント」──RSウイルス「母子免疫ワクチン」、4月から定期接種へ&nbsp;&nbsp;J-CAST ニュース4月から「RSウイルスワクチン」の定期接種化 公費での支援により原則無料に 従来は費用負担がハードルに（テレビ静岡NEWS）&nbsp;&nbsp;Yahoo!ニュース【令和8年4月開始予定】〈妊婦のかた対象〉RSウイルス母子免疫ワクチン定期予防接種&nbsp;&nbsp;city.fukushima.fukushima.jp4月から「RSウイルスワクチン」の定期接種化 公費での支援により原則無料に 従来は費用負担がハードルに&nbsp;&nbsp;FNNプライムオンライン",
       "sources": [
         {
           "name": "J-CAST ニュース",
@@ -188,16 +243,12 @@
     {
       "id": "3eddb0d6d200",
       "title": "難治性の慢性中耳炎、急性白血病治療薬が効く可能性 慈恵医大が発見(Science Portal)",
-      "published": "2026-03-16T07:25:31+00:00",
+      "published": "2026-03-16T07:34:45+00:00",
       "summary": "難治性の慢性中耳炎である「真珠腫性中耳炎」に、急性白血病の治療薬として開発が進んでいる分子標的薬「メニン-MLL阻害剤」が効く可能性を、東京慈恵会医科大学の研究グループが見つけた。真珠腫性中耳炎は鼓",
       "sources": [
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/18d3c813b7ab5d6bb73ff1aeb684188b0b4c508e?source=rss"
-        },
-        {
-          "name": "Science Portal",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5VSUpNVXMwT3FwZVJWb3RmUTBLWmdGYjlBNzgyejRkdWFac2I5U1VESF9LdjdQbUh5T3hrVnJJcDF2SVE3N0o0b3VwSndIcDhTVElMQlBhTUNNLU1WaTZtXzktdEFzUQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -385,10 +436,10 @@
       "matched_keywords": []
     },
     {
-      "id": "d1951a5ec3a1",
-      "title": "医学部医学科・磯崎講師の運動習慣と心臓性突然死に関する論文が『eClinicalMedicine』に掲載されました | ニュース | 医学部",
+      "id": "74af183d5a59",
+      "title": "医学部医学科・磯崎講師の運動習慣と心臓性突然死に関する論文が『eClinicalMedicine』に掲載されました",
       "published": "2026-03-16T01:24:44+00:00",
-      "summary": "医学部医学科・磯崎講師の運動習慣と心臓性突然死に関する論文が『eClinicalMedicine』に掲載されました | ニュース | 医学部&nbsp;&nbsp;u-tokai.ac.jp",
+      "summary": "医学部医学科・磯崎講師の運動習慣と心臓性突然死に関する論文が『eClinicalMedicine』に掲載されました&nbsp;&nbsp;u-tokai.ac.jp",
       "sources": [
         {
           "name": "u-tokai.ac.jp",
