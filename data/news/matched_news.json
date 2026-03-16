@@ -1,30 +1,147 @@
 {
-  "last_updated": "2026-03-16T01:23:39.774818+00:00",
-  "total_count": 44,
-  "matched_count": 5,
+  "last_updated": "2026-03-16T07:05:46.950767+00:00",
+  "total_count": 48,
+  "matched_count": 6,
   "news": [
     {
-      "id": "8b09669d5586",
-      "title": "ファーストリテイリング、温室効果ガス排出量削減目標を4年前倒しで達成(FASHIONSNAP)",
-      "published": "2026-03-16T01:07:48+00:00",
-      "summary": "「ユニクロ（UNIQLO）」や「GU（ジーユー）」を運営するファーストリテイリングが、2030年に向けた店舗とオフィスなど自社運営施設（いわゆるスコープ1、スコープ2）での電力使用に伴う温室効果ガス",
+      "id": "82966434252d",
+      "title": "【研究成果】がん患者が抱える倦怠感「がん関連疲労」に対し、 刺さない鍼治療「接触鍼法」が有効であることがわかりました。",
+      "published": "2026-03-16T07:01:17+00:00",
+      "summary": "【研究成果】がん患者が抱える倦怠感「がん関連疲労」に対し、 刺さない鍼治療「接触鍼法」が有効であることがわかりました。&nbsp;&nbsp;hiroshima-u.ac.jp",
       "sources": [
         {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/c37489410b78e8b877bc11aa827ec49cc72f0e86?source=rss"
+          "name": "hiroshima-u.ac.jp",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BT2tLSzNzaGZ0aHdCYmhrVVgxV3VBVTFFd0EweTBzTG85VWotckktc2k3QnVOcElZRlBndUh3ajRnWnl0dmZPRlR4clVzUmpPYUE?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        }
+      ]
     },
     {
-      "id": "ad418d058781",
-      "title": "「飲まなきゃいけない」を「好んで飲む」にどう変える？　“体に良い”だけでは続かない…“飲む酢”市場の転換点(オリコン)",
-      "published": "2026-03-16T00:30:00+00:00",
-      "summary": "健康志向の高まりとともに広がった“お酢ドリンク”市場が、転換期を迎えている。2021年頃に市場がピークを迎えた後、ブームで流入したライトユーザーの離脱などもあり、現在は縮小傾向にあるという。機能性飲",
+      "id": "f75f67fdba68",
+      "title": "【研究成果】肺がんに対する免疫治療が効かない理由の一部を解明 ICI治療とPAI‑1阻害薬の併用で治療効果向上の可能性",
+      "published": "2026-03-16T07:01:15+00:00",
+      "summary": "【研究成果】肺がんに対する免疫治療が効かない理由の一部を解明 ICI治療とPAI‑1阻害薬の併用で治療効果向上の可能性&nbsp;&nbsp;hiroshima-u.ac.jp",
+      "sources": [
+        {
+          "name": "hiroshima-u.ac.jp",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BLVRWSURwcFNoQUlNWm9wU1RNay1pVVE3SWRacllsT29HQVZySWdWMGhSQmNGczllSTlxU25kTFo1aDdzSWFkdTVFckFMTWlmbGc?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "71d700d8bae1",
+      "title": "《モダン中華料理店料理人＆料理研究家が教える》バリエ豊富な春のアレンジ茶漬けレシピ5品(女性セブンプラス)",
+      "published": "2026-03-16T07:00:00+00:00",
+      "summary": "手軽にできてサラサラと食べられる「お茶漬け」。のせる具や合わせるお茶、だしによって変幻自在なお茶漬けのアレンジレシピを、食通も唸るモダン中華店料理人＆料理研究家が「シン・茶漬け」として考案してくれた。",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/8165d3284c7f29fc7d52a7c459d014452b6cb70a?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/aeab2717d2493e89dec8d2f5fbf76dbc2269a731?source=rss"
         }
       ],
       "matched_keywords": []
@@ -32,12 +149,90 @@
     {
       "id": "ac7cb0cac32c",
       "title": "4月から定期接種化！産婦人科医・宋美玄先生に聞く「妊娠中にRSウイルスワクチンを接種したほうがいいのはなぜ？」",
-      "published": "2026-03-16T00:00:15+00:00",
+      "published": "2026-03-16T06:32:05+00:00",
       "summary": "4月から定期接種化！産婦人科医・宋美玄先生に聞く「妊娠中にRSウイルスワクチンを接種したほうがいいのはなぜ？」&nbsp;&nbsp;たまひよ【令和8年4月開始予定】〈妊婦のかた対象〉RSウイルス母子免疫ワクチン定期予防接種&nbsp;&nbsp;city.fukushima.fukushima.jp4月から「RSウイルスワクチン」の定期接種化 公費での支援により原則無料に 従来は費用負担がハードルに（テレビ静岡NEWS）&nbsp;&nbsp;Yahoo!ニュース4月から「RSウイルスワクチン」の定期接種化 公費での支援により原則無料に 従来は費用負担がハードルに&nbsp;&nbsp;FNNプライムオンライン",
       "sources": [
         {
           "name": "たまひよ",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44eVlFdVQ2WWhQeV9taTI4aXluVVNHcU1vbXpwV0prRXpHZGhXVDVMVkFjSjdUWlUxOHBPNkkydl9Na3Z6a2hoVGhCV2ZlVkd2UGlsekg3LS1Lb1NzOWJrMQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "8762c9b43abe",
+      "title": "さの健康21プラン（第3期計画）（佐野市健康増進計画・歯科保健基本計画・自殺対策計画）",
+      "published": "2026-03-16T05:54:10+00:00",
+      "summary": "さの健康21プラン（第3期計画）（佐野市健康増進計画・歯科保健基本計画・自殺対策計画）&nbsp;&nbsp;佐野市",
+      "sources": [
+        {
+          "name": "佐野市",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNU0hFWnpjRUxwcDFkVWFjejl4LU50eFFDNzNYdkotRFlDMFFKb1JoSVdTNkNWU3ZaZ19SaHVael9Ub3lmNHY4ZHYtOUxJTDlfUjRncnlaNXN0c2UzbUNwZkdYOFlXbXVGdjFKcTlKUndKUU1JMWZXMFpIMHM4YXpKVUJseFVZbWg5MkFJWXVSQ1Y?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "753eadb712e5",
+      "title": "多発性硬化症の診断精度を向上させる新たなMRI画像指標",
+      "published": "2026-03-16T05:25:44+00:00",
+      "summary": "多発性硬化症の診断精度を向上させる新たなMRI画像指標&nbsp;&nbsp;kyushu-u.ac.jp",
+      "sources": [
+        {
+          "name": "kyushu-u.ac.jp",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jWlh5WTZETWkyOEFHVkVRUVBLTm4wLVdrYmxsb01aZFBoOE03RVdMal95LXFtbUNuX1V0aHl6NGtGLUtISUI1WUUwNkF5a2FRQ0FLT21idEFsd1NKQkpJ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "ec6c6c053fb8",
+      "title": "月に住まうという研究の回答。資材は月にあるもの使いましょう(ギズモード・ジャパン)",
+      "published": "2026-03-16T03:00:02+00:00",
+      "summary": "これがいちばん未来の家。だって「月の砂」製だもの。 レゴリスというものをご存じですか？ 月の表面を覆う細かい砂や岩のことで、アメリカ航空宇宙局による「アポロ計画」が持ち帰ったサンプルをもとに詳しく分",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/d618a74ac0b9cd4e21b6657e8d273c127adebb88?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "2eef4833d8b2",
+      "title": "「ブラックホール」誕生解明の可能性も　天体に関する京都大学発、研究成果相次ぐ(京都新聞)",
+      "published": "2026-03-16T01:30:36+00:00",
+      "summary": "星が一生の最期に非常に明るく輝く現象「超新星爆発」など天体に関する京都大発の研究成果が近年、相次いでいる。昨年末にはブラックホールが誕生するメカニズム解明につながる発見の報告もあった。研究の最前線に",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/cdba48fc49951bce3486389230b5b9a6722dc605?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "74af183d5a59",
+      "title": "医学部医学科・磯崎講師の運動習慣と心臓性突然死に関する論文が『eClinicalMedicine』に掲載されました",
+      "published": "2026-03-16T01:24:44+00:00",
+      "summary": "医学部医学科・磯崎講師の運動習慣と心臓性突然死に関する論文が『eClinicalMedicine』に掲載されました&nbsp;&nbsp;u-tokai.ac.jp",
+      "sources": [
+        {
+          "name": "u-tokai.ac.jp",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByYVpWRGloYVFyYXlnZ2tMZGoyY2ZCRzFIZkdwUjBuWG52b0duSXhXZU04aE5KT09CUV9vdE0tTmp5d0xUalFRSkxrZUd4U1VEWFJBS2dRMkM3SVJlb3c?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "0017271e513f",
+      "title": "血液遺伝子発現データとAIでアルツハイマー病を早期に識別 インド - Science Portal Asia Pacific",
+      "published": "2026-03-16T01:08:33+00:00",
+      "summary": "血液遺伝子発現データとAIでアルツハイマー病を早期に識別 インド&nbsp;&nbsp;Science Portal Asia Pacific",
+      "sources": [
+        {
+          "name": "Science Portal Asia Pacific",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEOTlfME50a2hfd0FvVEs1SkswQTNiWTFDNEJYV2Y4ZnQwNnk2U0Vubkh3NllPcjNPOFo2cnVuck1OTXhMZklLalR5TTluRWh1THFzSWNrZzlPTUszc0dtdmRmNkwxQ015?oc=5"
         }
       ],
       "matched_keywords": []
@@ -51,32 +246,6 @@
         {
           "name": "QLifePro",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UTEc1czc1VkZvSzF1aVNaMGNlRVd3ZERyTkRpR1BwNGpDZnBZUXNyTEcwQ2U4Q2Z6Q015T2E0VGRRSjdVVm9kY3hROS1Zc09pZy1GZlNqY0ZFNExudUM4?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "e20fc3a452c0",
-      "title": "「急に老けた」「疲れて見える」は口の中から始まる。“唾液力”が落ちてしまう悪習慣(週刊SPA!)",
-      "published": "2026-03-15T23:54:03+00:00",
-      "summary": "40代を過ぎてから、なぜか「急に老けた」と感じる瞬間はありませんか。筋トレや肌のケアもしているはずなのに……。犯人は、“口”かもしれません。 唾液は、ただの消化液ではありません。細菌を抑え、炎症を防ぎ",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/a1651cc317c2f450718bf6048646f778debff02e?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "24bb10893162",
-      "title": "食べ物で遊ぶ、盛大にこぼす…「ママ友の子ども」の食事マナーが悪くて疲れてしまう人に伝えたいこと(女子SPA！)",
-      "published": "2026-03-15T23:46:28+00:00",
-      "summary": "こんにちは、食文化研究家のスギアカツキです。『食は人生を幸せにする』をモットーに、「一生モノの能力を養う食育」についてさまざまな実践法を提案しています。",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/74b9c11f0ec478b5505ffeadff1260d1b7b29f38?source=rss"
         }
       ],
       "matched_keywords": []
@@ -147,10 +316,10 @@
       "matched_keywords": []
     },
     {
-      "id": "4eea8cc5781b",
-      "title": "人間ドックの効果は？ 「異常疑い」放置せず対応を",
+      "id": "215686e2ef93",
+      "title": "人間ドックの効果は？ 「異常の疑い」あれば放置せず対応を",
       "published": "2026-03-15T20:00:00+00:00",
-      "summary": "人間ドックの効果は？ 「異常疑い」放置せず対応を&nbsp;&nbsp;日本経済新聞",
+      "summary": "人間ドックの効果は？ 「異常の疑い」あれば放置せず対応を&nbsp;&nbsp;日本経済新聞",
       "sources": [
         {
           "name": "日本経済新聞",
@@ -160,23 +329,10 @@
       "matched_keywords": []
     },
     {
-      "id": "31e84fc836b5",
-      "title": "日本人の腸内細菌叢、世界と異なる特徴は？｜医師向け医療ニュースはケアネット",
+      "id": "4d015eae545a",
+      "title": "うつ病診療ガイドライン、ゼロベースの改訂でどう変わったか｜医師向け医療ニュースはケアネット",
       "published": "2026-03-15T19:00:00+00:00",
-      "summary": "日本人の腸内細菌叢、世界と異なる特徴は？｜医師向け医療ニュースはケアネット&nbsp;&nbsp;CareNet.com",
-      "sources": [
-        {
-          "name": "CareNet.com",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BT0R3dzMwakJCdDZFTWZZdm5tbXNFZjFpZmJfRDNXb1NtTVk1Zk9yRzhLNExKbi1rTlBIcGVEYXh4d2JuUllmOWM3Vl9naHhzZmhDazFvbHp4UDNVQ21J?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "9d816fd657e6",
-      "title": "うつ病診療ガイドライン、ゼロベースの改訂でどう変わったか｜CareNet.com",
-      "published": "2026-03-15T19:00:00+00:00",
-      "summary": "うつ病診療ガイドライン、ゼロベースの改訂でどう変わったか｜CareNet.com&nbsp;&nbsp;CareNet.com",
+      "summary": "うつ病診療ガイドライン、ゼロベースの改訂でどう変わったか｜医師向け医療ニュースはケアネット&nbsp;&nbsp;CareNet.com",
       "sources": [
         {
           "name": "CareNet.com",
@@ -238,6 +394,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "ff05ae740e72",
+      "title": "1型糖尿病とCKD併存、フィネレノンがUACRを改善／NEJM｜医師向け医療ニュースはケアネット",
+      "published": "2026-03-15T19:00:00+00:00",
+      "summary": "1型糖尿病とCKD併存、フィネレノンがUACRを改善／NEJM｜医師向け医療ニュースはケアネット&nbsp;&nbsp;CareNet.com",
+      "sources": [
+        {
+          "name": "CareNet.com",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aQzBubWNGd2s3ckxqS21Ub3JpZEpSYmVRY3JvVWhwbHREZWR5eTFxSXFJRnNlcGE4MWlDLVhtUWFXejJxMUtkYmFZbGx6aW80eFdWLXM1TzN0dkVxSEtz?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "92fd7b7d09a4",
@@ -318,49 +487,17 @@
       "matched_keywords": []
     },
     {
-      "id": "4fab703a840c",
-      "title": "感染後1カ月で脳卒中リスク5倍！命取りになる「絶対NGな行動」",
-      "published": "2026-03-14T06:03:32+00:00",
-      "summary": "感染後1カ月で脳卒中リスク5倍！命取りになる「絶対NGな行動」&nbsp;&nbsp;apf.inc",
+      "id": "212cc4b72b5a",
+      "title": "サンデー毎日：新型コロナワクチン接種開始から5年。そして今、本格的な議論を始めよう。対談・大西隼×上島有加里 - 週刊エコノミスト Online",
+      "published": "2026-03-14T07:00:00+00:00",
+      "summary": "サンデー毎日：新型コロナワクチン接種開始から5年。そして今、本格的な議論を始めよう。対談・大西隼×上島有加里&nbsp;&nbsp;週刊エコノミスト Online【寄稿】ワクチンと向き合い続けて〈2〉 新聞の社説とクレーム | 日刊薬業 - 医薬品産業の総合情報サイト&nbsp;&nbsp;日刊薬業日本のワクチン接種施策の原点は「信頼の向上」&nbsp;&nbsp;Medical Tribune新型コロナワクチン接種開始から5年。そして今、本格的な議論を始めよう。対談・大西隼×上島有加里&nbsp;&nbsp;Yahoo!ニュース",
       "sources": [
         {
-          "name": "apf.inc",
-          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNek85NnhseU4zaFZGSURDZ1lpYW85Z0lNVXFwX1pxMnVzUDNQNFhBa1d2TXpmQThFYUVaakc5c1ZDTV9QMDJ2RE9zQ2xEc2lydjNiZENoaHFqcVQ0ZW42WFJZT3ZxcGl5VERKU21lNVdOQWJoQk1QaFVyRDJqVUVfUHpXRU1zdFVxN0R1NzNNLTRCOW1vYUZUVkR2eEs2WU8yNUx3T1VsSDQ3S1RnVXRmNzhQalk5eWlNT2RWa3FVd216aVpqVzZhUFlxcjhSRUp2aWR1ZGM4UUFJV1h6aFZCdTZEd29tTUFOVHRDUXhvNEM2b0ZoY0FCa3lFVDdtcF9ZSzJFQjdfWm4xRHMyek5UcGlkdzBMeUJfb2RwMnQ1MGN4ZTZ3NnRJNE81WS11bkgyLUJ4MFQ1S2NubkpUOHc?oc=5"
+          "name": "週刊エコノミスト Online",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04NTBCVWFSQmMwWmtKajFudjRZVXpHUlNGcTJfU1JRY0xwdEEydkt3eFR6UVlsWmpMazN3MlRRdTZ3QjFkNExJT2FFTFJNREJVRXBiOVVtdmVUWlZ3OHQxMVI2ZkhPT2JINk94eE5mSTFmRTFMVXVRMlRfNk1TTTQ?oc=5"
         }
       ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "脳卒中",
-          "related_drugs": [
-            {
-              "slug": "atorvastatin",
-              "name": "アトーゼット配合錠ＨＤ（選）"
-            },
-            {
-              "slug": "pravastatin",
-              "name": "メバロチン錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "simvastatin",
-              "name": "リポバス錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "エックスフォージ配合ＯＤ錠（選）"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "ミカムロ配合錠ＢＰ（選）"
-            },
-            {
-              "slug": "rosuvastatin",
-              "name": "クレストールＯＤ錠５ｍｇ（選）"
-            }
-          ]
-        }
-      ]
+      "matched_keywords": []
     },
     {
       "id": "26262aea119b",
@@ -805,19 +942,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "ecf7771b4939",
-      "title": "被ばくリスク、熱中症…福島原発内で診た「極限」　産業医大教授と東電専属医の縁、延べ1407人派遣(西日本新聞)",
-      "published": "2026-03-10T21:10:17+00:00",
-      "summary": "2011年3月、東京電力福島第1原発の構内は、放射線被ばくのリスクが高い「極限の労働環境」（関係者）に置かれた。史上最悪レベルの原子力災害から、作業員の命と健康をどう守るか－。奔走したのは東電の専属",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/255febcb0c21c26b4af73f025ec1e6df55448411?source=rss"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }

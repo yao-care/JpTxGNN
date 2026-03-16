@@ -1,7 +1,135 @@
 {
-  "generated": "2026-03-16T01:23:39.776041+00:00",
-  "count": 5,
+  "generated": "2026-03-16T07:05:46.952234+00:00",
+  "count": 6,
   "news": [
+    {
+      "id": "82966434252d",
+      "title": "【研究成果】がん患者が抱える倦怠感「がん関連疲労」に対し、 刺さない鍼治療「接触鍼法」が有効であることがわかりました。",
+      "published": "2026-03-16T07:01:17+00:00",
+      "sources": [
+        {
+          "name": "hiroshima-u.ac.jp",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BT2tLSzNzaGZ0aHdCYmhrVVgxV3VBVTFFd0EweTBzTG85VWotckktc2k3QnVOcElZRlBndUh3ajRnWnl0dmZPRlR4clVzUmpPYUE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f75f67fdba68",
+      "title": "【研究成果】肺がんに対する免疫治療が効かない理由の一部を解明 ICI治療とPAI‑1阻害薬の併用で治療効果向上の可能性",
+      "published": "2026-03-16T07:01:15+00:00",
+      "sources": [
+        {
+          "name": "hiroshima-u.ac.jp",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BLVRWSURwcFNoQUlNWm9wU1RNay1pVVE3SWRacllsT29HQVZySWdWMGhSQmNGczllSTlxU25kTFo1aDdzSWFkdTVFckFMTWlmbGc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "dc01911b9c38",
       "title": "急性期統合失調症、24種の抗精神病薬をネットワークメタ解析／Lancet｜CareNet.com",
@@ -37,50 +165,6 @@
             {
               "slug": "aripiprazole",
               "name": "エビリファイ錠１ｍｇ（選）"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4fab703a840c",
-      "title": "感染後1カ月で脳卒中リスク5倍！命取りになる「絶対NGな行動」",
-      "published": "2026-03-14T06:03:32+00:00",
-      "sources": [
-        {
-          "name": "apf.inc",
-          "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNek85NnhseU4zaFZGSURDZ1lpYW85Z0lNVXFwX1pxMnVzUDNQNFhBa1d2TXpmQThFYUVaakc5c1ZDTV9QMDJ2RE9zQ2xEc2lydjNiZENoaHFqcVQ0ZW42WFJZT3ZxcGl5VERKU21lNVdOQWJoQk1QaFVyRDJqVUVfUHpXRU1zdFVxN0R1NzNNLTRCOW1vYUZUVkR2eEs2WU8yNUx3T1VsSDQ3S1RnVXRmNzhQalk5eWlNT2RWa3FVd216aVpqVzZhUFlxcjhSRUp2aWR1ZGM4UUFJV1h6aFZCdTZEd29tTUFOVHRDUXhvNEM2b0ZoY0FCa3lFVDdtcF9ZSzJFQjdfWm4xRHMyek5UcGlkdzBMeUJfb2RwMnQ1MGN4ZTZ3NnRJNE81WS11bkgyLUJ4MFQ1S2NubkpUOHc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "脳卒中",
-          "related_drugs": [
-            {
-              "slug": "atorvastatin",
-              "name": "アトーゼット配合錠ＨＤ（選）"
-            },
-            {
-              "slug": "pravastatin",
-              "name": "メバロチン錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "simvastatin",
-              "name": "リポバス錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "エックスフォージ配合ＯＤ錠（選）"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "ミカムロ配合錠ＢＰ（選）"
-            },
-            {
-              "slug": "rosuvastatin",
-              "name": "クレストールＯＤ錠５ｍｇ（選）"
             }
           ]
         }
