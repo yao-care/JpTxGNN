@@ -1,7 +1,47 @@
 {
-  "generated": "2026-03-15T18:26:10.996361+00:00",
-  "count": 4,
+  "generated": "2026-03-16T01:23:39.776041+00:00",
+  "count": 5,
   "news": [
+    {
+      "id": "dc01911b9c38",
+      "title": "急性期統合失調症、24種の抗精神病薬をネットワークメタ解析／Lancet｜CareNet.com",
+      "published": "2026-03-15T19:00:00+00:00",
+      "sources": [
+        {
+          "name": "CareNet.com",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXTHFPQUhUSVY0VDN4TXRRaUUzb0s1TDZMZlp2VjlhTkVSV2RRUlpTT0hZZ2xYNjgzbXg1b3AyOW5welJqM1FMdzJvdU1yVjZOLVVNSGVYeEI0M2c5eFN3?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "schizophrenia",
+          "keyword": "統合失調症",
+          "related_drugs": [
+            {
+              "slug": "risperidone",
+              "name": "リスパダール錠２ｍｇ（選）"
+            },
+            {
+              "slug": "quetiapine",
+              "name": "セロクエル２００ｍｇ錠（選）"
+            },
+            {
+              "slug": "olanzapine",
+              "name": "ジプレキサザイディス錠２．５ｍｇ（選）"
+            },
+            {
+              "slug": "haloperidol",
+              "name": "セレネース錠３ｍｇ（選）"
+            },
+            {
+              "slug": "aripiprazole",
+              "name": "エビリファイ錠１ｍｇ（選）"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "4fab703a840c",
       "title": "感染後1カ月で脳卒中リスク5倍！命取りになる「絶対NGな行動」",
