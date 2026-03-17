@@ -1,10 +1,74 @@
 {
-  "generated": "2026-03-17T01:14:49.017482+00:00",
-  "count": 8,
+  "generated": "2026-03-17T06:53:23.493103+00:00",
+  "count": 11,
   "news": [
     {
-      "id": "1d6d91c84659",
-      "title": "がん患者の予後に影響する「糖尿病」―心血管疾患発症リスクを高める可能性｜医師向け医療ニュースはケアネット",
+      "id": "9c65e986b97a",
+      "title": "【訃報】「ドラえもん」などのアニメ作品を手掛けた監督・芝山努さん 『肺がん』の初期症状・末期症状を医師が解説(メディカルドック)",
+      "published": "2026-03-17T05:40:30+00:00",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/95a59903b68179ce5d6cc0d1ff64f2a6869387b8?source=rss"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f6f6e90b80df",
+      "title": "がん患者の予後に影響する「糖尿病」―心血管疾患発症リスクを高める可能性｜CareNet.com",
       "published": "2026-03-16T19:00:00+00:00",
       "sources": [
         {
@@ -381,6 +445,132 @@
       ]
     },
     {
+      "id": "ee5fa1439716",
+      "title": "乳がん検診を毎年受けても「早期発見」できない理由とは　専門医が教える検査の盲点",
+      "published": "2026-03-16T03:00:00+00:00",
+      "sources": [
+        {
+          "name": "ｄメニューニュース",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbzRnS1djcGcxTnFUU3QzSHZhaWNzcWg5VmhyckRrbHF0RHBkdzVLU2dIUFhZWF9lTlVkUElCWDRLcXFPcmppLVp1VDhFUzVoZlZhS1ZBRHdnbUhRR25CXzZVLTFaQjFORGV4NjRNd0UxZGZ3a2ladzRwR1VXbFZscF9B0gGHAUFVX3lxTE01YTBCNHBfckloT09RQ3NzUVRiVmpLUEY3ck9iX09EYjlrVVo5Q0ctR3FNLWZFVHA3S1ZzU2FVTGdteERoVkZveEJhYlczUm4ycHQtRFlIcVRQbi1JblF3R1R5a3dvZGdSY0dZa2xmdVZtZmFnUnQySzdGTXlOSHViUVY0bUJfSQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "癌",
+          "keyword": "癌",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "e57726e7d9dd",
       "title": "急性期統合失調症、24種の抗精神病薬をネットワークメタ解析／Lancet｜医師向け医療ニュースはケアネット",
       "published": "2026-03-15T19:00:00+00:00",
@@ -415,6 +605,30 @@
             {
               "slug": "aripiprazole",
               "name": "エビリファイ錠１ｍｇ（選）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "89e8a0c0c27e",
+      "title": "過小評価されている糖尿病合併症としての心不全の管理─アメリカ糖尿病学会",
+      "published": "2026-03-15T14:45:08+00:00",
+      "sources": [
+        {
+          "name": "日経メディカル",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcnZuYkNjeWd1S085eUpROXUycHlTNmswQnhCT0Qwd1Y2aTZNRlRxUUFVZHNzdFAwWV9pOHY2alNHNXJRZVVFbVJtSDVpemVfQ0M5YWpQQlU0aVBscDNrbGJ6ekRuMUlad1hWS0xyWDZYTmhRd3NDQVNQR1hrUjIzdDY0SHpwMDhTdkpzM2VR?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "heart failure",
+          "keyword": "心不全",
+          "related_drugs": [
+            {
+              "slug": "enalapril",
+              "name": "レニベース錠１０　１０ｍｇ（選）"
             }
           ]
         }
