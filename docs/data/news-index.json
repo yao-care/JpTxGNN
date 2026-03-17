@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-17T12:46:17.703131+00:00",
+  "generated": "2026-03-17T18:48:38.389739+00:00",
   "count": 10,
   "news": [
     {
@@ -153,6 +153,70 @@
       ]
     },
     {
+      "id": "a5822d9d972f",
+      "title": "余命を告げられた愛犬のために、彼はChatGPTを開いた——AI支援で進んだ個別化mRNAがんワクチン症例の記録",
+      "published": "2026-03-17T10:00:00+00:00",
+      "sources": [
+        {
+          "name": "innovaTopia",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXZkFadHJISnVIN1dLemM2VXdzU3B4YjlDWlRNNHIyRVp6SDB1ZWJXLWNtdExFdDV3RHpCZTVFYU5CNkd5dlRpYkFHbFNPa1ZLZUE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "81589799da72",
       "title": "自治体がん検診受診率 「胃」と「大腸」が6.7％ 肺は5.8％ 厚労省",
       "published": "2026-03-17T08:55:00+00:00",
@@ -211,50 +275,6 @@
             {
               "slug": "hydrocortisone",
               "name": "ヘモレックス軟膏"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "2f91b0c9ed64",
-      "title": "低濃度水素吸入が脳卒中後遺症を抑制する可能性 - PR TIMES",
-      "published": "2026-03-17T02:10:07+00:00",
-      "sources": [
-        {
-          "name": "PR TIMES",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jc0U0Zl9GZ2lDOEk3UlNvdThWQnhNUjhTVHU0Zm9OZG5uZGx6cnVCMGNBTDEzbnBFVnVtb0hLZEFrRnZxS1MtY1hmM0xWZFhldVVzdTdLZ0l5SkEzaEdLNUJ2V2liVi1OYnc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "脳卒中",
-          "related_drugs": [
-            {
-              "slug": "atorvastatin",
-              "name": "アトーゼット配合錠ＨＤ（選）"
-            },
-            {
-              "slug": "pravastatin",
-              "name": "メバロチン錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "simvastatin",
-              "name": "リポバス錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "エックスフォージ配合ＯＤ錠（選）"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "ミカムロ配合錠ＢＰ（選）"
-            },
-            {
-              "slug": "rosuvastatin",
-              "name": "クレストールＯＤ錠５ｍｇ（選）"
             }
           ]
         }
