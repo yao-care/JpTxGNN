@@ -1,8 +1,110 @@
 {
-  "last_updated": "2026-03-18T12:46:37.374473+00:00",
-  "total_count": 60,
-  "matched_count": 11,
+  "last_updated": "2026-03-18T18:45:12.922113+00:00",
+  "total_count": 55,
+  "matched_count": 10,
   "news": [
+    {
+      "id": "46fa18c6c0ec",
+      "title": "《倉敷成人病センター》毎月19日は「ピンクの日」！ 幅広い診療科を擁する病院の取り組みを紹介。乳がんの早期発見につなげよう。【PR】",
+      "published": "2026-03-18T15:00:56+00:00",
+      "summary": "《倉敷成人病センター》毎月19日は「ピンクの日」！ 幅広い診療科を擁する病院の取り組みを紹介。乳がんの早期発見につなげよう。【PR】&nbsp;&nbsp;Webタウン情報おかやま乳がん検診を毎年受けても「早期発見」できない理由とは 専門医が教える検査の盲点（PHPオンライン）&nbsp;&nbsp;Yahoo!ニュース「まだ大丈夫」が命取りに?マンモグラフィ未受診で死亡率40%上昇【米・最新研究】（ウィメンズヘルス）&nbsp;&nbsp;Yahoo!ニュース",
+      "sources": [
+        {
+          "name": "Webタウン情報おかやま",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9SWE9uT0FhaURUWGxxeU1vazRjckdHb0ZWUmdFOXRZLTFTVnBya2NucGZ1eHZoTkxMV3ZrREdQRm54eVpITWd4bmdoZEpIZWl3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "33df7ab7d4ca",
+      "title": "路面電車の運転士目線で事故のリスク学ぶ　嵐電とJAFが交通安全教室を開催(産経新聞)",
+      "published": "2026-03-18T14:12:22+00:00",
+      "summary": "路面電車の運転士の視点で運行時に起きやすい車などとの事故のリスクを学ぶ交通安全教室がこのほど、「嵐電」の通称で知られる京福電気鉄道の西院車庫（京都市中京区）で開催された。車と近い軌道敷を走り、すぐに停",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/03ddda838d25b932284dcf373a7fa43e832ecb9b?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "3d6f979ff81d",
+      "title": "新施設「BASEGATE横浜関内」キープレーヤーはDeNA？ スポーツ主軸の再開発で輝き取り戻す(All About)",
+      "published": "2026-03-18T12:50:00+00:00",
+      "summary": "今、JR関内駅前では再開発が進行しています。その先陣を切ったのが2026年3月19日オープンの「BASEGATE（ベースゲート）横浜関内」です。再開発によって、関内エリアはどのように変わろうとしている",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/544068f85bd7e1baf41c9dcbcc25b97402d6a106?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "91b0ba33d4b5",
       "title": "腸が悪いと歯も治らない？ 東北大がつながりを解明(ギズモード・ジャパン)",
@@ -17,87 +119,9 @@
       "matched_keywords": []
     },
     {
-      "id": "246cbe69f7c1",
-      "title": "【佐々木正美さんの教え】「よくできたね」ほめすぎは逆効果？ わが子の苦手を悪化させる親のNG行動(All About)",
-      "published": "2026-03-18T12:25:00+00:00",
-      "summary": "入園や入学、新学期。新しいクラスでの生活が始まると、「ほかの子よりできないことが多いのでは」と心配になる親も多いものです。 運動や勉強、人づきあい——わが子の「苦手」が気になり始めると、「このままで",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/29fc7143c8a9916a1f188fb804f553e7c8dc0373?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "35ed1212be20",
-      "title": "「こんな息子は母親の誇りだね」\"初公開フォト\"にコメント殺到。ウィリアム皇太子、母ダイアナ妃との「ツーショット」をシェア(Harper’s BAZAAR（ハーパーズ バザー）)",
-      "published": "2026-03-18T12:20:13+00:00",
-      "summary": "ウィリアム皇太子が先日、イギリスの母の日だった3月15日（現地時間）に、インスタグラムで母であるダイアナ元妃の秘蔵写真を新たにシェアした。その写真にうつるのは、花畑の中に座るダイアナ妃と、一面の花に目",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/0b249d97d6e936b7a26e36eed6776a3ab7f9c724?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "5fafeecf50e6",
-      "title": "一週間で効果、実証済み！【ぷるんぷるん二の腕のたるみ撃退】ほぐすだけでOKのお手軽エクサ(ヨガジャーナルオンライン)",
-      "published": "2026-03-18T12:05:00+00:00",
-      "summary": "「体重は増えていないのに二の腕だけ太くなった」「腕の後ろがぷよぷよして振袖みたい」「ノースリーブはもう何年も着ていない」こんな人、多いのではないでしょうか。今回は、夏に向けて二の腕痩せを目指したい人に",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/13f666b824508bd1bb1f3606436027e23ea1f465?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "e394d9a0f8d3",
-      "title": "30年体重をキープする研究家が語る「カレーをダイエット食に変える掟」。“カレー＝太る”は誤解だった！(OCEANS)",
-      "published": "2026-03-18T12:00:00+00:00",
-      "summary": "高カロリーの代表格と言われがちなカレー。ダメだと分かっていながら、ついルーを多めにしたり、ご飯もおかわりした経験は誰にでもあるはずだ。 しかし、スパイス料理研究家の一条もんこ氏は「カレーは太ると言わ",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/d6f94de2f952b41ba263d9ae989476a5cf6b0798?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "43a4e8426a08",
-      "title": "「この人でいいのかな…」社会人年上彼氏との結婚に踏み切れない大学生へのアドバイス続々(TOKYO FM＋)",
-      "published": "2026-03-18T11:50:42+00:00",
-      "summary": "フリーアナウンサーの住吉美紀がパーソナリティをつとめるTOKYO FMの生ワイドラジオ番組「Blue Ocean」（毎週月曜～金曜 9:00～11:00）。毎週金曜日に放送しているコーナー「沢井製薬",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/a5ded2483a96432ae120dc8cc868d86529f04713?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "ddcbc11fd52c",
-      "title": "りんごvsバナナ、毎日食べるならどっち？ 栄養士が解説(ELLE DIGITAL)",
-      "published": "2026-03-18T11:50:02+00:00",
-      "summary": "※この記事は、海外のサイト『Prevention』で掲載されたものの翻訳版です。データや研究結果はすべてオリジナル記事によるものです。 アメリカでは果物の一日の推奨摂取量を満たしている成人はたった",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/c573a72c97747c49799711a15f3725cae89c3451?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "6130e52e5057",
       "title": "肺高血圧症の新規発症・進展メカニズムの解明―新規治療法の開発につながる可能性―",
-      "published": "2026-03-18T07:20:48+00:00",
+      "published": "2026-03-18T12:00:00+00:00",
       "summary": "肺高血圧症の新規発症・進展メカニズムの解明―新規治療法の開発につながる可能性―&nbsp;&nbsp;京都大学",
       "sources": [
         {
@@ -292,19 +316,6 @@
       ]
     },
     {
-      "id": "894a0e786c7e",
-      "title": "英南東部で侵襲性髄膜炎の集団感染、高校生と大学生が死亡",
-      "published": "2026-03-18T04:09:10+00:00",
-      "summary": "英南東部で侵襲性髄膜炎の集団感染、高校生と大学生が死亡&nbsp;&nbsp;BBCGoogle ニュースですべての記事を見る",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95TFp1eVp0WkgwUE9acmpHWElkN0daU2NTWEhvRDc2VzhiRHV6czRBenhQNU9ybWhmZWgxRmZTeF94V1ktdDN6dndpelp0VEFobXFGTXViaWYxRElyY1ZN0gFkQVVfeXFMUHZNeHpwTGJhcG41MkhHOVhnYVVyTnVKMmdwemtWc1Z0ZldXaDJNSG5nVUN0MFlORmYtazYyYXRYdHJWelk4MTRCNDRQT2ZHczl1MGhQMHVVLXhkc0sxQk45UWhaSQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "5f5db48eb07b",
       "title": "新型出生前診断（NIPT）の陽性率は年齢で変わる？ 結果を正しく理解するための3つの判断基準を医師が解説(メディカルドック)",
       "published": "2026-03-18T03:05:02+00:00",
@@ -321,7 +332,7 @@
       "id": "cf90f0de5e50",
       "title": "【妊婦対象】RSウイルス母子免疫ワクチン定期予防接種のお知らせ",
       "published": "2026-03-18T02:59:39+00:00",
-      "summary": "【妊婦対象】RSウイルス母子免疫ワクチン定期予防接種のお知らせ&nbsp;&nbsp;city.usuki.oita.jp生まれてくる子どもへの贈り物！RSウイルスワクチンの無料定期接種化へ「接種しないという選択肢はない」&nbsp;&nbsp;ｄメニューニュース【令和8年4月開始予定】〈妊婦のかた対象〉RSウイルス母子免疫ワクチン定期予防接種&nbsp;&nbsp;city.fukushima.fukushima.jp4月から「RSウイルスワクチン」の定期接種化 公費での支援により原則無料に 従来は費用負担がハードルに（テレビ静岡NEWS）&nbsp;&nbsp;Yahoo!ニュース4月から「RSウイルスワクチン」の定期接種化 公費での支援により原則無料に 従来は費用負担がハードルに&nbsp;&nbsp;FNNプライムオンライン",
+      "summary": "【妊婦対象】RSウイルス母子免疫ワクチン定期予防接種のお知らせ&nbsp;&nbsp;city.usuki.oita.jp",
       "sources": [
         {
           "name": "city.usuki.oita.jp",
@@ -437,7 +448,7 @@
       "id": "812a40508ae4",
       "title": "1日2～3杯のカフェイン入りコーヒーで認知症リスクが低下？ 米ハーバード大などが医学誌で発表：Innovative Tech",
       "published": "2026-03-17T23:00:00+00:00",
-      "summary": "1日2～3杯のカフェイン入りコーヒーで認知症リスクが低下？ 米ハーバード大などが医学誌で発表：Innovative Tech&nbsp;&nbsp;ITmedia1日2～3杯のカフェイン入りコーヒーで認知症リスクが低下？ 米ハーバード大などが医学誌で発表（ITmedia NEWS）&nbsp;&nbsp;Yahoo!ニュース1日2杯で「糖尿病・肝臓病・腎臓病」リスクが下がる《すごい飲み物》とは？【コンビニで買える】&nbsp;&nbsp;ダイヤモンド・オンライン認知症への秘密兵器はコーヒー。 米ハーバード大学研究チームが明かす、正しい摂取量とは。&nbsp;&nbsp;madameFIGARO.jpコーヒーや紅茶を飲む人は「認知症リスクが50％以上低い」可能性&nbsp;&nbsp;Forbes JAPAN",
+      "summary": "1日2～3杯のカフェイン入りコーヒーで認知症リスクが低下？ 米ハーバード大などが医学誌で発表：Innovative Tech&nbsp;&nbsp;ITmedia",
       "sources": [
         {
           "name": "ITmedia",
@@ -703,82 +714,6 @@
       ]
     },
     {
-      "id": "71958cad5660",
-      "title": "マンモグラフィで「がん」が“見逃されやすい人”の特徴とは？ 発見の対策を医師が解説",
-      "published": "2026-03-17T10:02:37+00:00",
-      "summary": "マンモグラフィで「がん」が“見逃されやすい人”の特徴とは？ 発見の対策を医師が解説&nbsp;&nbsp;メディカルドック乳がん検診を毎年受けても「早期発見」できない理由とは 専門医が教える検査の盲点（PHPオンライン）&nbsp;&nbsp;Yahoo!ニュース乳がん検診を毎年受けても「早期発見」できない理由とは 専門医が教える検査の盲点&nbsp;&nbsp;ｄメニューニュース「まだ大丈夫」が命取りに?マンモグラフィ未受診で死亡率40%上昇【米・最新研究】（ウィメンズヘルス）&nbsp;&nbsp;Yahoo!ニュース",
-      "sources": [
-        {
-          "name": "メディカルドック",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE92VXJOMUtETkljZHBsSFdVQ2JUYkhkV2lEVEJnWEk3TjZRZ200cFV2dVhhMG5LWWtvb3NIbm9zNnNmR0F2T1VmSlNOZ3NxT0hHRHl0a0JwOWE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "がん",
-          "related_drugs": [
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "ゼローダ錠３００　３００ｍｇ（選）"
-            },
-            {
-              "slug": "propranolol",
-              "name": "インデラル錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "imatinib",
-              "name": "グリベック錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳がん",
-          "related_drugs": [
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "a5822d9d972f",
       "title": "余命を告げられた愛犬のために、彼はChatGPTを開いた——AI支援で進んだ個別化mRNAがんワクチン症例の記録",
       "published": "2026-03-17T10:00:00+00:00",
@@ -852,19 +787,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/6e6b98ce38ca804f2df18dbf80a294c3eb44380e?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "aa0ddd77e4d3",
-      "title": "都内ではしか患者が急増、飲食店で集団感染も 都が注意を呼びかけ [東京都]",
-      "published": "2026-03-17T09:30:00+00:00",
-      "summary": "都内ではしか患者が急増、飲食店で集団感染も 都が注意を呼びかけ [東京都]&nbsp;&nbsp;朝日新聞都内ではしか患者が急増、飲食店で集団感染も 都が注意を呼びかけ（朝日新聞）&nbsp;&nbsp;Yahoo!ニュース今年のはしか患者計１００人に&nbsp;&nbsp;沖縄タイムス社はしか、今年計１００人に&nbsp;&nbsp;中国新聞デジタルはしか感染者数100人、前年同期比4倍以上に 海外から入ったウイルスに感染か 2020年以降最多&nbsp;&nbsp;FNNプライムオンライン",
-      "sources": [
-        {
-          "name": "朝日新聞",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdHY3LUl2ckZURk8xM2tsTUFpeU9BMjJLYTFxZnQ3bHotNkk4SlotMzlwNG5FakpFNk1ZNDdTbmVzNTdaXzN2dFFvcXFOMHdxdEdtYVhsaUIyWlVBYmxlNkFjQXNPVW04VWFDVUlialV1MHdQYWp6a0YxaExtWm14dUxTZDk?oc=5"
         }
       ],
       "matched_keywords": []
@@ -956,6 +878,19 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/0aee13688a873170c859acb648e63ad608df4d83?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "e500f9c9419d",
+      "title": "生活習慣病の専門医が警鐘…「40代以上の4人に1人が糖尿病患者」の日本人に今こそ必要な“食べ方”(プレジデントオンライン)",
+      "published": "2026-03-17T07:15:00+00:00",
+      "summary": "生活習慣病の専門医が警鐘…「40代以上の4人に1人が糖尿病患者」の日本人に今こそ必要な“食べ方”(プレジデントオンライン)&nbsp;&nbsp;Yahoo!ファイナンスGoogle ニュースですべての記事を見る",
+      "sources": [
+        {
+          "name": "Yahoo!ファイナンス",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZm85WlUwTzYyakNrZWV3aG0yZ05YZjQzWl9CU0ZwbUY4NDRTdUtJWXVEeVlYZHV1OEFScWRUZmV5ZkpBSnk5X196UWtrVVBaQm9yQ2Z0T0Y5V3hzdzBTbFNWSzNxanFtNE0wRWY5ME1TaGlpaGFrdzBaT2lvenM2VFpuM0VSLUk?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1130,6 +1065,19 @@
       "matched_keywords": []
     },
     {
+      "id": "ac7cb0cac32c",
+      "title": "4月から定期接種化！産婦人科医・宋美玄先生に聞く「妊娠中にRSウイルスワクチンを接種したほうがいいのはなぜ？」",
+      "published": "2026-03-16T23:55:50+00:00",
+      "summary": "4月から定期接種化！産婦人科医・宋美玄先生に聞く「妊娠中にRSウイルスワクチンを接種したほうがいいのはなぜ？」&nbsp;&nbsp;たまひよ【令和8年4月開始予定】〈妊婦のかた対象〉RSウイルス母子免疫ワクチン定期予防接種&nbsp;&nbsp;city.fukushima.fukushima.jp4月から「RSウイルスワクチン」の定期接種化 公費での支援により原則無料に 従来は費用負担がハードルに&nbsp;&nbsp;FNNプライムオンライン4月から「RSウイルスワクチン」の定期接種化 公費での支援により原則無料に 従来は費用負担がハードルに（テレビ静岡NEWS）&nbsp;&nbsp;Yahoo!ニュース",
+      "sources": [
+        {
+          "name": "たまひよ",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44eVlFdVQ2WWhQeV9taTI4aXluVVNHcU1vbXpwV0prRXpHZGhXVDVMVkFjSjdUWlUxOHBPNkkydl9Na3Z6a2hoVGhCV2ZlVkd2UGlsekg3LS1Lb1NzOWJrMQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "940423249fae",
       "title": "小惑星リュウグウの試料から核酸の塩基5種全て発見　地球の生命の材料、宇宙飛来説を補強(産経新聞)",
       "published": "2026-03-16T22:22:08+00:00",
@@ -1143,10 +1091,10 @@
       "matched_keywords": []
     },
     {
-      "id": "ee347eba9b03",
-      "title": "日本の実臨床における片頭痛予防薬CGRP関連抗体の治療継続率は｜医師向け医療ニュースはケアネット",
+      "id": "03d20490dac2",
+      "title": "日本の実臨床における片頭痛予防薬CGRP関連抗体の治療継続率は｜CareNet.com",
       "published": "2026-03-16T19:00:00+00:00",
-      "summary": "日本の実臨床における片頭痛予防薬CGRP関連抗体の治療継続率は｜医師向け医療ニュースはケアネット&nbsp;&nbsp;CareNet.com",
+      "summary": "日本の実臨床における片頭痛予防薬CGRP関連抗体の治療継続率は｜CareNet.com&nbsp;&nbsp;CareNet.com",
       "sources": [
         {
           "name": "CareNet.com",
@@ -1154,35 +1102,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "c29cc8016d15",
-      "title": "米脂質異常症ガイドライン改訂、治療目標値復活",
-      "published": "2026-03-16T14:45:06+00:00",
-      "summary": "米脂質異常症ガイドライン改訂、治療目標値復活&nbsp;&nbsp;日経メディカル",
-      "sources": [
-        {
-          "name": "日経メディカル",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sejJ6V3dGZWs3SmdmSVlfVEFZYWtvX2dWU0JwdFJEcnZlVVEwV21lRlIyM0JlNDI4Mm5jOG5nVU1YMGhZaHNBTERjU1lhRnFGQWc1UnYyb0pSdzZVX0N6cUdYVFpseV9iQl84VDJuLWNaSDBOWHBZYVZHekxJNkE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "hyperlipidemia",
-          "keyword": "脂質異常症",
-          "related_drugs": [
-            {
-              "slug": "ezetimibe",
-              "name": "ゼチーア錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "fenofibrate",
-              "name": "トライコア錠８０ｍｇ（選）"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "f115d59b3243",
