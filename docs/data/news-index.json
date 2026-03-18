@@ -1,35 +1,11 @@
 {
-  "generated": "2026-03-18T06:51:49.853764+00:00",
-  "count": 13,
+  "generated": "2026-03-18T12:46:37.376457+00:00",
+  "count": 11,
   "news": [
-    {
-      "id": "269595eacd87",
-      "title": "iPS細胞使用の再生医療製品、国が初めて承認 心不全などで増える選択肢(Science Portal)",
-      "published": "2026-03-18T06:47:55+00:00",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/ea3e6315826258f9a757be24714a7cd7c213548c?source=rss"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "heart failure",
-          "keyword": "心不全",
-          "related_drugs": [
-            {
-              "slug": "enalapril",
-              "name": "レニベース錠１０　１０ｍｇ（選）"
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "6130e52e5057",
       "title": "肺高血圧症の新規発症・進展メカニズムの解明―新規治療法の開発につながる可能性―",
-      "published": "2026-03-18T03:51:37+00:00",
+      "published": "2026-03-18T07:20:48+00:00",
       "sources": [
         {
           "name": "京都大学",
@@ -192,6 +168,30 @@
             {
               "slug": "losartan",
               "name": "ニューロタン錠５０ｍｇ（選）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "269595eacd87",
+      "title": "iPS細胞使用の再生医療製品、国が初めて承認 心不全などで増える選択肢(Science Portal)",
+      "published": "2026-03-18T06:47:55+00:00",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/ea3e6315826258f9a757be24714a7cd7c213548c?source=rss"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "heart failure",
+          "keyword": "心不全",
+          "related_drugs": [
+            {
+              "slug": "enalapril",
+              "name": "レニベース錠１０　１０ｍｇ（選）"
             }
           ]
         }
@@ -674,134 +674,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/8a39fcd6ffe19a09fc0e65a113e697d0e1ca6d73?source=rss"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "がん",
-          "related_drugs": [
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "ゼローダ錠３００　３００ｍｇ（選）"
-            },
-            {
-              "slug": "propranolol",
-              "name": "インデラル錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "imatinib",
-              "name": "グリベック錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "82966434252d",
-      "title": "【研究成果】がん患者が抱える倦怠感「がん関連疲労」に対し、 刺さない鍼治療「接触鍼法」が有効であることがわかりました。",
-      "published": "2026-03-16T07:01:29+00:00",
-      "sources": [
-        {
-          "name": "hiroshima-u.ac.jp",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BT2tLSzNzaGZ0aHdCYmhrVVgxV3VBVTFFd0EweTBzTG85VWotckktc2k3QnVOcElZRlBndUh3ajRnWnl0dmZPRlR4clVzUmpPYUE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "がん",
-          "related_drugs": [
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "ゼローダ錠３００　３００ｍｇ（選）"
-            },
-            {
-              "slug": "propranolol",
-              "name": "インデラル錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "imatinib",
-              "name": "グリベック錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f75f67fdba68",
-      "title": "【研究成果】肺がんに対する免疫治療が効かない理由の一部を解明 ICI治療とPAI‑1阻害薬の併用で治療効果向上の可能性",
-      "published": "2026-03-16T07:01:29+00:00",
-      "sources": [
-        {
-          "name": "hiroshima-u.ac.jp",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BLVRWSURwcFNoQUlNWm9wU1RNay1pVVE3SWRacllsT29HQVZySWdWMGhSQmNGczllSTlxU25kTFo1aDdzSWFkdTVFckFMTWlmbGc?oc=5"
         }
       ],
       "keywords": [
