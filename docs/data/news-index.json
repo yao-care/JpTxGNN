@@ -1,7 +1,206 @@
 {
-  "generated": "2026-03-17T18:48:38.389739+00:00",
-  "count": 10,
+  "generated": "2026-03-18T01:18:33.881096+00:00",
+  "count": 13,
   "news": [
+    {
+      "id": "3ea989bc6d03",
+      "title": "AI解析で浮かび上がるCOVID-19・インフルエンザ・RSVの免疫応答の違い - The Medical AI Times",
+      "published": "2026-03-18T01:00:00+00:00",
+      "sources": [
+        {
+          "name": "The Medical AI Times",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE42UWhXVE9PZGRsTlZ6UnFaS09hbVI4cDB5b21xUU85MWZhNXBGRHJnR1R2VjdIVDRNLThRV19BMlN1dTdqY0V0cWgzYWlmams5?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "influenza",
+          "keyword": "インフルエンザ",
+          "related_drugs": [
+            {
+              "slug": "oseltamivir",
+              "name": "タミフルドライシロップ３％（選）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a5ec82b3e0d0",
+      "title": "非対称な渦巻腕を伸ばした銀河「NGC 2442」のクローズアップ　ハッブル宇宙望遠鏡が観測(sorae 宇宙へのポータルサイト)",
+      "published": "2026-03-17T21:00:14+00:00",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/0cac21334586e9c7bd329f5167de0c27ac9a07d1?source=rss"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e9551ba2dbe5",
+      "title": "セリチニブとCYP3A基質薬剤21成分との併用禁忌に 抗てんかん剤５成分の運転制限は緩和 添付文書改訂",
+      "published": "2026-03-17T19:50:00+00:00",
+      "sources": [
+        {
+          "name": "ミクスOnline",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5VeW5jV3FPdDlzaWxiQ3IzX3FxSTcwTjFoaklmVkdaQW9MMld0QXJ3cGpTSENyZVlDQWlWZWV2bE5EOHM4N0l3NzR0bjNnWW0xX2RBZDg0TXpObHNZVXc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "epilepsy",
+          "keyword": "てんかん",
+          "related_drugs": [
+            {
+              "slug": "valproic-acid",
+              "name": "セレニカＲ顆粒４０％（選）"
+            },
+            {
+              "slug": "carbamazepine",
+              "name": "テグレトール錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "diazepam",
+              "name": "ホリゾン錠５ｍｇ（選）"
+            },
+            {
+              "slug": "lamotrigine",
+              "name": "ラミクタール錠２５ｍｇ（選）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37f144317fd5",
+      "title": "乳がん周術期化学療法後に長期持続する有害事象、患者報告アウトカムで明らかに～日本の前向き研究",
+      "published": "2026-03-17T19:00:00+00:00",
+      "sources": [
+        {
+          "name": "CareNet.com",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YbmFKcVZoVWl1V2RYTS1RVFF6MDNwUGVzMXRaSWQ0Y0NnMmZ2UnRsZkhoRGF3ZV9hZEhCYmxMWEtsVGw2Y3NQSVktaWVtMlRaVjhIdGhvaEk2WFAxWDY4?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "a2a3780ca19a",
       "title": "『胃がん』の初期症状は無自覚？ 手遅れになる前に知りたいサインと「胃カメラ」の重要性(メディカルドック)",
@@ -653,46 +852,6 @@
             {
               "slug": "hydrocortisone",
               "name": "ヘモレックス軟膏"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "e57726e7d9dd",
-      "title": "急性期統合失調症、24種の抗精神病薬をネットワークメタ解析／Lancet｜医師向け医療ニュースはケアネット",
-      "published": "2026-03-15T19:00:00+00:00",
-      "sources": [
-        {
-          "name": "CareNet.com",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXTHFPQUhUSVY0VDN4TXRRaUUzb0s1TDZMZlp2VjlhTkVSV2RRUlpTT0hZZ2xYNjgzbXg1b3AyOW5welJqM1FMdzJvdU1yVjZOLVVNSGVYeEI0M2c5eFN3?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "schizophrenia",
-          "keyword": "統合失調症",
-          "related_drugs": [
-            {
-              "slug": "risperidone",
-              "name": "リスパダール錠２ｍｇ（選）"
-            },
-            {
-              "slug": "quetiapine",
-              "name": "セロクエル２００ｍｇ錠（選）"
-            },
-            {
-              "slug": "olanzapine",
-              "name": "ジプレキサザイディス錠２．５ｍｇ（選）"
-            },
-            {
-              "slug": "haloperidol",
-              "name": "セレネース錠３ｍｇ（選）"
-            },
-            {
-              "slug": "aripiprazole",
-              "name": "エビリファイ錠１ｍｇ（選）"
             }
           ]
         }
