@@ -1,8 +1,112 @@
 {
-  "last_updated": "2026-03-19T12:40:23.103102+00:00",
+  "last_updated": "2026-03-19T18:42:42.766724+00:00",
   "total_count": 55,
-  "matched_count": 11,
+  "matched_count": 12,
   "news": [
+    {
+      "id": "1ba3e366cab6",
+      "title": "「もの忘れ？」それとも認知症？大人が知っておきたい見分け方のポイント(Web eclat)",
+      "published": "2026-03-19T13:10:10+00:00",
+      "summary": "40歳を過ぎた頃から「もの忘れ」がひどくなったと思うことはありませんか？ 更年期のクリニックにも「もの忘れ」や「集中力の低下」などを感じて、これは更年期？ ひょっとして認知症では？ と心配になって来院",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/95654edd4d7e30ff556e8650eb4c844eac95d3f3?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "cc03d3d41816",
+      "title": "両親が日本人なのに「どこのハーフ？」とよく聞かれる女性→“奇跡”の姿に「うらやましい！」「遺伝子に感謝ですね」(ねとらぼ)",
+      "published": "2026-03-19T13:10:00+00:00",
+      "summary": "「どこのハーフ？」とよく聞かれるという女性の自撮り写真が「うらやましい！」「きれい」とThreadsで話題です。父譲りのパーツが反響を呼び、投稿は記事執筆時点で16万回以上表示されています。 は",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/a61f8dbef9c90ace41daa37d32bd05e9a8fedc11?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "e775ead0bece",
+      "title": "「もうがんばれない」結婚まで約束した彼がお金を持ち逃げ→昼夜バイトで返済に明け暮れた末のあられもない姿【作者に聞く】(ウォーカープラス)",
+      "published": "2026-03-19T13:04:48+00:00",
+      "summary": "20代女性の部屋とは思えない汚部屋の真ん中。そこに仰向けに寝転び、「もうがんばれない」とつぶやくのが本作のヒロイン・甘藤しおりだ。絵に描いたような不幸のどん底に突き落とされた彼女の姿から、物語は幕を開",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/5f7118d27c4698f5e2397915e163be4cb291f4d1?source=rss"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37c5323f1fb7",
+      "title": "美容のプロたちの「やめられないスキンケア」 続けていると「実感できた」名品(GISELe)",
+      "published": "2026-03-19T12:52:00+00:00",
+      "summary": "続けていると「実感できた」スキンケアアイテム メイクはできるだけ軽やかに、くずれとは無縁で過ごしたい。そのためには、そもそもの土台をしっかり整えることが最重要。そこで、コスメ研究に余念のない、美容通",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/1460bc58f773c59cb3df6f158a6477cc776002df?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "f161413f7907",
       "title": "【モデル・ソンイ】「呼吸がおかしい…」生後2カ月の娘が緊急搬送。低月齢での感染症の怖さを経験しているからこそ今伝えたいこととは（RSウイルス感染症）",
@@ -12,110 +116,6 @@
         {
           "name": "たまひよ",
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1jZXJWSDBEZ2llSFRCZVNobFBiM1dDQWtKZXctREFoMDRRWV9tSThSZWZPMEhpdUJQcWZBZExINXR4Q0RySzU0RzJVVTJ5eS1tRm9ENW1Bb2hKb2dwRmc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "02a32e98c58a",
-      "title": "五輪銅メダリストが世界に「浮気しました」を公開謝罪も逆効果。元恋人が怒りの声明【海外】(ウィメンズヘルス)",
-      "published": "2026-03-19T12:10:37+00:00",
-      "summary": "2026年ミラノ・コルティナダンペッツォ冬季五輪で、ノルウェーのバイアスロン選手、ストゥルラ・ホルム・ラグライデが世間を騒がせた。 事の発端は、2月10日（火）に行われた男子20km個人種目で、彼が銅",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/f58a61dadabb98045209b9e629a10f100762f6e9?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "abddc97ba784",
-      "title": "「1日3食」は食べすぎ！？医師がすすめる「16時間断食」の驚きの効果(Web eclat)",
-      "published": "2026-03-19T12:10:10+00:00",
-      "summary": "ぽっこりお腹や生活習慣病が気になりつつ、どうしても食べすぎてしまう…という人におすすめなのが「16時間断食」。肥満も病気も撃退できるという、そのメソッドとは？",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/a43091e022a770be09675be989e18f17225babc6?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "a13c222118a7",
-      "title": "56歳女性、ダイエット薬の噂を否定。2つの単純な習慣で「全盛期の体型」に激変【英】(ウィメンズヘルス)",
-      "published": "2026-03-19T12:00:02+00:00",
-      "summary": "男爵夫人の称号を持ち、ビジネスリーダーとしても知られるカレン・ブラディ（56歳）は、早朝の時間を利用してトレーニングに励むことで、健康的でエネルギッシュなライフスタイルを維持している。 「朝を正しく",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/d018c66f89cdb55bf573edb8fe465c51252a985d?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "4388351a03f8",
-      "title": "カレーに入れると美味しい「意外な具材」は？ 家カレーのマンネリ化に悩む相談者へのアドバイス続々(TOKYO FM＋)",
-      "published": "2026-03-19T11:50:45+00:00",
-      "summary": "フリーアナウンサーの住吉美紀がパーソナリティをつとめるTOKYO FMの生ワイドラジオ番組「Blue Ocean」（毎週月曜～金曜 9:00～11:00）。毎週金曜日に放送しているコーナー「沢井製薬",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/5c0e2536ea9e8a59a6e0c9764ae54e56bbd022c3?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "3cb4132cc05a",
-      "title": "「前頂」のツボは体内の熱によって起こるめまい、鼻水、鼻づまり、目の痛みを軽減します(家庭画報.com)",
-      "published": "2026-03-19T11:50:14+00:00",
-      "summary": "中医学のエキスパートである鍼灸師の兵頭 明先生が、ツボの効能や位置、効くメカニズムを解説します。健康の土台作りに、不調改善に、1日1分のツボ押しを習慣にしましょう。",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/bf238ef7da5659fc5decaf05df61f9be16f98679?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "2d5525438faa",
-      "title": "「すごすぎ」無印の“1990円”ガードルを履いたら……　想像以上の変化に「この値段でこんなに効果あるの」「リピ確定」(ねとらぼ)",
-      "published": "2026-03-19T11:50:00+00:00",
-      "summary": "春の足音が近づくなか、これからの季節のファッションにぴったりな無印良品のアイテムがX（Twitter）で話題に。「私のための商品かと思いました」「天才？」「この値段でこんなに効果あるの凄い」といった",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/bd0580fc208cebe0ab167eb74c373ce2b1278959?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "b7703769fb89",
-      "title": "【日本大学】全国約60施設・500例の無作為化比較試験「PERSIST-PWI Trial」を日本大学が主導— 持続性心房細動に対するパルスフィールドアブレーション治療で“後壁隔離を追加すべきか”を検証",
-      "published": "2026-03-19T11:09:38+00:00",
-      "summary": "【日本大学】全国約60施設・500例の無作為化比較試験「PERSIST-PWI Trial」を日本大学が主導— 持続性心房細動に対するパルスフィールドアブレーション治療で“後壁隔離を追加すべきか”を検証&nbsp;&nbsp;河北新報オンライン",
-      "sources": [
-        {
-          "name": "河北新報オンライン",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Ec3NXTjJZZ0NRLTdIY3hGS1czdWp6dnI5bWpFNFJhZFBmX0JReFd4QXVLSU9odklNRkQ5TU9CeFBBOHhwbEkxZElPdnpjREx6b29uaQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "19cc26fc89fc",
-      "title": "食後眠くなる人 隠れ糖尿病?",
-      "published": "2026-03-19T10:05:57+00:00",
-      "summary": "食後眠くなる人 隠れ糖尿病?&nbsp;&nbsp;ニフティニュース血管も､内臓も､皮膚も､骨も､歯もボロボロに老化させる\"血糖値スパイク\"が認知症につながる医学的根拠&nbsp;&nbsp;PRESIDENT Online（プレジデントオンライン）糖類総摂取量が多い女性、認知症リスクが約1.5倍に&nbsp;&nbsp;日経ビジネス電子版女性は糖類のとり過ぎで認知症発症リスクが上がる可能性（日経グッデイ）&nbsp;&nbsp;Yahoo!ニュース食事のたびに老化が進む？ 糖化の真犯人はアルデヒドだった&nbsp;&nbsp;日経ビジネス電子版",
-      "sources": [
-        {
-          "name": "ニフティニュース",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5tVFduQVpWdWpYYmJZei1lUVd2RTdfMWRmVFpfa3UyZDhXckhPY3VjSEtITGtjQU0za28tRERfSlRuWVJETFRjTmtKUUh5WEJ2ZjN3S291LTdPQWVoWTgzNDVsRmVEZw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -150,11 +150,24 @@
       "id": "68e504453b75",
       "title": "5位は糖尿病、2位は運動不足…研究で「日本人の認知症の原因」1位だとわかった\"意外な要素\"(プレジデントオンライン)",
       "published": "2026-03-19T09:15:00+00:00",
-      "summary": "5位は糖尿病、2位は運動不足…研究で「日本人の認知症の原因」1位だとわかった\"意外な要素\"(プレジデントオンライン)&nbsp;&nbsp;Yahoo!ファイナンス認知症患者の暴言・徘徊が減った「音」の正体&nbsp;&nbsp;現代ビジネス5位は糖尿病､2位は運動不足…研究で｢日本人の認知症の原因｣1位だとわかった\"意外な要素\" (2ページ目)&nbsp;&nbsp;PRESIDENT Online（プレジデントオンライン）暴言や徘徊が減った理由は「音」にあった！認知症予防の常識を変える新技術の正体&nbsp;&nbsp;現代ビジネス",
+      "summary": "5位は糖尿病、2位は運動不足…研究で「日本人の認知症の原因」1位だとわかった\"意外な要素\"(プレジデントオンライン)&nbsp;&nbsp;Yahoo!ファイナンス5位は糖尿病､2位は運動不足…研究で｢日本人の認知症の原因｣1位だとわかった\"意外な要素\" (2ページ目)&nbsp;&nbsp;PRESIDENT Online（プレジデントオンライン）",
       "sources": [
         {
           "name": "Yahoo!ファイナンス",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQazlDZjBRNldpVGJFaHBxOW0zUjJzRHY4Z0M3OU5DeUEtOFJPaUpPUG9KOGgzWmFYdGMxTlFvZEdsM3FhWnM5OWViYkdNamdhUjFtU3NzdlVKZEZNWElROFFiWEwzTEFJQ1QxYWExMkRxdXhrRnpONzVQNVhzUHhudF9fREVxRWM?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "6870f66ff669",
+      "title": "血管も､内臓も､皮膚も､骨も､歯もボロボロに老化させる\"血糖値スパイク\"が認知症につながる医学的根拠",
+      "published": "2026-03-19T08:15:00+00:00",
+      "summary": "血管も､内臓も､皮膚も､骨も､歯もボロボロに老化させる\"血糖値スパイク\"が認知症につながる医学的根拠&nbsp;&nbsp;ライブドアニュースGoogle ニュースですべての記事を見る",
+      "sources": [
+        {
+          "name": "ライブドアニュース",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40MEFET2xzcl91S1ZFcGNROUthTlpPMm44SVFQUVRNVXQwRmhmM19WRHVvQ1IzbWJ4ek1Da0RhTy14NC1ySDFmWHc4YkRVZ1BvM2R2SjA2R2cyVnVzUGFN?oc=5"
         }
       ],
       "matched_keywords": []
@@ -186,10 +199,23 @@
       "matched_keywords": []
     },
     {
+      "id": "823e8e0fc7d4",
+      "title": "「昨晩の献立」が思い出せなくても焦る必要はない…皆が誤解している「単なるもの忘れ」と「認知症」の決定的違い",
+      "published": "2026-03-19T07:15:00+00:00",
+      "summary": "「昨晩の献立」が思い出せなくても焦る必要はない…皆が誤解している「単なるもの忘れ」と「認知症」の決定的違い&nbsp;&nbsp;Yahoo!ファイナンス介護歴約20年の安藤なつ（メイプル超合金）がイチから認知症の専門医に聞いた『知っトク認知症 家族と本人が自分らしく暮らし続ける超入門』2026年3月19日（木）発売！&nbsp;&nbsp;KADOKAWAオフィシャルサイトその物忘れ、認知症？それとも加齢？ 受診の目安は「不安感」 [写真特集1/5]&nbsp;&nbsp;毎日新聞その物忘れ、認知症？それとも加齢？ 受診の目安は「不安感」（毎日新聞）&nbsp;&nbsp;Yahoo!ニュース｢昨晩の献立｣が思い出せなくても焦る必要はない…皆が誤解している｢単なるもの忘れ｣と｢認知症｣の決定的違い&nbsp;&nbsp;PRESIDENT Online（プレジデントオンライン）",
+      "sources": [
+        {
+          "name": "Yahoo!ファイナンス",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdy0xNHc1bEZRdEw1OWprR0ZyVUZ2MjdOZjBVUUlFbk1XR0tuWm8wX3lDeS1Ub2NrX21nWlVZd3NLdlpQTy1QY05GQUFRcktsaUZhTFN3cmdkQVkzTm9fWVNKdlJoOEhzekFyME9CdW9XNWNpdnNWQnJBWUpHZzhnRmZlemNRRHc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "7d3816d9c626",
       "title": "「夜勤による心臓へのダメージ」は〝食物繊維〟を食べると軽減？ 海外チーム22万人調査",
       "published": "2026-03-18T23:09:10+00:00",
-      "summary": "「夜勤による心臓へのダメージ」は〝食物繊維〟を食べると軽減？ 海外チーム22万人調査&nbsp;&nbsp;産経ニュース「夜勤による心臓へのダメージ」は“食物繊維”を食べると軽減？ 海外チームが22万人を調査（ITmedia NEWS）&nbsp;&nbsp;Yahoo!ニュース「寝室が明るい人は心筋梗塞のリスクが5割増」!?実は心臓によくない生活習慣8つ | チバテレ＋プラス&nbsp;&nbsp;千葉テレビ放送「寝室が明るい人は心筋梗塞のリスクが5割増」!?実は心臓によくない生活習慣8つ&nbsp;&nbsp;女性自身「夜勤による心臓へのダメージ」は“食物繊維”を食べると軽減？ 海外チームが22万人を調査：Innovative Tech&nbsp;&nbsp;ITmedia",
+      "summary": "「夜勤による心臓へのダメージ」は〝食物繊維〟を食べると軽減？ 海外チーム22万人調査&nbsp;&nbsp;産経ニュース「夜勤による心臓へのダメージ」は“食物繊維”を食べると軽減？ 海外チームが22万人を調査（ITmedia NEWS）&nbsp;&nbsp;Yahoo!ニュース夜勤で働く看護師が心臓病になるイラスト（絵：おね）&nbsp;&nbsp;産経ニュース「寝室が明るい人は心筋梗塞のリスクが5割増」!?実は心臓によくない生活習慣8つ | チバテレ＋プラス&nbsp;&nbsp;千葉テレビ放送「寝室が明るい人は心筋梗塞のリスクが5割増」!?実は心臓によくない生活習慣8つ&nbsp;&nbsp;女性自身",
       "sources": [
         {
           "name": "産経ニュース",
@@ -201,6 +227,89 @@
         }
       ],
       "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臓病",
+          "related_drugs": [
+            {
+              "slug": "nifedipine",
+              "name": "アダラートＣＲ錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "atorvastatin",
+              "name": "アトーゼット配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "atenolol",
+              "name": "テノーミン錠５０　５０ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "spironolactone",
+              "name": "アルダクトンＡ錠５０ｍｇ（選）"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "ロプレソール錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "enalapril",
+              "name": "レニベース錠１０　１０ｍｇ（選）"
+            },
+            {
+              "slug": "lisinopril",
+              "name": "ロンゲス錠２０ｍｇ（選）"
+            },
+            {
+              "slug": "diltiazem",
+              "name": "ヘルベッサー錠６０　６０ｍｇ（選）"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "エックスフォージ配合ＯＤ錠（選）"
+            },
+            {
+              "slug": "furosemide",
+              "name": "ラシックス錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "clopidogrel",
+              "name": "プラビックス錠７５ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "verapamil",
+              "name": "ワソラン錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrochlorothiazide",
+              "name": "プレミネント配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        },
         {
           "type": "indication",
           "name": "myocardial infarction",
@@ -662,6 +771,19 @@
       ]
     },
     {
+      "id": "894a0e786c7e",
+      "title": "英南東部で侵襲性髄膜炎の集団感染、高校生と大学生が死亡",
+      "published": "2026-03-18T04:09:10+00:00",
+      "summary": "英南東部で侵襲性髄膜炎の集団感染、高校生と大学生が死亡&nbsp;&nbsp;BBC「前例のない事態」 英政府、髄膜炎流行の封じ込め急ぐ&nbsp;&nbsp;AFPBB News数時間以内に死に至ることも...若者の間で集団感染が発生し既に死者も、感染源は「ナイトクラブ」（英国）&nbsp;&nbsp;Yahoo!ニュース数時間以内に死に至ることも...若者の間で集団感染が発生し既に死者も、感染源は「ナイトクラブ」&nbsp;&nbsp;ニューズウィーク日本版 オフィシャルサイト英国の大学で髄膜炎の集団感染 2人死亡、11人の感染確認&nbsp;&nbsp;CNN",
+      "sources": [
+        {
+          "name": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95TFp1eVp0WkgwUE9acmpHWElkN0daU2NTWEhvRDc2VzhiRHV6czRBenhQNU9ybWhmZWgxRmZTeF94V1ktdDN6dndpelp0VEFobXFGTXViaWYxRElyY1ZN0gFkQVVfeXFMUHZNeHpwTGJhcG41MkhHOVhnYVVyTnVKMmdwemtWc1Z0ZldXaDJNSG5nVUN0MFlORmYtazYyYXRYdHJWelk4MTRCNDRQT2ZHczl1MGhQMHVVLXhkc0sxQk45UWhaSQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "5f5db48eb07b",
       "title": "新型出生前診断（NIPT）の陽性率は年齢で変わる？ 結果を正しく理解するための3つの判断基準を医師が解説(メディカルドック)",
       "published": "2026-03-18T03:05:02+00:00",
@@ -773,6 +895,19 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/e07c5c6324ce69e48768734c2aa9a02000c58273?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "812a40508ae4",
+      "title": "1日2～3杯のカフェイン入りコーヒーで認知症リスクが低下？ 米ハーバード大などが医学誌で発表：Innovative Tech",
+      "published": "2026-03-17T23:00:00+00:00",
+      "summary": "1日2～3杯のカフェイン入りコーヒーで認知症リスクが低下？ 米ハーバード大などが医学誌で発表：Innovative Tech&nbsp;&nbsp;ITmediaコーヒーを1日2～3杯飲むとメンタルヘルスを改善できるかもしれない&nbsp;&nbsp;GIGAZINEコーヒーには多くの利点があるが、本当に重要なのはその飲み方だ。&nbsp;&nbsp;Vietnam.vn認知症への秘密兵器はコーヒー。 米ハーバード大学研究チームが明かす、正しい摂取量とは。&nbsp;&nbsp;madameFIGARO.jp1日2杯で「糖尿病・肝臓病・腎臓病」リスクが下がる《すごい飲み物》とは？【コンビニで買える】&nbsp;&nbsp;ダイヤモンド・オンライン",
+      "sources": [
+        {
+          "name": "ITmedia",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CSUFPdjJCWmh1ejhXVUxGTlZ6RzBzd0FqZFFfMDVnd2Z2TERraUpvNWZmN3M4SEdTZTFwWFo5Y2RoamFBaGJIQ1VaLUUyU0FlbmpZc3AtWEh2N0lpMTBWbm9WZVoteFd1dFJmcA?oc=5"
         }
       ],
       "matched_keywords": []
