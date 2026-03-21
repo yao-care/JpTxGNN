@@ -1,115 +1,79 @@
 {
   "source": "japan_news",
-  "fetched_at": "2026-03-21T06:31:54.195163+00:00",
-  "total_fetched": 124,
-  "unique_count": 124,
-  "health_related_count": 45,
+  "fetched_at": "2026-03-21T12:28:31.906483+00:00",
+  "total_fetched": 100,
+  "unique_count": 100,
+  "health_related_count": 27,
   "news": [
     {
-      "id": "bf52055408e3",
-      "title": "「にらんでる」と誤解され続けた日々が眼瞼下垂治療で一変!!「みんなに知ってもらいたい」と描いた漫画に反響続出【作者に聞く】(ウォーカープラス)",
-      "published": "2026-03-21T05:00:00+00:00",
-      "summary": "普通にしてても「怖い」「にらみつけてる」と言われることがある。それは眼瞼下垂(がんけんかすい)かも？眼瞼下垂とは、筋肉や神経の問題によって瞼が完全に開いていない状態。頭痛や肩こり、目の痛みなどのトラブ",
+      "id": "aaf9c1d5f937",
+      "title": "「美容」と「治療」でどう違う？脇汗・手汗、体質で済ませないボトックスという選択肢(HALMEK up)",
+      "published": "2026-03-21T12:15:01+00:00",
+      "summary": "「ボトックス＝しわ取り」と思っていませんか。実は多汗症治療にも使われています。手汗・足汗・脇汗に悩む人の89.7％が知らなかった、汗治療の選択肢について紹介します。",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/9b586105704f5705f5a95cce18a0f58a04d42379?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/7cc1d975003675ce5e05845faf5621e3e20e81b4?source=rss"
         }
       ]
     },
     {
-      "id": "82429f10f58f",
-      "title": "「ねこってなんでこんな隠れるの下手なん？」　まさかの場所で発見　かわいすぎる“かくれんぼ”に悶絶の声(Hint-Pot)",
-      "published": "2026-03-21T04:49:39+00:00",
-      "summary": "ねこと暮らしていると、しなやかで機敏な動きに驚かされる一方で、時折見せる少し抜けた行動に、笑わせられることもあるでしょう。スレッズでは、かくれんぼをしているつもりなのか、一生懸命に身を隠そうとしてい",
+      "id": "d267003a87d3",
+      "title": "耳鳴りや難聴など耳全般の治療に用いるツボ「聴会」。顎関節症を緩和する働きも(家庭画報.com)",
+      "published": "2026-03-21T12:10:02+00:00",
+      "summary": "中医学のエキスパートである鍼灸師の兵頭 明先生が、ツボの効能や位置、効くメカニズムを解説します。健康の土台作りに、不調改善に、1日1分のツボ押しを習慣にしましょう。",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/0d867ec98ede9a323c88af9d49910d53eeb865d1?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/feb8c7e3b7e51b318d83e93b0e1994bc9270b53d?source=rss"
         }
       ]
     },
     {
-      "id": "8015bdb90721",
-      "title": "大試合を前にしたスポーツ選手が異口同音に「楽しみたい」と話す昨今。78歳の著者「本来なら避けたいストレスや老いも楽しめ、となると…」(婦人公論.jp)",
-      "published": "2026-03-21T03:30:38+00:00",
-      "summary": "「老後は楽しめ」「前向きに生きろ」「健康に気をつけろ」……。年を取ると、老後の生き方についてあれこれ言われることも多くなります。78歳の評論家・勢古浩爾さんは、そうした強制社会に違和感を覚えるといい、",
+      "id": "d6dad30cdc38",
+      "title": "コロナ、介護に更年期のストレスで体重96㎏に。糖尿病に血尿まで！「私が死んだら介護は？猫は？」1カ月半で－10㎏痩せた方法は【鬼軍曹ゆか様ダイエット】(OTONA SALONE)",
+      "published": "2026-03-21T12:02:05+00:00",
+      "summary": "女性らしいメリハリボディの鬼軍曹ゆか様。実は、数年前までは60㎏超えのおデブちゃんでした。さまざまなダイエットに手を出し、最後はエステに300万円を投資し、スレンダーなボディを叶えてハッピー！のはずが",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/de37da77cccf94b89561d3f495ecb0c51bece862?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/1d6ca11c3ff289238ceae93ac0e737f5260a0acb?source=rss"
         }
       ]
     },
     {
-      "id": "95e3d2663a2f",
-      "title": "「香り」の活用で、脳機能の向上や認知症予防に。日中は脳を活性化、寝る前にはリラックス。生活に取り入れたい《香り習慣》(婦人公論.jp)",
-      "published": "2026-03-21T03:30:38+00:00",
-      "summary": "植物の香りが持つ力は、実に多種多様。なかでも近年注目されているのが、脳の機能を高めたり、認知症を予防・改善したりする働きです。高齢者施設なども取り入れ始めている、香りを使ったケアを紹介します。（構成:",
+      "id": "9c1901fc4968",
+      "title": "50代で「引き締まった体」を維持する6つの習慣。筋肉減少を食い止める秘訣(ウィメンズヘルス)",
+      "published": "2026-03-21T12:00:02+00:00",
+      "summary": "50代で筋力をつけるためには間違いなく努力が必要。しかし、いくつかの習慣を身に付ければ、加齢の影響を抑えながら健康状態を上げていける。 現実問題として、筋委縮は30歳頃から始まり、更年期にエストロゲ",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/676423075409a5930d227d5d441c7bf85183fe65?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/655b1b3ff61717862aac0feb9c865b892010c99c?source=rss"
         }
       ]
     },
     {
-      "id": "acfdda24ca10",
-      "title": "「香り」で認知症予防！？怒りっぽさなどの感情機能や記憶力、運動機能などの向上が期待できる《交感神経を優位にする》香りとは(婦人公論.jp)",
-      "published": "2026-03-21T03:30:38+00:00",
-      "summary": "植物の香りが持つ力は、実に多種多様。なかでも近年注目されているのが、脳の機能を高めたり、認知症を予防・改善したりする働きです。高齢者施設なども取り入れ始めている、香りを使ったケアを紹介します。（構成:",
+      "id": "67266fa81e0f",
+      "title": "「腎臓」が悪い人の尿は“健康な人の尿”とどう違う？ 多尿は危険？【医師解説】(メディカルドック)",
+      "published": "2026-03-21T10:03:37+00:00",
+      "summary": "日中の頻尿や夜間のトイレの回数が増えると、「歳のせい」などと思いがちですが、じつは腎臓の機能低下が関係していることがあるのだそうです。では、腎臓の病気でどのように尿が変化するのでしょうか？ 日本腎臓学",
       "sources": [
         {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/0881f11412e01572f3510f6af7759dd1a29ba884?source=rss"
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/c5ab52ba2ed4c071f17c781260068620063c1a61?source=rss"
         }
       ]
     },
     {
-      "id": "db6e6ff2b8b3",
-      "title": "「自分の見つめすぎ」は逆にうつや不安症につながる - ナゾロジー",
-      "published": "2026-03-21T03:02:00+00:00",
-      "summary": "「自分の見つめすぎ」は逆にうつや不安症につながる&nbsp;&nbsp;ナゾロジー",
+      "id": "114e8eae71c2",
+      "title": "「ネズミのひげは何をキャッチしている？」京都の大学教授が快挙　「続けることができたのは驚き」(京都新聞)",
+      "published": "2026-03-21T07:30:34+00:00",
+      "summary": "ネズミやネコのひげはどんな情報をキャッチしているのか―。明治国際医療大看護学部教授の榎原智美さん（60）は、動物の末梢（まっしょう）にある外部刺激を捉える機能や形態の研究を続けている。昨年12月、国",
       "sources": [
         {
-          "name": "ナゾロジー",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SQW14ekYyWlNmdC1FQ0JUeERMWEo1WWliUmx6Q3FNU1Y1WjE3Yy1hU1Nkd0NFYTlIV1lfcVo3b2NwQXo4WjBjei02WGdoWElzNk56Qm5uSFJPWE0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2a6bced03bd1",
-      "title": "「マスクのしすぎ」がリスクに!?100年前のスペイン風邪も克服した最強の免疫強化術 - @DIME アットダイム",
-      "published": "2026-03-21T01:04:30+00:00",
-      "summary": "「マスクのしすぎ」がリスクに!?100年前のスペイン風邪も克服した最強の免疫強化術&nbsp;&nbsp;@DIME アットダイム",
-      "sources": [
-        {
-          "name": "@DIME アットダイム",
-          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9OVFZVVkpTZHVDQ0dtWU1xdnc0VXBycjFKX2pXajlhMHR0UUVCdk10ZG5fb3E1LXVISGp4Z2ozTVFta0xY?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4a44e0d109d1",
-      "title": "料理ができる高齢者は長生き？ 調理技術と口腔機能の問題により死亡リスク最大2倍に - sndj-web.jp",
-      "published": "2026-03-20T15:02:47+00:00",
-      "summary": "料理ができる高齢者は長生き？ 調理技術と口腔機能の問題により死亡リスク最大2倍に&nbsp;&nbsp;sndj-web.jp",
-      "sources": [
-        {
-          "name": "sndj-web.jp",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9RRDluMkhzUnM5bkdDblJzU2hJSFI5UldoS25WeVJXRW80dEh2VEFPMC1aeVBXWkxIZWRqVEh4XzhBMV9fclpralNkWQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8dcc49082374",
-      "title": "『ヒポクラテスの盲点』大磯で上映 大西隼監督も登場予定 | 平塚・大磯・二宮・中井 - タウンニュース",
-      "published": "2026-03-20T15:00:00+00:00",
-      "summary": "『ヒポクラテスの盲点』大磯で上映 大西隼監督も登場予定 | 平塚・大磯・二宮・中井&nbsp;&nbsp;タウンニュース新型コロナワクチン接種開始から5年。そして今、本格的な議論を始めよう。対談・大西隼×上島有加里&nbsp;&nbsp;Yahoo!ニュース【寄稿】ワクチンと向き合い続けて〈2〉 新聞の社説とクレーム | 日刊薬業 - 医薬品産業の総合情報サイト&nbsp;&nbsp;日刊薬業日本のワクチン接種施策の原点は「信頼の向上」&nbsp;&nbsp;Medical Tribune",
-      "sources": [
-        {
-          "name": "タウンニュース",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XaTJHOU1hNkE5MFh6Q0VETDVUbng5VWxkc2tleEx3VXAzaW4tRjF0WjJkQ1ZFRDBodHh3alVzTW9qaGtDdnI4Z1JUVFVRd0FQR3dsMUhjNDQwamFlWlVwZFJiMlU?oc=5"
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/aa1ef4419c13718c3de62b07c0b1ccb8051944a8?source=rss"
         }
       ]
     },
@@ -126,30 +90,6 @@
       ]
     },
     {
-      "id": "0377fb853e52",
-      "title": "《認知症を予防するには？》米国で活躍する老年医学の医師が明かす「広い交友関係や友人との交流でリスク低下」「運動も予防に有効」 (1/1) - 介護ポストセブン",
-      "published": "2026-03-20T02:00:00+00:00",
-      "summary": "《認知症を予防するには？》米国で活躍する老年医学の医師が明かす「広い交友関係や友人との交流でリスク低下」「運動も予防に有効」 (1/1)&nbsp;&nbsp;介護ポストセブン5位は糖尿病､2位は運動不足…研究で｢日本人の認知症の原因｣1位だとわかった\"意外な要素\"&nbsp;&nbsp;PRESIDENT Online（プレジデントオンライン）認知症を予防するには？》米国で活躍する老年医学の医師が明かす「広い交友関係や友人との交流でリスク低下」「運動も予防に有効」（介護ポストセブン&nbsp;&nbsp;Yahoo!ニュース認知症の常識が昭和と令和でこんなに変わった！10問でわかる新常識テスト&nbsp;&nbsp;TVer5位は糖尿病、2位は運動不足…研究で「日本人の認知症の原因」1位だとわかった\"意外な要素\"（プレジデントオンライン）&nbsp;&nbsp;Yahoo!ニュース",
-      "sources": [
-        {
-          "name": "介護ポストセブン",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE45aUduWWYtTGkyd2p6LWg0Y3ZnaHFBZW9qRHg4eU4tRk1udFdLd3F2ZGY5RHJaY0Vyd3R5cUw3Tm1kTTlldVVOeXhB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "92aedbabe8f7",
-      "title": "ウォーキングより手軽に「ヨボヨボ化」を防げる…1日3杯飲むだけで「認知症リスク」が下がる\"飲み物\"の名前 - Yahoo!ファイナンス",
-      "published": "2026-03-20T01:15:00+00:00",
-      "summary": "ウォーキングより手軽に「ヨボヨボ化」を防げる…1日3杯飲むだけで「認知症リスク」が下がる\"飲み物\"の名前&nbsp;&nbsp;Yahoo!ファイナンスGoogle ニュースですべての記事を見る",
-      "sources": [
-        {
-          "name": "Yahoo!ファイナンス",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVVpvNFhkTTFiRTZqR2RGbWxoVzBEWDAyM0ZTNGZuSFZJUkdWNWlZSDJsLWpxdU5CSTNDc0N3VHJkWkFXNzZRZVlIMGhRZHk1SzVXYnBWbldsS2tUbjBCXzZZdFVNYUpLN0w2R2Qtckt4dDFKNzRRa2NBWG01aHBfSmIybXRLenc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a6248a8e3d5c",
       "title": "新種「トカラムシクイ」発見　鳥類は「ヤンバルクイナ」以来45年ぶり(ITmedia NEWS)",
       "published": "2026-03-19T23:20:09+00:00",
@@ -158,90 +98,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/f43c3a47dfca7474c13ae792035ecccb7759d3ce?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "172eebbf1bed",
-      "title": "タイ食品医薬品局、ダイエットペンに注意喚起。医師の処方箋が必須。誤った使用方法は危険。 - タイニュース・クロスボンバー",
-      "published": "2026-03-19T20:32:32+00:00",
-      "summary": "タイ食品医薬品局、ダイエットペンに注意喚起。医師の処方箋が必須。誤った使用方法は危険。&nbsp;&nbsp;タイニュース・クロスボンバー",
-      "sources": [
-        {
-          "name": "タイニュース・クロスボンバー",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4tY0NsejN1bWNCbW00X1YzdG1tSkM1X1FpTUVIVko4QkQ2Q3dmZVJRcEJZeUduWmFtRGIwbHBCa2syNWlzR2NIendsWllZTklM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "df2268cd69ca",
-      "title": "日本の心房細動患者、1年後の全死亡率と脳卒中/血栓塞栓症発生率～APHRS-AFレジストリ｜CareNet.com - CareNet.com",
-      "published": "2026-03-19T19:00:00+00:00",
-      "summary": "日本の心房細動患者、1年後の全死亡率と脳卒中/血栓塞栓症発生率～APHRS-AFレジストリ｜CareNet.com&nbsp;&nbsp;CareNet.com",
-      "sources": [
-        {
-          "name": "CareNet.com",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TZlI3enZuTTR0YTZVckpvS3dpZDFkc3NrTWlMMlJZRXphV24ydFhzSUNUa3Q3RDVkVUFwRVF3M2k4MEJBLTNURExOLUo3OUoyT2IwUzU0c1BGZUh0NkJN?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3f0a5b6bb839",
-      "title": "子宮頸がん検診、受診率は制度で変わる？ 東京都51自治体解析｜CareNet.com - CareNet.com",
-      "published": "2026-03-19T19:00:00+00:00",
-      "summary": "子宮頸がん検診、受診率は制度で変わる？ 東京都51自治体解析｜CareNet.com&nbsp;&nbsp;CareNet.com",
-      "sources": [
-        {
-          "name": "CareNet.com",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHTUNJMngwTDhxMmtieFRKVE9LS1pnUE1mMW9ER3RXNGN3WnJZUHhScEE1RjFXd0ltQzJyTWNJSlJlNlV2SWxxbWRieFdrNS1lTGVZbk1fSkE2c00?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7452cd0ee726",
-      "title": "身体活動の不足が糖尿病の合併症を引き起こす｜CareNet.com - CareNet.com",
-      "published": "2026-03-19T19:00:00+00:00",
-      "summary": "身体活動の不足が糖尿病の合併症を引き起こす｜CareNet.com&nbsp;&nbsp;CareNet.com",
-      "sources": [
-        {
-          "name": "CareNet.com",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVa2tKdlBvVFVqQkNnQ0pPV3MtXy1CaDRuSlJNWVRkbTQtRWhRR0F2bE5mUkQzTGhBZFJhUE1LLUhmVjVNWE82S1NoNWlHOUMtbUNEN2FUcWNTdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e659b6227e98",
-      "title": "慢性閉塞性肺疾患の吸入器はどれがより有効か｜CareNet.com - CareNet.com",
-      "published": "2026-03-19T19:00:00+00:00",
-      "summary": "慢性閉塞性肺疾患の吸入器はどれがより有効か｜CareNet.com&nbsp;&nbsp;CareNet.com",
-      "sources": [
-        {
-          "name": "CareNet.com",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GaS1XVHJpelVnZUVUVzlOZFQxVWM1TUpuQWtCNTFFcW9nd3Z4dUl4bGVuWUt4RlZtcXoyUTF0eHowVDd0Sm42aTY1Q0dpUHg3ckNJRUwzSG1zQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d83383326ee2",
-      "title": "アイトラッキング診断ツール、神経変性疾患の鑑別や評価の一助となるか｜CareNet.com - CareNet.com",
-      "published": "2026-03-19T19:00:00+00:00",
-      "summary": "アイトラッキング診断ツール、神経変性疾患の鑑別や評価の一助となるか｜CareNet.com&nbsp;&nbsp;CareNet.com",
-      "sources": [
-        {
-          "name": "CareNet.com",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tYmI0STE5V3pkNW91OENxZWQ1TjJEWHhnbG9CbXY2WjMteFZQbk1tR2pUazdxRGN1RTltcFN6RllieERxYmtodHFaNHVEVVE3Szc2U2xNcEtFd0JaYmw4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f161413f7907",
-      "title": "【モデル・ソンイ】「呼吸がおかしい…」生後2カ月の娘が緊急搬送。低月齢での感染症の怖さを経験しているからこそ今伝えたいこととは（RSウイルス感染症） - たまひよ",
-      "published": "2026-03-19T12:33:20+00:00",
-      "summary": "【モデル・ソンイ】「呼吸がおかしい…」生後2カ月の娘が緊急搬送。低月齢での感染症の怖さを経験しているからこそ今伝えたいこととは（RSウイルス感染症）&nbsp;&nbsp;たまひよ【令和8年4月開始予定】〈妊婦のかた対象〉RSウイルス母子免疫ワクチン定期予防接種&nbsp;&nbsp;city.fukushima.fukushima.jp4月から「RSウイルスワクチン」の定期接種化 公費での支援により原則無料に 従来は費用負担がハードルに&nbsp;&nbsp;FNNプライムオンライン4月から「RSウイルスワクチン」の定期接種化 公費での支援により原則無料に 従来は費用負担がハードルに（テレビ静岡NEWS）&nbsp;&nbsp;Yahoo!ニュース",
-      "sources": [
-        {
-          "name": "たまひよ",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1jZXJWSDBEZ2llSFRCZVNobFBiM1dDQWtKZXctREFoMDRRWV9tSThSZWZPMEhpdUJQcWZBZExINXR4Q0RySzU0RzJVVTJ5eS1tRm9ENW1Bb2hKb2dwRmc?oc=5"
         }
       ]
     },
@@ -258,18 +114,6 @@
       ]
     },
     {
-      "id": "be962ae78b17",
-      "title": "血管も､内臓も､皮膚も､骨も､歯もボロボロに老化させる\"血糖値スパイク\"が認知症につながる医学的根拠（プレジデントオンライン） - ｄメニューニュース",
-      "published": "2026-03-19T08:15:00+00:00",
-      "summary": "血管も､内臓も､皮膚も､骨も､歯もボロボロに老化させる\"血糖値スパイク\"が認知症につながる医学的根拠（プレジデントオンライン）&nbsp;&nbsp;ｄメニューニュース血管も､内臓も､皮膚も､骨も､歯もボロボロに老化させる\"血糖値スパイク\"が認知症につながる医学的根拠&nbsp;&nbsp;PRESIDENT Online（プレジデントオンライン）女性は糖類のとり過ぎで認知症発症リスクが上がる可能性（日経グッデイ）&nbsp;&nbsp;Yahoo!ニュース糖類総摂取量が多い女性、認知症リスクが約1.5倍に&nbsp;&nbsp;日経ビジネス電子版",
-      "sources": [
-        {
-          "name": "ｄメニューニュース",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdVpqRVVvYVJ4N1dTeHREazFnTl9nOVZFbklVbFNXX0JYSDl1bVhOa241aXMyWGhESFZsckJyNmNmZUQxS2JZYWlXQzV2QWhPTmRYcUJkRWF1V2xodW85SmdjaVFHRkZ2YlJld3ZWLUNDbFRLcHZpR2xlTk9RVFhQck9R?oc=5"
-        }
-      ]
-    },
-    {
       "id": "3ae130f20f23",
       "title": "脳の老化が2年以上遅くなる独自の食事法とは　新研究(CNN.co.jp)",
       "published": "2026-03-19T08:08:00+00:00",
@@ -278,30 +122,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/ebb07d3938bad9549f29a062336a682252a8f367?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "823e8e0fc7d4",
-      "title": "「昨晩の献立」が思い出せなくても焦る必要はない…皆が誤解している「単なるもの忘れ」と「認知症」の決定的違い - Yahoo!ファイナンス",
-      "published": "2026-03-19T07:15:00+00:00",
-      "summary": "「昨晩の献立」が思い出せなくても焦る必要はない…皆が誤解している「単なるもの忘れ」と「認知症」の決定的違い&nbsp;&nbsp;Yahoo!ファイナンス介護歴約20年の安藤なつ（メイプル超合金）がイチから認知症の専門医に聞いた『知っトク認知症 家族と本人が自分らしく暮ら&nbsp;&nbsp;ニコニコニュースその物忘れ、認知症？それとも加齢？ 受診の目安は「不安感」（毎日新聞）&nbsp;&nbsp;Yahoo!ニュース｢昨晩の献立｣が思い出せなくても焦る必要はない…皆が誤解している｢単なるもの忘れ｣と｢認知症｣の決定的違い&nbsp;&nbsp;PRESIDENT Online（プレジデントオンライン）",
-      "sources": [
-        {
-          "name": "Yahoo!ファイナンス",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdy0xNHc1bEZRdEw1OWprR0ZyVUZ2MjdOZjBVUUlFbk1XR0tuWm8wX3lDeS1Ub2NrX21nWlVZd3NLdlpQTy1QY05GQUFRcktsaUZhTFN3cmdkQVkzTm9fWVNKdlJoOEhzekFyME9CdW9XNWNpdnNWQnJBWUpHZzhnRmZlemNRRHc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7d3816d9c626",
-      "title": "「夜勤による心臓へのダメージ」は〝食物繊維〟を食べると軽減？ 海外チーム22万人調査 - 産経ニュース",
-      "published": "2026-03-19T07:00:00+00:00",
-      "summary": "「夜勤による心臓へのダメージ」は〝食物繊維〟を食べると軽減？ 海外チーム22万人調査&nbsp;&nbsp;産経ニュース「夜勤による心臓へのダメージ」は“食物繊維”を食べると軽減？ 海外チームが22万人を調査（ITmedia NEWS）&nbsp;&nbsp;Yahoo!ニュース夜勤で働く看護師が心臓病になるイラスト（絵：おね）&nbsp;&nbsp;産経ニュース「寝室が明るい人は心筋梗塞のリスクが5割増」!?実は心臓によくない生活習慣8つ | チバテレ＋プラス&nbsp;&nbsp;千葉テレビ放送「寝室が明るい人は心筋梗塞のリスクが5割増」!?実は心臓によくない生活習慣8つ&nbsp;&nbsp;女性自身",
-      "sources": [
-        {
-          "name": "産経ニュース",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BV0xFNjlMMUJmTkV0a29ETk1WeWhaWnM2UlZTTHE5SGR3OVl3NU9sWFBzYXNrXzktVV8tbURodFFuQl9aZnVrRFlmLTd0Xzl5U0k0WnZRM05fbkcwWkZscE9TOVdVdThpTHZtelhBSExOdjc1dnc?oc=5"
         }
       ]
     },
@@ -506,42 +326,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/84797daac587a898f72b21e11fd1658568af3d77?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "b5b310a6c34a",
-      "title": "マリフアナは不安やその他の精神疾患を緩和せず、科学者たちが新たに分析(CNN.co.jp)",
-      "published": "2026-03-17T06:52:00+00:00",
-      "summary": "（CNN） 既存の権威ある研究を2件分析した結果、医療用または嗜好（しこう）用マリフアナを様々な精神疾患の症状緩和に用いても効果がないことがこのほど明らかになった。 医療用マリフアナには、カンナビジ",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/42223b2f432268b0074b7afb24e21cf44f6276b5?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "5f55b00f948f",
-      "title": "「究極の半導体」ダイヤモンド半導体、世界初の実用化へ　佐賀大が製造開始(西日本新聞)",
-      "published": "2026-03-17T05:00:47+00:00",
-      "summary": "佐賀大発のスタートアップ（新興企業）として半導体の研究・開発に取り組む「ダイヤモンドセミコンダクター」（佐賀市）が、既存の半導体よりも耐久性などに優れることから「究極の半導体」として注目される「ダイ",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/29d0b26fbc487e03a25d965bf5021de2973c1573?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "8b37146c8601",
-      "title": "色素増感太陽電池など活用…九大がウエアラブル端末、行動記録で提案(ニュースイッチ)",
-      "published": "2026-03-17T04:10:09+00:00",
-      "summary": "九州大学の荒川豊教授と有田充大学院生（研究当時）、中村優吾助教らは、太陽電池などで装着者が建物のどの部屋にいるか判別するウエアラブル端末を開発した。太陽電池を発電とセンシングの両方に用いる。1日8時間",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/c9a617438479fb09d569ea52cc068ad9d2e0235a?source=rss"
         }
       ]
     }
