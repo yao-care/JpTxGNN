@@ -1,7 +1,107 @@
 {
-  "generated": "2026-03-21T12:28:32.083920+00:00",
-  "count": 4,
+  "generated": "2026-03-21T18:23:14.107257+00:00",
+  "count": 8,
   "news": [
+    {
+      "id": "db6e6ff2b8b3",
+      "title": "「自分の見つめすぎ」は逆にうつや不安症につながる",
+      "published": "2026-03-21T03:02:00+00:00",
+      "sources": [
+        {
+          "name": "ナゾロジー",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SQW14ekYyWlNmdC1FQ0JUeERMWEo1WWliUmx6Q3FNU1Y1WjE3Yy1hU1Nkd0NFYTlIV1lfcVo3b2NwQXo4WjBjei02WGdoWElzNk56Qm5uSFJPWE0?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "anxiety disorder",
+          "keyword": "不安症",
+          "related_drugs": [
+            {
+              "slug": "olanzapine",
+              "name": "ジプレキサザイディス錠２．５ｍｇ（選）"
+            },
+            {
+              "slug": "lorazepam",
+              "name": "ワイパックス錠１．０　１ｍｇ（選）"
+            },
+            {
+              "slug": "alprazolam",
+              "name": "ソラナックス０．４ｍｇ錠（選）"
+            },
+            {
+              "slug": "sertraline",
+              "name": "ジェイゾロフトＯＤ錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "mirtazapine",
+              "name": "リフレックス錠３０ｍｇ（選）"
+            },
+            {
+              "slug": "duloxetine",
+              "name": "サインバルタカプセル３０ｍｇ（選）"
+            },
+            {
+              "slug": "pregabalin",
+              "name": "リリカＯＤ錠１５０ｍｇ（選）"
+            },
+            {
+              "slug": "escitalopram",
+              "name": "レクサプロ錠２０ｍｇ（選）"
+            },
+            {
+              "slug": "paroxetine",
+              "name": "パロキセチン錠２０ｍｇ「ＳＰＫＫ」"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2a6bced03bd1",
+      "title": "「マスクのしすぎ」がリスクに!?100年前のスペイン風邪も克服した最強の免疫強化術 - @DIME アットダイム",
+      "published": "2026-03-21T01:04:30+00:00",
+      "sources": [
+        {
+          "name": "@DIME アットダイム",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9OVFZVVkpTZHVDQ0dtWU1xdnc0VXBycjFKX2pXajlhMHR0UUVCdk10ZG5fb3E1LXVISGp4Z2ozTVFta0xY?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "風邪",
+          "related_drugs": [
+            {
+              "slug": "cetirizine",
+              "name": "ザイザルシロップ０．０５％（選）"
+            },
+            {
+              "slug": "loratadine",
+              "name": "クラリチン錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "chlorpheniramine",
+              "name": "セレスタミン配合錠（選）"
+            },
+            {
+              "slug": "dextromethorphan",
+              "name": "デキストロメトルファン臭化水素酸塩細粒１０％「ツルハラ」"
+            },
+            {
+              "slug": "acetaminophen",
+              "name": "トラムセット配合錠（選）"
+            },
+            {
+              "slug": "codeine",
+              "name": "ムコブロチン配合シロップ"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "c6875fffadc1",
       "title": "『高血圧』の重症度別治療法とは？ 生活習慣の改善から降圧薬の種類まで医師が徹底解説(メディカルドック)",
@@ -89,6 +189,114 @@
             {
               "slug": "losartan",
               "name": "ニューロタン錠５０ｍｇ（選）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "df2268cd69ca",
+      "title": "日本の心房細動患者、1年後の全死亡率と脳卒中/血栓塞栓症発生率～APHRS-AFレジストリ｜CareNet.com",
+      "published": "2026-03-19T19:00:00+00:00",
+      "sources": [
+        {
+          "name": "CareNet.com",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TZlI3enZuTTR0YTZVckpvS3dpZDFkc3NrTWlMMlJZRXphV24ydFhzSUNUa3Q3RDVkVUFwRVF3M2k4MEJBLTNURExOLUo3OUoyT2IwUzU0c1BGZUh0NkJN?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "脳卒中",
+          "related_drugs": [
+            {
+              "slug": "atorvastatin",
+              "name": "アトーゼット配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "pravastatin",
+              "name": "メバロチン錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "simvastatin",
+              "name": "リポバス錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "エックスフォージ配合ＯＤ錠（選）"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "ミカムロ配合錠ＢＰ（選）"
+            },
+            {
+              "slug": "rosuvastatin",
+              "name": "クレストールＯＤ錠５ｍｇ（選）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3f0a5b6bb839",
+      "title": "子宮頸がん検診、受診率は制度で変わる？ 東京都51自治体解析｜CareNet.com",
+      "published": "2026-03-19T19:00:00+00:00",
+      "sources": [
+        {
+          "name": "CareNet.com",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHTUNJMngwTDhxMmtieFRKVE9LS1pnUE1mMW9ER3RXNGN3WnJZUHhScEE1RjFXd0ltQzJyTWNJSlJlNlV2SWxxbWRieFdrNS1lTGVZbk1fSkE2c00?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
             }
           ]
         }
