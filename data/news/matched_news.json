@@ -1,17 +1,231 @@
 {
-  "last_updated": "2026-03-22T01:18:07.218763+00:00",
-  "total_count": 36,
-  "matched_count": 7,
+  "last_updated": "2026-03-22T06:38:50.077276+00:00",
+  "total_count": 37,
+  "matched_count": 10,
   "news": [
     {
-      "id": "7dd84a4e4574",
-      "title": "最悪の場合、死に至る…国立大学の研究者が「まぜるな危険」と警告する\"お酒を割ってはいけない\"飲み物の名前(プレジデントオンライン)",
-      "published": "2026-03-22T01:15:44+00:00",
-      "summary": "カフェインを摂取する際には、どんなことに気をつけたらいいのか。広島大学大学院医系科学研究科の田原優准教授は「摂り方によっては毒にも薬にもなる。日頃から砂糖入りのコーヒーを飲む人はもちろんだが、お茶割り",
+      "id": "63f77ff9fe48",
+      "title": "全国害獣リスク調査、ネズミが各地域でトップ　2位以下は東西で傾向に違い(オーヴォ)",
+      "published": "2026-03-22T06:15:00+00:00",
+      "summary": "近年、クマによる被害が多発しているが、身近にいる小動物もヒトに害をおよぼすことがある。そうした中、害獣対策を行う駆除ザウルス（東京）は、過去3年以内に自宅が害獣による被害に遭った経験のある20〜70",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/c61868af126b1d3ba9e7641fc794e61096e1fe9a?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/dec406f564a67028c75824ded893038646c3c4e8?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "f4051d06c5d3",
+      "title": "最新研究が解き明かす、アルツハイマーの衝撃の“最も早い”兆候",
+      "published": "2026-03-22T06:01:39+00:00",
+      "summary": "最新研究が解き明かす、アルツハイマーの衝撃の“最も早い”兆候&nbsp;&nbsp;apf.inc将来のアルツハイマー病を予言する「4種の先行疾患」...1.5億人分の電子カルテが暴いた発症の予兆（ニューズウィーク日本版）&nbsp;&nbsp;Yahoo!ニュース将来のアルツハイマー病を予言する「4種の先行疾患」...1.5億人分の電子カルテが暴いた発症の予兆&nbsp;&nbsp;ニューズウィーク日本版 オフィシャルサイト",
+      "sources": [
+        {
+          "name": "apf.inc",
+          "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOTXk0Uno1LU9FUVNGOUczWEVrbGE4MW53V0ktd1hNQk5LMXlpMVYtR2ZGai1kTU54OENqSXpFa1Q4Q2hvaXZibnZUZmo0QkFCZGV2b1o3Z3BXcnlGQkloT09ibWVaM3lfS0xoZFpheDBKVzlaUlZNdFZTbFZOTzI0ZHB2Q01scFE2LTBFdE9mYjNyRm1ESWdUbGpRbi1mcTlyN2lWQU9MMWZNZHQtMHNKSnA2Si1Ed3dlQWJQZzNKSmgzQnd5eXBwZF9lczR3eDBxckk0VzB6dFMxbllMUlQ0NndaNks4VTViTDYzRnctS2VxNEpVakQwWVJkaFRia0t6c0ZIV2p1allORzdJME0tX04wQkNCNGdWenRGYWRzVTNjVDVHMElwQzJxOWpRSXgwQ2NBVS13YkNCVkk?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "2cf1200714f3",
+      "title": "【闘病】血尿は一度だけ… 『膀胱がん』の地獄。大人用おむつが手放せず、激痛にうずくまり耐えた絶望(メディカルドック)",
+      "published": "2026-03-22T06:00:29+00:00",
+      "summary": "たった一度の血尿が、がん発見の糸口に――。2022年の健康診断を機に、「膀胱（ぼうこう）がん」が発覚した中野さん。 将来、子どもを持つ夢を守るため手術を決断しますが、術後には激痛と闘うBCG治療の「",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/3eef5efe66e863fbb9cb37f97ddf0cd5d032c940?source=rss"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a5f91aa7bc5d",
+      "title": "【心疾患の子猫ちゃん】姉猫ところころ転がり遊ぶ日常　病を感じさせない活発な姿が話題に(LIMO)",
+      "published": "2026-03-22T04:10:50+00:00",
+      "summary": "「楽しく遊ぶ心臓疾患を持つ子猫ちゃん」が、TikTokで注目を集めています。 投稿したのは、TikTokユーザーの「@lumi.towncat」さんです。 当投稿は執筆時点で1100回再生されるな",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/9b03847fb55f0ed9dafc97ee2b1db55675580d49?source=rss"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心疾患",
+          "related_drugs": [
+            {
+              "slug": "nifedipine",
+              "name": "アダラートＣＲ錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "atorvastatin",
+              "name": "アトーゼット配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "atenolol",
+              "name": "テノーミン錠５０　５０ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "spironolactone",
+              "name": "アルダクトンＡ錠５０ｍｇ（選）"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "ロプレソール錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "enalapril",
+              "name": "レニベース錠１０　１０ｍｇ（選）"
+            },
+            {
+              "slug": "lisinopril",
+              "name": "ロンゲス錠２０ｍｇ（選）"
+            },
+            {
+              "slug": "diltiazem",
+              "name": "ヘルベッサー錠６０　６０ｍｇ（選）"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "エックスフォージ配合ＯＤ錠（選）"
+            },
+            {
+              "slug": "furosemide",
+              "name": "ラシックス錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "clopidogrel",
+              "name": "プラビックス錠７５ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "verapamil",
+              "name": "ワソラン錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrochlorothiazide",
+              "name": "プレミネント配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "093f16ca6382",
+      "title": "慢性的な仕事のストレスは脳を損傷する──脳の健康を守る6つの方法(Forbes JAPAN)",
+      "published": "2026-03-22T04:00:00+00:00",
+      "summary": "脳は、古くなったコンピューターのようなもので、時間の経過とともにスピードも機能も徐々に低下していくのは避けようがない、と思われている。しかし、現代の神経科学では異なる見解が示されている。脳は、心臓や肺",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/0cfef5e97a5bb4d6878b260a6e08242e9a0e7479?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "540288df713d",
+      "title": "定年後なにもしてこなかった78歳の著者「四、五十代までラジオ体操をしている老人を見ては、あれ役に立つのかねと思っていたが、いまや…」(婦人公論.jp)",
+      "published": "2026-03-22T03:30:38+00:00",
+      "summary": "「老後は楽しめ」「前向きに生きろ」「健康に気をつけろ」……。年を取ると、老後の生き方についてあれこれ言われることも多くなります。78歳の評論家・勢古浩爾さんは、そうした強制社会に違和感を覚えるといい、",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/58ce63f0c9f9168c08f35cb5ce0894b37f694798?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "fdea704d0952",
+      "title": "JAXAが「革新的衛星技術実証4号機」の超小型衛星8機の打ち上げ予定時期変更を発表　2026年4月以降へ(sorae 宇宙へのポータルサイト)",
+      "published": "2026-03-22T03:11:42+00:00",
+      "summary": "JAXA（宇宙航空研究開発機構）は2026年3月18日、革新的衛星技術実証4号機として打ち上げられる予定だった8機の超小型衛星（CubeSat）について、打ち上げ予定時期が変更されたことを発表しました",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/3a172bab1595d884dde0e317b11f62a999de3146?source=rss"
         }
       ],
       "matched_keywords": []
@@ -30,45 +244,6 @@
       "matched_keywords": []
     },
     {
-      "id": "4f32c990119e",
-      "title": "【女性に聞いた】名前がかっこいいと思う「国立大学」ランキング！　2位は「東京大学」と「東京外国語大学」、1位は？(ねとらぼ)",
-      "published": "2026-03-22T00:30:00+00:00",
-      "summary": "各地に拠点を置き、幅広い分野で人材育成や研究に取り組む国立大学。由来や意味を持つ名称も多く、響きの良さや重厚な印象から、かっこいいと感じられる大学名も少なくありません。 ねとらぼでは、アンケート",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/86cf8df9ba52d175b1c29748c549e0251d521a78?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "77b9ce46120b",
-      "title": "民家で新聞窃盗疑い男逮捕 警戒の販売店主発見、通報",
-      "published": "2026-03-22T00:07:00+00:00",
-      "summary": "民家で新聞窃盗疑い男逮捕 警戒の販売店主発見、通報&nbsp;&nbsp;47NEWS",
-      "sources": [
-        {
-          "name": "47NEWS",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA3TjFFMm9xMnFOcDEwNk1GMjhPSndSbjBucFZERTJrZFhCZXY1cnJuZXlZTzlKNEtiV2ZLNGpJUHBRZi15OTJPZXRUYw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "96919caf4524",
-      "title": "《著書ベストセラー》2000人を看取った在宅ケア医が提唱する、病院に頼らず生ききる力(週刊女性PRIME)",
-      "published": "2026-03-22T00:00:33+00:00",
-      "summary": "昨年末に刊行され、今ベストセラーとなっている『棺桶まで歩こう』（幻冬舎）が話題だ。著者は、「あなたが生きているのは医療のおかげではなく、あなたの根性のおかげ。人は歩けるうちは死にません」と説く、在宅",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/c6bab1b30bf7913f59b28d644e70bb38401c3cfe?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "7e01ff7bda4b",
       "title": "【そもそも解説】超高齢社会で増える認知症 尊重すべき本人の意思",
       "published": "2026-03-22T00:00:00+00:00",
@@ -77,19 +252,6 @@
         {
           "name": "朝日新聞",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1EVW1RcHVEVWdIRzQxMHZiV0FGeGZDbTFRYUg1WHo2TmNBamhxMmt5aGN5aVQ0X05ZLUh0cVdDZUM1elJlSG5mMjg4N0JrM0kzYXJ0RlZjYWVaQzFDSkJvUUY0czdXVUk?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "e00cdb8ea252",
-      "title": "春の新生活のストレスと毛周期の乱れ、抜け毛が急増する理由と今すぐできる対策　きょうからヘア活(産経新聞)",
-      "published": "2026-03-22T00:00:00+00:00",
-      "summary": "抜け毛の季節は夏の終わりから秋とされていますが、クリニックでは春に抜け毛が増えたという患者さんに遭遇することがあります。話を聞くと、就職や仕事の異動などによるストレスを訴えたり、中には新生活のストレス",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/90b2ed46f42047e461083bbf8460e902df0d7ce4?source=rss"
         }
       ],
       "matched_keywords": []
@@ -173,6 +335,19 @@
       "matched_keywords": []
     },
     {
+      "id": "945556bd0263",
+      "title": "60歳の産婦が多くの高リスクの中で安全に出産",
+      "published": "2026-03-21T11:50:15+00:00",
+      "summary": "60歳の産婦が多くの高リスクの中で安全に出産&nbsp;&nbsp;Laodong.vn60歳の女性が体重2.8キロの男の子を出産した。&nbsp;&nbsp;Vietnam.vn稀なケース：60歳で出産した女性&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdG02TU9leTN4WlpfZndGZzFtVjRNQ2cteTRHVjNoNmtCalk5UGJ2X1VqTnA5VzdjUjRxQ0hCV09UZmNuSG9Qdll6YWJIOHNtZk1jR3hVbGRoV0dURmMzNG1EN3NNLWlJdHJWbzY5UmR2dExWSFdYV1YxRExxV19pS2JDemxDb3lBRE9GSU1lNHc0SUdkM2RWQWxub2c5U0k?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "67266fa81e0f",
       "title": "「腎臓」が悪い人の尿は“健康な人の尿”とどう違う？ 多尿は危険？【医師解説】(メディカルドック)",
       "published": "2026-03-21T10:03:37+00:00",
@@ -207,6 +382,19 @@
         {
           "name": "ｄメニューニュース",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVGo2WllEa29IOXNVdmEyMi1HRS1DS1J4c2M4SXRBdGdTUkZTTTRZbFZCM3k1NTVxdmh3bzNqVU1zbFAycTJjbFB5Qk1ucVdnTmN6d2d1NmtLamZpLW1fMFc5WDd6dXRhZUxUMFl3QTFqeHRyem16OTZzaFRWb053ZWR3?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "cd85ed50ff7a",
+      "title": "「香り」の活用で、脳機能の向上や認知症予防に。日中は脳を活性化、寝る前にはリラックス。生活に取り入れたい《香り習慣》",
+      "published": "2026-03-21T03:29:00+00:00",
+      "summary": "「香り」の活用で、脳機能の向上や認知症予防に。日中は脳を活性化、寝る前にはリラックス。生活に取り入れたい《香り習慣》&nbsp;&nbsp;婦人公論.jpGoogle ニュースですべての記事を見る",
+      "sources": [
+        {
+          "name": "婦人公論.jp",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51dkt1dGJaSS1kNGxRMm00WElYNEJXbUI5cXRPdjNBYmppS2Y0cHhLRDBXVU54ZHR4T1NGS1lNdnoyaXZMTkVKa0ZXTllNNTQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -314,6 +502,165 @@
       ]
     },
     {
+      "id": "4d861417b36c",
+      "title": "心当たりがないのに1年前より「空腹時血糖値」高い…見落としがちな“5つの原因”とは【糖尿病専門医が解説】",
+      "published": "2026-03-20T23:30:10+00:00",
+      "summary": "心当たりがないのに1年前より「空腹時血糖値」高い…見落としがちな“5つの原因”とは【糖尿病専門医が解説】&nbsp;&nbsp;ニコニコニュースこれをやらないと老化が加速する…｢40代以上の4人に1人が糖尿病患者｣の日本人に必要な“食べ方”&nbsp;&nbsp;PRESIDENT Online（プレジデントオンライン）糖尿病患者の死因1位は「がん」…甘い物の食べ過ぎが発症リスク上げる！？ 予防に有効な食事法とは【専門医解説】&nbsp;&nbsp;Yahoo!ニュースがん患者の予後に影響する「糖尿病」―心血管疾患発症リスクを高める可能性｜CareNet.com&nbsp;&nbsp;CareNet.com",
+      "sources": [
+        {
+          "name": "ニコニコニュース",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQYlU1UEdjSXFGOFpXdzlrVmJqN1huMkNSVkxiVmlvOW81bE9GdWRQUUUxU21YMnpVM21EQWNvV2RVU0hPX1ItOTlNaVBmb0ZkelVVUg?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "atorvastatin",
+              "name": "アトーゼット配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "pravastatin",
+              "name": "メバロチン錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "atenolol",
+              "name": "テノーミン錠５０　５０ｍｇ（選）"
+            },
+            {
+              "slug": "simvastatin",
+              "name": "リポバス錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "ロプレソール錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "lisinopril",
+              "name": "ロンゲス錠２０ｍｇ（選）"
+            },
+            {
+              "slug": "rosuvastatin",
+              "name": "クレストールＯＤ錠５ｍｇ（選）"
+            },
+            {
+              "slug": "clopidogrel",
+              "name": "プラビックス錠７５ｍｇ（選）"
+            },
+            {
+              "slug": "verapamil",
+              "name": "ワソラン錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "prasugrel",
+              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "心血管疾患",
+          "keyword": "心血管疾患",
+          "related_drugs": [
+            {
+              "slug": "atorvastatin",
+              "name": "アトーゼット配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "pravastatin",
+              "name": "メバロチン錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "atenolol",
+              "name": "テノーミン錠５０　５０ｍｇ（選）"
+            },
+            {
+              "slug": "simvastatin",
+              "name": "リポバス錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "ロプレソール錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "lisinopril",
+              "name": "ロンゲス錠２０ｍｇ（選）"
+            },
+            {
+              "slug": "rosuvastatin",
+              "name": "クレストールＯＤ錠５ｍｇ（選）"
+            },
+            {
+              "slug": "clopidogrel",
+              "name": "プラビックス錠７５ｍｇ（選）"
+            },
+            {
+              "slug": "verapamil",
+              "name": "ワソラン錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "prasugrel",
+              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "4a44e0d109d1",
       "title": "料理ができる高齢者は長生き？ 調理技術と口腔機能の問題により死亡リスク最大2倍に",
       "published": "2026-03-20T15:02:47+00:00",
@@ -322,19 +669,6 @@
         {
           "name": "sndj-web.jp",
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9RRDluMkhzUnM5bkdDblJzU2hJSFI5UldoS25WeVJXRW80dEh2VEFPMC1aeVBXWkxIZWRqVEh4XzhBMV9fclpralNkWQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "8dcc49082374",
-      "title": "『ヒポクラテスの盲点』大磯で上映 大西隼監督も登場予定 | 平塚・大磯・二宮・中井",
-      "published": "2026-03-20T15:00:00+00:00",
-      "summary": "『ヒポクラテスの盲点』大磯で上映 大西隼監督も登場予定 | 平塚・大磯・二宮・中井&nbsp;&nbsp;タウンニュース新型コロナワクチン接種開始から5年。そして今、本格的な議論を始めよう。対談・大西隼×上島有加里&nbsp;&nbsp;Yahoo!ニュース【寄稿】ワクチンと向き合い続けて〈2〉 新聞の社説とクレーム | 日刊薬業 - 医薬品産業の総合情報サイト&nbsp;&nbsp;日刊薬業日本のワクチン接種施策の原点は「信頼の向上」&nbsp;&nbsp;Medical Tribune",
-      "sources": [
-        {
-          "name": "タウンニュース",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XaTJHOU1hNkE5MFh6Q0VETDVUbng5VWxkc2tleEx3VXAzaW4tRjF0WjJkQ1ZFRDBodHh3alVzTW9qaGtDdnI4Z1JUVFVRd0FQR3dsMUhjNDQwamFlWlVwZFJiMlU?oc=5"
         }
       ],
       "matched_keywords": []
@@ -766,45 +1100,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "765f43bf5cf1",
-      "title": "平安時代の僧侶ら魚食べていた？　奈良・海龍王寺の井戸跡から骨出土　奈文研の調査で発見(産経新聞)",
-      "published": "2026-03-17T09:51:46+00:00",
-      "summary": "海龍王寺（奈良市）の旧境内から奈良文化財研究所（同市）の発掘調査により平安時代の井戸跡が出土し、その埋土から魚類などの骨が見つかった。当時の寺域内で消費された可能性があるという。同研究所の「発掘調査報",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/6e6b98ce38ca804f2df18dbf80a294c3eb44380e?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "7e028f92851c",
-      "title": "生成AIは科学者を超えるのか？　物理学者が語る「AI時代の科学の未来」(AERA DIGITAL)",
-      "published": "2026-03-17T07:30:37+00:00",
-      "summary": "生成AIの登場によって、数学の証明をAIが行う時代が現実になりつつある。 では物理学はどうなるのか。 AIは世界の法則を発見できるのか。 物理学者・田口善弘と心理学者・毛内拡は、「身体を持たないAIは",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/0aee13688a873170c859acb648e63ad608df4d83?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "e0221e9374d0",
-      "title": "世界最高の速度と感度、NTTが高速光通信向け受光素子(ニュースイッチ)",
-      "published": "2026-03-17T07:10:11+00:00",
-      "summary": "NTTは毎秒3・2テラビット（テラは1兆）級の高速光通信に向け、動作速度200ギガヘルツ（ギガは10億）超で、実用レベルの信頼性を持つ受光素子を開発した。データセンター内をつなぐ光通信に用いる1310",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/12ba699d2a4286ef09bedbe075d44e8519e4e20e?source=rss"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }
