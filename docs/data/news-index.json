@@ -1,7 +1,71 @@
 {
-  "generated": "2026-03-25T12:44:01.748096+00:00",
-  "count": 10,
+  "generated": "2026-03-25T18:43:35.719455+00:00",
+  "count": 11,
   "news": [
+    {
+      "id": "9cf5cd066303",
+      "title": "がん研究会、「病態が血液に現れる」ALS患者の血液から異常タンパク質を同定 ～検査法の開発と疾患メカニズムの理解に前進～",
+      "published": "2026-03-25T11:05:01+00:00",
+      "sources": [
+        {
+          "name": "日経バイオテクONLINE",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05UmQ1YzlBNmlPUG1JVjBmVTQ0QXVWTFRxeG8yeVF6X2VSU2gyS25tLVZ1a1YxOHE2VVpqTTJBcHBLQlpTeFZQcjJQUndfM2lVMHhlUmFsYnNuQWtzYVhpUFpIYWs2Zw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "b063c0b64b6b",
       "title": "解熱鎮痛薬アスピリンと低酸素環境が「PIK3CA変異型大腸がん」の細胞内グルタミン蓄積を促進 ～細胞内に蓄積したグルタミンを標的とした新たな治療戦略へ",
