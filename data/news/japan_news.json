@@ -1,19 +1,127 @@
 {
   "source": "japan_news",
-  "fetched_at": "2026-03-25T01:16:55.333315+00:00",
-  "total_fetched": 150,
-  "unique_count": 150,
-  "health_related_count": 61,
+  "fetched_at": "2026-03-25T06:52:15.091094+00:00",
+  "total_fetched": 146,
+  "unique_count": 146,
+  "health_related_count": 58,
   "news": [
     {
-      "id": "5d97564d798c",
-      "title": "朝食にバナナ1本プラスでOK…認知症、脳卒中、学業成績、うつ病に影響する現代人の\"副菜不足\"を補う方法(プレジデントオンライン)",
-      "published": "2026-03-25T01:15:40+00:00",
-      "summary": "1日350グラムという野菜摂取目標量をクリアしている日本人は少ない。医師の谷本哲也さんは「果物を含む副菜を積極的に摂る人のほうが、あらゆる健康リスクが低くなるだけでなく、“いい脳”になるという結果が世",
+      "id": "06be9df51070",
+      "title": "40代主婦、中高年にぴったりな“スキマバイト”を発見！責任に重さに吐き気→やってみたら大当たり(女子SPA！)",
+      "published": "2026-03-25T06:46:52+00:00",
+      "summary": "不況や物価高、そして副業解禁する会社も増え、いまブームとなっている“スキマバイト”。ライター歴15年、40代主婦の筆者は、この物価高の中、生活費の足しにとスキマバイトに手を出すことにしました。 未経",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/2dcb6ad436da774a23806fe0e604ab4616813e0f?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/6534be3dc036e15e71a4bfd6b2d93d621ab5f397?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "e5f44f7d391c",
+      "title": "日々の運動に変化をつければ寿命が延びる？、多様な運動にメリット(CNN.co.jp)",
+      "published": "2026-03-25T06:29:00+00:00",
+      "summary": "（CNN） 寿命を延ばしたければ、日々の運動に変化をつけるのがいいとの研究結果が、このほど発表された。ウォーキングや水泳、ヨガ、庭仕事にピックルボールといった活動を切り替えながら続けることで、全死因死",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/dd62bb41ff96d9c4d2f947b1078c2ac85c504dee?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "c972c48ca358",
+      "title": "薬剤師国家試験2026、合格率1位「金沢大」94.87％(リセマム)",
+      "published": "2026-03-25T06:18:28+00:00",
+      "summary": "厚生労働省が2026年3月25日に発表した第111回薬剤師国家試験の合格状況によると、合格率は「金沢大学」が94.87％ともっとも高く、合格者数は「東京薬科大学」が425人でもっとも多かった。",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/aacc3dc534802e8814e2b26c71543010b7190c22?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "9786782b764d",
+      "title": "織田信成＆アンナ・ハッセルボリが未来のカーラーたちと交流！「ユニクロドリームプロジェクト ジュニアカーリングクリニック」レポート(ウォーカープラス)",
+      "published": "2026-03-25T06:00:00+00:00",
+      "summary": "「軽井沢国際カーリング」開幕前日の2026年3月12日、次世代カーラー(カーリング選手)を対象とした「ユニクロドリームプロジェクト ジュニアカーリングクリニック」が軽井沢アイスパークで開催。 「ユニ",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/f6805e20a169d7ac8328441e7c926beed254dbbc?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "fca9aa6eb5bf",
+      "title": "薬剤師国家試験2026、新卒合格率は86.25％(リセマム)",
+      "published": "2026-03-25T05:38:39+00:00",
+      "summary": "厚生労働省は2026年3月25日午後2時、第111回薬剤師国家試験の合格発表を行った。全体の合格率は68.49％。新卒の合格率は86.25％で、前年より1.29ポイント増加した。",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/4824f1d70d72a50ede5460d548c9cc29a087fdeb?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "d1fa6d8fb248",
+      "title": "「身体拘束ゼロ」目指した病院　当初は多くの離職者…乗り越えた現場で起きた変化とは(西日本新聞)",
+      "published": "2026-03-25T05:30:23+00:00",
+      "summary": "ベッドや車椅子に手足を縛るなどして動きを抑制する「身体拘束」。高齢化で認知症の患者が増える中、治療や安全のためにやむを得ないという医療機関も少なくない。そんな中、身体拘束をなくし、患者中心のケアを目",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/29e4a307c2dce154f45f0ba7ac8907c09ae6b486?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "15d28b5695de",
+      "title": "「野菜を食べていれば健康」というわけじゃない…野菜中心でも不健康になり得る食習慣の落とし穴(集英社オンライン)",
+      "published": "2026-03-25T02:00:36+00:00",
+      "summary": "「健康には野菜がいい」はいまや常識だ。実際、野菜は食物繊維やビタミン、ミネラルの重要な供給源で、現代人に不足しがちな食材でもある。だが一方で、「野菜を食べていれば健康」と単純化してしまうと意外な落とし",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/d309ac3d9c23faaa4f367da7040ab4fb3dd9f234?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "00dd97a810ed",
+      "title": "妊娠への影響も？20〜40歳女性の60％が「性感染症検査を受けたことがない」実態調査 - prtimes.jp",
+      "published": "2026-03-25T02:00:02+00:00",
+      "summary": "妊娠への影響も？20〜40歳女性の60％が「性感染症検査を受けたことがない」実態調査&nbsp;&nbsp;prtimes.jp",
+      "sources": [
+        {
+          "name": "prtimes.jp",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HRjRVVXBCVkJjNXR3X3RlVlNTbHRjLTVyQnR1LUlWTWdUcE45X092WUZvRS1FZ1kxejFiYmtNdGEtSFhFclZJdXduX1NrVUhaSVY2X3NadWdGTzREa0xBcW5iOWdaVU9jYkE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d16d2d568279",
+      "title": "うつ病 回復難しくする併存症や生活リズムの乱れ 治療に新しい選択肢も - au Webポータル",
+      "published": "2026-03-25T02:00:00+00:00",
+      "summary": "うつ病 回復難しくする併存症や生活リズムの乱れ 治療に新しい選択肢も&nbsp;&nbsp;au Webポータル",
+      "sources": [
+        {
+          "name": "au Webポータル",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RdEtSakk4UnVMTl9zWjFQRFZnNWszbG95czRhcHVhNkVUbGEzTTVIallBbi1qZkdMTDZxcGE3THR5ZjFsQjJFTFdzVXQ1WnRsdXdZZC1jZ0EwSUZzazdsMjJzcnBhTzBzSFNvbVp6SWQ4Y05mWGc1b25nSQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "897fcceab461",
+      "title": "衛星搭載アダプタの部材剥離が原因となった可能性高まる　JAXAがH3ロケット8号機打ち上げ失敗原因究明状況を報告(sorae 宇宙へのポータルサイト)",
+      "published": "2026-03-25T01:47:40+00:00",
+      "summary": "JAXA（宇宙航空研究開発機構）は2026年3月24日に開催された第61回宇宙開発利用部会 調査・安全小委員会にて、「H3」ロケット8号機打ち上げ失敗の原因究明について、最新の状況を報告しました。",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/a7283ed6219d8853b2b40238ae0aac37d5abc983?source=rss"
         }
       ]
     },
@@ -21,7 +129,7 @@
       "id": "59fe5d4bc9c0",
       "title": "RSウイルス感染症定期予防接種のお知らせ - city.iwade.lg.jp",
       "published": "2026-03-25T01:07:36+00:00",
-      "summary": "RSウイルス感染症定期予防接種のお知らせ&nbsp;&nbsp;city.iwade.lg.jp【つくばみらい市】市政報告：妊婦のRSウイルス予防接種が定期接種に追加されます&nbsp;&nbsp;選挙ドットコムRSウイルスワクチンが定期接種に～なぜ対象は妊婦なのか～&nbsp;&nbsp;時事メディカルＲＳウイルス母子免疫ワクチン 定期接種に 子育て世代の負担軽減と正しい理解を 鹿児島（KKB鹿児島放送）&nbsp;&nbsp;Yahoo!ニュース",
+      "summary": "RSウイルス感染症定期予防接種のお知らせ&nbsp;&nbsp;city.iwade.lg.jpモデルのソンイ、「呼吸がおかしい…」生後2カ月の娘が緊急搬送。低月齢での感染症の怖さを経験しているからこそ今伝えたいこととは【RSウイルス感染症】（たまひよONLINE）&nbsp;&nbsp;Yahoo!ニュース【つくばみらい市】市政報告：妊婦のRSウイルス予防接種が定期接種に追加されます&nbsp;&nbsp;選挙ドットコムRSウイルスワクチンが定期接種に～なぜ対象は妊婦なのか～&nbsp;&nbsp;時事メディカル",
       "sources": [
         {
           "name": "city.iwade.lg.jp",
@@ -38,54 +146,6 @@
         {
           "name": "cira.kyoto-u.ac.jp",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9HMExTNEdJUnNpXzZQR2F5Z0hnQV8wampQQXpGU0ZxeHlRNDhhQTJQNWQ5dnc1dkRvekw1QVNsVmE2UUZqdGxfMUtWa2g0LXpJUE1rTWdiNGZXbTRQQ1Z6TFNacXBwTFhPUUc4aGR0Z2xMMkxoaE1PRA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7ede9425efb8",
-      "title": "猫もインフルエンザにかかる？　寒い時期に注意すべき「猫風邪」対策とは【獣医師に聞く】(オトナンサー)",
-      "published": "2026-03-25T00:15:00+00:00",
-      "summary": "一時期に比べて感染者数が減っているものの、現在もインフルエンザが流行しています。また、寒暖差が激しいこの時期、猫を飼っている人の中には、愛猫にもうつるのではないかと心配している人も多いと思います。そ",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/97e1d66ab97e40b94b53e111468ce8ba5773deee?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "7fae30a718b6",
-      "title": "その花粉症対策、間違ってない？ 目薬後に目をパチパチ、水道水で目を洗う…NGケアをプロに聞く(オリコン)",
-      "published": "2026-03-25T00:10:00+00:00",
-      "summary": "花粉症のつらい症状のひとつが目のかゆみ。こすりたいけどこすれない、目が真っ赤、涙がボロボロ…。この季節は目薬が手放せないという人も多いことだろう。でも、ちょっと待った！ その目薬のさし方、目の洗い方",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/4e5235a1e71b58152db96b3b59ed7de0c787d462?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "a7171dc81c8f",
-      "title": "【社説】iPS製品承認　治療重ねて課題の克服を(西日本新聞)",
-      "published": "2026-03-25T00:00:48+00:00",
-      "summary": "再生医療が新たな段階に入った。日本発の画期的な治療法を実用化する第一歩である。残る課題を克服し、着実に歩みを進めたい。 人工多能性幹細胞（iPS細胞）を用いた2種類の再生医療等製品が、厚生労働省",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/a0a533452a2047d9f2dac5de0abd4e4d4c9eed7b?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "24e563f10c03",
-      "title": "メゾン マルジェラの新作。デニムに間違いなく映える、アイウェアホルダー&ミニポーチを発見！(OCEANS)",
-      "published": "2026-03-25T00:00:00+00:00",
-      "summary": "メゾン マルジェラが得意とするアイテムのひとつが、デニム。そして新たにクリエイティブディレクターに就任したグレン・マーティンスは、デニムにきわめて造詣の深い人物。つまり今後、メゾン マルジェラのデニム",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/b49199a87528ccdde7cea95ebc7ab2174f192e8a?source=rss"
         }
       ]
     },
@@ -126,10 +186,22 @@
       ]
     },
     {
+      "id": "3f6ed56fac77",
+      "title": "睡眠・運動・食事を「同時に」「ほんの少し」改善するだけで心血管疾患リスクが低下 - ナゾロジー",
+      "published": "2026-03-24T21:34:49+00:00",
+      "summary": "睡眠・運動・食事を「同時に」「ほんの少し」改善するだけで心血管疾患リスクが低下&nbsp;&nbsp;ナゾロジーGoogle ニュースですべての記事を見る",
+      "sources": [
+        {
+          "name": "ナゾロジー",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zM2htMUhDWDlQTUE5VXpmQlgyZGRzUEdGTjd0MlZtdmpoR0hXbkFwWTU1NlBsTTZNb0R3RmNyREI3RFBQY1NCd0YxM0dqcG8zV2NNOTVjRUVnRms?oc=5"
+        }
+      ]
+    },
+    {
       "id": "e0669737337c",
       "title": "🔵 2026年3月25日帯状疱疹ワクチン接種の翌日やや体が痛い。 - 選挙ドットコム",
       "published": "2026-03-24T21:18:01+00:00",
-      "summary": "🔵 2026年3月25日帯状疱疹ワクチン接種の翌日やや体が痛い。&nbsp;&nbsp;選挙ドットコム帯状疱疹ワクチン&nbsp;&nbsp;公明党医師「発症から72時間以内が勝負」→放置すると“一生モノの後遺症”に… 帯状疱疹を見逃さないための「重要なサイン」とは？&nbsp;&nbsp;TRILL",
+      "summary": "🔵 2026年3月25日帯状疱疹ワクチン接種の翌日やや体が痛い。&nbsp;&nbsp;選挙ドットコム医師「発症から72時間以内が勝負」→放置すると“一生モノの後遺症”に… 帯状疱疹を見逃さないための「重要なサイン」とは？&nbsp;&nbsp;TRILL",
       "sources": [
         {
           "name": "選挙ドットコム",
@@ -146,18 +218,6 @@
         {
           "name": "ウーマンズラボ",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9tdXN0R0pzSVZ0RXJHbzNfZTUzN3duRVRzalpaSndIdXRhLS1tRlcwR25QV3dxa3UwWVNkY1lvZEZqajFiMkJ1THYtUDZ0UQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "efe08f5f2d55",
-      "title": "感染力が強い梅毒 赤ちゃんに甚大な影響も【白鷗大・岡田教授が解説】 人と社会と感染症（24） - 47NEWS",
-      "published": "2026-03-24T20:00:00+00:00",
-      "summary": "感染力が強い梅毒 赤ちゃんに甚大な影響も【白鷗大・岡田教授が解説】 人と社会と感染症（24）&nbsp;&nbsp;47NEWS感染力が強い梅毒 赤ちゃんに甚大な影響も【白鷗大・岡田教授が解説】&nbsp;&nbsp;下野新聞社広報みなと2026年3月15日号 梅毒が流行しています&nbsp;&nbsp;city.minato.tokyo.jp静かに広がる性感染症 〝気付かない〟をなくす新たな取り組み「郵送検査」って?（RKK熊本放送）&nbsp;&nbsp;Yahoo!ニュース感染力が強い梅毒 赤ちゃんに甚大な影響も【白鷗大・岡田教授が解説】 人と社会と感染症（24） 人と社会と感染症（24）&nbsp;&nbsp;ｄメニューニュース",
-      "sources": [
-        {
-          "name": "47NEWS",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1VNnVIa3NKR1JiUHFUbVdZRHo2MGxteE1sM0tfSGNjdm9UWDBEbGZMOEx4dHB5TkVsLWVudmJCNEdPbEJMZnIxRDBVaw?oc=5"
         }
       ]
     },
@@ -210,10 +270,10 @@
       ]
     },
     {
-      "id": "850fcb4ba7e0",
-      "title": "認知症道案内：薬があるそうですが＝新井平伊（アルツクリニック東京院長） - 毎日新聞",
+      "id": "8ffbadd55e4b",
+      "title": "認知症道案内：薬があるそうですが＝新井平伊（アルツクリニックPETラボ 医師） - 毎日新聞",
       "published": "2026-03-24T17:00:36+00:00",
-      "summary": "認知症道案内：薬があるそうですが＝新井平伊（アルツクリニック東京院長）&nbsp;&nbsp;毎日新聞",
+      "summary": "認知症道案内：薬があるそうですが＝新井平伊（アルツクリニックPETラボ 医師）&nbsp;&nbsp;毎日新聞",
       "sources": [
         {
           "name": "毎日新聞",
@@ -378,25 +438,25 @@
       ]
     },
     {
-      "id": "20c7968a0723",
-      "title": "埼玉の50代男性がはしか感染 東武線やJRを利用 発熱やせきを発症 その後、発疹や結膜充血などの症状 - au Webポータル",
+      "id": "820a711967d9",
+      "title": "埼玉の50代男性がはしか感染 東武線やJRを利用 発熱やせきを発症 その後、発疹や結膜充血などの症状 - 47NEWS",
       "published": "2026-03-23T22:43:00+00:00",
-      "summary": "埼玉の50代男性がはしか感染 東武線やJRを利用 発熱やせきを発症 その後、発疹や結膜充血などの症状&nbsp;&nbsp;au WebポータルGoogle ニュースですべての記事を見る",
+      "summary": "埼玉の50代男性がはしか感染 東武線やJRを利用 発熱やせきを発症 その後、発疹や結膜充血などの症状&nbsp;&nbsp;47NEWSGoogle ニュースですべての記事を見る",
       "sources": [
         {
-          "name": "au Webポータル",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE05MTZTdDIxUXQxbTdTems2bjNoc0Q4NUtnNUN0Q2dOeTNpTHJZOHJzam5kanNaRmE5eVA5dWJEMTRnSTBSYUxaaXJUREVOV3dTR1NYT0xhQ0w0R0o0eExoRVdOVkI4aTc1REtNaFJaY21VVFZlaFRWMTRlSQ?oc=5"
+          "name": "47NEWS",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ETnVUczRldVVjd3RPeDRYRzF2NkhlMVRCaWs5cTZ0Sk4yZVpNVk5XTzFyZVNrX0F5NUJmbmVZSUE2QlVuLWZmQ2d2Zw?oc=5"
         }
       ]
     },
     {
-      "id": "673c3c595cc3",
-      "title": "忙しいあなたのための新しい医療ダイエットサービス。「Mend」を全国で提供開始。 - PR TIMES",
+      "id": "4a41ad6bbafa",
+      "title": "忙しいあなたのための新しい医療ダイエットサービス。「Mend」を全国で提供開始。 - prtimes.jp",
       "published": "2026-03-23T22:39:37+00:00",
-      "summary": "忙しいあなたのための新しい医療ダイエットサービス。「Mend」を全国で提供開始。&nbsp;&nbsp;PR TIMES",
+      "summary": "忙しいあなたのための新しい医療ダイエットサービス。「Mend」を全国で提供開始。&nbsp;&nbsp;prtimes.jp",
       "sources": [
         {
-          "name": "PR TIMES",
+          "name": "prtimes.jp",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OYWg5LTkzdDhLY1Mxeml0YWRCZE52OTZuV0ZabE1Zd2MtMWplaDZGNGNBQ0NYSUlpdUhsU2tVVlQ2REgyOUVfdUVZb3U1Y0EzWk5jWGRNQzNTbzl3a2VFNzNXVmNTU0dQSGc?oc=5"
         }
       ]
@@ -429,7 +489,7 @@
       "id": "33bbea094bb0",
       "title": "女性の「更年期障害」は心臓病の死亡リスクをアップさせる｜上皇の執刀医「心臓病はここまで治せる」 - 日刊ゲンダイDIGITAL",
       "published": "2026-03-23T21:00:00+00:00",
-      "summary": "女性の「更年期障害」は心臓病の死亡リスクをアップさせる｜上皇の執刀医「心臓病はここまで治せる」&nbsp;&nbsp;日刊ゲンダイDIGITAL更年期の不調、実は「重大な病」のサインだった？ 医師が警鐘、女性ホルモン激減が招く「5つの病」（オトナンサー）&nbsp;&nbsp;Yahoo!ニュース46歳で突然の閉経。怒涛の不調で7つの病院通い。そのとき夫は、職場は？&nbsp;&nbsp;mi-mollet（ミモレ）女性が閉経を迎えるのが早ければ早いほど、生涯にわたる心血管疾患のリスクは高くなる。&nbsp;&nbsp;Vietnam.vn更年期の不調、実は「重大な病」のサインだった？ 医師が警鐘、女性ホルモン激減が招く「5つの病」&nbsp;&nbsp;ライブドアニュース",
+      "summary": "女性の「更年期障害」は心臓病の死亡リスクをアップさせる｜上皇の執刀医「心臓病はここまで治せる」&nbsp;&nbsp;日刊ゲンダイDIGITAL更年期の不調、実は「重大な病」のサインだった？ 医師が警鐘、女性ホルモン激減が招く「5つの病」（オトナンサー）&nbsp;&nbsp;Yahoo!ニュース女性が閉経を迎えるのが早ければ早いほど、生涯にわたる心血管疾患のリスクは高くなる。&nbsp;&nbsp;Vietnam.vn更年期の不調、実は「重大な病」のサインだった？ 医師が警鐘、女性ホルモン激減が招く「5つの病」&nbsp;&nbsp;ライブドアニュース",
       "sources": [
         {
           "name": "日刊ゲンダイDIGITAL",
@@ -446,30 +506,6 @@
         {
           "name": "ライブドアニュース",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6dm1VQ2p1QklwVS14aU9ZdE1kdWl0bTFDbVBzei1nc2FRR0JyUEhPcmtFakdFZUc3ajA5WmxvTHkwTFZlcVVVRlNXUkc2Q1NuMDhYZjNCaHY4N0ZuczdR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e5aedc763762",
-      "title": "がんと向き合うための情報提供告知後の不安と意思決定を支える力 - 時事メディカル",
-      "published": "2026-03-23T20:00:00+00:00",
-      "summary": "がんと向き合うための情報提供告知後の不安と意思決定を支える力&nbsp;&nbsp;時事メディカル2人に1人が生涯に一度はかかる“がん”。正しい情報を得て、最適な治療法を&nbsp;&nbsp;ライブドアニュース",
-      "sources": [
-        {
-          "name": "時事メディカル",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5iMDk4amR2cE5KMmhsWmV3bDhTV3gxQW1QMnJLNlBSY1NSSXhoekliTkhxckpkZ1l0UzlxZWhuQmY3dnhPZ2xrdDVMbU3SAVJBVV95cUxOZm9JeFhBc2cyNVh4YXh0dVVBcWd3Y0pYRlZOWDQzV0JtZ1VaSF9jV1ZQWk1HUTlLbVBmU21KNFpqX19PcnF3RkdWUTdRNUxrS2F3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "91df84c3e9ac",
-      "title": "夜食を控えると心臓にメリットがもたらされる｜CareNet.com - CareNet.com",
-      "published": "2026-03-23T19:00:00+00:00",
-      "summary": "夜食を控えると心臓にメリットがもたらされる｜CareNet.com&nbsp;&nbsp;CareNet.com「夜型」は心臓病リスクが16%高い？判明した驚きの理由と、深夜派でも“リスクを帳消し”にする3つの鍵【米】（ウィメンズヘルス）&nbsp;&nbsp;Yahoo!ニュース夜勤で働く看護師が心臓病になるイラスト（絵：おね）&nbsp;&nbsp;産経ニュース",
-      "sources": [
-        {
-          "name": "CareNet.com",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aT0FjcVpka05zZ0dDakRwc0dua2hwa0pHeXh0dFhWMHN2WV9MN25CLUowUkZnSXljQTRVQXhrU1dQZHFEMUlROWFSRS1Yaks3NUtMaW83T0VTcmc?oc=5"
         }
       ]
     },
@@ -506,18 +542,6 @@
         {
           "name": "CareNet.com",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KMTRNaGUtMS11VGg0OHhHQkd5ZFRFbWp4SEEwT09QalZGa0hIdkhFalhqcEFyQ0ZOT0NYek13amdDVjZIUFFLaTBoVDUtNFdrUHZOeEo4cXAxcHR4WHdn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a87f8984790c",
-      "title": "「糖尿病による手のしびれ」の特徴はご存知ですか？しびれる原因も解説！【医師監修】 - メディカルドック",
-      "published": "2026-03-23T17:26:20+00:00",
-      "summary": "「糖尿病による手のしびれ」の特徴はご存知ですか？しびれる原因も解説！【医師監修】&nbsp;&nbsp;メディカルドック",
-      "sources": [
-        {
-          "name": "メディカルドック",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4xcV9JcWZQb09tSmwtZHNOQ0NkLS16SDhWMWkyMkZCVFUyX09CamFpRWtBaGpicHFYcmhySjNBLXZLeFprVXNRT2NrNkc?oc=5"
         }
       ]
     },
@@ -606,42 +630,6 @@
       ]
     },
     {
-      "id": "65aedfb045e6",
-      "title": "血糖値が気になり始めた人必読！たちまち血管年齢が若返る『血糖値がみるみる下がる習慣超大全』発売（3/25）。 - 時事ドットコム",
-      "published": "2026-03-23T01:46:00+00:00",
-      "summary": "血糖値が気になり始めた人必読！たちまち血管年齢が若返る『血糖値がみるみる下がる習慣超大全』発売（3/25）。&nbsp;&nbsp;時事ドットコム「糖尿病」と診断される「血糖値の値」はご存知ですか？医師が徹底解説！ (2026年3月24日掲載)&nbsp;&nbsp;ライブドアニュース「糖尿病合併症」を予防する2つの指標とは 目標数値と何をするべきか医師に聞く (2026年3月23日掲載)&nbsp;&nbsp;ライブドアニュース",
-      "sources": [
-        {
-          "name": "時事ドットコム",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE05R0FBUE9aQ0RCZlhDdUp0Ykd0YVVWcE82ZFMxQW5FOUthRGQ3cm1EVWk3cGFDcjI4OTBtZjdORS12c0c0RVhTM1lTQXVHMU41SWV2T1V4dGljYXRrejFoUTRlQUJKd05XRzhF?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "19476264c394",
-      "title": "肥満合併2型糖尿病へのGLP-1受容体作動薬の処方が骨粗鬆症リスクと関連――AAOS - 糖尿病リソースガイド",
-      "published": "2026-03-23T01:00:15+00:00",
-      "summary": "肥満合併2型糖尿病へのGLP-1受容体作動薬の処方が骨粗鬆症リスクと関連――AAOS&nbsp;&nbsp;糖尿病リソースガイド",
-      "sources": [
-        {
-          "name": "糖尿病リソースガイド",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rY3JvWDhwc3JFczRTTWZXQ1ZQZ2hqWUpHWW1RU1Q5NjRDWldTS2lvNkRtVkFFWUxZU2h1d2dUTXBFRVowVmVoVVlIdTQtbnpTUkk3M25NaDJKZjF1UEt6SEdJRHhnZFBxQXJv?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "32c29f66914d",
-      "title": "インフルや新型コロナの「研究用」検査キット、厚労省が規制へ…利用者が「精度が高い」誤認の恐れ　 - ｄメニューニュース",
-      "published": "2026-03-23T00:17:00+00:00",
-      "summary": "インフルや新型コロナの「研究用」検査キット、厚労省が規制へ…利用者が「精度が高い」誤認の恐れ &nbsp;&nbsp;ｄメニューニュース",
-      "sources": [
-        {
-          "name": "ｄメニューニュース",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYnlPRG0teEFVNlBPNW9NcHpsWUpZeWgyQU54MW8yUjMxRjZnTVhkVzZrVGRXX2dvbWF2bk1NcFhGX041YXVSdWNxUmxrR2VhMmFqSlhqVWMyTWdBQnAwTVBEbTBvUHZpVVR5WURFUmJtalNvclhTTFRTQS13cEt2Ym9LNG3SAYoBQVVfeXFMTzUwc29GcmZOdlVHbG1qQmtxdWZyQkkxNTk0d1J2LTdzU3Vhb2VHMERxV2NmcURRaHdGTVNIUklISGRwNzd1THJKMDZwamlpNlJ3aEwycUt0TUE3d1drcUJCaWJsTTlacEZKbTZkdEc3TUpuYVBCM1VqZUVFcmFxNlpFbm1MTDBRR1N3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1ed8327ae710",
       "title": "ゲーム中に“炭酸水”飲むと脳の疲れが軽減する──筑波大×アサヒ飲料が研究　楽しさ増大・違反行為も減少(ITmedia NEWS)",
       "published": "2026-03-22T23:05:14+00:00",
@@ -710,30 +698,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/c5ab52ba2ed4c071f17c781260068620063c1a61?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "114e8eae71c2",
-      "title": "「ネズミのひげは何をキャッチしている？」京都の大学教授が快挙　「続けることができたのは驚き」(京都新聞)",
-      "published": "2026-03-21T07:30:34+00:00",
-      "summary": "ネズミやネコのひげはどんな情報をキャッチしているのか―。明治国際医療大看護学部教授の榎原智美さん（60）は、動物の末梢（まっしょう）にある外部刺激を捉える機能や形態の研究を続けている。昨年12月、国",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/aa1ef4419c13718c3de62b07c0b1ccb8051944a8?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "c6875fffadc1",
-      "title": "『高血圧』の重症度別治療法とは？ 生活習慣の改善から降圧薬の種類まで医師が徹底解説(メディカルドック)",
-      "published": "2026-03-20T10:03:19+00:00",
-      "summary": "高血圧と診断されても、重症度によって治療法は異なります。そこで、生活習慣の見直しから薬による治療に至るまで、段階ごとに必要なアプローチを百瀬医院の百瀬先生がわかりやすく解説します。",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/d07376a8e14affbb394dcbd065309c6ddf159236?source=rss"
         }
       ]
     }
