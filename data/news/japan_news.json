@@ -1,10 +1,214 @@
 {
   "source": "japan_news",
-  "fetched_at": "2026-03-24T18:49:56.650694+00:00",
-  "total_fetched": 145,
-  "unique_count": 145,
-  "health_related_count": 56,
+  "fetched_at": "2026-03-25T01:16:55.333315+00:00",
+  "total_fetched": 150,
+  "unique_count": 150,
+  "health_related_count": 61,
   "news": [
+    {
+      "id": "5d97564d798c",
+      "title": "朝食にバナナ1本プラスでOK…認知症、脳卒中、学業成績、うつ病に影響する現代人の\"副菜不足\"を補う方法(プレジデントオンライン)",
+      "published": "2026-03-25T01:15:40+00:00",
+      "summary": "1日350グラムという野菜摂取目標量をクリアしている日本人は少ない。医師の谷本哲也さんは「果物を含む副菜を積極的に摂る人のほうが、あらゆる健康リスクが低くなるだけでなく、“いい脳”になるという結果が世",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/2dcb6ad436da774a23806fe0e604ab4616813e0f?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "59fe5d4bc9c0",
+      "title": "RSウイルス感染症定期予防接種のお知らせ - city.iwade.lg.jp",
+      "published": "2026-03-25T01:07:36+00:00",
+      "summary": "RSウイルス感染症定期予防接種のお知らせ&nbsp;&nbsp;city.iwade.lg.jp【つくばみらい市】市政報告：妊婦のRSウイルス予防接種が定期接種に追加されます&nbsp;&nbsp;選挙ドットコムRSウイルスワクチンが定期接種に～なぜ対象は妊婦なのか～&nbsp;&nbsp;時事メディカルＲＳウイルス母子免疫ワクチン 定期接種に 子育て世代の負担軽減と正しい理解を 鹿児島（KKB鹿児島放送）&nbsp;&nbsp;Yahoo!ニュース",
+      "sources": [
+        {
+          "name": "city.iwade.lg.jp",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ZR216S0dRd2xYQUhOaDBma1lhUktFZEJBVC1LOGFBMld0ZUJUU3RBRjZ3OXYyNTlORTl5WlA5WExjRUpzZHQwMnBXLU15NDBpUVg2dkxSNmFiTENxMXoxMEtB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d3b85eae427d",
+      "title": "京都大学iPS細胞研究所 CiRA（サイラ） - cira.kyoto-u.ac.jp",
+      "published": "2026-03-25T00:23:32+00:00",
+      "summary": "京都大学iPS細胞研究所 CiRA（サイラ）&nbsp;&nbsp;cira.kyoto-u.ac.jp",
+      "sources": [
+        {
+          "name": "cira.kyoto-u.ac.jp",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9HMExTNEdJUnNpXzZQR2F5Z0hnQV8wampQQXpGU0ZxeHlRNDhhQTJQNWQ5dnc1dkRvekw1QVNsVmE2UUZqdGxfMUtWa2g0LXpJUE1rTWdiNGZXbTRQQ1Z6TFNacXBwTFhPUUc4aGR0Z2xMMkxoaE1PRA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7ede9425efb8",
+      "title": "猫もインフルエンザにかかる？　寒い時期に注意すべき「猫風邪」対策とは【獣医師に聞く】(オトナンサー)",
+      "published": "2026-03-25T00:15:00+00:00",
+      "summary": "一時期に比べて感染者数が減っているものの、現在もインフルエンザが流行しています。また、寒暖差が激しいこの時期、猫を飼っている人の中には、愛猫にもうつるのではないかと心配している人も多いと思います。そ",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/97e1d66ab97e40b94b53e111468ce8ba5773deee?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "7fae30a718b6",
+      "title": "その花粉症対策、間違ってない？ 目薬後に目をパチパチ、水道水で目を洗う…NGケアをプロに聞く(オリコン)",
+      "published": "2026-03-25T00:10:00+00:00",
+      "summary": "花粉症のつらい症状のひとつが目のかゆみ。こすりたいけどこすれない、目が真っ赤、涙がボロボロ…。この季節は目薬が手放せないという人も多いことだろう。でも、ちょっと待った！ その目薬のさし方、目の洗い方",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/4e5235a1e71b58152db96b3b59ed7de0c787d462?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "a7171dc81c8f",
+      "title": "【社説】iPS製品承認　治療重ねて課題の克服を(西日本新聞)",
+      "published": "2026-03-25T00:00:48+00:00",
+      "summary": "再生医療が新たな段階に入った。日本発の画期的な治療法を実用化する第一歩である。残る課題を克服し、着実に歩みを進めたい。 人工多能性幹細胞（iPS細胞）を用いた2種類の再生医療等製品が、厚生労働省",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/a0a533452a2047d9f2dac5de0abd4e4d4c9eed7b?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "24e563f10c03",
+      "title": "メゾン マルジェラの新作。デニムに間違いなく映える、アイウェアホルダー&ミニポーチを発見！(OCEANS)",
+      "published": "2026-03-25T00:00:00+00:00",
+      "summary": "メゾン マルジェラが得意とするアイテムのひとつが、デニム。そして新たにクリエイティブディレクターに就任したグレン・マーティンスは、デニムにきわめて造詣の深い人物。つまり今後、メゾン マルジェラのデニム",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/b49199a87528ccdde7cea95ebc7ab2174f192e8a?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "332fb102cae9",
+      "title": "再使用ロケット実験機RV－Xの初飛行試験が延期　外部との接続装置に問題　新日程は未定(産経新聞)",
+      "published": "2026-03-24T23:12:58+00:00",
+      "summary": "宇宙航空研究開発機構（JAXA）は25日、秋田県能代市の能代ロケット実験場で同日予定していた、再使用ロケット実験機「RV－X」の初めての飛行試験を延期すると発表した。機体は同日未明から発射地点で燃料注",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/34b02ee8cf65d73b8af1c19896994179458e1056?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "56caaf4903c8",
+      "title": "“わさびの成分”がアルツハイマー病に効く？　脳内のゴミを減らす新メカニズムを解明　スペインと日本のチームが発表(ITmedia NEWS)",
+      "published": "2026-03-24T23:05:10+00:00",
+      "summary": "スペインのマドリード自治大学や日本の金印（わさびなどを販売する食品メーカー）などに所属する研究者らは論文「Hexaraphane as a potential therapeutic strateg",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/4b358e42c984bab4eb7d3264e43c9e8a28fda894?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "35202cf26516",
+      "title": "『鼻をほじるとアルツハイマー病になる』は本当？噂の真相と“最大級のリスク”を徹底検証 - apf.inc",
+      "published": "2026-03-24T23:03:18+00:00",
+      "summary": "『鼻をほじるとアルツハイマー病になる』は本当？噂の真相と“最大級のリスク”を徹底検証&nbsp;&nbsp;apf.inc",
+      "sources": [
+        {
+          "name": "apf.inc",
+          "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPWHkzeWY4TVE1TmcwcjlNT0hHWXF0U2RBd1VUT2pXVnV5dWY1SlB1NC0xZktRSFpKWUNCZENIcDNKSk4yUWxkVVpFaFB5clNidlVQSnJMZTFiWlZRUnhJSmc5dlVDSmtDWGRDM3NnSFFjal9hY2RoNi0xYU9xVVRocXNpNDNnTnVuS1prdzlfM2FhT2tHeG5LVzM1WkF5YkQ5N2tZaXAwdVNUWDlyTGhhMXI0WFREWUFfS2hsY29YdXJoZXJ1Y0RhR3d4XzRCY1ozV2RROE9GQ3QzLVNqcE1fU0pZcmx0NUdHNklDZTdRUGpjWGlfeGs5Vk5LQU1qcDRGd1dGaHVIMjZjT0ZDci10VzBOMHZ5TlM1VmNrcFhRZDhicm5tOG9uTjRQMDg3V3NNNEViY2F1NlE4amM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e0669737337c",
+      "title": "🔵 2026年3月25日帯状疱疹ワクチン接種の翌日やや体が痛い。 - 選挙ドットコム",
+      "published": "2026-03-24T21:18:01+00:00",
+      "summary": "🔵 2026年3月25日帯状疱疹ワクチン接種の翌日やや体が痛い。&nbsp;&nbsp;選挙ドットコム帯状疱疹ワクチン&nbsp;&nbsp;公明党医師「発症から72時間以内が勝負」→放置すると“一生モノの後遺症”に… 帯状疱疹を見逃さないための「重要なサイン」とは？&nbsp;&nbsp;TRILL",
+      "sources": [
+        {
+          "name": "選挙ドットコム",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jOVI4RkNiYzZMNEdvSEY2S3d1cEFlYWpZYzRIczgzOVhJTklsYjJfN1NKTzhKT25VQkJCMnlteVV1TFMwUDJwSlhZX1BpeG9ZdkRySGtYdjNvRkNGZERv?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "097ef649f7a4",
+      "title": "女性が集まる×健康行動が起きる、女性のヘルスケアと相性二重丸の足つぼ 商業施設の人気イベントをレポート - ウーマンズラボ",
+      "published": "2026-03-24T20:10:33+00:00",
+      "summary": "女性が集まる×健康行動が起きる、女性のヘルスケアと相性二重丸の足つぼ 商業施設の人気イベントをレポート&nbsp;&nbsp;ウーマンズラボ",
+      "sources": [
+        {
+          "name": "ウーマンズラボ",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9tdXN0R0pzSVZ0RXJHbzNfZTUzN3duRVRzalpaSndIdXRhLS1tRlcwR25QV3dxa3UwWVNkY1lvZEZqajFiMkJ1THYtUDZ0UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "efe08f5f2d55",
+      "title": "感染力が強い梅毒 赤ちゃんに甚大な影響も【白鷗大・岡田教授が解説】 人と社会と感染症（24） - 47NEWS",
+      "published": "2026-03-24T20:00:00+00:00",
+      "summary": "感染力が強い梅毒 赤ちゃんに甚大な影響も【白鷗大・岡田教授が解説】 人と社会と感染症（24）&nbsp;&nbsp;47NEWS感染力が強い梅毒 赤ちゃんに甚大な影響も【白鷗大・岡田教授が解説】&nbsp;&nbsp;下野新聞社広報みなと2026年3月15日号 梅毒が流行しています&nbsp;&nbsp;city.minato.tokyo.jp静かに広がる性感染症 〝気付かない〟をなくす新たな取り組み「郵送検査」って?（RKK熊本放送）&nbsp;&nbsp;Yahoo!ニュース感染力が強い梅毒 赤ちゃんに甚大な影響も【白鷗大・岡田教授が解説】 人と社会と感染症（24） 人と社会と感染症（24）&nbsp;&nbsp;ｄメニューニュース",
+      "sources": [
+        {
+          "name": "47NEWS",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1VNnVIa3NKR1JiUHFUbVdZRHo2MGxteE1sM0tfSGNjdm9UWDBEbGZMOEx4dHB5TkVsLWVudmJCNEdPbEJMZnIxRDBVaw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f296ba84ca27",
+      "title": "日本における認知症介護者、BPSDによる負担増加とQOL低下が明らかに｜CareNet.com - CareNet.com",
+      "published": "2026-03-24T19:00:00+00:00",
+      "summary": "日本における認知症介護者、BPSDによる負担増加とQOL低下が明らかに｜CareNet.com&nbsp;&nbsp;CareNet.com不安、うつ、怒りっぽくなった… 認知症「BPSD」ケア進化 「分析→計画実行→評価」を循環&nbsp;&nbsp;東京新聞デジタル認知症に「効く」のは薬だけじゃない 認知症ケアとまちづくりが実践可能「攻めのリハ」とは （京都新聞）&nbsp;&nbsp;Yahoo!ニュース",
+      "sources": [
+        {
+          "name": "CareNet.com",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MY1J0cU5lYkVGVDI1cjBWSWJBcVlCcmhFcDJ1OFhJcHp1T0N5cDhEb24tZ0FBQlZpM0JpOTFielNheEFwNDZWa0daWlphVmUwbng3X20zaHo2ZTByODNJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "20f18dae34c1",
+      "title": "高血圧の修正可能なリスク因子、日本人で最も影響が大きいのは？｜CareNet.com - CareNet.com",
+      "published": "2026-03-24T19:00:00+00:00",
+      "summary": "高血圧の修正可能なリスク因子、日本人で最も影響が大きいのは？｜CareNet.com&nbsp;&nbsp;CareNet.com",
+      "sources": [
+        {
+          "name": "CareNet.com",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2TWJfTG5zU3VrR2x4QVdTSHZBU0ZoYkFMYWk3Sm5aVHAxUUJpYjNRN0JIRmFZOTFSRmtvUXAteFRPck1HLXhIQUFoNkI0MnhwbEtxMmtpT2JaUnB0ajM0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "22524640707d",
+      "title": "COPDの2年以内の呼吸器関連入院リスクを予測するモデルを開発／BMJ｜CareNet.com - CareNet.com",
+      "published": "2026-03-24T19:00:00+00:00",
+      "summary": "COPDの2年以内の呼吸器関連入院リスクを予測するモデルを開発／BMJ｜CareNet.com&nbsp;&nbsp;CareNet.com",
+      "sources": [
+        {
+          "name": "CareNet.com",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5USmZlbndBS3luZlhHS3FNMVdqTFViZFhUcDNiTGVUWGFhc3pwZHZIbE5QMGtvd2RiQjlySnZDMlRvTTVnM1NRalVBaWVMbmpTM01ieXVKdzNuLVVvamdn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8418db32ee72",
+      "title": "眼圧22mmHgという値は依然として眼科医の緑内障治療意思決定に影響｜CareNet.com - CareNet.com",
+      "published": "2026-03-24T19:00:00+00:00",
+      "summary": "眼圧22mmHgという値は依然として眼科医の緑内障治療意思決定に影響｜CareNet.com&nbsp;&nbsp;CareNet.com",
+      "sources": [
+        {
+          "name": "CareNet.com",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IbDBYN3BEWmR3cktVRmdYdEtqVWFpTlp6ZGVoLTA0ZmZRV2V0VzFOWmxIeVRqMUlpRUVndVVJclFPNUpwUnB6d3pIX2tsNXk5ZlJPTEFnUm9idw?oc=5"
+        }
+      ]
+    },
     {
       "id": "850fcb4ba7e0",
       "title": "認知症道案内：薬があるそうですが＝新井平伊（アルツクリニック東京院長） - 毎日新聞",
@@ -30,62 +234,14 @@
       ]
     },
     {
-      "id": "e3300b72d74a",
+      "id": "445165681dca",
       "title": "認知機能の低下リスクを、わずか5分でチェック。世界標準「MoCA」理論に基づく日本語版セルフチェックツールを提供開始 - STRAIGHT PRESS",
       "published": "2026-03-24T15:04:15+00:00",
       "summary": "認知機能の低下リスクを、わずか5分でチェック。世界標準「MoCA」理論に基づく日本語版セルフチェックツールを提供開始&nbsp;&nbsp;STRAIGHT PRESSプレスリリース：認知機能の低下リスクを、わずか5分でチェック。世界標準「MoCA」理論に基づく日本語版セルフチェックツールを提供開始（PR TIMES）&nbsp;&nbsp;毎日新聞予備軍も含めると「認知症」は全国で1000万人 わずか3分で病気の兆候を検知するアプリ 鍵は「目」（テレビ愛知）&nbsp;&nbsp;Yahoo!ニュース北大、認知症を「早く見つける」ための新しい手がかりを発見&nbsp;&nbsp;ニフティニュース",
       "sources": [
         {
           "name": "STRAIGHT PRESS",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE13QUcyNEhHME1hYmI2bzZLRzFtZnBvM2I5U1hMX0JMZ0pxRUZNOTRRVjVRcDlNQ0gyZTA4R1E2NjkxV3dJLTNQLVdBNldOelRoeXgtbVF1X212dzN5TjFqZ2N4cjd0Mks0aXN5aFVVYWdla0oy?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1d1c80ba0a72",
-      "title": "壊れてる？と疑った。ジェットエンジン技術を応用し「静かさ」を実現したダイソン「空気清浄機」の凄み(ライフハッカー・ジャパン)",
-      "published": "2026-03-24T13:31:01+00:00",
-      "summary": "毎年、この時期は花粉症に悩まされます。特に2026年は、例年を大きく上回る飛散量で、症状も重め。スギ花粉はピークを過ぎましたが、4月になればヒノキ花粉がやってきて憂鬱になります。 もはや「国民病」と",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/ef384bbfd60c4620dcd5452d85de356b491bf9e0?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "82240c868144",
-      "title": "【必見】くしゃみ・鼻水に！「花粉症を和らげる」3つの食材。意外な“身近な野菜”も？米栄養士解説(ウィメンズヘルス)",
-      "published": "2026-03-24T13:30:17+00:00",
-      "summary": "目がかゆくなったり、鼻がムズムズしたり、くしゃみや涙が止まらなくなったり……春は、アメリカの成人のおよそ30%（日本では2人に1人以上）が悩むといわれる、花粉症などの季節性アレルギーがつらい時期でもあ",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/75c1e0f60c9a42f0b4b369fa333b6c410d32dcd1?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "b434fe7df3af",
-      "title": "検定資料の公開は5月から7会場で(産経新聞)",
-      "published": "2026-03-24T12:35:20+00:00",
-      "summary": "文部科学省は教科書検定での記述の修正過程などが分かるよう、5月から全国7会場で関係資料を公開する。会場と公開期間は次の通り。 教科書研究センター（東京都江東区千石）5月18～29日▽山形県庁会議室（",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/88ea43e2757b00aa5f43b69248c414b4d64cec09?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "594ceb28b1f1",
-      "title": "【衝撃】キャサリン妃も実践！「冷たければ冷たいほどいい」40代からの“脳と体を若返らせる”意外な習慣とは？(ウィメンズヘルス)",
-      "published": "2026-03-24T12:31:53+00:00",
-      "summary": "健康的な食事、禁煙、ストレス管理。これらは基本だけど、ただ「長く生きる」だけでなく、いかに「健やかに若々しく生きる（健康寿命を延ばす）」かを考えたとき、科学が導き出した意外な答えがある。 それは、キ",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/2f538570c799f5b3302118ae8d539170247d625e?source=rss"
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nNXJnNHY0anp0bTEtZHFxOWpLWHVpcW5VbHo1Tm1GWm5zV0lwYmRoTmRoYjkyNGhBTnNXUnFkWUpCWXJFTVJkRks2bXI0dTRNOXQzNE5Ba3QyWlQ5YXhRU0NTZXpqR3FGSlJnYWRSdjg1V2FQZ0E?oc=5"
         }
       ]
     },
@@ -222,14 +378,14 @@
       ]
     },
     {
-      "id": "820a711967d9",
-      "title": "埼玉の50代男性がはしか感染 東武線やJRを利用 発熱やせきを発症 その後、発疹や結膜充血などの症状 - 47NEWS",
+      "id": "20c7968a0723",
+      "title": "埼玉の50代男性がはしか感染 東武線やJRを利用 発熱やせきを発症 その後、発疹や結膜充血などの症状 - au Webポータル",
       "published": "2026-03-23T22:43:00+00:00",
-      "summary": "埼玉の50代男性がはしか感染 東武線やJRを利用 発熱やせきを発症 その後、発疹や結膜充血などの症状&nbsp;&nbsp;47NEWSGoogle ニュースですべての記事を見る",
+      "summary": "埼玉の50代男性がはしか感染 東武線やJRを利用 発熱やせきを発症 その後、発疹や結膜充血などの症状&nbsp;&nbsp;au WebポータルGoogle ニュースですべての記事を見る",
       "sources": [
         {
-          "name": "47NEWS",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ETnVUczRldVVjd3RPeDRYRzF2NkhlMVRCaWs5cTZ0Sk4yZVpNVk5XTzFyZVNrX0F5NUJmbmVZSUE2QlVuLWZmQ2d2Zw?oc=5"
+          "name": "au Webポータル",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE05MTZTdDIxUXQxbTdTems2bjNoc0Q4NUtnNUN0Q2dOeTNpTHJZOHJzam5kanNaRmE5eVA5dWJEMTRnSTBSYUxaaXJUREVOV3dTR1NYT0xhQ0w0R0o0eExoRVdOVkI4aTc1REtNaFJaY21VVFZlaFRWMTRlSQ?oc=5"
         }
       ]
     },
@@ -270,6 +426,18 @@
       ]
     },
     {
+      "id": "33bbea094bb0",
+      "title": "女性の「更年期障害」は心臓病の死亡リスクをアップさせる｜上皇の執刀医「心臓病はここまで治せる」 - 日刊ゲンダイDIGITAL",
+      "published": "2026-03-23T21:00:00+00:00",
+      "summary": "女性の「更年期障害」は心臓病の死亡リスクをアップさせる｜上皇の執刀医「心臓病はここまで治せる」&nbsp;&nbsp;日刊ゲンダイDIGITAL更年期の不調、実は「重大な病」のサインだった？ 医師が警鐘、女性ホルモン激減が招く「5つの病」（オトナンサー）&nbsp;&nbsp;Yahoo!ニュース46歳で突然の閉経。怒涛の不調で7つの病院通い。そのとき夫は、職場は？&nbsp;&nbsp;mi-mollet（ミモレ）女性が閉経を迎えるのが早ければ早いほど、生涯にわたる心血管疾患のリスクは高くなる。&nbsp;&nbsp;Vietnam.vn更年期の不調、実は「重大な病」のサインだった？ 医師が警鐘、女性ホルモン激減が招く「5つの病」&nbsp;&nbsp;ライブドアニュース",
+      "sources": [
+        {
+          "name": "日刊ゲンダイDIGITAL",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1Nb3M2Skxpc2xIdjV1bzA0aE9NaXlzVzRYN01XLVBJZlVGa1VqV2JQV0FOZEVBemhLY2lxcDNoYl9nY01KczJjVVVYem5HaEZuUFpTQXVDVG0yazRGeHZtcjZPRGxxRFpp?oc=5"
+        }
+      ]
+    },
+    {
       "id": "d2dce6fc4d4e",
       "title": "腸に穴が開いた時に内臓脂肪が炎症を抑える役割を果たしていたことがマウス研究で判明 - ライブドアニュース",
       "published": "2026-03-23T21:00:00+00:00",
@@ -290,6 +458,18 @@
         {
           "name": "時事メディカル",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5iMDk4amR2cE5KMmhsWmV3bDhTV3gxQW1QMnJLNlBSY1NSSXhoekliTkhxckpkZ1l0UzlxZWhuQmY3dnhPZ2xrdDVMbU3SAVJBVV95cUxOZm9JeFhBc2cyNVh4YXh0dVVBcWd3Y0pYRlZOWDQzV0JtZ1VaSF9jV1ZQWk1HUTlLbVBmU21KNFpqX19PcnF3RkdWUTdRNUxrS2F3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "91df84c3e9ac",
+      "title": "夜食を控えると心臓にメリットがもたらされる｜CareNet.com - CareNet.com",
+      "published": "2026-03-23T19:00:00+00:00",
+      "summary": "夜食を控えると心臓にメリットがもたらされる｜CareNet.com&nbsp;&nbsp;CareNet.com「夜型」は心臓病リスクが16%高い？判明した驚きの理由と、深夜派でも“リスクを帳消し”にする3つの鍵【米】（ウィメンズヘルス）&nbsp;&nbsp;Yahoo!ニュース夜勤で働く看護師が心臓病になるイラスト（絵：おね）&nbsp;&nbsp;産経ニュース",
+      "sources": [
+        {
+          "name": "CareNet.com",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aT0FjcVpka05zZ0dDakRwc0dua2hwa0pHeXh0dFhWMHN2WV9MN25CLUowUkZnSXljQTRVQXhrU1dQZHFEMUlROWFSRS1Yaks3NUtMaW83T0VTcmc?oc=5"
         }
       ]
     },
@@ -330,18 +510,6 @@
       ]
     },
     {
-      "id": "91df84c3e9ac",
-      "title": "夜食を控えると心臓にメリットがもたらされる｜CareNet.com - CareNet.com",
-      "published": "2026-03-23T19:00:00+00:00",
-      "summary": "夜食を控えると心臓にメリットがもたらされる｜CareNet.com&nbsp;&nbsp;CareNet.com",
-      "sources": [
-        {
-          "name": "CareNet.com",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5aT0FjcVpka05zZ0dDakRwc0dua2hwa0pHeXh0dFhWMHN2WV9MN25CLUowUkZnSXljQTRVQXhrU1dQZHFEMUlROWFSRS1Yaks3NUtMaW83T0VTcmc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a87f8984790c",
       "title": "「糖尿病による手のしびれ」の特徴はご存知ですか？しびれる原因も解説！【医師監修】 - メディカルドック",
       "published": "2026-03-23T17:26:20+00:00",
@@ -350,42 +518,6 @@
         {
           "name": "メディカルドック",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4xcV9JcWZQb09tSmwtZHNOQ0NkLS16SDhWMWkyMkZCVFUyX09CamFpRWtBaGpicHFYcmhySjNBLXZLeFprVXNRT2NrNkc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "999a8a8f4bac",
-      "title": "【更年期世代を元気に！ 50代の「応援めし」】 花粉に負けない、春の整えメニュー\n「カジキマグロとカブのフライ」 「菜の花とミニトマト、油揚げのみそ汁」vol.17 - ｄメニューニュース",
-      "published": "2026-03-23T15:06:29+00:00",
-      "summary": "【更年期世代を元気に！ 50代の「応援めし」】 花粉に負けない、春の整えメニュー 「カジキマグロとカブのフライ」 「菜の花とミニトマト、油揚げのみそ汁」vol.17&nbsp;&nbsp;ｄメニューニュース【必見】くしゃみ・鼻水に！「花粉症を和らげる」3つの食材。意外な“身近な野菜”も？米栄養士解説（ウィメンズヘルス）&nbsp;&nbsp;Yahoo!ニュースつらい花粉の季節に食べたい、栄養士がおすすめる食材4つ（ELLE DIGITAL）&nbsp;&nbsp;Yahoo!ニュース医師と食のプロ10人が伝授》花粉症に負けない食品＆習慣「1日200ml以上のヨーグルトで症状が軽減」「青魚のEPA・DHAがアレルギー誘発物質を抑制」（女性セブンプラス&nbsp;&nbsp;Yahoo!ニュース",
-      "sources": [
-        {
-          "name": "ｄメニューニュース",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdUJDTURBVXZxbkpkWWZCNmF4S3lMU1Vpb01SVTBoS1oxQWUycXZ6MWtzdWJEZzVsQjY3Qy1DQ0NaczNFTVVBNi1NcWhlUTAxcUlETHJuNlpwR0FEU1lfams5R1AzZVpSdDJoZC02d0tibnFHdkVfd19aQ1FiNUE2U9IBhgFBVV95cUxNZUQtUEMwYlBYeFJNNGZrckRJc1RiZ1dtYjltRzd2YWlKd09venNFOVFBczFQX3Yya1haTjVXUzE3M0JKT3YzRXJRZG1lZ3pidF9uT3hRRS1kSmUzQmRsekplZFIyWDJhenM0QUdqa0VaX3Q0WFEzaVo2OXN0QXYxVDFQQlNXdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6635060095e3",
-      "title": "RSウイルスワクチン予防接種（定期）について - city.tamano.lg.jp",
-      "published": "2026-03-23T15:03:12+00:00",
-      "summary": "RSウイルスワクチン予防接種（定期）について&nbsp;&nbsp;city.tamano.lg.jp【つくばみらい市】市政報告：妊婦のRSウイルス予防接種が定期接種に追加されます&nbsp;&nbsp;選挙ドットコム3〜4万円の自己負担がゼロへ｜2026年4月から始まる妊婦RSウイルスワクチン定期接種とは&nbsp;&nbsp;ｄメニューニュースRSウイルスは「予防する感染症」へ&nbsp;&nbsp;Medical TribuneRSウイルスワクチンが定期接種に～なぜ対象は妊婦なのか～&nbsp;&nbsp;時事メディカル",
-      "sources": [
-        {
-          "name": "city.tamano.lg.jp",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rRlNkMkRqLWJ6WGJScko3MlRXNXdudXlWNVoycmRZYmNLWWNPNHEyMzFGU0JrYW04MEg0NE95SEx1cnJva2dfMm5uTjJseUhPQk1Va05ZWGx4ZHh6TU1NWg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7f2f3997453d",
-      "title": "日本の認知症４割予防可能 難聴、運動不足の改善で - 47NEWS",
-      "published": "2026-03-23T15:00:00+00:00",
-      "summary": "日本の認知症４割予防可能 難聴、運動不足の改善で&nbsp;&nbsp;47NEWS5位は糖尿病､2位は運動不足…研究で｢日本人の認知症の原因｣1位だとわかった\"意外な要素\" (4ページ目)&nbsp;&nbsp;PRESIDENT Online（プレジデントオンライン）【そもそも解説】超高齢社会で増える認知症 尊重すべき本人の意思&nbsp;&nbsp;朝日新聞画像 | 《認知症の危険サイン？》終活の専門家｢日常生活で\"3つの兆候\"を見逃さないでほしい｣＜再配信＞&nbsp;&nbsp;東洋経済オンライン認知症の常識が昭和と令和でこんなに変わった！10問でわかる新常識テスト&nbsp;&nbsp;TVer",
-      "sources": [
-        {
-          "name": "47NEWS",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBwYlpfemYwai0yakxfU2NFVE0yZ2hEenVndHQ1VHB2Njd6aGNEMEMzcUpGNk9jSDRqTlFtZDAzTHZzQ0F2aGZYbGd5WQ?oc=5"
         }
       ]
     },
@@ -474,6 +606,18 @@
       ]
     },
     {
+      "id": "65aedfb045e6",
+      "title": "血糖値が気になり始めた人必読！たちまち血管年齢が若返る『血糖値がみるみる下がる習慣超大全』発売（3/25）。 - 時事ドットコム",
+      "published": "2026-03-23T01:46:00+00:00",
+      "summary": "血糖値が気になり始めた人必読！たちまち血管年齢が若返る『血糖値がみるみる下がる習慣超大全』発売（3/25）。&nbsp;&nbsp;時事ドットコム「糖尿病」と診断される「血糖値の値」はご存知ですか？医師が徹底解説！ (2026年3月24日掲載)&nbsp;&nbsp;ライブドアニュース「糖尿病合併症」を予防する2つの指標とは 目標数値と何をするべきか医師に聞く (2026年3月23日掲載)&nbsp;&nbsp;ライブドアニュース",
+      "sources": [
+        {
+          "name": "時事ドットコム",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE05R0FBUE9aQ0RCZlhDdUp0Ykd0YVVWcE82ZFMxQW5FOUthRGQ3cm1EVWk3cGFDcjI4OTBtZjdORS12c0c0RVhTM1lTQXVHMU41SWV2T1V4dGljYXRrejFoUTRlQUJKd05XRzhF?oc=5"
+        }
+      ]
+    },
+    {
       "id": "19476264c394",
       "title": "肥満合併2型糖尿病へのGLP-1受容体作動薬の処方が骨粗鬆症リスクと関連――AAOS - 糖尿病リソースガイド",
       "published": "2026-03-23T01:00:15+00:00",
@@ -482,18 +626,6 @@
         {
           "name": "糖尿病リソースガイド",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rY3JvWDhwc3JFczRTTWZXQ1ZQZ2hqWUpHWW1RU1Q5NjRDWldTS2lvNkRtVkFFWUxZU2h1d2dUTXBFRVowVmVoVVlIdTQtbnpTUkk3M25NaDJKZjF1UEt6SEdJRHhnZFBxQXJv?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1e3c199a0938",
-      "title": "血糖値が気になり始めた人必読！たちまち血管年齢が若返る『血糖値がみるみる下がる習慣超大全』発売（3/25）。 - PR TIMES",
-      "published": "2026-03-23T01:00:02+00:00",
-      "summary": "血糖値が気になり始めた人必読！たちまち血管年齢が若返る『血糖値がみるみる下がる習慣超大全』発売（3/25）。&nbsp;&nbsp;PR TIMES「糖尿病」と診断される「血糖値の値」はご存知ですか？医師が徹底解説！ (2026年3月24日掲載)&nbsp;&nbsp;ライブドアニュース「糖尿病合併症」を予防する2つの指標とは 目標数値と何をするべきか医師に聞く (2026年3月23日掲載)&nbsp;&nbsp;ライブドアニュース",
-      "sources": [
-        {
-          "name": "PR TIMES",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1ZDVrRE9oRnU3V2dJSDZVMmhYX2hqVFpvWW8tUlpxQnR1bHZMMzlwSVV1bFU2blhuZGJGZ0M3THlLQWZYa1hEbUZzYTlQckRWbm5xNW82Q2M5RXFFdmJSMUZnR1g1cWxaYkE?oc=5"
         }
       ]
     },
@@ -510,18 +642,6 @@
       ]
     },
     {
-      "id": "53fa22c829ec",
-      "title": "MAOSS｜アリババのAIが非造影CTと血清データで脂肪性肝疾患を機会的スクリーニング - innovaTopia",
-      "published": "2026-03-22T23:23:32+00:00",
-      "summary": "MAOSS｜アリババのAIが非造影CTと血清データで脂肪性肝疾患を機会的スクリーニング&nbsp;&nbsp;innovaTopia沈黙の脂肪肝に光、アリババのAIが挑む予防医療－CT 画像でリスク検出&nbsp;&nbsp;MSN沈黙の脂肪肝に光、アリババのAIが挑む予防医療－CT画像でリスク検出（Bloomberg）&nbsp;&nbsp;Yahoo!ニュース",
-      "sources": [
-        {
-          "name": "innovaTopia",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85RGVMTmNRb0loQjBHOGlyVjhEMThQSzRHSVVvMm80cGhNYzZhRXZRM2p5RHptMGVTR3pFTmlpUUJxdmxyQnV4akRFbUx4R2NUbTQtcktVR3hFc1luejdUNFVFNnMxVzQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1ed8327ae710",
       "title": "ゲーム中に“炭酸水”飲むと脳の疲れが軽減する──筑波大×アサヒ飲料が研究　楽しさ増大・違反行為も減少(ITmedia NEWS)",
       "published": "2026-03-22T23:05:14+00:00",
@@ -530,54 +650,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/2515d8da13dbd8d5563f5cb0efad0f75f38dd77c?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "0b741ba6a3ac",
-      "title": "ICTを活用した糖尿病セルフケア支援―ゲーミフィケーションがもたらす前向きな動機づけの変化―｜松田友和 - mbp-japan.com",
-      "published": "2026-03-22T23:03:24+00:00",
-      "summary": "ICTを活用した糖尿病セルフケア支援―ゲーミフィケーションがもたらす前向きな動機づけの変化―｜松田友和&nbsp;&nbsp;mbp-japan.com",
-      "sources": [
-        {
-          "name": "mbp-japan.com",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vYXJzOEZCVGQ0ZllRWFZYb1lpWkdjb2FaR1Z0Y2xCazNKTk5YYk9iOWJEaHJWTEF1eE9UZXZJX1cxd2ZiT0c4RkJpQkJqeC00TnBoRm13WHVJRkxFQm1XYjhiakpnTkdwaEln?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "88fc025a458e",
-      "title": "日本のインスリン治療、非インスリン薬併用が20年で2倍に｜CareNet.com - CareNet.com",
-      "published": "2026-03-22T19:00:00+00:00",
-      "summary": "日本のインスリン治療、非インスリン薬併用が20年で2倍に｜CareNet.com&nbsp;&nbsp;CareNet.com",
-      "sources": [
-        {
-          "name": "CareNet.com",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9rTmZQZXJ5andVaGxFNWRycHVGVzQ3SEt2UjVxREt5RUk0ZUdRb0MwN2lYeU9FM01SSXd2TktGZkdtR1YyV1dZVUgxU2pzWTJCU2lKdVdBSjg1ZXJnUkVN?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bf131cee8b72",
-      "title": "日本の健康アウトカムに地域差、「へき地度」で示された疾患別死亡率との関連｜CareNet.com - CareNet.com",
-      "published": "2026-03-22T19:00:00+00:00",
-      "summary": "日本の健康アウトカムに地域差、「へき地度」で示された疾患別死亡率との関連｜CareNet.com&nbsp;&nbsp;CareNet.com",
-      "sources": [
-        {
-          "name": "CareNet.com",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92dkNySGF3dWtJMzZuMFV2eWd0dUJrQzBnUG9UZFdpZTZHbEVOQTVYZTRLZGpQVER4Q0xzOXNfNUd6OW45cmRPN3NFTVNJN2RjNjFZamxaek1tQlk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cf17b9fc1674",
-      "title": "古代中国発祥の八段錦、速歩プログラムと同程度の降圧効果｜CareNet.com - CareNet.com",
-      "published": "2026-03-22T19:00:00+00:00",
-      "summary": "古代中国発祥の八段錦、速歩プログラムと同程度の降圧効果｜CareNet.com&nbsp;&nbsp;CareNet.com",
-      "sources": [
-        {
-          "name": "CareNet.com",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mcE44NHNxMWNHOHNhNTVkUDY1NjNLTllPN1dXejE4TkRkMkJrSlZodktGX3RnUFp2TGd4ZVRSZGFTNF9yM1g2eW96X2dNbzdvZFRLS1B3cnlUdw?oc=5"
         }
       ]
     },
@@ -662,18 +734,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/d07376a8e14affbb394dcbd065309c6ddf159236?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "a6248a8e3d5c",
-      "title": "新種「トカラムシクイ」発見　鳥類は「ヤンバルクイナ」以来45年ぶり(ITmedia NEWS)",
-      "published": "2026-03-19T23:20:09+00:00",
-      "summary": "山階鳥類研究所と森林研究・整備機構森林総合研究所は3月18日、鹿児島県トカラ列島のムシクイ個体群が新種だったため「トカラムシクイ」として新種記載したと発表した。日本国内で新しい学名を伴う鳥類種の報告",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/f43c3a47dfca7474c13ae792035ecccb7759d3ce?source=rss"
         }
       ]
     }
