@@ -41,7 +41,7 @@ def load_fda_drugs() -> dict:
 
 def load_repurposing_candidates() -> pd.DataFrame:
     """Load repurposing candidates."""
-    candidates_path = DATA_DIR / "processed" / "repurposing_candidates.csv"
+    candidates_path = DATA_DIR / "processed" / "repurposing_candidates.csv.gz"
     return pd.read_csv(candidates_path)
 
 

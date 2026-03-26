@@ -733,7 +733,7 @@ def run_taiwan_drug_prediction(
     if drug_mapping_path is None:
         drug_mapping_path = base_dir / "data" / "processed" / "drug_mapping.csv"
     if output_path is None:
-        output_path = base_dir / "data" / "processed" / "txgnn_dl_predictions.csv"
+        output_path = base_dir / "data" / "processed" / "txgnn_dl_predictions.csv.gz"
     if checkpoint_path is None:
         checkpoint_path = base_dir / "data" / "processed" / "txgnn_checkpoint.csv"
 

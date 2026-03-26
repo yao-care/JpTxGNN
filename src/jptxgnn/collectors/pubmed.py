@@ -1,5 +1,6 @@
 """PubMed collector - fetches literature data via NCBI E-utilities API."""
 
+import os
 import requests
 import time
 from typing import Any
@@ -27,7 +28,7 @@ class PubMedCollector(BaseCollector):
             api_key: Optional NCBI API key for higher rate limits
         """
         self.max_results = max_results
-        self.api_key = api_key
+        self.api_key = api_key or os.environ.get("NCBI_API_KEY")
 
     def search(self, drug: str, disease: str | None = None) -> CollectorResult:
         """Search PubMed for articles about a drug and/or disease.
@@ -123,7 +124,7 @@ class PubMedCollector(BaseCollector):
             params["api_key"] = self.api_key
 
         # Rate limiting - NCBI allows 3 requests/second without API key
-        time.sleep(0.4)
+        time.sleep(0.1 if self.api_key else 0.4)
 
         response = requests.get(self.EFETCH_URL, params=params, timeout=60)
         response.raise_for_status()

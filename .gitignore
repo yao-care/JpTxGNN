@@ -79,15 +79,6 @@ dmypy.json
 !/data/cache/
 # news ディレクトリは保持（GitHub Actions で更新）
 !/data/news/
-# external ディレクトリは保持（詞彙表）
-!/data/external/
-# processed ディレクトリは保持（予測結果）
-!/data/processed/
-# ただし大きな DL 予測ファイルは除外（100MB 以上）
-/data/processed/txgnn_checkpoint.csv
-/data/processed/txgnn_dl_predictions.csv
-# raw ディレクトリは保持（FDA データ）
-!/data/raw/
 
 # TxGNN 事前学習モデル（手動ダウンロード、約 5.7GB）
 model_ckpt/

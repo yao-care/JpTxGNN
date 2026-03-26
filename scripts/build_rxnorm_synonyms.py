@@ -1,0 +1,1 @@
+../../TwTxGNN/scripts/build_rxnorm_synonyms.py

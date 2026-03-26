@@ -53,8 +53,8 @@ def main():
     print("=" * 60)
 
     project_root = Path(__file__).parent.parent
-    kg_file = project_root / "data" / "processed" / "repurposing_candidates.csv"
-    dl_file = project_root / "data" / "processed" / "txgnn_dl_predictions.csv"
+    kg_file = project_root / "data" / "processed" / "repurposing_candidates.csv.gz"
+    dl_file = project_root / "data" / "processed" / "txgnn_dl_predictions.csv.gz"
     output_dir = project_root / "docs" / "data"
     output_file = output_dir / "search-index.json"
 

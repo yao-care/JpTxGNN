@@ -25,8 +25,8 @@ DOCS_DATA_DIR = PROJECT_ROOT / "docs" / "data"
 
 def export_repurposing_candidates():
     """Export repurposing candidates CSV to docs/data."""
-    source_path = DATA_DIR / "processed" / "repurposing_candidates.csv"
-    dest_path = DOCS_DATA_DIR / "repurposing_candidates.csv"
+    source_path = DATA_DIR / "processed" / "repurposing_candidates.csv.gz"
+    dest_path = DOCS_DATA_DIR / "repurposing_candidates.csv.gz"
 
     if not source_path.exists():
         print(f"  警告: {source_path} が見つかりません")
@@ -97,7 +97,7 @@ def generate_statistics():
         }
 
     # Candidates statistics
-    candidates_path = DATA_DIR / "processed" / "repurposing_candidates.csv"
+    candidates_path = DATA_DIR / "processed" / "repurposing_candidates.csv.gz"
     if candidates_path.exists():
         df = pd.read_csv(candidates_path)
         stats["data"]["candidates"] = {

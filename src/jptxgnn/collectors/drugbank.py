@@ -288,7 +288,7 @@ class DrugBankCollector(BaseCollector):
             if data:
                 self._save_to_cache(drugbank_id, data)
                 # Rate limiting
-                time.sleep(1)
+                time.sleep(0.3)
 
         if data is None:
             # Return basic info from vocab

@@ -79,7 +79,7 @@ def main():
         license_field="承認番号",
         name_field="販売名",
     )
-    output_path = processed_dir / "repurposing_candidates.csv"
+    output_path = processed_dir / "repurposing_candidates.csv.gz"
     candidates.to_csv(output_path, index=False)
 
     # レポート生成

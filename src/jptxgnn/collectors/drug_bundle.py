@@ -222,7 +222,7 @@ def load_predictions_for_drug(
     from .known_relations import KnownRelationsChecker
 
     if predictions_path is None:
-        predictions_path = get_data_dir() / "processed" / "txgnn_dl_predictions.csv"
+        predictions_path = get_data_dir() / "processed" / "txgnn_dl_predictions.csv.gz"
 
     predictions_path = Path(predictions_path)
     if not predictions_path.exists():
