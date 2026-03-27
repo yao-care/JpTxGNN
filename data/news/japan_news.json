@@ -1,19 +1,91 @@
 {
   "source": "japan_news",
-  "fetched_at": "2026-03-27T12:40:44.166786+00:00",
-  "total_fetched": 152,
-  "unique_count": 152,
-  "health_related_count": 73,
+  "fetched_at": "2026-03-27T18:43:19.706998+00:00",
+  "total_fetched": 170,
+  "unique_count": 170,
+  "health_related_count": 88,
   "news": [
     {
-      "id": "9fab8639a71c",
-      "title": "「脊中」は消化不良で起こる腹部の膨満感や下痢をおさえ、腰や背中の痛みもゆるめます(家庭画報.com)",
-      "published": "2026-03-27T12:10:24+00:00",
-      "summary": "中医学のエキスパートである鍼灸師の兵頭 明先生が、ツボの効能や位置、効くメカニズムを解説します。健康の土台作りに、不調改善に、1日1分のツボ押しを習慣にしましょう。",
+      "id": "13d3ffaae83f",
+      "title": "3人目でも蘇る「陣痛」の恐怖。出産直前にネットで調べた“痛みを和らげる呼吸法“ソフロロジー”の驚きの効果【作者に聞く】(ウォーカープラス)",
+      "published": "2026-03-27T16:58:20+00:00",
+      "summary": "3人目の出産予定日を過ぎ、いよいよ訪れた「おしるし」。経験者だからこそ蘇る、あの壮絶な陣痛の痛みへの恐怖。そんな不安の最中、オニハハ(@onihaha007)さんが出会ったのは「ソフロロジー」という出",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/044ade0cb848b836d642e74849145004a0c3a372?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/773c2dff44412f55de08a1c784ca756b268c92eb?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "201ba1a708f8",
+      "title": "リンパ浮腫と上手につきあうには早期発見・早期治療が鍵。自分に合ったケアを知って(家庭画報.com)",
+      "published": "2026-03-27T15:00:09+00:00",
+      "summary": "がん治療によってリンパ液の流れが悪くなることが原因で発症するリンパ浮腫。患者数に対して専門施設が足りず、治療をあきらめている人も少なくありません。リンパ浮腫になっても困らないように基礎知識と対策を知っ",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/49ec2216061913bfd13bc696f35c5ebca228330b?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "8ba885a64d0a",
+      "title": "肉を多く食べていると遺伝的にアルツハイマー病になりやすい人も認知症リスクが低くなっていた - ナゾロジー",
+      "published": "2026-03-27T13:31:48+00:00",
+      "summary": "肉を多く食べていると遺伝的にアルツハイマー病になりやすい人も認知症リスクが低くなっていた&nbsp;&nbsp;ナゾロジー",
+      "sources": [
+        {
+          "name": "ナゾロジー",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jQnZka1lkbzZ3LU9FSmZxNzNKc3hDcVNvWlEtWUtvQUpCR3RrQldHYzkxX2NJRUhiZVhaWDdFZFRRcjY5TzhjaTFCcklhbE82aEtBZW9maVB3bE0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a389b99dcc21",
+      "title": "「落とすケア」に9割お金をかけるべき!? 髪・成分・メイクの専門家が教える新常識(HALMEK up)",
+      "published": "2026-03-27T13:15:01+00:00",
+      "summary": "年々髪が細くなってきた。お肌が敏感に傾いてきた。それ、美容液にお金を使うよりも土台ケアを見直した方がいいかも!? 化粧品開発者・ヘアライター・ヘアメイクの3名が、それぞれの視点で徹底解説！読むだけで明",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/a3262a542982ec2ad1c8abba85d1733e37b993a2?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "25c0d1068182",
+      "title": "髪のパサつき・ぺたんこ髪のお悩み解消！ふんわりレイヤーヘア【大人に人気の髪型】(MAQUIA)",
+      "published": "2026-03-27T13:00:42+00:00",
+      "summary": "年齢による髪のパサつきやぺたんこ髪のお悩みは、ヘアカラーやレイヤーで解決！ 髪を健康的に見せてくれる暖色カラーと、動きのある重軽シルエットで、ツヤ感とボリュームアップが叶います。さらにスタイリングも簡",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/13e4e15d28df3376ac9fd29df64d2338605ea488?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "5b378665ea26",
+      "title": "16世紀の天文学書から「ガリレオ直筆のメモ」を発見(ギズモード・ジャパン)",
+      "published": "2026-03-27T13:00:02+00:00",
+      "summary": "ルールは、破る前にまず習得せよ。 歴史学者のイヴァン・マラーラ博士は、フィレンツェ国立中央図書館で16世紀に出版された天文学書『アルマゲスト』7冊を調査していました。ページをめくっていくとふと目に留",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/5d0015e6a0b5940849474791ed07ea8fe5988508?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "55045fa650fc",
+      "title": "水を飲む感覚を担う脳内の神経細胞を発見〜水がもたらす心地よさのメカニズム解明と脱水症予防への貢献に期待 - 京都大学",
+      "published": "2026-03-27T12:00:00+00:00",
+      "summary": "水を飲む感覚を担う脳内の神経細胞を発見〜水がもたらす心地よさのメカニズム解明と脱水症予防への貢献に期待&nbsp;&nbsp;京都大学",
+      "sources": [
+        {
+          "name": "京都大学",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mY0ZIRFk0Q2w1TVA4Z2kxM0w2TkhVVmlMRW5MMFoxZWl6SVFjcjZobGRrU05heGQ2OFRkUWhVcWpKeHhFbTEtM3k5ZjJyc3hwYlFWbjJ1Wi1TMEdzYS10OGVUMWlZdw?oc=5"
         }
       ]
     },
@@ -21,7 +93,7 @@
       "id": "ce56ee3d91b3",
       "title": "ランナーも、これからの人も。5月は「健康習慣」をひろげよう - RUNNET",
       "published": "2026-03-27T11:50:05+00:00",
-      "summary": "ランナーも、これからの人も。5月は「健康習慣」をひろげよう&nbsp;&nbsp;RUNNET血糖値を下げる行動に「ウォーキング」が正式認定。その驚くべきメリット＆効果とは？（Harper’s BAZAAR（ハーパーズ バザー））&nbsp;&nbsp;Yahoo!ニュース血圧と血糖値を安定させるために運動するのに最適な時間帯。&nbsp;&nbsp;Vietnam.vn",
+      "summary": "ランナーも、これからの人も。5月は「健康習慣」をひろげよう&nbsp;&nbsp;RUNNET血糖値を下げる行動に「ウォーキング」が正式認定。その驚くべきメリット＆効果とは？（Harper’s BAZAAR（ハーパーズ バザー））&nbsp;&nbsp;Yahoo!ニュース",
       "sources": [
         {
           "name": "RUNNET",
@@ -102,18 +174,6 @@
       ]
     },
     {
-      "id": "55045fa650fc",
-      "title": "水を飲む感覚を担う脳内の神経細胞を発見〜水がもたらす心地よさのメカニズム解明と脱水症予防への貢献に期待 - 京都大学",
-      "published": "2026-03-27T07:34:51+00:00",
-      "summary": "水を飲む感覚を担う脳内の神経細胞を発見〜水がもたらす心地よさのメカニズム解明と脱水症予防への貢献に期待&nbsp;&nbsp;京都大学",
-      "sources": [
-        {
-          "name": "京都大学",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5mY0ZIRFk0Q2w1TVA4Z2kxM0w2TkhVVmlMRW5MMFoxZWl6SVFjcjZobGRrU05heGQ2OFRkUWhVcWpKeHhFbTEtM3k5ZjJyc3hwYlFWbjJ1Wi1TMEdzYS10OGVUMWlZdw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "8e4f2c48db9c",
       "title": "酸化ガリウム半導体の量産化に貢献、名大が薄膜形成で新技術(ニュースイッチ)",
       "published": "2026-03-27T06:10:09+00:00",
@@ -186,18 +246,6 @@
       ]
     },
     {
-      "id": "1b1838058d3d",
-      "title": "クアンチ病院が介入、先天性心疾患患者の重篤な合併症からの脱却を支援 - Laodong.vn",
-      "published": "2026-03-27T05:12:23+00:00",
-      "summary": "クアンチ病院が介入、先天性心疾患患者の重篤な合併症からの脱却を支援&nbsp;&nbsp;Laodong.vn",
-      "sources": [
-        {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPR1ZYeEVpbWZId3ozS0UzM01BY293M1I2U1Eyd0p5NW9acE5jTmE4ZGY1OHF5c1RkTndQeHJmbFNYeUY3UVpKVmdkb1BDSk02RG9OT0JIY25LalJnSHhYSGpXNUJubmxzcEZTUi14Q3RCZ0VNenA3R2w2NW5KaTdlYlJULWhyOGpQUWhVcG1sbGdsaDhVeU9BR1dReEtvcHlZVjQxMVNVS3NzcVM3c1BhTkxYQl9WUHo3N0Y2TW9jOHpYWXc?oc=5"
-        }
-      ]
-    },
-    {
       "id": "71c1fb0e86f5",
       "title": "糖尿病ではなく「ダイアベティス」へ――受診の心理的ハードルを下げる工夫(Medical Note)",
       "published": "2026-03-27T04:48:04+00:00",
@@ -210,22 +258,10 @@
       ]
     },
     {
-      "id": "0e33129fb934",
-      "title": "高齢心房細動患者における抗血小板薬併用、脳梗塞予防効果は認めず心血管死亡リスク増加の可能性 - ncvc.go.jp",
-      "published": "2026-03-27T04:05:15+00:00",
-      "summary": "高齢心房細動患者における抗血小板薬併用、脳梗塞予防効果は認めず心血管死亡リスク増加の可能性&nbsp;&nbsp;ncvc.go.jp",
-      "sources": [
-        {
-          "name": "ncvc.go.jp",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1odUF3V011LUtSVGc1a0tCb0hyaWV0OFFzSGJUS0hGOVZnUTBWNTE4ZU9tY3RlQUhpU1dDOXRzaXVoWWwtV2ZJMU1EY0F3djhWWURadkNWcEVBVWhfV2ljd29n?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b7c5c541d64b",
       "title": "昨年の新規HIV感染者 過去20年で最少 報告数・速報値 - 医療介護CBnews",
       "published": "2026-03-27T04:00:00+00:00",
-      "summary": "昨年の新規HIV感染者 過去20年で最少 報告数・速報値&nbsp;&nbsp;医療介護CBnews25年新規HIV感染者、過去20年で最少（共同通信）&nbsp;&nbsp;Yahoo!ニュースＨＩＶ感染・エイズ患者８９０人＝３年ぶり減、昨年速報値―厚労省&nbsp;&nbsp;時事通信ニュースHIV感染者、20年で最少 25年速報値624人&nbsp;&nbsp;北海道新聞デジタルＨＩＶ感染者、２０年で最少 ２５年速報値６２４人 | | 全国のニュース&nbsp;&nbsp;佐賀新聞",
+      "summary": "昨年の新規HIV感染者 過去20年で最少 報告数・速報値&nbsp;&nbsp;医療介護CBnews25年新規HIV感染者、過去20年で最少（共同通信）&nbsp;&nbsp;Yahoo!ニュースＨＩＶ感染・エイズ患者８９０人＝３年ぶり減、昨年速報値―厚労省&nbsp;&nbsp;時事通信ニュースHIV感染者、20年で最少 25年速報値624人&nbsp;&nbsp;北海道新聞デジタルＨＩＶ感染者、２０年で最少 ２５年速報値６２４人 | | 全国のニュース&nbsp;&nbsp;saga-s.co.jp",
       "sources": [
         {
           "name": "医療介護CBnews",
@@ -273,7 +309,7 @@
       "id": "bf3fd08692f0",
       "title": "はしかに感染…40代男性が感染確定前、スーパーやコンビニを利用 他の感染者と接触し、健康観察の対象になっていた男性…その後、発熱など発症 - 47NEWS",
       "published": "2026-03-27T01:31:00+00:00",
-      "summary": "はしかに感染…40代男性が感染確定前、スーパーやコンビニを利用 他の感染者と接触し、健康観察の対象になっていた男性…その後、発熱など発症&nbsp;&nbsp;47NEWSはしかに感染…40代男性が感染確定前、スーパーやコンビニを利用 他の感染者と接触し、健康観察の対象になっていた男性…その後、発熱など発症（埼玉新聞）&nbsp;&nbsp;Yahoo!ニュースはしかに感染…20代男性が発熱 その後、発疹の症状 陽性と判明する前、西武鉄道や所沢のアミューズメント施設を利用&nbsp;&nbsp;47NEWS埼玉の50代男性がはしか感染 東武線やJRを利用 発熱やせきを発症 その後、発疹や結膜充血などの症状&nbsp;&nbsp;埼玉新聞【速報】大阪府で今年12例目のはしか感染 30代男性の発症前利用施設を追加で公表&nbsp;&nbsp;日テレNEWS NNN",
+      "summary": "はしかに感染…40代男性が感染確定前、スーパーやコンビニを利用 他の感染者と接触し、健康観察の対象になっていた男性…その後、発熱など発症&nbsp;&nbsp;47NEWSGoogle ニュースですべての記事を見る",
       "sources": [
         {
           "name": "47NEWS",
@@ -354,18 +390,6 @@
       ]
     },
     {
-      "id": "3c28b159ac17",
-      "title": "男性のうつリスクは「父親になってから1年後」に増加すると判明 - ニコニコニュース",
-      "published": "2026-03-26T22:03:12+00:00",
-      "summary": "男性のうつリスクは「父親になってから1年後」に増加すると判明&nbsp;&nbsp;ニコニコニュース",
-      "sources": [
-        {
-          "name": "ニコニコニュース",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5RUHJYTm1YUjgzRGNpWmtjaFBuNDBLUF9ITmk1YkVVZTBqQVhIeWRQSDVuSURiU2dFLVd5Zzl1NlBkMUFNV0tCRUFiWG9zeXNITXBIMA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "040c5da73943",
       "title": "92歳中等度認知症でも自宅暮らしを続けられる“理由” 「認知症悪化=施設行き」の誤解 「認知症リハビリ」という選択肢 - Yahoo!ファイナンス",
       "published": "2026-03-26T20:30:00+00:00",
@@ -426,34 +450,10 @@
       ]
     },
     {
-      "id": "e1bbbb57eea3",
-      "title": "ピロリ除菌10年経過後の胃がん発症リスク因子～日本での研究｜CareNet.com - CareNet.com",
-      "published": "2026-03-26T19:00:00+00:00",
-      "summary": "ピロリ除菌10年経過後の胃がん発症リスク因子～日本での研究｜CareNet.com&nbsp;&nbsp;CareNet.com",
-      "sources": [
-        {
-          "name": "CareNet.com",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaSkdCUlVGelZhVXRPTGtBUXA3YVFuSWxqekNMSVA3aHU3amdzQmVsV0kyMW1sSFVza2p6N3o4NGF5NW9WcG1MOFpudWxQOTAwbDBSUUc2TVVfTmhZZ1ZJ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "008b2893b5cd",
-      "title": "認知症患者に対する抗精神病薬使用が死亡リスクに及ぼす影響は｜CareNet.com - CareNet.com",
-      "published": "2026-03-26T19:00:00+00:00",
-      "summary": "認知症患者に対する抗精神病薬使用が死亡リスクに及ぼす影響は｜CareNet.com&nbsp;&nbsp;CareNet.com",
-      "sources": [
-        {
-          "name": "CareNet.com",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LanlHaGNtOWV1cWJHbm5XZ2NGUDd1RU1LRWN3TzVMbUZOdl8tSXQycWR6ZUJhQlpKSmZvZDdSTE93RkFfaHFQSGhvT1FrVllaVG9Qd09SNDYyelN0ajBZ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d769e8e8d494",
       "title": "骨密度検査を体験｜更年期から考える40代50代の“骨の健康” - スマートニュース（SmartNews）",
       "published": "2026-03-26T18:45:00+00:00",
-      "summary": "骨密度検査を体験｜更年期から考える40代50代の“骨の健康”&nbsp;&nbsp;スマートニュース（SmartNews）骨粗しょう症…男性は骨密度が高くても骨折する&nbsp;&nbsp;ｄメニューニュース「骨粗鬆症」の食事療法では何を控えるべき？骨の健康を守る栄養バランスの整え方 (2026年3月24日掲載)&nbsp;&nbsp;ライブドアニュース",
+      "summary": "骨密度検査を体験｜更年期から考える40代50代の“骨の健康”&nbsp;&nbsp;スマートニュース（SmartNews）骨粗しょう症…男性は骨密度が高くても骨折する&nbsp;&nbsp;ｄメニューニュース",
       "sources": [
         {
           "name": "スマートニュース（SmartNews）",
@@ -501,7 +501,7 @@
       "id": "3ca80dc73381",
       "title": "複雑な髄膜炎菌性髄膜炎、医師は誤解しやすい兆候を伝える - Laodong.vn",
       "published": "2026-03-26T10:16:50+00:00",
-      "summary": "複雑な髄膜炎菌性髄膜炎、医師は誤解しやすい兆候を伝える&nbsp;&nbsp;Laodong.vn髄膜炎菌性髄膜炎を懸念し、多くの人がワクチン接種を受けている。&nbsp;&nbsp;Vietnam.vn24時間365日対応の医師相談：予防接種記録を紛失した場合、髄膜炎菌性髄膜炎ワクチンを再度接種する際に何か問題が生じますか？&nbsp;&nbsp;Vietnam.vn",
+      "summary": "複雑な髄膜炎菌性髄膜炎、医師は誤解しやすい兆候を伝える&nbsp;&nbsp;Laodong.vn髄膜炎菌性髄膜炎を懸念し、多くの人がワクチン接種を受けている。&nbsp;&nbsp;vietnam.vn24時間365日対応の医師相談：予防接種記録を紛失した場合、髄膜炎菌性髄膜炎ワクチンを再度接種する際に何か問題が生じますか？&nbsp;&nbsp;vietnam.vn",
       "sources": [
         {
           "name": "Laodong.vn",
@@ -522,22 +522,10 @@
       ]
     },
     {
-      "id": "a79610f2fe4d",
-      "title": "70歳の老人が自家用薬による尖圭コンジローマの蔓延 - Laodong.vn",
-      "published": "2026-03-26T07:36:58+00:00",
-      "summary": "70歳の老人が自家用薬による尖圭コンジローマの蔓延&nbsp;&nbsp;Laodong.vn",
-      "sources": [
-        {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbkNEc1B3c2NtbEd2NFF2MV9EVU9uRWo3Rmcwal9oMWVxTEVoYzFDMXZrdVNTY2ZRWXlmRjlIYU1SQ20xTUsweDNxNnEzSkF4YWgyNTFGMWlSdlExakxTX2JqQ191aE0zaWFZc2lObk5MVm80dDhkN2hEeWZWRWVocm1HSTlJLTR2ek1ZcHFHMFJ3T0l4aGJhQkYzSHpDWmxYcFpn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "88f0d7a30a91",
       "title": "「脳トレ」「早口言葉」よりもうんと効果的…専門医が「認知症予防」に勧める「本当に脳にいいお手軽趣味」(プレジデントオンライン) - Yahoo!ファイナンス",
       "published": "2026-03-26T07:15:00+00:00",
-      "summary": "「脳トレ」「早口言葉」よりもうんと効果的…専門医が「認知症予防」に勧める「本当に脳にいいお手軽趣味」(プレジデントオンライン)&nbsp;&nbsp;Yahoo!ファイナンス｢健康にいい｣と思って毎日食べた→脂汗が止まらない激痛…15mm尿管結石を育てた60代男性の冷蔵庫の中身&nbsp;&nbsp;PRESIDENT Online（プレジデントオンライン）｢女が戦争に勝てるのか｣…中国の皇帝に鼻で笑われた朝鮮の\"美しすぎる女帝\"が成し遂げた｢歴史的偉業｣&nbsp;&nbsp;PRESIDENT Online（プレジデントオンライン）",
+      "summary": "「脳トレ」「早口言葉」よりもうんと効果的…専門医が「認知症予防」に勧める「本当に脳にいいお手軽趣味」(プレジデントオンライン)&nbsp;&nbsp;Yahoo!ファイナンス介護歴約20年の安藤なつ（メイプル超合金）がイチから認知症の専門医に聞いた『知っトク認知症 家族と本人が自分らしく暮らし続ける超入門』2026年3月19日（木）発売！&nbsp;&nbsp;朝日新聞",
       "sources": [
         {
           "name": "Yahoo!ファイナンス",
@@ -570,14 +558,14 @@
       ]
     },
     {
-      "id": "1878f500927a",
-      "title": "睡眠不足が\"働き盛り世代\"の心房細動リスクを高める可能性 現役世代は適切な睡眠時間確保を｜ニュース - 保健指導リソースガイド",
-      "published": "2026-03-26T05:07:34+00:00",
-      "summary": "睡眠不足が\"働き盛り世代\"の心房細動リスクを高める可能性 現役世代は適切な睡眠時間確保を｜ニュース&nbsp;&nbsp;保健指導リソースガイド",
+      "id": "beaa0e0bc4c9",
+      "title": "放置すれば「不妊」の原因に? 女性の6割が見落とす「無症状の性感染症」とは - マイナビニュース",
+      "published": "2026-03-26T05:26:27+00:00",
+      "summary": "放置すれば「不妊」の原因に? 女性の6割が見落とす「無症状の性感染症」とは&nbsp;&nbsp;マイナビニュース＜医の目＞性感染症、正しく知り予防 誰にでも関係ある身近な病気&nbsp;&nbsp;47NEWS妊娠への影響も？20～40歳女性の60％が「性感染症検査を受けたことがない」実態調査&nbsp;&nbsp;産経ニュース",
       "sources": [
         {
-          "name": "保健指導リソースガイド",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KSFF4aVpPVm5ERFFQb3Y4UzF3bjAxMTEyQnR4eUdjMGx6bWdsQnRoTjBFeEh6RjhuLUxSU1NaM29id2xJeXlmYmtRSDJFc2twMmJ0NGd0S0JKb3l1Y2tGdHI5cVRTVTBY?oc=5"
+          "name": "マイナビニュース",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5ZTAxRi02S1k3TlJvSWJkTVZqazN4bzBETDl6THVzZV9oTnBGNVVTdTJyWmRoV001T2lQNERfX1ZnNFllUzlOTWY5NkdLWWxyWEJqQUVIUmgwWm9O?oc=5"
         }
       ]
     },
@@ -590,18 +578,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/903474850ef407ff4c7f21fd9533088053fc9799?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "a095482f4a1e",
-      "title": "「さすがにおかしい…」発熱後、発疹だけ治らず…→医師から告げられた思いがけない診断結果とは！？ - Ameba (アメーバ)",
-      "published": "2026-03-26T03:05:29+00:00",
-      "summary": "「さすがにおかしい…」発熱後、発疹だけ治らず…→医師から告げられた思いがけない診断結果とは！？&nbsp;&nbsp;Ameba (アメーバ)",
-      "sources": [
-        {
-          "name": "Ameba (アメーバ)",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lTUg1REw4T29qNWdQWm9reDJBTXMyRDhESUFJeXBJbXBZNHUzTnVZbm1jTU5pOXJFX0hLbFNDTU8xMUZYdy1SNGtLVmNfR0JzMmZSQTYwVXBRSnRY?oc=5"
         }
       ]
     },
@@ -654,18 +630,6 @@
       ]
     },
     {
-      "id": "198bc5e260d8",
-      "title": "2歳までの砂糖摂取制限によって成人後の心血管リスクが下がる可能性 - @DIME アットダイム",
-      "published": "2026-03-26T01:41:29+00:00",
-      "summary": "2歳までの砂糖摂取制限によって成人後の心血管リスクが下がる可能性&nbsp;&nbsp;@DIME アットダイム",
-      "sources": [
-        {
-          "name": "@DIME アットダイム",
-          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9fTTR6ZktqNW5LeE1RSU1YYmkxYzJfNG1SZUNRZHJNcTFnalhPUkQwRWdIaHdhUVpLckMtdTlVeGpBME1Q?oc=5"
-        }
-      ]
-    },
-    {
       "id": "cc7d65cff0f1",
       "title": "GLP-1受容体作動薬の投与中止後も実臨床では体重変化はわずか 多くの患者ではGLP-1再開あるいは代替治療へ移行 - 糖尿病リソースガイド",
       "published": "2026-03-26T01:06:58+00:00",
@@ -674,18 +638,6 @@
         {
           "name": "糖尿病リソースガイド",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5kYUZCRG1NX0xqUGl4TlVnaS1QWWs1RGEtOUVCdGV1V1VVS3dLWDlQUnlNQ0E3dS0xT21KNl82aklNcWwtbGJDU2hNOXZfeEUzM3E5VEdYSE5JRExDNEdBU1ZURXEyaEJ3eXcw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c86999ad7651",
-      "title": "胃の共生細菌による免疫調節機構、ピロリ菌の感染を防御－理研 - QLifePro",
-      "published": "2026-03-26T00:00:00+00:00",
-      "summary": "胃の共生細菌による免疫調節機構、ピロリ菌の感染を防御－理研&nbsp;&nbsp;QLifePro",
-      "sources": [
-        {
-          "name": "QLifePro",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Bb3Flek9rRWJZUzJpRm9GejRWeXhsU0NRV0VIVGlqdFA1S0Q3SFR0S1ROMnktd3AwOHg1dVRSRGxEcUFORDRVRFRwTmZNU2hPR21nc0NTZWVrYjlXVUxJeFMwLXlxVnc?oc=5"
         }
       ]
     },
@@ -714,26 +666,14 @@
       ]
     },
     {
-      "id": "cf1f679d1b8b",
-      "title": "子宮頸がん検診の受診率は制度によって変わる？東京都51自治体で生まれる8％～85％の格差とは - @DIME アットダイム",
+      "id": "b0dca59c63bd",
+      "title": "子宮頸がん検診の受診率は制度によって変わる？東京都51自治体で生まれる8％～85％の格差とは - dime.jp",
       "published": "2026-03-25T21:31:24+00:00",
-      "summary": "子宮頸がん検診の受診率は制度によって変わる？東京都51自治体で生まれる8％～85％の格差とは&nbsp;&nbsp;@DIME アットダイム",
+      "summary": "子宮頸がん検診の受診率は制度によって変わる？東京都51自治体で生まれる8％～85％の格差とは&nbsp;&nbsp;dime.jp",
       "sources": [
         {
-          "name": "@DIME アットダイム",
+          "name": "dime.jp",
           "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFByOElMdW8yNE16ZWVrWEdXTEoyUi1pcERYSVh5RTJFSks5Z29iTUZ5ejctcThWMVFtbV9pUVdvZ3NwTkdv?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0f7a33635d3c",
-      "title": "＜医の目＞性感染症、正しく知り予防 誰にでも関係ある身近な病気 - 47NEWS",
-      "published": "2026-03-25T20:05:00+00:00",
-      "summary": "＜医の目＞性感染症、正しく知り予防 誰にでも関係ある身近な病気&nbsp;&nbsp;47NEWS妊娠への影響も？20～40歳女性の60％が「性感染症検査を受けたことがない」実態調査&nbsp;&nbsp;産経ニュース放置すれば「不妊」の原因に? 女性の6割が見落とす「無症状の性感染症」とは&nbsp;&nbsp;マイナビニュース",
-      "sources": [
-        {
-          "name": "47NEWS",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA4c0VxMWFYdWtUMHZjNjFxNUxGb19Wck10ODl1RmNDbUhSaGY0d2xnQTUxT29ycm9HSmRMUDlsVjczQ0t0M1NpblBYaw?oc=5"
         }
       ]
     },
@@ -753,7 +693,7 @@
       "id": "c4cf92321b7b",
       "title": "医師が警鐘｢LDL高め放置｣が実は一番危険な理由 - ニフティニュース",
       "published": "2026-03-25T15:20:00+00:00",
-      "summary": "医師が警鐘｢LDL高め放置｣が実は一番危険な理由&nbsp;&nbsp;ニフティニュース健診の数値、気になってませんか？ 血圧、コレステロール、中性脂肪…気になる血管と心臓を健やかに保つ習慣を集めました！&nbsp;&nbsp;朝日新聞「悪玉コレステロール値」が低下する穀物とは？2日間ごはんに置き換えれば6週間持続【新研究】&nbsp;&nbsp;ダイヤモンド・オンライン医師が警鐘｢LDLの\"高め\"放置｣実は一番危険だった――血管の老化を防ぐ｢置き換え食｣とリスクがわかる注目の｢検査｣とは&nbsp;&nbsp;東洋経済オンライン",
+      "summary": "医師が警鐘｢LDL高め放置｣が実は一番危険な理由&nbsp;&nbsp;ニフティニュース健診の数値、気になってませんか？ 血圧、コレステロール、中性脂肪…気になる血管と心臓を健やかに保つ習慣を集めました！&nbsp;&nbsp;朝日新聞医師が警鐘｢LDLの\"高め\"放置｣実は一番危険だった――血管の老化を防ぐ｢置き換え食｣とリスクがわかる注目の｢検査｣とは&nbsp;&nbsp;東洋経済オンライン",
       "sources": [
         {
           "name": "ニフティニュース",
@@ -786,6 +726,18 @@
       ]
     },
     {
+      "id": "35a9428cf4fb",
+      "title": "解熱鎮痛薬アスピリンと低酸素環境が「PIK3CA変異型大腸がん」の細胞内グルタミン蓄積を促進 ～細胞内に蓄積したグルタミンを標的とした新たな治療戦略へ - newscast.jp",
+      "published": "2026-03-25T05:00:00+00:00",
+      "summary": "解熱鎮痛薬アスピリンと低酸素環境が「PIK3CA変異型大腸がん」の細胞内グルタミン蓄積を促進 ～細胞内に蓄積したグルタミンを標的とした新たな治療戦略へ&nbsp;&nbsp;newscast.jp",
+      "sources": [
+        {
+          "name": "newscast.jp",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1fRTdKRWJoaXpoWHdxM3Npa3Vic1JzTFk1WlFfY3c5cVVRaGtjWFBlRUJOdndYSGxJZFJxcU9mSk13YnlVQlJPWl9FT24?oc=5"
+        }
+      ]
+    },
+    {
       "id": "15d28b5695de",
       "title": "「野菜を食べていれば健康」というわけじゃない…野菜中心でも不健康になり得る食習慣の落とし穴(集英社オンライン)",
       "published": "2026-03-25T02:00:36+00:00",
@@ -798,6 +750,18 @@
       ]
     },
     {
+      "id": "8b5d6456ff30",
+      "title": "うつ病 回復難しくする併存症や生活リズムの乱れ 治療に新しい選択肢も - article.auone.jp",
+      "published": "2026-03-25T02:00:00+00:00",
+      "summary": "うつ病 回復難しくする併存症や生活リズムの乱れ 治療に新しい選択肢も&nbsp;&nbsp;article.auone.jp",
+      "sources": [
+        {
+          "name": "article.auone.jp",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RdEtSakk4UnVMTl9zWjFQRFZnNWszbG95czRhcHVhNkVUbGEzTTVIallBbi1qZkdMTDZxcGE3THR5ZjFsQjJFTFdzVXQ1WnRsdXdZZC1jZ0EwSUZzazdsMjJzcnBhTzBzSFNvbVp6SWQ4Y05mWGc1b25nSQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "897fcceab461",
       "title": "衛星搭載アダプタの部材剥離が原因となった可能性高まる　JAXAがH3ロケット8号機打ち上げ失敗原因究明状況を報告(sorae 宇宙へのポータルサイト)",
       "published": "2026-03-25T01:47:40+00:00",
@@ -806,6 +770,18 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/a7283ed6219d8853b2b40238ae0aac37d5abc983?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "d3b85eae427d",
+      "title": "京都大学iPS細胞研究所 CiRA（サイラ） - cira.kyoto-u.ac.jp",
+      "published": "2026-03-25T00:23:32+00:00",
+      "summary": "京都大学iPS細胞研究所 CiRA（サイラ）&nbsp;&nbsp;cira.kyoto-u.ac.jp",
+      "sources": [
+        {
+          "name": "cira.kyoto-u.ac.jp",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9HMExTNEdJUnNpXzZQR2F5Z0hnQV8wampQQXpGU0ZxeHlRNDhhQTJQNWQ5dnc1dkRvekw1QVNsVmE2UUZqdGxfMUtWa2g0LXpJUE1rTWdiNGZXbTRQQ1Z6TFNacXBwTFhPUUc4aGR0Z2xMMkxoaE1PRA?oc=5"
         }
       ]
     },
@@ -830,6 +806,90 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/4b358e42c984bab4eb7d3264e43c9e8a28fda894?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "19d6df3559b7",
+      "title": "“わさびの成分”がアルツハイマー病に効く？ 脳内のゴミを減らす新メカニズムを解明 スペインと日本のチームが発表 - ITmedia",
+      "published": "2026-03-24T23:00:00+00:00",
+      "summary": "“わさびの成分”がアルツハイマー病に効く？ 脳内のゴミを減らす新メカニズムを解明 スペインと日本のチームが発表&nbsp;&nbsp;ITmedia脳はアルツハイマー病に対抗する“防御システム”を備えていた：研究結果&nbsp;&nbsp;WIRED.jp",
+      "sources": [
+        {
+          "name": "ITmedia",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqdjU0NFlFckdKNFVPYWM5YWNqWURkbW1BYXJYeHJiemtvQXc0bUoxeVZ5aW1kcFRwRWFrVmtLaXZZZk00am9qb1Y0UGh0Q1pidGxMbEZPVVVHRWozbHRCVWQwaUx1aUNiMVE3aw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3f6ed56fac77",
+      "title": "睡眠・運動・食事を「同時に」「ほんの少し」改善するだけで心血管疾患リスクが低下 - ナゾロジー",
+      "published": "2026-03-24T21:34:49+00:00",
+      "summary": "睡眠・運動・食事を「同時に」「ほんの少し」改善するだけで心血管疾患リスクが低下&nbsp;&nbsp;ナゾロジーGoogle ニュースですべての記事を見る",
+      "sources": [
+        {
+          "name": "ナゾロジー",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zM2htMUhDWDlQTUE5VXpmQlgyZGRzUEdGTjd0MlZtdmpoR0hXbkFwWTU1NlBsTTZNb0R3RmNyREI3RFBQY1NCd0YxM0dqcG8zV2NNOTVjRUVnRms?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e0669737337c",
+      "title": "🔵 2026年3月25日帯状疱疹ワクチン接種の翌日やや体が痛い。 - 選挙ドットコム",
+      "published": "2026-03-24T21:18:01+00:00",
+      "summary": "🔵 2026年3月25日帯状疱疹ワクチン接種の翌日やや体が痛い。&nbsp;&nbsp;選挙ドットコム",
+      "sources": [
+        {
+          "name": "選挙ドットコム",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1jOVI4RkNiYzZMNEdvSEY2S3d1cEFlYWpZYzRIczgzOVhJTklsYjJfN1NKTzhKT25VQkJCMnlteVV1TFMwUDJwSlhZX1BpeG9ZdkRySGtYdjNvRkNGZERv?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c1883359d76d",
+      "title": "感染力が強い梅毒 赤ちゃんに甚大な影響も【白鷗大・岡田教授が解説】 - 下野新聞社",
+      "published": "2026-03-24T20:00:00+00:00",
+      "summary": "感染力が強い梅毒 赤ちゃんに甚大な影響も【白鷗大・岡田教授が解説】&nbsp;&nbsp;下野新聞社感染力が強い梅毒 赤ちゃんに甚大な影響も【白鷗大・岡田教授が解説】 人と社会と感染症（24） 人と社会と感染症（24）&nbsp;&nbsp;ｄメニューニュース",
+      "sources": [
+        {
+          "name": "下野新聞社",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9STDVSOUt5WlZHY3MzVlBhQWx2VmxYNm50VnNnbFlWSWRhMlRUdjR6SFA0LXlZb3Brc2FvRm1KcFNibUo3MEl1ZXV2bG1RbWNVUUR0WVZMNmNBWFk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "22524640707d",
+      "title": "COPDの2年以内の呼吸器関連入院リスクを予測するモデルを開発／BMJ｜CareNet.com - CareNet.com",
+      "published": "2026-03-24T19:00:00+00:00",
+      "summary": "COPDの2年以内の呼吸器関連入院リスクを予測するモデルを開発／BMJ｜CareNet.com&nbsp;&nbsp;CareNet.com",
+      "sources": [
+        {
+          "name": "CareNet.com",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5USmZlbndBS3luZlhHS3FNMVdqTFViZFhUcDNiTGVUWGFhc3pwZHZIbE5QMGtvd2RiQjlySnZDMlRvTTVnM1NRalVBaWVMbmpTM01ieXVKdzNuLVVvamdn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f98f7d0ca31a",
+      "title": "日本人のサルコペニア該当者の3割強はサルコペニア肥満であり、高血圧を有する割合が有意に高い - sndj-web.jp",
+      "published": "2026-03-24T15:06:11+00:00",
+      "summary": "日本人のサルコペニア該当者の3割強はサルコペニア肥満であり、高血圧を有する割合が有意に高い&nbsp;&nbsp;sndj-web.jp",
+      "sources": [
+        {
+          "name": "sndj-web.jp",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5vdXc4Z29PWGZfbFkyMFFsTzZpRWNQWkdURVAxY08xWlNGZG1INHgwOC1sZEJtTk1nWldmQ3hQeVI0TzdyTXllV2JoSQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e3300b72d74a",
+      "title": "認知機能の低下リスクを、わずか5分でチェック。世界標準「MoCA」理論に基づく日本語版セルフチェックツールを提供開始 - STRAIGHT PRESS",
+      "published": "2026-03-24T15:04:15+00:00",
+      "summary": "認知機能の低下リスクを、わずか5分でチェック。世界標準「MoCA」理論に基づく日本語版セルフチェックツールを提供開始&nbsp;&nbsp;STRAIGHT PRESSプレスリリース：認知機能の低下リスクを、わずか5分でチェック。世界標準「MoCA」理論に基づく日本語版セルフチェックツールを提供開始（PR TIMES）&nbsp;&nbsp;毎日新聞予備軍も含めると「認知症」は全国で1000万人 わずか3分で病気の兆候を検知するアプリ 鍵は「目」（テレビ愛知）&nbsp;&nbsp;Yahoo!ニュース北大、認知症を「早く見つける」ための新しい手がかりを発見&nbsp;&nbsp;ニフティニュース",
+      "sources": [
+        {
+          "name": "STRAIGHT PRESS",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE13QUcyNEhHME1hYmI2bzZLRzFtZnBvM2I5U1hMX0JMZ0pxRUZNOTRRVjVRcDlNQ0gyZTA4R1E2NjkxV3dJLTNQLVdBNldOelRoeXgtbVF1X212dzN5TjFqZ2N4cjd0Mks0aXN5aFVVYWdla0oy?oc=5"
         }
       ]
     },
@@ -878,6 +938,126 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/2182cb19e39e106dd75e50b252dd25137f7c4f58?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "a284b115484e",
+      "title": "\"病態が血液に現れる\" ALS患者の血液から異常タンパク質を同定－検査法の開発と疾患メカニズムの理解に前進－：[慶應義塾] - keio.ac.jp",
+      "published": "2026-03-24T05:05:57+00:00",
+      "summary": "\"病態が血液に現れる\" ALS患者の血液から異常タンパク質を同定－検査法の開発と疾患メカニズムの理解に前進－：[慶應義塾]&nbsp;&nbsp;keio.ac.jp",
+      "sources": [
+        {
+          "name": "keio.ac.jp",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGRnFZeU5yZHQtRWRxUzJIdXlodTJyOUQtNlI4TGRFaWY1cU1wcG1iYzdFR3dJUy01WjJOc3otVDduVmNnZ1lpZF8xbDRzTWo0eUF3Q1Y1cHVRMDgzWmpXYnZ6VGloREVtZkRLOE93?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "15e0ca76d285",
+      "title": "肝機能の「長期的な変化」が糖尿病リスクを予測か──日立コホート研究｜ニュース - dm-net.co.jp",
+      "published": "2026-03-24T02:34:45+00:00",
+      "summary": "肝機能の「長期的な変化」が糖尿病リスクを予測か──日立コホート研究｜ニュース&nbsp;&nbsp;dm-net.co.jp",
+      "sources": [
+        {
+          "name": "dm-net.co.jp",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOUGJkLWpKRWFyYThWM21XQmxLSFBrZ2R3NS1QVnBVZEJwSVFEdk43bDhGYVJWSE5WM1NYdHI1ajJJcmc4dkJCa2Rwc21EWmtuYUw4VklsNjk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5f5628315bf2",
+      "title": "​​通常診療データを用いた妊娠高血圧腎症の短期予測 - The Medical AI Times",
+      "published": "2026-03-24T01:00:00+00:00",
+      "summary": "​​通常診療データを用いた妊娠高血圧腎症の短期予測&nbsp;&nbsp;The Medical AI Times",
+      "sources": [
+        {
+          "name": "The Medical AI Times",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hc0x4cF9LU1ZRSkkzOWhOa3YzN0RGeXZsR25ZNGhub3BzQ0tzWFpnWWRLb1RlTVRLcEVYWjNEbS1wRVpFcldxSnQxN0o4M2hG?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "673c3c595cc3",
+      "title": "忙しいあなたのための新しい医療ダイエットサービス。「Mend」を全国で提供開始。 - PR TIMES",
+      "published": "2026-03-23T22:39:37+00:00",
+      "summary": "忙しいあなたのための新しい医療ダイエットサービス。「Mend」を全国で提供開始。&nbsp;&nbsp;PR TIMES",
+      "sources": [
+        {
+          "name": "PR TIMES",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OYWg5LTkzdDhLY1Mxeml0YWRCZE52OTZuV0ZabE1Zd2MtMWplaDZGNGNBQ0NYSUlpdUhsU2tVVlQ2REgyOUVfdUVZb3U1Y0EzWk5jWGRNQzNTbzl3a2VFNzNXVmNTU0dQSGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e6d7b79c6264",
+      "title": "がんゲノム検査でVTEリスク層別化の可能性を探索【JCS2026】 - m3.com",
+      "published": "2026-03-23T21:08:50+00:00",
+      "summary": "がんゲノム検査でVTEリスク層別化の可能性を探索【JCS2026】&nbsp;&nbsp;m3.com",
+      "sources": [
+        {
+          "name": "m3.com",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZLVByaTNNX2I0YnYzNUlHNXZJbzdDZnRpTzlsUjdZU3UxcXBGVlMyNmxXaTRUaEtkc1gxelFiUE9rRG1EUDJyb1REWmRaOFNSLUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d2dce6fc4d4e",
+      "title": "腸に穴が開いた時に内臓脂肪が炎症を抑える役割を果たしていたことがマウス研究で判明 - ライブドアニュース",
+      "published": "2026-03-23T21:00:00+00:00",
+      "summary": "腸に穴が開いた時に内臓脂肪が炎症を抑える役割を果たしていたことがマウス研究で判明&nbsp;&nbsp;ライブドアニュース",
+      "sources": [
+        {
+          "name": "ライブドアニュース",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6dm1VQ2p1QklwVS14aU9ZdE1kdWl0bTFDbVBzei1nc2FRR0JyUEhPcmtFakdFZUc3ajA5WmxvTHkwTFZlcVVVRlNXUkc2Q1NuMDhYZjNCaHY4N0ZuczdR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c2456ae1018b",
+      "title": "爪白癬治療薬の推奨度に変化「皮膚真菌症診療ガイドライン2025」｜CareNet.com - CareNet.com",
+      "published": "2026-03-23T19:00:00+00:00",
+      "summary": "爪白癬治療薬の推奨度に変化「皮膚真菌症診療ガイドライン2025」｜CareNet.com&nbsp;&nbsp;CareNet.com",
+      "sources": [
+        {
+          "name": "CareNet.com",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kRmsyMi00YXU1aGFZYU1fcWtsVmlJQllQYUVxdTRNZlNTNV96N3MtcVpvcWdXcmVwR2FJYXZTbTB6dXZocV9STHdUMDNzYlM0Y3c4cjRzcUZyUnJXM3ZJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "35f38f40e318",
+      "title": "妊娠後期の抗てんかん薬曝露、児の神経発達障害との関連は？／BMJ｜CareNet.com - CareNet.com",
+      "published": "2026-03-23T19:00:00+00:00",
+      "summary": "妊娠後期の抗てんかん薬曝露、児の神経発達障害との関連は？／BMJ｜CareNet.com&nbsp;&nbsp;CareNet.com",
+      "sources": [
+        {
+          "name": "CareNet.com",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zS0dKMWl4UnlOU3JOZlN3MlZjOEdvSHE5cTJZc3dsV184SkJvSTJxNlZYZjlETTJnaEtMQ29jZDNpN0tnUWpTaDM3UVNmVEtlLUIzWTh1VHhyUU1GcWxN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0fbd51ed077a",
+      "title": "境界性パーソナリティ障害に対する薬物療法の比較～ネットワークメタ解析｜CareNet.com - CareNet.com",
+      "published": "2026-03-23T19:00:00+00:00",
+      "summary": "境界性パーソナリティ障害に対する薬物療法の比較～ネットワークメタ解析｜CareNet.com&nbsp;&nbsp;CareNet.com",
+      "sources": [
+        {
+          "name": "CareNet.com",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KMTRNaGUtMS11VGg0OHhHQkd5ZFRFbWp4SEEwT09QalZGa0hIdkhFalhqcEFyQ0ZOT0NYek13amdDVjZIUFFLaTBoVDUtNFdrUHZOeEo4cXAxcHR4WHdn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f84525fa3945",
+      "title": "障害者入所施設で発生したヒトパラインフルエンザウイルス3型の集団感染事例 - 国立健康危機管理研究機構",
+      "published": "2026-03-23T05:54:53+00:00",
+      "summary": "障害者入所施設で発生したヒトパラインフルエンザウイルス3型の集団感染事例&nbsp;&nbsp;国立健康危機管理研究機構",
+      "sources": [
+        {
+          "name": "国立健康危機管理研究機構",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaTduMHd1Z2pNd08wN2hWTDZVS3RMOFFuemJkcTA5UlFIUVd3YU5fZi0yMXFUOUZUVWlfc3V6eFdJbjRlQ2NUbjJxYVpPM2JDeTc0Y1pDN1dSTUZyQ3lCRmJQcHEzQ0J6TC1fMGhwRGhWOUhEemdiX3Y1NGgwajh2c2ZR?oc=5"
         }
       ]
     }
