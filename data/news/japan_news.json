@@ -1,91 +1,43 @@
 {
   "source": "japan_news",
-  "fetched_at": "2026-03-28T12:33:37.849059+00:00",
-  "total_fetched": 130,
-  "unique_count": 130,
-  "health_related_count": 60,
+  "fetched_at": "2026-03-28T18:27:23.107820+00:00",
+  "total_fetched": 132,
+  "unique_count": 132,
+  "health_related_count": 56,
   "news": [
     {
-      "id": "9838b385fc18",
-      "title": "老化は「45歳から55歳」で急激に進む？ 「DNAはたしかに影響する。でもそれより大事なのは...」米専門家がアドバイス(Harper’s BAZAAR（ハーパーズ バザー）)",
+      "id": "a0fe556e2dd4",
+      "title": "リンパ浮腫のケアは主治医に確認しながら。リンパ浮腫診療をする医療機関リストも(家庭画報.com)",
+      "published": "2026-03-28T15:00:03+00:00",
+      "summary": "がん治療によってリンパ液の流れが悪くなることが原因で発症するリンパ浮腫。患者数に対して専門施設が足りず、治療をあきらめている人も少なくありません。リンパ浮腫になっても困らないように基礎知識と対策を知っ",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/4093ce4b81283f24840db983f498d7ace31eb43f?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "1057079d047f",
+      "title": "【スキンケアもかなうUVアイテム4選】紫外線カット＋ケア効果で素肌を格上げ！〈ビフォアフ写真つき〉(＠BAILA)",
+      "published": "2026-03-28T13:50:30+00:00",
+      "summary": "日々テクノロジーの進歩や新知見の登場とともに、進化を続けるUVアイテムが大集合。今回は新作の中から、高い紫外線カット機能だけでなく、ケア効果で素肌そのものを格上げしてくれるUVをピックアップ！",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/7256fa5ec2e43d4d6426d14a21bfd87c10739676?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "3695f634fdc6",
+      "title": "老化は「45歳から55歳」で急激に進む？ 「DNAはたしかに影響する。でもそれより大事なのは...」米専門家がアドバイス - Yahoo!ニュース",
       "published": "2026-03-28T12:20:02+00:00",
-      "summary": "長年、老化は時間とともに徐々に進むものと広く考えられてきた。しかし2024年、アメリカの専門誌『Nature Aging』に掲載された研究では、老化は一定のペースではなく「スパート」で進むことが示唆さ",
+      "summary": "老化は「45歳から55歳」で急激に進む？ 「DNAはたしかに影響する。でもそれより大事なのは...」米専門家がアドバイス&nbsp;&nbsp;Yahoo!ニュース100歳超の人ほど実年齢より細胞年齢が若い…医師｢最新研究で明らかになった“老化スイッチの正体”｣&nbsp;&nbsp;PRESIDENT Online（プレジデントオンライン）【老化研究の権威・吉森保の“細胞から若返る未来”】人間を10歳若返らせたら賞金150億円／老化のメカニズム／オートファジーのリサイクルシステム／“ブレーキ役”ルビコン／吉森先生が大注目！徳島の阿波晩茶&nbsp;&nbsp;東洋経済オンライン年齢のせいにしない毎日へ ファンケルの「老化細胞研究」はここまで来た！&nbsp;&nbsp;文春オンライン100歳まで生きる人と圧倒的な差がつく…医師「若くして老化スイッチが入りやすい人がもつ\"5つの危険因子\"」&nbsp;&nbsp;Yahoo!ニュース",
       "sources": [
         {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/47cc5c9c08ca25103f094460d4ddf389f88dabe2?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "318d164ff60a",
-      "title": "吐き気や食欲不振、胃痛や腹部の膨満感など胃の諸症状には「中枢」のツボ押しを(家庭画報.com)",
-      "published": "2026-03-28T12:10:23+00:00",
-      "summary": "中医学のエキスパートである鍼灸師の兵頭 明先生が、ツボの効能や位置、効くメカニズムを解説します。健康の土台作りに、不調改善に、1日1分のツボ押しを習慣にしましょう。",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/218ee5b27e0cf241c4aaf18f6dfd5591590a3283?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "0c17844edaf0",
-      "title": "デリケートゾーンの臭いがキツイ気がする…改善策は？女医・富永喜代が教える！大人の性とからだ相談室(ヨガジャーナルオンライン)",
-      "published": "2026-03-28T12:10:00+00:00",
-      "summary": "体の健康についてはさまざまな情報があふれているのに、「性のお悩み」だけは正解が見つけづらい…。家族や友人には相談しにくく、誰に聞けばいいのかわからない――そんなもやもやを抱えていませんか？ この連載で",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/d78c3817000653b58a388fc028deab95516fc27b?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "c341c160af8f",
-      "title": "絵本の魅力を伝える「絵本専門士」　図書館や学校で活躍　子供の読書の入り口に(産経新聞)",
-      "published": "2026-03-28T12:09:27+00:00",
-      "summary": "子供の読書の入り口となる絵本。その魅力を伝える専門家である「絵本専門士」という資格が存在する。絵本に関する知識を深め、図書館や学校、医療機関など、さまざまな場で活躍している。（吉沢智美） ■会運営の",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/c8828e0c6636b3fd30727db82c5fd62f2341bbe7?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "2b6e31c760a7",
-      "title": "「まぶたが重い」「かすみ目が気になる」春の疲れは目に出る？疲れを手放す眼精疲労回復ヨガ(ヨガジャーナルオンライン)",
-      "published": "2026-03-28T12:05:00+00:00",
-      "summary": "春になると、目の疲れや重だるさを感じることはありませんか。パソコンやスマートフォンの使用時間が長くなっている現代では、目の疲れは多くの方が感じている不調のひとつです。疲れ目を感じているのに、目薬などで",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/1d1d2f7070645d2f598834cacdc2dc3f523c3b84?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "7fba6e5708da",
-      "title": "【衝撃】SNSで話題の“妊活トレンド”に医学的根拠なし？ 「卵子の質は変えられない」不妊治療医が明かす残酷な真実と、心の守り(ウィメンズヘルス)",
-      "published": "2026-03-28T12:00:03+00:00",
-      "summary": "さまざまな情報がSNSやネット上にあふれる現代。最近では、「トリメスター・ゼロ」と呼ばれる“妊娠前3カ月の準備期間”が注目を集めているものの、専門家たちは警鐘を鳴らしている。 妊娠は誰でもできるもの",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/347875579c769d059b428bcfa127392b2b90e0ea?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "628f799cf874",
-      "title": "結婚を視野に入れている彼が「ニュースに興味がない」ことにモヤモヤ…どうしてらいい？ 悩む相談者へのアドバイス続々(TOKYO FM＋)",
-      "published": "2026-03-28T11:51:16+00:00",
-      "summary": "フリーアナウンサーの住吉美紀がパーソナリティをつとめるTOKYO FMの生ワイドラジオ番組「Blue Ocean」（毎週月曜～金曜 9:00～11:00）。毎週金曜日に放送しているコーナー「沢井製薬",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/cfa264aec1b736b75d0993264bb6232bdee702b2?source=rss"
+          "name": "Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRTFltLTZWWlpuTDk4a2treFpOeEExZmd6VVFrbllXdXdBTWkySE1NdEM0MHM1bkJwOUplWnVkWlJWUzBYd3hYaFVtRjBGOWI0dng4NUg4TnE1TjY2dXYwUWpNV2VaZm1Dc2xkeWNVZXplaDRCZHJhR2FocmFFa0E?oc=5"
         }
       ]
     },
@@ -98,18 +50,6 @@
         {
           "name": "apf.inc",
           "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNTzdQQ1c1QmtlUG9pTmlxRGc0TmlfN08ybVFoTm1zMmZ5Y2xVOFNUTDJJa1R4S2hMbjIyekVDU24zXzQwNkZlS05YTUF3Nm94Zll6T3NIaENCS1ZxOGpRVkttVTZwNGxXMDU3bmEwRm10QjdJVURfYWNlSk9SaWpHZi1kRlVNYUJhcVdIWkRBVVpjZE5sLTh4WDFQemo1QlR1UXc5M2F4NDZJRXZLRmg5VF9hT056a1pJR0hqSWRBR2VaeTVhY0JzdHFTVW1UaUNheUFMRktzOFNyeDQ1S0dKU1VZZzJTVGNURUQ2LWNHOE5zaU9MaTNQVFNjOFZhY2d1VUdjMElWbFQ0a082dnk3N3hQREU5WVRVeHN3MFZncEZLdHNEOFFDekNDSlJSck96U3c2RWJ1VjB0Z2c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "46d96daf95c9",
-      "title": "100歳超の人ほど実年齢より細胞年齢が若い…医師「最新研究で明らかになった“老化スイッチの正体”」(プレジデントオンライン) - Yahoo!ファイナンス",
-      "published": "2026-03-28T07:15:00+00:00",
-      "summary": "100歳超の人ほど実年齢より細胞年齢が若い…医師「最新研究で明らかになった“老化スイッチの正体”」(プレジデントオンライン)&nbsp;&nbsp;Yahoo!ファイナンス100歳まで生きる人と圧倒的な差がつく…医師｢若くして老化スイッチが入りやすい人がもつ\"5つの危険因子\"｣&nbsp;&nbsp;PRESIDENT Online（プレジデントオンライン）年齢のせいにしない毎日へ ファンケルの「老化細胞研究」はここまで来た！&nbsp;&nbsp;文春オンライン私たちは近いうちに老いなくなる？ ～老化研究最前線：役立つ！ おすすめ健康本：日経Gooday（グッデイ）&nbsp;&nbsp;日経Gooday若返りの決め手「オートファジー」を高める食事・運動・生活習慣&nbsp;&nbsp;日経Gooday",
-      "sources": [
-        {
-          "name": "Yahoo!ファイナンス",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVGtRckhMczlVWkVRMVlhSWZsb3ZMQUFpZWhOOERMZUxBVFVTNlh5NHVGbFNXX0R0UzJFb0MyS3NocTd4OWNBVWtEOGthTmgyYkJqcE5DclQ1ZzhuTnUtSkZQa0hjZXhiNDNnWVdYTXNjVzN6YnFPamNTbTMweU53Nk8wNjR1YW8?oc=5"
         }
       ]
     },
@@ -294,38 +234,50 @@
       ]
     },
     {
-      "id": "8971c4478ab4",
-      "title": "高齢者施設における夏季のRSウイルス集団感染事例―神奈川県 - id-info.jihs.go.jp",
+      "id": "e6e3543f2fc0",
+      "title": "高齢者施設における夏季のRSウイルス集団感染事例―神奈川県 - 国立健康危機管理研究機構",
       "published": "2026-03-27T05:55:27+00:00",
-      "summary": "高齢者施設における夏季のRSウイルス集団感染事例―神奈川県&nbsp;&nbsp;id-info.jihs.go.jp",
+      "summary": "高齢者施設における夏季のRSウイルス集団感染事例―神奈川県&nbsp;&nbsp;国立健康危機管理研究機構",
       "sources": [
         {
-          "name": "id-info.jihs.go.jp",
+          "name": "国立健康危機管理研究機構",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbC1kVk9NTjZGa1JqNUZMSkkzSkFDbE4xelJCX1NEQlVqekRod1k2UUllZ3ktUGxTZmcycG9VQkxfNUl1VWYxcFB0Qm1rY1doX1plSWFVZDdWc1BYaWdiN2dnb1laZ3dLOGFIN2tTdllPd05oelZsRFR5aEE2a0VFWWhn?oc=5"
         }
       ]
     },
     {
-      "id": "053226eb8b50",
-      "title": "輸入デーツ関連のA型肝炎の集団発生, 2021年―英国, オーストラリア - id-info.jihs.go.jp",
+      "id": "19b8abe20517",
+      "title": "輸入デーツ関連のA型肝炎の集団発生, 2021年―英国, オーストラリア - 国立健康危機管理研究機構",
       "published": "2026-03-27T05:55:19+00:00",
-      "summary": "輸入デーツ関連のA型肝炎の集団発生, 2021年―英国, オーストラリア&nbsp;&nbsp;id-info.jihs.go.jp",
+      "summary": "輸入デーツ関連のA型肝炎の集団発生, 2021年―英国, オーストラリア&nbsp;&nbsp;国立健康危機管理研究機構",
       "sources": [
         {
-          "name": "id-info.jihs.go.jp",
+          "name": "国立健康危機管理研究機構",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQkt6dFZCNklNbmMxWkpEa0tEU1Ryalg1Z0pWMWY2RkxpUXRJUmNvUy1acGZrWkZmcE9haDE0Z2U4bU5wS01RZDZXN3Nidk5FYVVmek1vd0lZMmNGLWNERXJ6dllHUmNVUTY4Z0xsU0JvY0MzZjFsb2Z2YkdIZzZvRUl3?oc=5"
         }
       ]
     },
     {
-      "id": "ee549faa75b7",
-      "title": "国内のA型肝炎ウイルスの分子疫学検査について - id-info.jihs.go.jp",
+      "id": "9bedcf72e051",
+      "title": "国内のA型肝炎ウイルスの分子疫学検査について - 国立健康危機管理研究機構",
       "published": "2026-03-27T05:55:18+00:00",
-      "summary": "国内のA型肝炎ウイルスの分子疫学検査について&nbsp;&nbsp;id-info.jihs.go.jp",
+      "summary": "国内のA型肝炎ウイルスの分子疫学検査について&nbsp;&nbsp;国立健康危機管理研究機構",
       "sources": [
         {
-          "name": "id-info.jihs.go.jp",
+          "name": "国立健康危機管理研究機構",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTDh5WWdFTGY1c3Z2NjRmY1U1UVFaVUd0STJxQ2Eyam9hUlJ2S0tpRDV0Mm00Q1V6Y2RiWnBCazVkNExDQU14NVZZay1UMHo0alk2UzFIblJNMENtMDJ4YXJtMXhKd3Z6YjNtOUR2RDZFMmZCV2l0SHduZThpcWZHcDJn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9d20feeca4de",
+      "title": "メタゲノム解析を端緒に判明した莢膜を欠く肺炎球菌による結膜炎患者の集積事例―富山県 - 国立健康危機管理研究機構",
+      "published": "2026-03-27T05:55:17+00:00",
+      "summary": "メタゲノム解析を端緒に判明した莢膜を欠く肺炎球菌による結膜炎患者の集積事例―富山県&nbsp;&nbsp;国立健康危機管理研究機構",
+      "sources": [
+        {
+          "name": "国立健康危機管理研究機構",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWklnYWJFVTJBNEVHeGg0emNneDBOdXRIRzZOamZDMlB0dEZGMWZkdU5ablc4eFZESUM0ZDc2MDBGSl9fb1ZwSUZ5YllPOHppX1M2eUdlVGlzeDFlenFvM29WQVZSclpGSVN3bWs2d2NwNS0zV25raC03R25TbG1Tb1pn?oc=5"
         }
       ]
     },
@@ -381,7 +333,7 @@
       "id": "b7c5c541d64b",
       "title": "昨年の新規HIV感染者 過去20年で最少 報告数・速報値 - 医療介護CBnews",
       "published": "2026-03-27T04:00:00+00:00",
-      "summary": "昨年の新規HIV感染者 過去20年で最少 報告数・速報値&nbsp;&nbsp;医療介護CBnews25年新規HIV感染者、過去20年で最少（共同通信）&nbsp;&nbsp;Yahoo!ニュースＨＩＶ感染・エイズ患者８９０人＝３年ぶり減、昨年速報値―厚労省&nbsp;&nbsp;時事通信ニュースHIV感染者、20年で最少 25年速報値624人&nbsp;&nbsp;北海道新聞デジタルＨＩＶ感染者、２０年で最少 ２５年速報値６２４人 | | 全国のニュース&nbsp;&nbsp;佐賀新聞",
+      "summary": "昨年の新規HIV感染者 過去20年で最少 報告数・速報値&nbsp;&nbsp;医療介護CBnews昨年の新規HIV感染者 過去20年で最少 - 報告数・速報値（医療介護ＣＢニュース）&nbsp;&nbsp;Yahoo!ニュースＨＩＶ感染・エイズ患者８９０人＝３年ぶり減、昨年速報値―厚労省&nbsp;&nbsp;時事通信ニュース２５年新規ＨＩＶ感染者、過去２０年で最少&nbsp;&nbsp;oita-press.co.jpＨＩＶ感染者、２０年で最少 ２５年速報値６２４人&nbsp;&nbsp;沖縄タイムス社",
       "sources": [
         {
           "name": "医療介護CBnews",
@@ -450,13 +402,13 @@
       ]
     },
     {
-      "id": "5967ca768e73",
-      "title": "花粉症で「口臭」リスク増…実は鼻詰まり＆薬が原因！？ 3つの効果的な対策とは【専門家が解説】 - オトナンサー",
+      "id": "4ac780146357",
+      "title": "花粉症で「口臭」リスク増…実は鼻詰まり＆薬が原因！？ 3つの効果的な対策とは【専門家が解説】 - otonanswer.jp",
       "published": "2026-03-27T00:04:22+00:00",
-      "summary": "花粉症で「口臭」リスク増…実は鼻詰まり＆薬が原因！？ 3つの効果的な対策とは【専門家が解説】&nbsp;&nbsp;オトナンサー",
+      "summary": "花粉症で「口臭」リスク増…実は鼻詰まり＆薬が原因！？ 3つの効果的な対策とは【専門家が解説】&nbsp;&nbsp;otonanswer.jp",
       "sources": [
         {
-          "name": "オトナンサー",
+          "name": "otonanswer.jp",
           "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE45UFpQb3E0LWZXUnRUMzU3dXhXSUVvN3NueFRQWmg3X2FILWVJdFEzTkFQVHdERDVPWUM2a2dsV2V0NktkMkhyOTZ3?oc=5"
         }
       ]
@@ -570,13 +522,13 @@
       ]
     },
     {
-      "id": "08f4ad28824d",
-      "title": "骨密度検査を体験｜更年期から考える40代50代の“骨の健康” - smartnews.com",
+      "id": "d769e8e8d494",
+      "title": "骨密度検査を体験｜更年期から考える40代50代の“骨の健康” - スマートニュース（SmartNews）",
       "published": "2026-03-26T18:45:00+00:00",
-      "summary": "骨密度検査を体験｜更年期から考える40代50代の“骨の健康”&nbsp;&nbsp;smartnews.com男性も貯骨が少ないと危ない！加齢で減る骨量と「骨粗鬆症」を防ぐための若返り術 | チバテレ＋プラス&nbsp;&nbsp;千葉テレビ放送",
+      "summary": "骨密度検査を体験｜更年期から考える40代50代の“骨の健康”&nbsp;&nbsp;スマートニュース（SmartNews）男性も貯骨が少ないと危ない！加齢で減る骨量と「骨粗鬆症」を防ぐための若返り術 | チバテレ＋プラス&nbsp;&nbsp;千葉テレビ放送",
       "sources": [
         {
-          "name": "smartnews.com",
+          "name": "スマートニュース（SmartNews）",
           "link": "https://news.google.com/rss/articles/CBMiqANBVV95cUxNME95Sms4VjVyb3VmMEtONlRIOTBKb1NqVTVHRUFINUw4bjVDTU1qRUNWczhTWWtvUmJfdktaZWZOdjF2YkVUaUdVdHhmNnJhNWNlMko3ME9VaDB2MmJFTjVtV1VlcWZkM09LZTVKc2UxX1NzNExDNnVVNFlrd2k2cGQxVHJmWmlrTkN6TEhPMkhXSWlrQ2ZsV2Jka2c4cTZ1U1dDSVZ0UzBrcjNKZWM3a2tkY2ZOZW5scXlSY25EZGRGOUxYc2lUMWFTSEZVc216R3V5S2Rqd3VpOHpPMjJFSk1mSVQ5amEwSEE3czhIVkN3Y3hFOFZvS0prRVFxN3lRR1ZlRDdydS1sT2NQU19Rc0FjanBSMTVaem11Q1N0WmVCQWJ1UEtST2hXclpvR2R1SzMwUU9ZOHBONDlVTVVaZFUza003OERJRmdZSG5lZ2xybk55a3hFbUhXNHhoQy1SM2dZc19YaXU4Qk45aTNhT2ZhXzBNeXEwa1gzSkRYYi1XRVZYZ1BvaXc0cF83RmRvNzRKMGZVSTV4XzBab0FMbG9oS0RSR2RI?oc=5"
         }
       ]
@@ -666,6 +618,18 @@
       ]
     },
     {
+      "id": "012e115c330d",
+      "title": "不安の問題を有する勤労者に対する認知行動変容アプローチを用いたWEB心理教育の有効性：ランダム化比較研究 - rieti.go.jp",
+      "published": "2026-03-26T01:46:06+00:00",
+      "summary": "不安の問題を有する勤労者に対する認知行動変容アプローチを用いたWEB心理教育の有効性：ランダム化比較研究&nbsp;&nbsp;rieti.go.jp",
+      "sources": [
+        {
+          "name": "rieti.go.jp",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Yb0dWSEZvYUpWeTBaOHBlNnlFQkFlMHFYQVVyTUowXzNQSWVtWFpnSFdDcUk2ZFdROUg1aVhtYW85NGNfSW9YOEZTcGpCdGJTbjhmLW5SX3VPVGZrZkVQMEc5QXg1WTBXdk85VHF3?oc=5"
+        }
+      ]
+    },
+    {
       "id": "24978425bb0d",
       "title": "お薬手帳、市販ノートでもいい？…薬剤師会の回答は　ノートを持参する人の特徴(withnews by 朝日新聞)",
       "published": "2026-03-25T22:00:00+00:00",
@@ -710,18 +674,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/d309ac3d9c23faaa4f367da7040ab4fb3dd9f234?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "897fcceab461",
-      "title": "衛星搭載アダプタの部材剥離が原因となった可能性高まる　JAXAがH3ロケット8号機打ち上げ失敗原因究明状況を報告(sorae 宇宙へのポータルサイト)",
-      "published": "2026-03-25T01:47:40+00:00",
-      "summary": "JAXA（宇宙航空研究開発機構）は2026年3月24日に開催された第61回宇宙開発利用部会 調査・安全小委員会にて、「H3」ロケット8号機打ち上げ失敗の原因究明について、最新の状況を報告しました。",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/a7283ed6219d8853b2b40238ae0aac37d5abc983?source=rss"
         }
       ]
     }
