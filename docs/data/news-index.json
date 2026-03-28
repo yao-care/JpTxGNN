@@ -1,71 +1,7 @@
 {
-  "generated": "2026-03-28T06:46:39.445525+00:00",
-  "count": 10,
+  "generated": "2026-03-28T12:33:38.185203+00:00",
+  "count": 8,
   "news": [
-    {
-      "id": "f6087118362c",
-      "title": "大学生で脳腫瘍、脊髄に転移…19歳の娘亡くした父の体験　在宅医療に葛藤も「尊厳守れた」(西日本新聞)",
-      "published": "2026-03-28T05:30:02+00:00",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/f8a9796645d4ccdc3040375353a6408ba2e1211d?source=rss"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "腫瘍",
-          "related_drugs": [
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "ゼローダ錠３００　３００ｍｇ（選）"
-            },
-            {
-              "slug": "propranolol",
-              "name": "インデラル錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "imatinib",
-              "name": "グリベック錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "3d01db66eddb",
       "title": "長引く『咳』は『喘息』かも？ 受診の目安と検査のタイミング【医師解説】",
@@ -472,12 +408,12 @@
       ]
     },
     {
-      "id": "be21f4374e39",
+      "id": "4424668e1bc4",
       "title": "HER2陽性転移乳がん1次治療、pyrotinib上乗せで予後改善／BMJ｜CareNet.com",
       "published": "2026-03-26T19:00:00+00:00",
       "sources": [
         {
-          "name": "carenet.com",
+          "name": "CareNet.com",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QSjIzY3Q0cEcwcGpWYXRkYmd4QWdxNWdSQ2ZMQ3lCRXJtTTVMTjkzaTJqU3hJSGxPYWRZaWhMd1JiYnlMVFNyeWJFOEV3QUxwSUhwOFZZWS1WUnZGTFZn?oc=5"
         }
       ],
@@ -547,12 +483,12 @@
       ]
     },
     {
-      "id": "5ead538bc925",
+      "id": "e1bbbb57eea3",
       "title": "ピロリ除菌10年経過後の胃がん発症リスク因子～日本での研究｜CareNet.com",
       "published": "2026-03-26T19:00:00+00:00",
       "sources": [
         {
-          "name": "carenet.com",
+          "name": "CareNet.com",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaSkdCUlVGelZhVXRPTGtBUXA3YVFuSWxqekNMSVA3aHU3amdzQmVsV0kyMW1sSFVza2p6N3o4NGF5NW9WcG1MOFpudWxQOTAwbDBSUUc2TVVfTmhZZ1ZJ?oc=5"
         }
       ],
@@ -616,129 +552,6 @@
             {
               "slug": "capecitabine",
               "name": "ゼローダ錠３００　３００ｍｇ（選）"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "30af5db1ff6c",
-      "title": "関節マクロファージの炎症惹起機構を解明―関節リウマチの新たな治療法開発に期待―",
-      "published": "2026-03-26T11:54:19+00:00",
-      "sources": [
-        {
-          "name": "京都大学",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Db09WbkFCelJDMGRGNFk0cTNGeGYxWjBZdWFZSG9RS09LaU1yazQ0YWtTRlY0Mk1uQTNnXzg5azRYNE5NTkloQXQwV29qSkZTWWdTMHJTT01HQ1J2LTVNY0VNZw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "rheumatoid arthritis",
-          "keyword": "関節リウマチ",
-          "related_drugs": [
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "cyclosporine",
-              "name": "ネオーラル５０ｍｇカプセル（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "meloxicam",
-              "name": "モービック錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "diclofenac",
-              "name": "ボルタレンサポ５０ｍｇ（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "celecoxib",
-              "name": "セレコックス錠２００ｍｇ（選）"
-            },
-            {
-              "slug": "ibuprofen",
-              "name": "ブルフェン顆粒２０％（選）"
-            },
-            {
-              "slug": "loxoprofen",
-              "name": "ロキソニンゲル１％（選）"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "リウマチ",
-          "keyword": "リウマチ",
-          "related_drugs": [
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "cyclosporine",
-              "name": "ネオーラル５０ｍｇカプセル（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "meloxicam",
-              "name": "モービック錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "diclofenac",
-              "name": "ボルタレンサポ５０ｍｇ（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "celecoxib",
-              "name": "セレコックス錠２００ｍｇ（選）"
-            },
-            {
-              "slug": "ibuprofen",
-              "name": "ブルフェン顆粒２０％（選）"
-            },
-            {
-              "slug": "loxoprofen",
-              "name": "ロキソニンゲル１％（選）"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
             }
           ]
         }
