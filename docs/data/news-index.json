@@ -1,14 +1,38 @@
 {
-  "generated": "2026-03-29T12:33:22.931206+00:00",
-  "count": 3,
+  "generated": "2026-03-29T18:28:13.161984+00:00",
+  "count": 4,
   "news": [
     {
-      "id": "cd236d75adbc",
+      "id": "08bb8f5d2a87",
+      "title": "MR拮抗薬がケレンディアに変更された慢性心不全患者",
+      "published": "2026-03-29T13:15:01+00:00",
+      "sources": [
+        {
+          "name": "日経メディカル",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRzI1bTZlZUtWQnNRdUVZNXRhc2VQQnduTm81elVSVWVsaExYYjREOU0tZHVGUjhNaFFubkZBR2VMQmdubDNkUDdQLXlTaHFWRmVYM0VpVDZkZk1LbVBUMDRUTk1XNE1tRmNKMldyQzM1Vno4TjI2a0hQclJoMHZTYll1eE1LZw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "heart failure",
+          "keyword": "心不全",
+          "related_drugs": [
+            {
+              "slug": "enalapril",
+              "name": "レニベース錠１０　１０ｍｇ（選）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3d01db66eddb",
       "title": "長引く『咳』は『喘息』かも？ 受診の目安と検査のタイミング【医師解説】",
       "published": "2026-03-28T01:01:54+00:00",
       "sources": [
         {
-          "name": "medicaldoc.jp",
+          "name": "メディカルドック",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2Q3BmMGpYVkVWcnc0MmExY3N2cjJkOHRuMkdVM0hSNVAwSVpRN1lWdThzUDExNEVMUEk2Vk1tRUozVk4yekNQWVRWdmFUMzJscDJhODk5OFI?oc=5"
         }
       ],
