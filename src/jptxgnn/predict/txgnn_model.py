@@ -57,7 +57,7 @@ def check_dependencies() -> Tuple[bool, List[str]]:
         missing.append("dgl")
 
     try:
-        import jptxgnn
+        import txgnn
     except ImportError:
         missing.append("TxGNN")
 
