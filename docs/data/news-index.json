@@ -1,55 +1,7 @@
 {
-  "generated": "2026-03-30T12:55:20.529629+00:00",
-  "count": 13,
+  "generated": "2026-03-30T18:46:35.747817+00:00",
+  "count": 11,
   "news": [
-    {
-      "id": "6e84081bf596",
-      "title": "古くから黄疸治療に用いられた「至陽」。せき、喘息、胃痛、胸やけにも奏効します(家庭画報.com)",
-      "published": "2026-03-30T12:10:01+00:00",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/c8949663255018913c7e4c3de2346a6472018c3b?source=rss"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "asthma",
-          "keyword": "喘息",
-          "related_drugs": [
-            {
-              "slug": "theophylline",
-              "name": "ユニコン錠１００　１００ｍｇ（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "budesonide",
-              "name": "シムビコートタービュヘイラー６０吸入（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "3c86d4ce9eae",
       "title": "「肺がんステージ1の症状」は咳以外に何があるかご存知ですか？医師が解説！(メディカルドック)",
@@ -634,30 +586,6 @@
             {
               "slug": "aripiprazole",
               "name": "エビリファイ錠１ｍｇ（選）"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "08bb8f5d2a87",
-      "title": "MR拮抗薬がケレンディアに変更された慢性心不全患者",
-      "published": "2026-03-29T13:15:01+00:00",
-      "sources": [
-        {
-          "name": "日経メディカル",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRzI1bTZlZUtWQnNRdUVZNXRhc2VQQnduTm81elVSVWVsaExYYjREOU0tZHVGUjhNaFFubkZBR2VMQmdubDNkUDdQLXlTaHFWRmVYM0VpVDZkZk1LbVBUMDRUTk1XNE1tRmNKMldyQzM1Vno4TjI2a0hQclJoMHZTYll1eE1LZw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "heart failure",
-          "keyword": "心不全",
-          "related_drugs": [
-            {
-              "slug": "enalapril",
-              "name": "レニベース錠１０　１０ｍｇ（選）"
             }
           ]
         }
