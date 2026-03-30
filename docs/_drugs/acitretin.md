@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Acitretin
-parent: 中證據等級 (L3-L4)
+parent: 中エビデンス (L3-L4)
 nav_order: 12
 evidence_level: L3
 indication_count: 1
@@ -10,12 +10,12 @@ indication_count: 1
 # Acitretin
 {: .fs-9 }
 
-證據等級: **L3** | 預測適應症: **1** 個
+エビデンスレベル: **L3** | 予測適応症: **1** 件
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 目次
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,31 +25,31 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 薬剤師評価レポート
 
 </div>
 
 # Acitretin：從乾癬到青春痘新適應症探索
 
-## 一句話總結
+## 一言まとめ
 
 Acitretin 原本用於嚴重性乾癬及皮膚角化症。
 TxGNN 模型預測它可能對**青春痘 (acne)** 有效，
 目前有 **1 個臨床試驗**和 **18 篇文獻**支持這個方向。
 
-## 快速總覽
+## 概要
 
-| 項目 | 內容 |
+| 項目 | 内容 |
 |------|------|
-| 原適應症 | 嚴重性牛皮癬、皮膚角化症 |
-| 預測新適應症 | 青春痘 (acne) |
-| TxGNN 預測分數 | 99.94% |
-| 證據等級 | L3 |
-| 台灣上市 | 已上市 |
-| 許可證數 | 6 張 |
-| 建議決策 | Proceed with Guardrails |
+| 既存適応症 | 嚴重性牛皮癬、皮膚角化症 |
+| 予測新適応症 | 青春痘 (acne) |
+| TxGNN 予測スコア | 99.94% |
+| エビデンスレベル | L3 |
+| 日本上市 | 已上市 |
+| 承認数 | 6 張 |
+| 推奨判断 | Proceed with Guardrails |
 
-## 為什麼這個預測合理？
+## この予測が妥当な理由
 
 Acitretin 屬於第二代芳香族維生素 A 酸衍生物（retinoid），其主要作用機轉包括：
 1. 調節角質細胞分化與增殖
@@ -65,7 +65,7 @@ Acitretin 與 isotretinoin 同屬 retinoids，但 acitretin 傳統上較少用�
 
 2002 年個案報告 (PMID: 12080949) 顯示，isotretinoin 治療無效的結節囊腫型青春痘患者，使用 acitretin 後獲得顯著改善。
 
-## 臨床試驗證據
+## 臨床試験エビデンス
 
 | 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
 |---------|------|------|------|---------|
@@ -73,7 +73,7 @@ Acitretin 與 isotretinoin 同屬 retinoids，但 acitretin 傳統上較少用�
 
 *註：目前無專門針對 acitretin 治療青春痘的註冊臨床試驗*
 
-## 文獻證據
+## 文献エビデンス
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
@@ -84,18 +84,18 @@ Acitretin 與 isotretinoin 同屬 retinoids，但 acitretin 傳統上較少用�
 | [8573927](https://pubmed.ncbi.nlm.nih.gov/8573927/) | 1995 | Review | Dermatology | Retinoids 與皮脂腺活性：比較不同 retinoids 的抗痘效果 |
 | [9074840](https://pubmed.ncbi.nlm.nih.gov/9074840/) | 1997 | Review | Drugs | Retinoids 在皮膚科的現況與未來：包含痤瘡相關應用 |
 
-## 台灣上市資訊
+## 日本上市情報
 
-| 許可證號 | 品名 | 劑型 | 核准適應症 |
+| 承認番号 | 品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
 | 衛署藥輸字第022117號 | 新定康癬膠囊 25mg | 膠囊劑 | 嚴重性牛皮癬、皮膚角化症 |
 | 衛署藥輸字第022118號 | 新定康癬膠囊 10mg | 膠囊劑 | 嚴重性牛皮癬、皮膚角化症 |
 
-## 安全性考量
+## 安全性に関する考慮事項
 
-### 重要藥物交互作用
+### 重要な薬物相互作用
 
-**Major 交互作用：**
+**Major 相互作用：**
 - Tetracyclines（Doxycycline、Minocycline、Tetracycline）：增加假性腦瘤風險
 - Vitamin A：增加維生素 A 過多症風險
 - Ethanol（酒精）：可能將 acitretin 轉換為 etretinate，延長半衰期至數月
@@ -103,26 +103,26 @@ Acitretin 與 isotretinoin 同屬 retinoids，但 acitretin 傳統上較少用�
 - Methotrexate：增加肝毒性風險
 - 口服避孕藥（Levonorgestrel、Norethisterone 等）：可能降低避孕效果
 
-**Moderate 交互作用：**
+**Moderate 相互作用：**
 - 磺胺尿素類降血糖藥（Glimepiride、Glipizide 等）：可能影響血糖控制
 - 光敏感藥物（Aminolevulinic acid、Methoxsalen 等）：增加光敏感反應
 
-### 重要警語
+### 重要な警告
 - **絕對禁止懷孕**：acitretin 具有強烈致畸性，育齡婦女必須於治療前、中、後使用有效避孕措施
 - 因可能轉換為 etretinate，**停藥後需避孕至少 3 年**
 - **禁止飲酒**：酒精會促進 acitretin 轉換為長效 etretinate
 - 定期監測肝功能及血脂
 
-安全性資訊請參考原廠仿單。
+安全性情報は添付文書をご参照ください。
 
-## 結論與下一步
+## 結論と次のステップ
 
-**決策：Proceed with Guardrails**
+**判断：Proceed with Guardrails**
 
 **理由：**
 Acitretin 與 isotretinoin 同屬 retinoids，具有相似的抗角化及抗發炎機轉。文獻顯示其在 isotretinoin 治療失敗或需長期維持治療的青春痘患者中有應用價值。特別是在化膿性汗腺炎合併青春痘的情況下，acitretin 可能比 isotretinoin 更有效。
 
-**若要推進需要：**
+**推進に必要な事項：**
 - 排除懷孕可能性，育齡婦女需使用兩種有效避孕方法
 - 完全禁止飲酒
 - 定期監測肝功能（ALT、AST）及血脂（TG、Cholesterol）

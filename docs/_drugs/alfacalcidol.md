@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Alfacalcidol
-parent: 中證據等級 (L3-L4)
+parent: 中エビデンス (L3-L4)
 nav_order: 13
 evidence_level: L3
 indication_count: 1
@@ -10,12 +10,12 @@ indication_count: 1
 # Alfacalcidol
 {: .fs-9 }
 
-證據等級: **L3** | 預測適應症: **1** 個
+エビデンスレベル: **L3** | 予測適応症: **1** 件
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 目次
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,31 +25,31 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 薬剤師評価レポート
 
 </div>
 
 # Alfacalcidol：從骨質疏鬆到腎小管酸中毒探索
 
-## 一句話總結
+## 一言まとめ
 
 Alfacalcidol 原本用於骨質疏鬆症及維生素 D 缺乏相關疾病。
 TxGNN 模型預測它可能對**腎小管酸中毒 (renal tubular acidosis)** 有效，
 目前有 **8 篇文獻**支持這個方向。
 
-## 快速總覽
+## 概要
 
-| 項目 | 內容 |
+| 項目 | 内容 |
 |------|------|
-| 原適應症 | 骨質疏鬆症、慢性腎不全低血鈣症、副甲狀腺機能低下症、佝僂病、骨軟化症 |
-| 預測新適應症 | 腎小管酸中毒 (renal tubular acidosis) |
-| TxGNN 預測分數 | 99.27% |
-| 證據等級 | L3 |
-| 台灣上市 | 已上市 |
-| 許可證數 | 多張（部分已註銷） |
-| 建議決策 | Proceed with Guardrails |
+| 既存適応症 | 骨質疏鬆症、慢性腎不全低血鈣症、副甲狀腺機能低下症、佝僂病、骨軟化症 |
+| 予測新適応症 | 腎小管酸中毒 (renal tubular acidosis) |
+| TxGNN 予測スコア | 99.27% |
+| エビデンスレベル | L3 |
+| 日本上市 | 已上市 |
+| 承認数 | 多張（部分已註銷） |
+| 推奨判断 | Proceed with Guardrails |
 
-## 為什麼這個預測合理？
+## この予測が妥当な理由
 
 Alfacalcidol（1α-hydroxycholecalciferol）是活性維生素 D3 前驅物，在肝臟轉換為活性形式 1,25(OH)2D3（calcitriol）。其主要作用包括：
 1. 促進腸道鈣磷吸收
@@ -70,11 +70,11 @@ Alfacalcidol（1α-hydroxycholecalciferol）是活性維生素 D3 前驅物，�
 
 多篇文獻顯示 alfacalcidol 在 RTA 合併骨軟化症的患者中可有效改善骨密度及臨床症狀。
 
-## 臨床試驗證據
+## 臨床試験エビデンス
 
 目前無針對 alfacalcidol 與腎小管酸中毒的註冊臨床試驗。
 
-## 文獻證據
+## 文献エビデンス
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
@@ -86,20 +86,20 @@ Alfacalcidol（1α-hydroxycholecalciferol）是活性維生素 D3 前驅物，�
 | [6893175](https://pubmed.ncbi.nlm.nih.gov/6893175/) | 1980 | Case Reports | Contrib Nephrol | 不同類型 Fanconi 症候群中 1α-OHVD3 的生物及治療效果，療效為 VD2 的 200-250 倍 |
 | [6709109](https://pubmed.ncbi.nlm.nih.gov/6709109/) | 1984 | Case Report | Neth J Med | 原發性膽汁性肝硬化合併 RTA 患者使用 1α-hydroxyvitamin D |
 
-## 台灣上市資訊
+## 日本上市情報
 
-| 許可證號 | 品名 | 劑型 | 核准適應症 |
+| 承認番号 | 品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
 | 衛署藥製字第044609號 | 阿法鈣斯多 "台耀" | 粉劑 | 維他命 D 缺乏症 |
 | 衛署藥製字第040333號 | "漁人" 腎骨全軟膠囊 0.25ug | 軟膠囊劑 | 骨質疏鬆症、慢性腎不全低血鈣症、副甲狀腺機能低下症、維生素 D 抵抗性佝僂病、骨軟化症 |
 | 衛署藥輸字第024916號 | 萬乃補軟膠囊 | 軟膠囊劑 | 骨質疏鬆症、維他命 D 缺乏症 |
 | 衛署藥輸字第023050號 | 骨精鈣膠囊 1.0ug | 軟膠囊劑 | 骨質疏鬆症、慢性腎不全低血鈣症、副甲狀腺機能低下症 |
 
-## 安全性考量
+## 安全性に関する考慮事項
 
-### 重要藥物交互作用
+### 重要な薬物相互作用
 
-**Moderate 交互作用：**
+**Moderate 相互作用：**
 - 含鈣制酸劑（Calcium carbonate 等）：可能增加高鈣血症風險
 - Digoxin：高鈣血症可增加毛地黃毒性
 - Thiazide 利尿劑：增加高鈣血症風險
@@ -119,16 +119,16 @@ Alfacalcidol（1α-hydroxycholecalciferol）是活性維生素 D3 前驅物，�
 - 肌肉無力
 - 意識改變
 
-安全性資訊請參考原廠仿單。
+安全性情報は添付文書をご参照ください。
 
-## 結論與下一步
+## 結論と次のステップ
 
-**決策：Proceed with Guardrails**
+**判断：Proceed with Guardrails**
 
 **理由：**
 Alfacalcidol 在腎小管酸中毒合併骨軟化症的治療中已有多篇個案報告支持其療效。作為活性維生素 D 衍生物，其能有效改善 RTA 患者因慢性酸中毒導致的鈣磷代謝異常及骨病變。在臨床實務上，alfacalcidol 常與鹼劑（如 sodium bicarbonate、potassium citrate）併用，作為 RTA 的標準治療組合。
 
-**若要推進需要：**
+**推進に必要な事項：**
 - 同時補充鹼劑矯正代謝性酸中毒
 - 密切監測血鈣，避免高鈣血症
 - 監測腎功能及尿鈣排泄

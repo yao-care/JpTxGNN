@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Caplacizumab
-parent: 僅模型預測 (L5)
+parent: モデル予測のみ (L5)
 nav_order: 37
 evidence_level: L5
 indication_count: 1
@@ -10,12 +10,12 @@ indication_count: 1
 # Caplacizumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+エビデンスレベル: **L5** | 予測適応症: **1** 件
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 目次
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,28 +25,28 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 薬剤師評価レポート
 
 </div>
 
 # Caplacizumab：從後天性TTP到血小板原發釋放障礙
 
-## 一句話總結
+## 一言まとめ
 Caplacizumab 原為治療後天性血栓性血小板低下紫斑症(aTTP)的抗von Willebrand因子奈米抗體，TxGNN 預測其可能對血小板原發釋放障礙(primary release disorder of platelets)有治療潛力。
 
-## 快速總覽
+## 概要
 
-| 項目 | 內容 |
+| 項目 | 内容 |
 |------|------|
-| 原適應症 | 後天性血栓性血小板低下紫斑症 (aTTP)，合併血漿置換術及免疫抑制劑使用 |
-| 預測新適應症 | 血小板原發釋放障礙 (primary release disorder of platelets) |
-| TxGNN 預測分數 | 99.9998% |
-| 證據等級 | L5 (僅預測) |
-| 台灣上市 | 已上市 |
-| 許可證數 | 1張 (多個包裝規格) |
-| 建議決策 | Hold |
+| 既存適応症 | 後天性血栓性血小板低下紫斑症 (aTTP)，合併血漿置換術及免疫抑制劑使用 |
+| 予測新適応症 | 血小板原發釋放障礙 (primary release disorder of platelets) |
+| TxGNN 予測スコア | 99.9998% |
+| エビデンスレベル | L5 (僅預測) |
+| 日本上市 | 已上市 |
+| 承認数 | 1張 (多個包裝規格) |
+| 推奨判断 | Hold |
 
-## 為什麼這個預測合理？
+## この予測が妥当な理由
 Caplacizumab 是一種人源化雙價奈米抗體(Nanobody)：
 
 1. **作用機轉**：結合 von Willebrand 因子(vWF)的A1區域，阻斷血小板與vWF的交互作用
@@ -58,7 +58,7 @@ Caplacizumab 是一種人源化雙價奈米抗體(Nanobody)：
 - Caplacizumab 作用於 vWF-血小板軸，而非直接影響血小板釋放機制
 - 理論上 caplacizumab 可能加重而非改善血小板功能障礙
 
-## 臨床試驗證據
+## 臨床試験エビデンス
 目前無針對 caplacizumab 治療血小板原發釋放障礙的臨床試驗。
 
 **與原適應症(aTTP)相關的重要臨床試驗**：
@@ -76,7 +76,7 @@ Caplacizumab 是一種人源化雙價奈米抗體(Nanobody)：
    - 21位日本患者
    - 確認在亞洲族群的療效與安全性
 
-## 文獻證據
+## 文献エビデンス
 關於原適應症(aTTP)的重要文獻：
 
 1. **Scully M 等人 (2019)** - *New England Journal of Medicine*
@@ -92,9 +92,9 @@ Caplacizumab 是一種人源化雙價奈米抗體(Nanobody)：
 
 無針對血小板原發釋放障礙的相關文獻。
 
-## 台灣上市資訊
+## 日本上市情報
 
-| 許可證字號 | 商品名 | 劑型 | 許可證持有者 |
+| 許可證字號 | 商品名 | 剤形 | 許可證持有者 |
 |-----------|--------|------|-------------|
 | 衛部菌疫輸字第001243號 | 可利康凍晶注射劑10毫克 (Cablivi) | 注射劑 | 賽諾菲股份有限公司 |
 
@@ -102,7 +102,7 @@ Caplacizumab 是一種人源化雙價奈米抗體(Nanobody)：
 - 適用於合併血漿置換術及免疫抑制劑，治療後天性血栓性血小板低下紫斑症(aTTP)
 - 適用族群：成人及12歲以上且體重40公斤以上的青少年
 
-## 安全性考量
+## 安全性に関する考慮事項
 ### 常見副作用
 - 出血事件(鼻出血、牙齦出血最常見)
 - 頭痛
@@ -123,7 +123,7 @@ Caplacizumab 是一種人源化雙價奈米抗體(Nanobody)：
 | Fondaparinux | 重度 |
 | NSAIDs | 中度 |
 
-## 結論與下一步
+## 結論と次のステップ
 **證據等級**：L5 (僅 TxGNN 預測，無臨床或藥理學支持)
 
 **建議**：Hold (暫不建議)

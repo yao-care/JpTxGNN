@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Acetazolamide
-parent: 高證據等級 (L1-L2)
+parent: 高エビデンス (L1-L2)
 nav_order: 11
 evidence_level: L2
 indication_count: 1
@@ -10,12 +10,12 @@ indication_count: 1
 # Acetazolamide
 {: .fs-9 }
 
-證據等級: **L2** | 預測適應症: **1** 個
+エビデンスレベル: **L2** | 予測適応症: **1** 件
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 目次
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,31 +25,31 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 薬剤師評価レポート
 
 </div>
 
 # Acetazolamide：從青光眼利尿到心肌病變探索
 
-## 一句話總結
+## 一言まとめ
 
 Acetazolamide 原本用於青光眼及利尿。
 TxGNN 模型預測它可能對**心肌病變 (cardiomyopathy)** 及**肥厚性心肌病變 (hypertrophic cardiomyopathy)** 有效，
 目前有 **3 個臨床試驗**和 **10 篇文獻**支持這個方向。
 
-## 快速總覽
+## 概要
 
-| 項目 | 內容 |
+| 項目 | 内容 |
 |------|------|
-| 原適應症 | 青光眼、癲癇、充血性心衰竭水腫 |
-| 預測新適應症 | 心肌病變 (cardiomyopathy) |
-| TxGNN 預測分數 | 99.83% |
-| 證據等級 | L2 |
-| 台灣上市 | 已上市 |
-| 許可證數 | 22 張（部分已註銷） |
-| 建議決策 | Proceed with Guardrails |
+| 既存適応症 | 青光眼、癲癇、充血性心衰竭水腫 |
+| 予測新適応症 | 心肌病變 (cardiomyopathy) |
+| TxGNN 予測スコア | 99.83% |
+| エビデンスレベル | L2 |
+| 日本上市 | 已上市 |
+| 承認数 | 22 張（部分已註銷） |
+| 推奨判断 | Proceed with Guardrails |
 
-## 為什麼這個預測合理？
+## この予測が妥当な理由
 
 Acetazolamide 是碳酸酐酶抑制劑，傳統上用於青光眼和利尿。近年研究發現其在急性失代償性心衰竭中的應用價值顯著提升。
 
@@ -60,7 +60,7 @@ ADVOR 試驗 (2022) 顯示，acetazolamide 加上 loop diuretics 可顯著改善
 
 對於心肌病變患者，常伴隨心衰竭症狀，acetazolamide 作為輔助利尿劑的角色已獲臨床驗證。此外，2018 年日本個案報告顯示，acetazolamide 可用於治療肥厚性心肌病變合併低氯血症患者。
 
-## 臨床試驗證據
+## 臨床試験エビデンス
 
 | 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
 |---------|------|------|------|---------|
@@ -68,7 +68,7 @@ ADVOR 試驗 (2022) 顯示，acetazolamide 加上 loop diuretics 可顯著改善
 | [NCT06166654](https://clinicaltrials.gov/study/NCT06166654) | Phase 4 | RECRUITING | 939 | 比較 loop diuretics 合併 Metolazone 或 Acetazolamide 在急性心衰竭容量過負荷的效果 |
 | [NCT06092437](https://clinicaltrials.gov/study/NCT06092437) | N/A | RECRUITING | 466 | TAILOR-AHF：尿鈉導向的利尿劑演算法研究 |
 
-## 文獻證據
+## 文献エビデンス
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
@@ -78,23 +78,23 @@ ADVOR 試驗 (2022) 顯示，acetazolamide 加上 loop diuretics 可顯著改善
 | [742352](https://pubmed.ncbi.nlm.nih.gov/742352/) | 1978 | Journal Article | Acta Neurol Scand | 低鉀週期性麻痺與心肌病變之關聯研究 |
 | [7324871](https://pubmed.ncbi.nlm.nih.gov/7324871/) | 1981 | Case Report | Acta Neurol Scand | 家族性低鉀週期性麻痺中發現心肌疾病證據 |
 
-## 台灣上市資訊
+## 日本上市情報
 
-| 許可證號 | 品名 | 劑型 | 核准適應症 |
+| 承認番号 | 品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
 | 內衛藥製字第007548號 | "人人" 乙醯偶氮胺錠 | 錠劑 | 青光眼及水腫、癲癇輔助治療 |
 | 衛部藥輸字第027543號 | 乙醯偶氮胺 | 粉劑 | 碳酸酐酶抑制藥 |
 | 衛署藥製字第023932號 | "新喜" 壓作錠 | 錠劑 | 青光眼、充血性心不全之水腫 |
 | 衛署藥製字第007819號 | 安賜他明錠 | 錠劑 | 青光眼及水腫、癲癇輔助治療 |
 
-## 安全性考量
+## 安全性に関する考慮事項
 
-### 重要藥物交互作用
+### 重要な薬物相互作用
 
-**Major 交互作用：**
+**Major 相互作用：**
 - Aspirin（高劑量）：增加 acetazolamide 毒性風險，可能引起代謝性酸中毒
 
-**Moderate 交互作用：**
+**Moderate 相互作用：**
 - 降血糖藥物（各類口服降糖藥、胰島素）：可能影響血糖控制
 - Amphotericin B：增加低鉀血症風險
 - 類固醇（Betamethasone、Budesonide 等）：增加低鉀血症風險
@@ -105,23 +105,23 @@ ADVOR 試驗 (2022) 顯示，acetazolamide 加上 loop diuretics 可顯著改善
 - Carbamazepine、Phenytoin：可能影響抗癲癇藥血中濃度
 - Topiramate：增加代謝性酸中毒和腎結石風險
 
-### 禁忌症
+### 禁忌
 - 磺胺類藥物過敏
 - 嚴重肝功能不全
 - 低鈉血症或低鉀血症
 - 代謝性酸中毒
 - 艾迪森氏症
 
-安全性資訊請參考原廠仿單。
+安全性情報は添付文書をご参照ください。
 
-## 結論與下一步
+## 結論と次のステップ
 
-**決策：Proceed with Guardrails**
+**判断：Proceed with Guardrails**
 
 **理由：**
 Acetazolamide 在急性失代償性心衰竭的輔助利尿角色已有高品質 RCT 證據支持（ADVOR 試驗），且目前有多個第四期臨床試驗正在進行中。對於心肌病變合併心衰竭的患者，acetazolamide 可作為克服利尿劑抵抗的有效選擇。
 
-**若要推進需要：**
+**推進に必要な事項：**
 - 密切監測電解質（特別是鉀、鈉、氯、碳酸氫根）
 - 避免與高劑量 aspirin 併用
 - 監測腎功能及酸鹼平衡

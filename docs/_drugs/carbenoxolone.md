@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Carbenoxolone
-parent: 僅模型預測 (L5)
+parent: モデル予測のみ (L5)
 nav_order: 38
 evidence_level: L5
 indication_count: 1
@@ -10,12 +10,12 @@ indication_count: 1
 # Carbenoxolone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+エビデンスレベル: **L5** | 予測適応症: **1** 件
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 目次
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,28 +25,28 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 薬剤師評価レポート
 
 </div>
 
 # Carbenoxolone：從消化性潰瘍到非症候群性食道畸形
 
-## 一句話總結
+## 一言まとめ
 Carbenoxolone 原為治療胃潰瘍及口內潰瘍的甘草酸衍生物，TxGNN 預測其可能對非症候群性食道畸形(non-syndromic esophageal malformation)有治療潛力。
 
-## 快速總覽
+## 概要
 
-| 項目 | 內容 |
+| 項目 | 内容 |
 |------|------|
-| 原適應症 | 胃潰瘍、十二指腸潰瘍、口內炎性潰瘍 |
-| 預測新適應症 | 非症候群性食道畸形 (non-syndromic esophageal malformation) |
-| TxGNN 預測分數 | 99.9988% |
-| 證據等級 | L5 (僅預測) |
-| 台灣上市 | 部分已上市(多數已註銷) |
-| 許可證數 | 29張(大部分已註銷，4張有效) |
-| 建議決策 | Hold |
+| 既存適応症 | 胃潰瘍、十二指腸潰瘍、口內炎性潰瘍 |
+| 予測新適応症 | 非症候群性食道畸形 (non-syndromic esophageal malformation) |
+| TxGNN 予測スコア | 99.9988% |
+| エビデンスレベル | L5 (僅預測) |
+| 日本上市 | 部分已上市(多數已註銷) |
+| 承認数 | 29張(大部分已註銷，4張有效) |
+| 推奨判断 | Hold |
 
-## 為什麼這個預測合理？
+## この予測が妥当な理由
 Carbenoxolone 是甘草次酸(glycyrrhetinic acid)的琥珀酸酯衍生物：
 
 1. **黏膜保護作用**：增加胃黏膜黏液及碳酸氫鹽分泌
@@ -58,10 +58,10 @@ Carbenoxolone 是甘草次酸(glycyrrhetinic acid)的琥珀酸酯衍生物：
 - 此類疾病主要需要外科手術矯正，而非藥物治療
 - Carbenoxolone 的黏膜保護機轉與先天性畸形的病理機制無直接關聯
 
-## 臨床試驗證據
+## 臨床試験エビデンス
 無針對 carbenoxolone 治療食道畸形的臨床試驗。
 
-## 文獻證據
+## 文献エビデンス
 PubMed 檢索僅發現1篇間接相關文獻：
 
 **Mall A 等人 (1991)** - *American Journal of Medicine*
@@ -72,7 +72,7 @@ PubMed 檢索僅發現1篇間接相關文獻：
 
 無其他支持 carbenoxolone 用於食道畸形的文獻證據。
 
-## 台灣上市資訊
+## 日本上市情報
 Carbenoxolone 在台灣的許可證狀態：
 
 **目前有效許可證**：
@@ -90,7 +90,7 @@ Carbenoxolone 在台灣的許可證狀態：
 
 目前台灣僅剩口內膏劑型上市，用於口腔潰瘍治療。
 
-## 安全性考量
+## 安全性に関する考慮事項
 ### 常見副作用
 - 水鈉滯留
 - 低血鉀
@@ -101,7 +101,7 @@ Carbenoxolone 在台灣的許可證狀態：
 - 導致皮質醇累積，產生類似醛固酮過多的效應
 - 長期使用需監測電解質及血壓
 
-### 禁忌症
+### 禁忌
 - 心臟衰竭
 - 嚴重高血壓
 - 低血鉀
@@ -110,7 +110,7 @@ Carbenoxolone 在台灣的許可證狀態：
 ### 藥物交互作用
 無已知顯著交互作用記錄於 bundle 中。
 
-## 結論與下一步
+## 結論と次のステップ
 **證據等級**：L5 (僅 TxGNN 預測，無臨床或藥理學支持)
 
 **建議**：Hold (暫不建議)

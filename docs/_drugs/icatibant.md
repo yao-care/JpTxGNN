@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Icatibant
-parent: 高證據等級 (L1-L2)
+parent: 高エビデンス (L1-L2)
 nav_order: 84
 evidence_level: L1
 indication_count: 1
@@ -10,12 +10,12 @@ indication_count: 1
 # Icatibant
 {: .fs-9 }
 
-證據等級: **L1** | 預測適應症: **1** 個
+エビデンスレベル: **L1** | 予測適応症: **1** 件
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 目次
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,31 +25,31 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 薬剤師評価レポート
 
 </div>
 
 # Icatibant：從遺傳性血管性水腫到 C1 Inhibitor Deficiency
 
-## 一句話總結
+## 一言まとめ
 
 Icatibant 原本用於遺傳性血管性水腫(HAE)急性發作的症狀治療。
 TxGNN 模型預測它可能對 **C1 Inhibitor Deficiency** 有效，
 目前有 **22 項臨床試驗** 和 **13 篇文獻** 支持這個方向，證據充足。
 
-## 快速總覽
+## 概要
 
-| 項目 | 內容 |
+| 項目 | 内容 |
 |------|------|
-| 原適應症 | 遺傳性血管性水腫(HAE)急性發作症狀治療 |
-| 預測新適應症 | C1 Inhibitor Deficiency |
-| TxGNN 預測分數 | 99.99% |
-| 證據等級 | L1 |
-| 台灣上市 | 已上市 |
-| 許可證數 | 3 張 |
-| 建議決策 | Proceed |
+| 既存適応症 | 遺傳性血管性水腫(HAE)急性發作症狀治療 |
+| 予測新適応症 | C1 Inhibitor Deficiency |
+| TxGNN 予測スコア | 99.99% |
+| エビデンスレベル | L1 |
+| 日本上市 | 已上市 |
+| 承認数 | 3 張 |
+| 推奨判断 | Proceed |
 
-## 為什麼這個預測合理？
+## この予測が妥当な理由
 
 Icatibant 是一種緩激肽 B2 受體拮抗劑(Bradykinin B2 Receptor Antagonist)，透過阻斷緩激肽的作用來減少血管通透性增加所導致的水腫。在 C1 酯酶抑制劑缺乏的情況下，血漿緩激肽系統會異常活化，產生過量的緩激肽，進而導致血管性水腫。
 
@@ -58,7 +58,7 @@ Icatibant 是一種緩激肽 B2 受體拮抗劑(Bradykinin B2 Receptor Antagonis
 2. Icatibant 直接阻斷緩激肽介導的血管通透性增加
 3. 此適應症與原核准適應症(HAE急性發作)在病理生理學上完全一致
 
-## 臨床試驗證據
+## 臨床試験エビデンス
 
 | 試驗編號 | 階段 | 狀態 | 主要發現 |
 |---------|------|------|---------|
@@ -68,7 +68,7 @@ Icatibant 是一種緩激肽 B2 受體拮抗劑(Bradykinin B2 Receptor Antagonis
 | [NCT01386658](https://clinicaltrials.gov/study/NCT01386658) | Phase 3 | 完成 | 兒童及青少年的藥動學與安全性研究 |
 | [NCT01034969](https://clinicaltrials.gov/study/NCT01034969) | 觀察性 | 完成 | 長期追蹤 1,761 名患者的安全性監測 |
 
-## 文獻證據
+## 文献エビデンス
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
@@ -78,14 +78,14 @@ Icatibant 是一種緩激肽 B2 受體拮抗劑(Bradykinin B2 Receptor Antagonis
 | [33602658](https://pubmed.ncbi.nlm.nih.gov/33602658/) | 2021 | Review | J Investig Allergol Clin Immunol | HAE 治療指引，確認 Icatibant 為急性發作治療選擇 |
 | [22686628](https://pubmed.ncbi.nlm.nih.gov/22686628/) | 2012 | 觀察性研究 | Allergy | 後天性 C1-INH 缺乏症使用 Icatibant 的真實世界經驗 |
 
-## 台灣上市資訊
+## 日本上市情報
 
-| 許可證號 | 品名 | 劑型 | 核准適應症 |
+| 承認番号 | 品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
 | 衛部罕藥製字第000021號 | 益康倍注射劑 | 注射液劑 | C1酯酶抑制劑不足的成人、青少年及2歲以上兒童 HAE 急性發作症狀治療 |
 | 衛部罕藥輸字第000066號 | 凡得適注射劑30毫克 | 注射液劑 | C1酯酶抑制劑不足的成人、青少年及2歲以上兒童 HAE 急性發作症狀治療 |
 
-## 安全性考量
+## 安全性に関する考慮事項
 
 - **藥物交互作用**：
   - **主要交互作用**：ACE 抑制劑類藥物(Benazepril、Captopril、Enalapril、Lisinopril、Perindopril、Trandolapril、Moexipril)（中度）
@@ -93,9 +93,9 @@ Icatibant 是一種緩激肽 B2 受體拮抗劑(Bradykinin B2 Receptor Antagonis
 
 - **常見副作用**：注射部位反應（紅斑、腫脹）
 
-## 結論與下一步
+## 結論と次のステップ
 
-**決策：Proceed**
+**判断：Proceed**
 
 **理由：**
 此預測與原核准適應症高度一致。Icatibant 已獲核准用於 C1 酯酶抑制劑缺乏導致的 HAE 急性發作，而 C1 Inhibitor Deficiency 正是此疾病的根本病因。大量臨床試驗和文獻均支持其療效與安全性。

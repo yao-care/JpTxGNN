@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Warfarin Af
-parent: 高證據等級 (L1-L2)
+parent: 高エビデンス (L1-L2)
 nav_order: 196
 evidence_level: L1
 indication_count: 1
@@ -10,12 +10,12 @@ indication_count: 1
 # Warfarin Af
 {: .fs-9 }
 
-證據等級: **L1** | 預測適應症: **1** 個
+エビデンスレベル: **L1** | 予測適応症: **1** 件
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 目次
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,29 +25,29 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 薬剤師評価レポート
 
 </div>
 
 # Warfarin - Atrial Fibrillation (AF) 適應症評估
 
-## 一句話總結
+## 一言まとめ
 
 Warfarin 用於心房顫動（Atrial Fibrillation）**已是核准適應症**，
 此為標準治療用途，非新適應症預測。
 
-## 快速總覽
+## 概要
 
-| 項目 | 內容 |
+| 項目 | 内容 |
 |------|------|
 | 藥品名稱 | Warfarin |
 | 適應症 | 心房纖維顫動（Atrial Fibrillation） |
 | 適應症狀態 | **已核准** |
-| 證據等級 | L1（多個 RCT 支持） |
-| 台灣上市 | 已上市 |
-| 建議決策 | 標準治療 |
+| エビデンスレベル | L1（多個 RCT 支持） |
+| 日本上市 | 已上市 |
+| 推奨判断 | 標準治療 |
 
-## 背景說明
+## 背景説明
 
 本筆記針對 Warfarin 在心房顫動（AF）的應用進行評估。
 
@@ -56,14 +56,14 @@ Warfarin 用於心房顫動（Atrial Fibrillation）**已是核准適應症**，
 - 此非「老藥新用」候選，而是現有標準治療
 - 完整的 Warfarin 藥物資訊請參考 [warfarin/drug_pharmacist_notes.md](../warfarin/drug_pharmacist_notes.md)
 
-## 台灣核准適應症
+## 日本承認適応症
 
 根據 TFDA 許可證資料（如欣服寧錠、可化凝錠）：
 
 > 1. 預防及/或治療靜脈栓塞症及其相關疾病，以及肺栓塞
 > 2. **預防或治療因心房纖維顫動及/或更換心臟瓣膜引起之血栓性栓塞症**
 
-## 臨床應用重點
+## 臨床応用のポイント
 
 ### 心房顫動中的角色
 
@@ -94,7 +94,7 @@ Warfarin 長期以來是心房顫動患者預防中風的標準抗凝血治療�
 - 經濟考量
 - DOAC 禁忌症患者
 
-## 安全性考量
+## 安全性に関する考慮事項
 
 請參考完整 Warfarin 藥師筆記中的安全性資訊：
 - [Warfarin 藥師筆記](../warfarin/drug_pharmacist_notes.md)

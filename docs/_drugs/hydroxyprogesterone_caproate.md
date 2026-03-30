@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hydroxyprogesterone Caproate
-parent: 高證據等級 (L1-L2)
+parent: 高エビデンス (L1-L2)
 nav_order: 81
 evidence_level: L2
 indication_count: 1
@@ -10,12 +10,12 @@ indication_count: 1
 # Hydroxyprogesterone Caproate
 {: .fs-9 }
 
-證據等級: **L2** | 預測適應症: **1** 個
+エビデンスレベル: **L2** | 予測適応症: **1** 件
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 目次
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,31 +25,31 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 薬剤師評価レポート
 
 </div>
 
 # Hydroxyprogesterone Caproate：從流產預防到子宮內膜癌
 
-## 一句話總結
+## 一言まとめ
 
 Hydroxyprogesterone caproate 原本用於預防習慣性流產和治療機能性子宮出血。
 TxGNN 模型預測它可能對**子宮內膜癌 (endometrial cancer)** 有效，
 目前有 **1 個臨床試驗**和 **超過 20 篇文獻**支持這個方向。
 
-## 快速總覽
+## 概要
 
-| 項目 | 內容 |
+| 項目 | 内容 |
 |------|------|
-| 原適應症 | 習慣性流產、機能性子宮出血、黃體機能不全 |
-| 預測新適應症 | 子宮內膜癌 (endometrial cancer) |
-| TxGNN 預測分數 | 99.96% |
-| 證據等級 | L2 |
-| 台灣上市 | 有效許可證 |
-| 許可證數 | 多張（部分已註銷） |
-| 建議決策 | Proceed with Guardrails |
+| 既存適応症 | 習慣性流產、機能性子宮出血、黃體機能不全 |
+| 予測新適応症 | 子宮內膜癌 (endometrial cancer) |
+| TxGNN 予測スコア | 99.96% |
+| エビデンスレベル | L2 |
+| 日本上市 | 有效許可證 |
+| 承認数 | 多張（部分已註銷） |
+| 推奨判断 | Proceed with Guardrails |
 
-## 為什麼這個預測合理？
+## この予測が妥当な理由
 
 Hydroxyprogesterone caproate（17-OHP caproate）是一種長效型黃體素製劑，
 透過與黃體素受體結合，抑制子宮內膜增生並誘導分化。
@@ -65,13 +65,13 @@ Hydroxyprogesterone caproate（17-OHP caproate）是一種長效型黃體素製�
 - 誘導子宮內膜癌細胞分化（由 PMID: 6836982 等多篇文獻支持）
 - 與 Tamoxifen 聯合使用可增強療效（PMID: 2815695）
 
-## 臨床試驗證據
+## 臨床試験エビデンス
 
 | 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
 |---------|------|------|------|---------|
 | [NCT01812161](https://clinicaltrials.gov/study/NCT01812161) | N/A | COMPLETED | 54 | 電針灸對 PCOS 患者 17-OHP 水平的影響（間接相關） |
 
-## 文獻證據
+## 文献エビデンス
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
@@ -81,14 +81,14 @@ Hydroxyprogesterone caproate（17-OHP caproate）是一種長效型黃體素製�
 | [22245711](https://pubmed.ncbi.nlm.nih.gov/22245711/) | 2012 | 系統回顧 | Gynecol Oncol | 黃體素治療子宮內膜增生和第一期腺癌的腫瘤學及生殖結果 |
 | [19591991](https://pubmed.ncbi.nlm.nih.gov/19591991/) | 2009 | 回顧性研究 | Fertil Steril | 年輕女性高分化子宮內膜癌的保留生育治療 |
 
-## 台灣上市資訊
+## 日本上市情報
 
-| 許可證號 | 品名 | 劑型 | 核准適應症 |
+| 承認番号 | 品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
 | 衛署藥製字第005995號 | 確普榮注射液 | 注射劑 | 先兆流產、習慣流產、子宮機能性出血、痛經 |
 | 衛署藥製字第025803號 | 普寶胎注射液125毫克/毫升 | 注射劑 | 無月經、機能性子宮出血、切迫流產、習慣性流產 |
 
-## 安全性考量
+## 安全性に関する考慮事項
 
 - **藥物交互作用**：未在 DDI 資料庫中找到重大交互作用
 - **注意事項**：
@@ -100,11 +100,11 @@ Hydroxyprogesterone caproate（17-OHP caproate）是一種長效型黃體素製�
   - 黃體素受體陽性者反應較佳
   - 可作為手術的替代方案（保留生育）或輔助治療
 
-安全性資訊請參考原廠仿單。
+安全性情報は添付文書をご参照ください。
 
-## 結論與下一步
+## 結論と次のステップ
 
-**決策：Proceed with Guardrails**
+**判断：Proceed with Guardrails**
 
 **理由：**
 - 豐富的臨床文獻支持黃體素用於子宮內膜癌治療
@@ -112,7 +112,7 @@ Hydroxyprogesterone caproate（17-OHP caproate）是一種長效型黃體素製�
 - 在年輕女性保留生育的情境中有明確角色
 - 但台灣藥證目前未包含此適應症
 
-**若要推進需要：**
+**推進に必要な事項：**
 - 評估是否申請適應症擴展
 - 確認與現有黃體素製劑（如 MPA）的療效比較
 - 建立適當的患者選擇標準（腫瘤分級、受體狀態）

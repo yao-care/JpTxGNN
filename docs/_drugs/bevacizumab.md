@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bevacizumab
-parent: 僅模型預測 (L5)
+parent: モデル予測のみ (L5)
 nav_order: 32
 evidence_level: L5
 indication_count: 1
@@ -10,12 +10,12 @@ indication_count: 1
 # Bevacizumab
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **1** 個
+エビデンスレベル: **L5** | 予測適応症: **1** 件
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 目次
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,28 +25,28 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 薬剤師評価レポート
 
 </div>
 
 # Bevacizumab：從多種癌症到會厭腫瘤
 
-## 一句話總結
+## 一言まとめ
 Bevacizumab 原為抗血管新生的癌症標靶藥物，用於轉移性大腸直腸癌、肺癌、卵巢癌等多種惡性腫瘤，TxGNN 預測其可能對會厭腫瘤(epiglottis neoplasm)有治療潛力。
 
-## 快速總覽
+## 概要
 
-| 項目 | 內容 |
+| 項目 | 内容 |
 |------|------|
-| 原適應症 | 轉移性大腸直腸癌、乳癌、非小細胞肺癌、卵巢癌、子宮頸癌、神經膠母細胞瘤等 |
-| 預測新適應症 | 會厭腫瘤 (epiglottis neoplasm) |
-| TxGNN 預測分數 | 99.90% |
-| 證據等級 | L5 (僅預測) |
-| 台灣上市 | 已上市 |
-| 許可證數 | 多張 (Avastin、MVASI、ABEVMY、Vegzelma等) |
-| 建議決策 | Explore |
+| 既存適応症 | 轉移性大腸直腸癌、乳癌、非小細胞肺癌、卵巢癌、子宮頸癌、神經膠母細胞瘤等 |
+| 予測新適応症 | 會厭腫瘤 (epiglottis neoplasm) |
+| TxGNN 予測スコア | 99.90% |
+| エビデンスレベル | L5 (僅預測) |
+| 日本上市 | 已上市 |
+| 承認数 | 多張 (Avastin、MVASI、ABEVMY、Vegzelma等) |
+| 推奨判断 | Explore |
 
-## 為什麼這個預測合理？
+## この予測が妥当な理由
 Bevacizumab 是一種人源化單株抗體，透過結合血管內皮生長因子(VEGF)來抑制腫瘤血管新生。其作用機轉具有廣泛的抗腫瘤活性：
 
 1. **血管新生抑制**：阻斷 VEGF 訊號傳導，減少腫瘤血管形成
@@ -55,20 +55,20 @@ Bevacizumab 是一種人源化單株抗體，透過結合血管內皮生長因�
 
 會厭腫瘤雖為罕見疾病，但其血管供應特性與其他頭頸部腫瘤相似，理論上可能對抗血管新生治療有反應。
 
-## 臨床試驗證據
+## 臨床試験エビデンス
 目前無針對 bevacizumab 治療會厭腫瘤的臨床試驗登記。
 
 然而，相關的頭頸部癌症臨床試驗包括：
 - **NCT01552434**：Phase I 試驗，評估 bevacizumab 與 temsirolimus 在晚期惡性腫瘤的應用
 - **NCT00023959**：Phase I 試驗，評估 bevacizumab 合併化放療治療預後不良的頭頸部癌症
 
-## 文獻證據
+## 文献エビデンス
 PubMed 檢索發現有關於 bevacizumab 在頭頸部癌症的臨床前研究：
 
 - Bozec A 等人(2008)發表於 *British Journal of Cancer*，證實 bevacizumab 合併 erlotinib 及放療在頭頸部腫瘤正位模式中的抗腫瘤效果
 - 多篇研究支持抗 VEGF 療法在頭頸部腫瘤的應用潛力
 
-## 台灣上市資訊
+## 日本上市情報
 Bevacizumab 在台灣有多項藥品許可證：
 - **Avastin (癌思停)** - 羅氏
 - **MVASI** - 安進
@@ -83,7 +83,7 @@ Bevacizumab 在台灣有多項藥品許可證：
 - 卵巢上皮細胞癌
 - 子宮頸癌
 
-## 安全性考量
+## 安全性に関する考慮事項
 ### 常見副作用
 - 高血壓
 - 蛋白尿
@@ -98,7 +98,7 @@ Bevacizumab 在台灣有多項藥品許可證：
 ### 藥物交互作用
 與其他抗癌藥物併用時需注意骨髓抑制加成效應。
 
-## 結論與下一步
+## 結論と次のステップ
 **證據等級**：L5 (僅 TxGNN 預測，無臨床證據)
 
 **建議**：
