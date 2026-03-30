@@ -1,14 +1,308 @@
 {
-  "generated": "2026-03-29T18:28:13.161984+00:00",
-  "count": 4,
+  "generated": "2026-03-30T01:26:33.997412+00:00",
+  "count": 10,
   "news": [
     {
-      "id": "08bb8f5d2a87",
+      "id": "09246d31c408",
+      "title": "家族が『乳がん』と診断されたら？ 遺伝する割合と自分でできる対策",
+      "published": "2026-03-30T01:03:25+00:00",
+      "sources": [
+        {
+          "name": "メディカルドック",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GTllrZnR3QzdfcVNpRlZ5SnQ1THVXcDVoNTU5WWtCT3VETl9LOE5yM1ZBendqYmJaTTZFT1ZvbnhzdDlBX2VtYkYwWWc0OXJLckxxRHBtWG4?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c6aeee99181f",
+      "title": "脳梗塞既往の心房細動、アブレーション追加で再発などのリスク減らず－熊本大ほか",
+      "published": "2026-03-30T00:30:00+00:00",
+      "sources": [
+        {
+          "name": "QLifePro",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LZzdKd3dIZFBrc2FxWkU4aFhEbVBJMElxbzVFLWotT2Q0cmh2cGhFTE9xbkZ5UFFHWnVGa0poWEg4S3BqZlVTXzlGaDZWaXhjd3h4TkRGcHhXQUhUTmZQU2w4endKUUluQ0V1VDF5UXc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "脳梗塞",
+          "related_drugs": [
+            {
+              "slug": "atorvastatin",
+              "name": "アトーゼット配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "pravastatin",
+              "name": "メバロチン錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "simvastatin",
+              "name": "リポバス錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "エックスフォージ配合ＯＤ錠（選）"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "ミカムロ配合錠ＢＰ（選）"
+            },
+            {
+              "slug": "rosuvastatin",
+              "name": "クレストールＯＤ錠５ｍｇ（選）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "048a55816a1c",
+      "title": "乳がんと診断され、娘たちの成長を見届けるために仕事より家庭を選んだ私の決断",
+      "published": "2026-03-29T23:38:47+00:00",
+      "sources": [
+        {
+          "name": "がん情報サイト「オンコロ」",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aVnFLUGtsdEtveWF4ZlNjZ1dhZ1h5eW43NS1xNXFFbXpPdUlmbUhLTTcyZlB5WDFmbUJ6dlg3T1VpbVMyZjV4MTJBYjhYVnd0SWtj?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "63dac2492e39",
+      "title": "日本人統合失調症外来患者における抗精神病薬の多剤併用パターンを調査｜CareNet.com",
+      "published": "2026-03-29T19:00:00+00:00",
+      "sources": [
+        {
+          "name": "CareNet.com",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JU0NGT0VscHNYbmFBVEhzQ1hhcWZVejBFanhQeTZ3OVlHaU1oR2NYN3N2N1I3T1Q2bWRCdXdBdUphdFlCRFZkR0tWMkZITWlKcklLTXE5cy1rSXBXa3ln?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "schizophrenia",
+          "keyword": "統合失調症",
+          "related_drugs": [
+            {
+              "slug": "risperidone",
+              "name": "リスパダール錠２ｍｇ（選）"
+            },
+            {
+              "slug": "quetiapine",
+              "name": "セロクエル２００ｍｇ錠（選）"
+            },
+            {
+              "slug": "olanzapine",
+              "name": "ジプレキサザイディス錠２．５ｍｇ（選）"
+            },
+            {
+              "slug": "haloperidol",
+              "name": "セレネース錠３ｍｇ（選）"
+            },
+            {
+              "slug": "aripiprazole",
+              "name": "エビリファイ錠１ｍｇ（選）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0f850771d379",
+      "title": "透析患者でもGLP-1薬開始で心血管イベント・死亡リスク低下と関連｜CareNet.com",
+      "published": "2026-03-29T19:00:00+00:00",
+      "sources": [
+        {
+          "name": "CareNet.com",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aN3p6a2F6MklIRjlEb0I1RkVRN1ZzUElzbXliU0NpQzdHd1V5ZjlqRFZEeWVIaGtQNkZKWUVMUFdSaGFTdi1iOEgzQzZReUNuTHV6QjNPU0tGQVNHN21R?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "atorvastatin",
+              "name": "アトーゼット配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "pravastatin",
+              "name": "メバロチン錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "atenolol",
+              "name": "テノーミン錠５０　５０ｍｇ（選）"
+            },
+            {
+              "slug": "simvastatin",
+              "name": "リポバス錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "ロプレソール錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "lisinopril",
+              "name": "ロンゲス錠２０ｍｇ（選）"
+            },
+            {
+              "slug": "rosuvastatin",
+              "name": "クレストールＯＤ錠５ｍｇ（選）"
+            },
+            {
+              "slug": "clopidogrel",
+              "name": "プラビックス錠７５ｍｇ（選）"
+            },
+            {
+              "slug": "verapamil",
+              "name": "ワソラン錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "prasugrel",
+              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "359f6b6580c4",
       "title": "MR拮抗薬がケレンディアに変更された慢性心不全患者",
       "published": "2026-03-29T13:15:01+00:00",
       "sources": [
         {
-          "name": "日経メディカル",
+          "name": "medical.nikkeibp.co.jp",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRzI1bTZlZUtWQnNRdUVZNXRhc2VQQnduTm81elVSVWVsaExYYjREOU0tZHVGUjhNaFFubkZBR2VMQmdubDNkUDdQLXlTaHFWRmVYM0VpVDZkZk1LbVBUMDRUTk1XNE1tRmNKMldyQzM1Vno4TjI2a0hQclJoMHZTYll1eE1LZw?oc=5"
         }
       ],
@@ -21,6 +315,50 @@
             {
               "slug": "enalapril",
               "name": "レニベース錠１０　１０ｍｇ（選）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e70fa50ec2ea",
+      "title": "長崎の女性、はしか感染 県内確認14年ぶり ／長崎",
+      "published": "2026-03-28T20:01:23+00:00",
+      "sources": [
+        {
+          "name": "毎日新聞",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MUWJ5YVc3b2lYSjkwQXUyX2ZuZEVRbXNwMGpKaUhxeVk5bS1EUW1XMkR2bjlrbzA3Vk1XZTVneHI1eDRtZ1d4dkZTVHFJcEFfMXdtU1pjWWVLRFhLUHpFckhtdzExQzZx?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "風邪",
+          "related_drugs": [
+            {
+              "slug": "cetirizine",
+              "name": "ザイザルシロップ０．０５％（選）"
+            },
+            {
+              "slug": "loratadine",
+              "name": "クラリチン錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "chlorpheniramine",
+              "name": "セレスタミン配合錠（選）"
+            },
+            {
+              "slug": "dextromethorphan",
+              "name": "デキストロメトルファン臭化水素酸塩細粒１０％「ツルハラ」"
+            },
+            {
+              "slug": "acetaminophen",
+              "name": "トラムセット配合錠（選）"
+            },
+            {
+              "slug": "codeine",
+              "name": "ムコブロチン配合シロップ"
             }
           ]
         }
