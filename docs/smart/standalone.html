@@ -1,0 +1,1016 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JpTxGNN SMART App - 獨立測試模式</title>
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Noto Sans TC', sans-serif;
+      background: #f5f7fa;
+      min-height: 100vh;
+      color: #333;
+    }
+
+    .header {
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+
+    .header h1 {
+      font-size: 24px;
+      margin-bottom: 4px;
+    }
+
+    .header p {
+      opacity: 0.9;
+      font-size: 14px;
+    }
+
+    .mode-badge {
+      display: inline-block;
+      background: rgba(255,255,255,0.2);
+      padding: 4px 12px;
+      border-radius: 20px;
+      font-size: 12px;
+      margin-top: 8px;
+    }
+
+    .content {
+      max-width: 1000px;
+      margin: 0 auto;
+      padding: 24px;
+    }
+
+    .info-card {
+      background: #e8f4fd;
+      border: 1px solid #b8daff;
+      border-radius: 12px;
+      padding: 20px;
+      margin-bottom: 24px;
+    }
+
+    .info-card h3 {
+      color: #004085;
+      margin-bottom: 8px;
+    }
+
+    .info-card p {
+      color: #004085;
+      font-size: 14px;
+      line-height: 1.6;
+    }
+
+    .section {
+      background: white;
+      border-radius: 12px;
+      padding: 24px;
+      margin-bottom: 24px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+
+    .section-title {
+      font-size: 18px;
+      font-weight: 600;
+      margin-bottom: 16px;
+      padding-bottom: 8px;
+      border-bottom: 2px solid #667eea;
+    }
+
+    .input-group {
+      display: flex;
+      gap: 12px;
+      margin-bottom: 16px;
+    }
+
+    .input-group input {
+      flex: 1;
+      padding: 12px 16px;
+      border: 2px solid #e0e0e0;
+      border-radius: 8px;
+      font-size: 16px;
+      transition: border-color 0.2s;
+    }
+
+    .input-group input:focus {
+      outline: none;
+      border-color: #667eea;
+    }
+
+    .btn {
+      padding: 12px 24px;
+      border: none;
+      border-radius: 8px;
+      font-size: 14px;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .btn-primary {
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+    }
+
+    .btn-primary:hover {
+      transform: translateY(-1px);
+      box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
+    }
+
+    .btn-secondary {
+      background: #e0e0e0;
+      color: #333;
+    }
+
+    .btn-secondary:hover {
+      background: #d0d0d0;
+    }
+
+    .drug-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin-bottom: 16px;
+      min-height: 40px;
+      padding: 8px;
+      background: #f5f5f5;
+      border-radius: 8px;
+    }
+
+    .drug-tag {
+      display: flex;
+      align-items: center;
+      gap: 4px;
+      background: #667eea;
+      color: white;
+      padding: 6px 12px;
+      border-radius: 20px;
+      font-size: 14px;
+    }
+
+    .drug-tag .remove {
+      cursor: pointer;
+      opacity: 0.8;
+      font-weight: bold;
+    }
+
+    .drug-tag .remove:hover {
+      opacity: 1;
+    }
+
+    .sample-drugs {
+      margin-top: 16px;
+    }
+
+    .sample-drugs p {
+      font-size: 14px;
+      color: #666;
+      margin-bottom: 8px;
+    }
+
+    .sample-list {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .sample-btn {
+      padding: 6px 12px;
+      background: #f0f0f0;
+      border: 1px solid #ddd;
+      border-radius: 6px;
+      font-size: 13px;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .sample-btn:hover {
+      background: #e0e0e0;
+      border-color: #667eea;
+    }
+
+    /* Results */
+    #results {
+      margin-top: 16px;
+    }
+
+    .result-card {
+      border: 1px solid #e0e0e0;
+      border-radius: 12px;
+      padding: 20px;
+      margin-bottom: 16px;
+    }
+
+    .result-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      margin-bottom: 12px;
+    }
+
+    .result-header h3 {
+      font-size: 18px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .result-header h3 a {
+      color: #333;
+      text-decoration: none;
+    }
+
+    .result-header h3 a:hover {
+      color: #667eea;
+    }
+
+    .view-full {
+      color: #667eea;
+      text-decoration: none;
+      font-size: 14px;
+    }
+
+    .result-original {
+      color: #666;
+      font-size: 14px;
+      margin-bottom: 16px;
+      line-height: 1.6;
+    }
+
+    .indication-list {
+      margin-top: 12px;
+    }
+
+    .indication-item {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 0;
+      border-bottom: 1px solid #f0f0f0;
+    }
+
+    .indication-item:last-child {
+      border-bottom: none;
+    }
+
+    .ind-name {
+      flex: 1;
+      font-size: 14px;
+    }
+
+    .ind-score {
+      color: #667eea;
+      font-weight: 500;
+      font-size: 14px;
+    }
+
+    .more-link {
+      padding: 12px 0;
+      color: #666;
+      font-size: 13px;
+    }
+
+    .more-link a {
+      color: #667eea;
+      margin-left: 8px;
+    }
+
+    /* Level Badges */
+    .level-badge {
+      display: inline-block;
+      padding: 2px 8px;
+      border-radius: 4px;
+      font-size: 11px;
+      font-weight: 600;
+      color: white;
+    }
+
+    .level-L1 { background: #28a745; }
+    .level-L2 { background: #17a2b8; }
+    .level-L3 { background: #ffc107; color: #333; }
+    .level-L4 { background: #fd7e14; }
+    .level-L5 { background: #6c757d; }
+
+    .no-match {
+      color: #dc3545;
+      font-style: italic;
+    }
+
+    .empty-state {
+      text-align: center;
+      padding: 40px;
+      color: #666;
+    }
+
+    .disclaimer {
+      background: #fff3cd;
+      border: 1px solid #ffc107;
+      border-radius: 8px;
+      padding: 16px;
+      margin-top: 24px;
+      font-size: 13px;
+      color: #856404;
+    }
+
+    .disclaimer strong {
+      display: block;
+      margin-bottom: 8px;
+    }
+
+    .loading {
+      text-align: center;
+      padding: 20px;
+      color: #666;
+    }
+
+    /* Clinical Trials Button & Container */
+    .trials-btn {
+      padding: 4px 10px;
+      font-size: 12px;
+      background: #17a2b8;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .trials-btn:hover {
+      background: #138496;
+      transform: translateY(-1px);
+    }
+
+    .trials-container {
+      margin-top: 8px;
+      margin-left: 24px;
+      font-size: 13px;
+    }
+
+    .trials-loading {
+      color: #666;
+      font-style: italic;
+    }
+
+    .trials-none {
+      color: #999;
+    }
+
+    .trials-summary {
+      color: #28a745;
+      margin-bottom: 8px;
+    }
+
+    .trials-list {
+      background: #f8f9fa;
+      border-radius: 8px;
+      padding: 12px;
+    }
+
+    .trial-item {
+      padding: 8px 0;
+      border-bottom: 1px solid #e9ecef;
+    }
+
+    .trial-item:last-child {
+      border-bottom: none;
+    }
+
+    .trial-nct {
+      color: #007bff;
+      font-weight: 500;
+      text-decoration: none;
+      margin-right: 8px;
+    }
+
+    .trial-nct:hover {
+      text-decoration: underline;
+    }
+
+    .trial-status {
+      font-size: 11px;
+      padding: 2px 6px;
+      border-radius: 3px;
+      margin-right: 6px;
+    }
+
+    .status-recruiting { background: #d4edda; color: #155724; }
+    .status-active { background: #cce5ff; color: #004085; }
+    .status-completed { background: #e2e3e5; color: #383d41; }
+    .status-terminated { background: #f8d7da; color: #721c24; }
+    .status-pending { background: #fff3cd; color: #856404; }
+    .status-unknown { background: #e9ecef; color: #495057; }
+
+    .trial-phase {
+      font-size: 11px;
+      color: #6c757d;
+    }
+
+    .trial-title {
+      margin-top: 4px;
+      color: #495057;
+      line-height: 1.4;
+    }
+
+    .trials-more {
+      display: block;
+      margin-top: 8px;
+      color: #667eea;
+      font-size: 13px;
+      text-decoration: none;
+    }
+
+    .trials-more:hover {
+      text-decoration: underline;
+    }
+
+    .indication-header {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    /* DDI Alerts */
+    .ddi-section {
+      background: white;
+      border-radius: 12px;
+      padding: 24px;
+      margin-bottom: 24px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+
+    .ddi-alerts {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .ddi-alert {
+      border-radius: 8px;
+      padding: 16px;
+      border-left: 4px solid;
+    }
+
+    .ddi-alert.ddi-major {
+      background: #fff5f5;
+      border-left-color: #dc3545;
+    }
+
+    .ddi-alert.ddi-moderate {
+      background: #fff8e6;
+      border-left-color: #ffc107;
+    }
+
+    .ddi-alert.ddi-minor {
+      background: #f0f9ff;
+      border-left-color: #17a2b8;
+    }
+
+    .ddi-alert-header {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 8px;
+    }
+
+    .ddi-severity-badge {
+      padding: 2px 8px;
+      border-radius: 4px;
+      font-size: 12px;
+      font-weight: 600;
+      color: white;
+    }
+
+    .ddi-major .ddi-severity-badge {
+      background: #dc3545;
+    }
+
+    .ddi-moderate .ddi-severity-badge {
+      background: #ffc107;
+      color: #333;
+    }
+
+    .ddi-minor .ddi-severity-badge {
+      background: #17a2b8;
+    }
+
+    .ddi-summary {
+      font-weight: 600;
+      color: #333;
+    }
+
+    .ddi-alert-body {
+      font-size: 14px;
+      line-height: 1.6;
+    }
+
+    .ddi-detail {
+      margin-bottom: 8px;
+      color: #555;
+    }
+
+    .ddi-recommendation {
+      color: #333;
+    }
+
+    .ddi-alert-footer {
+      margin-top: 8px;
+      font-size: 12px;
+      color: #888;
+    }
+
+    .ddi-no-alerts {
+      padding: 20px;
+      text-align: center;
+      color: #28a745;
+      background: #f8fff8;
+      border-radius: 8px;
+    }
+
+    @media (max-width: 768px) {
+      .content {
+        padding: 16px;
+      }
+
+      .input-group {
+        flex-direction: column;
+      }
+
+      .result-header {
+        flex-direction: column;
+        gap: 8px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header class="header">
+    <h1>JpTxGNN SMART App</h1>
+    <p>老藥新用候選查詢系統</p>
+    <span class="mode-badge">獨立測試模式</span>
+  </header>
+
+  <main class="content">
+    <div class="info-card">
+      <h3>獨立測試模式</h3>
+      <p>
+        此頁面允許您手動輸入<strong>藥物名稱</strong>來測試 JpTxGNN 的老藥新用預測功能，
+        無需連接 EHR 系統。請輸入英文藥物名稱（如 Famotidine、Docetaxel、Paclitaxel）。
+      </p>
+      <p style="margin-top: 8px; color: #856404;">
+        <strong>注意：</strong>請輸入藥物名稱，而非疾病名稱。例如輸入「Famotidine」而非「diabetes」。
+        目前資料庫包含 189 種藥物，可點擊下方範例按鈕快速測試。
+      </p>
+    </div>
+
+    <section class="section">
+      <h2 class="section-title">輸入藥物名稱</h2>
+
+      <div class="input-group">
+        <input type="text" id="drug-input" placeholder="輸入藥物名稱，如 Famotidine、Docetaxel..." autocomplete="off">
+        <button class="btn btn-primary" id="add-btn">新增</button>
+      </div>
+
+      <div class="drug-tags" id="drug-tags">
+        <span style="color: #999; font-size: 14px;">尚未新增藥物</span>
+      </div>
+
+      <div style="display: flex; gap: 12px;">
+        <button class="btn btn-primary" id="query-btn">查詢老藥新用候選</button>
+        <button class="btn btn-secondary" id="clear-btn">清除全部</button>
+      </div>
+
+      <div class="sample-drugs">
+        <p>L1 高證據藥物範例（點擊新增）：</p>
+        <div class="sample-list">
+          <button class="sample-btn" data-drug="Famotidine">Famotidine</button>
+          <button class="sample-btn" data-drug="Docetaxel">Docetaxel</button>
+          <button class="sample-btn" data-drug="Paclitaxel">Paclitaxel</button>
+          <button class="sample-btn" data-drug="Remdesivir">Remdesivir</button>
+          <button class="sample-btn" data-drug="Vitamin E">Vitamin E</button>
+          <button class="sample-btn" data-drug="Isosorbide dinitrate">Isosorbide dinitrate</button>
+          <button class="sample-btn" data-drug="Dronedarone">Dronedarone</button>
+          <button class="sample-btn" data-drug="Nepafenac">Nepafenac</button>
+        </div>
+      </div>
+    </section>
+
+    <section class="ddi-section" id="ddi-section" style="display: none;">
+      <h2 class="section-title">⚠️ 藥物交互作用警示</h2>
+      <div id="ddi-results"></div>
+    </section>
+
+    <section class="section">
+      <h2 class="section-title">查詢結果</h2>
+      <div id="results">
+        <div class="empty-state">
+          <p>請新增藥物並點擊「查詢」按鈕</p>
+        </div>
+      </div>
+    </section>
+
+    <div class="disclaimer">
+      <strong>免責聲明</strong>
+      本網站內容僅供研究參考，不能取代專業醫療建議。所有藥物再利用預測結果需經過臨床驗證才能應用。
+      如有健康問題，請諮詢合格醫療人員。
+      <br><br>
+      <a href="/privacy-policy/" style="color: #856404;">隱私權政策</a>
+    </div>
+  </main>
+
+  <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js"></script>
+  <script src="/assets/js/smart-fhir-mapper.js"></script>
+  <script src="/assets/js/ddi-checker.js"></script>
+  <script>
+    (function() {
+      'use strict';
+
+      const CONFIG = {
+        searchIndexUrl: '/data/search-index.json',
+        drugsBaseUrl: '/drugs/',
+        clinicalTrialsApiUrl: 'https://clinicaltrials.gov/api/v2/studies'
+      };
+
+      // Clinical trials cache to avoid repeated API calls
+      const clinicalTrialsCache = new Map();
+
+      let searchIndex = null;
+      let drugMapper = null;
+      let selectedDrugs = [];
+
+      // DOM Elements
+      const drugInput = document.getElementById('drug-input');
+      const addBtn = document.getElementById('add-btn');
+      const queryBtn = document.getElementById('query-btn');
+      const clearBtn = document.getElementById('clear-btn');
+      const drugTags = document.getElementById('drug-tags');
+      const resultsDiv = document.getElementById('results');
+
+      // Parse URL parameters
+      function getUrlParams() {
+        const params = new URLSearchParams(window.location.search);
+        const drugsParam = params.get('drugs');
+        if (drugsParam) {
+          return drugsParam.split(',').map(d => d.trim()).filter(d => d);
+        }
+        return [];
+      }
+
+      // Load search index
+      async function init() {
+        try {
+          resultsDiv.innerHTML = '<div class="loading">載入藥物資料庫中...</div>';
+
+          const response = await fetch(CONFIG.searchIndexUrl);
+          if (!response.ok) throw new Error('Failed to load search index');
+
+          searchIndex = await response.json();
+          drugMapper = new JpTxGNN.DrugMapper(searchIndex);
+
+          console.log('Search index loaded:', searchIndex.drug_count, 'drugs');
+
+          // Check for URL parameters
+          const urlDrugs = getUrlParams();
+          if (urlDrugs.length > 0) {
+            // Auto-load drugs from URL
+            urlDrugs.forEach(drug => {
+              if (!selectedDrugs.includes(drug)) {
+                selectedDrugs.push(drug);
+              }
+            });
+            renderTags();
+            // Auto-query
+            await queryRepurposing();
+          } else {
+            resultsDiv.innerHTML = '<div class="empty-state"><p>請新增藥物並點擊「查詢」按鈕</p></div>';
+          }
+        } catch (error) {
+          console.error('Init error:', error);
+          resultsDiv.innerHTML = '<div class="empty-state" style="color: #c00;"><p>載入藥物資料庫失敗</p></div>';
+        }
+      }
+
+      // Render drug tags
+      function renderTags() {
+        if (selectedDrugs.length === 0) {
+          drugTags.innerHTML = '<span style="color: #999; font-size: 14px;">尚未新增藥物</span>';
+          return;
+        }
+
+        drugTags.innerHTML = selectedDrugs.map((drug, index) => `
+          <span class="drug-tag">
+            ${escapeHtml(drug)}
+            <span class="remove" data-index="${index}">&times;</span>
+          </span>
+        `).join('');
+
+        // Add remove listeners
+        drugTags.querySelectorAll('.remove').forEach(btn => {
+          btn.addEventListener('click', function() {
+            const index = parseInt(this.dataset.index);
+            selectedDrugs.splice(index, 1);
+            renderTags();
+          });
+        });
+      }
+
+      // Add drug
+      function addDrug(name) {
+        name = name.trim();
+        if (!name) return;
+        if (selectedDrugs.includes(name)) return;
+
+        selectedDrugs.push(name);
+        renderTags();
+        drugInput.value = '';
+        drugInput.focus();
+      }
+
+      // Query repurposing candidates
+      async function queryRepurposing() {
+        if (selectedDrugs.length === 0) {
+          resultsDiv.innerHTML = '<div class="empty-state"><p>請至少新增一個藥物</p></div>';
+          document.getElementById('ddi-section').style.display = 'none';
+          return;
+        }
+
+        if (!drugMapper) {
+          resultsDiv.innerHTML = '<div class="empty-state" style="color: #c00;"><p>藥物資料庫尚未載入</p></div>';
+          return;
+        }
+
+        resultsDiv.innerHTML = '<div class="loading">查詢中...</div>';
+
+        // Check DDI
+        const ddiSection = document.getElementById('ddi-section');
+        const ddiResults = document.getElementById('ddi-results');
+        if (JpTxGNN.DDIChecker && selectedDrugs.length >= 2) {
+          const ddiAlerts = JpTxGNN.DDIChecker.checkInteractions(selectedDrugs);
+          if (ddiAlerts.length > 0) {
+            ddiSection.style.display = 'block';
+            ddiResults.innerHTML = JpTxGNN.DDIChecker.formatAlertsHTML(ddiAlerts);
+          } else {
+            ddiSection.style.display = 'block';
+            ddiResults.innerHTML = '<div class="ddi-no-alerts">✓ 未發現已知藥物交互作用警示</div>';
+          }
+        } else {
+          ddiSection.style.display = 'none';
+        }
+
+        let html = '';
+
+        for (const drugName of selectedDrugs) {
+          const match = drugMapper.searchJpTxGNN(drugName);
+
+          if (match) {
+            const indications = match.indications || [];
+
+            html += `
+              <div class="result-card">
+                <div class="result-header">
+                  <h3>
+                    <a href="${CONFIG.drugsBaseUrl}${match.slug}/" target="_blank">${escapeHtml(match.name)}</a>
+                    <span class="level-badge level-${match.level}">${match.level}</span>
+                  </h3>
+                  <a href="${CONFIG.drugsBaseUrl}${match.slug}/" target="_blank" class="view-full">查看完整報告 →</a>
+                </div>
+                <div class="result-original">
+                  <strong>原適應症：</strong>${escapeHtml(match.original) || '—'}
+                </div>
+                <div>
+                  <strong>預測新適應症（老藥新用候選）：</strong>
+                  <div class="indication-list">
+            `;
+
+            if (indications.length > 0) {
+              indications.slice(0, 10).forEach((ind, indIndex) => {
+                const trialsContainerId = `trials-${match.slug}-${indIndex}`;
+                html += `
+                  <div class="indication-item">
+                    <div class="indication-header">
+                      <span class="level-badge level-${ind.level}">${ind.level}</span>
+                      <span class="ind-name">${escapeHtml(ind.name)}</span>
+                      <span class="ind-score">${ind.score}%</span>
+                      <button class="trials-btn" onclick="loadClinicalTrials('${escapeHtml(match.name)}', '${escapeHtml(ind.name)}', '${trialsContainerId}')">
+                        🔬 臨床試驗
+                      </button>
+                    </div>
+                    <div class="trials-container" id="${trialsContainerId}"></div>
+                  </div>
+                `;
+              });
+
+              if (indications.length > 10) {
+                html += `
+                  <div class="more-link">
+                    ...及其他 ${indications.length - 10} 個預測適應症
+                    <a href="${CONFIG.drugsBaseUrl}${match.slug}/" target="_blank">查看全部</a>
+                  </div>
+                `;
+              }
+            } else {
+              html += '<p style="color: #666; padding: 8px 0;">無預測新適應症</p>';
+            }
+
+            html += '</div></div></div>';
+
+          } else {
+            html += `
+              <div class="result-card">
+                <div class="result-header">
+                  <h3>${escapeHtml(drugName)}</h3>
+                </div>
+                <p class="no-match">
+                  在 JpTxGNN 資料庫中找不到「${escapeHtml(drugName)}」。
+                  <br><span style="font-style: normal; color: #666;">
+                    請確認這是藥物名稱（非疾病名稱），或嘗試使用學名。
+                    目前資料庫包含 189 種台灣健保核准藥物。
+                  </span>
+                </p>
+              </div>
+            `;
+          }
+        }
+
+        resultsDiv.innerHTML = html || '<div class="empty-state"><p>無結果</p></div>';
+      }
+
+      function escapeHtml(text) {
+        if (!text) return '';
+        const div = document.createElement('div');
+        div.textContent = text;
+        return div.innerHTML;
+      }
+
+      /**
+       * Search ClinicalTrials.gov for drug + condition trials
+       */
+      async function searchClinicalTrials(drugName, condition) {
+        const cacheKey = `${drugName.toLowerCase()}|${condition.toLowerCase()}`;
+
+        // Return cached result if available
+        if (clinicalTrialsCache.has(cacheKey)) {
+          return clinicalTrialsCache.get(cacheKey);
+        }
+
+        try {
+          const params = new URLSearchParams({
+            'query.intr': drugName,
+            'query.cond': condition,
+            'pageSize': '5',
+            'format': 'json',
+            'countTotal': 'true'
+          });
+
+          const response = await fetch(`${CONFIG.clinicalTrialsApiUrl}?${params}`);
+
+          if (!response.ok) {
+            console.warn('ClinicalTrials.gov API error:', response.status);
+            return { totalCount: 0, trials: [] };
+          }
+
+          const data = await response.json();
+
+          const result = {
+            totalCount: data.totalCount || 0,
+            trials: (data.studies || []).slice(0, 5).map(study => ({
+              nctId: study.protocolSection?.identificationModule?.nctId,
+              title: study.protocolSection?.identificationModule?.briefTitle,
+              status: study.protocolSection?.statusModule?.overallStatus,
+              phase: study.protocolSection?.designModule?.phases?.join(', ') || 'N/A',
+              enrollment: study.protocolSection?.designModule?.enrollmentInfo?.count,
+              url: `https://clinicaltrials.gov/study/${study.protocolSection?.identificationModule?.nctId}`
+            }))
+          };
+
+          // Cache the result
+          clinicalTrialsCache.set(cacheKey, result);
+
+          return result;
+        } catch (error) {
+          console.warn('Failed to fetch clinical trials:', error);
+          return { totalCount: 0, trials: [] };
+        }
+      }
+
+      /**
+       * Load and render clinical trials for an indication
+       */
+      async function loadClinicalTrials(drugName, indicationName, containerId) {
+        const container = document.getElementById(containerId);
+        if (!container) return;
+
+        container.innerHTML = '<span class="trials-loading">搜尋臨床試驗中...</span>';
+
+        const result = await searchClinicalTrials(drugName, indicationName);
+
+        if (result.totalCount === 0) {
+          container.innerHTML = '<span class="trials-none">無相關臨床試驗</span>';
+          return;
+        }
+
+        let html = `
+          <div class="trials-summary">
+            找到 <strong>${result.totalCount}</strong> 個相關臨床試驗
+          </div>
+          <div class="trials-list">
+        `;
+
+        result.trials.forEach(trial => {
+          const statusClass = getTrialStatusClass(trial.status);
+          html += `
+            <div class="trial-item">
+              <a href="${trial.url}" target="_blank" class="trial-nct">${trial.nctId}</a>
+              <span class="trial-status ${statusClass}">${formatTrialStatus(trial.status)}</span>
+              <span class="trial-phase">${trial.phase}</span>
+              <div class="trial-title">${escapeHtml(trial.title)}</div>
+            </div>
+          `;
+        });
+
+        if (result.totalCount > 5) {
+          const searchUrl = `https://clinicaltrials.gov/search?cond=${encodeURIComponent(indicationName)}&intr=${encodeURIComponent(drugName)}`;
+          html += `
+            <a href="${searchUrl}" target="_blank" class="trials-more">
+              查看全部 ${result.totalCount} 個臨床試驗 →
+            </a>
+          `;
+        }
+
+        html += '</div>';
+        container.innerHTML = html;
+      }
+
+      /**
+       * Get CSS class for trial status
+       */
+      function getTrialStatusClass(status) {
+        const statusMap = {
+          'RECRUITING': 'status-recruiting',
+          'ACTIVE_NOT_RECRUITING': 'status-active',
+          'COMPLETED': 'status-completed',
+          'TERMINATED': 'status-terminated',
+          'NOT_YET_RECRUITING': 'status-pending'
+        };
+        return statusMap[status] || 'status-unknown';
+      }
+
+      /**
+       * Format trial status for display
+       */
+      function formatTrialStatus(status) {
+        const statusMap = {
+          'RECRUITING': '招募中',
+          'ACTIVE_NOT_RECRUITING': '進行中',
+          'COMPLETED': '已完成',
+          'TERMINATED': '已終止',
+          'NOT_YET_RECRUITING': '尚未招募',
+          'SUSPENDED': '暫停',
+          'WITHDRAWN': '已撤回',
+          'ENROLLING_BY_INVITATION': '邀請招募'
+        };
+        return statusMap[status] || status;
+      }
+
+      // Make loadClinicalTrials available globally for onclick
+      window.loadClinicalTrials = loadClinicalTrials;
+
+      // Event listeners
+      addBtn.addEventListener('click', () => addDrug(drugInput.value));
+
+      drugInput.addEventListener('keydown', (e) => {
+        if (e.key === 'Enter') {
+          e.preventDefault();
+          addDrug(drugInput.value);
+        }
+      });
+
+      queryBtn.addEventListener('click', queryRepurposing);
+
+      clearBtn.addEventListener('click', () => {
+        selectedDrugs = [];
+        renderTags();
+        resultsDiv.innerHTML = '<div class="empty-state"><p>請新增藥物並點擊「查詢」按鈕</p></div>';
+      });
+
+      // Sample drug buttons
+      document.querySelectorAll('.sample-btn').forEach(btn => {
+        btn.addEventListener('click', function() {
+          addDrug(this.dataset.drug);
+        });
+      });
+
+      // Initialize
+      init();
+
+    })();
+  </script>
+</body>
+</html>
