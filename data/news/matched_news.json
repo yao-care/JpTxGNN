@@ -1,166 +1,73 @@
 {
-  "last_updated": "2026-03-31T12:54:05.634619+00:00",
+  "last_updated": "2026-03-31T18:47:44.894912+00:00",
   "total_count": 55,
-  "matched_count": 16,
+  "matched_count": 14,
   "news": [
     {
-      "id": "2f62a17df9b0",
-      "title": "なぜ差が出る？ 細胞レベルで知っておきたい「老けない」の理由(GISELe)",
-      "published": "2026-03-31T12:52:00+00:00",
-      "summary": "多すぎる美容や健康情報。その中で何が本当に効果的？ 見極めるのは容易ではありません。そこで皮膚科学や栄養学など近年の研究結果から実証・検証されたデータから、老化の進行を遅らせる、老けない人がしないこと",
+      "id": "264ccdba4eed",
+      "title": "彬子さま、学習院大史料館の客員研究員にご就任　過去には天皇陛下も(産経新聞)",
+      "published": "2026-03-31T15:32:28+00:00",
+      "summary": "宮内庁などは3月31日、三笠宮家の彬子さまが、学習院大学史料館の客員研究員に4月1日付で就任されると発表した。 史料館は東京都豊島区の同大目白キャンパス内にある「霞会館記念学習院ミュージアム」の運営",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/eaa951013909a509043d86b877763be7554e48aa?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/31496aefe8b268280fa51a7c8fe52868b409f885?source=rss"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "6531914ed2e0",
-      "title": "「毎朝コップ1杯の美肌習慣」スーパーで買える「飲む美容液」(GISELe)",
-      "published": "2026-03-31T12:17:00+00:00",
-      "summary": "「甘酒は\"飲む点滴\"と呼ばれるほど体に良い」と聞くけれど、「本当に美容や肌にいいの？」「どう飲めば効果的なの？」と気になっていませんか？ 結論から言うと、米糀（こめこうじ）から作られた甘酒は、美容と健",
+      "id": "011942f9d228",
+      "title": "R8年度のがん検診のご案内",
+      "published": "2026-03-31T15:09:46+00:00",
+      "summary": "R8年度のがん検診のご案内&nbsp;&nbsp;vill.chihayaakasaka.osaka.jp",
       "sources": [
         {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/844900571d3f16e37986c393fb3cfed226bd7344?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "4fff0e59f5c3",
-      "title": "知らないと逆効果？ドライフルーツの落とし穴と上手な食べ方｜管理栄養士が解説(ヨガジャーナルオンライン)",
-      "published": "2026-03-31T12:15:00+00:00",
-      "summary": "ドライフルーツは栄養価が高く、噛み応えがあって、持ち運びや保存性も高いうえ、生のフルーツと比べても体を冷やしにくいとあって、間食に取り入れる人も多いのではないでしょうか。おすすめのドライフルーツや、ド",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/cc902216f4a908f4377eef37bb154f7afed3df75?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "83158355a30c",
-      "title": "せき、喘息、心疾患など心と肺にまつわる症状に効く「霊台」。うなじのこわばりも緩和(家庭画報.com)",
-      "published": "2026-03-31T12:10:01+00:00",
-      "summary": "中医学のエキスパートである鍼灸師の兵頭 明先生が、ツボの効能や位置、効くメカニズムを解説します。健康の土台作りに、不調改善に、1日1分のツボ押しを習慣にしましょう。",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/1226cb8b62d84365da04fa9990bdf727e96639e1?source=rss"
+          "name": "vill.chihayaakasaka.osaka.jp",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zSkprQkV1RjNDZWFfSDdnc1lvV2FYdHBOcjhqQ1VKbFg4MUo4YnNCSGpaVFAyaXpUb01XTmRMT1VJemUtWXg5QmZFTlo1a2ZSbDlwRUpVb3ROTTU4c2xaeVVwYXYwd2J4U3c?oc=5"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心疾患",
+          "name": "generic_cancer",
+          "keyword": "がん",
           "related_drugs": [
             {
-              "slug": "nifedipine",
-              "name": "アダラートＣＲ錠４０ｍｇ（選）"
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
             },
             {
-              "slug": "atorvastatin",
-              "name": "アトーゼット配合錠ＨＤ（選）"
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
             },
             {
-              "slug": "atenolol",
-              "name": "テノーミン錠５０　５０ｍｇ（選）"
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
             },
             {
               "slug": "propranolol",
               "name": "インデラル錠１０ｍｇ（選）"
             },
             {
-              "slug": "spironolactone",
-              "name": "アルダクトンＡ錠５０ｍｇ（選）"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "ロプレソール錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "enalapril",
-              "name": "レニベース錠１０　１０ｍｇ（選）"
-            },
-            {
-              "slug": "lisinopril",
-              "name": "ロンゲス錠２０ｍｇ（選）"
-            },
-            {
-              "slug": "diltiazem",
-              "name": "ヘルベッサー錠６０　６０ｍｇ（選）"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "エックスフォージ配合ＯＤ錠（選）"
-            },
-            {
-              "slug": "furosemide",
-              "name": "ラシックス錠１０ｍｇ（選）"
-            },
-            {
               "slug": "dexamethasone",
               "name": "サンテゾーン点眼液（０．１％）（選）"
             },
             {
-              "slug": "clopidogrel",
-              "name": "プラビックス錠７５ｍｇ（選）"
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
             },
             {
               "slug": "betamethasone",
               "name": "リンデロン−Ｖ軟膏０．１２％（選）"
             },
             {
-              "slug": "verapamil",
-              "name": "ワソラン錠４０ｍｇ（選）"
-            },
-            {
               "slug": "triamcinolone",
               "name": "レダコート軟膏０．１％（選）"
             },
             {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "hydrochlorothiazide",
-              "name": "プレミネント配合錠ＨＤ（選）"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "asthma",
-          "keyword": "喘息",
-          "related_drugs": [
-            {
-              "slug": "theophylline",
-              "name": "ユニコン錠１００　１００ｍｇ（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "budesonide",
-              "name": "シムビコートタービュヘイラー６０吸入（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
             },
             {
               "slug": "prednisolone",
@@ -175,30 +82,198 @@
       ]
     },
     {
-      "id": "5600f12cc705",
-      "title": "うつ病を患っていたときは、「褒められても心に響かなかった」。当時をパートナーと振り返る【著者インタビュー】(ダ・ヴィンチWeb)",
-      "published": "2026-03-31T12:00:00+00:00",
-      "summary": "漫画家・叶輝（かのうあきら）さんと、うつ病により休職を繰り返していた朝待夜駆（あさまちよかけ）さん。二人のもとにたびたび足を運んでいた地域猫はある日、病気で瀕死の子猫を連れてくる。「朔太郎」と名付けら",
+      "id": "8b4be4dbb83d",
+      "title": "京都大付属病院の論文など３件で不正認定、捏造や改竄　元准教授は「誤り」と不正を否定(産経新聞)",
+      "published": "2026-03-31T14:13:22+00:00",
+      "summary": "京都大は31日、同大医学部付属病院や大学院理学研究科など、複数の論文で画像の改竄（かいざん）や捏造（ねつぞう）があり、計3件の不正を認定したと発表した。学内外の有識者で構成する調査委員会が認定した。同",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/97ee58c4eae7c9caaec5b2c8f5e6d939f3bc9e3a?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/cdf39162be13ece0511fb27e2381329d18aff3b6?source=rss"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "8d1aa9310f80",
-      "title": "「実家にいくら入れる？」3万、5万、6万…新社会人の息子から受け取る生活費の金額に悩む親へのアドバイス・意見続々(TOKYO FM＋)",
-      "published": "2026-03-31T11:51:30+00:00",
-      "summary": "フリーアナウンサーの住吉美紀がパーソナリティをつとめるTOKYO FMの生ワイドラジオ番組「Blue Ocean」（毎週月曜～金曜 9:00～11:00）。毎週金曜日に放送しているコーナー「沢井製薬",
+      "id": "2dabedcba47d",
+      "title": "ブランケットにかわいい足跡を発見！ ふだんはおしゃべりな猫の無言の視線に「起こしてごめん」(ねこのきもち WEB MAGAZINE)",
+      "published": "2026-03-31T13:10:00+00:00",
+      "summary": "ほっこりした光景がSNSで話題になりました。 今回紹介するのは、X（旧Twitter）ユーザーの＠m329___さんの愛猫・ぽぬちゃん（取材当時推定11才）です。飼い主さんは、ぽぬちゃんの手前に置かれ",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/99c76a66b52b02752310d470d61879a8857dac03?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/47c9259742697a9107bc56c117f5361c089452a1?source=rss"
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "781c1aa42d4d",
+      "title": "頭や顔の形をキレイに見せたい人に！ひし形シルエットの小顔見えヘア【大人に人気の髪型】(MAQUIA)",
+      "published": "2026-03-31T13:01:22+00:00",
+      "summary": "髪は顔の印象を大きく左右するパーツ。特に髪型は、顔型や頭の形を美しく見せる効果があります。今回は、気になる骨格をカバーしながら小顔に見せてくれる、ひし形シルエットの優秀ミディアムをご紹介します！",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/ef354fca6cf35bc681c5166b21b8e91b11c868ff?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "f65938a3b46d",
+      "title": "花粉症対策を“AIに聞いてみた”結果",
+      "published": "2026-03-31T13:00:13+00:00",
+      "summary": "花粉症対策を“AIに聞いてみた”結果&nbsp;&nbsp;lurenewsr.com50代女性の8割以上は、ビタミンD不足！知られざる健康リスクとは？【医師が解説】（Web eclat）&nbsp;&nbsp;news.yahoo.co.jp花粉症の救世主はビタミンD!?9割の医師が認める驚きの実力、摂取方法を紹介！（ウォーカープラス）&nbsp;&nbsp;news.yahoo.co.jp",
+      "sources": [
+        {
+          "name": "lurenewsr.com",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA2VjNlZGxuOXplZ2JKb2NuNlRDN3NRX0h0Q2dvTU1BdlByR3hVUWJqbG9mQ2pzZ0F5ZFl5T2RtMzJ2em5ibHBzYw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "2f62a17df9b0",
+      "title": "なぜ差が出る？ 細胞レベルで知っておきたい「老けない」の理由(GISELe)",
+      "published": "2026-03-31T12:52:00+00:00",
+      "summary": "多すぎる美容や健康情報。その中で何が本当に効果的？ 見極めるのは容易ではありません。そこで皮膚科学や栄養学など近年の研究結果から実証・検証されたデータから、老化の進行を遅らせる、老けない人がしないこと",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/eaa951013909a509043d86b877763be7554e48aa?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "b96ba44d2835",
+      "title": "医師が感染性ショック、多臓器損傷の19ヶ月の乳児を救命",
+      "published": "2026-03-31T11:49:02+00:00",
+      "summary": "医師が感染性ショック、多臓器損傷の19ヶ月の乳児を救命&nbsp;&nbsp;Laodong.vn",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUUhXSE9SVkFkNFF3NVI4bmxRTkJaSlRFOTRheVZfMm0tYXJGX05PbWxHRk9veUlLUE5jOEl6VVZhUU9MQ3h2NTcxOEtndTkzWlc3RHh3TEd3cW4tbEJ1Ql80UWVUaTBYcEJhQk1rek1HRVZabFZFZjk2WDhBSlRHUkpXNlA0X0RacEJESGdWX0dZcHdaQjJhZm02ZXZKRGxYZ3JPSXZLSXIzcG15cFNtcFZJaElSVWs1Zkhn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "bcfe2825cfe9",
+      "title": "「もうどうにでもなれ」腰痛と思ったら希少がんだった。難病の女性が腫瘍を隠さず「覚悟の写真」を公開した訳（CHANTO WEB）",
+      "published": "2026-03-31T11:00:38+00:00",
+      "summary": "「もうどうにでもなれ」腰痛と思ったら希少がんだった。難病の女性が腫瘍を隠さず「覚悟の写真」を公開した訳（CHANTO WEB）&nbsp;&nbsp;news.yahoo.co.jpGoogle ニュースですべての記事を見る",
+      "sources": [
+        {
+          "name": "news.yahoo.co.jp",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxNkFmWDd2XzdfUUtlTXlUeV8xM3Y4LWVZNjR2UnRFM3Z5N3FtT3NDYUNsMlpsWmx3bE1TN1lubHNfSW4waXVxX3dqbEV0WFU5ejZMOWNGaGJVdUpSTVJZSU1UY1RBVmpKYVR4UGhITkN4SHFuelIzbFZVNzdxUzg?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腫瘍",
+          "keyword": "腫瘍",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "265d75fbc14c",
@@ -214,13 +289,13 @@
       "matched_keywords": []
     },
     {
-      "id": "399ecc1725e8",
-      "title": "心不全のリスクは体重よりお腹が重要!?BMI値では見えない危険信号とは - @DIME アットダイム",
+      "id": "0e39bfda0ac1",
+      "title": "心不全のリスクは体重よりお腹が重要!?BMI値では見えない危険信号とは",
       "published": "2026-03-31T09:35:12+00:00",
-      "summary": "心不全のリスクは体重よりお腹が重要!?BMI値では見えない危険信号とは&nbsp;&nbsp;@DIME アットダイム",
+      "summary": "心不全のリスクは体重よりお腹が重要!?BMI値では見えない危険信号とは&nbsp;&nbsp;dime.jp",
       "sources": [
         {
-          "name": "@DIME アットダイム",
+          "name": "dime.jp",
           "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBvMHdldlNVci00MDRVSWZkdk40aXZhLUlocF9YYnBlcWlaS0ZvVW8teEVsWW1RZzZiazM0TENHTFFFVUh1?oc=5"
         }
       ],
@@ -278,13 +353,13 @@
       "matched_keywords": []
     },
     {
-      "id": "d98fa155c089",
+      "id": "ad9724c1979b",
       "title": "広島市南区の飲食店で食中毒 ノロウイルス検出",
       "published": "2026-03-31T07:10:00+00:00",
-      "summary": "広島市南区の飲食店で食中毒 ノロウイルス検出&nbsp;&nbsp;47NEWS生牡蠣を食べて食中毒か 客２人と従業員１人が下痢や嘔吐などを訴え 患者からノロウイルス検出 広島市の飲食店に営業禁止命令&nbsp;&nbsp;TBS NEWS DIG生牡蠣を食べて食中毒か 客2人と従業員1人が下痢や嘔吐などを訴え 患者からノロウイルス検出 広島市の飲食店に営業禁止命令（RCC中国放送）&nbsp;&nbsp;Yahoo!ニュース",
+      "summary": "広島市南区の飲食店で食中毒 ノロウイルス検出&nbsp;&nbsp;47news.jpGoogle ニュースですべての記事を見る",
       "sources": [
         {
-          "name": "47NEWS",
+          "name": "47news.jp",
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1HajRZUndscUkyakdVdzA3eGpocHZ5Y1NpYmRqYmR6WEFFYUdEZlhNMlk5VkdfT2wyazZ3WG44dnlwa0VSV1c1WDBwcw?oc=5"
         }
       ],
@@ -369,13 +444,26 @@
       ]
     },
     {
-      "id": "bd21a5e81062",
-      "title": "1日にさらに11分睡眠をとると、脳卒中のリスクを減らすのに役立ちます",
-      "published": "2026-03-31T03:00:00+00:00",
-      "summary": "1日にさらに11分睡眠をとると、脳卒中のリスクを減らすのに役立ちます&nbsp;&nbsp;ja.laodong.vn脳卒中や心臓発作を予防するための「黄金の公式」は、驚くほどシンプルなものであることが判明した。&nbsp;&nbsp;Vietnam.vn食物繊維摂取量が増えるほど、日中勤務者に対する常時夜勤者と不定期の夜勤者の心臓病リスクが低下することを示したグラフ&nbsp;&nbsp;イザ！夜食を控えると心臓にメリットがもたらされる｜CareNet.com&nbsp;&nbsp;carenet.com「夜型」は心臓病リスクが16%高い？判明した驚きの理由と、深夜派でも“リスクを帳消し”にする3つの鍵【米】（ウィメンズヘルス）&nbsp;&nbsp;Yahoo!ニュース",
+      "id": "02708f3e9390",
+      "title": "塩分とりすぎ要注意 春日井で慢性腎臓病を学ぶイベント",
+      "published": "2026-03-31T03:46:34+00:00",
+      "summary": "塩分とりすぎ要注意 春日井で慢性腎臓病を学ぶイベント&nbsp;&nbsp;47news.jp「腎臓の数値が悪い」ピンとこない人に伝えたい腎機能の低下を放置が怖いこれだけの“理由” 健康診断で見るべき項目は？&nbsp;&nbsp;news.yahoo.co.jp腎臓病への不安：研究により、食事が効果的に腎臓病を予防できることが明らかになった。&nbsp;&nbsp;vietnam.vn｢腎臓の数値が悪い｣ピンとこない人に伝えたい腎機能の低下を放置が怖いこれだけの\"理由\" 健康診断で見るべき項目は？&nbsp;&nbsp;東洋経済オンライン腎不全が驚くべき速さで増加している。その真の原因がようやく明らかになった。&nbsp;&nbsp;vietnam.vn",
       "sources": [
         {
-          "name": "ja.laodong.vn",
+          "name": "47news.jp",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBpNWY1OGZGUmlsUmM4VklfQkh1T0l5UmJ0d3hJTHZ2N3pyOHl3czk1R1VSNEhBT0JEZUtUbnUzbUxZaTdXWGxVSHRBWQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "896f7cec88ff",
+      "title": "1日にさらに11分睡眠をとると、脳卒中のリスクを減らすのに役立ちます",
+      "published": "2026-03-31T03:00:00+00:00",
+      "summary": "1日にさらに11分睡眠をとると、脳卒中のリスクを減らすのに役立ちます&nbsp;&nbsp;Laodong.vn脳卒中や心臓発作を予防するための「黄金の公式」は、驚くほどシンプルなものであることが判明した。&nbsp;&nbsp;vietnam.vn食物繊維摂取量が増えるほど、日中勤務者に対する常時夜勤者と不定期の夜勤者の心臓病リスクが低下することを示したグラフ&nbsp;&nbsp;イザ！夜食を控えると心臓にメリットがもたらされる｜CareNet.com&nbsp;&nbsp;CareNet.com「夜型」は心臓病リスクが16%高い？判明した驚きの理由と、深夜派でも“リスクを帳消し”にする3つの鍵【米】（ウィメンズヘルス）&nbsp;&nbsp;news.yahoo.co.jp",
+      "sources": [
+        {
+          "name": "Laodong.vn",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeS02VDJZY0E1aXQwdUt3Zk9ncDFwc3htUHg5QWd3Slk4SFpmOXNUcE9QXzRpSnJkcEsyLVg4Z09lUnIzWlQydW41dUV5WHVmOVoyR3dOQThwZS02b3BpZlk5QzVySlp3ZTcyTjBRSHktazNoTElmUm55eHA5MkZJampxeW9Fc09zbEN3V2phcXh5QlNuQWJ1c3d3ZHhEY1dHaVpV?oc=5"
         }
       ],
@@ -581,139 +669,23 @@
       "matched_keywords": []
     },
     {
-      "id": "998afc94309e",
+      "id": "716e1523f45c",
       "title": "京都大学iPS細胞研究所 CiRA（サイラ）",
       "published": "2026-03-31T00:11:00+00:00",
-      "summary": "京都大学iPS細胞研究所 CiRA（サイラ）&nbsp;&nbsp;京都大学",
+      "summary": "京都大学iPS細胞研究所 CiRA（サイラ）&nbsp;&nbsp;kyoto-u.ac.jp",
       "sources": [
         {
-          "name": "京都大学",
+          "name": "kyoto-u.ac.jp",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBvbEIxZFdlSFBrcVdPcnRMMmg3VllxR05odnFXNHk3eVNMcW13ZGwtVW1MN3VGQnQ0T183VU8xZzhuWTVDeEF5dm1jQ3VhX3lKa3luVDBycHpwTXp2T1hCNUlMVFFOQQ?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "84c162ea85d9",
-      "title": "「おまえを殺す」大きな枝で追われた日。難病で「バイオ」と呼ばれた女性がいじめを耐え抜いた「小6の夢」",
-      "published": "2026-03-30T21:30:00+00:00",
-      "summary": "「おまえを殺す」大きな枝で追われた日。難病で「バイオ」と呼ばれた女性がいじめを耐え抜いた「小6の夢」&nbsp;&nbsp;ライブドアニュース「もうどうにでもなれ」腰痛と思ったら希少がんだった。難病の女性が腫瘍を隠さず「覚悟の写真」を公開した訳（CHANTO WEB）&nbsp;&nbsp;Yahoo!ニュース「おまえを殺す」大きな枝で追われた日。難病で「バイオ」と呼ばれた女性がいじめを耐え抜いた「小6の夢」（CHANTO WEB）&nbsp;&nbsp;Yahoo!ニュース",
-      "sources": [
-        {
-          "name": "ライブドアニュース",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56ckZYYjdxN3BPbHlQa2ZhaW9CQjR4RUg2dFBKcGxpUVgxYUV3NVZHZXZQajBoUXZKZnozd0JMVmdLVF9YY2dBcjVhdWdjZ29XbHcyU3NGZ1VrbHJpUmR3?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "がん",
-          "related_drugs": [
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "ゼローダ錠３００　３００ｍｇ（選）"
-            },
-            {
-              "slug": "propranolol",
-              "name": "インデラル錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "imatinib",
-              "name": "グリベック錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腫瘍",
-          "keyword": "腫瘍",
-          "related_drugs": [
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "ゼローダ錠３００　３００ｍｇ（選）"
-            },
-            {
-              "slug": "propranolol",
-              "name": "インデラル錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "imatinib",
-              "name": "グリベック錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "6429a49df9bd",
       "title": "手足口病が前年比5倍の流行、死者4人 保健省が緊急指示［社会］",
       "published": "2026-03-30T20:07:00+00:00",
-      "summary": "手足口病が前年比5倍の流行、死者4人 保健省が緊急指示［社会］&nbsp;&nbsp;VIETJOEV71ウイルスは、手足口病にかかった子供の神経系を攻撃する。&nbsp;&nbsp;Vietnam.vn",
+      "summary": "手足口病が前年比5倍の流行、死者4人 保健省が緊急指示［社会］&nbsp;&nbsp;VIETJOEV71ウイルスは、手足口病にかかった子供の神経系を攻撃する。&nbsp;&nbsp;vietnam.vn",
       "sources": [
         {
           "name": "VIETJO",
@@ -723,13 +695,13 @@
       "matched_keywords": []
     },
     {
-      "id": "1ec1d40cebdc",
+      "id": "542c7d55341f",
       "title": "「心疾患患者の妊娠・出産の適応、管理に関するガイドライン」をフォーカスアップデート／日本循環器学会｜CareNet.com",
       "published": "2026-03-30T19:00:00+00:00",
-      "summary": "「心疾患患者の妊娠・出産の適応、管理に関するガイドライン」をフォーカスアップデート／日本循環器学会｜CareNet.com&nbsp;&nbsp;carenet.com",
+      "summary": "「心疾患患者の妊娠・出産の適応、管理に関するガイドライン」をフォーカスアップデート／日本循環器学会｜CareNet.com&nbsp;&nbsp;CareNet.com",
       "sources": [
         {
-          "name": "carenet.com",
+          "name": "CareNet.com",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkd0Nwd0VPRk96QlFzVmFzYUx6YXJTbF9LUWpLeUhDVy1pcHFEeVBNTS02bGZ1aGxVSm9YQXc2ZlNCNzRZMC16clBESUdNSF9MWlZtclFUbF9jZ0JFR2sw?oc=5"
         }
       ],
@@ -833,19 +805,6 @@
       "matched_keywords": []
     },
     {
-      "id": "173ffa863e11",
-      "title": "「細菌性じゃなさそう」でも髄液検査すべき？ 有益な判断基準は",
-      "published": "2026-03-30T14:45:04+00:00",
-      "summary": "「細菌性じゃなさそう」でも髄液検査すべき？ 有益な判断基準は&nbsp;&nbsp;medical.nikkeibp.co.jp",
-      "sources": [
-        {
-          "name": "medical.nikkeibp.co.jp",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSjExSFVrWkJGSFc4bkVtOGd3U3kxWjRGcjNCbXU5eGdQS01fTmVDOTJPQVYtTDVkSFhXQlFvbGZjSUdVSzdVVnoydG9Penp1ZGhsOUhXd00wdTN1MFQtbkVUUjNzQU4zTC1IeVhaTHh3QlBJeGp4bkJCNzItV0FuQ1hPVFI?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "3c86d4ce9eae",
       "title": "「肺がんステージ1の症状」は咳以外に何があるかご存知ですか？医師が解説！(メディカルドック)",
       "published": "2026-03-30T11:03:03+00:00",
@@ -940,7 +899,7 @@
       "id": "c0e15d3a6228",
       "title": "新型コロナ変異株「BA.3.2」を台湾で初確認 シンガポール籍旅行者、すでに出国",
       "published": "2026-03-30T09:42:00+00:00",
-      "summary": "新型コロナ変異株「BA.3.2」を台湾で初確認 シンガポール籍旅行者、すでに出国&nbsp;&nbsp;フォーカス台湾新型コロナ変異株「BA.3.2」を台湾で初確認 シンガポール籍旅行者、すでに出国（中央社フォーカス台湾）&nbsp;&nbsp;Yahoo!ニュース新型コロナウイルスの「セミ」変異株は新たな株なのか、そしてその特徴は何なのか？&nbsp;&nbsp;Vietnam.vn",
+      "summary": "新型コロナ変異株「BA.3.2」を台湾で初確認 シンガポール籍旅行者、すでに出国&nbsp;&nbsp;フォーカス台湾新型コロナ変異株「BA.3.2」を台湾で初確認 シンガポール籍旅行者、すでに出国（中央社フォーカス台湾）&nbsp;&nbsp;news.yahoo.co.jp新型コロナウイルスの「セミ」変異株は新たな株なのか、そしてその特徴は何なのか？&nbsp;&nbsp;vietnam.vn",
       "sources": [
         {
           "name": "フォーカス台湾",
@@ -966,7 +925,7 @@
       "id": "08748ce440ce",
       "title": "GLP-1受容体作動薬の投与で1型糖尿病の心血管・腎保護の可能性 米国の大規模電子カルテデータ解析",
       "published": "2026-03-30T06:46:23+00:00",
-      "summary": "GLP-1受容体作動薬の投与で1型糖尿病の心血管・腎保護の可能性 米国の大規模電子カルテデータ解析&nbsp;&nbsp;糖尿病リソースガイド透析患者でもGLP-1薬開始で心血管イベント・死亡リスク低下と関連｜CareNet.com&nbsp;&nbsp;carenet.com「痩せ薬」の安易な利用に警鐘。72週間で体重20%減の一方で…米医師が明かす副作用の真実（ウィメンズヘルス）&nbsp;&nbsp;Yahoo!ニュース",
+      "summary": "GLP-1受容体作動薬の投与で1型糖尿病の心血管・腎保護の可能性 米国の大規模電子カルテデータ解析&nbsp;&nbsp;糖尿病リソースガイド透析患者でもGLP-1薬開始で心血管イベント・死亡リスク低下と関連｜CareNet.com&nbsp;&nbsp;CareNet.com「痩せ薬」の安易な利用に警鐘。72週間で体重20%減の一方で…米医師が明かす副作用の真実（ウィメンズヘルス）&nbsp;&nbsp;news.yahoo.co.jp",
       "sources": [
         {
           "name": "糖尿病リソースガイド",
@@ -1024,13 +983,13 @@
       ]
     },
     {
-      "id": "beb8761efddb",
+      "id": "e1fc09e0ad5a",
       "title": "乾癬性関節炎の薬物療法に男女差",
       "published": "2026-03-30T06:15:00+00:00",
-      "summary": "乾癬性関節炎の薬物療法に男女差&nbsp;&nbsp;medical.jiji.com",
+      "summary": "乾癬性関節炎の薬物療法に男女差&nbsp;&nbsp;時事メディカル",
       "sources": [
         {
-          "name": "medical.jiji.com",
+          "name": "時事メディカル",
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1HNDNWeGxra0dzazRZR0RFb2g4WlpiVWV3MWktMG91cld3R2t4TTJDcFE5cGpNS2t3NnUtNnVNY2taQ0FGVVlXYzl0aw?oc=5"
         }
       ],
@@ -1124,13 +1083,13 @@
       ]
     },
     {
-      "id": "09246d31c408",
+      "id": "39ebe503582e",
       "title": "家族が『乳がん』と診断されたら？ 遺伝する割合と自分でできる対策",
       "published": "2026-03-30T04:03:31+00:00",
-      "summary": "家族が『乳がん』と診断されたら？ 遺伝する割合と自分でできる対策&nbsp;&nbsp;メディカルドックGoogle ニュースですべての記事を見る",
+      "summary": "家族が『乳がん』と診断されたら？ 遺伝する割合と自分でできる対策&nbsp;&nbsp;medicaldoc.jpGoogle ニュースですべての記事を見る",
       "sources": [
         {
-          "name": "メディカルドック",
+          "name": "medicaldoc.jp",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GTllrZnR3QzdfcVNpRlZ5SnQ1THVXcDVoNTU5WWtCT3VETl9LOE5yM1ZBendqYmJaTTZFT1ZvbnhzdDlBX2VtYkYwWWc0OXJLckxxRHBtWG4?oc=5"
         }
       ],
@@ -1265,13 +1224,26 @@
       ]
     },
     {
-      "id": "96ace225167e",
-      "title": "筋力が高齢女性の死亡リスクと関連｜ニュース",
-      "published": "2026-03-30T02:51:06+00:00",
-      "summary": "筋力が高齢女性の死亡リスクと関連｜ニュース&nbsp;&nbsp;tokuteikenshin-hokensidou.jp",
+      "id": "58f1f228e165",
+      "title": "プチ整形なしに、20歳も若返る？ ついに始まる本当の若返り！ もう歳を取らない幸せメソッド①【齋藤 薫】",
+      "published": "2026-03-30T03:00:00+00:00",
+      "summary": "プチ整形なしに、20歳も若返る？ ついに始まる本当の若返り！ もう歳を取らない幸せメソッド①【齋藤 薫】&nbsp;&nbsp;mi-mollet（ミモレ）100歳まで生きる人と圧倒的な差がつく…医師「若くして老化スイッチが入りやすい人がもつ\"5つの危険因子\"」&nbsp;&nbsp;news.yahoo.co.jp私たちは近いうちに老いなくなる？ ～老化研究最前線：役立つ！ おすすめ健康本：日経Gooday（グッデイ）&nbsp;&nbsp;日経Gooday【“老化”は食事と生活習慣で止められる！】細胞のオートファジーを上げる！スーパーフード／体内の炎症を抑えるための食事／睡眠で寿命を延ばすために必要なもの／110歳以上スーパーセンチナリアンの法則&nbsp;&nbsp;東洋経済オンライン「老化を遅らせる研究」で世界はどう変わる? 未来予測に必須のシナリオプランニング | チバテレ＋プラス&nbsp;&nbsp;千葉テレビ放送",
       "sources": [
         {
-          "name": "tokuteikenshin-hokensidou.jp",
+          "name": "mi-mollet（ミモレ）",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4NG56UGYxRGF4SUVKN1R6UEZZNnNQTXMyUV9Na080UGRHS0ZDZmE5QjFGWDFrQTBNTmNNaFJMc0hCWTNwYWIwVmJia3FxM2JnRkRvQ0xoeEN5Nk0?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "661348779578",
+      "title": "筋力が高齢女性の死亡リスクと関連｜ニュース",
+      "published": "2026-03-30T02:51:06+00:00",
+      "summary": "筋力が高齢女性の死亡リスクと関連｜ニュース&nbsp;&nbsp;保健指導リソースガイド",
+      "sources": [
+        {
+          "name": "保健指導リソースガイド",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tRWt2UnFGdndpSkFnaTZKV0lOS0stQ2JTcHZMN3dsdzIyOUZHRTFVTTVTZkt2Y19OMC0wenptZVdQNzdaM3VXMUJNZWpjeDJrbko5NW5vd0Z4R2FtYVA2Q044OVNSOEk0?oc=5"
         }
       ],
@@ -1294,7 +1266,7 @@
       "id": "a48ccb9c46fb",
       "title": "新型コロナ感染リスク高まる夏　5類に移行して「風邪と同じ」なんて軽く思っていませんか？",
       "published": "2026-03-30T01:10:00+00:00",
-      "summary": "新型コロナ感染リスク高まる夏 5類に移行して「風邪と同じ」なんて軽く思っていませんか？ &nbsp;&nbsp;nikkansports.com風邪の症状ひどい…もしかしたらインフル＆新型コロナかも すぐに受診すべき5つの症状とは【医師解説】（オトナンサー）&nbsp;&nbsp;Yahoo!ニュース新型コロナ感染リスク高まる夏 5類に移行して「風邪と同じ」なんて軽く思っていませんか？&nbsp;&nbsp;nikkansports.com",
+      "summary": "新型コロナ感染リスク高まる夏 5類に移行して「風邪と同じ」なんて軽く思っていませんか？ &nbsp;&nbsp;nikkansports.com風邪の症状ひどい…もしかしたらインフル＆新型コロナかも すぐに受診すべき5つの症状とは【医師解説】（オトナンサー）&nbsp;&nbsp;news.yahoo.co.jp新型コロナ感染リスク高まる夏 5類に移行して「風邪と同じ」なんて軽く思っていませんか？&nbsp;&nbsp;nikkansports.com",
       "sources": [
         {
           "name": "nikkansports.com",
@@ -1330,51 +1302,6 @@
             {
               "slug": "codeine",
               "name": "ムコブロチン配合シロップ"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "c6aeee99181f",
-      "title": "脳梗塞既往の心房細動、アブレーション追加で再発などのリスク減らず－熊本大ほか",
-      "published": "2026-03-30T00:30:00+00:00",
-      "summary": "脳梗塞既往の心房細動、アブレーション追加で再発などのリスク減らず－熊本大ほか&nbsp;&nbsp;QLifePro",
-      "sources": [
-        {
-          "name": "QLifePro",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LZzdKd3dIZFBrc2FxWkU4aFhEbVBJMElxbzVFLWotT2Q0cmh2cGhFTE9xbkZ5UFFHWnVGa0poWEg4S3BqZlVTXzlGaDZWaXhjd3h4TkRGcHhXQUhUTmZQU2w4endKUUluQ0V1VDF5UXc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "脳梗塞",
-          "related_drugs": [
-            {
-              "slug": "atorvastatin",
-              "name": "アトーゼット配合錠ＨＤ（選）"
-            },
-            {
-              "slug": "pravastatin",
-              "name": "メバロチン錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "simvastatin",
-              "name": "リポバス錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "エックスフォージ配合ＯＤ錠（選）"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "ミカムロ配合錠ＢＰ（選）"
-            },
-            {
-              "slug": "rosuvastatin",
-              "name": "クレストールＯＤ錠５ｍｇ（選）"
             }
           ]
         }
@@ -1457,31 +1384,6 @@
       ]
     },
     {
-      "id": "39ffa76a2b8e",
-      "title": "令和８年度（2026年度）帯状疱疹ワクチン予防接種のお知らせ",
-      "published": "2026-03-29T23:33:39+00:00",
-      "summary": "令和８年度（2026年度）帯状疱疹ワクチン予防接種のお知らせ&nbsp;&nbsp;city.joyo.kyoto.jp帯状疱疹ワクチンの予防接種、費用を助成/やまぐち行政相談Ｑ＆Ａ&nbsp;&nbsp;山口新聞 電子版🔵 2026年3月25日帯状疱疹ワクチン接種の翌日やや体が痛い。&nbsp;&nbsp;選挙ドットコム",
-      "sources": [
-        {
-          "name": "city.joyo.kyoto.jp",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93cWszRWRxRTJvT3psNjdITDExSmxQdDFEMzNyRGcyZlVnYXpTSFFfLTlOa0FNMXE0OEc5MGtuV2U3X0xUZUdQTXBMb283T0VxbnJ6X1FsVVRFdw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "herpes zoster",
-          "keyword": "帯状疱疹",
-          "related_drugs": [
-            {
-              "slug": "acyclovir",
-              "name": "ゾビラックス軟膏５％（選）"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "ada478a6fc43",
       "title": "大気汚染が認知症の原因に？ 米研究が示唆 - Forbes JAPAN",
       "published": "2026-03-29T23:30:00+00:00",
@@ -1511,7 +1413,7 @@
       "id": "86f3f7f63209",
       "title": "まとめて脳トレ｜記憶力や注意力を3問題でしっかりトレーニング (1/8)",
       "published": "2026-03-29T21:01:22+00:00",
-      "summary": "まとめて脳トレ｜記憶力や注意力を3問題でしっかりトレーニング (1/8)&nbsp;&nbsp;介護ポストセブン「脳トレ」「早口言葉」よりもうんと効果的…専門医が「認知症予防」に勧める「本当に脳にいいお手軽趣味」（プレジデントオンライン）&nbsp;&nbsp;Yahoo!ニュース介護歴約20年の安藤なつ（メイプル超合金）がイチから認知症の専門医に聞いた『知っトク認知症 家族と本人が自分らしく暮らし続ける超入門』2026年3月19日（木）発売！&nbsp;&nbsp;朝日新聞",
+      "summary": "まとめて脳トレ｜記憶力や注意力を3問題でしっかりトレーニング (1/8)&nbsp;&nbsp;介護ポストセブン「脳トレ」「早口言葉」よりもうんと効果的…専門医が「認知症予防」に勧める「本当に脳にいいお手軽趣味」（プレジデントオンライン）&nbsp;&nbsp;news.yahoo.co.jp介護歴約20年の安藤なつ（メイプル超合金）がイチから認知症の専門医に聞いた『知っトク認知症 家族と本人が自分らしく暮らし続ける超入門』2026年3月19日（木）発売！&nbsp;&nbsp;朝日新聞",
       "sources": [
         {
           "name": "介護ポストセブン",
@@ -1534,26 +1436,13 @@
       "matched_keywords": []
     },
     {
-      "id": "b439ad7ac820",
-      "title": "難病・希少疾患の課題「産・学・患」の共創で克服へ 製薬協など３団体が提言",
-      "published": "2026-03-29T20:00:26+00:00",
-      "summary": "難病・希少疾患の課題「産・学・患」の共創で克服へ 製薬協など３団体が提言&nbsp;&nbsp;ウーマンズラボ",
-      "sources": [
-        {
-          "name": "ウーマンズラボ",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1nODlfclBvd1pqV2VSN0dJem82anppZVRmcGJ1bnVnMlVna01oSjRYcG9oRW00SjJqQVZmeGVFQW9zdTVLRndnZTdodG1hZlhrYWdNUw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "31d7ad54a5b0",
+      "id": "63dac2492e39",
       "title": "日本人統合失調症外来患者における抗精神病薬の多剤併用パターンを調査｜CareNet.com",
       "published": "2026-03-29T19:00:00+00:00",
-      "summary": "日本人統合失調症外来患者における抗精神病薬の多剤併用パターンを調査｜CareNet.com&nbsp;&nbsp;carenet.com",
+      "summary": "日本人統合失調症外来患者における抗精神病薬の多剤併用パターンを調査｜CareNet.com&nbsp;&nbsp;CareNet.com",
       "sources": [
         {
-          "name": "carenet.com",
+          "name": "CareNet.com",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JU0NGT0VscHNYbmFBVEhzQ1hhcWZVejBFanhQeTZ3OVlHaU1oR2NYN3N2N1I3T1Q2bWRCdXdBdUphdFlCRFZkR0tWMkZITWlKcklLTXE5cy1rSXBXa3ln?oc=5"
         }
       ],
@@ -1588,26 +1477,26 @@
       ]
     },
     {
-      "id": "dfe7e3a533a7",
+      "id": "3d31b789a859",
       "title": "SGLT2阻害薬、腎臓の加齢変化抑制の可能性――老化が速い魚で検証｜CareNet.com",
       "published": "2026-03-29T19:00:00+00:00",
-      "summary": "SGLT2阻害薬、腎臓の加齢変化抑制の可能性――老化が速い魚で検証｜CareNet.com&nbsp;&nbsp;carenet.com",
+      "summary": "SGLT2阻害薬、腎臓の加齢変化抑制の可能性――老化が速い魚で検証｜CareNet.com&nbsp;&nbsp;CareNet.com",
       "sources": [
         {
-          "name": "carenet.com",
+          "name": "CareNet.com",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53OHlQTjNDTElTY2lwel8wSEpyUDJMalRNTVBsWlBNWXpvUGZ1YWtkc1RFTzZ6WlpqZm1LNmRsT1RCTWtrRlpvUl9BVml2elM0NFdQaGE0YXZ1QQ?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "f962f5c44fb0",
+      "id": "d39ab40950e6",
       "title": "辛い食品は炎症性腸疾患リスクを上げるのか｜CareNet.com",
       "published": "2026-03-29T19:00:00+00:00",
-      "summary": "辛い食品は炎症性腸疾患リスクを上げるのか｜CareNet.com&nbsp;&nbsp;carenet.com",
+      "summary": "辛い食品は炎症性腸疾患リスクを上げるのか｜CareNet.com&nbsp;&nbsp;CareNet.com",
       "sources": [
         {
-          "name": "carenet.com",
+          "name": "CareNet.com",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QWjBPdVZrME9iSy1ZWC1wUWtqTHp0WEw2dllIc01FV0FfaEpzT1hkekhRMFI2cHMzMnNUeXZXaTBjbDVZaFh2VXlELWtzSDYzckFZY1diVGtGOEJRcFJv?oc=5"
         }
       ],
