@@ -1,7 +1,162 @@
 {
-  "generated": "2026-03-31T07:02:26.373788+00:00",
-  "count": 13,
+  "generated": "2026-03-31T12:54:05.636658+00:00",
+  "count": 16,
   "news": [
+    {
+      "id": "83158355a30c",
+      "title": "せき、喘息、心疾患など心と肺にまつわる症状に効く「霊台」。うなじのこわばりも緩和(家庭画報.com)",
+      "published": "2026-03-31T12:10:01+00:00",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/1226cb8b62d84365da04fa9990bdf727e96639e1?source=rss"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心疾患",
+          "related_drugs": [
+            {
+              "slug": "nifedipine",
+              "name": "アダラートＣＲ錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "atorvastatin",
+              "name": "アトーゼット配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "atenolol",
+              "name": "テノーミン錠５０　５０ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "spironolactone",
+              "name": "アルダクトンＡ錠５０ｍｇ（選）"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "ロプレソール錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "enalapril",
+              "name": "レニベース錠１０　１０ｍｇ（選）"
+            },
+            {
+              "slug": "lisinopril",
+              "name": "ロンゲス錠２０ｍｇ（選）"
+            },
+            {
+              "slug": "diltiazem",
+              "name": "ヘルベッサー錠６０　６０ｍｇ（選）"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "エックスフォージ配合ＯＤ錠（選）"
+            },
+            {
+              "slug": "furosemide",
+              "name": "ラシックス錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "clopidogrel",
+              "name": "プラビックス錠７５ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "verapamil",
+              "name": "ワソラン錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrochlorothiazide",
+              "name": "プレミネント配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "asthma",
+          "keyword": "喘息",
+          "related_drugs": [
+            {
+              "slug": "theophylline",
+              "name": "ユニコン錠１００　１００ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "budesonide",
+              "name": "シムビコートタービュヘイラー６０吸入（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "399ecc1725e8",
+      "title": "心不全のリスクは体重よりお腹が重要!?BMI値では見えない危険信号とは - @DIME アットダイム",
+      "published": "2026-03-31T09:35:12+00:00",
+      "sources": [
+        {
+          "name": "@DIME アットダイム",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBvMHdldlNVci00MDRVSWZkdk40aXZhLUlocF9YYnBlcWlaS0ZvVW8teEVsWW1RZzZiazM0TENHTFFFVUh1?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "heart failure",
+          "keyword": "心不全",
+          "related_drugs": [
+            {
+              "slug": "enalapril",
+              "name": "レニベース錠１０　１０ｍｇ（選）"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "39a4daee6027",
       "title": "胃も大腸も、症状が出てからでは遅い？ 専門医が語る、40代からの内視鏡検査のすすめ(Medical Note)",
@@ -67,12 +222,12 @@
       ]
     },
     {
-      "id": "896f7cec88ff",
+      "id": "bd21a5e81062",
       "title": "1日にさらに11分睡眠をとると、脳卒中のリスクを減らすのに役立ちます",
       "published": "2026-03-31T03:00:00+00:00",
       "sources": [
         {
-          "name": "Laodong.vn",
+          "name": "ja.laodong.vn",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeS02VDJZY0E1aXQwdUt3Zk9ncDFwc3htUHg5QWd3Slk4SFpmOXNUcE9QXzRpSnJkcEsyLVg4Z09lUnIzWlQydW41dUV5WHVmOVoyR3dOQThwZS02b3BpZlk5QzVySlp3ZTcyTjBRSHktazNoTElmUm55eHA5MkZJampxeW9Fc09zbEN3V2phcXh5QlNuQWJ1c3d3ZHhEY1dHaVpV?oc=5"
         }
       ],
@@ -213,12 +368,127 @@
       ]
     },
     {
-      "id": "542c7d55341f",
+      "id": "84c162ea85d9",
+      "title": "「おまえを殺す」大きな枝で追われた日。難病で「バイオ」と呼ばれた女性がいじめを耐え抜いた「小6の夢」",
+      "published": "2026-03-30T21:30:00+00:00",
+      "sources": [
+        {
+          "name": "ライブドアニュース",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE56ckZYYjdxN3BPbHlQa2ZhaW9CQjR4RUg2dFBKcGxpUVgxYUV3NVZHZXZQajBoUXZKZnozd0JMVmdLVF9YY2dBcjVhdWdjZ29XbHcyU3NGZ1VrbHJpUmR3?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腫瘍",
+          "keyword": "腫瘍",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1ec1d40cebdc",
       "title": "「心疾患患者の妊娠・出産の適応、管理に関するガイドライン」をフォーカスアップデート／日本循環器学会｜CareNet.com",
       "published": "2026-03-30T19:00:00+00:00",
       "sources": [
         {
-          "name": "CareNet.com",
+          "name": "carenet.com",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBkd0Nwd0VPRk96QlFzVmFzYUx6YXJTbF9LUWpLeUhDVy1pcHFEeVBNTS02bGZ1aGxVSm9YQXc2ZlNCNzRZMC16clBESUdNSF9MWlZtclFUbF9jZ0JFR2sw?oc=5"
         }
       ],
@@ -433,12 +703,12 @@
       ]
     },
     {
-      "id": "e1fc09e0ad5a",
+      "id": "beb8761efddb",
       "title": "乾癬性関節炎の薬物療法に男女差",
       "published": "2026-03-30T06:15:00+00:00",
       "sources": [
         {
-          "name": "時事メディカル",
+          "name": "medical.jiji.com",
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1HNDNWeGxra0dzazRZR0RFb2g4WlpiVWV3MWktMG91cld3R2t4TTJDcFE5cGpNS2t3NnUtNnVNY2taQ0FGVVlXYzl0aw?oc=5"
         }
       ],
@@ -715,12 +985,12 @@
       ]
     },
     {
-      "id": "b5d0816ef426",
+      "id": "c6aeee99181f",
       "title": "脳梗塞既往の心房細動、アブレーション追加で再発などのリスク減らず－熊本大ほか",
       "published": "2026-03-30T00:30:00+00:00",
       "sources": [
         {
-          "name": "qlifepro.com",
+          "name": "QLifePro",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LZzdKd3dIZFBrc2FxWkU4aFhEbVBJMElxbzVFLWotT2Q0cmh2cGhFTE9xbkZ5UFFHWnVGa0poWEg4S3BqZlVTXzlGaDZWaXhjd3h4TkRGcHhXQUhUTmZQU2w4endKUUluQ0V1VDF5UXc?oc=5"
         }
       ],
@@ -759,12 +1029,12 @@
       ]
     },
     {
-      "id": "048a55816a1c",
+      "id": "50e11ddcbf87",
       "title": "乳がんと診断され、娘たちの成長を見届けるために仕事より家庭を選んだ私の決断",
       "published": "2026-03-29T23:38:47+00:00",
       "sources": [
         {
-          "name": "がん情報サイト「オンコロ」",
+          "name": "oncolo.jp",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aVnFLUGtsdEtveWF4ZlNjZ1dhZ1h5eW43NS1xNXFFbXpPdUlmbUhLTTcyZlB5WDFmbUJ6dlg3T1VpbVMyZjV4MTJBYjhYVnd0SWtj?oc=5"
         }
       ],
@@ -858,12 +1128,12 @@
       ]
     },
     {
-      "id": "63dac2492e39",
+      "id": "31d7ad54a5b0",
       "title": "日本人統合失調症外来患者における抗精神病薬の多剤併用パターンを調査｜CareNet.com",
       "published": "2026-03-29T19:00:00+00:00",
       "sources": [
         {
-          "name": "CareNet.com",
+          "name": "carenet.com",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1JU0NGT0VscHNYbmFBVEhzQ1hhcWZVejBFanhQeTZ3OVlHaU1oR2NYN3N2N1I3T1Q2bWRCdXdBdUphdFlCRFZkR0tWMkZITWlKcklLTXE5cy1rSXBXa3ln?oc=5"
         }
       ],
