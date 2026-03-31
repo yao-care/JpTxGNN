@@ -1,15 +1,15 @@
 {
-  "generated": "2026-03-31T01:23:41.033618+00:00",
+  "generated": "2026-03-31T07:02:26.373788+00:00",
   "count": 13,
   "news": [
     {
-      "id": "17c35b115128",
-      "title": "吉井怜、急性白血病「再発の恐怖を救った」母からの骨髄移植。絶望の中で命を優先した決断の背景(メディカルドック)",
-      "published": "2026-03-31T01:00:03+00:00",
+      "id": "39a4daee6027",
+      "title": "胃も大腸も、症状が出てからでは遅い？ 専門医が語る、40代からの内視鏡検査のすすめ(Medical Note)",
+      "published": "2026-03-31T04:51:04+00:00",
       "sources": [
         {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/de080387654511aa5fe2959972268940a07b791f?source=rss"
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/65c80e9446ab5c5161c0ece8c4687b0ff307fea2?source=rss"
         }
       ],
       "keywords": [
@@ -61,6 +61,152 @@
             {
               "slug": "hydrocortisone",
               "name": "ヘモレックス軟膏"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "896f7cec88ff",
+      "title": "1日にさらに11分睡眠をとると、脳卒中のリスクを減らすのに役立ちます",
+      "published": "2026-03-31T03:00:00+00:00",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeS02VDJZY0E1aXQwdUt3Zk9ncDFwc3htUHg5QWd3Slk4SFpmOXNUcE9QXzRpSnJkcEsyLVg4Z09lUnIzWlQydW41dUV5WHVmOVoyR3dOQThwZS02b3BpZlk5QzVySlp3ZTcyTjBRSHktazNoTElmUm55eHA5MkZJampxeW9Fc09zbEN3V2phcXh5QlNuQWJ1c3d3ZHhEY1dHaVpV?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "心臓病",
+          "related_drugs": [
+            {
+              "slug": "nifedipine",
+              "name": "アダラートＣＲ錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "atorvastatin",
+              "name": "アトーゼット配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "atenolol",
+              "name": "テノーミン錠５０　５０ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "spironolactone",
+              "name": "アルダクトンＡ錠５０ｍｇ（選）"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "ロプレソール錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "enalapril",
+              "name": "レニベース錠１０　１０ｍｇ（選）"
+            },
+            {
+              "slug": "lisinopril",
+              "name": "ロンゲス錠２０ｍｇ（選）"
+            },
+            {
+              "slug": "diltiazem",
+              "name": "ヘルベッサー錠６０　６０ｍｇ（選）"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "エックスフォージ配合ＯＤ錠（選）"
+            },
+            {
+              "slug": "furosemide",
+              "name": "ラシックス錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "clopidogrel",
+              "name": "プラビックス錠７５ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "verapamil",
+              "name": "ワソラン錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrochlorothiazide",
+              "name": "プレミネント配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心臓発作",
+          "related_drugs": [
+            {
+              "slug": "atenolol",
+              "name": "テノーミン錠５０　５０ｍｇ（選）"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "ロプレソール錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "lisinopril",
+              "name": "ロンゲス錠２０ｍｇ（選）"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "脳卒中",
+          "related_drugs": [
+            {
+              "slug": "atorvastatin",
+              "name": "アトーゼット配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "pravastatin",
+              "name": "メバロチン錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "simvastatin",
+              "name": "リポバス錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "エックスフォージ配合ＯＤ錠（選）"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "ミカムロ配合錠ＢＰ（選）"
+            },
+            {
+              "slug": "rosuvastatin",
+              "name": "クレストールＯＤ錠５ｍｇ（選）"
             }
           ]
         }
@@ -227,12 +373,12 @@
       ]
     },
     {
-      "id": "cb1ae8c35a3f",
+      "id": "08748ce440ce",
       "title": "GLP-1受容体作動薬の投与で1型糖尿病の心血管・腎保護の可能性 米国の大規模電子カルテデータ解析",
       "published": "2026-03-30T06:46:23+00:00",
       "sources": [
         {
-          "name": "dm-rg.net",
+          "name": "糖尿病リソースガイド",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aN0Vhc1RwNl9OQncwTF9hdzBHQ2NkX1l3OGN3Mm1vejdsQXZSNDQ1NFpNRzFZS0ltZm5pLVVNT0FWeUtHSGNjMVZCdUFjYnVTcGg3Y29EVTg4MzVNWnBuMU9qa2lqeUY1ZWc4?oc=5"
         }
       ],
@@ -569,12 +715,12 @@
       ]
     },
     {
-      "id": "c6aeee99181f",
+      "id": "b5d0816ef426",
       "title": "脳梗塞既往の心房細動、アブレーション追加で再発などのリスク減らず－熊本大ほか",
       "published": "2026-03-30T00:30:00+00:00",
       "sources": [
         {
-          "name": "QLifePro",
+          "name": "qlifepro.com",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LZzdKd3dIZFBrc2FxWkU4aFhEbVBJMElxbzVFLWotT2Q0cmh2cGhFTE9xbkZ5UFFHWnVGa0poWEg4S3BqZlVTXzlGaDZWaXhjd3h4TkRGcHhXQUhUTmZQU2w4endKUUluQ0V1VDF5UXc?oc=5"
         }
       ],
@@ -746,30 +892,6 @@
             {
               "slug": "aripiprazole",
               "name": "エビリファイ錠１ｍｇ（選）"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "3963f27ff25c",
-      "title": "2030年に患者数130万人超―増え続ける心不全の6割を占めるタイプに新薬が承認(メディカルドック)",
-      "published": "2026-03-27T03:07:06+00:00",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/b1047890dd3eddae0f237ad08b8df666e2e9f6d7?source=rss"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "heart failure",
-          "keyword": "心不全",
-          "related_drugs": [
-            {
-              "slug": "enalapril",
-              "name": "レニベース錠１０　１０ｍｇ（選）"
             }
           ]
         }
