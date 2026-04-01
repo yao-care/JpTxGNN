@@ -1,15 +1,15 @@
 {
-  "generated": "2026-04-01T07:08:46.142110+00:00",
-  "count": 13,
+  "generated": "2026-04-01T12:56:14.995719+00:00",
+  "count": 14,
   "news": [
     {
-      "id": "b29cff36f0d9",
-      "title": "AIがHE染色像からがん組織内の高次元タンパク質発現マップを高精度に予測（2026/2/2）",
-      "published": "2026-04-01T00:43:31+00:00",
+      "id": "fa164921fe44",
+      "title": "「若いから大丈夫」は危険？ 20代・30代・40代に大腸カメラが必要な理由【医師監修】(メディカルドック)",
+      "published": "2026-04-01T10:02:49+00:00",
       "sources": [
         {
-          "name": "インナビネット",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vN0VxUEFPaldRYmJOSFVTeFZQc0Fyd1hNUXlqMjFLcmZOM0xEd3pLdDZJeU92LXh5dDNUUENyN2dZM1Nhdm12X29JUy1NVTZnZXg2d1kwTHNNa0hJTXBtT2dYWkRIbTBHYi1Md1hOaXJPWmc?oc=5"
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/2129ed4829f07416a02955e784d965b795aad2d5?source=rss"
         }
       ],
       "keywords": [
@@ -374,6 +374,50 @@
       ]
     },
     {
+      "id": "749cc8b774ed",
+      "title": "脳梗塞既往のある心房細動患者へのアブレーション追加は効果に乏しい",
+      "published": "2026-03-31T14:45:02+00:00",
+      "sources": [
+        {
+          "name": "日経メディカル",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkSHBieXFRNmU1eU1UdDdfLWRCNnJXWFM3VG9oTE1iOF9wVFhpSFNxTGpPeXA1SUxKVzFMWFRfV1BraF94RERQS1U0VHNaNVZLNXRRMTVKU013b1UzaGxNMTl5VUlRT2ZENjUtdHRCS0xxM1FtU1lXcHVZS3F2eUk?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "脳梗塞",
+          "related_drugs": [
+            {
+              "slug": "atorvastatin",
+              "name": "アトーゼット配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "pravastatin",
+              "name": "メバロチン錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "simvastatin",
+              "name": "リポバス錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "エックスフォージ配合ＯＤ錠（選）"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "ミカムロ配合錠ＢＰ（選）"
+            },
+            {
+              "slug": "rosuvastatin",
+              "name": "クレストールＯＤ錠５ｍｇ（選）"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "4ea694928f86",
       "title": "「もうどうにでもなれ」腰痛と思ったら希少がんだった。難病の女性が腫瘍を隠さず「覚悟の写真」を公開した訳（CHANTO WEB）",
       "published": "2026-03-31T11:00:38+00:00",
@@ -577,118 +621,16 @@
       ]
     },
     {
-      "id": "896f7cec88ff",
+      "id": "bd21a5e81062",
       "title": "1日にさらに11分睡眠をとると、脳卒中のリスクを減らすのに役立ちます",
       "published": "2026-03-31T03:00:00+00:00",
       "sources": [
         {
-          "name": "Laodong.vn",
+          "name": "ja.laodong.vn",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeS02VDJZY0E1aXQwdUt3Zk9ncDFwc3htUHg5QWd3Slk4SFpmOXNUcE9QXzRpSnJkcEsyLVg4Z09lUnIzWlQydW41dUV5WHVmOVoyR3dOQThwZS02b3BpZlk5QzVySlp3ZTcyTjBRSHktazNoTElmUm55eHA5MkZJampxeW9Fc09zbEN3V2phcXh5QlNuQWJ1c3d3ZHhEY1dHaVpV?oc=5"
         }
       ],
       "keywords": [
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臓病",
-          "related_drugs": [
-            {
-              "slug": "nifedipine",
-              "name": "アダラートＣＲ錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "atorvastatin",
-              "name": "アトーゼット配合錠ＨＤ（選）"
-            },
-            {
-              "slug": "atenolol",
-              "name": "テノーミン錠５０　５０ｍｇ（選）"
-            },
-            {
-              "slug": "propranolol",
-              "name": "インデラル錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "spironolactone",
-              "name": "アルダクトンＡ錠５０ｍｇ（選）"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "ロプレソール錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "enalapril",
-              "name": "レニベース錠１０　１０ｍｇ（選）"
-            },
-            {
-              "slug": "lisinopril",
-              "name": "ロンゲス錠２０ｍｇ（選）"
-            },
-            {
-              "slug": "diltiazem",
-              "name": "ヘルベッサー錠６０　６０ｍｇ（選）"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "エックスフォージ配合ＯＤ錠（選）"
-            },
-            {
-              "slug": "furosemide",
-              "name": "ラシックス錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "clopidogrel",
-              "name": "プラビックス錠７５ｍｇ（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "verapamil",
-              "name": "ワソラン錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "hydrochlorothiazide",
-              "name": "プレミネント配合錠ＨＤ（選）"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "心臓発作",
-          "related_drugs": [
-            {
-              "slug": "atenolol",
-              "name": "テノーミン錠５０　５０ｍｇ（選）"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "ロプレソール錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "lisinopril",
-              "name": "ロンゲス錠２０ｍｇ（選）"
-            }
-          ]
-        },
         {
           "type": "indication",
           "name": "stroke",
