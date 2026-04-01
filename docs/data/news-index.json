@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-01T01:44:15.484527+00:00",
-  "count": 16,
+  "generated": "2026-04-01T07:08:46.142110+00:00",
+  "count": 13,
   "news": [
     {
       "id": "b29cff36f0d9",
@@ -350,12 +350,36 @@
       ]
     },
     {
-      "id": "bcfe2825cfe9",
+      "id": "81f7d3d72ada",
+      "title": "帯状疱疹予防接種",
+      "published": "2026-03-31T15:03:43+00:00",
+      "sources": [
+        {
+          "name": "town.shisui.chiba.jp",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFRk5FVHYyV0prcFJ2Nk5SU2NvMFJUVFdEVjM4SVhNWjg3aVhRU2JiWmJQbHJOd19WV1otZ2E4VEw0b2hsM01qVzZWTW8zdHhlMG9RXzF4bmxGc0h4Z21lVl93?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "herpes zoster",
+          "keyword": "帯状疱疹",
+          "related_drugs": [
+            {
+              "slug": "acyclovir",
+              "name": "ゾビラックス軟膏５％（選）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4ea694928f86",
       "title": "「もうどうにでもなれ」腰痛と思ったら希少がんだった。難病の女性が腫瘍を隠さず「覚悟の写真」を公開した訳（CHANTO WEB）",
       "published": "2026-03-31T11:00:38+00:00",
       "sources": [
         {
-          "name": "news.yahoo.co.jp",
+          "name": "Yahoo!ニュース",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxNkFmWDd2XzdfUUtlTXlUeV8xM3Y4LWVZNjR2UnRFM3Z5N3FtT3NDYUNsMlpsWmx3bE1TN1lubHNfSW4waXVxX3dqbEV0WFU5ejZMOWNGaGJVdUpSTVJZSU1UY1RBVmpKYVR4UGhITkN4SHFuelIzbFZVNzdxUzg?oc=5"
         }
       ],
@@ -859,240 +883,6 @@
       ]
     },
     {
-      "id": "08748ce440ce",
-      "title": "GLP-1受容体作動薬の投与で1型糖尿病の心血管・腎保護の可能性 米国の大規模電子カルテデータ解析",
-      "published": "2026-03-30T06:46:23+00:00",
-      "sources": [
-        {
-          "name": "糖尿病リソースガイド",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9aN0Vhc1RwNl9OQncwTF9hdzBHQ2NkX1l3OGN3Mm1vejdsQXZSNDQ1NFpNRzFZS0ltZm5pLVVNT0FWeUtHSGNjMVZCdUFjYnVTcGg3Y29EVTg4MzVNWnBuMU9qa2lqeUY1ZWc4?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "atorvastatin",
-              "name": "アトーゼット配合錠ＨＤ（選）"
-            },
-            {
-              "slug": "pravastatin",
-              "name": "メバロチン錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "atenolol",
-              "name": "テノーミン錠５０　５０ｍｇ（選）"
-            },
-            {
-              "slug": "simvastatin",
-              "name": "リポバス錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "ロプレソール錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "lisinopril",
-              "name": "ロンゲス錠２０ｍｇ（選）"
-            },
-            {
-              "slug": "rosuvastatin",
-              "name": "クレストールＯＤ錠５ｍｇ（選）"
-            },
-            {
-              "slug": "clopidogrel",
-              "name": "プラビックス錠７５ｍｇ（選）"
-            },
-            {
-              "slug": "verapamil",
-              "name": "ワソラン錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "prasugrel",
-              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "e1fc09e0ad5a",
-      "title": "乾癬性関節炎の薬物療法に男女差",
-      "published": "2026-03-30T06:15:00+00:00",
-      "sources": [
-        {
-          "name": "時事メディカル",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1HNDNWeGxra0dzazRZR0RFb2g4WlpiVWV3MWktMG91cld3R2t4TTJDcFE5cGpNS2t3NnUtNnVNY2taQ0FGVVlXYzl0aw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "rheumatoid arthritis",
-          "keyword": "関節炎",
-          "related_drugs": [
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "cyclosporine",
-              "name": "ネオーラル５０ｍｇカプセル（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "meloxicam",
-              "name": "モービック錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "diclofenac",
-              "name": "ボルタレンサポ５０ｍｇ（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "celecoxib",
-              "name": "セレコックス錠２００ｍｇ（選）"
-            },
-            {
-              "slug": "ibuprofen",
-              "name": "ブルフェン顆粒２０％（選）"
-            },
-            {
-              "slug": "loxoprofen",
-              "name": "ロキソニンゲル１％（選）"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "psoriasis",
-          "keyword": "乾癬",
-          "related_drugs": [
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "09246d31c408",
-      "title": "家族が『乳がん』と診断されたら？ 遺伝する割合と自分でできる対策",
-      "published": "2026-03-30T04:03:31+00:00",
-      "sources": [
-        {
-          "name": "メディカルドック",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5GTllrZnR3QzdfcVNpRlZ5SnQ1THVXcDVoNTU5WWtCT3VETl9LOE5yM1ZBendqYmJaTTZFT1ZvbnhzdDlBX2VtYkYwWWc0OXJLckxxRHBtWG4?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "がん",
-          "related_drugs": [
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "ゼローダ錠３００　３００ｍｇ（選）"
-            },
-            {
-              "slug": "propranolol",
-              "name": "インデラル錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "imatinib",
-              "name": "グリベック錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳がん",
-          "related_drugs": [
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "078aa654b662",
       "title": "お酒で顔が赤くなる人は注意？ 食道がんのリスク、見逃しやすいサイン、治療の選択肢とは(Medical Note)",
       "published": "2026-03-30T03:31:11+00:00",
@@ -1151,50 +941,6 @@
             {
               "slug": "hydrocortisone",
               "name": "ヘモレックス軟膏"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "a48ccb9c46fb",
-      "title": "新型コロナ感染リスク高まる夏　5類に移行して「風邪と同じ」なんて軽く思っていませんか？",
-      "published": "2026-03-30T01:10:00+00:00",
-      "sources": [
-        {
-          "name": "nikkansports.com",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqbTVDMTN2eGpaUWVMamU4M1M5Njh3SDVpOFNYTUV6OGZrcWI5WnZLME5Bc1FKNEpYVVlxOTNVTzU3UlVyR2VkVVVuY0pFRUNpTW9ycnhweWE1eVlWMk5zQlBINXI1MWJDaVJJYmhES3M3LWdiSTRyMNIBgAFBVV95cUxQa1o5Njh5WnRBMnQza0NLZnR3a0RCbTBnbmxpVkhySGkzWXpKT1BCSlM3M2ZoMWFydElGV2Q1dkFacmo2MTVOdExacFUwbGU4T2duVzFSVVJMQnBlYkpSMEJLRDZzcjZZYnFYUGY0bWdJOUR3bFVVV29DQWgtcllVWg?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "風邪",
-          "related_drugs": [
-            {
-              "slug": "cetirizine",
-              "name": "ザイザルシロップ０．０５％（選）"
-            },
-            {
-              "slug": "loratadine",
-              "name": "クラリチン錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "chlorpheniramine",
-              "name": "セレスタミン配合錠（選）"
-            },
-            {
-              "slug": "dextromethorphan",
-              "name": "デキストロメトルファン臭化水素酸塩細粒１０％「ツルハラ」"
-            },
-            {
-              "slug": "acetaminophen",
-              "name": "トラムセット配合錠（選）"
-            },
-            {
-              "slug": "codeine",
-              "name": "ムコブロチン配合シロップ"
             }
           ]
         }
