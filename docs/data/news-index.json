@@ -1,22 +1,22 @@
 {
-  "generated": "2026-04-02T01:20:43.403643+00:00",
+  "generated": "2026-04-02T07:00:53.775095+00:00",
   "count": 21,
   "news": [
     {
-      "id": "ac35879fbabe",
-      "title": "AIによる肺扁平上皮癌の誤分類評価 - The Medical AI Times",
-      "published": "2026-04-02T01:00:00+00:00",
+      "id": "32524845a14b",
+      "title": "支援ロボット「ダビンチ」と「ANSUR：アンサー」の特徴と、それを活かした手術とは(Medical Note)",
+      "published": "2026-04-02T02:50:37+00:00",
       "sources": [
         {
-          "name": "The Medical AI Times",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94Z3o5QlMyTTh1cERPeGg0Mmp0UlVJN25pZE9XTGRubmVsSWhWVEVnMDA2Sng1RzFKN1dVdXRkSjA0dExGYU01U25yQkVzWGJB?oc=5"
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/4a9344a18da6f0a74ffe248ffdabd1c95507fab0?source=rss"
         }
       ],
       "keywords": [
         {
           "type": "indication",
           "name": "generic_cancer",
-          "keyword": "癌",
+          "keyword": "がん",
           "related_drugs": [
             {
               "slug": "methotrexate",
@@ -67,20 +67,20 @@
       ]
     },
     {
-      "id": "602c4bbcac78",
-      "title": "送別会帰りに受けた『ヨメ死去』の連絡――結婚から1年4カ月での別れと、シングルファザーの「もし僕が死んでしまえば…」の想い(マイナビニュース)",
-      "published": "2026-04-01T23:31:12+00:00",
+      "id": "ac35879fbabe",
+      "title": "AIによる肺扁平上皮癌の誤分類評価 - The Medical AI Times",
+      "published": "2026-04-02T01:00:00+00:00",
       "sources": [
         {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/f5750f2897e82500dee937cb521c73c34763861f?source=rss"
+          "name": "The Medical AI Times",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94Z3o5QlMyTTh1cERPeGg0Mmp0UlVJN25pZE9XTGRubmVsSWhWVEVnMDA2Sng1RzFKN1dVdXRkSjA0dExGYU01U25yQkVzWGJB?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
           "name": "generic_cancer",
-          "keyword": "がん",
+          "keyword": "癌",
           "related_drugs": [
             {
               "slug": "methotrexate",
@@ -1003,6 +1003,30 @@
       ]
     },
     {
+      "id": "81f7d3d72ada",
+      "title": "帯状疱疹予防接種",
+      "published": "2026-03-31T15:03:43+00:00",
+      "sources": [
+        {
+          "name": "town.shisui.chiba.jp",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBFRk5FVHYyV0prcFJ2Nk5SU2NvMFJUVFdEVjM4SVhNWjg3aVhRU2JiWmJQbHJOd19WV1otZ2E4VEw0b2hsM01qVzZWTW8zdHhlMG9RXzF4bmxGc0h4Z21lVl93?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "herpes zoster",
+          "keyword": "帯状疱疹",
+          "related_drugs": [
+            {
+              "slug": "acyclovir",
+              "name": "ゾビラックス軟膏５％（選）"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "749cc8b774ed",
       "title": "脳梗塞既往のある心房細動患者へのアブレーション追加は効果に乏しい",
       "published": "2026-03-31T14:45:02+00:00",
@@ -1244,69 +1268,6 @@
             {
               "slug": "hydrocortisone",
               "name": "ヘモレックス軟膏"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "896f7cec88ff",
-      "title": "1日にさらに11分睡眠をとると、脳卒中のリスクを減らすのに役立ちます",
-      "published": "2026-03-31T03:00:00+00:00",
-      "sources": [
-        {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeS02VDJZY0E1aXQwdUt3Zk9ncDFwc3htUHg5QWd3Slk4SFpmOXNUcE9QXzRpSnJkcEsyLVg4Z09lUnIzWlQydW41dUV5WHVmOVoyR3dOQThwZS02b3BpZlk5QzVySlp3ZTcyTjBRSHktazNoTElmUm55eHA5MkZJampxeW9Fc09zbEN3V2phcXh5QlNuQWJ1c3d3ZHhEY1dHaVpV?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "心臓発作",
-          "related_drugs": [
-            {
-              "slug": "atenolol",
-              "name": "テノーミン錠５０　５０ｍｇ（選）"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "ロプレソール錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "lisinopril",
-              "name": "ロンゲス錠２０ｍｇ（選）"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "脳卒中",
-          "related_drugs": [
-            {
-              "slug": "atorvastatin",
-              "name": "アトーゼット配合錠ＨＤ（選）"
-            },
-            {
-              "slug": "pravastatin",
-              "name": "メバロチン錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "simvastatin",
-              "name": "リポバス錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "エックスフォージ配合ＯＤ錠（選）"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "ミカムロ配合錠ＢＰ（選）"
-            },
-            {
-              "slug": "rosuvastatin",
-              "name": "クレストールＯＤ錠５ｍｇ（選）"
             }
           ]
         }
