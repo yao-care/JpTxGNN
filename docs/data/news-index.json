@@ -1,79 +1,7 @@
 {
-  "generated": "2026-04-02T12:50:18.607664+00:00",
-  "count": 20,
+  "generated": "2026-04-02T18:42:53.628117+00:00",
+  "count": 16,
   "news": [
-    {
-      "id": "762be1196245",
-      "title": "せきや喘息のほか、不安感を緩和する「身柱」。夜泣きや「かんの虫」の治療にも(家庭画報.com)",
-      "published": "2026-04-02T12:00:55+00:00",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/ae32bb4951232e4e3fe00a0d24f2aeb384d61b83?source=rss"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "asthma",
-          "keyword": "喘息",
-          "related_drugs": [
-            {
-              "slug": "theophylline",
-              "name": "ユニコン錠１００　１００ｍｇ（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "budesonide",
-              "name": "シムビコートタービュヘイラー６０吸入（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f29908a4c38f",
-      "title": "鹿児島市の10代男性がはしか感染 県内で今年26例目",
-      "published": "2026-04-02T09:00:00+00:00",
-      "sources": [
-        {
-          "name": "南日本新聞",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1fYlVHZVl3X2U2dnJSbVV3ZlRWeHVtelU3R0hrMHBQSmlwajhieWR0NGs4ak43M2JrWXdieHE5anF1ZXp0UURnTEoyMk52Rld2Znc0RkZKRQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "influenza",
-          "keyword": "インフルエンザ",
-          "related_drugs": [
-            {
-              "slug": "oseltamivir",
-              "name": "タミフルドライシロップ３％（選）"
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "32524845a14b",
       "title": "支援ロボット「ダビンチ」と「ANSUR：アンサー」の特徴と、それを活かした手術とは(Medical Note)",
@@ -704,12 +632,12 @@
       ]
     },
     {
-      "id": "bac6656f6c4f",
+      "id": "7bec13e1f3df",
       "title": "COVID-19、インフルエンザ、RSVの免疫応答の違いをAIで解析",
       "published": "2026-04-01T14:45:14+00:00",
       "sources": [
         {
-          "name": "日経メディカル",
+          "name": "medical.nikkeibp.co.jp",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMXZvSUhsV0pRa1ZBUTFUeDNXR3IwalRwTlI1bmczX1FrOGxaT0Q1WVNWalhfRE12bTc2NERjZzlfREhGaEtXcDR0YmUzVF92d29oVmZYTFR6LUNSWElSTzlXUkkyaGRpbzdvRUxiYldibFpldFJTNXBuMmM1R2oxV1N6WFQ?oc=5"
         }
       ],
@@ -1005,114 +933,6 @@
             {
               "slug": "aripiprazole",
               "name": "エビリファイ錠１ｍｇ（選）"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f040a2344300",
-      "title": "R8年度のがん検診のご案内",
-      "published": "2026-03-31T15:09:46+00:00",
-      "sources": [
-        {
-          "name": "vill.chihayaakasaka.osaka.jp",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE10eU5Oa1FEdXNxLVdKelcwcWhMbkQ2dzZja0dIRU9rcGNaUE1TOERZakNFaEZwQ2EtWGszT0dfSGFucjZJYzBSWnhSdWJKM0lGTjVfTXZCSjhDa0p3SWo3bHZGREVXOWM4WjJ0TGJGbk5NZmVhZWZrNnJuUkF5UQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "がん",
-          "related_drugs": [
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "ゼローダ錠３００　３００ｍｇ（選）"
-            },
-            {
-              "slug": "propranolol",
-              "name": "インデラル錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "imatinib",
-              "name": "グリベック錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "749cc8b774ed",
-      "title": "脳梗塞既往のある心房細動患者へのアブレーション追加は効果に乏しい",
-      "published": "2026-03-31T14:45:02+00:00",
-      "sources": [
-        {
-          "name": "日経メディカル",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkSHBieXFRNmU1eU1UdDdfLWRCNnJXWFM3VG9oTE1iOF9wVFhpSFNxTGpPeXA1SUxKVzFMWFRfV1BraF94RERQS1U0VHNaNVZLNXRRMTVKU013b1UzaGxNMTl5VUlRT2ZENjUtdHRCS0xxM1FtU1lXcHVZS3F2eUk?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "脳梗塞",
-          "related_drugs": [
-            {
-              "slug": "atorvastatin",
-              "name": "アトーゼット配合錠ＨＤ（選）"
-            },
-            {
-              "slug": "pravastatin",
-              "name": "メバロチン錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "simvastatin",
-              "name": "リポバス錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "エックスフォージ配合ＯＤ錠（選）"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "ミカムロ配合錠ＢＰ（選）"
-            },
-            {
-              "slug": "rosuvastatin",
-              "name": "クレストールＯＤ錠５ｍｇ（選）"
             }
           ]
         }
