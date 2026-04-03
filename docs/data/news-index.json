@@ -1,15 +1,59 @@
 {
-  "generated": "2026-04-03T06:57:45.515012+00:00",
+  "generated": "2026-04-03T12:40:31.577418+00:00",
   "count": 17,
   "news": [
     {
-      "id": "bbf23883ac84",
-      "title": "神戸市立医療センター西市民病院で医療事故　外傷診断目的で受診・70代女性患者のCT撮影した際に放射線科医が『がん』見落とす　女性患者はがんが進行して死亡(FNNプライムオンライン)",
-      "published": "2026-04-03T06:09:23+00:00",
+      "id": "1b1b7a1e095d",
+      "title": "風邪の発熱や頭痛、メンタル不調に効く「陶道」。背中の痛みやマラリアにも奏効(家庭画報.com)",
+      "published": "2026-04-03T12:20:09+00:00",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/bfe0a80af71d1db5f52c1b163bd79632536db8f4?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/de5cef20856dcd222b777913aecfaba2e767008e?source=rss"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "風邪",
+          "related_drugs": [
+            {
+              "slug": "cetirizine",
+              "name": "ザイザルシロップ０．０５％（選）"
+            },
+            {
+              "slug": "loratadine",
+              "name": "クラリチン錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "chlorpheniramine",
+              "name": "セレスタミン配合錠（選）"
+            },
+            {
+              "slug": "dextromethorphan",
+              "name": "デキストロメトルファン臭化水素酸塩細粒１０％「ツルハラ」"
+            },
+            {
+              "slug": "acetaminophen",
+              "name": "トラムセット配合錠（選）"
+            },
+            {
+              "slug": "codeine",
+              "name": "ムコブロチン配合シロップ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "49893a1edd32",
+      "title": "がん予防の権威である医師開発の野菜って！？ビタミンCよりも抗酸化力が長時間続き、老化予防にも最適で「しかもワンコイン以下」スーパーフードとは(OTONA SALONE)",
+      "published": "2026-04-03T12:02:01+00:00",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/5ca6788091363142bdfbc5e83b3650bf53331c9a?source=rss"
         }
       ],
       "keywords": [
@@ -67,12 +111,36 @@
       ]
     },
     {
-      "id": "f30178add485",
+      "id": "842bf3ff30cb",
+      "title": "インフルエンザB型ウイルスの全ゲノム解析により、日本とミャンマーで同期したウイルス進化を確認",
+      "published": "2026-04-03T09:01:13+00:00",
+      "sources": [
+        {
+          "name": "med.niigata-u.ac.jp",
+          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQb3pBRjJ6bklOSS0xY2U4YUh6MHlCSWhYVndSTnAzV0YydEhlTFAtNFd5R1YyWXh1cmdzWkdrMWxuUWdvVkVJV1ZDbVMzWUpCbmpHd0NtZkkxa05ySGxPODBMb3B1dFVtRHVqQnlTWFI3SUJRT3Q1eGFTbFpjYjlIcEw0cXEySVlGN2p6SW1LRHpMNjFzazdoUE8xS0NmMjVRWHlPYXdVbEFzTjM5U0RwazloeV9jMUsweENWWE1Fa3VrMXVZaEY5SjQ1LWRINEc1OWxuUVZ4aDVCbm4wd0lGdkN6Q3RuVDBLWk9FUnlDMnZpcGl4VkQxTnRNOEtCWDhLY0VyWHlQX3JQbEJwYnJTNGVEQkl1VHhTN2FkMkJtcVRwZjlzQXRVY2hoRXh0OWtxNWU0eWRSMnVxTnVJWGFySlM5cHEzaDlnMVVrc0VhMmNKUHVIX3p4ZV9UbE9RWFpXRjZ6bEV3?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "influenza",
+          "keyword": "インフルエンザ",
+          "related_drugs": [
+            {
+              "slug": "oseltamivir",
+              "name": "タミフルドライシロップ３％（選）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5743b3d26e5b",
       "title": "すこやかナビ：がん防災のすすめ（その1） 若年女性も闘病備えを",
       "published": "2026-04-03T04:13:39+00:00",
       "sources": [
         {
-          "name": "毎日新聞",
+          "name": "mainichi.jp",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LWGJiOWR0eW1GYkVKMjZYeUxQWDZ0TGdwRGh4aGEyMENHc0xYMUh3THJsOEhxMzFHdFRuZ1YxM2s4a1ZrVUNrMm9aOVhQZHRVSWJNS0ZVSVhKT0RlbDQ1NXM0amFLUnpH?oc=5"
         }
       ],
@@ -131,12 +199,12 @@
       ]
     },
     {
-      "id": "ecad6327f3ef",
+      "id": "a595f32d8c44",
       "title": "無菌性髄膜炎のモヤモヤに答えます",
       "published": "2026-04-03T02:45:02+00:00",
       "sources": [
         {
-          "name": "medical.nikkeibp.co.jp",
+          "name": "日経メディカル",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE53OUY2NmFBa3NnOG43UjRNRFNwM2Rxa2RINHhDVkJjV20zQ3RtakNmTy1YakJvd2VQbm40eUREYTdTU0FfVGZXV1JOYzdzSEN1X0kzLWJJdnNfRmJzQlppV0cya3A5cjViZmdVU0JJTFg2b3g5MWw0NU9jbko?oc=5"
         }
       ],
@@ -147,30 +215,6 @@
           "keyword": "アシクロビル",
           "name": "アシクロビル４０％顆粒",
           "url": "/drugs/acyclovir/"
-        }
-      ]
-    },
-    {
-      "id": "f36372bfd5f8",
-      "title": "予診票１８３人分を誤送付 高岡市、帯状疱疹ワクチン",
-      "published": "2026-04-02T20:00:00+00:00",
-      "sources": [
-        {
-          "name": "47NEWS",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBsM3o2ZXNET2dPTlJzSDU0cHJ6a25GejVVT2xFUUFQVlJMejBIR1VUQ0preWNnVU5ZaWR1ZUs1VkdaM1hkd2JfQUpjdw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "herpes zoster",
-          "keyword": "帯状疱疹",
-          "related_drugs": [
-            {
-              "slug": "acyclovir",
-              "name": "ゾビラックス軟膏５％（選）"
-            }
-          ]
         }
       ]
     },
@@ -299,12 +343,12 @@
       ]
     },
     {
-      "id": "a7b5d503f2ec",
-      "title": "AIによる肺扁平上皮癌の誤分類評価",
+      "id": "ac35879fbabe",
+      "title": "AIによる肺扁平上皮癌の誤分類評価 - The Medical AI Times",
       "published": "2026-04-02T01:00:00+00:00",
       "sources": [
         {
-          "name": "aitimes.media",
+          "name": "The Medical AI Times",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94Z3o5QlMyTTh1cERPeGg0Mmp0UlVJN25pZE9XTGRubmVsSWhWVEVnMDA2Sng1RzFKN1dVdXRkSjA0dExGYU01U25yQkVzWGJB?oc=5"
         }
       ],
@@ -363,12 +407,12 @@
       ]
     },
     {
-      "id": "88b60f592912",
+      "id": "2ed8d5ddc4f5",
       "title": "兄がボケました～認知症と介護と老後と「第68回 3回目のてんかん発作」 (1/1)",
       "published": "2026-04-01T21:00:00+00:00",
       "sources": [
         {
-          "name": "kaigo-postseven.com",
+          "name": "介護ポストセブン",
           "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5RSnZPdHM1OTAta29TY2R4RWNOcmtobndiLTk4MUJPSmRnaFZIanlONFNMRnlGUEU0ajhaSHlIbXoxbnlzTTdFZjl3?oc=5"
         }
       ],
@@ -864,12 +908,12 @@
       ]
     },
     {
-      "id": "7bec13e1f3df",
+      "id": "bac6656f6c4f",
       "title": "COVID-19、インフルエンザ、RSVの免疫応答の違いをAIで解析",
       "published": "2026-04-01T14:45:14+00:00",
       "sources": [
         {
-          "name": "medical.nikkeibp.co.jp",
+          "name": "日経メディカル",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMXZvSUhsV0pRa1ZBUTFUeDNXR3IwalRwTlI1bmczX1FrOGxaT0Q1WVNWalhfRE12bTc2NERjZzlfREhGaEtXcDR0YmUzVF92d29oVmZYTFR6LUNSWElSTzlXUkkyaGRpbzdvRUxiYldibFpldFJTNXBuMmM1R2oxV1N6WFQ?oc=5"
         }
       ],
@@ -959,70 +1003,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/65c80e9446ab5c5161c0ece8c4687b0ff307fea2?source=rss"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "がん",
-          "related_drugs": [
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "ゼローダ錠３００　３００ｍｇ（選）"
-            },
-            {
-              "slug": "propranolol",
-              "name": "インデラル錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "imatinib",
-              "name": "グリベック錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "3c86d4ce9eae",
-      "title": "「肺がんステージ1の症状」は咳以外に何があるかご存知ですか？医師が解説！(メディカルドック)",
-      "published": "2026-03-30T11:03:03+00:00",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/83ac9fdddb2f32fd9009a10c0b253ab5cc587386?source=rss"
         }
       ],
       "keywords": [
