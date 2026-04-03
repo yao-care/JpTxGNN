@@ -1,46 +1,174 @@
 {
-  "generated": "2026-04-03T01:23:05.628354+00:00",
-  "count": 15,
+  "generated": "2026-04-03T06:57:45.515012+00:00",
+  "count": 17,
   "news": [
     {
-      "id": "997cf20fb954",
-      "title": "子どもの「2型糖尿病」が急増中…はっきりした前兆はない？　親が気付くべき“わずかな異変”を専門医が解説(オトナンサー)",
-      "published": "2026-04-03T00:15:00+00:00",
+      "id": "bbf23883ac84",
+      "title": "神戸市立医療センター西市民病院で医療事故　外傷診断目的で受診・70代女性患者のCT撮影した際に放射線科医が『がん』見落とす　女性患者はがんが進行して死亡(FNNプライムオンライン)",
+      "published": "2026-04-03T06:09:23+00:00",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/1ccc1b2a1a1b03f30c9408de1cdb09e2a58c2019?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/bfe0a80af71d1db5f52c1b163bd79632536db8f4?source=rss"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "type 2 diabetes mellitus",
-          "keyword": "2型糖尿病",
+          "name": "generic_cancer",
+          "keyword": "がん",
           "related_drugs": [
             {
-              "slug": "pioglitazone",
-              "name": "アクトスＯＤ錠３０　３０ｍｇ（選）"
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
             },
             {
-              "slug": "glimepiride",
-              "name": "アマリール０．５ｍｇ錠（選）"
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
             },
             {
-              "slug": "glyburide",
-              "name": "オイグルコン錠２．５ｍｇ（選）"
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
             },
             {
-              "slug": "gliclazide",
-              "name": "グリミクロン錠４０ｍｇ（選）"
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
             },
             {
-              "slug": "metformin",
-              "name": "メホビル配合錠ＨＤ「トーワ」"
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
             },
             {
-              "slug": "dapagliflozin",
-              "name": "ダパグリフロジン錠１０ｍｇ「サワイ」"
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f30178add485",
+      "title": "すこやかナビ：がん防災のすすめ（その1） 若年女性も闘病備えを",
+      "published": "2026-04-03T04:13:39+00:00",
+      "sources": [
+        {
+          "name": "毎日新聞",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9LWGJiOWR0eW1GYkVKMjZYeUxQWDZ0TGdwRGh4aGEyMENHc0xYMUh3THJsOEhxMzFHdFRuZ1YxM2s4a1ZrVUNrMm9aOVhQZHRVSWJNS0ZVSVhKT0RlbDQ1NXM0amFLUnpH?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ecad6327f3ef",
+      "title": "無菌性髄膜炎のモヤモヤに答えます",
+      "published": "2026-04-03T02:45:02+00:00",
+      "sources": [
+        {
+          "name": "medical.nikkeibp.co.jp",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE53OUY2NmFBa3NnOG43UjRNRFNwM2Rxa2RINHhDVkJjV20zQ3RtakNmTy1YakJvd2VQbm40eUREYTdTU0FfVGZXV1JOYzdzSEN1X0kzLWJJdnNfRmJzQlppV0cya3A5cjViZmdVU0JJTFg2b3g5MWw0NU9jbko?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "acyclovir",
+          "keyword": "アシクロビル",
+          "name": "アシクロビル４０％顆粒",
+          "url": "/drugs/acyclovir/"
+        }
+      ]
+    },
+    {
+      "id": "f36372bfd5f8",
+      "title": "予診票１８３人分を誤送付 高岡市、帯状疱疹ワクチン",
+      "published": "2026-04-02T20:00:00+00:00",
+      "sources": [
+        {
+          "name": "47NEWS",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBsM3o2ZXNET2dPTlJzSDU0cHJ6a25GejVVT2xFUUFQVlJMejBIR1VUQ0preWNnVU5ZaWR1ZUs1VkdaM1hkd2JfQUpjdw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "herpes zoster",
+          "keyword": "帯状疱疹",
+          "related_drugs": [
+            {
+              "slug": "acyclovir",
+              "name": "ゾビラックス軟膏５％（選）"
             }
           ]
         }
@@ -171,12 +299,12 @@
       ]
     },
     {
-      "id": "ac35879fbabe",
-      "title": "AIによる肺扁平上皮癌の誤分類評価 - The Medical AI Times",
+      "id": "a7b5d503f2ec",
+      "title": "AIによる肺扁平上皮癌の誤分類評価",
       "published": "2026-04-02T01:00:00+00:00",
       "sources": [
         {
-          "name": "The Medical AI Times",
+          "name": "aitimes.media",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE94Z3o5QlMyTTh1cERPeGg0Mmp0UlVJN25pZE9XTGRubmVsSWhWVEVnMDA2Sng1RzFKN1dVdXRkSjA0dExGYU01U25yQkVzWGJB?oc=5"
         }
       ],
@@ -235,12 +363,12 @@
       ]
     },
     {
-      "id": "2ed8d5ddc4f5",
+      "id": "88b60f592912",
       "title": "兄がボケました～認知症と介護と老後と「第68回 3回目のてんかん発作」 (1/1)",
       "published": "2026-04-01T21:00:00+00:00",
       "sources": [
         {
-          "name": "介護ポストセブン",
+          "name": "kaigo-postseven.com",
           "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5RSnZPdHM1OTAta29TY2R4RWNOcmtobndiLTk4MUJPSmRnaFZIanlONFNMRnlGUEU0ajhaSHlIbXoxbnlzTTdFZjl3?oc=5"
         }
       ],
@@ -736,12 +864,12 @@
       ]
     },
     {
-      "id": "bac6656f6c4f",
+      "id": "7bec13e1f3df",
       "title": "COVID-19、インフルエンザ、RSVの免疫応答の違いをAIで解析",
       "published": "2026-04-01T14:45:14+00:00",
       "sources": [
         {
-          "name": "日経メディカル",
+          "name": "medical.nikkeibp.co.jp",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMXZvSUhsV0pRa1ZBUTFUeDNXR3IwalRwTlI1bmczX1FrOGxaT0Q1WVNWalhfRE12bTc2NERjZzlfREhGaEtXcDR0YmUzVF92d29oVmZYTFR6LUNSWElSTzlXUkkyaGRpbzdvRUxiYldibFpldFJTNXBuMmM1R2oxV1N6WFQ?oc=5"
         }
       ],
@@ -895,70 +1023,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/83ac9fdddb2f32fd9009a10c0b253ab5cc587386?source=rss"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "がん",
-          "related_drugs": [
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "ゼローダ錠３００　３００ｍｇ（選）"
-            },
-            {
-              "slug": "propranolol",
-              "name": "インデラル錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "imatinib",
-              "name": "グリベック錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "078aa654b662",
-      "title": "お酒で顔が赤くなる人は注意？ 食道がんのリスク、見逃しやすいサイン、治療の選択肢とは(Medical Note)",
-      "published": "2026-03-30T03:31:11+00:00",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/97ae340bc877bd7c46a2c52c4135d7b5bdc94011?source=rss"
         }
       ],
       "keywords": [
