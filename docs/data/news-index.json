@@ -1,7 +1,55 @@
 {
-  "generated": "2026-04-05T06:54:54.747976+00:00",
+  "generated": "2026-04-05T12:35:30.352500+00:00",
   "count": 7,
   "news": [
+    {
+      "id": "d4c9b5d5b882",
+      "title": "一部の薬では自己負担増の流れ 医師がシレっと追加するムダな薬検査はこう回避する｜人生100年時代の歩き方",
+      "published": "2026-04-05T08:25:00+00:00",
+      "sources": [
+        {
+          "name": "日刊ゲンダイDIGITAL",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UNThaUHd5ZlFGRG5YdmNFWUxVaWk3QzAyOTZ0THlJVHl6b2lZaGZ1SVNPUkF2MENyd0ZtaEVIb2hTck1qZUFYT1I4RXdYdkpTbmZ4VDVjaG5sOGpiQmtMeldiSEE2YW9V?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "asthma",
+          "keyword": "ぜんそく",
+          "related_drugs": [
+            {
+              "slug": "theophylline",
+              "name": "ユニコン錠１００　１００ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "budesonide",
+              "name": "シムビコートタービュヘイラー６０吸入（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "11d29235b2ec",
       "title": "「治らない」と本人に言わなかった時代があった…希少がん治療と緩和ケアは、この10年でどう変わったのか(集英社オンライン)",
@@ -131,12 +179,12 @@
       ]
     },
     {
-      "id": "509ebcbc817c",
+      "id": "ecff864aa598",
       "title": "Neoonkovac、臨床投与開始｜ロシア発・個別化mRNAがんワクチンが切り拓く精密医療の新時代",
       "published": "2026-04-04T23:30:12+00:00",
       "sources": [
         {
-          "name": "innovatopia.jp",
+          "name": "innovaTopia",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXa0VXWlRYRE5kWDZnQVBDcWN4Qk5xR0Mxb2haSHREQWpHOUQwM0NXR2g2MmQxYTZNR1lJRXZRQ1N5bWxGb0FQSDUyUlp1VzlNMko2RXBaTEZwMzA1RDA4dFln?oc=5"
         }
       ],
@@ -297,30 +345,6 @@
             {
               "slug": "codeine",
               "name": "ムコブロチン配合シロップ"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "842bf3ff30cb",
-      "title": "インフルエンザB型ウイルスの全ゲノム解析により、日本とミャンマーで同期したウイルス進化を確認",
-      "published": "2026-04-03T09:01:13+00:00",
-      "sources": [
-        {
-          "name": "med.niigata-u.ac.jp",
-          "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQb3pBRjJ6bklOSS0xY2U4YUh6MHlCSWhYVndSTnAzV0YydEhlTFAtNFd5R1YyWXh1cmdzWkdrMWxuUWdvVkVJV1ZDbVMzWUpCbmpHd0NtZkkxa05ySGxPODBMb3B1dFVtRHVqQnlTWFI3SUJRT3Q1eGFTbFpjYjlIcEw0cXEySVlGN2p6SW1LRHpMNjFzazdoUE8xS0NmMjVRWHlPYXdVbEFzTjM5U0RwazloeV9jMUsweENWWE1Fa3VrMXVZaEY5SjQ1LWRINEc1OWxuUVZ4aDVCbm4wd0lGdkN6Q3RuVDBLWk9FUnlDMnZpcGl4VkQxTnRNOEtCWDhLY0VyWHlQX3JQbEJwYnJTNGVEQkl1VHhTN2FkMkJtcVRwZjlzQXRVY2hoRXh0OWtxNWU0eWRSMnVxTnVJWGFySlM5cHEzaDlnMVVrc0VhMmNKUHVIX3p4ZV9UbE9RWFpXRjZ6bEV3?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "influenza",
-          "keyword": "インフルエンザ",
-          "related_drugs": [
-            {
-              "slug": "oseltamivir",
-              "name": "タミフルドライシロップ３％（選）"
             }
           ]
         }
