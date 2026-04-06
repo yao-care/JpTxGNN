@@ -1,60 +1,70 @@
 {
-  "last_updated": "2026-04-06T07:17:57.343378+00:00",
-  "total_count": 48,
-  "matched_count": 10,
+  "last_updated": "2026-04-06T12:48:42.804954+00:00",
+  "total_count": 47,
+  "matched_count": 11,
   "news": [
     {
-      "id": "139c08d1a0b3",
-      "title": "ピンピンコロリで死ぬのは絶対に嫌だ…年間200人超の死に立ち会った和田秀樹が「がんで死にたい」と願う理由(プレジデントオンライン)",
-      "published": "2026-04-06T07:16:01+00:00",
-      "summary": "いつか直面する「死」に向き合うには、どうするといいか。医師の和田秀樹さんは「死生観は人生観とイコールだ。死について考えるならこの死生観を持ち、『自分がどんなふうに生き、どう死んでいきたいか』をこれから",
+      "id": "f78bb66684ac",
+      "title": "肝硬変の新治療法へ世界初の臨床研究　長崎大病院など、5～10年後の実用化目指す(西日本新聞)",
+      "published": "2026-04-06T12:46:56+00:00",
+      "summary": "長崎大病院などは6日、肝硬変患者の肝組織を採取、培養した「CLiP（クリップ）細胞」を肝臓に戻す新たな治療法の臨床研究を始めたと発表した。患者自身の細胞を用いるため拒絶反応は起きにくく、クリップ細胞",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/44fd2962b0f7ec1a4f9c80f317180bde350811c9?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/6b83c5b63abe29d04222276ba3266a461d4e3276?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "9834f382b9d3",
+      "title": "50代のぽっこりお腹、1日5回の「呼吸」でペタンコに!?「インナー呼吸」基本のやり方(HALMEK up)",
+      "published": "2026-04-06T12:35:02+00:00",
+      "summary": "「インナー呼吸」の効果を最大化する鍵は、骨盤の角度にあります。手のひら1枚分の隙間を作る「骨盤ニュートラル」の作り方から、具体的な呼吸法まで徹底ガイド。運動が苦手でも自宅で簡単にできる、ぽっこりお腹ペ",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/5f5fcec6a97cd5c891d9eb644520936717a594dc?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "3bf43037682b",
+      "title": "呼吸器系の不調を改善する「璇璣」。せきや喘息、喉や胸の痛みをやわらげます(家庭画報.com)",
+      "published": "2026-04-06T12:10:02+00:00",
+      "summary": "中医学のエキスパートである鍼灸師の兵頭 明先生が、ツボの効能や位置、効くメカニズムを解説します。健康の土台作りに、不調改善に、1日1分のツボ押しを習慣にしましょう。",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/1127f66aa5d82ead58c22a24b28b963a9c792f86?source=rss"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "がん",
+          "name": "asthma",
+          "keyword": "喘息",
           "related_drugs": [
             {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "ゼローダ錠３００　３００ｍｇ（選）"
-            },
-            {
-              "slug": "propranolol",
-              "name": "インデラル錠１０ｍｇ（選）"
+              "slug": "theophylline",
+              "name": "ユニコン錠１００　１００ｍｇ（選）"
             },
             {
               "slug": "dexamethasone",
               "name": "サンテゾーン点眼液（０．１％）（選）"
             },
             {
-              "slug": "imatinib",
-              "name": "グリベック錠１００ｍｇ（選）"
-            },
-            {
               "slug": "betamethasone",
               "name": "リンデロン−Ｖ軟膏０．１２％（選）"
             },
             {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
+              "slug": "budesonide",
+              "name": "シムビコートタービュヘイラー６０吸入（選）"
             },
             {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
             },
             {
               "slug": "prednisolone",
@@ -69,27 +79,53 @@
       ]
     },
     {
-      "id": "bf7f7e133230",
-      "title": "《体力がない人の健康術》精神科医・和田秀樹さんが体調を崩さないために「ショッピングモールでの散歩」をすすめる理由(介護ポストセブン)",
-      "published": "2026-04-06T07:15:00+00:00",
-      "summary": "加齢に伴って体力が減り、昔より体調を崩しやすくなったと悩んでいる人も多いだろう。体調を崩してしまうのには主に3つの原因があると話すのは、『体力がない人の仕事の戦略』（クロスメディア・パブリッシング）",
+      "id": "b8693fe3ad46",
+      "title": "良かれと思ってやっていたのに…医師が教える「逆効果な食事制限」とは？よくある５つの事例(ヨガジャーナルオンライン)",
+      "published": "2026-04-06T12:10:00+00:00",
+      "summary": "健康のためにやっていたことが、逆に体に負担をかけている？よくある例を、医師が解説します。あなたももしかしたら、やっていませんか？ ■「糖質を減らせば健康」はちょっと乱暴 糖質オフ、流行ってますよね。",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/96316076ecf784403a6e1058997aba4f5c4a6174?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/cbe44e39066c76ca999e802c4b0da0dc3a69aeba?source=rss"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "02a54f620e87",
-      "title": "毎日のように痴漢されていた高校生→“バッグにつけるアイテム”で4ヶ月被害ゼロに。バッジ開発者の願いとは(女子SPA！)",
-      "published": "2026-04-06T06:47:28+00:00",
-      "summary": "2025年7月上旬、一般社団法人痴漢抑止活動センター（大阪府）のXアカウント（@scbaction）が下記の内容とともに一枚の画像をアップしました。 「エスカレーターを使う時は、写真のように斜め前",
+      "id": "1fee55c3e38a",
+      "title": "王室に新たな風？英女王の孫が再婚へ　お相手はシングルマザーの看護師(25ans（ヴァンサンカン）)",
+      "published": "2026-04-06T12:01:42+00:00",
+      "summary": "イギリスのロイヤルメンバーのひとり、アン王女の長男ピーター・フィリップスが2026年6月、結婚式を挙げることが正式に発表されました。花嫁はイギリスの国民保健サービス（NHS）が運営する病院の看護師、ハ",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/77607d4ea6d6ba0207c66f39b5ad50292d6d8c9b?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/ff3affaf66942a14ebdad88474f603d0c738375e?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "577d59bcbae2",
+      "title": "うつ病、島根への移住、そして再発。移住後の心の変化に、どう対処した？【著者インタビュー】(ダ・ヴィンチWeb)",
+      "published": "2026-04-06T12:00:00+00:00",
+      "summary": "漫画家・叶輝（かのうあきら）さんと、うつ病により休職を繰り返していた朝待夜駆（あさまちよかけ）さん。二人のもとにたびたび足を運んでいた地域猫はある日、病気で瀕死の子猫を連れてくる。「朔太郎」と名付けら",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/9c31d6061ef76e76fdf597c65ce7c95d0925f717?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "922ec2e63e5c",
+      "title": "たくさん食べても罪悪感ゼロ！ 低カロリーで食物繊維が豊富な野菜 10(ELLE DIGITAL)",
+      "published": "2026-04-06T11:50:01+00:00",
+      "summary": "※この記事は、海外のサイト『Prevention』で掲載されたものの翻訳版です。データや研究結果はすべてオリジナル記事によるものです。 低カロリーな野菜は、体重を減らしたいかどうかに関わらず、食事",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/1edfa03645ad62b4098ba5aaf573adaa68213557?source=rss"
         }
       ],
       "matched_keywords": []
@@ -97,7 +133,7 @@
     {
       "id": "63ecc4707c38",
       "title": "細胞内カルシウム濃度の変化を検出する新たなバイオセンサーを開発―血中生理活性物質の測定や創薬開発の迅速化に貢献",
-      "published": "2026-04-06T06:41:42+00:00",
+      "published": "2026-04-06T11:41:26+00:00",
       "summary": "細胞内カルシウム濃度の変化を検出する新たなバイオセンサーを開発―血中生理活性物質の測定や創薬開発の迅速化に貢献&nbsp;&nbsp;京都大学",
       "sources": [
         {
@@ -108,14 +144,27 @@
       "matched_keywords": []
     },
     {
-      "id": "8c7388b5a723",
-      "title": "「おっ」ステージ4のがんで痩せゆく父　赤ちゃんの声響く整骨院、3代目院長の娘を認めた日(西日本新聞)",
-      "published": "2026-04-06T06:00:02+00:00",
-      "summary": "チャイルドシートに座った赤ちゃんのそばで、母親たちが肩や腰の施術を受ける。赤ちゃんがぐずり始めると、女性スタッフが抱き上げてあやす。「腰が軽くなりました」。母親たちはすっきりした表情で整骨鍼灸（しん",
+      "id": "6699ac85fc4b",
+      "title": "鹿児島市の10代女性がはしか感染",
+      "published": "2026-04-06T11:15:00+00:00",
+      "summary": "鹿児島市の10代女性がはしか感染&nbsp;&nbsp;南日本新聞東京都ではしかの感染が確認の20代の男性 感染のおそれがある期間に名古屋市内の地下鉄など利用（中京テレビＮＥＷＳ）&nbsp;&nbsp;Yahoo!ニュース春秋（4月6日）&nbsp;&nbsp;nikkei.com「はしか」都内ですでに去年の2倍超の74人 感染拡大つづく&nbsp;&nbsp;au Webポータル新たに3人がはしかに感染 いずれも海外渡航歴なし 東京都発表&nbsp;&nbsp;毎日新聞",
       "sources": [
         {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/37b856d6531d3895930c4610ff31c1981704cae3?source=rss"
+          "name": "南日本新聞",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5XT2hhTG5NbV9OOUsyYVlFVFpiSkpTSnFLRzFHcDdOMXA3aFlJcGlraWNyWWJMc1FuVzdpSHItSXZzYXFKOXRvU0xkTVRUYndVVUZIQUd6QXg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "2e03c0b56c31",
+      "title": "「肺がん」を発症するとどんな「痛み」を感じる？痛みを感じる部位も医師が解説！(メディカルドック)",
+      "published": "2026-04-06T10:02:20+00:00",
+      "summary": "肺がんを発症するとどんな痛みを感じる？Medical DOC監修医がどこに痛みを感じるか・初期症状・末期症状・原因・検査法・治療法や何科へ受診すべきかなどを解説します。気になる症状がある場合は迷わず病",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/9a7c9b2f2911330f4aef1f98e57465033b6dfe91?source=rss"
         }
       ],
       "matched_keywords": [
@@ -173,40 +222,92 @@
       ]
     },
     {
-      "id": "094391e18de8",
-      "title": "糖尿病と認知症リスクとの関連は1型糖尿病でより強い",
-      "published": "2026-04-06T05:57:46+00:00",
-      "summary": "糖尿病と認知症リスクとの関連は1型糖尿病でより強い&nbsp;&nbsp;糖尿病リソースガイド",
+      "id": "da4511eb9a65",
+      "title": "慢性リンパ性白血病患者は皮膚がん高リスク",
+      "published": "2026-04-06T07:50:00+00:00",
+      "summary": "慢性リンパ性白血病患者は皮膚がん高リスク&nbsp;&nbsp;時事メディカル",
       "sources": [
         {
-          "name": "糖尿病リソースガイド",
+          "name": "時事メディカル",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE05V1E2aUhYRGlQYVFxVEJzSDNVUzlJX1JiLWl4el8xYlE1M3pJRElNdU5zZ1hsSjlxUFBKc0lqMW9QZkJmaGdkVUF2QQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "98e0ee482c95",
+      "title": "糖尿病と認知症リスクとの関連は1型糖尿病でより強い",
+      "published": "2026-04-06T05:57:46+00:00",
+      "summary": "糖尿病と認知症リスクとの関連は1型糖尿病でより強い&nbsp;&nbsp;dm-rg.net",
+      "sources": [
+        {
+          "name": "dm-rg.net",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9WQ1dVby12U3lPUzhlMksxdTE3SHBQVjk2WHpSZkxlM1lpQ21vS0cxaUg1bkZNOFJscjJuSTJGc1pJSW84M2ZCNEotM2ZCeVlGSzY3R2ZLbjh4V0hQVXJ3ZUpyRF9uZlVTaEw4?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "4c27ab5b8ac6",
-      "title": "妊婦さんへのRSウイルス母子免疫ワクチン「アブリスボ®筋注用」が2026年4月1日から定期接種（原則無料）となります - 社会医療法人 製鉄記念室蘭病院",
-      "published": "2026-04-06T05:51:20+00:00",
-      "summary": "妊婦さんへのRSウイルス母子免疫ワクチン「アブリスボ®筋注用」が2026年4月1日から定期接種（原則無料）となります&nbsp;&nbsp;社会医療法人 製鉄記念室蘭病院Google ニュースですべての記事を見る",
+      "id": "01629358a110",
+      "title": "RSウイルス予防接種（母子免疫）が定期接種化、妊婦への情報提供を強化 - PR TIMES",
+      "published": "2026-04-06T05:35:56+00:00",
+      "summary": "RSウイルス予防接種（母子免疫）が定期接種化、妊婦への情報提供を強化&nbsp;&nbsp;PR TIMESGoogle ニュースですべての記事を見る",
       "sources": [
         {
-          "name": "社会医療法人 製鉄記念室蘭病院",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqbmpzWHhoX2R4N0NvR2FlLWRYTUk0cW5Vc3JtTjR3VDVFTXM3OFVjZU1UY0NLNGUzOWN5SFpJemJkdFg1bXFKcGhBLXNQMndFNWlnNFBYY2lReTlE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "075ebb309d6e",
-      "title": "【花粉症】今年は札幌でスギ花粉が大量飛散 専門家「珍しい状況」そもそもスギの木がナゼ? その歴史は“開拓時代”の試験栽培に―このあとはシラカバ花粉の季節  対策はどうする〈北海道〉(FNNプライムオンライン)",
-      "published": "2026-04-06T05:33:31+00:00",
-      "summary": "「3月末ごろから鼻水、くしゃみ。シラカバの花粉症です」 「目がかゆくて鼻水が出て、頭痛までするので大変です」（いずれも北海道民） 例年より早い春の訪れ。 花粉症の症状に悩まされる人も増えている。",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/146c8a7ef2552b560e0d081324600db488f59f86?source=rss"
+          "name": "PR TIMES",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zWjl6VGNoQndYTkZBNGNXZ1NqaU4zZmg1S0M2Xzg2TU0xbmRwdDIwLWRtWmVVN2Z5bHZIbUxtdDVfR253S0dvR2p6bzRHejVRUWtxdy1EZzVsUGVrRVhWU21uMmVwOXdsY0E?oc=5"
         }
       ],
       "matched_keywords": []
@@ -214,7 +315,7 @@
     {
       "id": "4f8fbf94620f",
       "title": "「おたふく風邪かどうかの判断ポイント」はご存知ですか？受診の目安となる症状も解説！",
-      "published": "2026-04-06T03:01:26+00:00",
+      "published": "2026-04-06T04:58:55+00:00",
       "summary": "「おたふく風邪かどうかの判断ポイント」はご存知ですか？受診の目安となる症状も解説！&nbsp;&nbsp;メディカルドック",
       "sources": [
         {
@@ -296,17 +397,80 @@
       "matched_keywords": []
     },
     {
-      "id": "4c38a0b6b286",
-      "title": "母の更年期×子の思春期が重なる時代…最新調査が示したリスクと守り方を、専門医が語る - AERA DIGITAL",
-      "published": "2026-04-06T02:00:00+00:00",
-      "summary": "母の更年期×子の思春期が重なる時代…最新調査が示したリスクと守り方を、専門医が語る&nbsp;&nbsp;AERA DIGITAL",
+      "id": "9a7349b99739",
+      "title": "手術不能進行胃がんに対する初期治療と維持療法における免疫チェックポイント阻害薬の有用性と日本の課題について（解説：上村 直実 氏）－2097｜CareNet.com",
+      "published": "2026-04-06T01:00:00+00:00",
+      "summary": "手術不能進行胃がんに対する初期治療と維持療法における免疫チェックポイント阻害薬の有用性と日本の課題について（解説：上村 直実 氏）－2097｜CareNet.com&nbsp;&nbsp;CareNet.com",
       "sources": [
         {
-          "name": "AERA DIGITAL",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fVDJ0emxTWUhmWW9tREZIXzhKZ1lsZ1h3Mmo2ZXhyLWtWdFMzX3NkN1FqaVFtRVNxckw2NkpFWVFfaHVNN194ZFlVM0xoT3Q1UlVPQ3RMOURYNy0y?oc=5"
+          "name": "CareNet.com",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pUG9HQVE2dTl5UEJkMW5ja3BuTmxlWXo1Y3FIajlPbnFxSVAwTmltMVdZU0dlWVduR2VUV2JiR2FGYzhFQkRYMmlKMGhZRTgxd1pxZF9fOWVJYVFa?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "gastric cancer",
+          "keyword": "胃がん",
+          "related_drugs": [
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "07a0d1d062f1",
@@ -343,19 +507,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/19b9a3fa88c14c8184372522e89f39d507a155f8?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "df87269bd80a",
-      "title": "変わるドライアイ治療：“自覚症状”に着目した新しい治療選択肢の登場／千寿｜CareNet.com",
-      "published": "2026-04-05T19:00:00+00:00",
-      "summary": "変わるドライアイ治療：“自覚症状”に着目した新しい治療選択肢の登場／千寿｜CareNet.com&nbsp;&nbsp;CareNet.com",
-      "sources": [
-        {
-          "name": "CareNet.com",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1LT2FnY2M4NV9MU2tSb1ZGMmZpYTRtRjV0RHhZamRSbzhEMk5keGNNNmtETnMxdG5oTzhXVVZYaUpFdl9rcDZUM1ZFWWRCQWhxeHJvdkVVWTBocW1hSmhN?oc=5"
         }
       ],
       "matched_keywords": []
@@ -624,19 +775,6 @@
       "matched_keywords": []
     },
     {
-      "id": "380c7a2415c5",
-      "title": "春秋（4月6日）",
-      "published": "2026-04-05T15:00:00+00:00",
-      "summary": "春秋（4月6日）&nbsp;&nbsp;日本経済新聞はしか、大人で感染拡大 子どもへの流行警戒で専門家、ワクチン接種訴え（宮崎日日新聞）&nbsp;&nbsp;Yahoo!ニュースはしか感染増で注意呼び掛け 上野厚労相：時事ドットコム&nbsp;&nbsp;時事ドットコムはしか 今年の感染者数が累計152人 2020年以降最多&nbsp;&nbsp;毎日新聞はしか新たに1人感染 10代男性 県内26人目 統計開始以降、過去最多 鹿児島&nbsp;&nbsp;TBS NEWS DIG",
-      "sources": [
-        {
-          "name": "日本経済新聞",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NaGVueXVWMDd3VER4SGRsSF9PdUN1aExiYUdfdnpOT1cySlJhV2tNWDFFVGNHUmlGTkh0dWdLQTN5RHdxS0MyN2VzUDQtNVdra1FkWUF5bmt6SkJYN1g4SEJSNExOZlJxNzlfYQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "62ec36a42cfe",
       "title": "左心耳閉鎖術、薬物治療に対する非劣性示せず",
       "published": "2026-04-05T14:45:04+00:00",
@@ -653,7 +791,7 @@
       "id": "9b7431ee2133",
       "title": "ダナンCDCが学校で手足口病の予防を検査",
       "published": "2026-04-05T10:10:49+00:00",
-      "summary": "ダナンCDCが学校で手足口病の予防を検査&nbsp;&nbsp;Laodong.vn手足口病の治療強化：蘇生能力の向上、隔離の確保、およびより高度な医療施設への安全な搬送。&nbsp;&nbsp;Vietnam.vn手足口病が前年比5倍の流行、死者4人 保健省が緊急指示［社会］&nbsp;&nbsp;VIETJO",
+      "summary": "ダナンCDCが学校で手足口病の予防を検査&nbsp;&nbsp;Laodong.vn手足口病の治療強化：蘇生能力の向上、隔離の確保、およびより高度な医療施設への安全な搬送。&nbsp;&nbsp;Vietnam.vn手足口病が前年比5倍の流行、死者4人 保健省が緊急指示［社会］&nbsp;&nbsp;viet-jo.com",
       "sources": [
         {
           "name": "Laodong.vn",
@@ -663,13 +801,13 @@
       "matched_keywords": []
     },
     {
-      "id": "8efab7b40481",
+      "id": "93c2c73bc412",
       "title": "秦野、はしか患者と接触した６０代女性が感染 ショッピングセンター訪れる",
       "published": "2026-04-05T09:30:00+00:00",
-      "summary": "秦野、はしか患者と接触した６０代女性が感染 ショッピングセンター訪れる&nbsp;&nbsp;kanaloco.jpGoogle ニュースですべての記事を見る",
+      "summary": "秦野、はしか患者と接触した６０代女性が感染 ショッピングセンター訪れる&nbsp;&nbsp;カナロコGoogle ニュースですべての記事を見る",
       "sources": [
         {
-          "name": "kanaloco.jp",
+          "name": "カナロコ",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rTlZKcjJTM1hzVktmZHJMd0doYjg0c2s1TDhLSU05ZGtoampGRzNGN2lRSVhZRGdSR25lb0VPbWhiTEMtZm5qRXpRQmFIa280bkpwUTc3S195VFVXUERJdnhkWWIzY0JPMWZJeg?oc=5"
         }
       ],
@@ -845,13 +983,13 @@
       ]
     },
     {
-      "id": "ecff864aa598",
+      "id": "509ebcbc817c",
       "title": "Neoonkovac、臨床投与開始｜ロシア発・個別化mRNAがんワクチンが切り拓く精密医療の新時代",
       "published": "2026-04-04T23:30:12+00:00",
-      "summary": "Neoonkovac、臨床投与開始｜ロシア発・個別化mRNAがんワクチンが切り拓く精密医療の新時代&nbsp;&nbsp;innovaTopia",
+      "summary": "Neoonkovac、臨床投与開始｜ロシア発・個別化mRNAがんワクチンが切り拓く精密医療の新時代&nbsp;&nbsp;innovatopia.jp",
       "sources": [
         {
-          "name": "innovaTopia",
+          "name": "innovatopia.jp",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXa0VXWlRYRE5kWDZnQVBDcWN4Qk5xR0Mxb2haSHREQWpHOUQwM0NXR2g2MmQxYTZNR1lJRXZRQ1N5bWxGb0FQSDUyUlp1VzlNMko2RXBaTEZwMzA1RDA4dFln?oc=5"
         }
       ],
@@ -921,71 +1059,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "a9a79b298675",
-      "title": "保健省は甲状腺がん治療における乱用を厳しく取り締まる",
-      "published": "2026-04-04T14:10:41+00:00",
-      "summary": "保健省は甲状腺がん治療における乱用を厳しく取り締まる&nbsp;&nbsp;Laodong.vn",
-      "sources": [
-        {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMktZbXA0cW11eGN2OE5SUHFfUkRBbjlYeENmN2dJWTZjMkMtcUNXY0pLSzRKZWxtZGxxME9UUWViWnNDZl9maGM2bmVTVjFlR3NJQnFldTU4a0VCLWltQW1aS3Vfd2lST0FlT2JrcDVOWXpYM0dqV0dYMTdIOTJ5cjJ6YUdrY1lmdWZYaFZBblVDTXp4dXhaaUxuZ1Blb1BUbzNF?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "がん",
-          "related_drugs": [
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "ゼローダ錠３００　３００ｍｇ（選）"
-            },
-            {
-              "slug": "propranolol",
-              "name": "インデラル錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "imatinib",
-              "name": "グリベック錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "3a347e805896",
@@ -1126,45 +1199,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/b3b9ada657c4a7d174de1386df55ae467d70fb12?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "db19b5d9fcbe",
-      "title": "ispaceが日米統合の新ランダー「ULTRA」を発表　月を周回する通信衛星網の構築も計画(sorae 宇宙へのポータルサイト)",
-      "published": "2026-04-02T12:09:59+00:00",
-      "summary": "日本の民間宇宙企業ispaceは2026年3月27日に記者発表会を開催し、月着陸船（ランダー）の新たなモデル「ULTRA（ウルトラ）」の開発と、今後のミッションスケジュールの再設定を発表しました。また",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/fad39f94a1136d7d9e959b1af4a69199badefa28?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "48b874cec1c5",
-      "title": "アルテミス2打ち上げ成功！ その礎を築いた「ロケットの父」ゴダードはなぜ不遇だったのか(ナショナル ジオグラフィック日本版)",
-      "published": "2026-04-02T11:07:53+00:00",
-      "summary": "1904年、ある若者が米国マサチューセッツ州の高校で卒業式の答辞を述べた。その直後、この若者は宇宙飛行を可能にする先駆的な科学研究に着手する。卒業式の日、10代のロバート・ゴダードは演壇に立ち、未来",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/db9673eca4b6d2a4268fe75e774707009c016527?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "17b2c36f4f1f",
-      "title": "【闘病】「顔が変わった」容姿変貌と嘲笑の地獄… 女子学生を襲った『バセドウ病』(メディカルドック)",
-      "published": "2026-04-02T11:02:41+00:00",
-      "summary": "今回話を聞いたのは、バセドウ病を経験したYamaさん（仮称）です。Yamaさんは10代でバセドウ病を発症。多感な時期にさまざまな体験をしました。目に見えにくい疾患を抱えるつらさ――Yamaさんが闘病の",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/3fd188b56b61f6a3e3cb4db42ecea2a751987035?source=rss"
         }
       ],
       "matched_keywords": []
