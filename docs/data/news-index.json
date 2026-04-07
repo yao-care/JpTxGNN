@@ -1,7 +1,194 @@
 {
-  "generated": "2026-04-07T07:04:40.537808+00:00",
-  "count": 12,
+  "generated": "2026-04-07T12:58:00.889819+00:00",
+  "count": 15,
   "news": [
+    {
+      "id": "00426a273795",
+      "title": "便秘や下痢など大腸の不調に効くツボ「大横」。胃腸症状を伴う風邪にも用います(家庭画報.com)",
+      "published": "2026-04-07T12:20:02+00:00",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/4ec68b141a049165b0bd816ba62a27bfecda58ac?source=rss"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "風邪",
+          "related_drugs": [
+            {
+              "slug": "cetirizine",
+              "name": "ザイザルシロップ０．０５％（選）"
+            },
+            {
+              "slug": "loratadine",
+              "name": "クラリチン錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "chlorpheniramine",
+              "name": "セレスタミン配合錠（選）"
+            },
+            {
+              "slug": "dextromethorphan",
+              "name": "デキストロメトルファン臭化水素酸塩細粒１０％「ツルハラ」"
+            },
+            {
+              "slug": "acetaminophen",
+              "name": "トラムセット配合錠（選）"
+            },
+            {
+              "slug": "codeine",
+              "name": "ムコブロチン配合シロップ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e2f2a925a825",
+      "title": "かゆみや違和感、放置してない？ 医師が教える「女性器のがん」のサインと、今日からできるセルフチェック",
+      "published": "2026-04-07T10:00:38+00:00",
+      "sources": [
+        {
+          "name": "womenshealthmag.com",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNjYyNHJiTzh5cmdlcUhZX094SUNWd3JlbTZaeXdnNGZCSFFKTnBaSlFzamU3OElOZWFWbEtpODhaTlZzMTJxOVAzamFSUTJSdEdKWVp6WF85cS1scFpWdUtUNFoxMXp1elRGVzBrRzdPajRuTFo4bTltYUFSajd1RGpsNUZITTRDUlBlNWVOWFZMQlFGNzQ4?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "750a727c64fa",
+      "title": "【闘病】受け止めきれない「乳がん」の発覚。マンモグラフィは“毎年”受けていた…（メディカルドック）",
+      "published": "2026-04-07T08:01:36+00:00",
+      "sources": [
+        {
+          "name": "Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tLXdfNVNZQWxNbnY1TDQ1Y0U3TmRfdmlnR3prVTdhYWNVXy0tWXFHT0NKQTlLU0p0d2lVSzdkMWV5alNoc1pzc0ZUNlJ5eWhGUl9FQXRHVjd4WTZMbElOUnNpaWZ1MjQ1LTRRemZTcWdMbzUzNlJKYzJEVC1LZk0?oc=5"
+        },
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/517d3f1e5ec1e6660b9f127d9b3987b4b5180e6f?source=rss"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "522d631d377a",
       "title": "KRAS G12C変異陽性大腸がん、ソトラシブ＋パニツムマブのアジア人・長期の有用性（CodeBreaK 300/101）／日本臨床腫瘍学会｜CareNet.com",
