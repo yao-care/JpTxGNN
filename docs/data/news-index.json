@@ -1,7 +1,71 @@
 {
-  "generated": "2026-04-08T01:25:07.348654+00:00",
-  "count": 14,
+  "generated": "2026-04-08T07:06:56.367112+00:00",
+  "count": 11,
   "news": [
+    {
+      "id": "c628a6f186c1",
+      "title": "2026年04月08日｜マーシャル諸島共和国とフィジーにおける子宮頸がん撲滅プログラムの支援｜活動報告",
+      "published": "2026-04-08T06:18:00+00:00",
+      "sources": [
+        {
+          "name": "chugai-pharm.co.jp",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVEFCZGNwaHFSdE5DcTJ2MmtYTEszTUZ2WUg3T3RJNDBHMGlaUHlmS3ltZnVLVVEyeF82LThXUzR1NTVKY2pFRG9HYVRJNl9qemZSYVp2aWp0cVBVX21nWTFDZ0JPajhIQnNLT3FYWERFbzJlemVzVk95RGxCZUhReEVfeHZCelhzSnVKdHpnMjR3anpxZTQyTzhTVm5XT21FUDFZ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "05c1cc327f61",
       "title": "乳がんステージ1、ホルモン療法の副作用をがまんせず「諦める勇気」で見つけた新たな生活",
@@ -78,6 +142,30 @@
       ]
     },
     {
+      "id": "2200a874e0af",
+      "title": "堀江貴文氏「新型コロナとインフルエンザワクチンは推奨してます」と持論 (2026年4月8日掲載)",
+      "published": "2026-04-07T22:00:00+00:00",
+      "sources": [
+        {
+          "name": "ライブドアニュース",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xdFBOSHFEUkxNTmhpU1ZNdjlPTk1IVmJodlNDVFhZc1NCR3hlTlhkalNVVDhZOF9sNVdQbzZfMTJVMmloa3h5Z25vZzgwUnFFTTd6WEhZTkR6bWtLZ2c?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "influenza",
+          "keyword": "インフルエンザ",
+          "related_drugs": [
+            {
+              "slug": "oseltamivir",
+              "name": "タミフルドライシロップ３％（選）"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "b6fd342e34eb",
       "title": "やせ薬とがん：現時点でわかっていること",
       "published": "2026-04-07T15:00:00+00:00",
@@ -85,70 +173,6 @@
         {
           "name": "m3.com",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yVTJPT0ZuVFpiRFV1Vi1HUFc5YkprWUk3S1pQWFNRNFBvMVY3STdic1RyakxnYlU0TkZjRzlXbnJyWVRLUjFlR0I2MnlWMVNjNGc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "がん",
-          "related_drugs": [
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "ゼローダ錠３００　３００ｍｇ（選）"
-            },
-            {
-              "slug": "propranolol",
-              "name": "インデラル錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "imatinib",
-              "name": "グリベック錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "6c5b99578a53",
-      "title": "ブロッコリーの７倍！老化を遅らせる注目の栄養素がとんでもなく多い神食材「ブロッコリースプラウト」がすごい３つの理由 - OTONA SALONE",
-      "published": "2026-04-07T11:56:40+00:00",
-      "sources": [
-        {
-          "name": "OTONA SALONE",
-          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBIZHpaa2JZVzdmSEVSY1UwQkpkc0x4NEFOUi1lemRkUmpaVDFHTE5iSEp3SVVtUXN4MXlJOGtYT2NKbnNZ?oc=5"
         }
       ],
       "keywords": [
@@ -721,253 +745,6 @@
         {
           "name": "時事メディカル",
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE05V1E2aUhYRGlQYVFxVEJzSDNVUzlJX1JiLWl4el8xYlE1M3pJRElNdU5zZ1hsSjlxUFBKc0lqMW9QZkJmaGdkVUF2QQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "がん",
-          "related_drugs": [
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "ゼローダ錠３００　３００ｍｇ（選）"
-            },
-            {
-              "slug": "propranolol",
-              "name": "インデラル錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "imatinib",
-              "name": "グリベック錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4f8fbf94620f",
-      "title": "「おたふく風邪かどうかの判断ポイント」はご存知ですか？受診の目安となる症状も解説！",
-      "published": "2026-04-06T04:58:55+00:00",
-      "sources": [
-        {
-          "name": "メディカルドック",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9jVVhoSFpfYmZTMHlmNFlrbWYtYUc1NXB2UlF4MklSb241djlEbDNMOHZjZDdKQXZTVjEyY3UtRk93TWx6MUVMaURyNy0?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "風邪",
-          "related_drugs": [
-            {
-              "slug": "cetirizine",
-              "name": "ザイザルシロップ０．０５％（選）"
-            },
-            {
-              "slug": "loratadine",
-              "name": "クラリチン錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "chlorpheniramine",
-              "name": "セレスタミン配合錠（選）"
-            },
-            {
-              "slug": "dextromethorphan",
-              "name": "デキストロメトルファン臭化水素酸塩細粒１０％「ツルハラ」"
-            },
-            {
-              "slug": "acetaminophen",
-              "name": "トラムセット配合錠（選）"
-            },
-            {
-              "slug": "codeine",
-              "name": "ムコブロチン配合シロップ"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "9a7349b99739",
-      "title": "手術不能進行胃がんに対する初期治療と維持療法における免疫チェックポイント阻害薬の有用性と日本の課題について（解説：上村 直実 氏）－2097｜CareNet.com",
-      "published": "2026-04-06T01:00:00+00:00",
-      "sources": [
-        {
-          "name": "CareNet.com",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9pUG9HQVE2dTl5UEJkMW5ja3BuTmxlWXo1Y3FIajlPbnFxSVAwTmltMVdZU0dlWVduR2VUV2JiR2FGYzhFQkRYMmlKMGhZRTgxd1pxZF9fOWVJYVFa?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "がん",
-          "related_drugs": [
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "ゼローダ錠３００　３００ｍｇ（選）"
-            },
-            {
-              "slug": "propranolol",
-              "name": "インデラル錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "imatinib",
-              "name": "グリベック錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "gastric cancer",
-          "keyword": "胃がん",
-          "related_drugs": [
-            {
-              "slug": "capecitabine",
-              "name": "ゼローダ錠３００　３００ｍｇ（選）"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "11d29235b2ec",
-      "title": "「治らない」と本人に言わなかった時代があった…希少がん治療と緩和ケアは、この10年でどう変わったのか(集英社オンライン)",
-      "published": "2026-04-05T02:00:45+00:00",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/91676e6c378fdeaf531d1ac0dd373e40ec565485?source=rss"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "がん",
-          "related_drugs": [
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "ゼローダ錠３００　３００ｍｇ（選）"
-            },
-            {
-              "slug": "propranolol",
-              "name": "インデラル錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "imatinib",
-              "name": "グリベック錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "dc7016078699",
-      "title": "「希少がん」は人口10万人あたり6人未満…それでも全部合わせると5人に1人になる驚きのワケ〈東えりか×下山達〉(集英社オンライン)",
-      "published": "2026-04-05T02:00:45+00:00",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/c25f870a6048e8fd9a2a902987815a1b3c691133?source=rss"
         }
       ],
       "keywords": [
