@@ -1,15 +1,19 @@
 {
-  "generated": "2026-04-09T01:16:11.483734+00:00",
-  "count": 9,
+  "generated": "2026-04-09T07:11:08.368394+00:00",
+  "count": 10,
   "news": [
     {
-      "id": "2b9826ff028d",
-      "title": "【母の日】「Chapon」天然精油100%（全4種）の香り、今年は「癒しの時間」をプレゼント(LASISA)",
-      "published": "2026-04-09T01:15:00+00:00",
+      "id": "088406bfbfd6",
+      "title": "「がんはなぜ治療が難しいのか」 腫瘍内科医に聞く、進化する薬物療法と仕事・生活を守る視点（Medical Note）",
+      "published": "2026-04-09T02:50:30+00:00",
       "sources": [
         {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/2238a385d42f4632ac1afec5bb2f89ba8cdcbba9?source=rss"
+          "name": "Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zanR1LXlkVzBRcWk0Tm1fa3lGby1sNS1KZVc5RzN5VDdoY3VJbnJvLWNGa1pFd01YMWd2cnRNSWliTUxKVTI5bncxVktNdHpUSUNBcGpUcDEtSmNfa1ZFTVlsY1VJNG13eVpnYXNsYVl1dnN3dkNsdWJDNjd3UTQ?oc=5"
+        },
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/6d73c50ff90677321457df6752a68b2ff3040d3b?source=rss"
         }
       ],
       "keywords": [
@@ -17,6 +21,57 @@
           "type": "indication",
           "name": "generic_cancer",
           "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腫瘍",
+          "keyword": "腫瘍",
           "related_drugs": [
             {
               "slug": "methotrexate",
@@ -244,6 +299,30 @@
             {
               "slug": "hydrocortisone",
               "name": "ヘモレックス軟膏"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5dacaefb7947",
+      "title": "息切れ、体のむくみ…同時に起きたら要注意 「心不全」の進行を遅らせる“第二の心臓”を鍛える運動療法",
+      "published": "2026-04-08T05:00:00+00:00",
+      "sources": [
+        {
+          "name": "ｄメニューニュース",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSeGhEbDN6YU52dEI1ZlBLZDVKZ25EbXVvY3dUR2JNNzVvVjN4R3M4SWhUNUxmNmtWNWY0RDFlbmtBa1RjektfWC1kNVc3aTF3TjU0d2VuZElqTDhUNzRidnc5SERuYmNFNXM2TQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "heart failure",
+          "keyword": "心不全",
+          "related_drugs": [
+            {
+              "slug": "enalapril",
+              "name": "レニベース錠１０　１０ｍｇ（選）"
             }
           ]
         }
