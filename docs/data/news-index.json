@@ -1,15 +1,15 @@
 {
-  "generated": "2026-04-10T07:15:39.749785+00:00",
-  "count": 14,
+  "generated": "2026-04-10T12:46:46.739355+00:00",
+  "count": 16,
   "news": [
     {
-      "id": "2e1425149c11",
-      "title": "日本の「水の安全神話」は崩壊している？ テフロン加工にも使われる“PFAS”に「発がん性」の懸念《世界中で規制が進むも日本は…》(文春オンライン)",
-      "published": "2026-04-10T07:12:19+00:00",
+      "id": "74e4b5d103ce",
+      "title": "【闘病】死の淵から生還した女性ボーカルを再び襲う悪夢… 直感が告げた『乳がん』(メディカルドック)",
+      "published": "2026-04-10T10:05:15+00:00",
       "sources": [
         {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/a9a7bbdc71490eba3bc15d00083a5a3971ab04f7?source=rss"
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/3289f29dade030aba4a56d41fce1398b974b3221?source=rss"
         }
       ],
       "keywords": [
@@ -61,6 +61,65 @@
             {
               "slug": "hydrocortisone",
               "name": "ヘモレックス軟膏"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1e2ba42b36ba",
+      "title": "はしか患者数が東京で急増、昨年同時期の10倍以上 小池知事が「今できる行動」呼びかけ",
+      "published": "2026-04-10T10:00:14+00:00",
+      "sources": [
+        {
+          "name": "産経ニュース",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ibG14NzZtZXBKeEFKNDRMZnJxYlJ4SU1tbFlIUV9mMG91OTFPbnpqYzlxdXhORWNobXZIUE1MeUY2RWFfQzliVzZxcGNOb1VMUDRsZDk4a21oVFUxbFJXQXEtTHVyRVQzQUptMl9XcGc5XzFKZEE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "influenza",
+          "keyword": "インフルエンザ",
+          "related_drugs": [
+            {
+              "slug": "oseltamivir",
+              "name": "タミフルドライシロップ３％（選）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d0b9e19c60eb",
+      "title": "2023–2024年シーズンの日本における季節性インフルエンザウイルスの遺伝的多様性とバロキサビル耐性変異（PA/I38T）を解析",
+      "published": "2026-04-10T07:37:05+00:00",
+      "sources": [
+        {
+          "name": "med.niigata-u.ac.jp",
+          "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPQzdwNFRNZHBqUFVWRGRkWE5DS1NiazU2Z01wa0cxU21VNHd4WUVwZHhablF3RzltRVo4enNHOGg4M1h0c2lsalNRRWtEbWxsY2VKeE5XblFBd3hKbS1Xd0JtaEZHMTU4dXI1N1RyM1ZCb0x3MFFmR0VVMDc0RXhtR05KN1YxOHB6RU5oX2ZSUDN6eDlRdUlsR01hR3RpRFNFbzFtbThNMDY1RTBXakc3Q0tSSXlEWmhrdWVqLTFpYjl2UkZseHM0VDV1VVpteGNfYUlUWDlYQXFuTWJCQTI5VjBvamlpbjBhei1fQU1nUXhxMFF1SjJBb3NIeW9BeWxKdlRxbm5FNkp0ak1yOXdUMUxEZXpQVktiUGFjVGRCV3BNM3Jzb3hIV2xvT0xRamZMZU0xQjNqZ1kyVjJkbTNSTHdHVTV0NmVjLU5vYi1iWlZ5bXY5eVZ6Tw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "influenza",
+          "keyword": "インフルエンザ",
+          "related_drugs": [
+            {
+              "slug": "oseltamivir",
+              "name": "タミフルドライシロップ３％（選）"
             }
           ]
         }
@@ -905,6 +964,70 @@
       ]
     },
     {
+      "id": "ff00cbf77d66",
+      "title": "最新研究で判明！禁煙の最強切り札は本当に電子タバコなのか？",
+      "published": "2026-04-09T02:30:10+00:00",
+      "sources": [
+        {
+          "name": "apf.inc",
+          "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOWkh2ajFVM1NfS09TTDRaNWJHOHNmUkJFZUc5Sms2OG1JaEFNWVRnRjFWbVhXUFdTUDRNb2o5V2c0ckwzeWlUT0FraE9XUjMwcGl5bEZqQVBIMVhGV1RPTEtvNXJBSEpVbG1SZU1Zd2dEbGZNZTI2ZGdnaEpSTld2MUNCX0ppSzJzRENoWnVGcEVmSUpwSEUyZE9Lc0JjeXN6MlpxR255d2VtQlpXSk5NNVlIVmZsUnNXQkFEdlA4cWlhZzh1eE1MQld2SHhUQ1lGVWIyU0tHenRWa0J3UjE1eENfOFBUelAyUG1BX0hhR0E4WjQzcXNiamxwWFN4XzFEQkZ4ajEzWmRWMnpsVUI1eUVuYl9OVWx0SEJ4VW9KUXA4ZmFKMXZpaGRUQjJuTFF0cEduZ3dEOXl3T0U?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "e90e16181192",
       "title": "米沢商工会議所会員向け「大腸がん啓発月間連動・がんセミナー」を開催 - PR TIMES",
       "published": "2026-04-09T01:00:02+00:00",
@@ -1082,81 +1205,6 @@
             {
               "slug": "rosuvastatin",
               "name": "クレストールＯＤ錠５ｍｇ（選）"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "8863b57e3f2d",
-      "title": "【闘病】受け止めきれない「乳がん」の発覚。マンモグラフィは“毎年”受けていた…(メディカルドック)",
-      "published": "2026-04-07T08:01:36+00:00",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/517d3f1e5ec1e6660b9f127d9b3987b4b5180e6f?source=rss"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "がん",
-          "related_drugs": [
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "ゼローダ錠３００　３００ｍｇ（選）"
-            },
-            {
-              "slug": "propranolol",
-              "name": "インデラル錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "imatinib",
-              "name": "グリベック錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳がん",
-          "related_drugs": [
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
             }
           ]
         }
