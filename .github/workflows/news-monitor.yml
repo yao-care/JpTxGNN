@@ -49,7 +49,7 @@ jobs:
           git config user.email "action@github.com"
 
           # 変更があるファイルのみ追加
-          git add data/news/*.json docs/data/news-index.json
+          git add data/news/*.json docs/_news/ docs/data/news-index.json
 
           # 変更の確認
           if git diff --staged --quiet; then
