@@ -1,7 +1,71 @@
 {
-  "generated": "2026-04-10T18:39:33.837905+00:00",
-  "count": 16,
+  "generated": "2026-04-11T01:20:50.180428+00:00",
+  "count": 15,
   "news": [
+    {
+      "id": "221d1e58acfc",
+      "title": "ストレスや悲しみを感じると「がんのリスク」が増えるって本当？ - @DIME アットダイム",
+      "published": "2026-04-10T23:05:03+00:00",
+      "sources": [
+        {
+          "name": "@DIME アットダイム",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5mSUpUZ05rX3dZSGdYSk1GUkpKOFBQNWRZeUNuRi1wcmF6N29CZ1gtMGlYRGY5c0gySGc0dk05dW90Xy1v?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "74e4b5d103ce",
       "title": "【闘病】死の淵から生還した女性ボーカルを再び襲う悪夢… 直感が告げた『乳がん』(メディカルドック)",
@@ -72,30 +136,6 @@
             {
               "slug": "methotrexate",
               "name": "リウマトレックスカプセル２ｍｇ（選）"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "1e2ba42b36ba",
-      "title": "はしか患者数が東京で急増、昨年同時期の10倍以上 小池知事が「今できる行動」呼びかけ",
-      "published": "2026-04-10T10:00:14+00:00",
-      "sources": [
-        {
-          "name": "産経ニュース",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ibG14NzZtZXBKeEFKNDRMZnJxYlJ4SU1tbFlIUV9mMG91OTFPbnpqYzlxdXhORWNobXZIUE1MeUY2RWFfQzliVzZxcGNOb1VMUDRsZDk4a21oVFUxbFJXQXEtTHVyRVQzQUptMl9XcGc5XzFKZEE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "influenza",
-          "keyword": "インフルエンザ",
-          "related_drugs": [
-            {
-              "slug": "oseltamivir",
-              "name": "タミフルドライシロップ３％（選）"
             }
           ]
         }
@@ -845,6 +885,134 @@
       ]
     },
     {
+      "id": "00b7bd24f1b7",
+      "title": "米沢商工会議所会員向け「大腸がん啓発月間連動・がんセミナー」を開催",
+      "published": "2026-04-09T13:10:00+00:00",
+      "sources": [
+        {
+          "name": "時事ドットコム",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CSHNtaUFSalVlYlZnd21JZ0p4SEgwZjUzZ0tHY0MxcDFWQU5LSXUxY3VkS0tNOExESkc1TlZYX05NNmpmMVhMZnpIQXpWdGpqUTgxb0ZfaW1RUG1aVC13NkM1aURxUGVTUXIw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a130114f626c",
+      "title": "「ただの生理不順」と放置しないで。医師が教える子宮体がんの初期症状と、30代・40代から気をつけるべき“不正出血”の正体",
+      "published": "2026-04-09T10:02:28+00:00",
+      "sources": [
+        {
+          "name": "womenshealthmag.com",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdUpRcWo2U1F4OEQzcU5pTjNTSG81ZU5uWlJIWDRCRkkyMWlDeFpJTktrRWsxX1hhSUdvLTFubnQ2RXdzdUptY1pKTVVMQkd3U2w2VndpNWl3Z0V4N0xaZkFva2xDVG94U1NKcDdVYTE1TFRMOGE2dUhFNDFpSG5MWFZfOUZCX0RqUDZsMGZCWW4xdWRkTkE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "088406bfbfd6",
       "title": "「がんはなぜ治療が難しいのか」 腫瘍内科医に聞く、進化する薬物療法と仕事・生活を守る視点（Medical Note）",
       "published": "2026-04-09T02:50:30+00:00",
@@ -1022,189 +1190,6 @@
             {
               "slug": "hydrocortisone",
               "name": "ヘモレックス軟膏"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "e90e16181192",
-      "title": "米沢商工会議所会員向け「大腸がん啓発月間連動・がんセミナー」を開催 - PR TIMES",
-      "published": "2026-04-09T01:00:02+00:00",
-      "sources": [
-        {
-          "name": "PR TIMES",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uNlBBdjNib05qQVdUSEJBa2NvQUcxcjNiZmo0dElQX19PZTZ3LU82TFRtWFl3S3pYSDhoU3RTY1JpbTFneDNvS2J3RnREc3IzdnhCaTlHNkRPSDMxc0w1UTRnTDVBUDNrN3c?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "がん",
-          "related_drugs": [
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "ゼローダ錠３００　３００ｍｇ（選）"
-            },
-            {
-              "slug": "propranolol",
-              "name": "インデラル錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "imatinib",
-              "name": "グリベック錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "c1aeb88495b7",
-      "title": "日本の乳がん・子宮頸がん・卵巣がんの5年純生存率の推移：2000～14年（CONCORD-3）｜CareNet.com",
-      "published": "2026-04-08T19:00:00+00:00",
-      "sources": [
-        {
-          "name": "CareNet.com",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VNEkxSmFvR0gtRjFoOUMxWDRzUE9rLVlxSmg5VkxkVzFtRThHNDUxNV9WNi01YmN3M1IwZ0U4TngyRk5ZZ0luQmJGci1Dc0FIdDNyN0FCeURQbTJtZVBR?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "がん",
-          "related_drugs": [
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "ゼローダ錠３００　３００ｍｇ（選）"
-            },
-            {
-              "slug": "propranolol",
-              "name": "インデラル錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "imatinib",
-              "name": "グリベック錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳がん",
-          "related_drugs": [
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "73fbfb6bda0e",
-      "title": "脳ケアスコア「BCS」が高いほど脳卒中発症リスクが低い｜CareNet.com",
-      "published": "2026-04-08T19:00:00+00:00",
-      "sources": [
-        {
-          "name": "CareNet.com",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UaEV0aDRhWWUtMDl2UXpzbUVqbW0tQTV1Uzl5WW5XYlpSNzBPOWRjT05IR1IwSEljVTl0dHB4U1FBQXdGbk5jUkNVMTBVQTNLUTNyaUFibzdQQQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "脳卒中",
-          "related_drugs": [
-            {
-              "slug": "atorvastatin",
-              "name": "アトーゼット配合錠ＨＤ（選）"
-            },
-            {
-              "slug": "pravastatin",
-              "name": "メバロチン錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "simvastatin",
-              "name": "リポバス錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "エックスフォージ配合ＯＤ錠（選）"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "ミカムロ配合錠ＢＰ（選）"
-            },
-            {
-              "slug": "rosuvastatin",
-              "name": "クレストールＯＤ錠５ｍｇ（選）"
             }
           ]
         }
