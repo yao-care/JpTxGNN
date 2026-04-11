@@ -18,6 +18,7 @@
       color: #333;
     }
 
+    /* Header */
     .header {
       background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
       color: white;
@@ -35,6 +36,7 @@
       font-size: 14px;
     }
 
+    /* Loading State */
     .loading {
       display: flex;
       flex-direction: column;
@@ -63,6 +65,7 @@
       font-size: 16px;
     }
 
+    /* Error State */
     .error {
       display: none;
       max-width: 600px;
@@ -71,10 +74,6 @@
       background: #fff;
       border-radius: 12px;
       box-shadow: 0 2px 12px rgba(0,0,0,0.1);
-    }
-
-    .error.visible {
-      display: block;
     }
 
     .error-title {
@@ -88,53 +87,380 @@
       line-height: 1.6;
     }
 
+    /* Main Content */
     .content {
       display: none;
-      max-width: 800px;
+      max-width: 1200px;
       margin: 0 auto;
       padding: 24px;
     }
 
-    .content.visible {
-      display: block;
-    }
-
-    .info-card {
+    /* Patient Info */
+    .patient-card {
       background: white;
       border-radius: 12px;
-      padding: 24px;
+      padding: 20px;
       margin-bottom: 24px;
       box-shadow: 0 2px 8px rgba(0,0,0,0.08);
     }
 
-    .info-card h2 {
-      font-size: 18px;
-      margin-bottom: 16px;
-      color: #333;
+    .patient-name {
+      font-size: 20px;
+      font-weight: 600;
+      margin-bottom: 8px;
     }
 
-    .info-card p {
+    .patient-details span {
       color: #666;
-      line-height: 1.6;
+      font-size: 14px;
+      margin-right: 20px;
+    }
+
+    /* Section Titles */
+    .section-title {
+      font-size: 18px;
+      font-weight: 600;
+      margin-bottom: 16px;
+      padding-bottom: 8px;
+      border-bottom: 2px solid #667eea;
+    }
+
+    /* Medication List */
+    .med-section {
+      background: white;
+      border-radius: 12px;
+      padding: 20px;
+      margin-bottom: 24px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+
+    .med-actions {
+      display: flex;
+      gap: 12px;
       margin-bottom: 16px;
     }
 
     .btn {
-      display: inline-block;
-      padding: 12px 24px;
-      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-      color: white;
-      text-decoration: none;
+      padding: 10px 20px;
+      border: none;
       border-radius: 8px;
       font-size: 14px;
+      cursor: pointer;
       transition: all 0.2s;
     }
 
-    .btn:hover {
-      transform: translateY(-2px);
+    .btn-primary {
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      color: white;
+    }
+
+    .btn-primary:hover {
+      transform: translateY(-1px);
       box-shadow: 0 4px 12px rgba(102, 126, 234, 0.4);
     }
 
+    .btn-secondary {
+      background: #e0e0e0;
+      color: #333;
+    }
+
+    .btn-secondary:hover {
+      background: #d0d0d0;
+    }
+
+    .med-list {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+
+    .med-item {
+      padding: 12px 16px;
+      border-radius: 8px;
+      border: 1px solid #e0e0e0;
+      transition: all 0.2s;
+    }
+
+    .med-item.has-match {
+      border-color: #28a745;
+      background: #f8fff8;
+    }
+
+    .med-item.no-match {
+      opacity: 0.6;
+    }
+
+    .med-label {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      cursor: pointer;
+    }
+
+    .med-checkbox {
+      width: 18px;
+      height: 18px;
+      cursor: pointer;
+    }
+
+    .med-checkbox:disabled {
+      cursor: not-allowed;
+    }
+
+    .med-name {
+      font-weight: 500;
+      flex: 1;
+    }
+
+    .match-badge {
+      font-size: 12px;
+      padding: 2px 8px;
+      border-radius: 4px;
+    }
+
+    .match-badge.matched {
+      background: #d4edda;
+      color: #155724;
+    }
+
+    .match-badge.unmatched {
+      background: #f8d7da;
+      color: #721c24;
+    }
+
+    .med-mapping {
+      margin-top: 8px;
+      padding-left: 30px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .jptxgnn-name {
+      color: #667eea;
+      font-size: 14px;
+    }
+
+    /* Level Badges */
+    .level-badge {
+      display: inline-block;
+      padding: 2px 8px;
+      border-radius: 4px;
+      font-size: 11px;
+      font-weight: 600;
+      color: white;
+    }
+
+    .level-L1 { background: #28a745; }
+    .level-L2 { background: #17a2b8; }
+    .level-L3 { background: #ffc107; color: #333; }
+    .level-L4 { background: #fd7e14; }
+    .level-L5 { background: #6c757d; }
+
+    /* Results Section */
+    .results-section {
+      background: white;
+      border-radius: 12px;
+      padding: 20px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+
+    .drug-result-card {
+      border: 1px solid #e0e0e0;
+      border-radius: 12px;
+      padding: 20px;
+      margin-bottom: 16px;
+    }
+
+    .drug-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      margin-bottom: 12px;
+    }
+
+    .drug-header h3 {
+      font-size: 18px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .drug-header h3 a {
+      color: #333;
+      text-decoration: none;
+    }
+
+    .drug-header h3 a:hover {
+      color: #667eea;
+    }
+
+    .view-full {
+      color: #667eea;
+      text-decoration: none;
+      font-size: 14px;
+    }
+
+    .drug-original {
+      color: #666;
+      font-size: 14px;
+      margin-bottom: 16px;
+      line-height: 1.6;
+    }
+
+    .drug-indications {
+      font-size: 14px;
+    }
+
+    .indication-list {
+      margin-top: 12px;
+    }
+
+    .indication-item {
+      padding: 12px 0;
+      border-bottom: 1px solid #f0f0f0;
+    }
+
+    .indication-item:last-child {
+      border-bottom: none;
+    }
+
+    .indication-header {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    .ind-name {
+      flex: 1;
+      min-width: 150px;
+    }
+
+    .ind-score {
+      color: #667eea;
+      font-weight: 500;
+    }
+
+    /* Clinical Trials Button & Container */
+    .trials-btn {
+      padding: 4px 10px;
+      font-size: 12px;
+      background: #17a2b8;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .trials-btn:hover {
+      background: #138496;
+      transform: translateY(-1px);
+    }
+
+    .trials-container {
+      margin-top: 8px;
+      margin-left: 24px;
+      font-size: 13px;
+    }
+
+    .trials-loading {
+      color: #666;
+      font-style: italic;
+    }
+
+    .trials-none {
+      color: #999;
+    }
+
+    .trials-summary {
+      color: #28a745;
+      margin-bottom: 8px;
+    }
+
+    .trials-list {
+      background: #f8f9fa;
+      border-radius: 8px;
+      padding: 12px;
+    }
+
+    .trial-item {
+      padding: 8px 0;
+      border-bottom: 1px solid #e9ecef;
+    }
+
+    .trial-item:last-child {
+      border-bottom: none;
+    }
+
+    .trial-nct {
+      color: #007bff;
+      font-weight: 500;
+      text-decoration: none;
+      margin-right: 8px;
+    }
+
+    .trial-nct:hover {
+      text-decoration: underline;
+    }
+
+    .trial-status {
+      font-size: 11px;
+      padding: 2px 6px;
+      border-radius: 3px;
+      margin-right: 6px;
+    }
+
+    .status-recruiting { background: #d4edda; color: #155724; }
+    .status-active { background: #cce5ff; color: #004085; }
+    .status-completed { background: #e2e3e5; color: #383d41; }
+    .status-terminated { background: #f8d7da; color: #721c24; }
+    .status-pending { background: #fff3cd; color: #856404; }
+    .status-unknown { background: #e9ecef; color: #495057; }
+
+    .trial-phase {
+      font-size: 11px;
+      color: #6c757d;
+    }
+
+    .trial-title {
+      margin-top: 4px;
+      color: #495057;
+      line-height: 1.4;
+    }
+
+    .trials-more {
+      display: block;
+      margin-top: 8px;
+      color: #667eea;
+      font-size: 13px;
+      text-decoration: none;
+    }
+
+    .trials-more:hover {
+      text-decoration: underline;
+    }
+
+    .more-indications {
+      padding: 12px 0;
+      color: #666;
+      font-size: 13px;
+    }
+
+    .more-indications a {
+      color: #667eea;
+      margin-left: 8px;
+    }
+
+    /* Empty State */
+    .empty-state {
+      text-align: center;
+      padding: 40px;
+      color: #666;
+    }
+
+    /* Disclaimer */
     .disclaimer {
       background: #fff3cd;
       border: 1px solid #ffc107;
@@ -149,95 +475,81 @@
       display: block;
       margin-bottom: 8px;
     }
+
+    /* Responsive */
+    @media (max-width: 768px) {
+      .content {
+        padding: 16px;
+      }
+
+      .drug-header {
+        flex-direction: column;
+        gap: 8px;
+      }
+
+      .med-actions {
+        flex-direction: column;
+      }
+    }
   </style>
 </head>
 <body>
   <header class="header">
     <h1>JpTxGNN SMART App</h1>
-    <p>医薬品リポジショニング候補検索システム</p>
+    <p>医薬品リポジショニング候補検索</p>
   </header>
 
+  <!-- Loading State -->
   <div class="loading" id="loading">
     <div class="spinner"></div>
-    <div class="loading-text">認証情報を確認中...</div>
+    <div class="loading-text">EHRからデータを読み込み中...</div>
   </div>
 
+  <!-- Error State -->
   <div class="error" id="error">
     <h2 class="error-title">エラーが発生しました</h2>
-    <p class="error-message" id="error-message"></p>
+    <p class="error-message"></p>
   </div>
 
+  <!-- Main Content -->
   <main class="content" id="content">
-    <div class="info-card">
-      <h2>SMART on FHIR 認証完了</h2>
-      <p>
-        EHR システムからの認証が完了しました。
-        JpTxGNN では、日本で承認された医薬品に対する新規適応症の予測を提供しています。
-      </p>
-      <p>
-        現在、このアプリはデモ版です。完全な EHR 統合機能は開発中です。
-        今すぐ医薬品リポジショニング予測データを閲覧するには、下のボタンをクリックしてください。
-      </p>
-      <a href="/drugs/" class="btn">医薬品検索へ</a>
-    </div>
+    <!-- Patient Info -->
+    <div id="patient-info"></div>
 
-    <div class="info-card">
-      <h2>利用可能な機能</h2>
-      <ul style="margin-left: 20px; line-height: 1.8; color: #666;">
-        <li>123 種類の医薬品に対するリポジショニング予測</li>
-        <li>33,901 件の潜在的新適応症候補</li>
-        <li>FHIR R4 形式でのデータエクスポート</li>
-        <li>健康ニュースモニタリング</li>
-      </ul>
-    </div>
+    <!-- Medication List -->
+    <section class="med-section">
+      <h2 class="section-title">患者服用薬リスト（EHR から取得）</h2>
+      <div class="med-actions">
+        <button class="btn btn-secondary" id="select-all-btn">全選択/全解除</button>
+        <button class="btn btn-primary" id="query-btn">選択した薬剤のリポジショニング候補を検索</button>
+      </div>
+      <div id="medication-list"></div>
+    </section>
 
+    <!-- Repurposing Results -->
+    <section class="results-section">
+      <h2 class="section-title">リポジショニング候補結果</h2>
+      <div id="repurposing-results">
+        <div class="empty-state">
+          <p>薬剤を選択し「検索」ボタンをクリックしてください</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Disclaimer -->
     <div class="disclaimer">
       <strong>免責事項</strong>
-      本サービスは研究目的のみで提供されており、医療アドバイスを構成するものではありません。
-      すべての予測は臨床検証を経ていません。医療判断には使用しないでください。
+      本サイトの内容は研究目的のみで提供されており、専門的な医療アドバイスに代わるものではありません。すべての医薬品リポジショニング予測結果は、臨床検証を経てから適用する必要があります。
+      健康上の問題がある場合は、資格のある医療専門家にご相談ください。本アプリケーションは患者データを保存しません。
       <br><br>
       <a href="/privacy-policy/" style="color: #856404;">プライバシーポリシー</a>
     </div>
   </main>
 
+  <!-- Dependencies -->
+  <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/fhirclient@2.5.4/build/fhir-client.min.js"></script>
-  <script>
-    (function() {
-      'use strict';
-
-      const loadingEl = document.getElementById('loading');
-      const errorEl = document.getElementById('error');
-      const errorMessageEl = document.getElementById('error-message');
-      const contentEl = document.getElementById('content');
-
-      function showError(message) {
-        loadingEl.style.display = 'none';
-        errorMessageEl.textContent = message;
-        errorEl.classList.add('visible');
-      }
-
-      function showContent() {
-        loadingEl.style.display = 'none';
-        contentEl.classList.add('visible');
-      }
-
-      // Try to complete SMART authorization
-      FHIR.oauth2.ready()
-        .then(function(client) {
-          console.log('SMART client ready:', client);
-          showContent();
-        })
-        .catch(function(error) {
-          console.error('SMART ready error:', error);
-          // If not in SMART context, still show the content
-          if (error.message && error.message.includes('No state')) {
-            showContent();
-          } else {
-            showError('SMART 認証を完了できませんでした。\n\nエラー: ' + (error.message || error));
-          }
-        });
-
-    })();
-  </script>
+  <script src="/assets/js/smart-fhir-mapper.js"></script>
+  <script src="/assets/js/smart-app.js"></script>
 </body>
 </html>

@@ -19,7 +19,7 @@ class BaseNotesWriter(ABC):
     def __init__(
         self,
         llm_client: LLMClient | None = None,
-        model: str = "gpt-4o",
+        model: str | None = None,
     ):
         """Initialize the writer.
 

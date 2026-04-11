@@ -28,7 +28,7 @@ class DrugEvidencePackGenerator:
     def __init__(
         self,
         llm_client: LLMClient | None = None,
-        model: str = "gpt-4o",
+        model: str | None = None,
     ):
         """Initialize the generator.
 
@@ -37,6 +37,21 @@ class DrugEvidencePackGenerator:
             model: Model to use if creating a new LLMClient.
         """
         self.llm_client = llm_client or LLMClient(model=model)
+
+    @staticmethod
+    def _get_regulatory(bundle) -> dict:
+        """Get regulatory data from bundle, handling different field names."""
+        for attr in ("tfda", "thaifda", "pmda", "npra", "mhra", "tga", "fda"):
+            val = getattr(bundle, attr, None)
+            if val is not None:
+                return val
+        return {"found": False, "records": []}
+
+    @staticmethod
+    def _has_package_insert(bundle) -> dict:
+        """Get package_insert data, handling bundles without it."""
+        return getattr(bundle, "package_insert", {"found": False})
+
 
     def _get_analysis_prompt_path(self) -> Path:
         """Get the path to the analysis-only prompt (v4)."""
@@ -172,9 +187,9 @@ class DrugEvidencePackGenerator:
                 "data_gaps": self._identify_data_gaps(bundle),
             },
             "drug": {
-                "inn": drug.inn,
+                "inn": getattr(drug, "inn", getattr(drug, "name", "")),
                 "drugbank_id": drug.drugbank_id,
-                "brand_name_zh": drug.brand_name_zh,
+                "brand_name_zh": getattr(drug, "brand_name_zh", getattr(drug, "brand_name_th", getattr(drug, "brand_name", None))),
                 "original_indications": drug.original_indications,
                 "original_moa": drug.original_moa or "[Data Gap]",
             },
@@ -195,8 +210,8 @@ class DrugEvidencePackGenerator:
                 "dosage_forms_by_route": dosage_forms,
             },
             "safety": {
-                "key_warnings": bundle.package_insert.get("warnings", ["[Data Gap]"]),
-                "contraindications": bundle.package_insert.get("contraindications", ["[Data Gap]"]),
+                "key_warnings": self._has_package_insert(bundle).get("warnings", ["[Data Gap]"]),
+                "contraindications": self._has_package_insert(bundle).get("contraindications", ["[Data Gap]"]),
                 "ddi": {
                     "query_status": "completed" if bundle.safety.get("ddi") else "not_found",
                     "total_count": len(bundle.safety.get("ddi", [])),
@@ -231,7 +246,7 @@ class DrugEvidencePackGenerator:
             inputs.append("ddi")
         if bundle.drugbank.get("found"):
             inputs.append("drugbank")
-        if bundle.package_insert.get("found"):
+        if self._has_package_insert(bundle).get("found"):
             inputs.append("package_insert")
 
         # Check if any indication has trials or pubmed
@@ -250,7 +265,7 @@ class DrugEvidencePackGenerator:
         gap_id = 1
 
         # Check PMDA package insert
-        if not bundle.package_insert.get("found"):
+        if not self._has_package_insert(bundle).get("found"):
             gaps.append({
                 "id": f"DG{gap_id:03d}",
                 "category": "Drug_Level",

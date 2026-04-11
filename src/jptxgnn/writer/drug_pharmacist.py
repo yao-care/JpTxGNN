@@ -23,7 +23,7 @@ class DrugPharmacistNotesWriter(BaseNotesWriter):
     def __init__(
         self,
         llm_client: LLMClient | None = None,
-        model: str = "gpt-4o",
+        model: str | None = None,
         prompt_version: str = "v4",
     ):
         """Initialize the writer.

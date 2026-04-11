@@ -6,7 +6,7 @@
 ## 入力
 Evidence Pack JSON を受け取ります。内容：
 - `drug`: 薬物基本情報（inn, drugbank_id, original_moa）
-- `japan_regulatory`: 日本での承認状況と市販情報
+- `taiwan_regulatory`: 日本での承認状況と市販情報
 - `predicted_indications`: TxGNN が予測した新規適応症（臨床試験と文献を含む）
 - `safety`: 安全性情報（DDI、警告、禁忌）
 
@@ -36,12 +36,12 @@ Evidence Pack JSON を受け取ります。内容：
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | [japan_regulatory.licenses から抽出、最初の空でない approved_indication_text を取得] |
+| 既存適応症 | [taiwan_regulatory.licenses から抽出、最初の空でない approved_indication_text を取得] |
 | 予測新規適応症 | [predicted_indications[0].disease_name から抽出] |
 | TxGNN 予測スコア | [predicted_indications[0].txgnn.score から抽出、パーセンテージに変換] |
 | エビデンスレベル | [臨床試験と文献数に基づき L1-L5 を判定] |
-| 日本市販状況 | [japan_regulatory.market_status から抽出] |
-| 承認番号数 | [japan_regulatory.total_licenses から抽出] |
+| 日本市販状況 | [taiwan_regulatory.market_status から抽出] |
+| 承認番号数 | [taiwan_regulatory.total_licenses から抽出] |
 | 推奨決定 | [Go / Hold / Proceed with Guardrails] |
 
 ---
@@ -92,7 +92,7 @@ MOA データがない場合は明確に記載：
 
 ### 日本市販情報
 
-`japan_regulatory.licenses` から抽出し、表を作成：
+`taiwan_regulatory.licenses` から抽出し、表を作成：
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|

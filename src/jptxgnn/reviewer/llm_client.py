@@ -1,134 +1,103 @@
-"""OpenAI API client for LLM interactions."""
+"""Claude Code CLI client for LLM interactions.
 
-import os
+Uses `claude -p` (print mode) to invoke the Claude Code CLI as the LLM backend.
+No API key required — uses the user's existing Claude Code subscription.
+"""
+
+import subprocess
+import time
 from pathlib import Path
 
 
 class LLMClient:
-    """Client for OpenAI API interactions.
+    """Client that invokes the claude CLI for LLM interactions.
 
-    Uses environment variable OPENAI_API_KEY for authentication.
+    No API key required — relies on the user's Claude Code authentication.
     """
 
     def __init__(
         self,
-        model: str = "gpt-4o",
-        api_key: str | None = None,
+        model: str | None = None,
+        api_key: str | None = None,  # kept for backward compat, ignored
     ):
         """Initialize the LLM client.
 
         Args:
-            model: OpenAI model to use (default: gpt-4o)
-            api_key: Optional API key. If not provided, uses OPENAI_API_KEY env var.
+            model: Optional model override (e.g. "sonnet", "opus").
+                   If None, uses Claude Code's default model.
+            api_key: Ignored. Kept for backward compatibility.
         """
         self.model = model
-        self.api_key = api_key or os.environ.get("OPENAI_API_KEY")
-
-        if not self.api_key:
-            raise ValueError(
-                "OpenAI API key not found. "
-                "Set OPENAI_API_KEY environment variable or pass api_key parameter."
-            )
-
-        # Lazy import to avoid dependency issues if openai is not installed
-        self._client = None
-
-    @property
-    def client(self):
-        """Get or create the OpenAI client."""
-        if self._client is None:
-            try:
-                from openai import OpenAI
-                import httpx
-
-                # Use longer timeout for large prompts
-                timeout = httpx.Timeout(600.0, connect=120.0)
-                # Use custom http client with retries for SSL issues
-                http_client = httpx.Client(
-                    timeout=timeout,
-                    transport=httpx.HTTPTransport(retries=3),
-                )
-                self._client = OpenAI(api_key=self.api_key, http_client=http_client)
-            except ImportError:
-                raise ImportError(
-                    "openai package not installed. "
-                    "Install with: pip install openai"
-                )
-        return self._client
 
     def chat(
         self,
         user_message: str,
         system_prompt: str | None = None,
         temperature: float = 0.7,
-        max_tokens: int | None = None,
-        max_retries: int = 5,
+        max_tokens: int = 16384,
+        max_retries: int = 3,
     ) -> str:
-        """Send a chat message and get a response.
+        """Send a message to claude CLI and get a response.
 
         Args:
-            user_message: The user's message
-            system_prompt: Optional system prompt
-            temperature: Sampling temperature (0-2)
-            max_tokens: Maximum tokens in response
-            max_retries: Maximum retry attempts for transient errors
+            user_message: The user's message (passed via stdin)
+            system_prompt: Optional system prompt (passed via --system-prompt)
+            temperature: Unused by CLI, kept for API compatibility
+            max_tokens: Unused by CLI, kept for API compatibility
+            max_retries: Maximum retry attempts on transient errors
 
         Returns:
             The assistant's response text
         """
-        import time
+        cmd = [
+            "claude", "-p",
+            "--output-format", "text",
+            "--verbose",
+        ]
 
-        messages = []
+        if self.model:
+            cmd.extend(["--model", self.model])
 
         if system_prompt:
-            messages.append({"role": "system", "content": system_prompt})
-
-        messages.append({"role": "user", "content": user_message})
-
-        kwargs = {
-            "model": self.model,
-            "messages": messages,
-            "temperature": temperature,
-        }
-
-        if max_tokens:
-            kwargs["max_tokens"] = max_tokens
-
-        # Import OpenAI exceptions for proper handling
-        try:
-            from openai import APITimeoutError, APIConnectionError
-        except ImportError:
-            APITimeoutError = Exception
-            APIConnectionError = Exception
+            cmd.extend(["--system-prompt", system_prompt])
 
         last_error = None
         for attempt in range(max_retries):
             try:
-                response = self.client.chat.completions.create(**kwargs)
-                return response.choices[0].message.content
-            except (APITimeoutError, APIConnectionError) as e:
+                result = subprocess.run(
+                    cmd,
+                    input=user_message,
+                    capture_output=True,
+                    text=True,
+                    timeout=600,
+                )
+                if result.returncode != 0:
+                    stderr = result.stderr.strip()
+                    # Check for transient errors
+                    if any(x in stderr.lower() for x in ["overloaded", "timeout", "rate"]):
+                        raise RuntimeError(stderr)
+                    raise RuntimeError(f"claude CLI failed (exit {result.returncode}): {stderr[:300]}")
+                return result.stdout.strip()
+
+            except subprocess.TimeoutExpired as e:
                 last_error = e
-                wait_time = min(30 * (2 ** attempt), 120)  # 30s, 60s, 120s, 120s, 120s
-                print(f"  [Retry {attempt + 1}/{max_retries}] API error: {type(e).__name__}, waiting {wait_time}s...")
+                wait_time = min(30 * (2 ** attempt), 120)
+                print(f"  [Retry {attempt + 1}/{max_retries}] Timeout, waiting {wait_time}s...")
                 time.sleep(wait_time)
-                # Recreate the client to reset connection
-                self._client = None
-                continue
-            except Exception as e:
+
+            except RuntimeError as e:
                 last_error = e
                 error_str = str(e).lower()
-                # Retry on transient network errors
-                if any(x in error_str for x in ["timeout", "connection", "disconnected", "eof"]):
-                    wait_time = min(30 * (2 ** attempt), 120)  # 30s, 60s, 120s, 120s, 120s
-                    print(f"  [Retry {attempt + 1}/{max_retries}] Connection error, waiting {wait_time}s...")
+                if any(x in error_str for x in ["overloaded", "timeout", "rate"]):
+                    wait_time = min(30 * (2 ** attempt), 120)
+                    print(f"  [Retry {attempt + 1}/{max_retries}] {type(e).__name__}, waiting {wait_time}s...")
                     time.sleep(wait_time)
-                    # Recreate the client to reset connection
-                    self._client = None
                     continue
-                # Don't retry on other errors
                 raise
 
-        # All retries exhausted
+            except Exception as e:
+                raise
+
         raise last_error
 
     def chat_with_prompt_file(
@@ -136,15 +105,15 @@ class LLMClient:
         user_message: str,
         prompt_file: str | Path,
         temperature: float = 0.7,
-        max_tokens: int | None = None,
+        max_tokens: int = 16384,
     ) -> str:
         """Send a chat message using a system prompt from a file.
 
         Args:
             user_message: The user's message
             prompt_file: Path to the prompt file (.md or .txt)
-            temperature: Sampling temperature (0-2)
-            max_tokens: Maximum tokens in response
+            temperature: Unused by CLI, kept for API compatibility
+            max_tokens: Unused by CLI, kept for API compatibility
 
         Returns:
             The assistant's response text
@@ -165,15 +134,6 @@ class LLMClient:
 
 def get_prompt_path(prompt_name: str) -> Path:
     """Get the path to a prompt file.
-
-    Args:
-        prompt_name: One of:
-            - "evidence_pack_reviewer" - Pair-centric v1
-            - "evidence_pack_reviewer_v2" - Drug-centric v2
-            - "pharmacist" - Pair-centric pharmacist notes
-            - "pharmacist_v2" - Drug-centric pharmacist notes
-            - "sponsor" - Pair-centric sponsor notes
-            - "sponsor_v2" - Drug-centric sponsor notes
 
     Returns:
         Path to the prompt file
