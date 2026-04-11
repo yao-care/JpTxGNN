@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="zh-TW">
+<html lang="ja">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>JpTxGNN SMART App - 獨立測試模式</title>
+  <title>JpTxGNN SMART App - スタンドアロンテスト</title>
   <style>
     * {
       box-sizing: border-box;
@@ -12,7 +12,7 @@
     }
 
     body {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Noto Sans TC', sans-serif;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Hiragino Kaku Gothic ProN', sans-serif;
       background: #f5f7fa;
       min-height: 100vh;
       color: #333;
@@ -553,42 +553,42 @@
 <body>
   <header class="header">
     <h1>JpTxGNN SMART App</h1>
-    <p>老藥新用候選查詢系統</p>
-    <span class="mode-badge">獨立測試模式</span>
+    <p>医薬品リポジショニング候補検索システム</p>
+    <span class="mode-badge">スタンドアロンテスト</span>
   </header>
 
   <main class="content">
     <div class="info-card">
-      <h3>獨立測試模式</h3>
+      <h3>スタンドアロンテスト</h3>
       <p>
-        此頁面允許您手動輸入<strong>藥物名稱</strong>來測試 JpTxGNN 的老藥新用預測功能，
-        無需連接 EHR 系統。請輸入英文藥物名稱（如 Famotidine、Docetaxel、Paclitaxel）。
+        このページでは、EHR システムに接続せずに、<strong>薬剤名</strong>を手動入力して JpTxGNN の医薬品リポジショニング予測機能をテストできます。
+        英語の薬剤名を入力してください（例：Famotidine、Docetaxel、Paclitaxel）。
       </p>
       <p style="margin-top: 8px; color: #856404;">
-        <strong>注意：</strong>請輸入藥物名稱，而非疾病名稱。例如輸入「Famotidine」而非「diabetes」。
-        目前資料庫包含 189 種藥物，可點擊下方範例按鈕快速測試。
+        <strong>注意：</strong>疾患名ではなく薬剤名を入力してください。例えば「diabetes」ではなく「Famotidine」と入力してください。
+        現在のデータベースには 189 種類の薬剤が含まれています。下のサンプルボタンをクリックしてすぐにテストできます。
       </p>
     </div>
 
     <section class="section">
-      <h2 class="section-title">輸入藥物名稱</h2>
+      <h2 class="section-title">薬剤名を入力</h2>
 
       <div class="input-group">
-        <input type="text" id="drug-input" placeholder="輸入藥物名稱，如 Famotidine、Docetaxel..." autocomplete="off">
-        <button class="btn btn-primary" id="add-btn">新增</button>
+        <input type="text" id="drug-input" placeholder="薬剤名を入力（例：Famotidine、Docetaxel...）" autocomplete="off">
+        <button class="btn btn-primary" id="add-btn">追加</button>
       </div>
 
       <div class="drug-tags" id="drug-tags">
-        <span style="color: #999; font-size: 14px;">尚未新增藥物</span>
+        <span style="color: #999; font-size: 14px;">薬剤が追加されていません</span>
       </div>
 
       <div style="display: flex; gap: 12px;">
-        <button class="btn btn-primary" id="query-btn">查詢老藥新用候選</button>
-        <button class="btn btn-secondary" id="clear-btn">清除全部</button>
+        <button class="btn btn-primary" id="query-btn">リポジショニング候補を検索</button>
+        <button class="btn btn-secondary" id="clear-btn">すべてクリア</button>
       </div>
 
       <div class="sample-drugs">
-        <p>L1 高證據藥物範例（點擊新增）：</p>
+        <p>L1 高エビデンス薬剤のサンプル（クリックして追加）：</p>
         <div class="sample-list">
           <button class="sample-btn" data-drug="Famotidine">Famotidine</button>
           <button class="sample-btn" data-drug="Docetaxel">Docetaxel</button>
@@ -603,25 +603,25 @@
     </section>
 
     <section class="ddi-section" id="ddi-section" style="display: none;">
-      <h2 class="section-title">⚠️ 藥物交互作用警示</h2>
+      <h2 class="section-title">⚠️ 薬物相互作用アラート</h2>
       <div id="ddi-results"></div>
     </section>
 
     <section class="section">
-      <h2 class="section-title">查詢結果</h2>
+      <h2 class="section-title">検索結果</h2>
       <div id="results">
         <div class="empty-state">
-          <p>請新增藥物並點擊「查詢」按鈕</p>
+          <p>薬剤を追加して「検索」ボタンをクリックしてください</p>
         </div>
       </div>
     </section>
 
     <div class="disclaimer">
-      <strong>免責聲明</strong>
-      本網站內容僅供研究參考，不能取代專業醫療建議。所有藥物再利用預測結果需經過臨床驗證才能應用。
-      如有健康問題，請諮詢合格醫療人員。
+      <strong>免責事項</strong>
+      本ツールは研究参考用であり、医療アドバイスを構成するものではありません。すべての医薬品リポジショニング予測結果は、臨床検証を経てから適用する必要があります。
+      健康上の問題がある場合は、資格のある医療従事者にご相談ください。
       <br><br>
-      <a href="/privacy-policy/" style="color: #856404;">隱私權政策</a>
+      <a href="/privacy-policy/" style="color: #856404;">プライバシーポリシー</a>
     </div>
   </main>
 
@@ -666,7 +666,7 @@
       // Load search index
       async function init() {
         try {
-          resultsDiv.innerHTML = '<div class="loading">載入藥物資料庫中...</div>';
+          resultsDiv.innerHTML = '<div class="loading">薬剤データベースを読み込み中...</div>';
 
           const response = await fetch(CONFIG.searchIndexUrl);
           if (!response.ok) throw new Error('Failed to load search index');
@@ -689,18 +689,18 @@
             // Auto-query
             await queryRepurposing();
           } else {
-            resultsDiv.innerHTML = '<div class="empty-state"><p>請新增藥物並點擊「查詢」按鈕</p></div>';
+            resultsDiv.innerHTML = '<div class="empty-state"><p>薬剤を追加して「検索」ボタンをクリックしてください</p></div>';
           }
         } catch (error) {
           console.error('Init error:', error);
-          resultsDiv.innerHTML = '<div class="empty-state" style="color: #c00;"><p>載入藥物資料庫失敗</p></div>';
+          resultsDiv.innerHTML = '<div class="empty-state" style="color: #c00;"><p>薬剤データベースの読み込みに失敗しました</p></div>';
         }
       }
 
       // Render drug tags
       function renderTags() {
         if (selectedDrugs.length === 0) {
-          drugTags.innerHTML = '<span style="color: #999; font-size: 14px;">尚未新增藥物</span>';
+          drugTags.innerHTML = '<span style="color: #999; font-size: 14px;">薬剤が追加されていません</span>';
           return;
         }
 
@@ -736,17 +736,17 @@
       // Query repurposing candidates
       async function queryRepurposing() {
         if (selectedDrugs.length === 0) {
-          resultsDiv.innerHTML = '<div class="empty-state"><p>請至少新增一個藥物</p></div>';
+          resultsDiv.innerHTML = '<div class="empty-state"><p>少なくとも1つの薬剤を追加してください</p></div>';
           document.getElementById('ddi-section').style.display = 'none';
           return;
         }
 
         if (!drugMapper) {
-          resultsDiv.innerHTML = '<div class="empty-state" style="color: #c00;"><p>藥物資料庫尚未載入</p></div>';
+          resultsDiv.innerHTML = '<div class="empty-state" style="color: #c00;"><p>薬剤データベースがまだ読み込まれていません</p></div>';
           return;
         }
 
-        resultsDiv.innerHTML = '<div class="loading">查詢中...</div>';
+        resultsDiv.innerHTML = '<div class="loading">検索中...</div>';
 
         // Check DDI
         const ddiSection = document.getElementById('ddi-section');
@@ -758,7 +758,7 @@
             ddiResults.innerHTML = JpTxGNN.DDIChecker.formatAlertsHTML(ddiAlerts);
           } else {
             ddiSection.style.display = 'block';
-            ddiResults.innerHTML = '<div class="ddi-no-alerts">✓ 未發現已知藥物交互作用警示</div>';
+            ddiResults.innerHTML = '<div class="ddi-no-alerts">✓ 既知の薬物相互作用アラートは見つかりませんでした</div>';
           }
         } else {
           ddiSection.style.display = 'none';
@@ -779,13 +779,13 @@
                     <a href="${CONFIG.drugsBaseUrl}${match.slug}/" target="_blank">${escapeHtml(match.name)}</a>
                     <span class="level-badge level-${match.level}">${match.level}</span>
                   </h3>
-                  <a href="${CONFIG.drugsBaseUrl}${match.slug}/" target="_blank" class="view-full">查看完整報告 →</a>
+                  <a href="${CONFIG.drugsBaseUrl}${match.slug}/" target="_blank" class="view-full">完全なレポートを見る →</a>
                 </div>
                 <div class="result-original">
-                  <strong>原適應症：</strong>${escapeHtml(match.original) || '—'}
+                  <strong>既存の適応症：</strong>${escapeHtml(match.original) || '—'}
                 </div>
                 <div>
-                  <strong>預測新適應症（老藥新用候選）：</strong>
+                  <strong>予測された新適応症（医薬品リポジショニング候補）：</strong>
                   <div class="indication-list">
             `;
 
@@ -799,7 +799,7 @@
                       <span class="ind-name">${escapeHtml(ind.name)}</span>
                       <span class="ind-score">${ind.score}%</span>
                       <button class="trials-btn" onclick="loadClinicalTrials('${escapeHtml(match.name)}', '${escapeHtml(ind.name)}', '${trialsContainerId}')">
-                        🔬 臨床試驗
+                        🔬 臨床試験
                       </button>
                     </div>
                     <div class="trials-container" id="${trialsContainerId}"></div>
@@ -810,13 +810,13 @@
               if (indications.length > 10) {
                 html += `
                   <div class="more-link">
-                    ...及其他 ${indications.length - 10} 個預測適應症
-                    <a href="${CONFIG.drugsBaseUrl}${match.slug}/" target="_blank">查看全部</a>
+                    ...その他 ${indications.length - 10} 件の予測適応症
+                    <a href="${CONFIG.drugsBaseUrl}${match.slug}/" target="_blank">すべて表示</a>
                   </div>
                 `;
               }
             } else {
-              html += '<p style="color: #666; padding: 8px 0;">無預測新適應症</p>';
+              html += '<p style="color: #666; padding: 8px 0;">予測された新適応症はありません</p>';
             }
 
             html += '</div></div></div>';
@@ -828,10 +828,10 @@
                   <h3>${escapeHtml(drugName)}</h3>
                 </div>
                 <p class="no-match">
-                  在 JpTxGNN 資料庫中找不到「${escapeHtml(drugName)}」。
+                  JpTxGNN データベースに「${escapeHtml(drugName)}」が見つかりませんでした。
                   <br><span style="font-style: normal; color: #666;">
-                    請確認這是藥物名稱（非疾病名稱），或嘗試使用學名。
-                    目前資料庫包含 189 種台灣健保核准藥物。
+                    これが薬剤名（疾患名ではない）であることを確認するか、一般名を使用してみてください。
+                    現在のデータベースには 189 種類の PMDA 承認薬剤が含まれています。
                   </span>
                 </p>
               </div>
@@ -839,7 +839,7 @@
           }
         }
 
-        resultsDiv.innerHTML = html || '<div class="empty-state"><p>無結果</p></div>';
+        resultsDiv.innerHTML = html || '<div class="empty-state"><p>結果なし</p></div>';
       }
 
       function escapeHtml(text) {
@@ -907,18 +907,18 @@
         const container = document.getElementById(containerId);
         if (!container) return;
 
-        container.innerHTML = '<span class="trials-loading">搜尋臨床試驗中...</span>';
+        container.innerHTML = '<span class="trials-loading">臨床試験を検索中...</span>';
 
         const result = await searchClinicalTrials(drugName, indicationName);
 
         if (result.totalCount === 0) {
-          container.innerHTML = '<span class="trials-none">無相關臨床試驗</span>';
+          container.innerHTML = '<span class="trials-none">関連する臨床試験はありません</span>';
           return;
         }
 
         let html = `
           <div class="trials-summary">
-            找到 <strong>${result.totalCount}</strong> 個相關臨床試驗
+            <strong>${result.totalCount}</strong> 件の関連臨床試験が見つかりました
           </div>
           <div class="trials-list">
         `;
@@ -939,7 +939,7 @@
           const searchUrl = `https://clinicaltrials.gov/search?cond=${encodeURIComponent(indicationName)}&intr=${encodeURIComponent(drugName)}`;
           html += `
             <a href="${searchUrl}" target="_blank" class="trials-more">
-              查看全部 ${result.totalCount} 個臨床試驗 →
+              すべての ${result.totalCount} 件の臨床試験を表示 →
             </a>
           `;
         }
@@ -967,14 +967,14 @@
        */
       function formatTrialStatus(status) {
         const statusMap = {
-          'RECRUITING': '招募中',
-          'ACTIVE_NOT_RECRUITING': '進行中',
-          'COMPLETED': '已完成',
-          'TERMINATED': '已終止',
-          'NOT_YET_RECRUITING': '尚未招募',
-          'SUSPENDED': '暫停',
-          'WITHDRAWN': '已撤回',
-          'ENROLLING_BY_INVITATION': '邀請招募'
+          'RECRUITING': '募集中',
+          'ACTIVE_NOT_RECRUITING': '実施中',
+          'COMPLETED': '完了',
+          'TERMINATED': '中止',
+          'NOT_YET_RECRUITING': '未募集',
+          'SUSPENDED': '一時中断',
+          'WITHDRAWN': '取り下げ',
+          'ENROLLING_BY_INVITATION': '招待制募集'
         };
         return statusMap[status] || status;
       }
@@ -997,7 +997,7 @@
       clearBtn.addEventListener('click', () => {
         selectedDrugs = [];
         renderTags();
-        resultsDiv.innerHTML = '<div class="empty-state"><p>請新增藥物並點擊「查詢」按鈕</p></div>';
+        resultsDiv.innerHTML = '<div class="empty-state"><p>薬剤を追加して「検索」ボタンをクリックしてください</p></div>';
       });
 
       // Sample drug buttons
