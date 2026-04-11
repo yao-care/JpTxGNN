@@ -1,8 +1,298 @@
 {
-  "last_updated": "2026-04-11T06:50:11.731348+00:00",
-  "total_count": 47,
+  "last_updated": "2026-04-11T12:35:39.038234+00:00",
+  "total_count": 46,
   "matched_count": 15,
   "news": [
+    {
+      "id": "49431d6c714d",
+      "title": "声優・小倉 唯さん「恥ずかしいことも含めて全部お話しします（笑）」メイク遍歴大公開！(MAQUIA)",
+      "published": "2026-04-11T12:31:03+00:00",
+      "summary": "声優・アーティストとして第一線で活躍しながら、徹底した美容研究とリアルな発信で“声優界の美容番長”としても注目を集める小倉 唯さん。今回はこれまで積み重ねてきたセルフメイクの遍歴をクローズアップします",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/cfc4e279215e8ce33cad4188d27abeb2fb1662f7?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "00a8c28f7ef4",
+      "title": "京都に行ったら食べたい！おいしさもエンタメ感も大満足な薬膳×イタリアン(T JAPAN web)",
+      "published": "2026-04-11T12:30:43+00:00",
+      "summary": "京都⽣まれ、京都育ちの⾷いしん坊、京都でおいしいものに出合いたければ、この⼈に聞けばハズレなし！そんなアマジュンこと天野準⼦の絶品満腹⼝福アドレス。今月は「京都に行ったら和食へ」という方も選択肢に入れ",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/2d3a0177cbd8f38c6300e79634121d8d976fa465?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "37c1387f743c",
+      "title": "「プロテイン＝筋トレ用」はもう古い。. 肌・メンタル・睡眠に効くプロテイン美容の最新事情【医師監修】(ELLE DIGITAL)",
+      "published": "2026-04-11T12:20:10+00:00",
+      "summary": "数々のセレブがプロテインブランドをプロデュースし、高プロテインのスナックやシリアル、ドーナツまでも登場。アメリカ発プロテインブームの背景と、美容と健康のための正しい取り入れ方をチェック！『エル・ジャポ",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/2960aa524e1c4fe621924890da47b39b97270862?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "89c7a76c820c",
+      "title": "過度な水分補給にはリスクがある？医師が教える「逆効果な水分補給」のやり方(ヨガジャーナルオンライン)",
+      "published": "2026-04-11T12:10:00+00:00",
+      "summary": "健康のために水分補給を意識する方は増えています。とても良い習慣ですが、「たくさん飲めばより健康になる」という考え方には注意が必要です。実際には、飲み方によっては体に負担をかけ、血管や全身のバランスを崩",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/b5bca1360eb32629d31fa14450beaac639f2eb8a?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "3aeaaed437d6",
+      "title": "「キレイな人は夜が8割」続けて差がつく美容通たちの習慣(GISELe)",
+      "published": "2026-04-11T12:07:00+00:00",
+      "summary": "夜は成長ホルモンが分泌され、肌を生まれ変わらせる大切な時間。ファッション・美容業界で忙しく働くデザイナーやPR、美容師など、彼女たちが選りすぐったものは、その効果も証明された美容成分が含まれているもの",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/37d644b7d77f4193b0895b7453c3e6c15aaf9dfc?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "b39418d05dc8",
+      "title": "頭痛やめまいに作用するツボ「通天」。風邪の鼻づまりや嗅覚障害にも効きます(家庭画報.com)",
+      "published": "2026-04-11T12:00:42+00:00",
+      "summary": "中医学のエキスパートである鍼灸師の兵頭 明先生が、ツボの効能や位置、効くメカニズムを解説します。健康の土台作りに、不調改善に、1日1分のツボ押しを習慣にしましょう。",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/9817657574799f3463a05a0fa1fe0f87f2d180e5?source=rss"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "風邪",
+          "related_drugs": [
+            {
+              "slug": "cetirizine",
+              "name": "ザイザルシロップ０．０５％（選）"
+            },
+            {
+              "slug": "loratadine",
+              "name": "クラリチン錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "chlorpheniramine",
+              "name": "セレスタミン配合錠（選）"
+            },
+            {
+              "slug": "dextromethorphan",
+              "name": "デキストロメトルファン臭化水素酸塩細粒１０％「ツルハラ」"
+            },
+            {
+              "slug": "acetaminophen",
+              "name": "トラムセット配合錠（選）"
+            },
+            {
+              "slug": "codeine",
+              "name": "ムコブロチン配合シロップ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a0f96a9a1575",
+      "title": "知っているようで実は知らない？糖尿病の人が控えた方がいいNG食べ物は｜管理栄養士が解説(ヨガジャーナルオンライン)",
+      "published": "2026-04-11T11:45:00+00:00",
+      "summary": "「糖尿病になったら、もう好きなものは食べられないの？」そんな不安を感じている方は少なくありません。インターネット上では「糖尿病の人が避けるべき食べ物」といった表現を目にすることもありますが、実は「絶対",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/eb6ccad4d3ffc5a6b6b55dd4a272714d9555ccc3?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "9a415088e97e",
+      "title": "アルテミス2の宇宙食を食べてみた　おいしさに驚いた一品は…　NASAで聞いた開発秘話(ナショナル ジオグラフィック日本版)",
+      "published": "2026-04-11T11:10:55+00:00",
+      "summary": "米航空宇宙局（NASA）ジョンソン宇宙センターのキッチンで、シューレイ・ウー氏が記者のためにコース料理を用意してくれていた。バーベキュー風ブリスケット（牛胸肉）、チキンのサルサソース添え、サイドには",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/36fa1cb69fbd21bac0868285107167da1921eaaf?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "522d631d377a",
+      "title": "KRAS G12C変異陽性大腸がん、ソトラシブ＋パニツムマブのアジア人・長期の有用性（CodeBreaK 300/101）／日本臨床腫瘍学会｜CareNet.com",
+      "published": "2026-04-11T10:16:17+00:00",
+      "summary": "KRAS G12C変異陽性大腸がん、ソトラシブ＋パニツムマブのアジア人・長期の有用性（CodeBreaK 300/101）／日本臨床腫瘍学会｜CareNet.com&nbsp;&nbsp;CareNet.com",
+      "sources": [
+        {
+          "name": "CareNet.com",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBfSUljT09DTDNkd2NyU0k4Tno1eXFTYVdJbmxrZElUZWhES2tmdFF6WWd0azlWc3pVeVRXbWxCVmNUMGROTHM1eUJuWGFGVkNEaS1KMFoxQjNWSVMwektv?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "腫瘍",
+          "keyword": "腫瘍",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a93d723191a4",
+      "title": "はしかワクチン接種 沖縄県「2回受けて」 県内で感染者の確認受け呼びかけ",
+      "published": "2026-04-11T10:14:00+00:00",
+      "summary": "はしかワクチン接種 沖縄県「2回受けて」 県内で感染者の確認受け呼びかけ&nbsp;&nbsp;沖縄タイムス社すれ違っただけでも感染のおそれ 最強クラスの感染力持つ「はしか」 医師はワクチン接種を呼びかけ&nbsp;&nbsp;TBS NEWS DIG麻しん（はしか）流行 免疫をもたない人は「ほぼ100％」が発症 #エキスパートトピ（倉原優） - エキスパート&nbsp;&nbsp;Yahoo!ニュース感染力はインフルエンザの約10倍!? 宮崎市で7年ぶりの｢はしか｣感染を確認 驚異の感染力から身を守るために今できること&nbsp;&nbsp;ｄメニューニュースはしか 症状や感染力は？予防や拡大を防ぐには 2020年以降 最も早いペースで増加&nbsp;&nbsp;nhk.or.jp",
+      "sources": [
+        {
+          "name": "沖縄タイムス社",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5scTRtdDZXdk9YSllXWmlYS2V1ODNWdjlXellET1d2VGVPaEhxYVZ3VUN4Unk1VkNIa29DZGNtLXplTVg3Q3ZCSjZ0MGt1MG94N2poOEJuby16MHNuUEE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "influenza",
+          "keyword": "インフルエンザ",
+          "related_drugs": [
+            {
+              "slug": "oseltamivir",
+              "name": "タミフルドライシロップ３％（選）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "198b550afaea",
+      "title": "月面基地と資源開発に弾み　米中主導権争いの中、日本も中核へ　アルテミス有人月周回成功(産経新聞)",
+      "published": "2026-04-11T08:40:13+00:00",
+      "summary": "オリオン宇宙船の帰還で、国際有人月探査プロジェクト「アルテミス計画」の有人月周回が11日、成功した。月への輸送手段の確立に向け、大きく前進した形で、米航空宇宙局（NASA）は同日、月を「行って帰る場所",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/964d694127eebcf2997ef025fc6ef94902ac3092?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "3e43d20c5609",
       "title": "最新研究で急進展！アルツハイマー病の初期サインがこれまでで最も明確に特定された",
@@ -17,19 +307,6 @@
       "matched_keywords": []
     },
     {
-      "id": "e3af1f78b06d",
-      "title": "「花粉の薬を買うお金でミスドを買った」→箱を開けたら、大量の……　「なんか治りそう」「隙のない完璧な処方や」と107万表示(ねとらぼ)",
-      "published": "2026-04-11T05:30:00+00:00",
-      "summary": "花粉症の薬を買いに行ったはずが、なぜかミスドへ……。そのまさかの購入品がX（Twitter）に投稿されました。「天才」「なんか治りそう」と反響を呼び、記事執筆時点で107万回表示を突破、7万1000",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/40f086c780a5de76f32f313ee93e7c942ce6dc11?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "db1373e92a8b",
       "title": "元請け、下請け、孫請け…原発産業特有の「多重請負構造」　福島第1原発の環境改善へ、奔走した産業医(西日本新聞)",
       "published": "2026-04-11T05:00:09+00:00",
@@ -38,32 +315,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/8db34f9f8d19f5d1949f4f19cd257bb44ed511f7?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "ab38254318f0",
-      "title": "「マンガ　赤と青のガウン」彬子さま×三宅香帆さんトークイベント　心情が際立つ漫画と日本美術の「余白」(好書好日)",
-      "published": "2026-04-11T04:30:02+00:00",
-      "summary": "イギリス・オックスフォード大学の大学院に留学し、女性皇族として初めて博士号を取得した三笠宮家の彬子さまの累計43万部の大ベストセラー『赤と青のガウン オックスフォード留学記』（PHP研究所）を原作に",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/9163046224c91158c26c54f3f1d5a6914811d84b?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "672646e0d61a",
-      "title": "ノースフェイスの“たっぷり入るショルダーバッグ”→A4も入る収納力に「いいバッグって声かけられた」「このサイズが欲しかった」の声(ねとらぼ)",
-      "published": "2026-04-11T04:05:00+00:00",
-      "summary": "1966年に米国サンフランシスコで創業されたアウトドアブランド、ザ・ノース・フェイス。「Never Stop Exploring」をスローガンに、過酷な自然環境に対応する高機能なウェアやギアを開発し",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/5c8290ed99989afb2b9581f0a7b9e697b0c5176b?source=rss"
         }
       ],
       "matched_keywords": []
@@ -169,71 +420,6 @@
             {
               "slug": "losartan",
               "name": "ニューロタン錠５０ｍｇ（選）"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "1896e09664c4",
-      "title": "大腸がん「発生させない」ための生活習慣　便潜血検査との両輪でリスクを抑える",
-      "published": "2026-04-11T01:00:00+00:00",
-      "summary": "大腸がん「発生させない」ための生活習慣 便潜血検査との両輪でリスクを抑える&nbsp;&nbsp;ｄメニューニュース「大腸がん」知らせるサイン…日本人で一番多いがん「大腸がん」早期発見ポイント&nbsp;&nbsp;TBS NEWS DIG米沢商工会議所会員向け「大腸がん啓発月間連動・がんセミナー」を開催&nbsp;&nbsp;福島民報デジタル日本人で一番多いがん！「大腸がん」早期発見のポイント 4/5(日)『健康カプセル！ゲンキの時間』&nbsp;&nbsp;朝日新聞「大腸がん」知らせるサイン…日本人で一番多いがん「大腸がん」早期発見ポイント（CBCテレビ）&nbsp;&nbsp;Yahoo!ニュース",
-      "sources": [
-        {
-          "name": "ｄメニューニュース",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBieXdvV3JscVJyMUluSjl1SGhGeEZ3c0JtbFc0SFNpdEtjM2dOYWs3SHlvZFVFTVZyM09VSWQzT0QzUzZ4UE5WaXlhd2t2VE5ZVlZqbzFyWkF6bF94SU03WFFOQ2ttUlhJZlV2U2FMN1pDcHVwU3Vj0gF8QVVfeXFMUHVIRnlKMEhBM1loTjYwejVZcjFza0hoLVphVTVTWGxTY3lqQ3plbWM0WXU1UEdBSV82VGZXSlZGeG1rM3pOS0NhU3Q5clVLVVNMcWhOV3pybFFuM2ZvUTNmMHVpd0VVeG1GSTZoNU1zQnc1TFNrUHBOUVFscw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "がん",
-          "related_drugs": [
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "ゼローダ錠３００　３００ｍｇ（選）"
-            },
-            {
-              "slug": "propranolol",
-              "name": "インデラル錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "imatinib",
-              "name": "グリベック錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
             }
           ]
         }
@@ -418,19 +604,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1e2ba42b36ba",
-      "title": "はしか患者数が東京で急増、昨年同時期の10倍以上 小池知事が「今できる行動」呼びかけ",
-      "published": "2026-04-10T10:00:14+00:00",
-      "summary": "はしか患者数が東京で急増、昨年同時期の10倍以上 小池知事が「今できる行動」呼びかけ&nbsp;&nbsp;産経ニュースすれ違っただけでも感染のおそれ 最強クラスの感染力持つ「はしか」 医師はワクチン接種を呼びかけ&nbsp;&nbsp;TBS NEWS DIGはしか患者数が東京で急増、昨年同時期の10倍以上 小池知事が「今できる行動」呼びかけ（産経新聞）&nbsp;&nbsp;Yahoo!ニュース沖縄で今年初のはしか確認 知事が注意喚起 全国で急増、ワクチン2回接種を&nbsp;&nbsp;沖縄タイムス社はしか 症状や感染力は？予防や拡大を防ぐには 2020年以降 最も早いペースで増加&nbsp;&nbsp;nhk.or.jp",
-      "sources": [
-        {
-          "name": "産経ニュース",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ibG14NzZtZXBKeEFKNDRMZnJxYlJ4SU1tbFlIUV9mMG91OTFPbnpqYzlxdXhORWNobXZIUE1MeUY2RWFfQzliVzZxcGNOb1VMUDRsZDk4a21oVFUxbFJXQXEtTHVyRVQzQUptMl9XcGc5XzFKZEE?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "53233d182f09",
@@ -1116,19 +1289,6 @@
       "matched_keywords": []
     },
     {
-      "id": "3c73da191647",
-      "title": "「人生に意味を持つ」人ほど、うつ症状が少なくなる傾向",
-      "published": "2026-04-09T22:02:40+00:00",
-      "summary": "「人生に意味を持つ」人ほど、うつ症状が少なくなる傾向&nbsp;&nbsp;ナゾロジー",
-      "sources": [
-        {
-          "name": "ナゾロジー",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXU1AzMkZoTGRXekxvVDRWQWF0SFpJcEZfRGEwN1hBR2V1cC1LTTVJb2dWRERFX0gwT2NaNXV6MU5Kd2dJMkwyVGhjUWpVSUlMeExBeXVMaHVRa00?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "ce5623b4b8a1",
       "title": "性感染症の診断・治療ガイドライン2026、６年ぶりの改訂",
       "published": "2026-04-09T19:55:32+00:00",
@@ -1380,71 +1540,6 @@
       "matched_keywords": []
     },
     {
-      "id": "a130114f626c",
-      "title": "「ただの生理不順」と放置しないで。医師が教える子宮体がんの初期症状と、30代・40代から気をつけるべき“不正出血”の正体",
-      "published": "2026-04-09T10:02:28+00:00",
-      "summary": "「ただの生理不順」と放置しないで。医師が教える子宮体がんの初期症状と、30代・40代から気をつけるべき“不正出血”の正体&nbsp;&nbsp;womenshealthmag.com",
-      "sources": [
-        {
-          "name": "womenshealthmag.com",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdUpRcWo2U1F4OEQzcU5pTjNTSG81ZU5uWlJIWDRCRkkyMWlDeFpJTktrRWsxX1hhSUdvLTFubnQ2RXdzdUptY1pKTVVMQkd3U2w2VndpNWl3Z0V4N0xaZkFva2xDVG94U1NKcDdVYTE1TFRMOGE2dUhFNDFpSG5MWFZfOUZCX0RqUDZsMGZCWW4xdWRkTkE?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "がん",
-          "related_drugs": [
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "ゼローダ錠３００　３００ｍｇ（選）"
-            },
-            {
-              "slug": "propranolol",
-              "name": "インデラル錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "imatinib",
-              "name": "グリベック錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "59d4fc56c8fa",
       "title": "空気感染するはしか、増加続く 厚労省が接種徹底と注意呼びかけ(Science Portal)",
       "published": "2026-04-09T08:06:48+00:00",
@@ -1453,19 +1548,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/a55c5e09d7a4a1453fffea4c57cc678e4f77fb3f?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "d7222757d78a",
-      "title": "「血液型で感染リスクがこんなに違う」世界大規模調査が証明、O型に比べて免疫学的にリスクが高い血液型とは",
-      "published": "2026-04-09T07:15:43+00:00",
-      "summary": "「血液型で感染リスクがこんなに違う」世界大規模調査が証明、O型に比べて免疫学的にリスクが高い血液型とは&nbsp;&nbsp;Yahoo!ニュース",
-      "sources": [
-        {
-          "name": "Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9XY2h5cUtwdG1XdUtsWWY0bGJLV2d1ZlpVbFc5Y2NxNEFQTnBnOXlzWkxRa0JkVkJPS1hqMmtoVWtqU3FXWGhXQ0RRdU5ST3YzRFVHX2hRVU85NE9sbWtSclg3TGhycGp5cDFreW9wRUt0dTljN3Fka0RCc3BnaE0?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1484,19 +1566,6 @@
       "matched_keywords": []
     },
     {
-      "id": "74bea54aafe5",
-      "title": "気体状次亜塩素酸で付着ウイルスを最大99.9％不活化：医療技術ニュース",
-      "published": "2026-04-09T06:00:00+00:00",
-      "summary": "気体状次亜塩素酸で付着ウイルスを最大99.9％不活化：医療技術ニュース&nbsp;&nbsp;MONOist",
-      "sources": [
-        {
-          "name": "MONOist",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mTDhRRE9NZE1KZEQ2RS05WmpBVUp6czhMRWlqUDQ4c3BBOVk5YlhmdktFYTY1UVpXMVJGTHYxMGpKUU9fZC0zN1BtMHR1ODRCSzFuVjBPT09wcFJvbXB1SmFLRmRXeUpYN0haRzB3UQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "a25c5eb578ca",
       "title": "米大陸先住民、最終氷期からゲームに興じていた可能性　先史時代のサイコロが示唆(CNN.co.jp)",
       "published": "2026-04-09T05:09:00+00:00",
@@ -1505,148 +1574,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/1adf785086965127317bf65099cb2abf49faa23f?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "85c06ecdc046",
-      "title": "「がんはなぜ治療が難しいのか」 腫瘍内科医に聞く、進化する薬物療法と仕事・生活を守る視点(Medical Note)",
-      "published": "2026-04-09T02:50:30+00:00",
-      "summary": "本来、私たちの体には傷ついた細胞を修復したり、不要になった細胞を自ら死なせたりする機能が備わっている。しかし、その制御システムから外れ、「不老」となって増え続ける細胞がある。それががん細胞だ。 なぜ",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/6d73c50ff90677321457df6752a68b2ff3040d3b?source=rss"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "がん",
-          "related_drugs": [
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "ゼローダ錠３００　３００ｍｇ（選）"
-            },
-            {
-              "slug": "propranolol",
-              "name": "インデラル錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "imatinib",
-              "name": "グリベック錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "腫瘍",
-          "keyword": "腫瘍",
-          "related_drugs": [
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "ゼローダ錠３００　３００ｍｇ（選）"
-            },
-            {
-              "slug": "propranolol",
-              "name": "インデラル錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "imatinib",
-              "name": "グリベック錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "257ce838dfd4",
-      "title": "地球の未来を変える　県が着目したのは「牛のげっぷ」　“新設備”を公開　愛知(メ〜テレ（名古屋テレビ）)",
-      "published": "2026-04-08T09:13:01+00:00",
-      "summary": "地球の未来を変えるため愛知県が着目したのは、「牛のげっぷ」。県独自の研究を進めるうえで欠かせないものがお披露目されました。 車を入念に洗浄し、防護服に身を包み…厳重な管理の先にたどり着いたのは",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/6600112c86e6f1706c9018ee71455093063473c6?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "231e8b5527a9",
-      "title": "知っていますか？1型糖尿病のこと――自身も発症を経験した医師が語る治療の実際(Medical Note)",
-      "published": "2026-04-08T04:50:13+00:00",
-      "summary": "糖尿病と聞くと「生活習慣の乱れが原因」と考える人は少なくない。しかし近年の医学では、糖尿病の発症は生活習慣だけで説明できるものではなく、さまざまな要因が関わると考えられるようになってきている。 特に1",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/3cbab35692a06263d126805264a44715e18341d2?source=rss"
         }
       ],
       "matched_keywords": []
