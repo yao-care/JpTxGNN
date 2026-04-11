@@ -262,7 +262,7 @@
                 <span class="level-badge level-${ind.level}">${ind.level}</span>
                 <span class="ind-name">${escapeHtml(ind.name)}</span>
                 <span class="ind-score">${ind.score}%</span>
-                <button class="trials-btn" onclick="JpTxGNN.SmartApp.loadTrials('${escapeHtml(drug.name)}', '${escapeHtml(ind.name)}', '${trialsContainerId}')">
+                <button class="trials-btn" onclick="JpTxGNN.SmartApp.loadTrials('${escapeHtml(drug.slug)}', '${escapeHtml(ind.name)}', '${trialsContainerId}')">
                   臨床試験
                 </button>
               </div>
