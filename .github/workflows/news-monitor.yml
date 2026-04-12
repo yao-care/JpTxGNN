@@ -48,8 +48,10 @@ jobs:
           git config user.name "GitHub Action"
           git config user.email "action@github.com"
 
-          # 変更があるファイルのみ追加
-          git add data/news/*.json docs/_news/ docs/data/news-index.json
+          # 変更があるファイルのみ追加（存在しないパスを無視）
+          [ -d data/news ] && git add data/news/*.json 2>/dev/null || true
+          [ -d docs/_news ] && git add docs/_news/
+          [ -f docs/data/news-index.json ] && git add docs/data/news-index.json
 
           # 変更の確認
           if git diff --staged --quiet; then
