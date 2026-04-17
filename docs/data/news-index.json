@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-17T12:56:48.671130+00:00",
-  "count": 9,
+  "generated": "2026-04-17T18:43:43.320057+00:00",
+  "count": 10,
   "news": [
     {
       "id": "929a691ad400",
@@ -1255,6 +1255,58 @@
             {
               "slug": "capecitabine",
               "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "96f5233f47da",
+      "title": "花粉症だと思ったら風邪？ 放置すると悪化のリスクも 見分けのために注目すべき4つのチェック項目とは【医師解説】",
+      "published": "2026-04-16T00:04:15+00:00",
+      "sources": [
+        {
+          "name": "オトナンサー",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9XTTUtUlVEUGEzTEV6WHpiR3RmcjdmZFFxWjRlZ2k4RDRlcUhkWTlPSUptbjd6N19DQ2FrSVFsWnB2Smk4NFdDQU5n?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "風邪",
+          "related_drugs": [
+            {
+              "slug": "theophylline",
+              "name": "ユニコン錠１００　１００ｍｇ（選）"
+            },
+            {
+              "slug": "cetirizine",
+              "name": "ザイザルシロップ０．０５％（選）"
+            },
+            {
+              "slug": "morphine",
+              "name": "モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」"
+            },
+            {
+              "slug": "loratadine",
+              "name": "クラリチン錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "chlorpheniramine",
+              "name": "セレスタミン配合錠（選）"
+            },
+            {
+              "slug": "dextromethorphan",
+              "name": "デキストロメトルファン臭化水素酸塩細粒１０％「ツルハラ」"
+            },
+            {
+              "slug": "acetaminophen",
+              "name": "トラムセット配合錠（選）"
+            },
+            {
+              "slug": "codeine",
+              "name": "ムコブロチン配合シロップ"
             }
           ]
         }
