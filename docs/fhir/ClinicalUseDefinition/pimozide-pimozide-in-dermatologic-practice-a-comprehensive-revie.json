@@ -1,0 +1,45 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "pimozide-pimozide-in-dermatologic-practice-a-comprehensive-revie",
+  "meta": {
+    "profile": [
+      "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition"
+    ]
+  },
+  "type": "indication",
+  "status": {
+    "coding": [
+      {
+        "system": "http://hl7.org/fhir/publication-status",
+        "code": "draft",
+        "display": "Draft"
+      }
+    ]
+  },
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/pimozide"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "text": "Pimozide in dermatologic practice: a comprehensive review | 2004 | Pimozide 被發現對拔毛症有效，是皮膚科精神疾病的選擇之一"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://jptxgnn.yao.care/fhir/StructureDefinition/prediction-status",
+      "valueCode": "predicted"
+    },
+    {
+      "url": "https://jptxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://jptxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.99
+    }
+  ]
+}

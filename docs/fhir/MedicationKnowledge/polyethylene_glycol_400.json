@@ -1,0 +1,37 @@
+{
+  "resourceType": "MedicationKnowledge",
+  "id": "polyethylene_glycol_400",
+  "meta": {
+    "profile": [
+      "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+    ]
+  },
+  "status": "active",
+  "code": {
+    "coding": [
+      {
+        "system": "https://jptxgnn.yao.care/drugs",
+        "code": "polyethylene_glycol_400",
+        "display": "Polyethylene Glycol 400"
+      }
+    ],
+    "text": "Polyethylene Glycol 400"
+  },
+  "intendedJurisdiction": [
+    {
+      "coding": [
+        {
+          "system": "urn:iso:std:iso:3166",
+          "code": "JP",
+          "display": "Japan"
+        }
+      ]
+    }
+  ],
+  "extension": [
+    {
+      "url": "https://jptxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    }
+  ]
+}

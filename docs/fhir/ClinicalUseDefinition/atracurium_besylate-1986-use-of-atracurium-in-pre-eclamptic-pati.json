@@ -1,0 +1,45 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "atracurium_besylate-1986-use-of-atracurium-in-pre-eclamptic-pati",
+  "meta": {
+    "profile": [
+      "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition"
+    ]
+  },
+  "type": "indication",
+  "status": {
+    "coding": [
+      {
+        "system": "http://hl7.org/fhir/publication-status",
+        "code": "draft",
+        "display": "Draft"
+      }
+    ]
+  },
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/atracurium_besylate"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "text": "1986 | Use of atracurium in pre-eclamptic patients | 直接相關：子癇前症患者使用 atracurium 的報告"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://jptxgnn.yao.care/fhir/StructureDefinition/prediction-status",
+      "valueCode": "predicted"
+    },
+    {
+      "url": "https://jptxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://jptxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.99
+    }
+  ]
+}

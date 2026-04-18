@@ -1,0 +1,37 @@
+{
+  "resourceType": "MedicationKnowledge",
+  "id": "aluminum_chloride",
+  "meta": {
+    "profile": [
+      "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+    ]
+  },
+  "status": "active",
+  "code": {
+    "coding": [
+      {
+        "system": "https://jptxgnn.yao.care/drugs",
+        "code": "aluminum_chloride",
+        "display": "Aluminum Chloride"
+      }
+    ],
+    "text": "Aluminum Chloride"
+  },
+  "intendedJurisdiction": [
+    {
+      "coding": [
+        {
+          "system": "urn:iso:std:iso:3166",
+          "code": "JP",
+          "display": "Japan"
+        }
+      ]
+    }
+  ],
+  "extension": [
+    {
+      "url": "https://jptxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L3"
+    }
+  ]
+}

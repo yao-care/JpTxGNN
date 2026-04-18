@@ -1,0 +1,45 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "fenoprofen-1977-fenoprofen-2-4g-day",
+  "meta": {
+    "profile": [
+      "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition"
+    ]
+  },
+  "type": "indication",
+  "status": {
+    "coding": [
+      {
+        "system": "http://hl7.org/fhir/publication-status",
+        "code": "draft",
+        "display": "Draft"
+      }
+    ]
+  },
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/fenoprofen"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "text": "1977 | 綜述 | Fenoprofen 2.4g/day 用於僵直性脊椎炎的療效與安全性回顧"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://jptxgnn.yao.care/fhir/StructureDefinition/prediction-status",
+      "valueCode": "predicted"
+    },
+    {
+      "url": "https://jptxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://jptxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.99
+    }
+  ]
+}

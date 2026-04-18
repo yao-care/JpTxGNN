@@ -1,0 +1,45 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "thiamine-thiamine-2020",
+  "meta": {
+    "profile": [
+      "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition"
+    ]
+  },
+  "type": "indication",
+  "status": {
+    "coding": [
+      {
+        "system": "http://hl7.org/fhir/publication-status",
+        "code": "draft",
+        "display": "Draft"
+      }
+    ]
+  },
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/thiamine"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "text": "甲狀腺亢進患者的 Thiamine 代謝異常 | 2020 | 觀察性"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://jptxgnn.yao.care/fhir/StructureDefinition/prediction-status",
+      "valueCode": "predicted"
+    },
+    {
+      "url": "https://jptxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://jptxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.99
+    }
+  ]
+}

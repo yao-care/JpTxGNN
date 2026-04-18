@@ -1,0 +1,45 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "lornoxicam-lornoxicam-2017",
+  "meta": {
+    "profile": [
+      "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition"
+    ]
+  },
+  "type": "indication",
+  "status": {
+    "coding": [
+      {
+        "system": "http://hl7.org/fhir/publication-status",
+        "code": "draft",
+        "display": "Draft"
+      }
+    ]
+  },
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/lornoxicam"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "text": "Lornoxicam 奈米微胞配方在實驗性關節炎的治療效果 | 2017 | 奈米製劑可提升療效並減少副作用"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://jptxgnn.yao.care/fhir/StructureDefinition/prediction-status",
+      "valueCode": "predicted"
+    },
+    {
+      "url": "https://jptxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://jptxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.99
+    }
+  ]
+}

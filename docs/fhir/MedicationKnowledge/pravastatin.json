@@ -12,10 +12,10 @@
       {
         "system": "https://jptxgnn.yao.care/drugs",
         "code": "pravastatin",
-        "display": "メバロチン錠５　５ｍｇ（選）"
+        "display": "Pravastatin"
       }
     ],
-    "text": "メバロチン錠５　５ｍｇ（選）"
+    "text": "Pravastatin"
   },
   "intendedJurisdiction": [
     {
@@ -31,7 +31,7 @@
   "extension": [
     {
       "url": "https://jptxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-      "valueCode": "L5"
+      "valueCode": "L2"
     }
   ]
 }

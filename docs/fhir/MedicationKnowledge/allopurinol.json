@@ -12,10 +12,10 @@
       {
         "system": "https://jptxgnn.yao.care/drugs",
         "code": "allopurinol",
-        "display": "ザイロリック錠１００　１００ｍｇ（選）"
+        "display": "Allopurinol"
       }
     ],
-    "text": "ザイロリック錠１００　１００ｍｇ（選）"
+    "text": "Allopurinol"
   },
   "intendedJurisdiction": [
     {
@@ -31,7 +31,7 @@
   "extension": [
     {
       "url": "https://jptxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-      "valueCode": "L5"
+      "valueCode": "L3"
     }
   ]
 }

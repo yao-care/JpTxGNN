@@ -12,10 +12,10 @@
       {
         "system": "https://jptxgnn.yao.care/drugs",
         "code": "metoprolol",
-        "display": "ロプレソール錠４０ｍｇ（選）"
+        "display": "Metoprolol"
       }
     ],
-    "text": "ロプレソール錠４０ｍｇ（選）"
+    "text": "Metoprolol"
   },
   "intendedJurisdiction": [
     {
@@ -31,7 +31,7 @@
   "extension": [
     {
       "url": "https://jptxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-      "valueCode": "L5"
+      "valueCode": "L2"
     }
   ]
 }

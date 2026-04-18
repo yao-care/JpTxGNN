@@ -12,10 +12,10 @@
       {
         "system": "https://jptxgnn.yao.care/drugs",
         "code": "prednisolone",
-        "display": "プレドネマ注腸２０ｍｇ"
+        "display": "Prednisolone"
       }
     ],
-    "text": "プレドネマ注腸２０ｍｇ"
+    "text": "Prednisolone"
   },
   "intendedJurisdiction": [
     {
@@ -31,7 +31,7 @@
   "extension": [
     {
       "url": "https://jptxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-      "valueCode": "L5"
+      "valueCode": "L3"
     }
   ]
 }

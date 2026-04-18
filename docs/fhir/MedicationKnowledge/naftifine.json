@@ -1,0 +1,37 @@
+{
+  "resourceType": "MedicationKnowledge",
+  "id": "naftifine",
+  "meta": {
+    "profile": [
+      "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+    ]
+  },
+  "status": "active",
+  "code": {
+    "coding": [
+      {
+        "system": "https://jptxgnn.yao.care/drugs",
+        "code": "naftifine",
+        "display": "Naftifine"
+      }
+    ],
+    "text": "Naftifine"
+  },
+  "intendedJurisdiction": [
+    {
+      "coding": [
+        {
+          "system": "urn:iso:std:iso:3166",
+          "code": "JP",
+          "display": "Japan"
+        }
+      ]
+    }
+  ],
+  "extension": [
+    {
+      "url": "https://jptxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L1"
+    }
+  ]
+}

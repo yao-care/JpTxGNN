@@ -12,10 +12,10 @@
       {
         "system": "https://jptxgnn.yao.care/drugs",
         "code": "famotidine",
-        "display": "ガスター錠１０ｍｇ（選）"
+        "display": "Famotidine"
       }
     ],
-    "text": "ガスター錠１０ｍｇ（選）"
+    "text": "Famotidine"
   },
   "intendedJurisdiction": [
     {
@@ -31,7 +31,7 @@
   "extension": [
     {
       "url": "https://jptxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-      "valueCode": "L5"
+      "valueCode": "L2"
     }
   ]
 }
