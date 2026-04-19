@@ -8,17 +8,24 @@ import subprocess
 import time
 from pathlib import Path
 
+# Transient error patterns that trigger retry with backoff
+_TRANSIENT_PATTERNS = ("overloaded", "timeout", "rate", "quota", "limit", "capacity", "too many")
+
 
 class LLMClient:
     """Client that invokes the claude CLI for LLM interactions.
 
     No API key required — relies on the user's Claude Code authentication.
+
+    Features adaptive throttling: slows down on rate-limit signals,
+    speeds back up after consecutive successes.
     """
 
     def __init__(
         self,
         model: str | None = None,
         api_key: str | None = None,  # kept for backward compat, ignored
+        request_delay: float = 5.0,
     ):
         """Initialize the LLM client.
 
@@ -26,8 +33,37 @@ class LLMClient:
             model: Optional model override (e.g. "sonnet", "opus").
                    If None, uses Claude Code's default model.
             api_key: Ignored. Kept for backward compatibility.
+            request_delay: Minimum seconds between requests (default 5).
         """
         self.model = model
+        self._base_delay = request_delay
+        self._current_delay = request_delay
+        self._consecutive_ok = 0
+        self._last_request_time = 0.0
+
+    def _wait_for_throttle(self) -> None:
+        """Wait until enough time has passed since the last request."""
+        if self._last_request_time > 0:
+            elapsed = time.time() - self._last_request_time
+            remaining = self._current_delay - elapsed
+            if remaining > 0:
+                time.sleep(remaining)
+
+    def _on_success(self) -> None:
+        """Record a successful request; gradually reduce delay."""
+        self._consecutive_ok += 1
+        self._last_request_time = time.time()
+        if self._consecutive_ok >= 5 and self._current_delay > self._base_delay:
+            self._current_delay = max(self._base_delay, self._current_delay / 2)
+            self._consecutive_ok = 0
+            print(f"  [Throttle] Delay reduced to {self._current_delay:.0f}s")
+
+    def _on_rate_limit(self) -> None:
+        """Record a rate-limit hit; increase delay."""
+        self._consecutive_ok = 0
+        self._current_delay = min(self._current_delay * 2, 600)
+        self._last_request_time = time.time()
+        print(f"  [Throttle] Rate limited — delay increased to {self._current_delay:.0f}s")
 
     def chat(
         self,
@@ -35,7 +71,7 @@ class LLMClient:
         system_prompt: str | None = None,
         temperature: float = 0.7,
         max_tokens: int = 16384,
-        max_retries: int = 3,
+        max_retries: int = 10,
     ) -> str:
         """Send a message to claude CLI and get a response.
 
@@ -63,6 +99,8 @@ class LLMClient:
 
         last_error = None
         for attempt in range(max_retries):
+            self._wait_for_throttle()
+
             try:
                 result = subprocess.run(
                     cmd,
@@ -73,23 +111,26 @@ class LLMClient:
                 )
                 if result.returncode != 0:
                     stderr = result.stderr.strip()
-                    # Check for transient errors
-                    if any(x in stderr.lower() for x in ["overloaded", "timeout", "rate"]):
+                    if any(x in stderr.lower() for x in _TRANSIENT_PATTERNS):
                         raise RuntimeError(stderr)
                     raise RuntimeError(f"claude CLI failed (exit {result.returncode}): {stderr[:300]}")
+
+                self._on_success()
                 return result.stdout.strip()
 
             except subprocess.TimeoutExpired as e:
                 last_error = e
-                wait_time = min(30 * (2 ** attempt), 120)
+                self._on_rate_limit()
+                wait_time = min(30 * (2 ** attempt), 600)
                 print(f"  [Retry {attempt + 1}/{max_retries}] Timeout, waiting {wait_time}s...")
                 time.sleep(wait_time)
 
             except RuntimeError as e:
                 last_error = e
                 error_str = str(e).lower()
-                if any(x in error_str for x in ["overloaded", "timeout", "rate"]):
-                    wait_time = min(30 * (2 ** attempt), 120)
+                if any(x in error_str for x in _TRANSIENT_PATTERNS):
+                    self._on_rate_limit()
+                    wait_time = min(30 * (2 ** attempt), 600)
                     print(f"  [Retry {attempt + 1}/{max_retries}] {type(e).__name__}, waiting {wait_time}s...")
                     time.sleep(wait_time)
                     continue

@@ -162,11 +162,11 @@ class DrugEvidencePackGenerator:
             }
             predicted_indications.append(indication)
 
-        # Extract dosage forms from PMDA data
+        # Extract dosage forms from TFDA data
         dosage_forms = []
-        if bundle.pmda.get("found") and bundle.pmda.get("records"):
+        if self._get_regulatory(bundle).get("found") and self._get_regulatory(bundle).get("records"):
             forms_seen = set()
-            for record in bundle.pmda["records"]:
+            for record in self._get_regulatory(bundle)["records"]:
                 # Support both English and Chinese field names
                 form = record.get("dosage_form", record.get("劑型", ""))
                 if form and form not in forms_seen:
@@ -194,8 +194,8 @@ class DrugEvidencePackGenerator:
                 "original_moa": drug.original_moa or "[Data Gap]",
             },
             "taiwan_regulatory": {
-                "market_status": "已上市" if bundle.pmda.get("found") else "未上市",
-                "total_licenses": len(bundle.pmda.get("records", [])),
+                "market_status": "已上市" if self._get_regulatory(bundle).get("found") else "未上市",
+                "total_licenses": len(self._get_regulatory(bundle).get("records", [])),
                 "licenses": [
                     {
                         # Support both English and Chinese field names
@@ -205,7 +205,7 @@ class DrugEvidencePackGenerator:
                         "manufacturer": r.get("license_holder", r.get("製造廠", r.get("申請商", ""))),
                         "approved_indication_text": r.get("indication", r.get("適應症", "")),
                     }
-                    for r in bundle.pmda.get("records", [])[:5]  # Limit to 5 for readability
+                    for r in self._get_regulatory(bundle).get("records", [])[:5]  # Limit to 5 for readability
                 ],
                 "dosage_forms_by_route": dosage_forms,
             },
@@ -240,8 +240,8 @@ class DrugEvidencePackGenerator:
     def _get_inputs_received(self, bundle: DrugBundle) -> list[str]:
         """Get list of data sources that were received."""
         inputs = []
-        if bundle.pmda.get("found"):
-            inputs.append("pmda")
+        if self._get_regulatory(bundle).get("found"):
+            inputs.append("tfda")
         if bundle.safety.get("ddi"):
             inputs.append("ddi")
         if bundle.drugbank.get("found"):
@@ -264,16 +264,16 @@ class DrugEvidencePackGenerator:
         gaps = []
         gap_id = 1
 
-        # Check PMDA package insert
+        # Check TFDA package insert
         if not self._has_package_insert(bundle).get("found"):
             gaps.append({
                 "id": f"DG{gap_id:03d}",
                 "category": "Drug_Level",
-                "item": "PMDA 仿單警語/禁忌",
+                "item": "TFDA 仿單警語/禁忌",
                 "severity": "Blocking",
                 "impact": "無法進入 S1 安全性初評",
                 "remediation": {
-                    "source": "PMDA 官網",
+                    "source": "TFDA 官網",
                     "method": "下載仿單 PDF 並解析",
                 },
             })
@@ -549,9 +549,9 @@ class DrugEvidencePackGenerator:
             f"| 藥物 (INN) | {drug['inn']} | |",
             f"| DrugBank ID | {drug['drugbank_id'] or '[Data Gap]'} | |",
             f"| 中文商品名 | {drug['brand_name_zh'] or '[Data Gap]'} | |",
-            f"| 原核准適應症 | {', '.join(drug['original_indications']) or '[Data Gap]'} | [來源：PMDA 許可證] |",
+            f"| 原核准適應症 | {', '.join(drug['original_indications']) or '[Data Gap]'} | [來源：TFDA 許可證] |",
             f"| 原作用機轉 | {drug['original_moa']} | [來源：DrugBank] |",
-            f"| 台灣上市狀態 | {reg['market_status']} | PMDA |",
+            f"| 台灣上市狀態 | {reg['market_status']} | TFDA |",
             "",
             "## 預測新適應症總覽",
             "| 排名 | 預測適應症 | TxGNN 分數 | 證據等級 | 臨床試驗 | 文獻 | 決策階段 | 開發建議 |",
