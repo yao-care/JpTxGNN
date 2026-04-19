@@ -5,11 +5,11 @@ description = "日本 PMDA 医薬品リポジショニング予測システム -
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "httpx>=0.28.1",
     "beautifulsoup4>=4.14.3",
     "feedparser>=6.0.12",
     "lxml>=6.0.2",
     "numpy<3",
-    "openai>=1.0.0",
     "pandas>=2.2.0",
     "pyyaml>=6.0.0",
     "pytest>=9.0.2",

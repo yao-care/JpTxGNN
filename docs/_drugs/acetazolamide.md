@@ -130,3 +130,10 @@ Acetazolamide 在急性失代償性心衰竭的輔助利尿角色已有高品質
 
 ---
 
+
+<div class="disclaimer" style="background-color: #fff3cd; padding: 1rem; border-radius: 0.5rem; margin-top: 2rem;">
+<strong>⚠️ 免責事項</strong><br>
+本レポートは学術研究目的のみであり、<strong>医療アドバイスを構成するものではありません</strong>。
+薬の使用は必ず医師の指示に従ってください。自己判断で投薬を変更しないでください。
+ドラッグ・リポジショニングの決定には、完全な臨床検証と規制審査が必要です。
+</div>
