@@ -1,10 +1,58 @@
 {
   "source": "japan_news",
-  "fetched_at": "2026-04-19T12:38:20.596936+00:00",
-  "total_fetched": 115,
-  "unique_count": 115,
-  "health_related_count": 41,
+  "fetched_at": "2026-04-19T18:34:53.465796+00:00",
+  "total_fetched": 117,
+  "unique_count": 117,
+  "health_related_count": 44,
   "news": [
+    {
+      "id": "3b9d49e8a9d0",
+      "title": "肝硬度は糖尿病患者の死亡の独立した危険因子、定期的な測定を - 日経メディカル",
+      "published": "2026-04-19T14:45:18+00:00",
+      "summary": "肝硬度は糖尿病患者の死亡の独立した危険因子、定期的な測定を&nbsp;&nbsp;日経メディカル",
+      "sources": [
+        {
+          "name": "日経メディカル",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWmdiNk91cHYzNzBKckQzdm4zZ0liTWJUXzI2REVhSEFRMXlyVERkVlBONGNaeFprU1RoYXZ2bHRvMkVfYjN1MkJNdTJCaWVOeVlwTjJ0dWViUjI3Zmh1VF9TUnpwU3g2MzJTRzc4b1N1YWdfWnRjWnBDZHp3Z1BBZloyNDdxWG8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5838a86757f2",
+      "title": "「はじめて診断された心房細動」に慌てない！ first diagnosed AFの治療アルゴリズム - 日経メディカル",
+      "published": "2026-04-19T14:45:08+00:00",
+      "summary": "「はじめて診断された心房細動」に慌てない！ first diagnosed AFの治療アルゴリズム&nbsp;&nbsp;日経メディカル",
+      "sources": [
+        {
+          "name": "日経メディカル",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM0wwRlVhbU5SNHVPNndtUmdRaFlCZkpseEVWOGdkMjhQWHpmUEh4amRXa2JtZmpJeERhRjMwelE4R1YzQTV6YV8waC1CRnNJMV9hZUFsaEY3ekRKSnBuZURVUTBYUkxVc3UtWWJrNFVrV0tXS29qbGtiM1dzZEZ3SUxOa3k?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2919fdf2c17c",
+      "title": "「反り腰」のまま腹筋するのは逆効果！ 専門家が警告する、下腹が凹まない人の“NGな脚の動き”(ウィメンズヘルス)",
+      "published": "2026-04-19T14:00:02+00:00",
+      "summary": "露出が増える季節になると、気になり始めるのが下腹部のふくらみ。 ポッコリお腹を解消したいと足上げ（レッグレイズ）を続けてみるけれど、腰が痛くなって諦めた方も多いのでは？ 「レッグレイズは、すっきり",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/18ee6b5f93d8202d6facc074ce3bf31596ab5cdb?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "06d391d880d3",
+      "title": "麻疹はワクチン接種率が毎年1％下がるだけで1兆円規模の経済損失を生む恐れ - ナゾロジー",
+      "published": "2026-04-19T13:01:48+00:00",
+      "summary": "麻疹はワクチン接種率が毎年1％下がるだけで1兆円規模の経済損失を生む恐れ&nbsp;&nbsp;ナゾロジー麻疹患者の劇的な増加はワクチン接種率のわずかな低下と関連｜CareNet.com&nbsp;&nbsp;CareNet.com2026年における麻疹患者数増加に関する注意喚起｜関連資料・リリース&nbsp;&nbsp;保健指導リソースガイド",
+      "sources": [
+        {
+          "name": "ナゾロジー",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iU2pCeUlFcmRRV3NYc2xiaU1Gb2FiVmJveHhmaFdYUTRpejNZaHc0b0dKXzJwbG9BRWRCVXdmZXd1b2J5UWVrQU1jV3pfN0xwWFBrVHl1c2dDYzQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "c48ace8100ca",
       "title": "服も着方もシンプルで「コーディネートが上手くなる」盗みやすいテクニック(GISELe)",
@@ -14,30 +62,6 @@
         {
           "name": "Yahoo! Japan Life",
           "link": "https://news.yahoo.co.jp/articles/bdd14ae84f27d650369b3f0fdc52c1546cf2b52b?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "fd511059ec37",
-      "title": "豚ロースと豚バラを比較！ダイエット中に選ぶべき食材を管理栄養士が解説(ヨガジャーナルオンライン)",
-      "published": "2026-04-19T12:15:00+00:00",
-      "summary": "ダイエット中に向いている肉は？と聞かれたら何を思い浮かべますか？鶏むね肉やささみと思う方も多いかもしれませんが、実は豚肉もダイエットにぴったりなんです！ここでは、ダイエット中の豚肉の効果、そしてロース",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/8bccc3b4abfb9b845340ddcb5d97f61d636cf490?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "d12a19f910f4",
-      "title": "肺の機能を整えてせきや喉の痛み、息切れを鎮める「列欠」。うなじのこわばりも軽減(家庭画報.com)",
-      "published": "2026-04-19T11:40:02+00:00",
-      "summary": "中医学のエキスパートである鍼灸師の兵頭 明先生が、ツボの効能や位置、効くメカニズムを解説します。健康の土台作りに、不調改善に、1日1分のツボ押しを習慣にしましょう。",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/7e1c1bd0fdc03a8e2b5d7d172acfac184c869d2c?source=rss"
         }
       ]
     },
@@ -141,7 +165,7 @@
       "id": "b5bbe5213599",
       "title": "コレラ菌、光浴びて活発に／琉大・東北大など発表／感染対策に新たな視点も - 沖縄タイムス社",
       "published": "2026-04-18T18:57:00+00:00",
-      "summary": "コレラ菌、光浴びて活発に／琉大・東北大など発表／感染対策に新たな視点も&nbsp;&nbsp;沖縄タイムス社コレラ菌は光浴びて活発に 研究&nbsp;&nbsp;Yahoo!ニュースコレラ菌、光浴びて活発に 感染制御ヒントに、琉球大 | 全国のニュース&nbsp;&nbsp;福井新聞社コレラ菌 光浴び活発化 琉大など発表 感染対策に期待&nbsp;&nbsp;琉球新報デジタル【写真】コレラ菌、光浴びて活発に 感染制御ヒントに、琉球大&nbsp;&nbsp;南日本新聞",
+      "summary": "コレラ菌、光浴びて活発に／琉大・東北大など発表／感染対策に新たな視点も&nbsp;&nbsp;沖縄タイムス社コレラ菌は光浴びて活発に 研究&nbsp;&nbsp;Yahoo!ニュースコレラ菌 光浴び活発化 琉大など発表 感染対策に期待&nbsp;&nbsp;琉球新報デジタル【写真】コレラ菌、光浴びて活発に 感染制御ヒントに、琉球大&nbsp;&nbsp;南日本新聞コレラ菌、光浴びて活発に 感染制御ヒントに、琉球大（共同通信）&nbsp;&nbsp;Yahoo!ニュース",
       "sources": [
         {
           "name": "沖縄タイムス社",
@@ -458,6 +482,18 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/93c77297730b63757725cbad5172cd0351b8dc82?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "0ba518f3234a",
+      "title": "【糖尿病・内分泌プラクティスWeb購読者特典】「糖尿病標準診療マニュアル2026」＜製本版＞プレゼント実施中 - 糖尿病リソースガイド",
+      "published": "2026-04-15T00:58:01+00:00",
+      "summary": "【糖尿病・内分泌プラクティスWeb購読者特典】「糖尿病標準診療マニュアル2026」＜製本版＞プレゼント実施中&nbsp;&nbsp;糖尿病リソースガイド",
+      "sources": [
+        {
+          "name": "糖尿病リソースガイド",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsZ0xHaU44LWdscFd1a3pzekZxQ1M5OUk4Z2JVcUtNcGhQQ1dCVi03dktyX24ta2VxVFJSUjdIc0tVTEtjLXdLVGdmeU1GMTA3LXJXM1Bia2V6NGstc1J6NkVVU3Fkbm9WMTIw?oc=5"
         }
       ]
     },
