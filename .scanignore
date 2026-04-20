@@ -1,0 +1,4 @@
+# FHIR ClinicalUseDefinition — "secretion/secretory" 是醫學術語（分泌），
+# 不是 secret（機密），被 SSDLC 敏感檔案掃描誤判
+docs/fhir/ClinicalUseDefinition/*secretion*
+docs/fhir/ClinicalUseDefinition/*secretory*
