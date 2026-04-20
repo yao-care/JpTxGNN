@@ -4,6 +4,7 @@ Uses `claude -p` (print mode) to invoke the Claude Code CLI as the LLM backend.
 No API key required — uses the user's existing Claude Code subscription.
 """
 
+import os
 import subprocess
 import time
 from pathlib import Path
@@ -25,7 +26,7 @@ class LLMClient:
         self,
         model: str | None = None,
         api_key: str | None = None,  # kept for backward compat, ignored
-        request_delay: float = 5.0,
+        request_delay: float = 2.0,
     ):
         """Initialize the LLM client.
 
@@ -97,6 +98,10 @@ class LLMClient:
         if system_prompt:
             cmd.extend(["--system-prompt", system_prompt])
 
+        # Use claude-jaohui config directory
+        env = os.environ.copy()
+        env["CLAUDE_CONFIG_DIR"] = os.path.expanduser("~/.claude-jaohui")
+
         last_error = None
         for attempt in range(max_retries):
             self._wait_for_throttle()
@@ -108,6 +113,7 @@ class LLMClient:
                     capture_output=True,
                     text=True,
                     timeout=600,
+                    env=env,
                 )
                 if result.returncode != 0:
                     stderr = result.stderr.strip()

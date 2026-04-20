@@ -669,7 +669,11 @@ class DrugEvidencePackGenerator:
             Exception: If generation fails after all retries
         """
         output_dir = Path(output_dir)
-        drug_slug = bundle.drug.inn.lower().replace(" ", "_")
+        drug_slug = bundle.drug.inn.lower().replace(" ", "_").replace("/", "_")
+        # Truncate base_name to avoid "File name too long" on macOS (255 char limit)
+        max_slug = 200
+        if len(drug_slug) > max_slug:
+            drug_slug = drug_slug[:max_slug]
         base_name = f"{drug_slug}_drug_evidence_pack"
 
         last_error = None

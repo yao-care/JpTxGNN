@@ -17,6 +17,10 @@ Usage:
     # Parallel processing with offset (for running multiple instances)
     python scripts/batch_collect_bundles.py --all --offset 0 --limit 100 --skip-existing
     python scripts/batch_collect_bundles.py --all --offset 100 --limit 100 --skip-existing
+
+    # Patch existing bundles that have no predicted_indications
+    # (adds predictions + PubMed/ClinTrials evidence without re-collecting drug-level data)
+    python scripts/batch_collect_bundles.py --patch-empty
 """
 
 import argparse
@@ -114,6 +118,70 @@ def get_mapping_drugs(
     return drug_list
 
 
+def patch_single_drug(bundle_path: Path, top_n: int = 10, min_score: float = 0.99) -> dict:
+    """Patch an existing bundle that has no predicted_indications.
+
+    Loads the bundle, adds predicted indications from DL predictions,
+    collects per-indication evidence (PubMed, ClinicalTrials, ICTRP),
+    and saves back — preserving existing drug-level data.
+
+    Returns:
+        dict with status, drug, indication_count, error, duration_seconds
+    """
+    from jptxgnn.collectors.drug_bundle import (
+        DrugBundle,
+        load_predictions_for_drug,
+    )
+
+    result = {
+        "drug": "",
+        "status": "pending",
+        "indication_count": 0,
+        "error": None,
+        "duration_seconds": 0,
+    }
+
+    start_time = time.time()
+
+    try:
+        bundle = DrugBundle.load(bundle_path)
+        drug_name = bundle.drug.inn
+        result["drug"] = drug_name
+
+        # Load predicted indications
+        predicted = load_predictions_for_drug(
+            drug_name=drug_name, top_n=top_n, min_score=min_score,
+        )
+
+        if not predicted:
+            result["status"] = "no_predictions"
+            result["duration_seconds"] = round(time.time() - start_time, 2)
+            return result
+
+        # Collect per-indication evidence
+        aggregator = DrugBundleAggregator(save_collected=True)
+        for indication in predicted:
+            aggregator.collect_indication_data(drug_name, indication)
+
+        # Update bundle in-place
+        bundle.drug.predicted_indications = predicted
+        bundle.drug.is_novel_check_done = True
+        bundle.collection_log.extend(aggregator._collection_log)
+        bundle.metadata["patched_at"] = time.strftime("%Y-%m-%dT%H:%M:%S")
+        bundle.metadata["indications_found"] = len(predicted)
+        bundle.save(bundle_path.parent)
+
+        result["status"] = "success"
+        result["indication_count"] = len(predicted)
+
+    except Exception as e:
+        result["status"] = "error"
+        result["error"] = str(e)
+
+    result["duration_seconds"] = round(time.time() - start_time, 2)
+    return result
+
+
 def collect_single_drug(drug_name: str, top_n: int = 10, min_score: float = 0.99) -> dict:
     """Collect bundle for a single drug.
 
@@ -175,8 +243,73 @@ def main():
     parser.add_argument("--output", type=str, help="Output JSON file for results")
     parser.add_argument("--skip-existing", action="store_true", help="Skip drugs with existing bundles")
     parser.add_argument("--from-mapping", action="store_true", help="Get drugs from drug_mapping.csv instead of DL predictions")
+    parser.add_argument("--patch-empty", action="store_true", help="Patch existing bundles that have no predicted_indications (adds predictions + evidence without re-collecting drug-level data)")
 
     args = parser.parse_args()
+
+    # --patch-empty mode: find and patch bundles missing predictions
+    if args.patch_empty:
+        bundles_dir = get_bundles_dir()
+        if not bundles_dir.exists():
+            print("data/bundles/ 不存在")
+            sys.exit(1)
+
+        # Find bundles with no predicted_indications
+        empty_bundles = []
+        for drug_dir in sorted(bundles_dir.iterdir()):
+            bf = drug_dir / "drug_bundle.json"
+            if not bf.is_file():
+                continue
+            try:
+                with open(bf) as f:
+                    data = json.load(f)
+                pis = data.get("drug", {}).get("predicted_indications", [])
+                if not pis:
+                    empty_bundles.append(bf)
+            except Exception:
+                empty_bundles.append(bf)
+
+        if not empty_bundles:
+            print("所有 bundles 都已有 predicted_indications，無需 patch")
+            return []
+
+        print(f"找到 {len(empty_bundles)} 個需要 patch 的 bundles")
+        print("-" * 60)
+
+        results = []
+        for i, bf in enumerate(empty_bundles, 1):
+            drug_slug = bf.parent.name
+            print(f"[{i}/{len(empty_bundles)}] {drug_slug}...", end=" ", flush=True)
+
+            result = patch_single_drug(
+                bundle_path=bf,
+                top_n=args.top_n,
+                min_score=args.min_score,
+            )
+            results.append(result)
+
+            if result["status"] == "success":
+                print(f"✓ Ind:{result['indication_count']} ({result['duration_seconds']}s)")
+            elif result["status"] == "no_predictions":
+                print(f"- no predictions found ({result['duration_seconds']}s)")
+            else:
+                print(f"✗ {result['error']}")
+
+        # Summary
+        print("-" * 60)
+        success = sum(1 for r in results if r["status"] == "success")
+        no_pred = sum(1 for r in results if r["status"] == "no_predictions")
+        errors = sum(1 for r in results if r["status"] == "error")
+        total_ind = sum(r["indication_count"] for r in results)
+        print(f"完成: {success} patched, {no_pred} no predictions, {errors} errors")
+        print(f"總計新增適應症: {total_ind}")
+
+        if args.output:
+            output_path = Path(args.output)
+            output_path.write_text(json.dumps(results, indent=2, ensure_ascii=False))
+            print(f"結果已儲存: {output_path}")
+
+        return results
 
     # Get drug list
     if args.drugs:
