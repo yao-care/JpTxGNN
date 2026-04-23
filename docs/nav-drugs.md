@@ -28,7 +28,7 @@ JpTxGNN は <strong>3,824</strong> 種の日本医療用医薬品に対するド
   <div id="lookup-results" class="lookup-results"></div>
 </div>
 
-<script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js" integrity="sha384-PCSoOZTpbkikBEtd/+uV3WNdc676i9KUf01KOA8CnJotvlx8rRrETbDuwdjqTYvt" crossorigin="anonymous"></script>
 <script>
   window.JPTXGNN_CONFIG = {
     searchIndexUrl: '{{ "/data/search-index.json" | relative_url }}',
