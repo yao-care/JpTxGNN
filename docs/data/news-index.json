@@ -1,15 +1,15 @@
 {
-  "generated": "2026-04-23T18:55:44.545611+00:00",
-  "count": 15,
+  "generated": "2026-04-24T01:46:40.670791+00:00",
+  "count": 11,
   "news": [
     {
-      "id": "cc443c6f11f2",
-      "title": "がんによる体重減少が孤立やQOL低下を招く。早期に気づいて集学的治療を(家庭画報.com)",
-      "published": "2026-04-23T15:00:02+00:00",
+      "id": "48aad5bf742f",
+      "title": "アルツハイマー病の脳免疫細胞に「血液がん」と同じ変異—既存の抗がん剤が治療薬になる日",
+      "published": "2026-04-24T00:05:31+00:00",
       "sources": [
         {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/96b82d122412f701597a232a5b992c1b4cc8ce0b?source=rss"
+          "name": "innovaTopia",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5tMTU1aUZ0YWVmUG0yc0JjS1pZM0t6QzZsd0YtMHZsMFNwZVBHdTBUTEs1OHNVSTZCMHJWc3F6a0piRHpHVFVVU3ZOcVY1eDMwZE5iSlpJTmJEbDVONnRKX3BB?oc=5"
         }
       ],
       "keywords": [
@@ -287,6 +287,17 @@
               "name": "レベチラセタム粒状錠５００ｍｇ「サワイ」"
             }
           ]
+        },
+        {
+          "type": "indication",
+          "name": "myeloid leukemia",
+          "keyword": "血液がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            }
+          ]
         }
       ]
     },
@@ -309,34 +320,6 @@
             {
               "slug": "oseltamivir",
               "name": "タミフルドライシロップ３％（選）"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "5789269f342d",
-      "title": "アルツハイマー病の記憶障害、ドーパミン不足が原因…東北大チームがマウス実験で解明",
-      "published": "2026-04-23T10:19:00+00:00",
-      "sources": [
-        {
-          "name": "読売新聞",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YZkdwSmdCUk1qX3J4VGFqS2hRR05TTDhrMFhpcWNrSW1qOFFUU1ZHeTMtTTFyMGs4dXhBMEd2aDNBdVVYVG9aWlZOQS1YS09wN2dLTi1laTBFV0F6VWFOZWtkNHo?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "認知症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
             }
           ]
         }
@@ -1292,34 +1275,6 @@
       ]
     },
     {
-      "id": "37669e2e9053",
-      "title": "【脳の専門医が教える】認知症リスクを遠ざける日常の習慣とは？(ダイヤモンド・オンライン)",
-      "published": "2026-04-22T22:12:00+00:00",
-      "sources": [
-        {
-          "name": "Yahoo!ファイナンス",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZnY1eFVWdkVuTzlTcndlMkkxMTNhQUwyMzAzeHYtbzk5eWxJRTZIRW8wT1dNdm9vTDhmNjRrVm04VU84U0xJN1dDQkVpdW1VUEdsMFR6VENkUWdNNEZTNEdyRW5oaXQ2Ql9fWS15eE1XMjlyNUdaSDUtQ3o1dFRQSW5qRXFwY0U?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "認知症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "2ce389a326dd",
       "title": "乳がん・卵巣がん：乳・卵巣がんの原因遺伝子変異 他のがん4種、発症リスク増 女性は、ぼうこう24倍 理研・東大研究チーム",
       "published": "2026-04-22T17:01:30+00:00",
@@ -1960,90 +1915,6 @@
             {
               "slug": "prasugrel",
               "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "91bd27cf2180",
-      "title": "出血性肺炎の新薬セフィデロコルの有効性をマウスで確認ー大阪公立大",
-      "published": "2026-04-22T00:00:00+00:00",
-      "sources": [
-        {
-          "name": "QLifePro",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hbWhoQjM3cEdJaGVhNWdaRE9qM3ZOT3cxQWJUUjNXX2hUTDE5ZzdxZHowM0d5S3JfaXRtWWUxaG5sVnNLb3NhSWZteTZqOGVaWTl3dWhZUFBVb1ZsNXJRbDc5bERxMDFJZEF6OVJ3?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "pneumonia",
-          "keyword": "肺炎",
-          "related_drugs": [
-            {
-              "slug": "oseltamivir",
-              "name": "タミフルドライシロップ３％（選）"
-            },
-            {
-              "slug": "levofloxacin",
-              "name": "クラビット点眼液１．５％（選）"
-            },
-            {
-              "slug": "ampicillin",
-              "name": "ビクシリンＳ配合錠　（２５０ｍｇ）"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "0ecd618742af",
-      "title": "髄膜炎菌性髄膜炎 初期は風邪症状 重篤化も ワクチンで予防が重要【白鷗大・岡田教授が解説】",
-      "published": "2026-04-21T20:01:11+00:00",
-      "sources": [
-        {
-          "name": "下野新聞社",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1yemtQcm5tQkh3SDF3d2lkaWpSTUU2a1dfT2x4ZEthMjZySzdlaTlHQ0tUOHFPWjNzQmVDQ2xjOTJNUGl0V0ZHZ2c2WTJ6cWthVG9WSUpDTlZiQjg?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "風邪",
-          "related_drugs": [
-            {
-              "slug": "theophylline",
-              "name": "ユニコン錠１００　１００ｍｇ（選）"
-            },
-            {
-              "slug": "cetirizine",
-              "name": "ザイザルシロップ０．０５％（選）"
-            },
-            {
-              "slug": "morphine",
-              "name": "モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」"
-            },
-            {
-              "slug": "loratadine",
-              "name": "クラリチン錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "chlorpheniramine",
-              "name": "セレスタミン配合錠（選）"
-            },
-            {
-              "slug": "dextromethorphan",
-              "name": "デキストロメトルファン臭化水素酸塩細粒１０％「ツルハラ」"
-            },
-            {
-              "slug": "acetaminophen",
-              "name": "トラムセット配合錠（選）"
-            },
-            {
-              "slug": "codeine",
-              "name": "ムコブロチン配合シロップ"
             }
           ]
         }
