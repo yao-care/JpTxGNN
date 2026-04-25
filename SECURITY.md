@@ -25,4 +25,6 @@ This project provides **research-only** drug repurposing predictions. It does no
 - All external CDN scripts include Subresource Integrity (SRI) hashes.
 - The SMART on FHIR app uses OAuth 2.0 with PKCE for authorization.
 - No secrets or credentials are stored in the repository.
-- Dependencies are locked via `uv.lock`.
+- Python dependencies are locked via `uv.lock` (managed by [uv](https://docs.astral.sh/uv/)).
+- Ruby/Jekyll dependencies are locked via `docs/Gemfile.lock` (managed by Bundler).
+- This project does not use npm or any JavaScript package manager — all client-side scripts are loaded from CDN with SRI hashes or vendored directly.
