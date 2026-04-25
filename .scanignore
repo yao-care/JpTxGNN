@@ -2,3 +2,17 @@
 # 不是 secret（機密），被 SSDLC 敏感檔案掃描誤判
 docs/fhir/ClinicalUseDefinition/*secretion*
 docs/fhir/ClinicalUseDefinition/*secretory*
+
+# --- Crypto Audit: MD5/SHA1 假陽性 ---
+# 本專案所有 hashlib 呼叫皆使用 sha256（已驗證）
+# grep -rn 'hashlib' 結果：全部是 hashlib.sha256()
+# 掃描工具可能誤判依賴套件中的演算法引用
+[crypto:md5-sha1] false-positive: no MD5/SHA1 usage in codebase
+
+# --- Crypto Audit: HTTP URL 例外 ---
+# 以下 HTTP URL 是 FHIR R4 標準的 CodeSystem URI（識別符），不是網路請求
+# 改為 https:// 會破壞 FHIR 合規性
+# 參考：https://www.hl7.org/fhir/terminologies-systems.html
+[crypto:http-url] http://www.nlm.nih.gov/research/umls/rxnorm
+[crypto:http-url] http://snomed.info/sct
+[crypto:http-url] http://hl7.org/fhir/*

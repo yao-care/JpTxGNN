@@ -201,7 +201,7 @@
         return null;
 
       } catch (error) {
-        console.error(`Error querying RxNorm for ${rxcui}:`, error);
+        console.error('Error querying RxNorm for %s:', rxcui, error);
         return null;
       }
     }
