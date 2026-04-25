@@ -1,159 +1,15 @@
 {
-  "generated": "2026-04-25T07:02:06.952000+00:00",
-  "count": 9,
+  "generated": "2026-04-25T12:40:15.703472+00:00",
+  "count": 8,
   "news": [
     {
-      "id": "bd0f8fc704d3",
-      "title": "美術家の篠原勝之さん死去　「ゲージツ家のクマさん」(共同通信)",
-      "published": "2026-04-25T05:29:35+00:00",
+      "id": "71749583c532",
+      "title": "子宮頸がん予防のチャンスをふいにする大きな地域差 ワクチン接種率は3～5倍の開き｜Dr.中川 がんサバイバーの知恵",
+      "published": "2026-04-24T21:00:00+00:00",
       "sources": [
         {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/cf00b0c4075b6f5beff7af8dc7e2fe25002e73a7?source=rss"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "pneumonia",
-          "keyword": "肺炎",
-          "related_drugs": [
-            {
-              "slug": "oseltamivir",
-              "name": "タミフルドライシロップ３％（選）"
-            },
-            {
-              "slug": "levofloxacin",
-              "name": "クラビット点眼液１．５％（選）"
-            },
-            {
-              "slug": "ampicillin",
-              "name": "ビクシリンＳ配合錠　（２５０ｍｇ）"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "ca24c6922bfe",
-      "title": "若年性認知症に強く関連する危険因子が判明 喫煙、うつ病、糖尿病、低学歴が強く関連",
-      "published": "2026-04-24T20:00:00+00:00",
-      "sources": [
-        {
-          "name": "読売新聞",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHRzBkcGpTWnNSMkJWZWpxejQwVWNXWHFwRlRpekxQLU81X3NieUJFaXd5cFQ0dmttQUp4VUVZano3MjA1anVQMlk4SUVRZGNNUEJsVjFlcFlYeVVzUUFUZHFYb0VyaG5Lb2ctLThB?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "認知症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "fb2c112244a0",
-      "title": "日本の経験を活かしてインドネシアの脳卒中医療を前進させる",
-      "published": "2026-04-24T08:04:11+00:00",
-      "sources": [
-        {
-          "name": "ncvc.go.jp",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5TX3VLdUJBSkFIcHMyV0tOSFN0bkRiakNyUGxQUHhpRy12MFZBeDB5ZjVQTnFTamxLeWFQaVRySGN6RjVoMjl0cWNKeDJkTWtEZDNpbUlBUGlsempUUHNwTGl3?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "脳卒中",
-          "related_drugs": [
-            {
-              "slug": "atorvastatin",
-              "name": "アトーゼット配合錠ＨＤ（選）"
-            },
-            {
-              "slug": "valsartan",
-              "name": "ディオバンＯＤ錠１６０ｍｇ（選）"
-            },
-            {
-              "slug": "pravastatin",
-              "name": "メバロチン錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "simvastatin",
-              "name": "リポバス錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "enalapril",
-              "name": "レニベース錠１０　１０ｍｇ（選）"
-            },
-            {
-              "slug": "lisinopril",
-              "name": "ロンゲス錠２０ｍｇ（選）"
-            },
-            {
-              "slug": "diltiazem",
-              "name": "ヘルベッサー錠６０　６０ｍｇ（選）"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "エックスフォージ配合ＯＤ錠（選）"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "ミカムロ配合錠ＢＰ（選）"
-            },
-            {
-              "slug": "rosuvastatin",
-              "name": "クレストールＯＤ錠５ｍｇ（選）"
-            },
-            {
-              "slug": "verapamil",
-              "name": "ワソラン錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "losartan",
-              "name": "ニューロタン錠５０ｍｇ（選）"
-            },
-            {
-              "slug": "warfarin",
-              "name": "ワルファリンＫ細粒０．２％「ＮＳ」"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "ザルティア錠５ｍｇ（選）"
-            },
-            {
-              "slug": "fenofibrate",
-              "name": "トライコア錠８０ｍｇ（選）"
-            },
-            {
-              "slug": "prasugrel",
-              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "b71dabaf1ec3",
-      "title": "定期接種である「HPVワクチン」の接種率を世界水準へ引き上げるための啓発コンテンツ 教育現場配付プリント＆ムービー『予防接種の記憶』を世界予防接種週間に公開 | 一般社団法人 日本がん・生殖医療学会のプレスリリース - PR TIMES",
-      "published": "2026-04-24T02:00:02+00:00",
-      "sources": [
-        {
-          "name": "PR TIMES",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iemY1VHV3RDRYdWo0XzBmWU9USXJmUWNjS0dFd1VhLXpRU2hNN29qd0xPRERZQUZBb1ZOQnFsODVTcUFQU3RYTmdHdEtTX0xzbUluVEFoaURPWHBrOXVyMFZqNWdJUWZfN2c?oc=5"
+          "name": "日刊ゲンダイDIGITAL",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nc3FMUUJtWkFzc0xubTYtYjQxczB6WVlsUlRKWk1HWnljZVVFT1pUenI2TmdoNk9uRC1OWGdYSGlvSV9pUzJzTURueVVhQ2xtVlUtYW1RSTY2UDVQeTRjNkxNVnI5OXZF?oc=5"
         }
       ],
       "keywords": [
@@ -429,6 +285,118 @@
             {
               "slug": "levetiracetam",
               "name": "レベチラセタム粒状錠５００ｍｇ「サワイ」"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ca24c6922bfe",
+      "title": "若年性認知症に強く関連する危険因子が判明 喫煙、うつ病、糖尿病、低学歴が強く関連",
+      "published": "2026-04-24T20:00:00+00:00",
+      "sources": [
+        {
+          "name": "読売新聞",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHRzBkcGpTWnNSMkJWZWpxejQwVWNXWHFwRlRpekxQLU81X3NieUJFaXd5cFQ0dmttQUp4VUVZano3MjA1anVQMlk4SUVRZGNNUEJsVjFlcFlYeVVzUUFUZHFYb0VyaG5Lb2ctLThB?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "認知症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fb2c112244a0",
+      "title": "日本の経験を活かしてインドネシアの脳卒中医療を前進させる",
+      "published": "2026-04-24T08:04:11+00:00",
+      "sources": [
+        {
+          "name": "ncvc.go.jp",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5TX3VLdUJBSkFIcHMyV0tOSFN0bkRiakNyUGxQUHhpRy12MFZBeDB5ZjVQTnFTamxLeWFQaVRySGN6RjVoMjl0cWNKeDJkTWtEZDNpbUlBUGlsempUUHNwTGl3?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "脳卒中",
+          "related_drugs": [
+            {
+              "slug": "atorvastatin",
+              "name": "アトーゼット配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "valsartan",
+              "name": "ディオバンＯＤ錠１６０ｍｇ（選）"
+            },
+            {
+              "slug": "pravastatin",
+              "name": "メバロチン錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "simvastatin",
+              "name": "リポバス錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "enalapril",
+              "name": "レニベース錠１０　１０ｍｇ（選）"
+            },
+            {
+              "slug": "lisinopril",
+              "name": "ロンゲス錠２０ｍｇ（選）"
+            },
+            {
+              "slug": "diltiazem",
+              "name": "ヘルベッサー錠６０　６０ｍｇ（選）"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "エックスフォージ配合ＯＤ錠（選）"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "ミカムロ配合錠ＢＰ（選）"
+            },
+            {
+              "slug": "rosuvastatin",
+              "name": "クレストールＯＤ錠５ｍｇ（選）"
+            },
+            {
+              "slug": "verapamil",
+              "name": "ワソラン錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "losartan",
+              "name": "ニューロタン錠５０ｍｇ（選）"
+            },
+            {
+              "slug": "warfarin",
+              "name": "ワルファリンＫ細粒０．２％「ＮＳ」"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "ザルティア錠５ｍｇ（選）"
+            },
+            {
+              "slug": "fenofibrate",
+              "name": "トライコア錠８０ｍｇ（選）"
+            },
+            {
+              "slug": "prasugrel",
+              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
             }
           ]
         }
