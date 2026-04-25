@@ -1,8 +1,362 @@
 {
-  "last_updated": "2026-04-25T12:40:15.700968+00:00",
-  "total_count": 46,
-  "matched_count": 8,
+  "last_updated": "2026-04-25T18:36:33.082296+00:00",
+  "total_count": 48,
+  "matched_count": 9,
   "news": [
+    {
+      "id": "6c4b03d80f99",
+      "title": "暑い季節に狂犬病の症例が増加、人々は積極的にワクチン接種",
+      "published": "2026-04-25T15:22:58+00:00",
+      "summary": "暑い季節に狂犬病の症例が増加、人々は積極的にワクチン接種&nbsp;&nbsp;Laodong.vn家畜を守るため、ワクチン接種プログラムを強化する。&nbsp;&nbsp;Vietnam.vnタイニン省：暑季における狂犬病の予防と対策の強化。&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZm4wS3V4c1V3WWJRbG4tOEQ0RmpfY3VWRkVKeldJMGFBRUJUN1lMY3l5SU5jNnU2U3JHNjNEb2hGSDdsalRYV1FnUDFkNkJ5Zzg0cG9RWHN6SVpDbFlCY2g5QkJPNmxCNW1jVXBsSHlVcDVNTkVJbE11QWdHQ0JWTzE2RXJfbmY2ZlIzYUFsemowQUNUdEtQZi14TUloX0lXOUtiTHMwZEtUd3E2bTdQQQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "1caf4da8ad07",
+      "title": "診断時の筋肉量が多い人ほど治療をしっかり続けられる。健康なうちから筋肉の「貯筋」を(家庭画報.com)",
+      "published": "2026-04-25T15:00:02+00:00",
+      "summary": "がん患者が悩まされる体重減少の背景には「がん悪液質」といわれる病態があり、最近は「カヘキシア」とも呼ばれます。食べていても体重が減ってくるのが特徴で、治療や生命予後、QOLにも深刻な影響を与えるため、",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/b69c2b3e5cd399b1ece2f95a7ed370d2dda0adec?source=rss"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "acyclovir",
+              "name": "ゾビラックス軟膏５％（選）"
+            },
+            {
+              "slug": "theophylline",
+              "name": "ユニコン錠１００　１００ｍｇ（選）"
+            },
+            {
+              "slug": "risperidone",
+              "name": "リスパダール錠２ｍｇ（選）"
+            },
+            {
+              "slug": "valproic-acid",
+              "name": "セレニカＲ顆粒４０％（選）"
+            },
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "atorvastatin",
+              "name": "アトーゼット配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "cyclosporine",
+              "name": "ネオーラル５０ｍｇカプセル（選）"
+            },
+            {
+              "slug": "azithromycin",
+              "name": "ジスロマック細粒小児用１０％　１００ｍｇ（選）"
+            },
+            {
+              "slug": "valsartan",
+              "name": "ディオバンＯＤ錠１６０ｍｇ（選）"
+            },
+            {
+              "slug": "carbamazepine",
+              "name": "テグレトール錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "morphine",
+              "name": "モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」"
+            },
+            {
+              "slug": "pravastatin",
+              "name": "メバロチン錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "atenolol",
+              "name": "テノーミン錠５０　５０ｍｇ（選）"
+            },
+            {
+              "slug": "loperamide",
+              "name": "ロペミンカプセル１ｍｇ（選）"
+            },
+            {
+              "slug": "simvastatin",
+              "name": "リポバス錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "carvedilol",
+              "name": "アーチスト錠２０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "diazepam",
+              "name": "ホリゾン錠５ｍｇ（選）"
+            },
+            {
+              "slug": "lorazepam",
+              "name": "ワイパックス錠１．０　１ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "spironolactone",
+              "name": "アルダクトンＡ錠５０ｍｇ（選）"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "ロプレソール錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "enalapril",
+              "name": "レニベース錠１０　１０ｍｇ（選）"
+            },
+            {
+              "slug": "lisinopril",
+              "name": "ロンゲス錠２０ｍｇ（選）"
+            },
+            {
+              "slug": "diltiazem",
+              "name": "ヘルベッサー錠６０　６０ｍｇ（選）"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "エックスフォージ配合ＯＤ錠（選）"
+            },
+            {
+              "slug": "clarithromycin",
+              "name": "クラリス錠５０小児用　５０ｍｇ（選）"
+            },
+            {
+              "slug": "furosemide",
+              "name": "ラシックス錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "lidocaine",
+              "name": "リドカイン（１８ｍｇ）３０．５ｍｍ×５０．０ｍｍ貼付剤"
+            },
+            {
+              "slug": "bisoprolol",
+              "name": "メインテート錠５ｍｇ（選）"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "ミカムロ配合錠ＢＰ（選）"
+            },
+            {
+              "slug": "rosuvastatin",
+              "name": "クレストールＯＤ錠５ｍｇ（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "clopidogrel",
+              "name": "プラビックス錠７５ｍｇ（選）"
+            },
+            {
+              "slug": "sertraline",
+              "name": "ジェイゾロフトＯＤ錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "timolol",
+              "name": "デュオトラバ配合点眼液（選）"
+            },
+            {
+              "slug": "diclofenac",
+              "name": "ボルタレンサポ５０ｍｇ（選）"
+            },
+            {
+              "slug": "budesonide",
+              "name": "シムビコートタービュヘイラー６０吸入（選）"
+            },
+            {
+              "slug": "moxifloxacin",
+              "name": "ベガモックス点眼液０．５％（選）"
+            },
+            {
+              "slug": "verapamil",
+              "name": "ワソラン錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "levofloxacin",
+              "name": "クラビット点眼液１．５％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "celecoxib",
+              "name": "セレコックス錠２００ｍｇ（選）"
+            },
+            {
+              "slug": "ezetimibe",
+              "name": "ゼチーア錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "topiramate",
+              "name": "トピナ錠２５ｍｇ（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "montelukast",
+              "name": "シングレアＯＤ錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "lamotrigine",
+              "name": "ラミクタール錠２５ｍｇ（選）"
+            },
+            {
+              "slug": "hydrochlorothiazide",
+              "name": "プレミネント配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "losartan",
+              "name": "ニューロタン錠５０ｍｇ（選）"
+            },
+            {
+              "slug": "latanoprost",
+              "name": "ザラカム配合点眼液（選）"
+            },
+            {
+              "slug": "clotrimazole",
+              "name": "エンペシドクリーム１％（選）"
+            },
+            {
+              "slug": "amoxicillin",
+              "name": "ワイドシリン細粒２０％　２００ｍｇ"
+            },
+            {
+              "slug": "ampicillin",
+              "name": "ビクシリンＳ配合錠　（２５０ｍｇ）"
+            },
+            {
+              "slug": "lamivudine",
+              "name": "エプジコム配合錠（選）"
+            },
+            {
+              "slug": "warfarin",
+              "name": "ワルファリンＫ細粒０．２％「ＮＳ」"
+            },
+            {
+              "slug": "fenofibrate",
+              "name": "トライコア錠８０ｍｇ（選）"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            },
+            {
+              "slug": "prasugrel",
+              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
+            },
+            {
+              "slug": "tramadol",
+              "name": "トラマールＯＤ錠５０ｍｇ（選）"
+            },
+            {
+              "slug": "metronidazole",
+              "name": "メトロニダゾールゲル０．７５％「マルイシ」"
+            },
+            {
+              "slug": "lactulose",
+              "name": "ラグノスＮＦ経口ゼリー分包１２ｇ　５４．１６７％"
+            },
+            {
+              "slug": "levetiracetam",
+              "name": "レベチラセタム粒状錠５００ｍｇ「サワイ」"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b89000020102",
+      "title": "「恐竜ナゲット」から基準値超えの鉛を検出。当局が緊急警告、今すぐ冷凍庫を確認すべき“深刻な理由”と子供へのリスク【米】(ウィメンズヘルス)",
+      "published": "2026-04-25T14:00:10+00:00",
+      "summary": "子どもたちが大好きな恐竜型のチキンナゲットが、再び「絶滅」の危機に瀕している。米農務省（USDA）の食品安全検査局（FSIS）は先日、ウォルマート（Walmart）で販売されている「Great Val",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/ee26a5a5af2af13984319df563fa15468fd993b3?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "03cb12ff9f6d",
+      "title": "治らない原因不明の不調が、「書く」だけでスーッと消える⁉【心療内科の専門医が教えるセルフケア】(OTONA SALONE)",
+      "published": "2026-04-25T12:58:34+00:00",
+      "summary": "原因のわからない不調が続き、病院では「ストレスですね」と片づけられてしまう——そんな経験はありませんか？その「謎の不調」を抱えている人は、もしかしたら「心身症」かもしれないと心療内科の専門医である釈",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/80b2792cec95bd12ad045022cdc09fe52f48afc4?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "f5120993376d",
+      "title": "Q. マイナ保険証をやめたいです。1度切り替えたら、もう紙の保険証に戻ることはできないのでしょうか？(All About)",
+      "published": "2026-04-25T12:50:01+00:00",
+      "summary": "2025年12月2日から従来の保険証は有効期限が切れ、医療機関の受診は「マイナ保険証（マイナンバーカード）」を使うことが基本となりました。既にマイナ保険証に切り替えて利用している人も多いでしょう。",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/808a46ffb3ad58a86f5044277375c2de9226bc03?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "d470169dd870",
+      "title": "【2026年版】「ヨーロッパのベスト都市」ランキング！　2位は「パリ（フランス）」、1位は？(ねとらぼ)",
+      "published": "2026-04-25T12:50:00+00:00",
+      "summary": "世界最大規模の世論調査会社イプソスと、観光・不動産・経済開発分野で知られるコンサルティング会社のレゾナンス社が、2026年版の「ヨーロッパのベスト都市ランキング」を発表しました。 今回のランキン",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/9d6cd111ea22076a2a77a8e65bae6bfb9e339929?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "b0c3b7f52851",
       "title": "精神を安定させる「金門」は小児のひきつけに用いるツボ。下肢のしびれも緩和します(家庭画報.com)",
@@ -17,35 +371,9 @@
       "matched_keywords": []
     },
     {
-      "id": "3b29137c491f",
-      "title": "カルディで発見！常温でも保存できるアイス「凍らせておいしい」シリーズが、低カロリーおやつに最高♡(CanCam.jp)",
-      "published": "2026-04-25T12:01:49+00:00",
-      "summary": "ついこの間までは寒かったのに、最近は一気にあたたかくなり、汗ばむ日もちらほら。暑くなってくると食べたいもの…そう、アイスの季節がやってきました！ 冬に食べるアイスもいいけど、夏になるとさっぱりとした",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/8d25fa1fc2fa501b04d336185eea58cdba6d99e6?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "a2a42dad5765",
-      "title": "マッチングアプリの相手と初対面、空港の係員が鬼の形相で…人生で「最も心臓がバクバクした瞬間」は？(TOKYO FM＋)",
-      "published": "2026-04-25T11:51:11+00:00",
-      "summary": "本部長・マンボウやしろと秘書・浜崎美保がパーソナリティを務める 明日への狼煙（のろし）を上げる“ラジオの中の会社”「Skyrocket Company」（毎週月曜～木曜17:00～20:00）。今回の",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/32b1555679939d29aba66c6da2f0ba8205f7298c?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "4a6b1989d046",
       "title": "医療用トローチで唾液中のコロナウイルスが減少、感染防止策への期待高まる",
-      "published": "2026-04-25T10:07:30+00:00",
+      "published": "2026-04-25T10:26:34+00:00",
       "summary": "医療用トローチで唾液中のコロナウイルスが減少、感染防止策への期待高まる&nbsp;&nbsp;東京報道新聞",
       "sources": [
         {
@@ -941,14 +1269,14 @@
       "matched_keywords": []
     },
     {
-      "id": "0d27c3d93eee",
-      "title": "【医師が教える】認知症になりやすい人の脳で静かに進む「異変」の正体(ダイヤモンド・オンライン)",
-      "published": "2026-04-23T21:27:00+00:00",
-      "summary": "【医師が教える】認知症になりやすい人の脳で静かに進む「異変」の正体(ダイヤモンド・オンライン)&nbsp;&nbsp;Yahoo!ファイナンス認知症に「なりやすい人」と「なりにくい人」を分ける、「習慣」の決定的な違い&nbsp;&nbsp;ダイヤモンド・オンライン認知症発症のリスク1位は難聴、2位は運動不足…ではすべき運動とは？ 49歳オジ記者が学ぶ認知症予防のための「理想の運動習慣」（文春オンライン）&nbsp;&nbsp;Yahoo!ニュース《健康と食の専門家10人が回答》認知症を遠ざける食品習慣ランキング、1位は「青魚全般」と「ウォーキング」 “老人性うつ”にも注意を&nbsp;&nbsp;ｄメニューニュース認知症の病理を叩く「表街道」、脳を育む「援護射撃」――Lancetの14の危険因子を読み解く（その3）【外来で役立つ！認知症Topics】第40回&nbsp;&nbsp;CareNet.com",
+      "id": "4207750818be",
+      "title": "《健康と食の専門家10人が回答》認知症を遠ざける食品習慣ランキング、1位は「青魚全般」と「ウォーキング」 “老人性うつ”にも注意を (1/2)",
+      "published": "2026-04-23T22:00:00+00:00",
+      "summary": "《健康と食の専門家10人が回答》認知症を遠ざける食品習慣ランキング、1位は「青魚全般」と「ウォーキング」 “老人性うつ”にも注意を (1/2)&nbsp;&nbsp;女性セブンプラス認知症に「なりやすい人」と「なりにくい人」を分ける、「習慣」の決定的な違い&nbsp;&nbsp;ダイヤモンド・オンライン認知症発症のリスク1位は難聴、2位は運動不足…ではすべき運動とは？ 49歳オジ記者が学ぶ認知症予防のための「理想の運動習慣」（文春オンライン）&nbsp;&nbsp;Yahoo!ニュース《健康と食の専門家10人が回答》認知症を遠ざける食品習慣ランキング、1位は「青魚全般」と「ウォーキング」 “老人性うつ”にも注意を&nbsp;&nbsp;ｄメニューニュース認知症の病理を叩く「表街道」、脳を育む「援護射撃」――Lancetの14の危険因子を読み解く（その3）【外来で役立つ！認知症Topics】第40回&nbsp;&nbsp;CareNet.com",
       "sources": [
         {
-          "name": "Yahoo!ファイナンス",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRlZLdDBmZ2dlREFHZ3BMM2dZcTdHVm5QQ2IxcEZESGk5V0FnSFFIVkFPalF2WXBTTDZ3bUhhUU5zejk0MkRkOEdRQUVILXAtNGlsYzZHd1N0Q0FRVU12ajhSclBzOXZtd0xpUi1oMUFVN1RhX2NPZHZ0bkpaNjVTVVRoeW1qSUU?oc=5"
+          "name": "女性セブンプラス",
+          "link": "https://news.google.com/rss/articles/CBMiOEFVX3lxTE5kQVVYaXJ4QTJleGpQaUFfdnpLWDh6bm5rS1c0Y0xWbVM1cTBQeXQtUEhPYUVUcnZR?oc=5"
         }
       ],
       "matched_keywords": [
@@ -978,32 +1306,6 @@
         {
           "name": "CareNet.com",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qQVg4ZHlPdFBnR0pvaDgwYnF0dDE1UFd0ZkV0LUEyZmh6ajgwbWdnNzhWZ3g1M05Mek1xQzczM0Y1enE0cU1XcDhUR1FDeWFycDl4MlBJVXpnUzdTR0JJ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "db8240341ac8",
-      "title": "75歳以降の抗血小板薬継続に悩み",
-      "published": "2026-04-23T15:00:00+00:00",
-      "summary": "75歳以降の抗血小板薬継続に悩み&nbsp;&nbsp;m3.com",
-      "sources": [
-        {
-          "name": "m3.com",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9RcHQ5c2pMMnpKVHZRa1R5UTQ2OGs3MV9PWGZhSnZvTGZLbUlhdWtJcnp5a1dJOHBpMno2LTNMV1A4aWNsMHhoTlpUdVp6aDhUb3c?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "8ac98be9bc61",
-      "title": "感染症後の回復評価、スマートウオッチで評価できる？",
-      "published": "2026-04-23T14:45:08+00:00",
-      "summary": "感染症後の回復評価、スマートウオッチで評価できる？&nbsp;&nbsp;日経メディカル",
-      "sources": [
-        {
-          "name": "日経メディカル",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUlN5ODRiVVdkUHBad0dTTlF5YjEya0dZbHVVZmRVSktSZE8zMjNES3ZtVHlYdlgzYTZPM2FaLVFVTndTVjZDbXRscFFWbnVrNEdyTVhrRkg0Y0RMcjBpb0NwcFl6RjRMT1RmcVJBN091anFNYVJGc0hYcUpYanpwVWQwMDk?oc=5"
         }
       ],
       "matched_keywords": []
