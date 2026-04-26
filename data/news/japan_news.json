@@ -1,10 +1,22 @@
 {
   "source": "japan_news",
-  "fetched_at": "2026-04-26T12:42:14.430195+00:00",
-  "total_fetched": 117,
-  "unique_count": 117,
-  "health_related_count": 45,
+  "fetched_at": "2026-04-26T18:37:17.895404+00:00",
+  "total_fetched": 116,
+  "unique_count": 116,
+  "health_related_count": 40,
   "news": [
+    {
+      "id": "3d1b9138e216",
+      "title": "患者や地域に合う医療体制づくりに向けて始まった「かかりつけ医機能報告制度」(家庭画報.com)",
+      "published": "2026-04-26T15:00:23+00:00",
+      "summary": "日常診療だけでなく、時間外診療や入退院時の支援などができる医療機関を明確化",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/ee3fe46cf315ea64fb6e0098657d79ed87070dde?source=rss"
+        }
+      ]
+    },
     {
       "id": "12e37b397e03",
       "title": "「徹底的に白くしたい」白い歯の人が歯が使っている歯磨きペースト(GISELe)",
@@ -42,66 +54,6 @@
       ]
     },
     {
-      "id": "b8c297d6bfe7",
-      "title": "「NOと言えない自分」を変えた上野千鶴子さんの一冊。夫との関係に悩んだ主婦が出会ったフェミニズム(ヨガジャーナルオンライン)",
-      "published": "2026-04-26T12:15:00+00:00",
-      "summary": "『上野さん、主婦の私の当事者研究につきあってください』（晶文社）で、上野千鶴子さんと対談を行った、森田さちさんにお話を伺いました。夫との関係に悩む中でフェミニズムと出会い、自分を大切に思えるようになっ",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/2ce951c7bb0cb569dcf3585644eedc8b7f941fd1?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "ecd180cbdf81",
-      "title": "「日本は高学歴女性の能力を生かせていない」浜田敬子がアイスランドで見た「男女平等に近づける3つの法制」絶大なる効果(FRaU)",
-      "published": "2026-04-26T12:01:36+00:00",
-      "summary": "2025年10月から公開され、ミニシアター作品でありながら、いまも上映され続けている映画『女性の休日』。1975年にアイスランド国民の女性の9割があつまったという大規模ストライキ「女性の休日」を描いた",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/b91b31b4b199826dd3c8ccbc9c41f8b8ccaa5766?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "932a3e899e89",
-      "title": "「むきにんにく」でボツリヌス症の危険。当局が「死亡の確率がある」と最も厳しいリコール指定【米】(ウィメンズヘルス)",
-      "published": "2026-04-26T12:00:49+00:00",
-      "summary": "自炊派の方は注意してほしい。米国で販売されている複数の「むきにんにく」製品が、重大な健康被害や死に至る可能性のあるリスクを理由に、店頭から回収（リコール）されている。 これは他人事ではない。米国のス",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/6d6636152adf4ced845c8d1acea65d666eaf50ae?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "3eb0f1c0ac57",
-      "title": "「やる気はあるのに行動できない」働きながら資格勉強が進まない…みんなはどうやって勉強してるの？ 悩む相談者へのアドバイス続々(TOKYO FM＋)",
-      "published": "2026-04-26T11:51:06+00:00",
-      "summary": "フリーアナウンサーの住吉美紀がパーソナリティをつとめるTOKYO FMの生ワイドラジオ番組「Blue Ocean」（毎週月曜～金曜 9:00～11:00）。毎週金曜日に放送しているコーナー「沢井製薬",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/42472378c57bcfeb4ccfe7e277dbc300dc23434c?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "ae493c9e5472",
-      "title": "実は冷凍の魚がいい？ 新鮮な魚よりおすすめな5つの理由(ELLE)",
-      "published": "2026-04-26T11:50:02+00:00",
-      "summary": "※この記事は、海外のサイト『delish』で掲載されたものの翻訳版です。データや研究結果はすべてオリジナル記事によるものです。 もしあなたが「新鮮な」魚を買っているなら、冷凍庫にあるまったく同じ魚",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/437b735397a1acfffa3486490750b1acb07d74b6?source=rss"
-        }
-      ]
-    },
-    {
       "id": "38bdddbcbb8c",
       "title": "うつや不安、PTSD治療に新たな光 神経細胞でない注目の「標的」 - ナショナルジオグラフィック日本版",
       "published": "2026-04-26T11:00:00+00:00",
@@ -129,7 +81,7 @@
       "id": "93cc28894ca9",
       "title": "いつの間にかメモをとることすらできなくなる…和田秀樹が強く勧める「認知症を遠ざける」指先の運動(プレジデントオンライン) - Yahoo!ファイナンス",
       "published": "2026-04-26T07:15:00+00:00",
-      "summary": "いつの間にかメモをとることすらできなくなる…和田秀樹が強く勧める「認知症を遠ざける」指先の運動(プレジデントオンライン)&nbsp;&nbsp;Yahoo!ファイナンス認知症に「なりやすい人」と「なりにくい人」を分ける、「習慣」の決定的な違い&nbsp;&nbsp;ダイヤモンド・オンライン会話が減ると脳は衰える？50代からの「脳を元気に保つ会話習慣」&nbsp;&nbsp;ｄメニューニュース認知症発症のリスク1位は難聴、2位は運動不足…ではすべき運動とは？ 49歳オジ記者が学ぶ認知症予防のための「理想の運動習慣」&nbsp;&nbsp;文春オンライン【脳神経内科医が教える】認知症になりにくい…3000本の論文が導き出した、100歳まで脳を黄金期に保つ“奇跡の習慣”&nbsp;&nbsp;ダイヤモンド・オンライン",
+      "summary": "いつの間にかメモをとることすらできなくなる…和田秀樹が強く勧める「認知症を遠ざける」指先の運動(プレジデントオンライン)&nbsp;&nbsp;Yahoo!ファイナンス【脳神経内科医が教える】認知症になりにくい…3000本の論文が導き出した、100歳まで脳を黄金期に保つ“奇跡の習慣”&nbsp;&nbsp;ダイヤモンド・オンライン健康と食の専門家10人が回答》認知症を遠ざける食品習慣ランキング、1位は「青魚全般」と「ウォーキング」 “老人性うつ”にも注意を（女性セブンプラス&nbsp;&nbsp;Yahoo!ニュース会話が減ると脳は衰える？50代からの「脳を元気に保つ会話習慣」&nbsp;&nbsp;ｄメニューニュース認知症発症のリスク1位は難聴、2位は運動不足…ではすべき運動とは？ 49歳オジ記者が学ぶ認知症予防のための「理想の運動習慣」&nbsp;&nbsp;文春オンライン",
       "sources": [
         {
           "name": "Yahoo!ファイナンス",
@@ -198,18 +150,6 @@
       ]
     },
     {
-      "id": "7583a91b4ec1",
-      "title": "「妊娠中のタイレノール、自閉症とは無関係」　デンマークの研究チームが150万人分析で安全性を再確認 - 朝鮮日報",
-      "published": "2026-04-25T22:00:00+00:00",
-      "summary": "「妊娠中のタイレノール、自閉症とは無関係」 デンマークの研究チームが150万人分析で安全性を再確認&nbsp;&nbsp;朝鮮日報",
-      "sources": [
-        {
-          "name": "朝鮮日報",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZTRqOFlBbkUtWE9QazJkM25jSG84RXBVTWJIUEk4YkxwelAzYllrdFl5c0t4cTZkYk1vVS1fLW5YY3dsaXlmeWx0TkhtakphaFRRem9WUHZpdHo1YzdkLVduZzRVbkVXMlpycHYtTWtZemVxRE5KaTJyZHl3QVhEQ0RpZ9IBfEFVX3lxTE55V2NBZ1VmWEh2VnE0YndqWDVRNG4xQllXeENETUg2RWhTS3B0X1M4czZlWTEwYkNVVTJpV2pSS1ZId1pDSUEwR3o4THozZFAzZnp3a2JKUUY0WFZicThveWtRMkFQNVVSb0JOb19fQ3lFWDJCNHNhTjcwU0U?oc=5"
-        }
-      ]
-    },
-    {
       "id": "d3c4a1575b79",
       "title": "動物の屠殺、輸送活動による狂犬病の危険性を警告 - Laodong.vn",
       "published": "2026-04-25T12:32:38+00:00",
@@ -230,6 +170,18 @@
         {
           "name": "東京報道新聞",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GbjBSbHdXN19GTmZYck1YX1JTRWdTZ3BTUUFqaDlDZ051XzVnYVMxeUpzczN0anI5WTZ6N2l5T0FlM3EyQWd2OEw2RHh0eS1IZlVF?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d9940ba5e5ba",
+      "title": "日本で接種が「義務＝強制」なのはどのワクチン？【高齢者の正しいクスリとの付き合い方】 - ｄメニューニュース",
+      "published": "2026-04-25T09:05:00+00:00",
+      "summary": "日本で接種が「義務＝強制」なのはどのワクチン？【高齢者の正しいクスリとの付き合い方】&nbsp;&nbsp;ｄメニューニュース",
+      "sources": [
+        {
+          "name": "ｄメニューニュース",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWm9KNjFqT2t1a0RZY3luU3pnQzhkUUJIQWUyQlVoRU5hTlhpRXBhZ0NvMTIxdVpRbWJMOHozZGpQOG9xRHhDQUoteXRFWjh2ZFl4ODNscXhxaUU5dlBMcldLaTJQaEYxTFByY2RjbnBZNXlobVN3c3FQRS13X01KbGUxdmvSAYoBQVVfeXFMTlFaaWt0N0NxN2dxTUJWU2RkZkt3S0hOS2JHX1h3MGVwbmZRYjBxdE1hcXFqbFVBNDJCNm1fRC01M2twSmpBNVcwMnc4OTVmNUo2aHJ5WGpPNzBQR01KSUdqLU1PdzZ4V2czOU1xMEJRc1o3Y0Y1aDVrZHRqQnJyeTNyeHd4Q0FmMlRR?oc=5"
         }
       ]
     },
@@ -270,25 +222,13 @@
       ]
     },
     {
-      "id": "bf49ba787ead",
-      "title": "日本で接種が「義務＝強制」なのはどのワクチン？｜高齢者の正しいクスリとの付き合い方 - 日刊ゲンダイDIGITAL",
-      "published": "2026-04-24T21:00:00+00:00",
-      "summary": "日本で接種が「義務＝強制」なのはどのワクチン？｜高齢者の正しいクスリとの付き合い方&nbsp;&nbsp;日刊ゲンダイDIGITAL",
-      "sources": [
-        {
-          "name": "日刊ゲンダイDIGITAL",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1CMjQ0OGxITlZzLUFVWGJlUzJTTktTM04zbzJVaHppYU1sRmxDT2Ita2VETWgtRVczUUZwbm1MbjRSdXYwdmg5NXF5YkJBc3lobVlFbmJFcVlBTUYya2dQdi1EVVhyZDR2?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8b3dfc1cbe5d",
-      "title": "若年性認知症に強く関連する危険因子が判明 喫煙、うつ病、糖尿病、低学歴が強く関連 - yomiuri.co.jp",
+      "id": "ca24c6922bfe",
+      "title": "若年性認知症に強く関連する危険因子が判明 喫煙、うつ病、糖尿病、低学歴が強く関連 - 読売新聞",
       "published": "2026-04-24T20:00:00+00:00",
-      "summary": "若年性認知症に強く関連する危険因子が判明 喫煙、うつ病、糖尿病、低学歴が強く関連&nbsp;&nbsp;yomiuri.co.jp",
+      "summary": "若年性認知症に強く関連する危険因子が判明 喫煙、うつ病、糖尿病、低学歴が強く関連&nbsp;&nbsp;読売新聞",
       "sources": [
         {
-          "name": "yomiuri.co.jp",
+          "name": "読売新聞",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHRzBkcGpTWnNSMkJWZWpxejQwVWNXWHFwRlRpekxQLU81X3NieUJFaXd5cFQ0dmttQUp4VUVZano3MjA1anVQMlk4SUVRZGNNUEJsVjFlcFlYeVVzUUFUZHFYb0VyaG5Lb2ctLThB?oc=5"
         }
       ]
