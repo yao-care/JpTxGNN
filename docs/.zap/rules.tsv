@@ -1,0 +1,17 @@
+# ZAP Rules Configuration for TwTxGNN (GitHub Pages)
+# 以下項目因 GitHub Pages 無法設定 HTTP 回應標頭，降為 WARN
+# 參考：https://www.zaproxy.org/docs/docker/baseline-scan/#rules-file-format
+#
+# 格式：<rule_id>	<action>	<description>
+# WARN = 報告但不算 failure
+
+10020	WARN	(X-Frame-Options Header - GitHub Pages cannot set HTTP headers)
+10021	WARN	(X-Content-Type-Options Header - GitHub Pages cannot set HTTP headers)
+10027	WARN	(Information Disclosure - Suspicious Comments - normal code comments)
+10038	WARN	(CSP Header Not Set on non-HTML resources - GitHub Pages limitation)
+10055	WARN	(CSP style-src/script-src unsafe-inline - required by just-the-docs theme)
+10035	WARN	(Strict-Transport-Security - GitHub Pages cannot set HTTP headers)
+10063	WARN	(Permissions Policy Header - GitHub Pages cannot set HTTP headers)
+10098	WARN	(Cross-Domain Misconfiguration - CORS controlled by GitHub CDN)
+90004	WARN	(Cross-Origin-Embedder-Policy - GitHub Pages cannot set HTTP headers)
+90005	WARN	(Cross-Origin-Opener-Policy - GitHub Pages cannot set HTTP headers)

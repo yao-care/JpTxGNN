@@ -1,0 +1,453 @@
+/* SGE/AEO 支援樣式 */
+.key-answer {
+  background: linear-gradient(135deg, #e8f5e9 0%, #c8e6c9 100%);
+  padding: 1rem 1.25rem;
+  border-radius: 8px;
+  border-left: 4px solid #2E7D32;
+  margin: 1rem 0;
+  font-size: 1.05rem;
+}
+.key-takeaway {
+  background: #e3f2fd;
+  padding: 1rem;
+  border-radius: 8px;
+  margin: 1rem 0;
+  border-left: 4px solid #1976D2;
+}
+.key-takeaway::before {
+  content: "重點：";
+  font-weight: 700;
+  color: #1976D2;
+}
+.expert-quote {
+  background: #fafafa;
+  padding: 1.25rem;
+  border-left: 4px solid #9E9E9E;
+  margin: 1.5rem 0;
+  font-style: italic;
+}
+.expert-quote cite {
+  display: block;
+  margin-top: 0.75rem;
+  font-style: normal;
+  font-weight: 600;
+  color: #666;
+}
+.actionable-steps {
+  background: #fff8e1;
+  padding: 1rem 1rem 1rem 2rem;
+  border-radius: 8px;
+  margin: 1rem 0;
+}
+.actionable-steps li {
+  margin: 0.5rem 0;
+}
+.comparison-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1rem 0;
+}
+.comparison-table th {
+  background: #f5f5f5;
+  padding: 0.75rem;
+  text-align: left;
+  border-bottom: 2px solid #ddd;
+}
+.comparison-table td {
+  padding: 0.75rem;
+  border-bottom: 1px solid #eee;
+}
+.disclaimer {
+  background: #fff3cd;
+  padding: 1rem;
+  margin-top: 2rem;
+  border-left: 4px solid #ffc107;
+  border-radius: 4px;
+}
+
+/* 適應症手風琴樣式 */
+.indication-section {
+  margin: 1rem 0;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  overflow: hidden;
+}
+.indication-section summary {
+  padding: 1rem 1.25rem;
+  cursor: pointer;
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  font-weight: 500;
+  list-style: none;
+}
+.indication-section summary::-webkit-details-marker {
+  display: none;
+}
+.indication-section summary::before {
+  content: "▶";
+  font-size: 0.75rem;
+  transition: transform 0.2s;
+}
+.indication-section[open] summary::before {
+  transform: rotate(90deg);
+}
+.indication-section[open] summary {
+  border-bottom: 1px solid #e0e0e0;
+}
+.indication-content {
+  padding: 1.25rem;
+  background: #fff;
+}
+.indication-content h3 {
+  margin-top: 1rem;
+  font-size: 1.1rem;
+  color: #333;
+}
+.indication-content h3:first-child {
+  margin-top: 0;
+}
+
+/* 適應症區塊內的表格 */
+.indication-content table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1rem 0;
+  font-size: 0.9rem;
+}
+.indication-content table th,
+.indication-content table td {
+  border: 1px solid #ddd;
+  padding: 0.5rem 0.75rem;
+  text-align: left;
+}
+.indication-content table th {
+  background: #f5f6f7;
+  font-weight: 600;
+}
+.indication-content table tr:hover {
+  background: #f9f9f9;
+}
+.indication-content table a {
+  color: #1976D2;
+  text-decoration: none;
+}
+.indication-content table a:hover {
+  text-decoration: underline;
+}
+/* 響應式表格 */
+@media (max-width: 768px) {
+  .indication-content table {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+}
+
+/* 無專門研究提示 */
+.no-evidence-notice {
+  background: #f8f9fa;
+  border: 1px solid #e9ecef;
+  border-radius: 6px;
+  padding: 1rem;
+  color: #6c757d;
+  font-size: 0.95rem;
+}
+
+/* 證據等級標籤 */
+.evidence-badge {
+  padding: 3px 10px;
+  border-radius: 12px;
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+.evidence-L1 { background: #28a745; color: white; }
+.evidence-L2 { background: #17a2b8; color: white; }
+.evidence-L3 { background: #ffc107; color: #333; }
+.evidence-L4 { background: #fd7e14; color: white; }
+.evidence-L5 { background: #6c757d; color: white; }
+
+/* 預測分數 */
+.prediction-score {
+  font-size: 0.9rem;
+  color: #666;
+  margin-left: auto;
+}
+
+/* 主要適應症標記 */
+.primary-badge {
+  background: #e3f2fd;
+  color: #1976D2;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 0.8rem;
+}
+
+/* 無證據警告 */
+.no-evidence-warning {
+  background: #fff3cd;
+  border: 1px solid #ffc107;
+  border-radius: 6px;
+  padding: 0.75rem 1rem;
+  margin: 0.5rem 0;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+.no-evidence-warning::before {
+  content: "⚠️";
+}
+
+/* ===== 藥物查詢區塊 ===== */
+.drug-lookup-container {
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin: 1rem 0 1.5rem;
+}
+
+.lookup-search-box {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.lookup-input-wrapper {
+  flex: 1;
+  position: relative;
+}
+
+.lookup-input-wrapper input {
+  width: 100%;
+  padding: 0.875rem 2.5rem 0.875rem 1rem;
+  font-size: 1rem;
+  border: 2px solid #dee2e6;
+  border-radius: 8px;
+  outline: none;
+  transition: border-color 0.2s, box-shadow 0.2s;
+  box-sizing: border-box;
+}
+
+.lookup-input-wrapper input:focus {
+  border-color: #2E7D32;
+  box-shadow: 0 0 0 3px rgba(46, 125, 50, 0.15);
+}
+
+.lookup-search-btn {
+  padding: 0.875rem 1.5rem;
+  font-size: 1rem;
+  font-weight: 600;
+  color: white;
+  background: #2E7D32;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.2s;
+  white-space: nowrap;
+}
+
+.lookup-search-btn:hover {
+  background: #1B5E20;
+}
+
+.lookup-clear-btn {
+  position: absolute;
+  right: 0.75rem;
+  top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  font-size: 1.25rem;
+  color: #999;
+  cursor: pointer;
+  padding: 0.25rem;
+  line-height: 1;
+}
+
+.lookup-clear-btn:hover {
+  color: #666;
+}
+
+.lookup-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem 1rem;
+  align-items: center;
+  font-size: 0.9rem;
+}
+
+.lookup-filters .filter-label {
+  color: #666;
+  font-weight: 500;
+}
+
+.lookup-filters label {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  cursor: pointer;
+}
+
+.lookup-filters input[type="checkbox"] {
+  accent-color: #2E7D32;
+}
+
+.lookup-results {
+  margin-top: 1rem;
+}
+
+.lookup-notice {
+  text-align: center;
+  color: #666;
+  padding: 1rem;
+  font-size: 0.95rem;
+}
+
+.result-section {
+  margin-bottom: 1.5rem;
+}
+
+.result-section h4,
+.result-section .section-title {
+  font-size: 0.9rem;
+  color: #666;
+  margin: 0 0 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  font-weight: 600;
+}
+
+.result-card {
+  background: white;
+  border-radius: 8px;
+  padding: 1rem;
+  margin-bottom: 0.75rem;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+}
+
+.result-header {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.result-header .drug-name,
+.result-header .indication-name {
+  font-weight: 600;
+  font-size: 1.05rem;
+  color: #333;
+  text-decoration: none;
+}
+
+.result-header .drug-name:hover {
+  color: #2E7D32;
+}
+
+.level-badge {
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: 0.75rem;
+  font-weight: 600;
+}
+
+.level-L1 { background: #28a745; color: white; }
+.level-L2 { background: #17a2b8; color: white; }
+.level-L3 { background: #ffc107; color: #333; }
+.level-L4 { background: #fd7e14; color: white; }
+.level-L5 { background: #6c757d; color: white; }
+
+.result-original {
+  font-size: 0.85rem;
+  color: #666;
+  margin-bottom: 0.5rem;
+}
+
+.result-indications {
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+
+.result-indications .ind-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  margin-right: 0.75rem;
+  margin-bottom: 0.25rem;
+}
+
+.result-indications .no-match {
+  color: #999;
+  font-style: italic;
+}
+
+.result-indications .more,
+.result-drugs .more {
+  color: #666;
+  font-size: 0.85rem;
+}
+
+.view-report {
+  display: inline-block;
+  margin-top: 0.5rem;
+  font-size: 0.85rem;
+  color: #2E7D32;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.view-report:hover {
+  text-decoration: underline;
+}
+
+.result-drugs {
+  font-size: 0.9rem;
+}
+
+.result-drugs .drug-item {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.4rem 0;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.result-drugs .drug-item:last-child {
+  border-bottom: none;
+}
+
+.result-drugs .drug-item a {
+  color: #2E7D32;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.result-drugs .drug-item a:hover {
+  text-decoration: underline;
+}
+
+.result-drugs .score {
+  color: #666;
+  font-size: 0.85rem;
+}
+
+.result-drugs .original-hint {
+  color: #999;
+  font-size: 0.8rem;
+  flex-basis: 100%;
+  margin-left: 0;
+}
+
+@media (max-width: 600px) {
+  .lookup-filters {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .result-drugs .drug-item {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
