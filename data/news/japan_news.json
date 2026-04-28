@@ -1,43 +1,103 @@
 {
   "source": "japan_news",
-  "fetched_at": "2026-04-28T08:06:43.272966+00:00",
-  "total_fetched": 140,
-  "unique_count": 140,
-  "health_related_count": 62,
+  "fetched_at": "2026-04-28T13:28:51.973116+00:00",
+  "total_fetched": 138,
+  "unique_count": 138,
+  "health_related_count": 56,
   "news": [
     {
-      "id": "0f57dd955b16",
-      "title": "東大が小中高生に無料の研究プログラム　「学習ではなく、学問を体験してほしい」(朝日新聞Thinkキャンパス)",
-      "published": "2026-04-28T08:05:21+00:00",
-      "summary": "大学のオープンキャンパスでは、講義を体験できる「模擬授業」が人気ですが、オープンキャンパス以外にも、大学の学びを体験できるプログラムを実施する大学が増えています。東京大学では、小中学生から高校生向けの",
+      "id": "68ee5d2010f8",
+      "title": "コカインが混ざった水で育ったタイセイヨウサケ、1.9倍の距離を泳ぐ(ギズモード・ジャパン)",
+      "published": "2026-04-28T12:30:02+00:00",
+      "summary": "コカインを食べたクマがハイパーハイになるって映画はあったけれど、コカインが混ざった水で育ったタイセイヨウサケは、泳ぐ距離が伸びるのか……。 国際共同研究によって、コカイン由来の化学物質が野生のタイセ",
       "sources": [
         {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/bbc94612282037d9b68299f79400e8365f96c1c8?source=rss"
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/b5c2a8cf6542ff4b6cf42e6764c6b4043aa8eb63?source=rss"
         }
       ]
     },
     {
-      "id": "f71eb7df308c",
-      "title": "年齢よりも明らかに小さくて幼い…獣医師が診察室で想像以上に多いと感じる「犬猫の月齢偽装」現実と飼い主側の課題(FRaU)",
-      "published": "2026-04-28T08:01:36+00:00",
-      "summary": "「春先は、ペットを新たに迎える人が増え、初めて動物病院に来られる方も少なくありません。『迎えたばかりの子なんです』と診察台に上がった犬や猫を診て、『あれ!? もしかして8週齢に満たないのでは……』と感",
+      "id": "fe5808260abb",
+      "title": "「キレイな人は夜が8割」続けて差がつく美容通たちの習慣(GISELe)",
+      "published": "2026-04-28T12:17:00+00:00",
+      "summary": "夜は成長ホルモンが分泌され、肌を生まれ変わらせる大切な時間。ファッション・美容業界で忙しく働くデザイナーやPR、美容師など、彼女たちが選りすぐったものは、その効果も証明された美容成分が含まれているもの",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/2a00b6ba20cab71d48a2f1c00444db44770e3e49?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/cd575de5771889801e549eaafa9da889d7e0b339?source=rss"
         }
       ]
     },
     {
-      "id": "2ac1405c2c90",
-      "title": "構想20年超、「三田のサグラダ・ファミリア」が再開発の波を乗り越えついに完成──地下にギャラリー(ARTnews JAPAN)",
-      "published": "2026-04-28T08:00:58+00:00",
-      "summary": "この春、「三田のサグラダ・ファミリア」がついに完成した。 「三田のサグラダ・ファミリア」とは、東京都港区三田の聖坂で、建築家の岡啓輔が2005年から自らの手で建設を続けてきたセルフビルド建築「蟻鱒鳶",
+      "id": "c14a4a7c0774",
+      "title": "「え？」その聞き返し、脳の老化の始まりかも。認知症を遠ざける50代からの「耳活」のススメ(HALMEK up)",
+      "published": "2026-04-28T12:15:02+00:00",
+      "summary": "「え？」と聞き返すことが増えた…。そんな変化を感じていませんか？その聞こえにくさは耳の老化サインかもしれません。耳の衰えは会話のしづらさだけでなく、認知症とも関係があります。50代から始めたい耳のケア",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/58e63ca931d424e92001aa0a2cf5032aa14e9733?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/b674b8f3352ec4047d5a7049c271e87b8fb63f09?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "eff95ed026ab",
+      "title": "目や歯の痛み、喉の腫れ、鼻血など頭部のトラブルを解決する「三間」。ばね指も緩和(家庭画報.com)",
+      "published": "2026-04-28T12:10:02+00:00",
+      "summary": "中医学のエキスパートである鍼灸師の兵頭 明先生が、ツボの効能や位置、効くメカニズムを解説します。健康の土台作りに、不調改善に、1日1分のツボ押しを習慣にしましょう。",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/9b673d35455be5545bfa785f7d7d34f8d57ecd12?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "30d4a9723d7b",
+      "title": "野生動物の子どもを「助けたつもり」が誘拐になる、「育児放棄は本当にまれ」と専門家(ナショナル ジオグラフィック日本版)",
+      "published": "2026-04-28T11:11:21+00:00",
+      "summary": "保護している約100頭のシカの一部にミルクを与えるため、コニー・ホール氏はほとんど徹夜で過ごしていた。そこへ、ある夫婦が生まれたばかりの野生の子ジカを連れてやってきた。前日に道端で拾ったときは健康そ",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/6caa51052ea5c745e07c704feb8751368185f92f?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "e0168e0228ad",
+      "title": "川崎の３０代女性がはしか感染、２２、２３日にＪＲ南武線と東急線利用 - カナロコ",
+      "published": "2026-04-28T11:10:00+00:00",
+      "summary": "川崎の３０代女性がはしか感染、２２、２３日にＪＲ南武線と東急線利用&nbsp;&nbsp;カナロコ川崎、３０代女性がはしかに感染 ＪＲ南武線や大井町線を利用&nbsp;&nbsp;カナロコ川崎市で30代女性がはしか感染 感染可能期間に公共交通利用（tvkニュース（テレビ神奈川））&nbsp;&nbsp;Yahoo!ニュース武蔵小杉周辺で「はしか」患者、新たに２例確認 川崎市４月20日発表 市内での発生19件に〈川崎市宮前区〉&nbsp;&nbsp;ｄメニューニュース川崎の５０代と２０代男性がはしかに感染 電車やバス利用、海外渡航歴なく&nbsp;&nbsp;カナロコ",
+      "sources": [
+        {
+          "name": "カナロコ",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FX1FJY0VoR21DMHotOEt0aExHUkNBaTd4RFpRX25RSmplNjFzdWtXdnFzb1lMaTltbWlUUmRDclB4WU40cjBDdEd3RG54TUtlS1MwN0ZnaU1OS1V3SjVWUmo0RkwwOTRHZDZ5RA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dbd23266622f",
+      "title": "気付かれにくい『膵臓がん』の初期症状！ 見逃せないサインについて専門医が解説(メディカルドック)",
+      "published": "2026-04-28T11:01:46+00:00",
+      "summary": "膵臓がんは初期症状がとても乏しく、「気付いた時には進行していた」というケースが少なくありません。背中の痛みや食欲低下、何となく続く倦怠（けんたい）感など、見逃しがちな小さなサインが早期発見の手掛かりに",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/6195c74bcab8d57e7d007808e8eac347ca18748e?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "fe778818d8e4",
+      "title": "小胞体における亜鉛とレドックスのクロストークを発見 〜亜鉛の制御破綻による疾患発症機構の理解に新たな視点〜 - Digital PR Platform",
+      "published": "2026-04-28T08:21:50+00:00",
+      "summary": "小胞体における亜鉛とレドックスのクロストークを発見 〜亜鉛の制御破綻による疾患発症機構の理解に新たな視点〜&nbsp;&nbsp;Digital PR Platform",
+      "sources": [
+        {
+          "name": "Digital PR Platform",
+          "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFA4SGx3TmZPNDVmeVAxNl9ZUVpMNUVXakUyZ21NVlpiWmd5c3FMNzVYNDhKUTBkZ3hBamF5ak5UZ3g3U0E?oc=5"
         }
       ]
     },
@@ -54,74 +114,14 @@
       ]
     },
     {
-      "id": "97d45813c7f2",
-      "title": "マダニが媒介する感染症「SFTS」「日本紅斑熱」患者相次ぐ　かまれてから1〜2週間後に症状　重症化すると死亡も(FNNプライムオンライン)",
-      "published": "2026-04-28T07:41:21+00:00",
-      "summary": "マダニが媒介する感染症「SFTS」「日本紅斑熱」の患者が相次いでいる。重症化すると死亡することもある。感染のピークは春と秋。大型連休はアウトドアの機会が増えることから注意が必要だ。",
+      "id": "404e64897a2e",
+      "title": "【速報】大阪府で10歳未満の男児の「はしか」感染確認 発症前後の利用施設を公表し注意喚起 今年14例目 - 日テレNEWS NNN",
+      "published": "2026-04-28T06:34:01+00:00",
+      "summary": "【速報】大阪府で10歳未満の男児の「はしか」感染確認 発症前後の利用施設を公表し注意喚起 今年14例目&nbsp;&nbsp;日テレNEWS NNNGoogle ニュースですべての記事を見る",
       "sources": [
         {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/8dacd79ded09c97530b70c3fde07a435d0f06ca2?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "22399cba0f50",
-      "title": "「珈琲所コメダ珈琲店」シリーズ「クラフトレモネード」が新しくなった！つぶつぶ食感のレモンピール入りで、まるごとレモンの満足感を体験(LASISA)",
-      "published": "2026-04-28T07:30:00+00:00",
-      "summary": "「トーヨービバレッジ」が「コメダ」と共同開発した「珈琲所コメダ珈琲店 クラフトレモネード」が、2026年5月5日（火）より全国のコンビニエンスストアで発売されます。 「珈琲所コメダ珈琲店」シリーズは",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/0ae7c5dbe8dcd806532438f76055ece2ee407bb3?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "a785e0542870",
-      "title": "脳のヨボヨボ化を食い止めイキイキ暮らせる…和田秀樹「頭がはっきりして意欲的な人がしている定年後の活動」(プレジデントオンライン)",
-      "published": "2026-04-28T07:16:03+00:00",
-      "summary": "高齢者が脳の健康を守るには何をするといいか。精神科医の和田秀樹さんは「ムリのない形で仕事を続けることが、脳を守り、心を守り、若さを保つことにつながる。定年は、これまでとは異なり、仕事を完全に辞める時期",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/a601593f313ce1888fa7433c5d9d5cb637cd0948?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "c040093bdfc2",
-      "title": "「Soup Stock Tokyo」が期間限定で登場　ファボーレ富山にポップアップストアを出店へ(FNNプライムオンライン)",
-      "published": "2026-04-28T07:09:29+00:00",
-      "summary": "Soup Stock Tokyoのポップアップストアが5月7日から12日までの6日間、富山市のファボーレ富山に期間限定で登場します。 ジェイアールサービスネット金沢と富山フューチャー開発が共同で発表",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/bb4a9657c4d89084090b8249c7387c57029c8bac?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "9f3016752b07",
-      "title": "常温保管でポスト投函OKに　がんリスク検査手続きを簡易化　スシテックでサリバテックがPR(オーヴォ)",
-      "published": "2026-04-28T07:05:19+00:00",
-      "summary": "唾液の成分を解析して膵臓（すいぞう）がんなど最大6つのがんの罹患リスクを調べる検査サービス「サリバチェッカー」を展開するスタートアップ、サリバテック（山形県鶴岡市）は、東京都内で4月27～29日開か",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/fd9c74320c0845863bf8c47687c60f8fecf20658?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "61e02594ec61",
-      "title": "小胞体における亜鉛とレドックスのクロストークを発見 〜亜鉛の制御破綻による疾患発症機構の理解に新たな視点 - u-presscenter.jp",
-      "published": "2026-04-28T06:12:27+00:00",
-      "summary": "小胞体における亜鉛とレドックスのクロストークを発見 〜亜鉛の制御破綻による疾患発症機構の理解に新たな視点&nbsp;&nbsp;u-presscenter.jp",
-      "sources": [
-        {
-          "name": "u-presscenter.jp",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSTmtqV20ydjZWT1JQRXJ0R1JFQ2pjLWR4cWIxYkZrbmRLRmRYZ2dLdnlxNFUtdXpvMEY2d2FmN3VBZUJqVTg4QjRGdnNvbTVNX3luQlR3?oc=5"
+          "name": "日テレNEWS NNN",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSUZGSEwyRXpiTG9UcU1NMURMYzBsaFU1YTBST0hYUkRMRFZWcl9sM2pJNkxKMEk2ZkpKVUhhSXhuUmZGSUNyc0pnSW1PYnBvMTNqczdFUlZZSmZCd0p0cjUxRVV3bVZjQkxrNFhJSXB1NFVNUWxiYlBhMk8xSFlhRk9nWllrYUU?oc=5"
         }
       ]
     },
@@ -198,18 +198,6 @@
       ]
     },
     {
-      "id": "814914d831f4",
-      "title": "見過ごされる難病慢性活動性EBウイルス感染症（CAEBV）、診断の壁と治療法 広島大病院の専門医が語る - 47NEWS",
-      "published": "2026-04-28T00:15:00+00:00",
-      "summary": "見過ごされる難病慢性活動性EBウイルス感染症（CAEBV）、診断の壁と治療法 広島大病院の専門医が語る&nbsp;&nbsp;47NEWS",
-      "sources": [
-        {
-          "name": "47NEWS",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBubVdNVWdESFMyaVpXTkJTQkVZSkxVSDBFTVJfNHE3aTVqRFhjc1VBZWdDU2dGNHBGUHJvVHJrd2d4TmhrMmN2aUlKbw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e1d9eeead656",
       "title": "左心疾患由来の肺高血圧症、SGLT2阻害薬で予後改善の可能性－東北大ほか - QLifePro",
       "published": "2026-04-28T00:10:00+00:00",
@@ -218,18 +206,6 @@
         {
           "name": "QLifePro",
           "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1BakR6WTN5Skg5N2RNXzQ5VmNnNEY4S3ZrWVYza1RFUnJOamk4dlRiTzBoNzFvd3AwTHFMaUhPbXpZeWFrNE9MMUt3OUoxRkxZVDZ2d3k2YTBtVlBISXVFaHFjcWJaUXhGUHlKajAxV1ZITERhS3dB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "56aa1bc139d7",
-      "title": "【2026年最新情報】糖尿病の薬はやめられる？結論：およそ30～50％は生活改善で減薬・中止が可能（※条件あり） - 宮崎日日新聞",
-      "published": "2026-04-28T00:00:00+00:00",
-      "summary": "【2026年最新情報】糖尿病の薬はやめられる？結論：およそ30～50％は生活改善で減薬・中止が可能（※条件あり）&nbsp;&nbsp;宮崎日日新聞",
-      "sources": [
-        {
-          "name": "宮崎日日新聞",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1nR3B4N29Jbzdnb2VrTUJqM3NRWTk4R3kzUm9KQWM4T0hsdWVuSkh4TWh3NTQzVjV4SjhSUWYwSmN3bWdldGlpckJaY2tGdzY2RTRtN0hzMjB5TWhXSHlkZEVlbFhwUWNmME5vQ1RRaGFLYkFq?oc=5"
         }
       ]
     },
@@ -282,6 +258,18 @@
       ]
     },
     {
+      "id": "57cc5e48550f",
+      "title": "2日間食べると血圧が低下？ メタボ予防に効果的な「オートミール」の食べ方 - スマートニュース（SmartNews）",
+      "published": "2026-04-27T18:00:00+00:00",
+      "summary": "2日間食べると血圧が低下？ メタボ予防に効果的な「オートミール」の食べ方&nbsp;&nbsp;スマートニュース（SmartNews）",
+      "sources": [
+        {
+          "name": "スマートニュース（SmartNews）",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HdW1WOUhBVnItbEVSRlRTd2hzWHFkck1BQWFJaXltOWd1eWRoVmpXam0teTdOY0d6X3Y5eldzZFB6cWV6akIwdE9RUG4yUHpXaFFqOU9jVHJ2Yk5TZkhhSVp4SzE0Umg4bkE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "83ea23226375",
       "title": "妊娠高血圧腎症：妊娠高血圧、新治療法 早発型に血液浄化装置 - 毎日新聞",
       "published": "2026-04-27T17:07:11+00:00",
@@ -302,18 +290,6 @@
         {
           "name": "Boehringer Ingelheim",
           "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBaRTBoUTNodDdhZkJqVnBrajV6cjBNUmM0VkhsR1ljLUJTcjVWVG1NaFU0NmVKU0EzZkNMTnBBbG9EN05OU1phWGl0UVotdWE5OUtJY29RUFZpc1JuRFJmSHRKZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "050002e47150",
-      "title": "大腸がんのリスクは3割下げられる！ その方法を指南 - 日経Gooday",
-      "published": "2026-04-27T15:00:00+00:00",
-      "summary": "大腸がんのリスクは3割下げられる！ その方法を指南&nbsp;&nbsp;日経GoodayGoogle ニュースですべての記事を見る",
-      "sources": [
-        {
-          "name": "日経Gooday",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80VWlIUGU0aWVMR3l1ZFFPNF9Eb2JEQ0V2a2xkOFNFSDhtaDg0VFM3bFVlcUVmdS13a3dDRWtrcVpGSGhhTl9FRnZjX0J0WHMwcU9iYmcwYWREOHlLUG8xa0FkcHdqei1KUDdSYmVWQW8?oc=5"
         }
       ]
     },
@@ -558,18 +534,6 @@
       ]
     },
     {
-      "id": "9955af916f6f",
-      "title": "ICIによるirAEで1カ月以内の心筋炎発症は独立した早期死亡リスク、死亡率が高い心筋炎・筋炎・筋無力症の併発に要注意【AACR 2026】 - 日経メディカル",
-      "published": "2026-04-26T08:15:02+00:00",
-      "summary": "ICIによるirAEで1カ月以内の心筋炎発症は独立した早期死亡リスク、死亡率が高い心筋炎・筋炎・筋無力症の併発に要注意【AACR 2026】&nbsp;&nbsp;日経メディカル",
-      "sources": [
-        {
-          "name": "日経メディカル",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNblRJeXpKU1pvNzB4cjRXSmZOQW1tMU1YVHN0aF9Wd1libVItX2dkNWkzVHpmd1JfUko5NmxtN1pZTGxKcjFGZC1IT2NwQ29qZlUyNWE1dHdGUk1zMWpVT3JfTHpnZWl3U1ozQnhRVkhUTmFwOGo5azI1SUhscXk1ek15VHQtN2NP?oc=5"
-        }
-      ]
-    },
-    {
       "id": "097c33893049",
       "title": "次世代高速デバイスに展開へ…東大、層状半導体で高速正孔輸送(ニュースイッチ)",
       "published": "2026-04-26T06:10:02+00:00",
@@ -710,42 +674,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/0f5a00672526ab7089aa9e3f141f7fe0694d9f5e?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "b64bd081b59e",
-      "title": "見逃されやすい3つの病気―― 専門医が解説する大腸がん・胃がん・膵がん(Medical Note)",
-      "published": "2026-04-23T04:50:02+00:00",
-      "summary": "大腸がんは便潜血検査によって早期診断が期待できるようになってきた一方で、早期発見が難しい膵がんは患者数が増加し、がん死亡者数第3位（男女計）となっている。かつて第3位であった胃がんは、ピロリ菌感染率の",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/bcec157c23852c1497f81b34f4481c18e9abec77?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "b0531696983d",
-      "title": "欧州とアフリカの間に位置する狭い海域で124隻の沈没船が発見　ホルムズ海峡と同様の歴史的要衝(CNN.co.jp)",
-      "published": "2026-04-23T03:48:00+00:00",
-      "summary": "（CNN） スペインの考古学者らはこのほど、2020年から23年にかけて実施した調査によってジブラルタル海峡のアルヘシラス湾内で124隻の沈没船を含む151の水中遺跡を特定したと発表した。 欧州最南",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/0f6402ac6963dba15837ce05d84cf81d57e25337?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "fb7ddbe8bc66",
-      "title": "帝国の「暗黒時代」に光を当てる発見、謎を載せた「ビザンチンの難破船」の宝物を探して(ナショナル ジオグラフィック日本版)",
-      "published": "2026-04-23T02:02:25+00:00",
-      "summary": "アドリア海に浮かぶムリエト島にある古代のポラチェ港を撮影するクロアチア文化財修復研究所・水中考古学部門のパブレ・ドゥゴンイッチ氏。現代のクロアチア沖で1000年以上前に姿を消した船の残骸を調査する考",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/9895479c22cd82249d08568d4eca623fd36f8f5d?source=rss"
         }
       ]
     }
