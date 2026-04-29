@@ -1,19 +1,151 @@
 {
   "source": "japan_news",
-  "fetched_at": "2026-04-29T02:01:38.002277+00:00",
-  "total_fetched": 140,
-  "unique_count": 140,
-  "health_related_count": 50,
+  "fetched_at": "2026-04-29T08:00:14.149737+00:00",
+  "total_fetched": 138,
+  "unique_count": 138,
+  "health_related_count": 57,
   "news": [
     {
-      "id": "b872fe2d20cb",
-      "title": "クビアカツヤカミキリでサクラ枯れる樹木被害　迫る産卵期、天敵なしで年千個産卵の繁殖力(産経新聞)",
-      "published": "2026-04-29T01:40:54+00:00",
-      "summary": "特定外来生物「クビアカツヤカミキリ」の食害によって、サクラなどの樹木が枯れる被害が全国で急拡大している。繁殖力が強いことから、被害を効果的に押さえ込むには自治体の対策だけでなく、地域住民の協力も必要と",
+      "id": "ae154128a979",
+      "title": "講談社が帚木蓬生さんの小説回収　実在人物死亡の設定で抗議(共同通信)",
+      "published": "2026-04-29T07:40:12+00:00",
+      "summary": "講談社は29日、作家の帚木蓬生さん（79）の長編小説「少弐 民に捧げた三百六十年」の販売を中止し、書店に対し、店頭在庫の返品を依頼したと発表した。実在の歴史研究者を無断で登場させ、作中で「亡くなった",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/efcf5bd2fe96e8fd2bd30122fda758df1fcab44c?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/0bc5bc63fe15cfacb9d8d4e66ce13b974315be8f?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "914f309bfbd7",
+      "title": "悪玉コレステロールが高いほうが「がんやうつ病に強い」…和田秀樹が「健康診断を気にするな」という理由(プレジデントオンライン)",
+      "published": "2026-04-29T07:15:53+00:00",
+      "summary": "年齢を重ねてがんや認知症を患ったらどうすればいいか。精神科医の和田秀樹さんは「がんや認知症は、しわや白髪と同じで、歳を重ねれば誰にでも起こる変化である。条件が変わっても、笑い、怒り、恋をし、趣味を楽し",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/6d7b7d864e92adb99266eedb640bc337c7e12926?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "5ed7a1b55751",
+      "title": "ニンジン並のベータカロテン量を誇る…医師「体内の老廃物をスッキリ出して解毒に効果的な\"ネギ科の野菜\"」(プレジデントオンライン)",
+      "published": "2026-04-29T07:15:51+00:00",
+      "summary": "生きるパワーの源になる野菜は何か。医師の石原結實さんは「高い抗酸化作用があるβカロテンの量は野菜のなかでもニンジンと並びトップクラスで、血液の汚れを浄化する効果は野菜でナンバー1とも言われる精がつく野",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/b932a2731cea7838ee1b58a4aceb22c63ea774e2?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "83d61d9787b0",
+      "title": "スウェーデン在住20年の日本人医師が、一時帰国してイマドキ日本語に思うこと(Forbes JAPAN)",
+      "published": "2026-04-29T07:15:00+00:00",
+      "summary": "2007年、スウェーデンに移住した宮川絢子博士は、スウェーデン・カロリンスカ大学病院・泌尿器外科勤務の医師である。日本泌尿器科学会専門医取得後、スウェーデンで泌尿器外科専門医を取得している。 以下は",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/dbe64c80b392b80e5ff9b8d18e679d671ffd7ffb?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "70007e7abf00",
+      "title": "講談社が帚木さん小説の販売中止(共同通信)",
+      "published": "2026-04-29T07:01:50+00:00",
+      "summary": "講談社は29日、作家の帚木蓬生さんの長編小説「少弐」の販売を中止し、書店に店頭在庫の返品を依頼したと発表した。存命の歴史研究者を無断で登場させ、作中で「亡くなった」と書いたことに研究者の家族が抗議し",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/01c78a949f76465bddc3731d3710091294738a5d?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "3b8246fa78a2",
+      "title": "不自由＝不幸じゃない！ほぼ全介助でもパソコンを操作!?できないことより“できること”！ALS患者の強さに衝撃【作者に聞く】(ウォーカープラス)",
+      "published": "2026-04-29T07:00:00+00:00",
+      "summary": "幼少期から絵を描き続け、現在は看護師向けメディア「ナース専科」で実話ベースの漫画を連載しているアヤ(@aokitajimaru)さん。今回はその中から、「不自由は不幸ではない」を取り上げる。慢性期病院",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/52f7e729dd8c13b2a6124c1926f21acb7916d4ef?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "14cb047222a2",
+      "title": "生きたサバの身に「アニサキス97匹」　胃を噛みちぎられたような激痛が走る　酢でしめても、よく噛んでも死滅しない　食中毒予防法は「内蔵を取り除けば安心ではない」「目視で確認を」「加熱、冷凍して」(FNNプライムオンライン)",
+      "published": "2026-04-29T06:08:21+00:00",
+      "summary": "アニサキスが寄生した魚介類を生で食べることにより、激しい腹痛や嘔吐、アレルギー症状を引き起こす「アニサキス食中毒」。このほど、福井県立大学は生きているマサバを解剖し、調査した結果、腹部の筋肉にアニサキ",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/f1e0974a5d244661677668c7a38d638276da57a5?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "57dad0cf4f2a",
+      "title": "【タルタルをごはんに!?】ごはんのお供盛りだくさんな“焼き鮭と白胡麻の塩昆布タルタル”はお代わり必至！(dancyu)",
+      "published": "2026-04-29T06:00:00+00:00",
+      "summary": "タルタル愛あふれる西麻布「No Code」の米澤文雄シェフと、（勝手に）発足した“タルタルソース研究所”。最初に教えてもらったタルタルのアレンジは、まさかの白飯と合わせておいしい“ごはんタルタル”だっ",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/0400fd2f334c91b4102927722a34edf21e193560?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "33cade85d8fb",
+      "title": "ファンタジーの世界で「免疫」と「病魔」の負けられない戦いが始まる！弱すぎる勇者軍(＝免疫)は魔王軍(＝病魔)に勝てるか？【作者に訊く】(ウォーカープラス)",
+      "published": "2026-04-29T06:00:00+00:00",
+      "summary": "「マジメで知的な魔王軍」VS「激ヨワ勇者軍」という逆転設定のファンタジー漫画かと思いきや、何かが違う…!?この漫画は、ある青年の体内で繰り広げられる「マジメに活動する病魔(魔王軍)」VS「機能しない免",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/60141c750c2bc94008be076db8bc316fe26644c1?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "2eb5352ad741",
+      "title": "「健診は陰性だったのに…」出血も痔だと思った矢先、大腸がんステージ3が発覚。31歳女性が副作用よりつらかった「葛藤」 - ライブドアニュース",
+      "published": "2026-04-29T02:30:00+00:00",
+      "summary": "「健診は陰性だったのに…」出血も痔だと思った矢先、大腸がんステージ3が発覚。31歳女性が副作用よりつらかった「葛藤」&nbsp;&nbsp;ライブドアニュースGoogle ニュースですべての記事を見る",
+      "sources": [
+        {
+          "name": "ライブドアニュース",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53NlVVNlVfMjlMamwyYTUyWDRKMTFfV3dra2RXYnpSN1ZKSEZ5OFB1SnBlNnpTMUphdlFYQmJqczBqTjB4U21DYmxzRjRRUzZjd09PQzhrS2ZRVzkzV1Vz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f3f7bb9a80e2",
+      "title": "医師46人が選んだ「処方されたい・処方されてもいい薬」ランキング 安全性の高さが評価された「アセトアミノフェン」、かぜのひき始めに用いられる「葛根湯」などが上位に (1/3) - 女性セブンプラス",
+      "published": "2026-04-29T02:00:00+00:00",
+      "summary": "医師46人が選んだ「処方されたい・処方されてもいい薬」ランキング 安全性の高さが評価された「アセトアミノフェン」、かぜのひき始めに用いられる「葛根湯」などが上位に (1/3)&nbsp;&nbsp;女性セブンプラス",
+      "sources": [
+        {
+          "name": "女性セブンプラス",
+          "link": "https://news.google.com/rss/articles/CBMiOEFVX3lxTE1qTk53emZkUVZUWlFUVExPSEpZMElaMW9MSUZ0Sm5Nb19WRU1sOFJYb24wd0l0THU4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "53094eb17e79",
+      "title": "生命存在の可能性が高い45個の系外惑星、科学者が探すべき最新リストを特定(Forbes JAPAN)",
+      "published": "2026-04-29T02:00:00+00:00",
+      "summary": "天の川銀河（銀河系）内にあり、生命を育める可能性の高い岩石質の太陽系外惑星を45個特定したとする最新の研究結果が発表された。これまでに発見されている系外惑星6000個以上から、最も有望な候補を絞り込ん",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/8f228b14581d1e33259ff7248962fd26dc1c4774?source=rss"
         }
       ]
     },
@@ -174,26 +306,26 @@
       ]
     },
     {
-      "id": "4162c889e569",
-      "title": "アルツハイマー病のマウスの脳が若返り、認知機能改善に成功と理研など研究チーム発表 - 読売新聞",
-      "published": "2026-04-28T02:44:00+00:00",
-      "summary": "アルツハイマー病のマウスの脳が若返り、認知機能改善に成功と理研など研究チーム発表&nbsp;&nbsp;読売新聞アルツハイマー病のマウスの脳が若返り、認知機能改善に成功と理研など発表&nbsp;&nbsp;読売新聞アルツハイマー記憶障害 「ドーパミン」不足が要因 新たな治療法の開発に期待&nbsp;&nbsp;テレ朝NEWSドーパミンで記憶力改善 薬で補充 認知症治療へ&nbsp;&nbsp;沖縄タイムス社アルツハイマー病の記憶障害、ドーパミン不足が一因 東北大学が発見&nbsp;&nbsp;日本経済新聞",
-      "sources": [
-        {
-          "name": "読売新聞",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OdFJuYkM0UnpnT3dmQ1lrVjExcnBRRGFLdUtZZDFFamt3cGFNdWZFSmswOG9HRWRwZWExcEFzN3FwWGc4U01zdE00OUV3cGp0STF1bGVJZExCV0RrSC0ycWtVQmY?oc=5"
-        }
-      ]
-    },
-    {
       "id": "fbd45aa13cd1",
       "title": "研究で判明：毎朝同じ時間に起きる人とそうでない人では認知症リスクに驚くべき差があることが確認された - apf.inc",
       "published": "2026-04-28T02:31:31+00:00",
-      "summary": "研究で判明：毎朝同じ時間に起きる人とそうでない人では認知症リスクに驚くべき差があることが確認された&nbsp;&nbsp;apf.inc認知症のリスクを低下させるのに最適な睡眠時間が明らかに&nbsp;&nbsp;GIGAZINE",
+      "summary": "研究で判明：毎朝同じ時間に起きる人とそうでない人では認知症リスクに驚くべき差があることが確認された&nbsp;&nbsp;apf.inc【医師が教える】認知症になりにくい人の「睡眠の習慣」ベスト1&nbsp;&nbsp;ダイヤモンド・オンライン認知症のリスクを低下させるのに最適な睡眠時間が明らかに&nbsp;&nbsp;GIGAZINE",
       "sources": [
         {
           "name": "apf.inc",
           "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNNUxEVm05cHlmSnluVTlKNDkxaHN4UkZ2eXl4bV9sYUVxOVdnQWw1TE0yYU5lZUREUkNKU05NNEthNUhBbVp6OU9MRXBRLXJuZ3BtTE1TSUFoR0ZxSDVCWjM0c1Bqa2dZWElnbU9JdzdPTzdOdlpGalQyMURXeDliLXhBT2tITnlnMDlBMF9BSDVnY3ZWZXBSeVZleE1Kb0JrNExiV21EcVE3NjJ3bENINjhLUm94bjdfZVJnM2xGbWdWRG9JZ3ROZGc2RVYtdm16eUVvWloyQXZPN0J3dzFnSzZhUE1oNGFXLTVLemRtY2Y3MlJ4dUhrRU8wRnRNeXNzXzN2MkdySEpZa3VVSHlQbkxwM3R4VEpOU1NXdTJGcjRtcjFya3ZUT0R2bmZ1RWcxbXlROExCSngtQUU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "baeabc78f87d",
+      "title": "糖尿病患者の食事の誤りは腎臓に有害となる可能性があります - Laodong.vn",
+      "published": "2026-04-28T02:30:00+00:00",
+      "summary": "糖尿病患者の食事の誤りは腎臓に有害となる可能性があります&nbsp;&nbsp;Laodong.vn",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa05vWFVKaENfY1ZNSVVEbUZsU0JSQ0FiRzB2elgyTmZQOXBwUjF4NzZmUkNUUHI1Rkd6ZUFiTFFJbEE2Wi1XRXBfWEVuYWhKajM5R2dWSUNEN05jQWJsaU0waTNSeEdQd19sQXhjVm15VTBKUHdnUWRvNXY2aEd5WU9qWkRsUmFlYXJrZGxiTUVndlNmSjFuUllFWjJZQTR3MEczNkxSSGN2MW9GVTZZ?oc=5"
         }
       ]
     },
@@ -234,6 +366,30 @@
       ]
     },
     {
+      "id": "a0ab0900d146",
+      "title": "脳を老化させる“新たな一因”特定、減らすと記憶力が回復　2025年夏にNature系列誌で研究掲載 - ｄメニューニュース",
+      "published": "2026-04-27T23:00:40+00:00",
+      "summary": "脳を老化させる“新たな一因”特定、減らすと記憶力が回復 2025年夏にNature系列誌で研究掲載&nbsp;&nbsp;ｄメニューニュース脳を老化させる“新たな一因”特定、減らすと記憶力が回復 2025年夏にNature系列誌で研究掲載：ちょっと昔のInnovative Tech&nbsp;&nbsp;ITmedia",
+      "sources": [
+        {
+          "name": "ｄメニューニュース",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOF9OemdtS0EwZ25zLWVCRC04alZRZWR0OEp1eUQ1d1VUT19fZnFFalJ2cXN1NU95dE9DRkc2LWRWYkxmTG1SNXVEb2IxZ0ZCakp3SHg2a3FnOVlET3hobEZXZVJNb1EyMW4yaWowTDUtY052cktIeHFubmJOa1VoT3JTbkk4UTFESTJCWdIBkgFBVV95cUxPLWpwRzIwTGNzZDVkUGhZVlZYZnVReHdRV0NmYXZlMWw1VFhLcnZ2SUxOVExaZ2V6VldHVmQtX3pnWlFiMF9BMmpXVmRyRHFpb3ZfUldYd1Yxak4wdHkwN1hWTWpidHl4bXVHcmxUMndub0dsWEhiMml2WU9QQ2IzVGE2dUF6YThuLTR5ZmtCR1ljUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "2513044f9856",
+      "title": "UC Irvine、アルツハイマー病の記憶障害はドーパミン欠乏が原因と特定 ─ パーキンソン病薬レボドパで改善 - innovaTopia",
+      "published": "2026-04-27T22:50:15+00:00",
+      "summary": "UC Irvine、アルツハイマー病の記憶障害はドーパミン欠乏が原因と特定 ─ パーキンソン病薬レボドパで改善&nbsp;&nbsp;innovaTopiaアルツハイマー病のマウスの脳が若返り、認知機能改善に成功と理研など発表&nbsp;&nbsp;読売新聞アルツハイマー記憶障害 「ドーパミン」不足が要因 新たな治療法の開発に期待&nbsp;&nbsp;テレ朝NEWSドーパミンで記憶力改善 薬で補充 認知症治療へ&nbsp;&nbsp;沖縄タイムス社アルツハイマー病の記憶障害、ドーパミン不足が一因 東北大学が発見&nbsp;&nbsp;日本経済新聞",
+      "sources": [
+        {
+          "name": "innovaTopia",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NVjhtUlJOT0xOeWVBVGExeXUwbHJ5SzJOS0Z2b2pVZDFnQzcxbmxoNzNHOE9icmNHRTdNM25pTUtiWW5Nb1NJV2tQMDcyR1VRckYzNVpnNklxNlhfQy1TUVBacW1teFE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "1aec83264a53",
       "title": "脳を老化させる“新たな一因”特定、減らすと記憶力が回復　2025年夏にNature系列誌で研究掲載(ITmedia NEWS)",
       "published": "2026-04-27T22:45:12+00:00",
@@ -242,18 +398,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/d2d571f0d5693de604430c46fd1d946046f7c6f2?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "a0ab0900d146",
-      "title": "脳を老化させる“新たな一因”特定、減らすと記憶力が回復　2025年夏にNature系列誌で研究掲載 - ｄメニューニュース",
-      "published": "2026-04-27T22:45:00+00:00",
-      "summary": "脳を老化させる“新たな一因”特定、減らすと記憶力が回復 2025年夏にNature系列誌で研究掲載&nbsp;&nbsp;ｄメニューニュース脳を老化させる“新たな一因”特定、減らすと記憶力が回復 2025年夏にNature系列誌で研究掲載：ちょっと昔のInnovative Tech&nbsp;&nbsp;ITmedia",
-      "sources": [
-        {
-          "name": "ｄメニューニュース",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOF9OemdtS0EwZ25zLWVCRC04alZRZWR0OEp1eUQ1d1VUT19fZnFFalJ2cXN1NU95dE9DRkc2LWRWYkxmTG1SNXVEb2IxZ0ZCakp3SHg2a3FnOVlET3hobEZXZVJNb1EyMW4yaWowTDUtY052cktIeHFubmJOa1VoT3JTbkk4UTFESTJCWdIBkgFBVV95cUxPLWpwRzIwTGNzZDVkUGhZVlZYZnVReHdRV0NmYXZlMWw1VFhLcnZ2SUxOVExaZ2V6VldHVmQtX3pnWlFiMF9BMmpXVmRyRHFpb3ZfUldYd1Yxak4wdHkwN1hWTWpidHl4bXVHcmxUMndub0dsWEhiMml2WU9QQ2IzVGE2dUF6YThuLTR5ZmtCR1ljUQ?oc=5"
         }
       ]
     },
@@ -306,18 +450,6 @@
       ]
     },
     {
-      "id": "050002e47150",
-      "title": "大腸がんのリスクは3割下げられる！ その方法を指南 - 日経Gooday",
-      "published": "2026-04-27T15:00:00+00:00",
-      "summary": "大腸がんのリスクは3割下げられる！ その方法を指南&nbsp;&nbsp;日経GoodayGoogle ニュースですべての記事を見る",
-      "sources": [
-        {
-          "name": "日経Gooday",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80VWlIUGU0aWVMR3l1ZFFPNF9Eb2JEQ0V2a2xkOFNFSDhtaDg0VFM3bFVlcUVmdS13a3dDRWtrcVpGSGhhTl9FRnZjX0J0WHMwcU9iYmcwYWREOHlLUG8xa0FkcHdqei1KUDdSYmVWQW8?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c18f39af388f",
       "title": "高齢女性は利尿薬による低ナトリウム血症に注意 - 日経メディカル",
       "published": "2026-04-27T14:45:11+00:00",
@@ -326,18 +458,6 @@
         {
           "name": "日経メディカル",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWWotNFpCTlhoYWxZNTJJUDZBLXh3anRNVFdIOXlBbzdfMUQ0M3ptVkt0RVBVTGhjdWMxY18tcG5OSEk4dEFmWDVsSllDVnVlajdqZ2RoRUI0dUFyTUt0TFlNQzBjTGJnT3l6a1dtc1BHTGxieXZpUWdKc3R6Y1NZWQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4878ecafb902",
-      "title": "日本肥満学会と日本ベーリンガーインゲルハイム、肥満症の研究と対策を通じた国民の健康増進のための産学連携に関する協定を締結 - Boehringer Ingelheim",
-      "published": "2026-04-27T12:56:35+00:00",
-      "summary": "日本肥満学会と日本ベーリンガーインゲルハイム、肥満症の研究と対策を通じた国民の健康増進のための産学連携に関する協定を締結&nbsp;&nbsp;Boehringer IngelheimGoogle ニュースですべての記事を見る",
-      "sources": [
-        {
-          "name": "Boehringer Ingelheim",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBaRTBoUTNodDdhZkJqVnBrajV6cjBNUmM0VkhsR1ljLUJTcjVWVG1NaFU0NmVKU0EzZkNMTnBBbG9EN05OU1phWGl0UVotdWE5OUtJY29RUFZpc1JuRFJmSHRKZw?oc=5"
         }
       ]
     },
@@ -390,6 +510,30 @@
       ]
     },
     {
+      "id": "bd339ba976d5",
+      "title": "治療しないと糖尿病の危険な合併症 - Laodong.vn",
+      "published": "2026-04-27T08:00:00+00:00",
+      "summary": "治療しないと糖尿病の危険な合併症&nbsp;&nbsp;Laodong.vn",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORU9Pb0xrSjVVM2s1OEM4WlVMNFdjY09KOEJTRkN4SC05Y0ktU25UTlVoVnJTYXh1WlhCejFqWGllbmJzVlRkNXB5YXAtd2s5QWU2T0dXU2hpTzRGa0IyRGZlY1BselBPcV9seU5nazdVY2lYNUx6c3FNSU9BMzFPLURlSGhiRm4zZ3ljVzBQVUJsaTlQYzh4aU1mTlRNM0tvTU1J?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "599713362b90",
+      "title": "日本肥満学会と日本ベーリンガーインゲルハイム、肥満症の研究と対策を通じた国民の健康増進のための産学連携に関する協定を締結 - PR TIMES",
+      "published": "2026-04-27T07:00:01+00:00",
+      "summary": "日本肥満学会と日本ベーリンガーインゲルハイム、肥満症の研究と対策を通じた国民の健康増進のための産学連携に関する協定を締結&nbsp;&nbsp;PR TIMES「肥満外来」とは？ーー糖尿病の専門医が語る、体重管理を見直すための医療の選択肢（Medical Note）&nbsp;&nbsp;Yahoo!ニュース",
+      "sources": [
+        {
+          "name": "PR TIMES",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zNEVXbXY1dnl3OGZ5Sy1ZNnhBNUNLd3hjLVVYU1hHbXY5ODZqaDdsTEFuNVAyU0RzSmdrVlYzQVpjYkxoY2l1LWpya2c0YkxiNVNUNVMwbFJxdnlrU0V5MUFvY1Zqd2JOcEE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "a072eed22c87",
       "title": "デジタル関連と自然免疫の3博士に日本国際賞 授賞式と記念講演会(Science Portal)",
       "published": "2026-04-27T06:46:58+00:00",
@@ -398,42 +542,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/6f0071e38bf20819da87f2a778e295f011b892b6?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "8097d21e60c7",
-      "title": "ダクラク省の小児患者が髄膜炎菌性髄膜炎で死亡 - Laodong.vn",
-      "published": "2026-04-27T05:15:29+00:00",
-      "summary": "ダクラク省の小児患者が髄膜炎菌性髄膜炎で死亡&nbsp;&nbsp;Laodong.vn髄膜炎菌性髄膜炎 初期は風邪症状 重篤化も ワクチンで予防が重要【白鷗大・岡田教授が解説】&nbsp;&nbsp;下野新聞社髄膜炎菌性髄膜炎 初期は風邪症状 重篤化も ワクチンで予防が重要【白鷗大・岡田教授が解説】 人と社会と感染症（26） 人と社会と感染症（26）&nbsp;&nbsp;ｄメニューニュース",
-      "sources": [
-        {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTGUxaGZ1MXFnTC1OZUU2Nnc4UFRoelUxUE1obmJ6MGluUzMxcU0xWmwzTTVXaU1mTHRJWVVzcy1QSzdIZE5FUTR0OElkNzBPX21zVEJ4ZjVsQnhJZ0JGUHcwWFJYalJiV0Rqa0YxU0pQOE0yeXJlTEFCb2hpRHhqMjE5U25nQzNmS0NvMkRXbkpuRFhndUg4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1a520f3e8342",
-      "title": "短時間でも高強度の運動で慢性疾患リスクは低下する｜ニュース - 保健指導リソースガイド",
-      "published": "2026-04-27T02:18:36+00:00",
-      "summary": "短時間でも高強度の運動で慢性疾患リスクは低下する｜ニュース&nbsp;&nbsp;保健指導リソースガイド",
-      "sources": [
-        {
-          "name": "保健指導リソースガイド",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE14X3Nvb2IwYlUyYUdBUGYxX1lZaGlJVG43VXRVMWUtWi11V0V1NF9FNk1Hd2lZOVUwVkdyRFdEU2RjbGNhd3Z0SFlXekdiM1NKbnphcmhoMlhWZ1dqYTZwcWItOVVGNlJy?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7fee3ac81e62",
-      "title": "世界初・斜視が発生する日としない日が交互に現れる「周期性斜視」発症の分子機構を提唱 - 国立成育医療研究センター",
-      "published": "2026-04-27T01:03:18+00:00",
-      "summary": "世界初・斜視が発生する日としない日が交互に現れる「周期性斜視」発症の分子機構を提唱&nbsp;&nbsp;国立成育医療研究センター",
-      "sources": [
-        {
-          "name": "国立成育医療研究センター",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBaOW92RFlTSXd2c0pGT012NldEYV9aMGFjX1VVZUt5bTdmTnd4Y1ZQNmNZQXRpRXY3U2puX3RDTHIyVTJ1RjlNZ2IzQ3ZDd1JlM2V2Znp2OA?oc=5"
         }
       ]
     },
@@ -578,30 +686,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/3ee183fe620a7132dfcbdb6ffe14dbaece88f81c?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "af789c76f88b",
-      "title": "「インフルエンザ」は発症後「何日目がピーク」かご存知ですか？ピーク時の症状も解説！(メディカルドック)",
-      "published": "2026-04-23T10:01:25+00:00",
-      "summary": "毎年のように流行を繰り返すインフルエンザは、突然の高熱や強い倦怠感によって日常生活に大きな影響を及ぼします。そのため、「何日目に症状が強く出やすいのか」「学校や仕事にいつから行けるのか」など、発症時に",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/4a4b5bf07b9eed7a20b7e46ee9a87f7607e4936e?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "30f2b2ef10ea",
-      "title": "「海外なら薬があるのに…」“新薬が届かない”日本のがん医療が直面する危機(メディカルドック)",
-      "published": "2026-04-23T08:10:54+00:00",
-      "summary": "「もし自分や家族が、希少がんと宣告されたら？」――そう考えたとき、「国民皆保険の日本ならきっと何かしらの治療が受けられるはずだ」と期待するかもしれません。 しかし現実では、海外で有効性が証明され使わ",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/0f5a00672526ab7089aa9e3f141f7fe0694d9f5e?source=rss"
         }
       ]
     }
