@@ -1,15 +1,15 @@
 {
-  "generated": "2026-04-30T02:01:35.726592+00:00",
-  "count": 15,
+  "generated": "2026-04-30T08:04:16.423211+00:00",
+  "count": 12,
   "news": [
     {
-      "id": "bd9b8b04a3d1",
-      "title": "内田春菊、大腸がん治療で「人工肛門」に。“思っていたより大変じゃない”生活の実態とは(メディカルドック)",
-      "published": "2026-04-30T01:00:02+00:00",
+      "id": "46c17889db3b",
+      "title": "【2人に1人はなる病気】もしがんになったら？ AI活用から死生観まで、幅広い知識が詰まった入門書『 がんは運である?　自分事として向き合うための手控え帖』【書評】(ダ・ヴィンチWeb)",
+      "published": "2026-04-30T07:00:00+00:00",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/e75f5869b5d0e290a24d6b8c5bec9bad6cb8fec5?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/5ce334c2ae76f20fa034f59b6575e20b312b7d1e?source=rss"
         }
       ],
       "keywords": [
@@ -287,83 +287,304 @@
               "name": "レベチラセタム粒状錠５００ｍｇ「サワイ」"
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "id": "76d78b08eeea",
+      "title": "日本産科婦人科学会が5月、札幌で開催――“第5のがん治療”光免疫療法の紹介も(Medical Note)",
+      "published": "2026-04-30T02:54:40+00:00",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/6c0650597e1b1704e3cdb95fe607c606c3ac0ac8?source=rss"
+        }
+      ],
+      "keywords": [
         {
           "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸がん",
+          "name": "generic_cancer",
+          "keyword": "がん",
           "related_drugs": [
+            {
+              "slug": "acyclovir",
+              "name": "ゾビラックス軟膏５％（選）"
+            },
+            {
+              "slug": "theophylline",
+              "name": "ユニコン錠１００　１００ｍｇ（選）"
+            },
+            {
+              "slug": "risperidone",
+              "name": "リスパダール錠２ｍｇ（選）"
+            },
+            {
+              "slug": "valproic-acid",
+              "name": "セレニカＲ顆粒４０％（選）"
+            },
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "atorvastatin",
+              "name": "アトーゼット配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "cyclosporine",
+              "name": "ネオーラル５０ｍｇカプセル（選）"
+            },
+            {
+              "slug": "azithromycin",
+              "name": "ジスロマック細粒小児用１０％　１００ｍｇ（選）"
+            },
+            {
+              "slug": "valsartan",
+              "name": "ディオバンＯＤ錠１６０ｍｇ（選）"
+            },
+            {
+              "slug": "carbamazepine",
+              "name": "テグレトール錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "morphine",
+              "name": "モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」"
+            },
+            {
+              "slug": "pravastatin",
+              "name": "メバロチン錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "atenolol",
+              "name": "テノーミン錠５０　５０ｍｇ（選）"
+            },
+            {
+              "slug": "loperamide",
+              "name": "ロペミンカプセル１ｍｇ（選）"
+            },
+            {
+              "slug": "simvastatin",
+              "name": "リポバス錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "carvedilol",
+              "name": "アーチスト錠２０ｍｇ（選）"
+            },
             {
               "slug": "capecitabine",
               "name": "ゼローダ錠３００　３００ｍｇ（選）"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "fbd45aa13cd1",
-      "title": "研究で判明：毎朝同じ時間に起きる人とそうでない人では認知症リスクに驚くべき差があることが確認された",
-      "published": "2026-04-30T00:09:50+00:00",
-      "sources": [
-        {
-          "name": "apf.inc",
-          "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNNUxEVm05cHlmSnluVTlKNDkxaHN4UkZ2eXl4bV9sYUVxOVdnQWw1TE0yYU5lZUREUkNKU05NNEthNUhBbVp6OU9MRXBRLXJuZ3BtTE1TSUFoR0ZxSDVCWjM0c1Bqa2dZWElnbU9JdzdPTzdOdlpGalQyMURXeDliLXhBT2tITnlnMDlBMF9BSDVnY3ZWZXBSeVZleE1Kb0JrNExiV21EcVE3NjJ3bENINjhLUm94bjdfZVJnM2xGbWdWRG9JZ3ROZGc2RVYtdm16eUVvWloyQXZPN0J3dzFnSzZhUE1oNGFXLTVLemRtY2Y3MlJ4dUhrRU8wRnRNeXNzXzN2MkdySEpZa3VVSHlQbkxwM3R4VEpOU1NXdTJGcjRtcjFya3ZUT0R2bmZ1RWcxbXlROExCSngtQUU?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "認知症",
-          "related_drugs": [
+            },
             {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+              "slug": "diazepam",
+              "name": "ホリゾン錠５ｍｇ（選）"
+            },
+            {
+              "slug": "lorazepam",
+              "name": "ワイパックス錠１．０　１ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "spironolactone",
+              "name": "アルダクトンＡ錠５０ｍｇ（選）"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "ロプレソール錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "enalapril",
+              "name": "レニベース錠１０　１０ｍｇ（選）"
+            },
+            {
+              "slug": "lisinopril",
+              "name": "ロンゲス錠２０ｍｇ（選）"
+            },
+            {
+              "slug": "diltiazem",
+              "name": "ヘルベッサー錠６０　６０ｍｇ（選）"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "エックスフォージ配合ＯＤ錠（選）"
+            },
+            {
+              "slug": "clarithromycin",
+              "name": "クラリス錠５０小児用　５０ｍｇ（選）"
+            },
+            {
+              "slug": "furosemide",
+              "name": "ラシックス錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "lidocaine",
+              "name": "リドカイン（１８ｍｇ）３０．５ｍｍ×５０．０ｍｍ貼付剤"
+            },
+            {
+              "slug": "bisoprolol",
+              "name": "メインテート錠５ｍｇ（選）"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "ミカムロ配合錠ＢＰ（選）"
+            },
+            {
+              "slug": "rosuvastatin",
+              "name": "クレストールＯＤ錠５ｍｇ（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "clopidogrel",
+              "name": "プラビックス錠７５ｍｇ（選）"
+            },
+            {
+              "slug": "sertraline",
+              "name": "ジェイゾロフトＯＤ錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "timolol",
+              "name": "デュオトラバ配合点眼液（選）"
+            },
+            {
+              "slug": "diclofenac",
+              "name": "ボルタレンサポ５０ｍｇ（選）"
+            },
+            {
+              "slug": "budesonide",
+              "name": "シムビコートタービュヘイラー６０吸入（選）"
+            },
+            {
+              "slug": "moxifloxacin",
+              "name": "ベガモックス点眼液０．５％（選）"
+            },
+            {
+              "slug": "verapamil",
+              "name": "ワソラン錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "levofloxacin",
+              "name": "クラビット点眼液１．５％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "celecoxib",
+              "name": "セレコックス錠２００ｍｇ（選）"
+            },
+            {
+              "slug": "ezetimibe",
+              "name": "ゼチーア錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "topiramate",
+              "name": "トピナ錠２５ｍｇ（選）"
             },
             {
               "slug": "erlotinib",
               "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "c7aabb5b4b06",
-      "title": "認知症およびアルツハイマー病診断市場における競争ポジショニングの分析：技術規模とエコシステム戦略の観点から",
-      "published": "2026-04-30T00:00:00+00:00",
-      "sources": [
-        {
-          "name": "宮崎日日新聞",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBpcGtpX042NnNlaXlRc1NDXzNkdG1Ed21JSVpFT0VUZ0JYMGFUQmthbDNRVGRoM0NJWHZSUlNKUzlXbE9IU3dIOVktcTY0c0ZxQTBleXluWGxpSTkzYVAzMjJBYV96SDBSVWFuMWNObVdvRk9Q?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "認知症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
             },
             {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+              "slug": "montelukast",
+              "name": "シングレアＯＤ錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "lamotrigine",
+              "name": "ラミクタール錠２５ｍｇ（選）"
+            },
+            {
+              "slug": "hydrochlorothiazide",
+              "name": "プレミネント配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "losartan",
+              "name": "ニューロタン錠５０ｍｇ（選）"
+            },
+            {
+              "slug": "latanoprost",
+              "name": "ザラカム配合点眼液（選）"
+            },
+            {
+              "slug": "clotrimazole",
+              "name": "エンペシドクリーム１％（選）"
+            },
+            {
+              "slug": "amoxicillin",
+              "name": "ワイドシリン細粒２０％　２００ｍｇ"
+            },
+            {
+              "slug": "ampicillin",
+              "name": "ビクシリンＳ配合錠　（２５０ｍｇ）"
+            },
+            {
+              "slug": "lamivudine",
+              "name": "エプジコム配合錠（選）"
+            },
+            {
+              "slug": "warfarin",
+              "name": "ワルファリンＫ細粒０．２％「ＮＳ」"
+            },
+            {
+              "slug": "fenofibrate",
+              "name": "トライコア錠８０ｍｇ（選）"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            },
+            {
+              "slug": "prasugrel",
+              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
+            },
+            {
+              "slug": "tramadol",
+              "name": "トラマールＯＤ錠５０ｍｇ（選）"
+            },
+            {
+              "slug": "metronidazole",
+              "name": "メトロニダゾールゲル０．７５％「マルイシ」"
+            },
+            {
+              "slug": "lactulose",
+              "name": "ラグノスＮＦ経口ゼリー分包１２ｇ　５４．１６７％"
+            },
+            {
+              "slug": "levetiracetam",
+              "name": "レベチラセタム粒状錠５００ｍｇ「サワイ」"
             }
           ]
         }
       ]
     },
     {
-      "id": "26f862679fa2",
+      "id": "f5a2ce51f065",
       "title": "｢脳トレ｣｢早口言葉｣よりもうんと効果的…専門医が｢認知症予防｣に勧める｢本当に脳にいいお手軽趣味｣【2026年3月BEST】",
       "published": "2026-04-29T21:54:17+00:00",
       "sources": [
         {
-          "name": "news.livedoor.com",
+          "name": "ライブドアニュース",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1EQk5lakZfVHRPRXd6bHFzcXp2Vk5wbzhYdklNaE1qOXdaNC1XbGZIWHNLQWh6WGtLbWE2QnpKUzR1elNIMWNiWFRzNW9nOHRMaS02UEJoenYtYVAyUWQw?oc=5"
         }
       ],
@@ -396,6 +617,21 @@
         }
       ],
       "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "認知症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            }
+          ]
+        },
         {
           "type": "indication",
           "name": "myocardial infarction",
@@ -1783,62 +2019,6 @@
             {
               "slug": "methotrexate",
               "name": "リウマトレックスカプセル２ｍｇ（選）"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "3d22c11cc4ba",
-      "title": "「住む場所」が脳の老化を加速させる。環境と認知症の知られざる関係",
-      "published": "2026-04-28T05:00:00+00:00",
-      "sources": [
-        {
-          "name": "スマートニュース（SmartNews）",
-          "link": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxPWURTNUo1azBCSjRwcm5NUkpZSEJ0bDNlMVpYUW5oSDlfd3lwYlZCVmhGaHlzeU9zT09fRkVWRjMwcjF2NnNkSmFpbC1TbUlmVnduSXhhcmRrVHpPUG5tTDI2bjZYeUR5QlNPUEhYd1dVVGZmRmdNLVpjV3dDeldRNG1OcmdrcFZILVliRG1fVHEtUGRvQ3luTHlFR29LRHBSUHhhRXNrYjR6TzFFNE9CVzNPelI5SG92ZUFiaDVCVEtFeWF3LXFpY3dYMDdmOHh0VzZ4ak10MFBIWWtXME1ieG9hbUNnekhDblFkeFFVaUswdGx5YmM4R3Z1WDBZSDR6UW9yRXduWlI4dkRqaVF0NEUwQXNmc0VmY2ZzM1kwb0t4bWpHdTF3dENadjdEeUo2eFhsX2hCeDd5STU0Y0NLMEJDalR6aXUyMk9sd0lMS3NrRm5UUUppWEhqa2FJYWxjVkpTTnhsUHBxeWxsZGdLNUZmeVJRMkNydnZFckJ6U1lCYlFsRjJkSmk1c2Y4a3A3RGRlMWJ2VWdOWnhldnI5YVhxWks1Qk5ZXy1jVE5PNE5OSVhTbFROVk91UVBpMzRMNEg1VUpua2k3T2tXMkU0bG1yQWRvN2J5U1BFWXdvcEFudHhOSDJtZnJpaw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "認知症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4162c889e569",
-      "title": "アルツハイマー病のマウスの脳が若返り、認知機能改善に成功と理研など研究チーム発表",
-      "published": "2026-04-28T02:44:00+00:00",
-      "sources": [
-        {
-          "name": "読売新聞",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5OdFJuYkM0UnpnT3dmQ1lrVjExcnBRRGFLdUtZZDFFamt3cGFNdWZFSmswOG9HRWRwZWExcEFzN3FwWGc4U01zdE00OUV3cGp0STF1bGVJZExCV0RrSC0ycWtVQmY?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "認知症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
             }
           ]
         }
