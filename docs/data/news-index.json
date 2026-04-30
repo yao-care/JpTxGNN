@@ -1,15 +1,15 @@
 {
-  "generated": "2026-04-30T08:04:16.423211+00:00",
+  "generated": "2026-04-30T13:20:51.513147+00:00",
   "count": 12,
   "news": [
     {
-      "id": "46c17889db3b",
-      "title": "【2人に1人はなる病気】もしがんになったら？ AI活用から死生観まで、幅広い知識が詰まった入門書『 がんは運である?　自分事として向き合うための手控え帖』【書評】(ダ・ヴィンチWeb)",
-      "published": "2026-04-30T07:00:00+00:00",
+      "id": "2071e9ec9c89",
+      "title": "Mayo Clinic開発AI「REDMOD」、CT画像から「見えない」膵臓がんを平均475日前に発見",
+      "published": "2026-04-30T10:30:00+00:00",
       "sources": [
         {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/5ce334c2ae76f20fa034f59b6575e20b312b7d1e?source=rss"
+          "name": "innovaTopia",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zWHQ1TkFIOFdBdU9GdlFtMUlOUE5WblZyZVFWN0o1VXhsMWttMk1BWTlLQUZZSUJacmZXOVFBZ2JCZm1JZnh0S1R0ci1QaEowWnJIU1lsV0NTQVFFVUg0RTJXck5yajA?oc=5"
         }
       ],
       "keywords": [
@@ -285,6 +285,41 @@
             {
               "slug": "levetiracetam",
               "name": "レベチラセタム粒状錠５００ｍｇ「サワイ」"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "pancreatic cancer",
+          "keyword": "膵臓がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "da9255cfc898",
+      "title": "「インフルエンザ」は発症後「何日目がピーク」かご存知ですか？ピーク時の症状も解説！(メディカルドック)",
+      "published": "2026-04-30T10:02:45+00:00",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/30869c3b56a4990403e5e089719b01b1cda57ebb?source=rss"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "influenza",
+          "keyword": "インフルエンザ",
+          "related_drugs": [
+            {
+              "slug": "oseltamivir",
+              "name": "タミフルドライシロップ３％（選）"
             }
           ]
         }
@@ -601,140 +636,6 @@
             {
               "slug": "erlotinib",
               "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "2ade761cacdc",
-      "title": "｢超加工食品｣を控えてカロリー減の研究結果 果物や野菜の摂取増加で",
-      "published": "2026-04-29T20:00:00+00:00",
-      "sources": [
-        {
-          "name": "日本経済新聞",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15UzN6endhby1MeFZidG8zR0s0clNOWGdfekNhOTRyTXZNdloweXFjWVRyNURtZXYxYkRTaUl2LTlGSlU4R0E2b0h6eFQtaDE5WEEzYVBZQ0w0RHRRa0k4TnJKRWYtQjNjaktCRw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "認知症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "myocardial infarction",
-          "keyword": "心臓発作",
-          "related_drugs": [
-            {
-              "slug": "atenolol",
-              "name": "テノーミン錠５０　５０ｍｇ（選）"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "ロプレソール錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "lisinopril",
-              "name": "ロンゲス錠２０ｍｇ（選）"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "エックスフォージ配合ＯＤ錠（選）"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "ミカムロ配合錠ＢＰ（選）"
-            },
-            {
-              "slug": "warfarin",
-              "name": "ワルファリンＫ細粒０．２％「ＮＳ」"
-            },
-            {
-              "slug": "prasugrel",
-              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "脳卒中",
-          "related_drugs": [
-            {
-              "slug": "atorvastatin",
-              "name": "アトーゼット配合錠ＨＤ（選）"
-            },
-            {
-              "slug": "valsartan",
-              "name": "ディオバンＯＤ錠１６０ｍｇ（選）"
-            },
-            {
-              "slug": "pravastatin",
-              "name": "メバロチン錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "simvastatin",
-              "name": "リポバス錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "enalapril",
-              "name": "レニベース錠１０　１０ｍｇ（選）"
-            },
-            {
-              "slug": "lisinopril",
-              "name": "ロンゲス錠２０ｍｇ（選）"
-            },
-            {
-              "slug": "diltiazem",
-              "name": "ヘルベッサー錠６０　６０ｍｇ（選）"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "エックスフォージ配合ＯＤ錠（選）"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "ミカムロ配合錠ＢＰ（選）"
-            },
-            {
-              "slug": "rosuvastatin",
-              "name": "クレストールＯＤ錠５ｍｇ（選）"
-            },
-            {
-              "slug": "verapamil",
-              "name": "ワソラン錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "losartan",
-              "name": "ニューロタン錠５０ｍｇ（選）"
-            },
-            {
-              "slug": "warfarin",
-              "name": "ワルファリンＫ細粒０．２％「ＮＳ」"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "ザルティア錠５ｍｇ（選）"
-            },
-            {
-              "slug": "fenofibrate",
-              "name": "トライコア錠８０ｍｇ（選）"
-            },
-            {
-              "slug": "prasugrel",
-              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
             }
           ]
         }
@@ -1667,13 +1568,13 @@
       ]
     },
     {
-      "id": "b884548295b6",
-      "title": "医師46人が選んだ「処方されたい・処方されてもいい薬」ランキング　安全性の高さが評価された「アセトアミノフェン」、かぜのひき始めに用いられる「葛根湯」などが上位に",
+      "id": "f3f7bb9a80e2",
+      "title": "医師46人が選んだ「処方されたい・処方されてもいい薬」ランキング 安全性の高さが評価された「アセトアミノフェン」、かぜのひき始めに用いられる「葛根湯」などが上位に (1/3)",
       "published": "2026-04-29T02:00:00+00:00",
       "sources": [
         {
-          "name": "ｄメニューニュース",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBBaEJnZk42cUtXRFU3cHpKSG5jNGJObzZhcUlNVlFZdGhLeDVYRkVsLXpJbnhDMXpOZVVhallEOTJZOEQxbVExRzExNDZyMjRKSGJ2cDFlUnNtczJsN1RfRzJvbFdEaXB6ZGt30gFwQVVfeXFMTUgyZHM1M2JTbHZXT2R1eDlSdGVhcll4NWk2SHRRTkIzTm41NFcxWHBmdkNzSGtBVFd3T2F1dkswWkpFVVZKekwtay1NcWVNR1pFWkg3VUk2T3B3TXZtVm9GcVdNYTJhYk05RWVaM3dCSw?oc=5"
+          "name": "女性セブンプラス",
+          "link": "https://news.google.com/rss/articles/CBMiOEFVX3lxTE1qTk53emZkUVZUWlFUVExPSEpZMElaMW9MSUZ0Sm5Nb19WRU1sOFJYb24wd0l0THU4?oc=5"
         }
       ],
       "keywords": [
