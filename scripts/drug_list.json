@@ -1,12 +1,19 @@
 {
-  "total": 191,
-  "generated_at": "2026-04-30T14:03:06.530546",
+  "total": 582,
+  "generated_at": "2026-05-01T03:39:29.619561",
   "drugs": [
     {
       "name": "Acebutolol",
       "file": "acebutolol.md",
       "evidence_level": "L4",
       "indication_count": 1,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acetaminophen",
+      "file": "acetaminophen.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
       "predicted_indication": ""
     },
     {
@@ -21,6 +28,13 @@
       "file": "acitretin.md",
       "evidence_level": "L3",
       "indication_count": 1,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Acyclovir",
+      "file": "acyclovir.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
       "predicted_indication": ""
     },
     {
@@ -40,8 +54,15 @@
     {
       "name": "Allopurinol",
       "file": "allopurinol.md",
-      "evidence_level": "L3",
-      "indication_count": 1,
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Alprazolam",
+      "file": "alprazolam.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
       "predicted_indication": ""
     },
     {
@@ -80,10 +101,31 @@
       "predicted_indication": ""
     },
     {
+      "name": "Amlodipine",
+      "file": "amlodipine.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
       "name": "Amorolfine",
       "file": "amorolfine.md",
       "evidence_level": "L5",
       "indication_count": 1,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Amoxicillin",
+      "file": "amoxicillin.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Ampicillin",
+      "file": "ampicillin.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
       "predicted_indication": ""
     },
     {
@@ -94,6 +136,20 @@
       "predicted_indication": ""
     },
     {
+      "name": "Aripiprazole",
+      "file": "aripiprazole.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Ascorbic Acid",
+      "file": "ascorbic_acid.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
       "name": "Aspirin",
       "file": "aspirin.md",
       "evidence_level": "L5",
@@ -101,10 +157,24 @@
       "predicted_indication": ""
     },
     {
+      "name": "Atenolol",
+      "file": "atenolol.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
       "name": "Atezolizumab",
       "file": "atezolizumab.md",
       "evidence_level": "L2",
       "indication_count": 1,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Atorvastatin",
+      "file": "atorvastatin.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
       "predicted_indication": ""
     },
     {
@@ -119,6 +189,20 @@
       "file": "avelumab.md",
       "evidence_level": "L5",
       "indication_count": 1,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Azithromycin",
+      "file": "azithromycin.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Beclomethasone Dipropionate",
+      "file": "beclomethasone_dipropionate.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
       "predicted_indication": ""
     },
     {
@@ -157,10 +241,24 @@
       "predicted_indication": ""
     },
     {
+      "name": "Betamethasone",
+      "file": "betamethasone.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
       "name": "Bevacizumab",
       "file": "bevacizumab.md",
       "evidence_level": "L5",
       "indication_count": 1,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Bisoprolol",
+      "file": "bisoprolol.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
       "predicted_indication": ""
     },
     {
@@ -178,6 +276,13 @@
       "predicted_indication": ""
     },
     {
+      "name": "Budesonide",
+      "file": "budesonide.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
       "name": "Buprenorphine",
       "file": "buprenorphine.md",
       "evidence_level": "L4",
@@ -192,10 +297,38 @@
       "predicted_indication": ""
     },
     {
+      "name": "Calcium",
+      "file": "calcium.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Candesartan",
+      "file": "candesartan.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Capecitabine",
+      "file": "capecitabine.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
       "name": "Caplacizumab",
       "file": "caplacizumab.md",
       "evidence_level": "L5",
       "indication_count": 1,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Carbamazepine",
+      "file": "carbamazepine.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
       "predicted_indication": ""
     },
     {
@@ -220,6 +353,13 @@
       "predicted_indication": ""
     },
     {
+      "name": "Carvedilol",
+      "file": "carvedilol.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
       "name": "Caspofungin",
       "file": "caspofungin.md",
       "evidence_level": "L5",
@@ -231,6 +371,13 @@
       "file": "cefmetazole.md",
       "evidence_level": "L5",
       "indication_count": 1,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Celecoxib",
+      "file": "celecoxib.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
       "predicted_indication": ""
     },
     {
@@ -248,10 +395,24 @@
       "predicted_indication": ""
     },
     {
+      "name": "Cetirizine",
+      "file": "cetirizine.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
       "name": "Chloral Hydrate",
       "file": "chloral_hydrate.md",
       "evidence_level": "L5",
       "indication_count": 1,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Chlorpheniramine",
+      "file": "chlorpheniramine.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
       "predicted_indication": ""
     },
     {
@@ -269,6 +430,13 @@
       "predicted_indication": ""
     },
     {
+      "name": "Clarithromycin",
+      "file": "clarithromycin.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
       "name": "Clobetasone",
       "file": "clobetasone.md",
       "evidence_level": "L5",
@@ -283,10 +451,38 @@
       "predicted_indication": ""
     },
     {
+      "name": "Clopidogrel",
+      "file": "clopidogrel.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Clotrimazole",
+      "file": "clotrimazole.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
       "name": "Cobicistat",
       "file": "cobicistat.md",
       "evidence_level": "L5",
       "indication_count": 1,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Codeine",
+      "file": "codeine.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Cyanocobalamin",
+      "file": "cyanocobalamin.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
       "predicted_indication": ""
     },
     {
@@ -297,10 +493,24 @@
       "predicted_indication": ""
     },
     {
+      "name": "Cyclosporine",
+      "file": "cyclosporine.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
       "name": "Cytarabine",
       "file": "cytarabine.md",
       "evidence_level": "L3",
       "indication_count": 1,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Dapagliflozin",
+      "file": "dapagliflozin.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
       "predicted_indication": ""
     },
     {
@@ -322,6 +532,41 @@
       "file": "deoxycholic_acid.md",
       "evidence_level": "L5",
       "indication_count": 1,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Dexamethasone",
+      "file": "dexamethasone.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Dextromethorphan",
+      "file": "dextromethorphan.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Diazepam",
+      "file": "diazepam.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Diclofenac",
+      "file": "diclofenac.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Diltiazem",
+      "file": "diltiazem.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
       "predicted_indication": ""
     },
     {
@@ -360,6 +605,13 @@
       "predicted_indication": ""
     },
     {
+      "name": "Domperidone",
+      "file": "domperidone.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
       "name": "Dorzolamide",
       "file": "dorzolamide.md",
       "evidence_level": "L3",
@@ -371,6 +623,13 @@
       "file": "dronedarone.md",
       "evidence_level": "L2",
       "indication_count": 1,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Duloxetine",
+      "file": "duloxetine.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
       "predicted_indication": ""
     },
     {
@@ -388,10 +647,52 @@
       "predicted_indication": ""
     },
     {
+      "name": "Dutasteride",
+      "file": "dutasteride.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
       "name": "Emedastine",
       "file": "emedastine.md",
       "evidence_level": "L2",
       "indication_count": 1,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Enalapril",
+      "file": "enalapril.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Erlotinib",
+      "file": "erlotinib.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Escitalopram",
+      "file": "escitalopram.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Esomeprazole",
+      "file": "esomeprazole.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Eszopiclone",
+      "file": "eszopiclone.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
       "predicted_indication": ""
     },
     {
@@ -409,10 +710,24 @@
       "predicted_indication": ""
     },
     {
+      "name": "Ezetimibe",
+      "file": "ezetimibe.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
       "name": "Famotidine",
       "file": "famotidine.md",
-      "evidence_level": "L2",
-      "indication_count": 1,
+      "evidence_level": "L5",
+      "indication_count": 3,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Febuxostat",
+      "file": "febuxostat.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
       "predicted_indication": ""
     },
     {
@@ -420,6 +735,13 @@
       "file": "felodipine.md",
       "evidence_level": "L4",
       "indication_count": 1,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Fenofibrate",
+      "file": "fenofibrate.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
       "predicted_indication": ""
     },
     {
@@ -437,10 +759,24 @@
       "predicted_indication": ""
     },
     {
+      "name": "Fentanyl",
+      "file": "fentanyl.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
       "name": "Ferrous Gluconate",
       "file": "ferrous_gluconate.md",
       "evidence_level": "L5",
       "indication_count": 1,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Fexofenadine",
+      "file": "fexofenadine.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
       "predicted_indication": ""
     },
     {
@@ -451,6 +787,13 @@
       "predicted_indication": ""
     },
     {
+      "name": "Fluticasone",
+      "file": "fluticasone.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
       "name": "Fosfomycin",
       "file": "fosfomycin.md",
       "evidence_level": "L5",
@@ -458,10 +801,17 @@
       "predicted_indication": ""
     },
     {
+      "name": "Furosemide",
+      "file": "furosemide.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
       "name": "Gefitinib",
       "file": "gefitinib.md",
       "evidence_level": "L5",
-      "indication_count": 1,
+      "indication_count": 10,
       "predicted_indication": ""
     },
     {
@@ -472,10 +822,59 @@
       "predicted_indication": ""
     },
     {
+      "name": "Gentamicin",
+      "file": "gentamicin.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Gliclazide",
+      "file": "gliclazide.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Glimepiride",
+      "file": "glimepiride.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Glyburide",
+      "file": "glyburide.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Granisetron",
+      "file": "granisetron.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
       "name": "Griseofulvin",
       "file": "griseofulvin.md",
       "evidence_level": "L5",
       "indication_count": 1,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Haloperidol",
+      "file": "haloperidol.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Heparin",
+      "file": "heparin.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
       "predicted_indication": ""
     },
     {
@@ -490,6 +889,20 @@
       "file": "human_immunoglobulin_g.md",
       "evidence_level": "L3",
       "indication_count": 1,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Hydrochlorothiazide",
+      "file": "hydrochlorothiazide.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Hydrocortisone",
+      "file": "hydrocortisone.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
       "predicted_indication": ""
     },
     {
@@ -517,7 +930,7 @@
       "name": "Ibuprofen",
       "file": "ibuprofen.md",
       "evidence_level": "L5",
-      "indication_count": 1,
+      "indication_count": 10,
       "predicted_indication": ""
     },
     {
@@ -525,6 +938,13 @@
       "file": "icatibant.md",
       "evidence_level": "L1",
       "indication_count": 1,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Imatinib",
+      "file": "imatinib.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
       "predicted_indication": ""
     },
     {
@@ -584,6 +1004,13 @@
       "predicted_indication": ""
     },
     {
+      "name": "Iron",
+      "file": "iron.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
       "name": "Isoleucine",
       "file": "isoleucine.md",
       "evidence_level": "L5",
@@ -595,6 +1022,48 @@
       "file": "isosorbide_dinitrate.md",
       "evidence_level": "L2",
       "indication_count": 1,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Itraconazole",
+      "file": "itraconazole.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Lactulose",
+      "file": "lactulose.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Lamivudine",
+      "file": "lamivudine.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Lamotrigine",
+      "file": "lamotrigine.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Lansoprazole",
+      "file": "lansoprazole.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Latanoprost",
+      "file": "latanoprost.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
       "predicted_indication": ""
     },
     {
@@ -612,10 +1081,59 @@
       "predicted_indication": ""
     },
     {
+      "name": "Levetiracetam",
+      "file": "levetiracetam.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Levofloxacin",
+      "file": "levofloxacin.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
       "name": "Lidocaine",
       "file": "lidocaine.md",
       "evidence_level": "L5",
-      "indication_count": 1,
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Lisinopril",
+      "file": "lisinopril.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Lithium Citrate",
+      "file": "lithium_citrate.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Loperamide",
+      "file": "loperamide.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Loratadine",
+      "file": "loratadine.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Lorazepam",
+      "file": "lorazepam.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
       "predicted_indication": ""
     },
     {
@@ -626,10 +1144,31 @@
       "predicted_indication": ""
     },
     {
+      "name": "Losartan",
+      "file": "losartan.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
       "name": "Loteprednol Etabonate",
       "file": "loteprednol_etabonate.md",
       "evidence_level": "L5",
       "indication_count": 1,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Loxoprofen",
+      "file": "loxoprofen.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Magnesium",
+      "file": "magnesium.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
       "predicted_indication": ""
     },
     {
@@ -647,6 +1186,20 @@
       "predicted_indication": ""
     },
     {
+      "name": "Meloxicam",
+      "file": "meloxicam.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Metformin",
+      "file": "metformin.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
       "name": "Methionine",
       "file": "methionine.md",
       "evidence_level": "L5",
@@ -661,10 +1214,31 @@
       "predicted_indication": ""
     },
     {
+      "name": "Methotrexate",
+      "file": "methotrexate.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Metoclopramide",
+      "file": "metoclopramide.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
       "name": "Metoprolol",
       "file": "metoprolol.md",
-      "evidence_level": "L2",
-      "indication_count": 1,
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Metronidazole",
+      "file": "metronidazole.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
       "predicted_indication": ""
     },
     {
@@ -682,10 +1256,38 @@
       "predicted_indication": ""
     },
     {
+      "name": "Mirtazapine",
+      "file": "mirtazapine.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
       "name": "Moclobemide",
       "file": "moclobemide.md",
       "evidence_level": "L2",
       "indication_count": 1,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Montelukast",
+      "file": "montelukast.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Morphine",
+      "file": "morphine.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Moxifloxacin",
+      "file": "moxifloxacin.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
       "predicted_indication": ""
     },
     {
@@ -731,6 +1333,13 @@
       "predicted_indication": ""
     },
     {
+      "name": "Nifedipine",
+      "file": "nifedipine.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
       "name": "Nitrofurantoin",
       "file": "nitrofurantoin.md",
       "evidence_level": "L5",
@@ -745,10 +1354,38 @@
       "predicted_indication": ""
     },
     {
+      "name": "Olanzapine",
+      "file": "olanzapine.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
       "name": "Omalizumab",
       "file": "omalizumab.md",
       "evidence_level": "L2",
       "indication_count": 1,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Omeprazole",
+      "file": "omeprazole.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Ondansetron",
+      "file": "ondansetron.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Oseltamivir",
+      "file": "oseltamivir.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
       "predicted_indication": ""
     },
     {
@@ -769,7 +1406,14 @@
       "name": "Oxybutynin",
       "file": "oxybutynin.md",
       "evidence_level": "L5",
-      "indication_count": 1,
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Oxycodone",
+      "file": "oxycodone.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
       "predicted_indication": ""
     },
     {
@@ -784,6 +1428,13 @@
       "file": "paclitaxel.md",
       "evidence_level": "L1",
       "indication_count": 1,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Paroxetine",
+      "file": "paroxetine.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
       "predicted_indication": ""
     },
     {
@@ -812,6 +1463,13 @@
       "file": "pimozide.md",
       "evidence_level": "L5",
       "indication_count": 1,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Pioglitazone",
+      "file": "pioglitazone.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
       "predicted_indication": ""
     },
     {
@@ -885,17 +1543,24 @@
       "predicted_indication": ""
     },
     {
+      "name": "Prasugrel",
+      "file": "prasugrel.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
       "name": "Pravastatin",
       "file": "pravastatin.md",
-      "evidence_level": "L2",
-      "indication_count": 1,
+      "evidence_level": "L5",
+      "indication_count": 10,
       "predicted_indication": ""
     },
     {
       "name": "Prednisolone",
       "file": "prednisolone.md",
-      "evidence_level": "L3",
-      "indication_count": 1,
+      "evidence_level": "L5",
+      "indication_count": 10,
       "predicted_indication": ""
     },
     {
@@ -913,6 +1578,13 @@
       "predicted_indication": ""
     },
     {
+      "name": "Pregabalin",
+      "file": "pregabalin.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
       "name": "Probenecid",
       "file": "probenecid.md",
       "evidence_level": "L4",
@@ -920,10 +1592,45 @@
       "predicted_indication": ""
     },
     {
+      "name": "Promethazine",
+      "file": "promethazine.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
       "name": "Propantheline",
       "file": "propantheline.md",
       "evidence_level": "L3",
       "indication_count": 1,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Propranolol",
+      "file": "propranolol.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Pyridoxine",
+      "file": "pyridoxine.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Quetiapine",
+      "file": "quetiapine.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Rabeprazole",
+      "file": "rabeprazole.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
       "predicted_indication": ""
     },
     {
@@ -962,10 +1669,24 @@
       "predicted_indication": ""
     },
     {
+      "name": "Riboflavin",
+      "file": "riboflavin.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
       "name": "Riluzole",
       "file": "riluzole.md",
       "evidence_level": "L4",
       "indication_count": 1,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Risperidone",
+      "file": "risperidone.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
       "predicted_indication": ""
     },
     {
@@ -976,10 +1697,24 @@
       "predicted_indication": ""
     },
     {
+      "name": "Rivaroxaban",
+      "file": "rivaroxaban.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
       "name": "Ropinirole",
       "file": "ropinirole.md",
       "evidence_level": "L4",
       "indication_count": 1,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Rosuvastatin",
+      "file": "rosuvastatin.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
       "predicted_indication": ""
     },
     {
@@ -1018,6 +1753,27 @@
       "predicted_indication": ""
     },
     {
+      "name": "Sennosides",
+      "file": "sennosides.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Sertraline",
+      "file": "sertraline.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Sildenafil",
+      "file": "sildenafil.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
       "name": "Silicon Dioxide",
       "file": "silicon_dioxide.md",
       "evidence_level": "L4",
@@ -1025,10 +1781,24 @@
       "predicted_indication": ""
     },
     {
+      "name": "Silodosin",
+      "file": "silodosin.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
       "name": "Simoctocog Alfa",
       "file": "simoctocog_alfa.md",
       "evidence_level": "L5",
       "indication_count": 1,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Simvastatin",
+      "file": "simvastatin.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
       "predicted_indication": ""
     },
     {
@@ -1046,6 +1816,27 @@
       "predicted_indication": ""
     },
     {
+      "name": "Solifenacin",
+      "file": "solifenacin.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Spironolactone",
+      "file": "spironolactone.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Sucralfate",
+      "file": "sucralfate.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
       "name": "Sulfamerazine",
       "file": "sulfamerazine.md",
       "evidence_level": "L4",
@@ -1060,10 +1851,38 @@
       "predicted_indication": ""
     },
     {
+      "name": "Tacrolimus",
+      "file": "tacrolimus.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Tadalafil",
+      "file": "tadalafil.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Tamsulosin",
+      "file": "tamsulosin.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
       "name": "Tazarotene",
       "file": "tazarotene.md",
       "evidence_level": "L5",
       "indication_count": 1,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Telmisartan",
+      "file": "telmisartan.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
       "predicted_indication": ""
     },
     {
@@ -1078,6 +1897,13 @@
       "file": "tenofovir_alafenamide.md",
       "evidence_level": "L5",
       "indication_count": 1,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Terbinafine",
+      "file": "terbinafine.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
       "predicted_indication": ""
     },
     {
@@ -1112,14 +1938,14 @@
       "name": "Theophylline",
       "file": "theophylline.md",
       "evidence_level": "L5",
-      "indication_count": 1,
+      "indication_count": 10,
       "predicted_indication": ""
     },
     {
       "name": "Thiamine",
       "file": "thiamine.md",
       "evidence_level": "L5",
-      "indication_count": 1,
+      "indication_count": 10,
       "predicted_indication": ""
     },
     {
@@ -1137,10 +1963,24 @@
       "predicted_indication": ""
     },
     {
+      "name": "Ticlopidine",
+      "file": "ticlopidine.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
       "name": "Timepidium",
       "file": "timepidium.md",
       "evidence_level": "L5",
       "indication_count": 1,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Timolol",
+      "file": "timolol.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
       "predicted_indication": ""
     },
     {
@@ -1172,6 +2012,13 @@
       "predicted_indication": ""
     },
     {
+      "name": "Tocopherol",
+      "file": "tocopherol.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
       "name": "Tofacitinib",
       "file": "tofacitinib.md",
       "evidence_level": "L5",
@@ -1186,10 +2033,24 @@
       "predicted_indication": ""
     },
     {
+      "name": "Topiramate",
+      "file": "topiramate.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
       "name": "Trabectedin",
       "file": "trabectedin.md",
       "evidence_level": "L5",
       "indication_count": 1,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Tramadol",
+      "file": "tramadol.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
       "predicted_indication": ""
     },
     {
@@ -1221,6 +2082,13 @@
       "predicted_indication": ""
     },
     {
+      "name": "Triamcinolone",
+      "file": "triamcinolone.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
       "name": "Trifluoperazine",
       "file": "trifluoperazine.md",
       "evidence_level": "L3",
@@ -1246,6 +2114,27 @@
       "file": "urea.md",
       "evidence_level": "L5",
       "indication_count": 1,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Valproic Acid",
+      "file": "valproic_acid.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Valsartan",
+      "file": "valsartan.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Verapamil",
+      "file": "verapamil.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
       "predicted_indication": ""
     },
     {
@@ -1294,14 +2183,14 @@
       "name": "Voriconazole",
       "file": "voriconazole.md",
       "evidence_level": "L5",
-      "indication_count": 1,
+      "indication_count": 10,
       "predicted_indication": ""
     },
     {
       "name": "Warfarin",
       "file": "warfarin.md",
       "evidence_level": "L5",
-      "indication_count": 1,
+      "indication_count": 10,
       "predicted_indication": ""
     },
     {
@@ -1337,6 +2226,1854 @@
       "file": "zanubrutinib.md",
       "evidence_level": "L2",
       "indication_count": 1,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Zinc",
+      "file": "zinc.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Zolpidem",
+      "file": "zolpidem.md",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ケトチフェンカプセル１Ｍｇ",
+      "file": "ケトチフェンカプセル１ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ケトチフェンシロップ用０ １",
+      "file": "ケトチフェンシロップ用０_１.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ケトチフェンシロップ０ ０２",
+      "file": "ケトチフェンシロップ０_０２.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ケトチフェン点眼液０ ０５ ５Ｍｌ",
+      "file": "ケトチフェン点眼液０_０５_５ｍｌ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ケトチフェン点鼻液０ ０５",
+      "file": "ケトチフェン点鼻液０_０５.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ケトプロフェンテープ２０Ｍｇ",
+      "file": "ケトプロフェンテープ２０ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ケトプロフェンテープ４０Ｍｇ",
+      "file": "ケトプロフェンテープ４０ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ケトプロフェンパップ１２０Ｍｇ",
+      "file": "ケトプロフェンパップ１２０ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ケトプロフェンパップ３０Ｍｇ",
+      "file": "ケトプロフェンパップ３０ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ケトプロフェン坐剤５０Ｍｇ",
+      "file": "ケトプロフェン坐剤５０ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ケトプロフェン坐剤７５Ｍｇ",
+      "file": "ケトプロフェン坐剤７５ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ゲフィチニブ錠２５０Ｍｇ",
+      "file": "ゲフィチニブ錠２５０ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ゲンタマイシン硫酸塩点眼液０ ３",
+      "file": "ゲンタマイシン硫酸塩点眼液０_３.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "サキサグリプチン錠２ ５Ｍｇ",
+      "file": "サキサグリプチン錠２_５ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "サキサグリプチン錠５Ｍｇ",
+      "file": "サキサグリプチン錠５ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "サラゾスルファピリジン腸溶錠２５０Ｍｇ",
+      "file": "サラゾスルファピリジン腸溶錠２５０ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "サラゾスルファピリジン腸溶錠５００Ｍｇ",
+      "file": "サラゾスルファピリジン腸溶錠５００ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "サルポグレラート塩酸塩錠１００Ｍｇ",
+      "file": "サルポグレラート塩酸塩錠１００ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "サルポグレラート塩酸塩錠５０Ｍｇ",
+      "file": "サルポグレラート塩酸塩錠５０ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "シアノコバラミン点眼液０ ０２",
+      "file": "シアノコバラミン点眼液０_０２.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "シクロスポリンカプセル１０Ｍｇ Ｎｅ",
+      "file": "シクロスポリンカプセル１０ｍｇ_ｎｅ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "シクロスポリンカプセル２５Ｍｇ Ｎｅ",
+      "file": "シクロスポリンカプセル２５ｍｇ_ｎｅ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "シクロスポリンカプセル５０Ｍｇ Ｎｅ",
+      "file": "シクロスポリンカプセル５０ｍｇ_ｎｅ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "シクロスポリン細粒１７",
+      "file": "シクロスポリン細粒１７.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "シベンゾリンコハク酸塩錠１００Ｍｇ",
+      "file": "シベンゾリンコハク酸塩錠１００ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "シベンゾリンコハク酸塩錠５０Ｍｇ",
+      "file": "シベンゾリンコハク酸塩錠５０ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "シルデナフィル口腔内崩壊錠２０Ｍｇ Ｒｅ",
+      "file": "シルデナフィル口腔内崩壊錠２０ｍｇ_ｒｅ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "シルデナフィル錠２０Ｍｇ Ｒｅ",
+      "file": "シルデナフィル錠２０ｍｇ_ｒｅ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "シルニジピン錠１０Ｍｇ",
+      "file": "シルニジピン錠１０ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "シルニジピン錠２０Ｍｇ",
+      "file": "シルニジピン錠２０ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "シルニジピン錠５Ｍｇ",
+      "file": "シルニジピン錠５ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "シロスタゾール口腔内崩壊錠１００Ｍｇ",
+      "file": "シロスタゾール口腔内崩壊錠１００ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "シロスタゾール口腔内崩壊錠５０Ｍｇ",
+      "file": "シロスタゾール口腔内崩壊錠５０ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "シロスタゾール経口ゼリー１００Ｍｇ",
+      "file": "シロスタゾール経口ゼリー１００ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "シロスタゾール経口ゼリー５０Ｍｇ",
+      "file": "シロスタゾール経口ゼリー５０ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "シロスタゾール錠１００Ｍｇ",
+      "file": "シロスタゾール錠１００ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "シロスタゾール錠５０Ｍｇ",
+      "file": "シロスタゾール錠５０ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "シロドシン口腔内崩壊錠２Ｍｇ",
+      "file": "シロドシン口腔内崩壊錠２ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "シロドシン口腔内崩壊錠４Ｍｇ",
+      "file": "シロドシン口腔内崩壊錠４ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "シロドシン錠２Ｍｇ",
+      "file": "シロドシン錠２ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "シロドシン錠４Ｍｇ",
+      "file": "シロドシン錠４ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "シンバスタチン錠１０Ｍｇ",
+      "file": "シンバスタチン錠１０ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "シンバスタチン錠２０Ｍｇ",
+      "file": "シンバスタチン錠２０ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "シンバスタチン錠５Ｍｇ",
+      "file": "シンバスタチン錠５ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ジアゼパム錠１０Ｍｇ",
+      "file": "ジアゼパム錠１０ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ジアゼパム錠２Ｍｇ",
+      "file": "ジアゼパム錠２ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ジアゼパム錠５Ｍｇ",
+      "file": "ジアゼパム錠５ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ジクロフェナクＮａクリーム１",
+      "file": "ジクロフェナクｎａクリーム１.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ジクロフェナクＮａゲル１",
+      "file": "ジクロフェナクｎａゲル１.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ジクロフェナクＮａテープ１５Ｍｇ",
+      "file": "ジクロフェナクｎａテープ１５ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ジクロフェナクＮａパップ７０Ｍｇ",
+      "file": "ジクロフェナクｎａパップ７０ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ジクロフェナクＮａ坐剤１２ ５Ｍｇ",
+      "file": "ジクロフェナクｎａ坐剤１２_５ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ジクロフェナクＮａ坐剤２５Ｍｇ",
+      "file": "ジクロフェナクｎａ坐剤２５ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ジクロフェナクＮａ坐剤５０Ｍｇ",
+      "file": "ジクロフェナクｎａ坐剤５０ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ジクロフェナクＮａ外用液１",
+      "file": "ジクロフェナクｎａ外用液１.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ジクロフェナクＮａ点眼液０ １",
+      "file": "ジクロフェナクｎａ点眼液０_１.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ジクロフェナクＮａ錠２５Ｍｇ",
+      "file": "ジクロフェナクｎａ錠２５ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ジソピラミドリン酸塩徐放錠１５０Ｍｇ",
+      "file": "ジソピラミドリン酸塩徐放錠１５０ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ジヒドロコデイン Ｄｌ メチルエフェドリン等配合シロップ",
+      "file": "ジヒドロコデイン_ｄｌ_メチルエフェドリン等配合シロップ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ジフェニドール塩酸塩錠２５Ｍｇ",
+      "file": "ジフェニドール塩酸塩錠２５ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ジフルコルトロン リドカイン配合坐剤",
+      "file": "ジフルコルトロン_リドカイン配合坐剤.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ジフルコルトロン リドカイン配合軟膏",
+      "file": "ジフルコルトロン_リドカイン配合軟膏.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ジルチアゼム塩酸塩徐放カプセル１００Ｍｇ",
+      "file": "ジルチアゼム塩酸塩徐放カプセル１００ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ジルチアゼム塩酸塩徐放カプセル２００Ｍｇ",
+      "file": "ジルチアゼム塩酸塩徐放カプセル２００ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ジルチアゼム塩酸塩錠３０Ｍｇ",
+      "file": "ジルチアゼム塩酸塩錠３０ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ジルチアゼム塩酸塩錠６０Ｍｇ",
+      "file": "ジルチアゼム塩酸塩錠６０ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "スクラルファート細粒９０",
+      "file": "スクラルファート細粒９０.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "スクラルファート経口液１０",
+      "file": "スクラルファート経口液１０.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "スニチニブカプセル１２ ５Ｍｇ",
+      "file": "スニチニブカプセル１２_５ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "スニチニブ錠１２ ５Ｍｇ",
+      "file": "スニチニブ錠１２_５ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "スピロノラクトン錠２５Ｍｇ",
+      "file": "スピロノラクトン錠２５ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "スピロノラクトン錠５０Ｍｇ",
+      "file": "スピロノラクトン錠５０ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "セチリジン塩酸塩シロップ用１ ２５",
+      "file": "セチリジン塩酸塩シロップ用１_２５.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "セチリジン塩酸塩口腔内崩壊錠１０Ｍｇ",
+      "file": "セチリジン塩酸塩口腔内崩壊錠１０ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ロサルタンＫ錠５０Ｍｇ",
+      "file": "ロサルタンｋ錠５０ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ロスバスタチン口腔内崩壊錠５Ｍｇ",
+      "file": "ロスバスタチン口腔内崩壊錠５ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ロスバスタチン錠１０Ｍｇ",
+      "file": "ロスバスタチン錠１０ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ロスバスタチン錠２ ５Ｍｇ",
+      "file": "ロスバスタチン錠２_５ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ロスバスタチン錠５Ｍｇ",
+      "file": "ロスバスタチン錠５ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ロピニロール口腔内崩壊錠０ ２５Ｍｇ",
+      "file": "ロピニロール口腔内崩壊錠０_２５ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ロピニロール口腔内崩壊錠１Ｍｇ",
+      "file": "ロピニロール口腔内崩壊錠１ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ロピニロール口腔内崩壊錠２Ｍｇ",
+      "file": "ロピニロール口腔内崩壊錠２ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ロピニロール徐放錠２Ｍｇ",
+      "file": "ロピニロール徐放錠２ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ロピニロール徐放錠８Ｍｇ",
+      "file": "ロピニロール徐放錠８ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ロピニロール錠０ ２５Ｍｇ",
+      "file": "ロピニロール錠０_２５ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ロピニロール錠１Ｍｇ",
+      "file": "ロピニロール錠１ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ロピニロール錠２Ｍｇ",
+      "file": "ロピニロール錠２ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ロペラミド塩酸塩カプセル１Ｍｇ",
+      "file": "ロペラミド塩酸塩カプセル１ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ロペラミド塩酸塩錠１Ｍｇ",
+      "file": "ロペラミド塩酸塩錠１ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ロラゼパム錠０ ５Ｍｇ",
+      "file": "ロラゼパム錠０_５ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ロラゼパム錠１Ｍｇ",
+      "file": "ロラゼパム錠１ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ロラタジンシロップ用１",
+      "file": "ロラタジンシロップ用１.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ロラタジン口腔内崩壊錠１０Ｍｇ",
+      "file": "ロラタジン口腔内崩壊錠１０ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ロラタジン錠１０Ｍｇ",
+      "file": "ロラタジン錠１０ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ワルファリンＫ細粒０ ２",
+      "file": "ワルファリンｋ細粒０_２.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "亜鉛華単軟膏１０",
+      "file": "亜鉛華単軟膏１０.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "亜鉛華軟膏貼付剤２０",
+      "file": "亜鉛華軟膏貼付剤２０.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "副腎エキス ヘパリン類似物質 サリチル酸配合クリーム",
+      "file": "副腎エキス_ヘパリン類似物質_サリチル酸配合クリーム.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "大腸菌死菌 ヒドロコルチゾン配合軟膏",
+      "file": "大腸菌死菌_ヒドロコルチゾン配合軟膏.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "水酸化アルミニウムゲル 水酸化マグネシウム配合シロップ用",
+      "file": "水酸化アルミニウムゲル_水酸化マグネシウム配合シロップ用.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "水酸化カルシウム外用液",
+      "file": "水酸化カルシウム外用液.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "沈降炭酸カルシウム口腔内崩壊錠２５０Ｍｇ",
+      "file": "沈降炭酸カルシウム口腔内崩壊錠２５０ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "沈降炭酸カルシウム口腔内崩壊錠５００Ｍｇ",
+      "file": "沈降炭酸カルシウム口腔内崩壊錠５００ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "沈降炭酸カルシウム錠２５０Ｍｇ",
+      "file": "沈降炭酸カルシウム錠２５０ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "沈降炭酸カルシウム錠５００Ｍｇ",
+      "file": "沈降炭酸カルシウム錠５００ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "溶性ピロリン酸第二鉄シロップ５",
+      "file": "溶性ピロリン酸第二鉄シロップ５.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "炭酸リチウム錠２００Ｍｇ",
+      "file": "炭酸リチウム錠２００ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "酢酸亜鉛錠２５Ｍｇ",
+      "file": "酢酸亜鉛錠２５ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "酢酸亜鉛錠５０Ｍｇ",
+      "file": "酢酸亜鉛錠５０ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "酢酸亜鉛顆粒５",
+      "file": "酢酸亜鉛顆粒５.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "酸化マグネシウム細粒８３",
+      "file": "酸化マグネシウム細粒８３.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "酸化マグネシウム錠２００Ｍｇ",
+      "file": "酸化マグネシウム錠２００ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "酸化マグネシウム錠２５０Ｍｇ",
+      "file": "酸化マグネシウム錠２５０ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "酸化マグネシウム錠３００Ｍｇ",
+      "file": "酸化マグネシウム錠３００ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "酸化マグネシウム錠３３０Ｍｇ",
+      "file": "酸化マグネシウム錠３３０ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "酸化マグネシウム錠４００Ｍｇ",
+      "file": "酸化マグネシウム錠４００ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "酸化マグネシウム錠５００Ｍｇ",
+      "file": "酸化マグネシウム錠５００ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Ｄ クロルフェニラミンマレイン酸塩シロップ０ ０４",
+      "file": "ｄ_クロルフェニラミンマレイン酸塩シロップ０_０４.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "Ｄ クロルフェニラミンマレイン酸塩錠２Ｍｇ",
+      "file": "ｄ_クロルフェニラミンマレイン酸塩錠２ｍｇ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ｱｰﾃﾝ",
+      "file": "ｱｰﾃﾝ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ｱｰﾋﾞﾀｯｸｽ",
+      "file": "ｱｰﾋﾞﾀｯｸｽ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ｱｲｸﾙｼｸﾞ",
+      "file": "ｱｲｸﾙｼｸﾞ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ｱｷﾈﾄﾝ",
+      "file": "ｱｷﾈﾄﾝ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ｱｸｱﾁﾑﾅﾝｺｳ1",
+      "file": "ｱｸｱﾁﾑﾅﾝｺｳ1.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ｱｸﾃﾑﾗﾃﾝﾃｷ",
+      "file": "ｱｸﾃﾑﾗﾃﾝﾃｷ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ｱｸﾃﾑﾗﾋｶﾁｭｳ162Mgｵｰﾄｲﾝ",
+      "file": "ｱｸﾃﾑﾗﾋｶﾁｭｳ162mgｵｰﾄｲﾝ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ｱｸﾃﾑﾗﾋｶﾁｭｳ162Mgｼﾘﾝｼﾞ",
+      "file": "ｱｸﾃﾑﾗﾋｶﾁｭｳ162mgｼﾘﾝｼﾞ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ｱｻﾞﾁｵﾌﾟﾘﾝ",
+      "file": "ｱｻﾞﾁｵﾌﾟﾘﾝ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ｱｻﾞﾆﾝ",
+      "file": "ｱｻﾞﾆﾝ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ｱｼｸﾛﾋﾞﾙ",
+      "file": "ｱｼｸﾛﾋﾞﾙ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ｱｼｸﾛﾋﾞﾙ250Mg",
+      "file": "ｱｼｸﾛﾋﾞﾙ250mg.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ｱｼｸﾛﾋﾞﾙ3 ｶﾞﾝﾅﾝｺｳ",
+      "file": "ｱｼｸﾛﾋﾞﾙ3_ｶﾞﾝﾅﾝｺｳ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ｱｼｸﾛﾋﾞﾙｶﾞﾝﾅﾝｺｳ3 ﾆｯﾃﾝ",
+      "file": "ｱｼｸﾛﾋﾞﾙｶﾞﾝﾅﾝｺｳ3_ﾆｯﾃﾝ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ｱｼｸﾛﾋﾞﾙｶﾞﾝﾅﾝｺｳ3 ﾆｯﾄｰ",
+      "file": "ｱｼｸﾛﾋﾞﾙｶﾞﾝﾅﾝｺｳ3_ﾆｯﾄｰ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ｱｼｸﾛﾋﾞﾙﾃﾝﾃｷ",
+      "file": "ｱｼｸﾛﾋﾞﾙﾃﾝﾃｷ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ｱｼﾞﾚｸﾄ",
+      "file": "ｱｼﾞﾚｸﾄ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ｱｽﾋﾟﾘﾝｹﾝｴｰ",
+      "file": "ｱｽﾋﾟﾘﾝｹﾝｴｰ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ｱｽﾋﾟﾘﾝｹﾞﾝﾏﾂﾏﾙｲｼ",
+      "file": "ｱｽﾋﾟﾘﾝｹﾞﾝﾏﾂﾏﾙｲｼ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ｱｽﾋﾟﾘﾝﾎｴｲ",
+      "file": "ｱｽﾋﾟﾘﾝﾎｴｲ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ｱｽﾋﾟﾘﾝﾔﾏｾﾞﾝ",
+      "file": "ｱｽﾋﾟﾘﾝﾔﾏｾﾞﾝ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ｱｽﾋﾟﾘﾝﾖｼﾀﾞ",
+      "file": "ｱｽﾋﾟﾘﾝﾖｼﾀﾞ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ｱｾﾄｱﾐﾉﾌｪﾝ",
+      "file": "ｱｾﾄｱﾐﾉﾌｪﾝ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ｱｾﾄｱﾐﾉﾌｪﾝ20 ｻｲﾘｭｳ",
+      "file": "ｱｾﾄｱﾐﾉﾌｪﾝ20_ｻｲﾘｭｳ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ｱｾﾄｱﾐﾉﾌｪﾝJgｹﾞﾝﾏﾂ",
+      "file": "ｱｾﾄｱﾐﾉﾌｪﾝjgｹﾞﾝﾏﾂ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ｱｾﾄｱﾐﾉﾌｪﾝVtrsｹﾞﾝﾏﾂ",
+      "file": "ｱｾﾄｱﾐﾉﾌｪﾝvtrsｹﾞﾝﾏﾂ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ｱｾﾄｱﾐﾉﾌｪﾝｻｲﾘｭｳ20 Jg",
+      "file": "ｱｾﾄｱﾐﾉﾌｪﾝｻｲﾘｭｳ20_jg.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ｱｾﾄｱﾐﾉﾌｪﾝｻｲﾘｭｳ20 ﾄｰﾜ",
+      "file": "ｱｾﾄｱﾐﾉﾌｪﾝｻｲﾘｭｳ20_ﾄｰﾜ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ｱｾﾄｱﾐﾉﾌｪﾝｻｲﾘｭｳ20 ﾏﾙｲ",
+      "file": "ｱｾﾄｱﾐﾉﾌｪﾝｻｲﾘｭｳ20_ﾏﾙｲ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ｱｾﾄｱﾐﾉﾌｪﾝﾊﾁ",
+      "file": "ｱｾﾄｱﾐﾉﾌｪﾝﾊﾁ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ｱｾﾄｱﾐﾉﾌｪﾝﾖｼﾀﾞ",
+      "file": "ｱｾﾄｱﾐﾉﾌｪﾝﾖｼﾀﾞ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ｱﾀﾞﾘﾑﾏﾌﾞBsﾋｶﾁｭｳ20Mgｼ",
+      "file": "ｱﾀﾞﾘﾑﾏﾌﾞbsﾋｶﾁｭｳ20mgｼ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ｱﾀﾞﾘﾑﾏﾌﾞBsﾋｶﾁｭｳ40Mgｼ",
+      "file": "ｱﾀﾞﾘﾑﾏﾌﾞbsﾋｶﾁｭｳ40mgｼ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ｱﾀﾞﾘﾑﾏﾌﾞBsﾋｶﾁｭｳ40Mgﾍ",
+      "file": "ｱﾀﾞﾘﾑﾏﾌﾞbsﾋｶﾁｭｳ40mgﾍ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ｱﾀﾞﾘﾑﾏﾌﾞBsﾋｶﾁｭｳ80Mgｼ",
+      "file": "ｱﾀﾞﾘﾑﾏﾌﾞbsﾋｶﾁｭｳ80mgｼ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ｱﾀﾞﾘﾑﾏﾌﾞBsﾋｶﾁｭｳ80Mgﾍ",
+      "file": "ｱﾀﾞﾘﾑﾏﾌﾞbsﾋｶﾁｭｳ80mgﾍ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ｱﾄﾛﾋﾟﾝﾁｭｳ0 05 ｼﾘﾝｼﾞﾃ",
+      "file": "ｱﾄﾛﾋﾟﾝﾁｭｳ0_05_ｼﾘﾝｼﾞﾃ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ｱﾄﾛﾋﾟﾝﾘｭｳ",
+      "file": "ｱﾄﾛﾋﾟﾝﾘｭｳ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾄﾞﾝﾍﾟﾘﾄﾞﾝ",
+      "file": "ﾄﾞﾝﾍﾟﾘﾄﾞﾝ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾄﾞﾝﾍﾟﾘﾄﾞﾝ5Mg",
+      "file": "ﾄﾞﾝﾍﾟﾘﾄﾞﾝ5mg.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾅｳｾﾞﾘﾝ",
+      "file": "ﾅｳｾﾞﾘﾝ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾅｳｾﾞﾘﾝOd",
+      "file": "ﾅｳｾﾞﾘﾝod.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾅｳｾﾞﾘﾝｻﾞ",
+      "file": "ﾅｳｾﾞﾘﾝｻﾞ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾅﾃｸﾞﾘﾆﾄﾞ",
+      "file": "ﾅﾃｸﾞﾘﾆﾄﾞ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾅﾃｸﾞﾘﾆﾄﾞ30Mg",
+      "file": "ﾅﾃｸﾞﾘﾆﾄﾞ30mg.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾆｭｰﾌﾟﾛﾊﾟｯﾁ13 5Mg",
+      "file": "ﾆｭｰﾌﾟﾛﾊﾟｯﾁ13_5mg.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾆｭｰﾌﾟﾛﾊﾟｯﾁ18Mg",
+      "file": "ﾆｭｰﾌﾟﾛﾊﾟｯﾁ18mg.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾆｭｰﾌﾟﾛﾊﾟｯﾁ2 25Mg",
+      "file": "ﾆｭｰﾌﾟﾛﾊﾟｯﾁ2_25mg.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾆｭｰﾌﾟﾛﾊﾟｯﾁ4 5Mg",
+      "file": "ﾆｭｰﾌﾟﾛﾊﾟｯﾁ4_5mg.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾆｭｰﾌﾟﾛﾊﾟｯﾁ9Mg",
+      "file": "ﾆｭｰﾌﾟﾛﾊﾟｯﾁ9mg.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾆｯﾃﾝｱﾄﾛﾋﾟﾝ",
+      "file": "ﾆｯﾃﾝｱﾄﾛﾋﾟﾝ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾆｯﾊﾟｽｶﾙｼｳﾑｶﾘｭｳ100",
+      "file": "ﾆｯﾊﾟｽｶﾙｼｳﾑｶﾘｭｳ100.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾆｶﾙｼﾞﾋﾟﾝｴﾝ",
+      "file": "ﾆｶﾙｼﾞﾋﾟﾝｴﾝ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾆﾝﾗｰﾛ",
+      "file": "ﾆﾝﾗｰﾛ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾈｵｰﾗﾙﾅｲﾖｳｴｷ10",
+      "file": "ﾈｵｰﾗﾙﾅｲﾖｳｴｷ10.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾈｵｼﾈｼﾞﾝｺｰﾜ5",
+      "file": "ﾈｵｼﾈｼﾞﾝｺｰﾜ5.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾈｵｼﾈｼﾞﾝｺｰﾜﾁｭｳ1Mg",
+      "file": "ﾈｵｼﾈｼﾞﾝｺｰﾜﾁｭｳ1mg.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾈｵｼﾈｼﾞﾝｺｰﾜﾁｭｳ5Mg",
+      "file": "ﾈｵｼﾈｼﾞﾝｺｰﾜﾁｭｳ5mg.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾈｵﾒﾄﾞﾛｰﾙEeﾅﾝｺｳ",
+      "file": "ﾈｵﾒﾄﾞﾛｰﾙeeﾅﾝｺｳ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾈｵﾚｽﾀﾐﾝｺｰﾜ",
+      "file": "ﾈｵﾚｽﾀﾐﾝｺｰﾜ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾈｷｼｳﾑｹﾝﾀﾞｸﾖｳｶﾘｭｳﾌﾞﾝﾎ",
+      "file": "ﾈｷｼｳﾑｹﾝﾀﾞｸﾖｳｶﾘｭｳﾌﾞﾝﾎ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾈｸｻﾊﾞｰﾙ",
+      "file": "ﾈｸｻﾊﾞｰﾙ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾈｼｰﾅ",
+      "file": "ﾈｼｰﾅ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾉｳﾘｱｽﾄ",
+      "file": "ﾉｳﾘｱｽﾄ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾊｰｾﾌﾟﾁﾝ",
+      "file": "ﾊｰｾﾌﾟﾁﾝ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾊﾛﾍﾟﾘﾄﾞｰﾙﾁｭｳ5Mgﾖｼﾄﾐ",
+      "file": "ﾊﾛﾍﾟﾘﾄﾞｰﾙﾁｭｳ5mgﾖｼﾄﾐ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾊﾞｯﾌﾟﾌｫｰｻｲﾘｭｳ2",
+      "file": "ﾊﾞｯﾌﾟﾌｫｰｻｲﾘｭｳ2.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾊﾞｲｱｸﾞﾗ",
+      "file": "ﾊﾞｲｱｸﾞﾗ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾊﾞｲｱｸﾞﾗOdﾌｨﾙﾑ25Mg",
+      "file": "ﾊﾞｲｱｸﾞﾗodﾌｨﾙﾑ25mg.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾊﾞｲｱｸﾞﾗOdﾌｨﾙﾑ50Mg",
+      "file": "ﾊﾞｲｱｸﾞﾗodﾌｨﾙﾑ50mg.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾊﾞｸﾛﾌｪﾝ",
+      "file": "ﾊﾞｸﾛﾌｪﾝ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾊﾞﾚｵﾝ",
+      "file": "ﾊﾞﾚｵﾝ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾊﾞﾝｺﾏｲｼﾝｴﾝ",
+      "file": "ﾊﾞﾝｺﾏｲｼﾝｴﾝ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾊﾞﾝｺﾏｲｼﾝｶﾞﾝﾅﾝｺｳ1",
+      "file": "ﾊﾞﾝｺﾏｲｼﾝｶﾞﾝﾅﾝｺｳ1.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾊﾞﾝｺﾏｲｼﾝﾃﾝﾃｷ",
+      "file": "ﾊﾞﾝｺﾏｲｼﾝﾃﾝﾃｷ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾊﾟｰｼﾞｪﾀﾃﾝﾃｷ",
+      "file": "ﾊﾟｰｼﾞｪﾀﾃﾝﾃｷ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾊﾟｷｼﾙCr",
+      "file": "ﾊﾟｷｼﾙcr.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾊﾟｸﾘﾀｷｾﾙ",
+      "file": "ﾊﾟｸﾘﾀｷｾﾙ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾊﾟｸﾘﾀｷｾﾙ100Mg16 7Mlﾁ",
+      "file": "ﾊﾟｸﾘﾀｷｾﾙ100mg16_7mlﾁ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾊﾟｸﾘﾀｷｾﾙﾁｭｳ100Mg 16",
+      "file": "ﾊﾟｸﾘﾀｷｾﾙﾁｭｳ100mg_16.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾊﾟｸﾘﾀｷｾﾙﾁｭｳ30Mg 5Mln",
+      "file": "ﾊﾟｸﾘﾀｷｾﾙﾁｭｳ30mg_5mln.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾊﾟｸﾘﾀｷｾﾙﾃﾝﾃｷ",
+      "file": "ﾊﾟｸﾘﾀｷｾﾙﾃﾝﾃｷ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾊﾟﾗﾌﾟﾗﾁﾝ",
+      "file": "ﾊﾟﾗﾌﾟﾗﾁﾝ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾋｭﾐﾗﾋｶﾁｭｳ20Mgｼﾘﾝｼﾞ0",
+      "file": "ﾋｭﾐﾗﾋｶﾁｭｳ20mgｼﾘﾝｼﾞ0.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾋｭﾐﾗﾋｶﾁｭｳ40Mgｼﾘﾝｼﾞ0",
+      "file": "ﾋｭﾐﾗﾋｶﾁｭｳ40mgｼﾘﾝｼﾞ0.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾋｭﾐﾗﾋｶﾁｭｳ40Mgﾍﾟﾝ0 4M",
+      "file": "ﾋｭﾐﾗﾋｶﾁｭｳ40mgﾍﾟﾝ0_4m.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾋｭﾐﾗﾋｶﾁｭｳ80Mgｼﾘﾝｼﾞ0",
+      "file": "ﾋｭﾐﾗﾋｶﾁｭｳ80mgｼﾘﾝｼﾞ0.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾋｭﾐﾗﾋｶﾁｭｳ80Mgﾍﾟﾝ0 8M",
+      "file": "ﾋｭﾐﾗﾋｶﾁｭｳ80mgﾍﾟﾝ0_8m.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾋﾄﾞﾛｺﾙﾁｿﾞﾝﾘﾝ",
+      "file": "ﾋﾄﾞﾛｺﾙﾁｿﾞﾝﾘﾝ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾋﾞｸｼﾘﾝ",
+      "file": "ﾋﾞｸｼﾘﾝ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾋﾞｸｼﾘﾝﾄﾞﾗｲｼﾛｯﾌﾟ10",
+      "file": "ﾋﾞｸｼﾘﾝﾄﾞﾗｲｼﾛｯﾌﾟ10.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾋﾞｸﾄｰｻﾞﾋｶﾁｭｳ18Mg",
+      "file": "ﾋﾞｸﾄｰｻﾞﾋｶﾁｭｳ18mg.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾋﾞｻｺｼﾞﾙｻﾞ",
+      "file": "ﾋﾞｻｺｼﾞﾙｻﾞ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾋﾞｿﾌﾟﾛﾛｰﾙﾌﾏﾙ",
+      "file": "ﾋﾞｿﾌﾟﾛﾛｰﾙﾌﾏﾙ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾋﾞﾌﾞﾗﾏｲｼﾝ",
+      "file": "ﾋﾞﾌﾞﾗﾏｲｼﾝ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾋﾞﾑﾊﾟｯﾄﾃﾝﾃｷ",
+      "file": "ﾋﾞﾑﾊﾟｯﾄﾃﾝﾃｷ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾋﾞﾗﾉｱ",
+      "file": "ﾋﾞﾗﾉｱ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾋﾞﾗﾉｱOd",
+      "file": "ﾋﾞﾗﾉｱod.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾋﾟﾘﾄﾞｷｼﾝｴﾝ",
+      "file": "ﾋﾟﾘﾄﾞｷｼﾝｴﾝ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾋﾟﾚﾁｱ",
+      "file": "ﾋﾟﾚﾁｱ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾋﾟﾚﾁｱｻｲﾘｭｳ10",
+      "file": "ﾋﾟﾚﾁｱｻｲﾘｭｳ10.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾋﾟﾛｶﾙﾋﾟﾝｴﾝ",
+      "file": "ﾋﾟﾛｶﾙﾋﾟﾝｴﾝ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾌｧｽﾃｨｯｸ",
+      "file": "ﾌｧｽﾃｨｯｸ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾌｧﾓﾁｼﾞﾝ",
+      "file": "ﾌｧﾓﾁｼﾞﾝ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾌｧﾓﾁｼﾞﾝ10Mg10Ml",
+      "file": "ﾌｧﾓﾁｼﾞﾝ10mg10ml.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾌｧﾓﾁｼﾞﾝ20Mg",
+      "file": "ﾌｧﾓﾁｼﾞﾝ20mg.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾌｧﾓﾁｼﾞﾝ20Mg20Ml",
+      "file": "ﾌｧﾓﾁｼﾞﾝ20mg20ml.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾌｧﾓﾁｼﾞﾝ20Mg2Ml",
+      "file": "ﾌｧﾓﾁｼﾞﾝ20mg2ml.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾌｧﾝｷﾞｿﾞﾝ",
+      "file": "ﾌｧﾝｷﾞｿﾞﾝ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾌｧﾝｷﾞｿﾞﾝｼﾛｯﾌﾟ100Mg M",
+      "file": "ﾌｧﾝｷﾞｿﾞﾝｼﾛｯﾌﾟ100mg_m.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾌｨｺﾝﾊﾟ",
+      "file": "ﾌｨｺﾝﾊﾟ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾌｨｺﾝﾊﾟｻｲﾘｭｳ1",
+      "file": "ﾌｨｺﾝﾊﾟｻｲﾘｭｳ1.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾌｨｺﾝﾊﾟﾃﾝﾃｷ",
+      "file": "ﾌｨｺﾝﾊﾟﾃﾝﾃｷ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾌｪﾆﾄｲﾝ",
+      "file": "ﾌｪﾆﾄｲﾝ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾌｪﾉﾊﾞｰﾙ",
+      "file": "ﾌｪﾉﾊﾞｰﾙ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾌｪﾉﾊﾞｰﾙｴﾘｷｼﾙ0 4",
+      "file": "ﾌｪﾉﾊﾞｰﾙｴﾘｷｼﾙ0_4.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾛｷｿﾌﾟﾛﾌｪﾝNaﾃｰﾌﾟ50Mgｻ",
+      "file": "ﾛｷｿﾌﾟﾛﾌｪﾝnaﾃｰﾌﾟ50mgｻ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾛｷｿﾌﾟﾛﾌｪﾝNaﾃｰﾌﾟ50Mgﾀ",
+      "file": "ﾛｷｿﾌﾟﾛﾌｪﾝnaﾃｰﾌﾟ50mgﾀ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾛｷｿﾌﾟﾛﾌｪﾝNaﾃｰﾌﾟ50Mgﾄ",
+      "file": "ﾛｷｿﾌﾟﾛﾌｪﾝnaﾃｰﾌﾟ50mgﾄ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾛｷｿﾌﾟﾛﾌｪﾝNaﾃｰﾌﾟ50Mgﾋ",
+      "file": "ﾛｷｿﾌﾟﾛﾌｪﾝnaﾃｰﾌﾟ50mgﾋ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾛｷｿﾌﾟﾛﾌｪﾝNaﾃｰﾌﾟ50Mgﾐ",
+      "file": "ﾛｷｿﾌﾟﾛﾌｪﾝnaﾃｰﾌﾟ50mgﾐ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾛｷｿﾌﾟﾛﾌｪﾝNaﾃｰﾌﾟ50Mgﾕ",
+      "file": "ﾛｷｿﾌﾟﾛﾌｪﾝnaﾃｰﾌﾟ50mgﾕ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾛｷｿﾌﾟﾛﾌｪﾝNaﾃｰﾌﾟ50Mgﾗ",
+      "file": "ﾛｷｿﾌﾟﾛﾌｪﾝnaﾃｰﾌﾟ50mgﾗ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾛｷｿﾌﾟﾛﾌｪﾝNaﾊﾟｯﾌﾟ100M",
+      "file": "ﾛｷｿﾌﾟﾛﾌｪﾝnaﾊﾟｯﾌﾟ100m.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾛｷｿﾌﾟﾛﾌｪﾝﾅﾄﾘｳﾑ50Mg7C",
+      "file": "ﾛｷｿﾌﾟﾛﾌｪﾝﾅﾄﾘｳﾑ50mg7c.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾛｷｿﾌﾟﾛﾌｪﾝﾅﾄﾘｳﾑﾃｰﾌﾟ10",
+      "file": "ﾛｷｿﾌﾟﾛﾌｪﾝﾅﾄﾘｳﾑﾃｰﾌﾟ10.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾛｷｿﾌﾟﾛﾌｪﾝﾅﾄﾘｳﾑﾃｰﾌﾟ50",
+      "file": "ﾛｷｿﾌﾟﾛﾌｪﾝﾅﾄﾘｳﾑﾃｰﾌﾟ50.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾛｷｿﾌﾟﾛﾌｪﾝﾅﾄﾘｳﾑﾊﾟｯﾌﾟ1",
+      "file": "ﾛｷｿﾌﾟﾛﾌｪﾝﾅﾄﾘｳﾑﾊﾟｯﾌﾟ1.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾛｺｲﾄﾞｸﾘｰﾑ0 1",
+      "file": "ﾛｺｲﾄﾞｸﾘｰﾑ0_1.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾛｺｲﾄﾞﾅﾝｺｳ0 1",
+      "file": "ﾛｺｲﾄﾞﾅﾝｺｳ0_1.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾛｾﾌｨﾝ",
+      "file": "ﾛｾﾌｨﾝ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾛｾﾌｨﾝﾃﾝﾃｷ",
+      "file": "ﾛｾﾌｨﾝﾃﾝﾃｷ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾛﾅｾﾝﾃｰﾌﾟ20Mg",
+      "file": "ﾛﾅｾﾝﾃｰﾌﾟ20mg.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾛﾅｾﾝﾃｰﾌﾟ30Mg",
+      "file": "ﾛﾅｾﾝﾃｰﾌﾟ30mg.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾛﾅｾﾝﾃｰﾌﾟ40Mg",
+      "file": "ﾛﾅｾﾝﾃｰﾌﾟ40mg.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾛﾋﾟﾊﾞｶｲﾝｴﾝ",
+      "file": "ﾛﾋﾟﾊﾞｶｲﾝｴﾝ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾛﾍﾟﾗﾐﾄﾞｴﾝ",
+      "file": "ﾛﾍﾟﾗﾐﾄﾞｴﾝ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾜｰﾌｧﾘﾝ",
+      "file": "ﾜｰﾌｧﾘﾝ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾜｰﾌｧﾘﾝｶﾘｭｳ0 2",
+      "file": "ﾜｰﾌｧﾘﾝｶﾘｭｳ0_2.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾜｿﾗﾝ",
+      "file": "ﾜｿﾗﾝ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾜﾙﾌｧﾘﾝK",
+      "file": "ﾜﾙﾌｧﾘﾝk.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾜﾙﾌｧﾘﾝｶﾘｳﾑ",
+      "file": "ﾜﾙﾌｧﾘﾝｶﾘｳﾑ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
+      "predicted_indication": ""
+    },
+    {
+      "name": "ﾜﾝﾀｷｿﾃｰﾙﾃﾝﾃｷ",
+      "file": "ﾜﾝﾀｷｿﾃｰﾙﾃﾝﾃｷ.md",
+      "evidence_level": "L5",
+      "indication_count": 0,
       "predicted_indication": ""
     }
   ]
