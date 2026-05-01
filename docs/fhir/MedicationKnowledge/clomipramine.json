@@ -12,10 +12,10 @@
       {
         "system": "https://jptxgnn.yao.care/drugs",
         "code": "clomipramine",
-        "display": "Clomipramine"
+        "display": "アナフラニール錠１０ｍｇ"
       }
     ],
-    "text": "Clomipramine"
+    "text": "アナフラニール錠１０ｍｇ"
   },
   "intendedJurisdiction": [
     {
@@ -31,7 +31,7 @@
   "extension": [
     {
       "url": "https://jptxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-      "valueCode": "L1"
+      "valueCode": "L5"
     }
   ]
 }

@@ -12,10 +12,10 @@
       {
         "system": "https://jptxgnn.yao.care/drugs",
         "code": "atezolizumab",
-        "display": "Atezolizumab"
+        "display": "テセントリク点滴静注１２００ｍｇ　１，２００ｍｇ２０ｍＬ"
       }
     ],
-    "text": "Atezolizumab"
+    "text": "テセントリク点滴静注１２００ｍｇ　１，２００ｍｇ２０ｍＬ"
   },
   "intendedJurisdiction": [
     {
@@ -31,7 +31,7 @@
   "extension": [
     {
       "url": "https://jptxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-      "valueCode": "L2"
+      "valueCode": "L5"
     }
   ]
 }

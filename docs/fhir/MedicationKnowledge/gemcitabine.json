@@ -12,10 +12,10 @@
       {
         "system": "https://jptxgnn.yao.care/drugs",
         "code": "gemcitabine",
-        "display": "Gemcitabine"
+        "display": "ゲムシタビン点滴静注用２００ｍｇ「ヤクルト」"
       }
     ],
-    "text": "Gemcitabine"
+    "text": "ゲムシタビン点滴静注用２００ｍｇ「ヤクルト」"
   },
   "intendedJurisdiction": [
     {
@@ -31,7 +31,7 @@
   "extension": [
     {
       "url": "https://jptxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-      "valueCode": "L2"
+      "valueCode": "L5"
     }
   ]
 }

@@ -12,10 +12,10 @@
       {
         "system": "https://jptxgnn.yao.care/drugs",
         "code": "vonoprazan",
-        "display": "Vonoprazan"
+        "display": "タケキャブ錠１０ｍｇ"
       }
     ],
-    "text": "Vonoprazan"
+    "text": "タケキャブ錠１０ｍｇ"
   },
   "intendedJurisdiction": [
     {
@@ -31,7 +31,7 @@
   "extension": [
     {
       "url": "https://jptxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-      "valueCode": "L2"
+      "valueCode": "L5"
     }
   ]
 }

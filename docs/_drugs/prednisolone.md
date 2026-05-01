@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Prednisolone
-parent: 中エビデンス (L3-L4)
-nav_order: 137
-evidence_level: L3
-indication_count: 1
+parent: 僅模型預測 (L5)
+nav_order: 114
+evidence_level: L5
+indication_count: 10
 ---
 
 # Prednisolone
 {: .fs-9 }
 
-エビデンスレベル: **L3** | 予測適応症: **1** 件
+證據等級: **L5** | 預測適應症: **10** 個
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目次
+## 目錄
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,86 +25,98 @@ indication_count: 1
 
 <div id="pharmacist">
 
-## 薬剤師評価レポート
+## 藥師評估報告
 
 </div>
 
-# Prednisolone：從濕疹樣皮膚炎到斑禿 (Alopecia Areata)
-
-## 一言まとめ
-
-Prednisolone 原本用於治療濕疹樣皮膚炎等過敏性或發炎性皮膚疾患。
-TxGNN 模型預測它可能對**斑禿 (Alopecia Areata)** 有效，
-目前有 **14 個臨床試驗**和 **8 篇文獻**支持這個方向。
-
-## 概要
-
-| 項目 | 内容 |
-|------|------|
-| 既存適応症 | 濕疹樣皮膚炎、蟲咬傷、尿布疹、皮膚搔癢及過敏性或發炎性皮膚疾患等 |
-| 予測新適応症 | 斑禿 (Alopecia Areata) |
-| TxGNN 予測スコア | 99.99% |
-| エビデンスレベル | L3 |
-| 日本上市 | ✓ 已上市 |
-| 承認数 | 20 張 |
-| 推奨判断 | Proceed with Guardrails |
-
-## この予測が妥当な理由
-
-目前缺乏詳細的作用機轉資料。根據已知資訊，Prednisolone 是一種類固醇藥物，具有抗炎和免疫調節作用。
-其成分在治療過敏性和發炎性皮膚疾病中的療效已被證實，機轉上可能適用於斑禿這類自體免疫性疾病。
-
-## 臨床試験エビデンス
-
-| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
-|---------|------|------|------|---------|
-| [NCT03616964](https://clinicaltrials.gov/study/NCT03616964) | Phase 3 | 完成 | 778 | 研究 Baricitinib 在 SLE 患者中的效果和安全性。 |
-| [NCT05162586](https://clinicaltrials.gov/study/NCT05162586) | Phase 2 | 完成 | 456 | 研究 Enpatoran 在 SLE 和 CLE 患者中的效果和安全性。 |
-| [NCT04835441](https://clinicaltrials.gov/study/NCT04835441) | Phase 2 | 完成 | 76 | 研究 ALPN-101 在中重度 SLE 患者中的效果。 |
-| [NCT03843125](https://clinicaltrials.gov/study/NCT03843125) | Phase 3 | 終止 | 1147 | 長期研究 Baricitinib 在 SLE 患者中的效果和安全性。 |
-| [NCT07101471](https://clinicaltrials.gov/study/NCT07101471) | N/A | 完成 | 296 | 評估 Rhofanib® (Tofacitinib) 在斑禿患者中的安全性和效果。 |
-| [NCT01167946](https://clinicaltrials.gov/study/NCT01167946) | Phase 4 | 完成 | 42 | 研究大劑量口服類固醇在嚴重斑禿中的安全性和效果。 |
-
-## 文献エビデンス
-
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [37870096](https://pubmed.ncbi.nlm.nih.gov/37870096/) | 2023 | Meta-analysis | The Cochrane database of systematic reviews | 斑禿的治療包括免疫抑制劑、促進毛髮生長的藥物和接觸免疫療法。 |
-| [30191561](https://pubmed.ncbi.nlm.nih.gov/30191561/) | 2019 | Systematic Review | The Australasian journal of dermatology | 系統性治療在斑禿中的應用及其效果。 |
-| [37992355](https://pubmed.ncbi.nlm.nih.gov/37992355/) | 2023 | Review | Dermatology practical & conceptual | 研究類固醇脈衝療法在斑禿中的效果及副作用。 |
-| [35986630](https://pubmed.ncbi.nlm.nih.gov/35986630/) | 2022 | Retrospective Study | Dermatologic therapy | 研究甲基強的松龍單獨或與甲氨蝶呤聯合治療廣泛斑禿的效果。 |
-| [15692475](https://pubmed.ncbi.nlm.nih.gov/15692475/) | 2005 | RCT | Journal of the American Academy of Dermatology | 系統性類固醇作為脈衝療法在斑禿中的應用。 |
-
-## 日本上市情報
-
-| 承認番号 | 品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 內衛藥製字第000590號 | 樂爾爽軟膏 | 軟膏劑 | 濕疹樣皮膚炎、蟲咬傷、尿布疹、皮膚搔癢及過敏性或發炎性皮膚疾患等 |
-| 內衛藥製字第000711號 | 普力多寧錠 | 錠劑 | 風濕性疾患、支氣管氣喘、腎炎症候群、過敏性皮膚疾患 |
-| 內衛藥製字第004492號 | “華琳”袪風濕龍錠 | 錠劑 | 風濕性關節炎、皮膚炎、支氣管炎、氣喘、過敏性疾患 |
-
-## 安全性に関する考慮事項
-
-- **藥物交互作用**：Prednisolone 與多種藥物有中等程度的交互作用，例如 Zidovudine、Abametapir (topical)、Isotretinoin 等。
-- **主要交互作用**：與 Adalimumab 有重大交互作用。
-
-## 結論と次のステップ
-
-**判断：Proceed with Guardrails**
-
-**理由：**
-Prednisolone 在斑禿的治療中已有多個臨床試驗和文獻支持，顯示其可能的療效和安全性。
-
-**推進に必要な事項：**
-- 進一步的機轉研究以確認其在斑禿中的作用機制
-- 特定族群的安全性監測計畫
+使用 **txgnn-pipeline** スキルを確認しました。Evidence Pack JSON を解析してレポートを生成します。
 
 ---
 
+# プレドニゾロン：免疫抑制・抗炎症薬から円形脱毛症へ
 
-<div class="disclaimer" style="background-color: #fff3cd; padding: 1rem; border-radius: 0.5rem; margin-top: 2rem;">
-<strong>⚠️ 免責事項</strong><br>
-本レポートは学術研究目的のみであり、<strong>医療アドバイスを構成するものではありません</strong>。
-薬の使用は必ず医師の指示に従ってください。自己判断で投薬を変更しないでください。
-ドラッグ・リポジショニングの決定には、完全な臨床検証と規制審査が必要です。
-</div>
+## 一言要約
+
+プレドニゾロンは代表的な合成糖皮質激素（コルチコステロイド）であり、広範な炎症性・自己免疫疾患の治療に長年使用されてきた薬剤です。TxGNN モデルは**円形脱毛症（Alopecia Areata）**への有効性を予測しており、現在**18 件の関連臨床試験**と**20 編の文献**（直接プレドニゾロンを使用したプラセボ対照 RCT を含む）がこの方向性を支持しています。
+
+---
+
+## クイック概要
+
+| 項目 | 内容 |
+|------|------|
+| 既存適応症 | データなし（日本 PMDA 承認記録未取得） |
+| 予測新規適応症 | 円形脱毛症 (Alopecia Areata) |
+| TxGNN 予測スコア | 99.99% |
+| エビデンスレベル | L2 |
+| 日本市販状況 | 未上市 |
+| 承認番号数 | 0 件 |
+| 推奨決定 | Proceed with Guardrails |
+
+---
+
+## この予測が妥当である理由
+
+円形脱毛症は、CD8⁺ T 細胞が毛囊の免疫豁免（immune privilege）を崩壊させることで生じる自己免疫性の非瘢痕性脱毛疾患です。プレドニゾロンは NF-κB および AP-1 経路を抑制し、IL-2・IFN-γ・TNF-α などの炎症性サイトカイン産生を下方制御することで、毛囊への T 細胞浸潤を抑制し、毛周期の正常化を促します。本 Evidence Pack では詳細な MOA データが取得されていませんが、プレドニゾロンは薬理学的に広く特徴付けられた合成コルチコステロイドであり、機序的妥当性は十分説明可能です。
+
+糖皮質激素系は円形脱毛症に対して最も古くから試みられてきた全身療法であり、経口パルス投与・局所注射・外用など多様な投与経路で臨床実績があります。プレドニゾロン・メチルプレドニゾロン・デキサメタゾンはクラスエフェクトを共有しており、同系薬で蓄積されたエビデンスはプレドニゾロンに直接外挿可能です（メチルプレドニゾロンとの効力比は固定値 5:4）。特に 2005 年の JAAD 掲載 RCT（PMID 15692475）は、プレドニゾロンのプラセボ対照試験として重要な直接証拠を提供しています。
+
+日本 PMDA での承認記録は本 Evidence Pack では確認されていませんが、プレドニゾロンは世界的に広く使用される基盤薬であり、データ取得の不完全性である可能性があります。PMDA 仿単の直接確認が推奨されます。
+
+---
+
+## 臨床試験エビデンス
+
+| 試験番号 | フェーズ | 状態 | 被験者数 | 主な知見 |
+|---------|--------|------|----------|---------|
+| [NCT01167946](https://clinicaltrials.gov/study/NCT01167946) | Phase 4 | 完了 | 42 | 重症難治性 AA（AT/AU/ophiasic 型を含む）に対する大量経口パルス・メチルプレドニゾロンの有効性と安全性を評価。プレドニゾロンとの転換係数は固定（5:4）であり直接外挿可能 |
+| [NCT07101471](https://clinicaltrials.gov/study/NCT07101471) | N/A | 完了 | 296 | トファシチニブ（JAK 阻害薬）±補助的プレドニゾロン投与による脱毛症の観察研究。真実世界での prednisolone 補助使用状況を記録 |
+| [NCT01017510](https://clinicaltrials.gov/study/NCT01017510) | N/A | 不明 | 20 | AA へのステロイド局所注射法の比較（DERMOJET vs 通常シリンジ）。ステロイドが標準治療として前提とされており、投与デバイスの利便性を比較 |
+| [NCT03616964](https://clinicaltrials.gov/study/NCT03616964) | Phase 3 | 完了 | 778 | バリシチニブ（JAK1/2 阻害薬）vs プラセボの SLE Phase 3 RCT。T 細胞介在性自己免疫という共通機序の観点から機序的支持を提供、prednisolone が背景療法として使用 |
+| [NCT03843125](https://clinicaltrials.gov/study/NCT03843125) | Phase 3 | 中止 | 1,147 | バリシチニブの SLE 長期安全性・有効性延長試験（Phase 3）。中止されたが免疫調節療法の長期安全性プロファイルの参考となる |
+| [NCT06759519](https://clinicaltrials.gov/study/NCT06759519) | N/A | 完了 | 621 | 中等度〜重度活動性 SLE の多施設回顧的前向き観察研究（ロシア約 50 施設）。prednisolone を含む標準療法の実臨床アウトカムを記録 |
+| [NCT03845517](https://clinicaltrials.gov/study/NCT03845517) | Phase 2b | 完了 | 350 | PF-06700841（TYK2/JAK1 阻害薬）の SLE に対する用量範囲設定試験。JAK 経路を介した免疫調節の機序的背景を補完 |
+| [NCT04835441](https://clinicaltrials.gov/study/NCT04835441) | Phase 2 | 完了 | 76 | acazicolcept（CTLA-4/PD-L1 二重阻害）の中等度〜重度 SLE Phase 2 試験。prednisolone が背景療法として使用 |
+| [NCT04582136](https://clinicaltrials.gov/study/NCT04582136) | Phase 3 | 進行中（募集終了） | 146 | シロリムス＋標準療法 vs 標準療法単独の SLE Phase 3 試験。prednisolone を含む標準療法が対照アームに設定 |
+| [NCT06046534](https://clinicaltrials.gov/study/NCT06046534) | N/A | 完了 | 46 | anifrolumab の SLE 早期アクセスプログラム回顧的医療記録調査（ERYTHRO）。SLE 関連脱毛を含む患者群での prednisolone 使用実態を反映 |
+
+---
+
+## 文献エビデンス
+
+| PMID | 年 | タイプ | ジャーナル | 主な知見 |
+|------|-----|------|------|---------|
+| [15692475](https://pubmed.ncbi.nlm.nih.gov/15692475/) | 2005 | RCT | J Am Acad Dermatol | 経口パルス prednisolone vs プラセボの無作為化二重盲検試験；AA 初のプラセボ対照 RCT として prednisolone の直接的有効性を実証 |
+| [37870096](https://pubmed.ncbi.nlm.nih.gov/37870096/) | 2023 | メタ解析 | Cochrane Database Syst Rev | AA に対する全治療法のネットワークメタ解析（Cochrane）；免疫抑制薬・コルチコステロイドを含む全身療法の比較エビデンスを体系的に整理 |
+| [30191561](https://pubmed.ncbi.nlm.nih.gov/30191561/) | 2019 | システマティックレビュー | Australasian J Dermatol | AA・AT・AU に対する全身治療の系統的レビュー（1946〜2018 年, Medline/Embase/Cochrane ほか）；コルチコステロイドの推奨根拠と限界を包括的に整理 |
+| [37992355](https://pubmed.ncbi.nlm.nih.gov/37992355/) | 2023 | レビュー | Dermatol Pract Conceptual | AA に対するコルチコステロイドパルス療法の有効性・再発率・副作用・予後因子に関する包括的レビュー |
+| [36461625](https://pubmed.ncbi.nlm.nih.gov/36461625/) | 2023 | レビュー | Pediatr Dermatol | 小児 AA に対するパルス用量コルチコステロイド療法の用量・投与レジメン・副作用の文献レビュー；小児への適用根拠を提供 |
+| [35986630](https://pubmed.ncbi.nlm.nih.gov/35986630/) | 2022 | コホート | Dermatol Ther | 広範囲 AA 患者へのメチルプレドニゾロン単独（n=14）vs MTX 併用（n=12）の後ろ向き比較；両群間に統計的有意差なし |
+| [28140540](https://pubmed.ncbi.nlm.nih.gov/28140540/) | 2017 | コホート | JDDG | 重症小児 AA に対する高用量→クッシング閾値以下低用量への段階的コルチコステロイド療法；高い初期反応率と再発抑制を報告 |
+| [21572877](https://pubmed.ncbi.nlm.nih.gov/21572877/) | 2009 | コホート | Dermato-endocrinology | AA 早期例に対するプレドニゾロン中等量パルス療法（prednisolone 直接使用）；初期有効性は高いが副作用による治療継続困難例あり |
+| [41243342](https://pubmed.ncbi.nlm.nih.gov/41243342/) | 2025 | 症例報告/レビュー | J Dermatol Treat | JAK 阻害薬が使用不可な場面でのデキサメタゾン経口ミニパルスによる重症 AA 持続寛解；コルチコステロイドパルス療法の現代的役割を再評価 |
+| [32779249](https://pubmed.ncbi.nlm.nih.gov/32779249/) | 2020 | コホート | J Eur Acad Dermatol Venereol | 慢性 AA に対する prednisolone ＋ステロイド節減薬（AZA/MTX/CsA）の継続率後ろ向き比較（n=138）；長期 prednisolone 治療の実臨床像を提供 |
+
+---
+
+## 安全性に関する考慮事項
+
+安全性情報については添付文書を参照してください。
+
+---
+
+## 結論と次のステップ
+
+**決定：Proceed with Guardrails**
+
+**理由：**
+プレドニゾロンを直接使用したプラセボ対照 RCT（JAAD 2005）および同系糖皮質激素（メチルプレドニゾロン、デキサメタゾン）を用いた複数のコホート研究・系統的レビューにより L2 レベルの臨床エビデンスが確認されており、機序的妥当性も T 細胞介在性自己免疫という AA の病態と合致しています。ただし、PMDA での安全性情報（警告・禁忌）が未取得であるため、安全性評価を補完したうえで進める必要があります。
+
+**進める場合に必要なもの：**
+- PMDA 仿単の取得による安全性プロファイル（警告・禁忌・重篤な副作用）の確認
+- DrugBank API を通じた詳細 MOA データの補完
+- 日本国内承認状況の再確認（PMDA データ未取得である可能性があるため）
+- 長期高用量使用に伴う主要副作用（骨粗鬆症・感染症リスク増大・HPA 軸抑制・糖尿病・緑内障）のモニタリング計画策定
+- 現行の標準治療（JAK 阻害薬：バリシチニブ等）との治療ポジショニングの整理および比較有効性の評価
+---
+

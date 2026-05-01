@@ -12,10 +12,10 @@
       {
         "system": "https://jptxgnn.yao.care/drugs",
         "code": "paclitaxel",
-        "display": "Paclitaxel"
+        "display": "タキソール注射液３０ｍｇ　５ｍＬ"
       }
     ],
-    "text": "Paclitaxel"
+    "text": "タキソール注射液３０ｍｇ　５ｍＬ"
   },
   "intendedJurisdiction": [
     {
@@ -31,7 +31,7 @@
   "extension": [
     {
       "url": "https://jptxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-      "valueCode": "L1"
+      "valueCode": "L5"
     }
   ]
 }

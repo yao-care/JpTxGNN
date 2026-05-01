@@ -12,10 +12,10 @@
       {
         "system": "https://jptxgnn.yao.care/drugs",
         "code": "regorafenib",
-        "display": "Regorafenib"
+        "display": "スチバーガ錠４０ｍｇ"
       }
     ],
-    "text": "Regorafenib"
+    "text": "スチバーガ錠４０ｍｇ"
   },
   "intendedJurisdiction": [
     {
@@ -31,7 +31,7 @@
   "extension": [
     {
       "url": "https://jptxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-      "valueCode": "L2"
+      "valueCode": "L5"
     }
   ]
 }

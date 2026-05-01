@@ -12,10 +12,10 @@
       {
         "system": "https://jptxgnn.yao.care/drugs",
         "code": "carboplatin",
-        "display": "Carboplatin"
+        "display": "カルボプラチン点滴静注液５０ｍｇ「サンド」　５ｍＬ"
       }
     ],
-    "text": "Carboplatin"
+    "text": "カルボプラチン点滴静注液５０ｍｇ「サンド」　５ｍＬ"
   },
   "intendedJurisdiction": [
     {
@@ -31,7 +31,7 @@
   "extension": [
     {
       "url": "https://jptxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-      "valueCode": "L2"
+      "valueCode": "L5"
     }
   ]
 }

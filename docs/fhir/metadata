@@ -7,7 +7,7 @@
   "title": "JpTxGNN FHIR Server",
   "status": "active",
   "experimental": true,
-  "date": "2026-04-18",
+  "date": "2026-05-01",
   "publisher": "JpTxGNN",
   "contact": [
     {
@@ -19,7 +19,7 @@
       ]
     }
   ],
-  "description": "JpTxGNN 医薬品リポジショニング予測データを FHIR リソースとして公開。191 医薬品、553 予測適応症を含む。",
+  "description": "JpTxGNN 医薬品リポジショニング予測データを FHIR リソースとして公開。397 医薬品、18028 予測適応症を含む。",
   "kind": "instance",
   "software": {
     "name": "JpTxGNN Static FHIR API",

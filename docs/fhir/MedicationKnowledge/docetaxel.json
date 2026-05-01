@@ -12,10 +12,10 @@
       {
         "system": "https://jptxgnn.yao.care/drugs",
         "code": "docetaxel",
-        "display": "Docetaxel"
+        "display": "タキソテール点滴静注用２０ｍｇ　０．５ｍＬ（溶解液付）"
       }
     ],
-    "text": "Docetaxel"
+    "text": "タキソテール点滴静注用２０ｍｇ　０．５ｍＬ（溶解液付）"
   },
   "intendedJurisdiction": [
     {
@@ -31,7 +31,7 @@
   "extension": [
     {
       "url": "https://jptxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-      "valueCode": "L1"
+      "valueCode": "L5"
     }
   ]
 }

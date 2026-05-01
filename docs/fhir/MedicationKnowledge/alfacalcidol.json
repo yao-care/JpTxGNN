@@ -12,10 +12,10 @@
       {
         "system": "https://jptxgnn.yao.care/drugs",
         "code": "alfacalcidol",
-        "display": "Alfacalcidol"
+        "display": "アルファロール散１μｇ／ｇ"
       }
     ],
-    "text": "Alfacalcidol"
+    "text": "アルファロール散１μｇ／ｇ"
   },
   "intendedJurisdiction": [
     {
@@ -31,7 +31,7 @@
   "extension": [
     {
       "url": "https://jptxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-      "valueCode": "L3"
+      "valueCode": "L5"
     }
   ]
 }

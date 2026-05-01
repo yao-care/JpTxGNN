@@ -12,10 +12,10 @@
       {
         "system": "https://jptxgnn.yao.care/drugs",
         "code": "metoprolol",
-        "display": "Metoprolol"
+        "display": "セロケン錠２０ｍｇ"
       }
     ],
-    "text": "Metoprolol"
+    "text": "セロケン錠２０ｍｇ"
   },
   "intendedJurisdiction": [
     {
@@ -31,7 +31,7 @@
   "extension": [
     {
       "url": "https://jptxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-      "valueCode": "L2"
+      "valueCode": "L5"
     }
   ]
 }

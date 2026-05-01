@@ -12,10 +12,10 @@
       {
         "system": "https://jptxgnn.yao.care/drugs",
         "code": "prednisolone",
-        "display": "Prednisolone"
+        "display": "プレドニン錠５ｍｇ"
       }
     ],
-    "text": "Prednisolone"
+    "text": "プレドニン錠５ｍｇ"
   },
   "intendedJurisdiction": [
     {
@@ -31,7 +31,7 @@
   "extension": [
     {
       "url": "https://jptxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-      "valueCode": "L3"
+      "valueCode": "L5"
     }
   ]
 }

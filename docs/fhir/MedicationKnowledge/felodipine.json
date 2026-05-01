@@ -12,10 +12,10 @@
       {
         "system": "https://jptxgnn.yao.care/drugs",
         "code": "felodipine",
-        "display": "Felodipine"
+        "display": "スプレンジール錠２．５ｍｇ"
       }
     ],
-    "text": "Felodipine"
+    "text": "スプレンジール錠２．５ｍｇ"
   },
   "intendedJurisdiction": [
     {
@@ -31,7 +31,7 @@
   "extension": [
     {
       "url": "https://jptxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-      "valueCode": "L4"
+      "valueCode": "L5"
     }
   ]
 }

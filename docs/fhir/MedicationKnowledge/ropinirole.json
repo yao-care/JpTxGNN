@@ -12,10 +12,10 @@
       {
         "system": "https://jptxgnn.yao.care/drugs",
         "code": "ropinirole",
-        "display": "Ropinirole"
+        "display": "レキップＣＲ錠２ｍｇ"
       }
     ],
-    "text": "Ropinirole"
+    "text": "レキップＣＲ錠２ｍｇ"
   },
   "intendedJurisdiction": [
     {
@@ -31,7 +31,7 @@
   "extension": [
     {
       "url": "https://jptxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-      "valueCode": "L4"
+      "valueCode": "L5"
     }
   ]
 }

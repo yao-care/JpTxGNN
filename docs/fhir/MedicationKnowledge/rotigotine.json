@@ -12,10 +12,10 @@
       {
         "system": "https://jptxgnn.yao.care/drugs",
         "code": "rotigotine",
-        "display": "Rotigotine"
+        "display": "ニュープロパッチ２．２５ｍｇ"
       }
     ],
-    "text": "Rotigotine"
+    "text": "ニュープロパッチ２．２５ｍｇ"
   },
   "intendedJurisdiction": [
     {
@@ -31,7 +31,7 @@
   "extension": [
     {
       "url": "https://jptxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-      "valueCode": "L4"
+      "valueCode": "L5"
     }
   ]
 }
