@@ -1,7 +1,35 @@
 {
-  "generated": "2026-05-03T12:46:10.415691+00:00",
+  "generated": "2026-05-03T18:43:24.672435+00:00",
   "count": 14,
   "news": [
+    {
+      "id": "f82d0138b808",
+      "title": "5位は糖尿病､2位は運動不足…研究で｢日本人の認知症の原因｣1位だとわかった\"意外な要素\"【2026年3月BEST】",
+      "published": "2026-05-03T13:24:21+00:00",
+      "sources": [
+        {
+          "name": "ライブドアニュース",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BZ0d2UG50eTc2QVNOOWhxT1FxVkd0TVBrUDliZnFFNllhWHhkVHJNZHVxRk96WlVXdDdvOGtNTHpKWWR6WmVHdDJTQmJnVHM0Z2NEMXE3UHlMR0dzLWow?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "認知症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "fa9e7ef373c5",
       "title": "「ウィッグが不快」と批判された米気象予報士（33）、心無いご意見メールに「スカッとする返答」(Harper’s BAZAAR（ハーパーズ バザー）)",
@@ -320,34 +348,6 @@
             {
               "slug": "prasugrel",
               "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f82d0138b808",
-      "title": "5位は糖尿病､2位は運動不足…研究で｢日本人の認知症の原因｣1位だとわかった\"意外な要素\"【2026年3月BEST】",
-      "published": "2026-05-03T07:15:00+00:00",
-      "sources": [
-        {
-          "name": "ライブドアニュース",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BZ0d2UG50eTc2QVNOOWhxT1FxVkd0TVBrUDliZnFFNllhWHhkVHJNZHVxRk96WlVXdDdvOGtNTHpKWWR6WmVHdDJTQmJnVHM0Z2NEMXE3UHlMR0dzLWow?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "認知症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
             }
           ]
         }
