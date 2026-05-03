@@ -1,165 +1,171 @@
 #!/usr/bin/env python3
 """
-Generate individual drug pages for Jekyll.
+Generate individual drug pages for Jekyll from repurposing predictions.
 
 Creates markdown pages for each drug with predicted indications.
 
-Output: docs/drugs/{drug-slug}/index.md
+Output: docs/_drugs/{drug-slug}.md
 """
 
-import json
+import pandas as pd
 from datetime import datetime
 from pathlib import Path
 
-# Project root directory
+# Project configuration
 PROJECT_ROOT = Path(__file__).parent.parent
 DOCS_DIR = PROJECT_ROOT / "docs"
-DRUGS_DIR = DOCS_DIR / "drugs"
-DATA_DIR = DOCS_DIR / "data"
+DRUGS_DIR = DOCS_DIR / "_drugs"
+DATA_DIR = PROJECT_ROOT / "data" / "processed"
+
+# Country-specific settings
+COUNTRY_CODE = "BR"
+COUNTRY_NAME = "Brazil"
+LANGUAGE = "pt-BR"
+REGULATORY_AGENCY = "ANVISA"
+SITE_URL = "https://artxgnn.yao.care"
 
 
-def load_search_index():
-    """Load the search index."""
-    search_index_path = DATA_DIR / "search-index.json"
-    with open(search_index_path, "r", encoding="utf-8") as f:
-        return json.load(f)
+def slugify(text: str) -> str:
+    """Convert text to URL-safe slug."""
+    import re
+    text = text.lower()
+    text = re.sub(r"[^a-z0-9]+", "_", text)
+    text = re.sub(r"_+", "_", text)
+    return text.strip("_")
 
 
-def load_drugs_json():
-    """Load the drugs.json."""
-    drugs_path = DATA_DIR / "drugs.json"
-    with open(drugs_path, "r", encoding="utf-8") as f:
-        return json.load(f)
-
-
-def generate_drug_page(drug: dict, drugs_info: dict) -> str:
+def generate_drug_page(drugbank_id: str, drug_name: str, indications: list) -> str:
     """Generate markdown content for a drug page."""
-    slug = drug.get("slug", "")
-    name = drug.get("name", "")
-    drugbank_id = drug.get("drugbank_id", "")
-    indications = drug.get("indications", [])
+    slug = slugify(drug_name)
 
-    # Get additional info from drugs.json
-    drug_info = drugs_info.get(slug, {})
-    original_indication = drug_info.get("original_indication", "")
-    brand_names = drug_info.get("brand_names", [])
-
-    # Build markdown content
     content = f"""---
-layout: page
-title: {name}
-parent: 医薬品検索
-nav_exclude: true
+layout: drug
+title: {drug_name}
+drugbank_id: {drugbank_id}
+evidence_level: L5
+permalink: /drugs/{slug}/
 ---
 
-# {name}
+# {drug_name}
 
-## 基本情報
+## Basic Information
 
-| 項目 | 値 |
-|------|-----|
+| Item | Value |
+|------|-------|
 | DrugBank ID | [{drugbank_id}](https://go.drugbank.com/drugs/{drugbank_id}) |
-| エビデンスレベル | L5（計算予測のみ） |
-| 予測適応症数 | {len(indications)} |
+| Evidence Level | L5 (Computational Prediction) |
+| Number of Predicted Indications | {len(indications)} |
+
+## Predicted Indications (TxGNN)
+
+The following are potential new indications predicted by the TxGNN model. Higher scores indicate higher predicted relevance.
+
+| # | Indication | Source |
+|---|------------|--------|
 """
 
-    if brand_names:
-        content += f"| 日本商品名（例） | {', '.join(brand_names[:3])} |\n"
-
-    if original_indication:
-        content += f"""
-## 承認適応症（KEGG）
-
-{original_indication}
-"""
-
-    content += f"""
-## 予測適応症（TxGNN）
-
-以下は TxGNN モデルにより予測された潜在的新適応症です。スコアが高いほど関連性が高いと予測されています。
-
-| # | 適応症 | スコア | ソース |
-|---|--------|--------|--------|
-"""
-
-    for i, ind in enumerate(indications[:50], 1):  # Limit to top 50
-        ind_name = ind.get("name", "")
-        ind_score = ind.get("score", 50)
-        ind_source = "DL" if "Deep Learning" in ind.get("source", "") else "KG"
-        content += f"| {i} | {ind_name} | {ind_score}% | {ind_source} |\n"
+    for i, ind in enumerate(indications[:50], 1):
+        ind_name = ind.get("indication", "")
+        source = ind.get("source", "KG")
+        content += f"| {i} | {ind_name} | {source} |\n"
 
     if len(indications) > 50:
-        content += f"\n*（上位50件を表示。全{len(indications)}件の予測があります）*\n"
+        content += f"\n*(Showing top 50 of {len(indications)} predictions)*\n"
 
-    content += """
-## 免責事項
+    content += f"""
+## Disclaimer
 
-これらの予測は研究目的のみであり、医療アドバイスを構成するものではありません。
-臨床応用には必ず適切な検証が必要です。
+These predictions are for research purposes only and do not constitute medical advice.
+Clinical validation is required before any clinical application.
 
 ---
 
-[← 医薬品検索に戻る](/drugs/)
+[← Back to Drug Search](/drugs/)
 """
 
     return content
 
 
 def main():
-    print("Loading data...")
+    print("=" * 60)
+    print(f"BrTxGNN - Generate Drug Pages")
+    print("=" * 60)
+    print()
 
-    # Load data
-    search_index = load_search_index()
-    drugs_data = load_drugs_json()
+    # Load prediction data
+    candidates_path = DATA_DIR / "repurposing_candidates.csv.gz"
 
-    # Build drugs info lookup
-    drugs_info = {}
-    for drug in drugs_data.get("drugs", []):
-        drugs_info[drug["slug"]] = drug
+    if not candidates_path.exists():
+        print(f"Error: {candidates_path} not found")
+        print("Please run run_kg_prediction.py first")
+        return
 
-    print(f"  - Search index: {len(search_index.get('drugs', []))} drugs")
-    print(f"  - Drugs info: {len(drugs_info)} drugs")
+    print(f"1. Loading predictions from {candidates_path}...")
+    candidates = pd.read_csv(candidates_path)
+    print(f"   Loaded {len(candidates)} predictions")
 
-    # Create drugs directory
+    # Group by drug
+    drug_col = "drugbank_id" if "drugbank_id" in candidates.columns else candidates.columns[0]
+    indication_col = "potential_indication" if "potential_indication" in candidates.columns else "disease_name"
+    source_col = "source" if "source" in candidates.columns else None
+
+    print()
+    print("2. Grouping by drug...")
+    drugs = {}
+    for _, row in candidates.iterrows():
+        drug_id = row.get(drug_col, "")
+        if pd.isna(drug_id):
+            continue
+        drug_id = str(drug_id)
+
+        if drug_id not in drugs:
+            # Try to get drug name from ingredient column
+            drug_name = drug_id
+            if "drug_ingredient" in row:
+                drug_name = row["drug_ingredient"] or drug_id
+            drugs[drug_id] = {
+                "name": drug_name,
+                "indications": []
+            }
+
+        indication = row.get(indication_col, "")
+        if pd.isna(indication):
+            continue
+
+        source = row.get(source_col, "KG") if source_col else "KG"
+        drugs[drug_id]["indications"].append({
+            "indication": str(indication),
+            "source": str(source) if not pd.isna(source) else "KG"
+        })
+
+    print(f"   Found {len(drugs)} unique drugs")
+
+    # Create output directory
     DRUGS_DIR.mkdir(parents=True, exist_ok=True)
 
-    # Group drugs by slug to avoid duplicates
-    drugs_by_slug = {}
-    for drug in search_index.get("drugs", []):
-        slug = drug.get("slug", "")
-        if slug:
-            if slug not in drugs_by_slug:
-                drugs_by_slug[slug] = drug
-            else:
-                # Merge indications
-                existing = drugs_by_slug[slug]
-                existing_ind_names = {i["name"] for i in existing.get("indications", [])}
-                for ind in drug.get("indications", []):
-                    if ind["name"] not in existing_ind_names:
-                        existing["indications"].append(ind)
-                        existing_ind_names.add(ind["name"])
-
-    print(f"  - Unique drug slugs: {len(drugs_by_slug)}")
-
-    # Generate pages
+    print()
+    print("3. Generating drug pages...")
     pages_created = 0
-    for slug, drug in drugs_by_slug.items():
-        # Create drug directory
-        drug_dir = DRUGS_DIR / slug
-        drug_dir.mkdir(parents=True, exist_ok=True)
+    skipped = 0
+    for drug_id, drug_data in drugs.items():
+        slug = slugify(drug_data["name"])
+        page_path = DRUGS_DIR / f"{slug}.md"
 
-        # Generate page content
-        content = generate_drug_page(drug, drugs_info)
+        # Skip if a pharmacist report page already exists
+        if page_path.exists():
+            skipped += 1
+            continue
 
-        # Write index.md
-        page_path = drug_dir / "index.md"
+        content = generate_drug_page(drug_id, drug_data["name"], drug_data["indications"])
         with open(page_path, "w", encoding="utf-8") as f:
             f.write(content)
-
         pages_created += 1
 
-    print(f"\nOutput: {DRUGS_DIR}")
-    print(f"  - Pages created: {pages_created}")
+    print(f"   Created {pages_created} drug pages (skipped {skipped} existing)")
+    print()
+    print("=" * 60)
+    print("Done!")
+    print(f"Output: {DRUGS_DIR}")
 
 
 if __name__ == "__main__":
