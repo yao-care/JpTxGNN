@@ -104,5 +104,10 @@ PMDAクエリの結果（2026-03-10実施）、ベラパミルの承認記録は
 
 > **📌 注目すべき二次候補：**
 > 本Evidence Pack内、致死性不整脈心筋症（Arrhythmogenic Right Ventricular Cardiomyopathy；**ARVC**、rank 9、スコア 98.40%）がエビデンスレベル **L4・Research Question (S1)** の評価を受けています。文献中には「Verapamil感受性心室頻拍」に関する個別症例報告（[PMID 24827485](https://pubmed.ncbi.nlm.nih.gov/24827485/)、[PMID 7884360](https://pubmed.ncbi.nlm.nih.gov/7884360/)）が存在し、ARVC関連室性頻拍に対するベラパミルの役割について、独立した研究課題として別途検討する価値があります。
+## 免責事項
+
+本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。
+臨床応用の前に臨床的検証が必要です。
+
 ---
 

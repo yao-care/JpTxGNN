@@ -110,5 +110,10 @@ The txgnn-pipeline skill doesn't add specific constraints for report generation�
 - 日本における PMDA との事前相談および規制パスの検討
 
 > ⚠️ 本レポートは研究参考目的のみです。老藥新用の候補は臨床検証を経るまで医療適用できません。
+## 免責事項
+
+本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。
+臨床応用の前に臨床的検証が必要です。
+
 ---
 

@@ -54,6 +54,22 @@ def get_parent_by_level(level: str) -> str:
         return "僅模型預測 (L5)"
 
 
+def get_disclaimer(base_dir: Path) -> str:
+    """Get localized disclaimer based on project name."""
+    proj = base_dir.name
+    disclaimers = {
+        "ARTxGNN": "\n## Descargo de responsabilidad\n\nEste contenido es solo con fines de investigación y no constituye asesoramiento médico.\nSe requiere validación clínica antes de cualquier aplicación clínica.\n",
+        "BrTxGNN": "\n## Aviso de isenção de responsabilidade\n\nEste conteúdo é apenas para fins de pesquisa e não constitui aconselhamento médico.\nÉ necessária validação clínica antes de qualquer aplicação clínica.\n",
+        "CHTxGNN": "\n## Haftungsausschluss\n\nDiese Vorhersagen dienen ausschließlich Forschungszwecken und stellen keine medizinische Beratung dar.\nVor jeder klinischen Anwendung ist eine klinische Validierung erforderlich.\n",
+        "JpTxGNN": "\n## 免責事項\n\n本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。\n臨床応用の前に臨床的検証が必要です。\n",
+        "SETxGNN": "\n## Ansvarsfriskrivning\n\nDetta innehåll är endast avsett för forskningsändamål och utgör inte medicinsk rådgivning.\nKlinisk validering krävs före klinisk tillämpning.\n",
+        "TwTxGNN": "\n## 免責聲明\n\n本內容僅供研究參考，不構成醫療建議。\n所有老藥新用預測結果需經過臨床驗證才能應用。\n",
+    }
+    # Default English disclaimer for unlisted projects
+    default = "\n## Disclaimer\n\nThis content is for research purposes only and does not constitute medical advice.\nClinical validation is required before any clinical application.\n"
+    return disclaimers.get(proj, default)
+
+
 def sync_notes_to_docs():
     """Main sync function."""
     base_dir = Path(__file__).parent.parent
@@ -126,8 +142,9 @@ indication_count: {indication_count}
 
 """
 
-        # Combine front matter with content
-        full_content = front_matter + content + "\n---\n\n"
+        # Combine front matter with content and disclaimer
+        disclaimer = get_disclaimer(base_dir)
+        full_content = front_matter + content + disclaimer + "\n---\n\n"
 
         # Write to docs/_drugs
         output_path = docs_drugs_dir / f"{drug_name}.md"
