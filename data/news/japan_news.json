@@ -1,31 +1,163 @@
 {
   "source": "japan_news",
-  "fetched_at": "2026-05-04T01:56:28.862544+00:00",
-  "total_fetched": 116,
-  "unique_count": 116,
-  "health_related_count": 34,
+  "fetched_at": "2026-05-04T08:17:00.821032+00:00",
+  "total_fetched": 120,
+  "unique_count": 120,
+  "health_related_count": 42,
   "news": [
     {
-      "id": "3aa58a66a437",
-      "title": "38歳でがん告知「声が出なくなるかもしれない」　元警察官の経営者が直面した、思い通りにならない自分との葛藤(Hint-Pot)",
-      "published": "2026-05-04T01:15:53+00:00",
-      "summary": "元警察官で、現在は年商20億円規模の会社を率いる経営者――これまで、目の前の課題を一つひとつ自らの力で突破してきたという、株式会社トラーチ代表の稲場基泰さん。しかし、38歳の終わりに直面したのは「が",
+      "id": "1e79cd651ede",
+      "title": "49歳で「男性更年期」を自覚。クリニックで診断されるまでの一部始終とは【100人の更年期・GWスペシャル】(OTONA SALONE)",
+      "published": "2026-05-04T08:10:01+00:00",
+      "summary": "ゴールデンウイーク特別企画！オトナサローネで公開された記事の中から、「大反響だった記事」をピックアップしてお届けします。力武亜矢さんによる本シリーズは「自分だけじゃない…と分かっただけでも、気持ちが楽",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/60a41ae1573a98fbaedeb5cbe142c92280209554?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/0739d399a50b52008104adead2ecc7b532b47c52?source=rss"
         }
       ]
     },
     {
-      "id": "44046c105764",
-      "title": "小顔見えが叶う♡ Vネックブラウスの着こなし(CanCam.jp)",
-      "published": "2026-05-04T00:40:01+00:00",
-      "summary": "上半身がパッと華やぐアイキャッチなディテールが、自然と上重心の好バランスに整えてくれるフリルブラウス。立体的なデザインには、すっきりとしたIラインを寸胴に見せないという効果も♪ 縦に落ちるフリルとハ",
+      "id": "399b02082b87",
+      "title": "ねぎの青い部分と白い部分は役割が違う。長ねぎ2本があっという間になくなる「ぐるぐるねぎもち」でわかること(FRaU)",
+      "published": "2026-05-04T08:01:36+00:00",
+      "summary": "厚生労働省が推奨する1日の野菜摂取量は350g。だが、令和5年(2023)の「国民健康・栄養調査」によると、日本人の平均摂取量は256.0g(男性262.2g、女性250.6g)にとどまり、約100g",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/fdd69c5b2c81d637821b06f7ae3d6c9f92ed3266?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/2c985be69f363afa32e2df6fe97f24944859373c?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "185077617e4f",
+      "title": "1週間前にネットで読んだ記事を3つ思い出せる？ 精神科医が警告「情報過多」が心を弱らせるメカニズム(集英社オンライン)",
+      "published": "2026-05-04T08:00:53+00:00",
+      "summary": "精神科医・平光源氏のもとには、原因不明の体調不良を抱えて複数の病院をたらい回しにされた末に訪れる患者が後を絶たない。平氏はその多くは病気ではなく、ネットやテレビの情報が引き起こした不必要な不安と緊張に",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/99cc74430498f81364a1683c37a0805e383d6535?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "636fda8c198a",
+      "title": "初期症状など肺がんにまつわる七つの通説、その真偽は(CNN.co.jp)",
+      "published": "2026-05-04T08:00:00+00:00",
+      "summary": "（CNN） 肺がんで亡くなる米国人はほかのどのがんよりも多く、乳がんに比べると3倍近くに上る。だがマンモグラフィーによる乳がん検診の受診率は8割にも達するのに対し、肺がん検診を受ける人ははるかに少ない",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/abd84d8c9631aaa31197d3cc971b49c790b8c367?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "623a67b6ee6b",
+      "title": "アマミノクロウサギを救う施設「Quru Guru」　奄美大島に開館1年で来場者4万人超(FNNプライムオンライン)",
+      "published": "2026-05-04T07:31:22+00:00",
+      "summary": "鹿児島県・奄美大島の大和村にある、国の特別天然記念物アマミノクロウサギの研究飼育施設「Quru Guru（くるぐる）」が、オープンから1年を迎えた。記念式典では野生復帰の成果が報告され、入館料半額のサ",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/11dacc4645c1ba2024ef501651e6cc31d9eea161?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "d687c8073acc",
+      "title": "レイズ装着車が富士スピードウェイに集結！「RAYS FAN MEETING 2026」が盛大に開催された(AUTO BILD JAPAN Web)",
+      "published": "2026-05-04T06:39:56+00:00",
+      "summary": "今年の特徴は、例年以上に“ユーザー参加型”の色合いが強かった点だ。単なる展示イベントにとどまらず、ジムカーナ同乗体験や、オーナー同士の交流、開発陣との距離の近さが印象的だった。会場には最新作から定番モ",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/cf7c63e4c36c22f46574fbfb811f1fdfeacac5f8?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "8fa7552b8ba2",
+      "title": "「ラーメンを作りました」→「えぇぇ！　すご！」　まさかのアイテムで再現、クオリティの高さに5.6万人驚愕　「お腹すいてくるやつ」(Hint-Pot)",
+      "published": "2026-05-04T06:15:32+00:00",
+      "summary": "懐かしのおもちゃで作られたラーメンが、X（ツイッター）で大きな話題になっています。あまりにおいしそうな仕上がりに、5.6万件もの“いいね”が。話題を呼んだ投稿について、おすし雑貨研究所、松（@y_b",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/dd6afb1ea284e58508500d211592a93c19d7832c?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "5d73743941f3",
+      "title": "【闘病】「何で私ががんになるの!?」ただの咳から一転、恐怖の『卵巣がん』ステージ4 - メディカルドック",
+      "published": "2026-05-04T06:02:17+00:00",
+      "summary": "【闘病】「何で私ががんになるの!?」ただの咳から一転、恐怖の『卵巣がん』ステージ4&nbsp;&nbsp;メディカルドック【闘病】「何で私ががんになるの!?」ただの咳から一転、恐怖の『卵巣がん』ステージ4 (2026年5月4日掲載)&nbsp;&nbsp;ライブドアニュース",
+      "sources": [
+        {
+          "name": "メディカルドック",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9pamMzOEgyMmpkMFlSVWNXMWZwTk15ZjlBWjd6dWZMcjVwZHJRMmpmdmpyTzBlbTR0c0NyZDZBRGJqMTh4WEhveUxVQk9wVWtKM2dhX1ctTXRSZ1RkS2hIWGh2R1VUa0JweUxKSm9PaTQ5dzVnamc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "059dbed9cebf",
+      "title": "60歳以上の貧血、「認知症リスク」が1.7倍上昇―アルツハイマー病とも関連 - メディカルドック",
+      "published": "2026-05-04T06:02:17+00:00",
+      "summary": "60歳以上の貧血、「認知症リスク」が1.7倍上昇―アルツハイマー病とも関連&nbsp;&nbsp;メディカルドック",
+      "sources": [
+        {
+          "name": "メディカルドック",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE43TWs2bTNmUEozbXhfYU5YV3pRQUhReWhweEpERmJTZDZudlBoc3gxOERVX0xOdkRrcU5ieERPaC0zUkp2dF9KcHVhUExHRHZFT1hxWWJVTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8f4735657dc2",
+      "title": "てんかん服薬、運転可能に 医師が判断、添付文書改訂 - 西日本新聞me",
+      "published": "2026-05-04T05:30:00+00:00",
+      "summary": "てんかん服薬、運転可能に 医師が判断、添付文書改訂&nbsp;&nbsp;西日本新聞me",
+      "sources": [
+        {
+          "name": "西日本新聞me",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lNjBkOWVKbWZtUktCMnhqaHlib2RZbllITHZTczFBU0xhTjNmZ1ZmNnFQYnN2bTNUelJQU3BaWXlIbjFVUlk2WllOdDFteFZ1R1RiNnB3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b6306845a6c9",
+      "title": "おいしいコーヒーを見分ける方法は「電気ショック」という研究結果 - Gadget Gate",
+      "published": "2026-05-04T03:30:00+00:00",
+      "summary": "おいしいコーヒーを見分ける方法は「電気ショック」という研究結果&nbsp;&nbsp;Gadget Gate",
+      "sources": [
+        {
+          "name": "Gadget Gate",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xS1VXeXNYaHZXUm9oc1N4LUtnc25oQUpwLTl5aTlKdVhxU2Y1N0drQW1tXzBnbDJ1ODRrdFJnVjRVbk5KTXR4Qnd3R29EMnFCWXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e46ad75e7bb5",
+      "title": "大西洋航海中のクルーズ船でネズミ媒介の「ハンタウイルス」集団感染疑い 3人死亡 - 産経ニュース",
+      "published": "2026-05-04T03:27:18+00:00",
+      "summary": "大西洋航海中のクルーズ船でネズミ媒介の「ハンタウイルス」集団感染疑い 3人死亡&nbsp;&nbsp;産経ニュースGoogle ニュースですべての記事を見る",
+      "sources": [
+        {
+          "name": "産経ニュース",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0VFdGZGhRd1UzOWRCNGRBNG1IQm5NT3NkR0NoV29mY19ldHpzXzJKUFBxWTZSTkZiTjN3UVF3Uk1XV2xmZ1p4X1ZiZXJvLWpBaW0wMHlESE9naDFUZTBobFVfQlZLVjZPaXVPOGdCX3RaSG9oRnc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "263082776f4f",
+      "title": "食物アレルギー増加、周囲の理解で家族全員が同じ食事を - 食品新聞 WEB版",
+      "published": "2026-05-04T03:26:18+00:00",
+      "summary": "食物アレルギー増加、周囲の理解で家族全員が同じ食事を&nbsp;&nbsp;食品新聞 WEB版食物アレルギー増加、周囲の理解で家族全員が同じ食事を | チバテレ＋プラス&nbsp;&nbsp;千葉テレビ放送株式会社少子化・核家族化が子どもの食物アレルギー増加に関連？ 家族構造と乳児期の食事導入を大規模解析 名古屋市立大学&nbsp;&nbsp;sndj-web.jp10年で10倍に急増…『ナッツアレルギー』 2人に1人が抱えるアレルギーの正体 15分で分かる最新血液検査も&nbsp;&nbsp;FNNプライムオンライン",
+      "sources": [
+        {
+          "name": "食品新聞 WEB版",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wX3JqbGtuNEdkUjVIYVRKQ3dwaDNoODBKNEtJWWRJRUNFM3lGVGRxVFd2NVJ3ZWdMSUZZSElTUFRMX2ZkOEFRSnBNNnozbzlzcWNMRUh3U0ZxSktFNHpUMg?oc=5"
         }
       ]
     },
@@ -42,22 +174,10 @@
       ]
     },
     {
-      "id": "137bcc5e85a5",
-      "title": "大西洋航行中のクルーズ船でハンタウイルス感染疑い 6人のうち3人死亡（FNNプライムオンライン（フジテレビ系）） - Yahoo!ニュース",
-      "published": "2026-05-03T23:27:23+00:00",
-      "summary": "大西洋航行中のクルーズ船でハンタウイルス感染疑い 6人のうち3人死亡（FNNプライムオンライン（フジテレビ系））&nbsp;&nbsp;Yahoo!ニュースハンタウイルス疑い3人死亡 WHO&nbsp;&nbsp;Yahoo!ニュース大西洋航行中のクルーズ船でハンタウイルス感染疑い 6人のうち3人死亡（FNNプライムオンライン）&nbsp;&nbsp;ｄメニューニュースクルーズ船内でハンタウイルス感染疑い 3人死亡 WHO&nbsp;&nbsp;AFPBB Newsクルーズ船内でハンタウイルス感染疑い 3人死亡 WHO（ＡＦＰ＝時事）&nbsp;&nbsp;Yahoo!ニュース",
-      "sources": [
-        {
-          "name": "Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE52WFRBYWcwNXJrbUcwSDNTMkVOWkRXWkl6LThZQ3BETE5WSWx6TURQVzAxZEFDUVRjOWMzdXBNQktjNFl0SERaUnMySFpiNzkxT3htVWI2bHAyMVN0V0wyd0xXUVBVU2x2TGJ0MjhMNUJfRm1QcDZWS0czZmEzdjg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4a5ddf474944",
       "title": "はしか感染…20代男性、JR埼京線・上野東京ライン・京浜東北線を利用 蕨の薬局、戸田の食品店も はしかの予防接種歴はなし 発熱やせき、鼻汁 - 47NEWS",
       "published": "2026-05-03T23:18:00+00:00",
-      "summary": "はしか感染…20代男性、JR埼京線・上野東京ライン・京浜東北線を利用 蕨の薬局、戸田の食品店も はしかの予防接種歴はなし 発熱やせき、鼻汁&nbsp;&nbsp;47NEWSはしか患者、昨年の4倍に急増 感染力はインフルの10倍…GW中の拡大懸念&nbsp;&nbsp;ｄメニューニュース麻疹に注意（4月20～26日）&nbsp;&nbsp;岩手日報【解説】「はしか」異例の流行…「感染対策」や「妊婦への影響」は？ 東邦大学・小林寅喆教授が解説【バンキシャ！】&nbsp;&nbsp;日テレNEWS NNNはしか感染…20代男性、JR埼京線・上野東京ライン・京浜東北線を利用 蕨の薬局、戸田の食品店も はしかの予防接種歴はなし 発熱やせき、鼻汁（埼玉新聞）&nbsp;&nbsp;Yahoo!ニュース",
+      "summary": "はしか感染…20代男性、JR埼京線・上野東京ライン・京浜東北線を利用 蕨の薬局、戸田の食品店も はしかの予防接種歴はなし 発熱やせき、鼻汁&nbsp;&nbsp;47NEWSはしか患者、昨年の4倍に急増 感染力はインフルの10倍…GW中の拡大懸念&nbsp;&nbsp;ｄメニューニュース【解説】「はしか」異例の流行…「感染対策」や「妊婦への影響」は？ 東邦大学・小林寅喆教授が解説【バンキシャ！】&nbsp;&nbsp;日テレNEWS NNN麻疹に注意（4月20～26日）&nbsp;&nbsp;岩手日報はしか感染…20代男性、さいたまや蕨の飲食店を利用 医療機関を利用する前、発症日と前日に はしかの予防接種歴あり&nbsp;&nbsp;埼玉新聞",
       "sources": [
         {
           "name": "47NEWS",
@@ -69,7 +189,7 @@
       "id": "9b24e45477df",
       "title": "5位は糖尿病､2位は運動不足…研究で｢日本人の認知症の原因｣1位だとわかった\"意外な要素\"【2026年3月BEST】 - ｄメニューニュース",
       "published": "2026-05-03T07:15:00+00:00",
-      "summary": "5位は糖尿病､2位は運動不足…研究で｢日本人の認知症の原因｣1位だとわかった\"意外な要素\"【2026年3月BEST】&nbsp;&nbsp;ｄメニューニュース5位は糖尿病､2位は運動不足…研究で｢日本人の認知症の原因｣1位だとわかった\"意外な要素\"【2026年3月BEST】 (3ページ目)&nbsp;&nbsp;PRESIDENT Online（プレジデントオンライン）【医師が教える】認知症になりやすい人がしている「勘違い」・ワースト1&nbsp;&nbsp;ダイヤモンド・オンライン食後高血糖がアルツハイマー型認知症のリスクと関連｜CareNet.com&nbsp;&nbsp;CareNet.com認知症発症のリスク1位は難聴、2位は運動不足…ではすべき運動とは？ 49歳オジ記者が学ぶ認知症予防のための「理想の運動習慣」&nbsp;&nbsp;文春オンライン",
+      "summary": "5位は糖尿病､2位は運動不足…研究で｢日本人の認知症の原因｣1位だとわかった\"意外な要素\"【2026年3月BEST】&nbsp;&nbsp;ｄメニューニュース【脳の専門医が教える】「頑張りすぎ」が危険…認知症リスクを招く“脳の炎症”とは？&nbsp;&nbsp;ダイヤモンド・オンライン【医師が教える】認知症になりやすい人が密かに抱えている「原因」の正体（ダイヤモンド・オンライン）&nbsp;&nbsp;Yahoo!ニュース70代の記憶力は20歳の半分？精神科医が教える、脳を活性化する「簡単習慣」&nbsp;&nbsp;ｄメニューニュース食後高血糖がアルツハイマー型認知症のリスクと関連｜CareNet.com&nbsp;&nbsp;CareNet.com",
       "sources": [
         {
           "name": "ｄメニューニュース",
@@ -86,18 +206,6 @@
         {
           "name": "PR TIMES",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HRlA0bFZlVGV1b1p1dHB4cEtqOWNEUjJueXo4anBsbkxHLUJEM0hJNWNYeHJSZ3Vra1kySGx0YUlRbEZudWd0ZkpfanhXU2JqZjV1YkdyOVRrZEhZNHkyNUVvZldpZHB6blE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c6f4cf137187",
-      "title": "春、36歳で、帯状疱疹になりました。 - HAPPY PLUS（ハピプラ）",
-      "published": "2026-05-03T00:37:13+00:00",
-      "summary": "春、36歳で、帯状疱疹になりました。&nbsp;&nbsp;HAPPY PLUS（ハピプラ）36歳、初めて帯状疱疹になったお話～頭の中のリフレッシュも必要～&nbsp;&nbsp;HAPPY PLUS（ハピプラ）帯状疱疹が急増中！免疫学の専門家が教えるこのサインを見逃すと後遺症が残る&nbsp;&nbsp;apf.inc",
-      "sources": [
-        {
-          "name": "HAPPY PLUS（ハピプラ）",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8tbXE5S3ExTVZhWVMzdWVDVjFnZTl2S2lJQUYxSkl4X1hhenFQc0p2SmxicVVDbTA0ai1Xd3p4TkkxOWpmV2F3NlRwaDRHb1YwRWc?oc=5"
         }
       ]
     },
@@ -170,18 +278,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/36ff7e37a73db210ae7f673c7dfa022d3b7b71c4?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "748ddea4602d",
-      "title": "「治療困難」だった心臓の三尖弁逆流症に新たな選択肢―「TriClip」でどう変わる？ - メディカルドック",
-      "published": "2026-05-02T02:04:18+00:00",
-      "summary": "「治療困難」だった心臓の三尖弁逆流症に新たな選択肢―「TriClip」でどう変わる？&nbsp;&nbsp;メディカルドック「治療困難」だった心臓の三尖弁逆流症に新たな選択肢―「TriClip」でどう変わる？（メディカルドック）&nbsp;&nbsp;Yahoo!ニュース難治性心不全に新治療法 〜三尖弁閉鎖不全症、クリップ手術〜（時事通信）&nbsp;&nbsp;Yahoo!ニュース",
-      "sources": [
-        {
-          "name": "メディカルドック",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xaEFoT1BHQ1NZRnFReGo2c2Jwck5FWGJlSHNUQVExR2YwOUxGRnZnYUphajdfOFNmaUtkM0RCeVExNzI0Vk4tLWUyOXcxTEdxSjQ5T19Qalc?oc=5"
         }
       ]
     },
