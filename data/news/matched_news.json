@@ -1,8 +1,352 @@
 {
-  "last_updated": "2026-05-04T19:14:15.257393+00:00",
-  "total_count": 48,
-  "matched_count": 15,
+  "last_updated": "2026-05-05T01:56:48.718200+00:00",
+  "total_count": 37,
+  "matched_count": 14,
   "news": [
+    {
+      "id": "9b72ad430798",
+      "title": "多数の骨転移があるⅣ期前立腺がんに悩む70代男性「治療法は」　専門医が回答　がん電話相談から(産経新聞)",
+      "published": "2026-05-05T01:16:03+00:00",
+      "summary": "今回は、骨に転移し悪性度が高い前立腺がんで治療法を迷っている70代男性の悩みに、がん研有明病院副院長で泌尿器科部長の米瀬淳二医師が答えます。 ──排尿時に痛みがあり、令和7年4月に受診。前立腺の炎症",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/865147d45ef30df17f2955c18ec5d5ed143020ce?source=rss"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "acyclovir",
+              "name": "ゾビラックス軟膏５％（選）"
+            },
+            {
+              "slug": "theophylline",
+              "name": "ユニコン錠１００　１００ｍｇ（選）"
+            },
+            {
+              "slug": "risperidone",
+              "name": "リスパダール錠２ｍｇ（選）"
+            },
+            {
+              "slug": "valproic-acid",
+              "name": "セレニカＲ顆粒４０％（選）"
+            },
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "atorvastatin",
+              "name": "アトーゼット配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "cyclosporine",
+              "name": "ネオーラル５０ｍｇカプセル（選）"
+            },
+            {
+              "slug": "azithromycin",
+              "name": "ジスロマック細粒小児用１０％　１００ｍｇ（選）"
+            },
+            {
+              "slug": "valsartan",
+              "name": "ディオバンＯＤ錠１６０ｍｇ（選）"
+            },
+            {
+              "slug": "carbamazepine",
+              "name": "テグレトール錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "morphine",
+              "name": "モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」"
+            },
+            {
+              "slug": "pravastatin",
+              "name": "メバロチン錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "atenolol",
+              "name": "テノーミン錠５０　５０ｍｇ（選）"
+            },
+            {
+              "slug": "loperamide",
+              "name": "ロペミンカプセル１ｍｇ（選）"
+            },
+            {
+              "slug": "simvastatin",
+              "name": "リポバス錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "carvedilol",
+              "name": "アーチスト錠２０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "diazepam",
+              "name": "ホリゾン錠５ｍｇ（選）"
+            },
+            {
+              "slug": "lorazepam",
+              "name": "ワイパックス錠１．０　１ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "spironolactone",
+              "name": "アルダクトンＡ錠５０ｍｇ（選）"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "ロプレソール錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "enalapril",
+              "name": "レニベース錠１０　１０ｍｇ（選）"
+            },
+            {
+              "slug": "lisinopril",
+              "name": "ロンゲス錠２０ｍｇ（選）"
+            },
+            {
+              "slug": "diltiazem",
+              "name": "ヘルベッサー錠６０　６０ｍｇ（選）"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "エックスフォージ配合ＯＤ錠（選）"
+            },
+            {
+              "slug": "clarithromycin",
+              "name": "クラリス錠５０小児用　５０ｍｇ（選）"
+            },
+            {
+              "slug": "furosemide",
+              "name": "ラシックス錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "lidocaine",
+              "name": "リドカイン（１８ｍｇ）３０．５ｍｍ×５０．０ｍｍ貼付剤"
+            },
+            {
+              "slug": "bisoprolol",
+              "name": "メインテート錠５ｍｇ（選）"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "ミカムロ配合錠ＢＰ（選）"
+            },
+            {
+              "slug": "rosuvastatin",
+              "name": "クレストールＯＤ錠５ｍｇ（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "clopidogrel",
+              "name": "プラビックス錠７５ｍｇ（選）"
+            },
+            {
+              "slug": "sertraline",
+              "name": "ジェイゾロフトＯＤ錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "timolol",
+              "name": "デュオトラバ配合点眼液（選）"
+            },
+            {
+              "slug": "diclofenac",
+              "name": "ボルタレンサポ５０ｍｇ（選）"
+            },
+            {
+              "slug": "budesonide",
+              "name": "シムビコートタービュヘイラー６０吸入（選）"
+            },
+            {
+              "slug": "moxifloxacin",
+              "name": "ベガモックス点眼液０．５％（選）"
+            },
+            {
+              "slug": "verapamil",
+              "name": "ワソラン錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "levofloxacin",
+              "name": "クラビット点眼液１．５％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "celecoxib",
+              "name": "セレコックス錠２００ｍｇ（選）"
+            },
+            {
+              "slug": "ezetimibe",
+              "name": "ゼチーア錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "topiramate",
+              "name": "トピナ錠２５ｍｇ（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "montelukast",
+              "name": "シングレアＯＤ錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "lamotrigine",
+              "name": "ラミクタール錠２５ｍｇ（選）"
+            },
+            {
+              "slug": "hydrochlorothiazide",
+              "name": "プレミネント配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "losartan",
+              "name": "ニューロタン錠５０ｍｇ（選）"
+            },
+            {
+              "slug": "latanoprost",
+              "name": "ザラカム配合点眼液（選）"
+            },
+            {
+              "slug": "clotrimazole",
+              "name": "エンペシドクリーム１％（選）"
+            },
+            {
+              "slug": "amoxicillin",
+              "name": "ワイドシリン細粒２０％　２００ｍｇ"
+            },
+            {
+              "slug": "ampicillin",
+              "name": "ビクシリンＳ配合錠　（２５０ｍｇ）"
+            },
+            {
+              "slug": "lamivudine",
+              "name": "エプジコム配合錠（選）"
+            },
+            {
+              "slug": "warfarin",
+              "name": "ワルファリンＫ細粒０．２％「ＮＳ」"
+            },
+            {
+              "slug": "fenofibrate",
+              "name": "トライコア錠８０ｍｇ（選）"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            },
+            {
+              "slug": "prasugrel",
+              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
+            },
+            {
+              "slug": "tramadol",
+              "name": "トラマールＯＤ錠５０ｍｇ（選）"
+            },
+            {
+              "slug": "metronidazole",
+              "name": "メトロニダゾールゲル０．７５％「マルイシ」"
+            },
+            {
+              "slug": "lactulose",
+              "name": "ラグノスＮＦ経口ゼリー分包１２ｇ　５４．１６７％"
+            },
+            {
+              "slug": "levetiracetam",
+              "name": "レベチラセタム粒状錠５００ｍｇ「サワイ」"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ea7b462f5d30",
+      "title": "クルーズ船で「ハンタウイルス」集団感染か、３人死亡…乗客１５０人の中に日本人１人",
+      "published": "2026-05-05T00:20:00+00:00",
+      "summary": "クルーズ船で「ハンタウイルス」集団感染か、３人死亡…乗客１５０人の中に日本人１人&nbsp;&nbsp;読売新聞集団感染疑い クルーズ船に日本人&nbsp;&nbsp;Yahoo!ニュース大西洋航行のクルーズ船で3人死亡 ハンタウイルス感染か WHO | NHKニュース | WHO、医療・健康、アフリカ&nbsp;&nbsp;NHKニュース272 クルーズ船で集団感染…「ハンタウイルス」とは｜キキコミ｜news zero&nbsp;&nbsp;日本テレビ乗客の１人は日本人 集団感染疑いのクルーズ船&nbsp;&nbsp;時事ドットコム",
+      "sources": [
+        {
+          "name": "読売新聞",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Md2RlM3hTaFZidGRzUFRSb00wNFpIMlo0bzZKckxvdEQxaDdPWXNTWnBlMkJodi1wRUlXV3ZmRXlzNk1HVmQyTW9mZDFYWkE2ekdHYS03aXRHNG1ESlRjcllB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "68831bcd813d",
+      "title": "脳を自ら破壊する免罪符の罠...アクティブな人ほど陥りやすい「免罪符」 (2026年5月5日掲載)",
+      "published": "2026-05-04T22:25:00+00:00",
+      "summary": "脳を自ら破壊する免罪符の罠...アクティブな人ほど陥りやすい「免罪符」 (2026年5月5日掲載)&nbsp;&nbsp;ライブドアニュース【脳の専門医が教える】「頑張りすぎ」が危険…認知症リスクを招く“脳の炎症”とは？&nbsp;&nbsp;ダイヤモンド・オンライン認知症を避けたいなら知っておきたい言葉「糖に毒された脳」とは？(ダイヤモンド・オンライン)&nbsp;&nbsp;Yahoo!ファイナンス【医師が教える】認知症になりやすい人がしている「勘違い」・ワースト1&nbsp;&nbsp;ダイヤモンド・オンライン｢脳トレ｣｢早口言葉｣よりもうんと効果的…専門医が｢認知症予防｣に勧める｢本当に脳にいいお手軽趣味｣【2026年3月BEST】&nbsp;&nbsp;PRESIDENT Online（プレジデントオンライン）",
+      "sources": [
+        {
+          "name": "ライブドアニュース",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPT2p2NncyZ1lsaWJfM2I4M3FPdkRGUWZZazdlb3ExMU5falVBVnZfN19pTk1MRVpFbjRXbWZibTItLW9ZWnVsWUQzOHVlUEwxOGFONUM4QXVPR0taZ3c?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "認知症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bfa7dc85a8ac",
+      "title": "【独自検証】空気感染も…はしか感染力は“最強クラス” 空気の流れを可視化し検証 対策は…【バンキシャ！】",
+      "published": "2026-05-04T22:13:27+00:00",
+      "summary": "【独自検証】空気感染も…はしか感染力は“最強クラス” 空気の流れを可視化し検証 対策は…【バンキシャ！】&nbsp;&nbsp;ｄメニューニュースGoogle ニュースですべての記事を見る",
+      "sources": [
+        {
+          "name": "ｄメニューニュース",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVmFSdWVrTDZfWV9GQVNpMzcyalR2OGJqS3d5bmdFSEZMSmZtTHAyaVo1X1BXTVNoNGRGenpwUlU4U2N3eW1XWFVWVWl1aG0tZzMtSlhRS0lwRk56bmdodTFJZjBtRXE1Ry02N3FxY0t6emVTa0V0SWZmbEYxd25TOHhaUENVbEZtWUtvSFVB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "b5ebf591c895",
       "title": "大分岡病院が分枝付き人工血管置換手術に成功 九州、中四国地方で初の実施例に",
@@ -17,19 +361,6 @@
       "matched_keywords": []
     },
     {
-      "id": "1ef0171e0548",
-      "title": "クルーズ船でハンタウイルス感染、3人死亡 WHO「一般リスク低い」",
-      "published": "2026-05-04T17:43:56+00:00",
-      "summary": "クルーズ船でハンタウイルス感染、3人死亡 WHO「一般リスク低い」&nbsp;&nbsp;日本経済新聞大西洋航行のクルーズ船で3人死亡 ハンタウイルス感染か WHO | NHKニュース | WHO、医療・健康、アフリカ&nbsp;&nbsp;NHKニュースクルーズ船で「ハンタウイルス」の集団感染か オランダ人男性と妻、身元不明の人の計3人死亡（日テレNEWS NNN）&nbsp;&nbsp;Yahoo!ニュース集団感染か 3人死亡 クルーズ船内ハンタウイルス&nbsp;&nbsp;沖縄タイムス社乗客死亡で隔離のクルーズ船、集団感染の疑いでアフリカ沖で足止め&nbsp;&nbsp;Bloomberg.com",
-      "sources": [
-        {
-          "name": "日本経済新聞",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QdUY5dXhnS1J5WExIZ1BZYjB1VFAwbUV6Umt3M2pGVHpkbGVmaUJCVHN6NTNEYlFRd1BrSkZHS0l5Q2VxbFdsX3JVYTNDd1Y5eVozME9vT0JYVzJrMTBNQl9KemotYWdVMHhnNA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "9c210953925b",
       "title": "太陽系の果ての小天体に大気　常識覆す発見　冥王星以外で初、恒星の光の「にじみ」から(産経新聞)",
       "published": "2026-05-04T15:08:11+00:00",
@@ -38,123 +369,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/285efe2398c2749998855eac5c23e875f2eef244?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "06a56351f558",
-      "title": "無理な早起きは逆効果？米医師が説く、体への負担を減らす「起床時間」の新常識(ウィメンズヘルス)",
-      "published": "2026-05-04T14:00:02+00:00",
-      "summary": "しっかり眠ることは、さまざまな不調を遠ざけるための土台である。「すぐ眠りにつきたい人」もいれば、「途中で起きずに朝まで眠りたい人」も。年齢とともに睡眠が変化するのは自然なことだけど、年を重ねるほど“早",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/6f000d21893bb34bda119c3eb341fbe1c095891f?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "a5d014c9d6c8",
-      "title": "「痛い＝効く」は誤り！意外と軽視されがちなストレッチの効果と科学的事実(ライフハッカー・ジャパン)",
-      "published": "2026-05-04T13:01:01+00:00",
-      "summary": "柔軟性は、健康のための体づくりの中でも意外と軽視されがちです。 年齢を重ねるにつれ、体の可動域は少しずつ狭まっていってしまいます。周りの年配の方で、無理なく頭の上に手をまっすぐ伸ばせる人がどれくらい",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/12e64aed5ccd2ab298e62f62216cce89ec91cc0c?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "5f97f8e6e61a",
-      "title": "2児ママが10年間着け続けた指輪→裏側をふと見ると……　驚きの大発見に「おしゃれな細工」「なんて素敵なの！」(ねとらぼ)",
-      "published": "2026-05-04T13:00:00+00:00",
-      "summary": "長年手元を飾っていた指輪を改めて見てみたら……。驚きの発見がThreadsに投稿されました。記事執筆時点でこの投稿の閲覧数は6万9000回を突破し、「おしゃれな細工ですねぇ」「こういう仕掛けとても好",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/788394ab9f134443e283891119661fc6cedee526?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "48d5d4e30c98",
-      "title": "1杯で「1日分の若返りビタミン」 身近にある「抗酸化ミルク」(GISELe)",
-      "published": "2026-05-04T12:34:00+00:00",
-      "summary": "低カロリーでヘルシー。なのに栄養分が豊富。乳製品を控えたい方や、ヴィーガン、乳糖不耐症の方でも安心して取り入れられる植物性ミルクとして人気の「アーモンドミルク」は、抗老化や美容にも効果てきめんのドリン",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/8d7169cd2bfabbc63e643c9e3594e4041366a705?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "930a7e522506",
-      "title": "つらい肩こりや首のこわばりにおすすめのツボ「曲垣」。五十肩の人はぜひお試しを(家庭画報.com)",
-      "published": "2026-05-04T12:30:02+00:00",
-      "summary": "中医学のエキスパートである鍼灸師の兵頭 明先生が、ツボの効能や位置、効くメカニズムを解説します。健康の土台作りに、不調改善に、1日1分のツボ押しを習慣にしましょう。",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/207dc88e02b8232aac7817e1db4621254b2dad76?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "c3d495bcc848",
-      "title": "卵子提供だけで子を持てたらリスク回避になる？ 子どもを持ちたい理由について考えさせられる衝撃作【著者インタビュー】(ダ・ヴィンチWeb)",
-      "published": "2026-05-04T12:30:00+00:00",
-      "summary": "出産経験のない女性のもとに、ある日突然「あなたの子どもです」と少女が訪ねてくる。少女は、女性の“卵子提供”によって生まれた子どもだった——。『egg わたし、あなたの子どもです。』（鳥野しの/KADO",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/8ab5225903604bfe86462bc3ab1b180a2f50502b?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "1754a0ff5827",
-      "title": "「健康のつもりが逆効果？」サプリメントや栄養ドリンクによるビタミンB6“摂りすぎ”で起こることは(ヨガジャーナルオンライン)",
-      "published": "2026-05-04T12:25:00+00:00",
-      "summary": "「疲れが取れるから」「美容にいいから」と何気なく口にするエナジードリンクやサプリメント。その良かれと思った習慣が、実はあなたの神経を修復不可能なレベルまで蝕んでいるかもしれない。 ■ビタミンB6の摂",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/6882c75ef5bcafe575b68ddc7503c23ed4b5a59a?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "92c88f261e3f",
-      "title": "【ファミマ】朝食は“10分未満”最多　料理研究家のタイパ＆コスパ「最高」の朝食メニューを紹介(オトナンサー)",
-      "published": "2026-05-04T12:15:00+00:00",
-      "summary": "進学や就職、転勤など環境の変化が起きた4月が過ぎ、ゴールデンウィーク（GW）を迎えている人は多いのではないでしょうか。GW中や明けは、無気力になったり、不眠、食欲不振、倦怠（けんたい）感になったりす",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/1ed921a1a4a07ccdce9150ddc45113be8aa3c7f9?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "b35f271e4646",
-      "title": "【全身がスーッと軽くなる】「疲れやすさ」の正体は呼吸の浅さ？「猫の伸びのポーズ」の驚きの効果(ヨガジャーナルオンライン)",
-      "published": "2026-05-04T12:15:00+00:00",
-      "summary": "しっかり寝ているのに疲れが取れない、午後になるとぐったりする…。その「疲れやすさ」の原因は、呼吸の浅さにあるかもしれません。呼吸が浅いと体内に酸素が行き渡らず、代謝が落ちて疲労が蓄積しやすくなります。",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/1fffc5ad223f938932369daa90ff710300c1af7a?source=rss"
         }
       ],
       "matched_keywords": []
@@ -1267,7 +1481,7 @@
       "id": "263082776f4f",
       "title": "食物アレルギー増加、周囲の理解で家族全員が同じ食事を - 食品新聞 WEB版",
       "published": "2026-05-04T03:26:18+00:00",
-      "summary": "食物アレルギー増加、周囲の理解で家族全員が同じ食事を&nbsp;&nbsp;食品新聞 WEB版食物アレルギー増加、周囲の理解で家族全員が同じ食事を | チバテレ＋プラス&nbsp;&nbsp;千葉テレビ放送少子化・核家族化が子どもの食物アレルギー増加に関連？ 家族構造と乳児期の食事導入を大規模解析 名古屋市立大学&nbsp;&nbsp;sndj-web.jp10年で10倍に急増…『ナッツアレルギー』 2人に1人が抱えるアレルギーの正体 15分で分かる最新血液検査も&nbsp;&nbsp;FNNプライムオンライン",
+      "summary": "食物アレルギー増加、周囲の理解で家族全員が同じ食事を&nbsp;&nbsp;食品新聞 WEB版食物アレルギー増加、周囲の理解で家族全員が同じ食事を | チバテレ＋プラス&nbsp;&nbsp;千葉テレビ放送10年で10倍に急増…『ナッツアレルギー』 2人に1人が抱えるアレルギーの正体 15分で分かる最新血液検査も&nbsp;&nbsp;FNNプライムオンライン",
       "sources": [
         {
           "name": "食品新聞 WEB版",
@@ -1290,27 +1504,14 @@
       "matched_keywords": []
     },
     {
-      "id": "4a5ddf474944",
-      "title": "はしか感染…20代男性、JR埼京線・上野東京ライン・京浜東北線を利用 蕨の薬局、戸田の食品店も はしかの予防接種歴はなし 発熱やせき、鼻汁",
-      "published": "2026-05-03T23:18:00+00:00",
-      "summary": "はしか感染…20代男性、JR埼京線・上野東京ライン・京浜東北線を利用 蕨の薬局、戸田の食品店も はしかの予防接種歴はなし 発熱やせき、鼻汁&nbsp;&nbsp;47NEWSはしか患者、昨年の4倍に急増 感染力はインフルの10倍…GW中の拡大懸念（産経新聞）&nbsp;&nbsp;Yahoo!ニュース【はしかは1人から約10人～20人にうつる】遠くまで漂い少量のウイルスでも感染する／ワクチン接種を2回：免疫獲得が90%では感染拡大、95%以上で防げる／感染症専門医・上原由紀【1on1Health】&nbsp;&nbsp;TBS NEWS DIG【解説】「はしか」異例の流行…「感染対策」や「妊婦への影響」は？ 東邦大学・小林寅喆教授が解説【バンキシャ！】&nbsp;&nbsp;日テレNEWS NNN麻疹に注意（4月20～26日）&nbsp;&nbsp;岩手日報",
-      "sources": [
-        {
-          "name": "47NEWS",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBzNGlENnNrM3pLNC1LMl9GSUJfQ29zbFVnbUdtalI3QXJCWV9iRW1xcW5xVWFzdG5RTmEtRnNZZEJhVUpSVjFSLUpqOA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "9b24e45477df",
+      "id": "20dadf7eb554",
       "title": "5位は糖尿病､2位は運動不足…研究で｢日本人の認知症の原因｣1位だとわかった\"意外な要素\"【2026年3月BEST】",
-      "published": "2026-05-03T07:15:00+00:00",
-      "summary": "5位は糖尿病､2位は運動不足…研究で｢日本人の認知症の原因｣1位だとわかった\"意外な要素\"【2026年3月BEST】&nbsp;&nbsp;ｄメニューニュース【脳の専門医が教える】「頑張りすぎ」が危険…認知症リスクを招く“脳の炎症”とは？&nbsp;&nbsp;ダイヤモンド・オンライン認知症を避けたいなら知っておきたい言葉「糖に毒された脳」とは？(ダイヤモンド・オンライン)&nbsp;&nbsp;Yahoo!ファイナンス｢脳トレ｣｢早口言葉｣よりもうんと効果的…専門医が｢認知症予防｣に勧める｢本当に脳にいいお手軽趣味｣【2026年3月BEST】&nbsp;&nbsp;PRESIDENT Online（プレジデントオンライン）5位は糖尿病､2位は運動不足…研究で｢日本人の認知症の原因｣1位だとわかった\"意外な要素\"【2026年3月BEST】 (4ページ目)&nbsp;&nbsp;PRESIDENT Online（プレジデントオンライン）",
+      "published": "2026-05-03T07:15:24+00:00",
+      "summary": "5位は糖尿病､2位は運動不足…研究で｢日本人の認知症の原因｣1位だとわかった\"意外な要素\"【2026年3月BEST】&nbsp;&nbsp;ニコニコニュースGoogle ニュースですべての記事を見る",
       "sources": [
         {
-          "name": "ｄメニューニュース",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMHJBUm9qS0FyZHZuQWlsVjJ4aEpGWlpLRy14bnhsVzl5TTh4Z0RsZ3VScW4tSmwwM0w5cjk4RDNfdFJ5Zm05d2xWVnVYMGJ2T3VMVURLbGdiUklRTDR6RC1tWHM2WUJvS29ySFhYNXZSaTBRN3pxWkFmWkhZM01pNXVn?oc=5"
+          "name": "ニコニコニュース",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9saUkxRTJYekRfVHQ1Z0g0QzZFa2VEYUFXLXVFNDltejZ3c3BYcE5uOVFqaG4xTXU1anZZdmJ2M0xPSGg2TFpodUZxMUZxMHRRYW10aQ?oc=5"
         }
       ],
       "matched_keywords": [
@@ -1343,117 +1544,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "c6f4cf137187",
-      "title": "春、36歳で、帯状疱疹になりました。 - HAPPY PLUS（ハピプラ）",
-      "published": "2026-05-03T00:37:13+00:00",
-      "summary": "春、36歳で、帯状疱疹になりました。&nbsp;&nbsp;HAPPY PLUS（ハピプラ）「帯状疱疹」のピリピリ“初期症状”で冷やすのはNG？ 痛みを悪化させる「落とし穴」 (2026年5月4日掲載)&nbsp;&nbsp;ライブドアニュース",
-      "sources": [
-        {
-          "name": "HAPPY PLUS（ハピプラ）",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8tbXE5S3ExTVZhWVMzdWVDVjFnZTl2S2lJQUYxSkl4X1hhenFQc0p2SmxicVVDbTA0ai1Xd3p4TkkxOWpmV2F3NlRwaDRHb1YwRWc?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "herpes zoster",
-          "keyword": "帯状疱疹",
-          "related_drugs": [
-            {
-              "slug": "acyclovir",
-              "name": "ゾビラックス軟膏５％（選）"
-            },
-            {
-              "slug": "azithromycin",
-              "name": "ジスロマック細粒小児用１０％　１００ｍｇ（選）"
-            },
-            {
-              "slug": "metronidazole",
-              "name": "メトロニダゾールゲル０．７５％「マルイシ」"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "6946e7ffe22c",
-      "title": "インフルエンザワクチン接種で小児の救急外来受診と入院を50％減少 アメリカCDCの報告を医師が解説",
-      "published": "2026-05-03T00:01:30+00:00",
-      "summary": "インフルエンザワクチン接種で小児の救急外来受診と入院を50％減少 アメリカCDCの報告を医師が解説&nbsp;&nbsp;東京報道新聞",
-      "sources": [
-        {
-          "name": "東京報道新聞",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE11bEMyV09QTjd5MVlaOTJwaFFtbUZBM3l2RFktQllmSjRhVFNxT1JDOEVuRi1zQkpkbnM5eUNscHZIR0pndFdJMmhGdHNrOGhCeFVv?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "influenza",
-          "keyword": "インフルエンザ",
-          "related_drugs": [
-            {
-              "slug": "oseltamivir",
-              "name": "タミフルドライシロップ３％（選）"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "528181c2911f",
-      "title": "コロナ激減「多数が免疫獲得」 連休、高齢者ら人混み注意―５類移行３年・ＪＩＨＳ",
-      "published": "2026-05-02T22:05:00+00:00",
-      "summary": "コロナ激減「多数が免疫獲得」 連休、高齢者ら人混み注意―５類移行３年・ＪＩＨＳ&nbsp;&nbsp;時事ドットコムGoogle ニュースですべての記事を見る",
-      "sources": [
-        {
-          "name": "時事ドットコム",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE01T19nd2tHZ3hzdjRweGl3eGlQUnVoM2M1S0oxUFpnS3NwYkExOGhINjJCdTVsM0RZWHhDMGxMNkJNN1hWU2pNanlTMEozOW5nQ2w5U01JTzNHdE5rQUFkemJNcw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "9c2dadcbc356",
-      "title": "高用量のインフルエンザワクチンで認知症のさらなる予防｜医者も知らない医学の新常識",
-      "published": "2026-05-02T21:00:00+00:00",
-      "summary": "高用量のインフルエンザワクチンで認知症のさらなる予防｜医者も知らない医学の新常識&nbsp;&nbsp;日刊ゲンダイDIGITAL",
-      "sources": [
-        {
-          "name": "日刊ゲンダイDIGITAL",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GbHRhLThGMHR3cW03aWdrZUI3NkpVMzdUdVFyOEV5T2lxaFdXSVBYSVBkNi1CMmZWWlNjeWlpdjlVMkRyNzl4cFh1dm9XVlZabmthY3dubXUtcjFpZDU0b296Ukx4SEQ5?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "認知症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "influenza",
-          "keyword": "インフルエンザ",
-          "related_drugs": [
-            {
-              "slug": "oseltamivir",
-              "name": "タミフルドライシロップ３％（選）"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "0e0b036f9edc",
