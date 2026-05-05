@@ -1,17 +1,236 @@
 {
-  "last_updated": "2026-05-05T01:56:48.718200+00:00",
-  "total_count": 37,
-  "matched_count": 14,
+  "last_updated": "2026-05-05T07:54:07.469821+00:00",
+  "total_count": 41,
+  "matched_count": 16,
   "news": [
     {
-      "id": "9b72ad430798",
-      "title": "多数の骨転移があるⅣ期前立腺がんに悩む70代男性「治療法は」　専門医が回答　がん電話相談から(産経新聞)",
-      "published": "2026-05-05T01:16:03+00:00",
-      "summary": "今回は、骨に転移し悪性度が高い前立腺がんで治療法を迷っている70代男性の悩みに、がん研有明病院副院長で泌尿器科部長の米瀬淳二医師が答えます。 ──排尿時に痛みがあり、令和7年4月に受診。前立腺の炎症",
+      "id": "74e91a2b4659",
+      "title": "野菜はオーガニックがいい？ グルテンフリーはメリットなし？ プリン体ゼロは“意味ナシ”？ 健康神話のウソ・ホント5選(GOETHE)",
+      "published": "2026-05-05T07:30:26+00:00",
+      "summary": "ニューヨークで活躍する専門医・山田悠史氏が、インターネットやSNS上に流れてくる数々の健康神話の真相を解き明かす、『最新科学が覆す 体にいいのはどっち?』（サンクチュアリ出版）の抜粋記事をまとめてお届",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/865147d45ef30df17f2955c18ec5d5ed143020ce?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/cf7ba7e719e74acf603ef27aebd8c37b5af85946?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "ffd7d32fd941",
+      "title": "「血圧は無理に下げ過ぎない」「食事のコレステロールも中性脂肪も減らさなくていい」医学常識のウソに迫る【まとめ】(GOETHE)",
+      "published": "2026-05-05T07:30:12+00:00",
+      "summary": "2025年、製薬企業との利益相反の医師が多い日本高血圧学会が血圧の治療目標値を“年齢に関係なく”「130／80mmHg未満」に下げると発表した。これにより高血圧との診断を受け、薬を飲む人の激増が予想さ",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/2e8461b9221378816fbe01410bd1c8640c6676a4?source=rss"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "hypertension",
+          "keyword": "高血圧",
+          "related_drugs": [
+            {
+              "slug": "nifedipine",
+              "name": "アダラートＣＲ錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "エックスフォージ配合ＯＤ錠（選）"
+            },
+            {
+              "slug": "diltiazem",
+              "name": "ヘルベッサー錠６０　６０ｍｇ（選）"
+            },
+            {
+              "slug": "timolol",
+              "name": "デュオトラバ配合点眼液（選）"
+            },
+            {
+              "slug": "verapamil",
+              "name": "ワソラン錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "hydrochlorothiazide",
+              "name": "プレミネント配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "losartan",
+              "name": "ニューロタン錠５０ｍｇ（選）"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "ミカムロ配合錠ＢＰ（選）"
+            },
+            {
+              "slug": "valsartan",
+              "name": "ディオバンＯＤ錠１６０ｍｇ（選）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c1dcb6dcece4",
+      "title": "認知症グループホームで暮らす入居者の家族から「レクリエーションが幼稚だ」発言　困った職員が取った対策と悲しい結末(介護ポストセブン)",
+      "published": "2026-05-05T07:15:00+00:00",
+      "summary": "認知症グループホームで働く職員で作家の畑江ちか子さん。施設での生活に彩りを添えるのが「レクリエーション」とは思うものの、なかなかひとり一人のレベルにあわせたレクを実施するのは難しい…。入居者のご家族",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/563a44d86ed55436f7b659e28aa066e933924576?source=rss"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "認知症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c4c01857eba5",
+      "title": "目の前で車に当て逃げされた野良猫を保護。犬派だった飼い主が“猫と暮らす幸せ”を実感し、無類の猫好きになるまで(女子SPA！)",
+      "published": "2026-05-05T06:47:13+00:00",
+      "summary": "【今日のにゃんこタイム～○○さん家の猫がかわいすぎる Vol.200】 「ガンチャンと出会って、私は猫好きになりました。命の尊さや健康のありがたみも痛感しましたし、保護猫団体さんへの支援もするように",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/be0998fc13035fb0d09e0f8175072604464ef870?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "f25aa830c2f4",
+      "title": "英陶芸家 ルーシー・リーの回顧展が東京都庭園美術館で開催　日本では約10年ぶり(FASHIONSNAP)",
+      "published": "2026-05-05T06:00:00+00:00",
+      "summary": "東京都庭園美術館が、20世紀を代表するイギリスの陶芸家 ルーシー・リー（Lucie Rie）の回顧展「ルーシー・リー展 ―東西をつなぐ優美のうつわ―」を開催する。会期は7月4日から9月13日まで。日",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/618f4f34cec5dabae1cd19e4b3a8395694867049?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "ea90860aeb45",
+      "title": "クラッシックカーイベントボランティア応援記（その2）日本最高峰のコンクール「コンコルソ デレガンツァ ジャパン2026」(AUTO BILD JAPAN Web)",
+      "published": "2026-05-05T05:50:23+00:00",
+      "summary": "2026年4月11日（土）と12日（日）の2日間、日本最高峰のクラシックカーコンクール「コンコルソ デレガンツァ ジャパン2026」が奈良県奈良市の世界遺産「薬師寺」で開催された。 筆者はCCCJ(",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/d17503fbcd925d52702e5be6c5c0afd5a3ba4c8f?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "8f0626b00dd3",
+      "title": "地上からの超低周波音を高度100km超でキャッチ　民間ロケット「MOMO3号機」搭載装置の成果(sorae 宇宙へのポータルサイト)",
+      "published": "2026-05-05T03:47:07+00:00",
+      "summary": "高知工科大学と公立千歳科学技術大学の研究者らは、インターステラテクノロジズ株式会社の観測ロケット「宇宙品質にシフト MOMO3号機」（以下「MOMO3号機」）に搭載したセンサーによって、地上に由来する",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/e5966a9e2ea2f6d667d10c08a80749e1ea2a56ce?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "11498e357062",
+      "title": "ある日、娘の目に違和感。→病院へ連れて行くと…医者「即入院です」1歳7ヶ月の娘が診断された病名と、母の思いに迫る",
+      "published": "2026-05-05T02:24:22+00:00",
+      "summary": "ある日、娘の目に違和感。→病院へ連れて行くと…医者「即入院です」1歳7ヶ月の娘が診断された病名と、母の思いに迫る&nbsp;&nbsp;Yahoo!ニュース",
+      "sources": [
+        {
+          "name": "Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5SVGNuR1BYdWhERW1jM09GbWc3bWItX1Zob1lpYnJXdUYwckVaZ0Z4WThhMkNvck80b21uZDVDMFFYWG8ydGk0T2dORHF6MDAyLS1jQ3BZLWUwYWJIUUxmdUkzS0ptdGZHN2Z2NHIxR1ZGM1RCSklUWGRsdWNrSGs?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "42878bf4c1e3",
+      "title": "市民感染「リスク低い」とＷＨＯ クルーズ船ハンタウイルス疑いで",
+      "published": "2026-05-05T01:26:12+00:00",
+      "summary": "市民感染「リスク低い」とＷＨＯ クルーズ船ハンタウイルス疑いで&nbsp;&nbsp;東京新聞デジタルクルーズ船に日本人1人乗船 ハンタウイルスの集団感染の疑い 3人死亡&nbsp;&nbsp;テレ朝NEWSハンタウイルス集団感染 クルーズ船に日本人1人 乗客3人死亡も拡大リスク低くWHOは冷静な対応求める&nbsp;&nbsp;FNNプライムオンラインクルーズ船で集団感染、3人死亡 ネズミなどげっ歯類媒介のハンタウイルスとは&nbsp;&nbsp;CNN大西洋を航行中のクルーズ船で「ハンタウイルス」集団感染の疑い 3人死亡（2026年5月4日掲載）｜日テレNEWS NNN&nbsp;&nbsp;日テレNEWS NNN",
+      "sources": [
+        {
+          "name": "東京新聞デジタル",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9yV2lsUlRDVEdvbUppLWU1cERKTG1GVmtVdlNZZW9TUmtkMTVMenBwbWhmcXZCYl80SmZBRFRxc1VXRkJVOFhJRzQ2UnQweEltMHlJ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "84bf8ac2b18b",
+      "title": "【脳の専門医が教える】「運動しているから大丈夫」の落とし穴…認知症リスクを高めるNG習慣 (2026年5月5日掲載)",
+      "published": "2026-05-04T22:25:00+00:00",
+      "summary": "【脳の専門医が教える】「運動しているから大丈夫」の落とし穴…認知症リスクを高めるNG習慣 (2026年5月5日掲載)&nbsp;&nbsp;ライブドアニュース【脳の専門医が教える】「頑張りすぎ」が危険…認知症リスクを招く“脳の炎症”とは？&nbsp;&nbsp;ダイヤモンド・オンライン認知症を避けたいなら知っておきたい言葉「糖に毒された脳」とは？(ダイヤモンド・オンライン)&nbsp;&nbsp;Yahoo!ファイナンス【医師が教える】認知症になりやすい人がしている「勘違い」・ワースト1&nbsp;&nbsp;ダイヤモンド・オンライン｢脳トレ｣｢早口言葉｣よりもうんと効果的…専門医が｢認知症予防｣に勧める｢本当に脳にいいお手軽趣味｣【2026年3月BEST】&nbsp;&nbsp;PRESIDENT Online（プレジデントオンライン）",
+      "sources": [
+        {
+          "name": "ライブドアニュース",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPT2p2NncyZ1lsaWJfM2I4M3FPdkRGUWZZazdlb3ExMU5falVBVnZfN19pTk1MRVpFbjRXbWZibTItLW9ZWnVsWUQzOHVlUEwxOGFONUM4QXVPR0taZ3c?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "認知症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bfa7dc85a8ac",
+      "title": "【独自検証】空気感染も…はしか感染力は“最強クラス” 空気の流れを可視化し検証 対策は…【バンキシャ！】",
+      "published": "2026-05-04T22:13:27+00:00",
+      "summary": "【独自検証】空気感染も…はしか感染力は“最強クラス” 空気の流れを可視化し検証 対策は…【バンキシャ！】&nbsp;&nbsp;ｄメニューニュースGoogle ニュースですべての記事を見る",
+      "sources": [
+        {
+          "name": "ｄメニューニュース",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVmFSdWVrTDZfWV9GQVNpMzcyalR2OGJqS3d5bmdFSEZMSmZtTHAyaVo1X1BXTVNoNGRGenpwUlU4U2N3eW1XWFVWVWl1aG0tZzMtSlhRS0lwRk56bmdodTFJZjBtRXE1Ry02N3FxY0t6emVTa0V0SWZmbEYxd25TOHhaUENVbEZtWUtvSFVB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "ffc7e667f8ee",
+      "title": "短時間でも高強度の運動で慢性疾患リスクは低下する｜CareNet.com",
+      "published": "2026-05-04T19:00:00+00:00",
+      "summary": "短時間でも高強度の運動で慢性疾患リスクは低下する｜CareNet.com&nbsp;&nbsp;CareNet.com1日1万歩はもう古い？ 実は健康効果は8000で頭打ち…歩き方次第で太る恐れも 正しいウオーキング術とは&nbsp;&nbsp;ｄメニューニュースがん死亡リスクを37％、認知症リスクを38％も下げる「毎日の手軽な習慣」とは【医師が解説】&nbsp;&nbsp;ダイヤモンド・オンライン朝の運動習慣が生活習慣病リスクを下げる？｜ニュース&nbsp;&nbsp;dm-net.co.jp",
+      "sources": [
+        {
+          "name": "CareNet.com",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzWXYtMVZid0ZkRlcyNTZ0ODZiR2xBanUzWHVpLUUwZzFnSnRFTmtWQWxPZURveXRhSGttUjBzU2lRbmVuWmxuN3hDa2Z3VVRBeWF1MmhSYlRKdw?oc=5"
         }
       ],
       "matched_keywords": [
@@ -289,34 +508,7 @@
               "name": "レベチラセタム粒状錠５００ｍｇ「サワイ」"
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "ea7b462f5d30",
-      "title": "クルーズ船で「ハンタウイルス」集団感染か、３人死亡…乗客１５０人の中に日本人１人",
-      "published": "2026-05-05T00:20:00+00:00",
-      "summary": "クルーズ船で「ハンタウイルス」集団感染か、３人死亡…乗客１５０人の中に日本人１人&nbsp;&nbsp;読売新聞集団感染疑い クルーズ船に日本人&nbsp;&nbsp;Yahoo!ニュース大西洋航行のクルーズ船で3人死亡 ハンタウイルス感染か WHO | NHKニュース | WHO、医療・健康、アフリカ&nbsp;&nbsp;NHKニュース272 クルーズ船で集団感染…「ハンタウイルス」とは｜キキコミ｜news zero&nbsp;&nbsp;日本テレビ乗客の１人は日本人 集団感染疑いのクルーズ船&nbsp;&nbsp;時事ドットコム",
-      "sources": [
-        {
-          "name": "読売新聞",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Md2RlM3hTaFZidGRzUFRSb00wNFpIMlo0bzZKckxvdEQxaDdPWXNTWnBlMkJodi1wRUlXV3ZmRXlzNk1HVmQyTW9mZDFYWkE2ekdHYS03aXRHNG1ESlRjcllB?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "68831bcd813d",
-      "title": "脳を自ら破壊する免罪符の罠...アクティブな人ほど陥りやすい「免罪符」 (2026年5月5日掲載)",
-      "published": "2026-05-04T22:25:00+00:00",
-      "summary": "脳を自ら破壊する免罪符の罠...アクティブな人ほど陥りやすい「免罪符」 (2026年5月5日掲載)&nbsp;&nbsp;ライブドアニュース【脳の専門医が教える】「頑張りすぎ」が危険…認知症リスクを招く“脳の炎症”とは？&nbsp;&nbsp;ダイヤモンド・オンライン認知症を避けたいなら知っておきたい言葉「糖に毒された脳」とは？(ダイヤモンド・オンライン)&nbsp;&nbsp;Yahoo!ファイナンス【医師が教える】認知症になりやすい人がしている「勘違い」・ワースト1&nbsp;&nbsp;ダイヤモンド・オンライン｢脳トレ｣｢早口言葉｣よりもうんと効果的…専門医が｢認知症予防｣に勧める｢本当に脳にいいお手軽趣味｣【2026年3月BEST】&nbsp;&nbsp;PRESIDENT Online（プレジデントオンライン）",
-      "sources": [
-        {
-          "name": "ライブドアニュース",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPT2p2NncyZ1lsaWJfM2I4M3FPdkRGUWZZazdlb3ExMU5falVBVnZfN19pTk1MRVpFbjRXbWZibTItLW9ZWnVsWUQzOHVlUEwxOGFONUM4QXVPR0taZ3c?oc=5"
-        }
-      ],
-      "matched_keywords": [
+        },
         {
           "type": "indication",
           "name": "dementia",
@@ -333,19 +525,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "bfa7dc85a8ac",
-      "title": "【独自検証】空気感染も…はしか感染力は“最強クラス” 空気の流れを可視化し検証 対策は…【バンキシャ！】",
-      "published": "2026-05-04T22:13:27+00:00",
-      "summary": "【独自検証】空気感染も…はしか感染力は“最強クラス” 空気の流れを可視化し検証 対策は…【バンキシャ！】&nbsp;&nbsp;ｄメニューニュースGoogle ニュースですべての記事を見る",
-      "sources": [
-        {
-          "name": "ｄメニューニュース",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVmFSdWVrTDZfWV9GQVNpMzcyalR2OGJqS3d5bmdFSEZMSmZtTHAyaVo1X1BXTVNoNGRGenpwUlU4U2N3eW1XWFVWVWl1aG0tZzMtSlhRS0lwRk56bmdodTFJZjBtRXE1Ry02N3FxY0t6emVTa0V0SWZmbEYxd25TOHhaUENVbEZtWUtvSFVB?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "b5ebf591c895",
@@ -1478,19 +1657,6 @@
       ]
     },
     {
-      "id": "263082776f4f",
-      "title": "食物アレルギー増加、周囲の理解で家族全員が同じ食事を - 食品新聞 WEB版",
-      "published": "2026-05-04T03:26:18+00:00",
-      "summary": "食物アレルギー増加、周囲の理解で家族全員が同じ食事を&nbsp;&nbsp;食品新聞 WEB版食物アレルギー増加、周囲の理解で家族全員が同じ食事を | チバテレ＋プラス&nbsp;&nbsp;千葉テレビ放送10年で10倍に急増…『ナッツアレルギー』 2人に1人が抱えるアレルギーの正体 15分で分かる最新血液検査も&nbsp;&nbsp;FNNプライムオンライン",
-      "sources": [
-        {
-          "name": "食品新聞 WEB版",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wX3JqbGtuNEdkUjVIYVRKQ3dwaDNoODBKNEtJWWRJRUNFM3lGVGRxVFd2NVJ3ZWdMSUZZSElTUFRMX2ZkOEFRSnBNNnozbzlzcWNMRUh3U0ZxSktFNHpUMg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "7da95c15660e",
       "title": "クジラ肉に豊富な「バレニン」、パーキンソン病の進行抑制か　神経細胞内の修復機能を促進(産経新聞)",
       "published": "2026-05-04T00:00:00+00:00",
@@ -1531,19 +1697,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "814deab9d144",
-      "title": "約25%以上が無症状で性病感染ー256人のアンケートから分かる性感染症の実態。マッチングアプリや性風俗サービスから広がる\"身近な人\"からの感染 | 東京検査クリニックのプレスリリース - PR TIMES",
-      "published": "2026-05-03T05:56:06+00:00",
-      "summary": "約25%以上が無症状で性病感染ー256人のアンケートから分かる性感染症の実態。マッチングアプリや性風俗サービスから広がる\"身近な人\"からの感染 | 東京検査クリニックのプレスリリース&nbsp;&nbsp;PR TIMES「渋谷は梅毒の感染者が少ない」は本当か？ 6万人超のデータで見えてきた“性病検査の新常識”と、クラミジア陽性率14％超の現実&nbsp;&nbsp;ｄメニューニュース約25%以上が無症状で性病感染ー256人のアンケートから分かる性感染症の実態。マッチングアプリや性風俗サービスから広がる\"身近な人\"からの感染&nbsp;&nbsp;RBB TODAY約25%以上が無症状で性病感染ー256人のアンケートから分かる性感染症の実態。マッチングアプリや性風俗サービスから広がる″身近な人″からの感染 (2026年5月3日掲載)&nbsp;&nbsp;ライブドアニュース",
-      "sources": [
-        {
-          "name": "PR TIMES",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HRlA0bFZlVGV1b1p1dHB4cEtqOWNEUjJueXo4anBsbkxHLUJEM0hJNWNYeHJSZ3Vra1kySGx0YUlRbEZudWd0ZkpfanhXU2JqZjV1YkdyOVRrZEhZNHkyNUVvZldpZHB6blE?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "0e0b036f9edc",
@@ -2658,32 +2811,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "b9c7ec6b87b4",
-      "title": "オレンジ色の満月「フラワームーン」が輝き、北斗七星が高く昇る　今週の夜空(Forbes JAPAN)",
-      "published": "2026-04-28T08:00:00+00:00",
-      "summary": "4月に別れを告げ、5月を迎える今週は、季節のうつろいを感じながら輝く「フラワームーン」の満月を眺めたい。宵の空では春の星座が主役となり、夜半過ぎには夏を象徴する星たちが昇り始める。北の空では北斗七星が",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/14d7d115fd3bf48f560236231ec332bdc25862de?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "5990161fec94",
-      "title": "肉食のカブリダニ、草食の芋虫の足跡を避けて産卵する 京都大(Science Portal)",
-      "published": "2026-04-28T05:40:18+00:00",
-      "summary": "野菜の葉を食べる害虫のハダニを捕食するカブリダニが、チョウやガの幼虫（芋虫）の足跡を避けて産卵することを、京都大学のグループが発見した。圧倒的に大きい草食性の虫が葉を食べるときに偶発的に一緒に食べら",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/ca5f717ce07791f023491cc788e732f15fe2c712?source=rss"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }
