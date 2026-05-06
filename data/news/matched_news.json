@@ -1,56 +1,348 @@
 {
-  "last_updated": "2026-05-06T08:07:31.527982+00:00",
+  "last_updated": "2026-05-06T13:29:49.822857+00:00",
   "total_count": 34,
-  "matched_count": 8,
+  "matched_count": 10,
   "news": [
     {
-      "id": "3eb5bac1fd2b",
-      "title": "アイロンビーズの概念が変わる…ラーメンなどを再現したリアルな作品に「えぇぇ！すご！」「飯テロくらった」(LIMO)",
-      "published": "2026-05-06T08:05:59+00:00",
-      "summary": "アイロンビーズでラーメンなどを再現した作品が「すごすぎる」と、X上で話題になっています。投稿したのは、Xユーザーのおすし雑貨研究所、松さん（@y_beads）です。 当ポストには2026年5月6日時",
+      "id": "2caec646235d",
+      "title": "頭痛・めまい・だるさ…気象病と自律神経の深い関係｜ 意外な原因は？専門医が教える改善法(ヨガジャーナルオンライン)",
+      "published": "2026-05-06T13:05:00+00:00",
+      "summary": "“健やかで美しい体と心”を手に入れるための最新情報を女性医療ジャーナリストの増田美加がお届けします。 気圧や気温、湿度の変化などの影響で心や体に不調が現れる“気象病”に悩んでいる人が増えています。気象",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/cb5d3e7614674f438f18cd5c26eb644d3d474485?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/936bc54b7e87432741ac2cb8fece4bc31b50ccef?source=rss"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "b90d5b96f6d3",
-      "title": "「世界一幸せな国」フィンランドの教育の秘密…体験してわかった日本との違い(FRaU)",
-      "published": "2026-05-06T08:01:36+00:00",
-      "summary": "イギリス人の父と日本人の母のもとに生まれ、多文化の中で育った静華ジャズミンさん。現在は、モデルとして活躍しながら上智大学で「サステナビリティ」と「教育」を研究しています。また、ファッションやカルチャー",
+      "id": "9b6d4de674e6",
+      "title": "毎朝食べているかも？実は血糖値を急上昇させるNG朝食｜管理栄養士が解説(ヨガジャーナルオンライン)",
+      "published": "2026-05-06T12:50:00+00:00",
+      "summary": "毎日何気なく食べている朝食が、実は血糖値を急上昇させる原因になっているかもしれません。血糖値の急激な変動は、動脈硬化や糖尿病につながるおそれがあります。この記事では、血糖値を急上昇させやすい朝食メニュ",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/c4aacf511d2a4092a8906b58381ecdaa98978908?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/ca13962f4e64d1633a9f4f8d4c1f7708f6bbaa30?source=rss"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "動脈硬化",
+          "related_drugs": [
+            {
+              "slug": "acyclovir",
+              "name": "ゾビラックス軟膏５％（選）"
+            },
+            {
+              "slug": "atorvastatin",
+              "name": "アトーゼット配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "pravastatin",
+              "name": "メバロチン錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "atenolol",
+              "name": "テノーミン錠５０　５０ｍｇ（選）"
+            },
+            {
+              "slug": "simvastatin",
+              "name": "リポバス錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "ロプレソール錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "lisinopril",
+              "name": "ロンゲス錠２０ｍｇ（選）"
+            },
+            {
+              "slug": "lidocaine",
+              "name": "リドカイン（１８ｍｇ）３０．５ｍｍ×５０．０ｍｍ貼付剤"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "ミカムロ配合錠ＢＰ（選）"
+            },
+            {
+              "slug": "rosuvastatin",
+              "name": "クレストールＯＤ錠５ｍｇ（選）"
+            },
+            {
+              "slug": "verapamil",
+              "name": "ワソラン錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "latanoprost",
+              "name": "ザラカム配合点眼液（選）"
+            },
+            {
+              "slug": "warfarin",
+              "name": "ワルファリンＫ細粒０．２％「ＮＳ」"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "ザルティア錠５ｍｇ（選）"
+            },
+            {
+              "slug": "duloxetine",
+              "name": "サインバルタカプセル３０ｍｇ（選）"
+            },
+            {
+              "slug": "prasugrel",
+              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
+            },
+            {
+              "slug": "tramadol",
+              "name": "トラマールＯＤ錠５０ｍｇ（選）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4694a4c093f4",
+      "title": "毎日やっているかも？老化を早めるコーヒーのNGな飲み方2選｜管理栄養士が解説(ヨガジャーナルオンライン)",
+      "published": "2026-05-06T12:40:00+00:00",
+      "summary": "コーヒーを毎日の習慣にしている方は多いかと思いますが、飲み方次第で老化を早めるリスクを高める可能性があることをご存じでしょうか。本記事では、そんなコーヒーのNGな飲み方と、逆に若々しさにプラスとなりう",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/764fb9e8bb5fd4661d3225fd3b1ba008128b2afa?source=rss"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "207155ab5e3d",
-      "title": "コーヒー代わりにジンのお湯割り？健康がテーマの表参道『越後薬草蒸留所』がクリーンで新しい(おとなの週末)",
-      "published": "2026-05-06T08:00:07+00:00",
-      "summary": "全店実食調査！『おとなの週末』が自信を持っておすすめするお店をご紹介します。今回は、東京・表参道の蒸留所『越後薬草蒸留所 CRAFT GIN STAND』です。",
+      "id": "229ef24f401c",
+      "title": "片頭痛や首のこわばり、腕の痛みに効く「消濼」。古代には糖尿病治療に用いられた説も(家庭画報.com)",
+      "published": "2026-05-06T12:20:02+00:00",
+      "summary": "中医学のエキスパートである鍼灸師の兵頭 明先生が、ツボの効能や位置、効くメカニズムを解説します。健康の土台作りに、不調改善に、1日1分のツボ押しを習慣にしましょう。",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/ea3046c59d6237478396fc49cf1b2622727bd567?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/53a419da83df9a8c7edf61047f4110c2bd46c7b0?source=rss"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "aa5646006ccf",
-      "title": "厚生労働省、「冷静な対応を」呼び掛け　クルーズ船で感染確認「ハンタウイルス」について「国内で感染拡大するリスクは低い」(オリコン)",
-      "published": "2026-05-06T07:54:36+00:00",
-      "summary": "厚生労働省は6日、公式Xを更新しクルーズ船で感染者が確認されたハンタウイルスについて説明。国民に冷静な対応を呼び掛けた。 「クルーズ船で感染者が確認されたハンタウイルスは、主にネズミ等の排泄物を",
+      "id": "cbb9d3d4b477",
+      "title": "私の更年期は、30代後半のめまいから始まった。2週間続く生理の裏にあった病気とは【100人の更年期・GWスペシャル】(OTONA SALONE)",
+      "published": "2026-05-06T12:10:36+00:00",
+      "summary": "ゴールデンウイーク特別企画！オトナサローネで公開された記事の中から、「大反響だった記事」をピックアップしてお届けします。力武亜矢さんによる本シリーズは「自分だけじゃない…と分かっただけでも、気持ちが楽",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/edc182edb49331beff9c3e7cd0fa18b34daff04e?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/ad9729303938e07aacf00e617384a3815edb3476?source=rss"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "更年期",
+          "related_drugs": [
+            {
+              "slug": "clotrimazole",
+              "name": "エンペシドクリーム１％（選）"
+            },
+            {
+              "slug": "metronidazole",
+              "name": "メトロニダゾールゲル０．７５％「マルイシ」"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6f78e90eb1e3",
+      "title": "クルーズ船から3人搬送、ハンタウイルス症例8人に アンデス株検出",
+      "published": "2026-05-06T11:57:43+00:00",
+      "summary": "クルーズ船から3人搬送、ハンタウイルス症例8人に アンデス株検出&nbsp;&nbsp;Reuters船乗客 南アとスイスでも感染確認&nbsp;&nbsp;Yahoo!ニュースクルーズ船は「アンデスウイルス」「ハンタウイルス」の種類を特定 ヒト−ヒト感染も&nbsp;&nbsp;テレ朝NEWSマスクに映画、デッキでの一人散歩 ハンタウイルス集団感染に見舞われたクルーズ船での生活は&nbsp;&nbsp;CNNハンタウイルス、ヒトからヒトに感染する「アンデス型」確認 南ア保健相&nbsp;&nbsp;AFPBB News",
+      "sources": [
+        {
+          "name": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5acFlQTmlJVW9PTklYb3ZfRWwxeHFfa3lvWEU4SjJmdTY1SjZBd1dqOWRTbDZQbXJYdU5XY2IyWEZmcHBIek5DUFlCYXVvcDR0QXdkWXJuMFNKUlN0bWFraWp2bjJXUm5HcmtMMkpYOUM1OXN4enZVbVVB?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "6a51fa20af6a",
+      "title": "【闘病】「大したことない」に絶望。『関節リウマチ』ではなく『シェーグレン症候群』の地獄(メディカルドック)",
+      "published": "2026-05-06T11:03:16+00:00",
+      "summary": "2001年、足首を捻挫したことをきっかけに整形外科を受診した、たいママさん（仮称）。治療後も足のだるさが続き、やがて手の関節にも痛みが表れるようになりました。 リウマチの診断と薬の変更、寛解（病気の",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/38ba20d4527b3a2a8f2d154a725502d448af09ee?source=rss"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "rheumatoid arthritis",
+          "keyword": "関節リウマチ",
+          "related_drugs": [
+            {
+              "slug": "tacrolimus",
+              "name": "プログラフカプセル１ｍｇ（選）"
+            },
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "cyclosporine",
+              "name": "ネオーラル５０ｍｇカプセル（選）"
+            },
+            {
+              "slug": "meloxicam",
+              "name": "モービック錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "clopidogrel",
+              "name": "プラビックス錠７５ｍｇ（選）"
+            },
+            {
+              "slug": "diclofenac",
+              "name": "ボルタレンサポ５０ｍｇ（選）"
+            },
+            {
+              "slug": "budesonide",
+              "name": "シムビコートタービュヘイラー６０吸入（選）"
+            },
+            {
+              "slug": "celecoxib",
+              "name": "セレコックス錠２００ｍｇ（選）"
+            },
+            {
+              "slug": "montelukast",
+              "name": "シングレアＯＤ錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "ibuprofen",
+              "name": "ブルフェン顆粒２０％（選）"
+            },
+            {
+              "slug": "loxoprofen",
+              "name": "ロキソニンゲル１％（選）"
+            },
+            {
+              "slug": "warfarin",
+              "name": "ワルファリンＫ細粒０．２％「ＮＳ」"
+            },
+            {
+              "slug": "pregabalin",
+              "name": "リリカＯＤ錠１５０ｍｇ（選）"
+            },
+            {
+              "slug": "prasugrel",
+              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
+            },
+            {
+              "slug": "tramadol",
+              "name": "トラマールＯＤ錠５０ｍｇ（選）"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "リウマチ",
+          "keyword": "リウマチ",
+          "related_drugs": [
+            {
+              "slug": "tacrolimus",
+              "name": "プログラフカプセル１ｍｇ（選）"
+            },
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "cyclosporine",
+              "name": "ネオーラル５０ｍｇカプセル（選）"
+            },
+            {
+              "slug": "meloxicam",
+              "name": "モービック錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "clopidogrel",
+              "name": "プラビックス錠７５ｍｇ（選）"
+            },
+            {
+              "slug": "diclofenac",
+              "name": "ボルタレンサポ５０ｍｇ（選）"
+            },
+            {
+              "slug": "budesonide",
+              "name": "シムビコートタービュヘイラー６０吸入（選）"
+            },
+            {
+              "slug": "celecoxib",
+              "name": "セレコックス錠２００ｍｇ（選）"
+            },
+            {
+              "slug": "montelukast",
+              "name": "シングレアＯＤ錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "ibuprofen",
+              "name": "ブルフェン顆粒２０％（選）"
+            },
+            {
+              "slug": "loxoprofen",
+              "name": "ロキソニンゲル１％（選）"
+            },
+            {
+              "slug": "warfarin",
+              "name": "ワルファリンＫ細粒０．２％「ＮＳ」"
+            },
+            {
+              "slug": "pregabalin",
+              "name": "リリカＯＤ錠１５０ｍｇ（選）"
+            },
+            {
+              "slug": "prasugrel",
+              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
+            },
+            {
+              "slug": "tramadol",
+              "name": "トラマールＯＤ錠５０ｍｇ（選）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "438a54f865f6",
+      "title": "アルテミス2が持ち帰った画像やデータから、宇宙飛行士の健康や航空宇宙工学について何がわかるの？(ギズモード・ジャパン)",
+      "published": "2026-05-06T10:30:02+00:00",
+      "summary": "息をのむような画像の印象が強いですけど、壮大な人体実験でもあるわけですね…。 NASA（アメリカ航空宇宙局）のアルテミス2が歴史的な10日間の飛行を終え、地球に帰還してからはや1か月近くが過ぎました",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/dc2a544ff2e7fd8b801088989ba14be94007dec8?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "8bf24eb3ad1b",
+      "title": "【解説】「悪趣味」「丸パクリ」批判も　陸自の生成AIロゴ炎上　「AIが優秀すぎる」からこそ危ない　相次ぐ炎上…弁護士・橋下徹氏が解説　生成AIの著作権リスク(関西テレビ)",
+      "published": "2026-05-06T08:15:01+00:00",
+      "summary": "「いつでも来い、戦ってやる、みたいな感じがするから良くないと思う」 街の人が思わずそう口にしたロゴが、陸上自衛隊を揺るがした。銃を構える象、青い炎、そして胸元に刻まれた頭蓋骨。制作者は人間のデザイナ",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/ab1cffe4779a701361b04825ffed877fc2614840?source=rss"
         }
       ],
       "matched_keywords": []
@@ -69,117 +361,6 @@
       "matched_keywords": []
     },
     {
-      "id": "0eced245c597",
-      "title": "日本人含むクルーズ船のハンタウイルス感染、現地で適切対応と厚労省",
-      "published": "2026-05-06T07:31:05+00:00",
-      "summary": "日本人含むクルーズ船のハンタウイルス感染、現地で適切対応と厚労省&nbsp;&nbsp;Bloomberg.com「国内で拡大の可能性低い」 クルーズ船の集団感染疑い 厚労省（時事通信）&nbsp;&nbsp;Yahoo!ニュース「安心感と見通し、家に帰ること、ただそれだけ」ハンタウイルス集団感染疑いのクルーズ船乗客が明かす“不安”&nbsp;&nbsp;TBS NEWS DIG「ハンタウイルス」船内感染者 オランダの病院に搬送へ&nbsp;&nbsp;au Webポータルハンタウイルス集団感染の船から3人避難、船はカナリア諸島へ(1/2)&nbsp;&nbsp;CNN",
-      "sources": [
-        {
-          "name": "Bloomberg.com",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb1ZJSEJPZG1QN0xPMU0wTlpzM18zTlRnSVAzSEVkM1hGdEc3ZzlWOXlxUm5BSVVvUEhyaUVpcUJwT3JHUmxKUDAzSzBpeDd4OTdmNFNlMHRzanZEbHJSQm1rMC11ZWhWVTd4cTVsQmlpWVVMNkhDdURsalh4TFFtTVJhLU5fb1ZnRW5Iald3?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "8d42188a62bf",
-      "title": "投資信託とは何か？ 仕組み・リスク・資産運用会社の全体像(GOETHE)",
-      "published": "2026-05-06T07:30:34+00:00",
-      "summary": "銀行の本店はなぜ、あれほど仰々しいのか。なぜ銀行は儲かるのか。証券会社や保険会社は、本当に顧客本位で動いているのか――。私たちの生活に深く関わる金融の世界には、知っているようで知らない“仕組み”と“裏",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/a3b73a31b5d1af9cb75a6c2a32de7a894359ba0f?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "5fb32f2f619f",
-      "title": "脳卒中で余命7ヵ月申告・左半身麻痺…87歳ミッキー・カーチスに学ぶ、人生を楽しく生きる秘訣【和田秀樹対談まとめ】(GOETHE)",
-      "published": "2026-05-06T07:30:27+00:00",
-      "summary": "ロカビリー歌手、音楽プロデューサー、作詞家、俳優、レーサー、落語家、画家。常に変身し続けるミッキー・カーチスさんと、医療の壁に挑み続ける和田秀樹氏の対談記事をまとめてお届け！ ※2026年1月掲載記事",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/d6bbf0888772994ae0a32f7e77cae7c669c40752?source=rss"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "脳卒中",
-          "related_drugs": [
-            {
-              "slug": "atorvastatin",
-              "name": "アトーゼット配合錠ＨＤ（選）"
-            },
-            {
-              "slug": "valsartan",
-              "name": "ディオバンＯＤ錠１６０ｍｇ（選）"
-            },
-            {
-              "slug": "pravastatin",
-              "name": "メバロチン錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "simvastatin",
-              "name": "リポバス錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "enalapril",
-              "name": "レニベース錠１０　１０ｍｇ（選）"
-            },
-            {
-              "slug": "lisinopril",
-              "name": "ロンゲス錠２０ｍｇ（選）"
-            },
-            {
-              "slug": "diltiazem",
-              "name": "ヘルベッサー錠６０　６０ｍｇ（選）"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "エックスフォージ配合ＯＤ錠（選）"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "ミカムロ配合錠ＢＰ（選）"
-            },
-            {
-              "slug": "rosuvastatin",
-              "name": "クレストールＯＤ錠５ｍｇ（選）"
-            },
-            {
-              "slug": "verapamil",
-              "name": "ワソラン錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "losartan",
-              "name": "ニューロタン錠５０ｍｇ（選）"
-            },
-            {
-              "slug": "warfarin",
-              "name": "ワルファリンＫ細粒０．２％「ＮＳ」"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "ザルティア錠５ｍｇ（選）"
-            },
-            {
-              "slug": "fenofibrate",
-              "name": "トライコア錠８０ｍｇ（選）"
-            },
-            {
-              "slug": "prasugrel",
-              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "ebd903008cd6",
       "title": "人の寿命の限界は「遺伝子のメカニズム」で決まる可能性(Forbes JAPAN)",
       "published": "2026-05-06T07:30:00+00:00",
@@ -188,19 +369,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/a71e570abd857e3fe4745976bda4dc4f0996e7df?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "11d4b6757a03",
-      "title": "暮らし上手がこの10年で「やめてよかったこと」3つ。あえて手放したら心も体も軽くなった(ESSE",
-      "published": "2026-05-06T07:00:53+00:00",
-      "summary": "「あるのが当たり前」を立ち止まって考えてみて、今のライフスタイルにフィットしているかどうかで考えてみると、案外「手放したらラクになった！」の発見があるかもしれません。ライフオーガナイザーのESSEベス",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/507e63cc5d5bd46ba6904d3303c48029df12b65e?source=rss"
         }
       ],
       "matched_keywords": []
@@ -1767,19 +1935,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "f4f82565015d",
-      "title": "はくちょう座X-1のブラックホールから噴出するジェットが恒星風で曲がっている様子を観測(sorae 宇宙へのポータルサイト)",
-      "published": "2026-04-29T11:16:36+00:00",
-      "summary": "こちらは、最新の研究成果にもとづいた「はくちょう座X-1（Cygnus X-1）」の想像図。ブラックホールから噴出するジェットが、超巨星からの強力な恒星風によって押し流され曲がっている様子が描かれてい",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/18e5ce2f230a6d5237f15a2b11077b648d60138f?source=rss"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }

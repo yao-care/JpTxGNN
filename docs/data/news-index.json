@@ -1,54 +1,54 @@
 {
-  "generated": "2026-05-06T08:07:31.530352+00:00",
-  "count": 8,
+  "generated": "2026-05-06T13:29:49.825351+00:00",
+  "count": 10,
   "news": [
     {
-      "id": "5fb32f2f619f",
-      "title": "脳卒中で余命7ヵ月申告・左半身麻痺…87歳ミッキー・カーチスに学ぶ、人生を楽しく生きる秘訣【和田秀樹対談まとめ】(GOETHE)",
-      "published": "2026-05-06T07:30:27+00:00",
+      "id": "9b6d4de674e6",
+      "title": "毎朝食べているかも？実は血糖値を急上昇させるNG朝食｜管理栄養士が解説(ヨガジャーナルオンライン)",
+      "published": "2026-05-06T12:50:00+00:00",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/d6bbf0888772994ae0a32f7e77cae7c669c40752?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/ca13962f4e64d1633a9f4f8d4c1f7708f6bbaa30?source=rss"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "stroke",
-          "keyword": "脳卒中",
+          "name": "cardiovascular",
+          "keyword": "動脈硬化",
           "related_drugs": [
+            {
+              "slug": "acyclovir",
+              "name": "ゾビラックス軟膏５％（選）"
+            },
             {
               "slug": "atorvastatin",
               "name": "アトーゼット配合錠ＨＤ（選）"
-            },
-            {
-              "slug": "valsartan",
-              "name": "ディオバンＯＤ錠１６０ｍｇ（選）"
             },
             {
               "slug": "pravastatin",
               "name": "メバロチン錠５　５ｍｇ（選）"
             },
             {
+              "slug": "atenolol",
+              "name": "テノーミン錠５０　５０ｍｇ（選）"
+            },
+            {
               "slug": "simvastatin",
               "name": "リポバス錠５　５ｍｇ（選）"
             },
             {
-              "slug": "enalapril",
-              "name": "レニベース錠１０　１０ｍｇ（選）"
+              "slug": "metoprolol",
+              "name": "ロプレソール錠４０ｍｇ（選）"
             },
             {
               "slug": "lisinopril",
               "name": "ロンゲス錠２０ｍｇ（選）"
             },
             {
-              "slug": "diltiazem",
-              "name": "ヘルベッサー錠６０　６０ｍｇ（選）"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "エックスフォージ配合ＯＤ錠（選）"
+              "slug": "lidocaine",
+              "name": "リドカイン（１８ｍｇ）３０．５ｍｍ×５０．０ｍｍ貼付剤"
             },
             {
               "slug": "telmisartan",
@@ -63,8 +63,8 @@
               "name": "ワソラン錠４０ｍｇ（選）"
             },
             {
-              "slug": "losartan",
-              "name": "ニューロタン錠５０ｍｇ（選）"
+              "slug": "latanoprost",
+              "name": "ザラカム配合点眼液（選）"
             },
             {
               "slug": "warfarin",
@@ -75,12 +75,191 @@
               "name": "ザルティア錠５ｍｇ（選）"
             },
             {
-              "slug": "fenofibrate",
-              "name": "トライコア錠８０ｍｇ（選）"
+              "slug": "duloxetine",
+              "name": "サインバルタカプセル３０ｍｇ（選）"
             },
             {
               "slug": "prasugrel",
               "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
+            },
+            {
+              "slug": "tramadol",
+              "name": "トラマールＯＤ錠５０ｍｇ（選）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cbb9d3d4b477",
+      "title": "私の更年期は、30代後半のめまいから始まった。2週間続く生理の裏にあった病気とは【100人の更年期・GWスペシャル】(OTONA SALONE)",
+      "published": "2026-05-06T12:10:36+00:00",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/ad9729303938e07aacf00e617384a3815edb3476?source=rss"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "更年期",
+          "related_drugs": [
+            {
+              "slug": "clotrimazole",
+              "name": "エンペシドクリーム１％（選）"
+            },
+            {
+              "slug": "metronidazole",
+              "name": "メトロニダゾールゲル０．７５％「マルイシ」"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6a51fa20af6a",
+      "title": "【闘病】「大したことない」に絶望。『関節リウマチ』ではなく『シェーグレン症候群』の地獄(メディカルドック)",
+      "published": "2026-05-06T11:03:16+00:00",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/38ba20d4527b3a2a8f2d154a725502d448af09ee?source=rss"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "rheumatoid arthritis",
+          "keyword": "関節リウマチ",
+          "related_drugs": [
+            {
+              "slug": "tacrolimus",
+              "name": "プログラフカプセル１ｍｇ（選）"
+            },
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "cyclosporine",
+              "name": "ネオーラル５０ｍｇカプセル（選）"
+            },
+            {
+              "slug": "meloxicam",
+              "name": "モービック錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "clopidogrel",
+              "name": "プラビックス錠７５ｍｇ（選）"
+            },
+            {
+              "slug": "diclofenac",
+              "name": "ボルタレンサポ５０ｍｇ（選）"
+            },
+            {
+              "slug": "budesonide",
+              "name": "シムビコートタービュヘイラー６０吸入（選）"
+            },
+            {
+              "slug": "celecoxib",
+              "name": "セレコックス錠２００ｍｇ（選）"
+            },
+            {
+              "slug": "montelukast",
+              "name": "シングレアＯＤ錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "ibuprofen",
+              "name": "ブルフェン顆粒２０％（選）"
+            },
+            {
+              "slug": "loxoprofen",
+              "name": "ロキソニンゲル１％（選）"
+            },
+            {
+              "slug": "warfarin",
+              "name": "ワルファリンＫ細粒０．２％「ＮＳ」"
+            },
+            {
+              "slug": "pregabalin",
+              "name": "リリカＯＤ錠１５０ｍｇ（選）"
+            },
+            {
+              "slug": "prasugrel",
+              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
+            },
+            {
+              "slug": "tramadol",
+              "name": "トラマールＯＤ錠５０ｍｇ（選）"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "リウマチ",
+          "keyword": "リウマチ",
+          "related_drugs": [
+            {
+              "slug": "tacrolimus",
+              "name": "プログラフカプセル１ｍｇ（選）"
+            },
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "cyclosporine",
+              "name": "ネオーラル５０ｍｇカプセル（選）"
+            },
+            {
+              "slug": "meloxicam",
+              "name": "モービック錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "clopidogrel",
+              "name": "プラビックス錠７５ｍｇ（選）"
+            },
+            {
+              "slug": "diclofenac",
+              "name": "ボルタレンサポ５０ｍｇ（選）"
+            },
+            {
+              "slug": "budesonide",
+              "name": "シムビコートタービュヘイラー６０吸入（選）"
+            },
+            {
+              "slug": "celecoxib",
+              "name": "セレコックス錠２００ｍｇ（選）"
+            },
+            {
+              "slug": "montelukast",
+              "name": "シングレアＯＤ錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "ibuprofen",
+              "name": "ブルフェン顆粒２０％（選）"
+            },
+            {
+              "slug": "loxoprofen",
+              "name": "ロキソニンゲル１％（選）"
+            },
+            {
+              "slug": "warfarin",
+              "name": "ワルファリンＫ細粒０．２％「ＮＳ」"
+            },
+            {
+              "slug": "pregabalin",
+              "name": "リリカＯＤ錠１５０ｍｇ（選）"
+            },
+            {
+              "slug": "prasugrel",
+              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
+            },
+            {
+              "slug": "tramadol",
+              "name": "トラマールＯＤ錠５０ｍｇ（選）"
             }
           ]
         }
