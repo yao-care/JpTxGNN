@@ -1,10 +1,34 @@
 {
   "source": "japan_news",
-  "fetched_at": "2026-05-06T13:29:49.569205+00:00",
+  "fetched_at": "2026-05-06T19:22:07.049335+00:00",
   "total_fetched": 101,
   "unique_count": 101,
-  "health_related_count": 34,
+  "health_related_count": 35,
   "news": [
+    {
+      "id": "955524db8d75",
+      "title": "カナリア諸島で受け入れ ハンタウイルス疑いの船 - 沖縄タイムス社",
+      "published": "2026-05-06T18:58:00+00:00",
+      "summary": "カナリア諸島で受け入れ ハンタウイルス疑いの船&nbsp;&nbsp;沖縄タイムス社船乗客 南アとスイスでも感染確認&nbsp;&nbsp;Yahoo!ニュース「ハンタウイルス」クルーズ船 “人から人へ感染”可能性は？&nbsp;&nbsp;テレ朝NEWSハンタウイルス、ヒトからヒトに感染する「アンデス型」確認 南ア保健相&nbsp;&nbsp;AFPBB News“ヒトからヒトへ”感染か ハンタウイルスで3人死亡 致死率約40％の型も…日本での流行リスクは【Nスタ解説】&nbsp;&nbsp;TBS NEWS DIG",
+      "sources": [
+        {
+          "name": "沖縄タイムス社",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5vT1FvT1dlcHpVc1c5eXIycF95dHBtVHMtVkdabF95dkZJTUFtNUdXNXdYekNNZmRXV21ZMlBCczZnLXdzenhrOU5hRnNSUDRZWkRfdkhiVHUtRHJqTlE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "14e55fbaaba9",
+      "title": "「おりものシートを毎日使うのはやめて」米産婦人科医が警告。意外な落とし穴と健康リスク(ウィメンズヘルス)",
+      "published": "2026-05-06T14:00:02+00:00",
+      "summary": "下着への汚れや不快感を防いでくれる「おりものシート」。多くの人が日常的に使用しているが、実はその使い方が健康リスクを招くことも。先日、シカゴ婦人科研究所の認定産婦人科医がSNSで発信した「正しい使い方",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/fe93a3a7e4b059bd3a479faeb800b4a6fe45549c?source=rss"
+        }
+      ]
+    },
     {
       "id": "2caec646235d",
       "title": "頭痛・めまい・だるさ…気象病と自律神経の深い関係｜ 意外な原因は？専門医が教える改善法(ヨガジャーナルオンライン)",
@@ -62,18 +86,6 @@
         {
           "name": "Yahoo! Japan Life",
           "link": "https://news.yahoo.co.jp/articles/ad9729303938e07aacf00e617384a3815edb3476?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "6f78e90eb1e3",
-      "title": "クルーズ船から3人搬送、ハンタウイルス症例8人に アンデス株検出 - Reuters",
-      "published": "2026-05-06T11:57:43+00:00",
-      "summary": "クルーズ船から3人搬送、ハンタウイルス症例8人に アンデス株検出&nbsp;&nbsp;Reuters船乗客 南アとスイスでも感染確認&nbsp;&nbsp;Yahoo!ニュースクルーズ船は「アンデスウイルス」「ハンタウイルス」の種類を特定 ヒト−ヒト感染も&nbsp;&nbsp;テレ朝NEWSマスクに映画、デッキでの一人散歩 ハンタウイルス集団感染に見舞われたクルーズ船での生活は&nbsp;&nbsp;CNNハンタウイルス、ヒトからヒトに感染する「アンデス型」確認 南ア保健相&nbsp;&nbsp;AFPBB News",
-      "sources": [
-        {
-          "name": "Reuters",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5acFlQTmlJVW9PTklYb3ZfRWwxeHFfa3lvWEU4SjJmdTY1SjZBd1dqOWRTbDZQbXJYdU5XY2IyWEZmcHBIek5DUFlCYXVvcDR0QXdkWXJuMFNKUlN0bWFraWp2bjJXUm5HcmtMMkpYOUM1OXN4enZVbVVB?oc=5"
         }
       ]
     },
