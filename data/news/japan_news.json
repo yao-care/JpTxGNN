@@ -1,67 +1,103 @@
 {
   "source": "japan_news",
-  "fetched_at": "2026-05-07T01:59:17.484078+00:00",
+  "fetched_at": "2026-05-07T08:15:35.296665+00:00",
   "total_fetched": 101,
   "unique_count": 101,
-  "health_related_count": 33,
+  "health_related_count": 31,
   "news": [
     {
-      "id": "182998afe242",
-      "title": "「思春期から始まる性の悩み」に向き合う産婦人科医ら　「ユースクリニック」を広める課題とは(京都新聞)",
-      "published": "2026-05-07T01:30:38+00:00",
-      "summary": "生理や性感染症、交際相手との関係-。思春期から始まる性の悩みに対し、医療関係者やカウンセラーが幅広く相談に応じる「ユースクリニック」が少しずつ広がっている。産婦人科などの専門機関に行くのはハードルを",
+      "id": "0fe5b2bfc32a",
+      "title": "「看護師は可能性に満ちた仕事」　医学部断念からアメリカで働く道へ(朝日新聞Thinkキャンパス)",
+      "published": "2026-05-07T08:02:19+00:00",
+      "summary": "「看護師って、こんなに可能性があるんだ」。ハンセン陽子さんは、首都大学東京（現・東京都立大学）で看護を学び始めた時、そう感じたと言います。看護師は病院だけでなく、地域の保健活動や研究の場、さらには海外",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/f42a1ebde9ada458eaddc7910503d5076aebf68b?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/034699b2f4e312c9e6c70d3c7fbb002390dee921?source=rss"
         }
       ]
     },
     {
-      "id": "97a6a6ae8fb2",
-      "title": "アイロンビーズでラーメンを手作りしたら…⇨箸で麺を持ち上げる表現に「天才的！」「食べたくなっちゃう」(ハフポスト日本版)",
-      "published": "2026-05-07T01:01:50+00:00",
-      "summary": "思わず二度見してしまうような“ラーメン作品”が、Xで注目を集めています。 投稿したのは、雑貨屋「おすし雑貨研究所、松」（@y_beads）。 「アイロンビーズでラーメンをつくりました」とコメントを",
+      "id": "bbefe463e3d6",
+      "title": "猿橋賞に東大大気海洋研の今田由紀子さん 異常気象の要因分析に貢献(Science Portal)",
+      "published": "2026-05-07T06:25:37+00:00",
+      "summary": "優れた女性科学者をたたえる「猿橋賞」が、異常気象の要因分析法「イベントアトリビューション」の発展に貢献した、東京大学大気海洋研究所准教授の今田由紀子さんに贈られることが決まった。主宰する「女性科学者",
       "sources": [
         {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/b347203c978d2f67b4c4fa398e8ab16d082e8cc4?source=rss"
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/13ed60ef04a0a49d213794c0163f6751388e5303?source=rss"
         }
       ]
     },
     {
-      "id": "cea9d7d78e44",
-      "title": "「いぬの治療費をなめてはいけません」　日帰り検査での驚きの明細書が話題　保険終了の苦境も、飼い主が「守りたい」と語る笑顔の価値(Hint-Pot)",
-      "published": "2026-05-07T00:20:36+00:00",
-      "summary": "いぬやねこと暮らすうえで避けて通れないのが、病気や高齢化に伴う医療費の問題です。X（ツイッター）では、厳しい現状を伝える飼い主さんの投稿が話題に。愛犬の笑顔を守るため、現実と向き合う姿に共感の声が上",
+      "id": "fcd0a80ddb10",
+      "title": "謎のウツボ2種をアワウツボ、サガミウツボと命名　新江ノ島水族館と生命の星・地球博物館(産経新聞)",
+      "published": "2026-05-07T05:41:20+00:00",
+      "summary": "新江ノ島水族館（神奈川県藤沢市）は神奈川県立生命の星・地球博物館（同県小田原市）と共同研究を行い、相模湾などで〝謎の未記載種〟といわれてきたウツボ2種が新種であることを確認し、「アワウツボ」「サガミウ",
       "sources": [
         {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/cf40b5a86701f9ae385f68fa9fb47aa003fb0e61?source=rss"
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/201cba4aa1423171345d614c65c0bbf739dd4d7b?source=rss"
         }
       ]
     },
     {
-      "id": "796d37b71d05",
-      "title": "「痩せる漢方」で下痢や腹痛に？　SNSの口コミで選ぶ人が陥る“危険な悪循環”とは【薬剤師が解説】(オトナンサー)",
-      "published": "2026-05-07T00:15:00+00:00",
-      "summary": "近年、自然由来のもので安全という理由で漢方を手に取る人が増えています。では、漢方薬の服用時にはどのようなことに注意すべきなのでしょうか。SNSの口コミで選んで失敗する具体例や、自分に合うか見極めるポ",
+      "id": "c72e0f0c724e",
+      "title": "太陽系外縁の小天体に「あるはずのない」大気を発見　冥王星以外で初(CNN.co.jp)",
+      "published": "2026-05-07T05:11:00+00:00",
+      "summary": "（CNN） 太陽系外縁部の小天体の周りに、薄い大気が存在することが新たに分かった。従来は、これほど小さな天体が大気を保持することはできないと考えられていた。 太陽系のはずれの「カイパーベルト」には、",
       "sources": [
         {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/696d3f66445b3edca6f032974ce22852baf0aa54?source=rss"
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/fc24d3bdd46f9bb364b49bdc6c950201a0295417?source=rss"
         }
       ]
     },
     {
-      "id": "4392c6538c3f",
-      "title": "ハンタウイルス集団感染疑いのクルーズ船 日本時間7日未明にカーボベルデを出発 3～4日でカナリア諸島に到着か - FNNプライムオンライン",
-      "published": "2026-05-06T22:57:00+00:00",
-      "summary": "ハンタウイルス集団感染疑いのクルーズ船 日本時間7日未明にカーボベルデを出発 3～4日でカナリア諸島に到着か&nbsp;&nbsp;FNNプライムオンライン「ハンタウイルス」特効薬なし WHOが冷静対応呼びかけ&nbsp;&nbsp;Yahoo!ニュースハンタウイルス集団感染疑いのクルーズ船 「一部乗客が乗船前にウイルスに接触し広がった可能性」疾病予防管理センターが最新評価を発表&nbsp;&nbsp;au Webポータル〈コラム 筆洗〉アガサ・クリスティの『ナイルに死す』など、ミステリー小説に…&nbsp;&nbsp;東京新聞デジタルクルーズ船から退避の2人がオランダ到着 病院搬送 ハンタウイルスの集団感染疑い&nbsp;&nbsp;テレ朝NEWS",
+      "id": "d8fedd0668a5",
+      "title": "人から人に感染するハンタウイルス「アンデス株」とは アルゼンチンで2018年に集団感染(1/2) - CNN",
+      "published": "2026-05-07T03:39:00+00:00",
+      "summary": "人から人に感染するハンタウイルス「アンデス株」とは アルゼンチンで2018年に集団感染(1/2)&nbsp;&nbsp;CNNハンタウイルス新たな感染 「ヒトからヒト」種類も特定 カナリア諸島で不安広がる&nbsp;&nbsp;テレ朝NEWS眞鍋かをり、クルーズ船感染「ハンタウイルス」巡る私見に反響 専門家は「特効薬はない」（エンタメNEXT）&nbsp;&nbsp;Yahoo!ニュースハンタウイルス確認のクルーズ船 3人移送 感染源調査も&nbsp;&nbsp;NHKニュースハンタウイルス集団感染疑いのクルーズ船がカナリア諸島へ 退避した2人はオランダ到着、容体は安定&nbsp;&nbsp;au Webポータル",
       "sources": [
         {
-          "name": "FNNプライムオンライン",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0xOE54NEFNcGFta2V4ZGhDU1NydV80cHNHLWNuV1I5WDE2b0lQQ0gxWnJXN2UzVUE2WjZBOGlvSV9iakpIcVR5RnQxMUNIQQ?oc=5"
+          "name": "CNN",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9vNU1oQ3FleHdfY1oxM0Z1cDZVYlRGZDd6eG9FMWl2OWxRZ1QwcWYxWUJvamRZTkRUdVJ3TEpiVF9ST1B2QzYwRkJWdzFzd0xmMHpyNA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "66ed6dfd442c",
+      "title": "インターネット時代のがん情報発信――医療者のSNS活用と社会に求められる「正しい情報の処方箋」(メディカルドック)",
+      "published": "2026-05-07T03:05:04+00:00",
+      "summary": "自分や家族ががんと診断された、あるいは疑わしい症状があったとき、まずはインターネットで調べてみるという人も多いのではないでしょうか。しかし、ネット上には科学的根拠に乏しい誤情報が多数混在しており、命に",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/4b86b4e02f5dab6664c24abeda96dceccb03a3ea?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "b46e2f1dffdc",
+      "title": "埼玉県民の命を守る最後の砦として。医師不足に立ち向かう県立病院の覚悟(Medical Note)",
+      "published": "2026-05-07T02:50:34+00:00",
+      "summary": "埼玉県は人口が多い一方で、医師や看護師が不足している県だ。地域によっては医療提供体制の維持が極めて困難になりつつあり、特に高齢化が加速する県北部や秩父などでは、救急や入院医療の支え手をどう確保するかが",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/39b3023bd6455afe84d07198ba88f10f5b0de369?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "460b5dad9775",
+      "title": "大気が存在する太陽系外縁天体、国立天文台など発見　冥王星以外では初(ITmedia NEWS)",
+      "published": "2026-05-07T02:38:31+00:00",
+      "summary": "国立天文台は5月5日、直径が冥王星の5分の1程度の太陽系外縁天体「（612533）2002 XV93」が、極めて薄い大気を持っていると発表した。「太陽系小天体についての理解を大いに深める新たな知見」",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/bd96f930be0f80605b9a17b1dcdd4de7a04fe97b?source=rss"
         }
       ]
     },
@@ -338,66 +374,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/6d481f8c49a4203579530919b699c40293ec8b28?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "71cfda690893",
-      "title": "謎の初期宇宙天体を解き明かす手がかり？　チャンドラ宇宙望遠鏡が観測した「X線ドット」(sorae 宇宙へのポータルサイト)",
-      "published": "2026-04-30T21:30:25+00:00",
-      "summary": "マックス・プランク天文学研究所のRaphael Hvidingさんを筆頭とする研究チームは、初期宇宙で次々と見つかっている「リトル・レッド・ドット（Little Red Dot: LRD）」と呼ばれる",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/240103916f5801044e98f618ffc3a4d68d9b5e71?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "d01e8c78b7dc",
-      "title": "オウムですら失敗した実験を難なくクリア、小さなハナバチたちの大きな能力(ナショナル ジオグラフィック日本版)",
-      "published": "2026-04-30T11:10:46+00:00",
-      "summary": "植物の受粉を助け、食料生産で重要な役割を担うミツバチなどのハナバチ（花蜂）類。少し前まで、この昆虫の行動はすべて遺伝子に組み込まれていて、感情をもたないロボットのように、それに従っているだけだと信じ",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/f041925a1b2e5429ec8c624cb758f30f798bf78f?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "da9255cfc898",
-      "title": "「インフルエンザ」は発症後「何日目がピーク」かご存知ですか？ピーク時の症状も解説！(メディカルドック)",
-      "published": "2026-04-30T10:02:45+00:00",
-      "summary": "毎年のように流行を繰り返すインフルエンザは、突然の高熱や強い倦怠感によって日常生活に大きな影響を及ぼします。そのため、「何日目に症状が強く出やすいのか」「学校や仕事にいつから行けるのか」など、発症時に",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/30869c3b56a4990403e5e089719b01b1cda57ebb?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "c1ff77c6e9c9",
-      "title": "NASA火星探査車キュリオシティが採取したサンプルから様々な有機分子を新たに検出　貴重な試薬も使用(sorae 宇宙へのポータルサイト)",
-      "published": "2026-04-30T03:01:46+00:00",
-      "summary": "フロリダ大学のAmy Williamsさんを筆頭とする研究チームは、NASA（アメリカ航空宇宙局）の火星探査車「Curiosity（キュリオシティ）」が採取したサンプルから、火星でこれまでに確認された",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/535c7fe319368524341cce8ea29f55918b8ba1d8?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "76d78b08eeea",
-      "title": "日本産科婦人科学会が5月、札幌で開催――“第5のがん治療”光免疫療法の紹介も(Medical Note)",
-      "published": "2026-04-30T02:54:40+00:00",
-      "summary": "第78回日本産科婦人科学会学術講演会が2026年5月15日～17日、札幌市のグランドメルキュール札幌大通公園ほかで開催されます（オンデマンド配信ありのハイブリッド開催）。会長を務める渡利 英道先生（北",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/6c0650597e1b1704e3cdb95fe607c606c3ac0ac8?source=rss"
         }
       ]
     }
