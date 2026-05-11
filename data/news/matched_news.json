@@ -1,56 +1,164 @@
 {
-  "last_updated": "2026-05-11T08:58:12.347372+00:00",
-  "total_count": 62,
-  "matched_count": 22,
+  "last_updated": "2026-05-11T14:27:24.590286+00:00",
+  "total_count": 63,
+  "matched_count": 23,
   "news": [
     {
-      "id": "2e493af81683",
-      "title": "「疲れた」と感じたときにはもう手遅れ…脳疲労の研究者が「早めに休息を」と勧める\"手の先\"に現れる兆候(プレジデントオンライン)",
-      "published": "2026-05-11T08:45:38+00:00",
-      "summary": "長時間デスクワークを続けるとパフォーマンスは落ちがちだ。どのタイミングで休息をとるべきか。筑波大学の松井崇准教授は「脳の性能は疲れを実感する1時間前くらいから落ち始めているため、疲れを感じた時点で手遅",
+      "id": "0ce182d473f2",
+      "title": "13万人の調査で判明。コーヒーを飲む人は認知症リスクが18%低い？米国最新研究の結論(ウィメンズヘルス)",
+      "published": "2026-05-11T14:00:30+00:00",
+      "summary": "次に眠い目をこすりながら起きて、まっすぐコーヒーメーカーへ向かうとき、こう思ってもいいかもしれない。その一杯は、脳の健康を支えている可能性がある。 これは、ハーバード大学の研究者たちによる新しい研究",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/5eba38f1147c25b1e26223cd29a8bb0389f88ea2?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/319fcddc48ed2d8e0c75b8942837cdc4a4f9de6e?source=rss"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "認知症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fc7a32ef6545",
+      "title": "60を過ぎてからの恋愛【後編】人生の降り口は別々でも共に生きるという覚悟(HALMEK up)",
+      "published": "2026-05-11T13:15:02+00:00",
+      "summary": "シニアの事実婚で発覚するジェネレーションギャップは、年齢差があるほど開きが大きいのに…。口喧嘩しながら出かけたクルーズ旅行で想定外の大発見は、王子様が身近にいたことでした。",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/70829a106e1e7c366192fcfb78fa812c79792819?source=rss"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "699e5ac76a30",
-      "title": "兵庫・赤穂の魅力紹介　地方7紙が連携企画(共同通信)",
-      "published": "2026-05-11T08:44:01+00:00",
-      "summary": "神戸新聞社などの地方紙7社は11日、発行エリアの魅力を発信する合同企画「『ふるさとの光』発見プロジェクト」第7弾を発表した。今回は兵庫県赤穂市を舞台に「日本遺産・赤穂の塩」など16件を紹介した。",
+      "id": "73b1975c163b",
+      "title": "新マルウェアの標的はiPhone。リンククリックだけで情報を抜き取る「DarkSword」の対策(ライフハッカー・ジャパン)",
+      "published": "2026-05-11T13:01:01+00:00",
+      "summary": "iPhoneをお使いの方はご注意ください。昨年の11月以降、ハッカーたちがこぞって悪用しはじめた新しいセキュリティリスクが存在します。 こうした攻撃の標的になる可能性は低いかもしれませんが、とはいえ",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/4bcccf9517ed0802e967f68c71d18dcec63b3953?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/a3175138cf69f48c9453b3bb1e5c788e723a9241?source=rss"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "b38a98229f16",
-      "title": "はしか感染拡大防止 適切な情報提供を要請 厚労省",
-      "published": "2026-05-11T08:35:00+00:00",
-      "summary": "はしか感染拡大防止 適切な情報提供を要請 厚労省&nbsp;&nbsp;医療介護CBnews京浜東北線に「はしか」感染者 埼玉県が同乗者に異例注意喚起 詳細な移動経路を公表（テレビ朝日系（ANN））&nbsp;&nbsp;Yahoo!ニュースはしか感染者400人超える ワクチン接種を&nbsp;&nbsp;NHKニュースはしか、2026年累計400人超に 過去10年で最多の19年に迫るペース&nbsp;&nbsp;日本経済新聞増えるはしか、埼玉県ではコロナ禍前を超える 県「ワクチン接種を」&nbsp;&nbsp;朝日新聞",
+      "id": "340c6cea36df",
+      "title": "『隠れ糖尿病』の初期サインをご存じですか？ 血糖値がどうなると「境界型」？【医師解説】",
+      "published": "2026-05-11T12:55:30+00:00",
+      "summary": "『隠れ糖尿病』の初期サインをご存じですか？ 血糖値がどうなると「境界型」？【医師解説】&nbsp;&nbsp;メディカルドック『隠れ糖尿病』の初期サインをご存じですか？ 血糖値がどうなると「境界型」？【医師解説】【Gallery】&nbsp;&nbsp;メディカルドック原因は「肥満」だけじゃない…「女性の糖尿病」糖尿病専門医・大西由希子氏が解説する発症メカニズム「初期段階は無症状」「中高年女性に発症急増のワケ」（文春オンライン）&nbsp;&nbsp;Yahoo!ニュースこれをやらないと老化が加速する…｢40代以上の4人に1人が糖尿病患者｣の日本人に必要な“食べ方”【2026年3月BEST】&nbsp;&nbsp;PRESIDENT Online（プレジデントオンライン）",
       "sources": [
         {
-          "name": "医療介護CBnews",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pVGpiNl9Bai1td0VkTDh5ZTBLeHBkalM3dkJYYzhlRDJMTXdidUx0OWlQalpHSGxESERicTlnRk1QSVZ6SUZjQXYyMGZvY3ItNmh5aXQxR2p1aEk?oc=5"
+          "name": "メディカルドック",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuRGFJVmFJQUZ5Y0lQbFV1Q2hTSllHT1BMNXlpYmNnX01uV1dVYVpQRVM0UTBKenlqcmVWd2U5NUd0ZGxCSHZqYUNsZWVOd1Rfa3o1YVZ3SVBiQQ?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "80affbcf999d",
-      "title": "50代目前で脳梗塞と乳がんを経験…麻木久仁子さんが50代で出会った「薬膳」「大学での学び直し」(文春オンライン)",
-      "published": "2026-05-11T08:12:15+00:00",
-      "summary": "還暦を過ぎて放送大学に入学し、今年で4年目を迎えた麻木久仁子さん。大病を患ったことが学び直しのきっかけになったという。",
+      "id": "8ef5dd12d4c4",
+      "title": "【THE SHINZONE（ザ シンゾーン）】の小花柄ロングスカートは名品！／スタイリスト徳永千夏さん(LEE)",
+      "published": "2026-05-11T12:50:02+00:00",
+      "summary": "春夏のmy定番アイテムは「小花柄」！ 毎年この季節になるとなぜか手に取りたくなるんですよね。 今季も、「名品」と思える小花柄スカートを、Shinzoneで発見しました！",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/75cf9b303c79ba1b446a0b22ca03301376ccae26?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/96d9516dd9d94d10843318048b9c6ab467a9ee24?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "e2125db42c63",
+      "title": "第一三共の3種混合ワクチン承認 はしかと風疹におたふく追加",
+      "published": "2026-05-11T12:15:04+00:00",
+      "summary": "第一三共の3種混合ワクチン承認 はしかと風疹におたふく追加&nbsp;&nbsp;日本経済新聞MMRワクチン約30年ぶりに使用へ はしか・おたふくかぜ・風疹を予防する3種混合ワクチン 国内製造販売を承認 厚労省&nbsp;&nbsp;Yahoo!ニュース3種混合ワクチンを承認 おたふく含む、約30年ぶり&nbsp;&nbsp;北海道新聞デジタル３種混合ワクチンを承認&nbsp;&nbsp;oita-press.co.jpおたふくかぜで難聴に 当事者の医師が伝えたいこと&nbsp;&nbsp;毎日新聞",
+      "sources": [
+        {
+          "name": "日本経済新聞",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02LVdod3BZazUybEE1RGlDSkgzM3BuZWpJWFdCY1N1RDFBeC1GdTJGOTJoLWlWSXp1NkdTTXFvQXhNc0NBa2liNHhMMnI2akFHM3pSWUJTaFFGWGlaSmZPOTJfbXplLVJLNmRvUA?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "かぜ",
+          "related_drugs": [
+            {
+              "slug": "theophylline",
+              "name": "ユニコン錠１００　１００ｍｇ（選）"
+            },
+            {
+              "slug": "cetirizine",
+              "name": "ザイザルシロップ０．０５％（選）"
+            },
+            {
+              "slug": "morphine",
+              "name": "モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」"
+            },
+            {
+              "slug": "loratadine",
+              "name": "クラリチン錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "chlorpheniramine",
+              "name": "セレスタミン配合錠（選）"
+            },
+            {
+              "slug": "dextromethorphan",
+              "name": "デキストロメトルファン臭化水素酸塩細粒１０％「ツルハラ」"
+            },
+            {
+              "slug": "acetaminophen",
+              "name": "トラムセット配合錠（選）"
+            },
+            {
+              "slug": "codeine",
+              "name": "ムコブロチン配合シロップ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f57b9d8e08eb",
+      "title": "コウモリから新型コロナウイルス発見！ タイ政府「人への感染確認されず」感染力低との見解。",
+      "published": "2026-05-11T11:59:28+00:00",
+      "summary": "コウモリから新型コロナウイルス発見！ タイ政府「人への感染確認されず」感染力低との見解。&nbsp;&nbsp;タイニュース・クロスボンバータイで新型コロナ類似ウイルス発見、人への感染能力ありか 東大など&nbsp;&nbsp;日本経済新聞近縁コロナ、アジア大規模移動か タイコウモリから未発見ウイルス | | 全国のニュース&nbsp;&nbsp;佐賀新聞タイのコウモリから新型コロナの近縁種見つける 東大医科研など（毎日新聞）&nbsp;&nbsp;Yahoo!ニュースタイのコウモリから新型コロナの近縁種見つける 東大医科研など&nbsp;&nbsp;Yahoo!ニュース",
+      "sources": [
+        {
+          "name": "タイニュース・クロスボンバー",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBtc09wLXRqR3dEVHJjT29yYmI3S1NmM2NycndKQWhPODZxRmZaXzhMU1hHRXFtRmhvX2hrVFZWOVRCSklmSUozV1M3dE1wY0lseXBz?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "d09003fa991a",
+      "title": "「白血病のあざ」は何色になる？普通のあざと違う”見逃せない特徴”を医師が解説！(メディカルドック)",
+      "published": "2026-05-11T10:00:02+00:00",
+      "summary": "白血病になると、あざができやすくなる症状があることをご存じですか。 白血病は血液のがんといわれ、がん化した白血病細胞が全身を巡ってさまざまな症状を引き起こす病気です。 感染症にかかりやすくなるイメー",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/3048bffd7e70894a4131b1dca5b8d40392cdc3fe?source=rss"
         }
       ],
       "matched_keywords": [
@@ -331,111 +439,55 @@
         },
         {
           "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳がん",
+          "name": "myeloid leukemia",
+          "keyword": "白血病",
           "related_drugs": [
             {
-              "slug": "atorvastatin",
-              "name": "アトーゼット配合錠ＨＤ（選）"
-            },
-            {
-              "slug": "pravastatin",
-              "name": "メバロチン錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "simvastatin",
-              "name": "リポバス錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "rosuvastatin",
-              "name": "クレストールＯＤ錠５ｍｇ（選）"
-            },
-            {
-              "slug": "clopidogrel",
-              "name": "プラビックス錠７５ｍｇ（選）"
-            },
-            {
-              "slug": "warfarin",
-              "name": "ワルファリンＫ細粒０．２％「ＮＳ」"
-            },
-            {
-              "slug": "prasugrel",
-              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "脳梗塞",
-          "related_drugs": [
-            {
-              "slug": "atorvastatin",
-              "name": "アトーゼット配合錠ＨＤ（選）"
-            },
-            {
-              "slug": "valsartan",
-              "name": "ディオバンＯＤ錠１６０ｍｇ（選）"
-            },
-            {
-              "slug": "pravastatin",
-              "name": "メバロチン錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "simvastatin",
-              "name": "リポバス錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "enalapril",
-              "name": "レニベース錠１０　１０ｍｇ（選）"
-            },
-            {
-              "slug": "lisinopril",
-              "name": "ロンゲス錠２０ｍｇ（選）"
-            },
-            {
-              "slug": "diltiazem",
-              "name": "ヘルベッサー錠６０　６０ｍｇ（選）"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "エックスフォージ配合ＯＤ錠（選）"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "ミカムロ配合錠ＢＰ（選）"
-            },
-            {
-              "slug": "rosuvastatin",
-              "name": "クレストールＯＤ錠５ｍｇ（選）"
-            },
-            {
-              "slug": "verapamil",
-              "name": "ワソラン錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "losartan",
-              "name": "ニューロタン錠５０ｍｇ（選）"
-            },
-            {
-              "slug": "warfarin",
-              "name": "ワルファリンＫ細粒０．２％「ＮＳ」"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "ザルティア錠５ｍｇ（選）"
-            },
-            {
-              "slug": "fenofibrate",
-              "name": "トライコア錠８０ｍｇ（選）"
-            },
-            {
-              "slug": "prasugrel",
-              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
             }
           ]
         }
       ]
+    },
+    {
+      "id": "5fc4bc0b950e",
+      "title": "ミツバチ、やっぱり数学できるのか。最新研究で名誉回復へ(ギズモード・ジャパン)",
+      "published": "2026-05-11T10:00:01+00:00",
+      "summary": "かつてミツバチは、「ゼロの概念を理解している昆虫」として世界中のニュースで話題になりました。 ところがその後、「実は数ではなく見た目のパターンを見ていただけでは？」という反論が登場し、評価は一転。さ",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/d58da76c52d32b6bdfeee81b177b96e0e8113666?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "c9373fa62ed2",
+      "title": "手足口病が増加 熊本県感染症情報",
+      "published": "2026-05-11T09:47:10+00:00",
+      "summary": "手足口病が増加 熊本県感染症情報&nbsp;&nbsp;熊本日日新聞社幼児を中心とした感染症「手足口病」 宮崎県内の患者数は前週比1.69倍 3週連続で流行警報レベル超&nbsp;&nbsp;au Webポータル幼児を中心とした感染症「手足口病」 宮崎県内の患者数は前週比1.69倍 3週連続で流行警報レベル超（MRT宮崎放送）&nbsp;&nbsp;Yahoo!ニュース",
+      "sources": [
+        {
+          "name": "熊本日日新聞社",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LRElxMm1DVTBlcmVYRklvN2tFMHpvdTE3ODFsc2REYVZJTHRXa0tQRS1haGhlU0xseWZWS2xZMHRkQXVOTUthcmN2Q05FZXM?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "b38a98229f16",
+      "title": "はしか感染拡大防止 適切な情報提供を要請 厚労省",
+      "published": "2026-05-11T08:35:00+00:00",
+      "summary": "はしか感染拡大防止 適切な情報提供を要請 厚労省&nbsp;&nbsp;医療介護CBnewsはしか感染拡大防止 適切な情報提供を要請 - 厚労省（医療介護ＣＢニュース）&nbsp;&nbsp;Yahoo!ニュース【画像まとめ】京浜東北線に「はしか」感染者 埼玉県が同乗者に異例注意喚起 詳細な移動経路を公表&nbsp;&nbsp;テレ朝NEWSはしか感染者400人超える ワクチン接種を&nbsp;&nbsp;NHKニュースはしか、2026年累計400人超に 過去10年で最多の19年に迫るペース&nbsp;&nbsp;日本経済新聞",
+      "sources": [
+        {
+          "name": "医療介護CBnews",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pVGpiNl9Bai1td0VkTDh5ZTBLeHBkalM3dkJYYzhlRDJMTXdidUx0OWlQalpHSGxESERicTlnRk1QSVZ6SUZjQXYyMGZvY3ItNmh5aXQxR2p1aEk?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "6c1ffdc70ba3",
@@ -459,19 +511,6 @@
         {
           "name": "au Webポータル",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1PMmJxbFZYaGxxRW1oVmxJcU53cFJ5dkM5ZGtjQnJSeTd5VHdWbHFxaVNnOHJ1QXFaTVVSZkZBVHRFZE0xSVF3ZEhNSEhuWk84OFRhWmlseldFR2doeHN6TFdkQ3BNZUM0NURHUzFvYXdUYjYyMlYydUFmTQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "340c6cea36df",
-      "title": "『隠れ糖尿病』の初期サインをご存じですか？ 血糖値がどうなると「境界型」？【医師解説】",
-      "published": "2026-05-11T07:37:58+00:00",
-      "summary": "『隠れ糖尿病』の初期サインをご存じですか？ 血糖値がどうなると「境界型」？【医師解説】&nbsp;&nbsp;メディカルドック原因は「肥満」だけじゃない…「女性の糖尿病」糖尿病専門医・大西由希子氏が解説する発症メカニズム「初期段階は無症状」「中高年女性に発症急増のワケ」（文春オンライン）&nbsp;&nbsp;Yahoo!ニュース健康診断では指摘されにくい…「隠れ糖尿病」の初期サイン (2026年5月10日掲載)&nbsp;&nbsp;ライブドアニュースこれをやらないと老化が加速する…｢40代以上の4人に1人が糖尿病患者｣の日本人に必要な“食べ方”【2026年3月BEST】&nbsp;&nbsp;PRESIDENT Online（プレジデントオンライン）『隠れ糖尿病』の初期サインをご存じですか？ 血糖値がどうなると「境界型」？【医師解説】【Gallery】&nbsp;&nbsp;メディカルドック",
-      "sources": [
-        {
-          "name": "メディカルドック",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuRGFJVmFJQUZ5Y0lQbFV1Q2hTSllHT1BMNXlpYmNnX01uV1dVYVpQRVM0UTBKenlqcmVWd2U5NUd0ZGxCSHZqYUNsZWVOd1Rfa3o1YVZ3SVBiQQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -518,7 +557,7 @@
     {
       "id": "831d3ac6d4ba",
       "title": "全身投与を介した脳へのmRNA送達戦略 －中枢神経系疾患の新たな治療基盤として期待－",
-      "published": "2026-05-11T05:04:24+00:00",
+      "published": "2026-05-11T05:05:17+00:00",
       "summary": "全身投与を介した脳へのmRNA送達戦略 －中枢神経系疾患の新たな治療基盤として期待－&nbsp;&nbsp;t.u-tokyo.ac.jp",
       "sources": [
         {
@@ -2073,7 +2112,7 @@
       "id": "a795f9a622bc",
       "title": "【医師が明かす】「認知症リスクが30倍」になると言われている要因とは？(ダイヤモンド・オンライン)",
       "published": "2026-05-10T21:30:00+00:00",
-      "summary": "【医師が明かす】「認知症リスクが30倍」になると言われている要因とは？(ダイヤモンド・オンライン)&nbsp;&nbsp;Yahoo!ファイナンス【医師が教える】認知症になりにくい人の「シンプルすぎる習慣」・ベスト1&nbsp;&nbsp;ダイヤモンド・オンライン認知症の45%は予防できる…権威のある医学専門誌が認めた\"最怖\"リスクは｢悪玉コレステロール｣ともう一つ&nbsp;&nbsp;PRESIDENT Online（プレジデントオンライン）1万人を診た認知症外来専門医・内野勝行氏が直伝！“予防メシ”「認知症に良い食べ物は…」&nbsp;&nbsp;文春オンライン4割近くもリスクが変わる!? 認知症を避けたい40代以上が、今日から取り入れたくなる意外な生活習慣&nbsp;&nbsp;ｄメニューニュース",
+      "summary": "【医師が明かす】「認知症リスクが30倍」になると言われている要因とは？(ダイヤモンド・オンライン)&nbsp;&nbsp;Yahoo!ファイナンス【医師が教える】認知症になりにくい人の「シンプルすぎる習慣」・ベスト1&nbsp;&nbsp;ダイヤモンド・オンライン1万人を診た認知症外来専門医・内野勝行氏が直伝！“予防メシ”「認知症に良い食べ物は…」&nbsp;&nbsp;文春オンライン将来的に5人に1人がなると言われる「認知症」意外な習慣でリスク高まる? (2026年5月10日掲載)&nbsp;&nbsp;ライブドアニュース4割近くもリスクが変わる!? 認知症を避けたい40代以上が、今日から取り入れたくなる意外な生活習慣&nbsp;&nbsp;ｄメニューニュース",
       "sources": [
         {
           "name": "Yahoo!ファイナンス",
@@ -3056,7 +3095,7 @@
       "id": "1754586fd146",
       "title": "胸の圧迫感、息切れ、多くの住民が肺がん検診に行くことを心配",
       "published": "2026-05-10T09:01:25+00:00",
-      "summary": "胸の圧迫感、息切れ、多くの住民が肺がん検診に行くことを心配&nbsp;&nbsp;Laodong.vn初期症状など肺がんにまつわる七つの通説、その真偽は(2/3)&nbsp;&nbsp;CNN初期症状など肺がんにまつわる七つの通説、その真偽は（CNN.co.jp）&nbsp;&nbsp;Yahoo!ニュース",
+      "summary": "胸の圧迫感、息切れ、多くの住民が肺がん検診に行くことを心配&nbsp;&nbsp;Laodong.vn",
       "sources": [
         {
           "name": "Laodong.vn",
@@ -3640,32 +3679,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/4b8f81062daa8dba03c61e73d2b7af0304720877?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "b9ec80c39f89",
-      "title": "川崎の３０代男性がはしか感染 陽性判明前には東横線やＪＲ南武線を利用",
-      "published": "2026-05-09T08:40:00+00:00",
-      "summary": "川崎の３０代男性がはしか感染 陽性判明前には東横線やＪＲ南武線を利用&nbsp;&nbsp;カナロコ",
-      "sources": [
-        {
-          "name": "カナロコ",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yT01UaVd5OWJ3ODNXQ2d6bkRPY2VyUFNEZ3UxeHlaS2IwRW5rU2wtX0E4YmIzaXJYd3FfaVkxR0lNaUtja0FkTzNsbzc3eHdjOFdYck04ZmVxRUJpWHY1SGZnM3FJN292aHdGaw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "ec0edba2f8a8",
-      "title": "歯周病はなぜ危険なのか──心臓、脳、腎臓まで蝕む「慢性炎症」の連鎖（ニューズウィーク日本版）",
-      "published": "2026-05-09T08:20:02+00:00",
-      "summary": "歯周病はなぜ危険なのか──心臓、脳、腎臓まで蝕む「慢性炎症」の連鎖（ニューズウィーク日本版）&nbsp;&nbsp;Yahoo!ニュースGoogle ニュースで見出しと意見をもっと見る",
-      "sources": [
-        {
-          "name": "Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9DOVBxVTVGaGRrOV84TVQxVDZEV0R6TVV4QTNiMVE1YmFTSllDMTFnS3BsYy1Bc202LVJaNnRtbjVZeHRYQWFzQnhyd09BaDlqS0VNUk1yb1g1YjBjc1ZnZnV4ZkhoRDNOTFVJXzZfMWQ2c2dLd0dyVmplTWFmZXM?oc=5"
         }
       ],
       "matched_keywords": []
@@ -5050,180 +5063,6 @@
             {
               "slug": "levetiracetam",
               "name": "レベチラセタム粒状錠５００ｍｇ「サワイ」"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "b46e2f1dffdc",
-      "title": "埼玉県民の命を守る最後の砦として。医師不足に立ち向かう県立病院の覚悟(Medical Note)",
-      "published": "2026-05-07T02:50:34+00:00",
-      "summary": "埼玉県は人口が多い一方で、医師や看護師が不足している県だ。地域によっては医療提供体制の維持が極めて困難になりつつあり、特に高齢化が加速する県北部や秩父などでは、救急や入院医療の支え手をどう確保するかが",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/39b3023bd6455afe84d07198ba88f10f5b0de369?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "460b5dad9775",
-      "title": "大気が存在する太陽系外縁天体、国立天文台など発見　冥王星以外では初(ITmedia NEWS)",
-      "published": "2026-05-07T02:38:31+00:00",
-      "summary": "国立天文台は5月5日、直径が冥王星の5分の1程度の太陽系外縁天体「（612533）2002 XV93」が、極めて薄い大気を持っていると発表した。「太陽系小天体についての理解を大いに深める新たな知見」",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/bd96f930be0f80605b9a17b1dcdd4de7a04fe97b?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "6a51fa20af6a",
-      "title": "【闘病】「大したことない」に絶望。『関節リウマチ』ではなく『シェーグレン症候群』の地獄(メディカルドック)",
-      "published": "2026-05-06T11:03:16+00:00",
-      "summary": "2001年、足首を捻挫したことをきっかけに整形外科を受診した、たいママさん（仮称）。治療後も足のだるさが続き、やがて手の関節にも痛みが表れるようになりました。 リウマチの診断と薬の変更、寛解（病気の",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/38ba20d4527b3a2a8f2d154a725502d448af09ee?source=rss"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "rheumatoid arthritis",
-          "keyword": "関節リウマチ",
-          "related_drugs": [
-            {
-              "slug": "tacrolimus",
-              "name": "プログラフカプセル１ｍｇ（選）"
-            },
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "cyclosporine",
-              "name": "ネオーラル５０ｍｇカプセル（選）"
-            },
-            {
-              "slug": "meloxicam",
-              "name": "モービック錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "clopidogrel",
-              "name": "プラビックス錠７５ｍｇ（選）"
-            },
-            {
-              "slug": "diclofenac",
-              "name": "ボルタレンサポ５０ｍｇ（選）"
-            },
-            {
-              "slug": "budesonide",
-              "name": "シムビコートタービュヘイラー６０吸入（選）"
-            },
-            {
-              "slug": "celecoxib",
-              "name": "セレコックス錠２００ｍｇ（選）"
-            },
-            {
-              "slug": "montelukast",
-              "name": "シングレアＯＤ錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "ibuprofen",
-              "name": "ブルフェン顆粒２０％（選）"
-            },
-            {
-              "slug": "loxoprofen",
-              "name": "ロキソニンゲル１％（選）"
-            },
-            {
-              "slug": "warfarin",
-              "name": "ワルファリンＫ細粒０．２％「ＮＳ」"
-            },
-            {
-              "slug": "pregabalin",
-              "name": "リリカＯＤ錠１５０ｍｇ（選）"
-            },
-            {
-              "slug": "prasugrel",
-              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
-            },
-            {
-              "slug": "tramadol",
-              "name": "トラマールＯＤ錠５０ｍｇ（選）"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "リウマチ",
-          "keyword": "リウマチ",
-          "related_drugs": [
-            {
-              "slug": "tacrolimus",
-              "name": "プログラフカプセル１ｍｇ（選）"
-            },
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "cyclosporine",
-              "name": "ネオーラル５０ｍｇカプセル（選）"
-            },
-            {
-              "slug": "meloxicam",
-              "name": "モービック錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "clopidogrel",
-              "name": "プラビックス錠７５ｍｇ（選）"
-            },
-            {
-              "slug": "diclofenac",
-              "name": "ボルタレンサポ５０ｍｇ（選）"
-            },
-            {
-              "slug": "budesonide",
-              "name": "シムビコートタービュヘイラー６０吸入（選）"
-            },
-            {
-              "slug": "celecoxib",
-              "name": "セレコックス錠２００ｍｇ（選）"
-            },
-            {
-              "slug": "montelukast",
-              "name": "シングレアＯＤ錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "ibuprofen",
-              "name": "ブルフェン顆粒２０％（選）"
-            },
-            {
-              "slug": "loxoprofen",
-              "name": "ロキソニンゲル１％（選）"
-            },
-            {
-              "slug": "warfarin",
-              "name": "ワルファリンＫ細粒０．２％「ＮＳ」"
-            },
-            {
-              "slug": "pregabalin",
-              "name": "リリカＯＤ錠１５０ｍｇ（選）"
-            },
-            {
-              "slug": "prasugrel",
-              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
-            },
-            {
-              "slug": "tramadol",
-              "name": "トラマールＯＤ錠５０ｍｇ（選）"
             }
           ]
         }

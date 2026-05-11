@@ -1,15 +1,95 @@
 {
-  "generated": "2026-05-11T08:58:12.352226+00:00",
-  "count": 22,
+  "generated": "2026-05-11T14:27:24.596357+00:00",
+  "count": 23,
   "news": [
     {
-      "id": "80affbcf999d",
-      "title": "50代目前で脳梗塞と乳がんを経験…麻木久仁子さんが50代で出会った「薬膳」「大学での学び直し」(文春オンライン)",
-      "published": "2026-05-11T08:12:15+00:00",
+      "id": "0ce182d473f2",
+      "title": "13万人の調査で判明。コーヒーを飲む人は認知症リスクが18%低い？米国最新研究の結論(ウィメンズヘルス)",
+      "published": "2026-05-11T14:00:30+00:00",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/75cf9b303c79ba1b446a0b22ca03301376ccae26?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/319fcddc48ed2d8e0c75b8942837cdc4a4f9de6e?source=rss"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "認知症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e2125db42c63",
+      "title": "第一三共の3種混合ワクチン承認 はしかと風疹におたふく追加",
+      "published": "2026-05-11T12:15:04+00:00",
+      "sources": [
+        {
+          "name": "日本経済新聞",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02LVdod3BZazUybEE1RGlDSkgzM3BuZWpJWFdCY1N1RDFBeC1GdTJGOTJoLWlWSXp1NkdTTXFvQXhNc0NBa2liNHhMMnI2akFHM3pSWUJTaFFGWGlaSmZPOTJfbXplLVJLNmRvUA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "かぜ",
+          "related_drugs": [
+            {
+              "slug": "theophylline",
+              "name": "ユニコン錠１００　１００ｍｇ（選）"
+            },
+            {
+              "slug": "cetirizine",
+              "name": "ザイザルシロップ０．０５％（選）"
+            },
+            {
+              "slug": "morphine",
+              "name": "モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」"
+            },
+            {
+              "slug": "loratadine",
+              "name": "クラリチン錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "chlorpheniramine",
+              "name": "セレスタミン配合錠（選）"
+            },
+            {
+              "slug": "dextromethorphan",
+              "name": "デキストロメトルファン臭化水素酸塩細粒１０％「ツルハラ」"
+            },
+            {
+              "slug": "acetaminophen",
+              "name": "トラムセット配合錠（選）"
+            },
+            {
+              "slug": "codeine",
+              "name": "ムコブロチン配合シロップ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d09003fa991a",
+      "title": "「白血病のあざ」は何色になる？普通のあざと違う”見逃せない特徴”を医師が解説！(メディカルドック)",
+      "published": "2026-05-11T10:00:02+00:00",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/3048bffd7e70894a4131b1dca5b8d40392cdc3fe?source=rss"
         }
       ],
       "keywords": [
@@ -290,107 +370,12 @@
         },
         {
           "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳がん",
+          "name": "myeloid leukemia",
+          "keyword": "白血病",
           "related_drugs": [
             {
-              "slug": "atorvastatin",
-              "name": "アトーゼット配合錠ＨＤ（選）"
-            },
-            {
-              "slug": "pravastatin",
-              "name": "メバロチン錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "simvastatin",
-              "name": "リポバス錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "rosuvastatin",
-              "name": "クレストールＯＤ錠５ｍｇ（選）"
-            },
-            {
-              "slug": "clopidogrel",
-              "name": "プラビックス錠７５ｍｇ（選）"
-            },
-            {
-              "slug": "warfarin",
-              "name": "ワルファリンＫ細粒０．２％「ＮＳ」"
-            },
-            {
-              "slug": "prasugrel",
-              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "脳梗塞",
-          "related_drugs": [
-            {
-              "slug": "atorvastatin",
-              "name": "アトーゼット配合錠ＨＤ（選）"
-            },
-            {
-              "slug": "valsartan",
-              "name": "ディオバンＯＤ錠１６０ｍｇ（選）"
-            },
-            {
-              "slug": "pravastatin",
-              "name": "メバロチン錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "simvastatin",
-              "name": "リポバス錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "enalapril",
-              "name": "レニベース錠１０　１０ｍｇ（選）"
-            },
-            {
-              "slug": "lisinopril",
-              "name": "ロンゲス錠２０ｍｇ（選）"
-            },
-            {
-              "slug": "diltiazem",
-              "name": "ヘルベッサー錠６０　６０ｍｇ（選）"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "エックスフォージ配合ＯＤ錠（選）"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "ミカムロ配合錠ＢＰ（選）"
-            },
-            {
-              "slug": "rosuvastatin",
-              "name": "クレストールＯＤ錠５ｍｇ（選）"
-            },
-            {
-              "slug": "verapamil",
-              "name": "ワソラン錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "losartan",
-              "name": "ニューロタン錠５０ｍｇ（選）"
-            },
-            {
-              "slug": "warfarin",
-              "name": "ワルファリンＫ細粒０．２％「ＮＳ」"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "ザルティア錠５ｍｇ（選）"
-            },
-            {
-              "slug": "fenofibrate",
-              "name": "トライコア錠８０ｍｇ（選）"
-            },
-            {
-              "slug": "prasugrel",
-              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
             }
           ]
         }
@@ -4534,153 +4519,6 @@
             {
               "slug": "levetiracetam",
               "name": "レベチラセタム粒状錠５００ｍｇ「サワイ」"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "6a51fa20af6a",
-      "title": "【闘病】「大したことない」に絶望。『関節リウマチ』ではなく『シェーグレン症候群』の地獄(メディカルドック)",
-      "published": "2026-05-06T11:03:16+00:00",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/38ba20d4527b3a2a8f2d154a725502d448af09ee?source=rss"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "rheumatoid arthritis",
-          "keyword": "関節リウマチ",
-          "related_drugs": [
-            {
-              "slug": "tacrolimus",
-              "name": "プログラフカプセル１ｍｇ（選）"
-            },
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "cyclosporine",
-              "name": "ネオーラル５０ｍｇカプセル（選）"
-            },
-            {
-              "slug": "meloxicam",
-              "name": "モービック錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "clopidogrel",
-              "name": "プラビックス錠７５ｍｇ（選）"
-            },
-            {
-              "slug": "diclofenac",
-              "name": "ボルタレンサポ５０ｍｇ（選）"
-            },
-            {
-              "slug": "budesonide",
-              "name": "シムビコートタービュヘイラー６０吸入（選）"
-            },
-            {
-              "slug": "celecoxib",
-              "name": "セレコックス錠２００ｍｇ（選）"
-            },
-            {
-              "slug": "montelukast",
-              "name": "シングレアＯＤ錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "ibuprofen",
-              "name": "ブルフェン顆粒２０％（選）"
-            },
-            {
-              "slug": "loxoprofen",
-              "name": "ロキソニンゲル１％（選）"
-            },
-            {
-              "slug": "warfarin",
-              "name": "ワルファリンＫ細粒０．２％「ＮＳ」"
-            },
-            {
-              "slug": "pregabalin",
-              "name": "リリカＯＤ錠１５０ｍｇ（選）"
-            },
-            {
-              "slug": "prasugrel",
-              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
-            },
-            {
-              "slug": "tramadol",
-              "name": "トラマールＯＤ錠５０ｍｇ（選）"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "リウマチ",
-          "keyword": "リウマチ",
-          "related_drugs": [
-            {
-              "slug": "tacrolimus",
-              "name": "プログラフカプセル１ｍｇ（選）"
-            },
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "cyclosporine",
-              "name": "ネオーラル５０ｍｇカプセル（選）"
-            },
-            {
-              "slug": "meloxicam",
-              "name": "モービック錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "clopidogrel",
-              "name": "プラビックス錠７５ｍｇ（選）"
-            },
-            {
-              "slug": "diclofenac",
-              "name": "ボルタレンサポ５０ｍｇ（選）"
-            },
-            {
-              "slug": "budesonide",
-              "name": "シムビコートタービュヘイラー６０吸入（選）"
-            },
-            {
-              "slug": "celecoxib",
-              "name": "セレコックス錠２００ｍｇ（選）"
-            },
-            {
-              "slug": "montelukast",
-              "name": "シングレアＯＤ錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "ibuprofen",
-              "name": "ブルフェン顆粒２０％（選）"
-            },
-            {
-              "slug": "loxoprofen",
-              "name": "ロキソニンゲル１％（選）"
-            },
-            {
-              "slug": "warfarin",
-              "name": "ワルファリンＫ細粒０．２％「ＮＳ」"
-            },
-            {
-              "slug": "pregabalin",
-              "name": "リリカＯＤ錠１５０ｍｇ（選）"
-            },
-            {
-              "slug": "prasugrel",
-              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
-            },
-            {
-              "slug": "tramadol",
-              "name": "トラマールＯＤ錠５０ｍｇ（選）"
             }
           ]
         }
