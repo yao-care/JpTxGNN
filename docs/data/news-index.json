@@ -1,7 +1,50 @@
 {
-  "generated": "2026-05-23T08:05:50.592075+00:00",
-  "count": 12,
+  "generated": "2026-05-23T13:00:29.585038+00:00",
+  "count": 13,
   "news": [
+    {
+      "id": "3c769fa8088d",
+      "title": "更年期の「はじまり」から「終わり」まで、女性が気を付けるべきこととは？　専門医が丁寧に「疑問」に答えます(OTONA SALONE)",
+      "published": "2026-05-23T12:02:21+00:00",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/abc068463f186f8a7ff08c7aabfc7f51a10e4cf3?source=rss"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "更年期",
+          "related_drugs": [
+            {
+              "slug": "clotrimazole",
+              "name": "エンペシドクリーム１％（選）"
+            },
+            {
+              "slug": "metronidazole",
+              "name": "メトロニダゾールゲル０．７５％「マルイシ」"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "閉経",
+          "keyword": "閉経",
+          "related_drugs": [
+            {
+              "slug": "clotrimazole",
+              "name": "エンペシドクリーム１％（選）"
+            },
+            {
+              "slug": "metronidazole",
+              "name": "メトロニダゾールゲル０．７５％「マルイシ」"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "c333e8bd729e",
       "title": "「認知症とアルツハイマー病って何が違うの？」すべては“小さな異変”から始まる、脳の血管障害(集英社オンライン)",
