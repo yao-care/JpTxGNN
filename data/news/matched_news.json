@@ -1,46 +1,479 @@
 {
-  "last_updated": "2026-05-24T08:16:25.000762+00:00",
-  "total_count": 39,
-  "matched_count": 5,
+  "last_updated": "2026-05-24T13:00:32.270733+00:00",
+  "total_count": 45,
+  "matched_count": 8,
   "news": [
     {
-      "id": "494904a0a627",
-      "title": "【痛み、ダウンタイムなし】美容医療は頭皮にまで。韓国の最新ケア2選(Hanako Web)",
-      "published": "2026-05-24T08:00:36+00:00",
-      "summary": "2026年に取材したばかりの最新韓国美容医療情報をお届け！ 韓国に来たならやっぱり美容はかかせない。ソウルでは頭皮管理もスキンケアの一環として捉え美容トレンドに。頭皮をしっかりほぐすことで美髪を作り",
+      "id": "5c3662d83e27",
+      "title": "アートがもっと面白くなる!? 障害のある作家と共創したスマートフォン(Numero TOKYO)",
+      "published": "2026-05-24T12:35:07+00:00",
+      "summary": "5月20日、Google Pixel 10aの日本限定「Isai Blue（イサイブルー）」が発売。日本のために開発された特別モデルは、障害のある作家の作品を扱う「HERALBONY（ヘラルボニー）」",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/379fd44783c740064cb756a262b89856ece5ab8e?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/b0ade2567dc69e5077de65aeff73cf6ea5adc850?source=rss"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "0d698ace3f6f",
-      "title": "レンチン5分で絶品「モヤシのとろとろ中華スープ」。とろみとゴマ油の香りが食欲をそそる！(ESSE",
-      "published": "2026-05-24T07:00:37+00:00",
-      "summary": "安定した価格で、家計の強い味方になる食材「モヤシ」。今回は、SNSでレシピが人気の料理研究家・まるみキッチンさんに、「モヤシのとろとろ中華スープ」のレシピを教えてもらいました。",
+      "id": "549a786ff82b",
+      "title": "ストレスによるイライラや不安感、不眠を緩和する「本神」。頭痛やめまいにも効きます(家庭画報.com)",
+      "published": "2026-05-24T12:20:01+00:00",
+      "summary": "中医学のエキスパートである鍼灸師の兵頭 明先生が、ツボの効能や位置、効くメカニズムを解説します。健康の土台作りに、不調改善に、1日1分のツボ押しを習慣にしましょう。",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/a0afc93a2318a72c891c27b7e10ac8812c8ec91b?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/1835cfb96ab2c3e853554d10f1208327846993ef?source=rss"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "ea952deffd60",
-      "title": "「右の卵巣が機能していない」2度の卵巣嚢腫手術を経験した紺野ぶるま、妊娠・出産を経て伝えたいこと(週刊女性PRIME)",
-      "published": "2026-05-24T07:00:34+00:00",
-      "summary": "『女性芸人No1決定戦 THE W』で2024年、2025年と準優勝に輝く一方、私生活では'22年に第1子の長女を出産。しかし、自身は5歳と21歳のときに卵巣嚢腫で手術を経験し、卵子の数も少なく、妊娠",
+      "id": "87ef8bbf9b26",
+      "title": "夜寝る前【だら〜んと揺れるだけ】全身ゆるめて深いリラックス「バタフライのポーズ」(ヨガジャーナルオンライン)",
+      "published": "2026-05-24T12:15:00+00:00",
+      "summary": "寝る前のストレッチで「ちゃんと伸ばそう」としていませんか？でも、それでは体に力が入って逆効果になることも。だら〜んと力を抜いて揺れるバタフライポーズで、股関節から心身をゆるめて、寝る前の状態を整えてみ",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/c1ea95ef2875d6ecd3eb43c1b61885763cbbb8b7?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/8bb51bfd35dc1356ccf32ccb79b540b04d9935fc?source=rss"
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "a1d157b727fc",
+      "title": "更年期のケアは「早めに始めたほうがいい」のでしょうか？何からスタートすればいい？サプリ？検査？(OTONA SALONE)",
+      "published": "2026-05-24T12:02:40+00:00",
+      "summary": "閉経の前と後5年ずつ、合計10年を日本では更年期と呼びます。日本人の閉経平均年齢は研究によって50歳から52歳の間とされるので、45歳から57歳は更年期に該当する人も多いということに。 更年期の医療",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/56ea6ff594cb70c75047830bea9e498f48b3ce60?source=rss"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "更年期",
+          "related_drugs": [
+            {
+              "slug": "clotrimazole",
+              "name": "エンペシドクリーム１％（選）"
+            },
+            {
+              "slug": "metronidazole",
+              "name": "メトロニダゾールゲル０．７５％「マルイシ」"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "閉経",
+          "keyword": "閉経",
+          "related_drugs": [
+            {
+              "slug": "clotrimazole",
+              "name": "エンペシドクリーム１％（選）"
+            },
+            {
+              "slug": "metronidazole",
+              "name": "メトロニダゾールゲル０．７５％「マルイシ」"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ec956dc9e5f7",
+      "title": "2026年最新「ミノン」日焼け止めをお試し！肌に優しいミルクとジェルを徹底レビュー(＠BAILA)",
+      "published": "2026-05-24T11:50:52+00:00",
+      "summary": "「敏感肌」という概念や言葉が一般的でなかった1973年に、敏感な肌状態に着目してブランドをローンチした「ミノン」。製薬会社が皮膚科学に基づいて開発し、肌への負担や刺激を徹底追求！ 肌のバリア機能や健や",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/127f2b88073d8403fb0611eeb6f2f1fe72d24b16?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "23d9f4b15a36",
+      "title": "「最高に細見えします」「褒められました」　GUの“1990円リブパンツ”が大好評　「とても軽くてゆったり履ける」「色違いで購入しました」(ねとらぼ)",
+      "published": "2026-05-24T11:50:00+00:00",
+      "summary": "GUから販売されている「リブプルオンパンツ」が、落ち感がよく適度なフレアシルエットが足のラインを拾わず細見え効果が抜群な上、サラッとした生地感で軽いので着心地もいいと高評価を集めています。 本記",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/7cd672a91b07deec15a32f5bc5fb03647410c8a2?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "02802f45b64a",
+      "title": "HPVウイルスによる病気を義務予防接種リストに追加、国民は予防の機会が増えます",
+      "published": "2026-05-24T10:48:02+00:00",
+      "summary": "HPVウイルスによる病気を義務予防接種リストに追加、国民は予防の機会が増えます&nbsp;&nbsp;Laodong.vnGoogle ニュースで見出しと意見をもっと見る",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcDNjMExPZk9Ec29FX0NwSFh0QnloUlhMaE8tRlZBZy0teE5MTUJXak5YV2ZjbFBZbC1KMWJXanR3a2p0M1dzZkFVZFg5LXh4X2ZvQ3gyS1o5Um5ObXJtYzFoY1g4eU8zYjRGcUY4TlB0cnljUm1yR1I0b0NUWVNNelZfVmpXQ05RZHRBZHRGdHJVTWJIN0UyM1lGYVU0QWk4QTFsa05naTNDZnhwQTVwYlRjVGw3S29MMGg2ZTMxMHhyeFNKZ210RW1R?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "b2ecccd76e9f",
+      "title": "麻薬使用者は数ヶ月の使用後も発見される可能性がある",
+      "published": "2026-05-24T09:46:22+00:00",
+      "summary": "麻薬使用者は数ヶ月の使用後も発見される可能性がある&nbsp;&nbsp;Laodong.vn",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc1owYUJ6alItOHNDbEI3QTExeExCNFhuc3BtV2ZSY2ZUcFFKLXZjUk92N2lHalVMNVV6NHE1STFQdTFQekxUMEp1N1lvTGVxUHNuYUd5MjZLM0Z5b0dNd2VWc2pnNGJDb3FZcGgtTkVFQmdnSE9tTmJ2eGVoMmc2TzdqRk5lZTloRkRxMDA5UHpwbXNNbmMyUzlOcUFrRzNOdmNpNmlua25jdw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "c39d4a05b54d",
+      "title": "難病「膿疱性乾癬」に苦しむ7歳息子、全身に発疹、高熱、感染を誤解され… 母「普通に接して」「受け入れられる社会であってほしい」",
+      "published": "2026-05-24T08:00:00+00:00",
+      "summary": "難病「膿疱性乾癬」に苦しむ7歳息子、全身に発疹、高熱、感染を誤解され… 母「普通に接して」「受け入れられる社会であってほしい」&nbsp;&nbsp;デイリースポーツGoogle ニュースで見出しと意見をもっと見る",
+      "sources": [
+        {
+          "name": "デイリースポーツ",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XY1JvQTRHUzBoa3c1Ynh0bTV6M3Vtc3NmNmhpaVcxRE5SMjVGekFaU2tBVl9TdjZ0TTdLWWhxbUtXejlXdUx6YTFxWTFhZlgxVTh3OFBzWWZ2TTNsWkpkMEV5dEVLRGdpaTJPSV9MYlQ4UQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "psoriasis",
+          "keyword": "乾癬",
+          "related_drugs": [
+            {
+              "slug": "tacrolimus",
+              "name": "プログラフカプセル１ｍｇ（選）"
+            },
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "cyclosporine",
+              "name": "ネオーラル５０ｍｇカプセル（選）"
+            },
+            {
+              "slug": "budesonide",
+              "name": "シムビコートタービュヘイラー６０吸入（選）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b5cbca6a6a23",
+      "title": "膵臓がん治療にようやく「希望の光」─不可能と言われた新薬開発の道のり（クーリエ・ジャポン）",
+      "published": "2026-05-24T04:55:00+00:00",
+      "summary": "膵臓がん治療にようやく「希望の光」─不可能と言われた新薬開発の道のり（クーリエ・ジャポン）&nbsp;&nbsp;Yahoo!ニュース",
+      "sources": [
+        {
+          "name": "Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EWVUyZmEycW5EWmVMQ2I3Wkl6WUVIS1V5dTJOTDBySlZ0OHNXSFlQa2E5V2pUOXhMTnhYcmhaQUlsWkZuMzlDMzF4QkltZG1QOXEtMXQzblN0VzdxMExVbG5KV3BSNE5PNUxmalBnZXg1OXBjQndHSmJIckFmVE0?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "acyclovir",
+              "name": "ゾビラックス軟膏５％（選）"
+            },
+            {
+              "slug": "theophylline",
+              "name": "ユニコン錠１００　１００ｍｇ（選）"
+            },
+            {
+              "slug": "risperidone",
+              "name": "リスパダール錠２ｍｇ（選）"
+            },
+            {
+              "slug": "valproic-acid",
+              "name": "セレニカＲ顆粒４０％（選）"
+            },
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "atorvastatin",
+              "name": "アトーゼット配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "cyclosporine",
+              "name": "ネオーラル５０ｍｇカプセル（選）"
+            },
+            {
+              "slug": "azithromycin",
+              "name": "ジスロマック細粒小児用１０％　１００ｍｇ（選）"
+            },
+            {
+              "slug": "valsartan",
+              "name": "ディオバンＯＤ錠１６０ｍｇ（選）"
+            },
+            {
+              "slug": "carbamazepine",
+              "name": "テグレトール錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "morphine",
+              "name": "モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」"
+            },
+            {
+              "slug": "pravastatin",
+              "name": "メバロチン錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "atenolol",
+              "name": "テノーミン錠５０　５０ｍｇ（選）"
+            },
+            {
+              "slug": "loperamide",
+              "name": "ロペミンカプセル１ｍｇ（選）"
+            },
+            {
+              "slug": "simvastatin",
+              "name": "リポバス錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "carvedilol",
+              "name": "アーチスト錠２０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "diazepam",
+              "name": "ホリゾン錠５ｍｇ（選）"
+            },
+            {
+              "slug": "lorazepam",
+              "name": "ワイパックス錠１．０　１ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "spironolactone",
+              "name": "アルダクトンＡ錠５０ｍｇ（選）"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "ロプレソール錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "enalapril",
+              "name": "レニベース錠１０　１０ｍｇ（選）"
+            },
+            {
+              "slug": "lisinopril",
+              "name": "ロンゲス錠２０ｍｇ（選）"
+            },
+            {
+              "slug": "diltiazem",
+              "name": "ヘルベッサー錠６０　６０ｍｇ（選）"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "エックスフォージ配合ＯＤ錠（選）"
+            },
+            {
+              "slug": "clarithromycin",
+              "name": "クラリス錠５０小児用　５０ｍｇ（選）"
+            },
+            {
+              "slug": "furosemide",
+              "name": "ラシックス錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "lidocaine",
+              "name": "リドカイン（１８ｍｇ）３０．５ｍｍ×５０．０ｍｍ貼付剤"
+            },
+            {
+              "slug": "bisoprolol",
+              "name": "メインテート錠５ｍｇ（選）"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "ミカムロ配合錠ＢＰ（選）"
+            },
+            {
+              "slug": "rosuvastatin",
+              "name": "クレストールＯＤ錠５ｍｇ（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "clopidogrel",
+              "name": "プラビックス錠７５ｍｇ（選）"
+            },
+            {
+              "slug": "sertraline",
+              "name": "ジェイゾロフトＯＤ錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "timolol",
+              "name": "デュオトラバ配合点眼液（選）"
+            },
+            {
+              "slug": "diclofenac",
+              "name": "ボルタレンサポ５０ｍｇ（選）"
+            },
+            {
+              "slug": "budesonide",
+              "name": "シムビコートタービュヘイラー６０吸入（選）"
+            },
+            {
+              "slug": "moxifloxacin",
+              "name": "ベガモックス点眼液０．５％（選）"
+            },
+            {
+              "slug": "verapamil",
+              "name": "ワソラン錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "levofloxacin",
+              "name": "クラビット点眼液１．５％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "celecoxib",
+              "name": "セレコックス錠２００ｍｇ（選）"
+            },
+            {
+              "slug": "ezetimibe",
+              "name": "ゼチーア錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "topiramate",
+              "name": "トピナ錠２５ｍｇ（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "montelukast",
+              "name": "シングレアＯＤ錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "lamotrigine",
+              "name": "ラミクタール錠２５ｍｇ（選）"
+            },
+            {
+              "slug": "hydrochlorothiazide",
+              "name": "プレミネント配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "losartan",
+              "name": "ニューロタン錠５０ｍｇ（選）"
+            },
+            {
+              "slug": "latanoprost",
+              "name": "ザラカム配合点眼液（選）"
+            },
+            {
+              "slug": "clotrimazole",
+              "name": "エンペシドクリーム１％（選）"
+            },
+            {
+              "slug": "amoxicillin",
+              "name": "ワイドシリン細粒２０％　２００ｍｇ"
+            },
+            {
+              "slug": "ampicillin",
+              "name": "ビクシリンＳ配合錠　（２５０ｍｇ）"
+            },
+            {
+              "slug": "lamivudine",
+              "name": "エプジコム配合錠（選）"
+            },
+            {
+              "slug": "warfarin",
+              "name": "ワルファリンＫ細粒０．２％「ＮＳ」"
+            },
+            {
+              "slug": "fenofibrate",
+              "name": "トライコア錠８０ｍｇ（選）"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            },
+            {
+              "slug": "prasugrel",
+              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
+            },
+            {
+              "slug": "tramadol",
+              "name": "トラマールＯＤ錠５０ｍｇ（選）"
+            },
+            {
+              "slug": "metronidazole",
+              "name": "メトロニダゾールゲル０．７５％「マルイシ」"
+            },
+            {
+              "slug": "lactulose",
+              "name": "ラグノスＮＦ経口ゼリー分包１２ｇ　５４．１６７％"
+            },
+            {
+              "slug": "levetiracetam",
+              "name": "レベチラセタム粒状錠５００ｍｇ「サワイ」"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "pancreatic cancer",
+          "keyword": "膵臓がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "2b2ccecbe2f5",
@@ -59,7 +492,7 @@
       "id": "9c7314b8ad16",
       "title": "アラブ地域はハンタウイルスとエボラ出血熱の発生を心配すべきか？",
       "published": "2026-05-24T01:05:26+00:00",
-      "summary": "アラブ地域はハンタウイルスとエボラ出血熱の発生を心配すべきか？&nbsp;&nbsp;arabnews.jp「日本で流行の可能性低い」 ハンタウイルスで感染症学会（共同通信）&nbsp;&nbsp;Yahoo!ニュース新・心のサプリ：カボベルデの話＝海原純子&nbsp;&nbsp;毎日新聞大西洋有数のリゾート島揺らした「見えない脅威」 テネリフェ島取材で見えたクルーズ船ハンタウイルス対応の舞台裏&nbsp;&nbsp;FNNプライムオンラインハンタウイルス感染は計10人に 新たにクルーズ船の乗員1人 ネズミなど齧歯類が媒介&nbsp;&nbsp;産経ニュース",
+      "summary": "アラブ地域はハンタウイルスとエボラ出血熱の発生を心配すべきか？&nbsp;&nbsp;arabnews.jp新・心のサプリ：カボベルデの話＝海原純子&nbsp;&nbsp;毎日新聞「日本で流行の可能性低い」 ハンタウイルスで感染症学会&nbsp;&nbsp;神戸新聞ハンタウイルス「集団感染」を読み解く 「アンデス型」の脅威と警戒すべき「未知のハンタウイルス」とは（AERA DIGITAL）&nbsp;&nbsp;Yahoo!ニュース世界保健機関（WHO）本部＝2025年1月、ジュネーブ（ロイター＝共同）&nbsp;&nbsp;産経ニュース",
       "sources": [
         {
           "name": "arabnews.jp",
@@ -102,24 +535,11 @@
       "id": "c429b78324cf",
       "title": "千代田区、はしかワクチン全額助成 19～49歳の区民や教員ら対象 来月15日から",
       "published": "2026-05-23T22:09:25+00:00",
-      "summary": "千代田区、はしかワクチン全額助成 19～49歳の区民や教員ら対象 来月15日から&nbsp;&nbsp;東京新聞デジタル千代田区、はしかワクチン全額助成 19〜49歳の区民や教員ら対象 来月15日から&nbsp;&nbsp;ｄメニューニュース麻疹急増中！ 今こそ対応を再確認せよ&nbsp;&nbsp;日経メディカルはしか流行の川崎市「ワクチン接種」独自支援へ 子どもや一部成人対象&nbsp;&nbsp;au Webポータルはしか 県内ワクチン接種率低下 ２４年度１、２回目９５％割る 予防へ県「検討を」&nbsp;&nbsp;福井新聞社",
+      "summary": "千代田区、はしかワクチン全額助成 19～49歳の区民や教員ら対象 来月15日から&nbsp;&nbsp;東京新聞デジタル感染拡大を防ぐには3回接種より「確実な2回接種」、麻疹ワクチンはこう考える&nbsp;&nbsp;日経メディカル千代田区、はしかワクチン全額助成 19〜49歳の区民や教員ら対象 来月15日から&nbsp;&nbsp;ｄメニューニュースはしかの感染リスクについて、どのように感じていますか？&nbsp;&nbsp;Yahoo!ニュースはしか流行の川崎市「ワクチン接種」独自支援へ 子どもや一部成人対象&nbsp;&nbsp;au Webポータル",
       "sources": [
         {
           "name": "東京新聞デジタル",
           "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAxV3E1QVJKaDRRZUg2alE1dEpielJrcWkyNFpCbDlLYVFzdUhxa3RkNWs1aUdWR2toM1hMTmpsZXZwMWwwODhpSHB2QUZqbHpkQ0JXRGZRLUhRbUpHNHVIYUtR?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "7e04f750967d",
-      "title": "「厄介な人」が老化を加速させる…最新研究が解き明かす人間関係の代償｜役に立つオモシロ医学論文",
-      "published": "2026-05-23T21:00:00+00:00",
-      "summary": "「厄介な人」が老化を加速させる…最新研究が解き明かす人間関係の代償｜役に立つオモシロ医学論文&nbsp;&nbsp;日刊ゲンダイDIGITAL「孤独はタバコより体に悪い」は本当か 食事や運動を頑張っても健康になれない人が見落としている“盲点”（オトナンサー）&nbsp;&nbsp;Yahoo!ニュース「孤独はタバコより体に悪い」は本当か 食事や運動を頑張っても健康になれない人が見落としている“盲点”&nbsp;&nbsp;ｄメニューニュース「同居家族がいるから安心」とは限らない、「家庭内孤立」者は独居者よりも精神的健康度が不良—健康長寿医療センター研究所&nbsp;&nbsp;GemMedソロ活ブームはなぜ起きたのか？ おひとりさま時代に必要な「心のケア」（PHPオンライン）&nbsp;&nbsp;Yahoo!ニュース",
-      "sources": [
-        {
-          "name": "日刊ゲンダイDIGITAL",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBraHNhVHlBc1d4UE45RzRTNFVTaXFCZWxWU1g3UkpWMklrNWpINXBZN0ZYRGE0S3JGNVRoMDZZdHlCQVdfaVNvRTd5amhOM3ZHRkFkeW9JeGVXamxrdXNtV3JHM1Y0c0ZQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -660,8 +1080,8 @@
       "matched_keywords": []
     },
     {
-      "id": "dffcf80385bf",
-      "title": "なぜ人はくすぐったいと笑ってしまうのか？2500年来の謎に迫る最新研究(Forbes JAPAN)",
+      "id": "b4182f129044",
+      "title": "なぜ人は「くすぐったいと笑う」のか？　2500年来の謎に迫る最新研究(Forbes JAPAN)",
       "published": "2026-05-22T06:00:00+00:00",
       "summary": "いま、自分で自分をくすぐったとしても、何も感じないだろう。しかし、ほかの誰かが自分をくすぐっている、と想像したらどうだろう。あなたは突然、身をよじり、息を切らし、思わず笑い声を上げ、やめてくれと懇願し",
       "sources": [
