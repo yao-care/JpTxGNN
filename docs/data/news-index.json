@@ -1,11 +1,39 @@
 {
-  "generated": "2026-05-25T09:48:46.206519+00:00",
-  "count": 9,
+  "generated": "2026-05-25T14:34:17.003995+00:00",
+  "count": 11,
   "news": [
+    {
+      "id": "3018be5c929d",
+      "title": "歯の健康と認知症の関わりは 函館で講演会",
+      "published": "2026-05-25T09:00:00+00:00",
+      "sources": [
+        {
+          "name": "47NEWS",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBvVEJib2NkVlBxUW94dW9yUlNMaVhJMEw5MWo4R1lTQ0ZuVUxyRldXelN6WHAwRHVRV3V6RXlGaDBrdjlDQkdpRXlTTQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "認知症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "e34d661accd4",
       "title": "LDLコレステロールを厳格に下げても、リポプロテイン(a)［Lp(a)］高値は心血管イベントの「残余リスク」",
-      "published": "2026-05-25T04:06:07+00:00",
+      "published": "2026-05-25T06:37:29+00:00",
       "sources": [
         {
           "name": "ncvc.go.jp",
@@ -85,6 +113,34 @@
             {
               "slug": "tramadol",
               "name": "トラマールＯＤ錠５０ｍｇ（選）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "62dbf90c0bde",
+      "title": "毎日のうたた寝が認知症リスクを下げる可能性？最新研究が示す意外な関係",
+      "published": "2026-05-25T06:00:54+00:00",
+      "sources": [
+        {
+          "name": "apf.inc",
+          "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNQXRDd25aWlBkOU9FUlVkdkhZWjI1Rm9GMFRkVWp0ems4YV8tN3NoRjNYWG5FS0g4dFpVSGo4UlI2TXpObktvOV8xYzFCc0FzU3NPVHRNejRzTHhXc1A2b2JNMl9ibUs1OVJDNllhNDJteFpxQlk0N0VNTmdGaHJiaGpta3VpTkUwT1UxVlpwemtUeWNqNG5wWkVaOEVFVUExeklPMXRjWlpfMG1LY3IwN0RmSlctM2psd2djTWpfemh0OHZVLUVMUEpZWjJMaDFqTnZ4MXI1bVV0b3Q0cVFPRFhpLUpvTzU2U014VG5Cc090NXkyM19ZYnh2WXpyaXR5NUdkM09MLU5uRmxITlpYMUtnZjFWZ1pWbEhvczQtNkxqZEJoNF9yQ2F6RXpNRXRrX28yNUdieDlYMU0?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "認知症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
             }
           ]
         }
