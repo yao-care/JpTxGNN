@@ -1,19 +1,15 @@
 {
-  "generated": "2026-05-26T09:35:13.625050+00:00",
-  "count": 14,
+  "generated": "2026-05-26T14:44:40.835442+00:00",
+  "count": 15,
   "news": [
     {
-      "id": "7b64a9dba1e7",
-      "title": "酒・タバコと同じくらい危険…10年続けると「大腸がん」発症率が2倍に跳ね上がる、職場で毎日やっている習慣(プレジデントオンライン)",
-      "published": "2026-05-26T09:15:00+00:00",
+      "id": "9f1f4b47d9b6",
+      "title": "酒･タバコと同じくらい危険…10年続けると｢大腸がん｣発症率が2倍に跳ね上がる､職場で毎日やっている習慣 - PRESIDENT Online（プレジデントオンライン）",
+      "published": "2026-05-26T09:00:00+00:00",
       "sources": [
         {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/c2223c2c8f3babe738b2c1b361d34e977e890bcb?source=rss"
-        },
-        {
-          "name": "Yahoo!ファイナンス",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdnltZUlJU0ZMck13LVJUQ1NnaXJhaEdfMENYd1hmd0JHQ0VkaWhkWHNkNTBKT05DTjR6bnF1M3kxUGhKZmhoQUl0bkdSWjN0cUtwNjBwdVBKdC1SQTd0YkNFYkRNcnd0SXJhSVVFSVg5RHhKUE9EMmdWWU9tbE1VS1d0ajE2RmM?oc=5"
+          "name": "PRESIDENT Online（プレジデントオンライン）",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UaXhkc2xJSGpwUHFjT2U5MXdFd3JtaWNFZURsaWlEcEtybmd0SDFuNkkwMHd1ZW41TkkyRUE3SWxfeTEwcU9NaG5vV2NfV1pmWTdxZEU1OUg?oc=5"
         }
       ],
       "keywords": [
@@ -410,6 +406,77 @@
             {
               "slug": "levetiracetam",
               "name": "レベチラセタム粒状錠５００ｍｇ「サワイ」"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d42e8904bda9",
+      "title": "【解説】流行中「謎の風邪」その正体は「アレルギー」や「軽い喘息」か 感染症専門家「感染症の恐れもあるが心配しすぎないで」",
+      "published": "2026-05-26T00:03:52+00:00",
+      "sources": [
+        {
+          "name": "ktv.jp",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBIdElseWJMSXlKeEE5MHN3X1dCTG02STJ0a1l3YXpMd3lNQ0RpWUROMXJ6WTlGMzVmQjRlTFJaNEtDWC1Td0NSZnkzZGJQZnZMRVNnRA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "asthma",
+          "keyword": "喘息",
+          "related_drugs": [
+            {
+              "slug": "theophylline",
+              "name": "ユニコン錠１００　１００ｍｇ（選）"
+            },
+            {
+              "slug": "budesonide",
+              "name": "シムビコートタービュヘイラー６０吸入（選）"
+            },
+            {
+              "slug": "montelukast",
+              "name": "シングレアＯＤ錠１０ｍｇ（選）"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "風邪",
+          "related_drugs": [
+            {
+              "slug": "theophylline",
+              "name": "ユニコン錠１００　１００ｍｇ（選）"
+            },
+            {
+              "slug": "cetirizine",
+              "name": "ザイザルシロップ０．０５％（選）"
+            },
+            {
+              "slug": "morphine",
+              "name": "モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」"
+            },
+            {
+              "slug": "loratadine",
+              "name": "クラリチン錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "chlorpheniramine",
+              "name": "セレスタミン配合錠（選）"
+            },
+            {
+              "slug": "dextromethorphan",
+              "name": "デキストロメトルファン臭化水素酸塩細粒１０％「ツルハラ」"
+            },
+            {
+              "slug": "acetaminophen",
+              "name": "トラムセット配合錠（選）"
+            },
+            {
+              "slug": "codeine",
+              "name": "ムコブロチン配合シロップ"
             }
           ]
         }
