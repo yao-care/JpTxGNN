@@ -1,19 +1,103 @@
 {
   "source": "japan_news",
-  "fetched_at": "2026-05-27T09:28:34.398479+00:00",
+  "fetched_at": "2026-05-27T14:54:21.696566+00:00",
   "total_fetched": 148,
   "unique_count": 148,
-  "health_related_count": 66,
+  "health_related_count": 68,
   "news": [
     {
-      "id": "09e24409eabd",
-      "title": "「胃がん予防に効果的」のはずが…タバコを吸う人が飲むと発症率が2倍以上になる「健康にいい飲み物」の名前(プレジデントオンライン)",
-      "published": "2026-05-27T09:15:42+00:00",
-      "summary": "年齢を重ねても健康でいるには、どうすればいいのか。内科医の奥田昌子さんは「日本には胃がん患者が多い。その原因としてピロリ菌の感染が知られているが、除去すれば終わりではない。とくに男性は注意してほしいこ",
+      "id": "d80163168739",
+      "title": "【タイプ診断】コンサバ・カジュアル・大人ギャル。あなたはどの「可愛い系」に当てはまる？(MAQUIA)",
+      "published": "2026-05-27T13:30:15+00:00",
+      "summary": "「私のキャラは『可愛い系』と違う」と諦めている人、いませんか？ 白が200色あるならば、可愛さのバリエーションだって無限大！ コンサバ、カジュアル、大人ギャル。個性が異なる3タイプ、あなたはどれに当て",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/8d199c1f908ea9874c144dbea03a1afd19e38e15?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/525f58c85d51cbc6da03a010b8f2bcfc01dc270b?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "e86986b301a8",
+      "title": "軽でもクルマ好きが惚れるスズキ・ハスラーがマイナーチェンジ。買いのモデルをプチ研究してみた結果……(FORZA STYLE)",
+      "published": "2026-05-27T13:00:36+00:00",
+      "summary": "2014年1月の発売開始以来、2026年3月で国内累計販売台数100万台を達成したというスズキ・ハスラー。コンセプトは乗用タイプの軽ワゴンとSUVの融合。砕いていうと、ワゴンRスマイルやスペーシアとい",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/7a4d9147103816d728d61e54f9758932ea3f1ea9?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "ca272e258402",
+      "title": "長寿でがんにもなりにくいネズミの遺伝子を研究したら、ヒアルロン酸に秘密があることが分かってきた(ギズモード・ジャパン)",
+      "published": "2026-05-27T13:00:01+00:00",
+      "summary": "「ハダカデバネズミ」というネズミをご存知でしょうか。 「ハダカ」というフレーズで始まる名前の通り、毛が生えていません。そして皮膚はシワシワ。さらに出っ歯です。げっ歯類なんだから当たり前だろう、と思",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/7b468b71e115dd9107c043918a610ef583dd2cea?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "11a8cb3cce56",
+      "title": "「大家の代わりに税金を払え」という理不尽が発生中？不動産Gメンが教える外国人オーナー物件の盲点(All About)",
+      "published": "2026-05-27T12:25:00+00:00",
+      "summary": "「大家さんが外国人で納税していないなら、代わりにあなたが払ってね」。冗談のような話ですが、今の日本で実際に起こり得る恐ろしいリスクです。 不動産業界の闇に切り込む「不動産Gメン」こと滝島一統氏は、物",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/517ce92d0377053a0b624e9c95123c71857c6dbc?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "85d2721e1dfb",
+      "title": "なぜ「兎」なの？太ももや膝の冷えを緩和して足の痛みや麻痺にも作用する「伏兎」。(家庭画報.com)",
+      "published": "2026-05-27T12:20:02+00:00",
+      "summary": "中医学のエキスパートである鍼灸師の兵頭 明先生が、ツボの効能や位置、効くメカニズムを解説します。健康の土台作りに、不調改善に、1日1分のツボ押しを習慣にしましょう。",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/44a4029b6c7300256988037f71f58f9e21aebd76?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "3d1e55bb342c",
+      "title": "【更年期の漢方】30代産後うつ、40代子育て期、50代更年期…漢方がメンタル不調の支えに！漢方薬を活用する女性の体験談(婦人画報)",
+      "published": "2026-05-27T12:10:10+00:00",
+      "summary": "女性の人生を考えたとき、体調はつねに変化し、不調は必ずしもひとつではありません。実際に漢方薬を活用し、揺らぐ心身と上手に付き合っている女性の漢方治療体験談をご紹介します。",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/68922f625de9155bec62f39e42cc6227201c98a4?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "419002a10fbd",
+      "title": "JAXAが新型補給機「HTV-X1」大気圏再突入を発表　物資輸送・技術実証の両ミッションを完遂(sorae 宇宙へのポータルサイト)",
+      "published": "2026-05-27T11:26:51+00:00",
+      "summary": "JAXA（宇宙航空研究開発機構）は2026年5月27日、新型宇宙ステーション補給機1号機「HTV-X1」が大気圏へ再突入し、すべてのミッションを完遂したと発表しました。 JAXAによると、HTV-X",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/e00fe7b05a62e174dfb635b2d3bc59c918cd5fc8?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "4c6a1fdd203b",
+      "title": "6万年前のネアンデルタール人も虫歯の治療をしていたかも(ギズモード・ジャパン)",
+      "published": "2026-05-27T10:00:01+00:00",
+      "summary": "昨日、デンタルフロスをしていたら、歯の詰め物が取れました。口の中からポロッと。20年以上前に治療したものです。 詰め物を失い、虚しく開いた過去の虫歯を見ながら、「早く歯医者に行かないと、めちゃくちゃ",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/c4fff859bada767f9f20aa4f76cae9f01193b301?source=rss"
         }
       ]
     },
@@ -42,18 +126,6 @@
       ]
     },
     {
-      "id": "e727ca45d72f",
-      "title": "渡辺明九段、８か月ぶりの復帰戦は勝利ならずも感想戦では笑顔見せる場面も　左ひざ不調のため昨年９月から休場(スポーツ報知)",
-      "published": "2026-05-27T08:42:32+00:00",
-      "summary": "将棋の渡辺明九段が２７日、東京・渋谷区で第７６期王将戦二次予選に臨み、１１０手で鈴木大介九段に敗れた。 ２５年９月の銀河戦以来、約８か月ぶりの対局。渡辺は２０２４年１２月にけがによる左ひざの手術",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/159b36c67298f1e24b809ad8f2927d7659bfbc53?source=rss"
-        }
-      ]
-    },
-    {
       "id": "19d7775fe99e",
       "title": "『がん治療』によって生じた外見の変化を補う「アピアランスケア」とは？【医師解説】(メディカルドック)",
       "published": "2026-05-27T08:01:17+00:00",
@@ -62,30 +134,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/f38aca6bb4f8c8cd1bdedf2ed1bda45aef199af5?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "d7998e3dc789",
-      "title": "1型糖尿病の急性合併症に関する全国規模の調査を実施-治療中のケトアシドーシスや重症低血糖はなお残存- - 時事ドットコム",
-      "published": "2026-05-27T06:45:00+00:00",
-      "summary": "1型糖尿病の急性合併症に関する全国規模の調査を実施-治療中のケトアシドーシスや重症低血糖はなお残存-&nbsp;&nbsp;時事ドットコム",
-      "sources": [
-        {
-          "name": "時事ドットコム",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE80ZTNseENQUloxSWxoWDk3aG5tWDNOaWI4RlBuSmxmUE9FbE1ReENtb2hXdmtYZVlXSTVzNUgxVm4xOFdVNC1xTTBfMEgxOGU3cTY5NUh1WmRRTWJUbWVFQklZQjJ0T0xiS0U0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dbaba332e3c8",
-      "title": "【肥満症外来】2026年5月より日吉糖尿病内科クリニック（横浜市）で肥満症外来がスタート｜糖尿病専門医による医学的治療｜週1回の自己注射「ゼップバウンド」を用いた自費診療 - 時事ドットコム",
-      "published": "2026-05-27T03:45:00+00:00",
-      "summary": "【肥満症外来】2026年5月より日吉糖尿病内科クリニック（横浜市）で肥満症外来がスタート｜糖尿病専門医による医学的治療｜週1回の自己注射「ゼップバウンド」を用いた自費診療&nbsp;&nbsp;時事ドットコム【肥満症外来】2026年5月より日吉糖尿病内科クリニック（横浜市）で肥満症外来がスタート｜糖尿病専門医による医学的治療&nbsp;&nbsp;ニコニコニュースチルゼパチドが中等症以上のOSASに適応拡大｜CareNet.com&nbsp;&nbsp;CareNet.comチルゼパチド投与中止後の新たなレジメン&nbsp;&nbsp;日経メディカル肥満症治療薬「ゼップバウンド」を「耐糖能異常等あり、高血圧・脂質異常症なし患者」に投与する場合の留意点整理―厚労省&nbsp;&nbsp;GemMed",
-      "sources": [
-        {
-          "name": "時事ドットコム",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5TklFUzV0ZmRiSmJuOVoyN0Vuem1qajh3QmU4Nk5nR0JxXzhPZ0RnRUtmdVZGM1lIS1BxcjJWbXd3MGhlZk9CSjk3YkdJZ25ob2Z3OXNhYW9jTG0tdmRnUXdlaXozeVh5cmVF?oc=5"
         }
       ]
     },
@@ -138,18 +186,6 @@
       ]
     },
     {
-      "id": "bd4ed7ee701f",
-      "title": "～男子にも女子にも関係するウイルス「HPV」～俳優 風間俊介さんと岩田敏医師が語る『子どもたちの未来のために』対談記事を公開 - PR TIMES",
-      "published": "2026-05-27T02:00:02+00:00",
-      "summary": "～男子にも女子にも関係するウイルス「HPV」～俳優 風間俊介さんと岩田敏医師が語る『子どもたちの未来のために』対談記事を公開&nbsp;&nbsp;PR TIMES",
-      "sources": [
-        {
-          "name": "PR TIMES",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56NXkzdGh1RS1pS3JfLXo4OE92a09zSkRiWE1fa1c0enNCZXhhTi1YVllrd1huNmRIMDgtYWRSSDFYOUJQQTZFc3dMVGtHX2N0RldGSDJjN2dWdFFuUEpTb0JZUDFkTTJveVE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "39eae0b1b60e",
       "title": "頭痛に悩む人が増加する今、見逃されがちな「群発頭痛」に着目大正健康ナビにて健康情報「群発頭痛」を5月27日公開 - PR TIMES",
       "published": "2026-05-27T02:00:02+00:00",
@@ -170,6 +206,18 @@
         {
           "name": "au Webポータル",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9nbnRzS0RBZ0p5cG5iZ3pYWVplSUR0MGNvZERfOWYxZEZEQi1ZZFJIaU1Wc1J0VHRGaHZ4dlM5djB3WXFQeFlaQ0MwbHZuLS1XVVVBYnVNOWw0aGV0YW5oT0dSZ0dRSFNTd1dSYTZsZU9oNFQ3bXZyRGFUQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e514693620f3",
+      "title": "ハンタウイルス「水際対策」法的にどこまで可能？ “入国拒否”や“隔離”はできない…コロナ禍との違いとは【弁護士解説】 - 弁護士JP",
+      "published": "2026-05-27T01:16:00+00:00",
+      "summary": "ハンタウイルス「水際対策」法的にどこまで可能？ “入国拒否”や“隔離”はできない…コロナ禍との違いとは【弁護士解説】&nbsp;&nbsp;弁護士JPGoogle ニュースで見出しと意見をもっと見る",
+      "sources": [
+        {
+          "name": "弁護士JP",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFA1RFBtMWxKalNTZ1FEbmpKd3VYTGltWDRZYXN3TkJxRnBnMU5pYmhqeU9CS0VJZ0FXR3hXSzBKclR6TkhF?oc=5"
         }
       ]
     },
@@ -213,7 +261,7 @@
       "id": "ee27d38dc86f",
       "title": "カントーのアパートを包囲するデング熱の懸念 - Laodong.vn",
       "published": "2026-05-26T22:48:00+00:00",
-      "summary": "カントーのアパートを包囲するデング熱の懸念&nbsp;&nbsp;Laodong.vn子供の夏季の病気には十分注意してください。&nbsp;&nbsp;Vietnam.vnデング熱と手足口病の症例が急増していることを受け、カントー市は積極的に対応している。&nbsp;&nbsp;Vietnam.vn",
+      "summary": "カントーのアパートを包囲するデング熱の懸念&nbsp;&nbsp;Laodong.vn猛暑と夏休み中の子供たちを前に、医師たちは子供たちへの潜在的な危険性について警告している。&nbsp;&nbsp;Vietnam.vn子供の夏季の病気には十分注意してください。&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "Laodong.vn",
@@ -237,7 +285,7 @@
       "id": "69e89a373f52",
       "title": "【食事に注意】「認知症」で人生後半を楽しめなくなる可能性のある習慣(ダイヤモンド・オンライン) - Yahoo!ファイナンス",
       "published": "2026-05-26T21:36:00+00:00",
-      "summary": "【食事に注意】「認知症」で人生後半を楽しめなくなる可能性のある習慣(ダイヤモンド・オンライン)&nbsp;&nbsp;Yahoo!ファイナンス「死ぬまで人生を楽しめる人」が習慣にしている“たった1つのこと”&nbsp;&nbsp;ダイヤモンド・オンライン12時間で認知症のリスクが63%UP 健康寿命を縮める｢座りっぱなしの害｣を帳消しにする習慣〈最新データを紹介〉&nbsp;&nbsp;東洋経済オンライン「死ぬまで頭が冴えている人」の習慣・ベスト1&nbsp;&nbsp;ダイヤモンド・オンライン1日5食で血糖値が安定。夜間と日中の「食べ方の工夫」が認知症を遠ざける（家庭画報.com）&nbsp;&nbsp;Yahoo!ニュース",
+      "summary": "【食事に注意】「認知症」で人生後半を楽しめなくなる可能性のある習慣(ダイヤモンド・オンライン)&nbsp;&nbsp;Yahoo!ファイナンス「死ぬまで人生を楽しめる人」が習慣にしている“たった1つのこと”&nbsp;&nbsp;ダイヤモンド・オンライン1日5食で血糖値が安定。夜間と日中の「食べ方の工夫」が認知症を遠ざける（家庭画報.com）&nbsp;&nbsp;Yahoo!ニュース「死ぬまで頭が冴えている人」の習慣・ベスト1&nbsp;&nbsp;ダイヤモンド・オンライン【食事に注意】「認知症」で人生後半を楽しめない人の共通点・ベスト1&nbsp;&nbsp;ダイヤモンド・オンライン",
       "sources": [
         {
           "name": "Yahoo!ファイナンス",
@@ -246,14 +294,14 @@
       ]
     },
     {
-      "id": "e101db2b8589",
-      "title": "【解説】はしか患者、過去10年で最多ペースに迫る 今年の累計498人 専門家「9月まで続く可能性」【 #みんなのギモン 】 - 日テレNEWS NNN",
-      "published": "2026-05-26T21:22:00+00:00",
-      "summary": "【解説】はしか患者、過去10年で最多ペースに迫る 今年の累計498人 専門家「9月まで続く可能性」【 #みんなのギモン 】&nbsp;&nbsp;日テレNEWS NNN今年のはしか累積報告数498人 JIHS（医療介護ＣＢニュース）&nbsp;&nbsp;Yahoo!ニュースはしか感染者 ことし累計498人に 過去10年の最多に迫るペース&nbsp;&nbsp;NHKニュース今年の「はしか」感染者数498人 去年の同時期の約4倍に 感染後10日ほどで発熱や発疹の症状 上野厚労大臣「必要に応じワクチン接種の検討を」&nbsp;&nbsp;TBS NEWS DIGコロナ禍経てワクチンに抵抗感？…はしかの接種率が低下 福井県「感染拡大防ぐ最も有効な予防法」&nbsp;&nbsp;福井新聞社",
+      "id": "bc392d117e5b",
+      "title": "ワクチンは「何に効いているのか」を正しく理解する｜クスリ社会を正しく暮らす - 日刊ゲンダイDIGITAL",
+      "published": "2026-05-26T21:00:00+00:00",
+      "summary": "ワクチンは「何に効いているのか」を正しく理解する｜クスリ社会を正しく暮らす&nbsp;&nbsp;日刊ゲンダイDIGITALワクチンは「何に効いているのか」を正しく理解する【クスリ社会を正しく暮らす】&nbsp;&nbsp;ｄメニューニュース",
       "sources": [
         {
-          "name": "日テレNEWS NNN",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9weWJXWXRrVWFxbUw4TE1aNlBDVy0wLTNTNVJveUhhenpEVnpfOHdDbU5nalg1ZDUxUmczbDM5a3EwVzl0cnN4RjhtdGM0SjM1UEo2Z0hpRzdwTGlMYnhGSnFQSnY2V3U5cjlfbHhqaUZDcmJBWjhwZFU2V0o?oc=5"
+          "name": "日刊ゲンダイDIGITAL",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50dlJaSTRSZVJzeHZ1YnJvZDZvY25WX3RucWpNbGdPY3czeHl5Y094LV9PWEc5YUpiSVZUamZDX2M3SHY5eXhtbm96NWtYY1NnUTlYaExoWXYyNW9wOERmQlk4ellTeDJZ?oc=5"
         }
       ]
     },
@@ -318,14 +366,14 @@
       ]
     },
     {
-      "id": "75a884667ab4",
-      "title": "認知症の末期の症状 アルツハイマー型認知症を例に医師が解説 (2026年5月27日掲載) - ライブドアニュース",
-      "published": "2026-05-26T17:00:01+00:00",
-      "summary": "認知症の末期の症状 アルツハイマー型認知症を例に医師が解説 (2026年5月27日掲載)&nbsp;&nbsp;ライブドアニュース",
+      "id": "448d191c5c36",
+      "title": "43歳ママを待っていた「放射線治療16回」と「2人目への未練」 抗がん剤完走の先にあった現実（「43歳の新米ママ「子育て修行中」第25話） - スマートニュース",
+      "published": "2026-05-26T17:00:00+00:00",
+      "summary": "43歳ママを待っていた「放射線治療16回」と「2人目への未練」 抗がん剤完走の先にあった現実（「43歳の新米ママ「子育て修行中」第25話）&nbsp;&nbsp;スマートニュース",
       "sources": [
         {
-          "name": "ライブドアニュース",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QeF9WMmNLYXV0YkM5N2d5YjZkNW1BeTVEXy1YX0c5dnZRMTVpTXRKN3A4ckdia3pTblI5dGRMaWtPNHNwTEZtQzJfLWdhS0pMZWV6eWJ5WW93UExGaGc?oc=5"
+          "name": "スマートニュース",
+          "link": "https://news.google.com/rss/articles/CBMixwZBVV95cUxNV0lRX0R5N0JteXU0RVhjU1NQZFExMEpYOFBHa1F6amoxZGVhVnFWMmRIVmRWSDZraGNrT1hYcWNDdEVXX1Jldzd1RWN4TV9oeGFta3VEcV9aWFp6VF9jd0NSX09reWtVa1QwWUV1eTk4WnI4STl0S3o2N2NJUk0tYWZjQVNVTGx6OXkzMnZkT1AyZllzX0E5Y3VITzhvb3NUQWZhU3EzcGg1RW9sMlFVYWVHTFVfMWVfbnBwSFJJOUFQMkFLOWFLRS1sc1RWV0RoWnR5VzlSc3Z1Q1dNdkMxMGhYbHVoMHQyZVdmVkNvNm04VXRzR1pRRGFLZVMtS0NuRExiY2dVTzlFbjNVa1UtRmJWTHJWRERpZlhMWWZpR3hXUkxFUXptTThzQS1fOGhucm9wM1hLVTlpY0g5R2k3YmhON0pyRElWM25hdUpkdFN2NW5PTzZsUW0ta1NIZ0I3M3hzYlN1NkEwVnQ4UWVYRXJnN1J1RDR6RU1mLXJSaGVQQTh0bUI4QjNUOUo1b0NxSUlrR1JFV3l1YTY1X05oNHJQcTJGVVRvSHotdHV5QnE0c0wtSlp5ZW5wNjJ2WXFwNUFkaktoanhUSWlEbXpjM1JVNFRhZk1wTFY4Mm9QWE9ZMFNnQVpUdU5aX2hXazB3YWh0WGgtMzJha3lLaVhPRkR1TDFwdTltM1pjYjlqd3pmOEtDVUt1aXFJaldQNnFXVWppSHotZl91SDk5TW9aUjliRzAyVEpiMHozOElXRktlQlhKTEFBZkdSSzR5dDlwa2drQlJsZm56LW44b2JVVWw2b1g1eXZrSTQ3UVl6SDdCZUtTeGF0aC1aTGtwVVU4dko1OE53X1p0RVQtWEtmTWYtQzJRYmdkNERyUE1iY25oS1BMYnpQZXFNNUJCbGxpSlBxVFE5TjM5eUlnTkVHMWczNkR5eEtWeHNhaTVKU0tXSVRfSWN0SFE3YmVkbkFKU0QtcnBSWWR3ZFVSZWpsU1lOd1Z5c2xCakVDOWVUVVpnVVhnMjh0MldydjFDbG00T05YeUNmOENUTXprRGU3TjR3NExNVnZVOUw0ZUFYQXlaT0VWXzM1WW1uamN6aG5LZzZBOXhENA?oc=5"
         }
       ]
     },
@@ -345,7 +393,7 @@
       "id": "36fc213a0029",
       "title": "全身のむくみは要注意か 医師が腎臓病などのサインの可能性を指摘 (2026年5月26日掲載) - ライブドアニュース",
       "published": "2026-05-26T14:00:39+00:00",
-      "summary": "全身のむくみは要注意か 医師が腎臓病などのサインの可能性を指摘 (2026年5月26日掲載)&nbsp;&nbsp;ライブドアニュース階段で息切れする人は要注意。放置したくない“腎臓の老化”【Tarzan】（Tarzan Web）&nbsp;&nbsp;Yahoo!ニュース全身のむくみは「腎臓病」のサイン? 注意したいむくみの特徴を医師が解説!&nbsp;&nbsp;ライブドアニュース",
+      "summary": "全身のむくみは要注意か 医師が腎臓病などのサインの可能性を指摘 (2026年5月26日掲載)&nbsp;&nbsp;ライブドアニュース",
       "sources": [
         {
           "name": "ライブドアニュース",
@@ -378,26 +426,38 @@
       ]
     },
     {
-      "id": "9f1f4b47d9b6",
-      "title": "酒･タバコと同じくらい危険…10年続けると｢大腸がん｣発症率が2倍に跳ね上がる､職場で毎日やっている習慣 - PRESIDENT Online（プレジデントオンライン）",
-      "published": "2026-05-26T09:00:00+00:00",
-      "summary": "酒･タバコと同じくらい危険…10年続けると｢大腸がん｣発症率が2倍に跳ね上がる､職場で毎日やっている習慣&nbsp;&nbsp;PRESIDENT Online（プレジデントオンライン）腸内細菌が大腸がんのリスクをなぜ高めるのか、適切な予防策は&nbsp;&nbsp;ナショナルジオグラフィック日本版1回の大腸内視鏡検査により大腸がんの死亡率は減少するか？（解説：上村 直実 氏）－2117｜CareNet.com&nbsp;&nbsp;CareNet.com酒・タバコと同じくらい危険…10年続けると「大腸がん」発症率が2倍に跳ね上がる、職場で毎日やっている習慣&nbsp;&nbsp;Yahoo!ニュース1回の大腸内視鏡検査、長期の罹患率と死亡率を改善するか／Lancet｜CareNet.com&nbsp;&nbsp;CareNet.com",
+      "id": "6c8b4ad84e54",
+      "title": "酒･タバコと同じくらい危険…10年続けると｢大腸がん｣発症率が2倍に跳ね上がる､職場で毎日やっている習慣 - ｄメニューニュース",
+      "published": "2026-05-26T09:15:00+00:00",
+      "summary": "酒･タバコと同じくらい危険…10年続けると｢大腸がん｣発症率が2倍に跳ね上がる､職場で毎日やっている習慣&nbsp;&nbsp;ｄメニューニュースGoogle ニュースで見出しと意見をもっと見る",
       "sources": [
         {
-          "name": "PRESIDENT Online（プレジデントオンライン）",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UaXhkc2xJSGpwUHFjT2U5MXdFd3JtaWNFZURsaWlEcEtybmd0SDFuNkkwMHd1ZW41TkkyRUE3SWxfeTEwcU9NaG5vV2NfV1pmWTdxZEU1OUg?oc=5"
+          "name": "ｄメニューニュース",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZkg3RzVEdE5OaHZubzRMcks1Q0FlNDh6NDA4UzJva0JZbjBsTGptM0ZFdHR0OFFjTE13ZW45blM5eEhub0xfZUhsYl9TeHg3bGQ1bWloNjlBSjEtb0VnOFF5eHVBYmQ0MGJWcFlzWVh3UGIyYXFxM2Mwa2ZnTTdseC1n?oc=5"
         }
       ]
     },
     {
-      "id": "42774984f528",
-      "title": "【研究成果】妊娠期の鉄の摂取は、夕方よりも朝が効果的 - hiroshima-u.ac.jp",
-      "published": "2026-05-26T07:37:28+00:00",
-      "summary": "【研究成果】妊娠期の鉄の摂取は、夕方よりも朝が効果的&nbsp;&nbsp;hiroshima-u.ac.jp",
+      "id": "9e7ca4ca2810",
+      "title": "コロナ禍経てワクチンに抵抗感？…はしかの接種率が低下 福井県「感染拡大防ぐ最も有効な予防法」 - 福井新聞社",
+      "published": "2026-05-26T07:30:00+00:00",
+      "summary": "コロナ禍経てワクチンに抵抗感？…はしかの接種率が低下 福井県「感染拡大防ぐ最も有効な予防法」&nbsp;&nbsp;福井新聞社Google ニュースで見出しと意見をもっと見る",
       "sources": [
         {
-          "name": "hiroshima-u.ac.jp",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxbU1XY1lOR1N4M3NXcVNvNVYtMEdVZUlmYmRPNmFRRExRVkpTTThFc0RtMElyVEtfaTJCc0RNTkd5NEVab05aamd5TF9qa3dBMnc?oc=5"
+          "name": "福井新聞社",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SM2ZBZ3NyQVpwNG9wVEQxZGV3elAxTDZaNXJKS041dFAyV1RCdmlha2pxYjhXOWFia2xiOG1QUTR0aF9aQXIzM094RGVqQUtwV3UwZGQxRHR6QS11d2c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3b4436c51a25",
+      "title": "種子ほどの大きさの外科用ロボットが、私たちの体内から手術を行うようになる｜近未来 - Futuro Prossimo",
+      "published": "2026-05-26T07:29:28+00:00",
+      "summary": "種子ほどの大きさの外科用ロボットが、私たちの体内から手術を行うようになる｜近未来&nbsp;&nbsp;Futuro Prossimo",
+      "sources": [
+        {
+          "name": "Futuro Prossimo",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdV9rRENTN2M4NWtoLTl0U2hYLW1TY3dsbHJFV1NxeVFMdF9YSGNDUU55V2VETjI3Z29oN1FDWmlmU1FZTUNDNGlHQXQwbjJndXRVN2RtUktxV1E3aGFHMFdYZGdNX1JtZDVhMUJ2WDN3SWFwMTZ4NXF2VDdxWXdqTTlGdFpJYmw0YmRLS2h4VUt6TnBCMXFLNWJxajNlNXJuUmc?oc=5"
         }
       ]
     },
@@ -570,18 +630,6 @@
       ]
     },
     {
-      "id": "0d9209181bb3",
-      "title": "クルーズ船で注目ハンタウイルス コロナとの違いは？専門家に聞いた - 朝日新聞",
-      "published": "2026-05-25T22:00:00+00:00",
-      "summary": "クルーズ船で注目ハンタウイルス コロナとの違いは？専門家に聞いた&nbsp;&nbsp;朝日新聞Google ニュースで見出しと意見をもっと見る",
-      "sources": [
-        {
-          "name": "朝日新聞",
-          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXWVFzZ3JRMHBKcXB2QmQzYmVURGtYaUduTFctUlJtM1FZY09DbTlDaW04LVMyU09iUlM5dVRzemUzV1dWRllrdWFuWnB4bThPYlFXcnBnMzNOeWdLWjkyRzF0Z1RnOTQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "914841abe857",
       "title": "長引く水ぶくれと強いかゆみ 標的治療薬が新たに承認 - 日本経済新聞",
       "published": "2026-05-25T20:00:00+00:00",
@@ -602,6 +650,18 @@
         {
           "name": "CareNet.com",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mZ1I3UXVXQXllcjhGLTZYSGh6ZU9LWGpCVkhnTFY3cFpJeXJwYVJ0ZWVOYUtrT051RC1JamRKZktwa0NXT2FfOHJURTlBWC1kUEJZeDI3ZkFvUlk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4f5e3d54b4bf",
+      "title": "ヨーグルトや低脂肪チーズ、高齢期のうつ病や認知症予防に有効？｜CareNet.com - CareNet.com",
+      "published": "2026-05-25T19:00:00+00:00",
+      "summary": "ヨーグルトや低脂肪チーズ、高齢期のうつ病や認知症予防に有効？｜CareNet.com&nbsp;&nbsp;CareNet.com",
+      "sources": [
+        {
+          "name": "CareNet.com",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9Ncnkza1oxTTN6WldocEdBOGoxR2sxNnBMVVE3ODdCcVVLdi1JOTFidGFSbU9kRTVCVHRjaTlJUFhrQ3ZyUmcybE1tMzVQX2pscFBURU9fd2tyOE1uOVNr?oc=5"
         }
       ]
     },
@@ -758,42 +818,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/5437192bf1f2fc519c5ac5e4add4c35d37dae041?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "26cbbe8ea4c3",
-      "title": "アルツハイマー病が第3の糖尿病と呼ばれる理由…糖の摂りすぎが脳細胞を破壊しかねないインスリンの恐怖(集英社オンライン)",
-      "published": "2026-05-24T00:00:35+00:00",
-      "summary": "近年の研究で、アルツハイマー病と糖尿病を結びつけるカギとして「インスリン」の存在が注目されている。脳の働きと深く関わるインスリンに異常が起きると、記憶や学習機能に影響を与える可能性もあるというが、一体",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/06925b37fb6bb7b08e01ff910400a69835266a0c?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "8c7a07d784f5",
-      "title": "ケンタウルス座で新たに2つの太陽系外惑星を確認　トランジット法では最長クラスの公転周期(sorae 宇宙へのポータルサイト)",
-      "published": "2026-05-23T08:30:36+00:00",
-      "summary": "ラ・ラグーナ大学（ULL）とカナリア天体物理研究所（IAC）のCarlos del Burgoさんを筆頭とする国際的な研究チームは、誕生から間もない若い恒星「HD 114082」を周回する2つの太陽系",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/738bb12f67089abbe9a9ddea9d9753513c0ee767?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "22fb3c4c8a2a",
-      "title": "アフリカで新たなプレート境界形成か、科学者が手がかり発見(CNN.co.jp)",
-      "published": "2026-05-23T06:34:00+00:00",
-      "summary": "（CNN） サハラ砂漠以南のアフリカは数百万年後に分裂する可能性があり、科学者らはこの地質学的プロセスが初期段階にあるのではないかとみている。 この分裂は、タンザニアからナミビアまで延びる全長約25",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/78b8ebb1a20ec841222d38b4e664bd32cf00d7a1?source=rss"
         }
       ]
     }
