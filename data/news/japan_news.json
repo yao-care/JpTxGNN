@@ -1,10 +1,82 @@
 {
   "source": "japan_news",
-  "fetched_at": "2026-05-28T09:44:38.732685+00:00",
-  "total_fetched": 147,
-  "unique_count": 147,
-  "health_related_count": 71,
+  "fetched_at": "2026-05-28T15:27:46.189326+00:00",
+  "total_fetched": 145,
+  "unique_count": 145,
+  "health_related_count": 66,
   "news": [
+    {
+      "id": "a20c3d077d7d",
+      "title": "サーモスの「遮熱キャップ」を炎天下で試してみたら、普通の帽子に見えて被ると本当に涼しい！(ライフハッカー・ジャパン)",
+      "published": "2026-05-28T13:51:01+00:00",
+      "summary": "すでに暑くなる予感しかない、今年の夏。相変わらず遮熱素材のアイテムに注目しています。 外出時は、遮熱効果の高い素材「東レ サマーシールド2」を使ったHANDSオリジナルの全天候傘を愛用していますが、",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/8ecb56edcafbc33fbf4bd453c0bbc9f2b0d82cd6?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "0ac8eb081fb2",
+      "title": "机にあれこれ置きたい人へ。サンワの新「折り畳める」スタンディングデスク！(ライフハッカー・ジャパン)",
+      "published": "2026-05-28T13:31:01+00:00",
+      "summary": "かなり前から、座りっぱなしの生活は健康によくないといわれてきました。特に日本人は、世界的に見ても座っている時間が長く、厚生労働省が注意喚起をするほどです。 対策として、スタンディングデスクが注目され",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/451a0c2147015a59f12a6bc86e9a8c0ec4a2b50c?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "784355adc770",
+      "title": "頭や顔の熱を冷ます「温溜」は頭痛、顔や舌の腫れ、喉の痛み、下の歯痛にも効きます(家庭画報.com)",
+      "published": "2026-05-28T12:20:02+00:00",
+      "summary": "中医学のエキスパートである鍼灸師の兵頭 明先生が、ツボの効能や位置、効くメカニズムを解説します。健康の土台作りに、不調改善に、1日1分のツボ押しを習慣にしましょう。",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/e4e68c6d29e2d4ab96cf268ddd5476ffc59ecec8?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "bd9095ea5bff",
+      "title": "「見えづらい・まぶしい・二重に見える」のは『円錐角膜』かも!? 治療法を医師が解説(メディカルドック)",
+      "published": "2026-05-28T11:04:35+00:00",
+      "summary": "視界がぼやける、二重に見える、まぶしさを強く感じる。こうした症状の背景に「円錐角膜」という病気が隠れていることがあるそうです。どういった病態で、どのような治療法があるのでしょうか？ そこで、角膜治療の",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/8dfaae5e9a7e49295e52068b0829eb8a750b7d6b?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "135d64d1b523",
+      "title": "「心房細動の余命」はどれくらいかご存じですか？命に関わる合併症も医師が解説！(メディカルドック)",
+      "published": "2026-05-28T10:04:49+00:00",
+      "summary": "頻脈性不整脈とは？メディカルドック監修医が頻脈性不整脈の症状・原因・なりやすい人の特徴・心電図の特徴・放置するとどうなるか？・発症後に日常生活で気をつけたいことなどを解説します。",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/9116de8a752b07762ed4b15b171e92aff7b2cbd1?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "912dc3c7f4db",
+      "title": "タンソンニャット空港でのエボラ出血熱の予防対策を強化 - Laodong.vn",
+      "published": "2026-05-28T09:51:03+00:00",
+      "summary": "タンソンニャット空港でのエボラ出血熱の予防対策を強化&nbsp;&nbsp;Laodong.vnエボラ出血熱の発生を予防するための積極的な対策。&nbsp;&nbsp;Vietnam.vn保健省はエボラ出血熱の監視体制を活性化し、国内への感染拡大を防ぐための対策を強化した。&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNTFyZHBxaTE5U09LMG4tY0doclFXX0RtSDJsUTlOY2tmSnNUTFh4OC1XSDYwejVtamYxbkNqOERiNFJQUXRPeXI3OGdpSnJmVE1PcjEwQmJQT0g1RmFDeXhIOEV4bXU3ZWRlbzlNMllONnpHNUcyWm9KYjRNSkVwVF82bHNOVHNwVE40LVZhb3A2aEh4TF8xcDdieEw2enNRLTZlUGZDYW84QQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "244d7855cf10",
       "title": "初期の天の川銀河が矮小銀河をのみ込んだ残骸発見か　進化の理解を変える可能性(CNN.co.jp)",
@@ -18,38 +90,14 @@
       ]
     },
     {
-      "id": "b125ee7316fc",
-      "title": "【バーバリー ビューティ】ロンドンの空気感をまとう、モードなニュートラルリップ(SPUR)",
-      "published": "2026-05-28T09:30:16+00:00",
-      "summary": "グロスのような輝きと、うるおいが続くリップケア効果を兼ね備えた「バーバリー ブリット シャイン」から、いち早く秋の新色が到着。ロンドンの空気感を映したニュートラルシェードは、モード派のデイリーリップと",
+      "id": "effce13a6fff",
+      "title": "「美容のために太陽光を避ける｣は逆効果…医師｢ヨボヨボの70代にはなく元気な90代に共通する生活習慣｣ - ライブドアニュース",
+      "published": "2026-05-28T09:15:00+00:00",
+      "summary": "「美容のために太陽光を避ける｣は逆効果…医師｢ヨボヨボの70代にはなく元気な90代に共通する生活習慣｣&nbsp;&nbsp;ライブドアニュース",
       "sources": [
         {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/715047753f7199a652a3d241b8d0b87752238e62?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "ecd069380819",
-      "title": "東京・世田谷の保育所で食中毒発生　園児24人、職員18人が症状訴え(オリコン)",
-      "published": "2026-05-28T09:18:05+00:00",
-      "summary": "東京都は28日、世田谷区の保育園で提供された給食で食中毒が発生したと公式サイトで発表した。 都によると、18日午前9時ごろ、世田谷保健所に対し、区内の保育園から「5月16日（土曜日）から複数名の",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/bc47f430e2beb55bc64fdf1e6869cf62884362f4?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "8288131234fe",
-      "title": "「美容のために太陽光を避ける」は逆効果…医師「ヨボヨボの70代にはなく元気な90代に共通する生活習慣」(プレジデントオンライン)",
-      "published": "2026-05-28T09:15:43+00:00",
-      "summary": "年齢を重ねても若々しい人は何が違うか。元・長尾クリニック院長の長尾和宏さんは「皮膚科や美容医療の分野では、日光に当たるのは避けるべき行為とされている。ただし、それでは現代日本人の炭水化物過多→肥満→糖",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/d7b6d63bf55efc4ef281bd1cb986fca5110ae9a8?source=rss"
+          "name": "ライブドアニュース",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlbnBsWjZEMFN3Q1Ntcl9teFlnWk92d2tJNWRvd2Vfak9zbEFORXlvQW1lYkdhLXpzT1dpVzVSOGZlcmRtMjF4TE9aUnhJczlPeFdNUDBnRVFyRXh6RG9j?oc=5"
         }
       ]
     },
@@ -62,42 +110,6 @@
         {
           "name": "ライブドアニュース",
           "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1GWWFfVjlMc3FnaDl4QmNOd041MlN1LXJPdVBYWndkWU9ndFNfMmNSSlRRbXRwWXRMc29UaV9zeFR2Y2l6VnQyWUZHclVwMkJVM3FFUXM0Z0t1NGxTcFE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0a8dfe4e74f5",
-      "title": "【パジャマ投資の最適解】一般医療機器なのにアンダー1万円！1日中疲労回復できちゃう「リカバリープロラボ」のコスパが異常すぎる(MonoMax Web)",
-      "published": "2026-05-28T09:07:03+00:00",
-      "summary": "新年度が始まってしばらく経ち、ドッと疲れが出てくるこの時期。「しっかり寝ているはずなのに疲れが取れない……」とお悩みの方も多いのではないでしょうか。そんな疲労回復を強力にサポートしてくれるのが、シリー",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/b3cc96cb869972273ae29747ae6502f35c4eb0a0?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "5f68615843a1",
-      "title": "白髪は更年期に入ったサインですか？老眼は？この時期「気を付けないと下がっていってしまうもの」って何ですか？専門医に聞く(OTONA SALONE)",
-      "published": "2026-05-28T09:05:39+00:00",
-      "summary": "閉経の前と後5年ずつ、合計10年を日本では更年期と呼びます。日本人の閉経平均年齢は研究によって50歳から52歳の間とされるので、45歳から57歳は更年期に該当する人も多いということに。 更年期の医",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/a0baf8167a4b8e35d9a0f8575c9a487f3db9ae0f?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "c6f4deb59b62",
-      "title": "特定小型原付「E-KON RIDE」が最大45％OFF　5月30日20時～数量限定で特別販売を開始(＠Press［PR］)",
-      "published": "2026-05-28T09:00:02+00:00",
-      "summary": "電動モビリティブランドを展開する株式会社E-KON(本社：兵庫県姫路市、代表取締役：岡田 慶太)は、2026年5月30日より、日本人の体格と街乗り環境に合わせて開発した特定小型原付「E-KON RID",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/a5b5fe9223bb7447e7e44bdf23e1ade80e20bb5a?source=rss"
         }
       ]
     },
@@ -153,7 +165,7 @@
       "id": "a0f8b2d0b7ef",
       "title": "18年間脊椎を硬直させ、腎臓が胸に届かなくなった男性 - Laodong.vn",
       "published": "2026-05-28T04:52:09+00:00",
-      "summary": "18年間脊椎を硬直させ、腎臓が胸に届かなくなった男性&nbsp;&nbsp;Laodong.vn重度の脊柱側弯症患者に対する体外衝撃波結石破砕術が成功した。&nbsp;&nbsp;Vietnam.vn重度の脊柱側弯症で、腎臓が胸郭近くに突出している患者に対し、体外衝撃波結石破砕術が成功した。&nbsp;&nbsp;Vietnam.vn",
+      "summary": "18年間脊椎を硬直させ、腎臓が胸に届かなくなった男性&nbsp;&nbsp;Laodong.vn胸腔内に腎臓が突出している患者に対する経皮的結石破砕術。&nbsp;&nbsp;Vietnam.vn重度の脊柱側弯症患者に対する体外衝撃波結石破砕術が成功した。&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "Laodong.vn",
@@ -177,7 +189,7 @@
       "id": "0aa74cd16206",
       "title": "HPVワクチン無料化、9～15歳未満の女児対象 ベトナム保健省［社会］ - VIETJO",
       "published": "2026-05-28T04:37:00+00:00",
-      "summary": "HPVワクチン無料化、9～15歳未満の女児対象 ベトナム保健省［社会］&nbsp;&nbsp;VIETJOＨＰＶワクチン「男性も接種可」 認知は４割弱&nbsp;&nbsp;静岡新聞DIGITAL男性へのHPVワクチン接種の認知度 - HPVワクチン 「男性も接種可」認知4割 - 写真・画像(1/1)&nbsp;&nbsp;西日本新聞meHPVワクチン 「男性も接種可」認知4割&nbsp;&nbsp;西日本新聞me",
+      "summary": "HPVワクチン無料化、9～15歳未満の女児対象 ベトナム保健省［社会］&nbsp;&nbsp;VIETJOＨＰＶワクチン「男性も接種可」 認知は４割弱&nbsp;&nbsp;静岡新聞DIGITALHPVワクチン 「男性も接種可」認知4割&nbsp;&nbsp;西日本新聞me",
       "sources": [
         {
           "name": "VIETJO",
@@ -188,7 +200,7 @@
     {
       "id": "d2ec3f6d333b",
       "title": "糖尿病学会がオンライン教育コンテンツを追加公開 非専門医・医療スタッフ対象 - 糖尿病リソースガイド",
-      "published": "2026-05-28T03:51:55+00:00",
+      "published": "2026-05-28T03:52:07+00:00",
       "summary": "糖尿病学会がオンライン教育コンテンツを追加公開 非専門医・医療スタッフ対象&nbsp;&nbsp;糖尿病リソースガイド",
       "sources": [
         {
@@ -230,18 +242,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/ed9bfade816752ae5a6750329fd02343b6ba28f5?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "cd1bc6041efd",
-      "title": "アルツハイマー病予防に有効な運動量はどのくらい？ 最新研究が示した、誰もがもっとも効率よく鍛えられる“スーパー筋肉”の正体（集英社オンライン） - Yahoo!ニュース",
-      "published": "2026-05-28T02:00:37+00:00",
-      "summary": "アルツハイマー病予防に有効な運動量はどのくらい？ 最新研究が示した、誰もがもっとも効率よく鍛えられる“スーパー筋肉”の正体（集英社オンライン）&nbsp;&nbsp;Yahoo!ニュース",
-      "sources": [
-        {
-          "name": "Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15RXE4X3dXUFlJWkxmVzFMX1NuR3Z4YzMwMGtub0JIeEVfanJaVVlZZVpyNERsYjFLWFhnengzQVI5ZWhJS1RGVzZBVTFReGpQam5SeFdfekNWdzRJUUdtVExrcGwyWk95REJVV3JBaF9NeF9DM0dpZmFjSDJfM3c?oc=5"
         }
       ]
     },
@@ -318,6 +318,30 @@
       ]
     },
     {
+      "id": "f9e0b10506ed",
+      "title": "大腸がん検診採便「1回法」へ、乳がんは高濃度乳房の通知体制を整備 【第46回がん検診のあり方に関する検討会】｜ニュース - 保健指導リソースガイド",
+      "published": "2026-05-27T23:41:49+00:00",
+      "summary": "大腸がん検診採便「1回法」へ、乳がんは高濃度乳房の通知体制を整備 【第46回がん検診のあり方に関する検討会】｜ニュース&nbsp;&nbsp;保健指導リソースガイド",
+      "sources": [
+        {
+          "name": "保健指導リソースガイド",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TbWd4VklYMEF1MUM5ZUdwRmVBWm4tdkV1YXRzdWh3X3VGQnBSbVZITTdGOEFlZldZdWttUjhxTHZLcUFfU3RhX0c2R0JfUjVsYmZkdTliQmRVeVc3d280U05VTHY1R3lS?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c86eac05be87",
+      "title": "子どものジャンクフード、脳に影響残る？ 大人になっても過食グセ Nature系列誌に掲載 マウスは腸内細菌で正常化に成功 - ニコニコニュース",
+      "published": "2026-05-27T22:30:10+00:00",
+      "summary": "子どものジャンクフード、脳に影響残る？ 大人になっても過食グセ Nature系列誌に掲載 マウスは腸内細菌で正常化に成功&nbsp;&nbsp;ニコニコニュース",
+      "sources": [
+        {
+          "name": "ニコニコニュース",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1OX2lSSDd5QjFqVERfTUp0eTZqN1ZCZzB5ODY3MU4zVnozSEhHTmV6TWhwM3dBdlJUbWJPRVJOSzN2OFk4OWlBejNMT09EQkdIMnAxZQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "95ed0bc01561",
       "title": "“週4日勤務”が想像以上の成功──「給与100％／労働時間80％／生産性100％」を豪州15社が実施　学術誌にも掲載(ITmedia NEWS)",
       "published": "2026-05-27T22:25:12+00:00",
@@ -357,23 +381,11 @@
       "id": "370cfef2108f",
       "title": "食後に眠くなる人は「糖質老化」が進んでる？ 血管の傷みが全身の臓器ダメージへとつながる「メタボリックドミノ」を引き起こす食後のメカニズム - au Webポータル",
       "published": "2026-05-27T22:00:00+00:00",
-      "summary": "食後に眠くなる人は「糖質老化」が進んでる？ 血管の傷みが全身の臓器ダメージへとつながる「メタボリックドミノ」を引き起こす食後のメカニズム&nbsp;&nbsp;au Webポータル砂糖たっぷりの食事が記憶力に与える悪影響が大規模な分析で明らかに&nbsp;&nbsp;GIGAZINE糖質不足で短命に…じつは日本人にとって「糖質制限」はデメリットが多かった&nbsp;&nbsp;現代ビジネス「果物は健康のために積極的に摂取するほどの食材ではない」と医師が断言する理由…「糖と脂質」が脳に与える意外な影響&nbsp;&nbsp;Yahoo!ニュースファスティングダイエットはアルツハイマー病リスクを高める⁉︎ オックスフォード大の元医学研究者が説く“脳を守る“シンプルな食べ方（集英社オンライン）&nbsp;&nbsp;Yahoo!ニュース",
+      "summary": "食後に眠くなる人は「糖質老化」が進んでる？ 血管の傷みが全身の臓器ダメージへとつながる「メタボリックドミノ」を引き起こす食後のメカニズム&nbsp;&nbsp;au Webポータル砂糖たっぷりの食事が記憶力に与える悪影響が大規模な分析で明らかに&nbsp;&nbsp;GIGAZINE「果物は健康のために積極的に摂取するほどの食材ではない」と医師が断言する理由…「糖と脂質」が脳に与える意外な影響&nbsp;&nbsp;Yahoo!ニュースファスティングダイエットはアルツハイマー病リスクを高める⁉︎ オックスフォード大の元医学研究者が説く“脳を守る“シンプルな食べ方（集英社オンライン）&nbsp;&nbsp;Yahoo!ニュース食後に眠くなる人は「糖質老化」が進んでる？ 血管の傷みが全身の臓器ダメージへとつながる「メタボリックドミノ」を引き起こす食後のメカニズム（集英社オンライン）&nbsp;&nbsp;Yahoo!ニュース",
       "sources": [
         {
           "name": "au Webポータル",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9jQkxZd3BzYWZWTzJFVHd1QkdwVWgzbDdTbTB3TzIzNnZDNzlDOWRGSVp6NWMxS3pSbGc0ZXA4c3dYQnYxbHliX0hpRUhRMDQ0TU9ublRFUjVQWkFjREdIV1QtR1NHYVJOVThMVmlrTFpfTWJLQkJWQTN2VQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "868997051b6b",
-      "title": "コロナと麻疹が示した感染症法の限界：人は感染対策のために生きるのではない - アゴラ 言論プラットフォーム",
-      "published": "2026-05-27T21:25:22+00:00",
-      "summary": "コロナと麻疹が示した感染症法の限界：人は感染対策のために生きるのではない&nbsp;&nbsp;アゴラ 言論プラットフォーム",
-      "sources": [
-        {
-          "name": "アゴラ 言論プラットフォーム",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxRWNEZVVmRG81X05NYVV1ZDlzOTk3bW1WVXRQTG52Mnk3d1dFTW1CTGFFN3R3N0taR3lyNGVqSWd0U2xRN0xqU0NFc05rWnplY2NjUkZZTHRsUHc?oc=5"
         }
       ]
     },
@@ -570,18 +582,6 @@
       ]
     },
     {
-      "id": "1a80e92edc91",
-      "title": "子どものジャンクフード、脳に影響残る？ 大人になっても過食グセ Nature系列誌に掲載 マウスは腸内細菌で正常化に成功 - ITmedia",
-      "published": "2026-05-26T23:00:00+00:00",
-      "summary": "子どものジャンクフード、脳に影響残る？ 大人になっても過食グセ Nature系列誌に掲載 マウスは腸内細菌で正常化に成功&nbsp;&nbsp;ITmedia",
-      "sources": [
-        {
-          "name": "ITmedia",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuNVhwNF95T0duanF0bFZNbk9UajVWOURCbUhlbTNrWkNJYW1pNGJ5ZngzRDlsbFRXazZVOVlDTjdqSVd6V3hQYmVlLXJLaGVwTW5tLUVxNi1HZUhYYkpCS3lSOXE4MEdlLVhlZA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "ee27d38dc86f",
       "title": "カントーのアパートを包囲するデング熱の懸念 - Laodong.vn",
       "published": "2026-05-26T22:48:00+00:00",
@@ -690,42 +690,6 @@
       ]
     },
     {
-      "id": "57658784715d",
-      "title": "ビタミンDサプリの糖尿病予防効果は遺伝子多型で異なる - 日経メディカル",
-      "published": "2026-05-26T14:45:05+00:00",
-      "summary": "ビタミンDサプリの糖尿病予防効果は遺伝子多型で異なる&nbsp;&nbsp;日経メディカル",
-      "sources": [
-        {
-          "name": "日経メディカル",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQM0ZKN3Z2OGdRNVV5V0VmZkYxVzlidHFKbzF3VGl1eVd6cnNwdHktVVV0RTZnZDBxalp6MktmdjJzTkREbHpwbHpBRkJqTTVfdVE5TmNCdUF4cUd2cXdLNE9GX2l4Y0xsVjM2Zl9iME41ZWIwcThKQlVkbnRWLUs2Tg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "36fc213a0029",
-      "title": "全身のむくみは要注意か 医師が腎臓病などのサインの可能性を指摘 (2026年5月26日掲載) - ライブドアニュース",
-      "published": "2026-05-26T14:00:39+00:00",
-      "summary": "全身のむくみは要注意か 医師が腎臓病などのサインの可能性を指摘 (2026年5月26日掲載)&nbsp;&nbsp;ライブドアニュース",
-      "sources": [
-        {
-          "name": "ライブドアニュース",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Jdm04ZlFGTW0tMWJHQUxWVEx2cUYtSWlqZjJzUnZOVFBJM0NtdjJSOXB3V2ZUTlFJN3YwQkhtMERCcUI2dmdTNU5PZkhfbkZsbDNLdHNVLS1XeGtZdXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "9670c8b2a5c1",
-      "title": "糖尿病治療薬が寿命延長に関連して注目を集める - Laodong.vn",
-      "published": "2026-05-26T12:00:00+00:00",
-      "summary": "糖尿病治療薬が寿命延長に関連して注目を集める&nbsp;&nbsp;Laodong.vn",
-      "sources": [
-        {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZDlFTkdFMmVQR2NHRERReVJncXBSNlBjZHRwM180WWFaV2JCMnlpX3lPanhFYmtPb3ZMT0tudWlQWFgwRnFMTTdmNEs3OFo1ZVZMMC1jaElvVFRvbTFBeXZZSnJJZ0p5S3ZSRHBXV2hMYnlUR3dWeEhpNUpUU0dXVzBpSi1EUk5EN0xvTDBaSG44TExzVnprakF1UmVOVjBzWXRoNVFuNE5KUlBESjRKRjN3?oc=5"
-        }
-      ]
-    },
-    {
       "id": "2a807c7e5f07",
       "title": "『クレーター状のニキビ跡』は治る？ サブシジョン治療と注意点【医師解説】(メディカルドック)",
       "published": "2026-05-26T11:03:07+00:00",
@@ -830,30 +794,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/708db9bccd6202a7a3c78f8d09be9ba726ea5730?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "029ee8f383ce",
-      "title": "ニキビ跡（傷跡）のレーザー治療は何回通院が必要？ 治療の流れについて医師が解説(メディカルドック)",
-      "published": "2026-05-25T11:00:02+00:00",
-      "summary": "美容に注目が集まっている近年、ニキビ跡や傷跡に悩む方は多いのではないでしょうか。最近では、レーザー治療を利用して、こうした肌の悩みを解消する方が増えています。しかし、どのような治療なのか、何回通えば良",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/83fe0e6127ef3a8679f55b03d8c4aefdafc5478d?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "1688a1af4edc",
-      "title": "「糖尿病で足を切断」する判断基準とは？足を切断するまでの症状の進み方も解説！(メディカルドック)",
-      "published": "2026-05-25T10:03:07+00:00",
-      "summary": "糖尿病は血糖値のコントロールが難しく、進行すると足の血管や神経に障害を起こすことがあります。これにより足の感覚が鈍くなったり、傷が治りにくくなったりして、感染や壊疽（えそ）を起こすと切断が必要です。実",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/c02ba10c528a83f800305c094e058803abef6270?source=rss"
         }
       ]
     }
