@@ -1,19 +1,67 @@
 {
   "source": "japan_news",
-  "fetched_at": "2026-05-30T08:15:55.715207+00:00",
-  "total_fetched": 124,
-  "unique_count": 124,
-  "health_related_count": 45,
+  "fetched_at": "2026-05-30T13:02:59.824067+00:00",
+  "total_fetched": 123,
+  "unique_count": 123,
+  "health_related_count": 47,
   "news": [
     {
-      "id": "0f05dd7ce49a",
-      "title": "「良すぎて2本買いました！」「暑い夏でもサラッと着られそう」　ワークマンの“1780円クールジョガーパンツ”が大好評　「肌触りもよく動きやすい」「即色違いを購入」(ねとらぼ)",
-      "published": "2026-05-30T07:20:00+00:00",
-      "summary": "ワークマンから販売されている「レディースハイストレッチUVクールジョガー」が、サラッとしていて肌触りのいい生地感で着心地がよく、またストレッチが効いているので動きやすい上、UVカット効果もあり夏でも",
+      "id": "484f6f7b8129",
+      "title": "【毎日書評】史料×デジタルの融合。コンピュータが与えてくれた「歴史研究の新たな眼」(ライフハッカー・ジャパン)",
+      "published": "2026-05-30T12:51:01+00:00",
+      "summary": "『日本史の宝箱 史料をめぐる52の秘話』（東京大学史料編纂所 編、中公新書）の編者である東京大学史料編纂所は、古代から明治維新期までの日本史資料に関する研究所。 現在では、広く国内外から日本に関する",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/6b362773e6760c5bddbde6998dc315a4c3ded4bb?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/2309abe6a98cabec3e067fb59a0efa2c744d0ce9?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "575f4baad558",
+      "title": "唇も日焼け対策を！プチプラで使えるUVカットリップおすすめ3選(MAQUIA)",
+      "published": "2026-05-30T12:30:10+00:00",
+      "summary": "ぷるぷるの唇を維持するため、紫外線が気になる季節は「UVカット効果のあるリップ」でケアを！ おすすめのプチプラUVカットリップをお届けします。",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/6a6ad37538327ea7ea18192c997fabe0470a497e?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "40f514307f9e",
+      "title": "胃痛や食欲不振を軽減する「衝陽」のツボ。顔のむくみや顔面麻痺、精神症状にも作用(家庭画報.com)",
+      "published": "2026-05-30T12:20:02+00:00",
+      "summary": "中医学のエキスパートである鍼灸師の兵頭 明先生が、ツボの効能や位置、効くメカニズムを解説します。健康の土台作りに、不調改善に、1日1分のツボ押しを習慣にしましょう。",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/61c11602699fbe8facda4169df5e1c048dcee9c9?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "a785069a35e4",
+      "title": "「歩くだけ」で気分が変わるのは気のせいじゃない！医師が教える、うつ気分を晴らす歩き方(ヨガジャーナルオンライン)",
+      "published": "2026-05-30T12:10:00+00:00",
+      "summary": "歩行のような「一定のリズムを繰り返す運動」は、セロトニン系に良い影響を与えると考えられています。さらに、自律神経バランスにも良い影響を与えることがあります。医師が解説します。 ■「歩くだけ」で気分が",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/264bd0d0bf88bd98fdce6c6020a25b1b97712803?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "738f712306bf",
+      "title": "キッチンスポンジの除菌、毎週ちゃんとしてますか？たった1回で除菌効果抜群のお手入れ方法を紹介(モダンリビング)",
+      "published": "2026-05-30T12:02:18+00:00",
+      "summary": "毎日使うキッチンスポンジはしっかり洗っているつもりでも、実は菌の繁殖が気になる場所ですよね。では、どうすれば清潔に保てるのでしょうか？ 米国の「グッド・ハウスキーピング研究所」がテストした除菌方法の",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/1b0637ae91ec129b27ecb08c05d498f0a63508a2?source=rss"
         }
       ]
     },
@@ -21,23 +69,11 @@
       "id": "456e01a74bfc",
       "title": "“塩分摂りすぎの男性”は『記憶力低下』が早い？ 認知症になるリスクも医師が解説 - メディカルドック",
       "published": "2026-05-30T03:01:51+00:00",
-      "summary": "“塩分摂りすぎの男性”は『記憶力低下』が早い？ 認知症になるリスクも医師が解説&nbsp;&nbsp;メディカルドック“塩分摂りすぎの男性”は『記憶力低下』が早い？ 認知症になるリスクも医師が解説 (2026年5月30日掲載)&nbsp;&nbsp;ライブドアニュース",
+      "summary": "“塩分摂りすぎの男性”は『記憶力低下』が早い？ 認知症になるリスクも医師が解説&nbsp;&nbsp;メディカルドック塩分摂取量が多い男性ほど記憶力低下が早い可能性 豪研究者らが発表 (2026年5月30日掲載)&nbsp;&nbsp;ライブドアニュース",
       "sources": [
         {
           "name": "メディカルドック",
           "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5KOW1ndkNhRlU1Nm8zM2dHSWpCZFpjR0ZaYk92QS1HV2pfUkp0bHcxMTBkZWIyOVdFMVJMaEFaQ2I3NXN0ZmViaFBSUW9ZdVJfR2tJRmQySQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2bc18f26d762",
-      "title": "睡眠 - Laodong.vn",
-      "published": "2026-05-30T03:00:00+00:00",
-      "summary": "睡眠&nbsp;&nbsp;Laodong.vn「8時間寝なきゃ」は時代遅れ、研究でわかった最も病気の死亡率を下げる睡眠時間とは（マイナビニュース）&nbsp;&nbsp;Yahoo!ニュース「８時間以上寝る人」は危ない？ 認知症リスクが40％上昇することも…最新研究が示した睡眠時間の“正解”（集英社オンライン）&nbsp;&nbsp;Yahoo!ニュース",
-      "sources": [
-        {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40aGtOU3RUMXhKN1hISmFCUHRfc29Hb2JWUlR1UEd0ZkFvWmJILTRaQ1ZaQzBSMm1neDhpVzltYUR6VVMwaUNPRVpZU2lFNTNiRzNaUXdNZFdhVDFRWmxFWA?oc=5"
         }
       ]
     },
@@ -117,7 +153,7 @@
       "id": "4ed0962c59e6",
       "title": "咳や鼻水が長引く謎の風邪が流行？街の人や医師に話を聞いてみた 高松市 - au Webポータル",
       "published": "2026-05-29T09:47:00+00:00",
-      "summary": "咳や鼻水が長引く謎の風邪が流行？街の人や医師に話を聞いてみた 高松市&nbsp;&nbsp;au Webポータル「謎の風邪」県内でも流行？ ＳＮＳで話題 喉の痛みや鼻水、熱はなく ヒトメタニューモが関係か 医師「適切な受診を」｜四国新聞WEB朝刊&nbsp;&nbsp;四国新聞謎風邪とは？ 感染症の専門家に聞く（khb東日本放送）&nbsp;&nbsp;Yahoo!ニュース【専門家解説】「せきが止まらない、長引く」“謎の風邪”の正体！？ヒトメタニューモウイルスとは？&nbsp;&nbsp;FNNプライムオンライン【解説】熱は出ないのに長引く体調不良…SNSで話題“謎の風邪”の正体は？専門家の見解と受診の目安&nbsp;&nbsp;日テレNEWS NNN",
+      "summary": "咳や鼻水が長引く謎の風邪が流行？街の人や医師に話を聞いてみた 高松市&nbsp;&nbsp;au Webポータル「謎の風邪」県内でも流行？ ＳＮＳで話題 喉の痛みや鼻水、熱はなく ヒトメタニューモが関係か 医師「適切な受診を」｜四国新聞WEB朝刊&nbsp;&nbsp;四国新聞謎風邪とは？ 感染症の専門家に聞く（khb東日本放送）&nbsp;&nbsp;Yahoo!ニュース咳や鼻水が長引く“謎の風邪”が流行？街の人や医師に話を聞いてみた 高松市&nbsp;&nbsp;KSBニュース【解説】熱は出ないのに長引く体調不良…SNSで話題“謎の風邪”の正体は？専門家の見解と受診の目安&nbsp;&nbsp;日テレNEWS NNN",
       "sources": [
         {
           "name": "au Webポータル",
@@ -129,7 +165,7 @@
       "id": "13fb629cec75",
       "title": "長時間のデスクワークで“がん”のリスクが高まるって本当？！ 「座りすぎ」に潜むまさかのリスクとは【ほんのひとふし】 - ほんのひきだし",
       "published": "2026-05-29T08:30:25+00:00",
-      "summary": "長時間のデスクワークで“がん”のリスクが高まるって本当？！ 「座りすぎ」に潜むまさかのリスクとは【ほんのひとふし】&nbsp;&nbsp;ほんのひきだし腸内細菌が大腸がんのリスクをなぜ高めるのか、適切な予防策は&nbsp;&nbsp;ナショナルジオグラフィック日本版酒・タバコと同じくらい危険…10年続けると「大腸がん」発症率が2倍に跳ね上がる、職場で毎日やっている習慣&nbsp;&nbsp;Yahoo!ニュース｢胃がん予防に効果的｣のはずが…タバコを吸う人が飲むと発症率が2倍以上になる｢健康にいい飲み物｣の名前&nbsp;&nbsp;PRESIDENT Online（プレジデントオンライン）酒･タバコと同じくらい危険…10年続けると｢大腸がん｣発症率が2倍に跳ね上がる､職場で毎日やっている習慣&nbsp;&nbsp;PRESIDENT Online（プレジデントオンライン）",
+      "summary": "長時間のデスクワークで“がん”のリスクが高まるって本当？！ 「座りすぎ」に潜むまさかのリスクとは【ほんのひとふし】&nbsp;&nbsp;ほんのひきだし喫煙でもアルコールでもない…膀胱がんの東大教授が警告「日本人のがん死亡率」を上げているものの正体&nbsp;&nbsp;Yahoo!ニュース酒･タバコと同じくらい危険…10年続けると｢大腸がん｣発症率が2倍に跳ね上がる､職場で毎日やっている習慣&nbsp;&nbsp;PRESIDENT Online（プレジデントオンライン）腸内細菌が大腸がんのリスクをなぜ高めるのか、適切な予防策は&nbsp;&nbsp;ナショナルジオグラフィック日本版酒・タバコと同じくらい危険…10年続けると「大腸がん」発症率が2倍に跳ね上がる、職場で毎日やっている習慣&nbsp;&nbsp;Yahoo!ニュース",
       "sources": [
         {
           "name": "ほんのひきだし",
@@ -258,14 +294,14 @@
       ]
     },
     {
-      "id": "0b81346be129",
-      "title": "アルゼンチン専門家、捕獲されたげっ歯類がハンタウイルスに感染している証拠はいまだ確認されず - ライブドアニュース",
-      "published": "2026-05-28T10:20:03+00:00",
-      "summary": "アルゼンチン専門家、捕獲されたげっ歯類がハンタウイルスに感染している証拠はいまだ確認されず&nbsp;&nbsp;ライブドアニュースハンタウイルス「水際対策」法的にどこまで可能？ “入国拒否”や“隔離”はできない…コロナ禍との違いとは【弁護士解説】&nbsp;&nbsp;Yahoo!ニュースハンタウイルス発生のクルーズ船、下船のスペイン人が陽性&nbsp;&nbsp;CNNハンタウイルスとは、症状から感染経路まで知っておくべきこと&nbsp;&nbsp;日本経済新聞「日本で流行の可能性低い」&nbsp;&nbsp;山陰中央新報デジタル",
+      "id": "84dfcde165d8",
+      "title": "6月オンラインいきいき健康 サロン「名医の「勘」をデータに変える：フランス発祥の「聴診」をAIで進化させ活用する整形外科手術のミライ」 – 在仏日本人会 - フランス日本人会",
+      "published": "2026-05-28T10:16:17+00:00",
+      "summary": "6月オンラインいきいき健康 サロン「名医の「勘」をデータに変える：フランス発祥の「聴診」をAIで進化させ活用する整形外科手術のミライ」 – 在仏日本人会&nbsp;&nbsp;フランス日本人会",
       "sources": [
         {
-          "name": "ライブドアニュース",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE40YzRrZTNEcXBUZERGMGZvTnY2WTlvTXlZano2M1hUMFZMUG01anlsQ3FBc1RqRXIzNTZTNmFvQzRnZFVuZEFSZXRKdG85ZTZQR1ZfY2NsMlNPeGFpa1o4?oc=5"
+          "name": "フランス日本人会",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA0X05ERlpFNTU1MWYwR0p4VHlMWlJCYW05eUJaRTZnTmZIN2ljT0hyMmQwUDhyX2ZyR24yMmdjMTMtX1g4TWVvNEVoSmdFZTZtdmVEaDRUdEk3eXFPZ3c?oc=5"
         }
       ]
     },
@@ -290,18 +326,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/8210f0870ea5c8a0fc8f05c0ccc0be9b0bbc6303?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "d91d214983d4",
-      "title": "ケンブリッジ大学は数年前に尿から肺がんを発見した - Futuro Prossimo",
-      "published": "2026-05-28T09:36:34+00:00",
-      "summary": "ケンブリッジ大学は数年前に尿から肺がんを発見した&nbsp;&nbsp;Futuro Prossimo",
-      "sources": [
-        {
-          "name": "Futuro Prossimo",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdmFRR0hYUkJPZ29LTE5fc3dxdzdyNXZVdVZabXI3cWZaMURiNC04eWpkbUZSYUlhcEVlWGw1ZGQzbGJyR2hpTHctY0xDWXU0MHRTRW1RNHBoNHRNdzdHZDc1enMzSktZU1ltSUNnSzAtQkJCWHJvcHQ5RTZpbnN0OE1pZHB0REMzdWNRWWJ5ZU1NQW45V1BkNktFcmlETHds?oc=5"
         }
       ]
     },
