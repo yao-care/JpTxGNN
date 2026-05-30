@@ -1,322 +1,78 @@
 {
-  "last_updated": "2026-05-30T02:06:46.212387+00:00",
-  "total_count": 55,
-  "matched_count": 15,
+  "last_updated": "2026-05-30T08:15:56.035763+00:00",
+  "total_count": 45,
+  "matched_count": 17,
   "news": [
     {
-      "id": "9bbc9c61db4f",
-      "title": "【うに好き感涙のカップ麺!?】キワモノと侮るなかれ！エースコック新作「焼うにだし醤油ラーメン」をマニアが速報レビュー(MonoMax Web)",
-      "published": "2026-05-30T02:00:30+00:00",
-      "summary": "日夜新しいカップ麺に目を光らせているグルメライターが今回発見したのは、5月26日に発売されたエースコック「こだわる大人の王様スープ 焼うにだし醤油ラーメン」。スープと具材にうにを使用したという豪華な一",
+      "id": "0f05dd7ce49a",
+      "title": "「良すぎて2本買いました！」「暑い夏でもサラッと着られそう」　ワークマンの“1780円クールジョガーパンツ”が大好評　「肌触りもよく動きやすい」「即色違いを購入」(ねとらぼ)",
+      "published": "2026-05-30T07:20:00+00:00",
+      "summary": "ワークマンから販売されている「レディースハイストレッチUVクールジョガー」が、サラッとしていて肌触りのいい生地感で着心地がよく、またストレッチが効いているので動きやすい上、UVカット効果もあり夏でも",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/98505d52e9a7ea40abc6f533548f349db72e9045?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/6b362773e6760c5bddbde6998dc315a4c3ded4bb?source=rss"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "24df5eb773f3",
-      "title": "和田秀樹医師が語る“理想の最期”「終活はしない。死ぬまでの一日一日を存分に楽しんで充実させる」「がんで死ぬのがいちばんいいと思っています」(女性セブンプラス)",
-      "published": "2026-05-30T02:00:00+00:00",
-      "summary": "誰もが迎える人生の最期。後悔なく、理想的で、最高の大往生を迎えたいと願うのは当然だろう。臨床の現場で「命のともしびが消える瞬間」に向き合ってきた名医に自身はどのような「極上の最期」を思うのか聞いた。",
+      "id": "456e01a74bfc",
+      "title": "“塩分摂りすぎの男性”は『記憶力低下』が早い？ 認知症になるリスクも医師が解説",
+      "published": "2026-05-30T03:01:51+00:00",
+      "summary": "“塩分摂りすぎの男性”は『記憶力低下』が早い？ 認知症になるリスクも医師が解説&nbsp;&nbsp;メディカルドック“塩分摂りすぎの男性”は『記憶力低下』が早い？ 認知症になるリスクも医師が解説 (2026年5月30日掲載)&nbsp;&nbsp;ライブドアニュース",
       "sources": [
         {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/8c9af329dd25a09a23a48fffd404e9ae38435305?source=rss"
+          "name": "メディカルドック",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5KOW1ndkNhRlU1Nm8zM2dHSWpCZFpjR0ZaYk92QS1HV2pfUkp0bHcxMTBkZWIyOVdFMVJMaEFaQ2I3NXN0ZmViaFBSUW9ZdVJfR2tJRmQySQ?oc=5"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "がん",
+          "name": "dementia",
+          "keyword": "認知症",
           "related_drugs": [
-            {
-              "slug": "acyclovir",
-              "name": "ゾビラックス軟膏５％（選）"
-            },
-            {
-              "slug": "theophylline",
-              "name": "ユニコン錠１００　１００ｍｇ（選）"
-            },
-            {
-              "slug": "risperidone",
-              "name": "リスパダール錠２ｍｇ（選）"
-            },
-            {
-              "slug": "valproic-acid",
-              "name": "セレニカＲ顆粒４０％（選）"
-            },
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "atorvastatin",
-              "name": "アトーゼット配合錠ＨＤ（選）"
-            },
-            {
-              "slug": "cyclosporine",
-              "name": "ネオーラル５０ｍｇカプセル（選）"
-            },
-            {
-              "slug": "azithromycin",
-              "name": "ジスロマック細粒小児用１０％　１００ｍｇ（選）"
-            },
-            {
-              "slug": "valsartan",
-              "name": "ディオバンＯＤ錠１６０ｍｇ（選）"
-            },
-            {
-              "slug": "carbamazepine",
-              "name": "テグレトール錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "morphine",
-              "name": "モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」"
-            },
-            {
-              "slug": "pravastatin",
-              "name": "メバロチン錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "atenolol",
-              "name": "テノーミン錠５０　５０ｍｇ（選）"
-            },
-            {
-              "slug": "loperamide",
-              "name": "ロペミンカプセル１ｍｇ（選）"
-            },
-            {
-              "slug": "simvastatin",
-              "name": "リポバス錠５　５ｍｇ（選）"
-            },
             {
               "slug": "gefitinib",
               "name": "イレッサ錠２５０　２５０ｍｇ（選）"
             },
             {
-              "slug": "carvedilol",
-              "name": "アーチスト錠２０ｍｇ（選）"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "ゼローダ錠３００　３００ｍｇ（選）"
-            },
-            {
-              "slug": "diazepam",
-              "name": "ホリゾン錠５ｍｇ（選）"
-            },
-            {
-              "slug": "lorazepam",
-              "name": "ワイパックス錠１．０　１ｍｇ（選）"
-            },
-            {
-              "slug": "propranolol",
-              "name": "インデラル錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "spironolactone",
-              "name": "アルダクトンＡ錠５０ｍｇ（選）"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "ロプレソール錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "enalapril",
-              "name": "レニベース錠１０　１０ｍｇ（選）"
-            },
-            {
-              "slug": "lisinopril",
-              "name": "ロンゲス錠２０ｍｇ（選）"
-            },
-            {
-              "slug": "diltiazem",
-              "name": "ヘルベッサー錠６０　６０ｍｇ（選）"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "エックスフォージ配合ＯＤ錠（選）"
-            },
-            {
-              "slug": "clarithromycin",
-              "name": "クラリス錠５０小児用　５０ｍｇ（選）"
-            },
-            {
-              "slug": "furosemide",
-              "name": "ラシックス錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "lidocaine",
-              "name": "リドカイン（１８ｍｇ）３０．５ｍｍ×５０．０ｍｍ貼付剤"
-            },
-            {
-              "slug": "bisoprolol",
-              "name": "メインテート錠５ｍｇ（選）"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "ミカムロ配合錠ＢＰ（選）"
-            },
-            {
-              "slug": "rosuvastatin",
-              "name": "クレストールＯＤ錠５ｍｇ（選）"
-            },
-            {
-              "slug": "imatinib",
-              "name": "グリベック錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "clopidogrel",
-              "name": "プラビックス錠７５ｍｇ（選）"
-            },
-            {
-              "slug": "sertraline",
-              "name": "ジェイゾロフトＯＤ錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "timolol",
-              "name": "デュオトラバ配合点眼液（選）"
-            },
-            {
-              "slug": "diclofenac",
-              "name": "ボルタレンサポ５０ｍｇ（選）"
-            },
-            {
-              "slug": "budesonide",
-              "name": "シムビコートタービュヘイラー６０吸入（選）"
-            },
-            {
-              "slug": "moxifloxacin",
-              "name": "ベガモックス点眼液０．５％（選）"
-            },
-            {
-              "slug": "verapamil",
-              "name": "ワソラン錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "levofloxacin",
-              "name": "クラビット点眼液１．５％（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "celecoxib",
-              "name": "セレコックス錠２００ｍｇ（選）"
-            },
-            {
-              "slug": "ezetimibe",
-              "name": "ゼチーア錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "topiramate",
-              "name": "トピナ錠２５ｍｇ（選）"
-            },
-            {
               "slug": "erlotinib",
               "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            },
-            {
-              "slug": "montelukast",
-              "name": "シングレアＯＤ錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "lamotrigine",
-              "name": "ラミクタール錠２５ｍｇ（選）"
-            },
-            {
-              "slug": "hydrochlorothiazide",
-              "name": "プレミネント配合錠ＨＤ（選）"
-            },
-            {
-              "slug": "losartan",
-              "name": "ニューロタン錠５０ｍｇ（選）"
-            },
-            {
-              "slug": "latanoprost",
-              "name": "ザラカム配合点眼液（選）"
-            },
-            {
-              "slug": "clotrimazole",
-              "name": "エンペシドクリーム１％（選）"
-            },
-            {
-              "slug": "amoxicillin",
-              "name": "ワイドシリン細粒２０％　２００ｍｇ"
-            },
-            {
-              "slug": "ampicillin",
-              "name": "ビクシリンＳ配合錠　（２５０ｍｇ）"
-            },
-            {
-              "slug": "lamivudine",
-              "name": "エプジコム配合錠（選）"
-            },
-            {
-              "slug": "warfarin",
-              "name": "ワルファリンＫ細粒０．２％「ＮＳ」"
-            },
-            {
-              "slug": "fenofibrate",
-              "name": "トライコア錠８０ｍｇ（選）"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            },
-            {
-              "slug": "prasugrel",
-              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
-            },
-            {
-              "slug": "tramadol",
-              "name": "トラマールＯＤ錠５０ｍｇ（選）"
-            },
-            {
-              "slug": "metronidazole",
-              "name": "メトロニダゾールゲル０．７５％「マルイシ」"
-            },
-            {
-              "slug": "lactulose",
-              "name": "ラグノスＮＦ経口ゼリー分包１２ｇ　５４．１６７％"
-            },
-            {
-              "slug": "levetiracetam",
-              "name": "レベチラセタム粒状錠５００ｍｇ「サワイ」"
             }
           ]
         }
       ]
     },
     {
-      "id": "eac839beede0",
-      "title": "季節のブレンド茶からお茶のコースまで「日本のお茶」の味と美意識を五感で愉しむ専門店(FRaU)",
-      "published": "2026-05-30T01:40:02+00:00",
-      "summary": "厳選した日本茶に旬の素材を重ね、選び抜いた器で提供する櫻井焙茶研究所。茶房では各地から厳選されたお茶やオリジナルのブレンド茶、茶酒、お茶のコースを展開。味と美意識を五感で愉しむ一服が、茶の価値を更新す",
+      "id": "2bc18f26d762",
+      "title": "睡眠",
+      "published": "2026-05-30T03:00:00+00:00",
+      "summary": "睡眠&nbsp;&nbsp;Laodong.vn「8時間寝なきゃ」は時代遅れ、研究でわかった最も病気の死亡率を下げる睡眠時間とは（マイナビニュース）&nbsp;&nbsp;Yahoo!ニュース「８時間以上寝る人」は危ない？ 認知症リスクが40％上昇することも…最新研究が示した睡眠時間の“正解”（集英社オンライン）&nbsp;&nbsp;Yahoo!ニュース",
       "sources": [
         {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/0a92b3580b0ea5936aad574d81de2818bf4279b4?source=rss"
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40aGtOU3RUMXhKN1hISmFCUHRfc29Hb2JWUlR1UEd0ZkFvWmJILTRaQ1ZaQzBSMm1neDhpVzltYUR6VVMwaUNPRVpZU2lFNTNiRzNaUXdNZFdhVDFRWmxFWA?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "認知症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "a2d80345a1ee",
@@ -332,69 +88,33 @@
       "matched_keywords": []
     },
     {
-      "id": "d32bca9dbc27",
-      "title": "消防署に残された、1匹の犬と置き手紙。そこには「助けて」という悲痛な叫び→隊員たちの行動に「誇りに思う」 米(BuzzFeed Japan)",
-      "published": "2026-05-30T01:35:01+00:00",
-      "summary": "米テキサス州の消防署で5月16日、隊員がポールにつながれた1匹の犬を発見しました。そばには、元飼い主による長文の手紙が残されていたそう。その後の隊員たちの行動に、称賛の声が寄せられています。",
+      "id": "1ac6b705e674",
+      "title": "認知症予防には「1日何歩」が効く？ ハーバード大の最新研究が示す「7年遅らせる」ための最適ウォーキング術（文春オンライン）",
+      "published": "2026-05-29T21:00:00+00:00",
+      "summary": "認知症予防には「1日何歩」が効く？ ハーバード大の最新研究が示す「7年遅らせる」ための最適ウォーキング術（文春オンライン）&nbsp;&nbsp;ｄメニューニュースGoogle ニュースで見出しと意見をもっと見る",
       "sources": [
         {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/e06aba05b00c2c714e4d297bad1aa728dccb8291?source=rss"
+          "name": "ｄメニューニュース",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50ZEItUXlwUEVDcFN5WWZVSzZPemRXS2NTT1QtUmdoaURUcms1SVVsVjRmd09wMzAwRHFoRUc0bkFyeEJQbmpITXhHVmZxcEg2VFlEaWpfdkdZSUh3bEUyS3R0WFNESzU0cmttWVpKSVhkbmFtRUE?oc=5"
         }
       ],
-      "matched_keywords": []
-    },
-    {
-      "id": "d456e67e0c42",
-      "title": "「マナーなんでしょう？」　スイス人が衝撃を受けた日本の光景　「人が集まっていて不思議」だった場所とは(Hint",
-      "published": "2026-05-30T01:26:08+00:00",
-      "summary": "日本の日常生活には、さまざまなルールやマナーが根付いています。食事の作法から公共交通機関での振る舞いまで、訪日外国人がその細かさに驚くことも少なくありません。街を歩くと、思いがけない場所に小さな発見",
-      "sources": [
+      "matched_keywords": [
         {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/3c59460a31e432476d7dd63bf847b3a2f21bbaee?source=rss"
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "認知症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            }
+          ]
         }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "632ffcd1a21e",
-      "title": "「とってもいいぞおおおお」　“地方でも学生生活を楽しめる”国立大学って？　ランキング上位に集まった声「アルバイトが便利」「特徴的なサークルはウミガメ研究会」(ねとらぼ)",
-      "published": "2026-05-30T01:20:00+00:00",
-      "summary": "「みんなの学校情報（大学版）」は、全国の保育園、幼稚園、小学校、中学校、高校、専門学校、大学等の学校選びに役立つ情報を総合的に得ることのできるポータルサイトです。実際の生徒等本人や保護者からの口コミ",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/caed5c088214083c9bf18f7f98a85c23fbda4152?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "011469a2eac2",
-      "title": "「ねぎ焼きの大阪文化を広めたい」名古屋駅西側に本場の味が楽しめるお好み焼きの新店 名物メニューは大迫力の“ぼっかけ入り”(FNNプライムオンライン)",
-      "published": "2026-05-30T01:01:21+00:00",
-      "summary": "名古屋駅の西側に5月1日、本場・大阪の味が楽しめるお好み焼き店『うつのみ屋』がオープンしました。この店の名物メニューが、ネギ約5本分を贅沢に使った「ねぎ焼き」です。 『うつのみ屋』では、生地に長イ",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/08eefa84232b97bc3f1993398760c08bbd848bde?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "a02750ce82a9",
-      "title": "「まだ慣れないんですか？」年下社員の冷たい一言にうつむいた60歳男性。時給1,300円で働く〈再雇用なき定年後〉の現実(THE GOLD ONLINE（ゴールドオンライン）)",
-      "published": "2026-05-30T01:00:36+00:00",
-      "summary": "定年後も働き続けることは、いまや珍しい選択ではありません。生活費や住宅ローン、子どもの教育費、老後資金への不安から、60歳以降も仕事を探す人は少なくありません。しかし、同じ「働く」でも、現役時代と同じ",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/f138c68ac1c5326ccd240a36e1e0c429885f6105?source=rss"
-        }
-      ],
-      "matched_keywords": []
+      ]
     },
     {
       "id": "af11863261f3",
@@ -480,7 +200,7 @@
       "id": "4ed0962c59e6",
       "title": "咳や鼻水が長引く謎の風邪が流行？街の人や医師に話を聞いてみた 高松市 - au Webポータル",
       "published": "2026-05-29T09:47:00+00:00",
-      "summary": "咳や鼻水が長引く謎の風邪が流行？街の人や医師に話を聞いてみた 高松市&nbsp;&nbsp;au Webポータル【解説】熱は出ないのに長引く体調不良…SNSで話題“謎の風邪”の正体は？専門家の見解と受診の目安&nbsp;&nbsp;日テレNEWS NNN花粉症？ 黄砂が影響？ 北海道でも多い「謎の風邪」の正体は（テレビ北海道）&nbsp;&nbsp;Yahoo!ニュース「謎の風邪」県内でも流行？ ＳＮＳで話題 喉の痛みや鼻水、熱はなく ヒトメタニューモが関係か 医師「適切な受診を」｜四国新聞WEB朝刊&nbsp;&nbsp;四国新聞【専門家解説】「せきが止まらない、長引く」“謎の風邪”の正体！？ヒトメタニューモウイルスとは？&nbsp;&nbsp;FNNプライムオンライン",
+      "summary": "咳や鼻水が長引く謎の風邪が流行？街の人や医師に話を聞いてみた 高松市&nbsp;&nbsp;au Webポータル「謎の風邪」県内でも流行？ ＳＮＳで話題 喉の痛みや鼻水、熱はなく ヒトメタニューモが関係か 医師「適切な受診を」｜四国新聞WEB朝刊&nbsp;&nbsp;四国新聞謎風邪とは？ 感染症の専門家に聞く（khb東日本放送）&nbsp;&nbsp;Yahoo!ニュース【専門家解説】「せきが止まらない、長引く」“謎の風邪”の正体！？ヒトメタニューモウイルスとは？&nbsp;&nbsp;FNNプライムオンライン【解説】熱は出ないのに長引く体調不良…SNSで話題“謎の風邪”の正体は？専門家の見解と受診の目安&nbsp;&nbsp;日テレNEWS NNN",
       "sources": [
         {
           "name": "au Webポータル",
@@ -1777,39 +1497,6 @@
       ]
     },
     {
-      "id": "eb382cc3e102",
-      "title": "全国市町村における高齢者肺炎球菌ワクチン定期予防接種の実態調査",
-      "published": "2026-05-28T06:15:14+00:00",
-      "summary": "全国市町村における高齢者肺炎球菌ワクチン定期予防接種の実態調査&nbsp;&nbsp;国立健康危機管理研究機構",
-      "sources": [
-        {
-          "name": "国立健康危機管理研究機構",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUDdnajFGUEdEN3hLUlJTcXk5OU1PTkVxTXpRVFhlbHM4TE9qNG14dVBwdFdiZldPY3BsWGxTaFFZNF93UExESUxTM1BLLWJ5NGNCZUdldzZoOTN1a2E3SFI0dkFiRDZoNW5jS0JlU3FnVTY1d1J6VDZNeGFsMzVGZ3Rn?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "pneumonia",
-          "keyword": "肺炎",
-          "related_drugs": [
-            {
-              "slug": "oseltamivir",
-              "name": "タミフルドライシロップ３％（選）"
-            },
-            {
-              "slug": "levofloxacin",
-              "name": "クラビット点眼液１．５％（選）"
-            },
-            {
-              "slug": "ampicillin",
-              "name": "ビクシリンＳ配合錠　（２５０ｍｇ）"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "7c7d7390e3c1",
       "title": "世界最高水準に…東大など、金属二次電池の効率向上(ニュースイッチ)",
       "published": "2026-05-28T06:10:02+00:00",
@@ -1818,32 +1505,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/8608f0ef1f1f91b5b946ae92b42e54c8254a6cc4?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "2d634fc069f6",
-      "title": "【研究成果】脳の複雑さを支える分子多様性の進化的起源を解明 ─ RNAを制御するタンパク質のタイプの豊富さが神経細胞数と強く相関",
-      "published": "2026-05-28T05:44:20+00:00",
-      "summary": "【研究成果】脳の複雑さを支える分子多様性の進化的起源を解明 ─ RNAを制御するタンパク質のタイプの豊富さが神経細胞数と強く相関&nbsp;&nbsp;hiroshima-u.ac.jp",
-      "sources": [
-        {
-          "name": "hiroshima-u.ac.jp",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9VNTIwdzFfZWVieC04R3ZzajZIcm1lVkVFeV9OekJSWFMwdUptMzM4RkFTMWlkWmp2b0JIeDk3QnB3azljbkdqNUlWU21CTDBYN3c?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "a0f8b2d0b7ef",
-      "title": "18年間脊椎を硬直させ、腎臓が胸に届かなくなった男性",
-      "published": "2026-05-28T04:52:09+00:00",
-      "summary": "18年間脊椎を硬直させ、腎臓が胸に届かなくなった男性&nbsp;&nbsp;Laodong.vn胸腔内に腎臓が突出している患者に対する経皮的結石破砕術。&nbsp;&nbsp;Vietnam.vn重度の脊柱側弯症患者に対する体外衝撃波結石破砕術が成功した。&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTk9GUlZTMXMyWmRKN0hndDF2VFU1Z0xZNklTY1dLc1JrbUZUZDVCRk0tVUhkUXN4UEtJQTczTFBDcVNjZjUyVXZTS3I4OWJydzRWZlQ2MEUzeURSS1ZBMHpWN3V4ejdhTDdTdjNSbGlGYV9SM0EtMldNQ0FNS3Y5RWgzZTVPRkVfVkwxR0M2V0VqLWxRc0dFRlpFWVhVMXhLM3N4WE53?oc=5"
         }
       ],
       "matched_keywords": []
@@ -2030,21 +1691,33 @@
       ]
     },
     {
-      "id": "cd1bc6041efd",
-      "title": "アルツハイマー病予防に有効な運動量はどのくらい？ 最新研究が示した、誰もがもっとも効率よく鍛えられる“スーパー筋肉”の正体（集英社オンライン）",
+      "id": "f71622393cb9",
+      "title": "アルツハイマー病予防に有効な運動量はどのくらい？ 最新研究が示した、誰もがもっとも効率よく鍛えられる“スーパー筋肉”の正体(集英社オンライン)",
       "published": "2026-05-28T02:00:37+00:00",
-      "summary": "アルツハイマー病予防に有効な運動量はどのくらい？ 最新研究が示した、誰もがもっとも効率よく鍛えられる“スーパー筋肉”の正体（集英社オンライン）&nbsp;&nbsp;Yahoo!ニュースGoogle ニュースで見出しと意見をもっと見る",
+      "summary": "英国オックスフォード大学での研究を経て、糖と脳の研究分野で国際的に評価されている医師の下村健寿氏。そんな下村氏は、認知症やアルツハイマー病予防の“特効薬”として「運動」の重要性を挙げる。なかでも近年の",
       "sources": [
-        {
-          "name": "Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE15RXE4X3dXUFlJWkxmVzFMX1NuR3Z4YzMwMGtub0JIeEVfanJaVVlZZVpyNERsYjFLWFhnengzQVI5ZWhJS1RGVzZBVTFReGpQam5SeFdfekNWdzRJUUdtVExrcGwyWk95REJVV3JBaF9NeF9DM0dpZmFjSDJfM3c?oc=5"
-        },
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/0a30a536001431a58f116c916c10e7a046c537b4?source=rss"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "認知症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "4ca5821031b2",
@@ -2055,19 +1728,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/fc4a5be62a4db464f87d68aed4d47fba51d376d5?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "8d11ab3e9afa",
-      "title": "2025年4月～2026年3月 RSウイルス全国調査の結果 更新版 ＜抗体製剤に関連するF蛋白質変異の解析＞",
-      "published": "2026-05-28T01:31:50+00:00",
-      "summary": "2025年4月～2026年3月 RSウイルス全国調査の結果 更新版 ＜抗体製剤に関連するF蛋白質変異の解析＞&nbsp;&nbsp;med.niigata-u.ac.jp",
-      "sources": [
-        {
-          "name": "med.niigata-u.ac.jp",
-          "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNeDhMdVJ0V0xBTTEzQzJqVEt3dUNIN1RNZ3Vsc3M4c2l4Q1E5VnZObl9fT0JON2VMaDI1UmhYeUI2cHp6YnlBWEdKUUVVMWNmcHlLdnY3Qm5QTVVoTGxwd1JoVlduVDdrNmlJaWk5QUtDbWNSZDZ6N1FadFNfMmdYNkNIVjBQYkQ4cmtDNk95UWxxdVlOeG1CdXhOaVlNM0JaZF9vdGYxWWJTU1pjanNpZ0xyN2JtczRjWVFZT2RzQXdKNDJCZlpZdGF4TUtCWE9GdjF1bkdTMnlZTWFyeGZMdjBqUE92bmRhSFR1Y2RQV09sb3ltZGVETVBCN0M5cWU1RkxFNXRoUlV1NG1iYXBLbXJRc0M3OW5tbVFRMVhkODlvem1iSjREUWQzd3RQMlB4MVNtaVA5bDFrYnNKTnNQS1p1UjZLUnBBQ0pEamZPUHFBTUZDTjhSamZlN08?oc=5"
         }
       ],
       "matched_keywords": []
@@ -3067,32 +2727,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/6e9da56b0de2030d9465127ea65d94911f33c3aa?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "8c05fdb7453e",
-      "title": "理研が次世代メモリー技術…反強磁性体、光で書き換え(ニュースイッチ)",
-      "published": "2026-05-26T06:10:02+00:00",
-      "summary": "理化学研究所の豊田新悟研究員と小川直毅グループディレクター、十倉好紀グループディレクターらは、光で反強磁性体の情報を書き換えることに成功した。光を照射する方向によってスピンの向きが反転する。読み出しも",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/67fd85effcf72087532c6b61641a0176d1e5dff9?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "5731a9a2a0a1",
-      "title": "「ネコひねり」のカギは背骨にあり 胸椎のねじれやすさが奏功 山口大(Science Portal)",
-      "published": "2026-05-26T05:13:00+00:00",
-      "summary": "高い所から落ちたネコが空中で体勢を立て直して足から着地する「ネコひねり」のカギが背骨にあることを、山口大学の研究グループが明らかにした。ネコの胸椎は腰椎に比べて非常にねじれやすく、先に上半身を反転さ",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/27de4a0c9da49fd62f30f241ce37042e127353c8?source=rss"
         }
       ],
       "matched_keywords": []
