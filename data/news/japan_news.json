@@ -1,31 +1,67 @@
 {
   "source": "japan_news",
-  "fetched_at": "2026-05-31T08:34:02.750657+00:00",
-  "total_fetched": 111,
-  "unique_count": 111,
-  "health_related_count": 41,
+  "fetched_at": "2026-05-31T13:14:27.253732+00:00",
+  "total_fetched": 112,
+  "unique_count": 112,
+  "health_related_count": 38,
   "news": [
     {
-      "id": "80d257a93056",
-      "title": "腎臓の膜に穴が空き透析が必要になる…米国20年研究でわかった「過去の高血糖がもたらす意外なツケ」(プレジデントオンライン)",
-      "published": "2026-05-31T08:15:39+00:00",
-      "summary": "血糖値が高い人は何に気をつけるといいか。医師の牧田善二さんは「血糖値が高いこと自体では、患者さんは苦しまず、糖尿病の治療はさほど難しいものではない。しかし、どんなに血糖値をコントロールしていても、『過",
+      "id": "4341ea20d18d",
+      "title": "【男性に聞いた】「買ってきてほしい愛媛県のお土産」ランキング！　2位は「坊っちゃん団子（菓匠 うつぼ屋）」、1位は？(ねとらぼ)",
+      "published": "2026-05-31T13:10:00+00:00",
+      "summary": "温暖な気候と豊かな自然に恵まれ、柑橘類の生産地としても知られる愛媛県。柑橘の風味をいかしたスイーツや和菓子をはじめ、お土産として高い人気を誇る商品も少なくありません。 そこで、ねとらぼでは、アン",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/fd141e8cec8bdee097a16690515260b84a6e5604?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/e247b585aa46fb40fea134a8543a670af2c15b26?source=rss"
         }
       ]
     },
     {
-      "id": "183dd0d4e0c7",
-      "title": "「患者さんの9割以上が女性」「うち50代以上が9割」なぜ更年期以降の女性がドライマウスに苦しむ？　専門医が解説するメカニズム「ホルモン変動が影響」(文春オンライン)",
-      "published": "2026-05-31T08:12:17+00:00",
-      "summary": "歯科疾患は男女共通――そう思われがちだが、じつは症状の現れ方には性差がある。唾液が減少し口腔内が乾く“ドライマウス”はその最たるものだ。圧倒的に女性に多い理由、セルフケアで症状を緩和させる方法を学ぼ",
+      "id": "4a3f004f2a19",
+      "title": "上白石萌音さん「“3年日記”にしたら急に書けるようになって」体も心も\"\"溜めない”が健康の秘訣(MAQUIA)",
+      "published": "2026-05-31T13:00:54+00:00",
+      "summary": "愛くるしい瞳。柔らかな笑顔。透き通る声。存在そのものが放つ透明感に心奪われる、上白石萌音さん。彼女が考える美しさについて尋ねると、「臆病なひと」という意外な回答が。本質を大切にする上白石さんの美学に迫",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/512e0410045d1f001dfd64cf9b94a0c2619a7f16?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/f8f151ac3cf09bc40ab9f84ed3b7f32f82196bcb?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "a5d9077fe016",
+      "title": "視力低下や目の違和感には「光明」のツボ押しを。乳房の腫れや痛みも和らげます(家庭画報.com)",
+      "published": "2026-05-31T12:20:02+00:00",
+      "summary": "中医学のエキスパートである鍼灸師の兵頭 明先生が、ツボの効能や位置、効くメカニズムを解説します。健康の土台作りに、不調改善に、1日1分のツボ押しを習慣にしましょう。",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/a04a53c1c491d1f4e26003d4393f93d85cb02325?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "3fa0fdd8c8d2",
+      "title": "「キレイな人は夜が8割」続けて差がつく美容通たちの習慣(GISELe)",
+      "published": "2026-05-31T12:17:00+00:00",
+      "summary": "夜は成長ホルモンが分泌され、肌を生まれ変わらせる大切な時間。ファッション・美容業界で忙しく働くデザイナーやPR、美容師など、彼女たちが選りすぐったものは、その効果も証明された美容成分が含まれているもの",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/365ef910099eed2bbaedb43b41721eaa6bdd7fd2?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "33835de39bf6",
+      "title": "【モンベルの新作日傘】アウトドアブランドの人気日傘が2026年も登場(MAQUIA)",
+      "published": "2026-05-31T12:01:55+00:00",
+      "summary": "アウトドアブランドのモンベルから、昨年大人気だった日傘の新商品が登場。日差しを反射するシルバーカラーコーティングで、効果的に日焼けを防ぎます。",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/6457f08fb79f5a9dc77f592f0783096e2fa1cc95?source=rss"
         }
       ]
     },
@@ -42,62 +78,14 @@
       ]
     },
     {
-      "id": "d63bdd67e4ba",
-      "title": "なんだか体調不良…これは更年期？ 5月病？ 今日からできるセルフケア(サライ.jp)",
-      "published": "2026-05-31T08:00:03+00:00",
-      "summary": "慌ただしい4月が過ぎ、「最近やる気が出ない」「なんとなく不調が続いている」と感じていませんか？ 更年期になると5月病に似た症状が起きやすく、更年期の影響なのか5月病なのかわからないという方もいるでしょ",
+      "id": "e1ac76517bc9",
+      "title": "【ドクターハッシー/内科医 橋本将吉の健康コンパス】 第7回「5月病ってなに？正体を知ってケア方法を知ろう」 - ranrun.jp",
+      "published": "2026-05-31T07:13:00+00:00",
+      "summary": "【ドクターハッシー/内科医 橋本将吉の健康コンパス】 第7回「5月病ってなに？正体を知ってケア方法を知ろう」&nbsp;&nbsp;ranrun.jp",
       "sources": [
         {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/d789e0456817eb39ca29646b028d707db25c4f38?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "7a42faf40805",
-      "title": "「何か怒ってます？」眉間のシワをボトックスとヒアルロン酸で治療してみたら(GOETHE)",
-      "published": "2026-05-31T07:30:09+00:00",
-      "summary": "男性美容研究家・藤村岳は、表情の悩みを美容治療で解決できるのか。その結果はいかに。",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/588efac6f4afdfea909006f83c31ee0d36fe99c4?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "e8390818b084",
-      "title": "せいろで2品完成、藤井恵さん流・至福の「厚揚げ」献立。落とし卵と香味野菜で減塩＆ごちそうレシピ(ESSE-online)",
-      "published": "2026-05-31T07:00:37+00:00",
-      "summary": "家族の血圧が気になり始めたことから、減塩を意識するようになったという料理研究家で管理栄養士の藤井恵さん。下味に塩を使わず、レモンなどの酸味を生かすなどの工夫を取り入れています。今回は、主菜と副菜を同時",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/786a32ce8b34888a5ba1a40b76f95f5976af696e?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "9377a095ec36",
-      "title": "ピリ辛味がやみつき「豆腐と豚こまの甘辛炒め」レシピ。レンチン技でうま味アップ！(ESSE-online)",
-      "published": "2026-05-31T07:00:37+00:00",
-      "summary": "スーパーで手軽に手に入るのにコスパも最強な食材「豆腐」。冷蔵庫に常備してあるという家庭も多いのでは？ 今回、豆腐と豚こまでつくる「スタミナ甘辛炒め」レシピを、SNSでレシピが人気の料理研究家・まるみキ",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/dc1d0594f4848dc34d03c54bbdf9add6063931ec?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "c6fe9f94b233",
-      "title": "“買ったついでに”少しだけ。料理研究家・近藤幸子さんの日々を助ける軽やかな5つの仕込みワザ(クロワッサンオンライン)",
-      "published": "2026-05-31T07:00:09+00:00",
-      "summary": "習慣にすれば明日からの食事作りがもっとラクに。買い物の流れでパパッとできる簡単な5つの仕込みワザを、料理研究家の近藤幸子さんに教えてもらいました。",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/7d1aae6bdea7eb4ccc306c09f5dae57e0cc17c0c?source=rss"
+          "name": "ranrun.jp",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5YRzlZTi1TM0FOUjJzSlI0TmNyaW96SWxzSkxzOEZ3V2FVZjdmdGU3ZTdVc0U2T2lpYkxWQ2RnbTdLY0VMWVh3dHZrZXhpYmp5UjFFMkRteXRRckxoSHF6S3owV2JuM29GTllpSkRVclh3ZEE1?oc=5"
         }
       ]
     },
@@ -110,18 +98,6 @@
         {
           "name": "クーリエ・ジャポン",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0bFJONWdIZjBCNTNSTHhoVGVJdGtpaHhfdmFTbjV6QjlNUUw4TzJPeWs4cHVCTFo1eUhONnRXVEFiM0xzSGQwdklUaURPWHB6YWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e00f16723756",
-      "title": "オランダ、クルーズ船の再航行許可＝ハンタウイルス感染、消毒完了 - 時事メディカル",
-      "published": "2026-05-31T05:17:00+00:00",
-      "summary": "オランダ、クルーズ船の再航行許可＝ハンタウイルス感染、消毒完了&nbsp;&nbsp;時事メディカル画像・写真：オランダ、クルーズ船の再航行許可：時事ドットコム&nbsp;&nbsp;時事ドットコム今回問題のタイプ、高熱や呼吸困難も ハンタウイルスとは？専門家に聞く&nbsp;&nbsp;朝日新聞アルゼンチン 捕獲されたネズミ類がハンタウイルス感染の証拠が未確認&nbsp;&nbsp;AFPBB Newsハンタウイルス発生のクルーズ船、下船のスペイン人が陽性&nbsp;&nbsp;CNN",
-      "sources": [
-        {
-          "name": "時事メディカル",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1iV3BGam5QZF9fMDVxb1djeFV0b1BpNUp5SnpQSWtfWWhZc1RjQjJFYnphU2VIdlhSM3JFYlFhWTRjVVZPT2dEU2Z2aw?oc=5"
         }
       ]
     },
@@ -150,6 +126,30 @@
       ]
     },
     {
+      "id": "ea9890725d7f",
+      "title": "今回問題のタイプ、高熱や呼吸困難も ハンタウイルスとは？専門家に聞く - 朝日新聞",
+      "published": "2026-05-30T20:00:00+00:00",
+      "summary": "今回問題のタイプ、高熱や呼吸困難も ハンタウイルスとは？専門家に聞く&nbsp;&nbsp;朝日新聞オランダ、クルーズ船の再航行許可 ハンタウイルス感染、消毒完了&nbsp;&nbsp;時事ドットコムアルゼンチン 捕獲されたネズミ類がハンタウイルス感染の証拠が未確認&nbsp;&nbsp;AFPBB Newsハンタウイルス発生のクルーズ船、下船のスペイン人が陽性&nbsp;&nbsp;CNNハンタウイルスとは、症状から感染経路まで知っておくべきこと&nbsp;&nbsp;日本経済新聞",
+      "sources": [
+        {
+          "name": "朝日新聞",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5MZE94aHExNkJuNnhYZE1QVW9kWTUtOU5SR1A0dDEzdjJCekZNbVg0TFRCVTFiSl8zMExXbFlQWjQycXEwSTlSLWVRRjI4MkRwbmcwZGFObEw3NzlY?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d42e8904bda9",
+      "title": "【解説】流行中「謎の風邪」その正体は「アレルギー」や「軽い喘息」か 感染症専門家「感染症の恐れもあるが心配しすぎないで」 - ktv.jp",
+      "published": "2026-05-30T04:11:52+00:00",
+      "summary": "【解説】流行中「謎の風邪」その正体は「アレルギー」や「軽い喘息」か 感染症専門家「感染症の恐れもあるが心配しすぎないで」&nbsp;&nbsp;ktv.jp「謎の風邪」県内でも流行？ ＳＮＳで話題 喉の痛みや鼻水、熱はなく ヒトメタニューモが関係か 医師「適切な受診を」｜四国新聞WEB朝刊&nbsp;&nbsp;四国新聞咳や鼻水が長引く“謎の風邪”が流行？街の人や医師に話を聞いてみた 高松市（KSB瀬戸内海放送）&nbsp;&nbsp;Yahoo!ニュース謎風邪とは？ 感染症の専門家に聞く&nbsp;&nbsp;khb東日本放送【専門家解説】「せきが止まらない、長引く」“謎の風邪”の正体！？ヒトメタニューモウイルスとは？&nbsp;&nbsp;FNNプライムオンライン",
+      "sources": [
+        {
+          "name": "ktv.jp",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBIdElseWJMSXlKeEE5MHN3X1dCTG02STJ0a1l3YXpMd3lNQ0RpWUROMXJ6WTlGMzVmQjRlTFJaNEtDWC1Td0NSZnkzZGJQZnZMRVNnRA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "a2d80345a1ee",
       "title": "ブルーオリジンのニューグレンロケット、地上試験中に爆発(CNN.co.jp)",
       "published": "2026-05-30T01:36:00+00:00",
@@ -162,14 +162,14 @@
       ]
     },
     {
-      "id": "1ac6b705e674",
-      "title": "認知症予防には「1日何歩」が効く？ ハーバード大の最新研究が示す「7年遅らせる」ための最適ウォーキング術（文春オンライン） - ｄメニューニュース",
-      "published": "2026-05-29T21:00:00+00:00",
-      "summary": "認知症予防には「1日何歩」が効く？ ハーバード大の最新研究が示す「7年遅らせる」ための最適ウォーキング術（文春オンライン）&nbsp;&nbsp;ｄメニューニュースGoogle ニュースで見出しと意見をもっと見る",
+      "id": "c20f194d1c1d",
+      "title": "ウォーキング、1日何歩で効果ある？実は歩数を増やす前に大事なこと - スポーツブル",
+      "published": "2026-05-29T21:00:12+00:00",
+      "summary": "ウォーキング、1日何歩で効果ある？実は歩数を増やす前に大事なこと&nbsp;&nbsp;スポーツブル認知症予防には「1日何歩」が効く？ ハーバード大の最新研究が示す「7年遅らせる」ための最適ウォーキング術（文春オンライン）&nbsp;&nbsp;Yahoo!ニュース[写真](3ページ目)認知症予防には「1日何歩」が効く？ ハーバード大の最新研究が示す「7年遅らせる」ための最適ウォーキング術&nbsp;&nbsp;文春オンライン認知症予防には「1日何歩」歩くといいのか 最新の調査結果を紹介 (2026年5月30日掲載)&nbsp;&nbsp;ライブドアニュースアルツハイマー病予防に有効な運動量はどのくらい？ 最新研究が示した、誰もがもっとも効率よく鍛えられる“スーパー筋肉”の正体（集英社オンライン）&nbsp;&nbsp;Yahoo!ニュース",
       "sources": [
         {
-          "name": "ｄメニューニュース",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50ZEItUXlwUEVDcFN5WWZVSzZPemRXS2NTT1QtUmdoaURUcms1SVVsVjRmd09wMzAwRHFoRUc0bkFyeEJQbmpITXhHVmZxcEg2VFlEaWpfdkdZSUh3bEUyS3R0WFNESzU0cmttWVpKSVhkbmFtRUE?oc=5"
+          "name": "スポーツブル",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5oVUR0ZnEwdkk5M29KMjBSQjREdW1qRHkyUmdnVzFVb2t3a0E0TGpSTEdwQmpEQzBvNUJxNVVDeDRoaEFzOEpz?oc=5"
         }
       ]
     },
@@ -194,18 +194,6 @@
         {
           "name": "日本経済新聞",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9VRDZQb1k5U3RoZi1rajJPMmdGVmpkbnZQbEpsWXpCVDVKRVB5akp5LXQ4QmtablIwN1NlaHRKSS1RbTVuY3BBdi1VR2d6Vzl6bXVDeXNkcEw4TDVucko0NF83a0V1a1dkbHNmTA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c12328e9bc9e",
-      "title": "DEATHDOL NOTE磨童まさをがヒトメタニューモウイルス感染を報告 “謎の風邪”の正体に不安の声 - coki.jp",
-      "published": "2026-05-29T11:59:39+00:00",
-      "summary": "DEATHDOL NOTE磨童まさをがヒトメタニューモウイルス感染を報告 “謎の風邪”の正体に不安の声&nbsp;&nbsp;coki.jp「謎の風邪」県内でも流行？ ＳＮＳで話題 喉の痛みや鼻水、熱はなく ヒトメタニューモが関係か 医師「適切な受診を」｜四国新聞WEB朝刊&nbsp;&nbsp;四国新聞咳や鼻水が長引く“謎の風邪”が流行？街の人や医師に話を聞いてみた 高松市（KSB瀬戸内海放送）&nbsp;&nbsp;Yahoo!ニュース謎風邪とは？ 感染症の専門家に聞く&nbsp;&nbsp;khb東日本放送【専門家解説】「せきが止まらない、長引く」“謎の風邪”の正体！？ヒトメタニューモウイルスとは？&nbsp;&nbsp;FNNプライムオンライン",
-      "sources": [
-        {
-          "name": "coki.jp",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE15N0wxbGhlYm5pbDdYNWl2ME5sX2sydnRKZ0tpeXNNZEhES250d1lQeEcwbVhQNVVWWWU2YnlDb0NFWFpVbWk0MkM0SllMQQ?oc=5"
         }
       ]
     },
@@ -470,30 +458,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/a53e875a02217a08f1b348f80b156cd302c4df9c?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "14e33125b071",
-      "title": "「果物は健康のために積極的に摂取するほどの食材ではない」と医師が断言する理由…「糖と脂質」が脳に与える意外な影響(集英社オンライン)",
-      "published": "2026-05-27T02:00:32+00:00",
-      "summary": "「果物は体にいい」「ナッツは健康食だから安心」――そんなイメージを持っている人は多いだろう。しかし、 “ヘルシー”と思われている食品の食べすぎが、血糖値や健康状態に影響を及ぼすケースも少なくないという",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/58d4a688e24a8352117ccd7a1793ca44aef7a063?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "5d7b314d8915",
-      "title": "レアアース含む海底資源「マンガン鉱床」について議論　千葉で「地球惑星科学」の国際学会(産経新聞)",
-      "published": "2026-05-26T22:00:00+00:00",
-      "summary": "地球や惑星を研究対象とする学会の連合組織「日本地球惑星科学連合（JpGU）」と「アメリカ地球物理学連合（AGU）」が共同で開催する国際学会「JpGU-AGU Joint Meeting 2026」が、",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/88c237ca173478ad43a36992bb3cebe740fb88ae?source=rss"
         }
       ]
     }

@@ -1,63 +1,7 @@
 {
-  "generated": "2026-05-31T08:34:03.044126+00:00",
-  "count": 13,
+  "generated": "2026-05-31T13:14:27.531095+00:00",
+  "count": 11,
   "news": [
-    {
-      "id": "183dd0d4e0c7",
-      "title": "「患者さんの9割以上が女性」「うち50代以上が9割」なぜ更年期以降の女性がドライマウスに苦しむ？　専門医が解説するメカニズム「ホルモン変動が影響」(文春オンライン)",
-      "published": "2026-05-31T08:12:17+00:00",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/512e0410045d1f001dfd64cf9b94a0c2619a7f16?source=rss"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "更年期",
-          "related_drugs": [
-            {
-              "slug": "clotrimazole",
-              "name": "エンペシドクリーム１％（選）"
-            },
-            {
-              "slug": "metronidazole",
-              "name": "メトロニダゾールゲル０．７５％「マルイシ」"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "d63bdd67e4ba",
-      "title": "なんだか体調不良…これは更年期？ 5月病？ 今日からできるセルフケア(サライ.jp)",
-      "published": "2026-05-31T08:00:03+00:00",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/d789e0456817eb39ca29646b028d707db25c4f38?source=rss"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "更年期",
-          "related_drugs": [
-            {
-              "slug": "clotrimazole",
-              "name": "エンペシドクリーム１％（選）"
-            },
-            {
-              "slug": "metronidazole",
-              "name": "メトロニダゾールゲル０．７５％「マルイシ」"
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "ee9ea9f2b6dd",
       "title": "煙なし臭いなしの「オーラルたばこ」見えない死角 若者のニコチン依存と口腔がんの懸念",
@@ -347,13 +291,84 @@
       ]
     },
     {
-      "id": "1ac6b705e674",
-      "title": "認知症予防には「1日何歩」が効く？ ハーバード大の最新研究が示す「7年遅らせる」ための最適ウォーキング術（文春オンライン）",
-      "published": "2026-05-29T21:00:00+00:00",
+      "id": "d42e8904bda9",
+      "title": "【解説】流行中「謎の風邪」その正体は「アレルギー」や「軽い喘息」か 感染症専門家「感染症の恐れもあるが心配しすぎないで」",
+      "published": "2026-05-30T04:11:52+00:00",
       "sources": [
         {
-          "name": "ｄメニューニュース",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50ZEItUXlwUEVDcFN5WWZVSzZPemRXS2NTT1QtUmdoaURUcms1SVVsVjRmd09wMzAwRHFoRUc0bkFyeEJQbmpITXhHVmZxcEg2VFlEaWpfdkdZSUh3bEUyS3R0WFNESzU0cmttWVpKSVhkbmFtRUE?oc=5"
+          "name": "ktv.jp",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBIdElseWJMSXlKeEE5MHN3X1dCTG02STJ0a1l3YXpMd3lNQ0RpWUROMXJ6WTlGMzVmQjRlTFJaNEtDWC1Td0NSZnkzZGJQZnZMRVNnRA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "asthma",
+          "keyword": "喘息",
+          "related_drugs": [
+            {
+              "slug": "theophylline",
+              "name": "ユニコン錠１００　１００ｍｇ（選）"
+            },
+            {
+              "slug": "budesonide",
+              "name": "シムビコートタービュヘイラー６０吸入（選）"
+            },
+            {
+              "slug": "montelukast",
+              "name": "シングレアＯＤ錠１０ｍｇ（選）"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "風邪",
+          "related_drugs": [
+            {
+              "slug": "theophylline",
+              "name": "ユニコン錠１００　１００ｍｇ（選）"
+            },
+            {
+              "slug": "cetirizine",
+              "name": "ザイザルシロップ０．０５％（選）"
+            },
+            {
+              "slug": "morphine",
+              "name": "モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」"
+            },
+            {
+              "slug": "loratadine",
+              "name": "クラリチン錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "chlorpheniramine",
+              "name": "セレスタミン配合錠（選）"
+            },
+            {
+              "slug": "dextromethorphan",
+              "name": "デキストロメトルファン臭化水素酸塩細粒１０％「ツルハラ」"
+            },
+            {
+              "slug": "acetaminophen",
+              "name": "トラムセット配合錠（選）"
+            },
+            {
+              "slug": "codeine",
+              "name": "ムコブロチン配合シロップ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "c20f194d1c1d",
+      "title": "ウォーキング、1日何歩で効果ある？実は歩数を増やす前に大事なこと",
+      "published": "2026-05-29T21:00:12+00:00",
+      "sources": [
+        {
+          "name": "スポーツブル",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5oVUR0ZnEwdkk5M29KMjBSQjREdW1qRHkyUmdnVzFVb2t3a0E0TGpSTEdwQmpEQzBvNUJxNVVDeDRoaEFzOEpz?oc=5"
         }
       ],
       "keywords": [
@@ -409,58 +424,6 @@
             {
               "slug": "metformin",
               "name": "メホビル配合錠ＨＤ「トーワ」"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "c12328e9bc9e",
-      "title": "DEATHDOL NOTE磨童まさをがヒトメタニューモウイルス感染を報告 “謎の風邪”の正体に不安の声",
-      "published": "2026-05-29T11:59:39+00:00",
-      "sources": [
-        {
-          "name": "coki.jp",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE15N0wxbGhlYm5pbDdYNWl2ME5sX2sydnRKZ0tpeXNNZEhES250d1lQeEcwbVhQNVVWWWU2YnlDb0NFWFpVbWk0MkM0SllMQQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "風邪",
-          "related_drugs": [
-            {
-              "slug": "theophylline",
-              "name": "ユニコン錠１００　１００ｍｇ（選）"
-            },
-            {
-              "slug": "cetirizine",
-              "name": "ザイザルシロップ０．０５％（選）"
-            },
-            {
-              "slug": "morphine",
-              "name": "モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」"
-            },
-            {
-              "slug": "loratadine",
-              "name": "クラリチン錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "chlorpheniramine",
-              "name": "セレスタミン配合錠（選）"
-            },
-            {
-              "slug": "dextromethorphan",
-              "name": "デキストロメトルファン臭化水素酸塩細粒１０％「ツルハラ」"
-            },
-            {
-              "slug": "acetaminophen",
-              "name": "トラムセット配合錠（選）"
-            },
-            {
-              "slug": "codeine",
-              "name": "ムコブロチン配合シロップ"
             }
           ]
         }
