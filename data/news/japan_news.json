@@ -1,31 +1,127 @@
 {
   "source": "japan_news",
-  "fetched_at": "2026-06-04T09:42:37.718977+00:00",
+  "fetched_at": "2026-06-04T14:34:50.025326+00:00",
   "total_fetched": 140,
   "unique_count": 140,
-  "health_related_count": 52,
+  "health_related_count": 56,
   "news": [
     {
-      "id": "66269a1502b8",
-      "title": "オリヤンよりアツい！？韓国薬局でしか買えないおすすめリップアイテム3選。現地の薬剤師が解説(VOCE)",
-      "published": "2026-06-04T09:04:43+00:00",
-      "summary": "今、韓国の薬局が注目を集めています。薬だけでなく、スキンケアも大人気！ 、美のプロたちも夢中！現地の薬剤師が本気で推すスキンケアを厳選。今回はリップ編です。",
+      "id": "73db826578f1",
+      "title": "「専業主婦は暇」世間の冷たい声に悩む2児の母→激務を理解するエリート夫の“予想外の神対応”【作者に聞く】(ウォーカープラス)",
+      "published": "2026-06-04T13:56:28+00:00",
+      "summary": "家事や育児など、家族の身の回りの世話をする労働は対価が支払われないため、「無償労働」と呼ばれる。しかし、実際に担う人たちからは「不眠不休で働いている」「時給計算以上に大変」という声が絶えない。専業主婦",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/881fd3e6a394519422a15ef85560c0f47c87a5d4?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/371510863631e2f9de93cc527e557779c9be26bf?source=rss"
         }
       ]
     },
     {
-      "id": "1cf358d372d5",
-      "title": "【ワークマン】1,280円でこの履き心地は凄い！「疲れない」トレンドの厚底サンダルをマニアがガチ検証(MonoMax Web)",
-      "published": "2026-06-04T09:03:47+00:00",
-      "summary": "現場作業用ウェアの開発で培った確かな技術を生かし、今や日常使いできる高機能アイテムの宝庫となっている「ワークマン」。数ある名品のなかでも、夏の最強コスパアイテムとして話題沸騰中なのが「シックソールサン",
+      "id": "96d3622e0ac6",
+      "title": "キャサリン皇太子妃、初披露の「赤のハート柄ドレス」でがん研究団体のレセプションへ(25ans（ヴァンサンカン）)",
+      "published": "2026-06-04T13:10:37+00:00",
+      "summary": "イギリスのがん研究支援団体、「キャンサー・リサーチ・ユーケー（Cancer Research UK）」の創立125周年を記念するレセプションがロンドンのセント・ジェームズ宮殿で開催され、キャサリン皇太",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/3eb3e987f92aced2aec9f531864c6d0dd4db088a?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/1df2167b83eac7411a2062ba0617dd96df65e0c8?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "7c20a0c80833",
+      "title": "50代、朝のだるさが抜けない「夜中に目が覚める」原因と改善策(Web eclat)",
+      "published": "2026-06-04T13:10:09+00:00",
+      "summary": "漢方薬剤師・漢方ライフクリエーターの樫出恒代です。漢方カウンセリングの際にお伝えすることがある、漢方の基本の考え方「氣・血・水」。 漢方の基本の考え方 「氣・血・水」は身体の中をめぐる3つの要素のこ",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/7e36b594f40e1d06551022b6e177cf9e09e8b45d?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "cc4334041413",
+      "title": "おはら節を踊る人型ロボット、トヨタ車体研究所が開発中　1次産業の人手不足解消にも期待(FNNプライムオンライン)",
+      "published": "2026-06-04T13:00:43+00:00",
+      "summary": "「手先とか足先の動きをいかに繊細に見せるか、ここにもすごく技術が必要」——そう語るのは、霧島市に本社を置くトヨタ車体研究所の平山正志常務だ。同社が開発中のロボットは、鹿児島県民にはおなじみの「おはら節",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/77990ee9ab025901243d3e93729ba8edb8d6eeb2?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "1b1705088671",
+      "title": "美肌の人ほど「ずっと変えない理由がある」最高の化粧水・美容液(GISELe)",
+      "published": "2026-06-04T12:52:00+00:00",
+      "summary": "化粧水も美容液も種類がありすぎて、どれを買おうか悩み、なかなか決められないことも多々。試すきっかけの1つ、コスメ研究に余念のない、美容通たちの信頼できるレビューをもとに「買ってソンなし」なアイテムを選",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/3b6b7f48e4232ca78376f9172e649cd3a7cccb4b?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "d79c5ee86c86",
+      "title": "「キレイな人は夜が8割」続けて差がつく美容通たちの習慣(GISELe)",
+      "published": "2026-06-04T12:34:00+00:00",
+      "summary": "夜は成長ホルモンが分泌され、肌を生まれ変わらせる大切な時間。ファッション・美容業界で忙しく働くデザイナーやPR、美容師など、彼女たちが選りすぐったものは、その効果も証明された美容成分が含まれているもの",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/324a391467a6ca72635afcda4fe994446374e27d?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "e83138081cc2",
+      "title": "尿の出が悪い、残尿感があるなどの排尿トラブルに効く「箕門」。鼠径部の痛みも緩和(家庭画報.com)",
+      "published": "2026-06-04T12:30:22+00:00",
+      "summary": "中医学のエキスパートである鍼灸師の兵頭 明先生が、ツボの効能や位置、効くメカニズムを解説します。健康の土台作りに、不調改善に、1日1分のツボ押しを習慣にしましょう。",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/c8e8752fa2ad8b1148994b7a76e52120d7aa4b10?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "26225bbe6bba",
+      "title": "Googleが「蚊で蚊を減らす」プロジェクト “特殊な雄”6400万匹の放出を米2州で申請 - ITmedia",
+      "published": "2026-06-04T11:45:00+00:00",
+      "summary": "Googleが「蚊で蚊を減らす」プロジェクト “特殊な雄”6400万匹の放出を米2州で申請&nbsp;&nbsp;ITmediaGoogleが「蚊で蚊を減らす」プロジェクト “特殊な雄”6400万匹の放出を米2州で申請（ITmedia NEWS）&nbsp;&nbsp;Yahoo!ニュースGoogle、繁殖不能の蚊6400万匹の放出申請 米国で感染症対策を実験&nbsp;&nbsp;日本経済新聞Googleが「細菌に感染した6400万匹の蚊」をアメリカで放とうとしている理由とは？&nbsp;&nbsp;GIGAZINEGoogle、デング熱撲滅へ3,200万匹の不妊化蚊を放出する「Debug」プロジェクトの米国展開を申請&nbsp;&nbsp;XenoSpectrum",
+      "sources": [
+        {
+          "name": "ITmedia",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mQk5UMGFFSUEyZ2pxbWxGaXJYZGtrNXc5S0doUTRMYmdMcWpleUpfWmwzZ3IyZzdyS1ZwU1lGeU9BaENmSjh2QVFNQXBpSWhndDg1TTlFZUZmRFV3UzdfeVVNc29SOFl1MXctdQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3692fb06fd49",
+      "title": "「出血は痔のせいだ→ じつは『大腸がん』だった」 自己判断の危険性を医師が解説(メディカルドック)",
+      "published": "2026-06-04T10:03:24+00:00",
+      "summary": "痔は多くの人に見られる身近な病気ですが、じつは大腸疾患と症状が重なることが少なくありません。「痔だから大丈夫」と思い込み、放置してしまうと重大な病気の発見が遅れることもあります。痔と大腸疾患の関わりや",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/9ea952fda009532d9d512156350db88458432568?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "7fe30f233453",
+      "title": "「宇宙からドローンを遠隔充電する装置」中国が開発中(ギズモード・ジャパン)",
+      "published": "2026-06-04T10:00:02+00:00",
+      "summary": "スマホの充電も、こうなったらいいのに。 衛星への充電や宇宙船への化学推進剤の補充など、宇宙空間での補給技術をめぐる競争が各国政府や民間企業の間で激しさを増しています。 そんな中、中国の西安電子科技",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/4bd21f28e1554e272c50a3043834f4f345683884?source=rss"
         }
       ]
     },
@@ -38,18 +134,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/376dd47a3cdaad3d5fdc3ba426a25a1a04718025?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "ffae9a53bf9e",
-      "title": "「おはよう日本」元NHK副会長・今井義典さんが死去。心不全の背景となった「拡張型心筋症」の初期症状・末期症状を医師が解説(メディカルドック)",
-      "published": "2026-06-04T08:54:41+00:00",
-      "summary": "元NHK副会長の今井義典さんが、5月28日に拡張型心筋症による心不全で亡くなったと報じられています。81歳でした。今井さんの訃報に接し、拡張型心筋症の初期症状・末期症状などについて、医師の小鷹悠二先生",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/2a63042da21c7d44fff3666380a95343b47fe566?source=rss"
         }
       ]
     },
@@ -273,7 +357,7 @@
       "id": "597eb5a2940e",
       "title": "はしか流行、海外ウイルスが国内で猛威 - nna.jp",
       "published": "2026-06-03T15:00:00+00:00",
-      "summary": "はしか流行、海外ウイルスが国内で猛威&nbsp;&nbsp;nna.jpはしか感染者数 昨年の約3.9倍&nbsp;&nbsp;Yahoo!ニュースインフルエンザの10倍の感染力…都内を中心に「麻疹（はしか）」急増 ワクチン接種率は流行阻止ラインの95％を下回る92.7％ 世代で違う免疫の落とし穴&nbsp;&nbsp;TBS NEWS DIG【はしか記録的流行】海外ウイルス、国内で猛威 「ワクチン２回接種を」 | プライムニュース&nbsp;&nbsp;福井新聞社はしか患者 今年５００人超 全国 過去１０年、最多迫る勢い｜朝刊・夕刊ニュース｜下野新聞デジタル&nbsp;&nbsp;下野新聞社",
+      "summary": "はしか流行、海外ウイルスが国内で猛威&nbsp;&nbsp;nna.jpはしか感染者数 昨年の約3.9倍&nbsp;&nbsp;Yahoo!ニュースインフルエンザの10倍の感染力…都内を中心に「麻疹（はしか）」急増 ワクチン接種率は流行阻止ラインの95％を下回る92.7％ 世代で違う免疫の落とし穴&nbsp;&nbsp;TBS NEWS DIGはしか累計５００人超に 近年最多、２０１９年に迫る勢い 強い感染力、重症化も&nbsp;&nbsp;福島民報デジタル海外ウイルス、国内猛威 はしか累計５００人超 「ワクチン２回接種を」｜四国新聞WEB朝刊&nbsp;&nbsp;四国新聞",
       "sources": [
         {
           "name": "nna.jp",
@@ -290,18 +374,6 @@
         {
           "name": "m3.com",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFByelBTOTJDQmVaZ0VIbGN5QUpTaTVSZ041d0F1SDlLZzFvVzV6R1J6eV9DXzhzdUFXTUY2NS1sRnp3ZU1JM2ZaVi1qX3lxeVN3b1E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b7ad63f7a306",
-      "title": "Google、繁殖不能の蚊6400万匹の放出申請 米国で感染症対策を実験 - 日本経済新聞",
-      "published": "2026-06-03T14:29:35+00:00",
-      "summary": "Google、繁殖不能の蚊6400万匹の放出申請 米国で感染症対策を実験&nbsp;&nbsp;日本経済新聞Googleが「細菌に感染した6400万匹の蚊」をアメリカで放とうとしている理由とは？&nbsp;&nbsp;GIGAZINEGoogle、デング熱撲滅へ3,200万匹の不妊化蚊を放出する「Debug」プロジェクトの米国展開を申請&nbsp;&nbsp;XenoSpectrum",
-      "sources": [
-        {
-          "name": "日本経済新聞",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53UHhCbWRQUDB1RkxQMGh4ME1ucF9ZdEJhUC1NYmdVa3VDeExlNEktdlJWZS1EV054QWFfZHVZeXpYTFp3QzVWcWM0ZHpRVXc2TER6T1ZtQkNFUXNpWW9PbEdsUUtVV3MxWmZ3Uw?oc=5"
         }
       ]
     },
@@ -602,30 +674,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/b7dd83cd54805934934abceb31a6b533fca1f402?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "cd8a57a05f36",
-      "title": "希少金属の含有量減…産総研が開発、標準溶融で高硬度ガラス(ニュースイッチ)",
-      "published": "2026-06-01T06:10:20+00:00",
-      "summary": "産業技術総合研究所の正井博和研究グループ長は、標準的な溶融法で硬いアルミノホウ酸塩ガラスを作ることに成功した。変形しにくさを表すヤング率は137ギガパスカル（ギガは10億）。希少金属を混合する高弾性ガ",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/13f358c76029ee14c1a7053334541e776d309b6d?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "be43f2de1e6d",
-      "title": "保険算定で変わるパーキンソン病のDBS遠隔プログラミングとiPS治療の可能性(メディカルドック)",
-      "published": "2026-06-01T03:02:04+00:00",
-      "summary": "ふるえや転びやすくなるなど運動障害を主な症状とするパーキンソン病は、65歳以上の100人に1人が罹患する指定難病です。パーキンソン病の治療法の一つ「脳深部刺激療法（DBS：deep brain sti",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/6a0423363e6e5165fb57f7d52a7cfc8ff9668450?source=rss"
         }
       ]
     }
