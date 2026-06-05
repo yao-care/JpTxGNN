@@ -1,43 +1,163 @@
 {
   "source": "japan_news",
-  "fetched_at": "2026-06-04T19:53:41.326648+00:00",
-  "total_fetched": 140,
-  "unique_count": 140,
-  "health_related_count": 55,
+  "fetched_at": "2026-06-05T02:30:39.647905+00:00",
+  "total_fetched": 136,
+  "unique_count": 136,
+  "health_related_count": 52,
   "news": [
     {
-      "id": "73db826578f1",
-      "title": "「専業主婦は暇」世間の冷たい声に悩む2児の母→激務を理解するエリート夫の“予想外の神対応”【作者に聞く】(ウォーカープラス)",
-      "published": "2026-06-04T13:56:28+00:00",
-      "summary": "家事や育児など、家族の身の回りの世話をする労働は対価が支払われないため、「無償労働」と呼ばれる。しかし、実際に担う人たちからは「不眠不休で働いている」「時給計算以上に大変」という声が絶えない。専業主婦",
+      "id": "a16658a5dbc4",
+      "title": "日本人には逆効果な場合も？「糖質制限」「グルテンフリー」が合わない　医師が解説する体質と健康の新常識(介護ポストセブン)",
+      "published": "2026-06-05T02:15:00+00:00",
+      "summary": "近年、健康志向の高まりを受けて、世界各国の最新健康法が日本にどんどん流入した。しかし、海外の人々に効果があっても、そのまま日本人に当てはまるわけではなく、なかには“逆効果”になるものもあるという。見",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/371510863631e2f9de93cc527e557779c9be26bf?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/b972c141dcfbb22a623ff7033c7e5fb914d71e9d?source=rss"
         }
       ]
     },
     {
-      "id": "96d3622e0ac6",
-      "title": "キャサリン皇太子妃、初披露の「赤のハート柄ドレス」でがん研究団体のレセプションへ(25ans（ヴァンサンカン）)",
-      "published": "2026-06-04T13:10:37+00:00",
-      "summary": "イギリスのがん研究支援団体、「キャンサー・リサーチ・ユーケー（Cancer Research UK）」の創立125周年を記念するレセプションがロンドンのセント・ジェームズ宮殿で開催され、キャサリン皇太",
+      "id": "c770685cf80b",
+      "title": "【ハワイを再発見】「『ジュラシック・パーク』のロケ地」だけじゃない！クアロア ランチの“知る人ぞ知る”絶景プライベートビーチへ(CREA WEB)",
+      "published": "2026-06-05T02:10:39+00:00",
+      "summary": "CREA2026年夏号の「やっぱり、ハワイ！」特集が、現在好評発売中！ CREA WEBではその一部を抜粋してご紹介します。",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/1df2167b83eac7411a2062ba0617dd96df65e0c8?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/a623c3b0535d16789f539160cc24860ca9bb96d7?source=rss"
         }
       ]
     },
     {
-      "id": "7c20a0c80833",
-      "title": "50代、朝のだるさが抜けない「夜中に目が覚める」原因と改善策(Web eclat)",
-      "published": "2026-06-04T13:10:09+00:00",
-      "summary": "漢方薬剤師・漢方ライフクリエーターの樫出恒代です。漢方カウンセリングの際にお伝えすることがある、漢方の基本の考え方「氣・血・水」。 漢方の基本の考え方 「氣・血・水」は身体の中をめぐる3つの要素のこ",
+      "id": "0b7972fa3107",
+      "title": "食後に眠くなる人は「糖質老化」が進んでる？ 血管の傷みが全身の臓器ダメージへとつながる「メタボリックドミノ」を引き起こす食後のメカニズム(集英社オンライン)",
+      "published": "2026-06-05T02:00:36+00:00",
+      "summary": "食後に眠くなる、だるくなる、食べたのにすぐに小腹が減る――思い当たる人も少なくないだろう。著書『糖質疲労』『脂質起動』が累計24万部を超える糖尿病専門医の山田悟氏は、こうした状態を「糖質疲労」と名づけ",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/7e36b594f40e1d06551022b6e177cf9e09e8b45d?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/9069aa096b5e0a7dd73d774032b1faf72c68203b?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "a02dd49fec1b",
+      "title": "《200を超える症状》更年期との”正しいつきあい方”を医師が解説　手指のこわばりや骨粗しょう症、尿漏れなどの症状も　(女性セブンプラス)",
+      "published": "2026-06-05T02:00:00+00:00",
+      "summary": "かつて、中高年女性の不定愁訴は「気のせい」「老化」「誰もが通る道」などとされ、どんなにつらくてもがまんせざるをえないケースが多かった。しかし、いまは違う。更年期のメカニズムが解明され、薬などで症状をコ",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/cafbe35d5d9895afcaf49a747fc6483984ef1fb6?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "51ff00e32be3",
+      "title": "「比類ない発見」　金属探知機を駆使する英アマチュア、ローマ時代の金の指輪を発掘(CNN.co.jp)",
+      "published": "2026-06-05T01:56:00+00:00",
+      "summary": "（CNN） 英イングランド南西部サマセットの野原で、金属探知機を駆使するアマチュアの愛好家が、ローマ時代にさかのぼる「見事な」金の指輪を発掘した。 発見者は元軍人のトラック運転手、ケビン・ミントさ",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/80e1dd3bd9b639c607cd1e8d8506489c647454fb?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "d3b26e0909c9",
+      "title": "柔軟剤などに反応してしまう「化学物質過敏症」知って　従業員を守るため活動する、京都・里山カフェの思い(京都新聞)",
+      "published": "2026-06-05T01:30:36+00:00",
+      "summary": "柔軟剤の香りが肌に刺さる-。京都府京丹波町坂原にあるカフェ「菓歩菓歩（かぽかぽ）」には、そんな症状と闘っている従業員がいる。働きやすい環境にしようとクラウドファンディング（CF）にも取り組んだ。化学",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/660d64c33f71916810c3d6f159c6303e1a355d8a?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "7b35782e2427",
+      "title": "「喜び」も「悲しみ」も、どんな感情も良いものでも悪いものでもなく、それぞれが果たしている役割がある(東洋経済オンライン) - Yahoo!ファイナンス",
+      "published": "2026-06-05T01:30:00+00:00",
+      "summary": "「喜び」も「悲しみ」も、どんな感情も良いものでも悪いものでもなく、それぞれが果たしている役割がある(東洋経済オンライン)&nbsp;&nbsp;Yahoo!ファイナンス技術革新によって感情の研究が大きく進み､感情の｢シフター（変換装置）｣には多くの種類があることがわかってきた&nbsp;&nbsp;東洋経済オンライン",
+      "sources": [
+        {
+          "name": "Yahoo!ファイナンス",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX2hlLU4yTnE1NW9fWXAtdkJfbVFSckpwMEM4ZEZMRVlrTmZGTlhOakZYekpqWWljd05MaXFIeW5aX2FBeDVObFNWUHhSZEJYUXM5bTlKV1VicUhELXZ6bjh3NldqWjBuUnJYeDE4ZDNrd2taX2R1MU9QMl94MDNVUVNwWVZuZFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e17601cfa804",
+      "title": "銀河の育ち方は初期宇宙の頃から“住む場所”で違う？　約126億年前の原始銀河団の観測結果(sorae 宇宙へのポータルサイト)",
+      "published": "2026-06-05T00:53:38+00:00",
+      "summary": "国立天文台ハワイ観測所の特別客員研究員Ronaldo Laishram氏を中心とする研究チームは、約126億年前の宇宙に存在した大規模な「原始銀河団」の観測結果をもとに、銀河の成長はこの頃すでに銀河が",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/fe5666e5077e6f9bbdc2e23b94c6ee738bde346d?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "5d3a08904120",
+      "title": "本邦初の報告：発症前ステージ分類に基づく1型糖尿病の疫学的実態 PREP-T1D研究 - 糖尿病リソースガイド",
+      "published": "2026-06-05T00:30:22+00:00",
+      "summary": "本邦初の報告：発症前ステージ分類に基づく1型糖尿病の疫学的実態 PREP-T1D研究&nbsp;&nbsp;糖尿病リソースガイド",
+      "sources": [
+        {
+          "name": "糖尿病リソースガイド",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QZG1HZ3p4Zzl4b3FFQVNUcFFFdFdScHBJNGlaV2Q5T0V5TVlDem5xSjRMMzJoUlBrTTh6SDg1YzJsUmtvT2FLeEZfbnR2aS1aUGQzQlJ2ZFN1LVJlenNvNlYtVnlESjl4UERrcmhBWDBpQ0ZfS0VOUg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5827444bcbf4",
+      "title": "卵巣がんと2度の乳がんを経験して考えた、自分らしく生きること - がん情報サイト「オンコロ」",
+      "published": "2026-06-05T00:22:30+00:00",
+      "summary": "卵巣がんと2度の乳がんを経験して考えた、自分らしく生きること&nbsp;&nbsp;がん情報サイト「オンコロ」",
+      "sources": [
+        {
+          "name": "がん情報サイト「オンコロ」",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qSmJFYVUtR3ZvN29wdzgwTHF5b25NVFY0WUxVbXNmNWlvaTNfMWJJYm93eGNUYndBNW5pLU5rT2JBclNCcFJhVDlMdkNLQlVNd2Y0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0d2672713279",
+      "title": "管理栄養士が常備する、ダイエット食を楽しむための4つの食材（海外）(BUSINESS INSIDER JAPAN)",
+      "published": "2026-06-04T22:10:01+00:00",
+      "summary": "健康的な食事は、栄養価が高いだけでなく、おいしくあるべきだ。管理栄養士のソフィー・ガストマンは、食事を楽しむことが健康的な食生活への入り口だと考えている。彼女はピクルス、スパイス、オイルを多用し、料理",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/34cafb6f5d69613ab34cf15bbf270eb708d51bef?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "96b697058fd9",
+      "title": "ヒトiPS細胞活用の“脳が若返る鼻スプレー”、投与された中年マウスの記憶力や認知機能が改善　学術誌で掲載(ITmedia NEWS)",
+      "published": "2026-06-04T22:00:18+00:00",
+      "summary": "米テキサスA&amp;M大学に所属する研究者らがJournal of Extracellular Vesicles誌で発表した論文「Intranasal Human NSC-Derived EVs Ther",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/4a3020815258df768e69ec46fb70bae607549196?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "575af17cf5a6",
+      "title": "認知症「治療可能に」 専門医、新薬や予防語る 茨城・日立 - 茨城新聞クロスアイ",
+      "published": "2026-06-04T21:03:16+00:00",
+      "summary": "認知症「治療可能に」 専門医、新薬や予防語る 茨城・日立&nbsp;&nbsp;茨城新聞クロスアイ認知症の薬は飲むべき？ 専門医が語る「無理に飲ませない」という選択肢（PHPオンライン）&nbsp;&nbsp;Yahoo!ニュース認知症の薬は飲むべき？ 専門医が語る「無理に飲ませない」という選択肢&nbsp;&nbsp;ｄメニューニュース認知症で「特に慎重投与すべき」リストから外れた薬剤、その理由は？&nbsp;&nbsp;日経メディカル",
+      "sources": [
+        {
+          "name": "茨城新聞クロスアイ",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFTks0djZKNllBWkFiTTFMcnZhcXpfdHlTV090Sm1zdndhVEhtSFppNG03TS1QV0pxNWVKa3ZlVVlRTlZaV2M0LXEyaUNXRmdKZEEtRlp2UjNkVjUyUklLeVR0NUNZOHNTQkxsRGw5Q3ZkaEk?oc=5"
         }
       ]
     },
@@ -50,42 +170,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/77990ee9ab025901243d3e93729ba8edb8d6eeb2?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "1b1705088671",
-      "title": "美肌の人ほど「ずっと変えない理由がある」最高の化粧水・美容液(GISELe)",
-      "published": "2026-06-04T12:52:00+00:00",
-      "summary": "化粧水も美容液も種類がありすぎて、どれを買おうか悩み、なかなか決められないことも多々。試すきっかけの1つ、コスメ研究に余念のない、美容通たちの信頼できるレビューをもとに「買ってソンなし」なアイテムを選",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/3b6b7f48e4232ca78376f9172e649cd3a7cccb4b?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "d79c5ee86c86",
-      "title": "「キレイな人は夜が8割」続けて差がつく美容通たちの習慣(GISELe)",
-      "published": "2026-06-04T12:34:00+00:00",
-      "summary": "夜は成長ホルモンが分泌され、肌を生まれ変わらせる大切な時間。ファッション・美容業界で忙しく働くデザイナーやPR、美容師など、彼女たちが選りすぐったものは、その効果も証明された美容成分が含まれているもの",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/324a391467a6ca72635afcda4fe994446374e27d?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "e83138081cc2",
-      "title": "尿の出が悪い、残尿感があるなどの排尿トラブルに効く「箕門」。鼠径部の痛みも緩和(家庭画報.com)",
-      "published": "2026-06-04T12:30:22+00:00",
-      "summary": "中医学のエキスパートである鍼灸師の兵頭 明先生が、ツボの効能や位置、効くメカニズムを解説します。健康の土台作りに、不調改善に、1日1分のツボ押しを習慣にしましょう。",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/c8e8752fa2ad8b1148994b7a76e52120d7aa4b10?source=rss"
         }
       ]
     },
@@ -134,6 +218,18 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/376dd47a3cdaad3d5fdc3ba426a25a1a04718025?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "80c0261a7a2c",
+      "title": "30代男性がはしか陽性 群馬で2026年初の確認 高崎市で受診 - 上毛新聞電子版",
+      "published": "2026-06-04T06:30:00+00:00",
+      "summary": "30代男性がはしか陽性 群馬で2026年初の確認 高崎市で受診&nbsp;&nbsp;上毛新聞電子版高崎３０代男性「はしか」感染 “ベトナムから帰国後に発症”&nbsp;&nbsp;NHKニュースはしか感染者 群馬県内でことし初確認 群馬・高崎市（群馬テレビ）&nbsp;&nbsp;Yahoo!ニュース",
+      "sources": [
+        {
+          "name": "上毛新聞電子版",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KVk4tNE1DUzM4MEdveTR5a3p3TDc1bDlSRVNzc3I0dURiWFptUDc3cGM0M0JYQnMwd21TUWhmbFVKQUFQMmNmUENnNHlxWnU2SHF0VnJFNWk?oc=5"
         }
       ]
     },
@@ -462,114 +558,6 @@
       ]
     },
     {
-      "id": "8bc453fcf0c5",
-      "title": "手術不要、超音波で心臓を整える貼るペースメーカーをMITが開発 - FabScene",
-      "published": "2026-06-03T00:58:17+00:00",
-      "summary": "手術不要、超音波で心臓を整える貼るペースメーカーをMITが開発&nbsp;&nbsp;FabScene",
-      "sources": [
-        {
-          "name": "FabScene",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lamZvVF8zNndGaTl0b3ZrYVY0MEZYWVppSmkybDJsV05QTEoyblRTRkhxc2RjZnAyNnBmbkxySmp0bmpGcHJ5ZEN0SThBWXVNNVNQUzQ1dGFUTGZ3XzRvbzEtaEdvemIzQTk1N3ZHSUR0V1h2YkHSAXtBVV95cUxNbkRzRWc3dnhwd190XzZ1YU5MSDE3b1dXSUtaQno1WjFid19NOTZpb1BEaXd4UkUtb3BzaVFFR09oWDM3cXdfYms2MHBEck1oQlJ0TWowQWxOeWVsUVhDZGN4dXhIcDFlSTZveVk3X3o2OWhaYVNsSDNmTWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "949254435f79",
-      "title": "東アジア人特有の遺伝子変異で脳梗塞再発リスクが5倍に上昇－国循 - QLifePro",
-      "published": "2026-06-03T00:30:00+00:00",
-      "summary": "東アジア人特有の遺伝子変異で脳梗塞再発リスクが5倍に上昇－国循&nbsp;&nbsp;QLifePro",
-      "sources": [
-        {
-          "name": "QLifePro",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9HT1ZDYlpuZDBRdi1xNkJZU0Z6amlPRl9vN1lmVzktMzZIR0U0LWN4dlRURU5RaDhyYjY5NHpuV2dwdFNfMDl2M01oWXh3MFh4RkQtcmdLQUhhYmc0TFB1VnAzai1qcDBpcnA3SjYxTkNmcW5w?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d299906dcd2d",
-      "title": "【RSウイルス】毎年約3万人の乳幼児が入院、元気な赤ちゃんでも注意が必要なケースも 小児科医に聞く「親が知っておきたい備え」〈PR〉 - 東京すくすく（東京新聞）",
-      "published": "2026-06-03T00:04:09+00:00",
-      "summary": "【RSウイルス】毎年約3万人の乳幼児が入院、元気な赤ちゃんでも注意が必要なケースも 小児科医に聞く「親が知っておきたい備え」〈PR〉&nbsp;&nbsp;東京すくすく（東京新聞）2才までにほぼ100％が感染。「RSウイルス感染症」、赤ちゃんを守るために妊娠中からできることって？&nbsp;&nbsp;たまひよ",
-      "sources": [
-        {
-          "name": "東京すくすく（東京新聞）",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE51bV9TeVR2RnZ0OVdXXzc4akFNTU9WT1RKYXVidW5ZenVJaFlwSnNDbV96MzdhLS1kNTJQclZwbEdFX3ZNUjNPM0U3UnZXMXd6ZUkwa08zX18?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a40f6e3e6941",
-      "title": "夜勤などのシフト勤務は脳の体積低下と関連しているという研究結果 - ライブドアニュース",
-      "published": "2026-06-03T00:00:00+00:00",
-      "summary": "夜勤などのシフト勤務は脳の体積低下と関連しているという研究結果&nbsp;&nbsp;ライブドアニュース",
-      "sources": [
-        {
-          "name": "ライブドアニュース",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtVFFSRkl5MXpHM0Uycktod0YxUS03LWdTSXJjRDEwVlMtcUU3bXE2VmpCdU04cjlDdFdhUDU3M3VnaEVQQ0xhYlJzcVdvUUtsb21SOU82ZzRaeHFmaG8w?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7380b01f3f0a",
-      "title": "「動くと悪化」「光や音が煩わしい」頭痛の原因は? 75%が市販薬や我慢で対応も…専門医が見た“片頭痛患者”のシビアな実情 - マイナビニュース",
-      "published": "2026-06-02T21:15:00+00:00",
-      "summary": "「動くと悪化」「光や音が煩わしい」頭痛の原因は? 75%が市販薬や我慢で対応も…専門医が見た“片頭痛患者”のシビアな実情&nbsp;&nbsp;マイナビニュース原因を絞りにくい腰痛や片頭痛 ペインクリニックの専門医に聞く [兵庫県]&nbsp;&nbsp;朝日新聞女性が悩む片頭痛、中道・沼崎満子氏が啓発求める 上野厚労相「大切だ」（カナロコ by 神奈川新聞）&nbsp;&nbsp;Yahoo!ニュース",
-      "sources": [
-        {
-          "name": "マイナビニュース",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aR3FMbV96N285TFBJR2duZnRYRUFZUGY1YmQ2WS1QMkVoc1R3T2dub3QxOXM5al91d3lFTVhfSHJNRDRtZjVXSGhHSjltalZYeXRPY3RJM0w3cVE5?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2cc4ab33d20b",
-      "title": "ＷＨＯにハンタウイルス初動の見直し迫る 「空気感染リスク」を過小評価しないで - 読売新聞",
-      "published": "2026-06-02T20:00:00+00:00",
-      "summary": "ＷＨＯにハンタウイルス初動の見直し迫る 「空気感染リスク」を過小評価しないで&nbsp;&nbsp;読売新聞「致死率が高い」「隔離が必要？」SNSで広がる『ハンタウイルス』の疑問に専門家が回答！（メディカルドック）&nbsp;&nbsp;Yahoo!ニュースハンタウイルス集団感染、その後どうなった? WHO確認から1カ月&nbsp;&nbsp;朝日新聞サンデー毎日：ハンタウイルス感染症で揺らぐ今、コロナ禍の全体主義的社会を考える 対談・國部克彦×新田剛&nbsp;&nbsp;週刊エコノミスト Onlineハンタウイルスは日本で本当に危険？感染経路と予防策を医師が解説のコラムを公開&nbsp;&nbsp;アットプレス",
-      "sources": [
-        {
-          "name": "読売新聞",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5aY0ZDMklrT3NMQm1uVHhIQUxQX2ctSFRlUUZOZE94bTN4OWhlQ2hzemdDLV9iek9sMm9jY2FTSlBZbjQ4d1B1eTJqTF9xOXVDeHNWdU1JZmk4TVhWT0VZR3FrM2U2Q295Rmd2cEp3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "49f428d6a9bb",
-      "title": "生活習慣でリスク減らせる がんもアルツハイマー病も - 日本経済新聞",
-      "published": "2026-06-02T20:00:00+00:00",
-      "summary": "生活習慣でリスク減らせる がんもアルツハイマー病も&nbsp;&nbsp;日本経済新聞",
-      "sources": [
-        {
-          "name": "日本経済新聞",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBRS3lWYTFoNlZIU2FXNS16ZTV0V2Q5eE53Vi1ISHBPMTZSYzJINVJEbEZhUlJRYjQxc2t4cFN6Q1JIS2JvMkZkX1FBQTZzckQzT1plRkNmb3ZBZHBJM2lSdkpzMmZuSkFCd3V5Qg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f4d14b952cfc",
-      "title": "随時更新中：ASCO 2026 Annual Meeting - 日経メディカル",
-      "published": "2026-06-02T19:59:39+00:00",
-      "summary": "随時更新中：ASCO 2026 Annual Meeting&nbsp;&nbsp;日経メディカル進行非扁平上皮非小細胞肺癌の1次治療にbenmelstobart＋化学療法とanlotinib維持療法はチスレリズマブに比べて有意にPFSを延長【ASCO 2026】&nbsp;&nbsp;日経メディカル【ASCO 2026開幕】韓国発抗がん剤、可能性を超え臨床データで勝負へ&nbsp;&nbsp;finance.biggo.jp",
-      "sources": [
-        {
-          "name": "日経メディカル",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWHZXaDdUUU0zcGZGelpiV3lYQzd5LWo5OEZCS3JELXFEQ05VbC14VE41ZUg3SE9ZYUhYS19JOU10cUtia3dYQXprT3JWX1RsZDdCVHY5bGZPNlJxTUlUdGFmYm1kMnFuOEJDemVtM3c5bkdZdlZNMk0ybmk5ZHloTlBuUXVrZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "24d2a1ba3a2a",
-      "title": "骨折・転倒予防、CaとビタミンDに効果認めず～メタ解析／BMJ｜CareNet.com - CareNet.com",
-      "published": "2026-06-02T19:00:00+00:00",
-      "summary": "骨折・転倒予防、CaとビタミンDに効果認めず～メタ解析／BMJ｜CareNet.com&nbsp;&nbsp;CareNet.com",
-      "sources": [
-        {
-          "name": "CareNet.com",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3aTRSSU8wd2doNzVBcjdyZUhJaVh0d2ZReGp4VVp4VHUxbFRPclVHeHZnQ25QMXE4UkRCMVNSNHdkQWdGdzZQOW96TEJydk9JMm9NMUNuWFZwZjhSQ3dB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7f224a06e5da",
       "title": "ハトの磁気コンパスを発見か、肝臓の免疫細胞の可能性　地球の磁場を感知する能力(ナショナル ジオグラフィック日本版)",
       "published": "2026-06-02T11:38:55+00:00",
@@ -638,30 +626,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/e89aad683984efc487e2ff049753a83c2e339426?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "9d2b6f9365c1",
-      "title": "神戸賞、大賞に理化学研究所・宮脇氏　細胞での特定現象を光や色で見える化(産経新聞)",
-      "published": "2026-06-01T22:30:00+00:00",
-      "summary": "独創的かつ優れた研究で実績を挙げた研究者や、将来性が期待される若手研究者に光を当てる「第3回神戸賞」の授賞式が、神戸市中央区のホテルで開かれた。大賞には理化学研究所の宮脇敦史チームディレクターが選ばれ",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/0650a57054c4d4322237e21a8fb71da793d963be?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "95e5ad34f8d7",
-      "title": "小学生が脱炭素について学ぶ「みんなで減CO2（ゲンコツ）プロジェクト」　岡山市と瀬戸内市が初参加へ(KSB瀬戸内海放送)",
-      "published": "2026-06-01T09:34:22+00:00",
-      "summary": "岡山市と瀬戸内市は6月1日、日本総合研究所などが主催する「みんなで減CO2（ゲンコツ）プロジェクト」に参加すると発表しました。",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/b7dd83cd54805934934abceb31a6b533fca1f402?source=rss"
         }
       ]
     }
