@@ -1,115 +1,67 @@
 {
   "source": "japan_news",
-  "fetched_at": "2026-06-06T02:09:53.203331+00:00",
-  "total_fetched": 124,
-  "unique_count": 124,
-  "health_related_count": 53,
+  "fetched_at": "2026-06-06T08:24:01.916297+00:00",
+  "total_fetched": 123,
+  "unique_count": 123,
+  "health_related_count": 44,
   "news": [
     {
-      "id": "fa2475e0a8d1",
-      "title": "抜け感には「辛口メイク」×青みピンクが効果絶大！甘すぎないピンクメイクを解説(VOCE)",
-      "published": "2026-06-06T02:03:35+00:00",
-      "summary": "みんな大好きな最愛ピンクを、甘すぎず旬につけこなすには？ 大人にこそ使ってほしい万能カラーをいかした提案をヘアメイク中山友恵さんと久間田琳加さんの競演でお届け！",
+      "id": "a7e96a4d1c15",
+      "title": "雨の日に荷物が多くても「ラクに傘をさせる」セリアの神アイテムを発見。110円で両手が自由に(ESSE-online)",
+      "published": "2026-06-06T07:00:37+00:00",
+      "summary": "雨が多い季節がやってきます。荷物が多い日に限って、片手が傘でふさがってしまい不便…なんてことはありませんか？ そんなときの救世主アイテムを、100円ショップが大好きなESSEベストフレンズ101メンバ",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/399f908771373f91b8191a27278f6e1384bb12a5?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/d9053a7452e0667a1abbae1d9a6b06a8ec70f625?source=rss"
         }
       ]
     },
     {
-      "id": "46c9839b07de",
-      "title": "【闘病】検査異常なしでも「吐き気と動悸が…」 新卒の心を壊した『原因不明の不調』の正体(メディカルドック)",
-      "published": "2026-06-06T02:02:24+00:00",
-      "summary": "新卒入社直後、同期への劣等感から吐き気や疲労感が続く「身体症状症」を発症した川田さん（仮称）。焦りからの無理な復職で悪化を招きますが、退職を決断し「早く治さねば」という強迫観念を手放したことで症状が安",
+      "id": "0b844dd77887",
+      "title": "【これは何？】猛毒を疑う「不気味な葉っぱ」を発見 イボに「虫が入ってる」と驚きの真相も(LIMO)",
+      "published": "2026-06-06T06:45:52+00:00",
+      "summary": "不気味な葉っぱが、Xで話題になっています。 投稿したのは、「@matudono2」さんです。 当ポストには執筆時点で1万件を超えて表示されており、「虫が入ってる」「若葉はよくこうなる」といったコメ",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/ab48aac742b4af8d175623be4351742290ef0e5f?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/469a24cabae925f53e4118029877b7495450b965?source=rss"
         }
       ]
     },
     {
-      "id": "6fd849995a04",
-      "title": "「発達障害が改善する」“怪しい治療”に騙される親たち…専門医が警告する、良かれと思った選択が「重篤な副作用」を招くワケ(with online)",
-      "published": "2026-06-06T02:01:11+00:00",
-      "summary": "「予約半年待ち」の発達外来に絶望しているとき、ネットで見つけた“最新療法”が救いに見えるかもしれません。しかし、どれも発達障害に対して効果があるという科学的な根拠は一切確認されていないばかりか、健康被",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/f98fe385cbb4d3cd4fafc4e7e9caba434864715a?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "b295212ea5c5",
-      "title": "《更年期の最新治療法》閉経の前でも気になる症状が出たら婦人科へ「ホルモン補充療法（HRT）」「漢方薬」「プラセンタ注射」「サプリメント」を解説(女性セブンプラス)",
-      "published": "2026-06-06T02:00:00+00:00",
-      "summary": "かつて、中高年女性の不定愁訴は「気のせい」「老化」「誰もが通る道」などとされ、どんなにつらくてもがまんせざるをえないケースが多かった。しかし、いまは違う。更年期のメカニズムが解明され、薬などで症状をコ",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/b47807dd42bc72059f7ead60843d48a109eb5e1d?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "66cfb2130992",
-      "title": "がんと宣告されたらあなたはどう受け止める？ 独身アラフィフの著者が、希少な乳がんとポジティブに向き合った日々を綴る【書評】(ダ・ヴィンチWeb)",
-      "published": "2026-06-06T02:00:00+00:00",
-      "summary": "ある日、突然がんを宣告されたら――。『50代おひとり様、５％の希少乳がんになりました』（ナヲコ：著、寺田満雄：監修/KADOKAWA）は、著者のナヲコ氏自身の経験をもとに乳がん治療の日々を描いた作品だ",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/995a59d9191869c5d8f07efb43be24dd43321e79?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "5bcbe23c027b",
-      "title": "「老衰で天国へ」にあこがれる人は知っておいたほうがいい…6000体解剖した法医学者が解説する\"本当の死因\"(プレジデントオンライン)",
-      "published": "2026-06-06T01:15:42+00:00",
-      "summary": "穏やかに息を引き取るというイメージのある「老衰」を望む人は少なくない。本当にそれは穏やかな最期なのか。これまで約6000体の遺体解剖をしてきた法医学者の高木徹也さんは「老衰と死亡診断書に書かれるケース",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/1411a327853ba473c4a349202c50207a5dbafba7?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "3eafed1fed91",
-      "title": "画面に映る自分の顔に「ブス！」スマホを投げて割ってしまったことも…ぽっちゃり系→42kgまで極限のダイエットをしたグラドル・三上もえ（30）が語る、“醜型恐怖症”に苦しんだ記憶(文春オンライン)",
-      "published": "2026-06-06T01:12:16+00:00",
-      "summary": "〈「次、いつ食べられるかわからへん」母親は家に帰ってこず、ブラジャーを買うにも一苦労…“健康美グラドル”が明かす、ネグレクト状態だった壮絶な子ども時代〉 から続く 「同じ人物とは思えない――」",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/e143d0238748065d69d1e5a9582bed1b4b4ef9c6?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "8cebd3b128aa",
-      "title": "おしかけ魔女の宅急便～ツァヴタット、ドゥブロヴニク（中編）【「新型コロナウイルス学者」の平凡な日常】 - au Webポータル",
-      "published": "2026-06-05T23:36:43+00:00",
-      "summary": "おしかけ魔女の宅急便～ツァヴタット、ドゥブロヴニク（中編）【「新型コロナウイルス学者」の平凡な日常】&nbsp;&nbsp;au Webポータルおしかけ魔女の宅急便～ツァヴタット、ドゥブロヴニク（前編）【「新型コロナウイルス学者」の平凡な日常】（週プレNEWS）&nbsp;&nbsp;Yahoo!ニュースおしかけ魔女の宅急便～ツァヴタット、ドゥブロヴニク（中編）【「新型コロナウイルス学者」の平凡な日常】（週プレNEWS）&nbsp;&nbsp;Yahoo!ニュース",
+      "id": "937cf670f67e",
+      "title": "おしかけ魔女の宅急便～ツァヴタット、ドゥブロヴニク（前編）【「新型コロナウイルス学者」の平凡な日常】 - au Webポータル",
+      "published": "2026-06-05T23:00:00+00:00",
+      "summary": "おしかけ魔女の宅急便～ツァヴタット、ドゥブロヴニク（前編）【「新型コロナウイルス学者」の平凡な日常】&nbsp;&nbsp;au Webポータルおしかけ魔女の宅急便～ツァヴタット、ドゥブロヴニク（後編）【「新型コロナウイルス学者」の平凡な日常】（週プレNEWS）&nbsp;&nbsp;Yahoo!ニュースおしかけ魔女の宅急便～ツァヴタット、ドゥブロヴニク（前編）【「新型コロナウイルス学者」の平凡な日常】（週プレNEWS）&nbsp;&nbsp;Yahoo!ニュースおしかけ魔女の宅急便～ツァヴタット、ドゥブロヴニク（中編）【「新型コロナウイルス学者」の平凡な日常】（週プレNEWS）&nbsp;&nbsp;Yahoo!ニュース",
       "sources": [
         {
           "name": "au Webポータル",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE01WXZGTkdLQ3BnaFRDd1VSOFNmdldpYWJ5V29UT1R5WjM3WGNBS29FUVpWSWpHRy0xc0RaYXIydlFtY3czdjNyZ0lSUXZRTE0tbkZCWVY5U1NpczFWUXR5UGdYem1hMlRVbmdmem5zUXBtMkZxOTRJNGRB?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1pcFR3UTdJUFFneGQ2empMQVlUUkw3VEYtc3RkMGdZSGRvRFpKNGptNFRYREdMYkl5dTlwd2J4RS1fYlVZc3BER1hfSVdEVzR2Zlp5LTRQdjdiMGlqVnJMTWJWQVY5d2pvQTAtNE9lOHBOeXVzbnF2QURR?oc=5"
         }
       ]
     },
     {
       "id": "9f1a4a026e89",
       "title": "英ケンブリッジ大学、AIが設計したワクチンの臨床試験に成功 未知の変異株にも備える“万能型” - ITmedia",
-      "published": "2026-06-05T22:15:47+00:00",
-      "summary": "英ケンブリッジ大学、AIが設計したワクチンの臨床試験に成功 未知の変異株にも備える“万能型”&nbsp;&nbsp;ITmediaウイルス変異にも対応のワクチン、AIで設計 英ケンブリッジ大&nbsp;&nbsp;日本経済新聞",
+      "published": "2026-06-05T22:27:33+00:00",
+      "summary": "英ケンブリッジ大学、AIが設計したワクチンの臨床試験に成功 未知の変異株にも備える“万能型”&nbsp;&nbsp;ITmediaAI設計のワクチン コロナウイルス変異に対応 英大学&nbsp;&nbsp;日本経済新聞ウイルス変異にも対応のワクチン、AIで設計 英ケンブリッジ大&nbsp;&nbsp;日本経済新聞",
       "sources": [
         {
           "name": "ITmedia",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqTGVWRWY0TGxQaFV3R3RqRVJ3ZG8zRVVPSVFlZkhzUF81MlRadkljUDFqMjhsT2ZFWE9ONmhvTEp1YVpIdHVDaDRJSXZMYnhJMXNneklEajZkdmE0a2pDOXNrNk9kRW5OSVI5TA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a068787432fa",
+      "title": "《健康腸寿を目指す》名医と食のプロが教える「腸の機能回復」に役立つ食べ物と習慣 ぬか漬けは「食べる美容液」 (1/1) - 女性セブンプラス",
+      "published": "2026-06-05T22:00:00+00:00",
+      "summary": "《健康腸寿を目指す》名医と食のプロが教える「腸の機能回復」に役立つ食べ物と習慣 ぬか漬けは「食べる美容液」 (1/1)&nbsp;&nbsp;女性セブンプラス《健康腸寿を目指す》名医と食のプロが教える「腸の機能回復」に役立つ食べ物と習慣 ぬか漬けは「食べる美容液」&nbsp;&nbsp;Yahoo!ニュース「腸活」は何を食べることから始めたらいいの？腸活に良い食べ物や果物も医師が解説！&nbsp;&nbsp;メディカルドック「お前の肌、気持ち悪い」という言葉をきっかけにSNS総フォロワー数17万人超えの腸活管理栄養士に。だれでも始められる簡単腸活法とは？&nbsp;&nbsp;ｄメニューニュース",
+      "sources": [
+        {
+          "name": "女性セブンプラス",
+          "link": "https://news.google.com/rss/articles/CBMiOEFVX3lxTE1iUmpXbFFYTkZwRzgyd3lZdFpzSnV4Zl83dXNMYnJzZWdXbE01TWhRYzFaOEV4U3ZE?oc=5"
         }
       ]
     },
@@ -122,18 +74,6 @@
         {
           "name": "47NEWS",
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBmZzRGX2RmX1MyeWJKS1JRWFFGRktSTEkzU0RiZ01xUVpnZzJMREd2ZFZCRXlSQjRHTC1nUHFaOXJDWHh6WUlSUVdNNA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0dc0395298c1",
-      "title": "認知症、早期発見へ 脳と記憶の専門外来開設、大川原病院 - 47NEWS",
-      "published": "2026-06-05T20:00:00+00:00",
-      "summary": "認知症、早期発見へ 脳と記憶の専門外来開設、大川原病院&nbsp;&nbsp;47NEWS",
-      "sources": [
-        {
-          "name": "47NEWS",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5UVBKUGhHaHZhZ3h6cDdZMUxuNDdzdHh2Nllaa0I0b1Z3QldBN3RMc0lTYnk0ZmVmX3pBUHlpYnROTnh0ejJ6MXd4OA?oc=5"
         }
       ]
     },
@@ -174,6 +114,18 @@
       ]
     },
     {
+      "id": "059a79e19a99",
+      "title": "SNSでも不安広がる「ハンタウイルス感染症」は人から人にうつる？ 症状・感染経路・予防法を専門医が解説 - メディカルドック",
+      "published": "2026-06-05T07:03:56+00:00",
+      "summary": "SNSでも不安広がる「ハンタウイルス感染症」は人から人にうつる？ 症状・感染経路・予防法を専門医が解説&nbsp;&nbsp;メディカルドック",
+      "sources": [
+        {
+          "name": "メディカルドック",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9FQjJPSkZ1dXdaVjZ6MFpTRTF3NVlGZlFhNG5FZERRai14RzRocDVzQlVWNHZYWGtqX3Nna1l4WjllbDVBTnlRdGY2cTNXUEl0b1VpcEQxVGs?oc=5"
+        }
+      ]
+    },
+    {
       "id": "62782abcb0ee",
       "title": "日本人初“科学世界一”スーパー高校生の素顔 超難解研究の原点は折り紙とスノボ(テレビ朝日系（ANN）)",
       "published": "2026-06-05T06:28:16+00:00",
@@ -182,18 +134,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/944ebf57b47350aa07a12e6d37d3ffe2d82862ad?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "2d7fc1f45ccb",
-      "title": "SNSでも不安広がる「ハンタウイルス感染症」は人から人にうつる？ 症状・感染経路・予防法を専門医が解説（メディカルドック） - Yahoo!ニュース",
-      "published": "2026-06-05T05:46:00+00:00",
-      "summary": "SNSでも不安広がる「ハンタウイルス感染症」は人から人にうつる？ 症状・感染経路・予防法を専門医が解説（メディカルドック）&nbsp;&nbsp;Yahoo!ニュースＷＨＯにハンタウイルス初動の見直し迫る 「空気感染リスク」を過小評価しないで&nbsp;&nbsp;読売新聞ハンタウイルス集団感染、その後どうなった? WHO確認から1カ月&nbsp;&nbsp;朝日新聞クルーズ船で広まったハンタウイルス感染症 人から人へうつる可能性は (2026年6月5日掲載)&nbsp;&nbsp;ライブドアニュースクルーズ船で死亡者が出た「ハンタウイルス」とは？ネズミが媒介する感染症の脅威&nbsp;&nbsp;@DIME アットダイム",
-      "sources": [
-        {
-          "name": "Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtbjNvc2IxZnhJSVc0NldkTGRfQVlVV05Gbkd4cXYwOXVadmJ1Zk5nbmtUbmdKbDVHbmpUekVrYTI3ZDNseWdDeXVPeFBwQXpIVE5BdVVMcWRoU1RMamtmaEF0X0lkb3pZTnl0eU56a1I1SzhoQ0VxMGFGUlpDaGs?oc=5"
         }
       ]
     },
@@ -218,6 +158,18 @@
         {
           "name": "meiji.ac.jp",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00WTZkb2twejV1ZEpCWGpjWXktR2pKNFpjR25iRjNtakFHLXpuUGJtSUpTRUhpUkF3bk5tMkNrRUpCM3Jza1Z5YjAzRGVtSTJaalM0bml5cEUtR2JvU0dUQnJvQVBNdlpDZjVUQWZR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ec6e5d63596c",
+      "title": "がん予防 酒「控えて」 少量でもリスク上昇 - 毎日新聞",
+      "published": "2026-06-05T03:59:16+00:00",
+      "summary": "がん予防 酒「控えて」 少量でもリスク上昇&nbsp;&nbsp;毎日新聞「節酒」から「飲酒控える」に 少量でもがんリスク上昇 予防法最新版を公表（テレビ朝日系（ANN））&nbsp;&nbsp;Yahoo!ニュースがん予防法 最新版 お酒は「節酒」から「ひかえる」推奨に変更 | NHKニュース | 医療・健康、サイエンス&nbsp;&nbsp;NHKニュース「科学的根拠に基づくがん予防法5+1」をより伝わりやすく刷新&nbsp;&nbsp;ncc.go.jpがん予防法の最新版公表 がんリスクを減らすには…科学的根拠に基づく「がん予防法5＋1」とは【Nスタ解説】&nbsp;&nbsp;TBS NEWS DIG",
+      "sources": [
+        {
+          "name": "毎日新聞",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9raFdFaWQxdW1HWU96ZXZxOEVicjdfQnFjWVQyc1hQYlpuMWh0M1FWODNfc2hHRk1MY01jQjhNM3VZVkN5QTFqVzdvM1lCeXdWQmpmdEYzT3RJQ3JsTEhBM2VXNEhFOWdr?oc=5"
         }
       ]
     },
@@ -378,6 +330,18 @@
       ]
     },
     {
+      "id": "26225bbe6bba",
+      "title": "Googleが「蚊で蚊を減らす」プロジェクト “特殊な雄”6400万匹の放出を米2州で申請 - ITmedia",
+      "published": "2026-06-04T11:45:00+00:00",
+      "summary": "Googleが「蚊で蚊を減らす」プロジェクト “特殊な雄”6400万匹の放出を米2州で申請&nbsp;&nbsp;ITmediaGoogle、繁殖不能の蚊6400万匹の放出申請 米国で感染症対策を実験&nbsp;&nbsp;日本経済新聞Googleが「細菌に感染した6400万匹の蚊」をアメリカで放とうとしている理由とは？&nbsp;&nbsp;GIGAZINEGoogleは米国で3200万匹の蚊を放つことを提案している。&nbsp;&nbsp;Vietnam.vnグーグルが仕掛ける「蚊のデバッグ」：生物圏のコードを書き換える&nbsp;&nbsp;newspicks.com",
+      "sources": [
+        {
+          "name": "ITmedia",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mQk5UMGFFSUEyZ2pxbWxGaXJYZGtrNXc5S0doUTRMYmdMcWpleUpfWmwzZ3IyZzdyS1ZwU1lGeU9BaENmSjh2QVFNQXBpSWhndDg1TTlFZUZmRFV3UzdfeVVNc29SOFl1MXctdQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "3692fb06fd49",
       "title": "「出血は痔のせいだ→ じつは『大腸がん』だった」 自己判断の危険性を医師が解説(メディカルドック)",
       "published": "2026-06-04T10:03:24+00:00",
@@ -410,30 +374,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/376dd47a3cdaad3d5fdc3ba426a25a1a04718025?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "80c0261a7a2c",
-      "title": "30代男性がはしか陽性 群馬で2026年初の確認 高崎市で受診 - 上毛新聞電子版",
-      "published": "2026-06-04T06:30:00+00:00",
-      "summary": "30代男性がはしか陽性 群馬で2026年初の確認 高崎市で受診&nbsp;&nbsp;上毛新聞電子版高崎３０代男性「はしか」感染 “ベトナムから帰国後に発症”&nbsp;&nbsp;NHKニュースはしか感染者 群馬県内でことし初確認 群馬・高崎市（群馬テレビ）&nbsp;&nbsp;Yahoo!ニュース",
-      "sources": [
-        {
-          "name": "上毛新聞電子版",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KVk4tNE1DUzM4MEdveTR5a3p3TDc1bDlSRVNzc3I0dURiWFptUDc3cGM0M0JYQnMwd21TUWhmbFVKQUFQMmNmUENnNHlxWnU2SHF0VnJFNWk?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ea8ba386ae57",
-      "title": "マカオ、無料で利用できる共用の虫よけスプレー設置場所が200ヶ所まで拡大…蚊媒介感染症対策 - The Macau Shimbun",
-      "published": "2026-06-04T06:30:00+00:00",
-      "summary": "マカオ、無料で利用できる共用の虫よけスプレー設置場所が200ヶ所まで拡大…蚊媒介感染症対策&nbsp;&nbsp;The Macau Shimbun",
-      "sources": [
-        {
-          "name": "The Macau Shimbun",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oNTB2bzRNZUZQLXpmbEFMR0tzMUFQR1E3OGVUdm85SlZnVmF5MXltSWR6b1JpMGp6aVd0YXY3VFRuQkhhYVh0czYzT3pHVVphUnBXNUJ3?oc=5"
         }
       ]
     },
@@ -506,18 +446,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/cb3e68419df31c04fbea97411e58589d6ae3693f?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "ae14476fd4a5",
-      "title": "ERA学術大会（ERA Congress）：FLOW試験、糖尿病と腎疾患を併存する患者におけるセマグルチドと生活の質改善との関連を示す - 千葉日報オンライン",
-      "published": "2026-06-04T03:03:24+00:00",
-      "summary": "ERA学術大会（ERA Congress）：FLOW試験、糖尿病と腎疾患を併存する患者におけるセマグルチドと生活の質改善との関連を示す&nbsp;&nbsp;千葉日報オンライン",
-      "sources": [
-        {
-          "name": "千葉日報オンライン",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zNkhCUWVLaVpGeXNFTVAxV3V1VEgxbmp2clNrR3AtTzVBVF91d2RnV3FEWmI2N0FjVjkyY05xT1dhTUpjODZ3MUxRMTZyZHoyVWNxRlh3?oc=5"
         }
       ]
     },
@@ -602,42 +530,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/3b37484270488fe53c17b6baa25bf8c414c4aca1?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "bbdcfa0ea1de",
-      "title": "【猫のサイエンス】いつも足から着地できる「ネコひねり」の謎、また一つ解明される(ギズモード・ジャパン)",
-      "published": "2026-06-02T11:30:01+00:00",
-      "summary": "「運がいいから」でも「神のご加護」でもなく、ちゃんと仕組みがあったんですね。 猫って、高いところから落ちたり宙を舞ったりしても、なぜかちゃーんと足から着地します。 山口大学共同獣医学部の研究グルー",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/19477230cc325312c7fdf3fb6a422717334b68a4?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "d96a4acb4326",
-      "title": "「ICL」はどこで手術を受けても同じ？ 安心して受けるために知っておくべきことを医師が解説(メディカルドック)",
-      "published": "2026-06-02T11:03:02+00:00",
-      "summary": "ICLは、角膜を削らずに屈折異常を矯正できる術式として注目されています。けれども、すべての施設で同じ結果や安全性が得られるとは限らないため、「どこで受けるか」が重要になります。そこで、ICL治療の基本",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/b06b71f4a382df714779823fe7bca292eef80494?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "14fa058f0d8b",
-      "title": "JAXA、H3ロケット部品製造のIHIエアロを競争参加資格停止　不当請求判明(産経新聞)",
-      "published": "2026-06-02T10:48:09+00:00",
-      "summary": "宇宙航空研究開発機構（JAXA）は2日、主力大型ロケット「H3」や衛星などの部品製造を発注しているIHI傘下のIHIエアロスペースを、5カ月間の競争参加資格の停止処分にしたと発表した。 製造に必要な",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/432f3214d5ca37352418776e29d6def0ba827d2b?source=rss"
         }
       ]
     }
