@@ -1,7 +1,47 @@
 {
-  "generated": "2026-06-07T08:44:05.524898+00:00",
-  "count": 6,
+  "generated": "2026-06-07T13:21:25.723310+00:00",
+  "count": 8,
   "news": [
+    {
+      "id": "37e20b9812c0",
+      "title": "大きな骨の意味を持つ「京骨」は小児のひきつけやてんかん、坐骨神経痛や捻挫に奏効(家庭画報.com)",
+      "published": "2026-06-07T12:20:09+00:00",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/cf44986516d29f822e1687b1d6ed4700707f4881?source=rss"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "epilepsy",
+          "keyword": "てんかん",
+          "related_drugs": [
+            {
+              "slug": "valproic-acid",
+              "name": "セレニカＲ顆粒４０％（選）"
+            },
+            {
+              "slug": "carbamazepine",
+              "name": "テグレトール錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "lorazepam",
+              "name": "ワイパックス錠１．０　１ｍｇ（選）"
+            },
+            {
+              "slug": "lamotrigine",
+              "name": "ラミクタール錠２５ｍｇ（選）"
+            },
+            {
+              "slug": "levetiracetam",
+              "name": "レベチラセタム粒状錠５００ｍｇ「サワイ」"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "0ef1e7f2503c",
       "title": "【闘病】『子宮肉腫』で多発転移。仕事を奪われた母が味わう、杖必須の終わらぬ副作用(メディカルドック)",
@@ -835,6 +875,49 @@
             {
               "slug": "levetiracetam",
               "name": "レベチラセタム粒状錠５００ｍｇ「サワイ」"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "997ba76ada7f",
+      "title": "新薬ドナネマブにより早期アルツハイマー病の進行リスクが半減",
+      "published": "2026-06-07T02:30:07+00:00",
+      "sources": [
+        {
+          "name": "老施協デジタル",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqZVJ3cnVnb0x0X3JxM0lYMDkycGdsbHhwT1Vnc1YtUHpKZExfckNTVHoyLW8ycl9YbW13ODBybFQtLXdqSXFqcWZFelFaMFlKdGdj?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "認知症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "アルツハイマー型認知症",
+          "keyword": "アルツハイマー型認知症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
             }
           ]
         }
