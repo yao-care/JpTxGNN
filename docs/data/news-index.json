@@ -1,39 +1,11 @@
 {
-  "generated": "2026-06-09T14:25:51.926660+00:00",
-  "count": 12,
+  "generated": "2026-06-09T19:56:03.701719+00:00",
+  "count": 11,
   "news": [
-    {
-      "id": "b47ac197e327",
-      "title": "認知症の人における入院加療がその後の死亡率と医療費に与える因果効果を検証―丁寧な入院判断が重要",
-      "published": "2026-06-09T12:00:00+00:00",
-      "sources": [
-        {
-          "name": "京都大学",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5HNVVoN0VLbHQ2NFBJd0FnT1BOWnplSGgta05weVhUV2x0Mnlyb2U5TU53SFl2V1JhM3RwTHN6dW5YMWg2ZHhaVXYyUWdLRWR3enYxNGN6Q3hxdC1YWlRjVmx5TQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "認知症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            }
-          ]
-        }
-      ]
-    },
     {
       "id": "f4d14b952cfc",
       "title": "随時更新中：ASCO 2026 Annual Meeting",
-      "published": "2026-06-09T05:54:01+00:00",
+      "published": "2026-06-09T15:51:28+00:00",
       "sources": [
         {
           "name": "日経メディカル",
@@ -334,129 +306,41 @@
       ]
     },
     {
-      "id": "46dfb4487809",
-      "title": "はしか感染者523人 過去10年で最多の2019年に次ぐペース",
-      "published": "2026-06-09T03:22:43+00:00",
+      "id": "b47ac197e327",
+      "title": "認知症の人における入院加療がその後の死亡率と医療費に与える因果効果を検証―丁寧な入院判断が重要",
+      "published": "2026-06-09T12:00:00+00:00",
       "sources": [
         {
-          "name": "NHKニュース",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51cEZDelB1cHI0OV9TSHNFOVRLWFVDanJJN2dpRG5ERkljakpPckF0aDRnYTZfNmR1aDUwT2FnbENCeTJlY0o3cGNyWUg1a0JHV3RSc2tCLURWWW42cnVB?oc=5"
+          "name": "京都大学",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5HNVVoN0VLbHQ2NFBJd0FnT1BOWnplSGgta05weVhUV2x0Mnlyb2U5TU53SFl2V1JhM3RwTHN6dW5YMWg2ZHhaVXYyUWdLRWR3enYxNGN6Q3hxdC1YWlRjVmx5TQ?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "influenza",
-          "keyword": "インフルエンザ",
+          "name": "dementia",
+          "keyword": "認知症",
           "related_drugs": [
             {
-              "slug": "oseltamivir",
-              "name": "タミフルドライシロップ３％（選）"
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
             }
           ]
         }
       ]
     },
     {
-      "id": "4c1a3763719f",
-      "title": "【研究成果】慢性腎臓病で便秘が増加 腎機能が最も低い群では約2人に1人に便秘がみられることを確認",
-      "published": "2026-06-09T02:53:08+00:00",
+      "id": "1c892a1b63b9",
+      "title": "HPVワクチン推進議員連盟",
+      "published": "2026-06-09T09:23:43+00:00",
       "sources": [
         {
-          "name": "hiroshima-u.ac.jp",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44X1hTZ2hkQ0ZicDhZajItTWVqVGo0TURUY0xnaVFSOEhWRUhVenZ5TkJNR1pzN2RmQkNURzBTV0ZETW91aFNVQlJZUkNXcmdLa1E?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "chronic kidney disease",
-          "keyword": "慢性腎臓病",
-          "related_drugs": [
-            {
-              "slug": "pravastatin",
-              "name": "メバロチン錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "enalapril",
-              "name": "レニベース錠１０　１０ｍｇ（選）"
-            },
-            {
-              "slug": "lisinopril",
-              "name": "ロンゲス錠２０ｍｇ（選）"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "エックスフォージ配合ＯＤ錠（選）"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "ミカムロ配合錠ＢＰ（選）"
-            },
-            {
-              "slug": "rosuvastatin",
-              "name": "クレストールＯＤ錠５ｍｇ（選）"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "ec71a10b208b",
-      "title": "統合失調症の中国伝統医学による治療法｜岡部哲郎",
-      "published": "2026-06-08T22:13:42+00:00",
-      "sources": [
-        {
-          "name": "mbp-japan.com",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56QnBZbDRfQld3YzV0c09CTVpZelVrVHIyY0pRUXFLa0lOOGg2amtSTWlUMGZ5dDA0MEhlaTBCYzMtQmI3LXZsYWYzdjZUTGFkRGFIYlE3UkJrcmN1NWc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "schizophrenia",
-          "keyword": "統合失調症",
-          "related_drugs": [
-            {
-              "slug": "risperidone",
-              "name": "リスパダール錠２ｍｇ（選）"
-            },
-            {
-              "slug": "quetiapine",
-              "name": "セロクエル２００ｍｇ錠（選）"
-            },
-            {
-              "slug": "olanzapine",
-              "name": "ジプレキサザイディス錠２．５ｍｇ（選）"
-            },
-            {
-              "slug": "haloperidol",
-              "name": "セレネース錠３ｍｇ（選）"
-            },
-            {
-              "slug": "morphine",
-              "name": "モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」"
-            },
-            {
-              "slug": "aripiprazole",
-              "name": "エビリファイ錠１ｍｇ（選）"
-            },
-            {
-              "slug": "duloxetine",
-              "name": "サインバルタカプセル３０ｍｇ（選）"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "f52d193c07c8",
-      "title": "7月1日から:HPVワクチンは無料で接種され、対象年齢の女児を優先",
-      "published": "2026-06-08T10:49:48+00:00",
-      "sources": [
-        {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPM2N2Vm5LSVRwOGhEWHNoNVFiTzhYLVg0Q2FDci1Rakt3bWZpQzJ2TFpRV3VBLUFUUGdhdXRsWGZhNy1tRUlOYVdmb2FmMnF1c0hGUDRjMkVua3FqOTE2S0hlVGNVX19Zb1ZwOHBQUnNoNU13M2pKdVZNSjRnYXhwTnZUZHJQZzdDdlN4NXg1UnFPUlBWQUFEZTF0TDdzTXp5S0FRcHpKME1HRVROREp1dTNwUUtiM1lqOVdwcHpJLVZwZlV2?oc=5"
+          "name": "選挙ドットコム",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jSElaMmZnZTRZdlZ1UWlWV3ZFYV9xZGFob2ZzLXVhWnRmNkxMRTZreml1bGhnUVhvOUdmbG0wVkdVMDJNUmdnNm1ldWhaVTZFX1dzRnpDcUt2djBuQmpN?oc=5"
         }
       ],
       "keywords": [
@@ -732,6 +616,122 @@
             {
               "slug": "levetiracetam",
               "name": "レベチラセタム粒状錠５００ｍｇ「サワイ」"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "110aa6ff17b6",
+      "title": "「麻しん（はしか）予防で大切なこと」を動画配信|6月",
+      "published": "2026-06-09T07:56:03+00:00",
+      "sources": [
+        {
+          "name": "metro.tokyo.lg.jp",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5UYTVvTDZvS0ZaN0VSUFQwa0NqekxNbXp5V2d5R2p4SGRWcUlSd0lQSk5IZFIyRlhDTDJINzQtdmdONlpQOXV3VDdBcVRpc0hoT1VHZXJnTFZIOVIwUDFIZlFKbzFuNzNwZEFYeWg3a0MzbGww?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "influenza",
+          "keyword": "インフルエンザ",
+          "related_drugs": [
+            {
+              "slug": "oseltamivir",
+              "name": "タミフルドライシロップ３％（選）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4c1a3763719f",
+      "title": "【研究成果】慢性腎臓病で便秘が増加 腎機能が最も低い群では約2人に1人に便秘がみられることを確認",
+      "published": "2026-06-09T02:53:08+00:00",
+      "sources": [
+        {
+          "name": "hiroshima-u.ac.jp",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44X1hTZ2hkQ0ZicDhZajItTWVqVGo0TURUY0xnaVFSOEhWRUhVenZ5TkJNR1pzN2RmQkNURzBTV0ZETW91aFNVQlJZUkNXcmdLa1E?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "chronic kidney disease",
+          "keyword": "慢性腎臓病",
+          "related_drugs": [
+            {
+              "slug": "pravastatin",
+              "name": "メバロチン錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "enalapril",
+              "name": "レニベース錠１０　１０ｍｇ（選）"
+            },
+            {
+              "slug": "lisinopril",
+              "name": "ロンゲス錠２０ｍｇ（選）"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "エックスフォージ配合ＯＤ錠（選）"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "ミカムロ配合錠ＢＰ（選）"
+            },
+            {
+              "slug": "rosuvastatin",
+              "name": "クレストールＯＤ錠５ｍｇ（選）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ec71a10b208b",
+      "title": "統合失調症の中国伝統医学による治療法｜岡部哲郎",
+      "published": "2026-06-08T22:13:42+00:00",
+      "sources": [
+        {
+          "name": "mbp-japan.com",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56QnBZbDRfQld3YzV0c09CTVpZelVrVHIyY0pRUXFLa0lOOGg2amtSTWlUMGZ5dDA0MEhlaTBCYzMtQmI3LXZsYWYzdjZUTGFkRGFIYlE3UkJrcmN1NWc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "schizophrenia",
+          "keyword": "統合失調症",
+          "related_drugs": [
+            {
+              "slug": "risperidone",
+              "name": "リスパダール錠２ｍｇ（選）"
+            },
+            {
+              "slug": "quetiapine",
+              "name": "セロクエル２００ｍｇ錠（選）"
+            },
+            {
+              "slug": "olanzapine",
+              "name": "ジプレキサザイディス錠２．５ｍｇ（選）"
+            },
+            {
+              "slug": "haloperidol",
+              "name": "セレネース錠３ｍｇ（選）"
+            },
+            {
+              "slug": "morphine",
+              "name": "モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」"
+            },
+            {
+              "slug": "aripiprazole",
+              "name": "エビリファイ錠１ｍｇ（選）"
+            },
+            {
+              "slug": "duloxetine",
+              "name": "サインバルタカプセル３０ｍｇ（選）"
             }
           ]
         }
@@ -1380,94 +1380,6 @@
             {
               "slug": "duloxetine",
               "name": "サインバルタカプセル３０ｍｇ（選）"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "1649f0ab635a",
-      "title": "ザヌブルチニブとイブルチニブの心血管系有害事象リスク：大規模な実臨床データで比較",
-      "published": "2026-06-07T15:00:00+00:00",
-      "sources": [
-        {
-          "name": "m3.com",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GZWo3X1phNU1keHdpSE81QW5kUlhsSFRUZHdxNXRIREVPRDJvTTloYkFkOHR4S1MtdHlCNnRWdGtjZmJ1OVIxU0p3Sk5LTWF0Y2c?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "acyclovir",
-              "name": "ゾビラックス軟膏５％（選）"
-            },
-            {
-              "slug": "atorvastatin",
-              "name": "アトーゼット配合錠ＨＤ（選）"
-            },
-            {
-              "slug": "pravastatin",
-              "name": "メバロチン錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "atenolol",
-              "name": "テノーミン錠５０　５０ｍｇ（選）"
-            },
-            {
-              "slug": "simvastatin",
-              "name": "リポバス錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "ロプレソール錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "lisinopril",
-              "name": "ロンゲス錠２０ｍｇ（選）"
-            },
-            {
-              "slug": "lidocaine",
-              "name": "リドカイン（１８ｍｇ）３０．５ｍｍ×５０．０ｍｍ貼付剤"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "ミカムロ配合錠ＢＰ（選）"
-            },
-            {
-              "slug": "rosuvastatin",
-              "name": "クレストールＯＤ錠５ｍｇ（選）"
-            },
-            {
-              "slug": "verapamil",
-              "name": "ワソラン錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "latanoprost",
-              "name": "ザラカム配合点眼液（選）"
-            },
-            {
-              "slug": "warfarin",
-              "name": "ワルファリンＫ細粒０．２％「ＮＳ」"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "ザルティア錠５ｍｇ（選）"
-            },
-            {
-              "slug": "duloxetine",
-              "name": "サインバルタカプセル３０ｍｇ（選）"
-            },
-            {
-              "slug": "prasugrel",
-              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
-            },
-            {
-              "slug": "tramadol",
-              "name": "トラマールＯＤ錠５０ｍｇ（選）"
             }
           ]
         }
