@@ -1,43 +1,91 @@
 {
   "source": "japan_news",
-  "fetched_at": "2026-06-09T08:59:31.015843+00:00",
-  "total_fetched": 133,
-  "unique_count": 133,
-  "health_related_count": 50,
+  "fetched_at": "2026-06-09T14:25:51.581346+00:00",
+  "total_fetched": 135,
+  "unique_count": 135,
+  "health_related_count": 51,
   "news": [
+    {
+      "id": "ae733d931bfc",
+      "title": "【大人の夏ヘアスタイル】レイヤーカットでふんわり簡単に顔型をカバー！(MAQUIA)",
+      "published": "2026-06-09T13:30:23+00:00",
+      "summary": "自然なくびれのあるひし形シルエットは、トレンドを取り入れながら女性らしさを引き立ててくれると人気のスタイル。顔の縦長感をカバーしつつ小顔見え効果も叶う、最旬ミディアムヘアをご紹介します。",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/d542acf53f41cf3e680f9774e4b197d56ddbe0db?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "dfa425184e38",
+      "title": "家電で“傘の水はじき”が復活？　警視庁が明かす“裏技”に「梅雨の時期に助かる」(オトナンサー)",
+      "published": "2026-06-09T13:15:00+00:00",
+      "summary": "梅雨で傘の出番が増えますが、使用時に水をはじきにくくなったと感じたことはありませんか。傘の撥水（はっすい）効果を復活させる方法について、警視庁警備部災害対策課の公式Xアカウントが紹介しています。",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/630183d8340bb8ae98b830dad743ec1f726d2cb7?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "fc759cc4d63c",
+      "title": "毎朝だるい…完璧な睡眠のために、今日からはじめる『寝る前ルーティン』(ライフハッカー・ジャパン)",
+      "published": "2026-06-09T12:51:01+00:00",
+      "summary": "しっかり眠れていると驚くほど様々な問題が解決します。 疲れやだるさ、元気のなさを感じるときは、まず最初にどれだけ睡眠を取ったのかを思い出してみましょう。 よい睡眠は健康全般だけでなく、運動後の回復",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/008b1a5d5c74b60cbe72f6b801258bd0e1ee532d?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "a710224ffa0b",
+      "title": "腰痛とは違うお尻や太もも裏の痛み、坐骨神経痛や痔にも用いる「承扶」のツボ(家庭画報.com)",
+      "published": "2026-06-09T12:30:24+00:00",
+      "summary": "中医学のエキスパートである鍼灸師の兵頭 明先生が、ツボの効能や位置、効くメカニズムを解説します。健康の土台作りに、不調改善に、1日1分のツボ押しを習慣にしましょう。",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/50f85d5f0fbac0003cc8eb2f58773980ef3c6a8d?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "b47ac197e327",
+      "title": "認知症の人における入院加療がその後の死亡率と医療費に与える因果効果を検証―丁寧な入院判断が重要 - 京都大学",
+      "published": "2026-06-09T12:00:00+00:00",
+      "summary": "認知症の人における入院加療がその後の死亡率と医療費に与える因果効果を検証―丁寧な入院判断が重要&nbsp;&nbsp;京都大学",
+      "sources": [
+        {
+          "name": "京都大学",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5HNVVoN0VLbHQ2NFBJd0FnT1BOWnplSGgta05weVhUV2x0Mnlyb2U5TU53SFl2V1JhM3RwTHN6dW5YMWg2ZHhaVXYyUWdLRWR3enYxNGN6Q3hxdC1YWlRjVmx5TQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f1f94c349f2e",
+      "title": "放置NG！ 『鼠径ヘルニア』のセルフチェックと治療法【医師監修】(メディカルドック)",
+      "published": "2026-06-09T11:01:53+00:00",
+      "summary": "足の付け根（鼠径部）がぽっこり膨らむ、立ち上がると違和感がある。そんな症状を「たいしたことはないだろう」と放置していませんか？ もしかしたら、鼠径（そけい）ヘルニア（脱腸）のサインかもしれません。鼠径",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/0ebb93e7e7290bce2b43b9cbbdc7e884000cbc50?source=rss"
+        }
+      ]
+    },
     {
       "id": "f6271be0ea3d",
       "title": "ハンタウイルスに関する調査 - PR TIMES",
       "published": "2026-06-09T08:00:01+00:00",
-      "summary": "ハンタウイルスに関する調査&nbsp;&nbsp;PR TIMESSNSでも不安広がる「ハンタウイルス感染症」は人から人にうつる？ 症状・感染経路・予防法を専門医が解説（メディカルドック）&nbsp;&nbsp;Yahoo!ニュースハンタウイルス集団感染、その後どうなった? WHO確認から1カ月（朝日新聞）&nbsp;&nbsp;Yahoo!ニュース",
+      "summary": "ハンタウイルスに関する調査&nbsp;&nbsp;PR TIMESハンタウイルス集団感染、その後どうなった? WHO確認から1カ月（朝日新聞）&nbsp;&nbsp;Yahoo!ニュースSNSでも不安広がる「ハンタウイルス感染症」は人から人にうつる？ 症状・感染経路・予防法を専門医が解説（メディカルドック）&nbsp;&nbsp;Yahoo!ニュース",
       "sources": [
         {
           "name": "PR TIMES",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9URXdQRTRDYjlRMUFseEFnemsyQmpRWFRPc08tQ21JU1hkZS14cF81ZEYwUVB1M25FeFlMdzZ2R2ZQSzFiSWd2eHJJYTlhSHBWdVVPeTE1OENmZldIeVpmZDEzNlNNeXhyMXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e09d4126d69b",
-      "title": "プラダによる月面宇宙服のインナーレイヤー公開　アクシオム・スペースと共同開発(FASHIONSNAP)",
-      "published": "2026-06-09T07:54:56+00:00",
-      "summary": "「プラダ（PRADA）」が、米国の宇宙開発企業「アクシオム・スペース（Axiom Space）」と共同開発を進めている次世代宇宙服「アクシオム船外活動ユニット（AxEMU）」の内部に着用するためにデ",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/0ae50f39e3a8ef3c09220c483d1922dfa5eab9e2?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "678601cfa7b5",
-      "title": "「これはありがたい」　傘の撥水効果を回復させる裏ワザ　警視庁が教える身近な日用品の活用法とは(Hint-Pot)",
-      "published": "2026-06-09T07:22:27+00:00",
-      "summary": "日本各地で梅雨入りが発表され、傘の出番が増える季節になりました。使い続けるうちに、水を弾かなくなったと感じる人もいるのではないでしょうか。そんななか、傘の撥水機能を手軽に回復させる方法を、警視庁警備",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/297215ca7925311bf9ed4a0afc793d8c61a2a1ed?source=rss"
         }
       ]
     },
@@ -62,18 +110,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/34d31b006a307f8ff5412ae519234f93bf97de2c?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "b47ac197e327",
-      "title": "認知症の人における入院加療がその後の死亡率と医療費に与える因果効果を検証―丁寧な入院判断が重要 - 京都大学",
-      "published": "2026-06-09T06:02:52+00:00",
-      "summary": "認知症の人における入院加療がその後の死亡率と医療費に与える因果効果を検証―丁寧な入院判断が重要&nbsp;&nbsp;京都大学",
-      "sources": [
-        {
-          "name": "京都大学",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5HNVVoN0VLbHQ2NFBJd0FnT1BOWnplSGgta05weVhUV2x0Mnlyb2U5TU53SFl2V1JhM3RwTHN6dW5YMWg2ZHhaVXYyUWdLRWR3enYxNGN6Q3hxdC1YWlRjVmx5TQ?oc=5"
         }
       ]
     },
@@ -114,14 +150,14 @@
       ]
     },
     {
-      "id": "c2fe836abf05",
-      "title": "個別化ネオアンチゲンワクチン療法において 免疫反応を起こしやすいネオアンチゲンの特徴を解明 - 下野新聞社",
-      "published": "2026-06-09T04:00:00+00:00",
-      "summary": "個別化ネオアンチゲンワクチン療法において 免疫反応を起こしやすいネオアンチゲンの特徴を解明&nbsp;&nbsp;下野新聞社",
+      "id": "3308acc1ecbb",
+      "title": "個別化ネオアンチゲンワクチン療法において 免疫反応を起こしやすいネオアンチゲンの特徴を解明:共同通信PRワイヤー - 福島民友新聞社",
+      "published": "2026-06-09T04:22:00+00:00",
+      "summary": "個別化ネオアンチゲンワクチン療法において 免疫反応を起こしやすいネオアンチゲンの特徴を解明:共同通信PRワイヤー&nbsp;&nbsp;福島民友新聞社",
       "sources": [
         {
-          "name": "下野新聞社",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wS1BzeVhBbm1kNXJhZzc1RUpJWVdoWDMyRE84Q2VUVmFwTzVoRmdUVHg2TTdJQjNlQW5aVFhNbDBuMnU3WTcwNk5sVnVSdGhlZlFPZWhHeXlTdWs?oc=5"
+          "name": "福島民友新聞社",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5WWVGUlFVX3ptanpERVJ4QWZ3ZkZ6S1JxTVRzdy1hOW54OVREQWNnWDRJdW13czBvanAwUnFObk1Wa284eWVicDVBb0N6VlRhNGxETG9LQmplOTZrd19ZUzQwMUtWdUUwMTRHNg?oc=5"
         }
       ]
     },
@@ -158,6 +194,18 @@
         {
           "name": "hiroshima-u.ac.jp",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44X1hTZ2hkQ0ZicDhZajItTWVqVGo0TURUY0xnaVFSOEhWRUhVenZ5TkJNR1pzN2RmQkNURzBTV0ZETW91aFNVQlJZUkNXcmdLa1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ec71a10b208b",
+      "title": "統合失調症の中国伝統医学による治療法｜岡部哲郎 - mbp-japan.com",
+      "published": "2026-06-08T22:13:42+00:00",
+      "summary": "統合失調症の中国伝統医学による治療法｜岡部哲郎&nbsp;&nbsp;mbp-japan.com",
+      "sources": [
+        {
+          "name": "mbp-japan.com",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56QnBZbDRfQld3YzV0c09CTVpZelVrVHIyY0pRUXFLa0lOOGg2amtSTWlUMGZ5dDA0MEhlaTBCYzMtQmI3LXZsYWYzdjZUTGFkRGFIYlE3UkJrcmN1NWc?oc=5"
         }
       ]
     },
@@ -237,7 +285,7 @@
       "id": "f52d193c07c8",
       "title": "7月1日から:HPVワクチンは無料で接種され、対象年齢の女児を優先 - Laodong.vn",
       "published": "2026-06-08T10:49:48+00:00",
-      "summary": "7月1日から:HPVワクチンは無料で接種され、対象年齢の女児を優先&nbsp;&nbsp;Laodong.vn妊婦はHPVワクチンを接種すべきでしょうか？&nbsp;&nbsp;Vietnam.vn【10代以上の女性400名が回答】子宮頸がんワクチンは安全？子宮頸がんワクチンの安全性に関する意識調査&nbsp;&nbsp;ライブドアニュース",
+      "summary": "7月1日から:HPVワクチンは無料で接種され、対象年齢の女児を優先&nbsp;&nbsp;Laodong.vnHPVワクチン、男性も定期接種対象に 27年4月めどに、自民・議連が決議 | 日刊薬業 - 医薬品産業の総合情報サイト&nbsp;&nbsp;日刊薬業【10代以上の女性400名が回答】子宮頸がんワクチンは安全？子宮頸がんワクチンの安全性に関する意識調査&nbsp;&nbsp;ライブドアニュース",
       "sources": [
         {
           "name": "Laodong.vn",
@@ -333,7 +381,7 @@
       "id": "663ca5afcc6a",
       "title": "AIで「万能ワクチン」開発、ケンブリッジ大学が発表。インフルエンザや新型コロナ、未知のウイルスにも効果か - Gadget Gate",
       "published": "2026-06-08T02:30:00+00:00",
-      "summary": "AIで「万能ワクチン」開発、ケンブリッジ大学が発表。インフルエンザや新型コロナ、未知のウイルスにも効果か&nbsp;&nbsp;Gadget Gate英ケンブリッジ大学、AIが設計したワクチンの臨床試験に成功 未知の変異株にも備える“万能型”（ITmedia NEWS）&nbsp;&nbsp;Yahoo!ニュース英ケンブリッジ大、AIで未知のウイルスに対応可能な「万能型ワクチン」開発成功&nbsp;&nbsp;ビジネス+IT",
+      "summary": "AIで「万能ワクチン」開発、ケンブリッジ大学が発表。インフルエンザや新型コロナ、未知のウイルスにも効果か&nbsp;&nbsp;Gadget Gate英ケンブリッジ大、AIで未知のウイルスに対応可能な「万能型ワクチン」開発成功（ビジネス＋IT）&nbsp;&nbsp;Yahoo!ニュースウイルス変異にも対応のワクチン、AIで設計 英ケンブリッジ大&nbsp;&nbsp;日本経済新聞英ケンブリッジ大学、AIが設計したワクチンの臨床試験に成功 未知の変異株にも備える“万能型”&nbsp;&nbsp;ITmedia",
       "sources": [
         {
           "name": "Gadget Gate",
@@ -566,42 +614,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/77990ee9ab025901243d3e93729ba8edb8d6eeb2?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "3692fb06fd49",
-      "title": "「出血は痔のせいだ→ じつは『大腸がん』だった」 自己判断の危険性を医師が解説(メディカルドック)",
-      "published": "2026-06-04T10:03:24+00:00",
-      "summary": "痔は多くの人に見られる身近な病気ですが、じつは大腸疾患と症状が重なることが少なくありません。「痔だから大丈夫」と思い込み、放置してしまうと重大な病気の発見が遅れることもあります。痔と大腸疾患の関わりや",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/9ea952fda009532d9d512156350db88458432568?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "7fe30f233453",
-      "title": "「宇宙からドローンを遠隔充電する装置」中国が開発中(ギズモード・ジャパン)",
-      "published": "2026-06-04T10:00:02+00:00",
-      "summary": "スマホの充電も、こうなったらいいのに。 衛星への充電や宇宙船への化学推進剤の補充など、宇宙空間での補給技術をめぐる競争が各国政府や民間企業の間で激しさを増しています。 そんな中、中国の西安電子科技",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/4bd21f28e1554e272c50a3043834f4f345683884?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "c68d9ef08cff",
-      "title": "ヒトはなぜ冬眠しないのか？　43万年前の骨が明かす進化の分岐点(Forbes JAPAN)",
-      "published": "2026-06-04T09:00:00+00:00",
-      "summary": "スペイン北部にある鍾乳洞の奥深くで、我々人類の祖先に関する定説を覆す骨が発見された。シマ・デ・ロス・ウエソス（Sima de los Huesos、「骨の採掘坑」の意味）と呼ばれる竪穴から引き上げられ",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/376dd47a3cdaad3d5fdc3ba426a25a1a04718025?source=rss"
         }
       ]
     }
