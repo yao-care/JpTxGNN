@@ -1,10 +1,22 @@
 {
   "source": "japan_news",
-  "fetched_at": "2026-06-11T15:34:38.626283+00:00",
-  "total_fetched": 137,
-  "unique_count": 137,
-  "health_related_count": 56,
+  "fetched_at": "2026-06-11T20:09:44.238007+00:00",
+  "total_fetched": 136,
+  "unique_count": 136,
+  "health_related_count": 54,
   "news": [
+    {
+      "id": "9179a904a528",
+      "title": "胃がんの主な原因“ピロリ菌”…気づかぬうちに感染?無症状のまま病気進行　早期発見・対処を(FNNプライムオンライン)",
+      "published": "2026-06-11T20:00:41+00:00",
+      "summary": "感染すると胃がんなどのリスクを高めるものの、感染に気づかないことも多いというピロリ菌。その早期発見や対処法について医師に聞いた。",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/e3f4724fea91372192f79769b3296a841d9f57eb?source=rss"
+        }
+      ]
+    },
     {
       "id": "32d24218d5b4",
       "title": "生存率の低い「胆道がん」 発見につながる検査は何？ - 日経Gooday",
@@ -18,14 +30,14 @@
       ]
     },
     {
-      "id": "a56b4927cc78",
+      "id": "39e901f2126d",
       "title": "「心臓病は男性の病気」は大間違い！「ドキドキは更年期」と決めつけないで - 日本経済新聞",
       "published": "2026-06-11T15:00:00+00:00",
-      "summary": "「心臓病は男性の病気」は大間違い！「ドキドキは更年期」と決めつけないで&nbsp;&nbsp;日本経済新聞心筋梗塞でも不整脈でもない \"心臓に異常なし\"の患者が抱えていた病…更年期女性は要注意｢微小血管狭心症｣とは&nbsp;&nbsp;東洋経済オンラインなぜ「急性心筋梗塞」や「狭心症」は検査が『要』となるのか？ 医師が徹底解説（メディカルドック）&nbsp;&nbsp;Yahoo!ニュース心筋梗塞でも不整脈でもない “心臓に異常なし”の患者が抱えていた病…更年期女性は要注意「微小血管狭心症」とは&nbsp;&nbsp;Yahoo!ニュース",
+      "summary": "「心臓病は男性の病気」は大間違い！「ドキドキは更年期」と決めつけないで&nbsp;&nbsp;日本経済新聞Google ニュースで見出しと意見をもっと見る",
       "sources": [
         {
           "name": "日本経済新聞",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVHhxWDVIMzAwN1NKZTBsVUR5NDY0aFlqVFZacENNZVJKcUJVQVdqV0cyWE03RVU4T2VQOGw1dnBZTmdEaEFfMGlzdVZ1VFRFM0ZHOGl4d3RtQkNRQnZxaXZUMHRLSU9maEdlVEg1Z3dTNWt6QWVoNVFDTDZ0U04yMnBZMWQ2c19LZ0RUdQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02dURCMlNWRWRTRnJTUm0xQzEyT2FIVlppcUFkWnpOam1Ya0Voc0RSd0ZHTkdCQ0JtSnZWaC1LZS1Ua0NPWkJYdUJoRFdBN05HM3VyaUx6VGlKT1pkREdWT2VqVXowQV9WMUdkQg?oc=5"
         }
       ]
     },
@@ -54,42 +66,6 @@
       ]
     },
     {
-      "id": "d35342cdcdad",
-      "title": "「着痩せ効果あり」「全色買った」GUの『990円トップス』軽くて涼しいし、体型カバーもできて優秀なんです！《着用レビュー》(BuzzFeed Japan)",
-      "published": "2026-06-11T12:35:01+00:00",
-      "summary": "夏でも涼しく着こなせる「おしゃれトップス」を、お手頃価格で購入しました！",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/b8f750c9769330579e9c1416fdfdd8aeeb019c04?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "439bb32bac34",
-      "title": "しゃっくりを止めたいときは「天突」のツボ押しを。せきや喉のつかえにも効果的(家庭画報.com)",
-      "published": "2026-06-11T12:30:02+00:00",
-      "summary": "中医学のエキスパートである鍼灸師の兵頭 明先生が、ツボの効能や位置、効くメカニズムを解説します。健康の土台作りに、不調改善に、1日1分のツボ押しを習慣にしましょう。",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/f873370fa5f7e01034838ce8ac198292ef7127be?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "1312f2ea1abe",
-      "title": "ナフサ不足「生死に関わる」医療的ケア児の母　使い捨ての栄養剤用シリンジが品薄…“再使用禁止”もやむを得ず洗って使う日々「いつまで続くか…怖い」(FNNプライムオンライン)",
-      "published": "2026-06-11T12:26:20+00:00",
-      "summary": "中東情勢の影響で石油製品「ナフサ」の供給が懸念される中、医療用製品の不足も深刻化。医療的なケアを必要とする子供の母親は「生死に関わる」と危機感を感じている。",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/fb142fababbf5b4f2aa96a53c42ff7f85344528e?source=rss"
-        }
-      ]
-    },
-    {
       "id": "e7ed60c35eb1",
       "title": "抗がん剤治療による「まつ毛・眉毛脱毛」をケアする『医療アートメイク』とは？【医師解説】(メディカルドック)",
       "published": "2026-06-11T11:02:07+00:00",
@@ -98,6 +74,18 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/840673dfa0c3f5d6d1486fae2307f56616a10b37?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "014c03b9151b",
+      "title": "心臓発作と脳卒中は、99%のケースで4つの要因によって引き起こされると考えられている。予測は可能だろうか？｜近未来 - Futuro Prossimo",
+      "published": "2026-06-11T09:55:09+00:00",
+      "summary": "心臓発作と脳卒中は、99%のケースで4つの要因によって引き起こされると考えられている。予測は可能だろうか？｜近未来&nbsp;&nbsp;Futuro Prossimo",
+      "sources": [
+        {
+          "name": "Futuro Prossimo",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWS1oa2pUVTVJT3g5RmNyTGNramJfcFFMdHU1WnVPR0JXTFJ6T2ZZN2tqQ01JR3RnZk9tZXBTMjFSYVBxYnBHMUZ4STlzXzdfQnljWVE4YnlRRWoxNmJUQ1B3a3V1cTVyR3pRR09CTmhZcThhTWxac1pVNkpNM0RkWllQNnVrZl9Wbnl2UWEtTlhKTXFYbFJXWkhTSWxDeGxLcUtYbTV3?oc=5"
         }
       ]
     },
@@ -273,7 +261,7 @@
       "id": "c2eccc15f7a9",
       "title": "ハンタウイルス感染12人に 集団感染起きたクルーズ船巡り WHOが発表 - 産経ニュース",
       "published": "2026-06-10T21:43:51+00:00",
-      "summary": "ハンタウイルス感染12人に 集団感染起きたクルーズ船巡り WHOが発表&nbsp;&nbsp;産経ニュースハンタウイルス感染者12人に クルーズ船巡り新たに1人確認（共同通信）&nbsp;&nbsp;Yahoo!ニュース【写真】ハンタウイルス感染者１２人に クルーズ船巡り新たに１人確認&nbsp;&nbsp;南日本新聞ハンタウイルス感染者12人に クルーズ船巡り新たに1人確認&nbsp;&nbsp;北海道新聞デジタルハンタウイルスに関する調査&nbsp;&nbsp;ニコニコニュース",
+      "summary": "ハンタウイルス感染12人に 集団感染起きたクルーズ船巡り WHOが発表&nbsp;&nbsp;産経ニュースGoogle ニュースで見出しと意見をもっと見る",
       "sources": [
         {
           "name": "産経ニュース",
@@ -530,18 +518,6 @@
         {
           "name": "時事メディカル",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1NenJJd1pwWjUwdXZXTE5mMlRGUk1PTEZXcXZIU0c2dnhyZFVkQ2ljanBjSzVadFp0M25QbDBibE96QTl1VkRBT0w1VDbSAVJBVV95cUxNVHdCNGx6ZjBZa2FadnNaa21GV2J2cHJpN2dEWUFZWXNlcU8zMWViME9JVHpXX3I4UG9Lb0YzeFhvdUlNUTdwVnZuQ2RJMmt6bE13?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4c755af95b84",
-      "title": "最低賃金を引き上げると自殺リスクは低下するか？｜CareNet.com - CareNet.com",
-      "published": "2026-06-09T19:00:00+00:00",
-      "summary": "最低賃金を引き上げると自殺リスクは低下するか？｜CareNet.com&nbsp;&nbsp;CareNet.com",
-      "sources": [
-        {
-          "name": "CareNet.com",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlMXJIVzR3Z2l0Q2NhMG9Jd0xCaG9BZjV3QTJ4cjdPVHpfLU5LMWw5c21vSURqT0xPVExERV83THlvd3U5b3o0RDRObzNCTEwxN1k0em54UU9fZXJqbDBZ?oc=5"
         }
       ]
     },
