@@ -1,31 +1,175 @@
 {
   "source": "japan_news",
-  "fetched_at": "2026-06-12T02:36:32.017515+00:00",
-  "total_fetched": 136,
-  "unique_count": 136,
-  "health_related_count": 51,
+  "fetched_at": "2026-06-12T09:56:12.479257+00:00",
+  "total_fetched": 133,
+  "unique_count": 133,
+  "health_related_count": 52,
   "news": [
     {
-      "id": "6d116a011937",
-      "title": "出産と同時に末期がんが見つかった1児の母の闘病と葛藤の日々　「とにかく目の前のことに集中。死から逃げよう、というのが私のやり方だった」(AERA with Kids＋)",
-      "published": "2026-06-12T02:30:34+00:00",
-      "summary": "7歳の女の子のママとして、そして車いすユーザーとして、日々奮闘する海野優子さん。出産と同時に手の施しようがないステージ4相当の末期がんが見つかったものの、奇跡的に治療法が見つかり、一命を取りとめまし",
+      "id": "9958b37a9afd",
+      "title": "長く一緒に過ごした白血病の子が亡くなっていく…号泣した看護師が支える\"血液がんの最新治療\"(プレジデントオンライン)",
+      "published": "2026-06-12T09:15:39+00:00",
+      "summary": "かつて血液がんは、5年生存率が低く、不治の病と言われていた。しかし近年、その認識は大きく変化している。目覚ましい勢いで研究開発が進むなか、鳥取大学医学部附属病院では施設認定を取得するための体制を整え、",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/049961c625412ffa462852aa7936044dc89aa256?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/8dd0b305dd55f01d49e7ff123a5b5bb87e3e6616?source=rss"
         }
       ]
     },
     {
-      "id": "d7da4a88a9f4",
-      "title": "発表での声の震えは「止めようとすると悪化する」自律神経を味方につける緊張対策(高校生新聞)",
-      "published": "2026-06-12T02:05:08+00:00",
-      "summary": "高校生世代は、授業や部活など、大勢の人の前で発表する機会が多い。緊張して心臓がドキドキし、声が震えてしまうのを抑えて、落ち着いて臨む方法はあるのだろうか。原因と向き合い方を、自律神経に詳しい順天堂大学",
+      "id": "d360c6075875",
+      "title": "『腎臓病』の初期症状とは？ 沈黙の臓器を守るために知るべき検査の基準【医師解説】(メディカルドック)",
+      "published": "2026-06-12T09:06:24+00:00",
+      "summary": "「腎臓病」は、初期のうちは自覚症状がほとんどなく、気づいたときには病状が進んでいることも少なくありません。だからこそ、“早期発見・早期治療”がとても重要です。腎臓の負担を最小限に抑え、進行を防ぐために",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/458ae120c2f37c5b55c0942b9df5d5f816ed0845?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/a31d5eebcd979d4bb35a8658633b0e420356e44d?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "b450a75d3cd5",
+      "title": "“ステージ1で生存率92%、4で約18%”…大腸がん「早く見つけて早く治す」意義、市民講座で京大医師らが解説(メディカルドック)",
+      "published": "2026-06-12T09:03:13+00:00",
+      "summary": "大腸がんは、早期発見・早期治療によって治癒が期待できる病気です。一方、「便潜血検査って本当に意味あるの？」「大腸カメラを受けるのが怖い」「どの病院で治療を受ければよいのか」など、疑問や不安を抱える人も",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/b459e19a54fd40f3fe25a327bc06d5d21a08b407?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "a1650596bcfa",
+      "title": "【食レポ】モンテールと代々木上原の名店「アステリスク」がコラボ！数々の受賞歴を持つ和泉光一シェフ監修の「ご褒美スイーツ」を実食&店舗も直撃(ウォーカープラス)",
+      "published": "2026-06-12T09:00:00+00:00",
+      "summary": "洋生菓子を製造・販売する株式会社モンテールと、東京・代々木上原「ASTERISQUE(アステリスク)」のコラボ商品が、全国のスーパーマーケットで2026年6月1日～7月31日(金)の期間限定で販売中。",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/c89dd008aee5f0370adf0e6809c6469a0ec2b38b?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "545031201f56",
+      "title": "明日から変わるモノレール浜松町、コンコース内部を紹介。改札は3階に集約(トラベル Watch)",
+      "published": "2026-06-12T09:00:00+00:00",
+      "summary": "東京モノレールは、浜松町駅西口開発事業で建て替えを行なっている「モノレール浜松町駅」において、3階に新設する北改札と中央改札の運用を6月13日に開始する。 これに伴い、現在（6月12日まで）供用",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/2cebc62081859ac5d45b17e21edf5828022350ad?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "39ab94d7d740",
+      "title": "【新店】京都・四条にスムージー専門店「DRINK DRANK」登場！　梅雨のジメジメを吹き飛ばすフレッシュ果実を楽しもう♡(ufu.)",
+      "published": "2026-06-12T09:00:00+00:00",
+      "summary": "私たちが「健康や美容にいいもの」として日常に取り入れているスムージー。その認知が日本で一気に広まったのは2012年頃のことですが、それよりも遥か昔——25年以上前、まだ日本中が「スムージーって何？ 」",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/df83cac2cdd167f2d77d6cf9798ee1af94626217?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "087fa0e452ca",
+      "title": "「副作用が発現しやすい患者」を事前に見極める ―新世代睡眠薬レンボレキサントによる悪夢のリスク因子を世界で初めて解明 - miyazaki-u.ac.jp",
+      "published": "2026-06-12T06:01:14+00:00",
+      "summary": "「副作用が発現しやすい患者」を事前に見極める ―新世代睡眠薬レンボレキサントによる悪夢のリスク因子を世界で初めて解明&nbsp;&nbsp;miyazaki-u.ac.jp",
+      "sources": [
+        {
+          "name": "miyazaki-u.ac.jp",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9EMHlsTGVOM0h0Uno4cTBWRVdyWUpUU29rUU9nTFVQUEVLcHJyWnoyeHlFby1oYXJOb3lZWkJTb0V0SmFlYTM1dGU4VFpIRnZFUG0wc3V1TkFyS1VDVFRnNUtUeWxOOVNfOUxIOWw4UC1pUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9c0d93c988d8",
+      "title": "「40代からの体の変化は衰えじゃない」7児の母が開発、Vゾーンからヒップまで潤すデリケートゾーン用シートマスク - PR TIMES",
+      "published": "2026-06-12T06:00:02+00:00",
+      "summary": "「40代からの体の変化は衰えじゃない」7児の母が開発、Vゾーンからヒップまで潤すデリケートゾーン用シートマスク&nbsp;&nbsp;PR TIMES",
+      "sources": [
+        {
+          "name": "PR TIMES",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ld1BlSDc3MVNLZ1BFVFRET016ZHI2bEkyb0lSVUJ0Zi1RSWpsTHhJc1NlYlJOaW1OWnNxVTh2NWMwU285dG9HX0xPeVl2ZnFIel95YkhKazREdjl4TElqUUF5eFZWSUo4eGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f0f0cf548dc2",
+      "title": "ホルモン受容体陽性HER2陰性乳癌におけるTP53変異は 幅広い年齢層で治療継続期間短縮と関連 ～全国がんゲノム医療データベースを用いたリアルワールド解析～ - yokohama-cu.ac.jp",
+      "published": "2026-06-12T05:00:46+00:00",
+      "summary": "ホルモン受容体陽性HER2陰性乳癌におけるTP53変異は 幅広い年齢層で治療継続期間短縮と関連 ～全国がんゲノム医療データベースを用いたリアルワールド解析～&nbsp;&nbsp;yokohama-cu.ac.jp",
+      "sources": [
+        {
+          "name": "yokohama-cu.ac.jp",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAzdU95MW5uZmFENXlYMkt4OEswaGxvaWdnT0JUXzM1aWdSMEVuaFluN0hrdHU4T2h5TVpvLUZoSndxNm5mX3piaUJ5eTJkV2tCaUtFbnFlSjhPZVk5TzFjOUdQWERBRWowQkZSMU14Y01TckJTLXl3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8af3066131bf",
+      "title": "中等症から重症のクローン病患者さんへのリサンキズマブの皮下投与の導入療法、承認事項一部変更承認を申請 - 河北新報オンライン",
+      "published": "2026-06-12T05:00:00+00:00",
+      "summary": "中等症から重症のクローン病患者さんへのリサンキズマブの皮下投与の導入療法、承認事項一部変更承認を申請&nbsp;&nbsp;河北新報オンライン",
+      "sources": [
+        {
+          "name": "河北新報オンライン",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjOXhRQkpWRmhpZzlpTmhVNUh3dC1HQk44S0U3V1NJbC1pcUdTdm9IU1pXOVVhXzhBejRlQklicm9fWEIyNTFianhHbkl6dVB3THZyTjRvcDlaek9S?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ce31655f7739",
+      "title": "JAXAが「H3」ロケット6号機を打ち上げ　2段目の軌道投入を達成(sorae 宇宙へのポータルサイト)",
+      "published": "2026-06-12T03:21:19+00:00",
+      "summary": "JAXA（宇宙航空研究開発機構）は日本時間2026年6月12日に「H3」ロケット6号機の打ち上げを実施しました。JAXAは公式ライブ配信にて、メインミッションとなるロケット2段目の軌道投入達成を発表し",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/5cba7f8a9a25a23c4df70e2df488d4ed5fc41df2?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "8f8295ee4737",
+      "title": "鶏卵を傷つけず雌雄判別　九州工大など開発、AI活用し精度97%(西日本新聞me)",
+      "published": "2026-06-12T02:59:51+00:00",
+      "summary": "九州工業大などの研究グループが、鶏の卵の段階で雌雄を判別する技術を共同開発した。温め始めて3日目の卵に光を当てて内部を可視化し、撮影した画像を人工知能（AI）に診断させることで、卵を傷つけずに最高で",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/f4642adfce7d4b68240200121d7bb120675ac886?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "40547c056fd2",
+      "title": "神経難病の創薬加速へ――第1回神経治療学会ウェビナー開催(Medical Note)",
+      "published": "2026-06-12T02:54:21+00:00",
+      "summary": "一般社団法人日本神経治療学会（以下、日本神経治療学会）と株式会社メディカルノートによる第1回連携ウェビナーが2026年3月26日に開催されました。 テーマは「PMDA経験者が語るレギュラトリーサイエ",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/97770ec37927e8bb8bf95e502130ca76423e29f0?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "fcb547861fe6",
+      "title": "うつや不安、PTSD治療に新たな光 神経細胞でない注目の「標的」とは すでに有望な候補も（ナショナル ジオグラフィック日本版） - Yahoo!ニュース",
+      "published": "2026-06-12T02:02:34+00:00",
+      "summary": "うつや不安、PTSD治療に新たな光 神経細胞でない注目の「標的」とは すでに有望な候補も（ナショナル ジオグラフィック日本版）&nbsp;&nbsp;Yahoo!ニュース",
+      "sources": [
+        {
+          "name": "Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5eFJtTV8wb3RLTms2Rjd3Z1lJWGh0ZzJZLS1QckRiT1BjdEZueTJnMzl1UWItMHlSbHhROXE1Q1VMWlRsY2Z3SjdfTWxpVE5RcFhRZzFzV2tPQ20yWDFIOWNLVE5RUGFTRnZ0bmRPckE3LXhrcWhHV04xNzJlcUE?oc=5"
         }
       ]
     },
@@ -54,18 +198,6 @@
       ]
     },
     {
-      "id": "4b7f1df7a4f9",
-      "title": "【大石が聞く】始まって5年“ワクチン問題”当事者は…？新型コロナワクチン 原因究明は。 - hicbc.com",
-      "published": "2026-06-12T01:20:31+00:00",
-      "summary": "【大石が聞く】始まって5年“ワクチン問題”当事者は…？新型コロナワクチン 原因究明は。&nbsp;&nbsp;hicbc.com",
-      "sources": [
-        {
-          "name": "hicbc.com",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WTTV5UGpNQTVIcHBlZzdxZ3hkZmRHcUJ3YVJCMjdWeE1jb2s5UUpMbjlvM3RpYThjQmdNYjZWSk9SRmJsdFlyNjJCLXA0R0NQWXNqbkloOHFaQmYtMWxzRGgzMTFXRWJEckxGSkowdjBmR3gzN3c?oc=5"
-        }
-      ]
-    },
-    {
       "id": "f42a2e7fdbe8",
       "title": "金はなぜ錆びずに輝き続ける？　単に「酸素と結びつきにくい」だけじゃない　米大学が学術誌で発表(ITmedia NEWS)",
       "published": "2026-06-11T23:05:08+00:00",
@@ -78,8 +210,8 @@
       ]
     },
     {
-      "id": "a984afc2bba9",
-      "title": "医師が明かす、大腸がんを防ぐ「最高の食事」。キーワードは“リアルフード”（海外）(BUSINESS INSIDER JAPAN)",
+      "id": "e1286ff8481e",
+      "title": "50歳未満で急増する大腸がん。医師が明かすNGな食事（海外）(BUSINESS INSIDER JAPAN)",
       "published": "2026-06-11T22:10:02+00:00",
       "summary": "50歳未満の若年層の間で、大腸がん（「若年性大腸がん」）の発症率が急増している。 新たな研究によると、超加工食品、抗生物質の過剰使用が、いずれも一因になっている可能性があるという。 研究者や医師たちが",
       "sources": [
@@ -92,7 +224,7 @@
     {
       "id": "dc994f97c607",
       "title": "創薬力の強化には「患者をプラセボに割り付けない」 - 日経バイオテクONLINE",
-      "published": "2026-06-11T22:00:46+00:00",
+      "published": "2026-06-11T22:02:15+00:00",
       "summary": "創薬力の強化には「患者をプラセボに割り付けない」&nbsp;&nbsp;日経バイオテクONLINEGoogle ニュースで見出しと意見をもっと見る",
       "sources": [
         {
@@ -246,10 +378,10 @@
       ]
     },
     {
-      "id": "c3db3e42a9da",
-      "title": "医師が明かす、大腸がんを防ぐ「最高の食事」。キーワードは“リアルフード” - Business Insider Japan",
+      "id": "7a7524f87f14",
+      "title": "50歳未満で急増する大腸がん。医師が明かすNGな食事 - Business Insider Japan",
       "published": "2026-06-11T03:00:00+00:00",
-      "summary": "医師が明かす、大腸がんを防ぐ「最高の食事」。キーワードは“リアルフード”&nbsp;&nbsp;Business Insider Japan医師が明かす、大腸がんを防ぐ「最高の食事」。キーワードは“リアルフード”（海外）（BUSINESS INSIDER JAPAN）&nbsp;&nbsp;Yahoo!ニュース大腸がんのリスクを下げる生活習慣 ～きょうからできる食事・運動・お酒・たばこの話～【消化器外科医が語る大腸がんのお話】&nbsp;&nbsp;Yahoo!ニュース",
+      "summary": "50歳未満で急増する大腸がん。医師が明かすNGな食事&nbsp;&nbsp;Business Insider Japan50歳未満で急増する大腸がん。医師が明かすNGな食事（海外）（BUSINESS INSIDER JAPAN）&nbsp;&nbsp;Yahoo!ニュース大腸がんのリスクを下げる生活習慣 ～きょうからできる食事・運動・お酒・たばこの話～【消化器外科医が語る大腸がんのお話】&nbsp;&nbsp;Yahoo!ニュース",
       "sources": [
         {
           "name": "Business Insider Japan",
@@ -357,7 +489,7 @@
       "id": "c2eccc15f7a9",
       "title": "ハンタウイルス感染12人に 集団感染起きたクルーズ船巡り WHOが発表 - 産経ニュース",
       "published": "2026-06-10T21:43:51+00:00",
-      "summary": "ハンタウイルス感染12人に 集団感染起きたクルーズ船巡り WHOが発表&nbsp;&nbsp;産経ニュース",
+      "summary": "ハンタウイルス感染12人に 集団感染起きたクルーズ船巡り WHOが発表&nbsp;&nbsp;産経ニュースGoogle ニュースで見出しと意見をもっと見る",
       "sources": [
         {
           "name": "産経ニュース",
@@ -368,7 +500,7 @@
     {
       "id": "2cec858bf344",
       "title": "兄がボケました～認知症と介護と老後と「第77回 兄に音楽を聴かせてみたら」 (1/1) - 介護ポストセブン",
-      "published": "2026-06-10T21:00:00+00:00",
+      "published": "2026-06-10T21:02:44+00:00",
       "summary": "兄がボケました～認知症と介護と老後と「第77回 兄に音楽を聴かせてみたら」 (1/1)&nbsp;&nbsp;介護ポストセブン",
       "sources": [
         {
@@ -381,7 +513,7 @@
       "id": "702e090141db",
       "title": "不眠の重症度は日本人の認知症リスクに影響するか？｜CareNet.com - CareNet.com",
       "published": "2026-06-10T19:00:00+00:00",
-      "summary": "不眠の重症度は日本人の認知症リスクに影響するか？｜CareNet.com&nbsp;&nbsp;CareNet.com睡眠不足と過眠は臓器の老化指標と関連｜ニュース&nbsp;&nbsp;dm-net.co.jp昼寝は未来への投資！？&nbsp;&nbsp;選挙ドットコム",
+      "summary": "不眠の重症度は日本人の認知症リスクに影響するか？｜CareNet.com&nbsp;&nbsp;CareNet.com睡眠不足と過眠は臓器の老化指標と関連｜ニュース&nbsp;&nbsp;dm-net.co.jp1日8時間以上長く寝ることが必ずしも健康に良いわけではないという研究結果が出た。 あまりにも少なく寝るだけでなく、過度に長く寝る場合にも身体の老化が早まる可能性があるという分析だ。12日、業界によると..&nbsp;&nbsp;매일경제",
       "sources": [
         {
           "name": "CareNet.com",
@@ -438,18 +570,6 @@
       ]
     },
     {
-      "id": "a1d552152c70",
-      "title": "第26回隈病院甲状腺研究会を開催しました― 「原発性副甲状腺機能亢進症」をテーマに最新知見を共有 ― - 愛媛新聞",
-      "published": "2026-06-10T07:15:06+00:00",
-      "summary": "第26回隈病院甲状腺研究会を開催しました― 「原発性副甲状腺機能亢進症」をテーマに最新知見を共有 ―&nbsp;&nbsp;愛媛新聞",
-      "sources": [
-        {
-          "name": "愛媛新聞",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IV25PV0h1ZUp4ZkZnZW5rZWFqak4zREg3V3FiTGJKckhhRlZwOWc1SWJ2NFdiMy1fNDF6SVd4VE5MR09tVTE3WE9iSlRyTENYeER4N3NNdnE2R2s?oc=5"
-        }
-      ]
-    },
-    {
       "id": "62bd5e5c7929",
       "title": "活断層で潤滑物質「酸化グラフェン」発見 スロー地震とも関連か 東北大(Science Portal)",
       "published": "2026-06-10T06:59:08+00:00",
@@ -474,18 +594,6 @@
       ]
     },
     {
-      "id": "0dc58106e218",
-      "title": "マカオで今年2例目のツツガムシ病感染確認…患者は造園業従事の女性 - マカオ新聞",
-      "published": "2026-06-10T02:39:00+00:00",
-      "summary": "マカオで今年2例目のツツガムシ病感染確認…患者は造園業従事の女性&nbsp;&nbsp;マカオ新聞",
-      "sources": [
-        {
-          "name": "マカオ新聞",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14V1YxT3YwSWhWTXlwWldFS3dkOFRlbDZ4SnAxd21ZbnlEZTFjT0JIcTZWS2toYWNSZ3J6T0FaZ1o0QTQwazhGVzJla3RLa19mTUV3SnNn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e1e24dbc88b7",
       "title": "なぜ片頭痛が増えている？　気候変動が関連か　原因と対処法を専門家に聞いた(ナショナル ジオグラフィック日本版)",
       "published": "2026-06-10T02:01:50+00:00",
@@ -494,18 +602,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/54798fe004dc316575f5802b91a401536661bdbb?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "d2b2d5f587b9",
-      "title": "ぽっちゃりは健康的？ 医師が指摘する沖縄の誤解 肥満と寿命の関係 - au Webポータル",
-      "published": "2026-06-10T02:00:00+00:00",
-      "summary": "ぽっちゃりは健康的？ 医師が指摘する沖縄の誤解 肥満と寿命の関係&nbsp;&nbsp;au Webポータル",
-      "sources": [
-        {
-          "name": "au Webポータル",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE53UFo0d0lJdm52djlOS3JyZDBiUzFjZThtWG1VbTltV3EwRmc1ckZ4RldXek56OVB4ZzlDVHN5SFNzUXVXMXp2VGhtcWdUQ05kWHhZNlozZXFNeVlIdlV1UXpVZDhlNjVKekdfNGVnSnkyV1B1ZWRHaTVLSQ?oc=5"
         }
       ]
     },
@@ -530,90 +626,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/8b0cd90db57556830a0c4fdf6f7b199cecf1a56c?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "71795b52d0ce",
-      "title": "人間のDNAから発見された未知の分身群。心臓や血液の病気の新しい手掛かりになるか(ギズモード・ジャパン)",
-      "published": "2026-06-09T21:00:01+00:00",
-      "summary": "人間には、「ジャンクDNA」と呼ばれてきたDNA領域があります。 ジャンク、つまりガラクタ。人間の体に“ガラクタなDNA”があるの？ と不思議に思いますよね。 DNAはよく「体の設計図」と言われま",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/506d2cb562642e5868aa2e2198bdbf63d1806abf?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "ec59d999243f",
-      "title": "JAXAが「H3」ロケット6号機の打ち上げを6月12日に再設定　H3飛行再開に挑む新形態の試験機(sorae 宇宙へのポータルサイト)",
-      "published": "2026-06-09T14:44:57+00:00",
-      "summary": "JAXA（宇宙航空研究開発機構）は2026年6月9日、「H3」ロケット6号機（30形態試験機）の再設定された打ち上げ予定日を発表しました。 6月12日午前に再設定 発表によると、H3ロケット6号機の",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/d4d4bf66d2df5ca3f840938442ff5115141b08b6?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "f1f94c349f2e",
-      "title": "放置NG！ 『鼠径ヘルニア』のセルフチェックと治療法【医師監修】(メディカルドック)",
-      "published": "2026-06-09T11:01:53+00:00",
-      "summary": "足の付け根（鼠径部）がぽっこり膨らむ、立ち上がると違和感がある。そんな症状を「たいしたことはないだろう」と放置していませんか？ もしかしたら、鼠径（そけい）ヘルニア（脱腸）のサインかもしれません。鼠径",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/0ebb93e7e7290bce2b43b9cbbdc7e884000cbc50?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "bf91b5e5634b",
-      "title": "「地球型」惑星は多くあれど─地球の奇跡的「ちょうどよさ」を宇宙物理学者が解説(Forbes JAPAN)",
-      "published": "2026-06-09T07:15:00+00:00",
-      "summary": "熊本県阿蘇くじゅう国立公園にある宿泊体験型の公開天文台「南阿蘇ルナ天文台」は、国際的に広まりつつある社会的処方の観点から天文体験が心身に与える影響を調査研究し、ウェルビーイングに資する体験型プログラム",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/9749bebbc42a0533d67abe5423166e56c8ca9f4a?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "8dd170f2a1c0",
-      "title": "5300年前の「アイスマン」、ミイラ化した体から今も生き続ける微生物を検出(CNN.co.jp)",
-      "published": "2026-06-09T06:19:00+00:00",
-      "summary": "（CNN） 「アイスマン・エッツィ」の愛称で知られる5300年前に死亡した男性のミイラは、保存状態が良いことで知られる。今回新たな研究によって、エッツィが微生物の「動的生態系」となっていることが分かっ",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/34d31b006a307f8ff5412ae519234f93bf97de2c?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "6bf0cc751bec",
-      "title": "慢性期の脳性まひ、乳歯幹細胞投与で改善 名大で臨床試験が進行(Science Portal)",
-      "published": "2026-06-09T05:43:58+00:00",
-      "summary": "有効で根本的な治療法がない慢性期の脳性まひでも、乳歯の幹細胞を使うと改善が見られることを、名古屋大学などの研究グループがラットモデルでの実験で明らかにした。現在、同大医学部附属病院での臨床試験に移行",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/dba7a3ebe0ae6a6d85c747b8c2949d7f6bf84ddd?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "3b1ee9165af6",
-      "title": "悪天候で延期のH3ロケット6号機、12日に打ち上げ　補助エンジンなしの新形態(産経新聞)",
-      "published": "2026-06-09T05:33:11+00:00",
-      "summary": "宇宙航空研究開発機構（JAXA）は9日、日本の主力大型ロケット「H3」6号機を、12日午前9時53分に鹿児島県南種子町の種子島宇宙センターから打ち上げると発表した。当初は10日の予定だったが、発射地点",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/3e47de4af849c5870335dd0a3db379739a1344fe?source=rss"
         }
       ]
     }
