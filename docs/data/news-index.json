@@ -1,15 +1,114 @@
 {
-  "generated": "2026-06-13T19:07:48.864874+00:00",
-  "count": 10,
+  "generated": "2026-06-14T02:40:35.128989+00:00",
+  "count": 11,
   "news": [
     {
-      "id": "7fb7dad76aca",
-      "title": "膵臓がん治療に道 増殖防ぐ新薬候補、電場や超音波も活用",
-      "published": "2026-06-12T20:00:00+00:00",
+      "id": "5b484cc64af3",
+      "title": "「更年期のうつ」夜眠れない、日々に楽しいこともない。病院でもらった薬を飲んでも逆効果。元気だった私に起きた“異変”の正体は(OTONA SALONE)",
+      "published": "2026-06-14T02:10:03+00:00",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/78f3aa329ca445d5af8bb0c78447d9ecac2a006a?source=rss"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "更年期",
+          "related_drugs": [
+            {
+              "slug": "clotrimazole",
+              "name": "エンペシドクリーム１％（選）"
+            },
+            {
+              "slug": "metronidazole",
+              "name": "メトロニダゾールゲル０．７５％「マルイシ」"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "閉経",
+          "keyword": "閉経",
+          "related_drugs": [
+            {
+              "slug": "clotrimazole",
+              "name": "エンペシドクリーム１％（選）"
+            },
+            {
+              "slug": "metronidazole",
+              "name": "メトロニダゾールゲル０．７５％「マルイシ」"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "0698bfc8b941",
+      "title": "「入院なんてせんぞ！」精神科で暴れる80代男性 認知症対応、ネットでは“穏やかに”と推奨も…現場の医師が「生ぬるい」と語る実態",
+      "published": "2026-06-14T01:16:00+00:00",
+      "sources": [
+        {
+          "name": "弁護士JP",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1tVXFxdUZiMHE0bTJzbmVWdHd2ZzJfTExkcE1Vb19kcmpuT0FNT19DcFBidDJFTWk4WmVJVE1oUHdJcEQ2?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "認知症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6ae5b668d264",
+      "title": "「卵」と「認知症」との関係は？ 4万人を15年追跡した研究｜医者も知らない医学の新常識",
+      "published": "2026-06-13T21:00:00+00:00",
+      "sources": [
+        {
+          "name": "日刊ゲンダイDIGITAL",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yTVB0RDJGeDBiVnZ4aEFSaDNxQlV5N3llN21ReGtOTHRLZ0l1dHJXQi1DQlRmdlY0VDUwdm1KZ0Q4cUtTZlFMeTZWdC1PdjRsRVFpUmhMbVpNRHpkSUFrWnhma3BkYWp3?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "認知症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4b0b29e430c8",
+      "title": "膵臓がんの増殖防ぐ候補薬 超音波にも期待、治療に革新",
+      "published": "2026-06-13T17:00:00+00:00",
       "sources": [
         {
           "name": "日本経済新聞",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nNzFXUWUyRHFUc1ctOXl5TTA2Y1BxRkpVM015bENiQmh2bnA3UHdaZ2VFQkVoZzJRa191MjZlRzJOV090clBSMjlfX0xCWXk5b2R6cXFKTnlyZHRodzNJMDFCb3lMcF9DYVFPMw?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Tdi1hSkI5U3p5YUZwTk96NC1Yc0ZBRmdGazFmMnk4RklLdHpWeFp3c2JYT0EzZGdBekQzQzBwdVRnRU9GdW56V2xvOWtHZmExb0dQN0V4Snp3OG9yZDVBbWlpUnFYazRYeVVHeQ?oc=5"
         }
       ],
       "keywords": [
@@ -302,84 +401,28 @@
       ]
     },
     {
-      "id": "c951e90a7586",
-      "title": "脳梗塞と心臓梗塞を同時に起こした重篤な患者を救命",
-      "published": "2026-06-12T11:02:40+00:00",
+      "id": "1b53b43519dc",
+      "title": "【高齢者の資産1,400兆円】本人確認・認知症の疑義あれば即凍結も、養子縁組は届出ベースで成立…〈制度の歪み〉に残る不安感",
+      "published": "2026-06-12T20:00:00+00:00",
       "sources": [
         {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWk1sdTBlZVlSWEY2ejhkUDg4dXBlOW4wTnZPTFdFa3M3U0E5UHlxNTRPdDN6aVVGVk5MZFBaaVlQM3JsZGdGNnZjbzQwRkZpUzd1NmdCOGNkLUZPTkkycGR5MDlVbjlPUWVuZE5EUU5kSXE0ejg2bktrSzcyT3puMEpLRThaUy1pdXk0RG5STWZpcFg4eVlUZFd0amt1aFBp?oc=5"
+          "name": "ゴールドオンライン",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9paFc2NmJGLTM4ZU9fMUZES0tKTmdvUDhIaXduS3owRzNQZHptSHQ4UWlfVU5GdEZJWlY2VEdUbU56NjY2MDlWNEpYNGd6STM2dHc?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "stroke",
-          "keyword": "脳梗塞",
+          "name": "dementia",
+          "keyword": "認知症",
           "related_drugs": [
             {
-              "slug": "atorvastatin",
-              "name": "アトーゼット配合錠ＨＤ（選）"
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
             },
             {
-              "slug": "valsartan",
-              "name": "ディオバンＯＤ錠１６０ｍｇ（選）"
-            },
-            {
-              "slug": "pravastatin",
-              "name": "メバロチン錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "simvastatin",
-              "name": "リポバス錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "enalapril",
-              "name": "レニベース錠１０　１０ｍｇ（選）"
-            },
-            {
-              "slug": "lisinopril",
-              "name": "ロンゲス錠２０ｍｇ（選）"
-            },
-            {
-              "slug": "diltiazem",
-              "name": "ヘルベッサー錠６０　６０ｍｇ（選）"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "エックスフォージ配合ＯＤ錠（選）"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "ミカムロ配合錠ＢＰ（選）"
-            },
-            {
-              "slug": "rosuvastatin",
-              "name": "クレストールＯＤ錠５ｍｇ（選）"
-            },
-            {
-              "slug": "verapamil",
-              "name": "ワソラン錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "losartan",
-              "name": "ニューロタン錠５０ｍｇ（選）"
-            },
-            {
-              "slug": "warfarin",
-              "name": "ワルファリンＫ細粒０．２％「ＮＳ」"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "ザルティア錠５ｍｇ（選）"
-            },
-            {
-              "slug": "fenofibrate",
-              "name": "トライコア錠８０ｍｇ（選）"
-            },
-            {
-              "slug": "prasugrel",
-              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
             }
           ]
         }
@@ -1576,145 +1619,6 @@
             {
               "slug": "capecitabine",
               "name": "ゼローダ錠３００　３００ｍｇ（選）"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "e342923df452",
-      "title": "（4）痩せすぎが招く「糖尿病」「高脂血症」「高血圧」…中高年も危険｜「罪悪めし」「背徳めし」も必要だ",
-      "published": "2026-06-11T21:00:00+00:00",
-      "sources": [
-        {
-          "name": "日刊ゲンダイDIGITAL",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUTWh2SlBUbmhXMDFoMm9VZTQzY01IX0lVZUFFTjhyRk9wRldPTlEtbE9CbUVxbVYxQllHTmRfTnhEN0YwSjJ1TEJBMUV2c0FFb3YwemtZeG5lbFRWQ3dPMFJ2ZjY0VUxT?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "hypertension",
-          "keyword": "高血圧",
-          "related_drugs": [
-            {
-              "slug": "nifedipine",
-              "name": "アダラートＣＲ錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "エックスフォージ配合ＯＤ錠（選）"
-            },
-            {
-              "slug": "diltiazem",
-              "name": "ヘルベッサー錠６０　６０ｍｇ（選）"
-            },
-            {
-              "slug": "timolol",
-              "name": "デュオトラバ配合点眼液（選）"
-            },
-            {
-              "slug": "verapamil",
-              "name": "ワソラン錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "hydrochlorothiazide",
-              "name": "プレミネント配合錠ＨＤ（選）"
-            },
-            {
-              "slug": "losartan",
-              "name": "ニューロタン錠５０ｍｇ（選）"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "ミカムロ配合錠ＢＰ（選）"
-            },
-            {
-              "slug": "valsartan",
-              "name": "ディオバンＯＤ錠１６０ｍｇ（選）"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "hyperlipidemia",
-          "keyword": "高脂血症",
-          "related_drugs": [
-            {
-              "slug": "atorvastatin",
-              "name": "アトーゼット配合錠ＨＤ（選）"
-            },
-            {
-              "slug": "pravastatin",
-              "name": "メバロチン錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "simvastatin",
-              "name": "リポバス錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "rosuvastatin",
-              "name": "クレストールＯＤ錠５ｍｇ（選）"
-            },
-            {
-              "slug": "ezetimibe",
-              "name": "ゼチーア錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "fenofibrate",
-              "name": "トライコア錠８０ｍｇ（選）"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "cc5ec1129d61",
-      "title": "感染症に負けないカラダとココロ＝日常ケア編　「三大夏風邪」に注意｜四国新聞WEB朝刊",
-      "published": "2026-06-11T19:51:37+00:00",
-      "sources": [
-        {
-          "name": "四国新聞",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XcFNzeGRjS1YxSDlOVFBwclpCc01uMnpfeW1LeGFDNkZqSGpJNVdXODhQQW50X3AxcV8tX3dkX2hMV21tTl9lWnRjTlhJZjBhVDB1MGdaOTZld1lUOE16YmFCcmxDeUJ3ZWgydXFScm0yVWNYeUHSAXxBVV95cUxPRG8xUENSYkhHNXJNNVkxMHpEQlBmbWM3UDNsY3hWR3JSdEVFODQyNEhUSUR5RHBpUnRvLVpjcXVEcXRNSXA1dGtvbjlyNmhYREw3NWtHOVVOY2dXWE1jcGlVX1MzbERaYjh5amZUZjc2SGhkdGYzX210TGRM?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "風邪",
-          "related_drugs": [
-            {
-              "slug": "theophylline",
-              "name": "ユニコン錠１００　１００ｍｇ（選）"
-            },
-            {
-              "slug": "cetirizine",
-              "name": "ザイザルシロップ０．０５％（選）"
-            },
-            {
-              "slug": "morphine",
-              "name": "モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」"
-            },
-            {
-              "slug": "loratadine",
-              "name": "クラリチン錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "chlorpheniramine",
-              "name": "セレスタミン配合錠（選）"
-            },
-            {
-              "slug": "dextromethorphan",
-              "name": "デキストロメトルファン臭化水素酸塩細粒１０％「ツルハラ」"
-            },
-            {
-              "slug": "acetaminophen",
-              "name": "トラムセット配合錠（選）"
-            },
-            {
-              "slug": "codeine",
-              "name": "ムコブロチン配合シロップ"
             }
           ]
         }
