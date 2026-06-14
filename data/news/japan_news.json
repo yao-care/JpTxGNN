@@ -1,10 +1,70 @@
 {
   "source": "japan_news",
-  "fetched_at": "2026-06-14T13:28:15.943823+00:00",
-  "total_fetched": 106,
-  "unique_count": 106,
-  "health_related_count": 26,
+  "fetched_at": "2026-06-14T19:09:04.654492+00:00",
+  "total_fetched": 109,
+  "unique_count": 109,
+  "health_related_count": 32,
   "news": [
+    {
+      "id": "abd907541f5e",
+      "title": "「心臓病は男性の病気」は大間違い！「ドキドキは更年期」と決めつけない - 日経Gooday",
+      "published": "2026-06-14T15:00:00+00:00",
+      "summary": "「心臓病は男性の病気」は大間違い！「ドキドキは更年期」と決めつけない&nbsp;&nbsp;日経Goodayなぜ「急性心筋梗塞」や「狭心症」は検査が『要』となるのか？ 医師が徹底解説（メディカルドック）&nbsp;&nbsp;Yahoo!ニュース",
+      "sources": [
+        {
+          "name": "日経Gooday",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZWFrazg4bGstWFlfU0M0YTdoMXhmZ3kzcjF1VDc2Wl92Wjhvak9hNmk4VnVoZDVzWjEwRFd2U0hJdk55dUFjcVhJenFRbV94UFhJcW9oc0dhSzdnd0hpbTJPMFk2S3M4M2NTM0FCbzk4V3BsY1FJaDB3alF0UkVqcTZUcEZFZVQ1blVOZXZJR2JaVmVy?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "094628278a1c",
+      "title": "持続性心房細動に対するパルスフィールドアブレーションは抗不整脈薬に勝る - 日経メディカル",
+      "published": "2026-06-14T14:45:09+00:00",
+      "summary": "持続性心房細動に対するパルスフィールドアブレーションは抗不整脈薬に勝る&nbsp;&nbsp;日経メディカル",
+      "sources": [
+        {
+          "name": "日経メディカル",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbnZxZGg5RzdfNGF0U3pJdUlXaG5NS2VxeU5KcHVtbHlmOU1MTGZfX3ZVSVNWQlVrTHJUX3hRWUU3ZEp6RjJmMGNRdzRVQTd4cGRXWXZOMVB1bUFFMXNnbEFOX3VpU3ZKYVA4aUM2Tk8ycjVmNGlpMmo0WlNXNDZ6Uw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b66e274df384",
+      "title": "スター建築家が手掛けた、日本の大学キャンパス 10(ELLE)",
+      "published": "2026-06-14T13:50:01+00:00",
+      "summary": "大学キャンパスは、教育や研究の拠点であると同時に、多くの人が日常を過ごすひとつの街のような場所。象徴的な講義棟や図書館、学生の交流を生む広場など、建築家の思想が反映された空間は、学生や教職員の日常を支",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/6599fe48c05bc9deaf6d2d6f8dbf56edb7866fd9?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "877c097332f5",
+      "title": "「ゴリラのひとつかみ」で有名な〈ゴリラシリーズ〉のサンダルをしまむらパークで見つけた！「足の裏がキモチいい！！」(LIMO)",
+      "published": "2026-06-14T13:31:05+00:00",
+      "summary": "ふくらはぎケア家電「ゴリラのひとつかみ」などで有名な、“ゴリラシリーズ”のサンダルが、しまむらグループの通販サイト“しまむらパーク”に登場しました。 履くだけで気持ちよくなれる「健康サンダル」です。",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/a655291e3d1855a928762796f4ca319cbc88e8b7?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "7152ad2e0a25",
+      "title": "「目を閉じて眠れない…」二重整形の失敗で涙が止まらなくなった女性が苦痛を訴える動画に話題騒然(Pen Online)",
+      "published": "2026-06-14T13:30:30+00:00",
+      "summary": "日本でも非常にポピュラーな、目を二重にする美容整形。しかし、中国・蘇州市に住むワン・リーさんにとって、その手術は人生を暗転させる悪夢の始まりとなった。手術の失敗によって涙腺を損傷された彼女は、まぶたを",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/18021f52951fd72a0799ec18ceddb77de7d5e81d?source=rss"
+        }
+      ]
+    },
     {
       "id": "f7715996f889",
       "title": "「治療で全部抜けて」髪質の変化に悩む女性が一変！理想叶い「こうなりたかったです」と大満足の笑顔に(LIMO)",
@@ -26,6 +86,18 @@
         {
           "name": "Yahoo! Japan Life",
           "link": "https://news.yahoo.co.jp/articles/3575cc8e1afc5f7793cbf98b3aa1e6ad04d66733?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "b684b14927b6",
+      "title": "認知症による要介護リスクが50％減「元気な高齢者がしていること」【6000人調査で判明】(ダイヤモンド・オンライン) - Yahoo!ファイナンス",
+      "published": "2026-06-14T11:00:00+00:00",
+      "summary": "認知症による要介護リスクが50％減「元気な高齢者がしていること」【6000人調査で判明】(ダイヤモンド・オンライン)&nbsp;&nbsp;Yahoo!ファイナンス",
+      "sources": [
+        {
+          "name": "Yahoo!ファイナンス",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPajZFSzdjNUQ1eXR5UmtxU3FzbmxIZkxFdm1CUjRNSzB4TUxPM3dobnlWMnNjWDlRV0hrb182emtfM21FaUVIODhad2owakdtREQtaU91T1AtM2lyb1RaYUZ5THhCUnZRMDNoSnVHYWZtT1dFUUdZeXBUcG9TeDFqdFQ4TTRoQ1k?oc=5"
         }
       ]
     },
@@ -93,7 +165,7 @@
       "id": "5d196c9e3f36",
       "title": "世界最高峰の学術誌で発表！毛がフサフサで「若見えするマウス」が共通して持っていた、感染症リスクも下げる注目の成分とは【新潟大学研究教授が解説】 - OTONA SALONE",
       "published": "2026-06-13T11:55:43+00:00",
-      "summary": "世界最高峰の学術誌で発表！毛がフサフサで「若見えするマウス」が共通して持っていた、感染症リスクも下げる注目の成分とは【新潟大学研究教授が解説】&nbsp;&nbsp;OTONA SALONE世界最高峰の学術誌で発表！毛がフサフサで「若見えするマウス」が共通して持っていた、感染症リスクも下げる注目の成分とは【新潟大学研究教授が解説】（OTONA SALONE）&nbsp;&nbsp;Yahoo!ニュース平均寿命2年のマウスが3年生きた！「若返り」がついに可能に！？体内で増やせば「老化細胞が死んでいく」世界的に注目を集める成分とは【新潟大学研究教授が解説】（OTONA SALONE）&nbsp;&nbsp;Yahoo!ニュース老化を“巻き戻し”──あるタンパク質で老マウスの肝臓が若返り Nature系列誌に掲載（ITmedia NEWS）&nbsp;&nbsp;Yahoo!ニュース",
+      "summary": "世界最高峰の学術誌で発表！毛がフサフサで「若見えするマウス」が共通して持っていた、感染症リスクも下げる注目の成分とは【新潟大学研究教授が解説】&nbsp;&nbsp;OTONA SALONE世界最高峰の学術誌で発表！毛がフサフサで「若見えするマウス」が共通して持っていた、感染症リスクも下げる注目の成分とは【新潟大学研究教授が解説】（OTONA SALONE）&nbsp;&nbsp;Yahoo!ニュース40代から“細胞の老化”は始まっている? 研究者が注目する「長生き成分」&nbsp;&nbsp;ニコニコニュース平均寿命2年のマウスが3年生きた！「若返り」がついに可能に！？体内で増やせば「老化細胞が死んでいく」世界的に注目を集める成分とは【新潟大学研究教授が解説】（OTONA SALONE）&nbsp;&nbsp;Yahoo!ニュース老化を“巻き戻し”──あるタンパク質で老マウスの肝臓が若返り Nature系列誌に掲載（ITmedia NEWS）&nbsp;&nbsp;Yahoo!ニュース",
       "sources": [
         {
           "name": "OTONA SALONE",
