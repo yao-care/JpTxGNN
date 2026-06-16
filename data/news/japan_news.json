@@ -1,10 +1,22 @@
 {
   "source": "japan_news",
-  "fetched_at": "2026-06-16T16:23:10.797077+00:00",
-  "total_fetched": 130,
-  "unique_count": 130,
-  "health_related_count": 53,
+  "fetched_at": "2026-06-16T20:38:10.702529+00:00",
+  "total_fetched": 127,
+  "unique_count": 127,
+  "health_related_count": 51,
   "news": [
+    {
+      "id": "cf4d3e6049c3",
+      "title": "インフルワクチン、感染後も心血管イベントリスクを抑制｜CareNet.com - CareNet.com",
+      "published": "2026-06-16T19:00:00+00:00",
+      "summary": "インフルワクチン、感染後も心血管イベントリスクを抑制｜CareNet.com&nbsp;&nbsp;CareNet.com",
+      "sources": [
+        {
+          "name": "CareNet.com",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xcEtJNy04NDQxb05DVjFseGFJeHplYW44SGU3ai1CU181MWJSczF1QnRoWEo2aU9pSF93YmVocGp1T3Z6cGJyeTdjZVpINEdDRW9FMG5rWmEyZw?oc=5"
+        }
+      ]
+    },
     {
       "id": "dadd47d4df59",
       "title": "インフルエンザ感染に関わる宿主因子を同定 - u-tokyo.ac.jp",
@@ -530,42 +542,6 @@
         {
           "name": "朝日新聞",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ac0dWMGF2TktsM2hRU2dLU2J0ajdHX0JXdDFjakZKeFY2ell0eUhlenRrckwyRS05NGhEVUZGR19MR3RlbWlQdDJYY3dvOExPMkhQNVltN1hOd3dEM0lrM3NmcGMyY00?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e08208339972",
-      "title": "スタチンと乳がん生存率の関連、サブタイプ別に検討｜CareNet.com - CareNet.com",
-      "published": "2026-06-14T19:00:00+00:00",
-      "summary": "スタチンと乳がん生存率の関連、サブタイプ別に検討｜CareNet.com&nbsp;&nbsp;CareNet.com",
-      "sources": [
-        {
-          "name": "CareNet.com",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE43UWVMV2lfOGxjR0x5X2FkZjV4dTdjQ2RHVHZ0RDlYZXdpVDVmeWRWZW1SeVlJOUhXM3oydk9wcVF3alJVWTZEdEZvS1lpSkFCY0tqaFk1YjNVLUJBYkJ3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4894fce96c3c",
-      "title": "DOACに併用するNSAIDs、出血リスクが低いのは？｜CareNet.com - CareNet.com",
-      "published": "2026-06-14T19:00:00+00:00",
-      "summary": "DOACに併用するNSAIDs、出血リスクが低いのは？｜CareNet.com&nbsp;&nbsp;CareNet.com",
-      "sources": [
-        {
-          "name": "CareNet.com",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zeW1Ta1VqUi13amVjTmdUVHdacnI5dUk3NnYxX2VGQjlYMTN4OWxZVFlDdEJTdVRxT1c0dkhKc0VHMVUtMGJvSTl5SnBiYVRkOWFjQzltbzZBdFZ5R1V3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6d9c260ac64e",
-      "title": "アルツハイマー病に対するアーモンド効果、その結果は？｜CareNet.com - CareNet.com",
-      "published": "2026-06-14T19:00:00+00:00",
-      "summary": "アルツハイマー病に対するアーモンド効果、その結果は？｜CareNet.com&nbsp;&nbsp;CareNet.com",
-      "sources": [
-        {
-          "name": "CareNet.com",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TX3RFNzdPV3dfNjBjdmhkR2ZUZjEtMEdsSXgyWnNnRWdUVHZLbExwRG9sakt5djVPc0ZrSmNEZTZnN2c2cDNxdzloY3A1QmxiRUp3eE5mX1JteDd0NDVr?oc=5"
         }
       ]
     },
