@@ -1,19 +1,91 @@
 {
   "source": "japan_news",
-  "fetched_at": "2026-06-16T10:53:27.630941+00:00",
+  "fetched_at": "2026-06-16T16:23:10.797077+00:00",
   "total_fetched": 130,
   "unique_count": 130,
-  "health_related_count": 52,
+  "health_related_count": 53,
   "news": [
     {
-      "id": "e4f87a9378cf",
-      "title": "「財布を盗まれた」と繰り返す認知症親の言動が一気に和らいだ…専門医がかけた\"さすがのひとこと\"(プレジデントオンライン)",
-      "published": "2026-06-16T10:15:50+00:00",
-      "summary": "暴言、暴力、徘徊……認知症の問題行動にはどう対応すればいいのか。認知症専門医の繁田雅弘さんは「誤解されやすいが、アルツハイマー型認知症という疾患は、人を暴力的・攻撃的にするものではない。多くの場合、置",
+      "id": "dadd47d4df59",
+      "title": "インフルエンザ感染に関わる宿主因子を同定 - u-tokyo.ac.jp",
+      "published": "2026-06-16T15:02:25+00:00",
+      "summary": "インフルエンザ感染に関わる宿主因子を同定&nbsp;&nbsp;u-tokyo.ac.jp",
+      "sources": [
+        {
+          "name": "u-tokyo.ac.jp",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Ud0NRWlZlSDMyREhnRlo4ZGN4cFEyOTdqblFJWlVIUGJWQ2dfaFAtZWI0SzNjR2xfeGoxb1g3bC1SWl9EbldHVk0xdkxlNnVwZ3lJc3JIeElrdnNOb1VScWFBT1pNQ3Jt?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c2fa4f0c66fb",
+      "title": "人気アイスが大規模リコール。アナフィラキシーなど深刻な健康リスクの恐れ【米】(ウィメンズヘルス)",
+      "published": "2026-06-16T14:00:20+00:00",
+      "summary": "夏に向けて、お気に入りのアイスを冷凍庫にストックしておきたくなる季節。冷たくて甘いアイスポップ（棒アイス）は、夏の最高のご褒美。しかし、アメリカからちょっと気になるニュースが飛び込んできた。冷たいスイ",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/70b0b7c6b536bc0a0fab8d9c1637cdc2b7305d63?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/64d3b45f76b7a3e78ef8e5146fb320a17564a92a?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "4dff30c11bbb",
+      "title": "エディターが発見！「ザ・ノース・フェイス」の隠れ名品は梅雨に大活躍な大人なゴアテックスジャケット。(MEN’S NON-NO WEB)",
+      "published": "2026-06-16T13:00:03+00:00",
+      "summary": "急な天候の変化やさまざまなアウトドアシーンに対応する、軽量で柔らかなePEメンブレンを採用したGORE-TEX PRODUCTS 3層構造のシェルジャケット。",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/d61c4ce8d0610f01c946c5bb323da200010e2766?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "b435f41f0ce7",
+      "title": "「ブルーボトルコーヒー」の新たなアイスエスプレッソ体験。京都の喫茶文化に着想した“Kyoto-Style Espresso”が誕生(Numero TOKYO)",
+      "published": "2026-06-16T12:30:38+00:00",
+      "summary": "ブルーボトルコーヒーが、アイスエスプレッソドリンクの新たなスタンダードを提案する「Kyoto-Style Espresso」を発表した。京都に根付くウォータードリップ文化から着想を得て開発された新製法",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/4a2537a9d5c8db45eccf96863679742f2010af23?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "e7d7dc54bbc5",
+      "title": "電源なしで空気から液体燃料を生むマシーン誕生、原理は「葉っぱ」(ギズモード・ジャパン)",
+      "published": "2026-06-16T12:30:01+00:00",
+      "summary": "まるで錬金術！ イェール大学の研究チームが開発した「人工葉」が、太陽光・水・二酸化炭素だけを使って液体燃料のメタノールを生成することに、世界で初めて成功しました。しかも、外部電源なしの完全自立型デバ",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/c2015f301f9c7a546cb302871b66fbaebe7f46a2?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "1711398fe870",
+      "title": "ノーベル賞研究でも注目！「腸活＝便通対策ではない」今急増している「大腸がん」のリスクを下げるためにできることとは【國澤純先生が解説】 - OTONA SALONE",
+      "published": "2026-06-16T11:25:44+00:00",
+      "summary": "ノーベル賞研究でも注目！「腸活＝便通対策ではない」今急増している「大腸がん」のリスクを下げるためにできることとは【國澤純先生が解説】&nbsp;&nbsp;OTONA SALONEGoogle ニュースで見出しと意見をもっと見る",
+      "sources": [
+        {
+          "name": "OTONA SALONE",
+          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE0ycFRoU3RNcTZFZEx5TnpTU3NtREkzQUw0LW1mdTJWOU1fVS16MGpOcDlhQXZLRVBkd3N0bG9yY1BtWThw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "605221ac79c0",
+      "title": "『ピロリ菌』除菌後も油断禁物？ 『胃がん』リスクを下げる定期検査の重要性(メディカルドック)",
+      "published": "2026-06-16T11:02:20+00:00",
+      "summary": "ピロリ菌は、胃がんの大きな原因の一つとして知られています。除菌治療を受けることで胃がんリスクは下がるものの、「除菌したからもう安心」と言い切れるわけではありません。除菌の意味を正しく理解し、除菌後に何",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/d3962ed882f49b63ccefe7a98e1e8b7a4209076e?source=rss"
         }
       ]
     },
@@ -21,47 +93,11 @@
       "id": "86b315bc47cc",
       "title": "「財布を盗まれた」と繰り返す認知症親の言動が一気に和らいだ…専門医がかけた\"さすがのひとこと\" - Yahoo!ファイナンス",
       "published": "2026-06-16T10:15:00+00:00",
-      "summary": "「財布を盗まれた」と繰り返す認知症親の言動が一気に和らいだ…専門医がかけた\"さすがのひとこと\"&nbsp;&nbsp;Yahoo!ファイナンス「財布を盗まれた」と繰り返す認知症親の言動が一気に和らいだ…専門医がかけた\"さすがのひとこと\"（プレジデントオンライン）&nbsp;&nbsp;Yahoo!ニュース顔・頭を蹴られ、同僚は首を締められ…認知症患者に向き合う看護師たちの苦悩「身構えながら働くのが普通に」4人に1人は日常的に被害（ABEMA TIMES）&nbsp;&nbsp;ｄメニューニュース精神科入院の実態 元記者が取材経験踏まえ長野市で講演&nbsp;&nbsp;信濃毎日新聞デジタル",
+      "summary": "「財布を盗まれた」と繰り返す認知症親の言動が一気に和らいだ…専門医がかけた\"さすがのひとこと\"&nbsp;&nbsp;Yahoo!ファイナンス「財布を盗まれた」と繰り返す認知症親の言動が一気に和らいだ…専門医がかけた\"さすがのひとこと\"（プレジデントオンライン）&nbsp;&nbsp;Yahoo!ニュース「入院なんてせんぞ！」精神科で暴れる80代男性 認知症対応、ネットでは“穏やかに”と推奨も…現場の医師が「生ぬるい」と語る実態&nbsp;&nbsp;弁護士JP精神科入院の実態 元記者が取材経験踏まえ長野市で講演&nbsp;&nbsp;信濃毎日新聞デジタル顔・頭を蹴られ、同僚は首を締められ…認知症患者に向き合う看護師たちの苦悩「身構えながら働くのが普通に」4人に1人は日常的に被害&nbsp;&nbsp;テレ朝NEWS",
       "sources": [
         {
           "name": "Yahoo!ファイナンス",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeDRDc21MZ0xFQ1pwZGxiUTA4RHdWUFhCbFQ1TVlrLUJrN2xsQkR2dG5HR3NybUR5MC1nb1gxRGFWSVJmSHMxeGVlRnB5NlRkSVdNSGZGZU10cU42QlhtN21WOFo1WGpIUGJlRkJFQ1JwNXFCYlNIT0hOTm9Lam9uQi1zVk9lYWM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ec3742721052",
-      "title": "アレルギー持ちの妻「生もの抜きでおまかせ！」→北陸の回らない寿司屋の職人がトンデモ注文に絶句した瞬間【作者に聞く】(ウォーカープラス)",
-      "published": "2026-06-16T10:00:00+00:00",
-      "summary": "漫画家・ゆきたこーすけ(@kosukeyukita)さんの妻・カツシンさんは、アレルギーで生ものが食べられないものの寿司が大好きだ。そんな彼女のパワフルな日常を描いた漫画『破天荒な妻に今日も振り回され",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/41734b269d956cd0e2a367a277f8baba4d02d733?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "c6dba6423420",
-      "title": "動物病院を嫌がって大鳴きする愛猫… 診察室で見た“猫かぶりな姿”がかわいい！【書評】(ダ・ヴィンチWeb)",
-      "published": "2026-06-16T10:00:00+00:00",
-      "summary": "2匹の保護猫と暮らす日常を猫コミックエッセイ『ネコトラビット』を描く、漫画家のコトラさん。猫溺愛漫画である同作には愛猫サレちゃんとソワちゃんのかわいさがたっぷりと詰め込まれている。 猫と暮らす日",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/fb8d064ca2133744f0fe44a289ae96b5ef32a0db?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "20acbb868a97",
-      "title": "履くだけで“ととのう”機能派サンダル6選。筆頭「ウーフォス」に、「ビルケン」のミラノも！(OCEANS)",
-      "published": "2026-06-16T10:00:00+00:00",
-      "summary": "昨今のテクノロジーの進化により、履くだけで体が“ととのう”時代へ。疲労回復、歩行改善、神経へのアプローチまで、スポーツ科学や医療の知見が足元に集約。 各ブランドが磨き上げた、ウェルネスなサンダルを一",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/ed2a6226a12f423a8ec045e97a08f5ab30598f16?source=rss"
         }
       ]
     },
@@ -90,6 +126,18 @@
       ]
     },
     {
+      "id": "5e09f9a7722f",
+      "title": "胸腺摘出手術を受けると死亡率が2倍になる：医師の間で意見が分かれる研究 - Futuro Prossimo",
+      "published": "2026-06-16T07:38:17+00:00",
+      "summary": "胸腺摘出手術を受けると死亡率が2倍になる：医師の間で意見が分かれる研究&nbsp;&nbsp;Futuro Prossimo",
+      "sources": [
+        {
+          "name": "Futuro Prossimo",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMHNBbHFmSlZzQmxEQXBNMjFTTVBSTjdzaTVmc0VkbmJnYXpvWndYQVRuM0Rnb08zOUZGWEJKWG5TNXc2SWJxLWVQa2FSMzhsVVo4c0tkSDd5NmtVQnl6Q0FNd1NLN3ljZ3BGRE5rRXVnT0MtMWlPTzY3QjFBV3oyOG10T3BZTzRsWXpPejZFNzFZVjlmVWQ4eXJ4WlZpd0Jf?oc=5"
+        }
+      ]
+    },
+    {
       "id": "0793a9a7602b",
       "title": "謎の重力源「暗黒物質」の痕跡を「重力波」から見つけたかもしれない？(sorae 宇宙へのポータルサイト)",
       "published": "2026-06-16T07:25:33+00:00",
@@ -98,18 +146,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/ef8f3685d071071b7bd16dcf7efa0dd639d765f4?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "7820dd7efd5e",
-      "title": "NINZIAと龍谷大学、独自の蒟蒻由来素材の整腸機能についての効果を確認 - 愛媛新聞",
-      "published": "2026-06-16T07:16:55+00:00",
-      "summary": "NINZIAと龍谷大学、独自の蒟蒻由来素材の整腸機能についての効果を確認&nbsp;&nbsp;愛媛新聞",
-      "sources": [
-        {
-          "name": "愛媛新聞",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5na3R0SkpLcGJtR3drbEF2cXc4U3RRMENQYWE3V1RDVXVaVzRZcWZGV0oxX2JaRDhIQWl4RHRydmFrMWp2b0RhdkJqazR4M3BGd1NKUEc1eWhPNjA?oc=5"
         }
       ]
     },
@@ -150,6 +186,18 @@
       ]
     },
     {
+      "id": "d7513d528191",
+      "title": "デング熱は慢性疾患のある人ではより深刻になる可能性があります - Laodong.vn",
+      "published": "2026-06-16T06:00:00+00:00",
+      "summary": "デング熱は慢性疾患のある人ではより深刻になる可能性があります&nbsp;&nbsp;Laodong.vnホーチミン：デング熱流行、武田製ワクチンの需要急増［社会］&nbsp;&nbsp;VIETJO",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdXJpNlhDaEo3S0VzMmY0SWdVUGJWbElHSS1aLWMtRy1PcGpNZ0ZsbW5qd1h2UHZ6bDNxMUtyQkRtVDhObUJtdXpGOVl2YzJtX0hSbE5kLXBOWDUxNEIyVW4zQ2xNMnN5RjQyUGQxOUdsYUswc2pGcFpHX3lvVlc3b1I2SjNZTmJ1SkNqYzRUUTZ5SDJNZzdIWmpsVUU0a3ZYc0FVbWZBSXM1UQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "08b3bde811e0",
       "title": "【日本初】女性疾患・不妊治療・卵子凍結・性感染症に特化した体験談・医療データ共有プラットフォーム「HerGoope」が正式ローンチ - PR TIMES",
       "published": "2026-06-16T05:30:02+00:00",
@@ -170,18 +218,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/1babf6ac2548c8de7f0f290349497aa5a558ec67?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "b02b84fa5027",
-      "title": "スーパーボール並みに弾む高含水ゲル材料を開発 〜人工軟骨や水中でも使える衝撃吸収素材に向けた次世代スマート材料に期待 - hirosaki-u.ac.jp",
-      "published": "2026-06-16T05:03:37+00:00",
-      "summary": "スーパーボール並みに弾む高含水ゲル材料を開発 〜人工軟骨や水中でも使える衝撃吸収素材に向けた次世代スマート材料に期待&nbsp;&nbsp;hirosaki-u.ac.jp",
-      "sources": [
-        {
-          "name": "hirosaki-u.ac.jp",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5zZnFPM2RJbHQ1WktRbHItd25lVlE5Mzdoal9UcU9jVDBNT0syYTctRjVocGJxXzkzTVluQ29BRVNTempSTnRId1ZTTEVqTnpELXhGWFVR?oc=5"
         }
       ]
     },
@@ -366,6 +402,18 @@
       ]
     },
     {
+      "id": "fb3f465321d3",
+      "title": "妊婦が夜間に不眠症になる場合の潜在的なリスク - Laodong.vn",
+      "published": "2026-06-15T09:30:00+00:00",
+      "summary": "妊婦が夜間に不眠症になる場合の潜在的なリスク&nbsp;&nbsp;Laodong.vn",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb2U4elYyRUxrZklzb05lS0d1aHB6UUI3ajNfNGpXbnR3REduZE9QdDR2eUMyNmtSeHF6SDJ2NjNMdTZ5NFIwY0FvODNtQmlWS25idmw1OS1iVElYVi10UExZYTBxbE5qWXNxOTA1S05yVG5YcE5jLWtsaEg2ZVRVOWdWbHc3RjV4alE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "9f56aa5eac05",
       "title": "ブルックリン発ストリートウェア：診断コードを「着る」という静かな連帯 - TABI LABO",
       "published": "2026-06-15T06:00:00+00:00",
@@ -518,42 +566,6 @@
         {
           "name": "CareNet.com",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TX3RFNzdPV3dfNjBjdmhkR2ZUZjEtMEdsSXgyWnNnRWdUVHZLbExwRG9sakt5djVPc0ZrSmNEZTZnN2c2cDNxdzloY3A1QmxiRUp3eE5mX1JteDd0NDVr?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4a15173dd00a",
-      "title": "男のプライドを揺るがす「前立腺肥大症」と「前立腺がん」の脅威：「前立腺」対策の鉄則：日経Gooday（グッデイ） - 日経Gooday",
-      "published": "2026-06-14T15:00:00+00:00",
-      "summary": "男のプライドを揺るがす「前立腺肥大症」と「前立腺がん」の脅威：「前立腺」対策の鉄則：日経Gooday（グッデイ）&nbsp;&nbsp;日経Gooday男のプライドを揺るがす「前立腺肥大症」と「前立腺がん」の脅威&nbsp;&nbsp;日経Gooday",
-      "sources": [
-        {
-          "name": "日経Gooday",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcEJkTHV4Y0l3c2FkZjl0NWJtMDdfUVU3Y3dVdHlyREVRX1dfcmNJUkVJV1pSWU41a2hmWFU3d3hnSTNKbXItOXhzOGd1a0owQ3RjRHNQbmFUMUl3bDRKOXloLWkwamJPQ0tNMEd2STczTzRFZ290RU9WdTZfajZnRUIwNUFwbm0zTG9lSQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "abd907541f5e",
-      "title": "「心臓病は男性の病気」は大間違い！「ドキドキは更年期」と決めつけない - 日経Gooday",
-      "published": "2026-06-14T15:00:00+00:00",
-      "summary": "「心臓病は男性の病気」は大間違い！「ドキドキは更年期」と決めつけない&nbsp;&nbsp;日経Goodayなぜ「急性心筋梗塞」や「狭心症」は検査が『要』となるのか？ 医師が徹底解説（メディカルドック）&nbsp;&nbsp;Yahoo!ニュース",
-      "sources": [
-        {
-          "name": "日経Gooday",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZWFrazg4bGstWFlfU0M0YTdoMXhmZ3kzcjF1VDc2Wl92Wjhvak9hNmk4VnVoZDVzWjEwRFd2U0hJdk55dUFjcVhJenFRbV94UFhJcW9oc0dhSzdnd0hpbTJPMFk2S3M4M2NTM0FCbzk4V3BsY1FJaDB3alF0UkVqcTZUcEZFZVQ1blVOZXZJR2JaVmVy?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "094628278a1c",
-      "title": "持続性心房細動に対するパルスフィールドアブレーションは抗不整脈薬に勝る - 日経メディカル",
-      "published": "2026-06-14T14:45:09+00:00",
-      "summary": "持続性心房細動に対するパルスフィールドアブレーションは抗不整脈薬に勝る&nbsp;&nbsp;日経メディカル",
-      "sources": [
-        {
-          "name": "日経メディカル",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbnZxZGg5RzdfNGF0U3pJdUlXaG5NS2VxeU5KcHVtbHlmOU1MTGZfX3ZVSVNWQlVrTHJUX3hRWUU3ZEp6RjJmMGNRdzRVQTd4cGRXWXZOMVB1bUFFMXNnbEFOX3VpU3ZKYVA4aUM2Tk8ycjVmNGlpMmo0WlNXNDZ6Uw?oc=5"
         }
       ]
     },
