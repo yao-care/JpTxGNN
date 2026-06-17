@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-17T14:50:15.793487+00:00",
+  "generated": "2026-06-17T19:59:13.082966+00:00",
   "count": 16,
   "news": [
     {
@@ -438,6 +438,34 @@
       ]
     },
     {
+      "id": "cfea721633e4",
+      "title": "「空気が悪い街に住むと認知症になりやすい」は正しかった 国際的な研究が次々と明らかにする“脳を守る環境の作り方”",
+      "published": "2026-06-16T22:00:00+00:00",
+      "sources": [
+        {
+          "name": "Yahoo!ファイナンス",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYy1XeThXV0RrelJnYUZVYnl2LWg3Rm52ckVFeVFPSk1wcGl1c0RwSVY2QUxyZWgxeTBaazFvS3pmLXRqOF8tOWluM0hwUy1JOWFpamZCWXUwUWYyeWpsX09vOXVLTjhlbW1KNzNPU25HM0FtdVBfV2l1ZzlxakR2Y21xQ0RnbFU?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "認知症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "cf4d3e6049c3",
       "title": "インフルワクチン、感染後も心血管イベントリスクを抑制｜CareNet.com",
       "published": "2026-06-16T19:00:00+00:00",
@@ -808,34 +836,6 @@
             {
               "slug": "levetiracetam",
               "name": "レベチラセタム粒状錠５００ｍｇ「サワイ」"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "7cd740e3f650",
-      "title": "大気汚染はレビー小体型およびパーキンソン病関連の認知症リスク",
-      "published": "2026-06-16T14:45:02+00:00",
-      "sources": [
-        {
-          "name": "日経メディカル",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTHBSeUxzNkpQZDdaSGlxOUdJcTRDOVRWXzdhZDJmYU50Y3FrenB3ZHB3dmgwZ0dCMDNrRDM3dGxTWkU3MDVvLUVxVXhuRUl5a2M3V0VBOE5rYl9aaHhaUGpNTExiaXZYNEpuVlB2V21pSFEtZzUyNWdnaWpwbGxjWg?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "認知症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
             }
           ]
         }
