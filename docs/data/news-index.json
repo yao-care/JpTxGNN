@@ -1,16 +1,92 @@
 {
-  "generated": "2026-06-17T10:25:26.362636+00:00",
-  "count": 15,
+  "generated": "2026-06-17T14:50:15.793487+00:00",
+  "count": 16,
   "news": [
     {
-      "id": "684572a01ec8",
-      "title": "専門医「幸せな認知症患者は診察室での様子が全然違う」…物忘れが増えた85歳母に娘がかけた\"ひとこと\"(プレジデントオンライン)",
-      "published": "2026-06-17T10:15:00+00:00",
+      "id": "f31beca0a1c4",
+      "title": "東京大、インフルエンザ感染に関わる宿主因子を同定 CRISPR/Cas9で84系統の大規模マウスライブラリを開発、新たな治療薬開発の基盤に",
+      "published": "2026-06-17T13:06:24+00:00",
+      "sources": [
+        {
+          "name": "日経バイオテクONLINE",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ZNFE2TG5wNUZHaVMxVVlKMjNiTGU1Wkh0dUFkdUZ5N0NFWGo1ajNpYS10X3NDQ285NnprTWFFTmpmVGppb2J6RDZEbEh2cTlqQTFJczhOR2RFTXZoUk9rME9QbXlOZw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "influenza",
+          "keyword": "インフルエンザ",
+          "related_drugs": [
+            {
+              "slug": "oseltamivir",
+              "name": "タミフルドライシロップ３％（選）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ad445da4f407",
+      "title": "【高血圧治療の名医が教える】血圧改善に効果がある「りんご」の驚くべき力。効果的な食べ方とは？(ヨガジャーナルオンライン)",
+      "published": "2026-06-17T12:20:00+00:00",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/6bfb062391f8a31cbaf43b696ddb350973064cc6?source=rss"
-        },
+          "link": "https://news.yahoo.co.jp/articles/a970a5d77d89d15a2e4207285510857206354b18?source=rss"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "hypertension",
+          "keyword": "高血圧",
+          "related_drugs": [
+            {
+              "slug": "nifedipine",
+              "name": "アダラートＣＲ錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "エックスフォージ配合ＯＤ錠（選）"
+            },
+            {
+              "slug": "diltiazem",
+              "name": "ヘルベッサー錠６０　６０ｍｇ（選）"
+            },
+            {
+              "slug": "timolol",
+              "name": "デュオトラバ配合点眼液（選）"
+            },
+            {
+              "slug": "verapamil",
+              "name": "ワソラン錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "hydrochlorothiazide",
+              "name": "プレミネント配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "losartan",
+              "name": "ニューロタン錠５０ｍｇ（選）"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "ミカムロ配合錠ＢＰ（選）"
+            },
+            {
+              "slug": "valsartan",
+              "name": "ディオバンＯＤ錠１６０ｍｇ（選）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2f65f2feea61",
+      "title": "専門医「幸せな認知症患者は診察室での様子が全然違う」…物忘れが増えた85歳母に娘がかけた\"ひとこと\"",
+      "published": "2026-06-17T10:15:00+00:00",
+      "sources": [
         {
           "name": "Yahoo!ファイナンス",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY0UwaXFucFRkRm5YMmVJX3hacXhaSXZ6VUNqUjhNdkx5MlZabU80MkRKYjRjTXViQUJRSUdKbkZqeTlqTjBWQ2Q4YkRoZnJxRHkyVEdhS1JRZjJ6OUVTT1BuQlBqSVhoSnVrZWFlZXJNc1FmNFFWc25RV2tLNGxIV2ZHQkF0N3M?oc=5"
@@ -37,15 +113,11 @@
     {
       "id": "8a8ad6544699",
       "title": "心不全やパーキンソン病の早期診断に向けた新たなPET検査薬を世界初のヒト評価に成功【岡山大学など】(RSK山陽放送)",
-      "published": "2026-06-17T08:39:00+00:00",
+      "published": "2026-06-17T08:40:24+00:00",
       "sources": [
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/f3fe235ca9ca4a7692309731a1706cce5a63b985?source=rss"
-        },
-        {
-          "name": "TBS NEWS DIG",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxX0lCQzcwRE1VSVFZMFE5U1hVNUwxcTVCZXdORUJtcEMwYUJ2LXFKcHFlOVR4ZTlmSDBlVjROWkpCb19BWHVDTm5UOURvcGFFdmJTcC0yOEZ0UQ?oc=5"
         }
       ],
       "keywords": [
@@ -736,30 +808,6 @@
             {
               "slug": "levetiracetam",
               "name": "レベチラセタム粒状錠５００ｍｇ「サワイ」"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "dadd47d4df59",
-      "title": "インフルエンザ感染に関わる宿主因子を同定",
-      "published": "2026-06-16T15:02:25+00:00",
-      "sources": [
-        {
-          "name": "u-tokyo.ac.jp",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Ud0NRWlZlSDMyREhnRlo4ZGN4cFEyOTdqblFJWlVIUGJWQ2dfaFAtZWI0SzNjR2xfeGoxb1g3bC1SWl9EbldHVk0xdkxlNnVwZ3lJc3JIeElrdnNOb1VScWFBT1pNQ3Jt?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "influenza",
-          "keyword": "インフルエンザ",
-          "related_drugs": [
-            {
-              "slug": "oseltamivir",
-              "name": "タミフルドライシロップ３％（選）"
             }
           ]
         }
