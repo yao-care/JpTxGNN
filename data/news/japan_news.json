@@ -1,10 +1,70 @@
 {
   "source": "japan_news",
-  "fetched_at": "2026-06-18T14:46:41.147325+00:00",
-  "total_fetched": 136,
-  "unique_count": 136,
-  "health_related_count": 55,
+  "fetched_at": "2026-06-18T20:10:30.490327+00:00",
+  "total_fetched": 134,
+  "unique_count": 134,
+  "health_related_count": 56,
   "news": [
+    {
+      "id": "5dcdd560893e",
+      "title": "猛暑への長期曝露、認知症発症リスクを高める可能性｜CareNet.com - CareNet.com",
+      "published": "2026-06-18T19:00:00+00:00",
+      "summary": "猛暑への長期曝露、認知症発症リスクを高める可能性｜CareNet.com&nbsp;&nbsp;CareNet.com",
+      "sources": [
+        {
+          "name": "CareNet.com",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FRldmWHo0SlA2T3RRaHBSSm5ZVmdEV3dqb1JoYklvaThwaERBVkE0MW9tVkU3bnlkZVdLVXZndVIzQUlxZUlkN1VOWGNtYzFycEEyZ3ZxT19QRnJTMlF3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a6745d6d1d4e",
+      "title": "大阪けいさつ病院、手術支援ロボット「ダビンチSP」を用いた中咽頭がん手術を実施 - 時事ドットコム",
+      "published": "2026-06-18T15:16:00+00:00",
+      "summary": "大阪けいさつ病院、手術支援ロボット「ダビンチSP」を用いた中咽頭がん手術を実施&nbsp;&nbsp;時事ドットコム",
+      "sources": [
+        {
+          "name": "時事ドットコム",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9UQk5qai1QOGNYZTczWXExdUdHX1RqbHFTVzZvZDZ2QUlnWnFNdjh0LVhzVGFtdWU1X3pnRm8xT0cxMkpyYmJ1V2RoakZJWnJOUFhzTElZQzlpSmNpZ1RLVFZ4SE81eVI1RzNB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6034211c5202",
+      "title": "ライカ共同開発。8K画質と分離画面が特徴のInsta360ジンバルカメラLuna Ultra登場｜Insta360(FUNQ)",
+      "published": "2026-06-18T15:04:26+00:00",
+      "summary": "アクションカメラや360度カメラでサイクリストにもお馴染みのInsta360(インスタ360)から、次世代のモバイル映像制作ツールとなるフラッグシップジンバルカメラ「Luna Ultra(ルナ・ウルト",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/a36b35399fe6ada838edd5d42a182f86671948f7?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "8b59fd409171",
+      "title": "治療に悪影響を及ぼす口腔トラブル。がんになったからこそ歯科のケアで口の清潔を保つ(家庭画報.com)",
+      "published": "2026-06-18T15:00:14+00:00",
+      "summary": "歯周炎・歯周病など口の中の状態ががん治療中に種々の悪影響を及ぼすことが明らかになり、がん治療前から歯科治療や口腔ケアのサポートが行われるようになりました。今回は発症頻度の高い口腔トラブルを中心に対策を",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/a0601d5d6b1bea641b05eb0a84e1c466f0fea0f5?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "09b65a9b4680",
+      "title": "持続性心房細動に対するパルスフィールドアブレーションは抗不整脈薬に勝る 他 - 日経メディカル",
+      "published": "2026-06-18T14:45:07+00:00",
+      "summary": "持続性心房細動に対するパルスフィールドアブレーションは抗不整脈薬に勝る 他&nbsp;&nbsp;日経メディカル中年期の心房細動発症は腎機能低下を加速する&nbsp;&nbsp;日経メディカル働く世代で見つかる「心房細動」は腎機能低下のサイン？ 広島大学らの研究グループが分析｜ニュース&nbsp;&nbsp;保健指導リソースガイド",
+      "sources": [
+        {
+          "name": "日経メディカル",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOV2hsMmZoT3U2OTdMcVdhQ2VpbUhzNkR4RGkzUU1NSnNUVVl1UG13SU5KeUpZSUNZZ0M4dlJTUnFFS1FrY2lLYm5xNW5jaEJtRDEyNTJkSFFyRzRObW5iYktaZ3VndVpMNXY1UFQ5NU03blJUbm41MHZZMndGY0Q0djlCZDg4QQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "f02216e2852c",
       "title": "【iOS 27】iPhoneが「更年期のサイン」を通知！Apple新機能に注目　AIで食事の栄養分析も(ウィメンズヘルス)",
@@ -54,14 +114,14 @@
       ]
     },
     {
-      "id": "b4b8468d5293",
-      "title": "働く世代で見つかる「心房細動」は腎機能低下のサイン？ 広島大学らの研究グループが分析｜ニュース - 保健指導リソースガイド",
-      "published": "2026-06-18T12:33:45+00:00",
-      "summary": "働く世代で見つかる「心房細動」は腎機能低下のサイン？ 広島大学らの研究グループが分析｜ニュース&nbsp;&nbsp;保健指導リソースガイド",
+      "id": "e44ab6a2b061",
+      "title": "【News】デング熱感染１人確認 オアフ島を訪れていた旅行者で感染が広がる国への渡航歴あり - KZOOハワイ",
+      "published": "2026-06-18T12:12:22+00:00",
+      "summary": "【News】デング熱感染１人確認 オアフ島を訪れていた旅行者で感染が広がる国への渡航歴あり&nbsp;&nbsp;KZOOハワイ",
       "sources": [
         {
-          "name": "保健指導リソースガイド",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TTkYwVlBIZnQ1Vk9xQmp5RExuVmRyeDQxUi1yVXl0eVN4WDlIb2tKcUJ0RzlyQ29SdElRSFc1TGoydU5vbG5STGZKeERKeGx2MWxVT3Jqdm44aFNyYXB4aWh3M29qRjZY?oc=5"
+          "name": "KZOOハワイ",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XMU9kTDRBQUo2bkx6eUFIVVMzWlR6TnRjOUxDcjVvRGJhT1BENG5MaWFqOGI2YlJKS1VWRldWNWdSTXhMUzA0ZGdhT3VQVDFra0dFV1ZmMU5ndw?oc=5"
         }
       ]
     },
@@ -93,7 +153,7 @@
       "id": "763e58b35e8b",
       "title": "認知症になってよかった…定年後すぐ診断された60代元管理職の男性が、そう医師に語った意外な理由(プレジデントオンライン) - Yahoo!ファイナンス",
       "published": "2026-06-18T10:15:00+00:00",
-      "summary": "認知症になってよかった…定年後すぐ診断された60代元管理職の男性が、そう医師に語った意外な理由(プレジデントオンライン)&nbsp;&nbsp;Yahoo!ファイナンス｢財布を盗まれた｣と繰り返す認知症親の言動が一気に和らいだ…専門医がかけた\"さすがのひとこと\"&nbsp;&nbsp;PRESIDENT Online（プレジデントオンライン）精神科入院の実態 元記者が取材経験踏まえ長野市で講演&nbsp;&nbsp;信濃毎日新聞デジタル顔・頭を蹴られ、同僚は首を締められ…認知症患者に向き合う看護師たちの苦悩「身構えながら働くのが普通に」4人に1人は日常的に被害&nbsp;&nbsp;テレ朝NEWS顔・頭を蹴られ、同僚は首を締められ…認知症患者に向き合う看護師たちの苦悩「身構えながら働くのが普通に」4人に1人は日常的に被害（ABEMA TIMES）&nbsp;&nbsp;Yahoo!ニュース",
+      "summary": "認知症になってよかった…定年後すぐ診断された60代元管理職の男性が、そう医師に語った意外な理由(プレジデントオンライン)&nbsp;&nbsp;Yahoo!ファイナンス精神科入院の実態 元記者が取材経験踏まえ長野市で講演&nbsp;&nbsp;信濃毎日新聞デジタル顔・頭を蹴られ、同僚は首を締められ…認知症患者に向き合う看護師たちの苦悩「身構えながら働くのが普通に」4人に1人は日常的に被害&nbsp;&nbsp;テレ朝NEWS「財布を盗まれた」と繰り返す認知症親の言動が一気に和らいだ…専門医がかけた\"さすがのひとこと\"（プレジデントオンライン）&nbsp;&nbsp;Yahoo!ニュース顔・頭を蹴られ、同僚は首を締められ…認知症患者に向き合う看護師たちの苦悩「身構えながら働くのが普通に」4人に1人は日常的に被害（ABEMA TIMES）&nbsp;&nbsp;Yahoo!ニュース",
       "sources": [
         {
           "name": "Yahoo!ファイナンス",
@@ -182,18 +242,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/1d6578bd9fad7571e00cde01b04991e1af248f79?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "c4651b7c064d",
-      "title": "大阪けいさつ病院、手術支援ロボット「ダビンチSP」を用いた中咽頭がん手術を実施 - PR TIMES",
-      "published": "2026-06-18T03:00:02+00:00",
-      "summary": "大阪けいさつ病院、手術支援ロボット「ダビンチSP」を用いた中咽頭がん手術を実施&nbsp;&nbsp;PR TIMES",
-      "sources": [
-        {
-          "name": "PR TIMES",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03Q29taWN1d3AteVRJUEJhdXZHUGlFU3p0Y1M1Xy0ya19ZQUZSbFlwRWhaU1pzT19PMFh1UWxwQmhMSlVPZ1hLX1hnZzlYUFc5ZEZTdmlURVVEYk1JaC1iRHVySlp3ZmNtY1E?oc=5"
         }
       ]
     },
@@ -402,18 +450,6 @@
       ]
     },
     {
-      "id": "2359ab5d3f51",
-      "title": "「世界で最もまん延」感染症をご存知ですか 国内でも1135万人が治療 新たな治療法「ブルーラジカル」のメリット・デメリットを歯科医が解説 - 47NEWS",
-      "published": "2026-06-17T03:50:00+00:00",
-      "summary": "「世界で最もまん延」感染症をご存知ですか 国内でも1135万人が治療 新たな治療法「ブルーラジカル」のメリット・デメリットを歯科医が解説&nbsp;&nbsp;47NEWSGoogle ニュースで見出しと意見をもっと見る",
-      "sources": [
-        {
-          "name": "47NEWS",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1hQVN0dUliWFZDSHB5dk1Xd3FTTFl5bmdfT2RhVURmZEoyblRRNE5Ray1SbFBaY3VYTnhwbU15ZGZOY3NBSW1MT2RKUQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "275790444451",
       "title": "【138】超加工食品は妊娠・妊活に影響する？ 最新研究でわかった男女それぞれへのリスク - シティリビングWeb",
       "published": "2026-06-17T00:30:29+00:00",
@@ -434,30 +470,6 @@
         {
           "name": "QLifePro",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pLXBzeFJ6eGhQeVdyMXptSDdheERJRi1STkVaMXdTWjE5eW00UUlNV1VmSVNTa2Zucl9KUVdJU1QxVlpLenk0UHFtOVFxN0NtQlBiTXYxM0Y4YTd4djFVS3dEVWVjaVJ0aFNnZQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cf4d3e6049c3",
-      "title": "インフルワクチン、感染後も心血管イベントリスクを抑制｜CareNet.com - CareNet.com",
-      "published": "2026-06-16T19:00:00+00:00",
-      "summary": "インフルワクチン、感染後も心血管イベントリスクを抑制｜CareNet.com&nbsp;&nbsp;CareNet.com",
-      "sources": [
-        {
-          "name": "CareNet.com",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xcEtJNy04NDQxb05DVjFseGFJeHplYW44SGU3ai1CU181MWJSczF1QnRoWEo2aU9pSF93YmVocGp1T3Z6cGJyeTdjZVpINEdDRW9FMG5rWmEyZw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3ae5a6f1864c",
-      "title": "転移APMS前立腺がん、タラゾパリブ追加でPFS改善（TALAPRO-3）／NEJM｜CareNet.com - CareNet.com",
-      "published": "2026-06-16T19:00:00+00:00",
-      "summary": "転移APMS前立腺がん、タラゾパリブ追加でPFS改善（TALAPRO-3）／NEJM｜CareNet.com&nbsp;&nbsp;CareNet.com",
-      "sources": [
-        {
-          "name": "CareNet.com",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1KRFN3RGdlT3hUdW5MXzBGVW94NWpPQVBZcVNjV0tUWXVOTGpVanhyYkU4aHBfa0RQQ2N3MzF0ck1UdW5TckM1WERtYS1ROTZFQjM5X2dlaENpdkR6ZXB3?oc=5"
         }
       ]
     },
