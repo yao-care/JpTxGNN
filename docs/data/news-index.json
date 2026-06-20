@@ -1,16 +1,12 @@
 {
-  "generated": "2026-06-20T02:29:26.606240+00:00",
-  "count": 17,
+  "generated": "2026-06-20T08:39:51.556929+00:00",
+  "count": 16,
   "news": [
     {
-      "id": "4583779a1c1e",
-      "title": "毎日食べているのに気づいていない…9万人調査で判明した「脳卒中の死亡率を3割も減らす」和食の主役(プレジデントオンライン)",
+      "id": "09e6f5c1f2c6",
+      "title": "毎日食べているのに気づいていない…9万人調査で判明した「脳卒中の死亡率を3割も減らす」和食の主役",
       "published": "2026-06-20T02:15:00+00:00",
       "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/95448b024b2d116f05f1e0e62dd5f207c3b3ab5c?source=rss"
-        },
         {
           "name": "Yahoo!ファイナンス",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZWV1RmVyaUxFYzk4cDlfMk5PZGVBbXJUbFVJOER1a1BGSl9UMHFHNnN1b3EyZG1PTGoxaExadnlNOHZrYUJvVW5tbmlWalpWcUs3X3VFdTRRbC0zZVdSeXhQWGlrYXc1cm13OExxX2JLN24xcExFR0tQY19nRmJqallqNzB3QkU?oc=5"
@@ -91,193 +87,9 @@
       ]
     },
     {
-      "id": "e31a57114b61",
-      "title": "心臓外科医育てる、それが未来への使命　基金運営委員長の新浪博士さん　あけみちゃん基金60年(産経新聞)",
-      "published": "2026-06-20T02:14:09+00:00",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/8bb6aa4defd00ccaa8d039ba788c03cac0f79af0?source=rss"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "heart_disease",
-          "keyword": "心臓病",
-          "related_drugs": [
-            {
-              "slug": "nifedipine",
-              "name": "アダラートＣＲ錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "atorvastatin",
-              "name": "アトーゼット配合錠ＨＤ（選）"
-            },
-            {
-              "slug": "azithromycin",
-              "name": "ジスロマック細粒小児用１０％　１００ｍｇ（選）"
-            },
-            {
-              "slug": "fexofenadine",
-              "name": "ディレグラ配合錠（選）"
-            },
-            {
-              "slug": "valsartan",
-              "name": "ディオバンＯＤ錠１６０ｍｇ（選）"
-            },
-            {
-              "slug": "pravastatin",
-              "name": "メバロチン錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "atenolol",
-              "name": "テノーミン錠５０　５０ｍｇ（選）"
-            },
-            {
-              "slug": "simvastatin",
-              "name": "リポバス錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "carvedilol",
-              "name": "アーチスト錠２０ｍｇ（選）"
-            },
-            {
-              "slug": "propranolol",
-              "name": "インデラル錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "spironolactone",
-              "name": "アルダクトンＡ錠５０ｍｇ（選）"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "ロプレソール錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "enalapril",
-              "name": "レニベース錠１０　１０ｍｇ（選）"
-            },
-            {
-              "slug": "lisinopril",
-              "name": "ロンゲス錠２０ｍｇ（選）"
-            },
-            {
-              "slug": "diltiazem",
-              "name": "ヘルベッサー錠６０　６０ｍｇ（選）"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "エックスフォージ配合ＯＤ錠（選）"
-            },
-            {
-              "slug": "furosemide",
-              "name": "ラシックス錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "lidocaine",
-              "name": "リドカイン（１８ｍｇ）３０．５ｍｍ×５０．０ｍｍ貼付剤"
-            },
-            {
-              "slug": "bisoprolol",
-              "name": "メインテート錠５ｍｇ（選）"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "ミカムロ配合錠ＢＰ（選）"
-            },
-            {
-              "slug": "rosuvastatin",
-              "name": "クレストールＯＤ錠５ｍｇ（選）"
-            },
-            {
-              "slug": "tamsulosin",
-              "name": "ハルナールＤ錠０．２ｍｇ（選）"
-            },
-            {
-              "slug": "clopidogrel",
-              "name": "プラビックス錠７５ｍｇ（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "verapamil",
-              "name": "ワソラン錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "levofloxacin",
-              "name": "クラビット点眼液１．５％（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "montelukast",
-              "name": "シングレアＯＤ錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "silodosin",
-              "name": "ユリーフＯＤ錠４ｍｇ（選）"
-            },
-            {
-              "slug": "hydrochlorothiazide",
-              "name": "プレミネント配合錠ＨＤ（選）"
-            },
-            {
-              "slug": "losartan",
-              "name": "ニューロタン錠５０ｍｇ（選）"
-            },
-            {
-              "slug": "latanoprost",
-              "name": "ザラカム配合点眼液（選）"
-            },
-            {
-              "slug": "warfarin",
-              "name": "ワルファリンＫ細粒０．２％「ＮＳ」"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "ザルティア錠５ｍｇ（選）"
-            },
-            {
-              "slug": "pregabalin",
-              "name": "リリカＯＤ錠１５０ｍｇ（選）"
-            },
-            {
-              "slug": "fenofibrate",
-              "name": "トライコア錠８０ｍｇ（選）"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            },
-            {
-              "slug": "prasugrel",
-              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
-            },
-            {
-              "slug": "lactulose",
-              "name": "ラグノスＮＦ経口ゼリー分包１２ｇ　５４．１６７％"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "27e8f0f5dc9c",
       "title": "「血液サラサラの薬」を飲んでいて脳梗塞になった人は脳梗塞後に初めて不整脈が見つかった人より2倍再発しやすい",
-      "published": "2026-06-19T22:52:30+00:00",
+      "published": "2026-06-19T23:02:16+00:00",
       "sources": [
         {
           "name": "ncvc.go.jp",
@@ -361,7 +173,7 @@
     {
       "id": "2306b087973d",
       "title": "「認知症」になる人の共通点。20,30代から始まっている“異変”とは？(ダイヤモンド・オンライン)",
-      "published": "2026-06-19T21:59:39+00:00",
+      "published": "2026-06-19T21:57:00+00:00",
       "sources": [
         {
           "name": "Yahoo!ファイナンス",
@@ -1905,13 +1717,13 @@
       ]
     },
     {
-      "id": "763e58b35e8b",
-      "title": "認知症になってよかった…定年後すぐ診断された60代元管理職の男性が、そう医師に語った意外な理由(プレジデントオンライン)",
+      "id": "0ca6d658d364",
+      "title": "認知症になってよかった…定年後すぐ診断された60代元管理職の男性が､そう医師に語った意外な理由（プレジデントオンライン）",
       "published": "2026-06-18T10:15:00+00:00",
       "sources": [
         {
-          "name": "Yahoo!ファイナンス",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWW9OdDhPRkdsaEFvRzlEcFZ0WkN1dGFlUWV6a3BlQzZHcHk5T0V3Sml6TE5jUmZlRlRqQzV1Zjg2TnI4SlVBeXRpbHd3Wmw1SGJoRnF0ZEhzS0FPQ0JDQ0JvQUROYmZBcXE1RUFHLUh1SmI5VjBIZTBmemZKRFB2LVVTMTNFTnc?oc=5"
+          "name": "ｄメニューニュース",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUnZIeTA1elVJblU5T1dWTlNqeGJtRlRCZmVQWVJTQWR5Z1c3cjk0UldqMGZtV0FTMHZLWDdnU0VMSHpreHE2UERsbXNjTzlYNU9sTl9DMGw1NjAtYUpfWnJPdFNLQk9hTF91Q1BDeDBvLTF0TjVLUEpSdW5wVWxqS09n?oc=5"
         }
       ],
       "keywords": [
