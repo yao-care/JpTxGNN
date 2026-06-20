@@ -1,43 +1,67 @@
 {
   "source": "japan_news",
-  "fetched_at": "2026-06-20T08:39:51.186246+00:00",
-  "total_fetched": 128,
-  "unique_count": 128,
-  "health_related_count": 51,
+  "fetched_at": "2026-06-20T13:27:24.163218+00:00",
+  "total_fetched": 124,
+  "unique_count": 124,
+  "health_related_count": 40,
   "news": [
     {
-      "id": "d1c835228260",
-      "title": "【40代が選ぶ】東大・京大以外で就職力が高いと思う「国立大学」ランキング！　第2位は「筑波大学」、1位は？(ねとらぼ)",
-      "published": "2026-06-20T08:30:00+00:00",
-      "summary": "国立大学法人によって運営されている国立大学。研究や教育の質に優れた大学が多く、全国から多くの受験生が合格を目指しています。 ねとらぼでは、アンケートサイト「ボイスノート」の協力のもと、全国の40",
+      "id": "f51f1d6ae180",
+      "title": "「妊娠か手術の2択」医師の過酷な宣告→実は子宮内膜症だった私、4カ月先の手術と闘病の全貌に「痛いほどわかる」【作者に聞く】(ウォーカープラス)",
+      "published": "2026-06-20T13:25:36+00:00",
+      "summary": "おしゃれなキッチン雑貨店に勤務していた元店長・オムニウッチー(@omni_uttii821)さんは、ある日突然の腹痛で立ち上がれなくなった。想像を絶する痛みを鎮痛剤で散らし、クリニックを受診すると「子",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/87e960d9800497abb66dca42dec1cdd46a2c3bb9?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/82c1036708a4a20c26b3453d396a742d533c4b91?source=rss"
         }
       ]
     },
     {
-      "id": "d72829b7a015",
-      "title": "「自宅の観葉植物」に強烈な違和感　発見した「まさかの物体」に思わず目を疑う(LIMO)",
-      "published": "2026-06-20T08:20:58+00:00",
-      "summary": "まさか、これは何!? 観葉植物の土に生えた意外なものが、Threadsで話題になっています。 投稿したのは、「@y_kimra_higa」さんです。 当ポストには執筆時点で86万件を超えて表示され",
+      "id": "057800bf8f83",
+      "title": "頭痛やめまいを緩和する「曲差」は、視力低下や鼻づまりなど頭部の諸症状にも作用します(家庭画報.com)",
+      "published": "2026-06-20T12:10:02+00:00",
+      "summary": "中医学のエキスパートである鍼灸師の兵頭 明先生が、ツボの効能や位置、効くメカニズムを解説します。健康の土台作りに、不調改善に、1日1分のツボ押しを習慣にしましょう。",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/dc1aa00272ccab07b849a81575e905236f7f1a4f?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/b2495852751a67bbfa8dbd5d3f8c5688522b236f?source=rss"
         }
       ]
     },
     {
-      "id": "35557eb3cb58",
-      "title": "愛猫といい関係を築くために高さや数も重要だった！心身の健康を保つ高所のつくりかた(ねこのきもち WEB MAGAZINE)",
-      "published": "2026-06-20T08:10:00+00:00",
-      "summary": "猫のストレス軽減や健康増進の観点から考えると、家の中に自由に行き来できる高所があることは重要です。外猫にとって木がどのような場所か知ったうえで、猫の欲求を満たす環境を整えてあげましょう。 一級建築士で",
+      "id": "2c109c56e509",
+      "title": "3歳でピラミッドを訪問、「家業」は考古学　マヤ文明の謎解きに生涯を捧げた研究者がいた(ナショナル ジオグラフィック日本版)",
+      "published": "2026-06-20T11:10:35+00:00",
+      "summary": "私（筆者のデイビッド・スチュアート氏）のなかの最も古い記憶は、はるか遠くにあるマヤのピラミッドの姿だ。中米グアテマラのジャングルにそびえる石造りの巨大建造物。わずか3歳だった私は、てっぺんの入り口ま",
       "sources": [
         {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/4f584a992efa245869fe3e6878130f78d442f3fa?source=rss"
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/a38fe3958ecce9c916d63b18160e7615073d423a?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "dc9fdbff49d1",
+      "title": "NASA有人月ミッション「アルテミスII」の公開画像から太陽のFコロナの構造を解析した研究成果(sorae 宇宙へのポータルサイト)",
+      "published": "2026-06-20T09:30:59+00:00",
+      "summary": "東京都市大学の津村耕司准教授と、石垣島天文台室長を務める国立天文台の有松亘講師は、NASA（アメリカ航空宇宙局）の有人月ミッション「Artemis II（アルテミスII）」の最中に撮影された広報用の画",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/2487860f163d1dbb5fbc04c95208b16574967e4d?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "51f031edbc12",
+      "title": "人はなぜ恋に落ちるのか？進化生物学が明かす驚きの生存戦略(Forbes JAPAN)",
+      "published": "2026-06-20T09:00:00+00:00",
+      "summary": "1992年の研究で、神経学者のチームが、ある発見をした。厳密に言えば、その発見はヒトとはなんの関係もなかった。このチームが研究していたのは、プレーリーハタネズミ（学名：Microtus ochroga",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/bfead8409e4972cec8169dd2204306e30af577c4?source=rss"
         }
       ]
     },
@@ -50,54 +74,6 @@
         {
           "name": "CareNet.com",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5iUGViMVlsdk1uaUdaOEFCQTdYZXY3SWVadHBsYlkwaXZqejZFZmZPZGEzTmdGYm41WU1DTDhTNkZqM2xIRFZIUnBFSVNTZXFtS2hDNHpiOVg5VEVvc0J3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a20678f36d08",
-      "title": "うつ病は薬だけでは治らない？ 精神科医が提唱する「社会的関係性の病理」という新しい視点(AERA DIGITAL)",
-      "published": "2026-06-20T08:00:36+00:00",
-      "summary": "「なぜ、薬を飲んでも心の不調が良くならないのだろう？」。そう感じたことはありませんか。脳科学の進歩は目覚ましいですが、現代の精神科治療は対症療法にとどまり、十分な成果を挙げられていない現実があります。",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/4a3dca3c8c16107a0a26c4971cddacd5edbed919?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "5bafe882729f",
-      "title": "「日本関係のグッズを発見」　ジョージア大使が母国で驚愕　ホテルで見つけた意外な土産とは(Hint-Pot)",
-      "published": "2026-06-20T07:08:53+00:00",
-      "summary": "異国の地では、その土地ならではの文化や風景に触れる機会が多くあります。一方で、思いがけず自分の国になじみのあるものを見つけると、親しみを感じ、足を止めてしまうこともあるでしょう。ジョージアの駐日大使",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/ca35bed4f4d25c7b578e1d1feb4182fd5a5afd99?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "22ad3e46172c",
-      "title": "女性の不調を整える！ワタナベマキさんの「トマトとしらすの薬膳サラダ」レシピ。レモンが香り豊か(ESSE-online)",
-      "published": "2026-06-20T07:00:37+00:00",
-      "summary": "活動量が増える季節だからこそ摂りたい“ご自愛サラダ”のレシピを、料理研究家のワタナベマキさんに教えてもらいました。鉄分を含むパセリと、ビタミンCが豊富なトマトとレモンを組み合わせることで、栄養の吸収を",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/8cbfe0b6dab4822fbe521217e6dbcc46fb11fb90?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "5c01b6dcdfd6",
-      "title": "博物館資料廃棄は「最終手段」　収蔵庫満杯でも許されず(共同通信)",
-      "published": "2026-06-20T06:49:48+00:00",
-      "summary": "全国各地の博物館の収蔵庫が満杯状態となり資料の廃棄が懸念されている問題を受け、研究者や学芸員らでつくる「博物館コレクション管理研究会」が処分に関する基本理念をまとめ、公表した。博物館の資料は「社会か",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/595d6f0f61284731bdb9d982ff9e624b8720ccbb?source=rss"
         }
       ]
     },
@@ -186,14 +162,14 @@
       ]
     },
     {
-      "id": "50f9a26df15f",
-      "title": "ランニングと同じ健康効果を得られるのに、ケガのリスクが少ない…医師が推奨する60代から始まるべき運動 - Yahoo!ファイナンス",
-      "published": "2026-06-19T22:15:00+00:00",
-      "summary": "ランニングと同じ健康効果を得られるのに、ケガのリスクが少ない…医師が推奨する60代から始まるべき運動&nbsp;&nbsp;Yahoo!ファイナンスGoogle ニュースで見出しと意見をもっと見る",
+      "id": "9784238ea953",
+      "title": "ランニングと同じ健康効果を得られるのに､ケガのリスクが少ない…医師が推奨する60代から始まるべき運動 - PRESIDENT Online（プレジデントオンライン）",
+      "published": "2026-06-19T22:00:00+00:00",
+      "summary": "ランニングと同じ健康効果を得られるのに､ケガのリスクが少ない…医師が推奨する60代から始まるべき運動&nbsp;&nbsp;PRESIDENT Online（プレジデントオンライン）Google ニュースで見出しと意見をもっと見る",
       "sources": [
         {
-          "name": "Yahoo!ファイナンス",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVGc2LWFBT0MwVHN3U2tGcXd0c1JNV0lUQzJPb2Y2MUVsa1ZTaDM2SWRPMW92ZEYxUTIxc0tSWnJJMHliV2JnQm9LUlNUM2ZDcmVuSHJIT0E3WDBwako4bmJxS210SF9IYWZCQmVGS0JOUTh2eWVBWUdrNTlJSG5Ja0p3RG15Vmc?oc=5"
+          "name": "PRESIDENT Online（プレジデントオンライン）",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rNVYtUVAySThpZ2NQYnJSX0FFY0k0a01WRUNOSmhKd0NpWDl4a05jdDVWYllFbE1NdlBUem9vZTFVT1M5cHN1U0pFaHJwS0pzUUY4S0toUmo?oc=5"
         }
       ]
     },
@@ -201,7 +177,7 @@
       "id": "2306b087973d",
       "title": "「認知症」になる人の共通点。20,30代から始まっている“異変”とは？(ダイヤモンド・オンライン) - Yahoo!ファイナンス",
       "published": "2026-06-19T21:57:00+00:00",
-      "summary": "「認知症」になる人の共通点。20,30代から始まっている“異変”とは？(ダイヤモンド・オンライン)&nbsp;&nbsp;Yahoo!ファイナンスなぜ「愚痴や陰口ばかり言う人」はボケやすくなるのか…脳が老いていく人に共通する「怖い習慣」&nbsp;&nbsp;現代ビジネス「コロナでアルツハイマー病の進行が早まる」イギリスの医学調査研究が伝えた「認知症の意外な要因」&nbsp;&nbsp;ダイヤモンド・オンライン中年の習慣が“脳の未来”を決める─認知症リスクを4割下げる「最後の機会」&nbsp;&nbsp;クーリエ・ジャポン100歳でも元気な祖母と、家にこもる70代の父...その差が語る「本当に効果のある認知症予防」【老年医学専門医・山田悠史】&nbsp;&nbsp;mi-mollet（ミモレ）",
+      "summary": "「認知症」になる人の共通点。20,30代から始まっている“異変”とは？(ダイヤモンド・オンライン)&nbsp;&nbsp;Yahoo!ファイナンスなぜ「愚痴や陰口ばかり言う人」はボケやすくなるのか…脳が老いていく人に共通する「怖い習慣」&nbsp;&nbsp;現代ビジネス「認知症」になる人の共通点。20,30代から始まっている“異変”とは？&nbsp;&nbsp;ダイヤモンド・オンライン中年の習慣が“脳の未来”を決める─認知症リスクを4割下げる「最後の機会」&nbsp;&nbsp;クーリエ・ジャポン100歳でも元気な祖母と、家にこもる70代の父...その差が語る「本当に効果のある認知症予防」【老年医学専門医・山田悠史】&nbsp;&nbsp;mi-mollet（ミモレ）",
       "sources": [
         {
           "name": "Yahoo!ファイナンス",
@@ -402,30 +378,6 @@
       ]
     },
     {
-      "id": "e44ab6a2b061",
-      "title": "【News】デング熱感染１人確認 オアフ島を訪れていた旅行者で感染が広がる国への渡航歴あり - KZOOハワイ",
-      "published": "2026-06-18T12:12:22+00:00",
-      "summary": "【News】デング熱感染１人確認 オアフ島を訪れていた旅行者で感染が広がる国への渡航歴あり&nbsp;&nbsp;KZOOハワイ",
-      "sources": [
-        {
-          "name": "KZOOハワイ",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XMU9kTDRBQUo2bkx6eUFIVVMzWlR6TnRjOUxDcjVvRGJhT1BENG5MaWFqOGI2YlJKS1VWRldWNWdSTXhMUzA0ZGdhT3VQVDFra0dFV1ZmMU5ndw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b0f6fb76a17a",
-      "title": "65歳未満がなる「若年性アルツハイマーの症状」はご存じですか？原因も医師が解説！ - メディカルドック",
-      "published": "2026-06-18T11:59:20+00:00",
-      "summary": "65歳未満がなる「若年性アルツハイマーの症状」はご存じですか？原因も医師が解説！&nbsp;&nbsp;メディカルドックGoogle ニュースで見出しと意見をもっと見る",
-      "sources": [
-        {
-          "name": "メディカルドック",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBOSUNNN1NqRXJDRW4wMXF3NG4yelNBTEFIalo3dW4zajZXMDl4ZUJBa0ZEdlVCWEpXTC1pTEthbGR5Rk1Qc3NMN0VaWndESnAycmdEVjhyb0YteUI2ckw0UV91M18zblZhaVZB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "43eae0a2bf69",
       "title": "【タガメ】アリと乾燥から卵を守るため「産卵場所を厳選」していた【長崎大学・倉敷芸術科学大学】(RSK山陽放送)",
       "published": "2026-06-18T11:29:10+00:00",
@@ -434,54 +386,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/cd0390ea29ad43158bceac86ec80531c3a56c104?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "0ca6d658d364",
-      "title": "認知症になってよかった…定年後すぐ診断された60代元管理職の男性が､そう医師に語った意外な理由（プレジデントオンライン） - ｄメニューニュース",
-      "published": "2026-06-18T10:15:00+00:00",
-      "summary": "認知症になってよかった…定年後すぐ診断された60代元管理職の男性が､そう医師に語った意外な理由（プレジデントオンライン）&nbsp;&nbsp;ｄメニューニュース「財布を盗まれた」と繰り返す認知症親の言動が一気に和らいだ…専門医がかけた\"さすがのひとこと\"（プレジデントオンライン）&nbsp;&nbsp;Yahoo!ニュース専門医｢幸せな認知症患者は診察室での様子が全然違う｣…物忘れが増えた85歳母に娘がかけた\"ひとこと\"&nbsp;&nbsp;PRESIDENT Online（プレジデントオンライン）精神科入院の実態 元記者が取材経験踏まえ長野市で講演&nbsp;&nbsp;信濃毎日新聞デジタル顔・頭を蹴られ、同僚は首を締められ…認知症患者に向き合う看護師たちの苦悩「身構えながら働くのが普通に」4人に1人は日常的に被害&nbsp;&nbsp;テレ朝NEWS",
-      "sources": [
-        {
-          "name": "ｄメニューニュース",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUnZIeTA1elVJblU5T1dWTlNqeGJtRlRCZmVQWVJTQWR5Z1c3cjk0UldqMGZtV0FTMHZLWDdnU0VMSHpreHE2UERsbXNjTzlYNU9sTl9DMGw1NjAtYUpfWnJPdFNLQk9hTF91Q1BDeDBvLTF0TjVLUEpSdW5wVWxqS09n?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "077ac39e25d6",
-      "title": "令和8年度加東市病院事業部勤怠管理システム導入業務委託に係る公募型プロポーザルについて - 加東市",
-      "published": "2026-06-18T09:19:46+00:00",
-      "summary": "令和8年度加東市病院事業部勤怠管理システム導入業務委託に係る公募型プロポーザルについて&nbsp;&nbsp;加東市",
-      "sources": [
-        {
-          "name": "加東市",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdWVGVTNBUlVHeVVJOWtQcUlCSDB2dGQ2eUNLT3lqTzhtbUpWZGhTd1ByMHp1Z296Q25SbngteUtzaVdWZ1VmblUtczJxWTU2cHVJLWRNX2YzSGNkZ1BBenNtdmlUNkpFdkZkR0dTY2ZESUs1SkJqQ2tiUE9rNjZabTROSlIxcUJCZEE2bHEtMEhObmp3QlJET1A1WQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7b8eee2d7c26",
-      "title": "子宮頸がんの死亡数、HPVワクチン接種した若い女性でゼロに　英研究 - BBC",
-      "published": "2026-06-18T08:38:02+00:00",
-      "summary": "子宮頸がんの死亡数、HPVワクチン接種した若い女性でゼロに 英研究&nbsp;&nbsp;BBC",
-      "sources": [
-        {
-          "name": "BBC",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45bTNhRGdXN1ZtS1lkYnhfdHNqaG1DR01kRm9uVmZyRU5aMDY0RHROaWpCT1U5VktjUnZ2Wm53cDdZemtMUmZzU2dRdEthWVlVb0J4eVQtcVk1Sk0zNTdJ0gFkQVVfeXFMT2xjcjY1Q2RWcmloZHdadlVub0pZa1E1V0t0cVZzX08tM09nUDRJNnRGZGxQdWpwZmY4Nkw2bjFvNnhyWXFsVXdIRGpCejZGbEJCaG96TEF6bWJDX1FOZDZDUEFVZQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "216e9281dfb9",
-      "title": "インフルエンザ増殖に関わる遺伝子特定、新薬に期待 東大など - 毎日新聞",
-      "published": "2026-06-18T08:08:23+00:00",
-      "summary": "インフルエンザ増殖に関わる遺伝子特定、新薬に期待 東大など&nbsp;&nbsp;毎日新聞国立健康危機管理研究機構など、インフルエンザの感染や病態に関与する宿主遺伝子をマウスモデルで同定&nbsp;&nbsp;日経バイオテクONLINEインフルエンザのウイルス増殖、重要な宿主の遺伝子特定 東大など&nbsp;&nbsp;日本経済新聞インフルエンザ感染に関わる宿主因子を同定&nbsp;&nbsp;u-tokyo.ac.jp",
-      "sources": [
-        {
-          "name": "毎日新聞",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1HbGNYMThqRFJvd1VFQzgydWNqLUlFOEpZbkpDaWFfSG5ET1RHamJpTlNFYkxrRU9wNXlscFNjN3NJQ2x6TXUzUWZDR2FNblVOTDRJaTllZTVLcUFtdzdxRVBhMjN2SEp5?oc=5"
         }
       ]
     },
@@ -578,42 +482,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/f3fe235ca9ca4a7692309731a1706cce5a63b985?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "e8bd9d00cc06",
-      "title": "リボソームの「詰まり」を解消する分子メカニズムを解明　YheSがtRNAを引っ張り \"翻訳\" を再始動【東京大学・岡山大学など】(RSK山陽放送)",
-      "published": "2026-06-17T05:40:25+00:00",
-      "summary": "東京大学、東京科学大学、岡山大学、科学技術振興機構（JST）による研究グループは、タンパク質 YheS がリボソームの翻訳停止（アレスト）を解除する分子メカニズムを明らかにしました。 クライオ電子顕",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/1c4e0f35dadb673bd72a0362ddbafb2be26e74c9?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "e7d7dc54bbc5",
-      "title": "電源なしで空気から液体燃料を生むマシーン誕生、原理は「葉っぱ」(ギズモード・ジャパン)",
-      "published": "2026-06-16T12:30:01+00:00",
-      "summary": "まるで錬金術！ イェール大学の研究チームが開発した「人工葉」が、太陽光・水・二酸化炭素だけを使って液体燃料のメタノールを生成することに、世界で初めて成功しました。しかも、外部電源なしの完全自立型デバ",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/c2015f301f9c7a546cb302871b66fbaebe7f46a2?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "605221ac79c0",
-      "title": "『ピロリ菌』除菌後も油断禁物？ 『胃がん』リスクを下げる定期検査の重要性(メディカルドック)",
-      "published": "2026-06-16T11:02:20+00:00",
-      "summary": "ピロリ菌は、胃がんの大きな原因の一つとして知られています。除菌治療を受けることで胃がんリスクは下がるものの、「除菌したからもう安心」と言い切れるわけではありません。除菌の意味を正しく理解し、除菌後に何",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/d3962ed882f49b63ccefe7a98e1e8b7a4209076e?source=rss"
         }
       ]
     }
