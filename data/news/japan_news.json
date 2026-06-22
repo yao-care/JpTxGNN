@@ -1,10 +1,46 @@
 {
   "source": "japan_news",
-  "fetched_at": "2026-06-22T16:27:52.569744+00:00",
-  "total_fetched": 130,
-  "unique_count": 130,
-  "health_related_count": 46,
+  "fetched_at": "2026-06-22T20:33:43.926006+00:00",
+  "total_fetched": 132,
+  "unique_count": 132,
+  "health_related_count": 47,
   "news": [
+    {
+      "id": "6f3367252ea8",
+      "title": "クライブ・デービスさんが死去　米音楽プロデューサー(共同通信)",
+      "published": "2026-06-22T19:58:55+00:00",
+      "summary": "米音楽界の大物プロデューサーでレコードレーベル経営者のクライブ・デービスさんが22日、ニューヨーク・マンハッタンの自宅で死去したと米メディアが報じた。94歳。今年初め、呼吸器系の病気で入院していた。",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/405861401c6993f747af2bd36858c1f7e576e79e?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "97f89974c0c0",
+      "title": "複合がん免疫療法の近未来／日本臨床腫瘍学会｜CareNet.com - CareNet.com",
+      "published": "2026-06-22T19:00:00+00:00",
+      "summary": "複合がん免疫療法の近未来／日本臨床腫瘍学会｜CareNet.com&nbsp;&nbsp;CareNet.com進化するがん免疫療法と希少がん新薬開発の最前線――臨床腫瘍学会PAPリポート・後編（Medical Note）&nbsp;&nbsp;Yahoo!ニュース【ブログ】革新的医薬品へのアクセスを維持するために日本の医療が直面する“静かな危機”&nbsp;&nbsp;選挙ドットコム",
+      "sources": [
+        {
+          "name": "CareNet.com",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VRGpHQTB6eEJOQXh3a2plbHZleEhPbUNsUHpNMVFFTHVPM3AzQ05yTkZ5MHNJUFhJVDJnN3R4U0ROQk1USkE1LVJYRWh0ekg2VGJ6YzdOeVVGY2V5Wmpz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cf2cf1771f89",
+      "title": "阪神ファンの認知症患者、優勝後にBPSDが大きく改善!?｜CareNet.com - CareNet.com",
+      "published": "2026-06-22T19:00:00+00:00",
+      "summary": "阪神ファンの認知症患者、優勝後にBPSDが大きく改善!?｜CareNet.com&nbsp;&nbsp;CareNet.com",
+      "sources": [
+        {
+          "name": "CareNet.com",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HQktyd1gwQkxtVXlnS0djWlZrRDhoa2w2VExTNEFCSFdPX2V2S09LNnE4ekQ4QVpvNjFNQ2JDMWxJMUFUR2NuNWlDUHJtVXNxZUVMc0hnenZvcmtfRVRR?oc=5"
+        }
+      ]
+    },
     {
       "id": "c5d9ec6b05cb",
       "title": "【6年ぶり改訂】「糖尿病×循環器病ステートメント」運動療法の推奨は維持、DASIスコアを新規掲載 - PT-OT-ST.NET",
@@ -14,6 +50,18 @@
         {
           "name": "PT-OT-ST.NET",
           "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9RSmN5VmExa2FoaWxOQWFySHJGblg2N0tZUm5GRjY5VGRsZkxZcmV2ZVV1X1pBY2V6ZnNyNHkxOHJJMFVFbFdCeW82czlIV1RoR3F1d29ZaTlTZWs5eGt1c0d5VQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9ed15081170d",
+      "title": "グルコサミンが認知症の進行を早める？ 新たな研究結果が波紋 - ライブドアニュース",
+      "published": "2026-06-22T14:48:21+00:00",
+      "summary": "グルコサミンが認知症の進行を早める？ 新たな研究結果が波紋&nbsp;&nbsp;ライブドアニュース",
+      "sources": [
+        {
+          "name": "ライブドアニュース",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE83WVFlWFZHd25hcDN0SWk5bEFwN1lSY0JKamtXcUdZeGU4eVdBZG5zNjdNMkhmclc0R2s2cjJXYVpFS2xCYUVud256bVNUMFphRm1IUkZoTjFkMUV4c0U4?oc=5"
         }
       ]
     },
@@ -78,18 +126,6 @@
       ]
     },
     {
-      "id": "d82d3635cb86",
-      "title": "私の夫はイキり陰キャだった？　不倫を正当化し、夫が身勝手なモンスターに変貌【著者インタビュー】(ダ・ヴィンチWeb)",
-      "published": "2026-06-22T12:30:00+00:00",
-      "summary": "「ただの浮気」「身勝手すぎる」と話題の不倫マンガ『余命宣告不倫 純愛ぶってるけど、それただの浮気だから』（ミロチ/KADOKAWA）。 主人公・葵は、夫・颯太から「癌が見つかったこと」「余命が半年で",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/0516bbcae3180404d0d62ab43bcc21f477007862?source=rss"
-        }
-      ]
-    },
-    {
       "id": "d8c2b2f88fdd",
       "title": "香春で認知症カフェ 「笑い」の健康体操と茶話会で地域つなぐ - 筑豊経済新聞",
       "published": "2026-06-22T12:27:50+00:00",
@@ -98,30 +134,6 @@
         {
           "name": "筑豊経済新聞",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOdjZITEZGcHFlU0dZTHFSbVpBblI2TUxuYjNEWllmUWMzY0pfSXZoWUFuXzIyeVoxRF9JU3VpSUIyMnNTR3EyYzRvOERmQkszZVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0ef4a6d7f917",
-      "title": "「機能性バッチリ。着心地もいい！」　ミズノの“ゴアテックスジャケット”に絶賛の声　「大雨でも浸透しない」「軽いので普段使いもできる」(ねとらぼ)",
-      "published": "2026-06-22T12:25:00+00:00",
-      "summary": "MIZUNO（ミズノ）は、日本の代表的なスポーツブランドの一つです。100年を超える歴史の中で、ウェアやシューズの機能性を高めるテクノロジーを次々と開発。防水性や透湿性の高さが特徴のゴアテックスを使",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/a2c892774178c5c91b3274ae226ece7de8d7bd1b?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "65a334097fc1",
-      "title": "「鼻に酸素チューブ」で登場し、\"冷たい視線\"を浴びたノルウェー皇太子妃、新たに「手術の結果」を発表(Harper’s BAZAAR（ハーパーズ バザー）)",
-      "published": "2026-06-22T12:20:24+00:00",
-      "summary": "ノルウェー王室は現地時間6月17日、メッテ＝マリット皇太子妃が肺移植手術を受け、無事に成功したことを発表した。今後数週間は入院を継続し、退院まで健康状態に関する新たな発表は行われないという。 「肺移",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/3a45872db2b317cd1f0302bd195239cf3fc5812c?source=rss"
         }
       ]
     },
@@ -294,14 +306,14 @@
       ]
     },
     {
-      "id": "5bd2b81999f6",
-      "title": "「毎日1万歩」もウォーキングする必要はない…最新研究で分かった「80歳でも脳が若い人」に共通する歩数 - Yahoo!ファイナンス",
-      "published": "2026-06-22T01:15:00+00:00",
-      "summary": "「毎日1万歩」もウォーキングする必要はない…最新研究で分かった「80歳でも脳が若い人」に共通する歩数&nbsp;&nbsp;Yahoo!ファイナンスGoogle ニュースで見出しと意見をもっと見る",
+      "id": "fdc76d2880b9",
+      "title": "｢毎日1万歩｣もウォーキングする必要はない…最新研究で分かった｢80歳でも脳が若い人｣に共通する歩数 - PRESIDENT Online（プレジデントオンライン）",
+      "published": "2026-06-22T01:00:00+00:00",
+      "summary": "｢毎日1万歩｣もウォーキングする必要はない…最新研究で分かった｢80歳でも脳が若い人｣に共通する歩数&nbsp;&nbsp;PRESIDENT Online（プレジデントオンライン）ランニングと同じ健康効果を得られるのに､ケガのリスクが少ない…医師が推奨する60代から始まるべき運動 (2ページ目)&nbsp;&nbsp;PRESIDENT Online（プレジデントオンライン）ウォーキングの効果についてどう思いますか？&nbsp;&nbsp;Yahoo!ニュース「毎日1万歩」もウォーキングする必要はない…最新研究で分かった「80歳でも脳が若い人」に共通する歩数&nbsp;&nbsp;Yahoo!ニュース画像1：「毎日1万歩」もウォーキングする必要はない…最新研究で分かった「80歳でも脳が若い人」に共通する歩数&nbsp;&nbsp;Yahoo!ファイナンス",
       "sources": [
         {
-          "name": "Yahoo!ファイナンス",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUnZud3ZfY1k1SGxYU2NOTVk3cUVJTWRsNVNZaFExRWItTTcyTE9ldmNpWXRwQ292R3h1Ynp3dks0ZDdnWVhEeFJEeEVxUDBCTEtBRlV5QkM1WEYxVlY4eUxmT3h5VS04YUVWUHdfS2o2cV9CVmJwbTJWTEhhSWZNQUs3WHFUeDQ?oc=5"
+          "name": "PRESIDENT Online（プレジデントオンライン）",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE05VHhROEt0NUJCOW4tN3MtcXMxR1NoRHVMZkV0N29MVkNsOXBWOG5UYlNhMnRrRlJOZGpxRm90SzhhY3BJVEFQTzhoRG9UcTVZeU8zU2F6UFU?oc=5"
         }
       ]
     },
@@ -486,14 +498,14 @@
       ]
     },
     {
-      "id": "db8f07a811ef",
-      "title": "世界一の長寿国･日本でもまだ勝てない…｢死亡リスクを4割下げる｣地中海食にあって､日本食に足りないもの - ライブドアニュース",
+      "id": "25292c8d1bd7",
+      "title": "世界一の長寿国･日本でもまだ勝てない…｢死亡リスクを4割下げる｣地中海食にあって､日本食に足りないもの - ｄメニューニュース",
       "published": "2026-06-21T02:15:00+00:00",
-      "summary": "世界一の長寿国･日本でもまだ勝てない…｢死亡リスクを4割下げる｣地中海食にあって､日本食に足りないもの&nbsp;&nbsp;ライブドアニュースGoogle ニュースで見出しと意見をもっと見る",
+      "summary": "世界一の長寿国･日本でもまだ勝てない…｢死亡リスクを4割下げる｣地中海食にあって､日本食に足りないもの&nbsp;&nbsp;ｄメニューニュースGoogle ニュースで見出しと意見をもっと見る",
       "sources": [
         {
-          "name": "ライブドアニュース",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91bUVvUjBIVWNMRVJFVzlnZEJMeENhR3NtTXZEQ082Tl9zNlJZNTJTbDd2bFhWVHE0RUlIZWxRRUdST1FLTmJmcC1heDZ5Vm52VkZSdzhNWXVBeExyS2dr?oc=5"
+          "name": "ｄメニューニュース",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcEFpU0xaUXFfU24tMnhKZ0pGZl81c2F2TUlXeEo1OEpjbk1WQnVuRDBhdk4xeVNzSEVWR0dCeFR4RnFBOVF5ZXRFaUpaak9pM196U3ZTLXBzRjRmUEEyUk5yXzB3dVZFWVRjalpCM1JqelVPdW1UbjZZWExmenlsTnZ3?oc=5"
         }
       ]
     },
