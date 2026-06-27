@@ -1,39 +1,420 @@
 {
-  "last_updated": "2026-06-27T08:26:00.284004+00:00",
-  "total_count": 39,
-  "matched_count": 10,
+  "last_updated": "2026-06-27T13:09:19.891573+00:00",
+  "total_count": 42,
+  "matched_count": 13,
   "news": [
     {
-      "id": "1101c0d3d459",
-      "title": "「男女の体は細胞ひとつ取っても違う」女性の健康課題は〈年3.4兆円〉の損失…高市首相が推進する〈性差医療〉の必要性とは？(文春オンライン)",
-      "published": "2026-06-27T08:12:17+00:00",
-      "summary": "なぜ、医学・医療において性差を考慮する必要があるのか? 女性の健康に特化した初の国の研究・診療拠点「女性の健康総合センター（ICWH）」でセンター長をつとめる小宮ひろみ氏が、 性差医療 の意義を解説",
+      "id": "10c2d9119872",
+      "title": "【白ニキビ・黒ニキビのケア方法】ニキビの芯って抜いてもいい？ 専門家が解説！(MAQUIA)",
+      "published": "2026-06-27T13:01:16+00:00",
+      "summary": "ニキビが成長していく段階での最適解を皮膚科医と、長年ニキビと闘ってきたニキビケアマスターに伺いました！ お答えいただいたのは… ◆美容皮膚科タカミクリニック 副院長 山屋雅美先生 美容皮膚科医。多",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/151f52b792197d7fd288e005eaef6b1f3deee2d6?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/c40046468d5928f55c2c87e5c38c51fa122f21fa?source=rss"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "8cf94bed1b87",
-      "title": "「40代は本当に最悪で、まさに離婚寸前だった」約20年ぶりとなる自然妊娠をした3児の母（51）が語る、令和の子育てに感じる違和感(文春オンライン)",
-      "published": "2026-06-27T07:00:43+00:00",
-      "summary": "〈医師から「47歳はうちの病院の最高齢です」と…2人の子育て終了後→思いがけず自然妊娠した女性（51）が語る、高齢出産のリアル〉 から続く 47歳で自然妊娠し、第3子となるレオくんを出産したhi",
+      "id": "3e9a0ca7af09",
+      "title": "抑うつ状態やイライラが続くときは「肝兪」のツボ押しを。月経不順や月経痛も改善(家庭画報.com)",
+      "published": "2026-06-27T12:30:02+00:00",
+      "summary": "中医学のエキスパートである鍼灸師の兵頭 明先生が、ツボの効能や位置、効くメカニズムを解説します。健康の土台作りに、不調改善に、1日1分のツボ押しを習慣にしましょう。",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/556b5069384d017556f56237a5ba99b952845ce5?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/48d7ccc80002b68d1057f13b67d7a6f647c51065?source=rss"
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "729ff70981d1",
+      "title": "優しく穏やかだった夫が不倫相手の金銭感覚に引っ張られて変貌　ハイブランドを買い漁り、豪遊が止まらない！【著者インタビュー】(ダ・ヴィンチWeb)",
+      "published": "2026-06-27T12:30:00+00:00",
+      "summary": "「ただの浮気」「身勝手すぎる」と話題の不倫マンガ『余命宣告不倫 純愛ぶってるけど、それただの浮気だから』（ミロチ/KADOKAWA）。 主人公・葵は、夫・颯太から「癌が見つかったこと」「余命が半年で",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/6bb2ae9440a8ab656bf6de85bc001bc0886c7d78?source=rss"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "癌",
+          "related_drugs": [
+            {
+              "slug": "acyclovir",
+              "name": "ゾビラックス軟膏５％（選）"
+            },
+            {
+              "slug": "theophylline",
+              "name": "ユニコン錠１００　１００ｍｇ（選）"
+            },
+            {
+              "slug": "risperidone",
+              "name": "リスパダール錠２ｍｇ（選）"
+            },
+            {
+              "slug": "valproic-acid",
+              "name": "セレニカＲ顆粒４０％（選）"
+            },
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "atorvastatin",
+              "name": "アトーゼット配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "cyclosporine",
+              "name": "ネオーラル５０ｍｇカプセル（選）"
+            },
+            {
+              "slug": "azithromycin",
+              "name": "ジスロマック細粒小児用１０％　１００ｍｇ（選）"
+            },
+            {
+              "slug": "valsartan",
+              "name": "ディオバンＯＤ錠１６０ｍｇ（選）"
+            },
+            {
+              "slug": "carbamazepine",
+              "name": "テグレトール錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "morphine",
+              "name": "モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」"
+            },
+            {
+              "slug": "pravastatin",
+              "name": "メバロチン錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "atenolol",
+              "name": "テノーミン錠５０　５０ｍｇ（選）"
+            },
+            {
+              "slug": "loperamide",
+              "name": "ロペミンカプセル１ｍｇ（選）"
+            },
+            {
+              "slug": "simvastatin",
+              "name": "リポバス錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "carvedilol",
+              "name": "アーチスト錠２０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "diazepam",
+              "name": "ホリゾン錠５ｍｇ（選）"
+            },
+            {
+              "slug": "lorazepam",
+              "name": "ワイパックス錠１．０　１ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "spironolactone",
+              "name": "アルダクトンＡ錠５０ｍｇ（選）"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "ロプレソール錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "enalapril",
+              "name": "レニベース錠１０　１０ｍｇ（選）"
+            },
+            {
+              "slug": "lisinopril",
+              "name": "ロンゲス錠２０ｍｇ（選）"
+            },
+            {
+              "slug": "diltiazem",
+              "name": "ヘルベッサー錠６０　６０ｍｇ（選）"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "エックスフォージ配合ＯＤ錠（選）"
+            },
+            {
+              "slug": "clarithromycin",
+              "name": "クラリス錠５０小児用　５０ｍｇ（選）"
+            },
+            {
+              "slug": "furosemide",
+              "name": "ラシックス錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "lidocaine",
+              "name": "リドカイン（１８ｍｇ）３０．５ｍｍ×５０．０ｍｍ貼付剤"
+            },
+            {
+              "slug": "bisoprolol",
+              "name": "メインテート錠５ｍｇ（選）"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "ミカムロ配合錠ＢＰ（選）"
+            },
+            {
+              "slug": "rosuvastatin",
+              "name": "クレストールＯＤ錠５ｍｇ（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "clopidogrel",
+              "name": "プラビックス錠７５ｍｇ（選）"
+            },
+            {
+              "slug": "sertraline",
+              "name": "ジェイゾロフトＯＤ錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "timolol",
+              "name": "デュオトラバ配合点眼液（選）"
+            },
+            {
+              "slug": "diclofenac",
+              "name": "ボルタレンサポ５０ｍｇ（選）"
+            },
+            {
+              "slug": "budesonide",
+              "name": "シムビコートタービュヘイラー６０吸入（選）"
+            },
+            {
+              "slug": "moxifloxacin",
+              "name": "ベガモックス点眼液０．５％（選）"
+            },
+            {
+              "slug": "verapamil",
+              "name": "ワソラン錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "levofloxacin",
+              "name": "クラビット点眼液１．５％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "celecoxib",
+              "name": "セレコックス錠２００ｍｇ（選）"
+            },
+            {
+              "slug": "ezetimibe",
+              "name": "ゼチーア錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "topiramate",
+              "name": "トピナ錠２５ｍｇ（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "montelukast",
+              "name": "シングレアＯＤ錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "lamotrigine",
+              "name": "ラミクタール錠２５ｍｇ（選）"
+            },
+            {
+              "slug": "hydrochlorothiazide",
+              "name": "プレミネント配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "losartan",
+              "name": "ニューロタン錠５０ｍｇ（選）"
+            },
+            {
+              "slug": "latanoprost",
+              "name": "ザラカム配合点眼液（選）"
+            },
+            {
+              "slug": "clotrimazole",
+              "name": "エンペシドクリーム１％（選）"
+            },
+            {
+              "slug": "amoxicillin",
+              "name": "ワイドシリン細粒２０％　２００ｍｇ"
+            },
+            {
+              "slug": "ampicillin",
+              "name": "ビクシリンＳ配合錠　（２５０ｍｇ）"
+            },
+            {
+              "slug": "lamivudine",
+              "name": "エプジコム配合錠（選）"
+            },
+            {
+              "slug": "warfarin",
+              "name": "ワルファリンＫ細粒０．２％「ＮＳ」"
+            },
+            {
+              "slug": "fenofibrate",
+              "name": "トライコア錠８０ｍｇ（選）"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            },
+            {
+              "slug": "prasugrel",
+              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
+            },
+            {
+              "slug": "tramadol",
+              "name": "トラマールＯＤ錠５０ｍｇ（選）"
+            },
+            {
+              "slug": "metronidazole",
+              "name": "メトロニダゾールゲル０．７５％「マルイシ」"
+            },
+            {
+              "slug": "lactulose",
+              "name": "ラグノスＮＦ経口ゼリー分包１２ｇ　５４．１６７％"
+            },
+            {
+              "slug": "levetiracetam",
+              "name": "レベチラセタム粒状錠５００ｍｇ「サワイ」"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a55f2903374c",
+      "title": "「マダニが付いてる！」 ⇒ ネコを急いで病院へ… 先生の〝まさかの一言〟に爆笑「こりゃ間違えるわ」「私も焦った」(西日本新聞me)",
+      "published": "2026-06-27T12:20:23+00:00",
+      "summary": "愛猫の体に「マダニが付いてる！」と思い込み、急いで動物病院へ。しかし先生から告げられた〝まさかの正体〟に、驚きと安堵の声が広がっている。投稿したのは、ハチワレ猫のモノくんと暮らす「Mono」（@mo",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/4536d9871befc82c89d94c97a996da80c22673a3?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "fe7b91bf8e25",
+      "title": "\"痩せていることが理想\"の時代へと逆戻りか。「痩せ薬」の普及によりファッション業界に思わぬ影響が(Harper’s BAZAAR（ハーパーズ バザー）)",
+      "published": "2026-06-27T12:20:10+00:00",
+      "summary": "本来は2型糖尿病の治療薬であるにもかかわらず、ダイエット目的として服用する人が急増している「GLP-1受容体作動薬（GLP-1薬）」※。その人気はハリウッドだけでなく、アメリカの若年層にも広がりつつあ",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/a7e7b26cb302109cf5ff3621328ddf65e3608276?source=rss"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "type 2 diabetes mellitus",
+          "keyword": "2型糖尿病",
+          "related_drugs": [
+            {
+              "slug": "glyburide",
+              "name": "オイグルコン錠２．５ｍｇ（選）"
+            },
+            {
+              "slug": "gliclazide",
+              "name": "グリミクロン錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "pioglitazone",
+              "name": "アクトスＯＤ錠３０　３０ｍｇ（選）"
+            },
+            {
+              "slug": "glimepiride",
+              "name": "アマリール０．５ｍｇ錠（選）"
+            },
+            {
+              "slug": "metformin",
+              "name": "メホビル配合錠ＨＤ「トーワ」"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7a905953f6a0",
+      "title": "「家賃が払えなくなるかもしれない…」37歳女性が振り返る人生最大の家計のピンチ【FPがポイント解説】(All About)",
+      "published": "2026-06-27T12:15:00+00:00",
+      "summary": "物価高によって、日々家計のやりくりに頭を悩ませている人は少なくないでしょう。そこに結婚や出産などライフステージの変化が重なったり、病気になって治療費が発生したりすると、家計への影響はより大きくなります",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/c3a30e1bf66d75c05b9f1f644640977a560d8ee1?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "c6dacf3d62e3",
+      "title": "高用量インフルエンザワクチン【帯広市議会議員柳田健太郎】",
+      "published": "2026-06-27T10:58:09+00:00",
+      "summary": "高用量インフルエンザワクチン【帯広市議会議員柳田健太郎】&nbsp;&nbsp;選挙ドットコム",
+      "sources": [
+        {
+          "name": "選挙ドットコム",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UNXN3YUgwQ2pMeEhCRjR6dWYzOUl4UE1sR1ZNUXczT3h6WkZtYnB0bjE2Z0tmdXJFYmQ4YjFrNm9ibjNiZ05GZ2FmcFBVZ2FyNHVHaXVuckFrZXRETnZZ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "influenza",
+          "keyword": "インフルエンザ",
+          "related_drugs": [
+            {
+              "slug": "oseltamivir",
+              "name": "タミフルドライシロップ３％（選）"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "5d0f02fe420b",
       "title": "「殺人行為ですよ」高須幹弥が飲酒の強要を痛烈批判！少量でも体に悪いアルコールの現実",
       "published": "2026-06-27T06:53:58+00:00",
-      "summary": "「殺人行為ですよ」高須幹弥が飲酒の強要を痛烈批判！少量でも体に悪いアルコールの現実&nbsp;&nbsp;ライブドアニュース酒・タバコ・運動不足より影響大…現役医師が解説「日本人のがんの原因ランキング1位の意外な正体」（プレジデントオンライン）&nbsp;&nbsp;Yahoo!ニュースがん予防、節酒から「ひかえる」推奨へ 6項目を改訂&nbsp;&nbsp;日本経済新聞飲酒は「節酒」から「控える」へ がん予防法見直し 国立がん研究センター&nbsp;&nbsp;北海道新聞デジタル(3ページ目)酒・タバコ・運動不足より影響大…現役医師が解説「日本人のがんの原因ランキング1位の意外な正体」&nbsp;&nbsp;文春オンライン",
+      "summary": "「殺人行為ですよ」高須幹弥が飲酒の強要を痛烈批判！少量でも体に悪いアルコールの現実&nbsp;&nbsp;ライブドアニュース酒・タバコ・運動不足より影響大…現役医師が解説「日本人のがんの原因ランキング1位の意外な正体」（プレジデントオンライン）&nbsp;&nbsp;Yahoo!ニュースがん予防、節酒から「ひかえる」推奨へ 6項目を改訂&nbsp;&nbsp;日本経済新聞がん予防、飲酒は「節酒」から「ひかえる」、男性BMIの上限は25に&nbsp;&nbsp;日経Gooday飲酒や喫煙より影響あり？日本人のがん原因の「意外な1位」 (2026年6月22日掲載)&nbsp;&nbsp;ライブドアニュース",
       "sources": [
         {
           "name": "ライブドアニュース",
@@ -1251,7 +1632,7 @@
       "id": "46b0df89181b",
       "title": "「認知症の改善に手遅れはない」医師が断言！生活改善で『防げる・遅らせる』時代へ、おすすめの《6つのメソッド》も - au Webポータル",
       "published": "2026-06-27T01:00:00+00:00",
-      "summary": "「認知症の改善に手遅れはない」医師が断言！生活改善で『防げる・遅らせる』時代へ、おすすめの《6つのメソッド》も&nbsp;&nbsp;au Webポータル認知症になりにくい「寝る姿勢」。世界の研究が明かした“最高の体の向き”とは？&nbsp;&nbsp;ダイヤモンド・オンラインいますぐ始めたい！認知症予防&nbsp;&nbsp;NHKニュース",
+      "summary": "「認知症の改善に手遅れはない」医師が断言！生活改善で『防げる・遅らせる』時代へ、おすすめの《6つのメソッド》も&nbsp;&nbsp;au Webポータルいますぐ始めたい！認知症予防&nbsp;&nbsp;NHKニュース「認知症の改善に基本的に手遅れはない」医師が明かす6つのメソッド (2026年6月27日掲載)&nbsp;&nbsp;ライブドアニュース",
       "sources": [
         {
           "name": "au Webポータル",
@@ -1378,7 +1759,7 @@
       "id": "e0a505bae29d",
       "title": "欧米では「子宮頸がん」の撲滅が目前…英国は20～24歳の死亡が5年間ゼロ｜Dr.中川 がんサバイバーの知恵",
       "published": "2026-06-26T21:00:00+00:00",
-      "summary": "欧米では「子宮頸がん」の撲滅が目前…英国は20～24歳の死亡が5年間ゼロ｜Dr.中川 がんサバイバーの知恵&nbsp;&nbsp;日刊ゲンダイDIGITAL子宮頸がんの死亡数、HPVワクチン接種した若い女性でゼロに 英研究（BBC News）&nbsp;&nbsp;Yahoo!ニュース",
+      "summary": "欧米では「子宮頸がん」の撲滅が目前…英国は20～24歳の死亡が5年間ゼロ｜Dr.中川 がんサバイバーの知恵&nbsp;&nbsp;日刊ゲンダイDIGITAL欧米では「子宮頸がん」の撲滅が目前…英国は20〜24歳の死亡が5年間ゼロ【中川恵一 がんサバイバーの知恵】&nbsp;&nbsp;ｄメニューニュース子宮頸がんの死亡数、HPVワクチン接種した若い女性でゼロに 英研究（BBC News）&nbsp;&nbsp;Yahoo!ニュース",
       "sources": [
         {
           "name": "日刊ゲンダイDIGITAL",
@@ -2029,19 +2410,6 @@
       ]
     },
     {
-      "id": "321a196a549b",
-      "title": "今どき夏バテに負けない！【遠赤王】でリカバリーしながら健康に｜髙橋豊彦",
-      "published": "2026-06-26T08:37:25+00:00",
-      "summary": "今どき夏バテに負けない！【遠赤王】でリカバリーしながら健康に｜髙橋豊彦&nbsp;&nbsp;mbp-japan.com",
-      "sources": [
-        {
-          "name": "mbp-japan.com",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE90YTluWE8zZ19vOHplM05DdnZJc0Z1VDg1YzZKT1Z2TVpqSFdLN0lWbEk2WUVhalN6YzVHRU8waGpEalpwMDhFek01WEZpWERFeXBJQS1kU2dORmVJUVE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "b033c3a0b9c2",
       "title": "南海トラフ沿いのプレート境界の固着状態に地域差 東大、海保など(Science Portal)",
       "published": "2026-06-26T06:29:09+00:00",
@@ -2576,19 +2944,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/dc168044052fec54a98110d3c752048b8b3122d9?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "592804bcb3b1",
-      "title": "「生理痛」には種類があるとご存じですか？ 検査方法とそれぞれの治療法を医師が解説(メディカルドック)",
-      "published": "2026-06-24T09:03:48+00:00",
-      "summary": "生理痛は多くの女性が経験する症状ですが、中には治療が必要な「月経困難症」が隠れている場合もあります。月経困難症には原因の異なる2つのタイプがあり、適切な検査と治療を受ければ症状の改善が期待できます。",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/af53c2a1e656dc1df6dd485266bf17ce132be721?source=rss"
         }
       ],
       "matched_keywords": []
