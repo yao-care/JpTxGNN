@@ -1,10 +1,46 @@
 {
   "source": "japan_news",
-  "fetched_at": "2026-06-27T13:09:19.593382+00:00",
-  "total_fetched": 120,
-  "unique_count": 120,
-  "health_related_count": 42,
+  "fetched_at": "2026-06-27T19:04:04.673327+00:00",
+  "total_fetched": 117,
+  "unique_count": 117,
+  "health_related_count": 41,
   "news": [
+    {
+      "id": "8475fb69bab6",
+      "title": "【衝撃ビフォーアフター】51歳英人気タレント70kgの大減量！「3つの習慣をやめただけ」(ウィメンズヘルス)",
+      "published": "2026-06-27T14:00:10+00:00",
+      "summary": "イギリスの人気テレビ番組『ディス・モーニング』の司会者として知られるアリソン・ハモンド（51歳）。彼女が11ストーン（約70kg）もの減量に成功し、健康的な体に生まれ変わった背景には、運動が重要な役割",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/8e7916e02b290861a1dd6dad130ad3195655a7ee?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "f0d5f7a730ef",
+      "title": "10年ぶりに新調してよかった！仕事の集中力もあがるお香立て(ライフハッカー・ジャパン)",
+      "published": "2026-06-27T13:31:01+00:00",
+      "summary": "仕事の気持ちの切り替えに効果的に感じているのがお香。10年前からお香が好きで愛用していますが、難点は火事が心配なこと。 それを除けばお気に入りの香りに包まれて、仕事に没頭したり部屋でリラックスするの",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/39b2bcbba5996919f7ace592978faf6aed7ec687?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "1a102a3db7d4",
+      "title": "【40代のショートヘア】今っぽくてスタイリングも簡単な小顔見えウルフショート(MAQUIA)",
+      "published": "2026-06-27T13:30:10+00:00",
+      "summary": "ショートヘア初心者の方や、ボブに飽きた方におすすめのソフトウルフショート。首元に沿うように残した襟足が、小顔に見せる効果も。カプチーノカラーで、今っぽいニュアンスをプラスしたトレンド感満載のヘアスタイ",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/02e8df7821fd580889382183505676e809e6c120?source=rss"
+        }
+      ]
+    },
     {
       "id": "10c2d9119872",
       "title": "【白ニキビ・黒ニキビのケア方法】ニキビの芯って抜いてもいい？ 専門家が解説！(MAQUIA)",
@@ -54,30 +90,6 @@
       ]
     },
     {
-      "id": "fe7b91bf8e25",
-      "title": "\"痩せていることが理想\"の時代へと逆戻りか。「痩せ薬」の普及によりファッション業界に思わぬ影響が(Harper’s BAZAAR（ハーパーズ バザー）)",
-      "published": "2026-06-27T12:20:10+00:00",
-      "summary": "本来は2型糖尿病の治療薬であるにもかかわらず、ダイエット目的として服用する人が急増している「GLP-1受容体作動薬（GLP-1薬）」※。その人気はハリウッドだけでなく、アメリカの若年層にも広がりつつあ",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/a7e7b26cb302109cf5ff3621328ddf65e3608276?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "7a905953f6a0",
-      "title": "「家賃が払えなくなるかもしれない…」37歳女性が振り返る人生最大の家計のピンチ【FPがポイント解説】(All About)",
-      "published": "2026-06-27T12:15:00+00:00",
-      "summary": "物価高によって、日々家計のやりくりに頭を悩ませている人は少なくないでしょう。そこに結婚や出産などライフステージの変化が重なったり、病気になって治療費が発生したりすると、家計への影響はより大きくなります",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/c3a30e1bf66d75c05b9f1f644640977a560d8ee1?source=rss"
-        }
-      ]
-    },
-    {
       "id": "c6dacf3d62e3",
       "title": "高用量インフルエンザワクチン【帯広市議会議員柳田健太郎】 - 選挙ドットコム",
       "published": "2026-06-27T10:58:09+00:00",
@@ -86,18 +98,6 @@
         {
           "name": "選挙ドットコム",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UNXN3YUgwQ2pMeEhCRjR6dWYzOUl4UE1sR1ZNUXczT3h6WkZtYnB0bjE2Z0tmdXJFYmQ4YjFrNm9ibjNiZ05GZ2FmcFBVZ2FyNHVHaXVuckFrZXRETnZZ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5d0f02fe420b",
-      "title": "「殺人行為ですよ」高須幹弥が飲酒の強要を痛烈批判！少量でも体に悪いアルコールの現実 - ライブドアニュース",
-      "published": "2026-06-27T06:53:58+00:00",
-      "summary": "「殺人行為ですよ」高須幹弥が飲酒の強要を痛烈批判！少量でも体に悪いアルコールの現実&nbsp;&nbsp;ライブドアニュース酒・タバコ・運動不足より影響大…現役医師が解説「日本人のがんの原因ランキング1位の意外な正体」（プレジデントオンライン）&nbsp;&nbsp;Yahoo!ニュースがん予防、節酒から「ひかえる」推奨へ 6項目を改訂&nbsp;&nbsp;日本経済新聞がん予防、飲酒は「節酒」から「ひかえる」、男性BMIの上限は25に&nbsp;&nbsp;日経Gooday飲酒や喫煙より影響あり？日本人のがん原因の「意外な1位」 (2026年6月22日掲載)&nbsp;&nbsp;ライブドアニュース",
-      "sources": [
-        {
-          "name": "ライブドアニュース",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRV3l0RlozNVp6N2w0UFFxdnhYLU41cnNIb0VnbTBCNHFGSWsxOENfSjloLWpfTEh1eTRHemVnMmVlbVRRUEtWS2NLaVRXajVrSEh5czlGTlM4STNYZWc?oc=5"
         }
       ]
     },
@@ -141,7 +141,7 @@
       "id": "36d8421253c3",
       "title": "不足すると不幸な老後まっしぐら…医師が「幸福感を左右する」というお金でも地位でもない重要要素(プレジデントオンライン) - Yahoo!ファイナンス",
       "published": "2026-06-27T01:15:00+00:00",
-      "summary": "不足すると不幸な老後まっしぐら…医師が「幸福感を左右する」というお金でも地位でもない重要要素(プレジデントオンライン)&nbsp;&nbsp;Yahoo!ファイナンス画像 | これを手放さないと｢孤独な高齢者｣まっしぐら…66歳の佐藤優が気づいた｢定年後も幸せな人｣の共通点&nbsp;&nbsp;PRESIDENT Online（プレジデントオンライン）不足すると老後うつが待ち構える…和田秀樹「幸せホルモン分泌のために食べたいスーパーにある食材」（プレジデントオンライン）&nbsp;&nbsp;Yahoo!ニュース",
+      "summary": "不足すると不幸な老後まっしぐら…医師が「幸福感を左右する」というお金でも地位でもない重要要素(プレジデントオンライン)&nbsp;&nbsp;Yahoo!ファイナンス不足すると不幸な老後まっしぐら…医師が｢幸福感を左右する｣というお金でも地位でもない重要要素&nbsp;&nbsp;PRESIDENT Online（プレジデントオンライン）不足すると老後うつが待ち構える…和田秀樹「幸せホルモン分泌のために食べたいスーパーにある食材」（プレジデントオンライン）&nbsp;&nbsp;Yahoo!ニュース｢寝たきり老後｣は間違った靴選びから始まる…｢かかと無しサンダル｣は絶対NG､ではもう一つの注意点は?&nbsp;&nbsp;PRESIDENT Online（プレジデントオンライン）画像 | これを手放さないと｢孤独な高齢者｣まっしぐら…66歳の佐藤優が気づいた｢定年後も幸せな人｣の共通点&nbsp;&nbsp;PRESIDENT Online（プレジデントオンライン）",
       "sources": [
         {
           "name": "Yahoo!ファイナンス",
@@ -153,11 +153,23 @@
       "id": "46b0df89181b",
       "title": "「認知症の改善に手遅れはない」医師が断言！生活改善で『防げる・遅らせる』時代へ、おすすめの《6つのメソッド》も - au Webポータル",
       "published": "2026-06-27T01:00:00+00:00",
-      "summary": "「認知症の改善に手遅れはない」医師が断言！生活改善で『防げる・遅らせる』時代へ、おすすめの《6つのメソッド》も&nbsp;&nbsp;au Webポータルいますぐ始めたい！認知症予防&nbsp;&nbsp;NHKニュース「認知症の改善に基本的に手遅れはない」医師が明かす6つのメソッド (2026年6月27日掲載)&nbsp;&nbsp;ライブドアニュース",
+      "summary": "「認知症の改善に手遅れはない」医師が断言！生活改善で『防げる・遅らせる』時代へ、おすすめの《6つのメソッド》も&nbsp;&nbsp;au Webポータルいますぐ始めたい！認知症予防&nbsp;&nbsp;NHKニュース",
       "sources": [
         {
           "name": "au Webポータル",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Vd21zVFRVY0ppTUZwU0RYUTlYRFJDUkl3VHl0b2hZN2NVa3BLNjFLdGVNWFc2WlBUNjQ0T2dOWlNuTUlUMFlyaHl3akZKTGZhaXZmc21NeWIxajFaQmZPN0J2M1VfY0RrX2hJcXBrbWZPZXVyRU81b0k5UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6608620dfa69",
+      "title": "「殺人行為ですよ」高須幹弥が飲酒の強要を痛烈批判！少量でも体に悪いアルコールの現実 - ライブドアニュース",
+      "published": "2026-06-27T01:00:00+00:00",
+      "summary": "「殺人行為ですよ」高須幹弥が飲酒の強要を痛烈批判！少量でも体に悪いアルコールの現実&nbsp;&nbsp;ライブドアニュース酒・タバコ・運動不足より影響大…現役医師が解説「日本人のがんの原因ランキング1位の意外な正体」（プレジデントオンライン）&nbsp;&nbsp;Yahoo!ニュースがん予防、節酒から「ひかえる」推奨へ 6項目を改訂&nbsp;&nbsp;日本経済新聞がん予防、飲酒は「節酒」から「ひかえる」、男性BMIの上限は25に&nbsp;&nbsp;日経Gooday飲酒や喫煙より影響あり？日本人のがん原因の「意外な1位」 (2026年6月22日掲載)&nbsp;&nbsp;ライブドアニュース",
+      "sources": [
+        {
+          "name": "ライブドアニュース",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE16bXFaemY5Q1piOWJpOEpVR3ItUEozNHMxZVFDU0JpUkNsZVU3TVdITzY1X0RWdk9iS2NrVW5BanZkSVhlTDNLM1YydkVtUTRvTGVMWUR3elhZV1g2ZjFN?oc=5"
         }
       ]
     },
@@ -170,6 +182,18 @@
         {
           "name": "Yahoo!ファイナンス",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQejlIOEVYazEteE9YWjFKNFFVZlBxNHpjeUJhd21vMXoza2lkVTdXVm5SbGhsM0Y4dTlhdlRfeWE4QUxWaXlpVUwzTTQwVXpraVNRV3lWRDZMTFcxbGs5S1hFd0FYZEtVUTZ2MkNJUHhJeWV4aHFMdEZMbUNkdWUtRENaTjlVdGc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "211bff9b6397",
+      "title": "認知症の70代母「あんたたちとは話さない！」凶暴化 → 家で見つけた物に娘「涙が止まらない」 - ｄメニューニュース",
+      "published": "2026-06-26T22:01:00+00:00",
+      "summary": "認知症の70代母「あんたたちとは話さない！」凶暴化 → 家で見つけた物に娘「涙が止まらない」&nbsp;&nbsp;ｄメニューニュースもう一度話したい～認知症の母の記録～（３７）入れ歯外しで格闘30分 実家で直面した拒否の現実&nbsp;&nbsp;北海道新聞デジタル「介護をやりすぎないで」と認知症専門医が家族に語る理由。不安の強い家族が行う治療的にもマイナスな行為とは（婦人公論.jp）&nbsp;&nbsp;Yahoo!ニュース「親の見ている前で」認知症の母の隣で「どうせわかんないよ」と求めてきた夫。母娘の家で始まった魔の熟年新婚生活【専門家助言】&nbsp;&nbsp;FORZA STYLE【葛飾区】認知症介護は、家族だけの責任ではありません昨日は、東京都行政書士会の研修に参加しました。&nbsp;&nbsp;選挙ドットコム",
+      "sources": [
+        {
+          "name": "ｄメニューニュース",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSVpPUUdRRnBYSnVKeEs0UDk1ZGpyaTkycllJT0pBQ0o0QThPY3dkSHg1eHBiT1NzdUZEME1QY0YwXzNnMVoxTzU5b1R3TFZIN1p2dVVvcVQ0ODFQZFNYck1FNHduUjVFcFJNV1NXcWZBNlZfWUNoRlJkZEUydjRHc2VkbWdGRHdUQzRrMXFuUjFESl96VFFVOWlsMTZiWENyZkHSAacBQVVfeXFMTXFWSmt1VDFKSHNQWG03d1dwbFZ1T1FSWTRZN2R3LUt1cWNCTy1Yd1VGWDBJY21GR2R2dnFmeGdHaTY3OEVKR3pVWmwybTV1VHRzcVFfTEtrQUZORkNqcEgzazdZUDFydHhRVVVyaVl0NXFpbE0xZk1EQVdsWUphM1NYT3U5Q1hBRlJTNUhyRV9CX2tLR0pSbERvSXpZUXhQdnhQcEhtZFk?oc=5"
         }
       ]
     },
@@ -374,42 +398,6 @@
         {
           "name": "CareNet.com",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kajFrQ3RpU0dtOXJhc2tKMUxxbHh4OHlZRFdNRE1NTnYwN19iYmMzSmo5RlF0bXItcTUzb0lhTkpZeEI1YkMzckxKZWRxMVp5RVgwZWluVVQ1eWxIeUM0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1761de274854",
-      "title": "MMRワクチンが承認、無菌性髄膜炎の頻度が低いとされるムンプス株を含有 - 日経メディカル",
-      "published": "2026-06-25T14:45:06+00:00",
-      "summary": "MMRワクチンが承認、無菌性髄膜炎の頻度が低いとされるムンプス株を含有&nbsp;&nbsp;日経メディカル",
-      "sources": [
-        {
-          "name": "日経メディカル",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcXlHVlpNSHE2ZHktcWxEU3hFWk85RmM0V1JnMGtlcFJ1SEx1ellEV0p4dGZDRUg5dTQwcWxnVnExdm9rR1Q4bTBheklMWHNBbk93aVdiWFJFdlFTVkhGaDV4RGRvTHVfeFdqR3g1Q0M3Zk1oNjJQd2RPUnpvb2tmTzFvaw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4a22aa5cf81c",
-      "title": "順天堂大、アトピー性皮膚炎患者の「触れるとかゆい」症状と相関する血液マーカーを発見― デュピルマブ治療後も残る機械的かゆみ過敏の病態理解に新たな手がかり - 日経バイオテクONLINE",
-      "published": "2026-06-25T14:12:44+00:00",
-      "summary": "順天堂大、アトピー性皮膚炎患者の「触れるとかゆい」症状と相関する血液マーカーを発見― デュピルマブ治療後も残る機械的かゆみ過敏の病態理解に新たな手がかり&nbsp;&nbsp;日経バイオテクONLINE",
-      "sources": [
-        {
-          "name": "日経バイオテクONLINE",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zWmw0M3BRS2xEV210aHlNSHFZblhLbmpIcHZ1NmNmRFNfem9NTE5ZQWh2VFZhdDhLQUcycHZiS2x0OU1GNGpDZndWZEM5d1dIRHk5WjFWc2V3aXdtSXM0SUF1VV9WQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "68186b06c393",
-      "title": "糖尿病に潜む内分泌疾患 ―ホルモンによる糖代謝異常をいかに見逃さず、治療するか― - 糖尿病リソースガイド",
-      "published": "2026-06-25T12:52:55+00:00",
-      "summary": "糖尿病に潜む内分泌疾患 ―ホルモンによる糖代謝異常をいかに見逃さず、治療するか―&nbsp;&nbsp;糖尿病リソースガイド",
-      "sources": [
-        {
-          "name": "糖尿病リソースガイド",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJZm9PVHpYZVpjeUpXd18tWmlQcC1XQ3JFaWhnNGlvLVB5emV2Yk5jbkZTYi1KUlRUWW9Rc1dWOGlncV9IdnZkYUN6a1p2MWc2VkRIRmZxRE9KdGlHcGlIcnZlbG5UNHlmeG1XMUpiU25WbmM2ZU93MA?oc=5"
         }
       ]
     },
