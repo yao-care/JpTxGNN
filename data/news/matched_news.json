@@ -1,44 +1,258 @@
 {
-  "last_updated": "2026-06-28T02:33:27.042299+00:00",
-  "total_count": 37,
+  "last_updated": "2026-06-28T08:39:47.881660+00:00",
+  "total_count": 38,
   "matched_count": 13,
   "news": [
     {
-      "id": "f5128cf1a62b",
-      "title": "【降圧剤と一緒に飲んだら危険な飲み合わせ】サプリメントや食べ物、飲み物の併用にも注意！専門家が指南(介護ポストセブン)",
-      "published": "2026-06-28T02:15:00+00:00",
-      "summary": "降圧剤は高血圧治療の定番だが、漫然と飲み続けると思わぬリスクも。一緒に飲んだ薬やサプリメント、食べ物の影響で降圧剤の効果を強めたり、逆に弱める危険性もあるという。病院では教えてくれない降圧剤の「危な",
+      "id": "4359d3c80a65",
+      "title": "天の川銀河中心の過剰なガンマ線放出「GCE」の起源に「ダークマター説」が再浮上(sorae 宇宙へのポータルサイト)",
+      "published": "2026-06-28T08:30:48+00:00",
+      "summary": "通常の物質（バリオン）の5～6倍も存在するのに、電磁波では観測できないとされる謎の存在「ダークマター（暗黒物質）」。その正体に関わる新たな研究成果を、ウィーン大学などの国際的な研究チームが発表しました",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/54f4db0ac2518f457e16fcc7599832fe9a4112bf?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "4569f61fbbe8",
+      "title": "台湾・高雄市で「どう見てもくまモン」なキャラクターを発見！まさかの正体に「来日してほしい」と話題(LIMO)",
+      "published": "2026-06-28T08:26:00+00:00",
+      "summary": "台湾・高雄市で出会ったくまモンそっくりなキャラクターが、X上で話題になっています。今回は、投稿者の山口慶明さん（@girlmeetsNG）にお話を伺いました。 当ポストには2026年6月28日時点で",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/e30330c195922e5faeef2d4aa2e0cf6a47379563?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/edd287c474153269f7c028dbbae1f1b70088048a?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "1be27591325a",
+      "title": "「ユニクロJR新大阪店」増床リニューアルを発表　JR西日本・がんこ寿司とのコラボTシャツが登場へ(オリコン)",
+      "published": "2026-06-28T08:23:26+00:00",
+      "summary": "「ユニクロJR新大阪店」が増床され、7月3日にリニューアルオープンすることが決まった。 新しくなった「ユニクロJR新大阪店」は、新大阪駅の利用客のニーズに応える品ぞろえで、地元客だけでなく、出張",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/90c16514b70412e087e69ac4d2da3a8344debb2c?source=rss"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
-          "name": "hypertension",
-          "keyword": "高血圧",
+          "name": "generic_cancer",
+          "keyword": "がん",
           "related_drugs": [
             {
-              "slug": "nifedipine",
-              "name": "アダラートＣＲ錠４０ｍｇ（選）"
+              "slug": "acyclovir",
+              "name": "ゾビラックス軟膏５％（選）"
             },
             {
-              "slug": "amlodipine",
-              "name": "エックスフォージ配合ＯＤ錠（選）"
+              "slug": "theophylline",
+              "name": "ユニコン錠１００　１００ｍｇ（選）"
+            },
+            {
+              "slug": "risperidone",
+              "name": "リスパダール錠２ｍｇ（選）"
+            },
+            {
+              "slug": "valproic-acid",
+              "name": "セレニカＲ顆粒４０％（選）"
+            },
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "atorvastatin",
+              "name": "アトーゼット配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "cyclosporine",
+              "name": "ネオーラル５０ｍｇカプセル（選）"
+            },
+            {
+              "slug": "azithromycin",
+              "name": "ジスロマック細粒小児用１０％　１００ｍｇ（選）"
+            },
+            {
+              "slug": "valsartan",
+              "name": "ディオバンＯＤ錠１６０ｍｇ（選）"
+            },
+            {
+              "slug": "carbamazepine",
+              "name": "テグレトール錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "morphine",
+              "name": "モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」"
+            },
+            {
+              "slug": "pravastatin",
+              "name": "メバロチン錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "atenolol",
+              "name": "テノーミン錠５０　５０ｍｇ（選）"
+            },
+            {
+              "slug": "loperamide",
+              "name": "ロペミンカプセル１ｍｇ（選）"
+            },
+            {
+              "slug": "simvastatin",
+              "name": "リポバス錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "carvedilol",
+              "name": "アーチスト錠２０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "diazepam",
+              "name": "ホリゾン錠５ｍｇ（選）"
+            },
+            {
+              "slug": "lorazepam",
+              "name": "ワイパックス錠１．０　１ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "spironolactone",
+              "name": "アルダクトンＡ錠５０ｍｇ（選）"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "ロプレソール錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "enalapril",
+              "name": "レニベース錠１０　１０ｍｇ（選）"
+            },
+            {
+              "slug": "lisinopril",
+              "name": "ロンゲス錠２０ｍｇ（選）"
             },
             {
               "slug": "diltiazem",
               "name": "ヘルベッサー錠６０　６０ｍｇ（選）"
             },
             {
+              "slug": "amlodipine",
+              "name": "エックスフォージ配合ＯＤ錠（選）"
+            },
+            {
+              "slug": "clarithromycin",
+              "name": "クラリス錠５０小児用　５０ｍｇ（選）"
+            },
+            {
+              "slug": "furosemide",
+              "name": "ラシックス錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "lidocaine",
+              "name": "リドカイン（１８ｍｇ）３０．５ｍｍ×５０．０ｍｍ貼付剤"
+            },
+            {
+              "slug": "bisoprolol",
+              "name": "メインテート錠５ｍｇ（選）"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "ミカムロ配合錠ＢＰ（選）"
+            },
+            {
+              "slug": "rosuvastatin",
+              "name": "クレストールＯＤ錠５ｍｇ（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "clopidogrel",
+              "name": "プラビックス錠７５ｍｇ（選）"
+            },
+            {
+              "slug": "sertraline",
+              "name": "ジェイゾロフトＯＤ錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
               "slug": "timolol",
               "name": "デュオトラバ配合点眼液（選）"
             },
             {
+              "slug": "diclofenac",
+              "name": "ボルタレンサポ５０ｍｇ（選）"
+            },
+            {
+              "slug": "budesonide",
+              "name": "シムビコートタービュヘイラー６０吸入（選）"
+            },
+            {
+              "slug": "moxifloxacin",
+              "name": "ベガモックス点眼液０．５％（選）"
+            },
+            {
               "slug": "verapamil",
               "name": "ワソラン錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "levofloxacin",
+              "name": "クラビット点眼液１．５％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "celecoxib",
+              "name": "セレコックス錠２００ｍｇ（選）"
+            },
+            {
+              "slug": "ezetimibe",
+              "name": "ゼチーア錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "topiramate",
+              "name": "トピナ錠２５ｍｇ（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "montelukast",
+              "name": "シングレアＯＤ錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "lamotrigine",
+              "name": "ラミクタール錠２５ｍｇ（選）"
             },
             {
               "slug": "hydrochlorothiazide",
@@ -49,26 +263,148 @@
               "name": "ニューロタン錠５０ｍｇ（選）"
             },
             {
-              "slug": "telmisartan",
-              "name": "ミカムロ配合錠ＢＰ（選）"
+              "slug": "latanoprost",
+              "name": "ザラカム配合点眼液（選）"
             },
             {
-              "slug": "valsartan",
-              "name": "ディオバンＯＤ錠１６０ｍｇ（選）"
+              "slug": "clotrimazole",
+              "name": "エンペシドクリーム１％（選）"
+            },
+            {
+              "slug": "amoxicillin",
+              "name": "ワイドシリン細粒２０％　２００ｍｇ"
+            },
+            {
+              "slug": "ampicillin",
+              "name": "ビクシリンＳ配合錠　（２５０ｍｇ）"
+            },
+            {
+              "slug": "lamivudine",
+              "name": "エプジコム配合錠（選）"
+            },
+            {
+              "slug": "warfarin",
+              "name": "ワルファリンＫ細粒０．２％「ＮＳ」"
+            },
+            {
+              "slug": "fenofibrate",
+              "name": "トライコア錠８０ｍｇ（選）"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            },
+            {
+              "slug": "prasugrel",
+              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
+            },
+            {
+              "slug": "tramadol",
+              "name": "トラマールＯＤ錠５０ｍｇ（選）"
+            },
+            {
+              "slug": "metronidazole",
+              "name": "メトロニダゾールゲル０．７５％「マルイシ」"
+            },
+            {
+              "slug": "lactulose",
+              "name": "ラグノスＮＦ経口ゼリー分包１２ｇ　５４．１６７％"
+            },
+            {
+              "slug": "levetiracetam",
+              "name": "レベチラセタム粒状錠５００ｍｇ「サワイ」"
             }
           ]
         }
       ]
     },
     {
-      "id": "47542ff44f18",
-      "title": "《島野菜で整える唯一無二の薬膳朝食》20皿50品目。那覇、小さなホテルで出合う朝【沖縄第一ホテル】(CREA WEB)",
-      "published": "2026-06-28T02:10:32+00:00",
-      "summary": "那覇の中心地、国際通りのそばに建つ沖縄第一ホテル。客室5部屋の小さなホテルには、ここでしか食べられない朝食を目当てに、宿泊以外の客も続々訪れる。「島野菜」と呼ばれる沖縄産の野菜をふんだんに使った薬膳",
+      "id": "d0545c3e7c08",
+      "title": "「頭が大きいのでこのサイズは助かる」THE NORTH FACEの“メッシュハット”に「薄くて涼しい」「夏場の登山や日よけ用に」の声(ねとらぼ)",
+      "published": "2026-06-28T08:20:00+00:00",
+      "summary": "1966年にアメリカで創業したTHE NORTH FACEは、高品質なアウトドアギアやウェアを開発・販売するブランドです。本記事では、日差しが強くなる季節のアウトドアシーンで活躍する同ブランドの「B",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/d51fe70e91789a845da30c91e641b25f64d9cdb0?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/4dfb0d20a4e98ff932d78f9526d99fe1fbd799fc?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "ee6c035883d9",
+      "title": "ロフトで発見！時短につながるタオル、野菜の鮮度保持剤など...自分にも環境にも優しい\"サステナブル\"なアイテム4選(東京バーゲンマニア)",
+      "published": "2026-06-28T08:08:00+00:00",
+      "summary": "ロフトは、2026年5月30日から7月12日までの期間、「LOFT GREEN PROJECT SUSTAINABLE BEAUTY＆LIFE 2026」を開催中。",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/36e41119cd4e6872fc157cfc60ed69ac2b0f85f2?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "0a9a77945911",
+      "title": "「一日中快適に過ごせます」　アンダーアーマーの“ゴルフポロシャツ”に絶賛の声　「着心地が良く動きやすい」「速乾性と吸収性も問題なし」「日常使いでもノンストレス」(ねとらぼ)",
+      "published": "2026-06-28T08:00:00+00:00",
+      "summary": "UNDER ARMOUR（アンダーアーマー）は、1996年にアメリカで誕生した比較的新しいスポーツブランドです。体に密着する機能性抜群のシャツを開発したことで有名。ゴルフ向けのウェアもリリースされて",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/d0e1dc1d4858289668b3acaf8c6bf38a78ce18b8?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "eb1cbdf78625",
+      "title": "伝説のNo.1キャバ嬢は、年商35億の経営者で、二児のシングルマザー(GOETHE)",
+      "published": "2026-06-28T07:30:51+00:00",
+      "summary": "歌舞伎町No.1キャバ嬢から、年商約35億の会社経営者へ。美容クリニック、飲食、コスメブランドなど複数事業を手がける愛沢えみりは、現在38歳。仕事にすべてを懸けてきたキャリアの裏側には、「出産」という",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/61d729816d45ba398c6a10a71e6da7d8bb77f161?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "e65e95c20414",
+      "title": "【科博】高校生以下と65歳以上は無料！国立科学博物館×総合地球環境学研究所 共同企画展「どうする、ニンゲン －研究の現場から地球の未来を問う」(LIMO)",
+      "published": "2026-06-28T07:16:00+00:00",
+      "summary": "もうすぐ7月、そして目前に迫る夏休みの予定はお決まりでしょうか？ 7月31日より、東京都台東区の上野恩賜公園内にある「国立科学博物館」にて、国立科学博物館と総合地球環境学研究所の共同企画展「どうす",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/21413c9a75fe6042ece30c0047e1b381da323e88?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "2558910d94f6",
+      "title": "「爆笑」2歳男の子を待ち続けたゴールデン・レトリーバーのまさかの結末が反響!お利口に見守る様子に注目【激かわキッズ＆アニマル奇跡の瞬間】(めざましmedia)",
+      "published": "2026-06-28T07:05:36+00:00",
+      "summary": "キッズとわんちゃんの絡みは癒やし効果が抜群ですよね。 今回は、とある家に暮らす、2歳の男の子が用意するご飯を待ち続けるゴールデン・レトリーバーのまさかの結末に「爆笑してしもうた!」「いつまでも見てたい",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/b780346257e2b4e92ff8864407b1a1b21ff1db9e?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "3090ffe02094",
+      "title": "潜水艇がクジラの巨大な「墓場」を発見、深海に眠るのは骨だけではなかった(CNN.co.jp)",
+      "published": "2026-06-28T04:58:00+00:00",
+      "summary": "（CNN） インド洋南東部の深海域を潜水艇で調査した科学者らが、数百点のクジラの化石が眠る海底の一帯を発見した。その中には、これまで知られていなかった新種を示す化石も含まれていた。研究チームによると、",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/94b5e9630db6ba6b2d40f4902813840406d7c4bb?source=rss"
         }
       ],
       "matched_keywords": []
@@ -398,32 +734,6 @@
       ]
     },
     {
-      "id": "773c7dec5a2c",
-      "title": "絶景を見ながらバーベキュー!　意外と知らない「大阪城公園」の知られざる魅力とは　皇居と並ぶ“ランニングの聖地”に“ラジオ体操”国内トップクラスの参加者のワケ　【大東駿介てくてく学】(FNNプライムオンライン)",
-      "published": "2026-06-28T02:01:20+00:00",
-      "summary": "俳優の大東駿介さんが、訪れた街のうんちくや、まだ地元住民にも知られていないような魅力を探す「大東駿介の発見!てくてく学」。 今回は、年間1200万人を超える人々が訪れるという、関西屈指のお出かけスポ",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/297d69c20ce14ea84828ede5598dada95c59e488?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "52651091a602",
-      "title": "「ばんそうこうを貼るだけ」の快眠メソッド　「自律神経の乱れ」「頻尿」「歯ぎしり」など症状別の貼り方も紹介　(女性セブンプラス)",
-      "published": "2026-06-28T02:00:00+00:00",
-      "summary": "脳と体の健康維持に不可欠な睡眠。年を取るにつれ眠りに悩みを持つ人が増えているのも事実。「ぐっすり眠りたい」という人にいま必要なのは、1枚の「ばんそうこう」。貼るだけでOKというお手軽な快眠ケアで、深い",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/e977f91e4f3d423bd7ae246e599498b6e703e660?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "713d1e5f1ed8",
       "title": "高エネルギーニュートリノの起源に迫る　約110億年前の銀河「シャドウ・ブラスター」とは(sorae 宇宙へのポータルサイト)",
       "published": "2026-06-28T01:40:48+00:00",
@@ -432,19 +742,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/239c19870034a929e435e709377f8b0dd57fa177?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "5593db2373ef",
-      "title": "黒豆ジュースを飲むのが、体が最も効果的にマグネシウムを吸収するのを助けるタイミング",
-      "published": "2026-06-28T00:49:36+00:00",
-      "summary": "黒豆ジュースを飲むのが、体が最も効果的にマグネシウムを吸収するのを助けるタイミング&nbsp;&nbsp;Laodong.vn",
-      "sources": [
-        {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQT2p4U3AxbEhmQXBrbUJOd2R6WVo0S2NlRHAtZExtQktLZEU1Z2l3Qk1sd3g4WHZRRlg3N1ZxUUJfM3paUGN1NnBUZHZJUVVWdlpVS0F0MU5pTTdSaUpBNFc0TW5pMnZ5cXR0TFkzblBUVkhxSUh2SlgtaDJ0aTIxWnhOWVkwUUdRNktMbzdCU0p0OS13bDhmSmdFVF9WSmUxbjgwdld0S0lJRTh1MnZYNQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1486,19 +1783,6 @@
       ]
     },
     {
-      "id": "36d8421253c3",
-      "title": "不足すると不幸な老後まっしぐら…医師が「幸福感を左右する」というお金でも地位でもない重要要素(プレジデントオンライン)",
-      "published": "2026-06-27T01:15:00+00:00",
-      "summary": "不足すると不幸な老後まっしぐら…医師が「幸福感を左右する」というお金でも地位でもない重要要素(プレジデントオンライン)&nbsp;&nbsp;Yahoo!ファイナンス｢寝たきり老後｣は間違った靴選びから始まる…｢かかと無しサンダル｣は絶対NG､ではもう一つの注意点は?&nbsp;&nbsp;PRESIDENT Online（プレジデントオンライン）不足すると老後うつが待ち構える…和田秀樹「幸せホルモン分泌のために食べたいスーパーにある食材」（プレジデントオンライン）&nbsp;&nbsp;Yahoo!ニュース画像 | これを手放さないと｢孤独な高齢者｣まっしぐら…66歳の佐藤優が気づいた｢定年後も幸せな人｣の共通点&nbsp;&nbsp;PRESIDENT Online（プレジデントオンライン）",
-      "sources": [
-        {
-          "name": "Yahoo!ファイナンス",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZHRjdm80WUhUQTRqNkpRamw5bzg5azFuWFdnZHU2RTFsZU1lZ3N6OFU4YmRjWWpGb3pwUGZJX3BIdnNfUWFjLXBHM1RRNlpqR1AzNEVOdFcyaWF4NzZ6UUNSTDNWZHR1bUFEeFVDN1Vudk9Ra09vZzR2Vng2YjdnaGxfVHIwTkE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "6608620dfa69",
       "title": "「殺人行為ですよ」高須幹弥が飲酒の強要を痛烈批判！少量でも体に悪いアルコールの現実",
       "published": "2026-06-27T01:00:00+00:00",
@@ -1889,7 +2173,7 @@
       "id": "e0a505bae29d",
       "title": "欧米では「子宮頸がん」の撲滅が目前…英国は20～24歳の死亡が5年間ゼロ｜Dr.中川 がんサバイバーの知恵",
       "published": "2026-06-26T21:00:00+00:00",
-      "summary": "欧米では「子宮頸がん」の撲滅が目前…英国は20～24歳の死亡が5年間ゼロ｜Dr.中川 がんサバイバーの知恵&nbsp;&nbsp;日刊ゲンダイDIGITAL欧米では「子宮頸がん」の撲滅が目前…英国は20〜24歳の死亡が5年間ゼロ【中川恵一 がんサバイバーの知恵】&nbsp;&nbsp;ｄメニューニュース子宮頸がんの死亡数、HPVワクチン接種した若い女性でゼロに 英研究（BBC News）&nbsp;&nbsp;Yahoo!ニュース",
+      "summary": "欧米では「子宮頸がん」の撲滅が目前…英国は20～24歳の死亡が5年間ゼロ｜Dr.中川 がんサバイバーの知恵&nbsp;&nbsp;日刊ゲンダイDIGITAL",
       "sources": [
         {
           "name": "日刊ゲンダイDIGITAL",
@@ -2902,45 +3186,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/24b898ed3e6c4587d72a87f6725cdfb4e9e14020?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "62a925819085",
-      "title": "「メニエール病の治療法」とは？症状改善に効果がある食事のポイントも解説！(メディカルドック)",
-      "published": "2026-06-25T09:02:14+00:00",
-      "summary": "突然、激しいめまいや耳鳴りに襲われたら不安になりますよね。「もしかして命に関わる病気では」と心配になるかもしれませんが、その原因はメニエール病という耳の病気かもしれません。 メニエール病は内耳に異常",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/a36d6e212c6bbe0bb8a094cccf7a355e8a80a57c?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "d0cebd249237",
-      "title": "【長引く咳や倦怠感】中高年の痩せ型の女性に多い「肺NTM症」初期の約70％は自覚症状なし　進行すると肺の機能が低下し呼吸困難に　なぜ増加?【徹底解説(1)症状】(RSK山陽放送)",
-      "published": "2026-06-25T06:30:34+00:00",
-      "summary": "■「結核やらい菌ではない抗酸菌」による肺の病気が、いま日本で急増 日本は現在、世界で最も肺非結核性抗酸菌症（肺NTM症）が多い国のひとつと言われています。にもかかわらず、この病気の名前を耳にしたこと",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/0f32d041f3cd27eca2baafc514aaca6ac296d351?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "9910e9419d70",
-      "title": "伊豆諸島「鳥島」のアホウドリ、絶滅の危機から1万羽まで回復 山階鳥類研究所(Science Portal)",
-      "published": "2026-06-25T06:06:03+00:00",
-      "summary": "乱獲によって戦後に一度は絶滅宣言された、東京から約600キロメートル南にある伊豆諸島「鳥島」のアホウドリが、保全活動によって今繁殖期（2025－26年）に1万羽を超えるまで個体数が回復したと山階鳥類",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/018a2b112a6a8a9a662f7d7107b2c3cf1b39410b?source=rss"
         }
       ],
       "matched_keywords": []
