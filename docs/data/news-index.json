@@ -1,22 +1,78 @@
 {
-  "generated": "2026-06-27T19:04:04.841957+00:00",
+  "generated": "2026-06-28T02:33:27.045882+00:00",
   "count": 13,
   "news": [
     {
-      "id": "729ff70981d1",
-      "title": "優しく穏やかだった夫が不倫相手の金銭感覚に引っ張られて変貌　ハイブランドを買い漁り、豪遊が止まらない！【著者インタビュー】(ダ・ヴィンチWeb)",
-      "published": "2026-06-27T12:30:00+00:00",
+      "id": "f5128cf1a62b",
+      "title": "【降圧剤と一緒に飲んだら危険な飲み合わせ】サプリメントや食べ物、飲み物の併用にも注意！専門家が指南(介護ポストセブン)",
+      "published": "2026-06-28T02:15:00+00:00",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/6bb2ae9440a8ab656bf6de85bc001bc0886c7d78?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/e30330c195922e5faeef2d4aa2e0cf6a47379563?source=rss"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "hypertension",
+          "keyword": "高血圧",
+          "related_drugs": [
+            {
+              "slug": "nifedipine",
+              "name": "アダラートＣＲ錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "エックスフォージ配合ＯＤ錠（選）"
+            },
+            {
+              "slug": "diltiazem",
+              "name": "ヘルベッサー錠６０　６０ｍｇ（選）"
+            },
+            {
+              "slug": "timolol",
+              "name": "デュオトラバ配合点眼液（選）"
+            },
+            {
+              "slug": "verapamil",
+              "name": "ワソラン錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "hydrochlorothiazide",
+              "name": "プレミネント配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "losartan",
+              "name": "ニューロタン錠５０ｍｇ（選）"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "ミカムロ配合錠ＢＰ（選）"
+            },
+            {
+              "slug": "valsartan",
+              "name": "ディオバンＯＤ錠１６０ｍｇ（選）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bced5850f278",
+      "title": "【闘病】様子を見ていた胸のしこり。検診「異常なし」を覆し見つけた『乳がん』の恐怖(メディカルドック)",
+      "published": "2026-06-28T02:01:27+00:00",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/fcc5b81fc72d1c457333320bbb0c86db91d828d0?source=rss"
         }
       ],
       "keywords": [
         {
           "type": "indication",
           "name": "generic_cancer",
-          "keyword": "癌",
+          "keyword": "がん",
           "related_drugs": [
             {
               "slug": "acyclovir",
@@ -285,6 +341,108 @@
             {
               "slug": "levetiracetam",
               "name": "レベチラセタム粒状錠５００ｍｇ「サワイ」"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "female breast carcinoma",
+          "keyword": "乳がん",
+          "related_drugs": [
+            {
+              "slug": "atorvastatin",
+              "name": "アトーゼット配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "pravastatin",
+              "name": "メバロチン錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "simvastatin",
+              "name": "リポバス錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "rosuvastatin",
+              "name": "クレストールＯＤ錠５ｍｇ（選）"
+            },
+            {
+              "slug": "clopidogrel",
+              "name": "プラビックス錠７５ｍｇ（選）"
+            },
+            {
+              "slug": "warfarin",
+              "name": "ワルファリンＫ細粒０．２％「ＮＳ」"
+            },
+            {
+              "slug": "prasugrel",
+              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "de0a3086ff83",
+      "title": "注目集める「原始反射」…指を強く握り返すのは認知症の前兆？｜医者も知らない医学の新常識",
+      "published": "2026-06-27T21:00:00+00:00",
+      "sources": [
+        {
+          "name": "日刊ゲンダイDIGITAL",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YbFhpN1pfRDA4M3ZVUkNTajZSWko2WENNYTlZNXlqZ0RCZUlhelFwOEtBVVJxd0c3RFRKVmlxdWZEZDNCeVZpbGJtR2VDeUNjMWpnVG9CUjY4R0pWUkEwYnNycU1vSjFN?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "認知症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1ff6497d1b19",
+      "title": "インフルエンザワクチン接種で認知症のリスクが低下する⁉｜役に立つオモシロ医学論文",
+      "published": "2026-06-27T21:00:00+00:00",
+      "sources": [
+        {
+          "name": "日刊ゲンダイDIGITAL",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPcDNycHg2V1g5YXdLalhQeVlaSXlHZzlfMkZRN0lDa1BLUFh6a2ZNOXdBNU1LNnUzNHhJT1dCTjR3TV81VHJIamZSdTl0OElsYkNwU0tqbmlJWTRHODJPWHREdWR2Z2o0?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "認知症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "influenza",
+          "keyword": "インフルエンザ",
+          "related_drugs": [
+            {
+              "slug": "oseltamivir",
+              "name": "タミフルドライシロップ３％（選）"
             }
           ]
         }
@@ -1216,34 +1374,6 @@
       ]
     },
     {
-      "id": "46b0df89181b",
-      "title": "「認知症の改善に手遅れはない」医師が断言！生活改善で『防げる・遅らせる』時代へ、おすすめの《6つのメソッド》も - au Webポータル",
-      "published": "2026-06-27T01:00:00+00:00",
-      "sources": [
-        {
-          "name": "au Webポータル",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Vd21zVFRVY0ppTUZwU0RYUTlYRFJDUkl3VHl0b2hZN2NVa3BLNjFLdGVNWFc2WlBUNjQ0T2dOWlNuTUlUMFlyaHl3akZKTGZhaXZmc21NeWIxajFaQmZPN0J2M1VfY0RrX2hJcXBrbWZPZXVyRU81b0k5UQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "認知症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "6608620dfa69",
       "title": "「殺人行為ですよ」高須幹弥が飲酒の強要を痛烈批判！少量でも体に悪いアルコールの現実",
       "published": "2026-06-27T01:00:00+00:00",
@@ -1539,34 +1669,6 @@
         {
           "name": "Yahoo!ファイナンス",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQejlIOEVYazEteE9YWjFKNFFVZlBxNHpjeUJhd21vMXoza2lkVTdXVm5SbGhsM0Y4dTlhdlRfeWE4QUxWaXlpVUwzTTQwVXpraVNRV3lWRDZMTFcxbGs5S1hFd0FYZEtVUTZ2MkNJUHhJeWV4aHFMdEZMbUNkdWUtRENaTjlVdGc?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "認知症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "211bff9b6397",
-      "title": "認知症の70代母「あんたたちとは話さない！」凶暴化 → 家で見つけた物に娘「涙が止まらない」",
-      "published": "2026-06-26T22:01:00+00:00",
-      "sources": [
-        {
-          "name": "ｄメニューニュース",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSVpPUUdRRnBYSnVKeEs0UDk1ZGpyaTkycllJT0pBQ0o0QThPY3dkSHg1eHBiT1NzdUZEME1QY0YwXzNnMVoxTzU5b1R3TFZIN1p2dVVvcVQ0ODFQZFNYck1FNHduUjVFcFJNV1NXcWZBNlZfWUNoRlJkZEUydjRHc2VkbWdGRHdUQzRrMXFuUjFESl96VFFVOWlsMTZiWENyZkHSAacBQVVfeXFMTXFWSmt1VDFKSHNQWG03d1dwbFZ1T1FSWTRZN2R3LUt1cWNCTy1Yd1VGWDBJY21GR2R2dnFmeGdHaTY3OEVKR3pVWmwybTV1VHRzcVFfTEtrQUZORkNqcEgzazdZUDFydHhRVVVyaVl0NXFpbE0xZk1EQVdsWUphM1NYT3U5Q1hBRlJTNUhyRV9CX2tLR0pSbERvSXpZUXhQdnhQcEhtZFk?oc=5"
         }
       ],
       "keywords": [
@@ -2224,34 +2326,6 @@
             {
               "slug": "capecitabine",
               "name": "ゼローダ錠３００　３００ｍｇ（選）"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "763b82fc7472",
-      "title": "みんなで考える認知症 松本・四賀地区社協「福祉の集い」",
-      "published": "2026-06-25T23:56:00+00:00",
-      "sources": [
-        {
-          "name": "MGプレス",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5rVGE3V0JzRkN3c0s1ZjFGTDdtRlltaVN2RW1ScEt0T1pxa19YNkg3UUpkSGRlTnhIOEFwa3IwWEJLaVFVaU02Q3JoYWNaRDJ2Sk5wN3NCa1VqOW9W?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "認知症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
             }
           ]
         }
