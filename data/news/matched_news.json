@@ -1,129 +1,371 @@
 {
-  "last_updated": "2026-06-30T08:56:05.492168+00:00",
-  "total_count": 51,
+  "last_updated": "2026-06-30T13:55:24.691974+00:00",
+  "total_count": 48,
   "matched_count": 13,
   "news": [
     {
-      "id": "7a1525688993",
-      "title": "鼻がムズムズ…　梅雨に急増するナゾの体調不良の正体　「寒暖差アレルギー」「寒暖差疲労」の対策とは　(AERA DIGITAL)",
-      "published": "2026-06-30T08:30:36+00:00",
-      "summary": "花粉症の季節はとっくに終わったはずなのに、鼻水やくしゃみが止まらない。なぜか毎日、頭痛や倦怠感に悩まされてしまう──。梅雨のこの時期、風邪でもないのに襲ってくるナゾの体調不良に対し、不思議に感じる人",
+      "id": "21174a22b206",
+      "title": "【医師監修】毛穴悩みにおすすめの最新美容医療「注入・注射系」4選！(MAQUIA)",
+      "published": "2026-06-30T13:01:02+00:00",
+      "summary": "美容医療が初めてでもトライしやすい施術から、上級者向けのアグレッシブなものまで揃う、毛穴治療。高い結果に繋がる選び方やおすすめの施術をガイド。今回は、「注入・注射系」治療をご紹介します。",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/b9ef51f7c9444822beae4848ddd5c21c5c05d681?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/f3999cffb5c3c6fb4d9603c7b2f66da55cec47a3?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "9cc6e5b3abd1",
+      "title": "北里大、抗真菌薬の作用を増強するメカニズムの解明― 副作用を抑えた新しい真菌症治療戦略に期待 ―",
+      "published": "2026-06-30T12:55:39+00:00",
+      "summary": "北里大、抗真菌薬の作用を増強するメカニズムの解明― 副作用を抑えた新しい真菌症治療戦略に期待 ―&nbsp;&nbsp;日経バイオテクONLINE",
+      "sources": [
+        {
+          "name": "日経バイオテクONLINE",
+          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqd3VSWnVaQ3hiMG5QZnQ1eWhRcG44UEpBU0ttbnVSeVBMa3pDSDBielMwTFNSNkl4V3o5RVE0U2xpUmlVTHdaUV9qSjVjZHUyWXBHUUZSMGRMMlp4RFpLQlN5Q01sdw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "75044539b67b",
+      "title": "小松マテーレがスパイバーと開発、ブリュード・プロテインを用いた初の樹脂素材が登場(FASHIONSNAP)",
+      "published": "2026-06-30T12:34:25+00:00",
+      "summary": "化学素材メーカーの小松マテーレが、植物由来のバイオマスを原料とした構造タンパク質素材「ブリュード・プロテイン（Brewed Protein）」を手掛けるバイオベンチャーのスパイバー（Spiber）と",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/1bbc3d1d4553ee8971a12d3a95e03b283f8e5e8b?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "6642d2a810cd",
+      "title": "腰痛や股関節痛、下肢の麻痺に奏効する「居髎」。下半身の不調に広く対応(家庭画報.com)",
+      "published": "2026-06-30T12:30:03+00:00",
+      "summary": "中医学のエキスパートである鍼灸師の兵頭 明先生が、ツボの効能や位置、効くメカニズムを解説します。健康の土台作りに、不調改善に、1日1分のツボ押しを習慣にしましょう。",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/4b007895452b8dbdbf545dab33b03b989670bdf9?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "0ecfbe53a57d",
+      "title": "余命宣告を受けた35歳夫の願いは、初恋の女性との恋愛だった　夫が「妻公認の不倫」にこだわった理由【著者インタビュー】(ダ・ヴィンチWeb)",
+      "published": "2026-06-30T12:30:00+00:00",
+      "summary": "「ただの浮気」「身勝手すぎる」と話題の不倫マンガ『余命宣告不倫 純愛ぶってるけど、それただの浮気だから』（ミロチ/KADOKAWA）。 主人公・葵は、夫・颯太から「癌が見つかったこと」「余命が半年で",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/ecaa616f3d334b10052d745e42d228c8e836f285?source=rss"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
-          "name": "common cold",
-          "keyword": "風邪",
+          "name": "generic_cancer",
+          "keyword": "癌",
           "related_drugs": [
+            {
+              "slug": "acyclovir",
+              "name": "ゾビラックス軟膏５％（選）"
+            },
             {
               "slug": "theophylline",
               "name": "ユニコン錠１００　１００ｍｇ（選）"
             },
             {
-              "slug": "cetirizine",
-              "name": "ザイザルシロップ０．０５％（選）"
+              "slug": "risperidone",
+              "name": "リスパダール錠２ｍｇ（選）"
+            },
+            {
+              "slug": "valproic-acid",
+              "name": "セレニカＲ顆粒４０％（選）"
+            },
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "atorvastatin",
+              "name": "アトーゼット配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "cyclosporine",
+              "name": "ネオーラル５０ｍｇカプセル（選）"
+            },
+            {
+              "slug": "azithromycin",
+              "name": "ジスロマック細粒小児用１０％　１００ｍｇ（選）"
+            },
+            {
+              "slug": "valsartan",
+              "name": "ディオバンＯＤ錠１６０ｍｇ（選）"
+            },
+            {
+              "slug": "carbamazepine",
+              "name": "テグレトール錠１００ｍｇ（選）"
             },
             {
               "slug": "morphine",
               "name": "モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」"
             },
             {
-              "slug": "loratadine",
-              "name": "クラリチン錠１０ｍｇ（選）"
+              "slug": "pravastatin",
+              "name": "メバロチン錠５　５ｍｇ（選）"
             },
             {
-              "slug": "chlorpheniramine",
-              "name": "セレスタミン配合錠（選）"
+              "slug": "atenolol",
+              "name": "テノーミン錠５０　５０ｍｇ（選）"
             },
             {
-              "slug": "dextromethorphan",
-              "name": "デキストロメトルファン臭化水素酸塩細粒１０％「ツルハラ」"
+              "slug": "loperamide",
+              "name": "ロペミンカプセル１ｍｇ（選）"
             },
             {
-              "slug": "acetaminophen",
-              "name": "トラムセット配合錠（選）"
+              "slug": "simvastatin",
+              "name": "リポバス錠５　５ｍｇ（選）"
             },
             {
-              "slug": "codeine",
-              "name": "ムコブロチン配合シロップ"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "c9c8841054c7",
-      "title": "約150万円で「賢くて背の高い赤ちゃん」が買える！？アメリカの企業が始めた衝撃的な“遺伝子選別サービス”に期待と批判の声 - au Webポータル",
-      "published": "2026-06-30T08:20:00+00:00",
-      "summary": "約150万円で「賢くて背の高い赤ちゃん」が買える！？アメリカの企業が始めた衝撃的な“遺伝子選別サービス”に期待と批判の声&nbsp;&nbsp;au Webポータル",
-      "sources": [
-        {
-          "name": "au Webポータル",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1EY0hVcmRvam5LT0hkTFNmZHZBQmpoWGN3cHNUUTJXN1FyZzlzdmtqaDdvUXpRSmJ5YVY1S0VsUW1lR204TnN1TDI1aEZPV0Z6S3Z2ZFJMcFByc2ZvS2hyb2VoWlVwUzNVMXBjcHd0VUZ0a2x4RHNqYkJ1TQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "41a663a9a69c",
-      "title": "「不安と悩みの量」は幸せな人も同じだった…最新研究が突き止めた幸福と不幸を分けるたった一つの差(プレジデントオンライン)",
-      "published": "2026-06-30T08:15:37+00:00",
-      "summary": "幸せな人のほうが不安や悩みが少ないと考えられがちだ。拓殖大学教授の佐藤一磨さんは「最新の研究では、不安や悩みについて考える量は、幸せな人も不幸な人もほとんど変わらなかった。幸福を分けていたのは、まった",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/c9a5b774d422b3b5e4f77fb404a60e1f582cf977?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "fbbcc196ee7a",
-      "title": "更年期世代が抱える薄毛悩み、これまで「打つ手があまりなかった」のですが…ついに神奈川でも毛髪再生医療「S-DSC」が開始 - OTONA SALONE",
-      "published": "2026-06-30T08:00:51+00:00",
-      "summary": "更年期世代が抱える薄毛悩み、これまで「打つ手があまりなかった」のですが…ついに神奈川でも毛髪再生医療「S-DSC」が開始&nbsp;&nbsp;OTONA SALONE",
-      "sources": [
-        {
-          "name": "OTONA SALONE",
-          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1VZmRTS3owVHZ4azNmR25vUUVyaWRXWjBoYnNtWklNUzhEeENLUVk1SnNWM0tPemt1SUYzbkgwME5pTTVh?oc=5"
-        },
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/7cbb9882093f8207e52197796d92baade5e3deca?source=rss"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "menopause",
-          "keyword": "更年期",
-          "related_drugs": [
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "carvedilol",
+              "name": "アーチスト錠２０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "diazepam",
+              "name": "ホリゾン錠５ｍｇ（選）"
+            },
+            {
+              "slug": "lorazepam",
+              "name": "ワイパックス錠１．０　１ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "spironolactone",
+              "name": "アルダクトンＡ錠５０ｍｇ（選）"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "ロプレソール錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "enalapril",
+              "name": "レニベース錠１０　１０ｍｇ（選）"
+            },
+            {
+              "slug": "lisinopril",
+              "name": "ロンゲス錠２０ｍｇ（選）"
+            },
+            {
+              "slug": "diltiazem",
+              "name": "ヘルベッサー錠６０　６０ｍｇ（選）"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "エックスフォージ配合ＯＤ錠（選）"
+            },
+            {
+              "slug": "clarithromycin",
+              "name": "クラリス錠５０小児用　５０ｍｇ（選）"
+            },
+            {
+              "slug": "furosemide",
+              "name": "ラシックス錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "lidocaine",
+              "name": "リドカイン（１８ｍｇ）３０．５ｍｍ×５０．０ｍｍ貼付剤"
+            },
+            {
+              "slug": "bisoprolol",
+              "name": "メインテート錠５ｍｇ（選）"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "ミカムロ配合錠ＢＰ（選）"
+            },
+            {
+              "slug": "rosuvastatin",
+              "name": "クレストールＯＤ錠５ｍｇ（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "clopidogrel",
+              "name": "プラビックス錠７５ｍｇ（選）"
+            },
+            {
+              "slug": "sertraline",
+              "name": "ジェイゾロフトＯＤ錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "timolol",
+              "name": "デュオトラバ配合点眼液（選）"
+            },
+            {
+              "slug": "diclofenac",
+              "name": "ボルタレンサポ５０ｍｇ（選）"
+            },
+            {
+              "slug": "budesonide",
+              "name": "シムビコートタービュヘイラー６０吸入（選）"
+            },
+            {
+              "slug": "moxifloxacin",
+              "name": "ベガモックス点眼液０．５％（選）"
+            },
+            {
+              "slug": "verapamil",
+              "name": "ワソラン錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "levofloxacin",
+              "name": "クラビット点眼液１．５％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "celecoxib",
+              "name": "セレコックス錠２００ｍｇ（選）"
+            },
+            {
+              "slug": "ezetimibe",
+              "name": "ゼチーア錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "topiramate",
+              "name": "トピナ錠２５ｍｇ（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "montelukast",
+              "name": "シングレアＯＤ錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "lamotrigine",
+              "name": "ラミクタール錠２５ｍｇ（選）"
+            },
+            {
+              "slug": "hydrochlorothiazide",
+              "name": "プレミネント配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "losartan",
+              "name": "ニューロタン錠５０ｍｇ（選）"
+            },
+            {
+              "slug": "latanoprost",
+              "name": "ザラカム配合点眼液（選）"
+            },
             {
               "slug": "clotrimazole",
               "name": "エンペシドクリーム１％（選）"
             },
             {
+              "slug": "amoxicillin",
+              "name": "ワイドシリン細粒２０％　２００ｍｇ"
+            },
+            {
+              "slug": "ampicillin",
+              "name": "ビクシリンＳ配合錠　（２５０ｍｇ）"
+            },
+            {
+              "slug": "lamivudine",
+              "name": "エプジコム配合錠（選）"
+            },
+            {
+              "slug": "warfarin",
+              "name": "ワルファリンＫ細粒０．２％「ＮＳ」"
+            },
+            {
+              "slug": "fenofibrate",
+              "name": "トライコア錠８０ｍｇ（選）"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            },
+            {
+              "slug": "prasugrel",
+              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
+            },
+            {
+              "slug": "tramadol",
+              "name": "トラマールＯＤ錠５０ｍｇ（選）"
+            },
+            {
               "slug": "metronidazole",
               "name": "メトロニダゾールゲル０．７５％「マルイシ」"
+            },
+            {
+              "slug": "lactulose",
+              "name": "ラグノスＮＦ経口ゼリー分包１２ｇ　５４．１６７％"
+            },
+            {
+              "slug": "levetiracetam",
+              "name": "レベチラセタム粒状錠５００ｍｇ「サワイ」"
             }
           ]
         }
       ]
     },
     {
-      "id": "83ef58ea3a11",
-      "title": "の製品をもとに開発しており，在宅利用が可能となれば国内初",
-      "published": "2026-06-30T07:02:11+00:00",
-      "summary": "の製品をもとに開発しており，在宅利用が可能となれば国内初&nbsp;&nbsp;インナビネット",
+      "id": "a9d792c90452",
+      "title": "スパルセンタン IgA腎症で国内製造販売承認申請 中外製薬",
+      "published": "2026-06-30T10:43:52+00:00",
+      "summary": "スパルセンタン IgA腎症で国内製造販売承認申請 中外製薬&nbsp;&nbsp;医薬通信社",
       "sources": [
         {
-          "name": "インナビネット",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11ZU0wMVM4TXRXZ0x1WEgxYkMwRG9MV0hCZE8zTklEYVVNRENmV19Eb0ZGSzRwRlpOcl9kZVY3d1l5bWthOTJteUEyb3lVY0Z4R09XRW8xTS1tQzA1Q0VLVGwwOHVQUEJWbEE?oc=5"
+          "name": "医薬通信社",
+          "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPMV91NDlYT1VtbGN5TTh1bHpWM2tlcGRtcnVwNWx2aWJjR29RdWh0SHRSdWdJVF9scmhMdldFSEhPRk1jRDczcUJ4Y0wzb2tRc1VsUTFUbUYzWFRFMWdROWM5Q05qWmh4cjFPV0NWRHUzTHpkR2tkOGJMbFViZHJET0c3Y1BsdmFydEJ1akpVbFRaUGd1VVRjWms4MVFOWTE3ci1ER0tjeVJydEZRaDZvZ0o2RnNfeGluSWV5ZmxoLXI4djV3QnlnSGZGWG5jem1ZQUhGeWo0VHVMZDZLYW85WTlwTF92S0dLcjdRSGs1SUs1bm1RY19ZdHUyZ2t3R2pvaU9ueGIzNTgzcTZ1amhkMVlPN3N4LXFMQ2VUYkRWTG9CcWE1SkwwdlA5SVJlRGxtQjZTdHh0Q3VIRGwzR2p5bjV5dzE1UnlTZk5xd1plWTdMQQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "5520cb453800",
+      "title": "どんな症状があると『子宮内膜症』？ リスクが高い人に当てはまる「7項目」とは？【医師解説】(メディカルドック)",
+      "published": "2026-06-30T09:04:10+00:00",
+      "summary": "生理のたびに強い痛みがある、年々つらくなっている気がするなど、気になる症状があっても「体質だから」「よくあること」と我慢してしまう人は少なくありません。しかし、その背景に子宮内膜症が隠れていることもあ",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/19c9f1f79067d7fb22ecca7425afc205998ee1cf?source=rss"
         }
       ],
       "matched_keywords": []
@@ -140,6 +382,35 @@
         }
       ],
       "matched_keywords": []
+    },
+    {
+      "id": "16ec76a5fd0f",
+      "title": "エクサウィザーズグループのExaMD、国内初*1となる「在宅型」会話音声認知症AI診断支援アプリ（SaMD）の承認申請に向け臨床開発を開始 - PR TIMES",
+      "published": "2026-06-30T06:30:29+00:00",
+      "summary": "エクサウィザーズグループのExaMD、国内初*1となる「在宅型」会話音声認知症AI診断支援アプリ（SaMD）の承認申請に向け臨床開発を開始&nbsp;&nbsp;PR TIMES",
+      "sources": [
+        {
+          "name": "PR TIMES",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iU1FQbjNJcW1pTjJUTFZBS2xwSnN2UlA3NkVCQ2hPZFhjMlE4dVM0UlpkclU4TW9UYjlsR3dOcjgzVnkzdEZlZXVmWGMydFZleG1oWGxJT3dpMTF6ZEpoMFpmU1lDNHJ3REE?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "認知症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "3459635aff50",
@@ -170,7 +441,7 @@
     {
       "id": "def47ddc83d0",
       "title": "「ウイルス受容体」の迅速解析法を開発 〜未知のパンデミックウイルスの緊急解析にも有用〜 - Digital PR Platform",
-      "published": "2026-06-30T05:21:21+00:00",
+      "published": "2026-06-30T05:23:21+00:00",
       "summary": "「ウイルス受容体」の迅速解析法を開発 〜未知のパンデミックウイルスの緊急解析にも有用〜&nbsp;&nbsp;Digital PR Platform",
       "sources": [
         {
@@ -423,19 +694,6 @@
       "matched_keywords": []
     },
     {
-      "id": "020a5b0339ad",
-      "title": "脳の健康に効く最強の食事法「DASH」とは",
-      "published": "2026-06-29T22:03:16+00:00",
-      "summary": "脳の健康に効く最強の食事法「DASH」とは&nbsp;&nbsp;ナゾロジーGoogle ニュースで見出しと意見をもっと見る",
-      "sources": [
-        {
-          "name": "ナゾロジー",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtZVI1SjNESFNFZU5tY1NOM0pDMXJralFRdHRnc2N5VFYxbjdPcjdSUlVXeUJ4OXpsQmZldjdPM2xfVm43WF9VaU1YT3RPakJFeS14ZVI3QU1aSnc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "9b4eef7d12ad",
       "title": "性感染症「尖圭コンジローマ」の再発を防ぐ治療法は？ イボができ、大きくなったり増えたり…",
       "published": "2026-06-29T21:00:00+00:00",
@@ -501,7 +759,7 @@
       "id": "58831e9ee22e",
       "title": "「男性も接種可」認知４割 ＨＰＶワクチンで調査",
       "published": "2026-06-29T15:00:00+00:00",
-      "summary": "「男性も接種可」認知４割 ＨＰＶワクチンで調査&nbsp;&nbsp;47NEWS",
+      "summary": "「男性も接種可」認知４割 ＨＰＶワクチンで調査&nbsp;&nbsp;47NEWS男性は依然としてHPVウイルス感染のリスクに油断している&nbsp;&nbsp;Laodong.vn",
       "sources": [
         {
           "name": "47NEWS",
@@ -1935,19 +2193,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/9600b26b83ce29ac37fdd9baba74393c3100cc3e?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "d8d8f3b934da",
-      "title": "【研究成果】抗真菌薬の作用を増強するメカニズムを解明 ― 副作用を抑えた新しい真菌症治療戦略に期待",
-      "published": "2026-06-29T07:00:09+00:00",
-      "summary": "【研究成果】抗真菌薬の作用を増強するメカニズムを解明 ― 副作用を抑えた新しい真菌症治療戦略に期待&nbsp;&nbsp;hiroshima-u.ac.jp",
-      "sources": [
-        {
-          "name": "hiroshima-u.ac.jp",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hTnhVS0ItZzl0SnVnU3E5YzIxQmU0S1NwbTZiX25UeVAtV1d6QnhWc0ZnUXMwcTVGdHUzNnlUaFVENkNDSV9ZcFRGbjhQbHFoNEE?oc=5"
         }
       ],
       "matched_keywords": []
@@ -3639,58 +3884,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/aa9cd1cd5d6962333c54c94ba74e3d277786fffe?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "62bb06c3cbfa",
-      "title": "楕円銀河「M87」から吹き出すジェットの進化　チャンドラX線宇宙望遠鏡が詳細に解明(sorae 宇宙へのポータルサイト)",
-      "published": "2026-06-26T11:00:32+00:00",
-      "summary": "ラバル大学の博士課程学生Camille Poitras氏らの研究チームは、地球から約5500万光年離れた楕円銀河「M87」の中心にある超大質量ブラックホールから噴出するジェット（細く絞られたガスの高速",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/c3d0258149de92356428ed750b6ddb2fc209ffab?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "58defd72a3b6",
-      "title": "日本の変形型月面ロボット「SORA-Q」の成果が学術誌Science Roboticsに掲載(sorae 宇宙へのポータルサイト)",
-      "published": "2026-06-26T10:00:29+00:00",
-      "summary": "JAXA（宇宙航空研究開発機構）、タカラトミー、ソニーグループ、同志社大学の共同開発チームは2026年6月18日、小型月着陸実証機「SLIM」に搭載された変形型月面ロボット「LEV-2」、愛称「SOR",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/7eeb3ea1d12ff05e559571d83b2859b426807f6b?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "c65e53782c27",
-      "title": "木下優樹菜さん緊急搬送 アナフィラキシーで表れる症状や原因を医師が解説(メディカルドック)",
-      "published": "2026-06-26T09:32:52+00:00",
-      "summary": "元タレントの木下優樹菜さんが、25日（木）に自身のSNSにてアナフィラキーショックのため救急搬送されていたことを明らかにしました。本記事では、アナフィラキシーで表れる症状や原因を医師の武井智昭先生に解",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/09ebac9b170b424dec061fd855dc8d6eea38c21c?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "876e0be838a7",
-      "title": "天の川銀河の中心部で新たな超新星残骸の候補を発見か　チャンドラなどの観測データから(sorae 宇宙へのポータルサイト)",
-      "published": "2026-06-26T09:30:51+00:00",
-      "summary": "カリフォルニア大学ロサンゼルス校（UCLA）のZhenlin Zhu氏やMark Morris氏を中心とする研究チームは、NASA（アメリカ航空宇宙局）のチャンドラX線観測衛星などのデータを利用し、天",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/c06a78f3fb6825e8a08b8f071579cf850eb259a2?source=rss"
         }
       ],
       "matched_keywords": []
