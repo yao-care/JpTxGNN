@@ -1,10 +1,22 @@
 {
   "source": "japan_news",
-  "fetched_at": "2026-07-04T12:59:51.159763+00:00",
-  "total_fetched": 122,
-  "unique_count": 122,
-  "health_related_count": 43,
+  "fetched_at": "2026-07-04T18:56:06.294194+00:00",
+  "total_fetched": 123,
+  "unique_count": 123,
+  "health_related_count": 46,
   "news": [
+    {
+      "id": "eb104e4377df",
+      "title": "【How-to Dress 教えてスーツ】知らないと恥をかく!? スーツの正しいサイジングとは？(FORZA STYLE)",
+      "published": "2026-07-04T18:48:15+00:00",
+      "summary": "人気連載「干場編集長のスタイルクリニック」略して【スタクリ】。めでたく連載200回を超えたスタクリは、新たな企画が続々とスタートしています! その一つが【How-to Dress 教えてスーツ】。",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/d9c4d53ab736e733c70fef446326fdc1dc44eb23?source=rss"
+        }
+      ]
+    },
     {
       "id": "a8570ae7b669",
       "title": "動悸や胸痛など循環器系の不調を軽減する「巨闕」。胃痛や吐き気、しゃっくり止めにも(家庭画報.com)",
@@ -42,6 +54,18 @@
       ]
     },
     {
+      "id": "339ac398ffbf",
+      "title": "日本脳炎の注意報を発表…長崎県、ワクチン接種など呼びかけ - 47NEWS",
+      "published": "2026-07-04T01:30:00+00:00",
+      "summary": "日本脳炎の注意報を発表…長崎県、ワクチン接種など呼びかけ&nbsp;&nbsp;47NEWSGoogle ニュースで見出しと意見をもっと見る",
+      "sources": [
+        {
+          "name": "47NEWS",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wdE8yYXhWQmFMeWdQblR6Yi1kbHlhTnpBTkp3dUlNY19fMENDMndpSTVqdkVoN3l0YTVKOHd3akxPbS1jSmgyYTFyRQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "cb348ef06f1e",
       "title": "【ネットオリジナル】みんなの保健室 ７月２８日は「世界肝炎デー」 早期発見と早期治療が重要 - 日本海新聞 NetNihonkai",
       "published": "2026-07-04T01:00:00+00:00",
@@ -54,13 +78,25 @@
       ]
     },
     {
-      "id": "2747d47b0eed",
-      "title": "「意外と知らない」妊娠中のセックスの真実…コンドームなしで前期破水のリスクも？ - ライブドアニュース",
+      "id": "8debb0844894",
+      "title": "「寝不足くらい平気」は危険だった…研究でわかった“太りやすい睡眠時間” - Excite エキサイト",
       "published": "2026-07-03T22:00:00+00:00",
-      "summary": "「意外と知らない」妊娠中のセックスの真実…コンドームなしで前期破水のリスクも？&nbsp;&nbsp;ライブドアニュース",
+      "summary": "「寝不足くらい平気」は危険だった…研究でわかった“太りやすい睡眠時間”&nbsp;&nbsp;Excite エキサイト",
       "sources": [
         {
-          "name": "ライブドアニュース",
+          "name": "Excite エキサイト",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1EODVxSzFoejNvdHVMUVlvR0g2OXlRbkVYQjNZTGpUUzBGQy13WTk2ZGhBU29TQVh5OTFXZHJ0OTRRelBUNWdzMG9uekhGMmZaRExLNEdjRHEwV2trYkZsTlVEOA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d8ec3af0b28e",
+      "title": "「意外と知らない」妊娠中のセックスの真実…コンドームなしで前期破水のリスクも？ - news.livedoor.com",
+      "published": "2026-07-03T22:00:00+00:00",
+      "summary": "「意外と知らない」妊娠中のセックスの真実…コンドームなしで前期破水のリスクも？&nbsp;&nbsp;news.livedoor.com",
+      "sources": [
+        {
+          "name": "news.livedoor.com",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xUnN4d2otMmNYS2dlWDhFZjcyNzhMUzdYblJTVERYQlA5S0gzLTZQdC11ekEzVm0xUmVRVFM4MU1wdFZRTjVFQlZXQlZzQnNiRmsyeGdMVEtSRFhraFlad2pSa2tQS0ttUncwODZmUmtBOUl2ZjZZQg?oc=5"
         }
       ]
@@ -69,7 +105,7 @@
       "id": "e25f33be7dcd",
       "title": "ハンタウイルス感染終息 ５月下旬以降、新たな感染例の報告なし - 日本農業新聞",
       "published": "2026-07-03T21:36:31+00:00",
-      "summary": "ハンタウイルス感染終息 ５月下旬以降、新たな感染例の報告なし&nbsp;&nbsp;日本農業新聞WHO クルーズ船でのハンタウイルス集団感染の収束を宣言&nbsp;&nbsp;NHKニュースWHO「ハンタウイルス」流行終息を宣言 大西洋航行中のクルーズ船で感染確認&nbsp;&nbsp;TVer画像・写真：ハンタウイルス感染終息 エボラは拡大続く―ＷＨＯ：時事ドットコム&nbsp;&nbsp;時事ドットコムクルーズ船のハンタウイルス集団感染、ＷＨＯが収束宣言…経過観察期間に新たな感染者確認されず&nbsp;&nbsp;読売新聞",
+      "summary": "ハンタウイルス感染終息 ５月下旬以降、新たな感染例の報告なし&nbsp;&nbsp;日本農業新聞WHO ハンタウイルスの収束宣言 クルーズ船で5月に発生（ABEMA TIMES）&nbsp;&nbsp;Yahoo!ニュース画像・写真：ハンタウイルス感染終息 エボラは拡大続く―ＷＨＯ：時事ドットコム&nbsp;&nbsp;時事ドットコムWHO「ハンタウイルス」流行終息を宣言 大西洋航行中のクルーズ船で感染確認&nbsp;&nbsp;TVerクルーズ船のハンタウイルス集団感染、ＷＨＯが収束宣言…経過観察期間に新たな感染者確認されず&nbsp;&nbsp;読売新聞",
       "sources": [
         {
           "name": "日本農業新聞",
@@ -222,14 +258,14 @@
       ]
     },
     {
-      "id": "af1e87cd8dd9",
-      "title": "コーヒー成分が老化や病気に関わる受容体に作用する可能性 - Gizmodo",
+      "id": "b1517799904d",
+      "title": "コーヒー成分が老化や病気に関わる受容体に作用する可能性 - au Webポータル",
       "published": "2026-07-03T08:35:00+00:00",
-      "summary": "コーヒー成分が老化や病気に関わる受容体に作用する可能性&nbsp;&nbsp;GizmodoGoogle ニュースで見出しと意見をもっと見る",
+      "summary": "コーヒー成分が老化や病気に関わる受容体に作用する可能性&nbsp;&nbsp;au Webポータル毎日のコーヒー摂取で肝疾患や肝臓がんのリスクが低下する可能性 大量摂取でも効果&nbsp;&nbsp;CNN.co.jpコーヒーを適量飲めば、病気のリスクが減るのは本当？【体にいいのはどっち？】第9回｜体にいいのはどっち？｜CareNet.com&nbsp;&nbsp;CareNet.com毎日のコーヒー1杯が肝疾患や肝臓がんのリスクを下げる可能性があることが明らかになった&nbsp;&nbsp;CNN.co.jp",
       "sources": [
         {
-          "name": "Gizmodo",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTnNYUW1vTGdueW1PYTgtUXhNRGFOeTJKTy1pMkNlTFBHa3hVa2otNnVEMlJZVlI0NHBjMUY3dXZqb1RFdFBTdG5Nd1JDTkJSdWM5cm1HNFRDaFZUY3o1ajNWQkN6eDFVZFBZaUczUDJ0WFdhelVna2M1V0FiRHhZbE5n?oc=5"
+          "name": "au Webポータル",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OM3lldWVLX2YtSVJTdmgtMXhJRWc0eXdvX3IxRzl6b0x4WnN2VEV4QkdkQ2x3bEtMalpKYXI2VmZlZWxuNGVPa3J6NFBOd0hYY3N2NDlXZmlhazgyaTk0REphTS11bXZJcGhEdmlDWnJMb1BNUkFpV05n?oc=5"
         }
       ]
     },
@@ -278,18 +314,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/98db3fe197518d4b04747a0e9449f0c904e10978?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "db46ba38a1f3",
-      "title": "「前頭側頭型認知症」は”何年で末期症状に至る”かご存じですか？寿命も医師が解説！ - メディカルドック",
-      "published": "2026-07-03T03:35:46+00:00",
-      "summary": "「前頭側頭型認知症」は”何年で末期症状に至る”かご存じですか？寿命も医師が解説！&nbsp;&nbsp;メディカルドック",
-      "sources": [
-        {
-          "name": "メディカルドック",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVNWI5eFdvLXVvUW1OdFNhd1ltcENTN1RyQ0x0VURxOW1ZUVJPc21yX3l3R1JDTzJNUGFmcXUyZ2JwLVRCdWF2VW8zTGNjSm1sekhTVG4yUkVONmNISWluSkZrTzRlZ1FEZmsw?oc=5"
         }
       ]
     },
@@ -494,6 +518,18 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/ba723c9624b8e12adcde17912d70b0b42099f0b8?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "a31e097a155e",
+      "title": "前立腺がんの早期発見と治療を学ぶ動画公開 - newscast.jp",
+      "published": "2026-07-01T12:45:21+00:00",
+      "summary": "前立腺がんの早期発見と治療を学ぶ動画公開&nbsp;&nbsp;newscast.jpGoogle ニュースで見出しと意見をもっと見る",
+      "sources": [
+        {
+          "name": "newscast.jp",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB1ZS1pNDYzWmg5Y3otaEFndUsyWTJNekllQnlUcFhrbmF0NlR5eTRqYnBSNmdWME9GT2tMVGRMQlNNanRQbThV?oc=5"
         }
       ]
     },
