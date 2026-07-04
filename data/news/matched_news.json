@@ -1,17 +1,785 @@
 {
-  "last_updated": "2026-07-03T19:01:41.609268+00:00",
-  "total_count": 54,
-  "matched_count": 18,
+  "last_updated": "2026-07-04T01:56:57.020686+00:00",
+  "total_count": 57,
+  "matched_count": 16,
   "news": [
     {
-      "id": "91988939d76d",
-      "title": "ハンタウイルス WHO収束宣言 クルーズ船集団感染",
-      "published": "2026-07-03T17:01:48+00:00",
-      "summary": "ハンタウイルス WHO収束宣言 クルーズ船集団感染&nbsp;&nbsp;毎日新聞ハンタウイルス、WHOが「収束宣言」 “最後の接触者”が隔離期間終え帰宅 5月下旬以降、新たな症例も確認されず&nbsp;&nbsp;Yahoo!ニュースクルーズ船のハンタウイルス集団感染、ＷＨＯが収束宣言…経過観察期間に新たな感染者確認されず&nbsp;&nbsp;読売新聞WHO「ハンタウイルス」流行終息を宣言 大西洋航行中のクルーズ船で感染確認&nbsp;&nbsp;TVer画像・写真：ハンタウイルス感染終息 エボラは拡大続く―ＷＨＯ：時事ドットコム&nbsp;&nbsp;時事ドットコム",
+      "id": "1b4a5cdce50b",
+      "title": "診察室から＞子宮頸がん予防 夏休み、HPVワクチンを接種しよう | 暮らし・文化 | 佐賀県のニュース",
+      "published": "2026-07-04T01:45:00+00:00",
+      "summary": "診察室から＞子宮頸がん予防 夏休み、HPVワクチンを接種しよう | 暮らし・文化 | 佐賀県のニュース&nbsp;&nbsp;佐賀新聞「子宮頸がんの死者ゼロ」は可能、ワクチンが予想以上の実績&nbsp;&nbsp;ナショナルジオグラフィック診察室から＞子宮頸がん予防 夏休み、HPVワクチンを接種しよう（Saga Shimbun）&nbsp;&nbsp;ｄメニューニュース【英で快挙】子宮頸がん、20代前半の死者初のゼロに！最新研究が明かすウイルス対策と検診の重要性（ウィメンズヘルス）&nbsp;&nbsp;Yahoo!ニュースHPVワクチンの定期接種化で男性の癌予防と集団免疫効果に期待&nbsp;&nbsp;日経メディカル",
       "sources": [
         {
-          "name": "毎日新聞",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxaE9YcnBndlZSaFRNMGtMNlpmSGNZcG9DbWxnM1FqMDdqYkZTVmlVQmRHMndaSXI5ZEhPSWxHTi1TbEF5R3dxZTJmMENSWmlMRTBablVod0xnTlRYSUk2SUtUSjFMRGtF?oc=5"
+          "name": "佐賀新聞",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SLUJhMkpvSGVDX0VNenZIZWYxRkhQWlNxVDlzLUZsZWw4RUZmbG8yOG5Db2VSNHFzcE16OHNrNmtvSmdGektDb1BNbEVaSzlONnRNeHpn?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "acyclovir",
+              "name": "ゾビラックス軟膏５％（選）"
+            },
+            {
+              "slug": "theophylline",
+              "name": "ユニコン錠１００　１００ｍｇ（選）"
+            },
+            {
+              "slug": "risperidone",
+              "name": "リスパダール錠２ｍｇ（選）"
+            },
+            {
+              "slug": "valproic-acid",
+              "name": "セレニカＲ顆粒４０％（選）"
+            },
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "atorvastatin",
+              "name": "アトーゼット配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "cyclosporine",
+              "name": "ネオーラル５０ｍｇカプセル（選）"
+            },
+            {
+              "slug": "azithromycin",
+              "name": "ジスロマック細粒小児用１０％　１００ｍｇ（選）"
+            },
+            {
+              "slug": "valsartan",
+              "name": "ディオバンＯＤ錠１６０ｍｇ（選）"
+            },
+            {
+              "slug": "carbamazepine",
+              "name": "テグレトール錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "morphine",
+              "name": "モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」"
+            },
+            {
+              "slug": "pravastatin",
+              "name": "メバロチン錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "atenolol",
+              "name": "テノーミン錠５０　５０ｍｇ（選）"
+            },
+            {
+              "slug": "loperamide",
+              "name": "ロペミンカプセル１ｍｇ（選）"
+            },
+            {
+              "slug": "simvastatin",
+              "name": "リポバス錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "carvedilol",
+              "name": "アーチスト錠２０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "diazepam",
+              "name": "ホリゾン錠５ｍｇ（選）"
+            },
+            {
+              "slug": "lorazepam",
+              "name": "ワイパックス錠１．０　１ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "spironolactone",
+              "name": "アルダクトンＡ錠５０ｍｇ（選）"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "ロプレソール錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "enalapril",
+              "name": "レニベース錠１０　１０ｍｇ（選）"
+            },
+            {
+              "slug": "lisinopril",
+              "name": "ロンゲス錠２０ｍｇ（選）"
+            },
+            {
+              "slug": "diltiazem",
+              "name": "ヘルベッサー錠６０　６０ｍｇ（選）"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "エックスフォージ配合ＯＤ錠（選）"
+            },
+            {
+              "slug": "clarithromycin",
+              "name": "クラリス錠５０小児用　５０ｍｇ（選）"
+            },
+            {
+              "slug": "furosemide",
+              "name": "ラシックス錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "lidocaine",
+              "name": "リドカイン（１８ｍｇ）３０．５ｍｍ×５０．０ｍｍ貼付剤"
+            },
+            {
+              "slug": "bisoprolol",
+              "name": "メインテート錠５ｍｇ（選）"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "ミカムロ配合錠ＢＰ（選）"
+            },
+            {
+              "slug": "rosuvastatin",
+              "name": "クレストールＯＤ錠５ｍｇ（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "clopidogrel",
+              "name": "プラビックス錠７５ｍｇ（選）"
+            },
+            {
+              "slug": "sertraline",
+              "name": "ジェイゾロフトＯＤ錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "timolol",
+              "name": "デュオトラバ配合点眼液（選）"
+            },
+            {
+              "slug": "diclofenac",
+              "name": "ボルタレンサポ５０ｍｇ（選）"
+            },
+            {
+              "slug": "budesonide",
+              "name": "シムビコートタービュヘイラー６０吸入（選）"
+            },
+            {
+              "slug": "moxifloxacin",
+              "name": "ベガモックス点眼液０．５％（選）"
+            },
+            {
+              "slug": "verapamil",
+              "name": "ワソラン錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "levofloxacin",
+              "name": "クラビット点眼液１．５％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "celecoxib",
+              "name": "セレコックス錠２００ｍｇ（選）"
+            },
+            {
+              "slug": "ezetimibe",
+              "name": "ゼチーア錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "topiramate",
+              "name": "トピナ錠２５ｍｇ（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "montelukast",
+              "name": "シングレアＯＤ錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "lamotrigine",
+              "name": "ラミクタール錠２５ｍｇ（選）"
+            },
+            {
+              "slug": "hydrochlorothiazide",
+              "name": "プレミネント配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "losartan",
+              "name": "ニューロタン錠５０ｍｇ（選）"
+            },
+            {
+              "slug": "latanoprost",
+              "name": "ザラカム配合点眼液（選）"
+            },
+            {
+              "slug": "clotrimazole",
+              "name": "エンペシドクリーム１％（選）"
+            },
+            {
+              "slug": "amoxicillin",
+              "name": "ワイドシリン細粒２０％　２００ｍｇ"
+            },
+            {
+              "slug": "ampicillin",
+              "name": "ビクシリンＳ配合錠　（２５０ｍｇ）"
+            },
+            {
+              "slug": "lamivudine",
+              "name": "エプジコム配合錠（選）"
+            },
+            {
+              "slug": "warfarin",
+              "name": "ワルファリンＫ細粒０．２％「ＮＳ」"
+            },
+            {
+              "slug": "fenofibrate",
+              "name": "トライコア錠８０ｍｇ（選）"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            },
+            {
+              "slug": "prasugrel",
+              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
+            },
+            {
+              "slug": "tramadol",
+              "name": "トラマールＯＤ錠５０ｍｇ（選）"
+            },
+            {
+              "slug": "metronidazole",
+              "name": "メトロニダゾールゲル０．７５％「マルイシ」"
+            },
+            {
+              "slug": "lactulose",
+              "name": "ラグノスＮＦ経口ゼリー分包１２ｇ　５４．１６７％"
+            },
+            {
+              "slug": "levetiracetam",
+              "name": "レベチラセタム粒状錠５００ｍｇ「サワイ」"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "癌",
+          "keyword": "癌",
+          "related_drugs": [
+            {
+              "slug": "acyclovir",
+              "name": "ゾビラックス軟膏５％（選）"
+            },
+            {
+              "slug": "theophylline",
+              "name": "ユニコン錠１００　１００ｍｇ（選）"
+            },
+            {
+              "slug": "risperidone",
+              "name": "リスパダール錠２ｍｇ（選）"
+            },
+            {
+              "slug": "valproic-acid",
+              "name": "セレニカＲ顆粒４０％（選）"
+            },
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "atorvastatin",
+              "name": "アトーゼット配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "cyclosporine",
+              "name": "ネオーラル５０ｍｇカプセル（選）"
+            },
+            {
+              "slug": "azithromycin",
+              "name": "ジスロマック細粒小児用１０％　１００ｍｇ（選）"
+            },
+            {
+              "slug": "valsartan",
+              "name": "ディオバンＯＤ錠１６０ｍｇ（選）"
+            },
+            {
+              "slug": "carbamazepine",
+              "name": "テグレトール錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "morphine",
+              "name": "モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」"
+            },
+            {
+              "slug": "pravastatin",
+              "name": "メバロチン錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "atenolol",
+              "name": "テノーミン錠５０　５０ｍｇ（選）"
+            },
+            {
+              "slug": "loperamide",
+              "name": "ロペミンカプセル１ｍｇ（選）"
+            },
+            {
+              "slug": "simvastatin",
+              "name": "リポバス錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "carvedilol",
+              "name": "アーチスト錠２０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "diazepam",
+              "name": "ホリゾン錠５ｍｇ（選）"
+            },
+            {
+              "slug": "lorazepam",
+              "name": "ワイパックス錠１．０　１ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "spironolactone",
+              "name": "アルダクトンＡ錠５０ｍｇ（選）"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "ロプレソール錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "enalapril",
+              "name": "レニベース錠１０　１０ｍｇ（選）"
+            },
+            {
+              "slug": "lisinopril",
+              "name": "ロンゲス錠２０ｍｇ（選）"
+            },
+            {
+              "slug": "diltiazem",
+              "name": "ヘルベッサー錠６０　６０ｍｇ（選）"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "エックスフォージ配合ＯＤ錠（選）"
+            },
+            {
+              "slug": "clarithromycin",
+              "name": "クラリス錠５０小児用　５０ｍｇ（選）"
+            },
+            {
+              "slug": "furosemide",
+              "name": "ラシックス錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "lidocaine",
+              "name": "リドカイン（１８ｍｇ）３０．５ｍｍ×５０．０ｍｍ貼付剤"
+            },
+            {
+              "slug": "bisoprolol",
+              "name": "メインテート錠５ｍｇ（選）"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "ミカムロ配合錠ＢＰ（選）"
+            },
+            {
+              "slug": "rosuvastatin",
+              "name": "クレストールＯＤ錠５ｍｇ（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "clopidogrel",
+              "name": "プラビックス錠７５ｍｇ（選）"
+            },
+            {
+              "slug": "sertraline",
+              "name": "ジェイゾロフトＯＤ錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "timolol",
+              "name": "デュオトラバ配合点眼液（選）"
+            },
+            {
+              "slug": "diclofenac",
+              "name": "ボルタレンサポ５０ｍｇ（選）"
+            },
+            {
+              "slug": "budesonide",
+              "name": "シムビコートタービュヘイラー６０吸入（選）"
+            },
+            {
+              "slug": "moxifloxacin",
+              "name": "ベガモックス点眼液０．５％（選）"
+            },
+            {
+              "slug": "verapamil",
+              "name": "ワソラン錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "levofloxacin",
+              "name": "クラビット点眼液１．５％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "celecoxib",
+              "name": "セレコックス錠２００ｍｇ（選）"
+            },
+            {
+              "slug": "ezetimibe",
+              "name": "ゼチーア錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "topiramate",
+              "name": "トピナ錠２５ｍｇ（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "montelukast",
+              "name": "シングレアＯＤ錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "lamotrigine",
+              "name": "ラミクタール錠２５ｍｇ（選）"
+            },
+            {
+              "slug": "hydrochlorothiazide",
+              "name": "プレミネント配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "losartan",
+              "name": "ニューロタン錠５０ｍｇ（選）"
+            },
+            {
+              "slug": "latanoprost",
+              "name": "ザラカム配合点眼液（選）"
+            },
+            {
+              "slug": "clotrimazole",
+              "name": "エンペシドクリーム１％（選）"
+            },
+            {
+              "slug": "amoxicillin",
+              "name": "ワイドシリン細粒２０％　２００ｍｇ"
+            },
+            {
+              "slug": "ampicillin",
+              "name": "ビクシリンＳ配合錠　（２５０ｍｇ）"
+            },
+            {
+              "slug": "lamivudine",
+              "name": "エプジコム配合錠（選）"
+            },
+            {
+              "slug": "warfarin",
+              "name": "ワルファリンＫ細粒０．２％「ＮＳ」"
+            },
+            {
+              "slug": "fenofibrate",
+              "name": "トライコア錠８０ｍｇ（選）"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            },
+            {
+              "slug": "prasugrel",
+              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
+            },
+            {
+              "slug": "tramadol",
+              "name": "トラマールＯＤ錠５０ｍｇ（選）"
+            },
+            {
+              "slug": "metronidazole",
+              "name": "メトロニダゾールゲル０．７５％「マルイシ」"
+            },
+            {
+              "slug": "lactulose",
+              "name": "ラグノスＮＦ経口ゼリー分包１２ｇ　５４．１６７％"
+            },
+            {
+              "slug": "levetiracetam",
+              "name": "レベチラセタム粒状錠５００ｍｇ「サワイ」"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e9aae3af55cc",
+      "title": "“ツボ押し＝押すだけ”は誤解？　鍼灸師が教える4つの刺激方法(AERA DIGITAL)",
+      "published": "2026-07-04T01:30:36+00:00",
+      "summary": "うつろう気候と、日々変化する心身。突発的な症状にお守りの一手、ツボ押しのきほんをご存知ですか？ ツボ位置の探し方と刺激方法を、人気の鍼灸師・久保和也さんによる著書『ツボとお灸でからだが整う まいにち",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/de1b7155c375fa28ae6c355879e09dd8bd6f2c0f?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "838761536461",
+      "title": "《27歳年の差婚》「男性が社会的信頼を失う」「日本より世間の目が厳しい」59歳の年上アメリカ人夫と結婚した日本人妻（32）が語る、“年の差婚の意外な現実”(文春オンライン)",
+      "published": "2026-07-04T01:30:36+00:00",
+      "summary": "10歳でアメリカに渡り、ハーバードメディカルスクール関連の研究職を経て、現在はボストンで納豆の製造販売会社「Aya's Culture Kitchen」を経営するRowe綾花さん（32）。27歳年上",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/b89f2b5f64b206acf9e1c309f01979aed808cc38?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "c32e8683d470",
+      "title": "50年間「豚」扱いされ…兄・父とずっと険悪な50代女性が79歳認知症母の夜中トイレ介助で迎えた心身の限界(プレジデントオンライン)",
+      "published": "2026-07-04T01:15:40+00:00",
+      "summary": "50代の女性は2人の子供を社会人に育て上げ、ようやく自分の時間ができた矢先に母親が倒れた。80歳手前の母親がおかしくなり始めたきっかけは、慣れていたはずの自転車をこいでいる時に起きた大ケガだった。いっ",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/1633a7445e966096821da5865d56e8f6c2def530?source=rss"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "認知症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e904e7d4fe44",
+      "title": "母は隠さず「奇形児やから」と…“アヒルのガーコ”と呼ばれた難病の女性（51）が明かす、40回以上の手術と“鼻を作る”決断をした理由(文春オンライン)",
+      "published": "2026-07-04T01:12:16+00:00",
+      "summary": "先天性の難病「顔面動静脈奇形」で鼻と上唇が変形し、40回以上の手術を受けてきた河除静香さん。現在は、見た目による差別を受けてきた体験を芝居にし、地元・富山県を中心に上演会も行う。 そんな河除さん",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/e9c2833e47011d9aa76f82f3c6184541a11d5a90?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "d8e15b70f3f5",
+      "title": "上質革のボディバッグをまとって、夏のTイチ姿をグッと格上げ！(Safari Online)",
+      "published": "2026-07-04T01:03:21+00:00",
+      "summary": "財布やスマホ、サングラスといった手まわり品だけ持って、サクッと出かける際に重宝するのがボディバッグ。これを〈モンブラン〉が手掛けると、高級感と品格を放つ逸品に。Tイチ姿の格上げ効果も期待できそうだ。",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/8a47debad92be411ded879e4130bbce75dd434e7?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "0730166eff06",
+      "title": "札幌、いわき、新潟で発見！地元で愛される醤油ラーメン3選　TRY審査員が見つけた旨い店(おとなの週末)",
+      "published": "2026-07-04T01:00:37+00:00",
+      "summary": "全国には、地元の人が通い続ける名店がある。北海道、新潟、福島――話題性はなくても、その一杯のために遠方から客が訪れ、何十年も暖簾を守り続ける店。その土地で暮らす人たちの日常に溶け込み、愛され続けてきた",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/d327935d24009e2cf6ea7a902e5eb48edfc0810c?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "cb348ef06f1e",
+      "title": "【ネットオリジナル】みんなの保健室 ７月２８日は「世界肝炎デー」 早期発見と早期治療が重要 - 日本海新聞 NetNihonkai",
+      "published": "2026-07-04T01:00:00+00:00",
+      "summary": "【ネットオリジナル】みんなの保健室 ７月２８日は「世界肝炎デー」 早期発見と早期治療が重要&nbsp;&nbsp;日本海新聞 NetNihonkai肝炎ウイルス検査（血液検査）を受けましょう&nbsp;&nbsp;pref.saitama.lg.jp",
+      "sources": [
+        {
+          "name": "日本海新聞 NetNihonkai",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE12emYxSHQxZENmUlNNNlRrUEZWOHR0R0t5OHVGYno2eXRhelhxRzhyZ2MwUk5EbXNoTXBFSEExTEc0Zk5FTmZmTFJDVnRZVHBw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "923942840962",
+      "title": "むくみや胃腸ケアに。冬瓜と枝豆のポタージュレシピ。(フィガロジャポン)",
+      "published": "2026-07-04T00:50:34+00:00",
+      "summary": "料理家・国際中医薬膳師のちづかみゆきによる、季節に合った、おいしくて身体にいい薬膳レシピをご紹介。",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/49032f1187c71279a9d18f4345a03e7e4a8757d4?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "ef031cdc0308",
+      "title": "「もっと走る＝健康」は正解じゃない？ 最新研究が示した運動量と健康寿命の意外な関係を米国専門家が解説(MEN’S CLUB)",
+      "published": "2026-07-04T00:30:10+00:00",
+      "summary": "ランニングがもたらす健康効果については、いまさら説明するまでもないだろう。ランナーであれば、数kmのジョギングを終えた後の爽快感や、トレーニングの成果によってタイムが向上する喜び、あるいは継続すること",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/7571feb02eadcc216e1405bbb2f4dac313d2555b?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "2747d47b0eed",
+      "title": "「意外と知らない」妊娠中のセックスの真実…コンドームなしで前期破水のリスクも？",
+      "published": "2026-07-03T22:00:00+00:00",
+      "summary": "「意外と知らない」妊娠中のセックスの真実…コンドームなしで前期破水のリスクも？&nbsp;&nbsp;ライブドアニュース",
+      "sources": [
+        {
+          "name": "ライブドアニュース",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xUnN4d2otMmNYS2dlWDhFZjcyNzhMUzdYblJTVERYQlA5S0gzLTZQdC11ekEzVm0xUmVRVFM4MU1wdFZRTjVFQlZXQlZzQnNiRmsyeGdMVEtSRFhraFlad2pSa2tQS0ttUncwODZmUmtBOUl2ZjZZQg?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "2d5e5bbcd67e",
+      "title": "5位は糖尿病､2位は運動不足…研究で｢日本人の認知症の原因｣1位だとわかった\"意外な要素\"【認知症リスク3選】 - PRESIDENT Online（プレジデントオンライン）",
+      "published": "2026-07-03T21:02:26+00:00",
+      "summary": "5位は糖尿病､2位は運動不足…研究で｢日本人の認知症の原因｣1位だとわかった\"意外な要素\"【認知症リスク3選】&nbsp;&nbsp;PRESIDENT Online（プレジデントオンライン）Google ニュースで見出しと意見をもっと見る",
+      "sources": [
+        {
+          "name": "PRESIDENT Online（プレジデントオンライン）",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1TTZkalkyTUR3THIwSGVUMmNxRzI5Z3dCVkpCN21rX1cwa1pmaGhiTnRWMXo2WWNRR3FLNUhrOERlcTk1VEtoa2V1YTNPNDQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "認知症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6fab776934ea",
+      "title": "「推し活」は認知症を予防するか？《看取り医者は見た！》53",
+      "published": "2026-07-03T21:00:00+00:00",
+      "summary": "「推し活」は認知症を予防するか？《看取り医者は見た！》53&nbsp;&nbsp;NEWSつくば",
+      "sources": [
+        {
+          "name": "NEWSつくば",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE80aWdsbUFLRm1ianZFWlJGNmFVRXktd1BfeGxMOHdUR3FzWmkyZXpaeXBWY0N4cXpQVDJTYkFTOXZJbVp6M0owemdCSQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "認知症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e25f33be7dcd",
+      "title": "ハンタウイルス感染終息 ５月下旬以降、新たな感染例の報告なし",
+      "published": "2026-07-03T20:02:42+00:00",
+      "summary": "ハンタウイルス感染終息 ５月下旬以降、新たな感染例の報告なし&nbsp;&nbsp;日本農業新聞WHO クルーズ船でのハンタウイルス集団感染の収束を宣言&nbsp;&nbsp;NHKニュースWHO「ハンタウイルス」流行終息を宣言 大西洋航行中のクルーズ船で感染確認&nbsp;&nbsp;TVer画像・写真：ハンタウイルス感染終息 エボラは拡大続く―ＷＨＯ：時事ドットコム&nbsp;&nbsp;時事ドットコムハンタウイルス、WHOが「収束宣言」 “最後の接触者”が隔離期間終え帰宅 5月下旬以降、新たな症例も確認されず&nbsp;&nbsp;Yahoo!ニュース",
+      "sources": [
+        {
+          "name": "日本農業新聞",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HSkhpajlQQ1J5SDI5SkgtSHI3TlBpbXJQNk5WdXhSeDVzQVZrZEJybFVhdUt2RmhSdDVIUUhyT00tOHl3cDdONUJOcHkybkJDS1U1a0lDbVU?oc=5"
         }
       ],
       "matched_keywords": []
@@ -51,32 +819,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/6a8f78e8deb37cbef3553d92e1866cf7031066ef?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "2411703c0c45",
-      "title": "Apple最新「macOS 27」ベータ版を徹底レビュー！期待できる神アプデ5選(ライフハッカー・ジャパン)",
-      "published": "2026-07-03T13:01:01+00:00",
-      "summary": "Appleの毎年恒例の開発者向けイベント（WWDC 2026）では、とにかく情報が盛りだくさんでした。しかし、例年のことながら、あの短いプレゼンだけでOSのすべての変更点や新機能を網羅するのは難しいで",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/615e6210d10475739c238fb268e98af358646fc3?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "05be1a28824d",
-      "title": "「水道」は水の通りをよくして排尿障害を改善するツボ。便秘や月経不順にも効きます(家庭画報.com)",
-      "published": "2026-07-03T12:40:01+00:00",
-      "summary": "中医学のエキスパートである鍼灸師の兵頭 明先生が、ツボの効能や位置、効くメカニズムを解説します。健康の土台作りに、不調改善に、1日1分のツボ押しを習慣にしましょう。",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/f3ab04c8b5137bc08331bc25afbcd3ec9313cc54?source=rss"
         }
       ],
       "matched_keywords": []
@@ -559,48 +1301,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "0503c14bd92e",
-      "title": "米死亡率、25年は過去最低に－薬物過剰摂取やコロナによる死亡が減少",
-      "published": "2026-07-03T02:11:00+00:00",
-      "summary": "米死亡率、25年は過去最低に－薬物過剰摂取やコロナによる死亡が減少&nbsp;&nbsp;Bloomberg.comGoogle ニュースで見出しと意見をもっと見る",
-      "sources": [
-        {
-          "name": "Bloomberg.com",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54S0lXQnpVWXBfckpqN3BneTVEbFJqa3VDbnI4LWpxc1hwQW8xaVRnZGcxUE9UMHVNd0hsV2hUSmFnelNwNXM4WGVzcEU1RmphdUJnV1NocC05TjRFeGNibERxbDBqSUdRblpNeC0xZDlGLUp2dTVv?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "a20192e1a1c2",
-      "title": "9年ぶり改訂の認知症ガイドライン 新薬の推奨度「弱い」のはなぜ？",
-      "published": "2026-07-03T02:00:00+00:00",
-      "summary": "9年ぶり改訂の認知症ガイドライン 新薬の推奨度「弱い」のはなぜ？&nbsp;&nbsp;朝日新聞",
-      "sources": [
-        {
-          "name": "朝日新聞",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSWZuSDlpYksyLWlHakNFNkh3T25jdEJReXA2cmNiSnJKN3dKRURTTm4wSXphblpTbDVzSnBidkxFdFBVVkJiMWQzUTQ2VkZuM0Z6eWFuc29kZUxnN3RvdDdLZ3NqTUdrTlI3NE5zZmNpaWtwbFB6QzE3bFZUeDFfU2d0RFM?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "認知症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "c5b2fb5c8023",
@@ -1369,19 +2069,6 @@
       ]
     },
     {
-      "id": "c6910092b012",
-      "title": "プラス1000歩で入院回数43.2%減 三大疾病で、医療費も42.6%減",
-      "published": "2026-07-02T17:00:00+00:00",
-      "summary": "プラス1000歩で入院回数43.2%減 三大疾病で、医療費も42.6%減&nbsp;&nbsp;日本経済新聞【医師が教える】「健康のために散歩している人」が注意すべきこと&nbsp;&nbsp;ダイヤモンド・オンライン歩行の健康増進効果くっきり ～医療ビッグデータで判明～（時事通信）&nbsp;&nbsp;Yahoo!ニュース歩行の健康増進効果くっきり～医療ビッグデータで判明～&nbsp;&nbsp;時事メディカル",
-      "sources": [
-        {
-          "name": "日本経済新聞",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OOFVQQjRya3dlM3JQenA1UHJITEpGTjV6Ui1tTnFkYUZWUzNWWWtNODNtY05KNGMyWVBjOHF3M19SRm9uYWlVeUxOejcyNTBWeXpLbmdhTkpqVXpZUnVMUmJMNnNFZ3RCNk5IVQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "1f27885b5f64",
       "title": "引き出しに眠っていた骨、「南極大陸で見つかった最初の恐竜化石」と判明(CNN.co.jp)",
       "published": "2026-07-02T10:10:00+00:00",
@@ -1406,295 +2093,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "b568c47ac559",
-      "title": "前立腺がんの早期発見を啓発、医誠会が公開医学講座の動画を公開",
-      "published": "2026-07-02T09:46:24+00:00",
-      "summary": "前立腺がんの早期発見を啓発、医誠会が公開医学講座の動画を公開&nbsp;&nbsp;South65Google ニュースで見出しと意見をもっと見る",
-      "sources": [
-        {
-          "name": "South65",
-          "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNNHhwNVBWc0R0NlF0SGZuWU8zRkdoNzVhRm0tLTdoUFpEcHY5eG04MEpHaVA3SzR6Z25zUlQ1MVpRdXFNSmVNV2s1Y3JwNzZUWkxqYjVuRjZkMERfdXlscVVnanBoS0RObTRhWUxKZjBWNTJQMW5lWkFUdDY3TlJvU19JRk1nVlg3ekZrSUlRVWFnS21fRXIxUlNyTFN3V2FIdnRsY0RVWVBsdDhjYUVxUUwwSjl5ZGxaYVo5N1A3QWtPdFNuZTQ2cHN3eENvQ3pDT05MU3IyeTZ2VXNlV01PNFl2SzNGRkt0WXR3ZEthOUtGMHU3X0M4N0gtdzI5aVpZNkprWnJyVklHY1pzbFNlaTlEVlhkbV9zcWtpTDVzZDFBcnd3d2lCNzBjdVQtcHRQdlU5UXRERGFxeEFRaTVv0gHEAkFVX3lxTFBVV080QnhPSG5QOUxSOERTNFJCQlVfcGIyaXBhbmF5c0pDRmVtTFFzVmxBWnhnbW55bVFXN0JNLXI3aGRGUDljb2Z6U3dFT2JaRUpwRVFSN1J2eXlqNFYyZkU4YWlNQmx1cFNKSUg1UzFWeTdQRWdLUGNfWUdzTmhhQi1JTjhJWVlqQWVwVU1RdlNKVmFFbGU0NTQ2OXJBTTdjanp3aWJtNUdXWFNnUGpSOWtaTDAwUkZMUFFqOHhYUkphVVJpSy1aTnpRZmphSWNmdl9RUDN3c1Nnb2Nub2kzaGxxR25GOGFHSjRGVjVoVmhQRTctN1ZZX2hRbmt5dFVad1JfY2h6OWJCT1l5TE1DMmRyaHh4Y0kwc1NsWGtZSEpMQWNJZzZsLWdTOGdMSnNoVmZYNFNxSWlOZEJBaU44SGVJYw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "がん",
-          "related_drugs": [
-            {
-              "slug": "acyclovir",
-              "name": "ゾビラックス軟膏５％（選）"
-            },
-            {
-              "slug": "theophylline",
-              "name": "ユニコン錠１００　１００ｍｇ（選）"
-            },
-            {
-              "slug": "risperidone",
-              "name": "リスパダール錠２ｍｇ（選）"
-            },
-            {
-              "slug": "valproic-acid",
-              "name": "セレニカＲ顆粒４０％（選）"
-            },
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "atorvastatin",
-              "name": "アトーゼット配合錠ＨＤ（選）"
-            },
-            {
-              "slug": "cyclosporine",
-              "name": "ネオーラル５０ｍｇカプセル（選）"
-            },
-            {
-              "slug": "azithromycin",
-              "name": "ジスロマック細粒小児用１０％　１００ｍｇ（選）"
-            },
-            {
-              "slug": "valsartan",
-              "name": "ディオバンＯＤ錠１６０ｍｇ（選）"
-            },
-            {
-              "slug": "carbamazepine",
-              "name": "テグレトール錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "morphine",
-              "name": "モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」"
-            },
-            {
-              "slug": "pravastatin",
-              "name": "メバロチン錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "atenolol",
-              "name": "テノーミン錠５０　５０ｍｇ（選）"
-            },
-            {
-              "slug": "loperamide",
-              "name": "ロペミンカプセル１ｍｇ（選）"
-            },
-            {
-              "slug": "simvastatin",
-              "name": "リポバス錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "carvedilol",
-              "name": "アーチスト錠２０ｍｇ（選）"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "ゼローダ錠３００　３００ｍｇ（選）"
-            },
-            {
-              "slug": "diazepam",
-              "name": "ホリゾン錠５ｍｇ（選）"
-            },
-            {
-              "slug": "lorazepam",
-              "name": "ワイパックス錠１．０　１ｍｇ（選）"
-            },
-            {
-              "slug": "propranolol",
-              "name": "インデラル錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "spironolactone",
-              "name": "アルダクトンＡ錠５０ｍｇ（選）"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "ロプレソール錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "enalapril",
-              "name": "レニベース錠１０　１０ｍｇ（選）"
-            },
-            {
-              "slug": "lisinopril",
-              "name": "ロンゲス錠２０ｍｇ（選）"
-            },
-            {
-              "slug": "diltiazem",
-              "name": "ヘルベッサー錠６０　６０ｍｇ（選）"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "エックスフォージ配合ＯＤ錠（選）"
-            },
-            {
-              "slug": "clarithromycin",
-              "name": "クラリス錠５０小児用　５０ｍｇ（選）"
-            },
-            {
-              "slug": "furosemide",
-              "name": "ラシックス錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "lidocaine",
-              "name": "リドカイン（１８ｍｇ）３０．５ｍｍ×５０．０ｍｍ貼付剤"
-            },
-            {
-              "slug": "bisoprolol",
-              "name": "メインテート錠５ｍｇ（選）"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "ミカムロ配合錠ＢＰ（選）"
-            },
-            {
-              "slug": "rosuvastatin",
-              "name": "クレストールＯＤ錠５ｍｇ（選）"
-            },
-            {
-              "slug": "imatinib",
-              "name": "グリベック錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "clopidogrel",
-              "name": "プラビックス錠７５ｍｇ（選）"
-            },
-            {
-              "slug": "sertraline",
-              "name": "ジェイゾロフトＯＤ錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "timolol",
-              "name": "デュオトラバ配合点眼液（選）"
-            },
-            {
-              "slug": "diclofenac",
-              "name": "ボルタレンサポ５０ｍｇ（選）"
-            },
-            {
-              "slug": "budesonide",
-              "name": "シムビコートタービュヘイラー６０吸入（選）"
-            },
-            {
-              "slug": "moxifloxacin",
-              "name": "ベガモックス点眼液０．５％（選）"
-            },
-            {
-              "slug": "verapamil",
-              "name": "ワソラン錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "levofloxacin",
-              "name": "クラビット点眼液１．５％（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "celecoxib",
-              "name": "セレコックス錠２００ｍｇ（選）"
-            },
-            {
-              "slug": "ezetimibe",
-              "name": "ゼチーア錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "topiramate",
-              "name": "トピナ錠２５ｍｇ（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            },
-            {
-              "slug": "montelukast",
-              "name": "シングレアＯＤ錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "lamotrigine",
-              "name": "ラミクタール錠２５ｍｇ（選）"
-            },
-            {
-              "slug": "hydrochlorothiazide",
-              "name": "プレミネント配合錠ＨＤ（選）"
-            },
-            {
-              "slug": "losartan",
-              "name": "ニューロタン錠５０ｍｇ（選）"
-            },
-            {
-              "slug": "latanoprost",
-              "name": "ザラカム配合点眼液（選）"
-            },
-            {
-              "slug": "clotrimazole",
-              "name": "エンペシドクリーム１％（選）"
-            },
-            {
-              "slug": "amoxicillin",
-              "name": "ワイドシリン細粒２０％　２００ｍｇ"
-            },
-            {
-              "slug": "ampicillin",
-              "name": "ビクシリンＳ配合錠　（２５０ｍｇ）"
-            },
-            {
-              "slug": "lamivudine",
-              "name": "エプジコム配合錠（選）"
-            },
-            {
-              "slug": "warfarin",
-              "name": "ワルファリンＫ細粒０．２％「ＮＳ」"
-            },
-            {
-              "slug": "fenofibrate",
-              "name": "トライコア錠８０ｍｇ（選）"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            },
-            {
-              "slug": "prasugrel",
-              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
-            },
-            {
-              "slug": "tramadol",
-              "name": "トラマールＯＤ錠５０ｍｇ（選）"
-            },
-            {
-              "slug": "metronidazole",
-              "name": "メトロニダゾールゲル０．７５％「マルイシ」"
-            },
-            {
-              "slug": "lactulose",
-              "name": "ラグノスＮＦ経口ゼリー分包１２ｇ　５４．１６７％"
-            },
-            {
-              "slug": "levetiracetam",
-              "name": "レベチラセタム粒状錠５００ｍｇ「サワイ」"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "2cd5ce99bbd3",
@@ -2180,6 +2578,19 @@
       "matched_keywords": []
     },
     {
+      "id": "717c77de16e7",
+      "title": "真夜中に犬に噛まれ、79歳の老女が緊急ワクチン輸送のおかげで救助される",
+      "published": "2026-07-02T01:09:33+00:00",
+      "summary": "真夜中に犬に噛まれ、79歳の老女が緊急ワクチン輸送のおかげで救助される&nbsp;&nbsp;Laodong.vnニンビン省のバクマイ病院施設で犬に噛まれた患者を救うため、狂犬病ワクチンを夜間に輸送する。&nbsp;&nbsp;Vietnam.vnタイ・ラヨーン県で狂犬病確認。住民3人が感染犬にかまれる。一時的な感染地域に指定。&nbsp;&nbsp;タイニュース・クロスボンバー",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYk40WGxuRHBvOFF3VXNpZkoxRzdEX1psc0k0OXNNUHhXS1hqQ2VuSFVoeDEtZlBobWFQWnhyYzl2TkpDckp1UDVqWU5mRDlNUERlUXhaNnlOQ2ItYTVXbmNtSks5T3ZjakR3cVl4bFFhenFFM0NlWTRVVTU0NHVjWHhrb2EyQ0lKVnEteDlKeXJTX3pfNUNwNVFHbk1LZ0JQNVc4a01PeHNVSXIyMlh1RUxUYmtkZ0VieTM2Nk1iMzVLZw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "a483d11636ba",
       "title": "術後化学療法後のctDNA陽性大腸がんに対するロンサーフによる早期介入、無病生存期間の有意な改善は認められず",
       "published": "2026-07-02T01:01:59+00:00",
@@ -2480,330 +2891,6 @@
       ]
     },
     {
-      "id": "54bb3729566b",
-      "title": "cfDNAヌクレオソーム解析により乳がん再発を高精度に予測－熊大",
-      "published": "2026-07-02T00:30:00+00:00",
-      "summary": "cfDNAヌクレオソーム解析により乳がん再発を高精度に予測－熊大&nbsp;&nbsp;QLifePro",
-      "sources": [
-        {
-          "name": "QLifePro",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1xTWY3VmFlbEpuQnRPSElWQ3JuNlVPSnI3dFB1Y1VQWWVsRlRJQ2RBbXI3MnlHRF9CeFNRekdQUUR2aDYwTDZzUFBYaUU3MjJybVRhdFZhTkxsRk1KcEtZMFM4a2daOVc0R1dnWnhmSnRiY2VGQ3hDUw?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "がん",
-          "related_drugs": [
-            {
-              "slug": "acyclovir",
-              "name": "ゾビラックス軟膏５％（選）"
-            },
-            {
-              "slug": "theophylline",
-              "name": "ユニコン錠１００　１００ｍｇ（選）"
-            },
-            {
-              "slug": "risperidone",
-              "name": "リスパダール錠２ｍｇ（選）"
-            },
-            {
-              "slug": "valproic-acid",
-              "name": "セレニカＲ顆粒４０％（選）"
-            },
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "atorvastatin",
-              "name": "アトーゼット配合錠ＨＤ（選）"
-            },
-            {
-              "slug": "cyclosporine",
-              "name": "ネオーラル５０ｍｇカプセル（選）"
-            },
-            {
-              "slug": "azithromycin",
-              "name": "ジスロマック細粒小児用１０％　１００ｍｇ（選）"
-            },
-            {
-              "slug": "valsartan",
-              "name": "ディオバンＯＤ錠１６０ｍｇ（選）"
-            },
-            {
-              "slug": "carbamazepine",
-              "name": "テグレトール錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "morphine",
-              "name": "モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」"
-            },
-            {
-              "slug": "pravastatin",
-              "name": "メバロチン錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "atenolol",
-              "name": "テノーミン錠５０　５０ｍｇ（選）"
-            },
-            {
-              "slug": "loperamide",
-              "name": "ロペミンカプセル１ｍｇ（選）"
-            },
-            {
-              "slug": "simvastatin",
-              "name": "リポバス錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "carvedilol",
-              "name": "アーチスト錠２０ｍｇ（選）"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "ゼローダ錠３００　３００ｍｇ（選）"
-            },
-            {
-              "slug": "diazepam",
-              "name": "ホリゾン錠５ｍｇ（選）"
-            },
-            {
-              "slug": "lorazepam",
-              "name": "ワイパックス錠１．０　１ｍｇ（選）"
-            },
-            {
-              "slug": "propranolol",
-              "name": "インデラル錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "spironolactone",
-              "name": "アルダクトンＡ錠５０ｍｇ（選）"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "ロプレソール錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "enalapril",
-              "name": "レニベース錠１０　１０ｍｇ（選）"
-            },
-            {
-              "slug": "lisinopril",
-              "name": "ロンゲス錠２０ｍｇ（選）"
-            },
-            {
-              "slug": "diltiazem",
-              "name": "ヘルベッサー錠６０　６０ｍｇ（選）"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "エックスフォージ配合ＯＤ錠（選）"
-            },
-            {
-              "slug": "clarithromycin",
-              "name": "クラリス錠５０小児用　５０ｍｇ（選）"
-            },
-            {
-              "slug": "furosemide",
-              "name": "ラシックス錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "lidocaine",
-              "name": "リドカイン（１８ｍｇ）３０．５ｍｍ×５０．０ｍｍ貼付剤"
-            },
-            {
-              "slug": "bisoprolol",
-              "name": "メインテート錠５ｍｇ（選）"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "ミカムロ配合錠ＢＰ（選）"
-            },
-            {
-              "slug": "rosuvastatin",
-              "name": "クレストールＯＤ錠５ｍｇ（選）"
-            },
-            {
-              "slug": "imatinib",
-              "name": "グリベック錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "clopidogrel",
-              "name": "プラビックス錠７５ｍｇ（選）"
-            },
-            {
-              "slug": "sertraline",
-              "name": "ジェイゾロフトＯＤ錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "timolol",
-              "name": "デュオトラバ配合点眼液（選）"
-            },
-            {
-              "slug": "diclofenac",
-              "name": "ボルタレンサポ５０ｍｇ（選）"
-            },
-            {
-              "slug": "budesonide",
-              "name": "シムビコートタービュヘイラー６０吸入（選）"
-            },
-            {
-              "slug": "moxifloxacin",
-              "name": "ベガモックス点眼液０．５％（選）"
-            },
-            {
-              "slug": "verapamil",
-              "name": "ワソラン錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "levofloxacin",
-              "name": "クラビット点眼液１．５％（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "celecoxib",
-              "name": "セレコックス錠２００ｍｇ（選）"
-            },
-            {
-              "slug": "ezetimibe",
-              "name": "ゼチーア錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "topiramate",
-              "name": "トピナ錠２５ｍｇ（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            },
-            {
-              "slug": "montelukast",
-              "name": "シングレアＯＤ錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "lamotrigine",
-              "name": "ラミクタール錠２５ｍｇ（選）"
-            },
-            {
-              "slug": "hydrochlorothiazide",
-              "name": "プレミネント配合錠ＨＤ（選）"
-            },
-            {
-              "slug": "losartan",
-              "name": "ニューロタン錠５０ｍｇ（選）"
-            },
-            {
-              "slug": "latanoprost",
-              "name": "ザラカム配合点眼液（選）"
-            },
-            {
-              "slug": "clotrimazole",
-              "name": "エンペシドクリーム１％（選）"
-            },
-            {
-              "slug": "amoxicillin",
-              "name": "ワイドシリン細粒２０％　２００ｍｇ"
-            },
-            {
-              "slug": "ampicillin",
-              "name": "ビクシリンＳ配合錠　（２５０ｍｇ）"
-            },
-            {
-              "slug": "lamivudine",
-              "name": "エプジコム配合錠（選）"
-            },
-            {
-              "slug": "warfarin",
-              "name": "ワルファリンＫ細粒０．２％「ＮＳ」"
-            },
-            {
-              "slug": "fenofibrate",
-              "name": "トライコア錠８０ｍｇ（選）"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            },
-            {
-              "slug": "prasugrel",
-              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
-            },
-            {
-              "slug": "tramadol",
-              "name": "トラマールＯＤ錠５０ｍｇ（選）"
-            },
-            {
-              "slug": "metronidazole",
-              "name": "メトロニダゾールゲル０．７５％「マルイシ」"
-            },
-            {
-              "slug": "lactulose",
-              "name": "ラグノスＮＦ経口ゼリー分包１２ｇ　５４．１６７％"
-            },
-            {
-              "slug": "levetiracetam",
-              "name": "レベチラセタム粒状錠５００ｍｇ「サワイ」"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "female breast carcinoma",
-          "keyword": "乳がん",
-          "related_drugs": [
-            {
-              "slug": "atorvastatin",
-              "name": "アトーゼット配合錠ＨＤ（選）"
-            },
-            {
-              "slug": "pravastatin",
-              "name": "メバロチン錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "simvastatin",
-              "name": "リポバス錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "rosuvastatin",
-              "name": "クレストールＯＤ錠５ｍｇ（選）"
-            },
-            {
-              "slug": "clopidogrel",
-              "name": "プラビックス錠７５ｍｇ（選）"
-            },
-            {
-              "slug": "warfarin",
-              "name": "ワルファリンＫ細粒０．２％「ＮＳ」"
-            },
-            {
-              "slug": "prasugrel",
-              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "385f0fbabeb8",
       "title": "プロテインドリンクは心臓に悪い？ 心臓専門医が語る、健康的に見えて要注意な3つの食品（海外）(BUSINESS INSIDER JAPAN)",
       "published": "2026-07-01T22:10:01+00:00",
@@ -2815,386 +2902,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "dfc591edabf0",
-      "title": "認知症のリスクが上がる可能性が…医学研究者が「食べすぎはダメ」と指摘する“みんな大好きな健康食”",
-      "published": "2026-07-01T21:45:00+00:00",
-      "summary": "認知症のリスクが上がる可能性が…医学研究者が「食べすぎはダメ」と指摘する“みんな大好きな健康食”&nbsp;&nbsp;Yahoo!ファイナンスGoogle ニュースで見出しと意見をもっと見る",
-      "sources": [
-        {
-          "name": "Yahoo!ファイナンス",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVGNEOFhEX1ZSMXh1VXhpVkNrXy0waUxSMEdLNkN1Y2MzcXl5TGYzVjBRcHRXUlVfR2p6MkRSTTd2N2R6bzJvSFAxYW1tWGNUM0UtRUFsNXZGNHI5TUpPRGZIdEdFQy03T2NkemNEZUVCbkl1SG0zNkpBQ3lwRURBVmJMODh5S2s?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "認知症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "8ec98b966826",
-      "title": "タイ東部ラヨーン県の2郡で狂犬病、犬にかまれた住民3人がワクチン接種",
-      "published": "2026-07-01T21:00:54+00:00",
-      "summary": "タイ東部ラヨーン県の2郡で狂犬病、犬にかまれた住民3人がワクチン接種&nbsp;&nbsp;タイランドハイパーリンクスニンビン省のバクマイ病院施設で犬に噛まれた患者を救うため、狂犬病ワクチンを夜間に輸送する。&nbsp;&nbsp;Vietnam.vnタイ・ラヨーン県で狂犬病確認。住民3人が感染犬にかまれる。一時的な感染地域に指定。&nbsp;&nbsp;タイニュース・クロスボンバー",
-      "sources": [
-        {
-          "name": "タイランドハイパーリンクス",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBFdjlWT3NfTHZSdldMN2R3V3FSYm8wbEdDVXE3TUE0VWdBOHAtOF81N2dZN2pfWTg0QXY1MGZSOFA2bGNWdEhwbnB3Wm5GRk1zQy13bQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "e60623730a41",
-      "title": "初発または再発の進行dMMR/MSI-H子宮体がんにdostarlimab＋化学療法は長期PFSベネフィットを維持（RUBY）／ASCO2026｜CareNet.com",
-      "published": "2026-07-01T19:00:00+00:00",
-      "summary": "初発または再発の進行dMMR/MSI-H子宮体がんにdostarlimab＋化学療法は長期PFSベネフィットを維持（RUBY）／ASCO2026｜CareNet.com&nbsp;&nbsp;CareNet.com",
-      "sources": [
-        {
-          "name": "CareNet.com",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBIbHM4QWFNOUQwaWlFM3YxNEs2ckNqTy1uYzFEVjdlc1o4YkUweTZwS2lJb3dSZERES2tGdEV4bFFKN3A4a0VXeFRlMTg5aURRc0ZjS2cwY3pRQUdxOXVJ?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "がん",
-          "related_drugs": [
-            {
-              "slug": "acyclovir",
-              "name": "ゾビラックス軟膏５％（選）"
-            },
-            {
-              "slug": "theophylline",
-              "name": "ユニコン錠１００　１００ｍｇ（選）"
-            },
-            {
-              "slug": "risperidone",
-              "name": "リスパダール錠２ｍｇ（選）"
-            },
-            {
-              "slug": "valproic-acid",
-              "name": "セレニカＲ顆粒４０％（選）"
-            },
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "atorvastatin",
-              "name": "アトーゼット配合錠ＨＤ（選）"
-            },
-            {
-              "slug": "cyclosporine",
-              "name": "ネオーラル５０ｍｇカプセル（選）"
-            },
-            {
-              "slug": "azithromycin",
-              "name": "ジスロマック細粒小児用１０％　１００ｍｇ（選）"
-            },
-            {
-              "slug": "valsartan",
-              "name": "ディオバンＯＤ錠１６０ｍｇ（選）"
-            },
-            {
-              "slug": "carbamazepine",
-              "name": "テグレトール錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "morphine",
-              "name": "モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」"
-            },
-            {
-              "slug": "pravastatin",
-              "name": "メバロチン錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "atenolol",
-              "name": "テノーミン錠５０　５０ｍｇ（選）"
-            },
-            {
-              "slug": "loperamide",
-              "name": "ロペミンカプセル１ｍｇ（選）"
-            },
-            {
-              "slug": "simvastatin",
-              "name": "リポバス錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "carvedilol",
-              "name": "アーチスト錠２０ｍｇ（選）"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "ゼローダ錠３００　３００ｍｇ（選）"
-            },
-            {
-              "slug": "diazepam",
-              "name": "ホリゾン錠５ｍｇ（選）"
-            },
-            {
-              "slug": "lorazepam",
-              "name": "ワイパックス錠１．０　１ｍｇ（選）"
-            },
-            {
-              "slug": "propranolol",
-              "name": "インデラル錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "spironolactone",
-              "name": "アルダクトンＡ錠５０ｍｇ（選）"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "ロプレソール錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "enalapril",
-              "name": "レニベース錠１０　１０ｍｇ（選）"
-            },
-            {
-              "slug": "lisinopril",
-              "name": "ロンゲス錠２０ｍｇ（選）"
-            },
-            {
-              "slug": "diltiazem",
-              "name": "ヘルベッサー錠６０　６０ｍｇ（選）"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "エックスフォージ配合ＯＤ錠（選）"
-            },
-            {
-              "slug": "clarithromycin",
-              "name": "クラリス錠５０小児用　５０ｍｇ（選）"
-            },
-            {
-              "slug": "furosemide",
-              "name": "ラシックス錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "lidocaine",
-              "name": "リドカイン（１８ｍｇ）３０．５ｍｍ×５０．０ｍｍ貼付剤"
-            },
-            {
-              "slug": "bisoprolol",
-              "name": "メインテート錠５ｍｇ（選）"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "ミカムロ配合錠ＢＰ（選）"
-            },
-            {
-              "slug": "rosuvastatin",
-              "name": "クレストールＯＤ錠５ｍｇ（選）"
-            },
-            {
-              "slug": "imatinib",
-              "name": "グリベック錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "clopidogrel",
-              "name": "プラビックス錠７５ｍｇ（選）"
-            },
-            {
-              "slug": "sertraline",
-              "name": "ジェイゾロフトＯＤ錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "timolol",
-              "name": "デュオトラバ配合点眼液（選）"
-            },
-            {
-              "slug": "diclofenac",
-              "name": "ボルタレンサポ５０ｍｇ（選）"
-            },
-            {
-              "slug": "budesonide",
-              "name": "シムビコートタービュヘイラー６０吸入（選）"
-            },
-            {
-              "slug": "moxifloxacin",
-              "name": "ベガモックス点眼液０．５％（選）"
-            },
-            {
-              "slug": "verapamil",
-              "name": "ワソラン錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "levofloxacin",
-              "name": "クラビット点眼液１．５％（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "celecoxib",
-              "name": "セレコックス錠２００ｍｇ（選）"
-            },
-            {
-              "slug": "ezetimibe",
-              "name": "ゼチーア錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "topiramate",
-              "name": "トピナ錠２５ｍｇ（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            },
-            {
-              "slug": "montelukast",
-              "name": "シングレアＯＤ錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "lamotrigine",
-              "name": "ラミクタール錠２５ｍｇ（選）"
-            },
-            {
-              "slug": "hydrochlorothiazide",
-              "name": "プレミネント配合錠ＨＤ（選）"
-            },
-            {
-              "slug": "losartan",
-              "name": "ニューロタン錠５０ｍｇ（選）"
-            },
-            {
-              "slug": "latanoprost",
-              "name": "ザラカム配合点眼液（選）"
-            },
-            {
-              "slug": "clotrimazole",
-              "name": "エンペシドクリーム１％（選）"
-            },
-            {
-              "slug": "amoxicillin",
-              "name": "ワイドシリン細粒２０％　２００ｍｇ"
-            },
-            {
-              "slug": "ampicillin",
-              "name": "ビクシリンＳ配合錠　（２５０ｍｇ）"
-            },
-            {
-              "slug": "lamivudine",
-              "name": "エプジコム配合錠（選）"
-            },
-            {
-              "slug": "warfarin",
-              "name": "ワルファリンＫ細粒０．２％「ＮＳ」"
-            },
-            {
-              "slug": "fenofibrate",
-              "name": "トライコア錠８０ｍｇ（選）"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            },
-            {
-              "slug": "prasugrel",
-              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
-            },
-            {
-              "slug": "tramadol",
-              "name": "トラマールＯＤ錠５０ｍｇ（選）"
-            },
-            {
-              "slug": "metronidazole",
-              "name": "メトロニダゾールゲル０．７５％「マルイシ」"
-            },
-            {
-              "slug": "lactulose",
-              "name": "ラグノスＮＦ経口ゼリー分包１２ｇ　５４．１６７％"
-            },
-            {
-              "slug": "levetiracetam",
-              "name": "レベチラセタム粒状錠５００ｍｇ「サワイ」"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "59eda4b82d20",
-      "title": "統合失調症の肥満に関連するリスク因子が判明〜メタ解析｜CareNet.com",
-      "published": "2026-07-01T19:00:00+00:00",
-      "summary": "統合失調症の肥満に関連するリスク因子が判明〜メタ解析｜CareNet.com&nbsp;&nbsp;CareNet.com",
-      "sources": [
-        {
-          "name": "CareNet.com",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Bc3FiZ191b0w0Rzl5MUhPdTZsczBSSUpsRVczMkdrUk8wQjZTTmpnSWtWTHFCZ0MteEJGOUNXQUM4NjVKcWtwMUxUbGdvY21Cb1VhaTRibkRaMC1vcWxN?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "schizophrenia",
-          "keyword": "統合失調症",
-          "related_drugs": [
-            {
-              "slug": "risperidone",
-              "name": "リスパダール錠２ｍｇ（選）"
-            },
-            {
-              "slug": "quetiapine",
-              "name": "セロクエル２００ｍｇ錠（選）"
-            },
-            {
-              "slug": "olanzapine",
-              "name": "ジプレキサザイディス錠２．５ｍｇ（選）"
-            },
-            {
-              "slug": "haloperidol",
-              "name": "セレネース錠３ｍｇ（選）"
-            },
-            {
-              "slug": "morphine",
-              "name": "モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」"
-            },
-            {
-              "slug": "aripiprazole",
-              "name": "エビリファイ錠１ｍｇ（選）"
-            },
-            {
-              "slug": "duloxetine",
-              "name": "サインバルタカプセル３０ｍｇ（選）"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "97a7a24d92bc",
