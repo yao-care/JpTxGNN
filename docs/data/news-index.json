@@ -1,7 +1,39 @@
 {
-  "generated": "2026-07-06T14:58:37.618896+00:00",
+  "generated": "2026-07-06T19:42:19.950800+00:00",
   "count": 13,
   "news": [
+    {
+      "id": "a82326695bee",
+      "title": "テゼペルマブで重症喘息患者のステロイド減量が可能に｜CareNet.com",
+      "published": "2026-07-06T19:00:00+00:00",
+      "sources": [
+        {
+          "name": "CareNet.com",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YZXZZcEFyaldZcS1XNEpfaTJwTHdrSW41Y0hQWUZtRUZzZDlreGN4Uk40Nk0xWlZ4V2VneC1HUFVobmljQVEybzBfaG9NRXlQSExnYXBJWlZJdw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "asthma",
+          "keyword": "喘息",
+          "related_drugs": [
+            {
+              "slug": "theophylline",
+              "name": "ユニコン錠１００　１００ｍｇ（選）"
+            },
+            {
+              "slug": "budesonide",
+              "name": "シムビコートタービュヘイラー６０吸入（選）"
+            },
+            {
+              "slug": "montelukast",
+              "name": "シングレアＯＤ錠１０ｍｇ（選）"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "f2dd5653d737",
       "title": "関節痛に悩む人が飲む“あのサプリ”が「認知症」の進行速度に影響？",
@@ -345,105 +377,6 @@
             {
               "slug": "ampicillin",
               "name": "ビクシリンＳ配合錠　（２５０ｍｇ）"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "36ac78f8f06a",
-      "title": "肺血管壁を厚くするたんぱく質 難病で特定、抗体で血流改善―新診断、治療法に期待・千葉大と順大",
-      "published": "2026-07-06T11:33:00+00:00",
-      "sources": [
-        {
-          "name": "時事ドットコム",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VQmhBUThiRkhpOXI0Wk56NGJBN1ZLeDVob2UyeERhMDA5SVg0TXRlNWVRN185d01jcGhoX0RUdUZuVk1VeDZocVdrNnZyRlczUkswb0t6VG9iamw2V3VMemhDSQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "hypertension",
-          "keyword": "高血圧",
-          "related_drugs": [
-            {
-              "slug": "nifedipine",
-              "name": "アダラートＣＲ錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "エックスフォージ配合ＯＤ錠（選）"
-            },
-            {
-              "slug": "diltiazem",
-              "name": "ヘルベッサー錠６０　６０ｍｇ（選）"
-            },
-            {
-              "slug": "timolol",
-              "name": "デュオトラバ配合点眼液（選）"
-            },
-            {
-              "slug": "verapamil",
-              "name": "ワソラン錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "hydrochlorothiazide",
-              "name": "プレミネント配合錠ＨＤ（選）"
-            },
-            {
-              "slug": "losartan",
-              "name": "ニューロタン錠５０ｍｇ（選）"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "ミカムロ配合錠ＢＰ（選）"
-            },
-            {
-              "slug": "valsartan",
-              "name": "ディオバンＯＤ錠１６０ｍｇ（選）"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "高血圧症",
-          "keyword": "高血圧症",
-          "related_drugs": [
-            {
-              "slug": "nifedipine",
-              "name": "アダラートＣＲ錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "エックスフォージ配合ＯＤ錠（選）"
-            },
-            {
-              "slug": "diltiazem",
-              "name": "ヘルベッサー錠６０　６０ｍｇ（選）"
-            },
-            {
-              "slug": "timolol",
-              "name": "デュオトラバ配合点眼液（選）"
-            },
-            {
-              "slug": "verapamil",
-              "name": "ワソラン錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "hydrochlorothiazide",
-              "name": "プレミネント配合錠ＨＤ（選）"
-            },
-            {
-              "slug": "losartan",
-              "name": "ニューロタン錠５０ｍｇ（選）"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "ミカムロ配合錠ＢＰ（選）"
-            },
-            {
-              "slug": "valsartan",
-              "name": "ディオバンＯＤ錠１６０ｍｇ（選）"
             }
           ]
         }
