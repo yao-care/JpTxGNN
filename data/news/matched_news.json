@@ -1,8 +1,179 @@
 {
-  "last_updated": "2026-07-11T18:44:29.304800+00:00",
-  "total_count": 38,
+  "last_updated": "2026-07-12T01:47:28.389820+00:00",
+  "total_count": 41,
   "matched_count": 9,
   "news": [
+    {
+      "id": "3c81676ff539",
+      "title": "沖縄・首里城の「見せる復興」を歩く　11月に正殿完成、最新の研究反映で創建当時の姿に(産経新聞)",
+      "published": "2026-07-12T01:30:01+00:00",
+      "summary": "2019年の焼失から約7年―。沖縄のシンボル・首里城（那覇市）は、今年11月に正殿の復元工事が完成を迎える。1712年の創建から戦前までの姿をベースに、沖縄県産木材や伝統的な漆塗りを用いて再建される令",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/d494a21e431dde1b8eb8c01cfc080da74fa9e342?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "e6ed8f6e6c4c",
+      "title": "次男が幼稚園で作った工作→母は「有名な塗り薬」かと思ったが……「え？」　“まさかの正体”が180万再生「斜め上だった」「チョイスがすごい」(ねとらぼ)",
+      "published": "2026-07-12T01:30:00+00:00",
+      "summary": "小さな男の子が幼稚園で作ってきた、「まさかのものをかたどった工作」がThreadsで注目を集めています。投稿は記事執筆時点で180万回以上表示されるなど話題を呼んでいます。",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/2b9612a8b547b78a397198df44cda6eb765bf52b?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "0319527c3dc0",
+      "title": "「一家全滅」「死体を入れる棺桶すら底を突き…」日本人2400万人が感染したのに“忘れられた”奇病「スペインかぜ」の恐ろしさ(文春オンライン)",
+      "published": "2026-07-12T01:21:17+00:00",
+      "summary": "20世紀初頭、世界中を席巻したスペイン・インフルエンザ（スペインかぜ）。当時、世界人口の4分の1に相当する約5億人が感染。日本国内でも人口の4割に当たる約2380万人が感染したとされるが、今では“忘",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/9de5ad2d868f2e30e63b1540648a45b6e3fa4889?source=rss"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "influenza",
+          "keyword": "インフルエンザ",
+          "related_drugs": [
+            {
+              "slug": "oseltamivir",
+              "name": "タミフルドライシロップ３％（選）"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "かぜ",
+          "related_drugs": [
+            {
+              "slug": "theophylline",
+              "name": "ユニコン錠１００　１００ｍｇ（選）"
+            },
+            {
+              "slug": "cetirizine",
+              "name": "ザイザルシロップ０．０５％（選）"
+            },
+            {
+              "slug": "morphine",
+              "name": "モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」"
+            },
+            {
+              "slug": "loratadine",
+              "name": "クラリチン錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "chlorpheniramine",
+              "name": "セレスタミン配合錠（選）"
+            },
+            {
+              "slug": "dextromethorphan",
+              "name": "デキストロメトルファン臭化水素酸塩細粒１０％「ツルハラ」"
+            },
+            {
+              "slug": "acetaminophen",
+              "name": "トラムセット配合錠（選）"
+            },
+            {
+              "slug": "codeine",
+              "name": "ムコブロチン配合シロップ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1b8b2d571593",
+      "title": "90歳の祖母が認知症→自宅で介護→大変すぎて1日20回くらい「早く死んでくれないかな」と…人気インフルエンサー（37）が語る、“壮絶な介護生活”の始まり(文春オンライン)",
+      "published": "2026-07-12T01:12:17+00:00",
+      "summary": "Xのフォロワー数130万人超えの人気インフルエンサー・カマたくさん（37）。2022年9月から認知症の祖母（当時90歳）を在宅介護することになった。しかし、あまりの大変さに不眠症になり、1日20回く",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/992871f86b068b5671a3839dce49e4c4bc1c3b73?source=rss"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "認知症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a47c9ac86fe2",
+      "title": "【それ、実は逆効果】サーキュレーターは“置き方”でこんなに違う！電気代20％減から最短冷却方法まで「正しい使い方」をシロカ開発本部長が伝授(MonoMax Web)",
+      "published": "2026-07-12T01:01:57+00:00",
+      "summary": "いちだんと暑さが厳しくなり、エアコンなしでは命の危険も感じる時期が今年もやってきました。しかし毎日エアコンを使うと電気代が気になる方も多いはず。そんな時サーキュレーターを併用することで電気代を節約でき",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/144f9fa6e36d3a3c2b2ccb9731033cd666ecfa43?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "78feff149912",
+      "title": "《顔面動静脈奇形》「あなたのような見た目の人は採用できない」と…鼻と上唇が変形して生まれた難病の女性（51）が語る、面接にすら進めなかった就活(文春オンライン)",
+      "published": "2026-07-12T01:00:36+00:00",
+      "summary": "先天性の難病「顔面動静脈奇形」を抱え、40回以上の手術を経験してきた河除静香さん（51）。就職活動では「あなたのような見た目の人を採用することはできない」と面と向かって告げられた。その言葉を、河除さ",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/09cf660aa7e5a18b6b4f6b179c96da6d0b8badf7?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "7efcd622d641",
+      "title": "「休日出勤の打診は子どもがいない人にしか来ない」くどうみやこさんが1000人以上の当事者に聞いた、子どもがいない女性たちの“リアルな悩み”(文春オンライン)",
+      "published": "2026-07-12T01:00:36+00:00",
+      "summary": "〈女性の「約4割」が生涯子どもを持たなくなる時代…それでも子どものいない女性たちが「肩身が狭い」と感じるワケ〉 から続く ライフコースの多様化が進む日本社会。国立社会保障・人口問題研究所の推計に",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/6f19dcb6698557722e09f4665443e3c0940fd146?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "90e8205ffbd2",
+      "title": "「最近、むせることが増えた」は見過ごせない｜オーラルフレイルと脳の健康との関係(サライ.jp)",
+      "published": "2026-07-12T00:00:23+00:00",
+      "summary": "文／梶 尚志（総合内科専門医、医学博士） 食事中にお茶でむせる。薬が飲み込みにくい。硬いものを避けるようになった。会話中に口が乾く。こうした変化を「年だから仕方がない」と考えていないでしょうか。実は",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/b798626e61a9430a310660f7877955da1d9bc327?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "c1420b86bcf9",
       "title": "B型肝炎新薬、今年秋にも実用化へ 継続服用不要になる可能性 熊本大病院など治験参加",
@@ -147,17 +318,33 @@
       "matched_keywords": []
     },
     {
-      "id": "0ebb0ffd68a6",
-      "title": "「タウ」蓄積による認知障害の仕組み解明 量子科学技術研究開発機構",
-      "published": "2026-07-10T20:00:00+00:00",
-      "summary": "「タウ」蓄積による認知障害の仕組み解明 量子科学技術研究開発機構&nbsp;&nbsp;日本経済新聞",
+      "id": "a7a1aa54b286",
+      "title": "タウタンパク質病変が脳回路を介して認知症状を生む仕組みを解明 ～難病「進行性核上性麻痺」で実証、認知症における症状の予測と回路標的治療の実現へ～",
+      "published": "2026-07-10T18:02:20+00:00",
+      "summary": "タウタンパク質病変が脳回路を介して認知症状を生む仕組みを解明 ～難病「進行性核上性麻痺」で実証、認知症における症状の予測と回路標的治療の実現へ～&nbsp;&nbsp;qst.go.jp",
       "sources": [
         {
-          "name": "日本経済新聞",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jVlpLQTVaNmdGNzMwQXFWeFBDVWNOeXRUZWN4MnExRzJxX2hDTUNFaTJrdlNnWTVHLVZ4aVl0ZE1uY0Mzd1Q1V1pXVW9TcHN4dHl0U1d1TUZXS3BMRTRBbVJVVS1WTmFHV1VmNA?oc=5"
+          "name": "qst.go.jp",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ablpyM081WDhtTUoyMmd6SHE5bVR2OUlkM2dIYVQyZ0V6ZlltLW5fa0JFNXhJSVk4ODFRSHl0b2ZUODNpVDlXVUtRTU5QajBIOVo5STl5cmk5QQ?oc=5"
         }
       ],
-      "matched_keywords": []
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "認知症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "517f02306e7b",
@@ -373,19 +560,6 @@
       "matched_keywords": []
     },
     {
-      "id": "92ee8d62d054",
-      "title": "神経細胞を守る新たな品質管理機構を発見：時事ドットコム",
-      "published": "2026-07-10T00:46:00+00:00",
-      "summary": "神経細胞を守る新たな品質管理機構を発見：時事ドットコム&nbsp;&nbsp;時事ドットコム",
-      "sources": [
-        {
-          "name": "時事ドットコム",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1nZGdEZlJjRTBLaUkyNFVwM3dCbzF3MmlPZDN4NHJqdGplVGlWUDIzd2ItMEFTTzlMa2tOVHVCaFY5OHhabW9tMTI1RC1wYk9xUVJlSldSMFdZY05DWmRCaGxia2gzaF94aVBJ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "7638b9d5c0f8",
       "title": "5年以内に人類を月と火星に送り出し、10年内に「数万人規模」の月面都市建設──マスクの壮大な目標(Forbes JAPAN)",
       "published": "2026-07-10T00:00:00+00:00",
@@ -410,117 +584,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "0163568ced9a",
-      "title": "【キュウリ】水分代謝をアップして体内の湿気を払い夏風邪を撃退｜健康長寿に役立つ高齢薬膳",
-      "published": "2026-07-09T21:00:00+00:00",
-      "summary": "【キュウリ】水分代謝をアップして体内の湿気を払い夏風邪を撃退｜健康長寿に役立つ高齢薬膳&nbsp;&nbsp;日刊ゲンダイDIGITAL",
-      "sources": [
-        {
-          "name": "日刊ゲンダイDIGITAL",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE15SloxaDdBNHJwcWc4ZXVaV1BSVTJpalRBcFRzYXZBd21Mcnhtdk5BR21oUllaQVBtYkxmcHhJOXVkbUVFSk9HTXp6STJkbF9NZ3MxS3lKVkdiQXgzRFh3N0l2b3FKOGVW?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "風邪",
-          "related_drugs": [
-            {
-              "slug": "theophylline",
-              "name": "ユニコン錠１００　１００ｍｇ（選）"
-            },
-            {
-              "slug": "cetirizine",
-              "name": "ザイザルシロップ０．０５％（選）"
-            },
-            {
-              "slug": "morphine",
-              "name": "モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」"
-            },
-            {
-              "slug": "loratadine",
-              "name": "クラリチン錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "chlorpheniramine",
-              "name": "セレスタミン配合錠（選）"
-            },
-            {
-              "slug": "dextromethorphan",
-              "name": "デキストロメトルファン臭化水素酸塩細粒１０％「ツルハラ」"
-            },
-            {
-              "slug": "acetaminophen",
-              "name": "トラムセット配合錠（選）"
-            },
-            {
-              "slug": "codeine",
-              "name": "ムコブロチン配合シロップ"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "0f67aec1a657",
-      "title": "腸内細菌は、認知症にも影響するのか？ 日本食でリスクは下がる？ コーヒーは？ 国立長寿医療研究センター医師が解説",
-      "published": "2026-07-09T20:00:00+00:00",
-      "summary": "腸内細菌は、認知症にも影響するのか？ 日本食でリスクは下がる？ コーヒーは？ 国立長寿医療研究センター医師が解説&nbsp;&nbsp;読売新聞認知症リスクが4分の3に低下したとの研究も…医学研究者が注目する「身近な食べ物」&nbsp;&nbsp;ダイヤモンド・オンライングルコサミンはアルツハイマー病を悪化させる？話題を呼ぶ“最新研究”、それでも専門家があまり問題にしていない理由…科学論文の正しい読み方&nbsp;&nbsp;Wedge ONLINE(ウェッジ・オンライン)グルコサミンはアルツハイマー病を悪化させる？話題を呼ぶ“最新研究”、それでも専門家があまり問題にしていない理由…科学論文の正しい読み方（Wedge（ウェッジ））&nbsp;&nbsp;Yahoo!ニュース「食卓の定番品にまさかの効果が…！」認知症になる可能性が4分の3まで下がる「栄養素」とは？【オックスフォード大元研究者が明かす】&nbsp;&nbsp;ダイヤモンド・オンライン",
-      "sources": [
-        {
-          "name": "読売新聞",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YOWotakNwcjh2NmRNb1VNVFlQMlBMMWdWSXdhU3NoYkFrcm9BNkhENXFYU3I1SU1vVkRNNENoenR3bkJRUTRTLV9pcVR2YkxNTDFBNC1udnd5VHZEUWdOWFozTXlTV3JHWDJObEV3?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "認知症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "18cb3bbda630",
-      "title": "50代以上に多い「前頭側頭型認知症」に”根治治療”はある？医師が解説！",
-      "published": "2026-07-09T18:30:20+00:00",
-      "summary": "50代以上に多い「前頭側頭型認知症」に”根治治療”はある？医師が解説！&nbsp;&nbsp;ママテナ",
-      "sources": [
-        {
-          "name": "ママテナ",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9nM1NFWWpwVE8zelh4YkRYZFliVkpBb3kzLTA5NTdXVjFzdkJ0ZzFLcnUtMVB1aTFCRTFEaGU0ZWlWa0JYVnR0Zy1IZURkSWdkdnRQNXNsaklneG11QVJn?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "認知症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "c5a375279ceb",
@@ -1601,19 +1664,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "b2e07d8aeb6a",
-      "title": "なでられると赤ちゃんが落ち着くメカニズム　東邦大学などの研究チームが解明(テレビ朝日系（ANN）)",
-      "published": "2026-07-07T22:55:40+00:00",
-      "summary": "赤ちゃんが撫でられることで気持ちが落ち着く仕組みは、生後早い時期に母親らと触れ合った経験により発達するとみられることが東邦大学などの研究で分かりました。 東邦大学などの研究チームは2022年からお",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/c119528d944f4ab8b0a9cc671f1bbdbbbd894bf5?source=rss"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }
