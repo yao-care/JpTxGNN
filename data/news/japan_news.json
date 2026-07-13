@@ -1,43 +1,115 @@
 {
   "source": "japan_news",
-  "fetched_at": "2026-07-13T01:50:06.623289+00:00",
+  "fetched_at": "2026-07-13T08:48:08.919057+00:00",
   "total_fetched": 108,
   "unique_count": 108,
-  "health_related_count": 33,
+  "health_related_count": 34,
   "news": [
     {
-      "id": "431725f60be9",
-      "title": "【書評】『オルカン思考　世界経済を味方につける｢長期投資｣の教科書』リスクを抑え資産形成を行うためのノウハウを披露(NEWSポストセブン)",
-      "published": "2026-07-13T01:15:00+00:00",
-      "summary": "【書評】『オルカン思考 世界経済を味方につける｢長期投資｣の教科書』／代田秀雄・著／Gakken／1760円",
+      "id": "1d26e08b22f3",
+      "title": "寿司職人ビックリ！生ものアレルギーなのに寿司屋に来た客の注文にタジタジ…！破天荒で自由な妻の豪快エピソード【作者に聞く】(ウォーカープラス)",
+      "published": "2026-07-13T08:25:49+00:00",
+      "summary": "漫画家・ゆきたこーすけ(@kosukeyukita)さんが描く「破天荒な妻に今日も振り回されています」は、妻・カツシンさんとの日常をユーモラスにつづった実録漫画である。生ものアレルギーなのに回らない寿",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/dffecdb801d637ff9b909658ba35f29eef5ae5cf?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/68735cd5d71ccade230ba376d42c32b1b0243f2d?source=rss"
         }
       ]
     },
     {
-      "id": "c6d8463b0e88",
-      "title": "《世界人口の4分の1が感染》スペインかぜの大流行は、なぜ忘れられたのか？ ウイルスの脅威と“二つの世界大戦”の奇妙な関係(文春オンライン)",
-      "published": "2026-07-13T01:00:37+00:00",
-      "summary": "〈「一家全滅」「死体を入れる棺桶すら底を突き…」日本人2400万人が感染したのに“忘れられた”奇病「スペインかぜ」の恐ろしさ〉 から続く 20世紀初頭、日本国内で45万3,000人以上もの命を奪",
+      "id": "de3742be1ef0",
+      "title": "絵本よりもアニメよりもずっと効果的…子どもの創造力を最大限に引きだせる｢読み聞かせ｣の種類(プレジデントオンライン)",
+      "published": "2026-07-13T08:15:38+00:00",
+      "summary": "創造力は育むにはどうすればいいか。昔ばなし研究者の沼賀美奈子さんは「スイスの昔ばなし研究者マックス・リュティは、昔ばなしは、背景や心理描写を語らないことで、物語の骨格だけがくっきり浮かび上がる、と分析",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/dafb1e4597806a61eb6e0d576875dfc09b055591?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/5de23ea768ec59b857102b94c03b5717ab0f62e5?source=rss"
         }
       ]
     },
     {
-      "id": "1c18cd7f7a4c",
-      "title": "「植えっぱなしで雑草対策」「暑さに強いグランドカバー」ローメンテな多年草・低木6選＆選び方のコツ(LIMO)",
-      "published": "2026-07-13T00:50:46+00:00",
-      "summary": "毎年、猛暑の中で繰り返される雑草対策。熱中症のリスクもある炎天下での草抜きは、できるだけ減らしたいものです。 そこでおすすめなのが、地面をおおいながら広がり、雑草の繁殖を抑えてくれる植物たち。今回は",
+      "id": "8abf07cccb6d",
+      "title": "【20代女性のお金のリアル】結婚後に家は買うのか、子供はほしいか…子あり夫婦のガチ家計簿を大調査！(CanCam.jp)",
+      "published": "2026-07-13T08:03:29+00:00",
+      "summary": "お金のプロと一緒に、20代の同棲・結婚カップルのお金事情を大研究！ 今回は、子供や家に関するお金にフィーチャー！ 令和を生きる20代は、結婚後に家を買う？ パートナーとの子供は欲しい？アンケート結果を",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/28b8f8c964b9e18b1746a705f7e368f2b6a59117?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/7a6c9135ea205001dfec2a676e2baa202ceb25fa?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "076a5822f696",
+      "title": "激務な人は要注意！クタクタの体で休日に「家族サービス」しても、子どもに逆効果なワケ(ダイヤモンド・オンライン)",
+      "published": "2026-07-13T08:00:32+00:00",
+      "summary": "「子どものために」と無理をして、休日に気乗りのしない家族サービスをしていないだろうか。しかし、我が身を犠牲にして遊んであげても、実は子どもにいい影響をもたらさないのだという。専門家が、親と子ども両者",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/333a83ff7f425df6b7e8502604e5f6c1e490dcee?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "3ab08054e473",
+      "title": "北海道大学でワインを学び、味わう： 「ワイン教育研究センター」の爽やかな戦略(nippon.com)",
+      "published": "2026-07-13T07:33:30+00:00",
+      "summary": "浮田 泰幸",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/d03233f67c7b25263d68bd3c8546ff4f9c1d3e90?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "26213dd854db",
+      "title": "日中の過度の眠気と入眠潜時延長、高血圧リスクの警告サインか｜ニュース - 保健指導リソースガイド",
+      "published": "2026-07-13T07:04:43+00:00",
+      "summary": "日中の過度の眠気と入眠潜時延長、高血圧リスクの警告サインか｜ニュース&nbsp;&nbsp;保健指導リソースガイド",
+      "sources": [
+        {
+          "name": "保健指導リソースガイド",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE04dTNSMXdFV0RQZEVzYXAzWTk4WTd2SG85OWNmcS1kRXZ2TG1MUUVBeTZCemhSbnRGUHEycUVPbUdSRmJoT1pscmtreml5NTVyLVBZTlZGQnZaVFhOQllCWjM3SHFGNGEx?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d8f0a6ef1a5d",
+      "title": "国際卓越研究大学、3校目に京都大を認定へ 文科省(Science Portal)",
+      "published": "2026-07-13T06:46:31+00:00",
+      "summary": "文部科学省は、世界トップレベルの研究水準を目指す「国際卓越研究大学」の第2期の公募で、京都大学を認定する方針を固めた。夏にも正式認定し、今年度に200億円程度の助成を見込む。10兆円規模のファンド（",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/8e0b2370a81564b67cc371f5206697090c079d5c?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "5e06b8db5717",
+      "title": "「薬はあるのに満足度は低い」うつ病治療の課題―新ガイドラインがもたらす変化とは？(メディカルドック)",
+      "published": "2026-07-13T03:06:49+00:00",
+      "summary": "「うつ病」は、生涯のうちに10人に1人以上がかかるともいわれる身近な病気です。近年は治療薬の選択肢が増えた一方で、患者さんの治療満足度は高いとはいえず、「症状を早く取ってほしい」「もっと話を聞いてほし",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/281c3f98b02e74b1df9e26840e313d60bbdef298?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "7373d3340dd4",
+      "title": "重なる銀河がもたらした偶然の発見　ハッブル宇宙望遠鏡が観測した渦巻銀河「LEDA 198197」(sorae 宇宙へのポータルサイト)",
+      "published": "2026-07-13T01:49:38+00:00",
+      "summary": "こちらは、ハッブル宇宙望遠鏡が観測した渦巻銀河「LEDA 198197」。ちょうこくしつ座の方向、地球から約7億8000万光年先にあります。 互いに近い距離にあるとみられる大小2つの渦巻銀河が、偶然",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/448f5083f8d9b87ac6bf9e207b7452c80427bba0?source=rss"
         }
       ]
     },
@@ -56,8 +128,8 @@
     {
       "id": "ec997bccde9c",
       "title": "認知症リスクが4分の3に低下したとの研究も…医学研究者が注目する「身近な食べ物」(ダイヤモンド・オンライン) - Yahoo!ファイナンス",
-      "published": "2026-07-12T21:52:26+00:00",
-      "summary": "認知症リスクが4分の3に低下したとの研究も…医学研究者が注目する「身近な食べ物」(ダイヤモンド・オンライン)&nbsp;&nbsp;Yahoo!ファイナンス腸内細菌は、認知症にも影響するのか？ 日本食でリスクは下がる？ コーヒーは？ 国立長寿医療研究センター医師が解説&nbsp;&nbsp;読売新聞「食卓の定番品にまさかの効果が…！」認知症になる可能性が4分の3まで下がる「栄養素」とは？【オックスフォード大元研究者が明かす】&nbsp;&nbsp;ダイヤモンド・オンラインカビや歯周病菌で脳にダメージ？身近に潜む認知症のリスクについて医師が解説（家庭画報.com）&nbsp;&nbsp;Yahoo!ニュース【認知症リスクも高まる】脳の老化を早めてしまう“身近な食品”とは？（ダイヤモンド・オンライン）&nbsp;&nbsp;Yahoo!ニュース",
+      "published": "2026-07-12T21:51:00+00:00",
+      "summary": "認知症リスクが4分の3に低下したとの研究も…医学研究者が注目する「身近な食べ物」(ダイヤモンド・オンライン)&nbsp;&nbsp;Yahoo!ファイナンス腸内細菌は、認知症にも影響するのか？ 日本食でリスクは下がる？ コーヒーは？ 国立長寿医療研究センター医師が解説&nbsp;&nbsp;読売新聞「食卓の定番品にまさかの効果が…！」認知症になる可能性が4分の3まで下がる「栄養素」とは？【オックスフォード大元研究者が明かす】&nbsp;&nbsp;ダイヤモンド・オンラインカビや歯周病菌で脳にダメージ？身近に潜む認知症のリスクについて医師が解説（家庭画報.com）&nbsp;&nbsp;Yahoo!ニュース認知症のリスクが低下 禁煙で非喫煙者並みに｜朝刊・夕刊ニュース｜下野新聞デジタル&nbsp;&nbsp;下野新聞社",
       "sources": [
         {
           "name": "Yahoo!ファイナンス",
@@ -81,7 +153,7 @@
       "id": "38d75c140182",
       "title": "進行大腸がんでも「約20%」は便潜血で陰性？ 検査の限界を医師が解説 - メディカルドック",
       "published": "2026-07-12T06:00:23+00:00",
-      "summary": "進行大腸がんでも「約20%」は便潜血で陰性？ 検査の限界を医師が解説&nbsp;&nbsp;メディカルドック大腸がんの早期発見へ――「大腸CT検査」という選択肢とは（Medical Note）&nbsp;&nbsp;Yahoo!ニュース徳島市が大腸がん検診を無料化 受診率向上めざし、早期発見へ&nbsp;&nbsp;ｄメニューニュース『大腸ポリープ』ができやすい人の特徴 「がん」のリスクや治療の流れも医師が解説【Gallery】&nbsp;&nbsp;メディカルドック快腸の秘訣は運動！ 上半身に“ひねり” 大腸がんは検診の好機逃さず早期発見&nbsp;&nbsp;日経Gooday",
+      "summary": "進行大腸がんでも「約20%」は便潜血で陰性？ 検査の限界を医師が解説&nbsp;&nbsp;メディカルドック大腸がんの早期発見へ――「大腸CT検査」という選択肢とは（Medical Note）&nbsp;&nbsp;Yahoo!ニュース快腸の秘訣は運動！ 上半身に“ひねり” 大腸がんは検診の好機逃さず早期発見&nbsp;&nbsp;日経Gooday",
       "sources": [
         {
           "name": "メディカルドック",
@@ -90,10 +162,22 @@
       ]
     },
     {
+      "id": "16221e81f3c5",
+      "title": "「一家全滅」「死体を入れる棺桶すら底を突き…」日本人2400万人が感染したのに“忘れられた”奇病「スペインかぜ」の恐ろしさ - au Webポータル",
+      "published": "2026-07-12T01:20:00+00:00",
+      "summary": "「一家全滅」「死体を入れる棺桶すら底を突き…」日本人2400万人が感染したのに“忘れられた”奇病「スペインかぜ」の恐ろしさ&nbsp;&nbsp;au WebポータルGoogle ニュースで見出しと意見をもっと見る",
+      "sources": [
+        {
+          "name": "au Webポータル",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5ajIyY1pLcDNOWVFiUTVJUjJtcVVMU3JVbVIxb09ucEVVcXZFNmZVRERJTG0xNmtqY21Eb0JISmwzdXFXX1I5cmdfamY1eVRLT3ItVENSX3ZJb1Y2RkpKTmZqYl9GRlYtd1YxX0s4QnNsMkpjMmlyZDdDcw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c1420b86bcf9",
       "title": "B型肝炎新薬、今年秋にも実用化へ 継続服用不要になる可能性 熊本大病院など治験参加 - 熊本日日新聞社",
       "published": "2026-07-11T10:43:36+00:00",
-      "summary": "B型肝炎新薬、今年秋にも実用化へ 継続服用不要になる可能性 熊本大病院など治験参加&nbsp;&nbsp;熊本日日新聞社",
+      "summary": "B型肝炎新薬、今年秋にも実用化へ 継続服用不要になる可能性 熊本大病院など治験参加&nbsp;&nbsp;熊本日日新聞社Google ニュースで見出しと意見をもっと見る",
       "sources": [
         {
           "name": "熊本日日新聞社",
@@ -326,78 +410,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/53f4547e74a6b4ea9fb8ef756ab90e4525614297?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "3104edaffde4",
-      "title": "お酒を飲まないのに肝機能が低下―薬がなかった「MASH」に国内初の治療薬が承認に(メディカルドック)",
-      "published": "2026-07-09T03:03:57+00:00",
-      "summary": "治療が難しい肝臓がんは、かつてC型肝炎ウイルス感染に由来するものが最多でした。しかし、治療薬の出現でC型肝炎由来が減少する一方、アルコールともウイルス感染とも無関係の脂肪肝に由来する肝臓がんが増加して",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/00ec8b5375b95754b828077402b7e2e015c1e4ca?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "9b962b905653",
-      "title": "大腸がんの早期発見へ――「大腸CT検査」という選択肢とは(Medical Note)",
-      "published": "2026-07-09T02:53:52+00:00",
-      "summary": "大腸がんは日本で最も罹患者数が多いがんの1つだ。 早期に発見できれば治療につながる可能性が極めて高い一方で、健康診断の便潜血検査で異常を指摘されても、その後の精密検査に進まない人は少なくないだろう。",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/f551dde93c80c03a7a892914e35b5195e1c521fa?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "fb6ad2d39d41",
-      "title": "現在の長周期彗星は250万年前に太陽系へ接近した恒星「HD 7977」の影響を強く受けている？(sorae 宇宙へのポータルサイト)",
-      "published": "2026-07-09T01:31:42+00:00",
-      "summary": "PSI（惑星科学研究所）のNathan Kaib氏とボルドー大学のSean Raymond氏は、太陽系の長周期彗星の軌道が、過去に太陽系へ接近した恒星「HD 7977」の影響を強く受けているとする研究",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/164c391be338db5f645e75107aac97e3a41881ae?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "aca131012d69",
-      "title": "急性骨髄性白血病患者は少なくとも16グループに分類可能か　京大など発表、5年生存率に大きな差(京都新聞)",
-      "published": "2026-07-08T15:00:09+00:00",
-      "summary": "1500人を超える急性骨髄性白血病（AML）患者について遺伝子の働きのパターンを解析したところ、5年生存率や効果のある薬の違いなどで少なくとも16グループに分けることができたと、京都大などが発表した",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/f8ca739ea3af5111729558ec329aac1647827ab2?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "ddccda605d95",
-      "title": "「天気の柔術」で台風を“受け流す”研究が進展中(ギズモード・ジャパン)",
-      "published": "2026-07-08T12:00:02+00:00",
-      "summary": "最終的にどこかに直撃するんじゃないなら、イエス、プリーズ。 2012年10月にハリケーン｢サンディ｣がアメリカ東海岸を北上したとき、24州にまたがる推定6,000万人がその影響を受けました。 ニュ",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/19dc8bfd902912d775f7ec160395847eb4bdb6cf?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "f7313a676e85",
-      "title": "ネアンデルタール人と現生人類が文化を共有か、洞窟での発見が示唆　トルコ(CNN.co.jp)",
-      "published": "2026-07-08T11:28:00+00:00",
-      "summary": "（CNN） 太古のDNAの分析により、我々現生人類（ホモ・サピエンス）はかつてネアンデルタール人と交雑していたことが明らかになったが、数万年前の石器時代の出会いとは、一体どのようなものだったのだろうか",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/f89ca2da73f471401d84cbf3333c9379105685ef?source=rss"
         }
       ]
     }
