@@ -118,20 +118,61 @@ def get_mapping_drugs(
     return drug_list
 
 
-def patch_single_drug(bundle_path: Path, top_n: int = 10, min_score: float = 0.99) -> dict:
+def preload_predictions(min_score: float = 0.99, top_n: int = 10) -> dict[str, list]:
+    """Preload all DL predictions into a dict keyed by lowercase drug name.
+
+    Returns:
+        dict mapping drug_name (lowercase) -> list of PredictedIndication objects
+    """
+    from jptxgnn.collectors.drug_bundle import PredictedIndication
+    from jptxgnn.collectors.known_relations import KnownRelationsChecker
+
+    predictions_path = Path("data/processed/txgnn_dl_predictions.csv.gz")
+    if not predictions_path.exists():
+        print(f"警告: {predictions_path} 不存在，無法 patch")
+        return {}
+
+    df = pd.read_csv(predictions_path)
+    df = df[df["txgnn_score"] >= min_score]
+
+    checker = KnownRelationsChecker()
+    drug_predictions: dict[str, list] = {}
+
+    for drug_name, group in df.groupby("drug_name"):
+        group = group.sort_values("txgnn_score", ascending=False)
+        results = []
+        for _, row in group.iterrows():
+            disease = row["潛在新適應症"]
+            if not checker.is_novel(drug_name, disease):
+                continue
+            results.append(
+                PredictedIndication(
+                    disease_name=disease,
+                    txgnn_score=row["txgnn_score"],
+                    txgnn_rank=row.get("rank"),
+                )
+            )
+            if top_n > 0 and len(results) >= top_n:
+                break
+        if results:
+            drug_predictions[drug_name.lower()] = results
+
+    return drug_predictions
+
+
+def patch_single_drug(
+    bundle_path: Path,
+    drug_predictions: dict[str, list],
+) -> dict:
     """Patch an existing bundle that has no predicted_indications.
 
-    Loads the bundle, adds predicted indications from DL predictions,
-    collects per-indication evidence (PubMed, ClinicalTrials, ICTRP),
-    and saves back — preserving existing drug-level data.
+    Uses preloaded predictions (fast in-memory lookup) instead of
+    reading the predictions CSV per drug.
 
     Returns:
         dict with status, drug, indication_count, error, duration_seconds
     """
-    from jptxgnn.collectors.drug_bundle import (
-        DrugBundle,
-        load_predictions_for_drug,
-    )
+    from jptxgnn.collectors.drug_bundle import DrugBundle
 
     result = {
         "drug": "",
@@ -148,15 +189,17 @@ def patch_single_drug(bundle_path: Path, top_n: int = 10, min_score: float = 0.9
         drug_name = bundle.drug.inn
         result["drug"] = drug_name
 
-        # Load predicted indications
-        predicted = load_predictions_for_drug(
-            drug_name=drug_name, top_n=top_n, min_score=min_score,
-        )
+        # Fast in-memory lookup
+        predicted = drug_predictions.get(drug_name.lower())
 
         if not predicted:
             result["status"] = "no_predictions"
             result["duration_seconds"] = round(time.time() - start_time, 2)
             return result
+
+        # Deep copy so we don't mutate the shared list
+        from copy import deepcopy
+        predicted = deepcopy(predicted)
 
         # Collect per-indication evidence
         aggregator = DrugBundleAggregator(save_collected=True)
@@ -274,6 +317,13 @@ def main():
             return []
 
         print(f"找到 {len(empty_bundles)} 個需要 patch 的 bundles")
+
+        # Preload predictions once (avoids re-reading CSV per bundle)
+        print("載入 DL 預測資料...", end=" ", flush=True)
+        drug_predictions = preload_predictions(
+            min_score=args.min_score, top_n=args.top_n,
+        )
+        print(f"完成 ({len(drug_predictions)} 個藥物有預測)")
         print("-" * 60)
 
         results = []
@@ -283,8 +333,7 @@ def main():
 
             result = patch_single_drug(
                 bundle_path=bf,
-                top_n=args.top_n,
-                min_score=args.min_score,
+                drug_predictions=drug_predictions,
             )
             results.append(result)
 
