@@ -1,72 +1,485 @@
 {
-  "last_updated": "2026-07-13T08:48:09.194025+00:00",
-  "total_count": 34,
-  "matched_count": 5,
+  "last_updated": "2026-07-13T14:04:58.129707+00:00",
+  "total_count": 35,
+  "matched_count": 9,
   "news": [
     {
-      "id": "1d26e08b22f3",
-      "title": "寿司職人ビックリ！生ものアレルギーなのに寿司屋に来た客の注文にタジタジ…！破天荒で自由な妻の豪快エピソード【作者に聞く】(ウォーカープラス)",
-      "published": "2026-07-13T08:25:49+00:00",
-      "summary": "漫画家・ゆきたこーすけ(@kosukeyukita)さんが描く「破天荒な妻に今日も振り回されています」は、妻・カツシンさんとの日常をユーモラスにつづった実録漫画である。生ものアレルギーなのに回らない寿",
+      "id": "041511c3e933",
+      "title": "せきや喘息のほか皮膚のかゆみにも効く「屋翳」。母乳の出をよくする効果も(家庭画報.com)",
+      "published": "2026-07-13T12:10:13+00:00",
+      "summary": "中医学のエキスパートである鍼灸師の兵頭 明先生が、ツボの効能や位置、効くメカニズムを解説します。健康の土台作りに、不調改善に、1日1分のツボ押しを習慣にしましょう。",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/68735cd5d71ccade230ba376d42c32b1b0243f2d?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/51a380e07a0efc611c39cf89012af1e4138c5be9?source=rss"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "asthma",
+          "keyword": "喘息",
+          "related_drugs": [
+            {
+              "slug": "theophylline",
+              "name": "ユニコン錠１００　１００ｍｇ（選）"
+            },
+            {
+              "slug": "budesonide",
+              "name": "シムビコートタービュヘイラー６０吸入（選）"
+            },
+            {
+              "slug": "montelukast",
+              "name": "シングレアＯＤ錠１０ｍｇ（選）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e4bf0ea36ee0",
+      "title": "大腸がんから奇跡の一軍復帰。元阪神・原口文仁が語る「誰かのために」という新たな使命(ヨガジャーナルオンライン)",
+      "published": "2026-07-13T12:05:00+00:00",
+      "summary": "がんなどの病により、キャリアや夢が突然断たれることがあります。それでも、自らの足で再び歩みはじめたアスリートたちがいます。本連載では、病を経験しながら競技人生に向き合った彼らの言葉を通じて、「病ととも",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/cccd8984c36507b9e7b9b86f5751136eecb5988b?source=rss"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "acyclovir",
+              "name": "ゾビラックス軟膏５％（選）"
+            },
+            {
+              "slug": "theophylline",
+              "name": "ユニコン錠１００　１００ｍｇ（選）"
+            },
+            {
+              "slug": "risperidone",
+              "name": "リスパダール錠２ｍｇ（選）"
+            },
+            {
+              "slug": "valproic-acid",
+              "name": "セレニカＲ顆粒４０％（選）"
+            },
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "atorvastatin",
+              "name": "アトーゼット配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "cyclosporine",
+              "name": "ネオーラル５０ｍｇカプセル（選）"
+            },
+            {
+              "slug": "azithromycin",
+              "name": "ジスロマック細粒小児用１０％　１００ｍｇ（選）"
+            },
+            {
+              "slug": "valsartan",
+              "name": "ディオバンＯＤ錠１６０ｍｇ（選）"
+            },
+            {
+              "slug": "carbamazepine",
+              "name": "テグレトール錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "morphine",
+              "name": "モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」"
+            },
+            {
+              "slug": "pravastatin",
+              "name": "メバロチン錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "atenolol",
+              "name": "テノーミン錠５０　５０ｍｇ（選）"
+            },
+            {
+              "slug": "loperamide",
+              "name": "ロペミンカプセル１ｍｇ（選）"
+            },
+            {
+              "slug": "simvastatin",
+              "name": "リポバス錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "carvedilol",
+              "name": "アーチスト錠２０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "diazepam",
+              "name": "ホリゾン錠５ｍｇ（選）"
+            },
+            {
+              "slug": "lorazepam",
+              "name": "ワイパックス錠１．０　１ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "spironolactone",
+              "name": "アルダクトンＡ錠５０ｍｇ（選）"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "ロプレソール錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "enalapril",
+              "name": "レニベース錠１０　１０ｍｇ（選）"
+            },
+            {
+              "slug": "lisinopril",
+              "name": "ロンゲス錠２０ｍｇ（選）"
+            },
+            {
+              "slug": "diltiazem",
+              "name": "ヘルベッサー錠６０　６０ｍｇ（選）"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "エックスフォージ配合ＯＤ錠（選）"
+            },
+            {
+              "slug": "clarithromycin",
+              "name": "クラリス錠５０小児用　５０ｍｇ（選）"
+            },
+            {
+              "slug": "furosemide",
+              "name": "ラシックス錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "lidocaine",
+              "name": "リドカイン（１８ｍｇ）３０．５ｍｍ×５０．０ｍｍ貼付剤"
+            },
+            {
+              "slug": "bisoprolol",
+              "name": "メインテート錠５ｍｇ（選）"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "ミカムロ配合錠ＢＰ（選）"
+            },
+            {
+              "slug": "rosuvastatin",
+              "name": "クレストールＯＤ錠５ｍｇ（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "clopidogrel",
+              "name": "プラビックス錠７５ｍｇ（選）"
+            },
+            {
+              "slug": "sertraline",
+              "name": "ジェイゾロフトＯＤ錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "timolol",
+              "name": "デュオトラバ配合点眼液（選）"
+            },
+            {
+              "slug": "diclofenac",
+              "name": "ボルタレンサポ５０ｍｇ（選）"
+            },
+            {
+              "slug": "budesonide",
+              "name": "シムビコートタービュヘイラー６０吸入（選）"
+            },
+            {
+              "slug": "moxifloxacin",
+              "name": "ベガモックス点眼液０．５％（選）"
+            },
+            {
+              "slug": "verapamil",
+              "name": "ワソラン錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "levofloxacin",
+              "name": "クラビット点眼液１．５％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "celecoxib",
+              "name": "セレコックス錠２００ｍｇ（選）"
+            },
+            {
+              "slug": "ezetimibe",
+              "name": "ゼチーア錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "topiramate",
+              "name": "トピナ錠２５ｍｇ（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "montelukast",
+              "name": "シングレアＯＤ錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "lamotrigine",
+              "name": "ラミクタール錠２５ｍｇ（選）"
+            },
+            {
+              "slug": "hydrochlorothiazide",
+              "name": "プレミネント配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "losartan",
+              "name": "ニューロタン錠５０ｍｇ（選）"
+            },
+            {
+              "slug": "latanoprost",
+              "name": "ザラカム配合点眼液（選）"
+            },
+            {
+              "slug": "clotrimazole",
+              "name": "エンペシドクリーム１％（選）"
+            },
+            {
+              "slug": "amoxicillin",
+              "name": "ワイドシリン細粒２０％　２００ｍｇ"
+            },
+            {
+              "slug": "ampicillin",
+              "name": "ビクシリンＳ配合錠　（２５０ｍｇ）"
+            },
+            {
+              "slug": "lamivudine",
+              "name": "エプジコム配合錠（選）"
+            },
+            {
+              "slug": "warfarin",
+              "name": "ワルファリンＫ細粒０．２％「ＮＳ」"
+            },
+            {
+              "slug": "fenofibrate",
+              "name": "トライコア錠８０ｍｇ（選）"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            },
+            {
+              "slug": "prasugrel",
+              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
+            },
+            {
+              "slug": "tramadol",
+              "name": "トラマールＯＤ錠５０ｍｇ（選）"
+            },
+            {
+              "slug": "metronidazole",
+              "name": "メトロニダゾールゲル０．７５％「マルイシ」"
+            },
+            {
+              "slug": "lactulose",
+              "name": "ラグノスＮＦ経口ゼリー分包１２ｇ　５４．１６７％"
+            },
+            {
+              "slug": "levetiracetam",
+              "name": "レベチラセタム粒状錠５００ｍｇ「サワイ」"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸がん",
+          "related_drugs": [
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d3818e7e5a3d",
+      "title": "50代以降の女性は必見！69歳米専門家が伝授する「二の腕を引き締める」2つの簡単エクササイズ(ウィメンズヘルス)",
+      "published": "2026-07-13T12:00:57+00:00",
+      "summary": "年齢を重ねても、引き締まった健康的な体をキープすることは十分に可能だ。それを体現しているのが、現在69歳のフィットネスプロ、デニス・オースティンである。彼女は、手軽にできるピラティスや親子でのコア（体",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/351e6699dfd373d71edfec16b90d0767cc2add90?source=rss"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "de3742be1ef0",
-      "title": "絵本よりもアニメよりもずっと効果的…子どもの創造力を最大限に引きだせる｢読み聞かせ｣の種類(プレジデントオンライン)",
-      "published": "2026-07-13T08:15:38+00:00",
-      "summary": "創造力は育むにはどうすればいいか。昔ばなし研究者の沼賀美奈子さんは「スイスの昔ばなし研究者マックス・リュティは、昔ばなしは、背景や心理描写を語らないことで、物語の骨格だけがくっきり浮かび上がる、と分析",
+      "id": "54545e9d9ac5",
+      "title": "【涼しい！ミレーのパーカ】日差しに負けない！夏フェスにも持っていきたい最強フーディを発見！(MEN’S NON-NO WEB)",
+      "published": "2026-07-13T12:00:43+00:00",
+      "summary": "近赤外線をカットする新素材「SOLAMENT®」を採用した、薄手のメッシュフーディ。",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/5de23ea768ec59b857102b94c03b5717ab0f62e5?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/0604096ee41eb4c9041e0de53ba2c4b406fcf552?source=rss"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "8abf07cccb6d",
-      "title": "【20代女性のお金のリアル】結婚後に家は買うのか、子供はほしいか…子あり夫婦のガチ家計簿を大調査！(CanCam.jp)",
-      "published": "2026-07-13T08:03:29+00:00",
-      "summary": "お金のプロと一緒に、20代の同棲・結婚カップルのお金事情を大研究！ 今回は、子供や家に関するお金にフィーチャー！ 令和を生きる20代は、結婚後に家を買う？ パートナーとの子供は欲しい？アンケート結果を",
+      "id": "973cb13c99c2",
+      "title": "「万引きはしていない」と容疑を否認 ドラックストアで風邪薬１点を盗む 無職の男（７７）を逮捕 静岡・島田市 - LOOK 静岡朝日テレビ",
+      "published": "2026-07-13T10:34:14+00:00",
+      "summary": "「万引きはしていない」と容疑を否認 ドラックストアで風邪薬１点を盗む 無職の男（７７）を逮捕 静岡・島田市&nbsp;&nbsp;LOOK 静岡朝日テレビ",
       "sources": [
         {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/7a6c9135ea205001dfec2a676e2baa202ceb25fa?source=rss"
+          "name": "LOOK 静岡朝日テレビ",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BSTViMDA2NXE1MF9iQzJWdU8xOGlteWYzYmZJVG5xNW1vWUNPYS13MHVIUEhXZDZGc3dZdGl0OWdra1JSUE9BSXZIM016dmRKdXVodzROSWdJWVRIc0J2Mg?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "風邪",
+          "related_drugs": [
+            {
+              "slug": "theophylline",
+              "name": "ユニコン錠１００　１００ｍｇ（選）"
+            },
+            {
+              "slug": "cetirizine",
+              "name": "ザイザルシロップ０．０５％（選）"
+            },
+            {
+              "slug": "morphine",
+              "name": "モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」"
+            },
+            {
+              "slug": "loratadine",
+              "name": "クラリチン錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "chlorpheniramine",
+              "name": "セレスタミン配合錠（選）"
+            },
+            {
+              "slug": "dextromethorphan",
+              "name": "デキストロメトルファン臭化水素酸塩細粒１０％「ツルハラ」"
+            },
+            {
+              "slug": "acetaminophen",
+              "name": "トラムセット配合錠（選）"
+            },
+            {
+              "slug": "codeine",
+              "name": "ムコブロチン配合シロップ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bc81c8a8a6a0",
+      "title": "アメフトだけでなくサッカーも、長期的な脳の健康に影響与える可能性　新研究(CNN.co.jp)",
+      "published": "2026-07-13T09:11:00+00:00",
+      "summary": "（CNN） スポーツと脳への影響に関する研究は、これまでアメリカンフットボールに焦点が当てられる傾向にあったが、サッカー選手も同様にリスクにさらされている可能性があることが分かった。 新たな研究によ",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/74f0bd19ab41edad27e1fd4932c4efdb821267fe?source=rss"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "076a5822f696",
-      "title": "激務な人は要注意！クタクタの体で休日に「家族サービス」しても、子どもに逆効果なワケ(ダイヤモンド・オンライン)",
-      "published": "2026-07-13T08:00:32+00:00",
-      "summary": "「子どものために」と無理をして、休日に気乗りのしない家族サービスをしていないだろうか。しかし、我が身を犠牲にして遊んであげても、実は子どもにいい影響をもたらさないのだという。専門家が、親と子ども両者",
+      "id": "fdfc5ef7a9be",
+      "title": "『ストレス』と「胃腸炎」の結びつきをご存じですか？ どんな人が注意すべき？【医師解説】(メディカルドック)",
+      "published": "2026-07-13T09:02:17+00:00",
+      "summary": "強いストレスが続くと、自律神経の乱れによって胃酸分泌が過剰になったり、腸の動きが不安定になったりして、胃腸炎を引き起こすことがあります。胃腸の不調は、風邪やウイルスだけが原因ではありません。そこで、な",
       "sources": [
         {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/333a83ff7f425df6b7e8502604e5f6c1e490dcee?source=rss"
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/ab2ef18a7a5f168650c857e1da0176da8f47beb4?source=rss"
         }
       ],
-      "matched_keywords": []
-    },
-    {
-      "id": "3ab08054e473",
-      "title": "北海道大学でワインを学び、味わう： 「ワイン教育研究センター」の爽やかな戦略(nippon.com)",
-      "published": "2026-07-13T07:33:30+00:00",
-      "summary": "浮田 泰幸",
-      "sources": [
+      "matched_keywords": [
         {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/d03233f67c7b25263d68bd3c8546ff4f9c1d3e90?source=rss"
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "風邪",
+          "related_drugs": [
+            {
+              "slug": "theophylline",
+              "name": "ユニコン錠１００　１００ｍｇ（選）"
+            },
+            {
+              "slug": "cetirizine",
+              "name": "ザイザルシロップ０．０５％（選）"
+            },
+            {
+              "slug": "morphine",
+              "name": "モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」"
+            },
+            {
+              "slug": "loratadine",
+              "name": "クラリチン錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "chlorpheniramine",
+              "name": "セレスタミン配合錠（選）"
+            },
+            {
+              "slug": "dextromethorphan",
+              "name": "デキストロメトルファン臭化水素酸塩細粒１０％「ツルハラ」"
+            },
+            {
+              "slug": "acetaminophen",
+              "name": "トラムセット配合錠（選）"
+            },
+            {
+              "slug": "codeine",
+              "name": "ムコブロチン配合シロップ"
+            }
+          ]
         }
-      ],
-      "matched_keywords": []
+      ]
     },
     {
       "id": "26213dd854db",
@@ -181,7 +594,7 @@
       "id": "ec997bccde9c",
       "title": "認知症リスクが4分の3に低下したとの研究も…医学研究者が注目する「身近な食べ物」(ダイヤモンド・オンライン)",
       "published": "2026-07-12T21:51:00+00:00",
-      "summary": "認知症リスクが4分の3に低下したとの研究も…医学研究者が注目する「身近な食べ物」(ダイヤモンド・オンライン)&nbsp;&nbsp;Yahoo!ファイナンス腸内細菌は、認知症にも影響するのか？ 日本食でリスクは下がる？ コーヒーは？ 国立長寿医療研究センター医師が解説&nbsp;&nbsp;読売新聞「食卓の定番品にまさかの効果が…！」認知症になる可能性が4分の3まで下がる「栄養素」とは？【オックスフォード大元研究者が明かす】&nbsp;&nbsp;ダイヤモンド・オンラインカビや歯周病菌で脳にダメージ？身近に潜む認知症のリスクについて医師が解説（家庭画報.com）&nbsp;&nbsp;Yahoo!ニュース認知症のリスクが低下 禁煙で非喫煙者並みに｜朝刊・夕刊ニュース｜下野新聞デジタル&nbsp;&nbsp;下野新聞社",
+      "summary": "認知症リスクが4分の3に低下したとの研究も…医学研究者が注目する「身近な食べ物」(ダイヤモンド・オンライン)&nbsp;&nbsp;Yahoo!ファイナンス腸内細菌は、認知症にも影響するのか？ 日本食でリスクは下がる？ コーヒーは？ 国立長寿医療研究センター医師が解説&nbsp;&nbsp;読売新聞「食卓の定番品にまさかの効果が…！」認知症になる可能性が4分の3まで下がる「栄養素」とは？【オックスフォード大元研究者が明かす】&nbsp;&nbsp;ダイヤモンド・オンライン認知症の約半数は予防可能か、鍵は「知識より行動」&nbsp;&nbsp;ニューズウィーク日本版認知症のリスクが低下 禁煙で非喫煙者並みに｜朝刊・夕刊ニュース｜下野新聞デジタル&nbsp;&nbsp;下野新聞社",
       "sources": [
         {
           "name": "Yahoo!ファイナンス",
@@ -571,19 +984,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "c1420b86bcf9",
-      "title": "B型肝炎新薬、今年秋にも実用化へ 継続服用不要になる可能性 熊本大病院など治験参加",
-      "published": "2026-07-11T10:43:36+00:00",
-      "summary": "B型肝炎新薬、今年秋にも実用化へ 継続服用不要になる可能性 熊本大病院など治験参加&nbsp;&nbsp;熊本日日新聞社Google ニュースで見出しと意見をもっと見る",
-      "sources": [
-        {
-          "name": "熊本日日新聞社",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xdjA0NzRJcUFDS2RKVGtBV281UDJ4akIydzNwal9iUmxVS1RTbGZiaU1OZlVMSU1wOW5wdm9zRVAxNWlJQUZjUmVsMkN6YjQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "601d7e8aa77d",
