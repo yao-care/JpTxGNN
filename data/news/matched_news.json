@@ -1,8 +1,185 @@
 {
-  "last_updated": "2026-07-14T13:07:57.209407+00:00",
-  "total_count": 43,
-  "matched_count": 11,
+  "last_updated": "2026-07-14T19:02:09.106300+00:00",
+  "total_count": 44,
+  "matched_count": 12,
   "news": [
+    {
+      "id": "d2934c729e9e",
+      "title": "一汁三菜は健康的？ 品数の多さが心血管疾患危険因子に影響する可能性",
+      "published": "2026-07-14T15:00:00+00:00",
+      "summary": "一汁三菜は健康的？ 品数の多さが心血管疾患危険因子に影響する可能性&nbsp;&nbsp;日経Gooday",
+      "sources": [
+        {
+          "name": "日経Gooday",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSWU2djJjSlMyY0dQdnFHR200eHY4WUVvUmpPWXI2b3V6SkNJZHFHY3FDaXFBQmNSQ092ejBJOGVMLUNuMmFSS190Z2M5Y1JlQU9Bd0dMVE9FU3dTVlJtaGpGQXVudGZtT1ZGbUc1RGpTbm1BRDUzOXhfMkFWN01pVA?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "心血管",
+          "related_drugs": [
+            {
+              "slug": "acyclovir",
+              "name": "ゾビラックス軟膏５％（選）"
+            },
+            {
+              "slug": "atorvastatin",
+              "name": "アトーゼット配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "pravastatin",
+              "name": "メバロチン錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "atenolol",
+              "name": "テノーミン錠５０　５０ｍｇ（選）"
+            },
+            {
+              "slug": "simvastatin",
+              "name": "リポバス錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "ロプレソール錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "lisinopril",
+              "name": "ロンゲス錠２０ｍｇ（選）"
+            },
+            {
+              "slug": "lidocaine",
+              "name": "リドカイン（１８ｍｇ）３０．５ｍｍ×５０．０ｍｍ貼付剤"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "ミカムロ配合錠ＢＰ（選）"
+            },
+            {
+              "slug": "rosuvastatin",
+              "name": "クレストールＯＤ錠５ｍｇ（選）"
+            },
+            {
+              "slug": "verapamil",
+              "name": "ワソラン錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "latanoprost",
+              "name": "ザラカム配合点眼液（選）"
+            },
+            {
+              "slug": "warfarin",
+              "name": "ワルファリンＫ細粒０．２％「ＮＳ」"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "ザルティア錠５ｍｇ（選）"
+            },
+            {
+              "slug": "duloxetine",
+              "name": "サインバルタカプセル３０ｍｇ（選）"
+            },
+            {
+              "slug": "prasugrel",
+              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
+            },
+            {
+              "slug": "tramadol",
+              "name": "トラマールＯＤ錠５０ｍｇ（選）"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "心血管疾患",
+          "keyword": "心血管疾患",
+          "related_drugs": [
+            {
+              "slug": "acyclovir",
+              "name": "ゾビラックス軟膏５％（選）"
+            },
+            {
+              "slug": "atorvastatin",
+              "name": "アトーゼット配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "pravastatin",
+              "name": "メバロチン錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "atenolol",
+              "name": "テノーミン錠５０　５０ｍｇ（選）"
+            },
+            {
+              "slug": "simvastatin",
+              "name": "リポバス錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "ロプレソール錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "lisinopril",
+              "name": "ロンゲス錠２０ｍｇ（選）"
+            },
+            {
+              "slug": "lidocaine",
+              "name": "リドカイン（１８ｍｇ）３０．５ｍｍ×５０．０ｍｍ貼付剤"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "ミカムロ配合錠ＢＰ（選）"
+            },
+            {
+              "slug": "rosuvastatin",
+              "name": "クレストールＯＤ錠５ｍｇ（選）"
+            },
+            {
+              "slug": "verapamil",
+              "name": "ワソラン錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "latanoprost",
+              "name": "ザラカム配合点眼液（選）"
+            },
+            {
+              "slug": "warfarin",
+              "name": "ワルファリンＫ細粒０．２％「ＮＳ」"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "ザルティア錠５ｍｇ（選）"
+            },
+            {
+              "slug": "duloxetine",
+              "name": "サインバルタカプセル３０ｍｇ（選）"
+            },
+            {
+              "slug": "prasugrel",
+              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
+            },
+            {
+              "slug": "tramadol",
+              "name": "トラマールＯＤ錠５０ｍｇ（選）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3d154b0f541a",
+      "title": "都医師会「手足口病」警報レベル超えの流行で注意喚起「感染経路を正しく理解して」(TOKYO HEADLINE WEB)",
+      "published": "2026-07-14T14:30:08+00:00",
+      "summary": "主に子どもを中心に流行し、手や足、口の中に発疹ができる感染症「手足口病」の流行が全国で拡大している。東京都医師会は7月14日の定例記者会見で、都内の感染報告数が2年ぶりに警報レベルに達したことを受け",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/e4d5156c4c11a3289381ae300dbdc2486aef4c40?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "909d669ee3f6",
       "title": "アルツハイマー病の原因、「銅を含む薬」で42％減少(ギズモード・ジャパン)",
@@ -68,19 +245,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "56611124c54c",
-      "title": "都医・尾﨑会長、都民のワクチンリテラシーの向上目指す「防ぐことのできる病気防ぐ東京へ」(TOKYO HEADLINE WEB)",
-      "published": "2026-07-14T12:15:52+00:00",
-      "summary": "東京都医師会は7月14日、都内で行われた定例会見で、今冬に備えたワクチン接種について説明した。 尾崎治夫会長は重点政策に掲げる予防医療について「これからさらに少子高齢化が進み、高齢者の患者数や介",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/b4294df01b00a1ee6e54d8413ed7f56fb8226c3b?source=rss"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "d99f330e36ad",
@@ -581,7 +745,7 @@
       "id": "7ab61e6a09df",
       "title": "高血圧は静かにこの重要な部分を破壊する",
       "published": "2026-07-14T02:21:40+00:00",
-      "summary": "高血圧は静かにこの重要な部分を破壊する&nbsp;&nbsp;Laodong.vn令和8年度 市民健康教室「押さえておきたい高血圧の『新常識』～高血圧を味方につけて健康寿命を延ばしましょう～」を開催しました&nbsp;&nbsp;city.suita.osaka.jpこの病気は「静かなる殺人者」であり、若い世代に感染が広がっているという憂慮すべき傾向は深刻である。&nbsp;&nbsp;Vietnam.vn",
+      "summary": "高血圧は静かにこの重要な部分を破壊する&nbsp;&nbsp;Laodong.vn令和8年度 市民健康教室「押さえておきたい高血圧の『新常識』～高血圧を味方につけて健康寿命を延ばしましょう～」を開催しました&nbsp;&nbsp;city.suita.osaka.jp「血圧が高いと出る5つの症状」はご存知ですか？医師が徹底解説！ (2026年7月14日掲載)&nbsp;&nbsp;ライブドアニュース",
       "sources": [
         {
           "name": "Laodong.vn",
@@ -631,6 +795,49 @@
               "name": "ディオバンＯＤ錠１６０ｍｇ（選）"
             }
           ]
+        },
+        {
+          "type": "indication",
+          "name": "血圧が高い",
+          "keyword": "血圧が高い",
+          "related_drugs": [
+            {
+              "slug": "nifedipine",
+              "name": "アダラートＣＲ錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "エックスフォージ配合ＯＤ錠（選）"
+            },
+            {
+              "slug": "diltiazem",
+              "name": "ヘルベッサー錠６０　６０ｍｇ（選）"
+            },
+            {
+              "slug": "timolol",
+              "name": "デュオトラバ配合点眼液（選）"
+            },
+            {
+              "slug": "verapamil",
+              "name": "ワソラン錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "hydrochlorothiazide",
+              "name": "プレミネント配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "losartan",
+              "name": "ニューロタン錠５０ｍｇ（選）"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "ミカムロ配合錠ＢＰ（選）"
+            },
+            {
+              "slug": "valsartan",
+              "name": "ディオバンＯＤ錠１６０ｍｇ（選）"
+            }
+          ]
         }
       ]
     },
@@ -638,7 +845,7 @@
       "id": "f3c47e342004",
       "title": "【北海道札幌市中央区】わずか6mLの採血でがん・認知（MCI：軽度認知障害）リスクを評価する「メタロ・バランス検査」、Do-Clinicにて8月からの予約受付を開始 - PR TIMES",
       "published": "2026-07-14T02:10:10+00:00",
-      "summary": "【北海道札幌市中央区】わずか6mLの採血でがん・認知（MCI：軽度認知障害）リスクを評価する「メタロ・バランス検査」、Do-Clinicにて8月からの予約受付を開始&nbsp;&nbsp;PR TIMES【愛知県西尾市】わずか6mLの採血でがん・認知リスクを評価する「メタロ・バランス検査」、宍戸整形外科にて2026年9月&nbsp;&nbsp;ニコニコニュース",
+      "summary": "【北海道札幌市中央区】わずか6mLの採血でがん・認知（MCI：軽度認知障害）リスクを評価する「メタロ・バランス検査」、Do-Clinicにて8月からの予約受付を開始&nbsp;&nbsp;PR TIMES【愛知県西尾市】わずか6mLの採血でがん・認知リスクを評価する「メタロ・バランス検査」、宍戸整形外科にて2026年9月より検査を開始 ＜ご予約受付中＞&nbsp;&nbsp;PR TIMES",
       "sources": [
         {
           "name": "PR TIMES",
