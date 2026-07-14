@@ -1,47 +1,78 @@
 {
-  "generated": "2026-07-13T19:11:52.037674+00:00",
+  "generated": "2026-07-14T01:27:07.448533+00:00",
   "count": 8,
   "news": [
     {
-      "id": "041511c3e933",
-      "title": "せきや喘息のほか皮膚のかゆみにも効く「屋翳」。母乳の出をよくする効果も(家庭画報.com)",
-      "published": "2026-07-13T12:10:13+00:00",
+      "id": "5cc4da3a9921",
+      "title": "インフルエンザの“正体”を世界で最初に突き止めたのは日本人だった…100年にわたり世界でスルーされてきた3人のドクターの偉業(文春オンライン)",
+      "published": "2026-07-14T01:00:37+00:00",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/51a380e07a0efc611c39cf89012af1e4138c5be9?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/04cc838b56de610e76b0e1aa5babd5144e0dc910?source=rss"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "asthma",
-          "keyword": "喘息",
+          "name": "influenza",
+          "keyword": "インフルエンザ",
+          "related_drugs": [
+            {
+              "slug": "oseltamivir",
+              "name": "タミフルドライシロップ３％（選）"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "かぜ",
           "related_drugs": [
             {
               "slug": "theophylline",
               "name": "ユニコン錠１００　１００ｍｇ（選）"
             },
             {
-              "slug": "budesonide",
-              "name": "シムビコートタービュヘイラー６０吸入（選）"
+              "slug": "cetirizine",
+              "name": "ザイザルシロップ０．０５％（選）"
             },
             {
-              "slug": "montelukast",
-              "name": "シングレアＯＤ錠１０ｍｇ（選）"
+              "slug": "morphine",
+              "name": "モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」"
+            },
+            {
+              "slug": "loratadine",
+              "name": "クラリチン錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "chlorpheniramine",
+              "name": "セレスタミン配合錠（選）"
+            },
+            {
+              "slug": "dextromethorphan",
+              "name": "デキストロメトルファン臭化水素酸塩細粒１０％「ツルハラ」"
+            },
+            {
+              "slug": "acetaminophen",
+              "name": "トラムセット配合錠（選）"
+            },
+            {
+              "slug": "codeine",
+              "name": "ムコブロチン配合シロップ"
             }
           ]
         }
       ]
     },
     {
-      "id": "e4bf0ea36ee0",
-      "title": "大腸がんから奇跡の一軍復帰。元阪神・原口文仁が語る「誰かのために」という新たな使命(ヨガジャーナルオンライン)",
-      "published": "2026-07-13T12:05:00+00:00",
+      "id": "d5c88054eb72",
+      "title": "乳がんのTP53変異でCDK4/6阻害薬の治療期間短縮－横浜市大",
+      "published": "2026-07-14T00:10:00+00:00",
       "sources": [
         {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/cccd8984c36507b9e7b9b86f5751136eecb5988b?source=rss"
+          "name": "QLifePro",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBraURxTUN5ME9PT0JJWTRKb3lVR1A2a3J4Wl9DRUgxT2p6QmIzNHpTeFlxekJEYjBFcDhxQ200R1dIa1RtMHpvaVlmZWtPbmxMOG80SHpzNkVoRmM5SWFtb2pvcldrWUVQQlVkUXpB?oc=5"
         }
       ],
       "keywords": [
@@ -322,12 +353,36 @@
         },
         {
           "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸がん",
+          "name": "female breast carcinoma",
+          "keyword": "乳がん",
           "related_drugs": [
             {
-              "slug": "capecitabine",
-              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+              "slug": "atorvastatin",
+              "name": "アトーゼット配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "pravastatin",
+              "name": "メバロチン錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "simvastatin",
+              "name": "リポバス錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "rosuvastatin",
+              "name": "クレストールＯＤ錠５ｍｇ（選）"
+            },
+            {
+              "slug": "clopidogrel",
+              "name": "プラビックス錠７５ｍｇ（選）"
+            },
+            {
+              "slug": "warfarin",
+              "name": "ワルファリンＫ細粒０．２％「ＮＳ」"
+            },
+            {
+              "slug": "prasugrel",
+              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
             }
           ]
         }
@@ -769,13 +824,13 @@
       ]
     },
     {
-      "id": "16221e81f3c5",
-      "title": "「一家全滅」「死体を入れる棺桶すら底を突き…」日本人2400万人が感染したのに“忘れられた”奇病「スペインかぜ」の恐ろしさ - au Webポータル",
-      "published": "2026-07-12T01:20:00+00:00",
+      "id": "b46e0e671a2b",
+      "title": "「一家全滅」「死体を入れる棺桶すら底を突き…」日本人2400万人が感染したのに“忘れられた”奇病「スペインかぜ」の恐ろしさ",
+      "published": "2026-07-12T01:21:17+00:00",
       "sources": [
         {
-          "name": "au Webポータル",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5ajIyY1pLcDNOWVFiUTVJUjJtcVVMU3JVbVIxb09ucEVVcXZFNmZVRERJTG0xNmtqY21Eb0JISmwzdXFXX1I5cmdfamY1eVRLT3ItVENSX3ZJb1Y2RkpKTmZqYl9GRlYtd1YxX0s4QnNsMkpjMmlyZDdDcw?oc=5"
+          "name": "Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nNWpiRVFDblZjNFlrNG92ZTlUQmJIcUVQTEpqNzVTYXdZclNacmFHSzVMWXJRaEJ3WV9tMGtieFhsLWxiY0d4YTZJWnhuRjFGODFBMUplcUg1Tm13V0xYNE9FS0phMDAwa2xlazJVcmVRQ0ZBVF94NUcybG9BbmM?oc=5"
         }
       ],
       "keywords": [

@@ -1,63 +1,120 @@
 {
-  "last_updated": "2026-07-13T19:11:52.035836+00:00",
-  "total_count": 34,
+  "last_updated": "2026-07-14T01:27:07.446651+00:00",
+  "total_count": 43,
   "matched_count": 8,
   "news": [
     {
-      "id": "2ef99b822fbe",
-      "title": "デング熱が増加、ラムドン省の多くの地域が感染症予防対策に注力",
-      "published": "2026-07-13T12:30:08+00:00",
-      "summary": "デング熱が増加、ラムドン省の多くの地域が感染症予防対策に注力&nbsp;&nbsp;Laodong.vnデング熱：兆候と症状の見分け方、そして治療法。&nbsp;&nbsp;Vietnam.vn健康アドバイス：デング熱が流行期を迎えています。予防法は？&nbsp;&nbsp;Vietnam.vn",
+      "id": "55b06b0d65f0",
+      "title": "耐性菌流行下、生後2か月未満の重症百日咳患者を、ST合剤で治療～乳児を守る\"母体ワクチン\"の必要性を示唆",
+      "published": "2026-07-14T01:20:12+00:00",
+      "summary": "耐性菌流行下、生後2か月未満の重症百日咳患者を、ST合剤で治療～乳児を守る\"母体ワクチン\"の必要性を示唆&nbsp;&nbsp;国立成育医療研究センター",
       "sources": [
         {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLTZ3Szd2YUQyUGNrRzE5MmstSnV2cXo2eFVkaXAyTXk2ZHc4WkZQRXJONC05cElWeFU5cmJKczJNaGlydDk4VTlhQlFzamRpYjBWSWFMSnJRVnVwekZFU3Y1TjdZNlNlblo5Q3lVb2ZCZExreVgtLWptQUZMVHBJMDJuelBMWHdkQ0xUQUhMc0JIelV5LW9nWHZGcE5YS2Y0dmNXNWhYaVRreW13MWMybTZPVVd2bGxnTG1xcDlB?oc=5"
+          "name": "国立成育医療研究センター",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9SaTNkLXJPeGRKczNSZ3ZJVjNQTzVtTlBGYV9VOHFMNHhuT0w5cWxqSlE0MzdFSVdhTzdReTVTNUNPX1JnZUFmSTY4Tl93U3kxdWtOZGRGOA?oc=5"
         }
       ],
       "matched_keywords": []
     },
     {
-      "id": "041511c3e933",
-      "title": "せきや喘息のほか皮膚のかゆみにも効く「屋翳」。母乳の出をよくする効果も(家庭画報.com)",
-      "published": "2026-07-13T12:10:13+00:00",
-      "summary": "中医学のエキスパートである鍼灸師の兵頭 明先生が、ツボの効能や位置、効くメカニズムを解説します。健康の土台作りに、不調改善に、1日1分のツボ押しを習慣にしましょう。",
+      "id": "5cc4da3a9921",
+      "title": "インフルエンザの“正体”を世界で最初に突き止めたのは日本人だった…100年にわたり世界でスルーされてきた3人のドクターの偉業(文春オンライン)",
+      "published": "2026-07-14T01:00:37+00:00",
+      "summary": "〈《世界人口の4分の1が感染》スペインかぜの大流行は、なぜ忘れられたのか? ウイルスの脅威と“二つの世界大戦”の奇妙な関係〉 から続く 1918（大正7）年から1921（大正10）年にかけて、日",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/51a380e07a0efc611c39cf89012af1e4138c5be9?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/04cc838b56de610e76b0e1aa5babd5144e0dc910?source=rss"
         }
       ],
       "matched_keywords": [
         {
           "type": "indication",
-          "name": "asthma",
-          "keyword": "喘息",
+          "name": "influenza",
+          "keyword": "インフルエンザ",
+          "related_drugs": [
+            {
+              "slug": "oseltamivir",
+              "name": "タミフルドライシロップ３％（選）"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "かぜ",
           "related_drugs": [
             {
               "slug": "theophylline",
               "name": "ユニコン錠１００　１００ｍｇ（選）"
             },
             {
-              "slug": "budesonide",
-              "name": "シムビコートタービュヘイラー６０吸入（選）"
+              "slug": "cetirizine",
+              "name": "ザイザルシロップ０．０５％（選）"
             },
             {
-              "slug": "montelukast",
-              "name": "シングレアＯＤ錠１０ｍｇ（選）"
+              "slug": "morphine",
+              "name": "モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」"
+            },
+            {
+              "slug": "loratadine",
+              "name": "クラリチン錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "chlorpheniramine",
+              "name": "セレスタミン配合錠（選）"
+            },
+            {
+              "slug": "dextromethorphan",
+              "name": "デキストロメトルファン臭化水素酸塩細粒１０％「ツルハラ」"
+            },
+            {
+              "slug": "acetaminophen",
+              "name": "トラムセット配合錠（選）"
+            },
+            {
+              "slug": "codeine",
+              "name": "ムコブロチン配合シロップ"
             }
           ]
         }
       ]
     },
     {
-      "id": "e4bf0ea36ee0",
-      "title": "大腸がんから奇跡の一軍復帰。元阪神・原口文仁が語る「誰かのために」という新たな使命(ヨガジャーナルオンライン)",
-      "published": "2026-07-13T12:05:00+00:00",
-      "summary": "がんなどの病により、キャリアや夢が突然断たれることがあります。それでも、自らの足で再び歩みはじめたアスリートたちがいます。本連載では、病を経験しながら競技人生に向き合った彼らの言葉を通じて、「病ととも",
+      "id": "d48754064911",
+      "title": "子どもの肌に“白いプツプツ”　「水いぼ」は放置すると“危険な場合”も【皮膚科専門医・監修】(オトナンサー)",
+      "published": "2026-07-14T00:15:00+00:00",
+      "summary": "子どもの幼稚園や学校で「プールが始まる前に水いぼを治しておいてください」と言われ、慌てて皮膚科を受診するという家庭は少なくありません。「水いぼ」は子どもに多いウイルス性の皮膚感染症で、放置していても",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/cccd8984c36507b9e7b9b86f5751136eecb5988b?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/1f0daa5031fa2d6806e4b80a63fc765c0f8e0d45?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "d7e3c43ae8ac",
+      "title": "母の失明、大震災、両親と夫の死…壮絶半生の女性を甲子園でもてなしたにしたん社長「絶対幸せになって」(ENCOUNT)",
+      "published": "2026-07-14T00:10:47+00:00",
+      "summary": "にしたんクリニックなどを運営するエクスコムグローバルの西村誠司社長が13日、TikTokの動画を更新し、幼少期から不幸を重ねてきた女性と家族を兵庫・甲子園球場のロイヤルスイートに招待し、阪神戦を観戦",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/68d82ddc8e54e8d0a965091288cc7029b1162885?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "d5c88054eb72",
+      "title": "乳がんのTP53変異でCDK4/6阻害薬の治療期間短縮－横浜市大",
+      "published": "2026-07-14T00:10:00+00:00",
+      "summary": "乳がんのTP53変異でCDK4/6阻害薬の治療期間短縮－横浜市大&nbsp;&nbsp;QLifePro",
+      "sources": [
+        {
+          "name": "QLifePro",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBraURxTUN5ME9PT0JJWTRKb3lVR1A2a3J4Wl9DRUgxT2p6QmIzNHpTeFlxekJEYjBFcDhxQ200R1dIa1RtMHpvaVlmZWtPbmxMOG80SHpzNkVoRmM5SWFtb2pvcldrWUVQQlVkUXpB?oc=5"
         }
       ],
       "matched_keywords": [
@@ -338,26 +395,167 @@
         },
         {
           "type": "indication",
-          "name": "colonic neoplasm",
-          "keyword": "大腸がん",
+          "name": "female breast carcinoma",
+          "keyword": "乳がん",
           "related_drugs": [
             {
-              "slug": "capecitabine",
-              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+              "slug": "atorvastatin",
+              "name": "アトーゼット配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "pravastatin",
+              "name": "メバロチン錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "simvastatin",
+              "name": "リポバス錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "rosuvastatin",
+              "name": "クレストールＯＤ錠５ｍｇ（選）"
+            },
+            {
+              "slug": "clopidogrel",
+              "name": "プラビックス錠７５ｍｇ（選）"
+            },
+            {
+              "slug": "warfarin",
+              "name": "ワルファリンＫ細粒０．２％「ＮＳ」"
+            },
+            {
+              "slug": "prasugrel",
+              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
             }
           ]
         }
       ]
     },
     {
-      "id": "d3818e7e5a3d",
-      "title": "50代以降の女性は必見！69歳米専門家が伝授する「二の腕を引き締める」2つの簡単エクササイズ(ウィメンズヘルス)",
-      "published": "2026-07-13T12:00:57+00:00",
-      "summary": "年齢を重ねても、引き締まった健康的な体をキープすることは十分に可能だ。それを体現しているのが、現在69歳のフィットネスプロ、デニス・オースティンである。彼女は、手軽にできるピラティスや親子でのコア（体",
+      "id": "68b75c4ca0e6",
+      "title": "トマトジュース、なぜ人気？　カゴメ4年連続過去最高、“昭和の健康飲料”が令和に再評価された背景(オリコン)",
+      "published": "2026-07-14T00:10:00+00:00",
+      "summary": "トマトジュースが売れている。国内シェア首位の「カゴメトマトジュース」は、2025年の出荷量が前年比約116％となり、4年連続で過去最高を更新した。かつては「青臭い」「飲みにくい」といった印象を持たれ",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/351e6699dfd373d71edfec16b90d0767cc2add90?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/137c27701c8b275ef47e855ff3fed942eb376185?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "93ac329f552f",
+      "title": "「全部お任せできる歯医者はヤバい」現役歯科医が明かす治療サブスクの罠",
+      "published": "2026-07-14T00:08:26+00:00",
+      "summary": "「全部お任せできる歯医者はヤバい」現役歯科医が明かす治療サブスクの罠&nbsp;&nbsp;ライブドアニュース",
+      "sources": [
+        {
+          "name": "ライブドアニュース",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9aZ1lCMWZQQmdENV9lb1ZrenVybTVsYkVPUXdNZzNRT01VejA2RGRUeVlISFdKV1V1V2t0R1pPcTJ0X2owc2NWa2pqd2dCX0dMMGJVdTJqcU9Ienl4R3c?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "746740e09367",
+      "title": "患者が救えない病院!?医療知識ゼロなのに医療漫画を描いたらブラックな病院に！「こんな病院、絶対イヤ」と読者総ツッコミ【作者に聞く】(ウォーカープラス)",
+      "published": "2026-07-14T00:00:00+00:00",
+      "summary": "ウェブ漫画の盛り上がりは衰えず、さまざまな作品が話題を呼んでいる。津夏なつな(@tunatu727)さんがシリーズとして展開している「医療知識ゼロの人が描いた本格医療マンガ」もそうした漫画の1つだ。作",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/6d9254c820bc83d997e75565465b6bbabbe85dc1?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "7a2dcade2222",
+      "title": "「数年前に飲んだ抗生物質」が腸に悪影響？ 最新研究でわかった“長期ダメージ”と回復法(女子SPA！)",
+      "published": "2026-07-13T23:46:59+00:00",
+      "summary": "突然ですが、体調を崩した時などに「抗生物質」を飲むことはありませんか？ もちろん必要な時はありますが、なんとなくで服用することはあまりおすすめできないんです。",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/d4242c93106a2065f9d231ac350a68573fd5246f?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "45d58646ae4f",
+      "title": "京都の「鴨川」で目撃した珍しい生き物　かわいいが「侵略的外来生物」だった…(LIMO)",
+      "published": "2026-07-13T23:25:48+00:00",
+      "summary": "「京都府の鴨川で発見した珍しい生き物」が、X上で話題になっています。 投稿したのは、Xユーザーの「@3124km2apmxa」さんです。 当ポストは執筆時点で6万件を超えて表示されるなど大きな話題",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/b59a61ae18f7a6e91f83602517401566c0abf36f?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "1bc4d09dc11c",
+      "title": "熱が血管をボロボロにし水分補給が効かない…熱中症が重症化する人の体内で起きている異変(プレジデントオンライン)",
+      "published": "2026-07-13T23:15:41+00:00",
+      "summary": "こまめに水分を摂っていても熱中症で倒れる人がいるのはなぜか。長年、熱中症研究を続けてきた東洋大学教授の加藤和則さんは「重症化のカギを握るのは血管の最も内側を覆う血管内皮細胞で、熱はこの細胞を内側から壊",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/7c08ff25f14497cce54ef58592024ab746fd8ab9?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "a16dac1f54f5",
+      "title": "数回の練習が数千回分の効果にも──物事の上達スピードを決めるのは練習量より「報酬の大きさ」　マウス実験がScience誌掲載(ITmedia NEWS)",
+      "published": "2026-07-13T22:05:08+00:00",
+      "summary": "2019年にスタートした本連載「Innovative Tech」は、世界中の幅広い分野から最先端の研究論文を独自視点で厳選、解説する。執筆は研究論文メディア「Seamless」（シームレス）を主宰し、",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/4031fa6fed2d34cbccec6abc4646847684987f91?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "375387db1ce4",
+      "title": "夏の外出前に確認を ロサンゼルス郡で今年初のウェストナイルウイルス感染者を確認 蚊を介して感染 日本人コミュニティーも注意を（7/13） - LALALA USA",
+      "published": "2026-07-13T20:32:15+00:00",
+      "summary": "夏の外出前に確認を ロサンゼルス郡で今年初のウェストナイルウイルス感染者を確認 蚊を介して感染 日本人コミュニティーも注意を（7/13）&nbsp;&nbsp;LALALA USA",
+      "sources": [
+        {
+          "name": "LALALA USA",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0xNmpKaFBMVFNDSTRYRVFoeU9Oa2V2ZTdubWt6aDV1bWE1ZVpKV1Rqakw1U0lCZW16MDJ2eEpnNldLUVE5VHg1RGJwMXY?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "89c6297d4715",
+      "title": "CKM症候群の初期進行でも死亡リスク上昇と関連｜CareNet.com",
+      "published": "2026-07-13T19:00:00+00:00",
+      "summary": "CKM症候群の初期進行でも死亡リスク上昇と関連｜CareNet.com&nbsp;&nbsp;CareNet.com",
+      "sources": [
+        {
+          "name": "CareNet.com",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE02UzQyMWxQQ1NZRmRNSGh0RENaaVlsbndxZktqMEptNGhla2lVYWFLYWJXVmtTdmVQcVJ6OGZTY2RnWjRKX1pNd2JDeGlEVmN4czFUdWVaOFF2bXA0a1ZJ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "2ef99b822fbe",
+      "title": "デング熱が増加、ラムドン省の多くの地域が感染症予防対策に注力",
+      "published": "2026-07-13T12:30:08+00:00",
+      "summary": "デング熱が増加、ラムドン省の多くの地域が感染症予防対策に注力&nbsp;&nbsp;Laodong.vnデング熱：兆候と症状の見分け方、そして治療法。&nbsp;&nbsp;Vietnam.vn健康アドバイス：デング熱が流行期を迎えています。予防法は？&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLTZ3Szd2YUQyUGNrRzE5MmstSnV2cXo2eFVkaXAyTXk2ZHc4WkZQRXJONC05cElWeFU5cmJKczJNaGlydDk4VTlhQlFzamRpYjBWSWFMSnJRVnVwekZFU3Y1TjdZNlNlblo5Q3lVb2ZCZExreVgtLWptQUZMVHBJMDJuelBMWHdkQ0xUQUhMc0JIelV5LW9nWHZGcE5YS2Y0dmNXNWhYaVRreW13MWMybTZPVVd2bGxnTG1xcDlB?oc=5"
         }
       ],
       "matched_keywords": []
@@ -880,14 +1078,14 @@
       ]
     },
     {
-      "id": "16221e81f3c5",
-      "title": "「一家全滅」「死体を入れる棺桶すら底を突き…」日本人2400万人が感染したのに“忘れられた”奇病「スペインかぜ」の恐ろしさ - au Webポータル",
-      "published": "2026-07-12T01:20:00+00:00",
-      "summary": "「一家全滅」「死体を入れる棺桶すら底を突き…」日本人2400万人が感染したのに“忘れられた”奇病「スペインかぜ」の恐ろしさ&nbsp;&nbsp;au WebポータルGoogle ニュースで見出しと意見をもっと見る",
+      "id": "b46e0e671a2b",
+      "title": "「一家全滅」「死体を入れる棺桶すら底を突き…」日本人2400万人が感染したのに“忘れられた”奇病「スペインかぜ」の恐ろしさ",
+      "published": "2026-07-12T01:21:17+00:00",
+      "summary": "「一家全滅」「死体を入れる棺桶すら底を突き…」日本人2400万人が感染したのに“忘れられた”奇病「スペインかぜ」の恐ろしさ&nbsp;&nbsp;Yahoo!ニュースGoogle ニュースで見出しと意見をもっと見る",
       "sources": [
         {
-          "name": "au Webポータル",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5ajIyY1pLcDNOWVFiUTVJUjJtcVVMU3JVbVIxb09ucEVVcXZFNmZVRERJTG0xNmtqY21Eb0JISmwzdXFXX1I5cmdfamY1eVRLT3ItVENSX3ZJb1Y2RkpKTmZqYl9GRlYtd1YxX0s4QnNsMkpjMmlyZDdDcw?oc=5"
+          "name": "Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nNWpiRVFDblZjNFlrNG92ZTlUQmJIcUVQTEpqNzVTYXdZclNacmFHSzVMWXJRaEJ3WV9tMGtieFhsLWxiY0d4YTZJWnhuRjFGODFBMUplcUg1Tm13V0xYNE9FS0phMDAwa2xlazJVcmVRQ0ZBVF94NUcybG9BbmM?oc=5"
         }
       ],
       "matched_keywords": [
@@ -1176,32 +1374,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "95e77ed7a452",
-      "title": "ispaceがスターシップを活用した新たな月面輸送サービスを発表　早ければ2030年にも月面へ(sorae 宇宙へのポータルサイト)",
-      "published": "2026-07-09T07:56:03+00:00",
-      "summary": "日本の民間宇宙企業ispaceは2026年7月8日、アメリカの宇宙企業SpaceX（スペースX）が開発を進めている再使用型ロケット「Starship（スターシップ）」のペイロード（搭載物）搭載枠を確保",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/085448da72bf6b8fc8a245b161aa768c34ccc1f8?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "ce0c6157c9a8",
-      "title": "夏でも起こるヒートショック　予防のポイントは「急激な温度変化をつくらない」(メ〜テレ（名古屋テレビ）)",
-      "published": "2026-07-09T07:36:02+00:00",
-      "summary": "猛暑が続くときに気を付けたいのが「夏のヒートショック」なんです。 ヒートショックというと、冬のお風呂場が頭に浮かびますが。夏でも起こりうるんです。一宮西病院総合救急部の瀬尾医師に聞きました。",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/53f4547e74a6b4ea9fb8ef756ab90e4525614297?source=rss"
-        }
-      ],
-      "matched_keywords": []
     }
   ]
 }
