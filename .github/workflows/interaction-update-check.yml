@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v6
+        uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6
 
       - name: 讀取版本記錄
         id: local
@@ -174,7 +174,7 @@ jobs:
 
       - name: 建立 Issue（如有更新）
         if: steps.pharmacology.outputs.needs_update == 'true' || steps.dfi.outputs.needs_update == 'true' || steps.ddi.outputs.needs_update == 'true'
-        uses: actions/github-script@v7
+        uses: actions/github-script@f28e40c7f34bde8b3046d885e986cb6290c5673b # v7
         with:
           script: |
             const updates = [];
