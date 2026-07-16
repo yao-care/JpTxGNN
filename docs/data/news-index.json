@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-16T07:55:09.655265+00:00",
-  "count": 11,
+  "generated": "2026-07-16T13:19:55.358748+00:00",
+  "count": 12,
   "news": [
     {
       "id": "eccf6acb73d1",
@@ -920,6 +920,34 @@
             {
               "slug": "tramadol",
               "name": "トラマールＯＤ錠５０ｍｇ（選）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "909d669ee3f6",
+      "title": "アルツハイマー病の原因、「銅を含む薬」で42％減少(ギズモード・ジャパン)",
+      "published": "2026-07-14T12:30:01+00:00",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/d8aa9bd8c6d24aae081800fb5ea32974810a7ca6?source=rss"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "認知症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
             }
           ]
         }
