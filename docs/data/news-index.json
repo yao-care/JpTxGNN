@@ -1,15 +1,63 @@
 {
-  "generated": "2026-07-16T18:55:31.309143+00:00",
-  "count": 11,
+  "generated": "2026-07-17T01:47:06.868471+00:00",
+  "count": 14,
   "news": [
     {
-      "id": "291e020a425a",
-      "title": "がんと診断された直後から予防的に行うリハビリがQOLの維持に役立つ【連載　QOLを高めるがんサポーティブケア】(家庭画報.com)",
-      "published": "2026-07-16T15:00:02+00:00",
+      "id": "48c6d5dc8e84",
+      "title": "ヒトiPS細胞を用いてヒト心不全モデルを試験管の中で再現糖尿病治療薬SGLT2阻害薬による新しい治療効果の機序を解明",
+      "published": "2026-07-17T01:00:00+00:00",
       "sources": [
         {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/0ee080daeb6368a626d48211b841b648c19db333?source=rss"
+          "name": "河北新報オンライン",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MZ1dxWS1LVEdTM2EyajBFVHhfMGlnekVGSmFQTjRsVGJsV2FLWk15TGt5OGgyNkRWT2FNY2ktMXA3NTFyQVFqQmFsTGZTVm5rTGN2cA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "heart failure",
+          "keyword": "心不全",
+          "related_drugs": [
+            {
+              "slug": "enalapril",
+              "name": "レニベース錠１０　１０ｍｇ（選）"
+            },
+            {
+              "slug": "latanoprost",
+              "name": "ザラカム配合点眼液（選）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "d62c92b64dbb",
+      "title": "抗精神病薬アリピプラゾールが腸内細菌酵素の活性を阻害－昭和医大",
+      "published": "2026-07-17T00:10:00+00:00",
+      "sources": [
+        {
+          "name": "QLifePro",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZUo2eWVUQkFDV1hZMHFBWWR0U216X3pqakhPUkstU256ZzFCalJkX2Vza2MxdUxvU2dSNEM3WVVDNHRrT21fZ0lIem1aQ2ozR19WNjJhdGlHZF8wTlR2Ym81QVZnY3lYOE1zZmd2bWhxalNvU0lYNUhZZkNzUnM3WnhnY2JKVFZuS0VacTJfSjVxb3NlUXZyaTlzeEtvN3ViZHNnOVdvR180dExlc2V3aWhfWDF0ektLMVE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "drug",
+          "slug": "aripiprazole",
+          "keyword": "アリピプラゾール",
+          "name": "アリピプラゾール１％散",
+          "url": "/drugs/aripiprazole/"
+        }
+      ]
+    },
+    {
+      "id": "4dfed840bf18",
+      "title": "便秘や下痢は大腸がんの危険因子なのか｜CareNet.com",
+      "published": "2026-07-16T19:00:00+00:00",
+      "sources": [
+        {
+          "name": "CareNet.com",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE55anpMeGxYU0hyMWlzOUgtUHl0VTlaMU1zbnk2V21Eb2Q5Zkh0RWNROFdCTlBYdTZseTRyTF9WMDFfSUstd2g5OUJIWHgtNFp1Zk1TaURXaXZuTXVBMWJF?oc=5"
         }
       ],
       "keywords": [
@@ -285,6 +333,45 @@
             {
               "slug": "levetiracetam",
               "name": "レベチラセタム粒状錠５００ｍｇ「サワイ」"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸がん",
+          "related_drugs": [
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bcc302e51222",
+      "title": "超高齢化・HFpEF急増時代における心不全診療――最新ガイドラインと大規模データが示す「個別化医療」【中編】",
+      "published": "2026-07-16T15:00:00+00:00",
+      "sources": [
+        {
+          "name": "m3.com",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aSmV1V2V0WWNCdGdmRHRFUXJTT3dDbUVRQ2hBQ2hQVHYxa19YTFkwNzExOEZIbGk4QzFJWmJnN3Q0Z1htUk1LNy04MXlJRFl4Z0E?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "heart failure",
+          "keyword": "心不全",
+          "related_drugs": [
+            {
+              "slug": "enalapril",
+              "name": "レニベース錠１０　１０ｍｇ（選）"
+            },
+            {
+              "slug": "latanoprost",
+              "name": "ザラカム配合点眼液（選）"
             }
           ]
         }
