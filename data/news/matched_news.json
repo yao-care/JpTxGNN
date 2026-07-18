@@ -1,17 +1,332 @@
 {
-  "last_updated": "2026-07-18T12:51:54.705395+00:00",
-  "total_count": 49,
+  "last_updated": "2026-07-18T18:45:55.341035+00:00",
+  "total_count": 48,
   "matched_count": 16,
   "news": [
     {
-      "id": "582abae55a88",
-      "title": "「下髎」は便秘、排尿トラブル、月経不順、PMSなど下腹部の不調に奏効するツボ(家庭画報.com)",
-      "published": "2026-07-18T12:30:02+00:00",
-      "summary": "中医学のエキスパートである鍼灸師の兵頭 明先生が、ツボの効能や位置、効くメカニズムを解説します。健康の土台作りに、不調改善に、1日1分のツボ押しを習慣にしましょう。",
+      "id": "e91c96c8dab6",
+      "title": "今、運動療法が世界中で注目。再発予防に高い効果を示し「第4のがん治療の柱」へ【連載　QOLを高めるがんサポーティブケア】(家庭画報.com)",
+      "published": "2026-07-18T15:00:01+00:00",
+      "summary": "近年、がん医療の現場でもリハビリの意義が認められるようになりました。合併症や後遺症が出てからの対応ではなく、治療前から行う予防的リハビリに重点が置かれています。ベースとなる運動療法の新たな効果も判明し",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/8accd0ca2b5c8841b7dd43f57c18fc7a22a0bfbe?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/9acfe1a5869c9b0625edc3b384b775cccf3b48cd?source=rss"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "acyclovir",
+              "name": "ゾビラックス軟膏５％（選）"
+            },
+            {
+              "slug": "theophylline",
+              "name": "ユニコン錠１００　１００ｍｇ（選）"
+            },
+            {
+              "slug": "risperidone",
+              "name": "リスパダール錠２ｍｇ（選）"
+            },
+            {
+              "slug": "valproic-acid",
+              "name": "セレニカＲ顆粒４０％（選）"
+            },
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "atorvastatin",
+              "name": "アトーゼット配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "cyclosporine",
+              "name": "ネオーラル５０ｍｇカプセル（選）"
+            },
+            {
+              "slug": "azithromycin",
+              "name": "ジスロマック細粒小児用１０％　１００ｍｇ（選）"
+            },
+            {
+              "slug": "valsartan",
+              "name": "ディオバンＯＤ錠１６０ｍｇ（選）"
+            },
+            {
+              "slug": "carbamazepine",
+              "name": "テグレトール錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "morphine",
+              "name": "モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」"
+            },
+            {
+              "slug": "pravastatin",
+              "name": "メバロチン錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "atenolol",
+              "name": "テノーミン錠５０　５０ｍｇ（選）"
+            },
+            {
+              "slug": "loperamide",
+              "name": "ロペミンカプセル１ｍｇ（選）"
+            },
+            {
+              "slug": "simvastatin",
+              "name": "リポバス錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "carvedilol",
+              "name": "アーチスト錠２０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "diazepam",
+              "name": "ホリゾン錠５ｍｇ（選）"
+            },
+            {
+              "slug": "lorazepam",
+              "name": "ワイパックス錠１．０　１ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "spironolactone",
+              "name": "アルダクトンＡ錠５０ｍｇ（選）"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "ロプレソール錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "enalapril",
+              "name": "レニベース錠１０　１０ｍｇ（選）"
+            },
+            {
+              "slug": "lisinopril",
+              "name": "ロンゲス錠２０ｍｇ（選）"
+            },
+            {
+              "slug": "diltiazem",
+              "name": "ヘルベッサー錠６０　６０ｍｇ（選）"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "エックスフォージ配合ＯＤ錠（選）"
+            },
+            {
+              "slug": "clarithromycin",
+              "name": "クラリス錠５０小児用　５０ｍｇ（選）"
+            },
+            {
+              "slug": "furosemide",
+              "name": "ラシックス錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "lidocaine",
+              "name": "リドカイン（１８ｍｇ）３０．５ｍｍ×５０．０ｍｍ貼付剤"
+            },
+            {
+              "slug": "bisoprolol",
+              "name": "メインテート錠５ｍｇ（選）"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "ミカムロ配合錠ＢＰ（選）"
+            },
+            {
+              "slug": "rosuvastatin",
+              "name": "クレストールＯＤ錠５ｍｇ（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "clopidogrel",
+              "name": "プラビックス錠７５ｍｇ（選）"
+            },
+            {
+              "slug": "sertraline",
+              "name": "ジェイゾロフトＯＤ錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "timolol",
+              "name": "デュオトラバ配合点眼液（選）"
+            },
+            {
+              "slug": "diclofenac",
+              "name": "ボルタレンサポ５０ｍｇ（選）"
+            },
+            {
+              "slug": "budesonide",
+              "name": "シムビコートタービュヘイラー６０吸入（選）"
+            },
+            {
+              "slug": "moxifloxacin",
+              "name": "ベガモックス点眼液０．５％（選）"
+            },
+            {
+              "slug": "verapamil",
+              "name": "ワソラン錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "levofloxacin",
+              "name": "クラビット点眼液１．５％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "celecoxib",
+              "name": "セレコックス錠２００ｍｇ（選）"
+            },
+            {
+              "slug": "ezetimibe",
+              "name": "ゼチーア錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "topiramate",
+              "name": "トピナ錠２５ｍｇ（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "montelukast",
+              "name": "シングレアＯＤ錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "lamotrigine",
+              "name": "ラミクタール錠２５ｍｇ（選）"
+            },
+            {
+              "slug": "hydrochlorothiazide",
+              "name": "プレミネント配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "losartan",
+              "name": "ニューロタン錠５０ｍｇ（選）"
+            },
+            {
+              "slug": "latanoprost",
+              "name": "ザラカム配合点眼液（選）"
+            },
+            {
+              "slug": "clotrimazole",
+              "name": "エンペシドクリーム１％（選）"
+            },
+            {
+              "slug": "amoxicillin",
+              "name": "ワイドシリン細粒２０％　２００ｍｇ"
+            },
+            {
+              "slug": "ampicillin",
+              "name": "ビクシリンＳ配合錠　（２５０ｍｇ）"
+            },
+            {
+              "slug": "lamivudine",
+              "name": "エプジコム配合錠（選）"
+            },
+            {
+              "slug": "warfarin",
+              "name": "ワルファリンＫ細粒０．２％「ＮＳ」"
+            },
+            {
+              "slug": "fenofibrate",
+              "name": "トライコア錠８０ｍｇ（選）"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            },
+            {
+              "slug": "prasugrel",
+              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
+            },
+            {
+              "slug": "tramadol",
+              "name": "トラマールＯＤ錠５０ｍｇ（選）"
+            },
+            {
+              "slug": "metronidazole",
+              "name": "メトロニダゾールゲル０．７５％「マルイシ」"
+            },
+            {
+              "slug": "lactulose",
+              "name": "ラグノスＮＦ経口ゼリー分包１２ｇ　５４．１６７％"
+            },
+            {
+              "slug": "levetiracetam",
+              "name": "レベチラセタム粒状錠５００ｍｇ「サワイ」"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "f6f812ba8917",
+      "title": "看病で忘れてた結婚記念日…… 両親に3兄弟が買ってきた〝少し溶けたケーキ〟に涙「なんて良い子たち」「これは泣く」(西日本新聞me)",
+      "published": "2026-07-18T14:30:27+00:00",
+      "summary": "末っ子の発熱で、病院と看病に追われた結婚記念日。毎年用意していたケーキをすっかり忘れていた両親のもとに、3人の兄弟から思わぬプレゼントが届いた。（me話題班） 投稿したのは、男児4兄弟の日常を発",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/36718fc6f27e74fb9fbbded7e4481b19be8d7985?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "c16f59ff17ba",
+      "title": "「110円でいいの？」キャンドゥで〈シルバニアのメリーゴーランドっぽい乗り物〉を発見→「ペガサス！」「ロココ調」(LIMO)",
+      "published": "2026-07-18T13:31:23+00:00",
+      "summary": "大人も子どもも熱中をしているシルバニアファミリーですが、家具といった小物が高価な傾向にあります。 おしゃれな家具をプチプラで購入したいとお考えの方も多いのではないでしょうか？ そんな悩みに応えてく",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/a7a96d1efd8ef9ddb0c6348e4f90e18d2b11b09d?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "f4dc7592b614",
+      "title": "「ユニクロ」の“長袖なのに涼しい”大人シャツを発見。恐るべし、天然素材の実力！／UNIQLO プレミアムリネンシャツ(MEN’S NON-NO WEB)",
+      "published": "2026-07-18T13:00:48+00:00",
+      "summary": "ヨーロッパで栽培された亜麻を100%使用していて、肌離れの良い清涼感のある肌触りが魅力。不均一なリネンの繊維を手作業で丁寧に取り除きながら仕上げた表面は、なめらかで微光沢もあり上品なルックスに。天然素",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/600e5fe36bbe06cc91428f4795cea4c7d373c118?source=rss"
         }
       ],
       "matched_keywords": []
@@ -25,19 +340,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/72f1aa6c47dff704d962b4aac46b5c8f40f3cc4c?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "fffe14eaac44",
-      "title": "労働者は麻薬対策、婦人科疾患に関する多くの優れた知識を習得",
-      "published": "2026-07-18T08:20:49+00:00",
-      "summary": "労働者は麻薬対策、婦人科疾患に関する多くの優れた知識を習得&nbsp;&nbsp;Laodong.vn",
-      "sources": [
-        {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMXBLUkR3SkV0c1lzbG5pR0dGdVFxajY0bS1hX0NpR0kyT2t5X1dIQ3FZVGNvdjFIYk95VlFhV2QxbTMzU1pzMWlMRGJRb3BIbUJpYkhQcUNXQnYwWHdCVmdJaVFpNF9nbElVNjh3UE9fY2JXSWhFandkRzdKRlJ3aExLOGF3VnJZNVBfekNoMlRGWEptTGZXTzdmR3VuQ3RILXRGTUxwZEhKTnQ3TnBPQXNFekVsMktRVVVCQQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -59,7 +361,7 @@
       "id": "1e6fe7dfafb9",
       "title": "デング熱の症例を発見、ハティン省のコミューンが感染症予防に注力",
       "published": "2026-07-18T03:37:14+00:00",
-      "summary": "デング熱の症例を発見、ハティン省のコミューンが感染症予防に注力&nbsp;&nbsp;Laodong.vn雨季や嵐の季節には、疾病予防と管理のために「4つの即時対応」アプローチを積極的に実施する。&nbsp;&nbsp;Vietnam.vnデング熱を軽視しないでください、その感染のリスクは年間を通して発生する可能性があります&nbsp;&nbsp;VOI.id",
+      "summary": "デング熱の症例を発見、ハティン省のコミューンが感染症予防に注力&nbsp;&nbsp;Laodong.vnデング熱：予測不可能で、広範囲に及び、より複雑な病気。&nbsp;&nbsp;Vietnam.vnデング熱を軽視しないでください、その感染のリスクは年間を通して発生する可能性があります&nbsp;&nbsp;VOI.id",
       "sources": [
         {
           "name": "Laodong.vn",
@@ -995,19 +1297,6 @@
       ]
     },
     {
-      "id": "dbfc321994ad",
-      "title": "多くの糖尿病患者が毎日繰り返している間違い",
-      "published": "2026-07-18T01:04:55+00:00",
-      "summary": "多くの糖尿病患者が毎日繰り返している間違い&nbsp;&nbsp;Laodong.vn「朝食抜き」だけじゃなかった⋯【医師が警告！】やってはいけない「2つの不健康習慣」（文春オンライン）&nbsp;&nbsp;Yahoo!ニュース「朝食抜き」だけじゃなかった⋯【医師が警告！】やってはいけない「2つの不健康習慣」&nbsp;&nbsp;文春オンライン",
-      "sources": [
-        {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVU94QlpFVjZFc2xpOUgyZGVPUlhnM3ZibmZ0YmU2YVByWHExTm0taXROcHFHS2lXeE1vWTFNUUo2ckpPRnhaZkNObTRGNGpwNEo3Qi1ucWVYVkJ2d0dRcUJTLXViTFI3QzZqSG5DRk83UHJnVGV5UjFLWW0yT3FDNFNQbnk1UTB1aHZ5WDEwS0dFcXJWb0ZQNGRwQ0hEbWpOZVhKSzRVbXRiUQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "ec294be75f09",
       "title": "小学生が河原で拾った石、実は半世紀ぶり発見の希少構造持つ石だった　東大・早大の研究者と論文の共著者に(withnews by 朝日新聞)",
       "published": "2026-07-17T22:00:00+00:00",
@@ -1850,48 +2139,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "bcc302e51222",
-      "title": "超高齢化・HFpEF急増時代における心不全診療――最新ガイドラインと大規模データが示す「個別化医療」【中編】",
-      "published": "2026-07-16T15:00:00+00:00",
-      "summary": "超高齢化・HFpEF急増時代における心不全診療――最新ガイドラインと大規模データが示す「個別化医療」【中編】&nbsp;&nbsp;m3.com",
-      "sources": [
-        {
-          "name": "m3.com",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aSmV1V2V0WWNCdGdmRHRFUXJTT3dDbUVRQ2hBQ2hQVHYxa19YTFkwNzExOEZIbGk4QzFJWmJnN3Q0Z1htUk1LNy04MXlJRFl4Z0E?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "heart failure",
-          "keyword": "心不全",
-          "related_drugs": [
-            {
-              "slug": "enalapril",
-              "name": "レニベース錠１０　１０ｍｇ（選）"
-            },
-            {
-              "slug": "latanoprost",
-              "name": "ザラカム配合点眼液（選）"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "302efdb1e094",
-      "title": "約200万人が感染する「肝炎ウイルス」 半数以上は未受診",
-      "published": "2026-07-16T15:00:00+00:00",
-      "summary": "約200万人が感染する「肝炎ウイルス」 半数以上は未受診&nbsp;&nbsp;日経Gooday約200万人が感染する「肝炎ウイルス」 半数以上は未受診：専門医に聞く 気になる治療の今：日経Gooday（グッデイ）&nbsp;&nbsp;日経Gooday",
-      "sources": [
-        {
-          "name": "日経Gooday",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU1FuUXdrTTlWeXVYUmk3SDVEd29VZFdVd2t6eEtkWEJMYW5XOTR4WnluWTByUC1SUGVmcGFOSFdFZWhaSnhmUDcyODBoTHo0emlIa3FrU0NKYVVjOGlLOWJYaW5xbGRMYjlKTEVzajk4VWVjbjVtTm85YmhGN0o3S2tobTlxQjNqZ3ZIb0YtX0tleGN6?oc=5"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "5c08f0441493",
