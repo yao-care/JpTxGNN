@@ -1,79 +1,91 @@
 {
   "source": "japan_news",
-  "fetched_at": "2026-07-19T07:58:43.716692+00:00",
-  "total_fetched": 113,
-  "unique_count": 113,
-  "health_related_count": 41,
+  "fetched_at": "2026-07-19T12:54:09.760402+00:00",
+  "total_fetched": 110,
+  "unique_count": 110,
+  "health_related_count": 38,
   "news": [
     {
-      "id": "56864bb3a538",
-      "title": "【行動遺伝子学】相次ぐ悲惨な少年犯罪…でも「親が子の“心の闇”を見抜くのは難しい」(GOETHE)",
-      "published": "2026-07-19T07:30:23+00:00",
-      "summary": "若者の凶悪犯罪が増えている。その原因を養育環境に求める声もあるが、安藤氏によれば、犯罪にも遺伝が関係しているという。我が子にその傾向がある場合、親はどう対処すべきか。行動遺伝学者、安藤寿康氏連載最終回",
+      "id": "f097d0f3a5e7",
+      "title": "「夜型のほうが知的で創造的」という研究結果(ライフハッカー・ジャパン)",
+      "published": "2026-07-19T12:41:02+00:00",
+      "summary": "職場の多くは今も、9時から5時までを勤務時間としていますが、すべての人の頭がその時間帯で働くとは限らないのです。それどころか、世界有数のクリエイティブな人は得てして、終業時間のあとになってから本領を発",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/5d0be829edc707b3a9c2fd41672e7d28697ec03b?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/095a549e067528ba32066c7cf2b63735235fd27e?source=rss"
         }
       ]
     },
     {
-      "id": "9a316480a182",
-      "title": "大原千鶴さん流、旬のトマトで「京のおばんざい風」レシピ。暑い日もさっぱり絶品(ESSE-online)",
-      "published": "2026-07-19T07:00:35+00:00",
-      "summary": "京都在住の料理研究家で、雑誌や書籍、テレビなどで活躍中の大原千鶴さん。食材のよさを生かしながら、手間をかけすぎずおいしく味わうレシピを教えていただきます。今回ご紹介するのは、暑い日もさっぱり食べられる",
+      "id": "7e951bf4f0fd",
+      "title": "ブロッコリーの20倍以上！「食べる美容液」と言われる100円の抗酸化フード(GISELe)",
+      "published": "2026-07-19T12:34:00+00:00",
+      "summary": "たったの約100円-200円、食べ続ければ－5歳も夢じゃない？ そんな注目を集めている魔法のような食材をご紹介。 （本記事では、成分や一般的な活用法について紹介しています。効果の感じ方には個人差があり",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/b6949adede79707a257266f005e387720c72f1bc?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/16d40303b1afbbb1651648536bb0c7fc71f36763?source=rss"
         }
       ]
     },
     {
-      "id": "fa0b6a609ece",
-      "title": "《健康診断は本当に必要なのか？》“基準が厳しすぎ”で全項目「異常なし」はたったの5.6％ 健康な人でも「異常あり」と判定されるケースが少なくない現実 (1/1) - 女性セブンプラス",
-      "published": "2026-07-19T07:00:00+00:00",
-      "summary": "《健康診断は本当に必要なのか？》“基準が厳しすぎ”で全項目「異常なし」はたったの5.6％ 健康な人でも「異常あり」と判定されるケースが少なくない現実 (1/1)&nbsp;&nbsp;女性セブンプラス",
+      "id": "13785ef4c521",
+      "title": "超新星爆発の過酷な環境でも有機分子は生き残る？　アルマ望遠鏡が超新星残骸で“星のゆりかご”を初発見(sorae 宇宙へのポータルサイト)",
+      "published": "2026-07-19T12:31:19+00:00",
+      "summary": "宇宙空間における生命の材料は、私たちが想像する以上にタフなのかもしれません。新潟大学の下西隆准教授を筆頭とする研究チームは、アルマ望遠鏡（ALMA）を用いた観測の結果、生まれたばかりの星を包む「ホット",
       "sources": [
         {
-          "name": "女性セブンプラス",
-          "link": "https://news.google.com/rss/articles/CBMiOEFVX3lxTFB3WndRbEZfZ0NjdHVCRGVzaVRSNUdiR293UXVPRHNCWXpodWNHT1JfdHRNNWZFeE1I?oc=5"
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/738ac2ded302878a6141085210103b217273f77d?source=rss"
         }
       ]
     },
     {
-      "id": "57ef473ed152",
-      "title": "《健康診断は本当に必要なのか？》“基準が厳しすぎ”で全項目「異常なし」はたったの5.6％　健康な人でも「異常あり」と判定されるケースが少なくない現実(女性セブンプラス)",
-      "published": "2026-07-19T07:00:00+00:00",
-      "summary": "「念のために」「お医者さんにすすめられたから」と安易に検査や治療を受け、薬をのみ続ける──。しかし、医療を受ければ受けるほど健康になるというものではない。「過剰診断・過剰治療」が、かえって寿命を縮める",
+      "id": "5f4911886845",
+      "title": "熱中症の恐怖「なんか頭がボーっとする」「手もしびれてきた…」配達員を救ったのは配達先でいただいたトマトとキュウリ？【作者に聞く】(ウォーカープラス)",
+      "published": "2026-07-19T12:30:00+00:00",
+      "summary": "配達中に頭がボーっとするなどの症状が出た配達員。配達先でもらった差し入れを食べたら一気に回復したという、ゆきたこーすけ(@kosukeyukita)さんの漫画『運び屋ゆきたの漫画な日常』を紹介するとと",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/ff7aeabc6a54d337e21fe20863fc897a675684da?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/222d27be156a9a4084b6848eb41acb9f7cdda1a5?source=rss"
         }
       ]
     },
     {
-      "id": "9283688cfc85",
-      "title": "アルコール57度の力強さ、世界最高峰ネイビーストレングスジン3選(Forbes JAPAN)",
-      "published": "2026-07-19T07:00:00+00:00",
-      "summary": "もともと英国海軍向けに開発されたネイビーストレングス・ジンは、愛好家やバーテンダーの間で急成長するプレミアムカテゴリーの1つとなっている。最低アルコール度数（ABV）57％で瓶詰めされるこの度数は、こ",
+      "id": "e3e769db17b7",
+      "title": "鼻づまり、アレルギー性鼻炎の改善のほか、ショック状態から回復させる働きも(家庭画報.com)",
+      "published": "2026-07-19T12:20:01+00:00",
+      "summary": "中医学のエキスパートである鍼灸師の兵頭 明先生が、ツボの効能や位置、効くメカニズムを解説します。健康の土台作りに、不調改善に、1日1分のツボ押しを習慣にしましょう。",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/927533945cdc2eaa7b726f9702ba34c2cc9dffe6?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/be3197df40549e6ca8c88f7ad5922f8c9974ca3e?source=rss"
         }
       ]
     },
     {
-      "id": "e059fcd08e60",
-      "title": "40歳で若年性認知症になった父との23年間…「いつか元の父に戻る」そう信じ続けた日々を描く【作者に聞く】(ウォーカープラス)",
-      "published": "2026-07-19T06:00:00+00:00",
-      "summary": "SNSやブログで「若年性認知症の父親と私」を投稿して注目を集めている吉田いらこ(@irakoir)さん。本作は吉田いらこさんが高校生の頃に父が若年性認知症を患い、当時の苦悩や壮絶な体験談をリアルに描い",
+      "id": "2488ca875f57",
+      "title": "球状星団「オメガ・ケンタウリ」で初めて恒星質量ブラックホールを発見(sorae 宇宙へのポータルサイト)",
+      "published": "2026-07-19T10:31:59+00:00",
+      "summary": "ユタ大学のMatthew Whitaker氏を筆頭とする研究チームは、球状星団「オメガ・ケンタウリ（オメガ星団）」において初めて恒星質量ブラックホールを発見したとする研究成果を発表しました。 この成",
       "sources": [
         {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/ce98005ba9833d463768df729d69b8fbb18136f8?source=rss"
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/6bf8495b41e012912027db45c2a4bd8992ee30b0?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "e01a4fd397ab",
+      "title": "prosthe6：点眼薬で視力を回復する光スイッチ型分子―IBEC が盲目マウスで実証 - innovaTopia",
+      "published": "2026-07-19T08:03:54+00:00",
+      "summary": "prosthe6：点眼薬で視力を回復する光スイッチ型分子―IBEC が盲目マウスで実証&nbsp;&nbsp;innovaTopia",
+      "sources": [
+        {
+          "name": "innovaTopia",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhX2RWdnV0VWNDVzdKM0NqaC1yb18wb05OX1RkNnhpdzRZYXNCcklDcUI5dVRzaml5OHJHdHFac3N6aGNEaUlzSDJoNDFWNzI3SnNKellGbWFMbk5EMmNZdEt5a1k3TDJ5?oc=5"
         }
       ]
     },
@@ -141,7 +153,7 @@
       "id": "1e6fe7dfafb9",
       "title": "デング熱の症例を発見、ハティン省のコミューンが感染症予防に注力 - Laodong.vn",
       "published": "2026-07-18T03:37:14+00:00",
-      "summary": "デング熱の症例を発見、ハティン省のコミューンが感染症予防に注力&nbsp;&nbsp;Laodong.vn学生1名がデング熱に感染したため、地元当局は緊急に疾病予防対策を実施している。&nbsp;&nbsp;Vietnam.vn保健省は、清潔な水質に対する管理を強化するとともに、伝染病や自然災害の予防と抑制に積極的に取り組んでいる。&nbsp;&nbsp;Vietnam.vn",
+      "summary": "デング熱の症例を発見、ハティン省のコミューンが感染症予防に注力&nbsp;&nbsp;Laodong.vn学生1名がデング熱に感染したため、地元当局は緊急に疾病予防対策を実施している。&nbsp;&nbsp;Vietnam.vnザライ省ではデング熱の症例が急速に増加している。&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "Laodong.vn",
@@ -222,18 +234,6 @@
       ]
     },
     {
-      "id": "38551a87cc7c",
-      "title": "狭い家ほど不眠症リスク 95平米未満や通勤52分以上で4割高く - 日本経済新聞",
-      "published": "2026-07-17T17:00:00+00:00",
-      "summary": "狭い家ほど不眠症リスク 95平米未満や通勤52分以上で4割高く&nbsp;&nbsp;日本経済新聞",
-      "sources": [
-        {
-          "name": "日本経済新聞",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oYlQ4SGdMVHNGN3BrVU5EUUZSS29XNFdTQ0dCZEhOU0NTRGl6LVAzYU5kTUtxWWRvN0dGOGhKU0EwOWVObkNURF9GLURkdDB5MFNHTXktWnFjeTgwZHJSUnc0ZGFJMXpiR0UzUA?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0e3dd8d8a073",
       "title": "自然と人間の共生に貢献した「コスモス国際賞」に英名誉教授　「ダンバー数」など提唱(産経新聞)",
       "published": "2026-07-17T09:11:52+00:00",
@@ -242,18 +242,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/b9bc44b900154427f17e5f52fed01a5a2579fb0f?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "283f3d7adc8c",
-      "title": "21価肺炎球菌結合型ワクチン「CAPVAXIVE」 米国FDAより小児・青少年に対する適応追加承認取得 MSD - 医薬通信社",
-      "published": "2026-07-17T08:47:13+00:00",
-      "summary": "21価肺炎球菌結合型ワクチン「CAPVAXIVE」 米国FDAより小児・青少年に対する適応追加承認取得 MSD&nbsp;&nbsp;医薬通信社",
-      "sources": [
-        {
-          "name": "医薬通信社",
-          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPVnhSVGMwMlh2ZFkyUVoxU0VreEYyUmNfdFJ5aFpQQnZVLWpSSlBXUnBwT1dDcHM3dmZNMVB6b1RoblBYYkNmeDUyVEdMeUc1U2FjRDBCRlp6SHBSek5FeVJKUVlhOVVUV3ZzR00wT3pCVzdEUzItYUZ4eXpSQ3dXN1l5VllORFAyczROQllSQ29DajFPemFYUFplWWRYSk10NEZLaEpGZVdMcUE3UjdMa0hkdUNqWHdFeGJ2U1lMdTdXVVljVHlESEY4N2hjeURGWklLVWt4ZEo4M3FQX3VMU0hPa3dMNEgtajBZNmQ4Q1N2OW1YMDhmRFp5YkxPTDEyY3ZhSXk0VDloUWZpUFB0bWQ2NUx0SWJoa1oyWkJTWW5MRGVsYTVPVGdCMWEtQnNsMXVNUHJlWkZKN1c3Z0RBdDE1WloyeG9hNDdtTmlOMkVxQlZM?oc=5"
         }
       ]
     },
@@ -470,30 +458,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/02f0b8a42fe844f43e28a1633e9539c69b0aabec?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "909d669ee3f6",
-      "title": "アルツハイマー病の原因、「銅を含む薬」で42％減少(ギズモード・ジャパン)",
-      "published": "2026-07-14T12:30:01+00:00",
-      "summary": "記憶や思考、行動に問題が起きる脳の病気、アルツハイマー病。これは認知症の原因の約7割を占めるともいわれます。 治療を目指して実験室でさまざまな研究が試みられているなか、オーストラリアのモナッシュ大学",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/d8aa9bd8c6d24aae081800fb5ea32974810a7ca6?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "d99f330e36ad",
-      "title": "テストステロン値とがんリスクには因果関係が？(ギズモード・ジャパン)",
-      "published": "2026-07-14T10:00:02+00:00",
-      "summary": "がんと一度も無縁でいられる人生は、なかなかありません。 日本では2人に1人が生涯のうちにがんと診断されると言われていて、研究は進んでいるものの、決定的な予防法はまだ見つかっていません。運動不足やお酒",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/bd9450f731ad4299fe68331133d024fd47fa98c2?source=rss"
         }
       ]
     }
