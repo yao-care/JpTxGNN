@@ -1,54 +1,114 @@
 {
-  "generated": "2026-07-21T19:02:53.273583+00:00",
+  "generated": "2026-07-22T01:44:24.748191+00:00",
   "count": 12,
   "news": [
     {
-      "id": "a9401fe51aba",
-      "title": "風邪（ふうじゃ）を追い出す「風門」。熱、頭痛、悪寒といった風邪の初期症状に効きます(家庭画報.com)",
-      "published": "2026-07-21T12:30:09+00:00",
+      "id": "369ffbd48b59",
+      "title": "百年健康のための高血圧コントロール／医師で作家・鎌田實氏",
+      "published": "2026-07-21T23:00:00+00:00",
       "sources": [
         {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/20c5fa6a8839175595849f83900f59eaf271d011?source=rss"
+          "name": "日刊スポーツ",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE93VjYtSG1sN0MwWnpxNHlRUjdXNk5OOHM5TW5wMTFtZ3pUd0VidmRKUUYwcWVabTdZNUdIbGktT1FiZjdRNGJtWW1VeXhZbXNrX2g1cjZ3bWFTdTNjMFdkTGNOWUxyZTFFNkxGek04eDRNRkRUVnBkQtIBgAFBVV95cUxNUTQ2aUFGblA5MHNTNm9jbVdyMUhwX3F0RWhqVGp1VnZLRlExOXJEaTRDZy1OeXB4b25KUEhYQUQzMlc4NV84WWlPUEthaXI2RnFGQ3c3VFJ2RWgxdi1lT2x5ZzZEcTJjbEUyOURIRzFGNWtsdXd2a2Y0SnRSdHREZA?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "common cold",
-          "keyword": "風邪",
+          "name": "hypertension",
+          "keyword": "高血圧",
           "related_drugs": [
             {
-              "slug": "theophylline",
-              "name": "ユニコン錠１００　１００ｍｇ（選）"
+              "slug": "nifedipine",
+              "name": "アダラートＣＲ錠４０ｍｇ（選）"
             },
             {
-              "slug": "cetirizine",
-              "name": "ザイザルシロップ０．０５％（選）"
+              "slug": "amlodipine",
+              "name": "エックスフォージ配合ＯＤ錠（選）"
             },
             {
-              "slug": "morphine",
-              "name": "モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」"
+              "slug": "diltiazem",
+              "name": "ヘルベッサー錠６０　６０ｍｇ（選）"
             },
             {
-              "slug": "loratadine",
-              "name": "クラリチン錠１０ｍｇ（選）"
+              "slug": "timolol",
+              "name": "デュオトラバ配合点眼液（選）"
             },
             {
-              "slug": "chlorpheniramine",
-              "name": "セレスタミン配合錠（選）"
+              "slug": "verapamil",
+              "name": "ワソラン錠４０ｍｇ（選）"
             },
             {
-              "slug": "dextromethorphan",
-              "name": "デキストロメトルファン臭化水素酸塩細粒１０％「ツルハラ」"
+              "slug": "hydrochlorothiazide",
+              "name": "プレミネント配合錠ＨＤ（選）"
             },
             {
-              "slug": "acetaminophen",
-              "name": "トラムセット配合錠（選）"
+              "slug": "losartan",
+              "name": "ニューロタン錠５０ｍｇ（選）"
             },
             {
-              "slug": "codeine",
-              "name": "ムコブロチン配合シロップ"
+              "slug": "telmisartan",
+              "name": "ミカムロ配合錠ＢＰ（選）"
+            },
+            {
+              "slug": "valsartan",
+              "name": "ディオバンＯＤ錠１６０ｍｇ（選）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "67d42a260282",
+      "title": "認知症への理解深める 「記憶薄れても感情は残る」 兵庫県の介護入門研修",
+      "published": "2026-07-21T21:08:09+00:00",
+      "sources": [
+        {
+          "name": "丹波新聞",
+          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPbGhydjNWU3hmZXJ3YzFJSE03THQ1OFNoaDdtdWg5OXdIQzU2UlBVMnpveG9iSm13ZFUzVGVvXzZsS1dpOXROc2lEcDU2NHZsd2RtcWE3WVBhMHFvTm5hMlRyOHdYSEhST3hiNWw2YURGZEd3SGNrNHN2RmNKS19OYS04YnJRR0RpMG9FMVpTU2FDZjJ4enFvVXc1dWxrR0tpLXVCNnN5dWdOVk5oZWQwTGNJX180TjBFbGx0aEJtNXZwakdDTGxjRFZNdkgxOWx6WDFrN1dqcjVTREE0SmptZ2k4YjRWSy0xZHdZemNnTXJRaGVHb19PejNYUlJsbUxYVmt4VGJXNkcxdzNiTUh0eHpweDFYU0tBcTR2Y3lLMkVhSmVsZXlsTkV0NW1yNTY5Y1M2TFhSOFVKdWdaTjRCN3ZRQ1pUeFk?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "認知症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1d3ed90e35eb",
+      "title": "海外の薬剤承認動向と、今後の創薬の展望【時流◆認知症BPSDコントロールの最前線】",
+      "published": "2026-07-21T15:00:00+00:00",
+      "sources": [
+        {
+          "name": "m3.com",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwcUxHV1IxSEpyT0FYLV9mRmdLblZkT01HUjE3Zkphb096UVZNeUNXNWplN0N3ejRzUnk3R0VkMklTX3EzcGdQaEtjSExHNmw5V1E?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "認知症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
             }
           ]
         }
@@ -1305,105 +1365,6 @@
       ]
     },
     {
-      "id": "d215f32f529a",
-      "title": "「朝の血圧が高い」症状の特徴的な病気・疾患、医師が解説 (2026年7月20日掲載)",
-      "published": "2026-07-20T04:00:05+00:00",
-      "sources": [
-        {
-          "name": "ライブドアニュース",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4OWN4blNwMDZUMGtKUVdMdkVtZkNMNU44WHRWMG92X1RlQU1ReDVkakFfb2RVZmxpaEVoM2lMbkdlZUZBOVo4ZUh5LXM5WkFqNmFTOWQ0R3hJYkRQTFE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "hypertension",
-          "keyword": "高血圧",
-          "related_drugs": [
-            {
-              "slug": "nifedipine",
-              "name": "アダラートＣＲ錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "エックスフォージ配合ＯＤ錠（選）"
-            },
-            {
-              "slug": "diltiazem",
-              "name": "ヘルベッサー錠６０　６０ｍｇ（選）"
-            },
-            {
-              "slug": "timolol",
-              "name": "デュオトラバ配合点眼液（選）"
-            },
-            {
-              "slug": "verapamil",
-              "name": "ワソラン錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "hydrochlorothiazide",
-              "name": "プレミネント配合錠ＨＤ（選）"
-            },
-            {
-              "slug": "losartan",
-              "name": "ニューロタン錠５０ｍｇ（選）"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "ミカムロ配合錠ＢＰ（選）"
-            },
-            {
-              "slug": "valsartan",
-              "name": "ディオバンＯＤ錠１６０ｍｇ（選）"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "血圧が高い",
-          "keyword": "血圧が高い",
-          "related_drugs": [
-            {
-              "slug": "nifedipine",
-              "name": "アダラートＣＲ錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "エックスフォージ配合ＯＤ錠（選）"
-            },
-            {
-              "slug": "diltiazem",
-              "name": "ヘルベッサー錠６０　６０ｍｇ（選）"
-            },
-            {
-              "slug": "timolol",
-              "name": "デュオトラバ配合点眼液（選）"
-            },
-            {
-              "slug": "verapamil",
-              "name": "ワソラン錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "hydrochlorothiazide",
-              "name": "プレミネント配合錠ＨＤ（選）"
-            },
-            {
-              "slug": "losartan",
-              "name": "ニューロタン錠５０ｍｇ（選）"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "ミカムロ配合錠ＢＰ（選）"
-            },
-            {
-              "slug": "valsartan",
-              "name": "ディオバンＯＤ錠１６０ｍｇ（選）"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "960a0e965fae",
       "title": "帯状疱疹ワクチン、自己負担額は同じ県でも3倍差 金額どう決まる？ [広島県]",
       "published": "2026-07-20T03:00:00+00:00",
@@ -1430,94 +1391,6 @@
             {
               "slug": "metronidazole",
               "name": "メトロニダゾールゲル０．７５％「マルイシ」"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "47f8b8f9adcd",
-      "title": "小児のコロナ合併症、長期心血管リスク１４倍 ＭＩＳ－Ｃは一過性疾患とする既報に疑義",
-      "published": "2026-07-19T20:00:00+00:00",
-      "sources": [
-        {
-          "name": "読売新聞",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSEg1aUxNTHVBSWZxTlhEZmNWbVpfUlh5bUZTWlJfNTJfQkxSb0dUQ2ZmTmszUVliSk9zU1U2T2k4cy14WjJlX2U4UzF4WlAwX3BFMEdkWDIxcUdXenZpdnVzYUF4QjdzOVpLeEFVT0UyTmp2YXFhWnhNMHY2U3Vha29CcE1xb2tpVjZsaGxn?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "acyclovir",
-              "name": "ゾビラックス軟膏５％（選）"
-            },
-            {
-              "slug": "atorvastatin",
-              "name": "アトーゼット配合錠ＨＤ（選）"
-            },
-            {
-              "slug": "pravastatin",
-              "name": "メバロチン錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "atenolol",
-              "name": "テノーミン錠５０　５０ｍｇ（選）"
-            },
-            {
-              "slug": "simvastatin",
-              "name": "リポバス錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "ロプレソール錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "lisinopril",
-              "name": "ロンゲス錠２０ｍｇ（選）"
-            },
-            {
-              "slug": "lidocaine",
-              "name": "リドカイン（１８ｍｇ）３０．５ｍｍ×５０．０ｍｍ貼付剤"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "ミカムロ配合錠ＢＰ（選）"
-            },
-            {
-              "slug": "rosuvastatin",
-              "name": "クレストールＯＤ錠５ｍｇ（選）"
-            },
-            {
-              "slug": "verapamil",
-              "name": "ワソラン錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "latanoprost",
-              "name": "ザラカム配合点眼液（選）"
-            },
-            {
-              "slug": "warfarin",
-              "name": "ワルファリンＫ細粒０．２％「ＮＳ」"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "ザルティア錠５ｍｇ（選）"
-            },
-            {
-              "slug": "duloxetine",
-              "name": "サインバルタカプセル３０ｍｇ（選）"
-            },
-            {
-              "slug": "prasugrel",
-              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
-            },
-            {
-              "slug": "tramadol",
-              "name": "トラマールＯＤ錠５０ｍｇ（選）"
             }
           ]
         }
