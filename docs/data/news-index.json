@@ -1,7 +1,47 @@
 {
-  "generated": "2026-07-23T18:58:53.759171+00:00",
+  "generated": "2026-07-24T01:47:33.323805+00:00",
   "count": 12,
   "news": [
+    {
+      "id": "91be19f885a1",
+      "title": "日本人2型糖尿病ではサルコペニア肥満の有病率が高い 身体的QOL低下や転倒リスク増加と関連",
+      "published": "2026-07-24T00:30:55+00:00",
+      "sources": [
+        {
+          "name": "糖尿病リソースガイド",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWYWpBYzJxQVlIc0hxeWNHZWIwcE9pVDF4ZXZ3c0VqZjNFYnh6RV9QeWtzRlBBOVBpT1dQV1ZDV1l5MzBNQUZZM3RUbjMxcWl3SXNOOHYzd2ExSkwtbW0wUEhtNGxoSlk5VUo0?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "type 2 diabetes mellitus",
+          "keyword": "2型糖尿病",
+          "related_drugs": [
+            {
+              "slug": "glyburide",
+              "name": "オイグルコン錠２．５ｍｇ（選）"
+            },
+            {
+              "slug": "gliclazide",
+              "name": "グリミクロン錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "pioglitazone",
+              "name": "アクトスＯＤ錠３０　３０ｍｇ（選）"
+            },
+            {
+              "slug": "glimepiride",
+              "name": "アマリール０．５ｍｇ錠（選）"
+            },
+            {
+              "slug": "metformin",
+              "name": "メホビル配合錠ＨＤ「トーワ」"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "1e052c63f766",
       "title": "「静かな殺し屋」B型肝炎に画期的な治療薬、待望の治癒に近づく　日本で承認申請(ナショナル ジオグラフィック日本版)",
@@ -2138,34 +2178,6 @@
             {
               "slug": "levetiracetam",
               "name": "レベチラセタム粒状錠５００ｍｇ「サワイ」"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "67d42a260282",
-      "title": "認知症への理解深める 「記憶薄れても感情は残る」 兵庫県の介護入門研修",
-      "published": "2026-07-21T21:08:09+00:00",
-      "sources": [
-        {
-          "name": "丹波新聞",
-          "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPbGhydjNWU3hmZXJ3YzFJSE03THQ1OFNoaDdtdWg5OXdIQzU2UlBVMnpveG9iSm13ZFUzVGVvXzZsS1dpOXROc2lEcDU2NHZsd2RtcWE3WVBhMHFvTm5hMlRyOHdYSEhST3hiNWw2YURGZEd3SGNrNHN2RmNKS19OYS04YnJRR0RpMG9FMVpTU2FDZjJ4enFvVXc1dWxrR0tpLXVCNnN5dWdOVk5oZWQwTGNJX180TjBFbGx0aEJtNXZwakdDTGxjRFZNdkgxOWx6WDFrN1dqcjVTREE0SmptZ2k4YjRWSy0xZHdZemNnTXJRaGVHb19PejNYUlJsbUxYVmt4VGJXNkcxdzNiTUh0eHpweDFYU0tBcTR2Y3lLMkVhSmVsZXlsTkV0NW1yNTY5Y1M2TFhSOFVKdWdaTjRCN3ZRQ1pUeFk?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "認知症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
             }
           ]
         }
