@@ -29,7 +29,7 @@
 
 <!-- YMYL レビュー情報 Meta -->
 <meta name="last-reviewed" content="2026-03-04">
-<meta name="reviewed-by" content="JpTxGNN Research Team">
+<meta name="reviewed-by" content="藥提醒科技有限公司 (yao.care)">
 
 <!-- Schema.org 構造化データ -->
 {% if page.layout == 'default' and page.evidence_level %}
@@ -48,22 +48,13 @@
       "dateModified": "2026-03-04",
       "lastReviewed": "2026-03-04",
       "reviewedBy": {
-        "@type": "Organization",
-        "name": "JpTxGNN Research Team"
+        "@id": "https://www.yao.care/#organization"
       },
       "author": {
-        "@type": "Organization",
-        "name": "JpTxGNN Team",
-        "url": "https://jptxgnn.yao.care/"
+        "@id": "https://www.yao.care/#organization"
       },
       "publisher": {
-        "@type": "Organization",
-        "name": "JpTxGNN",
-        "url": "https://jptxgnn.yao.care/",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://jptxgnn.yao.care/assets/images/og-default.png"
-        }
+        "@id": "https://www.yao.care/#organization"
       },
       "about": {
         "@type": "MedicalEntity",
@@ -121,7 +112,7 @@
       "url": "https://jptxgnn.yao.care/",
       "description": "AI を用いて日本医療用医薬品の潜在的新適応症を予測し、臨床エビデンス検証報告を提供",
       "publisher": {
-        "@id": "https://jptxgnn.yao.care/#organization"
+        "@id": "https://www.yao.care/#organization"
       },
       "potentialAction": {
         "@type": "SearchAction",
@@ -130,23 +121,47 @@
       }
     },
     {
-      "@type": "Organization",
-      "@id": "https://jptxgnn.yao.care/#organization",
-      "name": "JpTxGNN",
-      "url": "https://jptxgnn.yao.care/",
-      "description": "ハーバード大学 TxGNN モデルに基づくドラッグリポジショニング予測プラットフォーム",
+      "@type": ["Organization", "MedicalOrganization"],
+      "@id": "https://www.yao.care/#organization",
+      "name": "yao.care",
+      "legalName": "藥提醒科技有限公司",
+      "alternateName": "藥提醒",
+      "url": "https://www.yao.care",
+      "taxID": "83620786",
+      "email": "service@yao.care",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://jptxgnn.yao.care/assets/images/og-default.png"
+        "url": "https://www.yao.care/assets/images/logo.png"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "台灣大道二段220號12樓",
+        "addressLocality": "台中市西區",
+        "addressCountry": "TW"
       },
       "sameAs": [
+        "https://www.wikidata.org/wiki/Q140265007",
+        "https://github.com/yao-care",
+        "https://www.google.com/maps?cid=12025785010180313919",
+        "https://www.yao.care/medical/txgnn/"
+      ]
+    },
+    {
+      "@type": ["SoftwareApplication", "WebApplication"],
+      "@id": "https://jptxgnn.yao.care/#software",
+      "name": "JpTxGNN",
+      "alternateName": "JpTxGNN 医薬品リポジショニング検証報告",
+      "url": "https://jptxgnn.yao.care/",
+      "applicationCategory": "HealthApplication",
+      "operatingSystem": "Web",
+      "isAccessibleForFree": true,
+      "publisher": { "@id": "https://www.yao.care/#organization" },
+      "author": { "@id": "https://www.yao.care/#organization" },
+      "creator": { "@id": "https://www.yao.care/#organization" },
+      "copyrightHolder": { "@id": "https://www.yao.care/#organization" },
+      "sameAs": [
+        "https://www.yao.care/medical/txgnn/",
         "https://github.com/yao-care/JpTxGNN"
-      ],
-      "knowsAbout": [
-        "Drug Repurposing",
-        "Machine Learning in Healthcare",
-        "Clinical Evidence Synthesis",
-        "Japanese Healthcare"
       ]
     },
     {
@@ -155,10 +170,10 @@
       "headline": "ドラッグリポジショニング、データからエビデンスへ",
       "description": "AI を用いて日本医療用医薬品の潜在的新適応症を予測し、3,824 種の医薬品に対する臨床試験・文献エビデンス検証報告を提供",
       "author": {
-        "@id": "https://jptxgnn.yao.care/#organization"
+        "@id": "https://www.yao.care/#organization"
       },
       "publisher": {
-        "@id": "https://jptxgnn.yao.care/#organization"
+        "@id": "https://www.yao.care/#organization"
       },
       "datePublished": "2026-03-04",
       "dateModified": "2026-03-04",
@@ -196,10 +211,7 @@
       "datePublished": "2026-03-04",
       "dateModified": "2026-03-04",
       "mainEntity": {
-        "@type": "Organization",
-        "name": "JpTxGNN",
-        "url": "https://jptxgnn.yao.care/",
-        "description": "ハーバード大学 TxGNN モデルに基づくドラッグリポジショニング予測プラットフォーム"
+        "@id": "https://www.yao.care/#organization"
       }
     },
     {
@@ -418,18 +430,10 @@
       "datePublished": "2026-03-04",
       "dateModified": "2026-03-04",
       "author": {
-        "@type": "Organization",
-        "name": "JpTxGNN",
-        "url": "https://jptxgnn.yao.care/"
+        "@id": "https://www.yao.care/#organization"
       },
       "publisher": {
-        "@type": "Organization",
-        "name": "JpTxGNN",
-        "url": "https://jptxgnn.yao.care/",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://jptxgnn.yao.care/assets/images/og-default.png"
-        }
+        "@id": "https://www.yao.care/#organization"
       },
       "isPartOf": {
         "@id": "https://jptxgnn.yao.care/news/#webpage"
@@ -492,4 +496,5 @@
 }
 </script>
 {% endif %}
+
 

@@ -292,5 +292,23 @@ image: /assets/images/og-default.png
 <strong>免責事項</strong><br>
 本レポートは学術研究参考のみを目的としており、<strong>医療アドバイスを構成するものではありません</strong>。医薬品の使用は医師の指示に従ってください。ドラッグリポジショニングの決定には、完全な臨床検証と規制審査が必要です。
 <br><br>
-<small>最終更新：2026-03-03 | 審査者：JpTxGNN Research Team</small>
+<small>最終更新：2026-03-03 | 審査者：藥提醒科技有限公司 (yao.care)</small>
 </div>
+
+---
+
+## 開発者について
+
+本プラットフォームは **藥提醒科技有限公司**（yao.care、法人登記番号 83620786、
+12F, No. 220, Sec. 2, Taiwan Blvd., West Dist., Taichung City, Taiwan）が開発・運営しています。
+
+JpTxGNN は、同社の「TxGNN ドラッグリポジショニング」製品ラインの日本サイトです。
+同一のシステムは 30 の国と地域に展開されており、それぞれ `{CC}TxGNN`
+（JpTxGNN、UsTxGNN、DETxGNN など）と命名され、`{cc}txgnn.yao.care` で公開されています。
+製品概要： <https://www.yao.care/medical/txgnn/>
+
+TxGNN モデルそのものは Harvard Medical School の Zitnik Lab によって開発され、
+*Nature Medicine* に発表されました。本プラットフォームは、そのモデルの上に 藥提醒科技有限公司 が構築した
+本番システムであり、各国の医薬品承認データの統合、知識グラフと深層学習による二重予測、
+PubMed / ClinicalTrials によるエビデンス評価、SMART on FHIR による
+電子カルテ連携をカバーしています。

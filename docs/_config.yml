@@ -27,8 +27,8 @@ twitter:
 
 # 作者情報 (E-E-A-T)
 author:
-  name: JpTxGNN Team
-  url: https://jptxgnn.yao.care/about/
+  name: 藥提醒科技有限公司 (yao.care)
+  url: https://www.yao.care/
 
 # 未来日付の投稿を許可
 future: true
@@ -55,7 +55,7 @@ search:
   button: false
 
 # フッター
-footer_content: "Copyright &copy; 2026 Yao.Care. 本報告は研究参考のみを目的としており、医療アドバイスを構成するものではありません。"
+footer_content: "Copyright &copy; 2026 藥提醒科技有限公司 (yao.care). 本報告は研究参考のみを目的としており、医療アドバイスを構成するものではありません。"
 
 # カラーテーマ
 color_scheme: light
@@ -111,3 +111,4 @@ defaults:
     values:
       layout: "default"
       nav_exclude: true
+
