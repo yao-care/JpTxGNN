@@ -36,10 +36,11 @@ def slugify(text: str) -> str:
 
 def generate_drug_page(drugbank_id: str, drug_name: str, indications: list) -> str:
     """Generate markdown content for a drug page."""
-    slug = slugify(drug_name)
+    slug = slugify(drugbank_id)
 
     content = f"""---
-layout: drug
+layout: default
+nav_exclude: true
 title: {drug_name}
 drugbank_id: {drugbank_id}
 evidence_level: L5
@@ -105,9 +106,20 @@ def main():
     print(f"   Loaded {len(candidates)} predictions")
 
     # Group by drug
-    drug_col = "drugbank_id" if "drugbank_id" in candidates.columns else candidates.columns[0]
-    indication_col = "potential_indication" if "potential_indication" in candidates.columns else "disease_name"
-    source_col = "source" if "source" in candidates.columns else None
+    def pick(*names):
+        """回傳第一個實際存在的欄名。"""
+        for n in names:
+            if n in candidates.columns:
+                return n
+        return None
+
+    # 本站候選檔的欄名是在地化的（藥物成分／潛在新適應症／來源）。
+    # 只認英文欄名時 indication 與藥名會整欄取不到值，頁面就會變成
+    # title 只有 DrugBank ID、適應症欄全空。
+    drug_col = pick("drugbank_id") or candidates.columns[0]
+    indication_col = pick("potential_indication", "潛在新適應症", "disease_name")
+    source_col = pick("source", "來源")
+    ingredient_col = pick("drug_ingredient", "藥物成分")
 
     print()
     print("2. Grouping by drug...")
@@ -121,8 +133,10 @@ def main():
         if drug_id not in drugs:
             # Try to get drug name from ingredient column
             drug_name = drug_id
-            if "drug_ingredient" in row:
-                drug_name = row["drug_ingredient"] or drug_id
+            if ingredient_col:
+                val = row.get(ingredient_col)
+                if pd.notna(val) and str(val).strip():
+                    drug_name = str(val).strip().title()
             drugs[drug_id] = {
                 "name": drug_name,
                 "indications": []
@@ -148,13 +162,17 @@ def main():
     pages_created = 0
     skipped = 0
     for drug_id, drug_data in drugs.items():
-        slug = slugify(drug_data["name"])
+        slug = slugify(drug_id)
         page_path = DRUGS_DIR / f"{slug}.md"
 
-        # Skip if a pharmacist report page already exists
+        # Skip if a pharmacist report page already exists.
+        # 只有實際含藥師報告的頁面要保護；純粹由本腳本產出的舊頁必須能被覆蓋，
+        # 否則修好生成器也重跑不掉既有的錯誤內容。
         if page_path.exists():
-            skipped += 1
-            continue
+            existing = page_path.read_text(encoding="utf-8")
+            if "pharmacist" in existing or "藥師評估報告" in existing:
+                skipped += 1
+                continue
 
         content = generate_drug_page(drug_id, drug_data["name"], drug_data["indications"])
         with open(page_path, "w", encoding="utf-8") as f:
