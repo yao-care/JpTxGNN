@@ -25,11 +25,6 @@ og_image: /assets/images/og-default.png
 twitter:
   card: summary_large_image
 
-# 作者情報 (E-E-A-T)
-author:
-  name: 藥提醒科技有限公司 (yao.care)
-  url: https://www.yao.care/
-
 # 未来日付の投稿を許可
 future: true
 
@@ -111,4 +106,5 @@ defaults:
     values:
       layout: "default"
       nav_exclude: true
+
 
