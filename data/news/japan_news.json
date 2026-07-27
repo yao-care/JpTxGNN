@@ -1,10 +1,82 @@
 {
   "source": "japan_news",
-  "fetched_at": "2026-07-26T18:56:17.012599+00:00",
-  "total_fetched": 115,
-  "unique_count": 115,
-  "health_related_count": 44,
+  "fetched_at": "2026-07-27T01:58:12.331815+00:00",
+  "total_fetched": 118,
+  "unique_count": 118,
+  "health_related_count": 42,
   "news": [
+    {
+      "id": "2112f174dc83",
+      "title": "「肥満症」に必要なことは「一人一人に合わせた」「切れ目のない治療」　京都の病院が専門センター開設(京都新聞)",
+      "published": "2026-07-27T01:30:35+00:00",
+      "summary": "健康障害のリスクを高める肥満症に対する高度な医療を提供するため、京都大医学部付属病院（京都市左京区）は7月、「肥満症治療センター」を開設した。京都府内初の肥満症専門拠点となる。内科・外科・精神科をは",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/cf710b5059b3b936b28e500181e5ea0f66b4301b?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "406e87afed47",
+      "title": "寝苦しい夏の夜に効果を期待できる…医学部教授が｢寝つけない時は身に付けて｣という\"快眠アイテム\"(プレジデントオンライン)",
+      "published": "2026-07-27T01:15:59+00:00",
+      "summary": "なかなか寝つけない時はどうすればいいのか。東京科学大学医学部臨床教授の加藤浩晃さんは「ベッドの中で目をつぶって無理にでも眠ろうとしがちだが、それはあまりお勧めできない。科学的に効果が期待できる対策があ",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/20d3c08f04c3b2d3ffd456705cdd841487749cac?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "9060fff94761",
+      "title": "乳がんを経て生まれ変わった第二の人生、やりたい仕事を楽しみ、ピアサポート活動で仲間をサポート - がん情報サイト「オンコロ」",
+      "published": "2026-07-27T00:51:28+00:00",
+      "summary": "乳がんを経て生まれ変わった第二の人生、やりたい仕事を楽しみ、ピアサポート活動で仲間をサポート&nbsp;&nbsp;がん情報サイト「オンコロ」",
+      "sources": [
+        {
+          "name": "がん情報サイト「オンコロ」",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mRWxRQTNSeTN5UDJkaHZyMTRBaFJTd0ZuNFhqUXA2OE1TcV9ZWWFwa1IzcWxzNlM5bklCWWhCYUtyMDM4WTdubU5kTTRKS1NPcTI4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e69ea24d3193",
+      "title": "なぜ人類には「認知症リスクが30倍になる遺伝子」があるのか？ 医学研究者が明かす“理由”(ダイヤモンド・オンライン) - Yahoo!ファイナンス",
+      "published": "2026-07-26T22:18:02+00:00",
+      "summary": "なぜ人類には「認知症リスクが30倍になる遺伝子」があるのか？ 医学研究者が明かす“理由”(ダイヤモンド・オンライン)&nbsp;&nbsp;Yahoo!ファイナンスなぜ人類には「認知症リスクが30倍になる遺伝子」があるのか？ 医学研究者が明かす“意外な理由”&nbsp;&nbsp;ダイヤモンド・オンライン",
+      "sources": [
+        {
+          "name": "Yahoo!ファイナンス",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZ0xiYm1jMVFtT2J2aWVoZnNiTFlZMkFSTTNtQzZQMDg4ZjZXMXJiNlg4TFNiOWg5X1ZBUmNadVMzT1JOODE0Y2lEdnQtU0Y0RkNONHctUU4yY1dwcmJ0UXpWcU1RUTd4ZFItWGV6bHdTMkl1U3FjS1pzZm9zcDdhc2Rod1h3cGM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cc5ea30af90d",
+      "title": "アレルギーや喘息で、がんリスクは上がる？下がる？〜JPHC研究｜CareNet.com - CareNet.com",
+      "published": "2026-07-26T19:00:00+00:00",
+      "summary": "アレルギーや喘息で、がんリスクは上がる？下がる？〜JPHC研究｜CareNet.com&nbsp;&nbsp;CareNet.com",
+      "sources": [
+        {
+          "name": "CareNet.com",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Gcnh0ZEk5X3Y0YXJyWktRSmhjUFJScGVSNTJzaVhLTklLcDhpd3Vyd3ZaazdaVDY2YWJXNGJINUF2Q2pLMUxabFJhX3pVTmVfMW9lMFVvTGtqVnBGZmhv?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "247948d4a1c7",
+      "title": "肺炎球菌ワクチン 新しく 65歳で1回接種 発症や重症化予防 - 沖縄タイムス社",
+      "published": "2026-07-26T18:59:00+00:00",
+      "summary": "肺炎球菌ワクチン 新しく 65歳で1回接種 発症や重症化予防&nbsp;&nbsp;沖縄タイムス社",
+      "sources": [
+        {
+          "name": "沖縄タイムス社",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fVnY3aFg1UXR1OW94T3RFc0FqZ0tmNWRjTVJoNUdCOHZSRVp1NEdJamlrOEdkelVLWlFieEoxV3p3b215dG1VQm9nb2tLejNfMDVTdmp3bmVRSGdhVFE?oc=5"
+        }
+      ]
+    },
     {
       "id": "e54f27e1b3ad",
       "title": "小惑星「1998 SH2」は彗星だった　“地球防衛”にも関係してくる「ダークコメット」の存在(sorae 宇宙へのポータルサイト)",
@@ -30,54 +102,6 @@
       ]
     },
     {
-      "id": "2612840d138b",
-      "title": "【警鐘】「4万歩で激痛…」TikTokで流行の“1日10万歩”チャレンジに、米専門家が「絶対やめて」と警告する理由(ウィメンズヘルス)",
-      "published": "2026-07-26T14:00:10+00:00",
-      "summary": "健康維持のために「1日1万歩」を目指すという話を聞いたことがある人は多いはずだ。しかし今、TikTokではその10倍にあたる「1日10万歩（100,000 steps）」に挑戦するチャレンジ動画が大き",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/68101e367a2ac33c2f0185414c5f1a5f48aaa9a4?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "1579674df079",
-      "title": "夏の風物詩「流しそうめん」をおうちで楽しめる！ドンキ〈全長3mローリングそうめん〉で食卓が盛り上がりそう！(LIMO)",
-      "published": "2026-07-26T13:30:56+00:00",
-      "summary": "生活を便利にする雑貨が豊富な「ドン・キホーテ」で、あの「夏の風物詩」を自宅で手軽に楽しめるアイテムを発見しました！ 「ローリングそうめん」は、自宅で流しそうめんができるセットです。全長3mのコース",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/25f0ddadf7ca135afe2cb46308a439222a867406?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "15f3b7df7933",
-      "title": "【50代】ユニクロデニムは通勤OK?「2つのコツ」で作る上品見えコーデ3選(HALMEK up)",
-      "published": "2026-07-26T13:15:01+00:00",
-      "summary": "シンプルなシルエットながらも美脚効果が期待できると話題のユニクロ・ストレートデニム。ラフになりすぎず、簡単にオフィスカジュアルに格上げするアイデアをご紹介！",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/5c4f6c0b77833e61fd4ce2c1a6ee128dab1cbda0?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "c204050d6847",
-      "title": "【薄毛隠しおすすめ4選】40代以上必見！隠したい部位・髪質別のアイテム選びを美プロが詳細解説(MAQUIA)",
-      "published": "2026-07-26T13:00:47+00:00",
-      "summary": "年齢とともに抜け毛や薄毛などデリケートな髪のお悩みが増えてくるのは当然のこと。実は薄毛隠しアイテムは、隠したい部位や髪質、ヘアスタイルに合わせて選ぶことで、その効果を最大限に発揮できるのだとか！ 今回",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/30e6084fa78eb9d9d52b788cab426504eb64e372?source=rss"
-        }
-      ]
-    },
-    {
       "id": "28fad59b9bc3",
       "title": "キス1回だけで、新生児は重度の肺炎のリスクに直面する可能性があります。 - Laodong.vn",
       "published": "2026-07-26T12:57:29+00:00",
@@ -86,30 +110,6 @@
         {
           "name": "Laodong.vn",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNS1PMm94ZmpKcHVQUWs1YzBNXzVvcWdnVV9wVlhidEkwZDZjOG53TEltQmJ1OEtpTFJHU2Zac200YUs4S1NUMnBRMi14V0JPZFZDTGRqQjBOaGx1RmZqRWJRU1ZKYmdEdzZTQTFDcjdOVWdseWtBeDd1aVRkTUZxb2xwX0ROb1ZNZWJHTTRvSGpVR2RmNmFTdXFwWnVQUVc5SXpmaHFodElxLWFSRnQ0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "32db96bbd703",
-      "title": "風邪の初期症状に効く「大杼」。熱、鼻づまり、頭痛、喉の痛み、首のこわばりを軽減(家庭画報.com)",
-      "published": "2026-07-26T12:30:09+00:00",
-      "summary": "中医学のエキスパートである鍼灸師の兵頭 明先生が、ツボの効能や位置、効くメカニズムを解説します。健康の土台作りに、不調改善に、1日1分のツボ押しを習慣にしましょう。",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/180b7500edd228991df4112ccfc0d2096fbe212e?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "127f0d1643bd",
-      "title": "へバーデン結節という症状をご存知ですか？ - スポーツブル",
-      "published": "2026-07-26T10:30:44+00:00",
-      "summary": "へバーデン結節という症状をご存知ですか？&nbsp;&nbsp;スポーツブル50代女性の半数が経験｢指の痛み･腫れ･変形｣は\"年齢のせい\"だけではなかった ｢ヘバーデン結節｣のセルフケアと治療法&nbsp;&nbsp;東洋経済オンライン武内製薬株式会社が展開する\"指先の違和感\"のサポートケア商品。シリーズ累計導入店舗数が7,400店舗を達成&nbsp;&nbsp;朝日新聞「片手スマホは本当によくありません」手外科専門医が警鐘。料理や買い物…手指を痛める日常習慣とは？（婦人公論.jp）&nbsp;&nbsp;Yahoo!ニュース「片手スマホは本当によくありません」手外科専門医が警鐘。料理や買い物…手指を痛める日常習慣とは？&nbsp;&nbsp;ｄメニューニュース",
-      "sources": [
-        {
-          "name": "スポーツブル",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1PTUQ0Qkoya0pNS1VldVhNdFQwQloyemVTUVVSaVRhLXZhQUtGWVEyUFR1eWtla2hDMjdDT2V5Mk5KdGJiSjFj?oc=5"
         }
       ]
     },
@@ -134,18 +134,6 @@
         {
           "name": "Forbes JAPAN",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9DclJWalF3YmE5RERyMkM4dVdRcGlJb2RuMTVjcU9razF1em50NW9zVUpqbnVDX2dPaG5nbTVGNXROem0xMndQek9XamgyVXpYYTJ4aXA1ZDhfUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "bf9d545cdddb",
-      "title": "「糖尿病」夏の食生活に注意！…血糖値スパイクが起きているサインは？糖尿病の予防・改善法 - TBS NEWS DIG",
-      "published": "2026-07-25T22:30:00+00:00",
-      "summary": "「糖尿病」夏の食生活に注意！…血糖値スパイクが起きているサインは？糖尿病の予防・改善法&nbsp;&nbsp;TBS NEWS DIGGoogle ニュースで見出しと意見をもっと見る",
-      "sources": [
-        {
-          "name": "TBS NEWS DIG",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxRllndGttQlBlS2Q3Rlg5LUNTRUx2dmx1cVdiMWw4ODE5clJscnZTQ3RHeXprRHZ0Y3ByX25JQlV6THlHaDVkZXdqTGU1RDRQVGV0SFJYeWpUZw?oc=5"
         }
       ]
     },
@@ -213,7 +201,7 @@
       "id": "cd6b8301974d",
       "title": "米国ではしか流行、ここ35年で最多 子どもにワクチン接種させない保護者が増加 - AFPBB News",
       "published": "2026-07-25T02:55:00+00:00",
-      "summary": "米国ではしか流行、ここ35年で最多 子どもにワクチン接種させない保護者が増加&nbsp;&nbsp;AFPBB NewsGoogle ニュースで見出しと意見をもっと見る",
+      "summary": "米国ではしか流行、ここ35年で最多 子どもにワクチン接種させない保護者が増加&nbsp;&nbsp;AFPBB News米はしか感染が過去35年で最多、ワクチン接種率低下で（ロイター）&nbsp;&nbsp;Yahoo!ニュースはしか 米で感染拡大 ワクチン接種率低下、Ｗ杯開催&nbsp;&nbsp;読売新聞米国で今年の「はしか」の感染者数が過去３５年で最多に…２３１８人、Ｗ杯開催によるウイルス流入などが原因か&nbsp;&nbsp;ｄメニューニュース米、はしか過去３５年で最多 ２２９５人、前年上回る&nbsp;&nbsp;沖縄タイムス社",
       "sources": [
         {
           "name": "AFPBB News",
@@ -237,7 +225,7 @@
       "id": "6cffebcbf85c",
       "title": "「生ワクチン」と「不活化ワクチン」どちらがいいの？　医師が解説する帯状疱疹ワクチンの最適な選び方 - ｄメニューニュース",
       "published": "2026-07-25T02:00:00+00:00",
-      "summary": "「生ワクチン」と「不活化ワクチン」どちらがいいの？ 医師が解説する帯状疱疹ワクチンの最適な選び方&nbsp;&nbsp;ｄメニューニュース「生ワクチン」と「不活化ワクチン」どちらがいいの？ 医師が解説する帯状疱疹ワクチンの最適な選び方（デイリースポーツ）&nbsp;&nbsp;Yahoo!ニュース",
+      "summary": "「生ワクチン」と「不活化ワクチン」どちらがいいの？ 医師が解説する帯状疱疹ワクチンの最適な選び方&nbsp;&nbsp;ｄメニューニュース",
       "sources": [
         {
           "name": "ｄメニューニュース",
@@ -254,18 +242,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/8bffda887ed79b53011b441cb3d3ce40bd0134b4?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "fc3fe5e33096",
-      "title": "老人施設内での迅速検査で救急搬送が減少 集団感染の抑制には至らず・カナダＲＣＴ - 読売新聞",
-      "published": "2026-07-24T20:00:00+00:00",
-      "summary": "老人施設内での迅速検査で救急搬送が減少 集団感染の抑制には至らず・カナダＲＣＴ&nbsp;&nbsp;読売新聞",
-      "sources": [
-        {
-          "name": "読売新聞",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdHBFUVZadDFzMXVWSGZNRXVjdEVCVWxVYS13X1NEblNlUlUtWElkeEEwc2hxTVloZzVGdWxPbmFOekRUTi1QcE5uVFl0WG5KbjZURVgybWRXUU0xb2EtQUFyNm9KQ2pwQVhib0RKeE1jNHQ3M0wtTVJaUlBwckF6ZHZuM1dNbEp4R0FPS2VB?oc=5"
         }
       ]
     },
