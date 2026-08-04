@@ -1,8 +1,34 @@
 {
-  "last_updated": "2026-08-03T19:18:36.034099+00:00",
-  "total_count": 47,
-  "matched_count": 13,
+  "last_updated": "2026-08-04T01:27:15.579905+00:00",
+  "total_count": 43,
+  "matched_count": 10,
   "news": [
+    {
+      "id": "f919c1237935",
+      "title": "ヒトの腸の免疫センサーはマウスと違う仕組みと判明 腸管オルガノイド「ミニ腸」を用いてヒト腸管タフト細胞モデルを開発～マウス細胞に代わり細胞治療・創薬への応用に期待～",
+      "published": "2026-08-04T01:01:18+00:00",
+      "summary": "ヒトの腸の免疫センサーはマウスと違う仕組みと判明 腸管オルガノイド「ミニ腸」を用いてヒト腸管タフト細胞モデルを開発～マウス細胞に代わり細胞治療・創薬への応用に期待～&nbsp;&nbsp;国立成育医療研究センター",
+      "sources": [
+        {
+          "name": "国立成育医療研究センター",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wX1EzQVlxaDQ3eTdEUVUwUzcxZW5sSGh0anhac2N2MlJSQTh5Y1BOZWt0RG9hNXMxa0ZuTVNUUjhWalpYQjIwMU10aklDSl9Ha1NQaWxGcw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "004d37405974",
+      "title": "【夏の腸活に甘麹】暑さを和らげてくれる、手軽なドリンクとスイーツ(クロワッサンオンライン)",
+      "published": "2026-08-04T01:00:29+00:00",
+      "summary": "腸内環境の改善に役立つ甘麹。甘麹を使ったドリンクとスイーツの作り方を国際中医薬膳師である榎本美沙さんに聞きました。",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/6a1e1e32df75dc9a9205d1262cc2e251e1c52bdd?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "0ebbd54fa5b1",
       "title": "無痛分娩、主流の手法安全 新生児への麻酔薬影響調査",
@@ -17,391 +43,17 @@
       "matched_keywords": []
     },
     {
-      "id": "34b63fce49f7",
-      "title": "【英ロイヤル】ウィリアム王子が明かすキャサリン妃の素顔。がん治療から復帰し公務や過酷な登山も(ウィメンズヘルス)",
-      "published": "2026-08-03T14:00:03+00:00",
-      "summary": "英国王室の公務に携わって以来、数多くの慈善活動や支援プロジェクトに取り組んできたキャサリン妃。中でも彼女が並々ならぬ情熱を注いでいるのが、子供の乳幼児期における発達や環境の重要性を伝える「ザ・ロイヤル",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/e19ecc45e491993d24d1a14475e757065fbd446a?source=rss"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "がん",
-          "related_drugs": [
-            {
-              "slug": "acyclovir",
-              "name": "ゾビラックス軟膏５％（選）"
-            },
-            {
-              "slug": "theophylline",
-              "name": "ユニコン錠１００　１００ｍｇ（選）"
-            },
-            {
-              "slug": "risperidone",
-              "name": "リスパダール錠２ｍｇ（選）"
-            },
-            {
-              "slug": "valproic-acid",
-              "name": "セレニカＲ顆粒４０％（選）"
-            },
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "atorvastatin",
-              "name": "アトーゼット配合錠ＨＤ（選）"
-            },
-            {
-              "slug": "cyclosporine",
-              "name": "ネオーラル５０ｍｇカプセル（選）"
-            },
-            {
-              "slug": "azithromycin",
-              "name": "ジスロマック細粒小児用１０％　１００ｍｇ（選）"
-            },
-            {
-              "slug": "valsartan",
-              "name": "ディオバンＯＤ錠１６０ｍｇ（選）"
-            },
-            {
-              "slug": "carbamazepine",
-              "name": "テグレトール錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "morphine",
-              "name": "モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」"
-            },
-            {
-              "slug": "pravastatin",
-              "name": "メバロチン錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "atenolol",
-              "name": "テノーミン錠５０　５０ｍｇ（選）"
-            },
-            {
-              "slug": "loperamide",
-              "name": "ロペミンカプセル１ｍｇ（選）"
-            },
-            {
-              "slug": "simvastatin",
-              "name": "リポバス錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "carvedilol",
-              "name": "アーチスト錠２０ｍｇ（選）"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "ゼローダ錠３００　３００ｍｇ（選）"
-            },
-            {
-              "slug": "diazepam",
-              "name": "ホリゾン錠５ｍｇ（選）"
-            },
-            {
-              "slug": "lorazepam",
-              "name": "ワイパックス錠１．０　１ｍｇ（選）"
-            },
-            {
-              "slug": "propranolol",
-              "name": "インデラル錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "spironolactone",
-              "name": "アルダクトンＡ錠５０ｍｇ（選）"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "ロプレソール錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "enalapril",
-              "name": "レニベース錠１０　１０ｍｇ（選）"
-            },
-            {
-              "slug": "lisinopril",
-              "name": "ロンゲス錠２０ｍｇ（選）"
-            },
-            {
-              "slug": "diltiazem",
-              "name": "ヘルベッサー錠６０　６０ｍｇ（選）"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "エックスフォージ配合ＯＤ錠（選）"
-            },
-            {
-              "slug": "clarithromycin",
-              "name": "クラリス錠５０小児用　５０ｍｇ（選）"
-            },
-            {
-              "slug": "furosemide",
-              "name": "ラシックス錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "lidocaine",
-              "name": "リドカイン（１８ｍｇ）３０．５ｍｍ×５０．０ｍｍ貼付剤"
-            },
-            {
-              "slug": "bisoprolol",
-              "name": "メインテート錠５ｍｇ（選）"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "ミカムロ配合錠ＢＰ（選）"
-            },
-            {
-              "slug": "rosuvastatin",
-              "name": "クレストールＯＤ錠５ｍｇ（選）"
-            },
-            {
-              "slug": "imatinib",
-              "name": "グリベック錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "clopidogrel",
-              "name": "プラビックス錠７５ｍｇ（選）"
-            },
-            {
-              "slug": "sertraline",
-              "name": "ジェイゾロフトＯＤ錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "timolol",
-              "name": "デュオトラバ配合点眼液（選）"
-            },
-            {
-              "slug": "diclofenac",
-              "name": "ボルタレンサポ５０ｍｇ（選）"
-            },
-            {
-              "slug": "budesonide",
-              "name": "シムビコートタービュヘイラー６０吸入（選）"
-            },
-            {
-              "slug": "moxifloxacin",
-              "name": "ベガモックス点眼液０．５％（選）"
-            },
-            {
-              "slug": "verapamil",
-              "name": "ワソラン錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "levofloxacin",
-              "name": "クラビット点眼液１．５％（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "celecoxib",
-              "name": "セレコックス錠２００ｍｇ（選）"
-            },
-            {
-              "slug": "ezetimibe",
-              "name": "ゼチーア錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "topiramate",
-              "name": "トピナ錠２５ｍｇ（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            },
-            {
-              "slug": "montelukast",
-              "name": "シングレアＯＤ錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "lamotrigine",
-              "name": "ラミクタール錠２５ｍｇ（選）"
-            },
-            {
-              "slug": "hydrochlorothiazide",
-              "name": "プレミネント配合錠ＨＤ（選）"
-            },
-            {
-              "slug": "losartan",
-              "name": "ニューロタン錠５０ｍｇ（選）"
-            },
-            {
-              "slug": "latanoprost",
-              "name": "ザラカム配合点眼液（選）"
-            },
-            {
-              "slug": "clotrimazole",
-              "name": "エンペシドクリーム１％（選）"
-            },
-            {
-              "slug": "amoxicillin",
-              "name": "ワイドシリン細粒２０％　２００ｍｇ"
-            },
-            {
-              "slug": "ampicillin",
-              "name": "ビクシリンＳ配合錠　（２５０ｍｇ）"
-            },
-            {
-              "slug": "lamivudine",
-              "name": "エプジコム配合錠（選）"
-            },
-            {
-              "slug": "warfarin",
-              "name": "ワルファリンＫ細粒０．２％「ＮＳ」"
-            },
-            {
-              "slug": "fenofibrate",
-              "name": "トライコア錠８０ｍｇ（選）"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            },
-            {
-              "slug": "prasugrel",
-              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
-            },
-            {
-              "slug": "tramadol",
-              "name": "トラマールＯＤ錠５０ｍｇ（選）"
-            },
-            {
-              "slug": "metronidazole",
-              "name": "メトロニダゾールゲル０．７５％「マルイシ」"
-            },
-            {
-              "slug": "lactulose",
-              "name": "ラグノスＮＦ経口ゼリー分包１２ｇ　５４．１６７％"
-            },
-            {
-              "slug": "levetiracetam",
-              "name": "レベチラセタム粒状錠５００ｍｇ「サワイ」"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "5544382de268",
+      "id": "a90957066b0d",
       "title": "ハノイ:COVID-19が4週連続で増加、新規感染者数約300人",
       "published": "2026-08-03T13:58:48+00:00",
-      "summary": "ハノイ:COVID-19が4週連続で増加、新規感染者数約300人&nbsp;&nbsp;Laodong.vn新型コロナ感染が急増、旅行シーズンの人流活発化や密閉空間が要因［社会］&nbsp;&nbsp;viet-jo.com",
+      "summary": "ハノイ:COVID-19が4週連続で増加、新規感染者数約300人&nbsp;&nbsp;ja.laodong.vn新型コロナ感染が急増、旅行シーズンの人流活発化や密閉空間が要因［社会］&nbsp;&nbsp;VIETJO",
       "sources": [
         {
-          "name": "Laodong.vn",
+          "name": "ja.laodong.vn",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWTN3cmdabVNlWVZFOG9FeFNaZnkwaE5Yam1iLTdCOExrQXZFY1VYVmNOUXZzTnRXYW9xNUNVdXpCOUpEclBtNTRkNVpuWFhLOERVOExKZ3hUeGtabmNyVndQYkJNNGtNdXBNMk1sd2NBWHdEUWUya2ZScjRVVHFuRHk5RktKNGZObkF3UFpWTjN4RkVYTGxtQQ?oc=5"
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "b2fc904a4b1b",
-      "title": "朝イチの白湯が逆効果になる人がいる？医師が警鐘を鳴らす「血管に負担をかける水分摂取」(ヨガジャーナルオンライン)",
-      "published": "2026-08-03T13:05:00+00:00",
-      "summary": "「朝起きたら、まず白湯」は、健康意識が高い人ほど当たり前の習慣になっているかもしれません。たしかに白湯は、胃腸を目覚めさせ、体を温める“優等生”みたいな存在。でも実はこれ、全員にとって正解とは限らない",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/8b6474d342795ba85e1ad5d66161a0f27bd4d6e2?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "185305a1be55",
-      "title": "2026上半期【エイジングケア大賞】効果をしっかり引き出す成分がすごい！LEEベストコスメ(LEE)",
-      "published": "2026-08-03T12:50:03+00:00",
-      "summary": "今季のエイジングケアの焦点は、〝効きのいい肌〞へ導くこと。同じ優れた美容成分でも効果に差が出るのは、肌がその力を発揮できる状態かどうか。選ばれた3品は、細胞を生むエネルギーやミネラル補給で肌を支え、効",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/5c1087f90139ee0b53c38dd10ff13792491bb8fe?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "8560fa8956bb",
-      "title": "ワークマンの“着るエアコン”→気温43度で着てみたら…驚きの効果に「炎天下でも快適」「氷を当てたような冷たさ」【試着レビュー】(ねとらぼ)",
-      "published": "2026-08-03T12:45:00+00:00",
-      "summary": "年々注目度が上がっているワークマンの“着るエアコン”。厳しい暑さが続くなか、先日ワークマンにて「熱中症対策用ペルチェ半導体冷房服（着るエアコン）」の展示・体験会が行われました。 会場では気温40",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/e5832b42e4e369d4a07485a40e04dd76c138beee?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "6990d327539a",
-      "title": "狭心症の痛みや動悸、せき、胃痛に効く「督兪」。多汗や皮膚のかゆみに用いることも(家庭画報.com)",
-      "published": "2026-08-03T12:20:08+00:00",
-      "summary": "中医学のエキスパートである鍼灸師の兵頭 明先生が、ツボの効能や位置、効くメカニズムを解説します。健康の土台作りに、不調改善に、1日1分のツボ押しを習慣にしましょう。",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/efc50891ac796a86cf13d752e0deaec4c177d12d?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "f18adff504fe",
-      "title": "日本人の9割にリスク!?誰にでも起こりうる身近な病気「帯状疱疹」の基礎知識(HALMEK up)",
-      "published": "2026-08-03T12:15:01+00:00",
-      "summary": "50代以降から発症率が急増する、気を付けなければならない病気「帯状疱疹」。ピリピリ、チクチクする痛みと赤い発疹が発症のサインで、治療が遅れると重症化することも。その発症の原因と近年急増している背景を専",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/41edffb65f35fdf4f52289c1fc2a6ad3b86c949c?source=rss"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "herpes zoster",
-          "keyword": "帯状疱疹",
-          "related_drugs": [
-            {
-              "slug": "acyclovir",
-              "name": "ゾビラックス軟膏５％（選）"
-            },
-            {
-              "slug": "azithromycin",
-              "name": "ジスロマック細粒小児用１０％　１００ｍｇ（選）"
-            },
-            {
-              "slug": "metronidazole",
-              "name": "メトロニダゾールゲル０．７５％「マルイシ」"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "ea4709846808",
@@ -1100,13 +752,13 @@
       "matched_keywords": []
     },
     {
-      "id": "31b3e818bc8b",
+      "id": "4885610810d7",
       "title": "英で子宮頸がん死亡ゼロに 20代前半、ワクチン接種で",
       "published": "2026-08-03T05:30:00+00:00",
-      "summary": "英で子宮頸がん死亡ゼロに 20代前半、ワクチン接種で&nbsp;&nbsp;西日本新聞me英イングランド・20～24歳女性の子宮頸がんによる5年ごとの死亡数 - 英で子宮頸がん死亡ゼロに 20代前半、ワクチン接種で - 写真・画像(1/1)&nbsp;&nbsp;西日本新聞me",
+      "summary": "英で子宮頸がん死亡ゼロに 20代前半、ワクチン接種で&nbsp;&nbsp;nishinippon.co.jp英イングランド・20～24歳女性の子宮頸がんによる5年ごとの死亡数 - 英で子宮頸がん死亡ゼロに 20代前半、ワクチン接種で - 写真・画像(1/1)&nbsp;&nbsp;nishinippon.co.jp",
       "sources": [
         {
-          "name": "西日本新聞me",
+          "name": "nishinippon.co.jp",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mQjVxSWU4NlNWN1FEaG45Qi1xdldfZ1BFaUZVNDJoRHd0Wk9yUTFORGx4VlRTTFNtSWEwNDZKZEhYMXRiblNRcHlCdVE2QWcyUTVJS2xn?oc=5"
         }
       ],
@@ -1392,7 +1044,7 @@
       "id": "f68606fb1c16",
       "title": "HPVワクチンの男子接種、費用対効果を低く見積もるような分析をするのはなぜ？ 理論疫学者が「国際標準のやり方ではない」と厳しく批判",
       "published": "2026-08-03T03:32:16+00:00",
-      "summary": "HPVワクチンの男子接種、費用対効果を低く見積もるような分析をするのはなぜ？ 理論疫学者が「国際標準のやり方ではない」と厳しく批判&nbsp;&nbsp;岩永直子のニュースレター子宮頸がんは唯一、ワクチンで予防できるがんなのに。「HPVワクチン」の男性への定期接種化はなぜ進まない？&nbsp;&nbsp;news.yahoo.co.jp",
+      "summary": "HPVワクチンの男子接種、費用対効果を低く見積もるような分析をするのはなぜ？ 理論疫学者が「国際標準のやり方ではない」と厳しく批判&nbsp;&nbsp;岩永直子のニュースレター子宮頸がんワクチン 被害証言まとめた展示 8月8日に講演会も 那覇市&nbsp;&nbsp;沖縄タイムス社子宮頸がんは唯一、ワクチンで予防できるがんなのに。「HPVワクチン」の男性への定期接種化はなぜ進まない？&nbsp;&nbsp;Yahoo!ニュース",
       "sources": [
         {
           "name": "岩永直子のニュースレター",
@@ -1676,6 +1328,19 @@
           ]
         }
       ]
+    },
+    {
+      "id": "a62651a61d4c",
+      "title": "「人工甘味料は脳に悪い」とする研究の問題点について専門家が解説",
+      "published": "2026-08-03T03:00:00+00:00",
+      "summary": "「人工甘味料は脳に悪い」とする研究の問題点について専門家が解説&nbsp;&nbsp;ライブドアニュース",
+      "sources": [
+        {
+          "name": "ライブドアニュース",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FSUFLQTRGLTBVckJ5cTdDUXE2bGh5V1paV1ZqdDA5bVZRc3dEM1NoZGJxbm5qNFZwbnlYN2lxV0tjZnVCeHRPN1ZGQnEyNzBsRENuRW10dTN0anBpMEZr?oc=5"
+        }
+      ],
+      "matched_keywords": []
     },
     {
       "id": "dedf12cef9bb",
@@ -2224,7 +1889,7 @@
       "id": "d2616b1665aa",
       "title": "くる病や骨軟化などのリスク要因となるビタミンD欠乏 魚を週2回以上食べて買い物程度の外出を推奨する「ビタミンD貯金」提唱 大塚製薬栄養素カレッジで - 食品新聞 WEB版",
       "published": "2026-08-02T12:17:13+00:00",
-      "summary": "くる病や骨軟化などのリスク要因となるビタミンD欠乏 魚を週2回以上食べて買い物程度の外出を推奨する「ビタミンD貯金」提唱 大塚製薬栄養素カレッジで&nbsp;&nbsp;食品新聞 WEB版夏に不足しがちな栄養の万能選手「ビタミンD」 専門家「短時間でも外に出て摂取を」&nbsp;&nbsp;産経ニュースくる病や骨軟化などのリスク要因となるビタミンD欠乏 魚を週2回以上食べて買い物程度の外出を推奨する「ビタミンD貯金」提唱&nbsp;&nbsp;news.yahoo.co.jp「ビタミンD欠乏」対策について講演する大阪公立大の桒原晶子教授＝30日、東京都渋谷区（千葉真撮影）&nbsp;&nbsp;産経ニュース",
+      "summary": "くる病や骨軟化などのリスク要因となるビタミンD欠乏 魚を週2回以上食べて買い物程度の外出を推奨する「ビタミンD貯金」提唱 大塚製薬栄養素カレッジで&nbsp;&nbsp;食品新聞 WEB版夏に不足しがちな栄養の万能選手「ビタミンD」 専門家「短時間でも外に出て摂取を」&nbsp;&nbsp;sankei.com過度なUVケアも原因？日本人の9割以上が足りない「ビタミンD欠乏」の実態&nbsp;&nbsp;@DIME アットダイムくる病や骨軟化などのリスク要因となるビタミンD欠乏 魚を週2回以上食べて買い物程度の外出を推奨する「ビタミンD貯金」提唱&nbsp;&nbsp;Yahoo!ニュース「ビタミンD欠乏」対策について講演する大阪公立大の桒原晶子教授＝30日、東京都渋谷区（千葉真撮影）&nbsp;&nbsp;sankei.com",
       "sources": [
         {
           "name": "食品新聞 WEB版",
@@ -2258,31 +1923,6 @@
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "c01bec8b1b6e",
-      "title": "《新型コロナ》インフルエンザより“リスク大”な脅威「命を失う点では、圧倒的に危険」決定的な違いと、身を守る4つの感染予防",
-      "published": "2026-08-01T22:00:00+00:00",
-      "summary": "《新型コロナ》インフルエンザより“リスク大”な脅威「命を失う点では、圧倒的に危険」決定的な違いと、身を守る4つの感染予防&nbsp;&nbsp;週刊女性PRIME熱中症と思ったら「夏コロナ」 #エキスパートトピ（倉原優） - エキスパート&nbsp;&nbsp;news.yahoo.co.jp高齢者に重症化リスク、コロナはいまも ＪＩＨＳ国際感染症センター長・大曲貴夫さんに聞く&nbsp;&nbsp;朝日新聞",
-      "sources": [
-        {
-          "name": "週刊女性PRIME",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1lT3BvV243aU80cTBTdXNPXzJjeFY1YllSWXVWeDhoWTB3UDRZUzlkMEJNRTUtZFpUSHBMQ1dibE1TMmkzT3loX1hzN2NiMWV3Z0p6dkhEd2g5VXhh?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "influenza",
-          "keyword": "インフルエンザ",
-          "related_drugs": [
-            {
-              "slug": "oseltamivir",
-              "name": "タミフルドライシロップ３％（選）"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "27ac0482a622",
@@ -2815,13 +2455,13 @@
       "matched_keywords": []
     },
     {
-      "id": "f474b9814c18",
+      "id": "778644f74cd2",
       "title": "7月28日は「日本肝炎デー」も、97％が\"肝臓の日\"を知らないと回答──全国500人調査で見えた肝活の実態",
       "published": "2026-07-28T01:18:02+00:00",
-      "summary": "7月28日は「日本肝炎デー」も、97％が\"肝臓の日\"を知らないと回答──全国500人調査で見えた肝活の実態&nbsp;&nbsp;西日本新聞meプレスリリース：第14回世界・日本肝炎デーフォーラムに徳光 和夫氏が登壇（PR TIMES）&nbsp;&nbsp;毎日新聞7月28日は世界肝炎デー｜GMEのB型・C型肝炎郵送検査は累計13万件を突破、国内推計200万人以上の肝炎ウイルスキャリアへ検査機会の拡大を呼びかけ&nbsp;&nbsp;オリコンニュース仙台のシンボル テレビ塔の一つがスカイブルーにライトアップされた理由は&nbsp;&nbsp;河北新報オンライン“沈黙の臓器”肝臓 放置すると命にかかわるC型肝炎は「飲み薬でほぼ100％消える時代」 増えているのは生活習慣が原因の肝炎 早期発見へ検診を（福井テレビ）&nbsp;&nbsp;news.yahoo.co.jp",
+      "summary": "7月28日は「日本肝炎デー」も、97％が\"肝臓の日\"を知らないと回答──全国500人調査で見えた肝活の実態&nbsp;&nbsp;nishinippon.co.jpプレスリリース：第14回世界・日本肝炎デーフォーラムに徳光 和夫氏が登壇（PR TIMES）&nbsp;&nbsp;mainichi.jp7月28日は世界肝炎デー｜GMEのB型・C型肝炎郵送検査は累計13万件を突破、国内推計200万人以上の肝炎ウイルスキャリアへ検査機会の拡大を呼びかけ&nbsp;&nbsp;オリコンニュース仙台のシンボル テレビ塔の一つがスカイブルーにライトアップされた理由は&nbsp;&nbsp;河北新報オンライン“沈黙の臓器”肝臓 放置すると命にかかわるC型肝炎は「飲み薬でほぼ100％消える時代」 増えているのは生活習慣が原因の肝炎 早期発見へ検診を（福井テレビ）&nbsp;&nbsp;Yahoo!ニュース",
       "sources": [
         {
-          "name": "西日本新聞me",
+          "name": "nishinippon.co.jp",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FaFljbzdzemZKYmE0bGpsZlFnTV9zeTN1Z0RBYTJVZjN0TEdUa2xIa2FaMlA0NmxvU0lNWnFaNkEzVlVjS2JlSkNOaV9vdFpTd2o0ZjF3?oc=5"
         }
       ],
