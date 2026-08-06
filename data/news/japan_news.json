@@ -1,43 +1,235 @@
 {
   "source": "japan_news",
-  "fetched_at": "2026-08-06T13:40:44.291139+00:00",
-  "total_fetched": 134,
-  "unique_count": 134,
-  "health_related_count": 52,
+  "fetched_at": "2026-08-06T23:49:02.263937+00:00",
+  "total_fetched": 156,
+  "unique_count": 156,
+  "health_related_count": 67,
   "news": [
     {
-      "id": "fda802e94265",
-      "title": "胃の不快な症状をラクにする「下脘」。消化不良や下痢、吐き気、しゃっくり止めにも(家庭画報.com)",
-      "published": "2026-08-06T12:20:10+00:00",
-      "summary": "中医学のエキスパートである鍼灸師の兵頭 明先生が、ツボの効能や位置、効くメカニズムを解説します。健康の土台作りに、不調改善に、1日1分のツボ押しを習慣にしましょう。",
+      "id": "3d368c042a0b",
+      "title": "子どもが勝手に勉強する方法とは？「手放す」育児で成績が上がる理由を中学受験塾代表が解説(ダイヤモンド教育ラボ)",
+      "published": "2026-08-06T23:48:16+00:00",
+      "summary": "親がガミガミ言わなくても、子どもが勝手にがんばって勉強し、成績がぐんぐん伸びていく──。そんな方法がある、と中学受験専門塾「伸学会」代表の菊池洋匡さんはいいます。YouTube「中学受験に向けた子育",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/7be39757a25e5cbedd7ef441e0889cf5d58bd6a6?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/c1892d3288e6ad1e55a760e68e132aa440a54904?source=rss"
         }
       ]
     },
     {
-      "id": "2c4b16fa3cf9",
-      "title": "店の軒先にハチが何度も巣を作ろうとする→意外な解決法に「なんと！」「こんな方法があったのか」「効果あるんだ」(ねとらぼ)",
-      "published": "2026-08-06T12:15:00+00:00",
-      "summary": "店の軒先に何度も巣を作ろうとするアシナガバチ。そこで、新聞紙で“あるもの”を作って対策してみたという体験談がX（旧Twitter）で注目を集めています。この投稿は記事執筆時点で96万件以上表示され、",
+      "id": "fcadef5fb23b",
+      "title": "ビールだけ飲むと倒れる「ふらつくビアグラス」発売　“強制的に水を飲む”仕掛けで適正飲酒を後押し(オーヴォ)",
+      "published": "2026-08-06T23:30:00+00:00",
+      "summary": "クラフトビール「よなよなエール」で知られるヤッホーブルーイング（長野県軽井沢町）が、ビールだけを飲むと倒れてしまうユニークなグラス「ふらつくビアグラス by よなよなエール」を開発した。アルコールに",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/0b0d58bdd643e8b6f3281fa6732bc1e578d39606?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/78f4a53be728b15de4313bda0ad1d4f565b49b0d?source=rss"
         }
       ]
     },
     {
-      "id": "c2e3c0c8a851",
-      "title": "【男性に聞いた】東大・京大以外で入学してみたい「国立大学」ランキング！　2位は「東北大学」、1位は？(ねとらぼ)",
-      "published": "2026-08-06T12:10:00+00:00",
-      "summary": "幅広い学問分野を扱い、高度な教育や研究を行っている国立大学。優れた研究実績や特色ある取り組みなどを背景に、東大・京大以外で入学先として注目される大学も少なくありません。 そこで、ねとらぼでは、ア",
+      "id": "ce92546597fd",
+      "title": "飛行機で「モバイルバッテリー」使用禁止　知らずに充電→発火したら乗客の責任？　賠償責任のリスクとは【弁護士解説】(オトナンサー)",
+      "published": "2026-08-06T23:15:00+00:00",
+      "summary": "間もなくお盆を迎えます。帰省や旅行を計画している人は多いのではないでしょうか。一方で近年、電車内で客が所持していたモバイルバッテリーが発火する事案が相次いでいます。 こうした事態を受け、国土交通",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/f59a646504627f93ecba29bc4a25a3a17e6db574?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/fc01635bdae466ff50d02dbd66e24fe1731e01b3?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "64072c06076c",
+      "title": "夏のダメージで強張った肌を、やわらかくほぐす！皮膚の変態・大野真理子のレスキュースキンケア、目元＆美容医療編(VOCE)",
+      "published": "2026-08-06T23:05:05+00:00",
+      "summary": "肌ダメージが蓄積しやすい夏から、乾燥が厳しくなる秋へ。一年で最も過酷な季節だからこそ、スキンケアのスイッチングが大切。大野真理子さんの“夏老け”しないスキンケアをお届け！今回は、目元ケア＆美容医療につ",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/08d4fcc31a92a15ec06d40ba11a44a95a1b78b5f?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "e63bd28e3ab1",
+      "title": "【大人の今日のコーデ】ほのかな透け感でスマートなシャツが女っぽく様変わり(＠BAILA)",
+      "published": "2026-08-06T23:04:43+00:00",
+      "summary": "きれい色が旬！ いつものスマートなシャツが女っぽく様変わりするシアー素材を取り入れて。シャツの透け感やさりげなく見える手首や首まわりの素肌感に加え、顔映え効果もあるやわらかなグリーンがほどよく女っぽさ",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/eef322dfad5b6256967db1479206b5dfb8fbeff1?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "d146cdd9fec4",
+      "title": "親子留学を「大金の無駄遣い」で終わらせる親の“残念すぎる特徴”…英語力は関係ありません。(ダイヤモンド・オンライン)",
+      "published": "2026-08-06T23:00:34+00:00",
+      "summary": "商社勤務を踏まえて日本人ビジネスパーソン向け英語教材を開発する筆者（米NY在住）が見聞きした「親子留学」の典型的な「失敗例/成功例」を紹介します。日数でもプログラム内容でもなく、英会話が上手になる親",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/9c67e281db0301979e94e9670a3fe8c02ea54c23?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "5c8155fa7b0a",
+      "title": "健康長寿ホルモン「アディポネクチン」を増やせ／医師で作家・鎌田實氏(日刊スポーツ)",
+      "published": "2026-08-06T23:00:00+00:00",
+      "summary": "鎌田式『百年健康』のつくり方＜43＞ アディポネクチンは、体内の脂肪細胞から分泌される善玉ホルモンの名称で、「脂肪燃焼ホルモン」とも呼ばれている。脂肪を燃焼し、血管を修復する作用があり、高血圧・動",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/d3ad5ad3b8b44f172917f91c9a966bb94c06d5c7?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "7e1fd5dcd6c1",
+      "title": "赤ちゃんの頭の形は治せる？「宇宙人みたい」と言われた我が子の頭…悩んだ母が試行錯誤の末にたどり着いた“ヘルメット治療”【作者に聞く】(ウォーカープラス)",
+      "published": "2026-08-06T23:00:00+00:00",
+      "summary": "二卵性双生児のポン子ちゃんとコン子ちゃん、三女のピイ子ちゃんを育てるサヤ山サヤ(@saya_twins1125)さん。SNSで育児エッセイ漫画を発信するサヤさんが、ウォーカープラスで連載中の「今日も三",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/3e4cf78f92d046db0d96c57f63cf0cd780aace5c?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "0c6e5548b620",
+      "title": "湖南から広がる流通ネットワーク　滋賀・野洲の巨大建物跡　国の原点知るランドマークか(産経新聞)",
+      "published": "2026-08-06T22:59:23+00:00",
+      "summary": "野洲市の中畑・古里遺跡で発見された巨大建物跡は、近畿で多くの拠点集落が断絶する激動期の弥生時代中期末（紀元前後）に築造された。近江（滋賀県）の弥生土器の最新研究によると、この時期に野洲川流域の湖南地域",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/36ec902f7dc4248260948028e7b0fc416aa290b3?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "33bebf2dcdc5",
+      "title": "【脳の専門医が教える】「減塩＝我慢」はもう古い！脳が満足する「美味しい食事」3つの工夫(ダイヤモンド・オンライン)",
+      "published": "2026-08-06T22:45:28+00:00",
+      "summary": "健康診断で血圧を指摘され、「減塩＝味が薄くてつまらない」と挫折していませんか？ 実は、減塩は我慢ではなく、繊細な味覚を取り戻す「アップデート」のチャンス！ 脳の専門医が、塩味に頼らずに「極上の味」を",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/1b65572ff32bebb86526210fdf2846856a9df5a6?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "5a893142e83d",
+      "title": "「高学力＝ストレスに耐えられる」ではない　秀才が苦しむ一方、収入・満足度が高いのは……　医学生・医師1000人超を分析(ITmedia NEWS)",
+      "published": "2026-08-06T21:55:08+00:00",
+      "summary": "ポーランドのグダニスク医科大学に所属する研究者が発表した論文「Why academic selection fails to protect against physician burnout: a",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/faad0f3ded889769b18d980597b2767bce7a4a03?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "663e08b178c6",
+      "title": "AI使い自然界にないウイルスを作成 米スタンフォード大学が成果発表 - 日本経済新聞",
+      "published": "2026-08-06T21:24:36+00:00",
+      "summary": "AI使い自然界にないウイルスを作成 米スタンフォード大学が成果発表&nbsp;&nbsp;日本経済新聞AI設計の機能する人工ウイルス、サイエンス誌掲載 対策の必要性も [AIの時代]&nbsp;&nbsp;朝日新聞ＡＩ「新ウイルス」設計 米研究 病原体実現、悪用懸念&nbsp;&nbsp;琉球新報デジタル生成AIが「新ウイルス」設計 細菌内で増殖確認、米大学が研究（共同通信）&nbsp;&nbsp;Yahoo!ニュース生成ＡＩが「新ウイルス」設計&nbsp;&nbsp;北日本新聞webunプラス",
+      "sources": [
+        {
+          "name": "日本経済新聞",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hNUtYR3FIWG5rRThMMkwydm9reEF5c1J6TmVwMUZVb3BTNzlLOTVKSVB0eFRBT3FSdS1TXzdwOFdaWVg0b1ZaT05ELVF1Q3dMZ3U4clNEMG92TG9xUURxdkxQUlBGa3E5UlRBag?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7d7db6db16c3",
+      "title": "重症の新型コロナウイルスは精子を介して子孫の不安傾向に影響を及ぼす可能性 - au Webポータル",
+      "published": "2026-08-06T21:01:07+00:00",
+      "summary": "重症の新型コロナウイルスは精子を介して子孫の不安傾向に影響を及ぼす可能性&nbsp;&nbsp;au Webポータル",
+      "sources": [
+        {
+          "name": "au Webポータル",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CSTJjblcwRGJvQnRiOEt6c1gzeEl0cmtCZXluU3pZT0RjRC1MN3ozWGROazF4bW44MU9pMGpMazlPV0Y2dUdIOFBWUVVVbWcxNXJyblZ6eVl3bUNJZEQ2Q20tNFJITkZrM0RUMGZR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d7fc217292ec",
+      "title": "ユニバーサル・スタジオ・ハリウッドで麻疹（はしか）感染警告 7月26日来園者に注意喚起 症状確認とワクチン接種歴の確認を（8/6） - LALALA USA",
+      "published": "2026-08-06T18:03:04+00:00",
+      "summary": "ユニバーサル・スタジオ・ハリウッドで麻疹（はしか）感染警告 7月26日来園者に注意喚起 症状確認とワクチン接種歴の確認を（8/6）&nbsp;&nbsp;LALALA USA",
+      "sources": [
+        {
+          "name": "LALALA USA",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9mbjBiY3FlYTF3QnJBaFVhSVRxaG1uVWhnenhVaV9WU1AzMklOVXk1OEJheURRS1RoTi1uNkt2X1lUWV9XX2pvb0pySUY?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "68546649aeaa",
+      "title": "音楽療法、スポーツ栄養、持続可能な食生活は、メンタルヘルス向上・回復に相乗的効果を発揮 - sndj-web.jp",
+      "published": "2026-08-06T15:05:57+00:00",
+      "summary": "音楽療法、スポーツ栄養、持続可能な食生活は、メンタルヘルス向上・回復に相乗的効果を発揮&nbsp;&nbsp;sndj-web.jp",
+      "sources": [
+        {
+          "name": "sndj-web.jp",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9XQnNsSmt3cUJrN0lhT1N4cTRwY3VNZERWRmhKQktYUEtTYUZUWFJZTW9pdnJIcUtPRE5HUG0zSXo5MjBSYTAwVXgyaw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "18167e131f20",
+      "title": "コロナ19が潜伏ウイルス再活性化 長期症状と関連示す - CHOSUNBIZ - Chosunbiz",
+      "published": "2026-08-06T13:32:00+00:00",
+      "summary": "コロナ19が潜伏ウイルス再活性化 長期症状と関連示す - CHOSUNBIZ&nbsp;&nbsp;Chosunbiz",
+      "sources": [
+        {
+          "name": "Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYW1vYnk2QXBLRkJPc2E1SW15UFRzVFFmQmU5MmZPaHp1N25MbGlkTGxXeUt4ZVllaHF1NGU1RmxqWkY0SWQySUZSTVpVc3dJdWczZTVxOXZhNFNaNDBROWVfNDY4aVRBbXdmY2pUYzEyVE14MmxFWnpXSFFzQkxFVNIBlAFBVV95cUxNT1g4QS1UQTB5d0xOR1c2NkhUSjhZOU1fX2RaWU9wYVdISmVFSFdyZDAyZjRzUmlkU3haQnVzS1djTHdzSHFpbFhQSDZxQzZUR2d0NGloN3JHZUlwLUdrQm5DeklMRmYxZmh5Nk9wQkZJNTVEekFMcEU2cHBDcVI0aERnNXNVR1pmam1QeGRLT3pYdXM4?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7da35633f936",
+      "title": "【外国語を話す人は脳が若い？】最新研究で分かった話す言語の数と脳の老化の関係（ヨガジャーナルオンライン） - Yahoo!ニュース",
+      "published": "2026-08-06T11:10:00+00:00",
+      "summary": "【外国語を話す人は脳が若い？】最新研究で分かった話す言語の数と脳の老化の関係（ヨガジャーナルオンライン）&nbsp;&nbsp;Yahoo!ニュース",
+      "sources": [
+        {
+          "name": "Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54Y1A1OVo4Q0xUc21SdHBBdGVUQlladmN0Y0JtSjltcHB6OXVKZmJrWjFFa295elhxQTUzbURmbWR0N0hoZzR4RXhrSkU2amlIaWZPM1k4NmZzNVFaN093cmozWTRuMkFPOS1zLVJxU2lHZXhYQmhqUXRuYVZwTFU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "69478a318045",
+      "title": "「前頭側頭型認知症」は”MRI検査”でどう写る？他の認知症との違いも医師が解説！ - メディカルドック",
+      "published": "2026-08-06T09:47:57+00:00",
+      "summary": "「前頭側頭型認知症」は”MRI検査”でどう写る？他の認知症との違いも医師が解説！&nbsp;&nbsp;メディカルドック",
+      "sources": [
+        {
+          "name": "メディカルドック",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5IbGxFZHhsWGw1ckNOV18yb1pGV3BVTlRiMGZYT3lJdnk1VmJwNTdxcnEtRGtKUW8ydUMzc1JGdG1fR1Z0NlN0cFNLdWpsOG00ZTNtTkI0RmJOZlRSNGR5ZzhGUEZ4ZzdEM204?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4fc1efcc41ab",
+      "title": "脳の神経細胞の修復を助ける…最新研究で注目の「身近な食べ物」の名前とは【脳科学者が解説】 - ダイヤモンド・オンライン",
+      "published": "2026-08-06T09:00:00+00:00",
+      "summary": "脳の神経細胞の修復を助ける…最新研究で注目の「身近な食べ物」の名前とは【脳科学者が解説】&nbsp;&nbsp;ダイヤモンド・オンラインGoogle ニュースで見出しと意見をもっと見る",
+      "sources": [
+        {
+          "name": "ダイヤモンド・オンライン",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tT3kwaHM0RWVmbW9KU1hidHdqTmpGS18tS2YxcGRFMWtYekZ1am1IWWMwa19lc1FKa3lYdXhobU1IeE9jYjRVZWt2UG4xd3F2SE41ZFV30gFPQVVfeXFMUEh0RFVsdWpvOGVmemNMREpQNUMxVVR3elF5aEliOWhQUEFPLTRvdnhrS0xBSUZKRGhYUlVDVGV6ZmQ4ck9WYUFnQVlYT1VpRQ?oc=5"
         }
       ]
     },
@@ -54,26 +246,50 @@
       ]
     },
     {
-      "id": "baa4697ffa67",
-      "title": "熱中症の陰に潜む“夏の心臓リスク” 酷暑・脱水による循環器への負担28.3％が「知らなかった」―「夏バテ」「暑さのせい」と放置する危険な実態も判明 - 時事ドットコム",
-      "published": "2026-08-06T07:46:00+00:00",
-      "summary": "熱中症の陰に潜む“夏の心臓リスク” 酷暑・脱水による循環器への負担28.3％が「知らなかった」―「夏バテ」「暑さのせい」と放置する危険な実態も判明&nbsp;&nbsp;時事ドットコム",
+      "id": "6f32b38f08f9",
+      "title": "麻しんについて - 徳島県ホームページ",
+      "published": "2026-08-06T08:33:26+00:00",
+      "summary": "麻しんについて&nbsp;&nbsp;徳島県ホームページ8月4日は「はしか予防の日」〜2026年、大人の感染が急拡大中〜&nbsp;&nbsp;ｄメニューニュース8月4日は「はしか予防の日」～2026年、大人の感染が急拡大中～&nbsp;&nbsp;千葉テレビ放送",
       "sources": [
         {
-          "name": "時事ドットコム",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zVnRleVZHZ2hlR3FRZmFSWlVuam9NQWhTd29neV9qbWtwMTEtMUxBa0NsMXpXaXkxUG5Cak1fZnNXM1BWeHphQ0hRRzZPSlIzcVNieWd0ZFR2by15cHF5Z0I0bENhZjhMVHln?oc=5"
+          "name": "徳島県ホームページ",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54UXl4aDJYUTZGMWVYS2FQTENzZXpJQXB4blBtZXpQVmxveGlvaWNJS3FDVVpTdHBPWnVicjUyY25oM2E1RE9qTWdRb1BfRnhCY0swMWJwd2Z6V0JCUVN3N2NkVm8wWDBwQ29HWVRsaUQtdDduMUVlTQ?oc=5"
         }
       ]
     },
     {
-      "id": "f9282355b820",
-      "title": "ブタの日本脳炎抗体保有状況－2026年度速報第3報 - id-info.jihs.go.jp",
-      "published": "2026-08-06T05:31:03+00:00",
-      "summary": "ブタの日本脳炎抗体保有状況－2026年度速報第3報&nbsp;&nbsp;id-info.jihs.go.jp",
+      "id": "485f8301b3d9",
+      "title": "【健康長寿の土台となる「骨」】長持ちさせるには骨に刺激を与えることが重要「その場飛びのジャンプ」や「15分日光に手を当てるだけ」でも効果的（女性セブンプラス） - Yahoo!ニュース",
+      "published": "2026-08-06T07:00:00+00:00",
+      "summary": "【健康長寿の土台となる「骨」】長持ちさせるには骨に刺激を与えることが重要「その場飛びのジャンプ」や「15分日光に手を当てるだけ」でも効果的（女性セブンプラス）&nbsp;&nbsp;Yahoo!ニュース",
       "sources": [
         {
-          "name": "id-info.jihs.go.jp",
+          "name": "Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcnJEYmcwZ09SeTRlM05fUEg4S09QdjRwTmJaQ2dodUpEd1VUczJ6YURSaW9ob1ZlRWJUWm5vQXJOdnRDd1hBaDRjQ0xBZEVOYmhZOTNRcGsteDNUeHNTQTFNVzgzb1NRRVlyX3lRNHR1Z18xZXdMMndXZ3lOanI0ZFVOdFV5Q183?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "310b2ffceaad",
+      "title": "ブタの日本脳炎抗体保有状況－2026年度速報第3報 - 国立健康危機管理研究機構",
+      "published": "2026-08-06T05:31:03+00:00",
+      "summary": "ブタの日本脳炎抗体保有状況－2026年度速報第3報&nbsp;&nbsp;国立健康危機管理研究機構",
+      "sources": [
+        {
+          "name": "国立健康危機管理研究機構",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS2Q5RG90UEc5Q1JQVktZN1lnQ0M5aWJET050MGQyc1Y5UFpuWi1odlZ6eGw2empyT0dCSUlGQW9BM0l0RVJ0WWNiai1GVWdOcHhYMzN6V3lsVEVwZzVSWXl0RzJlQTVqSk02cktjWUx2WEZNRm1jUzhOMVdOWFhubTZQMTE1R0VmOG4xY000QzRkb09vZzhUenpOSQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "02477533805b",
+      "title": "「MRI検査の造影剤」で”何が分かる”かご存じですか？副作用と注意点も医師が解説！ - メディカルドック",
+      "published": "2026-08-06T04:02:37+00:00",
+      "summary": "「MRI検査の造影剤」で”何が分かる”かご存じですか？副作用と注意点も医師が解説！&nbsp;&nbsp;メディカルドック",
+      "sources": [
+        {
+          "name": "メディカルドック",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5yaDlaUU9NZndUN2l4WGdjenU1VmI5S3Jka0JCT2ZLbkNTWGFtTXFBY1Y3ZThIRG5ESGYyWHY5QnlDU1pzZzdXVHVTT0t4cWV5NVhZWERn?oc=5"
         }
       ]
     },
@@ -90,14 +306,14 @@
       ]
     },
     {
-      "id": "8f72c3a23b47",
-      "title": "中年期に「3つのリスク要因」に気を付ければ認知症の発症を13年間も遅らせられるかもしれない - au Webポータル",
-      "published": "2026-08-06T03:02:53+00:00",
-      "summary": "中年期に「3つのリスク要因」に気を付ければ認知症の発症を13年間も遅らせられるかもしれない&nbsp;&nbsp;au WebポータルGoogle ニュースで見出しと意見をもっと見る",
+      "id": "274a64f1472d",
+      "title": "生分解性チューインガムは、HPVウイルスと癌関連細菌を大幅に減少させる。 - Vietnam.vn",
+      "published": "2026-08-06T03:13:45+00:00",
+      "summary": "生分解性チューインガムは、HPVウイルスと癌関連細菌を大幅に減少させる。&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
-          "name": "au Webポータル",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1NTVJsUUFVZGNvZkJLQzNycDFyc2VVbF8wWlpnR1NsZktJTWFJaUpFTUJSVUQ4WDduVzhCa1ctNndwMGpEOWZzZ1psNWRlYkxCY3lYVUJvbXNEcTBIR1dGcDl4U3F2XzV5QjByU09R?oc=5"
+          "name": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObWV2Y1lxRmtIaXVVZXJLWG1QTERlb2k3bE9Vd201d2twcXVoanRKX200d1g5V2t1MnpuYmZhUklqT21IQ0lSMjJJVU02RmlKaDZLWEdUZlRIRlQyWXZkN2lnb2VUZUhtZFRzUjFzOWxYa0RyaEpWV3BROU1PUk9JNGNBQ2RZTmptVmdTdXNDRzROeTZaMXZrSlp2dw?oc=5"
         }
       ]
     },
@@ -138,26 +354,26 @@
       ]
     },
     {
-      "id": "d8f630605544",
-      "title": "隠れ内臓脂肪が心臓の老化を加速させる／医師で作家・鎌田實氏 - 日刊スポーツ",
-      "published": "2026-08-05T23:00:00+00:00",
-      "summary": "隠れ内臓脂肪が心臓の老化を加速させる／医師で作家・鎌田實氏&nbsp;&nbsp;日刊スポーツGoogle ニュースで見出しと意見をもっと見る",
+      "id": "dbdc1ec555b7",
+      "title": "認知症ケアに“音”の可能性 40Hzのリズムで脳に刺激、介護現場で続く新たな挑戦 - au Webポータル",
+      "published": "2026-08-05T22:08:56+00:00",
+      "summary": "認知症ケアに“音”の可能性 40Hzのリズムで脳に刺激、介護現場で続く新たな挑戦&nbsp;&nbsp;au WebポータルGoogle ニュースで見出しと意見をもっと見る",
       "sources": [
         {
-          "name": "日刊スポーツ",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91cEx5RlBsU1lmVXZiNVkyNldYT2xnSkdOUEVMRE91d3VzV09yOHRNQXBfN1BnNFFVSGpTelNwOWhPdnN5THhNdXJQdjVYNVpUN2NOZVU3VzVNU3lJYWd1QWJlSndZQWRrbDR6TVk5VDM1c2EweVFpQtIBgAFBVV95cUxQVmNreEJHWFhNWDU2ajlSbENVVTAyVFhSdjdXQ3M1aU95SkwwVmh4RDJkakJyRDdlWng0RDc5d2ZoMnpkSVNhWUJWUnFwTmJJUGVkY1h6ZmpuR0JZdGxfQUd6UUx4VFpzN1hSR3pnRzlOZWw5UUZiVmlFY0FUaFhiXw?oc=5"
+          "name": "au Webポータル",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qQU1ucXlWSnFiQXlkdnY3ckFfcjRJUElhQ2xzcVVYeldYa2NJNWFta0N0QXVZLWNaN2VBcjZZVndkZUdtaXZBeEs4NmlSQnhHTVJ6eDkyanJBR2pjNm40RDVRaXhVOXEzN01VSjd3?oc=5"
         }
       ]
     },
     {
-      "id": "bdd3b6de8f9a",
-      "title": "認知症ケアに“音”の可能性 40Hzのリズムで脳に刺激、介護現場で続く新たな挑戦 - デイリースポーツ",
+      "id": "dc55056ae19f",
+      "title": "スマホを長時間使う人ほど不安が大きい? ハーバード大などの研究が示す意外なリスク - news.mynavi.jp",
       "published": "2026-08-05T22:00:00+00:00",
-      "summary": "認知症ケアに“音”の可能性 40Hzのリズムで脳に刺激、介護現場で続く新たな挑戦&nbsp;&nbsp;デイリースポーツGoogle ニュースで見出しと意見をもっと見る",
+      "summary": "スマホを長時間使う人ほど不安が大きい? ハーバード大などの研究が示す意外なリスク&nbsp;&nbsp;news.mynavi.jp",
       "sources": [
         {
-          "name": "デイリースポーツ",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1iRm4ybndvOXZ5RFJ1TnBySjFlNXFndDJWOXRIRWtVZ2ZTSXRTRkRjS1N4a1dWUjAteFZNSUNfbm5YY0U0NXBrOE1PSU53c2VXUFdhcldPREhvQnBrRmVkY1UyTDY3VlByUTlLMEpGT0xrc05NU0c3RQ?oc=5"
+          "name": "news.mynavi.jp",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGdWo4Q1BqLWFkSDJZREp0UkJFZWlYd2pONHZ6WDc3NF81UXFORHFLcGJXMG4tUnJESGFXdnNBMGlXWFRRd2hQQVh6azFISTVDWl9EN2U2VFdtWlhCUEpnblZRVVlOS3c?oc=5"
         }
       ]
     },
@@ -210,14 +426,14 @@
       ]
     },
     {
-      "id": "cc49fb70fa78",
-      "title": "ハティン省は、113人の感染者を伴う長期にわたるデング熱の流行を抑制することに注力 - Laodong.vn",
-      "published": "2026-08-05T13:18:30+00:00",
-      "summary": "ハティン省は、113人の感染者を伴う長期にわたるデング熱の流行を抑制することに注力&nbsp;&nbsp;Laodong.vn蚊が格安宿泊施設を包囲、住民はデング熱の流行に不安&nbsp;&nbsp;Laodong.vn",
+      "id": "a2a78f6a5f09",
+      "title": "日本で急増の子宮体がん、初期症状は「あの変化」？ 40代以降の女性必見“5つのサイン”を医師が解説【Gallery】 - メディカルドック",
+      "published": "2026-08-05T14:54:57+00:00",
+      "summary": "日本で急増の子宮体がん、初期症状は「あの変化」？ 40代以降の女性必見“5つのサイン”を医師が解説【Gallery】&nbsp;&nbsp;メディカルドック日本で急増の子宮体がん、初期症状は「あの変化」？ 40代以降の女性必見“5つのサイン”を医師が解説&nbsp;&nbsp;メディカルドック【画像】40代以降の女性必見 子宮体がんの初期症状について医師が解説 1/7&nbsp;&nbsp;ライブドアニュース",
       "sources": [
         {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZUdTTkFMTndRMjFwN3Nwc0VRN1NnOS02RU85bW9CTnhLNk9yUUZWYVMyWmFfMjlQNGJMTjQtcllNZjZ3QXFMTU1yMmNRZGdiMV9vY21FQlZibkNZN3JXdDhtUEo5bld6dkVhaU5uOVZObEllem9YQUIxUGRLNzl5NzFaRFZtVWIyaFBWbUx0ek9pQndvekJiazJXTW51MUZkSXJUUVpwLVFQaHc5RWc?oc=5"
+          "name": "メディカルドック",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vcGlkSE95b2FURzQzdGRkdFZXZmxkUG9MeUtlTkNQeFRDQUZUVVVHMVhMQVAxZ0V4UzF0cExKZU5sbTlKOGY5Y0w4X2YyWDk5QS1UdVpjSlpFWmdIWDR6ajZRbw?oc=5"
         }
       ]
     },
@@ -234,14 +450,14 @@
       ]
     },
     {
-      "id": "aac86fd33be2",
-      "title": "日本で急増の子宮体がん、初期症状は「あの変化」？ 40代以降の女性必見“5つのサイン”を医師が解説 - メディカルドック",
-      "published": "2026-08-05T10:01:28+00:00",
-      "summary": "日本で急増の子宮体がん、初期症状は「あの変化」？ 40代以降の女性必見“5つのサイン”を医師が解説&nbsp;&nbsp;メディカルドック【画像】40代以降の女性必見 子宮体がんの初期症状について医師が解説 1/7&nbsp;&nbsp;ライブドアニュース",
+      "id": "393d81e41b48",
+      "title": "配信者金バエさん、肝硬変の末路動画が飲酒リスクを浮き彫りに - x.com",
+      "published": "2026-08-05T11:38:50+00:00",
+      "summary": "配信者金バエさん、肝硬変の末路動画が飲酒リスクを浮き彫りに&nbsp;&nbsp;x.com",
       "sources": [
         {
-          "name": "メディカルドック",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3VzEwbXdjQm9mOTRYVklhZ2xGZmgzc181eHY4LUIxUnFjaVV2Z28tdzlhckhJdDNaOUY0RUJqLUMxRkF3QjQySFBfSEM2NUdBUzVwUWVSY0I?oc=5"
+          "name": "x.com",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtMFVtbFFhVTA1RWtFLVRtUU11WXMybEpFNmhjTHhneFFhemVLUTlrbVpFWlVGdGxOY29Rc3NMbkQ5XzhiVloyZWZzX0Q1MlQtcHA4djVJTQ?oc=5"
         }
       ]
     },
@@ -254,6 +470,18 @@
         {
           "name": "Laodong.vn",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQ002QmNmNlFfSTV3R0hiVUxTXzVMMHBHZ0hHQ2NBc2Z3U3pvQUprSGltNm1FUVU4M0IzYUJsN0lwdmJXY3lldzZ5UV94RHhRcHJLdkNxZEtfWnI2ZW5vaU5teG5GSjdocTJXSDIzOTQtN0hYQVFCRGs4NlhsajFiQVFyLWtvdkM5V1dDYS1MZkpLVk9sM2xxTDgxUzNSVHh3dXlZd1k3UDVnVzY2OVNkZHItMVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a267fc9c5e6f",
+      "title": "新生児の最初の産声と、B型肝炎ウイルスを阻止するための闘い。 - Vietnam.vn",
+      "published": "2026-08-05T08:29:08+00:00",
+      "summary": "新生児の最初の産声と、B型肝炎ウイルスを阻止するための闘い。&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUHdGeFlFWC1DRzhySHJDOUh6RWwzek9xZ05nTnZ1WWluLW9TLWRHYnRmTU0wX2J2TWM4RXJDajlmTDg1ck1IVnNoQVdOcG43bFBzTnhHNUZmeVFzeVE4aExfdENHZ0F2SGRfeGplZGZTUy1tUlRhR0NCbWhFTlVfZUtGcG5zOUpqbU40?oc=5"
         }
       ]
     },
@@ -282,10 +510,22 @@
       ]
     },
     {
+      "id": "82c4efc83294",
+      "title": "GLP-1薬は骨折リスクを上げる？下げる？｜CareNet.com - CareNet.com",
+      "published": "2026-08-05T07:00:00+00:00",
+      "summary": "GLP-1薬は骨折リスクを上げる？下げる？｜CareNet.com&nbsp;&nbsp;CareNet.com",
+      "sources": [
+        {
+          "name": "CareNet.com",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvdkhLZTVrZ0JUcWdfWm0tUnVsY00tZ2ZsdFg3MExZOE5NZUpoNVNZZTBkWUlTdHdaOHZvRmgtUks0N3N5b1pIMk9kUjlFT1ZLdHJ2ZHZNWWpERXpOcjRn?oc=5"
+        }
+      ]
+    },
+    {
       "id": "0314231a30d7",
       "title": "《健康長寿の要となる“腸”》腸内環境を整え理想的な便を出すための“3つの力”　食事により便を「作る力」、腸内細菌の力を借りて「育てる力」、運動で鍛える「出す力」 - ｄメニューニュース",
       "published": "2026-08-05T07:00:00+00:00",
-      "summary": "《健康長寿の要となる“腸”》腸内環境を整え理想的な便を出すための“3つの力” 食事により便を「作る力」、腸内細菌の力を借りて「育てる力」、運動で鍛える「出す力」&nbsp;&nbsp;ｄメニューニュース【暑すぎる…】夏バテ対策に腸活がいいってホント？簡単にできる方法5選［医師監修］｜美ST（magacol）&nbsp;&nbsp;Yahoo!ニュースたった3日で腸内細菌が20%増えた? ロンドン大博士が示した\"再野生化\"の力&nbsp;&nbsp;マイナビニュース",
+      "summary": "《健康長寿の要となる“腸”》腸内環境を整え理想的な便を出すための“3つの力” 食事により便を「作る力」、腸内細菌の力を借りて「育てる力」、運動で鍛える「出す力」&nbsp;&nbsp;ｄメニューニュース【暑すぎる…】夏バテ対策に腸活がいいってホント？簡単にできる方法5選［医師監修］｜美ST（magacol）&nbsp;&nbsp;Yahoo!ニュースたった3日で腸内細菌が20%増えた? ロンドン大博士が示した\"再野生化\"の力&nbsp;&nbsp;news.mynavi.jp",
       "sources": [
         {
           "name": "ｄメニューニュース",
@@ -306,13 +546,13 @@
       ]
     },
     {
-      "id": "5f0baf4ab9ee",
-      "title": "男性用HPVワクチンの世界市場（2026年～2032年）、市場規模（国内、輸入）・分析レポートを発表 - アットプレス",
+      "id": "6f1571f50b26",
+      "title": "男性用HPVワクチンの世界市場（2026年～2032年）、市場規模（国内、輸入）・分析レポートを発表 - atpress.ne.jp",
       "published": "2026-08-05T06:30:00+00:00",
-      "summary": "男性用HPVワクチンの世界市場（2026年～2032年）、市場規模（国内、輸入）・分析レポートを発表&nbsp;&nbsp;アットプレスGoogle ニュースで見出しと意見をもっと見る",
+      "summary": "男性用HPVワクチンの世界市場（2026年～2032年）、市場規模（国内、輸入）・分析レポートを発表&nbsp;&nbsp;atpress.ne.jpGoogle ニュースで見出しと意見をもっと見る",
       "sources": [
         {
-          "name": "アットプレス",
+          "name": "atpress.ne.jp",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5seW94dExKTlJwQTRmR1RMckwtWEx1d000d0xIcVdSd1lCQmlvVFdQckVlVjJNM2VUNHc1NW8tU0g1WFBURDgzN21IdHBIUQ?oc=5"
         }
       ]
@@ -330,14 +570,26 @@
       ]
     },
     {
-      "id": "28a2875db435",
-      "title": "スマホ依存は本当に自殺リスクと関連しているか？｜CareNet.com - CareNet.com",
-      "published": "2026-08-05T05:12:57+00:00",
-      "summary": "スマホ依存は本当に自殺リスクと関連しているか？｜CareNet.com&nbsp;&nbsp;CareNet.com",
+      "id": "41b7f4947d50",
+      "title": "1日30分の簡単な習慣で高齢者の認知機能低下を遅らせられるかもしれない (2026年8月5日掲載) - ライブドアニュース",
+      "published": "2026-08-05T05:00:00+00:00",
+      "summary": "1日30分の簡単な習慣で高齢者の認知機能低下を遅らせられるかもしれない (2026年8月5日掲載)&nbsp;&nbsp;ライブドアニュース体を動かすと脳も変化する 人生の後半、新たな趣味で認知機能を守る&nbsp;&nbsp;日本経済新聞中年期に「3つのリスク要因」に気を付ければ認知症の発症を13年間も遅らせられるかもしれない&nbsp;&nbsp;au Webポータル「認知症」になる人の共通点。今すぐやめるべき「お酒の習慣」とは？（ダイヤモンド・オンライン）&nbsp;&nbsp;Yahoo!ニュース50歳で脳に異変が始まる…最新研究が示した「お腹まわり」と認知症の意外な関係&nbsp;&nbsp;ダイヤモンド・オンライン",
       "sources": [
         {
-          "name": "CareNet.com",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uSk85QU9BbC1YaktqbThZR1hiQi1jWFBrNXk0QUlUYTRXcFpTYVJLcENWalktY2g1cWFLSEg4RlhhQk92cUhrM3BxZlVxSVZxTV9IZU5mU2tGWFJpYTNN?oc=5"
+          "name": "ライブドアニュース",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03TlVQT2hyeTdUUzZJcWR4UEpQNzZXMWFPYlE4eVdlbXAzdy0tb2ZURkVZSE1GOXZGT3dPT2J1cUR1Nkc3WTdST0hkZ2d4OEF1TWJTeDl1bC1ZRGZ1YUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "05509b722e85",
+      "title": "第14回 こども家庭審議会 科学技術部会 ヒト受精胚を用いる生殖補助医療研究等に関する専門委員会（令和8年8月5日開催） - wam.go.jp",
+      "published": "2026-08-05T03:35:51+00:00",
+      "summary": "第14回 こども家庭審議会 科学技術部会 ヒト受精胚を用いる生殖補助医療研究等に関する専門委員会（令和8年8月5日開催）&nbsp;&nbsp;wam.go.jp",
+      "sources": [
+        {
+          "name": "wam.go.jp",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPei1tWFhoZDlQbi1IV3FkMHZUOWNwSlB3NC1VUkM4Wm1UMlFDNUFDUElxYldNYW5ZVnZCRHVLang3ek44TU9NeGN4WVdYaVZkdnA0dDl4ZVBDTTFaUDdEbjAxT19vdHViOXBFbXZnSmZJNEk?oc=5"
         }
       ]
     },
@@ -366,14 +618,14 @@
       ]
     },
     {
-      "id": "4842f3a6c910",
-      "title": "イスラトラビル/レナカパビル配合剤、 抗レトロウイルス療法から切替のHIV陽性者へのウイルス学的抑制維持 - 共同通信PRワイヤー",
+      "id": "0a3a58eeeae2",
+      "title": "イスラトラビル/レナカパビル配合剤、 抗レトロウイルス療法から切替のHIV陽性者へのウイルス学的抑制維持 - AGARA紀伊民報",
       "published": "2026-08-05T02:00:00+00:00",
-      "summary": "イスラトラビル/レナカパビル配合剤、 抗レトロウイルス療法から切替のHIV陽性者へのウイルス学的抑制維持&nbsp;&nbsp;共同通信PRワイヤー世界に先駆け 日本発の抗ＨＩＶ薬登場&nbsp;&nbsp;下野新聞社「1980年代…当初は原因不明」HIV治療に突破口開いた日本人研究者 4月に新薬も登場（読売新聞（ヨミドクター））&nbsp;&nbsp;Yahoo!ニュース",
+      "summary": "イスラトラビル/レナカパビル配合剤、 抗レトロウイルス療法から切替のHIV陽性者へのウイルス学的抑制維持&nbsp;&nbsp;AGARA紀伊民報世界に先駆け 日本発の抗ＨＩＶ薬登場&nbsp;&nbsp;下野新聞社「1980年代…当初は原因不明」HIV治療に突破口開いた日本人研究者 4月に新薬も登場（読売新聞（ヨミドクター））&nbsp;&nbsp;Yahoo!ニュース",
       "sources": [
         {
-          "name": "共同通信PRワイヤー",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4aUg5SkFsejBLSFg2WUxBcUJ4YU9WRVZuaEZSazFLbURNQ2hidFROQ0Y4M3pqNGlTS3R1NHhXSkdwNDQzdUJSWGstQ3N0RkpOQXNVWGhUeER0THc?oc=5"
+          "name": "AGARA紀伊民報",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8tSVhRckRzVjBwMjdqV2ktQjE4UVpsZld3c2lIWXA3UWxjdEtGaU51a2hxMTB4LTQxU2FZcl9GSVQ4bFlXZE5VYU11NnBKSEk?oc=5"
         }
       ]
     },
@@ -402,14 +654,14 @@
       ]
     },
     {
-      "id": "053c077787b5",
-      "title": "ただの夏かぜと思ったらコロナ！？小児の新型コロナ治療薬、広がる選択肢と注意点 - 日経メディカル",
-      "published": "2026-08-04T22:15:03+00:00",
-      "summary": "ただの夏かぜと思ったらコロナ！？小児の新型コロナ治療薬、広がる選択肢と注意点&nbsp;&nbsp;日経メディカル",
+      "id": "7744c9d34d35",
+      "title": "損害賠償が高額となる場合って？【医療訴訟の争点】第23回 - CareNet.com",
+      "published": "2026-08-05T00:00:00+00:00",
+      "summary": "損害賠償が高額となる場合って？【医療訴訟の争点】第23回&nbsp;&nbsp;CareNet.com",
       "sources": [
         {
-          "name": "日経メディカル",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObHFmcm14VnRqZnJnVzhjaVMxZzFwNmtWQmhNbzFYNWxoVkZoRFIwTjN2anpSZzgtNVBUNGFndWZIeWNUSkx1enJHYzNjdTdkWXdGbEJmZi1lYkVVNmlYLTRHWlc5X19BcHVkUE9ILXNsbmlaaVZvQ3dUczg3RnU0Ty1PZnZkeGVUMkE?oc=5"
+          "name": "CareNet.com",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5JWG1aUFM0TVc3YllWWlZFRldRdWxCSV9PTFZEazBBYXExMUxPUUc0R3B5OEFoWDJlMElDbzQ5a0ZsamZNUTVGeXJPcWJBZ3lFZHFud3JieEk2RERVVEo2MVptRnR4ZlozYWQ0?oc=5"
         }
       ]
     },
@@ -422,66 +674,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/c6ccd8f0dcf64a64855072c24c8c58a748c5f2a8?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "9e15f2268cf0",
-      "title": "うつや不安、PTSD治療に新たな光 神経細胞でない注目の「標的」 - 日本経済新聞",
-      "published": "2026-08-04T20:00:00+00:00",
-      "summary": "うつや不安、PTSD治療に新たな光 神経細胞でない注目の「標的」&nbsp;&nbsp;日本経済新聞",
-      "sources": [
-        {
-          "name": "日本経済新聞",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1td1NBQk5adDBYbHhQSmFadnByaHN2cUt5RmRHcTUtb0Z3ZW1fclRMWWYycUhNVDhVNUktNVdScW1SXzJrSUFPNDVGbVgzbHFjb01oNngySy0yYzFFUW5mYjdoZ0VkR3UtTUFpWA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1178d9c0b3ba",
-      "title": "筋層浸潤性膀胱がん、周術期EV＋ペムブロリズマブが有効／NEJM｜CareNet.com - CareNet.com",
-      "published": "2026-08-04T19:00:00+00:00",
-      "summary": "筋層浸潤性膀胱がん、周術期EV＋ペムブロリズマブが有効／NEJM｜CareNet.com&nbsp;&nbsp;CareNet.com",
-      "sources": [
-        {
-          "name": "CareNet.com",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCVGdnTlNJcmVFNjVHaTNCdjFXYWh2OGRxZGdWV3BpY1lQeXI2Z1FSeEdDeFN5V1lWUlJNZUJBZ2U1YXlac2xlZEI4NDYxaHdKQkw3c1VwM3hxVXRmdnlV?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "55aefec8df42",
-      "title": "子どもの頃の逆境体験、成人後の市販薬乱用と関連｜CareNet.com - CareNet.com",
-      "published": "2026-08-04T19:00:00+00:00",
-      "summary": "子どもの頃の逆境体験、成人後の市販薬乱用と関連｜CareNet.com&nbsp;&nbsp;CareNet.com",
-      "sources": [
-        {
-          "name": "CareNet.com",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zTmJ5dXRqVEVCMU1DakdqTk1FVWFHX3RYTE1VOFFIWTZzVTNuQURKaU02ZUx5YThyY1dTaFAwNFpMX3hwTERyaEEyN3ZLempfZ0s0SXJJdEZ0VGM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "42af62e3e27b",
-      "title": "実臨床におけるレカネマブとAChE阻害薬の有用性比較｜CareNet.com - CareNet.com",
-      "published": "2026-08-04T19:00:00+00:00",
-      "summary": "実臨床におけるレカネマブとAChE阻害薬の有用性比較｜CareNet.com&nbsp;&nbsp;CareNet.com",
-      "sources": [
-        {
-          "name": "CareNet.com",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAzMHEyYmY5cjFzMlFfUTFRNTBzZkpZdjRGR3pUYjg1VFB0SVZ2SEMwU3ZvaFVpaHVfMnUyakxHcjkybk5aY0NtWGFGX01Zdzl2ZDlXSW4yTzRVSDdoOUdR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0395b8eff6d0",
-      "title": "遅発性精神病患者の約3分の2にタウタンパク質の蓄積―QST・京大研究 - 財経新聞",
-      "published": "2026-08-04T14:15:55+00:00",
-      "summary": "遅発性精神病患者の約3分の2にタウタンパク質の蓄積―QST・京大研究&nbsp;&nbsp;財経新聞40歳以降に発症する幻覚・妄想、「タウ」蓄積が関与か 量研機構など&nbsp;&nbsp;日本経済新聞中高年発症の幻覚・妄想、認知症原因たんぱく質が関与 QST実証&nbsp;&nbsp;日刊工業新聞（ぶらっとラボ）「タウ」蓄積が生む認知症状&nbsp;&nbsp;朝日新聞",
-      "sources": [
-        {
-          "name": "財経新聞",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1IU2syOXhnUTMzVzBBLWRwcnFCU2tIdVpYS2hWTmY1S2JDOFFzLTJwaHgyQzQtZ2tfMGwzWjVKb1gxZDZCWWw3ZkN5amU5cERrN0RUZVNhT0FiNTBPVjUtR3NKONIBaEFVX3lxTE5UU1lTNUNoYm5RSGgzbTlJaWJjaXJpT3pJMHN0NmprMlpzcDdOeFlZRUtEZ056ajl4MVNwSVFBRHlWeUYtS2luRVRONTRYOFhZQ3JnVVZHSkVOV3JIOUgzVl9xR2kyamFz?oc=5"
         }
       ]
     },
@@ -546,6 +738,18 @@
       ]
     },
     {
+      "id": "41383e4bc85c",
+      "title": "画像 | 心臓病や脳卒中だけじゃなかった…｢肥満｣はがんリスクも高める \"危ない肥り方\"や\"減量で予防可能\"か､医師が解説 - 東洋経済オンライン",
+      "published": "2026-08-04T00:22:21+00:00",
+      "summary": "画像 | 心臓病や脳卒中だけじゃなかった…｢肥満｣はがんリスクも高める \"危ない肥り方\"や\"減量で予防可能\"か､医師が解説&nbsp;&nbsp;東洋経済オンラインGoogle ニュースで見出しと意見をもっと見る",
+      "sources": [
+        {
+          "name": "東洋経済オンライン",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9lTGxmZGtLYko4QnNfaHVCc0lNSkRQSDk1NGRvZ2RKTjNDVVR5cHZJLXFHTW81cTRwdDY3bWhvNFpqUVRiS2U2OEtnSFp4bi03N3lJVGNscw?oc=5"
+        }
+      ]
+    },
+    {
       "id": "ea4709846808",
       "title": "早期の「膵臓がん」は専門病院でも“ほとんど発見されていない”理由を医師が解説(メディカルドック)",
       "published": "2026-08-03T11:02:04+00:00",
@@ -594,38 +798,14 @@
       ]
     },
     {
-      "id": "7f6c65d2fbf5",
-      "title": "商用化目指す光量子コンピューターが稼働 研究拠点で世界初(Science Portal)",
-      "published": "2026-08-03T06:10:24+00:00",
-      "summary": "産業技術総合研究所（産総研、茨城県つくば市）と東京大学発ベンチャー企業「OptQC」（東京都豊島区）は、次世代計算機として期待される光量子コンピューター1号機「MoQuren（モクレン）」の構築を終",
+      "id": "6a641afd0ea6",
+      "title": "40歳以降に発症する幻覚・妄想、「タウ」蓄積が関与か 量研機構など - 日本経済新聞",
+      "published": "2026-08-03T00:00:00+00:00",
+      "summary": "40歳以降に発症する幻覚・妄想、「タウ」蓄積が関与か 量研機構など&nbsp;&nbsp;日本経済新聞中高年発症の幻覚・妄想、認知症原因たんぱく質が関与 QST実証&nbsp;&nbsp;日刊工業新聞（ぶらっとラボ）「タウ」蓄積が生む認知症状&nbsp;&nbsp;朝日新聞",
       "sources": [
         {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/b46a67684ffc8f22a5699073262824e6ebd16b93?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "dedf12cef9bb",
-      "title": "長引く咳や息切れを放置していませんか。呼吸器専門医が伝えたい、検査と診断の大切さ(Medical Note)",
-      "published": "2026-08-03T02:52:15+00:00",
-      "summary": "長引く咳や息切れを、「年齢のせい」「風邪が長引いているだけ」と考えて様子を見る人は少なくないだろう。 しかし、その背後には肺がんや間質性肺炎といった重大な呼吸器疾患が隠れている可能性がある。 呼吸器",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/7ad86625958cf093053f573a760b1be54eae41d5?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "2c699a23141e",
-      "title": "1割の女性がかかる子宮内膜症、経血で簡単に特定へ？　手術が不要になる可能性(ナショナル ジオグラフィック日本版)",
-      "published": "2026-08-03T02:04:12+00:00",
-      "summary": "月経のとき、経血は特に意識されることもなく捨てられてしまうことが多い。だがもし、子宮の健康状態を調べるために用いられる尿や血液、子宮頸部の検体と同じだけの価値が、この経血にも備わっているとしたらどう",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/847f21d988e25a995b96159e11163c9876041844?source=rss"
+          "name": "日本経済新聞",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83UFdoS0JxaWhLUk9meVF0NDN3S0ZrVHZIa2ViRW9YelBvTXlMYjR4dEc2VzRyaW5WUjJ1LWlnOEFhVTJpR0t6Yk1mVHlabi13bjUzbEFFN0dPODhxYlZneUVaZDV1Y3lPN082Ug?oc=5"
         }
       ]
     }
