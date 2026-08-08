@@ -1,8 +1,349 @@
 {
-  "last_updated": "2026-08-08T12:25:51.480290+00:00",
-  "total_count": 46,
-  "matched_count": 13,
+  "last_updated": "2026-08-08T18:21:44.128835+00:00",
+  "total_count": 47,
+  "matched_count": 14,
   "news": [
+    {
+      "id": "cee8c5f8c570",
+      "title": "がん薬物療法の手強い副作用、漢方なら1処方で改善できることも【連載・QOLを高めるがんサポーティブケア】(家庭画報.com)",
+      "published": "2026-08-08T15:00:02+00:00",
+      "summary": "がん薬物療法に伴う副作用に対処するための薬剤が開発されている一方で、対応しきれない副作用も少なくありません。このような難治性の副作用に対し、漢方薬による支持療法が取り組まれており、その有用性が期待され",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/78f1bacf65a06c1d1ef9fc6b254289d6fcfbdcec?source=rss"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "がん",
+          "related_drugs": [
+            {
+              "slug": "acyclovir",
+              "name": "ゾビラックス軟膏５％（選）"
+            },
+            {
+              "slug": "theophylline",
+              "name": "ユニコン錠１００　１００ｍｇ（選）"
+            },
+            {
+              "slug": "risperidone",
+              "name": "リスパダール錠２ｍｇ（選）"
+            },
+            {
+              "slug": "valproic-acid",
+              "name": "セレニカＲ顆粒４０％（選）"
+            },
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "atorvastatin",
+              "name": "アトーゼット配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "cyclosporine",
+              "name": "ネオーラル５０ｍｇカプセル（選）"
+            },
+            {
+              "slug": "azithromycin",
+              "name": "ジスロマック細粒小児用１０％　１００ｍｇ（選）"
+            },
+            {
+              "slug": "valsartan",
+              "name": "ディオバンＯＤ錠１６０ｍｇ（選）"
+            },
+            {
+              "slug": "carbamazepine",
+              "name": "テグレトール錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "morphine",
+              "name": "モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」"
+            },
+            {
+              "slug": "pravastatin",
+              "name": "メバロチン錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "atenolol",
+              "name": "テノーミン錠５０　５０ｍｇ（選）"
+            },
+            {
+              "slug": "loperamide",
+              "name": "ロペミンカプセル１ｍｇ（選）"
+            },
+            {
+              "slug": "simvastatin",
+              "name": "リポバス錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "carvedilol",
+              "name": "アーチスト錠２０ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            },
+            {
+              "slug": "diazepam",
+              "name": "ホリゾン錠５ｍｇ（選）"
+            },
+            {
+              "slug": "lorazepam",
+              "name": "ワイパックス錠１．０　１ｍｇ（選）"
+            },
+            {
+              "slug": "propranolol",
+              "name": "インデラル錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "spironolactone",
+              "name": "アルダクトンＡ錠５０ｍｇ（選）"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "ロプレソール錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "enalapril",
+              "name": "レニベース錠１０　１０ｍｇ（選）"
+            },
+            {
+              "slug": "lisinopril",
+              "name": "ロンゲス錠２０ｍｇ（選）"
+            },
+            {
+              "slug": "diltiazem",
+              "name": "ヘルベッサー錠６０　６０ｍｇ（選）"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "エックスフォージ配合ＯＤ錠（選）"
+            },
+            {
+              "slug": "clarithromycin",
+              "name": "クラリス錠５０小児用　５０ｍｇ（選）"
+            },
+            {
+              "slug": "furosemide",
+              "name": "ラシックス錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "dexamethasone",
+              "name": "サンテゾーン点眼液（０．１％）（選）"
+            },
+            {
+              "slug": "lidocaine",
+              "name": "リドカイン（１８ｍｇ）３０．５ｍｍ×５０．０ｍｍ貼付剤"
+            },
+            {
+              "slug": "bisoprolol",
+              "name": "メインテート錠５ｍｇ（選）"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "ミカムロ配合錠ＢＰ（選）"
+            },
+            {
+              "slug": "rosuvastatin",
+              "name": "クレストールＯＤ錠５ｍｇ（選）"
+            },
+            {
+              "slug": "imatinib",
+              "name": "グリベック錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "clopidogrel",
+              "name": "プラビックス錠７５ｍｇ（選）"
+            },
+            {
+              "slug": "sertraline",
+              "name": "ジェイゾロフトＯＤ錠１００ｍｇ（選）"
+            },
+            {
+              "slug": "betamethasone",
+              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
+            },
+            {
+              "slug": "timolol",
+              "name": "デュオトラバ配合点眼液（選）"
+            },
+            {
+              "slug": "diclofenac",
+              "name": "ボルタレンサポ５０ｍｇ（選）"
+            },
+            {
+              "slug": "budesonide",
+              "name": "シムビコートタービュヘイラー６０吸入（選）"
+            },
+            {
+              "slug": "moxifloxacin",
+              "name": "ベガモックス点眼液０．５％（選）"
+            },
+            {
+              "slug": "verapamil",
+              "name": "ワソラン錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "levofloxacin",
+              "name": "クラビット点眼液１．５％（選）"
+            },
+            {
+              "slug": "triamcinolone",
+              "name": "レダコート軟膏０．１％（選）"
+            },
+            {
+              "slug": "celecoxib",
+              "name": "セレコックス錠２００ｍｇ（選）"
+            },
+            {
+              "slug": "ezetimibe",
+              "name": "ゼチーア錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "topiramate",
+              "name": "トピナ錠２５ｍｇ（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            },
+            {
+              "slug": "montelukast",
+              "name": "シングレアＯＤ錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "prednisolone",
+              "name": "プレドネマ注腸２０ｍｇ"
+            },
+            {
+              "slug": "lamotrigine",
+              "name": "ラミクタール錠２５ｍｇ（選）"
+            },
+            {
+              "slug": "hydrochlorothiazide",
+              "name": "プレミネント配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "losartan",
+              "name": "ニューロタン錠５０ｍｇ（選）"
+            },
+            {
+              "slug": "latanoprost",
+              "name": "ザラカム配合点眼液（選）"
+            },
+            {
+              "slug": "clotrimazole",
+              "name": "エンペシドクリーム１％（選）"
+            },
+            {
+              "slug": "amoxicillin",
+              "name": "ワイドシリン細粒２０％　２００ｍｇ"
+            },
+            {
+              "slug": "ampicillin",
+              "name": "ビクシリンＳ配合錠　（２５０ｍｇ）"
+            },
+            {
+              "slug": "lamivudine",
+              "name": "エプジコム配合錠（選）"
+            },
+            {
+              "slug": "warfarin",
+              "name": "ワルファリンＫ細粒０．２％「ＮＳ」"
+            },
+            {
+              "slug": "fenofibrate",
+              "name": "トライコア錠８０ｍｇ（選）"
+            },
+            {
+              "slug": "hydrocortisone",
+              "name": "ヘモレックス軟膏"
+            },
+            {
+              "slug": "prasugrel",
+              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
+            },
+            {
+              "slug": "tramadol",
+              "name": "トラマールＯＤ錠５０ｍｇ（選）"
+            },
+            {
+              "slug": "metronidazole",
+              "name": "メトロニダゾールゲル０．７５％「マルイシ」"
+            },
+            {
+              "slug": "lactulose",
+              "name": "ラグノスＮＦ経口ゼリー分包１２ｇ　５４．１６７％"
+            },
+            {
+              "slug": "levetiracetam",
+              "name": "レベチラセタム粒状錠５００ｍｇ「サワイ」"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "99ce78083b6b",
+      "title": "農耕地で発見した「ガニ股のサギ」　別のサギとのシュールな光景に「逃げ顔がツボ」「ジワる」(LIMO)",
+      "published": "2026-08-08T14:05:46+00:00",
+      "summary": "「ガニ股のサギが怒られているような様子」が、X上で話題になっています。 投稿したのは「@tegakairo」さんです。 当ポストは執筆時点で19万件を超えて表示されるなど大きな話題となっています。",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/415fb2d0f5bf3e84c3a9f803a115978af7b1370f?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "3c4fac3ada94",
+      "title": "ダークエネルギーカメラの運用にAIが初挑戦　大型望遠鏡の課題解決で期待される自動化(sorae 宇宙へのポータルサイト)",
+      "published": "2026-08-08T14:00:45+00:00",
+      "summary": "NOIRLab（アメリカ国立光学・赤外天文学研究所）は2026年7月31日付で、チリのセロ・トロロ汎米天文台（CTIO）にあるビクター・M・ブランコ4m望遠鏡の観測計画を人工知能（AI）が立案し、天候",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/941ae9cffb5b714d6bcdb27f3ebc16e4be8cd6fc?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "db2c7de4bde9",
+      "title": "【美ボディ】48歳アマル・クルーニーの美の秘訣。夫ジョージも絶賛！「寿命を9.7年延ばす」意外な運動術とは(ウィメンズヘルス)",
+      "published": "2026-08-08T14:00:02+00:00",
+      "summary": "国際弁護士として活躍しながら、洗練されたスタイルと健康美を維持し続けるアマル・クルーニー（48歳）。彼女が日頃どのようなトレーニングを行っているかは多くを明かされていないが、何十年も欠かさず続けている",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/b81e25729d8d283c1e044817dd2dbb6a215d6c92?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "e6c3a0503218",
+      "title": "かつて火星に存在した水の新たな証拠を発見　NASA火星探査車「スピリット」のデータから(sorae 宇宙へのポータルサイト)",
+      "published": "2026-08-08T12:40:40+00:00",
+      "summary": "2011年に運用を終えたNASA（アメリカ航空宇宙局）の火星探査車「スピリット（Spirit）」。そのデータが、いまなお現役の研究材料であり続けていることを示す成果が発表されました。 エディス・コー",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/b4c3a1c32bc87a2b40ef7030fe154aa98871f782?source=rss"
+        }
+      ],
+      "matched_keywords": []
+    },
     {
       "id": "dbdd04b45bfe",
       "title": "「淵液」は胸のつかえや痛み、わきの腫れ改善のツボ。腕が痛くて上がらないときにも(家庭画報.com)",
@@ -304,45 +645,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "4247cc3d76df",
-      "title": "米で「ロート」の目薬1200万本以上が自主回収。「無菌性が不足」FDAが警告(ウィメンズヘルス)",
-      "published": "2026-08-08T12:00:56+00:00",
-      "summary": "日常的に使う目薬だからこそ、安全性の確保は最優先したいもの。米食品医薬品局（FDA）は、全米で流通している大手製薬会社「ロート（Rohto）」ブランドの目薬1,200万本以上（12,460,649本）",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/0f2a9e1a4ac94021559f0f9a5c216f4d2ef62c42?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "ff6e9603a8fa",
-      "title": "AI診断と品質管理で大規模修繕の新たな価値を生み出す 株式会社アケボノのDX最前線(TOKYO FM＋)",
-      "published": "2026-08-08T11:50:39+00:00",
-      "summary": "TOKYO FMグループの「ミュージックバード」が制作し、全国のコミュニティFMで放送中のラジオ番組「デジタル建設ジャーナル」（毎週日曜 15:00～15:55）。建設経営の伴走型AI/DX共創により",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/851df0da6e748c1511c85edcaf338f4ef2c58847?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "649a376bf6db",
-      "title": "甘いものが無性に食べたいときの欲望を抑える、10の方法(ELLE)",
-      "published": "2026-08-08T11:50:02+00:00",
-      "summary": "※この記事は、海外のサイト『Prevention』で掲載されたものの翻訳版です。データや研究結果はすべてオリジナル記事によるものです。 ただただ自制心だけで甘いものへの欲求を抑えることは、忙しい時",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/5bc69c55a9433f99c374ea4009f25f0de0f9796e?source=rss"
-        }
-      ],
-      "matched_keywords": []
     },
     {
       "id": "e8aadf772e09",
@@ -977,6 +1279,94 @@
       "matched_keywords": []
     },
     {
+      "id": "88f2919c05bf",
+      "title": "高血圧・脂質異常症・胃潰瘍…地域ごとに異なる「使用が推奨される医薬品」、リスト作りを国が推進",
+      "published": "2026-08-08T06:00:00+00:00",
+      "summary": "高血圧・脂質異常症・胃潰瘍…地域ごとに異なる「使用が推奨される医薬品」、リスト作りを国が推進&nbsp;&nbsp;読売新聞",
+      "sources": [
+        {
+          "name": "読売新聞",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ZNkpEN2d2WnlEYVlMSG1qVnk3LW5qaHVGRjRUN2JfN19nd1djbGdzbkNUYUQwLVZiN1ZFNm5WR3VEZjRfVnRZcFBMZUxSdmhadkU4R21aR3llS1BZNGZKM0tYeXQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "hypertension",
+          "keyword": "高血圧",
+          "related_drugs": [
+            {
+              "slug": "nifedipine",
+              "name": "アダラートＣＲ錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "エックスフォージ配合ＯＤ錠（選）"
+            },
+            {
+              "slug": "diltiazem",
+              "name": "ヘルベッサー錠６０　６０ｍｇ（選）"
+            },
+            {
+              "slug": "timolol",
+              "name": "デュオトラバ配合点眼液（選）"
+            },
+            {
+              "slug": "verapamil",
+              "name": "ワソラン錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "hydrochlorothiazide",
+              "name": "プレミネント配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "losartan",
+              "name": "ニューロタン錠５０ｍｇ（選）"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "ミカムロ配合錠ＢＰ（選）"
+            },
+            {
+              "slug": "valsartan",
+              "name": "ディオバンＯＤ錠１６０ｍｇ（選）"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "hyperlipidemia",
+          "keyword": "脂質異常症",
+          "related_drugs": [
+            {
+              "slug": "atorvastatin",
+              "name": "アトーゼット配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "pravastatin",
+              "name": "メバロチン錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "simvastatin",
+              "name": "リポバス錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "rosuvastatin",
+              "name": "クレストールＯＤ錠５ｍｇ（選）"
+            },
+            {
+              "slug": "ezetimibe",
+              "name": "ゼチーア錠１０ｍｇ（選）"
+            },
+            {
+              "slug": "fenofibrate",
+              "name": "トライコア錠８０ｍｇ（選）"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "d0568a3adfa6",
       "title": "H3ロケット9号機、3度目延期　11日に打ち上げへ　準天頂衛星「みちびき7号機」搭載(産経新聞)",
       "published": "2026-08-07T08:08:43+00:00",
@@ -1088,14 +1478,14 @@
       "matched_keywords": []
     },
     {
-      "id": "58f13f9de53c",
+      "id": "c176d8e74889",
       "title": "高用量ビタミンＤでがん治療の皮膚障害が早期改善 化学療法誘発性中毒性紅斑、急性放射線皮膚炎対象の後ろ向き研究",
       "published": "2026-08-07T20:00:00+00:00",
       "summary": "高用量ビタミンＤでがん治療の皮膚障害が早期改善 化学療法誘発性中毒性紅斑、急性放射線皮膚炎対象の後ろ向き研究&nbsp;&nbsp;読売新聞",
       "sources": [
         {
           "name": "読売新聞",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdy1mUTFqTjZXVlJWMGpfWXFHbFZJZDdXOGszb21xbk1OaVJkYlRwV2IwajA1WXE5Mk5sNENiUjBhX1dsQnluN2V3QXY4dWtwZTlmN1JhQ1prSWpNY3RmYk0xWnVVQzhyXzZnREgtMTRZTWQxbTg5Z21GWXRiUGxHM2dFODk4bmZRVVcxZGxB?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB6S3IwSXNkRkJuOGJsTm1NX0dNakt5UHREWTV4WTB6QlFocEo0cmJCdDZiRTVXSXZEYlB6MmJxb3RfUXhLLVlITF9ySU5JTXBKRFp1bHR6VldMeTZ1SXFxdDJaOUlZMEJXeVhWbXZB?oc=5"
         }
       ],
       "matched_keywords": [
@@ -1390,6 +1780,19 @@
       "matched_keywords": []
     },
     {
+      "id": "eddc8c52c21a",
+      "title": "【大宮区役所前歯科】予防歯科チェア3台・カウンセリングルームを増設。予約待ち解消と地域のお口の健康維持に向け、2026年8月10日（月）より診療体制を拡充",
+      "published": "2026-08-07T18:46:00+00:00",
+      "summary": "【大宮区役所前歯科】予防歯科チェア3台・カウンセリングルームを増設。予約待ち解消と地域のお口の健康維持に向け、2026年8月10日（月）より診療体制を拡充&nbsp;&nbsp;時事ドットコム",
+      "sources": [
+        {
+          "name": "時事ドットコム",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE55Rm8xUm53ZmJUMWhYWF9IclhUUHpVQXlsUEEtSWFPaVJyVk83bTUydllWYThHZlQzUkp2dHdrOEpOdkRySkl1NThBdFc4eUFibWs1NVE0UGZNSFdlNmJJajdpX1JrakUwbDFv?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "7d7db6db16c3",
       "title": "重症の新型コロナウイルスは精子を介して子孫の不安傾向に影響を及ぼす可能性 - au Webポータル",
       "published": "2026-08-07T17:53:15+00:00",
@@ -1445,19 +1848,6 @@
       ]
     },
     {
-      "id": "787e32d9cf4f",
-      "title": "【大宮区役所前歯科】予防歯科チェア3台・カウンセリングルームを増設。予約待ち解消と地域のお口の健康維持に向け、2026年8月10日（月）より診療体制を拡充 - PR TIMES",
-      "published": "2026-08-07T06:30:01+00:00",
-      "summary": "【大宮区役所前歯科】予防歯科チェア3台・カウンセリングルームを増設。予約待ち解消と地域のお口の健康維持に向け、2026年8月10日（月）より診療体制を拡充&nbsp;&nbsp;PR TIMES",
-      "sources": [
-        {
-          "name": "PR TIMES",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GTWI2eV80QXFmT1lZU3JNZkpubkY2bzlzbmVjUDNuV1RPSkdtX1ZwcmJxZzdZWm9WSS1ySzRZaXMwbXdFTWVuQ3ZzcVZXbUtYMEVFQ1ZhS09KWi1fdnNxa09xNm5sRU13aGc?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "9f9757613e5a",
       "title": "日本脳炎は後遺症を残しやすい、医師は効果的な予防法を推奨",
       "published": "2026-08-07T06:19:44+00:00",
@@ -1474,11 +1864,24 @@
       "id": "3301f58f4e60",
       "title": "AIで新ウイルス作製 ゲノム配列全体を設計 スタンフォード大 医療に寄与/兵器化恐れ",
       "published": "2026-08-07T05:30:00+00:00",
-      "summary": "AIで新ウイルス作製 ゲノム配列全体を設計 スタンフォード大 医療に寄与/兵器化恐れ&nbsp;&nbsp;日本経済新聞生成AIが新ウイルス設計 米研究&nbsp;&nbsp;Yahoo!ニュース科学者らがDNAでAIモデルを訓練、16種類の新種ウイルスを作り出す&nbsp;&nbsp;Forbes JAPANスタンフォード大などの研究チーム、ゲノム生成AI「Evo」で16種の新種ウイルスを創出&nbsp;&nbsp;ビジネス+ITAI使い全く新しいウイルスの設計に成功 米大学が発表&nbsp;&nbsp;BBC",
+      "summary": "AIで新ウイルス作製 ゲノム配列全体を設計 スタンフォード大 医療に寄与/兵器化恐れ&nbsp;&nbsp;日本経済新聞生成AIが新ウイルス設計 米研究&nbsp;&nbsp;Yahoo!ニュース科学者らがDNAでAIモデルを訓練、16種類の新種ウイルスを作り出す&nbsp;&nbsp;Forbes JAPANスタンフォード大などの研究チーム、ゲノム生成AI「Evo」で16種の新種ウイルスを創出&nbsp;&nbsp;ビジネス+ITきょうの5本 AI使い自然界にないウイルスを作製&nbsp;&nbsp;日本経済新聞",
       "sources": [
         {
           "name": "日本経済新聞",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9mQklUREYzVkJmekZ4OS0zU1F5bEFhOGR2QU9VYUJiam05eFBnMWpONnJpQlZRMUJlX09WXzhNS2J4NVV5bTdBVUlDUDF2Z3l4NG9FajFqdkpLNjNjRnZBZnhlU2RGWUFoTlBVcA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "9b5c29766660",
+      "title": "SNS経由での保険金詐欺で10代は現実で 居場所を失うリスク懸念 ～「SNSを通じた保険金不正請求に関する意識調査」を実施、 認知度の低さも浮き彫りに～ | 一般社団法人 日本損害保険協会",
+      "published": "2026-08-07T05:00:00+00:00",
+      "summary": "SNS経由での保険金詐欺で10代は現実で 居場所を失うリスク懸念 ～「SNSを通じた保険金不正請求に関する意識調査」を実施、 認知度の低さも浮き彫りに～ | 一般社団法人 日本損害保険協会&nbsp;&nbsp;アットプレス",
+      "sources": [
+        {
+          "name": "アットプレス",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE81M29CVVhKNzRkMmFqOGpjeUhxcW9rZ25tYldnZlhDYVcwMkpEeVo0RllSeV8tZGJKckdQMVNhRWVsSGswdUh3ZmZhX3RRdw?oc=5"
         }
       ],
       "matched_keywords": []
@@ -1719,6 +2122,19 @@
       "matched_keywords": []
     },
     {
+      "id": "9a698cfd5f88",
+      "title": "寝不足で肥満率が73％も上がる!? 睡眠不足でホルモン量が乱れると、太りやすくなるワケ [睡眠] All About - All About（オールアバウト）",
+      "published": "2026-08-06T23:00:05+00:00",
+      "summary": "寝不足で肥満率が73％も上がる!? 睡眠不足でホルモン量が乱れると、太りやすくなるワケ [睡眠] All About&nbsp;&nbsp;All About（オールアバウト）\"日中の眠気\"の原因は......? 世代別に見た「睡眠トラブル」の実態&nbsp;&nbsp;マイナビニュース【睡眠不足はダイエットの敵】毎晩1時間強の睡眠不足が6週間続くと体重増加！ 米研究が示唆（ヨガジャーナルオンライン）&nbsp;&nbsp;Yahoo!ニュース",
+      "sources": [
+        {
+          "name": "All About（オールアバウト）",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1QQWFOVW9HSUd4bkdNMXBzb2c4dVdUMjV2TFI1SFNIN21LdnJGVTNxX2UzbjFnZjVhcXN1NVd3UnF3Q1dzZ1JFZlR3SzE?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
       "id": "f5e3589f5a21",
       "title": "健康長寿ホルモン「アディポネクチン」を増やせ／医師で作家・鎌田實氏",
       "published": "2026-08-06T23:00:00+00:00",
@@ -1757,319 +2173,17 @@
       ]
     },
     {
-      "id": "d7fc217292ec",
-      "title": "ユニバーサル・スタジオ・ハリウッドで麻疹（はしか）感染警告 7月26日来園者に注意喚起 症状確認とワクチン接種歴の確認を（8/6） - LALALA USA",
+      "id": "412909435825",
+      "title": "ユニバーサル・スタジオ・ハリウッドで麻疹（はしか）感染警告 7月26日来園者に注意喚起 症状確認とワクチン接種歴の確認を（8/6）",
       "published": "2026-08-06T18:03:04+00:00",
-      "summary": "ユニバーサル・スタジオ・ハリウッドで麻疹（はしか）感染警告 7月26日来園者に注意喚起 症状確認とワクチン接種歴の確認を（8/6）&nbsp;&nbsp;LALALA USA",
+      "summary": "ユニバーサル・スタジオ・ハリウッドで麻疹（はしか）感染警告 7月26日来園者に注意喚起 症状確認とワクチン接種歴の確認を（8/6）&nbsp;&nbsp;lalalausa.com",
       "sources": [
         {
-          "name": "LALALA USA",
+          "name": "lalalausa.com",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9mbjBiY3FlYTF3QnJBaFVhSVRxaG1uVWhnenhVaV9WU1AzMklOVXk1OEJheURRS1RoTi1uNkt2X1lUWV9XX2pvb0pySUY?oc=5"
         }
       ],
       "matched_keywords": []
-    },
-    {
-      "id": "95896d79ebb5",
-      "title": "平均寿命と健康寿命の差から考える、食べ方と栄養の摂り方 伊藤崇志福井県立大学教授に聞く",
-      "published": "2026-08-06T15:00:00+00:00",
-      "summary": "平均寿命と健康寿命の差から考える、食べ方と栄養の摂り方 伊藤崇志福井県立大学教授に聞く&nbsp;&nbsp;医薬通信社《健康長寿を叶えるために》代謝を上げる＆体を若返らせる「食品」 「習慣」ランキング 1位は「納豆」「質のいい睡眠」&nbsp;&nbsp;Yahoo!ニュース",
-      "sources": [
-        {
-          "name": "医薬通信社",
-          "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQTDVYbzhoYlNUM0ZQYms2NC0wSzdsbTN3c1h2ZmVRT2E0cDNOY3pxVUtQaEQwR2FETXRmSEhPNE43VzBmYXhsdEI3bHF4WVpKV29IZVpnU0lNZndXU0xrTXJNZTYwOWVjS2hvVm9QUnBjY3pFMzNjYzFxX3hmZ3BCVmdxV0hrT3VZT0ZHaUNWQjZLWU5EVk9tN2p3QmpDMlhSbXlPLTZaY0d5OE5JOExrSG9RY0x4VjlHZE9SZkVWc3VZS2RlbU13eEJTbGxFb1ZEYVI2WkJvMWMtQlJtbVdGbl9qdHFBWFlyejM0cW8xMWlGWUFfUG5YY0JDam9YeGJNSFhnekk4Wm5ZUjdWelMtdW92d20yY2xQZlh5SWU0OEkyZlowOUhIUWdyWWx1RGlieUg0LUJtd0VLWE10YlRPeUxQWmo3YkVBMEZNRllfWG5mSlh0dGxYcTln?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "c58479644e9b",
-      "title": "忙しくてがん検診に行けない…AIヘルスケア時代に知っておきたい「自宅でできるがんリスク検査」とは【前編】",
-      "published": "2026-08-06T12:00:07+00:00",
-      "summary": "忙しくてがん検診に行けない…AIヘルスケア時代に知っておきたい「自宅でできるがんリスク検査」とは【前編】&nbsp;&nbsp;FYTTE",
-      "sources": [
-        {
-          "name": "FYTTE",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ibWFjbVUxM0ZOR2ZaS0Z1RFJhUXZybTlQbkxxUWpBZ3JUS195d2Zkb2l6cHFlTWZQUjZJb3FXNmZVLU9HeUEtLVgwUmpSWEJLc0E?oc=5"
-        }
-      ],
-      "matched_keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "がん",
-          "related_drugs": [
-            {
-              "slug": "acyclovir",
-              "name": "ゾビラックス軟膏５％（選）"
-            },
-            {
-              "slug": "theophylline",
-              "name": "ユニコン錠１００　１００ｍｇ（選）"
-            },
-            {
-              "slug": "risperidone",
-              "name": "リスパダール錠２ｍｇ（選）"
-            },
-            {
-              "slug": "valproic-acid",
-              "name": "セレニカＲ顆粒４０％（選）"
-            },
-            {
-              "slug": "methotrexate",
-              "name": "リウマトレックスカプセル２ｍｇ（選）"
-            },
-            {
-              "slug": "atorvastatin",
-              "name": "アトーゼット配合錠ＨＤ（選）"
-            },
-            {
-              "slug": "cyclosporine",
-              "name": "ネオーラル５０ｍｇカプセル（選）"
-            },
-            {
-              "slug": "azithromycin",
-              "name": "ジスロマック細粒小児用１０％　１００ｍｇ（選）"
-            },
-            {
-              "slug": "valsartan",
-              "name": "ディオバンＯＤ錠１６０ｍｇ（選）"
-            },
-            {
-              "slug": "carbamazepine",
-              "name": "テグレトール錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "morphine",
-              "name": "モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」"
-            },
-            {
-              "slug": "pravastatin",
-              "name": "メバロチン錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "atenolol",
-              "name": "テノーミン錠５０　５０ｍｇ（選）"
-            },
-            {
-              "slug": "loperamide",
-              "name": "ロペミンカプセル１ｍｇ（選）"
-            },
-            {
-              "slug": "simvastatin",
-              "name": "リポバス錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "carvedilol",
-              "name": "アーチスト錠２０ｍｇ（選）"
-            },
-            {
-              "slug": "capecitabine",
-              "name": "ゼローダ錠３００　３００ｍｇ（選）"
-            },
-            {
-              "slug": "diazepam",
-              "name": "ホリゾン錠５ｍｇ（選）"
-            },
-            {
-              "slug": "lorazepam",
-              "name": "ワイパックス錠１．０　１ｍｇ（選）"
-            },
-            {
-              "slug": "propranolol",
-              "name": "インデラル錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "spironolactone",
-              "name": "アルダクトンＡ錠５０ｍｇ（選）"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "ロプレソール錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "enalapril",
-              "name": "レニベース錠１０　１０ｍｇ（選）"
-            },
-            {
-              "slug": "lisinopril",
-              "name": "ロンゲス錠２０ｍｇ（選）"
-            },
-            {
-              "slug": "diltiazem",
-              "name": "ヘルベッサー錠６０　６０ｍｇ（選）"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "エックスフォージ配合ＯＤ錠（選）"
-            },
-            {
-              "slug": "clarithromycin",
-              "name": "クラリス錠５０小児用　５０ｍｇ（選）"
-            },
-            {
-              "slug": "furosemide",
-              "name": "ラシックス錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "dexamethasone",
-              "name": "サンテゾーン点眼液（０．１％）（選）"
-            },
-            {
-              "slug": "lidocaine",
-              "name": "リドカイン（１８ｍｇ）３０．５ｍｍ×５０．０ｍｍ貼付剤"
-            },
-            {
-              "slug": "bisoprolol",
-              "name": "メインテート錠５ｍｇ（選）"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "ミカムロ配合錠ＢＰ（選）"
-            },
-            {
-              "slug": "rosuvastatin",
-              "name": "クレストールＯＤ錠５ｍｇ（選）"
-            },
-            {
-              "slug": "imatinib",
-              "name": "グリベック錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "clopidogrel",
-              "name": "プラビックス錠７５ｍｇ（選）"
-            },
-            {
-              "slug": "sertraline",
-              "name": "ジェイゾロフトＯＤ錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "betamethasone",
-              "name": "リンデロン−Ｖ軟膏０．１２％（選）"
-            },
-            {
-              "slug": "timolol",
-              "name": "デュオトラバ配合点眼液（選）"
-            },
-            {
-              "slug": "diclofenac",
-              "name": "ボルタレンサポ５０ｍｇ（選）"
-            },
-            {
-              "slug": "budesonide",
-              "name": "シムビコートタービュヘイラー６０吸入（選）"
-            },
-            {
-              "slug": "moxifloxacin",
-              "name": "ベガモックス点眼液０．５％（選）"
-            },
-            {
-              "slug": "verapamil",
-              "name": "ワソラン錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "levofloxacin",
-              "name": "クラビット点眼液１．５％（選）"
-            },
-            {
-              "slug": "triamcinolone",
-              "name": "レダコート軟膏０．１％（選）"
-            },
-            {
-              "slug": "celecoxib",
-              "name": "セレコックス錠２００ｍｇ（選）"
-            },
-            {
-              "slug": "ezetimibe",
-              "name": "ゼチーア錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "topiramate",
-              "name": "トピナ錠２５ｍｇ（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            },
-            {
-              "slug": "montelukast",
-              "name": "シングレアＯＤ錠１０ｍｇ（選）"
-            },
-            {
-              "slug": "prednisolone",
-              "name": "プレドネマ注腸２０ｍｇ"
-            },
-            {
-              "slug": "lamotrigine",
-              "name": "ラミクタール錠２５ｍｇ（選）"
-            },
-            {
-              "slug": "hydrochlorothiazide",
-              "name": "プレミネント配合錠ＨＤ（選）"
-            },
-            {
-              "slug": "losartan",
-              "name": "ニューロタン錠５０ｍｇ（選）"
-            },
-            {
-              "slug": "latanoprost",
-              "name": "ザラカム配合点眼液（選）"
-            },
-            {
-              "slug": "clotrimazole",
-              "name": "エンペシドクリーム１％（選）"
-            },
-            {
-              "slug": "amoxicillin",
-              "name": "ワイドシリン細粒２０％　２００ｍｇ"
-            },
-            {
-              "slug": "ampicillin",
-              "name": "ビクシリンＳ配合錠　（２５０ｍｇ）"
-            },
-            {
-              "slug": "lamivudine",
-              "name": "エプジコム配合錠（選）"
-            },
-            {
-              "slug": "warfarin",
-              "name": "ワルファリンＫ細粒０．２％「ＮＳ」"
-            },
-            {
-              "slug": "fenofibrate",
-              "name": "トライコア錠８０ｍｇ（選）"
-            },
-            {
-              "slug": "hydrocortisone",
-              "name": "ヘモレックス軟膏"
-            },
-            {
-              "slug": "prasugrel",
-              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
-            },
-            {
-              "slug": "tramadol",
-              "name": "トラマールＯＤ錠５０ｍｇ（選）"
-            },
-            {
-              "slug": "metronidazole",
-              "name": "メトロニダゾールゲル０．７５％「マルイシ」"
-            },
-            {
-              "slug": "lactulose",
-              "name": "ラグノスＮＦ経口ゼリー分包１２ｇ　５４．１６７％"
-            },
-            {
-              "slug": "levetiracetam",
-              "name": "レベチラセタム粒状錠５００ｍｇ「サワイ」"
-            }
-          ]
-        }
-      ]
     },
     {
       "id": "a859ebc5c58a",
@@ -2987,32 +3101,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/6e306d54fa7f06c7754f344a804e34064ece609c?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "6368e4cccd94",
-      "title": "アンソロピックの最新AIモデル、身分を偽って実在の人物を欺く試み　英研究機関のテストで判明(CNN.co.jp)",
-      "published": "2026-08-05T07:58:00+00:00",
-      "summary": "（CNN） アンソロピックの最も高度な人工知能（AI）モデルが、英国のAIセキュリティー研究機関AISIが実施したテスト中に、偽の身分を使って実在する人物を欺き、悪意あるコードを埋め込もうとしたことが",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/a989870307b5745deb1cd3dded56b7f624e3984c?source=rss"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "c882ddf89499",
-      "title": "H3ロケット打ち上げ目前！ “聖地”種子島ってこんなところ(Science Portal)",
-      "published": "2026-08-05T06:42:23+00:00",
-      "summary": "大型ロケット「H3」9号機の打ち上げが迫った。政府の測位衛星「みちびき」7号機を搭載し、鹿児島県の宇宙航空研究開発機構（JAXA）種子島宇宙センターから打ち上げられる。7日に予定されたが、台風の影響",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/6113986416349809dfffc5058420a329e1d1aba6?source=rss"
         }
       ],
       "matched_keywords": []
