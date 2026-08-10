@@ -1,15 +1,43 @@
 {
-  "generated": "2026-08-10T12:43:48.172389+00:00",
-  "count": 13,
+  "generated": "2026-08-10T18:41:56.116274+00:00",
+  "count": 14,
   "news": [
     {
-      "id": "747dacbad890",
-      "title": "帰省中、実家でも義実家でも飲んで寝てばかりの夫に、妻が一言。負担は平等に【書評】(ダ・ヴィンチWeb)",
-      "published": "2026-08-10T12:00:00+00:00",
+      "id": "69a454eec3c4",
+      "title": "歯列矯正で重視すべきは「噛み合わせ」。更年期に矯正を始める際の注意点とは(家庭画報.com)",
+      "published": "2026-08-10T15:00:02+00:00",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/f500eff212729ce776448e7e2a44b720c43b5acf?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/d2a6dde8a89cc9b1cd1548abac2ca4ff0eefa47f?source=rss"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "menopause",
+          "keyword": "更年期",
+          "related_drugs": [
+            {
+              "slug": "clotrimazole",
+              "name": "エンペシドクリーム１％（選）"
+            },
+            {
+              "slug": "metronidazole",
+              "name": "メトロニダゾールゲル０．７５％「マルイシ」"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2d6d240395f5",
+      "title": "日本人の大腸がん、半数に大腸菌の毒素関与　阪大・東大チーム、若年発症の解明・予防期待(産経新聞)",
+      "published": "2026-08-10T13:27:06+00:00",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/fd247f6bd17832fb911d721f89e815872113fbcc?source=rss"
         }
       ],
       "keywords": [
@@ -285,6 +313,17 @@
             {
               "slug": "levetiracetam",
               "name": "レベチラセタム粒状錠５００ｍｇ「サワイ」"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "colonic neoplasm",
+          "keyword": "大腸がん",
+          "related_drugs": [
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
             }
           ]
         }
