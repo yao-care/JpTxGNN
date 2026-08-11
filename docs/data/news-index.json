@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-11T12:40:42.196545+00:00",
+  "generated": "2026-08-11T18:46:27.118280+00:00",
   "count": 7,
   "news": [
     {
@@ -809,41 +809,13 @@
       ]
     },
     {
-      "id": "fa05d742eb9e",
-      "title": "「認知症」になりたくないなら今すぐやるべき習慣とは？(ダイヤモンド・オンライン)",
-      "published": "2026-08-09T22:36:00+00:00",
+      "id": "1c6f3606ec41",
+      "title": "「余命数ヶ月の進行がんが10年も元気に…」ステージIVの肺がん患者の生存率が激変!? 専門医が明かした“がんに勝つ人、負ける人”の決定的な違いとは - au Webポータル",
+      "published": "2026-08-10T07:35:56+00:00",
       "sources": [
         {
-          "name": "Yahoo!ファイナンス",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVmNBck1Ral90aXUzYUx6S3l3MmJJdTMtWXRRMzNKdDFvMi0yZEtOZ0RqYWQ5RmUyWUUtWlBDbWFmVDFBcVNaZEhmSklILV9QOUNlRjczOHJrWVctbjdQMDNCVXBjN00tZEFaRU50dWdSenBLLTdtZnFsLUw4alZzQzBVZEo0YjQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "認知症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "3ee8699c3264",
-      "title": "余命数カ月の患者が10年元気に…がん治療の効果に差が出る謎 (2026年8月10日掲載)",
-      "published": "2026-08-09T21:20:00+00:00",
-      "sources": [
-        {
-          "name": "ライブドアニュース",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmRy02Q29RdjlJaDFnbjBTa2tnSy0yaVppZEJHSDRwQXlYOHlnblFaXzl6SVZISUQ3QW5wLXRxRnhRZ2hPc1VxWjRXVTduNF9xbFJKM0lONlZVdExNM2c?oc=5"
+          "name": "au Webポータル",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VMk85R2I5UFpFLXoxR0gwblByMmdiZ19zNy0wQ29BV0tfU0lYM3BXc0pCejA4VHBCMk5mcXNhQmprVktmRl90T2xES3FWdWthai1hU214ZHhjQUVVaTdtV3FWdmQ4WG1aa2ZVTm1n?oc=5"
         }
       ],
       "keywords": [
@@ -1119,6 +1091,49 @@
             {
               "slug": "levetiracetam",
               "name": "レベチラセタム粒状錠５００ｍｇ「サワイ」"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "small cell lung carcinoma",
+          "keyword": "肺がん",
+          "related_drugs": [
+            {
+              "slug": "methotrexate",
+              "name": "リウマトレックスカプセル２ｍｇ（選）"
+            },
+            {
+              "slug": "capecitabine",
+              "name": "ゼローダ錠３００　３００ｍｇ（選）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fa05d742eb9e",
+      "title": "「認知症」になりたくないなら今すぐやるべき習慣とは？(ダイヤモンド・オンライン)",
+      "published": "2026-08-09T22:36:00+00:00",
+      "sources": [
+        {
+          "name": "Yahoo!ファイナンス",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVmNBck1Ral90aXUzYUx6S3l3MmJJdTMtWXRRMzNKdDFvMi0yZEtOZ0RqYWQ5RmUyWUUtWlBDbWFmVDFBcVNaZEhmSklILV9QOUNlRjczOHJrWVctbjdQMDNCVXBjN00tZEFaRU50dWdSenBLLTdtZnFsLUw4alZzQzBVZEo0YjQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "認知症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
             }
           ]
         }
