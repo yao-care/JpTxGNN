@@ -1,10 +1,34 @@
 {
   "source": "japan_news",
-  "fetched_at": "2026-08-15T12:17:20.229601+00:00",
-  "total_fetched": 117,
-  "unique_count": 117,
-  "health_related_count": 41,
+  "fetched_at": "2026-08-15T18:13:50.991524+00:00",
+  "total_fetched": 119,
+  "unique_count": 119,
+  "health_related_count": 36,
   "news": [
+    {
+      "id": "b35d3aa438df",
+      "title": "ついに結婚⁈ ジジ・ハディッドとブラッドリー・クーパー、出会いから現在までの交際史(25ansウエディング)",
+      "published": "2026-08-15T13:00:02+00:00",
+      "summary": "極秘結婚の噂が広がっているジジとブラッドリー。ふたりの交際歴を振り返り！ 交際開始から3年近く経つジジ・ハディッドとブラッドリー・クーパーですが、最近はかなり真剣さを増したようで、左手の薬指に結婚指",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/bd88bc1a5bc8899bf8c441c3aedcdf076309401d?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "fc52c7969c1c",
+      "title": "昆虫採集中の高2男子→「やっばいの取れた！」　とんでもない大物に「おおっ！」「パネぇっす」「こんなん居るんだ！」(ねとらぼ)",
+      "published": "2026-08-15T13:00:00+00:00",
+      "summary": "昆虫好きの高校生が発見した、珍しいクワガタがX（Twitter）で話題です。投稿は記事執筆時点で9万回以上表示され、2200件以上の“いいね”を獲得しています。 投稿者のhana（@hanasi",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/6e6eeb6482e4715344c2f83a93ad6ff4b1f80a96?source=rss"
+        }
+      ]
+    },
     {
       "id": "755b3838deb2",
       "title": "顔タイプ診断創始者・岡田実子さんが語る「なりたい自分になる方法」(CanCam.jp)",
@@ -14,114 +38,6 @@
         {
           "name": "Yahoo! Japan Life",
           "link": "https://news.yahoo.co.jp/articles/998f4d8dcb260e38be18e488ecad09b8af725270?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "a1d5c41cb5e9",
-      "title": "胸の気の巡りを改善する「兪府」は、せきや喘息、嘔吐や食欲不振を和らげるツボ(家庭画報.com)",
-      "published": "2026-08-15T12:10:02+00:00",
-      "summary": "中医学のエキスパートである鍼灸師の兵頭 明先生が、ツボの効能や位置、効くメカニズムを解説します。健康の土台作りに、不調改善に、1日1分のツボ押しを習慣にしましょう。",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/53d5a1a9cdf52fa547fa295b95a242866392567f?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "9fdfe6c8b8c1",
-      "title": "「東京都内の住宅街」を駆け回る愛らしい動物を発見　近づいた直後の展開に驚きの声(LIMO)",
-      "published": "2026-08-15T12:05:44+00:00",
-      "summary": "東京都内で遭遇した見慣れない動物が、Xで話題になっています。 投稿したのは、「@RukkaP」さんです。 当ポストは執筆時点で467万7000件を超えて表示されており、「かなり獰猛だから近づいちゃ",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/aa491b43a804a72d025ced8f98ae1fa237a265d1?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "74ad78e1dfe3",
-      "title": "【炎上】「自己顕示欲の塊」「なぜ撮影した？」命の危機にSNS投稿で大炎上…1型糖尿病の女性に向けられた“残酷な声”(ウィメンズヘルス)",
-      "published": "2026-08-15T12:02:35+00:00",
-      "summary": "一生にわたって付き合う必要がある自己免疫疾患で、膵臓がインスリンを作れなくなる病気「1型糖尿病」。先日、突然の低血糖に見舞われたある女性が、助けを求めて近所の家を訪れた際の出来事をSNSに投稿し話題に",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/7f8f1514247d33a4d8bcf127efdcf4186cb20a23?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "1211f015fefb",
-      "title": "43歳、私は更年期症状だと思うのに「まだ若いから」と治療してもらえない。やっとたどりついた投薬、最初に「感じたこと」は(OTONA SALONE)",
-      "published": "2026-08-15T12:02:07+00:00",
-      "summary": "閉経の前後5年を一般に更年期と呼びます。日本人の閉経の平均年齢は一般的には50歳といわれていますが、新しい研究での平均値は52.1歳とされています。となると、47～57歳の世代は更年期に当たる人が多く",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/73093dcb867c2c8e6b246397e18901fec24fb5b2?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "e25c5c124cc5",
-      "title": "〈モトナ・ビーチ・クラブ〉大人は極上の海を目の前にBBQ！(Safari Online)",
-      "published": "2026-08-15T12:01:10+00:00",
-      "summary": "多忙な男の休日に必要なのは、日常の喧騒から離れリフレッシュすること。たとえば、波の音や青い景色にはストレスを軽減する効果があるというから、海に行って心身を癒すのは正解だ。であれば、この夏開業2年めを迎",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/3ef44e0c3eec92f851e068d2f30c8554fb494bf8?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "d36b8ecfd73e",
-      "title": "喘息の人に朗報？ビタミンAとDが肺機能を守り、「肺の老化」を遅らせることが米研究で判明(ヨガジャーナルオンライン)",
-      "published": "2026-08-15T11:45:00+00:00",
-      "summary": "ビタミンAは目の健康、ビタミンDは骨の健康を支える栄養素として知られている。しかし近年では、どちらのビタミンも免疫機能の調節や炎症の抑制、組織の修復などに関わり、肺の健康を維持するうえでも重要な役割を",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/2778c81367a69fe2bdd2cdbb128511a09ee215e7?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "dc7f492f0941",
-      "title": "「パラパラって覚えてる？」セリアの『平成レトロなトイカメラみたいなキーホルダー』 ギャルがパラパラを踊るギミックつき(LIMO)",
-      "published": "2026-08-15T11:30:58+00:00",
-      "summary": "セリアではユニークなアイテムが販売されることがあります。2026年8月には、懐かしの「トイカメラのようなキーホルダー」が販売されているのを発見しました。 カメラを覗くと、ギャルがパラパラを踊るギミッ",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/692b99e933bd5afa93c8327ed5c0923b05c37eca?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "a43c837a4c21",
-      "title": "拾った石を割ったら中から……“息絶えた太古の姿”に驚愕「すげぇぇぇ！」「なんだこれ」研究員に話を聞いた(ねとらぼ)",
-      "published": "2026-08-15T11:30:00+00:00",
-      "summary": "大学生が見つけた貴重な化石。その驚きの姿がThreadsで話題です。投稿は記事執筆時点で5万5000回以上表示され、3100件以上の“いいね”を獲得しています。 投稿したのは、Threadsユー",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/0b0454b222e28734ac146f0a83a64314defca25c?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "b441f074e086",
-      "title": "ストレスを減らす！ 誰でも楽観的になれる5つの方法を専門家が解説(ELLE)",
-      "published": "2026-08-15T11:20:20+00:00",
-      "summary": "物事を前向きに捉える楽観主義は、ストレスの軽減や心血管の健康、睡眠の改善、認知症リスクの低下、長寿などと関連することが、さまざまな研究で示されている。楽観性は遺伝や幼少期からの経験にも左右されるが、生",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/979b67079f7d466eb2fdbce77bb5953c4b10bfb2?source=rss"
         }
       ]
     },
@@ -138,14 +54,14 @@
       ]
     },
     {
-      "id": "86fb0386bd47",
+      "id": "34bd8c1d0f93",
       "title": "「楽して痩せた」と非難も…糖尿病薬「マンジャロ」ダイエット乱用の背景にある“過酷なルッキズム” - ニコニコニュース",
       "published": "2026-08-14T22:24:28+00:00",
       "summary": "「楽して痩せた」と非難も…糖尿病薬「マンジャロ」ダイエット乱用の背景にある“過酷なルッキズム”&nbsp;&nbsp;ニコニコニュースGoogle ニュースで見出しと意見をもっと見る",
       "sources": [
         {
           "name": "ニコニコニュース",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBBbjh1cElRZTQ5a3U3V2pJd3lfakR4VUNXbENXdFF5Qy1SNVFCSEhRWThTeFhfOXhmVTE1YTBJMFVVX2pRbVlmdmNDOHBoMTBlbTcxTzRLcFdCSmdVb1RRYjdDRWE1eTZGMEtKckJubDQyVlE?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5tc2x5QXdrZWlPeFNFc2J3R0FjR1dUZGo1WVR1QkE4SzBLdVUxcXJnWEI5NHJZWWJOcnlpUEhIRjlWcXc3R0dSZ1hwcEU4UlpFRndvOA?oc=5"
         }
       ]
     },
@@ -158,6 +74,18 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/6a446b7b67b482f253b47fe2049a682ebef11ed5?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "4169f0934843",
+      "title": "「前立腺がんのリスクを高める」…男性が避けるべき「最悪の食品」 - 朝鮮日報",
+      "published": "2026-08-14T10:56:00+00:00",
+      "summary": "「前立腺がんのリスクを高める」…男性が避けるべき「最悪の食品」&nbsp;&nbsp;朝鮮日報",
+      "sources": [
+        {
+          "name": "朝鮮日報",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNR1Y1d2IzNDB4VGpvRGd0aC1RaG1fYnJBOHJnYm91MF80VF8yOFlhNVdEWGJlb2VrVkl2SjNweVBXbUdqemkzWjJBS2xCMUlIWnB6Z1RtZDZpa3JnWjdGdUdld3NnNmIwRnVhRDJzREd3dUJqd01SSEZIV2lZcWhwQVN1RVY?oc=5"
         }
       ]
     },
@@ -225,7 +153,7 @@
       "id": "7ac43ec427a6",
       "title": "かつてアレルギーを引き起こした点眼薬を再使用した男性が重体 - Laodong.vn",
       "published": "2026-08-14T05:11:53+00:00",
-      "summary": "かつてアレルギーを引き起こした点眼薬を再使用した男性が重体&nbsp;&nbsp;Laodong.vn医師はこう説明した。「なぜ点眼薬は全身性アレルギー反応を引き起こす可能性があるのか​​？」&nbsp;&nbsp;Vietnam.vn男性は点眼薬を3回使用した後、全身に水疱ができ、粘膜に深刻な損傷を受けた。&nbsp;&nbsp;Vietnam.vn",
+      "summary": "かつてアレルギーを引き起こした点眼薬を再使用した男性が重体&nbsp;&nbsp;Laodong.vn点眼薬を使った後に全身に水ぶくれができたため、彼は病院に行き、希少疾患と診断された。&nbsp;&nbsp;Vietnam.vn男性は点眼薬を3回使用した後、全身に水疱ができ、粘膜に深刻な損傷を受けた。&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "Laodong.vn",
@@ -254,6 +182,18 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/b5ccf3a9a70b3a229584353e8bb6c2cdfcd69d29?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "02032e7cb1a4",
+      "title": "最近、新型コロナ感染者が増えているようです。タイ疾病管理局「無理せず休んで！」。 - タイニュース・クロスボンバー",
+      "published": "2026-08-14T01:47:20+00:00",
+      "summary": "最近、新型コロナ感染者が増えているようです。タイ疾病管理局「無理せず休んで！」。&nbsp;&nbsp;タイニュース・クロスボンバー",
+      "sources": [
+        {
+          "name": "タイニュース・クロスボンバー",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB1ZS16NzJVdzZ3WUMxSkxGSmhiSzdhVk0wZ1A0YzI1TGlnTG1LMGhJUG02MlJCeDF1R2FaYWE5UEFuU2hIbU5tRGltcURYZm0t?oc=5"
         }
       ]
     },
