@@ -1,7 +1,86 @@
 {
-  "generated": "2026-08-17T06:33:36.293354+00:00",
-  "count": 13,
+  "generated": "2026-08-17T12:21:49.617874+00:00",
+  "count": 15,
   "news": [
+    {
+      "id": "885f79b0a5aa",
+      "title": "「痛みと発疹」のセットは帯状疱疹かも！早めの治療が重要な理由を専門医が解説(HALMEK up)",
+      "published": "2026-08-17T12:15:02+00:00",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/490e644a99df2344d8c4a022523e9a1d67e90a74?source=rss"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "herpes zoster",
+          "keyword": "帯状疱疹",
+          "related_drugs": [
+            {
+              "slug": "acyclovir",
+              "name": "ゾビラックス軟膏５％（選）"
+            },
+            {
+              "slug": "azithromycin",
+              "name": "ジスロマック細粒小児用１０％　１００ｍｇ（選）"
+            },
+            {
+              "slug": "metronidazole",
+              "name": "メトロニダゾールゲル０．７５％「マルイシ」"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7251f471360c",
+      "title": "定期的なワクチン接種が認知症のリスクを下げるかもしれない",
+      "published": "2026-08-17T09:00:00+00:00",
+      "sources": [
+        {
+          "name": "WIRED.jp",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTGJBY0xKQ1B3ZHNFVVEyX1hKQzM1WE1RNmNpU0wzVUxPUjdTS3dUMkYyQXNFWDc1Y0xqWGcwR0cwWktRV0pGSXplRVJiR1VFV2NhYlFzWTdJTUJEY3ljLTYzZHh4dGlyOFo2WlBRSnREV19NLWRGanJtc3dtMXc4SVBwLU9JcktOWDdjakhHdllpTGxOTzBLOWRQTUxFZzFmXzNnNjYzbms?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "herpes zoster",
+          "keyword": "帯状疱疹",
+          "related_drugs": [
+            {
+              "slug": "acyclovir",
+              "name": "ゾビラックス軟膏５％（選）"
+            },
+            {
+              "slug": "azithromycin",
+              "name": "ジスロマック細粒小児用１０％　１００ｍｇ（選）"
+            },
+            {
+              "slug": "metronidazole",
+              "name": "メトロニダゾールゲル０．７５％「マルイシ」"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "認知症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "bd985245aac6",
       "title": "第85回日本癌学会学術総会、9月24日から京都で――注目プログラムを紹介（後編）(Medical Note)",
@@ -1196,12 +1275,12 @@
       ]
     },
     {
-      "id": "8d17c98966d1",
+      "id": "8f8213b179c4",
       "title": "無症状で進み、再発しやすい「肝がん」 気づかぬうちに巨大化も",
       "published": "2026-08-16T15:00:00+00:00",
       "sources": [
         {
-          "name": "gooday.nikkei.co.jp",
+          "name": "日経Gooday",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUnVtQlhBS1gwckdjeXJ1QUlhTFN2SHQ5WENlVTVkdkU5ZU5abUtDWnd2S0RhUGRoUTdlQThqVTdOaVBEUVJ6OXJxR045aVBlQVVRVzBIckI5UUJfbldQemVfb2ZSLXFqMjBXemNVb2pnY0hSbVpHNmtHMmhrbmhUNDY4ZHJuYTZMZGNvcw?oc=5"
         }
       ],
