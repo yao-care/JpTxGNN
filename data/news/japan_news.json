@@ -1,10 +1,58 @@
 {
   "source": "japan_news",
-  "fetched_at": "2026-08-20T12:25:44.710141+00:00",
-  "total_fetched": 133,
-  "unique_count": 133,
-  "health_related_count": 48,
+  "fetched_at": "2026-08-20T18:23:11.658002+00:00",
+  "total_fetched": 135,
+  "unique_count": 135,
+  "health_related_count": 50,
   "news": [
+    {
+      "id": "9c53eb170aea",
+      "title": "レーザーで原子核の「住所」を特定　岡山大学が固体原子核時計の高精度化に道を開く新手法を実現(RSK山陽放送)",
+      "published": "2026-08-20T18:00:36+00:00",
+      "summary": "岡山大学とオーストリア・ウィーン工科大学などによる国際共同研究グループが、レーザーを使って結晶中のトリウム229原子核の周囲環境を精密に可視化する「レーザーメスバウアー分光」法を開発しました。 この",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/0059cb108597f39ab64019154f88abc071ee2e10?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "b4ca26e12d3f",
+      "title": "真夏の炎天下・農作業〝熱中症〟のリスク ⇒ 自作〝空調笠〟に製作依頼が殺到「楽になった」「お遍路にも使えるのでは」(西日本新聞me)",
+      "published": "2026-08-20T14:20:09+00:00",
+      "summary": "夏の草刈りの大敵「暑さ」。作業のたびに悩まされる気温に対し、「片山信玄」（@nobutaka860）さんが考案した「あじろ笠」がSNSで注目されている。（me話題班） 片山さんは4年前からファン",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/c88989439b24ff7d5a4ad9537fe7d0da0318b2e5?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "a0e618a6dca0",
+      "title": "手術を受ける祖父へ、孫から手紙 ⇒ 読み進めると……まさかの内容に祖父も〝大爆笑〟「まだまだ長生きしてもらいたい」(西日本新聞me)",
+      "published": "2026-08-20T14:00:42+00:00",
+      "summary": "祖父の手術を心配した孫が書いた手紙。子どもなりに考えながら書き進めた内容に、反応が寄せられている。（me話題班） 投稿したのは、ayumiさん（@ayumitsuki.s）。「次男が手紙書いたか",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/19d24f48e324af5b2fdf0e82e36166ce72c10068?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "e968a7d610d2",
+      "title": "むくみやすい、疲れが抜けない…「なんとなく不調」の救世主！ 話題の成分「クルクミン」を深堀り(MAQUIA)",
+      "published": "2026-08-20T13:30:30+00:00",
+      "summary": "「なんとなく不調」の正体、慢性炎症のケア成分として、今話題になっているクルクミン。二日酔い対策ドリンクで有名なクルクミンが、美容と健康で再評価されている理由とは？ 小田ユイコさんが専門家に取材！",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/a6871418d3c47c4cb6f3b8e61a8a68d908e83fe1?source=rss"
+        }
+      ]
+    },
     {
       "id": "931882d9c3c9",
       "title": "挙式前に\"気合いを入れた\"花嫁、初の美容施術で「まさかの大惨事」。厚生労働省も公表、まつげエクステの\"危害相談\"が増加か(Harper’s BAZAAR（ハーパーズ バザー）)",
@@ -30,42 +78,6 @@
       ]
     },
     {
-      "id": "0256a6b81f66",
-      "title": "「ラス1でGETできた」「背徳コンビ」ちょっと意外な『シャトレーゼの惣菜パン』一度食べたらハマっちゃう美味さでした！《実食レビュー》(ハフポスト日本版)",
-      "published": "2026-08-20T11:30:44+00:00",
-      "summary": "■ シャトレーゼの“一度食べたらまた食べたくなる惣菜パン”は、濃厚な味がおいしい！ シャトレーゼに行ったときに、意外なものが売られているのを発見しました。 それが「マッケンチーズブレッド」で、価格",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/357932e0389bb99bfd1062cb5eba82f365d4ea88?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "f12d10e25926",
-      "title": "【脚をまっすぐ伸ばして床に座れる?】シンプルだけど意外と難しい！成功のコツと効果(ヨガジャーナルオンライン)",
-      "published": "2026-08-20T11:30:00+00:00",
-      "summary": "ヨガで「杖のポーズ」と言われる、両脚を前に伸ばして床に座る姿勢。一見簡単そうに見えますが、実際行ってみると、骨盤が後ろに傾いてしまい、腰から背中が丸くなってしまう人が多いと思います。この姿勢ができるよ",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/7c8cd3eae6493ae1e5c5c34f827b305c3d03d585?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "94340a861a75",
-      "title": "重度の心臓病を持って生まれた次男、手術を重ねて4年後……　現在の姿に「本当に胸がいっぱい」「生きていてくれてありがとう」(ねとらぼ)",
-      "published": "2026-08-20T11:30:00+00:00",
-      "summary": "先天性心疾患を持って生まれた赤ちゃんが4年後……。感動的な“現在の姿”がYouTubeで話題です。投稿は記事執筆時点で1万6000回以上再生されています。 動画を投稿したのは、YouTubeチャ",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/28f3a352245495bcc5a4cf83658f227e3e28a8ea?source=rss"
-        }
-      ]
-    },
-    {
       "id": "7e09563547a1",
       "title": "京大などが「スプリング8」次世代施設に水素エネルギー分野特化の研究設備整備へ(産経新聞)",
       "published": "2026-08-20T10:32:28+00:00",
@@ -74,6 +86,18 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/b76b2eee02db4194e881a22ead3c8c6ab4ebe467?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "12e1daad722b",
+      "title": "腸内細菌が変える発がんの仕組み - tbsradio.jp",
+      "published": "2026-08-20T09:30:00+00:00",
+      "summary": "腸内細菌が変える発がんの仕組み&nbsp;&nbsp;tbsradio.jp",
+      "sources": [
+        {
+          "name": "tbsradio.jp",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PZW9hUUd4U2pjQmEza01qc21TUWZnOWxHUE5fZTh4RGI1WUxUME5iRV9Nb1FsNjZjMDlNZlpWemdvNENTcVZtVnNQckUzQVVJUGc?oc=5"
         }
       ]
     },
@@ -146,6 +170,18 @@
         {
           "name": "国立健康危機管理研究機構",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSHFkdGdUS1Jsamw2M0ZNWjY0MFBHVTJ1dXEzSmVNemYzZnFJd01haHRqOWJkMmVLYkc2ejBmY1hvdThFY3NEQTF0WlZCWDU4aWh1SllwMmJFdWkyT1FrNkxBcmtpblhUaDZ6SFJpajdXZklJRXE1MzJRR0NyT011ZmIxbllZN09OUlRLcXZNQ3o3NkVtMUVjLTRCOA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "96ff08cfcad4",
+      "title": "たんぱく質摂取者の5割が\"摂取疲れ\"を実感、一正蒲鉾が「たんぱく質に関する調査」結果を発表 - コマースピック",
+      "published": "2026-08-20T03:50:58+00:00",
+      "summary": "たんぱく質摂取者の5割が\"摂取疲れ\"を実感、一正蒲鉾が「たんぱく質に関する調査」結果を発表&nbsp;&nbsp;コマースピック健康意識層の約7割が重視する「たんぱく質」、一方で約半数が\"たんぱく質摂取疲れ\"を実感&nbsp;&nbsp;新潟日報",
+      "sources": [
+        {
+          "name": "コマースピック",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YdzhiWThiRmtEckd0Z21iT0Yybm94R2dVcmY0ck5KTVpUcmk0M0thMEwzR3E4UnRrOEhhQmhHdGxFN1d5UVpjVm42ZTZSQzNNbS1BNEdIaw?oc=5"
         }
       ]
     },
@@ -309,7 +345,7 @@
       "id": "4691d6c8984e",
       "title": "若者に呼び掛け 子宮頸がん検診受診の啓発動画を公開 岡山市 - KSBニュース",
       "published": "2026-08-19T08:27:00+00:00",
-      "summary": "若者に呼び掛け 子宮頸がん検診受診の啓発動画を公開 岡山市&nbsp;&nbsp;KSBニュース婦人科検診の結果をどう受け止める？…高尾美穂医師からの助言&nbsp;&nbsp;ハナソネ婦人科検診の結果をどう受け止める？…高尾美穂医師からの助言（Hanasone）&nbsp;&nbsp;Yahoo!ニュース",
+      "summary": "若者に呼び掛け 子宮頸がん検診受診の啓発動画を公開 岡山市&nbsp;&nbsp;KSBニュース「子宮頸がん」予防に効果的な「HPVワクチン」 鳥取県内初、“休日集団接種”実施へ 自費での接種だと1回約3万円…公費対象は何歳？接種回数は？ | BSSニュース | BSS山陰放送 (1ページ)&nbsp;&nbsp;TBS NEWS DIG「子宮頸がん」予防に効果的な「HPVワクチン」 鳥取県内初、“休日集団接種”実施へ 自費での接種だと1回約3万円…公費対象は何歳?接種回数は?（BSS山陰放送）&nbsp;&nbsp;Yahoo!ニュース子宮頸がん予防のＨＰＶワクチン受けて ２３日に米子市で集団接種&nbsp;&nbsp;nnn.co.jp子宮頸がん予防ワクチン ２３日、米子で集団接種 鳥大病院と県西部医師会 広く呼びかけ&nbsp;&nbsp;nnn.co.jp",
       "sources": [
         {
           "name": "KSBニュース",
@@ -357,7 +393,7 @@
       "id": "61a06699f456",
       "title": "ハティン省でデング熱の新たな発生源が出現 - Laodong.vn",
       "published": "2026-08-19T07:28:10+00:00",
-      "summary": "ハティン省でデング熱の新たな発生源が出現&nbsp;&nbsp;Laodong.vnデング熱にかかった場合は、油断しないでください。&nbsp;&nbsp;Vietnam.vn病気が子供たちの学校にまで持ち込まれないようにしよう。&nbsp;&nbsp;Vietnam.vn",
+      "summary": "ハティン省でデング熱の新たな発生源が出現&nbsp;&nbsp;Laodong.vn病気が子供たちの学校にまで持ち込まれないようにしよう。&nbsp;&nbsp;Vietnam.vn疾病発生件数の増加とプライマリヘルスケアの強化。&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "Laodong.vn",
@@ -422,18 +458,6 @@
         {
           "name": "ニコニコニュース",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBtQW0tNmx3MXVXLWpuMlFrNERsZG1fQ3p6eURIMzIzaUgxT3FxemRwUUI4clpQRmU2YXlGMEZGMkQ3Q25RalJwS3FKdFpMR0t1MHFuNA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ac6954ac1d3d",
-      "title": "AIで遺伝子治療の実用化を加速、VectorBuilderとLir Therapeuticsが次世代AAVカプシド開発で提携 - PR TIMES",
-      "published": "2026-08-18T21:00:01+00:00",
-      "summary": "AIで遺伝子治療の実用化を加速、VectorBuilderとLir Therapeuticsが次世代AAVカプシド開発で提携&nbsp;&nbsp;PR TIMES",
-      "sources": [
-        {
-          "name": "PR TIMES",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XRHdSbXFTUXc1Vm1ZeFE4Skt5ZlpyUGRna25lcVl2MzVtZl9qUGVVSmhHN2NYYjh4YkRlVjhwbG82bjdEVGRJRXZUZGZqUTZlVS1oWnYxSFNUUHFUZWZQWFhnMkpJbzdRQlE?oc=5"
         }
       ]
     },
