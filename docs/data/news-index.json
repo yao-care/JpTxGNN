@@ -1,15 +1,51 @@
 {
-  "generated": "2026-08-22T12:18:24.770927+00:00",
-  "count": 11,
+  "generated": "2026-08-22T18:14:27.985365+00:00",
+  "count": 12,
   "news": [
     {
-      "id": "8417aa2c78de",
-      "title": "血液検査で認知症早期発見 厚労省が27年度研究着手、投薬効果も検証",
-      "published": "2026-08-22T09:53:53+00:00",
+      "id": "755ac5ed7123",
+      "title": "定期的に「見え方」をチェック。加えて年1回以上の検診や眼鏡の見直しが目を守る(家庭画報.com)",
+      "published": "2026-08-22T15:10:01+00:00",
       "sources": [
         {
-          "name": "日本経済新聞",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Ia0szeUxINmdZVzc4S1lpVGJFTG1UTGtBeGtMSDg4TVZBdGtvUkc5WW51Q3h6ZkNyMURiWVh4SVpkdERGSVV4M2RmUTBCYUZhWkNCUmxFOVhKQmZna3V4X1paOFBCaHE0RVBNQQ?oc=5"
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/2fa22d624b1a1be11df676c18ce3d3b070d03c57?source=rss"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "glaucoma",
+          "keyword": "緑内障",
+          "related_drugs": [
+            {
+              "slug": "atorvastatin",
+              "name": "アトーゼット配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "pravastatin",
+              "name": "メバロチン錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "simvastatin",
+              "name": "リポバス錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "rosuvastatin",
+              "name": "クレストールＯＤ錠５ｍｇ（選）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4e4ab8b44bc4",
+      "title": "《脳の老化をストップ》ど忘れはすぐ検索、写真はメモ代わりに 医師が指南する「認知症予防するスマホ活用術」 (1/1)",
+      "published": "2026-08-22T14:23:15+00:00",
+      "sources": [
+        {
+          "name": "介護ポストセブン",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5JOWl5S294QXJmQmRGbkJWVTQtX2dwTExITnBPX0ZGMHltMk9qTFl4VFRBckxLeV9sRFBiMjRVVGdRTjVqeVd5R1hR?oc=5"
         }
       ],
       "keywords": [
@@ -25,6 +61,90 @@
             {
               "slug": "erlotinib",
               "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5e4040a292e1",
+      "title": "医師が血圧を急上昇させ、脳卒中のリスクを高める5つの間違いを警告",
+      "published": "2026-08-22T07:00:00+00:00",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb3ltMTdCUHZQT0FaR3JWUjhSZGdlaEtyNFhhSDVnYjZrRmlDdHNERWVWOHh5Vi1ockthV1JpUUVJWWFfWmZ2TndXcW51OHdwQ2VpY0w1cGpuSTBEbzNBVnZhckpxaXl5VENSYXFKVUs3Zmc4OWpVWTNJbmpsZXl2V2Y4a2l5YmhORkoxTHB6SHBNTU5YX2hLZmV4Y1liMXJ0U3ZEbWFmakZEWlE?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "脳卒中",
+          "related_drugs": [
+            {
+              "slug": "atorvastatin",
+              "name": "アトーゼット配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "valsartan",
+              "name": "ディオバンＯＤ錠１６０ｍｇ（選）"
+            },
+            {
+              "slug": "pravastatin",
+              "name": "メバロチン錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "simvastatin",
+              "name": "リポバス錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "enalapril",
+              "name": "レニベース錠１０　１０ｍｇ（選）"
+            },
+            {
+              "slug": "lisinopril",
+              "name": "ロンゲス錠２０ｍｇ（選）"
+            },
+            {
+              "slug": "diltiazem",
+              "name": "ヘルベッサー錠６０　６０ｍｇ（選）"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "エックスフォージ配合ＯＤ錠（選）"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "ミカムロ配合錠ＢＰ（選）"
+            },
+            {
+              "slug": "rosuvastatin",
+              "name": "クレストールＯＤ錠５ｍｇ（選）"
+            },
+            {
+              "slug": "verapamil",
+              "name": "ワソラン錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "losartan",
+              "name": "ニューロタン錠５０ｍｇ（選）"
+            },
+            {
+              "slug": "warfarin",
+              "name": "ワルファリンＫ細粒０．２％「ＮＳ」"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "ザルティア錠５ｍｇ（選）"
+            },
+            {
+              "slug": "fenofibrate",
+              "name": "トライコア錠８０ｍｇ（選）"
+            },
+            {
+              "slug": "prasugrel",
+              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
             }
           ]
         }
@@ -77,34 +197,6 @@
             {
               "slug": "codeine",
               "name": "ムコブロチン配合シロップ"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4e4ab8b44bc4",
-      "title": "《脳の老化をストップ》ど忘れはすぐ検索、写真はメモ代わりに 医師が指南する「認知症予防するスマホ活用術」 (1/1)",
-      "published": "2026-08-21T19:02:29+00:00",
-      "sources": [
-        {
-          "name": "介護ポストセブン",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5JOWl5S294QXJmQmRGbkJWVTQtX2dwTExITnBPX0ZGMHltMk9qTFl4VFRBckxLeV9sRFBiMjRVVGdRTjVqeVd5R1hR?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "認知症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
             }
           ]
         }
