@@ -1,15 +1,15 @@
 {
-  "generated": "2026-08-23T12:18:38.891871+00:00",
+  "generated": "2026-08-23T18:14:32.720555+00:00",
   "count": 13,
   "news": [
     {
-      "id": "94c7ec769b56",
-      "title": "【減塩以外で血圧を簡単に下げる食べ方】高血圧治療の名医が明かす、最新研究と実践のヒント(ヨガジャーナルオンライン)",
-      "published": "2026-08-23T11:45:00+00:00",
+      "id": "a39d66815da5",
+      "title": "心不全ステージB（前心不全）の分類は必要か？",
+      "published": "2026-08-23T14:45:12+00:00",
       "sources": [
         {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/2965683dae58d99d164591621da8fb2e10a337c7?source=rss"
+          "name": "日経メディカル",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObnpxUHR2MHhtQWxpN3JUQlI1MXgxcDdqR1BLYnYxR0RtUDBYNzEzLThCNEFhcF9DV25kWE5lU25mMzRNVnB5bU85X0tYTHlWQ1U4dGc5MVU5SllQZWN0dkR0dGRzNXg1dmViNkhrUHJpZFNXYmQxbFV4Z2JuMDhIazJWcHBMN2VUajlGZ2pB?oc=5"
         }
       ],
       "keywords": [
@@ -55,13 +55,28 @@
               "name": "ディオバンＯＤ錠１６０ｍｇ（選）"
             }
           ]
+        },
+        {
+          "type": "indication",
+          "name": "heart failure",
+          "keyword": "心不全",
+          "related_drugs": [
+            {
+              "slug": "enalapril",
+              "name": "レニベース錠１０　１０ｍｇ（選）"
+            },
+            {
+              "slug": "latanoprost",
+              "name": "ザラカム配合点眼液（選）"
+            }
+          ]
         }
       ]
     },
     {
       "id": "7847bf0a9381",
       "title": "【闘病】車の接触事故が多発した母… 『アルツハイマー型認知症』と家族が知った「限界」",
-      "published": "2026-08-23T02:04:20+00:00",
+      "published": "2026-08-23T14:04:32+00:00",
       "sources": [
         {
           "name": "メディカルドック",
