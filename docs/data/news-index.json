@@ -1,42 +1,26 @@
 {
-  "generated": "2026-08-24T06:35:51.526763+00:00",
-  "count": 14,
+  "generated": "2026-08-24T12:26:38.666382+00:00",
+  "count": 11,
   "news": [
     {
-      "id": "f78372426950",
-      "title": "「てんかんを疑う症状」は”けいれん”だけじゃない？見逃しやすいサインを医師が解説！",
-      "published": "2026-08-24T03:34:42+00:00",
+      "id": "5269afba9df2",
+      "title": "市原市のインフルエンザ予防接種2026｜高齢者は10/1から・自己負担金は8月時点で未定。子どもは無料",
+      "published": "2026-08-24T00:53:01+00:00",
       "sources": [
         {
-          "name": "メディカルドック",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iZ194dVZ6a19VN1ZweExOdXhFa3Y4VmVyOEd0TEQzRy1kb2hwNjU0V0FqZUJwSmlSYnZCbHRiWkxhd1RqeXNXaktLZWdUS1RkNkZWZm9ZSWJ4WkxPbUR0dDVNSW9heE8yeDQ0?oc=5"
+          "name": "ジモはる",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Ma2tBcHVfWkxHMWIwM05wT21TU0FaNTJpTi01LXdkTHZkdGFYZGhaQlp6T096enJleXRMT25CMkFja2xjUkdDYW01ODBwTW93T3UyNldMWVVEUTlzNzZReEozVDFjMXVDQ2c?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "epilepsy",
-          "keyword": "てんかん",
+          "name": "influenza",
+          "keyword": "インフルエンザ",
           "related_drugs": [
             {
-              "slug": "valproic-acid",
-              "name": "セレニカＲ顆粒４０％（選）"
-            },
-            {
-              "slug": "carbamazepine",
-              "name": "テグレトール錠１００ｍｇ（選）"
-            },
-            {
-              "slug": "lorazepam",
-              "name": "ワイパックス錠１．０　１ｍｇ（選）"
-            },
-            {
-              "slug": "lamotrigine",
-              "name": "ラミクタール錠２５ｍｇ（選）"
-            },
-            {
-              "slug": "levetiracetam",
-              "name": "レベチラセタム粒状錠５００ｍｇ「サワイ」"
+              "slug": "oseltamivir",
+              "name": "タミフルドライシロップ３％（選）"
             }
           ]
         }
@@ -390,34 +374,6 @@
       ]
     },
     {
-      "id": "b93f501da0d1",
-      "title": "認知症リスクに「空気」が関係？ PM2.5などの微小粒子が脳に影響する可能性を探る",
-      "published": "2026-08-23T21:00:00+00:00",
-      "sources": [
-        {
-          "name": "JBpress",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51cHc1N1M1Ty03aVlNbmNjRUpjUzhkaEpCRmtFbTU1NFh4V1E3cHV5d0pZQUNsOWlaSlctQnpqREl6VFVHNllDOFZJUWFXQi1qc2wtV09R?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "認知症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "a39d66815da5",
       "title": "心不全ステージB（前心不全）の分類は必要か？",
       "published": "2026-08-23T14:45:12+00:00",
@@ -532,34 +488,6 @@
       ]
     },
     {
-      "id": "3bc95073dadb",
-      "title": "《放置は危険》「加齢性難聴」で認知症の発症率が最大5倍に…専門医が明かす仕組みと、今すぐできる“脳トレ＆耳トレ”",
-      "published": "2026-08-23T00:00:00+00:00",
-      "sources": [
-        {
-          "name": "週刊女性PRIME",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1EY3BNekhXdHA1Z2dXb1NlQ3NUdFJUUWNjM1J6SGtENndQOVFkNW5mWGItb3RWbGVISEtMN1RhNlVTOS1BOW91ZE8zeUd6aWM?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "認知症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "4e4ab8b44bc4",
       "title": "《脳の老化をストップ》ど忘れはすぐ検索、写真はメモ代わりに 医師が指南する「認知症予防するスマホ活用術」 (1/1)",
       "published": "2026-08-22T14:23:15+00:00",
@@ -582,90 +510,6 @@
             {
               "slug": "erlotinib",
               "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "5e4040a292e1",
-      "title": "医師が血圧を急上昇させ、脳卒中のリスクを高める5つの間違いを警告",
-      "published": "2026-08-22T07:00:00+00:00",
-      "sources": [
-        {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb3ltMTdCUHZQT0FaR3JWUjhSZGdlaEtyNFhhSDVnYjZrRmlDdHNERWVWOHh5Vi1ockthV1JpUUVJWWFfWmZ2TndXcW51OHdwQ2VpY0w1cGpuSTBEbzNBVnZhckpxaXl5VENSYXFKVUs3Zmc4OWpVWTNJbmpsZXl2V2Y4a2l5YmhORkoxTHB6SHBNTU5YX2hLZmV4Y1liMXJ0U3ZEbWFmakZEWlE?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "脳卒中",
-          "related_drugs": [
-            {
-              "slug": "atorvastatin",
-              "name": "アトーゼット配合錠ＨＤ（選）"
-            },
-            {
-              "slug": "valsartan",
-              "name": "ディオバンＯＤ錠１６０ｍｇ（選）"
-            },
-            {
-              "slug": "pravastatin",
-              "name": "メバロチン錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "simvastatin",
-              "name": "リポバス錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "enalapril",
-              "name": "レニベース錠１０　１０ｍｇ（選）"
-            },
-            {
-              "slug": "lisinopril",
-              "name": "ロンゲス錠２０ｍｇ（選）"
-            },
-            {
-              "slug": "diltiazem",
-              "name": "ヘルベッサー錠６０　６０ｍｇ（選）"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "エックスフォージ配合ＯＤ錠（選）"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "ミカムロ配合錠ＢＰ（選）"
-            },
-            {
-              "slug": "rosuvastatin",
-              "name": "クレストールＯＤ錠５ｍｇ（選）"
-            },
-            {
-              "slug": "verapamil",
-              "name": "ワソラン錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "losartan",
-              "name": "ニューロタン錠５０ｍｇ（選）"
-            },
-            {
-              "slug": "warfarin",
-              "name": "ワルファリンＫ細粒０．２％「ＮＳ」"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "ザルティア錠５ｍｇ（選）"
-            },
-            {
-              "slug": "fenofibrate",
-              "name": "トライコア錠８０ｍｇ（選）"
-            },
-            {
-              "slug": "prasugrel",
-              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
             }
           ]
         }
