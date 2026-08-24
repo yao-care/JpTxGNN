@@ -1,7 +1,59 @@
 {
-  "generated": "2026-08-23T18:14:32.720555+00:00",
-  "count": 13,
+  "generated": "2026-08-24T00:40:30.363909+00:00",
+  "count": 15,
   "news": [
+    {
+      "id": "ea67f63368b2",
+      "title": "高度な形質転換能を持つインフルエンザ菌が耐性遺伝子伝播を促進－名城大",
+      "published": "2026-08-24T00:10:00+00:00",
+      "sources": [
+        {
+          "name": "QLifePro",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSUM0OUc1OTgzeHlZR2oxV2xMWUZ3aXdTbTR6eVEtM3otOUFfbGIyOTBSS0lzQVE3dnVQbEJIbVJNbGpnVGRSc2M2LW4xWmpYZlRYdkwyMG41X1lreDU4ZkR1T01lUTQyT3pIZDlVWmF2RUdSUjlEZDA1SEZnVzJTdFZVaF85RmxHdUI4b2xnZHB3aDVYLVc4dzhST28zUXo2eGhMcnhncU11eW5tV0hMYmNJd05GbmtVYmFV?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "influenza",
+          "keyword": "インフルエンザ",
+          "related_drugs": [
+            {
+              "slug": "oseltamivir",
+              "name": "タミフルドライシロップ３％（選）"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b93f501da0d1",
+      "title": "認知症リスクに「空気」が関係？ PM2.5などの微小粒子が脳に影響する可能性を探る",
+      "published": "2026-08-23T21:00:00+00:00",
+      "sources": [
+        {
+          "name": "JBpress",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51cHc1N1M1Ty03aVlNbmNjRUpjUzhkaEpCRmtFbTU1NFh4V1E3cHV5d0pZQUNsOWlaSlctQnpqREl6VFVHNllDOFZJUWFXQi1qc2wtV09R?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "認知症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "a39d66815da5",
       "title": "心不全ステージB（前心不全）の分類は必要か？",
