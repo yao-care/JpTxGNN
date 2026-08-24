@@ -1,7 +1,174 @@
 {
-  "generated": "2026-08-24T12:26:38.666382+00:00",
-  "count": 11,
+  "generated": "2026-08-24T18:24:32.121541+00:00",
+  "count": 12,
   "news": [
+    {
+      "id": "d02e48266861",
+      "title": "脳梗塞薬ドラッグロス懸念 取り扱い企業めど立たず 臨床試験で有効性確認",
+      "published": "2026-08-24T15:00:00+00:00",
+      "sources": [
+        {
+          "name": "47NEWS",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9vcmJCbkl6bWZsbUdyU1NtZUZ3ZWdZQ282MVpxNU5ha0dpemtZZ2lVYm92QTRpOW95U1B3UktESE42V3VzOG1YaVpRRQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "脳梗塞",
+          "related_drugs": [
+            {
+              "slug": "atorvastatin",
+              "name": "アトーゼット配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "valsartan",
+              "name": "ディオバンＯＤ錠１６０ｍｇ（選）"
+            },
+            {
+              "slug": "pravastatin",
+              "name": "メバロチン錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "simvastatin",
+              "name": "リポバス錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "enalapril",
+              "name": "レニベース錠１０　１０ｍｇ（選）"
+            },
+            {
+              "slug": "lisinopril",
+              "name": "ロンゲス錠２０ｍｇ（選）"
+            },
+            {
+              "slug": "diltiazem",
+              "name": "ヘルベッサー錠６０　６０ｍｇ（選）"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "エックスフォージ配合ＯＤ錠（選）"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "ミカムロ配合錠ＢＰ（選）"
+            },
+            {
+              "slug": "rosuvastatin",
+              "name": "クレストールＯＤ錠５ｍｇ（選）"
+            },
+            {
+              "slug": "verapamil",
+              "name": "ワソラン錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "losartan",
+              "name": "ニューロタン錠５０ｍｇ（選）"
+            },
+            {
+              "slug": "warfarin",
+              "name": "ワルファリンＫ細粒０．２％「ＮＳ」"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "ザルティア錠５ｍｇ（選）"
+            },
+            {
+              "slug": "fenofibrate",
+              "name": "トライコア錠８０ｍｇ（選）"
+            },
+            {
+              "slug": "prasugrel",
+              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7bd235bd9f28",
+      "title": "医師が22歳の患者の心筋梗塞の症例について警告",
+      "published": "2026-08-24T01:25:15+00:00",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS1JSVGFiY08tRXVVY0ZKMlJnRXBURTdfVHVzQXIyRkFqQTZIVndNSEowaDd5X1gzOG92V0NwbGtBdzQxQmFmUENSWVVCNmkwWkJ0R0p6VGhFTmYxSXk1ZU9iREhJMC02dmdLMUFOZHNqMDl4Q1VGU1ZZTUJGZkdTVVRyQjI0ZEhUTE9yTGctN3h6WElubERmemtTbTVzR1JqR2c?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心筋梗塞",
+          "related_drugs": [
+            {
+              "slug": "atenolol",
+              "name": "テノーミン錠５０　５０ｍｇ（選）"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "ロプレソール錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "lisinopril",
+              "name": "ロンゲス錠２０ｍｇ（選）"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "エックスフォージ配合ＯＤ錠（選）"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "ミカムロ配合錠ＢＰ（選）"
+            },
+            {
+              "slug": "warfarin",
+              "name": "ワルファリンＫ細粒０．２％「ＮＳ」"
+            },
+            {
+              "slug": "prasugrel",
+              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "心臓発作",
+          "keyword": "心臓発作",
+          "related_drugs": [
+            {
+              "slug": "atenolol",
+              "name": "テノーミン錠５０　５０ｍｇ（選）"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "ロプレソール錠４０ｍｇ（選）"
+            },
+            {
+              "slug": "lisinopril",
+              "name": "ロンゲス錠２０ｍｇ（選）"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "エックスフォージ配合ＯＤ錠（選）"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "ミカムロ配合錠ＢＰ（選）"
+            },
+            {
+              "slug": "warfarin",
+              "name": "ワルファリンＫ細粒０．２％「ＮＳ」"
+            },
+            {
+              "slug": "prasugrel",
+              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "5269afba9df2",
       "title": "市原市のインフルエンザ予防接種2026｜高齢者は10/1から・自己負担金は8月時点で未定。子どもは無料",
@@ -474,34 +641,6 @@
           "type": "indication",
           "name": "アルツハイマー型認知症",
           "keyword": "アルツハイマー型認知症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "4e4ab8b44bc4",
-      "title": "《脳の老化をストップ》ど忘れはすぐ検索、写真はメモ代わりに 医師が指南する「認知症予防するスマホ活用術」 (1/1)",
-      "published": "2026-08-22T14:23:15+00:00",
-      "sources": [
-        {
-          "name": "介護ポストセブン",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5JOWl5S294QXJmQmRGbkJWVTQtX2dwTExITnBPX0ZGMHltMk9qTFl4VFRBckxLeV9sRFBiMjRVVGdRTjVqeVd5R1hR?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "認知症",
           "related_drugs": [
             {
               "slug": "gefitinib",
