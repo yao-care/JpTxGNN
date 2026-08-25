@@ -1,10 +1,154 @@
 {
   "source": "japan_news",
-  "fetched_at": "2026-08-24T18:24:31.820040+00:00",
-  "total_fetched": 126,
-  "unique_count": 126,
-  "health_related_count": 45,
+  "fetched_at": "2026-08-25T00:40:06.588101+00:00",
+  "total_fetched": 134,
+  "unique_count": 134,
+  "health_related_count": 53,
   "news": [
+    {
+      "id": "e9ed02ec05af",
+      "title": "「ペットボトルから作られたクッキー」が世界を救う、食糧危機の緩和や宇宙ミッションにも(Forbes JAPAN)",
+      "published": "2026-08-25T00:30:00+00:00",
+      "summary": "南イリノイ大学の研究チームは、廃棄されたペットボトルや農作物廃棄物を分解し、タンパク質が豊富に含まれたクッキーへと変化させる微生物を開発した。この発見が世界のプラスチックごみ問題や迫り来る食糧危機を解",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/f9d75e5c1f6c2826bc71943723995aa599db29a0?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "1bd08fb5adcf",
+      "title": "30歳ひきこもり長女、障害年金「500万円」を受給できず？　20歳前に受診した人が陥る“時効5年”の落とし穴【社労士解説】(オトナンサー)",
+      "published": "2026-08-25T00:15:00+00:00",
+      "summary": "筆者のファイナンシャルプランナー・浜田裕也さんは、社会保険労務士の資格を持ち、病気などで就労が困難なひきこもりの人を対象に、障害年金の請求を支援する活動も行っています。 浜田さんによると、障害年",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/95e9c18923cdf86aed80aab1be4cfebd7a35ca1d?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "03ab2d202900",
+      "title": "コーヒーには肝臓と心臓の健康を促す働きも　新たな研究で次々と明らかになる効能(Forbes JAPAN)",
+      "published": "2026-08-25T00:00:00+00:00",
+      "summary": "多くの人は目覚めた時に疲れを感じ、カフェインが頭をすっきりさせてくれることを期待しながらマグカップを手に取る。しかし、この毎日の習慣が長年にわたって私たちの健康にどのような影響を与えているのかを考える",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/fcd31d2d523729ee91ec343029025d801184059c?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "f0e13f057126",
+      "title": "日光は“美容の敵”だけじゃない。日焼け対策派も知っておきたい「手のひら日光浴」の意外な効果(女子SPA！)",
+      "published": "2026-08-24T23:46:42+00:00",
+      "summary": "普段、「日光」を浴びる時間はありますか？ 「日焼けしたくないから、外に出る時は完全防備！」という方も多いですよね。私も、日焼け止めと日傘を欠かさないようにしています。 しかし、美容の敵と思われがちな",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/c15b87c0cc3f380c70822743e0400d1fa21e7473?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "ff3891dc6a67",
+      "title": "奈良県総合医療センター、血液がんの新たな治療法を開始　CAR－T細胞で長期の効果期待(産経新聞)",
+      "published": "2026-08-24T23:33:13+00:00",
+      "summary": "奈良県総合医療センター（奈良市七条西町）は、血液がんに対する新たな治療法「CAR－T（カーティー）細胞療法」を県内で初めて開始したと発表した。患者自身の免疫細胞を遺伝子改変してがんを攻撃させる治療法で",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/dc39a09dca91f034623bfd5a74194091daa44137?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "c9e3560cb120",
+      "title": "透析患者が、前立腺がんで放射線療法とホルモン療法を併用　透析治療に影響はない？　がん電話相談から(産経新聞)",
+      "published": "2026-08-24T23:29:21+00:00",
+      "summary": "今回は、高リスクの前立腺がんと診断され、再発を心配する70代男性からの相談です。今後の治療の想定について、がん研有明病院副院長で泌尿器科部長の米瀬淳二医師が答えます。 ■限局性だが高リスク ──腎",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/d5f06e053e32b28a267fb53de497c300844058a4?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "78f053c3d88e",
+      "title": "麦茶でもスポドリでも経口補水液でもない…最新研究で判明､熱中症を防ぐ｢コンビニで買える飲み物｣の名前(プレジデントオンライン)",
+      "published": "2026-08-24T23:15:37+00:00",
+      "summary": "気象庁は、9月前半にかけて全国的に気温が高い状態が続くと予想している。厳しい残暑の中で、熱中症のリスクを下げるにはどうすればいいのか。サイエンスライターの飯銅重幸さんが、研究論文などを基に熱中症対策の",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/81704cc90f6d065bebb63262acf979f3c1ae8226?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "c1707d420e35",
+      "title": "超大質量ブラックホール「いて座A*」周辺で新たな星を発見　ブラックホールの自転測定に期待(sorae 宇宙へのポータルサイト)",
+      "published": "2026-08-24T22:00:09+00:00",
+      "summary": "パリ天文台のKarim Abd El Dayem氏を筆頭とする研究チームは、天の川銀河の中心部に存在する超大質量（超巨大）ブラックホール「いて座A*（Sgr A*）」のごく近くを周回する新たな星を発見",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/a518022143641511b9e411b5aa136e72ffde6f48?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "a29364f25586",
+      "title": "心臓を回復させる遺伝子の研究はデバイス治療に対する“楔”になる｜上皇の執刀医「心臓病はここまで治せる」 - 日刊ゲンダイDIGITAL",
+      "published": "2026-08-24T21:00:00+00:00",
+      "summary": "心臓を回復させる遺伝子の研究はデバイス治療に対する“楔”になる｜上皇の執刀医「心臓病はここまで治せる」&nbsp;&nbsp;日刊ゲンダイDIGITAL心不全ステージB（前心不全）の分類は必要か？&nbsp;&nbsp;日経メディカル「心不全を疑うむくみ」はどこを押すと分かるかご存知ですか？初期サインも医師が解説！【Gallery】&nbsp;&nbsp;メディカルドック高血圧はすでに「心不全ステージA」だった――循環器専門医が語る、“心不全パンデミック”時代を生き抜く知恵（Medical Note）&nbsp;&nbsp;Yahoo!ニュース",
+      "sources": [
+        {
+          "name": "日刊ゲンダイDIGITAL",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Ja1huODNNczNYTTdSVkNVVEJWOHBzUnpPVmpVZEZrUjRaSl9wSldkUkNiQVIzUUZBTFNrM2NEZTk3dlVUMVhyOWtYZGNlNEZwRHpxMFRmdGI2clhBU0YwdFYwZ05uY1Ri?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e1ac2e700ab8",
+      "title": "高齢の祖母、危険すぎるお湯の沸かし方にネット民驚愕 認知症の専門家は「家電の替え方が重要」と説明 - Sirabee",
+      "published": "2026-08-24T20:00:00+00:00",
+      "summary": "高齢の祖母、危険すぎるお湯の沸かし方にネット民驚愕 認知症の専門家は「家電の替え方が重要」と説明&nbsp;&nbsp;Sirabee",
+      "sources": [
+        {
+          "name": "Sirabee",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Ka0t6NDhSRDQ5M3dtVDMzYWJXRzNYa3ZUWGVPMlNIbWVjQU96aWc0VjBHdHhRaHVRZHdnVkMzSnRaLU5YREtPN2tnZUQ3RDdFQkhCbE5R?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dd93837af13d",
+      "title": "日本人2型糖尿病へのGLP-1薬、MACE・死亡リスクへの影響は？｜CareNet.com - CareNet.com",
+      "published": "2026-08-24T19:00:00+00:00",
+      "summary": "日本人2型糖尿病へのGLP-1薬、MACE・死亡リスクへの影響は？｜CareNet.com&nbsp;&nbsp;CareNet.com",
+      "sources": [
+        {
+          "name": "CareNet.com",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83MHVUVy1rTUd3MGtvWVBhd25kd0dhQ0dCUWl4S241cGIwb1l3Q3VxbmI5NU1BM2FEcnNLZjd0VUdNZ2RMa1prSmdQbUtjUU9DVklKRzkxUmdlbFBUTUVKZQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "76aa1df3563b",
+      "title": "変形性股関節症に対する運動、期待ほどの効果は得られない？｜CareNet.com - CareNet.com",
+      "published": "2026-08-24T19:00:00+00:00",
+      "summary": "変形性股関節症に対する運動、期待ほどの効果は得られない？｜CareNet.com&nbsp;&nbsp;CareNet.com",
+      "sources": [
+        {
+          "name": "CareNet.com",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WTnhTcWMzOEpWUUtUZFVfWGkyeHIwZEdjbmlVajB5NHBrOHBhMnBYSjFBYWI2Ym5tdmQwQUdxMXVtc2RFZjRQMUxEUUhuakdlb0NRYm9yb21XUQ?oc=5"
+        }
+      ]
+    },
     {
       "id": "d02e48266861",
       "title": "脳梗塞薬ドラッグロス懸念 取り扱い企業めど立たず 臨床試験で有効性確認 - 47NEWS",
@@ -14,30 +158,6 @@
         {
           "name": "47NEWS",
           "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9vcmJCbkl6bWZsbUdyU1NtZUZ3ZWdZQ282MVpxNU5ha0dpemtZZ2lVYm92QTRpOW95U1B3UktESE42V3VzOG1YaVpRRQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e34b5dd8e532",
-      "title": "【注目アイテム5選】「Garmin初」の「画面なしスマートバンド」や「ジャクリ」のちょうどいい「ポータブル電源」など今「買いたい」アイテムをピックアップ(GoodsPress Web)",
-      "published": "2026-08-24T12:30:03+00:00",
-      "summary": "夏本番を迎え、暑さ対策はもちろん、日々の暮らしやアウトドアをより快適にしてくれる新製品が続々と登場しています。 今回は、24時間の健康管理ができるスマートバンド、小型・軽量化したポータブル電源、生ご",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/530aff6ff922e8ef18d6c798bced47512f6e27c3?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "620fedba0605",
-      "title": "腕のツボ「下廉」を押すと腹痛や膨満感、頭痛や目の痛みまで軽くなります(家庭画報.com)",
-      "published": "2026-08-24T12:20:02+00:00",
-      "summary": "中医学のエキスパートである鍼灸師の兵頭 明先生が、ツボの効能や位置、効くメカニズムを解説します。健康の土台作りに、不調改善に、1日1分のツボ押しを習慣にしましょう。",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/fd959eeded2b4f86e5b3e864ea995997ba522181?source=rss"
         }
       ]
     },
@@ -62,6 +182,18 @@
         {
           "name": "au Webポータル",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9idHlZUmRoektCYnpaWHhvd1U2YjhseEVqemZFbHhiN0hqRmJ6SWw5b0ZLZHJzdHdpcHZmZjZHWXh0bnZmbmttX0s2VEJ5bGdXZXU5dExxTEF5N3hrNWY1RWl2QVpqX2tyNWRBMjZ3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "58c0676f9367",
+      "title": "和田秀樹医師がみそ汁やヨーグルトに毎日入れる、脳の老化を防ぐ粉とは (2026年8月24日掲載) - ライブドアニュース",
+      "published": "2026-08-24T09:15:00+00:00",
+      "summary": "和田秀樹医師がみそ汁やヨーグルトに毎日入れる、脳の老化を防ぐ粉とは (2026年8月24日掲載)&nbsp;&nbsp;ライブドアニュース「ウォーキング」が最高の趣味である理由・ベスト1&nbsp;&nbsp;ダイヤモンド・オンライン｢高齢でもヨボヨボにならない人｣は頻繁にしている…医師｢認知機能の低下を防ぐ\"楽しい全身運動\"｣（プレジデントオンライン）&nbsp;&nbsp;Yahoo!ニューススプーン1杯で脳のヨボヨボ化を防げる…医師･和田秀樹がみそ汁､ヨーグルトに必ず入れる｢スーパーで買える粉｣【2026年7月BEST】&nbsp;&nbsp;PRESIDENT Online（プレジデントオンライン）認知症の予防で「絶対に欠かせない」のはこの運動…アルツハイマー専門家が解く脳の健康効果とは&nbsp;&nbsp;ニューズウィーク日本版",
+      "sources": [
+        {
+          "name": "ライブドアニュース",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yWjN4OGdJbW1vbGRiRkEwTlpyenRkckRXSUh0UHJQbGIwbElHdm4wVGdBQWg1RkRGSkZ3ODNvU3RiREo5VVIxdGdvZFhfRHVWajBPNU9tSXNOV0VNcEE?oc=5"
         }
       ]
     },
@@ -234,14 +366,14 @@
       ]
     },
     {
-      "id": "a39d66815da5",
-      "title": "心不全ステージB（前心不全）の分類は必要か？ - 日経メディカル",
-      "published": "2026-08-23T14:45:12+00:00",
-      "summary": "心不全ステージB（前心不全）の分類は必要か？&nbsp;&nbsp;日経メディカル高血圧はすでに「心不全ステージA」だった――循環器専門医が語る、“心不全パンデミック”時代を生き抜く知恵（Medical Note）&nbsp;&nbsp;Yahoo!ニュース",
+      "id": "d31ba3632572",
+      "title": "レタスを遺伝子操作して「肉のタンパク質」を作らせることに成功 - au Webポータル",
+      "published": "2026-08-23T17:58:54+00:00",
+      "summary": "レタスを遺伝子操作して「肉のタンパク質」を作らせることに成功&nbsp;&nbsp;au Webポータル",
       "sources": [
         {
-          "name": "日経メディカル",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObnpxUHR2MHhtQWxpN3JUQlI1MXgxcDdqR1BLYnYxR0RtUDBYNzEzLThCNEFhcF9DV25kWE5lU25mMzRNVnB5bU85X0tYTHlWQ1U4dGc5MVU5SllQZWN0dkR0dGRzNXg1dmViNkhrUHJpZFNXYmQxbFV4Z2JuMDhIazJWcHBMN2VUajlGZ2pB?oc=5"
+          "name": "au Webポータル",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YR0hxNkJXa19RVVVrdkRXQUNPWXNaS0F4SFNjZVpjZFRmYUxUajBFNk9yZ1gwMGs2d3NRZFA1VXhDTk52TWo3X09xem1xc0FidmpoYXZob0Z3UnIzTDVMeURFZTFfWV9uWGJ5V2Fn?oc=5"
         }
       ]
     },
@@ -506,42 +638,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/55867aa2327b29edcf43303aa1c4feafc870ea49?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "9a50f5ae2a95",
-      "title": "「心不全を疑うむくみ」はどこを押すと分かるかご存知ですか？初期サインも医師が解説！(メディカルドック)",
-      "published": "2026-08-20T02:03:00+00:00",
-      "summary": "むくみは、日常生活でもよく見られる症状ですが、実は心臓のSOSである可能性があります。特に心不全によるむくみは、放置すると命に関わることもあるため、早期発見が重要です。 「もしかして心不全かも？」と",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/1b6e2dadf2ecc32bf3eb0034f5f4ea283890b5c2?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "781612561064",
-      "title": "若き天の川銀河が別の銀河と合体していた新たな証拠を発見　鍵は銀河中心付近の球状星団(sorae 宇宙へのポータルサイト)",
-      "published": "2026-08-19T21:47:43+00:00",
-      "summary": "ボローニャ天体物理学・宇宙科学天文台のDavide Massari氏を筆頭とする研究チームは、天の川銀河が誕生してからそれほど時間が経っていない時期に、非常に大きな矮小銀河と合体していたことを示す新た",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/60a626530eecdf0edba591625fa4231fa2f952c2?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "cfc90466e8a7",
-      "title": "「鼻整形」のリスクをご存じですか？ 後悔しないための知識を美容外科医が解説(メディカルドック)",
-      "published": "2026-08-19T09:03:06+00:00",
-      "summary": "鼻の整形は顔の印象を大きく変えるため、理想を叶えやすい反面、リスクも伴います。 手術後の腫れや感染、形のトラブルなど、後悔しないために知っておきたい注意点やリスクについて、LIVIN CLINIC院",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/48eacbd321d627fb3e4a62e1d8840580a8cfce6e?source=rss"
         }
       ]
     }
