@@ -1,10 +1,106 @@
 {
   "source": "japan_news",
-  "fetched_at": "2026-08-25T00:40:06.588101+00:00",
-  "total_fetched": 134,
-  "unique_count": 134,
-  "health_related_count": 53,
+  "fetched_at": "2026-08-25T06:27:43.394823+00:00",
+  "total_fetched": 136,
+  "unique_count": 136,
+  "health_related_count": 50,
   "news": [
+    {
+      "id": "400c5e06f458",
+      "title": "【訃報】エッセイスト・玉村豊男さんが死去。「肝細胞がん」の原因や治療法を医師が解説(メディカルドック)",
+      "published": "2026-08-25T06:24:05+00:00",
+      "summary": "エッセイストの玉村豊男さんが、8月9日に肝細胞がんのため亡くなったことが報じられています。 玉村さんの訃報に接し、背景にある「肝細胞がん」を発症する原因や治療法などについて、竹内想先生に解説してもらい",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/858827f16b6094d4478fc473b6ac5a127a7bb081?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "e353ea8a4bad",
+      "title": "世界初・食道がんの「ウイルス治療薬」販売開始　口から直接注射しがん細胞を破壊　保険適用も３回で約９３０万円「テロメライシン」ってどんな薬？　(MBSニュース)",
+      "published": "2026-08-25T06:04:27+00:00",
+      "summary": "食道がんをウイルス製剤で治療する、世界初の治療薬が販売開始となりました。 薬事承認を経て21日から販売が始まったのは、食道がんのウイルス製剤「テロメライシン」です。 ◆食道がんをウイルスで治療！？",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/aee529560b48e01b338d6a62ba88bdfab0ebfc92?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "c9ff2cb501a0",
+      "title": "小中学生が手術室や検査室を探検　「ゲームみたい」手術ロボットの模擬操縦にも挑戦(西日本新聞me)",
+      "published": "2026-08-25T05:51:06+00:00",
+      "summary": "夏休みの子どもたちに病院の役割を知ってもらおうと、聖マリア病院（福岡県久留米市津福本町）は「こども病院たんけん隊」を開いた。小学5年～中学2年の約50人が参加。手術室や検査室などに“潜入”し、医師や",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/bf4c0e28140cfb31b3dc7e4c8286e06cb99ee2ea?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "2ebab1404b5e",
+      "title": "10代に増える摂食症「1人で戦う必要はない」　福井大学病院が専門外来を新設　早期発見の重要性と見逃してはいけないサイン(FNNプライムオンライン)",
+      "published": "2026-08-25T05:00:40+00:00",
+      "summary": "「食べることが怖い」「コントロールできない」そんな悩みを抱え、食べられなくなってしまう摂食症。心と体の両面に深刻な影響を及ぼすこの病気は近年、若い世代での発症が増加している。そこで福井大学病院は202",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/27135dc8e12eadb1d68fe00302f555844ff0e337?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "1fe7d554342a",
+      "title": "症状はいつまで続く？5年半のコロナ後遺症診療から考える「備えと治療、回復までの道」(メディカルドック)",
+      "published": "2026-08-25T02:02:55+00:00",
+      "summary": "「コロナは終わった」――。パンデミックが落ち着いたいま、そのように感じている人も多いのではないでしょうか。 しかし実は、いまも新型コロナウイルス感染症（以下、新型コロナ）の後遺症に苦しんでいる人たち",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/38f0c0dbe5a5a1bdfacc8c91e300d2af6c624f8c?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "7cf07bbf5a4b",
+      "title": "子宮内膜症で2型糖尿病のリスクが46％上昇｜ニュース - dm-net.co.jp",
+      "published": "2026-08-25T01:11:05+00:00",
+      "summary": "子宮内膜症で2型糖尿病のリスクが46％上昇｜ニュース&nbsp;&nbsp;dm-net.co.jp",
+      "sources": [
+        {
+          "name": "dm-net.co.jp",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfWHhUOHh2ZktHZFdpUTNLYkhSeU1qaWxZN1l5SXFZcVo3VHB3ZHVndWd0VmRxeWk1N0U4Q0trZXZmQ245cFNwdVBNVWExc1MyV2J4U0h3ekY?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bcc19db3378f",
+      "title": "経口グレリン受容体作動薬AC01のHFrEFに対する安全性と忍容性が示された（解説：原田 和昌 氏）－2158｜CareNet.com - CareNet.com",
+      "published": "2026-08-25T01:00:00+00:00",
+      "summary": "経口グレリン受容体作動薬AC01のHFrEFに対する安全性と忍容性が示された（解説：原田 和昌 氏）－2158｜CareNet.com&nbsp;&nbsp;CareNet.com",
+      "sources": [
+        {
+          "name": "CareNet.com",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFByVFAydGF2LWF0NHJ0OC01c2V4NUh5NXBXSEN3QTU0MFlHQi0wY3B3QmFKN2t5MzJLQXJmTjdGMnRXSnpock0yenRoMnhGU2VWOEdybnB6cWFCQ21a?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "db33eb950d00",
+      "title": "「大腸ポリープが残ると大腸がんのリスクに」大腸ポリープ内視鏡切除時の新たな視野確保法を検証　大腸がんリスクの低減に期待【岡山大学】(RSK山陽放送)",
+      "published": "2026-08-25T00:47:14+00:00",
+      "summary": "岡山大学病院消化器内科の豊澤惇希医員と、学術研究院医療開発領域（岡山大学病院・消化器内科）の山崎泰史助教は、富士フイルム株式会社との共同研究において、内視鏡用視野確保ゲル（ビスコクリア®、大塚製薬工場",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/83940e8664792725a08c549d4e4b0d87263bce59?source=rss"
+        }
+      ]
+    },
     {
       "id": "e9ed02ec05af",
       "title": "「ペットボトルから作られたクッキー」が世界を救う、食糧危機の緩和や宇宙ミッションにも(Forbes JAPAN)",
@@ -18,78 +114,6 @@
       ]
     },
     {
-      "id": "1bd08fb5adcf",
-      "title": "30歳ひきこもり長女、障害年金「500万円」を受給できず？　20歳前に受診した人が陥る“時効5年”の落とし穴【社労士解説】(オトナンサー)",
-      "published": "2026-08-25T00:15:00+00:00",
-      "summary": "筆者のファイナンシャルプランナー・浜田裕也さんは、社会保険労務士の資格を持ち、病気などで就労が困難なひきこもりの人を対象に、障害年金の請求を支援する活動も行っています。 浜田さんによると、障害年",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/95e9c18923cdf86aed80aab1be4cfebd7a35ca1d?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "03ab2d202900",
-      "title": "コーヒーには肝臓と心臓の健康を促す働きも　新たな研究で次々と明らかになる効能(Forbes JAPAN)",
-      "published": "2026-08-25T00:00:00+00:00",
-      "summary": "多くの人は目覚めた時に疲れを感じ、カフェインが頭をすっきりさせてくれることを期待しながらマグカップを手に取る。しかし、この毎日の習慣が長年にわたって私たちの健康にどのような影響を与えているのかを考える",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/fcd31d2d523729ee91ec343029025d801184059c?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "f0e13f057126",
-      "title": "日光は“美容の敵”だけじゃない。日焼け対策派も知っておきたい「手のひら日光浴」の意外な効果(女子SPA！)",
-      "published": "2026-08-24T23:46:42+00:00",
-      "summary": "普段、「日光」を浴びる時間はありますか？ 「日焼けしたくないから、外に出る時は完全防備！」という方も多いですよね。私も、日焼け止めと日傘を欠かさないようにしています。 しかし、美容の敵と思われがちな",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/c15b87c0cc3f380c70822743e0400d1fa21e7473?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "ff3891dc6a67",
-      "title": "奈良県総合医療センター、血液がんの新たな治療法を開始　CAR－T細胞で長期の効果期待(産経新聞)",
-      "published": "2026-08-24T23:33:13+00:00",
-      "summary": "奈良県総合医療センター（奈良市七条西町）は、血液がんに対する新たな治療法「CAR－T（カーティー）細胞療法」を県内で初めて開始したと発表した。患者自身の免疫細胞を遺伝子改変してがんを攻撃させる治療法で",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/dc39a09dca91f034623bfd5a74194091daa44137?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "c9e3560cb120",
-      "title": "透析患者が、前立腺がんで放射線療法とホルモン療法を併用　透析治療に影響はない？　がん電話相談から(産経新聞)",
-      "published": "2026-08-24T23:29:21+00:00",
-      "summary": "今回は、高リスクの前立腺がんと診断され、再発を心配する70代男性からの相談です。今後の治療の想定について、がん研有明病院副院長で泌尿器科部長の米瀬淳二医師が答えます。 ■限局性だが高リスク ──腎",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/d5f06e053e32b28a267fb53de497c300844058a4?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "78f053c3d88e",
-      "title": "麦茶でもスポドリでも経口補水液でもない…最新研究で判明､熱中症を防ぐ｢コンビニで買える飲み物｣の名前(プレジデントオンライン)",
-      "published": "2026-08-24T23:15:37+00:00",
-      "summary": "気象庁は、9月前半にかけて全国的に気温が高い状態が続くと予想している。厳しい残暑の中で、熱中症のリスクを下げるにはどうすればいいのか。サイエンスライターの飯銅重幸さんが、研究論文などを基に熱中症対策の",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/81704cc90f6d065bebb63262acf979f3c1ae8226?source=rss"
-        }
-      ]
-    },
-    {
       "id": "c1707d420e35",
       "title": "超大質量ブラックホール「いて座A*」周辺で新たな星を発見　ブラックホールの自転測定に期待(sorae 宇宙へのポータルサイト)",
       "published": "2026-08-24T22:00:09+00:00",
@@ -98,6 +122,18 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/a518022143641511b9e411b5aa136e72ffde6f48?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "d2127ceb681c",
+      "title": "1日のうちに「空腹な時間」をもたない人は、病気や老化の元となる「ゴミ細胞」をため込んでしまっている(東洋経済オンライン) - Yahoo!ファイナンス",
+      "published": "2026-08-24T22:00:00+00:00",
+      "summary": "1日のうちに「空腹な時間」をもたない人は、病気や老化の元となる「ゴミ細胞」をため込んでしまっている(東洋経済オンライン)&nbsp;&nbsp;Yahoo!ファイナンスGoogle ニュースで見出しと意見をもっと見る",
+      "sources": [
+        {
+          "name": "Yahoo!ファイナンス",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWjY4S3BXekZVN3MtS1dnLURzWWVaMXB0ME5tc3IwUWgzSTZuT2R6SlU1RWJvd0ZZSG9IQ29hTmFHeW9jWWRSR0h1RzVZVzA2Sk9kNTJlNnA3N0hSNmdKUnFlQllzQjVURlVjdFpBcFVrQnRNOFR3dFRHMXJYVE9DLWxRck42YTQ?oc=5"
         }
       ]
     },
@@ -182,18 +218,6 @@
         {
           "name": "au Webポータル",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9idHlZUmRoektCYnpaWHhvd1U2YjhseEVqemZFbHhiN0hqRmJ6SWw5b0ZLZHJzdHdpcHZmZjZHWXh0bnZmbmttX0s2VEJ5bGdXZXU5dExxTEF5N3hrNWY1RWl2QVpqX2tyNWRBMjZ3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "58c0676f9367",
-      "title": "和田秀樹医師がみそ汁やヨーグルトに毎日入れる、脳の老化を防ぐ粉とは (2026年8月24日掲載) - ライブドアニュース",
-      "published": "2026-08-24T09:15:00+00:00",
-      "summary": "和田秀樹医師がみそ汁やヨーグルトに毎日入れる、脳の老化を防ぐ粉とは (2026年8月24日掲載)&nbsp;&nbsp;ライブドアニュース「ウォーキング」が最高の趣味である理由・ベスト1&nbsp;&nbsp;ダイヤモンド・オンライン｢高齢でもヨボヨボにならない人｣は頻繁にしている…医師｢認知機能の低下を防ぐ\"楽しい全身運動\"｣（プレジデントオンライン）&nbsp;&nbsp;Yahoo!ニューススプーン1杯で脳のヨボヨボ化を防げる…医師･和田秀樹がみそ汁､ヨーグルトに必ず入れる｢スーパーで買える粉｣【2026年7月BEST】&nbsp;&nbsp;PRESIDENT Online（プレジデントオンライン）認知症の予防で「絶対に欠かせない」のはこの運動…アルツハイマー専門家が解く脳の健康効果とは&nbsp;&nbsp;ニューズウィーク日本版",
-      "sources": [
-        {
-          "name": "ライブドアニュース",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yWjN4OGdJbW1vbGRiRkEwTlpyenRkckRXSUh0UHJQbGIwbElHdm4wVGdBQWg1RkRGSkZ3ODNvU3RiREo5VVIxdGdvZFhfRHVWajBPNU9tSXNOV0VNcEE?oc=5"
         }
       ]
     },
@@ -366,22 +390,10 @@
       ]
     },
     {
-      "id": "d31ba3632572",
-      "title": "レタスを遺伝子操作して「肉のタンパク質」を作らせることに成功 - au Webポータル",
-      "published": "2026-08-23T17:58:54+00:00",
-      "summary": "レタスを遺伝子操作して「肉のタンパク質」を作らせることに成功&nbsp;&nbsp;au Webポータル",
-      "sources": [
-        {
-          "name": "au Webポータル",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YR0hxNkJXa19RVVVrdkRXQUNPWXNaS0F4SFNjZVpjZFRmYUxUajBFNk9yZ1gwMGs2d3NRZFA1VXhDTk52TWo3X09xem1xc0FidmpoYXZob0Z3UnIzTDVMeURFZTFfWV9uWGJ5V2Fn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7847bf0a9381",
       "title": "【闘病】車の接触事故が多発した母… 『アルツハイマー型認知症』と家族が知った「限界」 - メディカルドック",
       "published": "2026-08-23T14:04:32+00:00",
-      "summary": "【闘病】車の接触事故が多発した母… 『アルツハイマー型認知症』と家族が知った「限界」&nbsp;&nbsp;メディカルドック認知症を血液検査で早期発見 厚労省が27年度研究着手、投薬効果も検証&nbsp;&nbsp;日本経済新聞認知症の新薬、生活の維持に効果も&nbsp;&nbsp;産経ニュース保険がきく認知症の新薬 副作用対応に定期的な診察を 脳を知る（産経新聞）&nbsp;&nbsp;Yahoo!ニュース",
+      "summary": "【闘病】車の接触事故が多発した母… 『アルツハイマー型認知症』と家族が知った「限界」&nbsp;&nbsp;メディカルドック認知症治療薬の地域間格差解消を 家族の会が厚労省に要望（福祉新聞WEB）&nbsp;&nbsp;Yahoo!ニュース認知症の新薬、生活の維持に効果も&nbsp;&nbsp;産経ニュース",
       "sources": [
         {
           "name": "メディカルドック",
@@ -590,54 +602,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/e8fccfbb5d5d36a83f5ff668320bd048f2d56941?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "c9963d0f857a",
-      "title": "機械は巧緻を手に入れるか…理研･本田技研が始動､多指ハンド開発100億円プロジェクトの全容(ニュースイッチ)",
-      "published": "2026-08-20T06:10:02+00:00",
-      "summary": "理化学研究所と本田技術研究所（埼玉県和光市）が100億円の多指ハンド開発プロジェクトを始める。多指ハンドはそれだけでヒューマノイド並みに難しい。多数のセンサー情報を統合処理し、約20の関節をリアルタイ",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/171cfd38a2707fbab117c6c3fee9068b2c720157?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "11533e668855",
-      "title": "その出血、ただの痔だと決めつけていませんか？ ――お尻からの出血が教えてくれること(Medical Note)",
-      "published": "2026-08-20T05:06:05+00:00",
-      "summary": "便に血が付いていた。トイレットペーパーに血が付いた。こうした症状があっても、痔だろうと考えて市販薬で様子を見る人は少なくなく、実際に痔が原因のことも多い。しかし、肛門（こうもん）からの出血は、大腸など",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/225547fcf565e924afb9fe202064040d38f7e192?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "003df2488f05",
-      "title": "「脳のピークは20代」――3分でわかる脳の健康度、認知症\"ゼロ次予防\"はどこまで進んだ？(メディカルドック)",
-      "published": "2026-08-20T03:08:17+00:00",
-      "summary": "日本では65歳以上のうち、認知症とその前段階とされる軽度認知障害（MCI）を合わせると、およそ5人に1人以上が該当するとされ、早い段階での気づきと対策が課題です。脳の健康度をスマートフォンで手軽に測る",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/02a3e84a897c0978cb4b2b221fd40950610a0057?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "418231ec36ed",
-      "title": "睡眠に悩む妊婦は8割にも、専門医が主な症状と対策を解説　眠気と不眠が混在し不安定に(ナショナル ジオグラフィック日本版)",
-      "published": "2026-08-20T02:10:27+00:00",
-      "summary": "妊娠・出産は喜びに満ちた時期である一方、母体には心身ともに大きな負担がかかる時期でもある。そして、睡眠の問題も妊婦を悩ませるものの一つである。 「妊娠中、とても眠かった」という経験をお持ちの女性が",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/55867aa2327b29edcf43303aa1c4feafc870ea49?source=rss"
         }
       ]
     }
