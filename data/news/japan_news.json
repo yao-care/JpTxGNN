@@ -1,38 +1,98 @@
 {
   "source": "japan_news",
-  "fetched_at": "2026-08-26T06:30:07.727196+00:00",
-  "total_fetched": 135,
-  "unique_count": 135,
-  "health_related_count": 53,
+  "fetched_at": "2026-08-26T12:29:33.782882+00:00",
+  "total_fetched": 134,
+  "unique_count": 134,
+  "health_related_count": 55,
   "news": [
     {
-      "id": "ec47a34e2def",
-      "title": "地球の微生物の一部は月の南極域で一定期間生存可能？　有人月面探査で持ち込まれる可能性(sorae 宇宙へのポータルサイト)",
-      "published": "2026-08-26T06:14:41+00:00",
-      "summary": "NASA（アメリカ航空宇宙局）ゴダード宇宙飛行センターのPrabal Saxena氏を筆頭とする研究チームは、有人月面探査の過程で月に意図せず持ち込まれる可能性がある地球の微生物が、短期間ながらも条件",
+      "id": "676e4b6d2443",
+      "title": "【腸の不調を改善】研究で判明、IBSの症状やうつの軽減に期待！注目される「腸と脳」のつながり(ヨガジャーナルオンライン)",
+      "published": "2026-08-26T12:05:00+00:00",
+      "summary": "ストレスがたまると、お腹の調子まで悪くなる…そんな経験はないだろうか。ヨガが過敏性腸症候群（IBS）の症状を和らげる可能性を示す研究が発表された。 ■ヨガをした人に消化器症状の改善が見られた 便秘が",
       "sources": [
         {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/742a2c22e4358803505a52fb33cdc5b4ae9997f6?source=rss"
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/e2884b3d19993ff50ef69256851b91e9c7b07404?source=rss"
         }
       ]
     },
     {
-      "id": "b1815b24a062",
-      "title": "薬用養命酒の製造や長野・駒ヶ根の自然から“養生の考え方”を体験できる施設「養命酒 養生の森」(トラベル Watch)",
-      "published": "2026-08-26T05:33:00+00:00",
-      "summary": "養命酒製造は、養命酒 駒ヶ根工場の敷地内で「養命酒 養生の森」（長野県駒ヶ根市赤穂16410）を9月1日に開業する。 健康であり続けるために同社が長年のテーマとして掲げる「養生」の考え方を体験で",
+      "id": "8fa3d9cb945b",
+      "title": "【運動嫌いだけど痩せたい】ランニングよりも効果あり！「ある部分を伸ばす」だけ(ヨガジャーナルオンライン)",
+      "published": "2026-08-26T12:00:00+00:00",
+      "summary": "「痩せたいけれど、きつい運動もランニングもやりたくない！」それ、わがままではありません。実は、がむしゃらに走るよりも、解剖学的に「ある重要な場所」を整える方が、はるかに効率よく痩せられるのです。その秘",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/4cdfe589db195d4fcafa8aa2aa0644d6f5a38f62?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/f1fa793e4c835d523e01186d9a97d74235fb07f1?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "f399edc895cb",
+      "title": "【93歳の料理家・小林まさるさんインタビュー】「戦争はやっちゃダメだ。平和とは何か、考える時が来てるね」(LEE)",
+      "published": "2026-08-26T11:50:11+00:00",
+      "summary": "料理研究家・小林まさみさんの義父で、定年後の70歳から調理アシスタントをつとめる小林まさるさん。その活躍ぶりが多くの人の目にとまり、自身もシニア料理家として活動中です。 93歳のまさるさんは、樺太で",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/26c74fbfbce7e1432780042881c1b8c9de5219d2?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "651c87257c02",
+      "title": "恐竜研究者が3日間歩いた先で「骨の欠片」を発見！掘ってみると…「究極のロマン」「これはキレイ」(LIMO)",
+      "published": "2026-08-26T11:35:48+00:00",
+      "summary": "恐竜研究者が、3日間で約100kmを歩きながら発掘調査した驚きの結果が、X上で話題になっています。今回は投稿者の古知累すすむ@恐竜研究者さん（@S_Kochirui）さんに許可をいただきお話を伺いまし",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/1ba6d5fa26991517c5651dbd44cb2602355a974f?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "1c962ffe5f73",
+      "title": "【添付文書改訂】フィアスプ注バイアル 「重要な基本的注意」として「高温によるインスリンゲル化でのポンプ閉塞」を追記 - 糖尿病リソースガイド",
+      "published": "2026-08-26T11:22:36+00:00",
+      "summary": "【添付文書改訂】フィアスプ注バイアル 「重要な基本的注意」として「高温によるインスリンゲル化でのポンプ閉塞」を追記&nbsp;&nbsp;糖尿病リソースガイド",
+      "sources": [
+        {
+          "name": "糖尿病リソースガイド",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FU1VubDNRZTNRa1R0RzNWUktHYWlPSURJZnRNUVl0SkpRX082SzFKeFFmbHRLUFhvVkxxb0NNNHhQSmkwS2dTeWMwQk5fNkl4S0ljOGlxcGpfeWVrWmlDdFJQcU9WdjNCZUo0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "73f1f1228231",
+      "title": "ギザの大ピラミッドはなぜ地震に強いのか、「王の間」の上の空間が揺れを和らげていた(ナショナル ジオグラフィック日本版)",
+      "published": "2026-08-26T11:11:25+00:00",
+      "summary": "クフ王の大ピラミッドが地震に強いと考えられる特徴が明らかになった。2026年5月21日付けで学術誌「Scientific Reports」に発表された論文によると、エジプトと日本の研究者（吉村作治氏",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/47043a8ca9d7133241d637e36b769149dff7cbdf?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "00b6baa8003d",
+      "title": "ハッサク＆グレープフルーツは熱中症対策に効果的？ 実は「服薬中」の人は注意…食べる時に見落としがちな“盲点”とは - au Webポータル",
+      "published": "2026-08-26T09:59:46+00:00",
+      "summary": "ハッサク＆グレープフルーツは熱中症対策に効果的？ 実は「服薬中」の人は注意…食べる時に見落としがちな“盲点”とは&nbsp;&nbsp;au Webポータル",
+      "sources": [
+        {
+          "name": "au Webポータル",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBxa29OWlFXSEt4ZkhHY0ktcnBoTjIwOENhd3NyTVBxUHhrLXpyZUJMbDhqNnNoSU1hN3BoMGJKN0tnTkItb09TNWlqUzB6MUlMdWJqWTBTVDEyVUhUUVQwUHlEZ1dtYUF4OVFNTUtuTkNDc0FBazlrXw?oc=5"
         }
       ]
     },
     {
       "id": "0c25fa1145cf",
       "title": "アルツハイマー病が輸血によって「伝染」するリスクはあるのか？ - au Webポータル",
-      "published": "2026-08-26T05:21:52+00:00",
+      "published": "2026-08-26T06:21:52+00:00",
       "summary": "アルツハイマー病が輸血によって「伝染」するリスクはあるのか？&nbsp;&nbsp;au Webポータル",
       "sources": [
         {
@@ -42,26 +102,14 @@
       ]
     },
     {
-      "id": "f30b51147743",
-      "title": "Noend史上最大の発明“5-in-1”のドリンクステーション開発秘話。世界初の「最高の一杯」を生み出すマシンで目指す新たな価値提案(LIMO)",
-      "published": "2026-08-26T05:16:00+00:00",
-      "summary": "浄水、製氷、瞬間加熱、水素水生成、コーヒードリップ。 毎日の「飲む」に関わる複数の機能を1台に集約した、新発想のドリンクステーション「Drink Atelier（ドリンクアトリエ）」が、2026年9",
+      "id": "ec47a34e2def",
+      "title": "地球の微生物の一部は月の南極域で一定期間生存可能？　有人月面探査で持ち込まれる可能性(sorae 宇宙へのポータルサイト)",
+      "published": "2026-08-26T06:14:41+00:00",
+      "summary": "NASA（アメリカ航空宇宙局）ゴダード宇宙飛行センターのPrabal Saxena氏を筆頭とする研究チームは、有人月面探査の過程で月に意図せず持ち込まれる可能性がある地球の微生物が、短期間ながらも条件",
       "sources": [
         {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/e15aa4d28d5793dec9fd5138c368353afd2db359?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "823f442902d9",
-      "title": "「今までのメディヒールより着心地が良かった」　ワークマンの“リカバリーロングパンツ”が好評　「妻も気に入り夫婦で購入」「肌触りがとても良い」(ねとらぼ)",
-      "published": "2026-08-26T05:00:00+00:00",
-      "summary": "ワークマンの「メディヒールコスモスロングパンツ」は、リラックスタイムの着心地にこだわりたい人におすすめの一般医療機器の疲労回復ウエアです。遠赤外線の血行促進作用を利用したMEDIHEALの機能に加え",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/139d27e46f6fb6dc6fac09d8892994503ee18bf5?source=rss"
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/742a2c22e4358803505a52fb33cdc5b4ae9997f6?source=rss"
         }
       ]
     },
@@ -126,6 +174,18 @@
       ]
     },
     {
+      "id": "c1c4d6a764a1",
+      "title": "免疫チェックポイント阻害剤治療歴のある進行非小細胞肺がんに対するリルベゴストミグ、良好な安全性と有効性を示す - がん情報サイト「オンコロ」",
+      "published": "2026-08-26T02:18:58+00:00",
+      "summary": "免疫チェックポイント阻害剤治療歴のある進行非小細胞肺がんに対するリルベゴストミグ、良好な安全性と有効性を示す&nbsp;&nbsp;がん情報サイト「オンコロ」",
+      "sources": [
+        {
+          "name": "がん情報サイト「オンコロ」",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8zUjREMUM5eUdPYzBsSGlGWEx6NkhZUUdQeDlCZGJsYWhTcGxGUUNZa3lPSWxuVmplR0VaX2p2RnpXTVh6SnhaRQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "134cdd65bd69",
       "title": "「高血圧」を放置するとどうなるかご存じですか？ 脳・心臓・腎臓・目への影響を医師が解説(メディカルドック)",
       "published": "2026-08-26T02:02:11+00:00",
@@ -150,6 +210,18 @@
       ]
     },
     {
+      "id": "8d45095a5384",
+      "title": "NPO法人子宮頸がんを考える市民の会 子宮頸がん予防検定から見えた「知識の空白」、 初級受験者1,493名データ分析結果発表 「予防」を伝える人を育てる検定へ - アットプレス",
+      "published": "2026-08-26T00:30:00+00:00",
+      "summary": "NPO法人子宮頸がんを考える市民の会 子宮頸がん予防検定から見えた「知識の空白」、 初級受験者1,493名データ分析結果発表 「予防」を伝える人を育てる検定へ&nbsp;&nbsp;アットプレス子宮頸がんで年間約3000人が死亡 HPVワクチンの効果と安心して受けるコツ解説 新潟市でシンポジウム（ＢＳＮ新潟放送）&nbsp;&nbsp;Yahoo!ニュース【ふくしま子育て応援隊】子宮頸がんは防げる病気&nbsp;&nbsp;福島民友新聞社NPO法人子宮頸がんを考える市民の会 子宮頸がん予防検定から見えた「知識の空白」、初級受験者1,493名データ分析結果発表 「予防」を伝える人を育てる検定へ&nbsp;&nbsp;Excite エキサイト子宮頸がん予防へワクチンと検診を 接種勧奨一時中止の影響大 松江市立病院は接種外来開設 ＜がん医療の現在地 島根県がん条例２０年&nbsp;&nbsp;山陰中央新報デジタル",
+      "sources": [
+        {
+          "name": "アットプレス",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wSEFQR2FSdXp5eDhBTlVKVVFuMUU3SXFvRWdyaHNpRmNWbWhfNnBoY2JvbWZPTlJqUVFjRlppTnBmVTZaMnZ6bU1DcDZZUQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "77eea576e6f4",
       "title": "てんかん手術後の発作消失患者、減薬幅が大きいほど認知機能が改善－東北大 - QLifePro",
       "published": "2026-08-26T00:00:00+00:00",
@@ -158,6 +230,30 @@
         {
           "name": "QLifePro",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1FNVRYUzhxOFhKcHVTUjdzTEg4SFBEY1puUzRhMHRmRTJTZVI1c09tdmlrQk1lbnNtNFRUOWVnYmhTVVdZYXhMR1M3TzlXalluTm1rLVl4Q2NOMVc2UFVaY1ZHbk43eG4tWVZFMVVUYktqSkkzcUVwMDlzVHVjeEE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "be641e6d0f75",
+      "title": "「会社の健診」だけでは見落とされる？出前頼みの食生活や運動不足が招くリスクと、専門医が教える痛みを感じにくい内視鏡検査 - Newscast.jp",
+      "published": "2026-08-25T23:15:00+00:00",
+      "summary": "「会社の健診」だけでは見落とされる？出前頼みの食生活や運動不足が招くリスクと、専門医が教える痛みを感じにくい内視鏡検査&nbsp;&nbsp;Newscast.jp【特集】がん患者数が最も多い「大腸がん」 見逃しやすい初期症状とは？＜東北大学病院＞&nbsp;&nbsp;日テレNEWS NNN",
+      "sources": [
+        {
+          "name": "Newscast.jp",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9kaEkyc1VVSHh0bGhqVnBfTzNvaHMwNVRHQ3ZQeXFsZlk0akZ6WHNtNXY1TDlKd1d5NG9qbUpjanN2Y1dES2Jz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ce4321089bbb",
+      "title": "不妊治療が“4カ月待ち”待機の壁と向き合う37歳女性医師の焦り、悲しみ、不安のリアル - AERA DIGITAL",
+      "published": "2026-08-25T21:30:00+00:00",
+      "summary": "不妊治療が“4カ月待ち”待機の壁と向き合う37歳女性医師の焦り、悲しみ、不安のリアル&nbsp;&nbsp;AERA DIGITALGoogle ニュースで見出しと意見をもっと見る",
+      "sources": [
+        {
+          "name": "AERA DIGITAL",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45Q2FEOEZoQlNmVGJxdHVsQTBxcHp6aXZXV1VwakM5OVkyRFhOMm5jMUZyaVg0R0k4OXJKWS1veEJsYzVSMFIxSXQwYl9fU3RLTkFrNDdVLWM3QQ?oc=5"
         }
       ]
     },
@@ -182,42 +278,6 @@
         {
           "name": "市民タイムス",
           "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tUTdxX285UktDaGN1NGVQNE1rOHBYdVgzQ29DS3JiMHFfQU9KTUNBbnhpUHBzTDVOQ0NudmMzQ1RaWkQtRjZLb21Mc1JFYmRSZFUxeHItYV9qUHV5bHlkSTRKSlc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "40e781d9ba53",
-      "title": "BRCA遺伝子変異陽性女性の乳がんリスク、家族歴で大きく変化｜CareNet.com - CareNet.com",
-      "published": "2026-08-25T19:00:00+00:00",
-      "summary": "BRCA遺伝子変異陽性女性の乳がんリスク、家族歴で大きく変化｜CareNet.com&nbsp;&nbsp;CareNet.com",
-      "sources": [
-        {
-          "name": "CareNet.com",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42eUtSRkdwNjZ3cHBBSmkwOGxOUnZiVWZmWEFJSGFNczdySTF0V1daenhyS09EOU05ZmxRc25XT3JMWkNTcnV5ejc0MEkyVnRLbUxJbjBPV2NrQQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a893fdd0bad8",
-      "title": "果物や野菜でうつ病リスクはどのくらい低下するのか？｜CareNet.com - CareNet.com",
-      "published": "2026-08-25T19:00:00+00:00",
-      "summary": "果物や野菜でうつ病リスクはどのくらい低下するのか？｜CareNet.com&nbsp;&nbsp;CareNet.com",
-      "sources": [
-        {
-          "name": "CareNet.com",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1PajFUY19WYnl3dDBQRFIyY25RbG9ETk1EWGVKT1htUDFONml2aHhBNkQ1Y2U3NUdueXY4Y3dleUxDeHJJc255R0JLMElyVWQ3SkdZMkNKS1VxNGRRWVU4?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "89c532a0a29b",
-      "title": "マラリア：蚊に刺されることをワクチンに変える薬が登場｜近未来 - Futuro Prossimo",
-      "published": "2026-08-25T11:28:27+00:00",
-      "summary": "マラリア：蚊に刺されることをワクチンに変える薬が登場｜近未来&nbsp;&nbsp;Futuro Prossimo",
-      "sources": [
-        {
-          "name": "Futuro Prossimo",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMFJXQVBPS2gtRGt6eVNFbk5DRXZwRTFZQlVQSnFWMzA4cnZRcXdGTHdwcGVibGFHX2w1VEU3VGloeklRY1VxYWZwX1lQVl9zYVdMY2NmNlV4UE1ZVTF3STQ5N2NHejY5VFVWOVZDX0NqUHIwenhuLXJuZG0zUlRTbG1sR1lhUF9xdnlOZkRXaS1JWjdIZ2lPUFVubENsdw?oc=5"
         }
       ]
     },
@@ -302,18 +362,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/536e21fb7df61dd1ee3307c92114f07a7830742c?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "138bf1a5e36c",
-      "title": "「長寿遺伝子」を目覚めさせる…長生きする人の3つの共通点 - 朝鮮日報",
-      "published": "2026-08-25T07:47:00+00:00",
-      "summary": "「長寿遺伝子」を目覚めさせる…長生きする人の3つの共通点&nbsp;&nbsp;朝鮮日報",
-      "sources": [
-        {
-          "name": "朝鮮日報",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeDhpYmpfLWZWbTFpRi0xQlIxZ0k2QTNld0NwTmE5bjI5WUFRV3lHbEdUOWVGTW9jTzM2TnlaWnZDb013WUhiZ19ENjFKc18tWmI2OTVLc09RT1RJUE0yRmNnbzVUc1FMMDhsd0VkS0h1THFwbG5Bam1aUHhjSGdLeDUwMnM?oc=5"
         }
       ]
     },
@@ -462,6 +510,18 @@
       ]
     },
     {
+      "id": "dd93837af13d",
+      "title": "日本人2型糖尿病へのGLP-1薬、MACE・死亡リスクへの影響は？｜CareNet.com - CareNet.com",
+      "published": "2026-08-24T19:00:00+00:00",
+      "summary": "日本人2型糖尿病へのGLP-1薬、MACE・死亡リスクへの影響は？｜CareNet.com&nbsp;&nbsp;CareNet.com",
+      "sources": [
+        {
+          "name": "CareNet.com",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83MHVUVy1rTUd3MGtvWVBhd25kd0dhQ0dCUWl4S241cGIwb1l3Q3VxbmI5NU1BM2FEcnNLZjd0VUdNZ2RMa1prSmdQbUtjUU9DVklKRzkxUmdlbFBUTUVKZQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "76aa1df3563b",
       "title": "変形性股関節症に対する運動、期待ほどの効果は得られない？｜CareNet.com - CareNet.com",
       "published": "2026-08-24T19:00:00+00:00",
@@ -470,18 +530,6 @@
         {
           "name": "CareNet.com",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WTnhTcWMzOEpWUUtUZFVfWGkyeHIwZEdjbmlVajB5NHBrOHBhMnBYSjFBYWI2Ym5tdmQwQUdxMXVtc2RFZjRQMUxEUUhuakdlb0NRYm9yb21XUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "05f7630dbe8d",
-      "title": "ハッサク 果皮に熱中症防ぐ成分 加工品開発の動き - 日本農業新聞",
-      "published": "2026-08-24T18:01:30+00:00",
-      "summary": "ハッサク 果皮に熱中症防ぐ成分 加工品開発の動き&nbsp;&nbsp;日本農業新聞",
-      "sources": [
-        {
-          "name": "日本農業新聞",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tRGRVT0ZXTE9jektCdFlRY3FueGVlNkttUkRDSF9jMWZsQTZOT1h4WFlUVUlZUC11YWZnNjR1Skx0MnpqVkluZkQxa3dWcHZfQ0JZU2U1MVhQRTQ?oc=5"
         }
       ]
     },
@@ -506,18 +554,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/f7ab7f83201e2e479e5df840bdc21d63d7aa70a5?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "39cfc71853bd",
-      "title": "生成AIが「新ウイルス」を設計 米スタンフォード大、増殖を確認 対策訴えも - Science Portal",
-      "published": "2026-08-24T07:41:23+00:00",
-      "summary": "生成AIが「新ウイルス」を設計 米スタンフォード大、増殖を確認 対策訴えも&nbsp;&nbsp;Science PortalGoogle ニュースで見出しと意見をもっと見る",
-      "sources": [
-        {
-          "name": "Science Portal",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzZ0JkRS14TGl6bEZRMERwSUdReDN3Y3NxYkg3b082aUw0UUtfTGloVlNsT0FjOGllUW1XZUpnUjlHTmR0eHljdUM1VTR1a1YwcU5oTVRkMGllcDFxbXFpbWtmN2VOUQ?oc=5"
         }
       ]
     },
@@ -626,18 +662,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/b0c1e314eb37c68299831d6d5e556cc7795a47c1?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "6cda06cfa4ab",
-      "title": "美術館の地下に60年、4500年前のドレスがよみがえる　約7000個のビーズから復元(ナショナル ジオグラフィック日本版)",
-      "published": "2026-08-21T11:11:53+00:00",
-      "summary": "米ボストン美術館が所蔵する4500年以上前の古代エジプトのビーズネットドレスは、この種のドレスでは最初の完全な例だ。1927年の発見から半世紀以上を経た後、3年の歳月をかけて精緻に復元された。",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/1c4fbeb71f1fb87a602c1024648376cd9826f191?source=rss"
         }
       ]
     }
