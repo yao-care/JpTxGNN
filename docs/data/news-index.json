@@ -1,19 +1,27 @@
 {
-  "generated": "2026-08-29T11:57:23.414827+00:00",
-  "count": 23,
+  "generated": "2026-08-29T16:07:58.491175+00:00",
+  "count": 22,
   "news": [
     {
       "id": "f69f56c1f312",
       "title": "世界の急性心筋梗塞の市場規模、疾患概要、疫学予測：2026年調査レポートを発表",
-      "published": "2026-08-29T02:00:00+00:00",
+      "published": "2026-08-29T00:30:00+00:00",
       "sources": [
         {
           "name": "アットプレス",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9PRWlOa0szV1lCbUQ0U3ZmR19kVEx2cDZnU0dmMFJJR0p0Yll1V2xxc1BSVmRJOEFuNFQyWE5jeUlkZWh1TGNqaExjRnNvNUk?oc=5"
         },
         {
+          "name": "Newscast.jp",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBWcHM4NmxJYVZ5WnhWTGVpVk5rRzRabm1nZ2pjRzAwRHZWMXdTam1FSDZ3RDR4cnFPSlJtcFotOG1vVjc4Tzdn?oc=5"
+        },
+        {
           "name": "アットプレス",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aMUdkSHJGd243T3lpX19CaE16T1dsZVRpdkhtRzBZS3RMTUktVFEzNjBaZFYycWZEa0ZJQlkxeU93bDlKUjEweWlybjNoUQ?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8tZlV3aWZNRzB3emRTVUstdHJ6NU5ObkgxZTF5ZTFwVDJPSVVtN05IVk9xU29rblowbEJ6VEZndnRqUHFNaFVtRHpuUnIyOHM?oc=5"
+        },
+        {
+          "name": "Newscast.jp",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBzb0tyZGh0Z245ZHpsUW9WajNISmFoZFdoOXNJQ0FmWXg3YjNQOUhYVDRwN29RNGNkRWJXMmRpQlZzdXZ4RzVB?oc=5"
         }
       ],
       "keywords": [
@@ -256,240 +264,6 @@
             {
               "slug": "oseltamivir",
               "name": "タミフルドライシロップ３％（選）"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "7b6b75c310dc",
-      "title": "【世界理学療法士の日】2026テーマは「心血管疾患と脳卒中」",
-      "published": "2026-08-28T05:54:56+00:00",
-      "sources": [
-        {
-          "name": "PT-OT-ST.NET",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53eDdKaE5JTEJhVXVsSzVSQ0hfZUtzejY0MDNNdVNyZ0tKYkliZjVHX21oaW55bFkwY0l5MTNtUlV4bENwMmFiMTN4d2VkTW5hRnlfSUswMi02Q1ZQRXFTWUV0TQ?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "cardiovascular",
-          "keyword": "心血管",
-          "related_drugs": [
-            {
-              "slug": "acyclovir",
-              "name": "ゾビラックス軟膏５％（選）"
-            },
-            {
-              "slug": "atorvastatin",
-              "name": "アトーゼット配合錠ＨＤ（選）"
-            },
-            {
-              "slug": "pravastatin",
-              "name": "メバロチン錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "atenolol",
-              "name": "テノーミン錠５０　５０ｍｇ（選）"
-            },
-            {
-              "slug": "simvastatin",
-              "name": "リポバス錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "ロプレソール錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "lisinopril",
-              "name": "ロンゲス錠２０ｍｇ（選）"
-            },
-            {
-              "slug": "lidocaine",
-              "name": "リドカイン（１８ｍｇ）３０．５ｍｍ×５０．０ｍｍ貼付剤"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "ミカムロ配合錠ＢＰ（選）"
-            },
-            {
-              "slug": "rosuvastatin",
-              "name": "クレストールＯＤ錠５ｍｇ（選）"
-            },
-            {
-              "slug": "verapamil",
-              "name": "ワソラン錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "latanoprost",
-              "name": "ザラカム配合点眼液（選）"
-            },
-            {
-              "slug": "warfarin",
-              "name": "ワルファリンＫ細粒０．２％「ＮＳ」"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "ザルティア錠５ｍｇ（選）"
-            },
-            {
-              "slug": "duloxetine",
-              "name": "サインバルタカプセル３０ｍｇ（選）"
-            },
-            {
-              "slug": "prasugrel",
-              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
-            },
-            {
-              "slug": "tramadol",
-              "name": "トラマールＯＤ錠５０ｍｇ（選）"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "心血管疾患",
-          "keyword": "心血管疾患",
-          "related_drugs": [
-            {
-              "slug": "acyclovir",
-              "name": "ゾビラックス軟膏５％（選）"
-            },
-            {
-              "slug": "atorvastatin",
-              "name": "アトーゼット配合錠ＨＤ（選）"
-            },
-            {
-              "slug": "pravastatin",
-              "name": "メバロチン錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "atenolol",
-              "name": "テノーミン錠５０　５０ｍｇ（選）"
-            },
-            {
-              "slug": "simvastatin",
-              "name": "リポバス錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "ロプレソール錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "lisinopril",
-              "name": "ロンゲス錠２０ｍｇ（選）"
-            },
-            {
-              "slug": "lidocaine",
-              "name": "リドカイン（１８ｍｇ）３０．５ｍｍ×５０．０ｍｍ貼付剤"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "ミカムロ配合錠ＢＰ（選）"
-            },
-            {
-              "slug": "rosuvastatin",
-              "name": "クレストールＯＤ錠５ｍｇ（選）"
-            },
-            {
-              "slug": "verapamil",
-              "name": "ワソラン錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "latanoprost",
-              "name": "ザラカム配合点眼液（選）"
-            },
-            {
-              "slug": "warfarin",
-              "name": "ワルファリンＫ細粒０．２％「ＮＳ」"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "ザルティア錠５ｍｇ（選）"
-            },
-            {
-              "slug": "duloxetine",
-              "name": "サインバルタカプセル３０ｍｇ（選）"
-            },
-            {
-              "slug": "prasugrel",
-              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
-            },
-            {
-              "slug": "tramadol",
-              "name": "トラマールＯＤ錠５０ｍｇ（選）"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "stroke",
-          "keyword": "脳卒中",
-          "related_drugs": [
-            {
-              "slug": "atorvastatin",
-              "name": "アトーゼット配合錠ＨＤ（選）"
-            },
-            {
-              "slug": "valsartan",
-              "name": "ディオバンＯＤ錠１６０ｍｇ（選）"
-            },
-            {
-              "slug": "pravastatin",
-              "name": "メバロチン錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "simvastatin",
-              "name": "リポバス錠５　５ｍｇ（選）"
-            },
-            {
-              "slug": "enalapril",
-              "name": "レニベース錠１０　１０ｍｇ（選）"
-            },
-            {
-              "slug": "lisinopril",
-              "name": "ロンゲス錠２０ｍｇ（選）"
-            },
-            {
-              "slug": "diltiazem",
-              "name": "ヘルベッサー錠６０　６０ｍｇ（選）"
-            },
-            {
-              "slug": "amlodipine",
-              "name": "エックスフォージ配合ＯＤ錠（選）"
-            },
-            {
-              "slug": "telmisartan",
-              "name": "ミカムロ配合錠ＢＰ（選）"
-            },
-            {
-              "slug": "rosuvastatin",
-              "name": "クレストールＯＤ錠５ｍｇ（選）"
-            },
-            {
-              "slug": "verapamil",
-              "name": "ワソラン錠４０ｍｇ（選）"
-            },
-            {
-              "slug": "losartan",
-              "name": "ニューロタン錠５０ｍｇ（選）"
-            },
-            {
-              "slug": "warfarin",
-              "name": "ワルファリンＫ細粒０．２％「ＮＳ」"
-            },
-            {
-              "slug": "tadalafil",
-              "name": "ザルティア錠５ｍｇ（選）"
-            },
-            {
-              "slug": "fenofibrate",
-              "name": "トライコア錠８０ｍｇ（選）"
-            },
-            {
-              "slug": "prasugrel",
-              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
             }
           ]
         }
