@@ -1,31 +1,139 @@
 {
   "source": "japan_news",
-  "fetched_at": "2026-08-30T20:17:10.345110+00:00",
+  "fetched_at": "2026-08-31T02:20:36.742386+00:00",
   "total_fetched": 170,
   "unique_count": 170,
-  "health_related_count": 78,
+  "health_related_count": 77,
   "news": [
     {
-      "id": "f0a9758ecdb1",
-      "title": "ロッテ、最大量の苺を配合した「パイの実＜苺の収穫＞」発売。フィリングからパイまで苺が主役の一粒(グルメ Watch)",
-      "published": "2026-08-30T20:00:00+00:00",
-      "summary": "ロッテは「パイの実＜苺の収穫＞」を9月1日に発売する。内容量は69g。 苺の素材感をよりストレートに感じられるよう、チョコレートではなくパイの実史上初めて開発した「パイの実専用苺フィリング」を採",
+      "id": "6edb529d16a7",
+      "title": "｢1日1万歩｣は逆に膝を傷めるだけ…厚生労働省が2024年に設定した健康のための\"正しい目標歩数\"(プレジデントオンライン)",
+      "published": "2026-08-31T02:15:40+00:00",
+      "summary": "血糖値が気になっても、運動はハードルが高い。だが、立つ時間を増やしたり、掃除や買い物を工夫したりするだけでも血糖値改善につながるという。内科医の工藤孝文さんが監修した『「血糖値にいいこと」、ぜんぶ集め",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/38c040d7f44ef14cb32305354fa73c38e5b5036e?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/bd12837397e7b2bac76da28edd9e9228affd42f5?source=rss"
         }
       ]
     },
     {
-      "id": "f41f5fb32b17",
-      "title": "建設現場で保護した野良犬→病院へ向かう途中に“逃亡し失踪” 捜索の末の幸せな結末に「なんて愛らしい」「素晴らしい」(LIMO)",
-      "published": "2026-08-30T19:10:47+00:00",
-      "summary": "海外のSNSでは、犬や猫といった動物を保護し、懸命に救おうとする「動物レスキュー」の様子を紹介した投稿がInstagramで注目を集めています。 今回、LIMO編集部がピックアップするのは、大手デジ",
+      "id": "9e225eaa190b",
+      "title": "肝臓にいいと信じていたのに肝障害に…内科医が警鐘｢飲み続けるとリスクがあるサプリメントの名前｣(プレジデントオンライン)",
+      "published": "2026-08-31T02:15:37+00:00",
+      "summary": "健やかでいられるようにと高価な健康食品やサプリメントを摂取している人は多い。選ぶ時の注意点は何か。内科医の名取宏さんは「健康食品が薬剤性肝障害の原因になることがある。健康上のリスクがあるかもしれないこ",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/1e0e145a3bdcdb00dba039b6d254d8e32ae1a89f?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/f1f5528b8f41bb97449203701dd00504763a84bb?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "e3c6487a11c4",
+      "title": "コロナ5類移行後も年2回の流行―重症化・後遺症は「早期治療」で防ぐ【専門家解説】(メディカルドック)",
+      "published": "2026-08-31T02:00:44+00:00",
+      "summary": "緊急事態宣言やソーシャルディスタンスといった言葉を耳にする機会がほとんどなくなった昨今、「コロナはもう終わった」と感じている人は少なくないでしょう。しかし、新型コロナウイルス感染症（以下、新型コロナ）",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/0fe84aba9e319c19d7b5ff6bd20f43731a8aaa62?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "20cb5eb604cc",
+      "title": "片頭痛は薬で治せる？「予防」と「痛み抑制」の2本柱で行う治療の最前線【女性の片頭痛・後編】(メディカルドック)",
+      "published": "2026-08-31T02:00:30+00:00",
+      "summary": "片頭痛を「市販薬でしのげばなんとかなる」と受け止めている人は少なくありません。しかし片頭痛治療はこの20年で大きく発展し、痛みを抑える薬に加えて予防薬も登場し、発作そのものを減らすという選択肢が加わっ",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/cf0d1d8db9868c435a04ea021070b2d2ddfe4ca9?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "3875c72de65c",
+      "title": "別居で住民票を移すと、配偶者に住所が伝わる。それでも移す人がいるワケ(マネーの達人)",
+      "published": "2026-08-31T02:00:03+00:00",
+      "summary": "別居することになって、住民票をどうするかで手が止まる方は少なくありません。移さなければ住まいは伝わりにくい一方、児童手当も国民健康保険も学校の指定も、住民票のある場所を軸に動きます。届出の期限、移した",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/9e3fe10545ce4a695833cc1571b496bc4f8764bb?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "ba5efe97d08f",
+      "title": "肺炎球菌感染症治療薬パイプライン分析2026（臨床試験フェーズ別、医薬品種類別）グローバル市場調査レポートを発表 - Newscast.jp",
+      "published": "2026-08-31T02:00:00+00:00",
+      "summary": "肺炎球菌感染症治療薬パイプライン分析2026（臨床試験フェーズ別、医薬品種類別）グローバル市場調査レポートを発表&nbsp;&nbsp;Newscast.jp",
+      "sources": [
+        {
+          "name": "Newscast.jp",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93dUtKU1U1ZHB0Qk9ONC1ia2lJcUtUU242bzZJRV96UHVZNkR2WFUyLTRFWmxSVWo5Q0N1ME1LU1BzYUtPMmdBWm1UbERldDQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "11ef30a3349c",
+      "title": "過敏性腸症候群パイプライン分析2026（臨床試験フェーズ別、医薬品種類別）グローバル市場調査レポートを発表 - アットプレス",
+      "published": "2026-08-31T02:00:00+00:00",
+      "summary": "過敏性腸症候群パイプライン分析2026（臨床試験フェーズ別、医薬品種類別）グローバル市場調査レポートを発表&nbsp;&nbsp;アットプレス【腸の不調を改善】研究で判明、IBSの症状やうつの軽減に期待！注目される「腸と脳」のつながり（ヨガジャーナルオンライン）&nbsp;&nbsp;Yahoo!ニュース",
+      "sources": [
+        {
+          "name": "アットプレス",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QQmJ0MEowNjRFUUhuUGpxNzBjRGlVWUNsUmc4R1Q5WEJreFNsRXdWUjlfVmttd1ZWRFZsMTRfcjVxM01WNEQwdTA0NWdsSEk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "204244ccaece",
+      "title": "世界のB群連鎖球菌（GBS）の市場規模、疾患概要、疫学予測：2026年調査レポートを発表 - Newscast.jp",
+      "published": "2026-08-31T01:30:00+00:00",
+      "summary": "世界のB群連鎖球菌（GBS）の市場規模、疾患概要、疫学予測：2026年調査レポートを発表&nbsp;&nbsp;Newscast.jp",
+      "sources": [
+        {
+          "name": "Newscast.jp",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sVmdUaVlUb0tsejNzcF82U1IzRGRMel9zUS1LT0Y4UmNUTWdpMHBUdjR4WVJ6TGV6NHM0UjdvRDhmZWpKOEFrS2FpZ0o2MWM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6a5014761670",
+      "title": "科学者が教える、コーヒーの安全な一日の摂取量とは - ELLE",
+      "published": "2026-08-31T01:04:07+00:00",
+      "summary": "科学者が教える、コーヒーの安全な一日の摂取量とは&nbsp;&nbsp;ELLEコーヒーを飲む人は「脂肪が少なく筋肉が多い」傾向｜ フィンランド研究で判明（ヨガジャーナルオンライン）&nbsp;&nbsp;Yahoo!ニュースコーヒーには肝臓と心臓の健康を促す働きも 新たな研究で次々と明らかになる効能&nbsp;&nbsp;Forbes JAPANコーヒー好きに朗報､｢1日3～5杯｣で心不全や脳卒中リスクが下がる可能性&nbsp;&nbsp;PRESIDENT Online（プレジデントオンライン）",
+      "sources": [
+        {
+          "name": "ELLE",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRFlKUmNoQno4ckxCbE5SZzdfZnBXdkJHWTIzMmhmcWFDRWhqR1Nzc2oxNmtkYTIxZFVXblRwSVdDbXc1SFZEcUZHNnlCMDZtODhfeDFqTzVfOHUtOUthdkZldFZ5VFVsWUo0VHJfY0ZnaWR4Sm5vS1J0OUJ2OXFLR1M2TExnUDdmeTMxX1ZyZnhjaFJMWEVTbDZvelNEUlVDWmFua0FsbGMtdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1bf38ebfbc36",
+      "title": "老後「認知症になる人」の特徴・ワースト1 - ライブドアニュース",
+      "published": "2026-08-30T23:05:00+00:00",
+      "summary": "老後「認知症になる人」の特徴・ワースト1&nbsp;&nbsp;ライブドアニュースGoogle ニュースで見出しと意見をもっと見る",
+      "sources": [
+        {
+          "name": "ライブドアニュース",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE90MVhxMXVzaW5PZ05vSUhRWlE0bTdXbEhacGNFNEo2Tm0yc21iTXMxd1lGY1BmbC1hby00Uy1TQVh4bmhXODFJM2tfaDZCS1hJQjBXNVMxWHlBTG5fd0ww?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "cf057920ca98",
+      "title": "スタチンとARBの併用で認知症リスクは低下するのか｜CareNet.com - CareNet.com",
+      "published": "2026-08-30T19:00:00+00:00",
+      "summary": "スタチンとARBの併用で認知症リスクは低下するのか｜CareNet.com&nbsp;&nbsp;CareNet.com",
+      "sources": [
+        {
+          "name": "CareNet.com",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5IaVV3MXQ3TjFZVWI1V1RGQS1qZ1lHSURzMUpPQjBQZEZXeVdTeDZ2Xzhybjk5dDFmYTBoaU00endzUXN0YWpWVTRXQmdvcDl6cXFHN25iZkhJcWhYeTNz?oc=5"
         }
       ]
     },
@@ -54,26 +162,14 @@
       ]
     },
     {
-      "id": "cf057920ca98",
-      "title": "スタチンとARBの併用で認知症リスクは低下するのか｜CareNet.com - CareNet.com",
+      "id": "eda65de7bd1b",
+      "title": "心臓手術時の血小板輸血、長期冷蔵保存血液でも止血効果／JAMA｜CareNet.com - CareNet.com",
       "published": "2026-08-30T19:00:00+00:00",
-      "summary": "スタチンとARBの併用で認知症リスクは低下するのか｜CareNet.com&nbsp;&nbsp;CareNet.com",
+      "summary": "心臓手術時の血小板輸血、長期冷蔵保存血液でも止血効果／JAMA｜CareNet.com&nbsp;&nbsp;CareNet.com",
       "sources": [
         {
           "name": "CareNet.com",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5IaVV3MXQ3TjFZVWI1V1RGQS1qZ1lHSURzMUpPQjBQZEZXeVdTeDZ2Xzhybjk5dDFmYTBoaU00endzUXN0YWpWVTRXQmdvcDl6cXFHN25iZkhJcWhYeTNz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2e3873c1554c",
-      "title": "室町「中世淀城」の遺構初確認　長さ100メートルの堀、道路(共同通信)",
-      "published": "2026-08-30T15:00:04+00:00",
-      "summary": "京都市伏見区の桂川西岸の遺跡で、室町時代に築かれた「中世淀城」の一画と考えられる長さ約100メートルの堀や、道路の遺構が見つかり、市埋蔵文化財研究所が31日、発表した。中世淀城の遺構確認は初めて。研",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/dd8016efacbe7c015e4e5042304d64bcfc0717fc?source=rss"
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WVDVfYmJ6eDRVd2owaDNZU3V1U01XTTNEXzY5Rks3cm9UaVV5M181T0ZmR3VWR0xrMjJNdE5NWTdJOHBXeG41WW9lOXZKU2Z3bHBUY0pISWt1LWdrNTdr?oc=5"
         }
       ]
     },
@@ -86,66 +182,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/43a4d3ef37965065eb68579e66d811a5575f5a3e?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "725ae2a2cd28",
-      "title": "「防水効果も半端なくいい」ワークマンの“防水リュック”に絶賛の声　「リピート買いです」「これで2900円はバグ」(ねとらぼ)",
-      "published": "2026-08-30T13:30:00+00:00",
-      "summary": "ワークマンが販売している“防水リュック”が、使い勝手が良くリーズナブルで、防水性能も高いと人気を集めています。本記事ではそんな「防水デイバッグ」について紹介していきます。",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/be8ead4ecfc514d1f8e4eb3ae84ccebc1cddcd09?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "7caccb907db0",
-      "title": "「パタゴニア」で2泊3日旅行の正解バッグを発見！“ずらし旅”やシルバーウィークにオススメの軽量＆大容量を服好きが本音レビュー！(MEN’S NON-NO WEB)",
-      "published": "2026-08-30T13:00:57+00:00",
-      "summary": "パタゴニアが誇る定番名品「ブラックホール・ダッフル」。2～3泊程度の旅行にオススメしたいのが、ほとんどの航空会社の機内持ち込み手荷物のサイズ基準を満たす40Lだ。",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/03cdcc27184e8a3ba0e73f63c73706e2a0b93425?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "41b6155f2c3e",
-      "title": "55～79歳の女性500人に聞いた保有・運用している投資商品TOP3、3位投資信託、2位国内株式、1位は？(＠ＤＩＭＥ)",
-      "published": "2026-08-30T12:40:02+00:00",
-      "summary": "物価高や将来不安により個人消費の落ち込みが続く一方で、健康で社会参加に積極的な「アクティブシニア」が日本の消費の中で存在感を増している。 では実際のところ、50代以上の女性はどのようにお金と向き合っ",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/4eeba336a2b2a479ec52775477a5c5cb85124bf4?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "d2bdd733e0c5",
-      "title": "「エナジードリンク1日3本飲んでいた」28歳の娘を亡くした母親が警鐘「危険性を知ってほしい」。米国でのニュースが注目集める(Harper’s BAZAAR（ハーパーズ バザー）)",
-      "published": "2026-08-30T12:20:14+00:00",
-      "summary": "眠気覚ましや気分転換になると大人気の「エナジードリンク」。しかしカフェインや糖分が含まれているため、健康被害をもたらすことも。 アメリカ・フロリダ州在住のケイティ・ドネルさんは、28歳のときに心臓発作",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/1bf67b8e5eaa249ae0b314a4ca5ab5b1cc54fa74?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "2a780fb69979",
-      "title": "食欲不振には胃腸を整える「関門」のツボ押しを。膨満感や便秘、下痢、むくみも緩和(家庭画報.com)",
-      "published": "2026-08-30T12:20:06+00:00",
-      "summary": "中医学のエキスパートである鍼灸師の兵頭 明先生が、ツボの効能や位置、効くメカニズムを解説します。健康の土台作りに、不調改善に、1日1分のツボ押しを習慣にしましょう。",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/24cf0d828a67da5c01289b5598d67484e190d6fd?source=rss"
         }
       ]
     },
@@ -390,18 +426,6 @@
       ]
     },
     {
-      "id": "2059bbd46251",
-      "title": "【新製品】長期間作用型抗RSウイルス抗体製剤「エヌフロンシア」新発売 MSD - daiunji-nobeoka.or.jp",
-      "published": "2026-08-28T05:30:12+00:00",
-      "summary": "【新製品】長期間作用型抗RSウイルス抗体製剤「エヌフロンシア」新発売 MSD&nbsp;&nbsp;daiunji-nobeoka.or.jpRSV感染症は、健康な子供でも入院が必要となり、人工呼吸器が必要になる場合がある。&nbsp;&nbsp;Vietnam.vn専門家：生後12ヶ月未満の乳幼児は、なぜ重症のRSウイルス感染症を発症しやすいのでしょうか？&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "daiunji-nobeoka.or.jp",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pOG9QdW8tcGdXUDJfeE5URVJDMTVQSXlFMGZCV20zZ0lqWUFXMEpXVWZVZ0JkdmlNTU5yaWFnYVJORmlkbGF1V0pUTTZRSEFNYnhv?oc=5"
-        }
-      ]
-    },
-    {
       "id": "b57d5de30010",
       "title": "ブタの日本脳炎抗体保有状況－2026年度速報第5報 - 国立健康危機管理研究機構",
       "published": "2026-08-28T05:21:22+00:00",
@@ -546,6 +570,18 @@
       ]
     },
     {
+      "id": "0c25fa1145cf",
+      "title": "アルツハイマー病が輸血によって「伝染」するリスクはあるのか？ - au Webポータル",
+      "published": "2026-08-27T20:17:43+00:00",
+      "summary": "アルツハイマー病が輸血によって「伝染」するリスクはあるのか？&nbsp;&nbsp;au Webポータル",
+      "sources": [
+        {
+          "name": "au Webポータル",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OdGZFeGp2YWk3ZkRSNUxnM1J6Z3VvYW55OGc3Mk0wN3RWYVVCc0hYZzU1RU4tS2hMenRQTEdmU2dSMWpFem1mZUZPTEY1SmEwVklVbFlBR2gtVWt5NFNSRGE2SHV0THNsOEh5UVBn?oc=5"
+        }
+      ]
+    },
+    {
       "id": "c23252f4393f",
       "title": "ペムブロリズマブ投与後の好酸球割合、irAE発現リスク評価の手掛かりに｜CareNet.com - CareNet.com",
       "published": "2026-08-27T19:00:00+00:00",
@@ -678,18 +714,6 @@
       ]
     },
     {
-      "id": "0c25fa1145cf",
-      "title": "アルツハイマー病が輸血によって「伝染」するリスクはあるのか？ - au Webポータル",
-      "published": "2026-08-26T05:20:50+00:00",
-      "summary": "アルツハイマー病が輸血によって「伝染」するリスクはあるのか？&nbsp;&nbsp;au Webポータル",
-      "sources": [
-        {
-          "name": "au Webポータル",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OdGZFeGp2YWk3ZkRSNUxnM1J6Z3VvYW55OGc3Mk0wN3RWYVVCc0hYZzU1RU4tS2hMenRQTEdmU2dSMWpFem1mZUZPTEY1SmEwVklVbFlBR2gtVWt5NFNSRGE2SHV0THNsOEh5UVBn?oc=5"
-        }
-      ]
-    },
-    {
       "id": "47d83a40a243",
       "title": "ホーチミン市では、さまざまなウイルスにより耳鼻咽喉科の病気が増加しています。 - Laodong.vn",
       "published": "2026-08-26T04:00:00+00:00",
@@ -798,6 +822,18 @@
       ]
     },
     {
+      "id": "e463eb358e04",
+      "title": "「赤ちゃんのためのRSウイルス感染症予防ナビ」開設 MSD - 医薬通信社",
+      "published": "2026-08-25T07:22:46+00:00",
+      "summary": "「赤ちゃんのためのRSウイルス感染症予防ナビ」開設 MSD&nbsp;&nbsp;医薬通信社RSV感染症は、健康な子供でも入院が必要となり、人工呼吸器が必要になる場合がある。&nbsp;&nbsp;Vietnam.vn専門家：生後12ヶ月未満の乳幼児は、なぜ重症のRSウイルス感染症を発症しやすいのでしょうか？&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "医薬通信社",
+          "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNY1BHeXBmTGVqS0dISThaMnZkZHNuU3BMM1NsUmZNa1RXU2ttRUxIX0YyNnBZTzRvQkQtV1FleUw5R3dSMDRYOWNSdUUyeXJTNTdYcl9rcDRmQkQzc0xldnJDY1JZQm1xemRlaS15c3RsSkZBWmFzdWdRTkx6bnRiNEJHRzV5a2pzX04xd3RLbV9nbGg0YWhINE9MX0JXUzNHZkl5NmV3eENsaFQxZXROS0htTnNNV0VpM2pIbTJKbFFvdGpaS1FUYmxvOGlhcDNHYTN6bUhTVE5IUTktcEx0bEY1SUhiZW1TckdVVUVzcTdocncxeXg3WUc1aERWdk1iZXN3REZ4RjMyMVY3UFF4cGFOb3lIUjNwc21Gd2t3YUxwYUZKWklqVmRWd0xYQjVsSUdYdkdNaE9pR1h2N2Y4bHlySjZnbFNFWWkyTWhsUEk4WmtwMVRQY1llVnE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "7cf07bbf5a4b",
       "title": "子宮内膜症で2型糖尿病のリスクが46％上昇｜ニュース - dm-net.co.jp",
       "published": "2026-08-25T01:11:05+00:00",
@@ -806,18 +842,6 @@
         {
           "name": "dm-net.co.jp",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfWHhUOHh2ZktHZFdpUTNLYkhSeU1qaWxZN1l5SXFZcVo3VHB3ZHVndWd0VmRxeWk1N0U4Q0trZXZmQ245cFNwdVBNVWExc1MyV2J4U0h3ekY?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "44f2369babaf",
-      "title": "コーヒーには肝臓と心臓の健康を促す働きも 新たな研究で次々と明らかになる効能 - Forbes JAPAN",
-      "published": "2026-08-25T00:00:00+00:00",
-      "summary": "コーヒーには肝臓と心臓の健康を促す働きも 新たな研究で次々と明らかになる効能&nbsp;&nbsp;Forbes JAPANコーヒーを飲む人は「脂肪が少なく筋肉が多い」傾向｜ フィンランド研究で判明（ヨガジャーナルオンライン）&nbsp;&nbsp;Yahoo!ニュース",
-      "sources": [
-        {
-          "name": "Forbes JAPAN",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TcThoRXRMX0tNY0ZpZzVYc201U1ZBaVZ0bjFOT3NQY2w3RVFkUFYyRlNQQ2ExVzM0andqVGh2RXFnTlpJMHJXdDVVcEtKcDdhakExdjFNbEh2QQ?oc=5"
         }
       ]
     },
@@ -894,50 +918,14 @@
       ]
     },
     {
-      "id": "7bd235bd9f28",
-      "title": "医師が22歳の患者の心筋梗塞の症例について警告 - Laodong.vn",
-      "published": "2026-08-24T01:25:15+00:00",
-      "summary": "医師が22歳の患者の心筋梗塞の症例について警告&nbsp;&nbsp;Laodong.vn32歳の男性が心臓発作を起こした。リスク要因を過小評価してはいけない。&nbsp;&nbsp;Vietnam.vn喫煙と肥満は、心臓発作の主な原因である。&nbsp;&nbsp;Vietnam.vn",
+      "id": "3342119047c4",
+      "title": "地球温暖化でマダニ・蚊媒介の感染症が拡大＝ババリアンＣＥＯ - Reuters",
+      "published": "2026-08-24T03:41:00+00:00",
+      "summary": "地球温暖化でマダニ・蚊媒介の感染症が拡大＝ババリアンＣＥＯ&nbsp;&nbsp;Reuters",
       "sources": [
         {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS1JSVGFiY08tRXVVY0ZKMlJnRXBURTdfVHVzQXIyRkFqQTZIVndNSEowaDd5X1gzOG92V0NwbGtBdzQxQmFmUENSWVVCNmkwWkJ0R0p6VGhFTmYxSXk1ZU9iREhJMC02dmdLMUFOZHNqMDl4Q1VGU1ZZTUJGZkdTVVRyQjI0ZEhUTE9yTGctN3h6WElubERmemtTbTVzR1JqR2c?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ea67f63368b2",
-      "title": "高度な形質転換能を持つインフルエンザ菌が耐性遺伝子伝播を促進－名城大 - QLifePro",
-      "published": "2026-08-24T00:10:00+00:00",
-      "summary": "高度な形質転換能を持つインフルエンザ菌が耐性遺伝子伝播を促進－名城大&nbsp;&nbsp;QLifePro",
-      "sources": [
-        {
-          "name": "QLifePro",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSUM0OUc1OTgzeHlZR2oxV2xMWUZ3aXdTbTR6eVEtM3otOUFfbGIyOTBSS0lzQVE3dnVQbEJIbVJNbGpnVGRSc2M2LW4xWmpYZlRYdkwyMG41X1lreDU4ZkR1T01lUTQyT3pIZDlVWmF2RUdSUjlEZDA1SEZnVzJTdFZVaF85RmxHdUI4b2xnZHB3aDVYLVc4dzhST28zUXo2eGhMcnhncU11eW5tV0hMYmNJd05GbmtVYmFV?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1fa1174694a1",
-      "title": "内視鏡で「異常なし」でもツラい過敏性腸症候群（IBS）の正体。平日に悪化する理由と、お腹の弱さを克服する最新治療 - Newscast.jp",
-      "published": "2026-08-23T22:45:00+00:00",
-      "summary": "内視鏡で「異常なし」でもツラい過敏性腸症候群（IBS）の正体。平日に悪化する理由と、お腹の弱さを克服する最新治療&nbsp;&nbsp;Newscast.jp",
-      "sources": [
-        {
-          "name": "Newscast.jp",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBHeVpyZ0hpOWNqM0U5bzFsVkx4SnRsY0ZKeldaSl96aVdOX01PSlJ6NENNTndONlBuSEtoTjhKUU9NbHB6VWcw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a2a4260963f3",
-      "title": "経済アナリスト・馬渕磨理子「体が縮こまると思考まで狭くなる」乳がん手術後もストレッチで体と心に“余白” - AERA DIGITAL",
-      "published": "2026-08-23T22:00:00+00:00",
-      "summary": "経済アナリスト・馬渕磨理子「体が縮こまると思考まで狭くなる」乳がん手術後もストレッチで体と心に“余白”&nbsp;&nbsp;AERA DIGITAL",
-      "sources": [
-        {
-          "name": "AERA DIGITAL",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lX29aQkNyZ2F1ZHdCSThtcUdGWTRUUVQ0V1FJQjROTkE0YUo4Ulg2Qm9sY2FLQXI1SVlDNlVBWndJcG5JaERXbWVZQmdWVG53Q20zeG1yWUpZdw?oc=5"
+          "name": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBabzFQUzgwVWVWUy1MVlo1R004SXlLa1BaSG9veFBVNUUtRGpHSXNyT2l2Ti1Qd1VlWF9KSktheDkzUHZ6M25DU3JBaC0yUkhrbG5fWXZ0Y0haR2E5Y1FEUXBDT1lSOV9PY3FjMmhfR0ZNYnd3bDIydQ?oc=5"
         }
       ]
     }
