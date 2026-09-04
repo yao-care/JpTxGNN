@@ -1,10 +1,34 @@
 {
   "source": "japan_news",
-  "fetched_at": "2026-09-04T15:26:06.222177+00:00",
+  "fetched_at": "2026-09-04T20:01:42.950883+00:00",
   "total_fetched": 170,
   "unique_count": 170,
-  "health_related_count": 85,
+  "health_related_count": 87,
   "news": [
+    {
+      "id": "ee8dae067dae",
+      "title": "「お父さん、嘘でしょ…」〈年金月20万円〉80歳父が急逝、53歳娘が直面した「借金まみれ」という信じがたい現実(THE GOLD ONLINE（ゴールドオンライン）)",
+      "published": "2026-09-04T20:00:35+00:00",
+      "summary": "堅実だと思っていた親の死後、思いもよらない多額の借金が発覚したらどうすべきでしょうか。親の急逝後に想定外の負債が見つかり、相続の判断や手続きに頭を悩ませた女性の事例から、親の負債リスクや後悔しないため",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/07546d964f31e017ca48e717665473d37ee39569?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "65d9e92c4c7a",
+      "title": "「一度で長く守る」次世代ワクチンへの挑戦　ウイルス再感染防御に必須のIgG抗体が長期間維持される仕組みを解明【岡山大学】(RSK山陽放送)",
+      "published": "2026-09-04T18:00:35+00:00",
+      "summary": "感染やワクチン接種の後、私たちの体はなぜ長期間にわたってウイルスから守られるのか。その根幹を担うIgG抗体が、IgM抗体よりも血中に長く維持される分子的な仕組みが、世界で初めて明らかになりました。",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/3432eaf201b49ab8aab1c5f5c6ce6ebeb80afca2?source=rss"
+        }
+      ]
+    },
     {
       "id": "7391373de4e6",
       "title": "朝のコーヒーに豆乳を入れない方がいい人の特徴｜管理栄養士が解説(ヨガジャーナルオンライン)",
@@ -90,25 +114,13 @@
       ]
     },
     {
-      "id": "3786e36d6bcf",
-      "title": "生命力の源である腎を補い冷え性を改善する「陰谷」。月経不順や排尿障害にも奏効(家庭画報.com)",
-      "published": "2026-09-04T12:20:13+00:00",
-      "summary": "中医学のエキスパートである鍼灸師の兵頭 明先生が、ツボの効能や位置、効くメカニズムを解説します。健康の土台作りに、不調改善に、1日1分のツボ押しを習慣にしましょう。",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/a80d3c3625fec819ac5048887a2920e0f90a75cd?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "af8490d1ed6b",
-      "title": "『糖尿病』で\"血管\"や\"神経\"が傷つくとEDに? 3大合併症とあわせて医師が解説 - メディカルドック",
+      "id": "b5f344f87de2",
+      "title": "『糖尿病』で\"血管\"や\"神経\"が傷つくとEDに? 3大合併症とあわせて医師が解説 - medicaldoc.jp",
       "published": "2026-09-04T10:51:30+00:00",
-      "summary": "『糖尿病』で\"血管\"や\"神経\"が傷つくとEDに? 3大合併症とあわせて医師が解説&nbsp;&nbsp;メディカルドック",
+      "summary": "『糖尿病』で\"血管\"や\"神経\"が傷つくとEDに? 3大合併症とあわせて医師が解説&nbsp;&nbsp;medicaldoc.jp",
       "sources": [
         {
-          "name": "メディカルドック",
+          "name": "medicaldoc.jp",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE02NFQyeXo3T3hDaVgybDJUNmFja1hvRTVDOEpKQXNzcTJWT3dMVE8zSU5GeVNCWllDTVBsRTZTMnBZLXhhMGZZMXMxbHRRVUtKSTFMTFlVZlU?oc=5"
         }
       ]
@@ -122,6 +134,18 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/2fd83c5c6044ee1ab3e407bf9fe0878da09b1198?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "1a9bdd6595c6",
+      "title": "予防神経科医が実践する、認知症・アルツハイマー病リスク低減のための3つの習慣 - Business Insider Japan",
+      "published": "2026-09-04T09:00:00+00:00",
+      "summary": "予防神経科医が実践する、認知症・アルツハイマー病リスク低減のための3つの習慣&nbsp;&nbsp;Business Insider Japan認知症を恐れず、40歳から備える 生活習慣・健康状態の変化を注視&nbsp;&nbsp;日本経済新聞認知症予防の新戦略を紹介 バイオマーカー研究と「ナトリード🄬」の可能性をテーマに学会セミナーを共催&nbsp;&nbsp;PR TIMES眼鏡、歯磨き…認知症と関係する意外な習慣&nbsp;&nbsp;japanjournals.com【医師が教える】老後「認知症になる人」の特徴とは？（ダイヤモンド・オンライン）&nbsp;&nbsp;Yahoo!ニュース",
+      "sources": [
+        {
+          "name": "Business Insider Japan",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPemxKQ1p2aDUtMDNZVEJxZi1TdzRsU1lGTjNmbGZhZ1ZRTWlvVjh2dEtlWEJNSkZ2S0I1MTNRTlh3RzQwXzRFbTYzMmNicE11Z3FMbmx0Q3EwU0dYc0szMEtFSG1NNGdoRFpnREF1ODlVVUVFRVBaRGZ6LURseEtfLW5CWVBVMUlQRnBwbDNmaUFQSDY1aFJ4dERiV1RmYVI3el9JN1dJaw?oc=5"
         }
       ]
     },
@@ -186,6 +210,18 @@
       ]
     },
     {
+      "id": "e763263d15c9",
+      "title": "メディフォンとミナカラが業務提携 訪日外国人向け医療支援サービス「Online Doctor for tourists」を提供開始 - 時事ドットコム",
+      "published": "2026-09-04T06:10:00+00:00",
+      "summary": "メディフォンとミナカラが業務提携 訪日外国人向け医療支援サービス「Online Doctor for tourists」を提供開始&nbsp;&nbsp;時事ドットコム",
+      "sources": [
+        {
+          "name": "時事ドットコム",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE11ZmF0dExHbFdhTm02RzZaRmF0QVNtZ01QRnU1RThPVjRZcDdjLXYxdWwtZDRxNFgxeVNYNVJjeVYtbXdWSGYzNHNKc1o1WjdXYU1yd2FrbmRDWWlGaGx2Q1l4WkpKUU94QVlr?oc=5"
+        }
+      ]
+    },
+    {
       "id": "06a46abce548",
       "title": "子どものキャンディー横取り、鼻のかみ方、尿が跳ねない小便器…　今年もイグ・ノーベル賞発表(CNN.co.jp)",
       "published": "2026-09-04T06:03:00+00:00",
@@ -194,18 +230,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/2c033727570363432e288fa1c04194584b3d41be?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "30cfb7896c74",
-      "title": "認知症予防の新戦略を紹介 バイオマーカー研究と「ナトリード🄬」の可能性をテーマに学会セミナーを共催 - PR TIMES",
-      "published": "2026-09-04T06:00:01+00:00",
-      "summary": "認知症予防の新戦略を紹介 バイオマーカー研究と「ナトリード🄬」の可能性をテーマに学会セミナーを共催&nbsp;&nbsp;PR TIMES予防神経科医が実践する、認知症・アルツハイマー病リスク低減のための3つの習慣&nbsp;&nbsp;Business Insider Japan認知症を恐れず、40歳から備える 生活習慣・健康状態の変化を注視&nbsp;&nbsp;日本経済新聞眼鏡、歯磨き…認知症と関係する意外な習慣&nbsp;&nbsp;Onlineジャーニー【医師が教える】老後「認知症になる人」の特徴とは？（ダイヤモンド・オンライン）&nbsp;&nbsp;Yahoo!ニュース",
-      "sources": [
-        {
-          "name": "PR TIMES",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0R05mMjdoT0RGbkFRRTNtSHl5blZQVWNzMHlac0xGV3c1THJfQW9aOEZiQ2FaTVcxNi1aUjJra19kX0NlQTNhOWs5UE5sVzZwRXJFbWlhdHlFUFZiSGM0emdpTGNkdkFrUXc?oc=5"
         }
       ]
     },
@@ -381,7 +405,7 @@
       "id": "5e824614a2b3",
       "title": "武田薬品のナルコレプシー薬「Orzeyful」やRevMedの膵がん薬「Rasonque」など承認―2026年8月に米FDAが承認した新薬 - Answers（アンサーズ）",
       "published": "2026-09-03T21:04:22+00:00",
-      "summary": "武田薬品のナルコレプシー薬「Orzeyful」やRevMedの膵がん薬「Rasonque」など承認―2026年8月に米FDAが承認した新薬&nbsp;&nbsp;Answers（アンサーズ）米FDA、転移性膵腺がんに対する新規RAS阻害薬を承認&nbsp;&nbsp;薬事日報",
+      "summary": "武田薬品のナルコレプシー薬「Orzeyful」やRevMedの膵がん薬「Rasonque」など承認―2026年8月に米FDAが承認した新薬&nbsp;&nbsp;Answers（アンサーズ）米FDA、転移性膵腺がんに対する新規RAS阻害薬を承認&nbsp;&nbsp;sudoh.co.jp",
       "sources": [
         {
           "name": "Answers（アンサーズ）",
@@ -474,13 +498,13 @@
       ]
     },
     {
-      "id": "d5b3b4847e59",
-      "title": "ブタの日本脳炎抗体保有状況－2026年度速報第6報 - NIID 国立感染症研究所",
+      "id": "bcdff12d5840",
+      "title": "ブタの日本脳炎抗体保有状況－2026年度速報第6報 - 国立健康危機管理研究機構",
       "published": "2026-09-03T05:10:46+00:00",
-      "summary": "ブタの日本脳炎抗体保有状況－2026年度速報第6報&nbsp;&nbsp;NIID 国立感染症研究所",
+      "summary": "ブタの日本脳炎抗体保有状況－2026年度速報第6報&nbsp;&nbsp;国立健康危機管理研究機構",
       "sources": [
         {
-          "name": "NIID 国立感染症研究所",
+          "name": "国立健康危機管理研究機構",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdXJUSHJSVHVtQjVhay1lMzg4Z2RlalNmaXoza2VxRFdObFBsMjJhLXF0VFJ5UElWc3dPZXgySWJTMmhjOGVEUnpVZ3A4d0RnZldRSnNyRm1IQmswQXh3Mk9BUDJaQzR6NHN0bzJyV3lrX21VMFQzbGVxNVNNeDlxRFlxRHFLT2tKNGNZOGk5SnpMQ1doN2NuaWRwdw?oc=5"
         }
       ]
@@ -549,7 +573,7 @@
       "id": "574b396560cf",
       "title": "「マザーキラー」異名の子宮頸がん、ワクチンは男性肛門がんにも予防効果も理解不足深刻 - 産経ニュース",
       "published": "2026-09-02T22:00:00+00:00",
-      "summary": "「マザーキラー」異名の子宮頸がん、ワクチンは男性肛門がんにも予防効果も理解不足深刻&nbsp;&nbsp;産経ニュース「子宮頸がんの死者ゼロ」は可能、ワクチンが予想以上の実績 「効果は絶大」と専門家（ナショナル ジオグラフィック日本版）&nbsp;&nbsp;Yahoo!ニュース【9月1日（火）】『第2回HPVV接種推進自治体議員連盟有志視察』2日目。&nbsp;&nbsp;選挙ドットコムHPVワクチン接種が女性だけでなく男性でも頭頸部がんのリスクを減少させる可能性&nbsp;&nbsp;gigazine.net13日に那覇でHPVワクチン集団接種 子宮頸がん予防 沖縄&nbsp;&nbsp;琉球新報デジタル",
+      "summary": "「マザーキラー」異名の子宮頸がん、ワクチンは男性肛門がんにも予防効果も理解不足深刻&nbsp;&nbsp;産経ニュースHPVワクチン、「連携」と「積み重ね」で接種率7割へ&nbsp;&nbsp;Medical TribuneHPVワクチン接種が女性だけでなく男性でも頭頸部がんのリスクを減少させる可能性&nbsp;&nbsp;GIGAZINE【9月1日（火）】『第2回HPVV接種推進自治体議員連盟有志視察』2日目。&nbsp;&nbsp;選挙ドットコム「子宮頸がんの死者ゼロ」は可能、ワクチンが予想以上の実績 「効果は絶大」と専門家（ナショナル ジオグラフィック日本版）&nbsp;&nbsp;Yahoo!ニュース",
       "sources": [
         {
           "name": "産経ニュース",
@@ -570,25 +594,25 @@
       ]
     },
     {
-      "id": "0c49bdd93e3e",
-      "title": "進行肝細胞がん、アテゾリズマブ＋ベバシズマブ後の肝切除追加でTTF延長／Lancet｜CareNet.com - CareNet.com",
+      "id": "7f81268a1439",
+      "title": "進行肝細胞がん、アテゾリズマブ＋ベバシズマブ後の肝切除追加でTTF延長／Lancet｜CareNet.com - carenet.com",
       "published": "2026-09-02T19:00:00+00:00",
-      "summary": "進行肝細胞がん、アテゾリズマブ＋ベバシズマブ後の肝切除追加でTTF延長／Lancet｜CareNet.com&nbsp;&nbsp;CareNet.com",
+      "summary": "進行肝細胞がん、アテゾリズマブ＋ベバシズマブ後の肝切除追加でTTF延長／Lancet｜CareNet.com&nbsp;&nbsp;carenet.com",
       "sources": [
         {
-          "name": "CareNet.com",
+          "name": "carenet.com",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBuQW9FaWNoMTU2dUdnb3JIY2J6UU8xbkRMZW45SnRfODZGdDNxUG9SX3U0eGljbFllTlZKN0U0LXRFSFBGOTFJelA2SXlxRVhhUXl1bWNKYTY5XzFraUkw?oc=5"
         }
       ]
     },
     {
-      "id": "fd8c03721714",
-      "title": "2型糖尿病・糖尿病予備群、更年期症状の負担が大きい可能性｜CareNet.com - CareNet.com",
+      "id": "e3cb62f5bd46",
+      "title": "2型糖尿病・糖尿病予備群、更年期症状の負担が大きい可能性｜CareNet.com - carenet.com",
       "published": "2026-09-02T19:00:00+00:00",
-      "summary": "2型糖尿病・糖尿病予備群、更年期症状の負担が大きい可能性｜CareNet.com&nbsp;&nbsp;CareNet.com",
+      "summary": "2型糖尿病・糖尿病予備群、更年期症状の負担が大きい可能性｜CareNet.com&nbsp;&nbsp;carenet.com",
       "sources": [
         {
-          "name": "CareNet.com",
+          "name": "carenet.com",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qa1hSNmZXT3RpREgzZGp3U1V2TVdtam1haXBUUG13SWVaS0xNbG1YcE9TMktGbWhkUzg2TUJjdjA0U2lpY0pGTXpFaUZpV2lEUEVXeEQ3N24zUQ?oc=5"
         }
       ]
@@ -642,13 +666,13 @@
       ]
     },
     {
-      "id": "261b7be3dd3c",
-      "title": "世界で最も飲まれる糖尿病薬は腸を「糖の浪費家」にしていた - ナゾロジー",
+      "id": "24f63681bf51",
+      "title": "世界で最も飲まれる糖尿病薬は腸を「糖の浪費家」にしていた - nazology.kusuguru.co.jp",
       "published": "2026-09-02T09:30:45+00:00",
-      "summary": "世界で最も飲まれる糖尿病薬は腸を「糖の浪費家」にしていた&nbsp;&nbsp;ナゾロジー",
+      "summary": "世界で最も飲まれる糖尿病薬は腸を「糖の浪費家」にしていた&nbsp;&nbsp;nazology.kusuguru.co.jp",
       "sources": [
         {
-          "name": "ナゾロジー",
+          "name": "nazology.kusuguru.co.jp",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pMXFJSklPMzJMQkk5djAtdzFiWU93dFo2QkFFZFlqMDNCbzQtY1JYOW9pVHFsUEQ2bkV1YTYyS01NT2RiemJSYXZLUjVyVDhiMFU4c2VCakFrNVU?oc=5"
         }
       ]
@@ -762,50 +786,50 @@
       ]
     },
     {
-      "id": "e763263d15c9",
-      "title": "メディフォンとミナカラが業務提携 訪日外国人向け医療支援サービス「Online Doctor for tourists」を提供開始 - 時事ドットコム",
-      "published": "2026-09-01T19:40:00+00:00",
-      "summary": "メディフォンとミナカラが業務提携 訪日外国人向け医療支援サービス「Online Doctor for tourists」を提供開始&nbsp;&nbsp;時事ドットコム【密着】外国人が駆け込むクリニック 観光中に“不調” 止まらないせき・耳の痛み…虫刺されで？大きな腫れ、股関節の炎症？ 思わぬ病気か 『every.気になる！』&nbsp;&nbsp;日テレNEWS NNN",
-      "sources": [
-        {
-          "name": "時事ドットコム",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE11ZmF0dExHbFdhTm02RzZaRmF0QVNtZ01QRnU1RThPVjRZcDdjLXYxdWwtZDRxNFgxeVNYNVJjeVYtbXdWSGYzNHNKc1o1WjdXYU1yd2FrbmRDWWlGaGx2Q1l4WkpKUU94QVlr?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "776eef62e1f7",
-      "title": "食事のタイミングと日本人の認知症リスクとの関係～LIFE研究｜CareNet.com - CareNet.com",
+      "id": "eae29bf93470",
+      "title": "食事のタイミングと日本人の認知症リスクとの関係～LIFE研究｜CareNet.com - carenet.com",
       "published": "2026-09-01T19:02:07+00:00",
-      "summary": "食事のタイミングと日本人の認知症リスクとの関係～LIFE研究｜CareNet.com&nbsp;&nbsp;CareNet.com",
+      "summary": "食事のタイミングと日本人の認知症リスクとの関係～LIFE研究｜CareNet.com&nbsp;&nbsp;carenet.com",
       "sources": [
         {
-          "name": "CareNet.com",
+          "name": "carenet.com",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1uYUtJQlp0d3J5VWNQUldtLWUyakRNbXkzU2U1S2MtUXB6VVktNHJXdllSREEzNzNEbEpfQTR5Y29jcTFfeGNEcjlwRUdaRm9aMzRacy04bHFqbXRISDA0?oc=5"
         }
       ]
     },
     {
-      "id": "6475adc5c29e",
-      "title": "マラソン中の心停止、スタート時の気温が低いほどリスク上昇か｜CareNet.com - CareNet.com",
+      "id": "16d76ee8bb0c",
+      "title": "マラソン中の心停止、スタート時の気温が低いほどリスク上昇か｜CareNet.com - carenet.com",
       "published": "2026-09-01T19:00:00+00:00",
-      "summary": "マラソン中の心停止、スタート時の気温が低いほどリスク上昇か｜CareNet.com&nbsp;&nbsp;CareNet.com",
+      "summary": "マラソン中の心停止、スタート時の気温が低いほどリスク上昇か｜CareNet.com&nbsp;&nbsp;carenet.com",
       "sources": [
         {
-          "name": "CareNet.com",
+          "name": "carenet.com",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13SjUybG1mWDRKMk1La3dCNzBLVklhb054X3JMQ2o4QjhoZ2VxUXFLQWF2OW0xOVNZOXRycHQyQmpSY2hwanVLTVFFUXByQ3JYVmpiUkhFNXdPMnM?oc=5"
         }
       ]
     },
     {
-      "id": "c8d522991baa",
-      "title": "心臓手術前の貧血患者への鉄剤補充、術後在宅日数を延長／BMJ｜CareNet.com - CareNet.com",
+      "id": "ee6ffc4cf89e",
+      "title": "心臓手術前の貧血患者への鉄剤補充、術後在宅日数を延長／BMJ｜CareNet.com - carenet.com",
       "published": "2026-09-01T19:00:00+00:00",
-      "summary": "心臓手術前の貧血患者への鉄剤補充、術後在宅日数を延長／BMJ｜CareNet.com&nbsp;&nbsp;CareNet.com",
+      "summary": "心臓手術前の貧血患者への鉄剤補充、術後在宅日数を延長／BMJ｜CareNet.com&nbsp;&nbsp;carenet.com",
       "sources": [
         {
-          "name": "CareNet.com",
+          "name": "carenet.com",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5oM0txWVJFOWJxZmdfMFlfU1hjMC1DSFhSYTkydkdnS1Z6RU9uNWZkcE1heldzQVM4Z0x2eC1Ub1FOUjhkZGVod3V6UkMySGJtVk1zWFdLXzhDcFYycmRr?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b45627e17053",
+      "title": "親の離婚を経験した子どもは成人期のうつ病リスクが高い｜CareNet.com - carenet.com",
+      "published": "2026-09-01T19:00:00+00:00",
+      "summary": "親の離婚を経験した子どもは成人期のうつ病リスクが高い｜CareNet.com&nbsp;&nbsp;carenet.com",
+      "sources": [
+        {
+          "name": "carenet.com",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11Wl85OWJJbnhTc0RkZGEyTVdRYzNpNWljZGl2SjdLdURUbkotQlV4N2xyUjJiQXVYUk5DZmpoemh0QXFvMkRJZkNoaFBOZkJNVkRZMnlhSzBEQQ?oc=5"
         }
       ]
     },
@@ -822,25 +846,25 @@
       ]
     },
     {
-      "id": "f8537613f39a",
-      "title": "オランザピンの糖尿病禁忌が解除：制吐薬適正使用ガイドライン速報 - oncolo.jp",
+      "id": "864daca6f407",
+      "title": "オランザピンの糖尿病禁忌が解除：制吐薬適正使用ガイドライン速報 - がん情報サイト「オンコロ」",
       "published": "2026-09-01T02:37:31+00:00",
-      "summary": "オランザピンの糖尿病禁忌が解除：制吐薬適正使用ガイドライン速報&nbsp;&nbsp;oncolo.jp",
+      "summary": "オランザピンの糖尿病禁忌が解除：制吐薬適正使用ガイドライン速報&nbsp;&nbsp;がん情報サイト「オンコロ」",
       "sources": [
         {
-          "name": "oncolo.jp",
+          "name": "がん情報サイト「オンコロ」",
           "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBjY05mMlJiN2J4SlFJbWZwY0hZYkVTcVkwQjVyTWlYektFaERBdWFBTlA1NFdrOGRjUk04U0E0cXFtT0ltZ2VuSQ?oc=5"
         }
       ]
     },
     {
-      "id": "a24a8b1b0cc9",
-      "title": "便の腸内細菌qPCRで大腸・膵臓がんリスク算出、AUC 0.824等－藤田医科大 - qlifepro.com",
+      "id": "e46b61159e3e",
+      "title": "便の腸内細菌qPCRで大腸・膵臓がんリスク算出、AUC 0.824等－藤田医科大 - QLifePro",
       "published": "2026-09-01T00:20:00+00:00",
-      "summary": "便の腸内細菌qPCRで大腸・膵臓がんリスク算出、AUC 0.824等－藤田医科大&nbsp;&nbsp;qlifepro.com",
+      "summary": "便の腸内細菌qPCRで大腸・膵臓がんリスク算出、AUC 0.824等－藤田医科大&nbsp;&nbsp;QLifePro",
       "sources": [
         {
-          "name": "qlifepro.com",
+          "name": "QLifePro",
           "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5OWXMyX3RrdEh1U01EWWF0VnNzb3RTQ1p3dHBFdHVFVm9wRnA2SVctdzU2TFpSSzF0bDMtdnM4SlFtUVRJWWcxWmJzanNYOFBzb0JCWFZ6THQtanN5RE1EMmFUbGtBVFktaFQ5aEo4X25HZC1jNlVCeGFWWVI?oc=5"
         }
       ]
@@ -858,13 +882,13 @@
       ]
     },
     {
-      "id": "36b286b74936",
-      "title": "急性期うつ病に対する21種類の抗うつ薬の比較～ネットワークメタ解析｜CareNet.com - CareNet.com",
+      "id": "658f2762197c",
+      "title": "急性期うつ病に対する21種類の抗うつ薬の比較～ネットワークメタ解析｜CareNet.com - carenet.com",
       "published": "2026-08-31T19:00:00+00:00",
-      "summary": "急性期うつ病に対する21種類の抗うつ薬の比較～ネットワークメタ解析｜CareNet.com&nbsp;&nbsp;CareNet.com",
+      "summary": "急性期うつ病に対する21種類の抗うつ薬の比較～ネットワークメタ解析｜CareNet.com&nbsp;&nbsp;carenet.com",
       "sources": [
         {
-          "name": "CareNet.com",
+          "name": "carenet.com",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04ZHdPa01nZm1BaUtJaFZ1NXdRTFYwVGFYblBCV25OMWdveUczc0w3Mkl4U2ZRZGo3NXR5UHFWbTBJX2lTY1JqYWdPNVpOZkVKZnY1UUtmQlVzTEpZalhn?oc=5"
         }
       ]
@@ -894,13 +918,13 @@
       ]
     },
     {
-      "id": "d7889fa7d1be",
-      "title": "アルコール依存症患者の飲酒関連がん、遺伝的体質でリスクに差｜ニュース - 保健指導リソースガイド",
+      "id": "3d8abdf17c4b",
+      "title": "アルコール依存症患者の飲酒関連がん、遺伝的体質でリスクに差｜ニュース - tokuteikenshin-hokensidou.jp",
       "published": "2026-08-31T03:54:39+00:00",
-      "summary": "アルコール依存症患者の飲酒関連がん、遺伝的体質でリスクに差｜ニュース&nbsp;&nbsp;保健指導リソースガイド",
+      "summary": "アルコール依存症患者の飲酒関連がん、遺伝的体質でリスクに差｜ニュース&nbsp;&nbsp;tokuteikenshin-hokensidou.jp",
       "sources": [
         {
-          "name": "保健指導リソースガイド",
+          "name": "tokuteikenshin-hokensidou.jp",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16TXpiRHBjMVdBY05EckwxUDkxenFrOF9oZll2ZW1aNzh4SUxraTlhbzFESmk5dk80Um9obG5hR0dqTzZaRkhZWVpsTm1ZVXBJZm1JZzg5My16ZEFuT281RE9JRXlpVGd3?oc=5"
         }
       ]
@@ -942,25 +966,25 @@
       ]
     },
     {
-      "id": "cf057920ca98",
-      "title": "スタチンとARBの併用で認知症リスクは低下するのか｜CareNet.com - CareNet.com",
+      "id": "02d16581a6cf",
+      "title": "スタチンとARBの併用で認知症リスクは低下するのか｜CareNet.com - carenet.com",
       "published": "2026-08-30T19:00:00+00:00",
-      "summary": "スタチンとARBの併用で認知症リスクは低下するのか｜CareNet.com&nbsp;&nbsp;CareNet.com",
+      "summary": "スタチンとARBの併用で認知症リスクは低下するのか｜CareNet.com&nbsp;&nbsp;carenet.com",
       "sources": [
         {
-          "name": "CareNet.com",
+          "name": "carenet.com",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5IaVV3MXQ3TjFZVWI1V1RGQS1qZ1lHSURzMUpPQjBQZEZXeVdTeDZ2Xzhybjk5dDFmYTBoaU00endzUXN0YWpWVTRXQmdvcDl6cXFHN25iZkhJcWhYeTNz?oc=5"
         }
       ]
     },
     {
-      "id": "895744960619",
-      "title": "2～5歳児にインフルエンザワクチンは有効｜CareNet.com - CareNet.com",
+      "id": "85e03cf82bcc",
+      "title": "2～5歳児にインフルエンザワクチンは有効｜CareNet.com - carenet.com",
       "published": "2026-08-30T19:00:00+00:00",
-      "summary": "2～5歳児にインフルエンザワクチンは有効｜CareNet.com&nbsp;&nbsp;CareNet.com",
+      "summary": "2～5歳児にインフルエンザワクチンは有効｜CareNet.com&nbsp;&nbsp;carenet.com",
       "sources": [
         {
-          "name": "CareNet.com",
+          "name": "carenet.com",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nUG9PT2U1bnhvOFVGQjZwTEZaT1pnRHI5ak5fWno5WGFYSE9ZOXBKOGNXZjFLNVVjUmVqeXVRX2JudnBfWnQxRElOTWVjUzlKek5HaDNTZG1IZw?oc=5"
         }
       ]
