@@ -1,7 +1,43 @@
 {
-  "generated": "2026-09-13T15:17:37.893091+00:00",
-  "count": 28,
+  "generated": "2026-09-13T19:59:55.836703+00:00",
+  "count": 29,
   "news": [
+    {
+      "id": "c8799529787f",
+      "title": "スマホ老眼、緑内障…… 「悪い姿勢」が招く目の病気",
+      "published": "2026-09-13T15:00:00+00:00",
+      "sources": [
+        {
+          "name": "日経Gooday",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTFlXQVJuME1JeXoteURaQkdia21abDAzU1RKRWlqWUdFV2NOOW9iYS16T1h0VnNORVBFeHdmU3J6WjBycG1zMElvNlh5SnV1MUtRZDRqRkpvdUFESDljOXZsU0tEVTlLRUwwQkw1cV9DNjVLRDZabVpXVTlOVGFBVFJ5aFIzTXZVaXVveQ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "glaucoma",
+          "keyword": "緑内障",
+          "related_drugs": [
+            {
+              "slug": "atorvastatin",
+              "name": "アトーゼット配合錠ＨＤ（選）"
+            },
+            {
+              "slug": "pravastatin",
+              "name": "メバロチン錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "simvastatin",
+              "name": "リポバス錠５　５ｍｇ（選）"
+            },
+            {
+              "slug": "rosuvastatin",
+              "name": "クレストールＯＤ錠５ｍｇ（選）"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "26b422db0023",
       "title": "心不全標準治療薬の禁忌・注意点とその対処法",
@@ -2335,34 +2371,6 @@
       ]
     },
     {
-      "id": "38b78a7dc652",
-      "title": "「認知症になったらどうしよう？」と、不安でたまりません：精神科医Tomy「心のコリを解きほぐそう」：日経Gooday（グッデイ）",
-      "published": "2026-09-10T15:00:00+00:00",
-      "sources": [
-        {
-          "name": "日経Gooday",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQzlxTUZ3cmZfZ1k4OGlVRFc4UlVzajZMeXpka0FZeGlaSS12WnZDS0lSaGdyQUtZNFRfRVBsUGQ5ejNHMm9QcjM2NUxiVkJTVGRHdU1ld2pIOW9kT3RsSm1vMUtscE5PSWlhOVkwdUw4X1ZXVGViRkFuSnZmZGFyU2dHNVNLeUJXcUpIZw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "dementia",
-          "keyword": "認知症",
-          "related_drugs": [
-            {
-              "slug": "gefitinib",
-              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
-            },
-            {
-              "slug": "erlotinib",
-              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "527b76bfcb29",
       "title": "睡眠中にさらされる光、少量でも心臓病リスク上昇か　新研究(CNN.co.jp)",
       "published": "2026-09-10T09:25:00+00:00",
@@ -2589,6 +2597,34 @@
             {
               "slug": "prasugrel",
               "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "44ea23d41ec6",
+      "title": "50代は会社を離れても残る人間関係をつくる…認知症を遠ざける｢年代別の備え｣ - PRESIDENT Online（プレジデントオンライン）",
+      "published": "2026-09-09T22:15:23+00:00",
+      "sources": [
+        {
+          "name": "PRESIDENT Online（プレジデントオンライン）",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5RemhVMEtNb1ZvNmcySUEzN0x3ZHRWSlhYTDRTU2NTRVhIZU43ai1xdTN6OUw0TWZnYnJwenZSeko5YWhoQnRGa1pJcUxCSDA?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "認知症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」"
             }
           ]
         }
@@ -5034,12 +5070,12 @@
       ]
     },
     {
-      "id": "a8c309605272",
+      "id": "864bc293739c",
       "title": "徳島大、口腔がん発生の初期に「遺伝子異常の組み合わせ」が免疫を呼び起こす仕組みを解明",
       "published": "2026-09-07T12:43:26+00:00",
       "sources": [
         {
-          "name": "日経バイオテクONLINE",
+          "name": "bio.nikkeibp.co.jp",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rUjZQaW1rY3k3ZEs3N3dKcmg3a1l2dFAwNUwtRXF0SHRmdnR5V1UyZDBkbnd1RkJOcHVmYXdjdjlIalpISzhTMnFhTUE0Ui1GWXVZNWlMVU5MbzZZanZQOGlNN2M0QQ?oc=5"
         }
       ],
