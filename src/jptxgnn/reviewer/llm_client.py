@@ -26,7 +26,7 @@ class LLMClient:
         self,
         model: str | None = None,
         api_key: str | None = None,  # kept for backward compat, ignored
-        request_delay: float = 2.0,
+        request_delay: float = 8.0,
     ):
         """Initialize the LLM client.
 
@@ -34,7 +34,7 @@ class LLMClient:
             model: Optional model override (e.g. "sonnet", "opus").
                    If None, uses Claude Code's default model.
             api_key: Ignored. Kept for backward compatibility.
-            request_delay: Minimum seconds between requests (default 5).
+            request_delay: Minimum seconds between requests (default 8).
         """
         self.model = model
         self._base_delay = request_delay
@@ -90,6 +90,11 @@ class LLMClient:
             "claude", "-p",
             "--output-format", "text",
             "--verbose",
+            # 本任務純文字進出，不需要任何工具。關掉內建工具與 MCP server，
+            # 省去每次呼叫的 schema 開銷（實測空 payload 34.3K -> 11.5K token）。
+            "--tools", "",
+            "--strict-mcp-config",
+            "--mcp-config", '{"mcpServers":{}}',
         ]
 
         if self.model:
@@ -98,9 +103,7 @@ class LLMClient:
         if system_prompt:
             cmd.extend(["--system-prompt", system_prompt])
 
-        # Use claude-jaohui config directory
         env = os.environ.copy()
-        env["CLAUDE_CONFIG_DIR"] = os.path.expanduser("~/.claude-jaohui")
 
         last_error = None
         for attempt in range(max_retries):
@@ -117,9 +120,11 @@ class LLMClient:
                 )
                 if result.returncode != 0:
                     stderr = result.stderr.strip()
-                    if any(x in stderr.lower() for x in _TRANSIENT_PATTERNS):
-                        raise RuntimeError(stderr)
-                    raise RuntimeError(f"claude CLI failed (exit {result.returncode}): {stderr[:300]}")
+                    stdout = result.stdout.strip()
+                    combined = (stderr + " " + stdout).lower()
+                    if any(x in combined for x in _TRANSIENT_PATTERNS):
+                        raise RuntimeError(stderr or stdout)
+                    raise RuntimeError(f"claude CLI failed (exit {result.returncode}): {(stderr or stdout)[:300]}")
 
                 self._on_success()
                 return result.stdout.strip()
@@ -127,7 +132,7 @@ class LLMClient:
             except subprocess.TimeoutExpired as e:
                 last_error = e
                 self._on_rate_limit()
-                wait_time = min(30 * (2 ** attempt), 600)
+                wait_time = min(8 * (2 ** attempt), 600)
                 print(f"  [Retry {attempt + 1}/{max_retries}] Timeout, waiting {wait_time}s...")
                 time.sleep(wait_time)
 
@@ -136,7 +141,7 @@ class LLMClient:
                 error_str = str(e).lower()
                 if any(x in error_str for x in _TRANSIENT_PATTERNS):
                     self._on_rate_limit()
-                    wait_time = min(30 * (2 ** attempt), 600)
+                    wait_time = min(8 * (2 ** attempt), 600)
                     print(f"  [Retry {attempt + 1}/{max_retries}] {type(e).__name__}, waiting {wait_time}s...")
                     time.sleep(wait_time)
                     continue

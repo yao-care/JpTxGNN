@@ -61,7 +61,10 @@ class BaseNotesWriter(ABC):
 
         # Convert dict to JSON string for the prompt
         if isinstance(evidence_pack, dict):
-            evidence_json = json.dumps(evidence_pack, indent=2, ensure_ascii=False)
+            # query_log 是查詢 provenance，Notes Writer 的 prompt 從未引用，
+            # 卻佔 evidence pack 約 26% 體積 —— 送進 prompt 前先濾掉。
+            payload = {k: v for k, v in evidence_pack.items() if k != "query_log"}
+            evidence_json = json.dumps(payload, indent=2, ensure_ascii=False)
         else:
             evidence_json = evidence_pack
 
