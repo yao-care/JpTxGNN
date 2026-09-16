@@ -1,19 +1,91 @@
 {
   "source": "japan_news",
-  "fetched_at": "2026-09-15T20:38:59.504164+00:00",
-  "total_fetched": 165,
-  "unique_count": 165,
-  "health_related_count": 78,
+  "fetched_at": "2026-09-16T02:21:43.448977+00:00",
+  "total_fetched": 167,
+  "unique_count": 167,
+  "health_related_count": 75,
   "news": [
     {
-      "id": "b33688b75448",
-      "title": "クリーニング店で高校生の制服を引き取ると→ポケットに“予想外の折り紙”を発見！SNSで反響(LIMO)",
-      "published": "2026-09-15T19:56:16+00:00",
-      "summary": "クリーニング店に高校生の制服を引き取りに行くと…？ 制服のポケットから出てきた予想外の折り紙が、Xで話題になっています。 投稿したのは、「@kedamasato」さんです。 当ポストは執筆時点で8",
+      "id": "b4b3646bb648",
+      "title": "【セブン限定油そばも】マニア絶賛「ストーリーが凄い」汁なしカップ麺ベスト3！1位は学食で10万食の味を再現した近大まぜそば(MonoMax Web)",
+      "published": "2026-09-16T02:02:50+00:00",
+      "summary": "コンビニやスーパーの棚に並ぶ無数のカップ麺。近年は単なる「新商品」という枠を超え、開発背景に熱いストーリーを持った一杯に出会うことが多くなりました。今回は、毎日インスタントラーメンを食べ続けて40年の",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/76ecc4603e0be5380da082027b3a41682fa8f09b?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/f292b474677f09429c391c9ed0b72ef480f5a5dd?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "36372781c9df",
+      "title": "ヒトの性格やIQに、遺伝はどれくらい影響するのか？ 不安が進化するとはどういうことか(ナショナル ジオグラフィック日本版)",
+      "published": "2026-09-16T02:01:24+00:00",
+      "summary": "私たちの心は、なぜこれほど多様なのか？ 不安も共感も攻撃性も、すべては進化の中で形づくられてきた。新刊『心はどこまで進化したのか 心の個性のルーツをさぐる』（河田雅圭著、河出書房新社）から、脳と遺伝子",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/509a4e9b4a30859748b8cc196d82da531c3ad6e3?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "b3650ec72247",
+      "title": "チーズ摂取頻度が高い人ほど糖尿病有病率が低い傾向を確認 ～米国成人2,331名を解析、チーズの種類による違いも示唆～ - アットプレス",
+      "published": "2026-09-16T02:00:00+00:00",
+      "summary": "チーズ摂取頻度が高い人ほど糖尿病有病率が低い傾向を確認 ～米国成人2,331名を解析、チーズの種類による違いも示唆～&nbsp;&nbsp;アットプレス",
+      "sources": [
+        {
+          "name": "アットプレス",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBXclQ0NkRVUFdCNU83b3JvV09mSGIwV1ljU0JFUWFjalhGUGxTV20tTEtoZkt5d2xQMUlZVDNhaFJaVGtyUVVfdFFucGxLUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d2c251db7a5a",
+      "title": "新種の天体「ブラックホール星」、ウェッブ宇宙望遠鏡の観測で発見(Forbes JAPAN)",
+      "published": "2026-09-16T02:00:00+00:00",
+      "summary": "天文学者チームが、全く新しいタイプの可能性がある天体を発見した。初期宇宙に存在した、桁外れに巨大な「ブラックホール星」だ。極めて明るく輝く赤い光点として観測されるこの天体は、巨大な恒星のような外観と、",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/7bd8f8141305827229bd5d863db0b24320efa6f1?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "e359dfe396c3",
+      "title": "インフルエンザ予防接種を9月28日から開始 9月24日より予約受付 こうのす共生病院 - Newscast.jp",
+      "published": "2026-09-16T01:02:00+00:00",
+      "summary": "インフルエンザ予防接種を9月28日から開始 9月24日より予約受付 こうのす共生病院&nbsp;&nbsp;Newscast.jpインフルエンザ予防接種 ２週間前倒しで１５日から開始 岐阜・岐南町／笠松町（中京テレビＮＥＷＳ）&nbsp;&nbsp;Yahoo!ニュース予防接種の助成前倒し&nbsp;&nbsp;下野新聞社世田谷区 あすからワクチン予防接種 インフル流行入り受け&nbsp;&nbsp;東京新聞全国的にインフルエンザ感染増加傾向 岡山県内の一部自治体で高齢者対象ワクチン定期接種開始時期を前倒し&nbsp;&nbsp;FNNプライムオンライン",
+      "sources": [
+        {
+          "name": "Newscast.jp",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tTlhKT2NnRVdGQ0p5RXNUN2U0TC1mdTNTekVyOGJnVUh1ZTdIWjlfQWdmVzhwWDRaZVJUbzVxdnpjMmFYNkVKblptTTdPNUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "11d1f691aa1b",
+      "title": "寝不足の日に「甘い物」食べると危険？　実は血糖値が一気に上昇するワケ【糖尿病専門医が解説】 - ｄメニューニュース",
+      "published": "2026-09-15T22:17:04+00:00",
+      "summary": "寝不足の日に「甘い物」食べると危険？ 実は血糖値が一気に上昇するワケ【糖尿病専門医が解説】&nbsp;&nbsp;ｄメニューニュース栄養士が警告する、血糖値スパイクを起こしやすい食べ物 5（ELLE）&nbsp;&nbsp;Yahoo!ニュース高齢者の糖尿病治療、鍵は「低血糖防止」 CGM活用の個別化医療へ｜ニュース&nbsp;&nbsp;dm-net.co.jp",
+      "sources": [
+        {
+          "name": "ｄメニューニュース",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53QTNnOXBuVWV5M1VYdHkzdjN5dTRlOVpEdk14UXRRam1DT19ucUljU3VWWU1nZFJpYkFMd2J6STlfdmFoOVEzTkt3ZkxPYVpWWkpwaGZQSzAxOVBmR1NtN0xzT1N6REFlM0taRmdKNGZ0WV9qdXI0RklzUHNnQdIBgwFBVV95cUxNVThaUzhKT2luVlQ2TWNzMDlwbnVIY0RYdDJFQjhKSTJfYlBFYzEzcXBJUjVsMHc0N2EtNmZKaEdacjY0dS1QMDNxV1NnXzRFQjhFbEMwNmdKZmVXUHo5R1o3RFp4MVpSTmp1ZjU0NHBHSkI5VTVCQzJNajJ5ckpTa2FGWQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dc896cbeaab4",
+      "title": "めまいを知る（下）症状改善のカギ…寝方、水分摂取、カルシウム&ビタミンD - 日刊ゲンダイDIGITAL",
+      "published": "2026-09-15T21:00:00+00:00",
+      "summary": "めまいを知る（下）症状改善のカギ…寝方、水分摂取、カルシウム&ビタミンD&nbsp;&nbsp;日刊ゲンダイDIGITAL",
+      "sources": [
+        {
+          "name": "日刊ゲンダイDIGITAL",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCbUkzT2Nrc3JjNGd4RVdNU1V2ZFBBbUg3OUprQ0xXckJCRVBzajRVUHhrTXpFUkpzajY1NEVFdkd2TlFTLWUtcXdqWWduclhQQ1RXV24zTlItbVo0LUM1Z1g1NGcyZGh1?oc=5"
         }
       ]
     },
@@ -26,42 +98,6 @@
         {
           "name": "CareNet.com",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pZG9LeVhPUEtpLWdheGtKMl9pN2Zubi1ySUI5TXRGTmpDNmJhVjktNjBPNnl3MEhjZVc4WFd4dWNUbW9tZE9LcUpvanQ1YllxOE05LV9pYmxQV2lMb0hR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "34baa5980cbc",
-      "title": "「さすがにタフ」「持ってて損なし」　“スマホ連携できる”G-SHOCKが高評価　「珍しい色だったので一目惚れ」「普段使いとしても支障ない」(ねとらぼ)",
-      "published": "2026-09-15T14:30:00+00:00",
-      "summary": "タフな腕時計に健康管理や運動計測の機能も求めたい人に注目してほしいのが、G-SHOCKの「DW-H5600-2JR」です。G-SHOCKらしい角型デザインに、心拍計測や睡眠計測、スマートフォン連携を",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/65649f6a9f08960e6052cb111dda10ed58486833?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "c12d1c1ecf12",
-      "title": "川べりの土を皿に入れ、水で丁寧に洗ったら……　驚きの発見に「こんなに小さいの!?」「途方もない夢」(ねとらぼ)",
-      "published": "2026-09-15T13:05:00+00:00",
-      "summary": "日本の川で“砂金”が本当に採れるのかを調査した動画がYouTubeで話題です。記事執筆時点で24万8000回以上再生され、4100件を超える高評価を獲得しています。 動画を投稿したのは、YouT",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/a900a1a2ae2013f885d005bb86b75ba1d805c783?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "04961472f4c3",
-      "title": "「王女ではなく、一般学生として」19歳スペイン・ソフィア王女が宮殿を離れ、フランスへ向かった理由(フィガロジャポン)",
-      "published": "2026-09-15T13:00:21+00:00",
-      "summary": "2007年4月29日、ソフィア王女はマドリードのルーベル・インターナシオナル病院で、フェリペ6世とレティシア王妃の次女として誕生した。姉にはいつの日かスペインの君主となるレオノール王女がいる。そして彼",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/904ec68dc9369db3f573c98a0f960dea0ff8e5e9?source=rss"
         }
       ]
     },
@@ -86,18 +122,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/99a8ebacf1bacd244506f2fade68c71180f56d50?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "5be4023e4ae4",
-      "title": "墨田区、インフル予防接種を前倒し 異例の早期流行で - すみだ経済新聞",
-      "published": "2026-09-15T09:53:59+00:00",
-      "summary": "墨田区、インフル予防接種を前倒し 異例の早期流行で&nbsp;&nbsp;すみだ経済新聞川崎市 インフルエンザの早期流行で高齢者らワクチン接種1週間前倒しで開始（tvkニュース（テレビ神奈川））&nbsp;&nbsp;Yahoo!ニュース予防接種の助成前倒し&nbsp;&nbsp;下野新聞社インフルエンザ予防接種 ２週間前倒しで１５日から開始 岐阜・岐南町／笠松町（2026年9月14日掲載）&nbsp;&nbsp;news.ntv.co.jp全国的にインフルエンザ感染増加傾向 岡山県内の一部自治体で高齢者対象ワクチン定期接種開始時期を前倒し&nbsp;&nbsp;FNNプライムオンライン",
-      "sources": [
-        {
-          "name": "すみだ経済新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jLUl5c1R1eDlBbFJtekNPRFhsU1NOeURZM2plSkE2UXAycHJhTWpiLWpWWFhneHYzNVd3UkNOWTdYN1VOeUM5TkM1TmxIREkzNEE?oc=5"
         }
       ]
     },
@@ -194,6 +218,18 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/bf5e25681e42a61cd2de20e9c16334978743a227?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "76bef215d308",
+      "title": "3歳の男の子が実験的治療により肝臓がんから完全に回復 - Futuro Prossimo",
+      "published": "2026-09-15T06:03:32+00:00",
+      "summary": "3歳の男の子が実験的治療により肝臓がんから完全に回復&nbsp;&nbsp;Futuro Prossimo",
+      "sources": [
+        {
+          "name": "Futuro Prossimo",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTnhvdzI3djFGbXNJOXRna24tNjZTaGhsOTRzbk9kcVZyUkRhTFZHS3ZPX2dma0xpYUxuN000dEVsUUk1RVNUWGEzeGtNT1NGek1FZGJQZ2NULXBobG4wZHFaelJRQUhtQVFrZG1fcUpvWEw0clVfVkh2N2syUFppcjFkTlNGRWdpbmJ1Y3g3LXMwU2FUYk1TMXFyc0Ztd2I4cW5TTjBETWZzdFpiREZIZQ?oc=5"
         }
       ]
     },
@@ -318,18 +354,6 @@
       ]
     },
     {
-      "id": "464662a4e2c0",
-      "title": "米国ではしか大流行、保健福祉長官が拡大させたのか - ｄメニューニュース",
-      "published": "2026-09-15T00:33:00+00:00",
-      "summary": "米国ではしか大流行、保健福祉長官が拡大させたのか&nbsp;&nbsp;ｄメニューニュース米国で今年3人目の麻疹死亡例、ワクチン懐疑論背景に感染再拡大（ＡＦＰ＝時事）&nbsp;&nbsp;Yahoo!ニュース成人女性がはしかの合併症で死亡、米ペンシルベニア州で感染が急拡大&nbsp;&nbsp;CNN.co.jp",
-      "sources": [
-        {
-          "name": "ｄメニューニュース",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTnBXV0FadUVrakQyZEZEdFpuM21wOVNia1pZbUhmVUFNTjM3VFpjUDBibnlpNlotQkFieFBCZUtRVno3cUY4bVVYc3FBM2VVankyNUNNZ1paNjhZZXJEcURPa2duOVQ4RVY2Rjl2VU42VWlzNGJJbWNwR3pSeFVBcDZVYWRnXzDSAYwBQVVfeXFMTl9kMGhZTmxxZlpwYWJycFFEcFR3eE83dWh0M3ZVblM5Yl9ScDJIOWQxMXR2U3JLT3lPTEdqbGJTUHVPYXZiRHBwR0tSZWQwZmhfUHpyX0xOMDVqQzdNcXRkQ3NuejZxMDN4bjZzdmRvZEhKYXZzbzdGSWh5MzVPQmZ0WTFiTE5wZWFkMWo?oc=5"
-        }
-      ]
-    },
-    {
       "id": "1cb75f993f36",
       "title": "NTM症を正しく知って 啓発週間(9月24～30日)、今年から 学会と秋野氏、厚労省に取り組み報告 2026.9.15付 - 公明新聞電子版プラス",
       "published": "2026-09-14T23:30:13+00:00",
@@ -338,6 +362,18 @@
         {
           "name": "公明新聞電子版プラス",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5uSFNDcnE4OGlmTk9yc0VTWVpqVVFzRWtXMUZ2UjV2bFBqZXNXT3IxcEEycFIyOHlQLWgyQWd1M3VnZndOeC1HUHZLTjZhend4aHJPSkEtdUNsWWprSWtUeENyNmM1ekhPc2xhSG1B?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "471e596a2517",
+      "title": "幼児期の気質の変化、ADHDや自閉症の診断されやすさと関連 - たーとるうぃず",
+      "published": "2026-09-14T22:41:25+00:00",
+      "summary": "幼児期の気質の変化、ADHDや自閉症の診断されやすさと関連&nbsp;&nbsp;たーとるうぃず",
+      "sources": [
+        {
+          "name": "たーとるうぃず",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qV2E1YWdpR2xsMlNhMUp3UkYtUTFVNC1OUUVRTFRzS1FZbDRkcS1MYkFNUmpkZVhpeXNqNnJaU2JXN3pmbGI0ZU9zSlNlZVJK?oc=5"
         }
       ]
     },
@@ -398,18 +434,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/081dd2dfda459c630ee41a6e2473dcd4f4454c5c?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "2690e5bf22b2",
-      "title": "遺伝学研究所など、3次元カーボン電極を集積した光起電力型人工網膜を開発 - optronics-media.com",
-      "published": "2026-09-14T09:21:48+00:00",
-      "summary": "遺伝学研究所など、3次元カーボン電極を集積した光起電力型人工網膜を開発&nbsp;&nbsp;optronics-media.comGoogle ニュースで見出しと意見をもっと見る",
-      "sources": [
-        {
-          "name": "optronics-media.com",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFByckZMMExMUnY1eFN1YW9CTTRxUWczbnRHSHFxYWtycEFBM2ZsaGc0TnRLcjNxeUQtcWx0d1RBWHQyMkdIOFRGRFFjRjVzbnV0SlpfVUFoMWlLRTRCQWc?oc=5"
         }
       ]
     },
@@ -558,14 +582,14 @@
       ]
     },
     {
-      "id": "372e18991c6e",
-      "title": "失明マウスの視力回復に成功、若返りブームの震源となった研究者 - ASCII.jp",
-      "published": "2026-09-13T21:27:00+00:00",
-      "summary": "失明マウスの視力回復に成功、若返りブームの震源となった研究者&nbsp;&nbsp;ASCII.jp",
+      "id": "752ced20aa93",
+      "title": "失明マウスの視力回復に成功、 若返りブームの震源となった研究者 - technologyreview.jp",
+      "published": "2026-09-13T21:27:39+00:00",
+      "summary": "失明マウスの視力回復に成功、 若返りブームの震源となった研究者&nbsp;&nbsp;technologyreview.jp",
       "sources": [
         {
-          "name": "ASCII.jp",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBsMW9Ja2pqYl9qUXdsUzdLc3ljTlA5YWR1M0NoSS1CUzlrUDg2NHNFd3NwdWVRdG9jZHhHWDZmTmNyeHV5QWlYTjhDMjQzcU1mSkhFaQ?oc=5"
+          "name": "technologyreview.jp",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeXNuNUdaTUpOcjcwRGh4bkhWSUdtaVFzYk9FNmFleVBpaktnRVd4RFVJTVNTT2pEZW5pNVVGSVkyNkpEMW95TFlWV2FPYWREWWxvYUVLQi1ZZGJfWjZwX1NtWGF4c1hKZEhKTm1MYjUzNG9aVzlZZEduNWlheF9tOUd6TTY0YTFxR3FhWTloRWl4Vm96cnVsWDBqSTVFOEVhLXhN?oc=5"
         }
       ]
     },
@@ -666,18 +690,6 @@
       ]
     },
     {
-      "id": "80af30687005",
-      "title": "がん治療のCAR-Tをアレルギー治療に応用、マウス実験で炎症抑制を確認(Forbes JAPAN)",
-      "published": "2026-09-12T04:00:00+00:00",
-      "summary": "がん治療のために開発された技術が、重度のアレルギー患者の治療にも活用できる可能性が示唆された。マウスを使ったアレルギー治療研究で、免疫反応を抑制する働きを持つ細胞を改変して活用したところ、アレルギー性",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/6ec06bf407f5c6dd0d41e860ac186b8607aafbe9?source=rss"
-        }
-      ]
-    },
-    {
       "id": "481ad9c5cb2f",
       "title": "サルコペニアの原因に乳酸が関与 根本的な治療薬の開発に期待 - 毎日新聞",
       "published": "2026-09-12T00:00:00+00:00",
@@ -726,26 +738,14 @@
       ]
     },
     {
-      "id": "7a66e577ee34",
-      "title": "船橋のすぎおかクリニック院長・循環器内科医が新刊 動悸・不整脈をテーマに - funabashi.keizai.biz",
+      "id": "055f16c5b3b4",
+      "title": "船橋のすぎおかクリニック院長・循環器内科医が新刊 動悸・不整脈をテーマに - 船橋経済新聞",
       "published": "2026-09-11T09:39:05+00:00",
-      "summary": "船橋のすぎおかクリニック院長・循環器内科医が新刊 動悸・不整脈をテーマに&nbsp;&nbsp;funabashi.keizai.biz",
+      "summary": "船橋のすぎおかクリニック院長・循環器内科医が新刊 動悸・不整脈をテーマに&nbsp;&nbsp;船橋経済新聞",
       "sources": [
         {
-          "name": "funabashi.keizai.biz",
+          "name": "船橋経済新聞",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJZDNXTHhrcVhneC1oNGpBdGpDaTRCSVJqcnZEZDFwaE01V01Ec1R2THZQdGs5eE12VFRzWmt4eTRvSml0RW03SThRMTdVWVp0cEM4eFNB?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fc429b4abab2",
-      "title": "子宮頸がん検診を動画でＰＲ 岡山市、若者の受診率向上へ - 山陽新聞",
-      "published": "2026-09-11T06:03:00+00:00",
-      "summary": "子宮頸がん検診を動画でＰＲ 岡山市、若者の受診率向上へ&nbsp;&nbsp;山陽新聞Google ニュースで見出しと意見をもっと見る",
-      "sources": [
-        {
-          "name": "山陽新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1sVE5zOHdjSEd2N2p0T05iWjRzaFR2eWN0MmhPTEtQUl9DdHFPc2VCME5ReFRpejQ5VHh1Ym11VzA2ODQtMWFkRTFkS3E4cWlPSEE?oc=5"
         }
       ]
     },
@@ -774,26 +774,14 @@
       ]
     },
     {
-      "id": "b0d016895c85",
-      "title": "出生時の低アディポネクチン、将来のADHD症状増悪と関連－NCNPほか - qlifepro.com",
+      "id": "bf020e7a51bb",
+      "title": "出生時の低アディポネクチン、将来のADHD症状増悪と関連－NCNPほか - QLifePro",
       "published": "2026-09-11T00:20:00+00:00",
-      "summary": "出生時の低アディポネクチン、将来のADHD症状増悪と関連－NCNPほか&nbsp;&nbsp;qlifepro.com",
+      "summary": "出生時の低アディポネクチン、将来のADHD症状増悪と関連－NCNPほか&nbsp;&nbsp;QLifePro",
       "sources": [
         {
-          "name": "qlifepro.com",
+          "name": "QLifePro",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56ektpUXl6YVR6OHlwNjlialBuZmJkaS1BdnBmVEY2Sjh0YzA5Slp2Rkk0SGFwUnAyRDNOelZpcUZIeWxfNmpiamc4QndYalc3LUM2QmNmb1R1SUlHVkNPMm1sYVNULXVlSExZ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "19cbe554fa17",
-      "title": "第67回「精神医療ダークサイド」最新事情 「心的外傷」が認知されて30年余り - 集中出版",
-      "published": "2026-09-11T00:00:13+00:00",
-      "summary": "第67回「精神医療ダークサイド」最新事情 「心的外傷」が認知されて30年余り&nbsp;&nbsp;集中出版Google ニュースで見出しと意見をもっと見る",
-      "sources": [
-        {
-          "name": "集中出版",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pbEt1Q0ZMWnVranNHaVdhY2x1d1FDZzFyek9BWndXYVNhbHJzQTJPVENUYkFrdGthM0lrTUJJWXVBc2VCT3FmUURNVVR5X1RfZk9vVkV6V2hJOTRXVlM3SF8zd2o5b2F6T3gw?oc=5"
         }
       ]
     },
@@ -858,14 +846,14 @@
       ]
     },
     {
-      "id": "94f42d6a3c8e",
-      "title": "【新製品】咳に効く五つの成分配合‐「ジキニン」から新製品 全薬工業 - sudoh.co.jp",
-      "published": "2026-09-09T22:54:47+00:00",
-      "summary": "【新製品】咳に効く五つの成分配合‐「ジキニン」から新製品 全薬工業&nbsp;&nbsp;sudoh.co.jp",
+      "id": "e193f7e10a8b",
+      "title": "｢疲れたら甘いもの｣は大誤解…糖尿病で認知症リスク2倍 甘党でも間に合う血糖値スパイクの抑え方 - PRESIDENT Online（プレジデントオンライン）",
+      "published": "2026-09-09T22:51:00+00:00",
+      "summary": "｢疲れたら甘いもの｣は大誤解…糖尿病で認知症リスク2倍 甘党でも間に合う血糖値スパイクの抑え方&nbsp;&nbsp;PRESIDENT Online（プレジデントオンライン）「アルツハイマー病の芽」が見つかっても、遅くない！15年間の追跡で見えた、食事と認知症リスク3割減の関連&nbsp;&nbsp;newspicks.com医師が勧める、認知症予防に効果的な「腸内環境を整えるスープ」&nbsp;&nbsp;千葉テレビ放送株式会社",
       "sources": [
         {
-          "name": "sudoh.co.jp",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZdDJqT3dNd0ctWVRkb3djNGxxSUZRSjk2UlJhMF9kYndMV3hhU1pJSmhsLWxLbDA2QVhBam1GcFNvVENEdExyVnlodXRFZDdoZFhV?oc=5"
+          "name": "PRESIDENT Online（プレジデントオンライン）",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96QUE3TTJ6dHlkZ1RmUmNhSWRBLXQwV0ZsZk0tSFFJRFd2TzJjcElEN3NNQ1FtNGhTbFM2eEdDLXE1YklNZ2k1WlozVWhYWlhYZERxUUFENnI?oc=5"
         }
       ]
     },
@@ -873,7 +861,7 @@
       "id": "91d98647b4bd",
       "title": "（3）血液型でクスリの効果や副作用が異なる？ 心筋梗塞やがんの薬の研究で判明｜血液型と病気の今 - 日刊ゲンダイDIGITAL",
       "published": "2026-09-09T21:00:00+00:00",
-      "summary": "（3）血液型でクスリの効果や副作用が異なる？ 心筋梗塞やがんの薬の研究で判明｜血液型と病気の今&nbsp;&nbsp;日刊ゲンダイDIGITAL（2）感染症と深い関係…新型コロナにかかりやすい血液型は？｜血液型と病気の今&nbsp;&nbsp;日刊ゲンダイDIGITAL感染症と深い関係…新型コロナにかかりやすい血液型は？【血液型と病気の今】#2&nbsp;&nbsp;news.infoseek.co.jp",
+      "summary": "（3）血液型でクスリの効果や副作用が異なる？ 心筋梗塞やがんの薬の研究で判明｜血液型と病気の今&nbsp;&nbsp;日刊ゲンダイDIGITAL感染症と深い関係…新型コロナにかかりやすい血液型は？【血液型と病気の今】#2&nbsp;&nbsp;Infoseek",
       "sources": [
         {
           "name": "日刊ゲンダイDIGITAL",
@@ -885,7 +873,7 @@
       "id": "133e26f0cfd9",
       "title": "手足口病の現状を解説／感染症クォータリーレポート｜CareNet.com - CareNet.com",
       "published": "2026-09-09T19:00:00+00:00",
-      "summary": "手足口病の現状を解説／感染症クォータリーレポート｜CareNet.com&nbsp;&nbsp;CareNet.com手足口病の予防を積極的に行う。&nbsp;&nbsp;vietnam.vn警告：手足口病は9月と10月に増加する見込みです。&nbsp;&nbsp;vietnam.vn",
+      "summary": "手足口病の現状を解説／感染症クォータリーレポート｜CareNet.com&nbsp;&nbsp;CareNet.com手足口病の予防を積極的に行う。&nbsp;&nbsp;Vietnam.vn警告：手足口病は9月と10月に増加する見込みです。&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "CareNet.com",
@@ -906,18 +894,6 @@
       ]
     },
     {
-      "id": "6b0856490452",
-      "title": "細胞のストレス応答異常がタウ蓄積を促進する仕組みを発見－アルツハイマー病関連酵素MARK4の新機能を解明 - kyodonewsprwire.jp",
-      "published": "2026-09-09T05:00:00+00:00",
-      "summary": "細胞のストレス応答異常がタウ蓄積を促進する仕組みを発見－アルツハイマー病関連酵素MARK4の新機能を解明&nbsp;&nbsp;kyodonewsprwire.jp",
-      "sources": [
-        {
-          "name": "kyodonewsprwire.jp",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKQ2UyNFFRRWhnZnU4R3VhdVpQWTlvSXNlQ1U2Rk40TE9qMTRGQTNld1c2VTNqR2xSbzZ1aXlHZXA4dk9fWmJ2VWlnSmR1bzFYa1hwdkxrak1EZ2c?oc=5"
-        }
-      ]
-    },
-    {
       "id": "e3ebee014021",
       "title": "「座りっぱなしの時間」が増えるとがんリスクが高まるが軽い運動で中断するとリスクが軽減される可能性 - ライブドアニュース",
       "published": "2026-09-09T03:03:00+00:00",
@@ -926,18 +902,6 @@
         {
           "name": "ライブドアニュース",
           "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CVGJjSkxfakVCbWN0NDFSc1NZalM4OE9ETnBSdDdXekdVeEkzV0xOUUJVVWU3akZ4cWRSUE5XeFdkRG40aDlfei1vUVdSaTd2LVV6S1FDTUE4bUowbzlj?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cd8c7aa024ec",
-      "title": "「卵」を食べる頻度が高いほど認知症の発症リスクが低くなる｜クスリ社会を正しく暮らす - 日刊ゲンダイDIGITAL",
-      "published": "2026-09-08T21:00:00+00:00",
-      "summary": "「卵」を食べる頻度が高いほど認知症の発症リスクが低くなる｜クスリ社会を正しく暮らす&nbsp;&nbsp;日刊ゲンダイDIGITAL｢疲れたら甘いもの｣は大誤解…糖尿病で認知症リスク2倍 甘党でも間に合う血糖値スパイクの抑え方&nbsp;&nbsp;PRESIDENT Online（プレジデントオンライン）《“細胞から若返る”食習慣》健康物質「ポリアミン」の減少を食い止めて認知症を予防、健康寿命も延ばす&nbsp;&nbsp;news.infoseek.co.jp「アルツハイマー病の芽」が見つかっても、遅くない！15年間の追跡で見えた、食事と認知症リスク3割減の関連&nbsp;&nbsp;newspicks.com",
-      "sources": [
-        {
-          "name": "日刊ゲンダイDIGITAL",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0MFlTaFpiclVLSWVicUFGUzB5U0F6S3BXcUdyVmJybU1DWGpMaldrOU8zY1JHRWZQMkkwSF9pNVppLXduYm1jWkZGLTg1OUlESk5UcjFLUTUzSzYtS01vNXZpc20xLUQw?oc=5"
         }
       ]
     }
