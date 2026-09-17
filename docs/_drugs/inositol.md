@@ -45,7 +45,7 @@ TxGNN 模型預測它可能對 **Familial Hypercholesterolemia** (家族性高�
 | 予測新適応症 | Familial Hypercholesterolemia |
 | TxGNN 予測スコア | 99.47% |
 | エビデンスレベル | L3 |
-| 日本上市 | 已上市(部分已註銷) |
+| 日本上市 | Marketed(部分已註銷) |
 | 承認数 | 404 張(多數已註銷) |
 | 推奨判断 | Consider |
 

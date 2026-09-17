@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lamivudine
-parent: 僅模型預測 (L5)
+parent: モデル予測のみ
 nav_order: 78
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Lamivudine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+エビデンスレベル: **L5** | 予測適応症: **10** 件
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 目次
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 薬剤師評価レポート
 
 </div>
 
@@ -41,7 +41,7 @@ indication_count: 10
 
 ## 一言要約
 
-ラミブジン（Lamivudine、3TC、DrugBank: DB00709）は核酸系逆転写酵素阻害薬（NRTI）として世界的に HIV 感染症および B 型肝炎ウイルス（HBV）感染症の標準治療に使用されていますが、**日本では現在未承認・未上市**の状態です。TxGNN モデルは第 1 位の予測として**サル免疫不全ウイルス感染（Simian Immunodeficiency Virus Infection）** への有効性を示しており（スコア 99.93%、全体順位 225）、これは SIV 逆転写酵素と HIV-1 RT の高度な構造相同性に裏付けられた機序的予測です。当該適応症への**臨床試験の登録はなく**、**20 編の動物・試験管内研究**がエビデンスを構成しており（レベル L3）、一方で同予測リスト第 6 位の **HBV 感染症は複数の Phase 3 RCT を持つ L1 エビデンス**（推奨：Proceed with Guardrails）として最も臨床的優先度の高い候補となっています。
+ラミブジン（Lamivudine、3TC、DrugBank: DB00709）は核酸系逆転写酵素阻害薬（NRTI）として世界的に HIV 感染症および B 型肝炎ウイルス（HBV）感染症の標準治療に使用されていますが、**日本では現在未承認・Not marketed**の状態です。TxGNN モデルは第 1 位の予測として**サル免疫不全ウイルス感染（Simian Immunodeficiency Virus Infection）** への有効性を示しており（スコア 99.93%、全体順位 225）、これは SIV 逆転写酵素と HIV-1 RT の高度な構造相同性に裏付けられた機序的予測です。当該適応症への**臨床試験の登録はなく**、**20 編の動物・試験管内研究**がエビデンスを構成しており（レベル L3）、一方で同予測リスト第 6 位の **HBV 感染症は複数の Phase 3 RCT を持つ L1 エビデンス**（推奨：Proceed with Guardrails）として最も臨床的優先度の高い候補となっています。
 
 ---
 
@@ -53,7 +53,7 @@ indication_count: 10
 | 予測新規適応症（第 1 位） | サル免疫不全ウイルス感染 (Simian Immunodeficiency Virus Infection) |
 | TxGNN 予測スコア | 99.93%（全体順位 225） |
 | エビデンスレベル | L3（動物研究・観察研究） |
-| 日本市販状況 | ✗ 未上市 |
+| 日本市販状況 | ✗ Not marketed |
 | 承認番号数 | 0 件 |
 | 推奨決定 | Research Question |
 

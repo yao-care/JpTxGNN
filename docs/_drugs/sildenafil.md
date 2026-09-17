@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Sildenafil
-parent: 僅模型預測 (L5)
+parent: 中エビデンスレベル
 nav_order: 127
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Sildenafil
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+エビデンスレベル: **L3** | 予測適応症: **10** 件
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 目次
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 薬剤師評価レポート
 
 </div>
 
@@ -37,7 +37,7 @@ Using `txgnn-pipeline` to frame this as a TxGNN drug repurposing evaluation cont
 
 ## 一言要約
 
-シルデナフィルは PDE5（ホスホジエステラーゼ5型）阻害薬として、世界的に勃起不全および肺動脈性肺高血圧症の治療に使用されていますが、日本では現時点で未承認・未上市です。
+シルデナフィルは PDE5（ホスホジエステラーゼ5型）阻害薬として、世界的に勃起不全および肺動脈性肺高血圧症の治療に使用されていますが、日本では現時点で未承認・Not marketedです。
 TxGNN モデルは計 10 の新規適応症を予測しており、そのなかで**遺伝性脱毛症 (Genetic Alopecia)** が唯一、実際の臨床試験エビデンスを持つ最有力候補として浮上しています。
 現在 **2 件の臨床試験**と **1 編の文献**がこの方向性を直接支持しています。
 
@@ -51,7 +51,7 @@ TxGNN モデルは計 10 の新規適応症を予測しており、そのなか�
 | 予測新規適応症（最有力） | 遺伝性脱毛症 (Genetic Alopecia) |
 | TxGNN 予測スコア | 75.03% |
 | エビデンスレベル | L3 |
-| 日本市販状況 | 未上市 |
+| 日本市販状況 | Not marketed |
 | 承認番号数 | 0 件 |
 | 推奨決定 | Proceed with Guardrails |
 

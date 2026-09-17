@@ -43,7 +43,7 @@ Salicylamide 原本用於解熱鎮痛。TxGNN 模型預測它可能對**普通�
 | 予測新適応症 | 普通感冒 (common cold)、咽炎 (pharyngitis) |
 | TxGNN 予測スコア | 99.93% (咽炎)、99.26% (普通感冒) |
 | エビデンスレベル | L4 |
-| 日本上市 | 已上市 |
+| 日本上市 | Marketed |
 | 承認数 | 119 張（多數已註銷，仍有有效許可證） |
 | 推奨判断 | Worth Exploring |
 

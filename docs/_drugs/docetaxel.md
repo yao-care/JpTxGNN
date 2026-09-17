@@ -45,7 +45,7 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 | 予測新適応症 | 女性乳腺癌 (female breast carcinoma) |
 | TxGNN 予測スコア | 99.90% |
 | エビデンスレベル | L1 |
-| 日本上市 | 已上市 |
+| 日本上市 | Marketed |
 | 承認数 | 多張 |
 | 推奨判断 | Proceed |
 

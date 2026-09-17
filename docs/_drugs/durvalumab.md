@@ -45,7 +45,7 @@ TxGNN 模型預測它可能對**泌尿道上皮癌 (urothelial carcinoma)** 相�
 | 予測新適応症 | 前列腺尿道泌尿道上皮癌 (prostatic urethra urothelial carcinoma) |
 | TxGNN 予測スコア | 99.98% |
 | エビデンスレベル | L3 |
-| 日本上市 | 已上市 |
+| 日本上市 | Marketed |
 | 承認数 | 13 張 |
 | 推奨判断 | Proceed with Guardrails |
 

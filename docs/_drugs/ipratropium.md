@@ -43,7 +43,7 @@ Ipratropium（溴化伊普托品）是一種抗膽鹼支氣管擴張劑，用於
 | 予測新適応症 | 阻塞性肺疾病 (obstructive lung disease) |
 | TxGNN 予測スコア | 99.97% |
 | エビデンスレベル | L1 |
-| 日本上市 | 已上市 |
+| 日本上市 | Marketed |
 | 承認数 | 多張 |
 | 推奨判断 | Validate |
 

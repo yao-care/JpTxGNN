@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Bisoprolol
-parent: 僅模型預測 (L5)
+parent: 高エビデンスレベル
 nav_order: 25
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Bisoprolol
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+エビデンスレベル: **L2** | 予測適応症: **10** 件
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 目次
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 薬剤師評価レポート
 
 </div>
 
@@ -45,7 +45,7 @@ indication_count: 10
 | 主要予測新規適応症 | 慢性肺性心疾患（Chronic Pulmonary Heart Disease） |
 | TxGNN 予測スコア | 98.63% |
 | エビデンスレベル | L2 |
-| 日本市販状況 | ✗ 未上市（承認情報なし） |
+| 日本市販状況 | ✗ Not marketed（承認情報なし） |
 | 承認番号数 | 0 件 |
 | 推奨決定 | Proceed with Guardrails |
 
@@ -118,7 +118,7 @@ indication_count: 10
 
 ## 日本市販情報
 
-本エビデンスパックの PMDA 照会（2026-03-10）では承認情報が取得できませんでした（承認件数 0 件、市販状況：未上市）。
+本エビデンスパックの PMDA 照会（2026-03-10）では承認情報が取得できませんでした（承認件数 0 件、市販状況：Not marketed）。
 
 > **注意**：ビソプロロールは海外では心不全・高血圧・狭心症の適応症で広く承認されており（CIBIS-II 試験など）、日本国内でも「メインテート®」等の商品名で汎用されていることが本エビデンスパック内の複数文献から確認されます（例：PMID 34083113 に日本発のビソプロロール経皮パッチ研究）。PMDA データ取得 0 件はデータ収集の技術的問題である可能性が高く、再確認を強く推奨します。
 

@@ -45,7 +45,7 @@ TxGNN 模型預測它可能對**馬尾症候群 (Cauda Equina Syndrome)** 及**�
 | 予測新適応症 | Cauda Equina Syndrome（馬尾症候群） |
 | TxGNN 予測スコア | 99.99% |
 | エビデンスレベル | L5 |
-| 日本上市 | 已上市 |
+| 日本上市 | Marketed |
 | 承認数 | 317 張 |
 | 推奨判断 | Hold |
 

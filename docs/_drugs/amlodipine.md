@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Amlodipine
-parent: 僅模型預測 (L5)
+parent: モデル予測のみ
 nav_order: 15
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Amlodipine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+エビデンスレベル: **L5** | 予測適応症: **10** 件
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 目次
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 薬剤師評価レポート
 
 </div>
 
@@ -45,7 +45,7 @@ indication_count: 10
 | TxGNN 第 1 位予測 | 脳幹梗塞 (Brain Stem Infarction)（スコア 99.94%、エビデンスなし） |
 | 最高エビデンス予測適応症 | **脳出血 (Intracerebral Hemorrhage)**（スコア 99.79%） |
 | エビデンスレベル | **L2**（脳出血：Phase 3 完了 RCT あり） |
-| 日本市販状況 | ✗ 未上市 |
+| 日本市販状況 | ✗ Not marketed |
 | 承認番号数 | 0 件 |
 | 推奨決定 | **Proceed with Guardrails**（脳出血）|
 

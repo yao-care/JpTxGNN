@@ -43,7 +43,7 @@ Regorafenib 是一種多標靶激酶抑制劑，原本用於轉移性大腸直�
 | 予測新適応症 | 脂肪肉瘤 (Liposarcoma) |
 | TxGNN 予測スコア | 99.76% |
 | エビデンスレベル | L2 |
-| 日本上市 | 已上市 |
+| 日本上市 | Marketed |
 | 承認数 | 1 張 |
 | 推奨判断 | Proceed with Guardrails |
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Rabeprazole
-parent: 僅模型預測 (L5)
+parent: モデル予測のみ
 nav_order: 120
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Rabeprazole
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+エビデンスレベル: **L5** | 予測適応症: **10** 件
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 目次
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 薬剤師評価レポート
 
 </div>
 
@@ -51,7 +51,7 @@ TxGNN モデルが最上位の新規適応症として予測しているのは**
 | 予測新規適応症 | 燻性系統性肥満細胞症 (Smouldering Systemic Mastocytosis) |
 | TxGNN 予測スコア | 99.44% |
 | エビデンスレベル | L5（直接的な臨床・文献エビデンスなし） |
-| 日本市販状況 | ✗ 未上市（PMDA クエリ：0 件） |
+| 日本市販状況 | ✗ Not marketed（PMDA クエリ：0 件） |
 | 承認番号数 | 0 件 |
 | 推奨決定 | Hold |
 
@@ -81,7 +81,7 @@ TxGNN モデルが最上位の新規適応症として予測しているのは**
 
 ## 日本市販情報
 
-PMDA クエリ（2026-03-10）においてラベプラゾールの日本承認情報は確認されませんでした（結果：0 件、市販状況：未上市）。
+PMDA クエリ（2026-03-10）においてラベプラゾールの日本承認情報は確認されませんでした（結果：0 件、市販状況：Not marketed）。
 
 ラベプラゾールはグローバルでは Pariet®（エーザイ）等の商品名で消化性潰瘍・GERD 治療薬として複数国で承認されています。日本での承認実績については PMDA データの取得状況を再確認することを推奨します（Data Gap DG001 参照）。
 

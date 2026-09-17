@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Sucralfate
-parent: 僅模型預測 (L5)
+parent: 中エビデンスレベル
 nav_order: 132
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Sucralfate
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+エビデンスレベル: **L3** | 予測適応症: **10** 件
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 目次
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 薬剤師評価レポート
 
 </div>
 
@@ -45,7 +45,7 @@ indication_count: 10
 | 予測新規適応症 | 十二指腸胃逆流 (Duodenogastric Reflux) |
 | TxGNN 予測スコア | 99.37% |
 | エビデンスレベル | L3 |
-| 日本市販状況 | 未上市 |
+| 日本市販状況 | Not marketed |
 | 承認番号数 | 0 件 |
 | 推奨決定 | Proceed with Guardrails |
 
@@ -100,7 +100,7 @@ indication_count: 10
 **進める場合に必要なもの：**
 - DrugBank API 経由で詳細な作用機序データ（MOA）を取得
 - PMDA 仿単（または国際添付文書）より警告・禁忌・薬物相互作用データを取得
-- 日本における規制戦略の検討（未上市薬の適応外使用 vs 新規承認申請のいずれかを選択）
+- 日本における規制戦略の検討（Not marketed薬の適応外使用 vs 新規承認申請のいずれかを選択）
 - 現代的な DGR 診断基準（24 時間胆汁モニタリング・インピーダンス測定）に基づく新規 RCT の設計
 - 既存 RCT（1985・1992 年）は小規模・旧来の設計であるため、現代基準での再確認が必要
 ## 免責事項

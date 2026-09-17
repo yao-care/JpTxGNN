@@ -17,6 +17,28 @@ class ValidationError(Exception):
     pass
 
 
+# --- 站台設定：主管機關名稱（原本寫死 TFDA，導致各國 evidence pack 都出現台灣字串）---
+_AGENCY_FALLBACK = {
+    "DkTxGNN": "Lægemiddelstyrelsen", "NlTxGNN": "CBG-MEB",
+    "ZaTxGNN": "SAHPRA", "TwTxGNN": "TFDA",
+}
+
+
+def _site_agency() -> str:
+    """回傳本站主管機關名稱。優先讀 config/fields.yaml 的 regulatory_agency。"""
+    import re as _re
+    root = Path(__file__).resolve().parents[3]
+    cfg = root / "config" / "fields.yaml"
+    if cfg.exists():
+        m = _re.search(r'^\s*regulatory_agency\s*:\s*["\']?([^"\'#\n]+)', cfg.read_text(encoding="utf-8"), _re.M)
+        if m and m.group(1).strip():
+            return m.group(1).strip()
+    return _AGENCY_FALLBACK.get(root.name, "the national regulator")
+
+
+SITE_AGENCY = _site_agency()
+
+
 class DrugEvidencePackGenerator:
     """Generates Drug Evidence Pack from a DrugBundle using LLM.
 
@@ -193,8 +215,8 @@ class DrugEvidencePackGenerator:
                 "original_indications": drug.original_indications,
                 "original_moa": drug.original_moa or "[Data Gap]",
             },
-            "taiwan_regulatory": {
-                "market_status": "已上市" if self._get_regulatory(bundle).get("found") else "未上市",
+            "local_regulatory": {
+                "market_status": "Marketed" if self._get_regulatory(bundle).get("found") else "Not marketed",
                 "total_licenses": len(self._get_regulatory(bundle).get("records", [])),
                 "licenses": [
                     {
@@ -221,6 +243,10 @@ class DrugEvidencePackGenerator:
             "predicted_indications": predicted_indications,
             "query_log": query_log,
         }
+
+        # 舊鍵別名：prompts/*.md 仍以 taiwan_regulatory 取值，改名要跟 prompt 一起換，
+        # 在那之前保留同一個物件，避免中途換掉讓執行中的產報告流程取不到值。
+        evidence_pack["taiwan_regulatory"] = evidence_pack["local_regulatory"]
 
         return evidence_pack
 
@@ -269,12 +295,12 @@ class DrugEvidencePackGenerator:
             gaps.append({
                 "id": f"DG{gap_id:03d}",
                 "category": "Drug_Level",
-                "item": "TFDA 仿單警語/禁忌",
+                "item": f"{SITE_AGENCY} package insert warnings/contraindications",
                 "severity": "Blocking",
-                "impact": "無法進入 S1 安全性初評",
+                "impact": "Cannot proceed to S1 safety screening",
                 "remediation": {
-                    "source": "TFDA 官網",
-                    "method": "下載仿單 PDF 並解析",
+                    "source": f"{SITE_AGENCY} website",
+                    "method": "Download and parse the package insert PDF",
                 },
             })
             gap_id += 1
@@ -284,12 +310,12 @@ class DrugEvidencePackGenerator:
             gaps.append({
                 "id": f"DG{gap_id:03d}",
                 "category": "Drug_Level",
-                "item": "作用機轉 (MOA)",
+                "item": "Mechanism of action (MOA)",
                 "severity": "High",
-                "impact": "影響機轉關聯性分析",
+                "impact": "Limits mechanistic-link analysis",
                 "remediation": {
                     "source": "DrugBank",
-                    "method": "查詢 DrugBank API",
+                    "method": "Query the DrugBank API",
                 },
             })
             gap_id += 1
@@ -322,11 +348,13 @@ class DrugEvidencePackGenerator:
         # Prepare a summary of data for LLM (not the full data)
         summary = self._create_analysis_summary(evidence_pack)
 
-        user_message = f"""請分析以下藥物再利用證據，並提供評估結果：
+        user_message = f"""請分析以下藥物再利用證據，並提供評估結果（自由敘述欄位一律以英文書寫）：
 
 ```json
 {json.dumps(summary, indent=2, ensure_ascii=False)}
 ```
+
+所有自由敘述欄位（rationale、mechanistic_link、notes、分類標籤）一律以英文書寫，不要輸出中文。
 
 請為每個適應症提供：
 1. evidence_level (L1-L5)
@@ -351,6 +379,8 @@ class DrugEvidencePackGenerator:
         summary = self._create_analysis_summary(evidence_pack)
 
         system_prompt = """你是藥物再利用證據分析專家。根據提供的資料，評估每個適應症的證據等級。
+
+IMPORTANT: Write every free-text value (rationale, mechanistic_link, notes, classification labels) in English. Do not emit Chinese in any output field — this pack is consumed by sites in many languages.
 
 回覆格式 (JSON):
 ```json

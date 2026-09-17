@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Solifenacin
-parent: 僅模型預測 (L5)
+parent: 高エビデンスレベル
 nav_order: 130
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Solifenacin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+エビデンスレベル: **L2** | 予測適応症: **10** 件
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 目次
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 薬剤師評価レポート
 
 </div>
 
@@ -50,7 +50,7 @@ TxGNN モデルは 10 件の新規適応症候補を予測しており、エビ�
 | 予測新規適応症 | 低コンプライアンス膀胱 (Low Compliance Bladder) |
 | TxGNN 予測スコア | 95.37% |
 | エビデンスレベル | L2 |
-| 日本市販状況 | 未上市（PMDA 照会結果） |
+| 日本市販状況 | Not marketed（PMDA 照会結果） |
 | 承認番号数 | 0 件 |
 | 推奨決定 | Proceed with Guardrails |
 

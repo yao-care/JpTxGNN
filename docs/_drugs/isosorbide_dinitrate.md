@@ -43,7 +43,7 @@ Isosorbide dinitrate（二硝酸異山梨酯）是一種有機硝酸酯類血管
 | 予測新適応症 | 肺高壓 (pulmonary hypertension)、脫髮症 (alopecia) |
 | TxGNN 予測スコア | 99.98% (肺高壓) |
 | エビデンスレベル | L2 |
-| 日本上市 | 已上市 |
+| 日本上市 | Marketed |
 | 承認数 | 多張 |
 | 推奨判断 | Explore |
 

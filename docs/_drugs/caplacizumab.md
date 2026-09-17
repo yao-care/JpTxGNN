@@ -42,7 +42,7 @@ Caplacizumab 原為治療後天性血栓性血小板低下紫斑症(aTTP)的抗v
 | 予測新適応症 | 血小板原發釋放障礙 (primary release disorder of platelets) |
 | TxGNN 予測スコア | 99.9998% |
 | エビデンスレベル | L5 (僅預測) |
-| 日本上市 | 已上市 |
+| 日本上市 | Marketed |
 | 承認数 | 1張 (多個包裝規格) |
 | 推奨判断 | Hold |
 

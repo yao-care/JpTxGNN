@@ -45,7 +45,7 @@ TxGNN 模型預測它可能對**活動性消化性潰瘍 (Active Peptic Ulcer Di
 | 予測新適応症 | Active Peptic Ulcer Disease（活動性消化性潰瘍） |
 | TxGNN 予測スコア | 99.93% |
 | エビデンスレベル | L4 |
-| 日本上市 | 已上市 |
+| 日本上市 | Marketed |
 | 承認数 | 多張（含複方製劑） |
 | 推奨判断 | 可進一步探索 |
 

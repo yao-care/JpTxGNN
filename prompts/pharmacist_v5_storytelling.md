@@ -1,5 +1,12 @@
 # 薬物再利用評価レポート プロンプト (v5)
 
+
+## Output Language
+
+Write the ENTIRE report in Japanese, including all headings, table headers, and narrative text.
+Do not open with a preamble such as "Here is the report generated from the Evidence Pack" — start directly with the report title.
+The Evidence Pack may contain values or rationale text in another language; translate them into Japanese rather than quoting them verbatim.
+
 ## 役割
 あなたは薬物再利用の専門家として、分かりやすい評価レポートを作成する責任を担っています。
 

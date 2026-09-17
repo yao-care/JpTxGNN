@@ -45,7 +45,7 @@ TxGNN 模型預測它可能對 **C1 Inhibitor Deficiency** 有效，
 | 予測新適応症 | C1 Inhibitor Deficiency |
 | TxGNN 予測スコア | 99.99% |
 | エビデンスレベル | L1 |
-| 日本上市 | 已上市 |
+| 日本上市 | Marketed |
 | 承認数 | 3 張 |
 | 推奨判断 | Proceed |
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Terbinafine
-parent: 僅模型預測 (L5)
+parent: モデル予測のみ
 nav_order: 137
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Terbinafine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+エビデンスレベル: **L5** | 予測適応症: **10** 件
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 目次
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 薬剤師評価レポート
 
 </div>
 
@@ -50,7 +50,7 @@ TxGNN モデルは**匐行性皮膚蝿蛆症（Creeping Myiasis）**への有効
 | 予測新規適応症 | 匐行性皮膚蝿蛆症 (Creeping Myiasis) |
 | TxGNN 予測スコア | 96.74% |
 | エビデンスレベル | L5 |
-| 日本市販状況 | ✗ 未上市 |
+| 日本市販状況 | ✗ Not marketed |
 | 承認番号数 | 0件 |
 | 推奨決定 | Hold |
 
@@ -80,7 +80,7 @@ TxGNN モデルは**匐行性皮膚蝿蛆症（Creeping Myiasis）**への有効
 
 ## 日本市販情報
 
-テルビナフィンは PMDA（日本医薬品医療機器総合機構）に承認された記録がなく、日本市場では未上市です。
+テルビナフィンは PMDA（日本医薬品医療機器総合機構）に承認された記録がなく、日本市場ではNot marketedです。
 
 ---
 

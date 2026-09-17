@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Olanzapine
-parent: 僅模型預測 (L5)
+parent: モデル予測のみ
 nav_order: 104
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Olanzapine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+エビデンスレベル: **L5** | 予測適応症: **10** 件
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 目次
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 薬剤師評価レポート
 
 </div>
 
@@ -33,7 +33,7 @@ indication_count: 10
 
 ## 一言要約
 
-オランザピン（Olanzapine）は非定型抗精神病薬として、世界的に統合失調症・双極性障害の治療に使用されていますが、台湾では現在未承認・未上市の状態です。
+オランザピン（Olanzapine）は非定型抗精神病薬として、世界的に統合失調症・双極性障害の治療に使用されていますが、台湾では現在未承認・Not marketedの状態です。
 TxGNN モデルは**良性発作性乳児斜頸 (Benign Paroxysmal Torticollis of Infancy)** に有効である可能性を予測していますが、現在関連する臨床試験・文献は**いずれも存在せず**、エビデンスはモデル予測のみに留まります。
 
 ---
@@ -46,7 +46,7 @@ TxGNN モデルは**良性発作性乳児斜頸 (Benign Paroxysmal Torticollis o
 | 予測新規適応症 | 良性発作性乳児斜頸 (Benign Paroxysmal Torticollis of Infancy) |
 | TxGNN 予測スコア | 99.54% |
 | エビデンスレベル | L5 |
-| 台湾市販状況 | ✗ 未上市 |
+| 台湾市販状況 | ✗ Not marketed |
 | 承認番号数 | 0 件 |
 | 推奨決定 | Hold |
 
@@ -76,7 +76,7 @@ TxGNN モデルがこの予測を生成した背景として、知識グラフ�
 
 ## 台湾市販情報
 
-本薬（オランザピン）は台湾において現在未承認・未上市です。承認番号の記録はありません。
+本薬（オランザピン）は台湾において現在未承認・Not marketedです。承認番号の記録はありません。
 
 ---
 

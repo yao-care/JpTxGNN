@@ -45,7 +45,7 @@ TxGNN 模型預測它可能對**類乙型威勒布蘭氏病 (Pseudo-von Willebra
 | 予測新適応症 | Pseudo-von Willebrand Disease（類乙型威勒布蘭氏病） |
 | TxGNN 予測スコア | 99.997% |
 | エビデンスレベル | L5 |
-| 日本上市 | 已上市 |
+| 日本上市 | Marketed |
 | 承認数 | 9 張（250/500/1000 IU 三種規格） |
 | 推奨判断 | Hold |
 

@@ -45,7 +45,7 @@ TxGNN 模型預測它可能對**支氣管炎 (bronchitis)** 有效，
 | 予測新適応症 | 支氣管炎 (bronchitis) |
 | TxGNN 予測スコア | 99.92% |
 | エビデンスレベル | L3 |
-| 日本上市 | 已上市 |
+| 日本上市 | Marketed |
 | 承認数 | 2 張 |
 | 推奨判断 | Proceed with Guardrails |
 

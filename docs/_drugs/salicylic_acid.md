@@ -45,7 +45,7 @@ TxGNN 模型預測它可能對**乳頭狀結膜炎 (Papillary Conjunctivitis)** 
 | 予測新適応症 | Papillary Conjunctivitis |
 | TxGNN 予測スコア | 99.88% |
 | エビデンスレベル | L5 |
-| 日本上市 | 已上市 |
+| 日本上市 | Marketed |
 | 承認数 | 326 張 |
 | 推奨判断 | Hold |
 

@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Diclofenac
-parent: 僅模型預測 (L5)
+parent: 高エビデンスレベル
 nav_order: 45
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Diclofenac
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+エビデンスレベル: **L2** | 予測適応症: **10** 件
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 目次
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 薬剤師評価レポート
 
 </div>
 
@@ -33,7 +33,7 @@ indication_count: 10
 
 ## 一言要約
 
-ジクロフェナク（Diclofenac）は COX-1/COX-2 非選択的阻害薬として国際的に鎮痛・抗炎症・解熱目的で広く使用されている NSAID ですが、PMDA データ上では日本未上市となっています。TxGNN モデルは 10 件の再利用候補を予測しており、最高スコア（99.69%）は hypotrichosis simplex of the scalp（頭皮の遺伝性乏毛症）ですが臨床エビデンスがなく Hold 判定です。エビデンスの観点で最も注目されるのは第 9 位の**若年性特発性関節炎（Juvenile Idiopathic Arthritis, JIA）**であり、**2 件の臨床試験**と **18 編の文献**（交叉設計 RCT を含む）がこの方向性を支持し、エビデンスレベル L2 の評価を受けています。
+ジクロフェナク（Diclofenac）は COX-1/COX-2 非選択的阻害薬として国際的に鎮痛・抗炎症・解熱目的で広く使用されている NSAID ですが、PMDA データ上では日本Not marketedとなっています。TxGNN モデルは 10 件の再利用候補を予測しており、最高スコア（99.69%）は hypotrichosis simplex of the scalp（頭皮の遺伝性乏毛症）ですが臨床エビデンスがなく Hold 判定です。エビデンスの観点で最も注目されるのは第 9 位の**若年性特発性関節炎（Juvenile Idiopathic Arthritis, JIA）**であり、**2 件の臨床試験**と **18 編の文献**（交叉設計 RCT を含む）がこの方向性を支持し、エビデンスレベル L2 の評価を受けています。
 
 ---
 
@@ -41,11 +41,11 @@ indication_count: 10
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 鎮痛・抗炎症・解熱（国際的承認薬、日本 PMDA 未上市） |
+| 既存適応症 | 鎮痛・抗炎症・解熱（国際的承認薬、日本 PMDA Not marketed） |
 | 予測新規適応症（最高エビデンス） | 若年性特発性関節炎 (Juvenile Idiopathic Arthritis)（TxGNN 第 9 位） |
 | TxGNN 予測スコア（JIA） | 99.25% |
 | エビデンスレベル | L2 |
-| 日本市販状況 | 未上市 |
+| 日本市販状況 | Not marketed |
 | 承認番号数 | 0 件 |
 | 推奨決定 | Proceed with Guardrails（JIA） / Hold（他 L5 適応症 9 件） |
 
@@ -98,7 +98,7 @@ JIA は小児期における滑膜炎を主体とする自己免疫性関節炎�
 **決定：Proceed with Guardrails（若年性特発性関節炎） / Hold（その他 L5 予測 9 件）**
 
 **理由：**
-ジクロフェナクの COX-1/COX-2 阻害機序は JIA の PGE2 依存的炎症病態と高い機序的整合性を持ち、1988 年の交叉設計 RCT を含む複数の臨床証拠と海外での小児 JRA 承認実績が存在します。ただし日本（PMDA）では未上市であり、安全性情報（添付文書の警告・禁忌・DDI）が未収集であることが進行上の制約です。TxGNN スコア上位（第 1〜8 位・第 10 位）の遺伝性疾患予測については機序的関連性が薄く、エビデンスが皆無のため現時点では Hold が適切です。
+ジクロフェナクの COX-1/COX-2 阻害機序は JIA の PGE2 依存的炎症病態と高い機序的整合性を持ち、1988 年の交叉設計 RCT を含む複数の臨床証拠と海外での小児 JRA 承認実績が存在します。ただし日本（PMDA）ではNot marketedであり、安全性情報（添付文書の警告・禁忌・DDI）が未収集であることが進行上の制約です。TxGNN スコア上位（第 1〜8 位・第 10 位）の遺伝性疾患予測については機序的関連性が薄く、エビデンスが皆無のため現時点では Hold が適切です。
 
 **進める場合に必要なもの：**
 - PMDA 仿単 PDF の取得と安全性詳細情報の補完（DG001：警語・禁忌）

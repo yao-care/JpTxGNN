@@ -45,7 +45,7 @@ TxGNN 模型預測它可能對**心肌病變 (cardiomyopathy)** 及**肥厚性�
 | 予測新適応症 | 心肌病變 (cardiomyopathy) |
 | TxGNN 予測スコア | 99.83% |
 | エビデンスレベル | L2 |
-| 日本上市 | 已上市 |
+| 日本上市 | Marketed |
 | 承認数 | 22 張（部分已註銷） |
 | 推奨判断 | Proceed with Guardrails |
 

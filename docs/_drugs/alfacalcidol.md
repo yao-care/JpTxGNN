@@ -45,7 +45,7 @@ TxGNN 模型預測它可能對**腎小管酸中毒 (renal tubular acidosis)** �
 | 予測新適応症 | 腎小管酸中毒 (renal tubular acidosis) |
 | TxGNN 予測スコア | 99.27% |
 | エビデンスレベル | L3 |
-| 日本上市 | 已上市 |
+| 日本上市 | Marketed |
 | 承認数 | 多張（部分已註銷） |
 | 推奨判断 | Proceed with Guardrails |
 

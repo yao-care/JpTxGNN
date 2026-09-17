@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Rivaroxaban
-parent: 僅模型預測 (L5)
+parent: モデル予測のみ
 nav_order: 123
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Rivaroxaban
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+エビデンスレベル: **L5** | 予測適応症: **10** 件
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 目次
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 薬剤師評価レポート
 
 </div>
 
@@ -51,7 +51,7 @@ TxGNN モデルは**関節リウマチ (Rheumatoid Arthritis)** を最優先予�
 | 予測新規適応症 | 関節リウマチ (Rheumatoid Arthritis) |
 | TxGNN 予測スコア | 99.57% |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 未上市（PMDA 照会 0 件） |
+| 日本市販状況 | Not marketed（PMDA 照会 0 件） |
 | 承認番号数 | 0 件 |
 | 推奨決定 | Hold |
 

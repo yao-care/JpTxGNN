@@ -45,7 +45,7 @@ TxGNN 模型預測它可能對**惡性腎血管高血壓 (malignant renovascular
 | 予測新適応症 | 惡性腎血管高血壓 (malignant renovascular hypertension) |
 | TxGNN 予測スコア | 99.10% |
 | エビデンスレベル | L4 |
-| 日本上市 | 已上市 |
+| 日本上市 | Marketed |
 | 承認数 | 27 張（部分已註銷） |
 | 推奨判断 | Hold |
 

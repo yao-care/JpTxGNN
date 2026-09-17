@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Betamethasone
-parent: 僅模型預測 (L5)
+parent: 高エビデンスレベル
 nav_order: 24
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Betamethasone
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+エビデンスレベル: **L1** | 予測適応症: **10** 件
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 目次
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 薬剤師評価レポート
 
 </div>
 
@@ -45,7 +45,7 @@ indication_count: 10
 | 予測新規適応症 | 円形脱毛症（Alopecia Areata） |
 | TxGNN 予測スコア | 99.97% |
 | エビデンスレベル | L1 |
-| 日本市販状況 | ✗ 未上市 |
+| 日本市販状況 | ✗ Not marketed |
 | 承認番号数 | 0 件 |
 | 推奨決定 | Proceed with Guardrails |
 
@@ -94,7 +94,7 @@ indication_count: 10
 
 ## 日本市販情報
 
-PMDA への照会の結果、ベタメタゾン単剤としての日本国内承認情報は現時点で確認されていません（承認番号 0 件・未上市）。
+PMDA への照会の結果、ベタメタゾン単剤としての日本国内承認情報は現時点で確認されていません（承認番号 0 件・Not marketed）。
 
 > **注記**：ベタメタゾンは国際的に広く使用される薬物であり、データ取得状況によっては承認情報が未収録の可能性があります。PMDA 公式データベースでの直接確認を推奨します。
 

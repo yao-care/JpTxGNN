@@ -43,7 +43,7 @@ Prednisolone acetate 是一種眼用皮質類固醇，原本用於眼瞼炎、�
 | 予測新適応症 | 寄生蟲性結膜炎 (Parasitic Conjunctivitis) |
 | TxGNN 予測スコア | 99.74% |
 | エビデンスレベル | L4 |
-| 日本上市 | 已上市 |
+| 日本上市 | Marketed |
 | 承認数 | 多張 |
 | 推奨判断 | Proceed with Guardrails |
 

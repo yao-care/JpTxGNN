@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Erlotinib
-parent: 僅模型預測 (L5)
+parent: 中エビデンスレベル
 nav_order: 51
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Erlotinib
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+エビデンスレベル: **L4** | 予測適応症: **10** 件
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 目次
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 薬剤師評価レポート
 
 </div>
 
@@ -37,7 +37,7 @@ The txgnn-pipeline skill confirms this is a TxGNN repurposing output task. Now g
 
 ## 一言要約
 
-エルロチニブ（Erlotinib、Tarceva®）は EGFR チロシンキナーゼ阻害薬であり、米国 FDA では非小細胞肺癌（NSCLC）および膵癌の治療に承認されていますが、**日本では現在未承認・未上市**です。
+エルロチニブ（Erlotinib、Tarceva®）は EGFR チロシンキナーゼ阻害薬であり、米国 FDA では非小細胞肺癌（NSCLC）および膵癌の治療に承認されていますが、**日本では現在未承認・Not marketed**です。
 TxGNN モデルは**ユーイング肉腫（Ewing Sarcoma）**への有効性を予測しており（予測スコア：95.77%）、
 現在 **1 件の臨床試験**（撤回済み・登録ゼロ）と **2 編の文献**がこの方向性を部分的に示唆しているにとどまります。
 
@@ -51,7 +51,7 @@ TxGNN モデルは**ユーイング肉腫（Ewing Sarcoma）**への有効性を
 | 予測新規適応症 | ユーイング肉腫（Ewing Sarcoma） |
 | TxGNN 予測スコア | 95.77% |
 | エビデンスレベル | L4 |
-| 日本市販状況 | ✗ 未上市 |
+| 日本市販状況 | ✗ Not marketed |
 | 承認番号数 | 0 件 |
 | 推奨決定 | Hold |
 

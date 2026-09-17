@@ -42,7 +42,7 @@ Atezolizumab 是 PD-L1 免疫檢查點抑制劑，目前用於非小細胞肺癌
 | 予測新適応症 | 攝護腺尿道泌尿上皮癌 (prostatic urethra urothelial carcinoma) |
 | TxGNN 予測スコア | 99.98% |
 | エビデンスレベル | L2 (Phase 1/2 臨床試驗進行中) |
-| 日本上市 | 已上市 |
+| 日本上市 | Marketed |
 | 承認数 | 2 (注射劑、皮下注射劑) |
 | 推奨判断 | Proceed |
 

@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Febuxostat
-parent: 僅模型預測 (L5)
+parent: 中エビデンスレベル
 nav_order: 57
-evidence_level: L5
+evidence_level: L3
 indication_count: 10
 ---
 
 # Febuxostat
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+エビデンスレベル: **L3** | 予測適応症: **10** 件
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 目次
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 薬剤師評価レポート
 
 </div>
 
@@ -50,7 +50,7 @@ TxGNN モデルは**腎性低尿酸血症（Hypouricemia, Renal）**に有効で
 | 予測新規適応症 | 腎性低尿酸血症 (Hypouricemia, Renal) |
 | TxGNN 予測スコア | 99.99% |
 | エビデンスレベル | L3 |
-| 日本市販状況 | 未上市 |
+| 日本市販状況 | Not marketed |
 | 承認番号数 | 0 件 |
 | 推奨決定 | Proceed with Guardrails |
 
@@ -97,7 +97,7 @@ TxGNN モデルは**腎性低尿酸血症（Hypouricemia, Renal）**に有効で
 XOR 阻害によるキサンチン産生抑制という機序的根拠は明確であり、日本国内の症例報告においてフェブキソスタットの実際の臨床使用が確認されています。ただし対象が希少疾患であり、EIAKI 予防を主要エンドポイントとする前向き試験はまだ存在しないため、guardrails 付きでの研究的推進が適切です。
 
 **進める場合に必要なもの：**
-- 日本 PMDA 仿単の取得・確認（Evidence Pack 上の「未上市」は PMDA データ取得の不完全性の可能性があり、フェブリク®（テイジン）の実際の承認状況を照合すること）
+- 日本 PMDA 仿単の取得・確認（Evidence Pack 上の「Not marketed」は PMDA データ取得の不完全性の可能性があり、フェブリク®（テイジン）の実際の承認状況を照合すること）
 - RHUC + EIAKI を対象としたパイロット試験または前向き観察研究のプロトコル設計
 - 適格患者の選定基準策定（URAT1 / SLC22A12 遺伝子変異保有者の同定方法）
 - 詳細な安全性プロファイルの収集（DG001：警語・禁忌、DG002：MOA 正式データ）

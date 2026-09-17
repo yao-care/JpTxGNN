@@ -43,7 +43,7 @@ Sacituzumab govitecan 原本用於治療晚期三陰性乳癌及 HR+/HER2- 乳�
 | 予測新適応症 | 藥物誘發性骨質疏鬆症 (drug-induced osteoporosis) |
 | TxGNN 予測スコア | 99.78% |
 | エビデンスレベル | L5 |
-| 日本上市 | 已上市 |
+| 日本上市 | Marketed |
 | 承認数 | 3 張 |
 | 推奨判断 | Hold |
 

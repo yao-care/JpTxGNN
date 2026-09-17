@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Oxybutynin
-parent: 僅模型預測 (L5)
+parent: モデル予測のみ
 nav_order: 108
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Oxybutynin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+エビデンスレベル: **L5** | 予測適応症: **10** 件
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 目次
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 薬剤師評価レポート
 
 </div>
 
@@ -49,7 +49,7 @@ indication_count: 10
 | 予測新規適応症 | むずむず脚症候群（Restless Legs Syndrome） |
 | TxGNN 予測スコア | 99.74% |
 | エビデンスレベル | L5 |
-| 日本市販状況 | ✗ 未上市 |
+| 日本市販状況 | ✗ Not marketed |
 | 承認番号数 | 0 件 |
 | 推奨決定 | Hold |
 
@@ -79,7 +79,7 @@ TxGNN の高スコア（99.74%）は知識グラフ上のネットワーク構�
 
 ## 日本市販情報
 
-PMDA データベース照会（2026-03-10）の結果、オキシブチニンの国内承認製品は確認されませんでした。承認番号 0 件、現在未上市です。日本での開発を進める場合は、PMDA への新規承認申請が必要となります。
+PMDA データベース照会（2026-03-10）の結果、オキシブチニンの国内承認製品は確認されませんでした。承認番号 0 件、現在Not marketedです。日本での開発を進める場合は、PMDA への新規承認申請が必要となります。
 
 ---
 

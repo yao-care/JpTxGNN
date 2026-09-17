@@ -45,7 +45,7 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 | 予測新適応症 | 女性乳腺癌 (female breast carcinoma) |
 | TxGNN 予測スコア | 99.86% |
 | エビデンスレベル | L2 |
-| 日本上市 | 已上市（為多種複方治療的一部分） |
+| 日本上市 | Marketed（為多種複方治療的一部分） |
 | 承認数 | 多張（作為 Trastuzumab、Pembrolizumab 等藥物適應症的併用藥物） |
 | 推奨判断 | Proceed with Guardrails |
 

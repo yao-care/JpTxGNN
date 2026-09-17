@@ -45,7 +45,7 @@ TxGNN 模型預測它可能對**閉經 (amenorrhea)** 有效，
 | 予測新適応症 | 閉經 (amenorrhea) |
 | TxGNN 予測スコア | 99.19% |
 | エビデンスレベル | 待評估 |
-| 日本上市 | 已上市 |
+| 日本上市 | Marketed |
 | 承認数 | 135 張 |
 | 推奨判断 | Needs Further Investigation |
 

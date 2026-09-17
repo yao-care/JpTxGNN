@@ -42,7 +42,7 @@ Bevacizumab 原為抗血管新生的癌症標靶藥物，用於轉移性大腸�
 | 予測新適応症 | 會厭腫瘤 (epiglottis neoplasm) |
 | TxGNN 予測スコア | 99.90% |
 | エビデンスレベル | L5 (僅預測) |
-| 日本上市 | 已上市 |
+| 日本上市 | Marketed |
 | 承認数 | 多張 (Avastin、MVASI、ABEVMY、Vegzelma等) |
 | 推奨判断 | Explore |
 

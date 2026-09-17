@@ -45,7 +45,7 @@ Warfarin 用於心房顫動（Atrial Fibrillation）的血栓預防**已是核�
 | 適應症 | 心房纖維顫動（Atrial Fibrillation）血栓預防 |
 | 適應症狀態 | **已核准** |
 | エビデンスレベル | L1（多個 RCT 支持） |
-| 日本上市 | 已上市 |
+| 日本上市 | Marketed |
 | 推奨判断 | 標準治療（非老藥新用候選） |
 
 ## 背景説明

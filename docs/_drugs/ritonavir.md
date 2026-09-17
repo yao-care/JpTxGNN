@@ -43,7 +43,7 @@ Ritonavir 是一種 HIV 蛋白酶抑制劑，原本用於人類免疫缺乏病�
 | 予測新適応症 | 猿免疫缺乏病毒感染 (SIV Infection)、貓愛滋病 |
 | TxGNN 予測スコア | 99.92% |
 | エビデンスレベル | L4 |
-| 日本上市 | 已上市 |
+| 日本上市 | Marketed |
 | 承認数 | 多張 |
 | 推奨判断 | Proceed with Guardrails |
 

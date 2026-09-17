@@ -45,7 +45,7 @@ TxGNN 模型預測它可能對**眼病 (Eye Disease)** 有效，
 | 予測新適応症 | 眼病 (Eye Disease) |
 | TxGNN 予測スコア | 99.82% |
 | エビデンスレベル | L4 |
-| 日本上市 | ✓ 已上市 |
+| 日本上市 | ✓ Marketed |
 | 承認数 | 6 張 |
 | 推奨判断 | Research Question |
 

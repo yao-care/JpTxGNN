@@ -45,7 +45,7 @@ TxGNN 模型預測它可能對**頭皮單純性稀毛症 (hypotrichosis simplex 
 | 予測新適応症 | 頭皮單純性稀毛症 (hypotrichosis simplex of the scalp) |
 | TxGNN 予測スコア | 99.99991655349731% |
 | エビデンスレベル | L4 |
-| 日本上市 | ✓ 已上市 |
+| 日本上市 | ✓ Marketed |
 | 承認数 | 20 張 |
 | 推奨判断 | Research Question |
 

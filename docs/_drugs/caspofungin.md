@@ -45,7 +45,7 @@ TxGNN 模型預測它可能對**胃泌素分泌異常 (gastrin secretion abnorma
 | 予測新適応症 | 胃泌素分泌異常 (gastrin secretion abnormality) |
 | TxGNN 予測スコア | 99.44% |
 | エビデンスレベル | L5 |
-| 日本上市 | 已上市 |
+| 日本上市 | Marketed |
 | 承認数 | 9 張 |
 | 推奨判断 | Hold |
 

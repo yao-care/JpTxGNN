@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ﾛｷｿﾌﾟﾛﾌｪﾝNaﾃｰﾌﾟ50Mgｻ
-parent: 僅模型預測 (L5)
+parent: モデル予測のみ
 nav_order: 400
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # ﾛｷｿﾌﾟﾛﾌｪﾝNaﾃｰﾌﾟ50Mgｻ
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+エビデンスレベル: **L5** | 予測適応症: **0** 件
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 目次
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 薬剤師評価レポート
 
 </div>
 
@@ -47,7 +47,7 @@ indication_count: 0
 | 予測新規適応症 | なし（TxGNN 予測未生成） |
 | TxGNN 予測スコア | 該当なし |
 | エビデンスレベル | L5（モデル予測なし、実研究も未収集） |
-| 日本市販状況 | 未上市（Taiwan 観点）／PMDA クエリ 0 件 |
+| 日本市販状況 | Not marketed（Taiwan 観点）／PMDA クエリ 0 件 |
 | DrugBank ID | 未取得 |
 | 推奨決定 | **Hold** |
 

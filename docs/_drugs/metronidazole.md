@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Metronidazole
-parent: 僅模型預測 (L5)
+parent: モデル予測のみ
 nav_order: 98
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Metronidazole
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+エビデンスレベル: **L5** | 予測適応症: **10** 件
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 目次
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 薬剤師評価レポート
 
 </div>
 
@@ -45,7 +45,7 @@ indication_count: 10
 | 予測新規適応症 | ニューモシスチス症 (Pneumocystosis) |
 | TxGNN 予測スコア | 99.99% |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 未上市 |
+| 日本市販状況 | Not marketed |
 | 承認番号数 | 0 件 |
 | 推奨決定 | Hold |
 
@@ -103,7 +103,7 @@ TxGNN の高スコア（99.99%）は、知識グラフ内における HIV/AIDS �
 - TxGNN 知識グラフにおける予測根拠パスの確認（高スコアの出所の解明）
 - メトロニダゾールが *Pneumocystis jirovecii* に対して活性を示すという前臨床（in vitro）データの存在確認
 - データパイプラインの検索クエリ修正（ClinicalTrials.gov での試験マッチング精度向上）
-- 日本での薬事承認申請可否の事前確認（現時点では未上市）
+- 日本での薬事承認申請可否の事前確認（現時点ではNot marketed）
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Oseltamivir
-parent: 僅模型預測 (L5)
+parent: 高エビデンスレベル
 nav_order: 107
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Oseltamivir
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+エビデンスレベル: **L1** | 予測適応症: **10** 件
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 目次
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 薬剤師評価レポート
 
 </div>
 
@@ -51,7 +51,7 @@ TxGNN モデルは **肺炎 (Pneumonia)** への有効性（予測スコア 92.1
 | 予測新規適応症 | 肺炎 (Pneumonia) |
 | TxGNN 予測スコア | 92.14% |
 | エビデンスレベル | L1 |
-| 日本市販状況 | 未上市（PMDA 照会結果 0 件） |
+| 日本市販状況 | Not marketed（PMDA 照会結果 0 件） |
 | 承認番号数 | 0 件 |
 | 推奨決定 | Proceed with Guardrails |
 
@@ -118,7 +118,7 @@ Cochrane メタアナリシスと複数の完了済み Phase 3 RCT（NCT03629184
 
 **進める場合に必要なもの：**
 - **MOA データ取得**：DrugBank API（DB00198）を照会し、詳細な作用機序情報を補完
-- **PMDA 承認情報の再確認**：本 Evidence Pack では「未上市・0 件」と記録されているが、タミフル（オセルタミビルリン酸塩）は日本国内で承認・販売実績があり、データ更新が必要
+- **PMDA 承認情報の再確認**：本 Evidence Pack では「Not marketed・0 件」と記録されているが、タミフル（オセルタミビルリン酸塩）は日本国内で承認・販売実績があり、データ更新が必要
 - **安全性情報の取得**：PMDA 仿単 PDF を取得・解析し、警語・禁忌・薬物相互作用を補充（DG001 対応）
 - **高リスク群安全性計画**：免疫抑制患者・乳幼児・妊婦における特別モニタリング基準の策定
 - **耐性ウイルス対策**：H275Y 変異株の出現モニタリング体制の組み込み

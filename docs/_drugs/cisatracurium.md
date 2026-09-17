@@ -45,7 +45,7 @@ TxGNN 模型預測它可能對**子癲前症 (Preeclampsia)** 有效，
 | 予測新適応症 | 子癲前症 (Preeclampsia) |
 | TxGNN 予測スコア | 99.99% |
 | エビデンスレベル | L4 |
-| 日本上市 | ✓ 已上市 |
+| 日本上市 | ✓ Marketed |
 | 承認数 | 6 張 |
 | 推奨判断 | Research Question |
 

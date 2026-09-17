@@ -45,7 +45,7 @@ TxGNN 模型預測它可能對**躁鬱症躁症期 (manic bipolar affective diso
 | 予測新適応症 | 躁鬱症躁症期 (manic bipolar affective disorder) |
 | TxGNN 予測スコア | 99.51% |
 | エビデンスレベル | L3 (有間接文獻證據) |
-| 日本上市 | 已上市 |
+| 日本上市 | Marketed |
 | 承認数 | 47 張 |
 | 推奨判断 | Proceed with Guardrails |
 

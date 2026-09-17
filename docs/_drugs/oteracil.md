@@ -45,7 +45,7 @@ TxGNN 模型預測它可能對**大腸腫瘤 (Colonic Neoplasm)** 有效，
 | 予測新適応症 | 大腸腫瘤 (Colonic Neoplasm) |
 | TxGNN 予測スコア | 99.99% |
 | エビデンスレベル | L2 |
-| 日本上市 | ✓ 已上市 |
+| 日本上市 | ✓ Marketed |
 | 承認数 | 8 張 |
 | 推奨判断 | Proceed with Guardrails |
 

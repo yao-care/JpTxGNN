@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Cyclosporine
-parent: 僅模型預測 (L5)
+parent: 中エビデンスレベル
 nav_order: 40
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Cyclosporine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+エビデンスレベル: **L4** | 予測適応症: **10** 件
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 目次
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 薬剤師評価レポート
 
 </div>
 
@@ -47,7 +47,7 @@ TxGNN モデルは**慢性肉芽腫症・自己免疫型（Granulomatous Disease
 | 予測新規適応症 | 慢性肉芽腫症・自己免疫型（Granulomatous Disease, Chronic, Autosomal Recessive） |
 | TxGNN 予測スコア | 99.68% |
 | エビデンスレベル | L4 |
-| 日本市販状況 | 未上市（PMDA クエリ結果 0 件） |
+| 日本市販状況 | Not marketed（PMDA クエリ結果 0 件） |
 | 承認番号数 | 0 件 |
 | 推奨決定 | Hold |
 

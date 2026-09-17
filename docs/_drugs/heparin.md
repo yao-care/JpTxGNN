@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Heparin
-parent: 僅模型預測 (L5)
+parent: モデル予測のみ
 nav_order: 70
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Heparin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+エビデンスレベル: **L5** | 予測適応症: **10** 件
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 目次
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 薬剤師評価レポート
 
 </div>
 
@@ -37,7 +37,7 @@ Using the `txgnn-pipeline` skill to confirm context — this is a JpTxGNN eviden
 
 ## 一言要約
 
-ヘパリン（Heparin）は、アンチトロンビン III（AT-III）の活性を増強することで凝固因子 Xa・トロンビンを阻害する古典的な抗凝固薬ですが、日本では現在未登録・未上市の状態です。
+ヘパリン（Heparin）は、アンチトロンビン III（AT-III）の活性を増強することで凝固因子 Xa・トロンビンを阻害する古典的な抗凝固薬ですが、日本では現在未登録・Not marketedの状態です。
 TxGNN モデルは**蛋白C欠乏症による血栓傾向（thrombophilia due to protein C deficiency, autosomal recessive）** への有効性を予測しており、予測スコアは **99.29%** と高水準です。
 ただし、現時点では**臨床試験・文献ともにエビデンスが存在せず**、モデル予測のみの段階（L5）です。
 
@@ -51,7 +51,7 @@ TxGNN モデルは**蛋白C欠乏症による血栓傾向（thrombophilia due to
 | 予測新規適応症 | 蛋白C欠乏症による血栓傾向・常染色体劣性型（thrombophilia due to protein C deficiency, autosomal recessive） |
 | TxGNN 予測スコア | 99.29% |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 未上市 |
+| 日本市販状況 | Not marketed |
 | 承認番号数 | 0件 |
 | 推奨決定 | Hold |
 

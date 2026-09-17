@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ﾆｭｰﾌﾟﾛﾊﾟｯﾁ9Mg
-parent: 僅模型預測 (L5)
+parent: モデル予測のみ
 nav_order: 332
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # ﾆｭｰﾌﾟﾛﾊﾟｯﾁ9Mg
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+エビデンスレベル: **L5** | 予測適応症: **0** 件
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 目次
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 薬剤師評価レポート
 
 </div>
 
@@ -45,7 +45,7 @@ indication_count: 0
 | 予測新規適応症 | 予測未実行 |
 | TxGNN 予測スコア | — |
 | エビデンスレベル | L5（モデル予測なし） |
-| 日本市販状況 | 未上市（0 件） |
+| 日本市販状況 | Not marketed（0 件） |
 | 承認番号数 | 0 件 |
 | 推奨決定 | Hold |
 

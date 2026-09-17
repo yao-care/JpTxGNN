@@ -43,7 +43,7 @@ Ropinirole 原本用於治療帕金森氏症及腳部躁動症。TxGNN 模型預
 | 予測新適応症 | 思覺失調症 (schizophrenia) |
 | TxGNN 予測スコア | 99.90% |
 | エビデンスレベル | L4 |
-| 日本上市 | 部分已上市 |
+| 日本上市 | 部分Marketed |
 | 承認数 | 11 張（部分已註銷） |
 | 推奨判断 | Worth Exploring |
 

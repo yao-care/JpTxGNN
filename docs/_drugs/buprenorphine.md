@@ -42,7 +42,7 @@ Buprenorphine 原為類鴉片部分致效劑，用於中重度疼痛及鴉片類
 | 予測新適応症 | 急性間歇性紫質症 (acute intermittent porphyria) |
 | TxGNN 予測スコア | 99.41% |
 | エビデンスレベル | L4 (個案報告/麻醉管理經驗) |
-| 日本上市 | 已上市 |
+| 日本上市 | Marketed |
 | 承認数 | 多張 |
 | 推奨判断 | Consider |
 

@@ -182,5 +182,75 @@ def main():
     print(f"  - {search_index['stats']['total_indications']} indications")
 
 
+def _prune_search_index():
+    """把 docs/_drugs 裡不存在、或自己標了 search_exclude 的頁面，從搜尋索引移除。
+
+    索引是由 data/processed 的預測檔生成的，跟頁面是否存在無關，所以會出現
+    指向不存在頁面的 entry（死連結），以及薄內容頁佔據搜尋結果。這裡在寫檔後
+    以頁面為準做一次收斂。
+    """
+    import json as _json
+    import re as _re
+    from pathlib import Path as _Path
+
+    idx_path = _Path("docs/data/search-index.json")
+    drugs_dir = _Path("docs/_drugs")
+    if not idx_path.exists() or not drugs_dir.is_dir():
+        return
+
+    try:
+        idx = _json.loads(idx_path.read_text(encoding="utf-8"))
+    except Exception:
+        return
+    if not isinstance(idx, dict) or not isinstance(idx.get("drugs"), list):
+        return
+
+    _cache = {}
+
+    def _visible(slug):
+        if not slug:
+            return False
+        if slug in _cache:
+            return _cache[slug]
+        page = drugs_dir / f"{slug}.md"
+        ok = page.exists()
+        if ok:
+            head = page.read_text(encoding="utf-8", errors="replace")[:2000]
+            if _re.search(r"^search_exclude:\s*true", head, _re.M | _re.I):
+                ok = False
+        _cache[slug] = ok
+        return ok
+
+    before = len(idx["drugs"])
+    idx["drugs"] = [d for d in idx["drugs"] if _visible(d.get("slug"))]
+
+    inds = idx.get("indications")
+    if isinstance(inds, list):
+        kept = []
+        for ind in inds:
+            refs = ind.get("drugs")
+            if isinstance(refs, list):
+                refs = [r for r in refs if _visible(r.get("slug"))]
+                if not refs:
+                    continue
+                ind["drugs"] = refs
+                ind["drug_count"] = len(refs)
+            kept.append(ind)
+        idx["indications"] = kept
+        idx["indication_count"] = len(kept)
+
+    idx["drug_count"] = len(idx["drugs"])
+    idx_path.write_text(_json.dumps(idx, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"  Pruned search index: {before} -> {len(idx['drugs'])} drugs")
+
+
+_main_before_prune = main
+
+
+def main():
+    _main_before_prune()
+    _prune_search_index()
+
+
 if __name__ == "__main__":
     main()

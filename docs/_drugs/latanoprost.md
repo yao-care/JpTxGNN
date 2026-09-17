@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Latanoprost
-parent: 僅模型預測 (L5)
+parent: 高エビデンスレベル
 nav_order: 81
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 ---
 
 # Latanoprost
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+エビデンスレベル: **L2** | 予測適応症: **10** 件
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 目次
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 薬剤師評価レポート
 
 </div>
 

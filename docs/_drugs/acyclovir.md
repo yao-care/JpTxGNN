@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Acyclovir
-parent: 僅模型預測 (L5)
+parent: 中エビデンスレベル
 nav_order: 12
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Acyclovir
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+エビデンスレベル: **L4** | 予測適応症: **10** 件
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 目次
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 薬剤師評価レポート
 
 </div>
 
@@ -33,7 +33,7 @@ indication_count: 10
 
 ## 一言要約
 
-Acyclovir は HSV（単純ヘルペスウイルス）および VZV（水痘帯状疱疹ウイルス）に対する核酸類似物系抗ウイルス薬であり、世界的にヘルペスウイルス感染症の治療に広く使用されています。ただし今回の Evidence Pack では PMDA 承認記録が確認されておらず、日本での市販状況は「未上市」となっています。TxGNN モデルは**点状上皮性角結膜炎 (Punctate Epithelial Keratoconjunctivitis)** に有効である可能性を予測していますが、現在この適応症に対する**臨床試験の登録はなく**、**2 編の間接的症例報告**のみがエビデンスとして存在します。
+Acyclovir は HSV（単純ヘルペスウイルス）および VZV（水痘帯状疱疹ウイルス）に対する核酸類似物系抗ウイルス薬であり、世界的にヘルペスウイルス感染症の治療に広く使用されています。ただし今回の Evidence Pack では PMDA 承認記録が確認されておらず、日本での市販状況は「Not marketed」となっています。TxGNN モデルは**点状上皮性角結膜炎 (Punctate Epithelial Keratoconjunctivitis)** に有効である可能性を予測していますが、現在この適応症に対する**臨床試験の登録はなく**、**2 編の間接的症例報告**のみがエビデンスとして存在します。
 
 ---
 
@@ -45,7 +45,7 @@ Acyclovir は HSV（単純ヘルペスウイルス）および VZV（水痘帯�
 | 予測新規適応症 | 点状上皮性角結膜炎 (Punctate Epithelial Keratoconjunctivitis) |
 | TxGNN 予測スコア | 99.67% |
 | エビデンスレベル | L4 |
-| 日本市販状況 | 未上市 |
+| 日本市販状況 | Not marketed |
 | 承認番号数 | 0 件 |
 | 推奨決定 | Hold |
 

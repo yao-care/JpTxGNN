@@ -45,7 +45,7 @@ TxGNN 模型預測它可能對 **Ewing 肉瘤 (Ewing sarcoma)** 有效，
 | 予測新適応症 | Ewing 肉瘤 (Ewing sarcoma) |
 | TxGNN 予測スコア | 99.999% |
 | エビデンスレベル | L3 |
-| 日本上市 | 已上市 |
+| 日本上市 | Marketed |
 | 承認数 | 19 張 |
 | 推奨判断 | Proceed with Guardrails |
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Gefitinib
-parent: 僅模型預測 (L5)
+parent: モデル予測のみ
 nav_order: 63
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Gefitinib
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+エビデンスレベル: **L5** | 予測適応症: **10** 件
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 目次
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 薬剤師評価レポート
 
 </div>
 
@@ -47,7 +47,7 @@ TxGNN モデルは**歯肉線維腫症 (Fibromatosis, Gingival)** に有効で�
 | 予測新規適応症 | 歯肉線維腫症 (Fibromatosis, Gingival) |
 | TxGNN 予測スコア | 99.89% |
 | エビデンスレベル | L5 |
-| 日本市販状況 | ✗ 未上市 |
+| 日本市販状況 | ✗ Not marketed |
 | 承認番号数 | 0 件 |
 | 推奨決定 | Hold |
 

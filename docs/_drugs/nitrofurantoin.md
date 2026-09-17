@@ -43,7 +43,7 @@ Nitrofurantoin（淋可輸）是一種合成抗菌劑，專門用於治療尿路
 | 予測新適応症 | 類風濕性關節炎 (rheumatoid arthritis) |
 | TxGNN 予測スコア | 99.89% |
 | エビデンスレベル | L5 |
-| 日本上市 | 已上市 |
+| 日本上市 | Marketed |
 | 承認数 | 多張 |
 | 推奨判断 | Hold |
 

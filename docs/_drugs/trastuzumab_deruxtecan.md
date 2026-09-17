@@ -45,7 +45,7 @@ TxGNN 模型預測它可能對**藥物誘發性骨質疏鬆 (drug-induced osteop
 | 予測新適応症 | 藥物誘發性骨質疏鬆 (drug-induced osteoporosis) |
 | TxGNN 予測スコア | 99.31% |
 | エビデンスレベル | 無證據 |
-| 日本上市 | 已上市 |
+| 日本上市 | Marketed |
 | 承認数 | 6 張 |
 | 推奨判断 | Not Recommended |
 

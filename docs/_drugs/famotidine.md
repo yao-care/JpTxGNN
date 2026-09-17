@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Famotidine
-parent: 僅模型預測 (L5)
+parent: 中エビデンスレベル
 nav_order: 56
-evidence_level: L5
+evidence_level: L3
 indication_count: 3
 ---
 
 # Famotidine
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **3** 個
+エビデンスレベル: **L3** | 予測適応症: **3** 件
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 目次
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 3
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 薬剤師評価レポート
 
 </div>
 
@@ -47,7 +47,7 @@ indication_count: 3
 | 予測新規適応症 | 十二指腸胃逆流 (Duodenogastric Reflux) |
 | TxGNN 予測スコア | 99.99% |
 | エビデンスレベル | L3 |
-| 日本市販状況 | 未上市 |
+| 日本市販状況 | Not marketed |
 | 承認番号数 | 0 件 |
 | 推奨決定 | Hold |
 

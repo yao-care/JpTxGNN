@@ -45,7 +45,7 @@ TxGNN 模型預測它可能對**骨髓性白血病 (myeloid leukemia)** 有效�
 | 予測新適応症 | 骨髓性白血病 (myeloid leukemia) |
 | TxGNN 予測スコア | 99.65% |
 | エビデンスレベル | L2 (有臨床試驗支持) |
-| 日本上市 | 已上市 |
+| 日本上市 | Marketed |
 | 承認数 | 1 張 (有效) |
 | 推奨判断 | Proceed with Guardrails |
 

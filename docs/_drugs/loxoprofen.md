@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Loxoprofen
-parent: 僅模型預測 (L5)
+parent: モデル予測のみ
 nav_order: 91
 evidence_level: L5
 indication_count: 10
@@ -10,12 +10,12 @@ indication_count: 10
 # Loxoprofen
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+エビデンスレベル: **L5** | 予測適応症: **10** 件
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 目次
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 薬剤師評価レポート
 
 </div>
 
@@ -47,7 +47,7 @@ TxGNN モデルは **先天性眼球・菱形体骨格異常症候群（Coloboma
 | 予測新規適応症 | 先天性眼球・菱形体骨格異常症候群（Colobomatous Microphthalmia-Rhizomelic Dysplasia Syndrome） |
 | TxGNN 予測スコア | 99.80% |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 未上市（PMDA 照会 0 件） |
+| 日本市販状況 | Not marketed（PMDA 照会 0 件） |
 | 承認番号数 | 0 件 |
 | 推奨決定 | Hold |
 

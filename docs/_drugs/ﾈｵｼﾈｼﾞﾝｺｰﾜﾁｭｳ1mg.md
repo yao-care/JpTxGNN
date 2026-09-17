@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ﾈｵｼﾈｼﾞﾝｺｰﾜﾁｭｳ1Mg
-parent: 僅模型預測 (L5)
+parent: モデル予測のみ
 nav_order: 339
 evidence_level: L5
 indication_count: 0
@@ -10,12 +10,12 @@ indication_count: 0
 # ﾈｵｼﾈｼﾞﾝｺｰﾜﾁｭｳ1Mg
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **0** 個
+エビデンスレベル: **L5** | 予測適応症: **0** 件
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 目次
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 0
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 薬剤師評価レポート
 
 </div>
 
@@ -47,7 +47,7 @@ DrugBank ID の未紐付けおよび PMDA 照会結果 0 件により、現時�
 | 予測新規適応症 | なし（TxGNN 予測候補ゼロ） |
 | TxGNN 予測スコア | — |
 | エビデンスレベル | L5（予測・研究ともになし） |
-| 日本市販状況 | 未上市（PMDA 照会 0 件） |
+| 日本市販状況 | Not marketed（PMDA 照会 0 件） |
 | 承認番号数 | 0 件 |
 | 推奨決定 | Hold |
 

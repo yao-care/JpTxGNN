@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Riboflavin
-parent: 僅模型預測 (L5)
+parent: 中エビデンスレベル
 nav_order: 121
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 ---
 
 # Riboflavin
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+エビデンスレベル: **L4** | 予測適応症: **10** 件
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 目次
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 薬剤師評価レポート
 
 </div>
 
@@ -51,7 +51,7 @@ TxGNN モデルは **Biotin 代謝疾患（biotin metabolic disease）** に対�
 | 予測新規適応症 | Biotin 代謝疾患（biotin metabolic disease）|
 | TxGNN 予測スコア | 94.88% |
 | エビデンスレベル | L4 |
-| 日本市販状況 | 未上市（医薬品承認なし）|
+| 日本市販状況 | Not marketed（医薬品承認なし）|
 | 承認番号数 | 0 件 |
 | 推奨決定 | Hold |
 

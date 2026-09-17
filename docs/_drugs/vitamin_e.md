@@ -45,7 +45,7 @@ TxGNN 模型預測它可能對**先天性膽紅素代謝異常 (inborn disorder 
 | 予測新適応症 | 先天性膽紅素代謝異常 (inborn disorder of bilirubin metabolism) |
 | TxGNN 予測スコア | 99.99% |
 | エビデンスレベル | L3 |
-| 日本上市 | 已上市 |
+| 日本上市 | Marketed |
 | 承認数 | 多張（多種劑型） |
 | 推奨判断 | Proceed with Caution |
 

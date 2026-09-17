@@ -44,7 +44,7 @@ Warfarin 用於心房顫動（Atrial Fibrillation）**已是核准適應症**，
 | 適應症 | 心房纖維顫動（Atrial Fibrillation） |
 | 適應症狀態 | **已核准** |
 | エビデンスレベル | L1（多個 RCT 支持） |
-| 日本上市 | 已上市 |
+| 日本上市 | Marketed |
 | 推奨判断 | 標準治療 |
 
 ## 背景説明

@@ -43,7 +43,7 @@ Ribavirin 是一種抗病毒藥物，原本與干擾素或其他抗病毒藥物�
 | 予測新適応症 | 慢性 B 型肝炎病毒感染 (Chronic HBV Infection) |
 | TxGNN 予測スコア | 99.86% |
 | エビデンスレベル | L3 |
-| 日本上市 | 已上市 |
+| 日本上市 | Marketed |
 | 承認数 | 多張 |
 | 推奨判断 | Proceed with Guardrails |
 

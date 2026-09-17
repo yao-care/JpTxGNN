@@ -42,7 +42,7 @@ Benzylpenicillin (青黴素 G) 是經典的 beta-lactam 抗生素，用於多種
 | 予測新適応症 | 牙冠周炎 (pericoronitis) |
 | TxGNN 予測スコア | 99.36% |
 | エビデンスレベル | L3 (多篇觀察性研究和回顧性文獻) |
-| 日本上市 | 已上市 |
+| 日本上市 | Marketed |
 | 承認数 | 多張 (注射劑型) |
 | 推奨判断 | Go |
 

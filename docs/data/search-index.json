@@ -1,6 +1,6 @@
 {
   "generated": "2026-06-04",
-  "drug_count": 920,
+  "drug_count": 892,
   "indication_count": 2393,
   "drugs": [
     {
@@ -1260,14 +1260,6 @@
       "indications": []
     },
     {
-      "name": "Aluminum Oxide",
-      "slug": "aluminum_oxide",
-      "brands": [],
-      "original": "",
-      "level": "L4",
-      "indications": []
-    },
-    {
       "name": "Amcinonide",
       "slug": "amcinonide",
       "brands": [],
@@ -1278,14 +1270,6 @@
     {
       "name": "Amlodipine",
       "slug": "amlodipine",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Amorolfine",
-      "slug": "amorolfine",
       "brands": [],
       "original": "",
       "level": "L5",
@@ -2343,14 +2327,6 @@
       "indications": []
     },
     {
-      "name": "Aspirin",
-      "slug": "aspirin",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Atenolol",
       "slug": "atenolol",
       "brands": [],
@@ -3233,14 +3209,6 @@
       "indications": []
     },
     {
-      "name": "Avelumab",
-      "slug": "avelumab",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Azithromycin",
       "slug": "azithromycin",
       "brands": [],
@@ -3286,14 +3254,6 @@
       "brands": [],
       "original": "",
       "level": "L3",
-      "indications": []
-    },
-    {
-      "name": "Berberine",
-      "slug": "berberine",
-      "brands": [],
-      "original": "",
-      "level": "L5",
       "indications": []
     },
     {
@@ -6246,14 +6206,6 @@
       ]
     },
     {
-      "name": "Cerliponase Alfa",
-      "slug": "cerliponase_alfa",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Cetirizine",
       "slug": "cetirizine",
       "brands": [],
@@ -6666,14 +6618,6 @@
       "indications": []
     },
     {
-      "name": "Cladribine",
-      "slug": "cladribine",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Clarithromycin",
       "slug": "clarithromycin",
       "brands": [],
@@ -6863,14 +6807,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Clobetasone",
-      "slug": "clobetasone",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Clomipramine",
@@ -7499,14 +7435,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Cobicistat",
-      "slug": "cobicistat",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Codeine",
@@ -18968,27 +18896,11 @@
       ]
     },
     {
-      "name": "Inclisiran",
-      "slug": "inclisiran",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Inositol",
       "slug": "inositol",
       "brands": [],
       "original": "",
       "level": "L3",
-      "indications": []
-    },
-    {
-      "name": "Insulin Lispro",
-      "slug": "insulin_lispro",
-      "brands": [],
-      "original": "",
-      "level": "L5",
       "indications": []
     },
     {
@@ -19019,14 +18931,6 @@
       "brands": [],
       "original": "",
       "level": "L1",
-      "indications": []
-    },
-    {
-      "name": "Irbesartan",
-      "slug": "irbesartan",
-      "brands": [],
-      "original": "",
-      "level": "L5",
       "indications": []
     },
     {
@@ -19275,14 +19179,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Isoleucine",
-      "slug": "isoleucine",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Isosorbide Dinitrate",
@@ -22849,14 +22745,6 @@
       "indications": []
     },
     {
-      "name": "Methocarbamol",
-      "slug": "methocarbamol",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Methotrexate",
       "slug": "methotrexate",
       "brands": [],
@@ -24765,32 +24653,8 @@
       "indications": []
     },
     {
-      "name": "Naphazoline",
-      "slug": "naphazoline",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Naproxen",
-      "slug": "naproxen",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Nebivolol",
       "slug": "nebivolol",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Nefopam",
-      "slug": "nefopam",
       "brands": [],
       "original": "",
       "level": "L5",
@@ -25504,14 +25368,6 @@
       "indications": []
     },
     {
-      "name": "Ouabain",
-      "slug": "ouabain",
-      "brands": [],
-      "original": "",
-      "level": "L4",
-      "indications": []
-    },
-    {
       "name": "Oxybutynin",
       "slug": "oxybutynin",
       "brands": [],
@@ -25673,14 +25529,6 @@
       "brands": [],
       "original": "",
       "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Oxytetracycline",
-      "slug": "oxytetracycline",
-      "brands": [],
-      "original": "",
-      "level": "L2",
       "indications": []
     },
     {
@@ -25930,14 +25778,6 @@
       "brands": [],
       "original": "",
       "level": "L1",
-      "indications": []
-    },
-    {
-      "name": "Pentosan Polysulfate",
-      "slug": "pentosan_polysulfate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
       "indications": []
     },
     {
@@ -28490,22 +28330,6 @@
       ]
     },
     {
-      "name": "Raloxifene",
-      "slug": "raloxifene",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Ramucirumab",
-      "slug": "ramucirumab",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Regorafenib",
       "slug": "regorafenib",
       "brands": [],
@@ -28863,14 +28687,6 @@
           "level": "L5"
         }
       ]
-    },
-    {
-      "name": "Remdesivir",
-      "slug": "remdesivir",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
     },
     {
       "name": "Ribavirin",
@@ -32781,14 +32597,6 @@
       "indications": []
     },
     {
-      "name": "Timepidium",
-      "slug": "timepidium",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
       "name": "Timolol",
       "slug": "timolol",
       "brands": [],
@@ -32871,14 +32679,6 @@
     {
       "name": "Tioconazole",
       "slug": "tioconazole",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Titanium Dioxide",
-      "slug": "titanium_dioxide",
       "brands": [],
       "original": "",
       "level": "L5",
@@ -33535,14 +33335,6 @@
     {
       "name": "Trastuzumab Deruxtecan",
       "slug": "trastuzumab_deruxtecan",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Travoprost",
-      "slug": "travoprost",
       "brands": [],
       "original": "",
       "level": "L5",
@@ -34285,14 +34077,6 @@
     {
       "name": "Tyrosine",
       "slug": "tyrosine",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": []
-    },
-    {
-      "name": "Urea",
-      "slug": "urea",
       "brands": [],
       "original": "",
       "level": "L5",
@@ -35714,14 +35498,6 @@
       "brands": [],
       "original": "",
       "level": "L1",
-      "indications": []
-    },
-    {
-      "name": "Xylitol",
-      "slug": "xylitol",
-      "brands": [],
-      "original": "",
-      "level": "L5",
       "indications": []
     },
     {
@@ -38649,7 +38425,7 @@
     },
     {
       "name": "Braddock syndrome",
-      "drug_count": 13,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Atenolol",
@@ -40525,7 +40301,7 @@
     },
     {
       "name": "Prinzmetal angina",
-      "drug_count": 13,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Diltiazem",
@@ -42762,7 +42538,7 @@
     },
     {
       "name": "agoraphobia",
-      "drug_count": 11,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Alprazolam",
@@ -44030,7 +43806,7 @@
     },
     {
       "name": "anxiety disorder",
-      "drug_count": 12,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Alprazolam",
@@ -44754,7 +44530,7 @@
     },
     {
       "name": "attention deficit hyperactivity disorder, inattentive type",
-      "drug_count": 11,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Diazepam",
@@ -44810,7 +44586,7 @@
     },
     {
       "name": "attention deficit-hyperactivity disorder",
-      "drug_count": 13,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Diazepam",
@@ -46016,7 +45792,7 @@
     },
     {
       "name": "benign paroxysmal torticollis of infancy",
-      "drug_count": 11,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Alprazolam",
@@ -46859,7 +46635,7 @@
     },
     {
       "name": "brachydactyly-syndactyly syndrome",
-      "drug_count": 18,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Celecoxib",
@@ -47079,7 +46855,7 @@
     },
     {
       "name": "brain stem infarction",
-      "drug_count": 12,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Atorvastatin",
@@ -48405,7 +48181,7 @@
     },
     {
       "name": "cerebral artery occlusion",
-      "drug_count": 11,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Telmisartan",
@@ -48509,7 +48285,7 @@
     },
     {
       "name": "cerebral infarction",
-      "drug_count": 11,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Atorvastatin",
@@ -48587,7 +48363,7 @@
     },
     {
       "name": "cerebrovascular disorder",
-      "drug_count": 11,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Telmisartan",
@@ -49186,7 +48962,7 @@
     },
     {
       "name": "chondromyxoid fibroma",
-      "drug_count": 11,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Diazepam",
@@ -49534,7 +49310,7 @@
     },
     {
       "name": "chronic pulmonary heart disease",
-      "drug_count": 13,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Atenolol",
@@ -50072,7 +49848,7 @@
     },
     {
       "name": "colobomatous microphthalmia-rhizomelic dysplasia syndrome",
-      "drug_count": 18,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Celecoxib",
@@ -50765,7 +50541,7 @@
     },
     {
       "name": "congenital hypotrichosis milia",
-      "drug_count": 13,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Diclofenac",
@@ -52492,7 +52268,7 @@
     },
     {
       "name": "diffuse alopecia areata",
-      "drug_count": 12,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Diclofenac",
@@ -53202,7 +52978,7 @@
     },
     {
       "name": "duodenal obstruction",
-      "drug_count": 11,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Esomeprazole",
@@ -53473,7 +53249,7 @@
     },
     {
       "name": "dysthymic disorder",
-      "drug_count": 11,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Duloxetine",
@@ -55397,7 +55173,7 @@
     },
     {
       "name": "faciodigitogenital syndrome",
-      "drug_count": 12,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Diazepam",
@@ -56081,7 +55857,7 @@
     },
     {
       "name": "female breast carcinoma",
-      "drug_count": 11,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Carboplatin",
@@ -58141,7 +57917,7 @@
     },
     {
       "name": "gout",
-      "drug_count": 13,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Allopurinol",
@@ -58435,7 +58211,7 @@
     },
     {
       "name": "headache disorder",
-      "drug_count": 13,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Codeine",
@@ -59476,7 +59252,7 @@
     },
     {
       "name": "homozygous familial hypercholesterolemia",
-      "drug_count": 12,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Atorvastatin",
@@ -60197,7 +59973,7 @@
     },
     {
       "name": "hypertensive disorder",
-      "drug_count": 14,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Atenolol",
@@ -60594,7 +60370,7 @@
     },
     {
       "name": "hypotrichosis simplex of the scalp",
-      "drug_count": 13,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Diclofenac",
@@ -61908,7 +61684,7 @@
     },
     {
       "name": "intracerebral hemorrhage",
-      "drug_count": 11,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Telmisartan",
@@ -63973,7 +63749,7 @@
     },
     {
       "name": "major affective disorder",
-      "drug_count": 11,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Aripiprazole",
@@ -64342,7 +64118,7 @@
     },
     {
       "name": "malignant hypertensive renal disease",
-      "drug_count": 13,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Atenolol",
@@ -64501,7 +64277,7 @@
     },
     {
       "name": "malignant renovascular hypertension",
-      "drug_count": 13,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Atenolol",
@@ -64638,7 +64414,7 @@
     },
     {
       "name": "manic bipolar affective disorder",
-      "drug_count": 12,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Aripiprazole",
@@ -65539,7 +65315,7 @@
     },
     {
       "name": "migraine disorder",
-      "drug_count": 13,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Acetaminophen",
@@ -65595,7 +65371,7 @@
     },
     {
       "name": "migraine with brainstem aura",
-      "drug_count": 14,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Acetaminophen",
@@ -66469,7 +66245,7 @@
     },
     {
       "name": "myofascial pain syndrome",
-      "drug_count": 11,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Diazepam",
@@ -68329,7 +68105,7 @@
     },
     {
       "name": "obsolete susceptibility to ischemic stroke",
-      "drug_count": 12,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Atorvastatin",
@@ -69135,7 +68911,7 @@
     },
     {
       "name": "osteoarthritis susceptibility",
-      "drug_count": 11,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Celecoxib",
@@ -69997,7 +69773,7 @@
     },
     {
       "name": "papillary conjunctivitis",
-      "drug_count": 15,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Cetirizine",
@@ -73704,7 +73480,7 @@
     },
     {
       "name": "pulmonary hypertension owing to lung disease and/or hypoxia",
-      "drug_count": 13,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Atenolol",
@@ -73760,7 +73536,7 @@
     },
     {
       "name": "pulmonary hypertension with unclear multifactorial mechanism",
-      "drug_count": 13,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Atenolol",
@@ -73896,7 +73672,7 @@
     },
     {
       "name": "punctate epithelial keratoconjunctivitis",
-      "drug_count": 15,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Acyclovir",
@@ -74700,7 +74476,7 @@
     },
     {
       "name": "restless legs syndrome",
-      "drug_count": 11,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Diazepam",
@@ -75016,7 +74792,7 @@
     },
     {
       "name": "rheumatoid arthritis",
-      "drug_count": 18,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Celecoxib",
@@ -79503,7 +79279,7 @@
     },
     {
       "name": "trichotillomania",
-      "drug_count": 11,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Aripiprazole",
@@ -79559,7 +79335,7 @@
     },
     {
       "name": "trigeminal autonomic cephalalgia",
-      "drug_count": 14,
+      "drug_count": 10,
       "drugs": [
         {
           "drug": "Codeine",

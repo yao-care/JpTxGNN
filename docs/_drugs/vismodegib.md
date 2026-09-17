@@ -45,7 +45,7 @@ TxGNN 模型預測它可能對**著色性乾皮症 (Xeroderma Pigmentosum)** 有
 | 予測新適応症 | 著色性乾皮症 (Xeroderma Pigmentosum) |
 | TxGNN 予測スコア | 99.91% |
 | エビデンスレベル | L4 |
-| 日本上市 | ✓ 已上市 |
+| 日本上市 | ✓ Marketed |
 | 承認数 | 2 張 |
 | 推奨判断 | Research Question |
 

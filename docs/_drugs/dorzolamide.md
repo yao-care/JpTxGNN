@@ -45,7 +45,7 @@ TxGNN 模型預測它可能對**原發性遺傳性青光眼 (primary hereditary 
 | 予測新適応症 | 原發性遺傳性青光眼 (primary hereditary glaucoma) |
 | TxGNN 予測スコア | 99.99% |
 | エビデンスレベル | L3 |
-| 日本上市 | 已上市 |
+| 日本上市 | Marketed |
 | 承認数 | 多張 |
 | 推奨判断 | Proceed with Guardrails |
 

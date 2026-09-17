@@ -43,7 +43,7 @@ Rotigotine 原本用於治療原發性帕金森氏症。TxGNN 模型預測它可
 | 予測新適応症 | 思覺失調症 (schizophrenia) |
 | TxGNN 予測スコア | 99.996% |
 | エビデンスレベル | L4 |
-| 日本上市 | 已上市 |
+| 日本上市 | Marketed |
 | 承認数 | 12 張 |
 | 推奨判断 | Worth Exploring |
 

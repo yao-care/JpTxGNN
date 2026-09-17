@@ -1,21 +1,21 @@
 ---
 layout: default
 title: Celecoxib
-parent: 僅模型預測 (L5)
+parent: 高エビデンスレベル
 nav_order: 32
-evidence_level: L5
+evidence_level: L1
 indication_count: 10
 ---
 
 # Celecoxib
 {: .fs-9 }
 
-證據等級: **L5** | 預測適應症: **10** 個
+エビデンスレベル: **L1** | 予測適応症: **10** 件
 {: .fs-6 .fw-300 }
 
 ---
 
-## 目錄
+## 目次
 {: .no_toc .text-delta }
 
 1. TOC
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## 藥師評估報告
+## 薬剤師評価レポート
 
 </div>
 
@@ -45,7 +45,7 @@ Celecoxib（セレコキシブ）は選択的 COX-2 阻害薬として、世界�
 | 予測新規適応症 | 炎症性脊椎症 (Inflammatory Spondylopathy) |
 | TxGNN 予測スコア | 99.80% |
 | エビデンスレベル | L1 |
-| 日本市販状況 | ✗ 未上市 |
+| 日本市販状況 | ✗ Not marketed |
 | 承認番号数 | 0 件 |
 | 推奨決定 | Proceed with Guardrails |
 

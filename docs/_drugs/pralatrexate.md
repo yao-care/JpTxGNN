@@ -45,7 +45,7 @@ TxGNN 模型預測它可能對**胸膜上皮型間皮瘤 (pleural epithelioid me
 | 予測新適応症 | 胸膜上皮型間皮瘤 (pleural epithelioid mesothelioma) |
 | TxGNN 予測スコア | 99.89% |
 | エビデンスレベル | L4 |
-| 日本上市 | ✓ 已上市 |
+| 日本上市 | ✓ Marketed |
 | 承認数 | 2 張 |
 | 推奨判断 | Research Question |
 

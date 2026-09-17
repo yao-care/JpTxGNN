@@ -45,7 +45,7 @@ TxGNN 模型預測它可能對多種罕見骨骼發育不良疾病有效，
 | 予測新適応症 | Brachydactyly-Syndactyly Syndrome（首位） |
 | TxGNN 予測スコア | 99.99%（最高分） |
 | エビデンスレベル | L5（僅預測） |
-| 日本上市 | 已上市 |
+| 日本上市 | Marketed |
 | 承認数 | 35 張 |
 | 推奨判断 | Hold |
 
