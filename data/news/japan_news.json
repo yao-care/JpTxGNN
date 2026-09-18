@@ -1,31 +1,115 @@
 {
   "source": "japan_news",
-  "fetched_at": "2026-09-18T02:11:10.070968+00:00",
+  "fetched_at": "2026-09-18T10:14:36.568088+00:00",
   "total_fetched": 170,
   "unique_count": 170,
-  "health_related_count": 87,
+  "health_related_count": 79,
   "news": [
     {
-      "id": "92e6a8c3dd79",
-      "title": "「何十億円、何百億円を投資」　深刻な医師不足解消へAI活用を構想　「にしたんARTクリニック」が描く医療の未来(Hint-Pot)",
-      "published": "2026-09-18T02:05:53+00:00",
-      "summary": "不妊治療を必要とする人が、住む場所によって受けられる医療に差が生じる現状をどう変えていくのか。2022年から「にしたんARTクリニック」を運営支援するエクスコムグローバルの西村誠司社長は、全国80院",
+      "id": "c357e25f3b52",
+      "title": "「しゃべったー！」キャンドゥの『差し入れ用シール』を買ってみた「お菓子が話しかけてきた！」(LIMO)",
+      "published": "2026-09-18T09:31:07+00:00",
+      "summary": "100円ショップのキャンドゥでは、ユニークな文房具が種類豊富に販売されています。 2026年9月には、差し入れを面白くしてくれること間違いなしの「差し入れ用シール」が販売されているのを発見しました。",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/1ebc7e8847d1d141c4bed8fab452b88bae7c639a?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/c92fd77dbd39431fecdb0eec62e2ca8f63226ad4?source=rss"
         }
       ]
     },
     {
-      "id": "5838b052ddc8",
-      "title": "健康長寿のカギは……「長寿菌」！　今日からできる腸活習慣をチェック(サライ.jp)",
-      "published": "2026-09-18T02:03:47+00:00",
-      "summary": "腸活はおなかの調子を整えるためのものと思っていませんか？ 実は、腸内環境を整えることは健康長寿にも関係しています。そのカギを握るのがいわゆる「長寿菌」です。 あんしん漢方所属の医師で腸活に詳しい後藤",
+      "id": "19e0e6fd1594",
+      "title": "内密出産の環境整備「前向きに考えたい」　就任記者会見で中司宏こども政策担当相(産経新聞)",
+      "published": "2026-09-18T09:31:00+00:00",
+      "summary": "中司宏こども政策担当相は18日の就任記者会見で、周囲に妊娠を知られたくない女性が病院にだけ身元を明かして出産する「内密出産」について、「環境整備をすることを前向きに考えたい」と述べた。 内密出産は、",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/96542778f34f803c3cf131269dc88c6911ce6e3d?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/dc44f7ebd30307c3a0b26960d868164f5cf3312b?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "3190a8e443f8",
+      "title": "ローソン初の「AI発案」商品3品、レモンタルト×ピクルスも　「こういう使い方でいいんだよ」とSNSでは好反応(LIMO)",
+      "published": "2026-09-18T09:25:49+00:00",
+      "summary": "生成AIが商品開発の現場に入り始めています。株式会社ローソンは9月29日、生成AIが出したアイデアを起点に開発した3商品を発売します。 SNSでは驚きや興味を示す声がある一方、AIが商品を考えること",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/3483e887bbdb12dd73745aeb9b6b77b429ac4877?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "7321b3b5ff01",
+      "title": "「ヒト脳オルガノイド」をマウス移植で神経回路を形成 - NHKニュース",
+      "published": "2026-09-18T08:56:33+00:00",
+      "summary": "「ヒト脳オルガノイド」をマウス移植で神経回路を形成&nbsp;&nbsp;NHKニュースヒト脳の「ミニ臓器」をマウスに移植 動物に意識？ 倫理的な課題は&nbsp;&nbsp;朝日新聞ヒト脳オルガノイドを移植、機能 遺伝子操作の生体マウスに 米大学（時事通信）&nbsp;&nbsp;Yahoo!ニュースヒトの脳細胞をマウスの脳に移植することに成功&nbsp;&nbsp;GIGAZINEヒト脳オルガノイドを移植、機能 遺伝子操作の生体マウスに―米大学&nbsp;&nbsp;時事ドットコム",
+      "sources": [
+        {
+          "name": "NHKニュース",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TQllhVHFOVTRrbnFHREV2NlgxZnBEUHFxNmVDQUlSRk5mNnA1RDczbG1FTjQ4T25yZDFBLVhLWjk5UW9HNk8tQWQ2MHNhemNJT1ZqREFyTE9GN1lBdEtZ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6529759c445c",
+      "title": "インフル・コロナワクチン、使用実績上回る供給見通し 厚労省、適正発注を要請 - 医療介護CBnews",
+      "published": "2026-09-18T08:15:00+00:00",
+      "summary": "インフル・コロナワクチン、使用実績上回る供給見通し 厚労省、適正発注を要請&nbsp;&nbsp;医療介護CBnews",
+      "sources": [
+        {
+          "name": "医療介護CBnews",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MZzNCREZYRnhiWGpRY0xMalBzY3BzMk5VMHgxcDZFS3FSaUdVdTF0MW9OZkJSRDVMa29SVzRwR1BuLXB2YkloMTI5UTJnTkQ5c0JmZWJacWJ5WFU?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0dbfcd92dd3e",
+      "title": "難治性の神経障害性疼痛で新たな治療薬標的「LPA4」を発見 広島大 - マイナビニュース",
+      "published": "2026-09-18T05:05:00+00:00",
+      "summary": "難治性の神経障害性疼痛で新たな治療薬標的「LPA4」を発見 広島大&nbsp;&nbsp;マイナビニュース",
+      "sources": [
+        {
+          "name": "マイナビニュース",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvdnoxZ2d4Wld5ZHhaQVhEMGE0MDJvY0ZrTWEtWnZBY0QwclBzeUpKTk4yLWRZaGdRdzNSTDJhVzB1cnBSVEVnMXFBVWkwdXNyXzJ5dFBnUVJhbVA1UTR0dVBaQ1U4ZDli?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dd990d362d9c",
+      "title": "潜在患者の9割は未治療？ 見逃されやすい睡眠時無呼吸症候群と、生活習慣病との関係(Medical Note)",
+      "published": "2026-09-18T04:50:06+00:00",
+      "summary": "いびきや日中の眠気を引き起こすことで知られる「睡眠時無呼吸症候群（以下、SAS）」。実はその多くが見逃されているこの病気は、高血圧や糖尿病といった生活習慣病とも深く関わっている。 地域のかかりつけ医",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/f1db07482cdd127f435362027ce49c1e4b4d6edf?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "543069eb4c97",
+      "title": "「いつもの生理不順？」40～50代が見逃しやすい不正出血。少量でも受診すべき理由【医師解説】 - Ameba News [アメーバニュース]",
+      "published": "2026-09-18T04:44:40+00:00",
+      "summary": "「いつもの生理不順？」40～50代が見逃しやすい不正出血。少量でも受診すべき理由【医師解説】&nbsp;&nbsp;Ameba News [アメーバニュース]全国ワースト10に入る沖縄の子宮頸がん罹患率 ワクチン接種と精密検査受診の向上を 専門医ら市民公開講座&nbsp;&nbsp;沖縄タイムス社「子宮頸がん」の初期症状はほぼ“なし”…？ 放置厳禁な“出血のサイン”とは【産婦人科医に聞く】（オトナンサー）&nbsp;&nbsp;Yahoo!ニュース子宮頸がん検診を 那覇で講座 ワクチン安全性強調&nbsp;&nbsp;ryukyushimpo.jp",
+      "sources": [
+        {
+          "name": "Ameba News [アメーバニュース]",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ENldhTzN2RmZrSFZEN3QwZ21Ia1pxZHVKdk5iVGU3UjNheHJfMkRJbUhUcGdhekRHbUowZ1J4Wl8xQXhDOU5fcTdMdUJ3RDJNLUNfY2hHYXdKRHNVb3c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6ca35074546a",
+      "title": "誕生直後の太陽がスーパーアースを飲み込んでいた？　太陽めぐる謎の一部を説明できる可能性(sorae 宇宙へのポータルサイト)",
+      "published": "2026-09-18T02:35:27+00:00",
+      "summary": "エーゲ大学のMutlu Yildiz教授は、もしも誕生直後の太陽が地球よりも大きな岩石惑星、いわゆるスーパーアースを飲み込んでいたとすれば、太陽をめぐる謎の一部を説明できる可能性があることを示した研究",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/c20a12a60dd1a5afda852f49b96b59bd67029ef7?source=rss"
         }
       ]
     },
@@ -42,18 +126,6 @@
       ]
     },
     {
-      "id": "365754605c12",
-      "title": "ナイキ「アルファフライ 4」発売　エネルギー効率10％向上、マラソン後半を支える(FASHIONSNAP)",
-      "published": "2026-09-18T02:00:28+00:00",
-      "summary": "ナイキが、マラソン用レーシングシューズ「ナイキ アルファフライ」の新作である「ナイキ アルファフライ 4」を発表した。「より多くのランナーが長い距離でもスピードを維持できる」ことを目指して開発したと",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/83f6854269cac1514a6d742afd0b4c58d1bd1b3a?source=rss"
-        }
-      ]
-    },
-    {
       "id": "d8f4e61c61fb",
       "title": "【荒波の先に見る大学像 8】「学際創成学術院」を新設、広い視野で社会を支える人材を育てる 筑波大学理事・プロボスト 加藤光保さん(Science Portal)",
       "published": "2026-09-18T01:25:56+00:00",
@@ -66,30 +138,6 @@
       ]
     },
     {
-      "id": "05ebefe5c762",
-      "title": "「あなたの夫、不倫しています」独身偽装された女性、怒りにまかせた妻への“密告”に思わぬリスク(弁護士ドットコムニュース)",
-      "published": "2026-09-18T01:10:00+00:00",
-      "summary": "「同じ女性として、奥さんへの仕打ちが許せません」 こんな相談が弁護士ドットコムに寄せられている。 相談者の女性は、交際していた男性に独身だと偽られていたという。さらに、その既婚男性が交際期間中から",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/9edfce0fea4ffa14c517eff8efc54e3cad9c33db?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "a63587a228e3",
-      "title": "【闘病】岩田明子、激務で壊れた体に表れた“完治しない難病”「更年期だと思った」衝撃の診断とは(メディカルドック)",
-      "published": "2026-09-18T01:00:09+00:00",
-      "summary": "倦怠感やホットフラッシュ、めまい、関節痛――。40代以降にこうした不調が続くと、「更年期だから」と考える人も少なくないでしょう。 安倍晋三元首相の番記者として知られるジャーナリストの岩田明子さんも、",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/f374c2e6b1daed7348972ff0905bf84b4d581b8e?source=rss"
-        }
-      ]
-    },
-    {
       "id": "fbc7c04ff070",
       "title": "EBウイルスが関わる血液疾患の「ゲノムの立体構造異常」を解明 ―慢性活動性EBウイルス病などの新たな病態理解へ― - PR TIMES",
       "published": "2026-09-18T01:00:02+00:00",
@@ -98,18 +146,6 @@
         {
           "name": "PR TIMES",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DTW9jX19ja2hZb0t1STNLQktfNlRoZklUZDZ4cjh2VVItbDl2azdZMmlRbXYtYUVfZFZUYnlvX0RXRkJJTWZYWEFlQVJRbFUxVmtqdnlVMVB0R2JXSzc2YV9BRWVkdGVoZFE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0da4e6521a52",
-      "title": "「重症筋無力症」を知り正しく理解を　10月3日熊本市で市民公開講座(オーヴォ)",
-      "published": "2026-09-18T01:00:00+00:00",
-      "summary": "脳から筋肉への指令が伝わりにくくなり、全身の筋力低下やまぶたが垂れ下がるなどの症状が起こる重症筋無力症（MG）をテーマにした市民公開講座が10月3日（土）15時から、熊本県医師会館（熊本市中央区花畑",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/4394f387829354cc3373d2641062c6a4d498971f?source=rss"
         }
       ]
     },
@@ -129,7 +165,7 @@
       "id": "69872dd79b12",
       "title": "フィジーでＨＩＶ感染拡大＝「緊急事態」宣言 - リスク対策.com",
       "published": "2026-09-17T23:28:10+00:00",
-      "summary": "フィジーでＨＩＶ感染拡大＝「緊急事態」宣言&nbsp;&nbsp;リスク対策.comフィジーでHIV感染拡大 「緊急事態」宣言（時事通信）&nbsp;&nbsp;Yahoo!ニュースフィジー、HIV感染拡大で国家非常事態宣言 成人60人に1人が感染&nbsp;&nbsp;CNN.co.jpフィジーがHIV危機を宣言 南太平洋、薬物使用で感染急増&nbsp;&nbsp;ｄメニューニュース【写真・画像】フィジーがＨＩＶ危機を宣言 南太平洋、薬物使用で感染急増 | | 全国のニュース&nbsp;&nbsp;佐賀新聞",
+      "summary": "フィジーでＨＩＶ感染拡大＝「緊急事態」宣言&nbsp;&nbsp;リスク対策.comフィジー、HIV感染拡大で国家非常事態宣言 成人60人に1人が感染&nbsp;&nbsp;CNN.co.jpフィジー、ＨＩＶ感染急拡大で国家危機宣言 昨年27％増（ロイター）&nbsp;&nbsp;Yahoo!ニュースフィジーでHIV感染急拡大、国家緊急事態を宣言 60人に1人と推定&nbsp;&nbsp;毎日新聞フィジーがHIV危機を宣言 南太平洋、薬物使用で感染急増&nbsp;&nbsp;ｄメニューニュース",
       "sources": [
         {
           "name": "リスク対策.com",
@@ -186,26 +222,14 @@
       ]
     },
     {
-      "id": "5d44b0e80c75",
-      "title": "ゲンキなシニアの暮らしぶりに学ぶ「健康長寿の秘訣」キーワードは足腰・血管・脳！健康長寿につながる食生活とは？ 9/20(日)『健康カプセル！ゲンキの時間』 | 株式会社CBCテレビのプレスリリース - PR TIMES",
-      "published": "2026-09-17T08:10:02+00:00",
-      "summary": "ゲンキなシニアの暮らしぶりに学ぶ「健康長寿の秘訣」キーワードは足腰・血管・脳！健康長寿につながる食生活とは？ 9/20(日)『健康カプセル！ゲンキの時間』 | 株式会社CBCテレビのプレスリリース&nbsp;&nbsp;PR TIMES専門家15人が選出》脳・血管・腸の老化を止める「最強の食品」ランキング 1位「青魚」は血管の慢性炎症や血栓を抑制、2位「緑黄色野菜」は血流を改善、腸内環境を整えるのは発酵食品（女性セブンプラス&nbsp;&nbsp;Yahoo!ニュース百寿者が多い地域で見えてきた「健康長寿の秘訣」とは？&nbsp;&nbsp;日経Goodayゲンキなシニアの暮らしぶりに学ぶ「健康長寿の秘訣」キーワードは足腰・血管・脳！健康長寿につながる食生活とは？ 9/20(日)『健康カプセル！ゲンキの時間』&nbsp;&nbsp;時事ドットコム",
+      "id": "26d325b4f867",
+      "title": "福岡市で新たに2人が「はしか」に感染 西鉄バスやJR、商業施設2カ所を利用 他の感染者と接触あり健康観察中に発症 - 福岡TNCニュース",
+      "published": "2026-09-17T08:58:43+00:00",
+      "summary": "福岡市で新たに2人が「はしか」に感染 西鉄バスやJR、商業施設2カ所を利用 他の感染者と接触あり健康観察中に発症&nbsp;&nbsp;福岡TNCニュースはしか感染の10代男性、地下鉄を利用 福岡市が発表&nbsp;&nbsp;西日本新聞me福岡市内で麻しん（はしか）が発生しています&nbsp;&nbsp;city.fukuoka.lg.jp感染力はインフルの10倍 『はしか』感染相次ぐ 1日に4件感染確認も 9月は既に11件 病院で『抗体検査』が可能 【福岡発】&nbsp;&nbsp;FNNプライムオンラインはしかに10代男性が感染 福岡市 今年に入り19人目（KBC九州朝日放送）&nbsp;&nbsp;Yahoo!ニュース",
       "sources": [
         {
-          "name": "PR TIMES",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BWUJXUWIyUDk2ekUtQnJxSVh1NXBDX015Mi1VNlFLa1doOVVjdkR2NmEyOFNmLUhNTjNWclRuSjhJbHNIbDJ6LUJvR0RVU1FUY1Ytb2Y4cnlUenVwbzFCaXdXVC1TQm1kREE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "100c888fc90c",
-      "title": "はしか感染の福岡市の女性2人、不特定多数と接触か 西鉄バス、JR、商業施設利用 - 西日本新聞me",
-      "published": "2026-09-17T08:10:00+00:00",
-      "summary": "はしか感染の福岡市の女性2人、不特定多数と接触か 西鉄バス、JR、商業施設利用&nbsp;&nbsp;西日本新聞me計4人がはしかに感染 不特定多数と接触か 福岡県と福岡市&nbsp;&nbsp;西日本新聞me福岡市内で麻しん（はしか）が発生しています&nbsp;&nbsp;city.fukuoka.lg.jp感染力はインフルの10倍 『はしか』感染相次ぐ 1日に4件感染確認も 9月は既に11件 病院で『抗体検査』が可能 【福岡発】&nbsp;&nbsp;FNNプライムオンライン福岡市で新たに2人が「はしか」に感染 西鉄バスやJR、商業施設2カ所を利用 他の感染者と接触あり健康観察中に発症&nbsp;&nbsp;Yahoo!ニュース",
-      "sources": [
-        {
-          "name": "西日本新聞me",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5hc0EwT2xZVHQ2YS1iV2h1V2tQSk84V2RSMWR2Q1BaTW1LbElvdjV2cDM4UVROcWJ0eC1xUURFZGhLV3FoZW9xTTh2MXBXcVBiQlU2U01B?oc=5"
+          "name": "福岡TNCニュース",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Zam5Fb2JRUnQzU0xLRE1wNjJzbl9DY3RkT3N1Zk9MUjdVUmNHRHRjMHhDVmR6QWdSYVhuMDcxTDY0c3J0NWQ1NkFVc0hCTzJQYWtUU0R2MFluVHRPTWtVSzhqMA?oc=5"
         }
       ]
     },
@@ -270,13 +294,13 @@
       ]
     },
     {
-      "id": "51e48e8f21b7",
-      "title": "ブタの日本脳炎抗体保有状況－2026年度速報第8報 - id-info.jihs.go.jp",
+      "id": "1b34ede3a3c7",
+      "title": "ブタの日本脳炎抗体保有状況－2026年度速報第8報 - 国立健康危機管理研究機構",
       "published": "2026-09-17T04:46:36+00:00",
-      "summary": "ブタの日本脳炎抗体保有状況－2026年度速報第8報&nbsp;&nbsp;id-info.jihs.go.jp",
+      "summary": "ブタの日本脳炎抗体保有状況－2026年度速報第8報&nbsp;&nbsp;国立健康危機管理研究機構",
       "sources": [
         {
-          "name": "id-info.jihs.go.jp",
+          "name": "国立健康危機管理研究機構",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLTdSdEh1RGtGY1NBM2FtaWN3WktZQlpPYnlmQTlxRFJhb1p0Nm9GWS00UXVCWS0zMWZRZ3p0Wl8wRjM1MnNzbndDYi1zaGhwMFpIa1R0VVluS01ONWN4QUZSaDQxU3h4NW90V3Rac2xqcE5nOE9URDFoRHNBMGlKUmhnc1kyWWtRN1QzMDRNcVU0dlBoTUxZeldDcw?oc=5"
         }
       ]
@@ -297,7 +321,7 @@
       "id": "76e1c7234d2c",
       "title": "『GLP-1関連薬』をやめた後のリバウンド問題と、その先の治療選択肢 - メディカルドック",
       "published": "2026-09-17T02:02:24+00:00",
-      "summary": "『GLP-1関連薬』をやめた後のリバウンド問題と、その先の治療選択肢&nbsp;&nbsp;メディカルドック",
+      "summary": "『GLP-1関連薬』をやめた後のリバウンド問題と、その先の治療選択肢&nbsp;&nbsp;メディカルドック川崎医科大学付属病院で「肥満症」の入院プログラムがスタート 治療薬やめると体重戻る患者…生活見直すきっかけに 岡山・倉敷市&nbsp;&nbsp;KSBニュース",
       "sources": [
         {
           "name": "メディカルドック",
@@ -321,7 +345,7 @@
       "id": "e7d06fccc77c",
       "title": "9月24日〜30日は「結核・呼吸器感染症予防週間」及び「非結核性抗酸菌症啓発週間」です - city.namerikawa.toyama.jp",
       "published": "2026-09-17T00:02:50+00:00",
-      "summary": "9月24日〜30日は「結核・呼吸器感染症予防週間」及び「非結核性抗酸菌症啓発週間」です&nbsp;&nbsp;city.namerikawa.toyama.jpＮＴＭ症を正しく知って&nbsp;&nbsp;公明党令和8年度版結核・呼吸器感染症予防週間及び非結核性抗酸菌症啓発週間ポスター｜関連資料・リリース&nbsp;&nbsp;tokuteikenshin-hokensidou.jp",
+      "summary": "9月24日〜30日は「結核・呼吸器感染症予防週間」及び「非結核性抗酸菌症啓発週間」です&nbsp;&nbsp;city.namerikawa.toyama.jpＮＴＭ症を正しく知って&nbsp;&nbsp;公明党令和8年度版結核・呼吸器感染症予防週間及び非結核性抗酸菌症啓発週間ポスター｜関連資料・リリース&nbsp;&nbsp;保健指導リソースガイド",
       "sources": [
         {
           "name": "city.namerikawa.toyama.jp",
@@ -345,7 +369,7 @@
       "id": "49caf3ffaee7",
       "title": "世界で最も座位時間が長い日本人「座りっぱなし」の病気リスク (2026年9月17日掲載) - ライブドアニュース",
       "published": "2026-09-16T21:30:12+00:00",
-      "summary": "世界で最も座位時間が長い日本人「座りっぱなし」の病気リスク (2026年9月17日掲載)&nbsp;&nbsp;ライブドアニュース「約2人に1人ががん」座りっぱなしはNG？英専門医が教える、がんリスクを下げる「3つの簡単な習慣」【英】（ウィメンズヘルス）&nbsp;&nbsp;Yahoo!ニュース食生活整えて病を防ぐ 野菜の摂取や1日に食べる食品の数増やす&nbsp;&nbsp;日本経済新聞",
+      "summary": "世界で最も座位時間が長い日本人「座りっぱなし」の病気リスク (2026年9月17日掲載)&nbsp;&nbsp;ライブドアニュース運動でがん患者の死亡・再発リスクが低下 新研究&nbsp;&nbsp;ニューズウィーク日本版「約2人に1人ががん」座りっぱなしはNG？英専門医が教える、がんリスクを下げる「3つの簡単な習慣」【英】（ウィメンズヘルス）&nbsp;&nbsp;Yahoo!ニュース食生活整えて病を防ぐ 野菜の摂取や1日に食べる食品の数増やす&nbsp;&nbsp;日本経済新聞",
       "sources": [
         {
           "name": "ライブドアニュース",
@@ -381,7 +405,7 @@
       "id": "51bc9f9e92da",
       "title": "旅行前、感染対策は万全ですか？ 手は6カ所洗う、ワクチンは「なるはや」―医師が教える防御術 - メディカルドック",
       "published": "2026-09-16T13:41:44+00:00",
-      "summary": "旅行前、感染対策は万全ですか？ 手は6カ所洗う、ワクチンは「なるはや」―医師が教える防御術&nbsp;&nbsp;メディカルドック旅行前、感染対策は万全ですか？ 手は6カ所洗う、ワクチンは「なるはや」―医師が教える防御術（メディカルドック）&nbsp;&nbsp;Yahoo!ニュース第77回 「もう打たなくていい」は本当か？最新155本の研究が示すコロナワクチンの効果と安全性｜連載企画｜CareNet.com&nbsp;&nbsp;CareNet.comコロナ死者はインフルの3倍―様子見が招く3つの代償と、重症化を防ぐワクチン×治療の二本柱【医師解説】（メディカルドック）&nbsp;&nbsp;Yahoo!ニュース",
+      "summary": "旅行前、感染対策は万全ですか？ 手は6カ所洗う、ワクチンは「なるはや」―医師が教える防御術&nbsp;&nbsp;メディカルドック【秋冬流行の感染症2026】インフルエンザ流行中、コロナも…ワクチンはいつ？「うがい薬」「消毒」の勘違いも？ 注意点を医師が解説（オリコン）&nbsp;&nbsp;Yahoo!ニュース旅行前、感染対策は万全ですか？ 手は6カ所洗う、ワクチンは「なるはや」―医師が教える防御術（メディカルドック）&nbsp;&nbsp;Yahoo!ニュースコロナ死者はインフルの3倍―様子見が招く3つの代償と、重症化を防ぐワクチン×治療の二本柱【医師解説】（メディカルドック）&nbsp;&nbsp;Yahoo!ニュース",
       "sources": [
         {
           "name": "メディカルドック",
@@ -414,26 +438,14 @@
       ]
     },
     {
-      "id": "c491812d726b",
-      "title": "川崎市、２０代女性のはしか感染を発表 ラゾーナ川崎や東海道線を利用 - カナロコ",
+      "id": "259fdca9e7f4",
+      "title": "川崎市、２０代女性のはしか感染を発表 ラゾーナ川崎や東海道線を利用 - kanaloco.jp",
       "published": "2026-09-16T10:50:00+00:00",
-      "summary": "川崎市、２０代女性のはしか感染を発表 ラゾーナ川崎や東海道線を利用&nbsp;&nbsp;カナロコ",
+      "summary": "川崎市、２０代女性のはしか感染を発表 ラゾーナ川崎や東海道線を利用&nbsp;&nbsp;kanaloco.jp",
       "sources": [
         {
-          "name": "カナロコ",
+          "name": "kanaloco.jp",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53ZG1xN2RCd2MyQlhRT29ab3VrcDFJMU85YVhpUHpiaHlHbG5ZX2RueUhjZ0RuYXl6Qm1oQ19jQS1IU2VjQjdzQWZCTll1a2lBOWt4X1J6enE2ZFdZRGQ4NkNNNU95Vy1YVGVJaw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "90d34a3ea63f",
-      "title": "心臓発作や脳梗塞の警告サインが「まぶた」に現れることがある――1年以内の発症率が約3倍に - ニコニコニュース",
-      "published": "2026-09-16T09:33:25+00:00",
-      "summary": "心臓発作や脳梗塞の警告サインが「まぶた」に現れることがある――1年以内の発症率が約3倍に&nbsp;&nbsp;ニコニコニュースGoogle ニュースで見出しと意見をもっと見る",
-      "sources": [
-        {
-          "name": "ニコニコニュース",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9odEhZNlBBMGx4T2tlaWZJMkxZQnQ0UGNWcWpjT2N3RG0yWHc3bU54VjJBa29QdktoMjQ0YVBhWGdXdjl0c1JtUHlnbFpESXd2NVo5Qw?oc=5"
         }
       ]
     },
@@ -462,14 +474,26 @@
       ]
     },
     {
-      "id": "98267e6d9829",
-      "title": "～ホルモン受容体陽性HER2陽性転移乳がんの患者さんに新たな治療選択肢～ - pfizer.co.jp",
+      "id": "caa9c19a7df4",
+      "title": "～ホルモン受容体陽性HER2陽性転移乳がんの患者さんに新たな治療選択肢～ - Pfizer Japan",
       "published": "2026-09-16T06:03:54+00:00",
-      "summary": "～ホルモン受容体陽性HER2陽性転移乳がんの患者さんに新たな治療選択肢～&nbsp;&nbsp;pfizer.co.jp",
+      "summary": "～ホルモン受容体陽性HER2陽性転移乳がんの患者さんに新たな治療選択肢～&nbsp;&nbsp;Pfizer Japan",
       "sources": [
         {
-          "name": "pfizer.co.jp",
+          "name": "Pfizer Japan",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jRUJaTDR0UHVtazN3TDIxNjZlbmhDbXpkR0M3NjdtTmY2Um0zSHNsb3NfWW1FdlJKeU9Qd3NBd1paV21CeHd5SlhuUGcwVnhYZlB1ZFd6QndFeVVTOTY0aHVNdFRjR0RSaUNXUU5mU01EUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1139bbd496b5",
+      "title": "睡眠時無呼吸の潜在患者940万人に対し、CPAP治療は73万人｜スマートウォッチの「気づき」はどこで止まっているのか - Smart Watch Life",
+      "published": "2026-09-16T05:04:10+00:00",
+      "summary": "睡眠時無呼吸の潜在患者940万人に対し、CPAP治療は73万人｜スマートウォッチの「気づき」はどこで止まっているのか&nbsp;&nbsp;Smart Watch Life",
+      "sources": [
+        {
+          "name": "Smart Watch Life",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9IOW9WVHl4NUtJbUNVY2p0UElhVUR2MzVaM01nZDhtS2J5TklSdnU0SHBuNVZBWlBiVEtOV0Y4Zk4xZHg5QnRfcktlMmM?oc=5"
         }
       ]
     },
@@ -546,18 +570,6 @@
       ]
     },
     {
-      "id": "ca5ff0836140",
-      "title": "老化細胞をT細胞で除去へ、Insilicoの「長寿ワクチン」は何を統合するのか - XenoSpectrum",
-      "published": "2026-09-16T01:20:38+00:00",
-      "summary": "老化細胞をT細胞で除去へ、Insilicoの「長寿ワクチン」は何を統合するのか&nbsp;&nbsp;XenoSpectrum",
-      "sources": [
-        {
-          "name": "XenoSpectrum",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JTklIZXc5UlowTC1wYkxMeDc2TGFhNXFfSHcxdTQ4dUxXRzdwc0s4djhLbV95dGZ5Qk5KZzJZMFpuV1lmNWtjR3l3N1BYcWFmM0ZvN2hSdXotc0hScFpQZUJjM3otNHdMVXdR?oc=5"
-        }
-      ]
-    },
-    {
       "id": "27d8dbc95a9d",
       "title": "みなとみらいペットウェルネスクリニックALCA 診療体制をさらに強化 獣医皮膚科認定医・山本真紀子先生が参画 - PR TIMES",
       "published": "2026-09-16T00:00:01+00:00",
@@ -590,18 +602,6 @@
         {
           "name": "Yahoo!ファイナンス",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdmh5Slp3X2JlLUNFanFUNHdaUm9DY3llM0ZTR0hHMDFHY3gyclBidXd0c3h0X3EtMkRKNHhEZDl4Y0owYXl3SndMOUluTmdrbGxtbE1yZlJpalhiaVl2ZDczVmQzdFgtVGhidDB4Qmc3akdxS3dETnNsSDBSdXNfNkI3LWp3MUU?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dc896cbeaab4",
-      "title": "めまいを知る（下）症状改善のカギ…寝方、水分摂取、カルシウム&ビタミンD - 日刊ゲンダイDIGITAL",
-      "published": "2026-09-15T21:00:00+00:00",
-      "summary": "めまいを知る（下）症状改善のカギ…寝方、水分摂取、カルシウム&ビタミンD&nbsp;&nbsp;日刊ゲンダイDIGITAL(2ページ目)めまいを知る（下）症状改善のカギ…寝方、水分摂取、カルシウム&ビタミンD&nbsp;&nbsp;日刊ゲンダイDIGITAL〈健康百科〉めまい、多くが耳に原因 良性発作やメニエール病｜生活・文化｜全国のニュース&nbsp;&nbsp;北國新聞「良性発作性頭位めまい症」と「メニエール病」それぞれ改善のカギは…寝方、水分摂取、カルシウム&ビタミンD&nbsp;&nbsp;ｄメニューニュース",
-      "sources": [
-        {
-          "name": "日刊ゲンダイDIGITAL",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCbUkzT2Nrc3JjNGd4RVdNU1V2ZFBBbUg3OUprQ0xXckJCRVBzajRVUHhrTXpFUkpzajY1NEVFdkd2TlFTLWUtcXdqWWduclhQQ1RXV24zTlItbVo0LUM1Z1g1NGcyZGh1?oc=5"
         }
       ]
     },
@@ -678,13 +678,13 @@
       ]
     },
     {
-      "id": "770a7669ed4e",
-      "title": "デング熱患者、熊本県内で今年初確認 ベトナムで感染か - kumanichi.com",
+      "id": "b921e87237f3",
+      "title": "デング熱患者、熊本県内で今年初確認 ベトナムで感染か - 熊本日日新聞社",
       "published": "2026-09-15T07:35:45+00:00",
-      "summary": "デング熱患者、熊本県内で今年初確認 ベトナムで感染か&nbsp;&nbsp;kumanichi.comGoogle ニュースで見出しと意見をもっと見る",
+      "summary": "デング熱患者、熊本県内で今年初確認 ベトナムで感染か&nbsp;&nbsp;熊本日日新聞社Google ニュースで見出しと意見をもっと見る",
       "sources": [
         {
-          "name": "kumanichi.com",
+          "name": "熊本日日新聞社",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pY2VDQXRxaWlONEhjVlZZdFNFN3JYQ3pBaEczUjVBU2I3SHlkUGhhRWc1Rzh2dm5pM1pXSDV2RHY3VmJqZU5wTDNVZTVrX1E?oc=5"
         }
       ]
@@ -710,18 +710,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/bf5e25681e42a61cd2de20e9c16334978743a227?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "20ae625b9efc",
-      "title": "子宮頸がん検診未受診の20代～30代女性、7割弱が何らかの未受診の理由があり、その理由のトップは「受診するきっかけがないため」と回答。「時間が確保できない」は1割未満にとどまる - PR TIMES",
-      "published": "2026-09-15T06:00:01+00:00",
-      "summary": "子宮頸がん検診未受診の20代～30代女性、7割弱が何らかの未受診の理由があり、その理由のトップは「受診するきっかけがないため」と回答。「時間が確保できない」は1割未満にとどまる&nbsp;&nbsp;PR TIMESGoogle ニュースで見出しと意見をもっと見る",
-      "sources": [
-        {
-          "name": "PR TIMES",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GNWE1YkIyUVZUMGRvTHRCNnRPSUVpSHg4c290Y2J2c0h1bi1kNzFBaVRXdkQwYkw4R2lPTnlvbDFRYkhjSlgyY1E5b09HRVRBWE9VdkZpbjRteGtHVklMV05BbW9oRUtMakE?oc=5"
         }
       ]
     },
@@ -774,46 +762,10 @@
       ]
     },
     {
-      "id": "a8cfd6e75805",
-      "title": "謎の人類デニソワ人の化石と大量の石器を発見、ついに暮らしが見えてきた　腕の骨も初出土(ナショナル ジオグラフィック日本版)",
-      "published": "2026-09-15T02:01:46+00:00",
-      "summary": "中国南西部の雲南省にあるビエンフー洞窟遺跡で、デニソワ人の骨3点、歯4本を発見し、同じ洞窟から石器も1366点見つかった、と9月9日付けの学術誌「ネイチャー」に二つの国際研究チームがそれぞれ論文を発",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/261a4228d7a7bc7ae8d0d432f61a0990a48b60fd?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "cafd8a9f9dbb",
-      "title": "【訃報】俳優・中村ゆりさん死去「直腸がん」の原因や前兆・初期症状を医師が解説(メディカルドック)",
-      "published": "2026-09-15T01:18:19+00:00",
-      "summary": "俳優の中村ゆりさんが、9月1日に直腸がんのため亡くなったと所属事務所が明らかにしました。44歳でした。 中村さんの訃報に接し、直腸がんの原因や前兆などについて、医師の中路幸之助先生に解説してもらいま",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/31cefb880a5d2b97cf0234233fcbe4ee6154552e?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "36f2a57f9fc0",
-      "title": "月の水、マスクが構想する「数百万人規模の都市」には不十分　最新研究(Forbes JAPAN)",
-      "published": "2026-09-15T01:00:00+00:00",
-      "summary": "科学誌『Frontiers in Space Technologies』に掲載された新たな研究論文によると、月に存在する水の量では大規模な都市を約100年間しか維持できないことが判明した。これにより、",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/ef44464aecd81063e57efc80379a752165364c3b?source=rss"
-        }
-      ]
-    },
-    {
       "id": "3da22427e0a2",
       "title": "認知症リスク低減か 帯状疱疹ワクチン 海外で報告相次ぎ注目 - 47NEWS",
       "published": "2026-09-14T15:00:00+00:00",
-      "summary": "認知症リスク低減か 帯状疱疹ワクチン 海外で報告相次ぎ注目&nbsp;&nbsp;47NEWS帯状疱疹ワクチンは、高齢者の血管や循環器系を保護するのでしょうか？&nbsp;&nbsp;Vietnam.vn",
+      "summary": "認知症リスク低減か 帯状疱疹ワクチン 海外で報告相次ぎ注目&nbsp;&nbsp;47NEWS帯状疱疹ワクチンの助成はいくら？【令和8年度】定期接種の対象年齢・自己負担額・50代が使える自治体助成を解説&nbsp;&nbsp;補助金ポータル",
       "sources": [
         {
           "name": "47NEWS",
@@ -822,49 +774,13 @@
       ]
     },
     {
-      "id": "b6386b8331ff",
-      "title": "恒星間天体「3I/ATLAS」はマイナス240℃以下の極低温環境で形成？　豊富な窒素をもとに推定(sorae 宇宙へのポータルサイト)",
-      "published": "2026-09-14T12:00:42+00:00",
-      "summary": "英国ノーザンブリア大学のLea Ferellec氏、エディンバラ大学のCyrielle Opitom氏とColin Snodgrass氏からなる研究チームは、観測史上3例目の恒星間天体「3I/ATLA",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/de9b84955886a7f867f7b657b0372805c40bd3f4?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "e258134bbd6b",
-      "title": "ハエや魚も「不安」を感じるのか？　心はどこまで進化したのか(ナショナル ジオグラフィック日本版)",
-      "published": "2026-09-14T11:10:02+00:00",
-      "summary": "私たちの心は、なぜこれほど多様なのか？ 不安も共感も攻撃性も、すべては進化の中で形づくられてきた。新刊『心はどこまで進化したのか 心の個性のルーツをさぐる』（河田雅圭著、河出書房新社）から、脳と遺伝子",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/5b87e6a1c3fda24dc669441147dbf539de723b6a?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "8d7fc5de63d9",
-      "title": "チャンドラのデータから新たなタイプのX線源を特定　Ia型超新星の起源に迫る手がかりに？(sorae 宇宙へのポータルサイト)",
-      "published": "2026-09-14T10:30:57+00:00",
-      "summary": "アラバマ大学のMustafa Muhibullah氏とJimmy Irwin氏、ハーバード・スミソニアン天体物理学センターのRosanne Di Stefano氏からなる研究チームは、NASA（アメリ",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/081dd2dfda459c630ee41a6e2473dcd4f4454c5c?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "9663d2b013f2",
-      "title": "腹囲は肥満の判定に有用な指標、研究で示唆｜ニュース - tokuteikenshin-hokensidou.jp",
+      "id": "993a55674bbf",
+      "title": "腹囲は肥満の判定に有用な指標、研究で示唆｜ニュース - 保健指導リソースガイド",
       "published": "2026-09-14T07:49:17+00:00",
-      "summary": "腹囲は肥満の判定に有用な指標、研究で示唆｜ニュース&nbsp;&nbsp;tokuteikenshin-hokensidou.jp",
+      "summary": "腹囲は肥満の判定に有用な指標、研究で示唆｜ニュース&nbsp;&nbsp;保健指導リソースガイド",
       "sources": [
         {
-          "name": "tokuteikenshin-hokensidou.jp",
+          "name": "保健指導リソースガイド",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9uT0Z4OXE2WVZ6d3Jjb3VUMHNTcVZJUTQwcjhIdlBKX2VfbkNwZVh5RkJuVC03M1BfODNndlZGVXhySlY1VUhqUzNOWXBGaVVSLVNMRlIxSmx1NzM5TGJxbHh5T0FWUy16?oc=5"
         }
       ]
@@ -966,10 +882,22 @@
       ]
     },
     {
+      "id": "23f396942c68",
+      "title": "子宮頸がん検診の習慣、妊娠を一つのきっかけに…受診率低い山口県の医師会などが産婦人科医や小児科医と連携 - 読売新聞",
+      "published": "2026-09-12T07:21:00+00:00",
+      "summary": "子宮頸がん検診の習慣、妊娠を一つのきっかけに…受診率低い山口県の医師会などが産婦人科医や小児科医と連携&nbsp;&nbsp;読売新聞Google ニュースで見出しと意見をもっと見る",
+      "sources": [
+        {
+          "name": "読売新聞",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HVWFLcGNqTUozUGxTdi1EV3RyckRlTXFfWXpYeGk5Y0xjemJSdUtiNVVNenNsN0dxbGhsaXU2SHROU1hkRWQ4Um9LSTY0Q0ZCYkt1OUlqbEVlSXhoOTM0QU1ZR3RWd19Ja1BmRWV4U1NpUQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "481ad9c5cb2f",
       "title": "サルコペニアの原因に乳酸が関与 根本的な治療薬の開発に期待 - 毎日新聞",
       "published": "2026-09-12T00:00:00+00:00",
-      "summary": "サルコペニアの原因に乳酸が関与 根本的な治療薬の開発に期待&nbsp;&nbsp;毎日新聞Google ニュースで見出しと意見をもっと見る",
+      "summary": "サルコペニアの原因に乳酸が関与 根本的な治療薬の開発に期待&nbsp;&nbsp;毎日新聞サルコペニアの原因に乳酸が関与 根本的な治療薬の開発に期待（毎日新聞）&nbsp;&nbsp;Yahoo!ニュース",
       "sources": [
         {
           "name": "毎日新聞",
@@ -981,11 +909,23 @@
       "id": "c8c6a4e8483e",
       "title": "《“細胞から若返る”食習慣》健康物質「ポリアミン」の減少を食い止めて認知症を予防、健康寿命も延ばす - 週刊女性PRIME",
       "published": "2026-09-11T23:30:00+00:00",
-      "summary": "《“細胞から若返る”食習慣》健康物質「ポリアミン」の減少を食い止めて認知症を予防、健康寿命も延ばす&nbsp;&nbsp;週刊女性PRIME医師が勧める、認知症予防に効果的な「腸内環境を整えるスープ」&nbsp;&nbsp;千葉テレビ放送株式会社",
+      "summary": "《“細胞から若返る”食習慣》健康物質「ポリアミン」の減少を食い止めて認知症を予防、健康寿命も延ばす&nbsp;&nbsp;週刊女性PRIME医師が勧める、認知症予防に効果的な「腸内環境を整えるスープ」&nbsp;&nbsp;chiba-tv.com",
       "sources": [
         {
           "name": "週刊女性PRIME",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5meUlBZk04dV9wZU1TRkVCU3pkMTBnZDhHdklRNy0wUzFkNFlua3RsbXlEZGpoZXlkSkhPV2w0Y3hXZjJ1YkdwNnIzd2lzNmk3NUVnZ0xxdkZQS0xm?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "13e1e60a73e9",
+      "title": "「他人事じゃない……」40代からの発症者が急増？ 世界で「2倍以上」も若年性認知症が増えているワケ - All About（オールアバウト）",
+      "published": "2026-09-11T23:00:07+00:00",
+      "summary": "「他人事じゃない……」40代からの発症者が急増？ 世界で「2倍以上」も若年性認知症が増えているワケ&nbsp;&nbsp;All About（オールアバウト）認知症は死の恐怖からの解放を意味するのか？&nbsp;&nbsp;現代ビジネス「認知症になったらどうしよう？」と、不安でたまりません：精神科医Tomy「心のコリを解きほぐそう」：日経Gooday（グッデイ）&nbsp;&nbsp;日経Gooday",
+      "sources": [
+        {
+          "name": "All About（オールアバウト）",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE04S1RKelNnQk9kbXBQSU5zZFQwNDJxMjE1VlZlVExYdzdXOHczZ2xJSlBVNUFOcnNSSEJKV3BNNDVIb0pieXlZQjkxSlo?oc=5"
         }
       ]
     },
@@ -1010,42 +950,6 @@
         {
           "name": "読売新聞",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA4TnRfcTczeENKOEVkRnktSkF0WGZBVWRZSUxVejhyTzNMalV3V2VJRWgyYTVCNW11aC1fNUU2ZEFJMFdPX0RZcGJYMENhby1EdzFDY2c2SWpURHZ1Tm51MkpWZHFLVVllb1ZiZlVIcGhvdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "fc429b4abab2",
-      "title": "子宮頸がん検診を動画でＰＲ 岡山市、若者の受診率向上へ - 山陽新聞",
-      "published": "2026-09-11T06:03:00+00:00",
-      "summary": "子宮頸がん検診を動画でＰＲ 岡山市、若者の受診率向上へ&nbsp;&nbsp;山陽新聞Google ニュースで見出しと意見をもっと見る",
-      "sources": [
-        {
-          "name": "山陽新聞",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1sVE5zOHdjSEd2N2p0T05iWjRzaFR2eWN0MmhPTEtQUl9DdHFPc2VCME5ReFRpejQ5VHh1Ym11VzA2ODQtMWFkRTFkS3E4cWlPSEE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d0c7ea280703",
-      "title": "～子どもののどの痛みでお困りの方へ～つるんと飲める漢方薬「こどものどケア漢方ゼリー」を新発売 - PR TIMES",
-      "published": "2026-09-11T04:00:02+00:00",
-      "summary": "～子どもののどの痛みでお困りの方へ～つるんと飲める漢方薬「こどものどケア漢方ゼリー」を新発売&nbsp;&nbsp;PR TIMESGoogle ニュースで見出しと意見をもっと見る",
-      "sources": [
-        {
-          "name": "PR TIMES",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xVEtWbHEzSEcwSTBRY2xTVVF0aG9BbXpaSWk1WjVkRXlQeEpQcnBnZzNYbG5fS05Vdzl0Qk5fbHNVSXZqRnVQemktVl8teHNsWjZTS25DSW5nOURib0pSb1d1MjIzbnZVbXc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0bb6f75c2536",
-      "title": "認知症は誰にでも起こりうる老化現象。最後まで残るのは「自分らしくありたい」という欲求。専門家が解説 - 婦人公論.jp",
-      "published": "2026-09-11T03:30:00+00:00",
-      "summary": "認知症は誰にでも起こりうる老化現象。最後まで残るのは「自分らしくありたい」という欲求。専門家が解説&nbsp;&nbsp;婦人公論.jp認知症は死の恐怖からの解放を意味するのか？&nbsp;&nbsp;現代ビジネス「認知症になったらどうしよう？」と、不安でたまりません：精神科医Tomy「心のコリを解きほぐそう」：日経Gooday（グッデイ）&nbsp;&nbsp;日経Gooday",
-      "sources": [
-        {
-          "name": "婦人公論.jp",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xUEg4Q1ZObmZsSDdHNTRGWFBEd29RUTJST29iUDg3Zko0QjVyeXQzNkJpVVQtWUpzMWpKX09mcDVwNzVfSWNLN3hYMnFBaE0?oc=5"
         }
       ]
     }
