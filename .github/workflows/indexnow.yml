@@ -20,7 +20,7 @@ jobs:
       - name: Get changed files
         id: changed
         run: |
-          CHANGED_FILES=$(git diff --name-only HEAD~1 HEAD -- 'docs/**/*.md' 'docs/drugs/**' | head -100)
+          CHANGED_FILES=$(git -c core.quotepath=false diff --name-only HEAD~1 HEAD -- 'docs/**/*.md' 'docs/drugs/**' | head -100)
 
           if [ -z "$CHANGED_FILES" ]; then
             echo "No markdown files changed"
