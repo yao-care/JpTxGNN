@@ -1,19 +1,91 @@
 {
   "source": "japan_news",
-  "fetched_at": "2026-09-21T02:21:26.030583+00:00",
-  "total_fetched": 162,
-  "unique_count": 162,
-  "health_related_count": 69,
+  "fetched_at": "2026-09-21T11:26:17.429762+00:00",
+  "total_fetched": 100,
+  "unique_count": 100,
+  "health_related_count": 29,
   "news": [
     {
-      "id": "41fd15958e37",
-      "title": "糖質より先に制限すべきものがある…大学教授が｢がんの悪性化を加速させる｣と警告する\"意外な真犯人\"(プレジデントオンライン)",
-      "published": "2026-09-21T02:15:40+00:00",
-      "summary": "がんの予防や進行を抑えるために、食生活で気をつけるべきことは何か。東京工科大学教授の佐藤拓己さんは「糖質を減らすことが有効だと考える人も少なくないが、糖質を一律に制限することには危険がある。がんとの長",
+      "id": "a1b001205d54",
+      "title": "「クッシング症候群の原因」はご存知ですか？検査法・治療法も解説！【医師監修】(メディカルドック)",
+      "published": "2026-09-21T11:00:44+00:00",
+      "summary": "クッシング症候群は、コルチゾールが過剰に分泌され、全身にさまざまな症状が現れる病気です。原因は下垂体関連や副腎の腫瘍、ステロイド薬の影響などさまざまです。 本記事では、クッシング症候群の原因や発症の",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/b79da6dd010fa1884d0cb54dea475b2d2928446d?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/c28e693eac34306bca5c33f43e8a938534438c60?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "38e48871d2d1",
+      "title": "84歳・料理研究家「生まれてこの方、ずっと料理のことを考えています」。超人気の料理教室であり続けるためのこだわりも(ESSE-online)",
+      "published": "2026-09-21T11:00:36+00:00",
+      "summary": "知人に料理を教えたことをきっかけに生徒数が増え、料理教室を続けながら多くのレシピを提案している、料理研究家の村上祥子さん（84歳）。今回は、村上さんの「料理への思い」をご紹介します。 ※ この記事は",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/7c329c9abbc6a92f0c36652e555959df00019f02?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "ab97f62adcf6",
+      "title": "若いころの母と現在の娘を見比べてみると……　目を疑う光景に反響「遺伝子が完璧」「笑顔が一緒！」【海外】(ねとらぼ)",
+      "published": "2026-09-21T11:00:00+00:00",
+      "summary": "若いころの母親と自分を比べてみると……。そんな動画がInstagramで話題を呼んでいます。この動画は記事執筆時点で4万件以上のいいねを集め、40万回以上再生されています。 投稿者はトロント在住",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/9f8acc6060417a4b0864381f5ae66b06a7e02435?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "9e00e935f99e",
+      "title": "血圧はストレッチで下げられる？血管をしなやかにするストレッチ【Tarzan】(Tarzan Web)",
+      "published": "2026-09-21T10:30:09+00:00",
+      "summary": "カラダに柔軟性をもたらしてくれるストレッチが、血圧まで下げてくれる。それなら、やらない手はない！高血圧が気になる人にやってもらいたい、3種類のストレッチをご紹介。",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/175902e92ba00825037b4aadbe48df4c71a899fe?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "b25b4f9aba9f",
+      "title": "意外とやってる「危険なコーヒーの飲み方」で、がんリスクが3倍になる可能性。米最新研究が示唆(Harper’s BAZAAR（ハーパーズ バザー）)",
+      "published": "2026-09-21T10:20:01+00:00",
+      "summary": "常温のコーヒーを選んで飲む人は少ないだろう。アイス、またはホットを注文する人が大半だ。しかし、今後は「熱め」のコーヒーを注文するのは考え直したほうがいいかもしれない。熱い飲み物を日常的に摂取することが",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/fe996ba3813629eeeb7a822223206cf897be261a?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "26cbf0b8198d",
+      "title": "【地元の60代に聞いた】子どもを進学させたい「愛知県の私立大学」ランキング！　2位は「名城大学」、1位は？(ねとらぼ)",
+      "published": "2026-09-21T10:20:00+00:00",
+      "summary": "名古屋市を中心に都市として発展しながら、歴史や文化、自然にも恵まれている愛知県。県内には多くの私立大学があり、教育の特色や研究環境、就職面での実績などから、子どもの進学先として注目を集める大学も少な",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/782171a8177fcd4518eab771de866cf65fa063ae?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "022505d182f2",
+      "title": "「質量ゼロと無限大」2種類の電子性質を備える、物材機構が作成した2次元構造物質の可能性(ニュースイッチ)",
+      "published": "2026-09-21T06:10:02+00:00",
+      "summary": "物質・材料研究機構の内橋隆副センター長と荒船竜一主幹研究員らは、ハニカム格子とカゴメ格子の両性質を備えた2次元構造物質を作成した。ハニカム格子は電子の質量がゼロになり、カゴメ格子では電子の質量が無限大",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/e1a69ab61a7485890d7840c0c55a43a1f8e37712?source=rss"
         }
       ]
     },
@@ -30,18 +102,6 @@
       ]
     },
     {
-      "id": "aa34a9b6eb56",
-      "title": "がんばらず、最大でも一汁二菜まで。料理家・長谷川あかりが考える「家庭料理」のあり方(サライ.jp)",
-      "published": "2026-09-21T02:01:12+00:00",
-      "summary": "文／印南敦史 詳しくは覚えていないが、私が長谷川あかりという名をよく耳にするようになったのは、おそらく数年前のことだ。 なんのことはない。料理好きな娘が、「長谷川あかりさんがこう言ってた」「長谷川",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/89ae163091e7746af69b6a7e6bc921ad2a673082?source=rss"
-        }
-      ]
-    },
-    {
       "id": "b5f70f2f2a4b",
       "title": "【闘病】毎年人間ドックを受けていたのに『大腸がん』ステージ4「手術のしようがない」(メディカルドック)",
       "published": "2026-09-21T02:00:28+00:00",
@@ -54,66 +114,6 @@
       ]
     },
     {
-      "id": "d01ee1e17277",
-      "title": "「理想の母親だと思ったのに…」“いい親”を演じるために、わざと子どもを病気に…恐ろしすぎる“虐待”の正体(with online)",
-      "published": "2026-09-21T02:00:14+00:00",
-      "summary": "「子どもの病気を心配する、献身的な親」。周囲から見れば、誰もが“いい親”だと思うかもしれません。ところが、その看病の裏で、親が我が子を意図的に傷つけていたとしたら――。今回は、法政大学文学部心理学科教",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/41fb7e3c7a410d3fd09a967d6be2300e1be21285?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "cb8aeac909f7",
-      "title": "《ママがもうこの世界にいなくても》夫と娘の奮闘の日々には、それでも笑顔があふれている「いいパパかはわからないけど、できることを精一杯やるしかない」(女性セブンプラス)",
-      "published": "2026-09-21T02:00:00+00:00",
-      "summary": "ステーIVのがんで、遠藤和さんがこの世を去ってから、5年の月日が流れた。彼女がつづった『ママがもうこの世界にいなくても 私の命の日記』は映画化され、この秋、公開される。前回に引き続き、文庫版だけに収",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/2f66bdfa420430227e4881ee213058ec77c51e06?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "514fffe47fba",
-      "title": "【世界で闘う日本の女性たち】日本人初のBBCキャスター・大井真理子さん、「国境なき医師団」看護師として紛争地へ医療を届ける白川優子さん…彼女たちは何を信じて歩んできたのか(女性セブンプラス)",
-      "published": "2026-09-21T02:00:00+00:00",
-      "summary": "ボーダーレス化するこの世界、日本人女性の活躍の舞台は広がっている。国境を超えて輝く彼女たちは、何を見つめ、何を信じて歩んできたのか──。ICC赤根智子所長、前衛芸術家・草間彌生さん、音楽評論家・湯川",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/c16689718a1802a6d5dec992a69be60fcc8a36bb?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "7f3dd132f441",
-      "title": "【60代に聞いた】麺が最高にうまいと思う「カップ麺シリーズ」ランキング！　2位は「カップヌードル（日清食品）」、1位は？(ねとらぼ)",
-      "published": "2026-09-21T02:00:00+00:00",
-      "summary": "簡単な調理でおいしい麺類を食べる事ができる「カップ麺」は、老若男女問わず人気のグルメとなっています。各メーカーではさまざまな工夫を凝らした商品を開発しており、そのなかには「麺が最高にうまい」と思うカ",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/4f443760e3c948a64504cc5a2fe03510b7b38392?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "6fbf2b15d2a9",
-      "title": "炭水化物を食べると老ける？ 研究が示したのは真逆の結果だった - フロントロウ",
-      "published": "2026-09-21T01:17:54+00:00",
-      "summary": "炭水化物を食べると老ける？ 研究が示したのは真逆の結果だった&nbsp;&nbsp;フロントロウ",
-      "sources": [
-        {
-          "name": "フロントロウ",
-          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE84WGlvQlI1WkpRNUFudWtYYnktTlY0eHpGeHp5WnJYTmZXeXQwbDFDN09JalZuZGp1WjJONWRPQjUtSmZYdDVB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "eeec83c07449",
       "title": "1947年に出現した観測史上最大級の黒点群は「スーパーフレア」を起こし得た？(sorae 宇宙へのポータルサイト)",
       "published": "2026-09-21T00:28:17+00:00",
@@ -122,66 +122,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/3e3eb60daa9e0adad407b9df737fae12c62d5bef?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "e513bcf5da99",
-      "title": "粉末状癒着防止材で直腸がん術後癒着が半減 国内ＲＣＴ・主成分はコンドロイチン硫酸架橋体 - 読売新聞",
-      "published": "2026-09-20T20:00:00+00:00",
-      "summary": "粉末状癒着防止材で直腸がん術後癒着が半減 国内ＲＣＴ・主成分はコンドロイチン硫酸架橋体&nbsp;&nbsp;読売新聞",
-      "sources": [
-        {
-          "name": "読売新聞",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNlZvb0dqRlBQNUNYWUhnaGRyTy1vb0dvcHlmSFZudlllQXk4NjVWYzByVWNXbjBkVFkyVUE3Y2ZpZ0Vmemd2cEk2bGZKejN1a3FfNTVyV2k3TE9JcUsyd3Rkd01aYVp5Ulpvd1hON2RmVXlZX2VHVXlLaXVGZFpYM0k5Zk5YUU9iSkdLb3h3?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "ae4c5aa6f9a9",
-      "title": "何年禁煙すればアルツハイマー病リスクが元に戻るのか？｜CareNet.com - CareNet.com",
-      "published": "2026-09-20T19:00:00+00:00",
-      "summary": "何年禁煙すればアルツハイマー病リスクが元に戻るのか？｜CareNet.com&nbsp;&nbsp;CareNet.com",
-      "sources": [
-        {
-          "name": "CareNet.com",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9JR3ROeEd0MUFjQlNYZENHZERYQWFlOHh3bUVHTlB4WU0xMWlfbEFIYTJwbWJMTlpSQkNzOU5fVGZjVHVZaV9hUUFNcTJHZDFfREZUMF9SMWVKVWhPc2c0?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1b08c39d625e",
-      "title": "フィジーがＨＩＶ危機宣言、感染急増 - nna.jp",
-      "published": "2026-09-20T15:00:00+00:00",
-      "summary": "フィジーがＨＩＶ危機宣言、感染急増&nbsp;&nbsp;nna.jpフィジー、HIV感染拡大で国家非常事態宣言 成人60人に1人が感染&nbsp;&nbsp;CNN.co.jpフィジーでHIV感染拡大 「緊急事態」宣言（時事通信）&nbsp;&nbsp;Yahoo!ニュース人の免疫細胞（大きな青い球）を攻撃するエイズウイルス（黄色い粒）（米国立衛生研究所提供） - フィジーがHIV危機を宣言 南太平洋、薬物使用で感染急増 - 写真・画像(1/1)&nbsp;&nbsp;西日本新聞meフィジー、ＨＩＶ危機を宣言 性行為と違法薬物の回し打ちで成人の６０人に１人が感染&nbsp;&nbsp;時事ドットコム",
-      "sources": [
-        {
-          "name": "nna.jp",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9XQWtwNTc2eVVoUjNkbUVYR05vRDJDNlV5ZkIxdXM2ellwemFHTjVGb3NLVU1WbHRieGNpTEdQTDZ0TV9fQVE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b9cc06cb6b7f",
-      "title": "重症化リスクの高い心不全患者の臨床所見、血液検査、心エコー - 日経メディカル",
-      "published": "2026-09-20T14:45:11+00:00",
-      "summary": "重症化リスクの高い心不全患者の臨床所見、血液検査、心エコー&nbsp;&nbsp;日経メディカル",
-      "sources": [
-        {
-          "name": "日経メディカル",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS25lRWNJMFZLU01MSWo5amxJSnVtd2xHSWNlQ1lBZzVaek52WHJrenM1dVhuV25aTW9icm0yazdVYXlTZnRKUFl0ZHp3UFdXVVFydmZ0dkpCNExrR3gwM3duYmNucWpRVlhZQkJJLTlacjFUUll0NnZISnNJdklqUV8zeDRaeFZ6Yk9aTTNR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6ef6b9ba7fb9",
-      "title": "フンイエン省が1,500人の女性を対象に子宮頸がん検診を実施 - Laodong.vn",
-      "published": "2026-09-20T14:09:46+00:00",
-      "summary": "フンイエン省が1,500人の女性を対象に子宮頸がん検診を実施&nbsp;&nbsp;Laodong.vn",
-      "sources": [
-        {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPa3dZZWxHUVZ4dUk3VlZGWHdVZWlyREsxNkE0akRBWlNfV0pDR3E5SUY2YVZHQmFHdjIwWU9ZbExHNHpoQ092T3lMRnhCMGM3MEpodWcxSk9zb21tS3hTS2hUS3pMZVFGRnlNUHlQMXJFR3dBRVQwY2VadlpZQlhhOERwaXoxd2wxZEtQa1psa2UxSmJXdUtxS05Vc2k4cE1yV3NlaVUzVkdMZ3J3eTY1Mg?oc=5"
         }
       ]
     },
@@ -246,30 +186,6 @@
       ]
     },
     {
-      "id": "29a5edd3a719",
-      "title": "「急性感染症患者への鉄補充で生命予後が改善」は目から鱗 - m3.com",
-      "published": "2026-09-20T02:59:59+00:00",
-      "summary": "「急性感染症患者への鉄補充で生命予後が改善」は目から鱗&nbsp;&nbsp;m3.com",
-      "sources": [
-        {
-          "name": "m3.com",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GUjBtZUQ0UHdhX0kwX2hydE5zY3JZVVFraU9kZ0hnUHZDY1VpQV92dW5oWnoyaWEzRTZOSWlVZDE0SFhSd1BiNzJTMVJhSHZDVkE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3f8cd42cd23c",
-      "title": "【東大阪市】2026年9月24日〜30日は『結核・呼吸器感染症予防週間』。気になる症状がある方は早めに医療機関を受診しましょう。 - 号外NET 東大阪市",
-      "published": "2026-09-20T00:00:23+00:00",
-      "summary": "【東大阪市】2026年9月24日〜30日は『結核・呼吸器感染症予防週間』。気になる症状がある方は早めに医療機関を受診しましょう。&nbsp;&nbsp;号外NET 東大阪市時々に様々な色で染められる静岡市役所本館「あおい塔」。&nbsp;&nbsp;選挙ドットコムＮＴＭ症を正しく知って&nbsp;&nbsp;公明党令和8年度版結核・呼吸器感染症予防週間及び非結核性抗酸菌症啓発週間ポスター｜関連資料・リリース&nbsp;&nbsp;保健指導リソースガイド",
-      "sources": [
-        {
-          "name": "号外NET 東大阪市",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04WE0yTWliMnZveEQwWTVId3JWMHVaS21lUEE5VDlIbk9PRWFkMGNlUzdDYmVpNFRVcFVQTGtKVTNad1hOWFVMRW9fcEZvZXZYTGU0UGlSRm5talFwUHlOUllWV0EwODVFZVE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5a2eae114166",
       "title": "【害虫or益虫?】花粉症の原因「ブタクサ」を食い荒らす北米原産の小さな虫「ブタクサハムシ」1996年に日本で初めて発見され各地に拡大(RSK山陽放送)",
       "published": "2026-09-19T21:00:35+00:00",
@@ -318,18 +234,6 @@
       ]
     },
     {
-      "id": "c61239a98c17",
-      "title": "グリフィン医師：1州でのはしかによる4人の死亡が示す、ワクチン接種デフォルト設定骨抜きの代償 - BigGo ファイナンス",
-      "published": "2026-09-19T07:08:00+00:00",
-      "summary": "グリフィン医師：1州でのはしかによる4人の死亡が示す、ワクチン接種デフォルト設定骨抜きの代償&nbsp;&nbsp;BigGo ファイナンス成人女性がはしかの合併症で死亡、米ペンシルベニア州で感染が急拡大&nbsp;&nbsp;CNN.co.jp米国ではしか大流行、保健福祉長官が拡大させたのか&nbsp;&nbsp;中央日報米ペンシルベニア州のはしか死者4人に、流行拡大（ロイター）&nbsp;&nbsp;Yahoo!ニュース",
-      "sources": [
-        {
-          "name": "BigGo ファイナンス",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzUERBa0tEazhEeERXamZndG1lU3hVX2NmU190NUJMdk1PekVfLTFqVVdkTXRmTndYZUM4cVlEV2ZjRXRSanBvOUVNdldrRkN5SndxZnhqd2ZYQQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7bca6abfc41b",
       "title": "月面に新たな巨大クレーター発見、「100年に一度」の衝突で2024年に形成　NASA(Forbes JAPAN)",
       "published": "2026-09-19T03:00:00+00:00",
@@ -366,30 +270,6 @@
       ]
     },
     {
-      "id": "c43d58ca39ec",
-      "title": "日本腎臓学会、全国の医師対象・腎疾患遠隔コンサルテーション「Kidney Bridge」を開始 Web上・無料で腎臓専門医から回答 - 糖尿病リソースガイド",
-      "published": "2026-09-18T10:44:59+00:00",
-      "summary": "日本腎臓学会、全国の医師対象・腎疾患遠隔コンサルテーション「Kidney Bridge」を開始 Web上・無料で腎臓専門医から回答&nbsp;&nbsp;糖尿病リソースガイド",
-      "sources": [
-        {
-          "name": "糖尿病リソースガイド",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45UkR6aVIwN00wc3N5ZmdfaDFLYlJNUms0TmNYUFJYMVl1WFVJcTY1dnB4X2lNY0xkM3kzalpWVTQ4dXpZcXVTWlc4NjJGTHlJREptZzJQNVQ2R0Zfc3F5TUgyLURaclVubTVN?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6529759c445c",
-      "title": "インフル・コロナワクチン、使用実績上回る供給見通し 厚労省、適正発注を要請 - 医療介護CBnews",
-      "published": "2026-09-18T08:15:00+00:00",
-      "summary": "インフル・コロナワクチン、使用実績上回る供給見通し 厚労省、適正発注を要請&nbsp;&nbsp;医療介護CBnews",
-      "sources": [
-        {
-          "name": "医療介護CBnews",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MZzNCREZYRnhiWGpRY0xMalBzY3BzMk5VMHgxcDZFS3FSaUdVdTF0MW9OZkJSRDVMa29SVzRwR1BuLXB2YkloMTI5UTJnTkQ5c0JmZWJacWJ5WFU?oc=5"
-        }
-      ]
-    },
-    {
       "id": "dd990d362d9c",
       "title": "潜在患者の9割は未治療？ 見逃されやすい睡眠時無呼吸症候群と、生活習慣病との関係(Medical Note)",
       "published": "2026-09-18T04:50:06+00:00",
@@ -398,18 +278,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/f1db07482cdd127f435362027ce49c1e4b4d6edf?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "46fb49b0e3ec",
-      "title": "“日本初”の最新研究に注目！身近な食品で老化スピードが低下 新コラムを9月18日(金)にWEBサイトにて公開 - Newscast.jp",
-      "published": "2026-09-18T04:00:00+00:00",
-      "summary": "“日本初”の最新研究に注目！身近な食品で老化スピードが低下 新コラムを9月18日(金)にWEBサイトにて公開&nbsp;&nbsp;Newscast.jpGoogle ニュースで見出しと意見をもっと見る",
-      "sources": [
-        {
-          "name": "Newscast.jp",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9EQ09RME9kNlE2MzFHRlZoOFE5MDJhRFIwaFNQY0szTTNKQ0J4U1g4UmJQWFNaNE85MWdnY2VBNGZYcDJfUzYxM3hjU3lwOE0?oc=5"
         }
       ]
     },
@@ -450,54 +318,6 @@
       ]
     },
     {
-      "id": "fbc7c04ff070",
-      "title": "EBウイルスが関わる血液疾患の「ゲノムの立体構造異常」を解明 ―慢性活動性EBウイルス病などの新たな病態理解へ― - PR TIMES",
-      "published": "2026-09-18T01:00:02+00:00",
-      "summary": "EBウイルスが関わる血液疾患の「ゲノムの立体構造異常」を解明 ―慢性活動性EBウイルス病などの新たな病態理解へ―&nbsp;&nbsp;PR TIMES",
-      "sources": [
-        {
-          "name": "PR TIMES",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DTW9jX19ja2hZb0t1STNLQktfNlRoZklUZDZ4cjh2VVItbDl2azdZMmlRbXYtYUVfZFZUYnlvX0RXRkJJTWZYWEFlQVJRbFUxVmtqdnlVMVB0R2JXSzc2YV9BRWVkdGVoZFE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5c8d90ec9291",
-      "title": "胃がん周術期、デュルバルマブ＋FLOTでOS改善（MATTERHORN最終解析）／Lancet｜CareNet.com - CareNet.com",
-      "published": "2026-09-17T19:00:00+00:00",
-      "summary": "胃がん周術期、デュルバルマブ＋FLOTでOS改善（MATTERHORN最終解析）／Lancet｜CareNet.com&nbsp;&nbsp;CareNet.com",
-      "sources": [
-        {
-          "name": "CareNet.com",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9LX0VTaHZZM0x1V1U1N2ZpQVc5TENfamRzT3FxVHBKeEQ4MzZ0SjhXQkJSMWhTOHNyUHJMSWJYTFIyU1U5aVpjbkdwQ2Vya1RieE94U3kzbzdqeVNHU2xR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "6a4e28ceab1c",
-      "title": "免疫の暴走抑制、新技術 阪大など開発 多様な炎症に応用期待 - 毎日新聞",
-      "published": "2026-09-17T17:04:37+00:00",
-      "summary": "免疫の暴走抑制、新技術 阪大など開発 多様な炎症に応用期待&nbsp;&nbsp;毎日新聞Google ニュースで見出しと意見をもっと見る",
-      "sources": [
-        {
-          "name": "毎日新聞",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EMERUbkItUEhuaVRtdERTdHJNZ1RNWWM5NkxXOGVGTTBZUWFhelhBaXhBMDlRdmFvQ1lyME14UndFM21NZDhudGdpVzJaNFZaRmpsTElnRW5uN1Y5X3lWLW85ZjZpblRj?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d3bb3681e5f9",
-      "title": "甘味／塩味や脂肪分の好き嫌いと全死亡、生活習慣病リスクの関連 英国18万人を9年以上追跡 - sndj-web.jp",
-      "published": "2026-09-17T15:24:13+00:00",
-      "summary": "甘味／塩味や脂肪分の好き嫌いと全死亡、生活習慣病リスクの関連 英国18万人を9年以上追跡&nbsp;&nbsp;sndj-web.jp",
-      "sources": [
-        {
-          "name": "sndj-web.jp",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE81bzNoWWtFaDhjR2RIbjh1NjV2STJlbEJKS19sTDVhVXF4ZWtMbUFTUXp5b1NyUUpFVjJRN0JyQmFNazFJdmlfbEU4Zw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "097a316e617b",
       "title": "まわりの時間とズレると生き残れない?「せっかちなハエも、のんびりなハエも、世代を重ねるごとに徐々に集団の中から姿を消していった」体内時計のテンポが狂ったハエが教えてくれること【岡山大学】(RSK山陽放送)",
       "published": "2026-09-17T09:21:19+00:00",
@@ -506,54 +326,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/2559ca2eeec5243e525234f0d0d0b6f2765d2505?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "2157fc645b91",
-      "title": "「がんは早く見つけて、早く治療するほどいい」は本当か、検診の盲点を解説 (2026年9月17日掲載) - ライブドアニュース",
-      "published": "2026-09-17T06:52:37+00:00",
-      "summary": "「がんは早く見つけて、早く治療するほどいい」は本当か、検診の盲点を解説 (2026年9月17日掲載)&nbsp;&nbsp;ライブドアニュース「この人、がんかも？」2度のがんを経験した医師が疑う「患者の何気ない言葉」&nbsp;&nbsp;ダイヤモンド・オンライン「がんは早く見つければ長生きできる」は本当か？ 医師が語る“がん検診”の意外な盲点&nbsp;&nbsp;ｄメニューニュース「がんは早く見つければ長生きできる」は本当か？ 医師が語る“がん検診”の意外な盲点（SPA!）&nbsp;&nbsp;Yahoo!ニュースがん検診を受けなかった医師が、がんになって考えた「日本人が検診を受けないワケ」&nbsp;&nbsp;ダイヤモンド・オンライン",
-      "sources": [
-        {
-          "name": "ライブドアニュース",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBiS2l6QUR3SWtlY1BqR3Y0NzhGSC1ad3JTTzlPaUIwU042NG43VG5hRHpMWUFiOFN3ZnFVVUNDeXM5ZVZySmxOOWo3UmlSb1Y4bURkMEYxZGRyZGxwVmc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8da13fe77b36",
-      "title": "糖尿病なのに低血糖？高齢者に多い症状や原因…認知症や転倒の危険も - 読売新聞",
-      "published": "2026-09-17T06:00:00+00:00",
-      "summary": "糖尿病なのに低血糖？高齢者に多い症状や原因…認知症や転倒の危険も&nbsp;&nbsp;読売新聞",
-      "sources": [
-        {
-          "name": "読売新聞",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LMTZSdWpjWXR6MDdMWWRlbVZpX3pqUUFQSlRTUjdEN3dWYkhwZDJyMGRvOTFzaDFVMTRDQXdEVzg4YkZkM3dyN25LVUt0QVk5ZnNPUnppVjVsU092a25ka2IxekVfeXRz?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "1b34ede3a3c7",
-      "title": "ブタの日本脳炎抗体保有状況－2026年度速報第8報 - 国立健康危機管理研究機構",
-      "published": "2026-09-17T04:46:36+00:00",
-      "summary": "ブタの日本脳炎抗体保有状況－2026年度速報第8報&nbsp;&nbsp;国立健康危機管理研究機構",
-      "sources": [
-        {
-          "name": "国立健康危機管理研究機構",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLTdSdEh1RGtGY1NBM2FtaWN3WktZQlpPYnlmQTlxRFJhb1p0Nm9GWS00UXVCWS0zMWZRZ3p0Wl8wRjM1MnNzbndDYi1zaGhwMFpIa1R0VVluS01ONWN4QUZSaDQxU3h4NW90V3Rac2xqcE5nOE9URDFoRHNBMGlKUmhnc1kyWWtRN1QzMDRNcVU0dlBoTUxZeldDcw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "abbffa11e272",
-      "title": "歩行機能低下と認知症発症リスク上昇の背景メカニズム整理－都長寿研ほか - QLifePro",
-      "published": "2026-09-17T00:20:00+00:00",
-      "summary": "歩行機能低下と認知症発症リスク上昇の背景メカニズム整理－都長寿研ほか&nbsp;&nbsp;QLifePro",
-      "sources": [
-        {
-          "name": "QLifePro",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTlVkbmlFVUlRQ0dERHRMVGtHLUh5d2JGZjBybDVuT1NuWWVLdkd4WW5neURUcWZhQkd2SnlobWZ6WVprUzRHcUVtVmVxbkJaUEFrTE85VmdkYllUOW9YbGNOdjlrUTNBXzltNnNFNWZBdTZpWG16OVdmQ0ZHelJJTFd2T2xMTVFSTWJLOHlnWENJM3h5ZEliZ0ljNEZmeDl4MTlVQ2tvU01wQ2ZZV1JwUWtDU05acjh1UzhaeHNsUmgzSF8tUDJqdTUwbjJPT3BzZFFkcXJEMUNqZw?oc=5"
         }
       ]
     },
@@ -570,66 +342,6 @@
       ]
     },
     {
-      "id": "649c73e70af3",
-      "title": "心臓の健康と「耳たぶのしわ」の不思議な関係 - m3.com",
-      "published": "2026-09-16T21:00:07+00:00",
-      "summary": "心臓の健康と「耳たぶのしわ」の不思議な関係&nbsp;&nbsp;m3.com",
-      "sources": [
-        {
-          "name": "m3.com",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpYlpvQ2N2NXhIVjB4cGRhMHFma09va0tOV19kYmRnc1ZBWWM4bkJGMkVhZzlNeFg1WW91SnFYN0FxLW1pbS1CTU1zRGNWY2J4MEE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "4f235490c03d",
-      "title": "年齢と治療前の聴力がメニエール病の長期的な聴力予後に関連｜CareNet.com - CareNet.com",
-      "published": "2026-09-16T19:00:00+00:00",
-      "summary": "年齢と治療前の聴力がメニエール病の長期的な聴力予後に関連｜CareNet.com&nbsp;&nbsp;CareNet.com",
-      "sources": [
-        {
-          "name": "CareNet.com",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zMVNHV0owc0VUbjRXY3cxS3lMNTM3WXp5SlNPOTlpUTRaem9YaWRSRjFpN0ZqMXA5T2xhRm5SRUhIdHE4RHJTOEplTERIaEpxZFF4S3IzOXJnUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "51bc9f9e92da",
-      "title": "旅行前、感染対策は万全ですか？ 手は6カ所洗う、ワクチンは「なるはや」―医師が教える防御術 - メディカルドック",
-      "published": "2026-09-16T13:41:44+00:00",
-      "summary": "旅行前、感染対策は万全ですか？ 手は6カ所洗う、ワクチンは「なるはや」―医師が教える防御術&nbsp;&nbsp;メディカルドック【秋冬流行の感染症2026】インフルエンザ流行中、コロナも…ワクチンはいつ？「うがい薬」「消毒」の勘違いも？ 注意点を医師が解説（オリコン）&nbsp;&nbsp;Yahoo!ニュース旅行前、感染対策は万全ですか？ 手は6カ所洗う、ワクチンは「なるはや」―医師が教える防御術（メディカルドック）&nbsp;&nbsp;Yahoo!ニュースコロナ死者はインフルの3倍―様子見が招く3つの代償と、重症化を防ぐワクチン×治療の二本柱【医師解説】（メディカルドック）&nbsp;&nbsp;Yahoo!ニュース",
-      "sources": [
-        {
-          "name": "メディカルドック",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84NVhsSVM4cEdpLVRZUDFXV1pBRUgxd2Y5OG1lVjNSZE1QMllhT2t0Qzh5MjlzZmFaQWpsTHF5N2Z3Tm1IcnBydy0xUG8xSm5BWjlIdGNCVlI?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "59f9554e351c",
-      "title": "培養したウイルスを自分のがんに注入 海外科学者の型破りな自己実験 (2026年9月16日掲載) - ライブドアニュース",
-      "published": "2026-09-16T11:00:00+00:00",
-      "summary": "培養したウイルスを自分のがんに注入 海外科学者の型破りな自己実験 (2026年9月16日掲載)&nbsp;&nbsp;ライブドアニュース「培養したウイルスを自分のがん腫瘍に注入する」という型破りな自己実験を行った結果とは？&nbsp;&nbsp;GIGAZINE",
-      "sources": [
-        {
-          "name": "ライブドアニュース",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zbENhWXV0UzZsZ19MR3YxaFVvS19kUVhNRGdnYmI1VmJ2UkNsclR6YzlhV09MT0J2Q3NDQ2k1MW42TExWajZIZzA2Tm9ZaEZPLTh2Rm5jTENjcXZSVHc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "c491812d726b",
-      "title": "川崎市、２０代女性のはしか感染を発表 ラゾーナ川崎や東海道線を利用 - カナロコ",
-      "published": "2026-09-16T10:50:00+00:00",
-      "summary": "川崎市、２０代女性のはしか感染を発表 ラゾーナ川崎や東海道線を利用&nbsp;&nbsp;カナロコ",
-      "sources": [
-        {
-          "name": "カナロコ",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE53ZG1xN2RCd2MyQlhRT29ab3VrcDFJMU85YVhpUHpiaHlHbG5ZX2RueUhjZ0RuYXl6Qm1oQ19jQS1IU2VjQjdzQWZCTll1a2lBOWt4X1J6enE2ZFdZRGQ4NkNNNU95Vy1YVGVJaw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "43d047d31582",
       "title": "能登半島地震の隆起が生んだ「滝」は河口から1km近く内陸へ遡上　河川インフラへの影響は10年以上続く恐れ【東北大学などの研究】(RSK山陽放送)",
       "published": "2026-09-16T07:23:14+00:00",
@@ -638,198 +350,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/11ea11d210bf235aae3bcc6bfbb2386eba0d9404?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "fa344eef5a29",
-      "title": "研究開発投資、米国抜き中国が世界1位…日本は？(ニュースイッチ)",
-      "published": "2026-09-16T06:10:09+00:00",
-      "summary": "文部科学省科学技術・学術政策研究所（NISTEP）の調査で2024年に、民間企業の研究開発投資でも中国が米国を抜き世界一になったことが分かった。政府の科学技術予算は10年に中国が米国を抜いていたため、",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/272b72a9206ff79b30669cbd3d3062b5162e48f7?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "caa9c19a7df4",
-      "title": "～ホルモン受容体陽性HER2陽性転移乳がんの患者さんに新たな治療選択肢～ - Pfizer Japan",
-      "published": "2026-09-16T06:03:54+00:00",
-      "summary": "～ホルモン受容体陽性HER2陽性転移乳がんの患者さんに新たな治療選択肢～&nbsp;&nbsp;Pfizer Japan",
-      "sources": [
-        {
-          "name": "Pfizer Japan",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jRUJaTDR0UHVtazN3TDIxNjZlbmhDbXpkR0M3NjdtTmY2Um0zSHNsb3NfWW1FdlJKeU9Qd3NBd1paV21CeHd5SlhuUGcwVnhYZlB1ZFd6QndFeVVTOTY0aHVNdFRjR0RSaUNXUU5mU01EUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "cbd747018cc7",
-      "title": "日本人超高齢者におけるSGLT2阻害薬の投与中止リスク、年齢よりもフレイルと低BMIが関連 - 糖尿病リソースガイド",
-      "published": "2026-09-16T03:01:12+00:00",
-      "summary": "日本人超高齢者におけるSGLT2阻害薬の投与中止リスク、年齢よりもフレイルと低BMIが関連&nbsp;&nbsp;糖尿病リソースガイド",
-      "sources": [
-        {
-          "name": "糖尿病リソースガイド",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNcHRYOUlqRnZhMmp5LWNIMG5iY0lnb0dCWmpDS0o1RlJGcVJjSV9Sd0J6UHZqR2pDbFl3R2J3a2JzVnpKM0pvdGVCTnBzMnNVbFVzbk9Yc0dpeEpNQlZ0NG41UHVoWkNfU1Vj?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8161b4faaf30",
-      "title": "チーズ摂取頻度が高い人ほど糖尿病有病率が低い傾向を確認 ～米国成人2,331名を解析、チーズの種類による違いも示唆～ - アットプレス",
-      "published": "2026-09-16T02:00:00+00:00",
-      "summary": "チーズ摂取頻度が高い人ほど糖尿病有病率が低い傾向を確認 ～米国成人2,331名を解析、チーズの種類による違いも示唆～&nbsp;&nbsp;アットプレス",
-      "sources": [
-        {
-          "name": "アットプレス",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA0RkhlUDZlSHZKcGFGaGFhRmE1b3cxbDFYbU8zRk9YYmVzVFNUMThlYVVpdzlJWjJoQU14anVSYWFwQWplaWhtbFUzQ2d0TW8?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "27d8dbc95a9d",
-      "title": "みなとみらいペットウェルネスクリニックALCA 診療体制をさらに強化 獣医皮膚科認定医・山本真紀子先生が参画 - PR TIMES",
-      "published": "2026-09-16T00:00:01+00:00",
-      "summary": "みなとみらいペットウェルネスクリニックALCA 診療体制をさらに強化 獣医皮膚科認定医・山本真紀子先生が参画&nbsp;&nbsp;PR TIMES",
-      "sources": [
-        {
-          "name": "PR TIMES",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84TWVkNXdoWmhFNXpfVnVVVzlqWmlWWDJqRnVCWEwtZlFCVmtQZG1KeEVnSFFmTU5maWp4WmZMYWNqa3N5bWE4RjNsMGpXaXhDQl83SVIyYVdMM1N2VHVMbnpBWG9ac3RLQWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3008b457beab",
-      "title": "なぜ？国産のマラリアワクチン開発！ - radiko news",
-      "published": "2026-09-15T21:51:00+00:00",
-      "summary": "なぜ？国産のマラリアワクチン開発！&nbsp;&nbsp;radiko news",
-      "sources": [
-        {
-          "name": "radiko news",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVb0Ria3VMY05LekFPd1VOaE1NTFlBTFAxWnptUzl2LTBwRHdYVGZ0TlhpMnUtdFpNLXRJM0FjbGwzb045c3VQaHFvd3AycnNzdzBpeXM1YVZKNzVraTFn?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "dc896cbeaab4",
-      "title": "めまいを知る（下）症状改善のカギ…寝方、水分摂取、カルシウム&ビタミンD - 日刊ゲンダイDIGITAL",
-      "published": "2026-09-15T21:00:00+00:00",
-      "summary": "めまいを知る（下）症状改善のカギ…寝方、水分摂取、カルシウム&ビタミンD&nbsp;&nbsp;日刊ゲンダイDIGITALめまいの薬は「タイミング」「種類」「原因」によって選ばれる｜高齢者の正しいクスリとの付き合い方&nbsp;&nbsp;日刊ゲンダイDIGITAL〈健康百科〉めまい、多くが耳に原因 良性発作やメニエール病｜生活・文化｜全国のニュース&nbsp;&nbsp;北國新聞",
-      "sources": [
-        {
-          "name": "日刊ゲンダイDIGITAL",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCbUkzT2Nrc3JjNGd4RVdNU1V2ZFBBbUg3OUprQ0xXckJCRVBzajRVUHhrTXpFUkpzajY1NEVFdkd2TlFTLWUtcXdqWWduclhQQ1RXV24zTlItbVo0LUM1Z1g1NGcyZGh1?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "04572058a731",
-      "title": "卵巣がん患者の17.1％が診断後3年で心血管イベントを発症／Gynecol Oncol｜CareNet.com - CareNet.com",
-      "published": "2026-09-15T19:00:00+00:00",
-      "summary": "卵巣がん患者の17.1％が診断後3年で心血管イベントを発症／Gynecol Oncol｜CareNet.com&nbsp;&nbsp;CareNet.com",
-      "sources": [
-        {
-          "name": "CareNet.com",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5pZG9LeVhPUEtpLWdheGtKMl9pN2Zubi1ySUI5TXRGTmpDNmJhVjktNjBPNnl3MEhjZVc4WFd4dWNUbW9tZE9LcUpvanQ1YllxOE05LV9pYmxQV2lMb0hR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b921e87237f3",
-      "title": "デング熱患者、熊本県内で今年初確認 ベトナムで感染か - 熊本日日新聞社",
-      "published": "2026-09-15T07:35:45+00:00",
-      "summary": "デング熱患者、熊本県内で今年初確認 ベトナムで感染か&nbsp;&nbsp;熊本日日新聞社Google ニュースで見出しと意見をもっと見る",
-      "sources": [
-        {
-          "name": "熊本日日新聞社",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pY2VDQXRxaWlONEhjVlZZdFNFN3JYQ3pBaEczUjVBU2I3SHlkUGhhRWc1Rzh2dm5pM1pXSDV2RHY3VmJqZU5wTDNVZTVrX1E?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "20ae625b9efc",
-      "title": "子宮頸がん検診未受診の20代～30代女性、7割弱が何らかの未受診の理由があり、その理由のトップは「受診するきっかけがないため」と回答。「時間が確保できない」は1割未満にとどまる - PR TIMES",
-      "published": "2026-09-15T06:00:01+00:00",
-      "summary": "子宮頸がん検診未受診の20代～30代女性、7割弱が何らかの未受診の理由があり、その理由のトップは「受診するきっかけがないため」と回答。「時間が確保できない」は1割未満にとどまる&nbsp;&nbsp;PR TIMES全国ワースト10に入る沖縄の子宮頸がん罹患率 ワクチン接種と精密検査受診の向上を 専門医ら市民公開講座&nbsp;&nbsp;沖縄タイムス社「子宮頸がん」の初期症状はほぼ“なし”…？ 放置厳禁な“出血のサイン”とは【産婦人科医に聞く】（オトナンサー）&nbsp;&nbsp;Yahoo!ニュース子宮頸がん検診を 那覇で講座 ワクチン安全性強調&nbsp;&nbsp;琉球新報デジタル",
-      "sources": [
-        {
-          "name": "PR TIMES",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GNWE1YkIyUVZUMGRvTHRCNnRPSUVpSHg4c290Y2J2c0h1bi1kNzFBaVRXdkQwYkw4R2lPTnlvbDFRYkhjSlgyY1E5b09HRVRBWE9VdkZpbjRteGtHVklMV05BbW9oRUtMakE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "23fd2537f3d5",
-      "title": "日本の20代女性、家族全員が結核に 思わぬ経路から今も続く感染（朝日新聞） - Yahoo!ニュース",
-      "published": "2026-09-15T03:02:46+00:00",
-      "summary": "日本の20代女性、家族全員が結核に 思わぬ経路から今も続く感染（朝日新聞）&nbsp;&nbsp;Yahoo!ニュース",
-      "sources": [
-        {
-          "name": "Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jTUUwM0Y0TXBhLVBpQy02bjktOHpoZ0xEeUlNZVlaRUFuMml6UDRXM2lnSlVCcTRDaTh4aDAtOV8wSUotdTdkZEc3TTFHZ2l5WGZKc2laNS1RSElLeHV0c1ZUNWZ1cDlYRkcwMkh4V0JwdlVfNkFPdFg4Z3lSXzA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "49b5dc0fece2",
-      "title": "通院理由は男女とも「高血圧症」が最多 糖尿病・脂質異常症も上位に 2025年国民生活基礎調査結果｜ニュース - 保健指導リソースガイド",
-      "published": "2026-09-15T00:54:34+00:00",
-      "summary": "通院理由は男女とも「高血圧症」が最多 糖尿病・脂質異常症も上位に 2025年国民生活基礎調査結果｜ニュース&nbsp;&nbsp;保健指導リソースガイド",
-      "sources": [
-        {
-          "name": "保健指導リソースガイド",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRd2xjRVNzMXJROGFNcWY2QkxjRVYtckE1Z0hmZzkydU1JMWxPSHFKdkFTQ3ZzbjZvNDJpMUF5YVBlUU1TSWlvaWx6M1p3eS1wUE1kb2hiS2hDUjRvUUZ5YkpGdnVKbS1U?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "0cfd9ba24ccc",
-      "title": "11月まで要警戒！「蚊媒介感染症に関する特定感染症予防指針」改訂｜CareNet.com - CareNet.com",
-      "published": "2026-09-14T19:00:00+00:00",
-      "summary": "11月まで要警戒！「蚊媒介感染症に関する特定感染症予防指針」改訂｜CareNet.com&nbsp;&nbsp;CareNet.com",
-      "sources": [
-        {
-          "name": "CareNet.com",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1fYWozT045Z2hsVjQzOHJhYTZwSjZPRW5zM0VZY0tpTVVOSnlLQ1dKYnVucVV5clpzaUUxZ2tTaTdvTVN6NzAyNVUtYm11UU56T3pYVkdDbWpBdWlReERV?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3da22427e0a2",
-      "title": "認知症リスク低減か 帯状疱疹ワクチン 海外で報告相次ぎ注目 - 47NEWS",
-      "published": "2026-09-14T15:00:00+00:00",
-      "summary": "認知症リスク低減か 帯状疱疹ワクチン 海外で報告相次ぎ注目&nbsp;&nbsp;47NEWS富山市では50歳以上の方を対象に帯状疱疹予防接種の費用を一部助成しています。&nbsp;&nbsp;選挙ドットコム",
-      "sources": [
-        {
-          "name": "47NEWS",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1IRS1DTEdlSWM4aWJVNGlCb3JTckJZaTVVdkFleFk3c3FxeXJiX1JGdk90VTlSNG1lV0xoYUVkc2lVNFRyRXBndkdqOA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "993a55674bbf",
-      "title": "腹囲は肥満の判定に有用な指標、研究で示唆｜ニュース - 保健指導リソースガイド",
-      "published": "2026-09-14T07:49:17+00:00",
-      "summary": "腹囲は肥満の判定に有用な指標、研究で示唆｜ニュース&nbsp;&nbsp;保健指導リソースガイド「腹囲を測れば医療費を抑えられる」は本当か？ 医師が疑問視する“メタボ健診”の意外な落とし穴（SPA!）&nbsp;&nbsp;Yahoo!ニュース【がんリスク】35万人のデータが証明、死亡リスクが最も低いBMIの数値とは（毎日が発見ネット）&nbsp;&nbsp;ｄメニューニュース腹囲は肥満の判定に有用な指標、研究で示唆｜CareNet.com&nbsp;&nbsp;CareNet.com「腹囲を測れば医療費を抑えられる」は本当か？ 医師が疑問視する“メタボ健診”の意外な落とし穴&nbsp;&nbsp;news.infoseek.co.jp",
-      "sources": [
-        {
-          "name": "保健指導リソースガイド",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9uT0Z4OXE2WVZ6d3Jjb3VUMHNTcVZJUTQwcjhIdlBKX2VfbkNwZVh5RkJuVC03M1BfODNndlZGVXhySlY1VUhqUzNOWXBGaVVSLVNMRlIxSmx1NzM5TGJxbHh5T0FWUy16?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e2d0d0df5326",
-      "title": "膵臓がんにピロリ菌関係か、抗体値高いほどリスク 愛知がんセンター - 日本経済新聞",
-      "published": "2026-09-14T02:30:00+00:00",
-      "summary": "膵臓がんにピロリ菌関係か、抗体値高いほどリスク 愛知がんセンター&nbsp;&nbsp;日本経済新聞ピロリ菌駆除&nbsp;&nbsp;マネクリ",
-      "sources": [
-        {
-          "name": "日本経済新聞",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Dd0UyRHNJbzNZZzcyWkJHS0xyNm1SU2lYTk1qWTQxNnE3d0F0SjE5Rl96MFhIUUZDS1hZSmtlSTlxdFB2MlA2YW4wMGJYOXNpaEJ5NDNEQ1pEQ3VuSGRIeFE3SW85cXE0Z1hubA?oc=5"
         }
       ]
     }
