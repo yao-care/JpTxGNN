@@ -3,7 +3,7 @@ layout: default
 title: "ランソプラゾール３０ｍｇ腸溶カプセル 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ランソプラゾール３０ｍｇ腸溶カプセル に関する健康ニュース。既存適応症：。予測適応症 0 件。"
+description: "ランソプラゾール３０ｍｇ腸溶カプセル に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/lansoprazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lansoprazole/
 ---
 
 <p class="key-answer" data-question="ランソプラゾール３０ｍｇ腸溶カプセル に関するニュースは？">
-<strong>ランソプラゾール３０ｍｇ腸溶カプセル</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>ランソプラゾール３０ｍｇ腸溶カプセル</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,18 @@ permalink: /news/lansoprazole/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>duodenogastric reflux (99.7%)</li>
+<li>duodenal obstruction (99.7%)</li>
+<li>peptic ulcer perforation (98.8%)</li>
+<li>gastrojejunal ulcer (98.8%)</li>
+<li>abnormality of glucagon secretion (98.6%)</li>
+<li>gastroduodenitis (97.6%)</li>
+<li>acne (disease) (97.0%)</li>
+<li>Smouldering systemic mastocytosis (95.6%)</li>
+<li>leather-bottle stomach (94.7%)</li>
+<li>duodenitis (94.7%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/lansoprazole/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>

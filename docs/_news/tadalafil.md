@@ -3,7 +3,7 @@ layout: default
 title: "ザルティア錠５ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ザルティア錠５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 0 件。"
+description: "ザルティア錠５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/tadalafil/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tadalafil/
 ---
 
 <p class="key-answer" data-question="ザルティア錠５ｍｇ（選） に関するニュースは？">
-<strong>ザルティア錠５ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>ザルティア錠５ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,18 @@ permalink: /news/tadalafil/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>Ambras type hypertrichosis universalis congenita (100.0%)</li>
+<li>hypertrichosis (disease) (100.0%)</li>
+<li>malformation syndrome with odontal and/or periodontal component (100.0%)</li>
+<li>syndrome with a Dandy-Walker malformation as major feature (100.0%)</li>
+<li>isolated genetic hair shaft abnormality (100.0%)</li>
+<li>familial isolated trichomegaly (99.7%)</li>
+<li>kyphoscoliotic heart disease (99.4%)</li>
+<li>migraine with brainstem aura (99.1%)</li>
+<li>migraine disorder (98.9%)</li>
+<li>hypotrichosis simplex of the scalp (98.7%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/tadalafil/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>

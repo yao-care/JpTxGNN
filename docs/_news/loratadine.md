@@ -3,7 +3,7 @@ layout: default
 title: "クラリチン錠１０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "クラリチン錠１０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 12 件。"
+description: "クラリチン錠１０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 17 件。"
 permalink: /news/loratadine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/loratadine/
 ---
 
 <p class="key-answer" data-question="クラリチン錠１０ｍｇ（選） に関するニュースは？">
-<strong>クラリチン錠１０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 12 件です。
+<strong>クラリチン錠１０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 17 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,7 +25,7 @@ permalink: /news/loratadine/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（12 件）</strong>:<ul>
+<li><strong>予測適応症（17 件）</strong>:<ul>
 <li>papillary conjunctivitis (99.0%)</li>
 <li>allergic urticaria (98.0%)</li>
 <li>nasal cavity disease (98.0%)</li>
@@ -38,6 +38,11 @@ permalink: /news/loratadine/
 <li>nasopharyngitis (92.0%)</li>
 <li>vasomotor rhinitis (50.0%)</li>
 <li>allergic rhinitis (50.0%)</li>
+<li>viral conjunctivitis (89.3%)</li>
+<li>punctate epithelial keratoconjunctivitis (84.2%)</li>
+<li>trigeminal autonomic cephalalgia (80.4%)</li>
+<li>faucial diphtheria (78.5%)</li>
+<li>cervical disc degenerative disorder (76.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/loratadine/' | relative_url }}">医薬品レポート全文を見る →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "リウマトレックスカプセル２ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "リウマトレックスカプセル２ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 49 件。"
+description: "リウマトレックスカプセル２ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 50 件。"
 permalink: /news/methotrexate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/methotrexate/
 ---
 
 <p class="key-answer" data-question="リウマトレックスカプセル２ｍｇ（選） に関するニュースは？">
-<strong>リウマトレックスカプセル２ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 49 件です。
+<strong>リウマトレックスカプセル２ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 50 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,7 +25,7 @@ permalink: /news/methotrexate/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（49 件）</strong>:<ul>
+<li><strong>予測適応症（50 件）</strong>:<ul>
 <li>folliculotropic mycosis fungoides (99.0%)</li>
 <li>acute lymphoblastic leukemia (disease) (99.0%)</li>
 <li>acute lymphoblastic/lymphocytic leukemia (99.0%)</li>
@@ -75,6 +75,7 @@ permalink: /news/methotrexate/
 <li>retroperitoneal neoplasm (96.0%)</li>
 <li>systemic Epstein-Barr virus-positive T-cell lymphoproliferative disease of childhood (96.0%)</li>
 <li>lung mixed small cell and squamous cell carcinoma (96.0%)</li>
+<li>chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation (99.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/methotrexate/' | relative_url }}">医薬品レポート全文を見る →</a></p>

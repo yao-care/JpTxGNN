@@ -3,7 +3,7 @@ layout: default
 title: "ルネスタ錠３ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ルネスタ錠３ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 2 件。"
+description: "ルネスタ錠３ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 11 件。"
 permalink: /news/eszopiclone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/eszopiclone/
 ---
 
 <p class="key-answer" data-question="ルネスタ錠３ｍｇ（選） に関するニュースは？">
-<strong>ルネスタ錠３ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 2 件です。
+<strong>ルネスタ錠３ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 11 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,9 +25,18 @@ permalink: /news/eszopiclone/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（2 件）</strong>:<ul>
+<li><strong>予測適応症（11 件）</strong>:<ul>
 <li>insomnia (disease) (99.0%)</li>
 <li>sleep disorder, initiating and maintaining sleep (97.0%)</li>
+<li>acute encephalopathy with biphasic seizures and late reduced diffusion (85.3%)</li>
+<li>restless legs syndrome (78.4%)</li>
+<li>benign paroxysmal torticollis of infancy (76.1%)</li>
+<li>agoraphobia (73.3%)</li>
+<li>hyperparathyroidism, primary, caused by water clear cell hyperplasia (65.0%)</li>
+<li>mitral valve prolapse, myxomatous (63.2%)</li>
+<li>fibrosis of extraocular muscles, congenital, with synergistic divergence (63.1%)</li>
+<li>triphalangeal thumb, Nonopposable (62.1%)</li>
+<li>sella turcica, bridged (62.1%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/eszopiclone/' | relative_url }}">医薬品レポート全文を見る →</a></p>

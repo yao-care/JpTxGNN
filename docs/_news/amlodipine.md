@@ -3,7 +3,7 @@ layout: default
 title: "エックスフォージ配合ＯＤ錠（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "エックスフォージ配合ＯＤ錠（選） に関する健康ニュース。既存適応症：。予測適応症 0 件。"
+description: "エックスフォージ配合ＯＤ錠（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/amlodipine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/amlodipine/
 ---
 
 <p class="key-answer" data-question="エックスフォージ配合ＯＤ錠（選） に関するニュースは？">
-<strong>エックスフォージ配合ＯＤ錠（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>エックスフォージ配合ＯＤ錠（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,18 @@ permalink: /news/amlodipine/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>brain stem infarction (99.9%)</li>
+<li>pulmonary hypertension owing to lung disease and/or hypoxia (99.9%)</li>
+<li>pulmonary hypertension with unclear multifactorial mechanism (99.9%)</li>
+<li>malignant hypertensive renal disease (99.9%)</li>
+<li>malignant renovascular hypertension (99.9%)</li>
+<li>cerebral artery occlusion (99.9%)</li>
+<li>Braddock syndrome (99.9%)</li>
+<li>MRI defined brain infarct (99.9%)</li>
+<li>ABri amyloidosis (99.8%)</li>
+<li>intracerebral hemorrhage (99.8%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/amlodipine/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>

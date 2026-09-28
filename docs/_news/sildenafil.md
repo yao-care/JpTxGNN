@@ -3,7 +3,7 @@ layout: default
 title: "シルデナフィル錠２０ｍｇＲＥ「ＪＧ」 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "シルデナフィル錠２０ｍｇＲＥ「ＪＧ」 に関する健康ニュース。既存適応症：。予測適応症 8 件。"
+description: "シルデナフィル錠２０ｍｇＲＥ「ＪＧ」 に関する健康ニュース。既存適応症：。予測適応症 11 件。"
 permalink: /news/sildenafil/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/sildenafil/
 ---
 
 <p class="key-answer" data-question="シルデナフィル錠２０ｍｇＲＥ「ＪＧ」 に関するニュースは？">
-<strong>シルデナフィル錠２０ｍｇＲＥ「ＪＧ」</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 8 件です。
+<strong>シルデナフィル錠２０ｍｇＲＥ「ＪＧ」</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 11 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,7 +25,7 @@ permalink: /news/sildenafil/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（8 件）</strong>:<ul>
+<li><strong>予測適応症（11 件）</strong>:<ul>
 <li>Ambras type hypertrichosis universalis congenita (98.0%)</li>
 <li>malformation syndrome with odontal and/or periodontal component (98.0%)</li>
 <li>syndrome with a Dandy-Walker malformation as major feature (98.0%)</li>
@@ -34,6 +34,9 @@ permalink: /news/sildenafil/
 <li>homozygous familial hypercholesterolemia (93.0%)</li>
 <li>hypoalphalipoproteinemia (90.0%)</li>
 <li>pulmonary arterial hypertension (64.0%)</li>
+<li>familial isolated trichomegaly (79.8%)</li>
+<li>genetic alopecia (75.0%)</li>
+<li>obsolete patella aplasia, coxa vara, and tarsal synostosis (70.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/sildenafil/' | relative_url }}">医薬品レポート全文を見る →</a></p>

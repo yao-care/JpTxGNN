@@ -3,7 +3,7 @@ layout: default
 title: "フェブリク錠４０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "フェブリク錠４０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "フェブリク錠４０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 11 件。"
 permalink: /news/febuxostat/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/febuxostat/
 ---
 
 <p class="key-answer" data-question="フェブリク錠４０ｍｇ（選） に関するニュースは？">
-<strong>フェブリク錠４０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>フェブリク錠４０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 11 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,7 +25,7 @@ permalink: /news/febuxostat/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
+<li><strong>予測適応症（11 件）</strong>:<ul>
 <li>obsolete hyperuricemia (disease) (99.0%)</li>
 <li>hypouricemia, renal (99.0%)</li>
 <li>hypoxanthine guanine phosphoribosyltransferase partial deficiency (99.0%)</li>
@@ -36,6 +36,7 @@ permalink: /news/febuxostat/
 <li>hepatopulmonary syndrome (91.0%)</li>
 <li>hepatoportal sclerosis (91.0%)</li>
 <li>hepatic porphyria (91.0%)</li>
+<li>disorder of phenylalanine metabolism (79.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/febuxostat/' | relative_url }}">医薬品レポート全文を見る →</a></p>

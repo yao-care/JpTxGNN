@@ -3,7 +3,7 @@ layout: default
 title: "オイグルコン錠２．５ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "オイグルコン錠２．５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 11 件。"
+description: "オイグルコン錠２．５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 12 件。"
 permalink: /news/glyburide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/glyburide/
 ---
 
 <p class="key-answer" data-question="オイグルコン錠２．５ｍｇ（選） に関するニュースは？">
-<strong>オイグルコン錠２．５ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 11 件です。
+<strong>オイグルコン錠２．５ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 12 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,7 +25,7 @@ permalink: /news/glyburide/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（11 件）</strong>:<ul>
+<li><strong>予測適応症（12 件）</strong>:<ul>
 <li>opsismodysplasia (97.0%)</li>
 <li>diabetes mellitus (disease) (96.0%)</li>
 <li>focal stiff limb syndrome (96.0%)</li>
@@ -37,6 +37,7 @@ permalink: /news/glyburide/
 <li>idiopathic localized lipodystrophy (94.0%)</li>
 <li>pancreatic agenesis (94.0%)</li>
 <li>type 2 diabetes mellitus (50.0%)</li>
+<li>autoimmune oophoritis (82.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/glyburide/' | relative_url }}">医薬品レポート全文を見る →</a></p>

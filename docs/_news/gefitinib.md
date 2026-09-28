@@ -3,7 +3,7 @@ layout: default
 title: "イレッサ錠２５０　２５０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "イレッサ錠２５０　２５０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 30 件。"
+description: "イレッサ錠２５０　２５０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 31 件。"
 permalink: /news/gefitinib/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="イレッサ錠２５０　２５０ｍｇ（選） に関するニュースは？">
-<strong>イレッサ錠２５０　２５０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 30 件です。
+<strong>イレッサ錠２５０　２５０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 31 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,7 +25,7 @@ permalink: /news/gefitinib/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（30 件）</strong>:<ul>
+<li><strong>予測適応症（31 件）</strong>:<ul>
 <li>fibromatosis, gingival (99.0%)</li>
 <li>fibroma of lung (99.0%)</li>
 <li>hamartoma of lung (99.0%)</li>
@@ -56,6 +56,7 @@ permalink: /news/gefitinib/
 <li>sarcoma of cervix uteri (92.0%)</li>
 <li>neuroblastoma (90.0%)</li>
 <li>non-small cell lung carcinoma (disease) (66.0%)</li>
+<li>inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">医薬品レポート全文を見る →</a></p>

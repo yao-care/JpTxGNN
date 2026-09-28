@@ -3,7 +3,7 @@ layout: default
 title: "アトーゼット配合錠ＨＤ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "アトーゼット配合錠ＨＤ（選） に関する健康ニュース。既存適応症：。予測適応症 49 件。"
+description: "アトーゼット配合錠ＨＤ（選） に関する健康ニュース。既存適応症：。予測適応症 50 件。"
 permalink: /news/atorvastatin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/atorvastatin/
 ---
 
 <p class="key-answer" data-question="アトーゼット配合錠ＨＤ（選） に関するニュースは？">
-<strong>アトーゼット配合錠ＨＤ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 49 件です。
+<strong>アトーゼット配合錠ＨＤ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 50 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,7 +25,7 @@ permalink: /news/atorvastatin/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（49 件）</strong>:<ul>
+<li><strong>予測適応症（50 件）</strong>:<ul>
 <li>homozygous familial hypercholesterolemia (99.0%)</li>
 <li>hyperlipoproteinemia (99.0%)</li>
 <li>obsolete susceptibility to ischemic stroke (99.0%)</li>
@@ -75,6 +75,7 @@ permalink: /news/atorvastatin/
 <li>glaucoma (90.0%)</li>
 <li>hypertriglyceridemia, familial (90.0%)</li>
 <li>familial chylomicronemia syndrome (90.0%)</li>
+<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (99.1%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/atorvastatin/' | relative_url }}">医薬品レポート全文を見る →</a></p>

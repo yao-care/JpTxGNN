@@ -3,7 +3,7 @@ layout: default
 title: "リスパダール錠２ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "リスパダール錠２ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 0 件。"
+description: "リスパダール錠２ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/risperidone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/risperidone/
 ---
 
 <p class="key-answer" data-question="リスパダール錠２ｍｇ（選） に関するニュースは？">
-<strong>リスパダール錠２ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>リスパダール錠２ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,18 @@ permalink: /news/risperidone/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>gaze palsy, familial horizontal, with progressive scoliosis (99.8%)</li>
+<li>asperger syndrome, susceptibility to (99.7%)</li>
+<li>amelocerebrohypohidrotic syndrome (99.7%)</li>
+<li>Phelan-McDermid syndrome (99.6%)</li>
+<li>trichotillomania (99.5%)</li>
+<li>major affective disorder (99.1%)</li>
+<li>Tourette syndrome (98.8%)</li>
+<li>intellectual disability (98.7%)</li>
+<li>autism, susceptibility to (98.7%)</li>
+<li>chromosome 15q11.2 deletion syndrome (98.6%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/risperidone/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>

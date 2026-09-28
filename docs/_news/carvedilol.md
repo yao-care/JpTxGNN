@@ -3,7 +3,7 @@ layout: default
 title: "アーチスト錠２０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "アーチスト錠２０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 8 件。"
+description: "アーチスト錠２０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 12 件。"
 permalink: /news/carvedilol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/carvedilol/
 ---
 
 <p class="key-answer" data-question="アーチスト錠２０ｍｇ（選） に関するニュースは？">
-<strong>アーチスト錠２０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 8 件です。
+<strong>アーチスト錠２０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 12 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,7 +25,7 @@ permalink: /news/carvedilol/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（8 件）</strong>:<ul>
+<li><strong>予測適応症（12 件）</strong>:<ul>
 <li>malignant renovascular hypertension (99.0%)</li>
 <li>malignant hypertensive renal disease (99.0%)</li>
 <li>pulmonary hypertension with unclear multifactorial mechanism (99.0%)</li>
@@ -34,6 +34,10 @@ permalink: /news/carvedilol/
 <li>Braddock syndrome (99.0%)</li>
 <li>chronic pulmonary heart disease (94.0%)</li>
 <li>hypertension (50.0%)</li>
+<li>obsolete susceptibility to ischemic stroke (68.7%)</li>
+<li>cerebrovascular disorder (68.1%)</li>
+<li>ocular tuberculosis (61.2%)</li>
+<li>brain stem infarction (59.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/carvedilol/' | relative_url }}">医薬品レポート全文を見る →</a></p>

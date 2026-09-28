@@ -3,7 +3,7 @@ layout: default
 title: "リポバス錠５　５ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "リポバス錠５　５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 49 件。"
+description: "リポバス錠５　５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 50 件。"
 permalink: /news/simvastatin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="リポバス錠５　５ｍｇ（選） に関するニュースは？">
-<strong>リポバス錠５　５ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 49 件です。
+<strong>リポバス錠５　５ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 50 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,7 +25,7 @@ permalink: /news/simvastatin/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（49 件）</strong>:<ul>
+<li><strong>予測適応症（50 件）</strong>:<ul>
 <li>hyperlipoproteinemia (99.0%)</li>
 <li>obsolete susceptibility to ischemic stroke (99.0%)</li>
 <li>hypoalphalipoproteinemia (99.0%)</li>
@@ -75,6 +75,7 @@ permalink: /news/simvastatin/
 <li>duodenal obstruction (91.0%)</li>
 <li>hypertriglyceridemia, familial (91.0%)</li>
 <li>familial chylomicronemia syndrome (91.0%)</li>
+<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (99.1%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">医薬品レポート全文を見る →</a></p>

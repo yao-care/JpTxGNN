@@ -3,7 +3,7 @@ layout: default
 title: "エプジコム配合錠（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "エプジコム配合錠（選） に関する健康ニュース。既存適応症：。予測適応症 0 件。"
+description: "エプジコム配合錠（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/lamivudine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lamivudine/
 ---
 
 <p class="key-answer" data-question="エプジコム配合錠（選） に関するニュースは？">
-<strong>エプジコム配合錠（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>エプジコム配合錠（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,18 @@ permalink: /news/lamivudine/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>simian immunodeficiency virus infection (99.9%)</li>
+<li>feline acquired immunodeficiency syndrome (99.9%)</li>
+<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (99.9%)</li>
+<li>obsolete familial combined hyperlipidemia (99.6%)</li>
+<li>chronic hepatitis C virus infection (99.1%)</li>
+<li>hepatitis B virus infection (97.8%)</li>
+<li>hepatitis C virus infection (97.0%)</li>
+<li>primitive portal vein thrombosis (96.3%)</li>
+<li>early-onset familial noncirrhotic portal hypertension (96.3%)</li>
+<li>hepatopulmonary syndrome (96.3%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/lamivudine/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>

@@ -3,7 +3,7 @@ layout: default
 title: "リフレックス錠３０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "リフレックス錠３０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 0 件。"
+description: "リフレックス錠３０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/mirtazapine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/mirtazapine/
 ---
 
 <p class="key-answer" data-question="リフレックス錠３０ｍｇ（選） に関するニュースは？">
-<strong>リフレックス錠３０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>リフレックス錠３０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,18 @@ permalink: /news/mirtazapine/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>Ohdo syndrome and variants (99.4%)</li>
+<li>blepharophimosis - intellectual disability syndrome, Ohdo type (99.1%)</li>
+<li>benign paroxysmal torticollis of infancy (99.1%)</li>
+<li>ligneous conjunctivitis (98.9%)</li>
+<li>childhood apraxia of speech (98.7%)</li>
+<li>dysthymic disorder (98.6%)</li>
+<li>agoraphobia (98.6%)</li>
+<li>phobic disorder (98.6%)</li>
+<li>melancholia (98.3%)</li>
+<li>neurotic depression (98.2%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/mirtazapine/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>

@@ -3,7 +3,7 @@ layout: default
 title: "プレミネント配合錠ＨＤ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "プレミネント配合錠ＨＤ（選） に関する健康ニュース。既存適応症：。予測適応症 11 件。"
+description: "プレミネント配合錠ＨＤ（選） に関する健康ニュース。既存適応症：。予測適応症 13 件。"
 permalink: /news/hydrochlorothiazide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hydrochlorothiazide/
 ---
 
 <p class="key-answer" data-question="プレミネント配合錠ＨＤ（選） に関するニュースは？">
-<strong>プレミネント配合錠ＨＤ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 11 件です。
+<strong>プレミネント配合錠ＨＤ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 13 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,7 +25,7 @@ permalink: /news/hydrochlorothiazide/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（11 件）</strong>:<ul>
+<li><strong>予測適応症（13 件）</strong>:<ul>
 <li>hypertensive disorder (98.0%)</li>
 <li>malignant renovascular hypertension (98.0%)</li>
 <li>malignant hypertensive renal disease (98.0%)</li>
@@ -37,6 +37,8 @@ permalink: /news/hydrochlorothiazide/
 <li>acute pulmonary heart disease (93.0%)</li>
 <li>primary hereditary glaucoma (90.0%)</li>
 <li>hypertension (50.0%)</li>
+<li>open-angle glaucoma (86.2%)</li>
+<li>hypotrichosis simplex of the scalp (74.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/hydrochlorothiazide/' | relative_url }}">医薬品レポート全文を見る →</a></p>

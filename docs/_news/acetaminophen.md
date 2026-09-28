@@ -3,7 +3,7 @@ layout: default
 title: "トラムセット配合錠（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "トラムセット配合錠（選） に関する健康ニュース。既存適応症：。予測適応症 15 件。"
+description: "トラムセット配合錠（選） に関する健康ニュース。既存適応症：。予測適応症 17 件。"
 permalink: /news/acetaminophen/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/acetaminophen/
 ---
 
 <p class="key-answer" data-question="トラムセット配合錠（選） に関するニュースは？">
-<strong>トラムセット配合錠（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 15 件です。
+<strong>トラムセット配合錠（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 17 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,7 +25,7 @@ permalink: /news/acetaminophen/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（15 件）</strong>:<ul>
+<li><strong>予測適応症（17 件）</strong>:<ul>
 <li>migraine disorder (99.0%)</li>
 <li>migraine with brainstem aura (99.0%)</li>
 <li>headache disorder (98.0%)</li>
@@ -41,6 +41,8 @@ permalink: /news/acetaminophen/
 <li>nasopharyngitis (85.0%)</li>
 <li>vasomotor rhinitis (50.0%)</li>
 <li>allergic rhinitis (50.0%)</li>
+<li>inclusion body myositis (89.2%)</li>
+<li>sciatic neuropathy (86.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/acetaminophen/' | relative_url }}">医薬品レポート全文を見る →</a></p>

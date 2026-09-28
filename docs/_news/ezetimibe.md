@@ -3,7 +3,7 @@ layout: default
 title: "ゼチーア錠１０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ゼチーア錠１０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 21 件。"
+description: "ゼチーア錠１０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 22 件。"
 permalink: /news/ezetimibe/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ezetimibe/
 ---
 
 <p class="key-answer" data-question="ゼチーア錠１０ｍｇ（選） に関するニュースは？">
-<strong>ゼチーア錠１０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 21 件です。
+<strong>ゼチーア錠１０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 22 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,7 +25,7 @@ permalink: /news/ezetimibe/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（21 件）</strong>:<ul>
+<li><strong>予測適応症（22 件）</strong>:<ul>
 <li>homozygous familial hypercholesterolemia (99.0%)</li>
 <li>obsolete familial combined hyperlipidemia (99.0%)</li>
 <li>hyperlipoproteinemia (99.0%)</li>
@@ -47,6 +47,7 @@ permalink: /news/ezetimibe/
 <li>hypolipoproteinemia (disease) (93.0%)</li>
 <li>fibroma of prostate (91.0%)</li>
 <li>benign reproductive system neoplasm (90.0%)</li>
+<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (98.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ezetimibe/' | relative_url }}">医薬品レポート全文を見る →</a></p>

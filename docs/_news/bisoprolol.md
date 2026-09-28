@@ -3,7 +3,7 @@ layout: default
 title: "メインテート錠５ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "メインテート錠５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 0 件。"
+description: "メインテート錠５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/bisoprolol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/bisoprolol/
 ---
 
 <p class="key-answer" data-question="メインテート錠５ｍｇ（選） に関するニュースは？">
-<strong>メインテート錠５ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>メインテート錠５ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,6 +25,18 @@ permalink: /news/bisoprolol/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>malignant renovascular hypertension (99.9%)</li>
+<li>malignant hypertensive renal disease (99.9%)</li>
+<li>pulmonary hypertension with unclear multifactorial mechanism (99.9%)</li>
+<li>pulmonary hypertension owing to lung disease and/or hypoxia (99.9%)</li>
+<li>Braddock syndrome (99.9%)</li>
+<li>chronic pulmonary heart disease (98.6%)</li>
+<li>Prinzmetal angina (94.4%)</li>
+<li>obsolete susceptibility to ischemic stroke (75.2%)</li>
+<li>brain stem infarction (68.2%)</li>
+<li>cerebrovascular disorder (68.1%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/bisoprolol/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>

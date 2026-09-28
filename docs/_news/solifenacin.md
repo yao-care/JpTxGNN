@@ -3,7 +3,7 @@ layout: default
 title: "ベシケアＯＤ錠５ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ベシケアＯＤ錠５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "ベシケアＯＤ錠５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 11 件。"
 permalink: /news/solifenacin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/solifenacin/
 ---
 
 <p class="key-answer" data-question="ベシケアＯＤ錠５ｍｇ（選） に関するニュースは？">
-<strong>ベシケアＯＤ錠５ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>ベシケアＯＤ錠５ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 11 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,7 +25,7 @@ permalink: /news/solifenacin/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
+<li><strong>予測適応症（11 件）</strong>:<ul>
 <li>overactive bladder (disease) (99.0%)</li>
 <li>polycystic kidney disease 3 with or without polycystic liver disease (97.0%)</li>
 <li>thoracic malformation (96.0%)</li>
@@ -36,6 +36,7 @@ permalink: /news/solifenacin/
 <li>low compliance bladder (95.0%)</li>
 <li>polycystic kidney disease (92.0%)</li>
 <li>subarachnoid hemorrhage (disease) (90.0%)</li>
+<li>congenital analbuminemia (89.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/solifenacin/' | relative_url }}">医薬品レポート全文を見る →</a></p>

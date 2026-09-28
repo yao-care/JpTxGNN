@@ -3,7 +3,7 @@ layout: default
 title: "クレストールＯＤ錠５ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "クレストールＯＤ錠５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 49 件。"
+description: "クレストールＯＤ錠５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 50 件。"
 permalink: /news/rosuvastatin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/rosuvastatin/
 ---
 
 <p class="key-answer" data-question="クレストールＯＤ錠５ｍｇ（選） に関するニュースは？">
-<strong>クレストールＯＤ錠５ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 49 件です。
+<strong>クレストールＯＤ錠５ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 50 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,7 +25,7 @@ permalink: /news/rosuvastatin/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（49 件）</strong>:<ul>
+<li><strong>予測適応症（50 件）</strong>:<ul>
 <li>homozygous familial hypercholesterolemia (99.0%)</li>
 <li>obsolete familial combined hyperlipidemia (99.0%)</li>
 <li>hyperlipoproteinemia (99.0%)</li>
@@ -75,6 +75,7 @@ permalink: /news/rosuvastatin/
 <li>chronic kidney disease (93.0%)</li>
 <li>transient neonatal thrombocytopenia (93.0%)</li>
 <li>duodenal obstruction (93.0%)</li>
+<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (99.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/rosuvastatin/' | relative_url }}">医薬品レポート全文を見る →</a></p>

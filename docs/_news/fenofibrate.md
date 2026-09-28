@@ -3,7 +3,7 @@ layout: default
 title: "トライコア錠８０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "トライコア錠８０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 40 件。"
+description: "トライコア錠８０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 41 件。"
 permalink: /news/fenofibrate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/fenofibrate/
 ---
 
 <p class="key-answer" data-question="トライコア錠８０ｍｇ（選） に関するニュースは？">
-<strong>トライコア錠８０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 40 件です。
+<strong>トライコア錠８０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 41 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,7 +25,7 @@ permalink: /news/fenofibrate/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（40 件）</strong>:<ul>
+<li><strong>予測適応症（41 件）</strong>:<ul>
 <li>hypoalphalipoproteinemia (99.0%)</li>
 <li>homozygous familial hypercholesterolemia (99.0%)</li>
 <li>obsolete familial combined hyperlipidemia (99.0%)</li>
@@ -66,6 +66,7 @@ permalink: /news/fenofibrate/
 <li>Norum disease (90.0%)</li>
 <li>benign reproductive system neoplasm (90.0%)</li>
 <li>hypertriglyceridemia (disease) (50.0%)</li>
+<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (97.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/fenofibrate/' | relative_url }}">医薬品レポート全文を見る →</a></p>
