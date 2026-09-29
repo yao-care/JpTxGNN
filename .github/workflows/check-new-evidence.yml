@@ -13,7 +13,7 @@ permissions:
 jobs:
   check-evidence:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 120  # PubMed 檢查 800+ 個藥約 70 分鐘（無 NCBI API key）；30 分鐘會逾時取消
 
     steps:
       - name: Checkout repository
@@ -46,6 +46,8 @@ jobs:
         continue-on-error: true
 
       - name: Update cache files
+        # 前面步驟逾時或失敗也要寫回快取，否則下次會把同一批試驗再當成新的開 issue
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
