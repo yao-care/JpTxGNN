@@ -2,7 +2,7 @@
 layout: default
 title: ｱﾀﾞﾘﾑﾏﾌﾞBsﾋｶﾁｭｳ80Mgﾍ
 parent: モデル予測のみ
-nav_order: 318
+nav_order: 478
 evidence_level: L5
 indication_count: 0
 ---

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Ropinirole
-parent: 中エビデンス (L3-L4)
-nav_order: 149
-evidence_level: L4
-indication_count: 1
+parent: モデル予測のみ
+nav_order: 248
+evidence_level: L5
+indication_count: 10
 ---
 
 # Ropinirole
 {: .fs-9 }
 
-エビデンスレベル: **L4** | 予測適応症: **1** 件
+エビデンスレベル: **L5** | 予測適応症: **10** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,120 +29,82 @@ indication_count: 1
 
 </div>
 
-# Ropinirole：從帕金森氏症到思覺失調症
+# ロピニロール：パーキンソン病から注意欠如・多動症 (ADHD) へ
 
-## 一言まとめ
+## 一言要約
 
-Ropinirole 原本用於治療帕金森氏症及腳部躁動症。TxGNN 模型預測它可能對**思覺失調症 (schizophrenia)** 有效，這個預測獲得多篇 PubMed 文獻支持，包含系統性回顧及案例報告。
+ロピニロールはドパミン受容体作動薬で、日本ではパーキンソン病の治療薬として市販されています。
+TxGNN モデルは**注意欠如・多動症 (Attention Deficit-Hyperactivity Disorder)** に有効である可能性を予測しています。
+臨床試験の登録はありませんが、**文献 10 編**が見つかっており、うち 1 編はメチルフェニデートへの上乗せを検証した 2026 年のランダム化二重盲検試験 (RCT) です。
 
-## 概要
+## クイック概要
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 治療自發性帕金森氏症、原發性腳部躁動症 |
-| 予測新適応症 | 思覺失調症 (schizophrenia) |
-| TxGNN 予測スコア | 99.90% |
-| エビデンスレベル | L4 |
-| 日本上市 | 部分Marketed |
-| 承認数 | 11 張（部分已註銷） |
-| 推奨判断 | Worth Exploring |
+| 既存適応症 | パーキンソン病 |
+| 予測新規適応症 | 注意欠如・多動症 (Attention Deficit-Hyperactivity Disorder) |
+| TxGNN 予測スコア | 99.99% |
+| エビデンスレベル | L2（暫定。RCT は 1 件のみで、フェーズは未確認） |
+| 日本市販状況 | ✓ 市販中 |
+| 承認番号数 | 20 件 |
+| 推奨決定 | Hold |
 
-## この予測が妥当な理由
+## この予測が妥当である理由
 
-Ropinirole 是一種多巴胺 D2/D3 受體促效劑，其作用機轉與思覺失調症的多巴胺假說密切相關：
+現在、詳細な作用機序データはありません。ただし、ロピニロールはドパミン D2/D3 受容体作動薬として知られています。ADHD ではドパミン系の機能低下が関与すると考えられており、ドパミン作動薬が症状に働きかける余地があります。
 
-1. **多巴胺受體親和力**：Ropinirole 對 D2 和 D3 受體具有高親和力，這與思覺失調症的神經生物學基礎相關。
+既存適応症との関連は 2 つあります。1 つは、ADHD がむずむず脚症候群 (RLS) を併発しやすいことです。ロピニロールは RLS にも使われる薬で、併発例では両疾患に共通の薬物治療が検討され得ます。もう 1 つは、RLS 併発の ADHD 児にロピニロールを投与し、両方の症状が改善した症例報告があることです。
 
-2. **負性症狀改善潛力**：思覺失調症的負性症狀（如情感淡漠、社交退縮）與獎賞系統功能受損有關，促多巴胺藥物可能作為輔助治療。
-
-3. **抗精神病藥物副作用緩解**：文獻顯示 Ropinirole 可用於治療 Aripiprazole 引起的遲發性靜坐不能。
+ただし、エビデンスは限られています。直接的な根拠は、直近の上乗せ RCT 1 件と症例レベルの報告にとどまります。この RCT のフェーズと規模は、今回のデータでは確認できません。
 
 ## 臨床試験エビデンス
 
-目前無 Ropinirole 用於思覺失調症的臨床試驗登記。
+現在、関連する臨床試験の登録はありません。
 
 ## 文献エビデンス
 
-共找到 15 篇相關文獻：
+| PMID | 年 | タイプ | ジャーナル | 主な知見 |
+|------|-----|------|------|---------|
+| [42640474](https://pubmed.ncbi.nlm.nih.gov/42640474/) | 2026 | RCT | Eur Child Adolesc Psychiatry | 6〜17 歳の ADHD 外来患者 66 名を対象に、メチルフェニデートへのロピニロール上乗せとプラセボ上乗せを 8 週間比較。ロピニロールは抗炎症・神経保護作用を持つドパミン作動薬として検討された（要旨の抜粋には結果の記載なし） |
+| [16218085](https://pubmed.ncbi.nlm.nih.gov/16218085/) | 2005 | Review | Sleep | RLS と ADHD の関連性と想定される機序を整理。両疾患が併存する場合に共通の薬物治療を用いる意義を論じた |
+| [15866437](https://pubmed.ncbi.nlm.nih.gov/15866437/) | 2005 | Case series | Pediatr Neurol | メチルフェニデートで効果不十分な 6 歳男児の ADHD と睡眠障害（RLS 疑い）に、ロピニロールで ADHD 症状と睡眠の両方が有意に改善 |
+| [34182128](https://pubmed.ncbi.nlm.nih.gov/34182128/) | 2021 | In vitro | Pharmacol Res | ドパミン D4 受容体の多型と α2A アドレナリン受容体のヘテロマー形成が薬理・機能に差を生むことを示した。ADHD や衝動制御障害との関連を考察 |
+| [18656214](https://pubmed.ncbi.nlm.nih.gov/18656214/) | 2008 | Review | Rev Neurol | RLS の臨床像と疫学（一般人口の 2〜3%）を概説（フランス語） |
 
-### 主要文献
+## 日本市販情報
 
-1. **Sabe et al. (2019)** - Journal of Clinical Psychopharmacology
-   - 標題：Prodopaminergic Drugs for Treating the Negative Symptoms of Schizophrenia: Systematic Review and Meta-analysis of Randomized Controlled Trials
-   - 類型：系統性回顧與統合分析
-   - 重點：促多巴胺藥物可能作為思覺失調症負性症狀的輔助治療
-   - [PubMed 連結](https://pubmed.ncbi.nlm.nih.gov/31688399/)
+日本では 20 件の承認があり、主要な 5 件を示します。
 
-2. **Michalopoulou et al. (2012)** - Journal of Clinical Psychopharmacology
-   - 標題：Ropinirole as an effective adjunctive treatment for clozapine-resistant negative symptoms in simple schizophrenia
-   - 類型：案例報告
-   - 重點：Ropinirole 成功作為 Clozapine 抗藥性負性症狀的輔助治療
-   - [PubMed 連結](https://pubmed.ncbi.nlm.nih.gov/22926612/)
-
-3. **Maple et al. (2017)** - J Pharmacol Exp Ther
-   - 標題：Effects of Repeated Ropinirole Treatment on Phencyclidine-Induced Hyperlocomotion, Prepulse Inhibition Deficits, and Social Avoidance in Rats
-   - 類型：動物研究
-   - 重點：重複 Ropinirole 治療可改善思覺失調症動物模型的症狀
-   - [PubMed 連結](https://pubmed.ncbi.nlm.nih.gov/28167638/)
-
-4. **Berger et al. (2011)** - Biological Psychiatry
-   - 標題：cAMP response element binding protein phosphorylation in nucleus accumbens underlies sustained recovery of sensorimotor gating following repeated D2-like receptor agonist treatment in rats
-   - 類型：基礎研究
-   - 重點：揭示 D2 受體促效劑改善感覺運動閘控的分子機制
-   - [PubMed 連結](https://pubmed.ncbi.nlm.nih.gov/21035786/)
-
-## 日本上市情報
-
-| 承認番号 | 品名 | 剤形 | 狀態 | 承認適応症 |
-|---------|------|------|------|-----------|
-| 衛署藥輸字第025118號 | 力必平持續性藥效膜衣錠2毫克 | 持續性藥效膜衣錠 | 有效 | 治療帕金森氏症 |
-| 衛署藥輸字第025119號 | 力必平持續性藥效膜衣錠4毫克 | 持續性藥效膜衣錠 | 有效 | 治療帕金森氏症 |
-| 衛署藥輸字第025120號 | 力必平持續性藥效膜衣錠8毫克 | 持續性藥效膜衣錠 | 有效 | 治療帕金森氏症 |
-| 衛署藥輸字第022882號 | 力必平膜衣錠0.25毫克 | 膜衣錠 | 有效 | 治療自發性帕金森氏症、原發性腳部躁動症 |
-| 衛署藥輸字第022883號 | 力必平膜衣錠1毫克 | 膜衣錠 | 有效 | 治療自發性帕金森氏症、原發性腳部躁動症 |
+| 承認番号 | 商品名 | 剤形 | 承認適応症 |
+|---------|------|------|-----------|
+| 622183601 | レキップＣＲ錠２ｍｇ | 錠２ｍｇ | — |
+| 670004415 | レキップ錠０．２５ｍｇ（選） | 錠０．２５ｍｇ（選） | パーキンソン病治療薬、ドパミン受容体作動薬。パーキンソン病 |
+| 620004415 | レキップ錠０．２５ｍｇ | 錠０．２５ｍｇ | パーキンソン病治療薬、ドパミン受容体作動薬。パーキンソン病 |
+| 622656301 | ロピニロール徐放錠８ｍｇ「サワイ」 | 錠８ｍｇ「サワイ」 | — |
+| 620004417 | レキップ錠２ｍｇ | 錠２ｍｇ | パーキンソン病治療薬、ドパミン受容体作動薬。パーキンソン病 |
 
 ## 安全性に関する考慮事項
 
-### 重要な薬物相互作用
-
-| 交互作用藥物 | 嚴重程度 | 來源 |
-|-------------|---------|------|
-| Morphine | 中度 | DDInter |
-| Metoclopramide | 中度 | DDInter |
-| Ethanol | 中度 | DDInter |
-| Caffeine | 中度 | DDInter |
-| Warfarin | 中度 | DDInter |
-| Cimetidine | 中度 | DDInter |
-| Promethazine | 中度 | DDInter |
-
-### 特殊注意事項
-
-- **衝動控制障礙風險**：文獻報告 Ropinirole 可能增加病態性賭博的風險
-- **精神症狀**：可能引發孤立性妄想症候群
-- **嗜睡**：可能導致突發性睡眠
+安全性情報については添付文書を参照してください。
 
 ## 結論と次のステップ
 
-**判断：Worth Exploring**
+**決定：Hold**
 
 **理由：**
-1. 多巴胺機轉與思覺失調症病理生理學有明確關聯
-2. 有案例報告支持其作為負性症狀的輔助治療
-3. 系統性回顧顯示促多巴胺藥物類別可能有效
-4. 台灣已有多種劑型上市
+ADHD に対しては、機序の妥当性と 2026 年の上乗せ RCT 1 件という一定の裏付けがあります。しかし、臨床試験の登録がなく、RCT の結果とフェーズも未確認です。加えて、日本の添付文書に基づく警告・禁忌が未取得で、安全性の一次スクリーニングに進めません。
 
-**推進に必要な事項：**
-- 隨機對照試驗評估 Ropinirole 輔助治療思覺失調症負性症狀的療效
-- 更詳細的安全性資料，特別是與抗精神病藥物併用時
-- 建立適當的起始劑量和滴定方案
+**進める場合に必要なもの：**
+- PMDA 添付文書の警告・禁忌の取得（ブロッキング事項）
+- 詳細な作用機序データ（MOA）の補完（DrugBank API など）
+- PMID 42640474 の全文確認（フェーズ、症例数、主要評価項目、有害事象）
+- 小児への使用を想定した安全性の評価（併用薬との相互作用データも未取得）
 
+なお、2 位以下の予測候補の多くはエビデンスがなく、Hold 相当です。5 位の統合失調症は動物実験とクラスレベルの知見がありますが、ドパミン作動薬が精神症状を誘発・悪化させ得る点に注意が必要です。
+## 免責事項
+
+本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。
+臨床応用の前に臨床的検証が必要です。
 
 ---
 
-
-<div class="disclaimer" style="background-color: #fff3cd; padding: 1rem; border-radius: 0.5rem; margin-top: 2rem;">
-<strong>⚠️ 免責事項</strong><br>
-本レポートは学術研究目的のみであり、<strong>医療アドバイスを構成するものではありません</strong>。
-薬の使用は必ず医師の指示に従ってください。自己判断で投薬を変更しないでください。
-ドラッグ・リポジショニングの決定には、完全な臨床検証と規制審査が必要です。
-</div>

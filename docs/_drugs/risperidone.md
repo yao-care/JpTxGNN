@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Risperidone
-parent: 高エビデンスレベル
-nav_order: 122
-evidence_level: L1
+parent: モデル予測のみ
+nav_order: 245
+evidence_level: L5
 indication_count: 10
 ---
 
 # Risperidone
 {: .fs-9 }
 
-エビデンスレベル: **L1** | 予測適応症: **10** 件
+エビデンスレベル: **L5** | 予測適応症: **10** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,116 +29,113 @@ indication_count: 10
 
 </div>
 
-スキルを確認しました。レポート生成に特化した追加指示はないため、システムプロンプトの評価フォーマット（v5）に従って作成します。
-
-本 Pack は `candidate_id: TW-DB00734-multi`（10 適応症の多指標評価）です。TxGNN スコア Rank 1（Gaze palsy, L5, Hold）ではなく、最高エビデンス適応症の **Rank 6（Major Affective Disorder, L1）** を主要評価対象として選定しています。
-
----
-
-# リスペリドン：統合失調症 から 大うつ病・双極性感情障害 へ
+# リスペリドン：統合失調症から家族性水平性注視麻痺・進行性側弯症へ
 
 ## 一言要約
 
-リスペリドンは D2/5-HT2A 受容体を拮抗する非定型抗精神病薬で、統合失調症の治療薬として国際的に広く使用されています。TxGNN モデルは 10 の新規適応症を予測しており、中でも最もエビデンスが充実した**大うつ病・双極性感情障害 (Major Affective Disorder)** については、**36 件の臨床試験**（複数の Phase 3 RCT を含む）と **20 編の文献**（Cochrane meta-analysis を含む）が有効性を強力に支持しています。
-
----
+リスペリドンは元々、統合失調症の治療に使用されてきた非定型抗精神病薬です。
+TxGNN モデルは、最上位候補として**家族性水平性注視麻痺・進行性側弯症 (gaze palsy, familial horizontal, with progressive scoliosis)** への有効性を予測しています。ただし、この候補には臨床試験も文献もなく、**モデル予測のみ (L5)** のため保留です。
+同じ Evidence Pack には、**大うつ病・双極性障害、トゥレット症候群、知的障害、自閉症**など、臨床試験と文献の裏付けがある候補もあり、後述します。
 
 ## クイック概要
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 統合失調症（日本薬事承認データは本 Pack 外） |
-| 予測新規適応症 | 大うつ病・双極性感情障害 (Major Affective Disorder) |
-| TxGNN 予測スコア | 99.11% |
-| エビデンスレベル | L1 |
-| 日本市販状況 | × Not marketed |
-| 承認番号数 | 0 件 |
-| 推奨決定 | Proceed with Guardrails |
-
-> **多指標評価について：** 本 Pack は計 10 の予測適応症を含みます。TxGNN スコア最上位は *Gaze palsy, familial horizontal* (99.76%, Rank 1) ですが、エビデンスレベルが L5（臨床データなし）のため、最高エビデンス適応症である Rank 6（L1）を主要評価対象としています。
-
----
-
-## 予測適応症一覧
-
-| Rank | 疾患名 | TxGNN スコア | エビデンス | 推奨 |
-|------|--------|------------|----------|------|
-| 1 | Gaze palsy, familial horizontal（水平注視麻痺・進行性脊柱側弯症） | 99.76% | L5 | Hold |
-| 2 | Asperger syndrome, susceptibility to（アスペルガー症候群易感性） | 99.74% | L5 | Hold |
-| 3 | Amelocerebrohypohidrotic syndrome（法瑯質・小脳・無汗症候群） | 99.69% | L5 | Hold |
-| 4 | Phelan-McDermid syndrome（フェラン・マクダーミド症候群） | 99.59% | L4 | Research Question |
-| 5 | Trichotillomania（抜毛症） | 99.51% | L4 | Research Question |
-| **6** | **Major affective disorder（大うつ病・双極性感情障害）** | **99.11%** | **L1** | **Proceed with Guardrails** |
-| 7 | Tourette syndrome（トゥレット症候群） | 98.76% | L2 | Proceed with Guardrails |
-| 8 | Intellectual disability（知的障害） | 98.72% | L2 | Proceed with Guardrails |
-| 9 | Autism, susceptibility to（自閉症易感性） | 98.65% | L2 | Proceed with Guardrails |
-| 10 | Chromosome 15q11.2 deletion syndrome（第 15 染色体 q11.2 欠失症候群） | 98.59% | L5 | Hold |
-
----
+| 既存適応症 | 統合失調症 |
+| 予測新規適応症 | 家族性水平性注視麻痺・進行性側弯症 (gaze palsy, familial horizontal, with progressive scoliosis) |
+| TxGNN 予測スコア | 99.76% |
+| エビデンスレベル | L5 |
+| 日本市販状況 | ✓ 市販中 |
+| 承認番号数 | 20 件 |
+| 推奨決定 | Hold |
 
 ## この予測が妥当である理由
 
-リスペリドンはドーパミン D2 受容体とセロトニン 5-HT2A 受容体を強力に拮抗する非定型抗精神病薬です。本 Pack には詳細な MOA データが含まれていませんが、確立された薬理学的知識に基づき情動障害への適用根拠を以下に示します。
+現在、詳細な作用機序データはありません。既知の情報によると、リスペリドンはドパミン D2 受容体とセロトニン 5-HT2A 受容体を遮断する非定型抗精神病薬で、統合失調症での有効性が証明されています。
 
-躁状態の病態中核には中脳辺縁系ドーパミン経路の過活性が存在します。リスペリドンの D2 拮抗はこの過活性を直接抑制し、抗躁効果をもたらします。うつ状態では前頭皮質の血清素伝達低下が認められ、5-HT2A 拮抗による皮質セロトニン放出の増加が抗うつ薬との協調（augmentation）の機序的根拠となります。この D2/5-HT2A 二重拮抗により、リスペリドンは気分安定薬としても既存抗うつ薬の増強剤としても機能し得ます。
-
-統合失調症と大うつ病・双極性感情障害は共通の神経伝達物質基盤（ドーパミン・セロトニン経路の dysregulation）を有しており、薬理学的類縁性が高い疾患群です。統合感情障害（schizoaffective disorder）という両者の中間診断概念が存在することも、この連続性を臨床的に裏付けています。複数の Phase 3 RCT および Cochrane meta-analysis がリスペリドンの情動障害への有効性を実証しており、TxGNN の高スコア予測（99.11%）は既存エビデンスと整合しています。
-
----
+一方、最上位候補の疾患は、ROBO3 遺伝子に関連する後脳の神経配線異常です。D2/5-HT2A 拮抗との機序的なつながりは見当たらず、現時点の根拠は TxGNN のスコアのみです。この予測は、機序面では妥当とは言えません。
 
 ## 臨床試験エビデンス
 
-| 試験番号 | フェーズ | 状態 | 被験者数 | 主な知見 |
-|---------|--------|------|----------|---------|
-| [NCT00277654](https://clinicaltrials.gov/study/NCT00277654) | Phase 3 | 完了 | 111 | リスペリドン単剤による外来双極性障害（パニック/全般性不安障害合併）の安全性・有効性 RCT |
-| [NCT00176202](https://clinicaltrials.gov/study/NCT00176202) | Phase 3 | 完了 | 65 | 小児双極性障害における Risperidone vs Divalproex 比較 RCT（MRI 神経回路評価を含む） |
-| [NCT00012558](https://clinicaltrials.gov/study/NCT00012558) | N/A | 完了 | 5,000 | STEP-BD：双極性障害の薬物療法・心理社会療法を系統的に長期評価した大規模実世界研究 |
-| [NCT00057681](https://clinicaltrials.gov/study/NCT00057681) | Phase 3 | 完了 | 379 | TEAM Study：早発性躁症（小児・青少年）に対する Lithium / Valproate / Risperidone 三群比較 RCT |
-| [NCT00391222](https://clinicaltrials.gov/study/NCT00391222) | Phase 3 | 完了 | 585 | Risperidone LAI 単剤 vs プラセボによる双極 I 型障害の気分エピソード再発予防 RCT |
-| [NCT02918097](https://clinicaltrials.gov/study/NCT02918097) | Phase 4 | 完了 | 78 | 双極性障害うつ病エピソードへのアルゴリズム治療の費用対効果・生活品質評価（実用 RCT） |
-| [NCT00044681](https://clinicaltrials.gov/study/NCT00044681) | Phase 3 | 完了 | 258 | SSRI 治療抵抗性うつ病に対する Risperidone 補助療法の有効性・安全性・長期維持効果 RCT |
-| [NCT00095134](https://clinicaltrials.gov/study/NCT00095134) | Phase 3 | 完了 | 630 | 標準抗うつ薬不応の大うつ病に対する Risperidone 補助 vs プラセボの多施設 RCT |
-| [NCT00221403](https://clinicaltrials.gov/study/NCT00221403) | Phase 3 | 完了 | 46 | 3〜7 歳幼児双極性障害を対象とした Valproate vs Risperidone の予備的ランダム化対照試験 |
-| [NCT00571688](https://clinicaltrials.gov/study/NCT00571688) | Phase 4 | 完了 | 50 | Risperidone Consta 隔週投与による双極性障害の症状再発・再入院抑制の評価 |
-
----
+現在、関連する臨床試験の登録はありません。
 
 ## 文献エビデンス
 
+現在、関連する文献はありません。
+
+## 参考：エビデンスのあるその他の予測適応症
+
+Evidence Pack には 10 件の予測適応症が含まれています。最上位以外にも、根拠のある候補があります。
+
+| 順位 | 予測適応症 | スコア | エビデンスレベル | 推奨 |
+|------|-----------|--------|-----------------|------|
+| 4 | Phelan-McDermid 症候群 | 99.59% | L4 | Research Question |
+| 5 | 抜毛症 (trichotillomania) | 99.51% | L4 | Research Question |
+| 6 | 大感情障害（双極性障害・うつ病） | 99.11% | L1 | Proceed with Guardrails |
+| 7 | トゥレット症候群 | 98.76% | L1 | Proceed with Guardrails |
+| 8 | 知的障害 | 98.72% | L2 | Proceed with Guardrails |
+| 9 | 自閉症 (感受性) | 98.65% | L2 | Proceed with Guardrails |
+| 1〜3, 10 | 上記の最上位候補、アスペルガー症候群 (感受性)、Amelocerebrohypohidrotic 症候群、15q11.2 欠失症候群 | 98.59〜99.76% | L5 | Hold |
+
+エビデンスレベルは Evidence Pack の記載どおりです。ただしトゥレット症候群は完了した Phase 2 が 1 件、知的障害は完了した Phase 3 が 3 件で、判定ルールと合わない箇所があります。再確認が必要です。
+
+### 主な臨床試験
+
+| 試験番号 | 対象疾患 | フェーズ | 状態 | 被験者数 | 主な知見 |
+|---------|---------|--------|------|----------|---------|
+| [NCT00277654](https://clinicaltrials.gov/study/NCT00277654) | 双極性障害 | Phase 3 | 完了 | 111 | 不安を伴う双極性障害でのリスペリドン単剤とプラセボの二重盲検比較 |
+| [NCT00391222](https://clinicaltrials.gov/study/NCT00391222) | 双極 I 型障害 | Phase 3 | 完了 | 585 | 気分エピソード再発予防におけるリスペリドン持効性注射剤とプラセボの比較 |
+| [NCT00095134](https://clinicaltrials.gov/study/NCT00095134) | 大うつ病 | Phase 3 | 完了 | 630 | 標準治療に反応不十分な大うつ病での併用リスペリドンとプラセボの比較 |
+| [NCT00057681](https://clinicaltrials.gov/study/NCT00057681) | 小児双極性障害 | Phase 3 | 完了 | 379 | 小児・青年の躁状態でリチウム、バルプロ酸、リスペリドンを比較（TEAM 試験） |
+| [NCT00004393](https://clinicaltrials.gov/study/NCT00004393) | トゥレット症候群 | Phase 2 | 完了 | 50 | リスペリドンとプラセボの二重盲検比較 |
+| [NCT00250354](https://clinicaltrials.gov/study/NCT00250354) | 知的障害を伴う素行障害 | Phase 3 | 完了 | 110 | 軽度〜境界域の知的障害児でリスペリドンとプラセボを比較 |
+| [NCT00065273](https://clinicaltrials.gov/study/NCT00065273) | 知的障害の重度問題行動 | Phase 3 | 完了 | 50 | 非定型抗精神病薬の認知・社会行動への影響 |
+| [NCT00584701](https://clinicaltrials.gov/study/NCT00584701) | 自閉症 | Phase 2/3 | 完了 | 49 | 自閉症治療におけるファーマコゲノミクス（リスペリドン） |
+
+### 主な文献
+
 | PMID | 年 | タイプ | ジャーナル | 主な知見 |
 |------|-----|------|------|---------|
-| [34986373](https://pubmed.ncbi.nlm.nih.gov/34986373/) | 2022 | Meta-analysis | J Affect Disord | 難治性うつ病に対する増強療法のネットワーク meta-analysis（SGA を含む全 augmentation 剤を比較） |
-| [35861202](https://pubmed.ncbi.nlm.nih.gov/35861202/) | 2023 | Meta-analysis | J Psychopharmacol | 早期難治性うつ病の増強・併用療法に関する系統的レビュー・meta-analysis |
-| [34238049](https://pubmed.ncbi.nlm.nih.gov/34238049/) | 2021 | Meta-analysis | J Psychopharmacol | 大うつ病における SGA＋抗うつ薬・エスケタミン・リチウムの有効性・忍容性比較 meta-analysis |
-| [35510505](https://pubmed.ncbi.nlm.nih.gov/35510505/) | 2023 | Meta-analysis | Psychol Med | 大うつ病に対する抗精神病薬（単剤・補助）の包括的 meta-analysis |
-| [21154393](https://pubmed.ncbi.nlm.nih.gov/21154393/) | 2010 | Meta-analysis | Cochrane DB Syst Rev | 大うつ病・気分変調症に対する第二世代抗精神病薬の Cochrane 系統的レビュー |
-| [17975181](https://pubmed.ncbi.nlm.nih.gov/17975181/) | 2007 | RCT | Ann Intern Med | 難治性大うつ病に対する Risperidone 補助療法のランダム化試験 |
-| [20486830](https://pubmed.ncbi.nlm.nih.gov/20486830/) | 2010 | Cohort | Expert Opin Pharmacother | 双極性障害の維持治療における Risperidone LAI の有効性と服薬継続率 |
-| [25295435](https://pubmed.ncbi.nlm.nih.gov/25295435/) | 2014 | Cohort | J Clin Psychiatry | 台湾全国データベースを用いた SGA 補助療法（Risperidone 含む）による大うつ病治療有効性の比較 |
-| [33460070](https://pubmed.ncbi.nlm.nih.gov/33460070/) | 2020 | Review | Acta Psychiatr Scand | 双極性躁病の治療法概観（気分安定薬・抗精神病薬の選択指針を含む） |
-| [7545159](https://pubmed.ncbi.nlm.nih.gov/7545159/) | 1995 | Case series | J Clin Psychiatry | リスペリドンの情動障害・OCD への適用の初期報告（D2/5-HT2A 二重拮抗機序の提示） |
+| [17975181](https://pubmed.ncbi.nlm.nih.gov/17975181/) | 2007 | ランダム化試験 | Annals of Internal Medicine | 治療抵抗性の大うつ病でのリスペリドン増強療法 |
+| [35510505](https://pubmed.ncbi.nlm.nih.gov/35510505/) | 2023 | メタアナリシス | Psychological Medicine | 成人大うつ病での抗精神病薬の有効性と安全性 |
+| [34986373](https://pubmed.ncbi.nlm.nih.gov/34986373/) | 2022 | メタアナリシス | Journal of Affective Disorders | 治療抵抗性うつ病の増強療法のネットワークメタアナリシス |
+| [12682319](https://pubmed.ncbi.nlm.nih.gov/12682319/) | 2003 | プラセボ対照試験 | Neurology | トゥレット症候群でのリスペリドンの有効性と安全性 |
+| [11799340](https://pubmed.ncbi.nlm.nih.gov/11799340/) | 2002 | 二重盲検プラセボ対照試験 | J Clin Psychopharmacol | トゥレット症候群患者 48 名での 8 週間試験 |
+| [36528030](https://pubmed.ncbi.nlm.nih.gov/36528030/) | 2023 | メタアナリシス | Lancet Child & Adolescent Health | 小児・若年者のトゥレット症候群での薬物療法の比較 |
+| [40396498](https://pubmed.ncbi.nlm.nih.gov/40396498/) | 2025 | メタアナリシス | Cochrane Database Syst Rev | 自閉スペクトラム症に対する非定型抗精神病薬 |
+| [39690490](https://pubmed.ncbi.nlm.nih.gov/39690490/) | 2025 | メタアナリシス | J Psychopharmacol | 自閉症・知的障害の興奮・攻撃性への薬物療法の比較 |
 
----
+抜毛症は症例報告・症例集積のみ（L4）です。Phelan-McDermid 症候群はゼブラフィッシュモデルと症例報告のみ（L4）です。
+
+## 日本市販情報
+
+| 承認番号 | 商品名 | 剤形 | 承認適応症 |
+|---------|------|------|-----------|
+| 620005588 | リスペリドン細粒１％「アメル」 | 細粒 | 統合失調症治療薬、神経遮断薬（統合失調症） |
+| 620008163 | リスペリドン内用液分包２ｍｇ「アメル」　０．１％２ｍＬ | 内用液分包 | 記載なし |
+| 620009455 | リスペリドンＯＤ錠１ｍｇ「サワイ」 | 錠 | 記載なし |
+| 670000170 | リスパダール錠３ｍｇ（選） | 錠 | 統合失調症治療薬、神経遮断薬（統合失調症） |
+| 621905201 | リスパダール　コンスタ筋注用２５ｍｇ　（懸濁用液付） | 注射用（懸濁用液付） | 記載なし |
 
 ## 安全性に関する考慮事項
 
 安全性情報については添付文書を参照してください。
 
----
-
 ## 結論と次のステップ
 
-**決定：Proceed with Guardrails**
+**決定：Hold**（最上位候補について）
 
 **理由：**
-大うつ病・双極性感情障害に対するリスペリドンの有効性は、複数の Phase 3 RCT および Cochrane meta-analysis（L1 エビデンス）によって強力に裏付けられており、D2/5-HT2A 二重拮抗という明確な機序的根拠が存在します。ただし、日本での薬事承認が未取得であり、添付文書の安全性情報（警告・禁忌・薬物相互作用）の取得が課題として残存しています。
+最上位候補は臨床試験も文献もなく、機序的な根拠もありません。TxGNN のスコアだけでは判断できません。一方、大感情障害、トゥレット症候群、知的障害、自閉症の 4 候補は、Proceed with Guardrails の対象として別途評価する価値があります。
 
 **進める場合に必要なもの：**
-- PMDA データベースによる日本国内薬事承認状況の確認
-- 添付文書（仿単）の取得・解析による安全性情報（警告・禁忌・DDI）の補完
-- DrugBank API による詳細 MOA データの取得
-- 日本における情動障害への既承認薬（リチウム、quetiapine 等）との競合分析
-- 日本での本適応症に対する承認取得可能性の規制戦略評価
+- PMDA の添付文書（警告・禁忌）の取得。安全性スクリーニング（S1）に進むための必須項目で、現在は未取得です。
+- DrugBank からの作用機序データの取得
+- 評価対象を、エビデンスのある候補（順位 6〜9）に切り替えるかどうかの判断
+- トゥレット症候群と知的障害のエビデンスレベルの再判定
+- 小児・知的障害・自閉症の集団での代謝系・プロラクチン関連の有害事象のモニタリング計画
+
+※ 本レポートは研究参考用であり、医療上の助言ではありません。老藥新用の候補は臨床検証を経て初めて応用できます。
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

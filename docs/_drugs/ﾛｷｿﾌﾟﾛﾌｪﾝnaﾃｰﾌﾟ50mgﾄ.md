@@ -2,7 +2,7 @@
 layout: default
 title: ﾛｷｿﾌﾟﾛﾌｪﾝNaﾃｰﾌﾟ50Mgﾄ
 parent: モデル予測のみ
-nav_order: 402
+nav_order: 562
 evidence_level: L5
 indication_count: 0
 ---

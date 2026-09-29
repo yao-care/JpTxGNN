@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Gemcitabine
-parent: 高エビデンス (L1-L2)
-nav_order: 76
-evidence_level: L2
-indication_count: 1
+parent: 高エビデンスレベル
+nav_order: 132
+evidence_level: L1
+indication_count: 10
 ---
 
 # Gemcitabine
 {: .fs-9 }
 
-エビデンスレベル: **L2** | 予測適応症: **1** 件
+エビデンスレベル: **L1** | 予測適応症: **10** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,88 +29,115 @@ indication_count: 1
 
 </div>
 
-# Gemcitabine：從轉移性大腸直腸癌到女性乳腺癌
+# ゲムシタビン：抗悪性腫瘍薬としての既存用途から女性乳癌へ
 
-## 一言まとめ
+## 一言要約
 
-Gemcitabine 原本用於治療多種癌症，包括轉移性大腸直腸癌。
-TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有效，
-目前有 **10 個臨床試驗**和 **12 篇文獻**支持這個方向。
+ゲムシタビンはヌクレオシド系の抗悪性腫瘍薬で、日本では14件の承認番号で市販されています。
+TxGNN モデルは**女性乳癌 (Female Breast Carcinoma)** に有効である可能性を予測しています。
+乳癌に関する完了済み Phase 3 試験が3件、Phase 2 試験が複数あり、文献はレビューと第1相試験が中心です。
 
-## 概要
+## クイック概要
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 轉移性大腸直腸癌 |
-| 予測新適応症 | 女性乳腺癌 (female breast carcinoma) |
+| 予測新規適応症 | 女性乳癌 (Female Breast Carcinoma) |
 | TxGNN 予測スコア | 99.98% |
-| エビデンスレベル | L2 |
-| 日本上市 | ✓ Marketed |
-| 承認数 | 20 張 |
-| 推奨判断 | Proceed with Guardrails |
+| エビデンスレベル | L1 |
+| 日本市販状況 | ✓ 市販中 |
+| 承認番号数 | 14 件 |
+| 推奨決定 | Proceed with Guardrails |
 
-## この予測が妥当な理由
+## この予測が妥当である理由
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Gemcitabine 是抗癌藥物的一部分，
-其成分在轉移性大腸直腸癌中的療效已被證實，機轉上可能適用於女性乳腺癌。
+ゲムシタビンはヌクレオシドアナログです。活性代謝物（dFdCDP、dFdCTP）がリボヌクレオチド還元酵素を阻害し、DNA 鎖の伸長を停止させます。増殖の速い腫瘍細胞に直接細胞毒性を示す機序です。
+
+乳癌は増殖性の高い固形腫瘍であり、この機序が適用できます。詳細な作用機序データ（DrugBank の MOA）は取得できていないため、上記はエビデンスパック内の機序的根拠に基づく説明です。
+
+臨床面では、パクリタキセル、ドセタキセル、プラチナ製剤、トラスツズマブなどとの併用が転移性乳癌で広く検討されてきました。完了済みの Phase 3 試験もあり、TxGNN の予測を支持しています。
 
 ## 臨床試験エビデンス
 
-| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
-|---------|------|------|------|---------|
-| [NCT06027268](https://clinicaltrials.gov/study/NCT06027268) | Phase 2 | ACTIVE_NOT_RECRUITING | 36 | 測試 trilaciclib、pembrolizumab、gemcitabine 和 carboplatin 在局部晚期不可切除或轉移性三陰性乳腺癌中的組合效果 |
-| [NCT00561119](https://clinicaltrials.gov/study/NCT00561119) | Phase 3 | COMPLETED | 326 | 比較 gemcitabine 和 paclitaxel 在轉移性乳腺癌中的維持治療效果 |
-| [NCT02139358](https://clinicaltrials.gov/study/NCT02139358) | Phase 1/2 | COMPLETED | 15 | 評估 gemcitabine 與 trastuzumab 和 pertuzumab 在 HER2+ 乳腺癌中的安全性和活性 |
-| [NCT00006459](https://clinicaltrials.gov/study/NCT00006459) | Phase 3 | COMPLETED | N/A | 比較 gemcitabine 和 paclitaxel 在不可切除的局部復發或轉移性乳腺癌中的效果 |
-| [NCT00003540](https://clinicaltrials.gov/study/NCT00003540) | Phase 2 | COMPLETED | 30 | 研究 gemcitabine 在先前接受過 Adriamycin 和 Taxol 治療的轉移性乳腺癌患者中的效果 |
+乳癌でゲムシタビンを評価している試験のうち、主なものを示します。いずれも、データに含まれる情報は試験デザインの概要のみで、有効性の結果は含まれていません。
+
+| 試験番号 | フェーズ | 状態 | 被験者数 | 主な知見 |
+|---------|--------|------|----------|---------|
+| [NCT00093795](https://clinicaltrials.gov/study/NCT00093795) | Phase 3 | 完了 | 4894 | リンパ節転移陽性乳癌の術後補助療法。TAC、dose-dense AC→P、dose-dense AC→P＋ゲムシタビンの3レジメンを比較 |
+| [NCT00561119](https://clinicaltrials.gov/study/NCT00561119) | Phase 3 | 完了 | 326 | 転移・再発乳癌でゲムシタビン＋パクリタキセル6サイクル奏効後の維持療法と経過観察を比較 |
+| [NCT00006459](https://clinicaltrials.gov/study/NCT00006459) | Phase 3 | 完了 | 不明 | 進行乳癌でゲムシタビン＋パクリタキセルとパクリタキセル単独を比較 |
+| [NCT00039546](https://clinicaltrials.gov/study/NCT00039546) | Phase 3 | 不明 | 不明 | tAnGo 試験。ER/PgR 低発現の早期乳癌で、術後化学療法へのゲムシタビン上乗せを検証 |
+| [NCT00408408](https://clinicaltrials.gov/study/NCT00408408) | Phase 3 | 不明 | 1206 | 術前療法で、ドセタキセルにカペシタビンまたはゲムシタビンを加えた場合の pCR を比較 |
+| [NCT02252887](https://clinicaltrials.gov/study/NCT02252887) | Phase 2 | 完了 | 45 | HER2 陽性転移性乳癌で、ゲムシタビン＋トラスツズマブ＋ペルツズマブを評価 |
+| [NCT00006007](https://clinicaltrials.gov/study/NCT00006007) | Phase 2 | 完了 | 59 | 転移性乳癌でペメトレキセドとゲムシタビンの併用を評価 |
+| [NCT00193063](https://clinicaltrials.gov/study/NCT00193063) | Phase 2 | 完了 | 41 | HER2 過剰発現の転移性乳癌で、週1回ゲムシタビン＋トラスツズマブを評価 |
+| [NCT00110084](https://clinicaltrials.gov/study/NCT00110084) | Phase 2 | 完了 | 50 | 転移性乳癌で、nab-パクリタキセル＋ゲムシタビンを評価 |
+| [NCT01050322](https://clinicaltrials.gov/study/NCT01050322) | Phase 2 | 完了 | 142 | HER2 増幅転移性乳癌で、ラパチニブとカペシタビン、ビノレルビン、ゲムシタビンの併用をランダム化比較 |
+
+エビデンスパックの一部には、NCT00942331（膀胱・尿路上皮癌の Phase 3）を乳癌と記載した評価コメントがありました。試験タイトルは尿路上皮癌のため、上表には含めていません。
 
 ## 文献エビデンス
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
+ランダム化比較試験（RCT）の文献は含まれておらず、レビューと小規模な臨床試験が中心です。
+
+| PMID | 年 | タイプ | ジャーナル | 主な知見 |
 |------|-----|------|------|---------|
-| [40779028](https://pubmed.ncbi.nlm.nih.gov/40779028/) | 2025 | RCT | Breast cancer research and treatment | 研究 mifepristone、carboplatin 和 gemcitabine 在 GR-positive 乳腺癌中的效果 |
-| [24824628](https://pubmed.ncbi.nlm.nih.gov/24824628/) | 2015 | RCT | International journal of cancer | 評估 cisplatin 和 gemcitabine 在轉移性三陰性乳腺癌中的第一線療效 |
-| [12057039](https://pubmed.ncbi.nlm.nih.gov/12057039/) | 2002 | In vitro | Clinical breast cancer | 研究 gemcitabine 和 trastuzumab 在乳腺和肺癌細胞中的作用 |
-| [15685819](https://pubmed.ncbi.nlm.nih.gov/15685819/) | 2004 | Review | Oncology (Williston Park, N.Y.) | 分析 gemcitabine 和 paclitaxel 在轉移性乳腺癌中的療效 |
-| [14754469](https://pubmed.ncbi.nlm.nih.gov/14754469/) | 2004 | Review | Clinical breast cancer | 討論 gemcitabine 和 trastuzumab 在 HER2/neu 過度表現的乳腺癌中的組合療效 |
+| [40779028](https://pubmed.ncbi.nlm.nih.gov/40779028/) | 2025 | コホート（第1相試験） | Breast Cancer Res Treat | 進行乳癌・卵巣癌で、ミフェプリストン、カルボプラチン、ゲムシタビンの併用を評価 |
+| [27316438](https://pubmed.ncbi.nlm.nih.gov/27316438/) | 2016 | 第1相試験 | Cancer Chemother Pharmacol | 転移性乳癌で、ゲムシタビン＋nab-パクリタキセルの最大耐用量と薬物動態を検討（日本の研究） |
+| [15685819](https://pubmed.ncbi.nlm.nih.gov/15685819/) | 2004 | Review | Oncology (Williston Park) | 転移性乳癌でのゲムシタビン＋パクリタキセル。Phase II 試験では221例中114例（52%）で奏効 |
+| [15685820](https://pubmed.ncbi.nlm.nih.gov/15685820/) | 2004 | Review | Oncology (Williston Park) | 転移性乳癌でのゲムシタビン＋ドセタキセル。毒性の重なりが部分的で、単剤活性も良好 |
+| [15685821](https://pubmed.ncbi.nlm.nih.gov/15685821/) | 2004 | Review | Oncology (Williston Park) | 転移性乳癌でのゲムシタビン＋プラチナ製剤。臨床的有用性と奏効率が向上 |
+| [14754469](https://pubmed.ncbi.nlm.nih.gov/14754469/) | 2004 | Review | Clin Breast Cancer | HER2 陽性転移性乳癌でのゲムシタビン＋トラスツズマブ。単剤ゲムシタビンの奏効率は12〜42% |
+| [14754467](https://pubmed.ncbi.nlm.nih.gov/14754467/) | 2004 | Review | Clin Breast Cancer | ゲムシタビンとタキサン系の併用を乳癌の新たな標準治療候補として論じたもの |
+| [14768404](https://pubmed.ncbi.nlm.nih.gov/14768404/) | 2003 | Review | Oncology (Williston Park) | 進行乳癌でのゲムシタビン、アントラサイクリン、タキサンの併用 |
+| [12138397](https://pubmed.ncbi.nlm.nih.gov/12138397/) | 2002 | Review | Semin Oncol | 転移性乳癌でのゲムシタビン単剤の奏効率は16〜37%。標的療法との併用も検討 |
+| [12449040](https://pubmed.ncbi.nlm.nih.gov/12449040/) | 2002 | Review | Bull Cancer | 乳癌でのゲムシタビン単剤および併用療法の評価。タキサン・アントラサイクリン抵抗性でビノレルビン併用が有望 |
 
-## 日本上市情報
+## 日本市販情報
 
-| 承認番号 | 品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 衛部菌疫輸字第001117號 | 艾法施注射液 | 注射液劑 | 轉移性大腸直腸癌、轉移性乳癌、惡性神經膠質瘤、非鱗狀非小細胞肺癌、子宮頸癌、卵巢上皮細胞癌 |
+承認適応症のテキストは今回のデータに含まれていないため、表には載せていません。
+
+| 承認番号 | 商品名 | 剤形 |
+|---------|------|------|
+| 622202501 | ゲムシタビン点滴静注液１ｇ／２５ｍＬ「サンド」 | 注液１ｇ／２５ｍＬ「サンド」 |
+| 622960800 | ゲムシタビン塩酸塩２００ｍｇ５ｍＬ注射液 | 注射液 |
+| 622202401 | ゲムシタビン点滴静注液２００ｍｇ／５ｍＬ「サンド」 | 注液２００ｍｇ／５ｍＬ「サンド」 |
+| 621973401 | ゲムシタビン点滴静注用２００ｍｇ「ヤクルト」 | 注用２００ｍｇ「ヤクルト」 |
+| 622487701 | ゲムシタビン点滴静注液２００ｍｇ／５ｍＬ「ＮＫ」 | 注液２００ｍｇ／５ｍＬ「ＮＫ」 |
 
 ## 細胞毒性
 
 | 項目 | 内容 |
 |------|------|
-| 細胞毒性分類 | 傳統細胞毒性藥物 |
-| 骨髓抑制風險 | 中度 |
-| 致吐性分級 | 中度 |
-| 監測項目 | CBC（含分類）、肝腎功能 |
-| 處置防護 | 需依細胞毒性藥物處置規範操作 |
+| 細胞毒性分類 | 従来型細胞毒性薬（ヌクレオシド系代謝拮抗薬） |
+| 骨髄抑制リスク | 中〜高（好中球減少、血小板減少に注意） |
+| 催吐性分類 | 低〜中 |
+| モニタリング項目 | CBC（分画を含む）、肝機能、腎機能 |
+| 取り扱い防護 | 細胞毒性薬取り扱い規程に従った防護が必要 |
+
+DrugBank の毒性データは今回取得できていません。この表は薬物分類に基づく一般的な評価です。詳細は添付文書の警告および注意事項を参照してください。
 
 ## 安全性に関する考慮事項
 
-- **藥物交互作用**：與 Naltrexone 可能有中度交互作用，與 Levofloxacin 有輕微交互作用。
+安全性情報については添付文書を参照してください。
 
 ## 結論と次のステップ
 
-**判断：Proceed with Guardrails**
+**決定：Proceed with Guardrails**
 
 **理由：**
-Gemcitabine 在乳腺癌中的多項臨床試驗顯示出潛在療效，且有多篇文獻支持其在乳腺癌中的應用。
+乳癌でゲムシタビンを評価した完了済み Phase 3 試験が3件あり、L1 の条件を満たします。一方、日本の添付文書に基づく警告・禁忌は未確認です。これは Blocking の欠損データで、安全性スクリーニングの前提が整っていません。
 
-**推進に必要な事項：**
-- 更詳細的作用機轉資料（MOA）
-- 特定族群的安全性監測計畫
+**進める場合に必要なもの：**
+- PMDA の添付文書（警告・禁忌・相互作用）を取得し、安全性を確認する（DG001、Blocking）
+- DrugBank から作用機序（MOA）データを取得する（DG002）
+- 上記 Phase 3 試験の結果を確認する。特に NCT00093795 と NCT00561119 の有効性と安全性データを見る
+- 日本で承認されている適応症の記載を確認し、既存適応症との関係を整理する
+
+このほかの予測候補（子宮内膜癌の一部組織型など）は、エビデンスが L3〜L5 にとどまり、乳癌より優先度は低いと判断します。
+## 免責事項
+
+本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。
+臨床応用の前に臨床的検証が必要です。
 
 ---
 
-
-<div class="disclaimer" style="background-color: #fff3cd; padding: 1rem; border-radius: 0.5rem; margin-top: 2rem;">
-<strong>⚠️ 免責事項</strong><br>
-本レポートは学術研究目的のみであり、<strong>医療アドバイスを構成するものではありません</strong>。
-薬の使用は必ず医師の指示に従ってください。自己判断で投薬を変更しないでください。
-ドラッグ・リポジショニングの決定には、完全な臨床検証と規制審査が必要です。
-</div>

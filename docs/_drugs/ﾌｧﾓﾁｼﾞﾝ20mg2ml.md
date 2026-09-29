@@ -2,7 +2,7 @@
 layout: default
 title: ﾌｧﾓﾁｼﾞﾝ20Mg2Ml
 parent: モデル予測のみ
-nav_order: 390
+nav_order: 550
 evidence_level: L5
 indication_count: 0
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: ｱﾀﾞﾘﾑﾏﾌﾞBsﾋｶﾁｭｳ40Mgｼ
 parent: モデル予測のみ
-nav_order: 315
+nav_order: 475
 evidence_level: L5
 indication_count: 0
 ---
