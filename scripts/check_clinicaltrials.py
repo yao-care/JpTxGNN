@@ -46,22 +46,49 @@ def load_drug_list() -> list:
     return data["drugs"]
 
 
+
+# --- 試驗與藥物的關係必須是結構化的介入角色（JpTxGNN #26713）---
+# query.term 全文搜尋會把只在描述中提到藥名的試驗（例：安慰劑用的生理食鹽水、AI 工具研究）
+# 也當成該藥的新試驗。改用 query.intr，並要求藥名出現在介入措施名稱／別名、且不是安慰劑組。
+_SALTS = {"hydrochloride", "hcl", "sodium", "potassium", "calcium", "sulfate", "sulphate", "maleate", "fumarate",
+          "tartrate", "citrate", "acetate", "mesylate", "besylate", "succinate", "phosphate", "bromide", "chloride"}
+
+
+def _norm_name(text) -> str:
+    import unicodedata
+    t = unicodedata.normalize("NFKD", str(text or "")).encode("ascii", "ignore").decode().lower()
+    return " ".join("".join(c if c.isalnum() else " " for c in t).split())
+
+
+def _role_bound(study: dict, drug_name: str) -> bool:
+    full = _norm_name(drug_name)
+    core = " ".join(w for w in full.split() if w not in _SALTS) or full
+    ivs = (study.get("protocolSection", {}).get("armsInterventionsModule", {}) or {}).get("interventions", []) or []
+    for iv in ivs:
+        name = _norm_name(iv.get("name", ""))
+        if "placebo" in name:
+            continue
+        text = " " + " ".join([name] + [_norm_name(n) for n in (iv.get("otherNames") or [])]) + " "
+        if (full and f" {full} " in text) or (core and f" {core} " in text):
+            return True
+    return False
+
 def search_trials(drug_name: str, days_back: int = 7) -> list:
     """Search for trials updated in the last N days."""
     min_date = (datetime.now() - timedelta(days=days_back)).strftime("%Y-%m-%d")
 
     params = {
-        "query.term": drug_name,
+        "query.intr": drug_name,
         "filter.advanced": f"AREA[LastUpdatePostDate]RANGE[{min_date},MAX]",
         "pageSize": 50,
-        "fields": "NCTId,BriefTitle,OverallStatus,Phase,EnrollmentCount,Condition,LastUpdatePostDate"
+        "fields": "NCTId,BriefTitle,OverallStatus,Phase,EnrollmentCount,Condition,LastUpdatePostDate,InterventionName,InterventionType,InterventionOtherName"
     }
 
     try:
         response = requests.get(API_BASE, params=params, timeout=30)
         response.raise_for_status()
         data = response.json()
-        return data.get("studies", [])
+        return [s for s in data.get("studies", []) if _role_bound(s, drug_name)]
     except requests.RequestException as e:
         print(f"Error searching trials for {drug_name}: {e}")
         return []
