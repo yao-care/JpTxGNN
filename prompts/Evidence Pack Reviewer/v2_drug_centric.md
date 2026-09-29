@@ -30,7 +30,7 @@
 從 PMDA records 中提取劑型資訊時，必須：
 1. **分類劑型**：將 dosage_form 分為「外用」（外用液劑、噴霧劑、乳膏等）和「全身性」（錠劑、膠囊、注射劑等）
 2. **劑型與適應症配對**：記錄每個原核准適應症對應的劑型
-3. **輸出結構化資訊**：在 taiwan_regulatory 中新增 dosage_forms_by_route 欄位
+3. **輸出結構化資訊**：在 local_regulatory 中新增 dosage_forms_by_route 欄位
 
 【資料缺口處理 — 極重要】
 **絕對禁止**在輸出中寫「無」、「無警語」、「無禁忌」等字眼。
@@ -108,7 +108,7 @@ L5: 幾乎無直接證據（只有模型預測或間接聯想）
     "original_indications": ["原適應症1", "原適應症2"],
     "original_moa": "作用機轉描述"
   },
-  "taiwan_regulatory": {
+  "local_regulatory": {
     "pmda_found": true/false,
     "approved_indications": [...],
     "dosage_forms": [...],

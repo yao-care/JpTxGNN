@@ -248,7 +248,7 @@
 
 ```json
 {
-  "taiwan_regulatory": {
+  "local_regulatory": {
     "dosage_forms_by_route": [
       {
         "route": "Topical",
@@ -281,7 +281,7 @@
 
 ```json
 {
-  "taiwan_regulatory": {
+  "local_regulatory": {
     "licenses": [
       {
         "license_number": "衛署藥輸字第XXXXXX號",
@@ -484,7 +484,7 @@
     "original_indications": ["適應症1", "適應症2"],
     "original_moa": "機轉描述或 [Data Gap]"
   },
-  "taiwan_regulatory": {
+  "local_regulatory": {
     "market_status": "已上市/未上市",
     "total_licenses": 0,
     "licenses": [
@@ -799,7 +799,7 @@
 {
   "meta": { ... },
   "drug": { ... },
-  "taiwan_regulatory": { ... },
+  "local_regulatory": { ... },
   "safety": { ... },
   "predicted_indications": [ ... ],
   "overall_assessment": { ... },

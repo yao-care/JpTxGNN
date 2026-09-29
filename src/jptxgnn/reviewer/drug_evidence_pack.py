@@ -244,9 +244,6 @@ class DrugEvidencePackGenerator:
             "query_log": query_log,
         }
 
-        # 舊鍵別名：prompts/*.md 仍以 taiwan_regulatory 取值，改名要跟 prompt 一起換，
-        # 在那之前保留同一個物件，避免中途換掉讓執行中的產報告流程取不到值。
-        evidence_pack["taiwan_regulatory"] = evidence_pack["local_regulatory"]
 
         return evidence_pack
 
@@ -439,7 +436,7 @@ IMPORTANT: Write every free-text value (rationale, mechanistic_link, notes, clas
             "drugbank_id": evidence_pack["drug"]["drugbank_id"],
             "original_indications": evidence_pack["drug"]["original_indications"],
             "original_moa": evidence_pack["drug"]["original_moa"],
-            "market_status": evidence_pack["taiwan_regulatory"]["market_status"],
+            "market_status": evidence_pack["local_regulatory"]["market_status"],
             "ddi_count": evidence_pack["safety"]["ddi"]["total_count"],
             "indications": [],
         }
@@ -568,7 +565,7 @@ IMPORTANT: Write every free-text value (rationale, mechanistic_link, notes, clas
     def _generate_markdown(self, evidence_pack: dict) -> str:
         """Generate markdown summary from evidence pack."""
         drug = evidence_pack["drug"]
-        reg = evidence_pack["taiwan_regulatory"]
+        reg = evidence_pack["local_regulatory"]
 
         lines = [
             f"# {drug['inn']} 老藥新用分析報告",
@@ -579,9 +576,9 @@ IMPORTANT: Write every free-text value (rationale, mechanistic_link, notes, clas
             f"| 藥物 (INN) | {drug['inn']} | |",
             f"| DrugBank ID | {drug['drugbank_id'] or '[Data Gap]'} | |",
             f"| 中文商品名 | {drug['brand_name_zh'] or '[Data Gap]'} | |",
-            f"| 原核准適應症 | {', '.join(drug['original_indications']) or '[Data Gap]'} | [來源：TFDA 許可證] |",
+            f"| 原核准適應症 | {', '.join(drug['original_indications']) or '[Data Gap]'} | [來源：{SITE_AGENCY} 許可證] |",
             f"| 原作用機轉 | {drug['original_moa']} | [來源：DrugBank] |",
-            f"| 台灣上市狀態 | {reg['market_status']} | TFDA |",
+            f"| 上市狀態 | {reg['market_status']} | {SITE_AGENCY} |",
             "",
             "## 預測新適應症總覽",
             "| 排名 | 預測適應症 | TxGNN 分數 | 證據等級 | 臨床試驗 | 文獻 | 決策階段 | 開發建議 |",

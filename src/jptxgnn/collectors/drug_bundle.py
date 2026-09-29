@@ -315,8 +315,9 @@ class DrugBundleAggregator:
         """Lazy-load collectors as needed."""
         if name not in self._collectors:
             if name == "pmda":
-                from .pmda import PMDACollector
-                self._collectors[name] = PMDACollector()
+                # 本國藥證（Phase 5 標準收集器，讀 Phase 1 的 loader / fields.yaml / drug_mapping）
+                from .jpfda import LocalFDACollector
+                self._collectors[name] = LocalFDACollector()
             elif name == "drugbank":
                 from .drugbank import DrugBankCollector
                 self._collectors[name] = DrugBankCollector()
