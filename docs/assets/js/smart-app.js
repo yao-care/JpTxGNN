@@ -151,7 +151,7 @@
         <div class="patient-name">${escapeHtml(displayName)}</div>
         <div class="patient-details">
           <span>生年月日: ${escapeHtml(birthDate)}</span>
-          <span>性別: ${escapeHtml(gender)}</span>
+          <span>Sex: ${escapeHtml(gender)}</span>
         </div>
       </div>
     `;

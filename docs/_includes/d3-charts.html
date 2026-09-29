@@ -86,7 +86,7 @@
 
 <!-- Bar Chart: High Evidence Drugs -->
 <div class="d3-chart-section">
-  <div class="d3-chart-title">高證據藥物一覽（L1-L2）</div>
+  <div class="d3-chart-title">High-evidence drugs (L1-L2)</div>
   <div class="d3-chart-container">
     <div id="indication-bar-chart"></div>
   </div>
@@ -94,11 +94,11 @@
 
 <!-- Scatter Plot: Evidence Level Distribution -->
 <div class="d3-chart-section">
-  <div class="d3-chart-title">證據等級 vs 適應症數量</div>
+  <div class="d3-chart-title">Evidence level vs number of indications</div>
   <div class="chart-tabs">
-    <button class="chart-tab active" data-filter="all">全部 (191)</button>
-    <button class="chart-tab" data-filter="high">高證據 L1-L2 (18)</button>
-    <button class="chart-tab" data-filter="medium">中證據 L3-L4 (35)</button>
+    <button class="chart-tab active" data-filter="all">All</button>
+    <button class="chart-tab" data-filter="high">High evidence L1-L2</button>
+    <button class="chart-tab" data-filter="medium">Medium evidence L3-L4</button>
   </div>
   <div class="d3-chart-container">
     <div id="evidence-scatter-chart"></div>
@@ -125,9 +125,9 @@ document.addEventListener('DOMContentLoaded', function() {
   const levelLabels = {
     'L1': 'Phase 3 RCT',
     'L2': 'Phase 2 RCT',
-    'L3': '觀察性研究',
-    'L4': '前臨床研究',
-    'L5': '僅模型預測'
+    'L3': 'Observational studies',
+    'L4': 'Preclinical studies',
+    'L5': 'Model prediction only'
   };
 
   const tooltip = d3.select('.d3-tooltip');
@@ -190,7 +190,7 @@ document.addEventListener('DOMContentLoaded', function() {
       .attr('text-anchor', 'middle')
       .style('font-size', '12px')
       .style('fill', '#666')
-      .text('預測適應症數量');
+      .text('Number of predicted indications');
 
     // Bars
     svg.selectAll('.bar')
@@ -209,8 +209,8 @@ document.addEventListener('DOMContentLoaded', function() {
           .html(`
             <div class="drug-name">${d.name}</div>
             <div class="drug-info">
-              證據等級: ${d.level} (${levelLabels[d.level]})<br>
-              預測適應症: ${d.indication_count} 個
+              Evidence level: ${d.level} (${levelLabels[d.level]})<br>
+              Predicted indications: ${d.indication_count}
             </div>
           `);
       })
@@ -303,7 +303,7 @@ document.addEventListener('DOMContentLoaded', function() {
       .attr('text-anchor', 'middle')
       .style('font-size', '12px')
       .style('fill', '#666')
-      .text('證據等級');
+      .text('Evidence level');
 
     // Y axis
     svg.append('g')
@@ -318,7 +318,7 @@ document.addEventListener('DOMContentLoaded', function() {
       .attr('text-anchor', 'middle')
       .style('font-size', '12px')
       .style('fill', '#666')
-      .text('適應症數量');
+      .text('Number of indications');
 
     // Add jitter to avoid overlap
     const jitter = d3.randomUniform(-20, 20);
@@ -342,8 +342,8 @@ document.addEventListener('DOMContentLoaded', function() {
           .html(`
             <div class="drug-name">${d.name}</div>
             <div class="drug-info">
-              證據等級: ${d.level} (${levelLabels[d.level]})<br>
-              預測適應症: ${d.indication_count} 個
+              Evidence level: ${d.level} (${levelLabels[d.level]})<br>
+              Predicted indications: ${d.indication_count}
             </div>
           `);
       })

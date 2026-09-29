@@ -26,8 +26,8 @@
     services: [
       {
         hook: 'order-sign',
-        title: 'JpTxGNN 藥物交互作用檢查',
-        description: '基於 DDInter 2.0 資料庫，檢查處方中的潛在藥物交互作用',
+        title: 'JpTxGNN Drug Interaction Check',
+        description: 'Checks prescriptions for potential drug interactions using DDInter 2.0',
         id: 'jptxgnn-ddi-check',
         prefetch: {
           patient: 'Patient/{{context.patientId}}',
@@ -36,8 +36,8 @@
       },
       {
         hook: 'order-sign',
-        title: 'JpTxGNN 老藥新用候選',
-        description: '基於 TxGNN 知識圖譜，提供病患用藥的老藥新用預測',
+        title: 'JpTxGNN Drug Repurposing Candidates',
+        description: 'Drug repurposing predictions for the patient\'s medications, based on the TxGNN knowledge graph',
         id: 'jptxgnn-repurposing',
         prefetch: {
           patient: 'Patient/{{context.patientId}}',
@@ -137,7 +137,7 @@
             uuid: `ddi-${Date.now()}-${Math.random().toString(36).substr(2, 9)}`,
             summary: alert.summary,
             indicator: alert.severity === 'Major' ? 'critical' : 'warning',
-            detail: `${alert.detail}\n\n**建議：** ${alert.recommendation}`,
+            detail: `${alert.detail}\n\n**Recommendation:** ${alert.recommendation}`,
             source: {
               label: 'JpTxGNN DDI Checker',
               url: 'https://jptxgnn.yao.care/'
@@ -172,16 +172,16 @@
       // For now, return a link card
       cards.push({
         uuid: `repurposing-info-${Date.now()}`,
-        summary: '查看老藥新用候選預測',
+        summary: 'View drug repurposing predictions',
         indicator: 'info',
-        detail: `您正在處方的藥物可能有已知的老藥新用候選。點擊連結查看詳細預測資訊。`,
+        detail: `The drug you are prescribing may have drug repurposing candidates. Follow the link for the detailed predictions.`,
         source: {
           label: 'JpTxGNN Drug Repurposing',
           url: 'https://jptxgnn.yao.care/'
         },
         links: [
           {
-            label: '查看老藥新用預測',
+            label: 'View repurposing predictions',
             url: `https://jptxgnn.yao.care/smart/standalone.html?drugs=${encodeURIComponent(allMeds.join(','))}`,
             type: 'absolute'
           }
@@ -219,23 +219,23 @@
     if (conditions.length > 0 || medications.length > 0) {
       cards.push({
         uuid: `trial-match-${Date.now()}`,
-        summary: '🔬 可能有相關臨床試驗',
+        summary: '🔬 Related clinical trials may be available',
         indicator: 'info',
-        detail: `根據病患的診斷和用藥，可能有相關的臨床試驗。\n\n` +
-                `**診斷：** ${conditions.join(', ') || '無'}\n` +
-                `**用藥：** ${medications.join(', ') || '無'}`,
+        detail: `Based on the patient's diagnoses and medications, related clinical trials may be available.\n\n` +
+                `**Diagnoses:** ${conditions.join(', ') || 'None'}\n` +
+                `**Medications:** ${medications.join(', ') || 'None'}`,
         source: {
           label: 'JpTxGNN Clinical Trial Match',
           url: 'https://jptxgnn.yao.care/'
         },
         links: [
           {
-            label: '搜尋 ClinicalTrials.gov',
+            label: 'Search ClinicalTrials.gov',
             url: `https://clinicaltrials.gov/search?cond=${encodeURIComponent(conditions.join(' '))}`,
             type: 'absolute'
           },
           {
-            label: '查看老藥新用預測',
+            label: 'View repurposing predictions',
             url: `https://jptxgnn.yao.care/smart/standalone.html?drugs=${encodeURIComponent(medications.join(','))}`,
             type: 'absolute'
           }

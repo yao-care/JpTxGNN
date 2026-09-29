@@ -58,7 +58,7 @@
     })
     .catch(e => {
       console.error('Failed to load search index:', e);
-      results.innerHTML = '<div class="lookup-notice">搜尋索引載入失敗，請重新整理頁面</div>';
+      results.innerHTML = '<div class="lookup-notice">Failed to load the search index. Please reload the page.</div>';
     });
 
   // 工具函數
@@ -82,13 +82,13 @@
   // 渲染搜尋結果
   function renderResults(query, showHint) {
     if (!searchIndex) {
-      results.innerHTML = '<div class="lookup-notice">搜尋索引載入中，請稍候...</div>';
+      results.innerHTML = '<div class="lookup-notice">Loading the search index, please wait...</div>';
       return;
     }
 
     if (!query || query.length < 2) {
       if (showHint) {
-        results.innerHTML = '<div class="lookup-notice">請輸入至少 2 個字元</div>';
+        results.innerHTML = '<div class="lookup-notice">Please enter at least 2 characters</div>';
       } else {
         results.innerHTML = '';
       }
@@ -97,7 +97,7 @@
 
     const levels = getSelectedLevels();
     if (levels.length === 0) {
-      results.innerHTML = '<div class="lookup-notice">請至少選擇一個證據等級</div>';
+      results.innerHTML = '<div class="lookup-notice">Please select at least one evidence level</div>';
       return;
     }
 
@@ -108,7 +108,7 @@
     const filteredDrugs = drugResults.filter(r => levels.includes(r.item.level));
 
     if (filteredDrugs.length > 0) {
-      html += '<div class="result-section"><div class="section-title">藥物符合</div>';
+      html += '<div class="result-section"><div class="section-title">Matching drugs</div>';
       filteredDrugs.forEach(r => {
         const drug = r.item;
         const brands = drug.brands && drug.brands.length > 0
@@ -121,22 +121,22 @@
         html += '<a href="' + config.drugsBaseUrl + drug.slug + '/" class="drug-name">' + escapeHtml(drug.name) + escapeHtml(brands) + '</a>';
         html += '<span class="level-badge level-' + drug.level + '">' + drug.level + '</span>';
         html += '</div>';
-        html += '<div class="result-original">原適應症：' + (escapeHtml(drug.original) || '—') + '</div>';
-        html += '<div class="result-indications"><strong>預測新適應症：</strong>';
+        html += '<div class="result-original">Original indication: ' + (escapeHtml(drug.original) || '—') + '</div>';
+        html += '<div class="result-indications"><strong>Predicted new indications:</strong> ';
 
         if (filteredInds.length > 0) {
           filteredInds.slice(0, 5).forEach(ind => {
             html += '<span class="ind-item"><span class="level-badge level-' + ind.level + '">' + ind.level + '</span> ' + escapeHtml(ind.name) + ' (' + ind.score + '%)</span>';
           });
           if (filteredInds.length > 5) {
-            html += '<span class="more">...等 ' + filteredInds.length + ' 個</span>';
+            html += '<span class="more">...' + filteredInds.length + ' in total</span>';
           }
         } else {
-          html += '<span class="no-match">（無符合篩選條件）</span>';
+          html += '<span class="no-match">(none match the filter)</span>';
         }
 
         html += '</div>';
-        html += '<a href="' + config.drugsBaseUrl + drug.slug + '/" class="view-report">查看完整報告 →</a>';
+        html += '<a href="' + config.drugsBaseUrl + drug.slug + '/" class="view-report">View full report →</a>';
         html += '</div>';
       });
       html += '</div>';
@@ -147,7 +147,7 @@
     const filteredInds = indResults.filter(r => levels.includes(r.item.level));
 
     if (filteredInds.length > 0) {
-      html += '<div class="result-section"><div class="section-title">適應症符合</div>';
+      html += '<div class="result-section"><div class="section-title">Matching indications</div>';
       filteredInds.forEach(r => {
         const ind = r.item;
         const indDrugs = filterByLevel(ind.drugs || [], levels);
@@ -157,7 +157,7 @@
         html += '<span class="indication-name">' + escapeHtml(ind.name) + '</span>';
         html += '<span class="level-badge level-' + ind.level + '">' + ind.level + '</span>';
         html += '</div>';
-        html += '<div class="result-drugs"><strong>可能有效的藥物（' + indDrugs.length + ' 個）：</strong>';
+        html += '<div class="result-drugs"><strong>Candidate drugs (' + indDrugs.length + '):</strong> ';
 
         indDrugs.slice(0, 5).forEach(d => {
           html += '<div class="drug-item">';
@@ -169,7 +169,7 @@
         });
 
         if (indDrugs.length > 5) {
-          html += '<div class="more">...等 ' + indDrugs.length + ' 個藥物</div>';
+          html += '<div class="more">...' + indDrugs.length + ' drugs in total</div>';
         }
 
         html += '</div></div>';
@@ -178,7 +178,7 @@
     }
 
     if (!html) {
-      html = '<div class="lookup-notice">沒有找到符合條件的結果</div>';
+      html = '<div class="lookup-notice">No matching results</div>';
     }
 
     results.innerHTML = html;

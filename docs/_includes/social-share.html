@@ -1,6 +1,6 @@
 <!-- 學術分享按鈕 -->
 <div class="social-share" style="margin: 2rem 0; padding: 1.25rem; background: #f8f9fa; border-radius: 8px; border: 1px solid #e0e0e0;">
-  <strong style="display: block; margin-bottom: 0.75rem; color: #333;">分享此報告：</strong>
+  <strong style="display: block; margin-bottom: 0.75rem; color: #333;">Share this report:</strong>
   <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
     <!-- Twitter/X -->
     <a href="https://twitter.com/intent/tweet?text={{ page.title | url_encode }}%20%E8%80%81%E8%97%A5%E6%96%B0%E7%94%A8%E9%A9%97%E8%AD%89%E5%A0%B1%E5%91%8A&url={{ page.url | absolute_url | url_encode }}&hashtags=DrugRepurposing,TwTxGNN"
@@ -8,7 +8,7 @@
        style="display: inline-flex; align-items: center; gap: 0.375rem; padding: 0.5rem 1rem; background: #000; color: white; text-decoration: none; border-radius: 6px; font-size: 0.9rem; font-weight: 500; transition: opacity 0.2s;"
        onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'">
       <svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
-      分享到 X
+      Share on X
     </a>
 
     <!-- LinkedIn -->
@@ -25,7 +25,7 @@
             style="display: inline-flex; align-items: center; gap: 0.375rem; padding: 0.5rem 1rem; background: #6c757d; color: white; border: none; border-radius: 6px; cursor: pointer; font-size: 0.9rem; font-weight: 500; transition: all 0.2s;"
             onmouseover="this.style.background='#5a6268'" onmouseout="this.style.background='#6c757d'">
       <svg width="16" height="16" fill="currentColor" viewBox="0 0 24 24"><path d="M16 1H4c-1.1 0-2 .9-2 2v14h2V3h12V1zm3 4H8c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h11c1.1 0 2-.9 2-2V7c0-1.1-.9-2-2-2zm0 16H8V7h11v14z"/></svg>
-      <span>複製連結</span>
+      <span>Copy link</span>
     </button>
 
     <!-- Email -->
@@ -44,7 +44,7 @@ function copyReportLink(btn) {
   navigator.clipboard.writeText(url).then(() => {
     const span = btn.querySelector('span');
     const originalText = span.textContent;
-    span.textContent = '已複製!';
+    span.textContent = 'Copied!';
     btn.style.background = '#28a745';
     setTimeout(() => {
       span.textContent = originalText;

@@ -44,50 +44,50 @@
       },
       alertType: ALERT_TYPE.CONDITIONAL,
       indicator: PDDI_INDICATOR.WARNING,
-      clinicalConsequence: '增加胃腸道出血和全身出血風險',
-      frequency: '常見（約 10-15% 使用者會有臨床顯著出血）',
-      mechanism: 'NSAIDs 抑制血小板功能並可能增加 Warfarin 的抗凝效果',
+      clinicalConsequence: 'Increased risk of gastrointestinal and systemic bleeding',
+      frequency: 'Common (about 10-15% of users have clinically significant bleeding)',
+      mechanism: 'NSAIDs inhibit platelet function and may enhance the anticoagulant effect of warfarin',
       contextualFactors: [
         {
-          factor: 'GI 出血病史',
-          impact: '風險顯著增加',
-          recommendation: '強烈建議避免併用'
+          factor: 'History of GI bleeding',
+          impact: 'Risk substantially increased',
+          recommendation: 'Strongly advise avoiding the combination'
         },
         {
-          factor: '年齡 > 65 歲',
-          impact: '風險增加',
-          recommendation: '若必須使用，加上 PPI 保護'
+          factor: 'Age > 65 years',
+          impact: 'Risk increased',
+          recommendation: 'If required, add PPI protection'
         },
         {
-          factor: '使用 PPI/H2 blocker',
-          impact: '風險降低',
-          recommendation: '可考慮短期使用'
+          factor: 'Taking a PPI/H2 blocker',
+          impact: 'Risk reduced',
+          recommendation: 'Short-term use may be considered'
         },
         {
-          factor: 'INR 控制不穩定',
-          impact: '風險增加',
-          recommendation: '避免併用'
+          factor: 'Unstable INR control',
+          impact: 'Risk increased',
+          recommendation: 'Avoid the combination'
         }
       ],
       managementOptions: [
         {
-          option: '使用 Acetaminophen 替代',
-          description: '對於疼痛管理，Acetaminophen 是較安全的選擇',
+          option: 'Use acetaminophen instead',
+          description: 'For pain management, acetaminophen is the safer choice',
           recommended: true
         },
         {
-          option: '加上 PPI',
-          description: '若必須使用 NSAID，加上 PPI（如 Omeprazole）降低 GI 出血風險',
+          option: 'Add a PPI',
+          description: 'If an NSAID is required, add a PPI (e.g. omeprazole) to reduce GI bleeding risk',
           recommended: true
         },
         {
-          option: '選用 COX-2 抑制劑',
-          description: 'Celecoxib 相對 GI 風險較低，但仍需謹慎',
+          option: 'Use a COX-2 inhibitor',
+          description: 'Celecoxib carries a relatively lower GI risk, but caution is still needed',
           recommended: false
         },
         {
-          option: '短期使用 + 密切監測',
-          description: '使用最低有效劑量，最短時間，並監測出血徵兆',
+          option: 'Short-term use with close monitoring',
+          description: 'Use the lowest effective dose for the shortest time and monitor for signs of bleeding',
           recommended: false
         }
       ],
@@ -106,40 +106,40 @@
       },
       alertType: ALERT_TYPE.CONTRAINDICATED,
       indicator: PDDI_INDICATOR.CRITICAL,
-      clinicalConsequence: '嚴重 Colchicine 毒性（骨髓抑制、神經病變、多重器官衰竭）',
-      frequency: '罕見但潛在致命',
-      mechanism: 'CYP3A4 抑制劑大幅增加 Colchicine 血中濃度（可達 2-4 倍）',
+      clinicalConsequence: 'Severe colchicine toxicity (bone marrow suppression, neuropathy, multi-organ failure)',
+      frequency: 'Rare but potentially fatal',
+      mechanism: 'CYP3A4 inhibitors greatly increase colchicine blood levels (up to 2-4 fold)',
       contextualFactors: [
         {
-          factor: '腎功能不全',
-          impact: '禁止併用',
-          recommendation: '絕對禁忌'
+          factor: 'Renal impairment',
+          impact: 'Combination contraindicated',
+          recommendation: 'Absolute contraindication'
         },
         {
-          factor: '肝功能不全',
-          impact: '禁止併用',
-          recommendation: '絕對禁忌'
+          factor: 'Hepatic impairment',
+          impact: 'Combination contraindicated',
+          recommendation: 'Absolute contraindication'
         },
         {
-          factor: '正常腎肝功能',
-          impact: '風險仍高',
-          recommendation: '顯著降低 Colchicine 劑量或避免'
+          factor: 'Normal renal and hepatic function',
+          impact: 'Risk remains high',
+          recommendation: 'Substantially reduce the colchicine dose or avoid'
         }
       ],
       managementOptions: [
         {
-          option: '避免併用',
-          description: '選用替代抗生素或抗黴菌藥',
+          option: 'Avoid the combination',
+          description: 'Choose an alternative antibiotic or antifungal',
           recommended: true
         },
         {
-          option: '降低 Colchicine 劑量',
-          description: '若必須併用，Colchicine 劑量減至 0.3mg 每日或更低',
+          option: 'Reduce the colchicine dose',
+          description: 'If the combination is necessary, reduce colchicine to 0.3 mg daily or lower',
           recommended: false
         },
         {
-          option: '暫停 Colchicine',
-          description: '在使用強效 CYP3A4 抑制劑期間暫停 Colchicine',
+          option: 'Pause colchicine',
+          description: 'Pause colchicine while a strong CYP3A4 inhibitor is being used',
           recommended: true
         }
       ],
@@ -158,30 +158,30 @@
       },
       alertType: ALERT_TYPE.CONTRAINDICATED,
       indicator: PDDI_INDICATOR.CRITICAL,
-      clinicalConsequence: '嚴重低血壓、過度鎮靜',
-      frequency: '使用 Ciprofloxacin 時 AUC 增加 10 倍',
-      mechanism: 'CYP1A2 抑制劑顯著增加 Tizanidine 生體可用率',
+      clinicalConsequence: 'Severe hypotension, excessive sedation',
+      frequency: 'AUC increases 10-fold with ciprofloxacin',
+      mechanism: 'CYP1A2 inhibitors markedly increase tizanidine bioavailability',
       contextualFactors: [
         {
-          factor: '使用 Ciprofloxacin',
-          impact: '禁止併用',
-          recommendation: '改用其他抗生素'
+          factor: 'Taking ciprofloxacin',
+          impact: 'Combination contraindicated',
+          recommendation: 'Switch to another antibiotic'
         },
         {
-          factor: '使用 Fluvoxamine',
-          impact: '禁止併用',
-          recommendation: '改用其他 SSRI'
+          factor: 'Taking fluvoxamine',
+          impact: 'Combination contraindicated',
+          recommendation: 'Switch to another SSRI'
         }
       ],
       managementOptions: [
         {
-          option: '避免併用',
-          description: '選用不抑制 CYP1A2 的替代藥物',
+          option: 'Avoid the combination',
+          description: 'Choose an alternative that does not inhibit CYP1A2',
           recommended: true
         },
         {
-          option: '替代肌肉鬆弛劑',
-          description: '使用 Baclofen 或 Cyclobenzaprine 替代',
+          option: 'Alternative muscle relaxant',
+          description: 'Use baclofen or cyclobenzaprine instead',
           recommended: true
         }
       ],
@@ -200,35 +200,35 @@
       },
       alertType: ALERT_TYPE.CONDITIONAL,
       indicator: PDDI_INDICATOR.WARNING,
-      clinicalConsequence: 'Digoxin 毒性（心律不整、噁心嘔吐、視覺障礙）',
-      frequency: 'Digoxin 濃度平均增加 70%',
-      mechanism: 'Amiodarone 抑制 Digoxin 的腎臟和非腎臟清除',
+      clinicalConsequence: 'Digoxin toxicity (arrhythmia, nausea and vomiting, visual disturbances)',
+      frequency: 'Digoxin levels increase by 70% on average',
+      mechanism: 'Amiodarone inhibits renal and non-renal clearance of digoxin',
       contextualFactors: [
         {
-          factor: '腎功能不全',
-          impact: '風險增加',
-          recommendation: '更積極降低 Digoxin 劑量'
+          factor: 'Renal impairment',
+          impact: 'Risk increased',
+          recommendation: 'Reduce the digoxin dose more aggressively'
         },
         {
-          factor: '電解質異常（低血鉀）',
-          impact: '風險顯著增加',
-          recommendation: '校正電解質並密切監測'
+          factor: 'Electrolyte disturbance (hypokalaemia)',
+          impact: 'Risk substantially increased',
+          recommendation: 'Correct electrolytes and monitor closely'
         }
       ],
       managementOptions: [
         {
-          option: '降低 Digoxin 劑量 50%',
-          description: '開始 Amiodarone 時立即將 Digoxin 劑量減半',
+          option: 'Reduce the digoxin dose by 50%',
+          description: 'Halve the digoxin dose as soon as amiodarone is started',
           recommended: true
         },
         {
-          option: '監測 Digoxin 濃度',
-          description: '定期監測血中濃度，目標 0.5-1.0 ng/mL',
+          option: 'Monitor digoxin levels',
+          description: 'Monitor blood levels regularly; target 0.5-1.0 ng/mL',
           recommended: true
         },
         {
-          option: '監測心電圖',
-          description: '注意心動過緩和心律不整',
+          option: 'Monitor the ECG',
+          description: 'Watch for bradycardia and arrhythmia',
           recommended: true
         }
       ],
@@ -247,45 +247,45 @@
       },
       alertType: ALERT_TYPE.CONDITIONAL,
       indicator: PDDI_INDICATOR.CRITICAL,
-      clinicalConsequence: 'Torsades de Pointes（多形性心室頻脈）',
-      frequency: '罕見但潛在致命',
-      mechanism: '多重 QT 延長藥物的加成效應',
+      clinicalConsequence: 'Torsades de pointes (polymorphic ventricular tachycardia)',
+      frequency: 'Rare but potentially fatal',
+      mechanism: 'Additive effect of multiple QT-prolonging drugs',
       contextualFactors: [
         {
-          factor: '電解質異常',
-          impact: '風險顯著增加',
-          recommendation: '校正低血鉀、低血鎂'
+          factor: 'Electrolyte disturbance',
+          impact: 'Risk substantially increased',
+          recommendation: 'Correct hypokalaemia and hypomagnesaemia'
         },
         {
-          factor: '基礎 QTc > 450ms',
-          impact: '禁止併用',
-          recommendation: '避免加用 QT 延長藥物'
+          factor: 'Baseline QTc > 450 ms',
+          impact: 'Combination contraindicated',
+          recommendation: 'Avoid adding QT-prolonging drugs'
         },
         {
-          factor: '女性',
-          impact: '風險增加',
-          recommendation: '更謹慎監測'
+          factor: 'Female',
+          impact: 'Risk increased',
+          recommendation: 'Monitor more carefully'
         },
         {
-          factor: '心臟病史',
-          impact: '風險增加',
-          recommendation: '考慮替代藥物'
+          factor: 'History of heart disease',
+          impact: 'Risk increased',
+          recommendation: 'Consider alternative drugs'
         }
       ],
       managementOptions: [
         {
-          option: '避免併用',
-          description: '選用不延長 QT 的替代藥物',
+          option: 'Avoid the combination',
+          description: 'Choose alternatives that do not prolong QT',
           recommended: true
         },
         {
-          option: '心電圖監測',
-          description: '若必須併用，定期監測 QTc 間期',
+          option: 'ECG monitoring',
+          description: 'If the combination is necessary, monitor the QTc interval regularly',
           recommended: true
         },
         {
-          option: '校正電解質',
-          description: '確保血鉀 > 4.0 mEq/L，血鎂 > 2.0 mg/dL',
+          option: 'Correct electrolytes',
+          description: 'Keep serum potassium > 4.0 mEq/L and magnesium > 2.0 mg/dL',
           recommended: true
         }
       ],
@@ -380,16 +380,16 @@
         })),
       links: [
         {
-          label: '查看完整資訊',
+          label: 'View full information',
           url: `https://jptxgnn.yao.care/drugs/`,
           type: 'absolute'
         }
       ],
       overrideReasons: [
-        { code: 'patient-aware', display: '病患已知悉風險' },
-        { code: 'benefit-outweighs', display: '效益大於風險' },
-        { code: 'alternative-unavailable', display: '無可用替代方案' },
-        { code: 'monitoring-in-place', display: '已有監測計畫' }
+        { code: 'patient-aware', display: 'Patient is aware of the risk' },
+        { code: 'benefit-outweighs', display: 'Benefit outweighs risk' },
+        { code: 'alternative-unavailable', display: 'No alternative available' },
+        { code: 'monitoring-in-place', display: 'Monitoring plan in place' }
       ]
     };
 
@@ -400,26 +400,26 @@
    * Generate detailed markdown for PDDI alert
    */
   function generateDetailMarkdown(pddi) {
-    let md = `## 藥物交互作用警示\n\n`;
-    md += `**交互作用類型**: ${getAlertTypeLabel(pddi.alertType)}\n\n`;
-    md += `**機轉**: ${pddi.mechanism}\n\n`;
-    md += `**臨床後果**: ${pddi.clinicalConsequence}\n\n`;
-    md += `**發生頻率**: ${pddi.frequency}\n\n`;
+    let md = `## Drug interaction alert\n\n`;
+    md += `**Interaction type**: ${getAlertTypeLabel(pddi.alertType)}\n\n`;
+    md += `**Mechanism**: ${pddi.mechanism}\n\n`;
+    md += `**Clinical consequence**: ${pddi.clinicalConsequence}\n\n`;
+    md += `**Frequency**: ${pddi.frequency}\n\n`;
 
-    md += `### 情境因素\n\n`;
+    md += `### Contextual factors\n\n`;
     pddi.contextualFactors.forEach(cf => {
       md += `- **${cf.factor}**: ${cf.impact} - ${cf.recommendation}\n`;
     });
 
-    md += `\n### 處置選項\n\n`;
+    md += `\n### Management options\n\n`;
     pddi.managementOptions.forEach(opt => {
       const marker = opt.recommended ? '✓' : '○';
       md += `- ${marker} **${opt.option}**: ${opt.description}\n`;
     });
 
-    md += `\n### 證據等級\n\n`;
-    md += `等級: ${pddi.evidence.level}\n`;
-    md += `來源: ${pddi.evidence.sources.join(', ')}\n`;
+    md += `\n### Evidence level\n\n`;
+    md += `Level: ${pddi.evidence.level}\n`;
+    md += `Sources: ${pddi.evidence.sources.join(', ')}\n`;
 
     return md;
   }
@@ -429,9 +429,9 @@
    */
   function getAlertTypeLabel(type) {
     const labels = {
-      contraindicated: '禁止併用',
-      conditional: '條件性警示',
-      relative: '相對禁忌'
+      contraindicated: 'Contraindicated',
+      conditional: 'Conditional alert',
+      relative: 'Relative contraindication'
     };
     return labels[type] || type;
   }
@@ -458,10 +458,10 @@
         </div>
         <div class="pddi-consequence">${escapeHtml(pddi.clinicalConsequence)}</div>
         <div class="pddi-mechanism">
-          <strong>機轉：</strong>${escapeHtml(pddi.mechanism)}
+          <strong>Mechanism:</strong> ${escapeHtml(pddi.mechanism)}
         </div>
         <div class="pddi-context">
-          <strong>情境因素：</strong>
+          <strong>Contextual factors:</strong>
           <ul>
     `;
 
@@ -473,7 +473,7 @@
           </ul>
         </div>
         <div class="pddi-management">
-          <strong>處置建議：</strong>
+          <strong>Recommended management:</strong>
           <ul>
     `;
 
@@ -486,8 +486,8 @@
           </ul>
         </div>
         <div class="pddi-evidence">
-          <strong>證據等級：</strong>${pddi.evidence.level} |
-          <strong>來源：</strong>${pddi.evidence.sources.join(', ')}
+          <strong>Evidence level:</strong> ${pddi.evidence.level} |
+          <strong>Sources:</strong> ${pddi.evidence.sources.join(', ')}
         </div>
       </div>
     `;
@@ -497,9 +497,9 @@
 
   function getIndicatorLabel(indicator) {
     const labels = {
-      critical: '⚠️ 嚴重',
-      warning: '⚡ 警告',
-      info: 'ℹ️ 資訊'
+      critical: '⚠️ Critical',
+      warning: '⚡ Warning',
+      info: 'ℹ️ Info'
     };
     return labels[indicator] || indicator;
   }
