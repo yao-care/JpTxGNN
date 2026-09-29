@@ -3,7 +3,7 @@ layout: default
 title: "ベガモックス点眼液０．５％（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ベガモックス点眼液０．５％（選） に関する健康ニュース。既存適応症：。予測適応症 40 件。"
+description: "ベガモックス点眼液０．５％（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/moxifloxacin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/moxifloxacin/
 ---
 
 <p class="key-answer" data-question="ベガモックス点眼液０．５％（選） に関するニュースは？">
-<strong>ベガモックス点眼液０．５％（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 40 件です。
+<strong>ベガモックス点眼液０．５％（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,47 +25,17 @@ permalink: /news/moxifloxacin/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（40 件）</strong>:<ul>
-<li>septicemic plague (99.0%)</li>
-<li>polyclonal hyperviscosity syndrome (99.0%)</li>
-<li>hyperamylasemia (99.0%)</li>
-<li>congenital analbuminemia (99.0%)</li>
-<li>blood group incompatibility (99.0%)</li>
-<li>premalignant hematological system disease (99.0%)</li>
-<li>monoclonal gammopathy (99.0%)</li>
-<li>hematological disease associated with an acquired peripheral neuropathy (99.0%)</li>
-<li>congenital hematological disorder (99.0%)</li>
-<li>hematopoietic and lymphoid system neoplasm (99.0%)</li>
-<li>bubonic plague (99.0%)</li>
-<li>endomyometritis (99.0%)</li>
-<li>bronchitis (99.0%)</li>
-<li>conjunctivitis (98.0%)</li>
-<li>urinary tract infection (disease) (98.0%)</li>
-<li>Ureaplasma urethritis (97.0%)</li>
-<li>gonococcal urethritis (97.0%)</li>
-<li>pyelitis (97.0%)</li>
-<li>streptococcal pneumonia (96.0%)</li>
-<li>uterine inflammatory disease (96.0%)</li>
-<li>pyelonephritis (96.0%)</li>
-<li>xanthogranulomatous pyelonephritis (96.0%)</li>
-<li>chronic tubotympanic suppurative otitis media (96.0%)</li>
-<li>cystitis (96.0%)</li>
-<li>L-ferritin deficiency (96.0%)</li>
-<li>acute gonococcal cystitis (91.0%)</li>
-<li>pneumonic plague (90.0%)</li>
-<li>laryngotracheitis (90.0%)</li>
-<li>Klebsiella pneumonia (89.0%)</li>
-<li>staphylococcal pneumonia (88.0%)</li>
-<li>Mycoplasma pneumoniae pneumonia (86.0%)</li>
-<li>acute contagious conjunctivitis (84.0%)</li>
-<li>pneumonia caused by chlamydia (83.0%)</li>
-<li>streptococcal infection (74.0%)</li>
-<li>peritonitis (74.0%)</li>
-<li>staphylococcus aureus infection (73.0%)</li>
-<li>rhinoscleroma (60.0%)</li>
-<li>bacterial pneumonia (51.0%)</li>
-<li>plague (50.0%)</li>
-<li>staphylococcal infection (50.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>hyperamylasemia (100.0%)</li>
+<li>polyclonal hyperviscosity syndrome (100.0%)</li>
+<li>congenital analbuminemia (100.0%)</li>
+<li>blood group incompatibility (100.0%)</li>
+<li>premalignant hematological system disease (100.0%)</li>
+<li>monoclonal gammopathy (100.0%)</li>
+<li>hematological disease associated with an acquired peripheral neuropathy (99.9%)</li>
+<li>congenital hematological disorder (99.9%)</li>
+<li>hematopoietic and lymphoid system neoplasm (99.7%)</li>
+<li>bubonic plague (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/moxifloxacin/' | relative_url }}">医薬品レポート全文を見る →</a></p>

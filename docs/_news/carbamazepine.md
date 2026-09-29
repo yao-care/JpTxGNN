@@ -3,7 +3,7 @@ layout: default
 title: "テグレトール錠１００ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "テグレトール錠１００ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 50 件。"
+description: "テグレトール錠１００ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/carbamazepine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/carbamazepine/
 ---
 
 <p class="key-answer" data-question="テグレトール錠１００ｍｇ（選） に関するニュースは？">
-<strong>テグレトール錠１００ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 50 件です。
+<strong>テグレトール錠１００ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,57 +25,17 @@ permalink: /news/carbamazepine/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（50 件）</strong>:<ul>
-<li>partial motor epilepsy (99.0%)</li>
-<li>visual epilepsy (99.0%)</li>
-<li>epilepsy (99.0%)</li>
-<li>trigeminal neuralgia (99.0%)</li>
-<li>partial epilepsy (99.0%)</li>
-<li>epilepsy with generalized tonic-clonic seizures (99.0%)</li>
-<li>trigeminal nerve neoplasm (99.0%)</li>
-<li>startle epilepsy (99.0%)</li>
-<li>eating seizures (99.0%)</li>
-<li>audiogenic seizures (99.0%)</li>
-<li>micturation-induced seizures (99.0%)</li>
-<li>orgasm-induced seizures (99.0%)</li>
-<li>thinking seizures (99.0%)</li>
-<li>reading seizures (99.0%)</li>
-<li>beta-ketothiolase deficiency (99.0%)</li>
-<li>Rett syndrome, congenital variant (99.0%)</li>
-<li>14q12 microdeletion syndrome (99.0%)</li>
-<li>status epilepticus (99.0%)</li>
-<li>glossopharyngeal motor neuropathy (99.0%)</li>
-<li>adolescent/adult onset autosomal dominant epilepsy with auditory features (99.0%)</li>
-<li>facial neuralgia (99.0%)</li>
-<li>guanidinoacetate methyltransferase deficiency (99.0%)</li>
-<li>combined hyperactive dysfunction syndrome of the cranial nerves (99.0%)</li>
-<li>glossopharyngeal nerve neoplasm (99.0%)</li>
-<li>vagus nerve disease (99.0%)</li>
-<li>glossopharyngeal nerve paralysis (99.0%)</li>
-<li>Lennox-Gastaut syndrome (98.0%)</li>
-<li>trichotillomania (98.0%)</li>
-<li>cutis verticis gyrata (98.0%)</li>
-<li>myoclonic-atonic epilepsy (98.0%)</li>
-<li>Tourette syndrome (98.0%)</li>
-<li>febrile infection-related epilepsy syndrome (98.0%)</li>
-<li>cryptogenic late-onset epileptic spasms (98.0%)</li>
-<li>atypical childhood epilepsy with centrotemporal spikes (98.0%)</li>
-<li>photosensitive occipital lobe epilepsy (98.0%)</li>
-<li>perioral myoclonia with absences (98.0%)</li>
-<li>restless legs syndrome (98.0%)</li>
-<li>electroclinical syndrome (97.0%)</li>
-<li>nicotine dependence (97.0%)</li>
-<li>methemoglobinemia, alpha type (97.0%)</li>
-<li>idiopathic neonatal atrial flutter (96.0%)</li>
-<li>attention deficit-hyperactivity disorder (96.0%)</li>
-<li>early onset absence epilepsy (96.0%)</li>
-<li>methemoglobin reductase deficiency (96.0%)</li>
-<li>myofascial pain syndrome (95.0%)</li>
-<li>asperger syndrome, susceptibility to (95.0%)</li>
-<li>gaze palsy, familial horizontal, with progressive scoliosis (95.0%)</li>
-<li>multifocal atrial tachycardia (disease) (95.0%)</li>
-<li>childhood onset epileptic encephalopathy (95.0%)</li>
-<li>glossopharyngeal neuralgia (94.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>trigeminal nerve neoplasm (100.0%)</li>
+<li>startle epilepsy (100.0%)</li>
+<li>thinking seizures (100.0%)</li>
+<li>orgasm-induced seizures (100.0%)</li>
+<li>eating seizures (100.0%)</li>
+<li>micturation-induced seizures (100.0%)</li>
+<li>audiogenic seizures (100.0%)</li>
+<li>reading seizures (100.0%)</li>
+<li>beta-ketothiolase deficiency (99.9%)</li>
+<li>Rett syndrome, congenital variant (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/carbamazepine/' | relative_url }}">医薬品レポート全文を見る →</a></p>

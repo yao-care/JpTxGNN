@@ -3,7 +3,7 @@ layout: default
 title: "リンデロン−Ｖ軟膏０．１２％（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "リンデロン−Ｖ軟膏０．１２％（選） に関する健康ニュース。既存適応症：。予測適応症 50 件。"
+description: "リンデロン−Ｖ軟膏０．１２％（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/betamethasone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/betamethasone/
 ---
 
 <p class="key-answer" data-question="リンデロン−Ｖ軟膏０．１２％（選） に関するニュースは？">
-<strong>リンデロン−Ｖ軟膏０．１２％（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 50 件です。
+<strong>リンデロン−Ｖ軟膏０．１２％（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,57 +25,17 @@ permalink: /news/betamethasone/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（50 件）</strong>:<ul>
-<li>granulomatous slack skin disease (99.0%)</li>
-<li>acquired thrombocytopenia (99.0%)</li>
-<li>nephrotic syndrome (99.0%)</li>
-<li>adrenocortical insufficiency (99.0%)</li>
-<li>miliary tuberculosis (99.0%)</li>
-<li>alopecia areata (99.0%)</li>
-<li>alopecia mucinosa (99.0%)</li>
-<li>telogen effluvium (99.0%)</li>
-<li>Quinquaud's folliculitis decalvans (99.0%)</li>
-<li>alopecia antibody deficiency (99.0%)</li>
-<li>hereditary hypotrichosis with recurrent skin vesicles (99.0%)</li>
-<li>alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome (99.0%)</li>
-<li>atrichia with papular lesions (99.0%)</li>
-<li>idiopathic steroid-sensitive nephrotic syndrome (99.0%)</li>
-<li>sporadic idiopathic steroid-resistant nephrotic syndrome (99.0%)</li>
-<li>alopecia universalis onychodystrophy vitiligo (99.0%)</li>
-<li>heparin-induced thrombocytopenia (disease) (98.0%)</li>
-<li>Stevens-Johnson syndrome (98.0%)</li>
-<li>rheumatic heart disease (98.0%)</li>
-<li>fetal erythroblastosis (98.0%)</li>
-<li>familial adrenal hypoplasia with absent pituitary luteinizing hormone (98.0%)</li>
-<li>autoimmune hemolytic anemia (98.0%)</li>
-<li>tenosynovitis (98.0%)</li>
-<li>Addison disease (98.0%)</li>
-<li>necrobiosis lipoidica (98.0%)</li>
-<li>autoimmune myocarditis (98.0%)</li>
-<li>disorder of GPI anchor biosynthesis (98.0%)</li>
-<li>46,XY disorder of sex development (98.0%)</li>
-<li>Stevens-Johnson syndrome/toxic epidermal necrolysis overlap syndrome (98.0%)</li>
-<li>PAGOD syndrome (98.0%)</li>
-<li>Trichinellosis (97.0%)</li>
-<li>seborrheic keratosis (97.0%)</li>
-<li>epicondylitis (97.0%)</li>
-<li>disease of orbital region (97.0%)</li>
-<li>acquired aplastic anemia (97.0%)</li>
-<li>hemoglobinuria (97.0%)</li>
-<li>disease of orbital part of eye adnexa (97.0%)</li>
-<li>nephrotic syndrome ocular anomalies (97.0%)</li>
-<li>cystic teratoma (97.0%)</li>
-<li>spinal cord dermoid cyst (97.0%)</li>
-<li>dermoid cyst of ovary (97.0%)</li>
-<li>subacute bursitis (97.0%)</li>
-<li>persistent polyclonal B-cell lymphocytosis (97.0%)</li>
-<li>punctate epithelial keratoconjunctivitis (97.0%)</li>
-<li>nephrotic syndrome of childhood - steroid sensitive (97.0%)</li>
-<li>inherited isolated adrenal insufficiency due to partial CYP11A1 deficiency (96.0%)</li>
-<li>renin-angiotensin-aldosterone system-blocker-induced angioedema (96.0%)</li>
-<li>mantle cell lymphoma (96.0%)</li>
-<li>exostosis (96.0%)</li>
-<li>chronic primary adrenal insufficiency (96.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>alopecia areata (100.0%)</li>
+<li>alopecia mucinosa (100.0%)</li>
+<li>telogen effluvium (100.0%)</li>
+<li>Quinquaud's folliculitis decalvans (100.0%)</li>
+<li>alopecia antibody deficiency (100.0%)</li>
+<li>hereditary hypotrichosis with recurrent skin vesicles (100.0%)</li>
+<li>alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome (100.0%)</li>
+<li>atrichia with papular lesions (99.9%)</li>
+<li>idiopathic steroid-sensitive nephrotic syndrome (99.4%)</li>
+<li>sporadic idiopathic steroid-resistant nephrotic syndrome (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/betamethasone/' | relative_url }}">医薬品レポート全文を見る →</a></p>

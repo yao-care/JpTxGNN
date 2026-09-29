@@ -3,7 +3,7 @@ layout: default
 title: "プログラフカプセル１ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "プログラフカプセル１ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 49 件。"
+description: "プログラフカプセル１ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/tacrolimus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tacrolimus/
 ---
 
 <p class="key-answer" data-question="プログラフカプセル１ｍｇ（選） に関するニュースは？">
-<strong>プログラフカプセル１ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 49 件です。
+<strong>プログラフカプセル１ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,56 +25,17 @@ permalink: /news/tacrolimus/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（49 件）</strong>:<ul>
-<li>dermatitis, atopic (99.0%)</li>
-<li>atopic eczema (99.0%)</li>
-<li>seborrheic dermatitis (99.0%)</li>
-<li>parapsoriasis (99.0%)</li>
-<li>dermatitis (99.0%)</li>
-<li>acute lichenoid pityriasis (98.0%)</li>
-<li>acrodermatitis chronica atrophicans (98.0%)</li>
-<li>rheumatoid arthritis (98.0%)</li>
-<li>acne keloid (98.0%)</li>
-<li>psoriasis (98.0%)</li>
-<li>neonatal dermatomyositis (98.0%)</li>
-<li>exanthem (disease) (98.0%)</li>
-<li>amyopathic dermatomyositis (98.0%)</li>
-<li>bronchitis (98.0%)</li>
-<li>pityriasis lichenoides (98.0%)</li>
-<li>hydroa vacciniforme, familial (98.0%)</li>
-<li>brachydactyly-syndactyly syndrome (97.0%)</li>
-<li>pustulosis palmaris et plantaris (97.0%)</li>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (97.0%)</li>
-<li>Crohn's colitis (96.0%)</li>
-<li>psoriasis 14, pustular (96.0%)</li>
-<li>pemphigus (95.0%)</li>
-<li>2-hydroxyethyl methacrylate sensitization (95.0%)</li>
-<li>polyp of vocal cord (95.0%)</li>
-<li>epulis (95.0%)</li>
-<li>polyp of middle ear (95.0%)</li>
-<li>fibroepithelial polyp (95.0%)</li>
-<li>polyp of frontal sinus (95.0%)</li>
-<li>polyp of ureter (95.0%)</li>
-<li>polyp of vulva (95.0%)</li>
-<li>neoplastic polyp (95.0%)</li>
-<li>polyp of external auditory canal (95.0%)</li>
-<li>uterine polyp (95.0%)</li>
-<li>pemphigus vegetans (95.0%)</li>
-<li>inflammatory bowel disease (93.0%)</li>
-<li>lipoid nephrosis (93.0%)</li>
-<li>alopecia universalis onychodystrophy vitiligo (93.0%)</li>
-<li>candidiasis, familial (92.0%)</li>
-<li>Crohn disease of the esophagus (91.0%)</li>
-<li>seborrheic keratosis (91.0%)</li>
-<li>persistent polyclonal B-cell lymphocytosis (91.0%)</li>
-<li>granulomatous disease with defect in neutrophil chemotaxis (91.0%)</li>
-<li>anus disease (91.0%)</li>
-<li>folliculotropic mycosis fungoides (91.0%)</li>
-<li>vulvar inverted follicular keratosis (91.0%)</li>
-<li>functional neutrophil defect (91.0%)</li>
-<li>granulomatous disease, chronic, autosomal recessive, 5 (91.0%)</li>
-<li>BENTA disease (91.0%)</li>
-<li>severe combined immunodeficiency due to CARD11 deficiency (90.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>seborrheic dermatitis (99.3%)</li>
+<li>parapsoriasis (99.2%)</li>
+<li>dermatitis (99.2%)</li>
+<li>acute lichenoid pityriasis (98.9%)</li>
+<li>acrodermatitis chronica atrophicans (98.7%)</li>
+<li>rheumatoid arthritis (98.7%)</li>
+<li>acne keloid (98.7%)</li>
+<li>psoriasis (98.7%)</li>
+<li>neonatal dermatomyositis (98.6%)</li>
+<li>exanthem (disease) (98.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">医薬品レポート全文を見る →</a></p>

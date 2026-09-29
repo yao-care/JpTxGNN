@@ -3,7 +3,7 @@ layout: default
 title: "アルダクトンＡ錠５０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "アルダクトンＡ錠５０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 12 件。"
+description: "アルダクトンＡ錠５０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/spironolactone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/spironolactone/
 ---
 
 <p class="key-answer" data-question="アルダクトンＡ錠５０ｍｇ（選） に関するニュースは？">
-<strong>アルダクトンＡ錠５０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 12 件です。
+<strong>アルダクトンＡ錠５０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,19 +25,17 @@ permalink: /news/spironolactone/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（12 件）</strong>:<ul>
-<li>hypotrichosis simplex of the scalp (99.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>hypotrichosis simplex of the scalp (99.3%)</li>
 <li>congenital hypotrichosis milia (99.0%)</li>
-<li>diffuse alopecia areata (98.0%)</li>
-<li>alopecia (97.0%)</li>
-<li>hypertensive disorder (97.0%)</li>
-<li>malignant renovascular hypertension (97.0%)</li>
-<li>malignant hypertensive renal disease (97.0%)</li>
-<li>pulmonary hypertension with unclear multifactorial mechanism (97.0%)</li>
-<li>pulmonary hypertension owing to lung disease and/or hypoxia (97.0%)</li>
-<li>Braddock syndrome (96.0%)</li>
-<li>chronic pulmonary heart disease (95.0%)</li>
-<li>hypertension (50.0%)</li>
+<li>diffuse alopecia areata (98.4%)</li>
+<li>alopecia (97.8%)</li>
+<li>malignant hypertensive renal disease (97.5%)</li>
+<li>malignant renovascular hypertension (97.5%)</li>
+<li>pulmonary hypertension owing to lung disease and/or hypoxia (97.3%)</li>
+<li>pulmonary hypertension with unclear multifactorial mechanism (97.3%)</li>
+<li>Braddock syndrome (96.6%)</li>
+<li>chronic pulmonary heart disease (95.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/spironolactone/' | relative_url }}">医薬品レポート全文を見る →</a></p>

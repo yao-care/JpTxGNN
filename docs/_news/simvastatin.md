@@ -3,7 +3,7 @@ layout: default
 title: "リポバス錠５　５ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "リポバス錠５　５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 50 件。"
+description: "リポバス錠５　５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/simvastatin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="リポバス錠５　５ｍｇ（選） に関するニュースは？">
-<strong>リポバス錠５　５ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 50 件です。
+<strong>リポバス錠５　５ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,57 +25,17 @@ permalink: /news/simvastatin/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（50 件）</strong>:<ul>
-<li>hyperlipoproteinemia (99.0%)</li>
-<li>obsolete susceptibility to ischemic stroke (99.0%)</li>
-<li>hypoalphalipoproteinemia (99.0%)</li>
-<li>cerebral infarction (99.0%)</li>
-<li>homozygous familial hypercholesterolemia (99.0%)</li>
-<li>obsolete familial combined hyperlipidemia (99.0%)</li>
-<li>hyperlipidemia, familial combined, LPL related (99.0%)</li>
-<li>familial hypercholesterolemia (99.0%)</li>
-<li>brain stem infarction (99.0%)</li>
-<li>cholesterol-ester transfer protein deficiency (99.0%)</li>
-<li>hypercholesterolemia, autosomal dominant (99.0%)</li>
-<li>hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency (99.0%)</li>
-<li>HIV infectious disease (99.0%)</li>
-<li>ABri amyloidosis (99.0%)</li>
-<li>arteriosclerosis disorder (98.0%)</li>
-<li>fibroma of prostate (98.0%)</li>
-<li>feline acquired immunodeficiency syndrome (98.0%)</li>
-<li>simian immunodeficiency virus infection (98.0%)</li>
-<li>cerebral artery occlusion (98.0%)</li>
-<li>benign reproductive system neoplasm (98.0%)</li>
-<li>Brenner tumor (98.0%)</li>
-<li>prostate cancer/brain cancer susceptibility (98.0%)</li>
-<li>benign prostate phyllodes tumor (98.0%)</li>
-<li>cerebral arterial disease (98.0%)</li>
-<li>hyperlipidemia due to hepatic triglyceride lipase deficiency (98.0%)</li>
-<li>male reproductive organ cancer (98.0%)</li>
-<li>hypolipoproteinemia (disease) (98.0%)</li>
-<li>cerebral atherosclerosis (98.0%)</li>
-<li>generalized atherosclerosis (98.0%)</li>
-<li>prostate leiomyoma (98.0%)</li>
-<li>stroke disorder (97.0%)</li>
-<li>prostate neoplasm (97.0%)</li>
-<li>coronary atherosclerosis (97.0%)</li>
-<li>MRI defined brain infarct (97.0%)</li>
-<li>familial hyperlipidemia (97.0%)</li>
-<li>cerebrovascular disorder (96.0%)</li>
-<li>hyperlipidemia (96.0%)</li>
-<li>female breast carcinoma (95.0%)</li>
-<li>cholesterol embolism (94.0%)</li>
-<li>ABeta amyloidosis (94.0%)</li>
-<li>intracerebral hemorrhage (94.0%)</li>
-<li>glaucoma (94.0%)</li>
-<li>coronary artery disease (94.0%)</li>
-<li>hyperalphalipoproteinemia (93.0%)</li>
-<li>cardiac tamponade (93.0%)</li>
-<li>sitosterolemia (92.0%)</li>
-<li>duodenal obstruction (91.0%)</li>
-<li>hypertriglyceridemia, familial (91.0%)</li>
-<li>familial chylomicronemia syndrome (91.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>familial hypercholesterolemia (99.6%)</li>
+<li>brain stem infarction (99.4%)</li>
+<li>cholesterol-ester transfer protein deficiency (99.4%)</li>
+<li>hypercholesterolemia, autosomal dominant (99.4%)</li>
+<li>hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency (99.3%)</li>
+<li>HIV infectious disease (99.2%)</li>
+<li>ABri amyloidosis (99.1%)</li>
 <li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (99.1%)</li>
+<li>fibroma of prostate (98.9%)</li>
+<li>simian immunodeficiency virus infection (98.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">医薬品レポート全文を見る →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "ムコブロチン配合シロップ 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ムコブロチン配合シロップ に関する健康ニュース。既存適応症：。予測適応症 25 件。"
+description: "ムコブロチン配合シロップ に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/codeine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/codeine/
 ---
 
 <p class="key-answer" data-question="ムコブロチン配合シロップ に関するニュースは？">
-<strong>ムコブロチン配合シロップ</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 25 件です。
+<strong>ムコブロチン配合シロップ</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,32 +25,17 @@ permalink: /news/codeine/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（25 件）</strong>:<ul>
-<li>headache disorder (99.0%)</li>
-<li>common cold (99.0%)</li>
-<li>pharyngitis (99.0%)</li>
-<li>nasal cavity disease (99.0%)</li>
-<li>acute laryngopharyngitis (99.0%)</li>
-<li>trigeminal autonomic cephalalgia (99.0%)</li>
-<li>allergic urticaria (99.0%)</li>
-<li>nasopharyngitis (98.0%)</li>
-<li>faucial diphtheria (97.0%)</li>
-<li>cervical disc degenerative disorder (97.0%)</li>
-<li>papillary conjunctivitis (97.0%)</li>
-<li>tracheal disease (95.0%)</li>
-<li>cold urticaria (94.0%)</li>
-<li>bronchial disease (93.0%)</li>
-<li>rhinitis (92.0%)</li>
-<li>endobronchial leiomyoma (92.0%)</li>
-<li>endobronchial lipoma (92.0%)</li>
-<li>bronchus adenoma (92.0%)</li>
-<li>massive neonatal aspiration syndrome (92.0%)</li>
-<li>hantavirus infectious disease (91.0%)</li>
-<li>respiratory syncytial virus bronchiolitis (91.0%)</li>
-<li>lung disease (90.0%)</li>
-<li>meconium aspiration syndrome (90.0%)</li>
-<li>vasomotor rhinitis (50.0%)</li>
-<li>allergic rhinitis (50.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>nasal cavity disease (99.9%)</li>
+<li>acute laryngopharyngitis (99.9%)</li>
+<li>trigeminal autonomic cephalalgia (99.4%)</li>
+<li>allergic urticaria (99.4%)</li>
+<li>faucial diphtheria (97.6%)</li>
+<li>cervical disc degenerative disorder (97.4%)</li>
+<li>papillary conjunctivitis (97.2%)</li>
+<li>tracheal disease (95.7%)</li>
+<li>cold urticaria (94.6%)</li>
+<li>bronchial disease (93.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/codeine/' | relative_url }}">医薬品レポート全文を見る →</a></p>

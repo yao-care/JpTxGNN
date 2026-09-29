@@ -3,7 +3,7 @@ layout: default
 title: "ゼチーア錠１０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ゼチーア錠１０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 22 件。"
+description: "ゼチーア錠１０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/ezetimibe/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ezetimibe/
 ---
 
 <p class="key-answer" data-question="ゼチーア錠１０ｍｇ（選） に関するニュースは？">
-<strong>ゼチーア錠１０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 22 件です。
+<strong>ゼチーア錠１０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,29 +25,17 @@ permalink: /news/ezetimibe/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（22 件）</strong>:<ul>
-<li>homozygous familial hypercholesterolemia (99.0%)</li>
-<li>obsolete familial combined hyperlipidemia (99.0%)</li>
-<li>hyperlipoproteinemia (99.0%)</li>
-<li>familial hypercholesterolemia (99.0%)</li>
-<li>hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency (99.0%)</li>
-<li>cholesterol-ester transfer protein deficiency (99.0%)</li>
-<li>hyperlipidemia, familial combined, LPL related (98.0%)</li>
-<li>HIV infectious disease (98.0%)</li>
-<li>hypercholesterolemia, autosomal dominant (98.0%)</li>
-<li>hyperlipidemia due to hepatic triglyceride lipase deficiency (98.0%)</li>
-<li>familial hyperlipidemia (98.0%)</li>
-<li>feline acquired immunodeficiency syndrome (98.0%)</li>
-<li>simian immunodeficiency virus infection (98.0%)</li>
-<li>hyperlipidemia (97.0%)</li>
-<li>hyperalphalipoproteinemia (97.0%)</li>
-<li>sitosterolemia (96.0%)</li>
-<li>familial chylomicronemia syndrome (95.0%)</li>
-<li>hypertriglyceridemia, familial (94.0%)</li>
-<li>hypolipoproteinemia (disease) (93.0%)</li>
-<li>fibroma of prostate (91.0%)</li>
-<li>benign reproductive system neoplasm (90.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>hyperlipoproteinemia (99.6%)</li>
+<li>familial hypercholesterolemia (99.4%)</li>
+<li>hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency (99.2%)</li>
+<li>cholesterol-ester transfer protein deficiency (99.1%)</li>
+<li>HIV infectious disease (98.8%)</li>
+<li>hypercholesterolemia, autosomal dominant (98.8%)</li>
 <li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (98.7%)</li>
+<li>hyperlipidemia due to hepatic triglyceride lipase deficiency (98.6%)</li>
+<li>feline acquired immunodeficiency syndrome (98.1%)</li>
+<li>simian immunodeficiency virus infection (98.1%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ezetimibe/' | relative_url }}">医薬品レポート全文を見る →</a></p>

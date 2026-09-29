@@ -3,7 +3,7 @@ layout: default
 title: "イレッサ錠２５０　２５０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "イレッサ錠２５０　２５０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 31 件。"
+description: "イレッサ錠２５０　２５０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/gefitinib/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/gefitinib/
 ---
 
 <p class="key-answer" data-question="イレッサ錠２５０　２５０ｍｇ（選） に関するニュースは？">
-<strong>イレッサ錠２５０　２５０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 31 件です。
+<strong>イレッサ錠２５０　２５０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,38 +25,17 @@ permalink: /news/gefitinib/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（31 件）</strong>:<ul>
-<li>fibromatosis, gingival (99.0%)</li>
-<li>fibroma of lung (99.0%)</li>
-<li>hamartoma of lung (99.0%)</li>
-<li>lung hilum carcinoma (99.0%)</li>
-<li>lung benign neoplasm (99.0%)</li>
-<li>Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome (99.0%)</li>
-<li>lung germ cell tumor (99.0%)</li>
-<li>pulmonary sulcus neoplasm (99.0%)</li>
-<li>junctional epidermolysis bullosa (99.0%)</li>
-<li>ovarioleukodystrophy (99.0%)</li>
-<li>lung cancer (99.0%)</li>
-<li>junctional epidermolysis bullosa, non-Herlitz type (99.0%)</li>
-<li>dehydratase deficiency (99.0%)</li>
-<li>Ewing sarcoma (99.0%)</li>
-<li>uterine corpus sarcoma (97.0%)</li>
-<li>giant cell tumor of soft tissue (95.0%)</li>
-<li>synovial chondromatosis (95.0%)</li>
-<li>orbit sarcoma (95.0%)</li>
-<li>sarcoma, avian (95.0%)</li>
-<li>bone sarcoma (95.0%)</li>
-<li>ovarian myxoid liposarcoma (94.0%)</li>
-<li>liposarcoma (94.0%)</li>
-<li>ganglioneuroblastoma (disease) (94.0%)</li>
-<li>vertebral anomalies and variable endocrine and T-cell dysfunction (94.0%)</li>
-<li>lung adenocarcinoma (93.0%)</li>
-<li>dermatofibrosarcoma protuberans (92.0%)</li>
-<li>retroperitoneal neoplasm (92.0%)</li>
-<li>sarcoma of cervix uteri (92.0%)</li>
-<li>neuroblastoma (90.0%)</li>
-<li>non-small cell lung carcinoma (disease) (66.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>fibromatosis, gingival (99.9%)</li>
+<li>fibroma of lung (99.9%)</li>
 <li>inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia (99.9%)</li>
+<li>hamartoma of lung (99.9%)</li>
+<li>lung hilum carcinoma (99.9%)</li>
+<li>lung benign neoplasm (99.8%)</li>
+<li>Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome (99.8%)</li>
+<li>lung germ cell tumor (99.8%)</li>
+<li>pulmonary sulcus neoplasm (99.8%)</li>
+<li>junctional epidermolysis bullosa (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">医薬品レポート全文を見る →</a></p>

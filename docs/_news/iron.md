@@ -3,7 +3,7 @@ layout: default
 title: "クエン酸第一鉄ナトリウム鉄５０ｍｇ錠 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "クエン酸第一鉄ナトリウム鉄５０ｍｇ錠 に関する健康ニュース。既存適応症：。予測適応症 34 件。"
+description: "クエン酸第一鉄ナトリウム鉄５０ｍｇ錠 に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/iron/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/iron/
 ---
 
 <p class="key-answer" data-question="クエン酸第一鉄ナトリウム鉄５０ｍｇ錠 に関するニュースは？">
-<strong>クエン酸第一鉄ナトリウム鉄５０ｍｇ錠</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 34 件です。
+<strong>クエン酸第一鉄ナトリウム鉄５０ｍｇ錠</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,41 +25,17 @@ permalink: /news/iron/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（34 件）</strong>:<ul>
-<li>iron deficiency anemia (99.0%)</li>
-<li>deficiency anemia (99.0%)</li>
-<li>vitamin B12- and folate-independent constitutional megaloblastic anemia (99.0%)</li>
-<li>Plummer-Vinson syndrome (99.0%)</li>
-<li>non-syndromic esophageal malformation (99.0%)</li>
-<li>biotin metabolic disease (99.0%)</li>
-<li>vitamin deficiency disorder (99.0%)</li>
-<li>esophageal disease (99.0%)</li>
-<li>microcytic anemia (98.0%)</li>
-<li>injury (98.0%)</li>
-<li>perinatal disease (98.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>vitamin B12- and folate-independent constitutional megaloblastic anemia (99.9%)</li>
+<li>Plummer-Vinson syndrome (99.9%)</li>
+<li>non-syndromic esophageal malformation (99.9%)</li>
+<li>biotin metabolic disease (99.7%)</li>
+<li>vitamin deficiency disorder (99.7%)</li>
+<li>esophageal disease (99.4%)</li>
+<li>injury (98.6%)</li>
 <li>florid cemento-osseous dysplasia (98.0%)</li>
 <li>segmental odontomaxillary dysplasia (98.0%)</li>
-<li>radiation or chemically induced disorder (98.0%)</li>
-<li>disease by subcellular system affected (98.0%)</li>
-<li>folic acid deficiency anemia (97.0%)</li>
-<li>anemia of prematurity (97.0%)</li>
-<li>iatrogenic disease (97.0%)</li>
-<li>cell proliferation disorder (97.0%)</li>
-<li>regional odontodysplasia (97.0%)</li>
-<li>Keshan disease (96.0%)</li>
-<li>steatitis (96.0%)</li>
-<li>ariboflavinosis (96.0%)</li>
-<li>potassium deficiency (96.0%)</li>
-<li>choline deficiency disease (96.0%)</li>
-<li>swayback (96.0%)</li>
-<li>esophageal ulcer (96.0%)</li>
-<li>protein-energy malnutrition (96.0%)</li>
-<li>inborn error of biotin metabolism (96.0%)</li>
-<li>magnesium deficiency (96.0%)</li>
-<li>IRIDA syndrome (92.0%)</li>
-<li>vitamin A deficiency (disease) (92.0%)</li>
-<li>filariasis (90.0%)</li>
-<li>hypochromic anemia (85.0%)</li>
+<li>perinatal disease (98.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/iron/' | relative_url }}">医薬品レポート全文を見る →</a></p>

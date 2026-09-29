@@ -3,7 +3,7 @@ layout: default
 title: "グリミクロン錠４０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "グリミクロン錠４０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 12 件。"
+description: "グリミクロン錠４０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/gliclazide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/gliclazide/
 ---
 
 <p class="key-answer" data-question="グリミクロン錠４０ｍｇ（選） に関するニュースは？">
-<strong>グリミクロン錠４０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 12 件です。
+<strong>グリミクロン錠４０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,18 +25,16 @@ permalink: /news/gliclazide/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（12 件）</strong>:<ul>
-<li>diabetes mellitus (disease) (97.0%)</li>
-<li>focal stiff limb syndrome (97.0%)</li>
-<li>classic stiff person syndrome (97.0%)</li>
-<li>thiamine-responsive dysfunction syndrome (97.0%)</li>
-<li>opsismodysplasia (97.0%)</li>
-<li>pancreatic agenesis (96.0%)</li>
-<li>drug-induced localized lipodystrophy (96.0%)</li>
-<li>centrifugal lipodystrophy (96.0%)</li>
-<li>pressure-induced localized lipoatrophy (96.0%)</li>
-<li>idiopathic localized lipodystrophy (95.0%)</li>
-<li>type 2 diabetes mellitus (50.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>focal stiff limb syndrome (98.0%)</li>
+<li>classic stiff person syndrome (98.0%)</li>
+<li>thiamine-responsive dysfunction syndrome (97.8%)</li>
+<li>opsismodysplasia (97.7%)</li>
+<li>pancreatic agenesis (96.6%)</li>
+<li>drug-induced localized lipodystrophy (96.4%)</li>
+<li>centrifugal lipodystrophy (96.2%)</li>
+<li>pressure-induced localized lipoatrophy (96.1%)</li>
+<li>idiopathic localized lipodystrophy (95.9%)</li>
 <li>autoimmune oophoritis (88.2%)</li>
 </ul></li>
 </ul>

@@ -3,7 +3,7 @@ layout: default
 title: "クラビット点眼液１．５％（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "クラビット点眼液１．５％（選） に関する健康ニュース。既存適応症：。予測適応症 50 件。"
+description: "クラビット点眼液１．５％（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/levofloxacin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/levofloxacin/
 ---
 
 <p class="key-answer" data-question="クラビット点眼液１．５％（選） に関するニュースは？">
-<strong>クラビット点眼液１．５％（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 50 件です。
+<strong>クラビット点眼液１．５％（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,57 +25,17 @@ permalink: /news/levofloxacin/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（50 件）</strong>:<ul>
-<li>conjunctivitis (99.0%)</li>
-<li>acute contagious conjunctivitis (99.0%)</li>
-<li>punctate epithelial keratoconjunctivitis (99.0%)</li>
-<li>hyperamylasemia (99.0%)</li>
-<li>polyclonal hyperviscosity syndrome (99.0%)</li>
-<li>congenital analbuminemia (99.0%)</li>
-<li>blood group incompatibility (99.0%)</li>
-<li>premalignant hematological system disease (99.0%)</li>
-<li>monoclonal gammopathy (99.0%)</li>
-<li>hematological disease associated with an acquired peripheral neuropathy (99.0%)</li>
-<li>septicemic plague (99.0%)</li>
-<li>congenital hematological disorder (99.0%)</li>
-<li>post-infectious syndrome (99.0%)</li>
-<li>postinfectious vasculitis (99.0%)</li>
-<li>otitis externa (99.0%)</li>
-<li>post-bacterial disorder (99.0%)</li>
-<li>infective urethral stricture (99.0%)</li>
-<li>infection-related hemolytic uremic syndrome (99.0%)</li>
-<li>Chagas cardiomyopathy (99.0%)</li>
-<li>exposure keratitis (99.0%)</li>
-<li>bronchitis (99.0%)</li>
-<li>bubonic plague (99.0%)</li>
-<li>non-human animal disease (99.0%)</li>
-<li>cystitis (99.0%)</li>
-<li>hematopoietic and lymphoid system neoplasm (98.0%)</li>
-<li>L-ferritin deficiency (98.0%)</li>
-<li>lymphogranuloma venereum (98.0%)</li>
-<li>pneumonia (98.0%)</li>
-<li>chronic tubotympanic suppurative otitis media (97.0%)</li>
-<li>salmonellosis (97.0%)</li>
-<li>epidemic keratoconjunctivitis (97.0%)</li>
-<li>necrotizing ulcerative gingivitis (97.0%)</li>
-<li>gingivitis (97.0%)</li>
-<li>paratyphoid fever (97.0%)</li>
-<li>streptococcal pneumonia (96.0%)</li>
-<li>neurotrophic keratopathy (96.0%)</li>
-<li>pericoronitis (96.0%)</li>
-<li>pneumonic plague (96.0%)</li>
-<li>chronic gingivitis (96.0%)</li>
-<li>trigonitis (96.0%)</li>
-<li>infectious otitis interna (96.0%)</li>
-<li>denture stomatitis (96.0%)</li>
-<li>chemotherapy-induced oral mucositis (96.0%)</li>
-<li>ulcerative stomatitis (96.0%)</li>
-<li>diffuse scleroderma (96.0%)</li>
-<li>amebic dysentery (96.0%)</li>
-<li>cat-scratch disease (96.0%)</li>
-<li>dysentery (96.0%)</li>
-<li>gingival recession (96.0%)</li>
-<li>axillary lymphadenitis (96.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>punctate epithelial keratoconjunctivitis (99.9%)</li>
+<li>hyperamylasemia (99.9%)</li>
+<li>polyclonal hyperviscosity syndrome (99.9%)</li>
+<li>congenital analbuminemia (99.9%)</li>
+<li>blood group incompatibility (99.8%)</li>
+<li>premalignant hematological system disease (99.8%)</li>
+<li>monoclonal gammopathy (99.8%)</li>
+<li>hematological disease associated with an acquired peripheral neuropathy (99.8%)</li>
+<li>septicemic plague (99.8%)</li>
+<li>congenital hematological disorder (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/levofloxacin/' | relative_url }}">医薬品レポート全文を見る →</a></p>

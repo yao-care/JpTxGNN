@@ -3,7 +3,7 @@ layout: default
 title: "オメプラゾール１０ｍｇ腸溶錠 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "オメプラゾール１０ｍｇ腸溶錠 に関する健康ニュース。既存適応症：。予測適応症 23 件。"
+description: "オメプラゾール１０ｍｇ腸溶錠 に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/omeprazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/omeprazole/
 ---
 
 <p class="key-answer" data-question="オメプラゾール１０ｍｇ腸溶錠 に関するニュースは？">
-<strong>オメプラゾール１０ｍｇ腸溶錠</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 23 件です。
+<strong>オメプラゾール１０ｍｇ腸溶錠</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,30 +25,17 @@ permalink: /news/omeprazole/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（23 件）</strong>:<ul>
-<li>duodenogastric reflux (99.0%)</li>
-<li>duodenal obstruction (99.0%)</li>
-<li>duodenal ulcer (disease) (99.0%)</li>
-<li>gastrin secretion abnormality (99.0%)</li>
-<li>gastric ulcer (disease) (98.0%)</li>
-<li>active peptic ulcer disease (98.0%)</li>
-<li>peptic esophagitis (98.0%)</li>
-<li>gastrojejunal ulcer (98.0%)</li>
-<li>peptic ulcer perforation (98.0%)</li>
-<li>Zollinger-Ellison syndrome (97.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>duodenogastric reflux (99.6%)</li>
+<li>duodenal obstruction (99.6%)</li>
+<li>active peptic ulcer disease (98.8%)</li>
+<li>gastrojejunal ulcer (98.5%)</li>
+<li>peptic ulcer perforation (98.5%)</li>
 <li>abnormality of glucagon secretion (97.0%)</li>
-<li>gastroduodenitis (96.0%)</li>
-<li>esophagitis (disease) (96.0%)</li>
-<li>Smouldering systemic mastocytosis (96.0%)</li>
-<li>lymphoadenopathic mastocytosis with eosinophilia (95.0%)</li>
-<li>duodenitis (95.0%)</li>
-<li>leather-bottle stomach (95.0%)</li>
-<li>peptic ulcer disease (94.0%)</li>
-<li>multiple endocrine neoplasia (94.0%)</li>
-<li>systemic mastocytosis (94.0%)</li>
-<li>nephrogenic syndrome of inappropriate antidiuresis (91.0%)</li>
-<li>acne (disease) (91.0%)</li>
-<li>gastroesophageal reflux disease (50.0%)</li>
+<li>gastroduodenitis (96.7%)</li>
+<li>Smouldering systemic mastocytosis (96.5%)</li>
+<li>lymphoadenopathic mastocytosis with eosinophilia (95.7%)</li>
+<li>duodenitis (95.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/omeprazole/' | relative_url }}">医薬品レポート全文を見る →</a></p>

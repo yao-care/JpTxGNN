@@ -3,7 +3,7 @@ layout: default
 title: "アクトスＯＤ錠３０　３０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "アクトスＯＤ錠３０　３０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 13 件。"
+description: "アクトスＯＤ錠３０　３０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/pioglitazone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pioglitazone/
 ---
 
 <p class="key-answer" data-question="アクトスＯＤ錠３０　３０ｍｇ（選） に関するニュースは？">
-<strong>アクトスＯＤ錠３０　３０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 13 件です。
+<strong>アクトスＯＤ錠３０　３０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,20 +25,17 @@ permalink: /news/pioglitazone/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（13 件）</strong>:<ul>
-<li>opsismodysplasia (99.0%)</li>
-<li>diabetes mellitus (disease) (99.0%)</li>
-<li>focal stiff limb syndrome (99.0%)</li>
-<li>classic stiff person syndrome (99.0%)</li>
-<li>thiamine-responsive dysfunction syndrome (99.0%)</li>
-<li>drug-induced localized lipodystrophy (99.0%)</li>
-<li>centrifugal lipodystrophy (99.0%)</li>
-<li>pressure-induced localized lipoatrophy (99.0%)</li>
-<li>idiopathic localized lipodystrophy (99.0%)</li>
-<li>pancreatic agenesis (99.0%)</li>
-<li>autoimmune oophoritis (98.0%)</li>
-<li>type 1 diabetes mellitus (98.0%)</li>
-<li>type 2 diabetes mellitus (65.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>opsismodysplasia (99.6%)</li>
+<li>focal stiff limb syndrome (99.5%)</li>
+<li>classic stiff person syndrome (99.5%)</li>
+<li>thiamine-responsive dysfunction syndrome (99.5%)</li>
+<li>drug-induced localized lipodystrophy (99.3%)</li>
+<li>centrifugal lipodystrophy (99.3%)</li>
+<li>pressure-induced localized lipoatrophy (99.2%)</li>
+<li>idiopathic localized lipodystrophy (99.2%)</li>
+<li>pancreatic agenesis (99.2%)</li>
+<li>autoimmune oophoritis (98.1%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pioglitazone/' | relative_url }}">医薬品レポート全文を見る →</a></p>

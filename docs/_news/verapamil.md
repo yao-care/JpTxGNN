@@ -3,7 +3,7 @@ layout: default
 title: "ワソラン錠４０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ワソラン錠４０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 28 件。"
+description: "ワソラン錠４０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/verapamil/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/verapamil/
 ---
 
 <p class="key-answer" data-question="ワソラン錠４０ｍｇ（選） に関するニュースは？">
-<strong>ワソラン錠４０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 28 件です。
+<strong>ワソラン錠４０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,35 +25,17 @@ permalink: /news/verapamil/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（28 件）</strong>:<ul>
-<li>Prinzmetal angina (99.0%)</li>
-<li>obsolete bundle branch block (99.0%)</li>
-<li>ventricular tachycardia (99.0%)</li>
-<li>malignant hypertensive renal disease (99.0%)</li>
-<li>malignant renovascular hypertension (99.0%)</li>
-<li>pulmonary hypertension owing to lung disease and/or hypoxia (99.0%)</li>
-<li>pulmonary hypertension with unclear multifactorial mechanism (99.0%)</li>
-<li>hypertensive disorder (99.0%)</li>
-<li>Braddock syndrome (99.0%)</li>
-<li>periodic paralysis with transient compartment-like syndrome (99.0%)</li>
-<li>obsolete susceptibility to ischemic stroke (98.0%)</li>
-<li>catecholaminergic polymorphic ventricular tachycardia (98.0%)</li>
-<li>arrhythmogenic right ventricular cardiomyopathy (98.0%)</li>
-<li>brain stem infarction (97.0%)</li>
-<li>incessant infant ventricular tachycardia (97.0%)</li>
-<li>cerebrovascular disorder (97.0%)</li>
-<li>chronic pulmonary heart disease (97.0%)</li>
-<li>intracerebral hemorrhage (97.0%)</li>
-<li>ABri amyloidosis (96.0%)</li>
-<li>autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome (95.0%)</li>
-<li>brain small vessel disease 1 with or without ocular anomalies (95.0%)</li>
-<li>cerebral artery occlusion (95.0%)</li>
-<li>stroke disorder (95.0%)</li>
-<li>cerebral infarction (94.0%)</li>
-<li>MRI defined brain infarct (94.0%)</li>
-<li>spinal cord ischemia (93.0%)</li>
-<li>cerebral arterial disease (92.0%)</li>
-<li>atrial fibrillation (disease) (86.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>obsolete bundle branch block (99.6%)</li>
+<li>malignant hypertensive renal disease (99.3%)</li>
+<li>malignant renovascular hypertension (99.3%)</li>
+<li>pulmonary hypertension with unclear multifactorial mechanism (99.3%)</li>
+<li>pulmonary hypertension owing to lung disease and/or hypoxia (99.3%)</li>
+<li>Braddock syndrome (99.2%)</li>
+<li>periodic paralysis with transient compartment-like syndrome (99.1%)</li>
+<li>obsolete susceptibility to ischemic stroke (98.7%)</li>
+<li>arrhythmogenic right ventricular cardiomyopathy (98.4%)</li>
+<li>brain stem infarction (97.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/verapamil/' | relative_url }}">医薬品レポート全文を見る →</a></p>

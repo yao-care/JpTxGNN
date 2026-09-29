@@ -3,7 +3,7 @@ layout: default
 title: "ハイボン錠２０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ハイボン錠２０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 11 件。"
+description: "ハイボン錠２０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/riboflavin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/riboflavin/
 ---
 
 <p class="key-answer" data-question="ハイボン錠２０ｍｇ（選） に関するニュースは？">
-<strong>ハイボン錠２０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 11 件です。
+<strong>ハイボン錠２０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,9 +25,8 @@ permalink: /news/riboflavin/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（11 件）</strong>:<ul>
-<li>biotin metabolic disease (94.0%)</li>
-<li>vitamin deficiency disorder (93.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>biotin metabolic disease (94.9%)</li>
 <li>congenital prothrombin deficiency (79.8%)</li>
 <li>corneal pigmentation (63.7%)</li>
 <li>type II mixed cryoglobulinemia (61.1%)</li>

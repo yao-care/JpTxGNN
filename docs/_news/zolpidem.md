@@ -3,7 +3,7 @@ layout: default
 title: "マイスリー錠１０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "マイスリー錠１０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 15 件。"
+description: "マイスリー錠１０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/zolpidem/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/zolpidem/
 ---
 
 <p class="key-answer" data-question="マイスリー錠１０ｍｇ（選） に関するニュースは？">
-<strong>マイスリー錠１０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 15 件です。
+<strong>マイスリー錠１０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,22 +25,17 @@ permalink: /news/zolpidem/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（15 件）</strong>:<ul>
-<li>insomnia (disease) (99.0%)</li>
-<li>sleep disorder, initiating and maintaining sleep (99.0%)</li>
-<li>benign paroxysmal torticollis of infancy (99.0%)</li>
-<li>agoraphobia (99.0%)</li>
-<li>anxiety disorder (99.0%)</li>
-<li>acute encephalopathy with biphasic seizures and late reduced diffusion (98.0%)</li>
-<li>Wernicke-Korsakoff syndrome (96.0%)</li>
-<li>manic bipolar affective disorder (95.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>sleep disorder, initiating and maintaining sleep (99.9%)</li>
+<li>benign paroxysmal torticollis of infancy (99.3%)</li>
+<li>agoraphobia (99.2%)</li>
+<li>acute encephalopathy with biphasic seizures and late reduced diffusion (99.0%)</li>
+<li>Wernicke-Korsakoff syndrome (96.8%)</li>
+<li>manic bipolar affective disorder (95.9%)</li>
 <li>alcohol withdrawal (95.0%)</li>
-<li>major affective disorder (94.0%)</li>
-<li>anxiety (94.0%)</li>
-<li>epilepsy, childhood absence, susceptibility to (92.0%)</li>
-<li>inherited prion disease (91.0%)</li>
-<li>restless legs syndrome (90.0%)</li>
-<li>trichotillomania (90.0%)</li>
+<li>major affective disorder (94.9%)</li>
+<li>anxiety (94.7%)</li>
+<li>epilepsy, childhood absence, susceptibility to (92.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/zolpidem/' | relative_url }}">医薬品レポート全文を見る →</a></p>

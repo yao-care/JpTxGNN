@@ -3,7 +3,7 @@ layout: default
 title: "ソラナックス０．４ｍｇ錠（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ソラナックス０．４ｍｇ錠（選） に関する健康ニュース。既存適応症：。予測適応症 35 件。"
+description: "ソラナックス０．４ｍｇ錠（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/alprazolam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alprazolam/
 ---
 
 <p class="key-answer" data-question="ソラナックス０．４ｍｇ錠（選） に関するニュースは？">
-<strong>ソラナックス０．４ｍｇ錠（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 35 件です。
+<strong>ソラナックス０．４ｍｇ錠（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,42 +25,17 @@ permalink: /news/alprazolam/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（35 件）</strong>:<ul>
-<li>anxiety disorder (99.0%)</li>
-<li>insomnia (disease) (99.0%)</li>
-<li>benign paroxysmal torticollis of infancy (99.0%)</li>
-<li>agoraphobia (99.0%)</li>
-<li>mixed anxiety and depressive disorder (98.0%)</li>
-<li>attention deficit-hyperactivity disorder (98.0%)</li>
-<li>attention deficit hyperactivity disorder, inattentive type (98.0%)</li>
-<li>obsessive-compulsive disorder (98.0%)</li>
-<li>chondromyxoid fibroma (98.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>insomnia (disease) (99.8%)</li>
+<li>benign paroxysmal torticollis of infancy (99.6%)</li>
+<li>agoraphobia (99.6%)</li>
+<li>attention deficit-hyperactivity disorder (99.0%)</li>
+<li>attention deficit hyperactivity disorder, inattentive type (98.6%)</li>
+<li>obsessive-compulsive disorder (98.2%)</li>
+<li>chondromyxoid fibroma (98.1%)</li>
 <li>specific developmental disorder (98.0%)</li>
-<li>anxiety (97.0%)</li>
-<li>faciodigitogenital syndrome (97.0%)</li>
-<li>phobic disorder (97.0%)</li>
-<li>histrionic personality disorder (disease) (96.0%)</li>
-<li>paranoid personality disorder (96.0%)</li>
-<li>schizoid personality disorder (96.0%)</li>
-<li>schizotypal personality disorder (96.0%)</li>
-<li>sleep disorder, initiating and maintaining sleep (96.0%)</li>
-<li>dysthymic disorder (96.0%)</li>
-<li>endogenous depression (93.0%)</li>
-<li>major depressive disorder (93.0%)</li>
-<li>manic bipolar affective disorder (93.0%)</li>
-<li>major affective disorder (92.0%)</li>
-<li>acute encephalopathy with biphasic seizures and late reduced diffusion (92.0%)</li>
-<li>dependent personality disorder (91.0%)</li>
-<li>neurotic depression (91.0%)</li>
-<li>melancholia (91.0%)</li>
-<li>unipolar depression (91.0%)</li>
-<li>narcissistic personality disorder (91.0%)</li>
-<li>REM sleep behavior disorder (90.0%)</li>
-<li>Ohdo syndrome and variants (90.0%)</li>
-<li>avoidant personality disorder (90.0%)</li>
-<li>neurotic disorder (90.0%)</li>
-<li>myofascial pain syndrome (90.0%)</li>
-<li>Keppen-Lubinsky syndrome (90.0%)</li>
+<li>faciodigitogenital syndrome (98.0%)</li>
+<li>phobic disorder (97.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/alprazolam/' | relative_url }}">医薬品レポート全文を見る →</a></p>

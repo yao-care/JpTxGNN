@@ -3,7 +3,7 @@ layout: default
 title: "ビタミンＢ６錠３０ｍｇ「Ｆ」 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ビタミンＢ６錠３０ｍｇ「Ｆ」 に関する健康ニュース。既存適応症：。予測適応症 11 件。"
+description: "ビタミンＢ６錠３０ｍｇ「Ｆ」 に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/pyridoxine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pyridoxine/
 ---
 
 <p class="key-answer" data-question="ビタミンＢ６錠３０ｍｇ「Ｆ」 に関するニュースは？">
-<strong>ビタミンＢ６錠３０ｍｇ「Ｆ」</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 11 件です。
+<strong>ビタミンＢ６錠３０ｍｇ「Ｆ」</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,13 +25,12 @@ permalink: /news/pyridoxine/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（11 件）</strong>:<ul>
-<li>Ureaplasma urethritis (93.0%)</li>
-<li>gonococcal urethritis (93.0%)</li>
-<li>urinary tract infection (disease) (93.0%)</li>
-<li>uterine inflammatory disease (92.0%)</li>
-<li>xanthogranulomatous pyelonephritis (92.0%)</li>
-<li>pyridoxine deficiency anemia (84.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>Ureaplasma urethritis (93.9%)</li>
+<li>gonococcal urethritis (93.9%)</li>
+<li>urinary tract infection (disease) (93.6%)</li>
+<li>uterine inflammatory disease (92.5%)</li>
+<li>xanthogranulomatous pyelonephritis (92.3%)</li>
 <li>congenital prothrombin deficiency (88.3%)</li>
 <li>toxocariasis (86.3%)</li>
 <li>toxascariasis (85.8%)</li>

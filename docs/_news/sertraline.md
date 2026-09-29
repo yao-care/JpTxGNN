@@ -3,7 +3,7 @@ layout: default
 title: "ジェイゾロフトＯＤ錠１００ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ジェイゾロフトＯＤ錠１００ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 40 件。"
+description: "ジェイゾロフトＯＤ錠１００ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/sertraline/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/sertraline/
 ---
 
 <p class="key-answer" data-question="ジェイゾロフトＯＤ錠１００ｍｇ（選） に関するニュースは？">
-<strong>ジェイゾロフトＯＤ錠１００ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 40 件です。
+<strong>ジェイゾロフトＯＤ錠１００ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,47 +25,17 @@ permalink: /news/sertraline/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（40 件）</strong>:<ul>
-<li>dysthymic disorder (99.0%)</li>
-<li>obsessive-compulsive disorder (99.0%)</li>
-<li>anxiety disorder (99.0%)</li>
-<li>schizoid personality disorder (99.0%)</li>
-<li>schizotypal personality disorder (99.0%)</li>
-<li>paranoid personality disorder (99.0%)</li>
-<li>histrionic personality disorder (disease) (99.0%)</li>
-<li>benign paroxysmal torticollis of infancy (99.0%)</li>
-<li>agoraphobia (99.0%)</li>
-<li>dependent personality disorder (99.0%)</li>
-<li>narcissistic personality disorder (99.0%)</li>
-<li>endogenous depression (98.0%)</li>
-<li>major depressive disorder (98.0%)</li>
-<li>phobic disorder (97.0%)</li>
-<li>manic bipolar affective disorder (97.0%)</li>
-<li>avoidant personality disorder (97.0%)</li>
-<li>Ohdo syndrome and variants (97.0%)</li>
-<li>myofascial pain syndrome (97.0%)</li>
-<li>blepharophimosis - intellectual disability syndrome, Ohdo type (97.0%)</li>
-<li>melancholia (97.0%)</li>
-<li>neurotic depression (97.0%)</li>
-<li>attention deficit-hyperactivity disorder (97.0%)</li>
-<li>trigeminal nerve neoplasm (96.0%)</li>
-<li>chondromyxoid fibroma (96.0%)</li>
-<li>major affective disorder (95.0%)</li>
-<li>attention deficit hyperactivity disorder, inattentive type (95.0%)</li>
-<li>Keppen-Lubinsky syndrome (95.0%)</li>
-<li>faciodigitogenital syndrome (95.0%)</li>
-<li>unipolar depression (94.0%)</li>
-<li>specific developmental disorder (94.0%)</li>
-<li>vitamin B12-responsive methylmalonic acidemia (94.0%)</li>
-<li>post-traumatic stress disorder (93.0%)</li>
-<li>ligneous conjunctivitis (93.0%)</li>
-<li>neurotic disorder (92.0%)</li>
-<li>childhood apraxia of speech (92.0%)</li>
-<li>congenital isolated adrenocorticotropic hormone deficiency (disease) (92.0%)</li>
-<li>bipolar disorder (92.0%)</li>
-<li>autosomal dominant slowed nerve conduction velocity (91.0%)</li>
-<li>surfactant metabolism dysfunction, pulmonary (91.0%)</li>
-<li>social phobia (50.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>histrionic personality disorder (disease) (99.9%)</li>
+<li>schizotypal personality disorder (99.9%)</li>
+<li>paranoid personality disorder (99.9%)</li>
+<li>schizoid personality disorder (99.9%)</li>
+<li>benign paroxysmal torticollis of infancy (99.5%)</li>
+<li>agoraphobia (99.5%)</li>
+<li>dependent personality disorder (99.2%)</li>
+<li>narcissistic personality disorder (99.1%)</li>
+<li>endogenous depression (98.6%)</li>
+<li>major depressive disorder (98.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/sertraline/' | relative_url }}">医薬品レポート全文を見る →</a></p>

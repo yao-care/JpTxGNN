@@ -3,7 +3,7 @@ layout: default
 title: "ユニコン錠１００　１００ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ユニコン錠１００　１００ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 49 件。"
+description: "ユニコン錠１００　１００ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/theophylline/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/theophylline/
 ---
 
 <p class="key-answer" data-question="ユニコン錠１００　１００ｍｇ（選） に関するニュースは？">
-<strong>ユニコン錠１００　１００ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 49 件です。
+<strong>ユニコン錠１００　１００ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,56 +25,17 @@ permalink: /news/theophylline/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（49 件）</strong>:<ul>
-<li>bronchitis (99.0%)</li>
-<li>thrombotic disease (99.0%)</li>
-<li>nasal cavity disease (99.0%)</li>
-<li>laryngotracheitis (99.0%)</li>
-<li>tracheal disease (99.0%)</li>
-<li>obstructive lung disease (99.0%)</li>
-<li>pharyngitis (99.0%)</li>
-<li>acute laryngopharyngitis (99.0%)</li>
-<li>pulmonary emphysema (98.0%)</li>
-<li>lung disease (98.0%)</li>
-<li>bronchial neoplasm (disease) (98.0%)</li>
-<li>respiratory malformation (98.0%)</li>
-<li>massive neonatal aspiration syndrome (98.0%)</li>
-<li>hantavirus infectious disease (98.0%)</li>
-<li>meconium aspiration syndrome (98.0%)</li>
-<li>respiratory syncytial virus bronchiolitis (98.0%)</li>
-<li>Rienhoff syndrome (98.0%)</li>
-<li>headache disorder (97.0%)</li>
-<li>vein disease (97.0%)</li>
-<li>trigeminal autonomic cephalalgia (97.0%)</li>
-<li>common cold (96.0%)</li>
-<li>faucial diphtheria (95.0%)</li>
-<li>cervical disc degenerative disorder (95.0%)</li>
-<li>lipid pneumonia (95.0%)</li>
-<li>anaphylaxis (95.0%)</li>
-<li>food-dependent exercise-induced anaphylaxis (94.0%)</li>
-<li>angiodysplasia (93.0%)</li>
-<li>anorectal stricture (93.0%)</li>
-<li>anal polyp (93.0%)</li>
-<li>bronchial disease (92.0%)</li>
-<li>venous thromboembolism (92.0%)</li>
-<li>fibrocartilaginous embolism (92.0%)</li>
-<li>atopic eczema (92.0%)</li>
-<li>non-inflammatory vasculopathy (92.0%)</li>
-<li>proctitis (92.0%)</li>
-<li>interstitial lung disease specific to childhood (92.0%)</li>
-<li>allergic asthma (91.0%)</li>
-<li>congenital renal artery stenosis (91.0%)</li>
-<li>heart conduction disease (91.0%)</li>
-<li>exposure-related interstitial lung disease (91.0%)</li>
-<li>intrinsic asthma (90.0%)</li>
-<li>obsolete rare pulmonary disease (90.0%)</li>
-<li>heart valve disease (90.0%)</li>
-<li>heart neoplasm (90.0%)</li>
-<li>scalp dermatosis (90.0%)</li>
-<li>endobronchial leiomyoma (90.0%)</li>
-<li>congenital anomaly of ventricular septum (90.0%)</li>
-<li>endobronchial lipoma (90.0%)</li>
-<li>cough variant asthma (90.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>thrombotic disease (99.6%)</li>
+<li>nasal cavity disease (99.5%)</li>
+<li>laryngotracheitis (99.5%)</li>
+<li>tracheal disease (99.5%)</li>
+<li>obstructive lung disease (99.5%)</li>
+<li>pharyngitis (99.5%)</li>
+<li>acute laryngopharyngitis (99.3%)</li>
+<li>bronchial neoplasm (disease) (98.9%)</li>
+<li>respiratory malformation (98.9%)</li>
+<li>massive neonatal aspiration syndrome (98.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/theophylline/' | relative_url }}">医薬品レポート全文を見る →</a></p>

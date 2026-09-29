@@ -3,7 +3,7 @@ layout: default
 title: "レベチラセタム粒状錠５００ｍｇ「サワイ」 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "レベチラセタム粒状錠５００ｍｇ「サワイ」 に関する健康ニュース。既存適応症：。予測適応症 24 件。"
+description: "レベチラセタム粒状錠５００ｍｇ「サワイ」 に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/levetiracetam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/levetiracetam/
 ---
 
 <p class="key-answer" data-question="レベチラセタム粒状錠５００ｍｇ「サワイ」 に関するニュースは？">
-<strong>レベチラセタム粒状錠５００ｍｇ「サワイ」</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 24 件です。
+<strong>レベチラセタム粒状錠５００ｍｇ「サワイ」</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,31 +25,17 @@ permalink: /news/levetiracetam/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（24 件）</strong>:<ul>
-<li>partial epilepsy (99.0%)</li>
-<li>visual epilepsy (99.0%)</li>
-<li>startle epilepsy (99.0%)</li>
-<li>orgasm-induced seizures (99.0%)</li>
-<li>micturation-induced seizures (99.0%)</li>
-<li>thinking seizures (99.0%)</li>
-<li>eating seizures (99.0%)</li>
-<li>audiogenic seizures (99.0%)</li>
-<li>reading seizures (99.0%)</li>
-<li>status epilepticus (99.0%)</li>
-<li>beta-ketothiolase deficiency (99.0%)</li>
-<li>14q12 microdeletion syndrome (99.0%)</li>
-<li>Rett syndrome, congenital variant (99.0%)</li>
-<li>restless legs syndrome (99.0%)</li>
-<li>adolescent/adult onset autosomal dominant epilepsy with auditory features (99.0%)</li>
-<li>epilepsy with generalized tonic-clonic seizures (99.0%)</li>
-<li>guanidinoacetate methyltransferase deficiency (99.0%)</li>
-<li>partial motor epilepsy (99.0%)</li>
-<li>trigeminal nerve neoplasm (99.0%)</li>
-<li>epilepsy (99.0%)</li>
-<li>trigeminal neuralgia (98.0%)</li>
-<li>electroclinical syndrome (96.0%)</li>
-<li>myoclonic-atonic epilepsy (95.0%)</li>
-<li>myofascial pain syndrome (91.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>visual epilepsy (100.0%)</li>
+<li>micturation-induced seizures (100.0%)</li>
+<li>orgasm-induced seizures (100.0%)</li>
+<li>audiogenic seizures (100.0%)</li>
+<li>thinking seizures (100.0%)</li>
+<li>eating seizures (100.0%)</li>
+<li>startle epilepsy (100.0%)</li>
+<li>reading seizures (99.9%)</li>
+<li>status epilepticus (99.9%)</li>
+<li>beta-ketothiolase deficiency (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/levetiracetam/' | relative_url }}">医薬品レポート全文を見る →</a></p>

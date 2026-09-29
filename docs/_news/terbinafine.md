@@ -3,7 +3,7 @@ layout: default
 title: "ラミシール錠１２５ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ラミシール錠１２５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 14 件。"
+description: "ラミシール錠１２５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/terbinafine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/terbinafine/
 ---
 
 <p class="key-answer" data-question="ラミシール錠１２５ｍｇ（選） に関するニュースは？">
-<strong>ラミシール錠１２５ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 14 件です。
+<strong>ラミシール錠１２５ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,19 +25,15 @@ permalink: /news/terbinafine/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（14 件）</strong>:<ul>
-<li>tinea corporis (99.0%)</li>
-<li>tinea pedis (98.0%)</li>
-<li>dermatophytosis of groin and perianal area (97.0%)</li>
-<li>creeping myiasis (96.0%)</li>
-<li>wound myiasis (96.0%)</li>
-<li>furuncular myiasis (96.0%)</li>
-<li>myiasis (96.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>creeping myiasis (96.7%)</li>
+<li>wound myiasis (96.7%)</li>
+<li>furuncular myiasis (96.7%)</li>
+<li>myiasis (96.2%)</li>
 <li>cutaneous candidiasis (95.0%)</li>
-<li>toxoplasmosis (94.0%)</li>
-<li>pityriasis versicolor (92.0%)</li>
-<li>blastomycosis (91.0%)</li>
-<li>tinea manuum (90.0%)</li>
+<li>toxoplasmosis (94.8%)</li>
+<li>blastomycosis (91.8%)</li>
+<li>tinea manuum (90.1%)</li>
 <li>echinococcus granulosus infectious disease (86.1%)</li>
 <li>superficial mycosis (84.5%)</li>
 </ul></li>

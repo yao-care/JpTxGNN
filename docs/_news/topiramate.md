@@ -3,7 +3,7 @@ layout: default
 title: "トピナ錠２５ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "トピナ錠２５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 27 件。"
+description: "トピナ錠２５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/topiramate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/topiramate/
 ---
 
 <p class="key-answer" data-question="トピナ錠２５ｍｇ（選） に関するニュースは？">
-<strong>トピナ錠２５ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 27 件です。
+<strong>トピナ錠２５ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,34 +25,17 @@ permalink: /news/topiramate/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（27 件）</strong>:<ul>
-<li>trigeminal nerve neoplasm (99.0%)</li>
-<li>visual epilepsy (99.0%)</li>
-<li>orgasm-induced seizures (99.0%)</li>
-<li>thinking seizures (99.0%)</li>
-<li>startle epilepsy (99.0%)</li>
-<li>eating seizures (99.0%)</li>
-<li>audiogenic seizures (99.0%)</li>
-<li>micturation-induced seizures (99.0%)</li>
-<li>reading seizures (99.0%)</li>
-<li>trigeminal neuralgia (98.0%)</li>
-<li>beta-ketothiolase deficiency (97.0%)</li>
-<li>status epilepticus (97.0%)</li>
-<li>Rett syndrome, congenital variant (97.0%)</li>
-<li>14q12 microdeletion syndrome (96.0%)</li>
-<li>restless legs syndrome (95.0%)</li>
-<li>Lennox-Gastaut syndrome (94.0%)</li>
-<li>partial epilepsy (93.0%)</li>
-<li>partial motor epilepsy (93.0%)</li>
-<li>adolescent/adult onset autosomal dominant epilepsy with auditory features (93.0%)</li>
-<li>febrile infection-related epilepsy syndrome (93.0%)</li>
-<li>atypical childhood epilepsy with centrotemporal spikes (92.0%)</li>
-<li>cryptogenic late-onset epileptic spasms (92.0%)</li>
-<li>photosensitive occipital lobe epilepsy (92.0%)</li>
-<li>perioral myoclonia with absences (92.0%)</li>
-<li>epilepsy with generalized tonic-clonic seizures (91.0%)</li>
-<li>guanidinoacetate methyltransferase deficiency (91.0%)</li>
-<li>cutis verticis gyrata (91.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>trigeminal nerve neoplasm (99.7%)</li>
+<li>visual epilepsy (99.3%)</li>
+<li>micturation-induced seizures (99.2%)</li>
+<li>eating seizures (99.2%)</li>
+<li>thinking seizures (99.2%)</li>
+<li>audiogenic seizures (99.2%)</li>
+<li>startle epilepsy (99.2%)</li>
+<li>orgasm-induced seizures (99.2%)</li>
+<li>reading seizures (99.1%)</li>
+<li>trigeminal neuralgia (98.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/topiramate/' | relative_url }}">医薬品レポート全文を見る →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "プラスグレル錠５ｍｇ「ＤＳＥＰ」 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "プラスグレル錠５ｍｇ「ＤＳＥＰ」 に関する健康ニュース。既存適応症：。予測適応症 50 件。"
+description: "プラスグレル錠５ｍｇ「ＤＳＥＰ」 に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/prasugrel/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/prasugrel/
 ---
 
 <p class="key-answer" data-question="プラスグレル錠５ｍｇ「ＤＳＥＰ」 に関するニュースは？">
-<strong>プラスグレル錠５ｍｇ「ＤＳＥＰ」</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 50 件です。
+<strong>プラスグレル錠５ｍｇ「ＤＳＥＰ」</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,57 +25,17 @@ permalink: /news/prasugrel/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（50 件）</strong>:<ul>
-<li>pulmonary hypertension (99.0%)</li>
-<li>migraine disorder (99.0%)</li>
-<li>migraine with brainstem aura (99.0%)</li>
-<li>kyphoscoliotic heart disease (99.0%)</li>
-<li>rheumatoid arthritis (99.0%)</li>
-<li>homozygous familial hypercholesterolemia (99.0%)</li>
-<li>hypoalphalipoproteinemia (99.0%)</li>
-<li>migraine with or without aura, susceptibility to (99.0%)</li>
-<li>brachydactyly-syndactyly syndrome (99.0%)</li>
-<li>leprosy (99.0%)</li>
-<li>obsolete susceptibility to ischemic stroke (99.0%)</li>
-<li>atrophoderma vermiculata (99.0%)</li>
-<li>peripheral vascular disease (99.0%)</li>
-<li>hypertrichosis (disease) (99.0%)</li>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.0%)</li>
-<li>pulmonary hypertension, primary, autosomal recessive (99.0%)</li>
-<li>Prinzmetal angina (99.0%)</li>
-<li>peripheral arterial disease (99.0%)</li>
-<li>obsolete familial combined hyperlipidemia (99.0%)</li>
-<li>ulerythema ophryogenesis (99.0%)</li>
-<li>obsolete patella aplasia, coxa vara, and tarsal synostosis (99.0%)</li>
-<li>Ambras type hypertrichosis universalis congenita (99.0%)</li>
-<li>myelodysplastic syndrome (99.0%)</li>
-<li>gout (99.0%)</li>
-<li>tendinitis (99.0%)</li>
-<li>intermittent vascular claudication (99.0%)</li>
-<li>fibromyalgia (99.0%)</li>
-<li>malformation syndrome with odontal and/or periodontal component (99.0%)</li>
-<li>syndrome with a Dandy-Walker malformation as major feature (99.0%)</li>
-<li>headache disorder (99.0%)</li>
-<li>coxopodopatellar syndrome (99.0%)</li>
-<li>idiopathic granulomatous myositis (99.0%)</li>
-<li>myositis fibrosa (99.0%)</li>
-<li>unclassified myelodysplastic syndrome (99.0%)</li>
-<li>familial clubfoot due to 17q23.1q23.2 microduplication (99.0%)</li>
-<li>chromosome 17q23.1-q23.2 deletion syndrome (99.0%)</li>
-<li>partial deletion of the long arm of chromosome 5 (99.0%)</li>
-<li>refractory cytopenia of childhood (99.0%)</li>
-<li>aregenerative anemia (99.0%)</li>
-<li>isolated genetic hair shaft abnormality (99.0%)</li>
-<li>female breast carcinoma (99.0%)</li>
-<li>idiopathic pulmonary arterial hypertension (99.0%)</li>
-<li>idiopathic and/or familial pulmonary arterial hypertension (99.0%)</li>
-<li>severe congenital hypochromic anemia with ringed sideroblasts (99.0%)</li>
-<li>cor pulmonale (99.0%)</li>
-<li>nephrogenic syndrome of inappropriate antidiuresis (98.0%)</li>
-<li>heritable pulmonary arterial hypertension (98.0%)</li>
-<li>trigeminal autonomic cephalalgia (98.0%)</li>
-<li>intracranial arteriosclerosis (98.0%)</li>
-<li>pulmonary hypertension, primary (98.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>pulmonary hypertension (99.9%)</li>
+<li>migraine disorder (99.9%)</li>
+<li>migraine with brainstem aura (99.8%)</li>
+<li>kyphoscoliotic heart disease (99.8%)</li>
+<li>rheumatoid arthritis (99.7%)</li>
+<li>homozygous familial hypercholesterolemia (99.7%)</li>
+<li>hypoalphalipoproteinemia (99.7%)</li>
+<li>migraine with or without aura, susceptibility to (99.7%)</li>
+<li>brachydactyly-syndactyly syndrome (99.6%)</li>
+<li>leprosy (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/prasugrel/' | relative_url }}">医薬品レポート全文を見る →</a></p>

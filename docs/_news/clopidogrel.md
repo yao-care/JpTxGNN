@@ -3,7 +3,7 @@ layout: default
 title: "プラビックス錠７５ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "プラビックス錠７５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 50 件。"
+description: "プラビックス錠７５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/clopidogrel/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/clopidogrel/
 ---
 
 <p class="key-answer" data-question="プラビックス錠７５ｍｇ（選） に関するニュースは？">
-<strong>プラビックス錠７５ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 50 件です。
+<strong>プラビックス錠７５ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,57 +25,17 @@ permalink: /news/clopidogrel/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（50 件）</strong>:<ul>
-<li>migraine with brainstem aura (99.0%)</li>
-<li>migraine disorder (99.0%)</li>
-<li>osteoarthritis (99.0%)</li>
-<li>tendinitis (99.0%)</li>
-<li>idiopathic granulomatous myositis (99.0%)</li>
-<li>myositis fibrosa (99.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>migraine with brainstem aura (99.4%)</li>
+<li>migraine disorder (99.4%)</li>
+<li>osteoarthritis (99.2%)</li>
+<li>tendinitis (99.2%)</li>
+<li>myositis fibrosa (99.1%)</li>
+<li>idiopathic granulomatous myositis (99.1%)</li>
 <li>rheumatoid arthritis (99.0%)</li>
 <li>osteoarthritis susceptibility (99.0%)</li>
-<li>intracranial embolism (98.0%)</li>
-<li>pseudoachondroplasia (98.0%)</li>
-<li>fibromyalgia (98.0%)</li>
-<li>myofascial pain syndrome (98.0%)</li>
-<li>migraine with or without aura, susceptibility to (98.0%)</li>
-<li>hypoalphalipoproteinemia (98.0%)</li>
-<li>brachydactyly-syndactyly syndrome (98.0%)</li>
-<li>inclusion body myositis (98.0%)</li>
-<li>dermatofibrosarcoma protuberans (98.0%)</li>
-<li>acromesomelic dysplasia, Hunter-Thompson type (98.0%)</li>
-<li>atrophoderma vermiculata (98.0%)</li>
-<li>brachyolmia (98.0%)</li>
-<li>brachyolmia-amelogenesis imperfecta syndrome (98.0%)</li>
-<li>myosclerosis (98.0%)</li>
-<li>pulmonary hypertension (98.0%)</li>
-<li>Ambras type hypertrichosis universalis congenita (98.0%)</li>
-<li>ulerythema ophryogenesis (97.0%)</li>
-<li>arthropathy (97.0%)</li>
-<li>kyphoscoliotic heart disease (97.0%)</li>
-<li>malformation syndrome with odontal and/or periodontal component (97.0%)</li>
-<li>hypertrichosis (disease) (97.0%)</li>
-<li>syndrome with a Dandy-Walker malformation as major feature (97.0%)</li>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (97.0%)</li>
-<li>female breast carcinoma (97.0%)</li>
-<li>isolated genetic hair shaft abnormality (97.0%)</li>
-<li>frozen shoulder (97.0%)</li>
-<li>headache disorder (97.0%)</li>
-<li>sciatic neuropathy (97.0%)</li>
-<li>uterine corpus leiomyoma (96.0%)</li>
-<li>trigeminal autonomic cephalalgia (96.0%)</li>
-<li>pulmonary hypertension, primary, autosomal recessive (96.0%)</li>
-<li>fibroblastic neoplasm (96.0%)</li>
-<li>heart fibrosarcoma (96.0%)</li>
-<li>conventional fibrosarcoma (96.0%)</li>
-<li>kidney fibrosarcoma (96.0%)</li>
-<li>low grade fibromyxoid sarcoma (96.0%)</li>
-<li>obsolete vascular headache (96.0%)</li>
-<li>cluster headache syndrome (96.0%)</li>
-<li>homozygous familial hypercholesterolemia (96.0%)</li>
-<li>pulmonary arterial hypertension (95.0%)</li>
-<li>WHIM syndrome (95.0%)</li>
-<li>obsolete patella aplasia, coxa vara, and tarsal synostosis (95.0%)</li>
+<li>pseudoachondroplasia (98.9%)</li>
+<li>fibromyalgia (98.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/clopidogrel/' | relative_url }}">医薬品レポート全文を見る →</a></p>

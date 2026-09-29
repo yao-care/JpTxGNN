@@ -3,7 +3,7 @@ layout: default
 title: "クラリス錠５０小児用　５０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "クラリス錠５０小児用　５０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 26 件。"
+description: "クラリス錠５０小児用　５０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/clarithromycin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/clarithromycin/
 ---
 
 <p class="key-answer" data-question="クラリス錠５０小児用　５０ｍｇ（選） に関するニュースは？">
-<strong>クラリス錠５０小児用　５０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 26 件です。
+<strong>クラリス錠５０小児用　５０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,33 +25,17 @@ permalink: /news/clarithromycin/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（26 件）</strong>:<ul>
-<li>polyclonal hyperviscosity syndrome (99.0%)</li>
-<li>hyperamylasemia (99.0%)</li>
-<li>congenital analbuminemia (99.0%)</li>
-<li>punctate epithelial keratoconjunctivitis (99.0%)</li>
-<li>blood group incompatibility (99.0%)</li>
-<li>premalignant hematological system disease (98.0%)</li>
-<li>monoclonal gammopathy (98.0%)</li>
-<li>septicemic plague (98.0%)</li>
-<li>hematological disease associated with an acquired peripheral neuropathy (98.0%)</li>
-<li>congenital hematological disorder (98.0%)</li>
-<li>chronic tubotympanic suppurative otitis media (96.0%)</li>
-<li>bubonic plague (96.0%)</li>
-<li>exposure keratitis (95.0%)</li>
-<li>conjunctivitis (94.0%)</li>
-<li>Mycoplasma pneumoniae pneumonia (93.0%)</li>
-<li>bacterial pneumonia (91.0%)</li>
-<li>hematopoietic and lymphoid system neoplasm (91.0%)</li>
-<li>non-human animal disease (91.0%)</li>
-<li>lymphogranuloma venereum (90.0%)</li>
-<li>streptococcal pneumonia (87.0%)</li>
-<li>staphylococcus aureus infection (80.0%)</li>
-<li>pneumonia caused by chlamydia (79.0%)</li>
-<li>streptococcal infection (77.0%)</li>
-<li>infectious otitis media (68.0%)</li>
-<li>staphylococcal infection (50.0%)</li>
-<li>maxillary sinusitis (50.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>hyperamylasemia (99.3%)</li>
+<li>polyclonal hyperviscosity syndrome (99.3%)</li>
+<li>congenital analbuminemia (99.2%)</li>
+<li>punctate epithelial keratoconjunctivitis (99.1%)</li>
+<li>blood group incompatibility (99.1%)</li>
+<li>premalignant hematological system disease (98.9%)</li>
+<li>monoclonal gammopathy (98.8%)</li>
+<li>septicemic plague (98.7%)</li>
+<li>hematological disease associated with an acquired peripheral neuropathy (98.7%)</li>
+<li>congenital hematological disorder (98.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/clarithromycin/' | relative_url }}">医薬品レポート全文を見る →</a></p>

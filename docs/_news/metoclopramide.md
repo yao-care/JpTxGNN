@@ -3,7 +3,7 @@ layout: default
 title: "プリンペラン錠５　５ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "プリンペラン錠５　５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 21 件。"
+description: "プリンペラン錠５　５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/metoclopramide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/metoclopramide/
 ---
 
 <p class="key-answer" data-question="プリンペラン錠５　５ｍｇ（選） に関するニュースは？">
-<strong>プリンペラン錠５　５ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 21 件です。
+<strong>プリンペラン錠５　５ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,28 +25,17 @@ permalink: /news/metoclopramide/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（21 件）</strong>:<ul>
-<li>peptic esophagitis (99.0%)</li>
-<li>gastric ulcer (disease) (99.0%)</li>
-<li>gastroduodenitis (99.0%)</li>
-<li>peptic ulcer disease (99.0%)</li>
-<li>active peptic ulcer disease (99.0%)</li>
-<li>peptic ulcer perforation (99.0%)</li>
-<li>gastrojejunal ulcer (99.0%)</li>
-<li>esophagitis (disease) (98.0%)</li>
-<li>duodenal obstruction (97.0%)</li>
-<li>achlorhydria (97.0%)</li>
-<li>hiatus hernia (disease) (97.0%)</li>
-<li>pylorospasm (97.0%)</li>
-<li>gastric dilatation (97.0%)</li>
-<li>Dieulafoy lesion (97.0%)</li>
-<li>cascade stomach (97.0%)</li>
-<li>duodenogastric reflux (97.0%)</li>
-<li>duodenal ulcer (disease) (96.0%)</li>
-<li>hemorrhagic duodenitis (95.0%)</li>
-<li>leather-bottle stomach (95.0%)</li>
-<li>gastrin secretion abnormality (91.0%)</li>
-<li>gastroesophageal reflux disease (50.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>gastric ulcer (disease) (99.9%)</li>
+<li>gastroduodenitis (99.9%)</li>
+<li>peptic ulcer disease (99.8%)</li>
+<li>peptic ulcer perforation (99.8%)</li>
+<li>gastrojejunal ulcer (99.8%)</li>
+<li>duodenal obstruction (97.5%)</li>
+<li>achlorhydria (97.5%)</li>
+<li>hiatus hernia (disease) (97.4%)</li>
+<li>Dieulafoy lesion (97.1%)</li>
+<li>cascade stomach (97.1%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/metoclopramide/' | relative_url }}">医薬品レポート全文を見る →</a></p>

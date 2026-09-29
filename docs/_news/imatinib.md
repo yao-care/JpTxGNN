@@ -3,7 +3,7 @@ layout: default
 title: "グリベック錠１００ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "グリベック錠１００ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 50 件。"
+description: "グリベック錠１００ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/imatinib/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/imatinib/
 ---
 
 <p class="key-answer" data-question="グリベック錠１００ｍｇ（選） に関するニュースは？">
-<strong>グリベック錠１００ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 50 件です。
+<strong>グリベック錠１００ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,57 +25,17 @@ permalink: /news/imatinib/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（50 件）</strong>:<ul>
-<li>dermatofibrosarcoma protuberans (99.0%)</li>
-<li>heart fibrosarcoma (99.0%)</li>
-<li>fibroblastic neoplasm (99.0%)</li>
-<li>conventional fibrosarcoma (99.0%)</li>
-<li>kidney fibrosarcoma (99.0%)</li>
-<li>low grade fibromyxoid sarcoma (99.0%)</li>
-<li>liposarcoma (99.0%)</li>
-<li>liver fibrosarcoma (99.0%)</li>
-<li>autosomal recessive familial Mediterranean fever (99.0%)</li>
-<li>ovarian myxoid liposarcoma (99.0%)</li>
-<li>familial rhabdoid tumor (99.0%)</li>
-<li>benign PEComa (99.0%)</li>
-<li>uterine corpus perivascular epithelioid cell tumor (99.0%)</li>
-<li>lymphangiomyoma (99.0%)</li>
-<li>lymphangioleiomyomatosis (99.0%)</li>
-<li>bone fibrosarcoma (99.0%)</li>
-<li>cutaneous undifferentiated pleomorphic sarcoma (99.0%)</li>
-<li>cutaneous leiomyosarcoma (disease) (99.0%)</li>
-<li>central nervous system fibrosarcoma (99.0%)</li>
-<li>vulva sarcoma (99.0%)</li>
-<li>gallbladder leiomyosarcoma (99.0%)</li>
-<li>lung PEComa (99.0%)</li>
-<li>breast fibrosarcoma (99.0%)</li>
-<li>uterine corpus leiomyoma (99.0%)</li>
-<li>familial Mediterranean fever, autosomal dominant (99.0%)</li>
-<li>parameningeal embryonal rhabdomyosarcoma (99.0%)</li>
-<li>autoinflammatory syndrome with immune deficiency (99.0%)</li>
-<li>uterine corpus myxoid leiomyosarcoma (99.0%)</li>
-<li>botryoid-type embryonal rhabdomyosarcoma of the vagina (99.0%)</li>
-<li>leiomyosarcoma (99.0%)</li>
-<li>prostate embryonal rhabdomyosarcoma (99.0%)</li>
-<li>embryonal extrahepatic bile duct rhabdomyosarcoma (99.0%)</li>
-<li>extrahepatic bile duct rhabdomyosarcoma (99.0%)</li>
-<li>rhabdomyosarcoma (disease) (99.0%)</li>
-<li>mixed endometrial stromal and smooth muscle tumor (99.0%)</li>
-<li>uterine corpus epithelioid leiomyosarcoma (99.0%)</li>
-<li>anus leiomyosarcoma (99.0%)</li>
-<li>retroperitoneal sarcoma (99.0%)</li>
-<li>small intestinal sarcoma (99.0%)</li>
-<li>liver sarcoma (99.0%)</li>
-<li>myxofibrosarcoma (99.0%)</li>
-<li>mastocytosis (98.0%)</li>
-<li>familial Mediterranean fever (98.0%)</li>
-<li>situs inversus (98.0%)</li>
-<li>extracutaneous mastocytoma (98.0%)</li>
-<li>childhood malignant neoplasm (98.0%)</li>
-<li>aggressive systemic mastocytosis (98.0%)</li>
-<li>heart position anomaly (98.0%)</li>
-<li>basal ganglia calcification, idiopathic (98.0%)</li>
-<li>spindle cell liposarcoma (98.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>heart fibrosarcoma (99.9%)</li>
+<li>fibroblastic neoplasm (99.9%)</li>
+<li>conventional fibrosarcoma (99.9%)</li>
+<li>kidney fibrosarcoma (99.9%)</li>
+<li>low grade fibromyxoid sarcoma (99.9%)</li>
+<li>liposarcoma (99.9%)</li>
+<li>liver fibrosarcoma (99.9%)</li>
+<li>autosomal recessive familial Mediterranean fever (99.9%)</li>
+<li>ovarian myxoid liposarcoma (99.8%)</li>
+<li>familial rhabdoid tumor (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/imatinib/' | relative_url }}">医薬品レポート全文を見る →</a></p>

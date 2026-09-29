@@ -3,7 +3,7 @@ layout: default
 title: "ワイドシリン細粒２０％　２００ｍｇ 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ワイドシリン細粒２０％　２００ｍｇ に関する健康ニュース。既存適応症：。予測適応症 44 件。"
+description: "ワイドシリン細粒２０％　２００ｍｇ に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/amoxicillin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/amoxicillin/
 ---
 
 <p class="key-answer" data-question="ワイドシリン細粒２０％　２００ｍｇ に関するニュースは？">
-<strong>ワイドシリン細粒２０％　２００ｍｇ</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 44 件です。
+<strong>ワイドシリン細粒２０％　２００ｍｇ</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,51 +25,17 @@ permalink: /news/amoxicillin/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（44 件）</strong>:<ul>
-<li>polyclonal hyperviscosity syndrome (99.0%)</li>
-<li>hyperamylasemia (99.0%)</li>
-<li>congenital analbuminemia (99.0%)</li>
-<li>blood group incompatibility (99.0%)</li>
-<li>premalignant hematological system disease (99.0%)</li>
-<li>monoclonal gammopathy (99.0%)</li>
-<li>hematological disease associated with an acquired peripheral neuropathy (99.0%)</li>
-<li>septicemic plague (99.0%)</li>
-<li>congenital hematological disorder (98.0%)</li>
-<li>epiglottitis (98.0%)</li>
-<li>bubonic plague (97.0%)</li>
-<li>laryngitis (97.0%)</li>
-<li>pneumococcal meningitis (96.0%)</li>
-<li>urinary tract infection (disease) (95.0%)</li>
-<li>punctate epithelial keratoconjunctivitis (95.0%)</li>
-<li>pneumonic plague (95.0%)</li>
-<li>gonococcal urethritis (94.0%)</li>
-<li>Ureaplasma urethritis (94.0%)</li>
-<li>staphylococcal pneumonia (94.0%)</li>
-<li>fungal lung infectious disease (94.0%)</li>
-<li>hematopoietic and lymphoid system neoplasm (94.0%)</li>
-<li>laryngeal diphtheria (94.0%)</li>
-<li>silicotuberculosis (93.0%)</li>
-<li>pleural tuberculosis (93.0%)</li>
-<li>acute gonococcal endometritis (93.0%)</li>
-<li>uterine inflammatory disease (92.0%)</li>
-<li>xanthogranulomatous pyelonephritis (92.0%)</li>
-<li>non specific chronic endometritis (92.0%)</li>
-<li>granulomatous endometritis (92.0%)</li>
-<li>pyoureter (92.0%)</li>
-<li>staphylococcus aureus infection (91.0%)</li>
-<li>pyelitis (91.0%)</li>
-<li>urogenital tuberculosis (90.0%)</li>
-<li>endometrial disease (90.0%)</li>
-<li>rhinoscleroma (89.0%)</li>
-<li>streptococcal pneumonia (87.0%)</li>
-<li>streptococcal infection (86.0%)</li>
-<li>bacterial pneumonia (84.0%)</li>
-<li>infectious otitis media (82.0%)</li>
-<li>staphylococcus aureus pneumonia (59.0%)</li>
-<li>Klebsiella pneumonia (54.0%)</li>
-<li>pharyngitis (50.0%)</li>
-<li>staphylococcal infection (50.0%)</li>
-<li>escherichia coli infection (50.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>hyperamylasemia (99.6%)</li>
+<li>polyclonal hyperviscosity syndrome (99.6%)</li>
+<li>congenital analbuminemia (99.6%)</li>
+<li>blood group incompatibility (99.4%)</li>
+<li>premalignant hematological system disease (99.3%)</li>
+<li>monoclonal gammopathy (99.2%)</li>
+<li>hematological disease associated with an acquired peripheral neuropathy (99.1%)</li>
+<li>septicemic plague (99.1%)</li>
+<li>congenital hematological disorder (98.7%)</li>
+<li>epiglottitis (98.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/amoxicillin/' | relative_url }}">医薬品レポート全文を見る →</a></p>

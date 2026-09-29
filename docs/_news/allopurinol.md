@@ -3,7 +3,7 @@ layout: default
 title: "ザイロリック錠１００　１００ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ザイロリック錠１００　１００ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 50 件。"
+description: "ザイロリック錠１００　１００ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/allopurinol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/allopurinol/
 ---
 
 <p class="key-answer" data-question="ザイロリック錠１００　１００ｍｇ（選） に関するニュースは？">
-<strong>ザイロリック錠１００　１００ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 50 件です。
+<strong>ザイロリック錠１００　１００ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,57 +25,17 @@ permalink: /news/allopurinol/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（50 件）</strong>:<ul>
-<li>gout (99.0%)</li>
-<li>hepatic porphyria (99.0%)</li>
-<li>hepatoportal sclerosis (99.0%)</li>
-<li>hepatopulmonary syndrome (99.0%)</li>
-<li>early-onset familial noncirrhotic portal hypertension (99.0%)</li>
-<li>idiopathic copper-associated cirrhosis (99.0%)</li>
-<li>primitive portal vein thrombosis (99.0%)</li>
-<li>disorder of phenylalanine metabolism (99.0%)</li>
-<li>immune-mediated necrotizing myopathy (99.0%)</li>
-<li>antisynthetase syndrome (99.0%)</li>
-<li>inflammatory myopathy with abundant macrophages (99.0%)</li>
-<li>idiopathic eosinophilic myositis (99.0%)</li>
-<li>focal myositis (99.0%)</li>
-<li>glycogen storage disease due to hepatic glycogen synthase deficiency (99.0%)</li>
-<li>G6PD deficiency (99.0%)</li>
-<li>disorder of tyrosine metabolism (99.0%)</li>
-<li>teratogenic Pierre Robin syndrome (99.0%)</li>
-<li>selective IgG immunodeficiency (99.0%)</li>
-<li>Lesch-Nyhan syndrome (99.0%)</li>
-<li>tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuria (99.0%)</li>
-<li>obsolete hyperuricemia (disease) (99.0%)</li>
-<li>galactosemia (99.0%)</li>
-<li>hypouricemia, renal (99.0%)</li>
-<li>sclerosing cholangitis (99.0%)</li>
-<li>granulomatous disease, chronic, X-linked (99.0%)</li>
-<li>anemia, nonspherocytic hemolytic, due to G6PD deficiency (99.0%)</li>
-<li>selective IgG subclass deficiency (99.0%)</li>
-<li>dermatomyositis (99.0%)</li>
-<li>mitochondrial oxidative phosphorylation disorder due to nuclear DNA anomalies (99.0%)</li>
-<li>genetic otorhinolaryngological malformation (99.0%)</li>
-<li>cystinosis (99.0%)</li>
-<li>acute urate nephropathy (99.0%)</li>
-<li>recurrent infections associated with rare immunoglobulin isotypes deficiency (99.0%)</li>
-<li>neonatal epileptic encephalopathy due to glutaminase deficiency (99.0%)</li>
-<li>galactokinase deficiency (99.0%)</li>
-<li>idiopathic bilateral vestibulopathy (99.0%)</li>
-<li>semicircular canal dehiscence syndrome (99.0%)</li>
-<li>juvenile nasopharyngeal angiofibroma (disease) (99.0%)</li>
-<li>familial nasal acilia (99.0%)</li>
-<li>silent sinus syndrome (99.0%)</li>
-<li>inborn disorder of histidine metabolism (99.0%)</li>
-<li>tetrahydrobiopterin metabolic process disease (99.0%)</li>
-<li>cerebral creatine deficiency syndrome (99.0%)</li>
-<li>inborn disorder of phenylalanin or tyrosine metabolism (99.0%)</li>
-<li>hypoxanthine guanine phosphoribosyltransferase partial deficiency (99.0%)</li>
-<li>3-hydroxyisobutyryl-CoA hydrolase deficiency (99.0%)</li>
-<li>phenylketonuria (99.0%)</li>
-<li>paraplegia (99.0%)</li>
-<li>inborn disorder of ornithine metabolism (99.0%)</li>
-<li>renal tubular acidosis (99.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>hepatic porphyria (100.0%)</li>
+<li>idiopathic copper-associated cirrhosis (99.9%)</li>
+<li>hepatoportal sclerosis (99.9%)</li>
+<li>primitive portal vein thrombosis (99.9%)</li>
+<li>hepatopulmonary syndrome (99.9%)</li>
+<li>early-onset familial noncirrhotic portal hypertension (99.9%)</li>
+<li>disorder of phenylalanine metabolism (99.9%)</li>
+<li>immune-mediated necrotizing myopathy (99.9%)</li>
+<li>antisynthetase syndrome (99.8%)</li>
+<li>idiopathic eosinophilic myositis (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/allopurinol/' | relative_url }}">医薬品レポート全文を見る →</a></p>

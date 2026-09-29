@@ -3,7 +3,7 @@ layout: default
 title: "ヘルベッサー錠６０　６０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ヘルベッサー錠６０　６０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 26 件。"
+description: "ヘルベッサー錠６０　６０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/diltiazem/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diltiazem/
 ---
 
 <p class="key-answer" data-question="ヘルベッサー錠６０　６０ｍｇ（選） に関するニュースは？">
-<strong>ヘルベッサー錠６０　６０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 26 件です。
+<strong>ヘルベッサー錠６０　６０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,33 +25,17 @@ permalink: /news/diltiazem/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（26 件）</strong>:<ul>
-<li>Prinzmetal angina (99.0%)</li>
-<li>obsolete susceptibility to ischemic stroke (99.0%)</li>
-<li>brain stem infarction (98.0%)</li>
-<li>obsolete bundle branch block (97.0%)</li>
-<li>cerebrovascular disorder (97.0%)</li>
-<li>ventricular tachycardia (97.0%)</li>
-<li>pulmonary hypertension owing to lung disease and/or hypoxia (97.0%)</li>
-<li>pulmonary hypertension with unclear multifactorial mechanism (97.0%)</li>
-<li>malignant renovascular hypertension (97.0%)</li>
-<li>malignant hypertensive renal disease (97.0%)</li>
-<li>ABri amyloidosis (96.0%)</li>
-<li>hypertensive disorder (96.0%)</li>
-<li>Braddock syndrome (96.0%)</li>
-<li>cerebral artery occlusion (96.0%)</li>
-<li>cerebral infarction (96.0%)</li>
-<li>intracerebral hemorrhage (95.0%)</li>
-<li>periodic paralysis with transient compartment-like syndrome (95.0%)</li>
-<li>MRI defined brain infarct (95.0%)</li>
-<li>cerebral arterial disease (94.0%)</li>
-<li>chronic pulmonary heart disease (93.0%)</li>
-<li>stroke disorder (93.0%)</li>
-<li>catecholaminergic polymorphic ventricular tachycardia (92.0%)</li>
-<li>arrhythmogenic right ventricular cardiomyopathy (92.0%)</li>
-<li>spinal cord ischemia (90.0%)</li>
-<li>nephrogenic syndrome of inappropriate antidiuresis (90.0%)</li>
-<li>hypertension (50.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>obsolete susceptibility to ischemic stroke (99.1%)</li>
+<li>brain stem infarction (98.2%)</li>
+<li>obsolete bundle branch block (97.9%)</li>
+<li>cerebrovascular disorder (97.6%)</li>
+<li>pulmonary hypertension with unclear multifactorial mechanism (97.2%)</li>
+<li>pulmonary hypertension owing to lung disease and/or hypoxia (97.2%)</li>
+<li>malignant hypertensive renal disease (97.2%)</li>
+<li>malignant renovascular hypertension (97.2%)</li>
+<li>ABri amyloidosis (97.0%)</li>
+<li>Braddock syndrome (96.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/diltiazem/' | relative_url }}">医薬品レポート全文を見る →</a></p>

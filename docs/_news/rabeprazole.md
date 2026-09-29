@@ -3,7 +3,7 @@ layout: default
 title: "パリエット錠２０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "パリエット錠２０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 21 件。"
+description: "パリエット錠２０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/rabeprazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/rabeprazole/
 ---
 
 <p class="key-answer" data-question="パリエット錠２０ｍｇ（選） に関するニュースは？">
-<strong>パリエット錠２０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 21 件です。
+<strong>パリエット錠２０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,28 +25,17 @@ permalink: /news/rabeprazole/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（21 件）</strong>:<ul>
-<li>systemic mastocytosis (99.0%)</li>
-<li>peptic esophagitis (99.0%)</li>
-<li>gastrin secretion abnormality (99.0%)</li>
-<li>Smouldering systemic mastocytosis (99.0%)</li>
-<li>lymphoadenopathic mastocytosis with eosinophilia (99.0%)</li>
-<li>Zollinger-Ellison syndrome (98.0%)</li>
-<li>duodenal ulcer (disease) (98.0%)</li>
-<li>active peptic ulcer disease (98.0%)</li>
-<li>duodenogastric reflux (98.0%)</li>
-<li>gastroduodenitis (98.0%)</li>
-<li>duodenal obstruction (98.0%)</li>
-<li>peptic ulcer perforation (98.0%)</li>
-<li>gastrojejunal ulcer (98.0%)</li>
-<li>peptic ulcer disease (97.0%)</li>
-<li>gastric ulcer (disease) (97.0%)</li>
-<li>abnormality of glucagon secretion (96.0%)</li>
-<li>esophagitis (disease) (95.0%)</li>
-<li>multiple endocrine neoplasia (93.0%)</li>
-<li>hyperinsulinism (disease) (85.0%)</li>
-<li>gastroesophageal reflux disease (50.0%)</li>
-<li>mastocytosis (50.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>Smouldering systemic mastocytosis (99.4%)</li>
+<li>lymphoadenopathic mastocytosis with eosinophilia (99.3%)</li>
+<li>active peptic ulcer disease (98.7%)</li>
+<li>duodenogastric reflux (98.7%)</li>
+<li>gastroduodenitis (98.6%)</li>
+<li>duodenal obstruction (98.6%)</li>
+<li>gastrojejunal ulcer (98.6%)</li>
+<li>peptic ulcer perforation (98.6%)</li>
+<li>gastric ulcer (disease) (97.8%)</li>
+<li>abnormality of glucagon secretion (96.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/rabeprazole/' | relative_url }}">医薬品レポート全文を見る →</a></p>

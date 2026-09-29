@@ -3,7 +3,7 @@ layout: default
 title: "ニューロタン錠５０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ニューロタン錠５０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 20 件。"
+description: "ニューロタン錠５０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/losartan/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/losartan/
 ---
 
 <p class="key-answer" data-question="ニューロタン錠５０ｍｇ（選） に関するニュースは？">
-<strong>ニューロタン錠５０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 20 件です。
+<strong>ニューロタン錠５０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,17 @@ permalink: /news/losartan/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（20 件）</strong>:<ul>
-<li>hypertensive disorder (99.0%)</li>
-<li>malignant renovascular hypertension (99.0%)</li>
-<li>malignant hypertensive renal disease (99.0%)</li>
-<li>pulmonary hypertension with unclear multifactorial mechanism (99.0%)</li>
-<li>pulmonary hypertension owing to lung disease and/or hypoxia (99.0%)</li>
-<li>Braddock syndrome (99.0%)</li>
-<li>Prinzmetal angina (99.0%)</li>
-<li>autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome (99.0%)</li>
-<li>brain small vessel disease 1 with or without ocular anomalies (99.0%)</li>
-<li>diabetic nephropathy (98.0%)</li>
-<li>chronic pulmonary heart disease (98.0%)</li>
-<li>intracerebral hemorrhage (97.0%)</li>
-<li>obsolete susceptibility to ischemic stroke (97.0%)</li>
-<li>brain stem infarction (97.0%)</li>
-<li>cerebral infarction (96.0%)</li>
-<li>cerebral arterial disease (93.0%)</li>
-<li>cerebral artery occlusion (93.0%)</li>
-<li>MRI defined brain infarct (91.0%)</li>
-<li>cerebrovascular disorder (90.0%)</li>
-<li>hypertension (50.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>malignant hypertensive renal disease (99.7%)</li>
+<li>malignant renovascular hypertension (99.7%)</li>
+<li>pulmonary hypertension owing to lung disease and/or hypoxia (99.7%)</li>
+<li>pulmonary hypertension with unclear multifactorial mechanism (99.7%)</li>
+<li>Braddock syndrome (99.6%)</li>
+<li>Prinzmetal angina (99.5%)</li>
+<li>autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome (99.4%)</li>
+<li>brain small vessel disease 1 with or without ocular anomalies (99.4%)</li>
+<li>chronic pulmonary heart disease (98.6%)</li>
+<li>intracerebral hemorrhage (97.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/losartan/' | relative_url }}">医薬品レポート全文を見る →</a></p>

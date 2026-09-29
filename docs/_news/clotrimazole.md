@@ -3,7 +3,7 @@ layout: default
 title: "エンペシドクリーム１％（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "エンペシドクリーム１％（選） に関する健康ニュース。既存適応症：。予測適応症 36 件。"
+description: "エンペシドクリーム１％（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/clotrimazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/clotrimazole/
 ---
 
 <p class="key-answer" data-question="エンペシドクリーム１％（選） に関するニュースは？">
-<strong>エンペシドクリーム１％（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 36 件です。
+<strong>エンペシドクリーム１％（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,43 +25,17 @@ permalink: /news/clotrimazole/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（36 件）</strong>:<ul>
-<li>cutaneous candidiasis (99.0%)</li>
-<li>pityriasis versicolor (99.0%)</li>
-<li>tinea pedis (99.0%)</li>
-<li>vulvovaginal candidiasis (99.0%)</li>
-<li>tinea corporis (99.0%)</li>
-<li>dermatophytosis of groin and perianal area (99.0%)</li>
-<li>acne (disease) (99.0%)</li>
-<li>vulvovaginitis (99.0%)</li>
-<li>postmenopausal atrophic vaginitis (99.0%)</li>
-<li>candidiasis (98.0%)</li>
-<li>trichomonal vulvovaginitis (98.0%)</li>
-<li>tinea profunda (98.0%)</li>
-<li>ectothrix infectious disease (98.0%)</li>
-<li>Majocchi granuloma (98.0%)</li>
-<li>endothrix infectious disease (98.0%)</li>
-<li>superficial mycosis (98.0%)</li>
-<li>dermatophytosis of scalp or beard (98.0%)</li>
-<li>vulvitis (98.0%)</li>
-<li>ulceration of vulva (97.0%)</li>
-<li>vulvar neoplasm (97.0%)</li>
-<li>vaginitis (disease) (96.0%)</li>
-<li>herpetic vulvovaginitis (95.0%)</li>
-<li>vaginal discharge (94.0%)</li>
-<li>congenital candidiasis (94.0%)</li>
-<li>neonatal candidiasis (94.0%)</li>
-<li>candida glabrata (94.0%)</li>
-<li>leukoplakia of vagina (94.0%)</li>
-<li>bacterial vaginosis (93.0%)</li>
-<li>candidiasis, invasive (93.0%)</li>
-<li>papillary conjunctivitis (93.0%)</li>
-<li>demodicidosis of sebaceous gland (93.0%)</li>
-<li>punctate epithelial keratoconjunctivitis (92.0%)</li>
-<li>zinc, elevated plasma (91.0%)</li>
-<li>otomycosis (90.0%)</li>
-<li>tinea infection (50.0%)</li>
-<li>oral candidiasis (50.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>acne (disease) (99.9%)</li>
+<li>vulvovaginitis (99.6%)</li>
+<li>postmenopausal atrophic vaginitis (99.5%)</li>
+<li>trichomonal vulvovaginitis (99.0%)</li>
+<li>tinea profunda (98.8%)</li>
+<li>ectothrix infectious disease (98.7%)</li>
+<li>Majocchi granuloma (98.7%)</li>
+<li>endothrix infectious disease (98.7%)</li>
+<li>superficial mycosis (98.6%)</li>
+<li>dermatophytosis of scalp or beard (98.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/clotrimazole/' | relative_url }}">医薬品レポート全文を見る →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "シングレアＯＤ錠１０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "シングレアＯＤ錠１０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 50 件。"
+description: "シングレアＯＤ錠１０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/montelukast/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/montelukast/
 ---
 
 <p class="key-answer" data-question="シングレアＯＤ錠１０ｍｇ（選） に関するニュースは？">
-<strong>シングレアＯＤ錠１０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 50 件です。
+<strong>シングレアＯＤ錠１０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,57 +25,17 @@ permalink: /news/montelukast/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（50 件）</strong>:<ul>
-<li>allergic asthma (99.0%)</li>
-<li>intrinsic asthma (99.0%)</li>
-<li>bronchitis (99.0%)</li>
-<li>atopic eczema (99.0%)</li>
-<li>asthma (99.0%)</li>
-<li>obstructive lung disease (99.0%)</li>
-<li>asthma-related traits, susceptibility to (99.0%)</li>
-<li>2-hydroxyethyl methacrylate sensitization (98.0%)</li>
-<li>uterine polyp (98.0%)</li>
-<li>polyp of vocal cord (98.0%)</li>
-<li>polyp of middle ear (98.0%)</li>
-<li>fibroepithelial polyp (98.0%)</li>
-<li>bronchial neoplasm (disease) (98.0%)</li>
-<li>polyp of vulva (98.0%)</li>
-<li>polyp of frontal sinus (98.0%)</li>
-<li>polyp of ureter (98.0%)</li>
-<li>polyp of external auditory canal (98.0%)</li>
-<li>neoplastic polyp (98.0%)</li>
-<li>epulis (98.0%)</li>
-<li>dermatitis, atopic (97.0%)</li>
-<li>rheumatoid arthritis (97.0%)</li>
-<li>laryngotracheitis (97.0%)</li>
-<li>indolent plasma cell myeloma (96.0%)</li>
-<li>nasal cavity polyp (95.0%)</li>
-<li>papillary conjunctivitis (95.0%)</li>
-<li>brachydactyly-syndactyly syndrome (95.0%)</li>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (94.0%)</li>
-<li>seborrheic dermatitis (94.0%)</li>
-<li>plasma cell myeloma (94.0%)</li>
-<li>dermatitis (93.0%)</li>
-<li>vulvar inverted follicular keratosis (92.0%)</li>
-<li>Laubry-Pezzi syndrome (92.0%)</li>
-<li>respiratory malformation (92.0%)</li>
-<li>seborrheic keratosis (92.0%)</li>
-<li>contact dermatitis (92.0%)</li>
-<li>genetic syndromic Pierre Robin syndrome (91.0%)</li>
-<li>interventricular septum aneurysm (91.0%)</li>
-<li>heart disease (91.0%)</li>
-<li>acrodermatitis chronica atrophicans (91.0%)</li>
-<li>phototoxic dermatitis (91.0%)</li>
-<li>Pierre Robin syndrome associated with a chromosomal anomaly (91.0%)</li>
-<li>pulmonary valve disease (90.0%)</li>
-<li>orofacial clefting syndrome (90.0%)</li>
-<li>acne keloid (90.0%)</li>
-<li>partial deletion of the long arm of chromosome 7 (90.0%)</li>
-<li>mitral valve disease (90.0%)</li>
-<li>disorder of fucoglycosan synthesis (90.0%)</li>
-<li>Jeune syndrome situs inversus (90.0%)</li>
-<li>allergic rhinitis (50.0%)</li>
-<li>vasomotor rhinitis (50.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>bronchitis (100.0%)</li>
+<li>atopic eczema (99.8%)</li>
+<li>asthma (99.5%)</li>
+<li>obstructive lung disease (99.3%)</li>
+<li>asthma-related traits, susceptibility to (99.2%)</li>
+<li>2-hydroxyethyl methacrylate sensitization (98.9%)</li>
+<li>uterine polyp (98.8%)</li>
+<li>polyp of vocal cord (98.7%)</li>
+<li>polyp of middle ear (98.7%)</li>
+<li>fibroepithelial polyp (98.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/montelukast/' | relative_url }}">医薬品レポート全文を見る →</a></p>

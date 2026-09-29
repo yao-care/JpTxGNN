@@ -3,7 +3,7 @@ layout: default
 title: "ワルファリンＫ細粒０．２％「ＮＳ」 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ワルファリンＫ細粒０．２％「ＮＳ」 に関する健康ニュース。既存適応症：。予測適応症 50 件。"
+description: "ワルファリンＫ細粒０．２％「ＮＳ」 に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/warfarin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/warfarin/
 ---
 
 <p class="key-answer" data-question="ワルファリンＫ細粒０．２％「ＮＳ」 に関するニュースは？">
-<strong>ワルファリンＫ細粒０．２％「ＮＳ」</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 50 件です。
+<strong>ワルファリンＫ細粒０．２％「ＮＳ」</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,57 +25,17 @@ permalink: /news/warfarin/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（50 件）</strong>:<ul>
-<li>thrombotic disease (99.0%)</li>
-<li>heparin cofactor 2 deficiency (99.0%)</li>
-<li>factor 5 excess with spontaneous thrombosis (99.0%)</li>
-<li>antithrombin deficiency type 2 (99.0%)</li>
-<li>thrombophilia (99.0%)</li>
-<li>rheumatoid arthritis (99.0%)</li>
-<li>breast fibrocystic disease (99.0%)</li>
-<li>benign mammary dysplasia (99.0%)</li>
-<li>blunt duct adenosis of breast (98.0%)</li>
-<li>apocrine adenosis of breast (98.0%)</li>
-<li>migraine disorder (98.0%)</li>
-<li>migraine with brainstem aura (98.0%)</li>
-<li>brachydactyly-syndactyly syndrome (98.0%)</li>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (98.0%)</li>
-<li>breast abscess (98.0%)</li>
-<li>fat necrosis of breast (98.0%)</li>
-<li>migraine with or without aura, susceptibility to (98.0%)</li>
-<li>myocardial infarction (98.0%)</li>
-<li>posterolateral myocardial infarction (98.0%)</li>
-<li>posteroinferior myocardial infarction (98.0%)</li>
-<li>coronary thrombosis (98.0%)</li>
-<li>lactation disease (98.0%)</li>
-<li>septal myocardial infarction (98.0%)</li>
-<li>breast adenosis (97.0%)</li>
-<li>congenital coronary artery anomaly (97.0%)</li>
-<li>vein disease (97.0%)</li>
-<li>lateral sinus thrombosis (97.0%)</li>
-<li>cavernous sinus thrombosis (97.0%)</li>
-<li>intracranial embolism (95.0%)</li>
-<li>atrophoderma vermiculata (95.0%)</li>
-<li>stroke disorder (95.0%)</li>
-<li>coronary stenosis (94.0%)</li>
-<li>amenorrhea (disease) (94.0%)</li>
-<li>sagittal sinus thrombosis (94.0%)</li>
-<li>ulerythema ophryogenesis (94.0%)</li>
-<li>Prinzmetal angina (94.0%)</li>
-<li>idiopathic granulomatous myositis (93.0%)</li>
-<li>myositis fibrosa (93.0%)</li>
-<li>venous thromboembolism (93.0%)</li>
-<li>fibrocartilaginous embolism (93.0%)</li>
-<li>tendinitis (93.0%)</li>
-<li>myocardial infarction (disease) (92.0%)</li>
-<li>angiodysplasia (92.0%)</li>
-<li>non-inflammatory vasculopathy (92.0%)</li>
-<li>female breast carcinoma (92.0%)</li>
-<li>congenital renal artery stenosis (91.0%)</li>
-<li>pediatric systemic lupus erythematosus (91.0%)</li>
-<li>hemoglobinopathy (90.0%)</li>
-<li>osteoarthritis (90.0%)</li>
-<li>gout (90.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>heparin cofactor 2 deficiency (99.9%)</li>
+<li>factor 5 excess with spontaneous thrombosis (99.8%)</li>
+<li>antithrombin deficiency type 2 (99.8%)</li>
+<li>thrombophilia (99.8%)</li>
+<li>rheumatoid arthritis (99.2%)</li>
+<li>breast fibrocystic disease (99.2%)</li>
+<li>benign mammary dysplasia (99.1%)</li>
+<li>apocrine adenosis of breast (98.7%)</li>
+<li>blunt duct adenosis of breast (98.7%)</li>
+<li>migraine disorder (98.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/warfarin/' | relative_url }}">医薬品レポート全文を見る →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "エルロチニブ錠１５０ｍｇ「ＮＫ」 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "エルロチニブ錠１５０ｍｇ「ＮＫ」 に関する健康ニュース。既存適応症：。予測適応症 17 件。"
+description: "エルロチニブ錠１５０ｍｇ「ＮＫ」 に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/erlotinib/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/erlotinib/
 ---
 
 <p class="key-answer" data-question="エルロチニブ錠１５０ｍｇ「ＮＫ」 に関するニュースは？">
-<strong>エルロチニブ錠１５０ｍｇ「ＮＫ」</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 17 件です。
+<strong>エルロチニブ錠１５０ｍｇ「ＮＫ」</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,24 +25,17 @@ permalink: /news/erlotinib/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（17 件）</strong>:<ul>
-<li>Ewing sarcoma (95.0%)</li>
-<li>fibromatosis, gingival (95.0%)</li>
-<li>fibroma of lung (95.0%)</li>
-<li>hamartoma of lung (95.0%)</li>
-<li>lung benign neoplasm (94.0%)</li>
-<li>lung hilum carcinoma (94.0%)</li>
-<li>pulmonary sulcus neoplasm (94.0%)</li>
-<li>lung germ cell tumor (94.0%)</li>
-<li>lung cancer (94.0%)</li>
-<li>junctional epidermolysis bullosa (92.0%)</li>
-<li>Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome (92.0%)</li>
-<li>ovarioleukodystrophy (92.0%)</li>
-<li>junctional epidermolysis bullosa, non-Herlitz type (90.0%)</li>
-<li>salivary gland type cancer of the breast (90.0%)</li>
-<li>pancreatic adenocarcinoma (75.0%)</li>
-<li>non-small cell lung carcinoma (disease) (50.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>Ewing sarcoma (95.8%)</li>
+<li>fibromatosis, gingival (95.3%)</li>
+<li>fibroma of lung (95.1%)</li>
+<li>hamartoma of lung (95.1%)</li>
+<li>lung benign neoplasm (95.0%)</li>
+<li>lung hilum carcinoma (95.0%)</li>
+<li>lung germ cell tumor (94.5%)</li>
+<li>pulmonary sulcus neoplasm (94.5%)</li>
 <li>inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia (93.3%)</li>
+<li>junctional epidermolysis bullosa (92.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/erlotinib/' | relative_url }}">医薬品レポート全文を見る →</a></p>

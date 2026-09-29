@@ -3,7 +3,7 @@ layout: default
 title: "ラミクタール錠２５ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ラミクタール錠２５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 31 件。"
+description: "ラミクタール錠２５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/lamotrigine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lamotrigine/
 ---
 
 <p class="key-answer" data-question="ラミクタール錠２５ｍｇ（選） に関するニュースは？">
-<strong>ラミクタール錠２５ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 31 件です。
+<strong>ラミクタール錠２５ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,38 +25,17 @@ permalink: /news/lamotrigine/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（31 件）</strong>:<ul>
-<li>visual epilepsy (99.0%)</li>
-<li>trigeminal nerve neoplasm (99.0%)</li>
-<li>trigeminal neuralgia (99.0%)</li>
-<li>audiogenic seizures (99.0%)</li>
-<li>eating seizures (99.0%)</li>
-<li>thinking seizures (99.0%)</li>
-<li>orgasm-induced seizures (99.0%)</li>
-<li>startle epilepsy (99.0%)</li>
-<li>micturation-induced seizures (99.0%)</li>
-<li>reading seizures (99.0%)</li>
-<li>restless legs syndrome (98.0%)</li>
-<li>beta-ketothiolase deficiency (98.0%)</li>
-<li>status epilepticus (98.0%)</li>
-<li>Rett syndrome, congenital variant (98.0%)</li>
-<li>14q12 microdeletion syndrome (98.0%)</li>
-<li>partial epilepsy (97.0%)</li>
-<li>Lennox-Gastaut syndrome (97.0%)</li>
-<li>adolescent/adult onset autosomal dominant epilepsy with auditory features (97.0%)</li>
-<li>epilepsy with generalized tonic-clonic seizures (97.0%)</li>
-<li>guanidinoacetate methyltransferase deficiency (97.0%)</li>
-<li>cryptogenic late-onset epileptic spasms (96.0%)</li>
-<li>photosensitive occipital lobe epilepsy (96.0%)</li>
-<li>atypical childhood epilepsy with centrotemporal spikes (96.0%)</li>
-<li>febrile infection-related epilepsy syndrome (96.0%)</li>
-<li>perioral myoclonia with absences (96.0%)</li>
-<li>partial motor epilepsy (96.0%)</li>
-<li>cutis verticis gyrata (94.0%)</li>
-<li>epilepsy (93.0%)</li>
-<li>facial neuralgia (91.0%)</li>
-<li>combined hyperactive dysfunction syndrome of the cranial nerves (90.0%)</li>
-<li>childhood onset epileptic encephalopathy (90.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>trigeminal nerve neoplasm (100.0%)</li>
+<li>trigeminal neuralgia (99.9%)</li>
+<li>micturation-induced seizures (99.4%)</li>
+<li>thinking seizures (99.4%)</li>
+<li>audiogenic seizures (99.4%)</li>
+<li>eating seizures (99.4%)</li>
+<li>orgasm-induced seizures (99.4%)</li>
+<li>startle epilepsy (99.4%)</li>
+<li>reading seizures (99.3%)</li>
+<li>restless legs syndrome (98.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lamotrigine/' | relative_url }}">医薬品レポート全文を見る →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "ディレグラ配合錠（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ディレグラ配合錠（選） に関する健康ニュース。既存適応症：。予測適応症 27 件。"
+description: "ディレグラ配合錠（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/fexofenadine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/fexofenadine/
 ---
 
 <p class="key-answer" data-question="ディレグラ配合錠（選） に関するニュースは？">
-<strong>ディレグラ配合錠（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 27 件です。
+<strong>ディレグラ配合錠（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,34 +25,17 @@ permalink: /news/fexofenadine/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（27 件）</strong>:<ul>
-<li>papillary conjunctivitis (99.0%)</li>
-<li>rosacea conjunctivitis (99.0%)</li>
-<li>atopic conjunctivitis (99.0%)</li>
-<li>punctate epithelial keratoconjunctivitis (98.0%)</li>
-<li>blepharoconjunctivitis (98.0%)</li>
-<li>vernal conjunctivitis (98.0%)</li>
-<li>viral conjunctivitis (98.0%)</li>
-<li>parasitic eyelid infestation (96.0%)</li>
-<li>ulcerative blepharitis (96.0%)</li>
-<li>infective urethral stricture (96.0%)</li>
-<li>postinfectious vasculitis (96.0%)</li>
-<li>post-bacterial disorder (96.0%)</li>
-<li>noninfectious dermatoses of eyelid (95.0%)</li>
-<li>post-infectious syndrome (95.0%)</li>
-<li>Chagas cardiomyopathy (95.0%)</li>
-<li>otitis externa (95.0%)</li>
-<li>infection-related hemolytic uremic syndrome (95.0%)</li>
-<li>Angelucci syndrome (95.0%)</li>
-<li>acute hemorrhagic conjunctivitis (95.0%)</li>
-<li>chronic follicular conjunctivitis (94.0%)</li>
-<li>serous conjunctivitis except viral (94.0%)</li>
-<li>parasitic conjunctivitis (94.0%)</li>
-<li>conjunctival folliculosis (94.0%)</li>
-<li>pseudomembranous conjunctivitis (94.0%)</li>
-<li>exposure keratitis (93.0%)</li>
-<li>vasomotor rhinitis (50.0%)</li>
-<li>allergic rhinitis (50.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>rosacea conjunctivitis (99.8%)</li>
+<li>punctate epithelial keratoconjunctivitis (98.6%)</li>
+<li>blepharoconjunctivitis (98.4%)</li>
+<li>viral conjunctivitis (98.2%)</li>
+<li>parasitic eyelid infestation (96.7%)</li>
+<li>ulcerative blepharitis (96.6%)</li>
+<li>infective urethral stricture (96.3%)</li>
+<li>postinfectious vasculitis (96.1%)</li>
+<li>post-bacterial disorder (96.1%)</li>
+<li>noninfectious dermatoses of eyelid (95.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/fexofenadine/' | relative_url }}">医薬品レポート全文を見る →</a></p>

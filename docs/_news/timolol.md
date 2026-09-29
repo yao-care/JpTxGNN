@@ -3,7 +3,7 @@ layout: default
 title: "デュオトラバ配合点眼液（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "デュオトラバ配合点眼液（選） に関する健康ニュース。既存適応症：。予測適応症 12 件。"
+description: "デュオトラバ配合点眼液（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/timolol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/timolol/
 ---
 
 <p class="key-answer" data-question="デュオトラバ配合点眼液（選） に関するニュースは？">
-<strong>デュオトラバ配合点眼液（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 12 件です。
+<strong>デュオトラバ配合点眼液（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,16 +25,14 @@ permalink: /news/timolol/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（12 件）</strong>:<ul>
-<li>open-angle glaucoma (98.0%)</li>
-<li>primary hereditary glaucoma (98.0%)</li>
-<li>closed-angle glaucoma (97.0%)</li>
-<li>malignant hypertensive renal disease (94.0%)</li>
-<li>malignant renovascular hypertension (94.0%)</li>
-<li>pulmonary hypertension owing to lung disease and/or hypoxia (93.0%)</li>
-<li>pulmonary hypertension with unclear multifactorial mechanism (93.0%)</li>
-<li>hypertensive disorder (93.0%)</li>
-<li>Braddock syndrome (92.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>primary hereditary glaucoma (98.6%)</li>
+<li>closed-angle glaucoma (97.2%)</li>
+<li>malignant hypertensive renal disease (94.5%)</li>
+<li>malignant renovascular hypertension (94.5%)</li>
+<li>pulmonary hypertension with unclear multifactorial mechanism (93.7%)</li>
+<li>pulmonary hypertension owing to lung disease and/or hypoxia (93.7%)</li>
+<li>Braddock syndrome (92.6%)</li>
 <li>chronic pulmonary heart disease (87.8%)</li>
 <li>glaucoma 1, open angle (86.5%)</li>
 <li>angle-closure glaucoma (85.5%)</li>

@@ -3,7 +3,7 @@ layout: default
 title: "オイグルコン錠２．５ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "オイグルコン錠２．５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 12 件。"
+description: "オイグルコン錠２．５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/glyburide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/glyburide/
 ---
 
 <p class="key-answer" data-question="オイグルコン錠２．５ｍｇ（選） に関するニュースは？">
-<strong>オイグルコン錠２．５ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 12 件です。
+<strong>オイグルコン錠２．５ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,18 +25,16 @@ permalink: /news/glyburide/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（12 件）</strong>:<ul>
-<li>opsismodysplasia (97.0%)</li>
-<li>diabetes mellitus (disease) (96.0%)</li>
-<li>focal stiff limb syndrome (96.0%)</li>
-<li>classic stiff person syndrome (96.0%)</li>
-<li>thiamine-responsive dysfunction syndrome (96.0%)</li>
-<li>drug-induced localized lipodystrophy (95.0%)</li>
-<li>centrifugal lipodystrophy (94.0%)</li>
-<li>pressure-induced localized lipoatrophy (94.0%)</li>
-<li>idiopathic localized lipodystrophy (94.0%)</li>
-<li>pancreatic agenesis (94.0%)</li>
-<li>type 2 diabetes mellitus (50.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>opsismodysplasia (97.2%)</li>
+<li>classic stiff person syndrome (96.9%)</li>
+<li>focal stiff limb syndrome (96.9%)</li>
+<li>thiamine-responsive dysfunction syndrome (96.8%)</li>
+<li>drug-induced localized lipodystrophy (95.2%)</li>
+<li>centrifugal lipodystrophy (94.9%)</li>
+<li>pressure-induced localized lipoatrophy (94.8%)</li>
+<li>idiopathic localized lipodystrophy (94.5%)</li>
+<li>pancreatic agenesis (94.3%)</li>
 <li>autoimmune oophoritis (82.2%)</li>
 </ul></li>
 </ul>

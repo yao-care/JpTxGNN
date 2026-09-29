@@ -3,7 +3,7 @@ layout: default
 title: "クレストールＯＤ錠５ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "クレストールＯＤ錠５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 50 件。"
+description: "クレストールＯＤ錠５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/rosuvastatin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/rosuvastatin/
 ---
 
 <p class="key-answer" data-question="クレストールＯＤ錠５ｍｇ（選） に関するニュースは？">
-<strong>クレストールＯＤ錠５ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 50 件です。
+<strong>クレストールＯＤ錠５ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,57 +25,17 @@ permalink: /news/rosuvastatin/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（50 件）</strong>:<ul>
-<li>homozygous familial hypercholesterolemia (99.0%)</li>
-<li>obsolete familial combined hyperlipidemia (99.0%)</li>
-<li>hyperlipoproteinemia (99.0%)</li>
-<li>hyperlipidemia, familial combined, LPL related (99.0%)</li>
-<li>obsolete susceptibility to ischemic stroke (99.0%)</li>
-<li>cholesterol-ester transfer protein deficiency (99.0%)</li>
-<li>familial hypercholesterolemia (99.0%)</li>
-<li>hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency (99.0%)</li>
-<li>brain stem infarction (99.0%)</li>
-<li>HIV infectious disease (99.0%)</li>
-<li>hypoalphalipoproteinemia (99.0%)</li>
-<li>hyperlipidemia due to hepatic triglyceride lipase deficiency (99.0%)</li>
-<li>ABri amyloidosis (99.0%)</li>
-<li>hyperlipidemia (99.0%)</li>
-<li>simian immunodeficiency virus infection (98.0%)</li>
-<li>feline acquired immunodeficiency syndrome (98.0%)</li>
-<li>hypercholesterolemia, autosomal dominant (98.0%)</li>
-<li>cerebral infarction (98.0%)</li>
-<li>familial hyperlipidemia (98.0%)</li>
-<li>cerebral artery occlusion (98.0%)</li>
-<li>stroke disorder (98.0%)</li>
-<li>cerebral arterial disease (98.0%)</li>
-<li>hypolipoproteinemia (disease) (97.0%)</li>
-<li>arteriosclerosis disorder (97.0%)</li>
-<li>fibroma of prostate (97.0%)</li>
-<li>intracerebral hemorrhage (97.0%)</li>
-<li>MRI defined brain infarct (97.0%)</li>
-<li>autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome (97.0%)</li>
-<li>generalized atherosclerosis (97.0%)</li>
-<li>cerebral atherosclerosis (97.0%)</li>
-<li>benign reproductive system neoplasm (97.0%)</li>
-<li>prostate cancer/brain cancer susceptibility (97.0%)</li>
-<li>brain small vessel disease 1 with or without ocular anomalies (97.0%)</li>
-<li>Brenner tumor (96.0%)</li>
-<li>cerebrovascular disorder (96.0%)</li>
-<li>benign prostate phyllodes tumor (96.0%)</li>
-<li>male reproductive organ cancer (96.0%)</li>
-<li>prostate leiomyoma (95.0%)</li>
-<li>hyperalphalipoproteinemia (95.0%)</li>
-<li>ABeta amyloidosis (95.0%)</li>
-<li>coronary atherosclerosis (95.0%)</li>
-<li>hypertriglyceridemia, familial (94.0%)</li>
-<li>diabetic nephropathy (94.0%)</li>
-<li>cholesterol embolism (94.0%)</li>
-<li>familial chylomicronemia syndrome (93.0%)</li>
-<li>prostate neoplasm (93.0%)</li>
-<li>chronic kidney disease (93.0%)</li>
-<li>transient neonatal thrombocytopenia (93.0%)</li>
-<li>duodenal obstruction (93.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>cholesterol-ester transfer protein deficiency (99.5%)</li>
+<li>familial hypercholesterolemia (99.5%)</li>
+<li>hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency (99.5%)</li>
+<li>brain stem infarction (99.4%)</li>
+<li>HIV infectious disease (99.4%)</li>
+<li>hypoalphalipoproteinemia (99.2%)</li>
 <li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (99.2%)</li>
+<li>hyperlipidemia due to hepatic triglyceride lipase deficiency (99.2%)</li>
+<li>ABri amyloidosis (99.2%)</li>
+<li>hyperlipidemia (99.1%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/rosuvastatin/' | relative_url }}">医薬品レポート全文を見る →</a></p>

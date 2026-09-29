@@ -3,7 +3,7 @@ layout: default
 title: "トラムセット配合錠（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "トラムセット配合錠（選） に関する健康ニュース。既存適応症：。予測適応症 17 件。"
+description: "トラムセット配合錠（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/acetaminophen/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/acetaminophen/
 ---
 
 <p class="key-answer" data-question="トラムセット配合錠（選） に関するニュースは？">
-<strong>トラムセット配合錠（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 17 件です。
+<strong>トラムセット配合錠（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,22 +25,15 @@ permalink: /news/acetaminophen/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（17 件）</strong>:<ul>
-<li>migraine disorder (99.0%)</li>
-<li>migraine with brainstem aura (99.0%)</li>
-<li>headache disorder (98.0%)</li>
-<li>trigeminal autonomic cephalalgia (98.0%)</li>
-<li>common cold (96.0%)</li>
-<li>migraine with or without aura, susceptibility to (95.0%)</li>
-<li>atrophoderma vermiculata (94.0%)</li>
-<li>tendinitis (94.0%)</li>
-<li>myositis fibrosa (94.0%)</li>
-<li>idiopathic granulomatous myositis (94.0%)</li>
-<li>ulerythema ophryogenesis (92.0%)</li>
-<li>fibromyalgia (90.0%)</li>
-<li>nasopharyngitis (85.0%)</li>
-<li>vasomotor rhinitis (50.0%)</li>
-<li>allergic rhinitis (50.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>migraine with brainstem aura (99.2%)</li>
+<li>trigeminal autonomic cephalalgia (98.6%)</li>
+<li>atrophoderma vermiculata (94.7%)</li>
+<li>tendinitis (94.6%)</li>
+<li>idiopathic granulomatous myositis (94.4%)</li>
+<li>myositis fibrosa (94.4%)</li>
+<li>ulerythema ophryogenesis (92.4%)</li>
+<li>fibromyalgia (90.8%)</li>
 <li>inclusion body myositis (89.2%)</li>
 <li>sciatic neuropathy (86.6%)</li>
 </ul></li>

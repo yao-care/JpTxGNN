@@ -3,7 +3,7 @@ layout: default
 title: "リリカＯＤ錠１５０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "リリカＯＤ錠１５０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 38 件。"
+description: "リリカＯＤ錠１５０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/pregabalin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pregabalin/
 ---
 
 <p class="key-answer" data-question="リリカＯＤ錠１５０ｍｇ（選） に関するニュースは？">
-<strong>リリカＯＤ錠１５０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 38 件です。
+<strong>リリカＯＤ錠１５０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,45 +25,17 @@ permalink: /news/pregabalin/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（38 件）</strong>:<ul>
-<li>fibromyalgia (99.0%)</li>
-<li>tendinitis (99.0%)</li>
-<li>myositis fibrosa (99.0%)</li>
-<li>idiopathic granulomatous myositis (99.0%)</li>
-<li>inclusion body myositis (99.0%)</li>
-<li>migraine disorder (99.0%)</li>
-<li>migraine with brainstem aura (99.0%)</li>
-<li>osteoarthritis susceptibility (98.0%)</li>
-<li>myofascial pain syndrome (98.0%)</li>
-<li>osteoarthritis (98.0%)</li>
-<li>headache disorder (97.0%)</li>
-<li>atrophoderma vermiculata (97.0%)</li>
-<li>acromesomelic dysplasia, Hunter-Thompson type (97.0%)</li>
-<li>brachyolmia (97.0%)</li>
-<li>pseudoachondroplasia (97.0%)</li>
-<li>brachyolmia-amelogenesis imperfecta syndrome (97.0%)</li>
-<li>trigeminal autonomic cephalalgia (97.0%)</li>
-<li>ulerythema ophryogenesis (97.0%)</li>
-<li>myosclerosis (96.0%)</li>
-<li>migraine with or without aura, susceptibility to (96.0%)</li>
-<li>arthropathy (96.0%)</li>
-<li>congenital hypotrichosis milia (95.0%)</li>
-<li>rheumatoid arthritis (95.0%)</li>
-<li>hypotrichosis simplex of the scalp (95.0%)</li>
-<li>dysthymic disorder (95.0%)</li>
-<li>diffuse alopecia areata (94.0%)</li>
-<li>disorder involving pain (94.0%)</li>
-<li>sciatic neuropathy (94.0%)</li>
-<li>benign paroxysmal torticollis of infancy (93.0%)</li>
-<li>agoraphobia (93.0%)</li>
-<li>anxiety disorder (93.0%)</li>
-<li>brachydactyly-syndactyly syndrome (92.0%)</li>
-<li>alopecia (92.0%)</li>
-<li>Raynaud disease (91.0%)</li>
-<li>glossodynia (91.0%)</li>
-<li>coccygodynia (90.0%)</li>
-<li>Prinzmetal angina (90.0%)</li>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (90.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>tendinitis (99.7%)</li>
+<li>idiopathic granulomatous myositis (99.7%)</li>
+<li>myositis fibrosa (99.7%)</li>
+<li>inclusion body myositis (99.5%)</li>
+<li>migraine disorder (99.5%)</li>
+<li>migraine with brainstem aura (99.4%)</li>
+<li>osteoarthritis susceptibility (98.7%)</li>
+<li>osteoarthritis (98.6%)</li>
+<li>headache disorder (97.6%)</li>
+<li>atrophoderma vermiculata (97.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pregabalin/' | relative_url }}">医薬品レポート全文を見る →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "モービック錠１０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "モービック錠１０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 28 件。"
+description: "モービック錠１０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/meloxicam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/meloxicam/
 ---
 
 <p class="key-answer" data-question="モービック錠１０ｍｇ（選） に関するニュースは？">
-<strong>モービック錠１０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 28 件です。
+<strong>モービック錠１０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,35 +25,17 @@ permalink: /news/meloxicam/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（28 件）</strong>:<ul>
-<li>osteoarthritis susceptibility (99.0%)</li>
-<li>arthropathy (99.0%)</li>
-<li>osteoarthritis (99.0%)</li>
-<li>juvenile arthritis due to defect in LACC1 (99.0%)</li>
-<li>juvenile idiopathic arthritis (99.0%)</li>
-<li>acromesomelic dysplasia, Hunter-Thompson type (99.0%)</li>
-<li>brachyolmia-amelogenesis imperfecta syndrome (99.0%)</li>
-<li>myosclerosis (99.0%)</li>
-<li>brachyolmia (99.0%)</li>
-<li>pseudoachondroplasia (99.0%)</li>
-<li>rheumatoid arthritis (99.0%)</li>
-<li>spondyloarthropathy, susceptibility to (99.0%)</li>
-<li>rheumatoid nodulosis (99.0%)</li>
-<li>rheumatoid factor-positive polyarticular juvenile idiopathic arthritis (99.0%)</li>
-<li>WHIM syndrome (99.0%)</li>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.0%)</li>
-<li>brachydactyly-syndactyly syndrome (99.0%)</li>
-<li>juvenile chronic polyarthritis (99.0%)</li>
-<li>spondyloarthropathy (98.0%)</li>
-<li>ankylosing spondylitis (97.0%)</li>
-<li>vertebral disease (97.0%)</li>
-<li>rheumatoid vasculitis (97.0%)</li>
-<li>combined immunodeficiency due to moesin deficiency (97.0%)</li>
-<li>hypermobility of coccyx (97.0%)</li>
-<li>inflammatory spondylopathy (96.0%)</li>
-<li>Kummell disease (96.0%)</li>
-<li>polyarticular juvenile rheumatoid arthritis (96.0%)</li>
-<li>leukoplakia (90.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>acromesomelic dysplasia, Hunter-Thompson type (99.9%)</li>
+<li>brachyolmia-amelogenesis imperfecta syndrome (99.9%)</li>
+<li>myosclerosis (99.9%)</li>
+<li>brachyolmia (99.9%)</li>
+<li>pseudoachondroplasia (99.8%)</li>
+<li>spondyloarthropathy, susceptibility to (99.5%)</li>
+<li>rheumatoid nodulosis (99.5%)</li>
+<li>rheumatoid factor-positive polyarticular juvenile idiopathic arthritis (99.4%)</li>
+<li>WHIM syndrome (99.4%)</li>
+<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/meloxicam/' | relative_url }}">医薬品レポート全文を見る →</a></p>

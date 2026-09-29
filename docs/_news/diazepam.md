@@ -3,7 +3,7 @@ layout: default
 title: "ホリゾン錠５ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ホリゾン錠５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 50 件。"
+description: "ホリゾン錠５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/diazepam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diazepam/
 ---
 
 <p class="key-answer" data-question="ホリゾン錠５ｍｇ（選） に関するニュースは？">
-<strong>ホリゾン錠５ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 50 件です。
+<strong>ホリゾン錠５ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,57 +25,17 @@ permalink: /news/diazepam/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（50 件）</strong>:<ul>
-<li>alcohol withdrawal (99.0%)</li>
-<li>alcohol withdrawal delirium (99.0%)</li>
-<li>Wernicke-Korsakoff syndrome (99.0%)</li>
-<li>anxiety (99.0%)</li>
-<li>insomnia (disease) (99.0%)</li>
-<li>cauda equina syndrome (99.0%)</li>
-<li>sleep disorder, initiating and maintaining sleep (99.0%)</li>
-<li>attention deficit hyperactivity disorder, inattentive type (99.0%)</li>
-<li>barbiturate abuse (99.0%)</li>
-<li>hallucinogen abuse (99.0%)</li>
-<li>antidepressant type abuse (99.0%)</li>
-<li>specific developmental disorder (99.0%)</li>
-<li>attention deficit-hyperactivity disorder (99.0%)</li>
-<li>obsolete neurogenic bladder (disease) (99.0%)</li>
-<li>acute encephalopathy with biphasic seizures and late reduced diffusion (99.0%)</li>
-<li>myofascial pain syndrome (99.0%)</li>
-<li>chondromyxoid fibroma (99.0%)</li>
-<li>faciodigitogenital syndrome (99.0%)</li>
-<li>alcohol-related disorders (99.0%)</li>
-<li>visual epilepsy (99.0%)</li>
-<li>phencyclidine abuse (99.0%)</li>
-<li>neuralgia (99.0%)</li>
-<li>micturation-induced seizures (99.0%)</li>
-<li>orgasm-induced seizures (99.0%)</li>
-<li>audiogenic seizures (99.0%)</li>
-<li>eating seizures (99.0%)</li>
-<li>thinking seizures (99.0%)</li>
-<li>startle epilepsy (99.0%)</li>
-<li>obsessive-compulsive disorder (99.0%)</li>
-<li>reading seizures (99.0%)</li>
-<li>irritable bowel syndrome (99.0%)</li>
-<li>papillary conjunctivitis (99.0%)</li>
-<li>restless legs syndrome (99.0%)</li>
-<li>schizotypal personality disorder (99.0%)</li>
-<li>schizoid personality disorder (99.0%)</li>
-<li>histrionic personality disorder (disease) (99.0%)</li>
-<li>paranoid personality disorder (99.0%)</li>
-<li>drug dependence (99.0%)</li>
-<li>facial neuralgia (99.0%)</li>
-<li>combined hyperactive dysfunction syndrome of the cranial nerves (99.0%)</li>
-<li>neonatal abstinence syndrome (98.0%)</li>
-<li>agoraphobia (98.0%)</li>
-<li>anxiety disorder (98.0%)</li>
-<li>benign paroxysmal torticollis of infancy (98.0%)</li>
-<li>Asperger syndrome (98.0%)</li>
-<li>migraine with brainstem aura (98.0%)</li>
-<li>migraine disorder (98.0%)</li>
-<li>neurohypophyseal diabetes insipidus (98.0%)</li>
-<li>Tourette syndrome (98.0%)</li>
-<li>neurocirculatory asthenia (98.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>insomnia (disease) (100.0%)</li>
+<li>cauda equina syndrome (100.0%)</li>
+<li>sleep disorder, initiating and maintaining sleep (100.0%)</li>
+<li>attention deficit hyperactivity disorder, inattentive type (100.0%)</li>
+<li>hallucinogen abuse (100.0%)</li>
+<li>barbiturate abuse (100.0%)</li>
+<li>antidepressant type abuse (100.0%)</li>
+<li>specific developmental disorder (100.0%)</li>
+<li>attention deficit-hyperactivity disorder (99.9%)</li>
+<li>obsolete neurogenic bladder (disease) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/diazepam/' | relative_url }}">医薬品レポート全文を見る →</a></p>

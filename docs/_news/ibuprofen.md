@@ -3,7 +3,7 @@ layout: default
 title: "ブルフェン顆粒２０％（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ブルフェン顆粒２０％（選） に関する健康ニュース。既存適応症：。予測適応症 36 件。"
+description: "ブルフェン顆粒２０％（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/ibuprofen/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ibuprofen/
 ---
 
 <p class="key-answer" data-question="ブルフェン顆粒２０％（選） に関するニュースは？">
-<strong>ブルフェン顆粒２０％（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 36 件です。
+<strong>ブルフェン顆粒２０％（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,43 +25,17 @@ permalink: /news/ibuprofen/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（36 件）</strong>:<ul>
-<li>osteoarthritis susceptibility (99.0%)</li>
-<li>rheumatoid arthritis (99.0%)</li>
-<li>arthropathy (99.0%)</li>
-<li>osteoarthritis (99.0%)</li>
-<li>acromesomelic dysplasia, Hunter-Thompson type (99.0%)</li>
-<li>brachyolmia-amelogenesis imperfecta syndrome (99.0%)</li>
-<li>myosclerosis (99.0%)</li>
-<li>brachyolmia (99.0%)</li>
-<li>brachydactyly-syndactyly syndrome (99.0%)</li>
-<li>pseudoachondroplasia (99.0%)</li>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.0%)</li>
-<li>hypotrichosis simplex of the scalp (98.0%)</li>
-<li>WHIM syndrome (98.0%)</li>
-<li>congenital hypotrichosis milia (98.0%)</li>
-<li>diffuse alopecia areata (98.0%)</li>
-<li>juvenile arthritis due to defect in LACC1 (96.0%)</li>
-<li>juvenile idiopathic arthritis (96.0%)</li>
-<li>rheumatoid nodulosis (96.0%)</li>
-<li>rheumatoid factor-positive polyarticular juvenile idiopathic arthritis (96.0%)</li>
-<li>combined immunodeficiency due to moesin deficiency (96.0%)</li>
-<li>spondyloarthropathy, susceptibility to (96.0%)</li>
-<li>juvenile chronic polyarthritis (96.0%)</li>
-<li>alopecia (95.0%)</li>
-<li>trigeminal autonomic cephalalgia (95.0%)</li>
-<li>headache disorder (94.0%)</li>
-<li>ankylosing spondylitis (94.0%)</li>
-<li>Behr syndrome (94.0%)</li>
-<li>hypermobility of coccyx (94.0%)</li>
-<li>spondyloarthropathy (93.0%)</li>
-<li>vertebral disease (93.0%)</li>
-<li>rheumatoid vasculitis (93.0%)</li>
-<li>Kummell disease (93.0%)</li>
-<li>inflammatory spondylopathy (93.0%)</li>
-<li>polyarticular juvenile rheumatoid arthritis (93.0%)</li>
-<li>frozen shoulder (91.0%)</li>
-<li>patent ductus arteriosus (70.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>acromesomelic dysplasia, Hunter-Thompson type (99.7%)</li>
+<li>brachyolmia-amelogenesis imperfecta syndrome (99.7%)</li>
+<li>myosclerosis (99.7%)</li>
+<li>brachyolmia (99.7%)</li>
+<li>brachydactyly-syndactyly syndrome (99.7%)</li>
+<li>pseudoachondroplasia (99.7%)</li>
+<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.6%)</li>
+<li>hypotrichosis simplex of the scalp (98.6%)</li>
+<li>WHIM syndrome (98.4%)</li>
+<li>congenital hypotrichosis milia (98.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ibuprofen/' | relative_url }}">医薬品レポート全文を見る →</a></p>

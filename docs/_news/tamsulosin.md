@@ -3,7 +3,7 @@ layout: default
 title: "ハルナールＤ錠０．２ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ハルナールＤ錠０．２ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 47 件。"
+description: "ハルナールＤ錠０．２ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/tamsulosin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tamsulosin/
 ---
 
 <p class="key-answer" data-question="ハルナールＤ錠０．２ｍｇ（選） に関するニュースは？">
-<strong>ハルナールＤ錠０．２ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 47 件です。
+<strong>ハルナールＤ錠０．２ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,54 +25,17 @@ permalink: /news/tamsulosin/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（47 件）</strong>:<ul>
-<li>benign prostatic hyperplasia (disease) (99.0%)</li>
-<li>Ambras type hypertrichosis universalis congenita (99.0%)</li>
-<li>hypertrichosis (disease) (99.0%)</li>
-<li>malformation syndrome with odontal and/or periodontal component (99.0%)</li>
-<li>syndrome with a Dandy-Walker malformation as major feature (99.0%)</li>
-<li>isolated genetic hair shaft abnormality (99.0%)</li>
-<li>hypotrichosis simplex of the scalp (99.0%)</li>
-<li>congenital hypotrichosis milia (99.0%)</li>
-<li>diffuse alopecia areata (99.0%)</li>
-<li>alopecia (99.0%)</li>
-<li>migraine with brainstem aura (99.0%)</li>
-<li>migraine disorder (99.0%)</li>
-<li>familial isolated trichomegaly (99.0%)</li>
-<li>persistent fetal circulation syndrome (99.0%)</li>
-<li>16q24.1 microdeletion syndrome (99.0%)</li>
-<li>isolated pulmonary capillaritis (99.0%)</li>
-<li>primary interstitial lung disease specific to childhood (99.0%)</li>
-<li>congenital pulmonary lymphangiectasia (99.0%)</li>
-<li>allergic urticaria (99.0%)</li>
-<li>prostate calculus (98.0%)</li>
-<li>respiratory failure (98.0%)</li>
-<li>congenital alveolar capillary dysplasia (98.0%)</li>
-<li>pulmonary hypertension, primary, autosomal recessive (97.0%)</li>
-<li>pulmonary arterial hypertension associated with congenital heart disease (97.0%)</li>
-<li>pulmonary arterial hypertension (97.0%)</li>
-<li>trigeminal autonomic cephalalgia (97.0%)</li>
-<li>genetic alopecia (97.0%)</li>
-<li>obsolete patella aplasia, coxa vara, and tarsal synostosis (97.0%)</li>
-<li>kyphoscoliotic heart disease (97.0%)</li>
-<li>familial clubfoot due to 17q23.1q23.2 microduplication (97.0%)</li>
-<li>headache disorder (97.0%)</li>
-<li>pulmonary arteriovenous malformation (disease) (97.0%)</li>
-<li>pulmonary hypertension (97.0%)</li>
-<li>pulmonary arterial hypertension associated with chronic hemolytic anemia (97.0%)</li>
-<li>pulmonary arterial hypertension associated with schistosomiasis (97.0%)</li>
-<li>pulmonary arterial hypertension associated with connective tissue disease (97.0%)</li>
-<li>pulmonary arterial hypertension associated with HIV infection (97.0%)</li>
-<li>pseudopelade of Brocq (97.0%)</li>
-<li>chromosome 17q23.1-q23.2 deletion syndrome (97.0%)</li>
-<li>coxopodopatellar syndrome (96.0%)</li>
-<li>chronic thromboembolic pulmonary hypertension (96.0%)</li>
-<li>atrophoderma vermiculata (95.0%)</li>
-<li>Raynaud disease (95.0%)</li>
-<li>nasopharyngitis (95.0%)</li>
-<li>ulerythema ophryogenesis (93.0%)</li>
-<li>primary hereditary glaucoma (92.0%)</li>
-<li>syndrome with limb duplication, polydactyly, syndactyly, and/or hyperphalangy (91.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>Ambras type hypertrichosis universalis congenita (100.0%)</li>
+<li>hypertrichosis (disease) (100.0%)</li>
+<li>malformation syndrome with odontal and/or periodontal component (100.0%)</li>
+<li>syndrome with a Dandy-Walker malformation as major feature (100.0%)</li>
+<li>isolated genetic hair shaft abnormality (100.0%)</li>
+<li>hypotrichosis simplex of the scalp (99.9%)</li>
+<li>congenital hypotrichosis milia (99.9%)</li>
+<li>diffuse alopecia areata (99.9%)</li>
+<li>alopecia (99.8%)</li>
+<li>migraine with brainstem aura (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tamsulosin/' | relative_url }}">医薬品レポート全文を見る →</a></p>

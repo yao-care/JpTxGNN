@@ -3,7 +3,7 @@ layout: default
 title: "メバロチン錠５　５ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "メバロチン錠５　５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 50 件。"
+description: "メバロチン錠５　５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/pravastatin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pravastatin/
 ---
 
 <p class="key-answer" data-question="メバロチン錠５　５ｍｇ（選） に関するニュースは？">
-<strong>メバロチン錠５　５ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 50 件です。
+<strong>メバロチン錠５　５ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,57 +25,17 @@ permalink: /news/pravastatin/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（50 件）</strong>:<ul>
-<li>hyperlipoproteinemia (99.0%)</li>
-<li>obsolete familial combined hyperlipidemia (99.0%)</li>
-<li>homozygous familial hypercholesterolemia (99.0%)</li>
-<li>HIV infectious disease (99.0%)</li>
-<li>feline acquired immunodeficiency syndrome (99.0%)</li>
-<li>simian immunodeficiency virus infection (99.0%)</li>
-<li>familial hypercholesterolemia (99.0%)</li>
-<li>hypoalphalipoproteinemia (99.0%)</li>
-<li>hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency (99.0%)</li>
-<li>cholesterol-ester transfer protein deficiency (99.0%)</li>
-<li>obsolete susceptibility to ischemic stroke (98.0%)</li>
-<li>hyperlipidemia, familial combined, LPL related (98.0%)</li>
-<li>hypercholesterolemia, autosomal dominant (98.0%)</li>
-<li>familial hyperlipidemia (98.0%)</li>
-<li>brain stem infarction (98.0%)</li>
-<li>hyperlipidemia due to hepatic triglyceride lipase deficiency (98.0%)</li>
-<li>hypolipoproteinemia (disease) (98.0%)</li>
-<li>hyperlipidemia (98.0%)</li>
-<li>stroke disorder (97.0%)</li>
-<li>cerebral infarction (97.0%)</li>
-<li>ABri amyloidosis (97.0%)</li>
-<li>fibroma of prostate (97.0%)</li>
-<li>benign reproductive system neoplasm (96.0%)</li>
-<li>cerebral arterial disease (96.0%)</li>
-<li>cerebral artery occlusion (96.0%)</li>
-<li>Brenner tumor (96.0%)</li>
-<li>benign prostate phyllodes tumor (96.0%)</li>
-<li>prostate cancer/brain cancer susceptibility (96.0%)</li>
-<li>autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome (95.0%)</li>
-<li>male reproductive organ cancer (95.0%)</li>
-<li>brain small vessel disease 1 with or without ocular anomalies (95.0%)</li>
-<li>prostate leiomyoma (95.0%)</li>
-<li>intracerebral hemorrhage (95.0%)</li>
-<li>duodenal obstruction (95.0%)</li>
-<li>MRI defined brain infarct (95.0%)</li>
-<li>arteriosclerosis disorder (93.0%)</li>
-<li>chronic kidney disease (93.0%)</li>
-<li>congestive heart failure (93.0%)</li>
-<li>female breast carcinoma (93.0%)</li>
-<li>glaucoma (93.0%)</li>
-<li>duodenal ulcer (disease) (93.0%)</li>
-<li>cerebrovascular disorder (92.0%)</li>
-<li>generalized atherosclerosis (92.0%)</li>
-<li>cerebral atherosclerosis (92.0%)</li>
-<li>hyperalphalipoproteinemia (92.0%)</li>
-<li>ABeta amyloidosis (91.0%)</li>
-<li>duodenogastric reflux (91.0%)</li>
-<li>diabetic nephropathy (91.0%)</li>
-<li>AIDS (91.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>homozygous familial hypercholesterolemia (100.0%)</li>
+<li>HIV infectious disease (99.7%)</li>
 <li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (99.6%)</li>
+<li>simian immunodeficiency virus infection (99.5%)</li>
+<li>feline acquired immunodeficiency syndrome (99.5%)</li>
+<li>familial hypercholesterolemia (99.3%)</li>
+<li>hypoalphalipoproteinemia (99.2%)</li>
+<li>hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency (99.1%)</li>
+<li>cholesterol-ester transfer protein deficiency (99.0%)</li>
+<li>hypercholesterolemia, autosomal dominant (98.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pravastatin/' | relative_url }}">医薬品レポート全文を見る →</a></p>

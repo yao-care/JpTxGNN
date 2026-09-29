@@ -3,7 +3,7 @@ layout: default
 title: "セレコックス錠２００ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "セレコックス錠２００ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 50 件。"
+description: "セレコックス錠２００ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/celecoxib/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/celecoxib/
 ---
 
 <p class="key-answer" data-question="セレコックス錠２００ｍｇ（選） に関するニュースは？">
-<strong>セレコックス錠２００ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 50 件です。
+<strong>セレコックス錠２００ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,57 +25,17 @@ permalink: /news/celecoxib/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（50 件）</strong>:<ul>
-<li>spondyloarthropathy (99.0%)</li>
-<li>osteoarthritis susceptibility (99.0%)</li>
-<li>osteoarthritis (99.0%)</li>
-<li>arthropathy (99.0%)</li>
-<li>juvenile arthritis due to defect in LACC1 (99.0%)</li>
-<li>ankylosing spondylitis (99.0%)</li>
-<li>juvenile idiopathic arthritis (99.0%)</li>
-<li>spondyloarthropathy, susceptibility to (99.0%)</li>
-<li>acromesomelic dysplasia, Hunter-Thompson type (99.0%)</li>
-<li>brachyolmia-amelogenesis imperfecta syndrome (99.0%)</li>
-<li>rheumatoid vasculitis (99.0%)</li>
-<li>myosclerosis (99.0%)</li>
-<li>hypermobility of coccyx (99.0%)</li>
-<li>brachyolmia (99.0%)</li>
-<li>rheumatoid nodulosis (99.0%)</li>
-<li>rheumatoid factor-positive polyarticular juvenile idiopathic arthritis (99.0%)</li>
-<li>inflammatory spondylopathy (99.0%)</li>
-<li>WHIM syndrome (99.0%)</li>
-<li>Kummell disease (99.0%)</li>
-<li>juvenile chronic polyarthritis (99.0%)</li>
-<li>polyarticular juvenile rheumatoid arthritis (99.0%)</li>
-<li>rheumatoid arthritis (99.0%)</li>
-<li>vertebral disease (99.0%)</li>
-<li>pseudoachondroplasia (99.0%)</li>
-<li>brachydactyly-syndactyly syndrome (99.0%)</li>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.0%)</li>
-<li>leukoplakia (98.0%)</li>
-<li>mendelian susceptibility to mycobacterial diseases due to complete IL12B deficiency (98.0%)</li>
-<li>combined immunodeficiency due to moesin deficiency (98.0%)</li>
-<li>psoriasis-related juvenile idiopathic arthritis (97.0%)</li>
-<li>hypotrichosis simplex of the scalp (97.0%)</li>
-<li>diffuse alopecia areata (97.0%)</li>
-<li>gout (97.0%)</li>
-<li>congenital hypotrichosis milia (97.0%)</li>
-<li>vertebral joint disease (96.0%)</li>
-<li>ankylosis (disease) (96.0%)</li>
-<li>avascular necrosis of femoral head, primary (96.0%)</li>
-<li>transient arthropathy (96.0%)</li>
-<li>shoulder impingement syndrome (95.0%)</li>
-<li>ganglion or cyst of synovium/tendon/bursa (95.0%)</li>
-<li>Behcet syndrome arthropathy (95.0%)</li>
-<li>de Quervain disease (95.0%)</li>
-<li>articular cartilage disease (95.0%)</li>
-<li>tenosynovitis (94.0%)</li>
-<li>qualitative platelet defect (94.0%)</li>
-<li>fibroma (94.0%)</li>
-<li>bursitis (94.0%)</li>
-<li>Czech dysplasia, metatarsal type (93.0%)</li>
-<li>gingival hypertrophy (93.0%)</li>
-<li>spondyloepimetaphyseal dysplasia, Handigodu type (93.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>acromesomelic dysplasia, Hunter-Thompson type (99.9%)</li>
+<li>brachyolmia-amelogenesis imperfecta syndrome (99.9%)</li>
+<li>rheumatoid vasculitis (99.8%)</li>
+<li>myosclerosis (99.8%)</li>
+<li>hypermobility of coccyx (99.8%)</li>
+<li>brachyolmia (99.8%)</li>
+<li>rheumatoid nodulosis (99.8%)</li>
+<li>rheumatoid factor-positive polyarticular juvenile idiopathic arthritis (99.8%)</li>
+<li>inflammatory spondylopathy (99.8%)</li>
+<li>WHIM syndrome (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/celecoxib/' | relative_url }}">医薬品レポート全文を見る →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "ヘモレックス軟膏 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ヘモレックス軟膏 に関する健康ニュース。既存適応症：。予測適応症 50 件。"
+description: "ヘモレックス軟膏 に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/hydrocortisone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hydrocortisone/
 ---
 
 <p class="key-answer" data-question="ヘモレックス軟膏 に関するニュースは？">
-<strong>ヘモレックス軟膏</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 50 件です。
+<strong>ヘモレックス軟膏</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,57 +25,17 @@ permalink: /news/hydrocortisone/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（50 件）</strong>:<ul>
-<li>Trichinellosis (99.0%)</li>
-<li>granulomatous slack skin disease (99.0%)</li>
-<li>acquired thrombocytopenia (99.0%)</li>
-<li>rheumatic heart disease (99.0%)</li>
-<li>fetal erythroblastosis (99.0%)</li>
-<li>nephrotic syndrome (99.0%)</li>
-<li>autoimmune hemolytic anemia (99.0%)</li>
-<li>tenosynovitis (99.0%)</li>
-<li>alopecia areata (99.0%)</li>
-<li>alopecia mucinosa (99.0%)</li>
-<li>telogen effluvium (99.0%)</li>
-<li>Quinquaud's folliculitis decalvans (99.0%)</li>
-<li>alopecia antibody deficiency (99.0%)</li>
-<li>hereditary hypotrichosis with recurrent skin vesicles (99.0%)</li>
-<li>alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome (99.0%)</li>
-<li>atrichia with papular lesions (99.0%)</li>
-<li>alopecia universalis onychodystrophy vitiligo (99.0%)</li>
-<li>idiopathic steroid-sensitive nephrotic syndrome (99.0%)</li>
-<li>sporadic idiopathic steroid-resistant nephrotic syndrome (99.0%)</li>
-<li>miliary tuberculosis (99.0%)</li>
-<li>seborrheic keratosis (98.0%)</li>
-<li>heparin-induced thrombocytopenia (disease) (98.0%)</li>
-<li>exostosis (98.0%)</li>
-<li>disease of orbital region (98.0%)</li>
-<li>adrenocortical insufficiency (98.0%)</li>
-<li>familial adrenal hypoplasia with absent pituitary luteinizing hormone (98.0%)</li>
-<li>enterobiasis (98.0%)</li>
-<li>Addison disease (98.0%)</li>
-<li>necrobiosis lipoidica (98.0%)</li>
-<li>disorder of GPI anchor biosynthesis (98.0%)</li>
-<li>hemoglobinuria (98.0%)</li>
-<li>acquired aplastic anemia (98.0%)</li>
-<li>autoimmune myocarditis (98.0%)</li>
-<li>prolapse of lacrimal gland (98.0%)</li>
-<li>punctate epithelial keratoconjunctivitis (98.0%)</li>
-<li>articular cartilage disease (98.0%)</li>
-<li>transient arthropathy (98.0%)</li>
-<li>Behcet syndrome arthropathy (98.0%)</li>
-<li>ganglion or cyst of synovium/tendon/bursa (98.0%)</li>
-<li>shoulder impingement syndrome (98.0%)</li>
-<li>de Quervain disease (98.0%)</li>
-<li>epicondylitis (98.0%)</li>
-<li>persistent polyclonal B-cell lymphocytosis (98.0%)</li>
-<li>PAGOD syndrome (98.0%)</li>
-<li>ankylosis (disease) (98.0%)</li>
-<li>lacrimal gland neoplasm (98.0%)</li>
-<li>disease of orbital part of eye adnexa (98.0%)</li>
-<li>Sjogren syndrome (98.0%)</li>
-<li>bursitis (97.0%)</li>
-<li>papillary conjunctivitis (97.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>alopecia areata (100.0%)</li>
+<li>alopecia mucinosa (100.0%)</li>
+<li>telogen effluvium (100.0%)</li>
+<li>Quinquaud's folliculitis decalvans (100.0%)</li>
+<li>alopecia antibody deficiency (100.0%)</li>
+<li>hereditary hypotrichosis with recurrent skin vesicles (100.0%)</li>
+<li>alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome (100.0%)</li>
+<li>atrichia with papular lesions (99.9%)</li>
+<li>alopecia universalis onychodystrophy vitiligo (99.6%)</li>
+<li>idiopathic steroid-sensitive nephrotic syndrome (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/hydrocortisone/' | relative_url }}">医薬品レポート全文を見る →</a></p>

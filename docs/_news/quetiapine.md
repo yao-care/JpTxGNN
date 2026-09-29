@@ -3,7 +3,7 @@ layout: default
 title: "セロクエル２００ｍｇ錠（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "セロクエル２００ｍｇ錠（選） に関する健康ニュース。既存適応症：。予測適応症 35 件。"
+description: "セロクエル２００ｍｇ錠（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/quetiapine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/quetiapine/
 ---
 
 <p class="key-answer" data-question="セロクエル２００ｍｇ錠（選） に関するニュースは？">
-<strong>セロクエル２００ｍｇ錠（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 35 件です。
+<strong>セロクエル２００ｍｇ錠（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,42 +25,17 @@ permalink: /news/quetiapine/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（35 件）</strong>:<ul>
-<li>manic bipolar affective disorder (99.0%)</li>
-<li>major affective disorder (99.0%)</li>
-<li>schizophrenia (99.0%)</li>
-<li>bipolar disorder (99.0%)</li>
-<li>retinal dystrophy with or without extraocular anomalies (99.0%)</li>
-<li>congenital disorder of glycosylation with defective fucosylation (99.0%)</li>
-<li>hydranencephaly (disease) (99.0%)</li>
-<li>distal 17p13.3 microdeletion syndrome (99.0%)</li>
-<li>polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (99.0%)</li>
-<li>myopia X-linked (99.0%)</li>
-<li>Charcot-Marie-Tooth disease, demyelinating, type 1G (99.0%)</li>
-<li>trichotillomania (99.0%)</li>
-<li>syndromic myopia (99.0%)</li>
-<li>myopia 26, X-linked, female-limited (99.0%)</li>
-<li>atypical glycine encephalopathy (99.0%)</li>
-<li>Malan overgrowth syndrome (99.0%)</li>
-<li>hydrops-lactic acidosis-sideroblastic anemia-multisystemic failure syndrome (99.0%)</li>
-<li>Tourette syndrome (98.0%)</li>
-<li>anxiety disorder (98.0%)</li>
-<li>benign paroxysmal torticollis of infancy (97.0%)</li>
-<li>agoraphobia (97.0%)</li>
-<li>schizophreniform disorder (97.0%)</li>
-<li>Phelan-McDermid syndrome (96.0%)</li>
-<li>dysthymic disorder (95.0%)</li>
-<li>attention deficit-hyperactivity disorder (95.0%)</li>
-<li>autism susceptibility 1 (94.0%)</li>
-<li>gaze palsy, familial horizontal, with progressive scoliosis (94.0%)</li>
-<li>striatal degeneration, autosomal dominant (94.0%)</li>
-<li>autism spectrum disorder (93.0%)</li>
-<li>faciodigitogenital syndrome (93.0%)</li>
-<li>asperger syndrome, susceptibility to (92.0%)</li>
-<li>chondromyxoid fibroma (92.0%)</li>
-<li>childhood apraxia of speech (92.0%)</li>
-<li>amelocerebrohypohidrotic syndrome (91.0%)</li>
-<li>attention deficit hyperactivity disorder, inattentive type (91.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>retinal dystrophy with or without extraocular anomalies (99.6%)</li>
+<li>congenital disorder of glycosylation with defective fucosylation (99.5%)</li>
+<li>hydranencephaly (disease) (99.5%)</li>
+<li>distal 17p13.3 microdeletion syndrome (99.5%)</li>
+<li>polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (99.4%)</li>
+<li>myopia X-linked (99.4%)</li>
+<li>Charcot-Marie-Tooth disease, demyelinating, type 1G (99.4%)</li>
+<li>trichotillomania (99.4%)</li>
+<li>syndromic myopia (99.4%)</li>
+<li>myopia 26, X-linked, female-limited (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/quetiapine/' | relative_url }}">医薬品レポート全文を見る →</a></p>

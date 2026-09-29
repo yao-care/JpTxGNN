@@ -3,7 +3,7 @@ layout: default
 title: "メホビル配合錠ＨＤ「トーワ」 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "メホビル配合錠ＨＤ「トーワ」 に関する健康ニュース。既存適応症：。予測適応症 12 件。"
+description: "メホビル配合錠ＨＤ「トーワ」 に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/metformin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/metformin/
 ---
 
 <p class="key-answer" data-question="メホビル配合錠ＨＤ「トーワ」 に関するニュースは？">
-<strong>メホビル配合錠ＨＤ「トーワ」</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 12 件です。
+<strong>メホビル配合錠ＨＤ「トーワ」</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,19 +25,17 @@ permalink: /news/metformin/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（12 件）</strong>:<ul>
-<li>focal stiff limb syndrome (99.0%)</li>
-<li>classic stiff person syndrome (99.0%)</li>
-<li>diabetes mellitus (disease) (99.0%)</li>
-<li>opsismodysplasia (99.0%)</li>
-<li>thiamine-responsive dysfunction syndrome (99.0%)</li>
-<li>drug-induced localized lipodystrophy (99.0%)</li>
-<li>centrifugal lipodystrophy (98.0%)</li>
-<li>pressure-induced localized lipoatrophy (98.0%)</li>
-<li>pancreatic agenesis (98.0%)</li>
-<li>idiopathic localized lipodystrophy (98.0%)</li>
-<li>homozygous familial hypercholesterolemia (92.0%)</li>
-<li>type 2 diabetes mellitus (67.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>focal stiff limb syndrome (99.5%)</li>
+<li>classic stiff person syndrome (99.5%)</li>
+<li>opsismodysplasia (99.4%)</li>
+<li>thiamine-responsive dysfunction syndrome (99.4%)</li>
+<li>drug-induced localized lipodystrophy (99.1%)</li>
+<li>centrifugal lipodystrophy (99.0%)</li>
+<li>pressure-induced localized lipoatrophy (99.0%)</li>
+<li>pancreatic agenesis (98.9%)</li>
+<li>idiopathic localized lipodystrophy (98.9%)</li>
+<li>homozygous familial hypercholesterolemia (92.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/metformin/' | relative_url }}">医薬品レポート全文を見る →</a></p>

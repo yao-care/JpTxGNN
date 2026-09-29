@@ -3,7 +3,7 @@ layout: default
 title: "ブイフェンド錠２００ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ブイフェンド錠２００ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 50 件。"
+description: "ブイフェンド錠２００ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/voriconazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/voriconazole/
 ---
 
 <p class="key-answer" data-question="ブイフェンド錠２００ｍｇ（選） に関するニュースは？">
-<strong>ブイフェンド錠２００ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 50 件です。
+<strong>ブイフェンド錠２００ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,57 +25,17 @@ permalink: /news/voriconazole/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（50 件）</strong>:<ul>
-<li>fusariosis (99.0%)</li>
-<li>multidrug-resistant tuberculosis (98.0%)</li>
-<li>cysticercosis (98.0%)</li>
-<li>Ambras type hypertrichosis universalis congenita (98.0%)</li>
-<li>syndrome with a Dandy-Walker malformation as major feature (98.0%)</li>
-<li>malformation syndrome with odontal and/or periodontal component (98.0%)</li>
-<li>tuberculosis, bovine (98.0%)</li>
-<li>isolated genetic hair shaft abnormality (98.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>multidrug-resistant tuberculosis (98.7%)</li>
+<li>cysticercosis (98.3%)</li>
+<li>Ambras type hypertrichosis universalis congenita (98.3%)</li>
+<li>syndrome with a Dandy-Walker malformation as major feature (98.2%)</li>
+<li>malformation syndrome with odontal and/or periodontal component (98.1%)</li>
+<li>tuberculosis, bovine (98.1%)</li>
+<li>isolated genetic hair shaft abnormality (98.1%)</li>
 <li>inactive tuberculosis (98.0%)</li>
 <li>tuberculous ascites (98.0%)</li>
 <li>tuberculoma (98.0%)</li>
-<li>tuberculosis, avian (98.0%)</li>
-<li>esophageal candidiasis (97.0%)</li>
-<li>hypertrichosis (disease) (97.0%)</li>
-<li>coenurosis (97.0%)</li>
-<li>trichosporonosis (97.0%)</li>
-<li>geotrichosis (97.0%)</li>
-<li>hyalohyphomycosis (97.0%)</li>
-<li>penicilliosis (97.0%)</li>
-<li>maple bark strippers' lung (97.0%)</li>
-<li>pneumocystosis (97.0%)</li>
-<li>Cryptococcal meningitis (96.0%)</li>
-<li>Plasmodium falciparum malaria (96.0%)</li>
-<li>mycetoma (96.0%)</li>
-<li>intestinal helminthiasis (96.0%)</li>
-<li>ocular toxoplasmosis (96.0%)</li>
-<li>fascioliasis (96.0%)</li>
-<li>Cestode infectious disease (95.0%)</li>
-<li>gastrin secretion abnormality (94.0%)</li>
-<li>disseminated candidiasis (93.0%)</li>
-<li>neonatal candidiasis (93.0%)</li>
-<li>candida glabrata (93.0%)</li>
-<li>congenital candidiasis (93.0%)</li>
-<li>opisthorchiasis (93.0%)</li>
-<li>candidiasis, invasive (93.0%)</li>
-<li>giardiasis (93.0%)</li>
-<li>candidemia (92.0%)</li>
-<li>Legionnaires' disease (92.0%)</li>
-<li>gnathomiasis (92.0%)</li>
-<li>urea cycle disorder (92.0%)</li>
-<li>angiostrongyliasis (91.0%)</li>
-<li>helminthiasis, animal (91.0%)</li>
-<li>echinostomiasis (91.0%)</li>
-<li>hymenolepiasis (91.0%)</li>
-<li>fasciolopsiasis (91.0%)</li>
-<li>fascioloidiasis (91.0%)</li>
-<li>paragonimiasis (91.0%)</li>
-<li>necatoriasis (91.0%)</li>
-<li>acanthocephaliasis (91.0%)</li>
-<li>dicrocoeliasis (91.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/voriconazole/' | relative_url }}">医薬品レポート全文を見る →</a></p>

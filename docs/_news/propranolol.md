@@ -3,7 +3,7 @@ layout: default
 title: "インデラル錠１０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "インデラル錠１０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 50 件。"
+description: "インデラル錠１０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/propranolol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/propranolol/
 ---
 
 <p class="key-answer" data-question="インデラル錠１０ｍｇ（選） に関するニュースは？">
-<strong>インデラル錠１０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 50 件です。
+<strong>インデラル錠１０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,57 +25,17 @@ permalink: /news/propranolol/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（50 件）</strong>:<ul>
-<li>distal myopathy, Tateyama type (99.0%)</li>
-<li>congenital myopathy with excess of thin filaments (99.0%)</li>
-<li>hypertrophic cardiomyopathy (99.0%)</li>
-<li>glomus tumor (99.0%)</li>
-<li>hemangioma (99.0%)</li>
-<li>primary intralymphatic angioendothelioma (99.0%)</li>
-<li>hypertrophic cardiomyopathy due to intensive athletic training (99.0%)</li>
-<li>chondroma (99.0%)</li>
-<li>cirrhotic cardiomyopathy (99.0%)</li>
-<li>cardiomyopathy (99.0%)</li>
-<li>spindle cell hemangioma (99.0%)</li>
-<li>His bundle tachycardia (99.0%)</li>
-<li>retinal capillary malformation (99.0%)</li>
-<li>intramuscular hemangioma (98.0%)</li>
-<li>Maffucci syndrome (98.0%)</li>
-<li>congenital hemangioma (98.0%)</li>
-<li>breast epithelioid hemangioma (98.0%)</li>
-<li>breast capillary hemangioma (98.0%)</li>
-<li>PTEN hamartoma tumor syndrome (98.0%)</li>
-<li>cutaneous glomangioma (98.0%)</li>
-<li>skin epithelioid hemangioma (98.0%)</li>
-<li>bone epithelioid hemangioma (98.0%)</li>
-<li>epithelioid hemangioma (98.0%)</li>
-<li>dermis tumor (98.0%)</li>
-<li>subungual glomus tumor (98.0%)</li>
-<li>glomangiomyoma (98.0%)</li>
-<li>renal adenoma (98.0%)</li>
-<li>Pericytoma with t(7;12) (98.0%)</li>
-<li>hemangiopericytic tumor (98.0%)</li>
-<li>pulmonary venoocclusive disease (98.0%)</li>
-<li>benign perivascular tumor (98.0%)</li>
-<li>splenic hemangioma (98.0%)</li>
-<li>lymphangioma (98.0%)</li>
-<li>benign mesonephroma (98.0%)</li>
-<li>benign neoplasm of gum (98.0%)</li>
-<li>Bartholin gland adenomyoma (98.0%)</li>
-<li>Bartholin gland adenoma (98.0%)</li>
-<li>telangiectatic glomangioma (98.0%)</li>
-<li>placental hemangioma (98.0%)</li>
-<li>benign basal cell neoplasm (98.0%)</li>
-<li>benign neoplasm of rectum (98.0%)</li>
-<li>central nervous system organ benign neoplasm (98.0%)</li>
-<li>hemangioma of peripheral nerve (98.0%)</li>
-<li>extracranial carotid artery aneurysm (98.0%)</li>
-<li>gastric hemangioma (98.0%)</li>
-<li>anisometropia (disease) (98.0%)</li>
-<li>Proteus-like syndrome (98.0%)</li>
-<li>facial arteriovenous malformation (98.0%)</li>
-<li>skin glomus tumor (98.0%)</li>
-<li>capillary hemangioma (98.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>distal myopathy, Tateyama type (99.4%)</li>
+<li>congenital myopathy with excess of thin filaments (99.3%)</li>
+<li>hypertrophic cardiomyopathy due to intensive athletic training (99.2%)</li>
+<li>chondroma (99.1%)</li>
+<li>cirrhotic cardiomyopathy (99.1%)</li>
+<li>cardiomyopathy (99.1%)</li>
+<li>intramuscular hemangioma (99.0%)</li>
+<li>Maffucci syndrome (99.0%)</li>
+<li>breast epithelioid hemangioma (98.9%)</li>
+<li>breast capillary hemangioma (98.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/propranolol/' | relative_url }}">医薬品レポート全文を見る →</a></p>

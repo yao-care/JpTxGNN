@@ -3,7 +3,7 @@ layout: default
 title: "ピーエイ配合錠 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ピーエイ配合錠 に関する健康ニュース。既存適応症：。予測適応症 21 件。"
+description: "ピーエイ配合錠 に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/promethazine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/promethazine/
 ---
 
 <p class="key-answer" data-question="ピーエイ配合錠 に関するニュースは？">
-<strong>ピーエイ配合錠</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 21 件です。
+<strong>ピーエイ配合錠</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,28 +25,17 @@ permalink: /news/promethazine/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（21 件）</strong>:<ul>
-<li>vernal conjunctivitis (99.0%)</li>
-<li>papillary conjunctivitis (99.0%)</li>
-<li>atopic conjunctivitis (99.0%)</li>
-<li>rosacea conjunctivitis (98.0%)</li>
-<li>allergic urticaria (98.0%)</li>
-<li>cold urticaria (96.0%)</li>
-<li>rhinitis (94.0%)</li>
-<li>recalcitrant atopic dermatitis (93.0%)</li>
-<li>Angelucci syndrome (93.0%)</li>
-<li>acute hemorrhagic conjunctivitis (92.0%)</li>
-<li>chronic follicular conjunctivitis (92.0%)</li>
-<li>serous conjunctivitis except viral (92.0%)</li>
-<li>conjunctival folliculosis (92.0%)</li>
-<li>parasitic conjunctivitis (92.0%)</li>
-<li>pseudomembranous conjunctivitis (92.0%)</li>
-<li>viral conjunctivitis (92.0%)</li>
-<li>IgE responsiveness, atopic (91.0%)</li>
-<li>angioedema (72.0%)</li>
-<li>urticaria (disease) (56.0%)</li>
-<li>vasomotor rhinitis (50.0%)</li>
-<li>allergic rhinitis (50.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>rosacea conjunctivitis (98.9%)</li>
+<li>allergic urticaria (98.1%)</li>
+<li>cold urticaria (96.9%)</li>
+<li>rhinitis (94.2%)</li>
+<li>recalcitrant atopic dermatitis (93.2%)</li>
+<li>Angelucci syndrome (93.2%)</li>
+<li>acute hemorrhagic conjunctivitis (93.0%)</li>
+<li>serous conjunctivitis except viral (93.0%)</li>
+<li>parasitic conjunctivitis (93.0%)</li>
+<li>conjunctival folliculosis (93.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/promethazine/' | relative_url }}">医薬品レポート全文を見る →</a></p>

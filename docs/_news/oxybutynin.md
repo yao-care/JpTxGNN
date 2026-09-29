@@ -3,7 +3,7 @@ layout: default
 title: "ポラキス錠１　１ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ポラキス錠１　１ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 21 件。"
+description: "ポラキス錠１　１ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/oxybutynin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/oxybutynin/
 ---
 
 <p class="key-answer" data-question="ポラキス錠１　１ｍｇ（選） に関するニュースは？">
-<strong>ポラキス錠１　１ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 21 件です。
+<strong>ポラキス錠１　１ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,28 +25,17 @@ permalink: /news/oxybutynin/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（21 件）</strong>:<ul>
-<li>cauda equina syndrome (99.0%)</li>
-<li>obsolete neurogenic bladder (disease) (99.0%)</li>
-<li>overactive bladder (disease) (99.0%)</li>
-<li>restless legs syndrome (99.0%)</li>
-<li>gastroduodenitis (99.0%)</li>
-<li>peptic ulcer disease (99.0%)</li>
-<li>low compliance bladder (97.0%)</li>
-<li>nephrogenic syndrome of inappropriate antidiuresis (97.0%)</li>
-<li>insomnia (disease) (96.0%)</li>
-<li>attention deficit-hyperactivity disorder (95.0%)</li>
-<li>faciodigitogenital syndrome (94.0%)</li>
-<li>familial episodic pain syndrome with predominantly upper body involvement (92.0%)</li>
-<li>transient tic disorder (92.0%)</li>
-<li>migraine disorder (92.0%)</li>
-<li>migraine with brainstem aura (92.0%)</li>
-<li>sleep disorder, initiating and maintaining sleep (91.0%)</li>
-<li>bladder neck obstruction (91.0%)</li>
-<li>communication disorder (90.0%)</li>
-<li>stereotypic movement disorder (90.0%)</li>
-<li>fetal nicotine spectrum disorder (90.0%)</li>
-<li>developmental disorder of mental health (90.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>restless legs syndrome (99.7%)</li>
+<li>gastroduodenitis (99.6%)</li>
+<li>peptic ulcer disease (99.3%)</li>
+<li>low compliance bladder (97.9%)</li>
+<li>nephrogenic syndrome of inappropriate antidiuresis (97.5%)</li>
+<li>insomnia (disease) (96.9%)</li>
+<li>attention deficit-hyperactivity disorder (95.1%)</li>
+<li>faciodigitogenital syndrome (95.0%)</li>
+<li>familial episodic pain syndrome with predominantly upper body involvement (92.6%)</li>
+<li>transient tic disorder (92.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/oxybutynin/' | relative_url }}">医薬品レポート全文を見る →</a></p>

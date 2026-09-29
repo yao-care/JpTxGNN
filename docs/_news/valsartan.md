@@ -3,7 +3,7 @@ layout: default
 title: "ディオバンＯＤ錠１６０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ディオバンＯＤ錠１６０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 20 件。"
+description: "ディオバンＯＤ錠１６０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/valsartan/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/valsartan/
 ---
 
 <p class="key-answer" data-question="ディオバンＯＤ錠１６０ｍｇ（選） に関するニュースは？">
-<strong>ディオバンＯＤ錠１６０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 20 件です。
+<strong>ディオバンＯＤ錠１６０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,27 +25,17 @@ permalink: /news/valsartan/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（20 件）</strong>:<ul>
-<li>malignant renovascular hypertension (99.0%)</li>
-<li>malignant hypertensive renal disease (99.0%)</li>
-<li>pulmonary hypertension with unclear multifactorial mechanism (99.0%)</li>
-<li>pulmonary hypertension owing to lung disease and/or hypoxia (99.0%)</li>
-<li>hypertensive disorder (99.0%)</li>
-<li>Braddock syndrome (99.0%)</li>
-<li>chronic pulmonary heart disease (99.0%)</li>
-<li>Prinzmetal angina (99.0%)</li>
-<li>autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome (98.0%)</li>
-<li>brain small vessel disease 1 with or without ocular anomalies (98.0%)</li>
-<li>obsolete susceptibility to ischemic stroke (98.0%)</li>
-<li>intracerebral hemorrhage (97.0%)</li>
-<li>brain stem infarction (96.0%)</li>
-<li>cerebrovascular disorder (95.0%)</li>
-<li>diabetic nephropathy (95.0%)</li>
-<li>ABri amyloidosis (93.0%)</li>
-<li>cerebral artery occlusion (92.0%)</li>
-<li>cerebral infarction (92.0%)</li>
-<li>MRI defined brain infarct (90.0%)</li>
-<li>hypertension (50.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>malignant hypertensive renal disease (100.0%)</li>
+<li>malignant renovascular hypertension (100.0%)</li>
+<li>pulmonary hypertension with unclear multifactorial mechanism (100.0%)</li>
+<li>pulmonary hypertension owing to lung disease and/or hypoxia (100.0%)</li>
+<li>Braddock syndrome (100.0%)</li>
+<li>chronic pulmonary heart disease (99.6%)</li>
+<li>Prinzmetal angina (99.5%)</li>
+<li>autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome (98.5%)</li>
+<li>brain small vessel disease 1 with or without ocular anomalies (98.5%)</li>
+<li>obsolete susceptibility to ischemic stroke (98.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/valsartan/' | relative_url }}">医薬品レポート全文を見る →</a></p>

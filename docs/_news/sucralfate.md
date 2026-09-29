@@ -3,7 +3,7 @@ layout: default
 title: "アルサルミン内用液１０％（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "アルサルミン内用液１０％（選） に関する健康ニュース。既存適応症：。予測適応症 12 件。"
+description: "アルサルミン内用液１０％（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/sucralfate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/sucralfate/
 ---
 
 <p class="key-answer" data-question="アルサルミン内用液１０％（選） に関するニュースは？">
-<strong>アルサルミン内用液１０％（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 12 件です。
+<strong>アルサルミン内用液１０％（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,19 +25,17 @@ permalink: /news/sucralfate/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（12 件）</strong>:<ul>
-<li>duodenal ulcer (disease) (99.0%)</li>
-<li>duodenogastric reflux (99.0%)</li>
-<li>duodenal obstruction (99.0%)</li>
-<li>esophagitis (disease) (97.0%)</li>
-<li>peptic esophagitis (95.0%)</li>
-<li>duodenitis (95.0%)</li>
-<li>active peptic ulcer disease (95.0%)</li>
-<li>gastroduodenitis (94.0%)</li>
-<li>C1 inhibitor deficiency (94.0%)</li>
-<li>gastrojejunal ulcer (94.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>duodenogastric reflux (99.4%)</li>
+<li>duodenal obstruction (99.3%)</li>
+<li>esophagitis (disease) (97.5%)</li>
+<li>peptic esophagitis (96.0%)</li>
+<li>duodenitis (95.4%)</li>
+<li>active peptic ulcer disease (95.3%)</li>
+<li>gastroduodenitis (94.3%)</li>
+<li>C1 inhibitor deficiency (94.2%)</li>
 <li>peptic ulcer perforation (94.0%)</li>
-<li>serpinopathy with toxic serpin polymerization (92.0%)</li>
+<li>gastrojejunal ulcer (94.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/sucralfate/' | relative_url }}">医薬品レポート全文を見る →</a></p>

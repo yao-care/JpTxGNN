@@ -3,7 +3,7 @@ layout: default
 title: "タミフルドライシロップ３％（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "タミフルドライシロップ３％（選） に関する健康ニュース。既存適応症：。予測適応症 12 件。"
+description: "タミフルドライシロップ３％（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/oseltamivir/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/oseltamivir/
 ---
 
 <p class="key-answer" data-question="タミフルドライシロップ３％（選） に関するニュースは？">
-<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 12 件です。
+<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,18 +25,16 @@ permalink: /news/oseltamivir/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（12 件）</strong>:<ul>
-<li>influenza, severe, susceptibility to (98.0%)</li>
-<li>pyelonephritis (97.0%)</li>
-<li>disorder of tyrosine metabolism (96.0%)</li>
-<li>teratogenic Pierre Robin syndrome (96.0%)</li>
-<li>disorder of phenylalanine metabolism (95.0%)</li>
-<li>tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuria (95.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>pyelonephritis (97.8%)</li>
+<li>disorder of tyrosine metabolism (96.7%)</li>
+<li>teratogenic Pierre Robin syndrome (96.1%)</li>
+<li>disorder of phenylalanine metabolism (95.7%)</li>
+<li>tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuria (95.1%)</li>
 <li>staphylococcus aureus infection (95.0%)</li>
-<li>cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency (93.0%)</li>
-<li>pneumonia (92.0%)</li>
-<li>influenza (90.0%)</li>
-<li>streptococcal pneumonia (90.0%)</li>
+<li>cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency (93.9%)</li>
+<li>pneumonia (92.1%)</li>
+<li>streptococcal pneumonia (90.5%)</li>
 <li>aspergillosis, susceptibility to (89.8%)</li>
 </ul></li>
 </ul>

@@ -3,7 +3,7 @@ layout: default
 title: "レニベース錠１０　１０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "レニベース錠１０　１０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 22 件。"
+description: "レニベース錠１０　１０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/enalapril/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/enalapril/
 ---
 
 <p class="key-answer" data-question="レニベース錠１０　１０ｍｇ（選） に関するニュースは？">
-<strong>レニベース錠１０　１０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 22 件です。
+<strong>レニベース錠１０　１０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,29 +25,17 @@ permalink: /news/enalapril/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（22 件）</strong>:<ul>
-<li>congestive heart failure (99.0%)</li>
-<li>hypertensive disorder (98.0%)</li>
-<li>chronic pulmonary heart disease (98.0%)</li>
-<li>acute pulmonary heart disease (98.0%)</li>
-<li>pulmonary hypertension owing to lung disease and/or hypoxia (98.0%)</li>
-<li>pulmonary hypertension with unclear multifactorial mechanism (98.0%)</li>
-<li>malignant hypertensive renal disease (98.0%)</li>
-<li>malignant renovascular hypertension (98.0%)</li>
-<li>primary hereditary glaucoma (98.0%)</li>
-<li>Braddock syndrome (98.0%)</li>
-<li>open-angle glaucoma (98.0%)</li>
-<li>chronic kidney disease (97.0%)</li>
-<li>end stage renal failure (96.0%)</li>
-<li>intracerebral hemorrhage (96.0%)</li>
-<li>chronic renal failure syndrome (95.0%)</li>
-<li>cerebrovascular disorder (94.0%)</li>
-<li>autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome (94.0%)</li>
-<li>brain small vessel disease 1 with or without ocular anomalies (93.0%)</li>
-<li>heart failure (92.0%)</li>
-<li>hypotrichosis simplex of the scalp (92.0%)</li>
-<li>diabetic nephropathy (90.0%)</li>
-<li>congenital hypotrichosis milia (90.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>chronic pulmonary heart disease (98.9%)</li>
+<li>acute pulmonary heart disease (98.9%)</li>
+<li>pulmonary hypertension with unclear multifactorial mechanism (98.8%)</li>
+<li>pulmonary hypertension owing to lung disease and/or hypoxia (98.8%)</li>
+<li>malignant renovascular hypertension (98.8%)</li>
+<li>malignant hypertensive renal disease (98.8%)</li>
+<li>primary hereditary glaucoma (98.7%)</li>
+<li>Braddock syndrome (98.3%)</li>
+<li>open-angle glaucoma (98.2%)</li>
+<li>chronic kidney disease (97.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/enalapril/' | relative_url }}">医薬品レポート全文を見る →</a></p>

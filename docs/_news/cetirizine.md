@@ -3,7 +3,7 @@ layout: default
 title: "ザイザルシロップ０．０５％（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ザイザルシロップ０．０５％（選） に関する健康ニュース。既存適応症：。予測適応症 28 件。"
+description: "ザイザルシロップ０．０５％（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/cetirizine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cetirizine/
 ---
 
 <p class="key-answer" data-question="ザイザルシロップ０．０５％（選） に関するニュースは？">
-<strong>ザイザルシロップ０．０５％（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 28 件です。
+<strong>ザイザルシロップ０．０５％（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,35 +25,17 @@ permalink: /news/cetirizine/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（28 件）</strong>:<ul>
-<li>allergic urticaria (99.0%)</li>
-<li>papillary conjunctivitis (99.0%)</li>
-<li>cold urticaria (99.0%)</li>
-<li>atopic conjunctivitis (99.0%)</li>
-<li>nasal cavity disease (99.0%)</li>
-<li>pharyngitis (99.0%)</li>
-<li>acute laryngopharyngitis (99.0%)</li>
-<li>vernal conjunctivitis (99.0%)</li>
-<li>rosacea conjunctivitis (99.0%)</li>
-<li>common cold (99.0%)</li>
-<li>recalcitrant atopic dermatitis (99.0%)</li>
-<li>IgE responsiveness, atopic (98.0%)</li>
-<li>nasopharyngitis (98.0%)</li>
-<li>angioedema (95.0%)</li>
-<li>punctate epithelial keratoconjunctivitis (94.0%)</li>
-<li>trigeminal autonomic cephalalgia (93.0%)</li>
-<li>headache disorder (92.0%)</li>
-<li>viral conjunctivitis (92.0%)</li>
-<li>urticaria (disease) (92.0%)</li>
-<li>Angelucci syndrome (91.0%)</li>
-<li>serous conjunctivitis except viral (91.0%)</li>
-<li>chronic follicular conjunctivitis (91.0%)</li>
-<li>parasitic conjunctivitis (91.0%)</li>
-<li>conjunctival folliculosis (91.0%)</li>
-<li>acute hemorrhagic conjunctivitis (90.0%)</li>
-<li>pseudomembranous conjunctivitis (90.0%)</li>
-<li>vasomotor rhinitis (50.0%)</li>
-<li>allergic rhinitis (50.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>allergic urticaria (100.0%)</li>
+<li>cold urticaria (100.0%)</li>
+<li>nasal cavity disease (99.8%)</li>
+<li>acute laryngopharyngitis (99.7%)</li>
+<li>rosacea conjunctivitis (99.4%)</li>
+<li>recalcitrant atopic dermatitis (99.2%)</li>
+<li>IgE responsiveness, atopic (98.8%)</li>
+<li>angioedema (95.7%)</li>
+<li>punctate epithelial keratoconjunctivitis (94.7%)</li>
+<li>trigeminal autonomic cephalalgia (94.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cetirizine/' | relative_url }}">医薬品レポート全文を見る →</a></p>

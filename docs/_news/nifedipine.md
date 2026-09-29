@@ -3,7 +3,7 @@ layout: default
 title: "アダラートＣＲ錠４０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "アダラートＣＲ錠４０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 13 件。"
+description: "アダラートＣＲ錠４０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/nifedipine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/nifedipine/
 ---
 
 <p class="key-answer" data-question="アダラートＣＲ錠４０ｍｇ（選） に関するニュースは？">
-<strong>アダラートＣＲ錠４０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 13 件です。
+<strong>アダラートＣＲ錠４０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,9 @@ permalink: /news/nifedipine/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（13 件）</strong>:<ul>
-<li>Prinzmetal angina (93.0%)</li>
-<li>migraine with brainstem aura (92.0%)</li>
-<li>migraine disorder (91.0%)</li>
-<li>hypertensive disorder (69.0%)</li>
-<li>hypertension (50.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>migraine with brainstem aura (92.6%)</li>
+<li>migraine disorder (91.8%)</li>
 <li>pulmonary hypertension with unclear multifactorial mechanism (77.8%)</li>
 <li>pulmonary hypertension owing to lung disease and/or hypoxia (77.8%)</li>
 <li>malignant renovascular hypertension (76.6%)</li>

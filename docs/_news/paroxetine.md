@@ -3,7 +3,7 @@ layout: default
 title: "パロキセチン錠２０ｍｇ「ＳＰＫＫ」 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "パロキセチン錠２０ｍｇ「ＳＰＫＫ」 に関する健康ニュース。既存適応症：。予測適応症 32 件。"
+description: "パロキセチン錠２０ｍｇ「ＳＰＫＫ」 に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/paroxetine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/paroxetine/
 ---
 
 <p class="key-answer" data-question="パロキセチン錠２０ｍｇ「ＳＰＫＫ」 に関するニュースは？">
-<strong>パロキセチン錠２０ｍｇ「ＳＰＫＫ」</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 32 件です。
+<strong>パロキセチン錠２０ｍｇ「ＳＰＫＫ」</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,39 +25,17 @@ permalink: /news/paroxetine/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（32 件）</strong>:<ul>
-<li>endogenous depression (99.0%)</li>
-<li>major depressive disorder (99.0%)</li>
-<li>dysthymic disorder (99.0%)</li>
-<li>Ohdo syndrome and variants (99.0%)</li>
-<li>unipolar depression (98.0%)</li>
-<li>obsessive-compulsive disorder (98.0%)</li>
-<li>anxiety disorder (98.0%)</li>
-<li>melancholia (98.0%)</li>
-<li>blepharophimosis - intellectual disability syndrome, Ohdo type (98.0%)</li>
-<li>neurotic depression (98.0%)</li>
-<li>benign paroxysmal torticollis of infancy (98.0%)</li>
-<li>agoraphobia (97.0%)</li>
-<li>histrionic personality disorder (disease) (97.0%)</li>
-<li>schizotypal personality disorder (97.0%)</li>
-<li>paranoid personality disorder (97.0%)</li>
-<li>schizoid personality disorder (97.0%)</li>
-<li>Keppen-Lubinsky syndrome (97.0%)</li>
-<li>ligneous conjunctivitis (97.0%)</li>
-<li>neurotic disorder (96.0%)</li>
-<li>congenital isolated adrenocorticotropic hormone deficiency (disease) (96.0%)</li>
-<li>migraine disorder (96.0%)</li>
-<li>migraine with brainstem aura (96.0%)</li>
-<li>phobic disorder (95.0%)</li>
-<li>autosomal dominant slowed nerve conduction velocity (95.0%)</li>
-<li>myofascial pain syndrome (94.0%)</li>
-<li>childhood apraxia of speech (94.0%)</li>
-<li>vitamin B12-responsive methylmalonic acidemia (94.0%)</li>
-<li>dependent personality disorder (92.0%)</li>
-<li>avoidant personality disorder (91.0%)</li>
-<li>narcissistic personality disorder (90.0%)</li>
-<li>post-traumatic stress disorder (83.0%)</li>
-<li>social phobia (50.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>Ohdo syndrome and variants (99.1%)</li>
+<li>melancholia (98.7%)</li>
+<li>blepharophimosis - intellectual disability syndrome, Ohdo type (98.7%)</li>
+<li>neurotic depression (98.7%)</li>
+<li>benign paroxysmal torticollis of infancy (98.1%)</li>
+<li>agoraphobia (97.8%)</li>
+<li>schizoid personality disorder (97.7%)</li>
+<li>histrionic personality disorder (disease) (97.7%)</li>
+<li>schizotypal personality disorder (97.7%)</li>
+<li>paranoid personality disorder (97.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/paroxetine/' | relative_url }}">医薬品レポート全文を見る →</a></p>

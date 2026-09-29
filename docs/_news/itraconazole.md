@@ -3,7 +3,7 @@ layout: default
 title: "イトリゾールカプセル５０　５０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "イトリゾールカプセル５０　５０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 21 件。"
+description: "イトリゾールカプセル５０　５０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/itraconazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/itraconazole/
 ---
 
 <p class="key-answer" data-question="イトリゾールカプセル５０　５０ｍｇ（選） に関するニュースは？">
-<strong>イトリゾールカプセル５０　５０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 21 件です。
+<strong>イトリゾールカプセル５０　５０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,20 +25,9 @@ permalink: /news/itraconazole/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（21 件）</strong>:<ul>
-<li>pneumocystosis (99.0%)</li>
-<li>Cryptococcal meningitis (93.0%)</li>
-<li>esophageal candidiasis (91.0%)</li>
-<li>fusariosis (88.0%)</li>
-<li>aspergillosis (83.0%)</li>
-<li>blastomycosis (69.0%)</li>
-<li>disseminated candidiasis (68.0%)</li>
-<li>coccidioidomycosis (50.0%)</li>
-<li>candidemia (50.0%)</li>
-<li>white piedra (50.0%)</li>
-<li>histoplasmosis (50.0%)</li>
-<li>black piedra (50.0%)</li>
-<li>sporotrichosis (50.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>pneumocystosis (99.3%)</li>
+<li>Cryptococcal meningitis (93.7%)</li>
 <li>hyalohyphomycosis (89.0%)</li>
 <li>trichosporonosis (89.0%)</li>
 <li>geotrichosis (89.0%)</li>
