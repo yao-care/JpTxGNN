@@ -1,19 +1,103 @@
 {
   "source": "japan_news",
-  "fetched_at": "2026-10-03T02:54:58.524948+00:00",
-  "total_fetched": 162,
-  "unique_count": 162,
-  "health_related_count": 71,
+  "fetched_at": "2026-10-03T10:48:38.031884+00:00",
+  "total_fetched": 161,
+  "unique_count": 161,
+  "health_related_count": 70,
   "news": [
     {
-      "id": "0e2d54795c5e",
-      "title": "「今は体がほとんど動かない」難病ALSを患った2児の母「病気になったのには必ず理由がある」葛藤の先に見えた希望(CHANTO WEB)",
-      "published": "2026-10-03T02:45:30+00:00",
-      "summary": "全身の筋肉が徐々に動かなくなる進行性の難病、ALS（筋萎縮性側索硬化症）。2児の母であるはらだまさこさんは現在、周囲の手を借りながら生活しています。当初は戸惑いや葛藤もあったはらださんですが、日々の自",
+      "id": "1eba91f7e02c",
+      "title": "リフレッシュ・脳の活性化で注目を集める【手のひらボール回し】優れた効果とやり方(ヨガジャーナルオンライン)",
+      "published": "2026-10-03T10:30:00+00:00",
+      "summary": "中国発の「健身球（けんしんきゅう）」をご存知ですか？ 今回ご紹介するのは、この健身球を使ったトレーニング。片手で2つのボールを持ち、指先を操り、クルクルと手のひら上で回すというのものです。心身やパフォ",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/5b6175e1ada47d9056e8bfc0e7b6f0cc134cce43?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/a7089054d5339b69a7423869363ac859a3d9de52?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "a0a97f23050e",
+      "title": "投球の「キレ」「ノビ」の正体とは？　野球少年だった教授が「感覚」を数値化(朝日新聞Thinkキャンパス)",
+      "published": "2026-10-03T10:04:46+00:00",
+      "summary": "野球中継で耳にするボールの「キレ」や「ノビ」。そんな感覚的な現象をデータで解き明かしているのが、国学院大学人間開発学部健康体育学科の神事（じんじ）努准教授です。専門はスポーツバイオメカニクス。身体やボ",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/128799415964430f1e1fe6d739d33908ba225739?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "e1bf91ce9dcc",
+      "title": "【定年後の歩き方】元キャンギャル63歳女性の定年フライング起業の失敗と後悔、スキマバイトで得た希望～その1～(サライ.jp)",
+      "published": "2026-10-03T10:02:32+00:00",
+      "summary": "AIの進化が止まらない。今は人間と同じくらいの知能を持つ汎用人工知能・AGIや、さらにそれを超える超知能・ASIなどの開発も進んでいるという。米AI新興企業アンソロピックの最高経営責任者は「AIモデル",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/8f1d4e2c99bd0474c24b7971978aa6ac26d3b75e?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "c2a8c65ac771",
+      "title": "ニュージーランドのファーマーズマーケット(クーリエ・ジャポン)",
+      "published": "2026-10-03T09:52:00+00:00",
+      "summary": "ニュージーランドへ渡る前、ガイドブックか何かで、「ニュージーランドはオーガニック天国」と書かれていた。農薬をできるだけ避けたいと思っていた私は喜んでやってきたが、オーガニックの野菜や果物が容易に手に入",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/dd289d939cc1a475c8c8ae131350bdfb1fe249f1?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "f55ed526f115",
+      "title": "キャットフードから重金属、99%で鉛検出　農薬やプラスチック関係の化学物質も　米調査(CNN.co.jp)",
+      "published": "2026-10-03T08:03:00+00:00",
+      "summary": "（CNN） 市販のキャットフードを対象にした米国の新たな調査で、検査したほぼ全ての商品から、プラスチック由来の汚染物質や除草剤グリホサート、鉛や水銀、ヒ素などの重金属が検出された。調査結果はCNNに独",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/6aba45f0548bbdc4a08731d3a5d6dd87bd4c009b?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "64c56488a370",
+      "title": "人間の脳は、異なる2つの“部品”からつくられていた：研究結果 - ライブドアニュース",
+      "published": "2026-10-03T08:00:00+00:00",
+      "summary": "人間の脳は、異なる2つの“部品”からつくられていた：研究結果&nbsp;&nbsp;ライブドアニュースGoogle ニュースで見出しと意見をもっと見る",
+      "sources": [
+        {
+          "name": "ライブドアニュース",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEUkVMMk9lUWJSblJDQ0FhZUdoaVJ5Qkx4WU5haDRfMnJNLWNrcnY2dnFpeldkUG5GMUh0eEM0TW5iLTFqdDU5TnpucWhobzB1eXoxMEhUWjVTMTVnV2ZJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "75860bc2e441",
+      "title": "皮膚に貼っても蒸れず伸縮…理研が開発、面直導電フィルムの機能(ニュースイッチ)",
+      "published": "2026-10-03T07:10:02+00:00",
+      "summary": "理化学研究所の李成薫研究員と染谷隆夫チームディレクター、早稲田大学の片山俊平大学院生らは、皮膚に貼っても蒸れない面直導電伸縮フィルムを開発した。大気中で無加熱・無加圧で導電フィルムを密着させる。100",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/613ae228977af844e5b2140573a1602db9e34bbf?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "9381363df682",
+      "title": "地球の月、「わずか5時間」で形成された可能性　最新モデル研究が示唆(Forbes JAPAN)",
+      "published": "2026-10-03T06:00:00+00:00",
+      "summary": "地球の衛星である月は約45億年前、巨大衝突からわずか5時間以内に、塊としての形を保ったまま形成された可能性があるとする最新のコンピューターシミュレーション結果が発表された。太陽系における最も重要な出来",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/7c5ef6ddb20d67b5a2c7dfc7cd294d174150b423?source=rss"
         }
       ]
     },
@@ -42,30 +126,6 @@
       ]
     },
     {
-      "id": "05607943ae6c",
-      "title": "ヒンヤリすると、くしゃみが止まらない｜体の断熱不足に注意【大人の未病ケア】(サライ.jp)",
-      "published": "2026-10-03T02:02:35+00:00",
-      "summary": "気候が秋冬へと向かうこの季節。変わり目をスムーズに乗り越えて、健康に過ごしたいものですね。写真はこちらから→ヒンヤリすると、くしゃみが止まらない｜体の断熱不足に注意【大人の未病ケア】じつは私たちの体に",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/6e4b5bdf54550fe2a29e99c2a72ac745c6ae2da5?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "abbaf0c7b316",
-      "title": "「おへそ周りが冷たい」「おならが臭い」…それ、腸からのSOSかも！うつ病や大腸がんのリスクも？見逃しがちな「腸疲労」とは【チェックリストつき】(OTONA SALONE)",
-      "published": "2026-10-03T02:02:08+00:00",
-      "summary": "「おへそ周りが冷たい」「おならがいつもより臭い」──そんな変化に心当たりはありませんか？ 実は、それは腸が疲れているサインかもしれません。【画像ギャラリー】今、なぜ腸活をしなければならないのか？「腸疲",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/7e0ab1b75cc64b5052a38f41cd32d80df585b78a?source=rss"
-        }
-      ]
-    },
-    {
       "id": "9b51e623d648",
       "title": "【闘病】“かなり初期”の『乳がん』でも抗がん剤と放射線25回 42歳2児の母が流した涙(メディカルドック)",
       "published": "2026-10-03T02:01:40+00:00",
@@ -78,22 +138,10 @@
       ]
     },
     {
-      "id": "cda3fe67e821",
-      "title": "高齢者が糖尿病になりやすい4つの要因 - ja.laodong.vn",
-      "published": "2026-10-03T02:00:00+00:00",
-      "summary": "高齢者が糖尿病になりやすい4つの要因&nbsp;&nbsp;ja.laodong.vn",
-      "sources": [
-        {
-          "name": "ja.laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYUtrSmc4MUZZc1c5SVVFMmM2MGpDWWRvendBbEJkcHdVeExXWG1FLWVEaTMtd19WSzFoRzJMMThabmdqUGluTE1MQXZLRW4yUnkwOXZBRzhIMjI2YlBhcThZUWJfcThpWnV3WDMyTjA1cDkwZmFiUUhMZVFoUWg5TU5xY2Z4OXYzUTM4XzBPVExnN1E?oc=5"
-        }
-      ]
-    },
-    {
       "id": "4e06cc501a1f",
       "title": "医師が「感染症予防のために摂るといい」と回答した栄養成分の1位は？3位乳酸菌、2位ビタミンC - マイナビニュース",
       "published": "2026-10-03T01:16:18+00:00",
-      "summary": "医師が「感染症予防のために摂るといい」と回答した栄養成分の1位は？3位乳酸菌、2位ビタミンC&nbsp;&nbsp;マイナビニュース医師が「感染症予防のために摂るといい」と回答した栄養成分の1位は？3位乳酸菌、2位ビタミンC｜Infoseekニュース&nbsp;&nbsp;Infoseek",
+      "summary": "医師が「感染症予防のために摂るといい」と回答した栄養成分の1位は？3位乳酸菌、2位ビタミンC&nbsp;&nbsp;マイナビニュースGoogle ニュースで見出しと意見をもっと見る",
       "sources": [
         {
           "name": "マイナビニュース",
@@ -114,37 +162,61 @@
       ]
     },
     {
-      "id": "bb4982925993",
-      "title": "始まりは左目の小さなアザ…原因不明の難病「サルコイドーシス」で日常を奪われた女性(62)が悔やむ“病院を避けた過去” - Yahoo!ニュース",
+      "id": "b649491293d7",
+      "title": "始まりは左目の小さなアザ…原因不明の難病「サルコイドーシス」で日常を奪われた女性(62)が悔やむ“病院を避けた過去” - Yahoo!ファイナンス",
       "published": "2026-10-02T22:30:39+00:00",
-      "summary": "始まりは左目の小さなアザ…原因不明の難病「サルコイドーシス」で日常を奪われた女性(62)が悔やむ“病院を避けた過去”&nbsp;&nbsp;Yahoo!ニュースGoogle ニュースで見出しと意見をもっと見る",
+      "summary": "始まりは左目の小さなアザ…原因不明の難病「サルコイドーシス」で日常を奪われた女性(62)が悔やむ“病院を避けた過去”&nbsp;&nbsp;Yahoo!ファイナンスGoogle ニュースで見出しと意見をもっと見る",
       "sources": [
         {
-          "name": "Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5NSUlMbFpfd3ppbVAzSEg2MXZQcURwV1NTVTd1WFd0T0ZtQ1hrUjlfOWl4bUZNRmRVdm0xTExPYk5nbFhNS0dpOTFrQXJTQUhzY1Q4WnBONjFJUWQyTWpiRHhNaTFHNXViVEZBOFZ6NzZHUEZ3aFkxd2EyWFhRcmc?oc=5"
+          "name": "Yahoo!ファイナンス",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQalZheXUxTkluRDlMQ2UyeHlJdnRUdkpkUXZxOXZRUzFDTVBUYUJ5bVZQeXNkR1lUNzlaNTFwT2RRY2dFQXNxZUpmb0FxTFFzanZJLWU4STdndEhiS3Z1WkV3UmFZUVMwTjRGV1B6TXJaTVJWQUE0elV3ZUZQUzBkRVdPdkhsQzA?oc=5"
         }
       ]
     },
     {
-      "id": "dccba41c8924",
-      "title": "「フルミスト」全額助成へ 子どものインフル予防接種 上毛町が今月から 子育て世代にアピール ／福岡 - mainichi.jp",
+      "id": "c4c43c23c125",
+      "title": "「フルミスト」全額助成へ 子どものインフル予防接種 上毛町が今月から 子育て世代にアピール ／福岡 - 毎日新聞",
       "published": "2026-10-02T20:01:06+00:00",
-      "summary": "「フルミスト」全額助成へ 子どものインフル予防接種 上毛町が今月から 子育て世代にアピール ／福岡&nbsp;&nbsp;mainichi.jp【インフルエンザ】感染者数が増加 今後の流行に危機感 鹿児島&nbsp;&nbsp;Yahoo!ニュース【10/1開始】高齢者インフルエンザ予防接種｜対象・料金を確認｜川ばたひろこ（大阪市都島区）&nbsp;&nbsp;選挙ドットコム広島市でインフルエンザの予防接種始まる 医療機関「早めの接種を」&nbsp;&nbsp;TVer京都市で高齢者向けインフル予防接種補助はじまる 例年より早い流行入りに積極的接種呼びかけ&nbsp;&nbsp;産経ニュース",
+      "summary": "「フルミスト」全額助成へ 子どものインフル予防接種 上毛町が今月から 子育て世代にアピール ／福岡&nbsp;&nbsp;毎日新聞【インフルエンザ】感染者数が増加 今後の流行に危機感 鹿児島&nbsp;&nbsp;Yahoo!ニュース【10/1開始】高齢者インフルエンザ予防接種｜対象・料金を確認｜川ばたひろこ（大阪市都島区）&nbsp;&nbsp;選挙ドットコム広島市でインフルエンザの予防接種始まる 医療機関「早めの接種を」&nbsp;&nbsp;TVer京都市で高齢者向けインフル予防接種補助はじまる 例年より早い流行入りに積極的接種呼びかけ&nbsp;&nbsp;sankei.com",
       "sources": [
         {
-          "name": "mainichi.jp",
+          "name": "毎日新聞",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RMVhDRFRPZEx3UDU5V09kNTVsMVpXcThzZThFV3doSGgxNlozeWZRZjMxWTRSb2JHWXNzTWZzUjczSG41NUI2YXFZT19JWkJxOWZvQ0R6UU11UXg3aU9iV1lyZC1NMmti?oc=5"
         }
       ]
     },
     {
-      "id": "77ce91bb2558",
-      "title": "人工腎臓の成熟法を開発 熊本大のグループ 創薬・移植治療へ応用期待 - kumanichi.com",
-      "published": "2026-10-02T10:28:57+00:00",
-      "summary": "人工腎臓の成熟法を開発 熊本大のグループ 創薬・移植治療へ応用期待&nbsp;&nbsp;kumanichi.com",
+      "id": "73735cc4811e",
+      "title": "市川の女性はしか感染 患者と接触なし、千葉県内３３例目 - 千葉日報オンライン",
+      "published": "2026-10-02T20:00:00+00:00",
+      "summary": "市川の女性はしか感染 患者と接触なし、千葉県内３３例目&nbsp;&nbsp;千葉日報オンライン【はしか】県内での感染拡大に警戒感 ワクチン接種を呼びかけ 福岡県医師会（FBS福岡放送）&nbsp;&nbsp;Yahoo!ニュース",
       "sources": [
         {
-          "name": "kumanichi.com",
+          "name": "千葉日報オンライン",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ERHlaSGdVRERmMEVkbGRlRktXMTFqMTRJZl94d1VMQWtOZGYzTTBDNDBsM3FramNHMTFZVXdiZDBKVXI2cmdJWXNlWFhubEM3V3RKVU5keEk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "6ffdec31122d",
+      "title": "大井町の高齢者新型コロナウイルス感染症予防接種の一部助成 - タウンニュース",
+      "published": "2026-10-02T15:00:00+00:00",
+      "summary": "大井町の高齢者新型コロナウイルス感染症予防接種の一部助成&nbsp;&nbsp;タウンニュース新型コロナワクチンの定期接種開始、６５歳以上の高齢者らが対象…学会は接種を強く推奨&nbsp;&nbsp;読売新聞低調な定期接種率、「せめて50％に」 コロナワクチンで感染症学会の西氏 | 日刊薬業 - 医薬品産業の総合情報サイト&nbsp;&nbsp;日刊薬業【10/1開始】大阪市の新型コロナ定期接種｜対象・料金8000円｜川ばたひろこ（大阪市都島区） - 川ばたひろこ（カワバタヒロコ） ｜ 選挙ドットコム&nbsp;&nbsp;選挙ドットコム",
+      "sources": [
+        {
+          "name": "タウンニュース",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QVk5ZS01ESTZ3aTJ3Vlo1ODdBakxYN1Y5Ump3NlRQSnMyV1BTMkk3S2Z6MF85Y3JtYjdOWGk5WnJYZjl3ajJRX0dwdUNfdGFhemVubDRxR1lwYlRJUW16WU5nQVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f93ed89c14e1",
+      "title": "人工腎臓の成熟法を開発 熊本大のグループ 創薬・移植治療へ応用期待 - 熊本日日新聞社",
+      "published": "2026-10-02T10:28:57+00:00",
+      "summary": "人工腎臓の成熟法を開発 熊本大のグループ 創薬・移植治療へ応用期待&nbsp;&nbsp;熊本日日新聞社",
+      "sources": [
+        {
+          "name": "熊本日日新聞社",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mVXN0bktNYTJOb2dvaHpwSF9vWThhMnpicW83V0pXU0w2TGJSdU5KUWlZQU9oTFp6X1pMT2lRbXZvTDMyUHp4RnhFWUxCZzA?oc=5"
         }
       ]
@@ -270,13 +342,13 @@
       ]
     },
     {
-      "id": "b044478fa579",
-      "title": "確かな技術でMCIを早期発見 ～認知症という社会課題の解決に挑む～ - 産経ニュース",
+      "id": "2ddf8cf221a6",
+      "title": "確かな技術でMCIを早期発見 ～認知症という社会課題の解決に挑む～ - sankei.com",
       "published": "2026-10-02T01:00:00+00:00",
-      "summary": "確かな技術でMCIを早期発見 ～認知症という社会課題の解決に挑む～&nbsp;&nbsp;産経ニュースGoogle ニュースで見出しと意見をもっと見る",
+      "summary": "確かな技術でMCIを早期発見 ～認知症という社会課題の解決に挑む～&nbsp;&nbsp;sankei.com確かな技術でMCIを早期発見 ～認知症という社会課題の解決に挑む～（PR TIMES STORY）&nbsp;&nbsp;毎日新聞認知症が減少⁉ 1000人中63％の人が知らない軽度認知障害（MCI）。あなたの脳は今どの状態？&nbsp;&nbsp;ｄメニューニュース認知症診療指針 ９年ぶり改訂…早期診断で新薬使用検討&nbsp;&nbsp;読売新聞「物忘れ」と「認知症」を分ける決定的な違いとは…専門医が解説 早期発見で広がる治療の選択肢 「この程度で…」と遠慮せず受診を&nbsp;&nbsp;FNNプライムオンライン",
       "sources": [
         {
-          "name": "産経ニュース",
+          "name": "sankei.com",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdG10TFdJLUotWWwwV1NzYXF6VGZTa2JuaVc3RW9HVVJVOFMzeXoxWTh5WUZld0RBeU9WTFlCZDFKamZRTEY2QjdRbnVSSzV4RDZ2NUdwT3FxN0NuRVdJX3F1VmdjdEhOeDUxazgtdXVEaVdhOGNJOVNHd1ZJTTYtRGNPcw?oc=5"
         }
       ]
@@ -290,18 +362,6 @@
         {
           "name": "CareNet.com",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJRkczY2VremtoeWxDc0dtdW5aT0lTbVQ3SXlvdzBXQnFnSHo1YXpHcVYxdEZTOTViOGVWcmtLYnYtbUVldEw2bTJPbm5iNDFNMDR0RjA3dGtKQ1lv?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "12d422fd7dea",
-      "title": "【記事のご紹介】HPVワクチンのをめぐって、何が問題なのか？わかりやすい解説 - 選挙ドットコム",
-      "published": "2026-10-02T00:39:20+00:00",
-      "summary": "【記事のご紹介】HPVワクチンのをめぐって、何が問題なのか？わかりやすい解説&nbsp;&nbsp;選挙ドットコムGoogle ニュースで見出しと意見をもっと見る",
-      "sources": [
-        {
-          "name": "選挙ドットコム",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14cldnZnFZaU56V3pkVkZYRGxLU1I1dU1XdDNXSmtIRzdjQ2dGMVo2RzJSZk9qcEk2aWZmbjhoSFcxOTVYSFVMbWhwYzVnZS1QY2JvcDdxSEJ2VURDdXBB?oc=5"
         }
       ]
     },
@@ -378,38 +438,14 @@
       ]
     },
     {
-      "id": "be07bc711b02",
-      "title": "新型コロナワクチンの定期接種開始、６５歳以上の高齢者らが対象…学会は接種を強く推奨 - 読売新聞",
-      "published": "2026-10-01T10:26:00+00:00",
-      "summary": "新型コロナワクチンの定期接種開始、６５歳以上の高齢者らが対象…学会は接種を強く推奨&nbsp;&nbsp;読売新聞Google ニュースで見出しと意見をもっと見る",
+      "id": "595ade9402b0",
+      "title": "1年間で4千人以上のベトナム人女性が子宮頸がんで死亡 - Laodong.vn",
+      "published": "2026-10-01T11:32:04+00:00",
+      "summary": "1年間で4千人以上のベトナム人女性が子宮頸がんで死亡&nbsp;&nbsp;Laodong.vn",
       "sources": [
         {
-          "name": "読売新聞",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBCT0Z0bVNKT2hBTmpaVWM2dkQ0aUg1YTF4SE1DdFZfUU1mMTJ4eTBFN1RjbTN1RXBySFVlWlpqcDBPRmFiTkNnRXl6M3h6M2F1Uk0xS2tZRFRmNzBxcDNmbGtGLWc?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "21cfcd2ea505",
-      "title": "インフル微増、コロナ減少 手足口病とＡ 群溶血性レンサ球菌の警報解除 - 十勝毎日新聞",
-      "published": "2026-10-01T10:23:00+00:00",
-      "summary": "インフル微増、コロナ減少 手足口病とＡ 群溶血性レンサ球菌の警報解除&nbsp;&nbsp;十勝毎日新聞道内インフルエンザ患者数が増加 感染対策の徹底呼びかけ&nbsp;&nbsp;NHKニュース",
-      "sources": [
-        {
-          "name": "十勝毎日新聞",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9iclFmaGladkkzd3hqV3ZZQkhNSGRhYTVwaTRDcV9MVmN4S0Y2Qi0xVXJEQnZzRG5HQ05HZG52OWwxRkYzNl94Y0ZRV25kdkQ1eXJodFAtSU9hZzF4NV8xZWNTa0Q?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d6af6cde3d72",
-      "title": "「歩くスピード」が7~9年後の\"死亡リスク\"に大きく関係か。約6万5,000人を対象に調査。\"早期死亡リスク\"を下げる「歩き方」とは - Yahoo!ニュース",
-      "published": "2026-10-01T10:20:02+00:00",
-      "summary": "「歩くスピード」が7~9年後の\"死亡リスク\"に大きく関係か。約6万5,000人を対象に調査。\"早期死亡リスク\"を下げる「歩き方」とは&nbsp;&nbsp;Yahoo!ニュース「粗食は寿命を縮める！」「筋力低下を測る基準は…」 寿命を延ばす「歩き方」を専門家が解説&nbsp;&nbsp;ライブドアニュース1日の歩数は変わらなくても「歩くペース」を上げれば死亡リスクが下がる可能性&nbsp;&nbsp;GIGAZINE",
-      "sources": [
-        {
-          "name": "Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6RkhYRmh0eVRjTHVQM3hnVUFNcmZJRGdaa2EyQzJtWm5NVV94Q1BlLUswZ01MQkEya3cyM2dadERMU1RFZ3N4STg4TXJJUVVrZkdoNVA3aEpNd3RpaHp0MFFVVjMydkhId2U4cGVQZHVMSUM5aExrZ2kwN2gxRmM?oc=5"
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRTRTQ2FFODdYZE4zTjFRaURFQUFPaTJIemFkUG5jNF9wWmstR2xtdnlXVFRWZkJyd2E4UXEwa3daVHcxNFlXVUVKb2xWQnZiMHdmUnpfdFdvNm1hTk5MY1QwRzN3MVZHM0J1d3NfSXlOaEUxNkJSME5Hci1JdHhmakdoT0VHc1BJaS1ONVRmOUt4MXJPZGdFcVBIRDRvdmVhLUEtM2VPWm4td28?oc=5"
         }
       ]
     },
@@ -546,13 +582,13 @@
       ]
     },
     {
-      "id": "49737ff170d5",
-      "title": "【承認】II型RAF阻害薬オジェンダ、BRAF遺伝子変異または融合遺伝子を有する低悪性度神経膠腫に対する治療薬として承認を取得 - がん情報サイト「オンコロ」",
+      "id": "d7c475fd20fa",
+      "title": "【承認】II型RAF阻害薬オジェンダ、BRAF遺伝子変異または融合遺伝子を有する低悪性度神経膠腫に対する治療薬として承認を取得 - oncolo.jp",
       "published": "2026-10-01T01:03:12+00:00",
-      "summary": "【承認】II型RAF阻害薬オジェンダ、BRAF遺伝子変異または融合遺伝子を有する低悪性度神経膠腫に対する治療薬として承認を取得&nbsp;&nbsp;がん情報サイト「オンコロ」",
+      "summary": "【承認】II型RAF阻害薬オジェンダ、BRAF遺伝子変異または融合遺伝子を有する低悪性度神経膠腫に対する治療薬として承認を取得&nbsp;&nbsp;oncolo.jp",
       "sources": [
         {
-          "name": "がん情報サイト「オンコロ」",
+          "name": "oncolo.jp",
           "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5BaFhxc04wMFA2bzVqejVfV1pzWU9oVDgtTHkxZTlOLVJMVXBYT3lIUW5hdzl5V3hwbzJudWV1T0JNRFNhQ2pURw?oc=5"
         }
       ]
@@ -618,18 +654,6 @@
       ]
     },
     {
-      "id": "a151bb0dbf2e",
-      "title": "【第39週】ヘルパンギーナ、群馬県内で警報継続 インフルエンザも流行続く 県が手洗い・換気を呼びかけ - みんなの学校新聞",
-      "published": "2026-09-30T07:41:19+00:00",
-      "summary": "【第39週】ヘルパンギーナ、群馬県内で警報継続 インフルエンザも流行続く 県が手洗い・換気を呼びかけ&nbsp;&nbsp;みんなの学校新聞群馬県内のインフルエンザ、5週ぶりに減少 ヘルパンギーナも減る シルバーウィーク期間の休診が影響か&nbsp;&nbsp;上毛新聞電子版感染症「ヘルパンギーナ」警報、群馬県が発令 予防呼びかけ | 上毛新聞電子版｜群馬県のニュース・スポーツ情報&nbsp;&nbsp;上毛新聞電子版",
-      "sources": [
-        {
-          "name": "みんなの学校新聞",
-          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ManRaZ1RUd1lEQW9BWUZmN28wUUdDT3NuMlpjR0c5M0xtRU1lR0RaNW1WZVpla0hHbFlDeXE4ZXg3Wmd2NmhmWkZB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a2605f5a1b27",
       "title": "高温極限環境で動作…SiC回路量産へ前進、京大がウエハー全面にトランジスタを均一作製(ニュースイッチ)",
       "published": "2026-09-30T07:10:16+00:00",
@@ -678,13 +702,13 @@
       ]
     },
     {
-      "id": "b811f9e63a98",
-      "title": "【承認】エラヒア、葉酸受容体α陽性のプラチナ製剤抵抗性の再発卵巣がんの治療薬として承認 - がん情報サイト「オンコロ」",
+      "id": "db59eb408f83",
+      "title": "【承認】エラヒア、葉酸受容体α陽性のプラチナ製剤抵抗性の再発卵巣がんの治療薬として承認 - oncolo.jp",
       "published": "2026-09-30T01:11:34+00:00",
-      "summary": "【承認】エラヒア、葉酸受容体α陽性のプラチナ製剤抵抗性の再発卵巣がんの治療薬として承認&nbsp;&nbsp;がん情報サイト「オンコロ」",
+      "summary": "【承認】エラヒア、葉酸受容体α陽性のプラチナ製剤抵抗性の再発卵巣がんの治療薬として承認&nbsp;&nbsp;oncolo.jp",
       "sources": [
         {
-          "name": "がん情報サイト「オンコロ」",
+          "name": "oncolo.jp",
           "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1mM09pWFpRdU9wRElYNVN0clc1RF9HYVFVVGQwMk96QnNlLUVHTjlMZ3BYRk1BeGk1b282c0hvLTdEYUx6MC1adw?oc=5"
         }
       ]
@@ -726,18 +750,6 @@
       ]
     },
     {
-      "id": "44e85e18c085",
-      "title": "声の変化は「認知機能低下」への警告？最新研究が示した脳のSOSサイン - @DIME アットダイム",
-      "published": "2026-09-28T21:32:48+00:00",
-      "summary": "声の変化は「認知機能低下」への警告？最新研究が示した脳のSOSサイン&nbsp;&nbsp;@DIME アットダイム",
-      "sources": [
-        {
-          "name": "@DIME アットダイム",
-          "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9keDR0djR6V3JpN2hiOGRFN1J6N08wdnFMZURpSmtoX3VmWktnYkF6Qm10YmtTeG9mbGc3VUFZd2FTRmMw?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9785ddcd3a6c",
       "title": "日本の慢性膵炎患者は5年で3割増、約半数は糖尿病を合併｜CareNet.com - CareNet.com",
       "published": "2026-09-28T19:00:00+00:00",
@@ -770,18 +782,6 @@
         {
           "name": "bengo4.com",
           "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1wSEtkQ1N6MTZlMTZJQ0VDM1VtTDRGX1pfNXlqYTh3aUxpVWNCN0lmbVROck9hVHlmOVBpOFNXaW9yckFHN3p1TUlvMFI?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "58777dc38ecf",
-      "title": "1型糖尿病における日常生活中のインスリン投与量と自律神経活性バランスが関連 京都大学 - 糖尿病リソースガイド",
-      "published": "2026-09-28T08:05:52+00:00",
-      "summary": "1型糖尿病における日常生活中のインスリン投与量と自律神経活性バランスが関連 京都大学&nbsp;&nbsp;糖尿病リソースガイド",
-      "sources": [
-        {
-          "name": "糖尿病リソースガイド",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tUTBpckl6ZFdZOHZnWFlCc2FYYTcweVViMzVxVzNhNURHT0w2YkJLSC1yY2RDNVRjQzdwVUlmaVZGVXUwX0R6NF9fZUYyMk40VzFhRWdibWVmbEh1c2xtajhWdEp1a3FtUXFv?oc=5"
         }
       ]
     },
@@ -842,18 +842,6 @@
         {
           "name": "Dtimes",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9IS0RqWk41SmVMaEt0Q2lIVnpmOTBrTVFEeEM3ZjFFWWktQkZlLWJtdlJyYVhkcUZqdlR3aEYzdEF2Sm9DbFE?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3feebcfef960",
-      "title": "髄膜炎菌性髄膜炎治療の世界市場（2026年～2032年）、市場規模（経口、注射剤）・分析レポートを発表 - アットプレス",
-      "published": "2026-09-26T03:00:00+00:00",
-      "summary": "髄膜炎菌性髄膜炎治療の世界市場（2026年～2032年）、市場規模（経口、注射剤）・分析レポートを発表&nbsp;&nbsp;アットプレス",
-      "sources": [
-        {
-          "name": "アットプレス",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9hdElZaHdHU1ROd244dmhDeHk0WkdCb05EVENjWlB3dVYtR2VYQmVGUTRsaVg5enA2WmV4MmU1X1R3cTNVYVN5a09XVTBLcW8?oc=5"
         }
       ]
     }
