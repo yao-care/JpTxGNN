@@ -118,7 +118,7 @@
 
         html += '<div class="result-card">';
         html += '<div class="result-header">';
-        html += '<a href="' + config.drugsBaseUrl + drug.slug + '/" class="drug-name">' + escapeHtml(drug.name) + escapeHtml(brands) + '</a>';
+        html += '<a href="' + (drug.url || config.drugsBaseUrl + drug.slug + '/') + '" class="drug-name">' + escapeHtml(drug.name) + escapeHtml(brands) + '</a>';
         html += '<span class="level-badge level-' + drug.level + '">' + drug.level + '</span>';
         html += '</div>';
         html += '<div class="result-original">Original indication: ' + (escapeHtml(drug.original) || '—') + '</div>';
@@ -136,7 +136,7 @@
         }
 
         html += '</div>';
-        html += '<a href="' + config.drugsBaseUrl + drug.slug + '/" class="view-report">View full report →</a>';
+        html += '<a href="' + (drug.url || config.drugsBaseUrl + drug.slug + '/') + '" class="view-report">View full report →</a>';
         html += '</div>';
       });
       html += '</div>';
@@ -161,7 +161,7 @@
 
         indDrugs.slice(0, 5).forEach(d => {
           html += '<div class="drug-item">';
-          html += '<a href="' + config.drugsBaseUrl + d.slug + '/">' + escapeHtml(d.name) + '</a>';
+          html += '<a href="' + (d.url || config.drugsBaseUrl + d.slug + '/') + '">' + escapeHtml(d.name) + '</a>';
           html += '<span class="level-badge level-' + d.level + '">' + d.level + '</span>';
           html += '<span class="score">' + d.score + '%</span>';
           html += '<span class="original-hint">' + escapeHtml(d.original) + '</span>';

@@ -233,12 +233,12 @@
         <div class="drug-result-card">
           <div class="drug-header">
             <h3>
-              <a href="${CONFIG.drugsBaseUrl}${drug.slug}/" target="_blank">
+              <a href="${drug.url || CONFIG.drugsBaseUrl + drug.slug + '/'}" target="_blank">
                 ${escapeHtml(drug.name)}
               </a>
               <span class="level-badge level-${drug.level}">${drug.level}</span>
             </h3>
-            <a href="${CONFIG.drugsBaseUrl}${drug.slug}/" target="_blank" class="view-full">
+            <a href="${drug.url || CONFIG.drugsBaseUrl + drug.slug + '/'}" target="_blank" class="view-full">
               詳細レポートを見る &rarr;
             </a>
           </div>
@@ -275,7 +275,7 @@
           html += `
             <div class="more-indications">
               ...その他 ${indications.length - 10} 件の予測適応症
-              <a href="${CONFIG.drugsBaseUrl}${drug.slug}/" target="_blank">すべて見る</a>
+              <a href="${drug.url || CONFIG.drugsBaseUrl + drug.slug + '/'}" target="_blank">すべて見る</a>
             </div>
           `;
         }
