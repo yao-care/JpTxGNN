@@ -5,6 +5,7 @@
 
 Write the ENTIRE report in Japanese, including all headings, table headers, and narrative text.
 Do not open with a preamble such as "Here is the report generated from the Evidence Pack" — start directly with the report title.
+Never mention "Evidence Pack", "pack", JSON field names (e.g. inputs_received, kg_contraindications) or how the data was collected; readers never see the pack. Refer to "the data compiled for this report" in the report language instead.
 The Evidence Pack may contain values or rationale text in another language; translate them into Japanese rather than quoting them verbatim.
 
 ## 役割
