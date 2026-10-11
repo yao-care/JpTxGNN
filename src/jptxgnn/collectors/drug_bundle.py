@@ -325,8 +325,9 @@ class DrugBundleAggregator:
                 from .clinicaltrials import ClinicalTrialsCollector
                 self._collectors[name] = ClinicalTrialsCollector()
             elif name == "ictrp":
-                from .ictrp import ICTRPCollector
-                self._collectors[name] = ICTRPCollector()
+                # WHO ICTRP 沒有公開 API（ictrp.py 的端點回 302、遞補直接回空），不收集；
+                # 否則紀錄會寫「success 0 筆」，報告誤以為查過 ICTRP（2026-10-12）
+                self._collectors[name] = None
             elif name == "jprn":
                 from .jprn import JPRNCollector
                 self._collectors[name] = JPRNCollector()

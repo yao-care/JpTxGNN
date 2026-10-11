@@ -1,9 +1,35 @@
 """ClinicalTrials.gov collector - fetches clinical trial data via API."""
 
+import unicodedata
+
 import requests
 from typing import Any
 
 from .base import BaseCollector, CollectorResult
+
+# 介入藥物比對時忽略的鹽類字（同 scripts/check_clinicaltrials.py）
+_SALTS = {"hydrochloride", "hcl", "sodium", "potassium", "calcium", "sulfate", "sulphate", "maleate", "fumarate",
+          "tartrate", "citrate", "acetate", "mesylate", "besylate", "succinate", "phosphate", "bromide", "chloride"}
+
+
+def _norm_name(text) -> str:
+    t = unicodedata.normalize("NFKD", str(text or "")).encode("ascii", "ignore").decode().lower()
+    return " ".join("".join(c if c.isalnum() else " " for c in t).split())
+
+
+def _role_bound(study: dict, drug_name: str) -> bool:
+    """藥物必須是試驗的介入（非安慰劑），而不只是全文某處提到。"""
+    full = _norm_name(drug_name)
+    core = " ".join(w for w in full.split() if w not in _SALTS) or full
+    ivs = (study.get("protocolSection", {}).get("armsInterventionsModule", {}) or {}).get("interventions", []) or []
+    for iv in ivs:
+        name = _norm_name(iv.get("name", ""))
+        if "placebo" in name:
+            continue
+        text = " " + " ".join([name] + [_norm_name(n) for n in (iv.get("otherNames") or [])]) + " "
+        if (full and f" {full} " in text) or (core and f" {core} " in text):
+            return True
+    return False
 
 
 class ClinicalTrialsCollector(BaseCollector):
@@ -36,16 +62,14 @@ class ClinicalTrialsCollector(BaseCollector):
         """
         query = {"drug": drug, "disease": disease}
 
-        # Build search query
-        search_terms = [drug]
-        if disease:
-            search_terms.append(disease)
-
+        # 藥限定在介入欄、病限定在疾病欄；舊版用 query.term 全文搜尋，2026-09 抽樣 55% 不是介入藥物
         params = {
-            "query.term": " AND ".join(search_terms),
+            "query.intr": drug,
             "pageSize": self.max_results,
             "format": "json",
         }
+        if disease:
+            params["query.cond"] = disease
 
         try:
             response = requests.get(
@@ -56,7 +80,8 @@ class ClinicalTrialsCollector(BaseCollector):
             response.raise_for_status()
             data = response.json()
 
-            # Parse the results
+            # 只留藥物確實是介入的試驗
+            data["studies"] = [st for st in data.get("studies", []) if _role_bound(st, drug)]
             trials = self._parse_trials(data)
 
             return self._make_result(

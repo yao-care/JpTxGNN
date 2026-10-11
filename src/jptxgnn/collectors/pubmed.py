@@ -40,11 +40,11 @@ class PubMedCollector(BaseCollector):
         Returns:
             CollectorResult with publication data
         """
-        # Build search query
-        search_terms = [drug]
+        # 藥名限定標題/摘要：不加欄位時 PubMed 會把藥名擴展成上層 MeSH 類別，
+        # 2026-10 抽樣只有 46% 文獻真的提到這個藥；疾病保留自動對應以維持召回
+        query_string = f'"{drug}"[Title/Abstract]'
         if disease:
-            search_terms.append(disease)
-        query_string = " AND ".join(search_terms)
+            query_string += f" AND ({disease})"
 
         query = {"drug": drug, "disease": disease, "query_string": query_string}
 
