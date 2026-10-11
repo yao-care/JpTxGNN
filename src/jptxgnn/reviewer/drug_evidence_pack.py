@@ -38,6 +38,17 @@ def _site_agency() -> str:
 
 SITE_AGENCY = _site_agency()
 
+# bundle 的本國藥證鍵沿用 Tw 命名（tfda 等），對外一律顯示本站主管機關，避免報告寫出別國機關名
+_REG_SOURCE_KEYS = {"tfda", "thaifda", "pmda", "npra", "mhra", "tga", "fda"}
+
+
+def _display_source(source: str) -> str:
+    if source in _REG_SOURCE_KEYS:
+        return SITE_AGENCY
+    if source == "tfda_package_insert":
+        return f"{SITE_AGENCY} package insert"
+    return source
+
 
 class DrugEvidencePackGenerator:
     """Generates Drug Evidence Pack from a DrugBundle using LLM.
@@ -104,7 +115,7 @@ class DrugEvidencePackGenerator:
         for cs in bundle.collection_log:
             query_log.append({
                 "id": len(query_log) + 1,
-                "source": cs.source,
+                "source": _display_source(cs.source),
                 "query_date": cs.queried_at[:10] if cs.queried_at else now,
                 "query_params": cs.query_params,
                 "result_status": cs.status,
@@ -264,7 +275,7 @@ class DrugEvidencePackGenerator:
         """Get list of data sources that were received."""
         inputs = []
         if self._get_regulatory(bundle).get("found"):
-            inputs.append("tfda")
+            inputs.append(SITE_AGENCY)
         if bundle.safety.get("ddi"):
             inputs.append("ddi")
         if bundle.drugbank.get("found"):
