@@ -1,19 +1,79 @@
 {
   "source": "japan_news",
-  "fetched_at": "2026-10-11T02:54:44.296793+00:00",
-  "total_fetched": 100,
-  "unique_count": 100,
-  "health_related_count": 31,
+  "fetched_at": "2026-10-11T11:48:05.337327+00:00",
+  "total_fetched": 170,
+  "unique_count": 170,
+  "health_related_count": 76,
   "news": [
     {
-      "id": "d350c3ec91aa",
-      "title": "《美食グルメを楽しめる》旬の食材、シェフが作るケーキでティータイム…「介護付き有料老人ホーム」5施設(介護ポストセブン)",
-      "published": "2026-10-11T02:15:00+00:00",
-      "summary": "「住み慣れた家で最期まで過ごしたい」と願う人は多くても、加齢に伴う体の不調や病気、認知症などさまざまな理由でそれが叶わないケースは少なくない。一方「安心して暮らしたい」と施設で老後生活を送りたいという",
+      "id": "c9372975ccc6",
+      "title": "【大便についてうんち博士が解説】大便が伝える「体内の状況」の読み解き方と、快便に導く生活習慣(ヨガジャーナルオンライン)",
+      "published": "2026-10-11T11:28:52+00:00",
+      "summary": "「大便」は汚いものと思っていませんか？実は体からのメッセージを伝える「お便り」であり、今の健康状態を知る重要な手がかりになります。知っているようで知らない大便の基礎知識や健康管理に役立つメッセージの読",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/db3b2f808bd6fb5859bc1dea76cff55a0d32d2ef?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/fb6dd3f416f2f18c1eaed8601c9a1088b3255d1f?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "246811d69f0c",
+      "title": "50代からは血糖値に要注意！「食後に眠くなる」「体重が増えた」血糖値が急上昇しやすい14の習慣(Web eclat)",
+      "published": "2026-10-11T11:10:01+00:00",
+      "summary": "糖尿病専門医・医学博士 矢野宏行先生によれば、血糖値スパイクを起こしやすい人は食事時間が不規則だったり、就寝前にお菓子を食べる習慣があったり、炭水化物やフルーツ、清涼飲料水などの糖質を取り過ぎている傾",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/6c22ecf36488a792e56363983fed5e52a1c9740b?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "1d069961d0a7",
+      "title": "高齢者は病気を予防するために積極的にインフルエンザワクチンを接種 - Laodong.vn",
+      "published": "2026-10-11T07:50:44+00:00",
+      "summary": "高齢者は病気を予防するために積極的にインフルエンザワクチンを接種&nbsp;&nbsp;Laodong.vn季節性インフルエンザで入院する子供の数が増加している。&nbsp;&nbsp;Vietnam.vnインフルエンザ検査の“早すぎ受診問題”とは&nbsp;&nbsp;Infoseek",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQalhTTjE1cDltU1pMUEc3ak0wTmhmLTVnNFdTUEFEcGdkODI4OXpIelR5cXVNU0hlRjY3ckVyTVc3VUZtdk9sYUNJMVY0OTg4V1NzS182emRKallGb3RPVUJTZmNFNUVmYjR1UEl6YW04ZV94MGJ3RFg3Zmp2SnR0YVRDNHN4bTUtYlg1M2ZYRXd3TF9BVGx1aE16WktTZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "db5c226a2f3c",
+      "title": "［現場からの農村学教室］口蹄疫後の精神的な復興 宮崎県都農町あおき動物病院長・青木淳一 - 日本農業新聞",
+      "published": "2026-10-11T06:51:08+00:00",
+      "summary": "［現場からの農村学教室］口蹄疫後の精神的な復興 宮崎県都農町あおき動物病院長・青木淳一&nbsp;&nbsp;日本農業新聞",
+      "sources": [
+        {
+          "name": "日本農業新聞",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tYWhyVXJac0poeGFwVzNKdldhZF8wM0lJSFltSEJTVDJEQWlzWUk1LWV6czZiekNObE9ybWdGNmVzZmtGb2ZBU3R6T2RiT3VtcWE4WFdGVGtEUm8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bb3ddc1a23d6",
+      "title": "ADHDの症状改善する化学物質を発見…発症の契機となる大脳神経細胞内にあるたんぱく質も突き止める - 読売新聞",
+      "published": "2026-10-11T04:11:00+00:00",
+      "summary": "ADHDの症状改善する化学物質を発見…発症の契機となる大脳神経細胞内にあるたんぱく質も突き止める&nbsp;&nbsp;読売新聞",
+      "sources": [
+        {
+          "name": "読売新聞",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9PVldDTWlkWHdCa3NtcUY5aU1tNTVEeTNqeUJyM09CRVl2cWJlMnNlMTEyNDcyYkF5N0NIZ0dZYmZreUpPcnFIbi01eWhQaXZVWFFjc1JKb3VFWktsWlFSaFV2NERFOW5sUnM3VUtyM0diZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1425f49a505f",
+      "title": "秋の防災キャンプ　水パスタやアルファ化米で手軽で美味しいおうちメニューを開発【暮らしの防災】(メ〜テレ（名古屋テレビ）)",
+      "published": "2026-10-11T03:00:01+00:00",
+      "summary": "食欲の秋ですが、今回は「超地味なキャンプ食」の提案です。災害時、多くの避難所では行政から食事の提供があります。限られた食材・調理環境で工夫して作られた食事です。各地からのボランティアの炊き出しは、味も",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/0ea35cc252f2f9a9a1cd0a827f969ed7515e15dd?source=rss"
         }
       ]
     },
@@ -30,18 +90,6 @@
       ]
     },
     {
-      "id": "5df7a85629d4",
-      "title": "注目の美肌成分『5-ALA』の効果は？美容皮膚科医が徹底解説(NET ViVi)",
-      "published": "2026-10-11T02:01:20+00:00",
-      "summary": "美容好きサクラが、読者代表として美容皮膚科医・髙瀬先生に直撃取材。美容のウワサ、美容医療の最新事情、注目のNEWスキンケアコスメまで、気になることを全部聞いてきました！ 今回は、注目の美肌成分を徹底解",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/15c3b167dd6db5001b19afabdd2caa86990f6fa2?source=rss"
-        }
-      ]
-    },
-    {
       "id": "eab53dbb4729",
       "title": "エンケラドゥスの内部海を模した強アルカリ性の実験環境で地球の微生物の一種が増殖(sorae 宇宙へのポータルサイト)",
       "published": "2026-10-11T01:01:52+00:00",
@@ -50,6 +98,18 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/d384bced551d58d686e86c3fba5bede9f61156af?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "14a09ddadc19",
+      "title": "ウイルスはどうやって「感染相手」を見つけるのか？ 目も鼻も脳もないのに細菌に取りつける意外な理由（集英社オンライン） - Yahoo!ニュース",
+      "published": "2026-10-11T01:00:37+00:00",
+      "summary": "ウイルスはどうやって「感染相手」を見つけるのか？ 目も鼻も脳もないのに細菌に取りつける意外な理由（集英社オンライン）&nbsp;&nbsp;Yahoo!ニュース「腸内フローラ」だけじゃない…あなたの体内に大量のウイルスが棲んでいる？ 腸内細菌を“調節する存在”とは（集英社オンライン）&nbsp;&nbsp;Yahoo!ニュース",
+      "sources": [
+        {
+          "name": "Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xN0o3Q1NiLVdoUUFMYjJoUUM4TkhZZHVocmZQczRYc0NSZXdyMzhxcW1Gb2V2N2ZFbTlTa1RGWmxuMm1aTDN2YnZNVHZvVU1ZWmItblhhcXZoNFl4ZGp3dFp5Sktqd1JQLVJWS0dFY2lFT0NQWWpmTVA3OWlKbTQ?oc=5"
         }
       ]
     },
@@ -78,6 +138,42 @@
       ]
     },
     {
+      "id": "c138be1fd1e1",
+      "title": "膵臓がんと診断された“ガチな理系”の大学教員が、標準的な化学療法ではなくあえて「治験」を選んだ理由 - デイリー新潮",
+      "published": "2026-10-10T23:01:48+00:00",
+      "summary": "膵臓がんと診断された“ガチな理系”の大学教員が、標準的な化学療法ではなくあえて「治験」を選んだ理由&nbsp;&nbsp;デイリー新潮Merck社、中国SciBrunch社から非臨床段階の経口KRAS G12D（ON）阻害薬候補のライセンスを獲得&nbsp;&nbsp;日経バイオテクONLINE",
+      "sources": [
+        {
+          "name": "デイリー新潮",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5CYmk5ZUhVX1pnREd2RjljNUFiczgwbVB5b2RyZHFsZkR4TGprWFR0MllGYndFWElxamdfVGVRQ1liMEtnazJNSldJRkp6OE9XRE1uSnlNMkRjWVRGVzJN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fa20a8629aa3",
+      "title": "ＧＬＰ－１ＲＡで２型糖尿病の脳卒中リスク半減 ＳＧＬＴ２阻害薬、ＤＰＰ－４阻害薬では関連なし - 読売新聞",
+      "published": "2026-10-10T20:00:00+00:00",
+      "summary": "ＧＬＰ－１ＲＡで２型糖尿病の脳卒中リスク半減 ＳＧＬＴ２阻害薬、ＤＰＰ－４阻害薬では関連なし&nbsp;&nbsp;読売新聞",
+      "sources": [
+        {
+          "name": "読売新聞",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNWNmZUo0MkYzQmdHaml6Y1IxZzZKelhFSHNWU2ZzeHRzZ205bEItZjlPRWVDTnQ1VlZvTHJBQWRsZGY0ejlXNkQ1bXhiRHZlb0NucnFkcERhVHMyN09OR2o0X2ZUcy1oY0pzNl9FNm5neUE5Q3FXY2dlZ19UMzZ3eVgxRWhHemF6X1RiSHVB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a50bab599575",
+      "title": "精神科医が「心の病」と向き合う際に気に留めたい、「治療」よりも大切なこと - 幻冬舎plus",
+      "published": "2026-10-10T07:00:00+00:00",
+      "summary": "精神科医が「心の病」と向き合う際に気に留めたい、「治療」よりも大切なこと&nbsp;&nbsp;幻冬舎plus",
+      "sources": [
+        {
+          "name": "幻冬舎plus",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlc25UdkJHbVYxNElOZnVtUTM3b0FwUUhJQkJVT201amdkVHlEZEozei0wNG1pYnl4VFlnOUk1aWx4TjROYkNpWHVUOHBmb3M?oc=5"
+        }
+      ]
+    },
+    {
       "id": "38509ce4ac1c",
       "title": "【闘病】マラソン出場後の“ただの疲れ”が『脳出血』だった 脳動静脈奇形の破裂で救急搬送(メディカルドック)",
       "published": "2026-10-10T02:03:30+00:00",
@@ -102,6 +198,54 @@
       ]
     },
     {
+      "id": "022232a1ad7d",
+      "title": "「かぜ薬があって助かった」20～60代の約6割が常備、あってよかったと感じた場面は? - マイナビニュース",
+      "published": "2026-10-09T23:09:00+00:00",
+      "summary": "「かぜ薬があって助かった」20～60代の約6割が常備、あってよかったと感じた場面は?&nbsp;&nbsp;マイナビニュース",
+      "sources": [
+        {
+          "name": "マイナビニュース",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0yZHZxNk1yNTJQR2ozQkRXZk1teUkxWGlLUmh3bEJjS1JSc2FkVE9scVhiWmhZZkhzdTRmLU5Gc0FVQ1lHbWJmRXZlRTg4UGtfekc5dTROWFJqeWM1?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7b47ef17c158",
+      "title": "がん患者のインフルワクチン接種は治療開始の2～4週間前が基本｜Dr.中川 がんサバイバーの知恵 - 日刊ゲンダイDIGITAL",
+      "published": "2026-10-09T21:00:00+00:00",
+      "summary": "がん患者のインフルワクチン接種は治療開始の2～4週間前が基本｜Dr.中川 がんサバイバーの知恵&nbsp;&nbsp;日刊ゲンダイDIGITAL「痛くない」インフルエンザのワクチン接種 鼻スプレータイプの「フルミスト」に注目集まる 従来の注射より「即効性」が高いワクチン&nbsp;&nbsp;FNNプライムオンライン「痛くなかった！」インフルワクチンは“注射なし”の時代へ？12歳以下も1回接種で済む「フルミスト」&nbsp;&nbsp;日テレNEWS NNNインフルエンザ流行中なのに…ワクチンを10月に打つと春まで持たない？ 専門医が解説&nbsp;&nbsp;ｄメニューニュースがん患者のインフルワクチン接種は治療開始の2〜4週間前が基本【中川恵一 がんサバイバーの知恵】&nbsp;&nbsp;ｄメニューニュース",
+      "sources": [
+        {
+          "name": "日刊ゲンダイDIGITAL",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWZFlYMnhfM3BiUzd5ek1QamhjZTFsNEprVEdZOGpFdWpoNGpMRU9UaElkSENwZ3VJS2FfOTBiUVllTURteGIwMnUxaDQxZGdNWVpjdERkdWdFSGw0WkpOaTM2c2U5cUJJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5450b97190ce",
+      "title": "日光浴はなぜ健康にいい？ セロトニンやビタミンDにも関わる太陽の光を毎日の習慣に - radiko news",
+      "published": "2026-10-09T21:00:00+00:00",
+      "summary": "日光浴はなぜ健康にいい？ セロトニンやビタミンDにも関わる太陽の光を毎日の習慣に&nbsp;&nbsp;radiko news",
+      "sources": [
+        {
+          "name": "radiko news",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CMy1LalZRS0xTMnBsWXprSUVvTTl2b2tFUGpkX0VWOGtkckZCUDV6a05sNVpucTh4Q1N4eHc3V2RtRjI4OG5kaHhZNHh6MWFYVjdVVXlWRXJMM0xtb01R?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "446859ddceef",
+      "title": "県内日本脳炎感染、危険判断基準超え　蚊に注意、県呼びかけ｜四国新聞WEB朝刊 - 四国新聞",
+      "published": "2026-10-09T19:03:30+00:00",
+      "summary": "県内日本脳炎感染、危険判断基準超え 蚊に注意、県呼びかけ｜四国新聞WEB朝刊&nbsp;&nbsp;四国新聞日本脳炎の感染に注意呼び掛け 香川県（KSB瀬戸内海放送）&nbsp;&nbsp;Yahoo!ニュース日本脳炎の感染に注意呼び掛け 香川県&nbsp;&nbsp;Infoseek",
+      "sources": [
+        {
+          "name": "四国新聞",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9XUkczV0NqUWRIRTJxWFZqRnJOZFRIeDVoTFlaVFZieWRyeVRRSk5mWGxQaHJuVjEtVnlfUU1pNk1BTnpJRVBWREFZQ0ZMMXEwMjVPa3NpYWVGSTEtc3F5Y0YyWDROYzlVS3FLY09MVjB2eWpYby1z0gF8QVVfeXFMT0lxNGJEMUtYcWRNajlURVRYeE5OcERpM003LWJKVnBGSWMxZjB0TzdGd1M3WncwZ1pkcjhLZm5TS1pOelhnejhoRW9ON2ZySjVDaXBkSkYtWk0zcmFMb3hOeDJiNkh3U0luTzBDT05HVVg2d0JkbmlWenAyeQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "bf2d11b69c25",
       "title": "阪神タイガースの優勝は“熱狂的ファン”の「認知症」改善？大阪の医師が論文発表　「前日に阪神が勝つと検査もスムーズに」(MBSニュース)",
       "published": "2026-10-09T10:38:21+00:00",
@@ -110,6 +254,18 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/49db0ad55bc2b1278e609806b748240dee5fdc73?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "abfff3de2033",
+      "title": "裕福で健康なエリートなのに｢うつ｣が続出…精神科医が抗うつ剤ではなく｢1カ月やめろ｣と命じた\"ある行動\" - PRESIDENT Online（プレジデントオンライン）",
+      "published": "2026-10-09T09:07:05+00:00",
+      "summary": "裕福で健康なエリートなのに｢うつ｣が続出…精神科医が抗うつ剤ではなく｢1カ月やめろ｣と命じた\"ある行動\"&nbsp;&nbsp;PRESIDENT Online（プレジデントオンライン）",
+      "sources": [
+        {
+          "name": "PRESIDENT Online（プレジデントオンライン）",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBuX3h4OUZUTkc4OW9wdkFHWDAxcy1xRW93dUZ5bFNEeGJZN1FkV2F5MFE3X1ZyWHRtMnhUeURTdVlnU1k4aXp0NkdvNEl3V2c?oc=5"
         }
       ]
     },
@@ -162,6 +318,18 @@
       ]
     },
     {
+      "id": "6c085bb532ff",
+      "title": "ハティン省で新たに9人のデング熱患者が発生 - Laodong.vn",
+      "published": "2026-10-09T03:57:49+00:00",
+      "summary": "ハティン省で新たに9人のデング熱患者が発生&nbsp;&nbsp;Laodong.vnデング熱は季節性の病気です。&nbsp;&nbsp;Vietnam.vnデング熱と手足口病が増加傾向にあり、生命を脅かす合併症への懸念が高まっている。&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMmltOFZVVTJpVEUxaWk0VHdYY3VkYzM1TUtDa2VNYWpnUF9CUGxoODZPa3l2NThoZTdIWm5lMHpGVjBwTU5CVVBDcXFvSEhTa0Z5cXRiSFV6NVdLcFFyU0RvaXZEX2xfdy13TUVXQTlzenNGeW80a3oyNmoyUWZVWnI1MkZ4YkdUMUt1M3R2ck9ZTXRJUnpqNTRVSHF0X1A2dVBBSA?oc=5"
+        }
+      ]
+    },
+    {
       "id": "37c553494499",
       "title": "米オープンAIが解雇した安全担当の研究者3人、安全上の懸念指摘が理由だったと主張(CNN.co.jp)",
       "published": "2026-10-09T03:47:00+00:00",
@@ -182,6 +350,30 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/490c3235d7b0b1617a14d0de53746a5c08efb377?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "f18a26f2dc7e",
+      "title": "同じ「糖尿病予備群」でも発症のしやすさに大差 日本人男性を分析｜ニュース - 糖尿病ネットワーク",
+      "published": "2026-10-09T00:47:16+00:00",
+      "summary": "同じ「糖尿病予備群」でも発症のしやすさに大差 日本人男性を分析｜ニュース&nbsp;&nbsp;糖尿病ネットワーク糖尿病予備軍――あまり注目されていない健康問題。&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "糖尿病ネットワーク",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE10VWJPQzFHVmtCTjRNQXk2SmZSVmQ4bHoybk9nbVN3NEoyWG5uZlpOZkxSQ1RVYk9PU25CeERGZTk5QVRQY1o2cms5dmVrN3dZR1hoVF9fTXA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1d9db2680710",
+      "title": "多発性硬化症の日本人集団特有のリスク領域を同定－東大ほか - QLifePro",
+      "published": "2026-10-09T00:30:00+00:00",
+      "summary": "多発性硬化症の日本人集団特有のリスク領域を同定－東大ほか&nbsp;&nbsp;QLifePro",
+      "sources": [
+        {
+          "name": "QLifePro",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBnNHdLUEVUSmVVTk5GRXRwdE83RmRaZWZfdm9XTkc1VVNRVkY1TFdCQnhYTk1uQ3Rpakl5S2ItR0xsajZDOHZvdmx5WDNPMUVTVFZHUDE2aHlHSGFURy1CSFQxMnBJU21nUGtXeFpianRKZw?oc=5"
         }
       ]
     },
@@ -258,6 +450,30 @@
       ]
     },
     {
+      "id": "93312b83694f",
+      "title": "【パートナーの睡眠不足が2人共の食生活の悪化に影響？】研究が示唆する寝室と食卓の関係 - au Webポータル",
+      "published": "2026-10-08T08:05:00+00:00",
+      "summary": "【パートナーの睡眠不足が2人共の食生活の悪化に影響？】研究が示唆する寝室と食卓の関係&nbsp;&nbsp;au Webポータル",
+      "sources": [
+        {
+          "name": "au Webポータル",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zcVIweXFoRTY1emg4Tl8zT3hld3hfUk1qOTB5c1h6MUF2ZHdmQWtYcS1LcUNtT2JjbEQ2SUxpWlZZeGpHRWZFbDJuWVllZVd3QjIwaFcyc2FqdGdrdWNrNDJTQTFDTERSMTkzQTJ3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "fdaceaa7e25d",
+      "title": "糖尿病の悪化と体重減少が膵がん早期発見の手がかりとなる可能性 全国2,000例以上を解析 東北大学・JIHS - 糖尿病リソースガイド",
+      "published": "2026-10-08T07:55:16+00:00",
+      "summary": "糖尿病の悪化と体重減少が膵がん早期発見の手がかりとなる可能性 全国2,000例以上を解析 東北大学・JIHS&nbsp;&nbsp;糖尿病リソースガイド",
+      "sources": [
+        {
+          "name": "糖尿病リソースガイド",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9HOWZmM0tJcFBOWm1FTU1DNFJrYzNfYVZRQWt3dldMWmFveTJVNm1tVGVnQlg2ZExsR2x4SXQxZEkzZGY4bTJSUklybHlTTU5OYUhtTXdwenJIV3lFeUZNU3VsWGFhVVZ5ZHJV?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b3a907b5fe18",
       "title": "リスク取って挑戦する同世代…起業を決意　スタートアップで超小型人工衛星の開発に挑む25歳(西日本新聞me)",
       "published": "2026-10-08T07:22:28+00:00",
@@ -278,6 +494,18 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/8b8377b21ff3e53b6008865e5f394e620917a6fc?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "165d6fd5531f",
+      "title": "頭に「電流」を流すと統合失調症の症状が減ると判明 - ｄメニューニュース",
+      "published": "2026-10-08T04:25:00+00:00",
+      "summary": "頭に「電流」を流すと統合失調症の症状が減ると判明&nbsp;&nbsp;ｄメニューニュース",
+      "sources": [
+        {
+          "name": "ｄメニューニュース",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBocUoycU5WMzRQQmtFcE1TaDRka1ZwTVFHdllVS3hEU2d4eF9YUE5QSDRPS0hZQUVLWFpWQk1uQkJzdS1DQTJWUWRIRjhpYS1NQUdiSHpPcFlUSEx3QUZ4VUNzQlBpVl90a1dwOEx4blJmVlpZVWVjRVdR0gF_QVVfeXFMT0pLLXR6Zy1TN1p1ejY3YU5DMFloQVhGekthY2xDR0ZOWUwybC11cEpvNGhOMVJuakc0cjVpNmRpakhFX2tvbjAzNGZkWFFZTGJPOE53Smk4VldHMS04SFhKTEluc2xNcno1VVhQeFNxY19uR3h1UVlWWEp6WFAzOA?oc=5"
         }
       ]
     },
@@ -306,6 +534,30 @@
       ]
     },
     {
+      "id": "88f0b275dae9",
+      "title": "妊婦さんや赤ちゃんの敏感肌研究を行っている低刺激スキンケアメーカー株式会社ナチュラルサイエンス、従業員向けに麻疹風疹予防接種の費用を全額補助し、接種を実施。2014年からスタートし今年で13年目に - PR TIMES",
+      "published": "2026-10-08T01:30:01+00:00",
+      "summary": "妊婦さんや赤ちゃんの敏感肌研究を行っている低刺激スキンケアメーカー株式会社ナチュラルサイエンス、従業員向けに麻疹風疹予防接種の費用を全額補助し、接種を実施。2014年からスタートし今年で13年目に&nbsp;&nbsp;PR TIMES",
+      "sources": [
+        {
+          "name": "PR TIMES",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RSUwtVWxLbWZqTVpWTGxSdHdRQmJkMVR3Y3N2VEIyQzZGSFhBTnhhU3ZVM1hiVVpuQ1hERkN5SFhfZGR3cWxTeUh4WHpFdklPanB1ZHdFdExpUWp6bWo5cFJrZzlYbjZQNnc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d830c7be9475",
+      "title": "カルシウムとビタミンDのサプリには骨折予防効果はない？ - m3.com",
+      "published": "2026-10-07T21:00:19+00:00",
+      "summary": "カルシウムとビタミンDのサプリには骨折予防効果はない？&nbsp;&nbsp;m3.com",
+      "sources": [
+        {
+          "name": "m3.com",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11aXFzbzJYV04xbWNWZnp2dnl4MUlPRmNtazZueWdpSnA4M2dnRU14OGgzaE5HQWloQkhNNFFfaE9ZRktBd2R0NVU4aUhTX0YzZVE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "f9b619016e89",
       "title": "ノーベル化学賞に硤合憲三さん（76）　「硤合反応」実証 仏研究者と(テレビ朝日系（ANN）)",
       "published": "2026-10-07T20:50:46+00:00",
@@ -318,6 +570,30 @@
       ]
     },
     {
+      "id": "8fe8b541ecf7",
+      "title": "千葉の０歳女児はしか感染 海外渡航あり、羽田空港やバス、タクシー、商業施設など利用 県内今年３４例目 - 千葉日報オンライン",
+      "published": "2026-10-07T20:00:00+00:00",
+      "summary": "千葉の０歳女児はしか感染 海外渡航あり、羽田空港やバス、タクシー、商業施設など利用 県内今年３４例目&nbsp;&nbsp;千葉日報オンライン",
+      "sources": [
+        {
+          "name": "千葉日報オンライン",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9nU1U2MWRHWEpnc2RwZmo0bkVleUNUTlI2bjdDN0VCSkVCazhVQ2pST0MtSzZyWl9hYVZpVVR4MVFyRkZRSzFKdnlWUEVMSHpIRExGX3dFNnM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3383cc0732ab",
+      "title": "この世界からがんをなくすことはできますか？ - 読売新聞",
+      "published": "2026-10-07T20:00:00+00:00",
+      "summary": "この世界からがんをなくすことはできますか？&nbsp;&nbsp;読売新聞",
+      "sources": [
+        {
+          "name": "読売新聞",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lcmxWVTBmVEZDeDJkTHpQMDktVUxXTDVUZUJTRzV0YW5CbmVlQzNlbi00YVZ3NURJYnEwVHllZlZIYWJNU0JwQ0I5Tjc1SXMxZDkyMnM1cGlrbXJaLWpnZUJVOFZUVnV6N1dlR1Fn?oc=5"
+        }
+      ]
+    },
+    {
       "id": "f45de563d155",
       "title": "ノーベル化学賞硤合憲三さん　会見で喜びの声(テレビ朝日系（ANN）)",
       "published": "2026-10-07T14:38:14+00:00",
@@ -326,6 +602,18 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/53c9b4f25e251dabdda4daceac497d944e4fbe57?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "8655b494e5ed",
+      "title": "AMED「革新的先端研究開発支援事業インキュベートタイプ（LEAP）」に採択 - 時事ドットコム",
+      "published": "2026-10-07T14:10:00+00:00",
+      "summary": "AMED「革新的先端研究開発支援事業インキュベートタイプ（LEAP）」に採択&nbsp;&nbsp;時事ドットコム",
+      "sources": [
+        {
+          "name": "時事ドットコム",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA1R0VyTUN0OUZpcEdBZ0ZWdVJIN3p0RFJMOUVwTDZwXzhMVlkwU1JvNldCQzRSQS1qMzBkUm5fVUFJMUpDM3JFZC1JX0VUOE9sME9EOFFOZHVhbnFCcm9mcWhtTEtfT1JrYjRj?oc=5"
         }
       ]
     },
@@ -366,14 +654,266 @@
       ]
     },
     {
-      "id": "654e80af99af",
-      "title": "「革新的なアイデアが評価」　ノーベル化学賞受賞の硤合氏を祝福　阪大・鈴木健之准教授(産経新聞)",
-      "published": "2026-10-07T12:56:26+00:00",
-      "summary": "2026年のノーベル化学賞に東京理科大名誉教授の硤合憲三（そあい・けんそう）氏の受賞が決まった。硤合氏と同じ「不斉触媒反応」などを研究する大阪大産業科学研究所の鈴木健之（たけゆき）准教授は、7日夜、大",
+      "id": "e542396619a9",
+      "title": "麻疹の流行が急増、米国は5人の死亡を確認 - Laodong.vn",
+      "published": "2026-10-07T03:49:39+00:00",
+      "summary": "麻疹の流行が急増、米国は5人の死亡を確認&nbsp;&nbsp;Laodong.vnニューヨーク州、緊急事態を宣言-麻疹感染の急増で州知事が行政命令（TBS CROSS DIG with Bloomberg）&nbsp;&nbsp;Yahoo!ニュース米ニューヨーク州の小児病院に掲げられた、はしかに関する注意喚起の張り紙（ロイター）&nbsp;&nbsp;産経ニュースＮＹ州、はしかで非常事態宣言 25年の感染急増後で全米初&nbsp;&nbsp;ニューズウィーク日本版ニューヨーク州、緊急事態を宣言－麻疹感染の急増で州知事が行政命令&nbsp;&nbsp;Bloomberg.com",
       "sources": [
         {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/b13109c22fce53fae9f1b4e245638edac68f292c?source=rss"
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS2VGYVJtaWdUanpYOWRJMTdPQmJleENwOUs4OS0xS0o5LU9Sa0RmcE4wX1RmeWMxaXZkNzdwUUpraDZlclNyRjQ0NXdCWE9FbnJsMkdpMk1vclBtTUlPZVNPSThNbHY4cy04WkRIZ3FfTEVNdEFHX25TZGRQc0Q5bGlncndqaHBuM2c5SEFIVkZtakE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f4f267b45b6c",
+      "title": "インフル検査、受診が早すぎると正しく結果が出ない？ 約3人に1人が「再受診」などを経験 - GetNavi web",
+      "published": "2026-10-07T03:09:04+00:00",
+      "summary": "インフル検査、受診が早すぎると正しく結果が出ない？ 約3人に1人が「再受診」などを経験&nbsp;&nbsp;GetNavi webインフル検査、受診が早すぎると正しく結果が出ない？ 約3人に1人が「再受診」などを経験（GetNavi web）&nbsp;&nbsp;Yahoo!ニュースドラッグストアで購入可、55.6％が認知 抗原検査キットで大正製薬調査 | 日刊薬業 - 医薬品産業の総合情報サイト&nbsp;&nbsp;日刊薬業",
+      "sources": [
+        {
+          "name": "GetNavi web",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zT3lKQ2ZFR3oxSkJSYktob2Iwb2pUQS04UzZtdWlpVEtOcG1RQkNUZ19yOEZ1b3VOX21MRGVzRmF4ZkdxRlB5cXRBdTRmZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9d311f868139",
+      "title": "2型糖尿病の網膜症リスク低下、フェノフィブラートvs.スタチン｜CareNet.com - ケアネット",
+      "published": "2026-10-06T21:42:59+00:00",
+      "summary": "2型糖尿病の網膜症リスク低下、フェノフィブラートvs.スタチン｜CareNet.com&nbsp;&nbsp;ケアネット",
+      "sources": [
+        {
+          "name": "ケアネット",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aTTRYTk1TVEQwbDRKdzdvSjI5c0hXM0kzZjdHbFlvTWFEcUR2RlhxT3BVcHduTldKTmNySWU2X3JSMU1BWEVleTJ3MmZkdmdMd3g1dm1tRlMzLUo4a284?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "75cd5bf24b16",
+      "title": "標準BMI付近で月経周期が安定、約19万周期を解析 国立成育医療研究センター - ウーマンズラボ",
+      "published": "2026-10-06T19:50:20+00:00",
+      "summary": "標準BMI付近で月経周期が安定、約19万周期を解析 国立成育医療研究センター&nbsp;&nbsp;ウーマンズラボ",
+      "sources": [
+        {
+          "name": "ウーマンズラボ",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1LQjQxMG5ZbUtRdU9pb0xydzFHaXIzVmszOWFmdXI1eEtZTElQM3IxczNyRWxXMVpZbDVEYzd3X0lHVFZnSDhfU3g4ODZvb3FPYk5YSA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f0ca9628976e",
+      "title": "デング熱、手足口病の子供の場合、熱が下がっても注意深く監視する必要があります - Laodong.vn",
+      "published": "2026-10-06T10:33:25+00:00",
+      "summary": "デング熱、手足口病の子供の場合、熱が下がっても注意深く監視する必要があります&nbsp;&nbsp;Laodong.vnハノイでは手足口病の症例が増加しており、見過ごされがちな症状から危険な合併症を引き起こす可能性があるとして注意が呼びかけられている。&nbsp;&nbsp;Vietnam.vn手足口病が増加傾向にあり、症状悪化の兆候は見過ごされやすいので注意が必要だと警告している。&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR09TRVlJUHBnTEVzbnBGTVQ4UXVOd0RQV1RwdUVQcVBLc3hWNHBGNHdaS2hldGdtNjYydTlzZDFIbHY1UGdGNy0yeHNvTEo4azFTek9pdHQ3UnVxWU5PanUyUDU5N1RJalR6aXpTN083bTdQd2M5b0E1U1o3elkxQlRpcEQwTlQtX2lXUmpCbVlGQjljX1lkMDAzVEpHOFc0QkJpUGNn?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c3c18003a7a6",
+      "title": "「悲劇の天才」女性チェロ奏者を襲った難病・多発性硬化症のいま…治療法の進歩が多くの患者の夢つなぐ - 読売新聞",
+      "published": "2026-10-06T06:15:00+00:00",
+      "summary": "「悲劇の天才」女性チェロ奏者を襲った難病・多発性硬化症のいま…治療法の進歩が多くの患者の夢つなぐ&nbsp;&nbsp;読売新聞",
+      "sources": [
+        {
+          "name": "読売新聞",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IMl9wMGlaQTRmdlAwTXUtWXB5bmJyNlpIWThLdVgxN1JpbjRPdHBiY0o2THFuWFF5VmNtUVJvWkhDQlVna0tpZl84WDBhZWtQMnZBb1ZNVzhvdG40NzY4akNsNU82Wnh0MlB0TGxHS2J0UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "978485f62673",
+      "title": "若者が腎不全の可能性を示す兆候を特定する - Laodong.vn",
+      "published": "2026-10-06T04:42:41+00:00",
+      "summary": "若者が腎不全の可能性を示す兆候を特定する&nbsp;&nbsp;Laodong.vn「腎臓が悪くなる」とどんな症状が現れるかご存知ですか？原因や予防法も医師が解説！ (2026年10月8日掲載)&nbsp;&nbsp;ライブドアニュース",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaHFMcjJUbE9kOW5nYXhVRWhobGFTSGZwa1NBWXRuaU9zUTh5SUIzbmRXM2swMFByZ1JjNWJmQ1BxQ2JZaUpXN3V0dGRJdTJ4NDROeVNTbVFmZWN3QW52cmRiMDVfSEhHNXlQMVhkckdmMjFHemltdF9fSDN4UDE3UmY1eF9LNEJxYTVYN0F4WDl0dk02Rmww?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bda6ef500dc6",
+      "title": "寒い時期のアレルギー性鼻炎の予防法 - Laodong.vn",
+      "published": "2026-10-06T02:01:32+00:00",
+      "summary": "寒い時期のアレルギー性鼻炎の予防法&nbsp;&nbsp;Laodong.vn",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMHhwdFpVdEpwMGtOM2ZLNnJ5N2QxSzMxVTJ3RjhZZW9EYlN1V0R2VkIwMmtBTlBhTUxPeFhlU3ZjVllCbGhxX2lhZ1Z5RTcwcUJKa051M29pVFJCYUxpMjNlaXZvMWM1TzNqVzRGZHFYcHVIa2xxY0Q5dXhDVms3bUFva1kzY1VEMTU1WV9WX1c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4aac810c2640",
+      "title": "東京：認知症リスク「声」で発見 ＡＩ解析墨田区実験 手軽に確認、脳機能強化も：地域ニュース - 読売新聞",
+      "published": "2026-10-05T20:00:00+00:00",
+      "summary": "東京：認知症リスク「声」で発見 ＡＩ解析墨田区実験 手軽に確認、脳機能強化も：地域ニュース&nbsp;&nbsp;読売新聞Google ニュースで見出しと意見をもっと見る",
+      "sources": [
+        {
+          "name": "読売新聞",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53ZGhDRHExSnJyWjBjLU9mUU5XSmZKSHNqZ2JGblhIdk9FbmVMNF9pZkEtaHZDWW1mNTZsZ3pIekhTUFNwUFFCVzRoNHAyS1BOcUstN3pqSEhmNWVDSldEaVNueEpmeDVmRWVkRzNnUWxCZkk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0d7e5ab8e3ab",
+      "title": "［神田松鯉さん］皮膚がん（３）けがや痛み 縁切れず - 読売新聞",
+      "published": "2026-10-05T20:00:00+00:00",
+      "summary": "［神田松鯉さん］皮膚がん（３）けがや痛み 縁切れず&nbsp;&nbsp;読売新聞",
+      "sources": [
+        {
+          "name": "読売新聞",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqaVVJeTVPeERENThRenVrb25sNGxaejBhbDBnd0pJRnlrQm1hSTUtQW11aVVOYlBGOWw2ZHROUm5STHhzeUdfTE53RUpqMWl1QVlWWW50Z2dLdDlzLTJYQ0txZXd0Mjk2ZVNUekRR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a136ecc8e7f2",
+      "title": "抗うつ薬は糖尿病リスクを増加させるのか｜CareNet.com - ケアネット",
+      "published": "2026-10-05T19:00:00+00:00",
+      "summary": "抗うつ薬は糖尿病リスクを増加させるのか｜CareNet.com&nbsp;&nbsp;ケアネット",
+      "sources": [
+        {
+          "name": "ケアネット",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8tWVZFNm1aRjd3RkVsRTBfRVdYQzUzbmQ0eGhoNTlyQy1hcnM3UnlBT1E3cFpTVDFjZ0t5cXl3VDM0bWUyQTFHaWVnaF9nUUZEZllEOUlEVFpmWU5TNGpz?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e73b9a0d350f",
+      "title": "麻疹感染が招く脳の難病 ＳＳＰＥ、なお多い謎 予防の鍵はワクチン接種 - 47NEWS",
+      "published": "2026-10-05T15:00:00+00:00",
+      "summary": "麻疹感染が招く脳の難病 ＳＳＰＥ、なお多い謎 予防の鍵はワクチン接種&nbsp;&nbsp;47NEWS",
+      "sources": [
+        {
+          "name": "47NEWS",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4yWklTaHpVN3Y2Vi1OdTVBZmswb2VETzNIZ3NFeV9sWmVXYTRXay1jZHFUck5PQU1yd2pSWHdCNWdJRXE3SUZHUjFDVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "7a8cebc91706",
+      "title": "日曜日の乳がん検診「とても助かる」 日鋼記念病院 - 47NEWS",
+      "published": "2026-10-05T13:00:00+00:00",
+      "summary": "日曜日の乳がん検診「とても助かる」 日鋼記念病院&nbsp;&nbsp;47NEWS",
+      "sources": [
+        {
+          "name": "47NEWS",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8wNmo3Wnp6NWl0LUxTWmRNWkFqdDhGeGFUaXBNZVZDRVNhbm9UMlpiSk80a1liNzh0NWNLbnhyTG0yTkxZS3B6bFU1QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "42623fb5d746",
+      "title": "肥満は心不全、心血管疾患のリスクを高める - Laodong.vn",
+      "published": "2026-10-05T12:01:48+00:00",
+      "summary": "肥満は心不全、心血管疾患のリスクを高める&nbsp;&nbsp;Laodong.vn肥満は急速に増加しており、心血管疾患の負担増大につながっている。&nbsp;&nbsp;Vietnam.vn肥満は、心血管疾患の主要な危険因子である。&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaTZ1d0FPN2JLdkR3NXFWTmdKZzhwRjAxTTYxb2NyT3NQeFc2MHNKRVJlLVFxWFVxOXFNM0o5UXRRam0xYm5JWkxTUW81NlkwSGw2RXdGLXRYNkJVcnBscWNJVk9SMV8xbExPVHVaLTdpeFdkdnpYZGNDd3dsLXhhUVRaYlkzWUZlVElJQXllOEJEX28?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "dcc683560236",
+      "title": "HIVや性感染症の検査キットを“自宅送付” 福岡市が新たにスタート 費用は無料 検体を郵送しウェブで結果確認 - 福岡TNCニュース",
+      "published": "2026-10-05T05:45:00+00:00",
+      "summary": "HIVや性感染症の検査キットを“自宅送付” 福岡市が新たにスタート 費用は無料 検体を郵送しウェブで結果確認&nbsp;&nbsp;福岡TNCニュースGoogle ニュースで見出しと意見をもっと見る",
+      "sources": [
+        {
+          "name": "福岡TNCニュース",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5UMzZfTDdqRGhyZlRfSjdxcURQTE9rcjRRN3lhMkZqVXo3R2wtOHB1b1RxTlktVTJSOF9TUjRLcW1ZMjQyRFREN0FPOFZLOEVsMG9LNDhPZ2lBNVdjN1UwNTlrVQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e038a2a36571",
+      "title": "GLP-1治療薬と「爪の変化」に関連？ 新研究で分かったこと - フロントロウ",
+      "published": "2026-10-05T04:00:00+00:00",
+      "summary": "GLP-1治療薬と「爪の変化」に関連？ 新研究で分かったこと&nbsp;&nbsp;フロントロウ",
+      "sources": [
+        {
+          "name": "フロントロウ",
+          "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4tQV9oelhMTGttMDdPb2pHVzRqUTZVa1dKdEdFUlM5Z0Q3WnRRQ3FjY1ctOWNENHlVZG53UFRiT3ZCVFd3RWJB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8683a27919a6",
+      "title": "慢性腎臓病の高齢者はCO2ガスによる血管インターベンションを受ける - Laodong.vn",
+      "published": "2026-10-05T02:16:33+00:00",
+      "summary": "慢性腎臓病の高齢者はCO2ガスによる血管インターベンションを受ける&nbsp;&nbsp;Laodong.vn腎不全を患う80歳患者の脚部に対する血管造影およびインターベンション手技において、CO₂ガスを使用する。&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYndaTGJzVjdSTEpweHVnWHFLb1F2RDJSU3RpRmo2UnJfTlVmWVR0aGpPc2xHU1MxT3IyOWNJQnhZZzlvQVE2Q1RlVVFpeThqZFl3MEg4WDR5Mi1FS3BCRC1wMmRyWXNzcDVZQnRFZ0Eyeng1QUdKRlFJbXhvcFk5SkJfOXJuOWJEdEMtWTNEQ3lGTzdDMXJXUGlDTjM3QXVZWncwc1YxSlh0YXM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8ad990db3ac8",
+      "title": "帯状疱疹後神経痛に要注意 皮疹が治っても長く痛みが続き、日常生活に支障 - 産経ニュース",
+      "published": "2026-10-05T00:00:00+00:00",
+      "summary": "帯状疱疹後神経痛に要注意 皮疹が治っても長く痛みが続き、日常生活に支障&nbsp;&nbsp;産経ニュース80歳までに3人に1人が発症「帯状疱疹とは」 宮崎市が始めた独自のワクチン助成（FNNプライムオンライン）&nbsp;&nbsp;Yahoo!ニュース帯状疱疹後神経痛に要注意 皮疹が治っても長く痛みが続き、日常生活に支障（写真・画像 1/2）&nbsp;&nbsp;産経ニュース80歳までに3人に1人が発症「帯状疱疹とは」 宮崎市が始めた独自のワクチン助成&nbsp;&nbsp;FNNプライムオンライン",
+      "sources": [
+        {
+          "name": "産経ニュース",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9PcmtfLUxJc3hxQmhrT2VJY3hkbk5IYW5XX0dDbFFOQ2FjR09BN0ZUSHplYVBQQXRWLWNLYXo1cEEzczFXYk4wQzJNdGdSQmY1V1lFTExjZGIxUlVZc1BRTWJLRVZBdnQyZUo5QWxKUEJWSFpPcnc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "41dff5d8f046",
+      "title": "【科学が分かった！】ワクチンに加え「抗体製剤」も予防接種に RSウイルス感染症、人工抗体を直接投与 - 信濃毎日新聞デジタル",
+      "published": "2026-10-04T20:00:02+00:00",
+      "summary": "【科学が分かった！】ワクチンに加え「抗体製剤」も予防接種に RSウイルス感染症、人工抗体を直接投与&nbsp;&nbsp;信濃毎日新聞デジタルどう防ぐ？ 乳児のRSウイルス感染症&nbsp;&nbsp;Medical Tribune【科学が分かった！】ワクチンに加え「抗体製剤」も予防接種に&nbsp;&nbsp;愛媛新聞【科学が分かった！】ワクチンに加え「抗体製剤」も予防接種に ＲＳウイルス感染症、人工抗体を直接投与 | プライムニュース&nbsp;&nbsp;福井新聞社",
+      "sources": [
+        {
+          "name": "信濃毎日新聞デジタル",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FQWtSSlYyeTRPSFFkOXR0OHpvbGVuNE5wb25PYU5vNGpOUEtId2NsQWZPU0F2WjhVQUFFRXVBOVE4MDQxWlhsUHJQek1razVVWnRtRW40WXN0UlMwaThFb3VQRzB6NlZuRGNV?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8a385e0f475f",
+      "title": "歩くと足が疲れる～大人の扁平足（関町病院　丸山公医師）～ - 時事メディカル",
+      "published": "2026-10-04T20:00:00+00:00",
+      "summary": "歩くと足が疲れる～大人の扁平足（関町病院 丸山公医師）～&nbsp;&nbsp;時事メディカル",
+      "sources": [
+        {
+          "name": "時事メディカル",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE44TFFYNlhlWTlyX2NhYllYZUtLRnA4S0cyNHUzWm1sclV5dFN3MFBWWEJZS19ieGF0STlvd19yNkhoaDNwR21NbUYyaEzSAVJBVV95cUxQenVzbkxlcS1LVkluUlgyNW9OTEJvaWVjSmpyV0JOdzNlbk1HX3lxSUozMzZ2TVFYaWVLb0J5RE54R0FpLVJBMkh1WWhzYjhWYVFR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d4ec74e46f02",
+      "title": "働き盛りの今、見直したい「脳の健康」 アルツハイマー病の最新知見と認知症のリスク｜日本経済新聞 電子版特集（PR） - ps.nikkei.com",
+      "published": "2026-10-04T15:13:55+00:00",
+      "summary": "働き盛りの今、見直したい「脳の健康」 アルツハイマー病の最新知見と認知症のリスク｜日本経済新聞 電子版特集（PR）&nbsp;&nbsp;ps.nikkei.com",
+      "sources": [
+        {
+          "name": "ps.nikkei.com",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vZE1WdGJZdmo1eGRvX1pVbExZUFc4dXJvcEg1a3QyOERMM3hpSGlXRVdDaU1rZUNiMVR0TncwR201Wk9YWjNmWEl1RkhfaVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "83afc279e31e",
+      "title": "「ウエストの太さ」と「握力」の組み合わせでBMI単独よりその人の死亡リスクがよくわかる - au Webポータル",
+      "published": "2026-10-04T13:00:00+00:00",
+      "summary": "「ウエストの太さ」と「握力」の組み合わせでBMI単独よりその人の死亡リスクがよくわかる&nbsp;&nbsp;au Webポータル",
+      "sources": [
+        {
+          "name": "au Webポータル",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1oY0RjRWtUMlNfdW1WRHcxMjkyRkdTU0RCd2VPV0JMYnVoSmxjWTNadE9YZVJSYWt1SUI1cFRxQ2JIdEtJZ2Z1NXVFNWdObDlSeGFtWEhLSFRtUTFPVmJvNkRGTEoxVzJyX19GU0JB?oc=5"
         }
       ]
     }
