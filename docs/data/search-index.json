@@ -1,7 +1,7 @@
 {
   "generated": "2026-09-29T07:20:02.093176+00:00",
-  "drug_count": 1027,
-  "indication_count": 1453,
+  "drug_count": 986,
+  "indication_count": 1434,
   "drugs": [
     {
       "name": "Abatacept",
@@ -3811,15 +3811,6 @@
       "url": "/drugs/cyanocobalamin/"
     },
     {
-      "name": "Cyclizine",
-      "slug": "cyclizine",
-      "brands": [],
-      "original": "",
-      "level": "L2",
-      "indications": [],
-      "url": "/drugs/cyclizine/"
-    },
-    {
       "name": "Cyclosporine",
       "slug": "cyclosporine",
       "brands": [],
@@ -3878,15 +3869,6 @@
         }
       ],
       "url": "/drugs/cyclosporine/"
-    },
-    {
-      "name": "Cytarabine",
-      "slug": "cytarabine",
-      "brands": [],
-      "original": "",
-      "level": "L3",
-      "indications": [],
-      "url": "/drugs/cytarabine/"
     },
     {
       "name": "Danazol",
@@ -30789,15 +30771,6 @@
       "url": "/drugs/db15091/"
     },
     {
-      "name": "Dehydrocholic Acid",
-      "slug": "dehydrocholic_acid",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [],
-      "url": "/drugs/dehydrocholic-acid/"
-    },
-    {
       "name": "Denosumab",
       "slug": "denosumab",
       "brands": [],
@@ -30816,15 +30789,6 @@
         }
       ],
       "url": "/drugs/denosumab/"
-    },
-    {
-      "name": "Deoxycholic Acid",
-      "slug": "deoxycholic_acid",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [],
-      "url": "/drugs/deoxycholic-acid/"
     },
     {
       "name": "Desloratadine",
@@ -31167,15 +31131,6 @@
       "url": "/drugs/diltiazem/"
     },
     {
-      "name": "Diosmin",
-      "slug": "diosmin",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [],
-      "url": "/drugs/diosmin/"
-    },
-    {
       "name": "Diphenhydramine",
       "slug": "diphenhydramine",
       "brands": [],
@@ -31189,15 +31144,6 @@
         }
       ],
       "url": "/drugs/diphenhydramine/"
-    },
-    {
-      "name": "Dipyridamole",
-      "slug": "dipyridamole",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [],
-      "url": "/drugs/dipyridamole/"
     },
     {
       "name": "Disopyramide",
@@ -31843,15 +31789,6 @@
       "url": "/drugs/ebastine/"
     },
     {
-      "name": "Emedastine",
-      "slug": "emedastine",
-      "brands": [],
-      "original": "",
-      "level": "L2",
-      "indications": [],
-      "url": "/drugs/emedastine/"
-    },
-    {
       "name": "Empagliflozin",
       "slug": "empagliflozin",
       "brands": [],
@@ -32437,15 +32374,6 @@
       "url": "/drugs/ethosuximide/"
     },
     {
-      "name": "Ethynodiol Diacetate",
-      "slug": "ethynodiol_diacetate",
-      "brands": [],
-      "original": "",
-      "level": "L3",
-      "indications": [],
-      "url": "/drugs/ethynodiol-diacetate/"
-    },
-    {
       "name": "Etizolam",
       "slug": "etizolam",
       "brands": [],
@@ -32831,24 +32759,6 @@
       "url": "/drugs/fenofibrate/"
     },
     {
-      "name": "Fenoprofen",
-      "slug": "fenoprofen",
-      "brands": [],
-      "original": "",
-      "level": "L2",
-      "indications": [],
-      "url": "/drugs/fenoprofen/"
-    },
-    {
-      "name": "Fenoterol",
-      "slug": "fenoterol",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [],
-      "url": "/drugs/fenoterol/"
-    },
-    {
       "name": "Fentanyl",
       "slug": "fentanyl",
       "brands": [],
@@ -32907,31 +32817,6 @@
         }
       ],
       "url": "/drugs/fentanyl/"
-    },
-    {
-      "name": "Ferrous Gluconate",
-      "slug": "ferrous_gluconate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "Plummer-Vinson 症候群",
-          "score": 0.999,
-          "level": "L5"
-        },
-        {
-          "name": "巨紅血球性貧血",
-          "score": 0.999,
-          "level": "L5"
-        },
-        {
-          "name": "維生素缺乏症",
-          "score": 0.992,
-          "level": "L3"
-        }
-      ],
-      "url": "/drugs/ferrous-gluconate/"
     },
     {
       "name": "Fexofenadine",
@@ -33067,31 +32952,6 @@
         }
       ],
       "url": "/drugs/fluconazole/"
-    },
-    {
-      "name": "Flunitrazepam",
-      "slug": "flunitrazepam",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "失眠（疾病）",
-          "score": 0.999,
-          "level": "L2"
-        },
-        {
-          "name": "偏頭痛",
-          "score": 0.997,
-          "level": "L5"
-        },
-        {
-          "name": "焦慮",
-          "score": 0.996,
-          "level": "L2"
-        }
-      ],
-      "url": "/drugs/flunitrazepam/"
     },
     {
       "name": "Fluorouracil",
@@ -33392,31 +33252,6 @@
         }
       ],
       "url": "/drugs/fluvastatin/"
-    },
-    {
-      "name": "Fosfomycin",
-      "slug": "fosfomycin",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "子宮炎性疾病",
-          "score": 0.9998,
-          "level": "L3"
-        },
-        {
-          "name": "腎盂腎炎（變異型）",
-          "score": 0.9998,
-          "level": "L2"
-        },
-        {
-          "name": "喉頭炎",
-          "score": 0.997,
-          "level": "L4"
-        }
-      ],
-      "url": "/drugs/fosfomycin/"
     },
     {
       "name": "Furosemide",
@@ -34087,41 +33922,6 @@
         }
       ],
       "url": "/drugs/granisetron/"
-    },
-    {
-      "name": "Griseofulvin",
-      "slug": "griseofulvin",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "蠅蛆症",
-          "score": 0.994,
-          "level": "L5"
-        },
-        {
-          "name": "疥蟲性蠅蛆症",
-          "score": 0.993,
-          "level": "L5"
-        },
-        {
-          "name": "傷口蠅蛆症",
-          "score": 0.993,
-          "level": "L5"
-        },
-        {
-          "name": "爬行性蠅蛆症",
-          "score": 0.993,
-          "level": "L5"
-        },
-        {
-          "name": "包蟲病",
-          "score": 0.993,
-          "level": "L5"
-        }
-      ],
-      "url": "/drugs/griseofulvin/"
     },
     {
       "name": "Haloperidol",
@@ -36138,15 +35938,6 @@
       "url": "/drugs/lorlatinib/"
     },
     {
-      "name": "Lornoxicam",
-      "slug": "lornoxicam",
-      "brands": [],
-      "original": "",
-      "level": "L3",
-      "indications": [],
-      "url": "/drugs/lornoxicam/"
-    },
-    {
       "name": "Losartan",
       "slug": "losartan",
       "brands": [],
@@ -36205,15 +35996,6 @@
         }
       ],
       "url": "/drugs/losartan/"
-    },
-    {
-      "name": "Loteprednol Etabonate",
-      "slug": "loteprednol_etabonate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [],
-      "url": "/drugs/loteprednol-etabonate/"
     },
     {
       "name": "Loxoprofen",
@@ -36379,24 +36161,6 @@
         }
       ],
       "url": "/drugs/magnesium/"
-    },
-    {
-      "name": "Magnesium Sulfate",
-      "slug": "magnesium_sulfate",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [],
-      "url": "/drugs/magnesium-sulfate/"
-    },
-    {
-      "name": "Mannitol",
-      "slug": "mannitol",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [],
-      "url": "/drugs/mannitol/"
     },
     {
       "name": "Meloxicam",
@@ -37008,15 +36772,6 @@
       "url": "/drugs/miglitol/"
     },
     {
-      "name": "Milrinone",
-      "slug": "milrinone",
-      "brands": [],
-      "original": "",
-      "level": "L3",
-      "indications": [],
-      "url": "/drugs/milrinone/"
-    },
-    {
       "name": "Minocycline",
       "slug": "minocycline",
       "brands": [],
@@ -37119,15 +36874,6 @@
         }
       ],
       "url": "/drugs/mitiglinide/"
-    },
-    {
-      "name": "Moclobemide",
-      "slug": "moclobemide",
-      "brands": [],
-      "original": "",
-      "level": "L2",
-      "indications": [],
-      "url": "/drugs/moclobemide/"
     },
     {
       "name": "Montelukast",
@@ -37367,24 +37113,6 @@
         }
       ],
       "url": "/drugs/naftopidil/"
-    },
-    {
-      "name": "Nebivolol",
-      "slug": "nebivolol",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [],
-      "url": "/drugs/nebivolol/"
-    },
-    {
-      "name": "Nepafenac",
-      "slug": "nepafenac",
-      "brands": [],
-      "original": "",
-      "level": "L1",
-      "indications": [],
-      "url": "/drugs/nepafenac/"
     },
     {
       "name": "Nicardipine",
@@ -38213,24 +37941,6 @@
       "url": "/drugs/pembrolizumab/"
     },
     {
-      "name": "Pemetrexed",
-      "slug": "pemetrexed",
-      "brands": [],
-      "original": "",
-      "level": "L1",
-      "indications": [],
-      "url": "/drugs/pemetrexed/"
-    },
-    {
-      "name": "Pentoxifylline",
-      "slug": "pentoxifylline",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [],
-      "url": "/drugs/pentoxifylline/"
-    },
-    {
       "name": "Perampanel",
       "slug": "perampanel",
       "brands": [],
@@ -38571,15 +38281,6 @@
       "url": "/drugs/pilocarpine/"
     },
     {
-      "name": "Pimozide",
-      "slug": "pimozide",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [],
-      "url": "/drugs/pimozide/"
-    },
-    {
       "name": "Pioglitazone",
       "slug": "pioglitazone",
       "brands": [],
@@ -38638,15 +38339,6 @@
         }
       ],
       "url": "/drugs/pioglitazone/"
-    },
-    {
-      "name": "Pipemidic Acid",
-      "slug": "pipemidic_acid",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [],
-      "url": "/drugs/pipemidic-acid/"
     },
     {
       "name": "Pitavastatin",
@@ -38709,51 +38401,6 @@
       "url": "/drugs/pitavastatin/"
     },
     {
-      "name": "Pitolisant",
-      "slug": "pitolisant",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [],
-      "url": "/drugs/pitolisant/"
-    },
-    {
-      "name": "Polyethylene Glycol",
-      "slug": "polyethylene_glycol",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [],
-      "url": "/drugs/polyethylene-glycol/"
-    },
-    {
-      "name": "Polyethylene Glycol 400",
-      "slug": "polyethylene_glycol_400",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [],
-      "url": "/drugs/polyethylene-glycol-400/"
-    },
-    {
-      "name": "Polymyxin B",
-      "slug": "polymyxin_b",
-      "brands": [],
-      "original": "",
-      "level": "L3",
-      "indications": [],
-      "url": "/drugs/polymyxin-b/"
-    },
-    {
-      "name": "Polysorbate 80",
-      "slug": "polysorbate_80",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [],
-      "url": "/drugs/polysorbate-80/"
-    },
-    {
       "name": "Ponatinib",
       "slug": "ponatinib",
       "brands": [],
@@ -38772,24 +38419,6 @@
         }
       ],
       "url": "/drugs/ponatinib/"
-    },
-    {
-      "name": "Potassium Iodide",
-      "slug": "potassium_iodide",
-      "brands": [],
-      "original": "",
-      "level": "L3",
-      "indications": [],
-      "url": "/drugs/potassium-iodide/"
-    },
-    {
-      "name": "Povidone",
-      "slug": "povidone",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [],
-      "url": "/drugs/povidone/"
     },
     {
       "name": "Pralatrexate",
@@ -41517,41 +41146,6 @@
       "url": "/drugs/teneligliptin/"
     },
     {
-      "name": "Tenofovir Alafenamide",
-      "slug": "tenofovir_alafenamide",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [
-        {
-          "name": "長效 TAF 奈米製劑在恆河猴的藥理學評估",
-          "score": 2022.0,
-          "level": "L5"
-        },
-        {
-          "name": "長效 TAF 注射劑在猴模型的預防效果",
-          "score": 2021.0,
-          "level": "L5"
-        },
-        {
-          "name": "長效 Cabotegravir + TAF 組合在 SHIV 感染模型的評估",
-          "score": 2020.0,
-          "level": "L5"
-        },
-        {
-          "name": "TAF 長效製劑在 SIV 猴模型的分布研究",
-          "score": 2020.0,
-          "level": "L5"
-        },
-        {
-          "name": "長效 Tenofovir 前驅藥在恆河猴的藥動學",
-          "score": 2019.0,
-          "level": "L5"
-        }
-      ],
-      "url": "/drugs/tenofovir-alafenamide/"
-    },
-    {
       "name": "Terbinafine",
       "slug": "terbinafine",
       "brands": [],
@@ -41612,15 +41206,6 @@
       "url": "/drugs/terbinafine/"
     },
     {
-      "name": "Terbutaline",
-      "slug": "terbutaline",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [],
-      "url": "/drugs/terbutaline/"
-    },
-    {
       "name": "Teriparatide",
       "slug": "teriparatide",
       "brands": [],
@@ -41679,15 +41264,6 @@
         }
       ],
       "url": "/drugs/teriparatide/"
-    },
-    {
-      "name": "Tetrabenazine",
-      "slug": "tetrabenazine",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [],
-      "url": "/drugs/tetrabenazine/"
     },
     {
       "name": "Tetracycline",
@@ -41985,24 +41561,6 @@
         }
       ],
       "url": "/drugs/timolol/"
-    },
-    {
-      "name": "Tinidazole",
-      "slug": "tinidazole",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [],
-      "url": "/drugs/tinidazole/"
-    },
-    {
-      "name": "Tioconazole",
-      "slug": "tioconazole",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [],
-      "url": "/drugs/tioconazole/"
     },
     {
       "name": "Tiotropium",
@@ -42360,15 +41918,6 @@
         }
       ],
       "url": "/drugs/tofogliflozin/"
-    },
-    {
-      "name": "Tolmetin",
-      "slug": "tolmetin",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [],
-      "url": "/drugs/tolmetin/"
     },
     {
       "name": "Topiramate",
@@ -42946,15 +42495,6 @@
       "url": "/drugs/tropicamide/"
     },
     {
-      "name": "Tyrosine",
-      "slug": "tyrosine",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [],
-      "url": "/drugs/tyrosine/"
-    },
-    {
       "name": "Upadacitinib",
       "slug": "upadacitinib",
       "brands": [],
@@ -43333,15 +42873,6 @@
         }
       ],
       "url": "/drugs/verapamil/"
-    },
-    {
-      "name": "Verteporfin",
-      "slug": "verteporfin",
-      "brands": [],
-      "original": "",
-      "level": "L5",
-      "indications": [],
-      "url": "/drugs/verteporfin/"
     },
     {
       "name": "Vigabatrin",
@@ -46329,7 +45860,7 @@
     },
     {
       "name": "ABri amyloidosis",
-      "count": 12,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -46571,7 +46102,7 @@
     },
     {
       "name": "Ambras type hypertrichosis universalis congenita",
-      "count": 13,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -46697,7 +46228,7 @@
     },
     {
       "name": "B-cell neoplasm",
-      "count": 14,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -46799,7 +46330,7 @@
     },
     {
       "name": "Braddock syndrome",
-      "count": 38,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -47171,7 +46702,7 @@
     },
     {
       "name": "Charcot-Marie-Tooth disease, demyelinating, type 1G",
-      "count": 14,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -47756,7 +47287,7 @@
     },
     {
       "name": "HIV infectious disease",
-      "count": 19,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -47888,7 +47419,7 @@
     },
     {
       "name": "Hodgkins lymphoma",
-      "count": 12,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -48537,7 +48068,7 @@
     },
     {
       "name": "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome",
-      "count": 12,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -48990,7 +48521,7 @@
     },
     {
       "name": "PLA2G6-associated neurodegeneration",
-      "count": 12,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -49077,7 +48608,7 @@
     },
     {
       "name": "Parkinson disease",
-      "count": 13,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -49349,21 +48880,6 @@
       ]
     },
     {
-      "name": "Plummer-Vinson 症候群",
-      "count": 1,
-      "level": "L5",
-      "drugs": [
-        {
-          "name": "Ferrous Gluconate",
-          "slug": "ferrous_gluconate",
-          "score": 0.999,
-          "level": "L5",
-          "original": "",
-          "url": "/drugs/ferrous-gluconate/"
-        }
-      ]
-    },
-    {
       "name": "Potter sequence",
       "count": 2,
       "level": "L5",
@@ -49388,7 +48904,7 @@
     },
     {
       "name": "Prinzmetal angina",
-      "count": 19,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -49568,7 +49084,7 @@
     },
     {
       "name": "Quinquaud's folliculitis decalvans",
-      "count": 12,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -49655,7 +49171,7 @@
     },
     {
       "name": "Rasmussen subacute encephalitis",
-      "count": 16,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -50106,21 +49622,6 @@
       ]
     },
     {
-      "name": "TAF 長效製劑在 SIV 猴模型的分布研究",
-      "count": 1,
-      "level": "L5",
-      "drugs": [
-        {
-          "name": "Tenofovir Alafenamide",
-          "slug": "tenofovir_alafenamide",
-          "score": 2020.0,
-          "level": "L5",
-          "original": "",
-          "url": "/drugs/tenofovir-alafenamide/"
-        }
-      ]
-    },
-    {
       "name": "Tourette syndrome",
       "count": 10,
       "level": "L5",
@@ -50334,7 +49835,7 @@
     },
     {
       "name": "WHIM syndrome",
-      "count": 18,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -50605,7 +50106,7 @@
     },
     {
       "name": "X-linked parkinsonism-spasticity syndrome",
-      "count": 15,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -50919,7 +50420,7 @@
     },
     {
       "name": "acne (disease)",
-      "count": 17,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -51232,7 +50733,7 @@
     },
     {
       "name": "acromesomelic dysplasia, Hunter-Thompson type",
-      "count": 24,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -51436,7 +50937,7 @@
     },
     {
       "name": "active peptic ulcer disease",
-      "count": 12,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -51892,7 +51393,7 @@
     },
     {
       "name": "acute laryngopharyngitis",
-      "count": 18,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -52504,7 +52005,7 @@
     },
     {
       "name": "agoraphobia",
-      "count": 20,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -52731,7 +52232,7 @@
     },
     {
       "name": "allergic rhinitis",
-      "count": 20,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -52818,7 +52319,7 @@
     },
     {
       "name": "allergic urticaria",
-      "count": 24,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -52984,7 +52485,7 @@
     },
     {
       "name": "alopecia antibody deficiency",
-      "count": 12,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -53158,7 +52659,7 @@
     },
     {
       "name": "alopecia mucinosa",
-      "count": 12,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -53316,7 +52817,7 @@
     },
     {
       "name": "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome",
-      "count": 12,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -53868,7 +53369,7 @@
     },
     {
       "name": "ankylosing spondylitis",
-      "count": 16,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -54189,7 +53690,7 @@
     },
     {
       "name": "anxiety disorder",
-      "count": 15,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -54493,7 +53994,7 @@
     },
     {
       "name": "arthropathy",
-      "count": 18,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -54743,7 +54244,7 @@
     },
     {
       "name": "asthma",
-      "count": 17,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -54916,7 +54417,7 @@
     },
     {
       "name": "atopic conjunctivitis",
-      "count": 24,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -55003,7 +54504,7 @@
     },
     {
       "name": "atopic eczema",
-      "count": 16,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -55153,7 +54654,7 @@
     },
     {
       "name": "atrichia with papular lesions",
-      "count": 12,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -55295,7 +54796,7 @@
     },
     {
       "name": "attention deficit hyperactivity disorder, inattentive type",
-      "count": 11,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -55382,7 +54883,7 @@
     },
     {
       "name": "attention deficit-hyperactivity disorder",
-      "count": 19,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -55492,7 +54993,7 @@
     },
     {
       "name": "atypical glycine encephalopathy",
-      "count": 12,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -55602,7 +55103,7 @@
     },
     {
       "name": "atypical juvenile parkinsonism",
-      "count": 15,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -55689,7 +55190,7 @@
     },
     {
       "name": "audiogenic seizures",
-      "count": 20,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -56174,7 +55675,7 @@
     },
     {
       "name": "bacterial arthritis",
-      "count": 13,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -56292,7 +55793,7 @@
     },
     {
       "name": "bacterial pneumonia",
-      "count": 14,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -56734,7 +56235,7 @@
     },
     {
       "name": "benign paroxysmal torticollis of infancy",
-      "count": 20,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -56985,7 +56486,7 @@
     },
     {
       "name": "beta-ketothiolase deficiency",
-      "count": 12,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -57577,7 +57078,7 @@
     },
     {
       "name": "blood group incompatibility",
-      "count": 17,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -57796,7 +57297,7 @@
     },
     {
       "name": "botryoid-type embryonal rhabdomyosarcoma of the vagina",
-      "count": 14,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -57913,7 +57414,7 @@
     },
     {
       "name": "brachydactyly-syndactyly syndrome",
-      "count": 34,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -58000,7 +57501,7 @@
     },
     {
       "name": "brachyolmia",
-      "count": 18,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -58087,7 +57588,7 @@
     },
     {
       "name": "brachyolmia-amelogenesis imperfecta syndrome",
-      "count": 22,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -58299,7 +57800,7 @@
     },
     {
       "name": "brain stem infarction",
-      "count": 18,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -58843,7 +58344,7 @@
     },
     {
       "name": "bronchitis",
-      "count": 21,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -59627,7 +59128,7 @@
     },
     {
       "name": "centrifugal lipodystrophy",
-      "count": 24,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -59862,7 +59363,7 @@
     },
     {
       "name": "cerebrovascular disorder",
-      "count": 14,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -60267,7 +59768,7 @@
     },
     {
       "name": "childhood kidney cell carcinoma",
-      "count": 14,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -60461,7 +59962,7 @@
     },
     {
       "name": "cholesterol-ester transfer protein deficiency",
-      "count": 16,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -61169,7 +60670,7 @@
     },
     {
       "name": "chronic pulmonary heart disease",
-      "count": 26,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -61568,7 +61069,7 @@
     },
     {
       "name": "classic stiff person syndrome",
-      "count": 26,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -61787,7 +61288,7 @@
     },
     {
       "name": "cold urticaria",
-      "count": 13,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -61912,7 +61413,7 @@
     },
     {
       "name": "colobomatous microphthalmia-rhizomelic dysplasia syndrome",
-      "count": 34,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -62138,7 +61639,7 @@
     },
     {
       "name": "common cold",
-      "count": 15,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -62302,7 +61803,7 @@
     },
     {
       "name": "congenital analbuminemia",
-      "count": 19,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -62412,7 +61913,7 @@
     },
     {
       "name": "congenital disorder of glycosylation with defective fucosylation",
-      "count": 18,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -62514,7 +62015,7 @@
     },
     {
       "name": "congenital hematological disorder",
-      "count": 11,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -62616,7 +62117,7 @@
     },
     {
       "name": "congenital hypotrichosis milia",
-      "count": 20,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -63006,7 +62507,7 @@
     },
     {
       "name": "conjunctivitis",
-      "count": 16,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -63893,7 +63394,7 @@
     },
     {
       "name": "dermatofibrosarcoma protuberans",
-      "count": 11,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -64088,7 +63589,7 @@
     },
     {
       "name": "diabetes mellitus (disease)",
-      "count": 26,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -64291,7 +63792,7 @@
     },
     {
       "name": "diffuse alopecia areata",
-      "count": 13,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -64898,7 +64399,7 @@
     },
     {
       "name": "drug-induced localized lipodystrophy",
-      "count": 24,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -65078,7 +64579,7 @@
     },
     {
       "name": "duodenal obstruction",
-      "count": 18,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -65307,7 +64808,7 @@
     },
     {
       "name": "duodenogastric reflux",
-      "count": 14,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -65658,7 +65159,7 @@
     },
     {
       "name": "early-onset parkinsonism-intellectual disability syndrome",
-      "count": 15,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -65745,7 +65246,7 @@
     },
     {
       "name": "eating seizures",
-      "count": 20,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -66127,7 +65628,7 @@
     },
     {
       "name": "endogenous depression",
-      "count": 11,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -67541,7 +67042,7 @@
     },
     {
       "name": "exposure keratitis",
-      "count": 12,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -67782,7 +67283,7 @@
     },
     {
       "name": "faciodigitogenital syndrome",
-      "count": 13,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -68108,7 +67609,7 @@
     },
     {
       "name": "familial hypercholesterolemia",
-      "count": 16,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -68644,7 +68145,7 @@
     },
     {
       "name": "feline acquired immunodeficiency syndrome",
-      "count": 13,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -68731,7 +68232,7 @@
     },
     {
       "name": "female breast carcinoma",
-      "count": 18,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -68981,7 +68482,7 @@
     },
     {
       "name": "fibroma of lung",
-      "count": 14,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -69139,7 +68640,7 @@
     },
     {
       "name": "fibromatosis, gingival",
-      "count": 16,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -69412,7 +68913,7 @@
     },
     {
       "name": "focal stiff limb syndrome",
-      "count": 26,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -70275,7 +69776,7 @@
     },
     {
       "name": "gastroduodenitis",
-      "count": 14,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -70455,7 +69956,7 @@
     },
     {
       "name": "gastrojejunal ulcer",
-      "count": 14,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -71433,7 +70934,7 @@
     },
     {
       "name": "hamartoma of lung",
-      "count": 14,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -71558,7 +71059,7 @@
     },
     {
       "name": "headache disorder",
-      "count": 11,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -71738,7 +71239,7 @@
     },
     {
       "name": "hematological disease associated with an acquired peripheral neuropathy",
-      "count": 13,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -71871,7 +71372,7 @@
     },
     {
       "name": "hemiparkinsonism-hemiatrophy syndrome",
-      "count": 15,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -72587,7 +72088,7 @@
     },
     {
       "name": "hereditary hypotrichosis with recurrent skin vesicles",
-      "count": 12,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -72674,7 +72175,7 @@
     },
     {
       "name": "hereditary late onset Parkinson disease",
-      "count": 13,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -73037,7 +72538,7 @@
     },
     {
       "name": "histrionic personality disorder (disease)",
-      "count": 11,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -73124,7 +72625,7 @@
     },
     {
       "name": "homozygous familial hypercholesterolemia",
-      "count": 18,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -73483,7 +72984,7 @@
     },
     {
       "name": "hyperamylasemia",
-      "count": 17,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -73570,7 +73071,7 @@
     },
     {
       "name": "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency",
-      "count": 16,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -73657,7 +73158,7 @@
     },
     {
       "name": "hypercholesterolemia, autosomal dominant",
-      "count": 12,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -73987,7 +73488,7 @@
     },
     {
       "name": "hyperlipoproteinemia",
-      "count": 12,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -74113,7 +73614,7 @@
     },
     {
       "name": "hypermobility of coccyx",
-      "count": 16,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -74276,7 +73777,7 @@
     },
     {
       "name": "hypertension",
-      "count": 18,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -74363,7 +73864,7 @@
     },
     {
       "name": "hypertensive disorder",
-      "count": 24,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -74512,7 +74013,7 @@
     },
     {
       "name": "hypertrichosis (disease)",
-      "count": 12,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -74707,7 +74208,7 @@
     },
     {
       "name": "hypoalphalipoproteinemia",
-      "count": 13,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -74908,7 +74409,7 @@
     },
     {
       "name": "hypotrichosis simplex of the scalp",
-      "count": 23,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -75237,7 +74738,7 @@
     },
     {
       "name": "idiopathic localized lipodystrophy",
-      "count": 22,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -75652,7 +75153,7 @@
     },
     {
       "name": "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia",
-      "count": 14,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -76106,7 +75607,7 @@
     },
     {
       "name": "inflammatory spondylopathy",
-      "count": 14,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -76347,7 +75848,7 @@
     },
     {
       "name": "insomnia (disease)",
-      "count": 17,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -76990,7 +76491,7 @@
     },
     {
       "name": "isolated genetic hair shaft abnormality",
-      "count": 13,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -77077,7 +76578,7 @@
     },
     {
       "name": "junctional epidermolysis bullosa",
-      "count": 12,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -77164,7 +76665,7 @@
     },
     {
       "name": "juvenile arthritis due to defect in LACC1",
-      "count": 18,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -77251,7 +76752,7 @@
     },
     {
       "name": "juvenile idiopathic arthritis",
-      "count": 16,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -77338,7 +76839,7 @@
     },
     {
       "name": "juvenile onset Parkinson disease 19A",
-      "count": 13,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -78285,7 +77786,7 @@
     },
     {
       "name": "liposarcoma",
-      "count": 18,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -78549,7 +78050,7 @@
     },
     {
       "name": "lung benign neoplasm",
-      "count": 14,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -78738,7 +78239,7 @@
     },
     {
       "name": "lung germ cell tumor",
-      "count": 14,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -78825,7 +78326,7 @@
     },
     {
       "name": "lung hilum carcinoma",
-      "count": 14,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -79386,7 +78887,7 @@
     },
     {
       "name": "major depressive disorder",
-      "count": 11,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -79559,7 +79060,7 @@
     },
     {
       "name": "malformation syndrome with odontal and/or periodontal component",
-      "count": 13,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -79965,7 +79466,7 @@
     },
     {
       "name": "malignant hypertensive renal disease",
-      "count": 38,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -80199,7 +79700,7 @@
     },
     {
       "name": "malignant renovascular hypertension",
-      "count": 38,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -80402,7 +79903,7 @@
     },
     {
       "name": "manic bipolar affective disorder",
-      "count": 18,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -81140,7 +80641,7 @@
     },
     {
       "name": "micturation-induced seizures",
-      "count": 20,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -81296,7 +80797,7 @@
     },
     {
       "name": "migraine disorder",
-      "count": 20,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -81383,7 +80884,7 @@
     },
     {
       "name": "migraine with brainstem aura",
-      "count": 22,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -81609,7 +81110,7 @@
     },
     {
       "name": "monoclonal gammopathy",
-      "count": 13,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -81927,7 +81428,7 @@
     },
     {
       "name": "myelitis",
-      "count": 12,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -82302,7 +81803,7 @@
     },
     {
       "name": "myopia 26, X-linked, female-limited",
-      "count": 12,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -82389,7 +81890,7 @@
     },
     {
       "name": "myopia X-linked",
-      "count": 12,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -82476,7 +81977,7 @@
     },
     {
       "name": "myosclerosis",
-      "count": 22,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -82688,7 +82189,7 @@
     },
     {
       "name": "nasal cavity disease",
-      "count": 18,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -83110,7 +82611,7 @@
     },
     {
       "name": "nephrogenic syndrome of inappropriate antidiuresis",
-      "count": 15,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -83289,7 +82790,7 @@
     },
     {
       "name": "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter",
-      "count": 18,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -83849,7 +83350,7 @@
     },
     {
       "name": "non-small cell lung carcinoma (disease)",
-      "count": 11,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -84567,7 +84068,7 @@
     },
     {
       "name": "obsolete susceptibility to ischemic stroke",
-      "count": 20,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -84692,7 +84193,7 @@
     },
     {
       "name": "obstructive lung disease",
-      "count": 12,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -84950,7 +84451,7 @@
     },
     {
       "name": "open-angle glaucoma",
-      "count": 13,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -85083,7 +84584,7 @@
     },
     {
       "name": "opsismodysplasia",
-      "count": 30,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -85193,7 +84694,7 @@
     },
     {
       "name": "orgasm-induced seizures",
-      "count": 20,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -85349,7 +84850,7 @@
     },
     {
       "name": "osteoarthritis",
-      "count": 19,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -85436,7 +84937,7 @@
     },
     {
       "name": "osteoarthritis susceptibility",
-      "count": 20,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -85922,7 +85423,7 @@
     },
     {
       "name": "ovarian myxoid liposarcoma",
-      "count": 16,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -86165,7 +85666,7 @@
     },
     {
       "name": "pancreatic agenesis",
-      "count": 18,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -86267,7 +85768,7 @@
     },
     {
       "name": "papillary conjunctivitis",
-      "count": 28,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -86447,7 +85948,7 @@
     },
     {
       "name": "parameningeal embryonal rhabdomyosarcoma",
-      "count": 12,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -86589,7 +86090,7 @@
     },
     {
       "name": "paranoid personality disorder",
-      "count": 11,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -86911,7 +86412,7 @@
     },
     {
       "name": "parkinsonian-pyramidal syndrome",
-      "count": 15,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -87473,7 +86974,7 @@
     },
     {
       "name": "peptic ulcer perforation",
-      "count": 14,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -87882,7 +87383,7 @@
     },
     {
       "name": "pharyngitis",
-      "count": 17,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -88599,7 +88100,7 @@
     },
     {
       "name": "polyclonal hyperviscosity syndrome",
-      "count": 17,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -88755,7 +88256,7 @@
     },
     {
       "name": "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis",
-      "count": 22,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -89730,7 +89231,7 @@
     },
     {
       "name": "premalignant hematological system disease",
-      "count": 15,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -89863,7 +89364,7 @@
     },
     {
       "name": "pressure-induced localized lipoatrophy",
-      "count": 24,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -90113,7 +89614,7 @@
     },
     {
       "name": "primary hereditary glaucoma",
-      "count": 21,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -91170,7 +90671,7 @@
     },
     {
       "name": "pseudoachondroplasia",
-      "count": 16,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -91781,7 +91282,7 @@
     },
     {
       "name": "pulmonary hypertension owing to lung disease and/or hypoxia",
-      "count": 38,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -91868,7 +91369,7 @@
     },
     {
       "name": "pulmonary hypertension with unclear multifactorial mechanism",
-      "count": 38,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -91955,7 +91456,7 @@
     },
     {
       "name": "pulmonary sulcus neoplasm",
-      "count": 14,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -92057,7 +91558,7 @@
     },
     {
       "name": "punctate epithelial keratoconjunctivitis",
-      "count": 33,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -92273,7 +91774,7 @@
     },
     {
       "name": "reading seizures",
-      "count": 20,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -92751,7 +92252,7 @@
     },
     {
       "name": "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions",
-      "count": 14,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -92838,7 +92339,7 @@
     },
     {
       "name": "renal cell carcinoma associated with neuroblastoma",
-      "count": 14,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -93336,7 +92837,7 @@
     },
     {
       "name": "restless legs syndrome",
-      "count": 18,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -93514,7 +93015,7 @@
     },
     {
       "name": "retinal dystrophy with or without extraocular anomalies",
-      "count": 22,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -93678,7 +93179,7 @@
     },
     {
       "name": "rhabdomyosarcoma (disease)",
-      "count": 11,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -93812,7 +93313,7 @@
     },
     {
       "name": "rheumatoid arthritis",
-      "count": 43,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -94057,7 +93558,7 @@
     },
     {
       "name": "rheumatoid vasculitis",
-      "count": 14,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -94324,7 +93825,7 @@
     },
     {
       "name": "rosacea conjunctivitis",
-      "count": 24,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -94620,7 +94121,7 @@
     },
     {
       "name": "schizoid personality disorder",
-      "count": 11,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -94707,7 +94208,7 @@
     },
     {
       "name": "schizophrenia",
-      "count": 15,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -94809,7 +94310,7 @@
     },
     {
       "name": "schizotypal personality disorder",
-      "count": 11,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -95152,7 +94653,7 @@
     },
     {
       "name": "seborrheic keratosis",
-      "count": 11,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -95402,7 +94903,7 @@
     },
     {
       "name": "septicemic plague",
-      "count": 12,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -95862,7 +95363,7 @@
     },
     {
       "name": "simian immunodeficiency virus infection",
-      "count": 17,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -96552,7 +96053,7 @@
     },
     {
       "name": "spondyloarthropathy, susceptibility to",
-      "count": 26,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -96847,7 +96348,7 @@
     },
     {
       "name": "staphylococcal infection",
-      "count": 15,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -97012,7 +96513,7 @@
     },
     {
       "name": "staphylococcus aureus infection",
-      "count": 20,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -97122,7 +96623,7 @@
     },
     {
       "name": "startle epilepsy",
-      "count": 20,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -97272,7 +96773,7 @@
     },
     {
       "name": "streptococcal infection",
-      "count": 13,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -97382,7 +96883,7 @@
     },
     {
       "name": "streptococcal pneumonia",
-      "count": 19,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -97887,7 +97388,7 @@
     },
     {
       "name": "syndrome with a Dandy-Walker malformation as major feature",
-      "count": 13,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -98194,7 +97695,7 @@
     },
     {
       "name": "telogen effluvium",
-      "count": 12,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -98312,7 +97813,7 @@
     },
     {
       "name": "tendinitis",
-      "count": 11,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -98697,7 +98198,7 @@
     },
     {
       "name": "thiamine-responsive dysfunction syndrome",
-      "count": 24,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -98784,7 +98285,7 @@
     },
     {
       "name": "thinking seizures",
-      "count": 20,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -99836,7 +99337,7 @@
     },
     {
       "name": "trichotillomania",
-      "count": 19,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -99923,7 +99424,7 @@
     },
     {
       "name": "trigeminal autonomic cephalalgia",
-      "count": 15,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -100010,7 +99511,7 @@
     },
     {
       "name": "trigeminal nerve neoplasm",
-      "count": 19,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -100097,7 +99598,7 @@
     },
     {
       "name": "trigeminal neuralgia",
-      "count": 13,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -100494,7 +99995,7 @@
     },
     {
       "name": "type 2 diabetes mellitus",
-      "count": 24,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -100931,7 +100432,7 @@
     },
     {
       "name": "unclassified renal cell carcinoma",
-      "count": 14,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -101212,7 +100713,7 @@
     },
     {
       "name": "urinary tract infection (disease)",
-      "count": 11,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -101578,7 +101079,7 @@
     },
     {
       "name": "vasomotor rhinitis",
-      "count": 20,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -101804,7 +101305,7 @@
     },
     {
       "name": "vernal conjunctivitis",
-      "count": 17,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -102201,7 +101702,7 @@
     },
     {
       "name": "visual epilepsy",
-      "count": 14,
+      "count": 10,
       "level": "L5",
       "drugs": [
         {
@@ -103100,51 +102601,6 @@
       ]
     },
     {
-      "name": "偏頭痛",
-      "count": 1,
-      "level": "L5",
-      "drugs": [
-        {
-          "name": "Flunitrazepam",
-          "slug": "flunitrazepam",
-          "score": 0.997,
-          "level": "L5",
-          "original": "",
-          "url": "/drugs/flunitrazepam/"
-        }
-      ]
-    },
-    {
-      "name": "傷口蠅蛆症",
-      "count": 1,
-      "level": "L5",
-      "drugs": [
-        {
-          "name": "Griseofulvin",
-          "slug": "griseofulvin",
-          "score": 0.993,
-          "level": "L5",
-          "original": "",
-          "url": "/drugs/griseofulvin/"
-        }
-      ]
-    },
-    {
-      "name": "包蟲病",
-      "count": 1,
-      "level": "L5",
-      "drugs": [
-        {
-          "name": "Griseofulvin",
-          "slug": "griseofulvin",
-          "score": 0.993,
-          "level": "L5",
-          "original": "",
-          "url": "/drugs/griseofulvin/"
-        }
-      ]
-    },
-    {
       "name": "古典的スティッフパーソン症候群",
       "count": 1,
       "level": "L5",
@@ -103156,21 +102612,6 @@
           "level": "L5",
           "original": "",
           "url": "/drugs/tofogliflozin/"
-        }
-      ]
-    },
-    {
-      "name": "喉頭炎",
-      "count": 1,
-      "level": "L4",
-      "drugs": [
-        {
-          "name": "Fosfomycin",
-          "slug": "fosfomycin",
-          "score": 0.997,
-          "level": "L4",
-          "original": "",
-          "url": "/drugs/fosfomycin/"
         }
       ]
     },
@@ -103190,36 +102631,6 @@
       ]
     },
     {
-      "name": "失眠（疾病）",
-      "count": 1,
-      "level": "L2",
-      "drugs": [
-        {
-          "name": "Flunitrazepam",
-          "slug": "flunitrazepam",
-          "score": 0.999,
-          "level": "L2",
-          "original": "",
-          "url": "/drugs/flunitrazepam/"
-        }
-      ]
-    },
-    {
-      "name": "子宮炎性疾病",
-      "count": 1,
-      "level": "L3",
-      "drugs": [
-        {
-          "name": "Fosfomycin",
-          "slug": "fosfomycin",
-          "score": 0.9998,
-          "level": "L3",
-          "original": "",
-          "url": "/drugs/fosfomycin/"
-        }
-      ]
-    },
-    {
       "name": "局所性スティッフリム症候群",
       "count": 1,
       "level": "L5",
@@ -103231,51 +102642,6 @@
           "level": "L5",
           "original": "",
           "url": "/drugs/tofogliflozin/"
-        }
-      ]
-    },
-    {
-      "name": "巨紅血球性貧血",
-      "count": 1,
-      "level": "L5",
-      "drugs": [
-        {
-          "name": "Ferrous Gluconate",
-          "slug": "ferrous_gluconate",
-          "score": 0.999,
-          "level": "L5",
-          "original": "",
-          "url": "/drugs/ferrous-gluconate/"
-        }
-      ]
-    },
-    {
-      "name": "焦慮",
-      "count": 1,
-      "level": "L2",
-      "drugs": [
-        {
-          "name": "Flunitrazepam",
-          "slug": "flunitrazepam",
-          "score": 0.996,
-          "level": "L2",
-          "original": "",
-          "url": "/drugs/flunitrazepam/"
-        }
-      ]
-    },
-    {
-      "name": "爬行性蠅蛆症",
-      "count": 1,
-      "level": "L5",
-      "drugs": [
-        {
-          "name": "Griseofulvin",
-          "slug": "griseofulvin",
-          "score": 0.993,
-          "level": "L5",
-          "original": "",
-          "url": "/drugs/griseofulvin/"
         }
       ]
     },
@@ -103295,36 +102661,6 @@
       ]
     },
     {
-      "name": "疥蟲性蠅蛆症",
-      "count": 1,
-      "level": "L5",
-      "drugs": [
-        {
-          "name": "Griseofulvin",
-          "slug": "griseofulvin",
-          "score": 0.993,
-          "level": "L5",
-          "original": "",
-          "url": "/drugs/griseofulvin/"
-        }
-      ]
-    },
-    {
-      "name": "維生素缺乏症",
-      "count": 1,
-      "level": "L3",
-      "drugs": [
-        {
-          "name": "Ferrous Gluconate",
-          "slug": "ferrous_gluconate",
-          "score": 0.992,
-          "level": "L3",
-          "original": "",
-          "url": "/drugs/ferrous-gluconate/"
-        }
-      ]
-    },
-    {
       "name": "脊髄炎 (myelitis)",
       "count": 1,
       "level": "L5",
@@ -103336,21 +102672,6 @@
           "level": "L5",
           "original": "",
           "url": "/drugs/safinamide/"
-        }
-      ]
-    },
-    {
-      "name": "腎盂腎炎（變異型）",
-      "count": 1,
-      "level": "L2",
-      "drugs": [
-        {
-          "name": "Fosfomycin",
-          "slug": "fosfomycin",
-          "score": 0.9998,
-          "level": "L2",
-          "original": "",
-          "url": "/drugs/fosfomycin/"
         }
       ]
     },
@@ -103370,21 +102691,6 @@
       ]
     },
     {
-      "name": "蠅蛆症",
-      "count": 1,
-      "level": "L5",
-      "drugs": [
-        {
-          "name": "Griseofulvin",
-          "slug": "griseofulvin",
-          "score": 0.994,
-          "level": "L5",
-          "original": "",
-          "url": "/drugs/griseofulvin/"
-        }
-      ]
-    },
-    {
       "name": "遠心性リポジストロフィー",
       "count": 1,
       "level": "L5",
@@ -103396,66 +102702,6 @@
           "level": "L5",
           "original": "",
           "url": "/drugs/tofogliflozin/"
-        }
-      ]
-    },
-    {
-      "name": "長效 Cabotegravir + TAF 組合在 SHIV 感染模型的評估",
-      "count": 1,
-      "level": "L5",
-      "drugs": [
-        {
-          "name": "Tenofovir Alafenamide",
-          "slug": "tenofovir_alafenamide",
-          "score": 2020.0,
-          "level": "L5",
-          "original": "",
-          "url": "/drugs/tenofovir-alafenamide/"
-        }
-      ]
-    },
-    {
-      "name": "長效 TAF 奈米製劑在恆河猴的藥理學評估",
-      "count": 1,
-      "level": "L5",
-      "drugs": [
-        {
-          "name": "Tenofovir Alafenamide",
-          "slug": "tenofovir_alafenamide",
-          "score": 2022.0,
-          "level": "L5",
-          "original": "",
-          "url": "/drugs/tenofovir-alafenamide/"
-        }
-      ]
-    },
-    {
-      "name": "長效 TAF 注射劑在猴模型的預防效果",
-      "count": 1,
-      "level": "L5",
-      "drugs": [
-        {
-          "name": "Tenofovir Alafenamide",
-          "slug": "tenofovir_alafenamide",
-          "score": 2021.0,
-          "level": "L5",
-          "original": "",
-          "url": "/drugs/tenofovir-alafenamide/"
-        }
-      ]
-    },
-    {
-      "name": "長效 Tenofovir 前驅藥在恆河猴的藥動學",
-      "count": 1,
-      "level": "L5",
-      "drugs": [
-        {
-          "name": "Tenofovir Alafenamide",
-          "slug": "tenofovir_alafenamide",
-          "score": 2019.0,
-          "level": "L5",
-          "original": "",
-          "url": "/drugs/tenofovir-alafenamide/"
         }
       ]
     }

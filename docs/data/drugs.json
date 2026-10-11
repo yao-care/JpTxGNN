@@ -1,6 +1,6 @@
 {
   "generated": "2026-07-25",
-  "total_count": 920,
+  "total_count": 879,
   "source": "JpTxGNN",
   "drugs": [
     {
@@ -694,16 +694,6 @@
       "url": "/drugs/cyanocobalamin/"
     },
     {
-      "slug": "cyclizine",
-      "name": "Cyclizine",
-      "evidence_level": "L2",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/cyclizine/"
-    },
-    {
       "slug": "cyclosporine",
       "name": "Cyclosporine",
       "evidence_level": "L5",
@@ -712,16 +702,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/cyclosporine/"
-    },
-    {
-      "slug": "cytarabine",
-      "name": "Cytarabine",
-      "evidence_level": "L3",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/cytarabine/"
     },
     {
       "slug": "dapagliflozin",
@@ -4134,16 +4114,6 @@
       "url": "/drugs/db15091/"
     },
     {
-      "slug": "dehydrocholic_acid",
-      "name": "Dehydrocholic Acid",
-      "evidence_level": "L5",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "預測適應症",
-      "txgnn_score": "",
-      "url": "/drugs/dehydrocholic_acid/"
-    },
-    {
       "slug": "denosumab",
       "name": "Denosumab",
       "evidence_level": "L5",
@@ -4152,16 +4122,6 @@
       "predicted_indication": "預測適應症",
       "txgnn_score": "",
       "url": "/drugs/denosumab/"
-    },
-    {
-      "slug": "deoxycholic_acid",
-      "name": "Deoxycholic Acid",
-      "evidence_level": "L5",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "預測適應症",
-      "txgnn_score": "",
-      "url": "/drugs/deoxycholic_acid/"
     },
     {
       "slug": "dexamethasone",
@@ -4212,26 +4172,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/diltiazem/"
-    },
-    {
-      "slug": "diosmin",
-      "name": "Diosmin",
-      "evidence_level": "L5",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "預測適應症",
-      "txgnn_score": "",
-      "url": "/drugs/diosmin/"
-    },
-    {
-      "slug": "dipyridamole",
-      "name": "Dipyridamole",
-      "evidence_level": "L5",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "預測適應症",
-      "txgnn_score": "",
-      "url": "/drugs/dipyridamole/"
     },
     {
       "slug": "disopyramide",
@@ -4324,16 +4264,6 @@
       "url": "/drugs/dutasteride/"
     },
     {
-      "slug": "emedastine",
-      "name": "Emedastine",
-      "evidence_level": "L2",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/emedastine/"
-    },
-    {
       "slug": "enalapril",
       "name": "Enalapril",
       "evidence_level": "L5",
@@ -4394,16 +4324,6 @@
       "url": "/drugs/etanercept/"
     },
     {
-      "slug": "ethynodiol_diacetate",
-      "name": "Ethynodiol Diacetate",
-      "evidence_level": "L3",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/ethynodiol_diacetate/"
-    },
-    {
       "slug": "ezetimibe",
       "name": "Ezetimibe",
       "evidence_level": "L5",
@@ -4454,26 +4374,6 @@
       "url": "/drugs/fenofibrate/"
     },
     {
-      "slug": "fenoprofen",
-      "name": "Fenoprofen",
-      "evidence_level": "L2",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/fenoprofen/"
-    },
-    {
-      "slug": "fenoterol",
-      "name": "Fenoterol",
-      "evidence_level": "L5",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/fenoterol/"
-    },
-    {
       "slug": "fentanyl",
       "name": "Fentanyl",
       "evidence_level": "L5",
@@ -4482,16 +4382,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/fentanyl/"
-    },
-    {
-      "slug": "ferrous_gluconate",
-      "name": "Ferrous Gluconate",
-      "evidence_level": "L5",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "預測適應症",
-      "txgnn_score": "",
-      "url": "/drugs/ferrous_gluconate/"
     },
     {
       "slug": "fexofenadine",
@@ -4504,16 +4394,6 @@
       "url": "/drugs/fexofenadine/"
     },
     {
-      "slug": "flunitrazepam",
-      "name": "Flunitrazepam",
-      "evidence_level": "L5",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "預測適應症",
-      "txgnn_score": "",
-      "url": "/drugs/flunitrazepam/"
-    },
-    {
       "slug": "fluticasone",
       "name": "Fluticasone",
       "evidence_level": "L5",
@@ -4522,16 +4402,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/fluticasone/"
-    },
-    {
-      "slug": "fosfomycin",
-      "name": "Fosfomycin",
-      "evidence_level": "L5",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "預測適應症",
-      "txgnn_score": "",
-      "url": "/drugs/fosfomycin/"
     },
     {
       "slug": "furosemide",
@@ -4612,16 +4482,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/granisetron/"
-    },
-    {
-      "slug": "griseofulvin",
-      "name": "Griseofulvin",
-      "evidence_level": "L5",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "預測適應症",
-      "txgnn_score": "",
-      "url": "/drugs/griseofulvin/"
     },
     {
       "slug": "haloperidol",
@@ -5004,16 +4864,6 @@
       "url": "/drugs/lorazepam/"
     },
     {
-      "slug": "lornoxicam",
-      "name": "Lornoxicam",
-      "evidence_level": "L3",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/lornoxicam/"
-    },
-    {
       "slug": "losartan",
       "name": "Losartan",
       "evidence_level": "L5",
@@ -5022,16 +4872,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/losartan/"
-    },
-    {
-      "slug": "loteprednol_etabonate",
-      "name": "Loteprednol Etabonate",
-      "evidence_level": "L5",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/loteprednol_etabonate/"
     },
     {
       "slug": "loxoprofen",
@@ -5052,26 +4892,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/magnesium/"
-    },
-    {
-      "slug": "magnesium_sulfate",
-      "name": "Magnesium Sulfate",
-      "evidence_level": "L5",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/magnesium_sulfate/"
-    },
-    {
-      "slug": "mannitol",
-      "name": "Mannitol",
-      "evidence_level": "L5",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/mannitol/"
     },
     {
       "slug": "meloxicam",
@@ -5154,16 +4974,6 @@
       "url": "/drugs/metronidazole/"
     },
     {
-      "slug": "milrinone",
-      "name": "Milrinone",
-      "evidence_level": "L3",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/milrinone/"
-    },
-    {
       "slug": "minoxidil",
       "name": "Minoxidil",
       "evidence_level": "L4",
@@ -5182,16 +4992,6 @@
       "predicted_indication": "Ohdo syndrome and variants",
       "txgnn_score": "99.42%",
       "url": "/drugs/mirtazapine/"
-    },
-    {
-      "slug": "moclobemide",
-      "name": "Moclobemide",
-      "evidence_level": "L2",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/moclobemide/"
     },
     {
       "slug": "montelukast",
@@ -5254,16 +5054,6 @@
       "url": "/drugs/naproxen/"
     },
     {
-      "slug": "nebivolol",
-      "name": "Nebivolol",
-      "evidence_level": "L5",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/nebivolol/"
-    },
-    {
       "slug": "nefopam",
       "name": "Nefopam",
       "evidence_level": "L5",
@@ -5272,16 +5062,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/nefopam/"
-    },
-    {
-      "slug": "nepafenac",
-      "name": "Nepafenac",
-      "evidence_level": "L1",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/nepafenac/"
     },
     {
       "slug": "nifedipine",
@@ -5434,16 +5214,6 @@
       "url": "/drugs/paroxetine/"
     },
     {
-      "slug": "pemetrexed",
-      "name": "Pemetrexed",
-      "evidence_level": "L1",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/pemetrexed/"
-    },
-    {
       "slug": "pentosan_polysulfate",
       "name": "Pentosan Polysulfate",
       "evidence_level": "L5",
@@ -5452,26 +5222,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/pentosan_polysulfate/"
-    },
-    {
-      "slug": "pentoxifylline",
-      "name": "Pentoxifylline",
-      "evidence_level": "L5",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/pentoxifylline/"
-    },
-    {
-      "slug": "pimozide",
-      "name": "Pimozide",
-      "evidence_level": "L5",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/pimozide/"
     },
     {
       "slug": "pioglitazone",
@@ -5484,16 +5234,6 @@
       "url": "/drugs/pioglitazone/"
     },
     {
-      "slug": "pipemidic_acid",
-      "name": "Pipemidic Acid",
-      "evidence_level": "L5",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/pipemidic_acid/"
-    },
-    {
       "slug": "pitavastatin",
       "name": "Pitavastatin",
       "evidence_level": "L5",
@@ -5502,76 +5242,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/pitavastatin/"
-    },
-    {
-      "slug": "pitolisant",
-      "name": "Pitolisant",
-      "evidence_level": "L5",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/pitolisant/"
-    },
-    {
-      "slug": "polyethylene_glycol",
-      "name": "Polyethylene Glycol",
-      "evidence_level": "L5",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/polyethylene_glycol/"
-    },
-    {
-      "slug": "polyethylene_glycol_400",
-      "name": "Polyethylene Glycol 400",
-      "evidence_level": "L5",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/polyethylene_glycol_400/"
-    },
-    {
-      "slug": "polymyxin_b",
-      "name": "Polymyxin B",
-      "evidence_level": "L3",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/polymyxin_b/"
-    },
-    {
-      "slug": "polysorbate_80",
-      "name": "Polysorbate 80",
-      "evidence_level": "L5",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/polysorbate_80/"
-    },
-    {
-      "slug": "potassium_iodide",
-      "name": "Potassium Iodide",
-      "evidence_level": "L3",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/potassium_iodide/"
-    },
-    {
-      "slug": "povidone",
-      "name": "Povidone",
-      "evidence_level": "L5",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/povidone/"
     },
     {
       "slug": "pralatrexate",
@@ -6084,16 +5754,6 @@
       "url": "/drugs/temozolomide/"
     },
     {
-      "slug": "tenofovir_alafenamide",
-      "name": "Tenofovir Alafenamide",
-      "evidence_level": "L5",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/tenofovir_alafenamide/"
-    },
-    {
       "slug": "terbinafine",
       "name": "Terbinafine",
       "evidence_level": "L5",
@@ -6104,16 +5764,6 @@
       "url": "/drugs/terbinafine/"
     },
     {
-      "slug": "terbutaline",
-      "name": "Terbutaline",
-      "evidence_level": "L5",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/terbutaline/"
-    },
-    {
       "slug": "teriparatide",
       "name": "Teriparatide",
       "evidence_level": "L5",
@@ -6122,16 +5772,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/teriparatide/"
-    },
-    {
-      "slug": "tetrabenazine",
-      "name": "Tetrabenazine",
-      "evidence_level": "L5",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/tetrabenazine/"
     },
     {
       "slug": "tetryzoline",
@@ -6214,26 +5854,6 @@
       "url": "/drugs/timolol/"
     },
     {
-      "slug": "tinidazole",
-      "name": "Tinidazole",
-      "evidence_level": "L5",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "適應症",
-      "txgnn_score": "",
-      "url": "/drugs/tinidazole/"
-    },
-    {
-      "slug": "tioconazole",
-      "name": "Tioconazole",
-      "evidence_level": "L5",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "適應症",
-      "txgnn_score": "",
-      "url": "/drugs/tioconazole/"
-    },
-    {
       "slug": "titanium_dioxide",
       "name": "Titanium Dioxide",
       "evidence_level": "L5",
@@ -6272,16 +5892,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/tofacitinib/"
-    },
-    {
-      "slug": "tolmetin",
-      "name": "Tolmetin",
-      "evidence_level": "L5",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "預測適應症",
-      "txgnn_score": "",
-      "url": "/drugs/tolmetin/"
     },
     {
       "slug": "topiramate",
@@ -6384,16 +5994,6 @@
       "url": "/drugs/trihexyphenidyl/"
     },
     {
-      "slug": "tyrosine",
-      "name": "Tyrosine",
-      "evidence_level": "L5",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/tyrosine/"
-    },
-    {
       "slug": "urea",
       "name": "Urea",
       "evidence_level": "L5",
@@ -6432,16 +6032,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/verapamil/"
-    },
-    {
-      "slug": "verteporfin",
-      "name": "Verteporfin",
-      "evidence_level": "L5",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/verteporfin/"
     },
     {
       "slug": "vigabatrin",
