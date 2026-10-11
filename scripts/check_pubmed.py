@@ -7,6 +7,7 @@ Creates GitHub Issues when new papers are found.
 import json
 import os
 import time
+import unicodedata
 from datetime import datetime
 from pathlib import Path
 
@@ -46,6 +47,12 @@ def load_drug_list() -> list:
     with open(DRUG_LIST_FILE, "r", encoding="utf-8") as f:
         data = json.load(f)
     return data["drugs"]
+
+
+def is_pubmed_searchable(name: str) -> bool:
+    """PubMed 會把非拉丁文字（日文產品名等）整段丟掉，查詢只剩日期條件、回傳當週全部文獻。"""
+    stripped = "".join(c for c in unicodedata.normalize("NFKD", name) if not unicodedata.combining(c))
+    return stripped.isascii()
 
 
 def search_pubmed(drug_name: str, indication: str = "", days_back: int = 7) -> list:
@@ -206,6 +213,9 @@ def main():
     for i, drug in enumerate(drugs):
         drug_name = drug["name"]
         indication = drug.get("predicted_indication", "")
+
+        if not is_pubmed_searchable(drug_name):
+            continue
 
         print(f"\n[{i+1}/{len(drugs)}] Checking: {drug_name}")
 
