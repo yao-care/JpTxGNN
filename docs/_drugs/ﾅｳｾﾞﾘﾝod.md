@@ -2,7 +2,7 @@
 layout: default
 title: ﾅｳｾﾞﾘﾝOd
 parent: モデル予測のみ
-nav_order: 484
+nav_order: 517
 evidence_level: L5
 indication_count: 0
 ---

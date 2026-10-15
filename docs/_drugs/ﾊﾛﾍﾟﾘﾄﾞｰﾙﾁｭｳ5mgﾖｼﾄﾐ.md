@@ -2,7 +2,7 @@
 layout: default
 title: ﾊﾛﾍﾟﾘﾄﾞｰﾙﾁｭｳ5Mgﾖｼﾄﾐ
 parent: モデル予測のみ
-nav_order: 508
+nav_order: 541
 evidence_level: L5
 indication_count: 0
 ---

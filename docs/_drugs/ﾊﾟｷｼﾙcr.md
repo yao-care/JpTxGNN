@@ -2,7 +2,7 @@
 layout: default
 title: ﾊﾟｷｼﾙCr
 parent: モデル予測のみ
-nav_order: 519
+nav_order: 552
 evidence_level: L5
 indication_count: 0
 ---

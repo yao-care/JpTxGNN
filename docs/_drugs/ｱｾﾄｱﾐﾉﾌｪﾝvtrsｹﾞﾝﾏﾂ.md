@@ -2,7 +2,7 @@
 layout: default
 title: ｱｾﾄｱﾐﾉﾌｪﾝVtrsｹﾞﾝﾏﾂ
 parent: モデル予測のみ
-nav_order: 468
+nav_order: 501
 evidence_level: L5
 indication_count: 0
 ---
