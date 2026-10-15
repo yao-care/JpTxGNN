@@ -35,6 +35,22 @@ CRITICAL = [p for p, f in [("/", "index.md"), ("/drugs/", "drugs.md"), ("/method
 
 errors = []
 
+# 主機 clone 只有進版控的檔案：本機有、但被 .gitignore 排除的檔案上線會 404（2026-10-15 Th 的 docs/downloads/ 就是這樣漏掉）。
+# 有 git 時以 git ls-files 為準，沒有 git 時退回檢查磁碟。
+try:
+    import subprocess
+    _ls = subprocess.run(["git", "ls-files", "-z", "--", "."], cwd=DOCS, capture_output=True, check=True).stdout
+    TRACKED = {x.decode("utf-8") for x in _ls.split(b"\0") if x}
+except Exception:
+    TRACKED = None
+
+
+def file_exists(rel):
+    rel = rel.lstrip("/")
+    if TRACKED is None:
+        return (DOCS / rel).exists()
+    return rel in TRACKED or any(t.startswith(rel.rstrip("/") + "/") for t in TRACKED)
+
 
 def front_block(text):
     if not text.startswith("---"):
@@ -159,7 +175,7 @@ for name in ("llms.txt", "llms-full.txt"):
         path = url[len(SITE):] or "/"
         path = path.split("#")[0].split("?")[0]
         if path.endswith((".txt", ".xml", ".json")):
-            if not (DOCS / path.lstrip("/")).exists() and path != "/sitemap.xml":
+            if not file_exists(path) and path != "/sitemap.xml":
                 errors.append(f"{name} 指向不存在的檔案：{url}")
             continue
         if norm(path) not in permalinks:
@@ -195,7 +211,7 @@ for md in sorted(DOCS.glob("*.md")):
             continue
         if norm(path) in permalinks or path in redirects or path.rstrip("/") in redirects:
             continue
-        if (DOCS / path.lstrip("/")).exists():
+        if file_exists(path):
             continue
         errors.append(f"{md.name} 的站內連結指不到東西：{link}")
 
