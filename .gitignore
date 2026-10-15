@@ -94,3 +94,6 @@ model_ckpt/
 
 # 空的 SQLite 殘留檔，非專案產物
 mydatabase.db
+
+# SEO-ops 主機收集資料，不發布到 GitHub Pages
+/seo-data/
