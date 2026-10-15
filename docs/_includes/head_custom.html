@@ -1,5 +1,5 @@
 <!-- Security: Content Security Policy -->
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://d3js.org https://cdn.jsdelivr.net https://giscus.app; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; connect-src 'self' https://rxnav.nlm.nih.gov https://giscus.app; frame-src https://giscus.app; font-src 'self'; object-src 'none'; base-uri 'self';">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://d3js.org https://cdn.jsdelivr.net https://giscus.app https://www.googletagmanager.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: https:; connect-src 'self' https://rxnav.nlm.nih.gov https://giscus.app https://www.google-analytics.com https://region1.google-analytics.com https://analytics.google.com; frame-src https://giscus.app; font-src 'self'; object-src 'none'; base-uri 'self';">
 
 <!-- Custom styles (extracted from inline) -->
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
@@ -19,6 +19,29 @@
 
 <!-- D3.js for interactive charts -->
 <script src="https://d3js.org/d3.v7.min.js" integrity="sha384-CjloA8y00+1SDAUkjs099PVfnY2KmDC2BZnws9kh8D/lX1s46w6EPhpXdqMfjK6i" crossorigin="anonymous"></script>
+
+<!-- GA4：與 yao.care、ODS、TwTxGNN 共用 Property；事件不送出搜尋文字、表單內容或其他個資 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-W7ZNBYKJHJ"></script>
+<script>
+window.TXGNN_ANALYTICS = {
+  measurementId: "G-W7ZNBYKJHJ",
+  contentGroup: "JpTxGNN",
+  language: "ja",
+  citationHosts: ["pmda.go.jp"],
+  linkerDomains: [
+    "yao.care",
+    "www.yao.care",
+    "jptxgnn.yao.care",
+    "www.ods.yao.care",
+    "app.ods.yao.care"
+  ],
+  pageType: "{% if page.url == '/' %}home{% elsif page.evidence_level %}drug_report{% elsif page.url contains '/news/' %}news{% elsif page.url contains '/smart/' %}smart{% else %}reference{% endif %}",
+  pageTitle: {{ page.title | default: site.title | jsonify }},
+  pagePath: {{ page.url | default: '/' | jsonify }},
+  pageEvidenceLevel: {{ page.evidence_level | default: '' | jsonify }}
+};
+</script>
+<script src="{{ '/assets/js/analytics.js' | relative_url }}" defer></script>
 
 <!-- Google Search Console 認証 -->
 <!-- YOUR_VERIFICATION_CODE を Google 提供のコードに置き換えてください -->
