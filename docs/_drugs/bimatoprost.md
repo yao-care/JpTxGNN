@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 45
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Bimatoprost：予測新適応症は歯・歯周組織の異常を伴う奇形症候群 (malformation syndrome with odontal and/or periodon…（エビデンスレベル L5）。既存適応症：緑内障（抗緑内障薬、睫毛発毛薬）"
 monitor_inn: "bimatoprost"
 predicted_indications: ["malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "Ambras type hypertrichosis universalis congenita", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "genetic alopecia", "pulmonary arteriovenous malformation (disease)"]
+last_modified_at: 2026-10-17
+description: "Bimatoprost：予測新適応症は歯・歯周組織の異常を伴う奇形症候群 (malformation syndrome with odontal and/or periodon…（エビデンスレベル L5）。既存適応症：緑内障（抗緑内障薬、睫毛発毛薬）"
 ---
 
 # Bimatoprost
@@ -131,4 +131,12 @@ TxGNN モデルは、最上位の予測として**歯・歯周組織の異常を
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+グラッシュビスタ、ビマトプロスト、ルミガン、ビマトプロスト点眼液0.03%「SEC」、ビマトプロスト点眼液0.03%「TS」、ビマトプロスト点眼液0.03%「わかもと」、ビマトプロスト点眼液0.03%「ニットー」、ビマトプロスト点眼液0.03%「日新」、ビマトプロスト点眼液0.03%「日点」、ルミガン点眼液0.03%、ルミガン点眼液0.03%(選)
+<!-- brand-names:end -->
 

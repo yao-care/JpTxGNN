@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 162
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Indomethacin：予測新適応症は短指症候群 (Brachydactyly-Syndactyly Syndrome)（エビデンスレベル L5）。既存適応症：関節リウマチ、痛風発作（鎮痛薬・抗炎症薬・解熱薬）"
 monitor_inn: "Indomethacin"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "WHIM syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "brachyolmia", "myosclerosis", "juvenile idiopathic arthritis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "rheumatoid nodulosis"]
+last_modified_at: 2026-10-17
+description: "Indomethacin：予測新適応症は短指症候群 (Brachydactyly-Syndactyly Syndrome)（エビデンスレベル L5）。既存適応症：関節リウマチ、痛風発作（鎮痛薬・抗炎症薬・解熱薬）"
 ---
 
 # Indomethacin
@@ -125,4 +125,12 @@ TxGNN モデルは、先天性の肢形成異常である**短指症候群 (Brac
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+アコニップ、イドメシン、インサイド、インテナース、インテバン、インドメタシン、カトレップ、ハップスター、ラクティオン、インダシン静注用1mg、インドメタシンカプセル 25mg、インドメタシンパップ70mg「BMD」 10cm×14cm、インドメタシンパップ70mg「YD」 10cm×14cm、インドメタシンパップ70mg「ハラサワ」 10cm×14cm、インドメタシンパップ70mg「三友」 10cm×14cm、インドメタシンパップ70mg「日医工」 10cm×14cm、インドメタシン坐剤 12.5mg、インドメタシン坐剤 25mg、インドメタシン坐剤 50mg、インドメタシン坐剤12.5mg「JG」、インドメタシン坐剤25mg「JG」、インドメタシン坐剤25「NP」 25mg、インドメタシン坐剤50mg「JG」、インドメタシン坐剤50「NP」 50mg
+<!-- brand-names:end -->
 

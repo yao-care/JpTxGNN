@@ -5,10 +5,10 @@ parent: 高エビデンスレベル
 nav_order: 118
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Escitalopram：予測新適応症は気分変調症 (Dysthymic Disorder)（エビデンスレベル L2）。既存適応症：抗うつ薬、選択的セロトニン再取り込み阻害薬"
 monitor_inn: "Escitalopram"
 predicted_indications: ["Ohdo syndrome and variants", "dysthymic disorder", "obsessive-compulsive disorder", "blepharophimosis - intellectual disability syndrome, Ohdo type", "benign paroxysmal torticollis of infancy", "histrionic personality disorder (disease)", "schizotypal personality disorder", "paranoid personality disorder", "schizoid personality disorder", "agoraphobia"]
+last_modified_at: 2026-10-17
+description: "Escitalopram：予測新適応症は気分変調症 (Dysthymic Disorder)（エビデンスレベル L2）。既存適応症：抗うつ薬、選択的セロトニン再取り込み阻害薬"
 ---
 
 # Escitalopram
@@ -138,4 +138,12 @@ TxGNN モデルの予測順位 1 位は希少疾患（Ohdo 症候群）でした
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+エスシタロプラムOD錠10mg「DSEP」、エスシタロプラムOD錠10mg「サワイ」、エスシタロプラムOD錠10mg「トーワ」、エスシタロプラムOD錠20mg「DSEP」、エスシタロプラムOD錠20mg「サワイ」、エスシタロプラムOD錠20mg「トーワ」、エスシタロプラム錠10mg「JG」、エスシタロプラム錠10mg「TCK」、エスシタロプラム錠10mg「VTRS」、エスシタロプラム錠10mg「サワイ」、エスシタロプラム錠10mg「タカタ」、エスシタロプラム錠10mg「トーワ」、エスシタロプラム錠10mg「ニプロ」、エスシタロプラム錠10mg「日医工」、エスシタロプラム錠10mg「明治」、エスシタロプラム錠20mg「JG」、エスシタロプラム錠20mg「TCK」、エスシタロプラム錠20mg「VTRS」、エスシタロプラム錠20mg「サワイ」、エスシタロプラム錠20mg「タカタ」、エスシタロプラム錠20mg「トーワ」、エスシタロプラム錠20mg「ニプロ」、エスシタロプラム錠20mg「日医工」、エスシタロプラム錠20mg「明治」、レクサプロ錠10mg、レクサプロ錠10mg(選)、レクサプロ錠20mg、レクサプロ錠20mg(選)
+<!-- brand-names:end -->
 

@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 145
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Gefitinib：予測新適応症は歯肉線維腫症 (fibromatosis, gingival)（エビデンスレベル L5）。既存適応症：非小細胞肺癌（EGFR 遺伝子変異陽性）"
 monitor_inn: "Gefitinib"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung", "lung hilum carcinoma", "lung benign neoplasm", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome", "lung germ cell tumor", "pulmonary sulcus neoplasm", "junctional epidermolysis bullosa"]
+last_modified_at: 2026-10-17
+description: "Gefitinib：予測新適応症は歯肉線維腫症 (fibromatosis, gingival)（エビデンスレベル L5）。既存適応症：非小細胞肺癌（EGFR 遺伝子変異陽性）"
 ---
 
 # Gefitinib
@@ -134,4 +134,12 @@ TxGNN モデルは**歯肉線維腫症 (fibromatosis, gingival)** に有効で�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+イレッサ、ゲフィチニブ、イレッサ錠250 250mg、イレッサ錠250 250mg(選)、ゲフィチニブ錠250mg、ゲフィチニブ錠250mg「DSEP」、ゲフィチニブ錠250mg「JG」、ゲフィチニブ錠250mg「NK」、ゲフィチニブ錠250mg「サワイ」、ゲフィチニブ錠250mg「サンド」、ゲフィチニブ錠250mg「ヤクルト」、ゲフィチニブ錠250mg「日医工」
+<!-- brand-names:end -->
 

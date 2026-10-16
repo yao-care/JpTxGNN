@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 103
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
-description: "Droxidopa：予測新適応症は変異プロテアーゼ感受性プリオノパチー (Variably protease-sensitive prionopathy)（エビデンスレベル L5）。既存適応症：パーキンソン病治療薬、ノルアドレナリン補充薬（パーキンソン病、シャイ・ドレーガー症候群、家族性アミロイドポリニューロパチー）"
 monitor_inn: "Droxidopa"
 predicted_indications: ["variably protease-sensitive prionopathy"]
+last_modified_at: 2026-10-17
+description: "Droxidopa：予測新適応症は変異プロテアーゼ感受性プリオノパチー (Variably protease-sensitive prionopathy)（エビデンスレベル L5）。既存適応症：パーキンソン病治療薬、ノルアドレナリン補充薬（パーキンソン病、シャイ・ドレーガー症候群、家族性アミロイドポリニューロパチー）"
 ---
 
 # Droxidopa
@@ -100,4 +100,12 @@ TxGNN のスコアは高いものの、この予測を支持する臨床試験�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ドプス、ドロキシドパ、ドプスOD錠100mg、ドプスOD錠200mg、ドプス細粒20%、ドロキシドパ100mgカプセル、ドロキシドパ200mgカプセル、ドロキシドパカプセル100mg「アメル」、ドロキシドパカプセル200mg「アメル」
+<!-- brand-names:end -->
 

@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 116
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Erlotinib：予測新適応症はユーイング肉腫 (Ewing sarcoma)（エビデンスレベル L4）。既存適応症：非小細胞肺癌（EGFR 遺伝子変異陽性）、膵癌"
 monitor_inn: "Erlotinib"
 predicted_indications: ["Ewing sarcoma", "fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "lung hilum carcinoma", "lung germ cell tumor", "pulmonary sulcus neoplasm", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "junctional epidermolysis bullosa"]
+last_modified_at: 2026-10-17
+description: "Erlotinib：予測新適応症はユーイング肉腫 (Ewing sarcoma)（エビデンスレベル L4）。既存適応症：非小細胞肺癌（EGFR 遺伝子変異陽性）、膵癌"
 ---
 
 # Erlotinib
@@ -125,4 +125,12 @@ TxGNN モデルは**ユーイング肉腫 (Ewing sarcoma)** に有効である�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+エルロチニブ、タルセバ、エルロチニブ錠100mg「NK」、エルロチニブ錠150mg「NK」、エルロチニブ錠25mg「NK」、タルセバ錠100mg、タルセバ錠150mg、タルセバ錠25mg
+<!-- brand-names:end -->
 

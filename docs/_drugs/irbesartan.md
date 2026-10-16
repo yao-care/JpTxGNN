@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 165
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-15
-description: "Irbesartan：予測新適応症は悪性腎血管性高血圧 (malignant renovascular hypertension)（エビデンスレベル L5）。既存適応症：高血圧症"
 monitor_inn: "irbesartan"
 predicted_indications: ["malignant renovascular hypertension", "malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia"]
+last_modified_at: 2026-10-17
+description: "Irbesartan：予測新適応症は悪性腎血管性高血圧 (malignant renovascular hypertension)（エビデンスレベル L5）。既存適応症：高血圧症"
 ---
 
 # Irbesartan
@@ -117,4 +117,12 @@ ARB は AT1 受容体を遮断し、アンジオテンシンII による血管�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+アバプロ、イルベサルタン、イルベタン、アバプロ錠100mg、アバプロ錠100mg(選)、アバプロ錠200mg、アバプロ錠200mg(選)、アバプロ錠50mg、アバプロ錠50mg(選)、イルベサルタン100mg錠、イルベサルタン200mg錠、イルベサルタン50mg錠、イルベサルタンOD錠100mg「トーワ」、イルベサルタンOD錠200mg「トーワ」、イルベサルタンOD錠50mg「トーワ」、イルベサルタン錠100mg「DSPB」、イルベサルタン錠100mg「JG」、イルベサルタン錠100mg「KMP」、イルベサルタン錠100mg「オーハラ」、イルベサルタン錠100mg「ケミファ」、イルベサルタン錠100mg「サワイ」、イルベサルタン錠100mg「トーワ」、イルベサルタン錠100mg「ニプロ」、イルベサルタン錠100mg「日医工」、イルベサルタン錠200mg「DSPB」、イルベサルタン錠200mg「JG」、イルベサルタン錠200mg「KMP」、イルベサルタン錠200mg「オーハラ」、イルベサルタン錠200mg「ケミファ」、イルベサルタン錠200mg「サワイ」、イルベサルタン錠200mg「トーワ」、イルベサルタン錠200mg「ニプロ」、イルベサルタン錠200mg「日医工」、イルベサルタン錠50mg「DSPB」、イルベサルタン錠50mg「JG」、イルベサルタン錠50mg「KMP」、イルベサルタン錠50mg「オーハラ」、イルベサルタン錠50mg「ケミファ」、イルベサルタン錠50mg「サワイ」、イルベサルタン錠50mg「トーワ」
+<!-- brand-names:end -->
 

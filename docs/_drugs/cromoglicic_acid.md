@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 81
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Cromoglicic Acid：予測新適応症は潰瘍性直腸S状結腸炎 (Ulcerative Proctosigmoiditis)（エビデンスレベル L5）。既存適応症：気管支喘息、アレルギー性鼻炎、アレルギー性結膜炎、肥満細胞症など（日本の承認適応症テキストはデータなし）"
 monitor_inn: "Cromoglicic acid"
 predicted_indications: ["ulcerative proctosigmoiditis", "nocardiosis", "rosacea conjunctivitis", "cap polyposis", "cutaneous photosensitivity-lethal colitis syndrome", "undetermined colitis", "pneumocystosis", "osteoarthritis", "allergic urticaria", "neonatal inflammatory skin and bowel disease"]
+last_modified_at: 2026-10-17
+description: "Cromoglicic Acid：予測新適応症は潰瘍性直腸S状結腸炎 (Ulcerative Proctosigmoiditis)（エビデンスレベル L5）。既存適応症：気管支喘息、アレルギー性鼻炎、アレルギー性結膜炎、肥満細胞症など（日本の承認適応症テキストはデータなし）"
 ---
 
 # Cromoglicic Acid
@@ -109,4 +109,12 @@ TxGNN モデルは**潰瘍性直腸S状結腸炎 (Ulcerative Proctosigmoiditis)*
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+クロモグリク酸Na・PF点眼液2%「日点」 100mg5mL、クロモグリク酸Na吸入液1%「サワイ」 2mL、クロモグリク酸Na点眼液2%「TS」 100mg5mL、クロモグリク酸Na点眼液2%「VTRS」 100mg5mL、クロモグリク酸Na点眼液2%「わかもと」 100mg5mL、クロモグリク酸Na点眼液2%「センジュ」 100mg5mL、クロモグリク酸Na点眼液2%「タカタ」 100mg5mL、クロモグリク酸Na点眼液2%「トーワ」 100mg5mL、クロモグリク酸Na点眼液2%「ニッテン」 100mg5mL、クロモグリク酸Na点眼液2%「ニットー」 100mg5mL、クロモグリク酸Na点眼液2%「日新」 100mg5mL、クロモグリク酸Na点眼液2%「杏林」 100mg5mL、クロモグリク酸Na点眼液2%「科研」 100mg5mL
+<!-- brand-names:end -->
 

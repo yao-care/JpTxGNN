@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 246
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Pioglitazone：予測新適応症はオプシスモ異形成症 (Opsismodysplasia)（エビデンスレベル L5）。既存適応症：2型糖尿病（PPARγ 作動薬）"
 monitor_inn: "Pioglitazone"
 predicted_indications: ["opsismodysplasia", "focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis", "autoimmune oophoritis"]
+last_modified_at: 2026-10-17
+description: "Pioglitazone：予測新適応症はオプシスモ異形成症 (Opsismodysplasia)（エビデンスレベル L5）。既存適応症：2型糖尿病（PPARγ 作動薬）"
 ---
 
 # Pioglitazone
@@ -134,4 +134,12 @@ TxGNN モデルは **オプシスモ異形成症 (Opsismodysplasia)** に有効�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+アクトス、ピオグリタゾン、アクトスOD錠15 15mg、アクトスOD錠15 15mg(選)、アクトスOD錠30 30mg、アクトスOD錠30 30mg(選)、アクトス錠15 15mg、アクトス錠15 15mg(選)、アクトス錠30 30mg、アクトス錠30 30mg(選)、ピオグリタゾンOD錠15mg「DSEP」、ピオグリタゾンOD錠15mg「FFP」、ピオグリタゾンOD錠15mg「NPI」、ピオグリタゾンOD錠15mg「NS」、ピオグリタゾンOD錠15mg「ケミファ」、ピオグリタゾンOD錠15mg「トーワ」、ピオグリタゾンOD錠15mg「日医工」、ピオグリタゾンOD錠15mg「杏林」、ピオグリタゾンOD錠30mg「DSEP」、ピオグリタゾンOD錠30mg「FFP」、ピオグリタゾンOD錠30mg「NPI」、ピオグリタゾンOD錠30mg「NS」、ピオグリタゾンOD錠30mg「ケミファ」、ピオグリタゾンOD錠30mg「トーワ」、ピオグリタゾンOD錠30mg「日医工」、ピオグリタゾンOD錠30mg「杏林」、ピオグリタゾン塩酸塩15mg口腔内崩壊錠、ピオグリタゾン塩酸塩15mg錠、ピオグリタゾン塩酸塩30mg口腔内崩壊錠、ピオグリタゾン塩酸塩30mg錠、ピオグリタゾン錠15mg「DSEP」、ピオグリタゾン錠15mg「FFP」、ピオグリタゾン錠15mg「JG」、ピオグリタゾン錠15mg「NS」、ピオグリタゾン錠15mg「TCK」、ピオグリタゾン錠15mg「TSU」、ピオグリタゾン錠15mg「ZE」、ピオグリタゾン錠15mg「ケミファ」、ピオグリタゾン錠15mg「サワイ」、ピオグリタゾン錠15mg「トーワ」
+<!-- brand-names:end -->
 

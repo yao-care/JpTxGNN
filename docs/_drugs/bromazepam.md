@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 51
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
-description: "Bromazepam：予測新適応症は片頭痛 (Migraine Disorder)（エビデンスレベル L5）。既存適応症：神経症における不安、うつ病（抗不安薬・マイナートランキライザー・催眠鎮静薬）"
 monitor_inn: "bromazepam"
 predicted_indications: ["migraine disorder"]
+last_modified_at: 2026-10-17
+description: "Bromazepam：予測新適応症は片頭痛 (Migraine Disorder)（エビデンスレベル L5）。既存適応症：神経症における不安、うつ病（抗不安薬・マイナートランキライザー・催眠鎮静薬）"
 ---
 
 # Bromazepam
@@ -103,4 +103,12 @@ TxGNN モデルは**片頭痛 (Migraine Disorder)** に有効である可能性�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ブロマゼパム、レキソタン、ブロマゼパム5mg錠、ブロマゼパム坐剤3mg「サンド」、ブロマゼパム細粒1%「サンド」、ブロマゼパム錠1mg「サンド」、ブロマゼパム錠2mg「サンド」、ブロマゼパム錠3mg「サンド」、ブロマゼパム錠5mg「サンド」、レキソタン錠2 2mg、レキソタン錠2 2mg(選)、レキソタン錠5 5mg、レキソタン錠5 5mg(選)
+<!-- brand-names:end -->
 

@@ -5,10 +5,10 @@ parent: 高エビデンスレベル
 nav_order: 127
 evidence_level: L1
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Ezetimibe：予測新適応症は高リポタンパク血症 (hyperlipoproteinemia)（エビデンスレベル L1）。既存適応症：脂質異常症治療薬、コレステロール吸収阻害薬（高コレステロール血症、家族性高コレステロール血症、ホモ接合体性シトステロール血症）"
 monitor_inn: "Ezetimibe"
 predicted_indications: ["hyperlipoproteinemia", "familial hypercholesterolemia", "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency", "cholesterol-ester transfer protein deficiency", "HIV infectious disease", "hypercholesterolemia, autosomal dominant", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "hyperlipidemia due to hepatic triglyceride lipase deficiency", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection"]
+last_modified_at: 2026-10-17
+description: "Ezetimibe：予測新適応症は高リポタンパク血症 (hyperlipoproteinemia)（エビデンスレベル L1）。既存適応症：脂質異常症治療薬、コレステロール吸収阻害薬（高コレステロール血症、家族性高コレステロール血症、ホモ接合体性シトステロール血症）"
 ---
 
 # Ezetimibe
@@ -144,4 +144,12 @@ HIV 感染症は、ウイルスそのものへの効果ではなく、HIV 関連
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+エゼチミブ、ゼチーア、エゼチミブ10mg錠、エゼチミブOD錠10mg「トーワ」、エゼチミブ錠10mg「DSEP」、エゼチミブ錠10mg「JG」、エゼチミブ錠10mg「KMP」、エゼチミブ錠10mg「TCK」、エゼチミブ錠10mg「TE」、エゼチミブ錠10mg「YD」、エゼチミブ錠10mg「アメル」、エゼチミブ錠10mg「ケミファ」、エゼチミブ錠10mg「サワイ」、エゼチミブ錠10mg「サンド」、エゼチミブ錠10mg「トーワ」、エゼチミブ錠10mg「ニプロ」、エゼチミブ錠10mg「フェルゼン」、エゼチミブ錠10mg「日医工」、エゼチミブ錠10mg「日新」、エゼチミブ錠10mg「明治」、エゼチミブ錠10mg「杏林」、エゼチミブ錠10mg「武田テバ」、ゼチーア錠10mg、ゼチーア錠10mg(選)
+<!-- brand-names:end -->
 

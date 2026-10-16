@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 186
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Levothyroxine：予測新適応症は風土病性甲状腺腫 (Endemic Goiter)（エビデンスレベル L3）。既存適応症：甲状腺ホルモン補充薬（甲状腺機能低下症）"
 monitor_inn: "Levothyroxine"
 predicted_indications: ["endemic goiter", "renal hypodysplasia/aplasia", "nodular goiter (disease)", "bilateral renal agenesis", "lingual goiter", "substernal goiter", "dyshormonogenic goiter", "nontoxic goiter", "Potter sequence", "Carney complex"]
+last_modified_at: 2026-10-17
+description: "Levothyroxine：予測新適応症は風土病性甲状腺腫 (Endemic Goiter)（エビデンスレベル L3）。既存適応症：甲状腺ホルモン補充薬（甲状腺機能低下症）"
 ---
 
 # Levothyroxine
@@ -134,4 +134,12 @@ TxGNN モデルは**風土病性甲状腺腫 (Endemic Goiter)** に有効であ�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+チラーヂン、レボチロキシンNa、チラーヂンS散0.01%、チラーヂンS錠100μg、チラーヂンS錠12.5μg、チラーヂンS錠25μg、チラーヂンS錠50μg、チラーヂンS錠75μg、チラーヂンS静注液200μg 1mL、レボチロキシンNa錠25μg「サンド」、レボチロキシンNa錠50μg「サンド」、レボチロキシンナトリウム25μg錠、レボチロキシンナトリウム50μg錠、レボチロキシンナトリウム錠 100μg、レボチロキシンナトリウム錠 12.5μg、レボチロキシンナトリウム錠 75μg
+<!-- brand-names:end -->
 

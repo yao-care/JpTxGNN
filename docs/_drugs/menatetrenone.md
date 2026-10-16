@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 201
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Menatetrenone：予測新適応症は結膜脂肪腫 (lipoma of the conjunctiva)（エビデンスレベル L5）。既存適応症：骨粗鬆症"
 monitor_inn: "Menatetrenone"
 predicted_indications: ["lipoma of the conjunctiva", "bronchial adenomas/carcinoids childhood", "chondroid hamartoma", "ductal or ductular proliferation", "non-seminomatous lesion", "tumor of testis and paratestis", "benign neoplasm of tongue", "thyroglossal duct cyst", "mesenchymoma", "cystic neoplasm"]
+last_modified_at: 2026-10-17
+description: "Menatetrenone：予測新適応症は結膜脂肪腫 (lipoma of the conjunctiva)（エビデンスレベル L5）。既存適応症：骨粗鬆症"
 ---
 
 # Menatetrenone
@@ -96,4 +96,12 @@ TxGNN モデルは**結膜脂肪腫 (lipoma of the conjunctiva)** に有効で�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+グラケー、ケイツー、メナテトレノン、グラケーカプセル15mg、グラケーカプセル15mg(選)、メナテトレノン15mgカプセル、メナテトレノンカプセル15mg「CH」、メナテトレノンカプセル15mg「YD」、メナテトレノンカプセル15mg「トーワ」、メナテトレノンカプセル15mg「科研」
+<!-- brand-names:end -->
 

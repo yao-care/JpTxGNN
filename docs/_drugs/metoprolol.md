@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 208
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Metoprolol：予測新適応症は悪性高血圧性腎疾患 (malignant hypertensive renal disease)（エビデンスレベル L5）。既存適応症：本態性高血圧症、狭心症"
 monitor_inn: "Metoprolol"
 predicted_indications: ["malignant hypertensive renal disease", "malignant renovascular hypertension", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "posterolateral myocardial infarction", "posteroinferior myocardial infarction", "septal myocardial infarction", "chronic pulmonary heart disease", "trichotillomania"]
+last_modified_at: 2026-10-17
+description: "Metoprolol：予測新適応症は悪性高血圧性腎疾患 (malignant hypertensive renal disease)（エビデンスレベル L5）。既存適応症：本態性高血圧症、狭心症"
 ---
 
 # Metoprolol
@@ -116,4 +116,12 @@ TxGNN モデルは**悪性高血圧性腎疾患 (malignant hypertensive renal di
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+セロケン、メトプロロール酒石酸塩、ロプレソール、セロケン錠20mg、セロケン錠20mg(選)、メトプロロール酒石酸塩20mg錠、メトプロロール酒石酸塩40mg錠、メトプロロール酒石酸塩錠20mg「NIG」、メトプロロール酒石酸塩錠20mg「サワイ」、メトプロロール酒石酸塩錠20mg「トーワ」、メトプロロール酒石酸塩錠40mg「NIG」、メトプロロール酒石酸塩錠40mg「サワイ」、メトプロロール酒石酸塩錠40mg「トーワ」、ロプレソール錠20mg、ロプレソール錠20mg(選)、ロプレソール錠40mg、ロプレソール錠40mg(選)
+<!-- brand-names:end -->
 

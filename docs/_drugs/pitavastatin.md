@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 248
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Pitavastatin：予測新適応症はホモ接合体家族性高コレステロール血症 (homozygous familial hypercholesterolemia)（エビデンスレベル L5）。既存適応症：脂質異常症治療薬、HMG-CoA 還元酵素阻害薬"
 monitor_inn: "Pitavastatin"
 predicted_indications: ["homozygous familial hypercholesterolemia", "hyperlipoproteinemia", "familial hypercholesterolemia", "cholesterol-ester transfer protein deficiency", "hypercholesterolemia, autosomal dominant", "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "hyperlipidemia due to hepatic triglyceride lipase deficiency", "simian immunodeficiency virus infection"]
+last_modified_at: 2026-10-17
+description: "Pitavastatin：予測新適応症はホモ接合体家族性高コレステロール血症 (homozygous familial hypercholesterolemia)（エビデンスレベル L5）。既存適応症：脂質異常症治療薬、HMG-CoA 還元酵素阻害薬"
 ---
 
 # Pitavastatin
@@ -136,4 +136,12 @@ HIV 感染症は、抗ウイルス作用ではなく**心血管イベントの�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ピタバスタチンCa・OD錠1mg「JG」、ピタバスタチンCa・OD錠1mg「VTRS」、ピタバスタチンCa・OD錠1mg「サワイ」、ピタバスタチンCa・OD錠1mg「トーワ」、ピタバスタチンCa・OD錠1mg「杏林」、ピタバスタチンCa・OD錠2mg「JG」、ピタバスタチンCa・OD錠2mg「VTRS」、ピタバスタチンCa・OD錠2mg「サワイ」、ピタバスタチンCa・OD錠2mg「トーワ」、ピタバスタチンCa・OD錠2mg「杏林」、ピタバスタチンCa・OD錠4mg「JG」、ピタバスタチンCa・OD錠4mg「VTRS」、ピタバスタチンCa・OD錠4mg「サワイ」、ピタバスタチンCa・OD錠4mg「トーワ」、ピタバスタチンCa・OD錠4mg「杏林」、ピタバスタチンCa錠1mg「DK」、ピタバスタチンCa錠1mg「FFP」、ピタバスタチンCa錠1mg「JG」、ピタバスタチンCa錠1mg「NP」、ピタバスタチンCa錠1mg「TCK」、ピタバスタチンCa錠1mg「VTRS」、ピタバスタチンCa錠1mg「YD」、ピタバスタチンCa錠1mg「アメル」、ピタバスタチンCa錠1mg「ケミファ」、ピタバスタチンCa錠1mg「サワイ」、ピタバスタチンCa錠1mg「タカタ」、ピタバスタチンCa錠1mg「ツルハラ」、ピタバスタチンCa錠1mg「トーワ」、ピタバスタチンCa錠1mg「三和」、ピタバスタチンCa錠1mg「日新」、ピタバスタチンCa錠1mg「杏林」、ピタバスタチンCa錠1mg「科研」、ピタバスタチンCa錠2mg「DK」、ピタバスタチンCa錠2mg「FFP」、ピタバスタチンCa錠2mg「JG」、ピタバスタチンCa錠2mg「NP」、ピタバスタチンCa錠2mg「TCK」、ピタバスタチンCa錠2mg「VTRS」、ピタバスタチンCa錠2mg「YD」、ピタバスタチンCa錠2mg「アメル」
+<!-- brand-names:end -->
 

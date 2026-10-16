@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 15
 evidence_level: L4
 indication_count: 6
-last_modified_at: 2026-10-15
-description: "Adalimumab：予測新適応症は関節リウマチ性血管炎 (Rheumatoid Vasculitis)（エビデンスレベル L4）。既存適応症：クローン病、潰瘍性大腸炎、関節リウマチ、乾癬性関節炎、強直性脊椎炎、若年性特発性関節炎、化膿性汗腺炎、非感染性ぶどう膜炎など"
 monitor_inn: "Adalimumab"
 predicted_indications: ["rheumatoid vasculitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "polyarticular juvenile rheumatoid arthritis", "vertebral disease"]
+last_modified_at: 2026-10-17
+description: "Adalimumab：予測新適応症は関節リウマチ性血管炎 (Rheumatoid Vasculitis)（エビデンスレベル L4）。既存適応症：クローン病、潰瘍性大腸炎、関節リウマチ、乾癬性関節炎、強直性脊椎炎、若年性特発性関節炎、化膿性汗腺炎、非感染性ぶどう膜炎など"
 ---
 
 # Adalimumab
@@ -130,4 +130,12 @@ TxGNN モデルは**関節リウマチ性血管炎 (Rheumatoid Vasculitis)** に
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+アダリムマブBS皮下注20mgシリンジ0.2mL「CTNK」、アダリムマブBS皮下注20mgシリンジ0.2mL「MA」、アダリムマブBS皮下注20mgシリンジ0.4mL「FKB」、アダリムマブBS皮下注20mgシリンジ0.4mL「第一三共」、アダリムマブBS皮下注40mgシリンジ0.4mL「CTNK」、アダリムマブBS皮下注40mgシリンジ0.4mL「MA」、アダリムマブBS皮下注40mgシリンジ0.8mL「FKB」、アダリムマブBS皮下注40mgシリンジ0.8mL「第一三共」、アダリムマブBS皮下注40mgペン0.4mL「CTNK」、アダリムマブBS皮下注40mgペン0.4mL「MA」、アダリムマブBS皮下注40mgペン0.8mL「FKB」、アダリムマブBS皮下注40mgペン0.8mL「第一三共」、アダリムマブBS皮下注80mgシリンジ0.8mL「CTNK」、アダリムマブBS皮下注80mgシリンジ0.8mL「MA」、アダリムマブBS皮下注80mgペン0.8mL「CTNK」、アダリムマブbsヒカチュウ20mgシ、アダリムマブbsヒカチュウ40mgシ、アダリムマブbsヒカチュウ40mgヘ、アダリムマブbsヒカチュウ80mgシ、アダリムマブbsヒカチュウ80mgヘ、ヒュミラヒカチュウ20mgシリンジ0、ヒュミラヒカチュウ40mgシリンジ0、ヒュミラヒカチュウ40mgペン0 4m、ヒュミラヒカチュウ80mgシリンジ0、ヒュミラヒカチュウ80mgペン0 8m、ヒュミラ皮下注20mgシリンジ0.2mL、ヒュミラ皮下注40mgシリンジ0.4mL、ヒュミラ皮下注40mgペン0.4mL、ヒュミラ皮下注80mgシリンジ0.8mL、ヒュミラ皮下注80mgペン0.8mL
+<!-- brand-names:end -->
 

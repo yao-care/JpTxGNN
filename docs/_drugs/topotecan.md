@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 317
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Topotecan：予測新適応症は女性乳癌 (Female Breast Carcinoma)（エビデンスレベル L3）。既存適応症：卵巣癌"
 monitor_inn: "Topotecan"
 predicted_indications: ["female breast carcinoma", "adult germ cell tumor", "testicular yolk sac tumor, solid pattern", "testicular yolk sac tumor, hepatoid pattern", "testicular yolk sac tumor, endodermal sinus pattern", "reticular pattern testicular yolk sac tumor", "enteric pattern testicular yolk sac tumor", "polyvesicular vitelline pattern testicular yolk sac tumor", "testicular yolk sac tumor, papillary pattern", "testicular yolk sac tumor, macrocystic pattern"]
+last_modified_at: 2026-10-17
+description: "Topotecan：予測新適応症は女性乳癌 (Female Breast Carcinoma)（エビデンスレベル L3）。既存適応症：卵巣癌"
 ---
 
 # Topotecan
@@ -130,4 +130,12 @@ TxGNN モデルは**女性乳癌 (Female Breast Carcinoma)** に有効である�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+トポテシン点滴静注100mg 5mL、トポテシン点滴静注40mg 2mL
+<!-- brand-names:end -->
 

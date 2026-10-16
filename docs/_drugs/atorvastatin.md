@@ -5,10 +5,10 @@ parent: 高エビデンスレベル
 nav_order: 33
 evidence_level: L1
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Atorvastatin：予測新適応症は家族性高コレステロール血症 (Familial Hypercholesterolemia)（エビデンスレベル L1）。既存適応症：脂質異常症治療薬、HMG-CoA 還元酵素阻害薬"
 monitor_inn: "Atorvastatin"
 predicted_indications: ["familial hypercholesterolemia", "HIV infectious disease", "brain stem infarction", "cholesterol-ester transfer protein deficiency", "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "hypoalphalipoproteinemia", "hypercholesterolemia, autosomal dominant", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection"]
+last_modified_at: 2026-10-17
+description: "Atorvastatin：予測新適応症は家族性高コレステロール血症 (Familial Hypercholesterolemia)（エビデンスレベル L1）。既存適応症：脂質異常症治療薬、HMG-CoA 還元酵素阻害薬"
 ---
 
 # Atorvastatin
@@ -136,4 +136,12 @@ TxGNN モデルは**家族性高コレステロール血症 (Familial Hyperchole
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+アトルバスタチンOD錠10mg「トーワ」、アトルバスタチンOD錠5mg「トーワ」、アトルバスタチンカルシウム10mg錠、アトルバスタチンカルシウム5mg口腔内崩壊錠、アトルバスタチンカルシウム5mg錠、アトルバスタチン錠10mg「DSEP」、アトルバスタチン錠10mg「JG」、アトルバスタチン錠10mg「Me」、アトルバスタチン錠10mg「NP」、アトルバスタチン錠10mg「NS」、アトルバスタチン錠10mg「TCK」、アトルバスタチン錠10mg「TSU」、アトルバスタチン錠10mg「VTRS」、アトルバスタチン錠10mg「YD」、アトルバスタチン錠10mg「ZE」、アトルバスタチン錠10mg「ケミファ」、アトルバスタチン錠10mg「サワイ」、アトルバスタチン錠10mg「サンド」、アトルバスタチン錠10mg「トーワ」、アトルバスタチン錠10mg「日医工」、アトルバスタチン錠10mg「杏林」、アトルバスタチン錠5mg「DSEP」、アトルバスタチン錠5mg「JG」、アトルバスタチン錠5mg「Me」、アトルバスタチン錠5mg「NP」、アトルバスタチン錠5mg「NS」、アトルバスタチン錠5mg「TCK」、アトルバスタチン錠5mg「TSU」、アトルバスタチン錠5mg「VTRS」、アトルバスタチン錠5mg「YD」、アトルバスタチン錠5mg「ZE」、アトルバスタチン錠5mg「ケミファ」、アトルバスタチン錠5mg「サワイ」、アトルバスタチン錠5mg「サンド」、アトルバスタチン錠5mg「トーワ」、アトルバスタチン錠5mg「日医工」、アトルバスタチン錠5mg「杏林」、アトーゼット配合錠HD、アトーゼット配合錠HD(選)、アトーゼット配合錠LD
+<!-- brand-names:end -->
 

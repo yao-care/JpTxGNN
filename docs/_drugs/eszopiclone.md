@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 121
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Eszopiclone：予測新適応症は入眠・睡眠維持障害 (sleep disorder, initiating and maintaining sleep)（エビデンスレベル L5）。既存適応症：催眠鎮静薬（不眠症）"
 monitor_inn: "Eszopiclone"
 predicted_indications: ["sleep disorder, initiating and maintaining sleep", "acute encephalopathy with biphasic seizures and late reduced diffusion", "restless legs syndrome", "benign paroxysmal torticollis of infancy", "agoraphobia", "hyperparathyroidism, primary, caused by water clear cell hyperplasia", "mitral valve prolapse, myxomatous", "fibrosis of extraocular muscles, congenital, with synergistic divergence", "triphalangeal thumb, Nonopposable", "sella turcica, bridged"]
+last_modified_at: 2026-10-17
+description: "Eszopiclone：予測新適応症は入眠・睡眠維持障害 (sleep disorder, initiating and maintaining sleep)（エビデンスレベル L5）。既存適応症：催眠鎮静薬（不眠症）"
 ---
 
 # Eszopiclone
@@ -124,4 +124,12 @@ TxGNN モデルは**入眠・睡眠維持障害 (sleep disorder, initiating and 
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+エスゾピクロン、ルネスタ、エスゾピクロン1mg錠、エスゾピクロン2mg錠、エスゾピクロン3mg錠、エスゾピクロン錠1mg「DSEP」、エスゾピクロン錠1mg「KMP」、エスゾピクロン錠1mg「NPI」、エスゾピクロン錠1mg「TCK」、エスゾピクロン錠1mg「YD」、エスゾピクロン錠1mg「アメル」、エスゾピクロン錠1mg「ケミファ」、エスゾピクロン錠1mg「サワイ」、エスゾピクロン錠1mg「トーワ」、エスゾピクロン錠1mg「ニプロ」、エスゾピクロン錠1mg「日医工」、エスゾピクロン錠1mg「日新」、エスゾピクロン錠1mg「明治」、エスゾピクロン錠1mg「杏林」、エスゾピクロン錠2mg「DSEP」、エスゾピクロン錠2mg「KMP」、エスゾピクロン錠2mg「NPI」、エスゾピクロン錠2mg「TCK」、エスゾピクロン錠2mg「YD」、エスゾピクロン錠2mg「アメル」、エスゾピクロン錠2mg「ケミファ」、エスゾピクロン錠2mg「サワイ」、エスゾピクロン錠2mg「トーワ」、エスゾピクロン錠2mg「ニプロ」、エスゾピクロン錠2mg「日医工」、エスゾピクロン錠2mg「日新」、エスゾピクロン錠2mg「明治」、エスゾピクロン錠2mg「杏林」、エスゾピクロン錠3mg「DSEP」、エスゾピクロン錠3mg「KMP」、エスゾピクロン錠3mg「NPI」、エスゾピクロン錠3mg「TCK」、エスゾピクロン錠3mg「YD」、エスゾピクロン錠3mg「アメル」、エスゾピクロン錠3mg「ケミファ」
+<!-- brand-names:end -->
 

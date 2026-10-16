@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 221
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Nifedipine：予測新適応症は脳幹性前兆を伴う片頭痛 (Migraine with brainstem aura)（エビデンスレベル L5）。既存適応症：本態性高血圧症、狭心症"
 monitor_inn: "Nifedipine"
 predicted_indications: ["migraine with brainstem aura", "migraine disorder", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant renovascular hypertension", "malignant hypertensive renal disease", "Braddock syndrome", "tendinitis", "common cold", "myositis fibrosa"]
+last_modified_at: 2026-10-17
+description: "Nifedipine：予測新適応症は脳幹性前兆を伴う片頭痛 (Migraine with brainstem aura)（エビデンスレベル L5）。既存適応症：本態性高血圧症、狭心症"
 ---
 
 # Nifedipine
@@ -151,4 +151,12 @@ L 型カルシウムチャネル遮断は、脳血管の緊張や神経の興奮
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+アダラート、セパミット、ニフェジピン、アダラートCR錠10mg、アダラートCR錠20mg、アダラートCR錠20mg(選)、アダラートCR錠40mg、アダラートCR錠40mg(選)、セパミット−Rカプセル10 10mg、セパミット−Rカプセル20 20mg、セパミット細粒1%、ニフェジピン10mg徐放CR錠、ニフェジピン10mg徐放L錠、ニフェジピン20mg徐放CR錠、ニフェジピン20mg徐放L錠、ニフェジピン40mg徐放CR錠、ニフェジピン5mgカプセル、ニフェジピンCR錠10mg「NP」、ニフェジピンCR錠10mg「ZE」、ニフェジピンCR錠10mg「サワイ」、ニフェジピンCR錠10mg「トーワ」、ニフェジピンCR錠10mg「三和」、ニフェジピンCR錠10mg「日医工」、ニフェジピンCR錠20mg「NP」、ニフェジピンCR錠20mg「ZE」、ニフェジピンCR錠20mg「サワイ」、ニフェジピンCR錠20mg「トーワ」、ニフェジピンCR錠20mg「三和」、ニフェジピンCR錠20mg「日医工」、ニフェジピンCR錠40mg「NP」、ニフェジピンCR錠40mg「ZE」、ニフェジピンCR錠40mg「サワイ」、ニフェジピンCR錠40mg「トーワ」、ニフェジピンCR錠40mg「三和」、ニフェジピンCR錠40mg「日医工」、ニフェジピンL錠10mg「ZE」、ニフェジピンL錠10mg「サワイ」、ニフェジピンL錠10mg「ツルハラ」、ニフェジピンL錠10mg「トーワ」、ニフェジピンL錠10mg「日医工」
+<!-- brand-names:end -->
 

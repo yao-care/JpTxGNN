@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 142
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Furosemide：予測新適応症は悪性高血圧性腎疾患 (Malignant Hypertensive Renal Disease)（エビデンスレベル L5）。既存適応症：本態性高血圧症、高血圧症（利尿薬、Na-K-Cl共輸送体阻害薬）"
 monitor_inn: "Furosemide"
 predicted_indications: ["malignant hypertensive renal disease", "malignant renovascular hypertension", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease", "acute pulmonary heart disease", "primary hereditary glaucoma", "chronic renal failure syndrome", "chronic kidney disease"]
+last_modified_at: 2026-10-17
+description: "Furosemide：予測新適応症は悪性高血圧性腎疾患 (Malignant Hypertensive Renal Disease)（エビデンスレベル L5）。既存適応症：本態性高血圧症、高血圧症（利尿薬、Na-K-Cl共輸送体阻害薬）"
 ---
 
 # Furosemide
@@ -111,4 +111,12 @@ TxGNN モデルは**悪性高血圧性腎疾患 (Malignant Hypertensive Renal Di
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+フロセミド、ラシックス、フロセミド10mg錠、フロセミド20mg注射液、フロセミド20mg錠、フロセミド40mg錠、フロセミド注20mg「NIG」、フロセミド注20mg「トーワ」、フロセミド細粒4%「EMEC」、フロセミド錠10mg「NIG」、フロセミド錠10mg「NP」、フロセミド錠10mg「SN」、フロセミド錠20mg「JG」、フロセミド錠20mg「NIG」、フロセミド錠20mg「NP」、フロセミド錠20mg「SN」、フロセミド錠40mg「JG」、フロセミド錠40mg「NIG」、フロセミド錠40mg「NP」、フロセミド錠40mg「SN」、フロセミド錠40mg「トーワ」、ラシックス注100mg、ラシックス注20mg、ラシックス注20mg(選)、ラシックス錠10mg、ラシックス錠10mg(選)、ラシックス錠20mg、ラシックス錠20mg(選)、ラシックス錠40mg、ラシックス錠40mg(選)
+<!-- brand-names:end -->
 

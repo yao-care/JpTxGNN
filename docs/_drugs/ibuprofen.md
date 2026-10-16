@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 158
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Ibuprofen：予測新適応症は先端中間異形成 Hunter-Thompson 型 (acromesomelic dysplasia…（エビデンスレベル L5）。既存適応症：鎮痛薬、抗炎症薬、解熱薬、シクロオキシゲナーゼ阻害薬（関節リウマチ）"
 monitor_inn: "Ibuprofen"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "hypotrichosis simplex of the scalp", "WHIM syndrome", "congenital hypotrichosis milia"]
+last_modified_at: 2026-10-17
+description: "Ibuprofen：予測新適応症は先端中間異形成 Hunter-Thompson 型 (acromesomelic dysplasia…（エビデンスレベル L5）。既存適応症：鎮痛薬、抗炎症薬、解熱薬、シクロオキシゲナーゼ阻害薬（関節リウマチ）"
 ---
 
 # Ibuprofen
@@ -105,4 +105,12 @@ TxGNN モデルは**先端中間異形成 Hunter-Thompson 型 (acromesomelic dys
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+イブプロフェン、ブルフェン、イブプロフェン20%顆粒、イブプロフェン錠100mg「NIG」、イブプロフェン錠100mg「TCK」、イブプロフェン錠200mg「NIG」、イブプロフェン錠200mg「TCK」、イブプロフェン顆粒20%「ツルハラ」、ブルフェン錠100 100mg、ブルフェン錠200 200mg、ブルフェン顆粒20%、ブルフェン顆粒20%(選)
+<!-- brand-names:end -->
 

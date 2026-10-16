@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 239
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Perampanel：予測新適応症は視覚てんかん (Visual Epilepsy)（エビデンスレベル L5）。既存適応症：部分てんかん、部分運動性てんかん"
 monitor_inn: "Perampanel"
 predicted_indications: ["visual epilepsy", "startle epilepsy", "thinking seizures", "orgasm-induced seizures", "micturation-induced seizures", "audiogenic seizures", "eating seizures", "reading seizures", "beta-ketothiolase deficiency", "status epilepticus"]
+last_modified_at: 2026-10-17
+description: "Perampanel：予測新適応症は視覚てんかん (Visual Epilepsy)（エビデンスレベル L5）。既存適応症：部分てんかん、部分運動性てんかん"
 ---
 
 # Perampanel
@@ -126,4 +126,12 @@ TxGNN モデルは**視覚てんかん (Visual Epilepsy)** に有効である可
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+フィコンパ、フィコンパサイリュウ1、フィコンパテンテキ、フィコンパ点滴静注用2mg、フィコンパ細粒1%、フィコンパ錠2mg、フィコンパ錠4mg
+<!-- brand-names:end -->
 

@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 139
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Flutamide：予測新適応症は前立腺癌・脳腫瘍の感受性 (prostate cancer/brain cancer susceptibility)（エビデンスレベル L5）。既存適応症：前立腺癌（抗悪性腫瘍薬、アンドロゲン受容体拮抗薬）"
 monitor_inn: "Flutamide"
 predicted_indications: ["prostate cancer/brain cancer susceptibility", "fibroma of prostate", "Brenner tumor", "benign reproductive system neoplasm", "prostate leiomyoma", "male reproductive organ cancer", "benign prostate phyllodes tumor", "HIV infectious disease", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection"]
+last_modified_at: 2026-10-17
+description: "Flutamide：予測新適応症は前立腺癌・脳腫瘍の感受性 (prostate cancer/brain cancer susceptibility)（エビデンスレベル L5）。既存適応症：前立腺癌（抗悪性腫瘍薬、アンドロゲン受容体拮抗薬）"
 ---
 
 # Flutamide
@@ -114,4 +114,12 @@ TxGNN モデルは**前立腺癌・脳腫瘍の感受性 (prostate cancer/brain 
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+オダイン、フルタミド、オダイン錠125mg、オダイン錠125mg(選)、フルタミド125mg錠、フルタミド錠125mg「VTRS」
+<!-- brand-names:end -->
 

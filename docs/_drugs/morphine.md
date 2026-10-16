@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 215
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Morphine：予測新適応症はむずむず脚症候群 (Restless Legs Syndrome)（エビデンスレベル L5）。既存適応症：麻薬性鎮痛薬、オピオイド受容体作動薬"
 monitor_inn: "Morphine"
 predicted_indications: ["myofascial pain syndrome", "manic bipolar affective disorder", "Tourette syndrome", "restless legs syndrome", "attention deficit hyperactivity disorder, inattentive type", "migraine disorder", "trichotillomania", "methemoglobinemia", "migraine with brainstem aura", "specific developmental disorder"]
+last_modified_at: 2026-10-17
+description: "Morphine：予測新適応症はむずむず脚症候群 (Restless Legs Syndrome)（エビデンスレベル L5）。既存適応症：麻薬性鎮痛薬、オピオイド受容体作動薬"
 ---
 
 # Morphine
@@ -135,4 +135,12 @@ TxGNN モデルは、予測上位の候補として**筋筋膜性疼痛症候群
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+アンペック、オプソ、パシーフ、モルヒネ塩酸塩、モルヒネ塩酸塩水和物、エチルモルヒネ塩酸塩水和物、モルヒネ塩酸塩水和物「タケダ」原末、モルヒネ塩酸塩水和物「第一三共」原末、モルヒネ塩酸塩注100mgシリンジ「テルモ」 1%10mL、モルヒネ塩酸塩注射液 1%1mL、モルヒネ塩酸塩注射液 1%5mL、モルヒネ塩酸塩注射液 4%5mL、モルヒネ塩酸塩注射液10mg「シオノギ」 1%1mL、モルヒネ塩酸塩注射液10mg「タケダ」 1%1mL、モルヒネ塩酸塩注射液10mg「第一三共」 1%1mL、モルヒネ塩酸塩注射液200mg「シオノギ」 4%5mL、モルヒネ塩酸塩注射液200mg「タケダ」 4%5mL、モルヒネ塩酸塩注射液200mg「テルモ」 4%5mL、モルヒネ塩酸塩注射液200mg「第一三共」 4%5mL、モルヒネ塩酸塩注射液50mg「シオノギ」 1%5mL、モルヒネ塩酸塩注射液50mg「タケダ」 1%5mL、モルヒネ塩酸塩注射液50mg「第一三共」 1%5mL、モルヒネ塩酸塩錠 10mg、モルヒネ塩酸塩錠10mg「DSP」、モルヒネ硫酸塩水和物徐放細粒分包10mg「フジモト」、モルヒネ硫酸塩水和物徐放細粒分包30mg「フジモト」、モルペス細粒2%、モルペス細粒6%
+<!-- brand-names:end -->
 

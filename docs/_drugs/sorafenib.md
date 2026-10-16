@@ -5,10 +5,10 @@ parent: 高エビデンスレベル
 nav_order: 284
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Sorafenib：予測新適応症は脂肪肉腫 (Liposarcoma)（エビデンスレベル L2）。既存適応症：肝細胞癌、腎細胞癌、甲状腺癌（日本の承認適応症の記載データはありません）"
 monitor_inn: "Sorafenib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "renal cell carcinoma associated with neuroblastoma", "unclassified renal cell carcinoma", "childhood kidney cell carcinoma", "female breast carcinoma", "renal pelvis carcinoma", "vulva sarcoma", "dermatofibrosarcoma protuberans"]
+last_modified_at: 2026-10-17
+description: "Sorafenib：予測新適応症は脂肪肉腫 (Liposarcoma)（エビデンスレベル L2）。既存適応症：肝細胞癌、腎細胞癌、甲状腺癌（日本の承認適応症の記載データはありません）"
 ---
 
 # Sorafenib
@@ -124,4 +124,12 @@ TxGNN モデルは**脂肪肉腫 (Liposarcoma)** に有効である可能性を�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ネクサバール、ネクサバール錠200mg
+<!-- brand-names:end -->
 

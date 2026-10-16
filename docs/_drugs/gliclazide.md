@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 148
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Gliclazide：予測新適応症はfocal stiff limb syndrome（限局性硬直肢症候群）（エビデンスレベル L5）。既存適応症：インスリン非依存型糖尿病（糖尿病治療薬、血糖降下薬、スルホニル尿素受容体作動薬）"
 monitor_inn: "Gliclazide"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "autoimmune oophoritis"]
+last_modified_at: 2026-10-17
+description: "Gliclazide：予測新適応症はfocal stiff limb syndrome（限局性硬直肢症候群）（エビデンスレベル L5）。既存適応症：インスリン非依存型糖尿病（糖尿病治療薬、血糖降下薬、スルホニル尿素受容体作動薬）"
 ---
 
 # Gliclazide
@@ -97,4 +97,12 @@ focal stiff limb syndrome に対しては、GABA 作動系の障害や自己免�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+グリクラジド、グリミクロン、グリクラジド20mg錠、グリクラジド40mg錠、グリクラジド錠20mg「NP」、グリクラジド錠20mg「サワイ」、グリクラジド錠20mg「トーワ」、グリクラジド錠40mg「NP」、グリクラジド錠40mg「サワイ」、グリクラジド錠40mg「トーワ」、グリミクロンHA錠20mg、グリミクロンHA錠20mg(選)、グリミクロン錠40mg、グリミクロン錠40mg(選)
+<!-- brand-names:end -->
 

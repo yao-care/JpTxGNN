@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 334
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Verapamil：予測新適応症は閉塞性脚ブロック (obsolete bundle branch block)（エビデンスレベル L5）。既存適応症：抗不整脈薬、血管拡張薬、カルシウムチャネル遮断薬（心房細動、狭心症、心筋梗塞）"
 monitor_inn: "Verapamil"
 predicted_indications: ["obsolete bundle branch block", "malignant hypertensive renal disease", "malignant renovascular hypertension", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "periodic paralysis with transient compartment-like syndrome", "obsolete susceptibility to ischemic stroke", "arrhythmogenic right ventricular cardiomyopathy", "brain stem infarction"]
+last_modified_at: 2026-10-17
+description: "Verapamil：予測新適応症は閉塞性脚ブロック (obsolete bundle branch block)（エビデンスレベル L5）。既存適応症：抗不整脈薬、血管拡張薬、カルシウムチャネル遮断薬（心房細動、狭心症、心筋梗塞）"
 ---
 
 # Verapamil
@@ -151,4 +151,12 @@ TxGNN モデルは **閉塞性脚ブロック (obsolete bundle branch block)** �
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ベラパミル塩酸塩、ワソラン、ベラパミル塩酸塩0.25%2mL注射液、ベラパミル塩酸塩40mg錠、ベラパミル塩酸塩錠40mg「JG」、ベラパミル塩酸塩錠40mg「タイヨー」、ベラパミル塩酸塩錠40mg「ツルハラ」、ベラパミル塩酸塩静注5mg「NIG」 0.25%2mL、ワソラン錠40mg、ワソラン錠40mg(選)、ワソラン静注5mg 0.25%2mL、ワソラン静注5mg 0.25%2mL(選)
+<!-- brand-names:end -->
 

@@ -5,10 +5,10 @@ parent: 高エビデンスレベル
 nav_order: 293
 evidence_level: L1
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Tacrolimus：予測新適応症は脂漏性皮膚炎 (Seborrheic Dermatitis)（エビデンスレベル L1）。既存適応症：臓器移植における拒絶反応、移植片対宿主病、重症筋無力症、関節リウマチ、ループス腎炎、活動期潰瘍性大腸炎、多発性筋炎・皮膚筋炎…"
 monitor_inn: "Tacrolimus"
 predicted_indications: ["seborrheic dermatitis", "parapsoriasis", "dermatitis", "acute lichenoid pityriasis", "acrodermatitis chronica atrophicans", "rheumatoid arthritis", "acne keloid", "psoriasis", "neonatal dermatomyositis", "exanthem (disease)"]
+last_modified_at: 2026-10-17
+description: "Tacrolimus：予測新適応症は脂漏性皮膚炎 (Seborrheic Dermatitis)（エビデンスレベル L1）。既存適応症：臓器移植における拒絶反応、移植片対宿主病、重症筋無力症、関節リウマチ、ループス腎炎、活動期潰瘍性大腸炎、多発性筋炎・皮膚筋炎…"
 ---
 
 # Tacrolimus
@@ -141,4 +141,12 @@ TxGNN モデルは**脂漏性皮膚炎 (Seborrheic Dermatitis)** に有効であ
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+グラセプター、タクロリムス、タリムス、プログラフ、プロトピック、タクロリムス5mg錠、タクロリムスカプセル0.5mg「JG」、タクロリムスカプセル0.5mg「VTRS」、タクロリムスカプセル0.5mg「サンド」、タクロリムスカプセル0.5mg「ニプロ」、タクロリムスカプセル1mg「JG」、タクロリムスカプセル1mg「VTRS」、タクロリムスカプセル1mg「サンド」、タクロリムスカプセル1mg「ニプロ」、タクロリムスカプセル5mg「JG」、タクロリムスカプセル5mg「VTRS」、タクロリムスカプセル5mg「サンド」、タクロリムスカプセル5mg「ニプロ」、タクロリムス軟膏0.1%「PP」、タクロリムス軟膏0.1%「イワキ」、タクロリムス軟膏0.1%「タカタ」、タクロリムス錠0.5mg「あゆみ」、タクロリムス錠0.5mg「トーワ」、タクロリムス錠0.5mg「日医工」、タクロリムス錠1.5mg「あゆみ」、タクロリムス錠1.5mg「トーワ」、タクロリムス錠1mg「あゆみ」、タクロリムス錠1mg「トーワ」、タクロリムス錠1mg「日医工」、タクロリムス錠2mg「あゆみ」、タクロリムス錠2mg「トーワ」、タクロリムス錠3mg「あゆみ」、タクロリムス錠3mg「トーワ」、タクロリムス錠5mg「あゆみ」、タクロリムス錠5mg「トーワ」、タクロリムス錠5mg「日医工」、プログラフカプセル0.5mg、プログラフカプセル0.5mg(選)、プログラフカプセル1mg、プログラフカプセル1mg(選)
+<!-- brand-names:end -->
 

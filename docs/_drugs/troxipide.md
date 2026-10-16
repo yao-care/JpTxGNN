@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 327
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Troxipide：予測新適応症は食道炎 (Esophagitis)（エビデンスレベル L5）。既存適応症：消化性潰瘍薬（胃潰瘍）"
 monitor_inn: "troxipide"
 predicted_indications: ["esophagitis (disease)", "active peptic ulcer disease", "hiatus hernia (disease)", "peptic ulcer perforation", "gastrojejunal ulcer", "achlorhydria", "gastric dilatation", "Dieulafoy lesion", "pylorospasm", "cascade stomach"]
+last_modified_at: 2026-10-17
+description: "Troxipide：予測新適応症は食道炎 (Esophagitis)（エビデンスレベル L5）。既存適応症：消化性潰瘍薬（胃潰瘍）"
 ---
 
 # Troxipide
@@ -115,4 +115,12 @@ TxGNN は食道炎のほかにも、次の疾患を上位候補として予測�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+トロキシピド、トロキシピド錠100mg「オーハラ」
+<!-- brand-names:end -->
 

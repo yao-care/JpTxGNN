@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 46
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Biperiden：予測新適応症はRasmussen 亜急性脳炎 (Rasmussen subacute encephalitis)（エビデンスレベル L5）。既存適応症：パーキンソン病治療薬（特発性パーキンソニズム、その他のパーキンソニズム）"
 monitor_inn: "Biperiden"
 predicted_indications: ["Rasmussen subacute encephalitis", "myelitis", "PLA2G6-associated neurodegeneration", "transaldolase deficiency", "fructose-1,6-bisphosphatase deficiency", "progressive supranuclear palsy-corticobasal syndrome", "paralysis agitans, juvenile, of Hunt", "Lewy body dementia", "attention deficit-hyperactivity disorder", "X-linked intellectual disability-ataxia-apraxia syndrome"]
+last_modified_at: 2026-10-17
+description: "Biperiden：予測新適応症はRasmussen 亜急性脳炎 (Rasmussen subacute encephalitis)（エビデンスレベル L5）。既存適応症：パーキンソン病治療薬（特発性パーキンソニズム、その他のパーキンソニズム）"
 ---
 
 # Biperiden
@@ -129,4 +129,12 @@ Lewy 小体型認知症ではコリン系の機能低下があるため、中枢
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+アキネトン、ビペリデン塩酸塩、アキネトン注射液5mg 0.5%1mL、アキネトン細粒1%、アキネトン錠1mg、ビペリデン塩酸塩1mg錠、ビペリデン塩酸塩散1%「ヨシトミ」、ビペリデン塩酸塩細粒1%「アメル」、ビペリデン塩酸塩錠1mg「アメル」、ビペリデン塩酸塩錠1mg「ヨシトミ」、ビペリデン塩酸塩錠2mg「サワイ」
+<!-- brand-names:end -->
 

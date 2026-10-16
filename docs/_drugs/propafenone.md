@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 257
 evidence_level: L4
 indication_count: 8
-last_modified_at: 2026-10-15
-description: "Propafenone：予測新適応症はカテコラミン誘発多形性心室頻拍 (CPVT)。※TxGNN 最上位は躁病性双極性障害（スコア 99.80%）ですが…（エビデンスレベル L4）。既存適応症：抗不整脈薬、ナトリウムチャネル遮断薬"
 monitor_inn: "Propafenone"
 predicted_indications: ["manic bipolar affective disorder", "catecholaminergic polymorphic ventricular tachycardia", "periodic paralysis with transient compartment-like syndrome", "Prinzmetal angina", "incessant infant ventricular tachycardia", "arrhythmogenic right ventricular cardiomyopathy", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania"]
+last_modified_at: 2026-10-17
+description: "Propafenone：予測新適応症はカテコラミン誘発多形性心室頻拍 (CPVT)。※TxGNN 最上位は躁病性双極性障害（スコア 99.80%）ですが…（エビデンスレベル L4）。既存適応症：抗不整脈薬、ナトリウムチャネル遮断薬"
 ---
 
 # Propafenone
@@ -145,4 +145,12 @@ PMDA の添付文書にある警告・禁忌は、今回のデータには含ま
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+プロノン、プロパフェノン塩酸塩、プロノン錠100mg、プロノン錠100mg(選)、プロノン錠150mg、プロノン錠150mg(選)、プロパフェノン塩酸塩150mg錠、プロパフェノン塩酸塩錠100mg「オーハラ」、プロパフェノン塩酸塩錠150mg「オーハラ」
+<!-- brand-names:end -->
 

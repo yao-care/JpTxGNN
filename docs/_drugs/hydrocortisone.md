@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 157
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Hydrocortisone：予測新適応症は円形脱毛症 (Alopecia Areata)（エビデンスレベル L3）。既存適応症：副腎皮質機能不全、アジソン病、クローン病、自己免疫疾患など"
 monitor_inn: "Hydrocortisone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo", "idiopathic steroid-sensitive nephrotic syndrome"]
+last_modified_at: 2026-10-17
+description: "Hydrocortisone：予測新適応症は円形脱毛症 (Alopecia Areata)（エビデンスレベル L3）。既存適応症：副腎皮質機能不全、アジソン病、クローン病、自己免疫疾患など"
 ---
 
 # Hydrocortisone
@@ -121,4 +121,12 @@ TxGNN モデルは**円形脱毛症 (Alopecia Areata)** に有効である可能
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+コートリル錠10mg、テラ・コートリル軟膏、テラ・コートリル軟膏(1/3顎)、テラ・コートリル軟膏(1歯)、テラ・コートリル軟膏(1顎)、テラ・コートリル軟膏(2/3顎)、ヒドロコルチゾンリン、ヒドロコルチゾンリン酸エステルNa静注100mgAFP 2mL、ヒドロコルチゾンリン酸エステルNa静注500mgAFP 10mL、プロクトセディル軟膏、ヘモポリゾン軟膏、ヘモレックス軟膏、ロコイドクリーム0 1、ロコイドクリーム0.1%、ロコイドナンコウ0 1、ロコイド軟膏0.1%、大腸菌死菌 ヒドロコルチゾン配合軟膏、強力ポステリザン(軟膏)
+<!-- brand-names:end -->
 

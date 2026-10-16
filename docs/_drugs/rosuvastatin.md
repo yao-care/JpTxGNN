@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 272
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Rosuvastatin：予測新適応症はコレステロールエステル転送蛋白欠損症 (cholesterol-ester transfer protein deficiency)（エビデンスレベル L5）。既存適応症：高コレステロール血症、家族性高コレステロール血症（脂質異常症治療薬、HMG-CoA 還元酵素阻害薬）"
 monitor_inn: "Rosuvastatin"
 predicted_indications: ["cholesterol-ester transfer protein deficiency", "familial hypercholesterolemia", "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency", "brain stem infarction", "HIV infectious disease", "hypoalphalipoproteinemia", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "hyperlipidemia due to hepatic triglyceride lipase deficiency", "ABri amyloidosis", "hyperlipidemia"]
+last_modified_at: 2026-10-17
+description: "Rosuvastatin：予測新適応症はコレステロールエステル転送蛋白欠損症 (cholesterol-ester transfer protein deficiency)（エビデンスレベル L5）。既存適応症：高コレステロール血症、家族性高コレステロール血症（脂質異常症治療薬、HMG-CoA 還元酵素阻害薬）"
 ---
 
 # Rosuvastatin
@@ -108,4 +108,12 @@ TxGNN モデルは**コレステロールエステル転送蛋白欠損症 (chol
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+クレストール、ロスバスタチン、エゼロス配合錠HD「JG」、エゼロス配合錠HD「サワイ」、エゼロス配合錠LD「JG」、エゼロス配合錠LD「サワイ」、クレストールOD錠2.5mg、クレストールOD錠2.5mg(選)、クレストールOD錠5mg、クレストールOD錠5mg(選)、クレストール錠2.5mg、クレストール錠2.5mg(選)、クレストール錠5mg、クレストール錠5mg(選)、ロスバスタチンOD錠10mg「トーワ」、ロスバスタチンOD錠2.5mg「DSEP」、ロスバスタチンOD錠2.5mg「JG」、ロスバスタチンOD錠2.5mg「KMP」、ロスバスタチンOD錠2.5mg「TCK」、ロスバスタチンOD錠2.5mg「YD」、ロスバスタチンOD錠2.5mg「オーハラ」、ロスバスタチンOD錠2.5mg「ケミファ」、ロスバスタチンOD錠2.5mg「サワイ」、ロスバスタチンOD錠2.5mg「トーワ」、ロスバスタチンOD錠2.5mg「ニプロ」、ロスバスタチンOD錠2.5mg「フェルゼン」、ロスバスタチンOD錠2.5mg「三和」、ロスバスタチンOD錠2.5mg「日医工」、ロスバスタチンOD錠2.5mg「明治」、ロスバスタチンOD錠2.5mg「科研」、ロスバスタチンOD錠5mg「DSEP」、ロスバスタチンOD錠5mg「JG」、ロスバスタチンOD錠5mg「KMP」、ロスバスタチンOD錠5mg「TCK」、ロスバスタチンOD錠5mg「YD」、ロスバスタチンOD錠5mg「オーハラ」、ロスバスタチンOD錠5mg「ケミファ」、ロスバスタチンOD錠5mg「サワイ」、ロスバスタチンOD錠5mg「トーワ」、ロスバスタチンOD錠5mg「ニプロ」
+<!-- brand-names:end -->
 

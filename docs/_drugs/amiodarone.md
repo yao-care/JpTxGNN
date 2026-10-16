@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 23
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Amiodarone：予測新適応症はカテコラミン誘発多形性心室頻拍 (Catecholaminergic Polymorphic Ventricular Tachycardi…（エビデンスレベル L5）。既存適応症：抗不整脈薬（カリウムチャネル遮断薬）：肥大型心筋症、心房細動"
 monitor_inn: "Amiodarone"
 predicted_indications: ["catecholaminergic polymorphic ventricular tachycardia", "incessant infant ventricular tachycardia", "ventricular tachycardia", "obsolete bundle branch block", "rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "heparin cofactor 2 deficiency", "trichotillomania", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "gout"]
+last_modified_at: 2026-10-17
+description: "Amiodarone：予測新適応症はカテコラミン誘発多形性心室頻拍 (Catecholaminergic Polymorphic Ventricular Tachycardi…（エビデンスレベル L5）。既存適応症：抗不整脈薬（カリウムチャネル遮断薬）：肥大型心筋症、心房細動"
 ---
 
 # Amiodarone
@@ -148,4 +148,12 @@ CPVT 領域で直接の根拠となるのは、主に上記のコホート研究
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+アミオダロン、アミオダロン塩酸塩、アンカロン、アミオダロン塩酸塩100mg錠、アミオダロン塩酸塩速崩錠100mg「TE」、アミオダロン塩酸塩速崩錠50mg「TE」、アミオダロン塩酸塩錠100mg「サワイ」、アミオダロン塩酸塩錠100mg「サンド」、アミオダロン塩酸塩錠100mg「トーワ」、アミオダロン塩酸塩静注150mg「TE」 3mL、アンカロン注150 150mg3mL、アンカロン注150 150mg3mL(選)、アンカロン錠100 100mg、アンカロン錠100 100mg(選)
+<!-- brand-names:end -->
 

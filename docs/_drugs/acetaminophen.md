@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 13
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Acetaminophen：予測新適応症は脳幹性前兆を伴う片頭痛 (Migraine with Brainstem Aura)（エビデンスレベル L5）。既存適応症：鎮痛薬、解熱薬"
 monitor_inn: "Acetaminophen"
 predicted_indications: ["migraine with brainstem aura", "trigeminal autonomic cephalalgia", "atrophoderma vermiculata", "tendinitis", "idiopathic granulomatous myositis", "myositis fibrosa", "ulerythema ophryogenesis", "fibromyalgia", "inclusion body myositis", "sciatic neuropathy"]
+last_modified_at: 2026-10-17
+description: "Acetaminophen：予測新適応症は脳幹性前兆を伴う片頭痛 (Migraine with Brainstem Aura)（エビデンスレベル L5）。既存適応症：鎮痛薬、解熱薬"
 ---
 
 # Acetaminophen
@@ -133,4 +133,12 @@ TxGNN モデルは**脳幹性前兆を伴う片頭痛 (Migraine with Brainstem A
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+アセトアミノフェン、アセリオ、アルピニー、アンヒバ、カロナール、トアラセット、トラムセット、ピレチノール、アセトアミノフェン100mg坐剤、アセトアミノフェン2%シロップ、アセトアミノフェン20 サイリュウ、アセトアミノフェン20%細粒、アセトアミノフェン200mg坐剤、アセトアミノフェン200mg錠、アセトアミノフェン300mg錠、アセトアミノフェン50mg坐剤、アセトアミノフェンDS40%「三和」、アセトアミノフェンDS小児用20%「タカタ」、アセトアミノフェンDS小児用20%「トーワ」、アセトアミノフェンDS小児用20%「三和」、アセトアミノフェンjgゲンマツ、アセトアミノフェンvtrsゲンマツ、アセトアミノフェン〈ハチ〉、アセトアミノフェン「JG」原末、アセトアミノフェン「VTRS」原末、アセトアミノフェン「ヨシダ」、アセトアミノフェンサイリュウ20 jg、アセトアミノフェンサイリュウ20 トーワ、アセトアミノフェンサイリュウ20 マルイ、アセトアミノフェンシロップ小児用2%「トーワ」、アセトアミノフェンハチ、アセトアミノフェンヨシダ、アセトアミノフェン坐剤小児用100mg「JG」、アセトアミノフェン坐剤小児用100mg「NIG」、アセトアミノフェン坐剤小児用100mg「シオエ」、アセトアミノフェン坐剤小児用100mg「日新」、アセトアミノフェン坐剤小児用200mg「JG」、アセトアミノフェン坐剤小児用200mg「NIG」、アセトアミノフェン坐剤小児用200mg「シオエ」、アセトアミノフェン坐剤小児用200mg「日新」
+<!-- brand-names:end -->
 

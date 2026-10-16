@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 164
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-15
-description: "Ipragliflozin：予測新適応症はオプシスモ異形成症 (Opsismodysplasia)（エビデンスレベル L5）。既存適応症：2 型糖尿病"
 monitor_inn: "Ipragliflozin"
 predicted_indications: ["opsismodysplasia", "thiamine-responsive dysfunction syndrome", "focal stiff limb syndrome", "classic stiff person syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy"]
+last_modified_at: 2026-10-17
+description: "Ipragliflozin：予測新適応症はオプシスモ異形成症 (Opsismodysplasia)（エビデンスレベル L5）。既存適応症：2 型糖尿病"
 ---
 
 # Ipragliflozin
@@ -96,4 +96,12 @@ TxGNN モデルは**オプシスモ異形成症 (Opsismodysplasia)** に有効�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+スーグラ錠25mg、スーグラ錠50mg
+<!-- brand-names:end -->
 

@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 183
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-15
-description: "Levocetirizine：予測新適応症は関節リウマチ (Rheumatoid Arthritis)（エビデンスレベル L5）。既存適応症：アレルギー性鼻炎（抗アレルギー薬、H1 受容体拮抗薬）"
 monitor_inn: "Levocetirizine"
 predicted_indications: ["rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
+last_modified_at: 2026-10-17
+description: "Levocetirizine：予測新適応症は関節リウマチ (Rheumatoid Arthritis)（エビデンスレベル L5）。既存適応症：アレルギー性鼻炎（抗アレルギー薬、H1 受容体拮抗薬）"
 ---
 
 # Levocetirizine
@@ -111,4 +111,12 @@ TxGNN の予測が唯一の根拠であり、臨床試験も文献も存在し�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ザイザル、レボセチリジン塩酸塩、ザイザルシロップ0.05%、ザイザルシロップ0.05%(選)、ザイザル錠5mg、ザイザル錠5mg(選)、レボセチリジン塩酸塩0.05%シロップ、レボセチリジン塩酸塩2.5mg錠、レボセチリジン塩酸塩5mg口腔内崩壊錠、レボセチリジン塩酸塩5mg錠、レボセチリジン塩酸塩DS0.5%「TCK」、レボセチリジン塩酸塩DS0.5%「タカタ」、レボセチリジン塩酸塩DS0.5%「杏林」、レボセチリジン塩酸塩OD錠2.5mg「YD」、レボセチリジン塩酸塩OD錠2.5mg「タカタ」、レボセチリジン塩酸塩OD錠2.5mg「日新」、レボセチリジン塩酸塩OD錠5mg「YD」、レボセチリジン塩酸塩OD錠5mg「サワイ」、レボセチリジン塩酸塩OD錠5mg「タカタ」、レボセチリジン塩酸塩OD錠5mg「日新」、レボセチリジン塩酸塩シロップ0.05%「アメル」、レボセチリジン塩酸塩シロップ0.05%「サワイ」、レボセチリジン塩酸塩シロップ0.05%「トーワ」、レボセチリジン塩酸塩シロップ0.05%「ニプロ」、レボセチリジン塩酸塩ドライシロップ0.5%「YD」、レボセチリジン塩酸塩ドライシロップ0.5%「日本臓器」、レボセチリジン塩酸塩口腔内崩壊錠5mg、レボセチリジン塩酸塩錠2.5mg「YD」、レボセチリジン塩酸塩錠2.5mg「タカタ」、レボセチリジン塩酸塩錠2.5mg「ニプロ」、レボセチリジン塩酸塩錠2.5mg「日本臓器」、レボセチリジン塩酸塩錠2.5mg「杏林」、レボセチリジン塩酸塩錠5mg「JG」、レボセチリジン塩酸塩錠5mg「KMP」、レボセチリジン塩酸塩錠5mg「TCK」、レボセチリジン塩酸塩錠5mg「YD」、レボセチリジン塩酸塩錠5mg「アメル」、レボセチリジン塩酸塩錠5mg「サワイ」、レボセチリジン塩酸塩錠5mg「サンド」、レボセチリジン塩酸塩錠5mg「タカタ」
+<!-- brand-names:end -->
 

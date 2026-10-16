@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 125
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Etodolac：予測新適応症は肢端中間部異形成症 Hunter-Thompson 型 (acromesomelic dysplasia…（エビデンスレベル L5）。既存適応症：鎮痛薬、抗炎症薬、シクロオキシゲナーゼ2阻害薬（関節リウマチ）"
 monitor_inn: "Etodolac"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "spondyloarthropathy, susceptibility to", "brachyolmia", "ankylosing spondylitis", "pseudoachondroplasia", "rheumatoid vasculitis", "hypermobility of coccyx", "inflammatory spondylopathy"]
+last_modified_at: 2026-10-17
+description: "Etodolac：予測新適応症は肢端中間部異形成症 Hunter-Thompson 型 (acromesomelic dysplasia…（エビデンスレベル L5）。既存適応症：鎮痛薬、抗炎症薬、シクロオキシゲナーゼ2阻害薬（関節リウマチ）"
 ---
 
 # Etodolac
@@ -121,4 +121,12 @@ TxGNN モデルは **肢端中間部異形成症 Hunter-Thompson 型 (acromesome
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+エトドラク、オステラック、ハイペン、エトドラク100mg錠、エトドラク200mg錠、エトドラク錠100mg「SW」、エトドラク錠200mg「SW」、オステラック錠100 100mg、オステラック錠100 100mg(選)、オステラック錠200 200mg、オステラック錠200 200mg(選)、ハイペン錠100mg、ハイペン錠100mg(選)、ハイペン錠200mg、ハイペン錠200mg(選)
+<!-- brand-names:end -->
 

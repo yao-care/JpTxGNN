@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 312
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
-description: "Tofisopam：予測新適応症は不眠症 (Insomnia)（エビデンスレベル L5）。既存適応症：抗不安薬、催眠鎮静薬"
 monitor_inn: "tofisopam"
 predicted_indications: ["insomnia (disease)"]
+last_modified_at: 2026-10-17
+description: "Tofisopam：予測新適応症は不眠症 (Insomnia)（エビデンスレベル L5）。既存適応症：抗不安薬、催眠鎮静薬"
 ---
 
 # Tofisopam
@@ -91,4 +91,12 @@ TxGNN モデルは**不眠症 (Insomnia)** に有効である可能性を予測�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+グランダキシン、トフィソパム、グランダキシン錠50 50mg、グランダキシン錠50 50mg(選)、トフィソパム50mg錠、トフィソパム細粒10%「ツルハラ」、トフィソパム錠50mg「サワイ」、トフィソパム錠50mg「トーワ」
+<!-- brand-names:end -->
 

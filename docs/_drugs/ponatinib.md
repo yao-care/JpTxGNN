@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 249
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-15
-description: "Ponatinib：予測新適応症は歯肉線維腫症 (Fibromatosis, Gingival)（エビデンスレベル L5）。既存適応症：慢性骨髄性白血病（BCR-ABL1 陽性）"
 monitor_inn: "Ponatinib"
 predicted_indications: ["fibromatosis, gingival", "liposarcoma"]
+last_modified_at: 2026-10-17
+description: "Ponatinib：予測新適応症は歯肉線維腫症 (Fibromatosis, Gingival)（エビデンスレベル L5）。既存適応症：慢性骨髄性白血病（BCR-ABL1 陽性）"
 ---
 
 # Ponatinib
@@ -109,4 +109,12 @@ TxGNN モデルは**歯肉線維腫症 (Fibromatosis, Gingival)** に有効で�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+アイクルシグ、アイクルシグ錠15mg
+<!-- brand-names:end -->
 

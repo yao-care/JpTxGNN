@@ -5,10 +5,10 @@ parent: 高エビデンスレベル
 nav_order: 277
 evidence_level: L2
 indication_count: 4
-last_modified_at: 2026-10-15
-description: "Selegiline：予測新適応症は統合失調症 (Schizophrenia)（エビデンスレベル L2）。既存適応症：パーキンソン病"
 monitor_inn: "Selegiline"
 predicted_indications: ["polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "schizophrenia", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies"]
+last_modified_at: 2026-10-17
+description: "Selegiline：予測新適応症は統合失調症 (Schizophrenia)（エビデンスレベル L2）。既存適応症：パーキンソン病"
 ---
 
 # Selegiline
@@ -122,4 +122,12 @@ TxGNN モデルが最上位に挙げた予測は希少な先天性脳奇形で�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+エフピー、セレギリン塩酸塩、エフピーOD錠2.5 2.5mg、セレギリン塩酸塩2.5mg錠、セレギリン塩酸塩錠2.5mg「アメル」、セレギリン塩酸塩錠2.5mg「タイヨー」
+<!-- brand-names:end -->
 

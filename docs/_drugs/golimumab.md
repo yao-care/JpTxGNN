@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 151
 evidence_level: L4
 indication_count: 5
-last_modified_at: 2026-10-15
-description: "Golimumab：予測新適応症はリウマチ性血管炎 (Rheumatoid Vasculitis)（エビデンスレベル L4）。既存適応症：関節リウマチ（ほか乾癬性関節炎、強直性脊椎炎、潰瘍性大腸炎など）"
 monitor_inn: "Golimumab"
 predicted_indications: ["rheumatoid vasculitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "polyarticular juvenile rheumatoid arthritis"]
+last_modified_at: 2026-10-17
+description: "Golimumab：予測新適応症はリウマチ性血管炎 (Rheumatoid Vasculitis)（エビデンスレベル L4）。既存適応症：関節リウマチ（ほか乾癬性関節炎、強直性脊椎炎、潰瘍性大腸炎など）"
 ---
 
 # Golimumab
@@ -116,4 +116,12 @@ TxGNN モデルは**リウマチ性血管炎 (Rheumatoid Vasculitis)** に有効
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+シンポニー皮下注50mgオートインジェクター 0.5mL、シンポニー皮下注50mgシリンジ 0.5mL
+<!-- brand-names:end -->
 

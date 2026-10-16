@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 181
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Levetiracetam：予測新適応症は視覚てんかん (Visual Epilepsy)（エビデンスレベル L5）。既存適応症：抗てんかん薬"
 monitor_inn: "Levetiracetam"
 predicted_indications: ["visual epilepsy", "micturation-induced seizures", "orgasm-induced seizures", "audiogenic seizures", "thinking seizures", "eating seizures", "startle epilepsy", "reading seizures", "status epilepticus", "beta-ketothiolase deficiency"]
+last_modified_at: 2026-10-17
+description: "Levetiracetam：予測新適応症は視覚てんかん (Visual Epilepsy)（エビデンスレベル L5）。既存適応症：抗てんかん薬"
 ---
 
 # Levetiracetam
@@ -125,4 +125,12 @@ TxGNN のスコアは非常に高く、SV2A を介した機序にももっとも
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+イーケプラ、レベチラセタム、イーケプラドライシロップ50%、イーケプラドライシロップ50%(選)、イーケプラ点滴静注500mg 5mL、イーケプラ錠250mg、イーケプラ錠250mg(選)、イーケプラ錠500mg、イーケプラ錠500mg(選)、レベチラセタムDS50%「サワイ」、レベチラセタムDS50%「タカタ」、レベチラセタムDS50%「トーワ」、レベチラセタムDS50%「杏林」、レベチラセタムドライシロップ50%「JG」、レベチラセタムドライシロップ50%「YD」、レベチラセタムドライシロップ50%「日医工」、レベチラセタムドライシロップ50%「日新」、レベチラセタムドライシロップ50%「明治」、レベチラセタム点滴静注500mg「アメル」 5mL、レベチラセタム点滴静注500mg「日新」 5mL、レベチラセタム点滴静注500mg「明治」 5mL、レベチラセタム粒状錠250mg「サワイ」、レベチラセタム粒状錠500mg「サワイ」、レベチラセタム錠250mg「JG」、レベチラセタム錠250mg「VTRS」、レベチラセタム錠250mg「アメル」、レベチラセタム錠250mg「サワイ」、レベチラセタム錠250mg「サンド」、レベチラセタム錠250mg「タカタ」、レベチラセタム錠250mg「トーワ」、レベチラセタム錠250mg「フェルゼン」、レベチラセタム錠250mg「日医工」、レベチラセタム錠250mg「日新」、レベチラセタム錠250mg「明治」、レベチラセタム錠250mg「杏林」、レベチラセタム錠500mg「JG」、レベチラセタム錠500mg「VTRS」、レベチラセタム錠500mg「アメル」、レベチラセタム錠500mg「サワイ」、レベチラセタム錠500mg「サンド」
+<!-- brand-names:end -->
 

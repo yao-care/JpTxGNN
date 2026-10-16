@@ -5,10 +5,10 @@ parent: 高エビデンスレベル
 nav_order: 179
 evidence_level: L2
 indication_count: 6
-last_modified_at: 2026-10-15
-description: "Lenalidomide：予測新適応症は骨髄性白血病 (Myeloid Leukemia)（エビデンスレベル L2）。既存適応症：多発性骨髄腫、骨髄異形成症候群（5番染色体長腕部欠失）"
 monitor_inn: "Lenalidomide"
 predicted_indications: ["myeloid leukemia", "unclassified myelodysplastic syndrome", "refractory cytopenia of childhood", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts", "partial deletion of the long arm of chromosome 5"]
+last_modified_at: 2026-10-17
+description: "Lenalidomide：予測新適応症は骨髄性白血病 (Myeloid Leukemia)（エビデンスレベル L2）。既存適応症：多発性骨髄腫、骨髄異形成症候群（5番染色体長腕部欠失）"
 ---
 
 # Lenalidomide
@@ -151,4 +151,12 @@ TxGNN モデルは**骨髄性白血病 (Myeloid Leukemia)** に有効である�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+レナリドミド、レナリドミドカプセル2.5mg「BMSH」、レナリドミドカプセル2.5mg「FNK」、レナリドミドカプセル2.5mg「F」、レナリドミドカプセル2.5mg「サワイ」、レナリドミドカプセル2.5mg「トーワ」、レナリドミドカプセル5mg「BMSH」、レナリドミドカプセル5mg「FNK」、レナリドミドカプセル5mg「F」、レナリドミドカプセル5mg「サワイ」、レナリドミドカプセル5mg「トーワ」、レブラミドカプセル2.5mg、レブラミドカプセル5mg
+<!-- brand-names:end -->
 

@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 331
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Valsartan：予測新適応症は悪性高血圧性腎疾患 (malignant hypertensive renal disease)（エビデンスレベル L4）。既存適応症：高血圧症"
 monitor_inn: "Valsartan"
 predicted_indications: ["malignant hypertensive renal disease", "malignant renovascular hypertension", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease", "Prinzmetal angina", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "obsolete susceptibility to ischemic stroke"]
+last_modified_at: 2026-10-17
+description: "Valsartan：予測新適応症は悪性高血圧性腎疾患 (malignant hypertensive renal disease)（エビデンスレベル L4）。既存適応症：高血圧症"
 ---
 
 # Valsartan
@@ -112,4 +112,12 @@ TxGNN モデルは**悪性高血圧性腎疾患 (malignant hypertensive renal di
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ディオバン、バルサルタン、ディオバンOD錠160mg、ディオバンOD錠160mg(選)、ディオバンOD錠20mg、ディオバンOD錠20mg(選)、ディオバンOD錠40mg、ディオバンOD錠40mg(選)、ディオバンOD錠80mg、ディオバンOD錠80mg(選)、ディオバン錠160mg、ディオバン錠160mg(選)、ディオバン錠20mg、ディオバン錠20mg(選)、ディオバン錠40mg、ディオバン錠40mg(選)、ディオバン錠80mg、ディオバン錠80mg(選)、バルサルタン20mg錠、バルサルタン40mg錠、バルサルタンOD錠160mg「トーワ」、バルサルタンOD錠20mg「トーワ」、バルサルタンOD錠40mg「トーワ」、バルサルタンOD錠80mg「トーワ」、バルサルタン錠160mg「BMD」、バルサルタン錠160mg「DSEP」、バルサルタン錠160mg「FFP」、バルサルタン錠160mg「JG」、バルサルタン錠160mg「Me」、バルサルタン錠160mg「TCK」、バルサルタン錠160mg「オーハラ」、バルサルタン錠160mg「ケミファ」、バルサルタン錠160mg「サワイ」、バルサルタン錠160mg「サンド」、バルサルタン錠160mg「ツルハラ」、バルサルタン錠160mg「トーワ」、バルサルタン錠160mg「日医工」、バルサルタン錠160mg「日新」、バルサルタン錠160mg「杏林」、バルサルタン錠20mg「BMD」
+<!-- brand-names:end -->
 

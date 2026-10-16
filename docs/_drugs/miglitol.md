@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 210
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Miglitol：予測新適応症は巣状スティフリム症候群 (Focal Stiff Limb Syndrome)（エビデンスレベル L5）。既存適応症：糖尿病（α-グルコシダーゼ阻害薬）"
 monitor_inn: "Miglitol"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pancreatic agenesis", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "type 1 diabetes mellitus"]
+last_modified_at: 2026-10-17
+description: "Miglitol：予測新適応症は巣状スティフリム症候群 (Focal Stiff Limb Syndrome)（エビデンスレベル L5）。既存適応症：糖尿病（α-グルコシダーゼ阻害薬）"
 ---
 
 # Miglitol
@@ -136,4 +136,12 @@ TxGNN モデルは**巣状スティフリム症候群 (focal stiff limb syndrome
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+セイブル、ミグリトール、セイブルOD錠25mg、セイブルOD錠25mg(選)、セイブルOD錠50mg、セイブルOD錠50mg(選)、セイブルOD錠75mg、セイブルOD錠75mg(選)、セイブル錠25mg、セイブル錠25mg(選)、セイブル錠50mg、セイブル錠50mg(選)、セイブル錠75mg、セイブル錠75mg(選)、ミグリトール25mg口腔内崩壊錠、ミグリトール25mg錠、ミグリトールOD錠25mg「サワイ」、ミグリトールOD錠25mg「トーワ」、ミグリトールOD錠50mg「サワイ」、ミグリトールOD錠50mg「トーワ」、ミグリトールOD錠75mg「サワイ」、ミグリトールOD錠75mg「トーワ」、ミグリトール錠25mg「JG」、ミグリトール錠25mg「トーワ」、ミグリトール錠50mg「JG」、ミグリトール錠50mg「トーワ」、ミグリトール錠75mg「JG」、ミグリトール錠75mg「トーワ」
+<!-- brand-names:end -->
 

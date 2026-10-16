@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 113
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-10-15
-description: "Epalrestat：予測新適応症は2型糖尿病性腎症 (type 2 diabetes nephropathy)（エビデンスレベル L3）。既存適応症：糖尿病性末梢神経障害（血糖降下薬、アルドース還元酵素阻害薬）"
 monitor_inn: "epalrestat"
 predicted_indications: ["type 2 diabetes nephropathy"]
+last_modified_at: 2026-10-17
+description: "Epalrestat：予測新適応症は2型糖尿病性腎症 (type 2 diabetes nephropathy)（エビデンスレベル L3）。既存適応症：糖尿病性末梢神経障害（血糖降下薬、アルドース還元酵素阻害薬）"
 ---
 
 # Epalrestat
@@ -106,4 +106,12 @@ TxGNN モデルは**2型糖尿病性腎症 (type 2 diabetes nephropathy)** に�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+エパルレスタット、キネダック、エパルレスタット50mg錠、エパルレスタット錠50mg「DSEP」、エパルレスタット錠50mg「JG」、エパルレスタット錠50mg「NIG」、エパルレスタット錠50mg「NP」、エパルレスタット錠50mg「TCK」、エパルレスタット錠50mg「VTRS」、エパルレスタット錠50mg「YD」、エパルレスタット錠50mg「ケミファ」、エパルレスタット錠50mg「サワイ」、エパルレスタット錠50mg「タカタ」、エパルレスタット錠50mg「トーワ」、エパルレスタット錠50mg「フソー」、エパルレスタット錠50mg「杏林」、キネダック錠50mg、キネダック錠50mg(選)
+<!-- brand-names:end -->
 

@@ -5,10 +5,10 @@ parent: 高エビデンスレベル
 nav_order: 146
 evidence_level: L1
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Gemcitabine：予測新適応症は女性乳癌 (female breast carcinoma)（エビデンスレベル L1）。既存適応症：非小細胞肺癌、膵癌、尿路上皮癌、乳癌、卵巣癌、悪性リンパ腫"
 monitor_inn: "gemcitabine"
 predicted_indications: ["female breast carcinoma", "rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "endometrial mixed adenocarcinoma", "endometrial mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "rete ovarii adenocarcinoma", "mucin-rich endometrial endometrioid adenocarcinoma"]
+last_modified_at: 2026-10-17
+description: "Gemcitabine：予測新適応症は女性乳癌 (female breast carcinoma)（エビデンスレベル L1）。既存適応症：非小細胞肺癌、膵癌、尿路上皮癌、乳癌、卵巣癌、悪性リンパ腫"
 ---
 
 # Gemcitabine
@@ -143,4 +143,12 @@ TxGNN モデルは**女性乳癌 (female breast carcinoma)** に有効である�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ゲムシタビン、ジェムザール、ゲムシタビン塩酸塩1g25mL注射液、ゲムシタビン塩酸塩200mg5mL注射液、ゲムシタビン点滴静注液1g/25mL「NK」、ゲムシタビン点滴静注液1g/25mL「サンド」、ゲムシタビン点滴静注液200mg/5mL「NK」、ゲムシタビン点滴静注液200mg/5mL「サンド」、ゲムシタビン点滴静注用1g「NK」、ゲムシタビン点滴静注用1g「タカタ」、ゲムシタビン点滴静注用1g「ヤクルト」、ゲムシタビン点滴静注用200mg「NK」、ゲムシタビン点滴静注用200mg「タカタ」、ゲムシタビン点滴静注用200mg「ヤクルト」、ジェムザール注射用1g、ジェムザール注射用200mg
+<!-- brand-names:end -->
 

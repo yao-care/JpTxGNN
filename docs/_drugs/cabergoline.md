@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 54
 evidence_level: L3
 indication_count: 5
-last_modified_at: 2026-10-15
-description: "Cabergoline：予測新適応症は下垂体癌 (Pituitary Cancer)（エビデンスレベル L3）。既存適応症：高プロラクチン血症、プロラクチン産生下垂体腫瘍"
 monitor_inn: "Cabergoline"
 predicted_indications: ["pituitary adenocarcinoma (disease)", "progeria-short stature-pigmented nevi syndrome", "pituitary cancer", "cerebral palsy, spastic quadriplegic", "glaucoma"]
+last_modified_at: 2026-10-17
+description: "Cabergoline：予測新適応症は下垂体癌 (Pituitary Cancer)（エビデンスレベル L3）。既存適応症：高プロラクチン血症、プロラクチン産生下垂体腫瘍"
 ---
 
 # Cabergoline
@@ -138,4 +138,12 @@ TxGNN モデルは**下垂体癌 (Pituitary Cancer)** に有効である可能�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+カバサール錠0.25mg、カバサール錠1.0mg 1mg
+<!-- brand-names:end -->
 

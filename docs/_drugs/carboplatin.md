@@ -5,10 +5,10 @@ parent: 高エビデンスレベル
 nav_order: 60
 evidence_level: L1
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Carboplatin：予測新適応症は女性乳癌 (Female Breast Carcinoma)（エビデンスレベル L1）。既存適応症：頭頸部癌、肺小細胞癌、睾丸腫瘍、卵巣癌、子宮頸癌、悪性リンパ腫、非小細胞肺癌、乳癌、子宮体癌、神経芽腫、網膜芽腫、肝芽腫…"
 monitor_inn: "carboplatin"
 predicted_indications: ["female breast carcinoma", "rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "adult germ cell tumor", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "endometrial mucinous adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "endometrial mixed adenocarcinoma", "extrahepatic bile duct mucinous adenocarcinoma"]
+last_modified_at: 2026-10-17
+description: "Carboplatin：予測新適応症は女性乳癌 (Female Breast Carcinoma)（エビデンスレベル L1）。既存適応症：頭頸部癌、肺小細胞癌、睾丸腫瘍、卵巣癌、子宮頸癌、悪性リンパ腫、非小細胞肺癌、乳癌、子宮体癌、神経芽腫、網膜芽腫、肝芽腫…"
 ---
 
 # Carboplatin
@@ -159,4 +159,12 @@ TxGNN モデルは**女性乳癌 (Female Breast Carcinoma)** に有効である�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+カルボプラチン、パラプラチン、カルボプラチン150mg15mL注射液、カルボプラチン450mg45mL注射液、カルボプラチン注射液150mg「NK」 15mL、カルボプラチン注射液150mg「日医工」 15mL、カルボプラチン注射液450mg「NK」 45mL、カルボプラチン注射液450mg「日医工」 45mL、カルボプラチン注射液50mg「NK」 5mL、カルボプラチン注射液50mg「日医工」 5mL、カルボプラチン点滴静注液150mg「NK」 15mL、カルボプラチン点滴静注液150mg「SW」 15mL、カルボプラチン点滴静注液150mg「サンド」 15mL、カルボプラチン点滴静注液450mg「NK」 45mL、カルボプラチン点滴静注液450mg「SW」 45mL、カルボプラチン点滴静注液450mg「サンド」 45mL、カルボプラチン点滴静注液50mg「NK」 5mL、カルボプラチン点滴静注液50mg「SW」 5mL、カルボプラチン点滴静注液50mg「サンド」 5mL、パラプラチン注射液150mg 15mL、パラプラチン注射液450mg 45mL、パラプラチン注射液450mg 45mL(選)、パラプラチン注射液50mg 5mL
+<!-- brand-names:end -->
 

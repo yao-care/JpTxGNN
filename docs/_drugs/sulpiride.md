@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 289
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-10-15
-description: "Sulpiride：予測新適応症は網膜ジストロフィー（retinal dystrophy with or without extraocular anomalies）（エビデンスレベル L4）。既存適応症：統合失調症、うつ病・うつ状態、胃・十二指腸潰瘍"
 monitor_inn: "sulpiride"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia X-linked", "congenital disorder of glycosylation with defective fucosylation", "myopia 26, X-linked, female-limited", "syndromic myopia", "atypical glycine encephalopathy"]
+last_modified_at: 2026-10-17
+description: "Sulpiride：予測新適応症は網膜ジストロフィー（retinal dystrophy with or without extraocular anomalies）（エビデンスレベル L4）。既存適応症：統合失調症、うつ病・うつ状態、胃・十二指腸潰瘍"
 ---
 
 # Sulpiride
@@ -109,4 +109,12 @@ TxGNN モデルは**網膜ジストロフィー（retinal dystrophy with or with
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+スルピリド、ドグマチール、スルピリド10%細粒、スルピリド100mg錠、スルピリド200mg錠、スルピリド50%細粒、スルピリド50mg錠、スルピリドカプセル50mg「トーワ」、スルピリド細粒10%「アメル」、スルピリド細粒50%「アメル」、スルピリド錠100mg「アメル」、スルピリド錠100mg「サワイ」、スルピリド錠100mg「トーワ」、スルピリド錠200mg「アメル」、スルピリド錠200mg「サワイ」、スルピリド錠200mg「トーワ」、スルピリド錠50mg「CH」、スルピリド錠50mg「アメル」、スルピリド錠50mg「サワイ」、ドグマチールカプセル50mg、ドグマチールカプセル50mg(選)、ドグマチール細粒10%、ドグマチール細粒10%(選)、ドグマチール細粒50%、ドグマチール細粒50%(選)、ドグマチール錠100mg、ドグマチール錠100mg(選)、ドグマチール錠200mg、ドグマチール錠200mg(選)、ドグマチール錠50mg、ドグマチール錠50mg(選)
+<!-- brand-names:end -->
 

@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 119
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Esomeprazole：予測新適応症は十二指腸胃逆流 (duodenogastric reflux)（エビデンスレベル L4）。既存適応症：胃酸分泌抑制薬、消化性潰瘍薬、プロトンポンプ阻害薬"
 monitor_inn: "Esomeprazole"
 predicted_indications: ["duodenogastric reflux", "duodenal obstruction", "duodenal ulcer (disease)", "active peptic ulcer disease", "abnormality of glucagon secretion", "peptic ulcer perforation", "gastrojejunal ulcer", "Smouldering systemic mastocytosis", "multiple endocrine neoplasia", "acne (disease)"]
+last_modified_at: 2026-10-17
+description: "Esomeprazole：予測新適応症は十二指腸胃逆流 (duodenogastric reflux)（エビデンスレベル L4）。既存適応症：胃酸分泌抑制薬、消化性潰瘍薬、プロトンポンプ阻害薬"
 ---
 
 # Esomeprazole
@@ -134,4 +134,12 @@ TxGNN モデルは**十二指腸胃逆流 (duodenogastric reflux)** に有効で
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+エソメプラゾールカプセル10mg「DSEP」、エソメプラゾールカプセル10mg「YD」、エソメプラゾールカプセル10mg「ケミファ」、エソメプラゾールカプセル10mg「サワイ」、エソメプラゾールカプセル10mg「トーワ」、エソメプラゾールカプセル10mg「ニプロ」、エソメプラゾールカプセル10mg「日新」、エソメプラゾールカプセル10mg「杏林」、エソメプラゾールカプセル20mg「DSEP」、エソメプラゾールカプセル20mg「YD」、エソメプラゾールカプセル20mg「ケミファ」、エソメプラゾールカプセル20mg「サワイ」、エソメプラゾールカプセル20mg「トーワ」、エソメプラゾールカプセル20mg「ニプロ」、エソメプラゾールカプセル20mg「日新」、エソメプラゾールカプセル20mg「杏林」、ネキシウムカプセル10mg、ネキシウムカプセル10mg(選)、ネキシウムカプセル20mg、ネキシウムカプセル20mg(選)、ネキシウムケンダクヨウカリュウブンホ、ネキシウム懸濁用顆粒分包10mg、ネキシウム懸濁用顆粒分包20mg
+<!-- brand-names:end -->
 

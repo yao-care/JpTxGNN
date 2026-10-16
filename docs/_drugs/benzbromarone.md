@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 40
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
-description: "Benzbromarone：予測新適応症は腎性低尿酸血症 (Hypouricemia, Renal)（エビデンスレベル L5）。既存適応症：痛風（尿酸排泄促進薬）"
 monitor_inn: "benzbromarone"
 predicted_indications: ["hypouricemia, renal"]
+last_modified_at: 2026-10-17
+description: "Benzbromarone：予測新適応症は腎性低尿酸血症 (Hypouricemia, Renal)（エビデンスレベル L5）。既存適応症：痛風（尿酸排泄促進薬）"
 ---
 
 # Benzbromarone
@@ -114,4 +114,12 @@ TxGNN の高スコアは、薬物・標的・疾患の関連性を反映した�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ベンズブロマロン、ユリノーム、ベンズブロマロン25mg錠、ベンズブロマロン50mg錠、ベンズブロマロン錠25mg「NIG」、ベンズブロマロン錠25mg「トーワ」、ベンズブロマロン錠50mg「NIG」、ベンズブロマロン錠50mg「トーワ」、ユリノーム錠25mg、ユリノーム錠25mg(選)、ユリノーム錠50mg、ユリノーム錠50mg(選)
+<!-- brand-names:end -->
 

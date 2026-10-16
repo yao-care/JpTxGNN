@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 231
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Oxybutynin：予測新適応症は下肢静止不能症候群 (Restless Legs Syndrome)（エビデンスレベル L5）。既存適応症：頻尿治療薬、過活動膀胱用薬、ムスカリン受容体拮抗薬"
 monitor_inn: "Oxybutynin"
 predicted_indications: ["restless legs syndrome", "gastroduodenitis", "peptic ulcer disease", "low compliance bladder", "nephrogenic syndrome of inappropriate antidiuresis", "insomnia (disease)", "attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "familial episodic pain syndrome with predominantly upper body involvement", "transient tic disorder"]
+last_modified_at: 2026-10-17
+description: "Oxybutynin：予測新適応症は下肢静止不能症候群 (Restless Legs Syndrome)（エビデンスレベル L5）。既存適応症：頻尿治療薬、過活動膀胱用薬、ムスカリン受容体拮抗薬"
 ---
 
 # Oxybutynin
@@ -110,4 +110,12 @@ TxGNN のスコアは非常に高い（99.74%）ものの、これは知識グ�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+アポハイド、オキシブチニン塩酸塩、ネオキシ、ポラキス、オキシブチニン塩酸塩1mg錠、オキシブチニン塩酸塩2mg錠、オキシブチニン塩酸塩3mg錠、オキシブチニン塩酸塩錠1mg「サワイ」、オキシブチニン塩酸塩錠2mg「サワイ」、オキシブチニン塩酸塩錠3mg「サワイ」、ポラキス錠1 1mg、ポラキス錠1 1mg(選)、ポラキス錠2 2mg、ポラキス錠2 2mg(選)、ポラキス錠3 3mg、ポラキス錠3 3mg(選)
+<!-- brand-names:end -->
 

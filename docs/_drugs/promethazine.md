@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 256
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Promethazine：予測新適応症は酒さ性結膜炎 (rosacea conjunctivitis)（エビデンスレベル L5）。既存適応症：パーキンソニスム、アレルギー性鼻炎（抗アレルギー薬・制吐薬・パーキンソン病治療薬・H1 受容体拮抗薬）"
 monitor_inn: "Promethazine"
 predicted_indications: ["rosacea conjunctivitis", "allergic urticaria", "cold urticaria", "rhinitis", "recalcitrant atopic dermatitis", "Angelucci syndrome", "acute hemorrhagic conjunctivitis", "serous conjunctivitis except viral", "parasitic conjunctivitis", "conjunctival folliculosis"]
+last_modified_at: 2026-10-17
+description: "Promethazine：予測新適応症は酒さ性結膜炎 (rosacea conjunctivitis)（エビデンスレベル L5）。既存適応症：パーキンソニスム、アレルギー性鼻炎（抗アレルギー薬・制吐薬・パーキンソン病治療薬・H1 受容体拮抗薬）"
 ---
 
 # Promethazine
@@ -132,4 +132,12 @@ TxGNN モデルは最上位候補として**酒さ性結膜炎 (rosacea conjunct
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ヒベルナ、PL配合顆粒、サラザック配合顆粒、セラピナ配合顆粒、トーワチーム配合顆粒、ピレチア、ピレチアサイリュウ10、ピレチア細粒10%、ピレチア錠(25mg)、ピレチア錠(5mg)、ピーエイ配合錠、マリキナ配合顆粒
+<!-- brand-names:end -->
 

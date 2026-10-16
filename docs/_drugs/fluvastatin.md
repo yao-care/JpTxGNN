@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 141
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Fluvastatin：予測新適応症は高リポ蛋白血症 (hyperlipoproteinemia)（エビデンスレベル L5）。既存適応症：高コレステロール血症、家族性高コレステロール血症（脂質異常症治療薬、HMG-CoA 還元酵素阻害薬）"
 monitor_inn: "Fluvastatin"
 predicted_indications: ["hyperlipoproteinemia", "homozygous familial hypercholesterolemia", "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency", "familial hypercholesterolemia", "HIV infectious disease", "cholesterol-ester transfer protein deficiency", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "fibroma of prostate"]
+last_modified_at: 2026-10-17
+description: "Fluvastatin：予測新適応症は高リポ蛋白血症 (hyperlipoproteinemia)（エビデンスレベル L5）。既存適応症：高コレステロール血症、家族性高コレステロール血症（脂質異常症治療薬、HMG-CoA 還元酵素阻害薬）"
 ---
 
 # Fluvastatin
@@ -136,4 +136,12 @@ TxGNN モデルは**高リポ蛋白血症 (hyperlipoproteinemia)** に有効で�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+フルバスタチン、ローコール、フルバスタチンナトリウム10mg錠、フルバスタチンナトリウム20mg錠、フルバスタチンナトリウム30mg錠、フルバスタチン錠10mg「JG」、フルバスタチン錠10mg「NIG」、フルバスタチン錠10mg「サワイ」、フルバスタチン錠20mg「JG」、フルバスタチン錠20mg「NIG」、フルバスタチン錠20mg「サワイ」、フルバスタチン錠30mg「JG」、フルバスタチン錠30mg「NIG」、フルバスタチン錠30mg「サワイ」、ローコール錠10mg、ローコール錠10mg(選)、ローコール錠20mg、ローコール錠20mg(選)、ローコール錠30mg、ローコール錠30mg(選)
+<!-- brand-names:end -->
 

@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 218
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-15
-description: "Naftopidil：予測新適応症はAmbras 型先天性汎発性多毛症 (Ambras type hypertrichosis universalis congenita)（エビデンスレベル L5）。既存適応症：排尿障害改善薬、α1アドレナリン受容体拮抗薬"
 monitor_inn: "Naftopidil"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality"]
+last_modified_at: 2026-10-17
+description: "Naftopidil：予測新適応症はAmbras 型先天性汎発性多毛症 (Ambras type hypertrichosis universalis congenita)（エビデンスレベル L5）。既存適応症：排尿障害改善薬、α1アドレナリン受容体拮抗薬"
 ---
 
 # Naftopidil
@@ -103,4 +103,12 @@ TxGNN モデルは **Ambras 型先天性汎発性多毛症 (Ambras type hypertri
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ナフトピジル、フリバス、ナフトピジル25mg口腔内崩壊錠、ナフトピジル25mg錠、ナフトピジル50mg口腔内崩壊錠、ナフトピジル50mg錠、ナフトピジル75mg口腔内崩壊錠、ナフトピジル75mg錠、ナフトピジルOD錠25mg「DSEP」、ナフトピジルOD錠25mg「FFP」、ナフトピジルOD錠25mg「JG」、ナフトピジルOD錠25mg「NIG」、ナフトピジルOD錠25mg「TCK」、ナフトピジルOD錠25mg「YD」、ナフトピジルOD錠25mg「ケミファ」、ナフトピジルOD錠25mg「サワイ」、ナフトピジルOD錠25mg「タカタ」、ナフトピジルOD錠25mg「トーワ」、ナフトピジルOD錠25mg「ニプロ」、ナフトピジルOD錠25mg「フソー」、ナフトピジルOD錠25mg「日医工」、ナフトピジルOD錠25mg「杏林」、ナフトピジルOD錠50mg「DSEP」、ナフトピジルOD錠50mg「FFP」、ナフトピジルOD錠50mg「JG」、ナフトピジルOD錠50mg「NIG」、ナフトピジルOD錠50mg「TCK」、ナフトピジルOD錠50mg「YD」、ナフトピジルOD錠50mg「ケミファ」、ナフトピジルOD錠50mg「サワイ」、ナフトピジルOD錠50mg「タカタ」、ナフトピジルOD錠50mg「トーワ」、ナフトピジルOD錠50mg「ニプロ」、ナフトピジルOD錠50mg「フソー」、ナフトピジルOD錠50mg「日医工」、ナフトピジルOD錠50mg「杏林」、ナフトピジルOD錠75mg「DSEP」、ナフトピジルOD錠75mg「FFP」、ナフトピジルOD錠75mg「JG」、ナフトピジルOD錠75mg「NIG」
+<!-- brand-names:end -->
 

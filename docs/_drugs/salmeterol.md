@@ -5,10 +5,10 @@ parent: 高エビデンスレベル
 nav_order: 276
 evidence_level: L1
 indication_count: 7
-last_modified_at: 2026-10-15
-description: "Salmeterol：予測新適応症は気管支炎 (Bronchitis)（エビデンスレベル L1）。既存適応症：肺気腫、内因性喘息、アレルギー性喘息（承認文書の適応症テキストは今回のデータにありません）"
 monitor_inn: "Salmeterol"
 predicted_indications: ["bronchitis", "respiratory malformation", "obstructive lung disease", "Rienhoff syndrome", "asthma", "asthma-related traits, susceptibility to", "atopic eczema"]
+last_modified_at: 2026-10-17
+description: "Salmeterol：予測新適応症は気管支炎 (Bronchitis)（エビデンスレベル L1）。既存適応症：肺気腫、内因性喘息、アレルギー性喘息（承認文書の適応症テキストは今回のデータにありません）"
 ---
 
 # Salmeterol
@@ -129,4 +129,12 @@ TxGNN モデルは**気管支炎 (Bronchitis)** に有効である可能性を�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+セレベント50ディスカス 50μg60ブリスター
+<!-- brand-names:end -->
 

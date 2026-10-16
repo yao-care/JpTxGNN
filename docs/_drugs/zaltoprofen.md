@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 343
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Zaltoprofen：予測新適応症は関節リウマチ (Rheumatoid Arthritis)（既存適応症と同一）（エビデンスレベル L3）。既存適応症：関節リウマチ（鎮痛薬・抗炎症薬・シクロオキシゲナーゼ2阻害薬）"
 monitor_inn: "zaltoprofen"
 predicted_indications: ["rheumatoid arthritis", "migraine with or without aura, susceptibility to", "migraine disorder", "migraine with brainstem aura", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "headache disorder", "trigeminal autonomic cephalalgia", "tendinitis", "idiopathic granulomatous myositis"]
+last_modified_at: 2026-10-17
+description: "Zaltoprofen：予測新適応症は関節リウマチ (Rheumatoid Arthritis)（既存適応症と同一）（エビデンスレベル L3）。既存適応症：関節リウマチ（鎮痛薬・抗炎症薬・シクロオキシゲナーゼ2阻害薬）"
 ---
 
 # Zaltoprofen
@@ -123,4 +123,12 @@ TxGNN モデルの最上位予測は**関節リウマチ (Rheumatoid Arthritis)*
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ザルトプロフェン、ソレトン、ペオン、ザルトプロフェン80mg錠、ザルトプロフェン錠80mg「YD」、ザルトプロフェン錠80mg「サワイ」、ザルトプロフェン錠80mg「日医工」、ソレトン錠80 80mg、ソレトン錠80 80mg(選)、ペオン錠80 80mg、ペオン錠80 80mg(選)
+<!-- brand-names:end -->
 

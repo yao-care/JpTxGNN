@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 12
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-15
-description: "Acarbose：予測新適応症はfocal stiff limb syndrome（エビデンスレベル L5）。既存適応症：糖尿病（α-グルコシダーゼ阻害薬）"
 monitor_inn: "Acarbose"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
+last_modified_at: 2026-10-17
+description: "Acarbose：予測新適応症はfocal stiff limb syndrome（エビデンスレベル L5）。既存適応症：糖尿病（α-グルコシダーゼ阻害薬）"
 ---
 
 # Acarbose
@@ -111,4 +111,12 @@ TxGNN モデルは **focal stiff limb syndrome** に有効である可能性を�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+アカルボース、アカルボース錠100mg「NIG」、アカルボース錠100mg「サワイ」、アカルボース錠50mg「NIG」、アカルボース錠50mg「サワイ」
+<!-- brand-names:end -->
 

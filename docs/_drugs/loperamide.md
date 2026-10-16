@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 191
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Loperamide：予測新適応症は急性伝染性結膜炎 (Acute Contagious Conjunctivitis)（エビデンスレベル L5）。既存適応症：止瀉薬、蠕動抑制薬、オピオイド受容体作動薬"
 monitor_inn: "Loperamide"
 predicted_indications: ["acute contagious conjunctivitis", "amebic dysentery", "conjunctivitis", "gastroduodenitis", "pseudomembranous conjunctivitis", "conjunctival folliculosis", "serous conjunctivitis except viral", "parasitic conjunctivitis", "chronic follicular conjunctivitis", "Angelucci syndrome"]
+last_modified_at: 2026-10-17
+description: "Loperamide：予測新適応症は急性伝染性結膜炎 (Acute Contagious Conjunctivitis)（エビデンスレベル L5）。既存適応症：止瀉薬、蠕動抑制薬、オピオイド受容体作動薬"
 ---
 
 # Loperamide
@@ -114,4 +114,12 @@ TxGNN モデルは**急性伝染性結膜炎 (Acute Contagious Conjunctivitis)**
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ロペミン、ロペラミド、ロペラミド塩酸塩、ロペミンカプセル1mg、ロペミンカプセル1mg(選)、ロペラミドエン、ロペラミド塩酸塩1mgカプセル、ロペラミド塩酸塩1mg錠、ロペラミド塩酸塩カプセル1mg、ロペラミド塩酸塩カプセル1mg「NIG」、ロペラミド塩酸塩カプセル1mg「サワイ」、ロペラミド塩酸塩細粒小児用0.05%「NIG」、ロペラミド塩酸塩錠1mg、ロペラミド塩酸塩錠1mg「あすか」
+<!-- brand-names:end -->
 

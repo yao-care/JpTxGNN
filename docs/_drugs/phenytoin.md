@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 244
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Phenytoin：予測新適応症は三叉神経腫瘍 (Trigeminal Nerve Neoplasm)（エビデンスレベル L5）。既存適応症：抗てんかん薬"
 monitor_inn: "Phenytoin"
 predicted_indications: ["trigeminal nerve neoplasm", "startle epilepsy", "micturation-induced seizures", "orgasm-induced seizures", "thinking seizures", "eating seizures", "audiogenic seizures", "reading seizures", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
+last_modified_at: 2026-10-17
+description: "Phenytoin：予測新適応症は三叉神経腫瘍 (Trigeminal Nerve Neoplasm)（エビデンスレベル L5）。既存適応症：抗てんかん薬"
 ---
 
 # Phenytoin
@@ -106,4 +106,12 @@ TxGNN モデルは**三叉神経腫瘍 (Trigeminal Nerve Neoplasm)** に有効�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+アレビアチン、ヒダントール、アレビアチン散10%、アレビアチン注250mg 5%5mL、アレビアチン錠100mg、アレビアチン錠25mg、フェニトイン、フェニトイン散 10%、フェニトイン錠 100mg、フェニトイン錠 25mg、複合アレビアチン配合錠
+<!-- brand-names:end -->
 

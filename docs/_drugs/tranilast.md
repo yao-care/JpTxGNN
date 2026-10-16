@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 320
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Tranilast：予測新適応症は脂漏性角化症 (Seborrheic Keratosis)（エビデンスレベル L5）。既存適応症：気管支喘息、アレルギー性鼻炎、アトピー性皮膚炎（抗アレルギー薬・喘息治療薬・メディエーター遊離抑制薬）"
 monitor_inn: "Tranilast"
 predicted_indications: ["seborrheic keratosis", "seborrheic dermatitis", "polyp of vocal cord", "polyp of middle ear", "polyp of frontal sinus", "polyp of external auditory canal", "epulis", "fibroepithelial polyp", "polyp of ureter", "polyp of vulva"]
+last_modified_at: 2026-10-17
+description: "Tranilast：予測新適応症は脂漏性角化症 (Seborrheic Keratosis)（エビデンスレベル L5）。既存適応症：気管支喘息、アレルギー性鼻炎、アトピー性皮膚炎（抗アレルギー薬・喘息治療薬・メディエーター遊離抑制薬）"
 ---
 
 # Tranilast
@@ -113,4 +113,12 @@ TxGNN モデルは**脂漏性角化症 (Seborrheic Keratosis)** に有効であ�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+トラニラスト、トラメラス、リザベン、トラニラスト100mgカプセル、トラニラスト25mg5mL点眼液、トラニラスト5%シロップ用、トラニラストDS5%「CH」、トラニラストカプセル100mg「CH」、トラニラストカプセル100mg「トーワ」、トラニラスト点眼液0.5%「FFP」 25mg5mL、トラニラスト点眼液0.5%「JG」 25mg5mL、トラニラスト点眼液0.5%「TS」 25mg5mL、トラニラスト点眼液0.5%「サワイ」 25mg5mL、トラニラスト点眼液0.5%「ニットー」 25mg5mL、トラメラスPF点眼液0.5% 25mg5mL、トラメラスPF点眼液0.5% 25mg5mL(選)、トラメラス点眼液0.5% 25mg5mL、トラメラス点眼液0.5% 25mg5mL(選)、リザベンカプセル100mg、リザベンカプセル100mg(選)、リザベンドライシロップ5%、リザベン点眼液0.5% 25mg5mL、リザベン点眼液0.5% 25mg5mL(選)
+<!-- brand-names:end -->
 

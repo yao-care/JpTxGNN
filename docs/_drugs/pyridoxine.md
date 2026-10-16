@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 260
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Pyridoxine：予測新適応症はUreaplasma 尿道炎 (Ureaplasma urethritis)（エビデンスレベル L5）。既存適応症：ビタミンB6補充薬（脂漏性湿疹、接触皮膚炎）"
 monitor_inn: "Pyridoxine"
 predicted_indications: ["Ureaplasma urethritis", "gonococcal urethritis", "urinary tract infection (disease)", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "congenital prothrombin deficiency", "toxocariasis", "toxascariasis", "anisakiasis", "vitamin deficiency disorder"]
+last_modified_at: 2026-10-17
+description: "Pyridoxine：予測新適応症はUreaplasma 尿道炎 (Ureaplasma urethritis)（エビデンスレベル L5）。既存適応症：ビタミンB6補充薬（脂漏性湿疹、接触皮膚炎）"
 ---
 
 # Pyridoxine
@@ -111,4 +111,12 @@ TxGNN モデルは **Ureaplasma 尿道炎 (Ureaplasma urethritis)** に有効で
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ビタミンB6、ビーシックス、ビタミンB6錠30mg「F」、ピリドキシンエン、ピリドキシン塩酸塩、ピリドキシン塩酸塩注射液 10mg、ピリドキシン塩酸塩注射液 30mg
+<!-- brand-names:end -->
 

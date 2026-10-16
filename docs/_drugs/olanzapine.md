@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 224
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Olanzapine：予測新適応症は良性乳児発作性斜頸 (benign paroxysmal torticollis of infancy)（エビデンスレベル L5）。既存適応症：統合失調症、双極性障害"
 monitor_inn: "Olanzapine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "dysthymic disorder", "distal 17p13.3 microdeletion syndrome", "neurotic disorder", "neurotic depression", "melancholia", "retinal dystrophy with or without extraocular anomalies", "Ohdo syndrome and variants", "childhood apraxia of speech"]
+last_modified_at: 2026-10-17
+description: "Olanzapine：予測新適応症は良性乳児発作性斜頸 (benign paroxysmal torticollis of infancy)（エビデンスレベル L5）。既存適応症：統合失調症、双極性障害"
 ---
 
 # Olanzapine
@@ -125,4 +125,12 @@ TxGNN の上位 10 件のうち、エビデンスに差があります。参考�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+オランザピン、ジプレキサ、オランザピン1%細粒、オランザピン10mg口腔内崩壊錠、オランザピン10mg錠、オランザピン2.5mg口腔内崩壊錠、オランザピン2.5mg錠、オランザピン5mg口腔内崩壊錠、オランザピン5mg錠、オランザピンOD錠1.25mg「アメル」、オランザピンOD錠10mg「DSEP」、オランザピンOD錠10mg「JG」、オランザピンOD錠10mg「NIG」、オランザピンOD錠10mg「NP」、オランザピンOD錠10mg「VTRS」、オランザピンOD錠10mg「アメル」、オランザピンOD錠10mg「タカタ」、オランザピンOD錠10mg「トーワ」、オランザピンOD錠10mg「ニプロ」、オランザピンOD錠10mg「日医工」、オランザピンOD錠10mg「明治」、オランザピンOD錠10mg「杏林」、オランザピンOD錠2.5mg「DSEP」、オランザピンOD錠2.5mg「JG」、オランザピンOD錠2.5mg「NIG」、オランザピンOD錠2.5mg「VTRS」、オランザピンOD錠2.5mg「アメル」、オランザピンOD錠2.5mg「タカタ」、オランザピンOD錠2.5mg「トーワ」、オランザピンOD錠2.5mg「ニプロ」、オランザピンOD錠2.5mg「日医工」、オランザピンOD錠2.5mg「明治」、オランザピンOD錠2.5mg「杏林」、オランザピンOD錠5mg「DSEP」、オランザピンOD錠5mg「JG」、オランザピンOD錠5mg「NIG」、オランザピンOD錠5mg「NP」、オランザピンOD錠5mg「VTRS」、オランザピンOD錠5mg「アメル」、オランザピンOD錠5mg「タカタ」
+<!-- brand-names:end -->
 

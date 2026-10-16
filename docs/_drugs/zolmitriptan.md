@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 345
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-10-15
-description: "Zolmitriptan：予測新適応症は脳幹性前兆を伴う片頭痛 (migraine with brainstem aura)（エビデンスレベル L4）。既存適応症：抗片頭痛薬、血管収縮薬、セロトニン受容体作動薬"
 monitor_inn: "zolmitriptan"
 predicted_indications: ["migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
+last_modified_at: 2026-10-17
+description: "Zolmitriptan：予測新適応症は脳幹性前兆を伴う片頭痛 (migraine with brainstem aura)（エビデンスレベル L4）。既存適応症：抗片頭痛薬、血管収縮薬、セロトニン受容体作動薬"
 ---
 
 # Zolmitriptan
@@ -127,4 +127,12 @@ TxGNN モデルは**脳幹性前兆を伴う片頭痛 (migraine with brainstem a
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ゾルミトリプタン、ゾーミッグ、ゾルミトリプタン2.5mg口腔内崩壊錠、ゾルミトリプタンOD錠2.5mg「JG」、ゾルミトリプタンOD錠2.5mg「VTRS」、ゾルミトリプタンOD錠2.5mg「アメル」、ゾルミトリプタンOD錠2.5mg「タカタ」、ゾルミトリプタンOD錠2.5mg「トーワ」、ゾルミトリプタンOD錠2.5mg「日医工」、ゾルミトリプタンOD錠2.5mg「日新」、ゾーミッグRM錠2.5mg、ゾーミッグRM錠2.5mg(選)、ゾーミッグ錠2.5mg
+<!-- brand-names:end -->
 

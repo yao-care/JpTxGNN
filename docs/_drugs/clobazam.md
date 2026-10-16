@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 73
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Clobazam：予測新適応症は熱性感染関連てんかん症候群 (Febrile infection-related epilepsy syndrome)（エビデンスレベル L4）。既存適応症：レノックス・ガストー症候群"
 monitor_inn: "Clobazam"
 predicted_indications: ["febrile infection-related epilepsy syndrome", "perioral myoclonia with absences", "atypical childhood epilepsy with centrotemporal spikes", "photosensitive occipital lobe epilepsy", "cryptogenic late-onset epileptic spasms", "childhood onset epileptic encephalopathy", "benign occipital epilepsy", "early-onset epileptic encephalopathy and intellectual disability due to GRIN2A mutation", "restless legs syndrome", "polymicrogyria with optic nerve hypoplasia"]
+last_modified_at: 2026-10-17
+description: "Clobazam：予測新適応症は熱性感染関連てんかん症候群 (Febrile infection-related epilepsy syndrome)（エビデンスレベル L4）。既存適応症：レノックス・ガストー症候群"
 ---
 
 # Clobazam
@@ -113,4 +113,12 @@ FIRES は、それまで健康だった小児に発症する新規発症難治�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+マイスタン細粒1%、マイスタン錠10mg、マイスタン錠5mg
+<!-- brand-names:end -->
 

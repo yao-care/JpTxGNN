@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 252
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Pravastatin：予測新適応症はホモ接合体家族性高コレステロール血症 (homozygous familial hypercholesterolemia)（エビデンスレベル L3）。既存適応症：高脂血症、家族性高コレステロール血症"
 monitor_inn: "Pravastatin"
 predicted_indications: ["homozygous familial hypercholesterolemia", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "familial hypercholesterolemia", "hypoalphalipoproteinemia", "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency", "cholesterol-ester transfer protein deficiency", "hypercholesterolemia, autosomal dominant"]
+last_modified_at: 2026-10-17
+description: "Pravastatin：予測新適応症はホモ接合体家族性高コレステロール血症 (homozygous familial hypercholesterolemia)（エビデンスレベル L3）。既存適応症：高脂血症、家族性高コレステロール血症"
 ---
 
 # Pravastatin
@@ -135,4 +135,12 @@ TxGNN モデルは**ホモ接合体家族性高コレステロール血症 (homo
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+プラバスタチンNa、プラバスタチンナトリウム、メバロチン、プラバスタチンNa錠10mg「Me」、プラバスタチンNa錠10mg「NIG」、プラバスタチンNa錠10mg「NS」、プラバスタチンNa錠10mg「TCK」、プラバスタチンNa錠10mg「オーハラ」、プラバスタチンNa錠10mg「ケミファ」、プラバスタチンNa錠10mg「サワイ」、プラバスタチンNa錠10mg「チョーセイ」、プラバスタチンNa錠10mg「トーワ」、プラバスタチンNa錠5mg「Me」、プラバスタチンNa錠5mg「NIG」、プラバスタチンNa錠5mg「NS」、プラバスタチンNa錠5mg「TCK」、プラバスタチンNa錠5mg「オーハラ」、プラバスタチンNa錠5mg「ケミファ」、プラバスタチンNa錠5mg「サワイ」、プラバスタチンNa錠5mg「チョーセイ」、プラバスタチンNa錠5mg「トーワ」、プラバスタチンナトリウム10mg錠、プラバスタチンナトリウム5mg錠、プラバスタチンナトリウム錠10mg「YD」、プラバスタチンナトリウム錠10mg「ツルハラ」、プラバスタチンナトリウム錠5mg「YD」、プラバスタチンナトリウム錠5mg「ツルハラ」、メバレクト錠10mg、メバレクト錠5mg、メバロチン細粒0.5%、メバロチン細粒1%、メバロチン錠10 10mg、メバロチン錠5 5mg、メバロチン錠5 5mg(選)
+<!-- brand-names:end -->
 

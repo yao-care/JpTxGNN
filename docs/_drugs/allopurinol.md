@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 20
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Allopurinol：予測新適応症は肝性ポルフィリン症 (Hepatic Porphyria)（エビデンスレベル L4）。既存適応症：痛風"
 monitor_inn: "Allopurinol"
 predicted_indications: ["hepatic porphyria", "idiopathic copper-associated cirrhosis", "hepatoportal sclerosis", "primitive portal vein thrombosis", "hepatopulmonary syndrome", "early-onset familial noncirrhotic portal hypertension", "disorder of phenylalanine metabolism", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "idiopathic eosinophilic myositis"]
+last_modified_at: 2026-10-17
+description: "Allopurinol：予測新適応症は肝性ポルフィリン症 (Hepatic Porphyria)（エビデンスレベル L4）。既存適応症：痛風"
 ---
 
 # Allopurinol
@@ -115,4 +115,12 @@ TxGNN モデルは**肝性ポルフィリン症 (Hepatic Porphyria)** に有効�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+アロプリノール、ザイロリック、アロプリノール100mg錠、アロプリノール50mg錠、アロプリノール錠100mg「DSP」、アロプリノール錠100mg「NIG」、アロプリノール錠100mg「NS」、アロプリノール錠100mg「TCK」、アロプリノール錠100mg「VTRS」、アロプリノール錠100mg「あゆみ」、アロプリノール錠100mg「アメル」、アロプリノール錠100mg「ケミファ」、アロプリノール錠100mg「サワイ」、アロプリノール錠100mg「タカタ」、アロプリノール錠100mg「ツルハラ」、アロプリノール錠100mg「トーワ」、アロプリノール錠100mg「ニプロ」、アロプリノール錠100mg「杏林」、アロプリノール錠50mg「DSP」、アロプリノール錠50mg「NIG」、アロプリノール錠50mg「NS」、アロプリノール錠50mg「TCK」、アロプリノール錠50mg「VTRS」、アロプリノール錠50mg「あゆみ」、アロプリノール錠50mg「アメル」、アロプリノール錠50mg「ケミファ」、アロプリノール錠50mg「サワイ」、アロプリノール錠50mg「タカタ」、アロプリノール錠50mg「ツルハラ」、アロプリノール錠50mg「トーワ」、アロプリノール錠50mg「ニプロ」、アロプリノール錠50mg「杏林」、ザイロリック錠100 100mg、ザイロリック錠100 100mg(選)
+<!-- brand-names:end -->
 

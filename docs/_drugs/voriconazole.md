@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 341
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Voriconazole：予測新適応症は多剤耐性結核 (multidrug-resistant tuberculosis)（エビデンスレベル L5）。既存適応症：侵襲性アスペルギルス症、肺アスペルギローマ、慢性壊死性肺アスペルギルス症、カンジダ症、クリプトコックス髄膜炎、肺クリプトコックス症…"
 monitor_inn: "Voriconazole"
 predicted_indications: ["multidrug-resistant tuberculosis", "cysticercosis", "Ambras type hypertrichosis universalis congenita", "syndrome with a Dandy-Walker malformation as major feature", "malformation syndrome with odontal and/or periodontal component", "tuberculosis, bovine", "isolated genetic hair shaft abnormality", "inactive tuberculosis", "tuberculous ascites", "tuberculoma"]
+last_modified_at: 2026-10-17
+description: "Voriconazole：予測新適応症は多剤耐性結核 (multidrug-resistant tuberculosis)（エビデンスレベル L5）。既存適応症：侵襲性アスペルギルス症、肺アスペルギローマ、慢性壊死性肺アスペルギルス症、カンジダ症、クリプトコックス髄膜炎、肺クリプトコックス症…"
 ---
 
 # Voriconazole
@@ -115,4 +115,12 @@ TxGNN モデルは**多剤耐性結核 (multidrug-resistant tuberculosis)** に�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ブイフェンド、ボリコナゾール、ブイフェンド200mg静注用、ブイフェンドDS2800mg 40mg(懸濁後の内用液として)、ブイフェンド錠200mg、ブイフェンド錠200mg(選)、ブイフェンド錠50mg、ブイフェンド錠50mg(選)、ボリコナゾール錠100mg「JG」、ボリコナゾール錠100mg「アメル」、ボリコナゾール錠200mg「DSEP」、ボリコナゾール錠200mg「JG」、ボリコナゾール錠200mg「NIG」、ボリコナゾール錠200mg「アメル」、ボリコナゾール錠200mg「タカタ」、ボリコナゾール錠200mg「トーワ」、ボリコナゾール錠50mg「DSEP」、ボリコナゾール錠50mg「JG」、ボリコナゾール錠50mg「NIG」、ボリコナゾール錠50mg「アメル」、ボリコナゾール錠50mg「タカタ」、ボリコナゾール錠50mg「トーワ」、ボリコナゾール顆粒20%「タカタ」
+<!-- brand-names:end -->
 

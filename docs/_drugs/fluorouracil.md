@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 137
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Fluorouracil：予測新適応症は膣のブドウ状型胚性横紋筋肉腫 (botryoid-type embryonal rhabdomyosarcoma of the vagin…（エビデンスレベル L5）。既存適応症：胃癌、肝癌、結腸・直腸癌、乳癌、膵癌、子宮頸癌、子宮体癌、卵巣癌、食道癌、肺癌、頭頸部癌、有棘細胞癌、基底細胞癌"
 monitor_inn: "Fluorouracil"
 predicted_indications: ["botryoid-type embryonal rhabdomyosarcoma of the vagina", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "liver sarcoma", "sickle cell-hemoglobin d disease syndrome", "sickle cell-beta-thalassemia disease syndrome", "hereditary persistence of fetal hemoglobin-sickle cell disease syndrome"]
+last_modified_at: 2026-10-17
+description: "Fluorouracil：予測新適応症は膣のブドウ状型胚性横紋筋肉腫 (botryoid-type embryonal rhabdomyosarcoma of the vagin…（エビデンスレベル L5）。既存適応症：胃癌、肝癌、結腸・直腸癌、乳癌、膵癌、子宮頸癌、子宮体癌、卵巣癌、食道癌、肺癌、頭頸部癌、有棘細胞癌、基底細胞癌"
 ---
 
 # Fluorouracil
@@ -127,4 +127,12 @@ TxGNN モデルは**胚性横紋筋肉腫（膣のブドウ状型）(botryoid-ty
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+5−FU、フルオロウラシル、フルオロウラシル注1000mg「トーワ」 1,000mg、フルオロウラシル注250mg「トーワ」
+<!-- brand-names:end -->
 

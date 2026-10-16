@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 14
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Acyclovir：予測新適応症は点状表層角結膜炎 (Punctate Epithelial Keratoconjunctivitis)（エビデンスレベル L5）。既存適応症：単純疱疹、単純ヘルペスウイルス感染症、帯状疱疹、性器ヘルペス、水痘、単純ヘルペスウイルスに起因する角膜炎"
 monitor_inn: "Acyclovir"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "common wart", "post-infectious neuralgia", "hepatitis C induced liver cirrhosis", "eosinophilic pustular folliculitis", "sequela of COVID-19", "vulvovaginal candidiasis", "papular urticaria", "disease of orbital region", "epidemic keratoconjunctivitis"]
+last_modified_at: 2026-10-17
+description: "Acyclovir：予測新適応症は点状表層角結膜炎 (Punctate Epithelial Keratoconjunctivitis)（エビデンスレベル L5）。既存適応症：単純疱疹、単純ヘルペスウイルス感染症、帯状疱疹、性器ヘルペス、水痘、単純ヘルペスウイルスに起因する角膜炎"
 ---
 
 # Acyclovir
@@ -109,4 +109,12 @@ TxGNN モデルは**点状表層角結膜炎 (Punctate Epithelial Keratoconjunct
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+アシクロビル、ゾビラックス、アシクロビル250mg、アシクロビル250mg注射液、アシクロビル3 ガンナンコウ、アシクロビル3%眼軟膏、アシクロビル40%顆粒、アシクロビル5%クリーム、アシクロビル5%軟膏、アシクロビルDS80%「NK」、アシクロビルDS80%「サワイ」、アシクロビルガンナンコウ3 ニッテン、アシクロビルガンナンコウ3 ニットー、アシクロビルクリーム5%「ラクール」、アシクロビルシロップ8%「タカタ」、アシクロビルテンテキ、アシクロビル内服ゼリー200mg「日医工」、アシクロビル内服ゼリー800mg「日医工」、アシクロビル点滴静注液250mg「トーワ」、アシクロビル点滴静注液250mg「日医工」、アシクロビル点滴静注液250mgバッグ100mL「アイロム」、アシクロビル点滴静注用250mg「NIG」、アシクロビル点滴静注用250mg「サワイ」、アシクロビル眼軟膏3%「ニットー」、アシクロビル眼軟膏3%「日点」、アシクロビル軟膏5%「トーワ」、アシクロビル軟膏5%「ラクール」、アシクロビル錠200mg「CH」、アシクロビル錠200mg「サワイ」、アシクロビル錠200mg「トーワ」、アシクロビル錠400mg「CH」、アシクロビル錠400mg「サワイ」、アシクロビル錠400mg「トーワ」、アシクロビル顆粒40%「CH」、アシクロビル顆粒40%「サワイ」、アシクロビル顆粒40%「タカタ」、アシクロビル顆粒40%「トーワ」、ゾビラックスクリーム5%、ゾビラックスクリーム5%(選)、ゾビラックス軟膏5%
+<!-- brand-names:end -->
 

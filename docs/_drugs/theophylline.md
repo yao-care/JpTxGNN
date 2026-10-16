@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 304
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Theophylline：予測新適応症は血栓性疾患 (Thrombotic Disease)（エビデンスレベル L5）。既存適応症：気管支喘息、肺気腫"
 monitor_inn: "Theophylline"
 predicted_indications: ["thrombotic disease", "nasal cavity disease", "laryngotracheitis", "tracheal disease", "obstructive lung disease", "pharyngitis", "acute laryngopharyngitis", "bronchial neoplasm (disease)", "respiratory malformation", "massive neonatal aspiration syndrome"]
+last_modified_at: 2026-10-17
+description: "Theophylline：予測新適応症は血栓性疾患 (Thrombotic Disease)（エビデンスレベル L5）。既存適応症：気管支喘息、肺気腫"
 ---
 
 # Theophylline
@@ -120,4 +120,12 @@ PDE 阻害により血小板内の cAMP が上昇すると、血小板凝集が�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+テオドール、テオフィリン、テオロング、ユニコン、テオドール錠100mg、テオドール錠200mg、テオドール錠50mg、テオドール顆粒20%、テオフィリン100mg徐放U錠、テオフィリン100mg徐放錠、テオフィリン200mg徐放U錠、テオフィリン200mg徐放錠、テオフィリン400mg徐放U錠、テオフィリン50mg徐放錠、テオフィリンドライシロップ20%「タカタ」、テオフィリン徐放DS小児用20%「トーワ」、テオフィリン徐放U錠100mg「トーワ」、テオフィリン徐放U錠200mg「トーワ」、テオフィリン徐放U錠400mg「トーワ」、テオフィリン徐放カプセル100mg「サンド」、テオフィリン徐放カプセル200mg「サンド」、テオフィリン徐放カプセル50mg「サンド」、テオフィリン徐放ドライシロップ小児用20%「サワイ」、テオフィリン徐放錠100mg「サワイ」、テオフィリン徐放錠100mg「ツルハラ」、テオフィリン徐放錠200mg「サワイ」、テオフィリン徐放錠200mg「ツルハラ」、テオフィリン徐放錠50mg「サワイ」、テオフィリン徐放錠50mg「ツルハラ」、テオロング錠100mg、テオロング錠200mg、ユニコン錠100 100mg、ユニコン錠100 100mg(選)、ユニコン錠200 200mg、ユニコン錠200 200mg(選)、ユニコン錠400 400mg、ユニコン錠400 400mg(選)
+<!-- brand-names:end -->
 

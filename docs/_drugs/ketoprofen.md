@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 171
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Ketoprofen：予測新適応症は肢端中間異形成症 Hunter-Thompson 型 (acromesomelic dysplasia…（エビデンスレベル L5）。既存適応症：鎮痛薬・抗炎症薬・解熱薬（痛風発作、関節リウマチ）"
 monitor_inn: "Ketoprofen"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "spondyloarthropathy, susceptibility to", "WHIM syndrome", "juvenile arthritis due to defect in LACC1"]
+last_modified_at: 2026-10-17
+description: "Ketoprofen：予測新適応症は肢端中間異形成症 Hunter-Thompson 型 (acromesomelic dysplasia…（エビデンスレベル L5）。既存適応症：鎮痛薬・抗炎症薬・解熱薬（痛風発作、関節リウマチ）"
 ---
 
 # Ketoprofen
@@ -100,4 +100,12 @@ TxGNN モデルは**肢端中間異形成症 Hunter-Thompson 型 (acromesomelic 
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ケトプロフェン、セクター、ミルタックス、モーラス、ケトプロフェン(120mg)10cm×14cm貼付剤、ケトプロフェン(20mg)7cm×10cm貼付剤、ケトプロフェン(30mg)10cm×14cm貼付剤、ケトプロフェン(40mg)10cm×14cm貼付剤、ケトプロフェン50mg坐剤、ケトプロフェン50mg注射液、ケトプロフェンテープ20mg、ケトプロフェンテープ20mg「BMD」 7cm×10cm、ケトプロフェンテープ20mg「SN」 7cm×10cm、ケトプロフェンテープ20mg「トーワ」 7cm×10cm、ケトプロフェンテープ20mg「パテル」 7cm×10cm、ケトプロフェンテープ20mg「ラクール」 7cm×10cm、ケトプロフェンテープ20mg「三和」 7cm×10cm、ケトプロフェンテープ20mg「日医工」 7cm×10cm、ケトプロフェンテープ20mg「杏林」 7cm×10cm、ケトプロフェンテープ20mg「東光」 7cm×10cm、ケトプロフェンテープ40mg、ケトプロフェンテープ40mg「BMD」 10cm×14cm、ケトプロフェンテープ40mg「SN」 10cm×14cm、ケトプロフェンテープ40mg「テイコク」 10cm×14cm、ケトプロフェンテープ40mg「トーワ」 10cm×14cm、ケトプロフェンテープ40mg「パテル」 10cm×14cm、ケトプロフェンテープ40mg「ラクール」 10cm×14cm、ケトプロフェンテープ40mg「三和」 10cm×14cm、ケトプロフェンテープ40mg「日医工」 10cm×14cm、ケトプロフェンテープ40mg「杏林」 10cm×14cm、ケトプロフェンテープ40mg「東光」 10cm×14cm、ケトプロフェンテープS20mg「テイコク」 7cm×10cm、ケトプロフェンパップ120mg、ケトプロフェンパップ30mg、ケトプロフェンパップ30mg「ラクール」 10cm×14cm、ケトプロフェンパップ30mg「三和」 10cm×14cm、ケトプロフェンパップ30mg「日医工」 10cm×14cm、ケトプロフェンパップXR120mg「テイコク」 10×14cm、ケトプロフェン坐剤50mg、ケトプロフェン坐剤50mg「JG」
+<!-- brand-names:end -->
 

@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 59
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Carbamazepine：予測新適応症は三叉神経腫瘍 (trigeminal nerve neoplasm)（エビデンスレベル L4）。既存適応症：躁病、躁うつ病の躁状態、統合失調症、三叉神経痛（鎮痛薬・抗てんかん薬）"
 monitor_inn: "Carbamazepine"
 predicted_indications: ["trigeminal nerve neoplasm", "startle epilepsy", "thinking seizures", "orgasm-induced seizures", "eating seizures", "micturation-induced seizures", "audiogenic seizures", "reading seizures", "beta-ketothiolase deficiency", "Rett syndrome, congenital variant"]
+last_modified_at: 2026-10-17
+description: "Carbamazepine：予測新適応症は三叉神経腫瘍 (trigeminal nerve neoplasm)（エビデンスレベル L4）。既存適応症：躁病、躁うつ病の躁状態、統合失調症、三叉神経痛（鎮痛薬・抗てんかん薬）"
 ---
 
 # Carbamazepine
@@ -116,4 +116,12 @@ TxGNN モデルは**三叉神経腫瘍 (trigeminal nerve neoplasm)** に有効�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+カルバマゼピン、テグレトール、カルバマゼピン100mg錠、カルバマゼピン細粒50%「アメル」、カルバマゼピン細粒50%「フジナガ」、カルバマゼピン錠100mg「アメル」、カルバマゼピン錠100mg「フジナガ」、カルバマゼピン錠200mg「アメル」、カルバマゼピン錠200mg「フジナガ」、テグレトール細粒50%、テグレトール錠100mg、テグレトール錠100mg(選)、テグレトール錠200mg
+<!-- brand-names:end -->
 

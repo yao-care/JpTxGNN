@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 184
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
-description: "Levodopa：予測新適応症はラスムッセン亜急性脳炎 (Rasmussen subacute encephalitis)（エビデンスレベル L5）。既存適応症：パーキンソン病"
 monitor_inn: "Levodopa"
 predicted_indications: ["Rasmussen subacute encephalitis"]
+last_modified_at: 2026-10-17
+description: "Levodopa：予測新適応症はラスムッセン亜急性脳炎 (Rasmussen subacute encephalitis)（エビデンスレベル L5）。既存適応症：パーキンソン病"
 ---
 
 # Levodopa
@@ -105,4 +105,12 @@ TxGNN のスコアは高い（0.99）ものの、計算上の予測にすぎま�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+スタレボ配合錠L100、スタレボ配合錠L50、マドパー配合錠、マドパー配合錠L100、マドパー配合錠L50
+<!-- brand-names:end -->
 

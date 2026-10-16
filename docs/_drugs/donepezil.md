@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 99
 evidence_level: L3
 indication_count: 8
-last_modified_at: 2026-10-15
-description: "Donepezil：予測新適応症は慢性チック症 (Chronic Tic Disorder)（エビデンスレベル L3）。既存適応症：アルツハイマー型認知症、レビー小体型認知症"
 monitor_inn: "Donepezil"
 predicted_indications: ["psychogenic movement disorders", "chronic tic disorder", "primary orthostatic tremor", "benign shuddering attacks", "extrapyramidal and movement disease", "tremor-nystagmus-duodenal ulcer syndrome", "benign paroxysmal tonic upgaze of childhood with ataxia", "lingual-facial-buccal dyskinesia"]
+last_modified_at: 2026-10-17
+description: "Donepezil：予測新適応症は慢性チック症 (Chronic Tic Disorder)（エビデンスレベル L3）。既存適応症：アルツハイマー型認知症、レビー小体型認知症"
 ---
 
 # Donepezil
@@ -121,4 +121,12 @@ TxGNN モデルの予測スコア第 1 位は**心因性運動障害 (Psychogeni
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+アリセプト、ドネペジル塩酸塩、アリセプトD錠10mg、アリセプトD錠10mg(選)、アリセプトD錠3mg、アリセプトD錠3mg(選)、アリセプトD錠5mg、アリセプトD錠5mg(選)、アリセプトドライシロップ1%、アリセプト内服ゼリー10mg、アリセプト内服ゼリー3mg、アリセプト内服ゼリー3mg(選)、アリセプト内服ゼリー5mg、アリセプト細粒0.5%、アリセプト細粒0.5%(選)、アリセプト錠10mg、アリセプト錠10mg(選)、アリセプト錠3mg、アリセプト錠3mg(選)、アリセプト錠5mg、アリセプト錠5mg(選)、ドネペジル塩酸塩0.5%細粒、ドネペジル塩酸塩10mg5mL液、ドネペジル塩酸塩10mg口腔内崩壊錠、ドネペジル塩酸塩10mg錠、ドネペジル塩酸塩3mg1.5mL液、ドネペジル塩酸塩3mg口腔内崩壊錠、ドネペジル塩酸塩3mg錠、ドネペジル塩酸塩5mg2.5mL液、ドネペジル塩酸塩5mg口腔内崩壊錠、ドネペジル塩酸塩5mg錠、ドネペジル塩酸塩OD錠10mg「DSEP」、ドネペジル塩酸塩OD錠10mg「FFP」、ドネペジル塩酸塩OD錠10mg「NP」、ドネペジル塩酸塩OD錠10mg「TCK」、ドネペジル塩酸塩OD錠10mg「YD」、ドネペジル塩酸塩OD錠10mg「ZE」、ドネペジル塩酸塩OD錠10mg「アメル」、ドネペジル塩酸塩OD錠10mg「オーハラ」、ドネペジル塩酸塩OD錠10mg「クニヒロ」
+<!-- brand-names:end -->
 

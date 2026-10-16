@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 21
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Alprazolam：予測新適応症は不眠症 (Insomnia)（エビデンスレベル L4）。既存適応症：抗不安薬、マイナートランキライザー、催眠鎮静薬"
 monitor_inn: "Alprazolam"
 predicted_indications: ["insomnia (disease)", "benign paroxysmal torticollis of infancy", "agoraphobia", "attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "obsessive-compulsive disorder", "chondromyxoid fibroma", "specific developmental disorder", "faciodigitogenital syndrome", "phobic disorder"]
+last_modified_at: 2026-10-17
+description: "Alprazolam：予測新適応症は不眠症 (Insomnia)（エビデンスレベル L4）。既存適応症：抗不安薬、マイナートランキライザー、催眠鎮静薬"
 ---
 
 # Alprazolam
@@ -123,4 +123,12 @@ TxGNN モデルは**不眠症 (insomnia)** に有効である可能性を予測�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+アルプラゾラム、コンスタン、ソラナックス、アルプラゾラム0.4mg錠、アルプラゾラム0.8mg錠、アルプラゾラム錠0.4mg「アメル」、アルプラゾラム錠0.4mg「サワイ」、アルプラゾラム錠0.4mg「トーワ」、アルプラゾラム錠0.8mg「アメル」、アルプラゾラム錠0.8mg「サワイ」、アルプラゾラム錠0.8mg「トーワ」、コンスタン0.4mg錠、コンスタン0.4mg錠(選)、コンスタン0.8mg錠、ソラナックス0.4mg錠、ソラナックス0.4mg錠(選)、ソラナックス0.8mg錠
+<!-- brand-names:end -->
 

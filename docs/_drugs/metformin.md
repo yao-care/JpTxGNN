@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 204
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Metformin：予測新適応症は焦点性スティッフリム症候群 (focal stiff limb syndrome)（エビデンスレベル L5）。既存適応症：2型糖尿病、多嚢胞性卵巣症候群"
 monitor_inn: "Metformin"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "pancreatic agenesis", "idiopathic localized lipodystrophy", "homozygous familial hypercholesterolemia"]
+last_modified_at: 2026-10-17
+description: "Metformin：予測新適応症は焦点性スティッフリム症候群 (focal stiff limb syndrome)（エビデンスレベル L5）。既存適応症：2型糖尿病、多嚢胞性卵巣症候群"
 ---
 
 # Metformin
@@ -109,4 +109,12 @@ TxGNN モデルは**焦点性スティッフリム症候群 (focal stiff limb sy
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+グリコラン、メトグルコ、メトホルミン塩酸塩、グリコラン錠250mg、メトグルコ錠250mg、メトグルコ錠500mg、メトホルミン塩酸塩250mgMT錠、メトホルミン塩酸塩500mgMT錠、メトホルミン塩酸塩錠250mgMT「DSEP」、メトホルミン塩酸塩錠250mgMT「DSPB」、メトホルミン塩酸塩錠250mgMT「JG」、メトホルミン塩酸塩錠250mgMT「TCK」、メトホルミン塩酸塩錠250mgMT「TE」、メトホルミン塩酸塩錠250mgMT「トーワ」、メトホルミン塩酸塩錠250mgMT「ニプロ」、メトホルミン塩酸塩錠250mgMT「三和」、メトホルミン塩酸塩錠250mgMT「日医工」、メトホルミン塩酸塩錠250mgMT「明治」、メトホルミン塩酸塩錠250mg「SN」、メトホルミン塩酸塩錠500mgMT「DSEP」、メトホルミン塩酸塩錠500mgMT「DSPB」、メトホルミン塩酸塩錠500mgMT「JG」、メトホルミン塩酸塩錠500mgMT「TCK」、メトホルミン塩酸塩錠500mgMT「TE」、メトホルミン塩酸塩錠500mgMT「トーワ」、メトホルミン塩酸塩錠500mgMT「ニプロ」、メトホルミン塩酸塩錠500mgMT「三和」、メトホルミン塩酸塩錠500mgMT「日医工」、メトホルミン塩酸塩錠500mgMT「明治」
+<!-- brand-names:end -->
 

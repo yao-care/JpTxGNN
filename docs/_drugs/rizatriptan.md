@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 270
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-10-15
-description: "Rizatriptan：予測新適応症は脳幹性前兆を伴う片頭痛 (Migraine with Brainstem Aura)（エビデンスレベル L4）。既存適応症：抗片頭痛薬、血管収縮薬、セロトニン受容体作動薬"
 monitor_inn: "rizatriptan"
 predicted_indications: ["migraine with brainstem aura", "atrophoderma vermiculata"]
+last_modified_at: 2026-10-17
+description: "Rizatriptan：予測新適応症は脳幹性前兆を伴う片頭痛 (Migraine with Brainstem Aura)（エビデンスレベル L4）。既存適応症：抗片頭痛薬、血管収縮薬、セロトニン受容体作動薬"
 ---
 
 # Rizatriptan
@@ -135,4 +135,12 @@ TxGNN モデルは**脳幹性前兆を伴う片頭痛 (Migraine with Brainstem A
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+マクサルトRPD錠10mg、マクサルトRPD錠10mg(選)、マクサルト錠10mg、リザトリプタンOD錠10mg「TCK」、リザトリプタンOD錠10mg「VTRS」、リザトリプタンOD錠10mg「トーワ」、リザトリプタン安息香酸塩10mg口腔内崩壊錠
+<!-- brand-names:end -->
 

@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 185
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Levofloxacin：予測新適応症は点状表層角結膜炎 (punctate epithelial keratoconjunctivitis)（エビデンスレベル L4）。既存適応症：抗菌薬（核酸合成阻害薬）：眼瞼炎、結膜炎、肺炎マイコプラズマ、胆嚢炎、腸チフス、パラチフス、コレラ、歯周組織炎、炭疽、ブルセラ症、ペスト…"
 monitor_inn: "Levofloxacin"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder"]
+last_modified_at: 2026-10-17
+description: "Levofloxacin：予測新適応症は点状表層角結膜炎 (punctate epithelial keratoconjunctivitis)（エビデンスレベル L4）。既存適応症：抗菌薬（核酸合成阻害薬）：眼瞼炎、結膜炎、肺炎マイコプラズマ、胆嚢炎、腸チフス、パラチフス、コレラ、歯周組織炎、炭疽、ブルセラ症、ペスト…"
 ---
 
 # Levofloxacin
@@ -117,4 +117,12 @@ TxGNN モデルは **点状表層角結膜炎 (punctate epithelial keratoconjunc
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+クラビット、コムレクス、レボフロキサシン、クラビット点滴静注500mg/20mL、クラビット点滴静注500mg/20mL(選)、クラビット点滴静注バッグ500mg/100mL、クラビット点滴静注バッグ500mg/100mL(選)、クラビット点眼液0.5%、クラビット点眼液0.5%(選)、クラビット点眼液1.5%、クラビット点眼液1.5%(選)、クラビット細粒10% 100mg(レボフロキサシンとして)、クラビット細粒10% 100mg(レボフロキサシンとして)(選)、クラビット錠250mg (レボフロキサシンとして)、クラビット錠500mg (レボフロキサシンとして)、クラビット錠500mg (レボフロキサシンとして)(選)、レボフロキサシン0.5%1mL点眼液、レボフロキサシン1.5%1mL点眼液、レボフロキサシン500mg錠 (レボフロキサシンとして)、レボフロキサシンOD錠250mgトーワ(レボフロキサシンとして)、レボフロキサシン内用液250mgトーワ10mLレボフロキサシン、レボフロキサシン口腔内崩壊錠250mg、レボフロキサシン点滴静注500mg/20mL「DSEP」、レボフロキサシン点滴静注バッグ500mg/100mL「DSEP」、レボフロキサシン点滴静注バッグ500mg「HK」 100mL、レボフロキサシン点滴静注バッグ500mg「KCC」 100mL、レボフロキサシン点滴静注バッグ500mg「タカタ」 100mL、レボフロキサシン点滴静注バッグ500mg「ニプロ」 100mL、レボフロキサシン点眼液0.5%「FFP」、レボフロキサシン点眼液0.5%「JG」、レボフロキサシン点眼液0.5%「TS」、レボフロキサシン点眼液0.5%「VTRS」、レボフロキサシン点眼液0.5%「わかもと」、レボフロキサシン点眼液0.5%「タカタ」、レボフロキサシン点眼液0.5%「ニットー」、レボフロキサシン点眼液0.5%「ニプロ」、レボフロキサシン点眼液0.5%「日医工」、レボフロキサシン点眼液0.5%「日新」、レボフロキサシン点眼液0.5%「日点」、レボフロキサシン点眼液0.5%「杏林」
+<!-- brand-names:end -->
 

@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 91
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Dextromethorphan：予測新適応症は鼻腔疾患 (nasal cavity disease)（エビデンスレベル L5）。既存適応症：鎮咳薬（気管支拡張症）"
 monitor_inn: "Dextromethorphan"
 predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "faucial diphtheria", "trigeminal autonomic cephalalgia", "cervical disc degenerative disorder", "allergic urticaria", "tracheal disease", "massive neonatal aspiration syndrome", "respiratory syncytial virus bronchiolitis", "hantavirus infectious disease"]
+last_modified_at: 2026-10-17
+description: "Dextromethorphan：予測新適応症は鼻腔疾患 (nasal cavity disease)（エビデンスレベル L5）。既存適応症：鎮咳薬（気管支拡張症）"
 ---
 
 # Dextromethorphan
@@ -102,4 +102,12 @@ TxGNN モデルは**鼻腔疾患 (nasal cavity disease)** に有効である可�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+デキストロメトルファン臭化水素酸塩、メジコン、デキストロメトルファン臭化水素酸塩細粒10%「ツルハラ」、デキストロメトルファン臭化水素酸塩錠15mg「NP」、デキストロメトルファン臭化水素酸塩錠15mg「ツルハラ」、デキストロメトルファン臭化水素酸塩錠15mg「トーワ」、メジコン散10%、メジコン配合シロップ、メジコン錠15mg
+<!-- brand-names:end -->
 

@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 229
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Oseltamivir：予測新適応症は腎盂腎炎 (Pyelonephritis)（エビデンスレベル L5）。既存適応症：抗ウイルス薬、ノイラミニダーゼ阻害薬"
 monitor_inn: "Oseltamivir"
 predicted_indications: ["pyelonephritis", "disorder of tyrosine metabolism", "teratogenic Pierre Robin syndrome", "disorder of phenylalanine metabolism", "tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuria", "staphylococcus aureus infection", "cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency", "pneumonia", "streptococcal pneumonia", "aspergillosis, susceptibility to"]
+last_modified_at: 2026-10-17
+description: "Oseltamivir：予測新適応症は腎盂腎炎 (Pyelonephritis)（エビデンスレベル L5）。既存適応症：抗ウイルス薬、ノイラミニダーゼ阻害薬"
 ---
 
 # Oseltamivir
@@ -114,4 +114,12 @@ TxGNN モデルは**腎盂腎炎 (Pyelonephritis)** に有効である可能性�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+オセルタミビルDS3%「サワイ」、オセルタミビルDS3%「トーワ」、オセルタミビルカプセル75mg「サワイ」、オセルタミビル錠75mg「トーワ」、タミフルカプセル75 75mg、タミフルカプセル75 75mg(選)、タミフルドライシロップ3%、タミフルドライシロップ3%(選)
+<!-- brand-names:end -->
 

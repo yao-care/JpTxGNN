@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 34
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Axitinib：予測新適応症は未分類腎細胞癌 (Unclassified Renal Cell Carcinoma)（エビデンスレベル L5）。既存適応症：腎細胞癌（淡明細胞型腎細胞癌、非乳頭状腎細胞癌など）"
 monitor_inn: "Axitinib"
 predicted_indications: ["unclassified renal cell carcinoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "renal cell carcinoma associated with neuroblastoma", "childhood kidney cell carcinoma", "liposarcoma", "renal carcinoma", "ovarian myxoid liposarcoma", "angiolipoma", "collecting duct carcinoma", "familial spontaneous pneumothorax"]
+last_modified_at: 2026-10-17
+description: "Axitinib：予測新適応症は未分類腎細胞癌 (Unclassified Renal Cell Carcinoma)（エビデンスレベル L5）。既存適応症：腎細胞癌（淡明細胞型腎細胞癌、非乳頭状腎細胞癌など）"
 ---
 
 # Axitinib
@@ -123,4 +123,12 @@ TxGNN モデルは **未分類腎細胞癌 (unclassified renal cell carcinoma)**
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+インライタ錠1mg、インライタ錠5mg
+<!-- brand-names:end -->
 

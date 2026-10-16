@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 78
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Codeine：予測新適応症は鼻腔疾患 (nasal cavity disease)（エビデンスレベル L4）。既存適応症：麻薬性鎮痛薬、鎮咳薬、オピオイド受容体作動薬"
 monitor_inn: "Codeine"
 predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "trigeminal autonomic cephalalgia", "allergic urticaria", "faucial diphtheria", "cervical disc degenerative disorder", "papillary conjunctivitis", "tracheal disease", "cold urticaria", "bronchial disease"]
+last_modified_at: 2026-10-17
+description: "Codeine：予測新適応症は鼻腔疾患 (nasal cavity disease)（エビデンスレベル L4）。既存適応症：麻薬性鎮痛薬、鎮咳薬、オピオイド受容体作動薬"
 ---
 
 # Codeine
@@ -110,4 +110,12 @@ TxGNN モデルは**鼻腔疾患 (nasal cavity disease)** に有効である可�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+コデインリン酸塩、コデインリン酸塩水和物、ジヒドロコデインリン酸塩、クロフェドリンS配合シロップ、コデインリン酸塩散1%、コデインリン酸塩散1%〈ハチ〉、コデインリン酸塩散1%「シオエ」、コデインリン酸塩散1%「フソー」、コデインリン酸塩散1%「ホエイ」、コデインリン酸塩散1%「メタル」、コデインリン酸塩散10%、コデインリン酸塩散10%「タケダ」、コデインリン酸塩散10%「第一三共」、コデインリン酸塩水和物「タケダ」原末、コデインリン酸塩水和物「第一三共」原末、コデインリン酸塩錠 20mg、コデインリン酸塩錠 5mg、コデインリン酸塩錠20mg「タケダ」、コデインリン酸塩錠20mg「第一三共」、コデインリン酸塩錠5mg「VTRS」、コデインリン酸塩錠5mg「シオエ」、ジヒドロコデイン dl メチルエフェドリン等配合シロップ、ジヒドロコデインリン酸塩「タケダ」原末、ジヒドロコデインリン酸塩「第一三共」原末、ジヒドロコデインリン酸塩散1%、ジヒドロコデインリン酸塩散1%〈ハチ〉、ジヒドロコデインリン酸塩散1%「ホエイ」、ジヒドロコデインリン酸塩散1%「メタル」、ジヒドロコデインリン酸塩散10%、ジヒドロコデインリン酸塩散10%「タケダ」、ジヒドロコデインリン酸塩散10%「第一三共」、フスコデ配合シロップ、ムコブロチン配合シロップ、ライトゲン配合シロップ
+<!-- brand-names:end -->
 

@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 258
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Propranolol：予測新適応症は遠位型ミオパチー・舘山型 (distal myopathy, Tateyama type)（エビデンスレベル L5）。既存適応症：本態性高血圧症、狭心症、期外収縮、頻拍性心房細動、新鮮心房細動、乳児血管腫"
 monitor_inn: "Propranolol"
 predicted_indications: ["distal myopathy, Tateyama type", "congenital myopathy with excess of thin filaments", "hypertrophic cardiomyopathy due to intensive athletic training", "chondroma", "cirrhotic cardiomyopathy", "cardiomyopathy", "intramuscular hemangioma", "Maffucci syndrome", "breast epithelioid hemangioma", "breast capillary hemangioma"]
+last_modified_at: 2026-10-17
+description: "Propranolol：予測新適応症は遠位型ミオパチー・舘山型 (distal myopathy, Tateyama type)（エビデンスレベル L5）。既存適応症：本態性高血圧症、狭心症、期外収縮、頻拍性心房細動、新鮮心房細動、乳児血管腫"
 ---
 
 # Propranolol
@@ -124,4 +124,12 @@ TxGNN モデルは**遠位型ミオパチー（舘山型）(distal myopathy, Tat
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+インデラル、プロプラノロール塩酸塩、ヘマンジオル、インデラル注射液2mg 0.1%2mL、インデラル錠10mg、インデラル錠10mg(選)、プロプラノロール塩酸塩10mg錠、プロプラノロール塩酸塩徐放カプセル60mg「サワイ」、プロプラノロール塩酸塩錠10mg「ツルハラ」、プロプラノロール塩酸塩錠10mg「トーワ」、プロプラノロール塩酸塩錠10mg「日医工」
+<!-- brand-names:end -->
 

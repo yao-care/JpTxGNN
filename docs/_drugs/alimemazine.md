@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 19
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-15
-description: "Alimemazine：予測新適応症はアレルギー性蕁麻疹 (allergic urticaria)（エビデンスレベル L5）。既存適応症：血管性浮腫、アレルギー性鼻炎、血管運動性鼻炎、咽頭炎、感冒、アトピー性結膜炎、蕁麻疹など"
 monitor_inn: "alimemazine"
 predicted_indications: ["allergic urticaria", "cold urticaria", "IgE responsiveness, atopic", "nasal cavity disease", "recalcitrant atopic dermatitis", "acute laryngopharyngitis"]
+last_modified_at: 2026-10-17
+description: "Alimemazine：予測新適応症はアレルギー性蕁麻疹 (allergic urticaria)（エビデンスレベル L5）。既存適応症：血管性浮腫、アレルギー性鼻炎、血管運動性鼻炎、咽頭炎、感冒、アトピー性結膜炎、蕁麻疹など"
 ---
 
 # Alimemazine
@@ -111,4 +111,12 @@ TxGNN モデルは**アレルギー性蕁麻疹 (allergic urticaria)** に有効
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+アリメジンシロップ0.05%
+<!-- brand-names:end -->
 

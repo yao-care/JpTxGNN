@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 214
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Montelukast：予測新適応症は気管支炎 (Bronchitis)（エビデンスレベル L3）。既存適応症：気管支喘息、アレルギー性鼻炎"
 monitor_inn: "Montelukast"
 predicted_indications: ["bronchitis", "atopic eczema", "asthma", "obstructive lung disease", "asthma-related traits, susceptibility to", "2-hydroxyethyl methacrylate sensitization", "uterine polyp", "polyp of vocal cord", "polyp of middle ear", "fibroepithelial polyp"]
+last_modified_at: 2026-10-17
+description: "Montelukast：予測新適応症は気管支炎 (Bronchitis)（エビデンスレベル L3）。既存適応症：気管支喘息、アレルギー性鼻炎"
 ---
 
 # Montelukast
@@ -129,4 +129,12 @@ TxGNN モデルは**気管支炎 (Bronchitis)** に有効である可能性を�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+キプレス、シングレア、モンテルカスト、キプレスOD錠10mg、キプレスOD錠10mg(選)、キプレスチュアブル錠5mg、キプレスチュアブル錠5mg(選)、キプレス細粒4mg、キプレス細粒4mg(選)、キプレス錠10mg、キプレス錠10mg(選)、キプレス錠5mg、キプレス錠5mg(選)、シングレアOD錠10mg、シングレアOD錠10mg(選)、シングレアチュアブル錠5mg、シングレアチュアブル錠5mg(選)、シングレア細粒4mg、シングレア細粒4mg(選)、シングレア錠10mg、シングレア錠10mg(選)、シングレア錠5mg、シングレア錠5mg(選)、モンテルカストOD錠10mg「サワイ」、モンテルカストOD錠10mg「タカタ」、モンテルカストOD錠10mg「トーワ」、モンテルカストOD錠10mg「明治」、モンテルカストOD錠5mg「サワイ」、モンテルカストOD錠5mg「タカタ」、モンテルカストOD錠5mg「トーワ」、モンテルカストOD錠5mg「明治」、モンテルカストチュアブル錠5mg「DSEP」、モンテルカストチュアブル錠5mg「JG」、モンテルカストチュアブル錠5mg「TCK」、モンテルカストチュアブル錠5mg「YD」、モンテルカストチュアブル錠5mg「オーハラ」、モンテルカストチュアブル錠5mg「ケミファ」、モンテルカストチュアブル錠5mg「サワイ」、モンテルカストチュアブル錠5mg「サンド」、モンテルカストチュアブル錠5mg「タカタ」
+<!-- brand-names:end -->
 

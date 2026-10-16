@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 136
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
-description: "Fluconazole：予測新適応症は点状表層角結膜炎 (Punctate Epithelial Keratoconjunctivitis)（エビデンスレベル L5）。既存適応症：カンジダ症、クリプトコッカス症"
 monitor_inn: "Fluconazole"
 predicted_indications: ["punctate epithelial keratoconjunctivitis"]
+last_modified_at: 2026-10-17
+description: "Fluconazole：予測新適応症は点状表層角結膜炎 (Punctate Epithelial Keratoconjunctivitis)（エビデンスレベル L5）。既存適応症：カンジダ症、クリプトコッカス症"
 ---
 
 # Fluconazole
@@ -100,4 +100,12 @@ TxGNN モデルは**点状表層角結膜炎 (Punctate Epithelial Keratoconjunct
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ジフルカン、フルコナゾール、ジフルカンDS1400mg 40mg(懸濁後の内用液として)、ジフルカンカプセル100mg、ジフルカンカプセル50mg、ジフルカンドライシロップ350mg 10mg懸濁後の内用液として、フルコナゾール0.1%50mL注射液、フルコナゾール0.2%100mL注射液、フルコナゾール0.2%50mL注射液、フルコナゾールカプセル100mg「F」、フルコナゾールカプセル100mg「JG」、フルコナゾールカプセル100mg「アメル」、フルコナゾールカプセル100mg「サワイ」、フルコナゾールカプセル100mg「サンド」、フルコナゾールカプセル100mg「タカタ」、フルコナゾールカプセル50mg「F」、フルコナゾールカプセル50mg「JG」、フルコナゾールカプセル50mg「アメル」、フルコナゾールカプセル50mg「サワイ」、フルコナゾールカプセル50mg「サンド」、フルコナゾールカプセル50mg「タカタ」、フルコナゾール静注100mg「NP」 0.2%50mL、フルコナゾール静注100mg「トーワ」 0.2%50mL、フルコナゾール静注200mg「NP」 0.2%100mL、フルコナゾール静注200mg「トーワ」 0.2%100mL、フルコナゾール静注50mg「NP」 0.1%50mL、フルコナゾール静注50mg「トーワ」 0.1%50mL、フルコナゾール静注液100mg「F」 0.2%50mL、フルコナゾール静注液100mg「サワイ」 0.2%50mL、フルコナゾール静注液200mg「F」 0.2%100mL、フルコナゾール静注液200mg「サワイ」 0.2%100mL、フルコナゾール静注液50mg「F」 0.1%50mL、フルコナゾール静注液50mg「サワイ」 0.1%50mL
+<!-- brand-names:end -->
 

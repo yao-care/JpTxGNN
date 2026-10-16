@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 69
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Chlorpheniramine：予測新適応症はアレルギー性蕁麻疹 (Allergic Urticaria)（エビデンスレベル L4）。既存適応症：抗アレルギー薬、H1 受容体拮抗薬（アレルギー性鼻炎）"
 monitor_inn: "Chlorpheniramine"
 predicted_indications: ["allergic urticaria", "nasal cavity disease", "acute laryngopharyngitis", "cold urticaria", "rosacea conjunctivitis", "headache disorder", "recalcitrant atopic dermatitis", "trigeminal autonomic cephalalgia", "IgE responsiveness, atopic", "rhinitis"]
+last_modified_at: 2026-10-17
+description: "Chlorpheniramine：予測新適応症はアレルギー性蕁麻疹 (Allergic Urticaria)（エビデンスレベル L4）。既存適応症：抗アレルギー薬、H1 受容体拮抗薬（アレルギー性鼻炎）"
 ---
 
 # Chlorpheniramine
@@ -121,4 +121,12 @@ TxGNN モデルは**アレルギー性蕁麻疹 (Allergic Urticaria)** に有効
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+アレルギン、クロルフェニラミンマレイン酸塩、ネオレスタミン、ネオレスタール、ビスミラー、d−クロルフェニラミンマレイン酸塩シロップ0.04%「ツルハラ」、d−クロルフェニラミンマレイン酸塩シロップ0.04%「トーワ」、d−クロルフェニラミンマレイン酸塩シロップ0.04%「日新」、d−クロルフェニラミンマレイン酸塩錠2mg「NIG」、エンペラシン配合錠、クロルフェニラミンマレイン酸塩散 1%、クロルフェニラミンマレイン酸塩散1%「ホエイ」、クロルフェニラミンマレイン酸塩散1%「日医工」、クロルフェニラミンマレイン酸塩注射液 0.2%1mL、クロルフェニラミンマレイン酸塩注射液 0.5%1mL、クロルフェニラミンマレイン酸塩注射液 1%1mL、クロルフェニラミンマレイン酸塩錠 2mg、クロルフェニラミンマレイン酸塩錠 4mg、サクコルチン配合錠、セレスタミン配合錠、セレスタミン配合錠(選)、ヒスタブロック配合錠、プラデスミン配合錠、ベタセレミン配合錠、ポララミンシロップ0.04%、ポララミンシロップ0.04%(選)、ポララミンドライシロップ0.2%、ポララミン散1%、ポララミン注5mg 0.5%1mL、ポララミン錠2mg
+<!-- brand-names:end -->
 

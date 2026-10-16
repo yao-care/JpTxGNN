@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 245
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
-description: "Pilocarpine：予測新適応症は原発性遺伝性緑内障 (Primary Hereditary Glaucoma)（エビデンスレベル L5）。既存適応症：緑内障、シェーグレン症候群"
 monitor_inn: "Pilocarpine"
 predicted_indications: ["primary hereditary glaucoma"]
+last_modified_at: 2026-10-17
+description: "Pilocarpine：予測新適応症は原発性遺伝性緑内障 (Primary Hereditary Glaucoma)（エビデンスレベル L5）。既存適応症：緑内障、シェーグレン症候群"
 ---
 
 # Pilocarpine
@@ -100,4 +100,12 @@ TxGNN モデルは**原発性遺伝性緑内障 (Primary Hereditary Glaucoma)** 
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+サラジェン、サンピロ、ピロカルピンエン、ピロカルピン塩酸塩
+<!-- brand-names:end -->
 

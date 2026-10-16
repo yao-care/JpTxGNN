@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 328
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-15
-description: "Upadacitinib：予測新適応症はcolobomatous microphthalmia-rhizomelic dysplasia syndrome（エビデンスレベル L5）。既存適応症：関節リウマチ"
 monitor_inn: "Upadacitinib"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
+last_modified_at: 2026-10-17
+description: "Upadacitinib：予測新適応症はcolobomatous microphthalmia-rhizomelic dysplasia syndrome（エビデンスレベル L5）。既存適応症：関節リウマチ"
 ---
 
 # Upadacitinib
@@ -97,4 +97,12 @@ TxGNN モデルは **colobomatous microphthalmia-rhizomelic dysplasia syndrome�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+リンヴォック錠15mg、リンヴォック錠30mg、リンヴォック錠45mg、リンヴォック錠7.5mg
+<!-- brand-names:end -->
 

@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 70
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Ciprofloxacin：予測新適応症はびまん性強皮症 (Diffuse Scleroderma)（エビデンスレベル L4）。既存適応症：腸チフス、サルモネラ症、細菌性肺炎、緑膿菌感染症、炭疽など"
 monitor_inn: "Ciprofloxacin"
 predicted_indications: ["diffuse scleroderma", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "punctate epithelial keratoconjunctivitis", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
+last_modified_at: 2026-10-17
+description: "Ciprofloxacin：予測新適応症はびまん性強皮症 (Diffuse Scleroderma)（エビデンスレベル L4）。既存適応症：腸チフス、サルモネラ症、細菌性肺炎、緑膿菌感染症、炭疽など"
 ---
 
 # Ciprofloxacin
@@ -114,4 +114,12 @@ TxGNN モデルは**びまん性強皮症 (Diffuse Scleroderma)** に有効で�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+シプロフロキサシン200mg100mL注射液、シプロフロキサシン400mg200mL注射液、シプロフロキサシン点滴静注液200mg「NP」 100mL、シプロフロキサシン点滴静注液400mg「ニプロ」 200mL
+<!-- brand-names:end -->
 

@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 38
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-15
-description: "Baricitinib：予測新適応症はコロボーマ性小眼球症-根性肢異形成症候群 (colobomatous microphthalmia-rhizomelic dysplasi…（エビデンスレベル L5）。既存適応症：関節リウマチ"
 monitor_inn: "Baricitinib"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
+last_modified_at: 2026-10-17
+description: "Baricitinib：予測新適応症はコロボーマ性小眼球症-根性肢異形成症候群 (colobomatous microphthalmia-rhizomelic dysplasi…（エビデンスレベル L5）。既存適応症：関節リウマチ"
 ---
 
 # Baricitinib
@@ -98,4 +98,12 @@ TxGNN のスコアは高い値ですが、これは計算上の予測にすぎ�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+オルミエント錠1mg、オルミエント錠2mg、オルミエント錠4mg
+<!-- brand-names:end -->
 

@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 36
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Azithromycin：予測新適応症は高アミラーゼ血症 (Hyperamylasemia)（エビデンスレベル L5）。既存適応症：歯周組織炎、MAC症、結膜炎、眼瞼炎"
 monitor_inn: "Azithromycin"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "punctate epithelial keratoconjunctivitis", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder"]
+last_modified_at: 2026-10-17
+description: "Azithromycin：予測新適応症は高アミラーゼ血症 (Hyperamylasemia)（エビデンスレベル L5）。既存適応症：歯周組織炎、MAC症、結膜炎、眼瞼炎"
 ---
 
 # Azithromycin
@@ -108,4 +108,12 @@ TxGNN モデルは**高アミラーゼ血症 (Hyperamylasemia)** に有効であ
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+アジスロマイシン、アジマイシン、ジスロマック、アジスロマイシン小児用細粒10%「タカタ」 100mg、アジスロマイシン小児用錠100mg「タカタ」、アジスロマイシン細粒小児用10%「トーワ」 100mg、アジスロマイシン錠250mg「DSEP」、アジスロマイシン錠250mg「サワイ」、アジスロマイシン錠250mg「タカタ」、アジスロマイシン錠250mg「トーワ」、アジスロマイシン錠500mg「トーワ」、ジスロマックカプセル小児用100mg、ジスロマック点滴静注用500mg、ジスロマック細粒小児用10% 100mg、ジスロマック細粒小児用10% 100mg(選)、ジスロマック錠250mg、ジスロマック錠250mg(選)、ジスロマック錠600mg
+<!-- brand-names:end -->
 

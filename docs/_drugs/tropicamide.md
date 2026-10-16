@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 326
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-15
-description: "Tropicamide：予測新適応症は馬尾症候群 (Cauda Equina Syndrome)（エビデンスレベル L5）。既存適応症：散瞳薬、ムスカリン受容体拮抗薬"
 monitor_inn: "Tropicamide"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome"]
+last_modified_at: 2026-10-17
+description: "Tropicamide：予測新適応症は馬尾症候群 (Cauda Equina Syndrome)（エビデンスレベル L5）。既存適応症：散瞳薬、ムスカリン受容体拮抗薬"
 ---
 
 # Tropicamide
@@ -104,4 +104,12 @@ TxGNN モデルは**馬尾症候群 (Cauda Equina Syndrome)** に有効である
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+トロピカミド、ミドリン、トロピカミド点眼液0.4%「日点」、ミドリンM点眼液0.4%、ミドリンM点眼液0.4%(選)、ミドリンP点眼液
+<!-- brand-names:end -->
 

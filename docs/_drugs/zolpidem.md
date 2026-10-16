@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 346
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Zolpidem：予測新適応症は睡眠障害（入眠・睡眠維持障害）(sleep disorder, initiating and maintaining sleep)（エビデンスレベル L5）。既存適応症：不眠症（催眠鎮静薬）"
 monitor_inn: "Zolpidem"
 predicted_indications: ["sleep disorder, initiating and maintaining sleep", "benign paroxysmal torticollis of infancy", "agoraphobia", "acute encephalopathy with biphasic seizures and late reduced diffusion", "Wernicke-Korsakoff syndrome", "manic bipolar affective disorder", "alcohol withdrawal", "major affective disorder", "anxiety", "epilepsy, childhood absence, susceptibility to"]
+last_modified_at: 2026-10-17
+description: "Zolpidem：予測新適応症は睡眠障害（入眠・睡眠維持障害）(sleep disorder, initiating and maintaining sleep)（エビデンスレベル L5）。既存適応症：不眠症（催眠鎮静薬）"
 ---
 
 # Zolpidem
@@ -129,4 +129,12 @@ TxGNN は他にも候補を予測していますが、いずれも直接の支�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ゾルピデム酒石酸塩、マイスリー、ゾルピデム酒石酸塩10mg錠、ゾルピデム酒石酸塩5mg口腔内崩壊錠、ゾルピデム酒石酸塩5mg錠、ゾルピデム酒石酸塩ODフィルム10mg「モチダ」、ゾルピデム酒石酸塩ODフィルム5mg「モチダ」、ゾルピデム酒石酸塩OD錠10mg「サワイ」、ゾルピデム酒石酸塩OD錠10mg「トーワ」、ゾルピデム酒石酸塩OD錠10mg「日医工」、ゾルピデム酒石酸塩OD錠5mg「サワイ」、ゾルピデム酒石酸塩OD錠5mg「トーワ」、ゾルピデム酒石酸塩OD錠5mg「日医工」、ゾルピデム酒石酸塩内用液10mg「タカタ」 2mL、ゾルピデム酒石酸塩内用液5mg「タカタ」 1mL、ゾルピデム酒石酸塩錠10mg「AFP」、ゾルピデム酒石酸塩錠10mg「DSEP」、ゾルピデム酒石酸塩錠10mg「JG」、ゾルピデム酒石酸塩錠10mg「KMP」、ゾルピデム酒石酸塩錠10mg「NIG」、ゾルピデム酒石酸塩錠10mg「NPI」、ゾルピデム酒石酸塩錠10mg「NP」、ゾルピデム酒石酸塩錠10mg「TCK」、ゾルピデム酒石酸塩錠10mg「YD」、ゾルピデム酒石酸塩錠10mg「ZE」、ゾルピデム酒石酸塩錠10mg「アメル」、ゾルピデム酒石酸塩錠10mg「オーハラ」、ゾルピデム酒石酸塩錠10mg「クニヒロ」、ゾルピデム酒石酸塩錠10mg「ケミファ」、ゾルピデム酒石酸塩錠10mg「サワイ」、ゾルピデム酒石酸塩錠10mg「サンド」、ゾルピデム酒石酸塩錠10mg「タカタ」、ゾルピデム酒石酸塩錠10mg「トーワ」、ゾルピデム酒石酸塩錠10mg「日医工」、ゾルピデム酒石酸塩錠10mg「日新」、ゾルピデム酒石酸塩錠10mg「明治」、ゾルピデム酒石酸塩錠10mg「杏林」、ゾルピデム酒石酸塩錠5mg「AFP」、ゾルピデム酒石酸塩錠5mg「DSEP」、ゾルピデム酒石酸塩錠5mg「JG」
+<!-- brand-names:end -->
 

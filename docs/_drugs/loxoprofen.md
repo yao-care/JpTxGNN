@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 197
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Loxoprofen：予測新適応症はコロボーマ性小眼球症－根肢近位型異形成症候群 (colobomatous microphthalmia-rhizomelic dyspla…（エビデンスレベル L5）。既存適応症：関節リウマチ"
 monitor_inn: "Loxoprofen"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "osteoarthritis susceptibility", "heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "WHIM syndrome"]
+last_modified_at: 2026-10-17
+description: "Loxoprofen：予測新適応症はコロボーマ性小眼球症－根肢近位型異形成症候群 (colobomatous microphthalmia-rhizomelic dyspla…（エビデンスレベル L5）。既存適応症：関節リウマチ"
 ---
 
 # Loxoprofen
@@ -92,4 +92,12 @@ TxGNN モデルは**コロボーマ性小眼球症－根肢近位型異形成症
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ロキソニン、ロキソプロフェン、ロキソプロフェンNa、ロキソプロフェンナトリウム、ロキソニンゲル1%、ロキソニンゲル1%(選)、ロキソニンテープ100mg 10cm×14cm、ロキソニンテープ50mg 7cm×10cm、ロキソニンパップ100mg 10cm×14cm、ロキソニン細粒10%、ロキソニン錠60mg、ロキソニン錠60mg(選)、ロキソプロフェンNaゲル1%「JG」、ロキソプロフェンNaゲル1%「NP」、ロキソプロフェンNaテープ100mg「DSEP」 10×14cm、ロキソプロフェンNaテープ100mg「FFP」 10×14cm、ロキソプロフェンNaテープ100mg「JG」 10cm×14cm、ロキソプロフェンNaテープ100mg「NP」 10cm×14cm、ロキソプロフェンNaテープ100mg「QQ」 10cm×14cm、ロキソプロフェンNaテープ100mg「TW」 10cm×14cm、ロキソプロフェンNaテープ100mg「YD」 10cm×14cm、ロキソプロフェンNaテープ100mg「タカタ」 10×14cm、ロキソプロフェンNaテープ100mg「トーワ」 10×14cm、ロキソプロフェンNaテープ100mg「ユートク」 10×14cm、ロキソプロフェンNaテープ100mg「ラクール」 10×14cm、ロキソプロフェンNaテープ100mg「三友」 10cm×14cm、ロキソプロフェンNaテープ100mg「三和」 10cm×14cm、ロキソプロフェンNaテープ100mg「三笠」 10cm×14cm、ロキソプロフェンNaテープ100mg「久光」 10cm×14cm、ロキソプロフェンNaテープ100mg「杏林」 10cm×14cm、ロキソプロフェンNaテープ100mg「科研」 10cm×14cm、ロキソプロフェンNaテープ100mgケミファ 10cm×14cm、ロキソプロフェンNaテープ100mgタイホウ 10cm×14cm、ロキソプロフェンNaテープ50mg「DSEP」 7cm×10cm、ロキソプロフェンNaテープ50mg「FFP」 7cm×10cm、ロキソプロフェンNaテープ50mg「JG」 7cm×10cm、ロキソプロフェンNaテープ50mg「NP」 7cm×10cm、ロキソプロフェンNaテープ50mg「QQ」 7cm×10cm、ロキソプロフェンNaテープ50mg「TW」 7cm×10cm、ロキソプロフェンNaテープ50mg「YD」 7cm×10cm
+<!-- brand-names:end -->
 

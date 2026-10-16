@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 262
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
-description: "Quinidine：予測新適応症は腎性抗利尿ホルモン不適合分泌症候群 (nephrogenic syndrome of inappropriate antidiuresis)（エビデンスレベル L5）。既存適応症：期外収縮、新鮮心房細動、発作性心房細動、心房粗動"
 monitor_inn: "Quinidine"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]
+last_modified_at: 2026-10-17
+description: "Quinidine：予測新適応症は腎性抗利尿ホルモン不適合分泌症候群 (nephrogenic syndrome of inappropriate antidiuresis)（エビデンスレベル L5）。既存適応症：期外収縮、新鮮心房細動、発作性心房細動、心房粗動"
 ---
 
 # Quinidine
@@ -102,4 +102,12 @@ TxGNN モデルは **腎性抗利尿ホルモン不適合分泌症候群 (nephro
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+キニジン硫酸塩、キニジン硫酸塩「VTRS」原末、キニジン硫酸塩水和物、キニジン硫酸塩錠100mg「VTRS」
+<!-- brand-names:end -->
 

@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 219
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-10-15
-description: "Naratriptan：予測新適応症は脳幹性前兆を伴う片頭痛 (Migraine with Brainstem Aura)（エビデンスレベル L4）。既存適応症：抗片頭痛薬、血管収縮薬、セロトニン受容体作動薬"
 monitor_inn: "naratriptan"
 predicted_indications: ["migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
+last_modified_at: 2026-10-17
+description: "Naratriptan：予測新適応症は脳幹性前兆を伴う片頭痛 (Migraine with Brainstem Aura)（エビデンスレベル L4）。既存適応症：抗片頭痛薬、血管収縮薬、セロトニン受容体作動薬"
 ---
 
 # Naratriptan
@@ -126,4 +126,12 @@ TxGNN モデルは**脳幹性前兆を伴う片頭痛 (Migraine with Brainstem A
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+アマージ、ナラトリプタン、アマージ錠2.5mg、アマージ錠2.5mg(選)、ナラトリプタン錠2.5mg「KO」
+<!-- brand-names:end -->
 

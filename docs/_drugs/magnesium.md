@@ -5,10 +5,10 @@ parent: 高エビデンスレベル
 nav_order: 199
 evidence_level: L1
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Magnesium：予測新適応症は片頭痛 (Migraine Disorder)（エビデンスレベル L1）。既存適応症：制酸薬、緩下剤、吸着剤（胃・十二指腸潰瘍）"
 monitor_inn: "Magnesium"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "severe nonproliferative diabetic retinopathy", "bronchitis", "diabetic retinopathy", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "dermatitis", "hyperthyroidism", "rheumatoid arthritis", "dry eye syndrome"]
+last_modified_at: 2026-10-17
+description: "Magnesium：予測新適応症は片頭痛 (Migraine Disorder)（エビデンスレベル L1）。既存適応症：制酸薬、緩下剤、吸着剤（胃・十二指腸潰瘍）"
 ---
 
 # Magnesium
@@ -139,4 +139,12 @@ TxGNN モデルは**片頭痛 (Migraine Disorder)** に有効である可能性�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+マグミット、酸化マグネシウム、重カマ、重質酸化マグネシウム、ディクアノン懸濁用配合顆粒、マグミット細粒83%、マグミット錠200mg、マグミット錠250mg、マグミット錠330mg、マグミット錠500mg、マルファ懸濁用配合顆粒、マーレッジ懸濁用配合DS、リタロクス懸濁用配合顆粒、水酸化アルミニウムゲル 水酸化マグネシウム配合シロップ用、酸化マグネシウム200mg錠、酸化マグネシウム250mg錠、酸化マグネシウム330mg錠、酸化マグネシウム500mg錠、酸化マグネシウム細粒83%〈ハチ〉、酸化マグネシウム細粒83%「ケンエー」、酸化マグネシウム細粒83%「ヨシダ」、酸化マグネシウム錠200mg、酸化マグネシウム錠200mg「ヨシダ」、酸化マグネシウム錠250mg、酸化マグネシウム錠250mg「TX」、酸化マグネシウム錠250mg「VTRS」、酸化マグネシウム錠250mg「ケンエー」、酸化マグネシウム錠250mg「モチダ」、酸化マグネシウム錠250mg「ヨシダ」、酸化マグネシウム錠300mg、酸化マグネシウム錠300mg「ヨシダ」、酸化マグネシウム錠330mg、酸化マグネシウム錠330mg「TX」、酸化マグネシウム錠330mg「VTRS」、酸化マグネシウム錠330mg「ケンエー」、酸化マグネシウム錠330mg「モチダ」、酸化マグネシウム錠330mg「ヨシダ」、酸化マグネシウム錠400mg、酸化マグネシウム錠400mg「ヨシダ」、酸化マグネシウム錠500mg
+<!-- brand-names:end -->
 

@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 217
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
-description: "Nadifloxacin：予測新適応症はマラリア (Malaria)（エビデンスレベル L5）。既存適応症：ざ瘡 (acne)"
 monitor_inn: "Nadifloxacin"
 predicted_indications: ["malaria"]
+last_modified_at: 2026-10-17
+description: "Nadifloxacin：予測新適応症はマラリア (Malaria)（エビデンスレベル L5）。既存適応症：ざ瘡 (acne)"
 ---
 
 # Nadifloxacin
@@ -90,4 +90,12 @@ TxGNN モデルは**マラリア (Malaria)** に有効である可能性を予�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+アクアチムナンコウ1、アクアチム軟膏1%
+<!-- brand-names:end -->
 

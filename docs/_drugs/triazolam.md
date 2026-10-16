@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 324
 evidence_level: L3
 indication_count: 1
-last_modified_at: 2026-10-15
-description: "Triazolam：予測新適応症は入眠・睡眠維持障害 (sleep disorder, initiating and maintaining sleep)（エビデンスレベル L3）。既存適応症：催眠鎮静薬（不眠症）"
 monitor_inn: "triazolam"
 predicted_indications: ["sleep disorder, initiating and maintaining sleep"]
+last_modified_at: 2026-10-17
+description: "Triazolam：予測新適応症は入眠・睡眠維持障害 (sleep disorder, initiating and maintaining sleep)（エビデンスレベル L3）。既存適応症：催眠鎮静薬（不眠症）"
 ---
 
 # Triazolam
@@ -121,4 +121,12 @@ TxGNN モデルは**入眠・睡眠維持障害 (sleep disorder, initiating and 
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+トリアゾラム、ハルシオン、トリアゾラム0.125mg錠、トリアゾラム0.25mg錠、トリアゾラム錠0.125mg「CH」、トリアゾラム錠0.125mg「FY」、トリアゾラム錠0.125mg「TCK」、トリアゾラム錠0.125mg「日医工」、トリアゾラム錠0.125mg「日新」、トリアゾラム錠0.25mg「CH」、トリアゾラム錠0.25mg「FY」、トリアゾラム錠0.25mg「TCK」、トリアゾラム錠0.25mg「日医工」、トリアゾラム錠0.25mg「日新」、ハルシオン0.125mg錠、ハルシオン0.125mg錠(選)、ハルシオン0.25mg錠、ハルシオン0.25mg錠(選)
+<!-- brand-names:end -->
 

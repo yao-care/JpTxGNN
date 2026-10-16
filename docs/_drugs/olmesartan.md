@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 225
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Olmesartan：予測新適応症は異型狭心症 (Prinzmetal angina)（TxGNN 最上位）／エビデンス最多：片頭痛 (migraine disorder)（エビデンスレベル L5）。既存適応症：血圧降下薬、アンジオテンシンII受容体拮抗薬（高血圧）"
 monitor_inn: "olmesartan"
 predicted_indications: ["Prinzmetal angina", "hypotrichosis simplex of the scalp", "migraine disorder", "alopecia", "pulmonary hypertension", "congenital hypotrichosis milia", "diffuse alopecia areata", "migraine with brainstem aura", "kyphoscoliotic heart disease", "open-angle glaucoma"]
+last_modified_at: 2026-10-17
+description: "Olmesartan：予測新適応症は異型狭心症 (Prinzmetal angina)（TxGNN 最上位）／エビデンス最多：片頭痛 (migraine disorder)（エビデンスレベル L5）。既存適応症：血圧降下薬、アンジオテンシンII受容体拮抗薬（高血圧）"
 ---
 
 # Olmesartan
@@ -122,4 +122,12 @@ TxGNN モデルの予測スコア最上位は**異型狭心症 (Prinzmetal angin
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+オルメサルタンOD錠10mg「DSEP」、オルメサルタンOD錠10mg「JG」、オルメサルタンOD錠10mg「オーハラ」、オルメサルタンOD錠10mg「サワイ」、オルメサルタンOD錠10mg「トーワ」、オルメサルタンOD錠10mg「ニプロ」、オルメサルタンOD錠10mg「日医工」、オルメサルタンOD錠20mg「DSEP」、オルメサルタンOD錠20mg「JG」、オルメサルタンOD錠20mg「オーハラ」、オルメサルタンOD錠20mg「サワイ」、オルメサルタンOD錠20mg「トーワ」、オルメサルタンOD錠20mg「ニプロ」、オルメサルタンOD錠20mg「日医工」、オルメサルタンOD錠40mg「DSEP」、オルメサルタンOD錠40mg「JG」、オルメサルタンOD錠40mg「オーハラ」、オルメサルタンOD錠40mg「サワイ」、オルメサルタンOD錠40mg「トーワ」、オルメサルタンOD錠40mg「ニプロ」、オルメサルタンOD錠40mg「日医工」、オルメサルタンOD錠5mg「DSEP」、オルメサルタンOD錠5mg「サワイ」、オルメサルタンOD錠5mg「トーワ」、オルメサルタンOD錠5mg「ニプロ」、オルメサルタンOD錠5mg「日医工」、オルメサルタンメドキソミル10mg口腔内崩壊錠、オルメサルタンメドキソミル10mg錠、オルメサルタンメドキソミル20mg口腔内崩壊錠、オルメサルタンメドキソミル20mg錠、オルメサルタンメドキソミル40mg口腔内崩壊錠、オルメサルタンメドキソミル40mg錠、オルメサルタンメドキソミル5mg口腔内崩壊錠、オルメサルタンメドキソミル5mg錠、オルメサルタン錠10mg「JG」、オルメサルタン錠10mg「TCK」、オルメサルタン錠10mg「YD」、オルメサルタン錠10mg「オーハラ」、オルメサルタン錠10mg「ケミファ」、オルメサルタン錠10mg「ツルハラ」
+<!-- brand-names:end -->
 

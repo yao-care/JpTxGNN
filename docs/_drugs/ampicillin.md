@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 26
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Ampicillin：予測新適応症は喉頭炎 (Laryngitis)（エビデンスレベル L5）。既存適応症：抗生物質"
 monitor_inn: "Ampicillin"
 predicted_indications: ["laryngitis", "Ureaplasma urethritis", "gonococcal urethritis", "chronic rhinosinusitis", "chronic ethmoidal sinusitis", "gingivitis", "paranasal sinus neoplasm (disease)", "bacterial arthritis", "conjunctivitis", "pericoronitis"]
+last_modified_at: 2026-10-17
+description: "Ampicillin：予測新適応症は喉頭炎 (Laryngitis)（エビデンスレベル L5）。既存適応症：抗生物質"
 ---
 
 # Ampicillin
@@ -130,4 +130,12 @@ TxGNN モデルは**喉頭炎 (Laryngitis)** に有効である可能性を予�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+スルバシリン、ピシリバクタ、ユナシン−Sキット、ユナスピン、アンピシリンナトリウム・スルバクタムナトリウム0.75g静注用、アンピシリンナトリウム・スルバクタムナトリウム1.5g静注用、アンピシリンナトリウム・スルバクタムナトリウム3g静注用、ビクシリン、ビクシリンS配合錠 (250mg)、ビクシリンカプセル250mg、ビクシリンドライシロップ10、ビクシリンドライシロップ10% 100mg、ビクシリン注射用0.25g 250mg、ビクシリン注射用0.5g 500mg、ビクシリン注射用1g、ビクシリン注射用2g
+<!-- brand-names:end -->
 

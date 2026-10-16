@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 180
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Lenvatinib：予測新適応症は脂肪肉腫 (Liposarcoma)（エビデンスレベル L5）。既存適応症：腎細胞癌、甲状腺癌"
 monitor_inn: "Lenvatinib"
 predicted_indications: ["liposarcoma", "unclassified renal cell carcinoma", "renal cell carcinoma associated with neuroblastoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "ovarian myxoid liposarcoma", "childhood kidney cell carcinoma", "renal carcinoma", "angiolipoma", "familial spontaneous pneumothorax", "endocrine-cerebro-osteodysplasia syndrome"]
+last_modified_at: 2026-10-17
+description: "Lenvatinib：予測新適応症は脂肪肉腫 (Liposarcoma)（エビデンスレベル L5）。既存適応症：腎細胞癌、甲状腺癌"
 ---
 
 # Lenvatinib
@@ -123,4 +123,12 @@ TxGNN モデルは**脂肪肉腫 (Liposarcoma)** に有効である可能性を�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+レンビマカプセル10mg、レンビマカプセル4mg
+<!-- brand-names:end -->
 

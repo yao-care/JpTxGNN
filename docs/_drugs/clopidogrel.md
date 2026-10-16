@@ -5,10 +5,10 @@ parent: 高エビデンスレベル
 nav_order: 76
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Clopidogrel：予測新適応症は片頭痛 (Migraine Disorder)。順位 1 位は脳幹性前兆を伴う片頭痛 (Migraine with Brainstem A…（エビデンスレベル L2）。既存適応症：抗凝固薬、血小板凝集抑制薬、P2Y12阻害薬"
 monitor_inn: "Clopidogrel"
 predicted_indications: ["migraine with brainstem aura", "migraine disorder", "osteoarthritis", "tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "rheumatoid arthritis", "osteoarthritis susceptibility", "pseudoachondroplasia", "fibromyalgia"]
+last_modified_at: 2026-10-17
+description: "Clopidogrel：予測新適応症は片頭痛 (Migraine Disorder)。順位 1 位は脳幹性前兆を伴う片頭痛 (Migraine with Brainstem A…（エビデンスレベル L2）。既存適応症：抗凝固薬、血小板凝集抑制薬、P2Y12阻害薬"
 ---
 
 # Clopidogrel
@@ -132,4 +132,12 @@ TxGNN モデルは、上位予測の一つである**片頭痛 (Migraine Disorde
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+クロピドグレル、プラビックス、クロピドグレル硫酸塩25mg錠、クロピドグレル錠25mg「JG」、クロピドグレル錠25mg「NP」、クロピドグレル錠25mg「SANIK」、クロピドグレル錠25mg「TCK」、クロピドグレル錠25mg「VTRS」、クロピドグレル錠25mg「YD」、クロピドグレル錠25mg「クニヒロ」、クロピドグレル錠25mg「ケミファ」、クロピドグレル錠25mg「サワイ」、クロピドグレル錠25mg「サンド」、クロピドグレル錠25mg「ツルハラ」、クロピドグレル錠25mg「トーワ」、クロピドグレル錠25mg「フェルゼン」、クロピドグレル錠25mg「三和」、クロピドグレル錠25mg「日新」、クロピドグレル錠25mg「明治」、クロピドグレル錠25mg「杏林」、クロピドグレル錠25mg「科研」、クロピドグレル錠50mg「NP」、クロピドグレル錠50mg「TCK」、クロピドグレル錠50mg「サワイ」、クロピドグレル錠50mg「明治」、クロピドグレル錠75mg「JG」、クロピドグレル錠75mg「NP」、クロピドグレル錠75mg「SANIK」、クロピドグレル錠75mg「TCK」、クロピドグレル錠75mg「VTRS」、クロピドグレル錠75mg「YD」、クロピドグレル錠75mg「クニヒロ」、クロピドグレル錠75mg「ケミファ」、クロピドグレル錠75mg「サワイ」、クロピドグレル錠75mg「サンド」、クロピドグレル錠75mg「ツルハラ」、クロピドグレル錠75mg「トーワ」、クロピドグレル錠75mg「フェルゼン」、クロピドグレル錠75mg「三和」、クロピドグレル錠75mg「日新」
+<!-- brand-names:end -->
 

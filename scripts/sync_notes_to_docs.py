@@ -175,6 +175,12 @@ def finalize_front_matter(page_path: Path, full_content: str, base_dir: Path) ->
             if pred and orig and pred not in ("無", "None", "-", "なし"):
                 desc = dm.T.get(dm.site_lang(base_dir), dm.T["en"]).format(title=title, pred=pred, lv=lv, orig=orig)
                 lines.append("description: " + json.dumps(desc[:199] + ("…" if len(desc) > 200 else ""), ensure_ascii=False))
+    bh = base_dir.parent / ".claude" / "apply_brand_names.py"
+    if bh.exists():  # 2026-10-17：成分頁的「日本の主な販売名」區塊（docs/_data/brand_names.json，有才加）
+        bspec = importlib.util.spec_from_file_location("apply_brand_names", bh)
+        ab = importlib.util.module_from_spec(bspec)
+        bspec.loader.exec_module(ab)
+        body = ab.insert_block(body, ab.brand_block(base_dir, page_path.stem))
     return "---\n" + "\n".join(lines) + "\n---\n" + body
 
 

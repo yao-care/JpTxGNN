@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 25
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Amoxicillin：予測新適応症は高アミラーゼ血症 (Hyperamylasemia)（エビデンスレベル L5）。既存適応症：淋菌感染症、梅毒、歯周組織炎、猩紅熱、ヘリコバクター・ピロリ感染症"
 monitor_inn: "Amoxicillin"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder", "epiglottitis"]
+last_modified_at: 2026-10-17
+description: "Amoxicillin：予測新適応症は高アミラーゼ血症 (Hyperamylasemia)（エビデンスレベル L5）。既存適応症：淋菌感染症、梅毒、歯周組織炎、猩紅熱、ヘリコバクター・ピロリ感染症"
 ---
 
 # Amoxicillin
@@ -114,4 +114,12 @@ TxGNN モデルは**高アミラーゼ血症 (Hyperamylasemia)** に有効であ
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+アモキシシリン、サワシリン、ワイドシリン、アモキシシリン125mgカプセル、アモキシシリン250mgカプセル、アモキシシリンカプセル125mg「TCK」、アモキシシリンカプセル125mg「トーワ」、アモキシシリンカプセル125mg「日医工」、アモキシシリンカプセル250mg「TCK」、アモキシシリンカプセル250mg「トーワ」、アモキシシリンカプセル250mg「日医工」、アモキシシリン細粒10%「TCK」 100mg、アモキシシリン細粒20%「TCK」 200mg、サワシリンカプセル125 125mg、サワシリンカプセル250 250mg、サワシリン細粒10% 100mg、サワシリン錠250 250mg、ワイドシリン細粒20% 200mg
+<!-- brand-names:end -->
 

@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 307
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Timolol：予測新適応症は原発性遺伝性緑内障 (primary hereditary glaucoma)（エビデンスレベル L5）。既存適応症：抗緑内障薬、β遮断薬"
 monitor_inn: "Timolol"
 predicted_indications: ["primary hereditary glaucoma", "closed-angle glaucoma", "malignant hypertensive renal disease", "malignant renovascular hypertension", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease", "glaucoma 1, open angle", "angle-closure glaucoma"]
+last_modified_at: 2026-10-17
+description: "Timolol：予測新適応症は原発性遺伝性緑内障 (primary hereditary glaucoma)（エビデンスレベル L5）。既存適応症：抗緑内障薬、β遮断薬"
 ---
 
 # Timolol
@@ -143,4 +143,12 @@ TxGNN モデルは**原発性遺伝性緑内障 (primary hereditary glaucoma)** 
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+コソプト配合点眼液、コソプト配合点眼液(選)、タフチモ配合点眼液「NIT」、タフチモ配合点眼液「日点」、タプコム配合点眼液、チモプトールXE点眼液0.25%、チモプトールXE点眼液0.25%(選)、チモプトールXE点眼液0.5%、チモプトールXE点眼液0.5%(選)、チモプトール点眼液0.25%、チモプトール点眼液0.25%(選)、チモプトール点眼液0.5%、チモプトール点眼液0.5%(選)、チモロールPF点眼液0.25%「日点」、チモロールPF点眼液0.5%「日点」、チモロールXE点眼液0.25%「TS」、チモロールXE点眼液0.25%「センジュ」、チモロールXE点眼液0.25%「ニットー」、チモロールXE点眼液0.25%「杏林」、チモロールXE点眼液0.5%「TS」、チモロールXE点眼液0.5%「センジュ」、チモロールXE点眼液0.5%「ニットー」、チモロールXE点眼液0.5%「杏林」、チモロールマレイン酸塩0.25%1mLXE点眼液、チモロールマレイン酸塩0.25%1mL点眼液、チモロールマレイン酸塩0.5%1mL点眼液、チモロール点眼液0.25%「わかもと」、チモロール点眼液0.25%「テイカ」、チモロール点眼液0.25%「ニッテン」、チモロール点眼液0.25%「ニットー」、チモロール点眼液0.25%「日新」、チモロール点眼液0.5%「わかもと」、チモロール点眼液0.5%「テイカ」、チモロール点眼液0.5%「ニッテン」、チモロール点眼液0.5%「ニットー」、チモロール点眼液0.5%「日新」、デュオトラバ配合点眼液、デュオトラバ配合点眼液(選)、トラチモ配合点眼液「ニットー」、ドルモロール配合点眼液「TS」
+<!-- brand-names:end -->
 

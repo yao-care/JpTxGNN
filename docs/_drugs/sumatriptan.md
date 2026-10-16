@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 290
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-15
-description: "Sumatriptan：予測新適応症は脳幹性前兆を伴う片頭痛 (Migraine with Brainstem Aura)（エビデンスレベル L4）。既存適応症：抗片頭痛薬、血管収縮薬、セロトニン受容体作動薬"
 monitor_inn: "sumatriptan"
 predicted_indications: ["migraine with brainstem aura"]
+last_modified_at: 2026-10-17
+description: "Sumatriptan：予測新適応症は脳幹性前兆を伴う片頭痛 (Migraine with Brainstem Aura)（エビデンスレベル L4）。既存適応症：抗片頭痛薬、血管収縮薬、セロトニン受容体作動薬"
 ---
 
 # Sumatriptan
@@ -126,4 +126,12 @@ TxGNN モデルは**脳幹性前兆を伴う片頭痛 (Migraine with Brainstem A
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+イミグラン、イミグラン錠50 50mg、イミグラン錠50 50mg(選)、スマトリプタンコハク酸塩50mg錠、スマトリプタン内用液50mg「タカタ」 2mL、スマトリプタン錠50mg「JG」、スマトリプタン錠50mg「SPKK」、スマトリプタン錠50mg「TCK」、スマトリプタン錠50mg「TW」、スマトリプタン錠50mg「VTRS」、スマトリプタン錠50mg「YD」、スマトリプタン錠50mg「アメル」、スマトリプタン錠50mg「タカタ」、スマトリプタン錠50mg「トーワ」
+<!-- brand-names:end -->
 

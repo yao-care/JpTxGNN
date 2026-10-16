@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 337
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Vildagliptin：予測新適応症は限局性硬直肢症候群 (Focal Stiff Limb Syndrome)（エビデンスレベル L5）。既存適応症：2型糖尿病（DPP-4 阻害薬）"
 monitor_inn: "Vildagliptin"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis", "type 1 diabetes mellitus"]
+last_modified_at: 2026-10-17
+description: "Vildagliptin：予測新適応症は限局性硬直肢症候群 (Focal Stiff Limb Syndrome)（エビデンスレベル L5）。既存適応症：2型糖尿病（DPP-4 阻害薬）"
 ---
 
 # Vildagliptin
@@ -107,4 +107,12 @@ TxGNN モデルは**限局性硬直肢症候群 (Focal Stiff Limb Syndrome)** �
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+エクア、ビルダグリプチン、エクア錠50mg、エクメット配合錠HD、エクメット配合錠LD、ビルダグリプチン錠50mg「JG」、ビルダグリプチン錠50mg「TCK」、ビルダグリプチン錠50mg「ZE」、ビルダグリプチン錠50mg「サワイ」、ビルダグリプチン錠50mg「トーワ」、ビルダグリプチン錠50mg「ニプロ」、ビルダグリプチン錠50mg「フェルゼン」、ビルダグリプチン錠50mg「日新」、ビルダグリプチン錠50mg「杏林」、メホビル配合錠HD「トーワ」、メホビル配合錠HD「日新」、メホビル配合錠LD「トーワ」、メホビル配合錠LD「日新」
+<!-- brand-names:end -->
 

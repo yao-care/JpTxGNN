@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 71
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Clarithromycin：予測新適応症は高アミラーゼ血症 (Hyperamylasemia)（TxGNN 1 位）。ただしエビデンスが最も厚い候補は単クローン性免疫グロブリン血症…（エビデンスレベル L5）。既存適応症：非結核性抗酸菌症、MAC 症、ヘリコバクター・ピロリ感染症、歯周組織炎、猩紅熱、百日咳"
 monitor_inn: "Clarithromycin"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "punctate epithelial keratoconjunctivitis", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "septicemic plague", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder"]
+last_modified_at: 2026-10-17
+description: "Clarithromycin：予測新適応症は高アミラーゼ血症 (Hyperamylasemia)（TxGNN 1 位）。ただしエビデンスが最も厚い候補は単クローン性免疫グロブリン血症…（エビデンスレベル L5）。既存適応症：非結核性抗酸菌症、MAC 症、ヘリコバクター・ピロリ感染症、歯周組織炎、猩紅熱、百日咳"
 ---
 
 # Clarithromycin
@@ -128,4 +128,12 @@ MGUS 方向では、クラリスロマイシンがオートファジーを阻害
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+クラリシッド、クラリス、クラリスロマイシン、クラリシッド錠200mg、クラリシッド錠50mg小児用、クラリシッド錠50mg小児用(選)、クラリスドライシロップ10%小児用 100mg、クラリスロマイシン200mg錠、クラリスロマイシン50mg錠、クラリスロマイシンDS10%小児用「NIG」 100mg、クラリスロマイシンDS10%小児用「サワイ」 100mg、クラリスロマイシンDS小児用10%「タカタ」 100mg、クラリスロマイシンDS小児用10%「トーワ」 100mg、クラリスロマイシンドライシロップ10%小児用「大正」 100mg、クラリスロマイシン錠200mg「CH」、クラリスロマイシン錠200mg「NIG」、クラリスロマイシン錠200mg「NPI」、クラリスロマイシン錠200mg「TCK」、クラリスロマイシン錠200mg「サワイ」、クラリスロマイシン錠200mg「タカタ」、クラリスロマイシン錠200mg「トーワ」、クラリスロマイシン錠200mg「フェルゼン」、クラリスロマイシン錠200mg「大正」、クラリスロマイシン錠200mg「日医工」、クラリスロマイシン錠200mg「杏林」、クラリスロマイシン錠50mg小児用「CH」、クラリスロマイシン錠50mg小児用「NIG」、クラリスロマイシン錠50mg小児用「NPI」、クラリスロマイシン錠50mg小児用「サワイ」、クラリスロマイシン錠50mg小児用「大正」、クラリスロマイシン錠50mg小児用「日医工」、クラリスロマイシン錠50mg小児用「杏林」、クラリスロマイシン錠小児用50mg「TCK」、クラリスロマイシン錠小児用50mg「タカタ」、クラリスロマイシン錠小児用50mg「トーワ」、クラリス錠200 200mg、クラリス錠50小児用 50mg、クラリス錠50小児用 50mg(選)
+<!-- brand-names:end -->
 

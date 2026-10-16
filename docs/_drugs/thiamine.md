@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 305
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Thiamine：予測新適応症は甲状腺機能亢進症 (Hyperthyroidism)（エビデンスレベル L3）。既存適応症：ビタミンB1補充薬（ウェルニッケ脳炎、脚気衝心）"
 monitor_inn: "Thiamine"
 predicted_indications: ["hyperthyroidism", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "primary hereditary glaucoma", "open-angle glaucoma", "pulmonary hypertension", "hyperthyroxinemia", "kyphoscoliotic heart disease", "Graves disease", "peripheral vascular disease", "neonatal thyrotoxicosis"]
+last_modified_at: 2026-10-17
+description: "Thiamine：予測新適応症は甲状腺機能亢進症 (Hyperthyroidism)（エビデンスレベル L3）。既存適応症：ビタミンB1補充薬（ウェルニッケ脳炎、脚気衝心）"
 ---
 
 # Thiamine
@@ -122,4 +122,12 @@ TxGNN モデルは**甲状腺機能亢進症 (Hyperthyroidism)** に有効であ
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+チアミンジスルフィド、チアミン塩化物塩酸塩、バイオゲン、ビタミンB1、メタボリン、ジアイナ配合カプセル、チアミンジスルフィド錠10mg「ツルハラ」、チアミン塩化物塩酸塩散 0.1%、チアミン塩化物塩酸塩散 1%、チアミン塩化物塩酸塩散0.1%「日新」、チアミン塩化物塩酸塩注10mg「NP」、チアミン塩化物塩酸塩注10mg「フソー」、チアミン塩化物塩酸塩注10mg「日新」、チアミン塩化物塩酸塩注20mg「フソー」、チアミン塩化物塩酸塩注50mg「フソー」、チアミン塩化物塩酸塩注5mg「フソー」、チアミン塩化物塩酸塩注射液 10mg、チアミン塩化物塩酸塩注射液 20mg、チアミン塩化物塩酸塩注射液 50mg、チアミン塩化物塩酸塩注射液 5mg、チアミン塩化物塩酸塩注射液10mg「VTRS」、チアミン塩化物塩酸塩注射液10mg「ツルハラ」、チアミン塩化物塩酸塩注射液20mg「VTRS」、チアミン塩化物塩酸塩注射液50mg「ツルハラ」
+<!-- brand-names:end -->
 

@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 294
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Tadalafil：予測新適応症はAmbras 型汎発性先天性多毛症 (Ambras type hypertrichosis universalis congenita)（エビデンスレベル L5）。既存適応症：肺動脈性肺高血圧症（血圧降下薬、勃起不全治療薬、PDE5 阻害薬）"
 monitor_inn: "Tadalafil"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly", "kyphoscoliotic heart disease", "migraine with brainstem aura", "migraine disorder", "hypotrichosis simplex of the scalp"]
+last_modified_at: 2026-10-17
+description: "Tadalafil：予測新適応症はAmbras 型汎発性先天性多毛症 (Ambras type hypertrichosis universalis congenita)（エビデンスレベル L5）。既存適応症：肺動脈性肺高血圧症（血圧降下薬、勃起不全治療薬、PDE5 阻害薬）"
 ---
 
 # Tadalafil
@@ -106,4 +106,12 @@ TxGNN モデルは **Ambras 型汎発性先天性多毛症 (Ambras type hypertri
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+アドシルカ、ザルティア、シアリス、タダラフィル、アドシルカ錠20mg、アドシルカ錠20mg(選)、ザルティア錠2.5mg、ザルティア錠2.5mg(選)、ザルティア錠5mg、ザルティア錠5mg(選)、シアリス錠10mg、シアリス錠20mg、シアリス錠5mg、タダラフィルOD錠2.5mgZA「トーワ」、タダラフィルOD錠5mgZA「トーワ」、タダラフィル錠2.5mgZA「JG」、タダラフィル錠2.5mgZA「あすか」、タダラフィル錠2.5mgZA「サワイ」、タダラフィル錠2.5mgZA「サンド」、タダラフィル錠2.5mgZA「シオエ」、タダラフィル錠2.5mgZA「ニプロ」、タダラフィル錠2.5mgZA「フソー」、タダラフィル錠2.5mgZA「日医工」、タダラフィル錠2.5mgZA「杏林」、タダラフィル錠20mgAD「JG」、タダラフィル錠20mgAD「TE」、タダラフィル錠20mgAD「サワイ」、タダラフィル錠20mgAD「杏林」、タダラフィル錠5mgZA「JG」、タダラフィル錠5mgZA「あすか」、タダラフィル錠5mgZA「サワイ」、タダラフィル錠5mgZA「サンド」、タダラフィル錠5mgZA「シオエ」、タダラフィル錠5mgZA「ニプロ」、タダラフィル錠5mgZA「フソー」、タダラフィル錠5mgZA「日医工」、タダラフィル錠5mgZA「杏林」
+<!-- brand-names:end -->
 

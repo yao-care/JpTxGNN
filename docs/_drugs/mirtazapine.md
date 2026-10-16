@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 212
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Mirtazapine：予測新適応症はOhdo 症候群および関連型 (Ohdo syndrome and variants)（エビデンスレベル L5）。既存適応症：抗うつ薬、セロトニン受容体拮抗薬"
 monitor_inn: "Mirtazapine"
 predicted_indications: ["Ohdo syndrome and variants", "blepharophimosis - intellectual disability syndrome, Ohdo type", "benign paroxysmal torticollis of infancy", "ligneous conjunctivitis", "childhood apraxia of speech", "dysthymic disorder", "agoraphobia", "phobic disorder", "melancholia", "neurotic depression"]
+last_modified_at: 2026-10-17
+description: "Mirtazapine：予測新適応症はOhdo 症候群および関連型 (Ohdo syndrome and variants)（エビデンスレベル L5）。既存適応症：抗うつ薬、セロトニン受容体拮抗薬"
 ---
 
 # Mirtazapine
@@ -130,4 +130,12 @@ TxGNN モデルの予測スコア第 1 位は **Ohdo 症候群および関連型
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ミルタザピン、リフレックス、レメロン、ミルタザピン15mg口腔内崩壊錠、ミルタザピン15mg錠、ミルタザピン30mg口腔内崩壊錠、ミルタザピン30mg錠、ミルタザピンOD錠15mg「DSEP」、ミルタザピンOD錠15mg「アメル」、ミルタザピンOD錠15mg「サワイ」、ミルタザピンOD錠15mg「トーワ」、ミルタザピンOD錠15mg「ニプロ」、ミルタザピンOD錠30mg「DSEP」、ミルタザピンOD錠30mg「アメル」、ミルタザピンOD錠30mg「サワイ」、ミルタザピンOD錠30mg「トーワ」、ミルタザピンOD錠30mg「ニプロ」、ミルタザピン錠15mg「EE」、ミルタザピン錠15mg「JG」、ミルタザピン錠15mg「KMP」、ミルタザピン錠15mg「TCK」、ミルタザピン錠15mg「VTRS」、ミルタザピン錠15mg「YD」、ミルタザピン錠15mg「ケミファ」、ミルタザピン錠15mg「サワイ」、ミルタザピン錠15mg「トーワ」、ミルタザピン錠15mg「ニプロ」、ミルタザピン錠15mg「フェルゼン」、ミルタザピン錠15mg「日新」、ミルタザピン錠15mg「明治」、ミルタザピン錠15mg「杏林」、ミルタザピン錠30mg「EE」、ミルタザピン錠30mg「JG」、ミルタザピン錠30mg「KMP」、ミルタザピン錠30mg「TCK」、ミルタザピン錠30mg「VTRS」、ミルタザピン錠30mg「YD」、ミルタザピン錠30mg「ケミファ」、ミルタザピン錠30mg「サワイ」、ミルタザピン錠30mg「トーワ」
+<!-- brand-names:end -->
 

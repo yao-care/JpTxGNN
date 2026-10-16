@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 53
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Budesonide：予測新適応症はアトピー性湿疹 (atopic eczema)（エビデンスレベル L4）。既存適応症：気管支喘息、クローン病、潰瘍性大腸炎"
 monitor_inn: "Budesonide"
 predicted_indications: ["atopic eczema", "bronchitis", "dermatitis, atopic", "polyp of vocal cord", "polyp of middle ear", "epulis", "fibroepithelial polyp", "uterine polyp", "polyp of frontal sinus", "polyp of external auditory canal"]
+last_modified_at: 2026-10-17
+description: "Budesonide：予測新適応症はアトピー性湿疹 (atopic eczema)（エビデンスレベル L4）。既存適応症：気管支喘息、クローン病、潰瘍性大腸炎"
 ---
 
 # Budesonide
@@ -128,4 +128,12 @@ TxGNN モデルは**アトピー性湿疹 (atopic eczema)** に有効である�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+コレチメント、ゼンタコート、パルミコート、ブデソニド、レクタブル、シムビコートタービュヘイラー30吸入、シムビコートタービュヘイラー30吸入(選)、シムビコートタービュヘイラー60吸入、シムビコートタービュヘイラー60吸入(選)、パルミコート吸入液0.25mg 2mL、パルミコート吸入液0.25mg 2mL(選)、パルミコート吸入液0.5mg 2mL、パルミコート吸入液0.5mg 2mL(選)、ブデソニド吸入液0.25mg「武田テバ」 2mL、ブデソニド吸入液0.5mg「武田テバ」 2mL、ブデホル吸入粉末剤30吸入「JG」、ブデホル吸入粉末剤30吸入「MYL」、ブデホル吸入粉末剤30吸入「ニプロ」、ブデホル吸入粉末剤60吸入「JG」、ブデホル吸入粉末剤60吸入「MYL」、ブデホル吸入粉末剤60吸入「ニプロ」
+<!-- brand-names:end -->
 

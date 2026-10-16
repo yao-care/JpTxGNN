@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 235
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-15
-description: "Panitumumab：予測新適応症は薬剤性骨粗鬆症 (Drug-induced Osteoporosis)（エビデンスレベル L5）。既存適応症：転移性結腸癌"
 monitor_inn: "Panitumumab"
 predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy"]
+last_modified_at: 2026-10-17
+description: "Panitumumab：予測新適応症は薬剤性骨粗鬆症 (Drug-induced Osteoporosis)（エビデンスレベル L5）。既存適応症：転移性結腸癌"
 ---
 
 # Panitumumab
@@ -115,4 +115,12 @@ EGFR シグナルは骨芽細胞の分化や骨リモデリングに関与する
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ベクティビックス点滴静注100mg 5mL、ベクティビックス点滴静注400mg 20mL
+<!-- brand-names:end -->
 

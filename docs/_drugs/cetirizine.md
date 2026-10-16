@@ -5,10 +5,10 @@ parent: 高エビデンスレベル
 nav_order: 67
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Cetirizine：予測新適応症はアレルギー性蕁麻疹 (Allergic Urticaria)（エビデンスレベル L2）。既存適応症：アレルギー性鼻炎"
 monitor_inn: "Cetirizine"
 predicted_indications: ["allergic urticaria", "cold urticaria", "nasal cavity disease", "acute laryngopharyngitis", "rosacea conjunctivitis", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic", "angioedema", "punctate epithelial keratoconjunctivitis", "trigeminal autonomic cephalalgia"]
+last_modified_at: 2026-10-17
+description: "Cetirizine：予測新適応症はアレルギー性蕁麻疹 (Allergic Urticaria)（エビデンスレベル L2）。既存適応症：アレルギー性鼻炎"
 ---
 
 # Cetirizine
@@ -131,4 +131,12 @@ TxGNN モデルは**アレルギー性蕁麻疹 (Allergic Urticaria)** に有効
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ジルテック、セチリジン塩酸塩、ジルテックドライシロップ1.25%、ジルテックドライシロップ1.25%(選)、ジルテック錠10 10mg、ジルテック錠10 10mg(選)、ジルテック錠5 5mg、ジルテック錠5 5mg(選)、セチリジン塩酸塩1.25%シロップ用、セチリジン塩酸塩10mg錠、セチリジン塩酸塩5mg錠、セチリジン塩酸塩DS1.25%「タカタ」、セチリジン塩酸塩OD錠10mg「サワイ」、セチリジン塩酸塩OD錠5mg「サワイ」、セチリジン塩酸塩シロップ用1 25、セチリジン塩酸塩口腔内崩壊錠10mg、セチリジン塩酸塩錠10mg「CH」、セチリジン塩酸塩錠10mg「MNP」、セチリジン塩酸塩錠10mg「NIG」、セチリジン塩酸塩錠10mg「PH」、セチリジン塩酸塩錠10mg「TCK」、セチリジン塩酸塩錠10mg「YD」、セチリジン塩酸塩錠10mg「イワキ」、セチリジン塩酸塩錠10mg「サワイ」、セチリジン塩酸塩錠10mg「タカタ」、セチリジン塩酸塩錠10mg「ツルハラ」、セチリジン塩酸塩錠10mg「トーワ」、セチリジン塩酸塩錠10mg「ニプロ」、セチリジン塩酸塩錠10mg「日医工」、セチリジン塩酸塩錠10mg「科研」、セチリジン塩酸塩錠5mg「CH」、セチリジン塩酸塩錠5mg「MNP」、セチリジン塩酸塩錠5mg「NIG」、セチリジン塩酸塩錠5mg「PH」、セチリジン塩酸塩錠5mg「TCK」、セチリジン塩酸塩錠5mg「YD」、セチリジン塩酸塩錠5mg「イワキ」、セチリジン塩酸塩錠5mg「サワイ」、セチリジン塩酸塩錠5mg「タカタ」、セチリジン塩酸塩錠5mg「ツルハラ」
+<!-- brand-names:end -->
 

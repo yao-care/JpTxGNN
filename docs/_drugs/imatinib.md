@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 160
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Imatinib：予測新適応症は心臓線維肉腫 (heart fibrosarcoma)（エビデンスレベル L5）。既存適応症：慢性骨髄性白血病、消化管間質腫瘍 (KIT 陽性)、フィラデルフィア染色体陽性急性リンパ性白血病…"
 monitor_inn: "Imatinib"
 predicted_indications: ["heart fibrosarcoma", "fibroblastic neoplasm", "conventional fibrosarcoma", "kidney fibrosarcoma", "low grade fibromyxoid sarcoma", "liposarcoma", "liver fibrosarcoma", "autosomal recessive familial Mediterranean fever", "ovarian myxoid liposarcoma", "familial rhabdoid tumor"]
+last_modified_at: 2026-10-17
+description: "Imatinib：予測新適応症は心臓線維肉腫 (heart fibrosarcoma)（エビデンスレベル L5）。既存適応症：慢性骨髄性白血病、消化管間質腫瘍 (KIT 陽性)、フィラデルフィア染色体陽性急性リンパ性白血病…"
 ---
 
 # Imatinib
@@ -139,4 +139,12 @@ TxGNN モデルは**心臓線維肉腫 (heart fibrosarcoma)** に有効である
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+イマチニブ、グリベック、イマチニブメシル酸塩100mg錠、イマチニブ錠100mg「DSEP」、イマチニブ錠100mg「JG」、イマチニブ錠100mg「KMP」、イマチニブ錠100mg「NIG」、イマチニブ錠100mg「NK」、イマチニブ錠100mg「オーハラ」、イマチニブ錠100mg「ケミファ」、イマチニブ錠100mg「サワイ」、イマチニブ錠100mg「タカタ」、イマチニブ錠100mg「トーワ」、イマチニブ錠100mg「ニプロ」、イマチニブ錠100mg「ヤクルト」、イマチニブ錠100mg「明治」、イマチニブ錠200mg「サワイ」、イマチニブ錠200mg「トーワ」、イマチニブ錠200mg「ニプロ」、イマチニブ錠200mg「ヤクルト」、イマチニブ錠200mg「明治」、グリベック錠100mg、グリベック錠100mg(選)
+<!-- brand-names:end -->
 

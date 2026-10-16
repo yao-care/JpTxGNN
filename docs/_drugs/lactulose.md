@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 172
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Lactulose：予測新適応症は閉塞性黄疸 (Obstructive Jaundice)（TxGNN 第3位。第1位の急性尿酸腎症は根拠となる研究がないため評価対象外）（エビデンスレベル L3）。既存適応症：高アンモニア血症治療薬、緩下剤"
 monitor_inn: "Lactulose"
 predicted_indications: ["acute urate nephropathy", "nephrolithiasis", "obstructive jaundice", "bile duct disease", "biliary tract disease", "hyperphosphatemia (disease)", "exercise-induced malignant hyperthermia", "bile duct neoplasm", "iron deficiency anemia", "opiate dependence"]
+last_modified_at: 2026-10-17
+description: "Lactulose：予測新適応症は閉塞性黄疸 (Obstructive Jaundice)（TxGNN 第3位。第1位の急性尿酸腎症は根拠となる研究がないため評価対象外）（エビデンスレベル L3）。既存適応症：高アンモニア血症治療薬、緩下剤"
 ---
 
 # Lactulose
@@ -118,4 +118,12 @@ TxGNN モデルの第1位予測は急性尿酸腎症でしたが、裏付けと�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+モニラック、ラクツロース、ラグノス、ラクツロース65%シロップ、ラクツロースシロップ65%「NIG」、ラクツロースシロップ65%「タカタ」、ラクツロース・シロップ60%「コーワ」、ラクツロース・シロップ60%分包10mL「コーワ」、ラクツロース・シロップ60%分包15mL「コーワ」、ラグノスNF経口ゼリー分包12g 54.167%
+<!-- brand-names:end -->
 

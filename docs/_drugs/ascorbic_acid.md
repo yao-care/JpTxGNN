@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 30
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Ascorbic Acid：予測新適応症は非症候性食道奇形 (Non-syndromic esophageal malformation)（エビデンスレベル L5）。既存適応症：アスコルビン酸欠乏症、壊血病"
 monitor_inn: "Ascorbic acid"
 predicted_indications: ["non-syndromic esophageal malformation", "esophageal disease", "congenital prothrombin deficiency", "injury", "biotin metabolic disease", "florid cemento-osseous dysplasia", "perinatal disease", "segmental odontomaxillary dysplasia", "disease by subcellular system affected", "vitamin deficiency disorder"]
+last_modified_at: 2026-10-17
+description: "Ascorbic Acid：予測新適応症は非症候性食道奇形 (Non-syndromic esophageal malformation)（エビデンスレベル L5）。既存適応症：アスコルビン酸欠乏症、壊血病"
 ---
 
 # Ascorbic Acid
@@ -114,4 +114,12 @@ TxGNN モデルは**非症候性食道奇形 (non-syndromic esophageal malformat
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+アスコルビン酸、ハイシー、ビタC、ビタシミン、ビタミンC、アスコルビン酸(岩城)、アスコルビン酸「ケンエー」、アスコルビン酸「ニッコー」、アスコルビン酸原末「マルイシ」、アスコルビン酸散 10%、アスコルビン酸散 20%、アスコルビン酸注100mg「NP」、アスコルビン酸注100mg「イセイ」、アスコルビン酸注1g「NP」、アスコルビン酸注500mgPB「日新」、アスコルビン酸注500mg「NP」、アスコルビン酸注500mg「イセイ」、アスコルビン酸注射液 100mg、アスコルビン酸注射液 1g、アスコルビン酸注射液 200mg、アスコルビン酸注射液 2g、アスコルビン酸注射液 500mg、アスコルビン酸注射液1000mg「トーワ」 1g、アスコルビン酸注射液100mg「ツルハラ」、アスコルビン酸注射液100mg「トーワ」、アスコルビン酸注射液2000mg「トーワ」 2g、アスコルビン酸注射液500mg「ツルハラ」、アスコルビン酸注射液500mg「トーワ」、シナール配合顆粒、シーピー配合顆粒
+<!-- brand-names:end -->
 

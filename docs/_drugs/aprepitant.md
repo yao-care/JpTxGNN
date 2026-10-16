@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 28
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Aprepitant：予測新適応症は腎性不適切抗利尿症候群 (nephrogenic syndrome of inappropriate antidiuresis)（エビデンスレベル L5）。既存適応症：制吐薬、抗うつ薬、統合失調症治療薬、NK1受容体拮抗薬"
 monitor_inn: "aprepitant"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "hypertrichosis (disease)", "pulmonary hypertension", "leprosy", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "kyphoscoliotic heart disease", "syndrome with a Dandy-Walker malformation as major feature", "subarachnoid hemorrhage (disease)", "isolated genetic hair shaft abnormality"]
+last_modified_at: 2026-10-17
+description: "Aprepitant：予測新適応症は腎性不適切抗利尿症候群 (nephrogenic syndrome of inappropriate antidiuresis)（エビデンスレベル L5）。既存適応症：制吐薬、抗うつ薬、統合失調症治療薬、NK1受容体拮抗薬"
 ---
 
 # Aprepitant
@@ -98,4 +98,12 @@ NSIAD は V2 受容体の活性化変異によって起こる疾患です。サ�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+アプレピタント、イメンド、アプレピタントカプセル125mg「NK」、アプレピタントカプセル125mg「サワイ」、アプレピタントカプセル80mg「NK」、アプレピタントカプセル80mg「サワイ」、アプレピタントカプセルセット「NK」、アプレピタントカプセルセット「サワイ」、イメンドカプセル125mg、イメンドカプセル125mg(選)、イメンドカプセル80mg、イメンドカプセル80mg(選)、イメンドカプセルセット、イメンドカプセルセット(選)
+<!-- brand-names:end -->
 

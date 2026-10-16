@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 344
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Zinc：予測新適応症はフィラリア症 (Filariasis)（エビデンスレベル L5）。既存適応症：解毒薬（銅吸収阻害）：ウィルソン病、肝レンズ核変性症"
 monitor_inn: "Zinc"
 predicted_indications: ["filariasis", "primary hereditary glaucoma", "dermatitis", "open-angle glaucoma", "acrodermatitis chronica atrophicans", "enterocolitis (disease)", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "hydroa vacciniforme, familial", "amyopathic dermatomyositis"]
+last_modified_at: 2026-10-17
+description: "Zinc：予測新適応症はフィラリア症 (Filariasis)（エビデンスレベル L5）。既存適応症：解毒薬（銅吸収阻害）：ウィルソン病、肝レンズ核変性症"
 ---
 
 # Zinc
@@ -112,4 +112,12 @@ TxGNN モデルは**フィラリア症 (Filariasis)** に有効である可能�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ノベルジン、酢酸亜鉛、ノベルジン錠25mg、ノベルジン錠25mg(選)、ノベルジン錠50mg、ノベルジン錠50mg(選)、ノベルジン顆粒5%、ノベルジン顆粒5%(選)、ボチシート20%、亜鉛華(10%)単軟膏「コザカイ・M」、亜鉛華(10%)単軟膏「ニッコー」、亜鉛華(10%)単軟膏「ホエイ」、亜鉛華(10%)単軟膏「ヨシダ」、亜鉛華(10%)単軟膏シオエ、酢酸亜鉛錠25mg、酢酸亜鉛錠25mg「ケミファ」、酢酸亜鉛錠25mg「サワイ」、酢酸亜鉛錠25mg「ノーベル」、酢酸亜鉛錠50mg、酢酸亜鉛錠50mg「ケミファ」、酢酸亜鉛錠50mg「サワイ」、酢酸亜鉛錠50mg「ノーベル」、酢酸亜鉛顆粒5%「サワイ」、酢酸亜鉛顆粒5%「ノーベル」
+<!-- brand-names:end -->
 

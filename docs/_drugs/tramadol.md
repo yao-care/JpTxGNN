@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 318
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Tramadol：予測新適応症は先端中節骨異形成症 Hunter-Thompson 型 (acromesomelic dysplasia…（エビデンスレベル L5）。既存適応症：変形性関節症、関節症"
 monitor_inn: "Tramadol"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "spondyloarthropathy, susceptibility to", "juvenile idiopathic arthritis", "juvenile arthritis due to defect in LACC1", "rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis"]
+last_modified_at: 2026-10-17
+description: "Tramadol：予測新適応症は先端中節骨異形成症 Hunter-Thompson 型 (acromesomelic dysplasia…（エビデンスレベル L5）。既存適応症：変形性関節症、関節症"
 ---
 
 # Tramadol
@@ -125,4 +125,12 @@ TxGNN モデルは **先端中節骨異形成症 Hunter-Thompson 型 (acromesome
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+トラマドール塩酸塩OD錠25mg「KO」、トラマドール塩酸塩OD錠50mg「KO」、トラマールOD錠25mg、トラマールOD錠25mg(選)、トラマールOD錠50mg、トラマールOD錠50mg(選)
+<!-- brand-names:end -->
 

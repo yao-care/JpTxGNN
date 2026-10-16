@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 313
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-15
-description: "Tofogliflozin：予測新適応症はオプシスモディスプラジア (Opsismodysplasia)（エビデンスレベル L5）。既存適応症：2型糖尿病"
 monitor_inn: "Tofogliflozin"
 predicted_indications: ["opsismodysplasia", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy"]
+last_modified_at: 2026-10-17
+description: "Tofogliflozin：予測新適応症はオプシスモディスプラジア (Opsismodysplasia)（エビデンスレベル L5）。既存適応症：2型糖尿病"
 ---
 
 # Tofogliflozin
@@ -93,4 +93,12 @@ TxGNN モデルは**オプシスモディスプラジア (Opsismodysplasia)** �
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+デベルザ錠20mg
+<!-- brand-names:end -->
 

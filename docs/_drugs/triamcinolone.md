@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 323
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Triamcinolone：予測新適応症は脱毛性粘液症 (Alopecia Mucinosa)（エビデンスレベル L4）。既存適応症：慢性副腎皮質機能不全、関節リウマチ、気管支喘息、ネフローゼ症候群、アトピー皮膚炎…"
 monitor_inn: "Triamcinolone"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "idiopathic steroid-sensitive nephrotic syndrome", "alopecia universalis onychodystrophy vitiligo", "sporadic idiopathic steroid-resistant nephrotic syndrome"]
+last_modified_at: 2026-10-17
+description: "Triamcinolone：予測新適応症は脱毛性粘液症 (Alopecia Mucinosa)（エビデンスレベル L4）。既存適応症：慢性副腎皮質機能不全、関節リウマチ、気管支喘息、ネフローゼ症候群、アトピー皮膚炎…"
 ---
 
 # Triamcinolone
@@ -126,4 +126,12 @@ TxGNN は他にも予測しています。ただし、エビデンスは限定�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+アフタッチ、オルテクサー、ケナコルト−A、トリアムシノロンアセトニド、ノギロン、マキュエイド、レダコート、オルテクサー口腔用軟膏0.1%、ケナコルト−A皮内用関節腔内用水懸注50mg/5mL 10mg、ケナコルト−A筋注用関節腔内用水懸注40mg/1mL、トリアムシノロンアセトニド0.1%軟膏、トリアムシノロンアセトニドクリーム0.1%「TK」、トリアムシノロンアセトニドゲル0.1%「TK」、トリアムシノロンアセトニド口腔用貼付剤25μg「大正」、ノギロン軟膏0.1%、レダコートクリーム0.1%、レダコートクリーム0.1%(選)、レダコート軟膏0.1%、レダコート軟膏0.1%(選)
+<!-- brand-names:end -->
 

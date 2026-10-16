@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 261
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Quetiapine：予測新適応症は網膜ジストロフィー（眼外異常を伴う、または伴わない）（エビデンスレベル L5）。既存適応症：統合失調症、双極性障害におけるうつ症状"
 monitor_inn: "Quetiapine"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "hydranencephaly (disease)", "distal 17p13.3 microdeletion syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "trichotillomania", "syndromic myopia", "myopia 26, X-linked, female-limited"]
+last_modified_at: 2026-10-17
+description: "Quetiapine：予測新適応症は網膜ジストロフィー（眼外異常を伴う、または伴わない）（エビデンスレベル L5）。既存適応症：統合失調症、双極性障害におけるうつ症状"
 ---
 
 # Quetiapine
@@ -111,4 +111,12 @@ TxGNN モデルは**網膜ジストロフィー（retinal dystrophy with or with
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+クエチアピン、セロクエル、ビプレッソ、クエチアピンフマル酸塩12.5mg錠、クエチアピンフマル酸塩25mg錠、クエチアピン細粒10%「アメル」、クエチアピン細粒50%「アメル」、クエチアピン細粒50%「タカタ」、クエチアピン細粒50%「トーワ」、クエチアピン錠100mg「DSEP」、クエチアピン錠100mg「JG」、クエチアピン錠100mg「VTRS」、クエチアピン錠100mg「アメル」、クエチアピン錠100mg「サンド」、クエチアピン錠100mg「タカタ」、クエチアピン錠100mg「トーワ」、クエチアピン錠100mg「ニプロ」、クエチアピン錠100mg「日新」、クエチアピン錠100mg「明治」、クエチアピン錠12.5mg「アメル」、クエチアピン錠12.5mg「明治」、クエチアピン錠200mg「DSEP」、クエチアピン錠200mg「JG」、クエチアピン錠200mg「VTRS」、クエチアピン錠200mg「アメル」、クエチアピン錠200mg「サンド」、クエチアピン錠200mg「タカタ」、クエチアピン錠200mg「トーワ」、クエチアピン錠200mg「ニプロ」、クエチアピン錠200mg「日新」、クエチアピン錠200mg「明治」、クエチアピン錠25mg「DSEP」、クエチアピン錠25mg「JG」、クエチアピン錠25mg「VTRS」、クエチアピン錠25mg「アメル」、クエチアピン錠25mg「サンド」、クエチアピン錠25mg「タカタ」、クエチアピン錠25mg「トーワ」、クエチアピン錠25mg「ニプロ」、クエチアピン錠25mg「日新」
+<!-- brand-names:end -->
 

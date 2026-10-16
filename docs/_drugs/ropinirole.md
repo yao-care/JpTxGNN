@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 271
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Ropinirole：予測新適応症は注意欠如・多動症 (Attention Deficit-Hyperactivity Disorder)（エビデンスレベル L5）。既存適応症：パーキンソン病"
 monitor_inn: "ropinirole"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "retinal dystrophy with or without extraocular anomalies", "schizophrenia", "myopia X-linked", "congenital disorder of glycosylation with defective fucosylation", "atypical glycine encephalopathy", "myopia 26, X-linked, female-limited", "Charcot-Marie-Tooth disease, demyelinating, type 1G"]
+last_modified_at: 2026-10-17
+description: "Ropinirole：予測新適応症は注意欠如・多動症 (Attention Deficit-Hyperactivity Disorder)（エビデンスレベル L5）。既存適応症：パーキンソン病"
 ---
 
 # Ropinirole
@@ -125,4 +125,12 @@ TxGNN モデルは**注意欠如・多動症 (Attention Deficit-Hyperactivity Di
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ハルロピ、レキップ、ロピニロール、レキップCR錠2mg、レキップCR錠2mg(選)、レキップCR錠8mg、レキップCR錠8mg(選)、レキップ錠0.25mg、レキップ錠0.25mg(選)、レキップ錠1mg、レキップ錠1mg(選)、レキップ錠2mg、レキップ錠2mg(選)、ロピニロールOD錠0.25mg「アメル」、ロピニロールOD錠1mg「アメル」、ロピニロールOD錠2mg「アメル」、ロピニロール口腔内崩壊錠0 25mg、ロピニロール口腔内崩壊錠1mg、ロピニロール口腔内崩壊錠2mg、ロピニロール徐放錠2mg、ロピニロール徐放錠2mg「KMP」、ロピニロール徐放錠2mg「サワイ」、ロピニロール徐放錠2mg「トーワ」、ロピニロール徐放錠8mg、ロピニロール徐放錠8mg「KMP」、ロピニロール徐放錠8mg「サワイ」、ロピニロール徐放錠8mg「トーワ」、ロピニロール錠0 25mg、ロピニロール錠0.25mg「JG」、ロピニロール錠1mg、ロピニロール錠1mg「JG」、ロピニロール錠2mg、ロピニロール錠2mg「JG」
+<!-- brand-names:end -->
 

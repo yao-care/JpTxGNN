@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 251
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Prasugrel：予測新適応症は肺高血圧症 (Pulmonary Hypertension)（エビデンスレベル L5）。既存適応症：狭心症、心筋梗塞（血小板凝集抑制薬、P2Y12 阻害薬）"
 monitor_inn: "Prasugrel"
 predicted_indications: ["pulmonary hypertension", "migraine disorder", "migraine with brainstem aura", "kyphoscoliotic heart disease", "rheumatoid arthritis", "homozygous familial hypercholesterolemia", "hypoalphalipoproteinemia", "migraine with or without aura, susceptibility to", "brachydactyly-syndactyly syndrome", "leprosy"]
+last_modified_at: 2026-10-17
+description: "Prasugrel：予測新適応症は肺高血圧症 (Pulmonary Hypertension)（エビデンスレベル L5）。既存適応症：狭心症、心筋梗塞（血小板凝集抑制薬、P2Y12 阻害薬）"
 ---
 
 # Prasugrel
@@ -131,4 +131,12 @@ TxGNN モデルは**肺高血圧症 (Pulmonary Hypertension)** に有効であ�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+エフィエント、プラスグレル、エフィエントOD錠20mg、エフィエント錠2.5mg、エフィエント錠3.75mg、エフィエント錠5mg、プラスグレルOD錠20mg「DSEP」、プラスグレルOD錠20mg「トーワ」、プラスグレル錠2.5mg「DSEP」、プラスグレル錠2.5mg「トーワ」、プラスグレル錠3.75mg「DSEP」、プラスグレル錠3.75mg「トーワ」、プラスグレル錠5mg「DSEP」、プラスグレル錠5mg「トーワ」
+<!-- brand-names:end -->
 

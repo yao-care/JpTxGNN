@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 120
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Estazolam：予測新適応症は不眠症 (insomnia)。既存適応症と同一のため、真の新規適応症ではありません（エビデンスレベル L5）。既存適応症：催眠鎮静薬（不眠症）"
 monitor_inn: "estazolam"
 predicted_indications: ["insomnia (disease)", "visual epilepsy", "alcohol withdrawal delirium", "restless legs syndrome", "myofascial pain syndrome", "audiogenic seizures", "startle epilepsy", "thinking seizures", "micturation-induced seizures", "eating seizures"]
+last_modified_at: 2026-10-17
+description: "Estazolam：予測新適応症は不眠症 (insomnia)。既存適応症と同一のため、真の新規適応症ではありません（エビデンスレベル L5）。既存適応症：催眠鎮静薬（不眠症）"
 ---
 
 # Estazolam
@@ -135,4 +135,12 @@ TxGNN モデルの最上位予測は**不眠症 (insomnia)** ですが、これ�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+エスタゾラム、ユーロジン、エスタゾラム2mg錠、エスタゾラム錠1mg「アメル」、エスタゾラム錠2mg「アメル」、ユーロジン2mg錠、ユーロジン2mg錠(選)
+<!-- brand-names:end -->
 

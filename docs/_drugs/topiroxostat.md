@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 316
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-10-15
-description: "Topiroxostat：予測新適応症は腎性低尿酸血症 (hypouricemia, renal)（エビデンスレベル L4）。既存適応症：高尿酸血症、痛風"
 monitor_inn: "Topiroxostat"
 predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "Lesch-Nyhan syndrome"]
+last_modified_at: 2026-10-17
+description: "Topiroxostat：予測新適応症は腎性低尿酸血症 (hypouricemia, renal)（エビデンスレベル L4）。既存適応症：高尿酸血症、痛風"
 ---
 
 # Topiroxostat
@@ -108,4 +108,12 @@ TxGNN モデルは**腎性低尿酸血症 (hypouricemia, renal)** に有効で�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ウリアデック錠20mg、ウリアデック錠40mg、ウリアデック錠60mg、トピロリック錠20mg、トピロリック錠40mg、トピロリック錠60mg
+<!-- brand-names:end -->
 

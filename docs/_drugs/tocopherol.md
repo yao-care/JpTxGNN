@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 311
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Tocopherol：予測新適応症は硬化性胆管炎 (Sclerosing Cholangitis)（エビデンスレベル L4）。既存適応症：ビタミンE補充薬（糖尿病性網膜症、凍瘡）"
 monitor_inn: "Tocopherol"
 predicted_indications: ["sclerosing cholangitis", "pulmonary hypertension", "rheumatoid arthritis", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "kyphoscoliotic heart disease", "diffuse alopecia areata", "alopecia", "congestive heart failure", "peripheral vascular disease"]
+last_modified_at: 2026-10-17
+description: "Tocopherol：予測新適応症は硬化性胆管炎 (Sclerosing Cholangitis)（エビデンスレベル L4）。既存適応症：ビタミンE補充薬（糖尿病性網膜症、凍瘡）"
 ---
 
 # Tocopherol
@@ -121,4 +121,12 @@ TxGNN は他にも以下の候補を予測しています。いずれも現時�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+トコフェロール酢酸エステル、ユベラ、トコフェロール酢酸エステルカプセル100mg「VTRS」、トコフェロール酢酸エステル錠100mg「ツルハラ」、トコフェロール酢酸エステル錠50mg「トーワ」、トコフェロール酢酸エステル顆粒20%「ツルハラ」、ユベラ錠50mg
+<!-- brand-names:end -->
 

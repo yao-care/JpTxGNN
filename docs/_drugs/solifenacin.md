@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 283
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Solifenacin：予測新適応症は多発性嚢胞腎 3 型（多発性嚢胞肝を伴う場合を含む）（エビデンスレベル L5）。既存適応症：過活動膀胱"
 monitor_inn: "Solifenacin"
 predicted_indications: ["polycystic kidney disease 3 with or without polycystic liver disease", "thoracic malformation", "renal-hepatic-pancreatic dysplasia", "adult familial nephronophthisis-spastic quadriparesia syndrome", "Joubert syndrome with renal defect", "karyomegalic interstitial nephritis", "low compliance bladder", "polycystic kidney disease", "subarachnoid hemorrhage (disease)", "congenital analbuminemia"]
+last_modified_at: 2026-10-17
+description: "Solifenacin：予測新適応症は多発性嚢胞腎 3 型（多発性嚢胞肝を伴う場合を含む）（エビデンスレベル L5）。既存適応症：過活動膀胱"
 ---
 
 # Solifenacin
@@ -130,4 +130,12 @@ TxGNN モデルは**多発性嚢胞腎 3 型（多発性嚢胞肝を伴う場合
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ソリフェナシンコハク酸塩OD錠2.5mg「JG」、ソリフェナシンコハク酸塩OD錠2.5mg「サワイ」、ソリフェナシンコハク酸塩OD錠2.5mg「トーワ」、ソリフェナシンコハク酸塩OD錠2.5mg「ニプロ」、ソリフェナシンコハク酸塩OD錠2.5mg「日医工」、ソリフェナシンコハク酸塩OD錠5mg「JG」、ソリフェナシンコハク酸塩OD錠5mg「サワイ」、ソリフェナシンコハク酸塩OD錠5mg「トーワ」、ソリフェナシンコハク酸塩OD錠5mg「ニプロ」、ソリフェナシンコハク酸塩OD錠5mg「日医工」、ソリフェナシンコハク酸塩錠2.5mg「TCK」、ソリフェナシンコハク酸塩錠2.5mg「YD」、ソリフェナシンコハク酸塩錠2.5mg「サワイ」、ソリフェナシンコハク酸塩錠2.5mg「ツルハラ」、ソリフェナシンコハク酸塩錠2.5mg「トーワ」、ソリフェナシンコハク酸塩錠2.5mg「日医工」、ソリフェナシンコハク酸塩錠5mg「TCK」、ソリフェナシンコハク酸塩錠5mg「YD」、ソリフェナシンコハク酸塩錠5mg「サワイ」、ソリフェナシンコハク酸塩錠5mg「ツルハラ」、ソリフェナシンコハク酸塩錠5mg「トーワ」、ソリフェナシンコハク酸塩錠5mg「日医工」、ベシケアOD錠2.5mg、ベシケアOD錠2.5mg(選)、ベシケアOD錠5mg、ベシケアOD錠5mg(選)、ベシケア錠2.5mg、ベシケア錠2.5mg(選)、ベシケア錠5mg、ベシケア錠5mg(選)
+<!-- brand-names:end -->
 

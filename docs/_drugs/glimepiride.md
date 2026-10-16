@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 149
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Glimepiride：予測新適応症は古典的スティッフパーソン症候群 (Classic Stiff Person Syndrome)（エビデンスレベル L5）。既存適応症：2型糖尿病（スルホニル尿素系血糖降下薬）"
 monitor_inn: "Glimepiride"
 predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis", "type 1 diabetes mellitus"]
+last_modified_at: 2026-10-17
+description: "Glimepiride：予測新適応症は古典的スティッフパーソン症候群 (Classic Stiff Person Syndrome)（エビデンスレベル L5）。既存適応症：2型糖尿病（スルホニル尿素系血糖降下薬）"
 ---
 
 # Glimepiride
@@ -109,4 +109,12 @@ TxGNN モデルは**古典的スティッフパーソン症候群 (Classic Stiff
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+アマリール、グリメピリド、アマリール0.5mg錠、アマリール0.5mg錠(選)、アマリール1mg錠、アマリール3mg錠、アマリール3mg錠(選)、グリメピリド0.5mg口腔内崩壊錠、グリメピリド0.5mg錠、グリメピリド1mg口腔内崩壊錠、グリメピリド1mg錠、グリメピリド3mg口腔内崩壊錠、グリメピリド3mg錠、グリメピリドOD錠0.5mg「ケミファ」、グリメピリドOD錠0.5mg「トーワ」、グリメピリドOD錠0.5mg「日医工」、グリメピリドOD錠1mg「ケミファ」、グリメピリドOD錠1mg「トーワ」、グリメピリドOD錠1mg「日医工」、グリメピリドOD錠3mg「ケミファ」、グリメピリドOD錠3mg「トーワ」、グリメピリドOD錠3mg「日医工」、グリメピリド錠0.5mg「AA」、グリメピリド錠0.5mg「JG」、グリメピリド錠0.5mg「Me」、グリメピリド錠0.5mg「NC」、グリメピリド錠0.5mg「NIG」、グリメピリド錠0.5mg「NP」、グリメピリド錠0.5mg「TCK」、グリメピリド錠0.5mg「VTRS」、グリメピリド錠0.5mg「YD」、グリメピリド錠0.5mg「ZE」、グリメピリド錠0.5mg「オーハラ」、グリメピリド錠0.5mg「ケミファ」、グリメピリド錠0.5mg「サワイ」、グリメピリド錠0.5mg「サンド」、グリメピリド錠0.5mg「トーワ」、グリメピリド錠0.5mg「フェルゼン」、グリメピリド錠0.5mg「三和」、グリメピリド錠0.5mg「日新」
+<!-- brand-names:end -->
 

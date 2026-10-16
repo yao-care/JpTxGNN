@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 230
 evidence_level: L3
 indication_count: 4
-last_modified_at: 2026-10-15
-description: "Oxaliplatin：予測新適応症は悪性胸膜中皮腫 (Malignant Pleural Mesothelioma)（エビデンスレベル L3）。既存適応症：結腸癌の転移"
 monitor_inn: "Oxaliplatin"
 predicted_indications: ["malignant pleural mesothelioma", "malignant epithelioid mesothelioma", "sarcomatoid mesothelioma", "malignant visceral pleura tumor"]
+last_modified_at: 2026-10-17
+description: "Oxaliplatin：予測新適応症は悪性胸膜中皮腫 (Malignant Pleural Mesothelioma)（エビデンスレベル L3）。既存適応症：結腸癌の転移"
 ---
 
 # Oxaliplatin
@@ -139,4 +139,12 @@ TxGNN モデルは**悪性胸膜中皮腫 (Malignant Pleural Mesothelioma)** に
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+エルプラット点滴静注液100mg 20mL、エルプラット点滴静注液100mg 20mL(選)、エルプラット点滴静注液200mg 40mL、エルプラット点滴静注液200mg 40mL(選)、エルプラット点滴静注液50mg 10mL、エルプラット点滴静注液50mg 10mL(選)
+<!-- brand-names:end -->
 

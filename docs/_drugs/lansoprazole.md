@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 175
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Lansoprazole：予測新適応症は十二指腸胃逆流 (Duodenogastric Reflux)（エビデンスレベル L4）。既存適応症：胃潰瘍、十二指腸潰瘍、吻合部潰瘍、逆流性食道炎、非びらん性胃食道逆流症、ヘリコバクター・ピロリの除菌の補助"
 monitor_inn: "Lansoprazole"
 predicted_indications: ["duodenogastric reflux", "duodenal obstruction", "peptic ulcer perforation", "gastrojejunal ulcer", "abnormality of glucagon secretion", "gastroduodenitis", "acne (disease)", "Smouldering systemic mastocytosis", "leather-bottle stomach", "duodenitis"]
+last_modified_at: 2026-10-17
+description: "Lansoprazole：予測新適応症は十二指腸胃逆流 (Duodenogastric Reflux)（エビデンスレベル L4）。既存適応症：胃潰瘍、十二指腸潰瘍、吻合部潰瘍、逆流性食道炎、非びらん性胃食道逆流症、ヘリコバクター・ピロリの除菌の補助"
 ---
 
 # Lansoprazole
@@ -115,4 +115,12 @@ TxGNN モデルは**十二指腸胃逆流 (Duodenogastric Reflux)** に有効で
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+タケプロン、ランソプラゾール、タケプロンOD錠15 15mg、タケプロンOD錠30 30mg、タケプロンカプセル15 15mg、タケプロンカプセル30 30mg、タケプロン静注用30mg、ランソプラゾール15mg腸溶カプセル、ランソプラゾール15mg腸溶性口腔内崩壊錠、ランソプラゾール30mg腸溶カプセル、ランソプラゾール30mg腸溶性口腔内崩壊錠、ランソプラゾールOD錠15mg「DK」、ランソプラゾールOD錠15mg「NIG」、ランソプラゾールOD錠15mg「ケミファ」、ランソプラゾールOD錠15mg「サワイ」、ランソプラゾールOD錠15mg「トーワ」、ランソプラゾールOD錠15mg「武田テバ」、ランソプラゾールOD錠30mg「DK」、ランソプラゾールOD錠30mg「NIG」、ランソプラゾールOD錠30mg「ケミファ」、ランソプラゾールOD錠30mg「サワイ」、ランソプラゾールOD錠30mg「トーワ」、ランソプラゾールOD錠30mg「武田テバ」、ランソプラゾールカプセル15mg「NIG」、ランソプラゾールカプセル15mg「サワイ」、ランソプラゾールカプセル15mg「トーワ」、ランソプラゾールカプセル30mg「NIG」、ランソプラゾールカプセル30mg「サワイ」、ランソプラゾールカプセル30mg「トーワ」
+<!-- brand-names:end -->
 

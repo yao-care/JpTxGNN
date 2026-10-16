@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 24
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Amlodipine：予測新適応症は脳幹梗塞 (Brain Stem Infarction)（エビデンスレベル L5）。既存適応症：血圧降下薬、血管拡張薬、カルシウムチャネル遮断薬"
 monitor_inn: "Amlodipine"
 predicted_indications: ["brain stem infarction", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "malignant renovascular hypertension", "cerebral artery occlusion", "Braddock syndrome", "MRI defined brain infarct", "ABri amyloidosis", "intracerebral hemorrhage"]
+last_modified_at: 2026-10-17
+description: "Amlodipine：予測新適応症は脳幹梗塞 (Brain Stem Infarction)（エビデンスレベル L5）。既存適応症：血圧降下薬、血管拡張薬、カルシウムチャネル遮断薬"
 ---
 
 # Amlodipine
@@ -125,4 +125,12 @@ TxGNN モデルは**脳幹梗塞 (Brain Stem Infarction)** に有効である可
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+アジルサルタン、アジルバ、アイミクス配合錠HD、アイミクス配合錠HD(選)、アイミクス配合錠LD、アイミクス配合錠LD(選)、アジルサルタンOD錠10mg「DSEP」、アジルサルタンOD錠10mg「ケミファ」、アジルサルタンOD錠10mg「サワイ」、アジルサルタンOD錠10mg「フェルゼン」、アジルサルタンOD錠10mg「日新」、アジルサルタンOD錠10mg「明治」、アジルサルタンOD錠10mg「杏林」、アジルサルタンOD錠20mg「DSEP」、アジルサルタンOD錠20mg「ケミファ」、アジルサルタンOD錠20mg「サワイ」、アジルサルタンOD錠20mg「フェルゼン」、アジルサルタンOD錠20mg「日新」、アジルサルタンOD錠20mg「明治」、アジルサルタンOD錠20mg「杏林」、アジルサルタンOD錠40mg「DSEP」、アジルサルタンOD錠40mg「ケミファ」、アジルサルタンOD錠40mg「サワイ」、アジルサルタンOD錠40mg「フェルゼン」、アジルサルタンOD錠40mg「日新」、アジルサルタンOD錠40mg「明治」、アジルサルタンOD錠40mg「杏林」、アジルサルタン錠10mg「JG」、アジルサルタン錠10mg「TCK」、アジルサルタン錠10mg「サワイ」、アジルサルタン錠10mg「サンド」、アジルサルタン錠10mg「トーワ」、アジルサルタン錠10mg「ニプロ」、アジルサルタン錠10mg「武田テバ」、アジルサルタン錠20mg「JG」、アジルサルタン錠20mg「TCK」、アジルサルタン錠20mg「サワイ」、アジルサルタン錠20mg「サンド」、アジルサルタン錠20mg「トーワ」、アジルサルタン錠20mg「ニプロ」
+<!-- brand-names:end -->
 

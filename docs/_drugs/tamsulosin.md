@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 296
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Tamsulosin：予測新適応症はAmbras 型汎発性先天性多毛症 (Ambras type hypertrichosis universalis congenita)（エビデンスレベル L5）。既存適応症：排尿障害改善薬、α1 アドレナリン受容体拮抗薬"
 monitor_inn: "Tamsulosin"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "migraine with brainstem aura"]
+last_modified_at: 2026-10-17
+description: "Tamsulosin：予測新適応症はAmbras 型汎発性先天性多毛症 (Ambras type hypertrichosis universalis congenita)（エビデンスレベル L5）。既存適応症：排尿障害改善薬、α1 アドレナリン受容体拮抗薬"
 ---
 
 # Tamsulosin
@@ -113,4 +113,12 @@ Ambras 型多毛症に関する文献はありません。参考として、予�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+タムスロシン塩酸塩、ハルナール、タムスロシン塩酸塩0.1mg口腔内崩壊錠、タムスロシン塩酸塩0.2mg口腔内崩壊錠、タムスロシン塩酸塩OD錠0.1mg「CH」、タムスロシン塩酸塩OD錠0.1mg「VTRS」、タムスロシン塩酸塩OD錠0.1mg「あすか」、タムスロシン塩酸塩OD錠0.1mg「ケミファ」、タムスロシン塩酸塩OD錠0.1mg「サワイ」、タムスロシン塩酸塩OD錠0.1mg「トーワ」、タムスロシン塩酸塩OD錠0.1mg「日医工」、タムスロシン塩酸塩OD錠0.1mg「日新」、タムスロシン塩酸塩OD錠0.1mg「明治」、タムスロシン塩酸塩OD錠0.2mg「CH」、タムスロシン塩酸塩OD錠0.2mg「VTRS」、タムスロシン塩酸塩OD錠0.2mg「あすか」、タムスロシン塩酸塩OD錠0.2mg「ケミファ」、タムスロシン塩酸塩OD錠0.2mg「サワイ」、タムスロシン塩酸塩OD錠0.2mg「トーワ」、タムスロシン塩酸塩OD錠0.2mg「日医工」、タムスロシン塩酸塩OD錠0.2mg「日新」、タムスロシン塩酸塩OD錠0.2mg「明治」、タムスロシン塩酸塩カプセル0.1mg「NIG」、タムスロシン塩酸塩カプセル0.2mg「NIG」、ハルナールD錠0.1mg、ハルナールD錠0.1mg(選)、ハルナールD錠0.2mg、ハルナールD錠0.2mg(選)
+<!-- brand-names:end -->
 

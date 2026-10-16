@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 192
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Loratadine：予測新適応症はアレルギー性蕁麻疹 (Allergic Urticaria)（エビデンスレベル L3）。既存適応症：抗アレルギー薬、H1受容体拮抗薬（アレルギー性鼻炎）"
 monitor_inn: "Loratadine"
 predicted_indications: ["allergic urticaria", "nasal cavity disease", "acute laryngopharyngitis", "rosacea conjunctivitis", "cold urticaria", "viral conjunctivitis", "punctate epithelial keratoconjunctivitis", "trigeminal autonomic cephalalgia", "faucial diphtheria", "cervical disc degenerative disorder"]
+last_modified_at: 2026-10-17
+description: "Loratadine：予測新適応症はアレルギー性蕁麻疹 (Allergic Urticaria)（エビデンスレベル L3）。既存適応症：抗アレルギー薬、H1受容体拮抗薬（アレルギー性鼻炎）"
 ---
 
 # Loratadine
@@ -130,4 +130,12 @@ TxGNN モデルは**アレルギー性蕁麻疹 (Allergic Urticaria)** に有効
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+クラリチン、ロラタジン、クラリチンドライシロップ1%、クラリチンドライシロップ1%(選)、クラリチンレディタブ錠10mg、クラリチンレディタブ錠10mg(選)、クラリチン錠10mg、クラリチン錠10mg(選)、ロラタジン1%シロップ用、ロラタジン10mg口腔内崩壊錠、ロラタジン10mg錠、ロラタジンDS1%「サワイ」、ロラタジンDS1%「トーワ」、ロラタジンODフィルム10mg「モチダ」、ロラタジンOD錠10mg「AA」、ロラタジンOD錠10mg「FFP」、ロラタジンOD錠10mg「JG」、ロラタジンOD錠10mg「NP」、ロラタジンOD錠10mg「VTRS」、ロラタジンOD錠10mg「YD」、ロラタジンOD錠10mg「ケミファ」、ロラタジンOD錠10mg「サワイ」、ロラタジンOD錠10mg「トーワ」、ロラタジンOD錠10mg「フェルゼン」、ロラタジンOD錠10mg「日医工」、ロラタジンOD錠10mg「日新」、ロラタジンシロップ用1、ロラタジンドライシロップ1%「日医工」、ロラタジン口腔内崩壊錠10mg、ロラタジン錠10mg、ロラタジン錠10mg「AA」、ロラタジン錠10mg「FFP」、ロラタジン錠10mg「NP」、ロラタジン錠10mg「TCK」、ロラタジン錠10mg「VTRS」、ロラタジン錠10mg「YD」、ロラタジン錠10mg「ケミファ」、ロラタジン錠10mg「サワイ」、ロラタジン錠10mg「フェルゼン」、ロラタジン錠10mg「日医工」
+<!-- brand-names:end -->
 

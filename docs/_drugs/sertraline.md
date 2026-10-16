@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 279
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Sertraline：予測新適応症は演技性パーソナリティ障害 (histrionic personality disorder)（エビデンスレベル L5）。既存適応症：うつ病・うつ状態、パニック障害"
 monitor_inn: "Sertraline"
 predicted_indications: ["histrionic personality disorder (disease)", "schizotypal personality disorder", "paranoid personality disorder", "schizoid personality disorder", "benign paroxysmal torticollis of infancy", "agoraphobia", "dependent personality disorder", "narcissistic personality disorder", "endogenous depression", "major depressive disorder"]
+last_modified_at: 2026-10-17
+description: "Sertraline：予測新適応症は演技性パーソナリティ障害 (histrionic personality disorder)（エビデンスレベル L5）。既存適応症：うつ病・うつ状態、パニック障害"
 ---
 
 # Sertraline
@@ -127,4 +127,12 @@ TxGNN モデルは**演技性パーソナリティ障害 (histrionic personality
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ジェイゾロフト、セルトラリン、ジェイゾロフトOD錠100mg、ジェイゾロフトOD錠100mg(選)、ジェイゾロフトOD錠25mg、ジェイゾロフトOD錠25mg(選)、ジェイゾロフトOD錠50mg、ジェイゾロフトOD錠50mg(選)、ジェイゾロフト錠100mg、ジェイゾロフト錠100mg(選)、ジェイゾロフト錠25mg、ジェイゾロフト錠25mg(選)、ジェイゾロフト錠50mg、ジェイゾロフト錠50mg(選)、セルトラリンOD錠100mg「トーワ」、セルトラリンOD錠25mg「アメル」、セルトラリンOD錠25mg「トーワ」、セルトラリンOD錠50mg「アメル」、セルトラリンOD錠50mg「トーワ」、セルトラリン塩酸塩100mg錠、セルトラリン塩酸塩25mg口腔内崩壊錠、セルトラリン塩酸塩25mg錠、セルトラリン塩酸塩50mg口腔内崩壊錠、セルトラリン塩酸塩50mg錠、セルトラリン錠100mg「DSEP」、セルトラリン錠100mg「JG」、セルトラリン錠100mg「NP」、セルトラリン錠100mg「TCK」、セルトラリン錠100mg「YD」、セルトラリン錠100mg「アメル」、セルトラリン錠100mg「ケミファ」、セルトラリン錠100mg「サワイ」、セルトラリン錠100mg「サンド」、セルトラリン錠100mg「タカタ」、セルトラリン錠100mg「ツルハラ」、セルトラリン錠100mg「トーワ」、セルトラリン錠100mg「明治」、セルトラリン錠100mg「杏林」、セルトラリン錠100mg「科研」、セルトラリン錠25mg「DSEP」
+<!-- brand-names:end -->
 

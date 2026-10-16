@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 63
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Carvedilol：予測新適応症は悪性高血圧性腎疾患 (malignant hypertensive renal disease)（エビデンスレベル L5）。既存適応症：本態性高血圧症、狭心症、拡張型心筋症、頻脈性心房細動（血圧降下薬、α1β遮断薬）"
 monitor_inn: "Carvedilol"
 predicted_indications: ["malignant hypertensive renal disease", "malignant renovascular hypertension", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease", "obsolete susceptibility to ischemic stroke", "cerebrovascular disorder", "ocular tuberculosis", "brain stem infarction"]
+last_modified_at: 2026-10-17
+description: "Carvedilol：予測新適応症は悪性高血圧性腎疾患 (malignant hypertensive renal disease)（エビデンスレベル L5）。既存適応症：本態性高血圧症、狭心症、拡張型心筋症、頻脈性心房細動（血圧降下薬、α1β遮断薬）"
 ---
 
 # Carvedilol
@@ -130,4 +130,12 @@ TxGNN モデルは**悪性高血圧性腎疾患 (malignant hypertensive renal di
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+アーチスト、カルベジロール、アーチスト錠10mg、アーチスト錠10mg(選)、アーチスト錠2.5mg、アーチスト錠2.5mg(選)、アーチスト錠20mg、アーチスト錠20mg(選)、カルベジロール1.25mg錠、カルベジロール10mg錠、カルベジロール2.5mg錠、カルベジロール20mg錠、カルベジロール錠1.25mg「DSEP」、カルベジロール錠1.25mg「JG」、カルベジロール錠1.25mg「Me」、カルベジロール錠1.25mg「NIG」、カルベジロール錠1.25mg「TCK」、カルベジロール錠1.25mg「VTRS」、カルベジロール錠1.25mg「サワイ」、カルベジロール錠1.25mg「トーワ」、カルベジロール錠1.25mg「ニプロ」、カルベジロール錠10mg「DSEP」、カルベジロール錠10mg「JG」、カルベジロール錠10mg「Me」、カルベジロール錠10mg「NIG」、カルベジロール錠10mg「TCK」、カルベジロール錠10mg「VTRS」、カルベジロール錠10mg「サワイ」、カルベジロール錠10mg「トーワ」、カルベジロール錠10mg「ニプロ」、カルベジロール錠2.5mg「DSEP」、カルベジロール錠2.5mg「JG」、カルベジロール錠2.5mg「Me」、カルベジロール錠2.5mg「NIG」、カルベジロール錠2.5mg「TCK」、カルベジロール錠2.5mg「VTRS」、カルベジロール錠2.5mg「サワイ」、カルベジロール錠2.5mg「トーワ」、カルベジロール錠2.5mg「ニプロ」、カルベジロール錠20mg「DSEP」
+<!-- brand-names:end -->
 

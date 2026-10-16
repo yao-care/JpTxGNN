@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 106
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Dutasteride：予測新適応症はアンブラス型先天性全身性多毛症 (Ambras type hypertrichosis universalis congenita)（エビデンスレベル L5）。既存適応症：前立腺肥大症治療薬、抗アンドロゲン薬、5α還元酵素阻害薬"
 monitor_inn: "Dutasteride"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "migraine with brainstem aura", "familial isolated trichomegaly"]
+last_modified_at: 2026-10-17
+description: "Dutasteride：予測新適応症はアンブラス型先天性全身性多毛症 (Ambras type hypertrichosis universalis congenita)（エビデンスレベル L5）。既存適応症：前立腺肥大症治療薬、抗アンドロゲン薬、5α還元酵素阻害薬"
 ---
 
 # Dutasteride
@@ -111,4 +111,12 @@ DHT の抑制は理論上、アンドロゲン依存性の毛髪成長に影響�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+アボルブ、ザガーロ、デュタステリド、アボルブカプセル0.5mg、アボルブカプセル0.5mg(選)、デュタステリド0.5mgカプセル、デュタステリドカプセル0.5mgAV「AFP」、デュタステリドカプセル0.5mgAV「BMD」、デュタステリドカプセル0.5mgAV「DSEP」、デュタステリドカプセル0.5mgAV「JG」、デュタステリドカプセル0.5mgAV「TC」、デュタステリドカプセル0.5mgAV「サワイ」、デュタステリドカプセル0.5mgAV「トーワ」、デュタステリドカプセル0.5mgAV「ニプロ」、デュタステリドカプセル0.5mgAV「フソー」、デュタステリドカプセル0.5mgAV「日医工」、デュタステリドカプセル0.5mgAV「杏林」、デュタステリドカプセル0.5mgAV「武田テバ」、デュタステリド錠0.5mgAV「DSEP」、デュタステリド錠0.5mgAV「NS」、デュタステリド錠0.5mgAV「YD」、デュタステリド錠0.5mgAV「明治」
+<!-- brand-names:end -->
 

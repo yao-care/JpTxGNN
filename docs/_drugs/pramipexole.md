@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 250
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Pramipexole：予測新適応症は注意欠如・多動症 (attention deficit-hyperactivity disorder)（エビデンスレベル L4）。既存適応症：パーキンソン病、レストレスレッグス症候群"
 monitor_inn: "Pramipexole"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "attention deficit hyperactivity disorder, inattentive type", "specific developmental disorder", "chondromyxoid fibroma", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "schizophrenia", "atypical glycine encephalopathy"]
+last_modified_at: 2026-10-17
+description: "Pramipexole：予測新適応症は注意欠如・多動症 (attention deficit-hyperactivity disorder)（エビデンスレベル L4）。既存適応症：パーキンソン病、レストレスレッグス症候群"
 ---
 
 # Pramipexole
@@ -116,4 +116,12 @@ ADHD の予測スコアは非常に高いものの、直接の臨床試験はな
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ビ・シフロール、プラミペキソール塩酸塩、ミラペックス、ビ・シフロール錠0.125mg、ビ・シフロール錠0.125mg(選)、ビ・シフロール錠0.5mg、ビ・シフロール錠0.5mg(選)、プラミペキソール塩酸塩LA錠0.375mgMI「DSEP」、プラミペキソール塩酸塩LA錠0.375mgMI「オーハラ」、プラミペキソール塩酸塩LA錠0.375mgMI「サワイ」、プラミペキソール塩酸塩LA錠0.375mgMI「トーワ」、プラミペキソール塩酸塩LA錠1.5mgMI「DSEP」、プラミペキソール塩酸塩LA錠1.5mgMI「オーハラ」、プラミペキソール塩酸塩LA錠1.5mgMI「サワイ」、プラミペキソール塩酸塩LA錠1.5mgMI「トーワ」、プラミペキソール塩酸塩OD錠0.125mg「トーワ」、プラミペキソール塩酸塩OD錠0.5mg「トーワ」、プラミペキソール塩酸塩錠0.125mg「DSEP」、プラミペキソール塩酸塩錠0.125mg「FFP」、プラミペキソール塩酸塩錠0.125mg「JG」、プラミペキソール塩酸塩錠0.125mg「VTRS」、プラミペキソール塩酸塩錠0.125mg「YD」、プラミペキソール塩酸塩錠0.125mg「タカタ」、プラミペキソール塩酸塩錠0.125mg「日医工」、プラミペキソール塩酸塩錠0.125mg「日新」、プラミペキソール塩酸塩錠0.5mg「DSEP」、プラミペキソール塩酸塩錠0.5mg「FFP」、プラミペキソール塩酸塩錠0.5mg「JG」、プラミペキソール塩酸塩錠0.5mg「VTRS」、プラミペキソール塩酸塩錠0.5mg「YD」、プラミペキソール塩酸塩錠0.5mg「タカタ」、プラミペキソール塩酸塩錠0.5mg「日医工」、プラミペキソール塩酸塩錠0.5mg「日新」、ミラペックスLA錠0.375mg、ミラペックスLA錠0.375mg(選)、ミラペックスLA錠1.5mg、ミラペックスLA錠1.5mg(選)
+<!-- brand-names:end -->
 

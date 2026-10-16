@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 82
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Cyanocobalamin：予測新適応症はビオチン代謝疾患 (biotin metabolic disease)（エビデンスレベル L5）。既存適応症：貧血治療薬、造血薬、ビタミンB12補充薬（甲状腺機能亢進症、広節裂頭条虫症に関連）"
 monitor_inn: "Cyanocobalamin"
 predicted_indications: ["biotin metabolic disease", "inborn error of biotin metabolism", "non-syndromic esophageal malformation", "inflammatory myopathy with abundant macrophages", "idiopathic eosinophilic myositis", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "proteinuria", "focal myositis", "primary CD59 deficiency"]
+last_modified_at: 2026-10-17
+description: "Cyanocobalamin：予測新適応症はビオチン代謝疾患 (biotin metabolic disease)（エビデンスレベル L5）。既存適応症：貧血治療薬、造血薬、ビタミンB12補充薬（甲状腺機能亢進症、広節裂頭条虫症に関連）"
 ---
 
 # Cyanocobalamin
@@ -109,4 +109,12 @@ TxGNN モデルは**ビオチン代謝疾患 (biotin metabolic disease)** に有
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+サンコバ、シアノコバラミン、サンコバ点眼液0.02% 5mL、サンコバ点眼液0.02% 5mL(選)、シアノコバラミン0.02%5mL点眼液、シアノコバラミン注1000μg「NP」 1mg、シアノコバラミン注射液 100μg、シアノコバラミン注射液 1mg、シアノコバラミン注射液1,000μg「トーワ」 1mg、シアノコバラミン注射液1mg「ツルハラ」、シアノコバラミン点眼液0 02、シアノコバラミン点眼液0.02%「センジュ」 5mL、シアノコバラミン点眼液0.02%「ニットー」 5mL、シアノコバラミン点眼液0.02%「日点」 5mL、シアノコバラミン点眼液0.02%「杏林」 5mL
+<!-- brand-names:end -->
 

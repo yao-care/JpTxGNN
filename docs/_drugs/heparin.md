@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 155
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Heparin：予測新適応症は椎骨動脈閉塞症 (Vertebral artery occlusion)（エビデンスレベル L3）。既存適応症：汎発性血管内血液凝固症候群、心筋梗塞症（抗凝固薬、アンチトロンビンIII活性化薬）"
 monitor_inn: "Heparin"
 predicted_indications: ["thrombophilia due to protein C deficiency, autosomal recessive", "primary release disorder of platelets", "pseudo-von Willebrand disease", "atypical hemolytic-uremic syndrome with thrombomodulin anomaly", "neuropathy, painful", "retinal telangiectasia", "retinal microaneurysm", "arteriosclerotic retinopathy", "vertebral artery occlusion", "breast fibrocystic disease"]
+last_modified_at: 2026-10-17
+description: "Heparin：予測新適応症は椎骨動脈閉塞症 (Vertebral artery occlusion)（エビデンスレベル L3）。既存適応症：汎発性血管内血液凝固症候群、心筋梗塞症（抗凝固薬、アンチトロンビンIII活性化薬）"
 ---
 
 # Heparin
@@ -128,4 +128,12 @@ TxGNN モデルの最上位予測は**プロテイン C 欠損による血栓性
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ヒルドイド、ヘパフィルド、ヘパフラッシュ、ヘパリンNa、ヘパリンナトリウム、ヘパリン類似物質、ゼスタッククリーム、ヒルドイドクリーム0.3%、ヒルドイドクリーム0.3%(選)、ヒルドイドゲル0.3%、ヒルドイドゲル0.3%(選)、ヒルドイドソフト軟膏0.3%、ヒルドイドソフト軟膏0.3%(選)、ヒルドイドフォーム0.3%、ヒルドイドフォーム0.3%(選)、ヒルドイドローション0.3%、ヒルドイドローション0.3%(選)、ヘパリンCa注射液10万単位/100mL「サワイ」 10万単位、ヘパリンCa注射液2万単位/20mL「サワイ」 20,000単位、ヘパリンCa注射液5万単位/50mL「サワイ」 50,000単位、ヘパリンCa皮下注1万単位/0.4mL「サワイ」 1万単位、ヘパリンCa皮下注2万単位/0.8mL「サワイ」 2万単位、ヘパリンNaロック100U/mLシリンジオーツカ10mL 1千U、ヘパリンNaロック100U/mLシリンジオーツカ5mL 500U、ヘパリンNaロック10U/mLシリンジオーツカ10mL 100U、ヘパリンNaロック10U/mLシリンジオーツカ5mL 50U、ヘパリンNaロック用100U/mLシリンジ10mLNIG 1千U、ヘパリンNaロック用100U/mLシリンジ10mLニプロ 1千U、ヘパリンNaロック用100U/mLシリンジ5mLNIG 500U、ヘパリンNaロック用100U/mLシリンジ5mLニプロ 500U、ヘパリンNaロック用10U/mLシリンジ10mLNIG 100U、ヘパリンNaロック用10U/mLシリンジ10mLニプロ 100U、ヘパリンNaロック用10U/mLシリンジ5mLNIG 50U、ヘパリンNaロック用10U/mLシリンジ5mLニプロ 50U、ヘパリンNa注1万単位/10mL「モチダ」 10,000単位、ヘパリンNa注5千単位/5mL「モチダ」 5,000単位、ヘパリンNa透析150U/mLシリンジ20mL「NIG」 3千U、ヘパリンNa透析200U/mLシリンジ20mL「NIG」 4千U、ヘパリンNa透析200U/mLシリンジ20mL「フソー」 4千U、ヘパリンNa透析250U/mLシリンジ20mL「NIG」 5千U
+<!-- brand-names:end -->
 

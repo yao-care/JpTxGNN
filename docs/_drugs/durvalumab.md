@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 105
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Durvalumab：予測新適応症は前立腺部尿道尿路上皮癌 (prostatic urethra urothelial carcinoma)（エビデンスレベル L5）。既存適応症：移行上皮癌"
 monitor_inn: "durvalumab"
 predicted_indications: ["prostatic urethra urothelial carcinoma", "kidney pelvis sarcomatoid transitional cell carcinoma", "infiltrating bladder urothelial carcinoma sarcomatoid variant", "renal pelvis papillary urothelial carcinoma", "uterine ligament adenocarcinoma", "endocervical carcinoma", "adenoid cystic carcinoma of the cervix uteri", "uterine ligament serous adenocarcinoma", "signet ring cell variant cervical mucinous adenocarcinoma", "intestinal variant cervical mucinous adenocarcinoma"]
+last_modified_at: 2026-10-17
+description: "Durvalumab：予測新適応症は前立腺部尿道尿路上皮癌 (prostatic urethra urothelial carcinoma)（エビデンスレベル L5）。既存適応症：移行上皮癌"
 ---
 
 # Durvalumab
@@ -128,4 +128,12 @@ TxGNN モデルは**前立腺部尿道尿路上皮癌 (prostatic urethra urothel
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+イミフィンジ点滴静注120mg 2.4mL、イミフィンジ点滴静注500mg 10mL
+<!-- brand-names:end -->
 

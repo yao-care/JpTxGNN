@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 156
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Hydrochlorothiazide：予測新適応症は悪性高血圧性腎疾患 (Malignant Hypertensive Renal Disease)（エビデンスレベル L5）。既存適応症：高血圧症、うっ血性心不全"
 monitor_inn: "Hydrochlorothiazide"
 predicted_indications: ["malignant hypertensive renal disease", "malignant renovascular hypertension", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease", "acute pulmonary heart disease", "primary hereditary glaucoma", "open-angle glaucoma", "hypotrichosis simplex of the scalp"]
+last_modified_at: 2026-10-17
+description: "Hydrochlorothiazide：予測新適応症は悪性高血圧性腎疾患 (Malignant Hypertensive Renal Disease)（エビデンスレベル L5）。既存適応症：高血圧症、うっ血性心不全"
 ---
 
 # Hydrochlorothiazide
@@ -127,4 +127,12 @@ TxGNN モデルは**悪性高血圧性腎疾患 (Malignant Hypertensive Renal Di
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ヒドロクロロチアジド、エカード配合錠HD、エカード配合錠HD(選)、エカード配合錠LD、エカード配合錠LD(選)、カデチア配合錠HD「あすか」、カデチア配合錠HD「テバ」、カデチア配合錠LD「あすか」、カデチア配合錠LD「テバ」、コディオ配合錠EX、コディオ配合錠MD、コディオ配合錠MD(選)、テルチア配合錠AP「DSEP」、テルチア配合錠AP「NIG」、テルチア配合錠AP「サワイ」、テルチア配合錠AP「トーワ」、テルチア配合錠AP「日医工」、テルチア配合錠BP「DSEP」、テルチア配合錠BP「NIG」、テルチア配合錠BP「サワイ」、テルチア配合錠BP「トーワ」、テルチア配合錠BP「日医工」、テルミサルタン・ヒドロクロロチアジドAP錠、テルミサルタン・ヒドロクロロチアジドBP錠、バルヒディオ配合錠EX「JG」、バルヒディオ配合錠EX「NIG」、バルヒディオ配合錠EX「TCK」、バルヒディオ配合錠EX「サワイ」、バルヒディオ配合錠EX「サンド」、バルヒディオ配合錠EX「ツルハラ」、バルヒディオ配合錠EX「トーワ」、バルヒディオ配合錠MD「JG」、バルヒディオ配合錠MD「NIG」、バルヒディオ配合錠MD「TCK」、バルヒディオ配合錠MD「サワイ」、バルヒディオ配合錠MD「サンド」、バルヒディオ配合錠MD「ツルハラ」、バルヒディオ配合錠MD「トーワ」、ヒドロクロロチアジドOD錠12.5mg「トーワ」、ヒドロクロロチアジド錠12.5mg「トーワ」
+<!-- brand-names:end -->
 

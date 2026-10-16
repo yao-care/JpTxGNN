@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 202
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Meropenem：予測新適応症は尿路感染症 (Urinary Tract Infection)（エビデンスレベル L5）。既存適応症：緑膿菌感染症、髄膜炎菌感染症、腹膜炎、細菌性髄膜炎"
 monitor_inn: "Meropenem"
 predicted_indications: ["bacterial arthritis", "epiglottitis", "staphylococcus aureus infection", "laryngitis", "paratyphoid fever", "urinary tract infection (disease)", "Lyme disease", "Peptostreptococcus infectious disease", "gonococcal urethritis", "Ureaplasma urethritis"]
+last_modified_at: 2026-10-17
+description: "Meropenem：予測新適応症は尿路感染症 (Urinary Tract Infection)（エビデンスレベル L5）。既存適応症：緑膿菌感染症、髄膜炎菌感染症、腹膜炎、細菌性髄膜炎"
 ---
 
 # Meropenem
@@ -131,4 +131,12 @@ TxGNN モデルは複数の新規適応症を予測しており、最上位は**
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+メロペン点滴用キット0.5g 500mg生理食塩液100mL付、メロペン点滴用バイアル0.25g 250mg、メロペン点滴用バイアル0.5g 500mg
+<!-- brand-names:end -->
 

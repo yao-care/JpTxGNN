@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 95
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
-description: "Diphenhydramine：予測新適応症は酒さ性結膜炎 (Rosacea Conjunctivitis)（エビデンスレベル L5）。既存適応症：アレルギー性鼻炎（抗アレルギー薬、H1 受容体拮抗薬）"
 monitor_inn: "Diphenhydramine"
 predicted_indications: ["rosacea conjunctivitis"]
+last_modified_at: 2026-10-17
+description: "Diphenhydramine：予測新適応症は酒さ性結膜炎 (Rosacea Conjunctivitis)（エビデンスレベル L5）。既存適応症：アレルギー性鼻炎（抗アレルギー薬、H1 受容体拮抗薬）"
 ---
 
 # Diphenhydramine
@@ -100,4 +100,12 @@ TxGNN モデルは**酒さ性結膜炎 (Rosacea Conjunctivitis)** に有効で�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ジフェンヒドラミン塩酸塩、レスタミン、ジフェンヒドラミン 5g、ジフェンヒドラミン塩酸塩注10mg「日新」 1%1mL、ジフェンヒドラミン塩酸塩注30mg「日新」 1.5%2mL、セレスタミン配合シロップ、ネオレスタミンコーワ、ネオレスタミンコーワ散1%、レスタミンコーワクリーム1%、レスタミンコーワ錠10mg、強力レスタミンコーチゾンコーワ軟膏
+<!-- brand-names:end -->
 

@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 223
 evidence_level: L3
 indication_count: 3
-last_modified_at: 2026-10-15
-description: "Nitrazepam：予測新適応症は睡眠障害（入眠・睡眠維持障害） (sleep disorder, initiating and maintaining sleep)（エビデンスレベル L3）。既存適応症：不眠症、点頭てんかん（抗けいれん薬、催眠鎮静薬）"
 monitor_inn: "nitrazepam"
 predicted_indications: ["sleep disorder, initiating and maintaining sleep", "acute encephalopathy with biphasic seizures and late reduced diffusion", "Wernicke-Korsakoff syndrome"]
+last_modified_at: 2026-10-17
+description: "Nitrazepam：予測新適応症は睡眠障害（入眠・睡眠維持障害） (sleep disorder, initiating and maintaining sleep)（エビデンスレベル L3）。既存適応症：不眠症、点頭てんかん（抗けいれん薬、催眠鎮静薬）"
 ---
 
 # Nitrazepam
@@ -127,4 +127,12 @@ TxGNN モデルは**睡眠障害（入眠・睡眠維持障害）(sleep disorder
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ニトラゼパム、ネルボン、ベンザリン、ニトラゼパム10mg錠、ニトラゼパム5mg錠、ニトラゼパム細粒1%「TCK」、ニトラゼパム錠10mg「JG」、ニトラゼパム錠10mg「TCK」、ニトラゼパム錠10mg「ツルハラ」、ニトラゼパム錠5mg「JG」、ニトラゼパム錠5mg「NIG」、ニトラゼパム錠5mg「TCK」、ニトラゼパム錠5mg「ツルハラ」、ニトラゼパム錠5mg「トーワ」、ネルボン錠10mg、ネルボン錠10mg(選)、ネルボン錠5mg、ネルボン錠5mg(選)、ベンザリン細粒1%、ベンザリン錠10 10mg、ベンザリン錠10 10mg(選)、ベンザリン錠5 5mg、ベンザリン錠5 5mg(選)
+<!-- brand-names:end -->
 

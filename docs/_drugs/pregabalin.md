@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 254
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Pregabalin：予測新適応症は腱炎 (Tendinitis)（最上位予測）。エビデンスが最も豊富な候補は変形性関節症 (Osteoarthritis)（エビデンスレベル L5）。既存適応症：神経障害性疼痛、線維筋痛症"
 monitor_inn: "Pregabalin"
 predicted_indications: ["tendinitis", "idiopathic granulomatous myositis", "myositis fibrosa", "inclusion body myositis", "migraine disorder", "migraine with brainstem aura", "osteoarthritis susceptibility", "osteoarthritis", "headache disorder", "atrophoderma vermiculata"]
+last_modified_at: 2026-10-17
+description: "Pregabalin：予測新適応症は腱炎 (Tendinitis)（最上位予測）。エビデンスが最も豊富な候補は変形性関節症 (Osteoarthritis)（エビデンスレベル L5）。既存適応症：神経障害性疼痛、線維筋痛症"
 ---
 
 # Pregabalin
@@ -140,4 +140,12 @@ TxGNN モデルの予測順位 1 位は**腱炎 (Tendinitis)** ですが、実�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+プレガバリン、リリカ、プレガバリン150mg口腔内崩壊錠、プレガバリン25mg口腔内崩壊錠、プレガバリン75mg口腔内崩壊錠、プレガバリンOD錠150mg「DSEP」、プレガバリンOD錠150mg「JG」、プレガバリンOD錠150mg「KMP」、プレガバリンOD錠150mg「NPI」、プレガバリンOD錠150mg「TCK」、プレガバリンOD錠150mg「VTRS」、プレガバリンOD錠150mg「YD」、プレガバリンOD錠150mg「ZE」、プレガバリンOD錠150mg「アメル」、プレガバリンOD錠150mg「オーハラ」、プレガバリンOD錠150mg「ケミファ」、プレガバリンOD錠150mg「サワイ」、プレガバリンOD錠150mg「サンド」、プレガバリンOD錠150mg「トーワ」、プレガバリンOD錠150mg「ニプロ」、プレガバリンOD錠150mg「フェルゼン」、プレガバリンOD錠150mg「三笠」、プレガバリンOD錠150mg「日医工」、プレガバリンOD錠150mg「明治」、プレガバリンOD錠150mg「杏林」、プレガバリンOD錠150mg「武田テバ」、プレガバリンOD錠150mg「科研」、プレガバリンOD錠25mg「DSEP」、プレガバリンOD錠25mg「JG」、プレガバリンOD錠25mg「KMP」、プレガバリンOD錠25mg「NPI」、プレガバリンOD錠25mg「TCK」、プレガバリンOD錠25mg「VTRS」、プレガバリンOD錠25mg「YD」、プレガバリンOD錠25mg「ZE」、プレガバリンOD錠25mg「アメル」、プレガバリンOD錠25mg「オーハラ」、プレガバリンOD錠25mg「ケミファ」、プレガバリンOD錠25mg「サワイ」、プレガバリンOD錠25mg「サンド」
+<!-- brand-names:end -->
 

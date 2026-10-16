@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 62
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
-description: "Carteolol：予測新適応症は原発性遺伝性緑内障 (Primary Hereditary Glaucoma)（エビデンスレベル L5）。既存適応症：高血圧症、開放隅角緑内障、高眼圧症"
 monitor_inn: "Carteolol"
 predicted_indications: ["primary hereditary glaucoma"]
+last_modified_at: 2026-10-17
+description: "Carteolol：予測新適応症は原発性遺伝性緑内障 (Primary Hereditary Glaucoma)（エビデンスレベル L5）。既存適応症：高血圧症、開放隅角緑内障、高眼圧症"
 ---
 
 # Carteolol
@@ -95,4 +95,12 @@ TxGNN モデルは**原発性遺伝性緑内障 (Primary Hereditary Glaucoma)** 
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+カルテオロール塩酸塩、ミケラン、ミケランLAカプセル15mg、ミケランLA点眼液1%、ミケランLA点眼液1%(選)、ミケランLA点眼液2%、ミケランLA点眼液2%(選)、ミケラン点眼液1%、ミケラン点眼液1%(選)、ミケラン点眼液2%、ミケラン点眼液2%(選)、ミケラン錠5mg、ミケラン錠5mg(選)、小児用ミケラン細粒0.2%
+<!-- brand-names:end -->
 

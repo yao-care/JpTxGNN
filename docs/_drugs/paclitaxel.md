@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 234
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Paclitaxel：予測新適応症は女性乳癌 (female breast carcinoma)（エビデンスレベル L5）。既存適応症：乳癌、胃癌、非小細胞肺癌、膵癌、卵巣癌、子宮体癌、頭頸部癌、食道癌、血管肉腫、子宮頸癌、精巣腫瘍、卵巣腫瘍"
 monitor_inn: "Paclitaxel"
 predicted_indications: ["female breast carcinoma", "estrogen-receptor negative breast cancer", "hormone-resistant breast carcinoma", "Ehrlich tumor carcinoma", "estrogen-receptor positive breast cancer", "bilateral breast carcinoma", "breast carcinoma by gene expression profile", "nipple carcinoma", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
+last_modified_at: 2026-10-17
+description: "Paclitaxel：予測新適応症は女性乳癌 (female breast carcinoma)（エビデンスレベル L5）。既存適応症：乳癌、胃癌、非小細胞肺癌、膵癌、卵巣癌、子宮体癌、頭頸部癌、食道癌、血管肉腫、子宮頸癌、精巣腫瘍、卵巣腫瘍"
 ---
 
 # Paclitaxel
@@ -150,4 +150,12 @@ TxGNN モデルは**女性乳癌 (female breast carcinoma)** に有効である�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+アブラキサン、タキソール、パクリタキセル、タキソール注射液100mg 16.7mL、タキソール注射液30mg 5mL、パクリタキセル100mg16 7mlチ、パクリタキセル100mg16.7mL注射液、パクリタキセルチュウ100mg 16、パクリタキセルチュウ30mg 5mln、パクリタキセルテンテキ、パクリタキセル注100mg/16.7mL「NK」、パクリタキセル注30mg/5mL「NK」、パクリタキセル注射液100mg「NP」 16.7mL、パクリタキセル注射液100mg「サワイ」 16.7mL、パクリタキセル注射液150mg「サワイ」 25mL、パクリタキセル注射液30mg「NP」 5mL、パクリタキセル注射液30mg「サワイ」 5mL、パクリタキセル点滴静注液100mg/16.7mL「ホスピーラ」、パクリタキセル点滴静注液30mg/5mL「ホスピーラ」
+<!-- brand-names:end -->
 

@@ -5,10 +5,10 @@ parent: 高エビデンスレベル
 nav_order: 27
 evidence_level: L1
 indication_count: 6
-last_modified_at: 2026-10-15
-description: "Anastrozole：予測新適応症は女性乳癌 (female breast carcinoma)（エビデンスレベル L1）。既存適応症：閉経後乳癌"
 monitor_inn: "anastrozole"
 predicted_indications: ["female breast carcinoma", "neuroblastoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "monocytic leukemia"]
+last_modified_at: 2026-10-17
+description: "Anastrozole：予測新適応症は女性乳癌 (female breast carcinoma)（エビデンスレベル L1）。既存適応症：閉経後乳癌"
 ---
 
 # Anastrozole
@@ -145,4 +145,12 @@ TxGNN モデルは**女性乳癌 (female breast carcinoma)** に有効である�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+アナストロゾール、アリミデックス、アナストロゾール1mg錠、アナストロゾール錠1mg「DSEP」、アナストロゾール錠1mg「F」、アナストロゾール錠1mg「JG」、アナストロゾール錠1mg「NK」、アナストロゾール錠1mg「NP」、アナストロゾール錠1mg「ケミファ」、アナストロゾール錠1mg「サワイ」、アナストロゾール錠1mg「サンド」、アナストロゾール錠1mg「トーワ」、アリミデックス錠1mg
+<!-- brand-names:end -->
 

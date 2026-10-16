@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 35
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Azathioprine：予測新適応症はコロボーマ性小眼球症-根幹肢異形成症候群 (colobomatous microphthalmia-rhizomelic dysplasi…（エビデンスレベル L5）。既存適応症：臓器移植における拒絶反応、ステロイド依存性のクローン病・潰瘍性大腸炎、顕微鏡的多発血管炎、多発血管炎性肉芽腫症、全身性エリテマトーデス…"
 monitor_inn: "Azathioprine"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "osteoarthritis susceptibility", "WHIM syndrome", "inflammatory bowel disease", "granulomatous disease, chronic, autosomal recessive, 5", "osteoarthritis", "granulomatous disease with defect in neutrophil chemotaxis", "ulcerative colitis (disease)", "acromesomelic dysplasia, Hunter-Thompson type"]
+last_modified_at: 2026-10-17
+description: "Azathioprine：予測新適応症はコロボーマ性小眼球症-根幹肢異形成症候群 (colobomatous microphthalmia-rhizomelic dysplasi…（エビデンスレベル L5）。既存適応症：臓器移植における拒絶反応、ステロイド依存性のクローン病・潰瘍性大腸炎、顕微鏡的多発血管炎、多発血管炎性肉芽腫症、全身性エリテマトーデス…"
 ---
 
 # Azathioprine
@@ -106,4 +106,12 @@ TxGNN モデルは**コロボーマ性小眼球症-根幹肢異形成症候群 (
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+アザニン、イムラン、アザチオプリン、アザチオプリン錠 50mg、アザニン錠50mg、イムラン錠50mg
+<!-- brand-names:end -->
 

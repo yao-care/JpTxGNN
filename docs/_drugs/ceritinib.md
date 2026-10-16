@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 66
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Ceritinib：予測新適応症は歯肉線維腫症 (Fibromatosis, gingival)（エビデンスレベル L5）。既存適応症：非小細胞肺癌（肺癌）"
 monitor_inn: "Ceritinib"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung hilum carcinoma", "lung benign neoplasm", "pulmonary sulcus neoplasm", "lung germ cell tumor", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome", "junctional epidermolysis bullosa"]
+last_modified_at: 2026-10-17
+description: "Ceritinib：予測新適応症は歯肉線維腫症 (Fibromatosis, gingival)（エビデンスレベル L5）。既存適応症：非小細胞肺癌（肺癌）"
 ---
 
 # Ceritinib
@@ -119,4 +119,12 @@ TxGNN モデルは**歯肉線維腫症 (Fibromatosis, gingival)** に有効で�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ジカディア錠150mg
+<!-- brand-names:end -->
 

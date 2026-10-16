@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 207
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Metoclopramide：予測新適応症は胃潰瘍 (Gastric Ulcer)（エビデンスレベル L4）。既存適応症：制吐薬、消化管運動改善薬、ドパミン D2 受容体拮抗薬（胃・十二指腸潰瘍）"
 monitor_inn: "Metoclopramide"
 predicted_indications: ["gastric ulcer (disease)", "gastroduodenitis", "peptic ulcer disease", "peptic ulcer perforation", "gastrojejunal ulcer", "duodenal obstruction", "achlorhydria", "hiatus hernia (disease)", "Dieulafoy lesion", "cascade stomach"]
+last_modified_at: 2026-10-17
+description: "Metoclopramide：予測新適応症は胃潰瘍 (Gastric Ulcer)（エビデンスレベル L4）。既存適応症：制吐薬、消化管運動改善薬、ドパミン D2 受容体拮抗薬（胃・十二指腸潰瘍）"
 ---
 
 # Metoclopramide
@@ -126,4 +126,12 @@ TxGNN モデルは**胃潰瘍 (Gastric Ulcer)** に有効である可能性を�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+プリンペラン、メトクロプラミド、プリンペランシロップ0.1%、プリンペラン注射液10mg 0.5%2mL、プリンペラン細粒2%、プリンペラン細粒2%(選)、プリンペラン錠5 5mg、プリンペラン錠5 5mg(選)、メトクロプラミド5mg錠、メトクロプラミド注10mg「NIG」 0.5%2mL、メトクロプラミド細粒2%「ツルハラ」、メトクロプラミド錠5mg「NIG」、メトクロプラミド錠5mg「タカタ」、メトクロプラミド錠5mg「ツルハラ」、メトクロプラミド錠5mg「トーワ」
+<!-- brand-names:end -->
 

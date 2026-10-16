@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 232
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Oxycodone：予測新適応症はむずむず脚症候群 (Restless Legs Syndrome)（エビデンスレベル L5）。既存適応症：麻薬性鎮痛薬、オピオイド受容体作動薬"
 monitor_inn: "Oxycodone"
 predicted_indications: ["methemoglobinemia", "restless legs syndrome", "myofascial pain syndrome", "methemoglobinemia, alpha type", "common cold", "nephrogenic syndrome of inappropriate antidiuresis", "headache disorder", "tendinitis", "idiopathic granulomatous myositis", "myositis fibrosa"]
+last_modified_at: 2026-10-17
+description: "Oxycodone：予測新適応症はむずむず脚症候群 (Restless Legs Syndrome)（エビデンスレベル L5）。既存適応症：麻薬性鎮痛薬、オピオイド受容体作動薬"
 ---
 
 # Oxycodone
@@ -134,4 +134,12 @@ mu オピオイド受容体の作動は、中枢のドパミン系や感覚伝�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+オキシコドン内服液10mg「日本臓器」 5mL、オキシコドン内服液2.5mg「日本臓器」 2.5mL、オキシコドン内服液20mg「日本臓器」 5mL、オキシコドン内服液5mg「日本臓器」 2.5mL、オキシコドン徐放カプセル10mg「テルモ」、オキシコドン徐放カプセル20mg「テルモ」、オキシコドン徐放カプセル40mg「テルモ」、オキシコドン徐放カプセル5mg「テルモ」、オキシコドン徐放錠10mgNX「第一三共」、オキシコドン徐放錠20mgNX「第一三共」、オキシコドン徐放錠40mgNX「第一三共」、オキシコドン徐放錠5mgNX「第一三共」、オキシコドン注射液10mg「第一三共」 1%1mL、オキシコドン注射液50mg「第一三共」 1%5mL、オキシコドン錠10mgNX「第一三共」、オキシコドン錠2.5mgNX「第一三共」、オキシコドン錠20mgNX「第一三共」、オキシコドン錠5mgNX「第一三共」、複方オキシコドン・アトロピン注射液 1mL、複方オキシコドン注射液 1mL
+<!-- brand-names:end -->
 

@@ -5,10 +5,10 @@ parent: 高エビデンスレベル
 nav_order: 297
 evidence_level: L1
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Tegafur：予測新適応症は大腸腫瘍 (Colonic Neoplasm)（エビデンスレベル L1）。既存適応症：胃癌"
 monitor_inn: "Tegafur"
 predicted_indications: ["colonic neoplasm", "cecum villous adenoma", "cecum neuroendocrine tumor G1", "lipoma of colon", "cecal disease", "colon leiomyoma", "benign neoplasm of cecum", "rectosigmoid junction neoplasm", "colonic lymphangioma", "cavernous hemangioma of colon"]
+last_modified_at: 2026-10-17
+description: "Tegafur：予測新適応症は大腸腫瘍 (Colonic Neoplasm)（エビデンスレベル L1）。既存適応症：胃癌"
 ---
 
 # Tegafur
@@ -138,4 +138,12 @@ TxGNN モデルは**大腸腫瘍 (Colonic Neoplasm)** に有効である可能�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+エスエーワン配合OD錠T20 20mg(テガフール相当量)、エスエーワン配合OD錠T25 25mg(テガフール相当量)、エスエーワン配合カプセルT20 20mg(テガフール相当量)、エスエーワン配合カプセルT25 25mg(テガフール相当量)、エスワンタイホウ配合OD錠T20 20mg(テガフール相当量)、エスワンタイホウ配合OD錠T25 25mg(テガフール相当量)、エヌケーエスワン配合OD錠T20 20mg(テガフール相当量)、エヌケーエスワン配合OD錠T25 25mg(テガフール相当量)、エヌケーエスワン配合カプセルT20 20mg(テガフール相当量)、エヌケーエスワン配合カプセルT25 25mg(テガフール相当量)、ティーエスワン配合OD錠T20 20mg(テガフール相当量)、ティーエスワン配合OD錠T20 20mg(テガフール量)(選)、ティーエスワン配合OD錠T25 25mg(テガフール相当量)、ティーエスワン配合OD錠T25 25mg(テガフール量)(選)、ティーエスワン配合カプセルT20 20mg(テガフール相当量)、ティーエスワン配合カプセルT20 20mg(テガフール量)(選)、ティーエスワン配合カプセルT25 25mg(テガフール相当量)、ティーエスワン配合カプセルT25 25mg(テガフール量)(選)、ティーエスワン配合顆粒T20 20mg(テガフール相当量)、ティーエスワン配合顆粒T25 25mg(テガフール相当量)、テガフール・ギメラシル・オテラシルカリウムT25カプセル 25、テガフール・ギメラシル・オテラシルカリウムT25口腔内崩壊錠、ユーエフティE配合顆粒T100 100mg(テガフール相当量)、ユーエフティE配合顆粒T150 150mg(テガフール相当量)、ユーエフティE配合顆粒T200 200mg(テガフール相当量)、ユーエフティ配合カプセルT100 100mg(テガフール相当量)
+<!-- brand-names:end -->
 

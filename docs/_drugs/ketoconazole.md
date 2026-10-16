@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 170
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-15
-description: "Ketoconazole：予測新適応症は尋常性ざ瘡 (acne)（エビデンスレベル L4）。既存適応症：白癬、カンジダ症、癜風、脂漏性皮膚炎"
 monitor_inn: "ketoconazole"
 predicted_indications: ["acne (disease)"]
+last_modified_at: 2026-10-17
+description: "Ketoconazole：予測新適応症は尋常性ざ瘡 (acne)（エビデンスレベル L4）。既存適応症：白癬、カンジダ症、癜風、脂漏性皮膚炎"
 ---
 
 # Ketoconazole
@@ -121,4 +121,12 @@ TxGNN モデルは**尋常性ざ瘡 (acne)** に有効である可能性を予�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ケトコナゾール、ニゾラール、ケトコナゾール2%クリーム、ケトコナゾールクリーム2%「JG」、ケトコナゾールクリーム2%「MYK」、ケトコナゾールクリーム2%「NR」、ケトコナゾールクリーム2%「イワキ」、ニゾラールクリーム2%、ニゾラールクリーム2%(選)
+<!-- brand-names:end -->
 

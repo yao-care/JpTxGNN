@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 273
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Rotigotine：予測新適応症は注意欠如・多動症 (attention deficit-hyperactivity disorder)（エビデンスレベル L4）。既存適応症：パーキンソン病、むずむず脚症候群"
 monitor_inn: "rotigotine"
 predicted_indications: ["attention deficit-hyperactivity disorder", "schizophrenia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "faciodigitogenital syndrome", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "myopia X-linked", "atypical glycine encephalopathy", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited"]
+last_modified_at: 2026-10-17
+description: "Rotigotine：予測新適応症は注意欠如・多動症 (attention deficit-hyperactivity disorder)（エビデンスレベル L4）。既存適応症：パーキンソン病、むずむず脚症候群"
 ---
 
 # Rotigotine
@@ -117,4 +117,12 @@ ADHD 以外では、統合失調症（スコア 99.996%、L4、Hold）にドパ�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ニュープロパッチ13 5mg、ニュープロパッチ13.5mg、ニュープロパッチ18mg、ニュープロパッチ2 25mg、ニュープロパッチ2.25mg、ニュープロパッチ4 5mg、ニュープロパッチ4.5mg、ニュープロパッチ9mg
+<!-- brand-names:end -->
 

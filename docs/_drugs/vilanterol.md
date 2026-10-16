@@ -5,10 +5,10 @@ parent: 高エビデンスレベル
 nav_order: 336
 evidence_level: L1
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Vilanterol：予測新適応症は閉塞性肺疾患 (Obstructive Lung Disease)（エビデンスレベル L1）。既存適応症：慢性閉塞性肺疾患、喘息、気管支炎、肺気腫"
 monitor_inn: "Vilanterol"
 predicted_indications: ["obstructive lung disease", "hyperlucent lung", "compensatory emphysema", "interstitial emphysema", "tracheal stenosis", "bronchial neoplasm (disease)", "congenital lobar emphysema", "respiratory malformation", "tracheal calcification", "laryngotracheitis"]
+last_modified_at: 2026-10-17
+description: "Vilanterol：予測新適応症は閉塞性肺疾患 (Obstructive Lung Disease)（エビデンスレベル L1）。既存適応症：慢性閉塞性肺疾患、喘息、気管支炎、肺気腫"
 ---
 
 # Vilanterol
@@ -136,4 +136,12 @@ COPD や喘息はいずれも気流閉塞を特徴とする疾患で、「閉塞
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+レルベア100エリプタ14吸入用、レルベア100エリプタ30吸入用、レルベア200エリプタ14吸入用、レルベア200エリプタ30吸入用、小児用レルベア50エリプタ14吸入用、小児用レルベア50エリプタ30吸入用
+<!-- brand-names:end -->
 

@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 130
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Felbinac：予測新適応症はbrachyolmia-amelogenesis imperfecta syndrome（エビデンスレベル L5）。既存適応症：鎮痛薬、抗炎症薬、シクロオキシゲナーゼ阻害薬"
 monitor_inn: "felbinac"
 predicted_indications: ["brachyolmia-amelogenesis imperfecta syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "spondyloarthropathy, susceptibility to", "rheumatoid nodulosis", "combined immunodeficiency due to moesin deficiency", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "juvenile idiopathic arthritis"]
+last_modified_at: 2026-10-17
+description: "Felbinac：予測新適応症はbrachyolmia-amelogenesis imperfecta syndrome（エビデンスレベル L5）。既存適応症：鎮痛薬、抗炎症薬、シクロオキシゲナーゼ阻害薬"
 ---
 
 # Felbinac
@@ -97,4 +97,12 @@ TxGNN モデルは **brachyolmia-amelogenesis imperfecta syndrome** に有効で
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+セルタッチ、ナパゲルン、フェルビナク、セルタッチテープ70 10cm×14cm、セルタッチテープ70 10cm×14cm(選)、フェルビナク(35mg)7cm×10cm貼付剤、フェルビナクテープ35mg「NP」 7cm×10cm、フェルビナクテープ35mg「三笠」 7cm×10cm、フェルビナクテープ70mg「EMEC」 10cm×14cm、フェルビナクテープ70mg「NP」 10cm×14cm、フェルビナクテープ70mg「三笠」 10cm×14cm、フェルビナクテープ70mg「久光」 10cm×14cm
+<!-- brand-names:end -->
 

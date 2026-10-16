@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 109
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Enalapril：予測新適応症は慢性肺性心疾患 (Chronic Pulmonary Heart Disease)（エビデンスレベル L5）。既存適応症：本態性高血圧症、悪性高血圧（血圧降下薬、血管拡張薬、ACE 阻害薬）"
 monitor_inn: "Enalapril"
 predicted_indications: ["chronic pulmonary heart disease", "acute pulmonary heart disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant renovascular hypertension", "malignant hypertensive renal disease", "primary hereditary glaucoma", "Braddock syndrome", "open-angle glaucoma", "chronic kidney disease"]
+last_modified_at: 2026-10-17
+description: "Enalapril：予測新適応症は慢性肺性心疾患 (Chronic Pulmonary Heart Disease)（エビデンスレベル L5）。既存適応症：本態性高血圧症、悪性高血圧（血圧降下薬、血管拡張薬、ACE 阻害薬）"
 ---
 
 # Enalapril
@@ -121,4 +121,12 @@ TxGNN モデルは**慢性肺性心疾患 (Chronic Pulmonary Heart Disease)** �
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+エナラプリルマレイン酸塩、レニベース、エナラプリルマレイン酸塩10mg錠、エナラプリルマレイン酸塩2.5mg錠、エナラプリルマレイン酸塩5mg錠、エナラプリルマレイン酸塩細粒1%「アメル」、エナラプリルマレイン酸塩錠10mg「EMEC」、エナラプリルマレイン酸塩錠10mg「JG」、エナラプリルマレイン酸塩錠10mg「NikP」、エナラプリルマレイン酸塩錠10mg「VTRS」、エナラプリルマレイン酸塩錠10mg「オーハラ」、エナラプリルマレイン酸塩錠10mg「ケミファ」、エナラプリルマレイン酸塩錠10mg「サワイ」、エナラプリルマレイン酸塩錠10mg「サンド」、エナラプリルマレイン酸塩錠10mg「トーワ」、エナラプリルマレイン酸塩錠10mg「フソー」、エナラプリルマレイン酸塩錠10mg「日新」、エナラプリルマレイン酸塩錠10mg「杏林」、エナラプリルマレイン酸塩錠2.5mg「EMEC」、エナラプリルマレイン酸塩錠2.5mg「JG」、エナラプリルマレイン酸塩錠2.5mg「NikP」、エナラプリルマレイン酸塩錠2.5mg「VTRS」、エナラプリルマレイン酸塩錠2.5mg「オーハラ」、エナラプリルマレイン酸塩錠2.5mg「ケミファ」、エナラプリルマレイン酸塩錠2.5mg「サワイ」、エナラプリルマレイン酸塩錠2.5mg「サンド」、エナラプリルマレイン酸塩錠2.5mg「トーワ」、エナラプリルマレイン酸塩錠2.5mg「フソー」、エナラプリルマレイン酸塩錠2.5mg「日新」、エナラプリルマレイン酸塩錠2.5mg「杏林」、エナラプリルマレイン酸塩錠5mg「EMEC」、エナラプリルマレイン酸塩錠5mg「JG」、エナラプリルマレイン酸塩錠5mg「NikP」、エナラプリルマレイン酸塩錠5mg「VTRS」、エナラプリルマレイン酸塩錠5mg「オーハラ」、エナラプリルマレイン酸塩錠5mg「ケミファ」、エナラプリルマレイン酸塩錠5mg「サワイ」、エナラプリルマレイン酸塩錠5mg「サンド」、エナラプリルマレイン酸塩錠5mg「トーワ」、エナラプリルマレイン酸塩錠5mg「フソー」
+<!-- brand-names:end -->
 

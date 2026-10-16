@@ -5,10 +5,10 @@ parent: 高エビデンスレベル
 nav_order: 97
 evidence_level: L1
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Docetaxel：予測新適応症は女性乳癌 (Female Breast Carcinoma)（エビデンスレベル L1）。既存適応症：非小細胞肺癌、前立腺癌、頭頸部癌、胃癌、乳癌など"
 monitor_inn: "docetaxel"
 predicted_indications: ["female breast carcinoma", "Ewing sarcoma", "well-differentiated fetal adenocarcinoma of the lung", "small cell lung carcinoma", "primary pulmonary lymphoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "pulmonary blastoma", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma"]
+last_modified_at: 2026-10-17
+description: "Docetaxel：予測新適応症は女性乳癌 (Female Breast Carcinoma)（エビデンスレベル L1）。既存適応症：非小細胞肺癌、前立腺癌、頭頸部癌、胃癌、乳癌など"
 ---
 
 # Docetaxel
@@ -159,4 +159,12 @@ Ewing 肉腫と横紋筋肉腫では、ゲムシタビンとの逐次併用な�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+タキソテール点滴静注用20mg 0.5mL(溶解液付)、タキソテール点滴静注用20mg 0.5mL(溶解液付)(選)、タキソテール点滴静注用80mg 2mL(溶解液付)、タキソテール点滴静注用80mg 2mL(溶解液付)(選)、ドセタキセル点滴静注20mg/1mL「ニプロ」、ドセタキセル点滴静注80mg/4mL「ニプロ」、ドセタキセル点滴静注液120mg/12mL「ホスピーラ」、ドセタキセル点滴静注液20mg/1mL「NK」、ドセタキセル点滴静注液20mg/1mL「サワイ」、ドセタキセル点滴静注液20mg/2mL「サンド」、ドセタキセル点滴静注液20mg/2mL「ホスピーラ」、ドセタキセル点滴静注液80mg/4mL「NK」、ドセタキセル点滴静注液80mg/4mL「サワイ」、ドセタキセル点滴静注液80mg/8mL「サンド」、ドセタキセル点滴静注液80mg/8mL「ホスピーラ」、ドセタキセル点滴静注用20mg「サワイ」 0.5mL(溶解液付)、ドセタキセル点滴静注用80mg「サワイ」 2mL(溶解液付)、ワンタキソテールテンテキ、ワンタキソテール点滴静注20mg/1mL、ワンタキソテール点滴静注20mg/1mL(選)、ワンタキソテール点滴静注80mg/4mL、ワンタキソテール点滴静注80mg/4mL(選)
+<!-- brand-names:end -->
 

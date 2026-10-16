@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 135
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Flecainide：予測新適応症は脳卒中 (stroke disorder)（エビデンスレベル L4）。既存適応症：発作性心房細動・粗動、期外収縮"
 monitor_inn: "Flecainide"
 predicted_indications: ["stroke disorder", "obsolete susceptibility to ischemic stroke", "sick sinus syndrome 2, autosomal dominant", "ABri amyloidosis", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "duodenal obstruction", "cerebrovascular disorder", "nephrogenic syndrome of inappropriate antidiuresis"]
+last_modified_at: 2026-10-17
+description: "Flecainide：予測新適応症は脳卒中 (stroke disorder)（エビデンスレベル L4）。既存適応症：発作性心房細動・粗動、期外収縮"
 ---
 
 # Flecainide
@@ -122,4 +122,12 @@ TxGNN モデルは**脳卒中 (stroke disorder)** に有効である可能性を
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+タンボコール、フレカイニド酢酸塩、タンボコール細粒10%、タンボコール錠100mg、タンボコール錠100mg(選)、タンボコール錠50mg、タンボコール錠50mg(選)、タンボコール静注50mg 5mL、フレカイニド酢酸塩錠100mg「KO」、フレカイニド酢酸塩錠100mg「TE」、フレカイニド酢酸塩錠100mg「VTRS」、フレカイニド酢酸塩錠50mg「KO」、フレカイニド酢酸塩錠50mg「TE」、フレカイニド酢酸塩錠50mg「VTRS」
+<!-- brand-names:end -->
 

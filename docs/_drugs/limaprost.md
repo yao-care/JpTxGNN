@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 188
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-15
-description: "Limaprost：予測新適応症は遺伝性フォンヴィレブランド病 (hereditary von Willebrand disease)（エビデンスレベル L5）。既存適応症：閉塞性血栓血管炎、腰部脊柱管狭窄症（血小板凝集抑制薬・血管拡張薬・プロスタグランジンE1受容体作動薬）"
 monitor_inn: "Limaprost"
 predicted_indications: ["hereditary von Willebrand disease", "small bowel Crohn disease", "gastritis", "Von Willebrand disease, X-linked form", "venous insufficiency (disease)"]
+last_modified_at: 2026-10-17
+description: "Limaprost：予測新適応症は遺伝性フォンヴィレブランド病 (hereditary von Willebrand disease)（エビデンスレベル L5）。既存適応症：閉塞性血栓血管炎、腰部脊柱管狭窄症（血小板凝集抑制薬・血管拡張薬・プロスタグランジンE1受容体作動薬）"
 ---
 
 # Limaprost
@@ -108,4 +108,12 @@ TxGNN モデルは**遺伝性フォンヴィレブランド病 (hereditary von W
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+オパルモン、リマプロストアルファデクス、オパルモン錠5μg、オパルモン錠5μg(選)、リマプロスト アルファデクス5μg錠、リマプロスト アルファデクス錠5μg「サワイ」、リマプロスト アルファデクス錠5μg「日医工」、リマプロストアルファデクス錠5μg「SN」、リマプロストアルファデクス錠5μg「サワイ」、リマプロストアルファデクス錠5μg「日医工」
+<!-- brand-names:end -->
 

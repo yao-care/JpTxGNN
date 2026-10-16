@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 87
 evidence_level: L4
 indication_count: 5
-last_modified_at: 2026-10-15
-description: "Deferasirox：予測新適応症はHIV 感染症 (HIV infectious disease)（エビデンスレベル L4）。既存適応症：解毒薬（鉄過剰蓄積）、キレート剤"
 monitor_inn: "deferasirox"
 predicted_indications: ["HIV infectious disease", "chronic hepatitis C virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "dermatofibrosarcoma protuberans"]
+last_modified_at: 2026-10-17
+description: "Deferasirox：予測新適応症はHIV 感染症 (HIV infectious disease)（エビデンスレベル L4）。既存適応症：解毒薬（鉄過剰蓄積）、キレート剤"
 ---
 
 # Deferasirox
@@ -112,4 +112,12 @@ HIV 感染症への有効性を支持するのは in vitro 研究と総説のみ
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ジャドニュ、デフェラシロクス、ジャドニュ顆粒分包360mg、ジャドニュ顆粒分包360mg(選)、ジャドニュ顆粒分包90mg、ジャドニュ顆粒分包90mg(選)、デフェラシロクス顆粒分包360mg「サワイ」、デフェラシロクス顆粒分包360mg「サンド」、デフェラシロクス顆粒分包90mg「サワイ」、デフェラシロクス顆粒分包90mg「サンド」
+<!-- brand-names:end -->
 

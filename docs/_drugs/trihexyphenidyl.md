@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 325
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Trihexyphenidyl：予測新適応症は注意欠如・多動症 (attention deficit-hyperactivity disorder)（エビデンスレベル L4）。既存適応症：パーキンソン病治療薬、ムスカリン受容体拮抗薬（特発性パーキンソニズム、その他のパーキンソニズム）"
 monitor_inn: "Trihexyphenidyl"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "attention deficit hyperactivity disorder, inattentive type", "Rasmussen subacute encephalitis", "PLA2G6-associated neurodegeneration", "congenital disorder of glycosylation with defective fucosylation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "retinal dystrophy with or without extraocular anomalies", "myelitis", "Charcot-Marie-Tooth disease, demyelinating, type 1G"]
+last_modified_at: 2026-10-17
+description: "Trihexyphenidyl：予測新適応症は注意欠如・多動症 (attention deficit-hyperactivity disorder)（エビデンスレベル L4）。既存適応症：パーキンソン病治療薬、ムスカリン受容体拮抗薬（特発性パーキンソニズム、その他のパーキンソニズム）"
 ---
 
 # Trihexyphenidyl
@@ -121,4 +121,12 @@ ADHD に対する臨床試験はなく、文献もチックとジストニアの
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+アーテン、セドリーナ、トリヘキシフェニジル塩酸塩、パーキネス、アーテン散1%、アーテン錠(2mg)、トリヘキシフェニジル塩酸塩散1%「CH」、トリヘキシフェニジル塩酸塩錠 2mg、トリヘキシフェニジル塩酸塩錠2mg「CH」、トリヘキシフェニジル塩酸塩錠2mg「NIG」、トリヘキシフェニジル塩酸塩錠2mg「アメル」、トリヘキシフェニジル塩酸塩錠2mg「タカタ」、トリヘキシフェニジル塩酸塩錠2mg「ニプロ」、トリヘキシフェニジル塩酸塩錠2mg「杏林」
+<!-- brand-names:end -->
 

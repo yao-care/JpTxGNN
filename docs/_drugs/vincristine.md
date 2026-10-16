@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 338
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-15
-description: "Vincristine：予測新適応症は神経節芽腫 (Ganglioneuroblastoma)（エビデンスレベル L5）。既存適応症：急性リンパ芽球性白血病、ホジキンリンパ腫、非ホジキンリンパ腫、マントル細胞リンパ腫、ランゲルハンス細胞組織球症など"
 monitor_inn: "Vincristine"
 predicted_indications: ["ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm"]
+last_modified_at: 2026-10-17
+description: "Vincristine：予測新適応症は神経節芽腫 (Ganglioneuroblastoma)（エビデンスレベル L5）。既存適応症：急性リンパ芽球性白血病、ホジキンリンパ腫、非ホジキンリンパ腫、マントル細胞リンパ腫、ランゲルハンス細胞組織球症など"
 ---
 
 # Vincristine
@@ -122,4 +122,12 @@ TxGNN モデルは**神経節芽腫 (Ganglioneuroblastoma)** に有効である�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+オンコビン注射用1mg
+<!-- brand-names:end -->
 

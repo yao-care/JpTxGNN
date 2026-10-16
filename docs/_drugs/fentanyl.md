@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 133
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Fentanyl：予測新適応症は腎性抗利尿ホルモン不適切分泌症候群 (Nephrogenic Syndrome of Inappropriate Antidiuresis)（エビデンスレベル L5）。既存適応症：麻薬性鎮痛薬、オピオイド受容体作動薬"
 monitor_inn: "Fentanyl"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome", "trichotillomania", "myofascial pain syndrome", "manic bipolar affective disorder", "migraine with brainstem aura", "methemoglobinemia", "idiopathic granulomatous myositis", "myositis fibrosa", "tendinitis"]
+last_modified_at: 2026-10-17
+description: "Fentanyl：予測新適応症は腎性抗利尿ホルモン不適切分泌症候群 (Nephrogenic Syndrome of Inappropriate Antidiuresis)（エビデンスレベル L5）。既存適応症：麻薬性鎮痛薬、オピオイド受容体作動薬"
 ---
 
 # Fentanyl
@@ -112,4 +112,12 @@ TxGNN のスコアは高いものの、知識グラフ上の関連性に基づ�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+デュロテップ、フェンタニル、ラフェンタ、ワンデュロ、フェンタニル1.38mg貼付剤、フェンタニル11mg貼付剤、フェンタニル1日用テープ0.84mg「ユートク」、フェンタニル1日用テープ1.7mg「ユートク」、フェンタニル1日用テープ3.4mg「ユートク」、フェンタニル1日用テープ5mg「ユートク」、フェンタニル1日用テープ6.7mg「ユートク」、フェンタニル2.75mg貼付剤、フェンタニル3日用テープ12.6mg「HMT」、フェンタニル3日用テープ12.6mg「テイコク」、フェンタニル3日用テープ12.6mg「トーワ」、フェンタニル3日用テープ12.6mg「ユートク」、フェンタニル3日用テープ16.8mg「HMT」、フェンタニル3日用テープ16.8mg「テイコク」、フェンタニル3日用テープ16.8mg「トーワ」、フェンタニル3日用テープ16.8mg「ユートク」、フェンタニル3日用テープ2.1mg「HMT」、フェンタニル3日用テープ2.1mg「テイコク」、フェンタニル3日用テープ2.1mg「トーワ」、フェンタニル3日用テープ2.1mg「ユートク」、フェンタニル3日用テープ4.2mg「HMT」、フェンタニル3日用テープ4.2mg「テイコク」、フェンタニル3日用テープ4.2mg「トーワ」、フェンタニル3日用テープ4.2mg「ユートク」、フェンタニル3日用テープ8.4mg「HMT」、フェンタニル3日用テープ8.4mg「テイコク」、フェンタニル3日用テープ8.4mg「トーワ」、フェンタニル3日用テープ8.4mg「ユートク」、フェンタニル5.5mg貼付剤、フェンタニル8.25mg貼付剤、フェンタニルクエン酸塩0.005%2mL注射液、フェンタニルクエン酸塩0.005%5mL注射液、フェンタニルクエン酸塩1日用テープ0.5mg「テイコク」、フェンタニルクエン酸塩1日用テープ1mg「テイコク」、フェンタニルクエン酸塩1日用テープ1mg「第一三共」、フェンタニルクエン酸塩1日用テープ2mg「テイコク」
+<!-- brand-names:end -->
 

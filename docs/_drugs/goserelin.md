@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 152
 evidence_level: L3
 indication_count: 3
-last_modified_at: 2026-10-15
-description: "Goserelin：予測新適応症は無月経 (Amenorrhea)（エビデンスレベル L3）。既存適応症：子宮内膜症"
 monitor_inn: "Goserelin"
 predicted_indications: ["amenorrhea (disease)", "renal hypoplasia (disease)", "renal hypoplasia, bilateral"]
+last_modified_at: 2026-10-17
+description: "Goserelin：予測新適応症は無月経 (Amenorrhea)（エビデンスレベル L3）。既存適応症：子宮内膜症"
 ---
 
 # Goserelin
@@ -119,4 +119,12 @@ TxGNN モデルは**無月経 (Amenorrhea)** に有効である可能性を予�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ゾラデックス1.8mgデポ (ゴセレリンとして)、ゾラデックス3.6mgデポ (ゴセレリンとして)、ゾラデックスLA10.8mgデポ (ゴセレリンとして)
+<!-- brand-names:end -->
 

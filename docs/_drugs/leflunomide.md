@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 177
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-15
-description: "Leflunomide：予測新適応症は先端短指症・合指症症候群 (brachydactyly-syndactyly syndrome)（エビデンスレベル L5）。既存適応症：乾癬性関節炎、関節リウマチ"
 monitor_inn: "Leflunomide"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
+last_modified_at: 2026-10-17
+description: "Leflunomide：予測新適応症は先端短指症・合指症症候群 (brachydactyly-syndactyly syndrome)（エビデンスレベル L5）。既存適応症：乾癬性関節炎、関節リウマチ"
 ---
 
 # Leflunomide
@@ -103,4 +103,12 @@ TxGNN モデルは**先端短指症・合指症症候群 (brachydactyly-syndacty
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+アラバ錠100mg、アラバ錠10mg、アラバ錠20mg
+<!-- brand-names:end -->
 

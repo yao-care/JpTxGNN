@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 122
 evidence_level: L4
 indication_count: 6
-last_modified_at: 2026-10-15
-description: "Etanercept：予測新適応症は関節リウマチ性血管炎 (Rheumatoid Vasculitis)（エビデンスレベル L4）。既存適応症：乾癬性関節炎、関節リウマチ、強直性脊椎炎、若年性特発性関節炎（日本の承認適応症テキストは、今回まとめたデータには含まれていません）"
 monitor_inn: "Etanercept"
 predicted_indications: ["rheumatoid vasculitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "polyarticular juvenile rheumatoid arthritis", "vertebral disease"]
+last_modified_at: 2026-10-17
+description: "Etanercept：予測新適応症は関節リウマチ性血管炎 (Rheumatoid Vasculitis)（エビデンスレベル L4）。既存適応症：乾癬性関節炎、関節リウマチ、強直性脊椎炎、若年性特発性関節炎（日本の承認適応症テキストは、今回まとめたデータには含まれていません）"
 ---
 
 # Etanercept
@@ -146,4 +146,12 @@ TxGNN モデルは**関節リウマチ性血管炎 (Rheumatoid Vasculitis)** に
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+エタネルセプトBS皮下注10mgシリンジ1.0mLTY 1mL、エタネルセプトBS皮下注10mgシリンジ1.0mL日医工 1mL、エタネルセプトBS皮下注25mgシリンジ0.5mL「MA」、エタネルセプトBS皮下注25mgシリンジ0.5mL「TY」、エタネルセプトBS皮下注25mgシリンジ0.5mL「日医工」、エタネルセプトBS皮下注25mgペン0.5mL「MA」、エタネルセプトBS皮下注50mgシリンジ1.0mLMA 1mL、エタネルセプトBS皮下注50mgシリンジ1.0mLTY 1mL、エタネルセプトBS皮下注50mgシリンジ1.0mL日医工 1mL、エタネルセプトBS皮下注50mgペン1.0mL「MA」 1mL、エタネルセプトBS皮下注50mgペン1.0mL「TY」 1mL、エタネルセプトBS皮下注50mgペン1.0mL「日医工」 1mL、エタネルセプトBS皮下注用10mg「MA」、エタネルセプトBS皮下注用25mg「MA」、エンブレル皮下注25mgクリックワイズ用0.5mL、エンブレル皮下注25mgシリンジ0.5mL、エンブレル皮下注25mgペン0.5mL、エンブレル皮下注50mgクリックワイズ用1.0mL 1mL、エンブレル皮下注50mgシリンジ1.0mL 1mL、エンブレル皮下注50mgペン1.0mL 1mL、エンブレル皮下注用10mg、エンブレル皮下注用25mg
+<!-- brand-names:end -->
 

@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 85
 evidence_level: L3
 indication_count: 9
-last_modified_at: 2026-10-15
-description: "Dantrolene：予測新適応症は悪性高熱症感受性 (malignant hyperthermia, susceptibility to)（エビデンスレベル L3）。既存適応症：麻酔時の悪性高熱症、運動誘発性悪性高熱症"
 monitor_inn: "Dantrolene"
 predicted_indications: ["malignant hyperthermia, susceptibility to", "moderate multiminicore disease with hand involvement", "King-Denborough syndrome", "congenital multicore myopathy with external ophthalmoplegia", "central core myopathy", "hypokalemic periodic paralysis", "thyrotoxic periodic paralysis, susceptibility to", "thyrotoxic periodic paralysis", "myopathy, centronuclear"]
+last_modified_at: 2026-10-17
+description: "Dantrolene：予測新適応症は悪性高熱症感受性 (malignant hyperthermia, susceptibility to)（エビデンスレベル L3）。既存適応症：麻酔時の悪性高熱症、運動誘発性悪性高熱症"
 ---
 
 # Dantrolene
@@ -115,4 +115,12 @@ TxGNN モデルは**悪性高熱症感受性 (malignant hyperthermia, susceptibi
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ダントリウムカプセル25mg、ダントリウム静注用20mg
+<!-- brand-names:end -->
 

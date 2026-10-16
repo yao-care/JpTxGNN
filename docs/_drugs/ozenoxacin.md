@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 233
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
-description: "Ozenoxacin：予測新適応症はマラリア (Malaria)（エビデンスレベル L5）。既存適応症：ざ瘡"
 monitor_inn: "Ozenoxacin"
 predicted_indications: ["malaria"]
+last_modified_at: 2026-10-17
+description: "Ozenoxacin：予測新適応症はマラリア (Malaria)（エビデンスレベル L5）。既存適応症：ざ瘡"
 ---
 
 # Ozenoxacin
@@ -90,4 +90,12 @@ TxGNN モデルは**マラリア (Malaria)** に有効である可能性を予�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ゼビアックスローション2%、ゼビアックス油性クリーム2%
+<!-- brand-names:end -->
 

@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 16
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
-description: "Adapalene：予測新適応症は血漿亜鉛高値 (zinc, elevated plasma)（エビデンスレベル L5）。既存適応症：尋常性ざ瘡"
 monitor_inn: "Adapalene"
 predicted_indications: ["zinc, elevated plasma"]
+last_modified_at: 2026-10-17
+description: "Adapalene：予測新適応症は血漿亜鉛高値 (zinc, elevated plasma)（エビデンスレベル L5）。既存適応症：尋常性ざ瘡"
 ---
 
 # Adapalene
@@ -100,4 +100,12 @@ TxGNN のスコアは高いものの（99.51%）、ネットワークに基づ�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+アダパレン、ディフェリン、アダパレンクリーム0.1%「ニプロ」、アダパレンゲル0.1%「JG」、アダパレンゲル0.1%「KMP」、アダパレンゲル0.1%「TCK」、アダパレンゲル0.1%「YD」、アダパレンゲル0.1%「イワキ」、アダパレンゲル0.1%「テイコク」、アダパレンゲル0.1%「ニットー」、アダパレンゲル0.1%「ニプロ」、アダパレンゲル0.1%「日新」、アダパレンゲル0.1%「東光」、エピデュオゲル、ディフェリンゲル0.1%、ディフェリンゲル0.1%(選)
+<!-- brand-names:end -->
 

@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 227
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Omeprazole：予測新適応症は十二指腸胃逆流 (duodenogastric reflux)（エビデンスレベル L3）。既存適応症：胃潰瘍、十二指腸潰瘍、吻合部潰瘍、逆流性食道炎、非びらん性胃食道逆流症、Zollinger-Ellison 症候群…"
 monitor_inn: "Omeprazole"
 predicted_indications: ["duodenogastric reflux", "duodenal obstruction", "active peptic ulcer disease", "gastrojejunal ulcer", "peptic ulcer perforation", "abnormality of glucagon secretion", "gastroduodenitis", "Smouldering systemic mastocytosis", "lymphoadenopathic mastocytosis with eosinophilia", "duodenitis"]
+last_modified_at: 2026-10-17
+description: "Omeprazole：予測新適応症は十二指腸胃逆流 (duodenogastric reflux)（エビデンスレベル L3）。既存適応症：胃潰瘍、十二指腸潰瘍、吻合部潰瘍、逆流性食道炎、非びらん性胃食道逆流症、Zollinger-Ellison 症候群…"
 ---
 
 # Omeprazole
@@ -131,4 +131,12 @@ Barrett 食道患者を対象とした研究では、オメプラゾールが十
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+オメプラゾン、オメプラゾール、オメプラール、オメプラゾン錠10mg、オメプラゾン錠20mg、オメプラゾール10mg腸溶錠、オメプラゾール20mg腸溶錠、オメプラゾールナトリウム20mg注射用、オメプラゾール注射用20mg「日医工」、オメプラゾール注用20mg「NP」、オメプラゾール注用20mg「TYK」、オメプラゾール腸溶錠10mg「武田テバ」、オメプラゾール腸溶錠20mg「武田テバ」、オメプラゾール錠10mg「TSU」、オメプラゾール錠10mg「アメル」、オメプラゾール錠10mg「ケミファ」、オメプラゾール錠10mg「トーワ」、オメプラゾール錠10「SW」 10mg、オメプラゾール錠20mg「TSU」、オメプラゾール錠20mg「アメル」、オメプラゾール錠20mg「ケミファ」、オメプラゾール錠20mg「トーワ」、オメプラゾール錠20「SW」 20mg、オメプラール錠10 10mg、オメプラール錠20 20mg
+<!-- brand-names:end -->
 

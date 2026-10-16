@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 143
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Fusidic Acid：予測新適応症は暴露性角膜炎 (Exposure Keratitis)（エビデンスレベル L4）。既存適応症：尿路感染症、気管支炎、ざ瘡、毛嚢炎、脂漏性皮膚炎など"
 monitor_inn: "Fusidic acid"
 predicted_indications: ["exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "parasitic eyelid infestation"]
+last_modified_at: 2026-10-17
+description: "Fusidic Acid：予測新適応症は暴露性角膜炎 (Exposure Keratitis)（エビデンスレベル L4）。既存適応症：尿路感染症、気管支炎、ざ瘡、毛嚢炎、脂漏性皮膚炎など"
 ---
 
 # Fusidic Acid
@@ -103,4 +103,12 @@ TxGNN モデルは**暴露性角膜炎 (Exposure Keratitis)** に有効である
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+フシジンレオ軟膏2% 20mg
+<!-- brand-names:end -->
 

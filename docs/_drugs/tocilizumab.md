@@ -5,10 +5,10 @@ parent: 高エビデンスレベル
 nav_order: 310
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Tocilizumab：予測新適応症は強直性脊椎炎 (Ankylosing Spondylitis)（エビデンスレベル L2）。既存適応症：関節リウマチ、若年性特発性関節炎、側頭動脈炎、キャッスルマン病など（日本の承認適応症テキストは未登録）"
 monitor_inn: "Tocilizumab"
 predicted_indications: ["ankylosing spondylitis", "rheumatoid vasculitis", "hypermobility of coccyx", "spondyloarthropathy, susceptibility to", "inflammatory spondylopathy", "Kummell disease", "polyarticular juvenile rheumatoid arthritis", "vertebral disease", "mendelian susceptibility to mycobacterial diseases due to complete IL12B deficiency", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis"]
+last_modified_at: 2026-10-17
+description: "Tocilizumab：予測新適応症は強直性脊椎炎 (Ankylosing Spondylitis)（エビデンスレベル L2）。既存適応症：関節リウマチ、若年性特発性関節炎、側頭動脈炎、キャッスルマン病など（日本の承認適応症テキストは未登録）"
 ---
 
 # Tocilizumab
@@ -136,4 +136,12 @@ TxGNN モデルは**強直性脊椎炎 (Ankylosing Spondylitis)** に有効で�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+アクテムラテンテキ、アクテムラヒカチュウ162mgオートイン、アクテムラヒカチュウ162mgシリンジ、アクテムラ点滴静注用200mg 10mL、アクテムラ点滴静注用400mg 20mL、アクテムラ点滴静注用80mg 4mL、アクテムラ皮下注162mgオートインジェクター 0.9mL、アクテムラ皮下注162mgシリンジ 0.9mL、トシリズマブBS点滴静注200mg「CT」 10mL、トシリズマブBS点滴静注400mg「CT」 20mL、トシリズマブBS点滴静注80mg「CT」 4mL
+<!-- brand-names:end -->
 

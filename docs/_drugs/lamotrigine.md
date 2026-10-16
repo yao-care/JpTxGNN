@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 174
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Lamotrigine：予測新適応症は三叉神経腫瘍 (Trigeminal Nerve Neoplasm)（エビデンスレベル L5）。既存適応症：双極性障害における気分エピソードの再発・再燃抑制、Lennox-Gastaut 症候群（抗てんかん薬）"
 monitor_inn: "Lamotrigine"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "micturation-induced seizures", "thinking seizures", "audiogenic seizures", "eating seizures", "orgasm-induced seizures", "startle epilepsy", "reading seizures", "restless legs syndrome"]
+last_modified_at: 2026-10-17
+description: "Lamotrigine：予測新適応症は三叉神経腫瘍 (Trigeminal Nerve Neoplasm)（エビデンスレベル L5）。既存適応症：双極性障害における気分エピソードの再発・再燃抑制、Lennox-Gastaut 症候群（抗てんかん薬）"
 ---
 
 # Lamotrigine
@@ -132,4 +132,12 @@ TxGNN モデルは**三叉神経腫瘍 (Trigeminal Nerve Neoplasm)** に有効�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ラミクタール、ラモトリギン、ラミクタール錠100mg、ラミクタール錠25mg、ラミクタール錠25mg(選)、ラミクタール錠小児用2mg、ラミクタール錠小児用5mg、ラミクタール錠小児用5mg(選)、ラモトリギン25mg錠、ラモトリギン2mg錠、ラモトリギン5mg錠、ラモトリギン錠100mg「JG」、ラモトリギン錠100mg「アメル」、ラモトリギン錠100mg「サワイ」、ラモトリギン錠100mg「トーワ」、ラモトリギン錠100mg「日医工」、ラモトリギン錠25mg「JG」、ラモトリギン錠25mg「アメル」、ラモトリギン錠25mg「サワイ」、ラモトリギン錠25mg「トーワ」、ラモトリギン錠25mg「日医工」、ラモトリギン錠小児用2mg「JG」、ラモトリギン錠小児用2mg「アメル」、ラモトリギン錠小児用2mg「サワイ」、ラモトリギン錠小児用2mg「トーワ」、ラモトリギン錠小児用2mg「日医工」、ラモトリギン錠小児用5mg「JG」、ラモトリギン錠小児用5mg「アメル」、ラモトリギン錠小児用5mg「サワイ」、ラモトリギン錠小児用5mg「トーワ」、ラモトリギン錠小児用5mg「日医工」
+<!-- brand-names:end -->
 

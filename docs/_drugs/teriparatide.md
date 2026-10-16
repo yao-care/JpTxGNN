@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 302
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Teriparatide：予測新適応症は十二指腸潰瘍 (duodenal ulcer)（エビデンスレベル L5）。既存適応症：骨粗鬆症（閉経後骨粗鬆症を含む）"
 monitor_inn: "Teriparatide"
 predicted_indications: ["duodenal ulcer (disease)", "non-syndromic esophageal malformation", "duodenal obstruction", "duodenogastric reflux", "esophageal disease", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "pregnancy associated osteoporosis", "succinyl-CoA:3-ketoacid CoA transferase deficiency", "amenorrhea (disease)"]
+last_modified_at: 2026-10-17
+description: "Teriparatide：予測新適応症は十二指腸潰瘍 (duodenal ulcer)（エビデンスレベル L5）。既存適応症：骨粗鬆症（閉経後骨粗鬆症を含む）"
 ---
 
 # Teriparatide
@@ -120,4 +120,12 @@ TxGNN モデルは**十二指腸潰瘍 (duodenal ulcer)** に有効である可�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+テリボン皮下注28.2μgオートインジェクター、テリボン皮下注用56.5μg、テリボン皮下注用56.5μg (溶解液付)、フォルテオ皮下注キット600μg、フォルテオ皮下注キット600μg 20μg1回分
+<!-- brand-names:end -->
 

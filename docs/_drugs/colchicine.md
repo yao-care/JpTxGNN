@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 79
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-10-15
-description: "Colchicine：予測新適応症は熱帯熱マラリア (Plasmodium falciparum malaria)（エビデンスレベル L4）。既存適応症：痛風発作、家族性地中海熱"
 monitor_inn: "Colchicine"
 predicted_indications: ["Plasmodium falciparum malaria", "familial Mediterranean fever, autosomal dominant", "dermatofibrosarcoma protuberans"]
+last_modified_at: 2026-10-17
+description: "Colchicine：予測新適応症は熱帯熱マラリア (Plasmodium falciparum malaria)（エビデンスレベル L4）。既存適応症：痛風発作、家族性地中海熱"
 ---
 
 # Colchicine
@@ -113,4 +113,12 @@ TxGNN モデルは**熱帯熱マラリア (Plasmodium falciparum malaria)** に�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+コルヒチン、コルヒチン錠0.5mg「タカタ」
+<!-- brand-names:end -->
 

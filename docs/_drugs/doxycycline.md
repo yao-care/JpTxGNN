@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 102
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Doxycycline：予測新適応症は点状表層角結膜炎 (Punctate Epithelial Keratoconjunctivitis)（エビデンスレベル L4）。既存適応症：気管支炎、ざ瘡、細菌性肺炎、炭疽（吸入・消化管）、淋菌感染症、咽頭炎、放線菌症、軟性下疳、レプトスピラ症、鼠径リンパ肉芽腫 など"
 monitor_inn: "Doxycycline"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "exposure keratitis", "chronic gingivitis"]
+last_modified_at: 2026-10-17
+description: "Doxycycline：予測新適応症は点状表層角結膜炎 (Punctate Epithelial Keratoconjunctivitis)（エビデンスレベル L4）。既存適応症：気管支炎、ざ瘡、細菌性肺炎、炭疽（吸入・消化管）、淋菌感染症、咽頭炎、放線菌症、軟性下疳、レプトスピラ症、鼠径リンパ肉芽腫 など"
 ---
 
 # Doxycycline
@@ -110,4 +110,12 @@ TxGNN モデルは**点状表層角結膜炎 (Punctate Epithelial Keratoconjunct
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ビブラマイシン、ビブラマイシン錠100mg、ビブラマイシン錠50mg
+<!-- brand-names:end -->
 

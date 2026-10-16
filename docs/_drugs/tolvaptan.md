@@ -5,10 +5,10 @@ parent: 高エビデンスレベル
 nav_order: 314
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Tolvaptan：予測新適応症は多発性嚢胞腎 3 型（多発性嚢胞肝を伴う場合を含む）（エビデンスレベル L2）。既存適応症：利尿薬、バソプレシン V2 受容体拮抗薬（抗利尿ホルモン不適合分泌症候群）"
 monitor_inn: "tolvaptan"
 predicted_indications: ["polycystic kidney disease 3 with or without polycystic liver disease", "renal-hepatic-pancreatic dysplasia", "karyomegalic interstitial nephritis", "thoracic malformation", "Joubert syndrome with renal defect", "adult familial nephronophthisis-spastic quadriparesia syndrome", "Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature"]
+last_modified_at: 2026-10-17
+description: "Tolvaptan：予測新適応症は多発性嚢胞腎 3 型（多発性嚢胞肝を伴う場合を含む）（エビデンスレベル L2）。既存適応症：利尿薬、バソプレシン V2 受容体拮抗薬（抗利尿ホルモン不適合分泌症候群）"
 ---
 
 # Tolvaptan
@@ -129,4 +129,12 @@ ADPKD に対しては大規模な第 3 相 RCT があり、トルバプタンの
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+サムスカ、トルバプタン、サムスカOD錠15mg、サムスカOD錠15mg(選)、サムスカOD錠7.5mg、サムスカOD錠7.5mg(選)、サムスカ顆粒1%、トルバプタンOD錠15mg「DSEP」、トルバプタンOD錠15mg「TE」、トルバプタンOD錠15mg「オーツカ」、トルバプタンOD錠15mg「サワイ」、トルバプタンOD錠15mg「トーワ」、トルバプタンOD錠15mg「ニプロ」、トルバプタンOD錠3.75mg「TE」、トルバプタンOD錠3.75mg「ニプロ」、トルバプタンOD錠7.5mg「DSEP」、トルバプタンOD錠7.5mg「TE」、トルバプタンOD錠7.5mg「オーツカ」、トルバプタンOD錠7.5mg「サワイ」、トルバプタンOD錠7.5mg「トーワ」、トルバプタンOD錠7.5mg「ニプロ」、トルバプタン顆粒1%「サワイ」、トルバプタン顆粒1%「トーワ」
+<!-- brand-names:end -->
 

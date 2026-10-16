@@ -5,10 +5,10 @@ parent: 高エビデンスレベル
 nav_order: 309
 evidence_level: L2
 indication_count: 6
-last_modified_at: 2026-10-15
-description: "Tizanidine：予測新適応症は片頭痛 (migraine disorder)（エビデンスレベル L2）。既存適応症：脊髄小脳変性症、多発性硬化症、筋萎縮性側索硬化症（鎮痙薬・筋弛緩薬）"
 monitor_inn: "Tizanidine"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "atrophoderma vermiculata", "Tourette syndrome", "ulerythema ophryogenesis"]
+last_modified_at: 2026-10-17
+description: "Tizanidine：予測新適応症は片頭痛 (migraine disorder)（エビデンスレベル L2）。既存適応症：脊髄小脳変性症、多発性硬化症、筋萎縮性側索硬化症（鎮痙薬・筋弛緩薬）"
 ---
 
 # Tizanidine
@@ -135,4 +135,12 @@ TxGNN モデルは**片頭痛 (migraine disorder)** に有効である可能性�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+チザニジン、テルネリン、チザニジン塩酸塩1mg錠、チザニジン錠1mg「JG」、チザニジン錠1mg「サワイ」、チザニジン錠1mg「ツルハラ」、チザニジン錠1mg「テバ」、チザニジン錠1mg「トーワ」、チザニジン錠1mg「日医工」、チザニジン錠1mg「杏林」、テルネリン錠1mg、テルネリン顆粒0.2%
+<!-- brand-names:end -->
 

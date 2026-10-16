@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 131
 evidence_level: L4
 indication_count: 7
-last_modified_at: 2026-10-15
-description: "Felodipine：予測新適応症は肺疾患・低酸素に伴う肺高血圧症 (Pulmonary hypertension owing to lung disease and/or…（エビデンスレベル L4）。既存適応症：高血圧症（血圧降下薬・血管拡張薬・カルシウムチャネル遮断薬）"
 monitor_inn: "Felodipine"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "malignant renovascular hypertension", "Braddock syndrome", "chronic pulmonary heart disease", "Prinzmetal angina"]
+last_modified_at: 2026-10-17
+description: "Felodipine：予測新適応症は肺疾患・低酸素に伴う肺高血圧症 (Pulmonary hypertension owing to lung disease and/or…（エビデンスレベル L4）。既存適応症：高血圧症（血圧降下薬・血管拡張薬・カルシウムチャネル遮断薬）"
 ---
 
 # Felodipine
@@ -126,4 +126,12 @@ TxGNN モデルは**肺疾患・低酸素に伴う肺高血圧症 (Pulmonary hyp
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+スプレンジール、フェロジピン、スプレンジール錠2.5mg、スプレンジール錠2.5mg(選)、スプレンジール錠5mg、スプレンジール錠5mg(選)、フェロジピン2.5mg錠、フェロジピン5mg錠、フェロジピン錠2.5mg「NIG」、フェロジピン錠5mg「NIG」
+<!-- brand-names:end -->
 

@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 147
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Gentamicin：予測新適応症は関節リウマチ (Rheumatoid Arthritis)（エビデンスレベル L5）。既存適応症：眼瞼炎、結膜炎（抗生物質・タンパク質合成阻害薬）"
 monitor_inn: "Gentamicin"
 predicted_indications: ["rheumatoid arthritis", "sclerosing cholangitis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "osteoarthritis susceptibility", "diabetic nephropathy", "congenital hypotrichosis milia", "unclassified myelodysplastic syndrome"]
+last_modified_at: 2026-10-17
+description: "Gentamicin：予測新適応症は関節リウマチ (Rheumatoid Arthritis)（エビデンスレベル L5）。既存適応症：眼瞼炎、結膜炎（抗生物質・タンパク質合成阻害薬）"
 ---
 
 # Gentamicin
@@ -121,4 +121,12 @@ TxGNN モデルは**関節リウマチ (Rheumatoid Arthritis)** に有効であ�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ゲンタシン、ゲンタマイシン、ゲンタマイシン硫酸塩、ゲンタシンクリーム0.1% 1mg、ゲンタシン注10 10mg、ゲンタシン注40 40mg、ゲンタシン注60 60mg、ゲンタシン軟膏0.1% 1mg、ゲンタマイシン点眼液0.3%「日点」 3mg、ゲンタマイシン硫酸塩10mg注射液、ゲンタマイシン硫酸塩3mg1mL点眼液、ゲンタマイシン硫酸塩40mg注射液、ゲンタマイシン硫酸塩60mg注射液、ゲンタマイシン硫酸塩注射液10mg「F」、ゲンタマイシン硫酸塩注射液10mg「日医工」、ゲンタマイシン硫酸塩注射液40mg「F」、ゲンタマイシン硫酸塩注射液40mg「日医工」、ゲンタマイシン硫酸塩注射液60mg「F」、ゲンタマイシン硫酸塩注射液60mg「日医工」、ゲンタマイシン硫酸塩点眼液0 3、ゲンタマイシン硫酸塩点眼液0.3%「ニットー」 3mg、ゲンタマイシン硫酸塩軟膏0.1%「F」 1mg、ゲンタマイシン硫酸塩軟膏0.1%「イワキ」 1mg
+<!-- brand-names:end -->
 

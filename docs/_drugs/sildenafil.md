@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 280
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Sildenafil：予測新適応症はAmbras 型汎発性先天性多毛症 (Ambras type hypertrichosis universalis congenita)（エビデンスレベル L5）。既存適応症：肺動脈性肺高血圧症"
 monitor_inn: "Sildenafil"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "hypertrichosis (disease)", "homozygous familial hypercholesterolemia", "hypoalphalipoproteinemia", "familial isolated trichomegaly", "genetic alopecia", "obsolete patella aplasia, coxa vara, and tarsal synostosis"]
+last_modified_at: 2026-10-17
+description: "Sildenafil：予測新適応症はAmbras 型汎発性先天性多毛症 (Ambras type hypertrichosis universalis congenita)（エビデンスレベル L5）。既存適応症：肺動脈性肺高血圧症"
 ---
 
 # Sildenafil
@@ -121,4 +121,12 @@ Ambras 型汎発性先天性多毛症について、直接関連する文献は�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+シルデナフィル、バイアグラ、レバチオ、シルデナフィル口腔内崩壊錠20mg re、シルデナフィル錠20mg re、シルデナフィル錠20mgRE「JG」、バイアグラODフィルム25mg、バイアグラODフィルム50mg、バイアグラodフィルム25mg、バイアグラodフィルム50mg、バイアグラ錠25mg、バイアグラ錠50mg、レバチオODフィルム20mg、レバチオ錠20mg
+<!-- brand-names:end -->
 

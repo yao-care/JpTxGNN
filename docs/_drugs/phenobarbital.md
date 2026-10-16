@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 242
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Phenobarbital：予測新適応症は三叉神経腫瘍 (Trigeminal Nerve Neoplasm)（エビデンスレベル L5）。既存適応症：不眠症（抗不安薬、抗けいれん薬、催眠鎮静薬）"
 monitor_inn: "Phenobarbital"
 predicted_indications: ["trigeminal nerve neoplasm", "orgasm-induced seizures", "audiogenic seizures", "eating seizures", "micturation-induced seizures", "thinking seizures", "startle epilepsy", "reading seizures", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
+last_modified_at: 2026-10-17
+description: "Phenobarbital：予測新適応症は三叉神経腫瘍 (Trigeminal Nerve Neoplasm)（エビデンスレベル L5）。既存適応症：不眠症（抗不安薬、抗けいれん薬、催眠鎮静薬）"
 ---
 
 # Phenobarbital
@@ -123,4 +123,12 @@ TxGNN モデルは**三叉神経腫瘍 (Trigeminal Nerve Neoplasm)** に有効�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+フェノバルビタール、フェノバール、フェノバルビタール「ホエイ」原末、フェノバルビタール散10%、フェノバルビタール散10%「ホエイ」、フェノバールエリキシル0 4、フェノバールエリキシル0.4%、フェノバールゲンマツ、フェノバール原末、フェノバール散10%、フェノバール注射液100mg 10%1mL、フェノバール錠30mg
+<!-- brand-names:end -->
 

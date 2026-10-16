@@ -5,10 +5,10 @@ parent: 高エビデンスレベル
 nav_order: 329
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Ustekinumab：予測新適応症は皮膚炎 (Dermatitis)（エビデンスレベル L2）。既存適応症：乾癬性関節炎、乾癬、類乾癬"
 monitor_inn: "Ustekinumab"
 predicted_indications: ["dermatitis", "neonatal dermatomyositis", "acne keloid", "acrodermatitis chronica atrophicans", "amyopathic dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy", "pityriasis lichenoides", "acute lichenoid pityriasis"]
+last_modified_at: 2026-10-17
+description: "Ustekinumab：予測新適応症は皮膚炎 (Dermatitis)（エビデンスレベル L2）。既存適応症：乾癬性関節炎、乾癬、類乾癬"
 ---
 
 # Ustekinumab
@@ -125,4 +125,12 @@ TxGNN モデルは**皮膚炎 (Dermatitis)** に有効である可能性を予�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ステラーラ点滴静注130mg 26mL、ステラーラ皮下注45mgシリンジ 0.5mL
+<!-- brand-names:end -->
 

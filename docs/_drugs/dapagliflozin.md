@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 86
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Dapagliflozin：予測新適応症は限局性スティッフリム症候群 (focal stiff limb syndrome)（エビデンスレベル L5）。既存適応症：2型糖尿病（糖尿病治療薬、SGLT-2阻害薬）"
 monitor_inn: "Dapagliflozin"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis", "autoimmune oophoritis"]
+last_modified_at: 2026-10-17
+description: "Dapagliflozin：予測新適応症は限局性スティッフリム症候群 (focal stiff limb syndrome)（エビデンスレベル L5）。既存適応症：2型糖尿病（糖尿病治療薬、SGLT-2阻害薬）"
 ---
 
 # Dapagliflozin
@@ -113,4 +113,12 @@ TxGNN モデルは**限局性スティッフリム症候群 (focal stiff limb sy
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ダパグリフロジン、ダパグリフロジン錠10mg「TSP」、ダパグリフロジン錠10mg「サワイ」、ダパグリフロジン錠5mg「TSP」、ダパグリフロジン錠5mg「サワイ」、フォシーガ錠10mg、フォシーガ錠5mg
+<!-- brand-names:end -->
 

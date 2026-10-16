@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 44
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Bevacizumab：予測新適応症は喉頭蓋腫瘍 (Epiglottis Neoplasm)（第 1 位）／嚢胞性腫瘍 (Cystic Neoplasm)（エビデンス最多）（エビデンスレベル L5）。既存適応症：腹膜癌、原発性腹膜癌、卵巣悪性上皮性腫瘍、乳癌、結腸の転移性腫瘍、膠芽腫など（日本の承認適応症の記載はなし）"
 monitor_inn: "bevacizumab"
 predicted_indications: ["epiglottis neoplasm", "benign neoplasm of tongue", "tumor of testis and paratestis", "benign neoplasm of hypopharynx", "benign neoplasm of floor of mouth", "cervical neuroblastoma", "cystic neoplasm", "nasal cavity inverting papilloma", "mesenchymoma", "schwannoma of jugular foramen"]
+last_modified_at: 2026-10-17
+description: "Bevacizumab：予測新適応症は喉頭蓋腫瘍 (Epiglottis Neoplasm)（第 1 位）／嚢胞性腫瘍 (Cystic Neoplasm)（エビデンス最多）（エビデンスレベル L5）。既存適応症：腹膜癌、原発性腹膜癌、卵巣悪性上皮性腫瘍、乳癌、結腸の転移性腫瘍、膠芽腫など（日本の承認適応症の記載はなし）"
 ---
 
 # Bevacizumab
@@ -135,4 +135,12 @@ TxGNN モデルの予測順位第 1 位は**喉頭蓋腫瘍 (Epiglottis Neoplasm
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+アバスチン点滴静注用100mg/4mL、アバスチン点滴静注用400mg/16mL
+<!-- brand-names:end -->
 

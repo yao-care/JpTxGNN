@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 52
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
-description: "Bromperidol：予測新適応症は不眠症 (Insomnia)（エビデンスレベル L5）。既存適応症：統合失調症治療薬、ドパミン D2 受容体拮抗薬"
 monitor_inn: "bromperidol"
 predicted_indications: ["insomnia (disease)"]
+last_modified_at: 2026-10-17
+description: "Bromperidol：予測新適応症は不眠症 (Insomnia)（エビデンスレベル L5）。既存適応症：統合失調症治療薬、ドパミン D2 受容体拮抗薬"
 ---
 
 # Bromperidol
@@ -94,4 +94,12 @@ TxGNN のスコアは高い（99.85%）ものの、計算上の予測にすぎ�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ブロムペリドール、ブロムペリドール1mg錠、ブロムペリドール細粒1%「アメル」、ブロムペリドール細粒1%「サワイ」、ブロムペリドール錠1mg「アメル」、ブロムペリドール錠1mg「サワイ」、ブロムペリドール錠3mg「アメル」、ブロムペリドール錠3mg「サワイ」、ブロムペリドール錠6mg「アメル」、ブロムペリドール錠6mg「サワイ」
+<!-- brand-names:end -->
 

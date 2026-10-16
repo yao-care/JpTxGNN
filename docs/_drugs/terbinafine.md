@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 301
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Terbinafine：予測新適応症は匍行性ハエ幼虫症 (Creeping Myiasis)（エビデンスレベル L5）。既存適応症：白癬、カンジダ症、癜風、スポロトリコーシス、クロモミコーシス（抗真菌薬、エルゴステロール合成阻害薬）"
 monitor_inn: "Terbinafine"
 predicted_indications: ["creeping myiasis", "wound myiasis", "furuncular myiasis", "myiasis", "cutaneous candidiasis", "toxoplasmosis", "blastomycosis", "tinea manuum", "echinococcus granulosus infectious disease", "superficial mycosis"]
+last_modified_at: 2026-10-17
+description: "Terbinafine：予測新適応症は匍行性ハエ幼虫症 (Creeping Myiasis)（エビデンスレベル L5）。既存適応症：白癬、カンジダ症、癜風、スポロトリコーシス、クロモミコーシス（抗真菌薬、エルゴステロール合成阻害薬）"
 ---
 
 # Terbinafine
@@ -129,4 +129,12 @@ TxGNN モデルは**匍行性ハエ幼虫症 (Creeping Myiasis)** に有効で�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+テルビナフィン、テルビナフィン塩酸塩、ラミシール、テルビナフィン塩酸塩1%クリーム、テルビナフィン塩酸塩1%液、テルビナフィン塩酸塩125mg錠、テルビナフィン塩酸塩クリーム1%「F」、テルビナフィン塩酸塩クリーム1%「JG」、テルビナフィン塩酸塩クリーム1%「VTRS」、テルビナフィン塩酸塩クリーム1%「イワキ」、テルビナフィン塩酸塩クリーム1%「サワイ」、テルビナフィン塩酸塩クリーム1%「トーワ」、テルビナフィン塩酸塩外用液1%「F」、テルビナフィン塩酸塩外用液1%「イワキ」、テルビナフィン塩酸塩外用液1%「サワイ」、テルビナフィン塩酸塩外用液1%「トーワ」、テルビナフィン塩酸塩錠125mg「フェルゼン」、テルビナフィン錠125mg「CH」、テルビナフィン錠125mg「NIG」、テルビナフィン錠125mg「TCK」、テルビナフィン錠125mg「VTRS」、テルビナフィン錠125mg「YD」、テルビナフィン錠125mg「イワキ」、テルビナフィン錠125mg「サワイ」、テルビナフィン錠125mg「サンド」、テルビナフィン錠125mg「タカタ」、テルビナフィン錠125mg「トーワ」、テルビナフィン錠125mg「ニプロ」、ラミシールクリーム1%、ラミシールクリーム1%(選)、ラミシール外用液1%、ラミシール外用液1%(選)、ラミシール錠125mg、ラミシール錠125mg(選)
+<!-- brand-names:end -->
 

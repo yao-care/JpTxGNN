@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 108
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-15
-description: "Empagliflozin：予測新適応症はfocal stiff limb syndrome（局所性スティフ・リム症候群）（エビデンスレベル L5）。既存適応症：2 型糖尿病"
 monitor_inn: "Empagliflozin"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia"]
+last_modified_at: 2026-10-17
+description: "Empagliflozin：予測新適応症はfocal stiff limb syndrome（局所性スティフ・リム症候群）（エビデンスレベル L5）。既存適応症：2 型糖尿病"
 ---
 
 # Empagliflozin
@@ -102,4 +102,12 @@ focal stiff limb syndrome は、スティフパーソン症候群の仲間に属
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ジャディアンス錠10mg、ジャディアンス錠25mg
+<!-- brand-names:end -->
 

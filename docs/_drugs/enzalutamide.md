@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 112
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-15
-description: "Enzalutamide：予測新適応症は前立腺癌/脳腫瘍感受性 (prostate cancer/brain cancer susceptibility)（エビデンスレベル L5）。既存適応症：前立腺癌"
 monitor_inn: "Enzalutamide"
 predicted_indications: ["prostate cancer/brain cancer susceptibility", "prostate leiomyoma", "Brenner tumor", "fibroma of prostate", "benign reproductive system neoplasm", "male reproductive organ cancer", "benign prostate phyllodes tumor"]
+last_modified_at: 2026-10-17
+description: "Enzalutamide：予測新適応症は前立腺癌/脳腫瘍感受性 (prostate cancer/brain cancer susceptibility)（エビデンスレベル L5）。既存適応症：前立腺癌"
 ---
 
 # Enzalutamide
@@ -113,4 +113,12 @@ TxGNN モデルは **前立腺癌/脳腫瘍感受性 (prostate cancer/brain canc
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+イクスタンジ錠40mg、イクスタンジ錠80mg
+<!-- brand-names:end -->
 

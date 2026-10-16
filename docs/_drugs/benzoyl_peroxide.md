@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 41
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-15
-description: "Benzoyl Peroxide：予測新適応症は外陰部逆転性毛包性角化症 (vulvar inverted follicular keratosis)（エビデンスレベル L5）。既存適応症：ざ瘡（尋常性ざ瘡）、アトピー性皮膚炎、接触皮膚炎、脂漏性皮膚炎など"
 monitor_inn: "Benzoyl peroxide"
 predicted_indications: ["vulvar inverted follicular keratosis", "2-hydroxyethyl methacrylate sensitization", "acrodermatitis chronica atrophicans", "acne keloid"]
+last_modified_at: 2026-10-17
+description: "Benzoyl Peroxide：予測新適応症は外陰部逆転性毛包性角化症 (vulvar inverted follicular keratosis)（エビデンスレベル L5）。既存適応症：ざ瘡（尋常性ざ瘡）、アトピー性皮膚炎、接触皮膚炎、脂漏性皮膚炎など"
 ---
 
 # Benzoyl Peroxide
@@ -99,4 +99,12 @@ TxGNN モデルは**外陰部逆転性毛包性角化症 (vulvar inverted follic
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ベピオウォッシュゲル5%、ベピオゲル2.5%、ベピオローション2.5%
+<!-- brand-names:end -->
 

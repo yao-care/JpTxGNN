@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 18
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-15
-description: "Alfacalcidol：予測新適応症は家族性孤立性副甲状腺機能低下症（PTH 分泌障害によるもの）（エビデンスレベル L5）。既存適応症：副甲状腺機能亢進症、線維性骨炎、副甲状腺機能低下症、腎性骨異栄養症"
 monitor_inn: "alfacalcidol"
 predicted_indications: ["familial isolated hypoparathyroidism due to impaired PTH secretion", "Dahlberg-Borer-Newcomer syndrome", "craniofacial conodysplasia", "acromesomelic dysplasia, Campailla Martinelli type", "renal tubular acidosis"]
+last_modified_at: 2026-10-17
+description: "Alfacalcidol：予測新適応症は家族性孤立性副甲状腺機能低下症（PTH 分泌障害によるもの）（エビデンスレベル L5）。既存適応症：副甲状腺機能亢進症、線維性骨炎、副甲状腺機能低下症、腎性骨異栄養症"
 ---
 
 # Alfacalcidol
@@ -103,4 +103,12 @@ TxGNN モデルは**家族性孤立性副甲状腺機能低下症（PTH 分泌�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+アルファロール内用液0.5μg/mL、アルファロール散1μg/g
+<!-- brand-names:end -->
 

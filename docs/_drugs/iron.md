@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 166
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Iron：予測新適応症はPlummer-Vinson 症候群（エビデンスレベル L3）。既存適応症：貧血治療薬、造血薬、鉄補充薬"
 monitor_inn: "Iron"
 predicted_indications: ["vitamin B12- and folate-independent constitutional megaloblastic anemia", "Plummer-Vinson syndrome", "non-syndromic esophageal malformation", "biotin metabolic disease", "vitamin deficiency disorder", "esophageal disease", "injury", "florid cemento-osseous dysplasia", "segmental odontomaxillary dysplasia", "perinatal disease"]
+last_modified_at: 2026-10-17
+description: "Iron：予測新適応症はPlummer-Vinson 症候群（エビデンスレベル L3）。既存適応症：貧血治療薬、造血薬、鉄補充薬"
 ---
 
 # Iron
@@ -131,4 +131,12 @@ Plummer-Vinson 症候群に直接関連する臨床試験の登録は、現在�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+インクレミン、ウラリット、クエンメット、クエン酸、クエン酸ガリウム、クエン酸ナトリウム水和物、クエン酸水和物、クエン酸第一鉄Na、クエン酸第一鉄ナトリウム、チトラミン、フェロミア、ポトレンド、インクレミンシロップ5%、クエン酸(山善)、クエン酸「カナダ」、クエン酸「司生堂」、クエン酸カリウム・クエン酸ナトリウム散、クエン酸カリウム・クエン酸ナトリウム錠、クエン酸ガリウム(67Ga)注NMP、クエン酸ガリウム(67Ga)注射液、クエン酸ナトリウム水和物「コザカイ」原末、クエン酸ナトリウム水和物原末「ニッコー」、クエン酸水和物「ケンエー」原末、クエン酸水和物「コザカイ」原末、クエン酸水和物原末「ニッコー」、クエン酸第一鉄Na錠50mg「JG」 鉄50mg、クエン酸第一鉄Na錠50mg「NIG」 鉄50mg、クエン酸第一鉄Na錠50mg「サワイ」 鉄50mg、クエン酸第一鉄ナトリウム鉄50mg錠、クエン酸第一鉄ナトリウム錠50mg「ツルハラ」 鉄50mg、クエン酸第一鉄ナトリウム顆粒8.3%「ツルハラ」、フェロミア錠50mg 鉄50mg
+<!-- brand-names:end -->
 

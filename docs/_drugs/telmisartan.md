@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 298
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Telmisartan：予測新適応症はPrinzmetal 狭心症 (Prinzmetal angina)（エビデンスレベル L5）。既存適応症：高血圧症（血圧降下薬、アンジオテンシンII受容体拮抗薬）"
 monitor_inn: "Telmisartan"
 predicted_indications: ["Prinzmetal angina", "brain stem infarction", "ABri amyloidosis", "cerebral artery occlusion", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "malignant renovascular hypertension", "intracerebral hemorrhage", "Braddock syndrome"]
+last_modified_at: 2026-10-17
+description: "Telmisartan：予測新適応症はPrinzmetal 狭心症 (Prinzmetal angina)（エビデンスレベル L5）。既存適応症：高血圧症（血圧降下薬、アンジオテンシンII受容体拮抗薬）"
 ---
 
 # Telmisartan
@@ -136,4 +136,12 @@ TxGNN モデルは **Prinzmetal 狭心症 (Prinzmetal angina)** に有効であ�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+テルミサルタン、ミカルディス、テラムロ配合錠AP「DSEP」、テラムロ配合錠AP「EE」、テラムロ配合錠AP「JG」、テラムロ配合錠AP「NIG」、テラムロ配合錠AP「サワイ」、テラムロ配合錠AP「トーワ」、テラムロ配合錠AP「ニプロ」、テラムロ配合錠AP「日医工」、テラムロ配合錠BP「DSEP」、テラムロ配合錠BP「EE」、テラムロ配合錠BP「JG」、テラムロ配合錠BP「NIG」、テラムロ配合錠BP「サワイ」、テラムロ配合錠BP「トーワ」、テラムロ配合錠BP「ニプロ」、テラムロ配合錠BP「日医工」、テルミサルタン20mg口腔内崩壊錠、テルミサルタン20mg錠、テルミサルタン40mg口腔内崩壊錠、テルミサルタン40mg錠、テルミサルタン80mg錠、テルミサルタンOD錠20mg「サワイ」、テルミサルタンOD錠20mg「トーワ」、テルミサルタンOD錠40mg「サワイ」、テルミサルタンOD錠40mg「トーワ」、テルミサルタン・アムロジピンベシル酸塩AP錠、テルミサルタン・アムロジピンベシル酸塩BP錠、テルミサルタン錠20mg「DSEP」、テルミサルタン錠20mg「FFP」、テルミサルタン錠20mg「JG」、テルミサルタン錠20mg「NPI」、テルミサルタン錠20mg「TCK」、テルミサルタン錠20mg「VTRS」、テルミサルタン錠20mg「YD」、テルミサルタン錠20mg「オーハラ」、テルミサルタン錠20mg「ケミファ」、テルミサルタン錠20mg「サワイ」、テルミサルタン錠20mg「サンド」
+<!-- brand-names:end -->
 

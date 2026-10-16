@@ -5,10 +5,10 @@ parent: 高エビデンスレベル
 nav_order: 295
 evidence_level: L1
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Tamoxifen：予測新適応症は乳腺上皮内癌 (Breast Carcinoma in Situ)（エビデンスレベル L1）。既存適応症：乳癌"
 monitor_inn: "Tamoxifen"
 predicted_indications: ["mammary Paget disease", "intraductal cribriform breast adenocarcinoma", "basal-like breast carcinoma", "breast carcinoma in situ", "sebaceous breast carcinoma", "invasive tubular breast carcinoma", "Ehrlich tumor carcinoma", "hormone-resistant breast carcinoma", "estrogen-receptor positive breast cancer", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
+last_modified_at: 2026-10-17
+description: "Tamoxifen：予測新適応症は乳腺上皮内癌 (Breast Carcinoma in Situ)（エビデンスレベル L1）。既存適応症：乳癌"
 ---
 
 # Tamoxifen
@@ -157,4 +157,12 @@ TxGNN モデルの最上位予測は乳房パジェット病 (Mammary Paget Dise
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+タモキシフェン、ノルバデックス、タモキシフェンクエン酸塩10mg錠、タモキシフェンクエン酸塩20mg錠、タモキシフェン錠10mg「DSEP」、タモキシフェン錠10mg「MYL」、タモキシフェン錠10mg「サワイ」、タモキシフェン錠10mg「明治」、タモキシフェン錠20mg「DSEP」、タモキシフェン錠20mg「MYL」、タモキシフェン錠20mg「サワイ」、タモキシフェン錠20mg「明治」、ノルバデックス錠10mg、ノルバデックス錠20mg、ノルバデックス錠20mg(選)
+<!-- brand-names:end -->
 

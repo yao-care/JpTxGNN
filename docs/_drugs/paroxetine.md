@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 236
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Paroxetine：予測新適応症はOhdo 症候群および類縁疾患 (Ohdo syndrome and variants)（エビデンスレベル L5）。既存適応症：抗うつ薬、選択的セロトニン再取り込み阻害薬"
 monitor_inn: "Paroxetine"
 predicted_indications: ["Ohdo syndrome and variants", "melancholia", "blepharophimosis - intellectual disability syndrome, Ohdo type", "neurotic depression", "benign paroxysmal torticollis of infancy", "agoraphobia", "schizoid personality disorder", "histrionic personality disorder (disease)", "schizotypal personality disorder", "paranoid personality disorder"]
+last_modified_at: 2026-10-17
+description: "Paroxetine：予測新適応症はOhdo 症候群および類縁疾患 (Ohdo syndrome and variants)（エビデンスレベル L5）。既存適応症：抗うつ薬、選択的セロトニン再取り込み阻害薬"
 ---
 
 # Paroxetine
@@ -130,4 +130,12 @@ TxGNN モデルは最上位の予測として **Ohdo 症候群および類縁疾
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+パキシルCR錠12.5mg、パキシルCR錠25mg、パキシルCR錠6.25mg、パキシルcr、パロキセチンOD錠10mg「トーワ」、パロキセチンOD錠20mg「トーワ」、パロキセチンOD錠5mg「トーワ」、パロキセチン塩酸塩10mg錠、パロキセチン塩酸塩20mg錠、パロキセチン塩酸塩5mg錠、パロキセチン錠10mg「AA」、パロキセチン錠10mg「DSEP」、パロキセチン錠10mg「JG」、パロキセチン錠10mg「NIG」、パロキセチン錠10mg「NP」、パロキセチン錠10mg「SPKK」、パロキセチン錠10mg「TCK」、パロキセチン錠10mg「TSU」、パロキセチン錠10mg「VTRS」、パロキセチン錠10mg「YD」、パロキセチン錠10mg「オーハラ」、パロキセチン錠10mg「ケミファ」、パロキセチン錠10mg「サワイ」、パロキセチン錠10mg「サンド」、パロキセチン錠10mg「タカタ」、パロキセチン錠10mg「トーワ」、パロキセチン錠10mg「ニプロ」、パロキセチン錠10mg「フェルゼン」、パロキセチン錠10mg「日新」、パロキセチン錠10mg「明治」、パロキセチン錠10mg「科研」、パロキセチン錠20mg「AA」、パロキセチン錠20mg「DSEP」、パロキセチン錠20mg「JG」、パロキセチン錠20mg「NIG」、パロキセチン錠20mg「NP」、パロキセチン錠20mg「SPKK」、パロキセチン錠20mg「TCK」、パロキセチン錠20mg「TSU」、パロキセチン錠20mg「VTRS」
+<!-- brand-names:end -->
 

@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 216
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Moxifloxacin：予測新適応症は高アミラーゼ血症 (Hyperamylasemia)（エビデンスレベル L5）。既存適応症：眼瞼炎、結膜炎"
 monitor_inn: "Moxifloxacin"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder", "hematopoietic and lymphoid system neoplasm", "bubonic plague"]
+last_modified_at: 2026-10-17
+description: "Moxifloxacin：予測新適応症は高アミラーゼ血症 (Hyperamylasemia)（エビデンスレベル L5）。既存適応症：眼瞼炎、結膜炎"
 ---
 
 # Moxifloxacin
@@ -107,4 +107,12 @@ TxGNN モデルは**高アミラーゼ血症 (Hyperamylasemia)** に有効であ
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+アベロックス、ベガモックス、モキシフロキサシン、アベロックス錠400mg、ベガモックス点眼液0.5%、ベガモックス点眼液0.5%(選)、モキシフロキサシン点眼液0.5%「サンド」、モキシフロキサシン点眼液0.5%「ニットー」、モキシフロキサシン点眼液0.5%「日点」
+<!-- brand-names:end -->
 

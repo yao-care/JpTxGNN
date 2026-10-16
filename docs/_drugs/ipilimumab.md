@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 163
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-15
-description: "Ipilimumab：予測新適応症は脈絡膜欠損症 (Choroideremia)（エビデンスレベル L5）。既存適応症：転移性悪性黒色腫"
 monitor_inn: "Ipilimumab"
 predicted_indications: ["choroideremia", "non-cutaneous melanoma"]
+last_modified_at: 2026-10-17
+description: "Ipilimumab：予測新適応症は脈絡膜欠損症 (Choroideremia)（エビデンスレベル L5）。既存適応症：転移性悪性黒色腫"
 ---
 
 # Ipilimumab
@@ -114,4 +114,12 @@ TxGNN モデルは**脈絡膜欠損症 (Choroideremia)** に有効である可�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ヤーボイ点滴静注液20mg 4mL、ヤーボイ点滴静注液50mg 10mL
+<!-- brand-names:end -->
 

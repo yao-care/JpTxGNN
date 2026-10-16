@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 206
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Methylprednisolone：予測新適応症は円形脱毛症 (Alopecia Areata)（エビデンスレベル L3）。既存適応症：自己免疫疾患、クローン病、副腎皮質機能不全、急性リンパ芽球性白血病など（承認適応症の記載データはありません）"
 monitor_inn: "Methylprednisolone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo", "idiopathic steroid-sensitive nephrotic syndrome"]
+last_modified_at: 2026-10-17
+description: "Methylprednisolone：予測新適応症は円形脱毛症 (Alopecia Areata)（エビデンスレベル L3）。既存適応症：自己免疫疾患、クローン病、副腎皮質機能不全、急性リンパ芽球性白血病など（承認適応症の記載データはありません）"
 ---
 
 # Methylprednisolone
@@ -123,4 +123,12 @@ TxGNN モデルは**円形脱毛症 (Alopecia Areata)** に有効である可能
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ソル・メドロール静注用1000mg 1g(溶解液付)、ソル・メドロール静注用125mg (溶解液付)、ソル・メドロール静注用40mg (溶解液付)、ソル・メドロール静注用500mg (溶解液付)、デポ・メドロール水懸注20mg 1mL、デポ・メドロール水懸注40mg 1mL、ネオメドロールEE軟膏、ネオメドロールeeナンコウ、メドロール錠2mg、メドロール錠4mg
+<!-- brand-names:end -->
 

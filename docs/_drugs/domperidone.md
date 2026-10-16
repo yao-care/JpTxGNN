@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 98
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Domperidone：予測新適応症は腎性抗利尿ホルモン不適合分泌症候群 (nephrogenic syndrome of inappropriate antidiuresis)（エビデンスレベル L5）。既存適応症：制吐薬、消化管運動改善薬、ドパミン D2 受容体拮抗薬"
 monitor_inn: "Domperidone"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "Plasmodium falciparum malaria", "common cold", "headache disorder", "allergic urticaria", "trigeminal autonomic cephalalgia", "collagenopathy", "renin-angiotensin-aldosterone system-blocker-induced angioedema", "lymphocytic hypereosinophilic syndrome", "hypertrichosis (disease)"]
+last_modified_at: 2026-10-17
+description: "Domperidone：予測新適応症は腎性抗利尿ホルモン不適合分泌症候群 (nephrogenic syndrome of inappropriate antidiuresis)（エビデンスレベル L5）。既存適応症：制吐薬、消化管運動改善薬、ドパミン D2 受容体拮抗薬"
 ---
 
 # Domperidone
@@ -123,4 +123,12 @@ TxGNN モデルは**腎性抗利尿ホルモン不適合分泌症候群 (nephrog
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ドンぺリドン、ドンペリドン、ナウゼリン、ドンペリドン1%シロップ用、ドンペリドン10mg坐剤、ドンペリドン10mg錠、ドンペリドン30mg坐剤、ドンペリドン5mg、ドンペリドン5mg錠、ドンペリドンDS小児用1%「サワイ」、ドンペリドン坐剤10mg「JG」、ドンペリドン坐剤10mg「タカタ」、ドンペリドン坐剤10mg「日新」、ドンペリドン坐剤30mg「JG」、ドンペリドン坐剤30mg「タカタ」、ドンペリドン坐剤30mg「日新」、ドンペリドン錠10mg「EMEC」、ドンペリドン錠10mg「JG」、ドンペリドン錠10mg「NIG」、ドンペリドン錠10mg「YD」、ドンペリドン錠10mg「サワイ」、ドンペリドン錠10mg「ツルハラ」、ドンペリドン錠10mg「トーワ」、ドンペリドン錠10mg「日医工」、ドンペリドン錠10mg「日新」、ドンペリドン錠10mg「杏林」、ドンペリドン錠5mg「EMEC」、ドンペリドン錠5mg「JG」、ドンペリドン錠5mg「NIG」、ドンペリドン錠5mg「YD」、ドンペリドン錠5mg「サワイ」、ドンペリドン錠5mg「ツルハラ」、ドンペリドン錠5mg「トーワ」、ドンペリドン錠5mg「日医工」、ドンペリドン錠5mg「日新」、ドンペリドン錠5mg「杏林」、ナウゼリンOD錠10 10mg、ナウゼリンOD錠5 5mg、ナウゼリンod、ナウゼリンザ
+<!-- brand-names:end -->
 

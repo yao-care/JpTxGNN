@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 92
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Diazepam：予測新適応症は不眠症 (insomnia)（エビデンスレベル L4）。既存適応症：神経症における不安、うつ病、熱性けいれん（抗不安薬・抗てんかん薬・催眠鎮静薬）"
 monitor_inn: "Diazepam"
 predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "sleep disorder, initiating and maintaining sleep", "attention deficit hyperactivity disorder, inattentive type", "hallucinogen abuse", "barbiturate abuse", "antidepressant type abuse", "specific developmental disorder", "attention deficit-hyperactivity disorder", "obsolete neurogenic bladder (disease)"]
+last_modified_at: 2026-10-17
+description: "Diazepam：予測新適応症は不眠症 (insomnia)（エビデンスレベル L4）。既存適応症：神経症における不安、うつ病、熱性けいれん（抗不安薬・抗てんかん薬・催眠鎮静薬）"
 ---
 
 # Diazepam
@@ -124,4 +124,12 @@ TxGNN モデルは**不眠症 (insomnia)** に有効である可能性を予測�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ジアゼパム、スピジア、セルシン、ダイアップ、ホリゾン、10mgセルシン錠、10mgセルシン錠(選)、2mgセルシン錠、2mgセルシン錠(選)、5mgセルシン錠、5mgセルシン錠(選)、ジアゼパム2mg錠、ジアゼパム5mg錠、ジアゼパム注射液10mg「NIG」、ジアゼパム注射液5mg「NIG」、ジアゼパム錠10mg、ジアゼパム錠10mg「ツルハラ」、ジアゼパム錠2mg、ジアゼパム錠2mg「アメル」、ジアゼパム錠2mg「タイホウ」、ジアゼパム錠2mg「ツルハラ」、ジアゼパム錠2「サワイ」 2mg、ジアゼパム錠2「トーワ」 2mg、ジアゼパム錠5mg、ジアゼパム錠5mg「アメル」、ジアゼパム錠5mg「タイホウ」、ジアゼパム錠5mg「ツルハラ」、ジアゼパム錠5「トーワ」 5mg、セルシン散1%、セルシン注射液10mg、セルシン注射液5mg、ホリゾン錠2mg、ホリゾン錠2mg(選)、ホリゾン錠5mg、ホリゾン錠5mg(選)
+<!-- brand-names:end -->
 

@@ -5,10 +5,10 @@ parent: 高エビデンスレベル
 nav_order: 287
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Sucralfate：予測新適応症は十二指腸胃逆流 (duodenogastric reflux)（エビデンスレベル L2）。既存適応症：胃潰瘍、十二指腸潰瘍（消化性潰瘍薬、抗ペプシン薬）"
 monitor_inn: "Sucralfate"
 predicted_indications: ["duodenogastric reflux", "duodenal obstruction", "esophagitis (disease)", "peptic esophagitis", "duodenitis", "active peptic ulcer disease", "gastroduodenitis", "C1 inhibitor deficiency", "peptic ulcer perforation", "gastrojejunal ulcer"]
+last_modified_at: 2026-10-17
+description: "Sucralfate：予測新適応症は十二指腸胃逆流 (duodenogastric reflux)（エビデンスレベル L2）。既存適応症：胃潰瘍、十二指腸潰瘍（消化性潰瘍薬、抗ペプシン薬）"
 ---
 
 # Sucralfate
@@ -142,4 +142,12 @@ TxGNN モデルは**十二指腸胃逆流 (duodenogastric reflux)** に有効で
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+アルサルミン、スクラルファート、アルサルミン内用液10%、アルサルミン内用液10%(選)、アルサルミン細粒90%、アルサルミン細粒90%(選)、スクラルファート10%液、スクラルファート内用液10%「NIG」、スクラルファート細粒90、スクラルファート細粒90%「ツルハラ」、スクラルファート経口液10
+<!-- brand-names:end -->
 

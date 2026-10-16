@@ -5,10 +5,10 @@ parent: 高エビデンスレベル
 nav_order: 29
 evidence_level: L1
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Aripiprazole：予測新適応症は大うつ病性障害 (Major Affective Disorder)（エビデンスレベル L1）。既存適応症：統合失調症、双極性障害における躁症状、うつ病・うつ状態"
 monitor_inn: "Aripiprazole"
 predicted_indications: ["major affective disorder", "gaze palsy, familial horizontal, with progressive scoliosis", "asperger syndrome, susceptibility to", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
+last_modified_at: 2026-10-17
+description: "Aripiprazole：予測新適応症は大うつ病性障害 (Major Affective Disorder)（エビデンスレベル L1）。既存適応症：統合失調症、双極性障害における躁症状、うつ病・うつ状態"
 ---
 
 # Aripiprazole
@@ -136,4 +136,12 @@ TxGNN モデルは**大うつ病性障害 (Major Affective Disorder)** に有効
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+アリピプラゾール、エビリファイ、アリピプラゾール1%散、アリピプラゾール1%細粒、アリピプラゾール12mg口腔内崩壊錠、アリピプラゾール12mg錠、アリピプラゾール24mg口腔内崩壊錠、アリピプラゾール24mg錠、アリピプラゾール3mg口腔内崩壊錠、アリピプラゾール3mg錠、アリピプラゾール6mg口腔内崩壊錠、アリピプラゾール6mg錠、アリピプラゾールOD錠12mg「JG」、アリピプラゾールOD錠12mg「タカタ」、アリピプラゾールOD錠12mg「トーワ」、アリピプラゾールOD錠12mg「ニプロ」、アリピプラゾールOD錠12mg「日医工」、アリピプラゾールOD錠12mg「明治」、アリピプラゾールOD錠12mg「杏林」、アリピプラゾールOD錠24mg「JG」、アリピプラゾールOD錠24mg「タカタ」、アリピプラゾールOD錠24mg「トーワ」、アリピプラゾールOD錠24mg「ニプロ」、アリピプラゾールOD錠24mg「日医工」、アリピプラゾールOD錠24mg「明治」、アリピプラゾールOD錠24mg「杏林」、アリピプラゾールOD錠3mg「JG」、アリピプラゾールOD錠3mg「タカタ」、アリピプラゾールOD錠3mg「トーワ」、アリピプラゾールOD錠3mg「ニプロ」、アリピプラゾールOD錠3mg「日医工」、アリピプラゾールOD錠3mg「明治」、アリピプラゾールOD錠3mg「杏林」、アリピプラゾールOD錠6mg「JG」、アリピプラゾールOD錠6mg「タカタ」、アリピプラゾールOD錠6mg「トーワ」、アリピプラゾールOD錠6mg「ニプロ」、アリピプラゾールOD錠6mg「日医工」、アリピプラゾールOD錠6mg「明治」、アリピプラゾールOD錠6mg「杏林」
+<!-- brand-names:end -->
 

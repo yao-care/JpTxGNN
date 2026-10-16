@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 205
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Methotrexate：予測新適応症は肺芽腫 (pulmonary blastoma)（エビデンスレベル L5）。既存適応症：慢性リンパ性白血病、慢性骨髄性白血病、絨毛癌、乳癌、尿路上皮癌、骨肉腫、胃癌、関節リウマチ、尋常性乾癬、関節症性乾癬、膿疱性乾癬…"
 monitor_inn: "Methotrexate"
 predicted_indications: ["pulmonary blastoma", "primary pulmonary lymphoma", "small cell lung carcinoma", "well-differentiated fetal adenocarcinoma of the lung", "Hodgkins lymphoma", "rhabdomyosarcoma (disease)", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
+last_modified_at: 2026-10-17
+description: "Methotrexate：予測新適応症は肺芽腫 (pulmonary blastoma)（エビデンスレベル L5）。既存適応症：慢性リンパ性白血病、慢性骨髄性白血病、絨毛癌、乳癌、尿路上皮癌、骨肉腫、胃癌、関節リウマチ、尋常性乾癬、関節症性乾癬、膿疱性乾癬…"
 ---
 
 # Methotrexate
@@ -164,4 +164,12 @@ TxGNN モデルは **肺芽腫 (pulmonary blastoma)** に有効である可能�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+メソトレキセート、メトジェクト、メトトレキサート、リウマトレックス、メトトレキサート2mgカプセル、メトトレキサート2mg錠、メトトレキサートカプセル2mg「DK」、メトトレキサートカプセル2mg「サワイ」、メトトレキサートカプセル2mg「サンド」、メトトレキサートカプセル2mg「トーワ」、メトトレキサート錠1mg「日本臓器」、メトトレキサート錠2mg「JG」、メトトレキサート錠2mg「あゆみ」、メトトレキサート錠2mg「タナベ」、メトトレキサート錠2mg「ダイト」、メトトレキサート錠2mg「トーワ」、メトトレキサート錠2mg「日本臓器」、リウマトレックスカプセル2mg、リウマトレックスカプセル2mg(選)
+<!-- brand-names:end -->
 

@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 333
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Venetoclax：予測新適応症は胚中心前型慢性リンパ性白血病/小リンパ球性リンパ腫 (pregerminal center chronic lymphocytic leu…（エビデンスレベル L5）。既存適応症：急性リンパ性白血病、リヒター症候群"
 monitor_inn: "Venetoclax"
 predicted_indications: ["pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma", "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation", "Hodgkins lymphoma", "myeloid leukemia", "chronic myelogenous leukemia, BCR-ABL1 positive", "Ewing sarcoma", "follicular lymphoma", "metastatic neoplasm", "malignant spiradenoma", "acute myeloid leukemia with t(8;21)(q22;q22) translocation"]
+last_modified_at: 2026-10-17
+description: "Venetoclax：予測新適応症は胚中心前型慢性リンパ性白血病/小リンパ球性リンパ腫 (pregerminal center chronic lymphocytic leu…（エビデンスレベル L5）。既存適応症：急性リンパ性白血病、リヒター症候群"
 ---
 
 # Venetoclax
@@ -134,4 +134,12 @@ TxGNN モデルは**胚中心前型慢性リンパ性白血病/小リンパ球�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ベネクレクスタ錠100mg、ベネクレクスタ錠10mg、ベネクレクスタ錠50mg
+<!-- brand-names:end -->
 

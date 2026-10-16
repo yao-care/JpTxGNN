@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 274
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-15
-description: "Safinamide：予測新適応症はラスムッセン亜急性脳炎 (Rasmussen subacute encephalitis)（エビデンスレベル L5）。既存適応症：パーキンソン病（承認適応症の記載データはなし）"
 monitor_inn: "Safinamide"
 predicted_indications: ["Rasmussen subacute encephalitis", "myelitis", "PLA2G6-associated neurodegeneration"]
+last_modified_at: 2026-10-17
+description: "Safinamide：予測新適応症はラスムッセン亜急性脳炎 (Rasmussen subacute encephalitis)（エビデンスレベル L5）。既存適応症：パーキンソン病（承認適応症の記載データはなし）"
 ---
 
 # Safinamide
@@ -107,4 +107,12 @@ TxGNN モデルは**ラスムッセン亜急性脳炎 (Rasmussen subacute enceph
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+エクフィナ錠50mg
+<!-- brand-names:end -->
 

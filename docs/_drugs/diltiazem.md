@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 94
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Diltiazem：予測新適応症は脳血管障害 (Cerebrovascular Disorder)（エビデンスレベル L5）。既存適応症：狭心症、本態性高血圧症（抗不整脈薬、血圧降下薬、冠血管拡張薬、カルシウムチャネル遮断薬）"
 monitor_inn: "Diltiazem"
 predicted_indications: ["obsolete susceptibility to ischemic stroke", "brain stem infarction", "obsolete bundle branch block", "cerebrovascular disorder", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "malignant renovascular hypertension", "ABri amyloidosis", "Braddock syndrome"]
+last_modified_at: 2026-10-17
+description: "Diltiazem：予測新適応症は脳血管障害 (Cerebrovascular Disorder)（エビデンスレベル L5）。既存適応症：狭心症、本態性高血圧症（抗不整脈薬、血圧降下薬、冠血管拡張薬、カルシウムチャネル遮断薬）"
 ---
 
 # Diltiazem
@@ -127,4 +127,12 @@ TxGNN モデルの予測スコア最上位は「obsolete susceptibility to ische
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ジルチアゼム塩酸塩、ヘルベッサー、ジルチアゼム塩酸塩100mg徐放カプセル、ジルチアゼム塩酸塩10mg注射用、ジルチアゼム塩酸塩200mg徐放カプセル、ジルチアゼム塩酸塩250mg注射用、ジルチアゼム塩酸塩30mg錠、ジルチアゼム塩酸塩50mg注射用、ジルチアゼム塩酸塩60mg錠、ジルチアゼム塩酸塩Rカプセル100mg「サワイ」、ジルチアゼム塩酸塩Rカプセル200mg「サワイ」、ジルチアゼム塩酸塩徐放カプセル100mg、ジルチアゼム塩酸塩徐放カプセル100mg「トーワ」、ジルチアゼム塩酸塩徐放カプセル100mg「日医工」、ジルチアゼム塩酸塩徐放カプセル200mg、ジルチアゼム塩酸塩徐放カプセル200mg「トーワ」、ジルチアゼム塩酸塩徐放カプセル200mg「日医工」、ジルチアゼム塩酸塩注射用10mg「サワイ」、ジルチアゼム塩酸塩注射用250mg「サワイ」、ジルチアゼム塩酸塩注射用50mg「サワイ」、ジルチアゼム塩酸塩錠30mg、ジルチアゼム塩酸塩錠30mg「サワイ」、ジルチアゼム塩酸塩錠30mg「ツルハラ」、ジルチアゼム塩酸塩錠30mg「トーワ」、ジルチアゼム塩酸塩錠60mg、ジルチアゼム塩酸塩錠60mg「サワイ」、ジルチアゼム塩酸塩錠60mg「ツルハラ」、ジルチアゼム塩酸塩錠60mg「トーワ」、ヘルベッサーRカプセル100mg、ヘルベッサーRカプセル100mg(選)、ヘルベッサーRカプセル200mg、ヘルベッサーRカプセル200mg(選)、ヘルベッサー注射用10 10mg、ヘルベッサー注射用10 10mg(選)、ヘルベッサー注射用250 250mg、ヘルベッサー注射用250 250mg(選)、ヘルベッサー注射用50 50mg、ヘルベッサー注射用50 50mg(選)、ヘルベッサー錠30 30mg、ヘルベッサー錠30 30mg(選)
+<!-- brand-names:end -->
 

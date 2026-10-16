@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 132
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Fenofibrate：予測新適応症はホモ接合体家族性高コレステロール血症 (homozygous familial hypercholesterolemia)（エビデンスレベル L5）。既存適応症：脂質異常症（高脂血症、家族性高脂血症）"
 monitor_inn: "Fenofibrate"
 predicted_indications: ["homozygous familial hypercholesterolemia", "hyperlipoproteinemia", "familial hypercholesterolemia", "cholesterol-ester transfer protein deficiency", "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency", "hyperlipidemia due to hepatic triglyceride lipase deficiency", "hypercholesterolemia, autosomal dominant", "hypolipoproteinemia (disease)", "hyperalphalipoproteinemia", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+last_modified_at: 2026-10-17
+description: "Fenofibrate：予測新適応症はホモ接合体家族性高コレステロール血症 (homozygous familial hypercholesterolemia)（エビデンスレベル L5）。既存適応症：脂質異常症（高脂血症、家族性高脂血症）"
 ---
 
 # Fenofibrate
@@ -131,4 +131,12 @@ PPARα の活性化は、リポ蛋白リパーゼ活性の上昇と肝臓での 
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+トライコア、フェノフィブラート、リピディル、トライコア錠53.3mg、トライコア錠53.3mg(選)、トライコア錠80mg、トライコア錠80mg(選)、フェノフィブラート53.3mg錠、フェノフィブラート80mg錠、フェノフィブラート錠53.3mg「武田テバ」、フェノフィブラート錠80mg「武田テバ」、リピディル錠53.3mg、リピディル錠53.3mg(選)、リピディル錠80mg、リピディル錠80mg(選)
+<!-- brand-names:end -->
 

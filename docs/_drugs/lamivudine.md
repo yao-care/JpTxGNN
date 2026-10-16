@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 173
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Lamivudine：予測新適応症はサル免疫不全ウイルス感染症 (Simian Immunodeficiency Virus Infection)（エビデンスレベル L4）。既存適応症：慢性B型肝炎、HIV感染症、AIDS"
 monitor_inn: "Lamivudine"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "chronic hepatitis C virus infection", "hepatitis B virus infection", "hepatitis C virus infection", "primitive portal vein thrombosis", "early-onset familial noncirrhotic portal hypertension", "hepatopulmonary syndrome"]
+last_modified_at: 2026-10-17
+description: "Lamivudine：予測新適応症はサル免疫不全ウイルス感染症 (Simian Immunodeficiency Virus Infection)（エビデンスレベル L4）。既存適応症：慢性B型肝炎、HIV感染症、AIDS"
 ---
 
 # Lamivudine
@@ -115,4 +115,12 @@ SIV はヒトHIVの前駆ウイルスで、遺伝子構造や感染様式が近�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+エプジコム配合錠、エプジコム配合錠(選)、ラバミコム配合錠「アメル」
+<!-- brand-names:end -->
 

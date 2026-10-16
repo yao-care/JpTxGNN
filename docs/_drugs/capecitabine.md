@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 58
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Capecitabine：予測新適応症は胃腺癌および胃近位部ポリポーシス (gastric adenocarcinoma and proximal polyposis of th…（エビデンスレベル L5）。既存適応症：乳癌、結腸・直腸癌、胃癌（抗悪性腫瘍薬・代謝拮抗薬）"
 monitor_inn: "Capecitabine"
 predicted_indications: ["gastric adenocarcinoma and proximal polyposis of the stomach", "microinvasive gastric cancer", "signet ring cell gastric adenocarcinoma", "gastric tubular adenocarcinoma", "gastric cardia adenocarcinoma", "gastric pylorus carcinoma", "carcinoma of stomach, salivary gland type", "gastric body carcinoma", "Epstein-Barr virus-associated gastric carcinoma", "malignant gastric granular cell tumor"]
+last_modified_at: 2026-10-17
+description: "Capecitabine：予測新適応症は胃腺癌および胃近位部ポリポーシス (gastric adenocarcinoma and proximal polyposis of th…（エビデンスレベル L5）。既存適応症：乳癌、結腸・直腸癌、胃癌（抗悪性腫瘍薬・代謝拮抗薬）"
 ---
 
 # Capecitabine
@@ -157,4 +157,12 @@ TxGNN モデルは、最上位の予測として**胃腺癌および胃近位部
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+カペシタビン、ゼローダ、カペシタビン錠300mg「JG」、カペシタビン錠300mg「NK」、カペシタビン錠300mg「サワイ」、カペシタビン錠300mg「タカタ」、カペシタビン錠300mg「トーワ」、カペシタビン錠300mg「ヤクルト」、カペシタビン錠300mg「日医工」、ゼローダ錠300 300mg、ゼローダ錠300 300mg(選)
+<!-- brand-names:end -->
 

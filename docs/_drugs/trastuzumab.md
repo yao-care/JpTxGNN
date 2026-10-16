@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 321
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Trastuzumab：予測新適応症はプロゲステロン受容体陽性乳癌 (progesterone-receptor positive breast cancer)（エビデンスレベル L5）。既存適応症：HER2 陽性乳癌"
 monitor_inn: "Trastuzumab"
 predicted_indications: ["normal breast-like subtype of breast carcinoma", "progesterone-receptor positive breast cancer", "progesterone-receptor negative breast cancer", "breast tumor luminal A or B", "malignant cutaneous granular cell skin tumor", "ectomesenchymoma", "human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "kidney pelvis sarcomatoid transitional cell carcinoma", "prostatic urethra urothelial carcinoma"]
+last_modified_at: 2026-10-17
+description: "Trastuzumab：予測新適応症はプロゲステロン受容体陽性乳癌 (progesterone-receptor positive breast cancer)（エビデンスレベル L5）。既存適応症：HER2 陽性乳癌"
 ---
 
 # Trastuzumab
@@ -142,4 +142,12 @@ TxGNN モデルは**プロゲステロン受容体陽性乳癌 (progesterone-rec
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ハーセプチン、ハーセプチン注射用150 150mg、ハーセプチン注射用60 60mg
+<!-- brand-names:end -->
 

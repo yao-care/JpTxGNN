@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 56
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Calcium：予測新適応症は血栓性疾患 (thrombotic disease)（エビデンスレベル L5）。既存適応症：制酸薬、高リン血症治療薬（胃・十二指腸潰瘍）"
 monitor_inn: "Calcium"
 predicted_indications: ["thrombotic disease", "hemoglobinopathy", "female breast carcinoma", "partial deletion of the short arm of chromosome 16", "beta-thalassemia with other manifestations", "hemolytic anemia due to glucophosphate isomerase deficiency", "exostosis", "pyropoikilocytosis, hereditary", "vein disease", "non-inflammatory vasculopathy"]
+last_modified_at: 2026-10-17
+description: "Calcium：予測新適応症は血栓性疾患 (thrombotic disease)（エビデンスレベル L5）。既存適応症：制酸薬、高リン血症治療薬（胃・十二指腸潰瘍）"
 ---
 
 # Calcium
@@ -121,4 +121,12 @@ TxGNN モデルは**血栓性疾患 (thrombotic disease)** に有効である可
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+カルタン、ブライアン、ヘパリンCa、ヘパリンカルシウム、塩化Ca、塩化カルシウム、大塚塩カル、沈降炭酸カルシウム、炭カル、アルミノニッパスカルシウム顆粒99%、カルタンOD錠250mg、カルタンOD錠500mg、カルタン錠250 250mg、カルタン錠500 500mg、カルタン錠500 500mg(選)、ニッパスカルシウムカリュウ100、ニッパスカルシウム顆粒100%、ブライアン錠500mg、ヘパリンカルシウム注1万単位/10mL「AY」 10,000単位、ヘパリンカルシウム注5万単位/50mL「AY」 50,000単位、ヘパリンカルシウム皮下注5千U/0.2mLシリンジモチダ 5千U、ホスホマイシンカルシウム400mgシロップ用、ホスホマイシンカルシウムDS40%「日医工」 400mg、塩化カルシウム水和物、塩化カルシウム注2%「NP」 20mL、塩化カルシウム注射液 0.5モル20mL、塩化カルシウム注射液 2%20mL、水酸化カルシウム外用液、沈降炭酸カルシウム口腔内崩壊錠250mg、沈降炭酸カルシウム口腔内崩壊錠500mg、沈降炭酸カルシウム錠250mg、沈降炭酸カルシウム錠250mg「NIG」、沈降炭酸カルシウム錠250mg「三和」、沈降炭酸カルシウム錠500mg、沈降炭酸カルシウム錠500mg「NIG」、沈降炭酸カルシウム錠500mg「三和」、炭カル錠500mg「旭化成」、石灰水(司生堂)
+<!-- brand-names:end -->
 

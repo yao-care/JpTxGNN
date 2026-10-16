@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 238
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Pembrolizumab：予測新適応症は歯肉線維腫症 (Fibromatosis, Gingival)（エビデンスレベル L5）。既存適応症：非小細胞肺癌、肺癌、転移性悪性黒色腫"
 monitor_inn: "Pembrolizumab"
 predicted_indications: ["fibromatosis, gingival", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung", "lung hilum carcinoma", "fibroma of lung", "lung benign neoplasm", "ovarioleukodystrophy", "lung germ cell tumor", "pulmonary sulcus neoplasm", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
+last_modified_at: 2026-10-17
+description: "Pembrolizumab：予測新適応症は歯肉線維腫症 (Fibromatosis, Gingival)（エビデンスレベル L5）。既存適応症：非小細胞肺癌、肺癌、転移性悪性黒色腫"
 ---
 
 # Pembrolizumab
@@ -104,4 +104,12 @@ TxGNN モデルは**歯肉線維腫症 (Fibromatosis, Gingival)** に有効で�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+キイトルーダ点滴静注100mg 4mL
+<!-- brand-names:end -->
 

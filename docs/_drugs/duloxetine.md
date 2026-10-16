@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 104
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Duloxetine：予測新適応症は乳児良性発作性斜頸 (Benign Paroxysmal Torticollis of Infancy)（エビデンスレベル L5）。既存適応症：抗うつ薬、セロトニン・ノルアドレナリン再取り込み阻害薬"
 monitor_inn: "Duloxetine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "obsessive-compulsive disorder", "schizotypal personality disorder", "schizoid personality disorder", "paranoid personality disorder", "histrionic personality disorder (disease)", "Ohdo syndrome and variants", "ligneous conjunctivitis", "blepharophimosis - intellectual disability syndrome, Ohdo type"]
+last_modified_at: 2026-10-17
+description: "Duloxetine：予測新適応症は乳児良性発作性斜頸 (Benign Paroxysmal Torticollis of Infancy)（エビデンスレベル L5）。既存適応症：抗うつ薬、セロトニン・ノルアドレナリン再取り込み阻害薬"
 ---
 
 # Duloxetine
@@ -122,4 +122,12 @@ TxGNN モデルは**乳児良性発作性斜頸 (Benign Paroxysmal Torticollis o
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+サインバルタカプセル20mg、サインバルタカプセル20mg(選)、サインバルタカプセル30mg、サインバルタカプセル30mg(選)、デュロキセチンOD錠20mg「ニプロ」、デュロキセチンOD錠20mg「明治」、デュロキセチンOD錠30mg「ニプロ」、デュロキセチンOD錠30mg「明治」、デュロキセチンカプセル20mg「DSEP」、デュロキセチンカプセル20mg「JG」、デュロキセチンカプセル20mg「KMP」、デュロキセチンカプセル20mg「YD」、デュロキセチンカプセル20mg「アメル」、デュロキセチンカプセル20mg「オーハラ」、デュロキセチンカプセル20mg「サワイ」、デュロキセチンカプセル20mg「タカタ」、デュロキセチンカプセル20mg「トーワ」、デュロキセチンカプセル20mg「ニプロ」、デュロキセチンカプセル20mg「フェルゼン」、デュロキセチンカプセル20mg「三笠」、デュロキセチンカプセル20mg「日医工G」、デュロキセチンカプセル20mg「日新」、デュロキセチンカプセル20mg「明治」、デュロキセチンカプセル20mg「杏林」、デュロキセチンカプセル30mg「DSEP」、デュロキセチンカプセル30mg「JG」、デュロキセチンカプセル30mg「KMP」、デュロキセチンカプセル30mg「YD」、デュロキセチンカプセル30mg「アメル」、デュロキセチンカプセル30mg「オーハラ」、デュロキセチンカプセル30mg「サワイ」、デュロキセチンカプセル30mg「タカタ」、デュロキセチンカプセル30mg「トーワ」、デュロキセチンカプセル30mg「ニプロ」、デュロキセチンカプセル30mg「フェルゼン」、デュロキセチンカプセル30mg「三笠」、デュロキセチンカプセル30mg「日医工G」、デュロキセチンカプセル30mg「日新」、デュロキセチンカプセル30mg「明治」、デュロキセチンカプセル30mg「杏林」
+<!-- brand-names:end -->
 

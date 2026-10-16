@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 259
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-15
-description: "Propylthiouracil：予測新適応症は甲状腺ホルモンβ受容体変異による甲状腺ホルモン不応症 (Resistance to thyroid hormone due to a mu…（エビデンスレベル L5）。既存適応症：甲状腺機能亢進症"
 monitor_inn: "Propylthiouracil"
 predicted_indications: ["resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "neonatal thyrotoxicosis", "hyperthyroxinemia"]
+last_modified_at: 2026-10-17
+description: "Propylthiouracil：予測新適応症は甲状腺ホルモンβ受容体変異による甲状腺ホルモン不応症 (Resistance to thyroid hormone due to a mu…（エビデンスレベル L5）。既存適応症：甲状腺機能亢進症"
 ---
 
 # Propylthiouracil
@@ -111,4 +111,12 @@ TxGNN モデルは**甲状腺ホルモンβ受容体変異による甲状腺ホ�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+チウラジール、プロパジール、チウラジール錠50mg、プロピルチオウラシル錠 50mg
+<!-- brand-names:end -->
 

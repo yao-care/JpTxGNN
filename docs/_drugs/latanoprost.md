@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 176
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Latanoprost：予測新適応症は原発性遺伝性緑内障 (primary hereditary glaucoma)（エビデンスレベル L5）。既存適応症：緑内障（抗緑内障薬、プロスタグランジン F 受容体作動薬）"
 monitor_inn: "Latanoprost"
 predicted_indications: ["primary hereditary glaucoma", "visceral calciphylaxis", "hypotrichosis simplex of the scalp", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "congenital hypotrichosis milia", "angiodysplasia of stomach", "blue toe syndrome", "lymphangiectasis"]
+last_modified_at: 2026-10-17
+description: "Latanoprost：予測新適応症は原発性遺伝性緑内障 (primary hereditary glaucoma)（エビデンスレベル L5）。既存適応症：緑内障（抗緑内障薬、プロスタグランジン F 受容体作動薬）"
 ---
 
 # Latanoprost
@@ -117,4 +117,12 @@ TxGNN モデルは**原発性遺伝性緑内障 (primary hereditary glaucoma)** 
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+キサラタン、ラタノプロスト、キサラタン点眼液0.005%、キサラタン点眼液0.005%(選)、ザラカム配合点眼液、ザラカム配合点眼液(選)、ラタチモ配合点眼液「TS」、ラタチモ配合点眼液「VTRS」、ラタチモ配合点眼液「センジュ」、ラタチモ配合点眼液「ニッテン」、ラタチモ配合点眼液「ニットー」、ラタノプロスト0.005%1mL点眼液、ラタノプロストPF点眼液0.005%「日点」、ラタノプロスト点眼液0.005%「CH」、ラタノプロスト点眼液0.005%「NP」、ラタノプロスト点眼液0.005%「NS」、ラタノプロスト点眼液0.005%「SEC」、ラタノプロスト点眼液0.005%「TOA」、ラタノプロスト点眼液0.005%「TS」、ラタノプロスト点眼液0.005%「VTRS」、ラタノプロスト点眼液0.005%「わかもと」、ラタノプロスト点眼液0.005%「キッセイ」、ラタノプロスト点眼液0.005%「ケミファ」、ラタノプロスト点眼液0.005%「センジュ」、ラタノプロスト点眼液0.005%「ニッテン」、ラタノプロスト点眼液0.005%「ニットー」、ラタノプロスト点眼液0.005%「三和」、ラタノプロスト点眼液0.005%「杏林」、ラタノプロスト点眼液0.005%「科研」
+<!-- brand-names:end -->
 

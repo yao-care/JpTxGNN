@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 61
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-15
-description: "Carfilzomib：予測新適応症はCMM7（エビデンスレベル L5）。既存適応症：形質細胞性骨髄腫（多発性骨髄腫）"
 monitor_inn: "Carfilzomib"
 predicted_indications: ["CMM7", "pediatric leptomeningeal melanoma", "epithelioid cell uveal melanoma", "vulvar melanoma (disease)", "melanoma"]
+last_modified_at: 2026-10-17
+description: "Carfilzomib：予測新適応症はCMM7（エビデンスレベル L5）。既存適応症：形質細胞性骨髄腫（多発性骨髄腫）"
 ---
 
 # Carfilzomib
@@ -127,4 +127,12 @@ CMM7 に関する文献はありません。以下は、予測第 5 位のメラ
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+カイプロリス点滴静注用10mg、カイプロリス点滴静注用40mg
+<!-- brand-names:end -->
 

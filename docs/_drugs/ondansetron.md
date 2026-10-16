@@ -5,10 +5,10 @@ parent: 高エビデンスレベル
 nav_order: 228
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Ondansetron：予測新適応症はトゥレット症候群 (Tourette syndrome)（エビデンスレベル L2）。既存適応症：制吐薬、セロトニン5-HT3受容体拮抗薬"
 monitor_inn: "Ondansetron"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome", "trichotillomania", "histrionic personality disorder (disease)", "schizotypal personality disorder", "schizoid personality disorder", "paranoid personality disorder", "common cold", "allergic urticaria", "acute intermittent porphyria"]
+last_modified_at: 2026-10-17
+description: "Ondansetron：予測新適応症はトゥレット症候群 (Tourette syndrome)（エビデンスレベル L2）。既存適応症：制吐薬、セロトニン5-HT3受容体拮抗薬"
 ---
 
 # Ondansetron
@@ -121,4 +121,12 @@ QT延長を起こす薬剤やセロトニン作用薬との併用には特に注
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+オンダンセトロンODフィルム2mg「GFP」、オンダンセトロンODフィルム4mg「GFP」、オンダンセトロン注4mgシリンジ「マルイシ」 2mL、オンダンセトロン注射液4mg「サンド」 2mL
+<!-- brand-names:end -->
 

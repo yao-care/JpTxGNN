@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 22
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-15
-description: "Amantadine：予測新適応症はRasmussen 亜急性脳炎 (Rasmussen subacute encephalitis)（エビデンスレベル L5）。既存適応症：パーキンソン症候群、A型インフルエンザウイルス感染症"
 monitor_inn: "Amantadine"
 predicted_indications: ["Rasmussen subacute encephalitis", "transaldolase deficiency", "myelitis", "PLA2G6-associated neurodegeneration"]
+last_modified_at: 2026-10-17
+description: "Amantadine：予測新適応症はRasmussen 亜急性脳炎 (Rasmussen subacute encephalitis)（エビデンスレベル L5）。既存適応症：パーキンソン症候群、A型インフルエンザウイルス感染症"
 ---
 
 # Amantadine
@@ -126,4 +126,12 @@ PLA2G6 関連神経変性症については、[31366412](https://pubmed.ncbi.nlm
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+アマンタジン塩酸塩、シンメトレル、アマンタジン塩酸塩10%細粒、アマンタジン塩酸塩100mg錠、アマンタジン塩酸塩50mg錠、アマンタジン塩酸塩細粒10%「サワイ」、アマンタジン塩酸塩細粒10%「ツルハラ」、アマンタジン塩酸塩錠100mg「ZE」、アマンタジン塩酸塩錠100mg「サワイ」、アマンタジン塩酸塩錠100mg「ツルハラ」、アマンタジン塩酸塩錠100mg「日医工」、アマンタジン塩酸塩錠100mg「杏林」、アマンタジン塩酸塩錠50mg「ZE」、アマンタジン塩酸塩錠50mg「サワイ」、アマンタジン塩酸塩錠50mg「ツルハラ」、アマンタジン塩酸塩錠50mg「日医工」、アマンタジン塩酸塩錠50mg「杏林」、シンメトレル錠100mg、シンメトレル錠100mg(選)、シンメトレル錠50mg、シンメトレル錠50mg(選)
+<!-- brand-names:end -->
 

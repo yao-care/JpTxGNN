@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 37
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-15
-description: "Azosemide：予測新適応症は特発性銅関連肝硬変 (idiopathic copper-associated cirrhosis)（エビデンスレベル L5）。既存適応症：利尿薬、Na-K-Cl共輸送体阻害薬"
 monitor_inn: "azosemide"
 predicted_indications: ["idiopathic copper-associated cirrhosis", "hepatopulmonary syndrome", "hepatoportal sclerosis", "early-onset familial noncirrhotic portal hypertension", "primitive portal vein thrombosis", "hepatic porphyria"]
+last_modified_at: 2026-10-17
+description: "Azosemide：予測新適応症は特発性銅関連肝硬変 (idiopathic copper-associated cirrhosis)（エビデンスレベル L5）。既存適応症：利尿薬、Na-K-Cl共輸送体阻害薬"
 ---
 
 # Azosemide
@@ -110,4 +110,12 @@ TxGNN は以下の疾患も、ほぼ同等の高スコアで予測していま�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+アゾセミド、ダイアート、アゾセミド30mg錠、アゾセミド60mg錠、アゾセミド錠30mg「DSEP」、アゾセミド錠30mg「JG」、アゾセミド錠60mg「DSEP」、アゾセミド錠60mg「JG」、ダイアート錠30mg、ダイアート錠30mg(選)、ダイアート錠60mg、ダイアート錠60mg(選)
+<!-- brand-names:end -->
 

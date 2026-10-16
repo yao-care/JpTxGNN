@@ -5,10 +5,10 @@ parent: 高エビデンスレベル
 nav_order: 43
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Betamethasone：予測新適応症は円形脱毛症 (Alopecia Areata)（エビデンスレベル L2）。既存適応症：乾癬、掌蹠膿疱症、慢性円板状エリテマトーデス、毛孔性紅色粃糠疹、菌状息肉症、天疱瘡群など（抗炎症薬、鎮痒薬、グルココルチコイド受容体作動薬）"
 monitor_inn: "Betamethasone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "idiopathic steroid-sensitive nephrotic syndrome", "sporadic idiopathic steroid-resistant nephrotic syndrome"]
+last_modified_at: 2026-10-17
+description: "Betamethasone：予測新適応症は円形脱毛症 (Alopecia Areata)（エビデンスレベル L2）。既存適応症：乾癬、掌蹠膿疱症、慢性円板状エリテマトーデス、毛孔性紅色粃糠疹、菌状息肉症、天疱瘡群など（抗炎症薬、鎮痒薬、グルココルチコイド受容体作動薬）"
 ---
 
 # Betamethasone
@@ -125,4 +125,12 @@ TxGNN モデルは**円形脱毛症 (Alopecia Areata)** に有効である可能
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+アンテベート、サレックス、サンベタゾン、ステロネマ、デルモゾール、ベタメタゾン、ベタメタゾンジプロピオン酸エステル、ベタメタゾンリン酸エステルNa、ベタメタゾン吉草酸エステル、ベタメタゾン酪酸エステルプロピオン酸エステル、ベトネベート、リノロサール、リンデロン、アンテベートクリーム0.05%、アンテベートローション0.05%、アンテベート軟膏0.05%、サンベタゾン眼耳鼻科用液0.1%、ステロネマ注腸1.5mg 1.975mg、ステロネマ注腸3mg 3.95mg、デルモゾールDPクリーム0.064%、デルモゾールDPローション0.064%、デルモゾールDP軟膏0.064%、ベタメタゾンジプロピオン酸エステル0.064%クリーム、ベタメタゾンジプロピオン酸エステル0.064%軟膏、ベタメタゾンジプロピオン酸エステルクリーム0.064%「サトウ」、ベタメタゾンジプロピオン酸エステルクリーム0.064%テイコク、ベタメタゾンジプロピオン酸エステル軟膏0.064%「TCK」、ベタメタゾンジプロピオン酸エステル軟膏0.064%「YD」、ベタメタゾンジプロピオン酸エステル軟膏0.064%「サトウ」、ベタメタゾンジプロピオン酸エステル軟膏0.064%「テイコク」、ベタメタゾンジプロピオン酸エステル軟膏0.064%「ラクール」、ベタメタゾンリン酸エステルNa・PF眼耳鼻科用液0.1%「日点」、ベタメタゾンリン酸エステルナトリウム0.1%点眼点耳点鼻液、ベタメタゾン吉草酸エステル0.12%クリーム、ベタメタゾン吉草酸エステルクリーム0.12%「TCK」、ベタメタゾン吉草酸エステルクリーム0.12%「YD」、ベタメタゾン吉草酸エステルローション0.12%「イワキ」、ベタメタゾン吉草酸エステル軟膏0.12%「イワキ」、ベタメタゾン吉草酸エステル軟膏0.12%「トーワ」、ベタメタゾン散0.1%「フソー」
+<!-- brand-names:end -->
 

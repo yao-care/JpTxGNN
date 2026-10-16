@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 187
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Lidocaine：予測新適応症は点状表層角結膜炎 (Punctate Epithelial Keratoconjunctivitis)（エビデンスレベル L5）。既存適応症：表面麻酔薬、抗不整脈薬、ナトリウムチャネル遮断薬"
 monitor_inn: "Lidocaine"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "papillary conjunctivitis", "rosacea conjunctivitis", "exposure keratitis", "atopic conjunctivitis", "conjunctival disorder", "nephrotic syndrome", "non-human animal disease", "tinea corporis", "sporadic idiopathic steroid-resistant nephrotic syndrome"]
+last_modified_at: 2026-10-17
+description: "Lidocaine：予測新適応症は点状表層角結膜炎 (Punctate Epithelial Keratoconjunctivitis)（エビデンスレベル L5）。既存適応症：表面麻酔薬、抗不整脈薬、ナトリウムチャネル遮断薬"
 ---
 
 # Lidocaine
@@ -111,4 +111,12 @@ TxGNN モデルは**点状表層角結膜炎 (Punctate Epithelial Keratoconjunct
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+キシロカイン、ペンレス、リドカイン、リドカイン塩酸塩、キシロカイン0.5%筋注用溶解液 3mL、キシロカインゼリー2%、キシロカインビスカス2%、キシロカインポンプスプレー8%、キシロカインポンプスプレー8%(OA1/3顎)、キシロカインポンプスプレー8%(OA1〜2歯)、キシロカイン注シリンジ0.5% 10mL、キシロカイン注シリンジ1% 10mL、キシロカイン注ポリアンプ0.5% 10mL、キシロカイン注ポリアンプ0.5% 5mL、キシロカイン注ポリアンプ1% 10mL、キシロカイン注ポリアンプ1% 5mL、キシロカイン注ポリアンプ2% 10mL、キシロカイン注ポリアンプ2% 10mL(選)、キシロカイン注ポリアンプ2% 5mL、キシロカイン注射液0.5%、キシロカイン注射液1%、キシロカイン注射液2%、キシロカイン注射液「0.5%」エピレナミン1:100,000含有、キシロカイン注射液「1%」エピレナミン(1:100,000)含有、キシロカイン注射液「2%」エピレナミン(1:80,000)含有、キシロカイン液「4%」、キシロカイン点眼液4%、ジフルコルトロン リドカイン配合坐剤、ジフルコルトロン リドカイン配合軟膏、ネイサート坐剤、ネリザ坐剤、ネリザ軟膏、ペンレステープ18mg 30.5mm×50.0mm、リドカイン(18mg)30.5mm×50.0mm貼付剤、リドカインテープ18mg「NP」 30.5mm×50.0mm、リドカインテープ18mg「YP」 30.5mm×50.0mm、リドカインテープ18mg「ニプロ」 30.5mm×50.0mm、リドカインポンプスプレー8%「日新」、リドカイン塩酸塩ゼリー2%「日新」、リドカイン塩酸塩ビスカス2%「日新」
+<!-- brand-names:end -->
 

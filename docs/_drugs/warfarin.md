@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 342
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Warfarin：予測新適応症は血栓性素因 (Thrombophilia)（エビデンスレベル L5）。既存適応症：抗凝固薬、ビタミンK拮抗薬"
 monitor_inn: "Warfarin"
 predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombophilia", "rheumatoid arthritis", "breast fibrocystic disease", "benign mammary dysplasia", "apocrine adenosis of breast", "blunt duct adenosis of breast", "migraine disorder"]
+last_modified_at: 2026-10-17
+description: "Warfarin：予測新適応症は血栓性素因 (Thrombophilia)（エビデンスレベル L5）。既存適応症：抗凝固薬、ビタミンK拮抗薬"
 ---
 
 # Warfarin
@@ -130,4 +130,12 @@ TxGNN モデルは複数の血栓性疾患、とくに**血栓性素因 (Thrombo
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ワルファリンK、ワーファリン、ワルファリンK細粒0.2%「NS」、ワルファリンK錠0.5mg「NIG」、ワルファリンK錠0.5mg「NP」、ワルファリンK錠0.5mg「トーワ」、ワルファリンK錠1mg「F」、ワルファリンK錠1mg「NIG」、ワルファリンK錠1mg「NP」、ワルファリンK錠1mg「トーワ」、ワルファリンK錠1mg「日新」、ワルファリンK錠2mg「NP」、ワルファリンk、ワルファリンk細粒0 2、ワルファリンカリウム、ワルファリンカリウム錠 0.5mg、ワルファリンカリウム錠 1mg、ワルファリンカリウム錠 2mg、ワルファリンカリウム錠 5mg、ワーファリンカリュウ0 2、ワーファリン錠0.5mg、ワーファリン錠1mg、ワーファリン錠5mg、ワーファリン顆粒0.2%
+<!-- brand-names:end -->
 

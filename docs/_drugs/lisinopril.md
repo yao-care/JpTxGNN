@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 189
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Lisinopril：予測新適応症は後下壁心筋梗塞 (posteroinferior myocardial infarction)（エビデンスレベル L5）。既存適応症：高血圧症（血圧降下薬、ACE 阻害薬）"
 monitor_inn: "Lisinopril"
 predicted_indications: ["posteroinferior myocardial infarction", "posterolateral myocardial infarction", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "malignant renovascular hypertension", "septal myocardial infarction", "Braddock syndrome", "chronic pulmonary heart disease", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome"]
+last_modified_at: 2026-10-17
+description: "Lisinopril：予測新適応症は後下壁心筋梗塞 (posteroinferior myocardial infarction)（エビデンスレベル L5）。既存適応症：高血圧症（血圧降下薬、ACE 阻害薬）"
 ---
 
 # Lisinopril
@@ -128,4 +128,12 @@ TxGNN モデルは**後下壁心筋梗塞 (posteroinferior myocardial infarction
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+リシノプリル、ロンゲス、リシノプリル10mg錠、リシノプリル20mg錠、リシノプリル5mg錠、リシノプリル錠10mg「NIG」、リシノプリル錠10mg「サワイ」、リシノプリル錠10mg「トーワ」、リシノプリル錠20mg「NIG」、リシノプリル錠20mg「サワイ」、リシノプリル錠20mg「トーワ」、リシノプリル錠5mg「NIG」、リシノプリル錠5mg「サワイ」、リシノプリル錠5mg「トーワ」、ロンゲス錠10mg、ロンゲス錠10mg(選)、ロンゲス錠20mg、ロンゲス錠20mg(選)、ロンゲス錠5mg、ロンゲス錠5mg(選)
+<!-- brand-names:end -->
 

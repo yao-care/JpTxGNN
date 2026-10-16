@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 285
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-15
-description: "Sotalol：予測新適応症は洞不全症候群 2 型、常染色体優性 (sick sinus syndrome 2, autosomal dominant)（エビデンスレベル L5）。既存適応症：抗不整脈薬、β遮断薬、カリウムチャネル遮断薬"
 monitor_inn: "Sotalol"
 predicted_indications: ["sick sinus syndrome 2, autosomal dominant", "Wildervanck syndrome", "sarcoglycanopathy", "stroke disorder", "manic bipolar affective disorder", "macrocephaly, dysmorphic facies, and psychomotor retardation", "obsolete susceptibility to ischemic stroke"]
+last_modified_at: 2026-10-17
+description: "Sotalol：予測新適応症は洞不全症候群 2 型、常染色体優性 (sick sinus syndrome 2, autosomal dominant)（エビデンスレベル L5）。既存適応症：抗不整脈薬、β遮断薬、カリウムチャネル遮断薬"
 ---
 
 # Sotalol
@@ -133,4 +133,12 @@ TxGNN モデルの予測上位は洞不全症候群 2 型（常染色体優性�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ソタコール、ソタロール塩酸塩、ソタコール錠40mg、ソタコール錠40mg(選)、ソタコール錠80mg、ソタコール錠80mg(選)、ソタロール塩酸塩80mg錠、ソタロール塩酸塩錠40mg「TE」、ソタロール塩酸塩錠80mg「TE」
+<!-- brand-names:end -->
 

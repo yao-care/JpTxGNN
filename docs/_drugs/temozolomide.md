@@ -5,10 +5,10 @@ parent: 高エビデンスレベル
 nav_order: 299
 evidence_level: L1
 indication_count: 2
-last_modified_at: 2026-10-16
-description: "Temozolomide：予測新適応症は成人星細胞性腫瘍 (Adult Astrocytic Tumour)（エビデンスレベル L1）。既存適応症：退形成性星細胞腫、星細胞腫（膠芽腫を除く）、脳膠芽腫"
 monitor_inn: "temozolomide"
 predicted_indications: ["adult astrocytic tumour", "cauda equina neoplasm"]
+last_modified_at: 2026-10-17
+description: "Temozolomide：予測新適応症は成人星細胞性腫瘍 (Adult Astrocytic Tumour)（エビデンスレベル L1）。既存適応症：退形成性星細胞腫、星細胞腫（膠芽腫を除く）、脳膠芽腫"
 ---
 
 # Temozolomide
@@ -126,4 +126,12 @@ TxGNN モデルは**成人星細胞性腫瘍 (Adult Astrocytic Tumour)** に有�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+テモゾロミド、テモダール、テモゾロミド錠100mg「NK」、テモゾロミド錠20mg「NK」、テモダールカプセル100mg、テモダールカプセル20mg
+<!-- brand-names:end -->
 

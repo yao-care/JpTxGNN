@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 190
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Lithium Citrate：予測新適応症はMalan 過成長症候群 (Malan overgrowth syndrome)（エビデンスレベル L5）。既存適応症：躁病および躁うつ病の躁状態"
 monitor_inn: "Lithium citrate"
 predicted_indications: ["Malan overgrowth syndrome", "distal 17p13.3 microdeletion syndrome", "obesity disorder", "restless legs syndrome", "hydrops-lactic acidosis-sideroblastic anemia-multisystemic failure syndrome", "hypervitaminosis", "rheumatoid arthritis", "trichotillomania", "striatal degeneration, autosomal dominant", "proximal 16p11.2 microdeletion syndrome"]
+last_modified_at: 2026-10-17
+description: "Lithium Citrate：予測新適応症はMalan 過成長症候群 (Malan overgrowth syndrome)（エビデンスレベル L5）。既存適応症：躁病および躁うつ病の躁状態"
 ---
 
 # Lithium Citrate
@@ -121,4 +121,12 @@ Malan 過成長症候群について、関連する文献は現在ありませ�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+リーマス、炭酸リチウム、リーマス錠200 200mg、リーマス錠200 200mg(選)、炭酸リチウム錠200mg、炭酸リチウム錠200mg「フジナガ」、炭酸リチウム錠200mg「大正」
+<!-- brand-names:end -->
 

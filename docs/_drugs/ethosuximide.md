@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 123
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-15
-description: "Ethosuximide：予測新適応症は腎性抗利尿ホルモン不適合分泌症候群 (Nephrogenic Syndrome of Inappropriate Antidiuresis)（エビデンスレベル L5）。既存適応症：欠神てんかん"
 monitor_inn: "Ethosuximide"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]
+last_modified_at: 2026-10-17
+description: "Ethosuximide：予測新適応症は腎性抗利尿ホルモン不適合分泌症候群 (Nephrogenic Syndrome of Inappropriate Antidiuresis)（エビデンスレベル L5）。既存適応症：欠神てんかん"
 ---
 
 # Ethosuximide
@@ -101,4 +101,12 @@ T 型カルシウムチャネル阻害から V2 受容体経路へつながる�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ザロンチンシロップ5%
+<!-- brand-names:end -->
 

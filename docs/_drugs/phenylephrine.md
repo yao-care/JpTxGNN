@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 243
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-10-15
-description: "Phenylephrine：予測新適応症は鼻腔疾患 (Nasal Cavity Disease)（エビデンスレベル L4）。既存適応症：アレルギー性鼻炎、血管運動性鼻炎、咽頭炎、風邪、結膜炎など"
 monitor_inn: "Phenylephrine"
 predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "trigeminal autonomic cephalalgia"]
+last_modified_at: 2026-10-17
+description: "Phenylephrine：予測新適応症は鼻腔疾患 (Nasal Cavity Disease)（エビデンスレベル L4）。既存適応症：アレルギー性鼻炎、血管運動性鼻炎、咽頭炎、風邪、結膜炎など"
 ---
 
 # Phenylephrine
@@ -111,4 +111,12 @@ TxGNN モデルは**鼻腔疾患 (Nasal Cavity Disease)** に有効である可�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ネオシネジンコーワ5、ネオシネジンコーワ5%点眼液、ネオシネジンコーワチュウ1mg、ネオシネジンコーワチュウ5mg、ネオシネジンコーワ注1mg 0.1%1mL、ネオシネジンコーワ注5mg 0.5%1mL
+<!-- brand-names:end -->
 

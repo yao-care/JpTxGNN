@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 193
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Lorazepam：予測新適応症は三叉神経腫瘍 (trigeminal nerve neoplasm)（エビデンスレベル L5）。既存適応症：神経症における不安（抗不安薬、抗けいれん薬、マイナートランキライザー）"
 monitor_inn: "Lorazepam"
 predicted_indications: ["trigeminal nerve neoplasm", "insomnia (disease)", "reading seizures", "orgasm-induced seizures", "thinking seizures", "micturation-induced seizures", "startle epilepsy", "audiogenic seizures", "eating seizures", "acute encephalopathy with biphasic seizures and late reduced diffusion"]
+last_modified_at: 2026-10-17
+description: "Lorazepam：予測新適応症は三叉神経腫瘍 (trigeminal nerve neoplasm)（エビデンスレベル L5）。既存適応症：神経症における不安（抗不安薬、抗けいれん薬、マイナートランキライザー）"
 ---
 
 # Lorazepam
@@ -121,4 +121,12 @@ TxGNN モデルの第 1 位予測は**三叉神経腫瘍 (trigeminal nerve neopl
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ロラゼパム、ロラピタ、ワイパックス、ロラゼパム1mg錠、ロラゼパム錠0 5mg、ロラゼパム錠0.5mg「サワイ」、ロラゼパム錠1mg、ロラゼパム錠1mg「サワイ」、ワイパックス錠0.5 0.5mg、ワイパックス錠0.5 0.5mg(選)、ワイパックス錠1.0 1mg、ワイパックス錠1.0 1mg(選)
+<!-- brand-names:end -->
 

@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 203
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-15
-description: "Mesalazine：予測新適応症は若年性黄斑ジストロフィーを伴う先天性乏毛症 (Congenital Hypotrichosis with Juvenile Macular…（エビデンスレベル L5）。既存適応症：潰瘍性大腸炎、クローン病（抗炎症薬）"
 monitor_inn: "mesalazine"
 predicted_indications: ["congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "rheumatoid arthritis", "seborrheic keratosis", "osteoarthritis susceptibility", "vulvar inverted follicular keratosis", "pseudoachondroplasia"]
+last_modified_at: 2026-10-17
+description: "Mesalazine：予測新適応症は若年性黄斑ジストロフィーを伴う先天性乏毛症 (Congenital Hypotrichosis with Juvenile Macular…（エビデンスレベル L5）。既存適応症：潰瘍性大腸炎、クローン病（抗炎症薬）"
 ---
 
 # Mesalazine
@@ -109,4 +109,12 @@ TxGNN モデルは**若年性黄斑ジストロフィーを伴う先天性乏毛
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+アサコール、ペンタサ、メサラジン、リアルダ、ペンタサ注腸1g、ペンタサ錠250mg、ペンタサ錠250mg(選)、ペンタサ錠500mg、ペンタサ錠500mg(選)、メサラジン徐放錠250mg「トーワ」、メサラジン徐放錠250mg「日医工P」、メサラジン徐放錠500mg「トーワ」、メサラジン徐放錠500mg「日医工P」、メサラジン注腸1g「JG」、メサラジン注腸1g「ケンエー」、メサラジン腸溶錠400mg「サワイ」、メサラジン錠250mg「ケミファ」、メサラジン錠500mg「ケミファ」
+<!-- brand-names:end -->
 

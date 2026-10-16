@@ -5,10 +5,10 @@ parent: 高エビデンスレベル
 nav_order: 267
 evidence_level: L1
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Risperidone：予測新適応症は気分障害 (Major affective disorder)（エビデンスレベル L1）。既存適応症：統合失調症"
 monitor_inn: "Risperidone"
 predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "asperger syndrome, susceptibility to", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania", "major affective disorder", "Tourette syndrome", "intellectual disability", "autism, susceptibility to", "chromosome 15q11.2 deletion syndrome"]
+last_modified_at: 2026-10-17
+description: "Risperidone：予測新適応症は気分障害 (Major affective disorder)（エビデンスレベル L1）。既存適応症：統合失調症"
 ---
 
 # Risperidone
@@ -143,4 +143,12 @@ TxGNN モデルは**気分障害 (Major affective disorder)** に有効である
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+リスパダール、リスパダールコンスタ、リスペリドン、リスパダール コンスタ筋注用25mg (懸濁用液付)、リスパダール コンスタ筋注用37.5mg (懸濁用液付)、リスパダール コンスタ筋注用50mg (懸濁用液付)、リスパダールOD錠0.5mg、リスパダールOD錠1mg、リスパダールOD錠1mg(選)、リスパダールOD錠2mg、リスパダールOD錠2mg(選)、リスパダール内用液1mg/mL 0.1%、リスパダール細粒1%、リスパダール細粒1%(選)、リスパダール錠1mg、リスパダール錠1mg(選)、リスパダール錠2mg、リスパダール錠2mg(選)、リスパダール錠3mg、リスパダール錠3mg(選)、リスペリドン0.1%液、リスペリドン0.5mg口腔内崩壊錠、リスペリドン0.5mg錠、リスペリドン1%細粒、リスペリドン1mg口腔内崩壊錠、リスペリドン1mg錠、リスペリドン2mg口腔内崩壊錠、リスペリドン2mg錠、リスペリドン3mg口腔内崩壊錠、リスペリドン3mg錠、リスペリドンOD錠0.5mg「アメル」、リスペリドンOD錠0.5mg「サワイ」、リスペリドンOD錠0.5mg「タカタ」、リスペリドンOD錠0.5mg「トーワ」、リスペリドンOD錠1mg「アメル」、リスペリドンOD錠1mg「サワイ」、リスペリドンOD錠1mg「タカタ」、リスペリドンOD錠1mg「トーワ」、リスペリドンOD錠2mg「アメル」、リスペリドンOD錠2mg「サワイ」
+<!-- brand-names:end -->
 

@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 330
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Valproic Acid：予測新適応症は三叉神経腫瘍 (Trigeminal Nerve Neoplasm)（エビデンスレベル L5）。既存適応症：躁病および躁うつ病の躁状態"
 monitor_inn: "Valproic acid"
 predicted_indications: ["trigeminal nerve neoplasm", "visual epilepsy", "trigeminal neuralgia", "audiogenic seizures", "thinking seizures", "eating seizures", "orgasm-induced seizures", "startle epilepsy", "micturation-induced seizures", "reading seizures"]
+last_modified_at: 2026-10-17
+description: "Valproic Acid：予測新適応症は三叉神経腫瘍 (Trigeminal Nerve Neoplasm)（エビデンスレベル L5）。既存適応症：躁病および躁うつ病の躁状態"
 ---
 
 # Valproic Acid
@@ -129,4 +129,12 @@ TxGNN モデルは**三叉神経腫瘍 (Trigeminal Nerve Neoplasm)** に有効�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+セレニカ、デパケン、バルプロ酸Na、バルプロ酸ナトリウム、セレニカR顆粒40%、セレニカR顆粒40%(選)、デパケンR錠100mg、デパケンR錠200mg、デパケンシロップ5%、デパケン細粒40%、デパケン錠100mg、デパケン錠200mg、バルプロ酸Naシロップ5%「フジナガ」、バルプロ酸Na徐放顆粒40%「フジナガ」、バルプロ酸Na錠100mg「フジナガ」、バルプロ酸Na錠200mg「フジナガ」、バルプロ酸ナトリウム100mg徐放錠、バルプロ酸ナトリウム100mg錠、バルプロ酸ナトリウム200mg徐放錠、バルプロ酸ナトリウム5%シロップ、バルプロ酸ナトリウムSR錠100mg「アメル」、バルプロ酸ナトリウムSR錠200mg「アメル」、バルプロ酸ナトリウムシロップ5%「DSP」、バルプロ酸ナトリウムシロップ5%「日医工」、バルプロ酸ナトリウム徐放錠A100mg「トーワ」、バルプロ酸ナトリウム徐放錠A200mg「トーワ」、バルプロ酸ナトリウム細粒20%「EMEC」、バルプロ酸ナトリウム細粒40%「EMEC」、バルプロ酸ナトリウム錠100mg「DSP」、バルプロ酸ナトリウム錠100mg「アメル」、バルプロ酸ナトリウム錠200mg「DSP」、バルプロ酸ナトリウム錠200mg「アメル」
+<!-- brand-names:end -->
 

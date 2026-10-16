@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 281
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Silodosin：予測新適応症はAmbras 型先天性汎発性多毛症 (Ambras type hypertrichosis universalis congenita)（エビデンスレベル L5）。既存適応症：排尿障害改善薬、α1アドレナリン受容体拮抗薬"
 monitor_inn: "Silodosin"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly", "persistent fetal circulation syndrome", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "chronic thromboembolic pulmonary hypertension"]
+last_modified_at: 2026-10-17
+description: "Silodosin：予測新適応症はAmbras 型先天性汎発性多毛症 (Ambras type hypertrichosis universalis congenita)（エビデンスレベル L5）。既存適応症：排尿障害改善薬、α1アドレナリン受容体拮抗薬"
 ---
 
 # Silodosin
@@ -110,4 +110,12 @@ TxGNN モデルは **Ambras 型先天性汎発性多毛症 (Ambras type hypertri
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+シロドシン、ユリーフ、シロドシン2mg口腔内崩壊錠、シロドシン2mg錠、シロドシン4mg口腔内崩壊錠、シロドシン4mg錠、シロドシンOD錠2mg「DSEP」、シロドシンOD錠2mg「JG」、シロドシンOD錠2mg「KMP」、シロドシンOD錠2mg「Me」、シロドシンOD錠2mg「YD」、シロドシンOD錠2mg「オーハラ」、シロドシンOD錠2mg「ケミファ」、シロドシンOD錠2mg「サワイ」、シロドシンOD錠2mg「ツルハラ」、シロドシンOD錠2mg「ニプロ」、シロドシンOD錠2mg「日新」、シロドシンOD錠2mg「杏林」、シロドシンOD錠4mg「DSEP」、シロドシンOD錠4mg「JG」、シロドシンOD錠4mg「KMP」、シロドシンOD錠4mg「Me」、シロドシンOD錠4mg「YD」、シロドシンOD錠4mg「オーハラ」、シロドシンOD錠4mg「ケミファ」、シロドシンOD錠4mg「サワイ」、シロドシンOD錠4mg「ツルハラ」、シロドシンOD錠4mg「ニプロ」、シロドシンOD錠4mg「日新」、シロドシンOD錠4mg「杏林」、シロドシン口腔内崩壊錠2mg、シロドシン口腔内崩壊錠4mg、シロドシン錠2mg、シロドシン錠2mg「DSEP」、シロドシン錠2mg「JG」、シロドシン錠2mg「KMP」、シロドシン錠2mg「TCK」、シロドシン錠2mg「YD」、シロドシン錠2mg「オーハラ」、シロドシン錠2mg「トーワ」
+<!-- brand-names:end -->
 

@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 220
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-15
-description: "Nicardipine：予測新適応症は原因不明の多因子性肺高血圧症 (pulmonary hypertension with unclear multifactorial me…（エビデンスレベル L5）。既存適応症：高血圧性緊急症、急性心不全、本態性高血圧症"
 monitor_inn: "Nicardipine"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "malignant renovascular hypertension", "Braddock syndrome"]
+last_modified_at: 2026-10-17
+description: "Nicardipine：予測新適応症は原因不明の多因子性肺高血圧症 (pulmonary hypertension with unclear multifactorial me…（エビデンスレベル L5）。既存適応症：高血圧性緊急症、急性心不全、本態性高血圧症"
 ---
 
 # Nicardipine
@@ -116,4 +116,12 @@ TxGNN モデルは**原因不明の多因子性肺高血圧症 (pulmonary hypert
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ニカルジピン塩酸塩、ペルジピン、ニカルジピンエン、ニカルジピン塩酸塩10mg10mL注射液、ニカルジピン塩酸塩2mg2mL注射液、ニカルジピン塩酸塩注射液10mg「サワイ」 10mL、ニカルジピン塩酸塩注射液10mg「日医工」 10mL、ニカルジピン塩酸塩注射液25mg「サワイ」 25mL、ニカルジピン塩酸塩注射液25mg「日医工」 25mL、ニカルジピン塩酸塩注射液2mg「サワイ」 2mL、ニカルジピン塩酸塩注射液2mg「日医工」 2mL、ニカルジピン塩酸塩錠10mg「ツルハラ」、ニカルジピン塩酸塩錠20mg「ツルハラ」、ペルジピン錠20mg、ペルジピン錠20mg(選)
+<!-- brand-names:end -->
 

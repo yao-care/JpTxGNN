@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 263
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Rabeprazole：予測新適応症はくすぶり型全身性肥満細胞症 (Smouldering systemic mastocytosis)（エビデンスレベル L5）。既存適応症：胃潰瘍、十二指腸潰瘍、吻合部潰瘍、逆流性食道炎、Zollinger-Ellison 症候群、非びらん性胃食道逆流症…"
 monitor_inn: "Rabeprazole"
 predicted_indications: ["Smouldering systemic mastocytosis", "lymphoadenopathic mastocytosis with eosinophilia", "active peptic ulcer disease", "duodenogastric reflux", "gastroduodenitis", "duodenal obstruction", "gastrojejunal ulcer", "peptic ulcer perforation", "gastric ulcer (disease)", "abnormality of glucagon secretion"]
+last_modified_at: 2026-10-17
+description: "Rabeprazole：予測新適応症はくすぶり型全身性肥満細胞症 (Smouldering systemic mastocytosis)（エビデンスレベル L5）。既存適応症：胃潰瘍、十二指腸潰瘍、吻合部潰瘍、逆流性食道炎、Zollinger-Ellison 症候群、非びらん性胃食道逆流症…"
 ---
 
 # Rabeprazole
@@ -114,4 +114,12 @@ TxGNN モデルは**くすぶり型全身性肥満細胞症 (Smouldering systemi
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+パリエット、ラベプラゾールNa、ラベプラゾールNa塩、ラベプラゾールナトリウム、パリエット錠10mg、パリエット錠10mg(選)、パリエット錠20mg、パリエット錠20mg(選)、パリエット錠5mg、ラベプラゾールNa塩錠10mg「オーハラ」、ラベプラゾールNa塩錠10mg「明治」、ラベプラゾールNa塩錠20mg「オーハラ」、ラベプラゾールNa塩錠20mg「明治」、ラベプラゾールNa塩錠5mg「オーハラ」、ラベプラゾールNa塩錠5mg「明治」、ラベプラゾールNa錠10mg「AA」、ラベプラゾールNa錠10mg「AFP」、ラベプラゾールNa錠10mg「JG」、ラベプラゾールNa錠10mg「NIG」、ラベプラゾールNa錠10mg「VTRS」、ラベプラゾールNa錠10mg「YD」、ラベプラゾールNa錠10mg「サワイ」、ラベプラゾールNa錠10mg「トーワ」、ラベプラゾールNa錠10mg「ニプロ」、ラベプラゾールNa錠10mg「日新」、ラベプラゾールNa錠10mg「杏林」、ラベプラゾールNa錠20mg「AA」、ラベプラゾールNa錠20mg「AFP」、ラベプラゾールNa錠20mg「JG」、ラベプラゾールNa錠20mg「NIG」、ラベプラゾールNa錠20mg「VTRS」、ラベプラゾールNa錠20mg「YD」、ラベプラゾールNa錠20mg「サワイ」、ラベプラゾールNa錠20mg「トーワ」、ラベプラゾールNa錠20mg「ニプロ」、ラベプラゾールNa錠20mg「日新」、ラベプラゾールNa錠20mg「杏林」、ラベプラゾールNa錠5mg「AA」、ラベプラゾールNa錠5mg「AFP」、ラベプラゾールNa錠5mg「JG」
+<!-- brand-names:end -->
 

@@ -5,10 +5,10 @@ parent: 高エビデンスレベル
 nav_order: 282
 evidence_level: L1
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Simvastatin：予測新適応症は家族性高コレステロール血症 (Familial Hypercholesterolemia)（エビデンスレベル L1）。既存適応症：高脂血症、家族性高コレステロール血症（脂質異常症治療薬、HMG-CoA 還元酵素阻害薬）"
 monitor_inn: "Simvastatin"
 predicted_indications: ["familial hypercholesterolemia", "brain stem infarction", "cholesterol-ester transfer protein deficiency", "hypercholesterolemia, autosomal dominant", "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency", "HIV infectious disease", "ABri amyloidosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "fibroma of prostate", "simian immunodeficiency virus infection"]
+last_modified_at: 2026-10-17
+description: "Simvastatin：予測新適応症は家族性高コレステロール血症 (Familial Hypercholesterolemia)（エビデンスレベル L1）。既存適応症：高脂血症、家族性高コレステロール血症（脂質異常症治療薬、HMG-CoA 還元酵素阻害薬）"
 ---
 
 # Simvastatin
@@ -131,4 +131,12 @@ TxGNN モデルは**家族性高コレステロール血症 (Familial Hyperchole
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+シンバスタチン、リポバス、シンバスタチン10mg錠、シンバスタチン20mg錠、シンバスタチン5mg錠、シンバスタチン錠10mg、シンバスタチン錠10mg「SW」、シンバスタチン錠10mg「VTRS」、シンバスタチン錠10mg「YD」、シンバスタチン錠10mg「あすか」、シンバスタチン錠10mg「オーハラ」、シンバスタチン錠10mg「トーワ」、シンバスタチン錠10mg「杏林」、シンバスタチン錠10mg「武田テバ」、シンバスタチン錠20mg、シンバスタチン錠20mg「SW」、シンバスタチン錠20mg「VTRS」、シンバスタチン錠20mg「YD」、シンバスタチン錠20mg「あすか」、シンバスタチン錠20mg「オーハラ」、シンバスタチン錠20mg「トーワ」、シンバスタチン錠5mg、シンバスタチン錠5mg「SW」、シンバスタチン錠5mg「VTRS」、シンバスタチン錠5mg「YD」、シンバスタチン錠5mg「あすか」、シンバスタチン錠5mg「オーハラ」、シンバスタチン錠5mg「トーワ」、シンバスタチン錠5mg「杏林」、シンバスタチン錠5mg「武田テバ」、リポバス錠10 10mg、リポバス錠10 10mg(選)、リポバス錠20 20mg、リポバス錠20 20mg(選)、リポバス錠5 5mg、リポバス錠5 5mg(選)
+<!-- brand-names:end -->
 

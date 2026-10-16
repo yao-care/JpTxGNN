@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 306
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Ticlopidine：予測新適応症は関節リウマチ (Rheumatoid Arthritis)（エビデンスレベル L3）。既存適応症：慢性動脈閉塞症（抗凝固薬、血小板凝集抑制薬、P2Y12 拮抗薬）"
 monitor_inn: "Ticlopidine"
 predicted_indications: ["rheumatoid arthritis", "female breast carcinoma", "obsolete familial combined hyperlipidemia", "homozygous familial hypercholesterolemia", "hypoalphalipoproteinemia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "HIV infectious disease", "leprosy", "multiple endocrine neoplasia"]
+last_modified_at: 2026-10-17
+description: "Ticlopidine：予測新適応症は関節リウマチ (Rheumatoid Arthritis)（エビデンスレベル L3）。既存適応症：慢性動脈閉塞症（抗凝固薬、血小板凝集抑制薬、P2Y12 拮抗薬）"
 ---
 
 # Ticlopidine
@@ -114,4 +114,12 @@ TxGNN モデルは**関節リウマチ (Rheumatoid Arthritis)** に有効であ�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+チクロピジン、チクロピジン塩酸塩、パナルジン、チクロピジン塩酸塩100mg錠、チクロピジン塩酸塩錠100mg「YD」、チクロピジン塩酸塩錠100mg「サワイ」、チクロピジン塩酸塩錠100mg「ツルハラ」、チクロピジン塩酸塩錠100mg「トーワ」、パナルジン錠100mg、パナルジン錠100mg(選)
+<!-- brand-names:end -->
 

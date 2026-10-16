@@ -5,10 +5,10 @@ parent: 高エビデンスレベル
 nav_order: 265
 evidence_level: L2
 indication_count: 8
-last_modified_at: 2026-10-15
-description: "Regorafenib：予測新適応症は脂肪肉腫 (Liposarcoma)（エビデンスレベル L2）。既存適応症：転移性大腸癌、肝細胞癌、消化管間質腫瘍 (GIST) など（日本の承認適応症の記載はなし）"
 monitor_inn: "regorafenib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "clear cell renal carcinoma", "unclassified renal cell carcinoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "renal cell carcinoma associated with neuroblastoma", "childhood kidney cell carcinoma", "vulva sarcoma"]
+last_modified_at: 2026-10-17
+description: "Regorafenib：予測新適応症は脂肪肉腫 (Liposarcoma)（エビデンスレベル L2）。既存適応症：転移性大腸癌、肝細胞癌、消化管間質腫瘍 (GIST) など（日本の承認適応症の記載はなし）"
 ---
 
 # Regorafenib
@@ -135,4 +135,12 @@ TxGNN モデルは**脂肪肉腫 (Liposarcoma)** に有効である可能性を�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+スチバーガ錠40mg
+<!-- brand-names:end -->
 

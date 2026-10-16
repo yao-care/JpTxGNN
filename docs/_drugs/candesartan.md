@@ -5,10 +5,10 @@ parent: 高エビデンスレベル
 nav_order: 57
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Candesartan：予測新適応症は片頭痛 (migraine disorder)（エビデンスレベル L2）。既存適応症：血圧降下薬、アンジオテンシンII受容体拮抗薬"
 monitor_inn: "Candesartan"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "pulmonary hypertension", "Prinzmetal angina", "kyphoscoliotic heart disease", "atrophoderma vermiculata", "ulerythema ophryogenesis", "benign prostatic hyperplasia (disease)", "alopecia"]
+last_modified_at: 2026-10-17
+description: "Candesartan：予測新適応症は片頭痛 (migraine disorder)（エビデンスレベル L2）。既存適応症：血圧降下薬、アンジオテンシンII受容体拮抗薬"
 ---
 
 # Candesartan
@@ -126,4 +126,12 @@ TxGNN モデルは**片頭痛 (migraine disorder)** に有効である可能性�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+カムシア配合錠HD「NIG」、カムシア配合錠HD「あすか」、カムシア配合錠HD「サンド」、カムシア配合錠HD「トーワ」、カムシア配合錠HD「ニプロ」、カムシア配合錠HD「日新」、カムシア配合錠LD「NIG」、カムシア配合錠LD「あすか」、カムシア配合錠LD「サンド」、カムシア配合錠LD「トーワ」、カムシア配合錠LD「ニプロ」、カムシア配合錠LD「日新」、カンデサルタンOD錠12mg「サワイ」、カンデサルタンOD錠12mg「トーワ」、カンデサルタンOD錠2mg「サワイ」、カンデサルタンOD錠2mg「トーワ」、カンデサルタンOD錠4mg「サワイ」、カンデサルタンOD錠4mg「トーワ」、カンデサルタンOD錠8mg「サワイ」、カンデサルタンOD錠8mg「トーワ」、カンデサルタンシレキセチル12mg錠、カンデサルタンシレキセチル2mg口腔内崩壊錠、カンデサルタンシレキセチル2mg錠、カンデサルタンシレキセチル4mg口腔内崩壊錠、カンデサルタンシレキセチル4mg錠、カンデサルタンシレキセチル8mg口腔内崩壊錠、カンデサルタンシレキセチル8mg錠、カンデサルタン錠12mg「DSEP」、カンデサルタン錠12mg「JG」、カンデサルタン錠12mg「NIG」、カンデサルタン錠12mg「TCK」、カンデサルタン錠12mg「YD」、カンデサルタン錠12mg「あすか」、カンデサルタン錠12mg「オーハラ」、カンデサルタン錠12mg「ケミファ」、カンデサルタン錠12mg「サワイ」、カンデサルタン錠12mg「サンド」、カンデサルタン錠12mg「ツルハラ」、カンデサルタン錠12mg「トーワ」、カンデサルタン錠12mg「ニプロ」
+<!-- brand-names:end -->
 

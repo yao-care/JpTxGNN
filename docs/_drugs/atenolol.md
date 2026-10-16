@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 31
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Atenolol：予測新適応症は後外側心筋梗塞 (Posterolateral Myocardial Infarction)（エビデンスレベル L5）。既存適応症：本態性高血圧症、狭心症、期外収縮（抗不整脈薬・血圧降下薬・血管拡張薬・β1遮断薬）"
 monitor_inn: "Atenolol"
 predicted_indications: ["posterolateral myocardial infarction", "posteroinferior myocardial infarction", "malignant hypertensive renal disease", "malignant renovascular hypertension", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "septal myocardial infarction", "Braddock syndrome", "chronic pulmonary heart disease", "primary hereditary glaucoma"]
+last_modified_at: 2026-10-17
+description: "Atenolol：予測新適応症は後外側心筋梗塞 (Posterolateral Myocardial Infarction)（エビデンスレベル L5）。既存適応症：本態性高血圧症、狭心症、期外収縮（抗不整脈薬・血圧降下薬・血管拡張薬・β1遮断薬）"
 ---
 
 # Atenolol
@@ -117,4 +117,12 @@ TxGNN モデルは**後外側心筋梗塞 (Posterolateral Myocardial Infarction)
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+アテノロール、アルセノール、テノーミン、アテノロール25mg錠、アテノロール50mg錠、アテノロール錠25mg「JG」、アテノロール錠25mg「NIG」、アテノロール錠25mg「サワイ」、アテノロール錠25mg「ツルハラ」、アテノロール錠25mg「トーワ」、アテノロール錠25mg「日新」、アテノロール錠50mg「JG」、アテノロール錠50mg「NIG」、アテノロール錠50mg「サワイ」、アテノロール錠50mg「ツルハラ」、アテノロール錠50mg「トーワ」、アテノロール錠50mg「日新」、アルセノール錠25 25mg、アルセノール錠50 50mg、テノーミン錠25 25mg、テノーミン錠25 25mg(選)、テノーミン錠50 50mg、テノーミン錠50 50mg(選)
+<!-- brand-names:end -->
 

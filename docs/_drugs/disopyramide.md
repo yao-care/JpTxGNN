@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 96
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Disopyramide：予測新適応症はトゥレット症候群 (Tourette syndrome)（エビデンスレベル L5）。既存適応症：記載なし（日本の承認情報に適応症テキストが含まれていません）"
 monitor_inn: "Disopyramide"
 predicted_indications: ["Tourette syndrome", "attention deficit-hyperactivity disorder", "trichotillomania", "attention deficit hyperactivity disorder, inattentive type", "faciodigitogenital syndrome", "specific developmental disorder", "idiopathic neonatal atrial flutter", "chondromyxoid fibroma", "multifocal atrial tachycardia (disease)", "trigeminal nerve neoplasm"]
+last_modified_at: 2026-10-17
+description: "Disopyramide：予測新適応症はトゥレット症候群 (Tourette syndrome)（エビデンスレベル L5）。既存適応症：記載なし（日本の承認情報に適応症テキストが含まれていません）"
 ---
 
 # Disopyramide
@@ -121,4 +121,12 @@ TxGNN モデルは**トゥレット症候群 (Tourette syndrome)** に有効で�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ジソピラミドリン酸塩徐放錠150mg、ジソピラミドリン酸塩徐放錠150mg「トーワ」、ジソピラミド徐放錠150mg「SW」、ジソピラミド徐放錠150mg「VTRS」、リスモダンP静注50mg 5mL、リスモダンR錠150mg、リスモダンR錠150mg(選)、リスモダンカプセル100mg、リスモダンカプセル50mg、リン酸ジソピラミド150mg徐放錠
+<!-- brand-names:end -->
 

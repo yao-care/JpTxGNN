@@ -5,10 +5,10 @@ parent: 高エビデンスレベル
 nav_order: 198
 evidence_level: L2
 indication_count: 7
-last_modified_at: 2026-10-15
-description: "Luliconazole：予測新適応症は癜風 (Pityriasis Versicolor)（エビデンスレベル L2）。既存適応症：足白癬、体部白癬、白癬感染症、股部・肛門周囲の皮膚糸状菌症"
 monitor_inn: "Luliconazole"
 predicted_indications: ["pityriasis versicolor", "superficial mycosis", "cutaneous candidiasis", "endothrix infectious disease", "dermatophytosis of scalp or beard", "Majocchi granuloma", "ectothrix infectious disease"]
+last_modified_at: 2026-10-17
+description: "Luliconazole：予測新適応症は癜風 (Pityriasis Versicolor)（エビデンスレベル L2）。既存適応症：足白癬、体部白癬、白癬感染症、股部・肛門周囲の皮膚糸状菌症"
 ---
 
 # Luliconazole
@@ -101,4 +101,12 @@ TxGNN モデルは**癜風 (Pityriasis Versicolor)** に有効である可能性
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ルコナック、ルリコナゾール、ルリコン、ルリコナゾールクリーム1%「イワキ」、ルリコナゾール軟膏1%「イワキ」、ルリコンクリーム1%、ルリコンクリーム1%(選)、ルリコン液1%、ルリコン軟膏1%、ルリコン軟膏1%(選)
+<!-- brand-names:end -->
 

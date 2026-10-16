@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 129
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Febuxostat：予測新適応症は腎性低尿酸血症 (hypouricemia, renal)（エビデンスレベル L4）。既存適応症：痛風"
 monitor_inn: "Febuxostat"
 predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "Lesch-Nyhan syndrome", "hepatoportal sclerosis", "early-onset familial noncirrhotic portal hypertension", "idiopathic copper-associated cirrhosis", "primitive portal vein thrombosis", "hepatopulmonary syndrome", "hepatic porphyria", "disorder of phenylalanine metabolism"]
+last_modified_at: 2026-10-17
+description: "Febuxostat：予測新適応症は腎性低尿酸血症 (hypouricemia, renal)（エビデンスレベル L4）。既存適応症：痛風"
 ---
 
 # Febuxostat
@@ -111,4 +111,12 @@ TxGNN モデルは**腎性低尿酸血症 (hypouricemia, renal)** に有効で�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+フェブキソスタット、フェブリク、フェブキソスタット10mg口腔内崩壊錠、フェブキソスタット10mg錠、フェブキソスタット20mg口腔内崩壊錠、フェブキソスタット20mg錠、フェブキソスタットOD錠10mg「NPI」、フェブキソスタットOD錠10mg「ケミファ」、フェブキソスタットOD錠10mg「サワイ」、フェブキソスタットOD錠10mg「日新」、フェブキソスタットOD錠10mg「明治」、フェブキソスタットOD錠20mg「NPI」、フェブキソスタットOD錠20mg「ケミファ」、フェブキソスタットOD錠20mg「サワイ」、フェブキソスタットOD錠20mg「日新」、フェブキソスタットOD錠20mg「明治」、フェブキソスタットOD錠40mg「NPI」、フェブキソスタットOD錠40mg「ケミファ」、フェブキソスタットOD錠40mg「日新」、フェブキソスタットOD錠40mg「明治」、フェブキソスタット錠10mg「AFP」、フェブキソスタット錠10mg「DSEP」、フェブキソスタット錠10mg「JG」、フェブキソスタット錠10mg「TCK」、フェブキソスタット錠10mg「YD」、フェブキソスタット錠10mg「ケミファ」、フェブキソスタット錠10mg「サワイ」、フェブキソスタット錠10mg「トーワ」、フェブキソスタット錠10mg「ニプロ」、フェブキソスタット錠10mg「日新」、フェブキソスタット錠10mg「明治」、フェブキソスタット錠10mg「杏林」、フェブキソスタット錠20mg「AFP」、フェブキソスタット錠20mg「DSEP」、フェブキソスタット錠20mg「JG」、フェブキソスタット錠20mg「TCK」、フェブキソスタット錠20mg「YD」、フェブキソスタット錠20mg「ケミファ」、フェブキソスタット錠20mg「サワイ」、フェブキソスタット錠20mg「トーワ」
+<!-- brand-names:end -->
 

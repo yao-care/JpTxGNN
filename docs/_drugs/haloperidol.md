@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 154
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Haloperidol：予測新適応症はフコシル化欠損を伴う先天性グリコシル化異常症 (congenital disorder of glycosylation with def…（エビデンスレベル L5）。既存適応症：統合失調症、躁病"
 monitor_inn: "Haloperidol"
 predicted_indications: ["congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "syndromic myopia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "atypical glycine encephalopathy", "manic bipolar affective disorder"]
+last_modified_at: 2026-10-17
+description: "Haloperidol：予測新適応症はフコシル化欠損を伴う先天性グリコシル化異常症 (congenital disorder of glycosylation with def…（エビデンスレベル L5）。既存適応症：統合失調症、躁病"
 ---
 
 # Haloperidol
@@ -127,4 +127,12 @@ TxGNN モデルは**フコシル化欠損を伴う先天性グリコシル化異
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+セレネース、ハロペリドール、セレネース内服液0.2%、セレネース注5mg 0.5%1mL、セレネース細粒1%、セレネース細粒1%(選)、セレネース錠0.75mg、セレネース錠0.75mg(選)、セレネース錠1.5mg、セレネース錠1.5mg(選)、セレネース錠1mg、セレネース錠1mg(選)、セレネース錠3mg、セレネース錠3mg(選)、ハロペリドール0.75mg錠、ハロペリドール1%細粒、ハロペリドール1.5mg錠、ハロペリドール1mg錠、ハロペリドール2mg錠、ハロペリドール3mg錠、ハロペリドールチュウ5mgヨシトミ、ハロペリドール注5mg「ヨシトミ」 0.5%1mL、ハロペリドール細粒1%「アメル」、ハロペリドール細粒1%「タカタ」、ハロペリドール細粒1%「ツルハラ」、ハロペリドール細粒1%「ヨシトミ」、ハロペリドール錠0.75mg「アメル」、ハロペリドール錠0.75mg「ヨシトミ」、ハロペリドール錠1.5mg「アメル」、ハロペリドール錠1.5mg「ツルハラ」、ハロペリドール錠1.5mg「ヨシトミ」、ハロペリドール錠1mg「アメル」、ハロペリドール錠1mg「タカタ」、ハロペリドール錠2mg「アメル」、ハロペリドール錠2mg「タカタ」、ハロペリドール錠2mg「ヨシトミ」、ハロペリドール錠3mg「アメル」、ハロペリドール錠3mg「ヨシトミ」
+<!-- brand-names:end -->
 

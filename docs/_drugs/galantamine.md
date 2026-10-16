@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 144
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-15
-description: "Galantamine：予測新適応症は心因性運動障害 (Psychogenic Movement Disorders)（エビデンスレベル L5）。既存適応症：認知症治療薬、アセチルコリンエステラーゼ阻害薬"
 monitor_inn: "Galantamine"
 predicted_indications: ["psychogenic movement disorders", "chronic tic disorder", "primary orthostatic tremor", "extrapyramidal and movement disease", "benign shuddering attacks", "tremor-nystagmus-duodenal ulcer syndrome", "lingual-facial-buccal dyskinesia", "benign paroxysmal tonic upgaze of childhood with ataxia", "acute intermittent porphyria"]
+last_modified_at: 2026-10-17
+description: "Galantamine：予測新適応症は心因性運動障害 (Psychogenic Movement Disorders)（エビデンスレベル L5）。既存適応症：認知症治療薬、アセチルコリンエステラーゼ阻害薬"
 ---
 
 # Galantamine
@@ -140,4 +140,12 @@ TxGNN モデルは**心因性運動障害 (Psychogenic Movement Disorders)** に
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ガランタミンOD錠12mg「DSEP」、ガランタミンOD錠12mg「JG」、ガランタミンOD錠12mg「YD」、ガランタミンOD錠12mg「アメル」、ガランタミンOD錠12mg「サワイ」、ガランタミンOD錠12mg「トーワ」、ガランタミンOD錠12mg「ニプロ」、ガランタミンOD錠12mg「日医工」、ガランタミンOD錠4mg「DSEP」、ガランタミンOD錠4mg「JG」、ガランタミンOD錠4mg「YD」、ガランタミンOD錠4mg「アメル」、ガランタミンOD錠4mg「サワイ」、ガランタミンOD錠4mg「トーワ」、ガランタミンOD錠4mg「ニプロ」、ガランタミンOD錠4mg「日医工」、ガランタミンOD錠8mg「DSEP」、ガランタミンOD錠8mg「JG」、ガランタミンOD錠8mg「YD」、ガランタミンOD錠8mg「アメル」、ガランタミンOD錠8mg「サワイ」、ガランタミンOD錠8mg「トーワ」、ガランタミンOD錠8mg「ニプロ」、ガランタミンOD錠8mg「日医工」、ガランタミン臭化水素酸塩12mg口腔内崩壊錠、ガランタミン臭化水素酸塩8mg口腔内崩壊錠、レミニールOD錠12mg、レミニールOD錠12mg(選)、レミニールOD錠4mg、レミニールOD錠4mg(選)、レミニールOD錠8mg、レミニールOD錠8mg(選)、レミニール内用液4mg/mL 0.4%、レミニール錠12mg、レミニール錠4mg、レミニール錠8mg
+<!-- brand-names:end -->
 

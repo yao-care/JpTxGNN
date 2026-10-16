@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 200
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Meloxicam：予測新適応症は肢中間部異形成症 Hunter-Thompson 型 (acromesomelic dysplasia…（エビデンスレベル L5）。既存適応症：関節リウマチ（鎮痛薬、抗炎症薬、シクロオキシゲナーゼ2阻害薬）"
 monitor_inn: "Meloxicam"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "spondyloarthropathy, susceptibility to", "rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "WHIM syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
+last_modified_at: 2026-10-17
+description: "Meloxicam：予測新適応症は肢中間部異形成症 Hunter-Thompson 型 (acromesomelic dysplasia…（エビデンスレベル L5）。既存適応症：関節リウマチ（鎮痛薬、抗炎症薬、シクロオキシゲナーゼ2阻害薬）"
 ---
 
 # Meloxicam
@@ -118,4 +118,12 @@ TxGNN モデルは**肢中間部異形成症 Hunter-Thompson 型 (acromesomelic 
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+メロキシカム、モービック、メロキシカム10mg錠、メロキシカム5mg錠、メロキシカム錠10mg「NPI」、メロキシカム錠10mg「NP」、メロキシカム錠10mg「クニヒロ」、メロキシカム錠10mg「ケミファ」、メロキシカム錠10mg「サワイ」、メロキシカム錠10mg「タカタ」、メロキシカム錠10mg「トーワ」、メロキシカム錠10mg「日医工」、メロキシカム錠5mg「NPI」、メロキシカム錠5mg「NP」、メロキシカム錠5mg「クニヒロ」、メロキシカム錠5mg「ケミファ」、メロキシカム錠5mg「サワイ」、メロキシカム錠5mg「タカタ」、メロキシカム錠5mg「トーワ」、メロキシカム錠5mg「日医工」、モービック錠10mg、モービック錠10mg(選)、モービック錠5mg、モービック錠5mg(選)
+<!-- brand-names:end -->
 

@@ -5,10 +5,10 @@ parent: 高エビデンスレベル
 nav_order: 291
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Sunitinib：予測新適応症は脂肪肉腫 (Liposarcoma)（エビデンスレベル L2）。既存適応症：抗悪性腫瘍薬、血管新生阻害薬、受容体型チロシンキナーゼ阻害薬"
 monitor_inn: "Sunitinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "unclassified renal cell carcinoma", "renal cell carcinoma associated with neuroblastoma", "dermatofibrosarcoma protuberans", "childhood kidney cell carcinoma", "angiolipoma", "renal carcinoma", "heart fibrosarcoma"]
+last_modified_at: 2026-10-17
+description: "Sunitinib：予測新適応症は脂肪肉腫 (Liposarcoma)（エビデンスレベル L2）。既存適応症：抗悪性腫瘍薬、血管新生阻害薬、受容体型チロシンキナーゼ阻害薬"
 ---
 
 # Sunitinib
@@ -122,4 +122,12 @@ TxGNN モデルは**脂肪肉腫 (Liposarcoma)** に有効である可能性を�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+スニチニブカプセル12 5mg、スニチニブ錠12 5mg、スニチニブ錠12.5mg「NK」、スーテントカプセル12.5mg
+<!-- brand-names:end -->
 

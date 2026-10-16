@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 128
 evidence_level: L3
 indication_count: 3
-last_modified_at: 2026-10-15
-description: "Famotidine：予測新適応症は十二指腸胃逆流 (duodenogastric reflux)（エビデンスレベル L3）。既存適応症：胃潰瘍、十二指腸潰瘍、吻合部潰瘍、逆流性食道炎、Zollinger-Ellison 症候群（消化性潰瘍薬、H2 受容体拮抗薬）"
 monitor_inn: "Famotidine"
 predicted_indications: ["duodenogastric reflux", "duodenal obstruction", "active peptic ulcer disease"]
+last_modified_at: 2026-10-17
+description: "Famotidine：予測新適応症は十二指腸胃逆流 (duodenogastric reflux)（エビデンスレベル L3）。既存適応症：胃潰瘍、十二指腸潰瘍、吻合部潰瘍、逆流性食道炎、Zollinger-Ellison 症候群（消化性潰瘍薬、H2 受容体拮抗薬）"
 ---
 
 # Famotidine
@@ -110,4 +110,12 @@ TxGNN モデルは**十二指腸胃逆流 (duodenogastric reflux)** に有効で
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ガスター、ファモチジン、ガスターD錠10mg、ガスターD錠10mg(選)、ガスターD錠20mg、ガスターD錠20mg(選)、ガスター散10%、ガスター散10%(選)、ガスター散2%、ガスター散2%(選)、ガスター注射液10mg 1mL、ガスター注射液10mg 1mL(選)、ガスター注射液20mg 2mL、ガスター注射液20mg 2mL(選)、ガスター錠10mg、ガスター錠10mg(選)、ガスター錠20mg、ガスター錠20mg(選)、ファモチジン10%散、ファモチジン10mg10mL注射液、ファモチジン10mg10ml、ファモチジン10mg口腔内崩壊錠、ファモチジン10mg錠、ファモチジン2%散、ファモチジン20mg、ファモチジン20mg20mL注射液、ファモチジン20mg20ml、ファモチジン20mg2mL注射液、ファモチジン20mg2ml、ファモチジン20mg口腔内崩壊錠、ファモチジン20mg注射用、ファモチジン20mg錠、ファモチジンD錠10mg「EMEC」、ファモチジンD錠10mg「サワイ」、ファモチジンD錠20mg「EMEC」、ファモチジンD錠20mg「サワイ」、ファモチジンOD錠10mg「JG」、ファモチジンOD錠10mg「Me」、ファモチジンOD錠10mg「TBP」、ファモチジンOD錠10mg「YD」
+<!-- brand-names:end -->
 

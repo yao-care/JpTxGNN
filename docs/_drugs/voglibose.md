@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 339
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Voglibose：予測新適応症は頭皮の単純性乏毛症 (hypotrichosis simplex of the scalp)（スコア第1位）。エビデンスのある代表候補は1…（エビデンスレベル L5）。既存適応症：糖尿病治療薬（α-グルコシダーゼ阻害薬）、2型糖尿病"
 monitor_inn: "Voglibose"
 predicted_indications: ["hypotrichosis simplex of the scalp", "type 1 diabetes mellitus", "congenital hypotrichosis milia", "autoimmune oophoritis", "diffuse alopecia areata", "IDDM 1", "Wolman disease with hypolipoproteinemia and acanthocytosis", "familial apolipoprotein C-II deficiency", "cholesteryl ester storage disease", "opsismodysplasia"]
+last_modified_at: 2026-10-17
+description: "Voglibose：予測新適応症は頭皮の単純性乏毛症 (hypotrichosis simplex of the scalp)（スコア第1位）。エビデンスのある代表候補は1…（エビデンスレベル L5）。既存適応症：糖尿病治療薬（α-グルコシダーゼ阻害薬）、2型糖尿病"
 ---
 
 # Voglibose
@@ -114,4 +114,12 @@ TxGNN モデルの予測スコア第1位は**頭皮の単純性乏毛症 (hypotr
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ベイスン、ボグリボース、ベイスンOD錠0.2 0.2mg、ベイスンOD錠0.2 0.2mg(選)、ベイスンOD錠0.3 0.3mg、ベイスン錠0.2 0.2mg、ベイスン錠0.2 0.2mg(選)、ベイスン錠0.3 0.3mg、ベイスン錠0.3 0.3mg(選)、ボグリボース0.2mg口腔内崩壊錠、ボグリボース0.2mg錠、ボグリボース0.3mg口腔内崩壊錠、ボグリボース0.3mg錠、ボグリボースODフィルム0.2「QQ」 0.2mg、ボグリボースODフィルム0.3「QQ」 0.3mg、ボグリボースOD錠0.2mg「ケミファ」、ボグリボースOD錠0.2mg「サワイ」、ボグリボースOD錠0.2mg「タカタ」、ボグリボースOD錠0.2mg「トーワ」、ボグリボースOD錠0.2mg「日医工」、ボグリボースOD錠0.2mg「杏林」、ボグリボースOD錠0.2mg「武田テバ」、ボグリボースOD錠0.3mg「ケミファ」、ボグリボースOD錠0.3mg「サワイ」、ボグリボースOD錠0.3mg「タカタ」、ボグリボースOD錠0.3mg「トーワ」、ボグリボースOD錠0.3mg「日医工」、ボグリボースOD錠0.3mg「杏林」、ボグリボースOD錠0.3mg「武田テバ」、ボグリボース錠0.2mg「NP」、ボグリボース錠0.2mg「NS」、ボグリボース錠0.2mg「TCK」、ボグリボース錠0.2mg「YD」、ボグリボース錠0.2mg「サワイ」、ボグリボース錠0.2mg「トーワ」、ボグリボース錠0.2mg「日医工」、ボグリボース錠0.2mg「杏林」、ボグリボース錠0.2mg「武田テバ」、ボグリボース錠0.3mg「NP」、ボグリボース錠0.3mg「NS」
+<!-- brand-names:end -->
 

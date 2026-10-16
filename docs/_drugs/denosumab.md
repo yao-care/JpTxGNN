@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 88
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-15
-description: "Denosumab：予測新適応症は重症非増殖性糖尿病網膜症 (Severe Nonproliferative Diabetic Retinopathy)（エビデンスレベル L5）。既存適応症：骨粗鬆症（閉経後骨粗鬆症、薬剤性骨粗鬆症）"
 monitor_inn: "Denosumab"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy"]
+last_modified_at: 2026-10-17
+description: "Denosumab：予測新適応症は重症非増殖性糖尿病網膜症 (Severe Nonproliferative Diabetic Retinopathy)（エビデンスレベル L5）。既存適応症：骨粗鬆症（閉経後骨粗鬆症、薬剤性骨粗鬆症）"
 ---
 
 # Denosumab
@@ -110,4 +110,12 @@ RANKL/RANK シグナルは、糖尿病における炎症や血管病変との関
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+プラリアHI皮下注60mgシリンジ0.5mL、プラリア皮下注60mgシリンジ 1mL
+<!-- brand-names:end -->
 

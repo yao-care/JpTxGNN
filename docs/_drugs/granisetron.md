@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 153
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Granisetron：予測新適応症は躁病性双極性感情障害 (manic bipolar affective disorder)（エビデンスレベル L5）。既存適応症：承認書のデータに記載なし"
 monitor_inn: "Granisetron"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "acute contagious conjunctivitis", "angioedema", "allergic urticaria", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania", "bronchitis", "cold urticaria", "conjunctivitis"]
+last_modified_at: 2026-10-17
+description: "Granisetron：予測新適応症は躁病性双極性感情障害 (manic bipolar affective disorder)（エビデンスレベル L5）。既存適応症：承認書のデータに記載なし"
 ---
 
 # Granisetron
@@ -102,4 +102,12 @@ QT 延長リスクに関わる薬剤（アミオダロン、アミスルプリ�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+カイトリル注1mg 1mL、カイトリル注3mg 3mL、カイトリル点滴静注バッグ3mg/100mL、カイトリル細粒0.4% 2mg、カイトリル錠1mg、カイトリル錠2mg、グラニセトロン内服ゼリー1mg「ケミファ」、グラニセトロン内服ゼリー2mg「ケミファ」、グラニセトロン塩酸塩1mg1mL注射液、グラニセトロン塩酸塩3mg100mLキット、グラニセトロン塩酸塩3mg3mL注射液、グラニセトロン点滴静注バッグ1mg/50mL「HK」、グラニセトロン点滴静注バッグ1mg/50mL「NIG」、グラニセトロン点滴静注バッグ1mg「KCC」 50mL、グラニセトロン点滴静注バッグ3mg/100mL「HK」、グラニセトロン点滴静注バッグ3mg/100mL「NIG」、グラニセトロン点滴静注バッグ3mg/100mL「タカタ」、グラニセトロン点滴静注バッグ3mg/50mL「HK」、グラニセトロン点滴静注バッグ3mg/50mL「NIG」、グラニセトロン点滴静注バッグ3mg/50mL「タカタ」、グラニセトロン点滴静注液3mgバッグ「アイロム」 100mL、グラニセトロン点滴静注液3mgバッグ「明治」 100mL、グラニセトロン静注液1mg「F」 1mL、グラニセトロン静注液1mg「アイロム」 1mL、グラニセトロン静注液1mg「サワイ」 1mL、グラニセトロン静注液1mg「トーワ」 1mL、グラニセトロン静注液1mg「明治」 1mL、グラニセトロン静注液1mgシリンジ「サワイ」 1mL、グラニセトロン静注液3mg「F」 3mL、グラニセトロン静注液3mg「アイロム」 3mL、グラニセトロン静注液3mg「サワイ」 3mL、グラニセトロン静注液3mg「トーワ」 3mL、グラニセトロン静注液3mg「明治」 3mL、グラニセトロン静注液3mgシリンジ「サワイ」 3mL
+<!-- brand-names:end -->
 

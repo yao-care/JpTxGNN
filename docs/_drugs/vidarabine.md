@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 335
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-15
-description: "Vidarabine：予測新適応症は光線性口唇炎 (Actinic Cheilitis)（エビデンスレベル L5）。既存適応症：帯状疱疹、単純疱疹、単純ヘルペス脳炎（抗ウイルス薬、DNA ポリメラーゼ阻害薬）"
 monitor_inn: "vidarabine"
 predicted_indications: ["actinic cheilitis", "angular cheilitis", "drug-induced osteoporosis"]
+last_modified_at: 2026-10-17
+description: "Vidarabine：予測新適応症は光線性口唇炎 (Actinic Cheilitis)（エビデンスレベル L5）。既存適応症：帯状疱疹、単純疱疹、単純ヘルペス脳炎（抗ウイルス薬、DNA ポリメラーゼ阻害薬）"
 ---
 
 # Vidarabine
@@ -113,4 +113,12 @@ TxGNN モデルは**光線性口唇炎 (Actinic Cheilitis)** に有効である�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+アラセナ、ビダラビン、アラセナ−Aクリーム3%、アラセナ−Aクリーム3%(選)、アラセナ−A軟膏3%、アラセナ−A軟膏3%(選)、ビダラビン3%クリーム、ビダラビン3%軟膏、ビダラビンクリーム3%「マルホ」、ビダラビン軟膏3%「F」、ビダラビン軟膏3%「JG」、ビダラビン軟膏3%「SW」、ビダラビン軟膏3%「イワキ」、ビダラビン軟膏3%「トーワ」
+<!-- brand-names:end -->
 

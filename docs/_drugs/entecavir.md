@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 111
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Entecavir：予測新適応症は慢性C型肝炎ウイルス感染 (chronic hepatitis C virus infection)（エビデンスレベル L4）。既存適応症：B型肝炎（抗ウイルス薬、逆転写酵素阻害薬）"
 monitor_inn: "entecavir"
 predicted_indications: ["chronic hepatitis C virus infection", "hepatitis B virus infection", "HIV infectious disease", "hepatitis C virus infection", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "hepatitis, viral, animal", "hepatitis E virus infection", "hepatitis A virus infection"]
+last_modified_at: 2026-10-17
+description: "Entecavir：予測新適応症は慢性C型肝炎ウイルス感染 (chronic hepatitis C virus infection)（エビデンスレベル L4）。既存適応症：B型肝炎（抗ウイルス薬、逆転写酵素阻害薬）"
 ---
 
 # Entecavir
@@ -121,4 +121,12 @@ HCV は NS5B RNA 依存性 RNA ポリメラーゼで複製する RNA ウイル�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+エンテカビル、バラクルード、エンテカビル0.5mg口腔内崩壊錠、エンテカビル0.5mg錠、エンテカビルOD錠0.5mg「サワイ」、エンテカビル錠0.5mg「CMX」、エンテカビル錠0.5mg「EE」、エンテカビル錠0.5mg「JG」、エンテカビル錠0.5mg「NIG」、エンテカビル錠0.5mg「VTRS」、エンテカビル錠0.5mg「YD」、エンテカビル錠0.5mg「サンド」、エンテカビル錠0.5mg「タカタ」、エンテカビル錠0.5mg「トーワ」、バラクルード錠0.5mg、バラクルード錠0.5mg(選)
+<!-- brand-names:end -->
 

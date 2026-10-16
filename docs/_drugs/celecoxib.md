@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 65
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Celecoxib：予測新適応症は先端中間肢異形成症 Hunter-Thompson 型 (acromesomelic dysplasia…（エビデンスレベル L5）。既存適応症：関節リウマチ（鎮痛薬・抗炎症薬・シクロオキシゲナーゼ2阻害薬）"
 monitor_inn: "Celecoxib"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "rheumatoid vasculitis", "myosclerosis", "hypermobility of coccyx", "brachyolmia", "rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "inflammatory spondylopathy", "WHIM syndrome"]
+last_modified_at: 2026-10-17
+description: "Celecoxib：予測新適応症は先端中間肢異形成症 Hunter-Thompson 型 (acromesomelic dysplasia…（エビデンスレベル L5）。既存適応症：関節リウマチ（鎮痛薬・抗炎症薬・シクロオキシゲナーゼ2阻害薬）"
 ---
 
 # Celecoxib
@@ -124,4 +124,12 @@ TxGNN モデルは**先端中間肢異形成症 Hunter-Thompson 型 (acromesomel
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+セレコキシブ、セレコックス、セレコキシブ100mg錠、セレコキシブ200mg錠、セレコキシブ錠100mg「DSEP」、セレコキシブ錠100mg「JG」、セレコキシブ錠100mg「VTRS」、セレコキシブ錠100mg「YD」、セレコキシブ錠100mg「アメル」、セレコキシブ錠100mg「オーハラ」、セレコキシブ錠100mg「ケミファ」、セレコキシブ錠100mg「サワイ」、セレコキシブ錠100mg「サンド」、セレコキシブ錠100mg「ダイト」、セレコキシブ錠100mg「トーワ」、セレコキシブ錠100mg「ニプロ」、セレコキシブ錠100mg「フェルゼン」、セレコキシブ錠100mg「三笠」、セレコキシブ錠100mg「日医工」、セレコキシブ錠100mg「日新」、セレコキシブ錠100mg「明治」、セレコキシブ錠100mg「杏林」、セレコキシブ錠100mg「武田テバ」、セレコキシブ錠200mg「DSEP」、セレコキシブ錠200mg「JG」、セレコキシブ錠200mg「VTRS」、セレコキシブ錠200mg「YD」、セレコキシブ錠200mg「アメル」、セレコキシブ錠200mg「オーハラ」、セレコキシブ錠200mg「ケミファ」、セレコキシブ錠200mg「サワイ」、セレコキシブ錠200mg「サンド」、セレコキシブ錠200mg「ダイト」、セレコキシブ錠200mg「トーワ」、セレコキシブ錠200mg「ニプロ」、セレコキシブ錠200mg「フェルゼン」、セレコキシブ錠200mg「三笠」、セレコキシブ錠200mg「日医工」、セレコキシブ錠200mg「日新」、セレコキシブ錠200mg「明治」
+<!-- brand-names:end -->
 

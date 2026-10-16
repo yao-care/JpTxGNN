@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 222
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-15
-description: "Nilotinib：予測新適応症は隆起性皮膚線維肉腫 (Dermatofibrosarcoma protuberans)（エビデンスレベル L4）。既存適応症：慢性骨髄性白血病（BCR-ABL1 陽性）"
 monitor_inn: "Nilotinib"
 predicted_indications: ["dermatofibrosarcoma protuberans"]
+last_modified_at: 2026-10-17
+description: "Nilotinib：予測新適応症は隆起性皮膚線維肉腫 (Dermatofibrosarcoma protuberans)（エビデンスレベル L4）。既存適応症：慢性骨髄性白血病（BCR-ABL1 陽性）"
 ---
 
 # Nilotinib
@@ -116,4 +116,12 @@ TxGNN の予測スコアは高いものの、裏付けは PDGFR 阻害薬に関�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+タシグナカプセル50mg
+<!-- brand-names:end -->
 

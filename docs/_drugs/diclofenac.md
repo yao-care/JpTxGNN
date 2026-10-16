@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 93
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Diclofenac：予測新適応症は頭皮の単純性乏毛症 (hypotrichosis simplex of the scalp)（エビデンスレベル L5）。既存適応症：鎮痛薬、抗炎症薬、解熱薬、シクロオキシゲナーゼ阻害薬"
 monitor_inn: "Diclofenac"
 predicted_indications: ["hypotrichosis simplex of the scalp", "acromesomelic dysplasia, Hunter-Thompson type", "pseudoachondroplasia", "brachyolmia", "brachyolmia-amelogenesis imperfecta syndrome", "congenital hypotrichosis milia", "myosclerosis", "diffuse alopecia areata", "juvenile idiopathic arthritis", "WHIM syndrome"]
+last_modified_at: 2026-10-17
+description: "Diclofenac：予測新適応症は頭皮の単純性乏毛症 (hypotrichosis simplex of the scalp)（エビデンスレベル L5）。既存適応症：鎮痛薬、抗炎症薬、解熱薬、シクロオキシゲナーゼ阻害薬"
 ---
 
 # Diclofenac
@@ -121,4 +121,12 @@ TxGNN モデルは**頭皮の単純性乏毛症 (hypotrichosis simplex of the sc
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ジクトル、ジクロフェナクNa、ジクロフェナクナトリウム、ジクロード、ナボール、ボルタレン、ジクロフェナクNaクリーム1%「日本臓器」、ジクロフェナクNaゲル1%「ラクール」、ジクロフェナクNaゲル1%「日本臓器」、ジクロフェナクNaテープ15mg「トーワ」 7cm×10cm、ジクロフェナクNaテープ15mg「ラクール」 7cm×10cm、ジクロフェナクNaテープ15mg「日本臓器」 7cm×10cm、ジクロフェナクNaテープ30mg「トーワ」 10cm×14cm、ジクロフェナクNaテープ30mg「ラクール」 10cm×14cm、ジクロフェナクNaテープ30mg「日本臓器」 10cm×14cm、ジクロフェナクNaパップ140mg「ラクール」 10×14cm、ジクロフェナクNaパップ140mg「日本臓器」 10×14cm、ジクロフェナクNaパップ70mg「ラクール」 7cm×10cm、ジクロフェナクNaパップ70mg「日本臓器」 7cm×10cm、ジクロフェナクNaローション1%「ラクール」、ジクロフェナクNaローション1%「日本臓器」、ジクロフェナクNa・PF点眼液0.1%「日点」、ジクロフェナクNa坐剤12.5mg「NIG」、ジクロフェナクNa坐剤12.5mg「日新」、ジクロフェナクNa坐剤25mg「NIG」、ジクロフェナクNa坐剤25mg「日新」、ジクロフェナクNa坐剤50mg「NIG」、ジクロフェナクNa坐剤50mg「日新」、ジクロフェナクNa点眼液0.1%「ニッテン」、ジクロフェナクNa点眼液0.1%「ニットー」、ジクロフェナクNa点眼液0.1%「日新」、ジクロフェナクNa錠25mg「NIG」、ジクロフェナクNa錠25mg「TCK」、ジクロフェナクNa錠25mg「YD」、ジクロフェナクNa錠25mg「サワイ」、ジクロフェナクNa錠25mg「ツルハラ」、ジクロフェナクNa錠25mg「トーワ」、ジクロフェナクnaクリーム1、ジクロフェナクnaゲル1、ジクロフェナクnaテープ15mg
+<!-- brand-names:end -->
 

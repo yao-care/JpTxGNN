@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 168
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-15
-description: "Itopride：予測新適応症は小腸クローン病 (small bowel Crohn disease)（エビデンスレベル L5）。既存適応症：消化管運動改善薬、ドパミン受容体拮抗薬"
 monitor_inn: "Itopride"
 predicted_indications: ["small bowel Crohn disease", "venous insufficiency (disease)", "achlorhydria", "hiatus hernia (disease)"]
+last_modified_at: 2026-10-17
+description: "Itopride：予測新適応症は小腸クローン病 (small bowel Crohn disease)（エビデンスレベル L5）。既存適応症：消化管運動改善薬、ドパミン受容体拮抗薬"
 ---
 
 # Itopride
@@ -112,4 +112,12 @@ TxGNN モデルは**小腸クローン病 (small bowel Crohn disease)** に有�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+イトプリド塩酸塩、ガナトン、イトプリド塩酸塩50mg錠、イトプリド塩酸塩錠50mg「サワイ」、ガナトン錠50mg、ガナトン錠50mg(選)
+<!-- brand-names:end -->
 

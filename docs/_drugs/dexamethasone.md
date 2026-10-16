@@ -5,10 +5,10 @@ parent: 高エビデンスレベル
 nav_order: 90
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Dexamethasone：予測新適応症は円形脱毛症 (alopecia areata)（エビデンスレベル L2）。既存適応症：乾癬、掌蹠膿疱症、慢性円板状エリテマトーデス、関節リウマチ、全身性エリテマトーデス、気管支喘息など（炎症・自己免疫疾患全般）"
 monitor_inn: "Dexamethasone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo", "prolapse of lacrimal gland"]
+last_modified_at: 2026-10-17
+description: "Dexamethasone：予測新適応症は円形脱毛症 (alopecia areata)（エビデンスレベル L2）。既存適応症：乾癬、掌蹠膿疱症、慢性円板状エリテマトーデス、関節リウマチ、全身性エリテマトーデス、気管支喘息など（炎症・自己免疫疾患全般）"
 ---
 
 # Dexamethasone
@@ -120,4 +120,12 @@ TxGNN モデルは**円形脱毛症 (alopecia areata)** に有効である可能
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+アフタゾロン、オイラゾン、サンテゾーン、デカドロン、デキサメサゾン、デキサメタゾン、デキサメタゾンプロピオン酸エステル、メサデルム、レナデックス、D・E・X点眼液0.02%「ニットー」、D・E・X点眼液0.05%「ニットー」、D・E・X点眼液0.1%「ニットー」、アフタゾロン口腔用軟膏0.1%、アフタゾロン口腔用軟膏0.1%(選)、オイラゾンクリーム0.05%、オイラゾンクリーム0.1%、サンテゾーン0.05%眼軟膏、サンテゾーン点眼液(0.02%)、サンテゾーン点眼液(0.02%)(選)、サンテゾーン点眼液(0.1%)、サンテゾーン点眼液(0.1%)(選)、デカドロン注射液1.65mg 0.5mL、デカドロン注射液3.3mg 1mL、デカドロン注射液6.6mg 2mL、デカドロン錠0.5mg、デカドロン錠4mg、デキサメタゾン0.1%クリーム、デキサメタゾン0.1%ローション、デキサメタゾン0.1%軟膏、デキサメタゾンエリキシル0.01%「日新」、デキサメタゾンクリーム0.1%「イワキ」、デキサメタゾンプロピオン酸エステル0.1%クリーム、デキサメタゾンプロピオン酸エステル0.1%ローション、デキサメタゾンプロピオン酸エステル0.1%軟膏、デキサメタゾンプロピオン酸エステルクリーム0.1%「MYK」、デキサメタゾンプロピオン酸エステルクリーム0.1%「ラクール」、デキサメタゾンプロピオン酸エステルローション0.1%「MYK」、デキサメタゾンプロピオン酸エステル軟膏0.1%「MYK」、デキサメタゾンプロピオン酸エステル軟膏0.1%「ラクール」、デキサメタゾンメタスルホ安息香酸エステルNa0.02%1点眼液
+<!-- brand-names:end -->
 

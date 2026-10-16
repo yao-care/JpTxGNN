@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 107
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-15
-description: "Ebastine：予測新適応症は冠動脈疾患 (Coronary Artery Disease)（エビデンスレベル L5）。既存適応症：アレルギー性鼻炎（抗アレルギー薬・鎮痒薬・H1受容体拮抗薬）"
 monitor_inn: "Ebastine"
 predicted_indications: ["coronary artery disease", "myocardial ischemia"]
+last_modified_at: 2026-10-17
+description: "Ebastine：予測新適応症は冠動脈疾患 (Coronary Artery Disease)（エビデンスレベル L5）。既存適応症：アレルギー性鼻炎（抗アレルギー薬・鎮痒薬・H1受容体拮抗薬）"
 ---
 
 # Ebastine
@@ -103,4 +103,12 @@ TxGNN モデルは**冠動脈疾患 (Coronary Artery Disease)** に有効であ�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+エバスチン、エバステル、エバスチン10mg口腔内崩壊錠、エバスチン10mg錠、エバスチン5mg口腔内崩壊錠、エバスチン5mg錠、エバスチンOD錠10mg「NP」、エバスチンOD錠10mg「NS」、エバスチンOD錠10mg「VTRS」、エバスチンOD錠10mg「YD」、エバスチンOD錠10mg「ZE」、エバスチンOD錠10mg「ケミファ」、エバスチンOD錠10mg「サワイ」、エバスチンOD錠10mg「タカタ」、エバスチンOD錠10mg「杏林」、エバスチンOD錠10mg「科研」、エバスチンOD錠5mg「NP」、エバスチンOD錠5mg「NS」、エバスチンOD錠5mg「VTRS」、エバスチンOD錠5mg「YD」、エバスチンOD錠5mg「ZE」、エバスチンOD錠5mg「ケミファ」、エバスチンOD錠5mg「サワイ」、エバスチンOD錠5mg「タカタ」、エバスチンOD錠5mg「杏林」、エバスチンOD錠5mg「科研」、エバスチン錠10mg「CH」、エバスチン錠10mg「NS」、エバスチン錠10mg「VTRS」、エバスチン錠10mg「YD」、エバスチン錠10mg「ケミファ」、エバスチン錠10mg「サワイ」、エバスチン錠10mg「タカタ」、エバスチン錠10mg「トーワ」、エバスチン錠10mg「杏林」、エバスチン錠10mg「科研」、エバスチン錠5mg「CH」、エバスチン錠5mg「NS」、エバスチン錠5mg「VTRS」、エバスチン錠5mg「YD」
+<!-- brand-names:end -->
 

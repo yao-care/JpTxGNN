@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 39
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Beclomethasone Dipropionate：予測新適応症はアトピー性湿疹 (Atopic Eczema)（エビデンスレベル L3）。既存適応症：喘息、アレルギー性鼻炎、血管運動性鼻炎、鼻茸"
 monitor_inn: "Beclomethasone dipropionate"
 predicted_indications: ["atopic eczema", "bronchitis", "2-hydroxyethyl methacrylate sensitization", "polyp of vocal cord", "polyp of middle ear", "fibroepithelial polyp", "uterine polyp", "polyp of frontal sinus", "seborrheic dermatitis", "polyp of ureter"]
+last_modified_at: 2026-10-17
+description: "Beclomethasone Dipropionate：予測新適応症はアトピー性湿疹 (Atopic Eczema)（エビデンスレベル L3）。既存適応症：喘息、アレルギー性鼻炎、血管運動性鼻炎、鼻茸"
 ---
 
 # Beclomethasone Dipropionate
@@ -120,4 +120,12 @@ TxGNN モデルは**アトピー性湿疹 (Atopic Eczema)** に有効である�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ベクロメタゾンパウダー25μgトーワ 1.50mg0.9087g、ベクロメタゾン点鼻液50μg「CEO」 8.5mg8.5g、ベクロメタゾン点鼻液50μg「DSP」 8.5mg8.5g、ベクロメタゾン点鼻液50μg「サワイ」 8.5mg8.5g
+<!-- brand-names:end -->
 

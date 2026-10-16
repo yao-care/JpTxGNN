@@ -5,10 +5,10 @@ parent: 高エビデンスレベル
 nav_order: 308
 evidence_level: L1
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Tiotropium：予測新適応症は閉塞性肺疾患 (Obstructive Lung Disease)（エビデンスレベル L1）。既存適応症：気管支炎、喘息、内因性喘息、アレルギー性喘息、肺気腫"
 monitor_inn: "Tiotropium"
 predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome", "COPD, severe early onset", "chronic obstructive pulmonary disease", "compensatory emphysema", "interstitial emphysema", "hyperlucent lung", "tracheal stenosis", "susceptibility to respiratory infections associated with CD8alpha chain mutation"]
+last_modified_at: 2026-10-17
+description: "Tiotropium：予測新適応症は閉塞性肺疾患 (Obstructive Lung Disease)（エビデンスレベル L1）。既存適応症：気管支炎、喘息、内因性喘息、アレルギー性喘息、肺気腫"
 ---
 
 # Tiotropium
@@ -143,4 +143,12 @@ TxGNN のスコアはいずれも 99.8% 以上ですが、以下は実質的な�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+スピリーバ1.25μgレスピマット60吸入 75μg、スピリーバ2.5μgレスピマット60吸入 150μg、スピリーバ吸入用カプセル18μg
+<!-- brand-names:end -->
 

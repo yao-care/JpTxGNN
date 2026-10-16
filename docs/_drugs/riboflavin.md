@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 266
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Riboflavin：予測新適応症はビオチン代謝疾患 (biotin metabolic disease)（エビデンスレベル L4）。既存適応症：ビタミンB2補充薬（高コレステロール血症）"
 monitor_inn: "Riboflavin"
 predicted_indications: ["biotin metabolic disease", "congenital prothrombin deficiency", "corneal pigmentation", "type II mixed cryoglobulinemia", "ocular tuberculosis", "guttate psoriasis", "obsolete left bundle branch block", "obsolete superimposed infection", "valvar pulmonary stenosis", "sunburn"]
+last_modified_at: 2026-10-17
+description: "Riboflavin：予測新適応症はビオチン代謝疾患 (biotin metabolic disease)（エビデンスレベル L4）。既存適応症：ビタミンB2補充薬（高コレステロール血症）"
 ---
 
 # Riboflavin
@@ -125,4 +125,12 @@ TxGNN モデルは **ビオチン代謝疾患 (biotin metabolic disease)** に�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+ハイボン、ビスラーゼ、ビタミンB2、ホスフラン、リボフラビン酪酸エステル、ハイボン錠20mg、ハイボン錠20mg(選)、リボフラビンリン酸エステルナトリウム注射液 10mg、リボフラビンリン酸エステルナトリウム注射液 1mg、リボフラビンリン酸エステルナトリウム注射液 20mg、リボフラビンリン酸エステルナトリウム注射液 5mg、リボフラビン酪酸エステル20mg錠、リボフラビン酪酸エステル細粒10%「ツルハラ」、リボフラビン酪酸エステル錠20mg「イセイ」、リボフラビン酪酸エステル錠20mg「ツルハラ」、リボフラビン酪酸エステル錠20mg「杏林」
+<!-- brand-names:end -->
 

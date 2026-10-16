@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 115
 evidence_level: L3
 indication_count: 7
-last_modified_at: 2026-10-15
-description: "Epirubicin：予測新適応症は原発性肺リンパ腫 (Primary Pulmonary Lymphoma)（エビデンスレベル L3）。既存適応症：急性白血病、悪性リンパ腫、乳癌、卵巣癌、胃癌、肝癌、膀胱癌"
 monitor_inn: "Epirubicin"
 predicted_indications: ["primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "small cell lung carcinoma", "pulmonary blastoma", "lung mixed small cell and squamous cell carcinoma", "myeloid leukemia", "upper aerodigestive tract neoplasm"]
+last_modified_at: 2026-10-17
+description: "Epirubicin：予測新適応症は原発性肺リンパ腫 (Primary Pulmonary Lymphoma)（エビデンスレベル L3）。既存適応症：急性白血病、悪性リンパ腫、乳癌、卵巣癌、胃癌、肝癌、膀胱癌"
 ---
 
 # Epirubicin
@@ -135,4 +135,12 @@ RCT は含まれていません。多くはリンパ腫全般に関する間接�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+エピルビシン塩酸塩、エピルビシン塩酸塩注射液10mg/5mL「NK」、エピルビシン塩酸塩注射液10mg/5mL「サワイ」、エピルビシン塩酸塩注射液50mg/25mL「NK」、エピルビシン塩酸塩注射液50mg/25mL「サワイ」、エピルビシン塩酸塩注射用10mg「NK」、エピルビシン塩酸塩注射用10mg「サワイ」、エピルビシン塩酸塩注射用50mg「NK」、エピルビシン塩酸塩注射用50mg「サワイ」
+<!-- brand-names:end -->
 

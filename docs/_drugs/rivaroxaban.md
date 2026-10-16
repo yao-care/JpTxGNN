@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 268
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Rivaroxaban：予測新適応症は関節リウマチ (Rheumatoid Arthritis)（エビデンスレベル L5）。既存適応症：抗血栓薬、第Xa因子阻害薬"
 monitor_inn: "Rivaroxaban"
 predicted_indications: ["rheumatoid arthritis", "gout", "HIV infectious disease", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "sclerosing cholangitis", "systemic mastocytosis", "Smouldering systemic mastocytosis", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection"]
+last_modified_at: 2026-10-17
+description: "Rivaroxaban：予測新適応症は関節リウマチ (Rheumatoid Arthritis)（エビデンスレベル L5）。既存適応症：抗血栓薬、第Xa因子阻害薬"
 ---
 
 # Rivaroxaban
@@ -116,4 +116,12 @@ TxGNN モデルは**関節リウマチ (Rheumatoid Arthritis)** に有効であ�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+イグザレルト、リバーロキサバン、イグザレルトOD錠10mg、イグザレルトOD錠15mg、イグザレルト錠10mg、イグザレルト錠15mg、リバーロキサバンOD錠10mg「JG」、リバーロキサバンOD錠10mg「TCK」、リバーロキサバンOD錠10mg「サワイ」、リバーロキサバンOD錠10mg「トーワ」、リバーロキサバンOD錠10mg「ニプロ」、リバーロキサバンOD錠10mg「バイエル」、リバーロキサバンOD錠10mg「日医工」、リバーロキサバンOD錠15mg「JG」、リバーロキサバンOD錠15mg「TCK」、リバーロキサバンOD錠15mg「サワイ」、リバーロキサバンOD錠15mg「トーワ」、リバーロキサバンOD錠15mg「ニプロ」、リバーロキサバンOD錠15mg「バイエル」、リバーロキサバンOD錠15mg「日医工」、リバーロキサバン錠10mg「サワイ」、リバーロキサバン錠10mg「バイエル」、リバーロキサバン錠15mg「サワイ」、リバーロキサバン錠15mg「バイエル」
+<!-- brand-names:end -->
 

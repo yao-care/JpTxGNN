@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 83
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-15
-description: "Cyclosporine：予測新適応症は常染色体劣性慢性肉芽腫症 (granulomatous disease, chronic, autosomal recessive)（エビデンスレベル L4）。既存適応症：関節リウマチ、ドライアイ、角結膜乾燥症、シェーグレン症候群"
 monitor_inn: "Cyclosporine"
 predicted_indications: ["granulomatous disease, chronic, autosomal recessive", "brain aneurysm", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congenital ichthyosiform erythroderma", "fetal erythroblastosis", "brachydactyly-syndactyly syndrome", "prolapse of lacrimal gland", "excretory apparatus of the lacrimal system anomaly", "bronchitis", "nasolacrimal duct disease"]
+last_modified_at: 2026-10-17
+description: "Cyclosporine：予測新適応症は常染色体劣性慢性肉芽腫症 (granulomatous disease, chronic, autosomal recessive)（エビデンスレベル L4）。既存適応症：関節リウマチ、ドライアイ、角結膜乾燥症、シェーグレン症候群"
 ---
 
 # Cyclosporine
@@ -121,4 +121,12 @@ TxGNN モデルは**常染色体劣性慢性肉芽腫症 (Chronic Granulomatous 
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
+<!-- brand-names:start -->
+## 日本の主な販売名
+
+以下の販売名・製品名でも検索できます（成分は同じです）。
+
+シクロスポリン10mgカプセル、シクロスポリン25mgカプセル、シクロスポリン50mgカプセル、シクロスポリンカプセル10mg ne、シクロスポリンカプセル10mg「BMD」、シクロスポリンカプセル10mg「TC」、シクロスポリンカプセル10mg「VTRS」、シクロスポリンカプセル10mg「サンド」、シクロスポリンカプセル10mg「トーワ」、シクロスポリンカプセル10mg「日医工」、シクロスポリンカプセル25mg ne、シクロスポリンカプセル25mg「BMD」、シクロスポリンカプセル25mg「TC」、シクロスポリンカプセル25mg「VTRS」、シクロスポリンカプセル25mg「サンド」、シクロスポリンカプセル25mg「トーワ」、シクロスポリンカプセル25mg「日医工」、シクロスポリンカプセル50mg ne、シクロスポリンカプセル50mg「BMD」、シクロスポリンカプセル50mg「TC」、シクロスポリンカプセル50mg「VTRS」、シクロスポリンカプセル50mg「サンド」、シクロスポリンカプセル50mg「トーワ」、シクロスポリンカプセル50mg「日医工」、シクロスポリン細粒17、シクロスポリン細粒17%「VTRS」、ネオーラル10mgカプセル、ネオーラル10mgカプセル(選)、ネオーラル25mgカプセル、ネオーラル25mgカプセル(選)、ネオーラル50mgカプセル、ネオーラル50mgカプセル(選)、ネオーラルナイヨウエキ10、ネオーラル内用液10%
+<!-- brand-names:end -->
 
