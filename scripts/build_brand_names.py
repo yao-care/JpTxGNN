@@ -5,7 +5,7 @@
   1. 販売名／原始主成分／標準化成分 NFKC 正規化後完全相同 → drugbank_id
   2. 退而取開頭的片假名成分名（例：ケトチフェン点眼液０.０５ → ケトチフェン），對到唯一 drugbank_id
 drugbank_id 再對到可收錄的成分頁（front matter 或證據包的 drugbank_id）。
-輸出 docs/_data/brand_names.json：{成分頁檔名: [販売名, …]}，成分頁「日本の主な販売名」段與 search-index 的 brands 讀它。
+輸出 docs/_data/brand_names.json：{成分頁檔名: {"trade": [商品名…], "hanbai": [販売名（規格別）…]}}，成分頁「日本の主な販売名」段與 search-index 的 brands 讀它。
 用法：uv run python scripts/build_brand_names.py
 """
 import csv, json, re, unicodedata
@@ -87,12 +87,7 @@ def main():
             nm = unicodedata.normalize("NFKC", nm)
             if nm and len(nm) <= 30:
                 trade[page].add(nm)
-    # 以產品名命名的筆記（原本生成過產品名頁）也併入
-    for d in (ROOT / "data/notes").iterdir():
-        if d.is_dir() and re.search(r"[゠-ヿ＀-￯]", d.name):
-            page = lookup(d.name)
-            if page:
-                brands[page].add(unicodedata.normalize("NFKC", d.name).replace("_", " ").strip())
+    # 2026-10-17：不再併入以產品名命名的筆記資料夾名（多為半形片假名縮寫，不是正式販売名）
     pages = set(brands) | set(trade)
     def dedupe(names):
         # 去掉廠商後綴「…」與「(選)」再去重（同一規格不同廠商只列一次）；不設上限，避免截掉規格
@@ -103,9 +98,13 @@ def main():
                 seen.add(y)
                 out_.append(y)
         return out_
-    out = {k: dedupe(sorted(trade.get(k, set())) + sorted(brands.get(k, set()) - trade.get(k, set()))) for k in sorted(pages)}
+    out = {}
+    for k in sorted(pages):
+        t = dedupe(sorted(trade.get(k, set())))
+        h = [x for x in dedupe(sorted(brands.get(k, set()))) if x not in t]
+        out[k] = {"trade": t, "hanbai": h}
     OUT.write_text(json.dumps(out, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    print(f"成分頁 {len(out)} 頁、販売名 {sum(len(v) for v in out.values())} 個 → {OUT.relative_to(ROOT)}")
+    print(f"成分頁 {len(out)} 頁、商品名 {sum(len(v['trade']) for v in out.values())} 個、販売名 {sum(len(v['hanbai']) for v in out.values())} 個 → {OUT.relative_to(ROOT)}")
 
 
 if __name__ == "__main__":
