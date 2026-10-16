@@ -2,7 +2,7 @@
 layout: default
 title: ドラッグリポジショニング検証報告
 nav_order: 1
-description: "AI を用いて日本医療用医薬品の潜在的新適応症を予測。3,824 種の医薬品に対する 155,638 件の予測候補を提供。"
+description: "AI を用いて日本医療用医薬品の潜在的新適応症を予測。417 種の医薬品に対する 2,785 件の予測候補を提供。"
 permalink: /
 image: /assets/images/og-default.png
 ---
@@ -10,7 +10,7 @@ image: /assets/images/og-default.png
 # ドラッグリポジショニング、データからエビデンスへ
 
 <p class="key-answer" data-question="JpTxGNN ドラッグリポジショニング検証報告とは？">
-<strong>JpTxGNN</strong> は、ハーバード大学 TxGNN モデルに基づくドラッグリポジショニング予測プラットフォームです。AI により <strong>155,638</strong> 件のドラッグリポジショニング候補を予測し、<strong>3,824</strong> 種の日本医療用医薬品に対して予測から検証までの完全なレポートを提供します。
+<strong>JpTxGNN</strong> は、ハーバード大学 TxGNN モデルに基づくドラッグリポジショニング予測プラットフォームです。AI により <strong>2,785</strong> 件のドラッグリポジショニング候補を予測し、<strong>417</strong> 種の日本医療用医薬品に対して予測から検証までの完全なレポートを提供します。
 </p>
 
 <div class="key-takeaway">
@@ -115,7 +115,7 @@ image: /assets/images/og-default.png
 
 <div class="stats-grid">
   <div class="stat-card">
-    <div class="stat-number">3,824</div>
+    <div class="stat-number">417</div>
     <div class="stat-label">対象医薬品</div>
   </div>
   <div class="stat-card" style="background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%);">
@@ -123,7 +123,7 @@ image: /assets/images/og-default.png
     <div class="stat-label">DrugBank マッピング</div>
   </div>
   <div class="stat-card" style="background: linear-gradient(135deg, #ee0979 0%, #ff6a00 100%);">
-    <div class="stat-number">155,638</div>
+    <div class="stat-number">2,785</div>
     <div class="stat-label">統合予測候補</div>
   </div>
   <div class="stat-card" style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);">
@@ -138,7 +138,7 @@ image: /assets/images/og-default.png
 
 | 分類 | 説明 | リンク |
 |------|------|------|
-| **医薬品検索** | 3,824 種の医薬品（検索可能） | [医薬品リスト]({{ '/drugs/' | relative_url }}) |
+| **医薬品検索** | 417 種の医薬品（検索可能） | [医薬品リスト]({{ '/drugs/' | relative_url }}) |
 | **SMART on FHIR** | EHR システム統合 | [SMART App]({{ '/smart/' | relative_url }}) |
 | **FHIR API** | プログラムによるアクセス | [API 仕様]({{ '/fhir-api/' | relative_url }}) |
 | **データダウンロード** | CSV / JSON 形式 | [ダウンロード]({{ '/downloads/' | relative_url }}) |
@@ -161,10 +161,10 @@ image: /assets/images/og-default.png
 
 | 項目 | 数量 |
 |------|------|
-| 医薬品レポート | 3,824 件 |
+| 医薬品レポート | 417 件 |
 | KG 予測候補 | 33,901 件 |
 | DL 予測候補 | 2,419,822 件 |
-| 統合予測（≥90%） | 155,638 件 |
+| 予測新適応症 | 2,785 件 |
 
 ### 予測フロー
 

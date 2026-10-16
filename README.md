@@ -344,7 +344,7 @@ TxGNNの原著論文も引用してください：
   author={Huang, Kexin and Chandak, Payal and Wang, Qianwen and Haber, Shreyas and Zitnik, Marinka},
   journal={Nature Medicine},
   year={2023},
-  doi={10.1038/s41591-023-02233-x}
+  doi={10.1038/s41591-024-03233-x}
 }
 ```
 

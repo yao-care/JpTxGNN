@@ -109,7 +109,7 @@ JpTxGNN プロジェクトで使用しているデータソース、ダウンロ
 | リソース | 説明 |
 |----------|------|
 | [TxGNN (Harvard)](https://zitniklab.hms.harvard.edu/projects/TxGNN/) | 元の TxGNN プロジェクト |
-| [TxGNN Paper](https://www.nature.com/articles/s41591-023-02233-x) | Nature Medicine 論文 |
+| [TxGNN Paper](https://www.nature.com/articles/s41591-024-03233-x) | Nature Medicine 論文 |
 | [TxGNN GitHub](https://github.com/mims-harvard/TxGNN) | ソースコード |
 
 ### 薬物データベース
