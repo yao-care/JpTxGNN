@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: ﾊﾛﾍﾟﾘﾄﾞｰﾙﾁｭｳ5Mgﾖｼﾄﾐ
 parent: モデル予測のみ

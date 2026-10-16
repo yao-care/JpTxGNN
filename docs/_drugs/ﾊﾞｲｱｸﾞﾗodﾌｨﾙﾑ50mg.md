@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: ﾊﾞｲｱｸﾞﾗOdﾌｨﾙﾑ50Mg
 parent: モデル予測のみ

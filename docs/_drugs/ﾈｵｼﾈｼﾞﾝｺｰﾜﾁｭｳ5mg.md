@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: ﾈｵｼﾈｼﾞﾝｺｰﾜﾁｭｳ5Mg
 parent: モデル予測のみ

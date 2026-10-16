@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: ﾆｭｰﾌﾟﾛﾊﾟｯﾁ9Mg
 parent: モデル予測のみ

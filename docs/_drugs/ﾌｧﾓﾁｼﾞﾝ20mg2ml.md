@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: ﾌｧﾓﾁｼﾞﾝ20Mg2Ml
 parent: モデル予測のみ

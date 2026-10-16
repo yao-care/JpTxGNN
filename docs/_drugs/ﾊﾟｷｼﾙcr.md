@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: ﾊﾟｷｼﾙCr
 parent: モデル予測のみ

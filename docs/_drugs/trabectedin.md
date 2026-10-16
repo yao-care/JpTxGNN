@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Trabectedin
 parent: モデル予測のみ (L5)

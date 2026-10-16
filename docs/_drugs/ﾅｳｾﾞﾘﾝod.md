@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: ﾅｳｾﾞﾘﾝOd
 parent: モデル予測のみ

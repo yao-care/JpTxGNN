@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: ｱｾﾄｱﾐﾉﾌｪﾝJgｹﾞﾝﾏﾂ
 parent: モデル予測のみ
