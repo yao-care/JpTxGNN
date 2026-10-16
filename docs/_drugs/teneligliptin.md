@@ -98,6 +98,7 @@ TxGNN モデルは **Opsismodysplasia（オプシスモ異形成症）** に有�
 
 ---
 
+
 <!-- brand-names:start -->
 ## 日本の主な販売名
 

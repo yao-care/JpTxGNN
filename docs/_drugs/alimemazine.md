@@ -112,6 +112,7 @@ TxGNN モデルは**アレルギー性蕁麻疹 (allergic urticaria)** に有効
 
 ---
 
+
 <!-- brand-names:start -->
 ## 日本の主な販売名
 

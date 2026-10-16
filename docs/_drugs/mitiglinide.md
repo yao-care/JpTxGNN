@@ -91,11 +91,12 @@ TxGNN モデルは**オプシスモ異形成症 (Opsismodysplasia)** に有効�
 
 ---
 
+
 <!-- brand-names:start -->
 ## 日本の主な販売名
 
 以下の販売名・製品名でも検索できます（成分は同じです）。
 
-グルファストOD錠10mg、グルファストOD錠10mg(選)、グルファストOD錠5mg、グルファストOD錠5mg(選)、グルファスト錠10mg、グルファスト錠5mg、ミチグリニドCa・OD錠10mg「JG」、ミチグリニドCa・OD錠10mg「SN」、ミチグリニドCa・OD錠10mg「TCK」、ミチグリニドCa・OD錠10mg「フソー」、ミチグリニドCa・OD錠10mg「三和」、ミチグリニドCa・OD錠5mg「JG」、ミチグリニドCa・OD錠5mg「SN」、ミチグリニドCa・OD錠5mg「TCK」、ミチグリニドCa・OD錠5mg「フソー」、ミチグリニドCa・OD錠5mg「三和」、ミチグリニドカルシウム5mg口腔内崩壊錠
+グルファストOD錠10mg、グルファストOD錠5mg、グルファスト錠10mg、グルファスト錠5mg、ミチグリニドCa・OD錠10mg、ミチグリニドCa・OD錠5mg、ミチグリニドカルシウム5mg口腔内崩壊錠
 <!-- brand-names:end -->
 

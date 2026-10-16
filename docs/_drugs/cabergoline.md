@@ -139,6 +139,7 @@ TxGNN モデルは**下垂体癌 (Pituitary Cancer)** に有効である可能�
 
 ---
 
+
 <!-- brand-names:start -->
 ## 日本の主な販売名
 

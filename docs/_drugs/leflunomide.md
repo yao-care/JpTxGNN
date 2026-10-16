@@ -104,6 +104,7 @@ TxGNN モデルは**先端短指症・合指症症候群 (brachydactyly-syndacty
 
 ---
 
+
 <!-- brand-names:start -->
 ## 日本の主な販売名
 

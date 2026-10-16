@@ -126,6 +126,7 @@ TxGNN モデルは**皮膚炎 (Dermatitis)** に有効である可能性を予�
 
 ---
 
+
 <!-- brand-names:start -->
 ## 日本の主な販売名
 

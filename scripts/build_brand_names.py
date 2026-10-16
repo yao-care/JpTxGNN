@@ -94,7 +94,16 @@ def main():
             if page:
                 brands[page].add(unicodedata.normalize("NFKC", d.name).replace("_", " ").strip())
     pages = set(brands) | set(trade)
-    out = {k: (sorted(trade.get(k, set())) + sorted(brands.get(k, set()) - trade.get(k, set())))[:40] for k in sorted(pages)}
+    def dedupe(names):
+        # 去掉廠商後綴「…」與「(選)」再去重（同一規格不同廠商只列一次）；不設上限，避免截掉規格
+        seen, out_ = set(), []
+        for x in names:
+            y = re.sub(r"[「『][^」』]*[」』]|\(選\)", "", x).strip()
+            if y and y not in seen:
+                seen.add(y)
+                out_.append(y)
+        return out_
+    out = {k: dedupe(sorted(trade.get(k, set())) + sorted(brands.get(k, set()) - trade.get(k, set()))) for k in sorted(pages)}
     OUT.write_text(json.dumps(out, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"成分頁 {len(out)} 頁、販売名 {sum(len(v) for v in out.values())} 個 → {OUT.relative_to(ROOT)}")
 

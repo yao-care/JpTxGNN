@@ -130,6 +130,7 @@ TxGNN モデルは**気管支炎 (Bronchitis)** に有効である可能性を�
 
 ---
 
+
 <!-- brand-names:start -->
 ## 日本の主な販売名
 

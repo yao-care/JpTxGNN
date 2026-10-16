@@ -129,6 +129,7 @@ TxGNN モデルは**前立腺部尿道尿路上皮癌 (prostatic urethra urothel
 
 ---
 
+
 <!-- brand-names:start -->
 ## 日本の主な販売名
 

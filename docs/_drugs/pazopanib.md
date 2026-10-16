@@ -133,6 +133,7 @@ TxGNN モデルは**未分類腎細胞癌 (unclassified renal cell carcinoma)** 
 
 ---
 
+
 <!-- brand-names:start -->
 ## 日本の主な販売名
 

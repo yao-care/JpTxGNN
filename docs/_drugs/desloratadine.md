@@ -123,6 +123,7 @@ TxGNN モデルは**寒冷蕁麻疹 (Cold Urticaria)** に有効である可能�
 
 ---
 
+
 <!-- brand-names:start -->
 ## 日本の主な販売名
 

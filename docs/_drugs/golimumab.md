@@ -117,6 +117,7 @@ TxGNN モデルは**リウマチ性血管炎 (Rheumatoid Vasculitis)** に有効
 
 ---
 
+
 <!-- brand-names:start -->
 ## 日本の主な販売名
 

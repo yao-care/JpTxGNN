@@ -114,11 +114,12 @@ TxGNN モデルは**熱帯熱マラリア (Plasmodium falciparum malaria)** に�
 
 ---
 
+
 <!-- brand-names:start -->
 ## 日本の主な販売名
 
 以下の販売名・製品名でも検索できます（成分は同じです）。
 
-コルヒチン、コルヒチン錠0.5mg「タカタ」
+コルヒチン、コルヒチン錠0.5mg
 <!-- brand-names:end -->
 

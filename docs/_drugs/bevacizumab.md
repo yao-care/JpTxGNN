@@ -136,6 +136,7 @@ TxGNN モデルの予測順位第 1 位は**喉頭蓋腫瘍 (Epiglottis Neoplasm
 
 ---
 
+
 <!-- brand-names:start -->
 ## 日本の主な販売名
 

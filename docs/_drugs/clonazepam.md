@@ -122,6 +122,7 @@ TxGNN モデルは**レストレスレッグス症候群 (restless legs syndrome
 
 ---
 
+
 <!-- brand-names:start -->
 ## 日本の主な販売名
 

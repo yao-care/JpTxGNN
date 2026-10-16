@@ -126,11 +126,12 @@ TxGNN モデルは **先端中節骨異形成症 Hunter-Thompson 型 (acromesome
 
 ---
 
+
 <!-- brand-names:start -->
 ## 日本の主な販売名
 
 以下の販売名・製品名でも検索できます（成分は同じです）。
 
-トラマドール塩酸塩OD錠25mg「KO」、トラマドール塩酸塩OD錠50mg「KO」、トラマールOD錠25mg、トラマールOD錠25mg(選)、トラマールOD錠50mg、トラマールOD錠50mg(選)
+トラマドール塩酸塩OD錠25mg、トラマドール塩酸塩OD錠50mg、トラマールOD錠25mg、トラマールOD錠50mg
 <!-- brand-names:end -->
 

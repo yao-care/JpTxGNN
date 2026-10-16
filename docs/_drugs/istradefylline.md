@@ -95,6 +95,7 @@ TxGNN モデルは **ラスムッセン亜急性脳炎 (Rasmussen subacute encep
 
 ---
 
+
 <!-- brand-names:start -->
 ## 日本の主な販売名
 

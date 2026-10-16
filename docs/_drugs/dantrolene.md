@@ -116,6 +116,7 @@ TxGNN モデルは**悪性高熱症感受性 (malignant hyperthermia, susceptibi
 
 ---
 
+
 <!-- brand-names:start -->
 ## 日本の主な販売名
 

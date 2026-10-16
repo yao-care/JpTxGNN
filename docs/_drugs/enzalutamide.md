@@ -114,6 +114,7 @@ TxGNN モデルは **前立腺癌/脳腫瘍感受性 (prostate cancer/brain canc
 
 ---
 
+
 <!-- brand-names:start -->
 ## 日本の主な販売名
 

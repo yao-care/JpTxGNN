@@ -133,6 +133,7 @@ TxGNN モデルは、予測スコア上位に**軟骨様過誤腫 (Chondroid Ham
 
 ---
 
+
 <!-- brand-names:start -->
 ## 日本の主な販売名
 

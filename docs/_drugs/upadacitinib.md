@@ -98,6 +98,7 @@ TxGNN モデルは **colobomatous microphthalmia-rhizomelic dysplasia syndrome�
 
 ---
 
+
 <!-- brand-names:start -->
 ## 日本の主な販売名
 
