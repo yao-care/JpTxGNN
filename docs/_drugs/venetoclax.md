@@ -2,7 +2,7 @@
 layout: default
 title: Venetoclax
 parent: モデル予測のみ
-nav_order: 332
+nav_order: 333
 evidence_level: L5
 indication_count: 10
 ---

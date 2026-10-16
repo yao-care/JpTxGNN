@@ -2,7 +2,7 @@
 layout: default
 title: ﾊﾟｸﾘﾀｷｾﾙﾁｭｳ30Mg 5Mln
 parent: モデル予測のみ
-nav_order: 556
+nav_order: 557
 evidence_level: L5
 indication_count: 0
 ---

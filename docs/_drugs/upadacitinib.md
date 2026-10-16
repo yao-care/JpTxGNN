@@ -2,7 +2,7 @@
 layout: default
 title: Upadacitinib
 parent: モデル予測のみ
-nav_order: 327
+nav_order: 328
 evidence_level: L5
 indication_count: 2
 ---

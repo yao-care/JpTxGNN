@@ -2,7 +2,7 @@
 layout: default
 title: Topiroxostat
 parent: 中エビデンスレベル
-nav_order: 315
+nav_order: 316
 evidence_level: L4
 indication_count: 3
 ---

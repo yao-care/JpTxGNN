@@ -2,7 +2,7 @@
 layout: default
 title: Tofisopam
 parent: モデル予測のみ
-nav_order: 311
+nav_order: 312
 evidence_level: L5
 indication_count: 1
 ---

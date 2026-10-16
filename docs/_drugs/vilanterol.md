@@ -2,7 +2,7 @@
 layout: default
 title: Vilanterol
 parent: 高エビデンスレベル
-nav_order: 335
+nav_order: 336
 evidence_level: L1
 indication_count: 10
 ---

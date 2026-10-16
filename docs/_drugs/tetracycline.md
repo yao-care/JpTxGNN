@@ -2,7 +2,7 @@
 layout: default
 title: Tetracycline
 parent: 中エビデンスレベル
-nav_order: 302
+nav_order: 303
 evidence_level: L4
 indication_count: 4
 ---

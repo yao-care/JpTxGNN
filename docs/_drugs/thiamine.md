@@ -2,7 +2,7 @@
 layout: default
 title: Thiamine
 parent: 中エビデンスレベル
-nav_order: 304
+nav_order: 305
 evidence_level: L3
 indication_count: 10
 ---

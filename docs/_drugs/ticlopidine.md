@@ -2,7 +2,7 @@
 layout: default
 title: Ticlopidine
 parent: 中エビデンスレベル
-nav_order: 305
+nav_order: 306
 evidence_level: L3
 indication_count: 10
 ---

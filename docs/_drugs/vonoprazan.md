@@ -2,7 +2,7 @@
 layout: default
 title: Vonoprazan
 parent: 中エビデンスレベル
-nav_order: 339
+nav_order: 340
 evidence_level: L3
 indication_count: 10
 ---

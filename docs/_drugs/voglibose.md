@@ -2,7 +2,7 @@
 layout: default
 title: Voglibose
 parent: モデル予測のみ
-nav_order: 338
+nav_order: 339
 evidence_level: L5
 indication_count: 10
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: Triamcinolone
 parent: 中エビデンスレベル
-nav_order: 322
+nav_order: 323
 evidence_level: L4
 indication_count: 10
 ---

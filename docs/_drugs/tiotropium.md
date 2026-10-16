@@ -2,7 +2,7 @@
 layout: default
 title: Tiotropium
 parent: 高エビデンスレベル
-nav_order: 307
+nav_order: 308
 evidence_level: L1
 indication_count: 10
 ---

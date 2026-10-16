@@ -2,7 +2,7 @@
 layout: default
 title: Valproic Acid
 parent: モデル予測のみ
-nav_order: 329
+nav_order: 330
 evidence_level: L5
 indication_count: 10
 ---

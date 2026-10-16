@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-15T11:02:54.223052+00:00",
+  "generated": "2026-10-16T12:25:59.219842+00:00",
   "drug_count": 1019,
-  "indication_count": 1432,
+  "indication_count": 1434,
   "drugs": [
     {
       "name": "Abatacept",
@@ -41990,9 +41990,20 @@
       "name": "Temozolomide",
       "slug": "temozolomide",
       "brands": [],
-      "original": "",
+      "original": "anaplastic astrocytoma；astrocytoma (excluding glioblastoma)；brain glioblastoma",
       "level": "L1",
-      "indications": [],
+      "indications": [
+        {
+          "name": "adult astrocytic tumour",
+          "score": 99.36,
+          "level": "L5"
+        },
+        {
+          "name": "cauda equina neoplasm",
+          "score": 99.3,
+          "level": "L5"
+        }
+      ],
       "url": "/drugs/temozolomide/"
     },
     {
@@ -53168,6 +53179,21 @@
       ]
     },
     {
+      "name": "adult astrocytic tumour",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Temozolomide",
+          "slug": "temozolomide",
+          "score": 99.36,
+          "level": "L5",
+          "original": "anaplastic astrocytoma；astrocytoma (excluding glioblastoma)；brain glioblastoma",
+          "url": "/drugs/temozolomide/"
+        }
+      ]
+    },
+    {
       "name": "adult familial nephronophthisis-spastic quadriparesia syndrome",
       "count": 3,
       "level": "L5",
@@ -60260,6 +60286,21 @@
           "level": "L5",
           "original": "抗不整脈薬, カリウムチャネル遮断薬\n疾患        肥大型心筋症 [DS:H00292]\n心房細動 [DS:H00731]",
           "url": "/drugs/db01118/"
+        }
+      ]
+    },
+    {
+      "name": "cauda equina neoplasm",
+      "count": 1,
+      "level": "L5",
+      "drugs": [
+        {
+          "name": "Temozolomide",
+          "slug": "temozolomide",
+          "score": 99.3,
+          "level": "L5",
+          "original": "anaplastic astrocytoma；astrocytoma (excluding glioblastoma)；brain glioblastoma",
+          "url": "/drugs/temozolomide/"
         }
       ]
     },

@@ -2,7 +2,7 @@
 layout: default
 title: Teneligliptin
 parent: モデル予測のみ
-nav_order: 299
+nav_order: 300
 evidence_level: L5
 indication_count: 8
 ---

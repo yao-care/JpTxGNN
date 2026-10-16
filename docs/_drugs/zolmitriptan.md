@@ -2,7 +2,7 @@
 layout: default
 title: Zolmitriptan
 parent: 中エビデンスレベル
-nav_order: 344
+nav_order: 345
 evidence_level: L4
 indication_count: 3
 ---

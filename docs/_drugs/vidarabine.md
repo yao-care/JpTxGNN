@@ -2,7 +2,7 @@
 layout: default
 title: Vidarabine
 parent: モデル予測のみ
-nav_order: 334
+nav_order: 335
 evidence_level: L5
 indication_count: 3
 ---

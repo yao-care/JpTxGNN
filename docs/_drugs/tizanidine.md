@@ -2,7 +2,7 @@
 layout: default
 title: Tizanidine
 parent: 高エビデンスレベル
-nav_order: 308
+nav_order: 309
 evidence_level: L2
 indication_count: 6
 ---

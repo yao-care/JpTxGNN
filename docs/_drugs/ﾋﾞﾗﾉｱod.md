@@ -2,7 +2,7 @@
 layout: default
 title: ﾋﾞﾗﾉｱOd
 parent: モデル予測のみ
-nav_order: 573
+nav_order: 574
 evidence_level: L5
 indication_count: 0
 ---

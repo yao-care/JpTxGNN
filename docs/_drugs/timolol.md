@@ -2,7 +2,7 @@
 layout: default
 title: Timolol
 parent: モデル予測のみ
-nav_order: 306
+nav_order: 307
 evidence_level: L5
 indication_count: 10
 ---

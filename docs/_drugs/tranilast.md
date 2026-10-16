@@ -2,7 +2,7 @@
 layout: default
 title: Tranilast
 parent: モデル予測のみ
-nav_order: 319
+nav_order: 320
 evidence_level: L5
 indication_count: 10
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: Tropicamide
 parent: モデル予測のみ
-nav_order: 325
+nav_order: 326
 evidence_level: L5
 indication_count: 3
 ---

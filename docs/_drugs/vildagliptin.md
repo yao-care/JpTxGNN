@@ -2,7 +2,7 @@
 layout: default
 title: Vildagliptin
 parent: モデル予測のみ
-nav_order: 336
+nav_order: 337
 evidence_level: L5
 indication_count: 10
 ---

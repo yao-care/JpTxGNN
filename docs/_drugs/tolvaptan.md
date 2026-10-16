@@ -2,7 +2,7 @@
 layout: default
 title: Tolvaptan
 parent: 高エビデンスレベル
-nav_order: 313
+nav_order: 314
 evidence_level: L2
 indication_count: 10
 ---

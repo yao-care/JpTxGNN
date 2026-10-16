@@ -2,7 +2,7 @@
 layout: default
 title: Valsartan
 parent: 中エビデンスレベル
-nav_order: 330
+nav_order: 331
 evidence_level: L4
 indication_count: 10
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: Trastuzumab
 parent: モデル予測のみ
-nav_order: 320
+nav_order: 321
 evidence_level: L5
 indication_count: 10
 ---

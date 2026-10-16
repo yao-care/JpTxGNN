@@ -2,7 +2,7 @@
 layout: default
 title: Zaltoprofen
 parent: 中エビデンスレベル
-nav_order: 342
+nav_order: 343
 evidence_level: L3
 indication_count: 10
 ---

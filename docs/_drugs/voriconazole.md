@@ -2,7 +2,7 @@
 layout: default
 title: Voriconazole
 parent: モデル予測のみ
-nav_order: 340
+nav_order: 341
 evidence_level: L5
 indication_count: 10
 ---

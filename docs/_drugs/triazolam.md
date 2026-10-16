@@ -2,7 +2,7 @@
 layout: default
 title: Triazolam
 parent: 中エビデンスレベル
-nav_order: 323
+nav_order: 324
 evidence_level: L3
 indication_count: 1
 ---

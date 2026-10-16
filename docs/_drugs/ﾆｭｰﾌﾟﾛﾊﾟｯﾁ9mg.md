@@ -2,7 +2,7 @@
 layout: default
 title: ﾆｭｰﾌﾟﾛﾊﾟｯﾁ9Mg
 parent: モデル予測のみ
-nav_order: 525
+nav_order: 526
 evidence_level: L5
 indication_count: 0
 ---

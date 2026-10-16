@@ -2,7 +2,7 @@
 layout: default
 title: Travoprost
 parent: モデル予測のみ
-nav_order: 321
+nav_order: 322
 evidence_level: L5
 indication_count: 10
 ---

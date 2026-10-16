@@ -2,7 +2,7 @@
 layout: default
 title: Trihexyphenidyl
 parent: 中エビデンスレベル
-nav_order: 324
+nav_order: 325
 evidence_level: L4
 indication_count: 10
 ---

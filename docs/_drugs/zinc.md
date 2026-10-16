@@ -2,7 +2,7 @@
 layout: default
 title: Zinc
 parent: モデル予測のみ
-nav_order: 343
+nav_order: 344
 evidence_level: L5
 indication_count: 10
 ---

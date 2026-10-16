@@ -2,7 +2,7 @@
 layout: default
 title: Vincristine
 parent: モデル予測のみ
-nav_order: 337
+nav_order: 338
 evidence_level: L5
 indication_count: 3
 ---

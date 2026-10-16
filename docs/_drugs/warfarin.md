@@ -2,7 +2,7 @@
 layout: default
 title: Warfarin
 parent: モデル予測のみ
-nav_order: 341
+nav_order: 342
 evidence_level: L5
 indication_count: 10
 ---

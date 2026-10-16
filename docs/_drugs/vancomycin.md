@@ -2,7 +2,7 @@
 layout: default
 title: Vancomycin
 parent: モデル予測のみ
-nav_order: 331
+nav_order: 332
 evidence_level: L5
 indication_count: 10
 ---

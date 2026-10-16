@@ -2,7 +2,7 @@
 layout: default
 title: ﾈｵｼﾈｼﾞﾝｺｰﾜﾁｭｳ5Mg
 parent: モデル予測のみ
-nav_order: 533
+nav_order: 534
 evidence_level: L5
 indication_count: 0
 ---

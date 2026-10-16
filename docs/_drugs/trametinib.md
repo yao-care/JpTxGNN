@@ -2,7 +2,7 @@
 layout: default
 title: Trametinib
 parent: モデル予測のみ
-nav_order: 318
+nav_order: 319
 evidence_level: L5
 indication_count: 10
 ---

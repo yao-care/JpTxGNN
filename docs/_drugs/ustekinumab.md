@@ -2,7 +2,7 @@
 layout: default
 title: Ustekinumab
 parent: 高エビデンスレベル
-nav_order: 328
+nav_order: 329
 evidence_level: L2
 indication_count: 10
 ---

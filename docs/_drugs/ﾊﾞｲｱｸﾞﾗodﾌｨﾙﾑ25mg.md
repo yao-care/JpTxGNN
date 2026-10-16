@@ -2,7 +2,7 @@
 layout: default
 title: ﾊﾞｲｱｸﾞﾗOdﾌｨﾙﾑ25Mg
 parent: モデル予測のみ
-nav_order: 544
+nav_order: 545
 evidence_level: L5
 indication_count: 0
 ---

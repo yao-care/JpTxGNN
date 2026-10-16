@@ -2,7 +2,7 @@
 layout: default
 title: Tramadol
 parent: モデル予測のみ
-nav_order: 317
+nav_order: 318
 evidence_level: L5
 indication_count: 10
 ---

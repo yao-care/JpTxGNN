@@ -2,7 +2,7 @@
 layout: default
 title: Troxipide
 parent: モデル予測のみ
-nav_order: 326
+nav_order: 327
 evidence_level: L5
 indication_count: 10
 ---

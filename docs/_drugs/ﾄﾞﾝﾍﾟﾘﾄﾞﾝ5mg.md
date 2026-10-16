@@ -2,7 +2,7 @@
 layout: default
 title: ﾄﾞﾝﾍﾟﾘﾄﾞﾝ5Mg
 parent: モデル予測のみ
-nav_order: 515
+nav_order: 516
 evidence_level: L5
 indication_count: 0
 ---

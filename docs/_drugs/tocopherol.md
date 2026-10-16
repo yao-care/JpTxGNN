@@ -2,7 +2,7 @@
 layout: default
 title: Tocopherol
 parent: 中エビデンスレベル
-nav_order: 310
+nav_order: 311
 evidence_level: L4
 indication_count: 10
 ---

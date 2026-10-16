@@ -2,7 +2,7 @@
 layout: default
 title: Tocilizumab
 parent: 高エビデンスレベル
-nav_order: 309
+nav_order: 310
 evidence_level: L2
 indication_count: 10
 ---
