@@ -255,6 +255,9 @@ def sync_notes_to_docs():
             errors.append(f"{drug_name}: notes file is empty")
             continue
 
+        # 2026-10-17：以「產品名＋劑量」（含片假名／全形字）為名的筆記不產生藥物頁（用戶決定 U-03，網址應為成分名）
+        if re.search(r"[\u30a0-\u30ff\uff00-\uffef]", drug_name):
+            continue
         evidence_level = extract_evidence_level(content)
         bundle_path = bundles_dir / drug_name / "drug_bundle.json"
         indication_count = extract_indication_count(content, bundle_path)
