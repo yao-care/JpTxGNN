@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Sumatriptan：予測新適応症は脳幹性前兆を伴う片頭痛 (Migraine with Brainstem Aura)（エビデンスレベル L4）。既存適応症：抗片頭痛薬、血管収縮薬、セロトニン受容体作動薬"
+monitor_inn: "sumatriptan"
+predicted_indications: ["migraine with brainstem aura"]
 ---
 
 # Sumatriptan

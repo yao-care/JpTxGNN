@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Metformin：予測新適応症は焦点性スティッフリム症候群 (focal stiff limb syndrome)（エビデンスレベル L5）。既存適応症：2型糖尿病、多嚢胞性卵巣症候群"
+monitor_inn: "Metformin"
+predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "pancreatic agenesis", "idiopathic localized lipodystrophy", "homozygous familial hypercholesterolemia"]
 ---
 
 # Metformin

@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Iron：予測新適応症はPlummer-Vinson 症候群（エビデンスレベル L3）。既存適応症：貧血治療薬、造血薬、鉄補充薬"
+monitor_inn: "Iron"
+predicted_indications: ["vitamin B12- and folate-independent constitutional megaloblastic anemia", "Plummer-Vinson syndrome", "non-syndromic esophageal malformation", "biotin metabolic disease", "vitamin deficiency disorder", "esophageal disease", "injury", "florid cemento-osseous dysplasia", "segmental odontomaxillary dysplasia", "perinatal disease"]
 ---
 
 # Iron

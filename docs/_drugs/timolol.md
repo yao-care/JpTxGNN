@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Timolol：予測新適応症は原発性遺伝性緑内障 (primary hereditary glaucoma)（エビデンスレベル L5）。既存適応症：抗緑内障薬、β遮断薬"
+monitor_inn: "Timolol"
+predicted_indications: ["primary hereditary glaucoma", "closed-angle glaucoma", "malignant hypertensive renal disease", "malignant renovascular hypertension", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease", "glaucoma 1, open angle", "angle-closure glaucoma"]
 ---
 
 # Timolol

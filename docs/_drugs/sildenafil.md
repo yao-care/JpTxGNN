@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Sildenafil：予測新適応症はAmbras 型汎発性先天性多毛症 (Ambras type hypertrichosis universalis congenita)（エビデンスレベル L5）。既存適応症：肺動脈性肺高血圧症"
+monitor_inn: "Sildenafil"
+predicted_indications: ["Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "hypertrichosis (disease)", "homozygous familial hypercholesterolemia", "hypoalphalipoproteinemia", "familial isolated trichomegaly", "genetic alopecia", "obsolete patella aplasia, coxa vara, and tarsal synostosis"]
 ---
 
 # Sildenafil

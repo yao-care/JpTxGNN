@@ -55,12 +55,24 @@ def main():
         # Extract predicted indication for search queries
         predicted_indication = extract_predicted_indication(content)
 
+        # 2026-10-16：監測改用 front matter 的英文 INN 與預測新適應症（不分語言）；
+        # 沒有這兩個欄位的頁（轉址頁、無新預測頁）不監測
+        try:
+            predicted_indications = json.loads(front_matter.get("predicted_indications", "[]"))
+        except ValueError:
+            predicted_indications = []
+        monitor_inn = front_matter.get("monitor_inn", "")
+        if not predicted_indications or not monitor_inn:
+            continue
+
         drugs.append({
             "name": drug_name,
             "file": md_file.name,
             "evidence_level": evidence_level,
             "indication_count": int(indication_count) if indication_count.isdigit() else 0,
-            "predicted_indication": predicted_indication
+            "predicted_indication": predicted_indication,
+            "inn": monitor_inn,
+            "predicted_indications": predicted_indications,
         })
 
     # Save to JSON

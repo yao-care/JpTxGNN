@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 8
 last_modified_at: 2026-10-15
 description: "Propafenone：予測新適応症はカテコラミン誘発多形性心室頻拍 (CPVT)。※TxGNN 最上位は躁病性双極性障害（スコア 99.80%）ですが…（エビデンスレベル L4）。既存適応症：抗不整脈薬、ナトリウムチャネル遮断薬"
+monitor_inn: "Propafenone"
+predicted_indications: ["manic bipolar affective disorder", "catecholaminergic polymorphic ventricular tachycardia", "periodic paralysis with transient compartment-like syndrome", "Prinzmetal angina", "incessant infant ventricular tachycardia", "arrhythmogenic right ventricular cardiomyopathy", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania"]
 ---
 
 # Propafenone

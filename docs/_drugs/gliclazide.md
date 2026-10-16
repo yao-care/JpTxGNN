@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Gliclazide：予測新適応症はfocal stiff limb syndrome（限局性硬直肢症候群）（エビデンスレベル L5）。既存適応症：インスリン非依存型糖尿病（糖尿病治療薬、血糖降下薬、スルホニル尿素受容体作動薬）"
+monitor_inn: "Gliclazide"
+predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "autoimmune oophoritis"]
 ---
 
 # Gliclazide

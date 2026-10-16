@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Simvastatin：予測新適応症は家族性高コレステロール血症 (Familial Hypercholesterolemia)（エビデンスレベル L1）。既存適応症：高脂血症、家族性高コレステロール血症（脂質異常症治療薬、HMG-CoA 還元酵素阻害薬）"
+monitor_inn: "Simvastatin"
+predicted_indications: ["familial hypercholesterolemia", "brain stem infarction", "cholesterol-ester transfer protein deficiency", "hypercholesterolemia, autosomal dominant", "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency", "HIV infectious disease", "ABri amyloidosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "fibroma of prostate", "simian immunodeficiency virus infection"]
 ---
 
 # Simvastatin

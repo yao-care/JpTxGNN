@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Pazopanib：予測新適応症は未分類腎細胞癌 (unclassified renal cell carcinoma)（エビデンスレベル L2）。既存適応症：腎細胞癌、軟部肉腫（日本の承認適応症テキストは未登録）"
+monitor_inn: "Pazopanib"
+predicted_indications: ["unclassified renal cell carcinoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "renal cell carcinoma associated with neuroblastoma", "liposarcoma", "childhood kidney cell carcinoma", "ovarian myxoid liposarcoma", "heart fibrosarcoma", "fibroblastic neoplasm", "kidney fibrosarcoma", "dermatofibrosarcoma protuberans"]
 ---
 
 # Pazopanib

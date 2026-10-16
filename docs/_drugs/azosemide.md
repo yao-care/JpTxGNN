@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 6
 last_modified_at: 2026-10-15
 description: "Azosemide：予測新適応症は特発性銅関連肝硬変 (idiopathic copper-associated cirrhosis)（エビデンスレベル L5）。既存適応症：利尿薬、Na-K-Cl共輸送体阻害薬"
+monitor_inn: "azosemide"
+predicted_indications: ["idiopathic copper-associated cirrhosis", "hepatopulmonary syndrome", "hepatoportal sclerosis", "early-onset familial noncirrhotic portal hypertension", "primitive portal vein thrombosis", "hepatic porphyria"]
 ---
 
 # Azosemide

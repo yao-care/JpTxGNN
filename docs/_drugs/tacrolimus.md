@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Tacrolimus：予測新適応症は脂漏性皮膚炎 (Seborrheic Dermatitis)（エビデンスレベル L1）。既存適応症：臓器移植における拒絶反応、移植片対宿主病、重症筋無力症、関節リウマチ、ループス腎炎、活動期潰瘍性大腸炎、多発性筋炎・皮膚筋炎…"
+monitor_inn: "Tacrolimus"
+predicted_indications: ["seborrheic dermatitis", "parapsoriasis", "dermatitis", "acute lichenoid pityriasis", "acrodermatitis chronica atrophicans", "rheumatoid arthritis", "acne keloid", "psoriasis", "neonatal dermatomyositis", "exanthem (disease)"]
 ---
 
 # Tacrolimus

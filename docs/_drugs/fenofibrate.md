@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Fenofibrate：予測新適応症はホモ接合体家族性高コレステロール血症 (homozygous familial hypercholesterolemia)（エビデンスレベル L5）。既存適応症：脂質異常症（高脂血症、家族性高脂血症）"
+monitor_inn: "Fenofibrate"
+predicted_indications: ["homozygous familial hypercholesterolemia", "hyperlipoproteinemia", "familial hypercholesterolemia", "cholesterol-ester transfer protein deficiency", "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency", "hyperlipidemia due to hepatic triglyceride lipase deficiency", "hypercholesterolemia, autosomal dominant", "hypolipoproteinemia (disease)", "hyperalphalipoproteinemia", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 ---
 
 # Fenofibrate

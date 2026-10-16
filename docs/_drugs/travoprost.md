@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Travoprost：予測新適応症は血管疾患 (Vascular Disease)（TxGNN 最上位は内臓カルシフィラキシー）（エビデンスレベル L5）。既存適応症：緑内障"
+monitor_inn: "travoprost"
+predicted_indications: ["visceral calciphylaxis", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "vascular disease", "angiodysplasia of stomach", "blue toe syndrome", "lymphangiectasis", "idiopathic spontaneous coronary artery dissection", "hemangioendothelioma"]
 ---
 
 # Travoprost

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Pilocarpine：予測新適応症は原発性遺伝性緑内障 (Primary Hereditary Glaucoma)（エビデンスレベル L5）。既存適応症：緑内障、シェーグレン症候群"
+monitor_inn: "Pilocarpine"
+predicted_indications: ["primary hereditary glaucoma"]
 ---
 
 # Pilocarpine

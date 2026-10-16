@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Voriconazole：予測新適応症は多剤耐性結核 (multidrug-resistant tuberculosis)（エビデンスレベル L5）。既存適応症：侵襲性アスペルギルス症、肺アスペルギローマ、慢性壊死性肺アスペルギルス症、カンジダ症、クリプトコックス髄膜炎、肺クリプトコックス症…"
+monitor_inn: "Voriconazole"
+predicted_indications: ["multidrug-resistant tuberculosis", "cysticercosis", "Ambras type hypertrichosis universalis congenita", "syndrome with a Dandy-Walker malformation as major feature", "malformation syndrome with odontal and/or periodontal component", "tuberculosis, bovine", "isolated genetic hair shaft abnormality", "inactive tuberculosis", "tuberculous ascites", "tuberculoma"]
 ---
 
 # Voriconazole

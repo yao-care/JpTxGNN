@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Rivaroxaban：予測新適応症は関節リウマチ (Rheumatoid Arthritis)（エビデンスレベル L5）。既存適応症：抗血栓薬、第Xa因子阻害薬"
+monitor_inn: "Rivaroxaban"
+predicted_indications: ["rheumatoid arthritis", "gout", "HIV infectious disease", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "sclerosing cholangitis", "systemic mastocytosis", "Smouldering systemic mastocytosis", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection"]
 ---
 
 # Rivaroxaban

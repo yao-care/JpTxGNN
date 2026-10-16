@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Enalapril：予測新適応症は慢性肺性心疾患 (Chronic Pulmonary Heart Disease)（エビデンスレベル L5）。既存適応症：本態性高血圧症、悪性高血圧（血圧降下薬、血管拡張薬、ACE 阻害薬）"
+monitor_inn: "Enalapril"
+predicted_indications: ["chronic pulmonary heart disease", "acute pulmonary heart disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant renovascular hypertension", "malignant hypertensive renal disease", "primary hereditary glaucoma", "Braddock syndrome", "open-angle glaucoma", "chronic kidney disease"]
 ---
 
 # Enalapril

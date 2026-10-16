@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Triamcinolone：予測新適応症は脱毛性粘液症 (Alopecia Mucinosa)（エビデンスレベル L4）。既存適応症：慢性副腎皮質機能不全、関節リウマチ、気管支喘息、ネフローゼ症候群、アトピー皮膚炎…"
+monitor_inn: "Triamcinolone"
+predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "idiopathic steroid-sensitive nephrotic syndrome", "alopecia universalis onychodystrophy vitiligo", "sporadic idiopathic steroid-resistant nephrotic syndrome"]
 ---
 
 # Triamcinolone

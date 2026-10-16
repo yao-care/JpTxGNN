@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Flurbiprofen：予測新適応症は先端中肢異形成 Hunter-Thompson 型 (Acromesomelic dysplasia…（エビデンスレベル L5）。既存適応症：関節リウマチ（鎮痛薬・抗炎症薬・シクロオキシゲナーゼ阻害薬）"
+monitor_inn: "Flurbiprofen"
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "spondyloarthropathy, susceptibility to", "ankylosing spondylitis", "pseudoachondroplasia", "hypermobility of coccyx"]
 ---
 
 # Flurbiprofen

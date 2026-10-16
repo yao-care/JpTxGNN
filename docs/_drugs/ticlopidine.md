@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Ticlopidine：予測新適応症は関節リウマチ (Rheumatoid Arthritis)（エビデンスレベル L3）。既存適応症：慢性動脈閉塞症（抗凝固薬、血小板凝集抑制薬、P2Y12 拮抗薬）"
+monitor_inn: "Ticlopidine"
+predicted_indications: ["rheumatoid arthritis", "female breast carcinoma", "obsolete familial combined hyperlipidemia", "homozygous familial hypercholesterolemia", "hypoalphalipoproteinemia", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "HIV infectious disease", "leprosy", "multiple endocrine neoplasia"]
 ---
 
 # Ticlopidine

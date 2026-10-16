@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Colchicine：予測新適応症は熱帯熱マラリア (Plasmodium falciparum malaria)（エビデンスレベル L4）。既存適応症：痛風発作、家族性地中海熱"
+monitor_inn: "Colchicine"
+predicted_indications: ["Plasmodium falciparum malaria", "familial Mediterranean fever, autosomal dominant", "dermatofibrosarcoma protuberans"]
 ---
 
 # Colchicine

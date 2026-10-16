@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Cetuximab：予測新適応症は軟骨様過誤腫 (Chondroid Hamartoma)（エビデンスレベル L5）。既存適応症：結腸直腸癌、頭頸部扁平上皮癌（咽頭・喉頭の扁平上皮癌を含む）"
+monitor_inn: "Cetuximab"
+predicted_indications: ["chondroid hamartoma", "non-seminomatous lesion", "bronchial adenomas/carcinoids childhood", "ductal or ductular proliferation", "tumor of testis and paratestis", "odontogenic cyst", "thyroglossal duct cyst", "cystic neoplasm", "epiglottis neoplasm", "pre-malignant neoplasm"]
 ---
 
 # Cetuximab

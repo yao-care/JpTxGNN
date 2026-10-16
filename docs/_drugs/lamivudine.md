@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Lamivudine：予測新適応症はサル免疫不全ウイルス感染症 (Simian Immunodeficiency Virus Infection)（エビデンスレベル L4）。既存適応症：慢性B型肝炎、HIV感染症、AIDS"
+monitor_inn: "Lamivudine"
+predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "chronic hepatitis C virus infection", "hepatitis B virus infection", "hepatitis C virus infection", "primitive portal vein thrombosis", "early-onset familial noncirrhotic portal hypertension", "hepatopulmonary syndrome"]
 ---
 
 # Lamivudine

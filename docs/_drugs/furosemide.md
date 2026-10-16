@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Furosemide：予測新適応症は悪性高血圧性腎疾患 (Malignant Hypertensive Renal Disease)（エビデンスレベル L5）。既存適応症：本態性高血圧症、高血圧症（利尿薬、Na-K-Cl共輸送体阻害薬）"
+monitor_inn: "Furosemide"
+predicted_indications: ["malignant hypertensive renal disease", "malignant renovascular hypertension", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease", "acute pulmonary heart disease", "primary hereditary glaucoma", "chronic renal failure syndrome", "chronic kidney disease"]
 ---
 
 # Furosemide

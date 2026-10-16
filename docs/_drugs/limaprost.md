@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Limaprost：予測新適応症は遺伝性フォンヴィレブランド病 (hereditary von Willebrand disease)（エビデンスレベル L5）。既存適応症：閉塞性血栓血管炎、腰部脊柱管狭窄症（血小板凝集抑制薬・血管拡張薬・プロスタグランジンE1受容体作動薬）"
+monitor_inn: "Limaprost"
+predicted_indications: ["hereditary von Willebrand disease", "small bowel Crohn disease", "gastritis", "Von Willebrand disease, X-linked form", "venous insufficiency (disease)"]
 ---
 
 # Limaprost

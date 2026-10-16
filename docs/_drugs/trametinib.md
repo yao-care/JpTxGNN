@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Trametinib：予測新適応症は脈絡膜欠損症 (Choroideremia)（エビデンスレベル L5）。既存適応症：転移性悪性黒色腫"
+monitor_inn: "Trametinib"
+predicted_indications: ["choroideremia", "non-cutaneous melanoma", "epithelioid cell melanoma", "eyelid melanoma", "scrotum melanoma", "lentigo maligna melanoma", "balloon cell malignant melanoma", "CDK4 linked melanoma", "nodular malignant melanoma", "superficial spreading melanoma"]
 ---
 
 # Trametinib

@@ -2,18 +2,102 @@
 """
 Check PubMed for new publications related to our drug list.
 Creates GitHub Issues when new papers are found.
+
+NOTE: Filters out known/approved indications to focus on repurposing evidence.
 """
 
 import json
 import os
+import re
 import time
-import unicodedata
 from datetime import datetime
 from pathlib import Path
 
 import requests
 
-from github_utils import create_issue, issue_exists, close_older_pubmed_issues
+from github_utils import create_issue, close_older_pubmed_issues
+
+
+def is_known_indication(approved_indication: str, predicted_indication: str) -> bool:
+    """Check if predicted indication overlaps with approved indication.
+
+    Uses keyword matching to detect if the predicted indication is likely
+    already approved for the drug.
+    """
+    if not approved_indication or not predicted_indication:
+        return False
+
+    approved_lower = approved_indication.lower()
+    predicted_lower = predicted_indication.lower()
+
+    # Extract meaningful keywords from predicted indication
+    cleaned = re.sub(r'\s*\(disease\)\s*', ' ', predicted_lower)
+    cleaned = re.sub(r'\s*\(disorder\)\s*', ' ', cleaned)
+    cleaned = re.sub(r'[^\w\s]', ' ', cleaned)
+
+    words = cleaned.split()
+
+    # Generic medical terms that are too broad for matching
+    generic_terms = {
+        'disease', 'disorder', 'syndrome', 'type', 'of', 'the', 'and', 'or',
+        'with', 'due', 'to', 'in', 'by', 'for', 'as', 'is', 'a', 'an',
+        'primary', 'secondary', 'chronic', 'acute', 'severe', 'mild',
+        'familial', 'hereditary', 'congenital', 'acquired', 'idiopathic',
+        'cancer', 'tumor', 'carcinoma', 'neoplasm', 'infection', 'infectious',
+        'deficiency', 'failure', 'insufficiency', 'inflammation',
+        'cell', 'cells', 'blood', 'bone', 'muscle', 'nerve', 'skin',
+    }
+
+    # Keep important acronyms even if short
+    important_acronyms = {
+        'hiv', 'aids', 'copd', 'adhd', 'als', 'ms', 'ibd', 'ibs',
+        'hcv', 'hbv', 'tb', 'ra', 'sle', 'ckd', 'chf', 'cad',
+    }
+
+    # Expanded forms for acronyms
+    expanded_terms = {
+        'hiv': 'immunodeficiency virus',
+        'aids': 'acquired immunodeficiency',
+        'copd': 'chronic obstructive pulmonary',
+        'adhd': 'attention deficit',
+        'als': 'amyotrophic lateral sclerosis',
+    }
+
+    keywords = []
+    for w in words:
+        w_lower = w.lower()
+        if w_lower in important_acronyms:
+            keywords.append(w_lower)
+        elif w_lower not in generic_terms and len(w) > 4:
+            keywords.append(w_lower)
+
+    if not keywords:
+        return False
+
+    # Check if specific keywords appear in approved indication
+    matches = 0
+    for kw in keywords:
+        pattern = r'\b' + re.escape(kw) + r'\b'
+        if re.search(pattern, approved_lower):
+            matches += 1
+        elif kw in expanded_terms:
+            if expanded_terms[kw] in approved_lower:
+                matches += 1
+
+    # Need majority of specific keywords to match
+    if len(keywords) >= 2 and matches >= len(keywords) * 0.6:
+        return True
+
+    # Single very specific keyword match
+    for kw in keywords:
+        if len(kw) > 8:
+            pattern = r'\b' + re.escape(kw) + r'\b'
+            if re.search(pattern, approved_lower):
+                return True
+        elif kw in expanded_terms and expanded_terms[kw] in approved_lower:
+            return True
+
+    return False
 
 # Configuration
 ESEARCH_URL = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
@@ -21,7 +105,7 @@ ESUMMARY_URL = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi"
 CACHE_FILE = Path(__file__).parent.parent / "data" / "cache" / "pubmed_cache.json"
 DRUG_LIST_FILE = Path(__file__).parent / "drug_list.json"
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN")
-GITHUB_REPO = os.environ.get("GITHUB_REPOSITORY", "yao-care/JpTxGNN")
+GITHUB_REPO = os.environ.get("GITHUB_REPOSITORY", "yao-care/EuTxGNN")
 NCBI_API_KEY = os.environ.get("NCBI_API_KEY")  # Optional, for higher rate limits
 RATE_LIMIT_DELAY = 0.4 if NCBI_API_KEY else 1.0  # seconds between API calls
 
@@ -49,19 +133,13 @@ def load_drug_list() -> list:
     return data["drugs"]
 
 
-def is_pubmed_searchable(name: str) -> bool:
-    """PubMed 會把非拉丁文字（日文產品名等）整段丟掉，查詢只剩日期條件、回傳當週全部文獻。"""
-    stripped = "".join(c for c in unicodedata.normalize("NFKD", name) if not unicodedata.combining(c))
-    return stripped.isascii()
-
-
 def search_pubmed(drug_name: str, indication: str = "", days_back: int = 7) -> list:
     """Search PubMed for recent publications."""
     # Build search query
     query_parts = [f'"{drug_name}"[Title/Abstract]']
     if indication:
         # Clean up indication text
-        indication = indication.split("(")[0].strip()  # Remove parenthetical notes
+        indication = indication.split("(")[0].strip()
         if indication and len(indication) > 3:
             query_parts.append(f'"{indication}"[Title/Abstract]')
 
@@ -90,6 +168,43 @@ def search_pubmed(drug_name: str, indication: str = "", days_back: int = 7) -> l
     except requests.RequestException as e:
         print(f"Error searching PubMed for {drug_name}: {e}")
         return []
+
+
+def _clean_indication(name: str) -> str:
+    name = re.sub(r"\s*\((disease|disorder)\)\s*", " ", name, flags=re.I)
+    return re.sub(r"\s+", " ", name).strip().replace('"', "")
+
+
+def search_pubmed_predicted(inn: str, indications: list, days_back: int = 7) -> list:
+    """2026-10-16：查「INN AND (預測新適應症1 OR …)」，只抓和預測有關的新文獻。"""
+    terms = [f'"{_clean_indication(i)}"[Title/Abstract]' for i in indications if len(_clean_indication(i)) > 3]
+    if not terms:
+        return []
+    query = f'"{inn}"[Title/Abstract] AND (' + " OR ".join(terms) + ")"
+    params = {
+        "db": "pubmed",
+        "term": query,
+        "datetype": "edat",
+        "reldate": days_back,
+        "retmode": "json",
+        "retmax": 50,
+        "sort": "date",
+    }
+    if NCBI_API_KEY:
+        params["api_key"] = NCBI_API_KEY
+    try:
+        response = requests.get(ESEARCH_URL, params=params, timeout=30)
+        response.raise_for_status()
+        return response.json().get("esearchresult", {}).get("idlist", [])
+    except requests.RequestException as e:
+        print(f"Error searching PubMed for {inn}: {e}")
+        return []
+
+
+def matched_indications(papers: list, indications: list) -> list:
+    """以論文標題比對命中哪些預測新適應症；比對不到就回傳空串列。"""
+    titles = " ".join(p.get("title", "") for p in papers).lower()
+    return [i for i in indications if _clean_indication(i).lower() in titles]
 
 
 def get_paper_details(pmids: list) -> list:
@@ -131,9 +246,13 @@ def get_paper_details(pmids: list) -> list:
         return []
 
 
-def create_github_issue(drug_name: str, new_papers: list):
+def create_github_issue(drug_name: str, new_papers: list, indications: list = None):
     """Create a GitHub Issue for new papers found."""
+    indications = indications or []
+    ind_label = "; ".join(indications[:2]) + (" …" if len(indications) > 2 else "")
     title = f"📚 新文獻：{drug_name} ({len(new_papers)} 篇)"
+    if ind_label:
+        title += f" → {ind_label}"  # 接在數量後面，github_utils 以「：…(」擷取藥名才對得上
 
     if not GITHUB_TOKEN:
         print(f"[DRY RUN] Would create issue for {drug_name} with {len(new_papers)} new papers")
@@ -152,39 +271,45 @@ def create_github_issue(drug_name: str, new_papers: list):
         authors = ", ".join(paper["authors"]) + (" et al." if len(paper["authors"]) >= 3 else "")
         paper_details.append(
             f"### PMID: {paper['pmid']}\n"
-            f"- **標題**: {paper['title']}\n"
-            f"- **期刊**: {paper['source']}\n"
-            f"- **發表日期**: {paper['pubdate']}\n"
-            f"- **作者**: {authors}\n"
-            f"- **連結**: https://pubmed.ncbi.nlm.nih.gov/{paper['pmid']}/\n"
+            f"- **Title**: {paper['title']}\n"
+            f"- **Journal**: {paper['source']}\n"
+            f"- **Publication Date**: {paper['pubdate']}\n"
+            f"- **Authors**: {authors}\n"
+            f"- **Link**: https://pubmed.ncbi.nlm.nih.gov/{paper['pmid']}/\n"
         )
 
-    body = f"""## 🔬 自動偵測到新學術文獻
+    body = f"""## 📚 New Publications Detected
 
-此 Issue 由 GitHub Actions 自動建立。
+This issue was automatically created by GitHub Actions.
 
-### 藥物名稱
+### Drug Name
 {drug_name}
 
-### 資料來源
+### Predicted New Indication(s)
+{chr(10).join("- " + x for x in indications) if indications else "-"}
+
+### PMIDs
+{", ".join(p["pmid"] for p in new_papers)}
+
+### Data Source
 PubMed
 
-### 證據類型
-新學術文獻
+### Evidence Type
+New Academic Publications
 
-### 詳細資訊
-發現 **{len(new_papers)}** 篇新文獻：
+### Details
+Found **{len(new_papers)}** new publications:
 
 {"".join(paper_details)}
 
-### 建議行動
-- [ ] 閱讀文獻摘要
-- [ ] 評估文獻類型（RCT、觀察性研究、案例報告等）
-- [ ] 評估是否需要更新藥物報告證據等級
-- [ ] 新增文獻資訊到報告
+### Suggested Actions
+- [ ] Review paper abstracts
+- [ ] Evaluate publication type (RCT, observational, case report, etc.)
+- [ ] Evaluate if drug report evidence level needs updating
+- [ ] Add publication information to report
 
 ---
-*自動偵測時間：{datetime.now().strftime('%Y-%m-%d %H:%M:%S')} UTC*
+*Auto-detected at: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} UTC*
 """
 
     # Create the issue with deduplication check
@@ -195,6 +320,7 @@ PubMed
 def main():
     print("=" * 60)
     print("PubMed Evidence Checker")
+    print("(Filtering out known/approved indications)")
     print(f"Started at: {datetime.now().isoformat()}")
     print(f"NCBI API Key: {'Configured' if NCBI_API_KEY else 'Not configured (slower rate limit)'}")
     print("=" * 60)
@@ -209,17 +335,25 @@ def main():
     # Check each drug
     new_findings = []
     seen_pmids = cache.get("seen_pmids", {})
+    skipped_known = 0
 
     for i, drug in enumerate(drugs):
         drug_name = drug["name"]
         indication = drug.get("predicted_indication", "")
+        approved_indication = drug.get("approved_indication", "")
 
-        if not is_pubmed_searchable(drug_name):
-            continue
+        # Skip if predicted indication is a known/approved indication
+        if indication and approved_indication:
+            if is_known_indication(approved_indication, indication):
+                skipped_known += 1
+                continue
 
         print(f"\n[{i+1}/{len(drugs)}] Checking: {drug_name}")
 
-        pmids = search_pubmed(drug_name, indication, days_back=7)
+        predicted = drug.get("predicted_indications") or []
+        if not predicted or not drug.get("inn"):
+            continue
+        pmids = search_pubmed_predicted(drug["inn"], predicted, days_back=7)
         time.sleep(RATE_LIMIT_DELAY)
 
         if not pmids:
@@ -236,18 +370,18 @@ def main():
             time.sleep(RATE_LIMIT_DELAY)
 
             if papers:
-                # Skip issue creation for initial discovery (first time seeing this drug)
-                # Only create issues for truly new papers after baseline is established
+                # Skip issue creation for initial discovery
                 if is_initial_discovery:
-                    print(f"  Initial discovery: {len(papers)} papers (no issue created, baseline established)")
-                # Skip if only 1 paper - too noisy, wait for more evidence
+                    print(f"  Initial discovery: {len(papers)} papers (baseline established)")
+                # Skip if only 1 paper - wait for more evidence
                 elif len(papers) < 2:
-                    print(f"  Only {len(papers)} paper found - below threshold, skipping issue")
+                    print(f"  Only {len(papers)} paper found - below threshold")
                 else:
                     print(f"  Found {len(papers)} new papers!")
                     new_findings.append({
                         "drug": drug_name,
-                        "papers": papers
+                        "papers": papers,
+                        "indications": matched_indications(papers, predicted) or predicted,
                     })
 
             # Update seen PMIDs
@@ -261,12 +395,15 @@ def main():
 
     # Create issues for new findings
     print("\n" + "=" * 60)
-    print("Creating Issues for New Findings")
+    print("Summary")
     print("=" * 60)
+    print(f"Skipped (known indications): {skipped_known}")
 
     if new_findings:
+        print(f"New findings: {len(new_findings)}")
+        print("\nCreating Issues...")
         for finding in new_findings:
-            create_github_issue(finding["drug"], finding["papers"])
+            create_github_issue(finding["drug"], finding["papers"], finding["indications"])
     else:
         print("No new papers found.")
 

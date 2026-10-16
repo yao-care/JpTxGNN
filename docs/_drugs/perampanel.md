@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Perampanel：予測新適応症は視覚てんかん (Visual Epilepsy)（エビデンスレベル L5）。既存適応症：部分てんかん、部分運動性てんかん"
+monitor_inn: "Perampanel"
+predicted_indications: ["visual epilepsy", "startle epilepsy", "thinking seizures", "orgasm-induced seizures", "micturation-induced seizures", "audiogenic seizures", "eating seizures", "reading seizures", "beta-ketothiolase deficiency", "status epilepticus"]
 ---
 
 # Perampanel

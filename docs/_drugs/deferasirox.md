@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Deferasirox：予測新適応症はHIV 感染症 (HIV infectious disease)（エビデンスレベル L4）。既存適応症：解毒薬（鉄過剰蓄積）、キレート剤"
+monitor_inn: "deferasirox"
+predicted_indications: ["HIV infectious disease", "chronic hepatitis C virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "dermatofibrosarcoma protuberans"]
 ---
 
 # Deferasirox

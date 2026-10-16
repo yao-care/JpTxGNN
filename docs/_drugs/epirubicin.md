@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 7
 last_modified_at: 2026-10-15
 description: "Epirubicin：予測新適応症は原発性肺リンパ腫 (Primary Pulmonary Lymphoma)（エビデンスレベル L3）。既存適応症：急性白血病、悪性リンパ腫、乳癌、卵巣癌、胃癌、肝癌、膀胱癌"
+monitor_inn: "Epirubicin"
+predicted_indications: ["primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "small cell lung carcinoma", "pulmonary blastoma", "lung mixed small cell and squamous cell carcinoma", "myeloid leukemia", "upper aerodigestive tract neoplasm"]
 ---
 
 # Epirubicin

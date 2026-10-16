@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Bromperidol：予測新適応症は不眠症 (Insomnia)（エビデンスレベル L5）。既存適応症：統合失調症治療薬、ドパミン D2 受容体拮抗薬"
+monitor_inn: "bromperidol"
+predicted_indications: ["insomnia (disease)"]
 ---
 
 # Bromperidol

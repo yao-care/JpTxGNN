@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Rivastigmine：予測新適応症は緑内障 (Glaucoma)（エビデンスレベル L4）。既存適応症：アルツハイマー型認知症（認知症治療薬、アセチルコリンエステラーゼ阻害薬）"
+monitor_inn: "Rivastigmine"
+predicted_indications: ["glaucoma"]
 ---
 
 # Rivastigmine

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Ipilimumab：予測新適応症は脈絡膜欠損症 (Choroideremia)（エビデンスレベル L5）。既存適応症：転移性悪性黒色腫"
+monitor_inn: "Ipilimumab"
+predicted_indications: ["choroideremia", "non-cutaneous melanoma"]
 ---
 
 # Ipilimumab

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Meropenem：予測新適応症は尿路感染症 (Urinary Tract Infection)（エビデンスレベル L5）。既存適応症：緑膿菌感染症、髄膜炎菌感染症、腹膜炎、細菌性髄膜炎"
+monitor_inn: "Meropenem"
+predicted_indications: ["bacterial arthritis", "epiglottitis", "staphylococcus aureus infection", "laryngitis", "paratyphoid fever", "urinary tract infection (disease)", "Lyme disease", "Peptostreptococcus infectious disease", "gonococcal urethritis", "Ureaplasma urethritis"]
 ---
 
 # Meropenem

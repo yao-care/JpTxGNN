@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Magnesium：予測新適応症は片頭痛 (Migraine Disorder)（エビデンスレベル L1）。既存適応症：制酸薬、緩下剤、吸着剤（胃・十二指腸潰瘍）"
+monitor_inn: "Magnesium"
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "severe nonproliferative diabetic retinopathy", "bronchitis", "diabetic retinopathy", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "dermatitis", "hyperthyroidism", "rheumatoid arthritis", "dry eye syndrome"]
 ---
 
 # Magnesium

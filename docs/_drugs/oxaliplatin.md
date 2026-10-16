@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 4
 last_modified_at: 2026-10-15
 description: "Oxaliplatin：予測新適応症は悪性胸膜中皮腫 (Malignant Pleural Mesothelioma)（エビデンスレベル L3）。既存適応症：結腸癌の転移"
+monitor_inn: "Oxaliplatin"
+predicted_indications: ["malignant pleural mesothelioma", "malignant epithelioid mesothelioma", "sarcomatoid mesothelioma", "malignant visceral pleura tumor"]
 ---
 
 # Oxaliplatin

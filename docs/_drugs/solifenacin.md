@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Solifenacin：予測新適応症は多発性嚢胞腎 3 型（多発性嚢胞肝を伴う場合を含む）（エビデンスレベル L5）。既存適応症：過活動膀胱"
+monitor_inn: "Solifenacin"
+predicted_indications: ["polycystic kidney disease 3 with or without polycystic liver disease", "thoracic malformation", "renal-hepatic-pancreatic dysplasia", "adult familial nephronophthisis-spastic quadriparesia syndrome", "Joubert syndrome with renal defect", "karyomegalic interstitial nephritis", "low compliance bladder", "polycystic kidney disease", "subarachnoid hemorrhage (disease)", "congenital analbuminemia"]
 ---
 
 # Solifenacin

@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Lemborexant：予測新適応症は入眠・睡眠維持障害 (sleep disorder, initiating and maintaining sleep)（エビデンスレベル L1）。既存適応症：不眠症（承認適応症の本文は、今回のデータでは確認できません）"
+monitor_inn: "Lemborexant"
+predicted_indications: ["sleep disorder, initiating and maintaining sleep"]
 ---
 
 # Lemborexant

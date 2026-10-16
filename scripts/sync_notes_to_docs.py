@@ -122,6 +122,62 @@ def extract_indication_count(content: str, bundle_path: Path) -> int:
     return 0
 
 
+def extra_front_matter(bundle_path: Path, evidence_level: str, indication_count: int, content: str = "") -> str:
+    """2026-10-16：新文獻監測欄位（monitor_inn／predicted_indications，與 .claude/add_monitor_fields.py 同口徑），
+    以及無新預測（證據包空且 L5）頁的 noindex／sitemap: false（與 .claude/url_cleanup_20261016.py 同口徑）。"""
+    lines = []
+    bundle = None
+    if bundle_path.exists():
+        try:
+            with open(bundle_path, encoding="utf-8") as f:
+                bundle = json.load(f)
+        except Exception:
+            bundle = None
+    drug = (bundle or {}).get("drug") or {}
+    names = [p.get("disease_name", "").strip() for p in (drug.get("predicted_indications") or [])]
+    names = [n for n in names if n][:10]
+    inn = (drug.get("inn") or "").strip()
+    if names and inn:
+        lines.append(f"monitor_inn: {json.dumps(inn, ensure_ascii=False)}")
+        lines.append(f"predicted_indications: {json.dumps(names, ensure_ascii=False)}")
+    if bundle is not None and not names and evidence_level == "L5" and not re.search(r"NCT\d{8}|pubmed\.ncbi\.nlm\.nih\.gov/\d+", content):
+        lines += ["noindex: true", "sitemap: false"]
+    return "".join(l + "\n" for l in lines)
+
+
+def finalize_front_matter(page_path: Path, full_content: str, base_dir: Path) -> str:
+    """2026-10-16：補 description（在地語言，見 .claude/drug_meta_description.py）與 last_modified_at
+    （內文沒變就沿用原日期，有變才改成今天；sitemap lastmod 與 JSON-LD dateModified 讀它）。"""
+    import datetime, importlib.util
+    m = re.match(r"---\n(.*?)\n---\n", full_content, re.S)
+    if not m:
+        return full_content
+    fm, body = m.group(1), full_content[m.end():]
+    lines = fm.split("\n")
+    old_date = None
+    if page_path.exists():
+        old = page_path.read_text(encoding="utf-8")
+        om = re.match(r"(?:\ufeff)?---\r?\n(.*?)\r?\n---\r?\n", old, re.S)
+        if om and old[om.end():].replace("\r\n", "\n") == body:
+            d = re.search(r"^last_modified_at:\s*(\S+)", om.group(1), re.M)
+            old_date = d.group(1) if d else None
+    lines.append(f"last_modified_at: {old_date or datetime.date.today().isoformat()}")
+    helper = base_dir.parent / ".claude" / "drug_meta_description.py"
+    if helper.exists() and not re.search(r"^noindex:\s*true", fm, re.M):
+        spec = importlib.util.spec_from_file_location("drug_meta_description", helper)
+        dm = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(dm)
+        title = (re.search(r"^title:\s*(.+)$", fm, re.M) or [None, page_path.stem])[1].strip()
+        lv = (re.search(r"^evidence_level:\s*(L[1-5])", fm, re.M) or [None, ""])[1]
+        rows = dm.summary_rows(body)
+        if rows and lv:
+            orig, pred = dm.clean(rows[0][1], 70), dm.clean(rows[1][1], 70)
+            if pred and orig and pred not in ("無", "None", "-", "なし"):
+                desc = dm.T.get(dm.site_lang(base_dir), dm.T["en"]).format(title=title, pred=pred, lv=lv, orig=orig)
+                lines.append("description: " + json.dumps(desc[:199] + ("…" if len(desc) > 200 else ""), ensure_ascii=False))
+    return "---\n" + "\n".join(lines) + "\n---\n" + body
+
+
 def get_parent_titles(base_dir: Path) -> dict:
     """Map evidence level -> Jekyll parent page title, read from the site's own pages.
 
@@ -210,7 +266,7 @@ parent: {parent}
 nav_order: {i + 10}
 evidence_level: {evidence_level}
 indication_count: {indication_count}
----
+{extra_front_matter(bundle_path, evidence_level, indication_count, content)}---
 
 # {title}
 {{: .fs-9 }}
@@ -237,6 +293,7 @@ indication_count: {indication_count}
 """
 
         full_content = front_matter + content + disclaimer + "\n---\n\n"
+        full_content = finalize_front_matter(docs_drugs_dir / f"{drug_name}.md", full_content, base_dir)
         (docs_drugs_dir / f"{drug_name}.md").write_text(full_content, encoding="utf-8")
         synced += 1
 

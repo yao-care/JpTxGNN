@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Pramipexole：予測新適応症は注意欠如・多動症 (attention deficit-hyperactivity disorder)（エビデンスレベル L4）。既存適応症：パーキンソン病、レストレスレッグス症候群"
+monitor_inn: "Pramipexole"
+predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "attention deficit hyperactivity disorder, inattentive type", "specific developmental disorder", "chondromyxoid fibroma", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "schizophrenia", "atypical glycine encephalopathy"]
 ---
 
 # Pramipexole

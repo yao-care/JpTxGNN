@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Disopyramide：予測新適応症はトゥレット症候群 (Tourette syndrome)（エビデンスレベル L5）。既存適応症：記載なし（日本の承認情報に適応症テキストが含まれていません）"
+monitor_inn: "Disopyramide"
+predicted_indications: ["Tourette syndrome", "attention deficit-hyperactivity disorder", "trichotillomania", "attention deficit hyperactivity disorder, inattentive type", "faciodigitogenital syndrome", "specific developmental disorder", "idiopathic neonatal atrial flutter", "chondromyxoid fibroma", "multifocal atrial tachycardia (disease)", "trigeminal nerve neoplasm"]
 ---
 
 # Disopyramide

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Cyanocobalamin：予測新適応症はビオチン代謝疾患 (biotin metabolic disease)（エビデンスレベル L5）。既存適応症：貧血治療薬、造血薬、ビタミンB12補充薬（甲状腺機能亢進症、広節裂頭条虫症に関連）"
+monitor_inn: "Cyanocobalamin"
+predicted_indications: ["biotin metabolic disease", "inborn error of biotin metabolism", "non-syndromic esophageal malformation", "inflammatory myopathy with abundant macrophages", "idiopathic eosinophilic myositis", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "proteinuria", "focal myositis", "primary CD59 deficiency"]
 ---
 
 # Cyanocobalamin

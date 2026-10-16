@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Phenytoin：予測新適応症は三叉神経腫瘍 (Trigeminal Nerve Neoplasm)（エビデンスレベル L5）。既存適応症：抗てんかん薬"
+monitor_inn: "Phenytoin"
+predicted_indications: ["trigeminal nerve neoplasm", "startle epilepsy", "micturation-induced seizures", "orgasm-induced seizures", "thinking seizures", "eating seizures", "audiogenic seizures", "reading seizures", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
 ---
 
 # Phenytoin

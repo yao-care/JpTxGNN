@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Escitalopram：予測新適応症は気分変調症 (Dysthymic Disorder)（エビデンスレベル L2）。既存適応症：抗うつ薬、選択的セロトニン再取り込み阻害薬"
+monitor_inn: "Escitalopram"
+predicted_indications: ["Ohdo syndrome and variants", "dysthymic disorder", "obsessive-compulsive disorder", "blepharophimosis - intellectual disability syndrome, Ohdo type", "benign paroxysmal torticollis of infancy", "histrionic personality disorder (disease)", "schizotypal personality disorder", "paranoid personality disorder", "schizoid personality disorder", "agoraphobia"]
 ---
 
 # Escitalopram

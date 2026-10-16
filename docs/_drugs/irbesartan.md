@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-15
 description: "Irbesartan：予測新適応症は悪性腎血管性高血圧 (malignant renovascular hypertension)（エビデンスレベル L5）。既存適応症：高血圧症"
+monitor_inn: "irbesartan"
+predicted_indications: ["malignant renovascular hypertension", "malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia"]
 ---
 
 # Irbesartan

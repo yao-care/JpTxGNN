@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Latanoprost：予測新適応症は原発性遺伝性緑内障 (primary hereditary glaucoma)（エビデンスレベル L5）。既存適応症：緑内障（抗緑内障薬、プロスタグランジン F 受容体作動薬）"
+monitor_inn: "Latanoprost"
+predicted_indications: ["primary hereditary glaucoma", "visceral calciphylaxis", "hypotrichosis simplex of the scalp", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "congenital hypotrichosis milia", "angiodysplasia of stomach", "blue toe syndrome", "lymphangiectasis"]
 ---
 
 # Latanoprost

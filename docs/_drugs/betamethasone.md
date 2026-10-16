@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Betamethasone：予測新適応症は円形脱毛症 (Alopecia Areata)（エビデンスレベル L2）。既存適応症：乾癬、掌蹠膿疱症、慢性円板状エリテマトーデス、毛孔性紅色粃糠疹、菌状息肉症、天疱瘡群など（抗炎症薬、鎮痒薬、グルココルチコイド受容体作動薬）"
+monitor_inn: "Betamethasone"
+predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "idiopathic steroid-sensitive nephrotic syndrome", "sporadic idiopathic steroid-resistant nephrotic syndrome"]
 ---
 
 # Betamethasone

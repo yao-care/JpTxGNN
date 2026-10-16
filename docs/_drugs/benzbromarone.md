@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Benzbromarone：予測新適応症は腎性低尿酸血症 (Hypouricemia, Renal)（エビデンスレベル L5）。既存適応症：痛風（尿酸排泄促進薬）"
+monitor_inn: "benzbromarone"
+predicted_indications: ["hypouricemia, renal"]
 ---
 
 # Benzbromarone

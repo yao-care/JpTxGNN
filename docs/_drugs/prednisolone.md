@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Prednisolone：予測新適応症は円形脱毛症 (Alopecia Areata)（エビデンスレベル L2）。既存適応症：乾癬、掌蹠膿疱症（外用製剤）／関節リウマチ、全身性エリテマトーデス、ネフローゼ症候群、気管支喘息など多数（内服製剤）"
+monitor_inn: "Prednisolone"
+predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia antibody deficiency", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "prolapse of lacrimal gland", "idiopathic steroid-sensitive nephrotic syndrome"]
 ---
 
 # Prednisolone

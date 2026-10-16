@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Levothyroxine：予測新適応症は風土病性甲状腺腫 (Endemic Goiter)（エビデンスレベル L3）。既存適応症：甲状腺ホルモン補充薬（甲状腺機能低下症）"
+monitor_inn: "Levothyroxine"
+predicted_indications: ["endemic goiter", "renal hypodysplasia/aplasia", "nodular goiter (disease)", "bilateral renal agenesis", "lingual goiter", "substernal goiter", "dyshormonogenic goiter", "nontoxic goiter", "Potter sequence", "Carney complex"]
 ---
 
 # Levothyroxine

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Adapalene：予測新適応症は血漿亜鉛高値 (zinc, elevated plasma)（エビデンスレベル L5）。既存適応症：尋常性ざ瘡"
+monitor_inn: "Adapalene"
+predicted_indications: ["zinc, elevated plasma"]
 ---
 
 # Adapalene

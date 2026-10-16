@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Trihexyphenidyl：予測新適応症は注意欠如・多動症 (attention deficit-hyperactivity disorder)（エビデンスレベル L4）。既存適応症：パーキンソン病治療薬、ムスカリン受容体拮抗薬（特発性パーキンソニズム、その他のパーキンソニズム）"
+monitor_inn: "Trihexyphenidyl"
+predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "attention deficit hyperactivity disorder, inattentive type", "Rasmussen subacute encephalitis", "PLA2G6-associated neurodegeneration", "congenital disorder of glycosylation with defective fucosylation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "retinal dystrophy with or without extraocular anomalies", "myelitis", "Charcot-Marie-Tooth disease, demyelinating, type 1G"]
 ---
 
 # Trihexyphenidyl

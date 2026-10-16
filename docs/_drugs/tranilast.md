@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Tranilast：予測新適応症は脂漏性角化症 (Seborrheic Keratosis)（エビデンスレベル L5）。既存適応症：気管支喘息、アレルギー性鼻炎、アトピー性皮膚炎（抗アレルギー薬・喘息治療薬・メディエーター遊離抑制薬）"
+monitor_inn: "Tranilast"
+predicted_indications: ["seborrheic keratosis", "seborrheic dermatitis", "polyp of vocal cord", "polyp of middle ear", "polyp of frontal sinus", "polyp of external auditory canal", "epulis", "fibroepithelial polyp", "polyp of ureter", "polyp of vulva"]
 ---
 
 # Tranilast

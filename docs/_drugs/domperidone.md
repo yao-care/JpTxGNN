@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Domperidone：予測新適応症は腎性抗利尿ホルモン不適合分泌症候群 (nephrogenic syndrome of inappropriate antidiuresis)（エビデンスレベル L5）。既存適応症：制吐薬、消化管運動改善薬、ドパミン D2 受容体拮抗薬"
+monitor_inn: "Domperidone"
+predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "Plasmodium falciparum malaria", "common cold", "headache disorder", "allergic urticaria", "trigeminal autonomic cephalalgia", "collagenopathy", "renin-angiotensin-aldosterone system-blocker-induced angioedema", "lymphocytic hypereosinophilic syndrome", "hypertrichosis (disease)"]
 ---
 
 # Domperidone

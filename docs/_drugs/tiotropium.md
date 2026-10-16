@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Tiotropium：予測新適応症は閉塞性肺疾患 (Obstructive Lung Disease)（エビデンスレベル L1）。既存適応症：気管支炎、喘息、内因性喘息、アレルギー性喘息、肺気腫"
+monitor_inn: "Tiotropium"
+predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome", "COPD, severe early onset", "chronic obstructive pulmonary disease", "compensatory emphysema", "interstitial emphysema", "hyperlucent lung", "tracheal stenosis", "susceptibility to respiratory infections associated with CD8alpha chain mutation"]
 ---
 
 # Tiotropium

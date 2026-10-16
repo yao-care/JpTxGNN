@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Amlodipine：予測新適応症は脳幹梗塞 (Brain Stem Infarction)（エビデンスレベル L5）。既存適応症：血圧降下薬、血管拡張薬、カルシウムチャネル遮断薬"
+monitor_inn: "Amlodipine"
+predicted_indications: ["brain stem infarction", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "malignant renovascular hypertension", "cerebral artery occlusion", "Braddock syndrome", "MRI defined brain infarct", "ABri amyloidosis", "intracerebral hemorrhage"]
 ---
 
 # Amlodipine

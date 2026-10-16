@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Dorzolamide：予測新適応症は原発性遺伝性緑内障 (primary hereditary glaucoma)（エビデンスレベル L5）。既存適応症：開放隅角緑内障、高眼圧症"
+monitor_inn: "dorzolamide"
+predicted_indications: ["primary hereditary glaucoma", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "alopecia", "diffuse alopecia areata", "glaucoma 1, open angle", "open angle glaucoma", "congestive heart failure", "acute pulmonary heart disease", "respiratory failure"]
 ---
 
 # Dorzolamide

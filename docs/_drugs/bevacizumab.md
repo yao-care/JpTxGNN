@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Bevacizumab：予測新適応症は喉頭蓋腫瘍 (Epiglottis Neoplasm)（第 1 位）／嚢胞性腫瘍 (Cystic Neoplasm)（エビデンス最多）（エビデンスレベル L5）。既存適応症：腹膜癌、原発性腹膜癌、卵巣悪性上皮性腫瘍、乳癌、結腸の転移性腫瘍、膠芽腫など（日本の承認適応症の記載はなし）"
+monitor_inn: "bevacizumab"
+predicted_indications: ["epiglottis neoplasm", "benign neoplasm of tongue", "tumor of testis and paratestis", "benign neoplasm of hypopharynx", "benign neoplasm of floor of mouth", "cervical neuroblastoma", "cystic neoplasm", "nasal cavity inverting papilloma", "mesenchymoma", "schwannoma of jugular foramen"]
 ---
 
 # Bevacizumab

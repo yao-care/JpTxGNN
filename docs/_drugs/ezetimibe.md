@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Ezetimibe：予測新適応症は高リポタンパク血症 (hyperlipoproteinemia)（エビデンスレベル L1）。既存適応症：脂質異常症治療薬、コレステロール吸収阻害薬（高コレステロール血症、家族性高コレステロール血症、ホモ接合体性シトステロール血症）"
+monitor_inn: "Ezetimibe"
+predicted_indications: ["hyperlipoproteinemia", "familial hypercholesterolemia", "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency", "cholesterol-ester transfer protein deficiency", "HIV infectious disease", "hypercholesterolemia, autosomal dominant", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "hyperlipidemia due to hepatic triglyceride lipase deficiency", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection"]
 ---
 
 # Ezetimibe

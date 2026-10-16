@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Tropicamide：予測新適応症は馬尾症候群 (Cauda Equina Syndrome)（エビデンスレベル L5）。既存適応症：散瞳薬、ムスカリン受容体拮抗薬"
+monitor_inn: "Tropicamide"
+predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome"]
 ---
 
 # Tropicamide

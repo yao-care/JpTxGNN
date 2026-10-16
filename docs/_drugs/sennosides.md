@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Sennosides：予測新適応症は頭皮の単純性乏毛症 (hypotrichosis simplex of the scalp)（エビデンスレベル L5）。既存適応症：下剤"
+monitor_inn: "Sennosides"
+predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "open-angle glaucoma", "primary hereditary glaucoma", "alopecia", "glaucoma 1, open angle", "open angle glaucoma", "esophageal varices with bleeding", "esophageal varices without bleeding"]
 ---
 
 # Sennosides

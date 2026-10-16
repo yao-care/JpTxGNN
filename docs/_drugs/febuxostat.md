@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Febuxostat：予測新適応症は腎性低尿酸血症 (hypouricemia, renal)（エビデンスレベル L4）。既存適応症：痛風"
+monitor_inn: "Febuxostat"
+predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "Lesch-Nyhan syndrome", "hepatoportal sclerosis", "early-onset familial noncirrhotic portal hypertension", "idiopathic copper-associated cirrhosis", "primitive portal vein thrombosis", "hepatopulmonary syndrome", "hepatic porphyria", "disorder of phenylalanine metabolism"]
 ---
 
 # Febuxostat

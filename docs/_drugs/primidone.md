@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Primidone：予測新適応症は三叉神経腫瘍 (trigeminal nerve neoplasm)（エビデンスレベル L5）。既存適応症：点頭てんかん（抗てんかん薬）"
+monitor_inn: "Primidone"
+predicted_indications: ["trigeminal nerve neoplasm", "thinking seizures", "orgasm-induced seizures", "eating seizures", "micturation-induced seizures", "startle epilepsy", "audiogenic seizures", "reading seizures", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
 ---
 
 # Primidone

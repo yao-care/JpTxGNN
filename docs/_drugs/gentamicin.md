@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Gentamicin：予測新適応症は関節リウマチ (Rheumatoid Arthritis)（エビデンスレベル L5）。既存適応症：眼瞼炎、結膜炎（抗生物質・タンパク質合成阻害薬）"
+monitor_inn: "Gentamicin"
+predicted_indications: ["rheumatoid arthritis", "sclerosing cholangitis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "osteoarthritis susceptibility", "diabetic nephropathy", "congenital hypotrichosis milia", "unclassified myelodysplastic syndrome"]
 ---
 
 # Gentamicin

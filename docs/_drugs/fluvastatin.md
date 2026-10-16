@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Fluvastatin：予測新適応症は高リポ蛋白血症 (hyperlipoproteinemia)（エビデンスレベル L5）。既存適応症：高コレステロール血症、家族性高コレステロール血症（脂質異常症治療薬、HMG-CoA 還元酵素阻害薬）"
+monitor_inn: "Fluvastatin"
+predicted_indications: ["hyperlipoproteinemia", "homozygous familial hypercholesterolemia", "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency", "familial hypercholesterolemia", "HIV infectious disease", "cholesterol-ester transfer protein deficiency", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "fibroma of prostate"]
 ---
 
 # Fluvastatin

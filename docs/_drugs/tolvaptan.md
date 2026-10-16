@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Tolvaptan：予測新適応症は多発性嚢胞腎 3 型（多発性嚢胞肝を伴う場合を含む）（エビデンスレベル L2）。既存適応症：利尿薬、バソプレシン V2 受容体拮抗薬（抗利尿ホルモン不適合分泌症候群）"
+monitor_inn: "tolvaptan"
+predicted_indications: ["polycystic kidney disease 3 with or without polycystic liver disease", "renal-hepatic-pancreatic dysplasia", "karyomegalic interstitial nephritis", "thoracic malformation", "Joubert syndrome with renal defect", "adult familial nephronophthisis-spastic quadriparesia syndrome", "Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature"]
 ---
 
 # Tolvaptan

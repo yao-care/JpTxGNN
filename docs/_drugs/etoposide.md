@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Etoposide：予測新適応症はユーイング肉腫 (Ewing sarcoma)（エビデンスレベル L1）。既存適応症：小細胞肺癌、精巣腫瘍（胚細胞腫瘍、セミノーマ、卵黄嚢腫瘍、奇形腫など）"
+monitor_inn: "Etoposide"
+predicted_indications: ["well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "Ewing sarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma"]
 ---
 
 # Etoposide

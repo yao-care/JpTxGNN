@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Pergolide：予測新適応症はフコシル化欠損を伴う先天性糖鎖修飾異常症（エビデンスレベル L5）。既存適応症：パーキンソン病"
+monitor_inn: "Pergolide"
+predicted_indications: ["congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "schizophrenia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia X-linked", "atypical glycine encephalopathy", "myopia 26, X-linked, female-limited", "hydranencephaly (disease)", "syndromic myopia"]
 ---
 
 # Pergolide

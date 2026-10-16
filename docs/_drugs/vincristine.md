@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Vincristine：予測新適応症は神経節芽腫 (Ganglioneuroblastoma)（エビデンスレベル L5）。既存適応症：急性リンパ芽球性白血病、ホジキンリンパ腫、非ホジキンリンパ腫、マントル細胞リンパ腫、ランゲルハンス細胞組織球症など"
+monitor_inn: "Vincristine"
+predicted_indications: ["ganglioneuroblastoma (disease)", "vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm"]
 ---
 
 # Vincristine

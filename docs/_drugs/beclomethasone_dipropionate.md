@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Beclomethasone Dipropionate：予測新適応症はアトピー性湿疹 (Atopic Eczema)（エビデンスレベル L3）。既存適応症：喘息、アレルギー性鼻炎、血管運動性鼻炎、鼻茸"
+monitor_inn: "Beclomethasone dipropionate"
+predicted_indications: ["atopic eczema", "bronchitis", "2-hydroxyethyl methacrylate sensitization", "polyp of vocal cord", "polyp of middle ear", "fibroepithelial polyp", "uterine polyp", "polyp of frontal sinus", "seborrheic dermatitis", "polyp of ureter"]
 ---
 
 # Beclomethasone Dipropionate

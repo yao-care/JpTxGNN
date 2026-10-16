@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Lactulose：予測新適応症は閉塞性黄疸 (Obstructive Jaundice)（TxGNN 第3位。第1位の急性尿酸腎症は根拠となる研究がないため評価対象外）（エビデンスレベル L3）。既存適応症：高アンモニア血症治療薬、緩下剤"
+monitor_inn: "Lactulose"
+predicted_indications: ["acute urate nephropathy", "nephrolithiasis", "obstructive jaundice", "bile duct disease", "biliary tract disease", "hyperphosphatemia (disease)", "exercise-induced malignant hyperthermia", "bile duct neoplasm", "iron deficiency anemia", "opiate dependence"]
 ---
 
 # Lactulose

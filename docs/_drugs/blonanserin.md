@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-15
 description: "Blonanserin：予測新適応症は眼外異常を伴う…（エビデンスレベル L5）。既存適応症：統合失調症"
+monitor_inn: "Blonanserin"
+predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "hydranencephaly (disease)", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "syndromic myopia", "myopia X-linked", "atypical glycine encephalopathy", "myopia 26, X-linked, female-limited"]
 ---
 
 # Blonanserin

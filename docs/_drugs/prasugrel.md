@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Prasugrel：予測新適応症は肺高血圧症 (Pulmonary Hypertension)（エビデンスレベル L5）。既存適応症：狭心症、心筋梗塞（血小板凝集抑制薬、P2Y12 阻害薬）"
+monitor_inn: "Prasugrel"
+predicted_indications: ["pulmonary hypertension", "migraine disorder", "migraine with brainstem aura", "kyphoscoliotic heart disease", "rheumatoid arthritis", "homozygous familial hypercholesterolemia", "hypoalphalipoproteinemia", "migraine with or without aura, susceptibility to", "brachydactyly-syndactyly syndrome", "leprosy"]
 ---
 
 # Prasugrel

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Lorlatinib：予測新適応症は遺伝性歯肉線維腫症 (fibromatosis, gingival)（エビデンスレベル L5）。既存適応症：非小細胞肺癌（ALK 陽性）"
+monitor_inn: "Lorlatinib"
+predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung hilum carcinoma", "lung benign neoplasm", "lung germ cell tumor", "pulmonary sulcus neoplasm", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "junctional epidermolysis bullosa", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
 ---
 
 # Lorlatinib

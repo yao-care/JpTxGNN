@@ -2,24 +2,109 @@
 """
 Check ClinicalTrials.gov for new clinical trials related to our drug list.
 Creates GitHub Issues when new trials are found.
+
+NOTE: Filters out known/approved indications to focus on repurposing evidence.
 """
 
 import json
 import os
+import re
 import time
 from datetime import datetime, timedelta
 from pathlib import Path
 
 import requests
 
-from github_utils import create_issue, issue_exists, close_older_clinicaltrials_issues
+from github_utils import create_issue, close_older_clinicaltrials_issues
+
+
+def is_known_indication(approved_indication: str, predicted_indication: str) -> bool:
+    """Check if predicted indication overlaps with approved indication.
+
+    Uses keyword matching to detect if the predicted indication is likely
+    already approved for the drug.
+    """
+    if not approved_indication or not predicted_indication:
+        return False
+
+    approved_lower = approved_indication.lower()
+    predicted_lower = predicted_indication.lower()
+
+    # Extract meaningful keywords from predicted indication
+    cleaned = re.sub(r'\s*\(disease\)\s*', ' ', predicted_lower)
+    cleaned = re.sub(r'\s*\(disorder\)\s*', ' ', cleaned)
+    cleaned = re.sub(r'[^\w\s]', ' ', cleaned)
+
+    words = cleaned.split()
+
+    # Generic medical terms that are too broad for matching
+    generic_terms = {
+        'disease', 'disorder', 'syndrome', 'type', 'of', 'the', 'and', 'or',
+        'with', 'due', 'to', 'in', 'by', 'for', 'as', 'is', 'a', 'an',
+        'primary', 'secondary', 'chronic', 'acute', 'severe', 'mild',
+        'familial', 'hereditary', 'congenital', 'acquired', 'idiopathic',
+        'cancer', 'tumor', 'carcinoma', 'neoplasm', 'infection', 'infectious',
+        'deficiency', 'failure', 'insufficiency', 'inflammation',
+        'cell', 'cells', 'blood', 'bone', 'muscle', 'nerve', 'skin',
+    }
+
+    # Keep important acronyms even if short
+    important_acronyms = {
+        'hiv', 'aids', 'copd', 'adhd', 'als', 'ms', 'ibd', 'ibs',
+        'hcv', 'hbv', 'tb', 'ra', 'sle', 'ckd', 'chf', 'cad',
+    }
+
+    # Expanded forms for acronyms
+    expanded_terms = {
+        'hiv': 'immunodeficiency virus',
+        'aids': 'acquired immunodeficiency',
+        'copd': 'chronic obstructive pulmonary',
+        'adhd': 'attention deficit',
+        'als': 'amyotrophic lateral sclerosis',
+    }
+
+    keywords = []
+    for w in words:
+        w_lower = w.lower()
+        if w_lower in important_acronyms:
+            keywords.append(w_lower)
+        elif w_lower not in generic_terms and len(w) > 4:
+            keywords.append(w_lower)
+
+    if not keywords:
+        return False
+
+    # Check if specific keywords appear in approved indication
+    matches = 0
+    for kw in keywords:
+        pattern = r'\b' + re.escape(kw) + r'\b'
+        if re.search(pattern, approved_lower):
+            matches += 1
+        elif kw in expanded_terms:
+            if expanded_terms[kw] in approved_lower:
+                matches += 1
+
+    # Need majority of specific keywords to match
+    if len(keywords) >= 2 and matches >= len(keywords) * 0.6:
+        return True
+
+    # Single very specific keyword match
+    for kw in keywords:
+        if len(kw) > 8:
+            pattern = r'\b' + re.escape(kw) + r'\b'
+            if re.search(pattern, approved_lower):
+                return True
+        elif kw in expanded_terms and expanded_terms[kw] in approved_lower:
+            return True
+
+    return False
 
 # Configuration
 API_BASE = "https://clinicaltrials.gov/api/v2/studies"
 CACHE_FILE = Path(__file__).parent.parent / "data" / "cache" / "clinicaltrials_cache.json"
 DRUG_LIST_FILE = Path(__file__).parent / "drug_list.json"
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN")
-GITHUB_REPO = os.environ.get("GITHUB_REPOSITORY", "yao-care/JpTxGNN")
+GITHUB_REPO = os.environ.get("GITHUB_REPOSITORY", "yao-care/EuTxGNN")
 RATE_LIMIT_DELAY = 0.5  # seconds between API calls
 
 
@@ -73,8 +158,16 @@ def _role_bound(study: dict, drug_name: str) -> bool:
             return True
     return False
 
-def search_trials(drug_name: str, days_back: int = 7) -> list:
-    """Search for trials updated in the last N days."""
+def _clean_condition(name: str) -> str:
+    name = re.sub(r"\s*\((disease|disorder)\)\s*", " ", name, flags=re.I)
+    return re.sub(r"\s+", " ", name).strip().replace('"', "")
+
+
+def search_trials(drug_name: str, days_back: int = 7, conditions: list = None) -> list:
+    """Search for trials updated in the last N days.
+
+    2026-10-16：conditions 給預測新適應症時，只抓「藥＋這些疾病」的試驗。
+    """
     min_date = (datetime.now() - timedelta(days=days_back)).strftime("%Y-%m-%d")
 
     params = {
@@ -83,9 +176,19 @@ def search_trials(drug_name: str, days_back: int = 7) -> list:
         "pageSize": 50,
         "fields": "NCTId,BriefTitle,OverallStatus,Phase,EnrollmentCount,Condition,LastUpdatePostDate,InterventionName,InterventionType,InterventionOtherName"
     }
+    # ClinicalTrials.gov 對過長片語回 400「Too complicated query」：略過超過 6 個字的疾病名
+    conds = [f'"{_clean_condition(c)}"' for c in (conditions or [])
+             if len(_clean_condition(c)) > 3 and len(_clean_condition(c).split()) <= 6]
+    if conditions and not conds:
+        return []
+    if conds:
+        params["query.cond"] = " OR ".join(conds)
 
     try:
         response = requests.get(API_BASE, params=params, timeout=30)
+        if response.status_code == 400 and len(conds) > 3:
+            params["query.cond"] = " OR ".join(conds[:3])
+            response = requests.get(API_BASE, params=params, timeout=30)
         response.raise_for_status()
         data = response.json()
         return [s for s in data.get("studies", []) if _role_bound(s, drug_name)]
@@ -94,13 +197,17 @@ def search_trials(drug_name: str, days_back: int = 7) -> list:
         return []
 
 
-def create_github_issue(drug_name: str, new_trials: list):
+def create_github_issue(drug_name: str, new_trials: list, indications: list = None):
     """Create a GitHub Issue for new trials found."""
+    indications = indications or []
+    ind_label = "; ".join(indications[:2]) + (" …" if len(indications) > 2 else "")
     title = f"🔬 新臨床試驗：{drug_name} ({len(new_trials)} 筆)"
+    if ind_label:
+        title += f" → {ind_label}"  # 接在數量後面，github_utils 以「：…(」擷取藥名才對得上
 
     if not GITHUB_TOKEN:
         print(f"[DRY RUN] Would create issue for {drug_name} with {len(new_trials)} new trials")
-        for trial in new_trials[:3]:  # Show first 3
+        for trial in new_trials[:3]:
             nct_id = trial.get("protocolSection", {}).get("identificationModule", {}).get("nctId", "Unknown")
             brief_title = trial.get("protocolSection", {}).get("identificationModule", {}).get("briefTitle", "Unknown")
             print(f"  - {nct_id}: {brief_title[:60]}...")
@@ -127,38 +234,44 @@ def create_github_issue(drug_name: str, new_trials: list):
 
         trial_details.append(
             f"### {nct_id}\n"
-            f"- **標題**: {brief_title}\n"
-            f"- **狀態**: {status}\n"
-            f"- **階段**: {phase}\n"
-            f"- **人數**: {enrollment}\n"
-            f"- **連結**: https://clinicaltrials.gov/study/{nct_id}\n"
+            f"- **Title**: {brief_title}\n"
+            f"- **Status**: {status}\n"
+            f"- **Phase**: {phase}\n"
+            f"- **Enrollment**: {enrollment}\n"
+            f"- **Link**: https://clinicaltrials.gov/study/{nct_id}\n"
         )
 
-    body = f"""## 🔬 自動偵測到新臨床試驗
+    body = f"""## 🔬 New Clinical Trials Detected
 
-此 Issue 由 GitHub Actions 自動建立。
+This issue was automatically created by GitHub Actions.
 
-### 藥物名稱
+### Drug Name
 {drug_name}
 
-### 資料來源
+### Predicted New Indication(s)
+{chr(10).join("- " + x for x in indications) if indications else "-"}
+
+### NCT IDs
+{", ".join(t.get("protocolSection", {}).get("identificationModule", {}).get("nctId", "") for t in new_trials)}
+
+### Data Source
 ClinicalTrials.gov
 
-### 證據類型
-新臨床試驗
+### Evidence Type
+New/Updated Clinical Trials
 
-### 詳細資訊
-發現 **{len(new_trials)}** 個新的或更新的臨床試驗：
+### Details
+Found **{len(new_trials)}** new or updated clinical trials:
 
 {"".join(trial_details)}
 
-### 建議行動
-- [ ] 檢視臨床試驗內容
-- [ ] 評估是否需要更新藥物報告證據等級
-- [ ] 新增臨床試驗資訊到報告
+### Suggested Actions
+- [ ] Review trial details
+- [ ] Evaluate if drug report evidence level needs updating
+- [ ] Add trial information to report
 
 ---
-*自動偵測時間：{datetime.now().strftime('%Y-%m-%d %H:%M:%S')} UTC*
+*Auto-detected at: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')} UTC*
 """
 
     # Create the issue with deduplication check
@@ -169,6 +282,7 @@ ClinicalTrials.gov
 def main():
     print("=" * 60)
     print("ClinicalTrials.gov Evidence Checker")
+    print("(Filtering out known/approved indications)")
     print(f"Started at: {datetime.now().isoformat()}")
     print("=" * 60)
 
@@ -182,13 +296,26 @@ def main():
     # Check each drug
     new_findings = []
     seen_trials = cache.get("seen_trials", {})
+    skipped_known = 0
 
     for i, drug in enumerate(drugs):
         drug_name = drug["name"]
+        predicted_indication = drug.get("predicted_indication", "")
+        approved_indication = drug.get("approved_indication", "")
+
+        # Skip if predicted indication is a known/approved indication
+        if predicted_indication and approved_indication:
+            if is_known_indication(approved_indication, predicted_indication):
+                skipped_known += 1
+                continue
+
         print(f"\n[{i+1}/{len(drugs)}] Checking: {drug_name}")
 
-        trials = search_trials(drug_name, days_back=7)
-        time.sleep(RATE_LIMIT_DELAY)  # Rate limiting
+        predicted = drug.get("predicted_indications") or []
+        if not predicted or not drug.get("inn"):
+            continue
+        trials = search_trials(drug["inn"], days_back=7, conditions=predicted)
+        time.sleep(RATE_LIMIT_DELAY)
 
         if not trials:
             continue
@@ -206,17 +333,18 @@ def main():
 
         if new_trials:
             # Skip issue creation for initial discovery (first time seeing this drug)
-            # Only create issues for truly new trials after baseline is established
             if is_initial_discovery:
-                print(f"  Initial discovery: {len(new_trials)} trials (no issue created, baseline established)")
-            # Skip if only 1 trial - too noisy, wait for more evidence
+                print(f"  Initial discovery: {len(new_trials)} trials (baseline established)")
+            # Skip if only 1 trial - wait for more evidence
             elif len(new_trials) < 2:
-                print(f"  Only {len(new_trials)} trial found - below threshold, skipping issue")
+                print(f"  Only {len(new_trials)} trial found - below threshold")
             else:
                 print(f"  Found {len(new_trials)} new trials!")
+                conds = " ".join(" ".join(t.get("protocolSection", {}).get("conditionsModule", {}).get("conditions", [])) for t in new_trials).lower()
                 new_findings.append({
                     "drug": drug_name,
-                    "trials": new_trials
+                    "trials": new_trials,
+                    "indications": [x for x in predicted if _clean_condition(x).lower() in conds] or predicted,
                 })
 
         # Update seen trials
@@ -228,12 +356,15 @@ def main():
 
     # Create issues for new findings
     print("\n" + "=" * 60)
-    print("Creating Issues for New Findings")
+    print("Summary")
     print("=" * 60)
+    print(f"Skipped (known indications): {skipped_known}")
 
     if new_findings:
+        print(f"New findings: {len(new_findings)}")
+        print("\nCreating Issues...")
         for finding in new_findings:
-            create_github_issue(finding["drug"], finding["trials"])
+            create_github_issue(finding["drug"], finding["trials"], finding["indications"])
     else:
         print("No new trials found.")
 

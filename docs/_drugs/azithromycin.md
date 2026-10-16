@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Azithromycin：予測新適応症は高アミラーゼ血症 (Hyperamylasemia)（エビデンスレベル L5）。既存適応症：歯周組織炎、MAC症、結膜炎、眼瞼炎"
+monitor_inn: "Azithromycin"
+predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "punctate epithelial keratoconjunctivitis", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder"]
 ---
 
 # Azithromycin

@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 6
 last_modified_at: 2026-10-15
 description: "Adalimumab：予測新適応症は関節リウマチ性血管炎 (Rheumatoid Vasculitis)（エビデンスレベル L4）。既存適応症：クローン病、潰瘍性大腸炎、関節リウマチ、乾癬性関節炎、強直性脊椎炎、若年性特発性関節炎、化膿性汗腺炎、非感染性ぶどう膜炎など"
+monitor_inn: "Adalimumab"
+predicted_indications: ["rheumatoid vasculitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "polyarticular juvenile rheumatoid arthritis", "vertebral disease"]
 ---
 
 # Adalimumab

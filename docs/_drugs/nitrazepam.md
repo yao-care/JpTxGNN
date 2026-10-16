@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Nitrazepam：予測新適応症は睡眠障害（入眠・睡眠維持障害） (sleep disorder, initiating and maintaining sleep)（エビデンスレベル L3）。既存適応症：不眠症、点頭てんかん（抗けいれん薬、催眠鎮静薬）"
+monitor_inn: "nitrazepam"
+predicted_indications: ["sleep disorder, initiating and maintaining sleep", "acute encephalopathy with biphasic seizures and late reduced diffusion", "Wernicke-Korsakoff syndrome"]
 ---
 
 # Nitrazepam

@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Ondansetron：予測新適応症はトゥレット症候群 (Tourette syndrome)（エビデンスレベル L2）。既存適応症：制吐薬、セロトニン5-HT3受容体拮抗薬"
+monitor_inn: "Ondansetron"
+predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome", "trichotillomania", "histrionic personality disorder (disease)", "schizotypal personality disorder", "schizoid personality disorder", "paranoid personality disorder", "common cold", "allergic urticaria", "acute intermittent porphyria"]
 ---
 
 # Ondansetron

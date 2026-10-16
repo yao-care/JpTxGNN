@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Ponatinib：予測新適応症は歯肉線維腫症 (Fibromatosis, Gingival)（エビデンスレベル L5）。既存適応症：慢性骨髄性白血病（BCR-ABL1 陽性）"
+monitor_inn: "Ponatinib"
+predicted_indications: ["fibromatosis, gingival", "liposarcoma"]
 ---
 
 # Ponatinib

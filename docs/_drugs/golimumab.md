@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Golimumab：予測新適応症はリウマチ性血管炎 (Rheumatoid Vasculitis)（エビデンスレベル L4）。既存適応症：関節リウマチ（ほか乾癬性関節炎、強直性脊椎炎、潰瘍性大腸炎など）"
+monitor_inn: "Golimumab"
+predicted_indications: ["rheumatoid vasculitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "polyarticular juvenile rheumatoid arthritis"]
 ---
 
 # Golimumab

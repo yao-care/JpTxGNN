@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 2
 last_modified_at: 2026-10-15
 description: "Ebastine：予測新適応症は冠動脈疾患 (Coronary Artery Disease)（エビデンスレベル L5）。既存適応症：アレルギー性鼻炎（抗アレルギー薬・鎮痒薬・H1受容体拮抗薬）"
+monitor_inn: "Ebastine"
+predicted_indications: ["coronary artery disease", "myocardial ischemia"]
 ---
 
 # Ebastine

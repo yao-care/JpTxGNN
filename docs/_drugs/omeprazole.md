@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Omeprazole：予測新適応症は十二指腸胃逆流 (duodenogastric reflux)（エビデンスレベル L3）。既存適応症：胃潰瘍、十二指腸潰瘍、吻合部潰瘍、逆流性食道炎、非びらん性胃食道逆流症、Zollinger-Ellison 症候群…"
+monitor_inn: "Omeprazole"
+predicted_indications: ["duodenogastric reflux", "duodenal obstruction", "active peptic ulcer disease", "gastrojejunal ulcer", "peptic ulcer perforation", "abnormality of glucagon secretion", "gastroduodenitis", "Smouldering systemic mastocytosis", "lymphoadenopathic mastocytosis with eosinophilia", "duodenitis"]
 ---
 
 # Omeprazole

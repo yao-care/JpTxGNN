@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Metoclopramide：予測新適応症は胃潰瘍 (Gastric Ulcer)（エビデンスレベル L4）。既存適応症：制吐薬、消化管運動改善薬、ドパミン D2 受容体拮抗薬（胃・十二指腸潰瘍）"
+monitor_inn: "Metoclopramide"
+predicted_indications: ["gastric ulcer (disease)", "gastroduodenitis", "peptic ulcer disease", "peptic ulcer perforation", "gastrojejunal ulcer", "duodenal obstruction", "achlorhydria", "hiatus hernia (disease)", "Dieulafoy lesion", "cascade stomach"]
 ---
 
 # Metoclopramide

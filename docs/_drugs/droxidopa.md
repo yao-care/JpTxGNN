@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Droxidopa：予測新適応症は変異プロテアーゼ感受性プリオノパチー (Variably protease-sensitive prionopathy)（エビデンスレベル L5）。既存適応症：パーキンソン病治療薬、ノルアドレナリン補充薬（パーキンソン病、シャイ・ドレーガー症候群、家族性アミロイドポリニューロパチー）"
+monitor_inn: "Droxidopa"
+predicted_indications: ["variably protease-sensitive prionopathy"]
 ---
 
 # Droxidopa

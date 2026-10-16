@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Danazol：予測新適応症は無月経 (Amenorrhea)（エビデンスレベル L3）。既存適応症：子宮内膜症、子宮の子宮内膜症、乳腺線維嚢胞症"
+monitor_inn: "Danazol"
+predicted_indications: ["amenorrhea (disease)", "benign mammary dysplasia", "blunt duct adenosis of breast", "apocrine adenosis of breast", "breast abscess", "fat necrosis of breast", "lactation disease", "breast adenosis", "vulvovaginitis", "vulvitis"]
 ---
 
 # Danazol

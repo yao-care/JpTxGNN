@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-15
 description: "Galantamine：予測新適応症は心因性運動障害 (Psychogenic Movement Disorders)（エビデンスレベル L5）。既存適応症：認知症治療薬、アセチルコリンエステラーゼ阻害薬"
+monitor_inn: "Galantamine"
+predicted_indications: ["psychogenic movement disorders", "chronic tic disorder", "primary orthostatic tremor", "extrapyramidal and movement disease", "benign shuddering attacks", "tremor-nystagmus-duodenal ulcer syndrome", "lingual-facial-buccal dyskinesia", "benign paroxysmal tonic upgaze of childhood with ataxia", "acute intermittent porphyria"]
 ---
 
 # Galantamine

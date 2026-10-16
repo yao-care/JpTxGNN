@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Famotidine：予測新適応症は十二指腸胃逆流 (duodenogastric reflux)（エビデンスレベル L3）。既存適応症：胃潰瘍、十二指腸潰瘍、吻合部潰瘍、逆流性食道炎、Zollinger-Ellison 症候群（消化性潰瘍薬、H2 受容体拮抗薬）"
+monitor_inn: "Famotidine"
+predicted_indications: ["duodenogastric reflux", "duodenal obstruction", "active peptic ulcer disease"]
 ---
 
 # Famotidine

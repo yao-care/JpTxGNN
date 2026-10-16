@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-15
 description: "Itopride：予測新適応症は小腸クローン病 (small bowel Crohn disease)（エビデンスレベル L5）。既存適応症：消化管運動改善薬、ドパミン受容体拮抗薬"
+monitor_inn: "Itopride"
+predicted_indications: ["small bowel Crohn disease", "venous insufficiency (disease)", "achlorhydria", "hiatus hernia (disease)"]
 ---
 
 # Itopride

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Oseltamivir：予測新適応症は腎盂腎炎 (Pyelonephritis)（エビデンスレベル L5）。既存適応症：抗ウイルス薬、ノイラミニダーゼ阻害薬"
+monitor_inn: "Oseltamivir"
+predicted_indications: ["pyelonephritis", "disorder of tyrosine metabolism", "teratogenic Pierre Robin syndrome", "disorder of phenylalanine metabolism", "tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuria", "staphylococcus aureus infection", "cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency", "pneumonia", "streptococcal pneumonia", "aspergillosis, susceptibility to"]
 ---
 
 # Oseltamivir

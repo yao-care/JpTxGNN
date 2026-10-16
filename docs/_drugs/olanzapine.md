@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Olanzapine：予測新適応症は良性乳児発作性斜頸 (benign paroxysmal torticollis of infancy)（エビデンスレベル L5）。既存適応症：統合失調症、双極性障害"
+monitor_inn: "Olanzapine"
+predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "dysthymic disorder", "distal 17p13.3 microdeletion syndrome", "neurotic disorder", "neurotic depression", "melancholia", "retinal dystrophy with or without extraocular anomalies", "Ohdo syndrome and variants", "childhood apraxia of speech"]
 ---
 
 # Olanzapine

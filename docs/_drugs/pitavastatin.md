@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Pitavastatin：予測新適応症はホモ接合体家族性高コレステロール血症 (homozygous familial hypercholesterolemia)（エビデンスレベル L5）。既存適応症：脂質異常症治療薬、HMG-CoA 還元酵素阻害薬"
+monitor_inn: "Pitavastatin"
+predicted_indications: ["homozygous familial hypercholesterolemia", "hyperlipoproteinemia", "familial hypercholesterolemia", "cholesterol-ester transfer protein deficiency", "hypercholesterolemia, autosomal dominant", "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "hyperlipidemia due to hepatic triglyceride lipase deficiency", "simian immunodeficiency virus infection"]
 ---
 
 # Pitavastatin

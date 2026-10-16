@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Goserelin：予測新適応症は無月経 (Amenorrhea)（エビデンスレベル L3）。既存適応症：子宮内膜症"
+monitor_inn: "Goserelin"
+predicted_indications: ["amenorrhea (disease)", "renal hypoplasia (disease)", "renal hypoplasia, bilateral"]
 ---
 
 # Goserelin

@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Sunitinib：予測新適応症は脂肪肉腫 (Liposarcoma)（エビデンスレベル L2）。既存適応症：抗悪性腫瘍薬、血管新生阻害薬、受容体型チロシンキナーゼ阻害薬"
+monitor_inn: "Sunitinib"
+predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "unclassified renal cell carcinoma", "renal cell carcinoma associated with neuroblastoma", "dermatofibrosarcoma protuberans", "childhood kidney cell carcinoma", "angiolipoma", "renal carcinoma", "heart fibrosarcoma"]
 ---
 
 # Sunitinib

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Ascorbic Acid：予測新適応症は非症候性食道奇形 (Non-syndromic esophageal malformation)（エビデンスレベル L5）。既存適応症：アスコルビン酸欠乏症、壊血病"
+monitor_inn: "Ascorbic acid"
+predicted_indications: ["non-syndromic esophageal malformation", "esophageal disease", "congenital prothrombin deficiency", "injury", "biotin metabolic disease", "florid cemento-osseous dysplasia", "perinatal disease", "segmental odontomaxillary dysplasia", "disease by subcellular system affected", "vitamin deficiency disorder"]
 ---
 
 # Ascorbic Acid

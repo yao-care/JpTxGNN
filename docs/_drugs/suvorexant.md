@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Suvorexant：予測新適応症は入眠・睡眠維持障害 (sleep disorder, initiating and maintaining sleep)（エビデンスレベル L1）。既存適応症：不眠症"
+monitor_inn: "Suvorexant"
+predicted_indications: ["sleep disorder, initiating and maintaining sleep"]
 ---
 
 # Suvorexant

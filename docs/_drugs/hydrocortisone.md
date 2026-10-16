@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Hydrocortisone：予測新適応症は円形脱毛症 (Alopecia Areata)（エビデンスレベル L3）。既存適応症：副腎皮質機能不全、アジソン病、クローン病、自己免疫疾患など"
+monitor_inn: "Hydrocortisone"
+predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo", "idiopathic steroid-sensitive nephrotic syndrome"]
 ---
 
 # Hydrocortisone

@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 3
 last_modified_at: 2026-10-15
 description: "Topiroxostat：予測新適応症は腎性低尿酸血症 (hypouricemia, renal)（エビデンスレベル L4）。既存適応症：高尿酸血症、痛風"
+monitor_inn: "Topiroxostat"
+predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "Lesch-Nyhan syndrome"]
 ---
 
 # Topiroxostat

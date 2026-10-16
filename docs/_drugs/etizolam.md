@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-10-15
 description: "Etizolam：予測新適応症は不眠症 (insomnia)（エビデンスレベル L4）。既存適応症：不安（anxiety）"
+monitor_inn: "Etizolam"
+predicted_indications: ["insomnia (disease)"]
 ---
 
 # Etizolam

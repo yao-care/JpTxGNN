@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Warfarin：予測新適応症は血栓性素因 (Thrombophilia)（エビデンスレベル L5）。既存適応症：抗凝固薬、ビタミンK拮抗薬"
+monitor_inn: "Warfarin"
+predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombophilia", "rheumatoid arthritis", "breast fibrocystic disease", "benign mammary dysplasia", "apocrine adenosis of breast", "blunt duct adenosis of breast", "migraine disorder"]
 ---
 
 # Warfarin

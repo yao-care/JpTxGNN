@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Loxoprofen：予測新適応症はコロボーマ性小眼球症－根肢近位型異形成症候群 (colobomatous microphthalmia-rhizomelic dyspla…（エビデンスレベル L5）。既存適応症：関節リウマチ"
+monitor_inn: "Loxoprofen"
+predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "osteoarthritis susceptibility", "heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "WHIM syndrome"]
 ---
 
 # Loxoprofen

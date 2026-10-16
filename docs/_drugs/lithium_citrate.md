@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Lithium Citrate：予測新適応症はMalan 過成長症候群 (Malan overgrowth syndrome)（エビデンスレベル L5）。既存適応症：躁病および躁うつ病の躁状態"
+monitor_inn: "Lithium citrate"
+predicted_indications: ["Malan overgrowth syndrome", "distal 17p13.3 microdeletion syndrome", "obesity disorder", "restless legs syndrome", "hydrops-lactic acidosis-sideroblastic anemia-multisystemic failure syndrome", "hypervitaminosis", "rheumatoid arthritis", "trichotillomania", "striatal degeneration, autosomal dominant", "proximal 16p11.2 microdeletion syndrome"]
 ---
 
 # Lithium Citrate

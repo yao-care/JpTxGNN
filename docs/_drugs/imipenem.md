@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Imipenem：予測新適応症はびまん性強皮症 (Diffuse Scleroderma)（エビデンスレベル L5）。既存適応症：細菌性肺炎、腹膜炎、感染性心内膜炎、細菌性関節炎、子宮内膜炎など"
+monitor_inn: "Imipenem"
+predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "sinusitis", "chronic rhinosinusitis", "typhoid fever", "chronic ethmoidal sinusitis", "paranasal sinus neoplasm (disease)", "staphylococcus aureus infection", "eosinophilia-myalgia syndrome"]
 ---
 
 # Imipenem

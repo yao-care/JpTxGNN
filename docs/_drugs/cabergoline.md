@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 5
 last_modified_at: 2026-10-15
 description: "Cabergoline：予測新適応症は下垂体癌 (Pituitary Cancer)（エビデンスレベル L3）。既存適応症：高プロラクチン血症、プロラクチン産生下垂体腫瘍"
+monitor_inn: "Cabergoline"
+predicted_indications: ["pituitary adenocarcinoma (disease)", "progeria-short stature-pigmented nevi syndrome", "pituitary cancer", "cerebral palsy, spastic quadriplegic", "glaucoma"]
 ---
 
 # Cabergoline

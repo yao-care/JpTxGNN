@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Candesartan：予測新適応症は片頭痛 (migraine disorder)（エビデンスレベル L2）。既存適応症：血圧降下薬、アンジオテンシンII受容体拮抗薬"
+monitor_inn: "Candesartan"
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "pulmonary hypertension", "Prinzmetal angina", "kyphoscoliotic heart disease", "atrophoderma vermiculata", "ulerythema ophryogenesis", "benign prostatic hyperplasia (disease)", "alopecia"]
 ---
 
 # Candesartan

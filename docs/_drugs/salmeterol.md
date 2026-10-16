@@ -7,6 +7,8 @@ evidence_level: L1
 indication_count: 7
 last_modified_at: 2026-10-15
 description: "Salmeterol：予測新適応症は気管支炎 (Bronchitis)（エビデンスレベル L1）。既存適応症：肺気腫、内因性喘息、アレルギー性喘息（承認文書の適応症テキストは今回のデータにありません）"
+monitor_inn: "Salmeterol"
+predicted_indications: ["bronchitis", "respiratory malformation", "obstructive lung disease", "Rienhoff syndrome", "asthma", "asthma-related traits, susceptibility to", "atopic eczema"]
 ---
 
 # Salmeterol

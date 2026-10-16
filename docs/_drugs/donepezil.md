@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 8
 last_modified_at: 2026-10-15
 description: "Donepezil：予測新適応症は慢性チック症 (Chronic Tic Disorder)（エビデンスレベル L3）。既存適応症：アルツハイマー型認知症、レビー小体型認知症"
+monitor_inn: "Donepezil"
+predicted_indications: ["psychogenic movement disorders", "chronic tic disorder", "primary orthostatic tremor", "benign shuddering attacks", "extrapyramidal and movement disease", "tremor-nystagmus-duodenal ulcer syndrome", "benign paroxysmal tonic upgaze of childhood with ataxia", "lingual-facial-buccal dyskinesia"]
 ---
 
 # Donepezil
