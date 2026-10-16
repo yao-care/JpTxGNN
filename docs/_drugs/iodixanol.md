@@ -1,6 +1,4 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Iodixanol
 parent: モデル予測のみ (L5)

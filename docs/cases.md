@@ -137,7 +137,7 @@ JpTxGNN は日本の医療用医薬品に対して、以下のような予測を
 
 1. Pushpakom S, et al. "Drug repurposing: progress, challenges and recommendations" Nature Reviews Drug Discovery (2019)
 
-2. Huang K, et al. "A foundation model for clinician-centered drug repurposing" Nature Medicine (2023)
+2. Huang K, et al. "A foundation model for clinician-centered drug repurposing" Nature Medicine (2024)
 
 ### 日本語リソース
 

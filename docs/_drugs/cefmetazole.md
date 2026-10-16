@@ -1,6 +1,4 @@
 ---
-noindex: true
-sitemap: false
 layout: default
 title: Cefmetazole
 parent: モデル予測のみ (L5)

@@ -42,11 +42,11 @@ JpTxGNN is a drug repurposing prediction platform for Japanese medicines, based 
 
 | Metric | Value |
 |--------|-------|
-| Total Drugs | 3,824 |
+| Total Drugs | {{ site.data.site_stats.drugs }} |
 | DrugBank Mappings | 142 |
 | KG Predictions | 33,901 |
 | DL Predictions | 2,419,822 |
-| Integrated Predictions (≥90%) | 155,638 |
+| Predicted New Indications (known uses excluded) | {{ site.data.site_stats.indications }} |
 
 ---
 

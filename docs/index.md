@@ -2,7 +2,7 @@
 layout: default
 title: ドラッグリポジショニング検証報告
 nav_order: 1
-description: "AI を用いて日本医療用医薬品の潜在的新適応症を予測。417 種の医薬品に対する 2,785 件の予測候補を提供。"
+description: "AI を用いて日本医療用医薬品の潜在的新適応症を予測。402 種の医薬品に対する 2,770 件の予測候補を提供。"
 permalink: /
 image: /assets/images/og-default.png
 ---
@@ -10,7 +10,7 @@ image: /assets/images/og-default.png
 # ドラッグリポジショニング、データからエビデンスへ
 
 <p class="key-answer" data-question="JpTxGNN ドラッグリポジショニング検証報告とは？">
-<strong>JpTxGNN</strong> は、ハーバード大学 TxGNN モデルに基づくドラッグリポジショニング予測プラットフォームです。AI により <strong>2,785</strong> 件のドラッグリポジショニング候補を予測し、<strong>417</strong> 種の日本医療用医薬品に対して予測から検証までの完全なレポートを提供します。
+<strong>JpTxGNN</strong> は、ハーバード大学 TxGNN モデルに基づくドラッグリポジショニング予測プラットフォームです。AI により <strong>2,770</strong> 件のドラッグリポジショニング候補を予測し、<strong>402</strong> 種の日本医療用医薬品に対して予測から検証までの完全なレポートを提供します。
 </p>
 
 <div class="key-takeaway">
@@ -61,13 +61,13 @@ image: /assets/images/og-default.png
 ## 私たちの差別化
 
 <p class="key-answer" data-question="JpTxGNN と他の予測ツールの違いは？">
-多くのドラッグリポジショニング予測ツールは「有効かもしれない」というスコアのみを提供し、研究者は自ら臨床エビデンスを探す必要があります。JpTxGNN は異なります：各予測について TxGNN 知識グラフと深層学習モデルの両方からスコアを統合し、エビデンスレベルとともに提示します。
+多くのドラッグリポジショニング予測ツールは「有効かもしれない」というスコアのみを提供し、研究者は自ら臨床エビデンスを探す必要があります。JpTxGNN は異なります：知識グラフに記録済みの適応症・適応外使用（既知用途）を除外したうえで、深層学習モデルの予測をエビデンスレベルとともに提示します。
 </p>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem; margin: 1.5rem 0;">
   <div style="padding: 1.5rem; background: #f8f9fa; border-radius: 8px; border-left: 4px solid #2E7D32;">
-    <strong style="font-size: 1.1rem;">KG + DL 二重予測</strong><br>
-    <span style="color: #666;">知識グラフ法と深層学習法の両方で予測。DL スコアにより予測の信頼度を定量化。</span>
+    <strong style="font-size: 1.1rem;">既知用途を除外した予測</strong><br>
+    <span style="color: #666;">知識グラフに記録済みの既知用途を除外し、深層学習スコア 0.99 以上の新規適応症のみを掲載。</span>
   </div>
   <div style="padding: 1.5rem; background: #f8f9fa; border-radius: 8px; border-left: 4px solid #1976D2;">
     <strong style="font-size: 1.1rem;">日本医薬品に特化</strong><br>
@@ -115,7 +115,7 @@ image: /assets/images/og-default.png
 
 <div class="stats-grid">
   <div class="stat-card">
-    <div class="stat-number">417</div>
+    <div class="stat-number">402</div>
     <div class="stat-label">対象医薬品</div>
   </div>
   <div class="stat-card" style="background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%);">
@@ -123,12 +123,12 @@ image: /assets/images/og-default.png
     <div class="stat-label">DrugBank マッピング</div>
   </div>
   <div class="stat-card" style="background: linear-gradient(135deg, #ee0979 0%, #ff6a00 100%);">
-    <div class="stat-number">2,785</div>
-    <div class="stat-label">統合予測候補</div>
+    <div class="stat-number">2,770</div>
+    <div class="stat-label">予測新適応症</div>
   </div>
   <div class="stat-card" style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);">
-    <div class="stat-number">90%+</div>
-    <div class="stat-label">信頼度閾値</div>
+    <div class="stat-number">0.99</div>
+    <div class="stat-label">スコア閾値</div>
   </div>
 </div>
 
@@ -138,7 +138,7 @@ image: /assets/images/og-default.png
 
 | 分類 | 説明 | リンク |
 |------|------|------|
-| **医薬品検索** | 417 種の医薬品（検索可能） | [医薬品リスト]({{ '/drugs/' | relative_url }}) |
+| **医薬品検索** | 402 種の医薬品（検索可能） | [医薬品リスト]({{ '/drugs/' | relative_url }}) |
 | **SMART on FHIR** | EHR システム統合 | [SMART App]({{ '/smart/' | relative_url }}) |
 | **FHIR API** | プログラムによるアクセス | [API 仕様]({{ '/fhir-api/' | relative_url }}) |
 | **データダウンロード** | CSV / JSON 形式 | [ダウンロード]({{ '/downloads/' | relative_url }}) |
@@ -161,19 +161,17 @@ image: /assets/images/og-default.png
 
 | 項目 | 数量 |
 |------|------|
-| 医薬品レポート | 417 件 |
-| KG 予測候補 | 33,901 件 |
-| DL 予測候補 | 2,419,822 件 |
-| 予測新適応症 | 2,785 件 |
+| 医薬品レポート | 402 件 |
+| 予測新適応症 | 2,770 件 |
 
 ### 予測フロー
 
 <ol class="actionable-steps">
 <li><strong>データ収集</strong>：SSK 医療用医薬品 + KEGG 薬効情報を統合</li>
 <li><strong>DrugBank マッピング</strong>：成分名を DrugBank ID にマッピング</li>
-<li><strong>KG 予測</strong>：TxGNN 知識グラフから既知の関係を抽出</li>
+<li><strong>既知用途の照合</strong>：TxGNN 知識グラフに記録済みの適応症・適応外使用を抽出し、予測から除外</li>
 <li><strong>DL 予測</strong>：深層学習モデルで新規関係を予測</li>
-<li><strong>統合・フィルタリング</strong>：信頼度 ≥90% の予測を抽出</li>
+<li><strong>フィルタリング</strong>：既知用途を除外し、スコア ≥0.99 の予測を抽出</li>
 </ol>
 
 [詳細を見る]({{ '/about/' | relative_url }}) | [方法論]({{ '/methodology/' | relative_url }}) | [データソース]({{ '/sources/' | relative_url }})

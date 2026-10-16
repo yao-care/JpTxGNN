@@ -3,14 +3,14 @@ layout: default
 title: 医薬品レポート
 nav_order: 4
 has_children: true
-description: "3,824 種の日本医療用医薬品のドラッグリポジショニング予測レポート"
-permalink: /drugs/
+description: "日本医療用医薬品のドラッグリポジショニング予測レポート"
+permalink: /nav-drugs/
 ---
 
 # 医薬品レポート
 
 <p class="key-answer" data-question="JpTxGNN の医薬品レポートとは？">
-JpTxGNN は <strong>3,824</strong> 種の日本医療用医薬品に対するドラッグリポジショニング予測レポートを提供しています。各レポートには TxGNN モデルによる予測適応症とそのスコアが含まれています。
+JpTxGNN は <strong>{{ site.data.site_stats.drugs }}</strong> 種の日本医療用医薬品に対するドラッグリポジショニング予測レポートを提供しています。各レポートには TxGNN モデルによる予測適応症とそのスコアが含まれています。
 </p>
 
 ---
@@ -68,7 +68,7 @@ JpTxGNN は <strong>3,824</strong> 種の日本医療用医薬品に対するド
 
 <div class="drug-stats">
   <div class="drug-stat">
-    <div class="drug-stat-number">3,824</div>
+    <div class="drug-stat-number">{{ site.data.site_stats.drugs }}</div>
     <div class="drug-stat-label">対象医薬品</div>
   </div>
   <div class="drug-stat">
@@ -76,8 +76,8 @@ JpTxGNN は <strong>3,824</strong> 種の日本医療用医薬品に対するド
     <div class="drug-stat-label">DrugBank マッピング</div>
   </div>
   <div class="drug-stat">
-    <div class="drug-stat-number">155,638</div>
-    <div class="drug-stat-label">予測候補</div>
+    <div class="drug-stat-number">{{ site.data.site_stats.indications }}</div>
+    <div class="drug-stat-label">予測新適応症</div>
   </div>
 </div>
 

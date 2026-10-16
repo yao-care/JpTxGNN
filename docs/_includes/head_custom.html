@@ -199,7 +199,7 @@ window.TXGNN_ANALYTICS = {
       "@type": "Article",
       "@id": "https://jptxgnn.yao.care/#article",
       "headline": "ドラッグリポジショニング、データからエビデンスへ",
-      "description": "AI を用いて日本医療用医薬品の潜在的新適応症を予測し、3,824 種の医薬品に対する臨床試験・文献エビデンス検証報告を提供",
+      "description": "AI を用いて日本医療用医薬品の潜在的新適応症を予測し、{{ site.data.site_stats.drugs }} 種の医薬品に対する臨床試験・文献エビデンス検証報告を提供",
       "author": {
         "@id": "https://www.yao.care/#organization"
       },
@@ -367,14 +367,14 @@ window.TXGNN_ANALYTICS = {
       "@type": "CollectionPage",
       "@id": "{{ page.url | absolute_url }}#webpage",
       "name": "医薬品レポート - JpTxGNN",
-      "description": "JpTxGNN 全医薬品検証報告一覧、計 3,824 種の医薬品",
+      "description": "JpTxGNN 全医薬品検証報告一覧、計 {{ site.data.site_stats.drugs }} 種の医薬品",
       "url": "{{ page.url | absolute_url }}"
     },
     {
       "@type": "ItemList",
       "@id": "{{ page.url | absolute_url }}#itemlist",
       "name": "JpTxGNN 医薬品検証報告",
-      "description": "3,824 種の日本医療用医薬品のドラッグリポジショニング検証報告",
+      "description": "{{ site.data.site_stats.drugs }} 種の日本医療用医薬品のドラッグリポジショニング検証報告",
       "numberOfItems": {{ site.drugs.size }},
       "itemListOrder": "https://schema.org/ItemListOrderAscending"
     },
@@ -410,7 +410,7 @@ window.TXGNN_ANALYTICS = {
       "@type": "CollectionPage",
       "@id": "{{ page.url | absolute_url }}#webpage",
       "name": "健康ニュース - JpTxGNN",
-      "description": "{{ page.description | default: '3,824 種の医薬品と適応症に関する最新健康ニュースを自動監視' }}",
+      "description": "{{ page.description | default: '{{ site.data.site_stats.drugs }} 種の医薬品と適応症に関する最新健康ニュースを自動監視' }}",
       "url": "{{ page.url | absolute_url }}",
       "isPartOf": {
         "@id": "https://jptxgnn.yao.care/#website"

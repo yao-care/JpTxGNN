@@ -5,15 +5,17 @@ nav_order: 20
 permalink: /drugs/
 description: "JpTxGNN における全医薬品の検証レポートとエビデンスレベル統計。"
 ---
-{% assign l1_count = site.drugs | where: "evidence_level", "L1" | size %}
-{% assign l2_count = site.drugs | where: "evidence_level", "L2" | size %}
-{% assign l3_count = site.drugs | where: "evidence_level", "L3" | size %}
-{% assign l4_count = site.drugs | where: "evidence_level", "L4" | size %}
-{% assign l5_count = site.drugs | where: "evidence_level", "L5" | size %}
+{%- comment -%}2026-10-16：列表不含舊 ID 轉址頁與 noindex 頁{%- endcomment -%}
+{% assign listed_drugs = site.drugs | where_exp: "d", "d.layout != 'redirect'" | where_exp: "d", "d.noindex != true" %}
+{% assign l1_count = listed_drugs | where: "evidence_level", "L1" | size %}
+{% assign l2_count = listed_drugs | where: "evidence_level", "L2" | size %}
+{% assign l3_count = listed_drugs | where: "evidence_level", "L3" | size %}
+{% assign l4_count = listed_drugs | where: "evidence_level", "L4" | size %}
+{% assign l5_count = listed_drugs | where: "evidence_level", "L5" | size %}
 
 # 全医薬品一覧
 
-{{ site.drugs.size }} 件の医薬品検証レポート
+{{ listed_drugs.size }} 件の医薬品検証レポート
 
 ---
 
@@ -31,7 +33,7 @@ description: "JpTxGNN における全医薬品の検証レポートとエビデ�
 
 ## 医薬品全リスト
 
-{% assign all_drugs = site.drugs | sort: 'title' %}
+{% assign all_drugs = listed_drugs | sort: 'title' %}
 
 | 医薬品 | エビデンスレベル | 適応症数 |
 |---------|---------|---------|
