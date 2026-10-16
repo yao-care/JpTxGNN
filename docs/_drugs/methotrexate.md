@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 205
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Methotrexate：予測新適応症は肺芽腫 (pulmonary blastoma)（エビデンスレベル L5）。既存適応症：慢性リンパ性白血病、慢性骨髄性白血病、絨毛癌、乳癌、尿路上皮癌、骨肉腫、胃癌、関節リウマチ、尋常性乾癬、関節症性乾癬、膿疱性乾癬…"
 ---
 
 # Methotrexate

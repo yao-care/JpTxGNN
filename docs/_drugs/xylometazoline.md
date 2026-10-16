@@ -5,6 +5,8 @@ parent: 中エビデンス (L3-L4)
 nav_order: 199
 evidence_level: L3
 indication_count: 1
+last_modified_at: 2026-09-17
+description: "Xylometazoline：予測新適応症は鼻腔疾病、急性咽喉炎（エビデンスレベル L3）。既存適応症：感冒、鼻塞、過敏性鼻炎"
 ---
 
 # Xylometazoline

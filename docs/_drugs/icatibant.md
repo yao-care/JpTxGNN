@@ -5,6 +5,8 @@ parent: 高エビデンス (L1-L2)
 nav_order: 84
 evidence_level: L1
 indication_count: 1
+last_modified_at: 2026-09-17
+description: "Icatibant：予測新適応症はC1 Inhibitor Deficiency（エビデンスレベル L1）。既存適応症：遺傳性血管性水腫(HAE)急性發作症狀治療"
 ---
 
 # Icatibant

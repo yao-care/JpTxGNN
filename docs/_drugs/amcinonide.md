@@ -5,6 +5,8 @@ parent: 中エビデンス (L3-L4)
 nav_order: 20
 evidence_level: L3
 indication_count: 1
+last_modified_at: 2026-04-19
+description: "Amcinonide：予測新適応症は皮膚炎 (dermatitis)（エビデンスレベル L3）。既存適応症：異位性皮膚炎、接觸性皮膚炎、濕疹、牛皮癬、神經性皮膚炎"
 ---
 
 # Amcinonide

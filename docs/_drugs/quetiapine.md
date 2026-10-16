@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 261
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Quetiapine：予測新適応症は網膜ジストロフィー（眼外異常を伴う、または伴わない）（エビデンスレベル L5）。既存適応症：統合失調症、双極性障害におけるうつ症状"
 ---
 
 # Quetiapine

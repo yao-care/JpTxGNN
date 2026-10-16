@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 110
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Entacapone：予測新適応症はPLA2G6 関連神経変性症 (PLA2G6-associated neurodegeneration)（エビデンスレベル L5）。既存適応症：パーキンソン病（COMT 阻害薬、抗ジスキネジア）"
 ---
 
 # Entacapone

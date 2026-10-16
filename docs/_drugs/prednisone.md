@@ -5,6 +5,8 @@ parent: 高エビデンス (L1-L2)
 nav_order: 139
 evidence_level: L2
 indication_count: 1
+last_modified_at: 2026-09-17
+description: "Prednisone：予測新適応症は圓禿症 (Alopecia Areata)（エビデンスレベル L2）。既存適応症：風濕性關節炎、急性病症（氣喘、休克）、皮膚疾患"
 ---
 
 # Prednisone

@@ -5,6 +5,8 @@ parent: 中エビデンスレベル
 nav_order: 266
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Riboflavin：予測新適応症はビオチン代謝疾患 (biotin metabolic disease)（エビデンスレベル L4）。既存適応症：ビタミンB2補充薬（高コレステロール血症）"
 ---
 
 # Riboflavin

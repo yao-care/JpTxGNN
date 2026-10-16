@@ -5,6 +5,8 @@ parent: 中エビデンス (L3-L4)
 nav_order: 80
 evidence_level: L4
 indication_count: 1
+last_modified_at: 2026-04-19
+description: "Hydroquinone：予測新適応症は脂漏性角化症 (seborrheic keratosis)（エビデンスレベル L4）。既存適応症：黑斑、雀斑、色素沉著"
 ---
 
 # Hydroquinone

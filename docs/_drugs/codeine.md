@@ -5,6 +5,8 @@ parent: 中エビデンスレベル
 nav_order: 78
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Codeine：予測新適応症は鼻腔疾患 (nasal cavity disease)（エビデンスレベル L4）。既存適応症：麻薬性鎮痛薬、鎮咳薬、オピオイド受容体作動薬"
 ---
 
 # Codeine

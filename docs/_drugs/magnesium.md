@@ -5,6 +5,8 @@ parent: 高エビデンスレベル
 nav_order: 199
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Magnesium：予測新適応症は片頭痛 (Migraine Disorder)（エビデンスレベル L1）。既存適応症：制酸薬、緩下剤、吸着剤（胃・十二指腸潰瘍）"
 ---
 
 # Magnesium

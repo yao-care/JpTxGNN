@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 322
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Travoprost：予測新適応症は血管疾患 (Vascular Disease)（TxGNN 最上位は内臓カルシフィラキシー）（エビデンスレベル L5）。既存適応症：緑内障"
 ---
 
 # Travoprost

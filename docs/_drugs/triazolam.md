@@ -5,6 +5,8 @@ parent: 中エビデンスレベル
 nav_order: 324
 evidence_level: L3
 indication_count: 1
+last_modified_at: 2026-10-15
+description: "Triazolam：予測新適応症は入眠・睡眠維持障害 (sleep disorder, initiating and maintaining sleep)（エビデンスレベル L3）。既存適応症：催眠鎮静薬（不眠症）"
 ---
 
 # Triazolam

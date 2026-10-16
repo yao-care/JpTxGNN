@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 221
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Nifedipine：予測新適応症は脳幹性前兆を伴う片頭痛 (Migraine with brainstem aura)（エビデンスレベル L5）。既存適応症：本態性高血圧症、狭心症"
 ---
 
 # Nifedipine

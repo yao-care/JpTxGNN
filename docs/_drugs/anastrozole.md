@@ -5,6 +5,8 @@ parent: 高エビデンスレベル
 nav_order: 27
 evidence_level: L1
 indication_count: 6
+last_modified_at: 2026-10-15
+description: "Anastrozole：予測新適応症は女性乳癌 (female breast carcinoma)（エビデンスレベル L1）。既存適応症：閉経後乳癌"
 ---
 
 # Anastrozole

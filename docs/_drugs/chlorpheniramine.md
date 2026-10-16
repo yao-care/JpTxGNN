@@ -5,6 +5,8 @@ parent: 中エビデンスレベル
 nav_order: 69
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Chlorpheniramine：予測新適応症はアレルギー性蕁麻疹 (Allergic Urticaria)（エビデンスレベル L4）。既存適応症：抗アレルギー薬、H1 受容体拮抗薬（アレルギー性鼻炎）"
 ---
 
 # Chlorpheniramine

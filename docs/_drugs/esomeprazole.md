@@ -5,6 +5,8 @@ parent: 中エビデンスレベル
 nav_order: 119
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Esomeprazole：予測新適応症は十二指腸胃逆流 (duodenogastric reflux)（エビデンスレベル L4）。既存適応症：胃酸分泌抑制薬、消化性潰瘍薬、プロトンポンプ阻害薬"
 ---
 
 # Esomeprazole

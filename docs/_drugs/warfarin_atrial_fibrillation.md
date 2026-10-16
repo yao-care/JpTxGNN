@@ -5,6 +5,8 @@ parent: 高エビデンス (L1-L2)
 nav_order: 197
 evidence_level: L1
 indication_count: 1
+last_modified_at: 2026-09-17
+description: "Warfarin Atrial Fibrillation：予測新適応症はDB00682（エビデンスレベル L1）。既存適応症：Warfarin"
 ---
 
 # Warfarin Atrial Fibrillation

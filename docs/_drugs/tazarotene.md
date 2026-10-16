@@ -5,6 +5,8 @@ parent: モデル予測のみ (L5)
 nav_order: 161
 evidence_level: L5
 indication_count: 1
+last_modified_at: 2026-09-17
+description: "Tazarotene：予測新適応症は脂漏性皮膚炎 (Seborrheic Dermatitis)（エビデンスレベル L5）。既存適応症：乾癬及尋常性痤瘡"
 ---
 
 # Tazarotene

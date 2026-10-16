@@ -5,6 +5,8 @@ parent: 中エビデンス (L3-L4)
 nav_order: 28
 evidence_level: L3
 indication_count: 1
+last_modified_at: 2026-09-17
+description: "Bempedoic Acid：予測新適応症は同合子家族性高膽固醇血症 (homozygous familial hypercholesterolemia)（エビデンスレベル L3）。既存適応症：原發性高膽固醇血症、混合型血脂異常、動脈粥狀硬化心血管疾病風險降低"
 ---
 
 # Bempedoic Acid

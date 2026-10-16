@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 268
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Rivaroxaban：予測新適応症は関節リウマチ (Rheumatoid Arthritis)（エビデンスレベル L5）。既存適応症：抗血栓薬、第Xa因子阻害薬"
 ---
 
 # Rivaroxaban

@@ -5,6 +5,8 @@ parent: 高エビデンスレベル
 nav_order: 291
 evidence_level: L2
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Sunitinib：予測新適応症は脂肪肉腫 (Liposarcoma)（エビデンスレベル L2）。既存適応症：抗悪性腫瘍薬、血管新生阻害薬、受容体型チロシンキナーゼ阻害薬"
 ---
 
 # Sunitinib

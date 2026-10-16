@@ -5,6 +5,8 @@ parent: 高エビデンス (L1-L2)
 nav_order: 183
 evidence_level: L2
 indication_count: 1
+last_modified_at: 2026-09-17
+description: "Treprostinil：予測新適応症は肺動脈高壓相關疾病（先天性心臟病、HIV 感染、結締組織疾病等）（エビデンスレベル L2）。既存適応症：特發性或遺傳性肺動脈高壓 (WHO functional class III/IV)"
 ---
 
 # Treprostinil

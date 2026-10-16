@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 321
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Trastuzumab：予測新適応症はプロゲステロン受容体陽性乳癌 (progesterone-receptor positive breast cancer)（エビデンスレベル L5）。既存適応症：HER2 陽性乳癌"
 ---
 
 # Trastuzumab

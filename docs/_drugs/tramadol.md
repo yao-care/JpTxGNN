@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 318
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Tramadol：予測新適応症は先端中節骨異形成症 Hunter-Thompson 型 (acromesomelic dysplasia…（エビデンスレベル L5）。既存適応症：変形性関節症、関節症"
 ---
 
 # Tramadol

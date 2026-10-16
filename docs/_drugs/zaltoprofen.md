@@ -5,6 +5,8 @@ parent: 中エビデンスレベル
 nav_order: 343
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Zaltoprofen：予測新適応症は関節リウマチ (Rheumatoid Arthritis)（既存適応症と同一）（エビデンスレベル L3）。既存適応症：関節リウマチ（鎮痛薬・抗炎症薬・シクロオキシゲナーゼ2阻害薬）"
 ---
 
 # Zaltoprofen

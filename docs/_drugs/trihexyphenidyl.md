@@ -5,6 +5,8 @@ parent: 中エビデンスレベル
 nav_order: 325
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Trihexyphenidyl：予測新適応症は注意欠如・多動症 (attention deficit-hyperactivity disorder)（エビデンスレベル L4）。既存適応症：パーキンソン病治療薬、ムスカリン受容体拮抗薬（特発性パーキンソニズム、その他のパーキンソニズム）"
 ---
 
 # Trihexyphenidyl

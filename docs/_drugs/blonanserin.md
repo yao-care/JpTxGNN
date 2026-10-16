@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 48
 evidence_level: L5
 indication_count: 9
+last_modified_at: 2026-10-15
+description: "Blonanserin：予測新適応症は眼外異常を伴う…（エビデンスレベル L5）。既存適応症：統合失調症"
 ---
 
 # Blonanserin

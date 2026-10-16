@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 234
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Paclitaxel：予測新適応症は女性乳癌 (female breast carcinoma)（エビデンスレベル L5）。既存適応症：乳癌、胃癌、非小細胞肺癌、膵癌、卵巣癌、子宮体癌、頭頸部癌、食道癌、血管肉腫、子宮頸癌、精巣腫瘍、卵巣腫瘍"
 ---
 
 # Paclitaxel

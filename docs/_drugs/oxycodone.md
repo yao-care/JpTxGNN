@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 232
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Oxycodone：予測新適応症はむずむず脚症候群 (Restless Legs Syndrome)（エビデンスレベル L5）。既存適応症：麻薬性鎮痛薬、オピオイド受容体作動薬"
 ---
 
 # Oxycodone

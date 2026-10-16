@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 210
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Miglitol：予測新適応症は巣状スティフリム症候群 (Focal Stiff Limb Syndrome)（エビデンスレベル L5）。既存適応症：糖尿病（α-グルコシダーゼ阻害薬）"
 ---
 
 # Miglitol

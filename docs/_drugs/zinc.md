@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 344
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Zinc：予測新適応症はフィラリア症 (Filariasis)（エビデンスレベル L5）。既存適応症：解毒薬（銅吸収阻害）：ウィルソン病、肝レンズ核変性症"
 ---
 
 # Zinc

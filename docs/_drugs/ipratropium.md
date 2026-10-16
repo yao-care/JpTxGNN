@@ -5,6 +5,8 @@ parent: 高エビデンス (L1-L2)
 nav_order: 91
 evidence_level: L1
 indication_count: 1
+last_modified_at: 2026-09-17
+description: "Ipratropium：予測新適応症は阻塞性肺疾病 (obstructive lung disease)（エビデンスレベル L1）。既存適応症：慢性阻塞性支氣管炎、支氣管氣喘、阻塞性呼吸道疾病併發的可逆性支氣管痙攣"
 ---
 
 # Ipratropium

@@ -5,6 +5,8 @@ parent: 中エビデンスレベル
 nav_order: 32
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Atezolizumab：予測新適応症は前立腺部尿道尿路上皮癌 (prostatic urethra urothelial carcinoma)（エビデンスレベル L3）。既存適応症：尿路上皮癌（移行上皮癌）"
 ---
 
 # Atezolizumab

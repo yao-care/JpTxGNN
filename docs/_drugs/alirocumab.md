@@ -5,6 +5,8 @@ parent: 中エビデンス (L3-L4)
 nav_order: 14
 evidence_level: L3
 indication_count: 1
+last_modified_at: 2026-09-17
+description: "Alirocumab：予測新適応症は黃色瘤病（Xanthomatosis）、膽固醇分解代謝疾病（エビデンスレベル L3）。既存適応症：預防心血管事件、原發性高血脂症、異合子家族性高膽固醇血症"
 ---
 
 # Alirocumab

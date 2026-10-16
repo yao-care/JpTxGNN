@@ -5,6 +5,8 @@ parent: 高エビデンス (L1-L2)
 nav_order: 116
 evidence_level: L2
 indication_count: 1
+last_modified_at: 2026-09-17
+description: "Omalizumab：予測新適応症は支氣管炎、異位性皮膚炎（エビデンスレベル L2）。既存適応症：重度過敏性氣喘、慢性鼻竇炎併鼻息肉、慢性自發性蕁麻疹"
 ---
 
 # Omalizumab

@@ -5,6 +5,8 @@ parent: 中エビデンス (L3-L4)
 nav_order: 190
 evidence_level: L3
 indication_count: 1
+last_modified_at: 2026-09-17
+description: "Vinorelbine：予測新適応症はEwing 肉瘤 (Ewing sarcoma)（エビデンスレベル L3）。既存適応症：非小細胞肺癌、轉移性乳癌"
 ---
 
 # Vinorelbine

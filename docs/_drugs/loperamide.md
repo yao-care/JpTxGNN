@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 191
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Loperamide：予測新適応症は急性伝染性結膜炎 (Acute Contagious Conjunctivitis)（エビデンスレベル L5）。既存適応症：止瀉薬、蠕動抑制薬、オピオイド受容体作動薬"
 ---
 
 # Loperamide

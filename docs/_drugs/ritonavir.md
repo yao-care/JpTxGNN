@@ -5,6 +5,8 @@ parent: 中エビデンス (L3-L4)
 nav_order: 148
 evidence_level: L4
 indication_count: 1
+last_modified_at: 2026-09-17
+description: "Ritonavir：予測新適応症は猿免疫缺乏病毒感染 (SIV Infection)、貓愛滋病（エビデンスレベル L4）。既存適応症：人類免疫缺乏病毒（HIV）感染"
 ---
 
 # Ritonavir

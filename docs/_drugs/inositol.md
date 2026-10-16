@@ -5,6 +5,8 @@ parent: 中エビデンス (L3-L4)
 nav_order: 86
 evidence_level: L3
 indication_count: 1
+last_modified_at: 2026-09-17
+description: "Inositol：予測新適応症はFamilial Hypercholesterolemia（エビデンスレベル L3）。既存適応症：末梢血管循環障礙、營養劑、趨脂劑"
 ---
 
 # Inositol

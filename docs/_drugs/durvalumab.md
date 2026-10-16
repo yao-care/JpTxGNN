@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 105
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Durvalumab：予測新適応症は前立腺部尿道尿路上皮癌 (prostatic urethra urothelial carcinoma)（エビデンスレベル L5）。既存適応症：移行上皮癌"
 ---
 
 # Durvalumab

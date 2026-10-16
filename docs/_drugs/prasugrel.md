@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 251
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Prasugrel：予測新適応症は肺高血圧症 (Pulmonary Hypertension)（エビデンスレベル L5）。既存適応症：狭心症、心筋梗塞（血小板凝集抑制薬、P2Y12 阻害薬）"
 ---
 
 # Prasugrel

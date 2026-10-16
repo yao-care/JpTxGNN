@@ -5,6 +5,8 @@ parent: 中エビデンス (L3-L4)
 nav_order: 79
 evidence_level: L3
 indication_count: 1
+last_modified_at: 2026-04-19
+description: "Human Immunoglobulin G：予測新適応症は糖尿病視網膜病變 (diabetic retinopathy)（エビデンスレベル L3）。既存適応症：原發性免疫不全症、ITP、川崎氏症、GBS"
 ---
 
 # Human Immunoglobulin G

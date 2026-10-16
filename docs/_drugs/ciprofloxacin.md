@@ -5,6 +5,8 @@ parent: 中エビデンスレベル
 nav_order: 70
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Ciprofloxacin：予測新適応症はびまん性強皮症 (Diffuse Scleroderma)（エビデンスレベル L4）。既存適応症：腸チフス、サルモネラ症、細菌性肺炎、緑膿菌感染症、炭疽など"
 ---
 
 # Ciprofloxacin

@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 14
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Acyclovir：予測新適応症は点状表層角結膜炎 (Punctate Epithelial Keratoconjunctivitis)（エビデンスレベル L5）。既存適応症：単純疱疹、単純ヘルペスウイルス感染症、帯状疱疹、性器ヘルペス、水痘、単純ヘルペスウイルスに起因する角膜炎"
 ---
 
 # Acyclovir

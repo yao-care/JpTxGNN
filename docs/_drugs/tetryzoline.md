@@ -5,6 +5,8 @@ parent: 中エビデンス (L3-L4)
 nav_order: 167
 evidence_level: L4
 indication_count: 1
+last_modified_at: 2026-09-17
+description: "Tetryzoline：予測新適応症は鼻腔疾病 (Nasal Cavity Disease)（エビデンスレベル L4）。既存適応症：眼睛刺激、結膜炎、結膜充血"
 ---
 
 # Tetryzoline

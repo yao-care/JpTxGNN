@@ -5,6 +5,8 @@ parent: 中エビデンスレベル
 nav_order: 243
 evidence_level: L4
 indication_count: 3
+last_modified_at: 2026-10-15
+description: "Phenylephrine：予測新適応症は鼻腔疾患 (Nasal Cavity Disease)（エビデンスレベル L4）。既存適応症：アレルギー性鼻炎、血管運動性鼻炎、咽頭炎、風邪、結膜炎など"
 ---
 
 # Phenylephrine

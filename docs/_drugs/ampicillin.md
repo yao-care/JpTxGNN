@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 26
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Ampicillin：予測新適応症は喉頭炎 (Laryngitis)（エビデンスレベル L5）。既存適応症：抗生物質"
 ---
 
 # Ampicillin

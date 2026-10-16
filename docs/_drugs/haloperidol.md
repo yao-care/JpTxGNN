@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 154
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Haloperidol：予測新適応症はフコシル化欠損を伴う先天性グリコシル化異常症 (congenital disorder of glycosylation with def…（エビデンスレベル L5）。既存適応症：統合失調症、躁病"
 ---
 
 # Haloperidol

@@ -5,6 +5,8 @@ parent: 中エビデンスレベル
 nav_order: 131
 evidence_level: L4
 indication_count: 7
+last_modified_at: 2026-10-15
+description: "Felodipine：予測新適応症は肺疾患・低酸素に伴う肺高血圧症 (Pulmonary hypertension owing to lung disease and/or…（エビデンスレベル L4）。既存適応症：高血圧症（血圧降下薬・血管拡張薬・カルシウムチャネル遮断薬）"
 ---
 
 # Felodipine

@@ -5,6 +5,8 @@ parent: 中エビデンスレベル
 nav_order: 214
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Montelukast：予測新適応症は気管支炎 (Bronchitis)（エビデンスレベル L3）。既存適応症：気管支喘息、アレルギー性鼻炎"
 ---
 
 # Montelukast

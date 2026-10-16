@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 195
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Lornoxicam：予測新適応症は予測第 1 位：関節リウマチ (rheumatoid arthritis)。既存適応症と同一。実質的な新規候補は片頭痛 (migraine…（エビデンスレベル L5）。既存適応症：関節リウマチ（鎮痛薬・抗炎症薬・シクロオキシゲナーゼ2阻害薬）"
 ---
 
 # Lornoxicam

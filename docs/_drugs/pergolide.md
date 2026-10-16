@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 240
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Pergolide：予測新適応症はフコシル化欠損を伴う先天性糖鎖修飾異常症（エビデンスレベル L5）。既存適応症：パーキンソン病"
 ---
 
 # Pergolide

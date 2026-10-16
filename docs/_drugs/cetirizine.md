@@ -5,6 +5,8 @@ parent: 高エビデンスレベル
 nav_order: 67
 evidence_level: L2
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Cetirizine：予測新適応症はアレルギー性蕁麻疹 (Allergic Urticaria)（エビデンスレベル L2）。既存適応症：アレルギー性鼻炎"
 ---
 
 # Cetirizine

@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 147
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Gentamicin：予測新適応症は関節リウマチ (Rheumatoid Arthritis)（エビデンスレベル L5）。既存適応症：眼瞼炎、結膜炎（抗生物質・タンパク質合成阻害薬）"
 ---
 
 # Gentamicin

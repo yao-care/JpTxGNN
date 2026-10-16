@@ -5,6 +5,8 @@ parent: 中エビデンスレベル
 nav_order: 252
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Pravastatin：予測新適応症はホモ接合体家族性高コレステロール血症 (homozygous familial hypercholesterolemia)（エビデンスレベル L3）。既存適応症：高脂血症、家族性高コレステロール血症"
 ---
 
 # Pravastatin

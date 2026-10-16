@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 247
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Pirfenidone：予測新適応症は肥満細胞腫 (Extracutaneous mastocytoma)（予測スコア第 1 位）。文献で裏付けが得られた候補は線維芽細胞性腫瘍…（エビデンスレベル L5）。既存適応症：特発性肺線維症"
 ---
 
 # Pirfenidone

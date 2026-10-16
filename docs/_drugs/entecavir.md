@@ -5,6 +5,8 @@ parent: 中エビデンスレベル
 nav_order: 111
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Entecavir：予測新適応症は慢性C型肝炎ウイルス感染 (chronic hepatitis C virus infection)（エビデンスレベル L4）。既存適応症：B型肝炎（抗ウイルス薬、逆転写酵素阻害薬）"
 ---
 
 # Entecavir

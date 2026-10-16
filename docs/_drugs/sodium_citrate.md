@@ -5,6 +5,8 @@ parent: 中エビデンス (L3-L4)
 nav_order: 158
 evidence_level: L3
 indication_count: 1
+last_modified_at: 2026-04-19
+description: "Sodium Citrate：予測新適応症は胃部疾病（stomach disease）、胃十二指腸炎（gastroduodenitis）（エビデンスレベル L3）。既存適応症：抗凝血劑、袪痰劑、促進利尿、制酸"
 ---
 
 # Sodium Citrate

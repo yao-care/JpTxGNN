@@ -5,6 +5,8 @@ parent: 中エビデンスレベル
 nav_order: 73
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Clobazam：予測新適応症は熱性感染関連てんかん症候群 (Febrile infection-related epilepsy syndrome)（エビデンスレベル L4）。既存適応症：レノックス・ガストー症候群"
 ---
 
 # Clobazam

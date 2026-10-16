@@ -5,6 +5,8 @@ parent: 中エビデンス (L3-L4)
 nav_order: 140
 evidence_level: L4
 indication_count: 1
+last_modified_at: 2026-09-17
+description: "Probenecid：予測新適応症は腎性低尿酸血症 (Renal Hypouricemia)（エビデンスレベル L4）。既存適応症：痛風、痛風性關節炎、尿酸排泄增進"
 ---
 
 # Probenecid

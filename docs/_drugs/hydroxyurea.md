@@ -5,6 +5,8 @@ parent: 高エビデンス (L1-L2)
 nav_order: 82
 evidence_level: L2
 indication_count: 1
+last_modified_at: 2026-04-19
+description: "Hydroxyurea：予測新適応症は女性乳腺癌 (female breast carcinoma)（エビデンスレベル L2）。既存適応症：慢性骨髓性白血病、骨髓纖維化、真性紅血球增多症、卵巢癌、頭頸癌"
 ---
 
 # Hydroxyurea

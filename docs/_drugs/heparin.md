@@ -5,6 +5,8 @@ parent: 中エビデンスレベル
 nav_order: 155
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Heparin：予測新適応症は椎骨動脈閉塞症 (Vertebral artery occlusion)（エビデンスレベル L3）。既存適応症：汎発性血管内血液凝固症候群、心筋梗塞症（抗凝固薬、アンチトロンビンIII活性化薬）"
 ---
 
 # Heparin

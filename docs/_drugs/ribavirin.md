@@ -5,6 +5,8 @@ parent: 中エビデンス (L3-L4)
 nav_order: 146
 evidence_level: L3
 indication_count: 1
+last_modified_at: 2026-09-17
+description: "Ribavirin：予測新適応症は慢性 B 型肝炎病毒感染 (Chronic HBV Infection)（エビデンスレベル L3）。既存適応症：慢性 C 型肝炎（與 peginterferon 或 DAA 併用）"
 ---
 
 # Ribavirin

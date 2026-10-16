@@ -5,6 +5,8 @@ parent: 高エビデンスレベル
 nav_order: 284
 evidence_level: L2
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Sorafenib：予測新適応症は脂肪肉腫 (Liposarcoma)（エビデンスレベル L2）。既存適応症：肝細胞癌、腎細胞癌、甲状腺癌（日本の承認適応症の記載データはありません）"
 ---
 
 # Sorafenib

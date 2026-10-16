@@ -5,6 +5,8 @@ parent: 高エビデンスレベル
 nav_order: 74
 evidence_level: L2
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Clomipramine：予測新適応症は不安障害 (Anxiety Disorder)（エビデンスレベル L2）。既存適応症：強迫性障害 (OCD)"
 ---
 
 # Clomipramine

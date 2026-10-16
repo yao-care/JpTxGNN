@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 71
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Clarithromycin：予測新適応症は高アミラーゼ血症 (Hyperamylasemia)（TxGNN 1 位）。ただしエビデンスが最も厚い候補は単クローン性免疫グロブリン血症…（エビデンスレベル L5）。既存適応症：非結核性抗酸菌症、MAC 症、ヘリコバクター・ピロリ感染症、歯周組織炎、猩紅熱、百日咳"
 ---
 
 # Clarithromycin

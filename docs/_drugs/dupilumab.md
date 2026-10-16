@@ -5,6 +5,8 @@ parent: 中エビデンス (L3-L4)
 nav_order: 63
 evidence_level: L3
 indication_count: 1
+last_modified_at: 2026-09-17
+description: "Dupilumab：予測新適応症は支氣管炎 (bronchitis)（エビデンスレベル L3）。既存適応症：異位性皮膚炎、氣喘、慢性鼻竇炎合併鼻息肉、嗜伊紅性食道炎"
 ---
 
 # Dupilumab

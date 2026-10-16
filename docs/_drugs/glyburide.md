@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 150
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Glyburide：予測新適応症はオプシスモ異形成症 (Opsismodysplasia)（エビデンスレベル L5）。既存適応症：インスリン非依存型糖尿病（糖尿病治療薬、血糖降下薬）"
 ---
 
 # Glyburide

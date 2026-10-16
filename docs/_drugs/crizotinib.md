@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 80
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Crizotinib：予測新適応症は歯肉線維腫症 (Fibromatosis, gingival)（エビデンスレベル L5）。既存適応症：非小細胞肺癌"
 ---
 
 # Crizotinib

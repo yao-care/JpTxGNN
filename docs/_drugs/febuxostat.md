@@ -5,6 +5,8 @@ parent: 中エビデンスレベル
 nav_order: 129
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Febuxostat：予測新適応症は腎性低尿酸血症 (hypouricemia, renal)（エビデンスレベル L4）。既存適応症：痛風"
 ---
 
 # Febuxostat

@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 137
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Fluorouracil：予測新適応症は膣のブドウ状型胚性横紋筋肉腫 (botryoid-type embryonal rhabdomyosarcoma of the vagin…（エビデンスレベル L5）。既存適応症：胃癌、肝癌、結腸・直腸癌、乳癌、膵癌、子宮頸癌、子宮体癌、卵巣癌、食道癌、肺癌、頭頸部癌、有棘細胞癌、基底細胞癌"
 ---
 
 # Fluorouracil

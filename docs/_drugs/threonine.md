@@ -5,6 +5,8 @@ parent: モデル予測のみ (L5)
 nav_order: 170
 evidence_level: L5
 indication_count: 1
+last_modified_at: 2026-09-17
+description: "Threonine：予測新適応症はGastroparesis（胃輕癱）（エビデンスレベル L5）。既存適応症：營養補充劑、氨基酸補給劑"
 ---
 
 # Threonine

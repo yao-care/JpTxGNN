@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 176
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Latanoprost：予測新適応症は原発性遺伝性緑内障 (primary hereditary glaucoma)（エビデンスレベル L5）。既存適応症：緑内障（抗緑内障薬、プロスタグランジン F 受容体作動薬）"
 ---
 
 # Latanoprost

@@ -5,6 +5,8 @@ parent: 高エビデンス (L1-L2)
 nav_order: 108
 evidence_level: L1
 indication_count: 1
+last_modified_at: 2026-09-17
+description: "Naftifine：予測新適応症は皮膚念珠菌病、花斑癬、Majocchi 肉芽腫（エビデンスレベル L1）。既存適応症：皮膚黴菌病、表皮念珠菌病、甲黴菌病、花斑癬"
 ---
 
 # Naftifine

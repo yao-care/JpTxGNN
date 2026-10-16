@@ -5,6 +5,8 @@ parent: 高エビデンスレベル
 nav_order: 241
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Pertuzumab：予測新適応症はプロゲステロン受容体陽性乳癌 (Progesterone-receptor positive breast cancer)（エビデンスレベル L1）。既存適応症：HER2 陽性乳癌"
 ---
 
 # Pertuzumab

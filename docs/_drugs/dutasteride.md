@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 106
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Dutasteride：予測新適応症はアンブラス型先天性全身性多毛症 (Ambras type hypertrichosis universalis congenita)（エビデンスレベル L5）。既存適応症：前立腺肥大症治療薬、抗アンドロゲン薬、5α還元酵素阻害薬"
 ---
 
 # Dutasteride

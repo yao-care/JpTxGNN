@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 231
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Oxybutynin：予測新適応症は下肢静止不能症候群 (Restless Legs Syndrome)（エビデンスレベル L5）。既存適応症：頻尿治療薬、過活動膀胱用薬、ムスカリン受容体拮抗薬"
 ---
 
 # Oxybutynin

@@ -5,6 +5,8 @@ parent: 中エビデンス (L3-L4)
 nav_order: 17
 evidence_level: L3
 indication_count: 1
+last_modified_at: 2026-09-17
+description: "Aluminum Chloride：予測新適応症は脂漏性角化症、脂漏性皮膚炎、痤瘡、皮膚疾病（多汗相關）（エビデンスレベル L3）。既存適応症：抗多汗、牙齦止血、牙齦收斂"
 ---
 
 # Aluminum Chloride

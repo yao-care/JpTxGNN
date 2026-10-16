@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 36
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Azithromycin：予測新適応症は高アミラーゼ血症 (Hyperamylasemia)（エビデンスレベル L5）。既存適応症：歯周組織炎、MAC症、結膜炎、眼瞼炎"
 ---
 
 # Azithromycin

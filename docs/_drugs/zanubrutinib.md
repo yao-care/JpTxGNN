@@ -5,6 +5,8 @@ parent: 高エビデンス (L1-L2)
 nav_order: 200
 evidence_level: L2
 indication_count: 1
+last_modified_at: 2026-09-17
+description: "Zanubrutinib：予測新適応症は骨髓性白血病 (myeloid leukemia)（エビデンスレベル L2）。既存適応症：被套細胞淋巴瘤 (MCL)、華氏巨球蛋白血症 (WM)、CLL/SLL、邊緣區淋巴瘤、濾泡性淋巴瘤"
 ---
 
 # Zanubrutinib

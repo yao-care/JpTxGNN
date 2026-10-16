@@ -5,6 +5,8 @@ parent: 中エビデンス (L3-L4)
 nav_order: 27
 evidence_level: L3
 indication_count: 1
+last_modified_at: 2026-09-17
+description: "Belimumab：予測新適応症は血小板原發性釋放障礙 (primary release disorder of platelets)（エビデンスレベル L3）。既存適応症：全身性紅斑性狼瘡 (SLE)、活動性狼瘡腎炎"
 ---
 
 # Belimumab

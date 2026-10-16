@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 28
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Aprepitant：予測新適応症は腎性不適切抗利尿症候群 (nephrogenic syndrome of inappropriate antidiuresis)（エビデンスレベル L5）。既存適応症：制吐薬、抗うつ薬、統合失調症治療薬、NK1受容体拮抗薬"
 ---
 
 # Aprepitant

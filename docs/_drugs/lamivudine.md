@@ -5,6 +5,8 @@ parent: 中エビデンスレベル
 nav_order: 173
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Lamivudine：予測新適応症はサル免疫不全ウイルス感染症 (Simian Immunodeficiency Virus Infection)（エビデンスレベル L4）。既存適応症：慢性B型肝炎、HIV感染症、AIDS"
 ---
 
 # Lamivudine

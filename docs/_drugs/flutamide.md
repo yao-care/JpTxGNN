@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 139
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Flutamide：予測新適応症は前立腺癌・脳腫瘍の感受性 (prostate cancer/brain cancer susceptibility)（エビデンスレベル L5）。既存適応症：前立腺癌（抗悪性腫瘍薬、アンドロゲン受容体拮抗薬）"
 ---
 
 # Flutamide

@@ -5,6 +5,8 @@ parent: 中エビデンスレベル
 nav_order: 206
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Methylprednisolone：予測新適応症は円形脱毛症 (Alopecia Areata)（エビデンスレベル L3）。既存適応症：自己免疫疾患、クローン病、副腎皮質機能不全、急性リンパ芽球性白血病など（承認適応症の記載データはありません）"
 ---
 
 # Methylprednisolone

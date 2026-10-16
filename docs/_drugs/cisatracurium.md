@@ -5,6 +5,8 @@ parent: 中エビデンス (L3-L4)
 nav_order: 46
 evidence_level: L4
 indication_count: 1
+last_modified_at: 2026-09-17
+description: "Cisatracurium：予測新適応症は子癲前症 (Preeclampsia)（エビデンスレベル L4）。既存適応症：作為手術全身麻醉劑之輔助劑或加護病房使用，用以鬆弛骨骼肌，幫助氣管插管及與人工呼吸器的協調"
 ---
 
 # Cisatracurium

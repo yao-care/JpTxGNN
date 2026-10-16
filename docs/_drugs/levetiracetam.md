@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 181
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Levetiracetam：予測新適応症は視覚てんかん (Visual Epilepsy)（エビデンスレベル L5）。既存適応症：抗てんかん薬"
 ---
 
 # Levetiracetam

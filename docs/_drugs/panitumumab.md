@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 235
 evidence_level: L5
 indication_count: 2
+last_modified_at: 2026-10-15
+description: "Panitumumab：予測新適応症は薬剤性骨粗鬆症 (Drug-induced Osteoporosis)（エビデンスレベル L5）。既存適応症：転移性結腸癌"
 ---
 
 # Panitumumab

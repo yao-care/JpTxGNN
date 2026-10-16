@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 283
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Solifenacin：予測新適応症は多発性嚢胞腎 3 型（多発性嚢胞肝を伴う場合を含む）（エビデンスレベル L5）。既存適応症：過活動膀胱"
 ---
 
 # Solifenacin

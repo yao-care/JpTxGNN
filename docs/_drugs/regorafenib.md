@@ -5,6 +5,8 @@ parent: 高エビデンスレベル
 nav_order: 265
 evidence_level: L2
 indication_count: 8
+last_modified_at: 2026-10-15
+description: "Regorafenib：予測新適応症は脂肪肉腫 (Liposarcoma)（エビデンスレベル L2）。既存適応症：転移性大腸癌、肝細胞癌、消化管間質腫瘍 (GIST) など（日本の承認適応症の記載はなし）"
 ---
 
 # Regorafenib

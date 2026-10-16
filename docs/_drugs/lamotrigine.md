@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 174
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Lamotrigine：予測新適応症は三叉神経腫瘍 (Trigeminal Nerve Neoplasm)（エビデンスレベル L5）。既存適応症：双極性障害における気分エピソードの再発・再燃抑制、Lennox-Gastaut 症候群（抗てんかん薬）"
 ---
 
 # Lamotrigine

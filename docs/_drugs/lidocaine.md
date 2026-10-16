@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 187
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Lidocaine：予測新適応症は点状表層角結膜炎 (Punctate Epithelial Keratoconjunctivitis)（エビデンスレベル L5）。既存適応症：表面麻酔薬、抗不整脈薬、ナトリウムチャネル遮断薬"
 ---
 
 # Lidocaine

@@ -5,6 +5,8 @@ parent: 中エビデンスレベル
 nav_order: 317
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Topotecan：予測新適応症は女性乳癌 (Female Breast Carcinoma)（エビデンスレベル L3）。既存適応症：卵巣癌"
 ---
 
 # Topotecan

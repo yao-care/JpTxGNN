@@ -5,6 +5,8 @@ parent: 中エビデンスレベル
 nav_order: 11
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Abatacept：予測新適応症はリウマチ性血管炎 (rheumatoid vasculitis)（エビデンスレベル L4）。既存適応症：関節リウマチ、若年性特発性関節炎、脊椎関節症（日本の承認適応症の記載は、今回compiledしたデータにはありません）"
 ---
 
 # Abatacept

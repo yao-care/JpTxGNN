@@ -5,6 +5,8 @@ parent: 高エビデンスレベル
 nav_order: 309
 evidence_level: L2
 indication_count: 6
+last_modified_at: 2026-10-15
+description: "Tizanidine：予測新適応症は片頭痛 (migraine disorder)（エビデンスレベル L2）。既存適応症：脊髄小脳変性症、多発性硬化症、筋萎縮性側索硬化症（鎮痙薬・筋弛緩薬）"
 ---
 
 # Tizanidine

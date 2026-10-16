@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 25
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Amoxicillin：予測新適応症は高アミラーゼ血症 (Hyperamylasemia)（エビデンスレベル L5）。既存適応症：淋菌感染症、梅毒、歯周組織炎、猩紅熱、ヘリコバクター・ピロリ感染症"
 ---
 
 # Amoxicillin

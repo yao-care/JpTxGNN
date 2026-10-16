@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 56
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Calcium：予測新適応症は血栓性疾患 (thrombotic disease)（エビデンスレベル L5）。既存適応症：制酸薬、高リン血症治療薬（胃・十二指腸潰瘍）"
 ---
 
 # Calcium

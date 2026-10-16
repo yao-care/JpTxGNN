@@ -7,6 +7,7 @@ parent: モデル予測のみ (L5)
 nav_order: 177
 evidence_level: L5
 indication_count: 1
+last_modified_at: 2026-04-19
 ---
 
 # Tofacitinib

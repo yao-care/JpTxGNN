@@ -5,6 +5,8 @@ parent: 高エビデンスレベル
 nav_order: 118
 evidence_level: L2
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Escitalopram：予測新適応症は気分変調症 (Dysthymic Disorder)（エビデンスレベル L2）。既存適応症：抗うつ薬、選択的セロトニン再取り込み阻害薬"
 ---
 
 # Escitalopram

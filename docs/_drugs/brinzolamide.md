@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 50
 evidence_level: L5
 indication_count: 1
+last_modified_at: 2026-10-15
+description: "Brinzolamide：予測新適応症は原発性遺伝性緑内障 (Primary Hereditary Glaucoma)（エビデンスレベル L5）。既存適応症：緑内障（抗緑内障薬、炭酸脱水酵素阻害薬）"
 ---
 
 # Brinzolamide

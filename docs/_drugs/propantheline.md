@@ -5,6 +5,8 @@ parent: 中エビデンス (L3-L4)
 nav_order: 141
 evidence_level: L3
 indication_count: 1
+last_modified_at: 2026-09-17
+description: "Propantheline：予測新適応症は胃十二指腸炎 (Gastroduodenitis)（エビデンスレベル L3）。既存適応症：胃潰瘍、十二指腸潰瘍、胃炎、胃酸過多"
 ---
 
 # Propantheline

@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 218
 evidence_level: L5
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Naftopidil：予測新適応症はAmbras 型先天性汎発性多毛症 (Ambras type hypertrichosis universalis congenita)（エビデンスレベル L5）。既存適応症：排尿障害改善薬、α1アドレナリン受容体拮抗薬"
 ---
 
 # Naftopidil

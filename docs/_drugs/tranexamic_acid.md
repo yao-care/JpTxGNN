@@ -5,6 +5,8 @@ parent: モデル予測のみ (L5)
 nav_order: 180
 evidence_level: L5
 indication_count: 1
+last_modified_at: 2026-09-17
+description: "Tranexamic Acid：予測新適応症は閉經 (amenorrhea)（エビデンスレベル L5）。既存適応症：全身及局部出血或出血性疾病"
 ---
 
 # Tranexamic Acid

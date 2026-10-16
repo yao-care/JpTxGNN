@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 86
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Dapagliflozin：予測新適応症は限局性スティッフリム症候群 (focal stiff limb syndrome)（エビデンスレベル L5）。既存適応症：2型糖尿病（糖尿病治療薬、SGLT-2阻害薬）"
 ---
 
 # Dapagliflozin

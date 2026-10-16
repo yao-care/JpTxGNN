@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 197
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Loxoprofen：予測新適応症はコロボーマ性小眼球症－根肢近位型異形成症候群 (colobomatous microphthalmia-rhizomelic dyspla…（エビデンスレベル L5）。既存適応症：関節リウマチ"
 ---
 
 # Loxoprofen

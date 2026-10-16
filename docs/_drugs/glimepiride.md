@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 149
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Glimepiride：予測新適応症は古典的スティッフパーソン症候群 (Classic Stiff Person Syndrome)（エビデンスレベル L5）。既存適応症：2型糖尿病（スルホニル尿素系血糖降下薬）"
 ---
 
 # Glimepiride

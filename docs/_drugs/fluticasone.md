@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 140
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Fluticasone：予測新適応症は片頭痛 (Migraine Disorder)（エビデンスレベル L5）。既存適応症：承認適応症の文言は未取得（製品は点鼻液・吸入剤）"
 ---
 
 # Fluticasone

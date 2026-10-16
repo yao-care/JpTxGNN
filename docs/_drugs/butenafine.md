@@ -5,6 +5,8 @@ parent: 中エビデンス (L3-L4)
 nav_order: 36
 evidence_level: L3
 indication_count: 1
+last_modified_at: 2026-09-17
+description: "Butenafine：予測新適応症は皮膚念珠菌病 (cutaneous candidiasis)（エビデンスレベル L3）。既存適応症：指(趾)間黴菌病(香港腳)、圓癬(體癬)、股癬等皮膚真菌感染"
 ---
 
 # Butenafine

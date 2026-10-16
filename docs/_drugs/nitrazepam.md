@@ -5,6 +5,8 @@ parent: 中エビデンスレベル
 nav_order: 223
 evidence_level: L3
 indication_count: 3
+last_modified_at: 2026-10-15
+description: "Nitrazepam：予測新適応症は睡眠障害（入眠・睡眠維持障害） (sleep disorder, initiating and maintaining sleep)（エビデンスレベル L3）。既存適応症：不眠症、点頭てんかん（抗けいれん薬、催眠鎮静薬）"
 ---
 
 # Nitrazepam

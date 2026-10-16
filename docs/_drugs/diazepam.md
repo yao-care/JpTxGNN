@@ -5,6 +5,8 @@ parent: 中エビデンスレベル
 nav_order: 92
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Diazepam：予測新適応症は不眠症 (insomnia)（エビデンスレベル L4）。既存適応症：神経症における不安、うつ病、熱性けいれん（抗不安薬・抗てんかん薬・催眠鎮静薬）"
 ---
 
 # Diazepam

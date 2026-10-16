@@ -5,6 +5,8 @@ parent: 高エビデンスレベル
 nav_order: 127
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Ezetimibe：予測新適応症は高リポタンパク血症 (hyperlipoproteinemia)（エビデンスレベル L1）。既存適応症：脂質異常症治療薬、コレステロール吸収阻害薬（高コレステロール血症、家族性高コレステロール血症、ホモ接合体性シトステロール血症）"
 ---
 
 # Ezetimibe

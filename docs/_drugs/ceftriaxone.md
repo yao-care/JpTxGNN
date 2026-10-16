@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 64
 evidence_level: L5
 indication_count: 7
+last_modified_at: 2026-10-15
+description: "Ceftriaxone：予測新適応症は多クローン性高粘稠度症候群 (Polyclonal Hyperviscosity Syndrome)（エビデンスレベル L5）。既存適応症：胆嚢炎、淋菌感染症（抗生物質・細胞壁合成阻害薬）"
 ---
 
 # Ceftriaxone

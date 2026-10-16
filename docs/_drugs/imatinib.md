@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 160
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Imatinib：予測新適応症は心臓線維肉腫 (heart fibrosarcoma)（エビデンスレベル L5）。既存適応症：慢性骨髄性白血病、消化管間質腫瘍 (KIT 陽性)、フィラデルフィア染色体陽性急性リンパ性白血病…"
 ---
 
 # Imatinib

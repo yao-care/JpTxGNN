@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 201
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Menatetrenone：予測新適応症は結膜脂肪腫 (lipoma of the conjunctiva)（エビデンスレベル L5）。既存適応症：骨粗鬆症"
 ---
 
 # Menatetrenone

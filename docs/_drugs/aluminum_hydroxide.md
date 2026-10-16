@@ -5,6 +5,8 @@ parent: 中エビデンス (L3-L4)
 nav_order: 18
 evidence_level: L3
 indication_count: 1
+last_modified_at: 2026-04-19
+description: "Aluminum Hydroxide：予測新適応症は活動性消化性潰瘍 (active peptic ulcer disease)（エビデンスレベル L3）。既存適応症：胃酸過多、胃炎、胃及十二指腸潰瘍"
 ---
 
 # Aluminum Hydroxide

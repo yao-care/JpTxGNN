@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 333
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Venetoclax：予測新適応症は胚中心前型慢性リンパ性白血病/小リンパ球性リンパ腫 (pregerminal center chronic lymphocytic leu…（エビデンスレベル L5）。既存適応症：急性リンパ性白血病、リヒター症候群"
 ---
 
 # Venetoclax

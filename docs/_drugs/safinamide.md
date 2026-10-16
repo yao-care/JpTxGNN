@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 274
 evidence_level: L5
 indication_count: 3
+last_modified_at: 2026-10-15
+description: "Safinamide：予測新適応症はラスムッセン亜急性脳炎 (Rasmussen subacute encephalitis)（エビデンスレベル L5）。既存適応症：パーキンソン病（承認適応症の記載データはなし）"
 ---
 
 # Safinamide

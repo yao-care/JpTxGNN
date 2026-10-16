@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 94
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Diltiazem：予測新適応症は脳血管障害 (Cerebrovascular Disorder)（エビデンスレベル L5）。既存適応症：狭心症、本態性高血圧症（抗不整脈薬、血圧降下薬、冠血管拡張薬、カルシウムチャネル遮断薬）"
 ---
 
 # Diltiazem

@@ -5,6 +5,8 @@ parent: 高エビデンスレベル
 nav_order: 76
 evidence_level: L2
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Clopidogrel：予測新適応症は片頭痛 (Migraine Disorder)。順位 1 位は脳幹性前兆を伴う片頭痛 (Migraine with Brainstem A…（エビデンスレベル L2）。既存適応症：抗凝固薬、血小板凝集抑制薬、P2Y12阻害薬"
 ---
 
 # Clopidogrel

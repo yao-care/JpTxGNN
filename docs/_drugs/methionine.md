@@ -5,6 +5,8 @@ parent: モデル予測のみ (L5)
 nav_order: 102
 evidence_level: L5
 indication_count: 1
+last_modified_at: 2026-09-17
+description: "Methionine：予測新適応症は痤瘡 (Acne)（エビデンスレベル L5）。既存適応症：肝機能障礙"
 ---
 
 # Methionine

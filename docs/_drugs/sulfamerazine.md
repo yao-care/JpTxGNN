@@ -5,6 +5,8 @@ parent: 中エビデンス (L3-L4)
 nav_order: 159
 evidence_level: L4
 indication_count: 1
+last_modified_at: 2026-04-19
+description: "Sulfamerazine：予測新適応症は結膜炎（conjunctivitis）、痛風（gout）（エビデンスレベル L4）。既存適応症：磺胺劑、革蘭氏陽性及陰性菌感染症"
 ---
 
 # Sulfamerazine

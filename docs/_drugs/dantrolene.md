@@ -5,6 +5,8 @@ parent: 中エビデンスレベル
 nav_order: 85
 evidence_level: L3
 indication_count: 9
+last_modified_at: 2026-10-15
+description: "Dantrolene：予測新適応症は悪性高熱症感受性 (malignant hyperthermia, susceptibility to)（エビデンスレベル L3）。既存適応症：麻酔時の悪性高熱症、運動誘発性悪性高熱症"
 ---
 
 # Dantrolene

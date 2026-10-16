@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 254
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Pregabalin：予測新適応症は腱炎 (Tendinitis)（最上位予測）。エビデンスが最も豊富な候補は変形性関節症 (Osteoarthritis)（エビデンスレベル L5）。既存適応症：神経障害性疼痛、線維筋痛症"
 ---
 
 # Pregabalin

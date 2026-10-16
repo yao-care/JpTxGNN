@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 334
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Verapamil：予測新適応症は閉塞性脚ブロック (obsolete bundle branch block)（エビデンスレベル L5）。既存適応症：抗不整脈薬、血管拡張薬、カルシウムチャネル遮断薬（心房細動、狭心症、心筋梗塞）"
 ---
 
 # Verapamil

@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 35
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Azathioprine：予測新適応症はコロボーマ性小眼球症-根幹肢異形成症候群 (colobomatous microphthalmia-rhizomelic dysplasi…（エビデンスレベル L5）。既存適応症：臓器移植における拒絶反応、ステロイド依存性のクローン病・潰瘍性大腸炎、顕微鏡的多発血管炎、多発血管炎性肉芽腫症、全身性エリテマトーデス…"
 ---
 
 # Azathioprine

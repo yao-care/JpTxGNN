@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 312
 evidence_level: L5
 indication_count: 1
+last_modified_at: 2026-10-15
+description: "Tofisopam：予測新適応症は不眠症 (Insomnia)（エビデンスレベル L5）。既存適応症：抗不安薬、催眠鎮静薬"
 ---
 
 # Tofisopam

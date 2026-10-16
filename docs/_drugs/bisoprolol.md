@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 47
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Bisoprolol：予測新適応症は悪性腎血管性高血圧 (malignant renovascular hypertension)（エビデンスレベル L5）。既存適応症：本態性高血圧症、狭心症、拡張型心筋症、頻脈性心房細動"
 ---
 
 # Bisoprolol

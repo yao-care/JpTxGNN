@@ -5,6 +5,8 @@ parent: 高エビデンスレベル
 nav_order: 90
 evidence_level: L2
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Dexamethasone：予測新適応症は円形脱毛症 (alopecia areata)（エビデンスレベル L2）。既存適応症：乾癬、掌蹠膿疱症、慢性円板状エリテマトーデス、関節リウマチ、全身性エリテマトーデス、気管支喘息など（炎症・自己免疫疾患全般）"
 ---
 
 # Dexamethasone

@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 209
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Metronidazole：予測新適応症はニューモシスチス症 (Pneumocystosis)（エビデンスレベル L5）。既存適応症：抗菌薬、抗原虫薬、DNA合成阻害薬"
 ---
 
 # Metronidazole

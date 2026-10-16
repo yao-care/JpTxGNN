@@ -5,6 +5,8 @@ parent: 中エビデンスレベル
 nav_order: 289
 evidence_level: L4
 indication_count: 9
+last_modified_at: 2026-10-15
+description: "Sulpiride：予測新適応症は網膜ジストロフィー（retinal dystrophy with or without extraocular anomalies）（エビデンスレベル L4）。既存適応症：統合失調症、うつ病・うつ状態、胃・十二指腸潰瘍"
 ---
 
 # Sulpiride

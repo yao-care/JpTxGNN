@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 169
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Itraconazole：予測新適応症はニューモシスチス症 (pneumocystosis)（エビデンスレベル L5）。既存適応症：抗真菌薬（エルゴステロール合成阻害薬）：スポロトリコーシス、クロモミコーシス、白癬、カンジダ症、慢性皮膚粘膜カンジダ症、癜風、爪白癬…"
 ---
 
 # Itraconazole

@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 225
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Olmesartan：予測新適応症は異型狭心症 (Prinzmetal angina)（TxGNN 最上位）／エビデンス最多：片頭痛 (migraine disorder)（エビデンスレベル L5）。既存適応症：血圧降下薬、アンジオテンシンII受容体拮抗薬（高血圧）"
 ---
 
 # Olmesartan

@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 133
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Fentanyl：予測新適応症は腎性抗利尿ホルモン不適切分泌症候群 (Nephrogenic Syndrome of Inappropriate Antidiuresis)（エビデンスレベル L5）。既存適応症：麻薬性鎮痛薬、オピオイド受容体作動薬"
 ---
 
 # Fentanyl

@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 12
 evidence_level: L5
 indication_count: 9
+last_modified_at: 2026-10-15
+description: "Acarbose：予測新適応症はfocal stiff limb syndrome（エビデンスレベル L5）。既存適応症：糖尿病（α-グルコシダーゼ阻害薬）"
 ---
 
 # Acarbose

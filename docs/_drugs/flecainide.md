@@ -5,6 +5,8 @@ parent: 中エビデンスレベル
 nav_order: 135
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Flecainide：予測新適応症は脳卒中 (stroke disorder)（エビデンスレベル L4）。既存適応症：発作性心房細動・粗動、期外収縮"
 ---
 
 # Flecainide

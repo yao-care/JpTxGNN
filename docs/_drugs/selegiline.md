@@ -5,6 +5,8 @@ parent: 高エビデンスレベル
 nav_order: 277
 evidence_level: L2
 indication_count: 4
+last_modified_at: 2026-10-15
+description: "Selegiline：予測新適応症は統合失調症 (Schizophrenia)（エビデンスレベル L2）。既存適応症：パーキンソン病"
 ---
 
 # Selegiline

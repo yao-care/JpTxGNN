@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 34
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Axitinib：予測新適応症は未分類腎細胞癌 (Unclassified Renal Cell Carcinoma)（エビデンスレベル L5）。既存適応症：腎細胞癌（淡明細胞型腎細胞癌、非乳頭状腎細胞癌など）"
 ---
 
 # Axitinib

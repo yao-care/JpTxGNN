@@ -5,6 +5,8 @@ parent: 中エビデンス (L3-L4)
 nav_order: 155
 evidence_level: L4
 indication_count: 1
+last_modified_at: 2026-09-17
+description: "Silicon Dioxide：予測新適応症はActive Peptic Ulcer Disease（活動性消化性潰瘍）（エビデンスレベル L4）。既存適応症：賦形劑、制酸劑、胃酸過多、氣體吸著劑"
 ---
 
 # Silicon Dioxide

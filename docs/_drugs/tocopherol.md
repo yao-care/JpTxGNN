@@ -5,6 +5,8 @@ parent: 中エビデンスレベル
 nav_order: 311
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Tocopherol：予測新適応症は硬化性胆管炎 (Sclerosing Cholangitis)（エビデンスレベル L4）。既存適応症：ビタミンE補充薬（糖尿病性網膜症、凍瘡）"
 ---
 
 # Tocopherol

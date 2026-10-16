@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 337
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Vildagliptin：予測新適応症は限局性硬直肢症候群 (Focal Stiff Limb Syndrome)（エビデンスレベル L5）。既存適応症：2型糖尿病（DPP-4 阻害薬）"
 ---
 
 # Vildagliptin

@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 159
 evidence_level: L5
 indication_count: 1
+last_modified_at: 2026-10-15
+description: "Icosapent Ethyl：予測新適応症はヘモグロビン異常症 (hemoglobinopathy)（エビデンスレベル L5）。既存適応症：脂質異常症（高脂血症）、閉塞性動脈硬化症"
 ---
 
 # Icosapent Ethyl

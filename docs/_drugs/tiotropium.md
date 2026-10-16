@@ -5,6 +5,8 @@ parent: 高エビデンスレベル
 nav_order: 308
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Tiotropium：予測新適応症は閉塞性肺疾患 (Obstructive Lung Disease)（エビデンスレベル L1）。既存適応症：気管支炎、喘息、内因性喘息、アレルギー性喘息、肺気腫"
 ---
 
 # Tiotropium

@@ -5,6 +5,8 @@ parent: 高エビデンス (L1-L2)
 nav_order: 62
 evidence_level: L2
 indication_count: 1
+last_modified_at: 2026-09-17
+description: "Dronedarone：予測新適応症は中風疾病 (stroke disorder)（エビデンスレベル L2）。既存適応症：心房纖維顫動、心房撲動"
 ---
 
 # Dronedarone

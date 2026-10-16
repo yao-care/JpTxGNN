@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 335
 evidence_level: L5
 indication_count: 3
+last_modified_at: 2026-10-15
+description: "Vidarabine：予測新適応症は光線性口唇炎 (Actinic Cheilitis)（エビデンスレベル L5）。既存適応症：帯状疱疹、単純疱疹、単純ヘルペス脳炎（抗ウイルス薬、DNA ポリメラーゼ阻害薬）"
 ---
 
 # Vidarabine

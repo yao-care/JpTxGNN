@@ -5,6 +5,8 @@ parent: 中エビデンス (L3-L4)
 nav_order: 106
 evidence_level: L4
 indication_count: 1
+last_modified_at: 2026-09-17
+description: "Minoxidil：予測新適応症は頭皮單純性稀毛症 (hypotrichosis simplex of the scalp)（エビデンスレベル L4）。既存適応症：治療女性雄激素性落髮"
 ---
 
 # Minoxidil

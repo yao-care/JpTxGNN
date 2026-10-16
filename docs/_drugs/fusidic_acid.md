@@ -5,6 +5,8 @@ parent: 中エビデンスレベル
 nav_order: 143
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Fusidic Acid：予測新適応症は暴露性角膜炎 (Exposure Keratitis)（エビデンスレベル L4）。既存適応症：尿路感染症、気管支炎、ざ瘡、毛嚢炎、脂漏性皮膚炎など"
 ---
 
 # Fusidic Acid

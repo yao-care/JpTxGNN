@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 144
 evidence_level: L5
 indication_count: 9
+last_modified_at: 2026-10-15
+description: "Galantamine：予測新適応症は心因性運動障害 (Psychogenic Movement Disorders)（エビデンスレベル L5）。既存適応症：認知症治療薬、アセチルコリンエステラーゼ阻害薬"
 ---
 
 # Galantamine

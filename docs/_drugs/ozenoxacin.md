@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 233
 evidence_level: L5
 indication_count: 1
+last_modified_at: 2026-10-15
+description: "Ozenoxacin：予測新適応症はマラリア (Malaria)（エビデンスレベル L5）。既存適応症：ざ瘡"
 ---
 
 # Ozenoxacin

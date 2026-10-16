@@ -5,6 +5,8 @@ parent: 高エビデンス (L1-L2)
 nav_order: 94
 evidence_level: L2
 indication_count: 1
+last_modified_at: 2026-09-17
+description: "Isosorbide Dinitrate：予測新適応症は肺高壓 (pulmonary hypertension)、脫髮症 (alopecia)（エビデンスレベル L2）。既存適応症：預防及治療狹心症發作、冠狀動脈不全"
 ---
 
 # Isosorbide Dinitrate

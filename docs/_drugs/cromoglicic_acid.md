@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 81
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Cromoglicic Acid：予測新適応症は潰瘍性直腸S状結腸炎 (Ulcerative Proctosigmoiditis)（エビデンスレベル L5）。既存適応症：気管支喘息、アレルギー性鼻炎、アレルギー性結膜炎、肥満細胞症など（日本の承認適応症テキストはデータなし）"
 ---
 
 # Cromoglicic Acid

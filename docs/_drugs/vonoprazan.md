@@ -5,6 +5,8 @@ parent: 中エビデンスレベル
 nav_order: 340
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Vonoprazan：予測新適応症は活動性消化性潰瘍 (active peptic ulcer disease)（エビデンスレベル L3）。既存適応症：胃潰瘍、十二指腸潰瘍、逆流性食道炎、胃食道逆流症"
 ---
 
 # Vonoprazan

@@ -5,6 +5,8 @@ parent: 中エビデンスレベル
 nav_order: 250
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Pramipexole：予測新適応症は注意欠如・多動症 (attention deficit-hyperactivity disorder)（エビデンスレベル L4）。既存適応症：パーキンソン病、レストレスレッグス症候群"
 ---
 
 # Pramipexole

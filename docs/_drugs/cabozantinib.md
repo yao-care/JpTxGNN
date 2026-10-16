@@ -5,6 +5,8 @@ parent: 中エビデンスレベル
 nav_order: 55
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Cabozantinib：予測新適応症は脂肪肉腫 (Liposarcoma)（エビデンスレベル L3）。既存適応症：腎細胞癌、明細胞型腎細胞癌、甲状腺髄様癌"
 ---
 
 # Cabozantinib

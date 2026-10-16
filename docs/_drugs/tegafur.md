@@ -5,6 +5,8 @@ parent: 高エビデンスレベル
 nav_order: 297
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Tegafur：予測新適応症は大腸腫瘍 (Colonic Neoplasm)（エビデンスレベル L1）。既存適応症：胃癌"
 ---
 
 # Tegafur

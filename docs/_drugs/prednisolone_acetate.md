@@ -5,6 +5,8 @@ parent: 中エビデンス (L3-L4)
 nav_order: 138
 evidence_level: L4
 indication_count: 1
+last_modified_at: 2026-09-17
+description: "Prednisolone Acetate：予測新適応症は寄生蟲性結膜炎 (Parasitic Conjunctivitis)（エビデンスレベル L4）。既存適応症：眼瞼炎、結膜炎、角膜炎、鞏膜炎、虹彩毛樣體炎等過敏性疾患"
 ---
 
 # Prednisolone Acetate

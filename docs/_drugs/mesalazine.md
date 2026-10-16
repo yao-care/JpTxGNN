@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 203
 evidence_level: L5
 indication_count: 7
+last_modified_at: 2026-10-15
+description: "Mesalazine：予測新適応症は若年性黄斑ジストロフィーを伴う先天性乏毛症 (Congenital Hypotrichosis with Juvenile Macular…（エビデンスレベル L5）。既存適応症：潰瘍性大腸炎、クローン病（抗炎症薬）"
 ---
 
 # Mesalazine

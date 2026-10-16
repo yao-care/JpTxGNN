@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 183
 evidence_level: L5
 indication_count: 3
+last_modified_at: 2026-10-15
+description: "Levocetirizine：予測新適応症は関節リウマチ (Rheumatoid Arthritis)（エビデンスレベル L5）。既存適応症：アレルギー性鼻炎（抗アレルギー薬、H1 受容体拮抗薬）"
 ---
 
 # Levocetirizine

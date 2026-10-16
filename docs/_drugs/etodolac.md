@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 125
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Etodolac：予測新適応症は肢端中間部異形成症 Hunter-Thompson 型 (acromesomelic dysplasia…（エビデンスレベル L5）。既存適応症：鎮痛薬、抗炎症薬、シクロオキシゲナーゼ2阻害薬（関節リウマチ）"
 ---
 
 # Etodolac

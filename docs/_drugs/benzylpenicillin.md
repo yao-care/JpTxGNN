@@ -5,6 +5,8 @@ parent: 中エビデンス (L3-L4)
 nav_order: 30
 evidence_level: L3
 indication_count: 1
+last_modified_at: 2026-09-17
+description: "Benzylpenicillin：予測新適応症は牙冠周炎 (pericoronitis)（エビデンスレベル L3）。既存適応症：葡萄球菌、鏈球菌、肺炎球菌等革蘭氏陽性菌感染、梅毒、淋病、細菌性心內膜炎"
 ---
 
 # Benzylpenicillin

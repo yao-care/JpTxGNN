@@ -5,6 +5,8 @@ parent: 高エビデンスレベル
 nav_order: 126
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Etoposide：予測新適応症はユーイング肉腫 (Ewing sarcoma)（エビデンスレベル L1）。既存適応症：小細胞肺癌、精巣腫瘍（胚細胞腫瘍、セミノーマ、卵黄嚢腫瘍、奇形腫など）"
 ---
 
 # Etoposide

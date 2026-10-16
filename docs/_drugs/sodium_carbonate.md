@@ -5,6 +5,8 @@ parent: 中エビデンス (L3-L4)
 nav_order: 157
 evidence_level: L4
 indication_count: 1
+last_modified_at: 2026-04-19
+description: "Sodium Carbonate：予測新適応症は過敏反應（anaphylaxis）、乾眼症（dry eye syndrome）（エビデンスレベル L4）。既存適応症：制酸劑、無菌製劑輔助劑（鹼化藥）、抗生素輔助劑"
 ---
 
 # Sodium Carbonate

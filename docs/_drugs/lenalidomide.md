@@ -5,6 +5,8 @@ parent: 高エビデンスレベル
 nav_order: 179
 evidence_level: L2
 indication_count: 6
+last_modified_at: 2026-10-15
+description: "Lenalidomide：予測新適応症は骨髄性白血病 (Myeloid Leukemia)（エビデンスレベル L2）。既存適応症：多発性骨髄腫、骨髄異形成症候群（5番染色体長腕部欠失）"
 ---
 
 # Lenalidomide

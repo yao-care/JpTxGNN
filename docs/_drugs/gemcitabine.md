@@ -5,6 +5,8 @@ parent: 高エビデンスレベル
 nav_order: 146
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Gemcitabine：予測新適応症は女性乳癌 (female breast carcinoma)（エビデンスレベル L1）。既存適応症：非小細胞肺癌、膵癌、尿路上皮癌、乳癌、卵巣癌、悪性リンパ腫"
 ---
 
 # Gemcitabine

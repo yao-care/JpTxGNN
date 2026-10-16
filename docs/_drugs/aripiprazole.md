@@ -5,6 +5,8 @@ parent: 高エビデンスレベル
 nav_order: 29
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Aripiprazole：予測新適応症は大うつ病性障害 (Major Affective Disorder)（エビデンスレベル L1）。既存適応症：統合失調症、双極性障害における躁症状、うつ病・うつ状態"
 ---
 
 # Aripiprazole

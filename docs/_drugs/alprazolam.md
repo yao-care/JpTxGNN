@@ -5,6 +5,8 @@ parent: 中エビデンスレベル
 nav_order: 21
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Alprazolam：予測新適応症は不眠症 (Insomnia)（エビデンスレベル L4）。既存適応症：抗不安薬、マイナートランキライザー、催眠鎮静薬"
 ---
 
 # Alprazolam

@@ -5,6 +5,8 @@ parent: 中エビデンス (L3-L4)
 nav_order: 34
 evidence_level: L4
 indication_count: 1
+last_modified_at: 2026-09-17
+description: "Brodalumab：予測新適応症は眼病 (Eye Disease)（エビデンスレベル L4）。既存適応症：斑塊性乾癬"
 ---
 
 # Brodalumab

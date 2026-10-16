@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 330
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Valproic Acid：予測新適応症は三叉神経腫瘍 (Trigeminal Nerve Neoplasm)（エビデンスレベル L5）。既存適応症：躁病および躁うつ病の躁状態"
 ---
 
 # Valproic Acid

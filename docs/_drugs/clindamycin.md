@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 72
 evidence_level: L5
 indication_count: 6
+last_modified_at: 2026-10-15
+description: "Clindamycin：予測新適応症は点状表層角結膜炎 (Punctate Epithelial Keratoconjunctivitis)（エビデンスレベル L5）。既存適応症：ざ瘡、連鎖球菌感染症、ブドウ球菌感染症、嫌気性菌感染症、細菌性腟症など"
 ---
 
 # Clindamycin

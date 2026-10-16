@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 279
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Sertraline：予測新適応症は演技性パーソナリティ障害 (histrionic personality disorder)（エビデンスレベル L5）。既存適応症：うつ病・うつ状態、パニック障害"
 ---
 
 # Sertraline

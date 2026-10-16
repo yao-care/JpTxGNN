@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 61
 evidence_level: L5
 indication_count: 5
+last_modified_at: 2026-10-15
+description: "Carfilzomib：予測新適応症はCMM7（エビデンスレベル L5）。既存適応症：形質細胞性骨髄腫（多発性骨髄腫）"
 ---
 
 # Carfilzomib

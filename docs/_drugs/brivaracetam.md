@@ -5,6 +5,8 @@ parent: 中エビデンス (L3-L4)
 nav_order: 33
 evidence_level: L3
 indication_count: 1
+last_modified_at: 2026-09-17
+description: "Brivaracetam：予測新適応症は視覺性癲癇 (visual epilepsy)（エビデンスレベル L3）。既存適応症：1個月大以上局部癲癇發作病人的治療"
 ---
 
 # Brivaracetam

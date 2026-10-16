@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 130
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Felbinac：予測新適応症はbrachyolmia-amelogenesis imperfecta syndrome（エビデンスレベル L5）。既存適応症：鎮痛薬、抗炎症薬、シクロオキシゲナーゼ阻害薬"
 ---
 
 # Felbinac

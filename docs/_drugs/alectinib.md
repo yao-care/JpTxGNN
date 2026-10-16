@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 17
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Alectinib：予測新適応症は歯肉線維腫症 (Fibromatosis, Gingival)（エビデンスレベル L5）。既存適応症：非小細胞肺癌、肺癌（承認文書の適応症テキストは、今回のデータにはありません）"
 ---
 
 # Alectinib

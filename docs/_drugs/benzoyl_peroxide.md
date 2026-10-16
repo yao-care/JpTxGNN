@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 41
 evidence_level: L5
 indication_count: 4
+last_modified_at: 2026-10-15
+description: "Benzoyl Peroxide：予測新適応症は外陰部逆転性毛包性角化症 (vulvar inverted follicular keratosis)（エビデンスレベル L5）。既存適応症：ざ瘡（尋常性ざ瘡）、アトピー性皮膚炎、接触皮膚炎、脂漏性皮膚炎など"
 ---
 
 # Benzoyl Peroxide

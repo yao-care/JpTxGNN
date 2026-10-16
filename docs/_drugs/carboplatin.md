@@ -5,6 +5,8 @@ parent: 高エビデンスレベル
 nav_order: 60
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Carboplatin：予測新適応症は女性乳癌 (Female Breast Carcinoma)（エビデンスレベル L1）。既存適応症：頭頸部癌、肺小細胞癌、睾丸腫瘍、卵巣癌、子宮頸癌、悪性リンパ腫、非小細胞肺癌、乳癌、子宮体癌、神経芽腫、網膜芽腫、肝芽腫…"
 ---
 
 # Carboplatin

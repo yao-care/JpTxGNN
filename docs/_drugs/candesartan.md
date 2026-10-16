@@ -5,6 +5,8 @@ parent: 高エビデンスレベル
 nav_order: 57
 evidence_level: L2
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Candesartan：予測新適応症は片頭痛 (migraine disorder)（エビデンスレベル L2）。既存適応症：血圧降下薬、アンジオテンシンII受容体拮抗薬"
 ---
 
 # Candesartan

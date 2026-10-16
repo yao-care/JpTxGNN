@@ -5,6 +5,8 @@ parent: 中エビデンス (L3-L4)
 nav_order: 192
 evidence_level: L3
 indication_count: 1
+last_modified_at: 2026-09-17
+description: "Vitamin E：予測新適応症は先天性膽紅素代謝異常 (inborn disorder of bilirubin metabolism)（エビデンスレベル L3）。既存適応症：習慣性早流產、末梢血行障礙、維生素 E 缺乏症"
 ---
 
 # Vitamin E

@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 248
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Pitavastatin：予測新適応症はホモ接合体家族性高コレステロール血症 (homozygous familial hypercholesterolemia)（エビデンスレベル L5）。既存適応症：脂質異常症治療薬、HMG-CoA 還元酵素阻害薬"
 ---
 
 # Pitavastatin

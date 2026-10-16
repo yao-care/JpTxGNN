@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 236
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Paroxetine：予測新適応症はOhdo 症候群および類縁疾患 (Ohdo syndrome and variants)（エビデンスレベル L5）。既存適応症：抗うつ薬、選択的セロトニン再取り込み阻害薬"
 ---
 
 # Paroxetine

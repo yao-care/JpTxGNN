@@ -5,6 +5,8 @@ parent: 中エビデンス (L3-L4)
 nav_order: 115
 evidence_level: L4
 indication_count: 1
+last_modified_at: 2026-09-17
+description: "Nystatin：予測新適応症は外陰陰道炎 (Vulvovaginitis)（エビデンスレベル L4）。既存適応症：對革蘭氏陽性菌及陰性菌所引起之感染症"
 ---
 
 # Nystatin

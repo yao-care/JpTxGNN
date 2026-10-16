@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 298
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Telmisartan：予測新適応症はPrinzmetal 狭心症 (Prinzmetal angina)（エビデンスレベル L5）。既存適応症：高血圧症（血圧降下薬、アンジオテンシンII受容体拮抗薬）"
 ---
 
 # Telmisartan

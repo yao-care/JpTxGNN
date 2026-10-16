@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 162
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Indomethacin：予測新適応症は短指症候群 (Brachydactyly-Syndactyly Syndrome)（エビデンスレベル L5）。既存適応症：関節リウマチ、痛風発作（鎮痛薬・抗炎症薬・解熱薬）"
 ---
 
 # Indomethacin

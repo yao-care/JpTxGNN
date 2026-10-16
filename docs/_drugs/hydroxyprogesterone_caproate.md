@@ -5,6 +5,8 @@ parent: 高エビデンス (L1-L2)
 nav_order: 81
 evidence_level: L2
 indication_count: 1
+last_modified_at: 2026-04-19
+description: "Hydroxyprogesterone Caproate：予測新適応症は子宮內膜癌 (endometrial cancer)（エビデンスレベル L2）。既存適応症：習慣性流產、機能性子宮出血、黃體機能不全"
 ---
 
 # Hydroxyprogesterone Caproate

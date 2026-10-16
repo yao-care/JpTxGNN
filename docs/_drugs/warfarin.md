@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 342
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Warfarin：予測新適応症は血栓性素因 (Thrombophilia)（エビデンスレベル L5）。既存適応症：抗凝固薬、ビタミンK拮抗薬"
 ---
 
 # Warfarin

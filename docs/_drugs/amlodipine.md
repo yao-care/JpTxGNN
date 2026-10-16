@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 24
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Amlodipine：予測新適応症は脳幹梗塞 (Brain Stem Infarction)（エビデンスレベル L5）。既存適応症：血圧降下薬、血管拡張薬、カルシウムチャネル遮断薬"
 ---
 
 # Amlodipine

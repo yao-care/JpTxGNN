@@ -5,6 +5,8 @@ parent: 高エビデンス (L1-L2)
 nav_order: 16
 evidence_level: L1
 indication_count: 1
+last_modified_at: 2026-09-17
+description: "Alprostadil：予測新適応症は主動脈畸形、先天性三尖瓣狹窄、心室中隔缺損（エビデンスレベル L1）。既存適応症：週邊動脈阻塞、勃起功能障礙、先天性心臟缺損新生兒動脈導管維持"
 ---
 
 # Alprostadil

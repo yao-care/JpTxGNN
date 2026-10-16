@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 272
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Rosuvastatin：予測新適応症はコレステロールエステル転送蛋白欠損症 (cholesterol-ester transfer protein deficiency)（エビデンスレベル L5）。既存適応症：高コレステロール血症、家族性高コレステロール血症（脂質異常症治療薬、HMG-CoA 還元酵素阻害薬）"
 ---
 
 # Rosuvastatin

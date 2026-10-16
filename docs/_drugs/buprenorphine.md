@@ -5,6 +5,8 @@ parent: 中エビデンス (L3-L4)
 nav_order: 35
 evidence_level: L4
 indication_count: 1
+last_modified_at: 2026-09-17
+description: "Buprenorphine：予測新適応症は急性間歇性紫質症 (acute intermittent porphyria)（エビデンスレベル L4）。既存適応症：中重度疼痛、鴉片類物質成癮替代療法"
 ---
 
 # Buprenorphine

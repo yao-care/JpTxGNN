@@ -5,6 +5,8 @@ parent: 中エビデンスレベル
 nav_order: 166
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Iron：予測新適応症はPlummer-Vinson 症候群（エビデンスレベル L3）。既存適応症：貧血治療薬、造血薬、鉄補充薬"
 ---
 
 # Iron

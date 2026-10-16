@@ -5,6 +5,8 @@ parent: 高エビデンスレベル
 nav_order: 314
 evidence_level: L2
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Tolvaptan：予測新適応症は多発性嚢胞腎 3 型（多発性嚢胞肝を伴う場合を含む）（エビデンスレベル L2）。既存適応症：利尿薬、バソプレシン V2 受容体拮抗薬（抗利尿ホルモン不適合分泌症候群）"
 ---
 
 # Tolvaptan

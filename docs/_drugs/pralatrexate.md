@@ -5,6 +5,8 @@ parent: 中エビデンス (L3-L4)
 nav_order: 135
 evidence_level: L4
 indication_count: 1
+last_modified_at: 2026-09-17
+description: "Pralatrexate：予測新適応症は胸膜上皮型間皮瘤 (pleural epithelioid mesothelioma)（エビデンスレベル L4）。既存適応症：治療復發或頑固型周邊T細胞淋巴瘤(PTCL)。適應症依據為腫瘤反應率，目前沒有資料證實無惡化存活期或整體存活期改善等臨床效益"
 ---
 
 # Pralatrexate

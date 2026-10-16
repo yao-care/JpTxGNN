@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 138
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Flurbiprofen：予測新適応症は先端中肢異形成 Hunter-Thompson 型 (Acromesomelic dysplasia…（エビデンスレベル L5）。既存適応症：関節リウマチ（鎮痛薬・抗炎症薬・シクロオキシゲナーゼ阻害薬）"
 ---
 
 # Flurbiprofen

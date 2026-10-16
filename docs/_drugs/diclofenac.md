@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 93
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Diclofenac：予測新適応症は頭皮の単純性乏毛症 (hypotrichosis simplex of the scalp)（エビデンスレベル L5）。既存適応症：鎮痛薬、抗炎症薬、解熱薬、シクロオキシゲナーゼ阻害薬"
 ---
 
 # Diclofenac

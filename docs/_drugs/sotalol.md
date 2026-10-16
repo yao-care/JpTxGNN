@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 285
 evidence_level: L5
 indication_count: 7
+last_modified_at: 2026-10-15
+description: "Sotalol：予測新適応症は洞不全症候群 2 型、常染色体優性 (sick sinus syndrome 2, autosomal dominant)（エビデンスレベル L5）。既存適応症：抗不整脈薬、β遮断薬、カリウムチャネル遮断薬"
 ---
 
 # Sotalol

@@ -5,6 +5,8 @@ parent: 高エビデンスレベル
 nav_order: 329
 evidence_level: L2
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Ustekinumab：予測新適応症は皮膚炎 (Dermatitis)（エビデンスレベル L2）。既存適応症：乾癬性関節炎、乾癬、類乾癬"
 ---
 
 # Ustekinumab

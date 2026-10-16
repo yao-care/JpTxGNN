@@ -5,6 +5,8 @@ parent: 中エビデンスレベル
 nav_order: 116
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Erlotinib：予測新適応症はユーイング肉腫 (Ewing sarcoma)（エビデンスレベル L4）。既存適応症：非小細胞肺癌（EGFR 遺伝子変異陽性）、膵癌"
 ---
 
 # Erlotinib

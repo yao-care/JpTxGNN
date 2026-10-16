@@ -5,6 +5,8 @@ parent: モデル予測のみ
 nav_order: 315
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Topiramate：予測新適応症は三叉神経腫瘍 (Trigeminal Nerve Neoplasm)（エビデンスレベル L5）。既存適応症：抗けいれん薬、抗てんかん薬、抗片頭痛薬、AMPA 受容体拮抗薬"
 ---
 
 # Topiramate

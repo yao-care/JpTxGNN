@@ -5,6 +5,8 @@ parent: 中エビデンス (L3-L4)
 nav_order: 184
 evidence_level: L3
 indication_count: 1
+last_modified_at: 2026-09-17
+description: "Trifluoperazine：予測新適応症は躁鬱症躁症期 (manic bipolar affective disorder)（エビデンスレベル L3）。既存適応症：精神病狀態、噁心嘔吐、攻擊性與破壞性行為障礙"
 ---
 
 # Trifluoperazine

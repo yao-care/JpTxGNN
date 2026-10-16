@@ -5,6 +5,8 @@ parent: モデル予測のみ (L5)
 nav_order: 42
 evidence_level: L5
 indication_count: 1
+last_modified_at: 2026-09-17
+description: "Cefmetazole：予測新適応症は高澱粉酶血症、多株性高黏滯症候群、先天性無白蛋白血症、血型不相容、淋病性尿道炎、解尿素支原體尿道炎、惡性前血液系統疾病、單株免疫球蛋白血症…（エビデンスレベル L5）。既存適応症：葡萄球菌、鏈球菌、肺炎雙球菌、腦膜炎球菌及其他具有感受性細菌引起之感染症"
 ---
 
 # Cefmetazole

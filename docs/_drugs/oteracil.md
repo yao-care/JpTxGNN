@@ -5,6 +5,8 @@ parent: 高エビデンス (L1-L2)
 nav_order: 117
 evidence_level: L2
 indication_count: 1
+last_modified_at: 2026-09-17
+description: "Oteracil：予測新適応症は大腸腫瘤 (Colonic Neoplasm)（エビデンスレベル L2）。既存適応症：胃癌用藥"
 ---
 
 # Oteracil

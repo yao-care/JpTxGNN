@@ -5,6 +5,8 @@ parent: 高エビデンス (L1-L2)
 nav_order: 11
 evidence_level: L2
 indication_count: 1
+last_modified_at: 2026-09-17
+description: "Acetazolamide：予測新適応症は心肌病變 (cardiomyopathy)（エビデンスレベル L2）。既存適応症：青光眼、癲癇、充血性心衰竭水腫"
 ---
 
 # Acetazolamide

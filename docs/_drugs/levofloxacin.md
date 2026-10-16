@@ -5,6 +5,8 @@ parent: 中エビデンスレベル
 nav_order: 185
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Levofloxacin：予測新適応症は点状表層角結膜炎 (punctate epithelial keratoconjunctivitis)（エビデンスレベル L4）。既存適応症：抗菌薬（核酸合成阻害薬）：眼瞼炎、結膜炎、肺炎マイコプラズマ、胆嚢炎、腸チフス、パラチフス、コレラ、歯周組織炎、炭疽、ブルセラ症、ペスト…"
 ---
 
 # Levofloxacin

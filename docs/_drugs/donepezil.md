@@ -5,6 +5,8 @@ parent: 中エビデンスレベル
 nav_order: 99
 evidence_level: L3
 indication_count: 8
+last_modified_at: 2026-10-15
+description: "Donepezil：予測新適応症は慢性チック症 (Chronic Tic Disorder)（エビデンスレベル L3）。既存適応症：アルツハイマー型認知症、レビー小体型認知症"
 ---
 
 # Donepezil

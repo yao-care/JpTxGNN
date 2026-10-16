@@ -5,6 +5,8 @@ parent: 中エビデンス (L3-L4)
 nav_order: 12
 evidence_level: L3
 indication_count: 1
+last_modified_at: 2026-09-17
+description: "Acitretin：予測新適応症は青春痘 (acne)（エビデンスレベル L3）。既存適応症：嚴重性牛皮癬、皮膚角化症"
 ---
 
 # Acitretin

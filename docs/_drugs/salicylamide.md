@@ -5,6 +5,8 @@ parent: 中エビデンス (L3-L4)
 nav_order: 152
 evidence_level: L4
 indication_count: 1
+last_modified_at: 2026-09-17
+description: "Salicylamide：予測新適応症は普通感冒 (common cold)、咽炎 (pharyngitis)（エビデンスレベル L4）。既存適応症：解熱鎮痛、風濕關節痛、神經痛、肌肉痛"
 ---
 
 # Salicylamide
