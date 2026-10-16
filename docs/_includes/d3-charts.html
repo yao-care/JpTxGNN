@@ -111,6 +111,8 @@
 <script>
 document.addEventListener('DOMContentLoaded', function() {
   // Drug data from Jekyll
+  // 2026-10-16：檔名→實際網址（Jekyll :name 會把 _ 轉成 -；明寫 permalink 者照 permalink）
+  const drugUrls = { {% for d in site.drugs %}{{ d.slug | jsonify }}: {{ d.url | relative_url | jsonify }}{% unless forloop.last %}, {% endunless %}{% endfor %} };
   const drugData = {{ site.data.drug_stats.all_drugs | jsonify }};
   const levelCounts = {{ site.data.drug_stats.level_counts | jsonify }};
 
@@ -223,7 +225,7 @@ document.addEventListener('DOMContentLoaded', function() {
         tooltip.style('display', 'none');
       })
       .on('click', function(event, d) {
-        window.location.href = '{{ "/" | relative_url }}drugs/' + d.slug + '/';
+        window.location.href = (drugUrls[d.slug] || '{{ "/" | relative_url }}drugs/' + d.slug + '/');
       });
 
     // Legend
@@ -357,7 +359,7 @@ document.addEventListener('DOMContentLoaded', function() {
         tooltip.style('display', 'none');
       })
       .on('click', function(event, d) {
-        window.location.href = '{{ "/" | relative_url }}drugs/' + d.slug + '/';
+        window.location.href = (drugUrls[d.slug] || '{{ "/" | relative_url }}drugs/' + d.slug + '/');
       });
 
     // Legend - positioned at bottom left with background

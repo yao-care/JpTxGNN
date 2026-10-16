@@ -2,7 +2,7 @@
 layout: default
 title: ドラッグリポジショニング検証報告
 nav_order: 1
-description: "AI を用いて日本医療用医薬品の潜在的新適応症を予測。402 種の医薬品に対する 2,770 件の予測候補を提供。"
+description: "AI を用いて日本医療用医薬品の潜在的新適応症を予測。402 種の医薬品について、既知用途を除外した 2,770 件の予測新適応症を提供。"
 permalink: /
 image: /assets/images/og-default.png
 ---
@@ -10,7 +10,7 @@ image: /assets/images/og-default.png
 # ドラッグリポジショニング、データからエビデンスへ
 
 <p class="key-answer" data-question="JpTxGNN ドラッグリポジショニング検証報告とは？">
-<strong>JpTxGNN</strong> は、ハーバード大学 TxGNN モデルに基づくドラッグリポジショニング予測プラットフォームです。AI により <strong>2,770</strong> 件のドラッグリポジショニング候補を予測し、<strong>402</strong> 種の日本医療用医薬品に対して予測から検証までの完全なレポートを提供します。
+<strong>JpTxGNN</strong> は、ハーバード大学 TxGNN モデルに基づくドラッグリポジショニング予測プラットフォームです。AI により <strong>2,770</strong> 件の新適応症（既知用途を除外）を予測し、<strong>402</strong> 種の日本医療用医薬品に対して予測から検証までの完全なレポートを提供します。
 </p>
 
 <div class="key-takeaway">
@@ -307,6 +307,6 @@ JpTxGNN は、同社の「TxGNN ドラッグリポジショニング」製品ラ
 
 TxGNN モデルそのものは Harvard Medical School の Zitnik Lab によって開発され、
 *Nature Medicine* に発表されました。本プラットフォームは、そのモデルの上に 藥提醒科技有限公司 が構築した
-本番システムであり、各国の医薬品承認データの統合、知識グラフと深層学習による二重予測、
+本番システムであり、各国の医薬品承認データの統合、知識グラフ上の既知用途を除外した深層学習予測、
 PubMed / ClinicalTrials によるエビデンス評価、SMART on FHIR による
 電子カルテ連携をカバーしています。
