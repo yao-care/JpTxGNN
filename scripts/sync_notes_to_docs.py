@@ -136,7 +136,7 @@ def extra_front_matter(bundle_path: Path, evidence_level: str, indication_count:
     drug = (bundle or {}).get("drug") or {}
     names = [p.get("disease_name", "").strip() for p in (drug.get("predicted_indications") or [])]
     names = [n for n in names if n][:10]
-    inn = (drug.get("inn") or "").strip()
+    inn = (drug.get("inn") or drug.get("name") or "").strip()
     if names and inn:
         lines.append(f"monitor_inn: {json.dumps(inn, ensure_ascii=False)}")
         lines.append(f"predicted_indications: {json.dumps(names, ensure_ascii=False)}")
