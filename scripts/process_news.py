@@ -472,6 +472,41 @@ LANG = LANG_BY_PROJECT.get(PROJECT_NAME, "en")
 N = NEWS_STRINGS.get(LANG, NEWS_STRINGS["en"])
 
 
+
+# 2026-10-17：藥物連結一律用頁面實際網址（Jekyll :name 會把 _ 轉成 -；明寫 permalink 者照 permalink），
+# 舊 ID 轉址頁換成目標頁，noindex 頁與不存在的藥不給連結。
+_DRUG_URLS = None
+
+
+def drug_url(slug):
+    global _DRUG_URLS
+    if _DRUG_URLS is None:
+        _DRUG_URLS = {}
+        for f in (Path(__file__).parent.parent / "docs" / "_drugs").glob("*.md"):
+            t = f.read_text(encoding="utf-8", errors="replace")
+            if 'http-equiv="refresh"' in t:
+                m = re.search(r'url=(/drugs/[^"]+/)"', t)
+                url = m.group(1) if m else None
+            elif re.search(r"^noindex:\s*true", t[:2000], re.M):
+                url = None
+            else:
+                pm = re.search(r"^permalink:\s*(\S+)", t[:2000], re.M)
+                url = pm.group(1) if pm else "/drugs/" + re.sub(r"[\W_]+", "-", f.stem).strip("-").lower() + "/"
+            _DRUG_URLS[f.stem] = url
+            _DRUG_URLS.setdefault(f.stem.lower(), url)
+    s = str(slug or "")
+    return _DRUG_URLS.get(s) or _DRUG_URLS.get(s.lower())
+
+
+def drug_url_slug(slug):
+    u = drug_url(slug)
+    return u.strip("/").split("/")[-1] if u else None
+
+
+def report_link(slug, label):
+    u = drug_url(slug)
+    return f"<p><a href=\"{{{{ '{u}' | relative_url }}}}\">{label}</a></p>" if u else ""
+
 def _news_parent() -> str:
     """新聞頁的 Jekyll 母頁標題：以站台自己的 docs/news.md 為準，沒有才用字串表。"""
     nav = DOCS_DIR / "news.md"
@@ -682,8 +717,8 @@ def match_keywords(news_items: list[dict], keywords: dict) -> list[dict]:
 
             # 將 related_drugs 從 slug 轉換為 {slug, name} 格式
             related_drugs = [
-                {"slug": slug, "name": drug_name_map.get(slug, slug)}
-                for slug in ind.get("related_drugs", [])
+                {"slug": slug, "name": drug_name_map.get(slug, slug), "url": drug_url(slug)}
+                for slug in ind.get("related_drugs", []) if drug_url(slug)
             ]
 
             # 處理 indication keywords 可能是 list 或 dict 的情況
@@ -876,7 +911,7 @@ permalink: /news/{slug}/
         content += "</ul></li>\n"
 
     content += f"""</ul>
-<p><a href="{{{{ '/drugs/{slug}/' | relative_url }}}}">{N["full_report"]}</a></p>
+{report_link(slug, N["full_report"])}
 </div>
 
 ## {N["rel_news_h"].format(n=len(news_items))}
@@ -1030,7 +1065,9 @@ permalink: /news/{slug}/
         for drug_slug in sorted(related_drugs):
             drug = drugs_map.get(drug_slug, {})
             drug_name = drug.get("name", drug_slug)
-            content += f'<li><a href="{{{{ \'/drugs/{drug_slug}/\' | relative_url }}}}">{drug_name}</a></li>\n'
+            _u = drug_url(drug_slug)
+            if _u:
+                content += f'<li><a href="{{{{ \'{_u}\' | relative_url }}}}">{drug_name}</a></li>\n'
 
         content += "</ul>\n</div>\n\n"
 

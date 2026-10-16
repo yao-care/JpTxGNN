@@ -114,7 +114,7 @@ window.TXGNN_ANALYTICS = {
       "@type": "MedicalWebPage",
       "@id": "{{ page.url | absolute_url }}#webpage",
       "name": "{{ page.title }} ドラッグリポジショニング検証報告",
-      "description": "{{ page.description | default: page.title | append: ' のドラッグリポジショニング可能性分析' }}",
+      "description": {{ page.description | default: page.title | jsonify }},
       "url": "{{ page.url | absolute_url }}",
       "datePublished": "2026-03-04",
       "dateModified": "2026-03-04",
@@ -130,7 +130,7 @@ window.TXGNN_ANALYTICS = {
       },
       "about": {
         "@type": "MedicalEntity",
-        "name": "{{ page.title }}"
+        "name": {{ page.title | jsonify }}
       },
       "specialty": "Pharmacology",
       "medicalAudience": {
@@ -162,7 +162,7 @@ window.TXGNN_ANALYTICS = {
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "{{ page.title }}",
+          "name": {{ page.title | jsonify }},
           "item": "{{ page.url | absolute_url }}"
         }
       ]
@@ -188,11 +188,6 @@ window.TXGNN_ANALYTICS = {
       },
       "publisher": {
         "@id": "https://www.yao.care/#organization"
-      },
-      "potentialAction": {
-        "@type": "SearchAction",
-        "target": "https://jptxgnn.yao.care/?search={search_term_string}",
-        "query-input": "required name=search_term_string"
       }
     },
     {
@@ -410,7 +405,7 @@ window.TXGNN_ANALYTICS = {
       "@type": "CollectionPage",
       "@id": "{{ page.url | absolute_url }}#webpage",
       "name": "健康ニュース - JpTxGNN",
-      "description": "{{ page.description | default: '{{ site.data.site_stats.drugs }} 種の医薬品と適応症に関する最新健康ニュースを自動監視' }}",
+      "description": {{ page.description | default: '日本の医薬品と適応症に関する最新健康ニュースを自動監視' | jsonify }},
       "url": "{{ page.url | absolute_url }}",
       "isPartOf": {
         "@id": "https://jptxgnn.yao.care/#website"
@@ -455,8 +450,8 @@ window.TXGNN_ANALYTICS = {
     {
       "@type": "Article",
       "@id": "{{ page.url | absolute_url }}#article",
-      "headline": "{{ page.title }}",
-      "description": "{{ page.description | default: page.title }}",
+      "headline": {{ page.title | jsonify }},
+      "description": {{ page.description | default: page.title | jsonify }},
       "url": "{{ page.url | absolute_url }}",
       "datePublished": "2026-03-04",
       "dateModified": "2026-03-04",
@@ -495,7 +490,7 @@ window.TXGNN_ANALYTICS = {
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "{{ page.title }}",
+          "name": {{ page.title | jsonify }},
           "item": "{{ page.url | absolute_url }}"
         }
       ]
@@ -520,7 +515,7 @@ window.TXGNN_ANALYTICS = {
     {
       "@type": "ListItem",
       "position": 2,
-      "name": "{{ page.title }}",
+      "name": {{ page.title | jsonify }},
       "item": "{{ page.url | absolute_url }}"
     }
   ]
