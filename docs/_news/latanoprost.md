@@ -3,7 +3,7 @@ layout: default
 title: "ザラカム配合点眼液（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ザラカム配合点眼液（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "ザラカム配合点眼液（選） に関する健康ニュース。既存適応症：。予測適応症 14 件。"
 permalink: /news/latanoprost/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/latanoprost/
 ---
 
 <p class="key-answer" data-question="ザラカム配合点眼液（選） に関するニュースは？">
-<strong>ザラカム配合点眼液（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>ザラカム配合点眼液（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 14 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,21 @@ permalink: /news/latanoprost/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
-<li>primary hereditary glaucoma (99.9%)</li>
-<li>visceral calciphylaxis (99.8%)</li>
-<li>hypotrichosis simplex of the scalp (99.8%)</li>
-<li>arterial thoracic outlet syndrome (99.8%)</li>
-<li>venous thoracic outlet syndrome (99.8%)</li>
-<li>neurogenic thoracic outlet syndrome (99.7%)</li>
-<li>congenital hypotrichosis milia (99.7%)</li>
-<li>angiodysplasia of stomach (99.7%)</li>
-<li>blue toe syndrome (99.7%)</li>
-<li>lymphangiectasis (99.7%)</li>
+<li><strong>予測適応症（14 件）</strong>:<ul>
+<li>ラタノプロスト0.005% 1mL 点眼液 | 液 | 緑内障（抗緑内障薬、プロスタグランジン F 受容体作動薬） (99.0%)</li>
+<li>ラタノプロスト点眼液0.005%「ニットー」 | 液 | 緑内障（抗緑内障薬、プロスタグランジン F 受容体作動薬） (99.0%)</li>
+<li>ラタノプロスト点眼液0.005%「NP」 | 液 | 緑内障（抗緑内障薬、プロスタグランジン F 受容体作動薬） (99.0%)</li>
+<li>キサラタン点眼液0.005%（選） | 液 | 緑内障（抗緑内障薬、プロスタグランジン F 受容体作動薬） (99.0%)</li>
+<li>ラタノプロスト点眼液0.005%「ケミファ」 | 液 | 緑内障（抗緑内障薬、プロスタグランジン F 受容体作動薬） (99.0%)</li>
+<li>内臓カルシフィラキシー | 99.83% | FP 受容体作動との明確な関連なし (99.0%)</li>
+<li>頭皮の単純性乏毛症 | 99.81% | 毛周期の成長期延長作用から、間接的な妥当性あり (99.0%)</li>
+<li>動脈性胸郭出口症候群 | 99.78% | 機械的圧迫が主因で、機序上の根拠なし (99.0%)</li>
+<li>静脈性胸郭出口症候群 | 99.78% | 明確な機序なし。グラフ類似性による可能性 (99.0%)</li>
+<li>神経性胸郭出口症候群 | 99.72% | 機序上の関連なし (99.0%)</li>
+<li>先天性乏毛症・稗粒腫 | 99.71% | 毛成長作用は間接的な根拠だが、遺伝的欠損への効果は不明 (99.0%)</li>
+<li>胃血管形成異常 | 99.70% | 機序上の関連なし。出血リスクの懸念もあり (99.0%)</li>
+<li>ブルートゥ症候群 | 99.69% | 血管拡張は間接的な根拠にとどまり、点眼での全身曝露も極めて少ない (99.0%)</li>
+<li>リンパ管拡張症 | 99.67% | リンパ機能への影響の報告はあるが、推測の域 (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/latanoprost/' | relative_url }}">医薬品レポート全文を見る →</a></p>

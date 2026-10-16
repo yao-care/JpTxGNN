@@ -3,7 +3,7 @@ layout: default
 title: "パロキセチン錠２０ｍｇ「ＳＰＫＫ」 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "パロキセチン錠２０ｍｇ「ＳＰＫＫ」 に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "パロキセチン錠２０ｍｇ「ＳＰＫＫ」 に関する健康ニュース。既存適応症：。予測適応症 5 件。"
 permalink: /news/paroxetine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/paroxetine/
 ---
 
 <p class="key-answer" data-question="パロキセチン錠２０ｍｇ「ＳＰＫＫ」 に関するニュースは？">
-<strong>パロキセチン錠２０ｍｇ「ＳＰＫＫ」</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>パロキセチン錠２０ｍｇ「ＳＰＫＫ」</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,12 @@ permalink: /news/paroxetine/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
-<li>Ohdo syndrome and variants (99.1%)</li>
-<li>melancholia (98.7%)</li>
-<li>blepharophimosis - intellectual disability syndrome, Ohdo type (98.7%)</li>
-<li>neurotic depression (98.7%)</li>
-<li>benign paroxysmal torticollis of infancy (98.1%)</li>
-<li>agoraphobia (97.8%)</li>
-<li>schizoid personality disorder (97.7%)</li>
-<li>histrionic personality disorder (disease) (97.7%)</li>
-<li>schizotypal personality disorder (97.7%)</li>
-<li>paranoid personality disorder (97.7%)</li>
+<li><strong>予測適応症（5 件）</strong>:<ul>
+<li>パロキセチン錠２０ｍｇ「明治」 | 錠 | 抗うつ薬、選択的セロトニン再取り込み阻害薬 (99.0%)</li>
+<li>パロキセチン錠２０ｍｇ「トーワ」 | 錠 | 抗うつ薬、選択的セロトニン再取り込み阻害薬 (99.0%)</li>
+<li>パロキセチン錠２０ｍｇ「タカタ」 | 錠 | 抗うつ薬、選択的セロトニン再取り込み阻害薬 (99.0%)</li>
+<li>パロキセチン錠２０ｍｇ「ニプロ」 | 錠 | 抗うつ薬、選択的セロトニン再取り込み阻害薬 (99.0%)</li>
+<li>パロキセチン錠２０ｍｇ「サワイ」 | 錠 | 抗うつ薬、選択的セロトニン再取り込み阻害薬 (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/paroxetine/' | relative_url }}">医薬品レポート全文を見る →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "ブルフェン顆粒２０％（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ブルフェン顆粒２０％（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "ブルフェン顆粒２０％（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
 permalink: /news/ibuprofen/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ibuprofen/
 ---
 
 <p class="key-answer" data-question="ブルフェン顆粒２０％（選） に関するニュースは？">
-<strong>ブルフェン顆粒２０％（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>ブルフェン顆粒２０％（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,12 @@ permalink: /news/ibuprofen/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
-<li>acromesomelic dysplasia, Hunter-Thompson type (99.7%)</li>
-<li>brachyolmia-amelogenesis imperfecta syndrome (99.7%)</li>
-<li>myosclerosis (99.7%)</li>
-<li>brachyolmia (99.7%)</li>
-<li>brachydactyly-syndactyly syndrome (99.7%)</li>
-<li>pseudoachondroplasia (99.7%)</li>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.6%)</li>
-<li>hypotrichosis simplex of the scalp (98.6%)</li>
-<li>WHIM syndrome (98.4%)</li>
-<li>congenital hypotrichosis milia (98.3%)</li>
+<li><strong>予測適応症（5 件）</strong>:<ul>
+<li>ブルフェン顆粒２０％ | 顆粒２０％ | 鎮痛薬、抗炎症薬、解熱薬、シクロオキシゲナーゼ阻害薬（関節リウマチ） (99.0%)</li>
+<li>イブプロフェン錠２００ｍｇ「ＮＩＧ」 | 錠２００ｍｇ | 鎮痛薬、抗炎症薬、解熱薬、シクロオキシゲナーゼ阻害薬（関節リウマチ） (99.0%)</li>
+<li>イブプロフェン錠２００ｍｇ「ＴＣＫ」 | 錠２００ｍｇ | 鎮痛薬、抗炎症薬、解熱薬、シクロオキシゲナーゼ阻害薬（関節リウマチ） (99.0%)</li>
+<li>イブプロフェン顆粒２０％「ツルハラ」 | 顆粒２０％ | 鎮痛薬、抗炎症薬、解熱薬、シクロオキシゲナーゼ阻害薬（関節リウマチ） (99.0%)</li>
+<li>イブプロフェン錠１００ｍｇ「ＮＩＧ」 | 錠１００ｍｇ | 鎮痛薬、抗炎症薬、解熱薬、シクロオキシゲナーゼ阻害薬（関節リウマチ） (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ibuprofen/' | relative_url }}">医薬品レポート全文を見る →</a></p>

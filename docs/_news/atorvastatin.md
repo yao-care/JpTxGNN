@@ -3,7 +3,7 @@ layout: default
 title: "アトーゼット配合錠ＨＤ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "アトーゼット配合錠ＨＤ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "アトーゼット配合錠ＨＤ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
 permalink: /news/atorvastatin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/atorvastatin/
 ---
 
 <p class="key-answer" data-question="アトーゼット配合錠ＨＤ（選） に関するニュースは？">
-<strong>アトーゼット配合錠ＨＤ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>アトーゼット配合錠ＨＤ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -24,18 +24,13 @@ permalink: /news/atorvastatin/
 <div class="drug-info-card">
 <strong>医薬品情報</strong>
 <ul>
-<li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
-<li>familial hypercholesterolemia (99.4%)</li>
-<li>HIV infectious disease (99.3%)</li>
-<li>brain stem infarction (99.3%)</li>
-<li>cholesterol-ester transfer protein deficiency (99.2%)</li>
-<li>hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency (99.2%)</li>
-<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (99.1%)</li>
-<li>hypoalphalipoproteinemia (99.0%)</li>
-<li>hypercholesterolemia, autosomal dominant (98.9%)</li>
-<li>feline acquired immunodeficiency syndrome (98.9%)</li>
-<li>simian immunodeficiency virus infection (98.9%)</li>
+<li><strong>エビデンスレベル</strong>: L1</li>
+<li><strong>予測適応症（5 件）</strong>:<ul>
+<li>アトルバスタチン錠１０ｍｇ「ＺＥ」 | 錠 | 脂質異常症治療薬, HMG-CoA還元酵素阻害薬 (99.0%)</li>
+<li>アトルバスタチン錠１０ｍｇ「トーワ」 | 錠 | 脂質異常症治療薬, HMG-CoA還元酵素阻害薬 (99.0%)</li>
+<li>アトルバスタチン錠１０ｍｇ「日医工」 | 錠 | 脂質異常症治療薬, HMG-CoA還元酵素阻害薬 (99.0%)</li>
+<li>アトルバスタチン錠５ｍｇ「ＶＴＲＳ」 | 錠 | 脂質異常症治療薬, HMG-CoA還元酵素阻害薬 (99.0%)</li>
+<li>アマルエット配合錠１番「日医工」 | 錠（配合剤） | 記載なし (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/atorvastatin/' | relative_url }}">医薬品レポート全文を見る →</a></p>

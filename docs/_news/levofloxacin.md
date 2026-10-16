@@ -3,7 +3,7 @@ layout: default
 title: "クラビット点眼液１．５％（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "クラビット点眼液１．５％（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "クラビット点眼液１．５％（選） に関する健康ニュース。既存適応症：。予測適応症 7 件。"
 permalink: /news/levofloxacin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/levofloxacin/
 ---
 
 <p class="key-answer" data-question="クラビット点眼液１．５％（選） に関するニュースは？">
-<strong>クラビット点眼液１．５％（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>クラビット点眼液１．５％（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 7 件です。
 </p>
 
 <div class="key-takeaway">
@@ -24,18 +24,15 @@ permalink: /news/levofloxacin/
 <div class="drug-info-card">
 <strong>医薬品情報</strong>
 <ul>
-<li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
-<li>punctate epithelial keratoconjunctivitis (99.9%)</li>
-<li>hyperamylasemia (99.9%)</li>
-<li>polyclonal hyperviscosity syndrome (99.9%)</li>
-<li>congenital analbuminemia (99.9%)</li>
-<li>blood group incompatibility (99.8%)</li>
-<li>premalignant hematological system disease (99.8%)</li>
-<li>monoclonal gammopathy (99.8%)</li>
-<li>hematological disease associated with an acquired peripheral neuropathy (99.8%)</li>
-<li>septicemic plague (99.8%)</li>
-<li>congenital hematological disorder (99.7%)</li>
+<li><strong>エビデンスレベル</strong>: L4</li>
+<li><strong>予測適応症（7 件）</strong>:<ul>
+<li>クラビット錠250mg | 錠 | 抗菌薬、核酸合成阻害薬。眼瞼炎、結膜炎、肺炎マイコプラズマ、胆嚢炎、腸チフス、パラチフス、コレラ... (99.0%)</li>
+<li>クラビット点眼液1.5%（選） | 点眼液 | 抗菌薬、核酸合成阻害薬。眼瞼炎、結膜炎、肺炎マイコプラズマ、胆嚢炎、腸チフス、パラチフス、コレラ... (99.0%)</li>
+<li>レボフロキサシン点眼液1.5%「科研」 | 点眼液 | 抗菌薬、核酸合成阻害薬。眼瞼炎、結膜炎、肺炎マイコプラズマ、胆嚢炎、腸チフス、パラチフス、コレラ... (99.0%)</li>
+<li>レボフロキサシン錠500mg「ケミファ」 | 錠 | 抗菌薬、核酸合成阻害薬。眼瞼炎、結膜炎、肺炎マイコプラズマ、胆嚢炎、腸チフス、パラチフス、コレラ... (99.0%)</li>
+<li>レボフロキサシン点眼液0.5%「TS」 | 点眼液 | 抗菌薬、核酸合成阻害薬。眼瞼炎、結膜炎、肺炎マイコプラズマ、胆嚢炎、腸チフス、パラチフス、コレラ... (99.0%)</li>
+<li>単クローン性免疫グロブリン血症 | 99.81% | L4 | 骨髄腫に対する感染予防として、Phase 3 RCT（TEAMM）を含む文献が多数ある。ただし、これは骨髄腫患者の感染予防であり、疾患自体の治療ではない。判定は Research Question (99.0%)</li>
+<li>敗血症型ペスト | 99.80% | L4 | 既存適応症（ペスト）と重なり、サル・マウスなどの動物モデルで有効性が示されている。ヒトでの試験はない。判定は Research Question (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/levofloxacin/' | relative_url }}">医薬品レポート全文を見る →</a></p>

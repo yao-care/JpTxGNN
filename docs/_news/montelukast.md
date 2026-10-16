@@ -3,7 +3,7 @@ layout: default
 title: "シングレアＯＤ錠１０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "シングレアＯＤ錠１０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "シングレアＯＤ錠１０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
 permalink: /news/montelukast/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/montelukast/
 ---
 
 <p class="key-answer" data-question="シングレアＯＤ錠１０ｍｇ（選） に関するニュースは？">
-<strong>シングレアＯＤ錠１０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>シングレアＯＤ錠１０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -24,18 +24,13 @@ permalink: /news/montelukast/
 <div class="drug-info-card">
 <strong>医薬品情報</strong>
 <ul>
-<li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
-<li>bronchitis (100.0%)</li>
-<li>atopic eczema (99.8%)</li>
-<li>asthma (99.5%)</li>
-<li>obstructive lung disease (99.3%)</li>
-<li>asthma-related traits, susceptibility to (99.2%)</li>
-<li>2-hydroxyethyl methacrylate sensitization (98.9%)</li>
-<li>uterine polyp (98.8%)</li>
-<li>polyp of vocal cord (98.7%)</li>
-<li>polyp of middle ear (98.7%)</li>
-<li>fibroepithelial polyp (98.7%)</li>
+<li><strong>エビデンスレベル</strong>: L3</li>
+<li><strong>予測適応症（5 件）</strong>:<ul>
+<li>シングレア細粒４ｍｇ | 細粒 | 気管支喘息、アレルギー性鼻炎（抗アレルギー薬・ロイコトリエン受容体拮抗薬） (99.0%)</li>
+<li>モンテルカスト錠１０ｍｇ「ＳＮ」 | 錠 | 気管支喘息、アレルギー性鼻炎 (99.0%)</li>
+<li>モンテルカスト細粒４ｍｇ「タカタ」 | 細粒 | 気管支喘息、アレルギー性鼻炎 (99.0%)</li>
+<li>モンテルカスト錠１０ｍｇ「ＤＳＥＰ」 | 錠 | 気管支喘息、アレルギー性鼻炎 (99.0%)</li>
+<li>モンテルカストＯＤ錠５ｍｇ「トーワ」 | 錠 | （適応症の記載なし） (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/montelukast/' | relative_url }}">医薬品レポート全文を見る →</a></p>

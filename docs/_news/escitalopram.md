@@ -3,7 +3,7 @@ layout: default
 title: "レクサプロ錠２０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "レクサプロ錠２０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "レクサプロ錠２０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
 permalink: /news/escitalopram/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/escitalopram/
 ---
 
 <p class="key-answer" data-question="レクサプロ錠２０ｍｇ（選） に関するニュースは？">
-<strong>レクサプロ錠２０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>レクサプロ錠２０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -24,18 +24,13 @@ permalink: /news/escitalopram/
 <div class="drug-info-card">
 <strong>医薬品情報</strong>
 <ul>
-<li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
-<li>Ohdo syndrome and variants (98.6%)</li>
-<li>dysthymic disorder (98.5%)</li>
-<li>obsessive-compulsive disorder (98.4%)</li>
-<li>blepharophimosis - intellectual disability syndrome, Ohdo type (97.9%)</li>
-<li>benign paroxysmal torticollis of infancy (97.6%)</li>
-<li>histrionic personality disorder (disease) (97.4%)</li>
-<li>schizotypal personality disorder (97.4%)</li>
-<li>paranoid personality disorder (97.4%)</li>
-<li>schizoid personality disorder (97.4%)</li>
-<li>agoraphobia (96.9%)</li>
+<li><strong>エビデンスレベル</strong>: L2</li>
+<li><strong>予測適応症（5 件）</strong>:<ul>
+<li>レクサプロ錠20mg | 錠 20 mg | 抗うつ薬、選択的セロトニン再取り込み阻害薬 (99.0%)</li>
+<li>レクサプロ錠10mg（選） | 錠 10 mg | 抗うつ薬、選択的セロトニン再取り込み阻害薬 (99.0%)</li>
+<li>エスシタロプラム錠20mg「TCK」 | 錠 20 mg | 抗うつ薬、選択的セロトニン再取り込み阻害薬 (99.0%)</li>
+<li>エスシタロプラム錠20mg「タカタ」 | 錠 20 mg | 抗うつ薬、選択的セロトニン再取り込み阻害薬 (99.0%)</li>
+<li>エスシタロプラム錠20mg「トーワ」 | 錠 20 mg | 抗うつ薬、選択的セロトニン再取り込み阻害薬 (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/escitalopram/' | relative_url }}">医薬品レポート全文を見る →</a></p>

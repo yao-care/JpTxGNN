@@ -3,7 +3,7 @@ layout: default
 title: "イトリゾールカプセル５０　５０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "イトリゾールカプセル５０　５０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "イトリゾールカプセル５０　５０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
 permalink: /news/itraconazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/itraconazole/
 ---
 
 <p class="key-answer" data-question="イトリゾールカプセル５０　５０ｍｇ（選） に関するニュースは？">
-<strong>イトリゾールカプセル５０　５０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>イトリゾールカプセル５０　５０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,12 @@ permalink: /news/itraconazole/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
-<li>pneumocystosis (99.3%)</li>
-<li>Cryptococcal meningitis (93.7%)</li>
-<li>hyalohyphomycosis (89.0%)</li>
-<li>trichosporonosis (89.0%)</li>
-<li>geotrichosis (89.0%)</li>
-<li>penicilliosis (89.0%)</li>
-<li>maple bark strippers' lung (88.8%)</li>
-<li>leprosy (87.5%)</li>
-<li>congenital candidiasis (85.0%)</li>
-<li>candida glabrata (85.0%)</li>
+<li><strong>予測適応症（5 件）</strong>:<ul>
+<li>イトリゾールカプセル５０ | カプセル | 抗真菌薬、エルゴステロール合成阻害薬。スポロトリコーシス、クロモミコーシス、白癬、カンジダ症... (99.0%)</li>
+<li>イトリゾールカプセル５０（選） | カプセル | 抗真菌薬、エルゴステロール合成阻害薬。スポロトリコーシス、クロモミコーシス、白癬、カンジダ症... (99.0%)</li>
+<li>イトラコナゾール錠１００ｍｇ「日医工」 | 錠 | 抗真菌薬、エルゴステロール合成阻害薬。スポロトリコーシス、クロモミコーシス、白癬、カンジダ症... (99.0%)</li>
+<li>イトラコナゾール錠５０ｍｇ「科研」 | 錠 | 抗真菌薬、エルゴステロール合成阻害薬。スポロトリコーシス、クロモミコーシス、白癬、カンジダ症... (99.0%)</li>
+<li>イトラコナゾールカプセル５０ｍｇ「ＳＷ」 | カプセル | 抗真菌薬、エルゴステロール合成阻害薬。スポロトリコーシス、クロモミコーシス、白癬、カンジダ症... (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/itraconazole/' | relative_url }}">医薬品レポート全文を見る →</a></p>

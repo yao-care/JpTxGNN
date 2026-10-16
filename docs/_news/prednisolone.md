@@ -3,7 +3,7 @@ layout: default
 title: "プレドネマ注腸２０ｍｇ 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "プレドネマ注腸２０ｍｇ に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "プレドネマ注腸２０ｍｇ に関する健康ニュース。既存適応症：。予測適応症 5 件。"
 permalink: /news/prednisolone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/prednisolone/
 ---
 
 <p class="key-answer" data-question="プレドネマ注腸２０ｍｇ に関するニュースは？">
-<strong>プレドネマ注腸２０ｍｇ</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>プレドネマ注腸２０ｍｇ</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -24,18 +24,13 @@ permalink: /news/prednisolone/
 <div class="drug-info-card">
 <strong>医薬品情報</strong>
 <ul>
-<li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
-<li>alopecia areata (100.0%)</li>
-<li>alopecia mucinosa (100.0%)</li>
-<li>telogen effluvium (100.0%)</li>
-<li>Quinquaud's folliculitis decalvans (100.0%)</li>
-<li>hereditary hypotrichosis with recurrent skin vesicles (100.0%)</li>
-<li>alopecia antibody deficiency (100.0%)</li>
-<li>alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome (100.0%)</li>
-<li>atrichia with papular lesions (99.9%)</li>
-<li>prolapse of lacrimal gland (99.9%)</li>
-<li>idiopathic steroid-sensitive nephrotic syndrome (99.9%)</li>
+<li><strong>エビデンスレベル</strong>: L2</li>
+<li><strong>予測適応症（5 件）</strong>:<ul>
+<li>プレドニゾロン錠 5mg | 錠 | 慢性副腎皮質機能不全、亜急性甲状腺炎、甲状腺中毒症、ACTH単独欠損症、関節リウマチ、若年性関節リウマチ、リウマチ性多発筋痛、エリテマ... (99.0%)</li>
+<li>プレドニゾロン錠 2.5mg | 錠 | 慢性副腎皮質機能不全、亜急性甲状腺炎、甲状腺中毒症、ACTH単独欠損症、関節リウマチ、若年性関節リウマチ、リウマチ性多発筋痛、エリテマ... (99.0%)</li>
+<li>プレドニゾロン散「タケダ」1% | 散 | 慢性副腎皮質機能不全、亜急性甲状腺炎、甲状腺中毒症、ACTH単独欠損症、関節リウマチ、若年性関節リウマチ、リウマチ性多発筋痛、エリテマ... (99.0%)</li>
+<li>リドメックスコーワ軟膏 0.3% | 軟膏 | 乾癬、掌蹠膿疱症 (99.0%)</li>
+<li>プレドニゾロンクリーム 0.5%「テイコク」 | クリーム | 慢性副腎皮質機能不全、亜急性甲状腺炎、甲状腺中毒症、ACTH単独欠損症、関節リウマチ、若年性関節リウマチ、リウマチ性多発筋痛、エリテマ... (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/prednisolone/' | relative_url }}">医薬品レポート全文を見る →</a></p>

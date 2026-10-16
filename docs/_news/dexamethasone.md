@@ -3,7 +3,7 @@ layout: default
 title: "サンテゾーン点眼液（０．１％）（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "サンテゾーン点眼液（０．１％）（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "サンテゾーン点眼液（０．１％）（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
 permalink: /news/dexamethasone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dexamethasone/
 ---
 
 <p class="key-answer" data-question="サンテゾーン点眼液（０．１％）（選） に関するニュースは？">
-<strong>サンテゾーン点眼液（０．１％）（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>サンテゾーン点眼液（０．１％）（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -24,18 +24,13 @@ permalink: /news/dexamethasone/
 <div class="drug-info-card">
 <strong>医薬品情報</strong>
 <ul>
-<li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
-<li>alopecia areata (100.0%)</li>
-<li>alopecia mucinosa (100.0%)</li>
-<li>telogen effluvium (100.0%)</li>
-<li>Quinquaud's folliculitis decalvans (100.0%)</li>
-<li>alopecia antibody deficiency (100.0%)</li>
-<li>hereditary hypotrichosis with recurrent skin vesicles (100.0%)</li>
-<li>alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome (100.0%)</li>
-<li>atrichia with papular lesions (100.0%)</li>
-<li>alopecia universalis onychodystrophy vitiligo (99.8%)</li>
-<li>prolapse of lacrimal gland (99.7%)</li>
+<li><strong>エビデンスレベル</strong>: L2</li>
+<li><strong>予測適応症（5 件）</strong>:<ul>
+<li>デカドロン錠4mg | 錠 | （記載なし） (99.0%)</li>
+<li>デカドロン注射液1.65mg 0.5mL | 注射液 | （記載なし） (99.0%)</li>
+<li>サンテゾーン点眼液（0.1%） | 点眼液 | （記載なし） (99.0%)</li>
+<li>デキサメタゾンプロピオン酸エステル0.1%クリーム | クリーム | 乾癬、掌蹠膿疱症、慢性円板状エリテマトーデス、毛孔性紅色粃糠疹、菌状息肉症... (99.0%)</li>
+<li>オイラゾンクリーム0.1% | クリーム | 慢性副腎皮質機能不全、亜急性甲状腺炎、甲状腺中毒症、ACTH単独欠損症、関節リウマチ... (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dexamethasone/' | relative_url }}">医薬品レポート全文を見る →</a></p>

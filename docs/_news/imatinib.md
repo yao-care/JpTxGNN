@@ -3,7 +3,7 @@ layout: default
 title: "グリベック錠１００ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "グリベック錠１００ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "グリベック錠１００ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
 permalink: /news/imatinib/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/imatinib/
 ---
 
 <p class="key-answer" data-question="グリベック錠１００ｍｇ（選） に関するニュースは？">
-<strong>グリベック錠１００ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>グリベック錠１００ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,12 @@ permalink: /news/imatinib/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
-<li>heart fibrosarcoma (99.9%)</li>
-<li>fibroblastic neoplasm (99.9%)</li>
-<li>conventional fibrosarcoma (99.9%)</li>
-<li>kidney fibrosarcoma (99.9%)</li>
-<li>low grade fibromyxoid sarcoma (99.9%)</li>
-<li>liposarcoma (99.9%)</li>
-<li>liver fibrosarcoma (99.9%)</li>
-<li>autosomal recessive familial Mediterranean fever (99.9%)</li>
-<li>ovarian myxoid liposarcoma (99.8%)</li>
-<li>familial rhabdoid tumor (99.8%)</li>
+<li><strong>予測適応症（5 件）</strong>:<ul>
+<li>グリベック錠100mg | 錠 100mg | 抗悪性腫瘍薬、チロシンキナーゼ阻害薬。慢性骨髄性白血病、消化管間質腫瘍 (KIT 陽性)、フィラデルフィア染色体陽性急性リンパ性白血病... (99.0%)</li>
+<li>グリベック錠100mg（選） | 錠 100mg | 抗悪性腫瘍薬、チロシンキナーゼ阻害薬。慢性骨髄性白血病、消化管間質腫瘍 (KIT 陽性)、フィラデルフィア染色体陽性急性リンパ性白血病... (99.0%)</li>
+<li>イマチニブ錠100mg「NIG」 | 錠 100mg | 抗悪性腫瘍薬、チロシンキナーゼ阻害薬。慢性骨髄性白血病、消化管間質腫瘍 (KIT 陽性)、フィラデルフィア染色体陽性急性リンパ性白血病... (99.0%)</li>
+<li>イマチニブ錠200mg「ニプロ」 | 錠 200mg | 抗悪性腫瘍薬、チロシンキナーゼ阻害薬。慢性骨髄性白血病、消化管間質腫瘍 (KIT 陽性)、フィラデルフィア染色体陽性急性リンパ性白血病... (99.0%)</li>
+<li>イマチニブ錠200mg「明治」 | 錠 200mg | 抗悪性腫瘍薬、チロシンキナーゼ阻害薬。慢性骨髄性白血病、消化管間質腫瘍 (KIT 陽性)、フィラデルフィア染色体陽性急性リンパ性白血病... (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/imatinib/' | relative_url }}">医薬品レポート全文を見る →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "ヘルベッサー錠６０　６０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ヘルベッサー錠６０　６０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "ヘルベッサー錠６０　６０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
 permalink: /news/diltiazem/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diltiazem/
 ---
 
 <p class="key-answer" data-question="ヘルベッサー錠６０　６０ｍｇ（選） に関するニュースは？">
-<strong>ヘルベッサー錠６０　６０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>ヘルベッサー錠６０　６０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,12 @@ permalink: /news/diltiazem/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
-<li>obsolete susceptibility to ischemic stroke (99.1%)</li>
-<li>brain stem infarction (98.2%)</li>
-<li>obsolete bundle branch block (97.9%)</li>
-<li>cerebrovascular disorder (97.6%)</li>
-<li>pulmonary hypertension with unclear multifactorial mechanism (97.2%)</li>
-<li>pulmonary hypertension owing to lung disease and/or hypoxia (97.2%)</li>
-<li>malignant hypertensive renal disease (97.2%)</li>
-<li>malignant renovascular hypertension (97.2%)</li>
-<li>ABri amyloidosis (97.0%)</li>
-<li>Braddock syndrome (96.7%)</li>
+<li><strong>予測適応症（5 件）</strong>:<ul>
+<li>ジルチアゼム塩酸塩３０ｍｇ錠 | 錠 | 狭心症、本態性高血圧症（抗不整脈薬、血圧降下薬、冠血管拡張薬、カルシウムチャネル遮断薬） (99.0%)</li>
+<li>ヘルベッサー錠３０　３０ｍｇ（選） | 錠 | 狭心症、本態性高血圧症 (99.0%)</li>
+<li>ジルチアゼム塩酸塩錠６０ｍｇ「トーワ」 | 錠 | 狭心症、本態性高血圧症 (99.0%)</li>
+<li>ジルチアゼム塩酸塩注射用５０ｍｇ「サワイ」 | 注射用 | 狭心症、本態性高血圧症 (99.0%)</li>
+<li>ヘルベッサーＲカプセル２００ｍｇ | カプセル | 適応症の記載なし (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/diltiazem/' | relative_url }}">医薬品レポート全文を見る →</a></p>

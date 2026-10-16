@@ -3,7 +3,7 @@ layout: default
 title: "レベチラセタム粒状錠５００ｍｇ「サワイ」 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "レベチラセタム粒状錠５００ｍｇ「サワイ」 に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "レベチラセタム粒状錠５００ｍｇ「サワイ」 に関する健康ニュース。既存適応症：。予測適応症 5 件。"
 permalink: /news/levetiracetam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/levetiracetam/
 ---
 
 <p class="key-answer" data-question="レベチラセタム粒状錠５００ｍｇ「サワイ」 に関するニュースは？">
-<strong>レベチラセタム粒状錠５００ｍｇ「サワイ」</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>レベチラセタム粒状錠５００ｍｇ「サワイ」</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,12 @@ permalink: /news/levetiracetam/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
-<li>visual epilepsy (100.0%)</li>
-<li>micturation-induced seizures (100.0%)</li>
-<li>orgasm-induced seizures (100.0%)</li>
-<li>audiogenic seizures (100.0%)</li>
-<li>thinking seizures (100.0%)</li>
-<li>eating seizures (100.0%)</li>
-<li>startle epilepsy (100.0%)</li>
-<li>reading seizures (99.9%)</li>
-<li>status epilepticus (99.9%)</li>
-<li>beta-ketothiolase deficiency (99.9%)</li>
+<li><strong>予測適応症（5 件）</strong>:<ul>
+<li>イーケプラ錠２５０ｍｇ（選） | 錠 250 mg | 抗てんかん薬 (99.0%)</li>
+<li>レベチラセタム錠２５０ｍｇ「日医工」 | 錠 250 mg | 抗てんかん薬 (99.0%)</li>
+<li>レベチラセタム錠５００ｍｇ「サンド」 | 錠 500 mg | 抗てんかん薬 (99.0%)</li>
+<li>レベチラセタムドライシロップ５０％「日医工」 | ドライシロップ 50% | 抗てんかん薬 (99.0%)</li>
+<li>レベチラセタム錠５００ｍｇ「サワイ」 | 錠 500 mg | 抗てんかん薬 (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/levetiracetam/' | relative_url }}">医薬品レポート全文を見る →</a></p>

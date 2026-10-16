@@ -3,7 +3,7 @@ layout: default
 title: "サインバルタカプセル３０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "サインバルタカプセル３０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "サインバルタカプセル３０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
 permalink: /news/duloxetine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/duloxetine/
 ---
 
 <p class="key-answer" data-question="サインバルタカプセル３０ｍｇ（選） に関するニュースは？">
-<strong>サインバルタカプセル３０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>サインバルタカプセル３０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,12 @@ permalink: /news/duloxetine/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
-<li>benign paroxysmal torticollis of infancy (99.8%)</li>
-<li>agoraphobia (99.8%)</li>
-<li>obsessive-compulsive disorder (99.8%)</li>
-<li>schizotypal personality disorder (99.8%)</li>
-<li>schizoid personality disorder (99.8%)</li>
-<li>paranoid personality disorder (99.8%)</li>
-<li>histrionic personality disorder (disease) (99.8%)</li>
-<li>Ohdo syndrome and variants (99.7%)</li>
-<li>ligneous conjunctivitis (99.7%)</li>
-<li>blepharophimosis - intellectual disability syndrome, Ohdo type (99.6%)</li>
+<li><strong>予測適応症（5 件）</strong>:<ul>
+<li>サインバルタカプセル20mg（選） | カプセル | 抗うつ薬、セロトニン・ノルアドレナリン再取り込み阻害薬 (99.0%)</li>
+<li>デュロキセチンカプセル20mg「KMP」 | カプセル | 抗うつ薬、セロトニン・ノルアドレナリン再取り込み阻害薬 (99.0%)</li>
+<li>デュロキセチンカプセル30mg「三笠」 | カプセル | 抗うつ薬、セロトニン・ノルアドレナリン再取り込み阻害薬 (99.0%)</li>
+<li>デュロキセチン錠20mg「トーワ」 | 錠剤 | 抗うつ薬、セロトニン・ノルアドレナリン再取り込み阻害薬 (99.0%)</li>
+<li>デュロキセチンカプセル30mg「サワイ」 | カプセル | 抗うつ薬、セロトニン・ノルアドレナリン再取り込み阻害薬 (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/duloxetine/' | relative_url }}">医薬品レポート全文を見る →</a></p>

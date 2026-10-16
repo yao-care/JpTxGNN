@@ -3,7 +3,7 @@ layout: default
 title: "ジスロマック細粒小児用１０％　１００ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ジスロマック細粒小児用１０％　１００ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "ジスロマック細粒小児用１０％　１００ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
 permalink: /news/azithromycin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/azithromycin/
 ---
 
 <p class="key-answer" data-question="ジスロマック細粒小児用１０％　１００ｍｇ（選） に関するニュースは？">
-<strong>ジスロマック細粒小児用１０％　１００ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>ジスロマック細粒小児用１０％　１００ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,12 @@ permalink: /news/azithromycin/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
-<li>hyperamylasemia (99.8%)</li>
-<li>polyclonal hyperviscosity syndrome (99.8%)</li>
-<li>congenital analbuminemia (99.8%)</li>
-<li>punctate epithelial keratoconjunctivitis (99.8%)</li>
-<li>blood group incompatibility (99.7%)</li>
-<li>premalignant hematological system disease (99.6%)</li>
-<li>monoclonal gammopathy (99.6%)</li>
-<li>hematological disease associated with an acquired peripheral neuropathy (99.6%)</li>
-<li>septicemic plague (99.5%)</li>
-<li>congenital hematological disorder (99.4%)</li>
+<li><strong>予測適応症（5 件）</strong>:<ul>
+<li>アジスロマイシン小児用細粒10%「タカタ」100mg | 細粒 | 抗生物質、タンパク質合成阻害薬（歯周組織炎、MAC症、結膜炎、眼瞼炎） (99.0%)</li>
+<li>アジスロマイシン小児用錠100mg「タカタ」 | 錠 | 抗生物質、タンパク質合成阻害薬（歯周組織炎、MAC症、結膜炎、眼瞼炎） (99.0%)</li>
+<li>アジスロマイシン細粒小児用10%「トーワ」100mg | 細粒 | 抗生物質、タンパク質合成阻害薬（歯周組織炎、MAC症、結膜炎、眼瞼炎） (99.0%)</li>
+<li>ジスロマック錠250mg（選） | 錠 | 抗生物質、タンパク質合成阻害薬（歯周組織炎、MAC症、結膜炎、眼瞼炎） (99.0%)</li>
+<li>アジスロマイシン錠250mg「サワイ」 | 錠 | 抗生物質、タンパク質合成阻害薬（歯周組織炎、MAC症、結膜炎、眼瞼炎） (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/azithromycin/' | relative_url }}">医薬品レポート全文を見る →</a></p>

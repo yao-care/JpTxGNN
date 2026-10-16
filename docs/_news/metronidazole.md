@@ -3,7 +3,7 @@ layout: default
 title: "メトロニダゾールゲル０．７５％「マルイシ」 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "メトロニダゾールゲル０．７５％「マルイシ」 に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "メトロニダゾールゲル０．７５％「マルイシ」 に関する健康ニュース。既存適応症：。予測適応症 4 件。"
 permalink: /news/metronidazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/metronidazole/
 ---
 
 <p class="key-answer" data-question="メトロニダゾールゲル０．７５％「マルイシ」 に関するニュースは？">
-<strong>メトロニダゾールゲル０．７５％「マルイシ」</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>メトロニダゾールゲル０．７５％「マルイシ」</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 4 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,11 @@ permalink: /news/metronidazole/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
-<li>pneumocystosis (100.0%)</li>
-<li>punctate epithelial keratoconjunctivitis (99.9%)</li>
-<li>ulcerative proctosigmoiditis (99.9%)</li>
-<li>nocardiosis (99.9%)</li>
-<li>postmenopausal atrophic vaginitis (99.8%)</li>
-<li>Cryptococcal meningitis (99.8%)</li>
-<li>papillary conjunctivitis (99.8%)</li>
-<li>myiasis (99.8%)</li>
-<li>cap polyposis (99.7%)</li>
-<li>ulceration of vulva (99.7%)</li>
+<li><strong>予測適応症（4 件）</strong>:<ul>
+<li>フラジール腟錠250mg（取消） | 錠250mg | 記載なし (99.0%)</li>
+<li>ロゼックスゲル0.75%（取消） | ゲル0.75% | 抗菌薬, 抗原虫薬, DNA合成阻害薬 (99.0%)</li>
+<li>メトロニダゾールゲル0.75%「マルイシ」（取消） | ゲル0.75% | 抗菌薬, 抗原虫薬, DNA合成阻害薬 (99.0%)</li>
+<li>フラジール内服錠250mg（取消） | 錠250mg | 記載なし (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/metronidazole/' | relative_url }}">医薬品レポート全文を見る →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "シーピー配合顆粒 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "シーピー配合顆粒 に関する健康ニュース。既存適応症：。予測適応症 0 件。"
+description: "シーピー配合顆粒 に関する健康ニュース。既存適応症：。予測適応症 2 件。"
 permalink: /news/ascorbic-acid/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ascorbic-acid/
 ---
 
 <p class="key-answer" data-question="シーピー配合顆粒 に関するニュースは？">
-<strong>シーピー配合顆粒</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>シーピー配合顆粒</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 2 件です。
 </p>
 
 <div class="key-takeaway">
@@ -24,6 +24,11 @@ permalink: /news/ascorbic-acid/
 <div class="drug-info-card">
 <strong>医薬品情報</strong>
 <ul>
+<li><strong>エビデンスレベル</strong>: L5</li>
+<li><strong>予測適応症（2 件）</strong>:<ul>
+<li>シーピー配合顆粒 | 顆粒 | 失効 (99.0%)</li>
+<li>シナール配合顆粒 | 顆粒 | 失効 (99.0%)</li>
+</ul></li>
 </ul>
 <p><a href="{{ '/drugs/ascorbic-acid/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>

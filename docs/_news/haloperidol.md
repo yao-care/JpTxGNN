@@ -3,7 +3,7 @@ layout: default
 title: "セレネース錠３ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "セレネース錠３ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "セレネース錠３ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
 permalink: /news/haloperidol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/haloperidol/
 ---
 
 <p class="key-answer" data-question="セレネース錠３ｍｇ（選） に関するニュースは？">
-<strong>セレネース錠３ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>セレネース錠３ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,12 @@ permalink: /news/haloperidol/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
-<li>congenital disorder of glycosylation with defective fucosylation (99.9%)</li>
-<li>retinal dystrophy with or without extraocular anomalies (99.9%)</li>
-<li>hydranencephaly (disease) (99.9%)</li>
-<li>myopia X-linked (99.9%)</li>
-<li>Charcot-Marie-Tooth disease, demyelinating, type 1G (99.9%)</li>
-<li>myopia 26, X-linked, female-limited (99.9%)</li>
-<li>syndromic myopia (99.9%)</li>
-<li>polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (99.9%)</li>
-<li>atypical glycine encephalopathy (99.9%)</li>
-<li>manic bipolar affective disorder (99.8%)</li>
+<li><strong>予測適応症（5 件）</strong>:<ul>
+<li>セレネース錠１ｍｇ | 錠１ｍｇ | 統合失調症、躁病 (99.0%)</li>
+<li>セレネース錠１．５ｍｇ | 錠１．５ｍｇ | 統合失調症、躁病 (99.0%)</li>
+<li>ハロペリドール錠１．５ｍｇ「アメル」 | 錠１．５ｍｇ「アメル」 | 統合失調症、躁病 (99.0%)</li>
+<li>ハロペリドール０．７５ｍｇ錠 | 錠 | 統合失調症、躁病 (99.0%)</li>
+<li>ハロペリドール１％細粒 | 細粒 | 統合失調症、躁病 (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/haloperidol/' | relative_url }}">医薬品レポート全文を見る →</a></p>

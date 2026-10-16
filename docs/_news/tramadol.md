@@ -3,7 +3,7 @@ layout: default
 title: "トラマールＯＤ錠５０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "トラマールＯＤ錠５０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "トラマールＯＤ錠５０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
 permalink: /news/tramadol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tramadol/
 ---
 
 <p class="key-answer" data-question="トラマールＯＤ錠５０ｍｇ（選） に関するニュースは？">
-<strong>トラマールＯＤ錠５０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>トラマールＯＤ錠５０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,12 @@ permalink: /news/tramadol/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
-<li>acromesomelic dysplasia, Hunter-Thompson type (100.0%)</li>
-<li>brachyolmia-amelogenesis imperfecta syndrome (100.0%)</li>
-<li>myosclerosis (100.0%)</li>
-<li>brachyolmia (100.0%)</li>
-<li>pseudoachondroplasia (100.0%)</li>
-<li>spondyloarthropathy, susceptibility to (100.0%)</li>
-<li>juvenile idiopathic arthritis (99.9%)</li>
-<li>juvenile arthritis due to defect in LACC1 (99.9%)</li>
-<li>rheumatoid nodulosis (99.9%)</li>
-<li>rheumatoid factor-positive polyarticular juvenile idiopathic arthritis (99.9%)</li>
+<li><strong>予測適応症（5 件）</strong>:<ul>
+<li>トラマドール塩酸塩ＯＤ錠５０ｍｇ「ＫＯ」 | 錠５０ｍｇ「ＫＯ」 | 記載なし（取消済み） (99.0%)</li>
+<li>トラマールＯＤ錠２５ｍｇ（選） | 錠２５ｍｇ（選） | 記載なし（取消済み） (99.0%)</li>
+<li>トラマールＯＤ錠５０ｍｇ | 錠５０ｍｇ | 記載なし（取消済み） (99.0%)</li>
+<li>トラマールＯＤ錠５０ｍｇ（選） | 錠５０ｍｇ（選） | 記載なし（取消済み） (99.0%)</li>
+<li>トラマドール塩酸塩ＯＤ錠２５ｍｇ「ＫＯ」 | 錠２５ｍｇ「ＫＯ」 | 記載なし（取消済み） (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tramadol/' | relative_url }}">医薬品レポート全文を見る →</a></p>

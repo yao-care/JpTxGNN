@@ -3,7 +3,7 @@ layout: default
 title: "ムコブロチン配合シロップ 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ムコブロチン配合シロップ に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "ムコブロチン配合シロップ に関する健康ニュース。既存適応症：。予測適応症 5 件。"
 permalink: /news/codeine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/codeine/
 ---
 
 <p class="key-answer" data-question="ムコブロチン配合シロップ に関するニュースは？">
-<strong>ムコブロチン配合シロップ</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>ムコブロチン配合シロップ</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -24,18 +24,13 @@ permalink: /news/codeine/
 <div class="drug-info-card">
 <strong>医薬品情報</strong>
 <ul>
-<li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
-<li>nasal cavity disease (99.9%)</li>
-<li>acute laryngopharyngitis (99.9%)</li>
-<li>trigeminal autonomic cephalalgia (99.4%)</li>
-<li>allergic urticaria (99.4%)</li>
-<li>faucial diphtheria (97.6%)</li>
-<li>cervical disc degenerative disorder (97.4%)</li>
-<li>papillary conjunctivitis (97.2%)</li>
-<li>tracheal disease (95.7%)</li>
-<li>cold urticaria (94.6%)</li>
-<li>bronchial disease (93.7%)</li>
+<li><strong>エビデンスレベル</strong>: L4</li>
+<li><strong>予測適応症（5 件）</strong>:<ul>
+<li>コデインリン酸塩錠５ｍｇ「シオエ」 | 錠 5 mg | 麻薬性鎮痛薬、鎮咳薬、オピオイド受容体作動薬 (99.0%)</li>
+<li>コデインリン酸塩散１％「ホエイ」 | 散 1% | 麻薬性鎮痛薬、鎮咳薬、オピオイド受容体作動薬 (99.0%)</li>
+<li>コデインリン酸塩錠２０ｍｇ「タケダ」 | 錠 20 mg | 麻薬性鎮痛薬、鎮咳薬、オピオイド受容体作動薬 (99.0%)</li>
+<li>コデインリン酸塩散１０％「第一三共」 | 散 10% | 麻薬性鎮痛薬、鎮咳薬、オピオイド受容体作動薬 (99.0%)</li>
+<li>ジヒドロコデインリン酸塩散１％「ホエイ」 | 散 1% | 鎮咳薬、麻薬、オピオイド受容体作動薬 (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/codeine/' | relative_url }}">医薬品レポート全文を見る →</a></p>

@@ -26,16 +26,16 @@ permalink: /news/glyburide/
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
 <li><strong>予測適応症（10 件）</strong>:<ul>
-<li>opsismodysplasia (97.2%)</li>
-<li>classic stiff person syndrome (96.9%)</li>
-<li>focal stiff limb syndrome (96.9%)</li>
-<li>thiamine-responsive dysfunction syndrome (96.8%)</li>
-<li>drug-induced localized lipodystrophy (95.2%)</li>
-<li>centrifugal lipodystrophy (94.9%)</li>
-<li>pressure-induced localized lipoatrophy (94.8%)</li>
-<li>idiopathic localized lipodystrophy (94.5%)</li>
-<li>pancreatic agenesis (94.3%)</li>
-<li>autoimmune oophoritis (82.2%)</li>
+<li>古典的スティッフパーソン症候群 | 96.90% | L5 (99.0%)</li>
+<li>限局性スティッフ肢症候群 | 96.90% | L5 (99.0%)</li>
+<li>チアミン反応性機能障害症候群 | 96.77% | L5 (99.0%)</li>
+<li>薬剤性限局性リポジストロフィー | 95.22% | L5 (99.0%)</li>
+<li>膵無形成 | 94.34% | L4 (99.0%)</li>
+<li>オイグルコン錠２．５ｍｇ | 錠 | 糖尿病治療薬、血糖降下薬 インスリン非依存型糖尿病 (99.0%)</li>
+<li>オイグルコン錠１．２５ｍｇ | 錠 | 糖尿病治療薬、血糖降下薬 インスリン非依存型糖尿病 (99.0%)</li>
+<li>グリベンクラミド錠２．５ｍｇ「サワイ」 | 錠 | 糖尿病治療薬、血糖降下薬 インスリン非依存型糖尿病 (99.0%)</li>
+<li>グリベンクラミド錠２．５ｍｇ「トーワ」 | 錠 | 糖尿病治療薬、血糖降下薬 インスリン非依存型糖尿病 (99.0%)</li>
+<li>グリベンクラミド錠１．２５ｍｇ「三和」 | 錠 | 糖尿病治療薬、血糖降下薬 インスリン非依存型糖尿病 (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/glyburide/' | relative_url }}">医薬品レポート全文を見る →</a></p>

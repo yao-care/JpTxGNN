@@ -3,7 +3,7 @@ layout: default
 title: "セロクエル２００ｍｇ錠（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "セロクエル２００ｍｇ錠（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "セロクエル２００ｍｇ錠（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
 permalink: /news/quetiapine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/quetiapine/
 ---
 
 <p class="key-answer" data-question="セロクエル２００ｍｇ錠（選） に関するニュースは？">
-<strong>セロクエル２００ｍｇ錠（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>セロクエル２００ｍｇ錠（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,12 @@ permalink: /news/quetiapine/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
-<li>retinal dystrophy with or without extraocular anomalies (99.6%)</li>
-<li>congenital disorder of glycosylation with defective fucosylation (99.5%)</li>
-<li>hydranencephaly (disease) (99.5%)</li>
-<li>distal 17p13.3 microdeletion syndrome (99.5%)</li>
-<li>polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (99.4%)</li>
-<li>myopia X-linked (99.4%)</li>
-<li>Charcot-Marie-Tooth disease, demyelinating, type 1G (99.4%)</li>
-<li>trichotillomania (99.4%)</li>
-<li>syndromic myopia (99.4%)</li>
-<li>myopia 26, X-linked, female-limited (99.4%)</li>
+<li><strong>予測適応症（5 件）</strong>:<ul>
+<li>セロクエル25mg錠 | 錠 | 統合失調症、双極性障害におけるうつ症状 (99.0%)</li>
+<li>セロクエル100mg錠 | 錠 | 統合失調症、双極性障害におけるうつ症状 (99.0%)</li>
+<li>セロクエル200mg錠 | 錠 | 統合失調症、双極性障害におけるうつ症状 (99.0%)</li>
+<li>セロクエル細粒50% | 細粒50% | 統合失調症、双極性障害におけるうつ症状 (99.0%)</li>
+<li>クエチアピン錠25mg「明治」 | 錠25mg「明治」 | 統合失調症、双極性障害におけるうつ症状 (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/quetiapine/' | relative_url }}">医薬品レポート全文を見る →</a></p>

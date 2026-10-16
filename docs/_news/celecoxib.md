@@ -3,7 +3,7 @@ layout: default
 title: "セレコックス錠２００ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "セレコックス錠２００ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "セレコックス錠２００ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 8 件。"
 permalink: /news/celecoxib/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/celecoxib/
 ---
 
 <p class="key-answer" data-question="セレコックス錠２００ｍｇ（選） に関するニュースは？">
-<strong>セレコックス錠２００ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>セレコックス錠２００ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 8 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,15 @@ permalink: /news/celecoxib/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
-<li>acromesomelic dysplasia, Hunter-Thompson type (99.9%)</li>
-<li>brachyolmia-amelogenesis imperfecta syndrome (99.9%)</li>
-<li>rheumatoid vasculitis (99.8%)</li>
-<li>myosclerosis (99.8%)</li>
-<li>hypermobility of coccyx (99.8%)</li>
-<li>brachyolmia (99.8%)</li>
-<li>rheumatoid nodulosis (99.8%)</li>
-<li>rheumatoid factor-positive polyarticular juvenile idiopathic arthritis (99.8%)</li>
-<li>inflammatory spondylopathy (99.8%)</li>
-<li>WHIM syndrome (99.8%)</li>
+<li><strong>予測適応症（8 件）</strong>:<ul>
+<li>セレコキシブ錠100mg「ケミファ」 | 錠 | 関節リウマチ（鎮痛薬・抗炎症薬・COX-2 阻害薬） (99.0%)</li>
+<li>セレコキシブ錠100mg「ニプロ」 | 錠 | 関節リウマチ（鎮痛薬・抗炎症薬・COX-2 阻害薬） (99.0%)</li>
+<li>セレコキシブ100mg錠 | 錠 | 関節リウマチ（鎮痛薬・抗炎症薬・COX-2 阻害薬） (99.0%)</li>
+<li>セレコキシブ錠100mg「明治」 | 錠 | 関節リウマチ（鎮痛薬・抗炎症薬・COX-2 阻害薬） (99.0%)</li>
+<li>セレコックス錠200mg（選） | 錠 | 関節リウマチ（鎮痛薬・抗炎症薬・COX-2 阻害薬） (99.0%)</li>
+<li>炎症性脊椎症（強直性脊椎炎・体軸性脊椎関節炎） | 99.80% | L1 | 臨床試験 11 件と文献 20 編があります。完了済みの Phase 3 試験が 2 件あり、[NCT00648141](https://clinicaltrials.gov/study/NCT00648141)（458 名、ジクロフェナク対照）と [NCT00762463](https://clinicaltrials.gov/study/NCT00762463)（240 名）です。RCT として [PMID 38228361](https://pubmed.ncbi.nlm.nih.gov/38228361/)（CONSUL 試験、2024 年）があります。 | Proceed with Guardrails (99.0%)</li>
+<li>リウマトイド因子陽性多関節型若年性特発性関節炎 | 99.82% | L3 | 第 4 相レジストリのコホート研究 [PMID 25057265](https://pubmed.ncbi.nlm.nih.gov/25057265/) があります。 | Research Question (99.0%)</li>
+<li>リウマチ性血管炎 | 99.85% | L4 | 症例報告 1 件のみです。NSAID は疾患修飾作用がなく、心血管リスクも懸念されます。 | Hold (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/celecoxib/' | relative_url }}">医薬品レポート全文を見る →</a></p>

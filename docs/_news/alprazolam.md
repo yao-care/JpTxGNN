@@ -3,7 +3,7 @@ layout: default
 title: "ソラナックス０．４ｍｇ錠（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ソラナックス０．４ｍｇ錠（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "ソラナックス０．４ｍｇ錠（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
 permalink: /news/alprazolam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alprazolam/
 ---
 
 <p class="key-answer" data-question="ソラナックス０．４ｍｇ錠（選） に関するニュースは？">
-<strong>ソラナックス０．４ｍｇ錠（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>ソラナックス０．４ｍｇ錠（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -24,18 +24,13 @@ permalink: /news/alprazolam/
 <div class="drug-info-card">
 <strong>医薬品情報</strong>
 <ul>
-<li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
-<li>insomnia (disease) (99.8%)</li>
-<li>benign paroxysmal torticollis of infancy (99.6%)</li>
-<li>agoraphobia (99.6%)</li>
-<li>attention deficit-hyperactivity disorder (99.0%)</li>
-<li>attention deficit hyperactivity disorder, inattentive type (98.6%)</li>
-<li>obsessive-compulsive disorder (98.2%)</li>
-<li>chondromyxoid fibroma (98.1%)</li>
-<li>specific developmental disorder (98.0%)</li>
-<li>faciodigitogenital syndrome (98.0%)</li>
-<li>phobic disorder (97.5%)</li>
+<li><strong>エビデンスレベル</strong>: L4</li>
+<li><strong>予測適応症（5 件）</strong>:<ul>
+<li>ソラナックス0.4mg錠 | 錠 | 抗不安薬、マイナートランキライザー、催眠鎮静薬 (99.0%)</li>
+<li>ソラナックス0.8mg錠 | 錠 | 抗不安薬、マイナートランキライザー、催眠鎮静薬 (99.0%)</li>
+<li>コンスタン0.4mg錠 | 錠 | 抗不安薬、マイナートランキライザー、催眠鎮静薬 (99.0%)</li>
+<li>アルプラゾラム錠0.4mg「トーワ」 | 錠 | 抗不安薬、マイナートランキライザー、催眠鎮静薬 (99.0%)</li>
+<li>アルプラゾラム錠0.4mg「サワイ」 | 錠 | 抗不安薬、マイナートランキライザー、催眠鎮静薬 (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/alprazolam/' | relative_url }}">医薬品レポート全文を見る →</a></p>

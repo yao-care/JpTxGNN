@@ -3,7 +3,7 @@ layout: default
 title: "ミカムロ配合錠ＢＰ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ミカムロ配合錠ＢＰ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "ミカムロ配合錠ＢＰ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
 permalink: /news/telmisartan/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/telmisartan/
 ---
 
 <p class="key-answer" data-question="ミカムロ配合錠ＢＰ（選） に関するニュースは？">
-<strong>ミカムロ配合錠ＢＰ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>ミカムロ配合錠ＢＰ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,12 @@ permalink: /news/telmisartan/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
-<li>Prinzmetal angina (100.0%)</li>
-<li>brain stem infarction (100.0%)</li>
-<li>ABri amyloidosis (100.0%)</li>
-<li>cerebral artery occlusion (100.0%)</li>
-<li>pulmonary hypertension owing to lung disease and/or hypoxia (99.9%)</li>
-<li>pulmonary hypertension with unclear multifactorial mechanism (99.9%)</li>
-<li>malignant hypertensive renal disease (99.9%)</li>
-<li>malignant renovascular hypertension (99.9%)</li>
-<li>intracerebral hemorrhage (99.9%)</li>
-<li>Braddock syndrome (99.9%)</li>
+<li><strong>予測適応症（5 件）</strong>:<ul>
+<li>ミカルディス錠４０ｍｇ | 錠 | 高血圧症（血圧降下薬、アンジオテンシンII受容体拮抗薬） (99.0%)</li>
+<li>ミカルディス錠８０ｍｇ | 錠 | 高血圧症（血圧降下薬、アンジオテンシンII受容体拮抗薬） (99.0%)</li>
+<li>テルミサルタン錠４０ｍｇ「サワイ」 | 錠 | 高血圧症 (99.0%)</li>
+<li>テルミサルタン錠８０ｍｇ「日医工」 | 錠 | 高血圧症 (99.0%)</li>
+<li>テルミサルタン錠２０ｍｇ「ニプロ」 | 錠 | 高血圧症 (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">医薬品レポート全文を見る →</a></p>

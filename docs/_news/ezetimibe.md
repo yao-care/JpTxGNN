@@ -3,7 +3,7 @@ layout: default
 title: "ゼチーア錠１０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ゼチーア錠１０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "ゼチーア錠１０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 11 件。"
 permalink: /news/ezetimibe/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ezetimibe/
 ---
 
 <p class="key-answer" data-question="ゼチーア錠１０ｍｇ（選） に関するニュースは？">
-<strong>ゼチーア錠１０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>ゼチーア錠１０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 11 件です。
 </p>
 
 <div class="key-takeaway">
@@ -24,18 +24,19 @@ permalink: /news/ezetimibe/
 <div class="drug-info-card">
 <strong>医薬品情報</strong>
 <ul>
-<li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
-<li>hyperlipoproteinemia (99.6%)</li>
-<li>familial hypercholesterolemia (99.4%)</li>
-<li>hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency (99.2%)</li>
-<li>cholesterol-ester transfer protein deficiency (99.1%)</li>
-<li>HIV infectious disease (98.8%)</li>
-<li>hypercholesterolemia, autosomal dominant (98.8%)</li>
-<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (98.7%)</li>
-<li>hyperlipidemia due to hepatic triglyceride lipase deficiency (98.6%)</li>
-<li>feline acquired immunodeficiency syndrome (98.1%)</li>
-<li>simian immunodeficiency virus infection (98.1%)</li>
+<li><strong>エビデンスレベル</strong>: L1</li>
+<li><strong>予測適応症（11 件）</strong>:<ul>
+<li>ゼチーア錠１０ｍｇ | 錠 | 脂質異常症治療薬、コレステロール吸収阻害薬（高コレステロール血症、家族性高コレステロール血症、ホモ接合体性シトステロール血症） (99.0%)</li>
+<li>エゼチミブ錠１０ｍｇ「日医工」 | 錠 | 脂質異常症治療薬、コレステロール吸収阻害薬（高コレステロール血症、家族性高コレステロール血症、ホモ接合体性シトステロール血症） (99.0%)</li>
+<li>エゼチミブ錠１０ｍｇ「武田テバ」 | 錠 | 脂質異常症治療薬、コレステロール吸収阻害薬（高コレステロール血症、家族性高コレステロール血症、ホモ接合体性シトステロール血症） (99.0%)</li>
+<li>エゼチミブ錠１０ｍｇ「サワイ」 | 錠 | 脂質異常症治療薬、コレステロール吸収阻害薬（高コレステロール血症、家族性高コレステロール血症、ホモ接合体性シトステロール血症） (99.0%)</li>
+<li>エゼチミブ錠１０ｍｇ「アメル」 | 錠 | 脂質異常症治療薬、コレステロール吸収阻害薬（高コレステロール血症、家族性高コレステロール血症、ホモ接合体性シトステロール血症） (99.0%)</li>
+<li>家族性高コレステロール血症 | 99.38% | L1 | Proceed with Guardrails (99.0%)</li>
+<li>HIV 感染症 | 98.80% | L2 | Proceed with Guardrails (99.0%)</li>
+<li>常染色体優性高コレステロール血症 | 98.76% | L1 | Proceed with Guardrails (99.0%)</li>
+<li>コレステロール 7α-ヒドロキシラーゼ欠損症による高コレステロール血症 | 99.25% | L4 | Hold (99.0%)</li>
+<li>コレステリルエステル転送タンパク質欠損症 | 99.09% | L5 | Hold (99.0%)</li>
+<li>肝性トリグリセリドリパーゼ欠損症による高脂血症 | 98.57% | L5 | Hold (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ezetimibe/' | relative_url }}">医薬品レポート全文を見る →</a></p>

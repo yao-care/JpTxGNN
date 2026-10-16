@@ -3,7 +3,7 @@ layout: default
 title: "アクトスＯＤ錠３０　３０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "アクトスＯＤ錠３０　３０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "アクトスＯＤ錠３０　３０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 14 件。"
 permalink: /news/pioglitazone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pioglitazone/
 ---
 
 <p class="key-answer" data-question="アクトスＯＤ錠３０　３０ｍｇ（選） に関するニュースは？">
-<strong>アクトスＯＤ錠３０　３０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>アクトスＯＤ錠３０　３０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 14 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,21 @@ permalink: /news/pioglitazone/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
-<li>opsismodysplasia (99.6%)</li>
-<li>focal stiff limb syndrome (99.5%)</li>
-<li>classic stiff person syndrome (99.5%)</li>
-<li>thiamine-responsive dysfunction syndrome (99.5%)</li>
-<li>drug-induced localized lipodystrophy (99.3%)</li>
-<li>centrifugal lipodystrophy (99.3%)</li>
-<li>pressure-induced localized lipoatrophy (99.2%)</li>
-<li>idiopathic localized lipodystrophy (99.2%)</li>
-<li>pancreatic agenesis (99.2%)</li>
-<li>autoimmune oophoritis (98.1%)</li>
+<li><strong>予測適応症（14 件）</strong>:<ul>
+<li>限局性スティッフリム症候群 | 99.50% | PPARγ の抗炎症作用。直接の関連は未確立 (99.0%)</li>
+<li>古典的スティッフパーソン症候群 | 99.50% | 免疫調整作用による推測のみ (99.0%)</li>
+<li>チアミン反応性機能障害症候群 | 99.48% | インスリン感受性改善。効果の根拠なし (99.0%)</li>
+<li>薬剤性限局性リポジストロフィー | 99.30% | 脂肪細胞分化の促進で理論上は妥当だが、臨床根拠なし (99.0%)</li>
+<li>遠心性リポジストロフィー | 99.26% | 同上 (99.0%)</li>
+<li>圧迫性限局性脂肪萎縮症 | 99.24% | 同上。機械的要因による病態 (99.0%)</li>
+<li>特発性限局性リポジストロフィー | 99.19% | 同上 (99.0%)</li>
+<li>膵無形成 | 99.18% | β 細胞機能が必要なため、膵組織がない病態では効果が期待しにくい (99.0%)</li>
+<li>自己免疫性卵巣炎 | 98.06% | 抗炎症作用や PCOS での使用からの間接的推測のみ (99.0%)</li>
+<li>アクトス錠30 30mg | 錠 | 2型糖尿病（PPARγ 作動薬） (99.0%)</li>
+<li>アクトス錠15 15mg | 錠 | 2型糖尿病（PPARγ 作動薬） (99.0%)</li>
+<li>ピオグリタゾン錠15mg「サワイ」 | 錠 | 2型糖尿病（PPARγ 作動薬） (99.0%)</li>
+<li>ピオグリタゾン錠15mg「トーワ」 | 錠 | 2型糖尿病（PPARγ 作動薬） (99.0%)</li>
+<li>ピオグリタゾン錠30mg「TSU」 | 錠 | 2型糖尿病（PPARγ 作動薬） (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pioglitazone/' | relative_url }}">医薬品レポート全文を見る →</a></p>

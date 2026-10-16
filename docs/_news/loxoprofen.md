@@ -3,7 +3,7 @@ layout: default
 title: "ロキソニンゲル１％（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ロキソニンゲル１％（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "ロキソニンゲル１％（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
 permalink: /news/loxoprofen/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/loxoprofen/
 ---
 
 <p class="key-answer" data-question="ロキソニンゲル１％（選） に関するニュースは？">
-<strong>ロキソニンゲル１％（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>ロキソニンゲル１％（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,12 @@ permalink: /news/loxoprofen/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.8%)</li>
-<li>brachydactyly-syndactyly syndrome (99.8%)</li>
-<li>osteoarthritis susceptibility (96.4%)</li>
-<li>heparin cofactor 2 deficiency (91.6%)</li>
-<li>factor 5 excess with spontaneous thrombosis (88.8%)</li>
-<li>antithrombin deficiency type 2 (88.3%)</li>
-<li>acromesomelic dysplasia, Hunter-Thompson type (87.5%)</li>
-<li>brachyolmia-amelogenesis imperfecta syndrome (85.1%)</li>
-<li>myosclerosis (83.9%)</li>
-<li>WHIM syndrome (83.0%)</li>
+<li><strong>予測適応症（5 件）</strong>:<ul>
+<li>ロキソプロフェンＮａ錠６０ｍｇ「あすか」 | 錠 60 mg | （記載なし）※取消 (99.0%)</li>
+<li>ロキソプロフェンＮａパップ１００ｍｇ「ＪＧ」 | パップ 100 mg | （記載なし）※取消 (99.0%)</li>
+<li>ロキソプロフェンＮａテープ１００ｍｇ「ＪＧ」 | テープ 100 mg | （記載なし）※取消 (99.0%)</li>
+<li>ロキソプロフェンＮａテープ５０ｍｇ「トーワ」 | テープ 50 mg | （記載なし）※取消 (99.0%)</li>
+<li>ロキソプロフェンＮａ錠６０ｍｇ「武田テバ」 | 錠 60 mg | （記載なし）※取消 (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/loxoprofen/' | relative_url }}">医薬品レポート全文を見る →</a></p>

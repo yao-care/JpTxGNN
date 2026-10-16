@@ -26,16 +26,16 @@ permalink: /news/olanzapine/
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
 <li><strong>予測適応症（10 件）</strong>:<ul>
-<li>benign paroxysmal torticollis of infancy (99.5%)</li>
-<li>agoraphobia (99.5%)</li>
-<li>dysthymic disorder (99.3%)</li>
-<li>distal 17p13.3 microdeletion syndrome (99.0%)</li>
-<li>neurotic disorder (98.9%)</li>
-<li>neurotic depression (98.8%)</li>
-<li>melancholia (98.8%)</li>
-<li>retinal dystrophy with or without extraocular anomalies (98.7%)</li>
-<li>Ohdo syndrome and variants (98.6%)</li>
-<li>childhood apraxia of speech (98.6%)</li>
+<li>広場恐怖症 | 99.47% | L4 | Research Question | 治療抵抗性パニック障害での増強療法（主に非盲検）による間接的な根拠のみ (99.0%)</li>
+<li>気分変調性障害 | 99.28% | L4 | Research Question | 薬剤クラス単位のレビューと小規模研究による間接的な根拠 (99.0%)</li>
+<li>神経症性障害 | 98.93% | L4 | Hold | 症例報告と処方実態調査が中心。用語も非特異的 (99.0%)</li>
+<li>神経症性うつ病 | 98.77% | L1 | Proceed with Guardrails | 治療抵抗性うつ病の増強療法に関する複数のシステマティックレビュー／ネットワークメタ解析あり (99.0%)</li>
+<li>メランコリア | 98.77% | L1 | Proceed with Guardrails | 上記と同じ文献群。メランコリー型に特化した研究はない (99.0%)</li>
+<li>オランザピン細粒１％「ニプロ」 | 細粒 | 統合失調症、双極性障害 (99.0%)</li>
+<li>オランザピン錠２．５ｍｇ「アメル」 | 錠剤 | 統合失調症、双極性障害 (99.0%)</li>
+<li>オランザピン錠１０ｍｇ「トーワ」 | 錠剤 | 統合失調症、双極性障害 (99.0%)</li>
+<li>オランザピン錠５ｍｇ「サワイ」 | 錠剤 | 統合失調症、双極性障害 (99.0%)</li>
+<li>ジプレキサザイディス錠５ｍｇ | 錠剤（口腔内崩壊錠） | （記載なし） (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/olanzapine/' | relative_url }}">医薬品レポート全文を見る →</a></p>

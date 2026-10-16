@@ -3,7 +3,7 @@ layout: default
 title: "リウマトレックスカプセル２ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "リウマトレックスカプセル２ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "リウマトレックスカプセル２ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
 permalink: /news/methotrexate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/methotrexate/
 ---
 
 <p class="key-answer" data-question="リウマトレックスカプセル２ｍｇ（選） に関するニュースは？">
-<strong>リウマトレックスカプセル２ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>リウマトレックスカプセル２ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,12 @@ permalink: /news/methotrexate/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
-<li>pulmonary blastoma (99.5%)</li>
-<li>primary pulmonary lymphoma (99.5%)</li>
-<li>small cell lung carcinoma (99.4%)</li>
-<li>well-differentiated fetal adenocarcinoma of the lung (99.4%)</li>
-<li>Hodgkins lymphoma (99.3%)</li>
-<li>rhabdomyosarcoma (disease) (99.2%)</li>
-<li>chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation (99.2%)</li>
-<li>pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma (99.2%)</li>
-<li>parameningeal embryonal rhabdomyosarcoma (99.2%)</li>
-<li>botryoid-type embryonal rhabdomyosarcoma of the vagina (99.2%)</li>
+<li><strong>予測適応症（5 件）</strong>:<ul>
+<li>リウマトレックスカプセル２ｍｇ | カプセル | 慢性リンパ性白血病、慢性骨髄性白血病、絨毛癌、乳癌、尿路上皮癌、骨肉腫、胃癌、関節リウマチ... (99.0%)</li>
+<li>リウマトレックスカプセル２ｍｇ（選） | カプセル | 慢性リンパ性白血病、慢性骨髄性白血病、絨毛癌、乳癌、尿路上皮癌、骨肉腫、胃癌、関節リウマチ... (99.0%)</li>
+<li>メトトレキサート２ｍｇ錠 | 錠 | 慢性リンパ性白血病、慢性骨髄性白血病、絨毛癌、乳癌、尿路上皮癌、骨肉腫、胃癌、関節リウマチ... (99.0%)</li>
+<li>メトトレキサート錠２ｍｇ「ダイト」 | 錠 | 慢性リンパ性白血病、慢性骨髄性白血病、絨毛癌、乳癌、尿路上皮癌、骨肉腫、胃癌、関節リウマチ... (99.0%)</li>
+<li>メトトレキサートカプセル２ｍｇ「サワイ」 | カプセル | 慢性リンパ性白血病、慢性骨髄性白血病、絨毛癌、乳癌、尿路上皮癌、骨肉腫、胃癌、関節リウマチ... (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/methotrexate/' | relative_url }}">医薬品レポート全文を見る →</a></p>

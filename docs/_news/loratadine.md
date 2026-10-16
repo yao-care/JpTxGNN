@@ -3,7 +3,7 @@ layout: default
 title: "クラリチン錠１０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "クラリチン錠１０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "クラリチン錠１０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
 permalink: /news/loratadine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/loratadine/
 ---
 
 <p class="key-answer" data-question="クラリチン錠１０ｍｇ（選） に関するニュースは？">
-<strong>クラリチン錠１０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>クラリチン錠１０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -24,18 +24,13 @@ permalink: /news/loratadine/
 <div class="drug-info-card">
 <strong>医薬品情報</strong>
 <ul>
-<li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
-<li>allergic urticaria (99.0%)</li>
-<li>nasal cavity disease (99.0%)</li>
-<li>acute laryngopharyngitis (98.8%)</li>
-<li>rosacea conjunctivitis (98.5%)</li>
-<li>cold urticaria (96.2%)</li>
-<li>viral conjunctivitis (89.3%)</li>
-<li>punctate epithelial keratoconjunctivitis (84.2%)</li>
-<li>trigeminal autonomic cephalalgia (80.4%)</li>
-<li>faucial diphtheria (78.5%)</li>
-<li>cervical disc degenerative disorder (76.8%)</li>
+<li><strong>エビデンスレベル</strong>: L3</li>
+<li><strong>予測適応症（5 件）</strong>:<ul>
+<li>クラリチン錠１０ｍｇ | 錠 | 抗アレルギー薬、H1受容体拮抗薬（アレルギー性鼻炎） (99.0%)</li>
+<li>クラリチン錠１０ｍｇ（選） | 錠 | 抗アレルギー薬、H1受容体拮抗薬（アレルギー性鼻炎） (99.0%)</li>
+<li>ロラタジン錠１０ｍｇ「日新」 | 錠 | 抗アレルギー薬、H1受容体拮抗薬（アレルギー性鼻炎） (99.0%)</li>
+<li>ロラタジンドライシロップ１％「日医工」 | ドライシロップ | 抗アレルギー薬、H1受容体拮抗薬（アレルギー性鼻炎） (99.0%)</li>
+<li>ロラタジン錠１０ｍｇ「日医工」 | 錠 | 抗アレルギー薬、H1受容体拮抗薬（アレルギー性鼻炎） (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/loratadine/' | relative_url }}">医薬品レポート全文を見る →</a></p>

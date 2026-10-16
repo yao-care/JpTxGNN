@@ -3,7 +3,7 @@ layout: default
 title: "セレスタミン配合錠（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "セレスタミン配合錠（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "セレスタミン配合錠（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
 permalink: /news/chlorpheniramine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/chlorpheniramine/
 ---
 
 <p class="key-answer" data-question="セレスタミン配合錠（選） に関するニュースは？">
-<strong>セレスタミン配合錠（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>セレスタミン配合錠（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -24,18 +24,13 @@ permalink: /news/chlorpheniramine/
 <div class="drug-info-card">
 <strong>医薬品情報</strong>
 <ul>
-<li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
-<li>allergic urticaria (99.8%)</li>
-<li>nasal cavity disease (99.5%)</li>
-<li>acute laryngopharyngitis (99.5%)</li>
-<li>cold urticaria (99.1%)</li>
-<li>rosacea conjunctivitis (98.3%)</li>
-<li>headache disorder (97.1%)</li>
-<li>recalcitrant atopic dermatitis (97.0%)</li>
-<li>trigeminal autonomic cephalalgia (96.8%)</li>
-<li>IgE responsiveness, atopic (96.0%)</li>
-<li>rhinitis (95.8%)</li>
+<li><strong>エビデンスレベル</strong>: L4</li>
+<li><strong>予測適応症（5 件）</strong>:<ul>
+<li>クロルフェニラミンマレイン酸塩錠 4mg | 錠 | アレルギー性鼻炎（抗アレルギー薬、H1 受容体拮抗薬） (99.0%)</li>
+<li>クロルフェニラミンマレイン酸塩注射液 0.5% 1mL | 注射液 | アレルギー性鼻炎（抗アレルギー薬、H1 受容体拮抗薬） (99.0%)</li>
+<li>クロルフェニラミンマレイン酸塩散 1%「日医工」 | 散 | アレルギー性鼻炎（抗アレルギー薬、H1 受容体拮抗薬） (99.0%)</li>
+<li>クロルフェニラミンマレイン酸塩散 1%「ホエイ」 | 散 | アレルギー性鼻炎（抗アレルギー薬、H1 受容体拮抗薬） (99.0%)</li>
+<li>ポララミンシロップ 0.04% | シロップ | （適応症の記載なし） (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/chlorpheniramine/' | relative_url }}">医薬品レポート全文を見る →</a></p>

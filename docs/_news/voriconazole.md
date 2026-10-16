@@ -3,7 +3,7 @@ layout: default
 title: "ブイフェンド錠２００ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ブイフェンド錠２００ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "ブイフェンド錠２００ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
 permalink: /news/voriconazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/voriconazole/
 ---
 
 <p class="key-answer" data-question="ブイフェンド錠２００ｍｇ（選） に関するニュースは？">
-<strong>ブイフェンド錠２００ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>ブイフェンド錠２００ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,12 @@ permalink: /news/voriconazole/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
-<li>multidrug-resistant tuberculosis (98.7%)</li>
-<li>cysticercosis (98.3%)</li>
-<li>Ambras type hypertrichosis universalis congenita (98.3%)</li>
-<li>syndrome with a Dandy-Walker malformation as major feature (98.2%)</li>
-<li>malformation syndrome with odontal and/or periodontal component (98.1%)</li>
-<li>tuberculosis, bovine (98.1%)</li>
-<li>isolated genetic hair shaft abnormality (98.1%)</li>
-<li>inactive tuberculosis (98.0%)</li>
-<li>tuberculous ascites (98.0%)</li>
-<li>tuberculoma (98.0%)</li>
+<li><strong>予測適応症（5 件）</strong>:<ul>
+<li>ブイフェンド錠200mg | 錠 | 抗真菌薬、エルゴステロール合成阻害薬。侵襲性アスペルギルス症、肺アスペルギローマ、慢性壊死性肺アスペルギルス症、カンジダ症... (99.0%)</li>
+<li>ブイフェンド錠200mg（選） | 錠 | 抗真菌薬、エルゴステロール合成阻害薬。侵襲性アスペルギルス症、肺アスペルギローマ、慢性壊死性肺アスペルギルス症、カンジダ症... (99.0%)</li>
+<li>ブイフェンド錠50mg（選） | 錠 | 抗真菌薬、エルゴステロール合成阻害薬。侵襲性アスペルギルス症、肺アスペルギローマ、慢性壊死性肺アスペルギルス症、カンジダ症... (99.0%)</li>
+<li>ボリコナゾール顆粒20%「タカタ」 | 顆粒 | 抗真菌薬、エルゴステロール合成阻害薬。侵襲性アスペルギルス症、肺アスペルギローマ、慢性壊死性肺アスペルギルス症、カンジダ症... (99.0%)</li>
+<li>ボリコナゾール錠200mg「アメル」 | 錠 | 抗真菌薬、エルゴステロール合成阻害薬。侵襲性アスペルギルス症、肺アスペルギローマ、慢性壊死性肺アスペルギルス症、カンジダ症... (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/voriconazole/' | relative_url }}">医薬品レポート全文を見る →</a></p>

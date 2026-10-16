@@ -3,7 +3,7 @@ layout: default
 title: "ラシックス錠１０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ラシックス錠１０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "ラシックス錠１０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
 permalink: /news/furosemide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/furosemide/
 ---
 
 <p class="key-answer" data-question="ラシックス錠１０ｍｇ（選） に関するニュースは？">
-<strong>ラシックス錠１０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>ラシックス錠１０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,12 @@ permalink: /news/furosemide/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
-<li>malignant hypertensive renal disease (98.0%)</li>
-<li>malignant renovascular hypertension (98.0%)</li>
-<li>pulmonary hypertension owing to lung disease and/or hypoxia (97.8%)</li>
-<li>pulmonary hypertension with unclear multifactorial mechanism (97.8%)</li>
-<li>Braddock syndrome (97.4%)</li>
-<li>chronic pulmonary heart disease (97.1%)</li>
-<li>acute pulmonary heart disease (91.3%)</li>
-<li>primary hereditary glaucoma (75.5%)</li>
-<li>chronic renal failure syndrome (70.6%)</li>
-<li>chronic kidney disease (66.8%)</li>
+<li><strong>予測適応症（5 件）</strong>:<ul>
+<li>ラシックス錠20mg | 錠20mg | 本態性高血圧症、高血圧症（利尿薬、Na-K-Cl共輸送体阻害薬） (99.0%)</li>
+<li>ラシックス錠40mg | 錠40mg | 本態性高血圧症、高血圧症（利尿薬、Na-K-Cl共輸送体阻害薬） (99.0%)</li>
+<li>ラシックス錠10mg（選） | 錠10mg（選） | 本態性高血圧症、高血圧症（利尿薬、Na-K-Cl共輸送体阻害薬） (99.0%)</li>
+<li>フロセミド錠20mg「SN」 | 錠20mg「SN」 | 本態性高血圧症、高血圧症（利尿薬、Na-K-Cl共輸送体阻害薬） (99.0%)</li>
+<li>フロセミド注20mg「トーワ」 | 注20mg「トーワ」 | 本態性高血圧症、高血圧症（利尿薬、Na-K-Cl共輸送体阻害薬） (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/furosemide/' | relative_url }}">医薬品レポート全文を見る →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "プログラフカプセル１ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "プログラフカプセル１ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "プログラフカプセル１ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
 permalink: /news/tacrolimus/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tacrolimus/
 ---
 
 <p class="key-answer" data-question="プログラフカプセル１ｍｇ（選） に関するニュースは？">
-<strong>プログラフカプセル１ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>プログラフカプセル１ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -24,18 +24,13 @@ permalink: /news/tacrolimus/
 <div class="drug-info-card">
 <strong>医薬品情報</strong>
 <ul>
-<li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
-<li>seborrheic dermatitis (99.3%)</li>
-<li>parapsoriasis (99.2%)</li>
-<li>dermatitis (99.2%)</li>
-<li>acute lichenoid pityriasis (98.9%)</li>
-<li>acrodermatitis chronica atrophicans (98.7%)</li>
-<li>rheumatoid arthritis (98.7%)</li>
-<li>acne keloid (98.7%)</li>
-<li>psoriasis (98.7%)</li>
-<li>neonatal dermatomyositis (98.6%)</li>
-<li>exanthem (disease) (98.6%)</li>
+<li><strong>エビデンスレベル</strong>: L1</li>
+<li><strong>予測適応症（5 件）</strong>:<ul>
+<li>プロトピック軟膏0.1% | 軟膏 0.1% | 臓器移植における拒絶反応、移植片対宿主病、重症筋無力症、関節リウマチ、ループス腎炎... (99.0%)</li>
+<li>タクロリムス軟膏0.1%「PP」 | 軟膏 0.1% | 臓器移植における拒絶反応、移植片対宿主病、重症筋無力症、関節リウマチ、ループス腎炎... (99.0%)</li>
+<li>プログラフカプセル1mg | カプセル 1mg | 臓器移植における拒絶反応、移植片対宿主病、重症筋無力症、関節リウマチ、ループス腎炎... (99.0%)</li>
+<li>タクロリムスカプセル5mg「サンド」 | カプセル 5mg | 臓器移植における拒絶反応、移植片対宿主病、重症筋無力症、関節リウマチ、ループス腎炎... (99.0%)</li>
+<li>タクロリムス錠0.5mg「日医工」 | 錠 0.5mg | 臓器移植における拒絶反応、移植片対宿主病、重症筋無力症、関節リウマチ、ループス腎炎... (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">医薬品レポート全文を見る →</a></p>

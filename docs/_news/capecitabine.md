@@ -3,7 +3,7 @@ layout: default
 title: "ゼローダ錠３００　３００ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ゼローダ錠３００　３００ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "ゼローダ錠３００　３００ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
 permalink: /news/capecitabine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/capecitabine/
 ---
 
 <p class="key-answer" data-question="ゼローダ錠３００　３００ｍｇ（選） に関するニュースは？">
-<strong>ゼローダ錠３００　３００ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>ゼローダ錠３００　３００ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,12 @@ permalink: /news/capecitabine/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
-<li>gastric adenocarcinoma and proximal polyposis of the stomach (99.9%)</li>
-<li>microinvasive gastric cancer (99.9%)</li>
-<li>signet ring cell gastric adenocarcinoma (99.9%)</li>
-<li>gastric tubular adenocarcinoma (99.9%)</li>
-<li>gastric cardia adenocarcinoma (99.9%)</li>
-<li>gastric pylorus carcinoma (99.9%)</li>
-<li>carcinoma of stomach, salivary gland type (99.9%)</li>
-<li>gastric body carcinoma (99.9%)</li>
-<li>Epstein-Barr virus-associated gastric carcinoma (99.9%)</li>
-<li>malignant gastric granular cell tumor (99.9%)</li>
+<li><strong>予測適応症（5 件）</strong>:<ul>
+<li>ゼローダ錠３００ | 錠 300 mg | 乳癌、結腸・直腸癌、胃癌（抗悪性腫瘍薬、代謝拮抗薬） (99.0%)</li>
+<li>カペシタビン錠３００ｍｇ「サワイ」 | 錠 300 mg | 乳癌、結腸・直腸癌、胃癌 (99.0%)</li>
+<li>カペシタビン錠３００ｍｇ「ヤクルト」 | 錠 300 mg | 乳癌、結腸・直腸癌、胃癌 (99.0%)</li>
+<li>カペシタビン錠３００ｍｇ「タカタ」 | 錠 300 mg | 乳癌、結腸・直腸癌、胃癌 (99.0%)</li>
+<li>カペシタビン錠３００ｍｇ「日医工」 | 錠 300 mg | 乳癌、結腸・直腸癌、胃癌 (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/capecitabine/' | relative_url }}">医薬品レポート全文を見る →</a></p>

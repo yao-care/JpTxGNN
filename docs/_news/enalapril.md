@@ -3,7 +3,7 @@ layout: default
 title: "レニベース錠１０　１０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "レニベース錠１０　１０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "レニベース錠１０　１０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
 permalink: /news/enalapril/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/enalapril/
 ---
 
 <p class="key-answer" data-question="レニベース錠１０　１０ｍｇ（選） に関するニュースは？">
-<strong>レニベース錠１０　１０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>レニベース錠１０　１０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,12 @@ permalink: /news/enalapril/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
-<li>chronic pulmonary heart disease (98.9%)</li>
-<li>acute pulmonary heart disease (98.9%)</li>
-<li>pulmonary hypertension with unclear multifactorial mechanism (98.8%)</li>
-<li>pulmonary hypertension owing to lung disease and/or hypoxia (98.8%)</li>
-<li>malignant renovascular hypertension (98.8%)</li>
-<li>malignant hypertensive renal disease (98.8%)</li>
-<li>primary hereditary glaucoma (98.7%)</li>
-<li>Braddock syndrome (98.3%)</li>
-<li>open-angle glaucoma (98.2%)</li>
-<li>chronic kidney disease (97.9%)</li>
+<li><strong>予測適応症（5 件）</strong>:<ul>
+<li>レニベース錠5（5 mg） | 錠 | 本態性高血圧症、悪性高血圧（血圧降下薬、血管拡張薬、ACE 阻害薬） (99.0%)</li>
+<li>レニベース錠2.5（2.5 mg） | 錠 | 本態性高血圧症、悪性高血圧（血圧降下薬、血管拡張薬、ACE 阻害薬） (99.0%)</li>
+<li>エナラプリルマレイン酸塩錠10 mg「ケミファ」 | 錠 | 本態性高血圧症、悪性高血圧（血圧降下薬、血管拡張薬、ACE 阻害薬） (99.0%)</li>
+<li>エナラプリルマレイン酸塩錠10 mg「トーワ」 | 錠 | 本態性高血圧症、悪性高血圧（血圧降下薬、血管拡張薬、ACE 阻害薬） (99.0%)</li>
+<li>エナラプリルマレイン酸塩細粒1%「アメル」 | 細粒 | 本態性高血圧症、悪性高血圧（血圧降下薬、血管拡張薬、ACE 阻害薬） (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/enalapril/' | relative_url }}">医薬品レポート全文を見る →</a></p>

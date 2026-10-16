@@ -3,7 +3,7 @@ layout: default
 title: "ビクシリンＳ配合錠　（２５０ｍｇ） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ビクシリンＳ配合錠　（２５０ｍｇ） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "ビクシリンＳ配合錠　（２５０ｍｇ） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
 permalink: /news/ampicillin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ampicillin/
 ---
 
 <p class="key-answer" data-question="ビクシリンＳ配合錠　（２５０ｍｇ） に関するニュースは？">
-<strong>ビクシリンＳ配合錠　（２５０ｍｇ）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>ビクシリンＳ配合錠　（２５０ｍｇ）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,12 @@ permalink: /news/ampicillin/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
-<li>laryngitis (100.0%)</li>
-<li>Ureaplasma urethritis (99.4%)</li>
-<li>gonococcal urethritis (99.4%)</li>
-<li>chronic rhinosinusitis (99.3%)</li>
-<li>chronic ethmoidal sinusitis (99.3%)</li>
-<li>gingivitis (99.3%)</li>
-<li>paranasal sinus neoplasm (disease) (99.2%)</li>
-<li>bacterial arthritis (99.1%)</li>
-<li>conjunctivitis (99.0%)</li>
-<li>pericoronitis (99.0%)</li>
+<li><strong>予測適応症（5 件）</strong>:<ul>
+<li>ビクシリン注射用２ｇ | 注射用２ｇ | 抗生物質（取消） (99.0%)</li>
+<li>ビクシリン注射用０．５ｇ | 注射用０．５ｇ | 抗生物質（取消） (99.0%)</li>
+<li>アンピシリンナトリウム・スルバクタムナトリウム３ｇ静注用 | 注用 | 抗生物質（取消） (99.0%)</li>
+<li>ビクシリンＳ配合錠（２５０ｍｇ） | 錠 | 抗生物質（取消） (99.0%)</li>
+<li>アンピシリンナトリウム・スルバクタムナトリウム１．５ｇ静注用 | 注用 | 抗生物質（取消） (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ampicillin/' | relative_url }}">医薬品レポート全文を見る →</a></p>

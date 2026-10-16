@@ -3,7 +3,7 @@ layout: default
 title: "モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」 に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」 に関する健康ニュース。既存適応症：。予測適応症 5 件。"
 permalink: /news/morphine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/morphine/
 ---
 
 <p class="key-answer" data-question="モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」 に関するニュースは？">
-<strong>モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,12 @@ permalink: /news/morphine/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
-<li>myofascial pain syndrome (99.8%)</li>
-<li>manic bipolar affective disorder (99.6%)</li>
-<li>Tourette syndrome (99.5%)</li>
-<li>restless legs syndrome (99.5%)</li>
-<li>attention deficit hyperactivity disorder, inattentive type (99.3%)</li>
-<li>migraine disorder (99.3%)</li>
-<li>trichotillomania (99.3%)</li>
-<li>methemoglobinemia (99.2%)</li>
-<li>migraine with brainstem aura (99.2%)</li>
-<li>specific developmental disorder (99.1%)</li>
+<li><strong>予測適応症（5 件）</strong>:<ul>
+<li>モルヒネ塩酸塩注射液200mg「シオノギ」 4% 5mL | 注射液 | 麻薬性鎮痛薬、オピオイド受容体作動薬 (99.0%)</li>
+<li>モルヒネ塩酸塩注射液200mg「テルモ」 4% 5mL | 注射液 | 麻薬性鎮痛薬、オピオイド受容体作動薬 (99.0%)</li>
+<li>モルヒネ塩酸塩注射液10mg「第一三共」 1% 1mL | 注射液 | 麻薬性鎮痛薬、オピオイド受容体作動薬 (99.0%)</li>
+<li>モルヒネ塩酸塩錠10mg「DSP」 | 錠剤 | 麻薬性鎮痛薬、オピオイド受容体作動薬 (99.0%)</li>
+<li>エチルモルヒネ塩酸塩水和物 | （記載なし） | 麻薬性鎮痛薬、鎮咳薬、オピオイド受容体作動薬 (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/morphine/' | relative_url }}">医薬品レポート全文を見る →</a></p>

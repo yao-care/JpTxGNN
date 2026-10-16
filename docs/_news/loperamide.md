@@ -3,7 +3,7 @@ layout: default
 title: "ロペミンカプセル１ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ロペミンカプセル１ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "ロペミンカプセル１ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
 permalink: /news/loperamide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/loperamide/
 ---
 
 <p class="key-answer" data-question="ロペミンカプセル１ｍｇ（選） に関するニュースは？">
-<strong>ロペミンカプセル１ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>ロペミンカプセル１ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,12 @@ permalink: /news/loperamide/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
-<li>acute contagious conjunctivitis (100.0%)</li>
-<li>amebic dysentery (100.0%)</li>
-<li>conjunctivitis (99.9%)</li>
-<li>gastroduodenitis (99.8%)</li>
-<li>pseudomembranous conjunctivitis (99.7%)</li>
-<li>conjunctival folliculosis (99.7%)</li>
-<li>serous conjunctivitis except viral (99.7%)</li>
-<li>parasitic conjunctivitis (99.7%)</li>
-<li>chronic follicular conjunctivitis (99.7%)</li>
-<li>Angelucci syndrome (99.6%)</li>
+<li><strong>予測適応症（5 件）</strong>:<ul>
+<li>ロペラミド塩酸塩細粒小児用0.05%「NIG」 | 細粒 | 止瀉薬、蠕動抑制薬、オピオイド受容体作動薬 (99.0%)</li>
+<li>ロペミンカプセル1mg（選） | カプセル | 止瀉薬、蠕動抑制薬、オピオイド受容体作動薬 (99.0%)</li>
+<li>ロペラミド塩酸塩1mgカプセル | カプセル | 止瀉薬、蠕動抑制薬、オピオイド受容体作動薬 (99.0%)</li>
+<li>ロペラミド塩酸塩カプセル1mg「NIG」 | カプセル | 止瀉薬、蠕動抑制薬、オピオイド受容体作動薬 (99.0%)</li>
+<li>ロペラミド塩酸塩1mg錠 | 錠 | 止瀉薬、蠕動抑制薬、オピオイド受容体作動薬 (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/loperamide/' | relative_url }}">医薬品レポート全文を見る →</a></p>

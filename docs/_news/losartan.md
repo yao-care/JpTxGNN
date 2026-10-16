@@ -3,7 +3,7 @@ layout: default
 title: "ニューロタン錠５０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ニューロタン錠５０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "ニューロタン錠５０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
 permalink: /news/losartan/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/losartan/
 ---
 
 <p class="key-answer" data-question="ニューロタン錠５０ｍｇ（選） に関するニュースは？">
-<strong>ニューロタン錠５０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>ニューロタン錠５０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -24,18 +24,13 @@ permalink: /news/losartan/
 <div class="drug-info-card">
 <strong>医薬品情報</strong>
 <ul>
-<li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
-<li>malignant hypertensive renal disease (99.7%)</li>
-<li>malignant renovascular hypertension (99.7%)</li>
-<li>pulmonary hypertension owing to lung disease and/or hypoxia (99.7%)</li>
-<li>pulmonary hypertension with unclear multifactorial mechanism (99.7%)</li>
-<li>Braddock syndrome (99.6%)</li>
-<li>Prinzmetal angina (99.5%)</li>
-<li>autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome (99.4%)</li>
-<li>brain small vessel disease 1 with or without ocular anomalies (99.4%)</li>
-<li>chronic pulmonary heart disease (98.6%)</li>
-<li>intracerebral hemorrhage (97.3%)</li>
+<li><strong>エビデンスレベル</strong>: L4</li>
+<li><strong>予測適応症（5 件）</strong>:<ul>
+<li>ロサルタンカリウム錠５０ｍｇ「ＺＥ」 | 錠５０ｍｇ「ＺＥ」 | 血圧降下薬、アンジオテンシンII受容体拮抗薬。高血圧症、糖尿病性腎症 (99.0%)</li>
+<li>ロサルタンカリウム錠５０ｍｇ「サワイ」 | 錠５０ｍｇ「サワイ」 | 血圧降下薬、アンジオテンシンII受容体拮抗薬。高血圧症、糖尿病性腎症 (99.0%)</li>
+<li>ロサルタンカリウム錠５０ｍｇ「ＤＫ」 | 錠５０ｍｇ「ＤＫ」 | 血圧降下薬、アンジオテンシンII受容体拮抗薬。高血圧症、糖尿病性腎症 (99.0%)</li>
+<li>ロサルタンカリウム錠１００ｍｇ「ＤＫ」 | 錠１００ｍｇ「ＤＫ」 | 血圧降下薬、アンジオテンシンII受容体拮抗薬。高血圧症、糖尿病性腎症 (99.0%)</li>
+<li>ロサルタンカリウム錠１００ｍｇ「ＴＣＫ」 | 錠１００ｍｇ「ＴＣＫ」 | 血圧降下薬、アンジオテンシンII受容体拮抗薬。高血圧症、糖尿病性腎症 (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/losartan/' | relative_url }}">医薬品レポート全文を見る →</a></p>

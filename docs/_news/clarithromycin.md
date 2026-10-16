@@ -3,7 +3,7 @@ layout: default
 title: "クラリス錠５０小児用　５０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "クラリス錠５０小児用　５０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "クラリス錠５０小児用　５０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
 permalink: /news/clarithromycin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/clarithromycin/
 ---
 
 <p class="key-answer" data-question="クラリス錠５０小児用　５０ｍｇ（選） に関するニュースは？">
-<strong>クラリス錠５０小児用　５０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>クラリス錠５０小児用　５０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,12 @@ permalink: /news/clarithromycin/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
-<li>hyperamylasemia (99.3%)</li>
-<li>polyclonal hyperviscosity syndrome (99.3%)</li>
-<li>congenital analbuminemia (99.2%)</li>
-<li>punctate epithelial keratoconjunctivitis (99.1%)</li>
-<li>blood group incompatibility (99.1%)</li>
-<li>premalignant hematological system disease (98.9%)</li>
-<li>monoclonal gammopathy (98.8%)</li>
-<li>septicemic plague (98.7%)</li>
-<li>hematological disease associated with an acquired peripheral neuropathy (98.7%)</li>
-<li>congenital hematological disorder (98.3%)</li>
+<li><strong>予測適応症（5 件）</strong>:<ul>
+<li>クラリス錠200 200mg | 錠 | （記載なし） (99.0%)</li>
+<li>クラリシッド錠200mg | 錠 | （記載なし） (99.0%)</li>
+<li>クラリスロマイシン錠200mg「CH」 | 錠 | 非結核性抗酸菌症、MAC 症、ヘリコバクター・ピロリ感染症、歯周組織炎、猩紅熱、百日咳 (99.0%)</li>
+<li>クラリスドライシロップ10%小児用 100mg | シロップ | （記載なし） (99.0%)</li>
+<li>クラリスロマイシン錠200mg「トーワ」 | 錠 | 非結核性抗酸菌症、MAC 症、ヘリコバクター・ピロリ感染症、歯周組織炎、猩紅熱、百日咳 (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/clarithromycin/' | relative_url }}">医薬品レポート全文を見る →</a></p>

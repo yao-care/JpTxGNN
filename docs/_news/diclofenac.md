@@ -3,7 +3,7 @@ layout: default
 title: "ボルタレンサポ５０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ボルタレンサポ５０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "ボルタレンサポ５０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
 permalink: /news/diclofenac/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diclofenac/
 ---
 
 <p class="key-answer" data-question="ボルタレンサポ５０ｍｇ（選） に関するニュースは？">
-<strong>ボルタレンサポ５０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>ボルタレンサポ５０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,12 @@ permalink: /news/diclofenac/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
-<li>hypotrichosis simplex of the scalp (99.7%)</li>
-<li>acromesomelic dysplasia, Hunter-Thompson type (99.7%)</li>
-<li>pseudoachondroplasia (99.7%)</li>
-<li>brachyolmia (99.7%)</li>
-<li>brachyolmia-amelogenesis imperfecta syndrome (99.6%)</li>
-<li>congenital hypotrichosis milia (99.6%)</li>
-<li>myosclerosis (99.6%)</li>
-<li>diffuse alopecia areata (99.6%)</li>
-<li>juvenile idiopathic arthritis (99.2%)</li>
-<li>WHIM syndrome (99.2%)</li>
+<li><strong>予測適応症（5 件）</strong>:<ul>
+<li>ジクロフェナクナトリウム１％クリーム | クリーム | 鎮痛薬、抗炎症薬、解熱薬、シクロオキシゲナーゼ阻害薬 (99.0%)</li>
+<li>ジクロフェナクナトリウム坐剤５０ｍｇ「ＪＧ」 | 坐剤 | 鎮痛薬、抗炎症薬、解熱薬、シクロオキシゲナーゼ阻害薬 (99.0%)</li>
+<li>ジクロフェナクナトリウム０．１％１ｍＬ点眼液 | 液 | 鎮痛薬、抗炎症薬、解熱薬、シクロオキシゲナーゼ阻害薬 (99.0%)</li>
+<li>ジクロフェナクナトリウム坐剤５０ｍｇ「ゼリア」 | 坐剤 | 鎮痛薬、抗炎症薬、解熱薬、シクロオキシゲナーゼ阻害薬 (99.0%)</li>
+<li>ジクロフェナクＮａ錠２５ｍｇ「ＴＣＫ」 | 錠 | 記載なし (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/diclofenac/' | relative_url }}">医薬品レポート全文を見る →</a></p>

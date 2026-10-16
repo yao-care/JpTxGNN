@@ -3,7 +3,7 @@ layout: default
 title: "レダコート軟膏０．１％（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "レダコート軟膏０．１％（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "レダコート軟膏０．１％（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
 permalink: /news/triamcinolone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/triamcinolone/
 ---
 
 <p class="key-answer" data-question="レダコート軟膏０．１％（選） に関するニュースは？">
-<strong>レダコート軟膏０．１％（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>レダコート軟膏０．１％（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -24,18 +24,13 @@ permalink: /news/triamcinolone/
 <div class="drug-info-card">
 <strong>医薬品情報</strong>
 <ul>
-<li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
-<li>alopecia mucinosa (100.0%)</li>
-<li>telogen effluvium (100.0%)</li>
-<li>Quinquaud's folliculitis decalvans (100.0%)</li>
-<li>alopecia antibody deficiency (100.0%)</li>
-<li>hereditary hypotrichosis with recurrent skin vesicles (100.0%)</li>
-<li>alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome (100.0%)</li>
-<li>atrichia with papular lesions (100.0%)</li>
-<li>idiopathic steroid-sensitive nephrotic syndrome (99.8%)</li>
-<li>alopecia universalis onychodystrophy vitiligo (99.8%)</li>
-<li>sporadic idiopathic steroid-resistant nephrotic syndrome (99.7%)</li>
+<li><strong>エビデンスレベル</strong>: L4</li>
+<li><strong>予測適応症（5 件）</strong>:<ul>
+<li>トリアムシノロンアセトニドクリーム０．１％「ＴＫ」 | クリーム | 喘息治療薬、抗炎症薬、抗リウマチ薬、グルココルチコイド受容体作動薬 慢性副腎皮質機能不全...（取消） (99.0%)</li>
+<li>レダコートクリーム０．１％ | クリーム | 喘息治療薬、抗炎症薬、抗リウマチ薬、グルココルチコイド受容体作動薬 慢性副腎皮質機能不全...（取消） (99.0%)</li>
+<li>トリアムシノロンアセトニド０．１％軟膏 | 軟膏 | 喘息治療薬、抗炎症薬、抗リウマチ薬、グルココルチコイド受容体作動薬 慢性副腎皮質機能不全...（取消） (99.0%)</li>
+<li>トリアムシノロンアセトニドゲル０．１％「ＴＫ」 | ゲル | 喘息治療薬、抗炎症薬、抗リウマチ薬、グルココルチコイド受容体作動薬 慢性副腎皮質機能不全...（取消） (99.0%)</li>
+<li>ケナコルト−Ａ筋注用関節腔内用水懸注４０ｍｇ／１ｍＬ | 注射（筋注・関節腔内） | （記載なし）（取消） (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/triamcinolone/' | relative_url }}">医薬品レポート全文を見る →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "ワソラン錠４０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ワソラン錠４０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "ワソラン錠４０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
 permalink: /news/verapamil/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/verapamil/
 ---
 
 <p class="key-answer" data-question="ワソラン錠４０ｍｇ（選） に関するニュースは？">
-<strong>ワソラン錠４０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>ワソラン錠４０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,12 @@ permalink: /news/verapamil/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
-<li>obsolete bundle branch block (99.6%)</li>
-<li>malignant hypertensive renal disease (99.3%)</li>
-<li>malignant renovascular hypertension (99.3%)</li>
-<li>pulmonary hypertension with unclear multifactorial mechanism (99.3%)</li>
-<li>pulmonary hypertension owing to lung disease and/or hypoxia (99.3%)</li>
-<li>Braddock syndrome (99.2%)</li>
-<li>periodic paralysis with transient compartment-like syndrome (99.1%)</li>
-<li>obsolete susceptibility to ischemic stroke (98.7%)</li>
-<li>arrhythmogenic right ventricular cardiomyopathy (98.4%)</li>
-<li>brain stem infarction (97.7%)</li>
+<li><strong>予測適応症（5 件）</strong>:<ul>
+<li>ワソラン錠40mg | 錠 | 抗不整脈薬、血管拡張薬、カルシウムチャネル遮断薬（心房細動、狭心症、心筋梗塞） (99.0%)</li>
+<li>ベラパミル塩酸塩錠40mg「ツルハラ」 | 錠 | 同上 (99.0%)</li>
+<li>ベラパミル塩酸塩0.25％2mL注射液 | 注射液 | 同上 (99.0%)</li>
+<li>ワソラン静注5mg 0.25％2mL | 注射 | （記載なし） (99.0%)</li>
+<li>ベラパミル塩酸塩錠40mg「タイヨー」 | 錠 | 同上 (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/verapamil/' | relative_url }}">医薬品レポート全文を見る →</a></p>

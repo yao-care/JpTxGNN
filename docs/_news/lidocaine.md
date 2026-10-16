@@ -3,7 +3,7 @@ layout: default
 title: "リドカイン（１８ｍｇ）３０．５ｍｍ×５０．０ｍｍ貼付剤 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "リドカイン（１８ｍｇ）３０．５ｍｍ×５０．０ｍｍ貼付剤 に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "リドカイン（１８ｍｇ）３０．５ｍｍ×５０．０ｍｍ貼付剤 に関する健康ニュース。既存適応症：。予測適応症 5 件。"
 permalink: /news/lidocaine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lidocaine/
 ---
 
 <p class="key-answer" data-question="リドカイン（１８ｍｇ）３０．５ｍｍ×５０．０ｍｍ貼付剤 に関するニュースは？">
-<strong>リドカイン（１８ｍｇ）３０．５ｍｍ×５０．０ｍｍ貼付剤</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>リドカイン（１８ｍｇ）３０．５ｍｍ×５０．０ｍｍ貼付剤</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,12 @@ permalink: /news/lidocaine/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
-<li>punctate epithelial keratoconjunctivitis (100.0%)</li>
-<li>papillary conjunctivitis (100.0%)</li>
-<li>rosacea conjunctivitis (99.9%)</li>
-<li>exposure keratitis (99.9%)</li>
-<li>atopic conjunctivitis (99.9%)</li>
-<li>conjunctival disorder (99.8%)</li>
-<li>nephrotic syndrome (99.8%)</li>
-<li>non-human animal disease (99.8%)</li>
-<li>tinea corporis (99.8%)</li>
-<li>sporadic idiopathic steroid-resistant nephrotic syndrome (99.8%)</li>
+<li><strong>予測適応症（5 件）</strong>:<ul>
+<li>リドカイン注射液　０．５％ | 注射液　０．５％ | 表面麻酔薬, 抗不整脈薬, ナトリウムチャネル遮断薬 (99.0%)</li>
+<li>リドカイン注射液　０．５％３ｍＬ | 注射液　０．５％３ｍＬ | 表面麻酔薬, 抗不整脈薬, ナトリウムチャネル遮断薬 (99.0%)</li>
+<li>リドカイン注射液　２％５ｍＬ | 注射液　２％５ｍＬ | 表面麻酔薬, 抗不整脈薬, ナトリウムチャネル遮断薬 (99.0%)</li>
+<li>リドカインテープ１８ｍｇ「ＹＰ」　３０．５ｍｍ×５０．０ｍｍ | テープ１８ｍｇ「ＹＰ」 | 表面麻酔薬, 抗不整脈薬, ナトリウムチャネル遮断薬 (99.0%)</li>
+<li>リドカインテープ１８ｍｇ「ニプロ」　３０．５ｍｍ×５０．０ｍｍ | テープ１８ｍｇ「ニプロ」 | 表面麻酔薬, 抗不整脈薬, ナトリウムチャネル遮断薬 (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lidocaine/' | relative_url }}">医薬品レポート全文を見る →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "ユニコン錠１００　１００ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ユニコン錠１００　１００ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "ユニコン錠１００　１００ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
 permalink: /news/theophylline/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/theophylline/
 ---
 
 <p class="key-answer" data-question="ユニコン錠１００　１００ｍｇ（選） に関するニュースは？">
-<strong>ユニコン錠１００　１００ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>ユニコン錠１００　１００ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,12 @@ permalink: /news/theophylline/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
-<li>thrombotic disease (99.6%)</li>
-<li>nasal cavity disease (99.5%)</li>
-<li>laryngotracheitis (99.5%)</li>
-<li>tracheal disease (99.5%)</li>
-<li>obstructive lung disease (99.5%)</li>
-<li>pharyngitis (99.5%)</li>
-<li>acute laryngopharyngitis (99.3%)</li>
-<li>bronchial neoplasm (disease) (98.9%)</li>
-<li>respiratory malformation (98.9%)</li>
-<li>massive neonatal aspiration syndrome (98.6%)</li>
+<li><strong>予測適応症（5 件）</strong>:<ul>
+<li>テオフィリン徐放ＤＳ小児用２０％「トーワ」 | — | 気管支喘息、肺気腫 (99.0%)</li>
+<li>テオフィリンドライシロップ２０％「タカタ」 | シロップ２０％ | 気管支喘息、肺気腫 (99.0%)</li>
+<li>テオフィリン徐放錠２００ｍｇ「サワイ」 | 錠２００ｍｇ | 記載なし (99.0%)</li>
+<li>テオドール顆粒２０％ | 顆粒２０％ | 記載なし (99.0%)</li>
+<li>テオロング錠２００ｍｇ | 錠２００ｍｇ | 記載なし (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/theophylline/' | relative_url }}">医薬品レポート全文を見る →</a></p>

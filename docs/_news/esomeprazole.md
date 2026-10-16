@@ -3,7 +3,7 @@ layout: default
 title: "ネキシウムカプセル２０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ネキシウムカプセル２０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "ネキシウムカプセル２０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
 permalink: /news/esomeprazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/esomeprazole/
 ---
 
 <p class="key-answer" data-question="ネキシウムカプセル２０ｍｇ（選） に関するニュースは？">
-<strong>ネキシウムカプセル２０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>ネキシウムカプセル２０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -24,18 +24,13 @@ permalink: /news/esomeprazole/
 <div class="drug-info-card">
 <strong>医薬品情報</strong>
 <ul>
-<li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
-<li>duodenogastric reflux (99.5%)</li>
-<li>duodenal obstruction (99.5%)</li>
-<li>duodenal ulcer (disease) (99.4%)</li>
-<li>active peptic ulcer disease (99.0%)</li>
-<li>abnormality of glucagon secretion (99.0%)</li>
-<li>peptic ulcer perforation (98.9%)</li>
-<li>gastrojejunal ulcer (98.9%)</li>
-<li>Smouldering systemic mastocytosis (97.0%)</li>
-<li>multiple endocrine neoplasia (96.7%)</li>
-<li>acne (disease) (96.6%)</li>
+<li><strong>エビデンスレベル</strong>: L4</li>
+<li><strong>予測適応症（5 件）</strong>:<ul>
+<li>ネキシウムカプセル１０ｍｇ | カプセル | 胃酸分泌抑制薬、消化性潰瘍薬、プロトンポンプ阻害薬 (99.0%)</li>
+<li>ネキシウムカプセル２０ｍｇ（選） | カプセル | 胃酸分泌抑制薬、消化性潰瘍薬、プロトンポンプ阻害薬 (99.0%)</li>
+<li>ネキシウムカプセル１０ｍｇ（選） | カプセル | 胃酸分泌抑制薬、消化性潰瘍薬、プロトンポンプ阻害薬 (99.0%)</li>
+<li>エソメプラゾールカプセル２０ｍｇ「ニプロ」 | カプセル | 胃酸分泌抑制薬、消化性潰瘍薬、プロトンポンプ阻害薬 (99.0%)</li>
+<li>ネキシウム懸濁用顆粒分包２０ｍｇ | 顆粒分包 | （記載なし） (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/esomeprazole/' | relative_url }}">医薬品レポート全文を見る →</a></p>

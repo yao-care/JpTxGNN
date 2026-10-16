@@ -3,7 +3,7 @@ layout: default
 title: "ラミクタール錠２５ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ラミクタール錠２５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "ラミクタール錠２５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
 permalink: /news/lamotrigine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lamotrigine/
 ---
 
 <p class="key-answer" data-question="ラミクタール錠２５ｍｇ（選） に関するニュースは？">
-<strong>ラミクタール錠２５ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>ラミクタール錠２５ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,12 @@ permalink: /news/lamotrigine/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
-<li>trigeminal nerve neoplasm (100.0%)</li>
-<li>trigeminal neuralgia (99.9%)</li>
-<li>micturation-induced seizures (99.4%)</li>
-<li>thinking seizures (99.4%)</li>
-<li>audiogenic seizures (99.4%)</li>
-<li>eating seizures (99.4%)</li>
-<li>orgasm-induced seizures (99.4%)</li>
-<li>startle epilepsy (99.4%)</li>
-<li>reading seizures (99.3%)</li>
-<li>restless legs syndrome (98.9%)</li>
+<li><strong>予測適応症（5 件）</strong>:<ul>
+<li>ラミクタール錠100mg | 錠 | 双極性障害治療薬、抗けいれん薬、抗てんかん薬（Lennox-Gastaut 症候群、双極性障害における気分エピソードの再発・再燃抑制） (99.0%)</li>
+<li>ラミクタール錠25mg（選） | 錠 | 双極性障害治療薬、抗けいれん薬、抗てんかん薬（Lennox-Gastaut 症候群、双極性障害における気分エピソードの再発・再燃抑制） (99.0%)</li>
+<li>ラモトリギン錠25mg「アメル」 | 錠 | 双極性障害治療薬、抗けいれん薬、抗てんかん薬（Lennox-Gastaut 症候群、双極性障害における気分エピソードの再発・再燃抑制） (99.0%)</li>
+<li>ラモトリギン錠小児用2mg「トーワ」 | 小児用錠 | 双極性障害治療薬、抗けいれん薬、抗てんかん薬（Lennox-Gastaut 症候群、双極性障害における気分エピソードの再発・再燃抑制） (99.0%)</li>
+<li>ラモトリギン錠小児用5mg「JG」 | 小児用錠 | 双極性障害治療薬、抗けいれん薬、抗てんかん薬（Lennox-Gastaut 症候群、双極性障害における気分エピソードの再発・再燃抑制） (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lamotrigine/' | relative_url }}">医薬品レポート全文を見る →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "リリカＯＤ錠１５０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "リリカＯＤ錠１５０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "リリカＯＤ錠１５０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
 permalink: /news/pregabalin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pregabalin/
 ---
 
 <p class="key-answer" data-question="リリカＯＤ錠１５０ｍｇ（選） に関するニュースは？">
-<strong>リリカＯＤ錠１５０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>リリカＯＤ錠１５０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,12 @@ permalink: /news/pregabalin/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
-<li>tendinitis (99.7%)</li>
-<li>idiopathic granulomatous myositis (99.7%)</li>
-<li>myositis fibrosa (99.7%)</li>
-<li>inclusion body myositis (99.5%)</li>
-<li>migraine disorder (99.5%)</li>
-<li>migraine with brainstem aura (99.4%)</li>
-<li>osteoarthritis susceptibility (98.7%)</li>
-<li>osteoarthritis (98.6%)</li>
-<li>headache disorder (97.6%)</li>
-<li>atrophoderma vermiculata (97.6%)</li>
+<li><strong>予測適応症（5 件）</strong>:<ul>
+<li>リリカカプセル150mg | カプセル | 抗けいれん薬、疼痛治療（神経障害性疼痛、線維筋痛症） (99.0%)</li>
+<li>リリカカプセル25mg（選） | カプセル | 抗けいれん薬、疼痛治療（神経障害性疼痛、線維筋痛症） (99.0%)</li>
+<li>プレガバリンカプセル75mg「サワイ」 | カプセル | 抗けいれん薬、疼痛治療（神経障害性疼痛、線維筋痛症） (99.0%)</li>
+<li>プレガバリンカプセル150mg「日医工」 | カプセル | 抗けいれん薬、疼痛治療（神経障害性疼痛、線維筋痛症） (99.0%)</li>
+<li>リリカOD錠75mg | 錠剤 | （適応症の記載なし） (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pregabalin/' | relative_url }}">医薬品レポート全文を見る →</a></p>

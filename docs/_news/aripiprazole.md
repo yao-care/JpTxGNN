@@ -3,7 +3,7 @@ layout: default
 title: "エビリファイ錠１ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "エビリファイ錠１ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "エビリファイ錠１ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
 permalink: /news/aripiprazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/aripiprazole/
 ---
 
 <p class="key-answer" data-question="エビリファイ錠１ｍｇ（選） に関するニュースは？">
-<strong>エビリファイ錠１ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>エビリファイ錠１ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -24,18 +24,13 @@ permalink: /news/aripiprazole/
 <div class="drug-info-card">
 <strong>医薬品情報</strong>
 <ul>
-<li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
-<li>major affective disorder (99.6%)</li>
-<li>gaze palsy, familial horizontal, with progressive scoliosis (99.6%)</li>
-<li>asperger syndrome, susceptibility to (99.5%)</li>
-<li>Phelan-McDermid syndrome (99.4%)</li>
-<li>amelocerebrohypohidrotic syndrome (99.3%)</li>
-<li>distal 17p13.3 microdeletion syndrome (99.3%)</li>
-<li>trichotillomania (99.3%)</li>
-<li>Malan overgrowth syndrome (99.3%)</li>
-<li>retinal dystrophy with or without extraocular anomalies (99.2%)</li>
-<li>hydranencephaly (disease) (99.2%)</li>
+<li><strong>エビデンスレベル</strong>: L1</li>
+<li><strong>予測適応症（5 件）</strong>:<ul>
+<li>エビリファイ錠3mg | 錠 | 統合失調症、双極性障害における躁症状、うつ病・うつ状態 (99.0%)</li>
+<li>アリピプラゾール錠24mg「サワイ」 | 錠 | 統合失調症、双極性障害における躁症状、うつ病・うつ状態 (99.0%)</li>
+<li>アリピプラゾール錠6mg「アメル」 | 錠 | 統合失調症、双極性障害における躁症状、うつ病・うつ状態 (99.0%)</li>
+<li>アリピプラゾール散1%「アメル」 | 散 | 統合失調症、双極性障害における躁症状、うつ病・うつ状態 (99.0%)</li>
+<li>アリピプラゾール散1%「明治」 | 散 | 統合失調症、双極性障害における躁症状、うつ病・うつ状態 (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/aripiprazole/' | relative_url }}">医薬品レポート全文を見る →</a></p>

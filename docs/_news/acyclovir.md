@@ -3,7 +3,7 @@ layout: default
 title: "ゾビラックス軟膏５％（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ゾビラックス軟膏５％（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "ゾビラックス軟膏５％（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
 permalink: /news/acyclovir/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/acyclovir/
 ---
 
 <p class="key-answer" data-question="ゾビラックス軟膏５％（選） に関するニュースは？">
-<strong>ゾビラックス軟膏５％（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>ゾビラックス軟膏５％（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,12 @@ permalink: /news/acyclovir/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
-<li>punctate epithelial keratoconjunctivitis (99.7%)</li>
-<li>common wart (99.5%)</li>
-<li>post-infectious neuralgia (99.2%)</li>
-<li>hepatitis C induced liver cirrhosis (99.2%)</li>
-<li>eosinophilic pustular folliculitis (99.2%)</li>
-<li>sequela of COVID-19 (99.2%)</li>
-<li>vulvovaginal candidiasis (99.1%)</li>
-<li>papular urticaria (99.1%)</li>
-<li>disease of orbital region (99.1%)</li>
-<li>epidemic keratoconjunctivitis (99.1%)</li>
+<li><strong>予測適応症（5 件）</strong>:<ul>
+<li>アシクロビル顆粒４０％「トーワ」 | 顆粒 | 単純疱疹、単純ヘルペスウイルス感染症、帯状疱疹、性器ヘルペス、水痘、HSV 角膜炎 (99.0%)</li>
+<li>アシクロビル錠４００ｍｇ「サワイ」 | 錠剤 | 単純疱疹、単純ヘルペスウイルス感染症、帯状疱疹、性器ヘルペス、水痘、HSV 角膜炎 (99.0%)</li>
+<li>ゾビラックス顆粒４０％ | 顆粒 | 単純疱疹、単純ヘルペスウイルス感染症、帯状疱疹、性器ヘルペス、水痘、HSV 角膜炎 (99.0%)</li>
+<li>ゾビラックス軟膏５％ | 軟膏 | 単純疱疹、単純ヘルペスウイルス感染症、帯状疱疹、性器ヘルペス、水痘、HSV 角膜炎 (99.0%)</li>
+<li>アシクロビル３％眼軟膏 | 眼軟膏 | 単純疱疹、単純ヘルペスウイルス感染症、帯状疱疹、性器ヘルペス、水痘、HSV 角膜炎 (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/acyclovir/' | relative_url }}">医薬品レポート全文を見る →</a></p>

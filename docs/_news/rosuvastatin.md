@@ -3,7 +3,7 @@ layout: default
 title: "クレストールＯＤ錠５ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "クレストールＯＤ錠５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "クレストールＯＤ錠５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
 permalink: /news/rosuvastatin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/rosuvastatin/
 ---
 
 <p class="key-answer" data-question="クレストールＯＤ錠５ｍｇ（選） に関するニュースは？">
-<strong>クレストールＯＤ錠５ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>クレストールＯＤ錠５ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,12 @@ permalink: /news/rosuvastatin/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
-<li>cholesterol-ester transfer protein deficiency (99.5%)</li>
-<li>familial hypercholesterolemia (99.5%)</li>
-<li>hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency (99.5%)</li>
-<li>brain stem infarction (99.4%)</li>
-<li>HIV infectious disease (99.4%)</li>
-<li>hypoalphalipoproteinemia (99.2%)</li>
-<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (99.2%)</li>
-<li>hyperlipidemia due to hepatic triglyceride lipase deficiency (99.2%)</li>
-<li>ABri amyloidosis (99.2%)</li>
-<li>hyperlipidemia (99.1%)</li>
+<li><strong>予測適応症（5 件）</strong>:<ul>
+<li>ロスバスタチン錠２．５ｍｇ「ＫＭＰ」 | 錠 | 高コレステロール血症、家族性高コレステロール血症（脂質異常症治療薬、HMG-CoA 還元酵素阻害薬） (99.0%)</li>
+<li>ロスバスタチン錠５ｍｇ「ツルハラ」 | 錠 | 高コレステロール血症、家族性高コレステロール血症 (99.0%)</li>
+<li>ロスバスタチン錠５ｍｇ「フェルゼン」 | 錠 | 高コレステロール血症、家族性高コレステロール血症 (99.0%)</li>
+<li>ロスバスタチン錠２．５ｍｇ「日新」 | 錠 | 高コレステロール血症、家族性高コレステロール血症 (99.0%)</li>
+<li>ロスバスタチン錠５ｍｇ「日医工」 | 錠 | 高コレステロール血症、家族性高コレステロール血症 (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/rosuvastatin/' | relative_url }}">医薬品レポート全文を見る →</a></p>

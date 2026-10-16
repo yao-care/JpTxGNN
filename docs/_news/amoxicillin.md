@@ -3,7 +3,7 @@ layout: default
 title: "ワイドシリン細粒２０％　２００ｍｇ 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ワイドシリン細粒２０％　２００ｍｇ に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "ワイドシリン細粒２０％　２００ｍｇ に関する健康ニュース。既存適応症：。予測適応症 5 件。"
 permalink: /news/amoxicillin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/amoxicillin/
 ---
 
 <p class="key-answer" data-question="ワイドシリン細粒２０％　２００ｍｇ に関するニュースは？">
-<strong>ワイドシリン細粒２０％　２００ｍｇ</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>ワイドシリン細粒２０％　２００ｍｇ</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,12 @@ permalink: /news/amoxicillin/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
-<li>hyperamylasemia (99.6%)</li>
-<li>polyclonal hyperviscosity syndrome (99.6%)</li>
-<li>congenital analbuminemia (99.6%)</li>
-<li>blood group incompatibility (99.4%)</li>
-<li>premalignant hematological system disease (99.3%)</li>
-<li>monoclonal gammopathy (99.2%)</li>
-<li>hematological disease associated with an acquired peripheral neuropathy (99.1%)</li>
-<li>septicemic plague (99.1%)</li>
-<li>congenital hematological disorder (98.7%)</li>
-<li>epiglottitis (98.7%)</li>
+<li><strong>予測適応症（5 件）</strong>:<ul>
+<li>アモキシシリン細粒10%「TCK」100mg | 細粒 | 淋菌感染症、梅毒、歯周組織炎、猩紅熱、ヘリコバクター・ピロリ感染症 (99.0%)</li>
+<li>ワイドシリン細粒20% 200mg | 細粒 | 淋菌感染症、梅毒、歯周組織炎、猩紅熱、ヘリコバクター・ピロリ感染症 (99.0%)</li>
+<li>アモキシシリンカプセル125mg「TCK」 | カプセル | 淋菌感染症、梅毒、歯周組織炎、猩紅熱、ヘリコバクター・ピロリ感染症 (99.0%)</li>
+<li>アモキシシリン細粒20%「TCK」200mg | 細粒 | 淋菌感染症、梅毒、歯周組織炎、猩紅熱、ヘリコバクター・ピロリ感染症 (99.0%)</li>
+<li>アモキシシリンカプセル125mg「トーワ」 | カプセル | 淋菌感染症、梅毒、歯周組織炎、猩紅熱、ヘリコバクター・ピロリ感染症 (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/amoxicillin/' | relative_url }}">医薬品レポート全文を見る →</a></p>
