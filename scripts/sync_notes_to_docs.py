@@ -171,9 +171,9 @@ def finalize_front_matter(page_path: Path, full_content: str, base_dir: Path) ->
         lv = (re.search(r"^evidence_level:\s*(L[1-5])", fm, re.M) or [None, ""])[1]
         rows = dm.summary_rows(body)
         if rows and lv:
-            orig, pred = dm.clean(rows[0][1], 70), dm.clean(rows[1][1], 70)
-            if pred and orig and pred not in ("無", "None", "-", "なし"):
-                desc = dm.T.get(dm.site_lang(base_dir), dm.T["en"]).format(title=title, pred=pred, lv=lv, orig=orig)
+            orig, pred = (dm.clean(rows[0][1], 70) if rows[0][1] else ""), dm.clean(rows[1][1], 70)
+            if pred and pred not in ("無", "None", "-", "なし"):
+                desc = dm.render(dm.T.get(dm.site_lang(base_dir), dm.T["en"]), title, pred, lv, orig)
                 lines.append("description: " + json.dumps(desc[:199] + ("…" if len(desc) > 200 else ""), ensure_ascii=False))
     bh = base_dir.parent / ".claude" / "apply_brand_names.py"
     if bh.exists():  # 2026-10-17：成分頁的「日本の主な販売名」區塊（docs/_data/brand_names.json，有才加）

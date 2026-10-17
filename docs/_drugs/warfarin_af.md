@@ -6,7 +6,6 @@ nav_order: 196
 evidence_level: L1
 indication_count: 1
 last_modified_at: 2026-09-17
-description: "Warfarin Af：予測新適応症は心房纖維顫動（Atrial Fibrillation）（エビデンスレベル L1）。既存適応症：Warfarin"
 ---
 
 # Warfarin Af
