@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-17
 description: "Bisoprolol：予測新適応症は悪性腎血管性高血圧 (malignant renovascular hypertension)（エビデンスレベル L5）。既存適応症：本態性高血圧症、狭心症、拡張型心筋症、頻脈性心房細動"
 monitor_inn: "Bisoprolol"
-predicted_indications: ["malignant hypertensive renal disease", "chronic pulmonary heart disease", "Prinzmetal angina", "obsolete susceptibility to ischemic stroke", "brain stem infarction", "cerebrovascular disorder"]
+predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "chronic pulmonary heart disease", "obsolete susceptibility to ischemic stroke", "brain stem infarction", "cerebrovascular disorder"]
 ---
 
 # Bisoprolol

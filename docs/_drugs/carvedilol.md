@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-17
 description: "Carvedilol：予測新適応症は悪性高血圧性腎疾患 (malignant hypertensive renal disease)（エビデンスレベル L5）。既存適応症：本態性高血圧症、狭心症、拡張型心筋症、頻脈性心房細動（血圧降下薬、α1β遮断薬）"
 monitor_inn: "Carvedilol"
-predicted_indications: ["malignant hypertensive renal disease", "chronic pulmonary heart disease", "obsolete susceptibility to ischemic stroke", "cerebrovascular disorder", "ocular tuberculosis", "brain stem infarction"]
+predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "chronic pulmonary heart disease", "obsolete susceptibility to ischemic stroke", "cerebrovascular disorder", "ocular tuberculosis", "brain stem infarction"]
 ---
 
 # Carvedilol

@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-17
 description: "Pravastatin：予測新適応症はホモ接合体家族性高コレステロール血症 (homozygous familial hypercholesterolemia)（エビデンスレベル L3）。既存適応症：高脂血症、家族性高コレステロール血症"
 monitor_inn: "Pravastatin"
-predicted_indications: ["homozygous familial hypercholesterolemia", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "hypoalphalipoproteinemia", "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency", "cholesterol-ester transfer protein deficiency", "hypercholesterolemia, autosomal dominant"]
+predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "hypoalphalipoproteinemia", "cholesterol-ester transfer protein deficiency"]
 ---
 
 # Pravastatin

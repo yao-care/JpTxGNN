@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-17
 description: "Sertraline：予測新適応症は演技性パーソナリティ障害 (histrionic personality disorder)（エビデンスレベル L5）。既存適応症：うつ病・うつ状態、パニック障害"
 monitor_inn: "Sertraline"
-predicted_indications: ["histrionic personality disorder (disease)", "schizotypal personality disorder", "paranoid personality disorder", "schizoid personality disorder", "benign paroxysmal torticollis of infancy", "dependent personality disorder", "narcissistic personality disorder", "endogenous depression"]
+predicted_indications: ["histrionic personality disorder (disease)", "schizotypal personality disorder", "paranoid personality disorder", "schizoid personality disorder", "benign paroxysmal torticollis of infancy", "dependent personality disorder", "narcissistic personality disorder"]
 ---
 
 # Sertraline

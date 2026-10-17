@@ -5,8 +5,6 @@ parent: 中エビデンスレベル
 nav_order: 170
 evidence_level: L4
 indication_count: 1
-monitor_inn: "ketoconazole"
-predicted_indications: ["acne (disease)"]
 last_modified_at: 2026-10-17
 description: "Ketoconazole：予測新適応症は尋常性ざ瘡 (acne)（エビデンスレベル L4）。既存適応症：白癬、カンジダ症、癜風、脂漏性皮膚炎"
 ---

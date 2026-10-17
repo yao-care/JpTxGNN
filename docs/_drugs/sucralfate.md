@@ -5,10 +5,10 @@ parent: 高エビデンスレベル
 nav_order: 287
 evidence_level: L2
 indication_count: 10
-monitor_inn: "Sucralfate"
-predicted_indications: ["duodenogastric reflux", "duodenal obstruction", "esophagitis (disease)", "peptic esophagitis", "duodenitis", "active peptic ulcer disease", "gastroduodenitis", "C1 inhibitor deficiency", "peptic ulcer perforation", "gastrojejunal ulcer"]
 last_modified_at: 2026-10-17
 description: "Sucralfate：予測新適応症は十二指腸胃逆流 (duodenogastric reflux)（エビデンスレベル L2）。既存適応症：胃潰瘍、十二指腸潰瘍（消化性潰瘍薬、抗ペプシン薬）"
+monitor_inn: "Sucralfate"
+predicted_indications: ["duodenogastric reflux", "duodenal obstruction", "esophagitis (disease)", "peptic esophagitis", "duodenitis", "C1 inhibitor deficiency", "gastrojejunal ulcer"]
 ---
 
 # Sucralfate

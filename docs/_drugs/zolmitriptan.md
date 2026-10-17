@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 345
 evidence_level: L4
 indication_count: 3
-monitor_inn: "zolmitriptan"
-predicted_indications: ["migraine with brainstem aura", "atrophoderma vermiculata", "ulerythema ophryogenesis"]
 last_modified_at: 2026-10-17
 description: "Zolmitriptan：予測新適応症は脳幹性前兆を伴う片頭痛 (migraine with brainstem aura)（エビデンスレベル L4）。既存適応症：抗片頭痛薬、血管収縮薬、セロトニン受容体作動薬"
+monitor_inn: "zolmitriptan"
+predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
 ---
 
 # Zolmitriptan

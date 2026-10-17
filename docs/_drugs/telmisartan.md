@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-17
 description: "Telmisartan：予測新適応症はPrinzmetal 狭心症 (Prinzmetal angina)（エビデンスレベル L5）。既存適応症：高血圧症（血圧降下薬、アンジオテンシンII受容体拮抗薬）"
 monitor_inn: "Telmisartan"
-predicted_indications: ["Prinzmetal angina", "brain stem infarction", "ABri amyloidosis", "malignant hypertensive renal disease", "intracerebral hemorrhage"]
+predicted_indications: ["Prinzmetal angina", "brain stem infarction", "ABri amyloidosis", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "intracerebral hemorrhage"]
 ---
 
 # Telmisartan

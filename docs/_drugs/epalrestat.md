@@ -5,8 +5,6 @@ parent: 中エビデンスレベル
 nav_order: 113
 evidence_level: L3
 indication_count: 1
-monitor_inn: "epalrestat"
-predicted_indications: ["type 2 diabetes nephropathy"]
 last_modified_at: 2026-10-17
 description: "Epalrestat：予測新適応症は2型糖尿病性腎症 (type 2 diabetes nephropathy)（エビデンスレベル L3）。既存適応症：糖尿病性末梢神経障害（血糖降下薬、アルドース還元酵素阻害薬）"
 ---

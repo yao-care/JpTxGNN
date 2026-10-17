@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 120
 evidence_level: L5
 indication_count: 10
-monitor_inn: "estazolam"
-predicted_indications: ["insomnia (disease)", "visual epilepsy", "alcohol withdrawal delirium", "restless legs syndrome", "myofascial pain syndrome", "audiogenic seizures", "startle epilepsy", "thinking seizures", "micturation-induced seizures", "eating seizures"]
 last_modified_at: 2026-10-17
 description: "Estazolam：予測新適応症は不眠症 (insomnia)。既存適応症と同一のため、真の新規適応症ではありません（エビデンスレベル L5）。既存適応症：催眠鎮静薬（不眠症）"
+monitor_inn: "estazolam"
+predicted_indications: ["visual epilepsy", "alcohol withdrawal delirium", "restless legs syndrome", "myofascial pain syndrome", "audiogenic seizures", "startle epilepsy", "thinking seizures", "micturation-induced seizures", "eating seizures"]
 ---
 
 # Estazolam

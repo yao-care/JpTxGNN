@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 181
 evidence_level: L5
 indication_count: 10
-monitor_inn: "Levetiracetam"
-predicted_indications: ["visual epilepsy", "micturation-induced seizures", "orgasm-induced seizures", "audiogenic seizures", "thinking seizures", "eating seizures", "startle epilepsy", "reading seizures", "status epilepticus", "beta-ketothiolase deficiency"]
 last_modified_at: 2026-10-17
 description: "Levetiracetam：予測新適応症は視覚てんかん (Visual Epilepsy)（エビデンスレベル L5）。既存適応症：抗てんかん薬"
+monitor_inn: "Levetiracetam"
+predicted_indications: ["micturation-induced seizures", "orgasm-induced seizures", "audiogenic seizures", "thinking seizures", "eating seizures", "reading seizures", "beta-ketothiolase deficiency"]
 ---
 
 # Levetiracetam

@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 270
 evidence_level: L4
 indication_count: 2
-monitor_inn: "rizatriptan"
-predicted_indications: ["migraine with brainstem aura", "atrophoderma vermiculata"]
 last_modified_at: 2026-10-17
 description: "Rizatriptan：予測新適応症は脳幹性前兆を伴う片頭痛 (Migraine with Brainstem Aura)（エビデンスレベル L4）。既存適応症：抗片頭痛薬、血管収縮薬、セロトニン受容体作動薬"
+monitor_inn: "rizatriptan"
+predicted_indications: ["atrophoderma vermiculata"]
 ---
 
 # Rizatriptan

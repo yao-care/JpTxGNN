@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 332
 evidence_level: L5
 indication_count: 10
-monitor_inn: "Vancomycin"
-predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "congenital analbuminemia", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "typhoid fever", "blood group incompatibility", "streptococcal pneumonia", "premalignant hematological system disease"]
 last_modified_at: 2026-10-17
 description: "Vancomycin：予測新適応症はびまん型強皮症 (Diffuse Scleroderma)（エビデンスレベル L5）。既存適応症：MRSA 感染症、ペニシリン耐性肺炎球菌感染症、メチシリン耐性表皮ブドウ球菌感染症、感染性心内膜炎、結膜炎、眼瞼炎…"
+monitor_inn: "Vancomycin"
+predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "congenital analbuminemia", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "typhoid fever", "blood group incompatibility", "premalignant hematological system disease"]
 ---
 
 # Vancomycin

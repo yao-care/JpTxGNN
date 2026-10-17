@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-17
 description: "Loratadine：予測新適応症はアレルギー性蕁麻疹 (Allergic Urticaria)（エビデンスレベル L3）。既存適応症：抗アレルギー薬、H1受容体拮抗薬（アレルギー性鼻炎）"
 monitor_inn: "Loratadine"
-predicted_indications: ["allergic urticaria", "nasal cavity disease", "rosacea conjunctivitis", "cold urticaria", "viral conjunctivitis", "punctate epithelial keratoconjunctivitis", "trigeminal autonomic cephalalgia", "faucial diphtheria", "cervical disc degenerative disorder"]
+predicted_indications: ["allergic urticaria", "rosacea conjunctivitis", "cold urticaria", "viral conjunctivitis", "punctate epithelial keratoconjunctivitis", "trigeminal autonomic cephalalgia", "faucial diphtheria", "cervical disc degenerative disorder"]
 ---
 
 # Loratadine

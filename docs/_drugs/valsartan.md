@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-17
 description: "Valsartan：予測新適応症は悪性高血圧性腎疾患 (malignant hypertensive renal disease)（エビデンスレベル L4）。既存適応症：高血圧症"
 monitor_inn: "Valsartan"
-predicted_indications: ["malignant hypertensive renal disease", "chronic pulmonary heart disease", "Prinzmetal angina", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "obsolete susceptibility to ischemic stroke"]
+predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "chronic pulmonary heart disease", "Prinzmetal angina", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "obsolete susceptibility to ischemic stroke"]
 ---
 
 # Valsartan

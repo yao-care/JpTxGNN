@@ -144,7 +144,7 @@ def extra_front_matter(bundle_path: Path, evidence_level: str, indication_count:
             import importlib.util
             kspec = importlib.util.spec_from_file_location("known_use_filter", kfp)
             _KNOWN_USE_FILTER = importlib.util.module_from_spec(kspec); kspec.loader.exec_module(_KNOWN_USE_FILTER)
-        mon = _KNOWN_USE_FILTER.filter_predictions(bundle_path.parents[3], drug.get("drugbank_id") or "", inn, names)
+        mon = _KNOWN_USE_FILTER.filter_predictions(bundle_path.parents[3], drug.get("drugbank_id") or "", inn, names, bundle)
     else:
         mon = names
     if mon and inn:
