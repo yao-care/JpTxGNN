@@ -197,6 +197,19 @@ def search_trials(drug_name: str, days_back: int = 7, conditions: list = None) -
         return []
 
 
+ROLE_PATTERNS = [
+    (r"refractory|relapsed|after failure|inadequate response|switch(ing)? (from|to)|prior (therapy|treatment)|resistant to", "drug may be prior/frontline therapy, not the tested intervention"),
+    (r"conditioning|myeloablative|transplant", "drug may be used as transplant conditioning"),
+    (r"versus|vs\.?|compared with|comparator", "comparative study — check whether the drug is the comparator arm"),
+]
+
+
+def _role_flags(text: str) -> str:
+    """N-02：標出需要人工判讀藥物角色的試驗（以標題關鍵字判斷，僅供提示）。"""
+    t = (text or "").lower()
+    return "; ".join(msg for pat, msg in ROLE_PATTERNS if re.search(pat, t))
+
+
 def create_github_issue(drug_name: str, new_trials: list, indications: list = None):
     """Create a GitHub Issue for new trials found."""
     indications = indications or []
@@ -232,10 +245,16 @@ def create_github_issue(drug_name: str, new_trials: list, indications: list = No
         phase = ", ".join(design_module.get("phases", ["Unknown"]))
         enrollment = design_module.get("enrollmentInfo", {}).get("count", "Unknown")
 
+        conds = protocol.get("conditionsModule", {}).get("conditions", [])
+        hit = [i for i in (indications or []) if any(_clean_condition(i).lower() in c.lower() or c.lower() in _clean_condition(i).lower() for c in conds)]
+        role = _role_flags(brief_title)
         trial_details.append(
             f"### {nct_id}\n"
             f"- **Title**: {brief_title}\n"
-            f"- **Status**: {status}\n"
+            f"- **Conditions**: {'; '.join(conds) if conds else '-'}\n"
+            f"- **Matched predicted indication**: {'; '.join(hit) if hit else '(no direct condition match)'}\n"
+            + (f"- **⚠ Role flag**: {role}\n" if role else "")
+            + f"- **Status**: {status}\n"
             f"- **Phase**: {phase}\n"
             f"- **Enrollment**: {enrollment}\n"
             f"- **Link**: https://clinicaltrials.gov/study/{nct_id}\n"

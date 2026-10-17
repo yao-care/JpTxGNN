@@ -201,6 +201,20 @@ def search_pubmed_predicted(inn: str, indications: list, days_back: int = 7) -> 
         return []
 
 
+ROLE_PATTERNS = [
+    (r"refractory|relapsed|after failure|inadequate response|switch(ing)? (from|to)|prior (therapy|treatment)|resistant to", "drug may be prior/frontline therapy, not the tested intervention"),
+    (r"conditioning|myeloablative|before (stem cell|bone marrow) transplant|transplant(ation)? regimen", "drug may be used as transplant conditioning"),
+    (r"versus|vs\.?|compared with|comparator|placebo-controlled", "comparative study — check whether the drug is the comparator arm"),
+    (r"adverse|toxicity|induced|associated with .* use|case of .* after", "may describe an adverse effect rather than efficacy"),
+]
+
+
+def _role_flags(text: str) -> str:
+    """N-02：標出「藥只是前線治療／條件療法／對照組／不良反應」等需要人工判讀的情況（以標題關鍵字判斷，僅供提示）。"""
+    t = (text or "").lower()
+    return "; ".join(msg for pat, msg in ROLE_PATTERNS if re.search(pat, t))
+
+
 def matched_indications(papers: list, indications: list) -> list:
     """以論文標題比對命中哪些預測新適應症；比對不到就回傳空串列。"""
     titles = " ".join(p.get("title", "") for p in papers).lower()
@@ -269,10 +283,14 @@ def create_github_issue(drug_name: str, new_papers: list, indications: list = No
     paper_details = []
     for paper in new_papers:
         authors = ", ".join(paper["authors"]) + (" et al." if len(paper["authors"]) >= 3 else "")
+        hit = [i for i in indications if _clean_indication(i).lower() in paper["title"].lower()]
+        role = _role_flags(paper["title"])
         paper_details.append(
             f"### PMID: {paper['pmid']}\n"
             f"- **Title**: {paper['title']}\n"
-            f"- **Journal**: {paper['source']}\n"
+            f"- **Matched predicted indication**: {'; '.join(hit) if hit else '(not in title — check abstract)'}\n"
+            + (f"- **⚠ Role flag**: {role}\n" if role else "")
+            + f"- **Journal**: {paper['source']}\n"
             f"- **Publication Date**: {paper['pubdate']}\n"
             f"- **Authors**: {authors}\n"
             f"- **Link**: https://pubmed.ncbi.nlm.nih.gov/{paper['pmid']}/\n"
