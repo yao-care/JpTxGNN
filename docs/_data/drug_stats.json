@@ -1,8 +1,8 @@
 {
   "generated": "2026-10-17",
-  "total_drugs": 402,
+  "total_drugs": 400,
   "level_counts": {
-    "L1": 29,
+    "L1": 27,
     "L2": 33,
     "L3": 51,
     "L4": 71,
@@ -2372,18 +2372,6 @@
       "slug": "warfarin",
       "level": "L5",
       "indication_count": 10
-    },
-    {
-      "name": "Warfarin Af",
-      "slug": "warfarin_af",
-      "level": "L1",
-      "indication_count": 1
-    },
-    {
-      "name": "Warfarin Atrial Fibrillation",
-      "slug": "warfarin_atrial_fibrillation",
-      "level": "L1",
-      "indication_count": 1
     },
     {
       "name": "Xylometazoline",

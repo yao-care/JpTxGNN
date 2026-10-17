@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-17",
-  "total_count": 402,
+  "total_count": 400,
   "source": "JpTxGNN",
   "drugs": [
     {
@@ -3942,26 +3942,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/warfarin/"
-    },
-    {
-      "slug": "warfarin-af",
-      "name": "Warfarin Af",
-      "evidence_level": "L1",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/warfarin-af/"
-    },
-    {
-      "slug": "warfarin-atrial-fibrillation",
-      "name": "Warfarin Atrial Fibrillation",
-      "evidence_level": "L1",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/warfarin-atrial-fibrillation/"
     },
     {
       "slug": "xylometazoline",
