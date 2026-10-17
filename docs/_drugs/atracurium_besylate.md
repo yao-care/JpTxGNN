@@ -6,7 +6,7 @@ nav_order: 25
 evidence_level: L3
 indication_count: 1
 last_modified_at: 2026-09-17
-description: "Atracurium Besylate：予測新適応症は子癇前症 (preeclampsia)（エビデンスレベル L3）。既存適応症：全身麻醉輔助劑、加護病房鎮靜輔助、氣管插管、人工呼吸器協調"
+description: "Atracurium Besylate：予測新適応症は子癇前症 (preeclampsia)（エビデンスレベル L3）。既存適応症：日本の承認適応症は本サイトのデータに未収載"
 ---
 
 # Atracurium Besylate
@@ -40,7 +40,7 @@ Atracurium besylate 是非去極化神經肌肉阻斷劑，用於手術麻醉輔
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 全身麻醉輔助劑、加護病房鎮靜輔助、氣管插管、人工呼吸器協調 |
+| 既存適応症 | 日本の承認適応症は本サイトのデータに未収載 |
 | 予測新適応症 | 子癇前症 (preeclampsia) |
 | TxGNN 予測スコア | 99.97% |
 | エビデンスレベル | L3 (觀察性研究/文獻支持) |

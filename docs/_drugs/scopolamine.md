@@ -44,7 +44,7 @@ TxGNN 模型預測它可能對**馬尾症候群 (Cauda Equina Syndrome)** 及**�
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 胃腸痙攣、膽管痙攣、尿路痙攣、女性生殖器痙攣 |
+| 既存適応症 | 日本の承認適応症は本サイトのデータに未収載（知識グラフ上の適応症：peptic ulcer disease、allergic rhinitis、vasomotor rhinitis、uveitis、iris disease、ciliary body disease） |
 | 予測新適応症 | Cauda Equina Syndrome（馬尾症候群） |
 | TxGNN 予測スコア | 99.99% |
 | エビデンスレベル | L5 |

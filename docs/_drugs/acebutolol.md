@@ -6,7 +6,7 @@ nav_order: 10
 evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-09-17
-description: "Acebutolol：予測新適応症は惡性腎血管高血壓 (malignant renovascular hypertension)（エビデンスレベル L4）。既存適応症：高血壓、狹心症、心律不整"
+description: "Acebutolol：予測新適応症は惡性腎血管高血壓 (malignant renovascular hypertension)（エビデンスレベル L4）。既存適応症：日本の承認適応症は本サイトのデータに未収載"
 ---
 
 # Acebutolol
@@ -43,7 +43,7 @@ TxGNN 模型預測它可能對**惡性腎血管高血壓 (malignant renovascular
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 高血壓、狹心症、心律不整 |
+| 既存適応症 | 日本の承認適応症は本サイトのデータに未収載（知識グラフ上の適応症：hypertensive disorder、hypertension） |
 | 予測新適応症 | 惡性腎血管高血壓 (malignant renovascular hypertension) |
 | TxGNN 予測スコア | 99.10% |
 | エビデンスレベル | L4 |

@@ -6,7 +6,7 @@ nav_order: 155
 evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-09-17
-description: "Silicon Dioxide：予測新適応症はActive Peptic Ulcer Disease（活動性消化性潰瘍）（エビデンスレベル L4）。既存適応症：賦形劑、制酸劑、胃酸過多、氣體吸著劑"
+description: "Silicon Dioxide：予測新適応症はActive Peptic Ulcer Disease（活動性消化性潰瘍）（エビデンスレベル L4）。既存適応症：日本の承認適応症は本サイトのデータに未収載、peptic esophagitis、dyspepsia）"
 ---
 
 # Silicon Dioxide
@@ -43,7 +43,7 @@ TxGNN 模型預測它可能對**活動性消化性潰瘍 (Active Peptic Ulcer Di
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 賦形劑、制酸劑、胃酸過多、氣體吸著劑 |
+| 既存適応症 | 日本の承認適応症は本サイトのデータに未収載（知識グラフ上の適応症：peptic ulcer disease、gastroesophageal reflux disease、esophagitis (disease)、peptic esophagitis、dyspepsia） |
 | 予測新適応症 | Active Peptic Ulcer Disease（活動性消化性潰瘍） |
 | TxGNN 予測スコア | 99.93% |
 | エビデンスレベル | L4 |

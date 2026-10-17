@@ -6,7 +6,7 @@ nav_order: 16
 evidence_level: L1
 indication_count: 1
 last_modified_at: 2026-09-17
-description: "Alprostadil：予測新適応症は主動脈畸形、先天性三尖瓣狹窄、心室中隔缺損（エビデンスレベル L1）。既存適応症：週邊動脈阻塞、勃起功能障礙、先天性心臟缺損新生兒動脈導管維持"
+description: "Alprostadil：予測新適応症は主動脈畸形、先天性三尖瓣狹窄、心室中隔缺損（エビデンスレベル L1）。既存適応症：日本の承認適応症は本サイトのデータに未収載、psychologic dyspareunia…"
 ---
 
 # Alprostadil
@@ -41,7 +41,7 @@ Alprostadil (PGE1) 是前列腺素類藥物，目前已廣泛用於先天性心�
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 週邊動脈阻塞、勃起功能障礙、先天性心臟缺損新生兒動脈導管維持 |
+| 既存適応症 | 日本の承認適応症は本サイトのデータに未収載（知識グラフ上の適応症：erectile dysfunction (disease)、psychologic dyspareunia、premature ejaculation (disease)、tricuspid atresia (disease)、aorta coarctation、autosomal dominant coarctation of aorta） |
 | 予測新適応症 | 主動脈畸形、先天性三尖瓣狹窄、心室中隔缺損 |
 | TxGNN 予測スコア | 0.9998（主動脈畸形）、0.999（三尖瓣病變） |
 | エビデンスレベル | L1-L2（臨床試驗及大量文獻支持） |

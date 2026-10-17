@@ -44,7 +44,7 @@ TxGNN 模型預測它可能對**類乙型威勒布蘭氏病 (Pseudo-von Willebra
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 治療與預防 A 型血友病（先天性第八凝血因子缺乏）病人的出血 |
+| 既存適応症 | 日本の承認適応症は本サイトのデータに未収載（知識グラフ上の適応症：hemophilia、symptomatic form of hemophilia in female carriers） |
 | 予測新適応症 | Pseudo-von Willebrand Disease（類乙型威勒布蘭氏病） |
 | TxGNN 予測スコア | 99.997% |
 | エビデンスレベル | L5 |

@@ -6,7 +6,7 @@ nav_order: 146
 evidence_level: L3
 indication_count: 1
 last_modified_at: 2026-09-17
-description: "Ribavirin：予測新適応症は慢性 B 型肝炎病毒感染 (Chronic HBV Infection)（エビデンスレベル L3）。既存適応症：慢性 C 型肝炎（與 peginterferon 或 DAA 併用）"
+description: "Ribavirin：予測新適応症は慢性 B 型肝炎病毒感染 (Chronic HBV Infection)（エビデンスレベル L3）。既存適応症：日本の承認適応症は本サイトのデータに未収載"
 ---
 
 # Ribavirin
@@ -41,7 +41,7 @@ Ribavirin 是一種抗病毒藥物，原本與干擾素或其他抗病毒藥物�
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 慢性 C 型肝炎（與 peginterferon 或 DAA 併用） |
+| 既存適応症 | 日本の承認適応症は本サイトのデータに未収載（知識グラフ上の適応症：chronic hepatitis C virus infection、hepatitis C virus infection、respiratory syncytial virus infectious disease） |
 | 予測新適応症 | 慢性 B 型肝炎病毒感染 (Chronic HBV Infection) |
 | TxGNN 予測スコア | 99.86% |
 | エビデンスレベル | L3 |

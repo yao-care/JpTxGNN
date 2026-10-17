@@ -6,7 +6,7 @@ nav_order: 139
 evidence_level: L2
 indication_count: 1
 last_modified_at: 2026-09-17
-description: "Prednisone：予測新適応症は圓禿症 (Alopecia Areata)（エビデンスレベル L2）。既存適応症：風濕性關節炎、急性病症（氣喘、休克）、皮膚疾患"
+description: "Prednisone：予測新適応症は圓禿症 (Alopecia Areata)（エビデンスレベル L2）。既存適応症：日本の承認適応症は本サイトのデータに未収載、leukemia, lymphocytic, susceptibility to…"
 ---
 
 # Prednisone
@@ -41,7 +41,7 @@ Prednisone 是一種廣泛使用的皮質類固醇，原本用於風濕性關節
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 風濕性關節炎、急性病症（氣喘、休克）、皮膚疾患 |
+| 既存適応症 | 日本の承認適応症は本サイトのデータに未収載（知識グラフ上の適応症：autoimmune disease、humoral hypercalcemia of malignancy、acute lymphoblastic leukemia (disease)、leukemia, lymphocytic, susceptibility to、acute lymphoblastic/lymphocytic leukemia、precursor T-cell acute lymphoblastic leukemia） |
 | 予測新適応症 | 圓禿症 (Alopecia Areata) |
 | TxGNN 予測スコア | 99.99% |
 | エビデンスレベル | L2 |

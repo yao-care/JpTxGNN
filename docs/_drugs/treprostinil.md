@@ -6,7 +6,7 @@ nav_order: 183
 evidence_level: L2
 indication_count: 1
 last_modified_at: 2026-09-17
-description: "Treprostinil：予測新適応症は肺動脈高壓相關疾病（先天性心臟病、HIV 感染、結締組織疾病等）（エビデンスレベル L2）。既存適応症：特發性或遺傳性肺動脈高壓 (WHO functional class III/IV)"
+description: "Treprostinil：予測新適応症は肺動脈高壓相關疾病（先天性心臟病、HIV 感染、結締組織疾病等）（エビデンスレベル L2）。既存適応症：日本の承認適応症は本サイトのデータに未収載"
 ---
 
 # Treprostinil
@@ -43,7 +43,7 @@ TxGNN 模型預測它可能對**多種肺動脈高壓相關疾病**有效，
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 特發性或遺傳性肺動脈高壓 (WHO functional class III/IV) |
+| 既存適応症 | 日本の承認適応症は本サイトのデータに未収載（知識グラフ上の適応症：pulmonary arterial hypertension） |
 | 予測新適応症 | 肺動脈高壓相關疾病（先天性心臟病、HIV 感染、結締組織疾病等） |
 | TxGNN 最高預測分數 | 99.70% (肺動靜脈畸形) |
 | エビデンスレベル | L2 (結締組織疾病相關 PAH) |

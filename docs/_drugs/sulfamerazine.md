@@ -6,7 +6,7 @@ nav_order: 159
 evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-04-19
-description: "Sulfamerazine：予測新適応症は結膜炎（conjunctivitis）、痛風（gout）（エビデンスレベル L4）。既存適応症：磺胺劑、革蘭氏陽性及陰性菌感染症"
+description: "Sulfamerazine：予測新適応症は結膜炎（conjunctivitis）、痛風（gout）（エビデンスレベル L4）。既存適応症：日本の承認適応症は本サイトのデータに未収載"
 ---
 
 # Sulfamerazine
@@ -41,7 +41,7 @@ Sulfamerazine 是傳統磺胺類抗菌劑，TxGNN 預測其可能對結膜炎（
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 磺胺劑、革蘭氏陽性及陰性菌感染症 |
+| 既存適応症 | 日本の承認適応症は本サイトのデータに未収載 |
 | 予測新適応症 | 結膜炎（conjunctivitis）、痛風（gout） |
 | TxGNN 予測スコア | 0.990（conjunctivitis） |
 | エビデンスレベル | L4（有歷史 PubMed 文獻） |

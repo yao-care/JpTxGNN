@@ -6,7 +6,7 @@ nav_order: 63
 evidence_level: L3
 indication_count: 1
 last_modified_at: 2026-09-17
-description: "Dupilumab：予測新適応症は支氣管炎 (bronchitis)（エビデンスレベル L3）。既存適応症：異位性皮膚炎、氣喘、慢性鼻竇炎合併鼻息肉、嗜伊紅性食道炎"
+description: "Dupilumab：予測新適応症は支氣管炎 (bronchitis)（エビデンスレベル L3）。既存適応症：日本の承認適応症は本サイトのデータに未収載"
 ---
 
 # Dupilumab
@@ -43,7 +43,7 @@ TxGNN 模型預測它可能對**支氣管炎 (bronchitis)** 有效，
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 異位性皮膚炎、氣喘、慢性鼻竇炎合併鼻息肉、嗜伊紅性食道炎 |
+| 既存適応症 | 日本の承認適応症は本サイトのデータに未収載（知識グラフ上の適応症：atopic eczema、dermatitis, atopic） |
 | 予測新適応症 | 支氣管炎 (bronchitis) |
 | TxGNN 予測スコア | 99.92% |
 | エビデンスレベル | L3 |

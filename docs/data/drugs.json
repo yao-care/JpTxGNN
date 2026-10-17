@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-17",
-  "total_count": 392,
+  "total_count": 390,
   "source": "JpTxGNN",
   "drugs": [
     {
@@ -3324,16 +3324,6 @@
       "url": "/drugs/tamsulosin/"
     },
     {
-      "slug": "tazarotene",
-      "name": "Tazarotene",
-      "evidence_level": "L5",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/tazarotene/"
-    },
-    {
       "slug": "tegafur",
       "name": "Tegafur",
       "evidence_level": "L1",
@@ -3552,16 +3542,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/topotecan/"
-    },
-    {
-      "slug": "trabectedin",
-      "name": "Trabectedin",
-      "evidence_level": "L5",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/trabectedin/"
     },
     {
       "slug": "tramadol",

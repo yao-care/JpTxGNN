@@ -1,12 +1,12 @@
 {
   "generated": "2026-10-17",
-  "total_drugs": 392,
+  "total_drugs": 390,
   "level_counts": {
     "L1": 27,
     "L2": 33,
     "L3": 51,
     "L4": 71,
-    "L5": 210
+    "L5": 208
   },
   "all_drugs": [
     {
@@ -2002,12 +2002,6 @@
       "indication_count": 10
     },
     {
-      "name": "Tazarotene",
-      "slug": "tazarotene",
-      "level": "L5",
-      "indication_count": 1
-    },
-    {
       "name": "Tegafur",
       "slug": "tegafur",
       "level": "L1",
@@ -2138,12 +2132,6 @@
       "slug": "topotecan",
       "level": "L3",
       "indication_count": 10
-    },
-    {
-      "name": "Trabectedin",
-      "slug": "trabectedin",
-      "level": "L5",
-      "indication_count": 1
     },
     {
       "name": "Tramadol",

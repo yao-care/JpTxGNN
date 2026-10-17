@@ -6,7 +6,7 @@ nav_order: 140
 evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-09-17
-description: "Probenecid：予測新適応症は腎性低尿酸血症 (Renal Hypouricemia)（エビデンスレベル L4）。既存適応症：痛風、痛風性關節炎、尿酸排泄增進"
+description: "Probenecid：予測新適応症は腎性低尿酸血症 (Renal Hypouricemia)（エビデンスレベル L4）。既存適応症：日本の承認適応症は本サイトのデータに未収載）"
 ---
 
 # Probenecid
@@ -41,7 +41,7 @@ Probenecid 是一種尿酸排泄促進劑，原本用於痛風和痛風性關節
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 痛風、痛風性關節炎、尿酸排泄增進 |
+| 既存適応症 | 日本の承認適応症は本サイトのデータに未収載（知識グラフ上の適応症：gout、obsolete hyperuricemia (disease)） |
 | 予測新適応症 | 腎性低尿酸血症 (Renal Hypouricemia) |
 | TxGNN 予測スコア | 99.73% |
 | エビデンスレベル | L4 |

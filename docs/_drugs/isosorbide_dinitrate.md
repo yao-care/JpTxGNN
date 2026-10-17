@@ -6,7 +6,7 @@ nav_order: 94
 evidence_level: L2
 indication_count: 1
 last_modified_at: 2026-09-17
-description: "Isosorbide Dinitrate：予測新適応症は肺高壓 (pulmonary hypertension)、脫髮症 (alopecia)（エビデンスレベル L2）。既存適応症：預防及治療狹心症發作、冠狀動脈不全"
+description: "Isosorbide Dinitrate：予測新適応症は肺高壓 (pulmonary hypertension)、脫髮症 (alopecia)（エビデンスレベル L2）。既存適応症：日本の承認適応症は本サイトのデータに未収載"
 ---
 
 # Isosorbide Dinitrate
@@ -41,7 +41,7 @@ Isosorbide dinitrate（二硝酸異山梨酯）是一種有機硝酸酯類血管
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 預防及治療狹心症發作、冠狀動脈不全 |
+| 既存適応症 | 日本の承認適応症は本サイトのデータに未収載 |
 | 予測新適応症 | 肺高壓 (pulmonary hypertension)、脫髮症 (alopecia) |
 | TxGNN 予測スコア | 99.98% (肺高壓) |
 | エビデンスレベル | L2 |

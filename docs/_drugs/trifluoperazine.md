@@ -6,7 +6,7 @@ nav_order: 184
 evidence_level: L3
 indication_count: 1
 last_modified_at: 2026-09-17
-description: "Trifluoperazine：予測新適応症は躁鬱症躁症期 (manic bipolar affective disorder)（エビデンスレベル L3）。既存適応症：精神病狀態、噁心嘔吐、攻擊性與破壞性行為障礙"
+description: "Trifluoperazine：予測新適応症は躁鬱症躁症期 (manic bipolar affective disorder)（エビデンスレベル L3）。既存適応症：日本の承認適応症は本サイトのデータに未収載"
 ---
 
 # Trifluoperazine
@@ -43,7 +43,7 @@ TxGNN 模型預測它可能對**躁鬱症躁症期 (manic bipolar affective diso
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 精神病狀態、噁心嘔吐、攻擊性與破壞性行為障礙 |
+| 既存適応症 | 日本の承認適応症は本サイトのデータに未収載（知識グラフ上の適応症：schizophrenia、anxiety） |
 | 予測新適応症 | 躁鬱症躁症期 (manic bipolar affective disorder) |
 | TxGNN 予測スコア | 99.51% |
 | エビデンスレベル | L3 (有間接文獻證據) |

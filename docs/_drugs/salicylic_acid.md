@@ -44,7 +44,7 @@ TxGNN 模型預測它可能對**乳頭狀結膜炎 (Papillary Conjunctivitis)** 
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 抗皮膚角化劑、殺菌、角質軟化、解熱鎮痛 |
+| 既存適応症 | 日本の承認適応症は本サイトのデータに未収載（知識グラフ上の適応症：tinea pedis、synovitis (disease)、tenosynovitis、rheumatoid arthritis、allergic rhinitis、vasomotor rhinitis） |
 | 予測新適応症 | Papillary Conjunctivitis |
 | TxGNN 予測スコア | 99.88% |
 | エビデンスレベル | L5 |

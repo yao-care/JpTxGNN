@@ -6,7 +6,7 @@ nav_order: 20
 evidence_level: L3
 indication_count: 1
 last_modified_at: 2026-04-19
-description: "Amcinonide：予測新適応症は皮膚炎 (dermatitis)（エビデンスレベル L3）。既存適応症：異位性皮膚炎、接觸性皮膚炎、濕疹、牛皮癬、神經性皮膚炎"
+description: "Amcinonide：予測新適応症は皮膚炎 (dermatitis)（エビデンスレベル L3）。既存適応症：日本の承認適応症は本サイトのデータに未収載、atopic eczema、dermatitis, atopic…"
 ---
 
 # Amcinonide
@@ -43,7 +43,7 @@ TxGNN 模型預測它可能對**皮膚炎 (dermatitis)** 有效，
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 異位性皮膚炎、接觸性皮膚炎、濕疹、牛皮癬、神經性皮膚炎 |
+| 既存適応症 | 日本の承認適応症は本サイトのデータに未収載（知識グラフ上の適応症：exanthem (disease)、atopic eczema、dermatitis, atopic、contact dermatitis、occupational dermatitis、seborrheic dermatitis） |
 | 予測新適応症 | 皮膚炎 (dermatitis) |
 | TxGNN 予測スコア | 99.30% |
 | エビデンスレベル | L3 |

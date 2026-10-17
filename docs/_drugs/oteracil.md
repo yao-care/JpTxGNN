@@ -6,7 +6,7 @@ nav_order: 117
 evidence_level: L2
 indication_count: 1
 last_modified_at: 2026-09-17
-description: "Oteracil：予測新適応症は大腸腫瘤 (Colonic Neoplasm)（エビデンスレベル L2）。既存適応症：胃癌用藥"
+description: "Oteracil：予測新適応症は大腸腫瘤 (Colonic Neoplasm)（エビデンスレベル L2）。既存適応症：日本の承認適応症は本サイトのデータに未収載"
 ---
 
 # Oteracil
@@ -43,7 +43,7 @@ TxGNN 模型預測它可能對**大腸腫瘤 (Colonic Neoplasm)** 有效，
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 胃癌用藥。 |
+| 既存適応症 | 日本の承認適応症は本サイトのデータに未収載（知識グラフ上の適応症：gastric cancer、gastric neoplasm、diffuse gastric adenocarcinoma、gastric linitis plastica、gastric carcinoma） |
 | 予測新適応症 | 大腸腫瘤 (Colonic Neoplasm) |
 | TxGNN 予測スコア | 99.99% |
 | エビデンスレベル | L2 |

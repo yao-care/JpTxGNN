@@ -6,7 +6,7 @@ nav_order: 86
 evidence_level: L3
 indication_count: 1
 last_modified_at: 2026-09-17
-description: "Inositol：予測新適応症はFamilial Hypercholesterolemia（エビデンスレベル L3）。既存適応症：末梢血管循環障礙、營養劑、趨脂劑"
+description: "Inositol：予測新適応症はFamilial Hypercholesterolemia（エビデンスレベル L3）。既存適応症：日本の承認適応症は本サイトのデータに未収載、obsolete familial combined hyperlipidemia…"
 ---
 
 # Inositol
@@ -43,7 +43,7 @@ TxGNN 模型預測它可能對 **Familial Hypercholesterolemia** (家族性高�
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 末梢血管循環障礙、營養劑、趨脂劑 |
+| 既存適応症 | 日本の承認適応症は本サイトのデータに未収載（知識グラフ上の適応症：pellagra、beriberi、hypertriglyceridemia (disease)、obsolete familial combined hyperlipidemia、hyperlipidemia, familial combined, LPL related、hypoalphalipoproteinemia） |
 | 予測新適応症 | Familial Hypercholesterolemia |
 | TxGNN 予測スコア | 99.47% |
 | エビデンスレベル | L3 |

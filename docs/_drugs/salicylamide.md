@@ -6,7 +6,7 @@ nav_order: 152
 evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-09-17
-description: "Salicylamide：予測新適応症は普通感冒 (common cold)、咽炎 (pharyngitis)（エビデンスレベル L4）。既存適応症：解熱鎮痛、風濕關節痛、神經痛、肌肉痛"
+description: "Salicylamide：予測新適応症は普通感冒 (common cold)、咽炎 (pharyngitis)（エビデンスレベル L4）。既存適応症：日本の承認適応症は本サイトのデータに未収載"
 ---
 
 # Salicylamide
@@ -41,7 +41,7 @@ Salicylamide 原本用於解熱鎮痛。TxGNN 模型預測它可能對**普通�
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 解熱鎮痛、風濕關節痛、神經痛、肌肉痛 |
+| 既存適応症 | 日本の承認適応症は本サイトのデータに未収載（知識グラフ上の適応症：headache disorder） |
 | 予測新適応症 | 普通感冒 (common cold)、咽炎 (pharyngitis) |
 | TxGNN 予測スコア | 99.93% (咽炎)、99.26% (普通感冒) |
 | エビデンスレベル | L4 |

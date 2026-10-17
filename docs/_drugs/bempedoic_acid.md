@@ -6,7 +6,7 @@ nav_order: 28
 evidence_level: L3
 indication_count: 1
 last_modified_at: 2026-09-17
-description: "Bempedoic Acid：予測新適応症は同合子家族性高膽固醇血症 (homozygous familial hypercholesterolemia)（エビデンスレベル L3）。既存適応症：原發性高膽固醇血症、混合型血脂異常、動脈粥狀硬化心血管疾病風險降低"
+description: "Bempedoic Acid：予測新適応症は同合子家族性高膽固醇血症 (homozygous familial hypercholesterolemia)（エビデンスレベル L3）。既存適応症：日本の承認適応症は本サイトのデータに未収載"
 ---
 
 # Bempedoic Acid
@@ -40,7 +40,7 @@ Bempedoic acid 是 ATP 檸檬酸裂解酶抑制劑，用於降低 LDL-C，TxGNN 
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 原發性高膽固醇血症、混合型血脂異常、動脈粥狀硬化心血管疾病風險降低 |
+| 既存適応症 | 日本の承認適応症は本サイトのデータに未収載 |
 | 予測新適応症 | 同合子家族性高膽固醇血症 (homozygous familial hypercholesterolemia) |
 | TxGNN 予測スコア | 99.48% |
 | エビデンスレベル | L3 (多篇文獻支持，真實世界數據) |

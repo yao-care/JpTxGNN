@@ -6,7 +6,7 @@ nav_order: 79
 evidence_level: L3
 indication_count: 1
 last_modified_at: 2026-04-19
-description: "Human Immunoglobulin G：予測新適応症は糖尿病視網膜病變 (diabetic retinopathy)（エビデンスレベル L3）。既存適応症：原發性免疫不全症、ITP、川崎氏症、GBS"
+description: "Human Immunoglobulin G：予測新適応症は糖尿病視網膜病變 (diabetic retinopathy)（エビデンスレベル L3）。既存適応症：日本の承認適応症は本サイトのデータに未収載"
 ---
 
 # Human Immunoglobulin G
@@ -43,7 +43,7 @@ TxGNN 模型預測它可能對**糖尿病視網膜病變 (diabetic retinopathy)*
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 原發性免疫不全症、ITP、川崎氏症、GBS |
+| 既存適応症 | 日本の承認適応症は本サイトのデータに未収載 |
 | 予測新適応症 | 糖尿病視網膜病變 (diabetic retinopathy) |
 | TxGNN 予測スコア | 99.63% |
 | エビデンスレベル | L3 |

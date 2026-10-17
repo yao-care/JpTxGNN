@@ -6,7 +6,7 @@ nav_order: 157
 evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-04-19
-description: "Sodium Carbonate：予測新適応症は過敏反應（anaphylaxis）、乾眼症（dry eye syndrome）（エビデンスレベル L4）。既存適応症：制酸劑、無菌製劑輔助劑（鹼化藥）、抗生素輔助劑"
+description: "Sodium Carbonate：予測新適応症は過敏反應（anaphylaxis）、乾眼症（dry eye syndrome）（エビデンスレベル L4）。既存適応症：日本の承認適応症は本サイトのデータに未収載"
 ---
 
 # Sodium Carbonate
@@ -41,7 +41,7 @@ Sodium Carbonate 主要作為制酸劑及抗生素製劑輔助劑使用，TxGNN 
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 制酸劑、無菌製劑輔助劑（鹼化藥）、抗生素輔助劑 |
+| 既存適応症 | 日本の承認適応症は本サイトのデータに未収載 |
 | 予測新適応症 | 過敏反應（anaphylaxis）、乾眼症（dry eye syndrome）|
 | TxGNN 予測スコア | 0.997（anaphylaxis） |
 | エビデンスレベル | L4（有 PubMed 文獻支持） |

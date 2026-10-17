@@ -6,7 +6,7 @@ nav_order: 33
 evidence_level: L3
 indication_count: 1
 last_modified_at: 2026-09-17
-description: "Brivaracetam：予測新適応症は視覺性癲癇 (visual epilepsy)（エビデンスレベル L3）。既存適応症：1個月大以上局部癲癇發作病人的治療"
+description: "Brivaracetam：予測新適応症は視覺性癲癇 (visual epilepsy)（エビデンスレベル L3）。既存適応症：日本の承認適応症は本サイトのデータに未収載"
 ---
 
 # Brivaracetam
@@ -40,7 +40,7 @@ Brivaracetam 原為治療局部癲癇發作的第三代抗癲癇藥物，TxGNN �
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 1個月大以上局部癲癇發作病人的治療 |
+| 既存適応症 | 日本の承認適応症は本サイトのデータに未収載（知識グラフ上の適応症：partial epilepsy、partial motor epilepsy） |
 | 予測新適応症 | 視覺性癲癇 (visual epilepsy) |
 | TxGNN 予測スコア | 99.51% |
 | エビデンスレベル | L3 (觀察性研究/光敏感性研究) |
