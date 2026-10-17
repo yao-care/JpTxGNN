@@ -37,7 +37,7 @@ permalink: /news/valproic-acid/
 <li>デパケンシロップ５％ | シロップ５％ | （記載なし） (99.0%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/valproic-acid/' | relative_url }}">医薬品レポート全文を見る →</a></p>
+
 </div>
 
 ## 関連ニュース（0 件）

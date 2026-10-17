@@ -30,7 +30,7 @@ permalink: /news/ascorbic-acid/
 <li>シナール配合顆粒 | 顆粒 | 失効 (99.0%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/ascorbic-acid/' | relative_url }}">医薬品レポート全文を見る →</a></p>
+
 </div>
 
 ## 関連ニュース（0 件）
