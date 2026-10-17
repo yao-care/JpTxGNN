@@ -866,10 +866,10 @@ def generate_drug_news_page(slug: str, drug_info: dict, drug_detail: dict, drug_
 
     content = f"""---
 layout: default
-title: "{page_title}"
+title: {json.dumps(page_title, ensure_ascii=False)}
 parent: {NEWS_PARENT}
 nav_exclude: true
-description: "{description}"
+description: {json.dumps(description, ensure_ascii=False)}
 permalink: /news/{slug}/
 ---
 
@@ -1033,10 +1033,10 @@ def generate_indication_news_page(name: str, news_items: list[dict], keywords: d
 
     content = f"""---
 layout: default
-title: "{page_title}"
+title: {json.dumps(page_title, ensure_ascii=False)}
 parent: {NEWS_PARENT}
 nav_exclude: true
-description: "{description}"
+description: {json.dumps(description, ensure_ascii=False)}
 permalink: /news/{slug}/
 ---
 
@@ -1110,6 +1110,19 @@ permalink: /news/{slug}/
         f.write(content)
 
 
+def _index_kw(k):
+    """T-302：索引裡的 slug 也用頁面實際網址的 slug（舊 ID、轉址、noindex 不外露）。"""
+    k = dict(k)
+    if k.get("type") == "drug":
+        u = drug_url(k.get("slug")) or drug_url(re.sub(r"[\W_]+", "_", str(k.get("name", ""))).strip("_"))
+        k.pop("slug", None); k.pop("url", None)
+        if u:
+            k["slug"], k["url"] = u.strip("/").split("/")[-1], u
+    if k.get("related_drugs"):
+        k["related_drugs"] = [dict(r, slug=drug_url_slug(r["slug"])) for r in k["related_drugs"] if drug_url_slug(r.get("slug"))]
+    return k
+
+
 def generate_news_index(matched_news: list[dict]):
     """產生前端用的新聞索引 JSON"""
     # 只保留有匹配關鍵字的新聞
@@ -1119,7 +1132,7 @@ def generate_news_index(matched_news: list[dict]):
             "title": item["title"],
             "published": item["published"],
             "sources": item["sources"],
-            "keywords": item["matched_keywords"]
+            "keywords": [_index_kw(k) for k in item["matched_keywords"]]
         }
         for item in matched_news
         if item.get("matched_keywords")

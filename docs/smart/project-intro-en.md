@@ -44,8 +44,8 @@ JpTxGNN is a drug repurposing prediction platform for Japanese medicines, based 
 |--------|-------|
 | Total Drugs | {{ site.data.site_stats.drugs }} |
 | DrugBank Mappings | 142 |
-| KG Predictions | 33,901 |
-| DL Predictions | 2,419,822 |
+| KG Known Uses (excluded) | 33,901 |
+| DL Scored Pairs | 2,419,822 |
 | Predicted New Indications (known uses excluded) | {{ site.data.site_stats.indications }} |
 
 ---
@@ -54,7 +54,7 @@ JpTxGNN is a drug repurposing prediction platform for Japanese medicines, based 
 
 1. **Data Collection**: Integrate SSK medicines + KEGG therapeutic information
 2. **DrugBank Mapping**: Map ingredient names to DrugBank IDs
-3. **KG Prediction**: Extract known relationships from TxGNN knowledge graph
+3. **Known-use check (KG)**: Exclude relationships already recorded in the TxGNN knowledge graph
 4. **DL Prediction**: Predict new relationships using deep learning model
 5. **Integration & Filtering**: Extract predictions with confidence ≥90%
 

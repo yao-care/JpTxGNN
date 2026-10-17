@@ -72,8 +72,8 @@ TxGNN (Therapeutic Knowledge Graph Neural Network) は、医薬品と疾病の�
 │  └──────────────────────────────────────────┘          │
 │                       ↓                                 │
 │  ┌──────────────────────────────────────────┐          │
-│  │         TxGNN KG Prediction              │          │
-│  │    (Find new drug-disease relations)     │          │
+│  │         Known-use check (KG)             │          │
+│  │    (Exclude uses already recorded)       │          │
 │  └──────────────────────────────────────────┘          │
 │                       ↓                                 │
 │  ┌──────────────────────────────────────────┐          │
