@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 214
 evidence_level: L3
 indication_count: 10
-monitor_inn: "Montelukast"
-predicted_indications: ["bronchitis", "atopic eczema", "asthma", "obstructive lung disease", "asthma-related traits, susceptibility to", "2-hydroxyethyl methacrylate sensitization", "uterine polyp", "polyp of vocal cord", "polyp of middle ear", "fibroepithelial polyp"]
 last_modified_at: 2026-10-17
 description: "Montelukast：予測新適応症は気管支炎 (Bronchitis)（エビデンスレベル L3）。既存適応症：気管支喘息、アレルギー性鼻炎"
+monitor_inn: "Montelukast"
+predicted_indications: ["bronchitis", "atopic eczema", "obstructive lung disease", "asthma-related traits, susceptibility to", "2-hydroxyethyl methacrylate sensitization", "uterine polyp", "polyp of vocal cord", "polyp of middle ear", "fibroepithelial polyp"]
 ---
 
 # Montelukast

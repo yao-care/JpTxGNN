@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 317
 evidence_level: L3
 indication_count: 10
-monitor_inn: "Topotecan"
-predicted_indications: ["female breast carcinoma", "adult germ cell tumor", "testicular yolk sac tumor, solid pattern", "testicular yolk sac tumor, hepatoid pattern", "testicular yolk sac tumor, endodermal sinus pattern", "reticular pattern testicular yolk sac tumor", "enteric pattern testicular yolk sac tumor", "polyvesicular vitelline pattern testicular yolk sac tumor", "testicular yolk sac tumor, papillary pattern", "testicular yolk sac tumor, macrocystic pattern"]
 last_modified_at: 2026-10-17
 description: "Topotecan：予測新適応症は女性乳癌 (Female Breast Carcinoma)（エビデンスレベル L3）。既存適応症：卵巣癌"
+monitor_inn: "Topotecan"
+predicted_indications: ["female breast carcinoma", "adult germ cell tumor"]
 ---
 
 # Topotecan

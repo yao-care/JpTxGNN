@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 75
 evidence_level: L3
 indication_count: 3
-monitor_inn: "Clonazepam"
-predicted_indications: ["restless legs syndrome", "insomnia (disease)", "trigeminal nerve neoplasm"]
 last_modified_at: 2026-10-17
 description: "Clonazepam：予測新適応症はレストレスレッグス症候群 (restless legs syndrome)（エビデンスレベル L3）。既存適応症：早期ミオクロニー脳症、欠神てんかん、レノックス・ガストー症候群、不安障害など"
+monitor_inn: "Clonazepam"
+predicted_indications: ["restless legs syndrome", "trigeminal nerve neoplasm"]
 ---
 
 # Clonazepam

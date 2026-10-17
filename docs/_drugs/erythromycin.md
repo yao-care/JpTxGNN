@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 117
 evidence_level: L4
 indication_count: 5
-monitor_inn: "Erythromycin"
-predicted_indications: ["punctate epithelial keratoconjunctivitis", "acute contagious conjunctivitis", "exposure keratitis", "lymphogranuloma venereum", "necrotizing ulcerative gingivitis"]
 last_modified_at: 2026-10-17
 description: "Erythromycin：予測新適応症は点状表層角結膜炎 (Punctate Epithelial Keratoconjunctivitis)（エビデンスレベル L4）。既存適応症：抗生物質（タンパク質合成阻害薬）：淋菌感染症、軟性下疳、梅毒、性病性リンパ肉芽腫、猩紅熱、ジフテリア、百日咳、破傷風、ガス壊疽、アメーバ赤痢"
+monitor_inn: "Erythromycin"
+predicted_indications: ["exposure keratitis", "lymphogranuloma venereum", "necrotizing ulcerative gingivitis"]
 ---
 
 # Erythromycin

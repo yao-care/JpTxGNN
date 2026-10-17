@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 288
 evidence_level: L5
 indication_count: 10
-monitor_inn: "Sulfasalazine"
-predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "osteoarthritis susceptibility", "congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "WHIM syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "spondyloarthropathy, susceptibility to", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis"]
 last_modified_at: 2026-10-17
 description: "Sulfasalazine：予測新適応症は合指（趾）症を伴う短指症候群 (Brachydactyly-syndactyly syndrome)（エビデンスレベル L5）。既存適応症：関節リウマチ、潰瘍性大腸炎、炎症性腸疾患、若年性特発性関節炎、脊椎関節症"
+monitor_inn: "Sulfasalazine"
+predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "osteoarthritis susceptibility", "congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "WHIM syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis"]
 ---
 
 # Sulfasalazine

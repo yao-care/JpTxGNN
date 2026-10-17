@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 34
 evidence_level: L5
 indication_count: 10
-monitor_inn: "Axitinib"
-predicted_indications: ["unclassified renal cell carcinoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "renal cell carcinoma associated with neuroblastoma", "childhood kidney cell carcinoma", "liposarcoma", "renal carcinoma", "ovarian myxoid liposarcoma", "angiolipoma", "collecting duct carcinoma", "familial spontaneous pneumothorax"]
 last_modified_at: 2026-10-17
 description: "Axitinib：予測新適応症は未分類腎細胞癌 (Unclassified Renal Cell Carcinoma)（エビデンスレベル L5）。既存適応症：腎細胞癌（淡明細胞型腎細胞癌、非乳頭状腎細胞癌など）"
+monitor_inn: "Axitinib"
+predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipoma", "familial spontaneous pneumothorax"]
 ---
 
 # Axitinib

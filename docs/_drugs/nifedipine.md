@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 221
 evidence_level: L5
 indication_count: 10
-monitor_inn: "Nifedipine"
-predicted_indications: ["migraine with brainstem aura", "migraine disorder", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant renovascular hypertension", "malignant hypertensive renal disease", "Braddock syndrome", "tendinitis", "common cold", "myositis fibrosa"]
 last_modified_at: 2026-10-17
 description: "Nifedipine：予測新適応症は脳幹性前兆を伴う片頭痛 (Migraine with brainstem aura)（エビデンスレベル L5）。既存適応症：本態性高血圧症、狭心症"
+monitor_inn: "Nifedipine"
+predicted_indications: ["migraine with brainstem aura", "migraine disorder", "malignant hypertensive renal disease", "tendinitis", "common cold", "myositis fibrosa"]
 ---
 
 # Nifedipine

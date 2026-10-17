@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 175
 evidence_level: L4
 indication_count: 10
-monitor_inn: "Lansoprazole"
-predicted_indications: ["duodenogastric reflux", "duodenal obstruction", "peptic ulcer perforation", "gastrojejunal ulcer", "abnormality of glucagon secretion", "gastroduodenitis", "acne (disease)", "Smouldering systemic mastocytosis", "leather-bottle stomach", "duodenitis"]
 last_modified_at: 2026-10-17
 description: "Lansoprazole：予測新適応症は十二指腸胃逆流 (Duodenogastric Reflux)（エビデンスレベル L4）。既存適応症：胃潰瘍、十二指腸潰瘍、吻合部潰瘍、逆流性食道炎、非びらん性胃食道逆流症、ヘリコバクター・ピロリの除菌の補助"
+monitor_inn: "Lansoprazole"
+predicted_indications: ["duodenal obstruction", "abnormality of glucagon secretion", "acne (disease)", "Smouldering systemic mastocytosis", "leather-bottle stomach", "duodenitis"]
 ---
 
 # Lansoprazole

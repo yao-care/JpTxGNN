@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 59
 evidence_level: L4
 indication_count: 10
-monitor_inn: "Carbamazepine"
-predicted_indications: ["trigeminal nerve neoplasm", "startle epilepsy", "thinking seizures", "orgasm-induced seizures", "eating seizures", "micturation-induced seizures", "audiogenic seizures", "reading seizures", "beta-ketothiolase deficiency", "Rett syndrome, congenital variant"]
 last_modified_at: 2026-10-17
 description: "Carbamazepine：予測新適応症は三叉神経腫瘍 (trigeminal nerve neoplasm)（エビデンスレベル L4）。既存適応症：躁病、躁うつ病の躁状態、統合失調症、三叉神経痛（鎮痛薬・抗てんかん薬）"
+monitor_inn: "Carbamazepine"
+predicted_indications: ["trigeminal nerve neoplasm", "thinking seizures", "orgasm-induced seizures", "eating seizures", "micturation-induced seizures", "audiogenic seizures", "reading seizures", "beta-ketothiolase deficiency", "Rett syndrome, congenital variant"]
 ---
 
 # Carbamazepine

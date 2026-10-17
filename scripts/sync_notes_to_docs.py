@@ -137,9 +137,19 @@ def extra_front_matter(bundle_path: Path, evidence_level: str, indication_count:
     names = [p.get("disease_name", "").strip() for p in (drug.get("predicted_indications") or [])]
     names = [n for n in names if n][:10]
     inn = (drug.get("inn") or drug.get("name") or "").strip()
-    if names and inn:
+    kfp = bundle_path.parents[3].parent / ".claude" / "known_use_filter.py"  # N-01：監測不追已知用途的子型／上位詞
+    if names and kfp.exists():
+        global _KNOWN_USE_FILTER
+        if "_KNOWN_USE_FILTER" not in globals() or _KNOWN_USE_FILTER is None:
+            import importlib.util
+            kspec = importlib.util.spec_from_file_location("known_use_filter", kfp)
+            _KNOWN_USE_FILTER = importlib.util.module_from_spec(kspec); kspec.loader.exec_module(_KNOWN_USE_FILTER)
+        mon = _KNOWN_USE_FILTER.filter_predictions(bundle_path.parents[3], drug.get("drugbank_id") or "", inn, names)
+    else:
+        mon = names
+    if mon and inn:
         lines.append(f"monitor_inn: {json.dumps(inn, ensure_ascii=False)}")
-        lines.append(f"predicted_indications: {json.dumps(names, ensure_ascii=False)}")
+        lines.append(f"predicted_indications: {json.dumps(mon, ensure_ascii=False)}")
     keep = set()
     kf = bundle_path.parents[3] / "docs" / "_data" / "keep_indexed.json"  # S-06：例外清單
     if kf.exists():

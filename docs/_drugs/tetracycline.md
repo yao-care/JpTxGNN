@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 303
 evidence_level: L4
 indication_count: 4
-monitor_inn: "Tetracycline"
-predicted_indications: ["punctate epithelial keratoconjunctivitis", "chronic ethmoidal sinusitis", "chronic rhinosinusitis", "paranasal sinus neoplasm (disease)"]
 last_modified_at: 2026-10-17
 description: "Tetracycline：予測新適応症は点状表層角結膜炎 (Punctate Epithelial Keratoconjunctivitis)（エビデンスレベル L4）。既存適応症：淋菌感染症、軟性下疳、性病性リンパ肉芽腫、猩紅熱、炭疽、ブルセラ症、百日咳、野兎病、ガス壊疽、回帰熱、ワイル病、発疹チフス、つつが虫病…"
+monitor_inn: "Tetracycline"
+predicted_indications: ["paranasal sinus neoplasm (disease)"]
 ---
 
 # Tetracycline

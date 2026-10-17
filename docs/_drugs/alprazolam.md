@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 21
 evidence_level: L4
 indication_count: 10
-monitor_inn: "Alprazolam"
-predicted_indications: ["insomnia (disease)", "benign paroxysmal torticollis of infancy", "agoraphobia", "attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "obsessive-compulsive disorder", "chondromyxoid fibroma", "specific developmental disorder", "faciodigitogenital syndrome", "phobic disorder"]
 last_modified_at: 2026-10-17
 description: "Alprazolam：予測新適応症は不眠症 (Insomnia)（エビデンスレベル L4）。既存適応症：抗不安薬、マイナートランキライザー、催眠鎮静薬"
+monitor_inn: "Alprazolam"
+predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "chondromyxoid fibroma", "specific developmental disorder", "faciodigitogenital syndrome"]
 ---
 
 # Alprazolam

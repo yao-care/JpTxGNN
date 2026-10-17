@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 256
 evidence_level: L5
 indication_count: 10
-monitor_inn: "Promethazine"
-predicted_indications: ["rosacea conjunctivitis", "allergic urticaria", "cold urticaria", "rhinitis", "recalcitrant atopic dermatitis", "Angelucci syndrome", "acute hemorrhagic conjunctivitis", "serous conjunctivitis except viral", "parasitic conjunctivitis", "conjunctival folliculosis"]
 last_modified_at: 2026-10-17
 description: "Promethazine：予測新適応症は酒さ性結膜炎 (rosacea conjunctivitis)（エビデンスレベル L5）。既存適応症：パーキンソニスム、アレルギー性鼻炎（抗アレルギー薬・制吐薬・パーキンソン病治療薬・H1 受容体拮抗薬）"
+monitor_inn: "Promethazine"
+predicted_indications: ["rosacea conjunctivitis", "recalcitrant atopic dermatitis", "acute hemorrhagic conjunctivitis", "serous conjunctivitis except viral", "parasitic conjunctivitis", "conjunctival folliculosis"]
 ---
 
 # Promethazine

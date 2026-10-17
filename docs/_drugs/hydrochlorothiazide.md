@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 156
 evidence_level: L5
 indication_count: 10
-monitor_inn: "Hydrochlorothiazide"
-predicted_indications: ["malignant hypertensive renal disease", "malignant renovascular hypertension", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease", "acute pulmonary heart disease", "primary hereditary glaucoma", "open-angle glaucoma", "hypotrichosis simplex of the scalp"]
 last_modified_at: 2026-10-17
 description: "Hydrochlorothiazide：予測新適応症は悪性高血圧性腎疾患 (Malignant Hypertensive Renal Disease)（エビデンスレベル L5）。既存適応症：高血圧症、うっ血性心不全"
+monitor_inn: "Hydrochlorothiazide"
+predicted_indications: ["malignant hypertensive renal disease", "chronic pulmonary heart disease", "acute pulmonary heart disease", "primary hereditary glaucoma", "open-angle glaucoma", "hypotrichosis simplex of the scalp"]
 ---
 
 # Hydrochlorothiazide

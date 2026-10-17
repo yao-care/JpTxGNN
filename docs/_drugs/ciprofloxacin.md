@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 70
 evidence_level: L4
 indication_count: 10
-monitor_inn: "Ciprofloxacin"
-predicted_indications: ["diffuse scleroderma", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "punctate epithelial keratoconjunctivitis", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
 last_modified_at: 2026-10-17
 description: "Ciprofloxacin：予測新適応症はびまん性強皮症 (Diffuse Scleroderma)（エビデンスレベル L4）。既存適応症：腸チフス、サルモネラ症、細菌性肺炎、緑膿菌感染症、炭疽など"
+monitor_inn: "Ciprofloxacin"
+predicted_indications: ["diffuse scleroderma", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
 ---
 
 # Ciprofloxacin

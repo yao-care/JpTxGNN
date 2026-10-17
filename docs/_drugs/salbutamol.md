@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 275
 evidence_level: L5
 indication_count: 10
-monitor_inn: "Salbutamol"
-predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "pharyngitis", "bronchitis", "acute laryngopharyngitis", "anaphylaxis", "common cold", "atopic conjunctivitis", "anorectal stricture", "obstructive lung disease"]
 last_modified_at: 2026-10-17
 description: "Salbutamol：予測新適応症は乳頭結膜炎 (Papillary Conjunctivitis)（エビデンスレベル L5）。既存適応症：喘息、気管支疾患"
+monitor_inn: "Salbutamol"
+predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "anaphylaxis", "common cold", "atopic conjunctivitis", "anorectal stricture", "obstructive lung disease"]
 ---
 
 # Salbutamol

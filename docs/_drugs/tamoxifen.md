@@ -5,10 +5,10 @@ parent: 高エビデンスレベル
 nav_order: 295
 evidence_level: L1
 indication_count: 10
-monitor_inn: "Tamoxifen"
-predicted_indications: ["mammary Paget disease", "intraductal cribriform breast adenocarcinoma", "basal-like breast carcinoma", "breast carcinoma in situ", "sebaceous breast carcinoma", "invasive tubular breast carcinoma", "Ehrlich tumor carcinoma", "hormone-resistant breast carcinoma", "estrogen-receptor positive breast cancer", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 last_modified_at: 2026-10-17
 description: "Tamoxifen：予測新適応症は乳腺上皮内癌 (Breast Carcinoma in Situ)（エビデンスレベル L1）。既存適応症：乳癌"
+monitor_inn: "Tamoxifen"
+predicted_indications: ["mammary Paget disease", "intraductal cribriform breast adenocarcinoma", "breast carcinoma in situ", "sebaceous breast carcinoma", "Ehrlich tumor carcinoma", "hormone-resistant breast carcinoma", "estrogen-receptor positive breast cancer", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 ---
 
 # Tamoxifen

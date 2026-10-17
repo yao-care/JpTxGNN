@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 301
 evidence_level: L5
 indication_count: 10
-monitor_inn: "Terbinafine"
-predicted_indications: ["creeping myiasis", "wound myiasis", "furuncular myiasis", "myiasis", "cutaneous candidiasis", "toxoplasmosis", "blastomycosis", "tinea manuum", "echinococcus granulosus infectious disease", "superficial mycosis"]
 last_modified_at: 2026-10-17
 description: "Terbinafine：予測新適応症は匍行性ハエ幼虫症 (Creeping Myiasis)（エビデンスレベル L5）。既存適応症：白癬、カンジダ症、癜風、スポロトリコーシス、クロモミコーシス（抗真菌薬、エルゴステロール合成阻害薬）"
+monitor_inn: "Terbinafine"
+predicted_indications: ["creeping myiasis", "wound myiasis", "furuncular myiasis", "myiasis", "cutaneous candidiasis", "toxoplasmosis", "blastomycosis", "tinea manuum", "echinococcus granulosus infectious disease"]
 ---
 
 # Terbinafine

@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 212
 evidence_level: L5
 indication_count: 10
-monitor_inn: "Mirtazapine"
-predicted_indications: ["Ohdo syndrome and variants", "blepharophimosis - intellectual disability syndrome, Ohdo type", "benign paroxysmal torticollis of infancy", "ligneous conjunctivitis", "childhood apraxia of speech", "dysthymic disorder", "agoraphobia", "phobic disorder", "melancholia", "neurotic depression"]
 last_modified_at: 2026-10-17
 description: "Mirtazapine：予測新適応症はOhdo 症候群および関連型 (Ohdo syndrome and variants)（エビデンスレベル L5）。既存適応症：抗うつ薬、セロトニン受容体拮抗薬"
+monitor_inn: "Mirtazapine"
+predicted_indications: ["Ohdo syndrome and variants", "blepharophimosis - intellectual disability syndrome, Ohdo type", "benign paroxysmal torticollis of infancy", "ligneous conjunctivitis", "childhood apraxia of speech", "agoraphobia"]
 ---
 
 # Mirtazapine

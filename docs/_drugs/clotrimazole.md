@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 77
 evidence_level: L5
 indication_count: 10
-monitor_inn: "Clotrimazole"
-predicted_indications: ["acne (disease)", "vulvovaginitis", "postmenopausal atrophic vaginitis", "trichomonal vulvovaginitis", "tinea profunda", "ectothrix infectious disease", "Majocchi granuloma", "endothrix infectious disease", "superficial mycosis", "dermatophytosis of scalp or beard"]
 last_modified_at: 2026-10-17
 description: "Clotrimazole：予測新適応症はニキビ (acne)（エビデンスレベル L5）。既存適応症：抗真菌薬（エルゴステロール合成阻害薬）：カンジダに起因する腟炎および外陰腟炎、白癬、カンジダ症、癜風、口腔カンジダ症"
+monitor_inn: "Clotrimazole"
+predicted_indications: ["acne (disease)", "postmenopausal atrophic vaginitis", "trichomonal vulvovaginitis", "tinea profunda", "ectothrix infectious disease", "Majocchi granuloma", "endothrix infectious disease", "dermatophytosis of scalp or beard"]
 ---
 
 # Clotrimazole

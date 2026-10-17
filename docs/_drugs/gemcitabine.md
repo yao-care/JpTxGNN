@@ -5,10 +5,10 @@ parent: 高エビデンスレベル
 nav_order: 146
 evidence_level: L1
 indication_count: 10
-monitor_inn: "gemcitabine"
-predicted_indications: ["female breast carcinoma", "rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "endometrial mixed adenocarcinoma", "endometrial mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "rete ovarii adenocarcinoma", "mucin-rich endometrial endometrioid adenocarcinoma"]
 last_modified_at: 2026-10-17
 description: "Gemcitabine：予測新適応症は女性乳癌 (female breast carcinoma)（エビデンスレベル L1）。既存適応症：非小細胞肺癌、膵癌、尿路上皮癌、乳癌、卵巣癌、悪性リンパ腫"
+monitor_inn: "gemcitabine"
+predicted_indications: ["female breast carcinoma", "rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "endometrial mixed adenocarcinoma", "endometrial mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "mucin-rich endometrial endometrioid adenocarcinoma"]
 ---
 
 # Gemcitabine

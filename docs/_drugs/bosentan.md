@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 49
 evidence_level: L4
 indication_count: 9
-monitor_inn: "bosentan"
-predicted_indications: ["rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "limited systemic sclerosis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "pseudoxanthoma elasticum, forme fruste", "kyphoscoliotic heart disease", "elastoma", "gout", "hypertrichosis (disease)"]
 last_modified_at: 2026-10-17
 description: "Bosentan：予測新適応症は関節リウマチ (Rheumatoid Arthritis)（エビデンスレベル L4）。既存適応症：肺動脈性肺高血圧症、全身性強皮症（血圧降下薬、エンドセリン受容体拮抗薬）"
+monitor_inn: "bosentan"
+predicted_indications: ["rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "pseudoxanthoma elasticum, forme fruste", "kyphoscoliotic heart disease", "elastoma", "gout", "hypertrichosis (disease)"]
 ---
 
 # Bosentan

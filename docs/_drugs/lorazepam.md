@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 193
 evidence_level: L5
 indication_count: 10
-monitor_inn: "Lorazepam"
-predicted_indications: ["trigeminal nerve neoplasm", "insomnia (disease)", "reading seizures", "orgasm-induced seizures", "thinking seizures", "micturation-induced seizures", "startle epilepsy", "audiogenic seizures", "eating seizures", "acute encephalopathy with biphasic seizures and late reduced diffusion"]
 last_modified_at: 2026-10-17
 description: "Lorazepam：予測新適応症は三叉神経腫瘍 (trigeminal nerve neoplasm)（エビデンスレベル L5）。既存適応症：神経症における不安（抗不安薬、抗けいれん薬、マイナートランキライザー）"
+monitor_inn: "Lorazepam"
+predicted_indications: ["trigeminal nerve neoplasm", "reading seizures", "orgasm-induced seizures", "thinking seizures", "micturation-induced seizures", "startle epilepsy", "audiogenic seizures", "eating seizures", "acute encephalopathy with biphasic seizures and late reduced diffusion"]
 ---
 
 # Lorazepam

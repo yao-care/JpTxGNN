@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 234
 evidence_level: L5
 indication_count: 10
-monitor_inn: "Paclitaxel"
-predicted_indications: ["female breast carcinoma", "estrogen-receptor negative breast cancer", "hormone-resistant breast carcinoma", "Ehrlich tumor carcinoma", "estrogen-receptor positive breast cancer", "bilateral breast carcinoma", "breast carcinoma by gene expression profile", "nipple carcinoma", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 last_modified_at: 2026-10-17
 description: "Paclitaxel：予測新適応症は女性乳癌 (female breast carcinoma)（エビデンスレベル L5）。既存適応症：乳癌、胃癌、非小細胞肺癌、膵癌、卵巣癌、子宮体癌、頭頸部癌、食道癌、血管肉腫、子宮頸癌、精巣腫瘍、卵巣腫瘍"
+monitor_inn: "Paclitaxel"
+predicted_indications: ["parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 ---
 
 # Paclitaxel

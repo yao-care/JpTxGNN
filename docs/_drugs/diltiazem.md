@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 94
 evidence_level: L5
 indication_count: 10
-monitor_inn: "Diltiazem"
-predicted_indications: ["obsolete susceptibility to ischemic stroke", "brain stem infarction", "obsolete bundle branch block", "cerebrovascular disorder", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "malignant renovascular hypertension", "ABri amyloidosis", "Braddock syndrome"]
 last_modified_at: 2026-10-17
 description: "Diltiazem：予測新適応症は脳血管障害 (Cerebrovascular Disorder)（エビデンスレベル L5）。既存適応症：狭心症、本態性高血圧症（抗不整脈薬、血圧降下薬、冠血管拡張薬、カルシウムチャネル遮断薬）"
+monitor_inn: "Diltiazem"
+predicted_indications: ["obsolete susceptibility to ischemic stroke", "brain stem infarction", "obsolete bundle branch block", "cerebrovascular disorder", "malignant hypertensive renal disease", "ABri amyloidosis"]
 ---
 
 # Diltiazem

@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 11
 evidence_level: L4
 indication_count: 10
-monitor_inn: "Abatacept"
-predicted_indications: ["rheumatoid vasculitis", "ankylosing spondylitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "polyarticular juvenile rheumatoid arthritis", "vertebral disease", "spondyloarthropathy, susceptibility to", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
 last_modified_at: 2026-10-17
 description: "Abatacept：予測新適応症はリウマチ性血管炎 (rheumatoid vasculitis)（エビデンスレベル L4）。既存適応症：関節リウマチ、若年性特発性関節炎、脊椎関節症（日本の承認適応症の記載は、今回compiledしたデータにはありません）"
+monitor_inn: "Abatacept"
+predicted_indications: ["inflammatory spondylopathy", "vertebral disease", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
 ---
 
 # Abatacept

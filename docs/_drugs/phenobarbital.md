@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 242
 evidence_level: L5
 indication_count: 10
-monitor_inn: "Phenobarbital"
-predicted_indications: ["trigeminal nerve neoplasm", "orgasm-induced seizures", "audiogenic seizures", "eating seizures", "micturation-induced seizures", "thinking seizures", "startle epilepsy", "reading seizures", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
 last_modified_at: 2026-10-17
 description: "Phenobarbital：予測新適応症は三叉神経腫瘍 (Trigeminal Nerve Neoplasm)（エビデンスレベル L5）。既存適応症：不眠症（抗不安薬、抗けいれん薬、催眠鎮静薬）"
+monitor_inn: "Phenobarbital"
+predicted_indications: ["trigeminal nerve neoplasm", "orgasm-induced seizures", "audiogenic seizures", "eating seizures", "micturation-induced seizures", "thinking seizures", "reading seizures", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
 ---
 
 # Phenobarbital

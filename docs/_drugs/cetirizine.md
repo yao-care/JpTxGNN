@@ -5,10 +5,10 @@ parent: 高エビデンスレベル
 nav_order: 67
 evidence_level: L2
 indication_count: 10
-monitor_inn: "Cetirizine"
-predicted_indications: ["allergic urticaria", "cold urticaria", "nasal cavity disease", "acute laryngopharyngitis", "rosacea conjunctivitis", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic", "angioedema", "punctate epithelial keratoconjunctivitis", "trigeminal autonomic cephalalgia"]
 last_modified_at: 2026-10-17
 description: "Cetirizine：予測新適応症はアレルギー性蕁麻疹 (Allergic Urticaria)（エビデンスレベル L2）。既存適応症：アレルギー性鼻炎"
+monitor_inn: "Cetirizine"
+predicted_indications: ["allergic urticaria", "cold urticaria", "nasal cavity disease", "rosacea conjunctivitis", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic", "angioedema", "punctate epithelial keratoconjunctivitis", "trigeminal autonomic cephalalgia"]
 ---
 
 # Cetirizine

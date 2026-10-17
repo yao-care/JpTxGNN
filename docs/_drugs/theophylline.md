@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 304
 evidence_level: L5
 indication_count: 10
-monitor_inn: "Theophylline"
-predicted_indications: ["thrombotic disease", "nasal cavity disease", "laryngotracheitis", "tracheal disease", "obstructive lung disease", "pharyngitis", "acute laryngopharyngitis", "bronchial neoplasm (disease)", "respiratory malformation", "massive neonatal aspiration syndrome"]
 last_modified_at: 2026-10-17
 description: "Theophylline：予測新適応症は血栓性疾患 (Thrombotic Disease)（エビデンスレベル L5）。既存適応症：気管支喘息、肺気腫"
+monitor_inn: "Theophylline"
+predicted_indications: ["thrombotic disease", "nasal cavity disease", "laryngotracheitis", "tracheal disease", "pharyngitis", "acute laryngopharyngitis", "respiratory malformation", "massive neonatal aspiration syndrome"]
 ---
 
 # Theophylline

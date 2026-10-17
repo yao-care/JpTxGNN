@@ -5,10 +5,10 @@ parent: 高エビデンスレベル
 nav_order: 286
 evidence_level: L2
 indication_count: 10
-monitor_inn: "Spironolactone"
-predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "malignant hypertensive renal disease", "malignant renovascular hypertension", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease"]
 last_modified_at: 2026-10-17
 description: "Spironolactone：予測新適応症は脱毛症 (Alopecia)（エビデンスのある上位候補）（エビデンスレベル L2）。既存適応症：高血圧症、原発性アルドステロン症（血圧降下薬・利尿薬・アルドステロン拮抗薬）"
+monitor_inn: "Spironolactone"
+predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "malignant hypertensive renal disease", "chronic pulmonary heart disease"]
 ---
 
 # Spironolactone

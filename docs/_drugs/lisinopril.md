@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 189
 evidence_level: L5
 indication_count: 10
-monitor_inn: "Lisinopril"
-predicted_indications: ["posteroinferior myocardial infarction", "posterolateral myocardial infarction", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "malignant renovascular hypertension", "septal myocardial infarction", "Braddock syndrome", "chronic pulmonary heart disease", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome"]
 last_modified_at: 2026-10-17
 description: "Lisinopril：予測新適応症は後下壁心筋梗塞 (posteroinferior myocardial infarction)（エビデンスレベル L5）。既存適応症：高血圧症（血圧降下薬、ACE 阻害薬）"
+monitor_inn: "Lisinopril"
+predicted_indications: ["malignant hypertensive renal disease", "chronic pulmonary heart disease", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome"]
 ---
 
 # Lisinopril

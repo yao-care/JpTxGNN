@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 19
 evidence_level: L5
 indication_count: 6
-monitor_inn: "alimemazine"
-predicted_indications: ["allergic urticaria", "cold urticaria", "IgE responsiveness, atopic", "nasal cavity disease", "recalcitrant atopic dermatitis", "acute laryngopharyngitis"]
 last_modified_at: 2026-10-17
 description: "Alimemazine：予測新適応症はアレルギー性蕁麻疹 (allergic urticaria)（エビデンスレベル L5）。既存適応症：血管性浮腫、アレルギー性鼻炎、血管運動性鼻炎、咽頭炎、感冒、アトピー性結膜炎、蕁麻疹など"
+monitor_inn: "alimemazine"
+predicted_indications: ["IgE responsiveness, atopic", "nasal cavity disease", "recalcitrant atopic dermatitis"]
 ---
 
 # Alimemazine
