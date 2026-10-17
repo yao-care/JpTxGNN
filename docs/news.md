@@ -52,7 +52,7 @@ JpTxGNN データベースの医薬品と疾患に関連する最新の健康・
 
 <script>
 // 2026-10-17：藥物連結用頁面實際網址；轉址頁、noindex 頁不給連結
-const drugUrls = { {% for d in site.drugs %}{% unless d.layout == 'redirect' or d.noindex %}{{ d.slug | jsonify }}: {{ d.url | relative_url | jsonify }}, {{ d.slug | downcase | jsonify }}: {{ d.url | relative_url | jsonify }}, {% endunless %}{% endfor %}"": "" };
+const drugUrls = { {% for d in site.drugs %}{% unless d.layout == 'id_redirect' or d.noindex %}{{ d.slug | jsonify }}: {{ d.url | relative_url | jsonify }}, {{ d.slug | downcase | jsonify }}: {{ d.url | relative_url | jsonify }}, {% endunless %}{% endfor %}"": "" };
 document.addEventListener('DOMContentLoaded', function() {
   const statsDiv = document.getElementById('news-stats');
   const listDiv = document.getElementById('news-list');

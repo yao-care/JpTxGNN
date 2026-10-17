@@ -1,5 +1,5 @@
 ---
-layout: redirect
+layout: id_redirect
 permalink: /drugs/warfarin-atrial-fibrillation/
 sitemap: false
 search_exclude: true
