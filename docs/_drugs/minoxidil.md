@@ -47,8 +47,8 @@ TxGNN 模型預測它可能對**頭皮單純性稀毛症 (hypotrichosis simplex 
 | 予測新適応症 | 頭皮単純性乏毛症 (hypotrichosis simplex of the scalp) |
 | TxGNN 予測スコア | 99.99991655349731% |
 | エビデンスレベル | L4 |
-| 日本上市 | ✓ Marketed |
-| 承認数 | 20 張 |
+| 日本市販状況 | 本サイトのデータに未収載 |
+| 承認番号数 | — |
 | 推奨判断 | Research Question |
 
 ## この予測が妥当な理由
@@ -69,14 +69,9 @@ Minoxidil 可能透過促進血管擴張和增加頭皮血流量來促進毛髮�
 | [39902296](https://pubmed.ncbi.nlm.nih.gov/39902296/) | 2024 | Case series | Frontiers in genetics | Treatment of hypotrichosis simplex of the scalp with the combination of botanic extracts and minoxidil: a case report. |
 | [36651821](https://pubmed.ncbi.nlm.nih.gov/36651821/) | 2023 | Case series | The Journal of dermatological treatment | Successful treatment of hereditary hypotrichosis simplex by platelet rich plasma injection with topical minoxidil 2. |
 
-## 日本上市情報
+## 日本市販情報
 
-| 承認番号 | 品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 衛部藥輸字第027051號 | 落建女性專用生髮慕絲 | 氣化噴霧劑 | 治療女性雄激素性落髮。 |
-| 衛部藥製字第058412號 | 髮密諾生髮液5% | 外用液劑 | 雄激素性禿髮。 |
-| 衛部藥製字第059636號 | 美吾髮有辦髮生髮液2% | 外用液劑 | 雄激素性秃髮。 |
-| 衛部藥輸字第026731號 | 敏諾西迪 | （粉） | 降血壓劑。 |
+日本の承認情報は本サイトのデータに未収載です。
 
 ## 安全性に関する考慮事項
 

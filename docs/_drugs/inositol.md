@@ -47,8 +47,8 @@ TxGNN 模型預測它可能對 **Familial Hypercholesterolemia** (家族性高�
 | 予測新適応症 | Familial Hypercholesterolemia |
 | TxGNN 予測スコア | 99.47% |
 | エビデンスレベル | L3 |
-| 日本上市 | Marketed(部分已註銷) |
-| 承認数 | 404 張(多數已註銷) |
+| 日本市販状況 | 本サイトのデータに未収載 |
+| 承認番号数 | — |
 | 推奨判断 | Consider |
 
 ## この予測が妥当な理由
@@ -79,12 +79,9 @@ Inositol Niacinate (菸鹼酸肌醇酯) 是 Inositol 與菸鹼酸的結合物，
 | [7259531](https://pubmed.ncbi.nlm.nih.gov/7259531/) | 1980 | 病例報告 | Artery | IIa 型高血脂症使用 Inositol Niacinate 合併 Clofibrate 的長期療效 |
 | [583231](https://pubmed.ncbi.nlm.nih.gov/583231/) | 1979 | 臨床試驗 | Arzneimittelforschung | 50 名不同類型高血脂症患者的治療效果 |
 
-## 日本上市情報
+## 日本市販情報
 
-| 承認番号 | 品名 | 剤形 | 承認適応症 | 狀態 |
-|---------|------|------|-----------|------|
-| 內衛藥製字第000394號 | "強生"血管淨錠 | 錠劑 | 末梢血管循環障礙 | 有效 |
-| 多張歷史許可證 | 各品牌 Inositol Niacinate 製劑 | 錠劑/粉末 | 末梢血管障礙、趨脂劑 | 多數已註銷 |
+日本の承認情報は本サイトのデータに未収載です。
 
 ## 安全性に関する考慮事項
 

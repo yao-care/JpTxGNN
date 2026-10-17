@@ -120,6 +120,7 @@ TxGNN モデルは**遺伝性歯肉線維腫症 (fibromatosis, gingival)** に�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

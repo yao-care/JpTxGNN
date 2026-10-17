@@ -44,8 +44,8 @@ Bempedoic acid 是 ATP 檸檬酸裂解酶抑制劑，用於降低 LDL-C，TxGNN 
 | 予測新適応症 | ホモ接合体家族性高コレステロール血症 (homozygous familial hypercholesterolemia) |
 | TxGNN 予測スコア | 99.48% |
 | エビデンスレベル | L3 (多篇文獻支持，真實世界數據) |
-| 日本上市 | Marketed |
-| 承認数 | 1 |
+| 日本市販状況 | 本サイトのデータに未収載 |
+| 承認番号数 | — |
 | 推奨判断 | Go |
 
 ## この予測が妥当な理由
@@ -70,11 +70,9 @@ Bempedoic acid 透過抑制 ATP 檸檬酸裂解酶 (ACL) 降低膽固醇合成�
 | 33766264 | 2021 | New and Emerging Therapies for Reduction of LDL-Cholesterol | LDL-C 降低新療法，涵蓋 HoFH 應用 |
 | 29449335 | 2018 | Bempedoic Acid Lowers LDL-C in LDLR-Deficient Yucatan Miniature Pigs | 前臨床研究：在 LDL 受體缺陷動物模型中證實療效 |
 
-## 日本上市情報
+## 日本市販情報
 
-| 承認番号 | 中文品名 | 剤形 | 許可證持有者 | 效期 |
-|----------|----------|------|--------------|------|
-| 衛部藥輸字第028817號 | 寧脂德膜衣錠180毫克 | 膜衣錠 | 台灣第一三共 | 2029/11/05 |
+日本の承認情報は本サイトのデータに未収載です。
 
 ## 安全性に関する考慮事項
 - **Major 交互作用**：

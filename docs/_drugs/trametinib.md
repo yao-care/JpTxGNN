@@ -122,6 +122,7 @@ TxGNN モデルは**脈絡膜欠損症 (Choroideremia)** に有効である可�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

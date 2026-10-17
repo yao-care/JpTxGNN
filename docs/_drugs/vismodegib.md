@@ -47,8 +47,8 @@ TxGNN 模型預測它可能對**著色性乾皮症 (Xeroderma Pigmentosum)** 有
 | 予測新適応症 | 色素性乾皮症 (Xeroderma Pigmentosum) |
 | TxGNN 予測スコア | 99.91% |
 | エビデンスレベル | L4 |
-| 日本上市 | ✓ Marketed |
-| 承認数 | 2 張 |
+| 日本市販状況 | 本サイトのデータに未収載 |
+| 承認番号数 | — |
 | 推奨判断 | Research Question |
 
 ## この予測が妥当な理由
@@ -66,11 +66,9 @@ TxGNN 模型預測它可能對**著色性乾皮症 (Xeroderma Pigmentosum)** 有
 | [30178564](https://pubmed.ncbi.nlm.nih.gov/30178564/) | 2018 | Case report | Pediatric dermatology | 一名 XP 患者使用 Vismodegib 治療多個基底細胞癌，治療 16.5 個月後病變直徑減少 61%。 |
 | [33901791](https://pubmed.ncbi.nlm.nih.gov/33901791/) | 2021 | Case report | European journal of cancer (Oxford, England : 1990) | 研究了一名 XP 患者使用靶向治療和免疫檢查點抑制劑治療侵襲性血管肉瘤和不可切除的復發性基底細胞癌。 |
 
-## 日本上市情報
+## 日本市販情報
 
-| 承認番号 | 品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 衛部藥輸字第026444號 | 愛維德膠囊150毫克 | 膠囊劑 | 治療轉移性基底細胞癌，或不適合接受手術或放射線治療之局部晚期基底細胞癌成人病患。 |
+日本の承認情報は本サイトのデータに未収載です。
 
 ## 安全性に関する考慮事項
 

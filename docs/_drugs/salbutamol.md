@@ -120,6 +120,7 @@ TxGNN モデルは**乳頭結膜炎 (Papillary Conjunctivitis)** に有効であ
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

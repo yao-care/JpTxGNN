@@ -124,6 +124,7 @@ TxGNN モデルは**活動性消化性潰瘍 (active peptic ulcer disease)** に
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

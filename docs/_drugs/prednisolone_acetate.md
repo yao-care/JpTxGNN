@@ -45,8 +45,8 @@ Prednisolone acetate 是一種眼用皮質類固醇，原本用於眼瞼炎、�
 | 予測新適応症 | 寄生虫性結膜炎 (Parasitic Conjunctivitis) |
 | TxGNN 予測スコア | 99.74% |
 | エビデンスレベル | L4 |
-| 日本上市 | Marketed |
-| 承認数 | 多張 |
+| 日本市販状況 | 本サイトのデータに未収載 |
+| 承認番号数 | — |
 | 推奨判断 | Proceed with Guardrails |
 
 ## この予測が妥当な理由
@@ -72,11 +72,9 @@ Prednisolone acetate 是一種局部皮質類固醇，具有強效的抗炎和�
 | [29801089](https://pubmed.ncbi.nlm.nih.gov/29801089/) | 2018 | Case Report | JAMA Ophthalmology | 慢性濾泡性結膜炎的治療報告 |
 | [26984315](https://pubmed.ncbi.nlm.nih.gov/26984315/) | 2016 | Review | Advances in Therapy | Loteprednol etabonate 對眼壓的影響 |
 
-## 日本上市情報
+## 日本市販情報
 
-| 承認番号 | 品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 多張許可證 | 乙酸培尼皮質醇 | 眼用製劑 | 眼瞼炎、結膜炎、角膜炎、鞏膜炎、虹彩毛樣體炎等過敏性疾患 |
+日本の承認情報は本サイトのデータに未収載です。
 
 ## 安全性に関する考慮事項
 

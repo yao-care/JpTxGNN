@@ -129,6 +129,7 @@ TxGNN モデルは**視覚てんかん (Visual Epilepsy)** に有効である可
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

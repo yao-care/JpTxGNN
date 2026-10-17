@@ -47,8 +47,8 @@ TxGNN 模型預測它可能對**中風疾病 (stroke disorder)** 有效，
 | 予測新適応症 | 脳卒中 (stroke disorder) |
 | TxGNN 予測スコア | 99.97% |
 | エビデンスレベル | L2 |
-| 日本上市 | Marketed |
-| 承認数 | 1 張 |
+| 日本市販状況 | 本サイトのデータに未収載 |
+| 承認番号数 | — |
 | 推奨判断 | Proceed with Guardrails |
 
 ## この予測が妥当な理由
@@ -78,11 +78,9 @@ ATHENA 試驗的事後分析顯示 dronedarone 可降低中風和暫時性腦缺
 | [20730068](https://pubmed.ncbi.nlm.nih.gov/20730068/) | 2010 | Review | Vasc Health Risk Manag | Dronedarone 獲批及其在心房纖維顫動治療中的療效 |
 | [35293087](https://pubmed.ncbi.nlm.nih.gov/35293087/) | 2022 | Post-hoc analysis | Eur J Heart Fail | ATHENA 試驗事後分析評估 dronedarone 在 HFpEF/HFmrEF 合併心房纖維顫動的效果 |
 
-## 日本上市情報
+## 日本市販情報
 
-| 承認番号 | 品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 1 張許可證 | 決奈達隆鹽酸鹽 | 口服劑型 | 陣發性或持續性心房纖維顫動/心房撲動，降低心房顫動住院風險 |
+日本の承認情報は本サイトのデータに未収載です。
 
 ## 安全性に関する考慮事項
 

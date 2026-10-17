@@ -116,12 +116,11 @@ TxGNN モデルは**熱帯熱マラリア (Plasmodium falciparum malaria)** に�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 
 同じ成分を含む日本の医薬品です。以下の名称でも検索できます。
-
-**商品名**：コルヒチン
 
 **販売名（規格別）**：コルヒチン錠0.5mg
 <!-- brand-names:end -->

@@ -145,6 +145,7 @@ TxGNN モデルは**プロゲステロン受容体陽性乳癌 (progesterone-rec
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

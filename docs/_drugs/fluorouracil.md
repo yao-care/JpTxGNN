@@ -130,6 +130,7 @@ TxGNN モデルは**胚性横紋筋肉腫（膣のブドウ状型）(botryoid-ty
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

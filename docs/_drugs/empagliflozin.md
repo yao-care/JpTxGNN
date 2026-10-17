@@ -105,6 +105,7 @@ focal stiff limb syndrome は、スティフパーソン症候群の仲間に属
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

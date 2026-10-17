@@ -47,8 +47,8 @@ TxGNN 模型預測它可能對 **C1 Inhibitor Deficiency** 有效，
 | 予測新適応症 | C1 Inhibitor Deficiency |
 | TxGNN 予測スコア | 99.99% |
 | エビデンスレベル | L1 |
-| 日本上市 | Marketed |
-| 承認数 | 3 張 |
+| 日本市販状況 | 本サイトのデータに未収載 |
+| 承認番号数 | — |
 | 推奨判断 | Proceed |
 
 ## この予測が妥当な理由
@@ -80,12 +80,9 @@ Icatibant 是一種緩激肽 B2 受體拮抗劑(Bradykinin B2 Receptor Antagonis
 | [33602658](https://pubmed.ncbi.nlm.nih.gov/33602658/) | 2021 | Review | J Investig Allergol Clin Immunol | HAE 治療指引，確認 Icatibant 為急性發作治療選擇 |
 | [22686628](https://pubmed.ncbi.nlm.nih.gov/22686628/) | 2012 | 觀察性研究 | Allergy | 後天性 C1-INH 缺乏症使用 Icatibant 的真實世界經驗 |
 
-## 日本上市情報
+## 日本市販情報
 
-| 承認番号 | 品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 衛部罕藥製字第000021號 | 益康倍注射劑 | 注射液劑 | C1酯酶抑制劑不足的成人、青少年及2歲以上兒童 HAE 急性發作症狀治療 |
-| 衛部罕藥輸字第000066號 | 凡得適注射劑30毫克 | 注射液劑 | C1酯酶抑制劑不足的成人、青少年及2歲以上兒童 HAE 急性發作症狀治療 |
+日本の承認情報は本サイトのデータに未収載です。
 
 ## 安全性に関する考慮事項
 

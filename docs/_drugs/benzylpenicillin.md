@@ -44,8 +44,8 @@ Benzylpenicillin (青黴素 G) 是經典的 beta-lactam 抗生素，用於多種
 | 予測新適応症 | 智歯周囲炎 (pericoronitis) |
 | TxGNN 予測スコア | 99.36% |
 | エビデンスレベル | L3 (多篇觀察性研究和回顧性文獻) |
-| 日本上市 | Marketed |
-| 承認数 | 多張 (注射劑型) |
+| 日本市販状況 | 本サイトのデータに未収載 |
+| 承認番号数 | — |
 | 推奨判断 | Go |
 
 ## この予測が妥当な理由
@@ -72,13 +72,9 @@ Penicillins (包括 benzylpenicillin 及其口服衍生物) 對這些病原菌�
 | 35959239 | 2022 | Indications for the use of metronidazole in non-periodontal dental infections | 牙科感染抗生素選擇，支持 beta-lactams 為一線選擇 |
 | 21027620 | 1946 | Submaxillary abscess due to acute pericoronitis treated by aspiration and instillation of penicillin | 歷史文獻：penicillin 治療牙冠周炎膿腫 |
 
-## 日本上市情報
+## 日本市販情報
 
-| 承認番号 | 中文品名 | 剤形 | 許可證持有者 | 效期 |
-|----------|----------|------|--------------|------|
-| (多張許可證) | 博西林注四十萬單位等 | 注射劑 | 多家藥廠 | 依各許可證 |
-
-**註：** Benzylpenicillin 主要為注射劑型，口腔感染通常使用其口服衍生物如 phenoxymethylpenicillin (penicillin V) 或 amoxicillin。
+日本の承認情報は本サイトのデータに未収載です。
 
 ## 安全性に関する考慮事項
 - **過敏反應**：青黴素類過敏史為絕對禁忌

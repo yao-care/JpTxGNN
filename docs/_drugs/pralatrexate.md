@@ -47,8 +47,8 @@ TxGNN 模型預測它可能對**胸膜上皮型間皮瘤 (pleural epithelioid me
 | 予測新適応症 | 胸膜上皮型中皮腫 (pleural epithelioid mesothelioma) |
 | TxGNN 予測スコア | 99.89% |
 | エビデンスレベル | L4 |
-| 日本上市 | ✓ Marketed |
-| 承認数 | 2 張 |
+| 日本市販状況 | 本サイトのデータに未収載 |
+| 承認番号数 | — |
 | 推奨判断 | Research Question |
 
 ## この予測が妥当な理由
@@ -68,11 +68,9 @@ TxGNN 模型預測它可能對**胸膜上皮型間皮瘤 (pleural epithelioid me
 | [11595715](https://pubmed.ncbi.nlm.nih.gov/11595715/) | 2001 | In vitro | Clinical cancer research | Pralatrexate 在人類間皮瘤細胞株中顯示出比甲氨蝶呤更高的細胞毒性。 |
 | [21301589](https://pubmed.ncbi.nlm.nih.gov/21301589/) | 2010 | Review | Cancer management and research | 抗葉酸藥物是葉酸代謝的抑制劑，Pralatrexate 可能對多種癌症有效。 |
 
-## 日本上市情報
+## 日本市販情報
 
-| 承認番号 | 品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 衛部藥輸字第026419號 | 服瘤停注射劑 | 注射劑 | 治療復發或頑固型周邊T細胞淋巴瘤(PTCL)。適應症依據為腫瘤反應率，目前沒有資料證實無惡化存活期或整體存活期改善等臨床效益 |
+日本の承認情報は本サイトのデータに未収載です。
 
 ## 細胞毒性
 

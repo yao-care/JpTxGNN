@@ -135,12 +135,13 @@ predicted_indications: ["migraine with or without aura, susceptibility to", "mig
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 
 同じ成分を含む日本の医薬品です。以下の名称でも検索できます。
 
-**商品名**：ロルカム、ロルノキシカム
+**商品名**：ロルカム
 
 **販売名（規格別）**：ロルカム錠2mg、ロルカム錠4mg、ロルノキシカム錠2mg、ロルノキシカム錠4mg
 <!-- brand-names:end -->

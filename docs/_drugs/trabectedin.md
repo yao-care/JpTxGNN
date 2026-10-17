@@ -49,8 +49,8 @@ TxGNN 模型預測它可能對**女性乳腺癌 (female breast carcinoma)** 有�
 | 予測新適応症 | 女性乳腺癌 (female breast carcinoma) |
 | TxGNN 予測スコア | 99.73% |
 | エビデンスレベル | 待評估 |
-| 日本上市 | Marketed |
-| 承認数 | 2 張 |
+| 日本市販状況 | 本サイトのデータに未収載 |
+| 承認番号数 | — |
 | 推奨判断 | Proceed with Guardrails |
 
 ## この予測が妥当な理由
@@ -80,11 +80,9 @@ Trabectedin 是一種源自海洋生物的抗腫瘤藥物，主要透過影響�
 | [27266804](https://pubmed.ncbi.nlm.nih.gov/27266804/) | 2016 | Phase II | Clin Breast Cancer | 根據 XPG 基因表達評估 Trabectedin 在 HR+/HER2- 晚期乳腺癌中的療效 |
 | [38863768](https://pubmed.ncbi.nlm.nih.gov/38863768/) | 2024 | Review | Drug Des Devel Ther | 聚焦 Trabectedin 在卵巢癌中的應用及 BRCA 突變情況 |
 
-## 日本上市情報
+## 日本市販情報
 
-| 承認番号 | 品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 衛部藥輸字第027370號 | "友待" 凍晶注射劑1毫克 | 凍晶注射劑 | 無法切除或轉移性脂肪肉瘤或平滑肌肉瘤 |
+日本の承認情報は本サイトのデータに未収載です。
 
 ## 細胞毒性
 
