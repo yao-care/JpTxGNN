@@ -12,6 +12,12 @@ from ..collectors.drug_bundle import DrugBundle
 from .llm_client import LLMClient
 
 
+# 2026-10-17：status 欄有值不代表註銷（各國是 Authorised／有効／Vigente…），只認註銷類字樣
+_CANCELLED = re.compile(r"註銷|撤銷|廢止|取消|cancel|withdraw|revok|suspen|expir|lapse|discontinu|retir|inactive|refus|annul|"
+                        r"widerruf|zurückgez|ruhend|retirad|cancelad|caducad|revocad|retiré|abrog|revoca|sospes|ritirat|"
+                        r"återkall|avregistr|tilbakekall|ingetrokken|vervallen|peruutet|lakkaut|ملغ|موقوف", re.I)
+
+
 class ValidationError(Exception):
     """Raised when output validation fails."""
     pass
@@ -93,7 +99,7 @@ class DrugEvidencePackGenerator:
                 continue
             seen.add(lid)
             ings = [i for i in (r.get("ingredients") or r.get("主成分略述") or "").split(";;") if i.strip()]
-            status = r.get("license_status") or ("cancelled" if (r.get("status") or r.get("註銷狀態")) else "valid")
+            status = r.get("license_status") or ("cancelled" if _CANCELLED.search(str(r.get("status") or "") + str(r.get("註銷狀態") or "")) else "valid")
             lics.append({
                 "license_number": lid,
                 "product_name_zh": r.get("brand_name_zh", r.get("中文品名", "")),
