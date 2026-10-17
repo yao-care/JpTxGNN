@@ -1,12 +1,12 @@
 {
   "generated": "2026-10-17",
-  "total_drugs": 400,
+  "total_drugs": 392,
   "level_counts": {
     "L1": 27,
     "L2": 33,
     "L3": 51,
     "L4": 71,
-    "L5": 218
+    "L5": 210
   },
   "all_drugs": [
     {
@@ -394,12 +394,6 @@
       "indication_count": 10
     },
     {
-      "name": "Caplacizumab",
-      "slug": "caplacizumab",
-      "level": "L5",
-      "indication_count": 1
-    },
-    {
       "name": "Carbamazepine",
       "slug": "carbamazepine",
       "level": "L4",
@@ -418,12 +412,6 @@
       "indication_count": 5
     },
     {
-      "name": "Carisoprodol",
-      "slug": "carisoprodol",
-      "level": "L5",
-      "indication_count": 1
-    },
-    {
       "name": "Carteolol",
       "slug": "carteolol",
       "level": "L5",
@@ -434,12 +422,6 @@
       "slug": "carvedilol",
       "level": "L5",
       "indication_count": 10
-    },
-    {
-      "name": "Cefmetazole",
-      "slug": "cefmetazole",
-      "level": "L5",
-      "indication_count": 1
     },
     {
       "name": "Ceftriaxone",
@@ -1090,12 +1072,6 @@
       "indication_count": 1
     },
     {
-      "name": "Iodixanol",
-      "slug": "iodixanol",
-      "level": "L5",
-      "indication_count": 1
-    },
-    {
       "name": "Ipilimumab",
       "slug": "ipilimumab",
       "level": "L5",
@@ -1360,12 +1336,6 @@
       "indication_count": 10
     },
     {
-      "name": "Methionine",
-      "slug": "methionine",
-      "level": "L5",
-      "indication_count": 1
-    },
-    {
       "name": "Methotrexate",
       "slug": "methotrexate",
       "level": "L5",
@@ -1490,12 +1460,6 @@
       "slug": "nitrazepam",
       "level": "L3",
       "indication_count": 3
-    },
-    {
-      "name": "Nitrofurantoin",
-      "slug": "nitrofurantoin",
-      "level": "L5",
-      "indication_count": 1
     },
     {
       "name": "Nystatin",
@@ -2104,12 +2068,6 @@
       "indication_count": 10
     },
     {
-      "name": "Threonine",
-      "slug": "threonine",
-      "level": "L5",
-      "indication_count": 1
-    },
-    {
       "name": "Ticlopidine",
       "slug": "ticlopidine",
       "level": "L3",
@@ -2198,12 +2156,6 @@
       "slug": "trametinib",
       "level": "L5",
       "indication_count": 10
-    },
-    {
-      "name": "Tranexamic Acid",
-      "slug": "tranexamic_acid",
-      "level": "L5",
-      "indication_count": 1
     },
     {
       "name": "Tranilast",

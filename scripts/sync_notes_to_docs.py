@@ -140,7 +140,11 @@ def extra_front_matter(bundle_path: Path, evidence_level: str, indication_count:
     if names and inn:
         lines.append(f"monitor_inn: {json.dumps(inn, ensure_ascii=False)}")
         lines.append(f"predicted_indications: {json.dumps(names, ensure_ascii=False)}")
-    if bundle is not None and not names and evidence_level == "L5" and not re.search(r"NCT\d{8}|pubmed\.ncbi\.nlm\.nih\.gov/\d+", content):
+    keep = set()
+    kf = bundle_path.parents[3] / "docs" / "_data" / "keep_indexed.json"  # S-06：例外清單
+    if kf.exists():
+        keep = set(json.loads(kf.read_text(encoding="utf-8")).get("pages", []))
+    if bundle is not None and not names and evidence_level == "L5" and bundle_path.parent.name not in keep:
         lines += ["noindex: true", "sitemap: false"]
     return "".join(l + "\n" for l in lines)
 

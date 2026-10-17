@@ -1,6 +1,6 @@
 {
   "generated": "2026-10-17",
-  "total_count": 400,
+  "total_count": 392,
   "source": "JpTxGNN",
   "drugs": [
     {
@@ -644,16 +644,6 @@
       "url": "/drugs/capecitabine/"
     },
     {
-      "slug": "caplacizumab",
-      "name": "Caplacizumab",
-      "evidence_level": "L5",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/caplacizumab/"
-    },
-    {
       "slug": "carbamazepine",
       "name": "Carbamazepine",
       "evidence_level": "L4",
@@ -684,16 +674,6 @@
       "url": "/drugs/carfilzomib/"
     },
     {
-      "slug": "carisoprodol",
-      "name": "Carisoprodol",
-      "evidence_level": "L5",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/carisoprodol/"
-    },
-    {
       "slug": "carteolol",
       "name": "Carteolol",
       "evidence_level": "L5",
@@ -712,16 +692,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/carvedilol/"
-    },
-    {
-      "slug": "cefmetazole",
-      "name": "Cefmetazole",
-      "evidence_level": "L5",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/cefmetazole/"
     },
     {
       "slug": "ceftriaxone",
@@ -1804,16 +1774,6 @@
       "url": "/drugs/inositol/"
     },
     {
-      "slug": "iodixanol",
-      "name": "Iodixanol",
-      "evidence_level": "L5",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/iodixanol/"
-    },
-    {
       "slug": "ipilimumab",
       "name": "Ipilimumab",
       "evidence_level": "L5",
@@ -2254,16 +2214,6 @@
       "url": "/drugs/metformin/"
     },
     {
-      "slug": "methionine",
-      "name": "Methionine",
-      "evidence_level": "L5",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/methionine/"
-    },
-    {
       "slug": "methotrexate",
       "name": "Methotrexate",
       "evidence_level": "L5",
@@ -2472,16 +2422,6 @@
       "predicted_indication": "予測適応症",
       "txgnn_score": "",
       "url": "/drugs/nitrazepam/"
-    },
-    {
-      "slug": "nitrofurantoin",
-      "name": "Nitrofurantoin",
-      "evidence_level": "L5",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/nitrofurantoin/"
     },
     {
       "slug": "nystatin",
@@ -3494,16 +3434,6 @@
       "url": "/drugs/thiamine/"
     },
     {
-      "slug": "threonine",
-      "name": "Threonine",
-      "evidence_level": "L5",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/threonine/"
-    },
-    {
       "slug": "ticlopidine",
       "name": "Ticlopidine",
       "evidence_level": "L3",
@@ -3652,16 +3582,6 @@
       "predicted_indication": "",
       "txgnn_score": "",
       "url": "/drugs/trametinib/"
-    },
-    {
-      "slug": "tranexamic-acid",
-      "name": "Tranexamic Acid",
-      "evidence_level": "L5",
-      "indication_count": 1,
-      "original_indication": "",
-      "predicted_indication": "",
-      "txgnn_score": "",
-      "url": "/drugs/tranexamic-acid/"
     },
     {
       "slug": "tranilast",

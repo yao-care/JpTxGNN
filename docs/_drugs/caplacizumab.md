@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Caplacizumab
 parent: モデル予測のみ (L5)
