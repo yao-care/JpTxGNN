@@ -6,7 +6,7 @@ nav_order: 158
 evidence_level: L3
 indication_count: 1
 last_modified_at: 2026-04-19
-description: "Sodium Citrate：予測新適応症は胃部疾病（stomach disease）、胃十二指腸炎（gastroduodenitis）（エビデンスレベル L3）。既存適応症：日本の承認適応症は本サイトのデータに未収載、peptic esophagitis、dyspepsia、pharyngitis）"
+description: "Sodium Citrate：予測新適応症は胃疾患（stomach disease）、胃十二指腸炎（gastroduodenitis）（エビデンスレベル L3）。既存適応症：日本の承認適応症は本サイトのデータに未収載、peptic esophagitis、dyspepsia、pharyngitis）"
 ---
 
 # Sodium Citrate
@@ -42,7 +42,7 @@ Sodium Citrate 主要作為抗凝血劑及袪痰劑使用，TxGNN 預測其可�
 | 項目 | 内容 |
 |------|------|
 | 既存適応症 | 日本の承認適応症は本サイトのデータに未収載（知識グラフ上の適応症：peptic ulcer disease、gastroesophageal reflux disease、esophagitis (disease)、peptic esophagitis、dyspepsia、pharyngitis） |
-| 予測新適応症 | 胃部疾病（stomach disease）、胃十二指腸炎（gastroduodenitis） |
+| 予測新適応症 | 胃疾患（stomach disease）、胃十二指腸炎（gastroduodenitis） |
 | TxGNN 予測スコア | 0.999（stomach disease） |
 | エビデンスレベル | L3（有多篇 PubMed 文獻及臨床試驗） |
 | 日本上市 | 有效許可證存在 |

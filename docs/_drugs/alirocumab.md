@@ -6,7 +6,7 @@ nav_order: 14
 evidence_level: L3
 indication_count: 1
 last_modified_at: 2026-09-17
-description: "Alirocumab：予測新適応症は黃色瘤病（Xanthomatosis）、膽固醇分解代謝疾病（エビデンスレベル L3）。既存適応症：日本の承認適応症は本サイトのデータに未収載"
+description: "Alirocumab：予測新適応症は黄色腫症（Xanthomatosis）、コレステロール異化障害（エビデンスレベル L3）。既存適応症：日本の承認適応症は本サイトのデータに未収載"
 ---
 
 # Alirocumab
@@ -42,7 +42,7 @@ Alirocumab 是 PCSK9 單株抗體，主要用於降低 LDL-C 及預防心血管�
 | 項目 | 内容 |
 |------|------|
 | 既存適応症 | 日本の承認適応症は本サイトのデータに未収載（知識グラフ上の適応症：syndromic dyslipidemia、arteriosclerosis disorder、atherosclerosis、arteriolosclerosis） |
-| 予測新適応症 | 黃色瘤病（Xanthomatosis）、膽固醇分解代謝疾病 |
+| 予測新適応症 | 黄色腫症（Xanthomatosis）、コレステロール異化障害 |
 | TxGNN 予測スコア | 0.994（黃色瘤病）、0.994（膽固醇代謝疾病） |
 | エビデンスレベル | L3（有文獻支持） |
 | 日本上市 | Marketed |

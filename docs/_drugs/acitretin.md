@@ -6,7 +6,7 @@ nav_order: 12
 evidence_level: L3
 indication_count: 1
 last_modified_at: 2026-09-17
-description: "Acitretin：予測新適応症は青春痘 (acne)（エビデンスレベル L3）。既存適応症：嚴重性牛皮癬、皮膚角化症"
+description: "Acitretin：予測新適応症は尋常性ざ瘡 (acne)（エビデンスレベル L3）。既存適応症：日本の承認適応症は本サイトのデータに未収載"
 ---
 
 # Acitretin
@@ -43,8 +43,8 @@ TxGNN 模型預測它可能對**青春痘 (acne)** 有效，
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 嚴重性牛皮癬、皮膚角化症 |
-| 予測新適応症 | 青春痘 (acne) |
+| 既存適応症 | 日本の承認適応症は本サイトのデータに未収載 |
+| 予測新適応症 | 尋常性ざ瘡 (acne) |
 | TxGNN 予測スコア | 99.94% |
 | エビデンスレベル | L3 |
 | 日本上市 | Marketed |

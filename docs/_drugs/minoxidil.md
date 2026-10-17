@@ -6,7 +6,7 @@ nav_order: 106
 evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-09-17
-description: "Minoxidil：予測新適応症は頭皮單純性稀毛症 (hypotrichosis simplex of the scalp)（エビデンスレベル L4）。既存適応症：治療女性雄激素性落髮"
+description: "Minoxidil：予測新適応症は頭皮単純性乏毛症 (hypotrichosis simplex of the scalp)（エビデンスレベル L4）。既存適応症：日本の承認適応症は本サイトのデータに未収載"
 ---
 
 # Minoxidil
@@ -43,8 +43,8 @@ TxGNN 模型預測它可能對**頭皮單純性稀毛症 (hypotrichosis simplex 
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 治療女性雄激素性落髮 |
-| 予測新適応症 | 頭皮單純性稀毛症 (hypotrichosis simplex of the scalp) |
+| 既存適応症 | 日本の承認適応症は本サイトのデータに未収載（知識グラフ上の適応症：hypertensive disorder、hypertension、alopecia） |
+| 予測新適応症 | 頭皮単純性乏毛症 (hypotrichosis simplex of the scalp) |
 | TxGNN 予測スコア | 99.99991655349731% |
 | エビデンスレベル | L4 |
 | 日本上市 | ✓ Marketed |

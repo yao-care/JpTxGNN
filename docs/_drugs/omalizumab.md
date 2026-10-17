@@ -6,7 +6,7 @@ nav_order: 116
 evidence_level: L2
 indication_count: 1
 last_modified_at: 2026-09-17
-description: "Omalizumab：予測新適応症は支氣管炎、異位性皮膚炎（エビデンスレベル L2）。既存適応症：日本の承認適応症は本サイトのデータに未収載"
+description: "Omalizumab：予測新適応症は気管支炎、アトピー性皮膚炎（エビデンスレベル L2）。既存適応症：日本の承認適応症は本サイトのデータに未収載"
 ---
 
 # Omalizumab
@@ -42,7 +42,7 @@ Omalizumab（喜瑞樂）是一種抗 IgE 單株抗體，用於治療重度過�
 | 項目 | 内容 |
 |------|------|
 | 既存適応症 | 日本の承認適応症は本サイトのデータに未収載（知識グラフ上の適応症：asthma、intrinsic asthma、allergic asthma、idiopathic urticaria） |
-| 予測新適応症 | 支氣管炎、異位性皮膚炎 |
+| 予測新適応症 | 気管支炎、アトピー性皮膚炎 |
 | TxGNN 予測スコア | 99.99% (支氣管炎), 99.97% (異位性皮膚炎) |
 | エビデンスレベル | L2 |
 | 日本上市 | Marketed |

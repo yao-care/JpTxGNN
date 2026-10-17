@@ -43,6 +43,9 @@ def kg_indications():
     return out
 
 
+FORCE = set()
+
+
 def main(dry):
     pm, kg = pmda_diseases(), kg_indications()
     n_pm = n_kg = n_skip = 0
@@ -51,7 +54,7 @@ def main(dry):
         if 'http-equiv="refresh"' in t:
             continue
         m = ROW.search(t)
-        if not m or not TRAD.search(m.group(2)):
+        if not m or (f.stem not in FORCE and not TRAD.search(m.group(2))):
             continue
         old = m.group(2).strip()
         b = ROOT / "data/bundles" / f.stem / "drug_bundle.json"
@@ -76,4 +79,6 @@ def main(dry):
 
 
 if __name__ == "__main__":
+    if "--only" in sys.argv:  # 人工判讀為中文、但字元判準抓不到的頁（逗號分隔）
+        FORCE.update(sys.argv[sys.argv.index("--only") + 1].split(","))
     main("--dry-run" in sys.argv)

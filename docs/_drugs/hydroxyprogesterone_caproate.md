@@ -6,7 +6,7 @@ nav_order: 81
 evidence_level: L2
 indication_count: 1
 last_modified_at: 2026-04-19
-description: "Hydroxyprogesterone Caproate：予測新適応症は子宮內膜癌 (endometrial cancer)（エビデンスレベル L2）。既存適応症：日本の承認適応症は本サイトのデータに未収載"
+description: "Hydroxyprogesterone Caproate：予測新適応症は子宮内膜癌 (endometrial cancer)（エビデンスレベル L2）。既存適応症：日本の承認適応症は本サイトのデータに未収載"
 ---
 
 # Hydroxyprogesterone Caproate
@@ -44,7 +44,7 @@ TxGNN 模型預測它可能對**子宮內膜癌 (endometrial cancer)** 有效，
 | 項目 | 内容 |
 |------|------|
 | 既存適応症 | 日本の承認適応症は本サイトのデータに未収載 |
-| 予測新適応症 | 子宮內膜癌 (endometrial cancer) |
+| 予測新適応症 | 子宮内膜癌 (endometrial cancer) |
 | TxGNN 予測スコア | 99.96% |
 | エビデンスレベル | L2 |
 | 日本上市 | 有效許可證 |

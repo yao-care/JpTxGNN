@@ -6,7 +6,7 @@ nav_order: 36
 evidence_level: L3
 indication_count: 1
 last_modified_at: 2026-09-17
-description: "Butenafine：予測新適応症は皮膚念珠菌病 (cutaneous candidiasis)（エビデンスレベル L3）。既存適応症：日本の承認適応症は本サイトのデータに未収載"
+description: "Butenafine：予測新適応症は皮膚カンジダ症 (cutaneous candidiasis)（エビデンスレベル L3）。既存適応症：日本の承認適応症は本サイトのデータに未収載"
 ---
 
 # Butenafine
@@ -41,7 +41,7 @@ Butenafine 原為治療香港腳、股癬、體癬等皮膚黴菌感染的外用
 | 項目 | 内容 |
 |------|------|
 | 既存適応症 | 日本の承認適応症は本サイトのデータに未収載（知識グラフ上の適応症：tinea pedis、tinea corporis、tinea infection、pityriasis versicolor、dermatophytosis of groin and perianal area） |
-| 予測新適応症 | 皮膚念珠菌病 (cutaneous candidiasis) |
+| 予測新適応症 | 皮膚カンジダ症 (cutaneous candidiasis) |
 | TxGNN 予測スコア | 99.33% |
 | エビデンスレベル | L3 (文獻回顧支持) |
 | 日本上市 | Marketed |

@@ -6,7 +6,7 @@ nav_order: 30
 evidence_level: L3
 indication_count: 1
 last_modified_at: 2026-09-17
-description: "Benzylpenicillin：予測新適応症は牙冠周炎 (pericoronitis)（エビデンスレベル L3）。既存適応症：葡萄球菌、鏈球菌、肺炎球菌等革蘭氏陽性菌感染、梅毒、淋病、細菌性心內膜炎"
+description: "Benzylpenicillin：予測新適応症は智歯周囲炎 (pericoronitis)（エビデンスレベル L3）。既存適応症：日本の承認適応症は本サイトのデータに未収載"
 ---
 
 # Benzylpenicillin
@@ -40,8 +40,8 @@ Benzylpenicillin (青黴素 G) 是經典的 beta-lactam 抗生素，用於多種
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 葡萄球菌、鏈球菌、肺炎球菌等革蘭氏陽性菌感染、梅毒、淋病、細菌性心內膜炎 |
-| 予測新適応症 | 牙冠周炎 (pericoronitis) |
+| 既存適応症 | 日本の承認適応症は本サイトのデータに未収載（知識グラフ上の適応症：infectious otitis media、streptococcal infection、meningococcal infection、inhalational anthrax、anthrax infection、pneumococcal meningitis） |
+| 予測新適応症 | 智歯周囲炎 (pericoronitis) |
 | TxGNN 予測スコア | 99.36% |
 | エビデンスレベル | L3 (多篇觀察性研究和回顧性文獻) |
 | 日本上市 | Marketed |

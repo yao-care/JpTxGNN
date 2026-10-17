@@ -6,7 +6,7 @@ nav_order: 27
 evidence_level: L3
 indication_count: 1
 last_modified_at: 2026-09-17
-description: "Belimumab：予測新適応症は血小板原發性釋放障礙 (primary release disorder of platelets)（エビデンスレベル L3）。既存適応症：全身性紅斑性狼瘡 (SLE)、活動性狼瘡腎炎"
+description: "Belimumab：予測新適応症は血小板一次放出異常症 (primary release disorder of platelets)（エビデンスレベル L3）。既存適応症：日本の承認適応症は本サイトのデータに未収載、pediatric systemic lupus erythematosus）"
 ---
 
 # Belimumab
@@ -40,8 +40,8 @@ Belimumab 是抗 BLyS 單株抗體，用於全身性紅斑性狼瘡治療，TxGN
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 全身性紅斑性狼瘡 (SLE)、活動性狼瘡腎炎 |
-| 予測新適応症 | 血小板原發性釋放障礙 (primary release disorder of platelets) |
+| 既存適応症 | 日本の承認適応症は本サイトのデータに未収載（知識グラフ上の適応症：systemic lupus erythematosus (disease)、pediatric systemic lupus erythematosus） |
+| 予測新適応症 | 血小板一次放出異常症 (primary release disorder of platelets) |
 | TxGNN 予測スコア | 99.96% |
 | エビデンスレベル | L3 (間接臨床試驗證據) |
 | 日本上市 | Marketed |

@@ -6,7 +6,7 @@ nav_order: 191
 evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-09-17
-description: "Vismodegib：予測新適応症は著色性乾皮症 (Xeroderma Pigmentosum)（エビデンスレベル L4）。既存適応症：治療轉移性基底細胞癌，或不適合接受手術或放射線治療之局部晚期基底細胞癌成人病患"
+description: "Vismodegib：予測新適応症は色素性乾皮症 (Xeroderma Pigmentosum)（エビデンスレベル L4）。既存適応症：日本の承認適応症は本サイトのデータに未収載"
 ---
 
 # Vismodegib
@@ -43,8 +43,8 @@ TxGNN 模型預測它可能對**著色性乾皮症 (Xeroderma Pigmentosum)** 有
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 治療轉移性基底細胞癌，或不適合接受手術或放射線治療之局部晚期基底細胞癌成人病患。 |
-| 予測新適応症 | 著色性乾皮症 (Xeroderma Pigmentosum) |
+| 既存適応症 | 日本の承認適応症は本サイトのデータに未収載（知識グラフ上の適応症：skin carcinoma、basal cell carcinoma、sweat gland cancer、carcinoma、sebaceous adenocarcinoma） |
+| 予測新適応症 | 色素性乾皮症 (Xeroderma Pigmentosum) |
 | TxGNN 予測スコア | 99.91% |
 | エビデンスレベル | L4 |
 | 日本上市 | ✓ Marketed |

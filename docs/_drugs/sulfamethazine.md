@@ -6,7 +6,7 @@ nav_order: 160
 evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-04-19
-description: "Sulfamethazine：予測新適応症は糖尿病腎病變（diabetic nephropathy）、結膜炎（conjunctivitis）、支氣管炎（bronchitis）（エビデンスレベル L4）。既存適応症：日本の承認適応症は本サイトのデータに未収載"
+description: "Sulfamethazine：予測新適応症は糖尿病性腎症（diabetic nephropathy）、結膜炎（conjunctivitis）、気管支炎（bronchitis）（エビデンスレベル L4）。既存適応症：日本の承認適応症は本サイトのデータに未収載"
 ---
 
 # Sulfamethazine
@@ -42,7 +42,7 @@ Sulfamethazine 是傳統磺胺類廣效抗菌劑，TxGNN 預測其可能對糖�
 | 項目 | 内容 |
 |------|------|
 | 既存適応症 | 日本の承認適応症は本サイトのデータに未収載 |
-| 予測新適応症 | 糖尿病腎病變（diabetic nephropathy）、結膜炎（conjunctivitis）、支氣管炎（bronchitis） |
+| 予測新適応症 | 糖尿病性腎症（diabetic nephropathy）、結膜炎（conjunctivitis）、気管支炎（bronchitis） |
 | TxGNN 予測スコア | 0.998（diabetic nephropathy） |
 | エビデンスレベル | L4（有 PubMed 文獻支持） |
 | 日本上市 | 所有許可證已註銷 |

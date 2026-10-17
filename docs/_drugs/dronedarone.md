@@ -6,7 +6,7 @@ nav_order: 62
 evidence_level: L2
 indication_count: 1
 last_modified_at: 2026-09-17
-description: "Dronedarone：予測新適応症は中風疾病 (stroke disorder)（エビデンスレベル L2）。既存適応症：心房纖維顫動、心房撲動"
+description: "Dronedarone：予測新適応症は脳卒中 (stroke disorder)（エビデンスレベル L2）。既存適応症：日本の承認適応症は本サイトのデータに未収載）"
 ---
 
 # Dronedarone
@@ -43,8 +43,8 @@ TxGNN 模型預測它可能對**中風疾病 (stroke disorder)** 有效，
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 心房纖維顫動、心房撲動 |
-| 予測新適応症 | 中風疾病 (stroke disorder) |
+| 既存適応症 | 日本の承認適応症は本サイトのデータに未収載（知識グラフ上の適応症：atrial fibrillation (disease)） |
+| 予測新適応症 | 脳卒中 (stroke disorder) |
 | TxGNN 予測スコア | 99.97% |
 | エビデンスレベル | L2 |
 | 日本上市 | Marketed |

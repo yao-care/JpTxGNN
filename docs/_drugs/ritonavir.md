@@ -6,7 +6,7 @@ nav_order: 148
 evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-09-17
-description: "Ritonavir：予測新適応症は猿免疫缺乏病毒感染 (SIV Infection)、貓愛滋病（エビデンスレベル L4）。既存適応症：人類免疫缺乏病毒（HIV）感染"
+description: "Ritonavir：予測新適応症はサル免疫不全ウイルス感染症 (SIV Infection)、ネコ後天性免疫不全症候群（エビデンスレベル L4）。既存適応症：日本の承認適応症は本サイトのデータに未収載"
 ---
 
 # Ritonavir
@@ -41,8 +41,8 @@ Ritonavir 是一種 HIV 蛋白酶抑制劑，原本用於人類免疫缺乏病�
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 人類免疫缺乏病毒（HIV）感染 |
-| 予測新適応症 | 猿免疫缺乏病毒感染 (SIV Infection)、貓愛滋病 |
+| 既存適応症 | 日本の承認適応症は本サイトのデータに未収載（知識グラフ上の適応症：chronic hepatitis C virus infection、hepatitis C virus infection、HIV infectious disease、AIDS） |
+| 予測新適応症 | サル免疫不全ウイルス感染症 (SIV Infection)、ネコ後天性免疫不全症候群 |
 | TxGNN 予測スコア | 99.92% |
 | エビデンスレベル | L4 |
 | 日本上市 | Marketed |

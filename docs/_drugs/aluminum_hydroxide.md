@@ -6,7 +6,7 @@ nav_order: 18
 evidence_level: L3
 indication_count: 1
 last_modified_at: 2026-04-19
-description: "Aluminum Hydroxide：予測新適応症は活動性消化性潰瘍 (active peptic ulcer disease)（エビデンスレベル L3）。既存適応症：胃酸過多、胃炎、胃及十二指腸潰瘍"
+description: "Aluminum Hydroxide：予測新適応症は活動性消化性潰瘍 (active peptic ulcer disease)（エビデンスレベル L3）。既存適応症：日本の承認適応症は本サイトのデータに未収載、peptic ulcer disease…"
 ---
 
 # Aluminum Hydroxide
@@ -43,7 +43,7 @@ TxGNN 模型預測它可能對**活動性消化性潰瘍 (active peptic ulcer di
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 胃酸過多、胃炎、胃及十二指腸潰瘍 |
+| 既存適応症 | 日本の承認適応症は本サイトのデータに未収載（知識グラフ上の適応症：gastric ulcer (disease)、peptic ulcer disease、gastroesophageal reflux disease、esophagitis (disease)、peptic esophagitis、dyspepsia） |
 | 予測新適応症 | 活動性消化性潰瘍 (active peptic ulcer disease) |
 | TxGNN 予測スコア | 99.64% |
 | エビデンスレベル | L3 |

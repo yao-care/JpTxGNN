@@ -6,7 +6,7 @@ nav_order: 34
 evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-09-17
-description: "Brodalumab：予測新適応症は眼病 (Eye Disease)（エビデンスレベル L4）。既存適応症：斑塊性乾癬"
+description: "Brodalumab：予測新適応症は眼疾患 (Eye Disease)（エビデンスレベル L4）。既存適応症：日本の承認適応症は本サイトのデータに未収載"
 ---
 
 # Brodalumab
@@ -43,8 +43,8 @@ TxGNN 模型預測它可能對**眼病 (Eye Disease)** 有效，
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 斑塊性乾癬 |
-| 予測新適応症 | 眼病 (Eye Disease) |
+| 既存適応症 | 日本の承認適応症は本サイトのデータに未収載 |
+| 予測新適応症 | 眼疾患 (Eye Disease) |
 | TxGNN 予測スコア | 99.82% |
 | エビデンスレベル | L4 |
 | 日本上市 | ✓ Marketed |

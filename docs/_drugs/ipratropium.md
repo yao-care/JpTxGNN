@@ -6,7 +6,7 @@ nav_order: 91
 evidence_level: L1
 indication_count: 1
 last_modified_at: 2026-09-17
-description: "Ipratropium：予測新適応症は阻塞性肺疾病 (obstructive lung disease)（エビデンスレベル L1）。既存適応症：日本の承認適応症は本サイトのデータに未収載"
+description: "Ipratropium：予測新適応症は閉塞性肺疾患 (obstructive lung disease)（エビデンスレベル L1）。既存適応症：日本の承認適応症は本サイトのデータに未収載"
 ---
 
 # Ipratropium
@@ -42,7 +42,7 @@ Ipratropium（溴化伊普托品）是一種抗膽鹼支氣管擴張劑，用於
 | 項目 | 内容 |
 |------|------|
 | 既存適応症 | 日本の承認適応症は本サイトのデータに未収載（知識グラフ上の適応症：chronic obstructive pulmonary disease、COPD, severe early onset、allergic rhinitis、vasomotor rhinitis、bronchitis、common cold） |
-| 予測新適応症 | 阻塞性肺疾病 (obstructive lung disease) |
+| 予測新適応症 | 閉塞性肺疾患 (obstructive lung disease) |
 | TxGNN 予測スコア | 99.97% |
 | エビデンスレベル | L1 |
 | 日本上市 | Marketed |

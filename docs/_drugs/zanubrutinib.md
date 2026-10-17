@@ -6,7 +6,7 @@ nav_order: 200
 evidence_level: L2
 indication_count: 1
 last_modified_at: 2026-09-17
-description: "Zanubrutinib：予測新適応症は骨髓性白血病 (myeloid leukemia)（エビデンスレベル L2）。既存適応症：被套細胞淋巴瘤 (MCL)、華氏巨球蛋白血症 (WM)、CLL/SLL、邊緣區淋巴瘤、濾泡性淋巴瘤"
+description: "Zanubrutinib：予測新適応症は骨髄性白血病 (myeloid leukemia)（エビデンスレベル L2）。既存適応症：日本の承認適応症は本サイトのデータに未収載"
 ---
 
 # Zanubrutinib
@@ -43,8 +43,8 @@ TxGNN 模型預測它可能對**骨髓性白血病 (myeloid leukemia)** 有效�
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 被套細胞淋巴瘤 (MCL)、華氏巨球蛋白血症 (WM)、CLL/SLL、邊緣區淋巴瘤、濾泡性淋巴瘤 |
-| 予測新適応症 | 骨髓性白血病 (myeloid leukemia) |
+| 既存適応症 | 日本の承認適応症は本サイトのデータに未収載（知識グラフ上の適応症：mantle cell lymphoma、B-cell neoplasm、lymphosarcoma） |
+| 予測新適応症 | 骨髄性白血病 (myeloid leukemia) |
 | TxGNN 予測スコア | 99.65% |
 | エビデンスレベル | L2 (有臨床試驗支持) |
 | 日本上市 | Marketed |

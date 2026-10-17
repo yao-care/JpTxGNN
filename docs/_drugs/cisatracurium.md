@@ -6,7 +6,7 @@ nav_order: 46
 evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-09-17
-description: "Cisatracurium：予測新適応症は子癲前症 (Preeclampsia)（エビデンスレベル L4）。既存適応症：日本の承認適応症は本サイトのデータに未収載"
+description: "Cisatracurium：予測新適応症は妊娠高血圧腎症 (Preeclampsia)（エビデンスレベル L4）。既存適応症：日本の承認適応症は本サイトのデータに未収載"
 ---
 
 # Cisatracurium
@@ -44,7 +44,7 @@ TxGNN 模型預測它可能對**子癲前症 (Preeclampsia)** 有效，
 | 項目 | 内容 |
 |------|------|
 | 既存適応症 | 日本の承認適応症は本サイトのデータに未収載 |
-| 予測新適応症 | 子癲前症 (Preeclampsia) |
+| 予測新適応症 | 妊娠高血圧腎症 (Preeclampsia) |
 | TxGNN 予測スコア | 99.99% |
 | エビデンスレベル | L4 |
 | 日本上市 | ✓ Marketed |

@@ -6,7 +6,7 @@ nav_order: 190
 evidence_level: L3
 indication_count: 1
 last_modified_at: 2026-09-17
-description: "Vinorelbine：予測新適応症はEwing 肉瘤 (Ewing sarcoma)（エビデンスレベル L3）。既存適応症：非小細胞肺癌、轉移性乳癌"
+description: "Vinorelbine：予測新適応症はEwing 肉腫 (Ewing sarcoma)（エビデンスレベル L3）。既存適応症：日本の承認適応症は本サイトのデータに未収載、lung cancer）"
 ---
 
 # Vinorelbine
@@ -43,8 +43,8 @@ TxGNN 模型預測它可能對 **Ewing 肉瘤 (Ewing sarcoma)** 有效，
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 非小細胞肺癌、轉移性乳癌 |
-| 予測新適応症 | Ewing 肉瘤 (Ewing sarcoma) |
+| 既存適応症 | 日本の承認適応症は本サイトのデータに未収載（知識グラフ上の適応症：non-small cell lung carcinoma (disease)、lung cancer） |
+| 予測新適応症 | Ewing 肉腫 (Ewing sarcoma) |
 | TxGNN 予測スコア | 99.999% |
 | エビデンスレベル | L3 |
 | 日本上市 | Marketed |

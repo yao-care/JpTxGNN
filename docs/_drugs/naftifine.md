@@ -6,7 +6,7 @@ nav_order: 108
 evidence_level: L1
 indication_count: 1
 last_modified_at: 2026-09-17
-description: "Naftifine：予測新適応症は皮膚念珠菌病、花斑癬、Majocchi 肉芽腫（エビデンスレベル L1）。既存適応症：日本の承認適応症は本サイトのデータに未収載"
+description: "Naftifine：予測新適応症は皮膚カンジダ症、癜風、Majocchi 肉芽腫（エビデンスレベル L1）。既存適応症：日本の承認適応症は本サイトのデータに未収載"
 ---
 
 # Naftifine
@@ -42,7 +42,7 @@ Naftifine（萘替芬）是一種烯丙胺類局部抗黴菌藥，用於治療�
 | 項目 | 内容 |
 |------|------|
 | 既存適応症 | 日本の承認適応症は本サイトのデータに未収載（知識グラフ上の適応症：tinea pedis、tinea corporis、tinea infection、dermatophytosis of groin and perianal area） |
-| 予測新適応症 | 皮膚念珠菌病、花斑癬、Majocchi 肉芽腫 |
+| 予測新適応症 | 皮膚カンジダ症、癜風、Majocchi 肉芽腫 |
 | TxGNN 予測スコア | 99.84% (皮膚念珠菌病), 99.68% (花斑癬) |
 | エビデンスレベル | L1 |
 | 日本上市 | Marketed |

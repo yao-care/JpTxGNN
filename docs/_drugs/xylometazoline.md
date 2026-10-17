@@ -6,7 +6,7 @@ nav_order: 199
 evidence_level: L3
 indication_count: 1
 last_modified_at: 2026-09-17
-description: "Xylometazoline：予測新適応症は鼻腔疾病、急性咽喉炎（エビデンスレベル L3）。既存適応症：感冒、鼻塞、過敏性鼻炎"
+description: "Xylometazoline：予測新適応症は鼻腔疾患、急性咽喉頭炎（エビデンスレベル L3）。既存適応症：日本の承認適応症は本サイトのデータに未収載"
 ---
 
 # Xylometazoline
@@ -43,8 +43,8 @@ TxGNN 模型預測它可能對**鼻腔疾病 (nasal cavity disease)** 和**急�
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 感冒、鼻塞、過敏性鼻炎 |
-| 予測新適応症 | 鼻腔疾病、急性咽喉炎 |
+| 既存適応症 | 日本の承認適応症は本サイトのデータに未収載（知識グラフ上の適応症：pharyngitis、common cold） |
+| 予測新適応症 | 鼻腔疾患、急性咽喉頭炎 |
 | TxGNN 予測スコア | 99.91% (鼻腔疾病)、99.89% (急性咽喉炎) |
 | エビデンスレベル | L3 (有文獻支持) |
 | 日本上市 | Marketed |

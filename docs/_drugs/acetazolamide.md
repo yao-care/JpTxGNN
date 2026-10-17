@@ -6,7 +6,7 @@ nav_order: 11
 evidence_level: L2
 indication_count: 1
 last_modified_at: 2026-09-17
-description: "Acetazolamide：予測新適応症は心肌病變 (cardiomyopathy)（エビデンスレベル L2）。既存適応症：青光眼、癲癇、充血性心衰竭水腫"
+description: "Acetazolamide：予測新適応症は心筋症 (cardiomyopathy)（エビデンスレベル L2）。既存適応症：日本の承認適応症は本サイトのデータに未収載"
 ---
 
 # Acetazolamide
@@ -43,8 +43,8 @@ TxGNN 模型預測它可能對**心肌病變 (cardiomyopathy)** 及**肥厚性�
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 青光眼、癲癇、充血性心衰竭水腫 |
-| 予測新適応症 | 心肌病變 (cardiomyopathy) |
+| 既存適応症 | 日本の承認適応症は本サイトのデータに未収載（知識グラフ上の適応症：absence epilepsy、congestive heart failure、open-angle glaucoma、angle-closure glaucoma、closed-angle glaucoma、altitude sickness） |
+| 予測新適応症 | 心筋症 (cardiomyopathy) |
 | TxGNN 予測スコア | 99.83% |
 | エビデンスレベル | L2 |
 | 日本上市 | Marketed |

@@ -6,7 +6,7 @@ nav_order: 167
 evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-09-17
-description: "Tetryzoline：予測新適応症は鼻腔疾病 (Nasal Cavity Disease)（エビデンスレベル L4）。既存適応症：眼睛刺激、結膜炎、結膜充血"
+description: "Tetryzoline：予測新適応症は鼻腔疾患 (Nasal Cavity Disease)（エビデンスレベル L4）。既存適応症：日本の承認適応症は本サイトのデータに未収載"
 ---
 
 # Tetryzoline
@@ -41,8 +41,8 @@ Tetryzoline 是一種血管收縮劑，目前在台灣主要作為眼藥水成�
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 眼睛刺激、結膜炎、結膜充血 |
-| 予測新適応症 | 鼻腔疾病 (Nasal Cavity Disease) |
+| 既存適応症 | 日本の承認適応症は本サイトのデータに未収載（知識グラフ上の適応症：pharyngitis、common cold） |
+| 予測新適応症 | 鼻腔疾患 (Nasal Cavity Disease) |
 | TxGNN 予測スコア | 99.98% |
 | エビデンスレベル | L4 |
 | 日本上市 | Marketed |

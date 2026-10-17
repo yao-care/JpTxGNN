@@ -6,7 +6,7 @@ nav_order: 192
 evidence_level: L3
 indication_count: 1
 last_modified_at: 2026-09-17
-description: "Vitamin E：予測新適応症は先天性膽紅素代謝異常 (inborn disorder of bilirubin metabolism)（エビデンスレベル L3）。既存適応症：日本の承認適応症は本サイトのデータに未収載"
+description: "Vitamin E：予測新適応症は先天性ビリルビン代謝異常症 (inborn disorder of bilirubin metabolism)（エビデンスレベル L3）。既存適応症：日本の承認適応症は本サイトのデータに未収載"
 ---
 
 # Vitamin E
@@ -44,7 +44,7 @@ TxGNN 模型預測它可能對**先天性膽紅素代謝異常 (inborn disorder 
 | 項目 | 内容 |
 |------|------|
 | 既存適応症 | 日本の承認適応症は本サイトのデータに未収載（知識グラフ上の適応症：cholestasis、benign recurrent intrahepatic cholestasis、familial intrahepatic cholestasis、familial isolated deficiency of vitamin E） |
-| 予測新適応症 | 先天性膽紅素代謝異常 (inborn disorder of bilirubin metabolism) |
+| 予測新適応症 | 先天性ビリルビン代謝異常症 (inborn disorder of bilirubin metabolism) |
 | TxGNN 予測スコア | 99.99% |
 | エビデンスレベル | L3 |
 | 日本上市 | Marketed |

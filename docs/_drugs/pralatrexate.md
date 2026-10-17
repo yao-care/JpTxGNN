@@ -6,7 +6,7 @@ nav_order: 135
 evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-09-17
-description: "Pralatrexate：予測新適応症は胸膜上皮型間皮瘤 (pleural epithelioid mesothelioma)（エビデンスレベル L4）。既存適応症：日本の承認適応症は本サイトのデータに未収載"
+description: "Pralatrexate：予測新適応症は胸膜上皮型中皮腫 (pleural epithelioid mesothelioma)（エビデンスレベル L4）。既存適応症：日本の承認適応症は本サイトのデータに未収載"
 ---
 
 # Pralatrexate
@@ -44,7 +44,7 @@ TxGNN 模型預測它可能對**胸膜上皮型間皮瘤 (pleural epithelioid me
 | 項目 | 内容 |
 |------|------|
 | 既存適応症 | 日本の承認適応症は本サイトのデータに未収載（知識グラフ上の適応症：mature T-cell and NK-cell non-Hodgkin lymphoma、peripheral T-cell lymphoma, not otherwise specified、primary cutaneous peripheral T-cell lymphoma not otherwise specified、primary cutaneous CD4+ small/medium-sized pleomorphic T-cell lymphoma、primary cutaneous aggressive epidermotropic CD8+ T-cell lymphoma、primary cutaneous gamma/delta-positive T-cell lymphoma） |
-| 予測新適応症 | 胸膜上皮型間皮瘤 (pleural epithelioid mesothelioma) |
+| 予測新適応症 | 胸膜上皮型中皮腫 (pleural epithelioid mesothelioma) |
 | TxGNN 予測スコア | 99.89% |
 | エビデンスレベル | L4 |
 | 日本上市 | ✓ Marketed |

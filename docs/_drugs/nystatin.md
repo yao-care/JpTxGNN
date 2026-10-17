@@ -6,7 +6,7 @@ nav_order: 115
 evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-09-17
-description: "Nystatin：予測新適応症は外陰陰道炎 (Vulvovaginitis)（エビデンスレベル L4）。既存適応症：對革蘭氏陽性菌及陰性菌所引起之感染症"
+description: "Nystatin：予測新適応症は外陰腟炎 (Vulvovaginitis)（エビデンスレベル L4）。既存適応症：日本の承認適応症は本サイトのデータに未収載"
 ---
 
 # Nystatin
@@ -43,8 +43,8 @@ TxGNN 模型預測它可能對**外陰陰道炎 (Vulvovaginitis)** 有效，
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 對革蘭氏陽性菌及陰性菌所引起之感染症 |
-| 予測新適応症 | 外陰陰道炎 (Vulvovaginitis) |
+| 既存適応症 | 日本の承認適応症は本サイトのデータに未収載（知識グラフ上の適応症：cutaneous candidiasis、oral candidiasis、candidiasis、vulvovaginal candidiasis） |
+| 予測新適応症 | 外陰腟炎 (Vulvovaginitis) |
 | TxGNN 予測スコア | 99.92% |
 | エビデンスレベル | L4 |
 | 日本上市 | ✓ Marketed |

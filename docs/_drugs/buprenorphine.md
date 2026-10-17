@@ -6,7 +6,7 @@ nav_order: 35
 evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-09-17
-description: "Buprenorphine：予測新適応症は急性間歇性紫質症 (acute intermittent porphyria)（エビデンスレベル L4）。既存適応症：中重度疼痛、鴉片類物質成癮替代療法"
+description: "Buprenorphine：予測新適応症は急性間欠性ポルフィリン症 (acute intermittent porphyria)（エビデンスレベル L4）。既存適応症：日本の承認適応症は本サイトのデータに未収載"
 ---
 
 # Buprenorphine
@@ -40,8 +40,8 @@ Buprenorphine 原為類鴉片部分致效劑，用於中重度疼痛及鴉片類
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 中重度疼痛、鴉片類物質成癮替代療法 |
-| 予測新適応症 | 急性間歇性紫質症 (acute intermittent porphyria) |
+| 既存適応症 | 日本の承認適応症は本サイトのデータに未収載（知識グラフ上の適応症：opiate dependence、substance abuse/dependence、morphine dependence） |
+| 予測新適応症 | 急性間欠性ポルフィリン症 (acute intermittent porphyria) |
 | TxGNN 予測スコア | 99.41% |
 | エビデンスレベル | L4 (個案報告/麻醉管理經驗) |
 | 日本上市 | Marketed |
