@@ -25,7 +25,7 @@ description: "Benzylpenicillin：予測新適応症は智歯周囲炎 (pericoron
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 

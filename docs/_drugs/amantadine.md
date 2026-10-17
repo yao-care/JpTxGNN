@@ -27,7 +27,7 @@ description: "Amantadine：予測新適応症はRasmussen 亜急性脳炎 (Rasmu
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -126,6 +126,7 @@ PLA2G6 関連神経変性症については、[31366412](https://pubmed.ncbi.nlm
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

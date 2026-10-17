@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-17
 description: "Dextromethorphan：予測新適応症は鼻腔疾患 (nasal cavity disease)（エビデンスレベル L5）。既存適応症：鎮咳薬（気管支拡張症）"
 monitor_inn: "Dextromethorphan"
-predicted_indications: ["faucial diphtheria", "trigeminal autonomic cephalalgia", "cervical disc degenerative disorder", "allergic urticaria", "tracheal disease", "massive neonatal aspiration syndrome", "respiratory syncytial virus bronchiolitis", "hantavirus infectious disease"]
+predicted_indications: ["acute laryngopharyngitis", "faucial diphtheria", "trigeminal autonomic cephalalgia", "cervical disc degenerative disorder", "allergic urticaria", "tracheal disease", "massive neonatal aspiration syndrome", "respiratory syncytial virus bronchiolitis", "hantavirus infectious disease"]
 ---
 
 # Dextromethorphan
@@ -27,7 +27,7 @@ predicted_indications: ["faucial diphtheria", "trigeminal autonomic cephalalgia"
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -102,6 +102,7 @@ TxGNN モデルは**鼻腔疾患 (nasal cavity disease)** に有効である可�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

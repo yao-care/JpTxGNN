@@ -25,7 +25,7 @@ description: "Probenecid：予測新適応症は腎性低尿酸血症 (Renal Hyp
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 

@@ -27,7 +27,7 @@ description: "Ethosuximide：予測新適応症は腎性抗利尿ホルモン不
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -101,6 +101,7 @@ T 型カルシウムチャネル阻害から V2 受容体経路へつながる�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

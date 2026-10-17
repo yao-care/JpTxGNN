@@ -27,7 +27,7 @@ description: "Bromperidol：予測新適応症は不眠症 (Insomnia)（エビ�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -94,6 +94,7 @@ TxGNN のスコアは高い（99.85%）ものの、計算上の予測にすぎ�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

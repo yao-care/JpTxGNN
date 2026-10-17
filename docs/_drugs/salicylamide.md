@@ -25,7 +25,7 @@ description: "Salicylamide：予測新適応症は感冒 (common cold)、咽頭�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 

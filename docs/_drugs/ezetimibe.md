@@ -27,7 +27,7 @@ predicted_indications: ["cholesterol-ester transfer protein deficiency", "HIV in
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -144,6 +144,7 @@ HIV 感染症は、ウイルスそのものへの効果ではなく、HIV 関連
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

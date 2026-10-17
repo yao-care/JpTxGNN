@@ -27,7 +27,7 @@ description: "Rotigotine：予測新適応症は注意欠如・多動症 (attent
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -117,6 +117,7 @@ ADHD 以外では、統合失調症（スコア 99.996%、L4、Hold）にドパ�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

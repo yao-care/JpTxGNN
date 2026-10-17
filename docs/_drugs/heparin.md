@@ -27,7 +27,7 @@ description: "Heparin：予測新適応症は椎骨動脈閉塞症 (Vertebral ar
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -128,6 +128,7 @@ TxGNN モデルの最上位予測は**プロテイン C 欠損による血栓性
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

@@ -27,7 +27,7 @@ description: "Bevacizumab：予測新適応症は喉頭蓋腫瘍 (Epiglottis Neo
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -135,6 +135,7 @@ TxGNN モデルの予測順位第 1 位は**喉頭蓋腫瘍 (Epiglottis Neoplasm
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

@@ -27,7 +27,7 @@ description: "Clopidogrel：予測新適応症は片頭痛 (Migraine Disorder)�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -132,6 +132,7 @@ TxGNN モデルは、上位予測の一つである**片頭痛 (Migraine Disorde
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

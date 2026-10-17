@@ -27,7 +27,7 @@ predicted_indications: ["progeria-short stature-pigmented nevi syndrome", "pitui
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -138,6 +138,7 @@ TxGNN モデルは**下垂体癌 (Pituitary Cancer)** に有効である可能�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

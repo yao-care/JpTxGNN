@@ -27,7 +27,7 @@ description: "Imipenem：予測新適応症はびまん性強皮症 (Diffuse Scl
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -119,6 +119,7 @@ TxGNN モデルは**びまん性強皮症 (Diffuse Scleroderma)** に有効で�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

@@ -5,8 +5,6 @@ parent: モデル予測のみ
 nav_order: 62
 evidence_level: L5
 indication_count: 1
-monitor_inn: "Carteolol"
-predicted_indications: ["primary hereditary glaucoma"]
 last_modified_at: 2026-10-17
 description: "Carteolol：予測新適応症は原発性遺伝性緑内障 (Primary Hereditary Glaucoma)（エビデンスレベル L5）。既存適応症：高血圧症、開放隅角緑内障、高眼圧症"
 ---
@@ -27,7 +25,7 @@ description: "Carteolol：予測新適応症は原発性遺伝性緑内障 (Prim
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -95,6 +93,7 @@ TxGNN モデルは**原発性遺伝性緑内障 (Primary Hereditary Glaucoma)** 
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-17
 description: "Phenytoin：予測新適応症は三叉神経腫瘍 (Trigeminal Nerve Neoplasm)（エビデンスレベル L5）。既存適応症：抗てんかん薬"
 monitor_inn: "Phenytoin"
-predicted_indications: ["trigeminal nerve neoplasm", "micturation-induced seizures", "orgasm-induced seizures", "thinking seizures", "eating seizures", "audiogenic seizures", "reading seizures", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
+predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
 ---
 
 # Phenytoin
@@ -27,7 +27,7 @@ predicted_indications: ["trigeminal nerve neoplasm", "micturation-induced seizur
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -106,6 +106,7 @@ TxGNN モデルは**三叉神経腫瘍 (Trigeminal Nerve Neoplasm)** に有効�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

@@ -27,7 +27,7 @@ description: "Haloperidol：予測新適応症はフコシル化欠損を伴う�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -127,6 +127,7 @@ TxGNN モデルは**フコシル化欠損を伴う先天性グリコシル化異
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

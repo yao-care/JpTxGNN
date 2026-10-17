@@ -27,7 +27,7 @@ predicted_indications: ["renal-hepatic-pancreatic dysplasia", "karyomegalic inte
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -129,6 +129,7 @@ ADPKD に対しては大規模な第 3 相 RCT があり、トルバプタンの
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

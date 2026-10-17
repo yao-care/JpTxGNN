@@ -25,7 +25,7 @@ description: "Isosorbide Dinitrate：予測新適応症は肺高血圧症 (pulmo
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 

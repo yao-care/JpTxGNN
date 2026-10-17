@@ -27,7 +27,7 @@ predicted_indications: ["Dahlberg-Borer-Newcomer syndrome", "craniofacial conody
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -103,6 +103,7 @@ TxGNN モデルは**家族性孤立性副甲状腺機能低下症（PTH 分泌�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

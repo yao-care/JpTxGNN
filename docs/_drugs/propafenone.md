@@ -27,7 +27,7 @@ predicted_indications: ["manic bipolar affective disorder", "periodic paralysis 
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -145,6 +145,7 @@ PMDA の添付文書にある警告・禁忌は、今回のデータには含ま
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

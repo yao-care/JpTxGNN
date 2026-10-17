@@ -27,7 +27,7 @@ predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndr
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -109,6 +109,7 @@ TxGNN モデルは**古典的スティッフパーソン症候群 (Classic Stiff
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

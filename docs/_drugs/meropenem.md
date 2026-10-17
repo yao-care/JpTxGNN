@@ -27,7 +27,7 @@ description: "Meropenem：予測新適応症は尿路感染症 (Urinary Tract In
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -131,6 +131,7 @@ TxGNN モデルは複数の新規適応症を予測しており、最上位は**
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

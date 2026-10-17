@@ -27,7 +27,7 @@ predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous micro
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -110,6 +110,7 @@ TxGNN モデルは、先天性の発生異常である**合指（趾）症を伴
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

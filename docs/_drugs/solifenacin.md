@@ -27,7 +27,7 @@ description: "Solifenacin：予測新適応症は多発性嚢胞腎 3 型（多�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -130,6 +130,7 @@ TxGNN モデルは**多発性嚢胞腎 3 型（多発性嚢胞肝を伴う場合
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

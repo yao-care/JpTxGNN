@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-17
 description: "Codeine：予測新適応症は鼻腔疾患 (nasal cavity disease)（エビデンスレベル L4）。既存適応症：麻薬性鎮痛薬、鎮咳薬、オピオイド受容体作動薬"
 monitor_inn: "Codeine"
-predicted_indications: ["trigeminal autonomic cephalalgia", "allergic urticaria", "faucial diphtheria", "cervical disc degenerative disorder", "papillary conjunctivitis", "tracheal disease", "cold urticaria", "bronchial disease"]
+predicted_indications: ["acute laryngopharyngitis", "trigeminal autonomic cephalalgia", "allergic urticaria", "faucial diphtheria", "cervical disc degenerative disorder", "papillary conjunctivitis", "tracheal disease", "cold urticaria", "bronchial disease"]
 ---
 
 # Codeine
@@ -27,7 +27,7 @@ predicted_indications: ["trigeminal autonomic cephalalgia", "allergic urticaria"
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -114,11 +114,12 @@ TxGNN モデルは**鼻腔疾患 (nasal cavity disease)** に有効である可�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 
 同じ成分を含む日本の医薬品です。以下の名称でも検索できます。
 
-**販売名（規格別）**：コデインリン酸塩散1%、コデインリン酸塩散1%〈ハチ〉、コデインリン酸塩散10%、コデインリン酸塩水和物、コデインリン酸塩水和物原末、コデインリン酸塩錠 20mg、コデインリン酸塩錠 5mg、コデインリン酸塩錠20mg、コデインリン酸塩錠5mg、ジヒドロコデインリン酸塩、ジヒドロコデインリン酸塩原末、ジヒドロコデインリン酸塩散1%、ジヒドロコデインリン酸塩散1%〈ハチ〉、ジヒドロコデインリン酸塩散10%
+**販売名（規格別）**：コデインリン酸塩散1%、コデインリン酸塩散1%〈ハチ〉、コデインリン酸塩散10%、コデインリン酸塩水和物、コデインリン酸塩水和物原末、コデインリン酸塩錠 20mg、コデインリン酸塩錠 5mg、コデインリン酸塩錠20mg、コデインリン酸塩錠5mg
 <!-- brand-names:end -->
 

@@ -27,7 +27,7 @@ predicted_indications: ["febrile infection-related epilepsy syndrome", "perioral
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -113,6 +113,7 @@ FIRES は、それまで健康だった小児に発症する新規発症難治�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

@@ -27,7 +27,7 @@ predicted_indications: ["migraine with brainstem aura", "migraine disorder", "pu
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -151,6 +151,7 @@ L 型カルシウムチャネル遮断は、脳血管の緊張や神経の興奮
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

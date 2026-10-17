@@ -27,7 +27,7 @@ description: "Ticlopidine：予測新適応症は関節リウマチ (Rheumatoid 
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -114,6 +114,7 @@ TxGNN モデルは**関節リウマチ (Rheumatoid Arthritis)** に有効であ�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

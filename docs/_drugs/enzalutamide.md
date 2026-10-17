@@ -27,7 +27,7 @@ predicted_indications: ["prostate leiomyoma", "Brenner tumor", "fibroma of prost
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -113,6 +113,7 @@ TxGNN モデルは **前立腺癌/脳腫瘍感受性 (prostate cancer/brain canc
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

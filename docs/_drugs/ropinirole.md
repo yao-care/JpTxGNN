@@ -27,7 +27,7 @@ description: "Ropinirole：予測新適応症は注意欠如・多動症 (Attent
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -125,6 +125,7 @@ TxGNN モデルは**注意欠如・多動症 (Attention Deficit-Hyperactivity Di
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

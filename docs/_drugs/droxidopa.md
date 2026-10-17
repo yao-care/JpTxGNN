@@ -27,7 +27,7 @@ description: "Droxidopa：予測新適応症は変異プロテアーゼ感受性
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -100,6 +100,7 @@ TxGNN のスコアは高いものの、この予測を支持する臨床試験�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

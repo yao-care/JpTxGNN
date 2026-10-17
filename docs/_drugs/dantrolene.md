@@ -27,7 +27,7 @@ predicted_indications: ["moderate multiminicore disease with hand involvement", 
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -115,6 +115,7 @@ TxGNN モデルは**悪性高熱症感受性 (malignant hyperthermia, susceptibi
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

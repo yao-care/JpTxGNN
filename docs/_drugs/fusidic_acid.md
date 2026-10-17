@@ -27,7 +27,7 @@ predicted_indications: ["otitis externa", "postinfectious vasculitis", "post-bac
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -103,6 +103,7 @@ TxGNN モデルは**暴露性角膜炎 (Exposure Keratitis)** に有効である
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

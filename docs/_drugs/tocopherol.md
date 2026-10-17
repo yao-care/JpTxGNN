@@ -27,7 +27,7 @@ description: "Tocopherol：予測新適応症は硬化性胆管炎 (Sclerosing C
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -121,6 +121,7 @@ TxGNN は他にも以下の候補を予測しています。いずれも現時�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

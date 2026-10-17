@@ -27,7 +27,7 @@ predicted_indications: ["malignant hypertensive renal disease", "pulmonary hyper
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -117,6 +117,7 @@ ARB は AT1 受容体を遮断し、アンジオテンシンII による血管�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

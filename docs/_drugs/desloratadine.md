@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-10-17
 description: "Desloratadine：予測新適応症は寒冷蕁麻疹 (Cold Urticaria)（エビデンスレベル L1）。既存適応症：アレルギー性鼻炎、血管運動性鼻炎、特発性蕁麻疹、アレルギー性蕁麻疹、アトピー性結膜炎など"
 monitor_inn: "Desloratadine"
-predicted_indications: ["cold urticaria", "nasal cavity disease", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic", "rosacea conjunctivitis"]
+predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic"]
 ---
 
 # Desloratadine
@@ -27,7 +27,7 @@ predicted_indications: ["cold urticaria", "nasal cavity disease", "recalcitrant 
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -122,6 +122,7 @@ TxGNN モデルは**寒冷蕁麻疹 (Cold Urticaria)** に有効である可能�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

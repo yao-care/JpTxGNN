@@ -11,18 +11,18 @@ permalink: /smart/project-intro-en/
 
 ## Overview
 
-JpTxGNN is a drug repurposing prediction platform for Japanese medicines, based on Harvard's TxGNN deep learning model. The system predicts potential new indications for approved medications using knowledge graph and deep learning approaches.
+JpTxGNN is a drug repurposing prediction platform for Japanese medicines, based on Harvard's TxGNN deep learning model. The system predicts potential new indications for approved medications with the TxGNN deep learning model, after excluding uses already recorded in the knowledge graph.
 
 ---
 
 ## Key Features
 
-### Dual Prediction Methods
+### Prediction Method
 
-| Method | Description | Speed | Accuracy |
-|--------|-------------|-------|----------|
-| **Knowledge Graph (KG)** | Query existing drug-disease relationships in TxGNN knowledge graph | Fast (minutes) | Medium |
-| **Deep Learning (DL)** | Neural network model prediction with confidence scores | Slow (hours) | High |
+| Step | Description |
+|------|-------------|
+| **Deep Learning (DL)** | TxGNN neural network scores each drug–disease pair; drug pages list scores ≥ 0.99 |
+| **Known-use check (KG)** | Drug–disease relationships already recorded in the TxGNN knowledge graph are excluded; they are known uses, not predictions |
 
 ### Japanese Medicine Focus
 

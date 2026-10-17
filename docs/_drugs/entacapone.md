@@ -27,7 +27,7 @@ predicted_indications: ["PLA2G6-associated neurodegeneration", "Rasmussen subacu
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -120,6 +120,7 @@ PLA2G6 関連神経変性症にはジストニア・パーキンソニズムの�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 
@@ -128,5 +129,7 @@ PLA2G6 関連神経変性症にはジストニア・パーキンソニズムの�
 **商品名**：コムタン
 
 **販売名（規格別）**：エンタカポン錠100mg、コムタン錠100mg
+
+**配合剤（この成分を含む）**：スタレボ配合錠L100、スタレボ配合錠L50
 <!-- brand-names:end -->
 

@@ -27,7 +27,7 @@ description: "Sennosides：予測新適応症は頭皮の単純性乏毛症 (hyp
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -96,6 +96,7 @@ TxGNN モデルは**頭皮の単純性乏毛症 (hypotrichosis simplex of the sc
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

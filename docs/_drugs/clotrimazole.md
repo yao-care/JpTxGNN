@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-17
 description: "Clotrimazole：予測新適応症はニキビ (acne)（エビデンスレベル L5）。既存適応症：抗真菌薬（エルゴステロール合成阻害薬）：カンジダに起因する腟炎および外陰腟炎、白癬、カンジダ症、癜風、口腔カンジダ症"
 monitor_inn: "Clotrimazole"
-predicted_indications: ["acne (disease)", "postmenopausal atrophic vaginitis", "trichomonal vulvovaginitis", "tinea profunda", "ectothrix infectious disease", "Majocchi granuloma", "endothrix infectious disease", "dermatophytosis of scalp or beard"]
+predicted_indications: ["acne (disease)", "trichomonal vulvovaginitis", "ectothrix infectious disease", "Majocchi granuloma", "endothrix infectious disease"]
 ---
 
 # Clotrimazole
@@ -27,7 +27,7 @@ predicted_indications: ["acne (disease)", "postmenopausal atrophic vaginitis", "
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -124,6 +124,7 @@ TxGNN モデルの予測で最上位となったのは **ニキビ (acne)** で�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

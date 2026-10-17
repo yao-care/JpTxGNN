@@ -27,7 +27,7 @@ predicted_indications: ["homozygous familial hypercholesterolemia", "cholesterol
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -131,6 +131,7 @@ PPARα の活性化は、リポ蛋白リパーゼ活性の上昇と肝臓での 
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

@@ -27,7 +27,7 @@ predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipom
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -123,6 +123,7 @@ TxGNN モデルは **未分類腎細胞癌 (unclassified renal cell carcinoma)**
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

@@ -25,7 +25,7 @@ description: "Naftifine：予測新適応症は皮膚カンジダ症、癜風、
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 

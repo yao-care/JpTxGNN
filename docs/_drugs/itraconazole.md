@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-17
 description: "Itraconazole：予測新適応症はニューモシスチス症 (pneumocystosis)（エビデンスレベル L5）。既存適応症：抗真菌薬（エルゴステロール合成阻害薬）：スポロトリコーシス、クロモミコーシス、白癬、カンジダ症、慢性皮膚粘膜カンジダ症、癜風、爪白癬…"
 monitor_inn: "Itraconazole"
-predicted_indications: ["pneumocystosis", "Cryptococcal meningitis", "hyalohyphomycosis", "geotrichosis", "penicilliosis", "maple bark strippers' lung", "leprosy", "congenital candidiasis", "candida glabrata"]
+predicted_indications: ["pneumocystosis", "Cryptococcal meningitis", "hyalohyphomycosis", "geotrichosis", "penicilliosis", "maple bark strippers' lung", "leprosy"]
 ---
 
 # Itraconazole
@@ -27,7 +27,7 @@ predicted_indications: ["pneumocystosis", "Cryptococcal meningitis", "hyalohypho
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -123,6 +123,7 @@ TxGNN モデルは**ニューモシスチス症 (pneumocystosis)** に有効で�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

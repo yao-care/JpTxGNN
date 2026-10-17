@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 239
 evidence_level: L5
 indication_count: 10
-monitor_inn: "Perampanel"
-predicted_indications: ["visual epilepsy", "startle epilepsy", "thinking seizures", "orgasm-induced seizures", "micturation-induced seizures", "audiogenic seizures", "eating seizures", "reading seizures", "beta-ketothiolase deficiency", "status epilepticus"]
 last_modified_at: 2026-10-17
 description: "Perampanel：予測新適応症は視覚てんかん (Visual Epilepsy)（エビデンスレベル L5）。既存適応症：部分てんかん、部分運動性てんかん"
+monitor_inn: "Perampanel"
+predicted_indications: ["beta-ketothiolase deficiency"]
 ---
 
 # Perampanel
@@ -27,7 +27,7 @@ description: "Perampanel：予測新適応症は視覚てんかん (Visual Epile
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -126,6 +126,7 @@ TxGNN モデルは**視覚てんかん (Visual Epilepsy)** に有効である可
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

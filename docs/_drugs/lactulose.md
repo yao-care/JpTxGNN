@@ -27,7 +27,7 @@ description: "Lactulose：予測新適応症は閉塞性黄疸 (Obstructive Jaun
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -118,6 +118,7 @@ TxGNN モデルの第1位予測は急性尿酸腎症でしたが、裏付けと�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

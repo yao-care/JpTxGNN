@@ -27,7 +27,7 @@ predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotr
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -124,6 +124,7 @@ TxGNN モデルは**脱毛症 (Alopecia)** に有効である可能性を予測�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

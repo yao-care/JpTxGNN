@@ -27,7 +27,7 @@ description: "Clarithromycin：予測新適応症は高アミラーゼ血症 (Hy
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -128,6 +128,7 @@ MGUS 方向では、クラリスロマイシンがオートファジーを阻害
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

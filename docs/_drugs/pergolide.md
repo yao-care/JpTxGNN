@@ -27,7 +27,7 @@ description: "Pergolide：予測新適応症はフコシル化欠損を伴う先
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -124,6 +124,7 @@ description: "Pergolide：予測新適応症はフコシル化欠損を伴う先
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

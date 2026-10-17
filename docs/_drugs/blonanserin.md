@@ -27,7 +27,7 @@ description: "Blonanserin：予測新適応症は眼外異常を伴う…（エ�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -90,6 +90,7 @@ TxGNN モデルは**遺伝性網膜ジストロフィー（retinal dystrophy wit
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

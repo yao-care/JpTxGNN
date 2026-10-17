@@ -25,7 +25,7 @@ description: "Alirocumab：予測新適応症は黄色腫症（Xanthomatosis）�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 

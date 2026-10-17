@@ -27,7 +27,7 @@ predicted_indications: ["acute contagious conjunctivitis", "conjunctivitis", "ga
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -114,6 +114,7 @@ TxGNN モデルは**急性伝染性結膜炎 (Acute Contagious Conjunctivitis)**
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

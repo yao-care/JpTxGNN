@@ -27,7 +27,7 @@ description: "Temozolomide：予測新適応症は成人星細胞性腫瘍 (Adul
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -126,6 +126,7 @@ TxGNN モデルは**成人星細胞性腫瘍 (Adult Astrocytic Tumour)** に有�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

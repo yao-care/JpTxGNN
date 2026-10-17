@@ -27,7 +27,7 @@ predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome",
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -107,6 +107,7 @@ TxGNN モデルは**高アミラーゼ血症 (Hyperamylasemia)** に有効であ
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

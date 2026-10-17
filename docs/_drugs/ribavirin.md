@@ -25,7 +25,7 @@ description: "Ribavirin：予測新適応症は慢性 B 型肝炎ウイルス感
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 

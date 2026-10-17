@@ -27,7 +27,7 @@ description: "Ondansetron：予測新適応症はトゥレット症候群 (Toure
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -121,6 +121,7 @@ QT延長を起こす薬剤やセロトニン作用薬との併用には特に注
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

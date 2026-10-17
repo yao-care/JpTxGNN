@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-17
 description: "Atenolol：予測新適応症は後外側心筋梗塞 (Posterolateral Myocardial Infarction)（エビデンスレベル L5）。既存適応症：本態性高血圧症、狭心症、期外収縮（抗不整脈薬・血圧降下薬・血管拡張薬・β1遮断薬）"
 monitor_inn: "Atenolol"
-predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "chronic pulmonary heart disease", "primary hereditary glaucoma"]
+predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "primary hereditary glaucoma"]
 ---
 
 # Atenolol
@@ -27,7 +27,7 @@ predicted_indications: ["malignant hypertensive renal disease", "pulmonary hyper
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -117,6 +117,7 @@ TxGNN モデルは**後外側心筋梗塞 (Posterolateral Myocardial Infarction)
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

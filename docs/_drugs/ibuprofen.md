@@ -27,7 +27,7 @@ description: "Ibuprofen：予測新適応症は先端中間異形成 Hunter-Thom
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -105,6 +105,7 @@ TxGNN モデルは**先端中間異形成 Hunter-Thompson 型 (acromesomelic dys
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

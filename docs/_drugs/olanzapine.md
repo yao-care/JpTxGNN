@@ -27,7 +27,7 @@ predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -125,6 +125,7 @@ TxGNN の上位 10 件のうち、エビデンスに差があります。参考�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

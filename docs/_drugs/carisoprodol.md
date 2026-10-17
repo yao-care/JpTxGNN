@@ -27,7 +27,7 @@ description: "Carisoprodol：予測新適応症は失眠 (insomnia)（エビデ�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 

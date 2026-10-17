@@ -27,7 +27,7 @@ description: "Tranexamic Acid：予測新適応症は閉經 (amenorrhea)（エ�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 

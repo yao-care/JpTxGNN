@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-17
 description: "Troxipide：予測新適応症は食道炎 (Esophagitis)（エビデンスレベル L5）。既存適応症：消化性潰瘍薬（胃潰瘍）"
 monitor_inn: "troxipide"
-predicted_indications: ["esophagitis (disease)", "hiatus hernia (disease)", "gastrojejunal ulcer", "achlorhydria", "gastric dilatation", "Dieulafoy lesion", "pylorospasm", "cascade stomach"]
+predicted_indications: ["esophagitis (disease)", "hiatus hernia (disease)", "achlorhydria", "gastric dilatation", "Dieulafoy lesion", "pylorospasm", "cascade stomach"]
 ---
 
 # Troxipide
@@ -27,7 +27,7 @@ predicted_indications: ["esophagitis (disease)", "hiatus hernia (disease)", "gas
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -115,6 +115,7 @@ TxGNN は食道炎のほかにも、次の疾患を上位候補として予測�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

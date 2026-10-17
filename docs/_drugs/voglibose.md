@@ -27,7 +27,7 @@ predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotr
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -114,6 +114,7 @@ TxGNN モデルの予測スコア第1位は**頭皮の単純性乏毛症 (hypotr
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

@@ -25,7 +25,7 @@ description: "Ritonavir：予測新適応症はサル免疫不全ウイルス感
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 

@@ -27,7 +27,7 @@ predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndr
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -107,6 +107,7 @@ TxGNN モデルは**限局性硬直肢症候群 (Focal Stiff Limb Syndrome)** �
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

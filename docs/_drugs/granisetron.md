@@ -27,7 +27,7 @@ description: "Granisetron：予測新適応症は躁病性双極性感情障害 
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -102,6 +102,7 @@ QT 延長リスクに関わる薬剤（アミオダロン、アミスルプリ�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

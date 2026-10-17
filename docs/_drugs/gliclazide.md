@@ -27,7 +27,7 @@ description: "Gliclazide：予測新適応症はfocal stiff limb syndrome（限�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -97,6 +97,7 @@ focal stiff limb syndrome に対しては、GABA 作動系の障害や自己免�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

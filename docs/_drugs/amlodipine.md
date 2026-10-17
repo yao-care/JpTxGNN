@@ -27,7 +27,7 @@ predicted_indications: ["brain stem infarction", "pulmonary hypertension owing t
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -125,6 +125,7 @@ TxGNN モデルは**脳幹梗塞 (Brain Stem Infarction)** に有効である可
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

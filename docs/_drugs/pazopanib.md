@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-17
 description: "Pazopanib：予測新適応症は未分類腎細胞癌 (unclassified renal cell carcinoma)（エビデンスレベル L2）。既存適応症：腎細胞癌、軟部肉腫（日本の承認適応症テキストは未登録）"
 monitor_inn: "Pazopanib"
-predicted_indications: ["fibroblastic neoplasm"]
+predicted_indications: ["ovarian myxoid liposarcoma", "heart fibrosarcoma", "fibroblastic neoplasm", "kidney fibrosarcoma", "dermatofibrosarcoma protuberans"]
 ---
 
 # Pazopanib
@@ -27,7 +27,7 @@ predicted_indications: ["fibroblastic neoplasm"]
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -132,6 +132,7 @@ TxGNN モデルは**未分類腎細胞癌 (unclassified renal cell carcinoma)** 
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

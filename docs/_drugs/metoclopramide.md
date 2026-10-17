@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-17
 description: "Metoclopramide：予測新適応症は胃潰瘍 (Gastric Ulcer)（エビデンスレベル L4）。既存適応症：制吐薬、消化管運動改善薬、ドパミン D2 受容体拮抗薬（胃・十二指腸潰瘍）"
 monitor_inn: "Metoclopramide"
-predicted_indications: ["gastric ulcer (disease)", "gastroduodenitis", "peptic ulcer perforation", "gastrojejunal ulcer", "duodenal obstruction", "achlorhydria", "hiatus hernia (disease)", "Dieulafoy lesion", "cascade stomach"]
+predicted_indications: ["gastroduodenitis", "duodenal obstruction", "achlorhydria", "hiatus hernia (disease)", "Dieulafoy lesion", "cascade stomach"]
 ---
 
 # Metoclopramide
@@ -27,7 +27,7 @@ predicted_indications: ["gastric ulcer (disease)", "gastroduodenitis", "peptic u
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -126,6 +126,7 @@ TxGNN モデルは**胃潰瘍 (Gastric Ulcer)** に有効である可能性を�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

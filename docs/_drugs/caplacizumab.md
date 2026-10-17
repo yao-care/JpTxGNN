@@ -27,7 +27,7 @@ description: "Caplacizumab：予測新適応症は血小板原發釋放障礙 (p
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 

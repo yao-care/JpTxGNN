@@ -27,7 +27,7 @@ description: "Empagliflozin：予測新適応症はfocal stiff limb syndrome（�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -102,6 +102,7 @@ focal stiff limb syndrome は、スティフパーソン症候群の仲間に属
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

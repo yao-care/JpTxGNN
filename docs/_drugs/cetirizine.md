@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-17
 description: "Cetirizine：予測新適応症はアレルギー性蕁麻疹 (Allergic Urticaria)（エビデンスレベル L2）。既存適応症：アレルギー性鼻炎"
 monitor_inn: "Cetirizine"
-predicted_indications: ["allergic urticaria", "cold urticaria", "rosacea conjunctivitis", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic", "angioedema", "punctate epithelial keratoconjunctivitis", "trigeminal autonomic cephalalgia"]
+predicted_indications: ["acute laryngopharyngitis", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic", "trigeminal autonomic cephalalgia"]
 ---
 
 # Cetirizine
@@ -27,7 +27,7 @@ predicted_indications: ["allergic urticaria", "cold urticaria", "rosacea conjunc
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -131,6 +131,7 @@ TxGNN モデルは**アレルギー性蕁麻疹 (Allergic Urticaria)** に有効
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

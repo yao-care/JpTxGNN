@@ -27,7 +27,7 @@ description: "Deferasirox：予測新適応症はHIV 感染症 (HIV infectious d
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -112,6 +112,7 @@ HIV 感染症への有効性を支持するのは in vitro 研究と総説のみ
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

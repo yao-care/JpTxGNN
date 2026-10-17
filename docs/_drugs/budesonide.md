@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 53
 evidence_level: L4
 indication_count: 10
-monitor_inn: "Budesonide"
-predicted_indications: ["atopic eczema", "bronchitis", "dermatitis, atopic", "polyp of vocal cord", "polyp of middle ear", "epulis", "fibroepithelial polyp", "uterine polyp", "polyp of frontal sinus", "polyp of external auditory canal"]
 last_modified_at: 2026-10-17
 description: "Budesonide：予測新適応症はアトピー性湿疹 (atopic eczema)（エビデンスレベル L4）。既存適応症：気管支喘息、クローン病、潰瘍性大腸炎"
+monitor_inn: "Budesonide"
+predicted_indications: ["atopic eczema", "dermatitis, atopic", "polyp of vocal cord", "polyp of middle ear", "epulis", "fibroepithelial polyp", "uterine polyp", "polyp of frontal sinus", "polyp of external auditory canal"]
 ---
 
 # Budesonide
@@ -27,7 +27,7 @@ description: "Budesonide：予測新適応症はアトピー性湿疹 (atopic ec
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -128,6 +128,7 @@ TxGNN モデルは**アトピー性湿疹 (atopic eczema)** に有効である�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

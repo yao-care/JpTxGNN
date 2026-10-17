@@ -27,7 +27,7 @@ predicted_indications: ["duodenal obstruction", "abnormality of glucagon secreti
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -118,12 +118,13 @@ TxGNN モデルは**くすぶり型全身性肥満細胞症 (Smouldering systemi
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 
 同じ成分を含む日本の医薬品です。以下の名称でも検索できます。
 
-**商品名**：パリエット、ラベプラゾールナトリウム
+**商品名**：パリエット
 
 **販売名（規格別）**：パリエット錠10mg、パリエット錠20mg、パリエット錠5mg、ラベプラゾールNa塩錠10mg、ラベプラゾールNa塩錠20mg、ラベプラゾールNa塩錠5mg、ラベプラゾールNa錠10mg、ラベプラゾールNa錠20mg、ラベプラゾールNa錠5mg、ラベプラゾールナトリウム10mg錠、ラベプラゾールナトリウム20mg錠、ラベプラゾールナトリウム5mg錠、ラベプラゾールナトリウム錠10mg、ラベプラゾールナトリウム錠20mg、ラベプラゾールナトリウム錠5mg
 <!-- brand-names:end -->

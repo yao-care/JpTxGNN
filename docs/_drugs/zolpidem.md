@@ -27,7 +27,7 @@ description: "Zolpidem：予測新適応症は睡眠障害（入眠・睡眠維�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -129,6 +129,7 @@ TxGNN は他にも候補を予測していますが、いずれも直接の支�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

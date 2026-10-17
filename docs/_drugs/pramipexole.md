@@ -27,7 +27,7 @@ description: "Pramipexole：予測新適応症は注意欠如・多動症 (atten
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -116,6 +116,7 @@ ADHD の予測スコアは非常に高いものの、直接の臨床試験はな
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

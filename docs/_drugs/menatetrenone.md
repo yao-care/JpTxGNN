@@ -27,7 +27,7 @@ description: "Menatetrenone：予測新適応症は結膜脂肪腫 (lipoma of th
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -96,6 +96,7 @@ TxGNN モデルは**結膜脂肪腫 (lipoma of the conjunctiva)** に有効で�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

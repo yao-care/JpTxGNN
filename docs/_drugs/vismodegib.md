@@ -25,7 +25,7 @@ description: "Vismodegib：予測新適応症は色素性乾皮症 (Xeroderma Pi
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 

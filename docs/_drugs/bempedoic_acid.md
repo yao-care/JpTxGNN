@@ -25,7 +25,7 @@ description: "Bempedoic Acid：予測新適応症はホモ接合体家族性高�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 

@@ -27,7 +27,7 @@ description: "Rivastigmine：予測新適応症は緑内障 (Glaucoma)（エビ�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -114,6 +114,7 @@ TxGNN モデルは**緑内障 (Glaucoma)** に有効である可能性を予測�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

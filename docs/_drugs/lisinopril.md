@@ -27,7 +27,7 @@ predicted_indications: ["pulmonary hypertension with unclear multifactorial mech
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -128,6 +128,7 @@ TxGNN モデルは**後下壁心筋梗塞 (posteroinferior myocardial infarction
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

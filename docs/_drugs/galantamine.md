@@ -27,7 +27,7 @@ description: "Galantamine：予測新適応症は心因性運動障害 (Psychoge
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -140,6 +140,7 @@ TxGNN モデルは**心因性運動障害 (Psychogenic Movement Disorders)** に
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

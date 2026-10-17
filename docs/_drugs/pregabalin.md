@@ -27,7 +27,7 @@ description: "Pregabalin：予測新適応症は腱炎 (Tendinitis)（最上位�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -140,6 +140,7 @@ TxGNN モデルの予測順位 1 位は**腱炎 (Tendinitis)** ですが、実�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

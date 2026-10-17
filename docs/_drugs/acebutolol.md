@@ -25,7 +25,7 @@ description: "Acebutolol：予測新適応症は悪性腎血管性高血圧 (mal
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 

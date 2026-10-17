@@ -25,7 +25,7 @@ description: "Dronedarone：予測新適応症は脳卒中 (stroke disorder)（�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 

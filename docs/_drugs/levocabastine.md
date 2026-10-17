@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 182
 evidence_level: L4
 indication_count: 2
-monitor_inn: "Levocabastine"
-predicted_indications: ["allergic urticaria", "rosacea conjunctivitis"]
 last_modified_at: 2026-10-17
 description: "Levocabastine：予測新適応症はアレルギー性蕁麻疹 (Allergic Urticaria)（エビデンスレベル L4）。既存適応症：アトピー性結膜炎、乳頭性結膜炎、春季カタル（承認書の適応症テキストは空欄）"
+monitor_inn: "Levocabastine"
+predicted_indications: ["allergic urticaria"]
 ---
 
 # Levocabastine
@@ -27,7 +27,7 @@ description: "Levocabastine：予測新適応症はアレルギー性蕁麻疹 (
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -108,6 +108,7 @@ H1 拮抗という機序は蕁麻疹に対して妥当ですが、臨床試験�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-17
 description: "Dorzolamide：予測新適応症は原発性遺伝性緑内障 (primary hereditary glaucoma)（エビデンスレベル L5）。既存適応症：開放隅角緑内障、高眼圧症"
 monitor_inn: "dorzolamide"
-predicted_indications: ["primary hereditary glaucoma", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "alopecia", "diffuse alopecia areata", "congestive heart failure", "acute pulmonary heart disease", "respiratory failure"]
+predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "alopecia", "diffuse alopecia areata", "congestive heart failure", "acute pulmonary heart disease", "respiratory failure"]
 ---
 
 # Dorzolamide
@@ -27,7 +27,7 @@ predicted_indications: ["primary hereditary glaucoma", "hypotrichosis simplex of
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -112,6 +112,7 @@ TxGNN モデルは**原発性遺伝性緑内障 (primary hereditary glaucoma)** 
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

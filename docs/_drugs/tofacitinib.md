@@ -26,7 +26,7 @@ last_modified_at: 2026-04-19
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 

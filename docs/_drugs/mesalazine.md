@@ -27,7 +27,7 @@ description: "Mesalazine：予測新適応症は若年性黄斑ジストロフ�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -109,6 +109,7 @@ TxGNN モデルは**若年性黄斑ジストロフィーを伴う先天性乏毛
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

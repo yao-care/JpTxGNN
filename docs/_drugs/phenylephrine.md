@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-10-17
 description: "Phenylephrine：予測新適応症は鼻腔疾患 (Nasal Cavity Disease)（エビデンスレベル L4）。既存適応症：アレルギー性鼻炎、血管運動性鼻炎、咽頭炎、風邪、結膜炎など"
 monitor_inn: "Phenylephrine"
-predicted_indications: ["trigeminal autonomic cephalalgia"]
+predicted_indications: ["acute laryngopharyngitis", "trigeminal autonomic cephalalgia"]
 ---
 
 # Phenylephrine
@@ -27,7 +27,7 @@ predicted_indications: ["trigeminal autonomic cephalalgia"]
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -115,11 +115,14 @@ TxGNN モデルは**鼻腔疾患 (Nasal Cavity Disease)** に有効である可�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 
 同じ成分を含む日本の医薬品です。以下の名称でも検索できます。
 
 **販売名（規格別）**：ネオシネジンコーワ5%点眼液、ネオシネジンコーワ注1mg 0.1%1mL、ネオシネジンコーワ注5mg 0.5%1mL
+
+**配合剤（この成分を含む）**：ミドリンP点眼液
 <!-- brand-names:end -->
 

@@ -27,7 +27,7 @@ predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -126,6 +126,7 @@ TxGNN モデルは**脳幹性前兆を伴う片頭痛 (Migraine with Brainstem A
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

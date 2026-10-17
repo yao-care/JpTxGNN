@@ -27,7 +27,7 @@ description: "Leflunomide：予測新適応症は先端短指症・合指症症�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -103,6 +103,7 @@ TxGNN モデルは**先端短指症・合指症症候群 (brachydactyly-syndacty
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

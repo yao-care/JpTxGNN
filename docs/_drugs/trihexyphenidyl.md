@@ -27,7 +27,7 @@ description: "Trihexyphenidyl：予測新適応症は注意欠如・多動症 (a
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -121,6 +121,7 @@ ADHD に対する臨床試験はなく、文献もチックとジストニアの
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

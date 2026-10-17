@@ -27,7 +27,7 @@ description: "Limaprost：予測新適応症は遺伝性フォンヴィレブラ
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -108,6 +108,7 @@ TxGNN モデルは**遺伝性フォンヴィレブランド病 (hereditary von W
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

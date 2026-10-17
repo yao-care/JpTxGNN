@@ -27,7 +27,7 @@ description: "Panitumumab：予測新適応症は薬剤性骨粗鬆症 (Drug-ind
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -115,6 +115,7 @@ EGFR シグナルは骨芽細胞の分化や骨リモデリングに関与する
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

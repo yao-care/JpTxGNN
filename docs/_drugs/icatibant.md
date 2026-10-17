@@ -25,7 +25,7 @@ description: "Icatibant：予測新適応症はC1 Inhibitor Deficiency（エビ�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 

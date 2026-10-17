@@ -27,7 +27,7 @@ description: "Benzbromarone：予測新適応症は腎性低尿酸血症 (Hypour
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -114,6 +114,7 @@ TxGNN の高スコアは、薬物・標的・疾患の関連性を反映した�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

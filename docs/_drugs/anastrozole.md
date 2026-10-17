@@ -5,10 +5,10 @@ parent: 高エビデンスレベル
 nav_order: 27
 evidence_level: L1
 indication_count: 6
-monitor_inn: "anastrozole"
-predicted_indications: ["female breast carcinoma", "neuroblastoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "monocytic leukemia"]
 last_modified_at: 2026-10-17
 description: "Anastrozole：予測新適応症は女性乳癌 (female breast carcinoma)（エビデンスレベル L1）。既存適応症：閉経後乳癌"
+monitor_inn: "anastrozole"
+predicted_indications: ["neuroblastoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "monocytic leukemia"]
 ---
 
 # Anastrozole
@@ -27,7 +27,7 @@ description: "Anastrozole：予測新適応症は女性乳癌 (female breast car
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -145,6 +145,7 @@ TxGNN モデルは**女性乳癌 (female breast carcinoma)** に有効である�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

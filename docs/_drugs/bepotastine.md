@@ -27,7 +27,7 @@ description: "Bepotastine：予測新適応症はアレルギー性蕁麻疹 (Al
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -112,6 +112,7 @@ TxGNN モデルは**アレルギー性蕁麻疹 (Allergic Urticaria)** に有効
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

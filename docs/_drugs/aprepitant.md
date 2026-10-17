@@ -27,7 +27,7 @@ description: "Aprepitant：予測新適応症は腎性不適切抗利尿症候�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -98,6 +98,7 @@ NSIAD は V2 受容体の活性化変異によって起こる疾患です。サ�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

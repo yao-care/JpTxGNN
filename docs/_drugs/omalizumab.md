@@ -25,7 +25,7 @@ description: "Omalizumab：予測新適応症は気管支炎、アトピー性�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 

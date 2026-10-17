@@ -27,7 +27,7 @@ description: "Oxaliplatin：予測新適応症は悪性胸膜中皮腫 (Malignan
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -139,6 +139,7 @@ TxGNN モデルは**悪性胸膜中皮腫 (Malignant Pleural Mesothelioma)** に
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

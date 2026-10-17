@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-17
 description: "Carbamazepine：予測新適応症は三叉神経腫瘍 (trigeminal nerve neoplasm)（エビデンスレベル L4）。既存適応症：躁病、躁うつ病の躁状態、統合失調症、三叉神経痛（鎮痛薬・抗てんかん薬）"
 monitor_inn: "Carbamazepine"
-predicted_indications: ["trigeminal nerve neoplasm", "thinking seizures", "orgasm-induced seizures", "eating seizures", "micturation-induced seizures", "audiogenic seizures", "reading seizures", "beta-ketothiolase deficiency", "Rett syndrome, congenital variant"]
+predicted_indications: ["trigeminal nerve neoplasm", "beta-ketothiolase deficiency", "Rett syndrome, congenital variant"]
 ---
 
 # Carbamazepine
@@ -27,7 +27,7 @@ predicted_indications: ["trigeminal nerve neoplasm", "thinking seizures", "orgas
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -116,6 +116,7 @@ TxGNN モデルは**三叉神経腫瘍 (trigeminal nerve neoplasm)** に有効�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

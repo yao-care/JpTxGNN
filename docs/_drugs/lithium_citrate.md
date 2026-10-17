@@ -27,7 +27,7 @@ description: "Lithium Citrate：予測新適応症はMalan 過成長症候群 (M
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -121,6 +121,7 @@ Malan 過成長症候群について、関連する文献は現在ありませ�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

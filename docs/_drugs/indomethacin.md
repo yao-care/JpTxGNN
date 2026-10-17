@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 162
 evidence_level: L5
 indication_count: 10
-monitor_inn: "Indomethacin"
-predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "WHIM syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "brachyolmia", "myosclerosis", "juvenile idiopathic arthritis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "rheumatoid nodulosis"]
 last_modified_at: 2026-10-17
 description: "Indomethacin：予測新適応症は短指症候群 (Brachydactyly-Syndactyly Syndrome)（エビデンスレベル L5）。既存適応症：関節リウマチ、痛風発作（鎮痛薬・抗炎症薬・解熱薬）"
+monitor_inn: "Indomethacin"
+predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "WHIM syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "brachyolmia", "myosclerosis", "rheumatoid nodulosis"]
 ---
 
 # Indomethacin
@@ -27,7 +27,7 @@ description: "Indomethacin：予測新適応症は短指症候群 (Brachydactyly
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -125,6 +125,7 @@ TxGNN モデルは、先天性の肢形成異常である**短指症候群 (Brac
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

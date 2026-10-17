@@ -27,7 +27,7 @@ predicted_indications: ["PLA2G6-associated neurodegeneration", "Rasmussen subacu
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -108,6 +108,7 @@ PLA2G6 関連神経変性症にはパーキンソニズム（PARK14）を呈す�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

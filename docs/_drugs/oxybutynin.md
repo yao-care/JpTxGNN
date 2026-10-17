@@ -27,7 +27,7 @@ description: "Oxybutynin：予測新適応症は下肢静止不能症候群 (Res
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -110,6 +110,7 @@ TxGNN のスコアは非常に高い（99.74%）ものの、これは知識グ�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

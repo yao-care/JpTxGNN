@@ -25,7 +25,7 @@ description: "Trifluoperazine：予測新適応症は双極性障害の躁病相
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 

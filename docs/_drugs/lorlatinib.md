@@ -27,7 +27,7 @@ description: "Lorlatinib：予測新適応症は遺伝性歯肉線維腫症 (fib
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -117,6 +117,7 @@ TxGNN モデルは**遺伝性歯肉線維腫症 (fibromatosis, gingival)** に�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

@@ -27,7 +27,7 @@ predicted_indications: ["obsolete susceptibility to ischemic stroke", "brain ste
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -127,6 +127,7 @@ TxGNN モデルの予測スコア最上位は「obsolete susceptibility to ische
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

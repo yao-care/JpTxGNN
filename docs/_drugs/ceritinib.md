@@ -27,7 +27,7 @@ description: "Ceritinib：予測新適応症は歯肉線維腫症 (Fibromatosis,
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -119,6 +119,7 @@ TxGNN モデルは**歯肉線維腫症 (Fibromatosis, gingival)** に有効で�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

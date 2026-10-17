@@ -27,7 +27,7 @@ description: "Istradefylline：予測新適応症はラスムッセン亜急性�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -94,6 +94,7 @@ TxGNN モデルは **ラスムッセン亜急性脳炎 (Rasmussen subacute encep
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

@@ -27,7 +27,7 @@ description: "Olmesartan：予測新適応症は異型狭心症 (Prinzmetal angi
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -122,6 +122,7 @@ TxGNN モデルの予測スコア最上位は**異型狭心症 (Prinzmetal angin
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

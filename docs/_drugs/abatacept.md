@@ -27,7 +27,7 @@ predicted_indications: ["inflammatory spondylopathy", "vertebral disease", "brac
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -119,6 +119,7 @@ TxGNN モデルは**リウマチ性血管炎 (rheumatoid vasculitis)** に有効
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

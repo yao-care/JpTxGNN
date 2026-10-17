@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 81
 evidence_level: L5
 indication_count: 10
-monitor_inn: "Cromoglicic acid"
-predicted_indications: ["ulcerative proctosigmoiditis", "nocardiosis", "rosacea conjunctivitis", "cap polyposis", "cutaneous photosensitivity-lethal colitis syndrome", "undetermined colitis", "pneumocystosis", "osteoarthritis", "allergic urticaria", "neonatal inflammatory skin and bowel disease"]
 last_modified_at: 2026-10-17
 description: "Cromoglicic Acid：予測新適応症は潰瘍性直腸S状結腸炎 (Ulcerative Proctosigmoiditis)（エビデンスレベル L5）。既存適応症：気管支喘息、アレルギー性鼻炎、アレルギー性結膜炎、肥満細胞症など（日本の承認適応症テキストはデータなし）"
+monitor_inn: "Cromoglicic acid"
+predicted_indications: ["ulcerative proctosigmoiditis", "nocardiosis", "cap polyposis", "cutaneous photosensitivity-lethal colitis syndrome", "undetermined colitis", "pneumocystosis", "osteoarthritis", "allergic urticaria", "neonatal inflammatory skin and bowel disease"]
 ---
 
 # Cromoglicic Acid
@@ -27,7 +27,7 @@ description: "Cromoglicic Acid：予測新適応症は潰瘍性直腸S状結腸�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -109,6 +109,7 @@ TxGNN モデルは**潰瘍性直腸S状結腸炎 (Ulcerative Proctosigmoiditis)*
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

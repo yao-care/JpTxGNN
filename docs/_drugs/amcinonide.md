@@ -25,7 +25,7 @@ description: "Amcinonide：予測新適応症は皮膚炎 (dermatitis)（エビ�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 

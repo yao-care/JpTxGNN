@@ -27,7 +27,7 @@ predicted_indications: ["migraine with or without aura, susceptibility to", "mig
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -123,6 +123,7 @@ TxGNN モデルの最上位予測は**関節リウマチ (Rheumatoid Arthritis)*
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

@@ -27,7 +27,7 @@ predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndro
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -106,6 +106,7 @@ TxGNN モデルは**コロボーマ性小眼球症-根幹肢異形成症候群 (
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

@@ -27,7 +27,7 @@ description: "Denosumab：予測新適応症は重症非増殖性糖尿病網膜
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -110,6 +110,7 @@ RANKL/RANK シグナルは、糖尿病における炎症や血管病変との関
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

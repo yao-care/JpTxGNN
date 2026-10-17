@@ -25,7 +25,7 @@ description: "Pilocarpine：予測新適応症は原発性遺伝性緑内障 (Pr
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -102,11 +102,14 @@ TxGNN モデルは**原発性遺伝性緑内障 (Primary Hereditary Glaucoma)** 
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 
 同じ成分を含む日本の医薬品です。以下の名称でも検索できます。
 
-**商品名**：サンピロ、ピロカルピン塩酸塩
+**商品名**：サンピロ
+
+**販売名（規格別）**：ピロカルピン塩酸塩
 <!-- brand-names:end -->
 

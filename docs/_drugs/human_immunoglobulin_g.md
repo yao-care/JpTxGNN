@@ -25,7 +25,7 @@ description: "Human Immunoglobulin G：予測新適応症は糖尿病網膜症 (
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 

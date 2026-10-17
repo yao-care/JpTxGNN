@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-10-17
 description: "Salmeterol：予測新適応症は気管支炎 (Bronchitis)（エビデンスレベル L1）。既存適応症：肺気腫、内因性喘息、アレルギー性喘息（承認文書の適応症テキストは今回のデータにありません）"
 monitor_inn: "Salmeterol"
-predicted_indications: ["bronchitis", "respiratory malformation", "obstructive lung disease", "Rienhoff syndrome", "asthma-related traits, susceptibility to", "atopic eczema"]
+predicted_indications: ["bronchitis", "respiratory malformation", "obstructive lung disease", "Rienhoff syndrome", "atopic eczema"]
 ---
 
 # Salmeterol
@@ -27,7 +27,7 @@ predicted_indications: ["bronchitis", "respiratory malformation", "obstructive l
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -133,11 +133,14 @@ TxGNN モデルは**気管支炎 (Bronchitis)** に有効である可能性を�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 
 同じ成分を含む日本の医薬品です。以下の名称でも検索できます。
 
 **販売名（規格別）**：セレベント50ディスカス 50μg60ブリスター
+
+**配合剤（この成分を含む）**：アドエア100ディスカス28吸入用 28ブリスター、アドエア100ディスカス60吸入用 60ブリスター、アドエア125エアゾール120吸入用 12.0g、アドエア250エアゾール120吸入用 12.0g、アドエア250ディスカス28吸入用 28ブリスター、アドエア250ディスカス60吸入用 60ブリスター、アドエア500ディスカス28吸入用 28ブリスター、アドエア500ディスカス60吸入用 60ブリスター、アドエア50エアゾール120吸入用 12.0g
 <!-- brand-names:end -->
 

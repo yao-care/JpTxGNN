@@ -27,7 +27,7 @@ predicted_indications: ["chronic pulmonary heart disease", "acute pulmonary hear
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -121,6 +121,7 @@ TxGNN モデルは**慢性肺性心疾患 (Chronic Pulmonary Heart Disease)** �
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

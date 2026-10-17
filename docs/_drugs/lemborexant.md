@@ -27,7 +27,7 @@ description: "Lemborexant：予測新適応症は入眠・睡眠維持障害 (sl
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -121,6 +121,7 @@ DrugBank の作用機序データは現在ありません。文献によると�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

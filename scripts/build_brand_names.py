@@ -38,6 +38,7 @@ def norm(s):
 def base_name(s):
     """成分名去掉括號、規格、劑形：アムロジピン5mg → アムロジピン；テルミサルタン錠40mg → テルミサルタン。"""
     s = re.sub(r"[（(][^）)]*[）)]", "", nfkc(s))
+    s = re.sub(r"^(dl|d|l)[\-−‐]", "", s)
     s = re.split(r"[\d.]+\s*(mg|g|μg|mL|%|単位|U)", s)[0]
     s = FORM.sub("", s).strip(" 　・")
     return s
@@ -51,6 +52,43 @@ def components(ing):
     s = s.split("配合")[0]
     parts = [base_name(p) for p in s.split("・")]
     return [p for p in parts if p and not p.endswith("等")] or None
+
+
+# 原始成分欄只有品牌讀音、拆不出成分的產品：明確列組成（2026-10-17，U-03b 第二輪；只收組成確定的品牌）。
+# 值是各成分的 DrugBank ID 候選（同一成分不同鹽的 ID 用「|」），空串列＝不歸任何成分頁。
+BRANDS = {
+    "アドエア": ["DB00938", "DB00588|DB13867"],          # salmeterol + fluticasone propionate
+    "レルベア": ["DB09082", "DB08906|DB13867"],          # vilanterol + fluticasone furoate
+    "エピデュオ": ["DB00210", "DB09096"],                # adapalene + benzoyl peroxide
+    "ミドリンP": ["DB00809", "DB00388"],                 # tropicamide + phenylephrine
+    "複方オキシコドン": ["DB00497"],                      # oxycodone + hydrocotarnine（後者無 DrugBank 頁）
+    "ネオメドロールEE": ["DB00959", "DB00452|DB00994"],   # methylprednisolone + fradiomycin
+    "テトラサイクリン・プレステロン": ["DB00759"],         # tetracycline + epidihydrocholesterin
+    "リンデロン-VG": ["DB00443", "DB00798"],             # betamethasone valerate + gentamicin
+    "リンデロン−VG": ["DB00443", "DB00798"],
+    "眼・耳科用リンデロンA": ["DB00443", "DB00452|DB00994"],  # betamethasone + fradiomycin
+    "テラ・コートリル": ["DB00595", "DB00741"],           # oxytetracycline + hydrocortisone
+    "歯科用キシロカイン": ["DB00281", "DB00668"],         # lidocaine + epinephrine
+    "マドパー": ["DB01235", "DB12783"],                  # levodopa + benserazide
+    "スタレボ": ["DB01235", "DB00190", "DB00494"],        # levodopa + carbidopa + entacapone
+    "エプジコム": ["DB01048", "DB00709"],                # abacavir + lamivudine
+    "ティーエスワン": ["DB09256", "DB09257", "DB03209"],  # tegafur + gimeracil + oteracil
+    "ユーエフティ": ["DB09256", "DB03419"],              # tegafur + uracil
+    "シナール": ["DB00126", "DB01783"],                  # ascorbic acid + calcium pantothenate
+    "ユナシン-S": ["DB00415", "DB09324"],                # ampicillin + sulbactam
+    "ユナシン−S": ["DB00415", "DB09324"],
+    "スルバシリン": ["DB00415", "DB09324"],
+    "ネオレスタミンコーワ": ["DB01114"],                  # 單方 chlorpheniramine（mapping 誤對 diphenhydramine）
+    "ブライアン": [],                                    # edetate calcium disodium，不是 calcium
+}
+
+
+def brand_override(name):
+    n = nfkc(name)
+    for k in sorted(BRANDS, key=len, reverse=True):
+        if n.startswith(nfkc(k)):
+            return BRANDS[k]
+    return None
 
 
 def ion_ok(syn, name):
@@ -84,6 +122,15 @@ def main():
         if db and p.exists() and indexable(p):
             id2page.setdefault(db, b.parent.name)
 
+    # 同一 DrugBank ID 底下若有「另一個基本名＋前綴」（ジヒドロコデイン ⊃ コデイン、レミフェンタニル ⊃ フェンタニル），
+    # 前者是 mapping 用子字串對錯的別的藥，不收
+    db_bases = defaultdict(set)
+    for r in rows:
+        if r.get("drugbank_id"):
+            db_bases[r["drugbank_id"]].add(norm(SALT.sub("", base_name(r["原始主成分"] or r["標準化成分"]))))
+    def prefixed_variant(db, ing):
+        b = norm(SALT.sub("", base_name(ing)))
+        return any(o != b and len(o) >= 3 and b.endswith(o) for o in db_bases.get(db, ()))
     # 單方成分名索引（基本名與去鹽名），只收不衝突的
     idx = defaultdict(set)
     for r in rows:
@@ -92,6 +139,8 @@ def main():
         if not db or components(ing) or "配合" in nfkc(r["販売名"]) or not ion_ok(r.get("同義詞"), ing) or "類似物質" in nfkc(ing):
             continue
         b = base_name(ing)
+        if prefixed_variant(db, ing):
+            continue
         for k in {norm(b), norm(SALT.sub("", b))}:
             if len(k) >= 3:
                 idx[k].add(db)
@@ -110,7 +159,22 @@ def main():
         if not name:
             continue
         ing = r["原始主成分"] or r["標準化成分"]
+        ov = brand_override(name)
+        if ov is not None:
+            pages = set()
+            for alt in ov:
+                pages |= {next((id2page[d] for d in alt.split("|") if d in id2page), None)} - {None}
+            kind = "combo" if len(ov) > 1 or any(x in name for x in ("複方", "配合", "・")) else "single"
+            for p in pages:
+                (combo if kind == "combo" else hanbai)[p].add(name)
+            if pages:
+                num2pages[r["承認番号"]] = (kind, pages)
+            continue
         comps = components(ing) or components(name)
+        if not comps and "・" in name:  # 「A・B」寫法沒有「配合」二字（アンピシリンナトリウム・スルバクタムナトリウム）
+            parts = [base_name(x) for x in name.split("・")]
+            if len(parts) >= 2 and all(len(x) >= 4 for x in parts) and any(by_name(x) for x in parts):
+                comps = parts
         if comps:
             pages = {id2page.get(by_name(c)) for c in comps} - {None}
             for p in pages:
@@ -120,6 +184,8 @@ def main():
         if "類似物質" in nfkc(ing):
             continue  # ヘパリン類似物質（ヒルドイド）不是ヘパリン
         db = r.get("drugbank_id") if ion_ok(r.get("同義詞"), ing) else None
+        if db and prefixed_variant(db, ing):
+            db = None
         db = db or by_name(ing) or by_name(name)
         p = id2page.get(db) if db else None
         if p:
@@ -140,7 +206,10 @@ def main():
         for s in (d.get("一般名"), d.get("有効成分")):
             generic |= {norm(base_name(s)), norm(SALT.sub("", base_name(s)))}
     generic = {g for g in generic if len(g) >= 3}
+    chem = re.compile(r"塩酸塩|硫酸塩|酢酸塩|水和物|酸化|塩化|炭酸|リン酸|クエン酸|ナトリウム|カリウム|カルシウム|マグネシウム")
     def is_generic(nm):
+        if chem.search(nfkc(nm)):
+            return True  # 化學名（モルヒネ塩酸塩、重質酸化マグネシウム）不是商品名
         n = norm(nm)
         return n in generic or norm(SALT.sub("", nm)) in generic or any(n.startswith(g) for g in generic if len(g) >= 4)
     # 先發品販売名本身就帶商品名（ノルバスク錠2.5mg → ノルバスク）

@@ -27,7 +27,7 @@ description: "Zinc：予測新適応症はフィラリア症 (Filariasis)（エ�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -112,6 +112,7 @@ TxGNN モデルは**フィラリア症 (Filariasis)** に有効である可能�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

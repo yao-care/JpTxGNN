@@ -27,7 +27,7 @@ description: "Allopurinol：予測新適応症は肝性ポルフィリン症 (He
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -115,6 +115,7 @@ TxGNN モデルは**肝性ポルフィリン症 (Hepatic Porphyria)** に有効�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

@@ -27,7 +27,7 @@ predicted_indications: ["sleep disorder, initiating and maintaining sleep", "Wer
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -127,6 +127,7 @@ TxGNN モデルは**睡眠障害（入眠・睡眠維持障害）(sleep disorder
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

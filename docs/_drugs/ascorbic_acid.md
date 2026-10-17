@@ -27,7 +27,7 @@ predicted_indications: ["non-syndromic esophageal malformation", "esophageal dis
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -117,4 +117,12 @@ TxGNN モデルは**非症候性食道奇形 (non-syndromic esophageal malformat
 
 
 
+
+<!-- brand-names:start -->
+## 日本での販売名
+
+同じ成分を含む日本の医薬品です。以下の名称でも検索できます。
+
+**配合剤（この成分を含む）**：シナール配合錠、シナール配合顆粒
+<!-- brand-names:end -->
 

@@ -25,7 +25,7 @@ description: "Pralatrexate：予測新適応症は胸膜上皮型中皮腫 (pleu
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 

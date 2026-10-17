@@ -27,7 +27,7 @@ description: "Mitiglinide：予測新適応症はオプシスモ異形成症 (Op
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -94,12 +94,13 @@ TxGNN モデルは**オプシスモ異形成症 (Opsismodysplasia)** に有効�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 
 同じ成分を含む日本の医薬品です。以下の名称でも検索できます。
 
-**商品名**：グルファスト、ミチグリニドカルシウム
+**商品名**：グルファスト
 
 **販売名（規格別）**：グルファストOD錠10mg、グルファストOD錠5mg、グルファスト錠10mg、グルファスト錠5mg、ミチグリニドCa・OD錠10mg、ミチグリニドCa・OD錠5mg、ミチグリニドカルシウム5mg口腔内崩壊錠
 <!-- brand-names:end -->

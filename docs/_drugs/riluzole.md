@@ -25,7 +25,7 @@ description: "Riluzole：予測新適応症は両側傍矢状頭頂後頭多小�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 

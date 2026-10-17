@@ -27,7 +27,7 @@ description: "Azosemide：予測新適応症は特発性銅関連肝硬変 (idio
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -110,6 +110,7 @@ TxGNN は以下の疾患も、ほぼ同等の高スコアで予測していま�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

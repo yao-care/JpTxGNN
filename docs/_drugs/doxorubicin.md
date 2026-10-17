@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-17
 description: "Doxorubicin：予測新適応症はユーイング肉腫 (Ewing sarcoma)（エビデンスレベル L1）。既存適応症：悪性リンパ腫、肺癌、胃癌、胆のう・胆管癌、膵臓癌、肝癌、結腸・直腸癌、乳癌、膀胱腫瘍、子宮体癌、骨肉腫、軟部腫瘍、多発性骨髄腫…"
 monitor_inn: "Doxorubicin"
-predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "rhabdomyosarcoma (disease)"]
+predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcinoma of the lung", "pulmonary blastoma", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "ganglioneuroblastoma (disease)"]
 ---
 
 # Doxorubicin
@@ -27,7 +27,7 @@ predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcino
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -166,12 +166,13 @@ TxGNN モデルは**ユーイング肉腫 (Ewing sarcoma)** に有効である�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 
 同じ成分を含む日本の医薬品です。以下の名称でも検索できます。
 
-**商品名**：アドリアシン、ドキシル、ドキソルビシン塩酸塩
+**商品名**：アドリアシン、ドキシル
 
 **販売名（規格別）**：アドリアシン注用10 10mg、アドリアシン注用50 50mg、ドキソルビシン塩酸塩注射液10mg 5mL、ドキソルビシン塩酸塩注射液50mg 25mL、ドキソルビシン塩酸塩注射用10mg、ドキソルビシン塩酸塩注射用50mg
 <!-- brand-names:end -->

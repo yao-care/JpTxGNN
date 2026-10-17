@@ -27,7 +27,7 @@ predicted_indications: ["gaze palsy, familial horizontal, with progressive scoli
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -136,6 +136,7 @@ TxGNN モデルは**大うつ病性障害 (Major Affective Disorder)** に有効
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

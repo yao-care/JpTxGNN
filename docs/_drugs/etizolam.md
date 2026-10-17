@@ -27,7 +27,7 @@ description: "Etizolam：予測新適応症は不眠症 (insomnia)（エビデ�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -105,6 +105,7 @@ TxGNN の予測スコアは高いものの、不眠症に対する臨床試験�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

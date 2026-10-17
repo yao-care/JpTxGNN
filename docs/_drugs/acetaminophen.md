@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 13
 evidence_level: L5
 indication_count: 10
-monitor_inn: "Acetaminophen"
-predicted_indications: ["migraine with brainstem aura", "trigeminal autonomic cephalalgia", "atrophoderma vermiculata", "tendinitis", "idiopathic granulomatous myositis", "myositis fibrosa", "ulerythema ophryogenesis", "fibromyalgia", "inclusion body myositis", "sciatic neuropathy"]
 last_modified_at: 2026-10-17
 description: "Acetaminophen：予測新適応症は脳幹性前兆を伴う片頭痛 (Migraine with Brainstem Aura)（エビデンスレベル L5）。既存適応症：鎮痛薬、解熱薬"
+monitor_inn: "Acetaminophen"
+predicted_indications: ["trigeminal autonomic cephalalgia", "atrophoderma vermiculata", "tendinitis", "idiopathic granulomatous myositis", "myositis fibrosa", "ulerythema ophryogenesis", "fibromyalgia", "inclusion body myositis", "sciatic neuropathy"]
 ---
 
 # Acetaminophen
@@ -27,7 +27,7 @@ description: "Acetaminophen：予測新適応症は脳幹性前兆を伴う片�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -133,6 +133,7 @@ TxGNN モデルは**脳幹性前兆を伴う片頭痛 (Migraine with Brainstem A
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

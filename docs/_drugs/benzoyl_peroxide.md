@@ -27,7 +27,7 @@ description: "Benzoyl Peroxide：予測新適応症は外陰部逆転性毛包�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -103,11 +103,14 @@ TxGNN モデルは**外陰部逆転性毛包性角化症 (vulvar inverted follic
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 
 同じ成分を含む日本の医薬品です。以下の名称でも検索できます。
 
 **販売名（規格別）**：ベピオウォッシュゲル5%、ベピオゲル2.5%、ベピオローション2.5%
+
+**配合剤（この成分を含む）**：エピデュオゲル
 <!-- brand-names:end -->
 

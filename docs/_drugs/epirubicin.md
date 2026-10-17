@@ -27,7 +27,7 @@ predicted_indications: ["well-differentiated fetal adenocarcinoma of the lung", 
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -139,12 +139,11 @@ RCT は含まれていません。多くはリンパ腫全般に関する間接�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 
 同じ成分を含む日本の医薬品です。以下の名称でも検索できます。
-
-**商品名**：エピルビシン塩酸塩
 
 **販売名（規格別）**：エピルビシン塩酸塩注射液10mg/5mL、エピルビシン塩酸塩注射液50mg/25mL、エピルビシン塩酸塩注射用10mg、エピルビシン塩酸塩注射用50mg
 <!-- brand-names:end -->

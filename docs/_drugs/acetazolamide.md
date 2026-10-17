@@ -25,7 +25,7 @@ description: "Acetazolamide：予測新適応症は心筋症 (cardiomyopathy)（
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 

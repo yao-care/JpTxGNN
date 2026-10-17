@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-17
 description: "Gemcitabine：予測新適応症は女性乳癌 (female breast carcinoma)（エビデンスレベル L1）。既存適応症：非小細胞肺癌、膵癌、尿路上皮癌、乳癌、卵巣癌、悪性リンパ腫"
 monitor_inn: "gemcitabine"
-predicted_indications: ["female breast carcinoma", "rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "endometrial mixed adenocarcinoma", "endometrial mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "mucin-rich endometrial endometrioid adenocarcinoma"]
+predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "endometrial mixed adenocarcinoma", "endometrial mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "mucin-rich endometrial endometrioid adenocarcinoma"]
 ---
 
 # Gemcitabine
@@ -27,7 +27,7 @@ predicted_indications: ["female breast carcinoma", "rectum mucinous adenocarcino
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -147,12 +147,13 @@ TxGNN モデルは**女性乳癌 (female breast carcinoma)** に有効である�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 
 同じ成分を含む日本の医薬品です。以下の名称でも検索できます。
 
-**商品名**：ゲムシタビン、ゲムシタビン塩酸塩、ゲムシタビン点滴静
+**商品名**：ゲムシタビン、ゲムシタビン点滴静
 
 **販売名（規格別）**：ゲムシタビン塩酸塩1g25mL注射液、ゲムシタビン塩酸塩200mg5mL注射液、ゲムシタビン点滴静注液1g/25mL、ゲムシタビン点滴静注液200mg/5mL、ゲムシタビン点滴静注用1g、ゲムシタビン点滴静注用200mg、ジェムザール注射用1g、ジェムザール注射用200mg
 <!-- brand-names:end -->

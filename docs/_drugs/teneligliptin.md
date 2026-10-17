@@ -27,7 +27,7 @@ description: "Teneligliptin：予測新適応症はOpsismodysplasia（オプシ�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -97,6 +97,7 @@ TxGNN モデルは **Opsismodysplasia（オプシスモ異形成症）** に有�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

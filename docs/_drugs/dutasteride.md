@@ -27,7 +27,7 @@ description: "Dutasteride：予測新適応症はアンブラス型先天性全�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -111,6 +111,7 @@ DHT の抑制は理論上、アンドロゲン依存性の毛髪成長に影響�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

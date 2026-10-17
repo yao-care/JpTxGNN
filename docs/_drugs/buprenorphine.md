@@ -25,7 +25,7 @@ description: "Buprenorphine：予測新適応症は急性間欠性ポルフィ�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 

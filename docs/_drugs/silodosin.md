@@ -27,7 +27,7 @@ description: "Silodosin：予測新適応症はAmbras 型先天性汎発性多�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -110,6 +110,7 @@ TxGNN モデルは **Ambras 型先天性汎発性多毛症 (Ambras type hypertri
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

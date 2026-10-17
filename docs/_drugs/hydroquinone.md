@@ -25,7 +25,7 @@ description: "Hydroquinone：予測新適応症は脂漏性角化症 (seborrheic
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 

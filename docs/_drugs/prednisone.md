@@ -25,7 +25,7 @@ description: "Prednisone：予測新適応症は円形脱毛症 (Alopecia Areata
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 

@@ -27,7 +27,7 @@ description: "Donepezil：予測新適応症は慢性チック症 (Chronic Tic D
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -121,6 +121,7 @@ TxGNN モデルの予測スコア第 1 位は**心因性運動障害 (Psychogeni
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

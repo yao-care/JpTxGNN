@@ -27,7 +27,7 @@ description: "Dexamethasone：予測新適応症は円形脱毛症 (alopecia are
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -120,6 +120,7 @@ TxGNN モデルは**円形脱毛症 (alopecia areata)** に有効である可能
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

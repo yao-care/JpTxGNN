@@ -27,7 +27,7 @@ predicted_indications: ["thrombotic disease", "nasal cavity disease", "laryngotr
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -120,6 +120,7 @@ PDE 阻害により血小板内の cAMP が上昇すると、血小板凝集が�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

@@ -27,7 +27,7 @@ predicted_indications: ["resistance to thyroid hormone due to a mutation in thyr
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -111,6 +111,7 @@ TxGNN モデルは**甲状腺ホルモンβ受容体変異による甲状腺ホ�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

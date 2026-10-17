@@ -27,7 +27,7 @@ description: "Voriconazole：予測新適応症は多剤耐性結核 (multidrug-
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -115,6 +115,7 @@ TxGNN モデルは**多剤耐性結核 (multidrug-resistant tuberculosis)** に�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

@@ -27,7 +27,7 @@ description: "Sildenafil：予測新適応症はAmbras 型汎発性先天性多�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -121,6 +121,7 @@ Ambras 型汎発性先天性多毛症について、直接関連する文献は�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

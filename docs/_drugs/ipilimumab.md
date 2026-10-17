@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 163
 evidence_level: L5
 indication_count: 2
-monitor_inn: "Ipilimumab"
-predicted_indications: ["choroideremia", "non-cutaneous melanoma"]
 last_modified_at: 2026-10-17
 description: "Ipilimumab：予測新適応症は脈絡膜欠損症 (Choroideremia)（エビデンスレベル L5）。既存適応症：転移性悪性黒色腫"
+monitor_inn: "Ipilimumab"
+predicted_indications: ["choroideremia"]
 ---
 
 # Ipilimumab
@@ -27,7 +27,7 @@ description: "Ipilimumab：予測新適応症は脈絡膜欠損症 (Choroideremi
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -114,6 +114,7 @@ TxGNN モデルは**脈絡膜欠損症 (Choroideremia)** に有効である可�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

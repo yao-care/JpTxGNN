@@ -27,7 +27,7 @@ predicted_indications: ["duodenal obstruction", "abnormality of glucagon secreti
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -134,6 +134,7 @@ TxGNN モデルは**十二指腸胃逆流 (duodenogastric reflux)** に有効で
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

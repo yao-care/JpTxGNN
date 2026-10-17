@@ -25,7 +25,7 @@ description: "Silicon Dioxide：予測新適応症はActive Peptic Ulcer Disease
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 

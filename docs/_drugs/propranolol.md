@@ -27,7 +27,7 @@ predicted_indications: ["distal myopathy, Tateyama type", "congenital myopathy w
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -124,6 +124,7 @@ TxGNN モデルは**遠位型ミオパチー（舘山型）(distal myopathy, Tat
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

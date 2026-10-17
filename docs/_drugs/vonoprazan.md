@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 340
 evidence_level: L3
 indication_count: 10
-monitor_inn: "vonoprazan"
-predicted_indications: ["active peptic ulcer disease", "peptic ulcer perforation", "gastrojejunal ulcer", "hiatus hernia (disease)", "achlorhydria", "Dieulafoy lesion", "pylorospasm", "gastric dilatation", "cascade stomach", "hemorrhagic duodenitis"]
 last_modified_at: 2026-10-17
 description: "Vonoprazan：予測新適応症は活動性消化性潰瘍 (active peptic ulcer disease)（エビデンスレベル L3）。既存適応症：胃潰瘍、十二指腸潰瘍、逆流性食道炎、胃食道逆流症"
+monitor_inn: "vonoprazan"
+predicted_indications: ["hiatus hernia (disease)", "achlorhydria", "Dieulafoy lesion", "pylorospasm", "gastric dilatation", "cascade stomach", "hemorrhagic duodenitis"]
 ---
 
 # Vonoprazan
@@ -27,7 +27,7 @@ description: "Vonoprazan：予測新適応症は活動性消化性潰瘍 (active
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -121,6 +121,7 @@ TxGNN モデルは**活動性消化性潰瘍 (active peptic ulcer disease)** に
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

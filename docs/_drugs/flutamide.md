@@ -27,7 +27,7 @@ predicted_indications: ["fibroma of prostate", "Brenner tumor", "benign reproduc
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -114,6 +114,7 @@ TxGNN モデルは**前立腺癌・脳腫瘍の感受性 (prostate cancer/brain 
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

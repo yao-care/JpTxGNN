@@ -5,8 +5,6 @@ parent: モデル予測のみ
 nav_order: 226
 evidence_level: L5
 indication_count: 1
-monitor_inn: "Olopatadine"
-predicted_indications: ["rosacea conjunctivitis"]
 last_modified_at: 2026-10-17
 description: "Olopatadine：予測新適応症は酒さ性結膜炎 (Rosacea Conjunctivitis)（エビデンスレベル L5）。既存適応症：アレルギー性鼻炎、尋常性乾癬（抗アレルギー薬、H1 受容体拮抗薬）"
 ---
@@ -27,7 +25,7 @@ description: "Olopatadine：予測新適応症は酒さ性結膜炎 (Rosacea Con
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -101,6 +99,7 @@ TxGNN の高いスコア（0.994）は予測値にすぎません。これを裏
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

@@ -25,7 +25,7 @@ description: "Cisatracurium：予測新適応症は妊娠高血圧腎症 (Preecl
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 

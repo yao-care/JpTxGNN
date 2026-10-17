@@ -27,7 +27,7 @@ description: "Sotalol：予測新適応症は洞不全症候群 2 型、常染�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -133,6 +133,7 @@ TxGNN モデルの予測上位は洞不全症候群 2 型（常染色体優性�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

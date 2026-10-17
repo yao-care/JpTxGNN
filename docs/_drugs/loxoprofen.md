@@ -27,7 +27,7 @@ description: "Loxoprofen：予測新適応症はコロボーマ性小眼球症�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -92,6 +92,7 @@ TxGNN モデルは**コロボーマ性小眼球症－根肢近位型異形成症
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

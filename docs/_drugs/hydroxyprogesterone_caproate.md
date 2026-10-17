@@ -25,7 +25,7 @@ description: "Hydroxyprogesterone Caproate：予測新適応症は子宮内膜�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 

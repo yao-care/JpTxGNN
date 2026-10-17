@@ -25,7 +25,7 @@ description: "Ketoconazole：予測新適応症は尋常性ざ瘡 (acne)（エ�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -119,6 +119,7 @@ TxGNN モデルは**尋常性ざ瘡 (acne)** に有効である可能性を予�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

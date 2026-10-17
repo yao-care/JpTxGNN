@@ -27,7 +27,7 @@ description: "Tamsulosin：予測新適応症はAmbras 型汎発性先天性多�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -113,6 +113,7 @@ Ambras 型多毛症に関する文献はありません。参考として、予�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

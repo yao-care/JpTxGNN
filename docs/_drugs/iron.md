@@ -27,7 +27,7 @@ description: "Iron：予測新適応症はPlummer-Vinson 症候群（エビデ�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -131,6 +131,7 @@ Plummer-Vinson 症候群に直接関連する臨床試験の登録は、現在�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

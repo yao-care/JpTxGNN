@@ -25,7 +25,7 @@ description: "Brivaracetam：予測新適応症は視覚性てんかん (visual 
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 

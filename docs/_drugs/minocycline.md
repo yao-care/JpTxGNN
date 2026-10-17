@@ -27,7 +27,7 @@ predicted_indications: ["exposure keratitis"]
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -98,6 +98,7 @@ TxGNN モデルは**点状表層角結膜炎 (Punctate Epithelial Keratoconjunct
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

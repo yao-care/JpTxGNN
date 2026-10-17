@@ -25,7 +25,7 @@ description: "Vinorelbine：予測新適応症はEwing 肉腫 (Ewing sarcoma)（
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 

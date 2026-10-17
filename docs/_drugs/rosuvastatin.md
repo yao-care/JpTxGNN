@@ -27,7 +27,7 @@ predicted_indications: ["cholesterol-ester transfer protein deficiency", "brain 
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -108,6 +108,7 @@ TxGNN モデルは**コレステロールエステル転送蛋白欠損症 (chol
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

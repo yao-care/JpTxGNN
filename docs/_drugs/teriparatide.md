@@ -27,7 +27,7 @@ predicted_indications: ["duodenal ulcer (disease)", "non-syndromic esophageal ma
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -120,6 +120,7 @@ TxGNN モデルは**十二指腸潰瘍 (duodenal ulcer)** に有効である可�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

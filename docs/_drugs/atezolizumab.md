@@ -27,7 +27,7 @@ predicted_indications: ["prostatic urethra urothelial carcinoma", "infiltrating 
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -103,6 +103,7 @@ TxGNN モデルは**前立腺部尿道尿路上皮癌 (prostatic urethra urothel
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

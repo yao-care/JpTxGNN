@@ -27,7 +27,7 @@ predicted_indications: ["visual epilepsy", "alcohol withdrawal delirium", "restl
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -135,6 +135,7 @@ TxGNN モデルの最上位予測は**不眠症 (insomnia)** ですが、これ�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

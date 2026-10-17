@@ -27,7 +27,7 @@ description: "Tropicamide：予測新適応症は馬尾症候群 (Cauda Equina S
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -108,6 +108,7 @@ TxGNN モデルは**馬尾症候群 (Cauda Equina Syndrome)** に有効である
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 
@@ -115,6 +116,8 @@ TxGNN モデルは**馬尾症候群 (Cauda Equina Syndrome)** に有効である
 
 **商品名**：ミドリン
 
-**販売名（規格別）**：トロピカミド点眼液0.4%、ミドリンM点眼液0.4%、ミドリンP点眼液
+**販売名（規格別）**：トロピカミド点眼液0.4%、ミドリンM点眼液0.4%
+
+**配合剤（この成分を含む）**：ミドリンP点眼液
 <!-- brand-names:end -->
 

@@ -27,7 +27,7 @@ predicted_indications: ["HIV infectious disease", "feline acquired immunodeficie
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -121,6 +121,7 @@ HCV は NS5B RNA 依存性 RNA ポリメラーゼで複製する RNA ウイル�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

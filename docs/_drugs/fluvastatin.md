@@ -27,7 +27,7 @@ predicted_indications: ["hyperlipoproteinemia", "HIV infectious disease", "chole
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -136,6 +136,7 @@ TxGNN モデルは**高リポ蛋白血症 (hyperlipoproteinemia)** に有効で�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

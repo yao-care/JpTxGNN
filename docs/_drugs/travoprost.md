@@ -27,7 +27,7 @@ description: "Travoprost：予測新適応症は血管疾患 (Vascular Disease)�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -133,6 +133,7 @@ TxGNN モデルは**血管疾患 (Vascular Disease)** に有効である可能�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

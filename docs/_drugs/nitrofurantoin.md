@@ -27,7 +27,7 @@ description: "Nitrofurantoin：予測新適応症は類風濕性關節炎 (rheum
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 

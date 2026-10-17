@@ -25,7 +25,7 @@ description: "Sulfamethazine：予測新適応症は糖尿病性腎症（diabeti
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 

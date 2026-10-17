@@ -27,7 +27,7 @@ description: "Sulpiride：予測新適応症は網膜ジストロフィー（ret
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -109,6 +109,7 @@ TxGNN モデルは**網膜ジストロフィー（retinal dystrophy with or with
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

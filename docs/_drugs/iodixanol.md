@@ -27,7 +27,7 @@ description: "Iodixanol：予測新適応症は骨關節炎 (osteoarthritis)（�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 

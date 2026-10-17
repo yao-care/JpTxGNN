@@ -27,7 +27,7 @@ predicted_indications: ["pneumocystosis", "punctate epithelial keratoconjunctivi
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -116,6 +116,7 @@ TxGNN モデルは **ニューモシスチス症 (Pneumocystosis)** に有効で
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

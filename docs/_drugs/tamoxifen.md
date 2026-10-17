@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-17
 description: "Tamoxifen：予測新適応症は乳腺上皮内癌 (Breast Carcinoma in Situ)（エビデンスレベル L1）。既存適応症：乳癌"
 monitor_inn: "Tamoxifen"
-predicted_indications: ["mammary Paget disease", "intraductal cribriform breast adenocarcinoma", "breast carcinoma in situ", "sebaceous breast carcinoma", "Ehrlich tumor carcinoma", "hormone-resistant breast carcinoma", "estrogen-receptor positive breast cancer", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
+predicted_indications: ["mammary Paget disease", "Ehrlich tumor carcinoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 ---
 
 # Tamoxifen
@@ -27,7 +27,7 @@ predicted_indications: ["mammary Paget disease", "intraductal cribriform breast 
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -157,6 +157,7 @@ TxGNN モデルの最上位予測は乳房パジェット病 (Mammary Paget Dise
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

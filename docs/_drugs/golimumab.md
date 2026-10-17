@@ -27,7 +27,7 @@ predicted_indications: ["hypermobility of coccyx", "inflammatory spondylopathy",
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -116,6 +116,7 @@ TxGNN モデルは**リウマチ性血管炎 (Rheumatoid Vasculitis)** に有効
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

@@ -27,7 +27,7 @@ predicted_indications: ["bronchitis", "atopic eczema", "obstructive lung disease
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -129,6 +129,7 @@ TxGNN モデルは**気管支炎 (Bronchitis)** に有効である可能性を�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

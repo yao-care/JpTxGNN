@@ -27,7 +27,7 @@ description: "Nilotinib：予測新適応症は隆起性皮膚線維肉腫 (Derm
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -116,6 +116,7 @@ TxGNN の予測スコアは高いものの、裏付けは PDGFR 阻害薬に関�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

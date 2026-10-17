@@ -25,7 +25,7 @@ description: "Treprostinil：予測新適応症は肺動脈性肺高血圧症関
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 

@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 342
 evidence_level: L5
 indication_count: 10
-monitor_inn: "Warfarin"
-predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombophilia", "rheumatoid arthritis", "breast fibrocystic disease", "benign mammary dysplasia", "apocrine adenosis of breast", "blunt duct adenosis of breast", "migraine disorder"]
 last_modified_at: 2026-10-17
 description: "Warfarin：予測新適応症は血栓性素因 (Thrombophilia)（エビデンスレベル L5）。既存適応症：抗凝固薬、ビタミンK拮抗薬"
+monitor_inn: "Warfarin"
+predicted_indications: ["heparin cofactor 2 deficiency", "antithrombin deficiency type 2", "thrombophilia", "rheumatoid arthritis", "breast fibrocystic disease", "benign mammary dysplasia", "apocrine adenosis of breast", "blunt duct adenosis of breast", "migraine disorder"]
 ---
 
 # Warfarin
@@ -27,7 +27,7 @@ description: "Warfarin：予測新適応症は血栓性素因 (Thrombophilia)（
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -130,6 +130,7 @@ TxGNN モデルは複数の血栓性疾患、とくに**血栓性素因 (Thrombo
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

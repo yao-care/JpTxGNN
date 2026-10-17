@@ -27,7 +27,7 @@ predicted_indications: ["Ohdo syndrome and variants", "blepharophimosis - intell
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -138,6 +138,7 @@ TxGNN モデルの予測順位 1 位は希少疾患（Ohdo 症候群）でした
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

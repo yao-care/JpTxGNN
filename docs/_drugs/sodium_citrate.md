@@ -25,7 +25,7 @@ description: "Sodium Citrate：予測新適応症は胃疾患（stomach disease�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 

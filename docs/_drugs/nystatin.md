@@ -25,7 +25,7 @@ description: "Nystatin：予測新適応症は外陰腟炎 (Vulvovaginitis)（�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 

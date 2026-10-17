@@ -27,7 +27,7 @@ description: "Topiroxostat：予測新適応症は腎性低尿酸血症 (hypouri
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -108,6 +108,7 @@ TxGNN モデルは**腎性低尿酸血症 (hypouricemia, renal)** に有効で�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

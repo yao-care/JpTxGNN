@@ -25,7 +25,7 @@ description: "Hydroxyurea：予測新適応症は女性乳癌 (female breast car
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 

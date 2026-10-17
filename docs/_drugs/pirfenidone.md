@@ -27,7 +27,7 @@ description: "Pirfenidone：予測新適応症は肥満細胞腫 (Extracutaneous
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -114,6 +114,7 @@ TxGNN モデルの予測スコア第 1 位は**肥満細胞腫（extracutaneous 
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

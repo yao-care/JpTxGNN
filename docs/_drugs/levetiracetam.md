@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-17
 description: "Levetiracetam：予測新適応症は視覚てんかん (Visual Epilepsy)（エビデンスレベル L5）。既存適応症：抗てんかん薬"
 monitor_inn: "Levetiracetam"
-predicted_indications: ["micturation-induced seizures", "orgasm-induced seizures", "audiogenic seizures", "thinking seizures", "eating seizures", "reading seizures", "beta-ketothiolase deficiency"]
+predicted_indications: ["beta-ketothiolase deficiency"]
 ---
 
 # Levetiracetam
@@ -27,7 +27,7 @@ predicted_indications: ["micturation-induced seizures", "orgasm-induced seizures
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -125,6 +125,7 @@ TxGNN のスコアは非常に高く、SV2A を介した機序にももっとも
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

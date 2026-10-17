@@ -27,7 +27,7 @@ predicted_indications: ["inflammatory spondylopathy", "vertebral disease", "mend
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -136,6 +136,7 @@ TxGNN モデルは**強直性脊椎炎 (Ankylosing Spondylitis)** に有効で�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

@@ -27,7 +27,7 @@ predicted_indications: ["Prinzmetal angina", "brain stem infarction", "ABri amyl
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -136,6 +136,7 @@ TxGNN モデルは **Prinzmetal 狭心症 (Prinzmetal angina)** に有効であ�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

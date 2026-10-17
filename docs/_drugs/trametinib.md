@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 319
 evidence_level: L5
 indication_count: 10
-monitor_inn: "Trametinib"
-predicted_indications: ["choroideremia", "non-cutaneous melanoma", "epithelioid cell melanoma", "eyelid melanoma", "scrotum melanoma", "lentigo maligna melanoma", "balloon cell malignant melanoma", "CDK4 linked melanoma", "nodular malignant melanoma", "superficial spreading melanoma"]
 last_modified_at: 2026-10-17
 description: "Trametinib：予測新適応症は脈絡膜欠損症 (Choroideremia)（エビデンスレベル L5）。既存適応症：転移性悪性黒色腫"
+monitor_inn: "Trametinib"
+predicted_indications: ["choroideremia"]
 ---
 
 # Trametinib
@@ -27,7 +27,7 @@ description: "Trametinib：予測新適応症は脈絡膜欠損症 (Choroideremi
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -119,6 +119,7 @@ TxGNN モデルは**脈絡膜欠損症 (Choroideremia)** に有効である可�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

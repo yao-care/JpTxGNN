@@ -25,7 +25,7 @@ description: "Xylometazoline：予測新適応症は鼻腔疾患、急性咽喉�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 

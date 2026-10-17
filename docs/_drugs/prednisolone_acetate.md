@@ -25,7 +25,7 @@ description: "Prednisolone Acetate：予測新適応症は寄生虫性結膜炎 
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 

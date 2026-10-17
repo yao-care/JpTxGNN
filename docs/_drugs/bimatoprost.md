@@ -27,7 +27,7 @@ predicted_indications: ["malformation syndrome with odontal and/or periodontal c
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -131,6 +131,7 @@ TxGNN モデルは、最上位の予測として**歯・歯周組織の異常を
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

@@ -27,7 +27,7 @@ predicted_indications: ["HIV infectious disease", "brain stem infarction", "chol
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -136,6 +136,7 @@ TxGNN モデルは**家族性高コレステロール血症 (Familial Hyperchole
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

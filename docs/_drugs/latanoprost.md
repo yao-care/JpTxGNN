@@ -27,7 +27,7 @@ predicted_indications: ["visceral calciphylaxis", "hypotrichosis simplex of the 
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -117,6 +117,7 @@ TxGNN モデルは**原発性遺伝性緑内障 (primary hereditary glaucoma)** 
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

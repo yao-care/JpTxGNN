@@ -27,7 +27,7 @@ predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachy
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -121,6 +121,7 @@ TxGNN モデルは **肢端中間部異形成症 Hunter-Thompson 型 (acromesome
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

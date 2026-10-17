@@ -25,7 +25,7 @@ description: "Ipratropium：予測新適応症は閉塞性肺疾患 (obstructive
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 

@@ -27,7 +27,7 @@ description: "Goserelin：予測新適応症は無月経 (Amenorrhea)（エビ�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -119,6 +119,7 @@ TxGNN モデルは**無月経 (Amenorrhea)** に有効である可能性を予�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

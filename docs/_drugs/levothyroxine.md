@@ -27,7 +27,7 @@ predicted_indications: ["renal hypodysplasia/aplasia", "bilateral renal agenesis
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -134,6 +134,7 @@ TxGNN モデルは**風土病性甲状腺腫 (Endemic Goiter)** に有効であ�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

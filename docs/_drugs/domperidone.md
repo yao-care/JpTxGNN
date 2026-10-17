@@ -27,7 +27,7 @@ description: "Domperidone：予測新適応症は腎性抗利尿ホルモン不�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -123,6 +123,7 @@ TxGNN モデルは**腎性抗利尿ホルモン不適合分泌症候群 (nephrog
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

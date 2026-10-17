@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-10-17
 description: "Alimemazine：予測新適応症はアレルギー性蕁麻疹 (allergic urticaria)（エビデンスレベル L5）。既存適応症：血管性浮腫、アレルギー性鼻炎、血管運動性鼻炎、咽頭炎、感冒、アトピー性結膜炎、蕁麻疹など"
 monitor_inn: "alimemazine"
-predicted_indications: ["IgE responsiveness, atopic", "nasal cavity disease", "recalcitrant atopic dermatitis"]
+predicted_indications: ["IgE responsiveness, atopic", "nasal cavity disease", "recalcitrant atopic dermatitis", "acute laryngopharyngitis"]
 ---
 
 # Alimemazine
@@ -27,7 +27,7 @@ predicted_indications: ["IgE responsiveness, atopic", "nasal cavity disease", "r
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -111,6 +111,7 @@ TxGNN モデルは**アレルギー性蕁麻疹 (allergic urticaria)** に有効
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

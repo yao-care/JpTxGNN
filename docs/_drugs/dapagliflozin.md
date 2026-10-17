@@ -27,7 +27,7 @@ description: "Dapagliflozin：予測新適応症は限局性スティッフリ�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -113,6 +113,7 @@ TxGNN モデルは**限局性スティッフリム症候群 (focal stiff limb sy
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

@@ -27,7 +27,7 @@ description: "Threonine：予測新適応症はGastroparesis（胃輕癱）（�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 

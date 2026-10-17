@@ -27,7 +27,7 @@ description: "Ebastine：予測新適応症は冠動脈疾患 (Coronary Artery D
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -103,6 +103,7 @@ TxGNN モデルは**冠動脈疾患 (Coronary Artery Disease)** に有効であ�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

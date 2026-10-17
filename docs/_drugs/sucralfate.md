@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-17
 description: "Sucralfate：予測新適応症は十二指腸胃逆流 (duodenogastric reflux)（エビデンスレベル L2）。既存適応症：胃潰瘍、十二指腸潰瘍（消化性潰瘍薬、抗ペプシン薬）"
 monitor_inn: "Sucralfate"
-predicted_indications: ["duodenogastric reflux", "duodenal obstruction", "esophagitis (disease)", "peptic esophagitis", "duodenitis", "C1 inhibitor deficiency", "gastrojejunal ulcer"]
+predicted_indications: ["duodenogastric reflux", "duodenal obstruction", "esophagitis (disease)", "peptic esophagitis", "duodenitis", "C1 inhibitor deficiency"]
 ---
 
 # Sucralfate
@@ -27,7 +27,7 @@ predicted_indications: ["duodenogastric reflux", "duodenal obstruction", "esopha
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -142,6 +142,7 @@ TxGNN モデルは**十二指腸胃逆流 (duodenogastric reflux)** に有効で
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

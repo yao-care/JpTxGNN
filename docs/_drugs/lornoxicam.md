@@ -27,7 +27,7 @@ predicted_indications: ["migraine with or without aura, susceptibility to", "mig
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -132,6 +132,7 @@ predicted_indications: ["migraine with or without aura, susceptibility to", "mig
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

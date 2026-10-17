@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 248
 evidence_level: L5
 indication_count: 10
-monitor_inn: "Pitavastatin"
-predicted_indications: ["homozygous familial hypercholesterolemia", "hyperlipoproteinemia", "familial hypercholesterolemia", "cholesterol-ester transfer protein deficiency", "hypercholesterolemia, autosomal dominant", "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "hyperlipidemia due to hepatic triglyceride lipase deficiency", "simian immunodeficiency virus infection"]
 last_modified_at: 2026-10-17
 description: "Pitavastatin：予測新適応症はホモ接合体家族性高コレステロール血症 (homozygous familial hypercholesterolemia)（エビデンスレベル L5）。既存適応症：脂質異常症治療薬、HMG-CoA 還元酵素阻害薬"
+monitor_inn: "Pitavastatin"
+predicted_indications: ["hyperlipoproteinemia", "cholesterol-ester transfer protein deficiency", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "hyperlipidemia due to hepatic triglyceride lipase deficiency", "simian immunodeficiency virus infection"]
 ---
 
 # Pitavastatin
@@ -27,7 +27,7 @@ description: "Pitavastatin：予測新適応症はホモ接合体家族性高コ
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -140,12 +140,13 @@ HIV 感染症は、抗ウイルス作用ではなく**心血管イベントの�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 
 同じ成分を含む日本の医薬品です。以下の名称でも検索できます。
 
-**商品名**：ピタバスタチンカルシウム、リバロ
+**商品名**：リバロ
 
 **販売名（規格別）**：ピタバスタチンCa・OD錠1mg、ピタバスタチンCa・OD錠2mg、ピタバスタチンCa・OD錠4mg、ピタバスタチンCa錠1mg、ピタバスタチンCa錠2mg、ピタバスタチンCa錠4mg、ピタバスタチンカルシウム1mg口腔内崩壊錠、ピタバスタチンカルシウム1mg錠、ピタバスタチンカルシウム2mg口腔内崩壊錠、ピタバスタチンカルシウム2mg錠、ピタバスタチンカルシウム4mg錠、ピタバスタチンカルシウムOD錠1mg、ピタバスタチンカルシウムOD錠2mg、ピタバスタチンカルシウムOD錠4mg、ピタバスタチンカルシウム錠1mg、ピタバスタチンカルシウム錠2mg、ピタバスタチンカルシウム錠4mg、リバロOD錠1mg、リバロOD錠2mg、リバロOD錠4mg、リバロ錠1mg、リバロ錠2mg、リバロ錠4mg
 <!-- brand-names:end -->

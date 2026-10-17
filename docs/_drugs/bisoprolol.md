@@ -27,7 +27,7 @@ predicted_indications: ["malignant hypertensive renal disease", "pulmonary hyper
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -120,6 +120,7 @@ TxGNN モデルは**悪性腎血管性高血圧 (malignant renovascular hyperten
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

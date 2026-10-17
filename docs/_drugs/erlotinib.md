@@ -27,7 +27,7 @@ description: "Erlotinib：予測新適応症はユーイング肉腫 (Ewing sarc
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -125,6 +125,7 @@ TxGNN モデルは**ユーイング肉腫 (Ewing sarcoma)** に有効である�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

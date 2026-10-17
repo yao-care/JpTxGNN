@@ -27,7 +27,7 @@ description: "Ceftriaxone：予測新適応症は多クローン性高粘稠度�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -102,6 +102,7 @@ TxGNN モデルは**多クローン性高粘稠度症候群 (polyclonal hypervis
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

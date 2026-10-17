@@ -27,7 +27,7 @@ predicted_indications: ["Rasmussen subacute encephalitis", "myelitis", "PLA2G6-a
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -129,6 +129,7 @@ Lewy 小体型認知症ではコリン系の機能低下があるため、中枢
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

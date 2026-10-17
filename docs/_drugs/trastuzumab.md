@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 321
 evidence_level: L5
 indication_count: 10
-monitor_inn: "Trastuzumab"
-predicted_indications: ["normal breast-like subtype of breast carcinoma", "progesterone-receptor positive breast cancer", "progesterone-receptor negative breast cancer", "breast tumor luminal A or B", "malignant cutaneous granular cell skin tumor", "ectomesenchymoma", "human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "kidney pelvis sarcomatoid transitional cell carcinoma", "prostatic urethra urothelial carcinoma"]
 last_modified_at: 2026-10-17
 description: "Trastuzumab：予測新適応症はプロゲステロン受容体陽性乳癌 (progesterone-receptor positive breast cancer)（エビデンスレベル L5）。既存適応症：HER2 陽性乳癌"
+monitor_inn: "Trastuzumab"
+predicted_indications: ["malignant cutaneous granular cell skin tumor", "ectomesenchymoma", "human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "kidney pelvis sarcomatoid transitional cell carcinoma", "prostatic urethra urothelial carcinoma"]
 ---
 
 # Trastuzumab
@@ -27,7 +27,7 @@ description: "Trastuzumab：予測新適応症はプロゲステロン受容体�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -142,6 +142,7 @@ TxGNN モデルは**プロゲステロン受容体陽性乳癌 (progesterone-rec
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

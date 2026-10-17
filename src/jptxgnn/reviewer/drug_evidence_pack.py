@@ -111,8 +111,10 @@ class DrugEvidencePackGenerator:
             })
         valid = [x for x in lics if x["status"] == "valid"]
         return {
-            "market_status": "Marketed" if valid else ("Cancelled only" if lics else "Not marketed"),
-            "total_licenses": len(lics),
+            # 只存了部分許可證（total_matches 較多）且列出的都已註銷時，不能斷定全部註銷
+            "market_status": "Marketed" if valid else (("Cancelled only" if int(reg.get("total_matches") or 0) <= len(lics) else "Unknown (partial list)") if lics else "Not marketed"),
+            "total_licenses": max(len(lics), int(reg.get("total_matches") or 0)),  # 2026-10-17：收集器只存前 20 筆時，張數取 total_matches
+            "licenses_listed": len(lics),
             "valid_single": sum(1 for x in valid if x["kind"] == "single"),
             "valid_combo": sum(1 for x in valid if x["kind"] == "combo"),
             "cancelled": len(lics) - len(valid),

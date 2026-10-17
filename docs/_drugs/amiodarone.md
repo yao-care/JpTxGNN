@@ -27,7 +27,7 @@ description: "Amiodarone：予測新適応症はカテコラミン誘発多形�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -148,6 +148,7 @@ CPVT 領域で直接の根拠となるのは、主に上記のコホート研究
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

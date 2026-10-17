@@ -27,7 +27,7 @@ predicted_indications: ["parameningeal embryonal rhabdomyosarcoma", "botryoid-ty
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -150,6 +150,7 @@ TxGNN モデルは**女性乳癌 (female breast carcinoma)** に有効である�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

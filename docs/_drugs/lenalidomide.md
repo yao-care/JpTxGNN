@@ -27,7 +27,7 @@ predicted_indications: ["myeloid leukemia", "refractory cytopenia of childhood",
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -151,6 +151,7 @@ TxGNN モデルは**骨髄性白血病 (Myeloid Leukemia)** に有効である�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

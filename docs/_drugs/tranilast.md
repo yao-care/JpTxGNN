@@ -27,7 +27,7 @@ predicted_indications: ["seborrheic keratosis", "polyp of vocal cord", "polyp of
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -113,6 +113,7 @@ TxGNN モデルは**脂漏性角化症 (Seborrheic Keratosis)** に有効であ�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

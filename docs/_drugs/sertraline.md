@@ -27,7 +27,7 @@ predicted_indications: ["histrionic personality disorder (disease)", "schizotypa
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -127,6 +127,7 @@ TxGNN モデルは**演技性パーソナリティ障害 (histrionic personality
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

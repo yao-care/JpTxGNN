@@ -27,7 +27,7 @@ description: "Cefmetazole：予測新適応症は高澱粉酶血症、多株性�
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 

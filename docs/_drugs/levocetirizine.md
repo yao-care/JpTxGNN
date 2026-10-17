@@ -27,7 +27,7 @@ description: "Levocetirizine：予測新適応症は関節リウマチ (Rheumato
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -111,6 +111,7 @@ TxGNN の予測が唯一の根拠であり、臨床試験も文献も存在し�
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 

@@ -27,7 +27,7 @@ description: "Carfilzomib：予測新適応症はCMM7（エビデンスレベル
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## 薬剤師評価レポート
 
@@ -127,6 +127,7 @@ CMM7 に関する文献はありません。以下は、予測第 5 位のメラ
 臨床応用の前に臨床的検証が必要です。
 
 ---
+
 
 
 
