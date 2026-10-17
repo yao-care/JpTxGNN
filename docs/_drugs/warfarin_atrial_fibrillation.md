@@ -6,6 +6,7 @@ nav_order: 197
 evidence_level: L1
 indication_count: 1
 last_modified_at: 2026-09-17
+description: "Warfarin による心房細動の血栓予防：承認済み適応症の標準治療と DOAC の比較（エビデンスレベル L1）。予測新適応症ではありません。"
 ---
 
 # Warfarin Atrial Fibrillation

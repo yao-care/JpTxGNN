@@ -6,6 +6,7 @@ nav_order: 196
 evidence_level: L1
 indication_count: 1
 last_modified_at: 2026-09-17
+description: "Warfarin（心房細動）：承認済み適応症の標準治療に関する解説（エビデンスレベル L1）。ドラッグリポジショニングの予測ではありません。"
 ---
 
 # Warfarin Af
