@@ -8,7 +8,7 @@ nav_order: 37
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-09-17
-description: "Caplacizumab：予測新適応症は血小板原發釋放障礙 (primary release disorder of platelets)（エビデンスレベル L5）。既存適応症：後天性血栓性血小板低下紫斑症 (aTTP)，合併血漿置換術及免疫抑制劑使用"
+description: "Caplacizumab：予測新適応症は血小板放出障害 (primary release disorder of platelets)（エビデンスレベル L5）。既存適応症：後天性血栓性血小板減少性紫斑病 (aTTP)、血漿交換及び免疫抑制剤との併用"
 ---
 
 # Caplacizumab

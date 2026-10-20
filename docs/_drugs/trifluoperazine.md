@@ -35,7 +35,7 @@ description: "Trifluoperazine：予測新適応症は双極性障害の躁病相
 
 ## 一言まとめ
 
-Trifluoperazine (トリフルオペラジン) は、もともと精神病状態および行動障害の治療に用いられている。
+Trifluoperazine（トリフルオペラジン） は、もともと精神病状態および行動障害の治療に用いられている。
 TxGNN モデルは、本剤が**双極性障害の躁病相 (manic bipolar affective disorder)** に有効である可能性を予測しており、
 現時点で **20 篇の文献**がこの方向性を支持している。
 

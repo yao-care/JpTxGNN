@@ -8,7 +8,7 @@ nav_order: 114
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-09-17
-description: "Nitrofurantoin：予測新適応症は類風濕性關節炎 (rheumatoid arthritis)（エビデンスレベル L5）。既存適応症：尿路感染（膀胱炎、腎盂炎、尿道炎）"
+description: "Nitrofurantoin：予測新適応症は関節リウマチ (rheumatoid arthritis)（エビデンスレベル L5）。既存適応症：尿路感染（膀胱炎、腎盂腎炎、尿道炎）"
 ---
 
 # Nitrofurantoin

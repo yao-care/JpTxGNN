@@ -8,7 +8,7 @@ nav_order: 40
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-09-17
-description: "Carisoprodol：予測新適応症は失眠 (insomnia)（エビデンスレベル L5）。既存適応症：焦慮緊張症、肌炎、椎間神經痛、坐骨神經痛、頸痛、風濕性關節炎、骨關節炎、肌肉僵硬、肌肉痛"
+description: "Carisoprodol：予測新適応症は不眠症 (insomnia)（エビデンスレベル L5）。既存適応症：不安緊張状態、筋炎、肋間神経痛、坐骨神経痛、頸部痛、関節リウマチ、変形性関節症、筋硬直、筋肉痛"
 ---
 
 # Carisoprodol

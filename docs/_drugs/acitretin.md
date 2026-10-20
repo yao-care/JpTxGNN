@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Acitretin（アシトレチン）
+title: Acitretin
 parent: 中エビデンス (L3-L4)
 nav_order: 12
 evidence_level: L3
@@ -13,7 +13,7 @@ description: "Acitretin：予測新適応症は尋常性ざ瘡 (acne)（エビ�
 
 ## 一言まとめ
 
-Acitretin は本来、重症の乾癬および皮膚角化症に用いられます。
+Acitretin（アシトレチン）は本来、重症の乾癬および皮膚角化症に用いられます。
 TxGNN モデルは、**ざ瘡 (acne)** にも有効な可能性があると予測しており、
 現在この方向を支持する **臨床試験1件**と**文献18件**があります。
 

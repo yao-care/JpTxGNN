@@ -8,7 +8,7 @@ nav_order: 180
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-09-17
-description: "Tranexamic Acid：予測新適応症は閉經 (amenorrhea)（エビデンスレベル L5）。既存適応症：全身及局部出血或出血性疾病"
+description: "Tranexamic Acid：予測新適応症は無月経 (amenorrhea)（エビデンスレベル L5）。既存適応症：全身及び局所の出血又は出血性疾患"
 ---
 
 # Tranexamic Acid
@@ -37,7 +37,7 @@ description: "Tranexamic Acid：予測新適応症は閉經 (amenorrhea)（エ�
 
 ## 一言まとめ
 
-トラネキサム酸 (Tranexamic acid（トラネキサム酸）、断血炎) は、もともと全身及び局所の出血または出血性疾患に用いられる薬剤です。
+Tranexamic acid（トラネキサム酸）は、もともと全身及び局所の出血または出血性疾患に用いられる薬剤です。
 TxGNN モデルは、本剤が**無月経 (amenorrhea)** に有効である可能性を予測しており、
 現時点でこの方向性を支持する**文献が 2 件**あります。
 

@@ -8,7 +8,7 @@ nav_order: 179
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-09-17
-description: "Trabectedin：予測新適応症は女性乳腺癌 (female breast carcinoma)（エビデンスレベル L5）。既存適応症：無法切除或轉移性脂肪肉瘤/平滑肌肉瘤"
+description: "Trabectedin：予測新適応症は女性乳癌 (female breast carcinoma)（エビデンスレベル L5）。既存適応症：切除不能又は転移性の脂肪肉腫/平滑筋肉腫"
 ---
 
 # Trabectedin

@@ -8,7 +8,7 @@ nav_order: 89
 evidence_level: L5
 indication_count: 1
 last_modified_at: 2026-09-17
-description: "Iodixanol：予測新適応症は骨關節炎 (osteoarthritis)（エビデンスレベル L5）。既存適応症：X光對比劑：心臟血管、腦血管、周邊動脈造影等"
+description: "Iodixanol：予測新適応症は変形性関節症 (osteoarthritis)（エビデンスレベル L5）。既存適応症：X線造影剤：心血管、脳血管、末梢動脈造影等"
 ---
 
 # Iodixanol
