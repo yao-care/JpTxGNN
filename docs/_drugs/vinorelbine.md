@@ -31,11 +31,11 @@ description: "Vinorelbine：予測新適応症はEwing 肉腫 (Ewing sarcoma)（
 
 </div>
 
-# ビノレルビン：非小細胞肺癌から Ewing 肉腫へ
+# Vinorelbine：非小細胞肺癌から Ewing 肉腫へ
 
 ## 一言まとめ
 
-ビノレルビンは本来、非小細胞肺癌および転移性乳癌の治療に用いられます。
+Vinorelbine（ビノレルビン）は本来、非小細胞肺癌および転移性乳癌の治療に用いられます。
 TxGNN モデルは、本剤が **Ewing 肉腫 (Ewing sarcoma)** に有効な可能性があると予測しており、
 現在 **4 件の臨床試験**がこの方向性を支持しています。
 

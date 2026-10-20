@@ -34,7 +34,7 @@ description: "Brivaracetam：予測新適応症は視覚性てんかん (visual 
 # Brivaracetam：局所てんかんから視覚性てんかんへ
 
 ## 一言まとめ
-Brivaracetam は本来、局所てんかん発作の治療に用いられる第三世代の抗てんかん薬ですが、TxGNN は視覚性てんかん (visual epilepsy) に対する治療の可能性を予測しています。
+Brivaracetam（ブリバラセタム） は本来、局所てんかん発作の治療に用いられる第三世代の抗てんかん薬ですが、TxGNN は視覚性てんかん (visual epilepsy) に対する治療の可能性を予測しています。
 
 ## 概要
 

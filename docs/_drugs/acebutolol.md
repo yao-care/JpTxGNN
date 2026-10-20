@@ -35,7 +35,7 @@ description: "Acebutolol：予測新適応症は悪性腎血管性高血圧 (mal
 
 ## 一言まとめ
 
-Acebutolol は本来、高血圧、狭心症および不整脈に用いられる薬剤です。
+Acebutolol（アセブトロール） は本来、高血圧、狭心症および不整脈に用いられる薬剤です。
 TxGNN モデルは、本剤が**悪性腎血管性高血圧 (malignant renovascular hypertension)** に有効である可能性を予測しており、
 現在、この方向性を支持する**文献が1件**あります。
 

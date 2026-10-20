@@ -35,7 +35,7 @@ description: "Vismodegib：予測新適応症は色素性乾皮症 (Xeroderma Pi
 
 ## 一言まとめ
 
-Vismodegib は本来、転移性基底細胞癌の治療に用いられる薬剤である。
+Vismodegib（ビスモデギブ） は本来、転移性基底細胞癌の治療に用いられる薬剤である。
 TxGNN モデルは、本剤が**色素性乾皮症 (Xeroderma Pigmentosum)** に有効である可能性を予測しており、
 現在 **5 件の文献**がこの方向性を支持している。
 
@@ -58,7 +58,7 @@ TxGNN モデルは、本剤が**色素性乾皮症 (Xeroderma Pigmentosum)** に
 
 ## 文献エビデンス
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
+| PMID | 発行年 | 種類 | 雑誌 | 主な知見 |
 |------|-----|------|------|---------|
 | [36921168](https://pubmed.ncbi.nlm.nih.gov/36921168/) | 2023 | Case report | Revista paulista de pediatria : orgao oficial da Sociedade de Pediatria de Sao Paulo | 本研究は色素性乾皮症（XP）の疾患と治療を記述し、医療従事者に対して患者の症状や徴候を早期に認識するよう喚起することを目的としている。 |
 | [35283513](https://pubmed.ncbi.nlm.nih.gov/35283513/) | 2021 | Review | Indian journal of dermatology | 本論文では XP の治療戦略として、日光の回避、癌性病変の外科的切除、レーザーおよび光線力学療法、さらにレチノイド、5-FU、イミキモドなどの使用について検討している。 |

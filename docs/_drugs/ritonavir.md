@@ -35,7 +35,7 @@ description: "Ritonavir：予測新適応症はサル免疫不全ウイルス感
 
 ## 一言まとめ
 
-Ritonavir はHIVプロテアーゼ阻害薬で、もともとヒト免疫不全ウイルス（HIV）感染症の治療に用いられています。TxGNN モデルは、本剤が**サル免疫不全ウイルス感染症 (Simian Immunodeficiency Virus Infection)** に有効である可能性を予測しており、現在、この方向性を支持する**複数の文献**があります。
+Ritonavir（リトナビル） はHIVプロテアーゼ阻害薬で、もともとヒト免疫不全ウイルス（HIV）感染症の治療に用いられています。TxGNN モデルは、本剤が**サル免疫不全ウイルス感染症 (Simian Immunodeficiency Virus Infection)** に有効である可能性を予測しており、現在、この方向性を支持する**複数の文献**があります。
 
 ## 概要
 

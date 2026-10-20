@@ -33,19 +33,19 @@ description: "Methionine：予測新適応症は痤瘡 (Acne)（エビデンス�
 
 </div>
 
-# Methionine：從肝機能障礙到痤瘡
+# Methionine：肝機能障害から尋常性痤瘡へ
 
 ## 一言まとめ
 
-Methionine 原本用於治療肝機能障礙及藥物中毒。
-TxGNN 模型預測它可能對**痤瘡 (Acne)** 有效，
-目前有 **4 篇文獻**支持這個方向，但缺乏臨床試驗證據。
+Methionine（メチオニン） は本来、肝機能障害および薬物中毒の治療に用いられています。
+TxGNN モデルは、これが**痤瘡 (Acne)** に有効である可能性を予測しており、
+現在 **4 件の文献**がこの方向性を支持していますが、臨床試験のエビデンスは不足しています。
 
 ## 概要
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 肝機能障礙 |
+| 既存適応症 | 肝機能障害 |
 | 予測新適応症 | 痤瘡 (Acne) |
 | TxGNN 予測スコア | 99.9996% |
 | エビデンスレベル | L5 |
@@ -55,22 +55,22 @@ TxGNN 模型預測它可能對**痤瘡 (Acne)** 有效，
 
 ## この予測が妥当な理由
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Methionine 是一種氨基酸，
-在肝機能障礙中的療效已被證實，機轉上可能通過影響同型半胱氨酸代謝間接影響皮膚健康，
-但缺乏直接證據支持其對痤瘡的療效。
+現時点では、詳細な作用機序に関するデータは不足しています。既知の情報によれば、Methionine はアミノ酸の一種であり、
+肝機能障害における有効性は確認されています。機序としては、ホモシステイン代謝に影響することで間接的に皮膚の健康へ影響する可能性がありますが、
+痤瘡に対する有効性を直接支持するエビデンスはありません。
 
 ## 臨床試験エビデンス
 
-目前無相關臨床試驗登記
+現時点で関連する臨床試験の登録はありません
 
 ## 文献エビデンス
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
+| PMID | 発行年 | 種類 | 雑誌 | 主な知見 |
 |------|-----|------|------|---------|
-| [11277950](https://pubmed.ncbi.nlm.nih.gov/11277950/) | 2001 | Cohort | International journal of dermatology | 使用Isotretinoin治療囊性痤瘡的患者中，血液中的同型半胱氨酸水平升高，這可能與皮膚健康有關。 |
-| [39357918](https://pubmed.ncbi.nlm.nih.gov/39357918/) | 2024 | Case report | BMJ case reports | 描述了一例新生兒痤瘡的病例，與甲基四氫葉酸還原酶突變相關。 |
-| [3161955](https://pubmed.ncbi.nlm.nih.gov/3161955/) | 1985 | Review | The Journal of investigative dermatology | 在皮膚炎症性疾病中，C5a特異性中性粒細胞功能的暫時缺失與痤瘡有關。 |
-| [3859500](https://pubmed.ncbi.nlm.nih.gov/3859500/) | 1985 | Review | Journal of the American Academy of Dermatology | 在Sweet's syndrome和囊性痤瘡患者中，化學趨化性略有增加，尤其是在病情惡化期間。 |
+| [11277950](https://pubmed.ncbi.nlm.nih.gov/11277950/) | 2001 | Cohort | International journal of dermatology | Isotretinoin で嚢胞性痤瘡を治療した患者では血中ホモシステイン値が上昇しており、これは皮膚の健康に関連している可能性がある。 |
+| [39357918](https://pubmed.ncbi.nlm.nih.gov/39357918/) | 2024 | Case report | BMJ case reports | メチレンテトラヒドロ葉酸還元酵素の変異に関連した新生児痤瘡の 1 例を報告した。 |
+| [3161955](https://pubmed.ncbi.nlm.nih.gov/3161955/) | 1985 | Review | The Journal of investigative dermatology | 皮膚の炎症性疾患において、C5a 特異的な好中球機能の一過性の欠損が痤瘡と関連している。 |
+| [3859500](https://pubmed.ncbi.nlm.nih.gov/3859500/) | 1985 | Review | Journal of the American Academy of Dermatology | Sweet's syndrome および嚢胞性痤瘡の患者では、特に増悪期に走化性がわずかに増加していた。 |
 
 ## 日本市販情報
 
@@ -78,24 +78,24 @@ TxGNN 模型預測它可能對**痤瘡 (Acne)** 有效，
 
 ## 安全性に関する考慮事項
 
-- **藥物交互作用**：
-  - Ephedrine：輕微交互作用
-  - Activated charcoal：中度交互作用
-  - Pseudoephedrine：輕微交互作用
-  - Mexiletine：輕微交互作用
-  - Flecainide：輕微交互作用
+- **薬物相互作用**：
+  - Ephedrine：軽度の相互作用
+  - Activated charcoal：中等度の相互作用
+  - Pseudoephedrine：軽度の相互作用
+  - Mexiletine：軽度の相互作用
+  - Flecainide：軽度の相互作用
 
 ## 結論と次のステップ
 
 **判断：Hold**
 
 **理由：**
-目前缺乏直接的臨床試驗和機轉證據支持 Methionine 用於痤瘡的療效，
-僅有文獻間接支持，證據等級低（L5）。
+Methionine の痤瘡に対する有効性を直接支持する臨床試験および機序のエビデンスは現時点で不足しており、
+文献による間接的な支持にとどまり、エビデンスレベルも低い（L5）。
 
 **推進に必要な事項：**
-- 進一步的臨床試驗以驗證 Methionine 對痤瘡的療效
-- 更詳細的藥物作用機轉資料（MOA）
+- Methionine の痤瘡に対する有効性を検証するための追加の臨床試験
+- より詳細な薬物の作用機序（MOA）に関するデータ
 
 ---
 

@@ -35,7 +35,7 @@ description: "Hydroquinone：予測新適応症は脂漏性角化症 (seborrheic
 
 ## 一言まとめ
 
-Hydroquinone は本来、肝斑やそばかすなどの色素沈着の治療に用いられます。
+Hydroquinone（ヒドロキノン） は本来、肝斑やそばかすなどの色素沈着の治療に用いられます。
 TxGNN モデルは、本剤が**脂漏性角化症 (seborrheic keratosis)** に有効である可能性を予測しています。
 現時点で、関連する治療戦略に言及した文献が **2 件**あります。
 

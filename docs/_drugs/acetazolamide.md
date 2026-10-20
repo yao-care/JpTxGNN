@@ -35,7 +35,7 @@ description: "Acetazolamide：予測新適応症は心筋症 (cardiomyopathy)（
 
 ## 一言まとめ
 
-Acetazolamide は本来、緑内障および利尿に用いられてきた薬剤である。
+Acetazolamide（アセタゾラミド） は本来、緑内障および利尿に用いられてきた薬剤である。
 TxGNN モデルは、本剤が**心筋症 (cardiomyopathy)** および**肥大型心筋症 (hypertrophic cardiomyopathy)** に有効である可能性を予測しており、
 現在 **3 件の臨床試験**と **10 件の文献**がこの方向性を支持している。
 

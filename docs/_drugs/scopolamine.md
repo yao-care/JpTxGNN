@@ -32,13 +32,13 @@ last_modified_at: 2026-09-17
 
 </div>
 
-# Scopolamine：從解痙劑到神經及眼科疾病探索
+# Scopolamine：解痙薬から神経・眼科疾患への探索
 
 ## 一言まとめ
 
-Scopolamine 主要用於胃腸道、膽道及尿路痙攣的緩解。
-TxGNN 模型預測它可能對**馬尾症候群 (Cauda Equina Syndrome)** 及**神經源性膀胱**有效，
-但目前缺乏臨床試驗及文獻支持這些新適應症。
+Scopolamine（スコポラミン） は主に胃腸管、胆道および尿路の痙攣の緩和に用いられる。
+TxGNN モデルは、本剤が**馬尾症候群 (Cauda Equina Syndrome)** および**神経因性膀胱**に有効である可能性を予測しているが、
+これらの新適応症を裏付ける臨床試験および文献は現時点では存在しない。
 
 ## 概要
 
@@ -54,30 +54,30 @@ TxGNN 模型預測它可能對**馬尾症候群 (Cauda Equina Syndrome)** 及**�
 
 ## この予測が妥当な理由
 
-Scopolamine（東莨菪鹼）是一種抗膽鹼藥物，作為毒蕈鹼受體拮抗劑，
-能抑制副交感神經活動，達到解痙及減少分泌的效果。
+Scopolamine（スコポラミン）は抗コリン薬であり、ムスカリン受容体拮抗薬として
+副交感神経の活動を抑制し、鎮痙および分泌抑制の効果を示す。
 
-**TxGNN 預測的新適應症與機轉關聯性分析：**
+**TxGNN が予測した新適応症と作用機序との関連性の分析：**
 
-| 排名 | 預測適應症 | 預測分數 | TxGNN 排名 | 機轉關聯性 |
+| 順位 | 予測適応症 | 予測スコア | TxGNN 順位 | 作用機序との関連性 |
 |------|-----------|---------|-----------|----------|
-| 1 | Cauda Equina Syndrome（馬尾症候群） | 99.99% | 548 | 可能緩解神經壓迫引起的膀胱痙攣 |
-| 2 | Neurogenic Bladder（神經源性膀胱） | 99.98% | 909 | 抗膽鹼作用可緩解膀胱過動 |
-| 3 | Papillary Conjunctivitis（乳頭狀結膜炎） | 99.98% | 1,025 | 關聯性不明確 |
-| 4 | Atopic Conjunctivitis（異位性結膜炎） | 99.80% | 4,736 | 關聯性不明確 |
-| 5 | Rosacea Conjunctivitis（酒糟結膜炎） | 99.40% | 11,144 | 關聯性不明確 |
-| 6 | Vernal Conjunctivitis（春季結膜炎） | 99.08% | 15,822 | 關聯性不明確 |
+| 1 | Cauda Equina Syndrome（馬尾症候群） | 99.99% | 548 | 神経圧迫に起因する膀胱痙攣を緩和する可能性がある |
+| 2 | Neurogenic Bladder（神経因性膀胱） | 99.98% | 909 | 抗コリン作用により過活動膀胱を緩和し得る |
+| 3 | Papillary Conjunctivitis（乳頭結膜炎） | 99.98% | 1,025 | 関連性は不明確 |
+| 4 | Atopic Conjunctivitis（アトピー性結膜炎） | 99.80% | 4,736 | 関連性は不明確 |
+| 5 | Rosacea Conjunctivitis（酒さ性結膜炎） | 99.40% | 11,144 | 関連性は不明確 |
+| 6 | Vernal Conjunctivitis（春季カタル） | 99.08% | 15,822 | 関連性は不明確 |
 
-馬尾症候群及神經源性膀胱的預測較為合理，因為 Scopolamine 的抗膽鹼作用可緩解膀胱過動及痙攣症狀。
-然而，結膜炎相關預測與已知機轉關聯性較弱。
+馬尾症候群および神経因性膀胱の予測は比較的妥当である。Scopolamine の抗コリン作用が、膀胱の過活動や痙攣症状を緩和し得るためである。
+一方、結膜炎関連の予測は、既知の作用機序との関連性が弱い。
 
 ## 臨床試験エビデンス
 
-目前無針對預測適應症的相關臨床試驗登記。
+予測適応症を対象とした臨床試験の登録は現時点では確認されていない。
 
 ## 文献エビデンス
 
-目前無針對預測適應症的相關 PubMed 文獻。
+予測適応症を対象とした PubMed 文献は現時点では確認されていない。
 
 ## 日本市販情報
 
@@ -85,18 +85,18 @@ Scopolamine（東莨菪鹼）是一種抗膽鹼藥物，作為毒蕈鹼受體拮
 
 ## 安全性に関する考慮事項
 
-- **主要藥物交互作用（重大）**：
-  - Topiramate、Zonisamide：可能增加體溫調節障礙風險
+- **主な薬物相互作用（重大）**：
+  - Topiramate、Zonisamide：体温調節障害のリスクを高める可能性がある
 
-- **中度藥物交互作用**：
-  - 鴉片類藥物：Fentanyl、Morphine、Codeine、Hydrocodone、Tramadol、Buprenorphine 等
-  - 抗膽鹼藥物：Atropine、Hyoscyamine、Glycopyrronium、Benzatropine 等
-  - 抗精神病藥物：Aripiprazole、Asenapine、Brexpiprazole 等
-  - 抗組織胺藥物：Chlorpheniramine、Brompheniramine 等
-  - 乙型阻斷劑：Atenolol、Bisoprolol、Acebutolol 等
-  - 其他：Ethanol、Amantadine、Amitriptyline、Loperamide
+- **中等度の薬物相互作用**：
+  - オピオイド系薬剤：Fentanyl、Morphine、Codeine、Hydrocodone、Tramadol、Buprenorphine など
+  - 抗コリン薬：Atropine、Hyoscyamine、Glycopyrronium、Benzatropine など
+  - 抗精神病薬：Aripiprazole、Asenapine、Brexpiprazole など
+  - 抗ヒスタミン薬：Chlorpheniramine、Brompheniramine など
+  - β遮断薬：Atenolol、Bisoprolol、Acebutolol など
+  - その他：Ethanol、Amantadine、Amitriptyline、Loperamide
 
-- **輕度藥物交互作用**：
+- **軽度の薬物相互作用**：
   - Acetaminophen、Hydrochlorothiazide
 
 安全性情報は添付文書をご参照ください。
@@ -106,17 +106,15 @@ Scopolamine（東莨菪鹼）是一種抗膽鹼藥物，作為毒蕈鹼受體拮
 **判断：Hold**
 
 **理由：**
-TxGNN 預測的馬尾症候群及神經源性膀胱適應症與 Scopolamine 的抗膽鹼作用機轉有一定關聯，
-但目前缺乏臨床試驗及文獻支持。結膜炎相關預測則與已知機轉關聯性較弱。
+TxGNN が予測した馬尾症候群および神経因性膀胱の適応症は、Scopolamine の抗コリン作用機序とある程度の関連があるが、
+現時点では臨床試験および文献による裏付けがない。結膜炎関連の予測は、既知の作用機序との関連性が弱い。
 
 **推進に必要な事項：**
-- 針對神經源性膀胱的臨床試驗數據
-- 探索 Scopolamine 在馬尾症候群相關膀胱功能障礙的應用
-- 評估長期使用的安全性，特別是與其他抗膽鹼藥物併用時
-
+- 神経因性膀胱を対象とした臨床試験データ
+- 馬尾症候群に関連する膀胱機能障害に対する Scopolamine の応用の検討
+- 長期使用時の安全性の評価、特に他の抗コリン薬との併用時
 
 ---
-
 
 <div class="disclaimer" style="background-color: #fff3cd; padding: 1rem; border-radius: 0.5rem; margin-top: 2rem;">
 <strong>⚠️ 免責事項</strong><br>

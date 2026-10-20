@@ -35,7 +35,7 @@ description: "Xylometazoline：予測新適応症は鼻腔疾患、急性咽喉�
 
 ## 一言まとめ
 
-Xylometazoline はもともと、鼻閉やアレルギー性鼻炎などの症状の緩和に用いられています。
+Xylometazoline（キシロメタゾリン） はもともと、鼻閉やアレルギー性鼻炎などの症状の緩和に用いられています。
 TxGNN モデルは、本剤が**鼻腔疾患 (nasal cavity disease)** と**急性咽喉頭炎 (acute laryngopharyngitis)** に有効である可能性を予測しています。
 鼻腔疾患の方向性については、**2 件の臨床試験**と **7 件の文献**が裏付けています。
 

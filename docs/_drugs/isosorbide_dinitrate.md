@@ -35,7 +35,7 @@ description: "Isosorbide Dinitrate：予測新適応症は肺高血圧症 (pulmo
 
 ## 一言まとめ
 
-Isosorbide dinitrate（硝酸イソソルビド）は有機硝酸エステル系の血管拡張薬で、狭心症の予防および治療に用いられます。TxGNN モデルは、本剤が**肺高血圧症 (pulmonary hypertension)** に対して治療効果を有する可能性があると予測しており、現在この予測を裏付ける文献が **20 篇**以上あり、エビデンスレベルは高いと考えられます。
+Isosorbide dinitrate（硝酸イソソルビド）（硝酸イソソルビド）は有機硝酸エステル系の血管拡張薬で、狭心症の予防および治療に用いられます。TxGNN モデルは、本剤が**肺高血圧症 (pulmonary hypertension)** に対して治療効果を有する可能性があると予測しており、現在この予測を裏付ける文献が **20 篇**以上あり、エビデンスレベルは高いと考えられます。
 
 ## 概要
 
@@ -67,7 +67,7 @@ Isosorbide dinitrate は一酸化窒素（NO）を放出し、血管平滑筋細
 
 ## 文献エビデンス
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
+| PMID | 発行年 | 種類 | 雑誌 | 主な知見 |
 |------|-----|------|------|---------|
 | [39164577](https://pubmed.ncbi.nlm.nih.gov/39164577/) | 2025 | Journal Article | Heart and vessels | ISDN のボーラス注射で mPAP が低下し、毛細血管後性肺高血圧症でより良好な効果 |
 | [6423015](https://pubmed.ncbi.nlm.nih.gov/6423015/) | 1984 | Comparative Study | Bull Eur Physiopathol Respir | ISDN および NTG はいずれも COPD 患者の肺動脈圧を低下させた |

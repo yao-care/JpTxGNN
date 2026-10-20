@@ -35,7 +35,7 @@ description: "Human Immunoglobulin G：予測新適応症は糖尿病網膜症 (
 
 ## 一言まとめ
 
-Human immunoglobulin G（IVIG）は、もともと免疫不全症、ITP、川崎病などの免疫調節治療に用いられています。
+Human immunoglobulin G（ヒト免疫グロブリンG）（IVIG）は、もともと免疫不全症、ITP、川崎病などの免疫調節治療に用いられています。
 TxGNN モデルは、本剤が**糖尿病網膜症 (diabetic retinopathy)** に有効である可能性を予測しており、
 現在、関連する研究として **3 件の臨床試験**と **20 件の文献**があります。
 

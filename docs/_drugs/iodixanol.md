@@ -33,18 +33,18 @@ description: "Iodixanol：予測新適応症は骨關節炎 (osteoarthritis)（�
 
 </div>
 
-# Iodixanol：從 X光對比劑 到 骨關節炎
+# Iodixanol：X線造影剤から変形性関節症へ
 
 ## 一言まとめ
 
-Iodixanol（易渠派克）是一種等滲透壓的碘化X光對比劑，用於心血管、腦血管及泌尿道造影。TxGNN 模型預測它可能對**骨關節炎 (osteoarthritis)** 有潛在關聯，目前有 **7 篇文獻**探討相關機制，但無臨床試驗支持。
+Iodixanol（イオジキサノール）は等浸透圧性のヨード造影剤で、心血管、脳血管および尿路の造影に用いられます。TxGNN モデルは、本剤が**変形性関節症 (osteoarthritis)** に関連する可能性があると予測しており、現在その関連機序を検討した**文献が7件**ありますが、臨床試験による裏付けはありません。
 
 ## 概要
 
 | 項目 | 内容 |
 |------|------|
 | 既存適応症 | 日本の承認適応症は本サイトのデータに未収載 |
-| 予測新適応症 | 骨關節炎 (osteoarthritis) |
+| 予測新適応症 | 変形性関節症 (osteoarthritis) |
 | TxGNN 予測スコア | 99.07% |
 | エビデンスレベル | L5 |
 | 日本市販状況 | 本サイトのデータに未収載 |
@@ -53,25 +53,25 @@ Iodixanol（易渠派克）是一種等滲透壓的碘化X光對比劑，用於�
 
 ## この予測が妥当な理由
 
-Iodixanol 是一種非離子型等滲透壓的碘化對比劑，主要用於影像學檢查。目前缺乏直接的藥理機轉資料說明其對骨關節炎的治療潛力。
+Iodixanol は非イオン性の等浸透圧性ヨード造影剤で、主に画像検査に用いられます。現時点では、変形性関節症に対する治療的可能性を説明する直接的な薬理学的機序のデータはありません。
 
-然而，從文獻證據來看，Iodixanol 作為顯影劑被用於關節軟骨的 CT 造影研究。多篇研究使用對比增強電腦斷層（CECT）技術結合 iodixanol 來評估軟骨結構和成分變化，這些變化與早期骨關節炎相關。這種應用主要是診斷性質，而非治療性質。
+しかし、文献上のエビデンスを見ると、iodixanol は造影剤として関節軟骨の CT 造影研究に用いられています。複数の研究で、造影増強コンピュータ断層撮影（CECT）技術と iodixanol を組み合わせ、軟骨の構造や組成の変化を評価しており、これらの変化は早期の変形性関節症と関連しています。この用途は主に診断目的であり、治療目的ではありません。
 
-TxGNN 的預測可能反映了藥物與疾病在知識圖譜中的共現關係（如文獻中同時提及），而非直接的治療效果。
+TxGNN の予測は、薬剤と疾患が知識グラフ上で共起する関係（文献中で同時に言及されているなど）を反映している可能性があり、直接的な治療効果を示すものではありません。
 
 ## 臨床試験エビデンス
 
-目前無相關臨床試驗登記。
+現在、関連する臨床試験の登録はありません。
 
 ## 文献エビデンス
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
+| PMID | 年 | 種類 | 雑誌 | 主な知見 |
 |------|-----|------|------|---------|
-| [40155520](https://pubmed.ncbi.nlm.nih.gov/40155520/) | 2025 | Journal Article | Ann Biomed Eng | 使用光子計數CT結合雙對比劑評估關節軟骨健康 |
-| [28063646](https://pubmed.ncbi.nlm.nih.gov/28063646/) | 2017 | Journal Article | J Biomech | 使用iodixanol研究骨軟骨界面的溶質傳輸 |
-| [30145230](https://pubmed.ncbi.nlm.nih.gov/30145230/) | 2018 | Journal Article | Osteoarthr Cartil | 研究馬下顎髁軟骨老化不影響壓縮剛性 |
-| [39012563](https://pubmed.ncbi.nlm.nih.gov/39012563/) | 2024 | Journal Article | Ann Biomed Eng | 透過奈米粒子擴散成像揭示軟骨功能 |
-| [27793406](https://pubmed.ncbi.nlm.nih.gov/27793406/) | 2016 | Journal Article | J Biomech | 骨軟骨界面中性溶質傳輸的有限元分析 |
+| [40155520](https://pubmed.ncbi.nlm.nih.gov/40155520/) | 2025 | Journal Article | Ann Biomed Eng | フォトンカウンティングCTと二重造影剤を用いた関節軟骨の健常性評価 |
+| [28063646](https://pubmed.ncbi.nlm.nih.gov/28063646/) | 2017 | Journal Article | J Biomech | iodixanol を用いた骨軟骨界面における溶質輸送の検討 |
+| [30145230](https://pubmed.ncbi.nlm.nih.gov/30145230/) | 2018 | Journal Article | Osteoarthr Cartil | ウマの下顎顆軟骨の加齢が圧縮剛性に影響しないことを検討 |
+| [39012563](https://pubmed.ncbi.nlm.nih.gov/39012563/) | 2024 | Journal Article | Ann Biomed Eng | ナノ粒子拡散イメージングによる軟骨機能の解明 |
+| [27793406](https://pubmed.ncbi.nlm.nih.gov/27793406/) | 2016 | Journal Article | J Biomech | 骨軟骨界面における中性溶質輸送の有限要素解析 |
 
 ## 日本市販情報
 
@@ -79,31 +79,31 @@ TxGNN 的預測可能反映了藥物與疾病在知識圖譜中的共現關係�
 
 ## 安全性に関する考慮事項
 
-**藥物交互作用**：
+**薬物相互作用**：
 
-主要交互作用（Major）：
-- Metformin：可能增加乳酸酸中毒風險
-- Amphotericin B：可能增加腎毒性
-- Vancomycin、Aminoglycosides（Amikacin, Gentamicin, Kanamycin）：可能增加腎毒性
-- Cyclosporine、Tacrolimus：可能增加腎毒性
-- NSAIDs（Ketorolac, Ibuprofen, Naproxen, Celecoxib）：可能增加腎毒性
-- Cisplatin：可能增加腎毒性
+主要な相互作用（Major）：
+- Metformin：乳酸アシドーシスのリスクを増加させる可能性
+- Amphotericin B：腎毒性を増加させる可能性
+- Vancomycin、Aminoglycosides（Amikacin, Gentamicin, Kanamycin）：腎毒性を増加させる可能性
+- Cyclosporine、Tacrolimus：腎毒性を増加させる可能性
+- NSAIDs（Ketorolac, Ibuprofen, Naproxen, Celecoxib）：腎毒性を増加させる可能性
+- Cisplatin：腎毒性を増加させる可能性
 
-中度交互作用（Moderate）：
-- Beta-blockers（Metoprolol, Atenolol 等）
-- 利尿劑（Furosemide, Hydrochlorothiazide 等）
+中等度の相互作用（Moderate）：
+- Beta-blockers（Metoprolol, Atenolol など）
+- 利尿薬（Furosemide, Hydrochlorothiazide など）
 
 ## 結論と次のステップ
 
 **判断：Hold**
 
 **理由：**
-文獻中 iodixanol 與骨關節炎的關聯主要來自診斷性應用（顯影劑用於軟骨造影），而非治療效果。缺乏機轉支持和臨床試驗證據表明這個預測可能是知識圖譜中的偽相關。
+文献における iodixanol と変形性関節症の関連は主に診断目的の応用（軟骨造影における造影剤としての使用）に由来し、治療効果によるものではありません。機序面の裏付けや臨床試験のエビデンスが乏しいことから、この予測は知識グラフ上の偽相関である可能性があります。
 
 **推進に必要な事項：**
-- 明確的藥理機轉研究支持治療潛力
-- 體外/體內實驗驗證 iodixanol 對軟骨的直接效果
-- 目前不建議進一步探索此適應症
+- 治療的可能性を裏付ける明確な薬理機序の研究
+- iodixanol の軟骨に対する直接的効果についての in vitro／in vivo 実験による検証
+- 現時点では、この適応症についてこれ以上の探索は推奨されません
 
 
 ---

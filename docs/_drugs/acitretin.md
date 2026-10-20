@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Acitretin
+title: Acitretin（アシトレチン）
 parent: 中エビデンス (L3-L4)
 nav_order: 12
 evidence_level: L3

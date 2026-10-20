@@ -32,13 +32,13 @@ last_modified_at: 2026-09-17
 
 </div>
 
-# Caspofungin：從抗真菌到胃泌素分泌異常的探索
+# Caspofungin：抗真菌薬から胃泌素分泌異常への探索
 
 ## 一言まとめ
 
-Caspofungin 是棘白菌素類抗真菌藥物，用於侵入性麴菌病和念珠菌感染。
-TxGNN 模型預測它可能對**胃泌素分泌異常 (gastrin secretion abnormality)** 有效，
-但目前**無臨床試驗或文獻**支持這一預測。
+Caspofungin（カスポファンギン） はキャンディン系抗真菌薬で、侵襲性アスペルギルス症およびカンジダ感染症に用いられる。
+TxGNN モデルは、本剤が**胃泌素分泌異常 (gastrin secretion abnormality)** に有効である可能性を予測しているが、
+この予測を裏づける**臨床試験や文献は現時点でない**。
 
 ## 概要
 
@@ -54,23 +54,23 @@ TxGNN 模型預測它可能對**胃泌素分泌異常 (gastrin secretion abnorma
 
 ## この予測が妥当な理由
 
-Caspofungin 是一種棘白菌素類抗真菌藥物，其作用機轉為：
+Caspofungin はキャンディン系抗真菌薬であり、その作用機序は次のとおりである。
 
-1. **細胞壁合成抑制**：抑制 1,3-beta-D-glucan 合成酶，破壞真菌細胞壁
-2. **選擇性作用**：主要對念珠菌屬和麴菌屬有效
+1. **細胞壁合成の阻害**：1,3-beta-D-glucan 合成酵素を阻害し、真菌の細胞壁を破壊する
+2. **選択的作用**：主にカンジダ属とアスペルギルス属に有効
 
-**與預測適應症的潛在關聯分析**：
-- 目前無明確的生物學機轉支持 caspofungin 與胃泌素分泌調節的關聯
-- 此預測可能來自知識圖譜中的間接關聯，但缺乏實質證據
-- 胃泌素分泌異常通常與 Zollinger-Ellison 症候群等內分泌疾病相關，與抗真菌治療無直接關係
+**予測適応症との潜在的関連の分析**：
+- 現時点では、caspofungin と胃泌素分泌調節との関連を支持する明確な生物学的機序はない
+- この予測は知識グラフ上の間接的な関連に由来する可能性があるが、実質的なエビデンスを欠く
+- 胃泌素分泌異常は通常、Zollinger-Ellison 症候群などの内分泌疾患に関連し、抗真菌治療とは直接の関係がない
 
 ## 臨床試験エビデンス
 
-目前無針對 caspofungin 治療胃泌素分泌異常的臨床試驗。
+caspofungin による胃泌素分泌異常の治療を対象とした臨床試験は、現時点でない。
 
 ## 文献エビデンス
 
-目前無相關文獻支持 caspofungin 用於胃泌素分泌異常的治療。
+caspofungin の胃泌素分泌異常への使用を支持する関連文献は、現時点でない。
 
 ## 日本市販情報
 
@@ -78,35 +78,35 @@ Caspofungin 是一種棘白菌素類抗真菌藥物，其作用機轉為：
 
 ## 安全性に関する考慮事項
 
-**重要警語**：
-- 需監測肝功能，肝功能不全患者需調整劑量
-- 可能引起輸注相關反應（發燒、寒顫、潮紅等）
-- 中度肝功能不全（Child-Pugh 7-9 分）需減量使用
+**重要な警告**：
+- 肝機能のモニタリングが必要であり、肝機能障害患者では用量調整が必要
+- 輸注関連反応（発熱、悪寒、潮紅など）を起こすことがある
+- 中等度の肝機能障害（Child-Pugh 7-9 点）では減量して使用する
 
-**藥物交互作用**：
-- 與 Dexamethasone（Major）：可能降低 caspofungin 血中濃度
-- 與 Leflunomide（Major）：可能增加肝毒性風險
-- 與 Teriflunomide（Major）：可能增加肝毒性風險
-- 與 Tacrolimus（Moderate）：Caspofungin 可能降低 tacrolimus 血中濃度
-- 與 Cyclosporine（Moderate）：可能增加 caspofungin 血中濃度和肝毒性風險
-- 與 Naltrexone（Moderate）：可能有交互作用
-- 與 Lumacaftor（Moderate）：可能降低 caspofungin 濃度
+**薬物相互作用**：
+- Dexamethasone（Major）：caspofungin の血中濃度を低下させる可能性がある
+- Leflunomide（Major）：肝毒性のリスクを増加させる可能性がある
+- Teriflunomide（Major）：肝毒性のリスクを増加させる可能性がある
+- Tacrolimus（Moderate）：Caspofungin が tacrolimus の血中濃度を低下させる可能性がある
+- Cyclosporine（Moderate）：caspofungin の血中濃度と肝毒性のリスクを増加させる可能性がある
+- Naltrexone（Moderate）：相互作用を起こす可能性がある
+- Lumacaftor（Moderate）：caspofungin の濃度を低下させる可能性がある
 
-**多種未知等級交互作用**：
-包括 Calcitriol、Pantoprazole、Doxycycline、Morphine、Omeprazole、Lansoprazole、Vancomycin、Fluconazole 等，建議臨床使用時密切監測。
+**重症度不明の多様な相互作用**：
+Calcitriol、Pantoprazole、Doxycycline、Morphine、Omeprazole、Lansoprazole、Vancomycin、Fluconazole などが含まれ、臨床使用時には慎重なモニタリングを推奨する。
 
 ## 結論と次のステップ
 
 **判断：Hold**
 
 **理由：**
-此預測缺乏生物學合理性和臨床證據支持。Caspofungin 作為抗真菌藥物，其作用機轉與胃泌素分泌調節無明確關聯。在沒有進一步的前臨床或臨床證據之前，不建議探索此適應症。
+この予測には生物学的な妥当性と臨床的エビデンスの裏づけがない。Caspofungin は抗真菌薬であり、その作用機序と胃泌素分泌調節との間に明確な関連はない。さらなる前臨床または臨床のエビデンスが得られるまでは、この適応症の探索は推奨しない。
 
 **推進に必要な事項：**
-- 基礎研究闡明 caspofungin 與胃泌素分泌的潛在關聯
-- 前臨床動物實驗驗證
-- 明確的作用機轉假說
-- 臨床試驗設計的合理性論證
+- caspofungin と胃泌素分泌との潜在的な関連を解明する基礎研究
+- 前臨床の動物実験による検証
+- 明確な作用機序の仮説
+- 臨床試験デザインの妥当性の論証
 
 
 ---

@@ -31,10 +31,10 @@ description: "Butenafine：予測新適応症は皮膚カンジダ症 (cutaneous
 
 </div>
 
-# ブテナフィン：皮膚真菌感染症から皮膚カンジダ症へ
+# Butenafine：皮膚真菌感染症から皮膚カンジダ症へ
 
 ## 一言まとめ
-Butenafine は、水虫、股部白癬、体部白癬などの皮膚真菌感染症の治療に用いられる外用抗真菌薬で、TxGNN は皮膚カンジダ症 (cutaneous candidiasis) に対する治療の可能性を予測しています。
+Butenafine（ブテナフィン） は、水虫、股部白癬、体部白癬などの皮膚真菌感染症の治療に用いられる外用抗真菌薬で、TxGNN は皮膚カンジダ症 (cutaneous candidiasis) に対する治療の可能性を予測しています。
 
 ## 概要
 

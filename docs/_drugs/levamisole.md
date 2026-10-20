@@ -32,20 +32,20 @@ last_modified_at: 2026-09-17
 
 </div>
 
-# Levamisole：從抗腫瘍輔助治療到藥物誘發性骨質疏鬆症
+# Levamisole：抗腫瘍補助療法から薬剤性骨粗鬆症へ
 
 ## 一言まとめ
 
-Levamisole 原本用於抗腫瘍輔助治療及驅蟲劑。
-TxGNN 模型預測它可能對**藥物誘發性骨質疏鬆症 (drug-induced osteoporosis)** 有效，
-但目前僅有模型預測支持，缺乏臨床試驗和文獻證據。
+Levamisole（レバミゾール） は本来、抗腫瘍補助療法および駆虫薬として用いられてきました。
+TxGNN モデルは、本薬が**薬剤性骨粗鬆症 (drug-induced osteoporosis)** に有効である可能性を予測していますが、
+現時点ではモデルによる予測のみが根拠であり、臨床試験や文献のエビデンスはありません。
 
 ## 概要
 
 | 項目 | 内容 |
 |------|------|
 | 既存適応症 | 日本の承認適応症は本サイトのデータに未収載（知識グラフ上の適応症：ascaridiasis、ancylostomiasis） |
-| 予測新適応症 | 藥物誘發性骨質疏鬆症 (drug-induced osteoporosis) |
+| 予測新適応症 | 薬剤性骨粗鬆症 (drug-induced osteoporosis) |
 | TxGNN 予測スコア | 99.9993% |
 | エビデンスレベル | L5 |
 | 日本市販状況 | 本サイトのデータに未収載 |
@@ -54,16 +54,16 @@ TxGNN 模型預測它可能對**藥物誘發性骨質疏鬆症 (drug-induced ost
 
 ## この予測が妥当な理由
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Levamisole 是抗腫瘍輔助治療及驅蟲劑的一部分，
-其成分在這些適應症中的療效已被證實，但機轉上可能不適用於藥物誘發性骨質疏鬆症。
+現時点では、詳細な作用機序に関する資料がありません。既知の情報によれば、Levamisole は抗腫瘍補助療法および駆虫薬の一部であり、
+これらの適応症における有効性は確認されていますが、作用機序の面では薬剤性骨粗鬆症には当てはまらない可能性があります。
 
 ## 臨床試験エビデンス
 
-目前無相關臨床試驗登記
+現時点で関連する臨床試験の登録はありません
 
 ## 文献エビデンス
 
-目前無相關文獻
+現時点で関連する文献はありません
 
 ## 日本市販情報
 
@@ -71,29 +71,29 @@ TxGNN 模型預測它可能對**藥物誘發性骨質疏鬆症 (drug-induced ost
 
 ## 安全性に関する考慮事項
 
-- **藥物交互作用**：
-  - 與 Ethanol 存在中度交互作用
-  - 與 Deferiprone 存在重大交互作用
-  - 與 Palifermin 存在中度交互作用
-  - 與 Samarium (153Sm) lexidronam 存在重大交互作用
-  - 與 Strontium chloride Sr-89 存在中度交互作用
-  - 與 Warfarin 存在中度交互作用
-  - 與 Zidovudine 存在中度交互作用
-  - 與 Clostridium tetani toxoid antigen (formaldehyde inactivated) 存在中度交互作用
-  - 與 Adalimumab 存在重大交互作用
-  - 與 Alefacept 存在中度交互作用
+- **薬物相互作用**：
+  - Ethanol と中等度の相互作用あり
+  - Deferiprone と重大な相互作用あり
+  - Palifermin と中等度の相互作用あり
+  - Samarium (153Sm) lexidronam と重大な相互作用あり
+  - Strontium chloride Sr-89 と中等度の相互作用あり
+  - Warfarin と中等度の相互作用あり
+  - Zidovudine と中等度の相互作用あり
+  - Clostridium tetani toxoid antigen (formaldehyde inactivated) と中等度の相互作用あり
+  - Adalimumab と重大な相互作用あり
+  - Alefacept と中等度の相互作用あり
 
 ## 結論と次のステップ
 
 **判断：Hold**
 
 **理由：**
-目前僅有模型預測支持 Levamisole 用於藥物誘發性骨質疏鬆症，缺乏臨床試驗和文獻證據。
+現時点では、Levamisole の薬剤性骨粗鬆症への使用を支持する根拠はモデルによる予測のみであり、臨床試験や文献のエビデンスがありません。
 
 **推進に必要な事項：**
-- 詳細的藥物作用機轉資料（MOA）
-- 進一步的臨床試驗設計與執行
-- 與藥物誘發性骨質疏鬆症相關的機轉研究
+- 詳細な薬物の作用機序（MOA）に関する資料
+- さらなる臨床試験の設計と実施
+- 薬剤性骨粗鬆症に関連する作用機序の研究
 
 ---
 

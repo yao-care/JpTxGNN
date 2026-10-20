@@ -35,7 +35,7 @@ description: "Aluminum Hydroxide：予測新適応症は活動性消化性潰瘍
 
 ## 一言まとめ
 
-Aluminum hydroxide は本来、胃酸過多および胃部不快感の緩和に用いられています。
+Aluminum hydroxide（水酸化アルミニウム） は本来、胃酸過多および胃部不快感の緩和に用いられています。
 TxGNN モデルは、本剤が**活動性消化性潰瘍 (active peptic ulcer disease)** に有効である可能性を予測しており、
 現在、この方向性を支持する**文献が 15 件**あります。
 
