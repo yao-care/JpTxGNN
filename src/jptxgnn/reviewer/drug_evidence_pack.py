@@ -15,7 +15,7 @@ from .llm_client import LLMClient
 # 2026-10-17：status 欄有值不代表註銷（各國是 Authorised／有効／Vigente…），只認註銷類字樣
 _CANCELLED = re.compile(r"註銷|撤銷|廢止|取消|cancel|withdraw|revok|suspen|expir|lapse|discontinu|retir|inactive|refus|annul|"
                         r"widerruf|zurückgez|ruhend|retirad|cancelad|caducad|revocad|retiré|abrog|revoca|sospes|ritirat|"
-                        r"återkall|avregistr|tilbakekall|ingetrokken|vervallen|peruutet|lakkaut|ملغ|موقوف", re.I)
+                        r"återkall|avregistr|tilbakekall|ingetrokken|vervallen|peruutet|lakkaut|ملغ|موقوف|inativ", re.I)
 
 
 class ValidationError(Exception):
@@ -94,17 +94,17 @@ class DrugEvidencePackGenerator:
         recs = reg.get("records", [])
         seen, lics = set(), []
         for r in recs:
-            lid = r.get("license_id", r.get("許可證字號", ""))
+            lid = r.get("license_id") or r.get("許可證字號") or r.get("reg_no") or r.get("registration_number", "")  # NPRA 用 reg_no、ANVISA 用 registration_number
             if not lid or lid in seen:
                 continue
             seen.add(lid)
             ings = [i for i in (r.get("ingredients") or r.get("主成分略述") or "").split(";;") if i.strip()]
-            status = r.get("license_status") or ("cancelled" if _CANCELLED.search(str(r.get("status") or "") + str(r.get("註銷狀態") or "")) else "valid")
+            status = r.get("license_status") or ("cancelled" if _CANCELLED.search(str(r.get("status") or "") + str(r.get("registration_status") or "") + str(r.get("註銷狀態") or "")) else "valid")
             lics.append({
                 "license_number": lid,
-                "product_name_zh": r.get("brand_name_zh", r.get("中文品名", "")),
+                "product_name_zh": r.get("brand_name_zh") or r.get("中文品名") or r.get("product") or r.get("product_name", ""),
                 "dosage_form": r.get("dosage_form", r.get("劑型", "")),
-                "manufacturer": r.get("license_holder", r.get("製造廠", r.get("申請商", ""))),
+                "manufacturer": r.get("license_holder") or r.get("製造廠") or r.get("申請商") or r.get("holder") or r.get("company", ""),
                 "approved_indication_text": r.get("indication", r.get("適應症", "")),
                 "kind": r.get("kind") or ("single" if len(ings) <= 1 else "combo"),
                 "status": status,
