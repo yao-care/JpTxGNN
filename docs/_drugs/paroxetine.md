@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-17
 description: "Paroxetine：予測新適応症はOhdo 症候群および類縁疾患 (Ohdo syndrome and variants)（エビデンスレベル L5）。既存適応症：抗うつ薬、選択的セロトニン再取り込み阻害薬"
 monitor_inn: "Paroxetine"
-predicted_indications: ["Ohdo syndrome and variants", "blepharophimosis - intellectual disability syndrome, Ohdo type", "benign paroxysmal torticollis of infancy", "schizoid personality disorder", "histrionic personality disorder (disease)", "schizotypal personality disorder", "paranoid personality disorder"]
+predicted_indications: ["Ohdo syndrome and variants", "melancholia", "blepharophimosis - intellectual disability syndrome, Ohdo type", "benign paroxysmal torticollis of infancy", "agoraphobia", "schizoid personality disorder", "histrionic personality disorder (disease)", "schizotypal personality disorder", "paranoid personality disorder"]
 ---
 
 # Paroxetine

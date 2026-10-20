@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-17
 description: "Entecavir：予測新適応症は慢性C型肝炎ウイルス感染 (chronic hepatitis C virus infection)（エビデンスレベル L4）。既存適応症：B型肝炎（抗ウイルス薬、逆転写酵素阻害薬）"
 monitor_inn: "entecavir"
-predicted_indications: ["HIV infectious disease", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+predicted_indications: ["chronic hepatitis C virus infection", "HIV infectious disease", "hepatitis C virus infection", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "hepatitis, viral, animal", "hepatitis E virus infection", "hepatitis A virus infection"]
 ---
 
 # Entecavir

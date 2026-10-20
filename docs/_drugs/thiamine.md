@@ -5,10 +5,10 @@ parent: 中エビデンスレベル
 nav_order: 305
 evidence_level: L3
 indication_count: 10
-monitor_inn: "Thiamine"
-predicted_indications: ["hyperthyroidism", "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "primary hereditary glaucoma", "open-angle glaucoma", "pulmonary hypertension", "hyperthyroxinemia", "kyphoscoliotic heart disease", "Graves disease", "peripheral vascular disease", "neonatal thyrotoxicosis"]
 last_modified_at: 2026-10-17
 description: "Thiamine：予測新適応症は甲状腺機能亢進症 (Hyperthyroidism)（エビデンスレベル L3）。既存適応症：ビタミンB1補充薬（ウェルニッケ脳炎、脚気衝心）"
+monitor_inn: "Thiamine"
+predicted_indications: ["resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "pulmonary hypertension", "hyperthyroxinemia", "kyphoscoliotic heart disease", "Graves disease", "peripheral vascular disease", "neonatal thyrotoxicosis"]
 ---
 
 # Thiamine

@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-10-17
 description: "Etanercept：予測新適応症は関節リウマチ性血管炎 (Rheumatoid Vasculitis)（エビデンスレベル L4）。既存適応症：乾癬性関節炎、関節リウマチ、強直性脊椎炎、若年性特発性関節炎（日本の承認適応症テキストは、今回まとめたデータには含まれていません）"
 monitor_inn: "Etanercept"
-predicted_indications: ["inflammatory spondylopathy", "vertebral disease"]
+predicted_indications: ["hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "vertebral disease"]
 ---
 
 # Etanercept

@@ -78,6 +78,7 @@ BRANDS = {
     "ユナシン-S": ["DB00415", "DB09324"],                # ampicillin + sulbactam
     "ユナシン−S": ["DB00415", "DB09324"],
     "スルバシリン": ["DB00415", "DB09324"],
+    "強力レスタミンコーチゾンコーワ": ["DB01075", "DB00741"],  # diphenhydramine + hydrocortisone acetate
     "ネオレスタミンコーワ": ["DB01114"],                  # 單方 chlorpheniramine（mapping 誤對 diphenhydramine）
     "ブライアン": [],                                    # edetate calcium disodium，不是 calcium
 }
@@ -86,7 +87,7 @@ BRANDS = {
 def brand_override(name):
     n = nfkc(name)
     for k in sorted(BRANDS, key=len, reverse=True):
-        if n.startswith(nfkc(k)):
+        if nfkc(k) in n:  # 含前綴（小児用レルベア）也算
             return BRANDS[k]
     return None
 
@@ -173,10 +174,12 @@ def main():
         comps = components(ing) or components(name)
         if not comps and "・" in name:  # 「A・B」寫法沒有「配合」二字（アンピシリンナトリウム・スルバクタムナトリウム）
             parts = [base_name(x) for x in name.split("・")]
-            if len(parts) >= 2 and all(len(x) >= 4 for x in parts) and any(by_name(x) for x in parts):
+            if len(parts) >= 2 and all(len(x) >= 4 for x in parts) and (any(by_name(x) for x in parts) or r.get("drugbank_id")):
                 comps = parts
         if comps:
             pages = {id2page.get(by_name(c)) for c in comps} - {None}
+            if "・" in name and "配合" not in name and r.get("drugbank_id") and not prefixed_variant(r["drugbank_id"], ing):
+                pages |= {id2page.get(r["drugbank_id"])} - {None}  # 成分名對不到索引時，至少歸到 mapping 對到的成分
             for p in pages:
                 combo[p].add(name)
             num2pages[r["承認番号"]] = ("combo", pages)
@@ -206,7 +209,7 @@ def main():
         for s in (d.get("一般名"), d.get("有効成分")):
             generic |= {norm(base_name(s)), norm(SALT.sub("", base_name(s)))}
     generic = {g for g in generic if len(g) >= 3}
-    chem = re.compile(r"塩酸塩|硫酸塩|酢酸塩|水和物|酸化|塩化|炭酸|リン酸|クエン酸|ナトリウム|カリウム|カルシウム|マグネシウム")
+    chem = re.compile(r"塩酸塩|硫酸塩|酢酸塩|水和物|酸化|塩化|炭酸|リン酸|クエン酸|ナトリウム|カリウム|カルシウム|マグネシウム|石灰")
     def is_generic(nm):
         if chem.search(nfkc(nm)):
             return True  # 化學名（モルヒネ塩酸塩、重質酸化マグネシウム）不是商品名

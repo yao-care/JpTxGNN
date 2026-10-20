@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-10-17
 description: "Epinastine：予測新適応症は酒さ性結膜炎 (Rosacea Conjunctivitis)（エビデンスレベル L5）。既存適応症：気管支喘息、アレルギー性鼻炎、尋常性乾癬"
 monitor_inn: "Epinastine"
-predicted_indications: ["allergic urticaria"]
+predicted_indications: ["rosacea conjunctivitis", "allergic urticaria"]
 ---
 
 # Epinastine

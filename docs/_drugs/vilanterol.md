@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-17
 description: "Vilanterol：予測新適応症は閉塞性肺疾患 (Obstructive Lung Disease)（エビデンスレベル L1）。既存適応症：慢性閉塞性肺疾患、喘息、気管支炎、肺気腫"
 monitor_inn: "Vilanterol"
-predicted_indications: ["tracheal stenosis", "bronchial neoplasm (disease)", "respiratory malformation", "tracheal calcification", "laryngotracheitis"]
+predicted_indications: ["hyperlucent lung", "tracheal stenosis", "bronchial neoplasm (disease)", "respiratory malformation", "tracheal calcification", "laryngotracheitis"]
 ---
 
 # Vilanterol

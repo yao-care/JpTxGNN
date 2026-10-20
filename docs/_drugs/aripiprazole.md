@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-17
 description: "Aripiprazole：予測新適応症は大うつ病性障害 (Major Affective Disorder)（エビデンスレベル L1）。既存適応症：統合失調症、双極性障害における躁症状、うつ病・うつ状態"
 monitor_inn: "Aripiprazole"
-predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "asperger syndrome, susceptibility to", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
+predicted_indications: ["major affective disorder", "gaze palsy, familial horizontal, with progressive scoliosis", "asperger syndrome, susceptibility to", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
 ---
 
 # Aripiprazole

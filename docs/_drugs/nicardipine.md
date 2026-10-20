@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-10-17
 description: "Nicardipine：予測新適応症は原因不明の多因子性肺高血圧症 (pulmonary hypertension with unclear multifactorial me…（エビデンスレベル L5）。既存適応症：高血圧性緊急症、急性心不全、本態性高血圧症"
 monitor_inn: "Nicardipine"
-predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease"]
+predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "Braddock syndrome"]
 ---
 
 # Nicardipine

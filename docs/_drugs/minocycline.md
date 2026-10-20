@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-10-17
 description: "Minocycline：予測新適応症は点状表層角結膜炎 (Punctate Epithelial Keratoconjunctivitis)（エビデンスレベル L5）。既存適応症：尿路感染症、気管支炎、ざ瘡、歯周炎、淋病、咽頭炎など（日本の承認適応症の記載はなし）"
 monitor_inn: "Minocycline"
-predicted_indications: ["exposure keratitis"]
+predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis"]
 ---
 
 # Minocycline

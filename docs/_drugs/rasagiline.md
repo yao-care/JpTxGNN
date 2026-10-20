@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-10-17
 description: "Rasagiline：予測新適応症はPLA2G6 関連神経変性症 (PLA2G6-associated neurodegeneration)（エビデンスレベル L5）。既存適応症：パーキンソン病（日本の承認適応症のテキストは、今回のデータにはありません）"
 monitor_inn: "Rasagiline"
-predicted_indications: ["PLA2G6-associated neurodegeneration", "Rasmussen subacute encephalitis", "myelitis", "transaldolase deficiency", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis"]
+predicted_indications: ["PLA2G6-associated neurodegeneration", "Rasmussen subacute encephalitis", "myelitis", "paralysis agitans, juvenile, of Hunt", "transaldolase deficiency", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis"]
 ---
 
 # Rasagiline

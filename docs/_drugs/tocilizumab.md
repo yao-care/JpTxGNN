@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-17
 description: "Tocilizumab：予測新適応症は強直性脊椎炎 (Ankylosing Spondylitis)（エビデンスレベル L2）。既存適応症：関節リウマチ、若年性特発性関節炎、側頭動脈炎、キャッスルマン病など（日本の承認適応症テキストは未登録）"
 monitor_inn: "Tocilizumab"
-predicted_indications: ["inflammatory spondylopathy", "vertebral disease", "mendelian susceptibility to mycobacterial diseases due to complete IL12B deficiency"]
+predicted_indications: ["ankylosing spondylitis", "hypermobility of coccyx", "spondyloarthropathy, susceptibility to", "inflammatory spondylopathy", "Kummell disease", "vertebral disease", "mendelian susceptibility to mycobacterial diseases due to complete IL12B deficiency"]
 ---
 
 # Tocilizumab

@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-17
 description: "Verapamil：予測新適応症は閉塞性脚ブロック (obsolete bundle branch block)（エビデンスレベル L5）。既存適応症：抗不整脈薬、血管拡張薬、カルシウムチャネル遮断薬（心房細動、狭心症、心筋梗塞）"
 monitor_inn: "Verapamil"
-predicted_indications: ["obsolete bundle branch block", "malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "periodic paralysis with transient compartment-like syndrome", "obsolete susceptibility to ischemic stroke", "arrhythmogenic right ventricular cardiomyopathy", "brain stem infarction"]
+predicted_indications: ["obsolete bundle branch block", "malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "periodic paralysis with transient compartment-like syndrome", "obsolete susceptibility to ischemic stroke", "arrhythmogenic right ventricular cardiomyopathy", "brain stem infarction"]
 ---
 
 # Verapamil

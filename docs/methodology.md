@@ -17,7 +17,7 @@ JpTxGNN は知識グラフベースの機械学習手法を用いて、日本の
 
 ### データ構造
 
-TxGNN (Therapeutic Knowledge Graph Neural Network) は、薬物と疾病の関係を予測するための知識グラフです。
+TxGNN (Therapeutic Knowledge Graph Neural Network) は、生物医学知識グラフで学習し、薬物と疾病の関係を予測するグラフニューラルネットワークです。
 
 | 項目 | 数量 |
 |------|------|

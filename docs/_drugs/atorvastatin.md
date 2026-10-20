@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-17
 description: "Atorvastatin：予測新適応症は家族性高コレステロール血症 (Familial Hypercholesterolemia)（エビデンスレベル L1）。既存適応症：脂質異常症治療薬、HMG-CoA 還元酵素阻害薬"
 monitor_inn: "Atorvastatin"
-predicted_indications: ["HIV infectious disease", "brain stem infarction", "cholesterol-ester transfer protein deficiency", "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "hypoalphalipoproteinemia", "hypercholesterolemia, autosomal dominant", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection"]
+predicted_indications: ["HIV infectious disease", "brain stem infarction", "cholesterol-ester transfer protein deficiency", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "hypoalphalipoproteinemia", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection"]
 ---
 
 # Atorvastatin

@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-10-17
 description: "Felodipine：予測新適応症は肺疾患・低酸素に伴う肺高血圧症 (Pulmonary hypertension owing to lung disease and/or…（エビデンスレベル L4）。既存適応症：高血圧症（血圧降下薬・血管拡張薬・カルシウムチャネル遮断薬）"
 monitor_inn: "Felodipine"
-predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "chronic pulmonary heart disease"]
+predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease"]
 ---
 
 # Felodipine

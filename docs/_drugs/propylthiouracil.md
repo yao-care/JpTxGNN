@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-10-17
 description: "Propylthiouracil：予測新適応症は甲状腺ホルモンβ受容体変異による甲状腺ホルモン不応症 (Resistance to thyroid hormone due to a mu…（エビデンスレベル L5）。既存適応症：甲状腺機能亢進症"
 monitor_inn: "Propylthiouracil"
-predicted_indications: ["resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "hyperthyroxinemia"]
+predicted_indications: ["resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "neonatal thyrotoxicosis", "hyperthyroxinemia"]
 ---
 
 # Propylthiouracil

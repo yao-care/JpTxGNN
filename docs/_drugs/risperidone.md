@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-17
 description: "Risperidone：予測新適応症は気分障害 (Major affective disorder)（エビデンスレベル L1）。既存適応症：統合失調症"
 monitor_inn: "Risperidone"
-predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "asperger syndrome, susceptibility to", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania", "Tourette syndrome", "intellectual disability", "chromosome 15q11.2 deletion syndrome"]
+predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "asperger syndrome, susceptibility to", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania", "major affective disorder", "Tourette syndrome", "intellectual disability", "autism, susceptibility to", "chromosome 15q11.2 deletion syndrome"]
 ---
 
 # Risperidone

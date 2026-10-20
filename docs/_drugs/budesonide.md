@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-17
 description: "Budesonide：予測新適応症はアトピー性湿疹 (atopic eczema)（エビデンスレベル L4）。既存適応症：気管支喘息、クローン病、潰瘍性大腸炎"
 monitor_inn: "Budesonide"
-predicted_indications: ["atopic eczema", "dermatitis, atopic", "polyp of vocal cord", "polyp of middle ear", "epulis", "fibroepithelial polyp", "uterine polyp", "polyp of frontal sinus", "polyp of external auditory canal"]
+predicted_indications: ["atopic eczema", "bronchitis", "dermatitis, atopic", "polyp of vocal cord", "polyp of middle ear", "epulis", "fibroepithelial polyp", "uterine polyp", "polyp of frontal sinus", "polyp of external auditory canal"]
 ---
 
 # Budesonide

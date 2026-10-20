@@ -5,10 +5,10 @@ parent: モデル予測のみ
 nav_order: 346
 evidence_level: L5
 indication_count: 10
-monitor_inn: "Zolpidem"
-predicted_indications: ["sleep disorder, initiating and maintaining sleep", "benign paroxysmal torticollis of infancy", "agoraphobia", "acute encephalopathy with biphasic seizures and late reduced diffusion", "Wernicke-Korsakoff syndrome", "manic bipolar affective disorder", "alcohol withdrawal", "major affective disorder", "anxiety", "epilepsy, childhood absence, susceptibility to"]
 last_modified_at: 2026-10-17
 description: "Zolpidem：予測新適応症は睡眠障害（入眠・睡眠維持障害）(sleep disorder, initiating and maintaining sleep)（エビデンスレベル L5）。既存適応症：不眠症（催眠鎮静薬）"
+monitor_inn: "Zolpidem"
+predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "acute encephalopathy with biphasic seizures and late reduced diffusion", "Wernicke-Korsakoff syndrome", "manic bipolar affective disorder", "alcohol withdrawal", "major affective disorder", "anxiety", "epilepsy, childhood absence, susceptibility to"]
 ---
 
 # Zolpidem

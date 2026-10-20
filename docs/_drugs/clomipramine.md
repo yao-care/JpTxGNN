@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-17
 description: "Clomipramine：予測新適応症は不安障害 (Anxiety Disorder)（エビデンスレベル L2）。既存適応症：強迫性障害 (OCD)"
 monitor_inn: "Clomipramine"
-predicted_indications: ["benign paroxysmal torticollis of infancy", "schizoid personality disorder", "histrionic personality disorder (disease)", "schizotypal personality disorder", "paranoid personality disorder", "agoraphobia", "attention deficit-hyperactivity disorder"]
+predicted_indications: ["anxiety disorder", "benign paroxysmal torticollis of infancy", "schizoid personality disorder", "histrionic personality disorder (disease)", "schizotypal personality disorder", "paranoid personality disorder", "agoraphobia", "attention deficit-hyperactivity disorder"]
 ---
 
 # Clomipramine

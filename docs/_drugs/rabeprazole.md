@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-17
 description: "Rabeprazole：予測新適応症はくすぶり型全身性肥満細胞症 (Smouldering systemic mastocytosis)（エビデンスレベル L5）。既存適応症：胃潰瘍、十二指腸潰瘍、吻合部潰瘍、逆流性食道炎、Zollinger-Ellison 症候群、非びらん性胃食道逆流症…"
 monitor_inn: "Rabeprazole"
-predicted_indications: ["duodenal obstruction", "abnormality of glucagon secretion"]
+predicted_indications: ["lymphoadenopathic mastocytosis with eosinophilia", "gastroduodenitis", "duodenal obstruction", "abnormality of glucagon secretion"]
 ---
 
 # Rabeprazole
