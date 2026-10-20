@@ -5,8 +5,6 @@ parent: 高エビデンスレベル
 nav_order: 42
 evidence_level: L2
 indication_count: 1
-monitor_inn: "Bepotastine"
-predicted_indications: ["allergic urticaria"]
 last_modified_at: 2026-10-17
 description: "Bepotastine：予測新適応症はアレルギー性蕁麻疹 (Allergic Urticaria)（エビデンスレベル L2）。既存適応症：アレルギー性鼻炎（抗アレルギー薬、鎮痒薬、H1受容体拮抗薬）"
 ---
