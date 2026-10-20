@@ -120,6 +120,7 @@ TxGNN モデルは**高アミラーゼ血症 (Hyperamylasemia)** に有効であ
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

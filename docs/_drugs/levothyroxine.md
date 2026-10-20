@@ -140,6 +140,7 @@ TxGNN モデルは**風土病性甲状腺腫 (Endemic Goiter)** に有効であ�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

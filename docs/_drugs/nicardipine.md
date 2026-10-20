@@ -122,6 +122,7 @@ TxGNN モデルは**原因不明の多因子性肺高血圧症 (pulmonary hypert
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

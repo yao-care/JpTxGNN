@@ -117,6 +117,7 @@ TxGNN モデルは **focal stiff limb syndrome** に有効である可能性を�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

@@ -96,6 +96,7 @@ TxGNN モデルは**遺伝性網膜ジストロフィー（retinal dystrophy wit
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

@@ -102,6 +102,7 @@ TxGNN モデルは**結膜脂肪腫 (lipoma of the conjunctiva)** に有効で�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

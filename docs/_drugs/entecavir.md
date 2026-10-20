@@ -127,6 +127,7 @@ HCV は NS5B RNA 依存性 RNA ポリメラーゼで複製する RNA ウイル�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

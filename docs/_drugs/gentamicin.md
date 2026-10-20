@@ -127,6 +127,7 @@ TxGNN モデルは**関節リウマチ (Rheumatoid Arthritis)** に有効であ�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

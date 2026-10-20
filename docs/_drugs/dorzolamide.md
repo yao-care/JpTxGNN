@@ -118,6 +118,7 @@ TxGNN モデルは**原発性遺伝性緑内障 (primary hereditary glaucoma)** 
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 
@@ -126,5 +127,7 @@ TxGNN モデルは**原発性遺伝性緑内障 (primary hereditary glaucoma)** 
 **商品名**：トルソプト
 
 **販売名（規格別）**：トルソプト点眼液0.5%、トルソプト点眼液1%
+
+**配合剤（この成分を含む）**：コソプト配合点眼液、ドルモロール配合点眼液
 <!-- brand-names:end -->
 

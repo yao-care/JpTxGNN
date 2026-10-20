@@ -115,6 +115,7 @@ TxGNN モデルは**網膜ジストロフィー（retinal dystrophy with or with
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

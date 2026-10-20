@@ -128,6 +128,7 @@ TxGNN モデルは**甲状腺機能亢進症 (Hyperthyroidism)** に有効であ
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

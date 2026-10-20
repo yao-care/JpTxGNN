@@ -128,6 +128,7 @@ TxGNN モデルは**乳児良性発作性斜頸 (Benign Paroxysmal Torticollis o
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

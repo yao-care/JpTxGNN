@@ -87,14 +87,35 @@ BRANDS = {
     "ブライアン": [],                                    # edetate calcium disodium，不是 calcium
     "ワンタキソテール": ["DB01248"],                     # docetaxel（主成分欄是讀音，會被當成タキソテール的變體）
     "セレスタミン": ["DB00443", ""],                     # betamethasone + d-chlorpheniramine（後者本站無頁）
-    "ポララミン": [],                                    # dexchlorpheniramine（本站無成分頁），不是 chlorpheniramine
+    "ポララミン": [],
+    "ヒダントール": None,                                # 單方錠是 phenytoin；D/E/F 配合錠另見下方
+    "ヒダントールD": ["DB00252", "DB01174"],             # phenytoin + phenobarbital（＋咖啡因類，無頁）
+    "ヒダントールE": ["DB00252", "DB01174"],
+    "ヒダントールF": ["DB00252", "DB01174"],
+    "複合アレビアチン": ["DB00252", "DB01174"],
+    "ヘモポリゾン": ["DB00741", ""],                     # hydrocortisone + 大腸菌死菌
+    "強力ポステリザン": ["DB00741", ""],
+    "リーマス": [],                                      # 炭酸リチウム，不是 lithium_citrate 頁的クエン酸リチウム
+    "炭酸リチウム": [],                                    # dexchlorpheniramine（本站無成分頁），不是 chlorpheniramine
+}
+
+
+# 複方拆出的成分名對不到單方索引時（日本沒有該成分的單方產品，或索引衝突）用這張表（2026-10-21，U-03b 第八輪）。
+# 值是 DrugBank ID；ジヒドロコデイン 刻意不列（DB00318 是 codeine，不是同一個藥）。
+COMPONENT_IDS = {
+    "レボドパ": "DB01235", "カルビドパ": "DB00190", "アスピリン": "DB00945", "ラミブジン": "DB00709", "アバカビル": "DB01048",
+    "アスコルビン酸": "DB00126", "アンピシリン": "DB00415", "クロキサシリン": "DB01147", "カンデサルタン": "DB13919",
+    "バルサルタン": "DB00177", "テルミサルタン": "DB00966", "ロサルタン": "DB00678", "ヒドロクロロチアジド": "DB00999",
+    "アムロジピン": "DB00381", "アトルバスタチン": "DB01076", "ラタノプロスト": "DB00654", "チモロール": "DB00373",
+    "ドルゾラミド": "DB00869", "テガフール": "DB09256", "ギメラシル": "DB09257", "オテラシル": "DB03209",
+    "フェニトイン": "DB00252", "フェノバルビタール": "DB01174", "ベタメタゾン": "DB00443",
 }
 
 
 def brand_override(name):
     n = nfkc(name)
     for k in sorted(BRANDS, key=len, reverse=True):
-        if nfkc(k) in n:  # 含前綴（小児用レルベア）也算
+        if nfkc(k) in n and BRANDS[k] is not None:  # 含前綴（小児用レルベア）也算；None＝不覆寫
             return BRANDS[k]
     return None
 
@@ -187,7 +208,7 @@ def main():
             if len(parts) >= 2 and all(len(x) >= 4 for x in parts) and (any(by_name(x) for x in parts) or r.get("drugbank_id")):
                 comps = parts
         if comps:
-            pages = {id2page.get(by_name(c)) for c in comps} - {None}
+            pages = {id2page.get(by_name(c) or COMPONENT_IDS.get(SALT.sub("", c))) for c in comps} - {None}
             if "・" in name and "配合" not in name and r.get("drugbank_id") and not prefixed_variant(r["drugbank_id"], ing):
                 pages |= {id2page.get(r["drugbank_id"])} - {None}  # 成分名對不到索引時，至少歸到 mapping 對到的成分
             if (not pages and r.get("drugbank_id") and ion_ok(r.get("同義詞"), ing) and "類似物質" not in nfkc(ing)
@@ -244,6 +265,7 @@ def main():
     for r in rows:
         kind, pages = num2pages.get(r["承認番号"], (None, set()))
         b = re.sub(r"配合.*$", "", base_name(r["販売名"]))
+        b = re.sub(r"\s*(持続性水懸筋|HI皮下|皮下|懸濁用|懸濁|筋|口腔用|外用|眼科耳鼻科用|眼耳鼻科用)$", "", b)  # 劑型殘尾（ヒュミラ皮下注 → ヒュミラ）
         if kind == "single" and b and len(b) <= 20 and not is_generic(b):
             for p in pages:
                 trade[p].add(b)

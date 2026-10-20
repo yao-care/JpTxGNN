@@ -131,6 +131,7 @@ TxGNN モデルは**注意欠如・多動症 (Attention Deficit-Hyperactivity Di
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

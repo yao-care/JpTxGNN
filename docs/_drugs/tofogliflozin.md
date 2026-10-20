@@ -99,6 +99,7 @@ TxGNN モデルは**オプシスモディスプラジア (Opsismodysplasia)** �
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

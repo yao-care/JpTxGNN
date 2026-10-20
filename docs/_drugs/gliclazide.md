@@ -103,6 +103,7 @@ focal stiff limb syndrome に対しては、GABA 作動系の障害や自己免�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

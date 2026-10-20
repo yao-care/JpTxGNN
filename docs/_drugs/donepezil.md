@@ -127,6 +127,7 @@ TxGNN モデルの予測スコア第 1 位は**心因性運動障害 (Psychogeni
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

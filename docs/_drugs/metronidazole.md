@@ -122,6 +122,7 @@ TxGNN モデルは **ニューモシスチス症 (Pneumocystosis)** に有効で
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

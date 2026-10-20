@@ -131,6 +131,7 @@ TxGNN モデルは**無月経 (Amenorrhea)** に対する有効性を最上位�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

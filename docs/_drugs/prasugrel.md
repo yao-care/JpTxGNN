@@ -137,6 +137,7 @@ TxGNN モデルは**肺高血圧症 (Pulmonary Hypertension)** に有効であ�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

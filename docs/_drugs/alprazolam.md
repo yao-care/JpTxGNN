@@ -129,6 +129,7 @@ TxGNN モデルは**不眠症 (insomnia)** に有効である可能性を予測�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

@@ -121,6 +121,7 @@ TxGNN モデルは**多剤耐性結核 (multidrug-resistant tuberculosis)** に�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

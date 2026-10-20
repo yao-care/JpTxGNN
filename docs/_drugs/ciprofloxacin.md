@@ -120,6 +120,7 @@ TxGNN モデルは**びまん性強皮症 (Diffuse Scleroderma)** に有効で�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

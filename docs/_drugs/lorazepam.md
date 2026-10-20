@@ -127,6 +127,7 @@ TxGNN モデルの第 1 位予測は**三叉神経腫瘍 (trigeminal nerve neopl
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

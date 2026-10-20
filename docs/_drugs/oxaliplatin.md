@@ -145,6 +145,7 @@ TxGNN モデルは**悪性胸膜中皮腫 (Malignant Pleural Mesothelioma)** に
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

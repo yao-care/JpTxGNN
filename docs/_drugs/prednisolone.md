@@ -134,6 +134,7 @@ TxGNN モデルは**円形脱毛症 (alopecia areata)** に有効である可能
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

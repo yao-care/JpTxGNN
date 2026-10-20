@@ -156,6 +156,7 @@ TxGNN モデルは**女性乳癌 (female breast carcinoma)** に有効である�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

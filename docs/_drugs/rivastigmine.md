@@ -120,6 +120,7 @@ TxGNN モデルは**緑内障 (Glaucoma)** に有効である可能性を予測�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

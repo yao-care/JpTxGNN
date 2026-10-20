@@ -127,6 +127,7 @@ TxGNN モデルは**慢性肺性心疾患 (Chronic Pulmonary Heart Disease)** �
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

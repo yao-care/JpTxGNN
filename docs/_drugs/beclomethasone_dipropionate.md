@@ -126,6 +126,7 @@ TxGNN モデルは**アトピー性湿疹 (Atopic Eczema)** に有効である�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

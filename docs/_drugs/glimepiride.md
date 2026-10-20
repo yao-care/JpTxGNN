@@ -115,6 +115,7 @@ TxGNN モデルは**古典的スティッフパーソン症候群 (Classic Stiff
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

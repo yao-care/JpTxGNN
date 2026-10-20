@@ -132,6 +132,7 @@ TxGNN モデルは**成人星細胞性腫瘍 (Adult Astrocytic Tumour)** に有�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

@@ -129,6 +129,7 @@ TxGNN モデルは**腎性抗利尿ホルモン不適合分泌症候群 (nephrog
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

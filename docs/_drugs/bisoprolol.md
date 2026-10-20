@@ -126,6 +126,7 @@ TxGNN モデルは**悪性腎血管性高血圧 (malignant renovascular hyperten
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

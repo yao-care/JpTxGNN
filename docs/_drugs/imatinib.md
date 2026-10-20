@@ -145,6 +145,7 @@ TxGNN モデルは**心臓線維肉腫 (heart fibrosarcoma)** に有効である
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

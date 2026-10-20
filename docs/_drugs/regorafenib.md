@@ -141,6 +141,7 @@ TxGNN モデルは**脂肪肉腫 (Liposarcoma)** に有効である可能性を�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

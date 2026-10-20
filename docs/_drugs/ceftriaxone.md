@@ -108,6 +108,7 @@ TxGNN モデルは**多クローン性高粘稠度症候群 (polyclonal hypervis
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

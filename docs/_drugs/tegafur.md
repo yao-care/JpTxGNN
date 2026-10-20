@@ -143,6 +143,7 @@ TxGNN モデルは**大腸腫瘍 (Colonic Neoplasm)** に有効である可能�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

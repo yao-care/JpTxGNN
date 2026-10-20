@@ -133,6 +133,7 @@ TxGNN モデルの予測スコア最上位は「obsolete susceptibility to ische
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

@@ -157,6 +157,7 @@ TxGNN モデルは**骨髄性白血病 (Myeloid Leukemia)** に有効である�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

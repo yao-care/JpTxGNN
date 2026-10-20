@@ -121,6 +121,7 @@ TxGNN モデルは**肝性ポルフィリン症 (Hepatic Porphyria)** に有効�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

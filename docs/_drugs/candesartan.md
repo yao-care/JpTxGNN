@@ -132,6 +132,7 @@ TxGNN モデルは**片頭痛 (migraine disorder)** に有効である可能性�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

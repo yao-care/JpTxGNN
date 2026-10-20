@@ -128,6 +128,7 @@ TxGNN モデルは**脳卒中 (stroke disorder)** に有効である可能性を
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

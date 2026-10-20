@@ -141,6 +141,7 @@ TxGNN モデルの最上位予測は**不眠症 (insomnia)** ですが、これ�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

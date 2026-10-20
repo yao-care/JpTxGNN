@@ -129,6 +129,7 @@ TxGNN モデルの最上位予測は**関節リウマチ (Rheumatoid Arthritis)*
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

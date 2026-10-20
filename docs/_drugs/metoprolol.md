@@ -122,6 +122,7 @@ TxGNN モデルは**悪性高血圧性腎疾患 (malignant hypertensive renal di
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

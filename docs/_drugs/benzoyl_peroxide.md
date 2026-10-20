@@ -105,6 +105,7 @@ TxGNN モデルは**外陰部逆転性毛包性角化症 (vulvar inverted follic
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

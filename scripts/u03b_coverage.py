@@ -3,7 +3,8 @@
 演算法（照順序，先符合者歸類；2026-10-20 第二版）：
   名稱來源：JpTxGNN 提交 40c43ff0 刪除的 docs/_drugs/*.md 檔名，NFKC 後把「_」換回「.」。
   norm()：NFKC → 去掉空白 _ ・ - － （）() 「」『』 ､、,，. → 小寫（與 build_brand_names.norm 相同）。
-  反查：刪除名多是 SSK 主成分欄的片假名讀音，先在 drug_mapping 找 norm(原始主成分／標準化成分／販売名) 等於 norm(刪除名) 的列，
+  反查：刪除名多是 SSK 主成分欄的片假名讀音，先在 drug_mapping 找 norm(原始主成分／標準化成分／販売名) 等於 norm(刪除名) 的列
+        （找不到時改用前綴比對，任一方是另一方的開頭、長度 ≥4），
         取其販売名（漢字，去「屋号」）一起比對；1–3 類任一名稱符合即算。
   1 完全相同：norm(刪除名或反查販売名) 等於對照表任一名稱（trade／hanbai／combo）的 norm
   2 前綴：norm(刪除名) 是某個對照表名稱 norm 的開頭
@@ -52,7 +53,9 @@ cat = {k: [] for k in ("完全相同", "前綴", "反向前綴", "成分頁存�
 miss = []
 for n in names:
     nn = unicodedata.normalize("NFKC", n).replace("_", ".")
-    hits = rev.get(bb.norm(nn), [])
+    k0 = bb.norm(nn)
+    hits = rev.get(k0, []) or [h for key, hs in rev.items() if len(key) >= 4 and len(k0) >= 4
+                                and (key.startswith(k0) or k0.startswith(key)) for h in hs]  # 第三版：反查用前綴比對
     keys = {bb.norm(nn)} | {bb.norm(h) for h, _ in hits}
     if keys & set(listed):
         cat["完全相同"].append(nn)

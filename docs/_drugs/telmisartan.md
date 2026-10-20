@@ -142,6 +142,7 @@ TxGNN モデルは **Prinzmetal 狭心症 (Prinzmetal angina)** に有効であ�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

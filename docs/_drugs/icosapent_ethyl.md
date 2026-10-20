@@ -101,6 +101,7 @@ TxGNN モデルは**ヘモグロビン異常症 (hemoglobinopathy)** に有効�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

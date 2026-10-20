@@ -119,6 +119,7 @@ TxGNN モデルは**限局性スティッフリム症候群 (focal stiff limb sy
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

@@ -127,6 +127,7 @@ TxGNN モデルは**血栓性疾患 (thrombotic disease)** に有効である可
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

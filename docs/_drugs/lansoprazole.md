@@ -121,6 +121,7 @@ TxGNN モデルは**十二指腸胃逆流 (Duodenogastric Reflux)** に有効で
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

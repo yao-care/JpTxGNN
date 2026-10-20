@@ -125,6 +125,7 @@ TxGNN モデルは**無月経 (Amenorrhea)** に有効である可能性を予�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

@@ -127,6 +127,7 @@ TxGNN モデルは**トゥレット症候群 (Tourette syndrome)** に有効で�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

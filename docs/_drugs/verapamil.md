@@ -157,6 +157,7 @@ TxGNN モデルは **閉塞性脚ブロック (obsolete bundle branch block)** �
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

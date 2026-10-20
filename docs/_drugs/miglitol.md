@@ -142,6 +142,7 @@ TxGNN モデルは**巣状スティフリム症候群 (focal stiff limb syndrome
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

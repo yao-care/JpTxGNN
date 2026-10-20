@@ -128,6 +128,7 @@ TxGNN モデルは**神経節芽腫 (Ganglioneuroblastoma)** に有効である�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

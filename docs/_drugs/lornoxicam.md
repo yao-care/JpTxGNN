@@ -138,6 +138,7 @@ predicted_indications: ["migraine with or without aura, susceptibility to", "mig
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

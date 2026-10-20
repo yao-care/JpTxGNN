@@ -109,6 +109,7 @@ TxGNN モデルは **Ambras 型先天性汎発性多毛症 (Ambras type hypertri
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

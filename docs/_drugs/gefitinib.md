@@ -140,6 +140,7 @@ TxGNN モデルは**歯肉線維腫症 (fibromatosis, gingival)** に有効で�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

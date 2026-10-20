@@ -132,6 +132,7 @@ TxGNN モデルは**肺疾患・低酸素に伴う肺高血圧症 (Pulmonary hyp
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

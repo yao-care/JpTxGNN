@@ -130,6 +130,7 @@ TxGNN モデルは**遠位型ミオパチー（舘山型）(distal myopathy, Tat
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

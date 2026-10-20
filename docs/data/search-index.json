@@ -8,7 +8,6 @@
       "slug": "abatacept",
       "brands": [
         "オレンシア",
-        "オレンシア皮下",
         "オレンシア点滴静注用250mg",
         "オレンシア皮下注125mgオートインジェクター1mL",
         "オレンシア皮下注125mgシリンジ1mL"
@@ -139,7 +138,7 @@
       ]
     },
     {
-      "name": "Acitretin",
+      "name": "Acitretin（アシトレチン）",
       "slug": "acitretin",
       "brands": [],
       "original": "",
@@ -193,7 +192,7 @@
       "name": "Adalimumab",
       "slug": "adalimumab",
       "brands": [
-        "ヒュミラ皮下",
+        "ヒュミラ",
         "アダリムマブBS皮下注20mgシリンジ0.2mL",
         "アダリムマブBS皮下注20mgシリンジ0.4mL",
         "アダリムマブBS皮下注40mgシリンジ0.4mL",
@@ -663,6 +662,7 @@
         "スルバシリン静注用0.75g",
         "スルバシリン静注用1.5g",
         "スルバシリン静注用3g",
+        "ビクシリンS配合錠 (250mg)",
         "ユナシン−Sキット",
         "ユナシン−Sキット静注用1.5g (生理食塩液100mL付)",
         "ユナシン−Sキット静注用3g (生理食塩液100mL付)"
@@ -768,7 +768,6 @@
       "slug": "aripiprazole",
       "brands": [
         "エビリファイ",
-        "エビリファイ持続性水懸筋",
         "アリピプラゾール1%散",
         "アリピプラゾール1%細粒",
         "アリピプラゾール12mg口腔内崩壊錠",
@@ -827,7 +826,8 @@
       "slug": "ascorbic-acid",
       "brands": [
         "シナール配合錠",
-        "シナール配合顆粒"
+        "シナール配合顆粒",
+        "シーピー配合顆粒"
       ],
       "original": "",
       "level": "L5",
@@ -1214,7 +1214,6 @@
         "リンデロン−DPゾル",
         "リンデロン−V",
         "リンデロン−Vローション",
-        "リンデロン懸濁",
         "アンテベートクリーム0.05%",
         "アンテベートローション0.05%",
         "アンテベート軟膏0.05%",
@@ -2482,8 +2481,7 @@
       "name": "Denosumab",
       "slug": "denosumab",
       "brands": [
-        "プラリアHI皮下",
-        "プラリア皮下",
+        "プラリア",
         "プラリアHI皮下注60mgシリンジ0.5mL",
         "プラリア皮下注60mgシリンジ 1mL"
       ],
@@ -2545,7 +2543,6 @@
       "brands": [
         "D・E・X",
         "アフタゾロン",
-        "アフタゾロン口腔用",
         "オイラゾン",
         "サンテゾーン",
         "デカドロン",
@@ -2984,7 +2981,9 @@
       "brands": [
         "トルソプト",
         "トルソプト点眼液0.5%",
-        "トルソプト点眼液1%"
+        "トルソプト点眼液1%",
+        "コソプト配合点眼液",
+        "ドルモロール配合点眼液"
       ],
       "original": "open-angle glaucoma；ocular hypertension",
       "level": "L5",
@@ -3476,7 +3475,6 @@
       "slug": "esomeprazole",
       "brands": [
         "ネキシウム",
-        "ネキシウム懸濁用",
         "エソメプラゾールカプセル10mg",
         "エソメプラゾールカプセル20mg",
         "ネキシウムカプセル10mg",
@@ -3543,7 +3541,7 @@
       "name": "Etanercept",
       "slug": "etanercept",
       "brands": [
-        "エンブレル皮下",
+        "エンブレル",
         "エタネルセプトBS皮下注10mgシリンジ1.0mLTY 1mL",
         "エタネルセプトBS皮下注10mgシリンジ1.0mL日医工 1mL",
         "エタネルセプトBS皮下注25mgシリンジ0.5mL",
@@ -4489,7 +4487,7 @@
       "name": "Golimumab",
       "slug": "golimumab",
       "brands": [
-        "シンポニー皮下",
+        "シンポニー",
         "シンポニー皮下注50mgオートインジェクター 0.5mL",
         "シンポニー皮下注50mgシリンジ 0.5mL"
       ],
@@ -4773,6 +4771,8 @@
         "テラ・コートリル軟膏(1歯)",
         "テラ・コートリル軟膏(1顎)",
         "テラ・コートリル軟膏(2/3顎)",
+        "ヘモポリゾン軟膏",
+        "強力ポステリザン(軟膏)",
         "強力レスタミンコーチゾンコーワ軟膏"
       ],
       "original": "tinea pedis；autoimmune disease；exanthem (disease)；humoral hypercalcemia of malignancy；acute lymphoblastic leukemia (disease)；leukemia, lymphocytic, susceptibility to；acute lymphoblastic/lymphocytic leukemia；precursor T-cell acute lymphoblastic leukemia；eosinophilic pneumonia；pulmonary eosinophilia；adrenocortical insufficiency；Addison disease；Crohn disease；inflammatory bowel disease；Crohn's colitis",
@@ -5308,7 +5308,8 @@
       "name": "Lamivudine",
       "slug": "lamivudine",
       "brands": [
-        "エプジコム配合錠"
+        "エプジコム配合錠",
+        "ラバミコム配合錠"
       ],
       "original": "chronic hepatitis B virus infection；HIV infectious disease；AIDS",
       "level": "L4",
@@ -5640,11 +5641,21 @@
       "name": "Levodopa",
       "slug": "levodopa",
       "brands": [
+        "カルコーパ配合錠L100",
+        "カルコーパ配合錠L250",
         "スタレボ配合錠L100",
         "スタレボ配合錠L50",
+        "ドパコール配合錠L100",
+        "ドパコール配合錠L250",
+        "ドパコール配合錠L50",
+        "ネオドパストン配合錠L100",
+        "ネオドパストン配合錠L250",
         "マドパー配合錠",
         "マドパー配合錠L100",
-        "マドパー配合錠L50"
+        "マドパー配合錠L50",
+        "メネシット配合錠100",
+        "メネシット配合錠250",
+        "レボドパ・カルビドパL100錠"
       ],
       "original": "Parkinson disease；parkinsonian-pyramidal syndrome；X-linked parkinsonism-spasticity syndrome；early-onset parkinsonism-intellectual disability syndrome；juvenile onset Parkinson disease 19A；hemiparkinsonism-hemiatrophy syndrome；atypical juvenile parkinsonism；hereditary late onset Parkinson disease；postencephalitic Parkinson disease；parkinsonian disorder",
       "level": "L5",
@@ -5890,12 +5901,7 @@
     {
       "name": "Lithium Citrate",
       "slug": "lithium-citrate",
-      "brands": [
-        "リーマス",
-        "リーマス錠200 200mg",
-        "炭酸リチウム錠100mg",
-        "炭酸リチウム錠200mg"
-      ],
+      "brands": [],
       "original": "",
       "level": "L5",
       "indications": [
@@ -6933,7 +6939,6 @@
       "brands": [
         "ジプレキサ",
         "ジプレキサザイディス",
-        "ジプレキサ筋",
         "オランザピン1%細粒",
         "オランザピン10mg口腔内崩壊錠",
         "オランザピン10mg錠",
@@ -7157,6 +7162,16 @@
       "name": "Oteracil",
       "slug": "oteracil",
       "brands": [
+        "エスエーワン配合OD錠T20 20mg(テガフール相当量)",
+        "エスエーワン配合OD錠T25 25mg(テガフール相当量)",
+        "エスエーワン配合カプセルT20 20mg(テガフール相当量)",
+        "エスエーワン配合カプセルT25 25mg(テガフール相当量)",
+        "エスワンタイホウ配合OD錠T20 20mg(テガフール相当量)",
+        "エスワンタイホウ配合OD錠T25 25mg(テガフール相当量)",
+        "エヌケーエスワン配合OD錠T20 20mg(テガフール相当量)",
+        "エヌケーエスワン配合OD錠T25 25mg(テガフール相当量)",
+        "エヌケーエスワン配合カプセルT20 20mg(テガフール相当量)",
+        "エヌケーエスワン配合カプセルT25 25mg(テガフール相当量)",
         "ティーエスワン配合OD錠T20 20mg(テガフール相当量)",
         "ティーエスワン配合OD錠T20 20mg(テガフール量)",
         "ティーエスワン配合OD錠T25 25mg(テガフール相当量)",
@@ -7166,7 +7181,9 @@
         "ティーエスワン配合カプセルT25 25mg(テガフール相当量)",
         "ティーエスワン配合カプセルT25 25mg(テガフール量)",
         "ティーエスワン配合顆粒T20 20mg(テガフール相当量)",
-        "ティーエスワン配合顆粒T25 25mg(テガフール相当量)"
+        "ティーエスワン配合顆粒T25 25mg(テガフール相当量)",
+        "テガフール・ギメラシル・オテラシルカリウムT25カプセル 25",
+        "テガフール・ギメラシル・オテラシルカリウムT25口腔内崩壊錠"
       ],
       "original": "",
       "level": "L2",
@@ -7471,7 +7488,11 @@
         "フェノバール原末",
         "フェノバール散10%",
         "フェノバール注射液100mg 10%1mL",
-        "フェノバール錠30mg"
+        "フェノバール錠30mg",
+        "ヒダントールD配合錠",
+        "ヒダントールE配合錠",
+        "ヒダントールF配合錠",
+        "複合アレビアチン配合錠"
       ],
       "original": "抗不安薬, 抗けいれん薬, 催眠鎮静薬\n疾患        不眠症 [DS:H01609]",
       "level": "L5",
@@ -7515,7 +7536,11 @@
         "アレビアチン錠25mg",
         "フェニトイン散 10%",
         "フェニトイン錠 100mg",
-        "フェニトイン錠 25mg"
+        "フェニトイン錠 25mg",
+        "ヒダントールD配合錠",
+        "ヒダントールE配合錠",
+        "ヒダントールF配合錠",
+        "複合アレビアチン配合錠"
       ],
       "original": "抗てんかん薬",
       "level": "L5",
@@ -8308,7 +8333,7 @@
       "slug": "risperidone",
       "brands": [
         "リスパダール",
-        "リスパダール コンスタ筋",
+        "リスパダール コンスタ",
         "リスパダールコンスタ",
         "リスパダール コンスタ筋注用25mg (懸濁用液付)",
         "リスパダール コンスタ筋注用37.5mg (懸濁用液付)",
@@ -9425,7 +9450,6 @@
       "slug": "terbinafine",
       "brands": [
         "ラミシール",
-        "ラミシール外用",
         "テルビナフィン塩酸塩1%クリーム",
         "テルビナフィン塩酸塩1%液",
         "テルビナフィン塩酸塩125mg錠",
@@ -9451,8 +9475,8 @@
       "name": "Teriparatide",
       "slug": "teriparatide",
       "brands": [
-        "テリボン皮下",
-        "フォルテオ皮下",
+        "テリボン",
+        "フォルテオ",
         "テリボン皮下注28.2μgオートインジェクター",
         "テリボン皮下注用56.5μg",
         "テリボン皮下注用56.5μg (溶解液付)",
@@ -9726,7 +9750,6 @@
       "slug": "tocilizumab",
       "brands": [
         "アクテムラ",
-        "アクテムラ皮下",
         "アクテムラ点滴静注用200mg 10mL",
         "アクテムラ点滴静注用400mg 20mL",
         "アクテムラ点滴静注用80mg 4mL",
@@ -10091,10 +10114,9 @@
       "slug": "triamcinolone",
       "brands": [
         "アフタッチ",
-        "オルテクサー口腔用",
+        "オルテクサー",
         "ケナコルト−A",
         "ケナコルト−A皮内用関節腔内用水懸",
-        "ケナコルト−A筋",
         "ノギロン",
         "マキュエイド",
         "レダコート",
@@ -10284,7 +10306,6 @@
       "slug": "ustekinumab",
       "brands": [
         "ステラーラ",
-        "ステラーラ皮下",
         "ステラーラ点滴静注130mg 26mL",
         "ステラーラ皮下注45mgシリンジ 0.5mL"
       ],
@@ -13494,7 +13515,7 @@
       "drug_count": 2,
       "drugs": [
         {
-          "drug": "Acitretin",
+          "drug": "Acitretin（アシトレチン）",
           "slug": "acitretin",
           "score": 99.94
         },

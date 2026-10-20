@@ -117,6 +117,7 @@ TxGNN モデルは **Ureaplasma 尿道炎 (Ureaplasma urethritis)** に有効で
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

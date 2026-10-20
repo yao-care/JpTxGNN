@@ -118,6 +118,7 @@ TxGNN モデルは**フィラリア症 (Filariasis)** に有効である可能�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

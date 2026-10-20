@@ -120,6 +120,7 @@ TxGNN モデルは**急性伝染性結膜炎 (Acute Contagious Conjunctivitis)**
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

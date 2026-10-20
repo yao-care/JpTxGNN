@@ -138,6 +138,7 @@ TxGNN モデルは最上位候補として**酒さ性結膜炎 (rosacea conjunct
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

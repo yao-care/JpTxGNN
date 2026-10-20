@@ -110,6 +110,7 @@ TxGNN モデルは**馬尾症候群 (Cauda Equina Syndrome)** に有効である
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

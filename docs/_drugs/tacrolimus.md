@@ -147,6 +147,7 @@ TxGNN モデルは**脂漏性皮膚炎 (Seborrheic Dermatitis)** に有効であ
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

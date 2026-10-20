@@ -136,6 +136,7 @@ TxGNN モデルは複数の血栓性疾患、とくに**血栓性素因 (Thrombo
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 
