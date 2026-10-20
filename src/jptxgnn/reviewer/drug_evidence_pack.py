@@ -15,7 +15,7 @@ from .llm_client import LLMClient
 # 2026-10-17：status 欄有值不代表註銷（各國是 Authorised／有効／Vigente…），只認註銷類字樣
 _CANCELLED = re.compile(r"註銷|撤銷|廢止|取消|cancel|withdraw|revok|suspen|expir|lapse|discontinu|retir|inactive|refus|annul|"
                         r"widerruf|zurückgez|ruhend|retirad|cancelad|caducad|revocad|retiré|abrog|revoca|sospes|ritirat|"
-                        r"återkall|avregistr|tilbakekall|ingetrokken|vervallen|peruutet|lakkaut|ملغ|موقوف|inativ", re.I)
+                        r"återkall|avregistr|tilbakekall|ingetrokken|vervallen|peruutet|lakkaut|ملغ|موقوف|inativ|archiv|^opinion|\|opinion", re.I)
 
 
 class ValidationError(Exception):
@@ -110,10 +110,14 @@ class DrugEvidencePackGenerator:
                 "status": status,
             })
         valid = [x for x in lics if x["status"] == "valid"]
+        partial = int(reg.get("total_matches") or 0) > len(recs)
         return {
             # 只存了部分許可證（total_matches 較多）且列出的都已註銷時，不能斷定全部註銷
-            "market_status": "Marketed" if valid else (("Cancelled only" if int(reg.get("total_matches") or 0) <= len(lics) else "Unknown (partial list)") if lics else "Not marketed"),
-            "total_licenses": max(len(lics), int(reg.get("total_matches") or 0)),  # 2026-10-17：收集器只存前 20 筆時，張數取 total_matches
+            "market_status": "Marketed" if valid else (("Cancelled only" if not partial else "Unknown (partial list)") if lics else "Not marketed"),
+            # 2026-10-21：張數＝不重複許可證號（us 的紀錄是產品列，15 列只有 7 個核准號）；
+            # total_matches 大於紀錄列數＝收集器只存了一部分，張數不可知（None），頁面不可寫「共 N 張」
+            "total_licenses": len(lics) if not partial else None,
+            "partial_list": partial,
             "licenses_listed": len(lics),
             "valid_single": sum(1 for x in valid if x["kind"] == "single"),
             "valid_combo": sum(1 for x in valid if x["kind"] == "combo"),
