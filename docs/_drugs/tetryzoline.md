@@ -31,11 +31,11 @@ description: "Tetryzoline：予測新適応症は鼻腔疾患 (Nasal Cavity Dise
 
 </div>
 
-# Tetryzoline：從眼科用藥到鼻腔疾病
+# Tetryzoline：眼科用薬から鼻腔疾患へ
 
 ## 一言まとめ
 
-Tetryzoline 是一種血管收縮劑，目前在台灣主要作為眼藥水成分使用，用於緩解眼睛紅、癢等症狀。TxGNN 模型預測它可能對**鼻腔疾病 (Nasal Cavity Disease)** 有效，目前有 **4 篇文獻**支持這個方向，但無臨床試驗登記。
+Tetryzoline は血管収縮薬であり、台湾では現在主に点眼薬の成分として使用され、眼の充血やかゆみなどの症状を緩和する目的で用いられています。TxGNN モデルは、本剤が**鼻腔疾患 (Nasal Cavity Disease)** に有効である可能性を予測しており、現在この方向性を支持する文献が **4 件**ありますが、臨床試験の登録はありません。
 
 ## 概要
 
@@ -51,22 +51,22 @@ Tetryzoline 是一種血管收縮劑，目前在台灣主要作為眼藥水成�
 
 ## この予測が妥当な理由
 
-Tetryzoline（又稱 Tetrahydrozoline）是一種 imidazoline 類的 α-腎上腺素受體激動劑，具有血管收縮作用。在眼科應用中，它透過收縮結膜血管來緩解眼睛充血。
+Tetryzoline（Tetrahydrozoline とも呼ばれます）は imidazoline 系のα-アドレナリン受容体作動薬で、血管収縮作用を有します。眼科領域では、結膜血管を収縮させることで眼の充血を緩和します。
 
-這個預測在機轉上是合理的：相同的血管收縮機制可以應用於鼻腔黏膜，緩解鼻塞症狀。事實上，Tetryzoline 在國外（如美國的 Tyzine）早已被用作鼻腔充血解除劑，只是在台灣目前僅核准眼科用途。
+この予測は作用機序の面から妥当です。同じ血管収縮の機序を鼻粘膜にも応用でき、鼻閉症状を緩和できるためです。実際、Tetryzoline は海外（米国の Tyzine など）ではすでに鼻充血除去薬として用いられており、台湾では現在、眼科用途のみが承認されています。
 
 ## 臨床試験エビデンス
 
-目前無相關臨床試驗登記。
+現在、関連する臨床試験の登録はありません。
 
 ## 文献エビデンス
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
+| PMID | 年 | 種類 | 雑誌 | 主な知見 |
 |------|-----|------|------|---------|
-| [13244019](https://pubmed.ncbi.nlm.nih.gov/13244019/) | 1954 | Journal Article | Medical times | Tyzine 作為鼻腔充血解除劑的臨床試驗報告 |
-| [13309701](https://pubmed.ncbi.nlm.nih.gov/13309701/) | 1956 | Journal Article | NY State J Med | 675 位患者使用 Tyzine 的臨床評估 |
-| [13294143](https://pubmed.ncbi.nlm.nih.gov/13294143/) | 1956 | Journal Article | Eye Ear Nose Throat | Tyzine 作為新型鼻腔充血解除劑的觀察 |
-| [13382599](https://pubmed.ncbi.nlm.nih.gov/13382599/) | 1956 | Journal Article | Arch Med Panamenos | Tetrahydrozoline 鹽酸鹽的臨床評估 |
+| [13244019](https://pubmed.ncbi.nlm.nih.gov/13244019/) | 1954 | Journal Article | Medical times | Tyzine の鼻充血除去薬としての臨床試験報告 |
+| [13309701](https://pubmed.ncbi.nlm.nih.gov/13309701/) | 1956 | Journal Article | NY State J Med | 675 例の患者における Tyzine の臨床評価 |
+| [13294143](https://pubmed.ncbi.nlm.nih.gov/13294143/) | 1956 | Journal Article | Eye Ear Nose Throat | 新しい鼻充血除去薬としての Tyzine に関する観察 |
+| [13382599](https://pubmed.ncbi.nlm.nih.gov/13382599/) | 1956 | Journal Article | Arch Med Panamenos | Tetrahydrozoline 塩酸塩の臨床評価 |
 
 ## 日本市販情報
 
@@ -81,12 +81,12 @@ Tetryzoline（又稱 Tetrahydrozoline）是一種 imidazoline 類的 α-腎上�
 **判断：Hold**
 
 **理由：**
-雖然 Tetryzoline 用於鼻腔充血解除在機轉上合理，且國外已有相關應用，但現有文獻均來自 1950 年代，缺乏現代臨床試驗數據。
+Tetryzoline を鼻充血除去に用いることは作用機序の面で妥当であり、海外ではすでに関連する使用例もありますが、現存する文献はいずれも 1950 年代のものであり、現代の臨床試験データが不足しています。
 
 **推進に必要な事項：**
-- 現代化的臨床試驗數據
-- 鼻腔劑型的藥動學研究
-- 與現有鼻腔充血解除劑（如 oxymetazoline）的比較研究
+- 現代の臨床試験データ
+- 鼻腔用剤形の薬物動態試験
+- 既存の鼻充血除去薬（oxymetazoline など）との比較研究
 
 
 ---

@@ -31,13 +31,13 @@ description: "Acetazolamide：予測新適応症は心筋症 (cardiomyopathy)（
 
 </div>
 
-# Acetazolamide：從青光眼利尿到心肌病變探索
+# Acetazolamide：緑内障・利尿から心筋症への探索
 
 ## 一言まとめ
 
-Acetazolamide 原本用於青光眼及利尿。
-TxGNN 模型預測它可能對**心肌病變 (cardiomyopathy)** 及**肥厚性心肌病變 (hypertrophic cardiomyopathy)** 有效，
-目前有 **3 個臨床試驗**和 **10 篇文獻**支持這個方向。
+Acetazolamide は本来、緑内障および利尿に用いられてきた薬剤である。
+TxGNN モデルは、本剤が**心筋症 (cardiomyopathy)** および**肥大型心筋症 (hypertrophic cardiomyopathy)** に有効である可能性を予測しており、
+現在 **3 件の臨床試験**と **10 件の文献**がこの方向性を支持している。
 
 ## 概要
 
@@ -53,32 +53,32 @@ TxGNN 模型預測它可能對**心肌病變 (cardiomyopathy)** 及**肥厚性�
 
 ## この予測が妥当な理由
 
-Acetazolamide 是碳酸酐酶抑制劑，傳統上用於青光眼和利尿。近年研究發現其在急性失代償性心衰竭中的應用價值顯著提升。
+Acetazolamide は炭酸脱水酵素阻害薬であり、従来は緑内障および利尿に用いられてきた。近年の研究により、急性非代償性心不全における本剤の有用性が顕著に高まっていることが明らかになった。
 
-ADVOR 試驗 (2022) 顯示，acetazolamide 加上 loop diuretics 可顯著改善急性心衰竭患者的去鬱血效果。其機轉包括：
-1. 抑制近端腎小管碳酸酐酶，增加鈉離子排泄
-2. 克服利尿劑抵抗
-3. 調節電解質平衡（特別是氯離子）
+ADVOR 試験 (2022) では、acetazolamide をループ利尿薬に追加することで、急性心不全患者のうっ血解除効果が有意に改善することが示された。その作用機序には以下が含まれる。
+1. 近位尿細管の炭酸脱水酵素を阻害し、ナトリウム排泄を増加させる
+2. 利尿薬抵抗性を克服する
+3. 電解質バランス（特に塩化物イオン）を調節する
 
-對於心肌病變患者，常伴隨心衰竭症狀，acetazolamide 作為輔助利尿劑的角色已獲臨床驗證。此外，2018 年日本個案報告顯示，acetazolamide 可用於治療肥厚性心肌病變合併低氯血症患者。
+心筋症患者では心不全症状を伴うことが多く、acetazolamide の補助的利尿薬としての役割は臨床的に検証済みである。また、2018 年の日本の症例報告では、acetazolamide を肥大型心筋症に低クロール血症を合併した患者の治療に用いることができると示されている。
 
 ## 臨床試験エビデンス
 
-| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
+| 試験番号 | 段階 | 状態 | 人数 | 主な所見 |
 |---------|------|------|------|---------|
-| [NCT05802849](https://clinicaltrials.gov/study/NCT05802849) | Phase 4 | RECRUITING | 400 | 評估 acetazolamide 口服在失代償性心衰竭（包括心肌病變）中的療效 |
-| [NCT06166654](https://clinicaltrials.gov/study/NCT06166654) | Phase 4 | RECRUITING | 939 | 比較 loop diuretics 合併 Metolazone 或 Acetazolamide 在急性心衰竭容量過負荷的效果 |
-| [NCT06092437](https://clinicaltrials.gov/study/NCT06092437) | N/A | RECRUITING | 466 | TAILOR-AHF：尿鈉導向的利尿劑演算法研究 |
+| [NCT05802849](https://clinicaltrials.gov/study/NCT05802849) | Phase 4 | RECRUITING | 400 | 心筋症を含む非代償性心不全における acetazolamide 経口投与の有効性を評価 |
+| [NCT06166654](https://clinicaltrials.gov/study/NCT06166654) | Phase 4 | RECRUITING | 939 | 急性心不全の体液過剰に対する、ループ利尿薬への Metolazone または Acetazolamide 併用の効果を比較 |
+| [NCT06092437](https://clinicaltrials.gov/study/NCT06092437) | N/A | RECRUITING | 466 | TAILOR-AHF：尿中ナトリウム指標に基づく利尿薬アルゴリズムの研究 |
 
 ## 文献エビデンス
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
+| PMID | 年 | 種類 | 雑誌 | 主な所見 |
 |------|-----|------|------|---------|
-| [38806171](https://pubmed.ncbi.nlm.nih.gov/38806171/) | 2025 | Review | ESC heart failure | 2024 心衰竭更新：肯定 acetazolamide 加 loop diuretics 的聯合療法 |
-| [37169875](https://pubmed.ncbi.nlm.nih.gov/37169875/) | 2023 | Journal Article | Eur Heart J Cardiovasc Pharmacother | 2022 年心血管藥理進展回顧，acetazolamide 聯合 loop diuretics 被納入標準治療 |
-| [30279861](https://pubmed.ncbi.nlm.nih.gov/30279861/) | 2018 | Case Report | J Cardiol Cases | 肥厚性心肌病變合併低氯血症，使用 acetazolamide 成功矯正電解質 |
-| [742352](https://pubmed.ncbi.nlm.nih.gov/742352/) | 1978 | Journal Article | Acta Neurol Scand | 低鉀週期性麻痺與心肌病變之關聯研究 |
-| [7324871](https://pubmed.ncbi.nlm.nih.gov/7324871/) | 1981 | Case Report | Acta Neurol Scand | 家族性低鉀週期性麻痺中發現心肌疾病證據 |
+| [38806171](https://pubmed.ncbi.nlm.nih.gov/38806171/) | 2025 | Review | ESC heart failure | 2024 年心不全アップデート：acetazolamide とループ利尿薬の併用療法を支持 |
+| [37169875](https://pubmed.ncbi.nlm.nih.gov/37169875/) | 2023 | Journal Article | Eur Heart J Cardiovasc Pharmacother | 2022 年の心血管薬理学の進展レビュー。acetazolamide とループ利尿薬の併用が標準治療に組み入れられた |
+| [30279861](https://pubmed.ncbi.nlm.nih.gov/30279861/) | 2018 | Case Report | J Cardiol Cases | 低クロール血症を合併した肥大型心筋症で、acetazolamide の使用により電解質の補正に成功 |
+| [742352](https://pubmed.ncbi.nlm.nih.gov/742352/) | 1978 | Journal Article | Acta Neurol Scand | 低カリウム性周期性麻痺と心筋症との関連に関する研究 |
+| [7324871](https://pubmed.ncbi.nlm.nih.gov/7324871/) | 1981 | Case Report | Acta Neurol Scand | 家族性低カリウム性周期性麻痺における心筋疾患の所見 |
 
 ## 日本市販情報
 
@@ -89,25 +89,25 @@ ADVOR 試驗 (2022) 顯示，acetazolamide 加上 loop diuretics 可顯著改善
 ### 重要な薬物相互作用
 
 **Major 相互作用：**
-- Aspirin（高劑量）：增加 acetazolamide 毒性風險，可能引起代謝性酸中毒
+- Aspirin（高用量）：acetazolamide の毒性リスクを増加させ、代謝性アシドーシスを引き起こす可能性がある
 
 **Moderate 相互作用：**
-- 降血糖藥物（各類口服降糖藥、胰島素）：可能影響血糖控制
-- Amphotericin B：增加低鉀血症風險
-- 類固醇（Betamethasone、Budesonide 等）：增加低鉀血症風險
-- Bisacodyl：電解質失衡風險
-- Digoxin：低鉀可能增加毛地黃毒性
-- Lithium：可能增加鋰毒性
-- Metformin：可能增加乳酸酸中毒風險
-- Carbamazepine、Phenytoin：可能影響抗癲癇藥血中濃度
-- Topiramate：增加代謝性酸中毒和腎結石風險
+- 血糖降下薬（各種経口血糖降下薬、インスリン）：血糖コントロールに影響する可能性がある
+- Amphotericin B：低カリウム血症のリスクを増加させる
+- ステロイド（Betamethasone、Budesonide など）：低カリウム血症のリスクを増加させる
+- Bisacodyl：電解質異常のリスク
+- Digoxin：低カリウム血症によりジギタリス中毒のリスクが増加する可能性がある
+- Lithium：リチウム中毒のリスクが増加する可能性がある
+- Metformin：乳酸アシドーシスのリスクが増加する可能性がある
+- Carbamazepine、Phenytoin：抗てんかん薬の血中濃度に影響する可能性がある
+- Topiramate：代謝性アシドーシスおよび腎結石のリスクを増加させる
 
 ### 禁忌
-- 磺胺類藥物過敏
-- 嚴重肝功能不全
-- 低鈉血症或低鉀血症
-- 代謝性酸中毒
-- 艾迪森氏症
+- スルホンアミド系薬剤に対する過敏症
+- 重度の肝機能障害
+- 低ナトリウム血症または低カリウム血症
+- 代謝性アシドーシス
+- アジソン病
 
 安全性情報は添付文書をご参照ください。
 
@@ -116,13 +116,13 @@ ADVOR 試驗 (2022) 顯示，acetazolamide 加上 loop diuretics 可顯著改善
 **判断：Proceed with Guardrails**
 
 **理由：**
-Acetazolamide 在急性失代償性心衰竭的輔助利尿角色已有高品質 RCT 證據支持（ADVOR 試驗），且目前有多個第四期臨床試驗正在進行中。對於心肌病變合併心衰竭的患者，acetazolamide 可作為克服利尿劑抵抗的有效選擇。
+Acetazolamide の急性非代償性心不全における補助的利尿薬としての役割は、質の高い RCT のエビデンス（ADVOR 試験）に支持されており、現在複数の第四相臨床試験が進行中である。心筋症に心不全を合併した患者において、acetazolamide は利尿薬抵抗性を克服する有効な選択肢となり得る。
 
 **推進に必要な事項：**
-- 密切監測電解質（特別是鉀、鈉、氯、碳酸氫根）
-- 避免與高劑量 aspirin 併用
-- 監測腎功能及酸鹼平衡
-- 評估是否有磺胺類過敏史
+- 電解質（特にカリウム、ナトリウム、塩化物、重炭酸）を綿密にモニタリングする
+- 高用量 aspirin との併用を避ける
+- 腎機能および酸塩基平衡をモニタリングする
+- スルホンアミド系薬剤に対するアレルギー歴の有無を評価する
 
 
 ---

@@ -9,7 +9,7 @@ last_modified_at: 2026-09-17
 description: "Bempedoic Acid：予測新適応症はホモ接合体家族性高コレステロール血症 (homozygous familial hypercholesterolemia)（エビデンスレベル L3）。既存適応症：日本の承認適応症は本サイトのデータに未収載"
 ---
 
-# Bempedoic Acid
+# Bempedoic Acid：高コレステロール血症からホモ接合体家族性高コレステロール血症へ
 {: .fs-9 }
 
 エビデンスレベル: **L3** | 予測適応症: **1** 件
@@ -31,10 +31,10 @@ description: "Bempedoic Acid：予測新適応症はホモ接合体家族性高�
 
 </div>
 
-# Bempedoic Acid：從高膽固醇到同合子家族性高膽固醇血症
+# Bempedoic Acid：高コレステロール血症からホモ接合体家族性高コレステロール血症へ
 
 ## 一言まとめ
-Bempedoic acid 是 ATP 檸檬酸裂解酶抑制劑，用於降低 LDL-C，TxGNN 預測其對同合子家族性高膽固醇血症 (HoFH) 有額外價值，此預測已獲文獻強力支持。
+Bempedoic acid は ATP クエン酸リアーゼ阻害薬で、LDL-C の低下に用いられる。TxGNN はホモ接合体家族性高コレステロール血症 (HoFH) に対する追加的な価値を予測しており、この予測は文献によって強く裏付けられている。
 
 ## 概要
 
@@ -43,54 +43,54 @@ Bempedoic acid 是 ATP 檸檬酸裂解酶抑制劑，用於降低 LDL-C，TxGNN 
 | 既存適応症 | 日本の承認適応症は本サイトのデータに未収載 |
 | 予測新適応症 | ホモ接合体家族性高コレステロール血症 (homozygous familial hypercholesterolemia) |
 | TxGNN 予測スコア | 99.48% |
-| エビデンスレベル | L3 (多篇文獻支持，真實世界數據) |
+| エビデンスレベル | L3 (複数の文献による支持、リアルワールドデータ) |
 | 日本市販状況 | 本サイトのデータに未収載 |
 | 承認番号数 | — |
 | 推奨判断 | Go |
 
 ## この予測が妥当な理由
-Bempedoic acid 透過抑制 ATP 檸檬酸裂解酶 (ACL) 降低膽固醇合成，作用位點在 HMG-CoA 還原酶的上游。對 HoFH 患者的關鍵優勢：
-1. **非 LDL 受體依賴機制**：HoFH 患者 LDL 受體功能缺損或缺失，傳統 statin 和 PCSK9 抑制劑效果受限
-2. **與現有療法協同**：可與 statin、ezetimibe、PCSK9 抑制劑等合併使用
-3. **不依賴肌肉代謝**：作為前藥僅在肝臟活化，不會在肌肉細胞中活化，減少肌肉相關副作用
+Bempedoic acid は ATP クエン酸リアーゼ (ACL) を阻害してコレステロール合成を低下させる。作用部位は HMG-CoA 還元酵素の上流にある。HoFH 患者における主な利点は次のとおり。
+1. **LDL 受容体に依存しない機序**：HoFH 患者では LDL 受容体の機能が低下または欠損しており、従来のスタチンや PCSK9 阻害薬では効果が限られる
+2. **既存療法との相乗作用**：スタチン、ezetimibe、PCSK9 阻害薬などと併用できる
+3. **筋代謝に依存しない**：プロドラッグとして肝臓でのみ活性化され、筋細胞では活性化されないため、筋関連の副作用が少ない
 
 ## 臨床試験エビデンス
 
-| 試驗編號 | 階段 | 狀態 | 收案人數 | 主要發現 |
+| 試験番号 | フェーズ | 状況 | 登録症例数 | 主な知見 |
 |----------|------|------|----------|----------|
-| - | - | - | - | (無專門 HoFH 的註冊臨床試驗) |
+| - | - | - | - | (HoFH を対象とした登録臨床試験なし) |
 
 ## 文献エビデンス
 
-| PMID | 年份 | 標題 | 相關性 |
+| PMID | 発表年 | タイトル | 関連性 |
 |------|------|------|--------|
-| 41274797 | 2026 | Real-world evaluation of bempedoic acid use in patients with homozygous familial hypercholesterolemia | 直接相關：HoFH 患者使用 bempedoic acid 的真實世界數據 |
-| 41106315 | 2025 | Breaking barriers: Innovative therapies for managing homozygous familial hypercholesterolemia | 綜述 HoFH 新療法，包含 bempedoic acid |
-| 35466160 | 2022 | Advancements in the Treatment of Homozygous Familial Hypercholesterolemia | HoFH 治療進展，提及 bempedoic acid |
-| 33766264 | 2021 | New and Emerging Therapies for Reduction of LDL-Cholesterol | LDL-C 降低新療法，涵蓋 HoFH 應用 |
-| 29449335 | 2018 | Bempedoic Acid Lowers LDL-C in LDLR-Deficient Yucatan Miniature Pigs | 前臨床研究：在 LDL 受體缺陷動物模型中證實療效 |
+| 41274797 | 2026 | Real-world evaluation of bempedoic acid use in patients with homozygous familial hypercholesterolemia | 直接関連：HoFH 患者における bempedoic acid 使用のリアルワールドデータ |
+| 41106315 | 2025 | Breaking barriers: Innovative therapies for managing homozygous familial hypercholesterolemia | HoFH の新規治療のレビュー。bempedoic acid を含む |
+| 35466160 | 2022 | Advancements in the Treatment of Homozygous Familial Hypercholesterolemia | HoFH 治療の進展。bempedoic acid に言及 |
+| 33766264 | 2021 | New and Emerging Therapies for Reduction of LDL-Cholesterol | LDL-C 低下の新規治療。HoFH への応用を含む |
+| 29449335 | 2018 | Bempedoic Acid Lowers LDL-C in LDLR-Deficient Yucatan Miniature Pigs | 前臨床研究：LDL 受容体欠損の動物モデルで有効性を確認 |
 
 ## 日本市販情報
 
 日本の承認情報は本サイトのデータに未収載です。
 
 ## 安全性に関する考慮事項
-- **Major 交互作用**：
-  - 類固醇類：hydrocortisone, prednisone, prednisolone, methylprednisolone, dexamethasone, betamethasone, budesonide, deflazacort, fludrocortisone
-  - Simvastatin：增加肌病風險，劑量需限制在 20mg
-  - Levofloxacin：增加肌腱病變風險
-- **Moderate 交互作用**：
-  - Rosuvastatin：建議劑量不超過 40mg
-  - 多種其他藥物
+- **Major 相互作用**：
+  - ステロイド類：hydrocortisone, prednisone, prednisolone, methylprednisolone, dexamethasone, betamethasone, budesonide, deflazacort, fludrocortisone
+  - Simvastatin：筋障害のリスクが増加するため、用量を 20mg までに制限する必要がある
+  - Levofloxacin：腱障害のリスクが増加する
+- **Moderate 相互作用**：
+  - Rosuvastatin：用量は 40mg を超えないことが推奨される
+  - その他の多数の薬剤
 
 ## 結論と次のステップ
 **判断：Go**
-**理由：** TxGNN 的預測已獲得大量文獻支持，包括 2026 年最新發表的真實世界數據研究。Bempedoic acid 對 HoFH 的療效機轉明確，且已有多篇綜述文章將其列為 HoFH 治療選項之一。藥物已在台灣上市，具備立即臨床應用的條件。
+**理由：** TxGNN の予測は、2026 年に発表された最新のリアルワールドデータ研究を含め、多くの文献に裏付けられている。Bempedoic acid の HoFH に対する作用機序は明確であり、複数のレビュー論文が HoFH の治療選択肢の一つとして挙げている。本薬はすでに台湾で上市されており、直ちに臨床応用できる条件が整っている。
 **推進に必要な事項：**
-1. 與心臟科/脂質門診合作，在 HoFH 患者中開始使用
-2. 收集台灣 HoFH 患者使用經驗，建立本土數據
-3. 考慮申請適應症擴展
-4. 注意與 simvastatin 的交互作用，避免超過建議劑量
+1. 循環器科・脂質外来と連携し、HoFH 患者での使用を開始する
+2. 台湾の HoFH 患者における使用経験を収集し、国内データを構築する
+3. 適応症拡大の申請を検討する
+4. simvastatin との相互作用に注意し、推奨用量を超えないようにする
 
 
 ---

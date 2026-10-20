@@ -9,6 +9,8 @@ last_modified_at: 2026-09-17
 description: "Oteracil：予測新適応症は大腸腫瘍 (Colonic Neoplasm)（エビデンスレベル L2）。既存適応症：日本の承認適応症は本サイトのデータに未収載"
 ---
 
+---
+
 # Oteracil
 {: .fs-9 }
 
@@ -31,13 +33,13 @@ description: "Oteracil：予測新適応症は大腸腫瘍 (Colonic Neoplasm)（
 
 </div>
 
-# Oteracil：從胃癌到大腸腫瘤
+# Oteracil：胃癌から大腸腫瘍へ
 
 ## 一言まとめ
 
-Oteracil 是 S-1 複方的成分之一，原本用於胃癌治療。
-TxGNN 模型預測它可能對**大腸腫瘤 (Colonic Neoplasm)** 有效，
-目前有 **7 個臨床試驗**和 **10 篇文獻**支持這個方向。
+Oteracil は S-1 配合剤の成分の一つで、もともと胃癌の治療に用いられています。
+TxGNN モデルは、本剤が**大腸腫瘍 (Colonic Neoplasm)** に有効な可能性があると予測しており、
+現在 **7 件の臨床試験**と **10 件の文献**がこの方向性を支持しています。
 
 ## 概要
 
@@ -53,29 +55,29 @@ TxGNN 模型預測它可能對**大腸腫瘤 (Colonic Neoplasm)** 有效，
 
 ## この予測が妥当な理由
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Oteracil 是 S-1 複方的一部分，其成分在胃癌中的療效已被證實，機轉上可能適用於大腸腫瘤。S-1 包含的 tegafur 是 5-FU 的前驅藥，已知能夠抑制快速分裂的癌細胞中的 DNA 合成，這在大腸腫瘤中可能有效。
+現時点では、詳細な作用機序に関するデータは不足しています。既知の情報によると、Oteracil は S-1 配合剤の一部であり、その成分は胃癌での有効性が確認されており、作用機序の面から大腸腫瘍にも適用できる可能性があります。S-1 に含まれる tegafur は 5-FU のプロドラッグで、急速に分裂する癌細胞における DNA 合成を阻害することが知られており、大腸腫瘍でも有効である可能性があります。
 
 ## 臨床試験エビデンス
 
-| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
+| 試験番号 | フェーズ | 状況 | 症例数 | 主な知見 |
 |---------|------|------|------|---------|
-| [NCT00524706](https://clinicaltrials.gov/study/NCT00524706) | Phase 1/2 | 未知 | 42 | S-1 與 Oxaliplatin 組合治療顯示出對未治療之轉移性大腸癌的良好活性和可接受的毒性。 |
-| [NCT02618356](https://clinicaltrials.gov/study/NCT02618356) | Phase 2 | 未知 | 82 | 評估轉移性大腸癌患者的中位疾病無進展生存期 (mPFS)。 |
-| [NCT00974389](https://clinicaltrials.gov/study/NCT00974389) | Phase 2 | 未知 | 40 | S-1 與 Bevacizumab 組合用於不可切除或復發性大腸癌。 |
-| [NCT01918852](https://clinicaltrials.gov/study/NCT01918852) | Phase 3 | 完成 | 161 | 比較 S-1 與 Capecitabine 在轉移性大腸癌患者中的效果。 |
-| [NCT03448549](https://clinicaltrials.gov/study/NCT03448549) | Phase 3 | 未知 | 1191 | 比較 S-1 與 Capecitabine 作為 III 期大腸癌患者的輔助化療。 |
-| [NCT06255379](https://clinicaltrials.gov/study/NCT06255379) | Phase 2 | 未開始招募 | 52 | Fuquinitinib 與 S-1 組合用於晚期轉移性結直腸癌的三線治療。 |
-| [NCT00660894](https://clinicaltrials.gov/study/NCT00660894) | Phase 3 | 完成 | 1535 | 比較 S-1 與其他治療在 III 期結腸癌患者中的效果。 |
+| [NCT00524706](https://clinicaltrials.gov/study/NCT00524706) | Phase 1/2 | 不明 | 42 | S-1 とオキサリプラチンの併用療法は、未治療の転移性大腸癌に対して良好な活性と許容可能な毒性を示した。 |
+| [NCT02618356](https://clinicaltrials.gov/study/NCT02618356) | Phase 2 | 不明 | 82 | 転移性大腸癌患者における無増悪生存期間中央値 (mPFS) を評価する。 |
+| [NCT00974389](https://clinicaltrials.gov/study/NCT00974389) | Phase 2 | 不明 | 40 | 切除不能または再発大腸癌に対する S-1 とベバシズマブの併用。 |
+| [NCT01918852](https://clinicaltrials.gov/study/NCT01918852) | Phase 3 | 完了 | 161 | 転移性大腸癌患者における S-1 とカペシタビンの効果を比較。 |
+| [NCT03448549](https://clinicaltrials.gov/study/NCT03448549) | Phase 3 | 不明 | 1191 | ステージ III 大腸癌患者の術後補助化学療法として S-1 とカペシタビンを比較。 |
+| [NCT06255379](https://clinicaltrials.gov/study/NCT06255379) | Phase 2 | 募集開始前 | 52 | 進行・転移性結腸直腸癌の三次治療としての Fuquinitinib と S-1 の併用。 |
+| [NCT00660894](https://clinicaltrials.gov/study/NCT00660894) | Phase 3 | 完了 | 1535 | ステージ III 結腸癌患者における S-1 とその他の治療の効果を比較。 |
 
 ## 文献エビデンス
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
+| PMID | 発表年 | 種別 | 雑誌 | 主な知見 |
 |------|-----|------|------|---------|
-| [31917122](https://pubmed.ncbi.nlm.nih.gov/31917122/) | 2020 | RCT | Clin Colorectal Cancer | S-1 與 Oxaliplatin 作為高風險 III 期結腸癌患者術後輔助化療的效果尚未確立。 |
-| [25209093](https://pubmed.ncbi.nlm.nih.gov/25209093/) | 2014 | Review | Clin Colorectal Cancer | 亞洲轉移性結直腸癌治療指引。 |
-| [20500514](https://pubmed.ncbi.nlm.nih.gov/20500514/) | 2010 | Animal | Cancer Science | 開發了一種新的淋巴結轉移模型，並比較了 S-1 和 UFT/LV 的抗轉移效果。 |
-| [26805106](https://pubmed.ncbi.nlm.nih.gov/26805106/) | 2015 | Case report | Gan to Kagaku Ryoho | 成功治療結腸癌轉移及復發的病例報告。 |
-| [26036466](https://pubmed.ncbi.nlm.nih.gov/26036466/) | 2015 | RCT | BMC Cancer | ACTS-CC 試驗確認 S-1 在 III 期結直腸癌術後輔助化療中的非劣效性。 |
+| [31917122](https://pubmed.ncbi.nlm.nih.gov/31917122/) | 2020 | RCT | Clin Colorectal Cancer | 高リスクのステージ III 結腸癌患者の術後補助化学療法としての S-1 とオキサリプラチンの有効性は確立されていない。 |
+| [25209093](https://pubmed.ncbi.nlm.nih.gov/25209093/) | 2014 | Review | Clin Colorectal Cancer | アジアにおける転移性結腸直腸癌の治療ガイドライン。 |
+| [20500514](https://pubmed.ncbi.nlm.nih.gov/20500514/) | 2010 | Animal | Cancer Science | 新たなリンパ節転移モデルを開発し、S-1 と UFT/LV の抗転移効果を比較した。 |
+| [26805106](https://pubmed.ncbi.nlm.nih.gov/26805106/) | 2015 | Case report | Gan to Kagaku Ryoho | 結腸癌の転移および再発の治療に成功した症例報告。 |
+| [26036466](https://pubmed.ncbi.nlm.nih.gov/26036466/) | 2015 | RCT | BMC Cancer | ACTS-CC 試験により、ステージ III 結腸直腸癌の術後補助化学療法における S-1 の非劣性が確認された。 |
 
 ## 日本市販情報
 
@@ -85,11 +87,11 @@ TxGNN 模型預測它可能對**大腸腫瘤 (Colonic Neoplasm)** 有效，
 
 | 項目 | 内容 |
 |------|------|
-| 細胞毒性分類 | 傳統細胞毒性藥物（Fluoropyrimidine 類） |
-| 骨髓抑制風險 | 中度 |
-| 致吐性分級 | 低至中度 |
-| 監測項目 | CBC（含分類）、肝腎功能、電解質 |
-| 處置防護 | 需依細胞毒性藥物處置規範操作 |
+| 細胞毒性分類 | 従来型の細胞毒性薬（フルオロピリミジン系） |
+| 骨髄抑制リスク | 中等度 |
+| 催吐性分類 | 低〜中等度 |
+| モニタリング項目 | CBC（分画含む）、肝腎機能、電解質 |
+| 取り扱い時の防護 | 細胞毒性薬の取り扱い基準に従って取り扱う必要あり |
 
 ## 安全性に関する考慮事項
 
@@ -100,11 +102,11 @@ TxGNN 模型預測它可能對**大腸腫瘤 (Colonic Neoplasm)** 有效，
 **判断：Proceed with Guardrails**
 
 **理由：**
-有多個 Phase 2/3 臨床試驗支持 S-1 用於結直腸癌的療效，且 S-1 複方已在台灣取得大腸直腸癌適應症，證據充分。
+複数の Phase 2/3 臨床試験が結腸直腸癌に対する S-1 の有効性を支持しており、また S-1 配合剤は台湾で結腸直腸癌の適応を取得しているため、エビデンスは十分である。
 
 **推進に必要な事項：**
-- 詳細的藥物作用機轉資料（MOA）
-- 特定族群的安全性監測計畫
+- 詳細な薬剤の作用機序（MOA）データ
+- 特定の集団における安全性モニタリング計画
 
 ---
 
@@ -123,4 +125,3 @@ TxGNN 模型預測它可能對**大腸腫瘤 (Colonic Neoplasm)** 有效，
 
 **配合剤（この成分を含む）**：ティーエスワン配合OD錠T20 20mg(テガフール相当量)、ティーエスワン配合OD錠T20 20mg(テガフール量)、ティーエスワン配合OD錠T25 25mg(テガフール相当量)、ティーエスワン配合OD錠T25 25mg(テガフール量)、ティーエスワン配合カプセルT20 20mg(テガフール相当量)、ティーエスワン配合カプセルT20 20mg(テガフール量)、ティーエスワン配合カプセルT25 25mg(テガフール相当量)、ティーエスワン配合カプセルT25 25mg(テガフール量)、ティーエスワン配合顆粒T20 20mg(テガフール相当量)、ティーエスワン配合顆粒T25 25mg(テガフール相当量)
 <!-- brand-names:end -->
-

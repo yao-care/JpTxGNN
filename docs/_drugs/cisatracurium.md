@@ -31,13 +31,13 @@ description: "Cisatracurium：予測新適応症は妊娠高血圧腎症 (Preecl
 
 </div>
 
-# Cisatracurium：從神經肌肉阻斷到子癲前症
+# Cisatracurium：神経筋遮断から妊娠高血圧腎症へ
 
 ## 一言まとめ
 
-Cisatracurium 是一種高選擇性的非去極化神經肌肉阻斷劑，原本用於手術輔助和加護病房的肌肉鬆弛。
-TxGNN 模型預測它可能對**子癲前症 (Preeclampsia)** 有效，
-目前有 **2 個臨床試驗**和 **2 篇文獻**支持這個方向。
+Cisatracurium は選択性の高い非脱分極性神経筋遮断薬で、本来は手術補助や集中治療室での筋弛緩に用いられます。
+TxGNN モデルは、本剤が**妊娠高血圧腎症 (Preeclampsia)** に有効である可能性を予測しており、
+現在、この方向性を裏付ける**臨床試験 2 件**と**文献 2 件**があります。
 
 ## 概要
 
@@ -53,23 +53,23 @@ TxGNN 模型預測它可能對**子癲前症 (Preeclampsia)** 有效，
 
 ## この予測が妥当な理由
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Cisatracurium 是一種非去極化神經肌肉阻斷劑，
-其在手術中的肌肉鬆弛效果已被證實。雖然其在子癲前症管理中的角色尚未確立，
-但在剖腹產手術中可能有助於肌肉鬆弛，這可能間接支持其在子癲前症中的應用。
+現時点では、詳細な作用機序に関するデータが不足しています。既知の情報によれば、Cisatracurium は非脱分極性神経筋遮断薬であり、
+手術中の筋弛緩効果は確認されています。妊娠高血圧腎症の管理における役割はまだ確立されていませんが、
+帝王切開術では筋弛緩に寄与する可能性があり、それが間接的に妊娠高血圧腎症への応用を支持する可能性があります。
 
 ## 臨床試験エビデンス
 
-| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
+| 試験番号 | 段階 | 状態 | 人数 | 主な所見 |
 |---------|------|------|------|---------|
-| [NCT04645719](https://clinicaltrials.gov/study/NCT04645719) | Phase 3 | 未知 | 75 | Magnesium sulfate 在肥胖患者中的最佳劑量研究，涉及子癲前症控制。 |
-| [NCT04003688](https://clinicaltrials.gov/study/NCT04003688) | NA | 完成 | 74 | 比較兩種方法計算肥胖患者的硫酸鎂劑量，涉及子癲前症。 |
+| [NCT04645719](https://clinicaltrials.gov/study/NCT04645719) | Phase 3 | 不明 | 75 | 肥満患者における Magnesium sulfate の最適用量の検討で、妊娠高血圧腎症のコントロールに関連する。 |
+| [NCT04003688](https://clinicaltrials.gov/study/NCT04003688) | NA | 完了 | 74 | 肥満患者における硫酸マグネシウムの用量算出法を二つの方法で比較した研究で、妊娠高血圧腎症に関連する。 |
 
 ## 文献エビデンス
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
+| PMID | 年 | 種類 | 雑誌 | 主な所見 |
 |------|-----|------|------|---------|
-| [41103680](https://pubmed.ncbi.nlm.nih.gov/41103680/) | 2025 | Case series | Anesthesiology and pain medicine | 炎症細胞因子對腹部手術後反應的負面影響。 |
-| [18383970](https://pubmed.ncbi.nlm.nih.gov/18383970/) | 2008 | Case series | Revista espanola de anestesiologia y reanimacion | 評估 remifentanil 在高風險剖腹產中的血流動力學控制。 |
+| [41103680](https://pubmed.ncbi.nlm.nih.gov/41103680/) | 2025 | Case series | Anesthesiology and pain medicine | 腹部手術後の反応に対する炎症性サイトカインの悪影響。 |
+| [18383970](https://pubmed.ncbi.nlm.nih.gov/18383970/) | 2008 | Case series | Revista espanola de anestesiologia y reanimacion | ハイリスク帝王切開における remifentanil の血行動態管理を評価。 |
 
 ## 日本市販情報
 
@@ -77,21 +77,21 @@ TxGNN 模型預測它可能對**子癲前症 (Preeclampsia)** 有效，
 
 ## 安全性に関する考慮事項
 
-- **藥物交互作用**：
-  - 主要交互作用藥物：Kanamycin（Major）、Neomycin（Major）、Paromomycin（Major）、Polymyxin B（Major）、Streptomycin（Major）
+- **薬物相互作用**：
+  - 主な相互作用薬：Kanamycin（Major）、Neomycin（Major）、Paromomycin（Major）、Polymyxin B（Major）、Streptomycin（Major）
 
 ## 結論と次のステップ
 
 **判断：Research Question**
 
 **理由：**
-目前的證據主要來自於硫酸鎂相關的研究，與 Cisatracurium 的直接關聯性有限。
-需要進一步研究其在子癲前症中的具體作用。
+現時点のエビデンスは主に硫酸マグネシウム関連の研究に由来し、Cisatracurium との直接的な関連性は限定的です。
+妊娠高血圧腎症における本剤の具体的な作用について、さらなる研究が必要です。
 
 **推進に必要な事項：**
-- 詳細的藥物作用機轉資料（MOA）
-- 更直接的臨床試驗數據
-- 評估在子癲前症管理中的安全性和有效性
+- 詳細な薬物作用機序 (MOA) のデータ
+- より直接的な臨床試験データ
+- 妊娠高血圧腎症の管理における安全性と有効性の評価
 
 ---
 

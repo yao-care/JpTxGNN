@@ -9,6 +9,110 @@ last_modified_at: 2026-09-17
 description: "Acitretin：予測新適応症は尋常性ざ瘡 (acne)（エビデンスレベル L3）。既存適応症：日本の承認適応症は本サイトのデータに未収載"
 ---
 
+# Acitretin:乾癬からざ瘡への新規適応症探索
+
+## 一言まとめ
+
+Acitretin は本来、重症の乾癬および皮膚角化症に用いられます。
+TxGNN モデルは、**ざ瘡 (acne)** にも有効な可能性があると予測しており、
+現在この方向を支持する **臨床試験1件**と**文献18件**があります。
+
+## 概要
+
+| 項目 | 内容 |
+|------|------|
+| 既存適応症 | 日本の承認適応症は本サイトのデータに未収載 |
+| 予測新適応症 | 尋常性ざ瘡 (acne) |
+| TxGNN 予測スコア | 99.94% |
+| エビデンスレベル | L3 |
+| 日本市販状況 | 本サイトのデータに未収載 |
+| 承認番号数 | — |
+| 推奨判断 | Proceed with Guardrails |
+
+## この予測が妥当な理由
+
+Acitretin は第二世代の芳香族レチノイド（retinoid）に属し、主な作用機序は次のとおりです。
+1. 角化細胞の分化と増殖の調節
+2. 皮脂腺活性の抑制
+3. 抗炎症作用
+4. 免疫調節機能
+
+ざ瘡の病態には、皮脂腺からの過剰分泌、毛包の角化異常、アクネ菌の増殖、炎症反応が関与します。Retinoids 系薬剤（isotretinoin など）は、すでに重症ざ瘡の標準治療となっています。
+
+Acitretin は isotretinoin と同じく retinoids に属しますが、皮脂腺の抑制効果が isotretinoin より弱いため、従来ざ瘡にはあまり用いられてきませんでした。しかし文献では、acitretin が次のような場面で代替の選択肢となり得ることが示されています。
+- Isotretinoin 治療が奏効しなかった後の維持療法
+- 結節嚢腫性ざ瘡を合併した化膿性汗腺炎（hidradenitis suppurativa / acne inversa）
+
+2002 年の症例報告 (PMID: 12080949) では、isotretinoin 治療が無効であった結節嚢腫性ざ瘡の患者が、acitretin の使用により著明に改善したことが示されています。
+
+## 臨床試験エビデンス
+
+| 試験番号 | 相 | 状態 | 症例数 | 主な知見 |
+|---------|------|------|------|---------|
+| [NCT04663906](https://clinicaltrials.gov/study/NCT04663906) | N/A | UNKNOWN | 300 | 経口 isotretinoin（同じ retinoid）が COVID-19 感染リスクに及ぼす影響を検討 |
+
+*注:acitretin のざ瘡治療を専門に対象とした登録済み臨床試験は、現時点ではありません*
+
+## 文献エビデンス
+
+| PMID | 発行年 | 種類 | 雑誌 | 主な知見 |
+|------|-----|------|------|---------|
+| [12080949](https://pubmed.ncbi.nlm.nih.gov/12080949/) | 2002 | Case Report | Cutis | Isotretinoin が無効であった結節嚢腫性ざ瘡合併の化膿性汗腺炎で、acitretin による維持療法が成功 |
+| [25640693](https://pubmed.ncbi.nlm.nih.gov/25640693/) | 2015 | Guideline | JEADV | 欧州の化膿性汗腺炎治療ガイドライン。acitretin を治療選択肢として言及 |
+| [29234829](https://pubmed.ncbi.nlm.nih.gov/29234829/) | 2018 | Review | Der Hautarzt | 化膿性汗腺炎の薬物治療:isotretinoin の効果は限定的で、acitretin の方が良好な効果 |
+| [20874789](https://pubmed.ncbi.nlm.nih.gov/20874789/) | 2011 | Journal Article | Br J Dermatol | 25 年間にわたる acitretin による化膿性汗腺炎治療の長期追跡で、良好な効果 |
+| [8573927](https://pubmed.ncbi.nlm.nih.gov/8573927/) | 1995 | Review | Dermatology | Retinoids と皮脂腺活性:各 retinoids の抗ざ瘡効果を比較 |
+| [9074840](https://pubmed.ncbi.nlm.nih.gov/9074840/) | 1997 | Review | Drugs | 皮膚科における retinoids の現状と将来:ざ瘡関連の応用を含む |
+
+## 日本市販情報
+
+日本の承認情報は本サイトのデータに未収載です。
+
+## 安全性に関する考慮事項
+
+### 重要な薬物相互作用
+
+**Major 相互作用:**
+- Tetracyclines（Doxycycline、Minocycline、Tetracycline）:偽脳腫瘍のリスクを増加
+- Vitamin A:ビタミンA過剰症のリスクを増加
+- Ethanol（アルコール）:acitretin が etretinate に変換される可能性があり、半減期が数か月まで延長
+- Isotretinoin:併用禁忌。ビタミンA毒性が増加
+- Methotrexate:肝毒性のリスクを増加
+- 経口避妊薬（Levonorgestrel、Norethisterone など）:避妊効果が低下する可能性
+
+**Moderate 相互作用:**
+- スルホニル尿素系血糖降下薬（Glimepiride、Glipizide など）:血糖コントロールに影響する可能性
+- 光感受性薬剤（Aminolevulinic acid、Methoxsalen など）:光感受性反応が増加
+
+### 重要な警告
+- **妊娠は絶対禁忌**:acitretin は強い催奇形性を有するため、妊娠可能な女性は治療前・治療中・治療後に有効な避妊措置を講じる必要があります
+- etretinate に変換される可能性があるため、**投与中止後も少なくとも 3 年間は避妊が必要**
+- **飲酒禁止**:アルコールは acitretin の長時間作用型 etretinate への変換を促進します
+- 肝機能と血中脂質を定期的にモニタリング
+
+安全性情報は添付文書をご参照ください。
+
+## 結論と次のステップ
+
+**判断:Proceed with Guardrails**
+
+**理由:**
+Acitretin は isotretinoin と同じく retinoids に属し、類似した抗角化作用および抗炎症作用の機序を有します。文献では、isotretinoin による治療が奏効しなかった、または長期の維持療法が必要なざ瘡患者において、応用価値があることが示されています。特に化膿性汗腺炎にざ瘡を合併する場合には、acitretin が isotretinoin より有効である可能性があります。
+
+**推進に必要な事項:**
+- 妊娠の可能性を除外し、妊娠可能な女性は二種類の有効な避妊方法を用いること
+- 飲酒を完全に禁止すること
+- 肝機能（ALT、AST）および血中脂質（TG、Cholesterol）を定期的にモニタリングすること
+- ビタミンA補充剤との併用を避けること
+- テトラサイクリン系抗菌薬との併用を避けること
+- 各タイプのざ瘡における acitretin と isotretinoin の効果を比較する RCT を設計すること
+
+
+---
+
+
+
+
 # Acitretin
 {: .fs-9 }
 
@@ -30,108 +134,6 @@ description: "Acitretin：予測新適応症は尋常性ざ瘡 (acne)（エビ�
 ## 薬剤師評価レポート
 
 </div>
-
-# Acitretin：從乾癬到青春痘新適應症探索
-
-## 一言まとめ
-
-Acitretin 原本用於嚴重性乾癬及皮膚角化症。
-TxGNN 模型預測它可能對**青春痘 (acne)** 有效，
-目前有 **1 個臨床試驗**和 **18 篇文獻**支持這個方向。
-
-## 概要
-
-| 項目 | 内容 |
-|------|------|
-| 既存適応症 | 日本の承認適応症は本サイトのデータに未収載 |
-| 予測新適応症 | 尋常性ざ瘡 (acne) |
-| TxGNN 予測スコア | 99.94% |
-| エビデンスレベル | L3 |
-| 日本市販状況 | 本サイトのデータに未収載 |
-| 承認番号数 | — |
-| 推奨判断 | Proceed with Guardrails |
-
-## この予測が妥当な理由
-
-Acitretin 屬於第二代芳香族維生素 A 酸衍生物（retinoid），其主要作用機轉包括：
-1. 調節角質細胞分化與增殖
-2. 抑制皮脂腺活性
-3. 抗發炎作用
-4. 免疫調節功能
-
-青春痘的病理機轉涉及皮脂腺過度分泌、毛囊角化異常、痤瘡桿菌增殖及發炎反應。Retinoids 類藥物（如 isotretinoin）已是嚴重青春痘的標準治療。
-
-Acitretin 與 isotretinoin 同屬 retinoids，但 acitretin 傳統上較少用於青春痘，主要因為其抑制皮脂腺的效果較 isotretinoin 弱。然而，文獻顯示 acitretin 在以下情況可作為替代選擇：
-- Isotretinoin 治療失敗後的維持療法
-- 化膿性汗腺炎（hidradenitis suppurativa / acne inversa）合併結節囊腫型青春痘
-
-2002 年個案報告 (PMID: 12080949) 顯示，isotretinoin 治療無效的結節囊腫型青春痘患者，使用 acitretin 後獲得顯著改善。
-
-## 臨床試験エビデンス
-
-| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
-|---------|------|------|------|---------|
-| [NCT04663906](https://clinicaltrials.gov/study/NCT04663906) | N/A | UNKNOWN | 300 | 研究口服 isotretinoin（同屬 retinoid）在 COVID-19 感染風險的影響 |
-
-*註：目前無專門針對 acitretin 治療青春痘的註冊臨床試驗*
-
-## 文献エビデンス
-
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
-|------|-----|------|------|---------|
-| [12080949](https://pubmed.ncbi.nlm.nih.gov/12080949/) | 2002 | Case Report | Cutis | Isotretinoin 無效的結節囊腫型青春痘合併化膿性汗腺炎，acitretin 維持治療成功 |
-| [25640693](https://pubmed.ncbi.nlm.nih.gov/25640693/) | 2015 | Guideline | JEADV | 歐洲化膿性汗腺炎治療指引，提及 acitretin 為治療選項 |
-| [29234829](https://pubmed.ncbi.nlm.nih.gov/29234829/) | 2018 | Review | Der Hautarzt | 化膿性汗腺炎藥物治療：isotretinoin 療效有限，acitretin 效果較佳 |
-| [20874789](https://pubmed.ncbi.nlm.nih.gov/20874789/) | 2011 | Journal Article | Br J Dermatol | 25 年 acitretin 治療化膿性汗腺炎長期追蹤，療效良好 |
-| [8573927](https://pubmed.ncbi.nlm.nih.gov/8573927/) | 1995 | Review | Dermatology | Retinoids 與皮脂腺活性：比較不同 retinoids 的抗痘效果 |
-| [9074840](https://pubmed.ncbi.nlm.nih.gov/9074840/) | 1997 | Review | Drugs | Retinoids 在皮膚科的現況與未來：包含痤瘡相關應用 |
-
-## 日本市販情報
-
-日本の承認情報は本サイトのデータに未収載です。
-
-## 安全性に関する考慮事項
-
-### 重要な薬物相互作用
-
-**Major 相互作用：**
-- Tetracyclines（Doxycycline、Minocycline、Tetracycline）：增加假性腦瘤風險
-- Vitamin A：增加維生素 A 過多症風險
-- Ethanol（酒精）：可能將 acitretin 轉換為 etretinate，延長半衰期至數月
-- Isotretinoin：禁止併用，增加維生素 A 毒性
-- Methotrexate：增加肝毒性風險
-- 口服避孕藥（Levonorgestrel、Norethisterone 等）：可能降低避孕效果
-
-**Moderate 相互作用：**
-- 磺胺尿素類降血糖藥（Glimepiride、Glipizide 等）：可能影響血糖控制
-- 光敏感藥物（Aminolevulinic acid、Methoxsalen 等）：增加光敏感反應
-
-### 重要な警告
-- **絕對禁止懷孕**：acitretin 具有強烈致畸性，育齡婦女必須於治療前、中、後使用有效避孕措施
-- 因可能轉換為 etretinate，**停藥後需避孕至少 3 年**
-- **禁止飲酒**：酒精會促進 acitretin 轉換為長效 etretinate
-- 定期監測肝功能及血脂
-
-安全性情報は添付文書をご参照ください。
-
-## 結論と次のステップ
-
-**判断：Proceed with Guardrails**
-
-**理由：**
-Acitretin 與 isotretinoin 同屬 retinoids，具有相似的抗角化及抗發炎機轉。文獻顯示其在 isotretinoin 治療失敗或需長期維持治療的青春痘患者中有應用價值。特別是在化膿性汗腺炎合併青春痘的情況下，acitretin 可能比 isotretinoin 更有效。
-
-**推進に必要な事項：**
-- 排除懷孕可能性，育齡婦女需使用兩種有效避孕方法
-- 完全禁止飲酒
-- 定期監測肝功能（ALT、AST）及血脂（TG、Cholesterol）
-- 避免併用維生素 A 補充劑
-- 避免併用四環黴素類抗生素
-- 設計 RCT 比較 acitretin 與 isotretinoin 在不同類型青春痘的療效
-
-
----
-
 
 <div class="disclaimer" style="background-color: #fff3cd; padding: 1rem; border-radius: 0.5rem; margin-top: 2rem;">
 <strong>⚠️ 免責事項</strong><br>

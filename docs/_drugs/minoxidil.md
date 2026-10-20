@@ -31,13 +31,13 @@ description: "Minoxidil：予測新適応症は頭皮単純性乏毛症 (hypotri
 
 </div>
 
-# Minoxidil：從雄激素性禿髮到頭皮單純性稀毛症
+# Minoxidil：男性型脱毛症から頭皮単純性乏毛症まで
 
 ## 一言まとめ
 
-Minoxidil 原本用於治療雄激素性禿髮和高血壓。
-TxGNN 模型預測它可能對**頭皮單純性稀毛症 (hypotrichosis simplex of the scalp)** 有效，
-目前有 **0 個臨床試驗**和 **3 篇文獻**支持這個方向。
+Minoxidil はもともと男性型脱毛症および高血圧の治療に用いられています。
+TxGNN モデルは、本剤が**頭皮単純性乏毛症 (hypotrichosis simplex of the scalp)** に有効である可能性を予測しており、
+現時点でこの方向性を支持する根拠として **0 件の臨床試験**と **3 件の文献**があります。
 
 ## 概要
 
@@ -53,17 +53,17 @@ TxGNN 模型預測它可能對**頭皮單純性稀毛症 (hypotrichosis simplex 
 
 ## この予測が妥当な理由
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Minoxidil 是一種外用生髮劑，
-其成分在雄激素性禿髮中的療效已被證實，機轉上可能適用於頭皮單純性稀毛症。
-Minoxidil 可能透過促進血管擴張和增加頭皮血流量來促進毛髮生長。
+現時点では、詳細な作用機序に関する資料が不足しています。既知の情報によれば、Minoxidil は外用の発毛剤であり、
+その成分は男性型脱毛症での有効性が確認されており、機序の面から頭皮単純性乏毛症にも適用できる可能性があります。
+Minoxidil は、血管拡張の促進と頭皮の血流量の増加を通じて、毛髪の成長を促す可能性があります。
 
 ## 臨床試験エビデンス
 
-目前無相關臨床試驗登記
+現時点で関連する臨床試験の登録はありません
 
 ## 文献エビデンス
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
+| PMID | 発表年 | 種類 | 雑誌 | 主な知見 |
 |------|-----|------|------|---------|
 | [35761391](https://pubmed.ncbi.nlm.nih.gov/35761391/) | 2022 | Case series | Dermatologic therapy | Treatment of hereditary hypotrichosis simplex of the scalp with oral minoxidil and growth factors. |
 | [39902296](https://pubmed.ncbi.nlm.nih.gov/39902296/) | 2024 | Case series | Frontiers in genetics | Treatment of hypotrichosis simplex of the scalp with the combination of botanic extracts and minoxidil: a case report. |
@@ -75,19 +75,19 @@ Minoxidil 可能透過促進血管擴張和增加頭皮血流量來促進毛髮�
 
 ## 安全性に関する考慮事項
 
-- **藥物交互作用**：Minoxidil 與多種藥物有中度交互作用，包括 Hydrocortisone、Bupropion、Triamcinolone、Morphine、Dexamethasone 等。
+- **薬物相互作用**：Minoxidil は多くの薬剤と中等度の相互作用があり、Hydrocortisone、Bupropion、Triamcinolone、Morphine、Dexamethasone などが含まれます。
 
 ## 結論と次のステップ
 
 **判断：Research Question**
 
 **理由：**
-目前的文獻支持有限，僅有少數案例報告，缺乏大規模臨床試驗的支持。
+現時点では文献による裏付けは限られており、少数の症例報告があるのみで、大規模な臨床試験による裏付けはありません。
 
 **推進に必要な事項：**
-- 進一步的臨床試驗以驗證 Minoxidil 對頭皮單純性稀毛症的療效
-- 詳細的藥物作用機轉資料（MOA）
-- 安全性監測計畫，尤其是針對藥物交互作用的影響
+- Minoxidil の頭皮単純性乏毛症に対する有効性を検証するための、さらなる臨床試験
+- 詳細な薬物の作用機序（MOA）に関する資料
+- 特に薬物相互作用の影響に着目した、安全性モニタリング計画
 
 ---
 

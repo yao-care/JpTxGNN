@@ -31,13 +31,13 @@ description: "Zanubrutinib：予測新適応症は骨髄性白血病 (myeloid le
 
 </div>
 
-# Zanubrutinib：從 B 細胞淋巴瘤到骨髓性白血病
+# Zanubrutinib：B細胞リンパ腫から骨髄性白血病へ
 
 ## 一言まとめ
 
-Zanubrutinib 原本用於治療被套細胞淋巴瘤、華氏巨球蛋白血症等 B 細胞惡性腫瘤。
-TxGNN 模型預測它可能對**骨髓性白血病 (myeloid leukemia)** 有效，
-有 **2 個臨床試驗**和 **9 篇文獻**支持這個方向。
+Zanubrutinib はもともと、マントル細胞リンパ腫、ワルデンストレームマクログロブリン血症などの B 細胞性悪性腫瘍の治療に用いられている。
+TxGNN モデルは、本剤が**骨髄性白血病 (myeloid leukemia)** に有効である可能性を予測しており、
+この方向性を **2 件の臨床試験**と **9 件の文献**が支持している。
 
 ## 概要
 
@@ -46,40 +46,40 @@ TxGNN 模型預測它可能對**骨髓性白血病 (myeloid leukemia)** 有效�
 | 既存適応症 | 日本の承認適応症は本サイトのデータに未収載（知識グラフ上の適応症：mantle cell lymphoma、B-cell neoplasm、lymphosarcoma） |
 | 予測新適応症 | 骨髄性白血病 (myeloid leukemia) |
 | TxGNN 予測スコア | 99.65% |
-| エビデンスレベル | L2 (有臨床試驗支持) |
+| エビデンスレベル | L2 (臨床試験の支持あり) |
 | 日本市販状況 | 本サイトのデータに未収載 |
 | 承認番号数 | — |
 | 推奨判断 | Proceed with Guardrails |
 
 ## この予測が妥当な理由
 
-Zanubrutinib 是高選擇性的布魯頓酪氨酸激酶 (BTK) 抑制劑。
-BTK 在 B 細胞受體 (BCR) 訊號傳遞中扮演關鍵角色，抑制 BTK 可阻斷惡性 B 細胞的增殖與存活。
+Zanubrutinib は高選択性のブルトン型チロシンキナーゼ (BTK) 阻害薬である。
+BTK は B 細胞受容体 (BCR) のシグナル伝達で重要な役割を担っており、BTK を阻害することで悪性 B 細胞の増殖と生存を遮断できる。
 
-**作用機轉：**
-- 抑制 BTK (Bruton tyrosine kinase)，IC50 約 20 nM
-- 相較於 ibrutinib，具有更高的 BTK 選擇性
-- 較少 off-target 效應，心房顫動等副作用較低
+**作用機序：**
+- BTK (Bruton tyrosine kinase) を阻害する。IC50 は約 20 nM
+- ibrutinib と比べ、BTK 選択性が高い
+- オフターゲット効果が少なく、心房細動などの副作用が少ない
 
-雖然 BTK 主要表現於 B 細胞，但近年研究發現 BTK 在某些骨髓性惡性腫瘤中也有表現，
-這可能是預測 zanubrutinib 對骨髓性白血病有效的機轉基礎。
+BTK は主に B 細胞に発現しているが、近年の研究により、一部の骨髄性悪性腫瘍でも BTK が発現していることが報告されている。
+これが、zanubrutinib が骨髄性白血病に有効であるとの予測の機序的な基盤になっている可能性がある。
 
 ## 臨床試験エビデンス
 
-| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
+| 試験番号 | 相 | 状態 | 症例数 | 主な知見 |
 |---------|------|------|------|---------|
-| [NCT05665530](https://clinicaltrials.gov/study/NCT05665530) | Phase 1 | COMPLETED | 86 | PRT2527 (CDK9 抑制劑) 與 zanubrutinib 併用治療復發/難治性血液惡性腫瘤 |
-| [NCT04477291](https://clinicaltrials.gov/study/NCT04477291) | Phase 1a/b | TERMINATED | 45 | CG-806 (luxeptinib) 治療復發/難治性急性骨髓性白血病或高風險 MDS |
+| [NCT05665530](https://clinicaltrials.gov/study/NCT05665530) | Phase 1 | COMPLETED | 86 | PRT2527 (CDK9 阻害薬) と zanubrutinib の併用による再発・難治性血液悪性腫瘍の治療 |
+| [NCT04477291](https://clinicaltrials.gov/study/NCT04477291) | Phase 1a/b | TERMINATED | 45 | CG-806 (luxeptinib) による再発・難治性急性骨髄性白血病または高リスク MDS の治療 |
 
 ## 文献エビデンス
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
+| PMID | 発表年 | 種類 | 雑誌 | 主な知見 |
 |------|-----|------|------|---------|
-| [39647999](https://pubmed.ncbi.nlm.nih.gov/39647999/) | 2025 | RCT Phase 3 | J Clin Oncol | SEQUOIA 試驗 5 年追蹤：zanubrutinib vs BR 在初治 CLL/SLL |
-| [40334067](https://pubmed.ncbi.nlm.nih.gov/40334067/) | 2025 | Phase 2 | Blood Advances | Zanubrutinib 在 ibrutinib/acalabrutinib 不耐受患者中耐受性良好 |
-| [40829104](https://pubmed.ncbi.nlm.nih.gov/40829104/) | 2026 | 跨試驗分析 | Blood Advances | Zanubrutinib 在 del(17p)/TP53 突變 CLL/SLL 患者中的療效分析 |
-| [34959482](https://pubmed.ncbi.nlm.nih.gov/34959482/) | 2021 | 回顧 | Pharmaceutics | TKI 時代的慢性白血病：BTK 抑制劑在 CLL 中的角色 |
-| [36402930](https://pubmed.ncbi.nlm.nih.gov/36402930/) | 2023 | 回顧 | Leukemia | BTK 抑制劑在華氏巨球蛋白血症中的應用 |
+| [39647999](https://pubmed.ncbi.nlm.nih.gov/39647999/) | 2025 | RCT Phase 3 | J Clin Oncol | SEQUOIA 試験の 5 年追跡：未治療 CLL/SLL における zanubrutinib と BR の比較 |
+| [40334067](https://pubmed.ncbi.nlm.nih.gov/40334067/) | 2025 | Phase 2 | Blood Advances | ibrutinib/acalabrutinib に不耐容の患者において zanubrutinib の忍容性は良好 |
+| [40829104](https://pubmed.ncbi.nlm.nih.gov/40829104/) | 2026 | 試験横断解析 | Blood Advances | del(17p)/TP53 変異を有する CLL/SLL 患者における zanubrutinib の有効性解析 |
+| [34959482](https://pubmed.ncbi.nlm.nih.gov/34959482/) | 2021 | レビュー | Pharmaceutics | TKI 時代の慢性白血病：CLL における BTK 阻害薬の役割 |
+| [36402930](https://pubmed.ncbi.nlm.nih.gov/36402930/) | 2023 | レビュー | Leukemia | ワルデンストレームマクログロブリン血症における BTK 阻害薬の応用 |
 
 ## 日本市販情報
 
@@ -89,42 +89,42 @@ BTK 在 B 細胞受體 (BCR) 訊號傳遞中扮演關鍵角色，抑制 BTK 可�
 
 | 項目 | 内容 |
 |------|------|
-| 細胞毒性分類 | 標靶治療藥物 (非傳統細胞毒性) |
-| 骨髓抑制風險 | 中度 (嗜中性白血球減少、血小板減少) |
-| 出血風險 | 需注意，尤其與抗凝血劑併用時 |
-| 監測項目 | CBC (含分類)、肝功能、出血徵兆 |
-| 處置防護 | 口服藥物，依一般藥物處置規範操作 |
+| 細胞毒性分類 | 分子標的治療薬 (従来型の細胞毒性薬ではない) |
+| 骨髄抑制リスク | 中等度 (好中球減少、血小板減少) |
+| 出血リスク | 注意が必要。特に抗凝固薬との併用時 |
+| モニタリング項目 | CBC (分画を含む)、肝機能、出血徴候 |
+| 取り扱い上の防護 | 経口薬のため、一般的な薬剤の取り扱い基準に従って扱う |
 
 ## 安全性に関する考慮事項
 
-**主要藥物交互作用 (Major)：**
+**主要な薬物相互作用 (Major)：**
 
-| 藥物類別 | 代表藥物 | 交互作用機轉 |
+| 薬剤分類 | 代表的な薬剤 | 相互作用の機序 |
 |---------|---------|-------------|
-| 抗凝血劑/抗血小板 | Warfarin, Apixaban, Clopidogrel, Aspirin | 增加出血風險 |
-| CYP3A 強效抑制劑 | Ketoconazole, Clarithromycin, Cobicistat | 增加 zanubrutinib 血中濃度 |
-| CYP3A 強效誘導劑 | Enzalutamide, Apalutamide, Mitotane | 降低 zanubrutinib 血中濃度 |
-| 其他 BTK 抑制劑 | Ibrutinib, Acalabrutinib | 藥理作用重疊 |
-| 免疫抑制劑 | Adalimumab, Etanercept, Infliximab | 增加感染風險 |
+| 抗凝固薬/抗血小板薬 | Warfarin, Apixaban, Clopidogrel, Aspirin | 出血リスクの増加 |
+| CYP3A 強力阻害薬 | Ketoconazole, Clarithromycin, Cobicistat | zanubrutinib の血中濃度を上昇させる |
+| CYP3A 強力誘導薬 | Enzalutamide, Apalutamide, Mitotane | zanubrutinib の血中濃度を低下させる |
+| 他の BTK 阻害薬 | Ibrutinib, Acalabrutinib | 薬理作用の重複 |
+| 免疫抑制薬 | Adalimumab, Etanercept, Infliximab | 感染リスクの増加 |
 
 **注意事項：**
-- 接受手術前需暫停使用 (術前至少 3-7 天)
-- B 型肝炎再活化風險，需監測 HBsAg/anti-HBc
-- 心房顫動風險較 ibrutinib 低，但仍需監測
+- 手術前は休薬が必要（術前に少なくとも 3-7 日）
+- B 型肝炎の再活性化リスクがあり、HBsAg/anti-HBc のモニタリングが必要
+- 心房細動のリスクは ibrutinib より低いが、引き続きモニタリングが必要
 
 ## 結論と次のステップ
 
 **判断：Proceed with Guardrails**
 
 **理由：**
-雖然 zanubrutinib 的主要作用在 B 細胞，但其在血液惡性腫瘤中的廣泛療效已獲證實。
-針對骨髓性白血病的預測有初步臨床試驗支持，但這些試驗主要探討聯合用藥而非單獨使用。
+Zanubrutinib の主な作用は B 細胞に対するものであるが、血液悪性腫瘍における幅広い有効性はすでに確認されている。
+骨髄性白血病に対する予測には予備的な臨床試験の支持があるが、これらの試験は単剤使用ではなく併用療法を主に検討したものである。
 
 **推進に必要な事項：**
-- 確認 BTK 在骨髓性白血病中的表現與功能
-- 設計專門針對骨髓性白血病的 Phase 1/2 臨床試驗
-- 評估與現有骨髓性白血病治療藥物的聯合效果
-- 建立生物標記預測可能受益的患者亞群
+- 骨髄性白血病における BTK の発現と機能の確認
+- 骨髄性白血病を対象とした Phase 1/2 臨床試験の設計
+- 骨髄性白血病の既存治療薬との併用効果の評価
+- 有益性が見込まれる患者サブグループを予測するバイオマーカーの確立
 
 
 ---

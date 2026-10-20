@@ -31,13 +31,13 @@ description: "Vinorelbine：予測新適応症はEwing 肉腫 (Ewing sarcoma)（
 
 </div>
 
-# Vinorelbine：從非小細胞肺癌到 Ewing 肉瘤
+# ビノレルビン：非小細胞肺癌から Ewing 肉腫へ
 
 ## 一言まとめ
 
-Vinorelbine 原本用於治療非小細胞肺癌和轉移性乳癌。
-TxGNN 模型預測它可能對 **Ewing 肉瘤 (Ewing sarcoma)** 有效，
-目前有 **4 個臨床試驗**支持這個方向。
+ビノレルビンは本来、非小細胞肺癌および転移性乳癌の治療に用いられます。
+TxGNN モデルは、本剤が **Ewing 肉腫 (Ewing sarcoma)** に有効な可能性があると予測しており、
+現在 **4 件の臨床試験**がこの方向性を支持しています。
 
 ## 概要
 
@@ -53,20 +53,20 @@ TxGNN 模型預測它可能對 **Ewing 肉瘤 (Ewing sarcoma)** 有效，
 
 ## この予測が妥当な理由
 
-Vinorelbine 是半合成的長春花生物鹼（Vinca alkaloid），透過阻斷微管蛋白聚合抑制有絲分裂。Ewing 肉瘤是一種高度增殖的惡性腫瘤，對微管抑制劑具有敏感性。Vinorelbine 在多項兒童難治性腫瘤的臨床試驗中展現活性，包括 Ewing 肉瘤。
+ビノレルビンは半合成のビンカアルカロイド（Vinca alkaloid）で、チューブリン重合を阻害することにより有糸分裂を抑制します。Ewing 肉腫は高度に増殖する悪性腫瘍であり、微小管阻害薬に感受性を示します。ビノレルビンは、Ewing 肉腫を含む小児の難治性腫瘍を対象とした複数の臨床試験で活性を示しています。
 
 ## 臨床試験エビデンス
 
-| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
+| 試験番号 | フェーズ | 状態 | 人数 | 主な所見 |
 |---------|------|------|------|---------|
-| [NCT06451302](https://clinicaltrials.gov/study/NCT06451302) | N/A | ACTIVE_NOT_RECRUITING | 100 | 評估中國兒童 Ewing 肉瘤風險分層導向治療的療效和安全性 |
-| [NCT00003234](https://clinicaltrials.gov/study/NCT00003234) | Phase 2 | COMPLETED | 50 | 研究 Vinorelbine 在復發/難治性兒童惡性腫瘤中的效果，包括 Ewing 肉瘤 |
-| [NCT00180947](https://clinicaltrials.gov/study/NCT00180947) | Phase 2 | UNKNOWN | 210 | 評估 Vinorelbine 與 Cyclophosphamide 組合在難治性腫瘤中的抗腫瘤活性 |
-| [NCT05999994](https://clinicaltrials.gov/study/NCT05999994) | Phase 2 | RECRUITING | 105 | CAMPFIRE 兒童和青少年創新研究主協議 |
+| [NCT06451302](https://clinicaltrials.gov/study/NCT06451302) | N/A | ACTIVE_NOT_RECRUITING | 100 | 中国の小児 Ewing 肉腫に対するリスク層別化に基づく治療の有効性と安全性を評価 |
+| [NCT00003234](https://clinicaltrials.gov/study/NCT00003234) | Phase 2 | COMPLETED | 50 | Ewing 肉腫を含む再発/難治性の小児悪性腫瘍に対するビノレルビンの効果を検討 |
+| [NCT00180947](https://clinicaltrials.gov/study/NCT00180947) | Phase 2 | UNKNOWN | 210 | 難治性腫瘍におけるビノレルビンとシクロホスファミドの併用による抗腫瘍活性を評価 |
+| [NCT05999994](https://clinicaltrials.gov/study/NCT05999994) | Phase 2 | RECRUITING | 105 | CAMPFIRE 小児・青少年イノベーション試験のマスタープロトコル |
 
 ## 文献エビデンス
 
-目前無專門針對 Vinorelbine 用於 Ewing 肉瘤的 PubMed 文獻收錄，但有相關的兒科腫瘤研究文獻支持其在難治性肉瘤中的應用。
+現時点では、ビノレルビンの Ewing 肉腫への使用に特化した PubMed 収載文献はありませんが、難治性肉腫での使用を支持する関連の小児腫瘍研究文献があります。
 
 ## 日本市販情報
 
@@ -76,41 +76,41 @@ Vinorelbine 是半合成的長春花生物鹼（Vinca alkaloid），透過阻斷
 
 | 項目 | 内容 |
 |------|------|
-| 細胞毒性分類 | 傳統細胞毒性藥物（Vinca alkaloid） |
-| 骨髓抑制風險 | 高度（嗜中性白血球減少為劑量限制毒性） |
-| 致吐性分級 | 低度 |
-| 監測項目 | CBC（含分類）、肝功能、神經毒性評估 |
-| 處置防護 | 需依細胞毒性藥物處置規範操作；靜脈注射需注意外滲風險 |
+| 細胞毒性分類 | 従来型の細胞毒性薬（Vinca alkaloid） |
+| 骨髄抑制リスク | 高度（好中球減少が用量制限毒性） |
+| 催吐性リスク分類 | 低度 |
+| モニタリング項目 | CBC（分画を含む）、肝機能、神経毒性の評価 |
+| 取り扱い時の防護 | 細胞毒性薬の取り扱い基準に従って操作する必要あり。静脈内投与では血管外漏出に注意 |
 
 ## 安全性に関する考慮事項
 
 ### 重大な薬物相互作用（Major）
 
-| 交互作用藥物 | 機轉說明 |
+| 相互作用薬 | 機序の説明 |
 |-------------|---------|
-| Clarithromycin | CYP3A4 抑制劑，增加 vinorelbine 血中濃度和毒性 |
+| Clarithromycin | CYP3A4 阻害薬。ビノレルビンの血中濃度と毒性を増加させる |
 
-### 中度藥物交互作用（Moderate）
+### 中等度の薬物相互作用（Moderate）
 
-| 交互作用藥物 | 機轉說明 |
+| 相互作用薬 | 機序の説明 |
 |-------------|---------|
-| Aprepitant | CYP3A4 抑制 |
-| Dexamethasone | 可能影響代謝 |
-| Simvastatin | CYP3A4 競爭 |
-| Rosuvastatin | 藥物轉運體交互作用 |
+| Aprepitant | CYP3A4 阻害 |
+| Dexamethasone | 代謝に影響する可能性 |
+| Simvastatin | CYP3A4 の競合 |
+| Rosuvastatin | 薬物トランスポーターによる相互作用 |
 
 ## 結論と次のステップ
 
 **判断：Proceed with Guardrails**
 
 **理由：**
-Vinorelbine 在多項兒童腫瘤臨床試驗中顯示對 Ewing 肉瘤具有潛在療效，且作用機轉（微管抑制）對高增殖性腫瘤具有合理的生物學基礎。
+ビノレルビンは小児腫瘍の複数の臨床試験で Ewing 肉腫に対する潜在的な有効性を示しており、作用機序（微小管阻害）にも高増殖性腫瘍に対する合理的な生物学的根拠があります。
 
 **推進に必要な事項：**
-- 收集專門針對 Ewing 肉瘤的療效數據
-- 確定適當的兒科劑量和給藥方案
-- 與現有 Ewing 肉瘤標準治療方案的比較評估
-- 骨髓抑制和神經毒性的密切監測計畫
+- Ewing 肉腫に特化した有効性データの収集
+- 適切な小児用量および投与レジメンの確定
+- 既存の Ewing 肉腫標準治療レジメンとの比較評価
+- 骨髄抑制および神経毒性の綿密なモニタリング計画
 
 
 ---

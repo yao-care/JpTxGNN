@@ -31,11 +31,11 @@ description: "Ritonavir：予測新適応症はサル免疫不全ウイルス感
 
 </div>
 
-# Ritonavir：從 HIV 到猿免疫缺乏病毒感染
+# Ritonavir：HIVからサル免疫不全ウイルス感染症へ
 
 ## 一言まとめ
 
-Ritonavir 是一種 HIV 蛋白酶抑制劑，原本用於人類免疫缺乏病毒（HIV）感染的治療。TxGNN 模型預測它可能對**猿免疫缺乏病毒感染 (Simian Immunodeficiency Virus Infection)** 有效，目前有 **多篇文獻**支持這個方向。
+Ritonavir はHIVプロテアーゼ阻害薬で、もともとヒト免疫不全ウイルス（HIV）感染症の治療に用いられています。TxGNN モデルは、本剤が**サル免疫不全ウイルス感染症 (Simian Immunodeficiency Virus Infection)** に有効である可能性を予測しており、現在、この方向性を支持する**複数の文献**があります。
 
 ## 概要
 
@@ -51,28 +51,28 @@ Ritonavir 是一種 HIV 蛋白酶抑制劑，原本用於人類免疫缺乏病�
 
 ## この予測が妥当な理由
 
-Ritonavir 是一種 HIV 蛋白酶抑制劑，主要用於 HIV 治療。目前它通常作為藥物動力學增強劑（booster）與其他蛋白酶抑制劑（如 darunavir、lopinavir）併用，以提高其他藥物的血中濃度。
+Ritonavir はHIVプロテアーゼ阻害薬で、主にHIV治療に用いられます。現在は通常、薬物動態増強薬（ブースター）として、他のプロテアーゼ阻害薬（darunavir、lopinavir など）と併用され、併用薬の血中濃度を高める目的で使われています。
 
-猿免疫缺乏病毒（SIV）是 HIV 的近親病毒，在非人靈長類動物中引起類似 AIDS 的疾病。SIV 是研究 HIV 感染和抗病毒藥物的重要動物模型。由於 SIV 和 HIV 的蛋白酶具有結構相似性，針對 HIV 蛋白酶的抑制劑對 SIV 也可能具有活性。
+サル免疫不全ウイルス（SIV）はHIVの近縁ウイルスで、非ヒト霊長類においてAIDS様疾患を引き起こします。SIV は、HIV感染や抗ウイルス薬を研究するうえで重要な動物モデルです。SIV と HIV のプロテアーゼは構造が類似しているため、HIVプロテアーゼに対する阻害薬は SIV に対しても活性を示す可能性があります。
 
-文獻研究已證實：
-1. Ritonavir 在體外對 SIVmac239 具有抑制活性
-2. 包含 ritonavir-boosted lopinavir 的多藥組合療法可有效抑制 SIV 感染的恆河猴體內病毒載量
-3. SIV/SHIV 動物模型是評估抗逆轉錄病毒藥物的重要工具
+文献研究により、以下が確認されています：
+1. Ritonavir は in vitro で SIVmac239 に対して阻害活性を示す
+2. ritonavir ブースト lopinavir を含む多剤併用療法は、SIV 感染アカゲザルの体内ウイルス量を効果的に抑制できる
+3. SIV/SHIV 動物モデルは、抗レトロウイルス薬を評価するための重要なツールである
 
 ## 臨床試験エビデンス
 
-目前無針對 SIV 感染的人類臨床試驗（SIV 不感染人類）。
+SIV 感染を対象としたヒトでの臨床試験は現時点ではありません（SIV はヒトに感染しないため）。
 
 ## 文献エビデンス
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
+| PMID | 年 | 種類 | 雑誌 | 主な所見 |
 |------|-----|------|------|---------|
-| [12709355](https://pubmed.ncbi.nlm.nih.gov/12709355/) | 2003 | Journal Article | Antimicrob Agents Chemother | SIVmac239 對 ritonavir 的敏感性（EC50: 13 nM） |
-| [16973590](https://pubmed.ncbi.nlm.nih.gov/16973590/) | 2006 | Journal Article | J Virol | 四藥抗逆轉錄病毒治療在 SIV 感染獼猴中的快速病毒衰減 |
-| [22737073](https://pubmed.ncbi.nlm.nih.gov/22737073/) | 2012 | Journal Article | PLoS Pathog | 高強度 ART 可長期抑制 SIV 病毒載量並限制病毒儲存庫 |
-| [34903055](https://pubmed.ncbi.nlm.nih.gov/34903055/) | 2021 | Journal Article | mBio | 儘管有效的 ART，慢病毒感染仍持續存在於腦中 |
-| [17350308](https://pubmed.ncbi.nlm.nih.gov/17350308/) | 2007 | Journal Article | Microbes Infect | SHIV-pr 構建及其對蛋白酶抑制劑敏感性的體內評估 |
+| [12709355](https://pubmed.ncbi.nlm.nih.gov/12709355/) | 2003 | Journal Article | Antimicrob Agents Chemother | SIVmac239 の ritonavir に対する感受性（EC50: 13 nM） |
+| [16973590](https://pubmed.ncbi.nlm.nih.gov/16973590/) | 2006 | Journal Article | J Virol | SIV 感染マカクにおける四剤抗レトロウイルス療法による急速なウイルス減少 |
+| [22737073](https://pubmed.ncbi.nlm.nih.gov/22737073/) | 2012 | Journal Article | PLoS Pathog | 高強度 ART により SIV ウイルス量を長期に抑制し、ウイルスリザーバーを制限 |
+| [34903055](https://pubmed.ncbi.nlm.nih.gov/34903055/) | 2021 | Journal Article | mBio | 有効な ART にもかかわらず、レンチウイルス感染が脳内に持続 |
+| [17350308](https://pubmed.ncbi.nlm.nih.gov/17350308/) | 2007 | Journal Article | Microbes Infect | SHIV-pr の構築とプロテアーゼ阻害薬感受性の生体内評価 |
 
 ## 日本市販情報
 
@@ -80,26 +80,26 @@ Ritonavir 是一種 HIV 蛋白酶抑制劑，主要用於 HIV 治療。目前它
 
 ## 安全性に関する考慮事項
 
-**主要警語：**
-- 藥物交互作用：Ritonavir 是 CYP3A4 的強效抑制劑，與多種藥物有顯著交互作用
+**主要な警告：**
+- 薬物相互作用：Ritonavir は CYP3A4 の強力な阻害薬であり、多くの薬剤と顕著な相互作用を示す
 - 肝毒性
 - 脂質代謝異常
 
-**禁忌症：**
-請參考原廠仿單
+**禁忌：**
+製造販売元の添付文書を参照してください
 
 ## 結論と次のステップ
 
 **判断：Proceed with Guardrails**
 
 **理由：**
-這個預測在科學上是合理的，因為 SIV 是 HIV 的近親病毒，ritonavir 對 SIV 蛋白酶的抑制活性已在體外和動物模型中得到證實。然而，由於 SIV 不感染人類，這個預測的主要應用是在獸醫學領域（靈長類動物）或作為 HIV 研究的動物模型工具。
+SIV は HIV の近縁ウイルスであり、ritonavir による SIV プロテアーゼの阻害活性が in vitro および動物モデルで確認されていることから、この予測は科学的に妥当です。ただし、SIV はヒトに感染しないため、この予測の主な応用先は獣医学領域（霊長類）、またはHIV研究における動物モデルのツールです。
 
 **推進に必要な事項：**
-- 這主要是獸醫學/動物研究的應用
-- 評估在 SIV 感染的非人靈長類動物中的療效和安全性
-- 作為 HIV 研究工具，已有充分的應用基礎
-- 對於貓愛滋病（FIV），需進行額外的種間交叉反應研究
+- 主に獣医学・動物研究への応用である
+- SIV 感染の非ヒト霊長類における有効性と安全性を評価する
+- HIV研究のツールとしては、すでに十分な応用基盤がある
+- ネコ免疫不全ウイルス（FIV）による猫エイズについては、追加の種間交差反応性の研究が必要
 
 
 ---

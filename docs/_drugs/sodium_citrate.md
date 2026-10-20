@@ -31,11 +31,11 @@ description: "Sodium Citrate：予測新適応症は胃疾患（stomach disease�
 
 </div>
 
-# Sodium Citrate（檸檬酸鈉）：從抗凝血劑到胃部疾病輔助治療之探索
+# クエン酸ナトリウム（Sodium Citrate）：抗凝固薬から胃疾患の補助療法への探索
 
 ## 一言まとめ
 
-Sodium Citrate 主要作為抗凝血劑及袪痰劑使用，TxGNN 預測其可能對胃部疾病具有輔助治療潛力，並有多篇文獻支持其在胃癌抑制及胃黏膜保護方面的作用。
+Sodium Citrate は主に抗凝固薬および去痰薬として使用されており、TxGNN は胃疾患に対する補助療法としての可能性を予測している。胃癌の抑制および胃粘膜保護に関する作用を支持する文献が複数ある。
 
 ## 概要
 
@@ -44,48 +44,48 @@ Sodium Citrate 主要作為抗凝血劑及袪痰劑使用，TxGNN 預測其可�
 | 既存適応症 | 日本の承認適応症は本サイトのデータに未収載（知識グラフ上の適応症：peptic ulcer disease、gastroesophageal reflux disease、esophagitis (disease)、peptic esophagitis、dyspepsia、pharyngitis） |
 | 予測新適応症 | 胃疾患（stomach disease）、胃十二指腸炎（gastroduodenitis） |
 | TxGNN 予測スコア | 0.999（stomach disease） |
-| エビデンスレベル | L3（有多篇 PubMed 文獻及臨床試驗） |
+| エビデンスレベル | L3（PubMed 文献および臨床試験が複数あり） |
 | 日本市販状況 | 本サイトのデータに未収載 |
 | 承認番号数 | — |
 | 推奨判断 | Watch |
 
 ## この予測が妥当な理由
 
-### 胃部疾病（Stomach Disease）- TxGNN 分數 0.999
+### 胃疾患（Stomach Disease）- TxGNN スコア 0.999
 
-**機轉假說：**
-Sodium Citrate 透過抑制糖解作用（glycolysis）來抑制腫瘤細胞生長。研究顯示其可抑制磷酸果糖激酶（phosphofructokinase, PFK）活性，減少 ATP 和乳酸生成，並誘導粒線體介導的凋亡途徑。
+**作用機序の仮説：**
+Sodium Citrate は解糖系（glycolysis）を抑制することで腫瘍細胞の増殖を抑える。ホスホフルクトキナーゼ（phosphofructokinase, PFK）の活性を抑制し、ATP および乳酸の産生を減少させ、ミトコンドリア介在性のアポトーシス経路を誘導することが研究で示されている。
 
-**文獻支持：**
-1. **2016 年 Biochemical and Biophysical Research Communications（PMID: 27163639）**：研究證實 Sodium Citrate 可抑制人類胃癌細胞株 MGC-803 的增殖，透過阻斷糖解作用並促進粒線體凋亡途徑。
+**文献による裏付け：**
+1. **2016 年 Biochemical and Biophysical Research Communications（PMID: 27163639）**：Sodium Citrate が、解糖系の阻害とミトコンドリアアポトーシス経路の促進を介して、ヒト胃癌細胞株 MGC-803 の増殖を抑制することを確認した。
 
-2. **2016 年 Oncology Reports（PMID: 26708213）**：在胃癌原位移植瘤模型中，Sodium Citrate 可抑制腫瘤生長、誘導細胞凋亡，並下調抗凋亡蛋白 Survivin。
+2. **2016 年 Oncology Reports（PMID: 26708213）**：胃癌の同所移植腫瘍モデルにおいて、Sodium Citrate は腫瘍の増殖を抑制し、アポトーシスを誘導するとともに、抗アポトーシスタンパク質 Survivin を下方制御した。
 
-3. **2018 年 Oncology Reports（PMID: 29115645）**：利用 18F-FDG PET/CT 影像證實 Sodium Citrate 在活體內可抑制胃癌糖解代謝及腫瘤生長。
+3. **2018 年 Oncology Reports（PMID: 29115645）**：18F-FDG PET/CT 画像を用いて、Sodium Citrate が生体内で胃癌の解糖系代謝と腫瘍の増殖を抑制することを確認した。
 
-### 胃十二指腸炎（Gastroduodenitis）- TxGNN 分數 0.996
+### 胃十二指腸炎（Gastroduodenitis）- TxGNN スコア 0.996
 
-**機轉假說：**
-Sodium Citrate 可調節胃內 pH 值，對胃黏膜具有保護作用。
+**作用機序の仮説：**
+Sodium Citrate は胃内 pH を調節し、胃粘膜に対する保護作用を示す。
 
-**文獻支持：**
-- 1991 年研究（PMID: 1777551）顯示 Sodium Citrate 與 glucose 的配方可減少非類固醇消炎藥引起的胃腸道損傷。
-- 1999 年研究（PMID: 10499455）指出含有 monosodium citrate 的發泡錠具有制酸能力，可快速緩解胃酸逆流症狀。
+**文献による裏付け：**
+- 1991 年の研究（PMID: 1777551）では、Sodium Citrate と glucose の配合により、非ステロイド性抗炎症薬による消化管障害を軽減できることが示された。
+- 1999 年の研究（PMID: 10499455）では、monosodium citrate を含む発泡錠に制酸能があり、胃酸逆流症状を速やかに緩和すると指摘されている。
 
 ## 臨床試験
 
-與 Sodium Citrate 及胃部疾病相關的臨床試驗眾多，主要集中在：
+Sodium Citrate と胃疾患に関連する臨床試験は多数あり、主に以下に集中している：
 
-| 試驗編號 | 標題 | 階段 | 狀態 |
+| 試験番号 | タイトル | 相 | 状態 |
 |---------|------|------|------|
-| NCT03050359 | TAK-438 vs Lansoprazole 治療十二指腸潰瘍 | Phase 3 | 完成 |
-| NCT03050307 | TAK-438 vs Lansoprazole 治療胃潰瘍 | Phase 3 | 完成 |
-| NCT02891447 | 胃癌細胞減積術與 HIPEC | Phase 2 | 完成 |
-| NCT05753306 | 機器人輔助胃癌 HIPEC 手術 | Phase 2 | 招募中 |
+| NCT03050359 | 十二指腸潰瘍に対する TAK-438 vs Lansoprazole | Phase 3 | 完了 |
+| NCT03050307 | 胃潰瘍に対する TAK-438 vs Lansoprazole | Phase 3 | 完了 |
+| NCT02891447 | 胃癌に対する腫瘍減量手術と HIPEC | Phase 2 | 完了 |
+| NCT05753306 | ロボット支援下胃癌 HIPEC 手術 | Phase 2 | 募集中 |
 
 ## 関連文献
 
-| PMID | 標題 | 年份 | 相關性 |
+| PMID | タイトル | 発表年 | 関連性 |
 |------|------|------|--------|
 | 27163639 | 3-Bromopyruvate and sodium citrate induce apoptosis in gastric cancer | 2016 | 高 |
 | 26708213 | Sodium citrate target glycolysis in gastric cancer cells | 2016 | 高 |
@@ -98,27 +98,27 @@ Sodium Citrate 可調節胃內 pH 值，對胃黏膜具有保護作用。
 
 ## 安全性に関する考慮事項
 
-- **警語與禁忌症**：尚無詳細仿單資訊
-- **藥物交互作用**：未發現已知的重大藥物交互作用資料
-- **特殊族群**：
-  - 高劑量可能導致代謝性鹼中毒
-  - 需注意與其他電解質的交互作用
+- **警告・禁忌**：詳細な添付文書情報はなし
+- **薬物相互作用**：既知の重大な薬物相互作用に関するデータは見つかっていない
+- **特殊集団**：
+  - 高用量では代謝性アルカローシスを来すおそれがある
+  - 他の電解質との相互作用に注意が必要
 
-**備註**：Sodium Citrate 作為抗凝血劑及輔助劑安全性良好，但在抗腫瘤應用上需進一步評估劑量及給藥途徑。
+**備考**：Sodium Citrate は抗凝固薬および補助剤としての安全性は良好であるが、抗腫瘍への応用では用量および投与経路についてさらなる評価が必要である。
 
 ## 結論と次のステップ
 
 **判断：Watch**
 
 **理由：**
-TxGNN 預測分數極高（0.999），且有多篇高品質體外及動物實驗文獻支持 Sodium Citrate 抑制胃癌細胞的機轉。然而，目前證據仍限於基礎研究階段，尚無針對此適應症的人體臨床試驗。
+TxGNN の予測スコアは極めて高く（0.999）、Sodium Citrate が胃癌細胞を抑制する機序を支持する質の高い in vitro 試験および動物実験の文献が複数ある。しかし、現時点のエビデンスは基礎研究段階にとどまり、この適応症を対象としたヒト臨床試験はまだない。
 
 **推進に必要な事項：**
-- 確立人體安全的抗腫瘤劑量
-- 評估口服或靜脈給藥的可行性
-- 設計 Phase I 安全性試驗
-- 探索與現有胃癌化療藥物的協同作用
-- 考慮作為化療增敏劑而非單一療法的定位
+- ヒトにおける安全な抗腫瘍用量の確立
+- 経口投与または静脈内投与の実現可能性の評価
+- Phase I 安全性試験の設計
+- 既存の胃癌化学療法薬との相乗作用の探索
+- 単独療法ではなく、化学療法の増感剤としての位置づけの検討
 
 
 ---

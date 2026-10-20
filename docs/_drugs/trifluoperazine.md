@@ -31,13 +31,13 @@ description: "Trifluoperazine：予測新適応症は双極性障害の躁病相
 
 </div>
 
-# Trifluoperazine：從精神病狀態到躁鬱症躁症期
+# Trifluoperazine：精神病状態から双極性障害の躁病相へ
 
 ## 一言まとめ
 
-Trifluoperazine (三氟陪拉辛) 原本用於治療精神病狀態及行為障礙。
-TxGNN 模型預測它可能對**躁鬱症躁症期 (manic bipolar affective disorder)** 有效，
-目前有 **20 篇文獻**支持這個方向。
+Trifluoperazine (トリフルオペラジン) は、もともと精神病状態および行動障害の治療に用いられている。
+TxGNN モデルは、本剤が**双極性障害の躁病相 (manic bipolar affective disorder)** に有効である可能性を予測しており、
+現時点で **20 篇の文献**がこの方向性を支持している。
 
 ## 概要
 
@@ -46,34 +46,34 @@ TxGNN 模型預測它可能對**躁鬱症躁症期 (manic bipolar affective diso
 | 既存適応症 | 日本の承認適応症は本サイトのデータに未収載（知識グラフ上の適応症：schizophrenia、anxiety） |
 | 予測新適応症 | 双極性障害の躁病相 (manic bipolar affective disorder) |
 | TxGNN 予測スコア | 99.51% |
-| エビデンスレベル | L3 (有間接文獻證據) |
+| エビデンスレベル | L3 (間接的な文献エビデンスあり) |
 | 日本市販状況 | 本サイトのデータに未収載 |
 | 承認番号数 | — |
 | 推奨判断 | Proceed with Guardrails |
 
 ## この予測が妥当な理由
 
-Trifluoperazine 是一種典型抗精神病藥物（phenothiazine 類），其作用機轉支持在躁症期的應用：
+Trifluoperazine は定型抗精神病薬（フェノチアジン系）であり、その作用機序は躁病相での応用を支持するものである。
 
-1. **多巴胺 D2 受體阻斷**：抑制中腦邊緣系統的多巴胺過度活化
-2. **鎮靜作用**：減少躁動、攻擊性行為
-3. **抗精神病作用**：改善精神病性症狀（如妄想、幻覺）
+1. **ドパミン D2 受容体遮断**：中脳辺縁系のドパミン過剰活性化を抑制する
+2. **鎮静作用**：興奮や攻撃的行動を軽減する
+3. **抗精神病作用**：妄想・幻覚などの精神病性症状を改善する
 
-躁症期常伴隨精神病性症狀，典型抗精神病藥物在非典型藥物問世前是躁症急性期的標準治療選擇之一。
+躁病相にはしばしば精神病性症状が伴い、定型抗精神病薬は非定型薬が登場するまで、躁病の急性期における標準的な治療選択肢の一つであった。
 
 ## 臨床試験エビデンス
 
-目前無針對躁鬱症躁症期的專門臨床試驗，但有多篇文獻支持其在躁症期的使用。
+双極性障害の躁病相を対象とした専用の臨床試験は現時点でないが、躁病相での使用を支持する文献が複数ある。
 
 ## 文献エビデンス
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
+| PMID | 年 | 種類 | 雑誌 | 主な知見 |
 |------|-----|------|------|---------|
-| [14309092](https://pubmed.ncbi.nlm.nih.gov/14309092/) | 1965 | Clinical Study | Int J Neuropsychiatry | 比較 Haloperidol 與 Trifluoperazine 在精神分裂症及躁症患者中的療效 |
-| [24943390](https://pubmed.ncbi.nlm.nih.gov/24943390/) | 2014 | Survey | J Clin Psychopharmacol | 烏干達精神病院處方模式：Trifluoperazine 與 Carbamazepine 併用治療躁鬱症佔 45% |
-| [17017818](https://pubmed.ncbi.nlm.nih.gov/17017818/) | 2006 | Review | J Clin Psychiatry | 典型與非典型抗精神病藥物在躁鬱症焦慮症狀的療效回顧 |
-| [970489](https://pubmed.ncbi.nlm.nih.gov/970489/) | 1976 | Case Study | Am J Psychiatry | 探討多巴胺機轉在躁症中的角色 |
-| [3935307](https://pubmed.ncbi.nlm.nih.gov/3935307/) | 1985 | Case Report | Can J Psychiatry | 青少年躁鬱症案例，使用 Trifluoperazine 治療 |
+| [14309092](https://pubmed.ncbi.nlm.nih.gov/14309092/) | 1965 | Clinical Study | Int J Neuropsychiatry | 統合失調症および躁病患者における Haloperidol と Trifluoperazine の効果を比較 |
+| [24943390](https://pubmed.ncbi.nlm.nih.gov/24943390/) | 2014 | Survey | J Clin Psychopharmacol | ウガンダの精神科病院における処方パターン：双極性障害に対する Trifluoperazine と Carbamazepine の併用が 45% を占めた |
+| [17017818](https://pubmed.ncbi.nlm.nih.gov/17017818/) | 2006 | Review | J Clin Psychiatry | 双極性障害の不安症状に対する定型・非定型抗精神病薬の効果のレビュー |
+| [970489](https://pubmed.ncbi.nlm.nih.gov/970489/) | 1976 | Case Study | Am J Psychiatry | 躁病におけるドパミン機構の役割を検討 |
+| [3935307](https://pubmed.ncbi.nlm.nih.gov/3935307/) | 1985 | Case Report | Can J Psychiatry | 青年期の双極性障害症例。Trifluoperazine で治療 |
 
 ## 日本市販情報
 
@@ -81,35 +81,35 @@ Trifluoperazine 是一種典型抗精神病藥物（phenothiazine 類），其�
 
 ## 安全性に関する考慮事項
 
-- **錐體外症候群 (EPS)**：典型抗精神病藥物的主要副作用
-- **遲發性運動障礙 (Tardive dyskinesia)**：長期使用風險
-- **神經惡性症候群 (NMS)**：罕見但嚴重的不良反應
-- **主要交互作用 (Major)**：
-  - Bupropion（降低癲癇閾值）
-  - Morphine（增強中樞抑制）
-  - Metoclopramide（增加錐體外症狀風險）
-  - Potassium chloride、Potassium citrate（增加腸胃道潰瘍風險）
-  - Dolasetron（QT 延長風險）
-- **中度交互作用 (Moderate)**：
-  - 糖尿病藥物（可能影響血糖控制）
-  - 抗膽鹼藥物（增加抗膽鹼作用）
-  - Levofloxacin（QT 延長風險）
+- **錐体外路症状 (EPS)**：定型抗精神病薬の主な副作用
+- **遅発性ジスキネジア (Tardive dyskinesia)**：長期使用に伴うリスク
+- **悪性症候群 (NMS)**：まれだが重篤な有害反応
+- **主要な相互作用 (Major)**：
+  - Bupropion（けいれん閾値を低下させる）
+  - Morphine（中枢抑制を増強する）
+  - Metoclopramide（錐体外路症状のリスクを増加させる）
+  - Potassium chloride、Potassium citrate（消化管潰瘍のリスクを増加させる）
+  - Dolasetron（QT 延長のリスク）
+- **中等度の相互作用 (Moderate)**：
+  - 糖尿病治療薬（血糖コントロールに影響する可能性）
+  - 抗コリン薬（抗コリン作用を増強する）
+  - Levofloxacin（QT 延長のリスク）
 
 ## 結論と次のステップ
 
 **判断：Proceed with Guardrails**
 
 **理由：**
-Trifluoperazine 作為典型抗精神病藥物，在躁症期的使用有歷史性臨床經驗支持。多篇文獻顯示其在躁鬱症患者中的應用，特別是在資源有限的地區仍是重要的治療選擇。
+Trifluoperazine は定型抗精神病薬として、躁病相での使用に歴史的な臨床経験の裏付けがある。複数の文献が双極性障害患者での応用を示しており、特に医療資源の限られた地域では今も重要な治療選択肢となっている。
 
 **推進に必要な事項：**
-- 與非典型抗精神病藥物的比較研究
-- 評估 EPS 及代謝副作用的風險效益比
-- 制定明確的劑量建議及監測計畫
-- 考量作為急性期治療而非長期維持治療
+- 非定型抗精神病薬との比較研究
+- EPS および代謝系副作用についてのリスク・ベネフィットの評価
+- 明確な用量の推奨と monitoring 計画の策定
+- 長期維持療法ではなく急性期治療としての位置づけの検討
 
-**臨床提醒：**
-現代躁症急性期治療首選通常為非典型抗精神病藥物（如 Olanzapine、Quetiapine、Risperidone），Trifluoperazine 可作為替代選擇，但需注意 EPS 風險。
+**臨床上の注意：**
+現代の躁病急性期治療では、第一選択は通常、非定型抗精神病薬（Olanzapine、Quetiapine、Risperidone など）であり、Trifluoperazine は代替選択肢となり得るが、EPS のリスクに注意が必要である。
 
 
 ---

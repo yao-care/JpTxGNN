@@ -31,13 +31,13 @@ description: "Vismodegib：予測新適応症は色素性乾皮症 (Xeroderma Pi
 
 </div>
 
-# Vismodegib：從基底細胞癌到著色性乾皮症
+# Vismodegib：基底細胞癌から色素性乾皮症へ
 
 ## 一言まとめ
 
-Vismodegib 原本用於治療轉移性基底細胞癌。
-TxGNN 模型預測它可能對**著色性乾皮症 (Xeroderma Pigmentosum)** 有效，
-目前有 **5 篇文獻**支持這個方向。
+Vismodegib は本来、転移性基底細胞癌の治療に用いられる薬剤である。
+TxGNN モデルは、本剤が**色素性乾皮症 (Xeroderma Pigmentosum)** に有効である可能性を予測しており、
+現在 **5 件の文献**がこの方向性を支持している。
 
 ## 概要
 
@@ -53,18 +53,18 @@ TxGNN 模型預測它可能對**著色性乾皮症 (Xeroderma Pigmentosum)** 有
 
 ## この予測が妥当な理由
 
-目前缺乏詳細的作用機轉資料。根據已知資訊，Vismodegib 是 Hedgehog 信號通路抑制劑，
-其成分在基底細胞癌中的療效已被證實，機轉上可能適用於著色性乾皮症患者的基底細胞癌。
+現時点では、詳細な作用機序に関するデータが不足している。既知の情報によれば、Vismodegib は Hedgehog シグナル伝達経路阻害薬であり、
+その成分は基底細胞癌において有効性が確認されている。作用機序上、色素性乾皮症患者の基底細胞癌に適用できる可能性がある。
 
 ## 文献エビデンス
 
 | PMID | 年份 | 類型 | 期刊 | 主要發現 |
 |------|-----|------|------|---------|
-| [36921168](https://pubmed.ncbi.nlm.nih.gov/36921168/) | 2023 | Case report | Revista paulista de pediatria : orgao oficial da Sociedade de Pediatria de Sao Paulo | 本研究旨在描述著色性乾皮症（XP）的疾病和治療，並提醒醫療專業人員及早識別患者的症狀和徵兆。 |
-| [35283513](https://pubmed.ncbi.nlm.nih.gov/35283513/) | 2021 | Review | Indian journal of dermatology | 本文探討了 XP 的治療策略，包括避免陽光、手術切除癌性病變、激光和光動力療法，以及使用維甲酸、5-FU、咪喹莫德等。 |
-| [28297142](https://pubmed.ncbi.nlm.nih.gov/28297142/) | 2017 | Case report | Pediatric dermatology | 報導了一名 8 歲 XP 患者使用 Vismodegib 治療鼻尖的結節性基底細胞癌，4 個月後病變消退。 |
-| [30178564](https://pubmed.ncbi.nlm.nih.gov/30178564/) | 2018 | Case report | Pediatric dermatology | 一名 XP 患者使用 Vismodegib 治療多個基底細胞癌，治療 16.5 個月後病變直徑減少 61%。 |
-| [33901791](https://pubmed.ncbi.nlm.nih.gov/33901791/) | 2021 | Case report | European journal of cancer (Oxford, England : 1990) | 研究了一名 XP 患者使用靶向治療和免疫檢查點抑制劑治療侵襲性血管肉瘤和不可切除的復發性基底細胞癌。 |
+| [36921168](https://pubmed.ncbi.nlm.nih.gov/36921168/) | 2023 | Case report | Revista paulista de pediatria : orgao oficial da Sociedade de Pediatria de Sao Paulo | 本研究は色素性乾皮症（XP）の疾患と治療を記述し、医療従事者に対して患者の症状や徴候を早期に認識するよう喚起することを目的としている。 |
+| [35283513](https://pubmed.ncbi.nlm.nih.gov/35283513/) | 2021 | Review | Indian journal of dermatology | 本論文では XP の治療戦略として、日光の回避、癌性病変の外科的切除、レーザーおよび光線力学療法、さらにレチノイド、5-FU、イミキモドなどの使用について検討している。 |
+| [28297142](https://pubmed.ncbi.nlm.nih.gov/28297142/) | 2017 | Case report | Pediatric dermatology | 8 歳の XP 患者の鼻尖部の結節型基底細胞癌に Vismodegib を投与し、4 か月後に病変が消退した症例を報告している。 |
+| [30178564](https://pubmed.ncbi.nlm.nih.gov/30178564/) | 2018 | Case report | Pediatric dermatology | XP 患者の多発基底細胞癌に Vismodegib を投与し、16.5 か月の治療後に病変の直径が 61% 減少した。 |
+| [33901791](https://pubmed.ncbi.nlm.nih.gov/33901791/) | 2021 | Case report | European journal of cancer (Oxford, England : 1990) | XP 患者の浸潤性血管肉腫および切除不能な再発性基底細胞癌に対し、分子標的治療と免疫チェックポイント阻害薬を用いた症例を検討している。 |
 
 ## 日本市販情報
 
@@ -72,18 +72,18 @@ TxGNN 模型預測它可能對**著色性乾皮症 (Xeroderma Pigmentosum)** 有
 
 ## 安全性に関する考慮事項
 
-- **藥物交互作用**：Clarithromycin（中度）、Famotidine、Ranitidine、Rabeprazole、Cimetidine 等（輕度）。
+- **薬物相互作用**：クラリスロマイシン（中等度）、ファモチジン、ラニチジン、ラベプラゾール、シメチジン等（軽度）。
 
 ## 結論と次のステップ
 
 **判断：Research Question**
 
 **理由：**
-目前有一些文獻支持 Vismodegib 在著色性乾皮症患者中的潛在應用，但缺乏臨床試驗的直接證據。
+現時点で、色素性乾皮症患者における Vismodegib の潜在的な応用を支持する文献がいくつか存在するが、臨床試験による直接的なエビデンスは不足している。
 
 **推進に必要な事項：**
-- 進一步的臨床試驗來評估其療效和安全性
-- 詳細的藥物作用機轉資料（MOA）
+- 有効性と安全性を評価するためのさらなる臨床試験
+- 詳細な薬物作用機序（MOA）に関するデータ
 
 ---
 

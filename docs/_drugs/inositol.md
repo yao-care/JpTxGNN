@@ -31,13 +31,13 @@ description: "Inositol：予測新適応症はFamilial Hypercholesterolemia（�
 
 </div>
 
-# Inositol：從末梢血管循環障礙到 Familial Hypercholesterolemia
+# Inositol：末梢血管循環障害から Familial Hypercholesterolemia へ
 
 ## 一言まとめ
 
-Inositol (肌醇) 及其衍生物原本用於末梢血管循環障礙治療。
-TxGNN 模型預測它可能對 **Familial Hypercholesterolemia** (家族性高膽固醇血症) 有效，
-目前有 **10 篇文獻** 支持這個方向，具有歷史臨床證據。
+Inositol（イノシトール）およびその誘導体は、もともと末梢血管循環障害の治療に用いられてきました。
+TxGNN モデルは、本剤が **Familial Hypercholesterolemia**（家族性高コレステロール血症）に有効である可能性を予測しており、
+現在 **10 件の文献** がこの方向性を支持していて、過去の臨床的エビデンスがあります。
 
 ## 概要
 
@@ -53,31 +53,31 @@ TxGNN 模型預測它可能對 **Familial Hypercholesterolemia** (家族性高�
 
 ## この予測が妥当な理由
 
-Inositol Niacinate (菸鹼酸肌醇酯) 是 Inositol 與菸鹼酸的結合物，具有以下降血脂機轉：
+Inositol Niacinate（ニコチン酸イノシトール）は Inositol とニコチン酸の結合体であり、以下の脂質低下作用機序を有します。
 
-1. **菸鹼酸釋放**：Inositol Niacinate 在體內水解釋放菸鹼酸，可抑制脂肪組織脂解，減少肝臟 VLDL 合成
-2. **降低 LDL-C 和三酸甘油酯**：多項歷史研究顯示可降低血清膽固醇 20% 和三酸甘油酯 40%
-3. **相對良好的耐受性**：比純菸鹼酸的潮紅副作用較輕
+1. **ニコチン酸の遊離**：Inositol Niacinate は体内で加水分解されてニコチン酸を遊離し、脂肪組織の脂肪分解を抑制して、肝臓での VLDL 合成を減少させます
+2. **LDL-C およびトリグリセライドの低下**：過去の複数の研究で、血清コレステロールを 20%、トリグリセライドを 40% 低下させることが示されています
+3. **比較的良好な忍容性**：ニコチン酸単独に比べ、顔面紅潮の副作用が軽度です
 
-此預測在機轉上合理，因為菸鹼酸類藥物歷史上曾用於高血脂症治療。
+この予測は作用機序の面で妥当です。ニコチン酸系薬剤は歴史的に高脂血症の治療に用いられてきたためです。
 
 ## 臨床試験エビデンス
 
-| 試驗編號 | 階段 | 狀態 | 主要發現 |
+| 試験番号 | 相 | 状態 | 主な知見 |
 |---------|------|------|---------|
-| [NCT07278206](https://clinicaltrials.gov/study/NCT07278206) | 不適用 | 招募中 | 針對 Long COVID 認知問題，與高血脂症無直接相關 |
+| [NCT07278206](https://clinicaltrials.gov/study/NCT07278206) | 該当なし | 募集中 | Long COVID の認知機能の問題を対象としており、高脂血症との直接的な関連はない |
 
-**注意**：現代臨床試驗主要針對其他適應症，高血脂症相關試驗為歷史研究。
+**注意**：現代の臨床試験は主に他の適応症を対象としており、高脂血症に関連する試験は過去の研究です。
 
 ## 文献エビデンス
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
+| PMID | 発表年 | 種別 | 雑誌 | 主な知見 |
 |------|-----|------|------|---------|
-| [196436](https://pubmed.ncbi.nlm.nih.gov/196436/) | 1977 | 臨床試驗 | Pharmacol Res Commun | Inositol Niacinate 顯著降低 LDL、VLDL，提升 HDL |
-| [1253701](https://pubmed.ncbi.nlm.nih.gov/1253701/) | 1976 | RCT | Dtsch Med Wochenschr | Clofibrate 合併 Inositol Niacinate 降低膽固醇 20%、三酸甘油酯 40% |
-| [7458676](https://pubmed.ncbi.nlm.nih.gov/7458676/) | 1980 | 臨床研究 | Artery | IIb、IV、V 型高血脂症患者使用不同降血脂藥物的比較 |
-| [7259531](https://pubmed.ncbi.nlm.nih.gov/7259531/) | 1980 | 病例報告 | Artery | IIa 型高血脂症使用 Inositol Niacinate 合併 Clofibrate 的長期療效 |
-| [583231](https://pubmed.ncbi.nlm.nih.gov/583231/) | 1979 | 臨床試驗 | Arzneimittelforschung | 50 名不同類型高血脂症患者的治療效果 |
+| [196436](https://pubmed.ncbi.nlm.nih.gov/196436/) | 1977 | 臨床試験 | Pharmacol Res Commun | Inositol Niacinate は LDL、VLDL を有意に低下させ、HDL を上昇させた |
+| [1253701](https://pubmed.ncbi.nlm.nih.gov/1253701/) | 1976 | RCT | Dtsch Med Wochenschr | Clofibrate と Inositol Niacinate の併用でコレステロールが 20%、トリグリセライドが 40% 低下 |
+| [7458676](https://pubmed.ncbi.nlm.nih.gov/7458676/) | 1980 | 臨床研究 | Artery | IIb、IV、V 型高脂血症患者における各種脂質低下薬の比較 |
+| [7259531](https://pubmed.ncbi.nlm.nih.gov/7259531/) | 1980 | 症例報告 | Artery | IIa 型高脂血症における Inositol Niacinate と Clofibrate 併用の長期的効果 |
+| [583231](https://pubmed.ncbi.nlm.nih.gov/583231/) | 1979 | 臨床試験 | Arzneimittelforschung | 各種高脂血症患者 50 名における治療効果 |
 
 ## 日本市販情報
 
@@ -85,25 +85,25 @@ Inositol Niacinate (菸鹼酸肌醇酯) 是 Inositol 與菸鹼酸的結合物，
 
 ## 安全性に関する考慮事項
 
-- **藥物交互作用**：目前 DDI 資料庫中未發現顯著交互作用
+- **薬物相互作用**：現時点で DDI データベースには有意な相互作用は認められていません
 
-- **已知副作用**：
-  - 潮紅反應（比純菸鹼酸輕微）
-  - 胃腸不適
-  - 肝功能異常（長期高劑量使用）
+- **既知の副作用**：
+  - 顔面紅潮（ニコチン酸単独より軽度）
+  - 消化器症状（胃腸の不快感）
+  - 肝機能異常（長期・高用量使用時）
 
 ## 結論と次のステップ
 
 **判断：Consider**
 
 **理由：**
-Inositol Niacinate 用於高血脂症有歷史臨床證據支持，尤其是 1970-1980 年代的研究。然而，現代降血脂治療已有更有效的選擇（如 Statin 類藥物），此藥物的臨床定位需重新評估。
+Inositol Niacinate は高脂血症に対する過去の臨床的エビデンスに裏付けられており、特に 1970-1980 年代の研究が該当します。しかし、現代の脂質低下療法にはスタチン系薬剤などより有効な選択肢がすでにあり、本剤の臨床的位置づけは再評価が必要です。
 
 **推進に必要な事項：**
-- 進行現代標準的隨機對照試驗，與現行標準治療比較
-- 評估在 Statin 不耐受患者中的替代治療角色
-- 確認現代製劑品質與藥動學特性
-- 考慮與現代降血脂藥物的合併療法潛力
+- 現代の標準的なランダム化比較試験を実施し、現行の標準治療と比較する
+- スタチン不耐容の患者における代替治療としての役割を評価する
+- 現代の製剤の品質および薬物動態特性を確認する
+- 現代の脂質低下薬との併用療法の可能性を検討する
 
 
 ---

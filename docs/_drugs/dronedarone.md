@@ -31,13 +31,13 @@ description: "Dronedarone：予測新適応症は脳卒中 (stroke disorder)（�
 
 </div>
 
-# Dronedarone：從心房纖維顫動到中風疾病
+# Dronedarone：心房細動から脳卒中へ
 
 ## 一言まとめ
 
-Dronedarone 原本用於治療陣發性或持續性心房纖維顫動/心房撲動。
-TxGNN 模型預測它可能對**中風疾病 (stroke disorder)** 有效，
-目前有 **多個臨床試驗**和 **多篇文獻**支持這個方向。
+Dronedarone は本来、発作性または持続性の心房細動／心房粗動の治療に用いられます。
+TxGNN モデルは、**脳卒中 (stroke disorder)** に有効な可能性があると予測しており、
+現在 **複数の臨床試験**と **複数の文献**がこの方向性を支持しています。
 
 ## 概要
 
@@ -53,30 +53,30 @@ TxGNN 模型預測它可能對**中風疾病 (stroke disorder)** 有效，
 
 ## この予測が妥当な理由
 
-Dronedarone 是 amiodarone 的衍生物，具有多通道阻斷作用，能維持竇性心律。
-心房纖維顫動是中風的主要危險因素，透過維持竇性心律可減少心房血栓形成。
-ATHENA 試驗的事後分析顯示 dronedarone 可降低中風和暫時性腦缺血發作風險，
-且研究發現其具有獨立於抗心律不整作用之外的抗凝血和抗血小板效應。
+Dronedarone は amiodarone の誘導体で、多チャネル遮断作用を持ち、洞調律を維持することができます。
+心房細動は脳卒中の主要な危険因子であり、洞調律を維持することで心房内血栓の形成を減らせる可能性があります。
+ATHENA 試験の事後解析では、dronedarone が脳卒中および一過性脳虚血発作のリスクを低下させることが示されており、
+さらに、抗不整脈作用とは独立した抗凝固・抗血小板作用を有することが報告されています。
 
 ## 臨床試験エビデンス
 
-| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
+| 試験番号 | 相 | 状態 | 症例数 | 主な所見 |
 |---------|------|------|------|---------|
-| [NCT01151137](https://clinicaltrials.gov/study/NCT01151137) | Phase 3 | TERMINATED | 3236 | PALLAS 試驗評估 dronedarone 在永久性心房纖維顫動預防主要心血管事件 |
-| [NCT01288352](https://clinicaltrials.gov/study/NCT01288352) | Phase 4 | COMPLETED | 2789 | EAST 試驗證實早期節律控制可預防心血管死亡和中風 |
-| [NCT05130268](https://clinicaltrials.gov/study/NCT05130268) | Phase 4 | COMPLETED | 339 | 評估首發心房纖維顫動患者早期使用 dronedarone 的效果 |
-| [NCT05293080](https://clinicaltrials.gov/study/NCT05293080) | Phase 3 | NOT_YET_RECRUITING | 1746 | 急性中風合併心房纖維顫動患者的早期節律控制 |
-| [NCT00911508](https://clinicaltrials.gov/study/NCT00911508) | N/A | COMPLETED | 2204 | CABANA 試驗比較導管消融與抗心律不整藥物治療 |
+| [NCT01151137](https://clinicaltrials.gov/study/NCT01151137) | Phase 3 | TERMINATED | 3236 | PALLAS 試験。永続性心房細動における主要心血管イベントの予防について dronedarone を評価 |
+| [NCT01288352](https://clinicaltrials.gov/study/NCT01288352) | Phase 4 | COMPLETED | 2789 | EAST 試験。早期のリズムコントロールが心血管死亡と脳卒中を予防することを実証 |
+| [NCT05130268](https://clinicaltrials.gov/study/NCT05130268) | Phase 4 | COMPLETED | 339 | 初発の心房細動患者における dronedarone 早期使用の効果を評価 |
+| [NCT05293080](https://clinicaltrials.gov/study/NCT05293080) | Phase 3 | NOT_YET_RECRUITING | 1746 | 心房細動を合併する急性期脳卒中患者における早期リズムコントロール |
+| [NCT00911508](https://clinicaltrials.gov/study/NCT00911508) | N/A | COMPLETED | 2204 | CABANA 試験。カテーテルアブレーションと抗不整脈薬治療を比較 |
 
 ## 文献エビデンス
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
+| PMID | 発表年 | 種類 | 雑誌 | 主な所見 |
 |------|-----|------|------|---------|
-| [22166900](https://pubmed.ncbi.nlm.nih.gov/22166900/) | 2012 | Review | Lancet | 心房纖維顫動治療進展，包括 dronedarone 的角色 |
-| [28992468](https://pubmed.ncbi.nlm.nih.gov/28992468/) | 2017 | In vitro | Atherosclerosis | Dronedarone 具有獨立於抗心律不整作用的抗凝血和抗血小板效應 |
-| [40387892](https://pubmed.ncbi.nlm.nih.gov/40387892/) | 2025 | RCT analysis | Clin Res Cardiol | EAST-AFNET 4 試驗中 amiodarone 和 dronedarone 用於早期節律控制的安全性和療效 |
-| [20730068](https://pubmed.ncbi.nlm.nih.gov/20730068/) | 2010 | Review | Vasc Health Risk Manag | Dronedarone 獲批及其在心房纖維顫動治療中的療效 |
-| [35293087](https://pubmed.ncbi.nlm.nih.gov/35293087/) | 2022 | Post-hoc analysis | Eur J Heart Fail | ATHENA 試驗事後分析評估 dronedarone 在 HFpEF/HFmrEF 合併心房纖維顫動的效果 |
+| [22166900](https://pubmed.ncbi.nlm.nih.gov/22166900/) | 2012 | Review | Lancet | 心房細動治療の進歩（dronedarone の役割を含む） |
+| [28992468](https://pubmed.ncbi.nlm.nih.gov/28992468/) | 2017 | In vitro | Atherosclerosis | Dronedarone は抗不整脈作用とは独立した抗凝固・抗血小板作用を有する |
+| [40387892](https://pubmed.ncbi.nlm.nih.gov/40387892/) | 2025 | RCT analysis | Clin Res Cardiol | EAST-AFNET 4 試験における、早期リズムコントロールでの amiodarone と dronedarone の安全性と有効性 |
+| [20730068](https://pubmed.ncbi.nlm.nih.gov/20730068/) | 2010 | Review | Vasc Health Risk Manag | Dronedarone の承認と、心房細動治療における有効性 |
+| [35293087](https://pubmed.ncbi.nlm.nih.gov/35293087/) | 2022 | Post-hoc analysis | Eur J Heart Fail | ATHENA 試験の事後解析。HFpEF/HFmrEF に心房細動を合併する患者での dronedarone の効果を評価 |
 
 ## 日本市販情報
 
@@ -84,23 +84,23 @@ ATHENA 試驗的事後分析顯示 dronedarone 可降低中風和暫時性腦缺
 
 ## 安全性に関する考慮事項
 
-- **黑框警告**：永久性心房纖維顫動、嚴重心衰竭患者禁用
-- **主要不良反應**：腹瀉、噁心、腹痛、血清肌酐升高
-- **肝毒性**：罕見但嚴重，需監測肝功能
-- **藥物交互作用**：與 digoxin 併用時會增加 digoxin 血中濃度
+- **黒枠警告**：永続性心房細動および重度心不全の患者には禁忌
+- **主な副作用**：下痢、悪心、腹痛、血清クレアチニン上昇
+- **肝毒性**：まれだが重篤であり、肝機能のモニタリングが必要
+- **薬物相互作用**：digoxin との併用で digoxin の血中濃度が上昇する
 
 ## 結論と次のステップ
 
 **判断：Proceed with Guardrails**
 
 **理由：**
-Dronedarone 透過維持竇性心律和潛在的抗血栓機制，可能對中風預防有效。
-ATHENA 試驗已顯示其在中風/TIA 預防方面的益處，但需注意適應症限制。
+Dronedarone は、洞調律の維持と潜在的な抗血栓作用により、脳卒中予防に有効な可能性があります。
+ATHENA 試験では脳卒中／TIA の予防における有益性がすでに示されていますが、適応症の制限に注意が必要です。
 
 **推進に必要な事項：**
-- 排除永久性心房纖維顫動和嚴重心衰竭患者
-- 嚴格的肝功能監測計畫
-- 與抗凝血藥物併用策略的優化研究
+- 永続性心房細動および重度心不全の患者を除外すること
+- 厳格な肝機能モニタリング計画
+- 抗凝固薬との併用戦略を最適化するための研究
 
 
 ---

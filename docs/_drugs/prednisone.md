@@ -31,11 +31,11 @@ description: "Prednisone：予測新適応症は円形脱毛症 (Alopecia Areata
 
 </div>
 
-# Prednisone：從風濕性疾病到圓禿症
+# Prednisone：リウマチ性疾患から円形脱毛症へ
 
 ## 一言まとめ
 
-Prednisone 是一種廣泛使用的皮質類固醇，原本用於風濕性關節炎、氣喘、休克等多種適應症。TxGNN 模型預測它可能對**圓禿症 (Alopecia Areata)** 有效，目前有 **30+ 個臨床試驗**和 **多篇文獻**支持這個方向。
+Prednisone は、関節リウマチ、気管支喘息、ショックなど多くの適応症に広く用いられている副腎皮質ステロイドです。TxGNN モデルは、本剤が**円形脱毛症 (Alopecia Areata)** に有効な可能性があると予測しており、現在 **30 件以上の臨床試験**と**複数の文献**がこの方向性を支持しています。
 
 ## 概要
 
@@ -51,29 +51,29 @@ Prednisone 是一種廣泛使用的皮質類固醇，原本用於風濕性關節
 
 ## この予測が妥当な理由
 
-Prednisone 是一種合成皮質類固醇，具有強效的抗炎和免疫抑制作用。它透過抑制多種炎症介質和免疫細胞功能來發揮作用。
+Prednisone は合成副腎皮質ステロイドで、強力な抗炎症作用と免疫抑制作用を有します。多様な炎症メディエーターや免疫細胞の機能を抑制することで作用を発揮します。
 
-圓禿症是一種自體免疫疾病，特徵是免疫系統攻擊毛囊導致脫髮。這種疾病的病理機轉涉及 T 細胞介導的自體免疫反應。Prednisone 的免疫抑制作用可以抑制這種異常的免疫反應，從而減少對毛囊的攻擊。
+円形脱毛症は自己免疫疾患であり、免疫系が毛包を攻撃して脱毛が生じることを特徴とします。この疾患の病態には、T 細胞を介した自己免疫反応が関与しています。Prednisone の免疫抑制作用により、この異常な免疫反応を抑え、毛包への攻撃を減らすことができます。
 
-臨床上，皮質類固醇（包括 prednisone）已被廣泛用於治療嚴重的圓禿症，特別是與 methotrexate 併用時效果更佳。最新的隨機對照試驗證實了這種組合療法的有效性。
+臨床では、副腎皮質ステロイド（prednisone を含む）は重症の円形脱毛症の治療に広く用いられており、特に methotrexate と併用した場合に効果が高いとされています。最新のランダム化比較試験で、この併用療法の有効性が確認されています。
 
 ## 臨床試験エビデンス
 
-| 試驗編號 | 階段 | 狀態 | 人數 | 主要發現 |
+| 試験番号 | 相 | 状態 | 人数 | 主な所見 |
 |---------|------|------|------|---------|
-| [NCT02037191](https://clinicaltrials.gov/study/NCT02037191) | Phase 3 | 已完成 | 90 | Methotrexate 加低劑量 prednisone vs 安慰劑治療嚴重圓禿 |
-| [NCT02953821](https://clinicaltrials.gov/study/NCT02953821) | Phase 4 | 已完成 | 172 | Acthar Gel 用於系統性紅斑狼瘡患者 |
-| [NCT03616964](https://clinicaltrials.gov/study/NCT03616964) | Phase 3 | 已完成 | 778 | Baricitinib 用於系統性紅斑狼瘡 |
+| [NCT02037191](https://clinicaltrials.gov/study/NCT02037191) | Phase 3 | 完了 | 90 | 重症円形脱毛症に対する methotrexate＋低用量 prednisone とプラセボの比較 |
+| [NCT02953821](https://clinicaltrials.gov/study/NCT02953821) | Phase 4 | 完了 | 172 | 全身性エリテマトーデス患者に対する Acthar Gel |
+| [NCT03616964](https://clinicaltrials.gov/study/NCT03616964) | Phase 3 | 完了 | 778 | 全身性エリテマトーデスに対する Baricitinib |
 
 ## 文献エビデンス
 
-| PMID | 年份 | 類型 | 期刊 | 主要發現 |
+| PMID | 年 | 種別 | 雑誌 | 主な所見 |
 |------|-----|------|------|---------|
-| [36884234](https://pubmed.ncbi.nlm.nih.gov/36884234/) | 2023 | RCT | JAMA Dermatology | Methotrexate 加低劑量 prednisone 對圓禿全禿/普禿有效 |
-| [26735937](https://pubmed.ncbi.nlm.nih.gov/26735937/) | 2016 | Journal Article | Dermatology | Methotrexate 與中低劑量皮質類固醇併用治療嚴重圓禿的安全性和療效 |
-| [37467740](https://pubmed.ncbi.nlm.nih.gov/37467740/) | 2023 | Case Series | Clin Exp Dermatol | Baricitinib 與低劑量皮質類固醇併用治療非常嚴重的圓禿有顯著改善 |
-| [1444509](https://pubmed.ncbi.nlm.nih.gov/1444509/) | 1992 | Review | Arch Dermatol | 圓禿治療的療效、安全性和機轉回顧 |
-| [4571041](https://pubmed.ncbi.nlm.nih.gov/4571041/) | 1973 | Journal Article | Arch Dermatol | Prednisone 治療圓禿的免疫學研究 |
+| [36884234](https://pubmed.ncbi.nlm.nih.gov/36884234/) | 2023 | RCT | JAMA Dermatology | Methotrexate＋低用量 prednisone は全頭脱毛症・汎発性脱毛症に有効 |
+| [26735937](https://pubmed.ncbi.nlm.nih.gov/26735937/) | 2016 | Journal Article | Dermatology | 重症円形脱毛症に対する methotrexate と中・低用量副腎皮質ステロイド併用の安全性および有効性 |
+| [37467740](https://pubmed.ncbi.nlm.nih.gov/37467740/) | 2023 | Case Series | Clin Exp Dermatol | 非常に重症の円形脱毛症に対する baricitinib と低用量副腎皮質ステロイドの併用で顕著な改善 |
+| [1444509](https://pubmed.ncbi.nlm.nih.gov/1444509/) | 1992 | Review | Arch Dermatol | 円形脱毛症治療の有効性、安全性および作用機序のレビュー |
+| [4571041](https://pubmed.ncbi.nlm.nih.gov/4571041/) | 1973 | Journal Article | Arch Dermatol | 円形脱毛症に対する prednisone 治療の免疫学的研究 |
 
 ## 日本市販情報
 
@@ -83,23 +83,23 @@ Prednisone 是一種合成皮質類固醇，具有強效的抗炎和免疫抑制
 
 安全性情報は添付文書をご参照ください。
 
-長期使用皮質類固醇的常見注意事項：
-- 骨質疏鬆風險
-- 血糖升高
-- 免疫抑制導致感染風險增加
-- 腎上腺皮質功能抑制
+副腎皮質ステロイドの長期使用で一般的に注意すべき事項：
+- 骨粗鬆症のリスク
+- 血糖上昇
+- 免疫抑制による感染リスクの増加
+- 副腎皮質機能の抑制
 
 ## 結論と次のステップ
 
 **判断：Go**
 
 **理由：**
-有高品質的隨機對照試驗（包括 2023 年發表於 JAMA Dermatology 的研究）證實 prednisone 與 methotrexate 併用對嚴重圓禿有效。這個預測有充分的臨床證據支持。
+JAMA Dermatology に 2023 年に発表された研究を含む質の高いランダム化比較試験により、重症円形脱毛症に対する prednisone と methotrexate の併用の有効性が確認されています。この予測は十分な臨床エビデンスに支持されています。
 
 **推進に必要な事項：**
-- 根據患者個別情況評估風險效益
-- 考慮與 methotrexate 或 JAK 抑制劑併用
-- 制定長期監測計畫（骨密度、血糖等）
+- 患者個々の状況に応じてリスクとベネフィットを評価する
+- methotrexate または JAK 阻害薬との併用を検討する
+- 長期モニタリング計画（骨密度、血糖など）を策定する
 
 
 ---
