@@ -119,6 +119,7 @@ TxGNN モデルは**腎盂腎炎 (Pyelonephritis)** に有効である可能性�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

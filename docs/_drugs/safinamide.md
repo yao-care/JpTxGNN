@@ -112,10 +112,13 @@ TxGNN モデルは**ラスムッセン亜急性脳炎 (Rasmussen subacute enceph
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 
 同じ成分を含む日本の医薬品です。以下の名称でも検索できます。
+
+**商品名**：エクフィナ
 
 **販売名（規格別）**：エクフィナ錠50mg
 <!-- brand-names:end -->

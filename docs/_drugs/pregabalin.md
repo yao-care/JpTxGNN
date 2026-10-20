@@ -145,6 +145,7 @@ TxGNN モデルの予測順位 1 位は**腱炎 (Tendinitis)** ですが、実�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

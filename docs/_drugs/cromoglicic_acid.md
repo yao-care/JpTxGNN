@@ -114,6 +114,7 @@ TxGNN モデルは**潰瘍性直腸S状結腸炎 (Ulcerative Proctosigmoiditis)*
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

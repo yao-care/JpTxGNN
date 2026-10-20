@@ -122,10 +122,13 @@ TxGNN モデルは**入眠・睡眠維持障害 (sleep disorder, initiating and 
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 
 同じ成分を含む日本の医薬品です。以下の名称でも検索できます。
+
+**商品名**：ベルソムラ
 
 **販売名（規格別）**：ベルソムラ錠10mg、ベルソムラ錠15mg、ベルソムラ錠20mg
 <!-- brand-names:end -->

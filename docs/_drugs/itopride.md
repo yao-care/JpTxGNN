@@ -117,6 +117,7 @@ TxGNN モデルは**小腸クローン病 (small bowel Crohn disease)** に有�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

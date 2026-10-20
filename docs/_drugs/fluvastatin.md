@@ -141,6 +141,7 @@ TxGNN モデルは**高リポ蛋白血症 (hyperlipoproteinemia)** に有効で�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

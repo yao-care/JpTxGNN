@@ -114,6 +114,7 @@ TxGNN モデルは**酒さ性結膜炎 (Rosacea Conjunctivitis)** に有効で�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

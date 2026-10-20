@@ -137,6 +137,7 @@ TxGNN モデルは、上位予測の一つである**片頭痛 (Migraine Disorde
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

@@ -102,6 +102,7 @@ TxGNN モデルは**原発性遺伝性緑内障 (Primary Hereditary Glaucoma)** 
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

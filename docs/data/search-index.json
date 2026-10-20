@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-17",
+  "generated": "2026-10-20",
   "drug_count": 390,
   "indication_count": 1692,
   "drugs": [
@@ -7,7 +7,7 @@
       "name": "Abatacept",
       "slug": "abatacept",
       "brands": [
-        "オレンシア点滴静",
+        "オレンシア",
         "オレンシア皮下",
         "オレンシア点滴静注用250mg",
         "オレンシア皮下注125mgオートインジェクター1mL",
@@ -80,6 +80,7 @@
         "アルピニー",
         "アンヒバ",
         "カロナール",
+        "ピレチノール",
         "アセトアミノフェン",
         "アセトアミノフェン100mg坐剤",
         "アセトアミノフェン2%シロップ",
@@ -182,6 +183,7 @@
       "name": "Acyclovir",
       "slug": "acyclovir",
       "brands": [
+        "ゾビラックス",
         "アシクロビル250mg注射液",
         "アシクロビル3%眼軟膏",
         "アシクロビル40%顆粒",
@@ -238,7 +240,6 @@
       "name": "Adalimumab",
       "slug": "adalimumab",
       "brands": [
-        "アダリムマブBS皮下",
         "ヒュミラ皮下",
         "アダリムマブBS皮下注20mgシリンジ0.2mL",
         "アダリムマブBS皮下注20mgシリンジ0.4mL",
@@ -328,6 +329,7 @@
       "name": "Alectinib",
       "slug": "alectinib",
       "brands": [
+        "アレセンサ",
         "アレセンサカプセル150mg"
       ],
       "original": "non-small cell lung carcinoma (disease)；lung cancer",
@@ -369,6 +371,7 @@
       "name": "Alfacalcidol",
       "slug": "alfacalcidol",
       "brands": [
+        "アルファロール",
         "ワンアルファ",
         "アルファロールカプセル0.25μg",
         "アルファロールカプセル0.5μg",
@@ -416,6 +419,7 @@
       "name": "Alimemazine",
       "slug": "alimemazine",
       "brands": [
+        "アリメジン",
         "アリメジンシロップ0.05%"
       ],
       "original": "angioedema；acquired angioedema；renin-angiotensin-aldosterone system-blocker-induced angioedema；non-histaminic angioedema；hereditary angioedema；allergic rhinitis；vasomotor rhinitis；pharyngitis；common cold；atopic conjunctivitis；papillary conjunctivitis；vernal conjunctivitis；familial dermatographia；urticaria (disease)",
@@ -856,6 +860,7 @@
       "name": "Amoxicillin",
       "slug": "amoxicillin",
       "brands": [
+        "サワシリン",
         "ワイドシリン",
         "アモキシシリン125mgカプセル",
         "アモキシシリン250mgカプセル",
@@ -903,18 +908,20 @@
       "name": "Ampicillin",
       "slug": "ampicillin",
       "brands": [
-        "アンピシリンナトリウム・スルバクタムナトリウム0.75g静注用",
-        "アンピシリンナトリウム・スルバクタムナトリウム1.5g静注用",
-        "アンピシリンナトリウム・スルバクタムナトリウム3g静注用",
+        "ビクシリン",
         "ビクシリンカプセル250mg",
         "ビクシリンドライシロップ10% 100mg",
         "ビクシリン注射用0.25g 250mg",
         "ビクシリン注射用0.5g 500mg",
         "ビクシリン注射用1g",
         "ビクシリン注射用2g",
+        "アンピシリンナトリウム・スルバクタムナトリウム0.75g静注用",
+        "アンピシリンナトリウム・スルバクタムナトリウム1.5g静注用",
+        "アンピシリンナトリウム・スルバクタムナトリウム3g静注用",
         "スルバシリン静注用0.75g",
         "スルバシリン静注用1.5g",
         "スルバシリン静注用3g",
+        "ユナシン−Sキット",
         "ユナシン−Sキット静注用1.5g (生理食塩液100mL付)",
         "ユナシン−Sキット静注用3g (生理食塩液100mL付)"
       ],
@@ -1179,7 +1186,7 @@
       "name": "Atezolizumab",
       "slug": "atezolizumab",
       "brands": [
-        "テセントリク点滴静",
+        "テセントリク",
         "テセントリク点滴静注1200mg 1,200mg20mL",
         "テセントリク点滴静注840mg 14mL"
       ],
@@ -1286,6 +1293,7 @@
       "name": "Axitinib",
       "slug": "axitinib",
       "brands": [
+        "インライタ",
         "インライタ錠1mg",
         "インライタ錠5mg"
       ],
@@ -1308,6 +1316,8 @@
       "name": "Azathioprine",
       "slug": "azathioprine",
       "brands": [
+        "アザニン",
+        "イムラン",
         "アザチオプリン錠 50mg",
         "アザニン錠50mg",
         "イムラン錠50mg"
@@ -1336,6 +1346,8 @@
       "name": "Azithromycin",
       "slug": "azithromycin",
       "brands": [
+        "アジマイシン",
+        "ジスロマック",
         "アジスロマイシン小児用細粒10% 100mg",
         "アジスロマイシン小児用錠100mg",
         "アジスロマイシン細粒小児用10% 100mg",
@@ -1448,6 +1460,7 @@
       "name": "Baricitinib",
       "slug": "baricitinib",
       "brands": [
+        "オルミエント",
         "オルミエント錠1mg",
         "オルミエント錠2mg",
         "オルミエント錠4mg"
@@ -1476,8 +1489,6 @@
       "name": "Beclomethasone Dipropionate",
       "slug": "beclomethasone-dipropionate",
       "brands": [
-        "ベクロメタゾン",
-        "ベクロメタゾンパウダー",
         "ベクロメタゾンパウダー25μgトーワ 1.50mg0.9087g",
         "ベクロメタゾン点鼻液50μg 8.5mg8.5g"
       ],
@@ -1594,6 +1605,9 @@
       "name": "Benzoyl Peroxide",
       "slug": "benzoyl-peroxide",
       "brands": [
+        "ベピオ",
+        "ベピオウォッシュ",
+        "ベピオローション",
         "ベピオウォッシュゲル5%",
         "ベピオゲル2.5%",
         "ベピオローション2.5%",
@@ -1703,11 +1717,21 @@
       "name": "Betamethasone",
       "slug": "betamethasone",
       "brands": [
-        "サンベタゾン眼耳鼻科用",
+        "アンテベート",
+        "アンテベートローション",
+        "サレックス",
+        "サンベタゾン",
         "ステロネマ",
         "デルモゾールDP",
         "デルモゾールDPローション",
         "ベトネベート",
+        "リノロサール",
+        "リンデロン",
+        "リンデロン−DP",
+        "リンデロン−DPゾル",
+        "リンデロン−V",
+        "リンデロン−Vローション",
+        "リンデロン懸濁",
         "アンテベートクリーム0.05%",
         "アンテベートローション0.05%",
         "アンテベート軟膏0.05%",
@@ -1722,6 +1746,7 @@
         "ベタメタゾンジプロピオン酸エステルクリーム0.064%",
         "ベタメタゾンジプロピオン酸エステルクリーム0.064%テイコク",
         "ベタメタゾンジプロピオン酸エステル軟膏0.064%",
+        "ベタメタゾンリン酸エステルNa・PF眼耳鼻科用液0.1%",
         "ベタメタゾンリン酸エステルナトリウム0.1%点眼点耳点鼻液",
         "ベタメタゾン吉草酸エステル0.12%クリーム",
         "ベタメタゾン吉草酸エステルクリーム0.12%",
@@ -1760,11 +1785,11 @@
         "リンデロン錠0.5mg",
         "エンペラシン配合錠",
         "サクコルチン配合錠",
+        "セレスタミン配合シロップ",
         "セレスタミン配合錠",
         "ヒスタブロック配合錠",
         "プラデスミン配合錠",
         "ベタセレミン配合錠",
-        "ベタメタゾンリン酸エステルNa・PF眼耳鼻科用液0.1%",
         "リンデロン−VGクリーム0.12%",
         "リンデロン−VGローション",
         "リンデロン−VG軟膏0.12%",
@@ -1804,7 +1829,7 @@
       "name": "Bevacizumab",
       "slug": "bevacizumab",
       "brands": [
-        "アバスチン点滴静",
+        "アバスチン",
         "アバスチン点滴静注用100mg/4mL",
         "アバスチン点滴静注用400mg/16mL"
       ],
@@ -1866,6 +1891,7 @@
       "name": "Biperiden",
       "slug": "biperiden",
       "brands": [
+        "アキネトン",
         "アキネトン注射液5mg 0.5%1mL",
         "アキネトン細粒1%",
         "アキネトン錠1mg",
@@ -1909,6 +1935,7 @@
       "name": "Bisoprolol",
       "slug": "bisoprolol",
       "brands": [
+        "メインテート",
         "ビソプロロールフマル酸塩0.625mg錠",
         "ビソプロロールフマル酸塩2.5mg錠",
         "ビソプロロールフマル酸塩5mg錠",
@@ -1973,6 +2000,7 @@
       "name": "Blonanserin",
       "slug": "blonanserin",
       "brands": [
+        "ロナセン",
         "ブロナンセリン2%散",
         "ブロナンセリン2mg錠",
         "ブロナンセリン4mg錠",
@@ -2107,6 +2135,7 @@
       "name": "Bromazepam",
       "slug": "bromazepam",
       "brands": [
+        "レキソタン",
         "ブロマゼパム5mg錠",
         "ブロマゼパム坐剤3mg",
         "ブロマゼパム細粒1%",
@@ -2191,6 +2220,8 @@
       "name": "Budesonide",
       "slug": "budesonide",
       "brands": [
+        "コレチメント",
+        "ゼンタコート",
         "パルミコート",
         "レクタブル",
         "パルミコート吸入液0.25mg 2mL",
@@ -2252,6 +2283,7 @@
       "name": "Cabergoline",
       "slug": "cabergoline",
       "brands": [
+        "カバサール",
         "カバサール錠0.25mg",
         "カバサール錠1.0mg 1mg"
       ],
@@ -2274,6 +2306,7 @@
       "name": "Cabozantinib",
       "slug": "cabozantinib",
       "brands": [
+        "カボメティクス",
         "カボメティクス錠20mg",
         "カボメティクス錠60mg"
       ],
@@ -2298,7 +2331,6 @@
       "brands": [
         "カルタン",
         "炭カル",
-        "石灰水",
         "カルタンOD錠250mg",
         "カルタンOD錠500mg",
         "カルタン錠250 250mg",
@@ -2487,6 +2519,7 @@
       "name": "Carboplatin",
       "slug": "carboplatin",
       "brands": [
+        "パラプラチン",
         "カルボプラチン150mg15mL注射液",
         "カルボプラチン450mg45mL注射液",
         "カルボプラチン注射液150mg 15mL",
@@ -2533,7 +2566,7 @@
       "name": "Carfilzomib",
       "slug": "carfilzomib",
       "brands": [
-        "カイプロリス点滴静",
+        "カイプロリス",
         "カイプロリス点滴静注用10mg",
         "カイプロリス点滴静注用40mg"
       ],
@@ -2577,6 +2610,7 @@
       "slug": "carteolol",
       "brands": [
         "ミケラン",
+        "ミケランLA",
         "小児用ミケラン",
         "ミケランLAカプセル15mg",
         "ミケランLA点眼液1%",
@@ -2602,6 +2636,7 @@
       "name": "Carvedilol",
       "slug": "carvedilol",
       "brands": [
+        "アーチスト",
         "アーチスト錠10mg",
         "アーチスト錠2.5mg",
         "アーチスト錠20mg",
@@ -2751,6 +2786,7 @@
       "name": "Ceritinib",
       "slug": "ceritinib",
       "brands": [
+        "ジカディア",
         "ジカディア錠150mg"
       ],
       "original": "non-small cell lung carcinoma (disease)；lung cancer",
@@ -2834,6 +2870,7 @@
       "name": "Cetuximab",
       "slug": "cetuximab",
       "brands": [
+        "アービタックス",
         "アービタックス注射液100mg 20mL",
         "アービタックス注射液500mg 100mL"
       ],
@@ -2856,9 +2893,11 @@
       "name": "Chlorpheniramine",
       "slug": "chlorpheniramine",
       "brands": [
+        "アレルギン",
         "ネオレスタミン",
-        "d−クロルフェニラミンマレイン酸塩シロップ0.04%",
-        "d−クロルフェニラミンマレイン酸塩錠2mg",
+        "ネオレスタミンコーワ",
+        "ネオレスタール",
+        "ビスミラー",
         "クロルフェニラミンマレイン酸塩",
         "クロルフェニラミンマレイン酸塩散 1%",
         "クロルフェニラミンマレイン酸塩散1%",
@@ -2867,18 +2906,7 @@
         "クロルフェニラミンマレイン酸塩注射液 1%1mL",
         "クロルフェニラミンマレイン酸塩錠 2mg",
         "クロルフェニラミンマレイン酸塩錠 4mg",
-        "ネオレスタミンコーワ散1%",
-        "ポララミンシロップ0.04%",
-        "ポララミンドライシロップ0.2%",
-        "ポララミン散1%",
-        "ポララミン注5mg 0.5%1mL",
-        "ポララミン錠2mg",
-        "エンペラシン配合錠",
-        "サクコルチン配合錠",
-        "セレスタミン配合錠",
-        "ヒスタブロック配合錠",
-        "プラデスミン配合錠",
-        "ベタセレミン配合錠"
+        "ネオレスタミンコーワ散1%"
       ],
       "original": "抗アレルギー薬, H1受容体拮抗薬\n疾患        アレルギー性鼻炎 [DS:H01360]",
       "level": "L4",
@@ -2914,8 +2942,6 @@
       "name": "Ciprofloxacin",
       "slug": "ciprofloxacin",
       "brands": [
-        "シプロフロキサシン",
-        "シプロフロキサシン点滴静",
         "シプロフロキサシン200mg100mL注射液",
         "シプロフロキサシン400mg200mL注射液",
         "シプロフロキサシン点滴静注液200mg 100mL",
@@ -2958,6 +2984,7 @@
       "name": "Clarithromycin",
       "slug": "clarithromycin",
       "brands": [
+        "クラリシッド",
         "クラリシッド錠200mg",
         "クラリシッド錠50mg小児用",
         "クラリスドライシロップ10%小児用 100mg",
@@ -3006,6 +3033,9 @@
       "name": "Clindamycin",
       "slug": "clindamycin",
       "brands": [
+        "ダラシン",
+        "ダラシンS",
+        "ダラシンTローション",
         "ダラシンS注射液300mg",
         "ダラシンS注射液600mg",
         "ダラシンTローション1%",
@@ -3046,6 +3076,7 @@
       "name": "Clobazam",
       "slug": "clobazam",
       "brands": [
+        "マイスタン",
         "マイスタン細粒1%",
         "マイスタン錠10mg",
         "マイスタン錠5mg"
@@ -3074,6 +3105,7 @@
       "name": "Clomipramine",
       "slug": "clomipramine",
       "brands": [
+        "アナフラニール",
         "アナフラニール点滴静注液25mg",
         "アナフラニール錠10mg",
         "アナフラニール錠25mg"
@@ -3102,6 +3134,8 @@
       "name": "Clonazepam",
       "slug": "clonazepam",
       "brands": [
+        "ランドセン",
+        "リボトリール",
         "ランドセン細粒0.1%",
         "ランドセン細粒0.5%",
         "ランドセン錠0.5mg",
@@ -3293,6 +3327,7 @@
       "name": "Crizotinib",
       "slug": "crizotinib",
       "brands": [
+        "ザーコリ",
         "ザーコリカプセル200mg",
         "ザーコリカプセル250mg"
       ],
@@ -3464,6 +3499,7 @@
       "name": "Danazol",
       "slug": "danazol",
       "brands": [
+        "ボンゾール",
         "ボンゾール錠100mg",
         "ボンゾール錠200mg"
       ],
@@ -3612,6 +3648,7 @@
       "name": "Desloratadine",
       "slug": "desloratadine",
       "brands": [
+        "デザレックス",
         "デザレックス錠5mg"
       ],
       "original": "allergic rhinitis；vasomotor rhinitis；pharyngitis；common cold；atopic conjunctivitis；papillary conjunctivitis；vernal conjunctivitis；nasopharyngitis；idiopathic urticaria；allergic urticaria",
@@ -3658,10 +3695,11 @@
         "アフタゾロン口腔用",
         "オイラゾン",
         "サンテゾーン",
+        "デカドロン",
         "ビジュアリン",
-        "ビジュアリン眼科耳鼻科用",
         "メサデルム",
         "メサデルムローション",
+        "レナデックス",
         "D・E・X点眼液0.02%",
         "D・E・X点眼液0.05%",
         "D・E・X点眼液0.1%",
@@ -3738,6 +3776,7 @@
       "name": "Dextromethorphan",
       "slug": "dextromethorphan",
       "brands": [
+        "メジコン",
         "デキストロメトルファン臭化水素酸塩細粒10%",
         "デキストロメトルファン臭化水素酸塩錠15mg",
         "メジコン散10%",
@@ -3779,7 +3818,9 @@
       "slug": "diazepam",
       "brands": [
         "スピジア",
+        "セルシン",
         "ダイアップ",
+        "ホリゾン",
         "10mgセルシン錠",
         "2mgセルシン錠",
         "5mgセルシン錠",
@@ -3832,7 +3873,13 @@
       "name": "Diclofenac",
       "slug": "diclofenac",
       "brands": [
+        "ジクトル",
         "ジクロード",
+        "ナボール",
+        "ボルタレン",
+        "ボルタレンSR",
+        "ボルタレンサポ",
+        "ボルタレンローション",
         "ジクロフェナクNaクリーム1%",
         "ジクロフェナクNaゲル1%",
         "ジクロフェナクNaテープ15mg 7cm×10cm",
@@ -3914,6 +3961,8 @@
       "name": "Diltiazem",
       "slug": "diltiazem",
       "brands": [
+        "ヘルベッサー",
+        "ヘルベッサーR",
         "ジルチアゼム塩酸塩100mg徐放カプセル",
         "ジルチアゼム塩酸塩10mg注射用",
         "ジルチアゼム塩酸塩200mg徐放カプセル",
@@ -3973,7 +4022,7 @@
       "slug": "diphenhydramine",
       "brands": [
         "レスタミン",
-        "強力レスタミンコーチゾンコーワ",
+        "レスタミンコーワ",
         "ジフェンヒドラミン 5g",
         "ジフェンヒドラミン塩酸塩注10mg 1%1mL",
         "ジフェンヒドラミン塩酸塩注30mg 1.5%2mL",
@@ -4015,6 +4064,8 @@
       "name": "Disopyramide",
       "slug": "disopyramide",
       "brands": [
+        "リスモダン",
+        "リスモダンR",
         "ジソピラミドリン酸塩徐放錠150mg",
         "ジソピラミド徐放錠150mg",
         "リスモダンP静注50mg 5mL",
@@ -4057,8 +4108,8 @@
       "name": "Docetaxel",
       "slug": "docetaxel",
       "brands": [
-        "タキソテール点滴静",
-        "ドセタキセル点滴静",
+        "タキソテール",
+        "ワンタキソテール",
         "タキソテール点滴静注用20mg 0.5mL(溶解液付)",
         "タキソテール点滴静注用80mg 2mL(溶解液付)",
         "ドセタキセル点滴静注20mg/1mL",
@@ -4069,7 +4120,9 @@
         "ドセタキセル点滴静注液80mg/4mL",
         "ドセタキセル点滴静注液80mg/8mL",
         "ドセタキセル点滴静注用20mg 0.5mL(溶解液付)",
-        "ドセタキセル点滴静注用80mg 2mL(溶解液付)"
+        "ドセタキセル点滴静注用80mg 2mL(溶解液付)",
+        "ワンタキソテール点滴静注20mg/1mL",
+        "ワンタキソテール点滴静注80mg/4mL"
       ],
       "original": "non-small cell lung carcinoma (disease)；lung cancer；prostate cancer；familial prostate carcinoma；prostate carcinoma；head and neck cancer；upper aerodigestive tract neoplasm；gastric cancer；gastric neoplasm；diffuse gastric adenocarcinoma；gastric linitis plastica；gastric carcinoma；breast carcinoma；breast neoplasm",
       "level": "L1",
@@ -4150,6 +4203,7 @@
       "name": "Domperidone",
       "slug": "domperidone",
       "brands": [
+        "ナウゼリン",
         "ドンペリドン1%シロップ用",
         "ドンペリドン10mg坐剤",
         "ドンペリドン10mg錠",
@@ -4203,6 +4257,9 @@
       "name": "Donepezil",
       "slug": "donepezil",
       "brands": [
+        "アリセプト",
+        "アリセプトD",
+        "アリセプト内服ゼリー",
         "アリセプトD錠10mg",
         "アリセプトD錠3mg",
         "アリセプトD錠5mg",
@@ -4272,6 +4329,7 @@
       "name": "Dorzolamide",
       "slug": "dorzolamide",
       "brands": [
+        "トルソプト",
         "トルソプト点眼液0.5%",
         "トルソプト点眼液1%"
       ],
@@ -4387,6 +4445,7 @@
       "name": "Doxycycline",
       "slug": "doxycycline",
       "brands": [
+        "ビブラマイシン",
         "ビブラマイシン錠100mg",
         "ビブラマイシン錠50mg"
       ],
@@ -4417,6 +4476,7 @@
       "name": "Droxidopa",
       "slug": "droxidopa",
       "brands": [
+        "ドプス",
         "ドプスOD錠100mg",
         "ドプスOD錠200mg",
         "ドプス細粒20%",
@@ -4513,7 +4573,7 @@
       "name": "Durvalumab",
       "slug": "durvalumab",
       "brands": [
-        "イミフィンジ点滴静",
+        "イミフィンジ",
         "イミフィンジ点滴静注120mg 2.4mL",
         "イミフィンジ点滴静注500mg 10mL"
       ],
@@ -4624,6 +4684,7 @@
       "name": "Empagliflozin",
       "slug": "empagliflozin",
       "brands": [
+        "ジャディアンス",
         "ジャディアンス錠10mg",
         "ジャディアンス錠25mg"
       ],
@@ -4798,6 +4859,7 @@
       "name": "Enzalutamide",
       "slug": "enzalutamide",
       "brands": [
+        "イクスタンジ",
         "イクスタンジ錠40mg",
         "イクスタンジ錠80mg"
       ],
@@ -4861,7 +4923,6 @@
       "brands": [
         "アレジオン",
         "アレジオンLX",
-        "アレジオン眼瞼",
         "アレジオンLX点眼液0.1%",
         "アレジオン点眼液0.05%",
         "アレジオン眼瞼クリーム0.5%",
@@ -5127,6 +5188,7 @@
       "name": "Estazolam",
       "slug": "estazolam",
       "brands": [
+        "ユーロジン",
         "エスタゾラム2mg錠",
         "エスタゾラム錠1mg",
         "エスタゾラム錠2mg",
@@ -5206,7 +5268,6 @@
       "name": "Etanercept",
       "slug": "etanercept",
       "brands": [
-        "エタネルセプトBS皮下",
         "エンブレル皮下",
         "エタネルセプトBS皮下注10mgシリンジ1.0mLTY 1mL",
         "エタネルセプトBS皮下注10mgシリンジ1.0mL日医工 1mL",
@@ -5261,6 +5322,7 @@
       "name": "Ethosuximide",
       "slug": "ethosuximide",
       "brands": [
+        "ザロンチン",
         "ザロンチンシロップ5%"
       ],
       "original": "absence epilepsy",
@@ -5339,8 +5401,6 @@
       "name": "Etoposide",
       "slug": "etoposide",
       "brands": [
-        "エトポシド",
-        "エトポシド点滴静",
         "エトポシド100mg5mL注射液",
         "エトポシド点滴静注100mg 5mL",
         "エトポシド点滴静注液100mg 5mL"
@@ -5452,6 +5512,8 @@
       "name": "Famotidine",
       "slug": "famotidine",
       "brands": [
+        "ガスター",
+        "ガスターD",
         "ガスターD錠10mg",
         "ガスターD錠20mg",
         "ガスター散10%",
@@ -5709,6 +5771,7 @@
       "brands": [
         "デュロテップ",
         "フェントス",
+        "ラフェンタ",
         "ワンデュロ",
         "ワンデュロパッチ",
         "フェンタニル1.38mg貼付剤",
@@ -5944,7 +6007,6 @@
       "slug": "fluorouracil",
       "brands": [
         "5−FU",
-        "フルオロウラシル",
         "フルオロウラシル注1000mg 1,000mg",
         "フルオロウラシル注250mg"
       ],
@@ -5967,6 +6029,10 @@
       "name": "Flurbiprofen",
       "slug": "flurbiprofen",
       "brands": [
+        "アドフィード",
+        "ゼポラス",
+        "フロベン",
+        "ヤクバン",
         "ゼポラステープ20mg 7cm×10cm",
         "ゼポラステープ40mg 10cm×14cm",
         "フルルビプロフェンテープ20mg 7cm×10cm",
@@ -6043,7 +6109,6 @@
       "slug": "fluticasone",
       "brands": [
         "アラミスト",
-        "フルチカゾン",
         "フルナーゼ",
         "アラミスト点鼻液27.5μg120噴霧用 5mg10g",
         "アラミスト点鼻液27.5μg56噴霧用 3mg6g",
@@ -6084,7 +6149,9 @@
         "レルベア100エリプタ14吸入用",
         "レルベア100エリプタ30吸入用",
         "レルベア200エリプタ14吸入用",
-        "レルベア200エリプタ30吸入用"
+        "レルベア200エリプタ30吸入用",
+        "小児用レルベア50エリプタ14吸入用",
+        "小児用レルベア50エリプタ30吸入用"
       ],
       "original": "",
       "level": "L5",
@@ -6397,8 +6464,7 @@
       "name": "Gemcitabine",
       "slug": "gemcitabine",
       "brands": [
-        "ゲムシタビン",
-        "ゲムシタビン点滴静",
+        "ジェムザール",
         "ゲムシタビン塩酸塩1g25mL注射液",
         "ゲムシタビン塩酸塩200mg5mL注射液",
         "ゲムシタビン点滴静注液1g/25mL",
@@ -6442,6 +6508,7 @@
       "name": "Gentamicin",
       "slug": "gentamicin",
       "brands": [
+        "ゲンタシン",
         "ゲンタシンクリーム0.1% 1mg",
         "ゲンタシン注10 10mg",
         "ゲンタシン注40 40mg",
@@ -6709,6 +6776,7 @@
       "name": "Granisetron",
       "slug": "granisetron",
       "brands": [
+        "カイトリル",
         "カイトリル注1mg 1mL",
         "カイトリル注3mg 3mL",
         "カイトリル点滴静注バッグ3mg/100mL",
@@ -6991,6 +7059,8 @@
       "name": "Hydrocortisone",
       "slug": "hydrocortisone",
       "brands": [
+        "コートリル",
+        "ロコイド",
         "コートリル錠10mg",
         "ヒドロコルチゾンリン酸エステルNa静注100mgAFP 2mL",
         "ヒドロコルチゾンリン酸エステルNa静注500mgAFP 10mL",
@@ -7000,7 +7070,8 @@
         "テラ・コートリル軟膏(1/3顎)",
         "テラ・コートリル軟膏(1歯)",
         "テラ・コートリル軟膏(1顎)",
-        "テラ・コートリル軟膏(2/3顎)"
+        "テラ・コートリル軟膏(2/3顎)",
+        "強力レスタミンコーチゾンコーワ軟膏"
       ],
       "original": "tinea pedis；autoimmune disease；exanthem (disease)；humoral hypercalcemia of malignancy；acute lymphoblastic leukemia (disease)；leukemia, lymphocytic, susceptibility to；acute lymphoblastic/lymphocytic leukemia；precursor T-cell acute lymphoblastic leukemia；eosinophilic pneumonia；pulmonary eosinophilia；adrenocortical insufficiency；Addison disease；Crohn disease；inflammatory bowel disease；Crohn's colitis",
       "level": "L3",
@@ -7060,6 +7131,7 @@
       "name": "Ibuprofen",
       "slug": "ibuprofen",
       "brands": [
+        "ブルフェン",
         "イブプロフェン20%顆粒",
         "イブプロフェン錠100mg",
         "イブプロフェン錠200mg",
@@ -7111,9 +7183,8 @@
       "slug": "icosapent-ethyl",
       "brands": [
         "エパデール",
-        "エパデールS300",
-        "エパデールS600",
-        "エパデールS900",
+        "エパデールEM",
+        "エパデールS",
         "イコサペント酸エチル300mgカプセル",
         "イコサペント酸エチル300mg粒状カプセル",
         "イコサペント酸エチル600mg粒状カプセル",
@@ -7202,7 +7273,7 @@
       "name": "Imipenem",
       "slug": "imipenem",
       "brands": [
-        "チエナム点滴静",
+        "チエナム",
         "チエナム点滴静注用0.5g 500mg"
       ],
       "original": "bacterial pneumonia；peritonitis；streptococcal pneumonia；endocarditis；subacute bacterial endocarditis；arthropathy；bacterial arthritis；endometritis",
@@ -7264,7 +7335,14 @@
       "name": "Indomethacin",
       "slug": "indomethacin",
       "brands": [
+        "アコニップ",
+        "イドメシン",
+        "インサイド",
+        "インテナース",
+        "インテバン",
+        "カトレップ",
         "ハップスター",
+        "ラクティオン",
         "インダシン静注用1mg",
         "インドメタシンカプセル 25mg",
         "インドメタシンパップ70mg 10cm×14cm",
@@ -7319,7 +7397,7 @@
       "name": "Ipilimumab",
       "slug": "ipilimumab",
       "brands": [
-        "ヤーボイ点滴静",
+        "ヤーボイ",
         "ヤーボイ点滴静注液20mg 4mL",
         "ヤーボイ点滴静注液50mg 10mL"
       ],
@@ -7342,6 +7420,7 @@
       "name": "Ipragliflozin",
       "slug": "ipragliflozin",
       "brands": [
+        "スーグラ",
         "スーグラ錠25mg",
         "スーグラ錠50mg"
       ],
@@ -7481,6 +7560,7 @@
       "name": "Istradefylline",
       "slug": "istradefylline",
       "brands": [
+        "ノウリアスト",
         "ノウリアスト錠20mg"
       ],
       "original": "Parkinson disease；parkinsonian-pyramidal syndrome；X-linked parkinsonism-spasticity syndrome；early-onset parkinsonism-intellectual disability syndrome；juvenile onset Parkinson disease 19A；hemiparkinsonism-hemiatrophy syndrome；atypical juvenile parkinsonism；hereditary late onset Parkinson disease",
@@ -7629,7 +7709,9 @@
       "name": "Ketoprofen",
       "slug": "ketoprofen",
       "brands": [
+        "セクター",
         "ミルタックス",
+        "モーラス",
         "ケトプロフェン(120mg)10cm×14cm貼付剤",
         "ケトプロフェン(20mg)7cm×10cm貼付剤",
         "ケトプロフェン(30mg)10cm×14cm貼付剤",
@@ -7684,6 +7766,7 @@
       "name": "Lactulose",
       "slug": "lactulose",
       "brands": [
+        "モニラック",
         "ラグノスNF経口ゼリー分包",
         "ラクツロース65%シロップ",
         "ラクツロースシロップ65%",
@@ -7752,6 +7835,7 @@
       "name": "Lamotrigine",
       "slug": "lamotrigine",
       "brands": [
+        "ラミクタール",
         "ラミクタール錠100mg",
         "ラミクタール錠25mg",
         "ラミクタール錠小児用2mg",
@@ -7953,6 +8037,7 @@
       "name": "Leflunomide",
       "slug": "leflunomide",
       "brands": [
+        "アラバ",
         "アラバ錠100mg",
         "アラバ錠10mg",
         "アラバ錠20mg"
@@ -7981,6 +8066,7 @@
       "name": "Lemborexant",
       "slug": "lemborexant",
       "brands": [
+        "デエビゴ",
         "デエビゴ錠10mg",
         "デエビゴ錠2.5mg",
         "デエビゴ錠5mg"
@@ -8074,6 +8160,7 @@
       "name": "Lenvatinib",
       "slug": "lenvatinib",
       "brands": [
+        "レンビマ",
         "レンビマカプセル10mg",
         "レンビマカプセル4mg"
       ],
@@ -8097,7 +8184,6 @@
       "slug": "levetiracetam",
       "brands": [
         "イーケプラ",
-        "イーケプラ点滴静",
         "イーケプラドライシロップ50%",
         "イーケプラ点滴静注500mg 5mL",
         "イーケプラ錠250mg",
@@ -8256,7 +8342,6 @@
       "slug": "levofloxacin",
       "brands": [
         "クラビット",
-        "クラビット点滴静",
         "コムレクス",
         "クラビット点滴静注500mg/20mL",
         "クラビット点滴静注バッグ500mg/100mL",
@@ -8377,6 +8462,9 @@
       "name": "Lidocaine",
       "slug": "lidocaine",
       "brands": [
+        "キシロカインゼリー",
+        "キシロカインビスカス",
+        "キシロカインポンプスプレー",
         "ペンレス",
         "キシロカイン0.5%筋注用溶解液 3mL",
         "キシロカインゼリー2%",
@@ -8584,6 +8672,7 @@
       "name": "Lithium Citrate",
       "slug": "lithium-citrate",
       "brands": [
+        "リーマス",
         "リーマス錠200 200mg",
         "炭酸リチウム錠100mg",
         "炭酸リチウム錠200mg"
@@ -8773,6 +8862,7 @@
       "name": "Lorlatinib",
       "slug": "lorlatinib",
       "brands": [
+        "ローブレナ",
         "ローブレナ錠100mg",
         "ローブレナ錠25mg"
       ],
@@ -8847,7 +8937,12 @@
         "ロサルタンカリウム50mg錠",
         "ロサルタンカリウム錠100mg",
         "ロサルタンカリウム錠25mg",
-        "ロサルタンカリウム錠50mg"
+        "ロサルタンカリウム錠50mg",
+        "プレミネント配合錠HD",
+        "プレミネント配合錠LD",
+        "ロサルタンカリウム・ヒドロクロロチアジドHD錠",
+        "ロサルヒド配合錠HD",
+        "ロサルヒド配合錠LD"
       ],
       "original": "血圧降下薬, アンジオテンシンII受容体拮抗薬\n疾患        高血圧症 [DS:H01633]\n糖尿病性腎症 [DS:H01456]",
       "level": "L4",
@@ -8883,6 +8978,7 @@
       "name": "Loxoprofen",
       "slug": "loxoprofen",
       "brands": [
+        "ロキソニン",
         "ロキソニンゲル1%",
         "ロキソニンテープ100mg 10cm×14cm",
         "ロキソニンテープ50mg 7cm×10cm",
@@ -8998,6 +9094,7 @@
       "name": "Magnesium",
       "slug": "magnesium",
       "brands": [
+        "マグミット",
         "重カマ",
         "マグミット細粒83%",
         "マグミット錠200mg",
@@ -9015,7 +9112,11 @@
         "酸化マグネシウム錠300mg",
         "酸化マグネシウム錠330mg",
         "酸化マグネシウム錠400mg",
-        "酸化マグネシウム錠500mg"
+        "酸化マグネシウム錠500mg",
+        "ディクアノン懸濁用配合顆粒",
+        "マルファ懸濁用配合顆粒",
+        "マーレッジ懸濁用配合DS",
+        "リタロクス懸濁用配合顆粒"
       ],
       "original": "制酸薬, 緩下剤, 吸着剤\n疾患        胃・十二指腸潰瘍 [DS:H01634]",
       "level": "L1",
@@ -9139,6 +9240,7 @@
       "slug": "menatetrenone",
       "brands": [
         "グラケー",
+        "ケイツー",
         "グラケーカプセル15mg",
         "メナテトレノン15mgカプセル",
         "メナテトレノンカプセル15mg"
@@ -9177,8 +9279,7 @@
       "name": "Meropenem",
       "slug": "meropenem",
       "brands": [
-        "メロペン点滴用",
-        "メロペン点滴用バイアル",
+        "メロペン",
         "メロペン点滴用キット0.5g 500mg生理食塩液100mL付",
         "メロペン点滴用バイアル0.25g 250mg",
         "メロペン点滴用バイアル0.5g 500mg"
@@ -9209,6 +9310,7 @@
       "brands": [
         "アサコール",
         "ペンタサ",
+        "リアルダ",
         "アサコール錠400mg",
         "ペンタサ注腸1g",
         "ペンタサ錠250mg",
@@ -9255,6 +9357,7 @@
       "slug": "metformin",
       "brands": [
         "グリコラン",
+        "メトグルコ",
         "グリコラン錠250mg",
         "メトグルコ錠250mg",
         "メトグルコ錠500mg",
@@ -9302,6 +9405,7 @@
       "name": "Methotrexate",
       "slug": "methotrexate",
       "brands": [
+        "メソトレキセート",
         "メトジェクト",
         "リウマトレックス",
         "メトトレキサート2mgカプセル",
@@ -9346,6 +9450,7 @@
       "slug": "methylprednisolone",
       "brands": [
         "デポ・メドロール水懸",
+        "メドロール",
         "デポ・メドロール水懸注20mg 1mL",
         "デポ・メドロール水懸注40mg 1mL",
         "メドロール錠2mg",
@@ -9386,6 +9491,7 @@
       "name": "Metoclopramide",
       "slug": "metoclopramide",
       "brands": [
+        "プリンペラン",
         "プリンペランシロップ0.1%",
         "プリンペラン注射液10mg 0.5%2mL",
         "プリンペラン細粒2%",
@@ -9561,6 +9667,7 @@
       "slug": "minocycline",
       "brands": [
         "ペリオクリン",
+        "ミノマイシン",
         "ミノマイシンカプセル100mg",
         "ミノマイシンカプセル50mg",
         "ミノマイシン錠50mg",
@@ -9750,6 +9857,7 @@
       "brands": [
         "アンペック",
         "オプソ",
+        "パシーフ",
         "モルペス",
         "モルヒネ塩酸塩水和物",
         "モルヒネ塩酸塩水和物原末",
@@ -9801,6 +9909,7 @@
       "name": "Moxifloxacin",
       "slug": "moxifloxacin",
       "brands": [
+        "アベロックス",
         "ベガモックス",
         "アベロックス錠400mg",
         "ベガモックス点眼液0.5%",
@@ -9967,6 +10076,7 @@
       "name": "Nicardipine",
       "slug": "nicardipine",
       "brands": [
+        "ペルジピン",
         "ニカルジピン塩酸塩10mg10mL注射液",
         "ニカルジピン塩酸塩2mg2mL注射液",
         "ニカルジピン塩酸塩注射液10mg 10mL",
@@ -10080,6 +10190,7 @@
       "name": "Nilotinib",
       "slug": "nilotinib",
       "brands": [
+        "タシグナ",
         "タシグナカプセル150mg",
         "タシグナカプセル200mg",
         "タシグナカプセル50mg"
@@ -10098,6 +10209,8 @@
       "name": "Nitrazepam",
       "slug": "nitrazepam",
       "brands": [
+        "ネルボン",
+        "ベンザリン",
         "ニトラゼパム10mg錠",
         "ニトラゼパム5mg錠",
         "ニトラゼパム細粒1%",
@@ -10495,7 +10608,7 @@
       "name": "Oxaliplatin",
       "slug": "oxaliplatin",
       "brands": [
-        "エルプラット点滴静",
+        "エルプラット",
         "エルプラット点滴静注液100mg 20mL",
         "エルプラット点滴静注液200mg 40mL",
         "エルプラット点滴静注液50mg 10mL"
@@ -10535,6 +10648,7 @@
       "slug": "oxybutynin",
       "brands": [
         "アポハイド",
+        "ネオキシ",
         "ポラキス",
         "オキシブチニン塩酸塩1mg錠",
         "オキシブチニン塩酸塩2mg錠",
@@ -10635,6 +10749,7 @@
       "name": "Ozenoxacin",
       "slug": "ozenoxacin",
       "brands": [
+        "ゼビアックスローション",
         "ゼビアックス油性",
         "ゼビアックスローション2%",
         "ゼビアックス油性クリーム2%"
@@ -10658,6 +10773,7 @@
       "name": "Paclitaxel",
       "slug": "paclitaxel",
       "brands": [
+        "タキソール",
         "タキソール注射液100mg 16.7mL",
         "タキソール注射液30mg 5mL",
         "パクリタキセル100mg16.7mL注射液",
@@ -10703,7 +10819,7 @@
       "name": "Panitumumab",
       "slug": "panitumumab",
       "brands": [
-        "ベクティビックス点滴静",
+        "ベクティビックス",
         "ベクティビックス点滴静注100mg 5mL",
         "ベクティビックス点滴静注400mg 20mL"
       ],
@@ -10726,6 +10842,7 @@
       "name": "Paroxetine",
       "slug": "paroxetine",
       "brands": [
+        "パキシルCR",
         "パキシルCR錠12.5mg",
         "パキシルCR錠25mg",
         "パキシルCR錠6.25mg",
@@ -10773,6 +10890,7 @@
       "name": "Pazopanib",
       "slug": "pazopanib",
       "brands": [
+        "ヴォトリエント",
         "ヴォトリエント錠200mg"
       ],
       "original": "sarcoma；soft tissue sarcoma；cancer；nonpapillary renal cell carcinoma；renal cell adenocarcinoma；renal cell carcinoma (disease)；clear cell renal carcinoma",
@@ -10789,7 +10907,7 @@
       "name": "Pembrolizumab",
       "slug": "pembrolizumab",
       "brands": [
-        "キイトルーダ点滴静",
+        "キイトルーダ",
         "キイトルーダ点滴静注100mg 4mL"
       ],
       "original": "non-small cell lung carcinoma (disease)；lung cancer；metastatic melanoma",
@@ -10806,6 +10924,7 @@
       "name": "Perampanel",
       "slug": "perampanel",
       "brands": [
+        "フィコンパ",
         "フィコンパ点滴静注用2mg",
         "フィコンパ細粒1%",
         "フィコンパ錠2mg",
@@ -10882,7 +11001,7 @@
       "name": "Pertuzumab",
       "slug": "pertuzumab",
       "brands": [
-        "パージェタ点滴静",
+        "パージェタ",
         "パージェタ点滴静注420mg/14mL"
       ],
       "original": "HER2 positive breast carcinoma",
@@ -10899,6 +11018,8 @@
       "name": "Phenobarbital",
       "slug": "phenobarbital",
       "brands": [
+        "フェノバール",
+        "フェノバールエリキシル",
         "フェノバルビタール",
         "フェノバルビタール原末",
         "フェノバルビタール散10%",
@@ -10942,6 +11063,7 @@
       "name": "Phenylephrine",
       "slug": "phenylephrine",
       "brands": [
+        "ネオシネジンコーワ",
         "ネオシネジンコーワ5%点眼液",
         "ネオシネジンコーワ注1mg 0.1%1mL",
         "ネオシネジンコーワ注5mg 0.5%1mL",
@@ -10971,6 +11093,8 @@
       "name": "Phenytoin",
       "slug": "phenytoin",
       "brands": [
+        "アレビアチン",
+        "ヒダントール",
         "アレビアチン散10%",
         "アレビアチン注250mg 5%5mL",
         "アレビアチン錠100mg",
@@ -11013,6 +11137,7 @@
       "name": "Pilocarpine",
       "slug": "pilocarpine",
       "brands": [
+        "サラジェン",
         "サンピロ",
         "ピロカルピン塩酸塩"
       ],
@@ -11210,6 +11335,7 @@
       "name": "Ponatinib",
       "slug": "ponatinib",
       "brands": [
+        "アイクルシグ",
         "アイクルシグ錠15mg"
       ],
       "original": "chronic myelogenous leukemia, BCR-ABL1 positive",
@@ -11376,6 +11502,7 @@
       "slug": "prednisolone",
       "brands": [
         "スピラゾン",
+        "プレドニン",
         "プレドネマ",
         "リドメックス",
         "リドメックスコーワ",
@@ -11538,9 +11665,17 @@
       "name": "Promethazine",
       "slug": "promethazine",
       "brands": [
+        "ピレチア",
         "ピレチア細粒10%",
         "ピレチア錠(25mg)",
-        "ピレチア錠(5mg)"
+        "ピレチア錠(5mg)",
+        "PL配合顆粒",
+        "サラザック配合顆粒",
+        "セラピナ配合顆粒",
+        "トーワチーム配合顆粒",
+        "ヒベルナ",
+        "ピーエイ配合錠",
+        "マリキナ配合顆粒"
       ],
       "original": "抗アレルギー薬, 制吐薬, パーキンソン病治療薬, H1受容体拮抗薬\n疾患        パーキンソニスム [DS:H01600]\nアレルギー性鼻炎 [DS:H01360]",
       "level": "L5",
@@ -11645,6 +11780,8 @@
       "name": "Propranolol",
       "slug": "propranolol",
       "brands": [
+        "インデラル",
+        "ヘマンジオル",
         "インデラル注射液2mg 0.1%2mL",
         "インデラル錠10mg",
         "プロプラノロール塩酸塩10mg錠",
@@ -11685,6 +11822,8 @@
       "name": "Propylthiouracil",
       "slug": "propylthiouracil",
       "brands": [
+        "チウラジール",
+        "プロパジール",
         "チウラジール錠50mg",
         "プロピルチオウラシル錠 50mg"
       ],
@@ -11707,7 +11846,6 @@
       "name": "Pyridoxine",
       "slug": "pyridoxine",
       "brands": [
-        "ビーシックス",
         "ビタミンB6錠30mg",
         "ピリドキシン塩酸塩",
         "ピリドキシン塩酸塩注射液 10mg",
@@ -11871,6 +12009,7 @@
       "name": "Rasagiline",
       "slug": "rasagiline",
       "brands": [
+        "アジレクト",
         "アジレクト錠0.5mg",
         "アジレクト錠1mg"
       ],
@@ -11918,6 +12057,7 @@
       "name": "Regorafenib",
       "slug": "regorafenib",
       "brands": [
+        "スチバーガ",
         "スチバーガ錠40mg"
       ],
       "original": "metastasis from malignant tumor of colon；hepatocellular carcinoma；liver cancer；fibrolamellar hepatocellular carcinoma；pediatric hepatocellular carcinoma；adenocarcinoma of liver and intrahepatic biliary tract；undifferentiated carcinoma of liver and intrahepatic biliary tract；squamous cell carcinoma of liver and intrahepatic biliary tract；gastrointestinal stromal tumor",
@@ -11943,7 +12083,7 @@
       "slug": "riboflavin",
       "brands": [
         "ハイボン",
-        "ビタミンB2",
+        "ビスラーゼ",
         "ホスフラン",
         "ハイボン錠20mg",
         "リボフラビンリン酸エステルナトリウム注射液 10mg",
@@ -11996,6 +12136,9 @@
       "name": "Risperidone",
       "slug": "risperidone",
       "brands": [
+        "リスパダール",
+        "リスパダール コンスタ筋",
+        "リスパダールコンスタ",
         "リスパダール コンスタ筋注用25mg (懸濁用液付)",
         "リスパダール コンスタ筋注用37.5mg (懸濁用液付)",
         "リスパダール コンスタ筋注用50mg (懸濁用液付)",
@@ -12074,6 +12217,7 @@
       "name": "Rivaroxaban",
       "slug": "rivaroxaban",
       "brands": [
+        "イグザレルト",
         "イグザレルトOD錠10mg",
         "イグザレルトOD錠15mg",
         "イグザレルト錠10mg",
@@ -12212,6 +12356,7 @@
       "name": "Ropinirole",
       "slug": "ropinirole",
       "brands": [
+        "ハルロピ",
         "レキップ",
         "レキップCR",
         "レキップCR錠2mg",
@@ -12357,6 +12502,7 @@
       "name": "Safinamide",
       "slug": "safinamide",
       "brands": [
+        "エクフィナ",
         "エクフィナ錠50mg"
       ],
       "original": "Parkinson disease；parkinsonian-pyramidal syndrome；X-linked parkinsonism-spasticity syndrome；early-onset parkinsonism-intellectual disability syndrome；juvenile onset Parkinson disease 19A；hemiparkinsonism-hemiatrophy syndrome；atypical juvenile parkinsonism；hereditary late onset Parkinson disease",
@@ -12383,6 +12529,7 @@
       "name": "Salbutamol",
       "slug": "salbutamol",
       "brands": [
+        "ベネトリン",
         "ベネトリンシロップ0.04%",
         "ベネトリン吸入液0.5%"
       ],
@@ -12413,6 +12560,7 @@
       "name": "Salmeterol",
       "slug": "salmeterol",
       "brands": [
+        "セレベント50ディスカス",
         "セレベント50ディスカス 50μg60ブリスター",
         "アドエア100ディスカス28吸入用 28ブリスター",
         "アドエア100ディスカス60吸入用 60ブリスター",
@@ -12565,6 +12713,7 @@
       "name": "Sildenafil",
       "slug": "sildenafil",
       "brands": [
+        "バイアグラ",
         "レバチオ",
         "シルデナフィル錠20mgRE",
         "バイアグラODフィルム25mg",
@@ -12812,6 +12961,7 @@
       "name": "Sorafenib",
       "slug": "sorafenib",
       "brands": [
+        "ネクサバール",
         "ネクサバール錠200mg"
       ],
       "original": "hepatocellular carcinoma；liver cancer；fibrolamellar hepatocellular carcinoma；pediatric hepatocellular carcinoma；adenocarcinoma of liver and intrahepatic biliary tract；undifferentiated carcinoma of liver and intrahepatic biliary tract；squamous cell carcinoma of liver and intrahepatic biliary tract；nonpapillary renal cell carcinoma；renal cell adenocarcinoma；renal cell carcinoma (disease)；clear cell renal carcinoma；thyroid gland carcinoma",
@@ -13146,6 +13296,7 @@
       "name": "Sumatriptan",
       "slug": "sumatriptan",
       "brands": [
+        "イミグラン",
         "イミグラン錠50 50mg",
         "スマトリプタンコハク酸塩50mg錠",
         "スマトリプタン内用液50mg 2mL",
@@ -13248,6 +13399,7 @@
       "name": "Suvorexant",
       "slug": "suvorexant",
       "brands": [
+        "ベルソムラ",
         "ベルソムラ錠10mg",
         "ベルソムラ錠15mg",
         "ベルソムラ錠20mg"
@@ -13276,6 +13428,9 @@
       "name": "Tacrolimus",
       "slug": "tacrolimus",
       "brands": [
+        "グラセプター",
+        "タリムス",
+        "プログラフ",
         "プロトピック",
         "タクロリムス5mg錠",
         "タクロリムスカプセル0.5mg",
@@ -13334,6 +13489,7 @@
       "brands": [
         "アドシルカ",
         "ザルティア",
+        "シアリス",
         "アドシルカ錠20mg",
         "ザルティア錠2.5mg",
         "ザルティア錠5mg",
@@ -13497,6 +13653,16 @@
       "name": "Tegafur",
       "slug": "tegafur",
       "brands": [
+        "エスエーワン配合OD錠T20 20mg(テガフール相当量)",
+        "エスエーワン配合OD錠T25 25mg(テガフール相当量)",
+        "エスエーワン配合カプセルT20 20mg(テガフール相当量)",
+        "エスエーワン配合カプセルT25 25mg(テガフール相当量)",
+        "エスワンタイホウ配合OD錠T20 20mg(テガフール相当量)",
+        "エスワンタイホウ配合OD錠T25 25mg(テガフール相当量)",
+        "エヌケーエスワン配合OD錠T20 20mg(テガフール相当量)",
+        "エヌケーエスワン配合OD錠T25 25mg(テガフール相当量)",
+        "エヌケーエスワン配合カプセルT20 20mg(テガフール相当量)",
+        "エヌケーエスワン配合カプセルT25 25mg(テガフール相当量)",
         "ティーエスワン配合OD錠T20 20mg(テガフール相当量)",
         "ティーエスワン配合OD錠T20 20mg(テガフール量)",
         "ティーエスワン配合OD錠T25 25mg(テガフール相当量)",
@@ -13507,6 +13673,8 @@
         "ティーエスワン配合カプセルT25 25mg(テガフール量)",
         "ティーエスワン配合顆粒T20 20mg(テガフール相当量)",
         "ティーエスワン配合顆粒T25 25mg(テガフール相当量)",
+        "テガフール・ギメラシル・オテラシルカリウムT25カプセル 25",
+        "テガフール・ギメラシル・オテラシルカリウムT25口腔内崩壊錠",
         "ユーエフティE配合顆粒T100 100mg(テガフール相当量)",
         "ユーエフティE配合顆粒T150 150mg(テガフール相当量)",
         "ユーエフティE配合顆粒T200 200mg(テガフール相当量)",
@@ -13632,6 +13800,7 @@
       "name": "Teneligliptin",
       "slug": "teneligliptin",
       "brands": [
+        "テネリア",
         "テネリアOD錠20mg",
         "テネリアOD錠40mg",
         "テネリア錠20mg",
@@ -13805,6 +13974,8 @@
       "name": "Theophylline",
       "slug": "theophylline",
       "brands": [
+        "テオドール",
+        "テオロング",
         "ユニコン",
         "テオドール錠100mg",
         "テオドール錠200mg",
@@ -13868,7 +14039,7 @@
       "name": "Thiamine",
       "slug": "thiamine",
       "brands": [
-        "ビタミンB1",
+        "メタボリン",
         "チアミンジスルフィド錠10mg",
         "チアミン塩化物塩酸塩散 0.1%",
         "チアミン塩化物塩酸塩散 1%",
@@ -14089,9 +14260,8 @@
       "name": "Tocilizumab",
       "slug": "tocilizumab",
       "brands": [
-        "アクテムラ点滴静",
+        "アクテムラ",
         "アクテムラ皮下",
-        "トシリズマブBS点滴静",
         "アクテムラ点滴静注用200mg 10mL",
         "アクテムラ点滴静注用400mg 20mL",
         "アクテムラ点滴静注用80mg 4mL",
@@ -14241,6 +14411,7 @@
       "name": "Tofogliflozin",
       "slug": "tofogliflozin",
       "brands": [
+        "デベルザ",
         "デベルザ錠20mg"
       ],
       "original": "type 2 diabetes mellitus；diabetes mellitus (disease)",
@@ -14257,6 +14428,7 @@
       "name": "Tolvaptan",
       "slug": "tolvaptan",
       "brands": [
+        "サムスカ",
         "サムスカOD錠15mg",
         "サムスカOD錠7.5mg",
         "サムスカ顆粒1%",
@@ -14367,6 +14539,8 @@
       "name": "Topiroxostat",
       "slug": "topiroxostat",
       "brands": [
+        "ウリアデック",
+        "トピロリック",
         "ウリアデック錠20mg",
         "ウリアデック錠40mg",
         "ウリアデック錠60mg",
@@ -14408,7 +14582,7 @@
       "name": "Topotecan",
       "slug": "topotecan",
       "brands": [
-        "トポテシン点滴静",
+        "トポテシン",
         "トポテシン点滴静注100mg 5mL",
         "トポテシン点滴静注40mg 2mL"
       ],
@@ -14475,6 +14649,8 @@
       "name": "Trametinib",
       "slug": "trametinib",
       "brands": [
+        "メキニスト",
+        "メキニスト小児用",
         "メキニスト小児用ドライシロップ4.7mg",
         "メキニスト錠0.5mg",
         "メキニスト錠2mg"
@@ -14567,6 +14743,7 @@
       "name": "Trastuzumab",
       "slug": "trastuzumab",
       "brands": [
+        "ハーセプチン",
         "ハーセプチン注射用150 150mg",
         "ハーセプチン注射用60 60mg"
       ],
@@ -14634,6 +14811,7 @@
         "ケナコルト−A筋",
         "ノギロン",
         "マキュエイド",
+        "レダコート",
         "オルテクサー口腔用軟膏0.1%",
         "ケナコルト−A皮内用関節腔内用水懸注50mg/5mL 10mg",
         "ケナコルト−A筋注用関節腔内用水懸注40mg/1mL",
@@ -14729,6 +14907,9 @@
       "name": "Trihexyphenidyl",
       "slug": "trihexyphenidyl",
       "brands": [
+        "アーテン",
+        "セドリーナ",
+        "パーキネス",
         "アーテン散1%",
         "アーテン錠(2mg)",
         "トリヘキシフェニジル塩酸塩散1%",
@@ -14770,6 +14951,7 @@
       "slug": "tropicamide",
       "brands": [
         "ミドリン",
+        "ミドリンM",
         "トロピカミド点眼液0.4%",
         "ミドリンM点眼液0.4%",
         "ミドリンP点眼液"
@@ -14844,6 +15026,7 @@
       "name": "Upadacitinib",
       "slug": "upadacitinib",
       "brands": [
+        "リンヴォック",
         "リンヴォック錠15mg",
         "リンヴォック錠30mg",
         "リンヴォック錠45mg",
@@ -14878,7 +15061,7 @@
       "name": "Ustekinumab",
       "slug": "ustekinumab",
       "brands": [
-        "ステラーラ点滴静",
+        "ステラーラ",
         "ステラーラ皮下",
         "ステラーラ点滴静注130mg 26mL",
         "ステラーラ皮下注45mgシリンジ 0.5mL"
@@ -14903,6 +15086,9 @@
       "slug": "valproic-acid",
       "brands": [
         "セレニカ",
+        "セレニカR",
+        "デパケン",
+        "デパケンR",
         "セレニカR顆粒40%",
         "デパケンR錠100mg",
         "デパケンR錠200mg",
@@ -15036,10 +15222,6 @@
       "name": "Vancomycin",
       "slug": "vancomycin",
       "brands": [
-        "バンコマイシン",
-        "バンコマイシン点滴静",
-        "バンコマイシン眼",
-        "塩酸バンコマイシン",
         "バンコマイシン塩酸塩散0.5g 500mg",
         "バンコマイシン塩酸塩点滴静注用0.5g",
         "バンコマイシン塩酸塩点滴静注用1g",
@@ -15080,6 +15262,7 @@
       "name": "Venetoclax",
       "slug": "venetoclax",
       "brands": [
+        "ベネクレクスタ",
         "ベネクレクスタ錠100mg",
         "ベネクレクスタ錠10mg",
         "ベネクレクスタ錠50mg"
@@ -15192,14 +15375,12 @@
       "name": "Vilanterol",
       "slug": "vilanterol",
       "brands": [
-        "小児用レルベア50エリプタ14",
-        "小児用レルベア50エリプタ30",
-        "小児用レルベア50エリプタ14吸入用",
-        "小児用レルベア50エリプタ30吸入用",
         "レルベア100エリプタ14吸入用",
         "レルベア100エリプタ30吸入用",
         "レルベア200エリプタ14吸入用",
-        "レルベア200エリプタ30吸入用"
+        "レルベア200エリプタ30吸入用",
+        "小児用レルベア50エリプタ14吸入用",
+        "小児用レルベア50エリプタ30吸入用"
       ],
       "original": "chronic obstructive pulmonary disease；COPD, severe early onset；bronchitis；asthma；intrinsic asthma；allergic asthma；pulmonary emphysema",
       "level": "L1",
@@ -15277,6 +15458,7 @@
       "name": "Vincristine",
       "slug": "vincristine",
       "brands": [
+        "オンコビン",
         "オンコビン注射用1mg"
       ],
       "original": "acute lymphoblastic leukemia (disease)；leukemia, lymphocytic, susceptibility to；acute lymphoblastic/lymphocytic leukemia；precursor T-cell acute lymphoblastic leukemia；obsolete Hodgkin's granuloma；Hodgkins lymphoma；classic Hodgkin lymphoma；Hodgkin's paragranuloma；classic Hodgkin lymphoma, lymphocyte-rich type；non-Hodgkin lymphoma；lymphosarcoma；lymphoma；mantle cell lymphoma；Langerhans cell histiocytosis；lymphoma, non-Hodgkin, familial",
@@ -15377,6 +15559,7 @@
       "name": "Vonoprazan",
       "slug": "vonoprazan",
       "brands": [
+        "タケキャブ",
         "タケキャブOD錠10mg",
         "タケキャブOD錠20mg",
         "タケキャブ錠10mg",
@@ -15454,6 +15637,7 @@
       "name": "Warfarin",
       "slug": "warfarin",
       "brands": [
+        "ワーファリン",
         "ワルファリンK細粒0.2%",
         "ワルファリンK錠0.5mg",
         "ワルファリンK錠1mg",

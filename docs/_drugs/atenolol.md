@@ -122,6 +122,7 @@ TxGNN モデルは**後外側心筋梗塞 (Posterolateral Myocardial Infarction)
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

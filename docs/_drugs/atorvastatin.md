@@ -141,6 +141,7 @@ TxGNN モデルは**家族性高コレステロール血症 (Familial Hyperchole
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

@@ -130,6 +130,7 @@ TxGNN モデルは**脳幹梗塞 (Brain Stem Infarction)** に有効である可
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

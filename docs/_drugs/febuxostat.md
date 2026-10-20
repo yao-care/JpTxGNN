@@ -116,6 +116,7 @@ TxGNN モデルは**腎性低尿酸血症 (hypouricemia, renal)** に有効で�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

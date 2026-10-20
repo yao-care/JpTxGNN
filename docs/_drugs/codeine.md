@@ -115,6 +115,7 @@ TxGNN モデルは**鼻腔疾患 (nasal cavity disease)** に有効である可�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

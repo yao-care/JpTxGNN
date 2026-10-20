@@ -109,6 +109,7 @@ TxGNN モデルは**2型糖尿病性腎症 (type 2 diabetes nephropathy)** に�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

@@ -129,6 +129,7 @@ description: "Pergolide：予測新適応症はフコシル化欠損を伴う先
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

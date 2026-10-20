@@ -119,6 +119,7 @@ TxGNN モデルは**くすぶり型全身性肥満細胞症 (Smouldering systemi
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

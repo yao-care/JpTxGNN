@@ -101,6 +101,7 @@ TxGNN モデルは**頭皮の単純性乏毛症 (hypotrichosis simplex of the sc
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

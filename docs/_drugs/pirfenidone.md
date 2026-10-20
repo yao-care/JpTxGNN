@@ -119,6 +119,7 @@ TxGNN モデルの予測スコア第 1 位は**肥満細胞腫（extracutaneous 
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

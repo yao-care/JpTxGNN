@@ -124,6 +124,7 @@ TxGNN モデルは**点状表層角結膜炎 (Punctate Epithelial Keratoconjunct
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

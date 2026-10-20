@@ -127,6 +127,7 @@ TxGNN モデルの予測スコア最上位は**異型狭心症 (Prinzmetal angin
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

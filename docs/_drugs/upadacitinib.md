@@ -102,10 +102,13 @@ TxGNN モデルは **colobomatous microphthalmia-rhizomelic dysplasia syndrome�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 
 同じ成分を含む日本の医薬品です。以下の名称でも検索できます。
+
+**商品名**：リンヴォック
 
 **販売名（規格別）**：リンヴォック錠15mg、リンヴォック錠30mg、リンヴォック錠45mg、リンヴォック錠7.5mg
 <!-- brand-names:end -->

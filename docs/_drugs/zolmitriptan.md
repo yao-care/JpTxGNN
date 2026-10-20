@@ -132,6 +132,7 @@ TxGNN モデルは**脳幹性前兆を伴う片頭痛 (migraine with brainstem a
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

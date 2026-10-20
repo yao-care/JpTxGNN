@@ -108,6 +108,7 @@ TxGNN モデルは**冠動脈疾患 (Coronary Artery Disease)** に有効であ�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

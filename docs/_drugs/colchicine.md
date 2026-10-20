@@ -118,6 +118,7 @@ TxGNN モデルは**熱帯熱マラリア (Plasmodium falciparum malaria)** に�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

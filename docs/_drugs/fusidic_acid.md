@@ -108,6 +108,7 @@ TxGNN モデルは**暴露性角膜炎 (Exposure Keratitis)** に有効である
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

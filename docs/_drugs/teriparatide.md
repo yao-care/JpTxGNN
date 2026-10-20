@@ -125,6 +125,7 @@ TxGNN モデルは**十二指腸潰瘍 (duodenal ulcer)** に有効である可�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

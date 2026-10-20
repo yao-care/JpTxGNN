@@ -130,6 +130,7 @@ TxGNN モデルは**ユーイング肉腫 (Ewing sarcoma)** に有効である�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

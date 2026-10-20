@@ -114,6 +114,7 @@ TxGNN モデルは**ビオチン代謝疾患 (biotin metabolic disease)** に有
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

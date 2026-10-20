@@ -124,6 +124,7 @@ TxGNN モデルは**入眠・睡眠維持障害 (sleep disorder, initiating and 
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

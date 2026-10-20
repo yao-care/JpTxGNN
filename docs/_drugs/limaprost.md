@@ -113,6 +113,7 @@ TxGNN モデルは**遺伝性フォンヴィレブランド病 (hereditary von W
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

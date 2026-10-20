@@ -126,6 +126,7 @@ TxGNN モデルは**常染色体劣性慢性肉芽腫症 (Chronic Granulomatous 
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

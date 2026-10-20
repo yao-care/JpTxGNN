@@ -118,6 +118,7 @@ TxGNN モデルは**非症候性食道奇形 (non-syndromic esophageal malformat
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

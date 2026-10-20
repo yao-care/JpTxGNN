@@ -134,6 +134,7 @@ TxGNN モデルは**匍行性ハエ幼虫症 (Creeping Myiasis)** に有効で�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

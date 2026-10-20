@@ -215,6 +215,33 @@ for md in sorted(DOCS.glob("*.md")):
             continue
         errors.append(f"{md.name} 的站內連結指不到東西：{link}")
 
+# 5) 日本販売名（2026-10-20，U-03b）：docs/_data/brand_names.json 改了，成分頁區塊與 search-index 的 brands 必須跟著重產
+#    （build_brand_names.py → 母目錄 .claude/apply_brand_names.py → .claude/rebuild_search_index.py JpTxGNN）
+bm = DOCS / "_data/brand_names.json"
+if bm.exists():
+    bmap = json.loads(bm.read_text(encoding="utf-8"))
+    want = {k: sorted(set(v.get("trade", []) + v.get("hanbai", []) + v.get("combo", []))) for k, v in bmap.items()}
+    stale = []
+    for md in sorted((DOCS / "_drugs").glob("*.md")):
+        t_ = md.read_text(encoding="utf-8", errors="replace").replace("\r\n", "\n")
+        if 'http-equiv="refresh"' in t_:
+            continue
+        m = re.search(r"<!-- brand-names:start -->(.*?)<!-- brand-names:end -->", t_, re.S)
+        got = sorted({x for line in (m.group(1) if m else "").splitlines() if "：" in line and line.startswith("**")
+                      for x in line.split("：", 1)[1].split("、") if x})
+        if got != want.get(md.stem, []):
+            stale.append(md.stem)
+    if stale:
+        errors.append(f"{len(stale)} 個成分頁的販売名區塊與 brand_names.json 不符（例：{', '.join(stale[:5])}），請跑 .claude/apply_brand_names.py JpTxGNN")
+    si = DOCS / "data/search-index.json"
+    if si.exists():
+        idx = json.loads(si.read_text(encoding="utf-8"))
+        rows = idx.get("drugs", idx) if isinstance(idx, dict) else idx
+        bad = [d.get("slug") for d in rows if isinstance(d, dict) and d.get("slug") and
+               sorted(set(d.get("brands") or [])) != want.get(re.sub(r"-", "_", d["slug"]), want.get(d["slug"], []))]
+        if bad:
+            errors.append(f"search-index.json 有 {len(bad)} 筆 brands 與 brand_names.json 不符（例：{', '.join(map(str, bad[:5]))}），請跑 .claude/rebuild_search_index.py JpTxGNN")
+
 if errors:
     print(f"docs SEO 守門：✗ {len(errors)} 項")
     for e in errors:

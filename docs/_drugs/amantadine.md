@@ -131,6 +131,7 @@ PLA2G6 関連神経変性症については、[31366412](https://pubmed.ncbi.nlm
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

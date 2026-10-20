@@ -133,6 +133,7 @@ TxGNN モデルは**後下壁心筋梗塞 (posteroinferior myocardial infarction
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

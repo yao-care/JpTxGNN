@@ -99,10 +99,13 @@ TxGNN モデルは **ラスムッセン亜急性脳炎 (Rasmussen subacute encep
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 
 同じ成分を含む日本の医薬品です。以下の名称でも検索できます。
+
+**商品名**：ノウリアスト
 
 **販売名（規格別）**：ノウリアスト錠20mg
 <!-- brand-names:end -->

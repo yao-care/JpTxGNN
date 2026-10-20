@@ -138,6 +138,7 @@ TxGNN モデルは**血管疾患 (Vascular Disease)** に有効である可能�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

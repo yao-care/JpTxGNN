@@ -162,6 +162,7 @@ TxGNN モデルの最上位予測は乳房パジェット病 (Mammary Paget Dise
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

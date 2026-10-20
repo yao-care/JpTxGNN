@@ -145,6 +145,7 @@ TxGNN モデルは**心因性運動障害 (Psychogenic Movement Disorders)** に
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

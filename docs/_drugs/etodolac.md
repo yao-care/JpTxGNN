@@ -126,6 +126,7 @@ TxGNN モデルは **肢端中間部異形成症 Hunter-Thompson 型 (acromesome
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

@@ -129,6 +129,7 @@ TxGNN モデルは**先端中間肢異形成症 Hunter-Thompson 型 (acromesomel
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

@@ -118,6 +118,7 @@ TxGNN モデルは**光線性口唇炎 (Actinic Cheilitis)** に有効である�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

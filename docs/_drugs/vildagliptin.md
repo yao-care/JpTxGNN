@@ -112,6 +112,7 @@ TxGNN モデルは**限局性硬直肢症候群 (Focal Stiff Limb Syndrome)** �
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 

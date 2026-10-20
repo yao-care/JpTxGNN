@@ -118,6 +118,7 @@ TxGNN モデルは**脂漏性角化症 (Seborrheic Keratosis)** に有効であ�
 
 
 
+
 <!-- brand-names:start -->
 ## 日本での販売名
 
