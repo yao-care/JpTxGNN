@@ -27,6 +27,8 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@983d7736d9b0ae728b81ab479565c72886d7745b # v5
 
+      - name: Check docs SEO gate (permalinks, llms.txt, JSON-LD, brand block/search-index = brand_names.json)
+        run: python3 scripts/check_seo_docs.py
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@44a6e6beabd48582f863aeeb6cb2151cc1716697 # v1
         with:
