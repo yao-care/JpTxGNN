@@ -185,7 +185,10 @@ def finalize_front_matter(page_path: Path, full_content: str, base_dir: Path) ->
         title = (re.search(r"^title:\s*(.+)$", fm, re.M) or [None, page_path.stem])[1].strip()
         lv = (re.search(r"^evidence_level:\s*(L[1-5])", fm, re.M) or [None, ""])[1]
         rows = dm.summary_rows(body)
-        if rows and lv:
+        kd = re.search(r"<!-- description: (.+?) -->", body)
+        if kd:  # 已知用途頁：description 由報告本身提供（不得寫「預測新適應症」）
+            lines.append("description: " + json.dumps(kd.group(1).strip()[:200], ensure_ascii=False))
+        elif rows and lv:
             orig, pred = (dm.clean(rows[0][1], 70) if rows[0][1] else ""), dm.clean(rows[1][1], 70)
             if pred and pred not in ("無", "None", "-", "なし"):
                 desc = dm.render(dm.T.get(dm.site_lang(base_dir), dm.T["en"]), title, pred, lv, orig)
@@ -277,10 +280,12 @@ def sync_notes_to_docs():
         # 2026-10-17：以「產品名＋劑量」（含片假名／全形字）為名的筆記不產生藥物頁（用戶決定 U-03，網址應為成分名）
         if re.search(r"[\u30a0-\u30ff\uff00-\uffef]", drug_name):
             continue
-        evidence_level = extract_evidence_level(content)
+        # 2026-10-22：已知用途頁（全部預測都是已知用途，用戶決定保持可收錄）：不顯示 L1–L5、預測數 0、不套 L5 noindex
+        known_page = "<!-- known-uses-page -->" in content
+        evidence_level = "N/A" if known_page else extract_evidence_level(content)
         bundle_path = bundles_dir / drug_name / "drug_bundle.json"
-        indication_count = extract_indication_count(content, bundle_path)
-        parent = parent_titles.get(evidence_level)
+        indication_count = 0 if known_page else extract_indication_count(content, bundle_path)
+        parent = parent_titles.get("L5" if known_page else evidence_level)
         if parent is None:
             missing_parent.add(evidence_level)
             parent = evidence_level
