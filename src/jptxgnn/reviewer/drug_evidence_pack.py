@@ -2,6 +2,7 @@
 
 import json
 import re
+from datetime import date as _date
 import shutil
 import tempfile
 import time
@@ -101,6 +102,11 @@ class DrugEvidencePackGenerator:
             seen.add(lid)
             ings = [i for i in (r.get("ingredients") or r.get("主成分略述") or "").split(";;") if i.strip()]
             status = r.get("license_status") or ("cancelled" if _CANCELLED.search(str(r.get("status") or "") + str(r.get("registration_status") or "") + str(r.get("註銷狀態") or "")) else "valid")
+            # 2026-10-21：沒有狀態欄、但有效期已過（Tw 795 筆空白狀態）→ 視為過期失效
+            _exp = re.sub(r"[^0-9]", "", str(r.get("expiry_date") or r.get("有效日期") or ""))[:8]
+            if status == "valid" and not (r.get("status") or r.get("registration_status") or r.get("註銷狀態")) and len(_exp) == 8 \
+                    and _exp < _date.today().strftime("%Y%m%d"):
+                status = "cancelled"
             lics.append({
                 "license_number": lid,
                 "product_name_zh": r.get("brand_name_zh") or r.get("中文品名") or r.get("product") or r.get("product_name", ""),
