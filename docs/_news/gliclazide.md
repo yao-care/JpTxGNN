@@ -3,7 +3,7 @@ layout: default
 title: "グリミクロン錠４０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "グリミクロン錠４０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "グリミクロン錠４０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
 permalink: /news/gliclazide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/gliclazide/
 ---
 
 <p class="key-answer" data-question="グリミクロン錠４０ｍｇ（選） に関するニュースは？">
-<strong>グリミクロン錠４０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>グリミクロン錠４０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ permalink: /news/gliclazide/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>グリクラジド錠20mg「トーワ」 | 錠 | 糖尿病治療薬、血糖降下薬、スルホニル尿素受容体作動薬（インスリン非依存型糖尿病） | 取消 (99.0%)</li>
-<li>グリクラジド錠40mg「トーワ」 | 錠 | 同上 | 取消 (99.0%)</li>
-<li>グリミクロン錠40mg | 錠 | 同上 | 取消 (99.0%)</li>
-<li>グリミクロンHA錠20mg | 錠 | 同上 | 取消 (99.0%)</li>
-<li>グリクラジド錠20mg「NP」 | 錠 | 同上 | 取消 (99.0%)</li>
+<li><strong>予測適応症（1 件）</strong>:<ul>
+<li>focal stiff limb syndrome（限局性硬直肢症候群） (98.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/gliclazide/' | relative_url }}">医薬品レポート全文を見る →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "テグレトール錠１００ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "テグレトール錠１００ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "テグレトール錠１００ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
 permalink: /news/carbamazepine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/carbamazepine/
 ---
 
 <p class="key-answer" data-question="テグレトール錠１００ｍｇ（選） に関するニュースは？">
-<strong>テグレトール錠１００ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>テグレトール錠１００ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ permalink: /news/carbamazepine/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L4</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>テグレトール錠１００ｍｇ | 錠 | 躁病、躁うつ病の躁状態、統合失調症、三叉神経痛（鎮痛薬・抗てんかん薬） (99.0%)</li>
-<li>テグレトール錠２００ｍｇ | 錠 | 躁病、躁うつ病の躁状態、統合失調症、三叉神経痛（鎮痛薬・抗てんかん薬） (99.0%)</li>
-<li>カルバマゼピン錠１００ｍｇ「アメル」 | 錠 | 躁病、躁うつ病の躁状態、統合失調症、三叉神経痛（鎮痛薬・抗てんかん薬） (99.0%)</li>
-<li>カルバマゼピン錠２００ｍｇ「フジナガ」 | 錠 | 躁病、躁うつ病の躁状態、統合失調症、三叉神経痛（鎮痛薬・抗てんかん薬） (99.0%)</li>
-<li>カルバマゼピン細粒５０％「フジナガ」 | 細粒 | 躁病、躁うつ病の躁状態、統合失調症、三叉神経痛（鎮痛薬・抗てんかん薬） (99.0%)</li>
+<li><strong>予測適応症（1 件）</strong>:<ul>
+<li>三叉神経腫瘍 (trigeminal nerve neoplasm) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/carbamazepine/' | relative_url }}">医薬品レポート全文を見る →</a></p>

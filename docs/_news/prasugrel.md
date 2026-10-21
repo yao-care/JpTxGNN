@@ -3,7 +3,7 @@ layout: default
 title: "プラスグレル錠５ｍｇ「ＤＳＥＰ」 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "プラスグレル錠５ｍｇ「ＤＳＥＰ」 に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "プラスグレル錠５ｍｇ「ＤＳＥＰ」 に関する健康ニュース。既存適応症：。予測適応症 1 件。"
 permalink: /news/prasugrel/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/prasugrel/
 ---
 
 <p class="key-answer" data-question="プラスグレル錠５ｍｇ「ＤＳＥＰ」 に関するニュースは？">
-<strong>プラスグレル錠５ｍｇ「ＤＳＥＰ」</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>プラスグレル錠５ｍｇ「ＤＳＥＰ」</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ permalink: /news/prasugrel/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>エフィエント錠５ｍｇ | 錠５ｍｇ | 狭心症、心筋梗塞（血小板凝集抑制薬、P2Y12 阻害薬） (99.0%)</li>
-<li>エフィエント錠３．７５ｍｇ | 錠３．７５ｍｇ | 狭心症、心筋梗塞（血小板凝集抑制薬、P2Y12 阻害薬） (99.0%)</li>
-<li>エフィエント錠２．５ｍｇ | 錠２．５ｍｇ | 狭心症、心筋梗塞（血小板凝集抑制薬、P2Y12 阻害薬） (99.0%)</li>
-<li>プラスグレル錠５ｍｇ「トーワ」 | 錠５ｍｇ「トーワ」 | 狭心症、心筋梗塞（血小板凝集抑制薬、P2Y12 阻害薬） (99.0%)</li>
-<li>プラスグレル錠５ｍｇ「ＤＳＥＰ」 | 錠５ｍｇ「ＤＳＥＰ」 | 狭心症、心筋梗塞（血小板凝集抑制薬、P2Y12 阻害薬） (99.0%)</li>
+<li><strong>予測適応症（1 件）</strong>:<ul>
+<li>肺高血圧症 (Pulmonary Hypertension) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/prasugrel/' | relative_url }}">医薬品レポート全文を見る →</a></p>

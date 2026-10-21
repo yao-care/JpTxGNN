@@ -3,7 +3,7 @@ layout: default
 title: "ヒルドイドフォーム０．３％（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ヒルドイドフォーム０．３％（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "ヒルドイドフォーム０．３％（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
 permalink: /news/heparin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/heparin/
 ---
 
 <p class="key-answer" data-question="ヒルドイドフォーム０．３％（選） に関するニュースは？">
-<strong>ヒルドイドフォーム０．３％（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>ヒルドイドフォーム０．３％（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ permalink: /news/heparin/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L3</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>ヘパリンナトリウム注射液 50,000単位50mL | 注射液 | 抗凝固薬、アンチトロンビンIII活性化薬。汎発性血管内血液凝固症候群、心筋梗塞症 (99.0%)</li>
-<li>ヘパリンナトリウム注 10万単位/100mL「AY」 | 注射液 | 抗凝固薬、アンチトロンビンIII活性化薬。汎発性血管内血液凝固症候群、心筋梗塞症 (99.0%)</li>
-<li>ヘパリンナトリウム注射液 5,000単位5mL | 注射液 | 抗凝固薬、アンチトロンビンIII活性化薬。汎発性血管内血液凝固症候群、心筋梗塞症 (99.0%)</li>
-<li>ヘパリンナトリウム注射液 5,000単位5mL | 注射液 | 抗凝固薬、アンチトロンビンIII活性化薬。汎発性血管内血液凝固症候群、心筋梗塞症 (99.0%)</li>
-<li>ヒルドイドソフト軟膏0.3%（ヘパリン類似物質） | 軟膏 | 抗凝固薬、抗炎症薬。凍瘡 (99.0%)</li>
+<li><strong>予測適応症（1 件）</strong>:<ul>
+<li>椎骨動脈閉塞症 (Vertebral artery occlusion) (94.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/heparin/' | relative_url }}">医薬品レポート全文を見る →</a></p>

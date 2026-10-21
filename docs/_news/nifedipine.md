@@ -3,7 +3,7 @@ layout: default
 title: "アダラートＣＲ錠４０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "アダラートＣＲ錠４０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 7 件。"
+description: "アダラートＣＲ錠４０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 3 件。"
 permalink: /news/nifedipine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/nifedipine/
 ---
 
 <p class="key-answer" data-question="アダラートＣＲ錠４０ｍｇ（選） に関するニュースは？">
-<strong>アダラートＣＲ錠４０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 7 件です。
+<strong>アダラートＣＲ錠４０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 3 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,14 +25,10 @@ permalink: /news/nifedipine/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（7 件）</strong>:<ul>
-<li>ニフェジピンカプセル10mg「サワイ」 | カプセル | 本態性高血圧症、狭心症（血圧降下薬、血管拡張薬、カルシウムチャネル遮断薬） (99.0%)</li>
-<li>セパミット細粒1% | 細粒 | 本態性高血圧症、狭心症 (99.0%)</li>
-<li>ニフェジピン細粒1%「ツルハラ」 | 細粒 | 本態性高血圧症、狭心症 (99.0%)</li>
-<li>ニフェジピン錠10mg「ツルハラ」 | 錠 | 本態性高血圧症、狭心症 (99.0%)</li>
-<li>ニフェジピンL錠20mg「杏林」 | 錠 | （記載なし） (99.0%)</li>
-<li>悪性腎血管性高血圧 | 76.6% | L4（古い小規模報告・症例報告のみ） | Research Question (99.0%)</li>
-<li>肺疾患・低酸素に伴う肺高血圧症 | 77.8% | L4（前臨床・無関係な文献が中心） | Hold (99.0%)</li>
+<li><strong>予測適応症（3 件）</strong>:<ul>
+<li>脳幹性前兆を伴う片頭痛 (Migraine with brainstem aura) (92.6%)</li>
+<li>悪性腎血管性高血圧 (76.6%)</li>
+<li>肺疾患・低酸素に伴う肺高血圧症 (77.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/nifedipine/' | relative_url }}">医薬品レポート全文を見る →</a></p>

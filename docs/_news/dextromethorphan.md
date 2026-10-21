@@ -3,7 +3,7 @@ layout: default
 title: "デキストロメトルファン臭化水素酸塩細粒１０％「ツルハラ」 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "デキストロメトルファン臭化水素酸塩細粒１０％「ツルハラ」 に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "デキストロメトルファン臭化水素酸塩細粒１０％「ツルハラ」 に関する健康ニュース。既存適応症：。予測適応症 1 件。"
 permalink: /news/dextromethorphan/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dextromethorphan/
 ---
 
 <p class="key-answer" data-question="デキストロメトルファン臭化水素酸塩細粒１０％「ツルハラ」 に関するニュースは？">
-<strong>デキストロメトルファン臭化水素酸塩細粒１０％「ツルハラ」</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>デキストロメトルファン臭化水素酸塩細粒１０％「ツルハラ」</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ permalink: /news/dextromethorphan/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>デキストロメトルファン臭化水素酸塩細粒１０％「ツルハラ」 | 細粒 | 鎮咳薬（気管支拡張症） (99.0%)</li>
-<li>メジコン錠１５ｍｇ | 錠剤 | 鎮咳薬（気管支拡張症） (99.0%)</li>
-<li>デキストロメトルファン臭化水素酸塩錠１５ｍｇ「ツルハラ」 | 錠剤 | 鎮咳薬（気管支拡張症） (99.0%)</li>
-<li>デキストロメトルファン臭化水素酸塩錠１５ｍｇ「トーワ」 | 錠剤 | 鎮咳薬（気管支拡張症） (99.0%)</li>
-<li>デキストロメトルファン臭化水素酸塩錠１５ｍｇ「ＮＰ」 | 錠剤 | 鎮咳薬（気管支拡張症） (99.0%)</li>
+<li><strong>予測適応症（1 件）</strong>:<ul>
+<li>鼻腔疾患 (nasal cavity disease) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dextromethorphan/' | relative_url }}">医薬品レポート全文を見る →</a></p>

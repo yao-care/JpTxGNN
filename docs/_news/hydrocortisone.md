@@ -3,7 +3,7 @@ layout: default
 title: "ヘモレックス軟膏 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ヘモレックス軟膏 に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "ヘモレックス軟膏 に関する健康ニュース。既存適応症：。予測適応症 1 件。"
 permalink: /news/hydrocortisone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hydrocortisone/
 ---
 
 <p class="key-answer" data-question="ヘモレックス軟膏 に関するニュースは？">
-<strong>ヘモレックス軟膏</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>ヘモレックス軟膏</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ permalink: /news/hydrocortisone/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L3</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>コートリル錠10mg | 錠 10mg（経口） | 記載なし (99.0%)</li>
-<li>ヒドロコルチゾンリン酸エステルNa静注100mg AFP 2mL | 注射 | 記載なし (99.0%)</li>
-<li>ヒドロコルチゾンリン酸エステルNa静注500mg AFP 10mL | 注射 | 記載なし (99.0%)</li>
-<li>テラ・コートリル軟膏 | 軟膏 | 記載なし (99.0%)</li>
-<li>ロコイド軟膏0.1% | 軟膏 | 記載なし (99.0%)</li>
+<li><strong>予測適応症（1 件）</strong>:<ul>
+<li>円形脱毛症 (Alopecia Areata) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/hydrocortisone/' | relative_url }}">医薬品レポート全文を見る →</a></p>

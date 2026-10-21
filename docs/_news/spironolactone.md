@@ -3,7 +3,7 @@ layout: default
 title: "アルダクトンＡ錠５０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "アルダクトンＡ錠５０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "アルダクトンＡ錠５０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
 permalink: /news/spironolactone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/spironolactone/
 ---
 
 <p class="key-answer" data-question="アルダクトンＡ錠５０ｍｇ（選） に関するニュースは？">
-<strong>アルダクトンＡ錠５０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>アルダクトンＡ錠５０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ permalink: /news/spironolactone/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L2</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>アルダクトンＡ錠２５ｍｇ | 錠２５ｍｇ | 高血圧症、原発性アルドステロン症（取消） (99.0%)</li>
-<li>アルダクトンＡ錠５０ｍｇ | 錠５０ｍｇ | 高血圧症、原発性アルドステロン症（取消） (99.0%)</li>
-<li>スピロノラクトン錠２５ｍｇ「ＣＨ」 | 錠２５ｍｇ「ＣＨ」 | 高血圧症、原発性アルドステロン症（取消） (99.0%)</li>
-<li>スピロノラクトン錠２５ｍｇ「日医工」 | 錠２５ｍｇ「日医工」 | 高血圧症、原発性アルドステロン症（取消） (99.0%)</li>
-<li>スピロノラクトン錠２５ｍｇ「杏林」 | 錠２５ｍｇ「杏林」 | 高血圧症、原発性アルドステロン症（取消） (99.0%)</li>
+<li><strong>予測適応症（1 件）</strong>:<ul>
+<li>脱毛症 (Alopecia)（エビデンスのある上位候補） (97.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/spironolactone/' | relative_url }}">医薬品レポート全文を見る →</a></p>

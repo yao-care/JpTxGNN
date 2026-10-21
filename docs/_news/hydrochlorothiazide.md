@@ -3,7 +3,7 @@ layout: default
 title: "プレミネント配合錠ＨＤ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "プレミネント配合錠ＨＤ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "プレミネント配合錠ＨＤ（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
 permalink: /news/hydrochlorothiazide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hydrochlorothiazide/
 ---
 
 <p class="key-answer" data-question="プレミネント配合錠ＨＤ（選） に関するニュースは？">
-<strong>プレミネント配合錠ＨＤ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>プレミネント配合錠ＨＤ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ permalink: /news/hydrochlorothiazide/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>コディオ配合錠ＭＤ | 錠ＭＤ | 整理済み (99.0%)</li>
-<li>プレミネント配合錠ＨＤ | 錠ＨＤ | 整理済み (99.0%)</li>
-<li>ヒドロクロロチアジドＯＤ錠１２．５ｍｇ「トーワ」 | 錠１２．５ｍｇ「トーワ」 | 整理済み (99.0%)</li>
-<li>バルヒディオ配合錠ＭＤ「ＮＩＧ」 | 錠ＭＤ「ＮＩＧ」 | 整理済み (99.0%)</li>
-<li>テルチア配合錠ＡＰ「ＤＳＥＰ」 | 錠ＡＰ「ＤＳＥＰ」 | 整理済み (99.0%)</li>
+<li><strong>予測適応症（1 件）</strong>:<ul>
+<li>悪性高血圧性腎疾患 (Malignant Hypertensive Renal Disease) (98.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/hydrochlorothiazide/' | relative_url }}">医薬品レポート全文を見る →</a></p>

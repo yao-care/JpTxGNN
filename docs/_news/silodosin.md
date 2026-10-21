@@ -3,7 +3,7 @@ layout: default
 title: "ユリーフＯＤ錠４ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ユリーフＯＤ錠４ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "ユリーフＯＤ錠４ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
 permalink: /news/silodosin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/silodosin/
 ---
 
 <p class="key-answer" data-question="ユリーフＯＤ錠４ｍｇ（選） に関するニュースは？">
-<strong>ユリーフＯＤ錠４ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>ユリーフＯＤ錠４ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ permalink: /news/silodosin/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>ユリーフ錠２ｍｇ | 錠２ｍｇ | 排尿障害改善薬, α1アドレナリン受容体拮抗薬 (99.0%)</li>
-<li>ユリーフ錠４ｍｇ | 錠４ｍｇ | 排尿障害改善薬, α1アドレナリン受容体拮抗薬 (99.0%)</li>
-<li>シロドシン錠４ｍｇ「ＹＤ」 | 錠４ｍｇ「ＹＤ」 | 排尿障害改善薬, α1アドレナリン受容体拮抗薬 (99.0%)</li>
-<li>シロドシン錠４ｍｇ「ニプロ」 | 錠４ｍｇ「ニプロ」 | 排尿障害改善薬, α1アドレナリン受容体拮抗薬 (99.0%)</li>
-<li>シロドシン錠２ｍｇ「トーワ」 | 錠２ｍｇ「トーワ」 | 排尿障害改善薬, α1アドレナリン受容体拮抗薬 (99.0%)</li>
+<li><strong>予測適応症（1 件）</strong>:<ul>
+<li>Ambras 型先天性汎発性多毛症 (Ambras type hypertrichosis universalis congenita) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/silodosin/' | relative_url }}">医薬品レポート全文を見る →</a></p>

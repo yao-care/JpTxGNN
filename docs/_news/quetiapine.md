@@ -3,7 +3,7 @@ layout: default
 title: "セロクエル２００ｍｇ錠（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "セロクエル２００ｍｇ錠（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "セロクエル２００ｍｇ錠（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
 permalink: /news/quetiapine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/quetiapine/
 ---
 
 <p class="key-answer" data-question="セロクエル２００ｍｇ錠（選） に関するニュースは？">
-<strong>セロクエル２００ｍｇ錠（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>セロクエル２００ｍｇ錠（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ permalink: /news/quetiapine/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>セロクエル25mg錠 | 錠 | 統合失調症、双極性障害におけるうつ症状 (99.0%)</li>
-<li>セロクエル100mg錠 | 錠 | 統合失調症、双極性障害におけるうつ症状 (99.0%)</li>
-<li>セロクエル200mg錠 | 錠 | 統合失調症、双極性障害におけるうつ症状 (99.0%)</li>
-<li>セロクエル細粒50% | 細粒50% | 統合失調症、双極性障害におけるうつ症状 (99.0%)</li>
-<li>クエチアピン錠25mg「明治」 | 錠25mg「明治」 | 統合失調症、双極性障害におけるうつ症状 (99.0%)</li>
+<li><strong>予測適応症（1 件）</strong>:<ul>
+<li>網膜ジストロフィー（眼外異常を伴う、または伴わない） (99.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/quetiapine/' | relative_url }}">医薬品レポート全文を見る →</a></p>

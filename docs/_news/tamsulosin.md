@@ -3,7 +3,7 @@ layout: default
 title: "ハルナールＤ錠０．２ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ハルナールＤ錠０．２ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 2 件。"
+description: "ハルナールＤ錠０．２ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
 permalink: /news/tamsulosin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tamsulosin/
 ---
 
 <p class="key-answer" data-question="ハルナールＤ錠０．２ｍｇ（選） に関するニュースは？">
-<strong>ハルナールＤ錠０．２ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 2 件です。
+<strong>ハルナールＤ錠０．２ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,9 +25,8 @@ permalink: /news/tamsulosin/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（2 件）</strong>:<ul>
-<li>タムスロシン塩酸塩カプセル0.2mg「NIG」 | カプセル | 排尿障害改善薬、α1 アドレナリン受容体拮抗薬 (99.0%)</li>
-<li>タムスロシン塩酸塩カプセル0.1mg「NIG」 | カプセル | 排尿障害改善薬、α1 アドレナリン受容体拮抗薬 (99.0%)</li>
+<li><strong>予測適応症（1 件）</strong>:<ul>
+<li>Ambras 型汎発性先天性多毛症 (Ambras type hypertrichosis universalis congenita) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tamsulosin/' | relative_url }}">医薬品レポート全文を見る →</a></p>

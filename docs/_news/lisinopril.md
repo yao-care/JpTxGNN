@@ -3,7 +3,7 @@ layout: default
 title: "ロンゲス錠２０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ロンゲス錠２０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 7 件。"
+description: "ロンゲス錠２０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 3 件。"
 permalink: /news/lisinopril/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lisinopril/
 ---
 
 <p class="key-answer" data-question="ロンゲス錠２０ｍｇ（選） に関するニュースは？">
-<strong>ロンゲス錠２０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 7 件です。
+<strong>ロンゲス錠２０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 3 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,14 +25,10 @@ permalink: /news/lisinopril/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（7 件）</strong>:<ul>
-<li>慢性肺性心 (chronic pulmonary heart disease) | 99.68% | L3 | 慢性肺性心および肺疾患に伴う心不全でのリシノプリルの小規模観察研究が 2 件 (99.0%)</li>
-<li>中隔心筋梗塞 (septal myocardial infarction) | 99.88% | L4 | ACE 阻害薬を併用した心室中隔破裂の症例報告 1 件（関連性は間接的） (99.0%)</li>
-<li>リシノプリル錠１０ｍｇ「トーワ」 | 錠（経口） | 高血圧症（血圧降下薬、ACE 阻害薬） (99.0%)</li>
-<li>ロンゲス錠１０ｍｇ（選） | 錠（経口） | 高血圧症（血圧降下薬、ACE 阻害薬） (99.0%)</li>
-<li>リシノプリル錠２０ｍｇ「ＮＩＧ」 | 錠（経口） | 高血圧症（血圧降下薬、ACE 阻害薬） (99.0%)</li>
-<li>リシノプリル錠５ｍｇ「サワイ」 | 錠（経口） | 高血圧症（血圧降下薬、ACE 阻害薬） (99.0%)</li>
-<li>ロンゲス錠５ｍｇ | 錠（経口） | 高血圧症（血圧降下薬、ACE 阻害薬） (99.0%)</li>
+<li><strong>予測適応症（3 件）</strong>:<ul>
+<li>後下壁心筋梗塞 (posteroinferior myocardial infarction) (99.9%)</li>
+<li>慢性肺性心 (chronic pulmonary heart disease) (99.7%)</li>
+<li>中隔心筋梗塞 (septal myocardial infarction) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lisinopril/' | relative_url }}">医薬品レポート全文を見る →</a></p>

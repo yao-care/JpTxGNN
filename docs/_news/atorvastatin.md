@@ -3,7 +3,7 @@ layout: default
 title: "アトーゼット配合錠ＨＤ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "アトーゼット配合錠ＨＤ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "アトーゼット配合錠ＨＤ（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
 permalink: /news/atorvastatin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/atorvastatin/
 ---
 
 <p class="key-answer" data-question="アトーゼット配合錠ＨＤ（選） に関するニュースは？">
-<strong>アトーゼット配合錠ＨＤ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>アトーゼット配合錠ＨＤ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ permalink: /news/atorvastatin/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L1</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>アトルバスタチン錠１０ｍｇ「ＺＥ」 | 錠 | 脂質異常症治療薬, HMG-CoA還元酵素阻害薬 (99.0%)</li>
-<li>アトルバスタチン錠１０ｍｇ「トーワ」 | 錠 | 脂質異常症治療薬, HMG-CoA還元酵素阻害薬 (99.0%)</li>
-<li>アトルバスタチン錠１０ｍｇ「日医工」 | 錠 | 脂質異常症治療薬, HMG-CoA還元酵素阻害薬 (99.0%)</li>
-<li>アトルバスタチン錠５ｍｇ「ＶＴＲＳ」 | 錠 | 脂質異常症治療薬, HMG-CoA還元酵素阻害薬 (99.0%)</li>
-<li>アマルエット配合錠１番「日医工」 | 錠（配合剤） | 記載なし (99.0%)</li>
+<li><strong>予測適応症（1 件）</strong>:<ul>
+<li>家族性高コレステロール血症 (Familial Hypercholesterolemia) (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/atorvastatin/' | relative_url }}">医薬品レポート全文を見る →</a></p>

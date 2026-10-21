@@ -3,7 +3,7 @@ layout: default
 title: "テノーミン錠５０　５０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "テノーミン錠５０　５０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "テノーミン錠５０　５０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
 permalink: /news/atenolol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/atenolol/
 ---
 
 <p class="key-answer" data-question="テノーミン錠５０　５０ｍｇ（選） に関するニュースは？">
-<strong>テノーミン錠５０　５０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>テノーミン錠５０　５０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ permalink: /news/atenolol/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>テノーミン錠25 | 錠 25 mg | 本態性高血圧症、狭心症、期外収縮 (99.0%)</li>
-<li>テノーミン錠50 | 錠 50 mg | 本態性高血圧症、狭心症、期外収縮 (99.0%)</li>
-<li>アルセノール錠25 | 錠 25 mg | 本態性高血圧症、狭心症、期外収縮 (99.0%)</li>
-<li>アテノロール錠25 mg「サワイ」 | 錠 25 mg | 本態性高血圧症、狭心症、期外収縮 (99.0%)</li>
-<li>アテノロール錠50 mg「トーワ」 | 錠 50 mg | 本態性高血圧症、狭心症、期外収縮 (99.0%)</li>
+<li><strong>予測適応症（1 件）</strong>:<ul>
+<li>後外側心筋梗塞 (Posterolateral Myocardial Infarction) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/atenolol/' | relative_url }}">医薬品レポート全文を見る →</a></p>

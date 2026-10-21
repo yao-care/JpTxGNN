@@ -3,7 +3,7 @@ layout: default
 title: "エンペシドクリーム１％（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "エンペシドクリーム１％（選） に関する健康ニュース。既存適応症：。予測適応症 4 件。"
+description: "エンペシドクリーム１％（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
 permalink: /news/clotrimazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/clotrimazole/
 ---
 
 <p class="key-answer" data-question="エンペシドクリーム１％（選） に関するニュースは？">
-<strong>エンペシドクリーム１％（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 4 件です。
+<strong>エンペシドクリーム１％（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,11 +25,8 @@ permalink: /news/clotrimazole/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（4 件）</strong>:<ul>
-<li>クロトリマゾールクリーム１％「イワキ」 | クリーム | カンジダに起因する腟炎および外陰腟炎、白癬、カンジダ症、癜風、口腔カンジダ症 (99.0%)</li>
-<li>エンペシドクリーム１％（選） | クリーム | カンジダに起因する腟炎および外陰腟炎、白癬、カンジダ症、癜風、口腔カンジダ症 (99.0%)</li>
-<li>エンペシドクリーム１％ | クリーム | カンジダに起因する腟炎および外陰腟炎、白癬、カンジダ症、癜風、口腔カンジダ症 (99.0%)</li>
-<li>クロトリマゾール腟錠１００ｍｇ「Ｆ」 | 錠（腟錠） | 記載なし (99.0%)</li>
+<li><strong>予測適応症（1 件）</strong>:<ul>
+<li>ニキビ (acne) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/clotrimazole/' | relative_url }}">医薬品レポート全文を見る →</a></p>

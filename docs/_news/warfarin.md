@@ -3,7 +3,7 @@ layout: default
 title: "ワルファリンＫ細粒０．２％「ＮＳ」 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ワルファリンＫ細粒０．２％「ＮＳ」 に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "ワルファリンＫ細粒０．２％「ＮＳ」 に関する健康ニュース。既存適応症：。予測適応症 1 件。"
 permalink: /news/warfarin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/warfarin/
 ---
 
 <p class="key-answer" data-question="ワルファリンＫ細粒０．２％「ＮＳ」 に関するニュースは？">
-<strong>ワルファリンＫ細粒０．２％「ＮＳ」</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>ワルファリンＫ細粒０．２％「ＮＳ」</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ permalink: /news/warfarin/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>ワルファリンカリウム錠　２ｍｇ | 錠　２ｍｇ | 抗凝固薬、ビタミンK拮抗薬 (99.0%)</li>
-<li>ワルファリンカリウム錠　０．５ｍｇ | 錠　０．５ｍｇ | 抗凝固薬、ビタミンK拮抗薬 (99.0%)</li>
-<li>ワルファリンカリウム錠　１ｍｇ | 錠　１ｍｇ | 抗凝固薬、ビタミンK拮抗薬 (99.0%)</li>
-<li>ワルファリンカリウム錠　５ｍｇ | 錠　５ｍｇ | 抗凝固薬、ビタミンK拮抗薬 (99.0%)</li>
-<li>ワーファリン錠５ｍｇ | 錠５ｍｇ | － (99.0%)</li>
+<li><strong>予測適応症（1 件）</strong>:<ul>
+<li>血栓性素因 (Thrombophilia)（予測スコア順位1位は ヘパリンコファクターII欠乏症） (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/warfarin/' | relative_url }}">医薬品レポート全文を見る →</a></p>

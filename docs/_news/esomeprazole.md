@@ -3,7 +3,7 @@ layout: default
 title: "ネキシウムカプセル２０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ネキシウムカプセル２０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "ネキシウムカプセル２０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
 permalink: /news/esomeprazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/esomeprazole/
 ---
 
 <p class="key-answer" data-question="ネキシウムカプセル２０ｍｇ（選） に関するニュースは？">
-<strong>ネキシウムカプセル２０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>ネキシウムカプセル２０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ permalink: /news/esomeprazole/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L4</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>ネキシウムカプセル１０ｍｇ | カプセル | 胃酸分泌抑制薬、消化性潰瘍薬、プロトンポンプ阻害薬 (99.0%)</li>
-<li>ネキシウムカプセル２０ｍｇ（選） | カプセル | 胃酸分泌抑制薬、消化性潰瘍薬、プロトンポンプ阻害薬 (99.0%)</li>
-<li>ネキシウムカプセル１０ｍｇ（選） | カプセル | 胃酸分泌抑制薬、消化性潰瘍薬、プロトンポンプ阻害薬 (99.0%)</li>
-<li>エソメプラゾールカプセル２０ｍｇ「ニプロ」 | カプセル | 胃酸分泌抑制薬、消化性潰瘍薬、プロトンポンプ阻害薬 (99.0%)</li>
-<li>ネキシウム懸濁用顆粒分包２０ｍｇ | 顆粒分包 | （記載なし） (99.0%)</li>
+<li><strong>予測適応症（1 件）</strong>:<ul>
+<li>十二指腸胃逆流 (duodenogastric reflux) (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/esomeprazole/' | relative_url }}">医薬品レポート全文を見る →</a></p>

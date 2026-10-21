@@ -3,7 +3,7 @@ layout: default
 title: "ボルタレンサポ５０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ボルタレンサポ５０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "ボルタレンサポ５０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
 permalink: /news/diclofenac/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diclofenac/
 ---
 
 <p class="key-answer" data-question="ボルタレンサポ５０ｍｇ（選） に関するニュースは？">
-<strong>ボルタレンサポ５０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>ボルタレンサポ５０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ permalink: /news/diclofenac/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>ジクロフェナクナトリウム１％クリーム | クリーム | 鎮痛薬、抗炎症薬、解熱薬、シクロオキシゲナーゼ阻害薬 (99.0%)</li>
-<li>ジクロフェナクナトリウム坐剤５０ｍｇ「ＪＧ」 | 坐剤 | 鎮痛薬、抗炎症薬、解熱薬、シクロオキシゲナーゼ阻害薬 (99.0%)</li>
-<li>ジクロフェナクナトリウム０．１％１ｍＬ点眼液 | 液 | 鎮痛薬、抗炎症薬、解熱薬、シクロオキシゲナーゼ阻害薬 (99.0%)</li>
-<li>ジクロフェナクナトリウム坐剤５０ｍｇ「ゼリア」 | 坐剤 | 鎮痛薬、抗炎症薬、解熱薬、シクロオキシゲナーゼ阻害薬 (99.0%)</li>
-<li>ジクロフェナクＮａ錠２５ｍｇ「ＴＣＫ」 | 錠 | 記載なし (99.0%)</li>
+<li><strong>予測適応症（1 件）</strong>:<ul>
+<li>頭皮の単純性乏毛症 (hypotrichosis simplex of the scalp) (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/diclofenac/' | relative_url }}">医薬品レポート全文を見る →</a></p>

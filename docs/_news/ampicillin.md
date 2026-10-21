@@ -3,7 +3,7 @@ layout: default
 title: "ビクシリンＳ配合錠　（２５０ｍｇ） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ビクシリンＳ配合錠　（２５０ｍｇ） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "ビクシリンＳ配合錠　（２５０ｍｇ） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/ampicillin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ampicillin/
 ---
 
 <p class="key-answer" data-question="ビクシリンＳ配合錠　（２５０ｍｇ） に関するニュースは？">
-<strong>ビクシリンＳ配合錠　（２５０ｍｇ）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>ビクシリンＳ配合錠　（２５０ｍｇ）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,17 @@ permalink: /news/ampicillin/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>ビクシリン注射用２ｇ | 注射用２ｇ | 抗生物質（取消） (99.0%)</li>
-<li>ビクシリン注射用０．５ｇ | 注射用０．５ｇ | 抗生物質（取消） (99.0%)</li>
-<li>アンピシリンナトリウム・スルバクタムナトリウム３ｇ静注用 | 注用 | 抗生物質（取消） (99.0%)</li>
-<li>ビクシリンＳ配合錠（２５０ｍｇ） | 錠 | 抗生物質（取消） (99.0%)</li>
-<li>アンピシリンナトリウム・スルバクタムナトリウム１．５ｇ静注用 | 注用 | 抗生物質（取消） (99.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>喉頭炎 (Laryngitis) (100.0%)</li>
+<li>淋菌性尿道炎 (99.4%)</li>
+<li>ウレアプラズマ尿道炎 (99.4%)</li>
+<li>慢性副鼻腔炎 (99.3%)</li>
+<li>慢性篩骨洞炎 (99.3%)</li>
+<li>歯肉炎 (99.3%)</li>
+<li>副鼻腔腫瘍 (99.2%)</li>
+<li>細菌性関節炎 (99.1%)</li>
+<li>結膜炎 (99.0%)</li>
+<li>歯冠周囲炎 (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ampicillin/' | relative_url }}">医薬品レポート全文を見る →</a></p>

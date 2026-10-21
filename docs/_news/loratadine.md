@@ -3,7 +3,7 @@ layout: default
 title: "クラリチン錠１０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "クラリチン錠１０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "クラリチン錠１０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 4 件。"
 permalink: /news/loratadine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/loratadine/
 ---
 
 <p class="key-answer" data-question="クラリチン錠１０ｍｇ（選） に関するニュースは？">
-<strong>クラリチン錠１０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>クラリチン錠１０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 4 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,11 @@ permalink: /news/loratadine/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L3</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>クラリチン錠１０ｍｇ | 錠 | 抗アレルギー薬、H1受容体拮抗薬（アレルギー性鼻炎） (99.0%)</li>
-<li>クラリチン錠１０ｍｇ（選） | 錠 | 抗アレルギー薬、H1受容体拮抗薬（アレルギー性鼻炎） (99.0%)</li>
-<li>ロラタジン錠１０ｍｇ「日新」 | 錠 | 抗アレルギー薬、H1受容体拮抗薬（アレルギー性鼻炎） (99.0%)</li>
-<li>ロラタジンドライシロップ１％「日医工」 | ドライシロップ | 抗アレルギー薬、H1受容体拮抗薬（アレルギー性鼻炎） (99.0%)</li>
-<li>ロラタジン錠１０ｍｇ「日医工」 | 錠 | 抗アレルギー薬、H1受容体拮抗薬（アレルギー性鼻炎） (99.0%)</li>
+<li><strong>予測適応症（4 件）</strong>:<ul>
+<li>アレルギー性蕁麻疹 (Allergic Urticaria) (99.0%)</li>
+<li>鼻腔疾患 (99.0%)</li>
+<li>寒冷蕁麻疹 (96.2%)</li>
+<li>三叉神経・自律神経性頭痛 (80.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/loratadine/' | relative_url }}">医薬品レポート全文を見る →</a></p>

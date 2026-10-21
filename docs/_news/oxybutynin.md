@@ -3,7 +3,7 @@ layout: default
 title: "ポラキス錠１　１ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ポラキス錠１　１ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "ポラキス錠１　１ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
 permalink: /news/oxybutynin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/oxybutynin/
 ---
 
 <p class="key-answer" data-question="ポラキス錠１　１ｍｇ（選） に関するニュースは？">
-<strong>ポラキス錠１　１ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>ポラキス錠１　１ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ permalink: /news/oxybutynin/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>オキシブチニン塩酸塩錠３ｍｇ「サワイ」 | 錠３ｍｇ「サワイ」 | 頻尿治療薬、過活動膀胱用薬、ムスカリン受容体拮抗薬 (99.0%)</li>
-<li>オキシブチニン塩酸塩１ｍｇ錠 | 錠 | 頻尿治療薬、過活動膀胱用薬、ムスカリン受容体拮抗薬 (99.0%)</li>
-<li>ポラキス錠１　１ｍｇ（選） | 錠１　１ｍｇ（選） | 頻尿治療薬、過活動膀胱用薬、ムスカリン受容体拮抗薬 (99.0%)</li>
-<li>ポラキス錠２　２ｍｇ（選） | 錠２　２ｍｇ（選） | 頻尿治療薬、過活動膀胱用薬、ムスカリン受容体拮抗薬 (99.0%)</li>
-<li>オキシブチニン塩酸塩２ｍｇ錠 | 錠 | 頻尿治療薬、過活動膀胱用薬、ムスカリン受容体拮抗薬 (99.0%)</li>
+<li><strong>予測適応症（1 件）</strong>:<ul>
+<li>下肢静止不能症候群 (Restless Legs Syndrome) (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/oxybutynin/' | relative_url }}">医薬品レポート全文を見る →</a></p>

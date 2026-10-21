@@ -3,7 +3,7 @@ layout: default
 title: "シルデナフィル錠２０ｍｇＲＥ「ＪＧ」 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "シルデナフィル錠２０ｍｇＲＥ「ＪＧ」 に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "シルデナフィル錠２０ｍｇＲＥ「ＪＧ」 に関する健康ニュース。既存適応症：。予測適応症 1 件。"
 permalink: /news/sildenafil/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/sildenafil/
 ---
 
 <p class="key-answer" data-question="シルデナフィル錠２０ｍｇＲＥ「ＪＧ」 に関するニュースは？">
-<strong>シルデナフィル錠２０ｍｇＲＥ「ＪＧ」</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>シルデナフィル錠２０ｍｇＲＥ「ＪＧ」</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ permalink: /news/sildenafil/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>レバチオ錠２０ｍｇ | 錠２０ｍｇ | 肺動脈性肺高血圧症（血管拡張薬、勃起不全治療薬、ホスホジエステラーゼV阻害薬） (99.0%)</li>
-<li>シルデナフィル錠２０ｍｇＲＥ「ＪＧ」 | 錠２０ｍｇＲＥ「ＪＧ」 | 肺動脈性肺高血圧症（血管拡張薬、勃起不全治療薬、ホスホジエステラーゼV阻害薬） (99.0%)</li>
-<li>バイアグラ錠５０ｍｇ | 錠５０ｍｇ | 記載なし (99.0%)</li>
-<li>バイアグラ錠２５ｍｇ | 錠２５ｍｇ | 記載なし (99.0%)</li>
-<li>レバチオＯＤフィルム２０ｍｇ | 記載なし | 記載なし (99.0%)</li>
+<li><strong>予測適応症（1 件）</strong>:<ul>
+<li>Ambras 型汎発性先天性多毛症 (Ambras type hypertrichosis universalis congenita) (98.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/sildenafil/' | relative_url }}">医薬品レポート全文を見る →</a></p>

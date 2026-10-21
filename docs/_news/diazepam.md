@@ -3,7 +3,7 @@ layout: default
 title: "ホリゾン錠５ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ホリゾン錠５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "ホリゾン錠５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
 permalink: /news/diazepam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diazepam/
 ---
 
 <p class="key-answer" data-question="ホリゾン錠５ｍｇ（選） に関するニュースは？">
-<strong>ホリゾン錠５ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>ホリゾン錠５ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ permalink: /news/diazepam/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L4</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>10mg セルシン錠 | 錠 | 抗不安薬、抗てんかん薬、マイナートランキライザー、催眠鎮静薬（神経症における不安、うつ病、熱性けいれん） (99.0%)</li>
-<li>ホリゾン錠 2mg | 錠 | 抗不安薬、抗てんかん薬、マイナートランキライザー、催眠鎮静薬（神経症における不安、うつ病、熱性けいれん） (99.0%)</li>
-<li>ホリゾン錠 5mg | 錠 | 抗不安薬、抗てんかん薬、マイナートランキライザー、催眠鎮静薬（神経症における不安、うつ病、熱性けいれん） (99.0%)</li>
-<li>ジアゼパム注射液 10mg「NIG」 | 注射液 | 抗不安薬、抗てんかん薬、マイナートランキライザー、催眠鎮静薬（神経症における不安、うつ病、熱性けいれん） (99.0%)</li>
-<li>ジアゼパム錠 2mg「タイホウ」 | 錠 | 抗不安薬、抗てんかん薬、マイナートランキライザー、催眠鎮静薬（神経症における不安、うつ病、熱性けいれん） (99.0%)</li>
+<li><strong>予測適応症（1 件）</strong>:<ul>
+<li>不眠症 (insomnia) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/diazepam/' | relative_url }}">医薬品レポート全文を見る →</a></p>

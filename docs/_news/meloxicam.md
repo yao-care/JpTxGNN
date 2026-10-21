@@ -3,7 +3,7 @@ layout: default
 title: "モービック錠１０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "モービック錠１０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "モービック錠１０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
 permalink: /news/meloxicam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/meloxicam/
 ---
 
 <p class="key-answer" data-question="モービック錠１０ｍｇ（選） に関するニュースは？">
-<strong>モービック錠１０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>モービック錠１０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ permalink: /news/meloxicam/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>モービック錠５ｍｇ | 錠５ｍｇ | 関節リウマチ（鎮痛薬、抗炎症薬、シクロオキシゲナーゼ2阻害薬） (99.0%)</li>
-<li>モービック錠１０ｍｇ | 錠１０ｍｇ | 関節リウマチ（鎮痛薬、抗炎症薬、シクロオキシゲナーゼ2阻害薬） (99.0%)</li>
-<li>メロキシカム錠５ｍｇ「タカタ」 | 錠５ｍｇ「タカタ」 | 関節リウマチ（鎮痛薬、抗炎症薬、シクロオキシゲナーゼ2阻害薬） (99.0%)</li>
-<li>メロキシカム錠１０ｍｇ「サワイ」 | 錠１０ｍｇ「サワイ」 | 関節リウマチ（鎮痛薬、抗炎症薬、シクロオキシゲナーゼ2阻害薬） (99.0%)</li>
-<li>メロキシカム錠１０ｍｇ「日医工」 | 錠１０ｍｇ「日医工」 | 関節リウマチ（鎮痛薬、抗炎症薬、シクロオキシゲナーゼ2阻害薬） (99.0%)</li>
+<li><strong>予測適応症（1 件）</strong>:<ul>
+<li>肢中間部異形成症 Hunter-Thompson 型 (acromesomelic dysplasia, Hunter-Thompson type) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/meloxicam/' | relative_url }}">医薬品レポート全文を見る →</a></p>

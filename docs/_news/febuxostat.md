@@ -3,7 +3,7 @@ layout: default
 title: "フェブリク錠４０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "フェブリク錠４０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "フェブリク錠４０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
 permalink: /news/febuxostat/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/febuxostat/
 ---
 
 <p class="key-answer" data-question="フェブリク錠４０ｍｇ（選） に関するニュースは？">
-<strong>フェブリク錠４０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>フェブリク錠４０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ permalink: /news/febuxostat/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L4</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>フェブキソスタット錠20mg「DSEP」 | 錠 | 痛風 (99.0%)</li>
-<li>フェブキソスタット錠40mg「杏林」 | 錠 | 痛風 (99.0%)</li>
-<li>フェブリク錠10mg（選） | 錠 | 痛風 (99.0%)</li>
-<li>フェブキソスタット錠10mg「トーワ」 | 錠 | 痛風 (99.0%)</li>
-<li>フェブリク錠40mg（選） | 錠 | 痛風 (99.0%)</li>
+<li><strong>予測適応症（1 件）</strong>:<ul>
+<li>腎性低尿酸血症 (hypouricemia, renal) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/febuxostat/' | relative_url }}">医薬品レポート全文を見る →</a></p>

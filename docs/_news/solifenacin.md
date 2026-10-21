@@ -3,7 +3,7 @@ layout: default
 title: "ベシケアＯＤ錠５ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ベシケアＯＤ錠５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "ベシケアＯＤ錠５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
 permalink: /news/solifenacin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/solifenacin/
 ---
 
 <p class="key-answer" data-question="ベシケアＯＤ錠５ｍｇ（選） に関するニュースは？">
-<strong>ベシケアＯＤ錠５ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>ベシケアＯＤ錠５ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ permalink: /news/solifenacin/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>ベシケア錠５ｍｇ | 錠 | 整理済み (99.0%)</li>
-<li>ベシケア錠２．５ｍｇ | 錠 | 整理済み (99.0%)</li>
-<li>ベシケアＯＤ錠５ｍｇ | 錠（OD） | 整理済み (99.0%)</li>
-<li>ベシケアＯＤ錠２．５ｍｇ | 錠（OD） | 整理済み (99.0%)</li>
-<li>ソリフェナシンコハク酸塩錠５ｍｇ「トーワ」 | 錠 | 整理済み (99.0%)</li>
+<li><strong>予測適応症（1 件）</strong>:<ul>
+<li>多発性嚢胞腎 3 型（多発性嚢胞肝を伴う場合を含む） (97.1%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/solifenacin/' | relative_url }}">医薬品レポート全文を見る →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "ディオバンＯＤ錠１６０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ディオバンＯＤ錠１６０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "ディオバンＯＤ錠１６０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
 permalink: /news/valsartan/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/valsartan/
 ---
 
 <p class="key-answer" data-question="ディオバンＯＤ錠１６０ｍｇ（選） に関するニュースは？">
-<strong>ディオバンＯＤ錠１６０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>ディオバンＯＤ錠１６０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ permalink: /news/valsartan/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L4</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>バルサルタン錠80mg「JG」 | 錠80mg | 高血圧症（降圧薬、ARB） (99.0%)</li>
-<li>バルサルタン錠80mg「FFP」 | 錠80mg | 高血圧症（降圧薬、ARB） (99.0%)</li>
-<li>ディオバン錠80mg（選） | 錠80mg | 高血圧症（降圧薬、ARB） (99.0%)</li>
-<li>ディオバン錠20mg | 錠20mg | 高血圧症（降圧薬、ARB） (99.0%)</li>
-<li>バルサルタン錠80mg「日医工」 | 錠80mg | 高血圧症（降圧薬、ARB） (99.0%)</li>
+<li><strong>予測適応症（1 件）</strong>:<ul>
+<li>悪性高血圧性腎疾患 (malignant hypertensive renal disease) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/valsartan/' | relative_url }}">医薬品レポート全文を見る →</a></p>

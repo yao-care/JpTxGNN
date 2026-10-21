@@ -3,7 +3,7 @@ layout: default
 title: "ラグノスＮＦ経口ゼリー分包１２ｇ　５４．１６７％ 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ラグノスＮＦ経口ゼリー分包１２ｇ　５４．１６７％ に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "ラグノスＮＦ経口ゼリー分包１２ｇ　５４．１６７％ に関する健康ニュース。既存適応症：。予測適応症 1 件。"
 permalink: /news/lactulose/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lactulose/
 ---
 
 <p class="key-answer" data-question="ラグノスＮＦ経口ゼリー分包１２ｇ　５４．１６７％ に関するニュースは？">
-<strong>ラグノスＮＦ経口ゼリー分包１２ｇ　５４．１６７％</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>ラグノスＮＦ経口ゼリー分包１２ｇ　５４．１６７％</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ permalink: /news/lactulose/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L3</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>ラクツロース65%シロップ（取り消し） | シロップ | 高アンモニア血症治療薬、緩下剤 (99.0%)</li>
-<li>ラクツロースシロップ65%「タカタ」（取り消し） | シロップ | 高アンモニア血症治療薬、緩下剤 (99.0%)</li>
-<li>ラクツロースシロップ65%「NIG」（取り消し） | シロップ | 高アンモニア血症治療薬、緩下剤 (99.0%)</li>
-<li>ラグノスNF経口ゼリー分包12g 54.167%（取り消し） | — | — (99.0%)</li>
-<li>ラクツロース・シロップ60%「コーワ」（取り消し） | シロップ | — (99.0%)</li>
+<li><strong>予測適応症（1 件）</strong>:<ul>
+<li>閉塞性黄疸 (Obstructive Jaundice)（TxGNN 第3位。第1位の急性尿酸腎症は根拠となる研究がないため評価対象外） (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lactulose/' | relative_url }}">医薬品レポート全文を見る →</a></p>

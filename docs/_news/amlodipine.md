@@ -3,7 +3,7 @@ layout: default
 title: "エックスフォージ配合ＯＤ錠（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "エックスフォージ配合ＯＤ錠（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "エックスフォージ配合ＯＤ錠（選） に関する健康ニュース。既存適応症：。予測適応症 4 件。"
 permalink: /news/amlodipine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/amlodipine/
 ---
 
 <p class="key-answer" data-question="エックスフォージ配合ＯＤ錠（選） に関するニュースは？">
-<strong>エックスフォージ配合ＯＤ錠（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>エックスフォージ配合ＯＤ錠（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 4 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,11 @@ permalink: /news/amlodipine/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>ノルバスク錠２．５ｍｇ | 錠２．５ｍｇ | 血圧降下薬、血管拡張薬、カルシウムチャネル遮断薬 (99.0%)</li>
-<li>ノルバスク錠５ｍｇ（選） | 錠５ｍｇ（選） | 血圧降下薬、血管拡張薬、カルシウムチャネル遮断薬 (99.0%)</li>
-<li>アムロジピン錠２．５ｍｇ「科研」 | 錠２．５ｍｇ「科研」 | 血圧降下薬、血管拡張薬、カルシウムチャネル遮断薬 (99.0%)</li>
-<li>アムロジピン錠１０ｍｇ「トーワ」 | 錠１０ｍｇ「トーワ」 | 血圧降下薬、血管拡張薬、カルシウムチャネル遮断薬 (99.0%)</li>
-<li>アムロジピン錠５ｍｇ「ＤＳＥＰ」 | 錠５ｍｇ「ＤＳＥＰ」 | 血圧降下薬、血管拡張薬、カルシウムチャネル遮断薬 (99.0%)</li>
+<li><strong>予測適応症（4 件）</strong>:<ul>
+<li>脳幹梗塞 (Brain Stem Infarction) (99.9%)</li>
+<li>脳内出血 (Intracerebral Hemorrhage) (99.8%)</li>
+<li>脳動脈閉塞 (Cerebral Artery Occlusion) (99.9%)</li>
+<li>肺高血圧症（低酸素・肺疾患に伴うもの） (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/amlodipine/' | relative_url }}">医薬品レポート全文を見る →</a></p>

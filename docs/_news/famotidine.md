@@ -3,7 +3,7 @@ layout: default
 title: "ガスター錠１０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ガスター錠１０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "ガスター錠１０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
 permalink: /news/famotidine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/famotidine/
 ---
 
 <p class="key-answer" data-question="ガスター錠１０ｍｇ（選） に関するニュースは？">
-<strong>ガスター錠１０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>ガスター錠１０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ permalink: /news/famotidine/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L3</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>ガスター錠10mg | 錠 10mg | 胃潰瘍、十二指腸潰瘍、吻合部潰瘍、逆流性食道炎、Zollinger-Ellison 症候群 (99.0%)</li>
-<li>ファモチジン錠10mg「日新」 | 錠 10mg | 胃潰瘍、十二指腸潰瘍、吻合部潰瘍、逆流性食道炎、Zollinger-Ellison 症候群 (99.0%)</li>
-<li>ファモチジン注射用20mg「タカタ」 | 注射用 | 胃潰瘍、十二指腸潰瘍、吻合部潰瘍、逆流性食道炎、Zollinger-Ellison 症候群 (99.0%)</li>
-<li>ファモチジン2％散 | 散 | 胃潰瘍、十二指腸潰瘍、吻合部潰瘍、逆流性食道炎、Zollinger-Ellison 症候群 (99.0%)</li>
-<li>ガスターD錠10mg | 錠 10mg | （記載なし） (99.0%)</li>
+<li><strong>予測適応症（1 件）</strong>:<ul>
+<li>十二指腸胃逆流 (duodenogastric reflux) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/famotidine/' | relative_url }}">医薬品レポート全文を見る →</a></p>

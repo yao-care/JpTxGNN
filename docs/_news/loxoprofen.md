@@ -3,7 +3,7 @@ layout: default
 title: "ロキソニンゲル１％（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ロキソニンゲル１％（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "ロキソニンゲル１％（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
 permalink: /news/loxoprofen/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/loxoprofen/
 ---
 
 <p class="key-answer" data-question="ロキソニンゲル１％（選） に関するニュースは？">
-<strong>ロキソニンゲル１％（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>ロキソニンゲル１％（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ permalink: /news/loxoprofen/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>ロキソプロフェンＮａ錠６０ｍｇ「あすか」 | 錠 60 mg | （記載なし）※取消 (99.0%)</li>
-<li>ロキソプロフェンＮａパップ１００ｍｇ「ＪＧ」 | パップ 100 mg | （記載なし）※取消 (99.0%)</li>
-<li>ロキソプロフェンＮａテープ１００ｍｇ「ＪＧ」 | テープ 100 mg | （記載なし）※取消 (99.0%)</li>
-<li>ロキソプロフェンＮａテープ５０ｍｇ「トーワ」 | テープ 50 mg | （記載なし）※取消 (99.0%)</li>
-<li>ロキソプロフェンＮａ錠６０ｍｇ「武田テバ」 | 錠 60 mg | （記載なし）※取消 (99.0%)</li>
+<li><strong>予測適応症（1 件）</strong>:<ul>
+<li>コロボーマ性小眼球症－根肢近位型異形成症候群 (colobomatous microphthalmia-rhizomelic dysplasia syndrome) (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/loxoprofen/' | relative_url }}">医薬品レポート全文を見る →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "ダパグリフロジン錠１０ｍｇ「サワイ」 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ダパグリフロジン錠１０ｍｇ「サワイ」 に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "ダパグリフロジン錠１０ｍｇ「サワイ」 に関する健康ニュース。既存適応症：。予測適応症 1 件。"
 permalink: /news/dapagliflozin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dapagliflozin/
 ---
 
 <p class="key-answer" data-question="ダパグリフロジン錠１０ｍｇ「サワイ」 に関するニュースは？">
-<strong>ダパグリフロジン錠１０ｍｇ「サワイ」</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>ダパグリフロジン錠１０ｍｇ「サワイ」</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ permalink: /news/dapagliflozin/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>フォシーガ錠10mg | 錠10mg | 2型糖尿病 | 取消 (99.0%)</li>
-<li>フォシーガ錠5mg | 錠5mg | 2型糖尿病 | 取消 (99.0%)</li>
-<li>ダパグリフロジン錠10mg「サワイ」 | 錠10mg「サワイ」 | 2型糖尿病 | 取消 (99.0%)</li>
-<li>ダパグリフロジン錠5mg「サワイ」 | 錠5mg「サワイ」 | 2型糖尿病 | 取消 (99.0%)</li>
-<li>ダパグリフロジン錠10mg「TSP」 | 錠10mg「TSP」 | 2型糖尿病 | 取消 (99.0%)</li>
+<li><strong>予測適応症（1 件）</strong>:<ul>
+<li>限局性スティッフリム症候群 (focal stiff limb syndrome) (98.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dapagliflozin/' | relative_url }}">医薬品レポート全文を見る →</a></p>

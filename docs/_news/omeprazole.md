@@ -3,7 +3,7 @@ layout: default
 title: "オメプラゾール１０ｍｇ腸溶錠 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "オメプラゾール１０ｍｇ腸溶錠 に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "オメプラゾール１０ｍｇ腸溶錠 に関する健康ニュース。既存適応症：。予測適応症 1 件。"
 permalink: /news/omeprazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/omeprazole/
 ---
 
 <p class="key-answer" data-question="オメプラゾール１０ｍｇ腸溶錠 に関するニュースは？">
-<strong>オメプラゾール１０ｍｇ腸溶錠</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>オメプラゾール１０ｍｇ腸溶錠</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ permalink: /news/omeprazole/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L3</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>オメプラール錠１０ | 錠 10 mg | 胃潰瘍、十二指腸潰瘍、吻合部潰瘍、逆流性食道炎、非びらん性胃食道逆流症、Zollinger-Ellison 症候群... (99.0%)</li>
-<li>オメプラール錠２０ | 錠 20 mg | 胃潰瘍、十二指腸潰瘍、吻合部潰瘍、逆流性食道炎、非びらん性胃食道逆流症、Zollinger-Ellison 症候群... (99.0%)</li>
-<li>オメプラゾール腸溶錠１０ｍｇ「武田テバ」 | 錠 10 mg | 胃潰瘍、十二指腸潰瘍、吻合部潰瘍、逆流性食道炎、非びらん性胃食道逆流症、Zollinger-Ellison 症候群... (99.0%)</li>
-<li>オメプラゾール注用２０ｍｇ「ＴＹＫ」 | 注用 20 mg | 胃潰瘍、十二指腸潰瘍、吻合部潰瘍、逆流性食道炎、非びらん性胃食道逆流症、Zollinger-Ellison 症候群... (99.0%)</li>
-<li>オメプラゾール錠２０ｍｇ「トーワ」 | 錠 20 mg | 胃潰瘍、十二指腸潰瘍、吻合部潰瘍、逆流性食道炎、非びらん性胃食道逆流症、Zollinger-Ellison 症候群... (99.0%)</li>
+<li><strong>予測適応症（1 件）</strong>:<ul>
+<li>十二指腸胃逆流 (duodenogastric reflux) (99.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/omeprazole/' | relative_url }}">医薬品レポート全文を見る →</a></p>

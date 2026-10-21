@@ -3,7 +3,7 @@ layout: default
 title: "プラビックス錠７５ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "プラビックス錠７５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "プラビックス錠７５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
 permalink: /news/clopidogrel/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/clopidogrel/
 ---
 
 <p class="key-answer" data-question="プラビックス錠７５ｍｇ（選） に関するニュースは？">
-<strong>プラビックス錠７５ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>プラビックス錠７５ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ permalink: /news/clopidogrel/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L2</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>プラビックス錠75mg | 錠75mg | 抗凝固薬、血小板凝集抑制薬、P2Y12阻害薬 (99.0%)</li>
-<li>クロピドグレル錠25mg「科研」 | 錠25mg | 抗凝固薬、血小板凝集抑制薬、P2Y12阻害薬 (99.0%)</li>
-<li>クロピドグレル錠75mg「科研」 | 錠75mg | 抗凝固薬、血小板凝集抑制薬、P2Y12阻害薬 (99.0%)</li>
-<li>クロピドグレル錠75mg「フェルゼン」 | 錠75mg | 抗凝固薬、血小板凝集抑制薬、P2Y12阻害薬 (99.0%)</li>
-<li>クロピドグレル錠75mg「明治」 | 錠75mg | 抗凝固薬、血小板凝集抑制薬、P2Y12阻害薬 (99.0%)</li>
+<li><strong>予測適応症（1 件）</strong>:<ul>
+<li>片頭痛 (Migraine Disorder)。順位 1 位は脳幹性前兆を伴う片頭痛 (Migraine with Brainstem Aura、スコア 99.44%、エビデンスレベル L4) (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/clopidogrel/' | relative_url }}">医薬品レポート全文を見る →</a></p>

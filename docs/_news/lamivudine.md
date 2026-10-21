@@ -3,7 +3,7 @@ layout: default
 title: "エプジコム配合錠（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "エプジコム配合錠（選） に関する健康ニュース。既存適応症：。予測適応症 3 件。"
+description: "エプジコム配合錠（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
 permalink: /news/lamivudine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lamivudine/
 ---
 
 <p class="key-answer" data-question="エプジコム配合錠（選） に関するニュースは？">
-<strong>エプジコム配合錠（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 3 件です。
+<strong>エプジコム配合錠（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,10 +25,8 @@ permalink: /news/lamivudine/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L4</li>
-<li><strong>予測適応症（3 件）</strong>:<ul>
-<li>ラバミコム配合錠「アメル」 | 錠 | 整理済み (99.0%)</li>
-<li>エプジコム配合錠（選） | 錠 | 整理済み (99.0%)</li>
-<li>エプジコム配合錠 | 錠 | 整理済み (99.0%)</li>
+<li><strong>予測適応症（1 件）</strong>:<ul>
+<li>サル免疫不全ウイルス感染症 (Simian Immunodeficiency Virus Infection) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lamivudine/' | relative_url }}">医薬品レポート全文を見る →</a></p>

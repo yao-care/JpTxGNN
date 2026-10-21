@@ -3,7 +3,7 @@ layout: default
 title: "アマリール０．５ｍｇ錠（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "アマリール０．５ｍｇ錠（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "アマリール０．５ｍｇ錠（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
 permalink: /news/glimepiride/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/glimepiride/
 ---
 
 <p class="key-answer" data-question="アマリール０．５ｍｇ錠（選） に関するニュースは？">
-<strong>アマリール０．５ｍｇ錠（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>アマリール０．５ｍｇ錠（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ permalink: /news/glimepiride/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>グリメピリド錠３ｍｇ「ＮＣ」 | 錠 | 2型糖尿病（スルホニル尿素系血糖降下薬） (99.0%)</li>
-<li>グリメピリド錠０．５ｍｇ「フェルゼン」 | 錠 | 2型糖尿病（スルホニル尿素系血糖降下薬） (99.0%)</li>
-<li>グリメピリド錠０．５ｍｇ「サンド」 | 錠 | 2型糖尿病（スルホニル尿素系血糖降下薬） (99.0%)</li>
-<li>アマリール３ｍｇ錠（選） | 錠 | 2型糖尿病（スルホニル尿素系血糖降下薬） (99.0%)</li>
-<li>アマリール０．５ｍｇ錠（選） | 錠 | 2型糖尿病（スルホニル尿素系血糖降下薬） (99.0%)</li>
+<li><strong>予測適応症（1 件）</strong>:<ul>
+<li>古典的スティッフパーソン症候群 (Classic Stiff Person Syndrome) (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/glimepiride/' | relative_url }}">医薬品レポート全文を見る →</a></p>

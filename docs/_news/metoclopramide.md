@@ -3,7 +3,7 @@ layout: default
 title: "プリンペラン錠５　５ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "プリンペラン錠５　５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "プリンペラン錠５　５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
 permalink: /news/metoclopramide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/metoclopramide/
 ---
 
 <p class="key-answer" data-question="プリンペラン錠５　５ｍｇ（選） に関するニュースは？">
-<strong>プリンペラン錠５　５ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>プリンペラン錠５　５ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ permalink: /news/metoclopramide/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L4</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>プリンペラン錠５ ５ｍｇ | 錠 | 制吐薬、消化管運動改善薬、ドパミンD2受容体拮抗薬 胃・十二指腸潰瘍 (99.0%)</li>
-<li>プリンペラン細粒２％ | 細粒 | 制吐薬、消化管運動改善薬、ドパミンD2受容体拮抗薬 胃・十二指腸潰瘍 (99.0%)</li>
-<li>メトクロプラミド注１０ｍｇ「ＮＩＧ」 | 注射剤 | 制吐薬、消化管運動改善薬、ドパミンD2受容体拮抗薬 胃・十二指腸潰瘍 (99.0%)</li>
-<li>メトクロプラミド錠５ｍｇ「ＮＩＧ」 | 錠 | 制吐薬、消化管運動改善薬、ドパミンD2受容体拮抗薬 胃・十二指腸潰瘍 (99.0%)</li>
-<li>メトクロプラミド錠５ｍｇ「トーワ」 | 錠 | 制吐薬、消化管運動改善薬、ドパミンD2受容体拮抗薬 胃・十二指腸潰瘍 (99.0%)</li>
+<li><strong>予測適応症（1 件）</strong>:<ul>
+<li>胃潰瘍 (Gastric Ulcer) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/metoclopramide/' | relative_url }}">医薬品レポート全文を見る →</a></p>

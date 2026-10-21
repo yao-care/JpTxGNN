@@ -3,7 +3,7 @@ layout: default
 title: "メバロチン錠５　５ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "メバロチン錠５　５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "メバロチン錠５　５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
 permalink: /news/pravastatin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pravastatin/
 ---
 
 <p class="key-answer" data-question="メバロチン錠５　５ｍｇ（選） に関するニュースは？">
-<strong>メバロチン錠５　５ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>メバロチン錠５　５ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ permalink: /news/pravastatin/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L3</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>メバロチン錠１０ | 錠 10 mg | （記載なし） (99.0%)</li>
-<li>メバロチン錠５（選） | 錠 5 mg | （記載なし） (99.0%)</li>
-<li>プラバスタチンナトリウム錠１０ｍｇ「ＹＤ」 | 錠 10 mg | 高脂血症、家族性高コレステロール血症 (99.0%)</li>
-<li>プラバスタチンナトリウム錠５ｍｇ「ツルハラ」 | 錠 5 mg | 高脂血症、家族性高コレステロール血症 (99.0%)</li>
-<li>メバレクト錠１０ｍｇ | 錠 10 mg | （記載なし） (99.0%)</li>
+<li><strong>予測適応症（1 件）</strong>:<ul>
+<li>ホモ接合体家族性高コレステロール血症 (homozygous familial hypercholesterolemia) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pravastatin/' | relative_url }}">医薬品レポート全文を見る →</a></p>

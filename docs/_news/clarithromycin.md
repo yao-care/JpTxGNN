@@ -3,7 +3,7 @@ layout: default
 title: "クラリス錠５０小児用　５０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "クラリス錠５０小児用　５０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "クラリス錠５０小児用　５０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
 permalink: /news/clarithromycin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/clarithromycin/
 ---
 
 <p class="key-answer" data-question="クラリス錠５０小児用　５０ｍｇ（選） に関するニュースは？">
-<strong>クラリス錠５０小児用　５０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>クラリス錠５０小児用　５０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ permalink: /news/clarithromycin/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>クラリス錠200 200mg | 錠 | （記載なし） (99.0%)</li>
-<li>クラリシッド錠200mg | 錠 | （記載なし） (99.0%)</li>
-<li>クラリスロマイシン錠200mg「CH」 | 錠 | 非結核性抗酸菌症、MAC 症、ヘリコバクター・ピロリ感染症、歯周組織炎、猩紅熱、百日咳 (99.0%)</li>
-<li>クラリスドライシロップ10%小児用 100mg | シロップ | （記載なし） (99.0%)</li>
-<li>クラリスロマイシン錠200mg「トーワ」 | 錠 | 非結核性抗酸菌症、MAC 症、ヘリコバクター・ピロリ感染症、歯周組織炎、猩紅熱、百日咳 (99.0%)</li>
+<li><strong>予測適応症（1 件）</strong>:<ul>
+<li>高アミラーゼ血症 (Hyperamylasemia)（TxGNN 1 位）。ただしエビデンスが最も厚い候補は単クローン性免疫グロブリン血症 (Monoclonal Gammopathy)（7 位） (99.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/clarithromycin/' | relative_url }}">医薬品レポート全文を見る →</a></p>

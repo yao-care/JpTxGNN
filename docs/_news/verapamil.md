@@ -3,7 +3,7 @@ layout: default
 title: "ワソラン錠４０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ワソラン錠４０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "ワソラン錠４０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
 permalink: /news/verapamil/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/verapamil/
 ---
 
 <p class="key-answer" data-question="ワソラン錠４０ｍｇ（選） に関するニュースは？">
-<strong>ワソラン錠４０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>ワソラン錠４０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,17 @@ permalink: /news/verapamil/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>ワソラン錠40mg | 錠 | 抗不整脈薬、血管拡張薬、カルシウムチャネル遮断薬（心房細動、狭心症、心筋梗塞） (99.0%)</li>
-<li>ベラパミル塩酸塩錠40mg「ツルハラ」 | 錠 | 同上 (99.0%)</li>
-<li>ベラパミル塩酸塩0.25％2mL注射液 | 注射液 | 同上 (99.0%)</li>
-<li>ワソラン静注5mg 0.25％2mL | 注射 | （記載なし） (99.0%)</li>
-<li>ベラパミル塩酸塩錠40mg「タイヨー」 | 錠 | 同上 (99.0%)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>閉塞性脚ブロック (obsolete bundle branch block) (99.6%)</li>
+<li>悪性高血圧性腎疾患 (99.3%)</li>
+<li>悪性腎血管性高血圧 (99.3%)</li>
+<li>原因不明の多因子性肺高血圧症 (99.3%)</li>
+<li>肺疾患・低酸素に伴う肺高血圧症 (99.3%)</li>
+<li>Braddock 症候群 (99.2%)</li>
+<li>一過性コンパートメント様症候群を伴う周期性麻痺 (99.1%)</li>
+<li>虚血性脳卒中感受性（obsolete） (98.7%)</li>
+<li>不整脈原性右室心筋症 (98.4%)</li>
+<li>脳幹梗塞 (97.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/verapamil/' | relative_url }}">医薬品レポート全文を見る →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "リポバス錠５　５ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "リポバス錠５　５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "リポバス錠５　５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
 permalink: /news/simvastatin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/simvastatin/
 ---
 
 <p class="key-answer" data-question="リポバス錠５　５ｍｇ（選） に関するニュースは？">
-<strong>リポバス錠５　５ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>リポバス錠５　５ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ permalink: /news/simvastatin/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L1</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>リポバス錠10 | 錠 10 mg | 高脂血症、家族性高コレステロール血症 (99.0%)</li>
-<li>リポバス錠20 | 錠 20 mg | 高脂血症、家族性高コレステロール血症 (99.0%)</li>
-<li>リポバス錠5 | 錠 5 mg | 高脂血症、家族性高コレステロール血症 (99.0%)</li>
-<li>シンバスタチン錠10mg「オーハラ」 | 錠 10 mg | 高脂血症、家族性高コレステロール血症 (99.0%)</li>
-<li>シンバスタチン錠20mg「SW」 | 錠 20 mg | 高脂血症、家族性高コレステロール血症 (99.0%)</li>
+<li><strong>予測適応症（1 件）</strong>:<ul>
+<li>家族性高コレステロール血症 (Familial Hypercholesterolemia) (99.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">医薬品レポート全文を見る →</a></p>

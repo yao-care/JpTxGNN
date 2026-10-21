@@ -3,7 +3,7 @@ layout: default
 title: "ラミシール錠１２５ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ラミシール錠１２５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "ラミシール錠１２５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
 permalink: /news/terbinafine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/terbinafine/
 ---
 
 <p class="key-answer" data-question="ラミシール錠１２５ｍｇ（選） に関するニュースは？">
-<strong>ラミシール錠１２５ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>ラミシール錠１２５ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ permalink: /news/terbinafine/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>ラミシール錠125mg | 錠 | 白癬、カンジダ症、癜風、スポロトリコーシス、クロモミコーシス (99.0%)</li>
-<li>ラミシールクリーム1% | クリーム | 白癬、カンジダ症、癜風、スポロトリコーシス、クロモミコーシス (99.0%)</li>
-<li>テルビナフィン錠125mg「ニプロ」 | 錠 | 白癬、カンジダ症、癜風、スポロトリコーシス、クロモミコーシス (99.0%)</li>
-<li>テルビナフィン錠125mg「サワイ」 | 錠 | 白癬、カンジダ症、癜風、スポロトリコーシス、クロモミコーシス (99.0%)</li>
-<li>テルビナフィン塩酸塩クリーム1%「サワイ」 | クリーム | 白癬、カンジダ症、癜風、スポロトリコーシス、クロモミコーシス (99.0%)</li>
+<li><strong>予測適応症（1 件）</strong>:<ul>
+<li>匍行性ハエ幼虫症 (Creeping Myiasis) (96.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/terbinafine/' | relative_url }}">医薬品レポート全文を見る →</a></p>

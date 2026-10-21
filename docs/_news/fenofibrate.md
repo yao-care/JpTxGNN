@@ -3,7 +3,7 @@ layout: default
 title: "トライコア錠８０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "トライコア錠８０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "トライコア錠８０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
 permalink: /news/fenofibrate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/fenofibrate/
 ---
 
 <p class="key-answer" data-question="トライコア錠８０ｍｇ（選） に関するニュースは？">
-<strong>トライコア錠８０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>トライコア錠８０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ permalink: /news/fenofibrate/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>リピディル錠53.3mg | 錠 | 高脂血症、家族性高脂血症（脂質異常症治療薬、PPARα作動薬） (99.0%)</li>
-<li>トライコア錠53.3mg | 錠 | 高脂血症、家族性高脂血症 (99.0%)</li>
-<li>トライコア錠80mg | 錠 | 高脂血症、家族性高脂血症 (99.0%)</li>
-<li>フェノフィブラート錠80mg「武田テバ」 | 錠 | 高脂血症、家族性高脂血症 (99.0%)</li>
-<li>フェノフィブラート80mg錠 | 錠 | 高脂血症、家族性高脂血症 (99.0%)</li>
+<li><strong>予測適応症（1 件）</strong>:<ul>
+<li>ホモ接合体家族性高コレステロール血症 (homozygous familial hypercholesterolemia) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/fenofibrate/' | relative_url }}">医薬品レポート全文を見る →</a></p>

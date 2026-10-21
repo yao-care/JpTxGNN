@@ -3,7 +3,7 @@ layout: default
 title: "ジェイゾロフトＯＤ錠１００ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ジェイゾロフトＯＤ錠１００ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "ジェイゾロフトＯＤ錠１００ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
 permalink: /news/sertraline/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/sertraline/
 ---
 
 <p class="key-answer" data-question="ジェイゾロフトＯＤ錠１００ｍｇ（選） に関するニュースは？">
-<strong>ジェイゾロフトＯＤ錠１００ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>ジェイゾロフトＯＤ錠１００ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ permalink: /news/sertraline/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>ジェイゾロフト錠25mg（選） | 錠25mg | 抗うつ薬（SSRI）。うつ病・うつ状態、パニック障害 (99.0%)</li>
-<li>セルトラリン錠25mg「NP」 | 錠25mg | 抗うつ薬（SSRI）。うつ病・うつ状態、パニック障害 (99.0%)</li>
-<li>セルトラリン錠100mg「NP」 | 錠100mg | 抗うつ薬（SSRI）。うつ病・うつ状態、パニック障害 (99.0%)</li>
-<li>セルトラリン錠50mg「サワイ」 | 錠50mg | 抗うつ薬（SSRI）。うつ病・うつ状態、パニック障害 (99.0%)</li>
-<li>セルトラリン錠25mg「杏林」 | 錠25mg | 抗うつ薬（SSRI）。うつ病・うつ状態、パニック障害 (99.0%)</li>
+<li><strong>予測適応症（1 件）</strong>:<ul>
+<li>演技性パーソナリティ障害 (histrionic personality disorder) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/sertraline/' | relative_url }}">医薬品レポート全文を見る →</a></p>

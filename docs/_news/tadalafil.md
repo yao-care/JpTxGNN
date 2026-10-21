@@ -3,7 +3,7 @@ layout: default
 title: "ザルティア錠５ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ザルティア錠５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "ザルティア錠５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
 permalink: /news/tadalafil/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tadalafil/
 ---
 
 <p class="key-answer" data-question="ザルティア錠５ｍｇ（選） に関するニュースは？">
-<strong>ザルティア錠５ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>ザルティア錠５ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ permalink: /news/tadalafil/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>アドシルカ錠20mg | 錠 20mg | 血圧降下薬, 勃起不全治療薬, ホスホジエステラーゼV阻害薬 疾患 肺動脈性肺高血圧症 [DS:H01621] (99.0%)</li>
-<li>アドシルカ錠20mg（選） | 錠 20mg（選） | 血圧降下薬, 勃起不全治療薬, ホスホジエステラーゼV阻害薬 疾患 肺動脈性肺高血圧症 [DS:H01621] (99.0%)</li>
-<li>ザルティア錠5mg（選） | 錠 5mg（選） | 血圧降下薬, 勃起不全治療薬, ホスホジエステラーゼV阻害薬 疾患 肺動脈性肺高血圧症 [DS:H01621] (99.0%)</li>
-<li>シアリス錠20mg | 錠 20mg | （記載なし） (99.0%)</li>
-<li>シアリス錠10mg | 錠 10mg | （記載なし） (99.0%)</li>
+<li><strong>予測適応症（1 件）</strong>:<ul>
+<li>Ambras 型汎発性先天性多毛症 (Ambras type hypertrichosis universalis congenita) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tadalafil/' | relative_url }}">医薬品レポート全文を見る →</a></p>

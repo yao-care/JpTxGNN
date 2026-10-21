@@ -3,7 +3,7 @@ layout: default
 title: "パリエット錠２０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "パリエット錠２０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "パリエット錠２０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
 permalink: /news/rabeprazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/rabeprazole/
 ---
 
 <p class="key-answer" data-question="パリエット錠２０ｍｇ（選） に関するニュースは？">
-<strong>パリエット錠２０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>パリエット錠２０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ permalink: /news/rabeprazole/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>ラベプラゾールナトリウム錠20mg「サンド」 | 錠 20mg | 胃酸分泌抑制薬、消化性潰瘍薬、プロトンポンプ阻害薬 胃潰瘍、十二指腸潰瘍、吻合部潰瘍、逆流性食道炎、Zollinger-Ellison症候群... (99.0%)</li>
-<li>ラベプラゾールナトリウム錠5mg「科研」 | 錠 5mg | 胃酸分泌抑制薬、消化性潰瘍薬、プロトンポンプ阻害薬 胃潰瘍、十二指腸潰瘍、吻合部潰瘍、逆流性食道炎、Zollinger-Ellison症候群... (99.0%)</li>
-<li>ラベプラゾールナトリウム錠10mg「サンド」 | 錠 10mg | 胃酸分泌抑制薬、消化性潰瘍薬、プロトンポンプ阻害薬 胃潰瘍、十二指腸潰瘍、吻合部潰瘍、逆流性食道炎、Zollinger-Ellison症候群... (99.0%)</li>
-<li>ラベプラゾールナトリウム錠10mg「ケミファ」 | 錠 10mg | 胃酸分泌抑制薬、消化性潰瘍薬、プロトンポンプ阻害薬 胃潰瘍、十二指腸潰瘍、吻合部潰瘍、逆流性食道炎、Zollinger-Ellison症候群... (99.0%)</li>
-<li>ラベプラゾールナトリウム錠10mg「日医工」 | 錠 10mg | 胃酸分泌抑制薬、消化性潰瘍薬、プロトンポンプ阻害薬 胃潰瘍、十二指腸潰瘍、吻合部潰瘍、逆流性食道炎、Zollinger-Ellison症候群... (99.0%)</li>
+<li><strong>予測適応症（1 件）</strong>:<ul>
+<li>くすぶり型全身性肥満細胞症 (Smouldering systemic mastocytosis) (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/rabeprazole/' | relative_url }}">医薬品レポート全文を見る →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "エルロチニブ錠１５０ｍｇ「ＮＫ」 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "エルロチニブ錠１５０ｍｇ「ＮＫ」 に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "エルロチニブ錠１５０ｍｇ「ＮＫ」 に関する健康ニュース。既存適応症：。予測適応症 1 件。"
 permalink: /news/erlotinib/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/erlotinib/
 ---
 
 <p class="key-answer" data-question="エルロチニブ錠１５０ｍｇ「ＮＫ」 に関するニュースは？">
-<strong>エルロチニブ錠１５０ｍｇ「ＮＫ」</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>エルロチニブ錠１５０ｍｇ「ＮＫ」</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ permalink: /news/erlotinib/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L4</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>タルセバ錠150mg | 錠150mg | 非小細胞肺癌（EGFR遺伝子変異陽性）、膵癌 (99.0%)</li>
-<li>タルセバ錠100mg | 錠100mg | 非小細胞肺癌（EGFR遺伝子変異陽性）、膵癌 (99.0%)</li>
-<li>タルセバ錠25mg | 錠25mg | 非小細胞肺癌（EGFR遺伝子変異陽性）、膵癌 (99.0%)</li>
-<li>エルロチニブ錠150mg「NK」 | 錠150mg「NK」 | 非小細胞肺癌（EGFR遺伝子変異陽性）、膵癌 (99.0%)</li>
-<li>エルロチニブ錠100mg「NK」 | 錠100mg「NK」 | 非小細胞肺癌（EGFR遺伝子変異陽性）、膵癌 (99.0%)</li>
+<li><strong>予測適応症（1 件）</strong>:<ul>
+<li>ユーイング肉腫 (Ewing sarcoma) (95.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/erlotinib/' | relative_url }}">医薬品レポート全文を見る →</a></p>

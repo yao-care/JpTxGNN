@@ -3,7 +3,7 @@ layout: default
 title: "インデラル錠１０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "インデラル錠１０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "インデラル錠１０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
 permalink: /news/propranolol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/propranolol/
 ---
 
 <p class="key-answer" data-question="インデラル錠１０ｍｇ（選） に関するニュースは？">
-<strong>インデラル錠１０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>インデラル錠１０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ permalink: /news/propranolol/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>プロプラノロール塩酸塩10mg錠 | 錠 | 本態性高血圧症、狭心症、期外収縮、頻拍性心房細動、新鮮心房細動、乳児血管腫 (99.0%)</li>
-<li>プロプラノロール塩酸塩錠10mg「ツルハラ」 | 錠 | 本態性高血圧症、狭心症、期外収縮、頻拍性心房細動、新鮮心房細動、乳児血管腫 (99.0%)</li>
-<li>プロプラノロール塩酸塩錠10mg「日医工」 | 錠 | 本態性高血圧症、狭心症、期外収縮、頻拍性心房細動、新鮮心房細動、乳児血管腫 (99.0%)</li>
-<li>インデラル錠10mg | 錠 | 本態性高血圧症、狭心症、期外収縮、頻拍性心房細動、新鮮心房細動、乳児血管腫 (99.0%)</li>
-<li>プロプラノロール塩酸塩錠10mg「トーワ」 | 錠 | 本態性高血圧症、狭心症、期外収縮、頻拍性心房細動、新鮮心房細動、乳児血管腫 (99.0%)</li>
+<li><strong>予測適応症（1 件）</strong>:<ul>
+<li>遠位型ミオパチー・舘山型 (distal myopathy, Tateyama type) (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/propranolol/' | relative_url }}">医薬品レポート全文を見る →</a></p>

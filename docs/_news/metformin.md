@@ -3,7 +3,7 @@ layout: default
 title: "メホビル配合錠ＨＤ「トーワ」 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "メホビル配合錠ＨＤ「トーワ」 に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "メホビル配合錠ＨＤ「トーワ」 に関する健康ニュース。既存適応症：。予測適応症 1 件。"
 permalink: /news/metformin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/metformin/
 ---
 
 <p class="key-answer" data-question="メホビル配合錠ＨＤ「トーワ」 に関するニュースは？">
-<strong>メホビル配合錠ＨＤ「トーワ」</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>メホビル配合錠ＨＤ「トーワ」</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ permalink: /news/metformin/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>グリコラン錠250mg | 錠 250mg | 糖尿病治療薬、血糖降下薬、AMPキナーゼ活性化薬（2型糖尿病、多嚢胞性卵巣症候群） (99.0%)</li>
-<li>メトグルコ錠250mg | 錠 250mg | 記載なし (99.0%)</li>
-<li>メトホルミン塩酸塩錠250mg「SN」 | 錠 250mg | 糖尿病治療薬、血糖降下薬、AMPキナーゼ活性化薬（2型糖尿病、多嚢胞性卵巣症候群） (99.0%)</li>
-<li>メトホルミン塩酸塩錠250mgMT「明治」 | 錠 250mg | 糖尿病治療薬、血糖降下薬、AMPキナーゼ活性化薬（2型糖尿病、多嚢胞性卵巣症候群） (99.0%)</li>
-<li>メトホルミン塩酸塩錠500mgMT「明治」 | 錠 500mg | 糖尿病治療薬、血糖降下薬、AMPキナーゼ活性化薬（2型糖尿病、多嚢胞性卵巣症候群） (99.0%)</li>
+<li><strong>予測適応症（1 件）</strong>:<ul>
+<li>焦点性スティッフリム症候群 (focal stiff limb syndrome) (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/metformin/' | relative_url }}">医薬品レポート全文を見る →</a></p>

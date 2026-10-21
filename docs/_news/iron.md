@@ -3,7 +3,7 @@ layout: default
 title: "クエン酸第一鉄ナトリウム鉄５０ｍｇ錠 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "クエン酸第一鉄ナトリウム鉄５０ｍｇ錠 に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "クエン酸第一鉄ナトリウム鉄５０ｍｇ錠 に関する健康ニュース。既存適応症：。予測適応症 1 件。"
 permalink: /news/iron/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/iron/
 ---
 
 <p class="key-answer" data-question="クエン酸第一鉄ナトリウム鉄５０ｍｇ錠 に関するニュースは？">
-<strong>クエン酸第一鉄ナトリウム鉄５０ｍｇ錠</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>クエン酸第一鉄ナトリウム鉄５０ｍｇ錠</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ permalink: /news/iron/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L3</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>フェロミア錠50mg 鉄50mg | 錠 | 貧血治療薬、造血薬、鉄補充薬 (99.0%)</li>
-<li>クエン酸第一鉄Na錠50mg「NIG」 | 錠 | 貧血治療薬、造血薬、鉄補充薬 (99.0%)</li>
-<li>クエン酸第一鉄Na錠50mg「サワイ」 | 錠 | 貧血治療薬、造血薬、鉄補充薬 (99.0%)</li>
-<li>インクレミンシロップ5% | シロップ | 貧血治療薬、造血薬、鉄補充薬 (99.0%)</li>
-<li>クエン酸第一鉄ナトリウム錠50mg「ツルハラ」 | 錠 | 貧血治療薬、造血薬、鉄補充薬 (99.0%)</li>
+<li><strong>予測適応症（1 件）</strong>:<ul>
+<li>Plummer-Vinson 症候群（予測順位 1 位は B12・葉酸非依存性の体質性巨赤芽球性貧血で、エビデンスがないため Hold） (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/iron/' | relative_url }}">医薬品レポート全文を見る →</a></p>

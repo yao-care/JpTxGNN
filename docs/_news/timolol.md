@@ -3,7 +3,7 @@ layout: default
 title: "デュオトラバ配合点眼液（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "デュオトラバ配合点眼液（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "デュオトラバ配合点眼液（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
 permalink: /news/timolol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/timolol/
 ---
 
 <p class="key-answer" data-question="デュオトラバ配合点眼液（選） に関するニュースは？">
-<strong>デュオトラバ配合点眼液（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>デュオトラバ配合点眼液（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ permalink: /news/timolol/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>チモプトール点眼液0.5% | 点眼液 | 抗緑内障薬、β遮断薬 (99.0%)</li>
-<li>チモプトールXE点眼液0.5% | 点眼液 | 抗緑内障薬、β遮断薬 (99.0%)</li>
-<li>チモプトールXE点眼液0.25% | 点眼液 | 抗緑内障薬、β遮断薬 (99.0%)</li>
-<li>チモロールPF点眼液0.5%「日点」 | 点眼液 | 抗緑内障薬、β遮断薬 (99.0%)</li>
-<li>リズモンTG点眼液0.25% | 点眼液 | 抗緑内障薬、β遮断薬 (99.0%)</li>
+<li><strong>予測適応症（1 件）</strong>:<ul>
+<li>原発性遺伝性緑内障 (primary hereditary glaucoma) (98.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/timolol/' | relative_url }}">医薬品レポート全文を見る →</a></p>

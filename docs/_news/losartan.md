@@ -3,7 +3,7 @@ layout: default
 title: "ニューロタン錠５０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ニューロタン錠５０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "ニューロタン錠５０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
 permalink: /news/losartan/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/losartan/
 ---
 
 <p class="key-answer" data-question="ニューロタン錠５０ｍｇ（選） に関するニュースは？">
-<strong>ニューロタン錠５０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>ニューロタン錠５０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ permalink: /news/losartan/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L4</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>ロサルタンカリウム錠５０ｍｇ「ＺＥ」 | 錠５０ｍｇ「ＺＥ」 | 血圧降下薬、アンジオテンシンII受容体拮抗薬。高血圧症、糖尿病性腎症 (99.0%)</li>
-<li>ロサルタンカリウム錠５０ｍｇ「サワイ」 | 錠５０ｍｇ「サワイ」 | 血圧降下薬、アンジオテンシンII受容体拮抗薬。高血圧症、糖尿病性腎症 (99.0%)</li>
-<li>ロサルタンカリウム錠５０ｍｇ「ＤＫ」 | 錠５０ｍｇ「ＤＫ」 | 血圧降下薬、アンジオテンシンII受容体拮抗薬。高血圧症、糖尿病性腎症 (99.0%)</li>
-<li>ロサルタンカリウム錠１００ｍｇ「ＤＫ」 | 錠１００ｍｇ「ＤＫ」 | 血圧降下薬、アンジオテンシンII受容体拮抗薬。高血圧症、糖尿病性腎症 (99.0%)</li>
-<li>ロサルタンカリウム錠１００ｍｇ「ＴＣＫ」 | 錠１００ｍｇ「ＴＣＫ」 | 血圧降下薬、アンジオテンシンII受容体拮抗薬。高血圧症、糖尿病性腎症 (99.0%)</li>
+<li><strong>予測適応症（1 件）</strong>:<ul>
+<li>悪性高血圧性腎疾患 (Malignant Hypertensive Renal Disease) (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/losartan/' | relative_url }}">医薬品レポート全文を見る →</a></p>

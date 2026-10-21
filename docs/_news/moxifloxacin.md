@@ -3,7 +3,7 @@ layout: default
 title: "ベガモックス点眼液０．５％（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ベガモックス点眼液０．５％（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "ベガモックス点眼液０．５％（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
 permalink: /news/moxifloxacin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/moxifloxacin/
 ---
 
 <p class="key-answer" data-question="ベガモックス点眼液０．５％（選） に関するニュースは？">
-<strong>ベガモックス点眼液０．５％（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>ベガモックス点眼液０．５％（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ permalink: /news/moxifloxacin/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>モキシフロキサシン点眼液０．５％「ニットー」 | 点眼液 | 眼瞼炎、結膜炎 (99.0%)</li>
-<li>モキシフロキサシン点眼液０．５％「日点」 | 点眼液 | 眼瞼炎、結膜炎 (99.0%)</li>
-<li>モキシフロキサシン点眼液０．５％「サンド」 | 点眼液 | 眼瞼炎、結膜炎 (99.0%)</li>
-<li>ベガモックス点眼液０．５％ | 点眼液 | 眼瞼炎、結膜炎 (99.0%)</li>
-<li>アベロックス錠４００ｍｇ | 錠剤（経口） | （記載なし） (99.0%)</li>
+<li><strong>予測適応症（1 件）</strong>:<ul>
+<li>高アミラーゼ血症 (Hyperamylasemia) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/moxifloxacin/' | relative_url }}">医薬品レポート全文を見る →</a></p>

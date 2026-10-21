@@ -3,7 +3,7 @@ layout: default
 title: "ザイロリック錠１００　１００ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ザイロリック錠１００　１００ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "ザイロリック錠１００　１００ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
 permalink: /news/allopurinol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/allopurinol/
 ---
 
 <p class="key-answer" data-question="ザイロリック錠１００　１００ｍｇ（選） に関するニュースは？">
-<strong>ザイロリック錠１００　１００ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>ザイロリック錠１００　１００ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ permalink: /news/allopurinol/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L4</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>ザイロリック錠100 100mg | 錠 | 痛風治療薬、尿酸生合成抑制薬、キサンチンオキシダーゼ阻害薬 痛風 (99.0%)</li>
-<li>アロプリノール錠100mg「TCK」 | 錠 | 痛風治療薬、尿酸生合成抑制薬、キサンチンオキシダーゼ阻害薬 痛風 (99.0%)</li>
-<li>アロプリノール錠50mg「アメル」 | 錠 | 痛風治療薬、尿酸生合成抑制薬、キサンチンオキシダーゼ阻害薬 痛風 (99.0%)</li>
-<li>アロプリノール錠100mg「タカタ」 | 錠 | 痛風治療薬、尿酸生合成抑制薬、キサンチンオキシダーゼ阻害薬 痛風 (99.0%)</li>
-<li>アロプリノール錠50mg「NIG」 | 錠 | 痛風治療薬、尿酸生合成抑制薬、キサンチンオキシダーゼ阻害薬 痛風 (99.0%)</li>
+<li><strong>予測適応症（1 件）</strong>:<ul>
+<li>肝性ポルフィリン症 (Hepatic Porphyria) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/allopurinol/' | relative_url }}">医薬品レポート全文を見る →</a></p>

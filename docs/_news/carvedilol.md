@@ -3,7 +3,7 @@ layout: default
 title: "アーチスト錠２０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "アーチスト錠２０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "アーチスト錠２０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
 permalink: /news/carvedilol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/carvedilol/
 ---
 
 <p class="key-answer" data-question="アーチスト錠２０ｍｇ（選） に関するニュースは？">
-<strong>アーチスト錠２０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>アーチスト錠２０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ permalink: /news/carvedilol/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>アーチスト錠２０ｍｇ | 錠 | 本態性高血圧症、狭心症、拡張型心筋症、頻脈性心房細動 (99.0%)</li>
-<li>アーチスト錠２．５ｍｇ（選） | 錠 | 本態性高血圧症、狭心症、拡張型心筋症、頻脈性心房細動 (99.0%)</li>
-<li>アーチスト錠１０ｍｇ（選） | 錠 | 本態性高血圧症、狭心症、拡張型心筋症、頻脈性心房細動 (99.0%)</li>
-<li>カルベジロール錠２０ｍｇ「ニプロ」 | 錠 | 本態性高血圧症、狭心症、拡張型心筋症、頻脈性心房細動 (99.0%)</li>
-<li>カルベジロール錠１０ｍｇ「トーワ」 | 錠 | 本態性高血圧症、狭心症、拡張型心筋症、頻脈性心房細動 (99.0%)</li>
+<li><strong>予測適応症（1 件）</strong>:<ul>
+<li>悪性高血圧性腎疾患 (malignant hypertensive renal disease) (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/carvedilol/' | relative_url }}">医薬品レポート全文を見る →</a></p>

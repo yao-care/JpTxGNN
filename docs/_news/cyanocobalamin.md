@@ -3,7 +3,7 @@ layout: default
 title: "サンコバ点眼液０．０２％　５ｍＬ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "サンコバ点眼液０．０２％　５ｍＬ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "サンコバ点眼液０．０２％　５ｍＬ（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
 permalink: /news/cyanocobalamin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cyanocobalamin/
 ---
 
 <p class="key-answer" data-question="サンコバ点眼液０．０２％　５ｍＬ（選） に関するニュースは？">
-<strong>サンコバ点眼液０．０２％　５ｍＬ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>サンコバ点眼液０．０２％　５ｍＬ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ permalink: /news/cyanocobalamin/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>シアノコバラミン点眼液0.02%「センジュ」5mL | 点眼液 | 貧血治療薬、造血薬、ビタミンB12補充薬 疾患 甲状腺機能亢進症、広節裂頭条虫症 (99.0%)</li>
-<li>シアノコバラミン注1000μg「NP」1mg | 注射剤 | 貧血治療薬、造血薬、ビタミンB12補充薬 疾患 甲状腺機能亢進症、広節裂頭条虫症 (99.0%)</li>
-<li>シアノコバラミン注射液 100μg | 注射液 | 貧血治療薬、造血薬、ビタミンB12補充薬 疾患 甲状腺機能亢進症、広節裂頭条虫症 (99.0%)</li>
-<li>サンコバ点眼液0.02% 5mL | 点眼液 | 貧血治療薬、造血薬、ビタミンB12補充薬 疾患 甲状腺機能亢進症、広節裂頭条虫症 (99.0%)</li>
-<li>シアノコバラミン注射液1,000μg「トーワ」1mg | 注射液 | 貧血治療薬、造血薬、ビタミンB12補充薬 疾患 甲状腺機能亢進症、広節裂頭条虫症 (99.0%)</li>
+<li><strong>予測適応症（1 件）</strong>:<ul>
+<li>ビオチン代謝疾患 (biotin metabolic disease) (99.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cyanocobalamin/' | relative_url }}">医薬品レポート全文を見る →</a></p>

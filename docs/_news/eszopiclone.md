@@ -3,7 +3,7 @@ layout: default
 title: "ルネスタ錠３ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ルネスタ錠３ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "ルネスタ錠３ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
 permalink: /news/eszopiclone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/eszopiclone/
 ---
 
 <p class="key-answer" data-question="ルネスタ錠３ｍｇ（選） に関するニュースは？">
-<strong>ルネスタ錠３ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>ルネスタ錠３ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ permalink: /news/eszopiclone/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>ルネスタ錠２ｍｇ | 錠２ｍｇ | 催眠鎮静薬（不眠症） (99.0%)</li>
-<li>ルネスタ錠３ｍｇ（選） | 錠３ｍｇ | 催眠鎮静薬（不眠症） (99.0%)</li>
-<li>エスゾピクロン錠１ｍｇ「ケミファ」 | 錠１ｍｇ | 催眠鎮静薬（不眠症） (99.0%)</li>
-<li>エスゾピクロン錠２ｍｇ「日医工」 | 錠２ｍｇ | 催眠鎮静薬（不眠症） (99.0%)</li>
-<li>エスゾピクロン錠３ｍｇ「サワイ」 | 錠３ｍｇ | 催眠鎮静薬（不眠症） (99.0%)</li>
+<li><strong>予測適応症（1 件）</strong>:<ul>
+<li>入眠・睡眠維持障害 (sleep disorder, initiating and maintaining sleep) (97.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/eszopiclone/' | relative_url }}">医薬品レポート全文を見る →</a></p>

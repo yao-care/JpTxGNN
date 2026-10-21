@@ -3,7 +3,7 @@ layout: default
 title: "モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」 に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」 に関する健康ニュース。既存適応症：。予測適応症 1 件。"
 permalink: /news/morphine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/morphine/
 ---
 
 <p class="key-answer" data-question="モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」 に関するニュースは？">
-<strong>モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ permalink: /news/morphine/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>モルヒネ塩酸塩注射液200mg「シオノギ」 4% 5mL | 注射液 | 麻薬性鎮痛薬、オピオイド受容体作動薬 (99.0%)</li>
-<li>モルヒネ塩酸塩注射液200mg「テルモ」 4% 5mL | 注射液 | 麻薬性鎮痛薬、オピオイド受容体作動薬 (99.0%)</li>
-<li>モルヒネ塩酸塩注射液10mg「第一三共」 1% 1mL | 注射液 | 麻薬性鎮痛薬、オピオイド受容体作動薬 (99.0%)</li>
-<li>モルヒネ塩酸塩錠10mg「DSP」 | 錠剤 | 麻薬性鎮痛薬、オピオイド受容体作動薬 (99.0%)</li>
-<li>エチルモルヒネ塩酸塩水和物 | （記載なし） | 麻薬性鎮痛薬、鎮咳薬、オピオイド受容体作動薬 (99.0%)</li>
+<li><strong>予測適応症（1 件）</strong>:<ul>
+<li>むずむず脚症候群 (Restless Legs Syndrome)（TxGNN 予測順位 4 位。1 位は筋筋膜性疼痛症候群） (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/morphine/' | relative_url }}">医薬品レポート全文を見る →</a></p>

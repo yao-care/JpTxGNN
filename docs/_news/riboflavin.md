@@ -3,7 +3,7 @@ layout: default
 title: "ハイボン錠２０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ハイボン錠２０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "ハイボン錠２０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
 permalink: /news/riboflavin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/riboflavin/
 ---
 
 <p class="key-answer" data-question="ハイボン錠２０ｍｇ（選） に関するニュースは？">
-<strong>ハイボン錠２０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>ハイボン錠２０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ permalink: /news/riboflavin/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L4</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>ハイボン錠20mg（選） | 錠20mg（選） | ビタミンB2補充薬、高コレステロール血症 (99.0%)</li>
-<li>ハイボン錠20mg | 錠20mg | ビタミンB2補充薬、高コレステロール血症 (99.0%)</li>
-<li>リボフラビンリン酸エステルナトリウム注射液 5mg | 注射液 5mg | ビタミンB2補充薬、ペラグラ、尋常性ざ瘡 (99.0%)</li>
-<li>リボフラビン酪酸エステル錠20mg「イセイ」 | 錠20mg「イセイ」 | ビタミンB2補充薬、高コレステロール血症 (99.0%)</li>
-<li>リボフラビン酪酸エステル細粒10%「ツルハラ」 | 細粒10%「ツルハラ」 | ビタミンB2補充薬、高コレステロール血症 (99.0%)</li>
+<li><strong>予測適応症（1 件）</strong>:<ul>
+<li>ビオチン代謝疾患 (biotin metabolic disease) (94.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/riboflavin/' | relative_url }}">医薬品レポート全文を見る →</a></p>

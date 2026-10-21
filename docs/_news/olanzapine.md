@@ -3,7 +3,7 @@ layout: default
 title: "ジプレキサザイディス錠２．５ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ジプレキサザイディス錠２．５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "ジプレキサザイディス錠２．５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 6 件。"
 permalink: /news/olanzapine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/olanzapine/
 ---
 
 <p class="key-answer" data-question="ジプレキサザイディス錠２．５ｍｇ（選） に関するニュースは？">
-<strong>ジプレキサザイディス錠２．５ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>ジプレキサザイディス錠２．５ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 6 件です。
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,13 @@ permalink: /news/olanzapine/
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
-<li>広場恐怖症 | 99.47% | L4 | Research Question | 治療抵抗性パニック障害での増強療法（主に非盲検）による間接的な根拠のみ (99.0%)</li>
-<li>気分変調性障害 | 99.28% | L4 | Research Question | 薬剤クラス単位のレビューと小規模研究による間接的な根拠 (99.0%)</li>
-<li>神経症性障害 | 98.93% | L4 | Hold | 症例報告と処方実態調査が中心。用語も非特異的 (99.0%)</li>
-<li>神経症性うつ病 | 98.77% | L1 | Proceed with Guardrails | 治療抵抗性うつ病の増強療法に関する複数のシステマティックレビュー／ネットワークメタ解析あり (99.0%)</li>
-<li>メランコリア | 98.77% | L1 | Proceed with Guardrails | 上記と同じ文献群。メランコリー型に特化した研究はない (99.0%)</li>
-<li>オランザピン細粒１％「ニプロ」 | 細粒 | 統合失調症、双極性障害 (99.0%)</li>
-<li>オランザピン錠２．５ｍｇ「アメル」 | 錠剤 | 統合失調症、双極性障害 (99.0%)</li>
-<li>オランザピン錠１０ｍｇ「トーワ」 | 錠剤 | 統合失調症、双極性障害 (99.0%)</li>
-<li>オランザピン錠５ｍｇ「サワイ」 | 錠剤 | 統合失調症、双極性障害 (99.0%)</li>
-<li>ジプレキサザイディス錠５ｍｇ | 錠剤（口腔内崩壊錠） | （記載なし） (99.0%)</li>
+<li><strong>予測適応症（6 件）</strong>:<ul>
+<li>良性乳児発作性斜頸 (benign paroxysmal torticollis of infancy) (99.5%)</li>
+<li>広場恐怖症 (99.5%)</li>
+<li>気分変調性障害 (99.3%)</li>
+<li>神経症性障害 (98.9%)</li>
+<li>神経症性うつ病 (98.8%)</li>
+<li>メランコリア (98.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/olanzapine/' | relative_url }}">医薬品レポート全文を見る →</a></p>
