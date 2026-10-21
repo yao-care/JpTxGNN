@@ -117,7 +117,19 @@ def extract_indication_count(content: str, bundle_path: Path) -> int:
             with open(bundle_path) as f:
                 bundle = json.load(f)
                 if "drug" in bundle and "predicted_indications" in bundle["drug"]:
-                    return len(bundle["drug"]["predicted_indications"])
+                    # 2026-10-22：與 predicted_indications 欄同口徑（排除已知用途後的前 10 名），標題數字才不會和欄位不一致
+                    drug = bundle["drug"]
+                    names = [p.get("disease_name", "").strip() for p in drug["predicted_indications"] if p.get("disease_name")][:10]
+                    kfp = bundle_path.parents[3].parent / ".claude" / "known_use_filter.py"
+                    if names and kfp.exists():
+                        global _KNOWN_USE_FILTER
+                        if "_KNOWN_USE_FILTER" not in globals() or _KNOWN_USE_FILTER is None:
+                            import importlib.util
+                            kspec = importlib.util.spec_from_file_location("known_use_filter", kfp)
+                            _KNOWN_USE_FILTER = importlib.util.module_from_spec(kspec); kspec.loader.exec_module(_KNOWN_USE_FILTER)
+                        names = _KNOWN_USE_FILTER.filter_predictions(bundle_path.parents[3], drug.get("drugbank_id") or "",
+                                                                     (drug.get("inn") or drug.get("name") or "").strip(), names, bundle)
+                    return len(names)
         except Exception:
             pass
     return 0

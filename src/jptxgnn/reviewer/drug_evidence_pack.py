@@ -702,7 +702,10 @@ IMPORTANT: Write every free-text value (rationale, mechanistic_link, notes, clas
 
         # Check indication count matches
         ep_indications = evidence_pack.get("predicted_indications", [])
-        bundle_indications = bundle.drug.predicted_indications
+        # 2026-10-22：證據包已排除已知用途（known_use_filter），只比對保留下來的那些
+        _kept = [e.get("disease_name") for e in ep_indications]
+        bundle_indications = sorted([p for p in bundle.drug.predicted_indications if p.disease_name in _kept],
+                                    key=lambda p: _kept.index(p.disease_name))
 
         if len(ep_indications) != len(bundle_indications):
             errors.append(
