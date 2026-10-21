@@ -12,6 +12,7 @@ Usage:
     uv run python scripts/sync_notes_to_docs.py
 """
 
+import os
 import json
 import re
 from pathlib import Path
@@ -250,6 +251,8 @@ def sync_notes_to_docs():
     docs_drugs_dir.mkdir(parents=True, exist_ok=True)
 
     drug_dirs = sorted([d for d in notes_dir.iterdir() if d.is_dir()])
+    # 2026-10-21：SYNC_ONLY="a,b" 只重寫這些藥的頁面（其餘頁面有直接在 docs 上的修正，不可被 notes 覆蓋）
+    only = {x for x in os.environ.get("SYNC_ONLY", "").split(",") if x}
     print(f"Found {len(drug_dirs)} drug directories (lang={lang})")
 
     synced = 0
@@ -259,6 +262,8 @@ def sync_notes_to_docs():
     for i, drug_dir in enumerate(drug_dirs, 1):
         drug_name = drug_dir.name
         notes_path = drug_dir / "drug_pharmacist_notes.md"
+        if only and drug_name not in only:
+            continue
 
         if not notes_path.exists():
             errors.append(f"{drug_name}: notes not found")

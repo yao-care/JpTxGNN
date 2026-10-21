@@ -13,6 +13,7 @@ from .llm_client import LLMClient
 
 
 # 2026-10-17：status 欄有值不代表註銷（各國是 Authorised／有効／Vigente…），只認註銷類字樣
+_KF = None  # known_use_filter 模組快取（2026-10-21）
 _CANCELLED = re.compile(r"註銷|撤銷|廢止|取消|cancel|withdraw|revok|suspen|expir|lapse|discontinu|retir|inactive|refus|annul|"
                         r"widerruf|zurückgez|ruhend|retirad|cancelad|caducad|revocad|retiré|abrog|revoca|sospes|ritirat|"
                         r"återkall|avregistr|tilbakekall|ingetrokken|vervallen|peruutet|lakkaut|ملغ|موقوف|inativ|archiv|^opinion|\|opinion", re.I)
@@ -116,7 +117,7 @@ class DrugEvidencePackGenerator:
             "market_status": "Marketed" if valid else (("Cancelled only" if not partial else "Unknown (partial list)") if lics else "Not marketed"),
             # 2026-10-21：張數＝不重複許可證號（us 的紀錄是產品列，15 列只有 7 個核准號）；
             # total_matches 大於紀錄列數＝收集器只存了一部分，張數不可知（None），頁面不可寫「共 N 張」
-            "total_licenses": len(lics) if not partial else None,
+            "total_licenses": len(lics) if not partial else f"≥{len(lics)}",  # 部分紀錄：寫「至少 N」（pm 2026-10-21 選 b）
             "partial_list": partial,
             "licenses_listed": len(lics),
             "valid_single": sum(1 for x in valid if x["kind"] == "single"),
@@ -171,7 +172,24 @@ class DrugEvidencePackGenerator:
 
         # Build predicted_indications with COMPLETE data
         predicted_indications = []
-        for i, pi in enumerate(drug.predicted_indications):
+        # 2026-10-21（N-01 r5）：先排除已知用途（KG 子型／上位詞、各國許可證適應症），只把真正的新預測交給報告
+        _pis = list(drug.predicted_indications)
+        try:
+            import importlib.util as _ilu
+            from ..paths import get_project_root
+            _kfp = get_project_root().parent / ".claude" / "known_use_filter.py"
+            if _kfp.exists():
+                global _KF
+                if _KF is None:  # 只載入一次（疾病階層與許可證快取很大）
+                    _spec = _ilu.spec_from_file_location("known_use_filter", _kfp)
+                    _KF = _ilu.module_from_spec(_spec); _spec.loader.exec_module(_KF)
+                _kf = _KF
+                _keep = set(_kf.filter_predictions(get_project_root(), drug.drugbank_id or "", drug.inn or "",
+                                                   [p.disease_name for p in _pis], None))
+                _pis = [p for p in _pis if p.disease_name in _keep]
+        except Exception as _e:  # 過濾失敗時寧可停下，不產生含已知用途的報告
+            raise RuntimeError(f"known_use_filter 失敗：{_e}")
+        for i, pi in enumerate(_pis):
             indication = {
                 "rank": i + 1,
                 "disease_name": pi.disease_name,
