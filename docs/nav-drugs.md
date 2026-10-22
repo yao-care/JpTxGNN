@@ -85,6 +85,14 @@ JpTxGNN は <strong>{{ site.data.site_stats.drugs }}</strong> 種の日本医療
 
 ## エビデンスレベル別
 
+{% assign l1_count = site.drugs | where: "evidence_level", "L1" | size %}
+{% assign l2_count = site.drugs | where: "evidence_level", "L2" | size %}
+{% assign l3_count = site.drugs | where: "evidence_level", "L3" | size %}
+{% assign l4_count = site.drugs | where: "evidence_level", "L4" | size %}
+{% assign l5_count = site.drugs | where: "evidence_level", "L5" | size %}
+{% assign high_count = l1_count | plus: l2_count %}
+{% assign medium_count = l3_count | plus: l4_count %}
+
 <style>
 .drug-cards {
   display: grid;
@@ -158,7 +166,7 @@ JpTxGNN は <strong>{{ site.data.site_stats.drugs }}</strong> 種の日本医療
 <div class="drug-cards">
   <a href="{{ '/evidence-high' | relative_url }}" class="drug-card high">
     <div class="drug-card-icon">
-      <span class="drug-card-count">-</span>
+      <span class="drug-card-count">{{ high_count }}</span>
     </div>
     <div class="drug-card-info">
       <div class="drug-card-title">高エビデンスレベル</div>
@@ -169,7 +177,7 @@ JpTxGNN は <strong>{{ site.data.site_stats.drugs }}</strong> 種の日本医療
 
   <a href="{{ '/evidence-medium' | relative_url }}" class="drug-card medium">
     <div class="drug-card-icon">
-      <span class="drug-card-count">-</span>
+      <span class="drug-card-count">{{ medium_count }}</span>
     </div>
     <div class="drug-card-info">
       <div class="drug-card-title">中エビデンスレベル</div>
@@ -180,7 +188,7 @@ JpTxGNN は <strong>{{ site.data.site_stats.drugs }}</strong> 種の日本医療
 
   <a href="{{ '/evidence-low' | relative_url }}" class="drug-card low">
     <div class="drug-card-icon">
-      <span class="drug-card-count">142</span>
+      <span class="drug-card-count">{{ l5_count }}</span>
     </div>
     <div class="drug-card-info">
       <div class="drug-card-title">モデル予測のみ</div>
