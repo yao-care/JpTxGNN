@@ -1,67 +1,259 @@
 {
   "source": "japan_news",
-  "fetched_at": "2026-10-22T02:27:43.326738+00:00",
-  "total_fetched": 166,
-  "unique_count": 166,
-  "health_related_count": 79,
+  "fetched_at": "2026-10-22T10:50:35.746008+00:00",
+  "total_fetched": 170,
+  "unique_count": 170,
+  "health_related_count": 81,
   "news": [
     {
-      "id": "feef0ec77b98",
-      "title": "真面目に頑張っているのに幸せになれない…努力家ほど無意識に繰り返している｢幸福度を下げる習慣｣(プレジデントオンライン)",
-      "published": "2026-10-22T02:15:39+00:00",
-      "summary": "真面目に頑張っているのに幸せになれないのはなぜか。働く人のメンタルヘルス支援を行う「Smart相談室」代表の藤田康男さんは「目標達成のために努力を続けることは大切だが、その努力が現在の生活や心身の健康",
+      "id": "12433e1a0b39",
+      "title": "B型肝炎の飲み薬、いつまで続くの？長引く通院・薬代のリアルと肝炎医療費助成 (2026年10月22日掲載) - ライブドアニュース",
+      "published": "2026-10-22T10:07:46+00:00",
+      "summary": "B型肝炎の飲み薬、いつまで続くの？長引く通院・薬代のリアルと肝炎医療費助成 (2026年10月22日掲載)&nbsp;&nbsp;ライブドアニュース",
       "sources": [
         {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/85188a4ca34f7b97a97d8e36ae4aa585795eddef?source=rss"
+          "name": "ライブドアニュース",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBjbU13VkZFa0VPRkZBcHg2Qkx1Z2M2dDV1X0dycWdEeHM3emlZeE9mZmp6a3ZSX2dRZUFRMXNCUC1iM0RmLWtiSUtEekZhNEktTjA3Qlo5Y1pSYjhMd0E?oc=5"
         }
       ]
     },
     {
-      "id": "8bfb8f8c17e8",
-      "title": "ホーチミン市疾病管理センター（HCDC）は、髄膜炎菌感染症の5例目を確認したと発表した。感染者と濃厚接触した約100人が予防的に抗生物質を服用する必要があった。 - Vietnam.vn",
-      "published": "2026-10-22T02:05:26+00:00",
-      "summary": "ホーチミン市疾病管理センター（HCDC）は、髄膜炎菌感染症の5例目を確認したと発表した。感染者と濃厚接触した約100人が予防的に抗生物質を服用する必要があった。&nbsp;&nbsp;Vietnam.vn髄膜炎菌感染症の予防と抑制のための対策を実施する。&nbsp;&nbsp;Vietnam.vnチュオン・フー・カン医師が、髄膜炎菌感染症を発症後数時間以内にどのように見分けるかを解説します。&nbsp;&nbsp;Vietnam.vn",
+      "id": "a599bbbc3119",
+      "title": "KCIが展覧会を開催、雑誌「here and there」と林央子を紹介(FASHIONSNAP)",
+      "published": "2026-10-22T10:05:51+00:00",
+      "summary": "京都服飾文化研究財団（KCI）が、展覧会「here and there vol.17 study room: here and there とわたしたち FOME / hibi edition」を開催",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/56ce54366bb1129344ae81b024ed73d3519d5a62?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "d9b402a9f51c",
+      "title": "ＲＳウイルス薬、公費投与へ前進 - 下野新聞社",
+      "published": "2026-10-22T09:31:34+00:00",
+      "summary": "ＲＳウイルス薬、公費投与へ前進&nbsp;&nbsp;下野新聞社Google ニュースで見出しと意見をもっと見る",
+      "sources": [
+        {
+          "name": "下野新聞社",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByNGxsdlBoWjJESEd0ZHpXUWNFQ2JpZG1EdnBtRU41T1FVdGdZd3Vkc3M3cHE2YmFkbE55YmxYb0JLZU5La2NpVWhPWmtnR0hUN0U4bWR3MUJNYUk?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e2dd3d56b6bc",
+      "title": "東京都、インフルエンザ脳症で５歳未満の子ども１人死亡と明らかに…「ワクチン接種の検討を」（読売新聞オンライン） - Yahoo!ニュース",
+      "published": "2026-10-22T08:39:45+00:00",
+      "summary": "東京都、インフルエンザ脳症で５歳未満の子ども１人死亡と明らかに…「ワクチン接種の検討を」（読売新聞オンライン）&nbsp;&nbsp;Yahoo!ニュースGoogle ニュースで見出しと意見をもっと見る",
+      "sources": [
+        {
+          "name": "Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ucXFCSmU5NHRDUEs1SXB4V3BrZ1FLcUY5dmFlYVlFNzdRODM3ZUR4UU80bndMTXc2OGlSVndrbWxrcmY1TlVjOGZFS0dpNkxLYWNYR3ZCejFrM25xMmFSZk83SkhwbHdlNHI4cmdWR1lfQWNzN3hzc2Rna0N3X1k?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bc74aaa1fb57",
+      "title": "インフルエンザの注意報を解除 引き続き感染防止対策を栃木県（とちぎテレビ） - Yahoo!ニュース",
+      "published": "2026-10-22T08:35:01+00:00",
+      "summary": "インフルエンザの注意報を解除 引き続き感染防止対策を栃木県（とちぎテレビ）&nbsp;&nbsp;Yahoo!ニュースGoogle ニュースで見出しと意見をもっと見る",
+      "sources": [
+        {
+          "name": "Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBRMEJnczdtRkZVb0VQZ1lJeEpHVi1PdGZSVTU1di1mY0stVlhuRHRXU1pNT2RRTmxYbFcydkFDVWNhUG0zNGJlOVJyc3FnNUIyemstN0V5cXZkaEVYa2I1STRuMTZuaHFxeE5Fc0g5dHBBUG45emlPcnhVYU1COXM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9b11af30c6a8",
+      "title": "ニンビン省のデング熱は複雑化しており、リスクが高まっています。 - Laodong.vn",
+      "published": "2026-10-22T08:33:38+00:00",
+      "summary": "ニンビン省のデング熱は複雑化しており、リスクが高まっています。&nbsp;&nbsp;Laodong.vnデング熱の発生を予防・抑制するための積極的な対策。&nbsp;&nbsp;Vietnam.vn感染症の予防を積極的に行う。&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVFUxSkt2SDllVjVHb3d3Y3N4dzQyX2ZQZ3VCYmNLZ0IwZTFMaW5qeFhZOVRoTjM5OXVqN255SS0zYkRkV3loenlPZVAwNlo5Zi1NN0Z2WHB1NklFeWxpNGd5WFVMN1pjN3ZFUy1qVjhyR2ZlWjRLbzJtbE8xTE1ndzJOZmNMTlpwZEc1bU4zZzZnWVVRWUVOMTNMRVJSallZWW5BOVJRaU5oTEE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "d173d4055e23",
+      "title": "子どもの“注射嫌い”を解消 １回の接種で効果も続く インフルエンザ…鼻にスプレー噴射タイプが人気 ｜ ニュース - ＳＴＶ札幌テレビ 放送",
+      "published": "2026-10-22T08:27:53+00:00",
+      "summary": "子どもの“注射嫌い”を解消 １回の接種で効果も続く インフルエンザ…鼻にスプレー噴射タイプが人気 ｜ ニュース&nbsp;&nbsp;ＳＴＶ札幌テレビ 放送「冬を待たずに接種を」インフル早期流行で医師推奨 すでに感染した人も打つべき？（熊本ニュース KAB ONLINE）&nbsp;&nbsp;Yahoo!ニュース子どもの“注射嫌い”を解消 １回の接種で効果も続く インフルエンザ…鼻にスプレー噴射タイプが人気（2026年10月22日掲載）&nbsp;&nbsp;日テレNEWS NNN例年より早く流行入りしたインフルエンザ予防の「点鼻型ワクチン」が全国的に品薄…なぜ？【岡山・香川】&nbsp;&nbsp;FNNプライムオンライン【📢 高齢者のインフルエンザ予防接種のお知らせ】 : ブログ : 瀬戸市議会議員 池田信子&nbsp;&nbsp;公明党",
+      "sources": [
+        {
+          "name": "ＳＴＶ札幌テレビ 放送",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZDdTeERITXZaSUlSRFB3eWtBVklLMHZfbDJ3eUhJWnJOVlNDN0ZYd3U4VFJnX2I3dk5JbXpDazJaZTJGXzZrVWlPUWlRQUwwVVJoMU1laFFwSnRob1FBajEwN2VBRTRBY2hsak5sTzRiblA0Ny1BcU1nUDhRYklfX2hR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5ecc07395c66",
+      "title": "糖尿病患者がめまいを起こしやすい原因 - Laodong.vn",
+      "published": "2026-10-22T08:23:17+00:00",
+      "summary": "糖尿病患者がめまいを起こしやすい原因&nbsp;&nbsp;Laodong.vn",
+      "sources": [
+        {
+          "name": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZHNEbGJySVpuNFdCUmZGa2RiczZ4WThXd0FCeXltTFhzNFUzUTZuT3pTUG4zZEtvcnlQeDMyeTFURzFtcTVOX1k5THJCNDhHSG5QeWN1eDBWa085ZUNTRHY2RElfUWZhZlNOaWQ2dEdqRWh5c2VPS29yZmF1OGNBZFZxeFh4SEdrbm5xb0p4dmM1WUREMHp1dHVXZXdtZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3104bb125226",
+      "title": "「声が出しにくく喉に違和感」がる症状で考えられる”原因”はご存じですか？医師が解説！ (2026年10月22日掲載) - ライブドアニュース",
+      "published": "2026-10-22T08:07:50+00:00",
+      "summary": "「声が出しにくく喉に違和感」がる症状で考えられる”原因”はご存じですか？医師が解説！ (2026年10月22日掲載)&nbsp;&nbsp;ライブドアニュース",
+      "sources": [
+        {
+          "name": "ライブドアニュース",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1vZ0cxTE1ldEJQbnIzRF9QbHRlYi0tbUZJV2ppcjB3NDhKZ1VOZm5yMGNCLTd2bFc2NURhMS1rZkc3YUFJMVBlSkkyYUx5Nzh2NFlZRzVEdTNlQVRBdXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b09538d80145",
+      "title": "患者・医師ともに負担少ない新技術　ｉＰＳ細胞で重症心不全の治療　実用化後初　患者女性は「すごく気持ちいい」(ABCニュース)",
+      "published": "2026-10-22T08:00:00+00:00",
+      "summary": "「ｉＰＳ細胞」。２００６年に京都大学の山中伸弥教授らが初めて作製に成功し、万能細胞と呼ばれました。 あれから２０年が経ち、夢の万能細胞はついに現実の医療の新たな希望になりました。大阪都構想に暗雲 特別",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/2727b9b506289e8df8e6ad295fd6b9b627d63b50?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "ce337f229646",
+      "title": "死んだ星の灰からも「惑星が誕生」する可能性、NASAハッブルが27年来の謎を解明(Forbes JAPAN)",
+      "published": "2026-10-22T08:00:00+00:00",
+      "summary": "寿命を迎えた恒星が燃え尽きた「灰」から形成された可能性のある、驚くべき惑星の存在を示す証拠を、天文学者チームが発見した。英ウォーリック大学などの研究チームがNASAのハッブル宇宙望遠鏡（HST）の観測",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/51fd4f98f1734a30f2dc6e85d91bbad7bbf83687?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "d6fb7485afe2",
+      "title": "ベトナムで初めて、骨移植を用いない脊柱側弯症矯正手術が成功した。 - Vietnam.vn",
+      "published": "2026-10-22T07:21:55+00:00",
+      "summary": "ベトナムで初めて、骨移植を用いない脊柱側弯症矯正手術が成功した。&nbsp;&nbsp;Vietnam.vnベトナムで初めて、骨移植を伴わない脊柱側弯症矯正手術が軍中央病院108で実施された。&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZWlVRHlTaGZheU14U0NFM29HejN0TnpWWURtQVRTWldDYUJ3czF6WFRGRXBBUmlIQzBEenJsV1RRUG5tbUh0ek9fcEQyWXc4SGxZMEt2QVV5QUdKdE9ydm9VQnhRZHVzY3RFTVRNWnE3LTBsSi16c3Fwc2tzLWs1dDlyckhqakZxdTQ5VlZjeWxtLVVJV1RmOUxBenA5OURScUYxdEdTU0dqRHo4VExqTnRDcXZmOE0?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdGFtSU9pcl9qeDRhRjhfZXJhN3ZYSFBFbWVqUUo3MWJoQTJ2WjNQWWo5RGhmUVBXNE8xd0tNN002V3ZnM3d6QXgtSmpjQ2RYLTlCNThTMlRTVGlEZFVlS2pjVUlMczlDQnJJN3p5ZUlVdUtnMW41bUEtc0FxWHlzRFJfaGZmQldudFFKLUJUdVNrT0JJem1FSlA3d245TExWTGhnR0RTZ29UX1FLMDR1ajVB?oc=5"
         }
       ]
     },
     {
-      "id": "ddc3c8e400df",
-      "title": "どう対策を打つべき？　無害なものがアレルゲンに豹変する「かくれアレルギー」の脅威(サライ.jp)",
-      "published": "2026-10-22T02:00:10+00:00",
-      "summary": "文／鈴木拓也アレルギーの症状に悩む人は、ここ数十年のうちに大幅に増加。いまや日本人の約5割が、何らかのアレルギー疾患に罹っているといわれる。なかでも目立つのは、大人になってから発症するアレルギーだ。例",
+      "id": "18004caf0e85",
+      "title": "「心筋梗塞」を発症すると「足に前兆症状」は現れる？医師が徹底解説！ (2026年10月22日掲載) - ライブドアニュース",
+      "published": "2026-10-22T06:37:53+00:00",
+      "summary": "「心筋梗塞」を発症すると「足に前兆症状」は現れる？医師が徹底解説！ (2026年10月22日掲載)&nbsp;&nbsp;ライブドアニュース",
       "sources": [
         {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/5c334db6249e3cbb5f6312b20b03c887585f6fda?source=rss"
+          "name": "ライブドアニュース",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnLU9fX2NxWlkyaVp0OEx2ZklhX2Q4MU9WWXFhc3UxOU5nT3FnN1B4eTBBQnNMWVdNSVo1eVBhUzdxck0zcjZlWVR1UC1DSVg5VkNZR0xTY3BEOXFXbGc?oc=5"
         }
       ]
     },
     {
-      "id": "d9a840d1cb91",
-      "title": "《話題の“冷やし焼きいも”レシピ》ブームの秘密から味わい方、お取り寄せ情報まで！(女性セブンプラス)",
-      "published": "2026-10-22T02:00:00+00:00",
-      "summary": "味覚の秋、焼きいもが恋しい季節の到来です。ホクホクした焼きいももいいけれど、最近は濃厚な甘みとねっとりした食感がトレンド。さらに冷やすと甘みや健康効果がグンとアップして、いいこと尽くし！ この秋は極上",
+      "id": "2b9d30009b43",
+      "title": "先生、髄膜炎菌性髄膜炎による死亡リスクを減らすにはどうすれば良いでしょうか？ - Vietnam.vn",
+      "published": "2026-10-22T06:05:34+00:00",
+      "summary": "先生、髄膜炎菌性髄膜炎による死亡リスクを減らすにはどうすれば良いでしょうか？&nbsp;&nbsp;Vietnam.vn髄膜炎菌性髄膜炎の予防を積極的に行う。&nbsp;&nbsp;Vietnam.vn髄膜炎菌感染症の予防と抑制のための対策を実施する。&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/560c4b961db57d95e7a775982eea417463d1e515?source=rss"
+          "name": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNcElkNHlkeFY3Q2NqblVqOWpMVzdvTzJVNXlkNTFqT3RSRGRMWnZ5UjIyeUY0cjNtR3RweXJ2eGdGUFRFeV9KeElpRGRRQVkzN0Y5a0poczM5WW9mdVQ1a1ctb09kZXhieTVoRWdPY2RmdFZFVWFTM1lYeFA0ZWt2YjJucTcxeWRkTU9mOExmTVVUQVFX?oc=5"
         }
       ]
     },
     {
-      "id": "aab63e3a62ec",
-      "title": "忙しい日の自分を助ける「へそくり冷凍」。香ばしい焼きおにぎりで叶える贅沢なランチタイム【書評】(ダ・ヴィンチWeb)",
-      "published": "2026-10-22T02:00:00+00:00",
-      "summary": "『季節が好きなわたしとマダム』（にいざかにいこ/KADOKAWA）は、うつろう四季の中に小さな喜びを見出すキコと節子さんの日々を描いた漫画。秋が深まってきた頃、ふたりが繰り出したのは図書館。どうやら読",
+      "id": "884531a7e132",
+      "title": "「髄膜炎」になると目に現れる”初期症状”はご存じですか？風邪との違いも医師が解説！ (2026年10月22日掲載) - ライブドアニュース",
+      "published": "2026-10-22T05:07:46+00:00",
+      "summary": "「髄膜炎」になると目に現れる”初期症状”はご存じですか？風邪との違いも医師が解説！ (2026年10月22日掲載)&nbsp;&nbsp;ライブドアニュース",
       "sources": [
         {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/169e0abbabb4454d2ef557a035419ec721899942?source=rss"
+          "name": "ライブドアニュース",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MYWxtOVZMSTdGTlhvbU1Ud25ndVJjN0FCQ19TWndsUU54Slp3SkRTUUFRNjZDZWxXS1pnVkNJWG5FRW5MbFY5WDNIbGJ2a2J3STRfNFlpSlhwdnN6a0E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a086712bb169",
+      "title": "人は血管とともに老いる――症状がないうちから、生活習慣病と向き合う理由(Medical Note)",
+      "published": "2026-10-22T04:50:14+00:00",
+      "summary": "健康診断で血圧やコレステロール、血糖値の異常を指摘されても、体に不調がなければ、つい後回しにしてしまう人は少なくない。しかし、自覚症状のないまま静かに進むその変化こそが、将来の大きな病気につながってい",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/3bede7b7917f747ce5a9e1280a37432b60ecbe59?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "51ca206270c8",
+      "title": "心血管の健康のための正しいお茶の飲み方。 - Vietnam.vn",
+      "published": "2026-10-22T04:27:16+00:00",
+      "summary": "心血管の健康のための正しいお茶の飲み方。&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1wbVRmUlBldTFvT24zbllUNjRPSnlMbjk2bURsaFdPTnNhQjRPcVJnb3NhM1d2ckJrVktsU3NGM0Jic0VHbmdJMDB5S05qdU9RRWdGdFV1c3JYa1JSS096dVJrT0ltTjBhaWdGdENvZVFra2s0Y1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "5680636c7aa6",
+      "title": "妊娠39週目のインフルエンザA型感染：妊婦は胎児仮死を起こし、緊急帝王切開が必要となり、新生児は呼吸困難を起こした。 - Vietnam.vn",
+      "published": "2026-10-22T03:40:31+00:00",
+      "summary": "妊娠39週目のインフルエンザA型感染：妊婦は胎児仮死を起こし、緊急帝王切開が必要となり、新生児は呼吸困難を起こした。&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUzVJTXdEWjNzcmw0ZFpXbnFUcHJhS1hscWNoUll5TlB0UFp1YWJUekVlbGtFNC11WFE0MDdISXZzZUdYcHN5RkJLdFlTbFlBdGpCSkkzTlFocmRpalVJQ1RhN3hST2R2cU03c2NoYkUwa3NpMWk1N0dpaENYTmtaYTlqM2lqaEpKSGpQaDBZVEpjNFNNSTJQTG9JVmVNU0FBdDBwWW1PTUM2SVE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "885013ea5074",
+      "title": "JAXAが火星衛星探査機「MMX」の初期クリティカル運用フェーズ終了を発表(sorae 宇宙へのポータルサイト)",
+      "published": "2026-10-22T02:42:53+00:00",
+      "summary": "JAXA（宇宙航空研究開発機構）は2026年10月21日付で、「H3」ロケット10号機で打ち上げられた火星衛星探査機「MMX」について、打ち上げ直後の重要な運用を正常に終え、探査機の健全性を確認したと",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/abcbd9d911cc004981548df6c51e45c60c8a7ef8?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "72eb6e33a59c",
+      "title": "女性に最も多いがんの種類は何ですか？また、どの年齢層が早期検診を必要としますか？ - Vietnam.vn",
+      "published": "2026-10-22T02:14:44+00:00",
+      "summary": "女性に最も多いがんの種類は何ですか？また、どの年齢層が早期検診を必要としますか？&nbsp;&nbsp;Vietnam.vn恐怖心に負けて乳がん治療を諦めてはいけません。&nbsp;&nbsp;Vietnam.vn乳がんおよび子宮頸がんの積極的な予防と早期発見。&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOS1B4N0pncXN0cTFEUHg3Qm9RSmVmSGZzYm1CSlFsNFN5VjVfWHBKR1ZWQ2dMNmVsZ3JIR1FFTHRCbGEyRnp5SzRWQWF5SXhESkNPSUxFX3F2LWVCOVJRNVUtcEs0TW9RN2tnR011RXBUVENvYXlCMVN3d2ZnVHQybjVBbVF5b2Z6RlhaSlY5YWZWUVdEOFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4d4645784f0b",
+      "title": "中学受験での感染症対策、もっと早くから徹底すればよかったこと第1位は？【保護者調査】 - PR TIMES",
+      "published": "2026-10-22T02:00:02+00:00",
+      "summary": "中学受験での感染症対策、もっと早くから徹底すればよかったこと第1位は？【保護者調査】&nbsp;&nbsp;PR TIMES",
+      "sources": [
+        {
+          "name": "PR TIMES",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3NnFNbXQ0WUwyYS1OdzU4QTBJOU1vNHJPcUZQci12VGMwbERBUVJkYURPS0dQMldySWxnOWVIN2ZnLVhKWnBpeEEtc2RpSnRLVm1aamFBMWw4bGFnVjhWV0E2WWJDUGpfVUE?oc=5"
         }
       ]
     },
@@ -78,30 +270,6 @@
       ]
     },
     {
-      "id": "b3ab9ad19cd3",
-      "title": "小児におけるA型インフルエンザの流行が拡大しています。合併症のリスクに注意してください。 - Vietnam.vn",
-      "published": "2026-10-22T01:28:18+00:00",
-      "summary": "小児におけるA型インフルエンザの流行が拡大しています。合併症のリスクに注意してください。&nbsp;&nbsp;Vietnam.vnコラム&nbsp;&nbsp;NNAアジア保健省は、季節性インフルエンザを予防するための8つの対策を推奨している。&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU0MtM2g4Sjl1YmZqXzFoWTk5QUVqeUR4aU5ab3hBbDdWeFBVa3Rqc2Z3TXV6dVlBQTRhMWYyeGU5TVpCMkhoMjhaVjRKTUFtT2dJN3ZaS3FPZktqUzd5SndMdDZQeV9nazlPZE16T0lfbjQtZWY3MU12WjJhaHNCbExqN1k?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "5e5e4f667277",
-      "title": "自分らしく生きられる社会に　ＴＥＤで自分の経験伝えたい　乳がん公表、梅宮アンナさん(オーヴォ)",
-      "published": "2026-10-22T01:27:44+00:00",
-      "summary": "2年前に乳がんを公表し、日々の闘病生活や乳がんとの向き合い方などを積極的に発信しているモデル・タレントの梅宮アンナさん（54）。梅宮さんは「乳がん患者の方が生きづらさを感じずに、自分らしく生きられる社",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/bf60685ad3e7f90d5a28f644f883069be6f984a2?source=rss"
-        }
-      ]
-    },
-    {
       "id": "a15591bb1425",
       "title": "がん手術前の24歳の少女：「楽観的な気持ちを持ち続ければ、きっと乗り越えられるわ。」 - Vietnam.vn",
       "published": "2026-10-22T00:58:11+00:00",
@@ -110,6 +278,18 @@
         {
           "name": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZE9UZ2dNM0FfOEM0UV9jUFdmT29sLU1fQ0dvXy1ldTF6bmJITHJVdGJIMmF6ckg5blRXV1QzQjBuVTBINkIxTVBFNTVNNHpHOXhBN1lvbDFMTFNRTW1Ya0FIbjJ5Q1JTMS1tcXNsYnF5SGtEQUxNelVManMxT0xzdEx3UlR2X2NnaEFqOXYxUnVydw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e63cbe7ab138",
+      "title": "レナカパビル、感染性粒子産生を劇的に抑制－JIHSほか - QLifePro",
+      "published": "2026-10-22T00:30:00+00:00",
+      "summary": "レナカパビル、感染性粒子産生を劇的に抑制－JIHSほか&nbsp;&nbsp;QLifePro",
+      "sources": [
+        {
+          "name": "QLifePro",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWlhUZjctY2JkcnZHcU8xUUFrcjVhNFcxZU9vNG1XNlRxRXUwSHJvSi1kUUtsemNaaExWMjRLZWpVYno3UzQ4R1pYcHBaclhPelVieElMeFZDUmxnTmJKUm51SUo1TGFLM00xZDNjMTdVOEdQWTJCVU96ejdwVGE5NGlYSUJEaWs0eG5nYkJUM3RUb2JWS0k4aEJfb1FBalJEWl9VcFJJMHB5cjZBNkk0T2d6UQ?oc=5"
         }
       ]
     },
@@ -138,14 +318,14 @@
       ]
     },
     {
-      "id": "4efa41c3e9ca",
-      "title": "認知症の症状も改善！ 記憶力が向上する「音読トレーニング」のすごい効果 - ｄメニューニュース",
-      "published": "2026-10-21T22:02:43+00:00",
-      "summary": "認知症の症状も改善！ 記憶力が向上する「音読トレーニング」のすごい効果&nbsp;&nbsp;ｄメニューニュース",
+      "id": "4a35167396b3",
+      "title": "認知症の症状も改善！ 記憶力が向上する「音読トレーニング」のすごい効果（PHPオンライン） - Yahoo!ニュース",
+      "published": "2026-10-21T22:04:14+00:00",
+      "summary": "認知症の症状も改善！ 記憶力が向上する「音読トレーニング」のすごい効果（PHPオンライン）&nbsp;&nbsp;Yahoo!ニュース",
       "sources": [
         {
-          "name": "ｄメニューニュース",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcG9xQ0Nua3U0dEIwNUNiR2hUZ1d6SlZubENiSVpNRld4cHhrNjhKeVJOeHBoOTB6NWJxYXZXS2NVZmlYQjRjc1gwdG1aazFuaTVuX1h1MHZNVll4a1NjVmNpWTZYbWtqODFEMGxLZDhsS0R5X052dmZ5RkVlUlhRRGlR0gGHAUFVX3lxTE95TTZlek1OMkN2bExTWXg2eXZ3dUdmVDFUMUxZak9Vd19lX3Jjb0lzT2U3ampfYWN4V1V5MUdFMEdKMG9uSDhIbFhMazJPWlZfbW5WODFXRHhLTTQ2cjhlWmMybU1JbUpVcHVydEpuT05heXFKRENlX19TdnVuWGF5cjdfTlNodw?oc=5"
+          "name": "Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kU3N1bUpSWmNTbXR4dmo1b2RmdXp3RnM4aEM0ZjY0eGhHNXFLOU5qNHV6RmtERlJ1Mk54YUtiQkdTdEpObzN0ck9TU2VkV3g0cng4U0Z3djhjc2czVUx0S1J6OGlPaHpIMlp5T0RBc3lYMFFZSEhXMUdkejJ3aTQ?oc=5"
         }
       ]
     },
@@ -162,30 +342,6 @@
       ]
     },
     {
-      "id": "d978930f3fb4",
-      "title": "学校における手足口病の蔓延を防止しましょう。 - Vietnam.vn",
-      "published": "2026-10-21T15:05:28+00:00",
-      "summary": "学校における手足口病の蔓延を防止しましょう。&nbsp;&nbsp;Vietnam.vn親たちは手足口病ワクチンについて懸念を抱いている。&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQklzVjl5Q2E2cUNFR3doSm5FekRKdDBuazIyNU5PanRSdjk3c1VhUHBCd1hMNTRDNlJMVUoyUDlibFdLY0puTEFpSmZFc1pPODlOTjc3T19Remd0Vl9NMkFHaG4zaGF1VzNFZ1VSb0R6YW5RNXB4QzB4QUpLY2liUkZHY0NOOWFfRzItag?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d1affde72a27",
-      "title": "その23歳の女性は、4回の美容整形手術を受けた後、フェイスリフトを受けるよう勧められた。 - Vietnam.vn",
-      "published": "2026-10-21T13:03:44+00:00",
-      "summary": "その23歳の女性は、4回の美容整形手術を受けた後、フェイスリフトを受けるよう勧められた。&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTkJMVlhHNlFnWHZhakxwaGgtQVRjdWJXb0ZMWDR6cV9aa2k1cHoyUDN6MlRfODVIT2liOTlEbkF3WEFreGhfTjhaLUY4S3hLQnVodER5T203TnhvT0YxWnllTFVON2FDRG9RZlFMVnEydUVYV1lxemlmb0hSZGlVVk1DTm4wZHJoT3FiaFktRG5zanQ5bDdRVg?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a50d6adef34f",
       "title": "人類最古のペスト流行は5500年前と判明、鍵はシベリアのマーモット　2019と2020年にも犠牲者(ナショナル ジオグラフィック日本版)",
       "published": "2026-10-21T11:35:49+00:00",
@@ -194,42 +350,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/4aa929b4d5ae92a93c346059bc2d94c8af84d6ed?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "8c35efa0b9f1",
-      "title": "保健相、新たなインフルエンザワクチンの到着と薬局への迅速な配布を発表 - Informat.ro",
-      "published": "2026-10-21T11:13:06+00:00",
-      "summary": "保健相、新たなインフルエンザワクチンの到着と薬局への迅速な配布を発表&nbsp;&nbsp;Informat.ro",
-      "sources": [
-        {
-          "name": "Informat.ro",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWXRoRVRlbFROZElUeG5fdk1tRnd4QV9hTlpkOU0tT18way15bVRJZWl6VFNjUFFJcDh2MzFqOFlPMWNFWUZCZlF6UnROVHhvMl9hblRuUTQxOGFOLW9Ec2tURk1uZUt2cmVVbk00NWJCYjdEUmZETldGWnhNbGhsQjczLWU3VTA2XzNvamIxVGYxZm5YV1R6eXVnUFNLUGJ2V0hFVzJFTDEtbF9hWmM3VGlvSnRiVmpjUXVNVA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "82b86e1ff2db",
-      "title": "科学的研究を通じて予防医学の有効性を向上させる。 - Vietnam.vn",
-      "published": "2026-10-21T11:07:16+00:00",
-      "summary": "科学的研究を通じて予防医学の有効性を向上させる。&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNjl4RmlCMktHNEVJYjd4a2tjaEtMQzRDbGM3TTJwdGItbGNTdUs1ZzR2bU92QzJQZzJ5cTlnajdqRXVJMlMtc0lhY0ROYVoycGN4RlB6TlcxX2VsNEplbU5idXZBc3MxYUdIdDBfelZ0b1NuOWhocHRmOVlBZlFucTlXOEVESU9m?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "65eb3396e037",
-      "title": "その女性は首に異常な症状が見られたため、救急治療室に搬送された。 - Vietnam.vn",
-      "published": "2026-10-21T11:01:00+00:00",
-      "summary": "その女性は首に異常な症状が見られたため、救急治療室に搬送された。&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3Z0NnUDQyWGVmS01GNXZQNDdreGtTc3ZmWVp6RTdCa3ctWEdFd3VpWEFHZjhxRFN6UkpBQlVjRklnRjRWbVJFY1FrQ0s3dHI5SzY3eUpTQmQ2M0p0ZzVWQ3RmMUNia0t2Ymx1T2Fzd3MtNjlua1ptdndR?oc=5"
         }
       ]
     },
@@ -258,38 +378,26 @@
       ]
     },
     {
-      "id": "f7cbf13f7c83",
-      "title": "健康診断のたびに体重計に乗って体質量指数(BMI)の数値だけを確認していた肥満判定方式に変化が必要だという大規模な研究結果が出た。 心筋梗塞、脳卒中、不整脈など予防しようとする主要疾患によって、単純体.. - 매일경제",
-      "published": "2026-10-21T10:26:00+00:00",
-      "summary": "健康診断のたびに体重計に乗って体質量指数(BMI)の数値だけを確認していた肥満判定方式に変化が必要だという大規模な研究結果が出た。 心筋梗塞、脳卒中、不整脈など予防しようとする主要疾患によって、単純体..&nbsp;&nbsp;매일경제",
-      "sources": [
-        {
-          "name": "매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5lTHFRYU1CVUdTTHJlNHFTSkd0YzM1UFc1QUd1QVkta3ZKRWdxalVUckFYVW5HTmdBQzYzTWJvX09VZ3VnbXAxSmtXNA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "f82579c77d27",
-      "title": "「痛くない」インフルワクチン フルミストは鼻の中に吹きかける 流行前倒しで在庫が少ない病院も 大分 - TOSオンライン",
-      "published": "2026-10-21T10:20:00+00:00",
-      "summary": "「痛くない」インフルワクチン フルミストは鼻の中に吹きかける 流行前倒しで在庫が少ない病院も 大分&nbsp;&nbsp;TOSオンラインGoogle ニュースで見出しと意見をもっと見る",
-      "sources": [
-        {
-          "name": "TOSオンライン",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5sTldvWFUtRnRSMXprbVdwelFtaVRmUUx5TmdjTVFCbDVCaHlNVm4tVnNBRWZDYjlPQXhVR0g5Tlp6S19ZZFpCWXA0V2NjdTZlenV0MnRpYUktanpT?oc=5"
-        }
-      ]
-    },
-    {
       "id": "c8f84eb12d59",
       "title": "長崎県内で2例目　佐世保市で70代女性が日本脳炎に感染 - ｄメニューニュース",
       "published": "2026-10-21T10:00:00+00:00",
-      "summary": "長崎県内で2例目 佐世保市で70代女性が日本脳炎に感染&nbsp;&nbsp;ｄメニューニュース県内で今年2例目「佐世保市の70代女性が日本脳炎を発症」10月14日に長崎市の10代男性が発症《長崎》（長崎国際テレビ）&nbsp;&nbsp;Yahoo!ニュース長崎で今年2例目の日本脳炎 佐世保の70代女性、発熱と意識障害&nbsp;&nbsp;毎日新聞県内で今月2件目の日本脳炎感染 佐世保市の70代女性が発熱や意識障害で入院 全国5件中2件が長崎で発生&nbsp;&nbsp;TBS NEWS DIG【長崎】佐世保市で７０代女性が日本脳炎発症 野外では長袖・長ズボン着用など対策を（長崎文化放送）&nbsp;&nbsp;Yahoo!ニュース",
+      "summary": "長崎県内で2例目 佐世保市で70代女性が日本脳炎に感染&nbsp;&nbsp;ｄメニューニュース【長崎】佐世保市で７０代女性が日本脳炎発症 野外では長袖・長ズボン着用など対策を（長崎文化放送）&nbsp;&nbsp;Yahoo!ニュース日本脳炎、佐世保の７０代女性が発症 発熱や意識障害で受診…長崎県内で今年２例目 &nbsp;&nbsp;ｄメニューニュース県内で今月2件目の日本脳炎感染 佐世保市の70代女性が発熱や意識障害で入院 全国5件中2件が長崎で発生&nbsp;&nbsp;TBS NEWS DIG長崎で今年2例目の日本脳炎 佐世保の70代女性、発熱と意識障害&nbsp;&nbsp;毎日新聞",
       "sources": [
         {
           "name": "ｄメニューニュース",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdDJrR21xWFAyTkFHeUIwcjYycnFVa25SVVlYRlQ1MnI3dlczMmNIb0REZDdrblhEQ29BUk5NcWpHUnQ2Rk1LS1AtSWsxdk1OM1hQTUplVXh0Sm9MaWJDMHBNMkh4a2NjMmVOUG9RaTN0Z1hJSVdvNC1EUW84V2tTYzBPY1FIQlnSAXpBVV95cUxOQ19JN3FvbVlBVVQzb0otMlhrbXdoTXhpd2ZqVVhmLVZQbjJvZHhOQU9pWTFHdVJ2MktJb3U2bW9uc1ZGLW5GUi1CME1jZE5XUG81UTE4OUVRM1NaUE94OGJJdk1XdFdzVnhTQjF2VzBKVVhZSGJNcTRpQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "1c429a2daec8",
+      "title": "帯状疱疹に感染すると、その後何年も後遺症に苦しむ。 - Vietnam.vn",
+      "published": "2026-10-21T09:32:12+00:00",
+      "summary": "帯状疱疹に感染すると、その後何年も後遺症に苦しむ。&nbsp;&nbsp;Vietnam.vn【うめきた温泉 蓮 Wellbeing Park】10/26 提携医療機関「医誠会国際総合病院」と共同で第18回健康セミナーを開催&nbsp;&nbsp;愛媛新聞帯状疱疹の症状・治療・ワクチンを学ぶ公開医学講座開催&nbsp;&nbsp;Excite エキサイト",
+      "sources": [
+        {
+          "name": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBURUp5ajJUT2Jtd0JSdWdmc2h6cTBzUGJJQzZFcEh0RndPcDBUWFdMNi1RdEZCQUZUdXJ4NzV2U2NETGQ4Sk1ORHBpd2ptSHFHVHlXUVdJQVd1SHozelNJNkl1dDB3Z2lkRFFJdEhhT1BFVUo5SmdwUmF0VQ?oc=5"
         }
       ]
     },
@@ -326,18 +434,6 @@
         {
           "name": "Laodong.vn",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbWkwbGtzMUYxS2V2VGdfaU9TbTRjQnNRWkdJcUE2MTZJVGR4ZWFPSk1SbDgzRGhhNERRMVVnaDN5UzBlV1BXQWZicmNBMG50ZG9oUzhfMGlrN3R4aVZDemd0NTc4b0tKY0RMaDJCeWthc3kyRmlxTXZ4VElNcEFacGtDQVRxd1FMSEp6ZkV4UTBUOW53V3JQOHNR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "d2fa50c287ba",
-      "title": "メコンデルタ地域の医療従事者に対し、腎臓病学に関する深い知識を普及させる。 - Vietnam.vn",
-      "published": "2026-10-21T05:20:22+00:00",
-      "summary": "メコンデルタ地域の医療従事者に対し、腎臓病学に関する深い知識を普及させる。&nbsp;&nbsp;Vietnam.vnGoogle ニュースで見出しと意見をもっと見る",
-      "sources": [
-        {
-          "name": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQ1VSZ3JDY1JaSlNnZUtjWC1YQ1BXbmFBaWVqajNtVUhGQnh2S1dleWlId2d3cTNGcTZKM1pJdG1zMGpOMHVKb3ZJeG1rbGlWUmRhS1dadmY1Sng5V3VPTng2bGNmaW9EXzUtZ1ZfUndGTUVVSi1ROG9nQjRfLTNZZnU3TmRQYmFjMmVqTndWVlJlZzQ?oc=5"
         }
       ]
     },
@@ -426,6 +522,18 @@
       ]
     },
     {
+      "id": "832a8bd21f50",
+      "title": "【闘病】ななめ45°岡安章介、下咽頭がん発覚「死んじゃうのかな…」ステージ4の巨大腫瘍の恐怖 (2026年10月21日掲載) - ライブドアニュース",
+      "published": "2026-10-21T02:07:35+00:00",
+      "summary": "【闘病】ななめ45°岡安章介、下咽頭がん発覚「死んじゃうのかな…」ステージ4の巨大腫瘍の恐怖 (2026年10月21日掲載)&nbsp;&nbsp;ライブドアニュースななめ45°岡安 違和感でがん判明&nbsp;&nbsp;Yahoo!ニュース【闘病】ななめ45°岡安章介、下咽頭がん発覚「死んじゃうのかな…」ステージ4の巨大腫瘍の恐怖【Gallery】&nbsp;&nbsp;メディカルドック【闘病】ななめ45°岡安章介、下咽頭がん発覚「死んじゃうのかな…」ステージ4の巨大腫瘍の恐怖（メディカルドック）&nbsp;&nbsp;Yahoo!ニュース",
+      "sources": [
+        {
+          "name": "ライブドアニュース",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4ydFR1eGhlUDlHVEhfWmsycmpnanR3NXJMRGo0YVRhN1pUeEhZSm5sa21WeEJNaXRUY1dPVWd6d1VXai1FdkYxLXlyZFRLNWpXY1FxUnBmZW1TRHQwaEE?oc=5"
+        }
+      ]
+    },
+    {
       "id": "57b06699a960",
       "title": "ユークリッド宇宙望遠鏡が初めて彗星を発見　将来の彗星探査ミッションとの連携を試す実例に(sorae 宇宙へのポータルサイト)",
       "published": "2026-10-21T01:46:58+00:00",
@@ -434,18 +542,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/af0a0e410368a55b9ce1f85a0295e2dd10c9a15e?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "859c74442ca6",
-      "title": "フーコック島、デング熱患者数を減らすための多くの対策を断固として実施 - Laodong.vn",
-      "published": "2026-10-21T01:12:31+00:00",
-      "summary": "フーコック島、デング熱患者数を減らすための多くの対策を断固として実施&nbsp;&nbsp;Laodong.vnフーコック島では1000件以上のデング熱感染例が記録され、ワクチン接種の需要が高まっている。&nbsp;&nbsp;Vietnam.vnデング熱の発生を予防・抑制するための積極的な対策。&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeV9veGU1YjFOeDlJaWxRaWJ4UmdRWDUtNGdGdmhTUDB4cFNkdzVnVWYyMHZuRzBDRFhaelJtc045Tm5ncVAxOGx4dzlOTm1ydGl2YnBkOURaYXlNQkJNODRta3Bjdjlid0szSnNvUTh3SldRZFY3Um1QWEFBOFFKVTNOaE5FbUNGN2xVMVlvaEZONk9nR2lLNmE0bFVWaWRZellaSkJxVUJpcTZaSlZRcGFfS0VsR1FockFz?oc=5"
         }
       ]
     },
@@ -462,18 +558,6 @@
       ]
     },
     {
-      "id": "b302272f4c48",
-      "title": "【142】「子宮内膜症」があると糖尿病のリスクが高まる？ 約290万人の調査でわかった意外な関係 - シティリビングWeb",
-      "published": "2026-10-21T00:30:07+00:00",
-      "summary": "【142】「子宮内膜症」があると糖尿病のリスクが高まる？ 約290万人の調査でわかった意外な関係&nbsp;&nbsp;シティリビングWeb",
-      "sources": [
-        {
-          "name": "シティリビングWeb",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aTXFTMjNsME1JQVNpS2dRSUJXd0ZxQ2NxaGNiY2hLX1lBY2t0QkloN3BXOEtpSE5YYlRlelhlZldERjhPQVFlQzRJSjd0cHI0Z3BObl9BSzUwcFU?oc=5"
-        }
-      ]
-    },
-    {
       "id": "0b16d1f0a2c7",
       "title": "JAXA、火星衛星探査機の打ち上げ成功──火星の月から初の試料帰還と8K映像の持ち帰りへ(Forbes JAPAN)",
       "published": "2026-10-21T00:00:00+00:00",
@@ -486,18 +570,6 @@
       ]
     },
     {
-      "id": "e8788a935e8f",
-      "title": "ワクチン副反応「評価できない」表現を見直し 集団解析の役割明確化（朝日新聞） - ｄメニューニュース",
-      "published": "2026-10-20T21:07:58+00:00",
-      "summary": "ワクチン副反応「評価できない」表現を見直し 集団解析の役割明確化（朝日新聞）&nbsp;&nbsp;ｄメニューニュース",
-      "sources": [
-        {
-          "name": "ｄメニューニュース",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9GWVhfRUJqTHNhLVRkTkJJNnVVeUVUNHFBVGpHLVFyaGhiWWlwY2RPRzR0SllwNWpzaEpCSnRDUHBFN3BuaGJWNTNSQklzUERuLUxlaDNULWFfSkFHMk42NXFxVlZLc1k4eUtzN3FDRlJ0SXNaa2V0QVlRVQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "440271ee4bf9",
       "title": "心臓にある「ミニ脳」の謎で新たな発見、一体何をしているのか - ナショナルジオグラフィック日本版",
       "published": "2026-10-20T21:00:00+00:00",
@@ -506,6 +578,18 @@
         {
           "name": "ナショナルジオグラフィック日本版",
           "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54c3Y0Qjd2ZTVjYmlLdUQwRDNrQ0NuRHFGblhLb3IzNVBrQ01DRlpHMUF0dnRmRWZ0ZV9JQ04wQ0drX2FPdXd6a1NDNlZ5RUFTMklObFBwYlBDamZ4b1dzTUtIM2RveVFULWVhVUY3amtHckE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "9bd4399338fd",
+      "title": "ワクチン副反応「評価できない」表現を見直し 集団解析の役割明確化（朝日新聞） - Yahoo!ニュース",
+      "published": "2026-10-20T21:00:00+00:00",
+      "summary": "ワクチン副反応「評価できない」表現を見直し 集団解析の役割明確化（朝日新聞）&nbsp;&nbsp;Yahoo!ニュース",
+      "sources": [
+        {
+          "name": "Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oR2RSMUczM2RyREdCS1YwR0p4THhrMmtIa2RVdHhqOHpDU1RzcENOTU5VODY2SzJWQWExWGV6V0YzaVU3ZGdDX3p1UU1fWDlvNGNNZ1p1S3Rieml6cklFTlpEZlh2eXJJa2tPZjdQU1BVUFdYQ1ZWdGJGd01PXzg?oc=5"
         }
       ]
     },
@@ -546,18 +630,6 @@
       ]
     },
     {
-      "id": "b9f2fec9accc",
-      "title": "医師たちは毎日帯状疱疹の患者を診察し、その恐ろしい後遺症について警告している。 - Vietnam.vn",
-      "published": "2026-10-20T16:21:41+00:00",
-      "summary": "医師たちは毎日帯状疱疹の患者を診察し、その恐ろしい後遺症について警告している。&nbsp;&nbsp;Vietnam.vn【うめきた温泉 蓮 Wellbeing Park】10/26 提携医療機関「医誠会国際総合病院」と共同で第18回健康セミナーを開催&nbsp;&nbsp;愛媛新聞帯状疱疹の症状・治療・ワクチンを学ぶ公開医学講座開催&nbsp;&nbsp;Excite エキサイト",
-      "sources": [
-        {
-          "name": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOHk1NHNFdGZFMk5Kc1JCZ3ViX2lXRS1VekJGT2ExYVVUZklEZFNpOVNJWHA2MHBaRzhlLW9BRWVnUlBUamxqWFFkYUJrNFRwUUVEdEloUVpTcDd3eWZQWGJMckJwaERMVmQxMjRtQndBWmU3NHA3MjQ0VWMtZ0FpbmswZkt6LS1DYzQ1V1NKWDNtVGhtWkE?oc=5"
-        }
-      ]
-    },
-    {
       "id": "9a5a1593643a",
       "title": "「バクテリアで作った紙」が4000万表示超えの大反響 ⇒ 受験落ちたので研究を〝供養〟「特許取るべき」「企業とつながってほしい」の声(西日本新聞me)",
       "published": "2026-10-20T14:20:17+00:00",
@@ -590,18 +662,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/54509cf1a4370dc5d02c6a0f994abec11f1ee18f?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "79e7f73f87a2",
-      "title": "ADHDと診断された人は死亡リスクが約70%高い：1,592万人の大規模研究で判明 - XenoSpectrum",
-      "published": "2026-10-20T08:40:45+00:00",
-      "summary": "ADHDと診断された人は死亡リスクが約70%高い：1,592万人の大規模研究で判明&nbsp;&nbsp;XenoSpectrum",
-      "sources": [
-        {
-          "name": "XenoSpectrum",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE03RjZ0OWNONDBaUzdNT2o0SXZsZzcxSmlKdWRxZjJydVFKVFFVaWZ2dzd5NXRWRG1sR2RXTUliWTJoMHhsUXZiOFdMNGh0cmdaTklTMDNiUjVJemxsOTF2VmNIdUlFMWowQm9rVjh3aU13dXVreTBUYQ?oc=5"
         }
       ]
     },
@@ -642,14 +702,14 @@
       ]
     },
     {
-      "id": "937cbc6bf05c",
-      "title": "｢風邪にビタミンC｣は本当か？1万人超の検証が明かす真実 効果を信じ3000mgを毎日摂り続けたノーベル賞学者の正体 - Infoseek",
-      "published": "2026-10-20T05:00:00+00:00",
-      "summary": "｢風邪にビタミンC｣は本当か？1万人超の検証が明かす真実 効果を信じ3000mgを毎日摂り続けたノーベル賞学者の正体&nbsp;&nbsp;InfoseekGoogle ニュースで見出しと意見をもっと見る",
+      "id": "fc04b34607b3",
+      "title": "血圧が上がりやすい冬は室温は１８度以上を目安に…日本高血圧学会、心不全や心筋梗塞・脳卒中などが増加 - 読売新聞",
+      "published": "2026-10-20T06:58:00+00:00",
+      "summary": "血圧が上がりやすい冬は室温は１８度以上を目安に…日本高血圧学会、心不全や心筋梗塞・脳卒中などが増加&nbsp;&nbsp;読売新聞Google ニュースで見出しと意見をもっと見る",
       "sources": [
         {
-          "name": "Infoseek",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RSkZUMWdGVDgzYndPYlp2dVhDT05RSHdQejFvbnJacE1vZk5naUdTTU9tVEJoZUd5ak5YaDA4cjZCV05VQjBnTHgtTVBGaDBKbW1yUmdvcFlJYjhkeF91T3RYUXNSM3NZRkxuZWxxMHI?oc=5"
+          "name": "読売新聞",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZTGQ3SUxGU1BTQk9WTFUzVmhJd2VpQno5RExmQWRqODVFVTFlMF9YdmNmU3dwWVNTYlNlTG9MSXh0b0NLb1hteTAtNm9UVmhoZk04eklfc2Z5WlpZbkFJR3ZxQThrME5nS3Myb0VB?oc=5"
         }
       ]
     },
@@ -678,18 +738,6 @@
       ]
     },
     {
-      "id": "135aca8de6f8",
-      "title": "アルツハイマー病にＡＬＳ治療薬、回復メカニズムを解明 山口大大学院と山口東京理大の研究グループ【宇部】 - 宇部日報デジタル SARATTO",
-      "published": "2026-10-20T04:00:00+00:00",
-      "summary": "アルツハイマー病にＡＬＳ治療薬、回復メカニズムを解明 山口大大学院と山口東京理大の研究グループ【宇部】&nbsp;&nbsp;宇部日報デジタル SARATTO",
-      "sources": [
-        {
-          "name": "宇部日報デジタル SARATTO",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCQjd5MWFfcjRFb2ljVGllUnl5WHRnSHN6MzRTUXZwVWZsMGlzTEFrT0Nhb3N0RXdvdUhRcGhrNWx3d0JsY29NcUZOTGp2QWsxSHVXeQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "7f9221bd4318",
       "title": "JAXAが「H3」ロケット10号機を打ち上げ　火星衛星探査機「MMX」の軌道投入に成功(sorae 宇宙へのポータルサイト)",
       "published": "2026-10-20T03:28:22+00:00",
@@ -698,6 +746,30 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/ecafeba90983a77824b07edf8127e1cc9f496969?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "37cbf5f1ec9d",
+      "title": "｢風邪にビタミンC｣は本当か？1万人超の検証が明かす真実 効果を信じ3000mgを毎日摂り続けたノーベル賞学者の正体 - 東洋経済オンライン",
+      "published": "2026-10-20T03:00:00+00:00",
+      "summary": "｢風邪にビタミンC｣は本当か？1万人超の検証が明かす真実 効果を信じ3000mgを毎日摂り続けたノーベル賞学者の正体&nbsp;&nbsp;東洋経済オンラインGoogle ニュースで見出しと意見をもっと見る",
+      "sources": [
+        {
+          "name": "東洋経済オンライン",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0tbHRGVzUyQWVKLTVDTTE2eEZobFRlaXE4dTROQnFKTVA4cGFwaUJWWUVqNTNPVmZwQWpGa1o5aGpEc09ybktlRTFCa0tpOUtPTmtMMkRacndTc3M?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4ce9ca2430c9",
+      "title": "ADHDの人は死亡リスクが高いがADHD治療薬を服用するとリスクが軽減される可能性 - GIGAZINE",
+      "published": "2026-10-20T03:00:00+00:00",
+      "summary": "ADHDの人は死亡リスクが高いがADHD治療薬を服用するとリスクが軽減される可能性&nbsp;&nbsp;GIGAZINE",
+      "sources": [
+        {
+          "name": "GIGAZINE",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44YlJTY3ZuV05oN3FBT2dhZEt5ekJjQ2JKOWdidzE3dWRjdm82RHJRMlNwX01aSUQ4c1BUSXlMTlduSXZKRFAxUHBuc18tTWFWS0hUS3hyVW1GLVhoeWZXQlVsLWMxSl9UcndXMi1zbUNVd01YTmtTUlNn?oc=5"
         }
       ]
     },
@@ -726,6 +798,18 @@
       ]
     },
     {
+      "id": "4bd6df12250e",
+      "title": "てんかんの定位的温熱凝固術、開頭手術より虚血性合併症が減少－NCNPほか - QLifePro",
+      "published": "2026-10-20T00:00:00+00:00",
+      "summary": "てんかんの定位的温熱凝固術、開頭手術より虚血性合併症が減少－NCNPほか&nbsp;&nbsp;QLifePro",
+      "sources": [
+        {
+          "name": "QLifePro",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE93ZXdWcmRCbU5nakxfS1lIVVRDSl9tWFd0eXFnOU1LUW1XUVhWM09WUUtYMHRHZG0wcnloZTRCN3UwR2ZldlVLYXlhZjlvMFI2UGl0aEQ1ZnlnX0Y0ODFIM0ZzOEhvT1F6THdTdzI3Mk9qNHc?oc=5"
+        }
+      ]
+    },
+    {
       "id": "b2fe21d86b81",
       "title": "H3ロケット10号機打ち上げ成功　火星衛星探査機「MMX」を軌道に投入(Yahoo!ニュース オリジナル THE PAGE)",
       "published": "2026-10-19T21:21:00+00:00",
@@ -738,42 +822,6 @@
       ]
     },
     {
-      "id": "7a5de38f363d",
-      "title": "小惑星「2026 RW1」を落下前に発見　落下前の観測事例は13例目(sorae 宇宙へのポータルサイト)",
-      "published": "2026-10-19T12:00:59+00:00",
-      "summary": "地球には直径1mくらいの小惑星が、2週間に1回程度の頻度で落下していると推定されています。しかしそのほとんどは火球として観測されるだけであり、落下前に宇宙空間で発見されることは稀です。Richard",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/474ed43eee8b161449db85e18de9af3b2ec10f09?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "5597d570808b",
-      "title": "ゲームクリエイターの麻枝准さんが「咽頭がん」を公表。初期症状や治療法を医師が解説(メディカルドック)",
-      "published": "2026-10-19T09:01:32+00:00",
-      "summary": "『CLANNAD』や『ヘブンバーンズレッド』などで知られる脚本家・ゲームクリエイターの麻枝准さん（51）が19日、咽頭がんとの診断を受け、緩和ケアを中心とした療養を選択したことを公表しました。本記事で",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/58f0d541847285ce8fc575978d3ea849741a409a?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "31686bae08e0",
-      "title": "H3ロケットが発射地点に移動　火星衛星探査機「MMX」を搭載、20日早朝に打ち上げ(産経新聞)",
-      "published": "2026-10-19T07:04:09+00:00",
-      "summary": "宇宙航空研究開発機構（JAXA）は19日、世界初となる火星の衛星からの試料回収を目指す火星衛星探査機「MMX」を搭載した、日本の主力大型ロケット「H3」10号機を、種子島宇宙センター（鹿児島県）の発射",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/710917511c6007dee6478358c09127ce368f48b0?source=rss"
-        }
-      ]
-    },
-    {
       "id": "bf40c3ae2c12",
       "title": "インフル流行期も要注意、今も年2万人が死亡する新型コロナで受診が遅れると“選べなくなる治療\"とは【医師解説】 - メディカルドック",
       "published": "2026-10-19T01:46:07+00:00",
@@ -782,18 +830,6 @@
         {
           "name": "メディカルドック",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fbVlEamxVZXZ5c2tvdzFNUVk4RDR3ZGdWb2JOWmFJZC1uZlF1REpBVzdKRmtabFRqdzJOcDkwUEV6RGo1Q250V1pPYUVYNEVzS1RGR1J6bWhDRjJO?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "8eed686c5bf7",
-      "title": "特定の食事法に限らず、健康的な食事は老化の遅延と関連｜ニュース - 保健指導リソースガイド",
-      "published": "2026-10-19T01:08:41+00:00",
-      "summary": "特定の食事法に限らず、健康的な食事は老化の遅延と関連｜ニュース&nbsp;&nbsp;保健指導リソースガイド",
-      "sources": [
-        {
-          "name": "保健指導リソースガイド",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGRVNOMUZUOVd3aDFRdnlQaFNXRHViQ1pSMkVmMmpoNDI4Szl6NUYxTU9ac0NmbFBRbEE3d05HSy1DYnpUZzRZOEJVVW1vRXNhV2FzTEpKZnd5bjB3OEtacFloUEJwS29Z?oc=5"
         }
       ]
     },
@@ -846,26 +882,14 @@
       ]
     },
     {
-      "id": "50110604772f",
-      "title": "キャシー・スピンドラー：エピジェネティック・サイレンサーの単回投与が宿主DNAに触れることなくB型肝炎抗原を98%低減 - BigGo ファイナンス",
-      "published": "2026-10-18T05:08:00+00:00",
-      "summary": "キャシー・スピンドラー：エピジェネティック・サイレンサーの単回投与が宿主DNAに触れることなくB型肝炎抗原を98%低減&nbsp;&nbsp;BigGo ファイナンス",
+      "id": "37650a7e4609",
+      "title": "若年性認知症の49歳男性「ある朝、どこで何をしているかわからなくなっていた」衝撃を経て…「働ける人はいる」と力強く語る理由 - AERA DIGITAL",
+      "published": "2026-10-18T01:00:00+00:00",
+      "summary": "若年性認知症の49歳男性「ある朝、どこで何をしているかわからなくなっていた」衝撃を経て…「働ける人はいる」と力強く語る理由&nbsp;&nbsp;AERA DIGITALGoogle ニュースで見出しと意見をもっと見る",
       "sources": [
         {
-          "name": "BigGo ファイナンス",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RbG9oN2Z6TnJNdjFGRlI1VlVFQmxJeTBfdmpzVTU0Um9QWWQyVWVXdlA1YU1WQlpSTkdPdGtLUmx0MXRGZ1pNVE1mcHdsREloeUNJN25kcEp6UQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "650e0ac63bef",
-      "title": "ベトナムでは700万人が糖尿病を患っており、専門家は生活習慣の見直しを警告している。 - Vietnam.vn",
-      "published": "2026-10-18T03:10:34+00:00",
-      "summary": "ベトナムでは700万人が糖尿病を患っており、専門家は生活習慣の見直しを警告している。&nbsp;&nbsp;Vietnam.vn若年で2型糖尿病と診断された人はADHDや自閉症の有病率が高い｜ニュース&nbsp;&nbsp;糖尿病ネットワーク若者の不規則な生活習慣：慢性疾患のリスクを示す警告サイン。&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOX1AyTWlPOVRmbGZRQXNmbkNyUlg0UHJrekNSSTBjRENmRnpYRUliTTZtS0hRUHRpWDZjUkR0Y2hlU3ZpaXRValozeGo2ZTNfQ3V2M3lqVXlXRzFuY3ZwZU9zeWppOTNBWHFycllHZl96X29CZVRZUC02RjBZWGE4UDM1M1B3ckw2S2hZdG5MMTluNVlFVWc?oc=5"
+          "name": "AERA DIGITAL",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53OUJ5YjBuLUdDWmhCMEpiaU9JU3NxMVVmb1pIWDRxZ0FsYzJaYVh6U1JvSHdFQW9OdDFjNU5kYmNhUy1iODh4UG9MYW0tLUpuLXE4Y2pRZm05QQ?oc=5"
         }
       ]
     },
@@ -894,18 +918,6 @@
       ]
     },
     {
-      "id": "fa4666765bd4",
-      "title": "2026年夏季におけるインフルエンザの流行入りとインフルエンザウイルスについて - 国立健康危機管理研究機構",
-      "published": "2026-10-16T06:34:15+00:00",
-      "summary": "2026年夏季におけるインフルエンザの流行入りとインフルエンザウイルスについて&nbsp;&nbsp;国立健康危機管理研究機構",
-      "sources": [
-        {
-          "name": "国立健康危機管理研究機構",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNLTVaLVhzYXdiNk10Q2lKdG82M0hIQnN4T0pid05VLUtoX0YyRWt5TDRHOWQzLXJPXzRjSEVOVUxveEpNVTRHcFZHOEhBdkpZVHJHandxTXdWa2ZFUVQxRzBodV93SzRXMG1XY0hLdTVPdzVlWkw1d0t1UVU5b2toOURB?oc=5"
-        }
-      ]
-    },
-    {
       "id": "25ee0aec1350",
       "title": "欧州で西ナイルウイルス感染増加、今年141人死亡＝報告 - Reuters",
       "published": "2026-10-16T04:43:00+00:00",
@@ -914,6 +926,30 @@
         {
           "name": "Reuters",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTlpMeWRqNDlsUkpVMjZpNVBYSGdpeUljR21oMWpPb2lDT0d6RG8xS19QeFlzU3RDdkFscmdzY04yMms4cHk5SkJ6MlJvSjBuQ2o3cGNzSndmMXY3bGhHOVVHcEh4TDJmQUJVTGNhV1dyYTNNUERjQXhseXB2R0EtRTdjeEc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f3a75cc7cfc9",
+      "title": "若年層が糖尿病を発症すると、多くの合併症が生じる。 - Vietnam.vn",
+      "published": "2026-10-16T03:02:36+00:00",
+      "summary": "若年層が糖尿病を発症すると、多くの合併症が生じる。&nbsp;&nbsp;Vietnam.vn若年で2型糖尿病と診断された人はADHDや自閉症の有病率が高い｜ニュース&nbsp;&nbsp;糖尿病ネットワーク若者の不規則な生活習慣：慢性疾患のリスクを示す警告サイン。&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5TM0toYTRQZWxaTl9OLTRaZUlRUzk1Yl9HSkRickRoaExJQVVoSXZuTWtaZktJajZWbk9WYXcxOWEwdHY5dmYzU1hTZk1iN2NJaHFRNHZfNk9MRTRPemJvaDJWWEtCcUlJbGY0cWVZTTY5UzFtMlpVRFlNZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "c4ca28eb2509",
+      "title": "世界初、ケモカインCCL28による肝臓保護機構を解明 特殊IgA細胞の動員で慢性肝炎の抑制、新規治療法開発に期待 - アットプレス",
+      "published": "2026-10-16T01:00:00+00:00",
+      "summary": "世界初、ケモカインCCL28による肝臓保護機構を解明 特殊IgA細胞の動員で慢性肝炎の抑制、新規治療法開発に期待&nbsp;&nbsp;アットプレス",
+      "sources": [
+        {
+          "name": "アットプレス",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8zQy1KT3MwbFJJd2VlRzFHeHB0SWFpWnFOa3hMU3pwUkdQM0FiRDYxaG1kNmZsb3lpZHBRUmZjY01pSVlaaHRFTS1BalJraEk?oc=5"
         }
       ]
     },
@@ -938,18 +974,6 @@
         {
           "name": "YOUよっかいち",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DNS1QQnZwTVZNSmlqZ082cF9TVGRicTRMRTZRR1RzYlF0VlpuaTV2dlljb0UwQVMtOFBNTFhWUXh5aWF4cXNqUkN4blZTbXd4am9ZbzZMZWFVNWM?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "2b01cda9bb73",
-      "title": "46歳で認知症になっても再就職。「今の人生も悪くない」当事者が伝えたい“できること” - ｄメニューニュース",
-      "published": "2026-10-15T06:53:00+00:00",
-      "summary": "46歳で認知症になっても再就職。「今の人生も悪くない」当事者が伝えたい“できること”&nbsp;&nbsp;ｄメニューニュースGoogle ニュースで見出しと意見をもっと見る",
-      "sources": [
-        {
-          "name": "ｄメニューニュース",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdXhJMkltdlJMaEhMbkg2T3NWLU5jUWhfamw5Y2pqSHNDNkJFQkNfRGkxTklobmhWbU41cm1EVnFLN3pxVWRZWWw1NHNsbF9QRVNNMm5sOEJaRUg3STQzNGRGdVEwY2xOZGVOR1FFa0g0OExtbHFjRFNnZ0Q2RGpwOdIBhgFBVV95cUxQMmlwMjNkMjg2am1FUXF4aW04cVBGaFNYd0h6dHdFUUhIQXJKY2Z3WGt3eV9hX01oeVBiNHFIV0syYl9Ed09nOGl2MkJpYnRVZVk3OFNRdTBtMjVmcFJDVk9GYjc4by1tVDA1OU1vS2xGRHFxMkwwSWdqcHF2MlREMFZ3N3VLZw?oc=5"
         }
       ]
     }
