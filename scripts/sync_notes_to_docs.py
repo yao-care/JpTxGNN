@@ -166,9 +166,14 @@ def extra_front_matter(bundle_path: Path, evidence_level: str, indication_count:
     kf = bundle_path.parents[3] / "docs" / "_data" / "keep_indexed.json"  # S-06：例外清單
     if kf.exists():
         keep = set(json.loads(kf.read_text(encoding="utf-8")).get("pages", []))
-    # 2026-10-22：「無新預測」改用 0.99 門檻＋排除已知用途後的清單（mon）；本文引用 NCT／PMID 的保留收錄（與 url_cleanup_20261016 同口徑）
-    cites = re.search(r"NCT\d{8}|pubmed\.ncbi\.nlm\.nih\.gov/\d+", content or "")
-    if bundle is not None and not mon and evidence_level == "L5" and not cites and bundle_path.parent.name not in keep:
+    # 2026-10-22：新判斷（0.99 門檻＋排除已知用途後無新預測、L5、本文無 NCT／PMID）會改變收錄範圍，
+    # 用戶決定前預設關閉（SYNC_NOINDEX_099=1 才啟用），維持原本「證據包沒有預測且 L5」的判斷
+    if os.environ.get("SYNC_NOINDEX_099") == "1":
+        cites = re.search(r"NCT\d{8}|pubmed\.ncbi\.nlm\.nih\.gov/\d+", content or "")
+        no_new = not mon and not cites
+    else:
+        no_new = not names
+    if bundle is not None and no_new and evidence_level == "L5" and bundle_path.parent.name not in keep:
         lines += ["noindex: true", "sitemap: false"]
     return "".join(l + "\n" for l in lines)
 
