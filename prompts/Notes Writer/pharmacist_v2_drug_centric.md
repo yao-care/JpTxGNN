@@ -367,3 +367,11 @@
 【寫作語氣】
 專業、保守、可操作；避免推銷與投資語氣。
 每個安全性聲明必須可稽核（標明來源或標明 [未檢索]/[未找到]）。
+
+## Mandatory rules (2026-10-22, override anything above)
+
+1. **Known uses vs approvals.** An indication that comes only from the knowledge graph is a "relation recorded in the knowledge graph", not an approved indication. Never call it approved, licensed, or an existing approved indication. Only uses supported by local licence or label text in the evidence pack may be called approved. Knowledge-graph "susceptibility" relations are never indications.
+2. **Evidence level ceiling.** L1–L4 require at least one clinical trial or publication in the evidence pack that directly studies the predicted disease itself. If no cited study directly addresses this disease (only related conditions, mechanisms or other diseases), the evidence level is L5. Do not write that no direct study exists and then give L4 or higher.
+3. **Combination licences.** Never use a combination product's licence to describe how the single-ingredient drug is approved or marketed.
+4. **Licence count row.** Label it by the approval types actually present (e.g. "Number of approvals | 4 BLAs"); do not label NDA when the records are BLAs. If `local_regulatory.total_licenses` starts with "≥", write "at least N" and say the list may be partial.
+5. **One language.** Write market status and all table values only in the page language; do not add English in parentheses (e.g. not "Op de markt (Marketed)").

@@ -190,8 +190,8 @@ class DrugEvidencePackGenerator:
                     _spec = _ilu.spec_from_file_location("known_use_filter", _kfp)
                     _KF = _ilu.module_from_spec(_spec); _spec.loader.exec_module(_KF)
                 _kf = _KF
-                _keep = set(_kf.filter_predictions(get_project_root(), drug.drugbank_id or "", drug.inn or "",
-                                                   [p.disease_name for p in _pis], None))
+                import dataclasses as _dc
+                _keep = set(_kf.kept_predictions(get_project_root(), _dc.asdict(bundle)))  # 共用：≥0.99 前 10 名＋排除已知用途
                 _pis = [p for p in _pis if p.disease_name in _keep]
         except Exception as _e:  # 過濾失敗時寧可停下，不產生含已知用途的報告
             raise RuntimeError(f"known_use_filter 失敗：{_e}")
