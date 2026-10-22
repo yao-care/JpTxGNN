@@ -62,14 +62,9 @@ JpTxGNN is a drug repurposing prediction platform for Japanese medicines, based 
 
 ## TxGNN Score Interpretation
 
-The TxGNN score represents model confidence for drug-disease pairs, ranging from 0 to 1.
+The TxGNN score (0 to 1) ranks drug-disease pairs inside the model; it is not a probability of clinical efficacy.
 
-| Threshold | Meaning | Recommended Use |
-|-----------|---------|-----------------|
-| ≥ 0.99 | Very high confidence | Priority verification |
-| ≥ 0.90 | High confidence | Detailed investigation |
-| ≥ 0.50 | Medium confidence | Reference information |
-| < 0.50 | Low confidence | Additional validation needed |
+The site only lists predictions with a score of 0.99 or higher, up to the top 10 per drug, after known uses are excluded.
 
 ---
 

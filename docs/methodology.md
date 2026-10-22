@@ -11,13 +11,13 @@ permalink: /methodology/
 
 ## 概要
 
-JpTxGNN は知識グラフベースの機械学習手法を用いて、日本の承認医薬品に対する新規適応症を予測します。
+JpTxGNN は TxGNN モデル（深層学習：生物医学知識グラフで学習したグラフニューラルネットワーク）を用いて、日本の承認医薬品に対する新規適応症を予測します。
 
-## TxGNN 知識グラフ
+## TxGNN の学習に使われた知識グラフ
 
 ### データ構造
 
-TxGNN (Therapeutic Knowledge Graph Neural Network) は、生物医学知識グラフで学習し、薬物と疾病の関係を予測するグラフニューラルネットワークです。
+TxGNN（Huang K, et al. "A foundation model for clinician-centered drug repurposing." Nature Medicine 2024）は、生物医学知識グラフで学習し、薬物と疾病の関係を予測するグラフニューラルネットワークです。
 
 | 項目 | 数量 |
 |------|------|

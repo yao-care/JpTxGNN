@@ -69,7 +69,7 @@
   }
 
   function filterByLevel(items, levels) {
-    return items.filter(item => levels.includes(item.level));
+    return items.filter(item => !item.level || levels.includes(item.level));
   }
 
   function escapeHtml(text) {

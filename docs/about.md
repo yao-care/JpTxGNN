@@ -33,9 +33,9 @@ PubMed / ClinicalTrials によるエビデンス評価、SMART on FHIR による
 
 ## 技術スタック
 
-### TxGNN 知識グラフ
+### TxGNN モデル
 
-TxGNN (Therapeutic Knowledge Graph Neural Network) は、医薬品と疾病の関係を予測するための知識グラフベースの機械学習モデルです。
+TxGNN は Harvard 大学 Zitnik 研究室が開発したモデルです（Huang K, et al. "A foundation model for clinician-centered drug repurposing." Nature Medicine 2024）。生物医学知識グラフで学習したグラフニューラルネットワーク（深層学習）で、医薬品と疾病の関係を予測します。
 
 - **ノード数**: 約129,000
 - **エッジ数**: 約8,000,000
@@ -48,7 +48,7 @@ TxGNN (Therapeutic Knowledge Graph Neural Network) は、医薬品と疾病の�
 | SSK 医薬品マスター | 薬価基準コード、薬価、単位情報 |
 | KEGG DRUG | 効能・効果、分子式、ATC コード |
 | DrugBank | 国際標準医薬品識別子 |
-| TxGNN | 薬物-疾病関係の知識グラフ |
+| TxGNN | 生物医学知識グラフで学習した深層学習モデル（Harvard）と、その知識グラフ |
 
 ## アーキテクチャ
 

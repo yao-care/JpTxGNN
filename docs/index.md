@@ -39,10 +39,12 @@ image: /assets/images/og-default.png
     <button id="lookup-search" class="lookup-search-btn">検索</button>
   </div>
   <div class="lookup-filters">
-    <span class="filter-label">スコア：</span>
-    <label><input type="checkbox" class="level-filter" value="99" checked> 99%+</label>
-    <label><input type="checkbox" class="level-filter" value="95" checked> 95%+</label>
-    <label><input type="checkbox" class="level-filter" value="90" checked> 90%+</label>
+    <span class="filter-label">エビデンスレベル：</span>
+    <label><input type="checkbox" class="level-filter" value="L1" checked> L1</label>
+    <label><input type="checkbox" class="level-filter" value="L2" checked> L2</label>
+    <label><input type="checkbox" class="level-filter" value="L3" checked> L3</label>
+    <label><input type="checkbox" class="level-filter" value="L4" checked> L4</label>
+    <label><input type="checkbox" class="level-filter" value="L5" checked> L5</label>
   </div>
   <div id="lookup-results" class="lookup-results"></div>
 </div>
