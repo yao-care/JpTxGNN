@@ -56,7 +56,7 @@ JpTxGNN is a drug repurposing prediction platform for Japanese medicines, based 
 2. **DrugBank Mapping**: Map ingredient names to DrugBank IDs
 3. **Known-use check (KG)**: Exclude relationships already recorded in the TxGNN knowledge graph
 4. **DL Prediction**: Predict new relationships using deep learning model
-5. **Integration & Filtering**: Extract predictions with confidence ≥90%
+5. **Integration & Filtering**: Keep predictions with score ≥0.99 (top 10 per drug)
 
 ---
 
