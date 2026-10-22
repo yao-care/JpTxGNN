@@ -75,7 +75,7 @@ JpTxGNN SMART App は、電子カルテシステム（EHR）から患者の用�
 <ol class="actionable-steps">
   <li><strong>医薬品名マッピング</strong>：入力名を JpTxGNN データベースとマッチング</li>
   <li><strong>予測結果検索</strong>：その医薬品のドラッグリポジショニング候補適応症を検索</li>
-  <li><strong>スコア表示</strong>：各予測にスコア（信頼度）を表示</li>
+  <li><strong>スコア表示</strong>：各予測にスコア（モデル内の順位付けの値。確率ではありません）を表示</li>
 </ol>
 
 ---

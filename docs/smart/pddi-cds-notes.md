@@ -111,9 +111,9 @@ PDDI-CDS IG は以下を定義します：
 {
   "cards": [
     {
-      "summary": "Famotidine: 新適応症候補あり",
+      "summary": "Regorafenib: 新適応症候補あり",
       "indicator": "info",
-      "detail": "TxGNN により esophagitis への効果が予測されています（スコア: 99%）",
+      "detail": "TxGNN により脂肪肉腫 (liposarcoma) への効果が予測されています（スコア 0.9976。モデル内での順位付けの値で、確率ではありません）",
       "source": {
         "label": "JpTxGNN",
         "url": "https://jptxgnn.yao.care/drugs/famotidine/"

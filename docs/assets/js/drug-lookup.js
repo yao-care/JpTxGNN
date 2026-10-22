@@ -72,6 +72,13 @@
     return items.filter(item => !item.level || levels.includes(item.level));
   }
 
+  // 索引裡的分數是百分比數字（99.91）；頁面一律顯示 0–1 的模型分數，不用 %
+  function formatScore(s) {
+    const v = Number(s);
+    if (!isFinite(v)) return '—';
+    return (v > 1 ? v / 100 : v).toFixed(4);
+  }
+
   function escapeHtml(text) {
     if (!text) return '';
     const div = document.createElement('div');
@@ -126,7 +133,7 @@
 
         if (filteredInds.length > 0) {
           filteredInds.slice(0, 5).forEach(ind => {
-            html += '<span class="ind-item"><span class="level-badge level-' + ind.level + '">' + ind.level + '</span> ' + escapeHtml(ind.name) + ' (' + ind.score + '%)</span>';
+            html += '<span class="ind-item"><span class="level-badge level-' + ind.level + '">' + ind.level + '</span> ' + escapeHtml(ind.name) + ' (score ' + formatScore(ind.score) + ')</span>';
           });
           if (filteredInds.length > 5) {
             html += '<span class="more">...' + filteredInds.length + ' in total</span>';
@@ -144,7 +151,7 @@
 
     // 搜尋適應症
     const indResults = indicationFuse.search(query).slice(0, 5);
-    const filteredInds = indResults.filter(r => levels.includes(r.item.level));
+    const filteredInds = indResults.filter(r => !r.item.level || levels.includes(r.item.level));
 
     if (filteredInds.length > 0) {
       html += '<div class="result-section"><div class="section-title">Matching indications</div>';
@@ -155,16 +162,16 @@
         html += '<div class="result-card">';
         html += '<div class="result-header">';
         html += '<span class="indication-name">' + escapeHtml(ind.name) + '</span>';
-        html += '<span class="level-badge level-' + ind.level + '">' + ind.level + '</span>';
+        if (ind.level) html += '<span class="level-badge level-' + ind.level + '">' + ind.level + '</span>';
         html += '</div>';
         html += '<div class="result-drugs"><strong>Candidate drugs (' + indDrugs.length + '):</strong> ';
 
         indDrugs.slice(0, 5).forEach(d => {
           html += '<div class="drug-item">';
-          html += '<a href="' + (d.url || config.drugsBaseUrl + d.slug + '/') + '">' + escapeHtml(d.name) + '</a>';
-          html += '<span class="level-badge level-' + d.level + '">' + d.level + '</span>';
-          html += '<span class="score">' + d.score + '%</span>';
-          html += '<span class="original-hint">' + escapeHtml(d.original) + '</span>';
+          html += '<a href="' + (d.url || config.drugsBaseUrl + d.slug + '/') + '">' + escapeHtml(d.drug || d.name || '') + '</a>';
+          if (d.level) html += '<span class="level-badge level-' + d.level + '">' + d.level + '</span>';
+          html += '<span class="score">score ' + formatScore(d.score) + '</span>';
+          if (d.original) html += '<span class="original-hint">' + escapeHtml(d.original) + '</span>';
           html += '</div>';
         });
 
