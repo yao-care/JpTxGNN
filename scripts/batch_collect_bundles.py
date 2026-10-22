@@ -141,8 +141,13 @@ def preload_predictions(min_score: float = 0.99, top_n: int = 10) -> dict[str, l
     for drug_name, group in df.groupby("drug_name"):
         group = group.sort_values("txgnn_score", ascending=False)
         results = []
+        seen = set()
         for _, row in group.iterrows():
             disease = row["潛在新適應症"]
+            # DL 檔同藥同病會重複出現（多個 DrugBank ID／鹽類共用藥名），只留最高分的一筆
+            if str(disease).lower() in seen:
+                continue
+            seen.add(str(disease).lower())
             if not checker.is_novel(drug_name, disease):
                 continue
             results.append(
