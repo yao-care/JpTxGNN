@@ -127,8 +127,7 @@ def extract_indication_count(content: str, bundle_path: Path) -> int:
                             import importlib.util
                             kspec = importlib.util.spec_from_file_location("known_use_filter", kfp)
                             _KNOWN_USE_FILTER = importlib.util.module_from_spec(kspec); kspec.loader.exec_module(_KNOWN_USE_FILTER)
-                        names = _KNOWN_USE_FILTER.filter_predictions(bundle_path.parents[3], drug.get("drugbank_id") or "",
-                                                                     (drug.get("inn") or drug.get("name") or "").strip(), names, bundle)
+                        names = _KNOWN_USE_FILTER.kept_predictions(bundle_path.parents[3], bundle)  # 含 0.99 門檻
                     return len(names)
         except Exception:
             pass
@@ -157,7 +156,7 @@ def extra_front_matter(bundle_path: Path, evidence_level: str, indication_count:
             import importlib.util
             kspec = importlib.util.spec_from_file_location("known_use_filter", kfp)
             _KNOWN_USE_FILTER = importlib.util.module_from_spec(kspec); kspec.loader.exec_module(_KNOWN_USE_FILTER)
-        mon = _KNOWN_USE_FILTER.filter_predictions(bundle_path.parents[3], drug.get("drugbank_id") or "", inn, names, bundle)
+        mon = _KNOWN_USE_FILTER.kept_predictions(bundle_path.parents[3], bundle)  # 2026-10-22：含 0.99 門檻
     else:
         mon = names
     if mon and inn:
@@ -167,7 +166,9 @@ def extra_front_matter(bundle_path: Path, evidence_level: str, indication_count:
     kf = bundle_path.parents[3] / "docs" / "_data" / "keep_indexed.json"  # S-06：例外清單
     if kf.exists():
         keep = set(json.loads(kf.read_text(encoding="utf-8")).get("pages", []))
-    if bundle is not None and not names and evidence_level == "L5" and bundle_path.parent.name not in keep:
+    # 2026-10-22：「無新預測」改用 0.99 門檻＋排除已知用途後的清單（mon）；本文引用 NCT／PMID 的保留收錄（與 url_cleanup_20261016 同口徑）
+    cites = re.search(r"NCT\d{8}|pubmed\.ncbi\.nlm\.nih\.gov/\d+", content or "")
+    if bundle is not None and not mon and evidence_level == "L5" and not cites and bundle_path.parent.name not in keep:
         lines += ["noindex: true", "sitemap: false"]
     return "".join(l + "\n" for l in lines)
 
@@ -259,6 +260,9 @@ def sync_notes_to_docs():
     t = STRINGS.get(lang, STRINGS["en"])
     disclaimer = DISCLAIMERS.get(lang, DISCLAIMERS["en"])
     parent_titles = get_parent_titles(base_dir)
+    _ku = base_dir / "docs" / "known-uses.md"  # 2026-10-22：已知用途頁的導覽父頁（pm：不放 L5 底下）
+    _m = re.search(r"^title:\s*(.+?)\s*$", _ku.read_text(encoding="utf-8"), re.M) if _ku.exists() else None
+    known_title = _m.group(1).strip().strip('"').strip("'") if _m else None
 
     notes_dir = base_dir / "data" / "notes"
     bundles_dir = base_dir / "data" / "bundles"
@@ -297,7 +301,7 @@ def sync_notes_to_docs():
         evidence_level = "N/A" if known_page else extract_evidence_level(content)
         bundle_path = bundles_dir / drug_name / "drug_bundle.json"
         indication_count = 0 if known_page else extract_indication_count(content, bundle_path)
-        parent = parent_titles.get("L5" if known_page else evidence_level)
+        parent = (known_title or parent_titles.get("L5")) if known_page else parent_titles.get(evidence_level)
         if parent is None:
             missing_parent.add(evidence_level)
             parent = evidence_level

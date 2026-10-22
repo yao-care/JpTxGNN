@@ -179,7 +179,7 @@ class DrugEvidencePackGenerator:
         # Build predicted_indications with COMPLETE data
         predicted_indications = []
         # 2026-10-21（N-01 r5）：先排除已知用途（KG 子型／上位詞、各國許可證適應症），只把真正的新預測交給報告
-        _pis = list(drug.predicted_indications)
+        _pis = [p for p in drug.predicted_indications if (p.txgnn_score or 0) >= 0.99][:10]  # 2026-10-22：30 站統一 ≥0.99、前 10 名
         try:
             import importlib.util as _ilu
             from ..paths import get_project_root
