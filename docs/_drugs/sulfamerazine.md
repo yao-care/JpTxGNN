@@ -35,7 +35,7 @@ description: "Sulfamerazine：予測新適応症は結膜炎（conjunctivitis）
 
 ## 一言まとめ
 
-Sulfamerazine は従来型のスルホンアミド系抗菌薬で、TxGNN は結膜炎（conjunctivitis）に対する治療可能性を予測している。過去の文献では砂眼の治療に用いられた歴史が支持されているが、この適応症は承認適応症には含まれない。
+Sulfamerazine（スルファメラジン） は従来型のスルホンアミド系抗菌薬で、TxGNN は結膜炎（conjunctivitis）に対する治療可能性を予測している。過去の文献では砂眼の治療に用いられた歴史が支持されているが、この適応症は承認適応症には含まれない。
 
 ## 概要
 

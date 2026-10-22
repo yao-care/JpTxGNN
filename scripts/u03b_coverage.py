@@ -64,8 +64,9 @@ for n in names:
     elif any(len(x) >= 4 and k.startswith(x) for k in keys for x in listed):
         cat["反向前綴"].append(nn)
     else:
-        page = next((id2page[d] for _, d in hits if d in id2page), None) or id2page.get(b2db.get(bb.norm(bb.SALT.sub("", bb.base_name(nn)))))
-        if not page:  # SSK 讀音後綴（アシクロビル3.ガンナンコウ、アスピリンケンエー）：取最長的成分名前綴（≥4 字）
+        ov = bb.brand_override(nn) if hasattr(bb, "brand_override") else None
+        page = None if (ov == [] or "類似物質" in nn) else (next((id2page[d] for _, d in hits if d in id2page), None) or id2page.get(b2db.get(bb.norm(bb.SALT.sub("", bb.base_name(nn))))))  # BRANDS 明列不歸頁的（炭酸リチウム）→ 無成分頁
+        if not page and ov != [] and "類似物質" not in nn:  # SSK 讀音後綴（BRANDS 明列不歸頁、ヘパリン類似物質不算 heparin）（アシクロビル3.ガンナンコウ、アスピリンケンエー）：取最長的成分名前綴（≥4 字）
             k = max((x for x in b2db if len(x) >= 4 and bb.norm(nn).startswith(x)), key=len, default=None)
             page = id2page.get(b2db.get(k)) if k else None
         if page:

@@ -265,7 +265,7 @@ def main():
     for r in rows:
         kind, pages = num2pages.get(r["承認番号"], (None, set()))
         b = re.sub(r"配合.*$", "", base_name(r["販売名"]))
-        b = re.sub(r"\s*(持続性水懸筋|HI皮下|皮下|懸濁用|懸濁|筋|口腔用|外用|眼科耳鼻科用|眼耳鼻科用)$", "", b)  # 劑型殘尾（ヒュミラ皮下注 → ヒュミラ）
+        b = re.sub(r"\s*(持続性水懸筋|HI皮下|皮下|懸濁用|懸濁|筋|口腔用|外用|眼科耳鼻科用|眼耳鼻科用|小児用)$", "", b)  # 劑型殘尾（ヒュミラ皮下注 → ヒュミラ）
         if kind == "single" and b and len(b) <= 20 and not is_generic(b):
             for p in pages:
                 trade[p].add(b)

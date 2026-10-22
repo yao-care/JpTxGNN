@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-20",
+  "generated": "2026-10-22",
   "drug_count": 390,
-  "indication_count": 524,
+  "indication_count": 522,
   "drugs": [
     {
       "name": "Abatacept",
@@ -13,12 +13,12 @@
         "オレンシア皮下注125mgシリンジ1mL"
       ],
       "original": "rheumatoid arthritis；juvenile idiopathic arthritis；juvenile arthritis due to defect in LACC1；spondyloarthropathy",
-      "level": "L4",
+      "level": "L3",
       "indications": [
         {
-          "name": "リウマチ性血管炎 (rheumatoid vasculitis)",
+          "name": "強直性脊椎炎 (Ankylosing Spondylitis)",
           "score": 99.91,
-          "level": "L4"
+          "level": "L3"
         }
       ]
     },
@@ -138,7 +138,7 @@
       ]
     },
     {
-      "name": "Acitretin（アシトレチン）",
+      "name": "Acitretin",
       "slug": "acitretin",
       "brands": [],
       "original": "",
@@ -333,22 +333,12 @@
       "level": "L5",
       "indications": [
         {
-          "name": "アレルギー性蕁麻疹 (allergic urticaria)",
-          "score": 99.98,
-          "level": "L5"
-        },
-        {
-          "name": "寒冷蕁麻疹",
-          "score": 99.96,
-          "level": "L5"
-        },
-        {
           "name": "アトピー性 IgE 反応性",
           "score": 99.6,
           "level": "L5"
         },
         {
-          "name": "鼻腔疾患",
+          "name": "鼻腔疾患 (nasal cavity disease)",
           "score": 99.6,
           "level": "L5"
         },
@@ -1187,7 +1177,7 @@
         "ベポタスチンベシル酸塩錠5mg"
       ],
       "original": "抗アレルギー薬, 鎮痒薬, H1受容体拮抗薬\n疾患        アレルギー性鼻炎 [DS:H01360]",
-      "level": "L2",
+      "level": "N/A",
       "indications": [
         {
           "name": "アレルギー性蕁麻疹 (Allergic Urticaria)",
@@ -9968,7 +9958,6 @@
       "slug": "trametinib",
       "brands": [
         "メキニスト",
-        "メキニスト小児用",
         "メキニスト小児用ドライシロップ4.7mg",
         "メキニスト錠0.5mg",
         "メキニスト錠2mg"
@@ -11526,17 +11515,6 @@
       ]
     },
     {
-      "name": "アレルギー性蕁麻疹 (allergic urticaria)",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Alimemazine",
-          "slug": "alimemazine",
-          "score": 99.98
-        }
-      ]
-    },
-    {
       "name": "アンブラス型先天性全身性多毛症 (Ambras type hypertrichosis universalis congenita)",
       "drug_count": 1,
       "drugs": [
@@ -12119,17 +12097,6 @@
           "drug": "Golimumab",
           "slug": "golimumab",
           "score": 99.73
-        }
-      ]
-    },
-    {
-      "name": "リウマチ性血管炎 (rheumatoid vasculitis)",
-      "drug_count": 1,
-      "drugs": [
-        {
-          "drug": "Abatacept",
-          "slug": "abatacept",
-          "score": 99.91
         }
       ]
     },
@@ -13470,13 +13437,8 @@
     },
     {
       "name": "寒冷蕁麻疹",
-      "drug_count": 5,
+      "drug_count": 4,
       "drugs": [
-        {
-          "drug": "Alimemazine",
-          "slug": "alimemazine",
-          "score": 99.96
-        },
         {
           "drug": "Cetirizine",
           "slug": "cetirizine",
@@ -13515,7 +13477,7 @@
       "drug_count": 2,
       "drugs": [
         {
-          "drug": "Acitretin（アシトレチン）",
+          "drug": "Acitretin",
           "slug": "acitretin",
           "score": 99.94
         },
@@ -13687,12 +13649,17 @@
     },
     {
       "name": "強直性脊椎炎 (Ankylosing Spondylitis)",
-      "drug_count": 1,
+      "drug_count": 2,
       "drugs": [
         {
           "drug": "Tocilizumab",
           "slug": "tocilizumab",
           "score": 99.99
+        },
+        {
+          "drug": "Abatacept",
+          "slug": "abatacept",
+          "score": 99.91
         }
       ]
     },
@@ -17364,7 +17331,7 @@
     },
     {
       "name": "鼻腔疾患",
-      "drug_count": 4,
+      "drug_count": 3,
       "drugs": [
         {
           "drug": "Desloratadine",
@@ -17375,11 +17342,6 @@
           "drug": "Cetirizine",
           "slug": "cetirizine",
           "score": 99.77
-        },
-        {
-          "drug": "Alimemazine",
-          "slug": "alimemazine",
-          "score": 99.6
         },
         {
           "drug": "Loratadine",
@@ -17406,7 +17368,7 @@
     },
     {
       "name": "鼻腔疾患 (nasal cavity disease)",
-      "drug_count": 2,
+      "drug_count": 3,
       "drugs": [
         {
           "drug": "Dextromethorphan",
@@ -17417,6 +17379,11 @@
           "drug": "Codeine",
           "slug": "codeine",
           "score": 99.93
+        },
+        {
+          "drug": "Alimemazine",
+          "slug": "alimemazine",
+          "score": 99.6
         }
       ]
     },
