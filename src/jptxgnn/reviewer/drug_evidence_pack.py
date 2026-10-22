@@ -15,6 +15,23 @@ from .llm_client import LLMClient
 
 # 2026-10-17：status 欄有值不代表註銷（各國是 Authorised／有効／Vigente…），只認註銷類字樣
 _KF = None  # known_use_filter 模組快取（2026-10-21）
+
+
+def _market_status(valid, lics, partial):
+    """2026-10-22（pm A8）：kr 原始資料沒有取消／撤回欄位 → 未知；核准但未上市另列。"""
+    try:
+        from ..paths import get_project_root
+        if get_project_root().name == "KrTxGNN":
+            return "Unknown (source lacks cancellation status)"
+    except Exception:
+        pass
+    if valid:
+        return "Marketed"
+    if any(x["status"] == "not_marketed" for x in lics):
+        return "Approved, not marketed"
+    if lics:
+        return "Cancelled only" if not partial else "Unknown (partial list)"
+    return "Not marketed"
 _CANCELLED = re.compile(r"註銷|撤銷|廢止|取消|cancel|withdraw|revok|suspen|expir|lapse|discontinu|retir|inactive|refus|annul|"
                         r"widerruf|zurückgez|ruhend|retirad|cancelad|caducad|revocad|retiré|abrog|revoca|sospes|ritirat|"
                         r"återkall|avregistr|tilbakekall|ingetrokken|vervallen|peruutet|lakkaut|ملغ|موقوف|inativ|archiv|^opinion|\|opinion", re.I)
@@ -90,6 +107,10 @@ class DrugEvidencePackGenerator:
 
     @classmethod
     def _local_regulatory(cls, bundle) -> dict:
+        return cls._local_regulatory_impl(bundle)
+
+    @classmethod
+    def _local_regulatory_impl(cls, bundle) -> dict:
         """台灣許可證的結構化摘要（2026-10-03 起）：張數＝不重複字號數，分單方／複方／已註銷，
         全部列出、不截斷。LLM 只能引用這些欄位，許可證表由同步時的程式化區塊取代。"""
         reg = cls._get_regulatory(bundle)
@@ -107,6 +128,9 @@ class DrugEvidencePackGenerator:
             if status == "valid" and not (r.get("status") or r.get("registration_status") or r.get("註銷狀態")) and len(_exp) == 8 \
                     and _exp < _date.today().strftime("%Y%m%d"):
                 status = "cancelled"
+            # 2026-10-22（pm A8）：核准但未上市（ca DPD APPROVED／DORMANT、es CIMA comerc=false）不算上市
+            if status == "valid" and re.search(r"\bdormant\b|^approved$|no comercializad", str(r.get("status") or ""), re.I):
+                status = "not_marketed"
             lics.append({
                 "license_number": lid,
                 "product_name_zh": r.get("brand_name_zh") or r.get("中文品名") or r.get("product") or r.get("product_name", ""),
@@ -120,7 +144,7 @@ class DrugEvidencePackGenerator:
         partial = int(reg.get("total_matches") or 0) > len(recs)
         return {
             # 只存了部分許可證（total_matches 較多）且列出的都已註銷時，不能斷定全部註銷
-            "market_status": "Marketed" if valid else (("Cancelled only" if not partial else "Unknown (partial list)") if lics else "Not marketed"),
+            "market_status": _market_status(valid, lics, partial),
             # 2026-10-21：張數＝不重複許可證號（us 的紀錄是產品列，15 列只有 7 個核准號）；
             # total_matches 大於紀錄列數＝收集器只存了一部分，張數不可知（None），頁面不可寫「共 N 張」
             "total_licenses": len(lics) if not partial else f"≥{len(lics)}",  # 部分紀錄：寫「至少 N」（pm 2026-10-21 選 b）
@@ -128,7 +152,8 @@ class DrugEvidencePackGenerator:
             "licenses_listed": len(lics),
             "valid_single": sum(1 for x in valid if x["kind"] == "single"),
             "valid_combo": sum(1 for x in valid if x["kind"] == "combo"),
-            "cancelled": len(lics) - len(valid),
+            "cancelled": sum(1 for x in lics if x["status"] == "cancelled"),
+            "not_marketed": sum(1 for x in lics if x["status"] == "not_marketed"),
             "licenses": lics,
             "_note": "許可證表與張數由程式產生；不要自行列字號或補列。",
         }
