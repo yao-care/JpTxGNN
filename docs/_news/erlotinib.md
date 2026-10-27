@@ -3,8 +3,9 @@ layout: default
 title: "エルロチニブ錠１５０ｍｇ「ＮＫ」 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "エルロチニブ錠１５０ｍｇ「ＮＫ」 に関する健康ニュース。既存適応症：。予測適応症 1 件。"
+description: "エルロチニブ錠１５０ｍｇ「ＮＫ」 に関する健康ニュース。予測適応症 1 件。"
 permalink: /news/erlotinib/
+last_modified_at: 2026-10-27
 ---
 
 # エルロチニブ錠１５０ｍｇ「ＮＫ」 関連ニュース
@@ -26,7 +27,7 @@ permalink: /news/erlotinib/
 <ul>
 <li><strong>エビデンスレベル</strong>: L4</li>
 <li><strong>予測適応症（1 件）</strong>:<ul>
-<li>ユーイング肉腫 (Ewing sarcoma) (95.8%)</li>
+<li>ユーイング肉腫 (Ewing sarcoma)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/erlotinib/' | relative_url }}">医薬品レポート全文を見る →</a></p>

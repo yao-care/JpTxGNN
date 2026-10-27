@@ -3,8 +3,9 @@ layout: default
 title: "タミフルドライシロップ３％（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "タミフルドライシロップ３％（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
+description: "タミフルドライシロップ３％（選） に関する健康ニュース。予測適応症 1 件。"
 permalink: /news/oseltamivir/
+last_modified_at: 2026-10-27
 ---
 
 # タミフルドライシロップ３％（選） 関連ニュース
@@ -26,7 +27,7 @@ permalink: /news/oseltamivir/
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
 <li><strong>予測適応症（1 件）</strong>:<ul>
-<li>腎盂腎炎 (Pyelonephritis) (97.8%)</li>
+<li>腎盂腎炎 (Pyelonephritis)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/oseltamivir/' | relative_url }}">医薬品レポート全文を見る →</a></p>

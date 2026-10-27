@@ -5,6 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "心不全 (heart failure) に関する健康ニュース。ニュース 2 件、関連医薬品 2 件。"
 permalink: /news/heart-failure/
+last_modified_at: 2026-10-27
 ---
 
 # 心不全 (heart failure) 関連ニュース

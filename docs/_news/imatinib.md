@@ -3,8 +3,9 @@ layout: default
 title: "グリベック錠１００ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "グリベック錠１００ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
+description: "グリベック錠１００ｍｇ（選） に関する健康ニュース。予測適応症 1 件。"
 permalink: /news/imatinib/
+last_modified_at: 2026-10-27
 ---
 
 # グリベック錠１００ｍｇ（選） 関連ニュース
@@ -26,7 +27,7 @@ permalink: /news/imatinib/
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
 <li><strong>予測適応症（1 件）</strong>:<ul>
-<li>心臓線維肉腫 (heart fibrosarcoma) (99.9%)</li>
+<li>心臓線維肉腫 (heart fibrosarcoma)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/imatinib/' | relative_url }}">医薬品レポート全文を見る →</a></p>

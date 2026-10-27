@@ -3,8 +3,9 @@ layout: default
 title: "イレッサ錠２５０　２５０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "イレッサ錠２５０　２５０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
+description: "イレッサ錠２５０　２５０ｍｇ（選） に関する健康ニュース。予測適応症 1 件。"
 permalink: /news/gefitinib/
+last_modified_at: 2026-10-27
 ---
 
 # イレッサ錠２５０　２５０ｍｇ（選） 関連ニュース
@@ -26,7 +27,7 @@ permalink: /news/gefitinib/
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
 <li><strong>予測適応症（1 件）</strong>:<ul>
-<li>歯肉線維腫症 (fibromatosis, gingival) (99.9%)</li>
+<li>歯肉線維腫症 (fibromatosis, gingival)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">医薬品レポート全文を見る →</a></p>

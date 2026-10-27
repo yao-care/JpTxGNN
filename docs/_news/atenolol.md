@@ -3,8 +3,9 @@ layout: default
 title: "テノーミン錠５０　５０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "テノーミン錠５０　５０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
+description: "テノーミン錠５０　５０ｍｇ（選） に関する健康ニュース。予測適応症 1 件。"
 permalink: /news/atenolol/
+last_modified_at: 2026-10-27
 ---
 
 # テノーミン錠５０　５０ｍｇ（選） 関連ニュース
@@ -26,7 +27,7 @@ permalink: /news/atenolol/
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
 <li><strong>予測適応症（1 件）</strong>:<ul>
-<li>後外側心筋梗塞 (Posterolateral Myocardial Infarction) (99.9%)</li>
+<li>後外側心筋梗塞 (Posterolateral Myocardial Infarction)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/atenolol/' | relative_url }}">医薬品レポート全文を見る →</a></p>

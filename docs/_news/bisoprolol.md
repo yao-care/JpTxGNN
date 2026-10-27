@@ -3,8 +3,9 @@ layout: default
 title: "メインテート錠５ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "メインテート錠５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "メインテート錠５ｍｇ（選） に関する健康ニュース。予測適応症 5 件。"
 permalink: /news/bisoprolol/
+last_modified_at: 2026-10-27
 ---
 
 # メインテート錠５ｍｇ（選） 関連ニュース
@@ -26,11 +27,11 @@ permalink: /news/bisoprolol/
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
 <li><strong>予測適応症（5 件）</strong>:<ul>
-<li>悪性腎血管性高血圧 (malignant renovascular hypertension) (99.9%)</li>
-<li>肺疾患・低酸素に伴う肺高血圧症 (99.9%)</li>
-<li>慢性肺性心 (98.6%)</li>
-<li>プリンツメタル狭心症 (94.4%)</li>
-<li>脳血管障害 (68.1%)</li>
+<li>悪性腎血管性高血圧 (malignant renovascular hypertension)</li>
+<li>肺疾患・低酸素に伴う肺高血圧症</li>
+<li>慢性肺性心</li>
+<li>プリンツメタル狭心症</li>
+<li>脳血管障害</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/bisoprolol/' | relative_url }}">医薬品レポート全文を見る →</a></p>

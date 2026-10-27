@@ -5,6 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "更年期 (menopause) に関する健康ニュース。ニュース 1 件、関連医薬品 2 件。"
 permalink: /news/menopause/
+last_modified_at: 2026-10-27
 ---
 
 # 更年期 (menopause) 関連ニュース

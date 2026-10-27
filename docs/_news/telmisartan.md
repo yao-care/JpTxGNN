@@ -3,8 +3,9 @@ layout: default
 title: "ミカムロ配合錠ＢＰ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ミカムロ配合錠ＢＰ（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
+description: "ミカムロ配合錠ＢＰ（選） に関する健康ニュース。予測適応症 1 件。"
 permalink: /news/telmisartan/
+last_modified_at: 2026-10-27
 ---
 
 # ミカムロ配合錠ＢＰ（選） 関連ニュース
@@ -26,7 +27,7 @@ permalink: /news/telmisartan/
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
 <li><strong>予測適応症（1 件）</strong>:<ul>
-<li>Prinzmetal 狭心症 (Prinzmetal angina) (100.0%)</li>
+<li>Prinzmetal 狭心症 (Prinzmetal angina)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">医薬品レポート全文を見る →</a></p>

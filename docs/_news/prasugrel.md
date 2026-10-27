@@ -3,8 +3,9 @@ layout: default
 title: "プラスグレル錠５ｍｇ「ＤＳＥＰ」 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "プラスグレル錠５ｍｇ「ＤＳＥＰ」 に関する健康ニュース。既存適応症：。予測適応症 1 件。"
+description: "プラスグレル錠５ｍｇ「ＤＳＥＰ」 に関する健康ニュース。予測適応症 1 件。"
 permalink: /news/prasugrel/
+last_modified_at: 2026-10-27
 ---
 
 # プラスグレル錠５ｍｇ「ＤＳＥＰ」 関連ニュース
@@ -26,7 +27,7 @@ permalink: /news/prasugrel/
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
 <li><strong>予測適応症（1 件）</strong>:<ul>
-<li>肺高血圧症 (Pulmonary Hypertension) (99.9%)</li>
+<li>肺高血圧症 (Pulmonary Hypertension)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/prasugrel/' | relative_url }}">医薬品レポート全文を見る →</a></p>

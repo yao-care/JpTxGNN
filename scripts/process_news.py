@@ -788,8 +788,9 @@ def generate_news_pages(matched_news: list[dict], keywords: dict):
     # 確保目錄存在
     NEWS_COLLECTION_DIR.mkdir(parents=True, exist_ok=True)
 
-    # 清除舊頁面
+    # 清除舊頁面（先記下舊內容，內容沒變的頁沿用 last_modified_at）
     for old_file in NEWS_COLLECTION_DIR.glob("*.md"):
+        _OLD_PAGES[old_file.name] = old_file.read_text(encoding="utf-8")
         old_file.unlink()
 
     # 載入完整的藥物資料（包含 original_indication 等）
@@ -879,6 +880,19 @@ def slugify(text: str) -> str:
     return slug.strip("-")
 
 
+_OLD_PAGES = {}  # 檔名 -> 清除前的舊內容
+
+
+def write_news_page(path: Path, content: str):
+    """2026-10-27：新聞頁補 last_modified_at（sitemap 的 lastmod 讀它；沒有的話 Jekyll 每次建置都填建置時間）。
+    內容跟上次一樣就沿用舊日期，有變才用今天。"""
+    old = _OLD_PAGES.get(path.name, "")
+    m = re.search(r"^last_modified_at:\s*(\S+)\n", old, re.M)
+    unchanged = m and old[:m.start()] + old[m.end():] == content
+    day = m.group(1) if unchanged else datetime.now(timezone.utc).date().isoformat()
+    path.write_text(content.replace("\n---\n", f"\nlast_modified_at: {day}\n---\n", 1), encoding="utf-8")
+
+
 def write_news_redirect(slug: str):
     """2026-10-27：零新聞的藥不生新聞頁（用戶 2026-09-19 決定）。舊網址留轉址頁（不進 sitemap、不進站內搜尋），
     導向藥物頁；藥物頁不可收錄就導向新聞總覽。格式同 docs/_drugs 的舊 ID 轉址頁。"""
@@ -919,7 +933,9 @@ def generate_drug_news_page(slug: str, drug_info: dict, drug_detail: dict, drug_
                 matched_indications[en_name] = loc_keyword
 
     desc_indication = original_indication[:50] + "..." if len(original_indication) > 50 else original_indication
-    description = N["desc_drug"].format(name=name, ind=desc_indication, m=len(indications))
+    # 2026-10-27：沒有原適應症資料時，description 拿掉「原適應症：」那一句，不留空欄位
+    desc_fmt = N["desc_drug"] if desc_indication else re.sub(r"(?<=[.。}])\s*[^.。:：{}]*[:：]\s*\{ind\}[.。]?", "", N["desc_drug"])
+    description = desc_fmt.format(name=name, ind=desc_indication, m=len(indications))
     page_title = N["title_news"].format(name=name)
 
     content = f"""---
@@ -960,12 +976,11 @@ permalink: /news/{slug}/
         content += f"<li><strong>{N['pred_ind_h'].format(m=len(indications))}</strong>:<ul>\n"
         for ind in indications:
             ind_name = ind.get("name", "")
-            ind_score = ind.get("score", 0)
             if ind_name in matched_indications:
                 loc_keyword = matched_indications[ind_name]
-                content += f'<li class="indication-matched">{ind_name} ({ind_score:.1f}%)<span class="indication-tag">📰 {loc_keyword}</span></li>\n'
+                content += f'<li class="indication-matched">{ind_name}<span class="indication-tag">📰 {loc_keyword}</span></li>\n'
             else:
-                content += f"<li>{ind_name} ({ind_score:.1f}%)</li>\n"
+                content += f"<li>{ind_name}</li>\n"
         content += "</ul></li>\n"
 
     content += f"""</ul>
@@ -1055,9 +1070,7 @@ permalink: /news/{slug}/
 """
 
     # 寫入檔案
-    output_path = NEWS_COLLECTION_DIR / f"{slug}.md"
-    with open(output_path, "w", encoding="utf-8") as f:
-        f.write(content)
+    write_news_page(NEWS_COLLECTION_DIR / f"{slug}.md", content)
     return page_title
 
 
@@ -1164,9 +1177,7 @@ permalink: /news/{slug}/
 </div>
 """
 
-    output_path = NEWS_COLLECTION_DIR / f"{slug}.md"
-    with open(output_path, "w", encoding="utf-8") as f:
-        f.write(content)
+    write_news_page(NEWS_COLLECTION_DIR / f"{slug}.md", content)
     return slug, page_title, related_drugs
 
 

@@ -3,8 +3,9 @@ layout: default
 title: "プラビックス錠７５ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "プラビックス錠７５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
+description: "プラビックス錠７５ｍｇ（選） に関する健康ニュース。予測適応症 1 件。"
 permalink: /news/clopidogrel/
+last_modified_at: 2026-10-27
 ---
 
 # プラビックス錠７５ｍｇ（選） 関連ニュース
@@ -26,7 +27,7 @@ permalink: /news/clopidogrel/
 <ul>
 <li><strong>エビデンスレベル</strong>: L2</li>
 <li><strong>予測適応症（1 件）</strong>:<ul>
-<li>片頭痛 (Migraine Disorder)。順位 1 位は脳幹性前兆を伴う片頭痛 (Migraine with Brainstem Aura、スコア 99.44%、エビデンスレベル L4) (99.4%)</li>
+<li>片頭痛 (Migraine Disorder)。順位 1 位は脳幹性前兆を伴う片頭痛 (Migraine with Brainstem Aura、スコア 99.44%、エビデンスレベル L4)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/clopidogrel/' | relative_url }}">医薬品レポート全文を見る →</a></p>

@@ -3,8 +3,9 @@ layout: default
 title: "ニューロタン錠５０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ニューロタン錠５０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
+description: "ニューロタン錠５０ｍｇ（選） に関する健康ニュース。予測適応症 1 件。"
 permalink: /news/losartan/
+last_modified_at: 2026-10-27
 ---
 
 # ニューロタン錠５０ｍｇ（選） 関連ニュース
@@ -26,7 +27,7 @@ permalink: /news/losartan/
 <ul>
 <li><strong>エビデンスレベル</strong>: L4</li>
 <li><strong>予測適応症（1 件）</strong>:<ul>
-<li>悪性高血圧性腎疾患 (Malignant Hypertensive Renal Disease) (99.7%)</li>
+<li>悪性高血圧性腎疾患 (Malignant Hypertensive Renal Disease)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/losartan/' | relative_url }}">医薬品レポート全文を見る →</a></p>

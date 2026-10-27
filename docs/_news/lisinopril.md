@@ -3,8 +3,9 @@ layout: default
 title: "ロンゲス錠２０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ロンゲス錠２０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 3 件。"
+description: "ロンゲス錠２０ｍｇ（選） に関する健康ニュース。予測適応症 3 件。"
 permalink: /news/lisinopril/
+last_modified_at: 2026-10-27
 ---
 
 # ロンゲス錠２０ｍｇ（選） 関連ニュース
@@ -26,9 +27,9 @@ permalink: /news/lisinopril/
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
 <li><strong>予測適応症（3 件）</strong>:<ul>
-<li>後下壁心筋梗塞 (posteroinferior myocardial infarction) (99.9%)</li>
-<li>慢性肺性心 (chronic pulmonary heart disease) (99.7%)</li>
-<li>中隔心筋梗塞 (septal myocardial infarction) (99.9%)</li>
+<li>後下壁心筋梗塞 (posteroinferior myocardial infarction)</li>
+<li>慢性肺性心 (chronic pulmonary heart disease)</li>
+<li>中隔心筋梗塞 (septal myocardial infarction)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lisinopril/' | relative_url }}">医薬品レポート全文を見る →</a></p>

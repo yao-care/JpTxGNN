@@ -3,8 +3,9 @@ layout: default
 title: "ホリゾン錠５ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ホリゾン錠５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
+description: "ホリゾン錠５ｍｇ（選） に関する健康ニュース。予測適応症 1 件。"
 permalink: /news/diazepam/
+last_modified_at: 2026-10-27
 ---
 
 # ホリゾン錠５ｍｇ（選） 関連ニュース
@@ -26,7 +27,7 @@ permalink: /news/diazepam/
 <ul>
 <li><strong>エビデンスレベル</strong>: L4</li>
 <li><strong>予測適応症（1 件）</strong>:<ul>
-<li>不眠症 (insomnia) (100.0%)</li>
+<li>不眠症 (insomnia)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/diazepam/' | relative_url }}">医薬品レポート全文を見る →</a></p>

@@ -3,8 +3,9 @@ layout: default
 title: "リドカイン（１８ｍｇ）３０．５ｍｍ×５０．０ｍｍ貼付剤 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "リドカイン（１８ｍｇ）３０．５ｍｍ×５０．０ｍｍ貼付剤 に関する健康ニュース。既存適応症：。予測適応症 1 件。"
+description: "リドカイン（１８ｍｇ）３０．５ｍｍ×５０．０ｍｍ貼付剤 に関する健康ニュース。予測適応症 1 件。"
 permalink: /news/lidocaine/
+last_modified_at: 2026-10-27
 ---
 
 # リドカイン（１８ｍｇ）３０．５ｍｍ×５０．０ｍｍ貼付剤 関連ニュース
@@ -26,7 +27,7 @@ permalink: /news/lidocaine/
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
 <li><strong>予測適応症（1 件）</strong>:<ul>
-<li>点状表層角結膜炎 (Punctate Epithelial Keratoconjunctivitis) (100.0%)</li>
+<li>点状表層角結膜炎 (Punctate Epithelial Keratoconjunctivitis)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lidocaine/' | relative_url }}">医薬品レポート全文を見る →</a></p>

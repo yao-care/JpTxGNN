@@ -3,8 +3,9 @@ layout: default
 title: "ザルティア錠５ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ザルティア錠５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
+description: "ザルティア錠５ｍｇ（選） に関する健康ニュース。予測適応症 1 件。"
 permalink: /news/tadalafil/
+last_modified_at: 2026-10-27
 ---
 
 # ザルティア錠５ｍｇ（選） 関連ニュース
@@ -26,7 +27,7 @@ permalink: /news/tadalafil/
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
 <li><strong>予測適応症（1 件）</strong>:<ul>
-<li>Ambras 型汎発性先天性多毛症 (Ambras type hypertrichosis universalis congenita) (100.0%)</li>
+<li>Ambras 型汎発性先天性多毛症 (Ambras type hypertrichosis universalis congenita)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tadalafil/' | relative_url }}">医薬品レポート全文を見る →</a></p>

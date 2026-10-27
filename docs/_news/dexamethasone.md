@@ -3,8 +3,9 @@ layout: default
 title: "サンテゾーン点眼液（０．１％）（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "サンテゾーン点眼液（０．１％）（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
+description: "サンテゾーン点眼液（０．１％）（選） に関する健康ニュース。予測適応症 1 件。"
 permalink: /news/dexamethasone/
+last_modified_at: 2026-10-27
 ---
 
 # サンテゾーン点眼液（０．１％）（選） 関連ニュース
@@ -26,7 +27,7 @@ permalink: /news/dexamethasone/
 <ul>
 <li><strong>エビデンスレベル</strong>: L2</li>
 <li><strong>予測適応症（1 件）</strong>:<ul>
-<li>円形脱毛症 (alopecia areata) (100.0%)</li>
+<li>円形脱毛症 (alopecia areata)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dexamethasone/' | relative_url }}">医薬品レポート全文を見る →</a></p>

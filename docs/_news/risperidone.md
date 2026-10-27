@@ -3,8 +3,9 @@ layout: default
 title: "リスパダール錠２ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "リスパダール錠２ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 6 件。"
+description: "リスパダール錠２ｍｇ（選） に関する健康ニュース。予測適応症 6 件。"
 permalink: /news/risperidone/
+last_modified_at: 2026-10-27
 ---
 
 # リスパダール錠２ｍｇ（選） 関連ニュース
@@ -26,12 +27,12 @@ permalink: /news/risperidone/
 <ul>
 <li><strong>エビデンスレベル</strong>: L1</li>
 <li><strong>予測適応症（6 件）</strong>:<ul>
-<li>気分障害 (Major affective disorder) (99.1%)</li>
-<li>トゥレット症候群 (98.8%)</li>
-<li>知的障害（攻撃性・破壊的行動） (98.7%)</li>
-<li>抜毛症 (99.5%)</li>
-<li>自閉症（感受性） (98.7%)</li>
-<li>Phelan-McDermid 症候群 (99.6%)</li>
+<li>気分障害 (Major affective disorder)</li>
+<li>トゥレット症候群</li>
+<li>知的障害（攻撃性・破壊的行動）</li>
+<li>抜毛症</li>
+<li>自閉症（感受性）</li>
+<li>Phelan-McDermid 症候群</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/risperidone/' | relative_url }}">医薬品レポート全文を見る →</a></p>

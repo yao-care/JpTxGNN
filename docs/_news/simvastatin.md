@@ -3,8 +3,9 @@ layout: default
 title: "リポバス錠５　５ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "リポバス錠５　５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
+description: "リポバス錠５　５ｍｇ（選） に関する健康ニュース。予測適応症 1 件。"
 permalink: /news/simvastatin/
+last_modified_at: 2026-10-27
 ---
 
 # リポバス錠５　５ｍｇ（選） 関連ニュース
@@ -26,7 +27,7 @@ permalink: /news/simvastatin/
 <ul>
 <li><strong>エビデンスレベル</strong>: L1</li>
 <li><strong>予測適応症（1 件）</strong>:<ul>
-<li>家族性高コレステロール血症 (Familial Hypercholesterolemia) (99.6%)</li>
+<li>家族性高コレステロール血症 (Familial Hypercholesterolemia)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">医薬品レポート全文を見る →</a></p>

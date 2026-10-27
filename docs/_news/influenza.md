@@ -5,6 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 3 件、関連医薬品 1 件。"
 permalink: /news/influenza/
+last_modified_at: 2026-10-27
 ---
 
 # インフルエンザ (influenza) 関連ニュース

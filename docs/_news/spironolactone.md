@@ -3,8 +3,9 @@ layout: default
 title: "アルダクトンＡ錠５０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "アルダクトンＡ錠５０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
+description: "アルダクトンＡ錠５０ｍｇ（選） に関する健康ニュース。予測適応症 1 件。"
 permalink: /news/spironolactone/
+last_modified_at: 2026-10-27
 ---
 
 # アルダクトンＡ錠５０ｍｇ（選） 関連ニュース
@@ -26,7 +27,7 @@ permalink: /news/spironolactone/
 <ul>
 <li><strong>エビデンスレベル</strong>: L2</li>
 <li><strong>予測適応症（1 件）</strong>:<ul>
-<li>脱毛症 (Alopecia)（エビデンスのある上位候補） (97.8%)</li>
+<li>脱毛症 (Alopecia)（エビデンスのある上位候補）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/spironolactone/' | relative_url }}">医薬品レポート全文を見る →</a></p>

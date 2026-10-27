@@ -3,8 +3,9 @@ layout: default
 title: "アクトスＯＤ錠３０　３０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "アクトスＯＤ錠３０　３０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "アクトスＯＤ錠３０　３０ｍｇ（選） に関する健康ニュース。予測適応症 10 件。"
 permalink: /news/pioglitazone/
+last_modified_at: 2026-10-27
 ---
 
 # アクトスＯＤ錠３０　３０ｍｇ（選） 関連ニュース
@@ -26,16 +27,16 @@ permalink: /news/pioglitazone/
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
 <li><strong>予測適応症（10 件）</strong>:<ul>
-<li>オプシスモ異形成症 (Opsismodysplasia) (99.6%)</li>
-<li>限局性スティッフリム症候群 (99.5%)</li>
-<li>古典的スティッフパーソン症候群 (99.5%)</li>
-<li>チアミン反応性機能障害症候群 (99.5%)</li>
-<li>薬剤性限局性リポジストロフィー (99.3%)</li>
-<li>遠心性リポジストロフィー (99.3%)</li>
-<li>圧迫性限局性脂肪萎縮症 (99.2%)</li>
-<li>特発性限局性リポジストロフィー (99.2%)</li>
-<li>膵無形成 (99.2%)</li>
-<li>自己免疫性卵巣炎 (98.1%)</li>
+<li>オプシスモ異形成症 (Opsismodysplasia)</li>
+<li>限局性スティッフリム症候群</li>
+<li>古典的スティッフパーソン症候群</li>
+<li>チアミン反応性機能障害症候群</li>
+<li>薬剤性限局性リポジストロフィー</li>
+<li>遠心性リポジストロフィー</li>
+<li>圧迫性限局性脂肪萎縮症</li>
+<li>特発性限局性リポジストロフィー</li>
+<li>膵無形成</li>
+<li>自己免疫性卵巣炎</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pioglitazone/' | relative_url }}">医薬品レポート全文を見る →</a></p>

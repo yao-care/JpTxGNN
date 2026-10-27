@@ -3,8 +3,9 @@ layout: default
 title: "ヘルベッサー錠６０　６０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ヘルベッサー錠６０　６０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
+description: "ヘルベッサー錠６０　６０ｍｇ（選） に関する健康ニュース。予測適応症 1 件。"
 permalink: /news/diltiazem/
+last_modified_at: 2026-10-27
 ---
 
 # ヘルベッサー錠６０　６０ｍｇ（選） 関連ニュース
@@ -26,7 +27,7 @@ permalink: /news/diltiazem/
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
 <li><strong>予測適応症（1 件）</strong>:<ul>
-<li>脳血管障害 (Cerebrovascular Disorder)（予測順位 4 位。1〜3 位はエビデンスなし・廃止された疾患名を含む） (97.6%)</li>
+<li>脳血管障害 (Cerebrovascular Disorder)（予測順位 4 位。1〜3 位はエビデンスなし・廃止された疾患名を含む）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/diltiazem/' | relative_url }}">医薬品レポート全文を見る →</a></p>

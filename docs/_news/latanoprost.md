@@ -3,8 +3,9 @@ layout: default
 title: "ザラカム配合点眼液（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ザラカム配合点眼液（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "ザラカム配合点眼液（選） に関する健康ニュース。予測適応症 10 件。"
 permalink: /news/latanoprost/
+last_modified_at: 2026-10-27
 ---
 
 # ザラカム配合点眼液（選） 関連ニュース
@@ -26,16 +27,16 @@ permalink: /news/latanoprost/
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
 <li><strong>予測適応症（10 件）</strong>:<ul>
-<li>原発性遺伝性緑内障 (primary hereditary glaucoma) (99.9%)</li>
-<li>内臓カルシフィラキシー (99.8%)</li>
-<li>頭皮の単純性乏毛症 (99.8%)</li>
-<li>動脈性胸郭出口症候群 (99.8%)</li>
-<li>静脈性胸郭出口症候群 (99.8%)</li>
-<li>神経性胸郭出口症候群 (99.7%)</li>
-<li>先天性乏毛症・稗粒腫 (99.7%)</li>
-<li>胃血管形成異常 (99.7%)</li>
-<li>ブルートゥ症候群 (99.7%)</li>
-<li>リンパ管拡張症 (99.7%)</li>
+<li>原発性遺伝性緑内障 (primary hereditary glaucoma)</li>
+<li>内臓カルシフィラキシー</li>
+<li>頭皮の単純性乏毛症</li>
+<li>動脈性胸郭出口症候群</li>
+<li>静脈性胸郭出口症候群</li>
+<li>神経性胸郭出口症候群</li>
+<li>先天性乏毛症・稗粒腫</li>
+<li>胃血管形成異常</li>
+<li>ブルートゥ症候群</li>
+<li>リンパ管拡張症</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/latanoprost/' | relative_url }}">医薬品レポート全文を見る →</a></p>

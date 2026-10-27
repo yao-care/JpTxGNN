@@ -5,6 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "がん (generic_cancer) に関する健康ニュース。ニュース 8 件、関連医薬品 67 件。"
 permalink: /news/generic-cancer/
+last_modified_at: 2026-10-27
 ---
 
 # がん (generic_cancer) 関連ニュース

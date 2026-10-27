@@ -3,8 +3,9 @@ layout: default
 title: "プレドネマ注腸２０ｍｇ 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "プレドネマ注腸２０ｍｇ に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "プレドネマ注腸２０ｍｇ に関する健康ニュース。予測適応症 10 件。"
 permalink: /news/prednisolone/
+last_modified_at: 2026-10-27
 ---
 
 # プレドネマ注腸２０ｍｇ 関連ニュース
@@ -26,16 +27,16 @@ permalink: /news/prednisolone/
 <ul>
 <li><strong>エビデンスレベル</strong>: L2</li>
 <li><strong>予測適応症（10 件）</strong>:<ul>
-<li>円形脱毛症 (Alopecia Areata) (100.0%)</li>
-<li>特発性ステロイド感受性ネフローゼ症候群 (99.9%)</li>
-<li>粘液性脱毛症 (alopecia mucinosa) (100.0%)</li>
-<li>毛包炎性脱毛症 (folliculitis decalvans) (100.0%)</li>
-<li>休止期脱毛 (100.0%)</li>
-<li>抗体欠損を伴う脱毛症 (100.0%)</li>
-<li>反復性皮膚水疱を伴う遺伝性乏毛症 (100.0%)</li>
-<li>脱毛・知的障害・高ゴナドトロピン性性腺機能低下症候群 (100.0%)</li>
-<li>丘疹性病変を伴う無毛症 (99.9%)</li>
-<li>涙腺脱出 (99.9%)</li>
+<li>円形脱毛症 (Alopecia Areata)</li>
+<li>特発性ステロイド感受性ネフローゼ症候群</li>
+<li>粘液性脱毛症 (alopecia mucinosa)</li>
+<li>毛包炎性脱毛症 (folliculitis decalvans)</li>
+<li>休止期脱毛</li>
+<li>抗体欠損を伴う脱毛症</li>
+<li>反復性皮膚水疱を伴う遺伝性乏毛症</li>
+<li>脱毛・知的障害・高ゴナドトロピン性性腺機能低下症候群</li>
+<li>丘疹性病変を伴う無毛症</li>
+<li>涙腺脱出</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/prednisolone/' | relative_url }}">医薬品レポート全文を見る →</a></p>

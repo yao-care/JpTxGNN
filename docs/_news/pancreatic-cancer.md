@@ -5,6 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "膵臓がん (pancreatic cancer) に関する健康ニュース。ニュース 2 件、関連医薬品 1 件。"
 permalink: /news/pancreatic-cancer/
+last_modified_at: 2026-10-27
 ---
 
 # 膵臓がん (pancreatic cancer) 関連ニュース

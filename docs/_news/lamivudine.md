@@ -3,8 +3,9 @@ layout: default
 title: "エプジコム配合錠（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "エプジコム配合錠（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
+description: "エプジコム配合錠（選） に関する健康ニュース。予測適応症 1 件。"
 permalink: /news/lamivudine/
+last_modified_at: 2026-10-27
 ---
 
 # エプジコム配合錠（選） 関連ニュース
@@ -26,7 +27,7 @@ permalink: /news/lamivudine/
 <ul>
 <li><strong>エビデンスレベル</strong>: L4</li>
 <li><strong>予測適応症（1 件）</strong>:<ul>
-<li>サル免疫不全ウイルス感染症 (Simian Immunodeficiency Virus Infection) (99.9%)</li>
+<li>サル免疫不全ウイルス感染症 (Simian Immunodeficiency Virus Infection)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lamivudine/' | relative_url }}">医薬品レポート全文を見る →</a></p>

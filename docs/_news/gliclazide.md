@@ -3,8 +3,9 @@ layout: default
 title: "グリミクロン錠４０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "グリミクロン錠４０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
+description: "グリミクロン錠４０ｍｇ（選） に関する健康ニュース。予測適応症 1 件。"
 permalink: /news/gliclazide/
+last_modified_at: 2026-10-27
 ---
 
 # グリミクロン錠４０ｍｇ（選） 関連ニュース
@@ -26,7 +27,7 @@ permalink: /news/gliclazide/
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
 <li><strong>予測適応症（1 件）</strong>:<ul>
-<li>focal stiff limb syndrome（限局性硬直肢症候群） (98.0%)</li>
+<li>focal stiff limb syndrome（限局性硬直肢症候群）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/gliclazide/' | relative_url }}">医薬品レポート全文を見る →</a></p>

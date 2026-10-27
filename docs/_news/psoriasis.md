@@ -5,6 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "乾癬 (psoriasis) に関する健康ニュース。ニュース 1 件、関連医薬品 4 件。"
 permalink: /news/psoriasis/
+last_modified_at: 2026-10-27
 ---
 
 # 乾癬 (psoriasis) 関連ニュース

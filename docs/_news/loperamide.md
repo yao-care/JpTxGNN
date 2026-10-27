@@ -3,8 +3,9 @@ layout: default
 title: "ロペミンカプセル１ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ロペミンカプセル１ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
+description: "ロペミンカプセル１ｍｇ（選） に関する健康ニュース。予測適応症 1 件。"
 permalink: /news/loperamide/
+last_modified_at: 2026-10-27
 ---
 
 # ロペミンカプセル１ｍｇ（選） 関連ニュース
@@ -26,7 +27,7 @@ permalink: /news/loperamide/
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
 <li><strong>予測適応症（1 件）</strong>:<ul>
-<li>急性伝染性結膜炎 (Acute Contagious Conjunctivitis) (100.0%)</li>
+<li>急性伝染性結膜炎 (Acute Contagious Conjunctivitis)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/loperamide/' | relative_url }}">医薬品レポート全文を見る →</a></p>

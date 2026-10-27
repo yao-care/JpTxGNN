@@ -3,8 +3,9 @@ layout: default
 title: "アダラートＣＲ錠４０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "アダラートＣＲ錠４０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 3 件。"
+description: "アダラートＣＲ錠４０ｍｇ（選） に関する健康ニュース。予測適応症 3 件。"
 permalink: /news/nifedipine/
+last_modified_at: 2026-10-27
 ---
 
 # アダラートＣＲ錠４０ｍｇ（選） 関連ニュース
@@ -26,9 +27,9 @@ permalink: /news/nifedipine/
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
 <li><strong>予測適応症（3 件）</strong>:<ul>
-<li>脳幹性前兆を伴う片頭痛 (Migraine with brainstem aura) (92.6%)</li>
-<li>悪性腎血管性高血圧 (76.6%)</li>
-<li>肺疾患・低酸素に伴う肺高血圧症 (77.8%)</li>
+<li>脳幹性前兆を伴う片頭痛 (Migraine with brainstem aura)</li>
+<li>悪性腎血管性高血圧</li>
+<li>肺疾患・低酸素に伴う肺高血圧症</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/nifedipine/' | relative_url }}">医薬品レポート全文を見る →</a></p>

@@ -3,8 +3,9 @@ layout: default
 title: "ユニコン錠１００　１００ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ユニコン錠１００　１００ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
+description: "ユニコン錠１００　１００ｍｇ（選） に関する健康ニュース。予測適応症 1 件。"
 permalink: /news/theophylline/
+last_modified_at: 2026-10-27
 ---
 
 # ユニコン錠１００　１００ｍｇ（選） 関連ニュース
@@ -26,7 +27,7 @@ permalink: /news/theophylline/
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
 <li><strong>予測適応症（1 件）</strong>:<ul>
-<li>血栓性疾患 (Thrombotic Disease) (99.6%)</li>
+<li>血栓性疾患 (Thrombotic Disease)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/theophylline/' | relative_url }}">医薬品レポート全文を見る →</a></p>

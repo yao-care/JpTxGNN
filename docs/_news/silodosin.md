@@ -3,8 +3,9 @@ layout: default
 title: "ユリーフＯＤ錠４ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ユリーフＯＤ錠４ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
+description: "ユリーフＯＤ錠４ｍｇ（選） に関する健康ニュース。予測適応症 1 件。"
 permalink: /news/silodosin/
+last_modified_at: 2026-10-27
 ---
 
 # ユリーフＯＤ錠４ｍｇ（選） 関連ニュース
@@ -26,7 +27,7 @@ permalink: /news/silodosin/
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
 <li><strong>予測適応症（1 件）</strong>:<ul>
-<li>Ambras 型先天性汎発性多毛症 (Ambras type hypertrichosis universalis congenita) (100.0%)</li>
+<li>Ambras 型先天性汎発性多毛症 (Ambras type hypertrichosis universalis congenita)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/silodosin/' | relative_url }}">医薬品レポート全文を見る →</a></p>

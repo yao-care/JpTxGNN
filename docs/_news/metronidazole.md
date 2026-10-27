@@ -3,8 +3,9 @@ layout: default
 title: "メトロニダゾールゲル０．７５％「マルイシ」 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "メトロニダゾールゲル０．７５％「マルイシ」 に関する健康ニュース。既存適応症：。予測適応症 1 件。"
+description: "メトロニダゾールゲル０．７５％「マルイシ」 に関する健康ニュース。予測適応症 1 件。"
 permalink: /news/metronidazole/
+last_modified_at: 2026-10-27
 ---
 
 # メトロニダゾールゲル０．７５％「マルイシ」 関連ニュース
@@ -26,7 +27,7 @@ permalink: /news/metronidazole/
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
 <li><strong>予測適応症（1 件）</strong>:<ul>
-<li>ニューモシスチス症 (Pneumocystosis) (100.0%)</li>
+<li>ニューモシスチス症 (Pneumocystosis)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/metronidazole/' | relative_url }}">医薬品レポート全文を見る →</a></p>

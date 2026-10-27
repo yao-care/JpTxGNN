@@ -3,8 +3,9 @@ layout: default
 title: "クラビット点眼液１．５％（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "クラビット点眼液１．５％（選） に関する健康ニュース。既存適応症：。予測適応症 3 件。"
+description: "クラビット点眼液１．５％（選） に関する健康ニュース。予測適応症 3 件。"
 permalink: /news/levofloxacin/
+last_modified_at: 2026-10-27
 ---
 
 # クラビット点眼液１．５％（選） 関連ニュース
@@ -26,9 +27,9 @@ permalink: /news/levofloxacin/
 <ul>
 <li><strong>エビデンスレベル</strong>: L4</li>
 <li><strong>予測適応症（3 件）</strong>:<ul>
-<li>点状表層角結膜炎 (punctate epithelial keratoconjunctivitis) (99.9%)</li>
-<li>単クローン性免疫グロブリン血症 (99.8%)</li>
-<li>敗血症型ペスト (99.8%)</li>
+<li>点状表層角結膜炎 (punctate epithelial keratoconjunctivitis)</li>
+<li>単クローン性免疫グロブリン血症</li>
+<li>敗血症型ペスト</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/levofloxacin/' | relative_url }}">医薬品レポート全文を見る →</a></p>

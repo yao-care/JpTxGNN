@@ -5,6 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "2型糖尿病 (type 2 diabetes mellitus) に関する健康ニュース。ニュース 4 件、関連医薬品 5 件。"
 permalink: /news/type-2-diabetes-mellitus/
+last_modified_at: 2026-10-27
 ---
 
 # 2型糖尿病 (type 2 diabetes mellitus) 関連ニュース

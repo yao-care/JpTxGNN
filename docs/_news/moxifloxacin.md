@@ -3,8 +3,9 @@ layout: default
 title: "ベガモックス点眼液０．５％（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ベガモックス点眼液０．５％（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
+description: "ベガモックス点眼液０．５％（選） に関する健康ニュース。予測適応症 1 件。"
 permalink: /news/moxifloxacin/
+last_modified_at: 2026-10-27
 ---
 
 # ベガモックス点眼液０．５％（選） 関連ニュース
@@ -26,7 +27,7 @@ permalink: /news/moxifloxacin/
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
 <li><strong>予測適応症（1 件）</strong>:<ul>
-<li>高アミラーゼ血症 (Hyperamylasemia) (100.0%)</li>
+<li>高アミラーゼ血症 (Hyperamylasemia)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/moxifloxacin/' | relative_url }}">医薬品レポート全文を見る →</a></p>

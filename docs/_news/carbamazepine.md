@@ -3,8 +3,9 @@ layout: default
 title: "テグレトール錠１００ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "テグレトール錠１００ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
+description: "テグレトール錠１００ｍｇ（選） に関する健康ニュース。予測適応症 1 件。"
 permalink: /news/carbamazepine/
+last_modified_at: 2026-10-27
 ---
 
 # テグレトール錠１００ｍｇ（選） 関連ニュース
@@ -26,7 +27,7 @@ permalink: /news/carbamazepine/
 <ul>
 <li><strong>エビデンスレベル</strong>: L4</li>
 <li><strong>予測適応症（1 件）</strong>:<ul>
-<li>三叉神経腫瘍 (trigeminal nerve neoplasm) (100.0%)</li>
+<li>三叉神経腫瘍 (trigeminal nerve neoplasm)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/carbamazepine/' | relative_url }}">医薬品レポート全文を見る →</a></p>

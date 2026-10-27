@@ -3,8 +3,9 @@ layout: default
 title: "ワソラン錠４０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ワソラン錠４０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 10 件。"
+description: "ワソラン錠４０ｍｇ（選） に関する健康ニュース。予測適応症 10 件。"
 permalink: /news/verapamil/
+last_modified_at: 2026-10-27
 ---
 
 # ワソラン錠４０ｍｇ（選） 関連ニュース
@@ -26,16 +27,16 @@ permalink: /news/verapamil/
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
 <li><strong>予測適応症（10 件）</strong>:<ul>
-<li>閉塞性脚ブロック (obsolete bundle branch block) (99.6%)</li>
-<li>悪性高血圧性腎疾患 (99.3%)</li>
-<li>悪性腎血管性高血圧 (99.3%)</li>
-<li>原因不明の多因子性肺高血圧症 (99.3%)</li>
-<li>肺疾患・低酸素に伴う肺高血圧症 (99.3%)</li>
-<li>Braddock 症候群 (99.2%)</li>
-<li>一過性コンパートメント様症候群を伴う周期性麻痺 (99.1%)</li>
-<li>虚血性脳卒中感受性（obsolete） (98.7%)</li>
-<li>不整脈原性右室心筋症 (98.4%)</li>
-<li>脳幹梗塞 (97.7%)</li>
+<li>閉塞性脚ブロック (obsolete bundle branch block)</li>
+<li>悪性高血圧性腎疾患</li>
+<li>悪性腎血管性高血圧</li>
+<li>原因不明の多因子性肺高血圧症</li>
+<li>肺疾患・低酸素に伴う肺高血圧症</li>
+<li>Braddock 症候群</li>
+<li>一過性コンパートメント様症候群を伴う周期性麻痺</li>
+<li>虚血性脳卒中感受性（obsolete）</li>
+<li>不整脈原性右室心筋症</li>
+<li>脳幹梗塞</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/verapamil/' | relative_url }}">医薬品レポート全文を見る →</a></p>

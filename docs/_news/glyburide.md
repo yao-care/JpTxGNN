@@ -3,8 +3,9 @@ layout: default
 title: "オイグルコン錠２．５ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "オイグルコン錠２．５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 6 件。"
+description: "オイグルコン錠２．５ｍｇ（選） に関する健康ニュース。予測適応症 6 件。"
 permalink: /news/glyburide/
+last_modified_at: 2026-10-27
 ---
 
 # オイグルコン錠２．５ｍｇ（選） 関連ニュース
@@ -26,12 +27,12 @@ permalink: /news/glyburide/
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
 <li><strong>予測適応症（6 件）</strong>:<ul>
-<li>オプシスモ異形成症 (Opsismodysplasia) (97.2%)</li>
-<li>古典的スティッフパーソン症候群 (96.9%)</li>
-<li>限局性スティッフ肢症候群 (96.9%)</li>
-<li>チアミン反応性機能障害症候群 (96.8%)</li>
-<li>薬剤性限局性リポジストロフィー (95.2%)</li>
-<li>膵無形成 (94.3%)</li>
+<li>オプシスモ異形成症 (Opsismodysplasia)</li>
+<li>古典的スティッフパーソン症候群</li>
+<li>限局性スティッフ肢症候群</li>
+<li>チアミン反応性機能障害症候群</li>
+<li>薬剤性限局性リポジストロフィー</li>
+<li>膵無形成</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/glyburide/' | relative_url }}">医薬品レポート全文を見る →</a></p>

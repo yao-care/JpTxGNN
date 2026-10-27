@@ -3,8 +3,9 @@ layout: default
 title: "シムビコートタービュヘイラー６０吸入（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "シムビコートタービュヘイラー６０吸入（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
+description: "シムビコートタービュヘイラー６０吸入（選） に関する健康ニュース。予測適応症 1 件。"
 permalink: /news/budesonide/
+last_modified_at: 2026-10-27
 ---
 
 # シムビコートタービュヘイラー６０吸入（選） 関連ニュース
@@ -26,7 +27,7 @@ permalink: /news/budesonide/
 <ul>
 <li><strong>エビデンスレベル</strong>: L4</li>
 <li><strong>予測適応症（1 件）</strong>:<ul>
-<li>アトピー性湿疹 (atopic eczema) (100.0%)</li>
+<li>アトピー性湿疹 (atopic eczema)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/budesonide/' | relative_url }}">医薬品レポート全文を見る →</a></p>

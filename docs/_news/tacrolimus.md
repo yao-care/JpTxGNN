@@ -3,8 +3,9 @@ layout: default
 title: "プログラフカプセル１ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "プログラフカプセル１ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 7 件。"
+description: "プログラフカプセル１ｍｇ（選） に関する健康ニュース。予測適応症 7 件。"
 permalink: /news/tacrolimus/
+last_modified_at: 2026-10-27
 ---
 
 # プログラフカプセル１ｍｇ（選） 関連ニュース
@@ -26,13 +27,13 @@ permalink: /news/tacrolimus/
 <ul>
 <li><strong>エビデンスレベル</strong>: L1</li>
 <li><strong>予測適応症（7 件）</strong>:<ul>
-<li>脂漏性皮膚炎 (Seborrheic Dermatitis) (99.3%)</li>
-<li>類乾癬 (Parapsoriasis) (99.2%)</li>
-<li>皮膚炎 (Dermatitis) (99.2%)</li>
-<li>急性痘瘡状苔癬状粃糠疹 (98.9%)</li>
-<li>関節リウマチ (98.7%)</li>
-<li>乾癬 (Psoriasis) (98.7%)</li>
-<li>発疹 (Exanthem) (98.6%)</li>
+<li>脂漏性皮膚炎 (Seborrheic Dermatitis)</li>
+<li>類乾癬 (Parapsoriasis)</li>
+<li>皮膚炎 (Dermatitis)</li>
+<li>急性痘瘡状苔癬状粃糠疹</li>
+<li>関節リウマチ</li>
+<li>乾癬 (Psoriasis)</li>
+<li>発疹 (Exanthem)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">医薬品レポート全文を見る →</a></p>

@@ -3,8 +3,9 @@ layout: default
 title: "プレミネント配合錠ＨＤ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "プレミネント配合錠ＨＤ（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
+description: "プレミネント配合錠ＨＤ（選） に関する健康ニュース。予測適応症 1 件。"
 permalink: /news/hydrochlorothiazide/
+last_modified_at: 2026-10-27
 ---
 
 # プレミネント配合錠ＨＤ（選） 関連ニュース
@@ -26,7 +27,7 @@ permalink: /news/hydrochlorothiazide/
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
 <li><strong>予測適応症（1 件）</strong>:<ul>
-<li>悪性高血圧性腎疾患 (Malignant Hypertensive Renal Disease) (98.4%)</li>
+<li>悪性高血圧性腎疾患 (Malignant Hypertensive Renal Disease)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/hydrochlorothiazide/' | relative_url }}">医薬品レポート全文を見る →</a></p>

@@ -5,6 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "大腸がん (colonic neoplasm) に関する健康ニュース。ニュース 1 件、関連医薬品 1 件。"
 permalink: /news/colonic-neoplasm/
+last_modified_at: 2026-10-27
 ---
 
 # 大腸がん (colonic neoplasm) 関連ニュース

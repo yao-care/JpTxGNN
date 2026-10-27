@@ -3,8 +3,9 @@ layout: default
 title: "ディレグラ配合錠（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ディレグラ配合錠（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "ディレグラ配合錠（選） に関する健康ニュース。予測適応症 5 件。"
 permalink: /news/fexofenadine/
+last_modified_at: 2026-10-27
 ---
 
 # ディレグラ配合錠（選） 関連ニュース
@@ -26,11 +27,11 @@ permalink: /news/fexofenadine/
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
 <li><strong>予測適応症（5 件）</strong>:<ul>
-<li>酒さ性結膜炎 (Rosacea Conjunctivitis) (99.8%)</li>
-<li>点状表層角結膜炎 (98.6%)</li>
-<li>眼瞼結膜炎 (98.4%)</li>
-<li>ウイルス性結膜炎 (98.2%)</li>
-<li>眼瞼の非感染性皮膚疾患 (95.8%)</li>
+<li>酒さ性結膜炎 (Rosacea Conjunctivitis)</li>
+<li>点状表層角結膜炎</li>
+<li>眼瞼結膜炎</li>
+<li>ウイルス性結膜炎</li>
+<li>眼瞼の非感染性皮膚疾患</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/fexofenadine/' | relative_url }}">医薬品レポート全文を見る →</a></p>

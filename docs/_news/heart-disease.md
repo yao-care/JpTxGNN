@@ -5,6 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "心疾患 (heart_disease) に関する健康ニュース。ニュース 2 件、関連医薬品 41 件。"
 permalink: /news/heart-disease/
+last_modified_at: 2026-10-27
 ---
 
 # 心疾患 (heart_disease) 関連ニュース

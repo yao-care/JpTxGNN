@@ -3,8 +3,9 @@ layout: default
 title: "メバロチン錠５　５ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "メバロチン錠５　５ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
+description: "メバロチン錠５　５ｍｇ（選） に関する健康ニュース。予測適応症 1 件。"
 permalink: /news/pravastatin/
+last_modified_at: 2026-10-27
 ---
 
 # メバロチン錠５　５ｍｇ（選） 関連ニュース
@@ -26,7 +27,7 @@ permalink: /news/pravastatin/
 <ul>
 <li><strong>エビデンスレベル</strong>: L3</li>
 <li><strong>予測適応症（1 件）</strong>:<ul>
-<li>ホモ接合体家族性高コレステロール血症 (homozygous familial hypercholesterolemia) (100.0%)</li>
+<li>ホモ接合体家族性高コレステロール血症 (homozygous familial hypercholesterolemia)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pravastatin/' | relative_url }}">医薬品レポート全文を見る →</a></p>

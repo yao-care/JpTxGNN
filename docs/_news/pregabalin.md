@@ -3,8 +3,9 @@ layout: default
 title: "リリカＯＤ錠１５０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "リリカＯＤ錠１５０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
+description: "リリカＯＤ錠１５０ｍｇ（選） に関する健康ニュース。予測適応症 1 件。"
 permalink: /news/pregabalin/
+last_modified_at: 2026-10-27
 ---
 
 # リリカＯＤ錠１５０ｍｇ（選） 関連ニュース
@@ -26,7 +27,7 @@ permalink: /news/pregabalin/
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
 <li><strong>予測適応症（1 件）</strong>:<ul>
-<li>腱炎 (Tendinitis)（最上位予測）。エビデンスが最も豊富な候補は変形性関節症 (Osteoarthritis) (99.7%)</li>
+<li>腱炎 (Tendinitis)（最上位予測）。エビデンスが最も豊富な候補は変形性関節症 (Osteoarthritis)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pregabalin/' | relative_url }}">医薬品レポート全文を見る →</a></p>

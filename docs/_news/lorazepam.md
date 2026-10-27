@@ -3,8 +3,9 @@ layout: default
 title: "ワイパックス錠１．０　１ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ワイパックス錠１．０　１ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
+description: "ワイパックス錠１．０　１ｍｇ（選） に関する健康ニュース。予測適応症 1 件。"
 permalink: /news/lorazepam/
+last_modified_at: 2026-10-27
 ---
 
 # ワイパックス錠１．０　１ｍｇ（選） 関連ニュース
@@ -26,7 +27,7 @@ permalink: /news/lorazepam/
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
 <li><strong>予測適応症（1 件）</strong>:<ul>
-<li>三叉神経腫瘍 (trigeminal nerve neoplasm) (99.9%)</li>
+<li>三叉神経腫瘍 (trigeminal nerve neoplasm)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lorazepam/' | relative_url }}">医薬品レポート全文を見る →</a></p>

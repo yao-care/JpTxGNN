@@ -3,8 +3,9 @@ layout: default
 title: "セレコックス錠２００ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "セレコックス錠２００ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 4 件。"
+description: "セレコックス錠２００ｍｇ（選） に関する健康ニュース。予測適応症 4 件。"
 permalink: /news/celecoxib/
+last_modified_at: 2026-10-27
 ---
 
 # セレコックス錠２００ｍｇ（選） 関連ニュース
@@ -26,10 +27,10 @@ permalink: /news/celecoxib/
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
 <li><strong>予測適応症（4 件）</strong>:<ul>
-<li>先端中間肢異形成症 Hunter-Thompson 型 (acromesomelic dysplasia, Hunter-Thompson type) (99.9%)</li>
-<li>炎症性脊椎症（強直性脊椎炎・体軸性脊椎関節炎） (99.8%)</li>
-<li>リウマトイド因子陽性多関節型若年性特発性関節炎 (99.8%)</li>
-<li>リウマチ性血管炎 (99.8%)</li>
+<li>先端中間肢異形成症 Hunter-Thompson 型 (acromesomelic dysplasia, Hunter-Thompson type)</li>
+<li>炎症性脊椎症（強直性脊椎炎・体軸性脊椎関節炎）</li>
+<li>リウマトイド因子陽性多関節型若年性特発性関節炎</li>
+<li>リウマチ性血管炎</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/celecoxib/' | relative_url }}">医薬品レポート全文を見る →</a></p>

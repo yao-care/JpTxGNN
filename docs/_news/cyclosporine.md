@@ -3,8 +3,9 @@ layout: default
 title: "ネオーラル５０ｍｇカプセル（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ネオーラル５０ｍｇカプセル（選） に関する健康ニュース。既存適応症：。予測適応症 5 件。"
+description: "ネオーラル５０ｍｇカプセル（選） に関する健康ニュース。予測適応症 5 件。"
 permalink: /news/cyclosporine/
+last_modified_at: 2026-10-27
 ---
 
 # ネオーラル５０ｍｇカプセル（選） 関連ニュース
@@ -26,11 +27,11 @@ permalink: /news/cyclosporine/
 <ul>
 <li><strong>エビデンスレベル</strong>: L4</li>
 <li><strong>予測適応症（5 件）</strong>:<ul>
-<li>常染色体劣性慢性肉芽腫症 (granulomatous disease, chronic, autosomal recessive) (99.7%)</li>
-<li>脳動脈瘤 (99.5%)</li>
-<li>気管支炎 (98.9%)</li>
-<li>鼻涙管疾患 (98.9%)</li>
-<li>胎児赤芽球症 (99.4%)</li>
+<li>常染色体劣性慢性肉芽腫症 (granulomatous disease, chronic, autosomal recessive)</li>
+<li>脳動脈瘤</li>
+<li>気管支炎</li>
+<li>鼻涙管疾患</li>
+<li>胎児赤芽球症</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cyclosporine/' | relative_url }}">医薬品レポート全文を見る →</a></p>

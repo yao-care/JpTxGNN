@@ -3,8 +3,9 @@ layout: default
 title: "ゼチーア錠１０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ゼチーア錠１０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 7 件。"
+description: "ゼチーア錠１０ｍｇ（選） に関する健康ニュース。予測適応症 7 件。"
 permalink: /news/ezetimibe/
+last_modified_at: 2026-10-27
 ---
 
 # ゼチーア錠１０ｍｇ（選） 関連ニュース
@@ -26,13 +27,13 @@ permalink: /news/ezetimibe/
 <ul>
 <li><strong>エビデンスレベル</strong>: L1</li>
 <li><strong>予測適応症（7 件）</strong>:<ul>
-<li>高リポタンパク血症 (hyperlipoproteinemia) (99.6%)</li>
-<li>家族性高コレステロール血症 (99.4%)</li>
-<li>HIV 感染症 (98.8%)</li>
-<li>常染色体優性高コレステロール血症 (98.8%)</li>
-<li>コレステロール 7α-ヒドロキシラーゼ欠損症による高コレステロール血症 (99.2%)</li>
-<li>コレステリルエステル転送タンパク質欠損症 (99.1%)</li>
-<li>肝性トリグリセリドリパーゼ欠損症による高脂血症 (98.6%)</li>
+<li>高リポタンパク血症 (hyperlipoproteinemia)</li>
+<li>家族性高コレステロール血症</li>
+<li>HIV 感染症</li>
+<li>常染色体優性高コレステロール血症</li>
+<li>コレステロール 7α-ヒドロキシラーゼ欠損症による高コレステロール血症</li>
+<li>コレステリルエステル転送タンパク質欠損症</li>
+<li>肝性トリグリセリドリパーゼ欠損症による高脂血症</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ezetimibe/' | relative_url }}">医薬品レポート全文を見る →</a></p>

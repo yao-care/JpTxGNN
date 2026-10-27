@@ -3,8 +3,9 @@ layout: default
 title: "リンデロン−Ｖ軟膏０．１２％（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "リンデロン−Ｖ軟膏０．１２％（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
+description: "リンデロン−Ｖ軟膏０．１２％（選） に関する健康ニュース。予測適応症 1 件。"
 permalink: /news/betamethasone/
+last_modified_at: 2026-10-27
 ---
 
 # リンデロン−Ｖ軟膏０．１２％（選） 関連ニュース
@@ -26,7 +27,7 @@ permalink: /news/betamethasone/
 <ul>
 <li><strong>エビデンスレベル</strong>: L2</li>
 <li><strong>予測適応症（1 件）</strong>:<ul>
-<li>円形脱毛症 (Alopecia Areata) (100.0%)</li>
+<li>円形脱毛症 (Alopecia Areata)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/betamethasone/' | relative_url }}">医薬品レポート全文を見る →</a></p>

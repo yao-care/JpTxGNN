@@ -3,8 +3,9 @@ layout: default
 title: "ヘモレックス軟膏 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ヘモレックス軟膏 に関する健康ニュース。既存適応症：。予測適応症 1 件。"
+description: "ヘモレックス軟膏 に関する健康ニュース。予測適応症 1 件。"
 permalink: /news/hydrocortisone/
+last_modified_at: 2026-10-27
 ---
 
 # ヘモレックス軟膏 関連ニュース
@@ -26,7 +27,7 @@ permalink: /news/hydrocortisone/
 <ul>
 <li><strong>エビデンスレベル</strong>: L3</li>
 <li><strong>予測適応症（1 件）</strong>:<ul>
-<li>円形脱毛症 (Alopecia Areata) (100.0%)</li>
+<li>円形脱毛症 (Alopecia Areata)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/hydrocortisone/' | relative_url }}">医薬品レポート全文を見る →</a></p>

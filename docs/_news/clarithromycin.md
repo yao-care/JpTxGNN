@@ -3,8 +3,9 @@ layout: default
 title: "クラリス錠５０小児用　５０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "クラリス錠５０小児用　５０ｍｇ（選） に関する健康ニュース。既存適応症：。予測適応症 1 件。"
+description: "クラリス錠５０小児用　５０ｍｇ（選） に関する健康ニュース。予測適応症 1 件。"
 permalink: /news/clarithromycin/
+last_modified_at: 2026-10-27
 ---
 
 # クラリス錠５０小児用　５０ｍｇ（選） 関連ニュース
@@ -26,7 +27,7 @@ permalink: /news/clarithromycin/
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
 <li><strong>予測適応症（1 件）</strong>:<ul>
-<li>高アミラーゼ血症 (Hyperamylasemia)（TxGNN 1 位）。ただしエビデンスが最も厚い候補は単クローン性免疫グロブリン血症 (Monoclonal Gammopathy)（7 位） (99.3%)</li>
+<li>高アミラーゼ血症 (Hyperamylasemia)（TxGNN 1 位）。ただしエビデンスが最も厚い候補は単クローン性免疫グロブリン血症 (Monoclonal Gammopathy)（7 位）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/clarithromycin/' | relative_url }}">医薬品レポート全文を見る →</a></p>

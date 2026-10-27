@@ -3,8 +3,9 @@ layout: default
 title: "モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」 に関する健康ニュース。既存適応症：。予測適応症 1 件。"
+description: "モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」 に関する健康ニュース。予測適応症 1 件。"
 permalink: /news/morphine/
+last_modified_at: 2026-10-27
 ---
 
 # モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」 関連ニュース
@@ -26,7 +27,7 @@ permalink: /news/morphine/
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
 <li><strong>予測適応症（1 件）</strong>:<ul>
-<li>むずむず脚症候群 (Restless Legs Syndrome)（TxGNN 予測順位 4 位。1 位は筋筋膜性疼痛症候群） (99.5%)</li>
+<li>むずむず脚症候群 (Restless Legs Syndrome)（TxGNN 予測順位 4 位。1 位は筋筋膜性疼痛症候群）</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/morphine/' | relative_url }}">医薬品レポート全文を見る →</a></p>
