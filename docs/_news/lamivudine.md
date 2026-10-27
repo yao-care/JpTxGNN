@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="エプジコム配合錠（選） に関するニュースは？">
-<strong>エプジコム配合錠（選）</strong> には現在 <strong>10 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
+<strong>エプジコム配合錠（選）</strong> には現在 <strong>9 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -33,13 +33,13 @@ last_modified_at: 2026-10-27
 <p><a href="{{ '/drugs/lamivudine/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（10 件）
+## 関連ニュース（9 件）
 
-### [消化器がんへのオキサリプラチン、減らしても有効性に影響はない？／メタ解析｜CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UTl80OGZ4U2ZnQjlTNXFmLW5UNGx1UWc0R2ttcUJiOGNyZEhNaVJLM0Myc2hXTC16dWphbkFxSkI3SzhfbWk1Ty14SEVvZ2JqWDJkZFo4RVJIZktpQmRF?oc=5)
+### [介護者を支えるには？NCCN、がんになった大切な人を支えるための必携ガイドを発表 - ACROFAN Japan](https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5VHlEZEhOeEs4YVoxZzJyT3NwTHdieFJJaVZDSDU2dVctdERUTE9JMUROcldnWFV4QWI3QnZXTWpZeUZSbUZQa2dPVGNVa0FLakNPUTdNNmptSlU?oc=5)
 
 2026-10-27 <span class="news-indication-tag">がん</span>
 
-出典: [CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UTl80OGZ4U2ZnQjlTNXFmLW5UNGx1UWc0R2ttcUJiOGNyZEhNaVJLM0Myc2hXTC16dWphbkFxSkI3SzhfbWk1Ty14SEVvZ2JqWDJkZFo4RVJIZktpQmRF?oc=5)
+出典: [ACROFAN Japan](https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5VHlEZEhOeEs4YVoxZzJyT3NwTHdieFJJaVZDSDU2dVctdERUTE9JMUROcldnWFV4QWI3QnZXTWpZeUZSbUZQa2dPVGNVa0FLakNPUTdNNmptSlU?oc=5)
 
 ---
 
@@ -64,14 +64,6 @@ last_modified_at: 2026-10-27
 2026-10-26 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
 
 出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwUlZMb1VpM3E2NWdYQUVGaEJhd1R6WV9RamhqTmNZcTYwRU5nVzJRd0t6SkxtWlVYVHppSzFJc204RGpBTFd1SjNyV3dBQVRVRmM3aXluTFJGekdkSHc?oc=5)
-
----
-
-### [お菓子やソーセージの食べすぎに注意？「超加工食品」と脳の異常に関連、約8800人を調査 - DAILYSUN NEW YORK](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJbjhvWjg2RnJYNF91VFRPWWUzVkRMZjBkSDNUc3hlalNlNC04a2R6RXdiaHluTmJyUW1WY0hIYzVxZ3lXZTJXVDFNUmtUVDFqWFEwcXh2N0VneldUb094dA?oc=5)
-
-2026-10-26 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
-
-出典: [DAILYSUN NEW YORK](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJbjhvWjg2RnJYNF91VFRPWWUzVkRMZjBkSDNUc3hlalNlNC04a2R6RXdiaHluTmJyUW1WY0hIYzVxZ3lXZTJXVDFNUmtUVDFqWFEwcXh2N0VneldUb094dA?oc=5)
 
 ---
 
