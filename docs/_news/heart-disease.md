@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "心疾患 (heart_disease) 関連ニュース"
+title: "心臓病 (heart_disease) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "心疾患 (heart_disease) に関する健康ニュース。ニュース 3 件、関連医薬品 41 件。"
+description: "心臓病 (heart_disease) に関する健康ニュース。ニュース 4 件、関連医薬品 41 件。"
 permalink: /news/heart-disease/
 last_modified_at: 2026-10-27
 ---
 
-# 心疾患 (heart_disease) 関連ニュース
+# 心臓病 (heart_disease) 関連ニュース
 
 [← ニュース一覧に戻る]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="心疾患 (heart_disease) に関するニュースは？">
-<strong>心疾患 (heart_disease)</strong> には現在 <strong>3 件</strong>の関連ニュースと 41 件の関連医薬品があります。
+<p class="key-answer" data-question="心臓病 (heart_disease) に関するニュースは？">
+<strong>心臓病 (heart_disease)</strong> には現在 <strong>4 件</strong>の関連ニュースと 41 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
-このページは「心疾患」に関する最新の健康ニュースをまとめ、JpTxGNN データベースで予測適応症にこの疾患を含む医薬品を一覧表示します。
+このページは「心臓病」に関する最新の健康ニュースをまとめ、JpTxGNN データベースで予測適応症にこの疾患を含む医薬品を一覧表示します。
 </div>
 
 <div class="related-drugs-card">
@@ -70,7 +70,15 @@ last_modified_at: 2026-10-27
 </ul>
 </div>
 
-## 関連ニュース（3 件）
+## 関連ニュース（4 件）
+
+### [お酒が引き起こす心臓病がある！ リスクが大きい飲み方とは](https://news.google.com/rss/articles/CBMilAFBVV95cUxPWEZqZTF4cnlPOU14UGhGa21xdE1UQ0xIVE9wOWlBc2NLel9lYTk1SEx3UHROSFZtQVIzNUx4XzV3OXhoZGF6a05SVDdueFZfVExKZDB0TDRySjJUS3l1ZEtyMWhzbC1PYTMzellQaUVBZWw4VElNUUh2S21UYkVCNDdxMGZJR29Sem81MEMtdzNSSmdi?oc=5)
+
+2026-10-27
+
+出典: [日経Gooday](https://news.google.com/rss/articles/CBMilAFBVV95cUxPWEZqZTF4cnlPOU14UGhGa21xdE1UQ0xIVE9wOWlBc2NLel9lYTk1SEx3UHROSFZtQVIzNUx4XzV3OXhoZGF6a05SVDdueFZfVExKZDB0TDRySjJUS3l1ZEtyMWhzbC1PYTMzellQaUVBZWw4VElNUUh2S21UYkVCNDdxMGZJR29Sem81MEMtdzNSSmdi?oc=5)
+
+---
 
 ### [9520のタンパクから真の原因へ：プロテオゲノミクス×因果推論で拓く虚血性心疾患の創薬](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kYVA0TEsyejJrRTRlQ2hxZER4dmpIZkJNamI5MDZ0UU5sLUh0UC1Wbkd6YUJoUUFHRUZYUHFYUGJua3Nvd05oMlJ1LUxEeWl0VWc?oc=5)
 

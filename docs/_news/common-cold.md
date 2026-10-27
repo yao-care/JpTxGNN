@@ -39,11 +39,11 @@ last_modified_at: 2026-10-27
 
 ## 関連ニュース（1 件）
 
-### [ワクチン接種後にインフルエンザ感染した昨年 予防接種の適切なタイミングは？【医師が解説】](https://news.google.com/rss/articles/CBMickFVX3lxTE9KeEVWSGNrbVphWXRaVm00alJYaVVHbkpMbDhTd3ZDNzZrTlNXNU9mU3Fkdk9KbUQxUUx0RWxFY2UybUUxY2RvRmlpS1lfLVZIV3JSeTJ5QjBYbk9BNTNtaVNWWkZ0eTZZbENDeTRYRGpxQQ?oc=5)
+### [インフルエンザ流行「今年は1カ月早い」 広島・山口など中国地方、接種を前倒し](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9BUjAwbEpOMm00a0NqUjBMZVZIQlBFVEctaWc4b2xZSURmYlZHY1FoSnlhWEsxbEVKU1RTa1B0cDNPcUdXTnVOc1gtOA?oc=5)
 
-2026-10-26
+2026-10-27
 
-出典: [デイリースポーツ](https://news.google.com/rss/articles/CBMickFVX3lxTE9KeEVWSGNrbVphWXRaVm00alJYaVVHbkpMbDhTd3ZDNzZrTlNXNU9mU3Fkdk9KbUQxUUx0RWxFY2UybUUxY2RvRmlpS1lfLVZIV3JSeTJ5QjBYbk9BNTNtaVNWWkZ0eTZZbENDeTRYRGpxQQ?oc=5)
+出典: [47NEWS](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9BUjAwbEpOMm00a0NqUjBMZVZIQlBFVEctaWc4b2xZSURmYlZHY1FoSnlhWEsxbEVKU1RTa1B0cDNPcUdXTnVOc1gtOA?oc=5)
 
 ---
 
