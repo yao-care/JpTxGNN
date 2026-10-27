@@ -33,7 +33,8 @@ predicted_indications: ["Prinzmetal angina", "brain stem infarction", "ABri amyl
 
 </div>
 
-# テルミサルタン：高血圧症から Prinzmetal 狭心症へ
+## テルミサルタン：高血圧症から Prinzmetal 狭心症へ
+{: .text-alpha }
 
 ## 一言要約
 

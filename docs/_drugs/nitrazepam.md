@@ -33,7 +33,8 @@ predicted_indications: ["Wernicke-Korsakoff syndrome"]
 
 </div>
 
-# ニトラゼパム：不眠症・点頭てんかんから睡眠障害（入眠・睡眠維持障害）へ
+## ニトラゼパム：不眠症・点頭てんかんから睡眠障害（入眠・睡眠維持障害）へ
+{: .text-alpha }
 
 ## 一言要約
 

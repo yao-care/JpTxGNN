@@ -31,7 +31,8 @@ description: "Hydroxyprogesterone Caproate：予測新適応症は子宮内膜�
 
 </div>
 
-# Hydroxyprogesterone Caproate：流産予防から子宮内膜癌へ
+## Hydroxyprogesterone Caproate：流産予防から子宮内膜癌へ
+{: .text-alpha }
 
 ## 一言まとめ
 

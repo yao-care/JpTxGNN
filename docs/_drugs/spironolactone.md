@@ -33,7 +33,8 @@ predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotr
 
 </div>
 
-# スピロノラクトン：高血圧症・原発性アルドステロン症から脱毛症へ
+## スピロノラクトン：高血圧症・原発性アルドステロン症から脱毛症へ
+{: .text-alpha }
 
 ## 一言要約
 

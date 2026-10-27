@@ -33,7 +33,8 @@ predicted_indications: ["gaze palsy, familial horizontal, with progressive scoli
 
 </div>
 
-# リスペリドン：統合失調症から大うつ病性障害・双極性障害（気分障害）へ
+## リスペリドン：統合失調症から大うつ病性障害・双極性障害（気分障害）へ
+{: .text-alpha }
 
 > 注：TxGNN の予測スコア順位で最上位の疾患（家族性水平性注視麻痺・進行性側弯症）には裏付けとなる研究が一切ありません。そのため、本レポートでは臨床エビデンスが最も充実している「気分障害 (major affective disorder)」を主な評価対象としました。
 

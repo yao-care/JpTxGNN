@@ -33,7 +33,8 @@ description: "Cefmetazole：予測新適応症は高アミラーゼ血症、多�
 
 </div>
 
-# Cefmetazole：抗菌薬から多様な疾患への予測探索
+## Cefmetazole：抗菌薬から多様な疾患への予測探索
+{: .text-alpha }
 
 ## 一言まとめ
 

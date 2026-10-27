@@ -33,7 +33,8 @@ predicted_indications: ["Ohdo syndrome and variants", "melancholia", "blepharoph
 
 </div>
 
-# パロキセチン：うつ病（SSRI）から Ohdo 症候群および類縁疾患へ
+## パロキセチン：うつ病（SSRI）から Ohdo 症候群および類縁疾患へ
+{: .text-alpha }
 
 ## 一言要約
 

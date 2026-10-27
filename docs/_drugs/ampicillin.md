@@ -33,7 +33,8 @@ predicted_indications: ["laryngitis", "Ureaplasma urethritis", "gonococcal ureth
 
 </div>
 
-# アンピシリン：抗生物質から喉頭炎へ
+## アンピシリン：抗生物質から喉頭炎へ
+{: .text-alpha }
 
 ## 一言要約
 

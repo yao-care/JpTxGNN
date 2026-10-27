@@ -31,7 +31,8 @@ description: "Vinorelbine：予測新適応症はEwing 肉腫 (Ewing sarcoma)（
 
 </div>
 
-# Vinorelbine：非小細胞肺癌から Ewing 肉腫へ
+## Vinorelbine：非小細胞肺癌から Ewing 肉腫へ
+{: .text-alpha }
 
 ## 一言まとめ
 

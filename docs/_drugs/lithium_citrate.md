@@ -33,7 +33,8 @@ description: "Lithium Citrate：予測新適応症はMalan 過成長症候群 (M
 
 </div>
 
-# クエン酸リチウム：躁病・躁うつ病の躁状態から Malan 過成長症候群へ
+## クエン酸リチウム：躁病・躁うつ病の躁状態から Malan 過成長症候群へ
+{: .text-alpha }
 
 ## 一言要約
 

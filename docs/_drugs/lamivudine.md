@@ -33,7 +33,8 @@ predicted_indications: ["simian immunodeficiency virus infection", "feline acqui
 
 </div>
 
-# ラミブジン：慢性B型肝炎・HIV感染症から サル免疫不全ウイルス感染症へ
+## ラミブジン：慢性B型肝炎・HIV感染症から サル免疫不全ウイルス感染症へ
+{: .text-alpha }
 
 ## 一言要約
 

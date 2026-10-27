@@ -33,7 +33,8 @@ predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "amyotrophi
 
 </div>
 
-# カボザンチニブ：腎細胞癌から脂肪肉腫へ
+## カボザンチニブ：腎細胞癌から脂肪肉腫へ
+{: .text-alpha }
 
 ## 一言要約
 

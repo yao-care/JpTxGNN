@@ -33,7 +33,8 @@ description: "Deferasirox：予測新適応症はHIV 感染症 (HIV infectious d
 
 </div>
 
-# デフェラシロクス：鉄過剰蓄積（キレート剤）からHIV感染症へ
+## デフェラシロクス：鉄過剰蓄積（キレート剤）からHIV感染症へ
+{: .text-alpha }
 
 ## 一言要約
 

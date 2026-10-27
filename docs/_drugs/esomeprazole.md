@@ -33,7 +33,8 @@ predicted_indications: ["duodenal obstruction", "abnormality of glucagon secreti
 
 </div>
 
-# エソメプラゾール：胃酸関連疾患から十二指腸逆流へ
+## エソメプラゾール：胃酸関連疾患から十二指腸逆流へ
+{: .text-alpha }
 
 ## 一言要約
 

@@ -33,7 +33,8 @@ predicted_indications: ["PLA2G6-associated neurodegeneration", "Rasmussen subacu
 
 </div>
 
-# エンタカポン：パーキンソン病から PLA2G6 関連神経変性症へ
+## エンタカポン：パーキンソン病から PLA2G6 関連神経変性症へ
+{: .text-alpha }
 
 ## 一言要約
 

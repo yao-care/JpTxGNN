@@ -31,7 +31,8 @@ description: "Alprostadil：予測新適応症は大動脈奇形、先天性三�
 
 </div>
 
-# Alprostadil：血管拡張薬から先天性心疾患の標準治療へ
+## Alprostadil：血管拡張薬から先天性心疾患の標準治療へ
+{: .text-alpha }
 
 ## 一言まとめ
 

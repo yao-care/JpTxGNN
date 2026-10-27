@@ -31,7 +31,8 @@ description: "Sodium Carbonate：予測新適応症はアナフィラキシー�
 
 </div>
 
-# Sodium Carbonate：制酸剤からアナフィラキシー補助治療への探索
+## Sodium Carbonate：制酸剤からアナフィラキシー補助治療への探索
+{: .text-alpha }
 
 ## 一言まとめ
 

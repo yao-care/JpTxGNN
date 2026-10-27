@@ -33,7 +33,8 @@ predicted_indications: ["familial isolated hypoparathyroidism due to impaired PT
 
 </div>
 
-# アルファカルシドール：副甲状腺機能亢進症などから家族性孤立性副甲状腺機能低下症へ
+## アルファカルシドール：副甲状腺機能亢進症などから家族性孤立性副甲状腺機能低下症へ
+{: .text-alpha }
 
 ## 一言要約
 

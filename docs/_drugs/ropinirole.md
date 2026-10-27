@@ -33,7 +33,8 @@ description: "Ropinirole：予測新適応症は注意欠如・多動症 (Attent
 
 </div>
 
-# ロピニロール：パーキンソン病から注意欠如・多動症 (ADHD) へ
+## ロピニロール：パーキンソン病から注意欠如・多動症 (ADHD) へ
+{: .text-alpha }
 
 ## 一言要約
 

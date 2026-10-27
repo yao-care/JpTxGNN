@@ -33,7 +33,8 @@ predicted_indications: ["obsolete susceptibility to ischemic stroke", "brain ste
 
 </div>
 
-# ジルチアゼム：狭心症・本態性高血圧症から脳血管障害へ
+## ジルチアゼム：狭心症・本態性高血圧症から脳血管障害へ
+{: .text-alpha }
 
 ## 一言要約
 

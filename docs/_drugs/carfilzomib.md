@@ -33,7 +33,8 @@ description: "Carfilzomib：予測新適応症はCMM7（エビデンスレベル
 
 </div>
 
-# カルフィルゾミブ：多発性骨髄腫から CMM7 へ
+## カルフィルゾミブ：多発性骨髄腫から CMM7 へ
+{: .text-alpha }
 
 ## 一言要約
 

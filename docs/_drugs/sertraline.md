@@ -33,7 +33,8 @@ predicted_indications: ["histrionic personality disorder (disease)", "schizotypa
 
 </div>
 
-# セルトラリン：うつ病・パニック障害から演技性パーソナリティ障害へ
+## セルトラリン：うつ病・パニック障害から演技性パーソナリティ障害へ
+{: .text-alpha }
 
 ## 一言要約
 

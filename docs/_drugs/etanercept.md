@@ -33,7 +33,8 @@ predicted_indications: ["hypermobility of coccyx", "inflammatory spondylopathy",
 
 </div>
 
-# エタネルセプト：関節リウマチ・脊椎関節炎・若年性特発性関節炎から関節リウマチ性血管炎へ
+## エタネルセプト：関節リウマチ・脊椎関節炎・若年性特発性関節炎から関節リウマチ性血管炎へ
+{: .text-alpha }
 
 ## 一言要約
 

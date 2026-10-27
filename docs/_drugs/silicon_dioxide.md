@@ -31,7 +31,8 @@ description: "Silicon Dioxide：予測新適応症はActive Peptic Ulcer Disease
 
 </div>
 
-# Silicon Dioxide：賦形剤から消化性潰瘍の探索へ
+## Silicon Dioxide：賦形剤から消化性潰瘍の探索へ
+{: .text-alpha }
 
 ## 一言まとめ
 

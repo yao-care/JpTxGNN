@@ -31,7 +31,8 @@ description: "Alirocumab：予測新適応症は黄色腫症（Xanthomatosis）�
 
 </div>
 
-# Alirocumab：降脂薬から コレステロール代謝疾患への潜在的新適応症
+## Alirocumab：降脂薬から コレステロール代謝疾患への潜在的新適応症
+{: .text-alpha }
 
 ## 一言まとめ
 

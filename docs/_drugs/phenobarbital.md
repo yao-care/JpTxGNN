@@ -33,7 +33,8 @@ predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "be
 
 </div>
 
-# フェノバルビタール：不眠症から三叉神経腫瘍へ
+## フェノバルビタール：不眠症から三叉神経腫瘍へ
+{: .text-alpha }
 
 ## 一言要約
 

@@ -31,7 +31,8 @@ description: "Nystatin：予測新適応症は外陰腟炎 (Vulvovaginitis)（�
 
 </div>
 
-# Nystatin：抗真菌薬から外陰腟炎へ
+## Nystatin：抗真菌薬から外陰腟炎へ
+{: .text-alpha }
 
 ## 一言まとめ
 

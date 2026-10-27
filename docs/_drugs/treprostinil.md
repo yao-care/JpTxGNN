@@ -31,7 +31,8 @@ description: "Treprostinil：予測新適応症は肺動脈性肺高血圧症関
 
 </div>
 
-# Treprostinil：肺動脈性肺高血圧症から関連する合併症まで
+## Treprostinil：肺動脈性肺高血圧症から関連する合併症まで
+{: .text-alpha }
 
 ## 一言まとめ
 

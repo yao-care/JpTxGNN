@@ -33,7 +33,8 @@ predicted_indications: ["exposure keratitis", "non-human animal disease", "otiti
 
 </div>
 
-# フシジン酸：細菌感染症から暴露性角膜炎へ
+## フシジン酸：細菌感染症から暴露性角膜炎へ
+{: .text-alpha }
 
 ## 一言要約
 

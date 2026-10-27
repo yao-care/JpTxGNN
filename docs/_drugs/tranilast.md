@@ -33,7 +33,8 @@ predicted_indications: ["seborrheic keratosis", "seborrheic dermatitis", "polyp 
 
 </div>
 
-# トラニラスト：気管支喘息・アレルギー性疾患から脂漏性角化症へ
+## トラニラスト：気管支喘息・アレルギー性疾患から脂漏性角化症へ
+{: .text-alpha }
 
 ## 一言要約
 

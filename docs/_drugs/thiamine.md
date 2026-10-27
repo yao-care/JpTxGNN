@@ -33,7 +33,8 @@ predicted_indications: ["resistance to thyroid hormone due to a mutation in thyr
 
 </div>
 
-# チアミン：ビタミンB1欠乏症（ウェルニッケ脳炎・脚気衝心）から甲状腺機能亢進症へ
+## チアミン：ビタミンB1欠乏症（ウェルニッケ脳炎・脚気衝心）から甲状腺機能亢進症へ
+{: .text-alpha }
 
 ## 一言要約
 

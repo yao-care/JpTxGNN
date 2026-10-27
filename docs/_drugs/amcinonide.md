@@ -31,7 +31,8 @@ description: "Amcinonide：予測新適応症は皮膚炎 (dermatitis)（エビ�
 
 </div>
 
-# Amcinonide：アトピー性皮膚炎から皮膚炎へ
+## Amcinonide：アトピー性皮膚炎から皮膚炎へ
+{: .text-alpha }
 
 ## 一言まとめ
 

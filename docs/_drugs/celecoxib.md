@@ -33,7 +33,8 @@ predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachy
 
 </div>
 
-# セレコキシブ：関節リウマチから先端中間肢異形成症（Hunter-Thompson 型）へ
+## セレコキシブ：関節リウマチから先端中間肢異形成症（Hunter-Thompson 型）へ
+{: .text-alpha }
 
 ## 一言要約
 

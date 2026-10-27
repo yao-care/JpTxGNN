@@ -33,7 +33,8 @@ predicted_indications: ["gastroduodenitis", "peptic ulcer perforation", "duodena
 
 </div>
 
-# メトクロプラミド：胃・十二指腸潰瘍から胃潰瘍 (Gastric Ulcer) へ
+## メトクロプラミド：胃・十二指腸潰瘍から胃潰瘍 (Gastric Ulcer) へ
+{: .text-alpha }
 
 ## 一言要約
 

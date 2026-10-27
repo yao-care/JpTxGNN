@@ -31,7 +31,8 @@ description: "Brodalumab：予測新適応症は眼疾患 (Eye Disease)（エビ
 
 </div>
 
-# Brodalumab：尋常性乾癬から眼疾患へ
+## Brodalumab：尋常性乾癬から眼疾患へ
+{: .text-alpha }
 
 ## 一言まとめ
 

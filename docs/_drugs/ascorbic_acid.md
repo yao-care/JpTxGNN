@@ -33,7 +33,8 @@ predicted_indications: ["non-syndromic esophageal malformation", "esophageal dis
 
 </div>
 
-# アスコルビン酸：アスコルビン酸欠乏症・壊血病から非症候性食道奇形へ
+## アスコルビン酸：アスコルビン酸欠乏症・壊血病から非症候性食道奇形へ
+{: .text-alpha }
 
 ## 一言要約
 

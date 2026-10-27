@@ -33,7 +33,8 @@ predicted_indications: ["pityriasis versicolor", "endothrix infectious disease",
 
 </div>
 
-# ルリコナゾール：白癬から癜風へ
+## ルリコナゾール：白癬から癜風へ
+{: .text-alpha }
 
 ## 一言要約
 

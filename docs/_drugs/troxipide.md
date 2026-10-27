@@ -33,7 +33,8 @@ predicted_indications: ["esophagitis (disease)", "hiatus hernia (disease)", "ach
 
 </div>
 
-# トロキシピド：胃潰瘍から食道炎へ
+## トロキシピド：胃潰瘍から食道炎へ
+{: .text-alpha }
 
 ## 一言要約
 

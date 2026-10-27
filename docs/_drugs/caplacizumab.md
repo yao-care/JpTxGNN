@@ -33,7 +33,8 @@ description: "Caplacizumab：予測新適応症は血小板放出障害 (primary
 
 </div>
 
-# Caplacizumab：後天性TTPから血小板原発放出障害へ
+## Caplacizumab：後天性TTPから血小板原発放出障害へ
+{: .text-alpha }
 
 ## 一言まとめ
 Caplacizumab（カプラシズマブ） は後天性血栓性血小板減少性紫斑病(aTTP)の治療に用いられる抗von Willebrand因子ナノボディであり、TxGNN は血小板原発放出障害(primary release disorder of platelets)に対する治療可能性を予測しています。

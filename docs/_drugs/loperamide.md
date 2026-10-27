@@ -33,7 +33,8 @@ predicted_indications: ["acute contagious conjunctivitis", "amebic dysentery", "
 
 </div>
 
-# ロペラミド：止瀉薬（オピオイド受容体作動薬）から急性伝染性結膜炎へ
+## ロペラミド：止瀉薬（オピオイド受容体作動薬）から急性伝染性結膜炎へ
+{: .text-alpha }
 
 ## 一言要約
 

@@ -31,7 +31,8 @@ description: "Hydroquinone：予測新適応症は脂漏性角化症 (seborrheic
 
 </div>
 
-# Hydroquinone：色素沈着から脂漏性角化症へ
+## Hydroquinone：色素沈着から脂漏性角化症へ
+{: .text-alpha }
 
 ## 一言まとめ
 

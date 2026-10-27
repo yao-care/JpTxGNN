@@ -33,7 +33,8 @@ predicted_indications: ["trigeminal nerve neoplasm", "beta-ketothiolase deficien
 
 </div>
 
-# カルバマゼピン：三叉神経痛・躁病から三叉神経腫瘍（trigeminal nerve neoplasm）へ
+## カルバマゼピン：三叉神経痛・躁病から三叉神経腫瘍（trigeminal nerve neoplasm）へ
+{: .text-alpha }
 
 ## 一言要約
 

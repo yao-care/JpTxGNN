@@ -31,7 +31,8 @@ description: "Sulfamethazine：予測新適応症は糖尿病性腎症（diabeti
 
 </div>
 
-# Sulfamethazine：抗菌薬から多様な感染症への探索
+## Sulfamethazine：抗菌薬から多様な感染症への探索
+{: .text-alpha }
 
 ## 一言まとめ
 

@@ -33,7 +33,8 @@ predicted_indications: ["chronic hepatitis C virus infection", "HIV infectious d
 
 </div>
 
-# エンテカビル：B型肝炎から慢性C型肝炎ウイルス感染へ
+## エンテカビル：B型肝炎から慢性C型肝炎ウイルス感染へ
+{: .text-alpha }
 
 ## 一言要約
 

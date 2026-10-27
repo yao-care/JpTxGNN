@@ -33,7 +33,8 @@ description: "Nitrofurantoin：予測新適応症は関節リウマチ (rheumato
 
 </div>
 
-# Nitrofurantoin：尿路感染から関節リウマチへ
+## Nitrofurantoin：尿路感染から関節リウマチへ
+{: .text-alpha }
 
 ## 一言まとめ
 

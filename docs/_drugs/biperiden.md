@@ -33,7 +33,8 @@ predicted_indications: ["Rasmussen subacute encephalitis", "myelitis", "PLA2G6-a
 
 </div>
 
-# ビペリデン：パーキンソン病から Rasmussen 亜急性脳炎へ
+## ビペリデン：パーキンソン病から Rasmussen 亜急性脳炎へ
+{: .text-alpha }
 
 ## 一言要約
 

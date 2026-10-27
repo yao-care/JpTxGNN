@@ -258,6 +258,22 @@ def get_parent_titles(base_dir: Path) -> dict:
     return level_map
 
 
+
+def demote_body_h1(md: str) -> str:
+    """頁首 `# 藥名` + `{: .fs-9 }` 是全頁唯一 h1；筆記內文的 `# 標題` 降為 h2，掛 .text-alpha 保持 h1 外觀。
+    （2026-10-27：線上部署檢查 h1-single 規則報藥物頁有 2 個 <h1>。）"""
+    out, fence = [], False
+    for line in md.split("\n"):
+        if line.lstrip().startswith(("```", "~~~")):
+            fence = not fence
+        if not fence and line.startswith("# "):
+            out.append("#" + line)
+            out.append("{: .text-alpha }")
+            continue
+        out.append(line)
+    return "\n".join(out)
+
+
 def sync_notes_to_docs():
     """Main sync function."""
     base_dir = Path(__file__).parent.parent
@@ -346,7 +362,7 @@ indication_count: {indication_count}
 
 """
 
-        full_content = front_matter + content + disclaimer + "\n---\n\n"
+        full_content = front_matter + demote_body_h1(content) + disclaimer + "\n---\n\n"
         full_content = finalize_front_matter(docs_drugs_dir / f"{drug_name}.md", full_content, base_dir)
         (docs_drugs_dir / f"{drug_name}.md").write_text(full_content, encoding="utf-8")
         synced += 1

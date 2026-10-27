@@ -33,7 +33,8 @@ predicted_indications: ["atopic eczema", "bronchitis", "dermatitis, atopic", "po
 
 </div>
 
-# ブデソニド：気管支喘息・クローン病・潰瘍性大腸炎から アトピー性湿疹 へ
+## ブデソニド：気管支喘息・クローン病・潰瘍性大腸炎から アトピー性湿疹 へ
+{: .text-alpha }
 
 ## 一言要約
 

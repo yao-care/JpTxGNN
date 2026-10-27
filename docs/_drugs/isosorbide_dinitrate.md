@@ -31,7 +31,8 @@ description: "Isosorbide Dinitrate：予測新適応症は肺高血圧症 (pulmo
 
 </div>
 
-# Isosorbide Dinitrate：狭心症から肺高血圧症へ
+## Isosorbide Dinitrate：狭心症から肺高血圧症へ
+{: .text-alpha }
 
 ## 一言まとめ
 

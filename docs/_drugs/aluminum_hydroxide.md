@@ -31,7 +31,8 @@ description: "Aluminum Hydroxide：予測新適応症は活動性消化性潰瘍
 
 </div>
 
-# Aluminum Hydroxide：胃酸過多から活動性消化性潰瘍へ
+## Aluminum Hydroxide：胃酸過多から活動性消化性潰瘍へ
+{: .text-alpha }
 
 ## 一言まとめ
 

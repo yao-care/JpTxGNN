@@ -33,7 +33,8 @@ description: "Amantadine：予測新適応症はRasmussen 亜急性脳炎 (Rasmu
 
 </div>
 
-# アマンタジン：パーキンソン症候群・A型インフルエンザから Rasmussen 亜急性脳炎へ
+## アマンタジン：パーキンソン症候群・A型インフルエンザから Rasmussen 亜急性脳炎へ
+{: .text-alpha }
 
 ## 一言要約
 

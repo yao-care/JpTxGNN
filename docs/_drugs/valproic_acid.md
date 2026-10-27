@@ -33,7 +33,8 @@ predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
 
 </div>
 
-# バルプロ酸：躁病・躁うつ病の躁状態から三叉神経腫瘍へ
+## バルプロ酸：躁病・躁うつ病の躁状態から三叉神経腫瘍へ
+{: .text-alpha }
 
 ## 一言要約
 

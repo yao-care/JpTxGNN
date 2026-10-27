@@ -33,7 +33,8 @@ predicted_indications: ["hypermobility of coccyx", "inflammatory spondylopathy",
 
 </div>
 
-# アダリムマブ：クローン病・関節リウマチなどから関節リウマチ性血管炎へ
+## アダリムマブ：クローン病・関節リウマチなどから関節リウマチ性血管炎へ
+{: .text-alpha }
 
 ## 一言要約
 

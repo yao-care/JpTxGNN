@@ -33,7 +33,8 @@ predicted_indications: ["bronchitis", "atopic eczema", "obstructive lung disease
 
 </div>
 
-# モンテルカスト：気管支喘息・アレルギー性鼻炎から気管支炎へ
+## モンテルカスト：気管支喘息・アレルギー性鼻炎から気管支炎へ
+{: .text-alpha }
 
 ## 一言要約
 

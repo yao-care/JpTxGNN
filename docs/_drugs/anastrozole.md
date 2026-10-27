@@ -33,7 +33,8 @@ predicted_indications: ["neuroblastoma", "vertebral anomalies and variable endoc
 
 </div>
 
-# アナストロゾール：閉経後乳癌から女性乳癌へ
+## アナストロゾール：閉経後乳癌から女性乳癌へ
+{: .text-alpha }
 
 ## 一言要約
 

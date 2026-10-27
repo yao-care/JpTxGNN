@@ -33,7 +33,8 @@ description: "Adapalene：予測新適応症は血漿亜鉛高値 (zinc, elevate
 
 </div>
 
-# アダパレン：尋常性ざ瘡から血漿亜鉛高値へ
+## アダパレン：尋常性ざ瘡から血漿亜鉛高値へ
+{: .text-alpha }
 
 ## 一言要約
 

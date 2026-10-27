@@ -33,7 +33,8 @@ predicted_indications: ["rosacea conjunctivitis", "allergic urticaria"]
 
 </div>
 
-# エピナスチン：気管支喘息・アレルギー性鼻炎・尋常性乾癬から rosacea conjunctivitis（酒さ性結膜炎）へ
+## エピナスチン：気管支喘息・アレルギー性鼻炎・尋常性乾癬から rosacea conjunctivitis（酒さ性結膜炎）へ
+{: .text-alpha }
 
 ## 一言要約
 

@@ -33,7 +33,8 @@ description: "Pirfenidone：予測新適応症は肥満細胞腫 (Extracutaneous
 
 </div>
 
-# ピルフェニドン：特発性肺線維症から特発性肺線維症以外の線維芽細胞性腫瘍（fibroblastic neoplasm）へ
+## ピルフェニドン：特発性肺線維症から特発性肺線維症以外の線維芽細胞性腫瘍（fibroblastic neoplasm）へ
+{: .text-alpha }
 
 ## 一言要約
 

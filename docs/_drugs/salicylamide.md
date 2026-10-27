@@ -31,7 +31,8 @@ description: "Salicylamide：予測新適応症は感冒 (common cold)、咽頭�
 
 </div>
 
-# Salicylamide：解熱鎮痛から感冒関連疾患へ
+## Salicylamide：解熱鎮痛から感冒関連疾患へ
+{: .text-alpha }
 
 ## 一言まとめ
 

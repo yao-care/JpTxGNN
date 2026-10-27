@@ -31,7 +31,8 @@ description: "Human Immunoglobulin G：予測新適応症は糖尿病網膜症 (
 
 </div>
 
-# Human Immunoglobulin G：免疫調節から糖尿病網膜症へ
+## Human Immunoglobulin G：免疫調節から糖尿病網膜症へ
+{: .text-alpha }
 
 ## 一言まとめ
 

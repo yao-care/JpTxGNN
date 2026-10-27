@@ -31,7 +31,8 @@ description: "Dronedarone：予測新適応症は脳卒中 (stroke disorder)（�
 
 </div>
 
-# Dronedarone：心房細動から脳卒中へ
+## Dronedarone：心房細動から脳卒中へ
+{: .text-alpha }
 
 ## 一言まとめ
 

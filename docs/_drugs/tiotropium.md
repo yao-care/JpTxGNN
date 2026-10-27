@@ -33,7 +33,8 @@ predicted_indications: ["obstructive lung disease", "respiratory malformation", 
 
 </div>
 
-# チオトロピウム：気管支炎・喘息・肺気腫から閉塞性肺疾患へ
+## チオトロピウム：気管支炎・喘息・肺気腫から閉塞性肺疾患へ
+{: .text-alpha }
 
 ## 一言要約
 

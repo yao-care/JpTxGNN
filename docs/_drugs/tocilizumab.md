@@ -33,7 +33,8 @@ predicted_indications: ["ankylosing spondylitis", "hypermobility of coccyx", "sp
 
 </div>
 
-# トシリズマブ：関節リウマチ・関節炎から強直性脊椎炎へ
+## トシリズマブ：関節リウマチ・関節炎から強直性脊椎炎へ
+{: .text-alpha }
 
 ## 一言要約
 

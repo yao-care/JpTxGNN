@@ -33,7 +33,8 @@ description: "Acarbose：予測新適応症はfocal stiff limb syndrome（エビ
 
 </div>
 
-# アカルボース：糖尿病から focal stiff limb syndrome へ
+## アカルボース：糖尿病から focal stiff limb syndrome へ
+{: .text-alpha }
 
 ## 一言要約
 

@@ -31,7 +31,8 @@ description: "Omalizumab：予測新適応症は気管支炎、アトピー性�
 
 </div>
 
-# Omalizumab：過敏性喘息から気管支炎とアトピー性皮膚炎へ
+## Omalizumab：過敏性喘息から気管支炎とアトピー性皮膚炎へ
+{: .text-alpha }
 
 ## 一言まとめ
 

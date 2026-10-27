@@ -33,7 +33,8 @@ predicted_indications: ["malignant hypertensive renal disease", "pulmonary hyper
 
 </div>
 
-# ロサルタン：高血圧症・糖尿病性腎症から悪性高血圧性腎疾患へ
+## ロサルタン：高血圧症・糖尿病性腎症から悪性高血圧性腎疾患へ
+{: .text-alpha }
 
 ## 一言要約
 

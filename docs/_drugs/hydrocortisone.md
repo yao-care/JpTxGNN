@@ -33,7 +33,8 @@ predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvi
 
 </div>
 
-# ヒドロコルチゾン：自己免疫疾患・副腎皮質機能不全から円形脱毛症へ
+## ヒドロコルチゾン：自己免疫疾患・副腎皮質機能不全から円形脱毛症へ
+{: .text-alpha }
 
 ## 一言要約
 

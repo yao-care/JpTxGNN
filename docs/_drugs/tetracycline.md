@@ -33,7 +33,8 @@ predicted_indications: ["punctate epithelial keratoconjunctivitis", "chronic eth
 
 </div>
 
-# テトラサイクリン：細菌感染症・眼感染症から点状表層角結膜炎へ
+## テトラサイクリン：細菌感染症・眼感染症から点状表層角結膜炎へ
+{: .text-alpha }
 
 ## 一言要約
 

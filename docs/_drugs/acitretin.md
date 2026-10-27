@@ -9,7 +9,8 @@ last_modified_at: 2026-09-17
 description: "Acitretin：予測新適応症は尋常性ざ瘡 (acne)（エビデンスレベル L3）。既存適応症：日本の承認適応症は本サイトのデータに未収載"
 ---
 
-# Acitretin:乾癬からざ瘡への新規適応症探索
+## Acitretin:乾癬からざ瘡への新規適応症探索
+{: .text-alpha }
 
 ## 一言まとめ
 

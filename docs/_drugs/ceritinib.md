@@ -33,7 +33,8 @@ predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma 
 
 </div>
 
-# セリチニブ：非小細胞肺癌から線維腫症（歯肉）へ
+## セリチニブ：非小細胞肺癌から線維腫症（歯肉）へ
+{: .text-alpha }
 
 ## 一言要約
 

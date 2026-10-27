@@ -33,7 +33,8 @@ predicted_indications: ["distal myopathy, Tateyama type", "congenital myopathy w
 
 </div>
 
-# プロプラノロール：本態性高血圧症・不整脈から遠位型ミオパチー（舘山型）へ
+## プロプラノロール：本態性高血圧症・不整脈から遠位型ミオパチー（舘山型）へ
+{: .text-alpha }
 
 ## 一言要約
 

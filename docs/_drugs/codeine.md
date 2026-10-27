@@ -33,7 +33,8 @@ predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "tri
 
 </div>
 
-# コデイン：麻薬性鎮痛薬・鎮咳薬から鼻腔疾患へ
+## コデイン：麻薬性鎮痛薬・鎮咳薬から鼻腔疾患へ
+{: .text-alpha }
 
 ## 一言要約
 

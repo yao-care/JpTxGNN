@@ -33,7 +33,8 @@ description: "Dexamethasone：予測新適応症は円形脱毛症 (alopecia are
 
 </div>
 
-# デキサメタゾン：炎症・自己免疫疾患から円形脱毛症へ
+## デキサメタゾン：炎症・自己免疫疾患から円形脱毛症へ
+{: .text-alpha }
 
 ## 一言要約
 

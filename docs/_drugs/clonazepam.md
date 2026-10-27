@@ -33,7 +33,8 @@ predicted_indications: ["restless legs syndrome", "insomnia (disease)", "trigemi
 
 </div>
 
-# クロナゼパム：てんかん・不安障害からレストレスレッグス症候群へ
+## クロナゼパム：てんかん・不安障害からレストレスレッグス症候群へ
+{: .text-alpha }
 
 ## 一言要約
 

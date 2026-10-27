@@ -33,7 +33,8 @@ predicted_indications: ["hyperlipoproteinemia", "cholesterol-ester transfer prot
 
 </div>
 
-# エゼチミブ：脂質異常症から高リポタンパク血症へ
+## エゼチミブ：脂質異常症から高リポタンパク血症へ
+{: .text-alpha }
 
 ## 一言要約
 

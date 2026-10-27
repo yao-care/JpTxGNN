@@ -33,7 +33,8 @@ predicted_indications: ["febrile infection-related epilepsy syndrome", "perioral
 
 </div>
 
-# クロバザム：レノックス・ガストー症候群から熱性感染関連てんかん症候群 (FIRES) へ
+## クロバザム：レノックス・ガストー症候群から熱性感染関連てんかん症候群 (FIRES) へ
+{: .text-alpha }
 
 ## 一言要約
 

@@ -33,7 +33,8 @@ description: "Methionine：予測新適応症は痤瘡 (Acne)（エビデンス�
 
 </div>
 
-# Methionine：肝機能障害から尋常性痤瘡へ
+## Methionine：肝機能障害から尋常性痤瘡へ
+{: .text-alpha }
 
 ## 一言まとめ
 

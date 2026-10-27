@@ -33,7 +33,8 @@ predicted_indications: ["primary pulmonary lymphoma", "well-differentiated fetal
 
 </div>
 
-# エピルビシン：悪性腫瘍（急性白血病・悪性リンパ腫・乳癌・胃癌ほか）から原発性肺リンパ腫へ
+## エピルビシン：悪性腫瘍（急性白血病・悪性リンパ腫・乳癌・胃癌ほか）から原発性肺リンパ腫へ
+{: .text-alpha }
 
 ## 一言要約
 

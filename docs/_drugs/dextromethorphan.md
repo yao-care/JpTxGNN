@@ -33,7 +33,8 @@ predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "fau
 
 </div>
 
-# デキストロメトルファン：鎮咳薬（気管支拡張症）から鼻腔疾患へ
+## デキストロメトルファン：鎮咳薬（気管支拡張症）から鼻腔疾患へ
+{: .text-alpha }
 
 ## 一言要約
 

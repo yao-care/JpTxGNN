@@ -33,7 +33,8 @@ predicted_indications: ["prostatic urethra urothelial carcinoma", "infiltrating 
 
 </div>
 
-# アテゾリズマブ：尿路上皮癌から前立腺部尿道尿路上皮癌へ
+## アテゾリズマブ：尿路上皮癌から前立腺部尿道尿路上皮癌へ
+{: .text-alpha }
 
 ## 一言要約
 

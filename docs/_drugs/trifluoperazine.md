@@ -31,7 +31,8 @@ description: "Trifluoperazine：予測新適応症は双極性障害の躁病相
 
 </div>
 
-# Trifluoperazine：精神病状態から双極性障害の躁病相へ
+## Trifluoperazine：精神病状態から双極性障害の躁病相へ
+{: .text-alpha }
 
 ## 一言まとめ
 

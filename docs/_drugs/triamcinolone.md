@@ -33,7 +33,8 @@ predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's f
 
 </div>
 
-# トリアムシノロン：喘息・炎症性疾患から脱毛性粘液症へ
+## トリアムシノロン：喘息・炎症性疾患から脱毛性粘液症へ
+{: .text-alpha }
 
 ## 一言要約
 

@@ -33,7 +33,8 @@ predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenoc
 
 </div>
 
-# ゲムシタビン：非小細胞肺癌・膵癌などから女性乳癌へ
+## ゲムシタビン：非小細胞肺癌・膵癌などから女性乳癌へ
+{: .text-alpha }
 
 ## 一言要約
 

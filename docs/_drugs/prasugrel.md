@@ -33,7 +33,8 @@ description: "Prasugrel：予測新適応症は肺高血圧症 (Pulmonary Hypert
 
 </div>
 
-# プラスグレル：狭心症・心筋梗塞から肺高血圧症へ
+## プラスグレル：狭心症・心筋梗塞から肺高血圧症へ
+{: .text-alpha }
 
 ## 一言要約
 

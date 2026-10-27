@@ -31,7 +31,8 @@ description: "Prednisolone Acetate：予測新適応症は寄生虫性結膜炎 
 
 </div>
 
-# Prednisolone Acetate：眼部アレルギーから寄生虫性結膜炎へ
+## Prednisolone Acetate：眼部アレルギーから寄生虫性結膜炎へ
+{: .text-alpha }
 
 ## 一言まとめ
 

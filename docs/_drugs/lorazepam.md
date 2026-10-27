@@ -33,7 +33,8 @@ predicted_indications: ["trigeminal nerve neoplasm"]
 
 </div>
 
-# ロラゼパム：神経症における不安から三叉神経腫瘍へ
+## ロラゼパム：神経症における不安から三叉神経腫瘍へ
+{: .text-alpha }
 
 ## 一言要約
 

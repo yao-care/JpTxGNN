@@ -33,7 +33,8 @@ predicted_indications: ["hyperlipoproteinemia", "HIV infectious disease", "chole
 
 </div>
 
-# フルバスタチン：脂質異常症から家族性高コレステロール血症へ
+## フルバスタチン：脂質異常症から家族性高コレステロール血症へ
+{: .text-alpha }
 
 ## 一言要約
 

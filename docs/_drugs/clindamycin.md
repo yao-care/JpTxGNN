@@ -33,7 +33,8 @@ predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure ke
 
 </div>
 
-# クリンダマイシン：細菌性腟症などの感染症から点状表層角結膜炎へ
+## クリンダマイシン：細菌性腟症などの感染症から点状表層角結膜炎へ
+{: .text-alpha }
 
 ## 一言要約
 

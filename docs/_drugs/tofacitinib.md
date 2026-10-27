@@ -32,7 +32,8 @@ last_modified_at: 2026-04-19
 
 </div>
 
-# Tofacitinib - 薬剤師評価レポート
+## Tofacitinib - 薬剤師評価レポート
+{: .text-alpha }
 
 ## 一言まとめ
 

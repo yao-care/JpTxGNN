@@ -33,7 +33,8 @@ predicted_indications: ["rosacea conjunctivitis", "punctate epithelial keratocon
 
 </div>
 
-# フェキソフェナジン：アレルギー性鼻炎・アトピー性皮膚炎から酒さ性結膜炎へ
+## フェキソフェナジン：アレルギー性鼻炎・アトピー性皮膚炎から酒さ性結膜炎へ
+{: .text-alpha }
 
 ## 一言要約
 

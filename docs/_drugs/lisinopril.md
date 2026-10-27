@@ -33,7 +33,8 @@ predicted_indications: ["pulmonary hypertension with unclear multifactorial mech
 
 </div>
 
-# リシノプリル：高血圧症から後下壁心筋梗塞へ
+## リシノプリル：高血圧症から後下壁心筋梗塞へ
+{: .text-alpha }
 
 ## 一言要約
 

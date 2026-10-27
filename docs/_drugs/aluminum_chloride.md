@@ -31,7 +31,8 @@ description: "Aluminum Chloride：予測新適応症は脂漏性角化症、脂�
 
 </div>
 
-# Aluminum Chloride：制汗剤から皮膚疾患への潜在的な拡大
+## Aluminum Chloride：制汗剤から皮膚疾患への潜在的な拡大
+{: .text-alpha }
 
 ## 一言まとめ
 

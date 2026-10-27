@@ -33,7 +33,8 @@ description: "Tegafur：予測新適応症は大腸腫瘍 (Colonic Neoplasm)（�
 
 </div>
 
-# テガフール：胃癌から大腸腫瘍へ
+## テガフール：胃癌から大腸腫瘍へ
+{: .text-alpha }
 
 ## 一言要約
 

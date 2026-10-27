@@ -33,7 +33,8 @@ predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "rec
 
 </div>
 
-# デスロラタジン：アレルギー性鼻炎などから寒冷蕁麻疹へ
+## デスロラタジン：アレルギー性鼻炎などから寒冷蕁麻疹へ
+{: .text-alpha }
 
 ## 一言要約
 

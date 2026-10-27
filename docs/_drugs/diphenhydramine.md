@@ -33,7 +33,8 @@ predicted_indications: ["rosacea conjunctivitis"]
 
 </div>
 
-# ジフェンヒドラミン：アレルギー性鼻炎から酒さ性結膜炎へ
+## ジフェンヒドラミン：アレルギー性鼻炎から酒さ性結膜炎へ
+{: .text-alpha }
 
 ## 一言要約
 

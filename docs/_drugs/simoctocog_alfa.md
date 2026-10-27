@@ -32,7 +32,8 @@ last_modified_at: 2026-09-17
 
 </div>
 
-# Simoctocog Alfa：A型血友病からその他の出血性疾患への探索
+## Simoctocog Alfa：A型血友病からその他の出血性疾患への探索
+{: .text-alpha }
 
 ## 一言まとめ
 

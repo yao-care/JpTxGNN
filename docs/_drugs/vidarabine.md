@@ -33,7 +33,8 @@ description: "Vidarabine：予測新適応症は光線性口唇炎 (Actinic Chei
 
 </div>
 
-# ビダラビン：ヘルペス感染症から光線性口唇炎へ
+## ビダラビン：ヘルペス感染症から光線性口唇炎へ
+{: .text-alpha }
 
 ## 一言要約
 

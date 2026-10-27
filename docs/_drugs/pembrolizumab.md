@@ -33,7 +33,8 @@ predicted_indications: ["fibromatosis, gingival", "inclusion body myopathy with 
 
 </div>
 
-# ペムブロリズマブ：非小細胞肺癌・悪性黒色腫から歯肉線維腫症へ
+## ペムブロリズマブ：非小細胞肺癌・悪性黒色腫から歯肉線維腫症へ
+{: .text-alpha }
 
 ## 一言要約
 

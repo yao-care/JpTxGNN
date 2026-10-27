@@ -31,7 +31,8 @@ description: "Vismodegib：予測新適応症は色素性乾皮症 (Xeroderma Pi
 
 </div>
 
-# Vismodegib：基底細胞癌から色素性乾皮症へ
+## Vismodegib：基底細胞癌から色素性乾皮症へ
+{: .text-alpha }
 
 ## 一言まとめ
 

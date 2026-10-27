@@ -33,7 +33,8 @@ description: "Imipenem：予測新適応症はびまん性強皮症 (Diffuse Scl
 
 </div>
 
-# イミペネム：細菌感染症から びまん性強皮症 へ
+## イミペネム：細菌感染症から びまん性強皮症 へ
+{: .text-alpha }
 
 ## 一言要約
 

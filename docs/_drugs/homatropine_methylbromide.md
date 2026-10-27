@@ -32,7 +32,8 @@ last_modified_at: 2026-04-19
 
 </div>
 
-# Homatropine Methylbromide：胃腸疾患から胃十二指腸炎へ
+## Homatropine Methylbromide：胃腸疾患から胃十二指腸炎へ
+{: .text-alpha }
 
 ## 一言まとめ
 

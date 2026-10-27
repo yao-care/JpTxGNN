@@ -33,7 +33,8 @@ predicted_indications: ["pulmonary blastoma", "primary pulmonary lymphoma", "wel
 
 </div>
 
-# メトトレキサート：悪性腫瘍・関節リウマチ・乾癬から肺芽腫へ
+## メトトレキサート：悪性腫瘍・関節リウマチ・乾癬から肺芽腫へ
+{: .text-alpha }
 
 ## 一言要約
 

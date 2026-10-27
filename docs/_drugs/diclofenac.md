@@ -33,7 +33,8 @@ predicted_indications: ["hypotrichosis simplex of the scalp", "acromesomelic dys
 
 </div>
 
-# ジクロフェナク：鎮痛・抗炎症から頭皮の単純性乏毛症へ
+## ジクロフェナク：鎮痛・抗炎症から頭皮の単純性乏毛症へ
+{: .text-alpha }
 
 ## 一言要約
 

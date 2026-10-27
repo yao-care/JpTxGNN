@@ -33,7 +33,8 @@ description: "Etizolam：予測新適応症は不眠症 (insomnia)（エビデ�
 
 </div>
 
-# エチゾラム：不安から不眠症へ
+## エチゾラム：不安から不眠症へ
+{: .text-alpha }
 
 ## 一言要約
 

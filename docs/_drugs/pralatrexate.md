@@ -35,7 +35,8 @@ Pralatrexate：末梢性T細胞リンパ腫から胸膜上皮型中皮腫へ
 
 </div>
 
-# Pralatrexate：末梢性T細胞リンパ腫から胸膜上皮型中皮腫へ
+## Pralatrexate：末梢性T細胞リンパ腫から胸膜上皮型中皮腫へ
+{: .text-alpha }
 
 ## 一言まとめ
 

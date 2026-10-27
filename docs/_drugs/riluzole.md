@@ -31,7 +31,8 @@ description: "Riluzole：予測新適応症は両側傍矢状頭頂後頭多小�
 
 </div>
 
-# Riluzole：ALS から運動ニューロン関連疾患へ
+## Riluzole：ALS から運動ニューロン関連疾患へ
+{: .text-alpha }
 
 ## 一言まとめ
 

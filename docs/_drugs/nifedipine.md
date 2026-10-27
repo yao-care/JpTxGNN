@@ -33,7 +33,8 @@ predicted_indications: ["migraine with brainstem aura", "migraine disorder", "pu
 
 </div>
 
-# ニフェジピン：高血圧症・狭心症から片頭痛へ
+## ニフェジピン：高血圧症・狭心症から片頭痛へ
+{: .text-alpha }
 
 ## 一言要約
 

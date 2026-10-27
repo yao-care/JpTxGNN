@@ -32,7 +32,8 @@ last_modified_at: 2026-09-17
 
 </div>
 
-# Sacituzumab Govitecan:トリプルネガティブ乳癌から新規適応症の探索へ
+## Sacituzumab Govitecan:トリプルネガティブ乳癌から新規適応症の探索へ
+{: .text-alpha }
 
 ## 一言まとめ
 

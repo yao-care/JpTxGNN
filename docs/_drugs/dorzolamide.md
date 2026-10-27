@@ -33,7 +33,8 @@ predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotr
 
 </div>
 
-# ドルゾラミド：開放隅角緑内障・高眼圧症から原発性遺伝性緑内障へ
+## ドルゾラミド：開放隅角緑内障・高眼圧症から原発性遺伝性緑内障へ
+{: .text-alpha }
 
 ## 一言要約
 

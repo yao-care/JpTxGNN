@@ -33,7 +33,8 @@ description: "Ponatinib：予測新適応症は歯肉線維腫症 (Fibromatosis,
 
 </div>
 
-# ポナチニブ：慢性骨髄性白血病から歯肉線維腫症へ
+## ポナチニブ：慢性骨髄性白血病から歯肉線維腫症へ
+{: .text-alpha }
 
 ## 一言要約
 

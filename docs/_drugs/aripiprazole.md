@@ -33,7 +33,8 @@ predicted_indications: ["major affective disorder", "gaze palsy, familial horizo
 
 </div>
 
-# アリピプラゾール：統合失調症から大うつ病性障害（Major Affective Disorder）へ
+## アリピプラゾール：統合失調症から大うつ病性障害（Major Affective Disorder）へ
+{: .text-alpha }
 
 ## 一言要約
 

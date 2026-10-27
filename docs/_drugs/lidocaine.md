@@ -33,7 +33,8 @@ predicted_indications: ["punctate epithelial keratoconjunctivitis", "papillary c
 
 </div>
 
-# リドカイン：表面麻酔・抗不整脈から点状表層角結膜炎へ
+## リドカイン：表面麻酔・抗不整脈から点状表層角結膜炎へ
+{: .text-alpha }
 
 ## 一言要約
 

@@ -33,7 +33,8 @@ predicted_indications: ["anxiety disorder", "benign paroxysmal torticollis of in
 
 </div>
 
-# クロミプラミン：強迫性障害から不安障害へ
+## クロミプラミン：強迫性障害から不安障害へ
+{: .text-alpha }
 
 ## 一言要約
 

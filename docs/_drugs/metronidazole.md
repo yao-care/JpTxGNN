@@ -33,7 +33,8 @@ predicted_indications: ["pneumocystosis", "punctate epithelial keratoconjunctivi
 
 </div>
 
-# メトロニダゾール：抗菌薬・抗原虫薬から ニューモシスチス症 へ
+## メトロニダゾール：抗菌薬・抗原虫薬から ニューモシスチス症 へ
+{: .text-alpha }
 
 ## 一言要約
 

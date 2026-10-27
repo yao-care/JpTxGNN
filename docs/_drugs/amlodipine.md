@@ -33,7 +33,8 @@ predicted_indications: ["brain stem infarction", "pulmonary hypertension owing t
 
 </div>
 
-# アムロジピン：血圧降下薬・血管拡張薬から脳幹梗塞へ
+## アムロジピン：血圧降下薬・血管拡張薬から脳幹梗塞へ
+{: .text-alpha }
 
 ## 一言要約
 

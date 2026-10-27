@@ -33,7 +33,8 @@ predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipom
 
 </div>
 
-# レンバチニブ：腎細胞癌・甲状腺癌から脂肪肉腫へ
+## レンバチニブ：腎細胞癌・甲状腺癌から脂肪肉腫へ
+{: .text-alpha }
 
 ## 一言要約
 

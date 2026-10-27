@@ -33,7 +33,8 @@ predicted_indications: ["manic bipolar affective disorder", "periodic paralysis 
 
 </div>
 
-# プロパフェノン：不整脈から カテコラミン誘発多形性心室頻拍へ
+## プロパフェノン：不整脈から カテコラミン誘発多形性心室頻拍へ
+{: .text-alpha }
 
 ## 一言要約
 

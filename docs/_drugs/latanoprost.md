@@ -33,7 +33,8 @@ predicted_indications: ["visceral calciphylaxis", "hypotrichosis simplex of the 
 
 </div>
 
-# ラタノプロスト：緑内障から原発性遺伝性緑内障へ
+## ラタノプロスト：緑内障から原発性遺伝性緑内障へ
+{: .text-alpha }
 
 ## 一言要約
 

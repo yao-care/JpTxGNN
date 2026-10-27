@@ -33,7 +33,8 @@ predicted_indications: ["allergic urticaria", "rosacea conjunctivitis"]
 
 </div>
 
-# レボカバスチン：アトピー性結膜炎からアレルギー性蕁麻疹へ
+## レボカバスチン：アトピー性結膜炎からアレルギー性蕁麻疹へ
+{: .text-alpha }
 
 ## 一言要約
 

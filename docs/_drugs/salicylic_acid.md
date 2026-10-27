@@ -32,7 +32,8 @@ last_modified_at: 2026-09-17
 
 </div>
 
-# Salicylic Acid：皮膚科用薬から眼科および骨格疾患への探索
+## Salicylic Acid：皮膚科用薬から眼科および骨格疾患への探索
+{: .text-alpha }
 
 ## 一言まとめ
 

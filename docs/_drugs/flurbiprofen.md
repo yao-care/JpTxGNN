@@ -33,7 +33,8 @@ predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachy
 
 </div>
 
-# フルルビプロフェン：関節リウマチから先端中肢異形成（Hunter-Thompson 型）へ
+## フルルビプロフェン：関節リウマチから先端中肢異形成（Hunter-Thompson 型）へ
+{: .text-alpha }
 
 ## 一言要約
 

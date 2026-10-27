@@ -33,7 +33,8 @@ predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvi
 
 </div>
 
-# ベタメタゾン：炎症性皮膚疾患・自己免疫疾患から円形脱毛症へ
+## ベタメタゾン：炎症性皮膚疾患・自己免疫疾患から円形脱毛症へ
+{: .text-alpha }
 
 ## 一言要約
 

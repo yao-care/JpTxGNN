@@ -33,7 +33,8 @@ predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcino
 
 </div>
 
-# ドセタキセル：乳癌・肺癌・前立腺癌などから女性乳癌 (Female Breast Carcinoma) へ
+## ドセタキセル：乳癌・肺癌・前立腺癌などから女性乳癌 (Female Breast Carcinoma) へ
+{: .text-alpha }
 
 ## 一言要約
 

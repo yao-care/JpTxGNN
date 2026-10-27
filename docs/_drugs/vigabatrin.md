@@ -32,7 +32,8 @@ last_modified_at: 2026-09-17
 
 </div>
 
-# Vigabatrin：抗てんかん薬の補助療法
+## Vigabatrin：抗てんかん薬の補助療法
+{: .text-alpha }
 
 ## 一言まとめ
 

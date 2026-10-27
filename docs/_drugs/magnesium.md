@@ -33,7 +33,8 @@ description: "Magnesium：予測新適応症は片頭痛 (Migraine Disorder)（�
 
 </div>
 
-# マグネシウム：胃・十二指腸潰瘍から片頭痛へ
+## マグネシウム：胃・十二指腸潰瘍から片頭痛へ
+{: .text-alpha }
 
 ## 一言要約
 

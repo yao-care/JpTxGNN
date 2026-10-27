@@ -32,7 +32,8 @@ last_modified_at: 2026-09-17
 
 </div>
 
-# Scopolamine：解痙薬から神経・眼科疾患への探索
+## Scopolamine：解痙薬から神経・眼科疾患への探索
+{: .text-alpha }
 
 ## 一言まとめ
 

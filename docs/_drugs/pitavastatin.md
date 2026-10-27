@@ -33,7 +33,8 @@ predicted_indications: ["hyperlipoproteinemia", "cholesterol-ester transfer prot
 
 </div>
 
-# ピタバスタチン：脂質異常症から家族性高コレステロール血症（ホモ接合体）へ
+## ピタバスタチン：脂質異常症から家族性高コレステロール血症（ホモ接合体）へ
+{: .text-alpha }
 
 ## 一言要約
 

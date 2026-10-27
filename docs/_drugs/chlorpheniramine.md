@@ -33,7 +33,8 @@ predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "ros
 
 </div>
 
-# クロルフェニラミン：アレルギー性鼻炎からアレルギー性蕁麻疹へ
+## クロルフェニラミン：アレルギー性鼻炎からアレルギー性蕁麻疹へ
+{: .text-alpha }
 
 ## 一言要約
 

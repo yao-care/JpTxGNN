@@ -33,7 +33,8 @@ predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with s
 
 </div>
 
-# ワルファリン：抗凝固薬から血栓性素因（Thrombophilia）へ
+## ワルファリン：抗凝固薬から血栓性素因（Thrombophilia）へ
+{: .text-alpha }
 
 ## 一言要約
 

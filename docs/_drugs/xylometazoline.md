@@ -31,7 +31,8 @@ description: "Xylometazoline：予測新適応症は鼻腔疾患、急性咽喉�
 
 </div>
 
-# Xylometazoline：アレルギー性鼻炎から鼻腔疾患までの幅広い応用
+## Xylometazoline：アレルギー性鼻炎から鼻腔疾患までの幅広い応用
+{: .text-alpha }
 
 ## 一言まとめ
 

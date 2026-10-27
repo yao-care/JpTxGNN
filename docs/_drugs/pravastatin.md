@@ -33,7 +33,8 @@ predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder w
 
 </div>
 
-# プラバスタチン：脂質異常症から家族性高コレステロール血症（ホモ接合体型）へ
+## プラバスタチン：脂質異常症から家族性高コレステロール血症（ホモ接合体型）へ
+{: .text-alpha }
 
 ## 一言要約
 

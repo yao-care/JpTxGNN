@@ -33,7 +33,8 @@ predicted_indications: ["creeping myiasis", "wound myiasis", "furuncular myiasis
 
 </div>
 
-# テルビナフィン：白癬・カンジダ症から創傷ハエ幼虫症（匍行性ハエ幼虫症）へ
+## テルビナフィン：白癬・カンジダ症から創傷ハエ幼虫症（匍行性ハエ幼虫症）へ
+{: .text-alpha }
 
 ## 一言要約
 

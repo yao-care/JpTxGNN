@@ -7,6 +7,22 @@ import shutil
 from pathlib import Path
 
 
+
+def demote_body_h1(md: str) -> str:
+    """頁首 `# 藥名` + `{: .fs-9 }` 是全頁唯一 h1；筆記內文的 `# 標題` 降為 h2，掛 .text-alpha 保持 h1 外觀。
+    （2026-10-27：線上部署檢查 h1-single 規則報藥物頁有 2 個 <h1>。）"""
+    out, fence = [], False
+    for line in md.split("\n"):
+        if line.lstrip().startswith(("```", "~~~")):
+            fence = not fence
+        if not fence and line.startswith("# "):
+            out.append("#" + line)
+            out.append("{: .text-alpha }")
+            continue
+        out.append(line)
+    return "\n".join(out)
+
+
 def fix_markdown_tables(content: str) -> str:
     """修復 Markdown 表格，確保表格前有空行（Kramdown 需要）"""
     lines = content.split('\n')
@@ -157,7 +173,7 @@ indication_count: {indication_count}
 
 </div>
 
-{pharmacist_content}
+{demote_body_h1(pharmacist_content)}
 
 ---
 

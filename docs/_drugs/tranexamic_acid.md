@@ -33,7 +33,8 @@ description: "Tranexamic Acid：予測新適応症は無月経 (amenorrhea)（�
 
 </div>
 
-# Tranexamic Acid：止血剤から無月経治療へ
+## Tranexamic Acid：止血剤から無月経治療へ
+{: .text-alpha }
 
 ## 一言まとめ
 

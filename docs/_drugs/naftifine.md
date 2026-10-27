@@ -31,7 +31,8 @@ description: "Naftifine：予測新適応症は皮膚カンジダ症、癜風、
 
 </div>
 
-# Naftifine：皮膚真菌症から皮膚カンジダ症へ
+## Naftifine：皮膚真菌症から皮膚カンジダ症へ
+{: .text-alpha }
 
 ## 一言まとめ
 

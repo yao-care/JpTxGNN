@@ -32,7 +32,8 @@ last_modified_at: 2026-09-17
 
 </div>
 
-# Cephalexin：古典的な第一世代セフェム系抗生物質の評価
+## Cephalexin：古典的な第一世代セフェム系抗生物質の評価
+{: .text-alpha }
 
 ## 一言まとめ
 

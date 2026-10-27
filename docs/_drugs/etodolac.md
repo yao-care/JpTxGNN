@@ -33,7 +33,8 @@ predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachy
 
 </div>
 
-# エトドラク：関節リウマチから急性骨髄腫様形成異常（Hunter-Thompson 型）へ
+## エトドラク：関節リウマチから急性骨髄腫様形成異常（Hunter-Thompson 型）へ
+{: .text-alpha }
 
 ## 一言要約
 

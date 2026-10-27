@@ -33,7 +33,8 @@ description: "Tamsulosin：予測新適応症はAmbras 型汎発性先天性多�
 
 </div>
 
-# タムスロシン：排尿障害から Ambras 型汎発性先天性多毛症へ
+## タムスロシン：排尿障害から Ambras 型汎発性先天性多毛症へ
+{: .text-alpha }
 
 ## 一言要約
 

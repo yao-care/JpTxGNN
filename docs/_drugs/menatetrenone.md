@@ -33,7 +33,8 @@ description: "Menatetrenone：予測新適応症は結膜脂肪腫 (lipoma of th
 
 </div>
 
-# メナテトレノン：骨粗鬆症から結膜脂肪腫へ
+## メナテトレノン：骨粗鬆症から結膜脂肪腫へ
+{: .text-alpha }
 
 ## 一言要約
 

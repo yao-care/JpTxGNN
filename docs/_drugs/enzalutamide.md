@@ -33,7 +33,8 @@ predicted_indications: ["prostate leiomyoma", "Brenner tumor", "fibroma of prost
 
 </div>
 
-# エンザルタミド：前立腺癌から前立腺癌/脳腫瘍感受性へ
+## エンザルタミド：前立腺癌から前立腺癌/脳腫瘍感受性へ
+{: .text-alpha }
 
 ## 一言要約
 

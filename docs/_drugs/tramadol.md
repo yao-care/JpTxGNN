@@ -33,7 +33,8 @@ predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachy
 
 </div>
 
-# トラマドール：変形性関節症から先端中節骨異形成症（Hunter-Thompson型）へ
+## トラマドール：変形性関節症から先端中節骨異形成症（Hunter-Thompson型）へ
+{: .text-alpha }
 
 ## 一言要約
 

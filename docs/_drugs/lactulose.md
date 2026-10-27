@@ -33,7 +33,8 @@ description: "Lactulose：予測新適応症は閉塞性黄疸 (Obstructive Jaun
 
 </div>
 
-# ラクツロース：高アンモニア血症・便秘から閉塞性黄疸へ
+## ラクツロース：高アンモニア血症・便秘から閉塞性黄疸へ
+{: .text-alpha }
 
 ## 一言要約
 

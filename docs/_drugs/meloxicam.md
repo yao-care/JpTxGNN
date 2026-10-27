@@ -33,7 +33,8 @@ predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachy
 
 </div>
 
-# メロキシカム：関節リウマチから先天性骨系統疾患（acromesomelic dysplasia, Hunter-Thompson type）へ
+## メロキシカム：関節リウマチから先天性骨系統疾患（acromesomelic dysplasia, Hunter-Thompson type）へ
+{: .text-alpha }
 
 ## 一言要約
 

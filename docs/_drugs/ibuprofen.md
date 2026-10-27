@@ -33,7 +33,8 @@ description: "Ibuprofen：予測新適応症は先端中間異形成 Hunter-Thom
 
 </div>
 
-# イブプロフェン：関節リウマチ（鎮痛・抗炎症）から先端中間異形成（Hunter-Thompson型）へ
+## イブプロフェン：関節リウマチ（鎮痛・抗炎症）から先端中間異形成（Hunter-Thompson型）へ
+{: .text-alpha }
 
 ## 一言要約
 

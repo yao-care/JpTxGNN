@@ -33,7 +33,8 @@ predicted_indications: ["duodenal obstruction", "abnormality of glucagon secreti
 
 </div>
 
-# ランソプラゾール：消化性潰瘍・逆流性食道炎から十二指腸胃逆流へ
+## ランソプラゾール：消化性潰瘍・逆流性食道炎から十二指腸胃逆流へ
+{: .text-alpha }
 
 ## 一言要約
 

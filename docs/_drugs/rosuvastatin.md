@@ -33,7 +33,8 @@ predicted_indications: ["cholesterol-ester transfer protein deficiency", "brain 
 
 </div>
 
-# ロスバスタチン：脂質異常症から コレステロールエステル転送蛋白欠損症へ
+## ロスバスタチン：脂質異常症から コレステロールエステル転送蛋白欠損症へ
+{: .text-alpha }
 
 ## 一言要約
 

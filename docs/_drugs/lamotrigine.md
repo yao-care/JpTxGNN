@@ -33,7 +33,8 @@ predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "re
 
 </div>
 
-# ラモトリギン：双極性障害・Lennox-Gastaut 症候群から三叉神経腫瘍へ
+## ラモトリギン：双極性障害・Lennox-Gastaut 症候群から三叉神経腫瘍へ
+{: .text-alpha }
 
 ## 一言要約
 

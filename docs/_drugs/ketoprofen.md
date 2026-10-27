@@ -33,7 +33,8 @@ predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachy
 
 </div>
 
-# ケトプロフェン：痛風発作・関節リウマチから肢端中間異形成症（Hunter-Thompson 型）へ
+## ケトプロフェン：痛風発作・関節リウマチから肢端中間異形成症（Hunter-Thompson 型）へ
+{: .text-alpha }
 
 ## 一言要約
 

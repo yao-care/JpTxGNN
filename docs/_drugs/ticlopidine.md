@@ -33,7 +33,8 @@ description: "Ticlopidine：予測新適応症は関節リウマチ (Rheumatoid 
 
 </div>
 
-# チクロピジン：慢性動脈閉塞症から関節リウマチへ
+## チクロピジン：慢性動脈閉塞症から関節リウマチへ
+{: .text-alpha }
 
 ## 一言要約
 

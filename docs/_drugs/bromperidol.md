@@ -33,7 +33,8 @@ description: "Bromperidol：予測新適応症は不眠症 (Insomnia)（エビ�
 
 </div>
 
-# ブロムペリドール：統合失調症から不眠症へ
+## ブロムペリドール：統合失調症から不眠症へ
+{: .text-alpha }
 
 ## 一言要約
 

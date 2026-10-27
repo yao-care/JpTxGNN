@@ -33,7 +33,8 @@ description: "Teneligliptin：予測新適応症はOpsismodysplasia（オプシ�
 
 </div>
 
-# テネリグリプチン：2型糖尿病から骨異形成症 (Opsismodysplasia) へ
+## テネリグリプチン：2型糖尿病から骨異形成症 (Opsismodysplasia) へ
+{: .text-alpha }
 
 ## 一言要約
 

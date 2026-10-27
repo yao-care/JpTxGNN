@@ -31,7 +31,8 @@ description: "Cisatracurium：予測新適応症は妊娠高血圧腎症 (Preecl
 
 </div>
 
-# Cisatracurium：神経筋遮断から妊娠高血圧腎症へ
+## Cisatracurium：神経筋遮断から妊娠高血圧腎症へ
+{: .text-alpha }
 
 ## 一言まとめ
 

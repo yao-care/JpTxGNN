@@ -33,7 +33,8 @@ predicted_indications: ["malignant hypertensive renal disease", "pulmonary hyper
 
 </div>
 
-# ヒドロクロロチアジド：高血圧・心不全から悪性高血圧性腎疾患へ
+## ヒドロクロロチアジド：高血圧・心不全から悪性高血圧性腎疾患へ
+{: .text-alpha }
 
 ## 一言要約
 

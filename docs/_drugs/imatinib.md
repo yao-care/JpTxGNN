@@ -33,7 +33,8 @@ description: "Imatinib：予測新適応症は心臓線維肉腫 (heart fibrosar
 
 </div>
 
-# イマチニブ：慢性骨髄性白血病から心臓線維肉腫へ
+## イマチニブ：慢性骨髄性白血病から心臓線維肉腫へ
+{: .text-alpha }
 
 ## 一言要約
 

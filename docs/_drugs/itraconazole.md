@@ -33,7 +33,8 @@ predicted_indications: ["pneumocystosis", "Cryptococcal meningitis", "hyalohypho
 
 </div>
 
-# イトラコナゾール：深在性・表在性真菌症からニューモシスチス症へ
+## イトラコナゾール：深在性・表在性真菌症からニューモシスチス症へ
+{: .text-alpha }
 
 ## 一言要約
 

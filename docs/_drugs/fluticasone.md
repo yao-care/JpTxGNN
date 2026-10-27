@@ -33,7 +33,8 @@ description: "Fluticasone：予測新適応症は片頭痛 (Migraine Disorder)�
 
 </div>
 
-# フルチカゾン：アレルギー性鼻炎・喘息用ステロイドから片頭痛へ
+## フルチカゾン：アレルギー性鼻炎・喘息用ステロイドから片頭痛へ
+{: .text-alpha }
 
 ## 一言要約
 

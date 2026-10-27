@@ -31,7 +31,8 @@ description: "Probenecid：予測新適応症は腎性低尿酸血症 (Renal Hyp
 
 </div>
 
-# Probenecid：痛風から腎性低尿酸血症へ
+## Probenecid：痛風から腎性低尿酸血症へ
+{: .text-alpha }
 
 ## 一言まとめ
 

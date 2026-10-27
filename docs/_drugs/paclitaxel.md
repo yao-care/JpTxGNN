@@ -33,7 +33,8 @@ predicted_indications: ["parameningeal embryonal rhabdomyosarcoma", "botryoid-ty
 
 </div>
 
-# パクリタキセル：乳癌・胃癌などから女性乳癌へ
+## パクリタキセル：乳癌・胃癌などから女性乳癌へ
+{: .text-alpha }
 
 ## 一言要約
 

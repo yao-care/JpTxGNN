@@ -33,7 +33,8 @@ predicted_indications: ["HIV infectious disease", "brain stem infarction", "chol
 
 </div>
 
-# アトルバスタチン：脂質異常症から家族性高コレステロール血症へ
+## アトルバスタチン：脂質異常症から家族性高コレステロール血症へ
+{: .text-alpha }
 
 ## 一言要約
 

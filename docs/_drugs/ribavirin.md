@@ -31,7 +31,8 @@ description: "Ribavirin：予測新適応症は慢性 B 型肝炎ウイルス感
 
 </div>
 
-# Ribavirin：C 型肝炎から慢性 B 型肝炎ウイルス感染症へ
+## Ribavirin：C 型肝炎から慢性 B 型肝炎ウイルス感染症へ
+{: .text-alpha }
 
 ## 一言まとめ
 

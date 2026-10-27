@@ -33,7 +33,8 @@ predicted_indications: ["obsolete bundle branch block", "malignant hypertensive 
 
 </div>
 
-# ベラパミル：心房細動・狭心症・心筋梗塞から閉塞性脚ブロック（obsolete bundle branch block）へ
+## ベラパミル：心房細動・狭心症・心筋梗塞から閉塞性脚ブロック（obsolete bundle branch block）へ
+{: .text-alpha }
 
 ## 一言要約
 

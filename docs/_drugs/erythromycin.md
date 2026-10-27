@@ -33,7 +33,8 @@ predicted_indications: ["punctate epithelial keratoconjunctivitis", "acute conta
 
 </div>
 
-# エリスロマイシン：感染症から点状表層角結膜炎へ
+## エリスロマイシン：感染症から点状表層角結膜炎へ
+{: .text-alpha }
 
 ## 一言要約
 

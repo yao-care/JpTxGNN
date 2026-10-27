@@ -33,7 +33,8 @@ predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotr
 
 </div>
 
-# ボグリボース：2型糖尿病から1型糖尿病へ
+## ボグリボース：2型糖尿病から1型糖尿病へ
+{: .text-alpha }
 
 ## 一言要約
 

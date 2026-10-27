@@ -33,7 +33,8 @@ predicted_indications: ["malignant hypertensive renal disease", "pulmonary hyper
 
 </div>
 
-# カルベジロール：高血圧・狭心症・心筋症から悪性高血圧性腎疾患へ
+## カルベジロール：高血圧・狭心症・心筋症から悪性高血圧性腎疾患へ
+{: .text-alpha }
 
 ## 一言要約
 

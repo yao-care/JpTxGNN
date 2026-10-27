@@ -33,7 +33,8 @@ description: "Bromazepam：予測新適応症は片頭痛 (Migraine Disorder)（
 
 </div>
 
-# ブロマゼパム：神経症における不安・うつ病から片頭痛へ
+## ブロマゼパム：神経症における不安・うつ病から片頭痛へ
+{: .text-alpha }
 
 ## 一言要約
 

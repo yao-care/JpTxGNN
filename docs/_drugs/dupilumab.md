@@ -31,7 +31,8 @@ description: "Dupilumab：予測新適応症は気管支炎 (bronchitis)（エ�
 
 </div>
 
-# Dupilumab：アトピー性皮膚炎から気管支炎へ
+## Dupilumab：アトピー性皮膚炎から気管支炎へ
+{: .text-alpha }
 
 ## 一言まとめ
 

@@ -33,7 +33,8 @@ description: "Iron：予測新適応症はPlummer-Vinson 症候群（エビデ�
 
 </div>
 
-# 鉄（Iron）：貧血から Plummer-Vinson 症候群へ
+## 鉄（Iron）：貧血から Plummer-Vinson 症候群へ
+{: .text-alpha }
 
 ## 一言要約
 

@@ -33,7 +33,8 @@ predicted_indications: ["myeloid leukemia", "refractory cytopenia of childhood",
 
 </div>
 
-# レナリドミド：多発性骨髄腫・5番染色体長腕部欠失を伴う骨髄異形成症候群から骨髄性白血病へ
+## レナリドミド：多発性骨髄腫・5番染色体長腕部欠失を伴う骨髄異形成症候群から骨髄性白血病へ
+{: .text-alpha }
 
 ## 一言要約
 

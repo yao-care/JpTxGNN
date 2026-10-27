@@ -33,7 +33,8 @@ description: "Levocetirizine：予測新適応症は関節リウマチ (Rheumato
 
 </div>
 
-# レボセチリジン：アレルギー性鼻炎から関節リウマチへ
+## レボセチリジン：アレルギー性鼻炎から関節リウマチへ
+{: .text-alpha }
 
 ## 一言要約
 

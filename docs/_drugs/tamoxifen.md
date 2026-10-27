@@ -33,7 +33,8 @@ predicted_indications: ["mammary Paget disease", "Ehrlich tumor carcinoma", "bot
 
 </div>
 
-# タモキシフェン：乳癌から乳腺上皮内癌（Breast Carcinoma in Situ）へ
+## タモキシフェン：乳癌から乳腺上皮内癌（Breast Carcinoma in Situ）へ
+{: .text-alpha }
 
 ## 一言要約
 

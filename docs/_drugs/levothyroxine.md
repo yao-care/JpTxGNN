@@ -33,7 +33,8 @@ predicted_indications: ["endemic goiter", "renal hypodysplasia/aplasia", "nodula
 
 </div>
 
-# レボチロキシン：甲状腺機能低下症から風土病性甲状腺腫へ
+## レボチロキシン：甲状腺機能低下症から風土病性甲状腺腫へ
+{: .text-alpha }
 
 ## 一言要約
 

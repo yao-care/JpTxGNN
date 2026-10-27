@@ -33,7 +33,8 @@ description: "Goserelin：予測新適応症は無月経 (Amenorrhea)（エビ�
 
 </div>
 
-# ゴセレリン：子宮内膜症から無月経へ
+## ゴセレリン：子宮内膜症から無月経へ
+{: .text-alpha }
 
 ## 一言要約
 

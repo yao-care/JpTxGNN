@@ -33,7 +33,8 @@ predicted_indications: ["renal-hepatic-pancreatic dysplasia", "karyomegalic inte
 
 </div>
 
-# トルバプタン：抗利尿ホルモン不適合分泌症候群から多発性嚢胞腎（PKD3型）へ
+## トルバプタン：抗利尿ホルモン不適合分泌症候群から多発性嚢胞腎（PKD3型）へ
+{: .text-alpha }
 
 ## 一言要約
 

@@ -33,7 +33,8 @@ predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome",
 
 </div>
 
-# モキシフロキサシン：眼瞼炎・結膜炎から高アミラーゼ血症へ
+## モキシフロキサシン：眼瞼炎・結膜炎から高アミラーゼ血症へ
+{: .text-alpha }
 
 ## 一言要約
 

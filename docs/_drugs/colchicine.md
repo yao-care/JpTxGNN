@@ -33,7 +33,8 @@ predicted_indications: ["Plasmodium falciparum malaria", "dermatofibrosarcoma pr
 
 </div>
 
-# コルヒチン：痛風発作・家族性地中海熱から熱帯熱マラリア (Plasmodium falciparum malaria) へ
+## コルヒチン：痛風発作・家族性地中海熱から熱帯熱マラリア (Plasmodium falciparum malaria) へ
+{: .text-alpha }
 
 ## 一言要約
 

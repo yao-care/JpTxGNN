@@ -33,7 +33,8 @@ predicted_indications: ["bronchitis", "respiratory malformation", "obstructive l
 
 </div>
 
-# サルメテロール：肺気腫・喘息から気管支炎へ
+## サルメテロール：肺気腫・喘息から気管支炎へ
+{: .text-alpha }
 
 ## 一言要約
 

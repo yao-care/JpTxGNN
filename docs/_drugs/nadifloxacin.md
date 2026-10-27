@@ -33,7 +33,8 @@ description: "Nadifloxacin：予測新適応症はマラリア (Malaria)（エ�
 
 </div>
 
-# ナジフロキサシン：ざ瘡から マラリア へ
+## ナジフロキサシン：ざ瘡から マラリア へ
+{: .text-alpha }
 
 ## 一言要約
 

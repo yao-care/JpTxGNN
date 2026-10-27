@@ -33,7 +33,8 @@ description: "Galantamine：予測新適応症は心因性運動障害 (Psychoge
 
 </div>
 
-# ガランタミン：認知症から心因性運動障害へ
+## ガランタミン：認知症から心因性運動障害へ
+{: .text-alpha }
 
 ## 一言要約
 

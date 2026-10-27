@@ -33,7 +33,8 @@ predicted_indications: ["Ewing sarcoma", "fibromatosis, gingival", "fibroma of l
 
 </div>
 
-# エルロチニブ：非小細胞肺癌・膵癌からユーイング肉腫へ
+## エルロチニブ：非小細胞肺癌・膵癌からユーイング肉腫へ
+{: .text-alpha }
 
 ## 一言要約
 

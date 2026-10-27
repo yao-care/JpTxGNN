@@ -33,7 +33,8 @@ description: "Upadacitinib：予測新適応症はcolobomatous microphthalmia-rh
 
 </div>
 
-# ウパダシチニブ：関節リウマチから先天性眼球欠損・小眼球症・根幹部肢異形成症候群へ
+## ウパダシチニブ：関節リウマチから先天性眼球欠損・小眼球症・根幹部肢異形成症候群へ
+{: .text-alpha }
 
 ## 一言要約
 

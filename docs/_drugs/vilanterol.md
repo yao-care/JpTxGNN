@@ -33,7 +33,8 @@ predicted_indications: ["hyperlucent lung", "tracheal stenosis", "bronchial neop
 
 </div>
 
-# ビランテロール：慢性閉塞性肺疾患・喘息から閉塞性肺疾患へ
+## ビランテロール：慢性閉塞性肺疾患・喘息から閉塞性肺疾患へ
+{: .text-alpha }
 
 ## 一言要約
 

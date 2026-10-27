@@ -33,7 +33,8 @@ predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia
 
 </div>
 
-# ゾルピデム：不眠症から睡眠障害（入眠・睡眠維持障害）へ
+## ゾルピデム：不眠症から睡眠障害（入眠・睡眠維持障害）へ
+{: .text-alpha }
 
 ## 一言要約
 

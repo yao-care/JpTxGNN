@@ -31,7 +31,8 @@ description: "Acetazolamide：予測新適応症は心筋症 (cardiomyopathy)（
 
 </div>
 
-# Acetazolamide：緑内障・利尿から心筋症への探索
+## Acetazolamide：緑内障・利尿から心筋症への探索
+{: .text-alpha }
 
 ## 一言まとめ
 

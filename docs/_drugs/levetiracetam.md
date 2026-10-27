@@ -33,7 +33,8 @@ predicted_indications: ["beta-ketothiolase deficiency"]
 
 </div>
 
-# レベチラセタム：抗てんかん薬から視覚てんかんへ
+## レベチラセタム：抗てんかん薬から視覚てんかんへ
+{: .text-alpha }
 
 ## 一言要約
 

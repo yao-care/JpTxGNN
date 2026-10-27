@@ -33,7 +33,8 @@ predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia
 
 </div>
 
-# オランザピン：統合失調症から良性乳児発作性斜頸へ
+## オランザピン：統合失調症から良性乳児発作性斜頸へ
+{: .text-alpha }
 
 ## 一言要約
 

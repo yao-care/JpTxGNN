@@ -31,7 +31,8 @@ description: "Zanubrutinib：予測新適応症は骨髄性白血病 (myeloid le
 
 </div>
 
-# Zanubrutinib：B細胞リンパ腫から骨髄性白血病へ
+## Zanubrutinib：B細胞リンパ腫から骨髄性白血病へ
+{: .text-alpha }
 
 ## 一言まとめ
 

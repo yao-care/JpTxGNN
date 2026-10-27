@@ -33,7 +33,8 @@ predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipom
 
 </div>
 
-# アキシチニブ：腎細胞癌から未分類腎細胞癌へ
+## アキシチニブ：腎細胞癌から未分類腎細胞癌へ
+{: .text-alpha }
 
 ## 一言要約
 

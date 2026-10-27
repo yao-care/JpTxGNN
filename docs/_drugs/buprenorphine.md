@@ -31,7 +31,8 @@ description: "Buprenorphine：予測新適応症は急性間欠性ポルフィ�
 
 </div>
 
-# Buprenorphine：疼痛コントロールから急性間欠性ポルフィリン症へ
+## Buprenorphine：疼痛コントロールから急性間欠性ポルフィリン症へ
+{: .text-alpha }
 
 ## 一言まとめ
 Buprenorphine（ブプレノルフィン） は、もともとオピオイド部分作動薬であり、中等度から重度の疼痛およびオピオイド依存の代替療法に用いられます。TxGNN は、本剤が急性間欠性ポルフィリン症(acute intermittent porphyria)に対して治療の可能性を有すると予測しています。

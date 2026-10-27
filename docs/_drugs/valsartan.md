@@ -33,7 +33,8 @@ predicted_indications: ["malignant hypertensive renal disease", "pulmonary hyper
 
 </div>
 
-# バルサルタン：高血圧症から悪性高血圧性腎疾患へ
+## バルサルタン：高血圧症から悪性高血圧性腎疾患へ
+{: .text-alpha }
 
 ## 一言要約
 

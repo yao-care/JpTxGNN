@@ -33,7 +33,8 @@ predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvi
 
 </div>
 
-# プレドニゾロン：乾癬・掌蹠膿疱症などから円形脱毛症へ
+## プレドニゾロン：乾癬・掌蹠膿疱症などから円形脱毛症へ
+{: .text-alpha }
 
 ## 一言要約
 

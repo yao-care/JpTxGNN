@@ -33,7 +33,8 @@ predicted_indications: ["ectomesenchymoma", "malignant cutaneous granular cell s
 
 </div>
 
-# ペルツズマブ：HER2陽性乳癌から プロゲステロン受容体陽性乳癌 へ
+## ペルツズマブ：HER2陽性乳癌から プロゲステロン受容体陽性乳癌 へ
+{: .text-alpha }
 
 ## 一言要約
 

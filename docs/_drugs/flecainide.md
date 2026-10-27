@@ -33,7 +33,8 @@ description: "Flecainide：予測新適応症は脳卒中 (stroke disorder)（�
 
 </div>
 
-# フレカイニド：発作性心房細動・粗動から脳卒中（stroke disorder）へ
+## フレカイニド：発作性心房細動・粗動から脳卒中（stroke disorder）へ
+{: .text-alpha }
 
 ## 一言要約
 

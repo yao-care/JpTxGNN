@@ -31,7 +31,8 @@ description: "Sulfamerazine：予測新適応症は結膜炎（conjunctivitis）
 
 </div>
 
-# Sulfamerazine：抗菌薬から眼感染症治療までの振り返り
+## Sulfamerazine：抗菌薬から眼感染症治療までの振り返り
+{: .text-alpha }
 
 ## 一言まとめ
 

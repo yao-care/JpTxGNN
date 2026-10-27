@@ -33,7 +33,8 @@ predicted_indications: ["malignant hypertensive renal disease", "pulmonary hyper
 
 </div>
 
-# アテノロール：本態性高血圧症・狭心症・期外収縮から後下壁心筋梗塞へ
+## アテノロール：本態性高血圧症・狭心症・期外収縮から後下壁心筋梗塞へ
+{: .text-alpha }
 
 ## 一言要約
 

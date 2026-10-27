@@ -31,7 +31,8 @@ description: "Benzylpenicillin：予測新適応症は智歯周囲炎 (pericoron
 
 </div>
 
-# Benzylpenicillin：一般細菌感染から智歯周囲炎へ
+## Benzylpenicillin：一般細菌感染から智歯周囲炎へ
+{: .text-alpha }
 
 ## 一言まとめ
 Benzylpenicillin（ベンジルペニシリン、ペニシリンG） は古典的なβ-ラクタム系抗菌薬で、グラム陽性菌による各種感染症に用いられます。TxGNN は智歯周囲炎に対する有効性を予測しており、この予測は十分な文献的裏付けを得ています。

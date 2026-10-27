@@ -33,7 +33,8 @@ description: "Gliclazide：予測新適応症はfocal stiff limb syndrome（限�
 
 </div>
 
-# グリクラジド：2型糖尿病から focal stiff limb syndrome へ
+## グリクラジド：2型糖尿病から focal stiff limb syndrome へ
+{: .text-alpha }
 
 ## 一言要約
 

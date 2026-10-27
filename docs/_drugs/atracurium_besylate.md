@@ -31,7 +31,8 @@ description: "Atracurium Besylate：予測新適応症は子癇前症 (preeclamp
 
 </div>
 
-# Atracurium Besylate：神経筋遮断から子癇前症へ
+## Atracurium Besylate：神経筋遮断から子癇前症へ
+{: .text-alpha }
 
 ## 一言まとめ
 Atracurium besylate（アトラクリウムベシル酸塩） は非脱分極性神経筋遮断薬で、手術時の麻酔補助に用いられる。TxGNN は、子癇前症患者の麻酔管理において特別な価値を持つ可能性があると予測している。

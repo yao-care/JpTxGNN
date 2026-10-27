@@ -33,7 +33,8 @@ predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "female bre
 
 </div>
 
-# ソラフェニブ：肝細胞癌・腎細胞癌から脂肪肉腫へ
+## ソラフェニブ：肝細胞癌・腎細胞癌から脂肪肉腫へ
+{: .text-alpha }
 
 ## 一言要約
 

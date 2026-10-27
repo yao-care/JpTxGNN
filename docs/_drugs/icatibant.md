@@ -31,7 +31,8 @@ description: "Icatibant：予測新適応症はC1 Inhibitor Deficiency（エビ�
 
 </div>
 
-# Icatibant：遺伝性血管性浮腫から C1 Inhibitor Deficiency へ
+## Icatibant：遺伝性血管性浮腫から C1 Inhibitor Deficiency へ
+{: .text-alpha }
 
 ## 一言まとめ
 

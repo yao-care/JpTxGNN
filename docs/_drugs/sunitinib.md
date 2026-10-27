@@ -33,7 +33,8 @@ predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofib
 
 </div>
 
-# スニチニブ：抗悪性腫瘍薬（血管新生阻害薬・受容体型チロシンキナーゼ阻害薬）から脂肪肉腫へ
+## スニチニブ：抗悪性腫瘍薬（血管新生阻害薬・受容体型チロシンキナーゼ阻害薬）から脂肪肉腫へ
+{: .text-alpha }
 
 ## 一言要約
 

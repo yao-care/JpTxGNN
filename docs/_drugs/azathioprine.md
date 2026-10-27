@@ -33,7 +33,8 @@ predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndro
 
 </div>
 
-# アザチオプリン：臓器移植・自己免疫疾患から コロボーマ性小眼球症-根幹肢異形成症候群へ
+## アザチオプリン：臓器移植・自己免疫疾患から コロボーマ性小眼球症-根幹肢異形成症候群へ
+{: .text-alpha }
 
 ## 一言要約
 

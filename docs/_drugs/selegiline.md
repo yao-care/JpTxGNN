@@ -33,7 +33,8 @@ description: "Selegiline：予測新適応症は統合失調症 (Schizophrenia)�
 
 </div>
 
-# セレギリン：パーキンソン病から統合失調症へ
+## セレギリン：パーキンソン病から統合失調症へ
+{: .text-alpha }
 
 ## 一言要約
 

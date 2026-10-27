@@ -33,7 +33,8 @@ predicted_indications: ["lymphoadenopathic mastocytosis with eosinophilia", "gas
 
 </div>
 
-# ラベプラゾール：胃潰瘍・逆流性食道炎から Smouldering systemic mastocytosis へ
+## ラベプラゾール：胃潰瘍・逆流性食道炎から Smouldering systemic mastocytosis へ
+{: .text-alpha }
 
 ## 一言要約
 

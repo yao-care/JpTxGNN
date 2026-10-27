@@ -33,7 +33,8 @@ predicted_indications: ["hypermobility of coccyx", "inflammatory spondylopathy",
 
 </div>
 
-# ゴリムマブ：関節リウマチから リウマチ性血管炎へ
+## ゴリムマブ：関節リウマチから リウマチ性血管炎へ
+{: .text-alpha }
 
 ## 一言要約
 

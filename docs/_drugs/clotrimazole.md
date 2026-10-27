@@ -33,7 +33,8 @@ predicted_indications: ["acne (disease)", "vulvovaginitis", "postmenopausal atro
 
 </div>
 
-# クロトリマゾール：カンジダ症・白癬などの真菌感染症から ニキビ（acne）へ
+## クロトリマゾール：カンジダ症・白癬などの真菌感染症から ニキビ（acne）へ
+{: .text-alpha }
 
 ## 一言要約
 

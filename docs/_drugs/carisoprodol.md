@@ -33,7 +33,8 @@ description: "Carisoprodol：予測新適応症は不眠症 (insomnia)（エビ�
 
 </div>
 
-# Carisoprodol：筋弛緩薬から不眠症への潜在的な応用
+## Carisoprodol：筋弛緩薬から不眠症への潜在的な応用
+{: .text-alpha }
 
 ## 一言まとめ
 

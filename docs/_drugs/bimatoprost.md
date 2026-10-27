@@ -33,7 +33,8 @@ predicted_indications: ["malformation syndrome with odontal and/or periodontal c
 
 </div>
 
-# ビマトプロスト：緑内障から歯・歯周構成要素を伴う奇形症候群へ
+## ビマトプロスト：緑内障から歯・歯周構成要素を伴う奇形症候群へ
+{: .text-alpha }
 
 ## 一言要約
 

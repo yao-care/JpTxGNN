@@ -33,7 +33,8 @@ predicted_indications: ["atrophoderma vermiculata"]
 
 </div>
 
-# リザトリプタン：片頭痛から脳幹性前兆を伴う片頭痛へ
+## リザトリプタン：片頭痛から脳幹性前兆を伴う片頭痛へ
+{: .text-alpha }
 
 ## 一言要約
 

@@ -33,7 +33,8 @@ predicted_indications: ["duodenogastric reflux", "duodenal obstruction", "esopha
 
 </div>
 
-# スクラルファート：胃潰瘍・十二指腸潰瘍から十二指腸胃逆流へ
+## スクラルファート：胃潰瘍・十二指腸潰瘍から十二指腸胃逆流へ
+{: .text-alpha }
 
 ## 一言要約
 

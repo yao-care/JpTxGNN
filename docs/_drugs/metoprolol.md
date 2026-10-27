@@ -33,7 +33,8 @@ predicted_indications: ["malignant hypertensive renal disease", "pulmonary hyper
 
 </div>
 
-# メトプロロール：本態性高血圧症・狭心症から悪性高血圧性腎疾患へ
+## メトプロロール：本態性高血圧症・狭心症から悪性高血圧性腎疾患へ
+{: .text-alpha }
 
 ## 一言要約
 

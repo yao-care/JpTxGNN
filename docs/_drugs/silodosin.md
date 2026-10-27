@@ -33,7 +33,8 @@ description: "Silodosin：予測新適応症はAmbras 型先天性汎発性多�
 
 </div>
 
-# シロドシン：排尿障害から Ambras 型先天性汎発性多毛症へ
+## シロドシン：排尿障害から Ambras 型先天性汎発性多毛症へ
+{: .text-alpha }
 
 ## 一言要約
 

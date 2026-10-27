@@ -32,7 +32,8 @@ last_modified_at: 2026-09-17
 
 </div>
 
-# Carbenoxolone：消化性潰瘍から非症候群性食道奇形へ
+## Carbenoxolone：消化性潰瘍から非症候群性食道奇形へ
+{: .text-alpha }
 
 ## 一言まとめ
 Carbenoxolone（カルベノキソロン） はもともと胃潰瘍および口腔内潰瘍の治療に用いられるグリチルレチン酸誘導体であり、TxGNN は非症候群性食道奇形(non-syndromic esophageal malformation)に対する治療可能性を予測しています。

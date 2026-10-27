@@ -33,7 +33,8 @@ predicted_indications: ["female breast carcinoma", "adult germ cell tumor"]
 
 </div>
 
-# トポテカン：卵巣癌から乳癌へ
+## トポテカン：卵巣癌から乳癌へ
+{: .text-alpha }
 
 ## 一言要約
 

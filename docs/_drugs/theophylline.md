@@ -33,7 +33,8 @@ predicted_indications: ["thrombotic disease", "nasal cavity disease", "laryngotr
 
 </div>
 
-# テオフィリン：気管支喘息・肺気腫から血栓性疾患へ
+## テオフィリン：気管支喘息・肺気腫から血栓性疾患へ
+{: .text-alpha }
 
 ## 一言要約
 

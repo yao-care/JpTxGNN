@@ -33,7 +33,8 @@ predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenoc
 
 </div>
 
-# カルボプラチン：頭頸部癌・卵巣癌などから女性乳癌へ
+## カルボプラチン：頭頸部癌・卵巣癌などから女性乳癌へ
+{: .text-alpha }
 
 ## 一言要約
 

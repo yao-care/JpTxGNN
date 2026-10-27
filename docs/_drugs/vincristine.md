@@ -33,7 +33,8 @@ predicted_indications: ["ganglioneuroblastoma (disease)", "vertebral anomalies a
 
 </div>
 
-# ビンクリスチン：造血器腫瘍・リンパ腫から神経節芽腫へ
+## ビンクリスチン：造血器腫瘍・リンパ腫から神経節芽腫へ
+{: .text-alpha }
 
 ## 一言要約
 

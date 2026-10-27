@@ -33,7 +33,8 @@ predicted_indications: ["peptic ulcer perforation", "hiatus hernia (disease)", "
 
 </div>
 
-# ボノプラザン：胃・十二指腸潰瘍から活動性消化性潰瘍へ
+## ボノプラザン：胃・十二指腸潰瘍から活動性消化性潰瘍へ
+{: .text-alpha }
 
 ## 一言要約
 

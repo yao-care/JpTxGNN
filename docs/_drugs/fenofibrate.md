@@ -33,7 +33,8 @@ predicted_indications: ["homozygous familial hypercholesterolemia", "hyperlipopr
 
 </div>
 
-# フェノフィブラート：脂質異常症から家族性高コレステロール血症（ホモ接合体）へ
+## フェノフィブラート：脂質異常症から家族性高コレステロール血症（ホモ接合体）へ
+{: .text-alpha }
 
 ## 一言要約
 

@@ -33,7 +33,8 @@ predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndr
 
 </div>
 
-# ミグリトール：糖尿病から巣状スティフリム症候群へ
+## ミグリトール：糖尿病から巣状スティフリム症候群へ
+{: .text-alpha }
 
 ## 一言要約
 

@@ -33,7 +33,8 @@ predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "ros
 
 </div>
 
-# ロラタジン：アレルギー性鼻炎からアレルギー性蕁麻疹へ
+## ロラタジン：アレルギー性鼻炎からアレルギー性蕁麻疹へ
+{: .text-alpha }
 
 ## 一言要約
 

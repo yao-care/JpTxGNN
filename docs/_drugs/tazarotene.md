@@ -33,7 +33,8 @@ description: "Tazarotene：予測新適応症は脂漏性皮膚炎 (Seborrheic D
 
 </div>
 
-# Tazarotene：乾癬から脂漏性皮膚炎へ
+## Tazarotene：乾癬から脂漏性皮膚炎へ
+{: .text-alpha }
 
 ## 一言まとめ
 

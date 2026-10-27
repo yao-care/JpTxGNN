@@ -33,7 +33,8 @@ predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "tri
 
 </div>
 
-# フェニレフリン：アレルギー性鼻炎・鼻炎から鼻腔疾患へ
+## フェニレフリン：アレルギー性鼻炎・鼻炎から鼻腔疾患へ
+{: .text-alpha }
 
 ## 一言要約
 

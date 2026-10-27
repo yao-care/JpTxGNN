@@ -33,7 +33,8 @@ predicted_indications: ["Ohdo syndrome and variants", "blepharophimosis - intell
 
 </div>
 
-# ミルタザピン：抗うつ薬から異常症候群（Ohdo 症候群）へ
+## ミルタザピン：抗うつ薬から異常症候群（Ohdo 症候群）へ
+{: .text-alpha }
 
 ## 一言要約
 

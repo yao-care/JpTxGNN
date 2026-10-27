@@ -33,7 +33,8 @@ predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "heart fibr
 
 </div>
 
-# パゾパニブ：腎細胞癌・軟部肉腫から未分類腎細胞癌へ
+## パゾパニブ：腎細胞癌・軟部肉腫から未分類腎細胞癌へ
+{: .text-alpha }
 
 ## 一言要約
 

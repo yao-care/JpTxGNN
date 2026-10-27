@@ -33,7 +33,8 @@ predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous micro
 
 </div>
 
-# サラゾスルファピリジン：関節リウマチから合指（趾）症を伴う短指症候群へ
+## サラゾスルファピリジン：関節リウマチから合指（趾）症を伴う短指症候群へ
+{: .text-alpha }
 
 ## 一言要約
 

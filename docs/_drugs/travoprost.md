@@ -33,7 +33,8 @@ description: "Travoprost：予測新適応症は血管疾患 (Vascular Disease)�
 
 </div>
 
-# トラボプロスト：緑内障から血管疾患へ
+## トラボプロスト：緑内障から血管疾患へ
+{: .text-alpha }
 
 ## 一言要約
 

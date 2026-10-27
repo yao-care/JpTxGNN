@@ -31,7 +31,8 @@ description: "Inositol：予測新適応症はFamilial Hypercholesterolemia（�
 
 </div>
 
-# Inositol：末梢血管循環障害から Familial Hypercholesterolemia へ
+## Inositol：末梢血管循環障害から Familial Hypercholesterolemia へ
+{: .text-alpha }
 
 ## 一言まとめ
 

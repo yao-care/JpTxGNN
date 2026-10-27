@@ -33,7 +33,8 @@ description: "Febuxostat：予測新適応症は腎性低尿酸血症 (hypourice
 
 </div>
 
-# フェブキソスタット：痛風から腎性低尿酸血症へ
+## フェブキソスタット：痛風から腎性低尿酸血症へ
+{: .text-alpha }
 
 ## 一言要約
 

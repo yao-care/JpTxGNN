@@ -33,7 +33,8 @@ description: "Trabectedin：予測新適応症は女性乳癌 (female breast car
 
 </div>
 
-# Trabectedin：軟部肉腫から女性乳癌へ
+## Trabectedin：軟部肉腫から女性乳癌へ
+{: .text-alpha }
 
 ## 一言まとめ
 

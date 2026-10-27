@@ -31,7 +31,8 @@ description: "Ipratropium：予測新適応症は閉塞性肺疾患 (obstructive
 
 </div>
 
-# Ipratropium：閉塞性気道疾患から閉塞性肺疾患へ
+## Ipratropium：閉塞性気道疾患から閉塞性肺疾患へ
+{: .text-alpha }
 
 ## 一言まとめ
 

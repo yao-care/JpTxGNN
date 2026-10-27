@@ -31,7 +31,8 @@ description: "Sodium Citrate：予測新適応症は胃疾患（stomach disease�
 
 </div>
 
-# Sodium Citrate：抗凝固薬から胃疾患の補助療法への探索
+## Sodium Citrate：抗凝固薬から胃疾患の補助療法への探索
+{: .text-alpha }
 
 ## 一言まとめ
 

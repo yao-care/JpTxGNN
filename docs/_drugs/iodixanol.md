@@ -33,7 +33,8 @@ description: "Iodixanol：予測新適応症は変形性関節症 (osteoarthriti
 
 </div>
 
-# Iodixanol：X線造影剤から変形性関節症へ
+## Iodixanol：X線造影剤から変形性関節症へ
+{: .text-alpha }
 
 ## 一言まとめ
 

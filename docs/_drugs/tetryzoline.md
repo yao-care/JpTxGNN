@@ -31,7 +31,8 @@ description: "Tetryzoline：予測新適応症は鼻腔疾患 (Nasal Cavity Dise
 
 </div>
 
-# Tetryzoline：眼科用薬から鼻腔疾患へ
+## Tetryzoline：眼科用薬から鼻腔疾患へ
+{: .text-alpha }
 
 ## 一言まとめ
 

@@ -33,7 +33,8 @@ description: "Ebastine：予測新適応症は冠動脈疾患 (Coronary Artery D
 
 </div>
 
-# エバスチン：アレルギー性鼻炎から冠動脈疾患へ
+## エバスチン：アレルギー性鼻炎から冠動脈疾患へ
+{: .text-alpha }
 
 ## 一言要約
 

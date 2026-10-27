@@ -33,7 +33,8 @@ predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcino
 
 </div>
 
-# ドキソルビシン：悪性腫瘍（がん種横断）からユーイング肉腫へ
+## ドキソルビシン：悪性腫瘍（がん種横断）からユーイング肉腫へ
+{: .text-alpha }
 
 ## 一言要約
 

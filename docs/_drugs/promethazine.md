@@ -33,7 +33,8 @@ predicted_indications: ["rosacea conjunctivitis", "recalcitrant atopic dermatiti
 
 </div>
 
-# プロメタジン：パーキンソニスム・アレルギー性鼻炎から 酒さ性結膜炎 へ
+## プロメタジン：パーキンソニスム・アレルギー性鼻炎から 酒さ性結膜炎 へ
+{: .text-alpha }
 
 ## 一言要約
 

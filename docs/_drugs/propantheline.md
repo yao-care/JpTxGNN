@@ -31,7 +31,8 @@ description: "Propantheline：予測新適応症は胃十二指腸炎 (Gastroduo
 
 </div>
 
-# Propantheline：消化性潰瘍から胃十二指腸炎へ
+## Propantheline：消化性潰瘍から胃十二指腸炎へ
+{: .text-alpha }
 
 ## 一言まとめ
 

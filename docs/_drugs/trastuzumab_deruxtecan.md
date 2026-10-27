@@ -32,7 +32,8 @@ last_modified_at: 2026-09-17
 
 </div>
 
-# Trastuzumab Deruxtecan：HER2陽性腫瘍から薬剤性骨粗鬆症まで
+## Trastuzumab Deruxtecan：HER2陽性腫瘍から薬剤性骨粗鬆症まで
+{: .text-alpha }
 
 ## 一言まとめ
 

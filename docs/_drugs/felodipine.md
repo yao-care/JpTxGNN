@@ -33,7 +33,8 @@ predicted_indications: ["pulmonary hypertension owing to lung disease and/or hyp
 
 </div>
 
-# フェロジピン：高血圧症から 肺高血圧症（肺疾患・低酸素に伴うもの）へ
+## フェロジピン：高血圧症から 肺高血圧症（肺疾患・低酸素に伴うもの）へ
+{: .text-alpha }
 
 ## 一言要約
 

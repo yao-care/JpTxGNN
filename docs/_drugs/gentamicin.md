@@ -33,7 +33,8 @@ description: "Gentamicin：予測新適応症は関節リウマチ (Rheumatoid A
 
 </div>
 
-# ゲンタマイシン：眼瞼炎・結膜炎から関節リウマチへ
+## ゲンタマイシン：眼瞼炎・結膜炎から関節リウマチへ
+{: .text-alpha }
 
 ## 一言要約
 

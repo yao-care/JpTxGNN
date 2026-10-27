@@ -32,7 +32,8 @@ last_modified_at: 2026-09-17
 
 </div>
 
-# Caspofungin：抗真菌薬からガストリン分泌異常への探索
+## Caspofungin：抗真菌薬からガストリン分泌異常への探索
+{: .text-alpha }
 
 ## 一言まとめ
 

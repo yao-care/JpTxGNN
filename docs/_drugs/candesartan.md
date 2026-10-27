@@ -33,7 +33,8 @@ description: "Candesartan：予測新適応症は片頭痛 (migraine disorder)�
 
 </div>
 
-# カンデサルタン：高血圧から片頭痛へ
+## カンデサルタン：高血圧から片頭痛へ
+{: .text-alpha }
 
 ## 一言要約
 

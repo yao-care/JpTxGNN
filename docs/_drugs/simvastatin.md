@@ -33,7 +33,8 @@ predicted_indications: ["brain stem infarction", "cholesterol-ester transfer pro
 
 </div>
 
-# シンバスタチン：脂質異常症から家族性高コレステロール血症へ
+## シンバスタチン：脂質異常症から家族性高コレステロール血症へ
+{: .text-alpha }
 
 ## 一言要約
 

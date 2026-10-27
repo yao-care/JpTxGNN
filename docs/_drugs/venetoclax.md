@@ -33,7 +33,8 @@ predicted_indications: ["Hodgkins lymphoma", "chronic myelogenous leukemia, BCR-
 
 </div>
 
-# ベネトクラクス：急性リンパ性白血病・リヒター症候群から 胚中心前型慢性リンパ性白血病/小リンパ球性リンパ腫へ
+## ベネトクラクス：急性リンパ性白血病・リヒター症候群から 胚中心前型慢性リンパ性白血病/小リンパ球性リンパ腫へ
+{: .text-alpha }
 
 ## 一言要約
 

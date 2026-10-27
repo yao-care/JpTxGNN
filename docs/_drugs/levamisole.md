@@ -32,7 +32,8 @@ last_modified_at: 2026-09-17
 
 </div>
 
-# Levamisole：抗腫瘍補助療法から薬剤性骨粗鬆症へ
+## Levamisole：抗腫瘍補助療法から薬剤性骨粗鬆症へ
+{: .text-alpha }
 
 ## 一言まとめ
 

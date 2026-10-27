@@ -33,7 +33,8 @@ predicted_indications: ["choroideremia"]
 
 </div>
 
-# トラメチニブ：転移性悪性黒色腫から脈絡膜欠損症 (Choroideremia) へ
+## トラメチニブ：転移性悪性黒色腫から脈絡膜欠損症 (Choroideremia) へ
+{: .text-alpha }
 
 ## 一言要約
 

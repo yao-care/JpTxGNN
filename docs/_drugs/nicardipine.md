@@ -33,7 +33,8 @@ predicted_indications: ["pulmonary hypertension with unclear multifactorial mech
 
 </div>
 
-# ニカルジピン：高血圧性緊急症・急性心不全・本態性高血圧症から肺高血圧症（原因不明の多因子性）へ
+## ニカルジピン：高血圧性緊急症・急性心不全・本態性高血圧症から肺高血圧症（原因不明の多因子性）へ
+{: .text-alpha }
 
 ## 一言要約
 

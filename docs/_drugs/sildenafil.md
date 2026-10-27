@@ -33,7 +33,8 @@ description: "Sildenafil：予測新適応症はAmbras 型汎発性先天性多�
 
 </div>
 
-# シルデナフィル：肺動脈性肺高血圧症から Ambras 型汎発性先天性多毛症へ
+## シルデナフィル：肺動脈性肺高血圧症から Ambras 型汎発性先天性多毛症へ
+{: .text-alpha }
 
 ## 一言要約
 

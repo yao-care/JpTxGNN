@@ -33,7 +33,8 @@ predicted_indications: ["beta-ketothiolase deficiency"]
 
 </div>
 
-# ペランパネル：部分てんかんから視覚てんかん（Visual Epilepsy）へ
+## ペランパネル：部分てんかんから視覚てんかん（Visual Epilepsy）へ
+{: .text-alpha }
 
 ## 一言要約
 

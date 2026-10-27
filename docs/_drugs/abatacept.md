@@ -33,7 +33,8 @@ predicted_indications: ["ankylosing spondylitis", "hypermobility of coccyx", "in
 
 </div>
 
-# アバタセプト：関節リウマチ・若年性特発性関節炎から リウマチ性血管炎へ
+## アバタセプト：関節リウマチ・若年性特発性関節炎から リウマチ性血管炎へ
+{: .text-alpha }
 
 ## 一言要約
 

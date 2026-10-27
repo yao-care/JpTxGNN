@@ -32,7 +32,8 @@ last_modified_at: 2026-09-17
 
 </div>
 
-# Chloral Hydrate：古典的な鎮静催眠薬の評価
+## Chloral Hydrate：古典的な鎮静催眠薬の評価
+{: .text-alpha }
 
 ## 一言まとめ
 

@@ -33,7 +33,8 @@ predicted_indications: ["duodenal ulcer (disease)", "non-syndromic esophageal ma
 
 </div>
 
-# テリパラチド：骨粗鬆症から十二指腸潰瘍へ
+## テリパラチド：骨粗鬆症から十二指腸潰瘍へ
+{: .text-alpha }
 
 ## 一言要約
 

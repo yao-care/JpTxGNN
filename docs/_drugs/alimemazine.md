@@ -33,7 +33,8 @@ predicted_indications: ["IgE responsiveness, atopic", "nasal cavity disease", "r
 
 </div>
 
-# アリメマジン：アレルギー性鼻炎・蕁麻疹などから アレルギー性蕁麻疹 へ
+## アリメマジン：アレルギー性鼻炎・蕁麻疹などから アレルギー性蕁麻疹 へ
+{: .text-alpha }
 
 ## 一言要約
 

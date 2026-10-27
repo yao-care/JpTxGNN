@@ -33,7 +33,8 @@ predicted_indications: ["bacterial arthritis", "epiglottitis", "staphylococcus a
 
 </div>
 
-# メロペネム：細菌感染症・髄膜炎から尿路感染症へ
+## メロペネム：細菌感染症・髄膜炎から尿路感染症へ
+{: .text-alpha }
 
 ## 一言要約
 

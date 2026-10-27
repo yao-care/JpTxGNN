@@ -33,7 +33,8 @@ description: "Clopidogrel：予測新適応症は片頭痛 (Migraine Disorder)�
 
 </div>
 
-# クロピドグレル：血小板凝集抑制薬から片頭痛へ
+## クロピドグレル：血小板凝集抑制薬から片頭痛へ
+{: .text-alpha }
 
 ## 一言要約
 

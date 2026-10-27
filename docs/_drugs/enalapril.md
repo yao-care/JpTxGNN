@@ -33,7 +33,8 @@ predicted_indications: ["chronic pulmonary heart disease", "acute pulmonary hear
 
 </div>
 
-# エナラプリル：本態性高血圧症から慢性肺性心疾患へ
+## エナラプリル：本態性高血圧症から慢性肺性心疾患へ
+{: .text-alpha }
 
 ## 一言要約
 

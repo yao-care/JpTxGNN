@@ -33,7 +33,8 @@ predicted_indications: ["seborrheic dermatitis", "parapsoriasis", "acute licheno
 
 </div>
 
-# タクロリムス：免疫抑制薬としての既存適応症から脂漏性皮膚炎へ
+## タクロリムス：免疫抑制薬としての既存適応症から脂漏性皮膚炎へ
+{: .text-alpha }
 
 ## 一言要約
 

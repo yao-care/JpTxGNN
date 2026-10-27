@@ -33,7 +33,8 @@ predicted_indications: ["resistance to thyroid hormone due to a mutation in thyr
 
 </div>
 
-# プロピルチオウラシル：甲状腺機能亢進症から甲状腺ホルモン不応症（THRB 変異）へ
+## プロピルチオウラシル：甲状腺機能亢進症から甲状腺ホルモン不応症（THRB 変異）へ
+{: .text-alpha }
 
 ## 一言要約
 

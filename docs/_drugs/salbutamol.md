@@ -33,7 +33,8 @@ predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "pha
 
 </div>
 
-# サルブタモール：喘息から乳頭結膜炎へ
+## サルブタモール：喘息から乳頭結膜炎へ
+{: .text-alpha }
 
 ## 一言要約
 

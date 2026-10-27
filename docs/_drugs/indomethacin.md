@@ -33,7 +33,8 @@ predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous micro
 
 </div>
 
-# インドメタシン：関節リウマチ・痛風発作から合指趾症を伴う短指症候群 (Brachydactyly-Syndactyly Syndrome) へ
+## インドメタシン：関節リウマチ・痛風発作から合指趾症を伴う短指症候群 (Brachydactyly-Syndactyly Syndrome) へ
+{: .text-alpha }
 
 ## 一言要約
 

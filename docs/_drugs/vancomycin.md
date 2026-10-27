@@ -33,7 +33,8 @@ predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellos
 
 </div>
 
-# バンコマイシン：細菌感染症（MRSA・C. difficile 腸炎など）から全身性強皮症（びまん型）へ
+## バンコマイシン：細菌感染症（MRSA・C. difficile 腸炎など）から全身性強皮症（びまん型）へ
+{: .text-alpha }
 
 ## 一言要約
 

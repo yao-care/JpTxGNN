@@ -33,7 +33,8 @@ predicted_indications: ["ulcerative proctosigmoiditis", "nocardiosis", "rosacea 
 
 </div>
 
-# クロモグリク酸：アレルギー性疾患から潰瘍性直腸S状結腸炎へ
+## クロモグリク酸：アレルギー性疾患から潰瘍性直腸S状結腸炎へ
+{: .text-alpha }
 
 ## 一言要約
 

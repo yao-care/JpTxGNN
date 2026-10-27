@@ -33,7 +33,8 @@ description: "Threonine：予測新適応症はGastroparesis（胃不全麻痺�
 
 </div>
 
-# Threonine：栄養補給剤から胃不全麻痺への潜在的応用
+## Threonine：栄養補給剤から胃不全麻痺への潜在的応用
+{: .text-alpha }
 
 ## 一言まとめ
 

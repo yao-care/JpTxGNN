@@ -33,7 +33,8 @@ predicted_indications: ["brachyolmia-amelogenesis imperfecta syndrome", "acromes
 
 </div>
 
-# フェルビナク：鎮痛・抗炎症から先天性骨系統疾患（brachyolmia-amelogenesis imperfecta syndrome）へ
+## フェルビナク：鎮痛・抗炎症から先天性骨系統疾患（brachyolmia-amelogenesis imperfecta syndrome）へ
+{: .text-alpha }
 
 ## 一言要約
 

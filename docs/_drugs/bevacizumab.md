@@ -33,7 +33,8 @@ description: "Bevacizumab：予測新適応症は喉頭蓋腫瘍 (Epiglottis Neo
 
 </div>
 
-# ベバシズマブ：卵巣癌・乳癌などの悪性腫瘍から嚢胞性腫瘍 (Cystic Neoplasm) へ
+## ベバシズマブ：卵巣癌・乳癌などの悪性腫瘍から嚢胞性腫瘍 (Cystic Neoplasm) へ
+{: .text-alpha }
 
 ## 一言要約
 

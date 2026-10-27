@@ -33,7 +33,8 @@ predicted_indications: ["rosacea conjunctivitis"]
 
 </div>
 
-# オロパタジン：アレルギー性鼻炎・尋常性乾癬から酒さ性結膜炎へ
+## オロパタジン：アレルギー性鼻炎・尋常性乾癬から酒さ性結膜炎へ
+{: .text-alpha }
 
 ## 一言要約
 

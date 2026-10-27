@@ -33,7 +33,8 @@ predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome",
 
 </div>
 
-# アジスロマイシン：歯周組織炎・MAC症・結膜炎・眼瞼炎から高アミラーゼ血症へ
+## アジスロマイシン：歯周組織炎・MAC症・結膜炎・眼瞼炎から高アミラーゼ血症へ
+{: .text-alpha }
 
 ## 一言要約
 

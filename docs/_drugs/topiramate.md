@@ -33,7 +33,8 @@ predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
 
 </div>
 
-# トピラマート：てんかんから三叉神経腫瘍へ
+## トピラマート：てんかんから三叉神経腫瘍へ
+{: .text-alpha }
 
 ## 一言要約
 

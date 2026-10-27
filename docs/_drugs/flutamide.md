@@ -33,7 +33,8 @@ predicted_indications: ["fibroma of prostate", "Brenner tumor", "benign reproduc
 
 </div>
 
-# フルタミド：前立腺癌から前立腺癌・脳腫瘍の感受性（prostate cancer/brain cancer susceptibility）へ
+## フルタミド：前立腺癌から前立腺癌・脳腫瘍の感受性（prostate cancer/brain cancer susceptibility）へ
+{: .text-alpha }
 
 ## 一言要約
 

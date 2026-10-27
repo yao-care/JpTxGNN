@@ -33,7 +33,8 @@ predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "inclusion 
 
 </div>
 
-# ゲフィチニブ：非小細胞肺癌から歯肉線維腫症へ
+## ゲフィチニブ：非小細胞肺癌から歯肉線維腫症へ
+{: .text-alpha }
 
 ## 一言要約
 

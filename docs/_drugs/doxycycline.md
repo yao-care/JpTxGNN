@@ -33,7 +33,8 @@ predicted_indications: ["punctate epithelial keratoconjunctivitis", "otitis exte
 
 </div>
 
-# ドキシサイクリン：気管支炎・ざ瘡・細菌感染症から点状表層角結膜炎へ
+## ドキシサイクリン：気管支炎・ざ瘡・細菌感染症から点状表層角結膜炎へ
+{: .text-alpha }
 
 ## 一言要約
 

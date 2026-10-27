@@ -33,7 +33,8 @@ predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndr
 
 </div>
 
-# グリメピリド：2型糖尿病から古典的スティッフパーソン症候群 (Classic Stiff Person Syndrome) へ
+## グリメピリド：2型糖尿病から古典的スティッフパーソン症候群 (Classic Stiff Person Syndrome) へ
+{: .text-alpha }
 
 ## 一言要約
 

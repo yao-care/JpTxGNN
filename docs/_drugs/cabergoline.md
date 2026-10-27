@@ -33,7 +33,8 @@ predicted_indications: ["progeria-short stature-pigmented nevi syndrome", "pitui
 
 </div>
 
-# カベルゴリン：高プロラクチン血症から下垂体癌へ
+## カベルゴリン：高プロラクチン血症から下垂体癌へ
+{: .text-alpha }
 
 ## 一言要約
 

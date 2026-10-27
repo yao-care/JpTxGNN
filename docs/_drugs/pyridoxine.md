@@ -33,7 +33,8 @@ description: "Pyridoxine：予測新適応症はUreaplasma 尿道炎 (Ureaplasma
 
 </div>
 
-# ピリドキシン：ビタミンB6補充（脂漏性湿疹・接触皮膚炎）から Ureaplasma 尿道炎へ
+## ピリドキシン：ビタミンB6補充（脂漏性湿疹・接触皮膚炎）から Ureaplasma 尿道炎へ
+{: .text-alpha }
 
 ## 一言要約
 

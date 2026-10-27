@@ -33,7 +33,8 @@ predicted_indications: ["visual epilepsy", "alcohol withdrawal delirium", "restl
 
 </div>
 
-# エスタゾラム：不眠症から不眠症（既承認適応症の再確認）へ
+## エスタゾラム：不眠症から不眠症（既承認適応症の再確認）へ
+{: .text-alpha }
 
 ## 一言要約
 

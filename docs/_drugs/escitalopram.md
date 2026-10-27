@@ -33,7 +33,8 @@ predicted_indications: ["Ohdo syndrome and variants", "dysthymic disorder", "obs
 
 </div>
 
-# エスシタロプラム：抗うつ薬（SSRI）から気分変調症へ
+## エスシタロプラム：抗うつ薬（SSRI）から気分変調症へ
+{: .text-alpha }
 
 ## 一言要約
 

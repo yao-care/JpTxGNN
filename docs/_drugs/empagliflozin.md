@@ -33,7 +33,8 @@ description: "Empagliflozin：予測新適応症はfocal stiff limb syndrome（�
 
 </div>
 
-# エンパグリフロジン：2型糖尿病から focal stiff limb syndrome へ
+## エンパグリフロジン：2型糖尿病から focal stiff limb syndrome へ
+{: .text-alpha }
 
 ## 一言要約
 

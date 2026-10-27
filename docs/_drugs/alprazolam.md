@@ -33,7 +33,8 @@ predicted_indications: ["insomnia (disease)", "benign paroxysmal torticollis of 
 
 </div>
 
-# アルプラゾラム：抗不安薬から不眠症へ
+## アルプラゾラム：抗不安薬から不眠症へ
+{: .text-alpha }
 
 ## 一言要約
 

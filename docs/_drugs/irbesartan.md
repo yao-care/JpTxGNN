@@ -33,7 +33,8 @@ predicted_indications: ["malignant hypertensive renal disease", "pulmonary hyper
 
 </div>
 
-# イルベサルタン：高血圧症から悪性腎血管性高血圧へ
+## イルベサルタン：高血圧症から悪性腎血管性高血圧へ
+{: .text-alpha }
 
 ## 一言要約
 

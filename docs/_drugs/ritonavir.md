@@ -31,7 +31,8 @@ description: "Ritonavir：予測新適応症はサル免疫不全ウイルス感
 
 </div>
 
-# Ritonavir：HIVからサル免疫不全ウイルス感染症へ
+## Ritonavir：HIVからサル免疫不全ウイルス感染症へ
+{: .text-alpha }
 
 ## 一言まとめ
 

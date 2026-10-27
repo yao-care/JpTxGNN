@@ -33,7 +33,8 @@ predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma 
 
 </div>
 
-# ロルラチニブ：非小細胞肺癌から線維腫性歯肉増殖症（歯肉線維腫症）へ
+## ロルラチニブ：非小細胞肺癌から線維腫性歯肉増殖症（歯肉線維腫症）へ
+{: .text-alpha }
 
 ## 一言要約
 

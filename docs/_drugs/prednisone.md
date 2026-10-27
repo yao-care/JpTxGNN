@@ -31,7 +31,8 @@ description: "Prednisone：予測新適応症は円形脱毛症 (Alopecia Areata
 
 </div>
 
-# Prednisone：リウマチ性疾患から円形脱毛症へ
+## Prednisone：リウマチ性疾患から円形脱毛症へ
+{: .text-alpha }
 
 ## 一言まとめ
 

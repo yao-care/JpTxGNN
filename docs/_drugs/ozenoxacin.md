@@ -33,7 +33,8 @@ description: "Ozenoxacin：予測新適応症はマラリア (Malaria)（エビ�
 
 </div>
 
-# オゼノキサシン：ざ瘡からマラリアへ
+## オゼノキサシン：ざ瘡からマラリアへ
+{: .text-alpha }
 
 ## 一言要約
 

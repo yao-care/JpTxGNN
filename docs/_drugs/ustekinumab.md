@@ -33,7 +33,8 @@ predicted_indications: ["dermatitis", "neonatal dermatomyositis", "acne keloid",
 
 </div>
 
-# ウステキヌマブ：乾癬性関節炎・乾癬から皮膚炎へ
+## ウステキヌマブ：乾癬性関節炎・乾癬から皮膚炎へ
+{: .text-alpha }
 
 ## 一言要約
 

@@ -31,7 +31,8 @@ description: "Minoxidil：予測新適応症は頭皮単純性乏毛症 (hypotri
 
 </div>
 
-# Minoxidil：男性型脱毛症から頭皮単純性乏毛症まで
+## Minoxidil：男性型脱毛症から頭皮単純性乏毛症まで
+{: .text-alpha }
 
 ## 一言まとめ
 

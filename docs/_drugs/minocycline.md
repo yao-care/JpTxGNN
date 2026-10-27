@@ -33,7 +33,8 @@ predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure ke
 
 </div>
 
-# ミノサイクリン：細菌感染症・ざ瘡から点状表層角結膜炎へ
+## ミノサイクリン：細菌感染症・ざ瘡から点状表層角結膜炎へ
+{: .text-alpha }
 
 ## 一言要約
 

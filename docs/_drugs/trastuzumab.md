@@ -33,7 +33,8 @@ predicted_indications: ["malignant cutaneous granular cell skin tumor", "ectomes
 
 </div>
 
-# トラスツズマブ：HER2 陽性乳癌から プロゲステロン受容体陽性乳癌 へ
+## トラスツズマブ：HER2 陽性乳癌から プロゲステロン受容体陽性乳癌 へ
+{: .text-alpha }
 
 ## 一言要約
 

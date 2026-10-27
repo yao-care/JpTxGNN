@@ -33,7 +33,8 @@ predicted_indications: ["acute encephalopathy with biphasic seizures and late re
 
 </div>
 
-# エスゾピクロン：不眠症から入眠・睡眠維持障害へ
+## エスゾピクロン：不眠症から入眠・睡眠維持障害へ
+{: .text-alpha }
 
 ## 一言要約
 

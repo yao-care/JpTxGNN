@@ -33,7 +33,8 @@ predicted_indications: ["malignant hypertensive renal disease", "pulmonary hyper
 
 </div>
 
-# ビソプロロール：高血圧・狭心症から悪性腎血管性高血圧へ
+## ビソプロロール：高血圧・狭心症から悪性腎血管性高血圧へ
+{: .text-alpha }
 
 ## 一言要約
 

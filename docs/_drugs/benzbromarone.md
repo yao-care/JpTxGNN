@@ -33,7 +33,8 @@ description: "Benzbromarone：予測新適応症は腎性低尿酸血症 (Hypour
 
 </div>
 
-# ベンズブロマロン：痛風から腎性低尿酸血症へ
+## ベンズブロマロン：痛風から腎性低尿酸血症へ
+{: .text-alpha }
 
 ## 一言要約
 

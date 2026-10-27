@@ -33,7 +33,8 @@ predicted_indications: ["moderate multiminicore disease with hand involvement", 
 
 </div>
 
-# ダントロレン：悪性高熱症から悪性高熱症感受性へ
+## ダントロレン：悪性高熱症から悪性高熱症感受性へ
+{: .text-alpha }
 
 ## 一言要約
 

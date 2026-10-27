@@ -31,7 +31,8 @@ description: "Vitamin E：予測新適応症は先天性ビリルビン代謝異
 
 </div>
 
-# Vitamin E：ビタミン欠乏症からビリルビン代謝疾患まで
+## Vitamin E：ビタミン欠乏症からビリルビン代謝疾患まで
+{: .text-alpha }
 
 ## 一言まとめ
 

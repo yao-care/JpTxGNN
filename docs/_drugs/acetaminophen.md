@@ -33,7 +33,8 @@ predicted_indications: ["trigeminal autonomic cephalalgia", "atrophoderma vermic
 
 </div>
 
-# アセトアミノフェン：鎮痛薬・解熱薬から片頭痛（脳幹性前兆を伴う片頭痛）へ
+## アセトアミノフェン：鎮痛薬・解熱薬から片頭痛（脳幹性前兆を伴う片頭痛）へ
+{: .text-alpha }
 
 ## 一言要約
 

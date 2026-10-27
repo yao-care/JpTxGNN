@@ -33,7 +33,8 @@ predicted_indications: ["punctate epithelial keratoconjunctivitis", "hyperamylas
 
 </div>
 
-# レボフロキサシン：細菌感染症から点状表層角結膜炎へ
+## レボフロキサシン：細菌感染症から点状表層角結膜炎へ
+{: .text-alpha }
 
 ## 一言要約
 

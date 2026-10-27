@@ -33,7 +33,8 @@ predicted_indications: ["choroideremia"]
 
 </div>
 
-# イピリムマブ：転移性悪性黒色腫から脈絡膜欠損症へ
+## イピリムマブ：転移性悪性黒色腫から脈絡膜欠損症へ
+{: .text-alpha }
 
 ## 一言要約
 

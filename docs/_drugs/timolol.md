@@ -33,7 +33,8 @@ predicted_indications: ["malignant hypertensive renal disease", "pulmonary hyper
 
 </div>
 
-# チモロール：緑内障（β遮断薬）から原発性遺伝性緑内障へ
+## チモロール：緑内障（β遮断薬）から原発性遺伝性緑内障へ
+{: .text-alpha }
 
 ## 一言要約
 

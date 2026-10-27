@@ -33,7 +33,8 @@ predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "be
 
 </div>
 
-# フェニトイン：抗てんかん薬から三叉神経腫瘍へ
+## フェニトイン：抗てんかん薬から三叉神経腫瘍へ
+{: .text-alpha }
 
 ## 一言要約
 

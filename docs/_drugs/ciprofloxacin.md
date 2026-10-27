@@ -33,7 +33,8 @@ predicted_indications: ["diffuse scleroderma", "hyperamylasemia", "polyclonal hy
 
 </div>
 
-# シプロフロキサシン：細菌感染症からびまん性強皮症へ
+## シプロフロキサシン：細菌感染症からびまん性強皮症へ
+{: .text-alpha }
 
 ## 一言要約
 

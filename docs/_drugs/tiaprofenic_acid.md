@@ -32,7 +32,8 @@ last_modified_at: 2026-09-17
 
 </div>
 
-# Tiaprofenic Acid：消炎鎮痛薬から希少骨系統疾患への探索
+## Tiaprofenic Acid：消炎鎮痛薬から希少骨系統疾患への探索
+{: .text-alpha }
 
 ## 一言まとめ
 

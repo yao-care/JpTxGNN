@@ -33,7 +33,8 @@ predicted_indications: ["rheumatoid arthritis", "brachydactyly-syndactyly syndro
 
 </div>
 
-# ボセンタン：肺動脈性肺高血圧症・全身性強皮症から関節リウマチへ
+## ボセンタン：肺動脈性肺高血圧症・全身性強皮症から関節リウマチへ
+{: .text-alpha }
 
 ## 一言要約
 

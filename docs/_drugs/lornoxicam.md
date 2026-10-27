@@ -33,7 +33,8 @@ predicted_indications: ["migraine with or without aura, susceptibility to", "mig
 
 </div>
 
-# ロルノキシカム：関節リウマチから片頭痛へ（主要な新規候補）
+## ロルノキシカム：関節リウマチから片頭痛へ（主要な新規候補）
+{: .text-alpha }
 
 ## 一言要約
 

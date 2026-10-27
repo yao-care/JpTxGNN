@@ -33,7 +33,8 @@ predicted_indications: ["migraine with or without aura, susceptibility to", "mig
 
 </div>
 
-# ザルトプロフェン：関節リウマチから関節リウマチ（既存適応の再確認）へ
+## ザルトプロフェン：関節リウマチから関節リウマチ（既存適応の再確認）へ
+{: .text-alpha }
 
 ## 一言要約
 

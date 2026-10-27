@@ -33,7 +33,8 @@ predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia
 
 </div>
 
-# デュロキセチン：抗うつ薬（SNRI）から乳児良性発作性斜頸へ
+## デュロキセチン：抗うつ薬（SNRI）から乳児良性発作性斜頸へ
+{: .text-alpha }
 
 ## 一言要約
 
