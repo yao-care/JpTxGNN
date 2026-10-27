@@ -658,6 +658,26 @@ def deduplicate_news(news_items: list[dict]) -> list[dict]:
     return merged
 
 
+_NO_SPACE_SCRIPT = re.compile(r"[\u0e00-\u0e7f\u3040-\u30ff\u3400-\u9fff\uac00-\ud7af\uf900-\ufaff]")
+
+
+def local_keywords(kw) -> list:
+    """keywords dict 裡 en 以外的語言（zh、ja、pt…）都算在地關鍵字。
+    2026-10-27 前只讀 zh，Br 的 pt、Jp 的 ja 關鍵字從來沒比對過。"""
+    if not isinstance(kw, dict):
+        return []
+    return [k for lang, v in kw.items() if lang != "en" for k in (v or []) if isinstance(k, str) and k.strip()]
+
+
+def local_hit(kw: str, title: str, summary: str) -> bool:
+    """中日韓泰文照原樣子字串比對；拼音文字要整詞、不分大小寫、至少 4 字（避免 TAM 這類品牌縮寫撞到一般詞）。"""
+    if _NO_SPACE_SCRIPT.search(kw):
+        return kw in title or kw in summary
+    if len(kw) < 4:
+        return False
+    return re.search(r"(?<!\w)" + re.escape(kw) + r"(?!\w)", f"{title} {summary}", re.I) is not None
+
+
 def match_keywords(news_items: list[dict], keywords: dict) -> list[dict]:
     """對新聞進行關鍵字匹配"""
     drugs = keywords.get("drugs", [])
@@ -696,10 +716,10 @@ def match_keywords(news_items: list[dict], keywords: dict) -> list[dict]:
                     })
                     break  # 同一藥物只記錄一次
 
-            # 中文關鍵字
-            zh_keywords = drug_keywords.get("zh", []) if isinstance(drug_keywords, dict) else []
+            # 在地關鍵字
+            zh_keywords = local_keywords(drug_keywords)
             for kw in zh_keywords:
-                if kw in item["title"] or kw in item.get("summary", ""):
+                if local_hit(kw, item["title"], item.get("summary", "")):
                     # 確保沒有重複
                     if not any(m["slug"] == drug_slug for m in matches):
                         matches.append({
@@ -725,7 +745,7 @@ def match_keywords(news_items: list[dict], keywords: dict) -> list[dict]:
             ind_keywords = ind.get("keywords", [])
             if isinstance(ind_keywords, dict):
                 ind_en_keywords = ind_keywords.get("en", [])
-                ind_zh_keywords = ind_keywords.get("zh", [])
+                ind_zh_keywords = local_keywords(ind_keywords)
             else:
                 ind_en_keywords = ind_keywords if isinstance(ind_keywords, list) else []
                 ind_zh_keywords = []
@@ -741,9 +761,9 @@ def match_keywords(news_items: list[dict], keywords: dict) -> list[dict]:
                     })
                     break
 
-            # 中文關鍵字
+            # 在地關鍵字
             for kw in ind_zh_keywords:
-                if kw in item["title"] or kw in item.get("summary", ""):
+                if local_hit(kw, item["title"], item.get("summary", "")):
                     # 確保同一關鍵字沒有重複（避免 "感冒" 同時出現在 "common cold" 和 "感冒" 兩個條目）
                     if not any(m.get("keyword") == kw and m["type"] == "indication" for m in matches):
                         matches.append({
@@ -819,6 +839,7 @@ def generate_news_pages(matched_news: list[dict], keywords: dict):
     # 產生所有藥物新聞頁面（191 個全部生成）
     drugs_map = {d["slug"]: d for d in keywords.get("drugs", [])}
     drug_count = 0
+    back_links = {}  # 藥物頁網址 -> [{url, title, count}]
 
     for drug in keywords.get("drugs", []):
         slug = drug["slug"]
@@ -826,12 +847,23 @@ def generate_news_pages(matched_news: list[dict], keywords: dict):
         drug_detail = drugs_detail_map.get(str(slug).lower(), {})
         drug_search = search_index_map.get(slug, {})
         news_items = drug_news.get(slug, [])  # 可能為空
-        generate_drug_news_page(slug, drug_info, drug_detail, drug_search, news_items)
+        title = generate_drug_news_page(slug, drug_info, drug_detail, drug_search, news_items)
         drug_count += 1
+        if news_items and drug_url(slug):
+            back_links.setdefault(drug_url(slug), []).append({"url": f"/news/{slug}/", "title": title, "count": len(news_items)})
 
     # 產生適應症新聞頁面（只有匹配到新聞的）
     for name, items in indication_news.items():
-        generate_indication_news_page(name, items, keywords)
+        ind_slug, title, rel = generate_indication_news_page(name, items, keywords)
+        for s in sorted(rel):
+            if drug_url(s):
+                back_links.setdefault(drug_url(s), []).append({"url": f"/news/{ind_slug}/", "title": title, "count": len(items)})
+
+    # 2026-10-27：藥物頁「相關新聞」回連，docs/_includes/footer_custom.html 讀這份；只收有新聞的頁、只收可收錄的藥物頁
+    for u in back_links:
+        back_links[u] = sorted(back_links[u], key=lambda x: -x["count"])[:10]
+    (DOCS_DIR / "_data").mkdir(parents=True, exist_ok=True)
+    save_json(dict(sorted(back_links.items())), DOCS_DIR / "_data" / "drug_news.json")
 
     print(f"  產生頁面: {drug_count} 藥物 + {len(indication_news)} 適應症")
 
@@ -1000,6 +1032,7 @@ permalink: /news/{slug}/
     output_path = NEWS_COLLECTION_DIR / f"{slug}.md"
     with open(output_path, "w", encoding="utf-8") as f:
         f.write(content)
+    return page_title
 
 
 def generate_indication_news_page(name: str, news_items: list[dict], keywords: dict):
@@ -1108,6 +1141,7 @@ permalink: /news/{slug}/
     output_path = NEWS_COLLECTION_DIR / f"{slug}.md"
     with open(output_path, "w", encoding="utf-8") as f:
         f.write(content)
+    return slug, page_title, related_drugs
 
 
 def _index_kw(k):
