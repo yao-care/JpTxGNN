@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="アーチスト錠２０ｍｇ（選） に関するニュースは？">
-<strong>アーチスト錠２０ｍｇ（選）</strong> には現在 <strong>10 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
+<strong>アーチスト錠２０ｍｇ（選）</strong> には現在 <strong>13 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,23 @@ last_modified_at: 2026-10-27
 <p><a href="{{ '/drugs/carvedilol/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（10 件）
+## 関連ニュース（13 件）
+
+### [2型糖尿病患者で肥満関連がんの罹患率が増加｜ニュース](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JbXQ4MXk1Q1RFZWViLWItcUw1NnhMMVlod1VWYm9tMEJqREVpOEQ0MVcyNlB0ZC0zT2Z4b1ZEaldueDF0dXJnSVV3MDl4Rk5HSnhmR3VHanRVSXhmWkFTTE8tOHNRNkVp?oc=5)
+
+2026-10-27 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">2型糖尿病</span>
+
+出典: [保健指導リソースガイド](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JbXQ4MXk1Q1RFZWViLWItcUw1NnhMMVlod1VWYm9tMEJqREVpOEQ0MVcyNlB0ZC0zT2Z4b1ZEaldueDF0dXJnSVV3MDl4Rk5HSnhmR3VHanRVSXhmWkFTTE8tOHNRNkVp?oc=5)
+
+---
+
+### [消化器がんへのオキサリプラチン、減らしても有効性に影響はない？／メタ解析｜CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UTl80OGZ4U2ZnQjlTNXFmLW5UNGx1UWc0R2ttcUJiOGNyZEhNaVJLM0Myc2hXTC16dWphbkFxSkI3SzhfbWk1Ty14SEVvZ2JqWDJkZFo4RVJIZktpQmRF?oc=5)
+
+2026-10-27 <span class="news-indication-tag">がん</span>
+
+出典: [CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UTl80OGZ4U2ZnQjlTNXFmLW5UNGx1UWc0R2ttcUJiOGNyZEhNaVJLM0Myc2hXTC16dWphbkFxSkI3SzhfbWk1Ty14SEVvZ2JqWDJkZFo4RVJIZktpQmRF?oc=5)
+
+---
 
 ### [膵臓がんにピロリ菌関係か 抗体の値高いほどリスク](https://news.google.com/rss/articles/CBMiS0FVX3lxTE53RDh5Ukl5d3dLR2VvUVMyS0VNcTY3YWgzMmVJNnZIcElfWVRCQ1JhbGhvUWRkMVZqLVVHYkZ5aDlhdldRa2dDVW0tOA?oc=5)
 
@@ -104,6 +120,14 @@ last_modified_at: 2026-10-27
 2026-10-22 <span class="news-indication-tag">癌</span>
 
 出典: [Laodong.vn](https://news.google.com/rss/articles/CBMitwFBVV95cUxQNkZSamJMUS04amcyT2JSWGFza1BOSW1FYkw3MF9NY1pzaDBNZGYzeWtPOVJvbTNZUERsT21FT3NzRmdIbW1KdmhuT1dVNzJuMnl6blE0Qzdua3l4bWlkQVFJZjByVjdGUTJSb29NTTVPNG94OUtqdHpBMHJWVnUtLTNja2xHLThnaXJZcW5PWHZrclJqOGMzalZaNjZsWlV3U0JGX1BoQy1Xck1ZcmxPT0s3ejZfNEE?oc=5)
+
+---
+
+### [2型糖尿病のリスクを高める6つの要因](https://news.google.com/rss/articles/CBMimAFBVV95cUxNdGEzV0hMUGlheGFYZ1hzM0VWS1FocGwwRnp1RXNGbDlQMmVCNTkxZ3BwcnBXeXl2N1VnUldtME5lazJRX2lqY2I2NksxMnhId3dKdl9BT1RNT19zQzRhWURuZ3JvWmMxdVRReHVXbXM4aXFUalQ5WmtycF82bHFhT3drMTk5VThuX0VjN1RfUVVMZk9YS0JLXw?oc=5)
+
+2026-10-22 <span class="news-indication-tag">心臓病</span> <span class="news-indication-tag">2型糖尿病</span>
+
+出典: [Laodong.vn](https://news.google.com/rss/articles/CBMimAFBVV95cUxNdGEzV0hMUGlheGFYZ1hzM0VWS1FocGwwRnp1RXNGbDlQMmVCNTkxZ3BwcnBXeXl2N1VnUldtME5lazJRX2lqY2I2NksxMnhId3dKdl9BT1RNT19zQzRhWURuZ3JvWmMxdVRReHVXbXM4aXFUalQ5WmtycF82bHFhT3drMTk5VThuX0VjN1RfUVVMZk9YS0JLXw?oc=5)
 
 ---
 

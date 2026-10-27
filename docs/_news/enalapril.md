@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="レニベース錠１０　１０ｍｇ（選） に関するニュースは？">
-<strong>レニベース錠１０　１０ｍｇ（選）</strong> には現在 <strong>12 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
+<strong>レニベース錠１０　１０ｍｇ（選）</strong> には現在 <strong>14 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -33,13 +33,29 @@ last_modified_at: 2026-10-27
 <p><a href="{{ '/drugs/enalapril/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（12 件）
+## 関連ニュース（14 件）
+
+### [2型糖尿病患者で肥満関連がんの罹患率が増加｜ニュース](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JbXQ4MXk1Q1RFZWViLWItcUw1NnhMMVlod1VWYm9tMEJqREVpOEQ0MVcyNlB0ZC0zT2Z4b1ZEaldueDF0dXJnSVV3MDl4Rk5HSnhmR3VHanRVSXhmWkFTTE8tOHNRNkVp?oc=5)
+
+2026-10-27 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">2型糖尿病</span>
+
+出典: [保健指導リソースガイド](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JbXQ4MXk1Q1RFZWViLWItcUw1NnhMMVlod1VWYm9tMEJqREVpOEQ0MVcyNlB0ZC0zT2Z4b1ZEaldueDF0dXJnSVV3MDl4Rk5HSnhmR3VHanRVSXhmWkFTTE8tOHNRNkVp?oc=5)
+
+---
 
 ### [九州大、心不全患者にIPSシートの移植手術へ　9月に保険適用後初(西日本新聞me)](https://news.yahoo.co.jp/articles/4d4084f2da345925d938ef85395a112acc342548?source=rss)
 
 2026-10-27 <span class="news-indication-tag">心不全</span>
 
 出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/4d4084f2da345925d938ef85395a112acc342548?source=rss)
+
+---
+
+### [消化器がんへのオキサリプラチン、減らしても有効性に影響はない？／メタ解析｜CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UTl80OGZ4U2ZnQjlTNXFmLW5UNGx1UWc0R2ttcUJiOGNyZEhNaVJLM0Myc2hXTC16dWphbkFxSkI3SzhfbWk1Ty14SEVvZ2JqWDJkZFo4RVJIZktpQmRF?oc=5)
+
+2026-10-27 <span class="news-indication-tag">がん</span>
+
+出典: [CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UTl80OGZ4U2ZnQjlTNXFmLW5UNGx1UWc0R2ttcUJiOGNyZEhNaVJLM0Myc2hXTC16dWphbkFxSkI3SzhfbWk1Ty14SEVvZ2JqWDJkZFo4RVJIZktpQmRF?oc=5)
 
 ---
 
@@ -115,11 +131,11 @@ last_modified_at: 2026-10-27
 
 ---
 
-### [患者・医師ともに負担少ない新技術　ｉＰＳ細胞で重症心不全の治療　実用化後初　患者女性は「すごく気持ちいい」(ABCニュース)](https://news.yahoo.co.jp/articles/2727b9b506289e8df8e6ad295fd6b9b627d63b50?source=rss)
+### [2型糖尿病のリスクを高める6つの要因](https://news.google.com/rss/articles/CBMimAFBVV95cUxNdGEzV0hMUGlheGFYZ1hzM0VWS1FocGwwRnp1RXNGbDlQMmVCNTkxZ3BwcnBXeXl2N1VnUldtME5lazJRX2lqY2I2NksxMnhId3dKdl9BT1RNT19zQzRhWURuZ3JvWmMxdVRReHVXbXM4aXFUalQ5WmtycF82bHFhT3drMTk5VThuX0VjN1RfUVVMZk9YS0JLXw?oc=5)
 
-2026-10-22 <span class="news-indication-tag">心不全</span>
+2026-10-22 <span class="news-indication-tag">心臓病</span> <span class="news-indication-tag">2型糖尿病</span>
 
-出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/2727b9b506289e8df8e6ad295fd6b9b627d63b50?source=rss)
+出典: [Laodong.vn](https://news.google.com/rss/articles/CBMimAFBVV95cUxNdGEzV0hMUGlheGFYZ1hzM0VWS1FocGwwRnp1RXNGbDlQMmVCNTkxZ3BwcnBXeXl2N1VnUldtME5lazJRX2lqY2I2NksxMnhId3dKdl9BT1RNT19zQzRhWURuZ3JvWmMxdVRReHVXbXM4aXFUalQ5WmtycF82bHFhT3drMTk5VThuX0VjN1RfUVVMZk9YS0JLXw?oc=5)
 
 ---
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="ハルナールＤ錠０．２ｍｇ（選） に関するニュースは？">
-<strong>ハルナールＤ錠０．２ｍｇ（選）</strong> には現在 <strong>2 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
+<strong>ハルナールＤ錠０．２ｍｇ（選）</strong> には現在 <strong>3 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,7 @@ last_modified_at: 2026-10-27
 <p><a href="{{ '/drugs/tamsulosin/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（2 件）
+## 関連ニュース（3 件）
 
 ### [9520のタンパクから真の原因へ：プロテオゲノミクス×因果推論で拓く虚血性心疾患の創薬](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kYVA0TEsyejJrRTRlQ2hxZER4dmpIZkJNamI5MDZ0UU5sLUh0UC1Wbkd6YUJoUUFHRUZYUHFYUGJua3Nvd05oMlJ1LUxEeWl0VWc?oc=5)
 
@@ -48,6 +48,14 @@ last_modified_at: 2026-10-27
 2026-10-24 <span class="news-indication-tag">心臓病</span>
 
 出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/7956278a7c18ca5a18b20ffd29cd2d193627aa9b?source=rss)
+
+---
+
+### [2型糖尿病のリスクを高める6つの要因](https://news.google.com/rss/articles/CBMimAFBVV95cUxNdGEzV0hMUGlheGFYZ1hzM0VWS1FocGwwRnp1RXNGbDlQMmVCNTkxZ3BwcnBXeXl2N1VnUldtME5lazJRX2lqY2I2NksxMnhId3dKdl9BT1RNT19zQzRhWURuZ3JvWmMxdVRReHVXbXM4aXFUalQ5WmtycF82bHFhT3drMTk5VThuX0VjN1RfUVVMZk9YS0JLXw?oc=5)
+
+2026-10-22 <span class="news-indication-tag">心臓病</span> <span class="news-indication-tag">2型糖尿病</span>
+
+出典: [Laodong.vn](https://news.google.com/rss/articles/CBMimAFBVV95cUxNdGEzV0hMUGlheGFYZ1hzM0VWS1FocGwwRnp1RXNGbDlQMmVCNTkxZ3BwcnBXeXl2N1VnUldtME5lazJRX2lqY2I2NksxMnhId3dKdl9BT1RNT19zQzRhWURuZ3JvWmMxdVRReHVXbXM4aXFUalQ5WmtycF82bHFhT3drMTk5VThuX0VjN1RfUVVMZk9YS0JLXw?oc=5)
 
 ---
 

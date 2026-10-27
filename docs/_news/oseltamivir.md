@@ -37,7 +37,7 @@ last_modified_at: 2026-10-27
 
 ### [ワクチン接種後にインフルエンザ感染した昨年 予防接種の適切なタイミングは？【医師が解説】](https://news.google.com/rss/articles/CBMickFVX3lxTE9KeEVWSGNrbVphWXRaVm00alJYaVVHbkpMbDhTd3ZDNzZrTlNXNU9mU3Fkdk9KbUQxUUx0RWxFY2UybUUxY2RvRmlpS1lfLVZIV3JSeTJ5QjBYbk9BNTNtaVNWWkZ0eTZZbENDeTRYRGpxQQ?oc=5)
 
-2026-10-26 <span class="news-indication-tag">インフルエンザ</span>
+2026-10-26 <span class="news-indication-tag">インフルエンザ</span> <span class="news-indication-tag">風邪</span>
 
 出典: [デイリースポーツ](https://news.google.com/rss/articles/CBMickFVX3lxTE9KeEVWSGNrbVphWXRaVm00alJYaVVHbkpMbDhTd3ZDNzZrTlNXNU9mU3Fkdk9KbUQxUUx0RWxFY2UybUUxY2RvRmlpS1lfLVZIV3JSeTJ5QjBYbk9BNTNtaVNWWkZ0eTZZbENDeTRYRGpxQQ?oc=5)
 

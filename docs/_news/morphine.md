@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」 に関するニュースは？">
-<strong>モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」</strong> には現在 <strong>8 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
+<strong>モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」</strong> には現在 <strong>11 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,23 @@ last_modified_at: 2026-10-27
 <p><a href="{{ '/drugs/morphine/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（8 件）
+## 関連ニュース（11 件）
+
+### [2型糖尿病患者で肥満関連がんの罹患率が増加｜ニュース](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JbXQ4MXk1Q1RFZWViLWItcUw1NnhMMVlod1VWYm9tMEJqREVpOEQ0MVcyNlB0ZC0zT2Z4b1ZEaldueDF0dXJnSVV3MDl4Rk5HSnhmR3VHanRVSXhmWkFTTE8tOHNRNkVp?oc=5)
+
+2026-10-27 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">2型糖尿病</span>
+
+出典: [保健指導リソースガイド](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JbXQ4MXk1Q1RFZWViLWItcUw1NnhMMVlod1VWYm9tMEJqREVpOEQ0MVcyNlB0ZC0zT2Z4b1ZEaldueDF0dXJnSVV3MDl4Rk5HSnhmR3VHanRVSXhmWkFTTE8tOHNRNkVp?oc=5)
+
+---
+
+### [消化器がんへのオキサリプラチン、減らしても有効性に影響はない？／メタ解析｜CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UTl80OGZ4U2ZnQjlTNXFmLW5UNGx1UWc0R2ttcUJiOGNyZEhNaVJLM0Myc2hXTC16dWphbkFxSkI3SzhfbWk1Ty14SEVvZ2JqWDJkZFo4RVJIZktpQmRF?oc=5)
+
+2026-10-27 <span class="news-indication-tag">がん</span>
+
+出典: [CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1UTl80OGZ4U2ZnQjlTNXFmLW5UNGx1UWc0R2ttcUJiOGNyZEhNaVJLM0Myc2hXTC16dWphbkFxSkI3SzhfbWk1Ty14SEVvZ2JqWDJkZFo4RVJIZktpQmRF?oc=5)
+
+---
 
 ### [膵臓がんにピロリ菌関係か 抗体の値高いほどリスク](https://news.google.com/rss/articles/CBMiS0FVX3lxTE53RDh5Ukl5d3dLR2VvUVMyS0VNcTY3YWgzMmVJNnZIcElfWVRCQ1JhbGhvUWRkMVZqLVVHYkZ5aDlhdldRa2dDVW0tOA?oc=5)
 
@@ -48,6 +64,14 @@ last_modified_at: 2026-10-27
 2026-10-26 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
 
 出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBjYzd0TjNYZE5pNWV4dkZMNmdLZld4SmpGcWg5MWN1d2RwVi05Rk5RLXdyQ2xjZWFGRmN2V1B3QjV4d1ZfOG1nelBpbHBZdGZ2UDZQX1hSOGZSMzNBeGZ1RU0zbFhLZ01reEl5WWdrcmFzQ0tFYWE5MTVucExRT2s?oc=5)
+
+---
+
+### [ワクチン接種後にインフルエンザ感染した昨年 予防接種の適切なタイミングは？【医師が解説】](https://news.google.com/rss/articles/CBMickFVX3lxTE9KeEVWSGNrbVphWXRaVm00alJYaVVHbkpMbDhTd3ZDNzZrTlNXNU9mU3Fkdk9KbUQxUUx0RWxFY2UybUUxY2RvRmlpS1lfLVZIV3JSeTJ5QjBYbk9BNTNtaVNWWkZ0eTZZbENDeTRYRGpxQQ?oc=5)
+
+2026-10-26 <span class="news-indication-tag">インフルエンザ</span> <span class="news-indication-tag">風邪</span>
+
+出典: [デイリースポーツ](https://news.google.com/rss/articles/CBMickFVX3lxTE9KeEVWSGNrbVphWXRaVm00alJYaVVHbkpMbDhTd3ZDNzZrTlNXNU9mU3Fkdk9KbUQxUUx0RWxFY2UybUUxY2RvRmlpS1lfLVZIV3JSeTJ5QjBYbk9BNTNtaVNWWkZ0eTZZbENDeTRYRGpxQQ?oc=5)
 
 ---
 
