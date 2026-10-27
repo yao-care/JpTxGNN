@@ -14,7 +14,7 @@ permalink: /news/nifedipine/
 ---
 
 <p class="key-answer" data-question="アダラートＣＲ錠４０ｍｇ（選） に関するニュースは？">
-<strong>アダラートＣＲ錠４０ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 3 件です。
+<strong>アダラートＣＲ錠４０ｍｇ（選）</strong> には現在 <strong>2 件</strong>の関連ニュースがあり、予測適応症は 3 件です。
 </p>
 
 <div class="key-takeaway">
@@ -34,9 +34,23 @@ permalink: /news/nifedipine/
 <p><a href="{{ '/drugs/nifedipine/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（0 件）
+## 関連ニュース（2 件）
 
-*現在、関連ニュースはありません。この医薬品に言及するニュースが出ると、自動的に収集されここに表示されます。*
+### [9520のタンパクから真の原因へ：プロテオゲノミクス×因果推論で拓く虚血性心疾患の創薬](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kYVA0TEsyejJrRTRlQ2hxZER4dmpIZkJNamI5MDZ0UU5sLUh0UC1Wbkd6YUJoUUFHRUZYUHFYUGJua3Nvd05oMlJ1LUxEeWl0VWc?oc=5)
+
+2026-10-25 <span class="news-indication-tag">心疾患</span>
+
+出典: [m3.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kYVA0TEsyejJrRTRlQ2hxZER4dmpIZkJNamI5MDZ0UU5sLUh0UC1Wbkd6YUJoUUFHRUZYUHFYUGJua3Nvd05oMlJ1LUxEeWl0VWc?oc=5)
+
+---
+
+### [お茶は飲み方次第、心臓の健康に良くも悪くも　紅茶の方が緑茶よりも効果？(CNN.co.jp)](https://news.yahoo.co.jp/articles/7956278a7c18ca5a18b20ffd29cd2d193627aa9b?source=rss)
+
+2026-10-24 <span class="news-indication-tag">心臓病</span>
+
+出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/7956278a7c18ca5a18b20ffd29cd2d193627aa9b?source=rss)
+
+---
 
 
 <div class="disclaimer">

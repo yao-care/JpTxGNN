@@ -14,7 +14,7 @@ permalink: /news/glimepiride/
 ---
 
 <p class="key-answer" data-question="アマリール０．５ｍｇ錠（選） に関するニュースは？">
-<strong>アマリール０．５ｍｇ錠（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
+<strong>アマリール０．５ｍｇ錠（選）</strong> には現在 <strong>4 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -32,9 +32,39 @@ permalink: /news/glimepiride/
 <p><a href="{{ '/drugs/glimepiride/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（0 件）
+## 関連ニュース（4 件）
 
-*現在、関連ニュースはありません。この医薬品に言及するニュースが出ると、自動的に収集されここに表示されます。*
+### [「血糖値対策」食後に効果的な運動はどっち？ 「ストレッチや軽めの運動」と「 筋トレや重めの運動」](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBjUnk0Z0pqSnN3YUo3UkFOWkt3NDk3Vjc4Y2tpYngzWE1KRHVJN21SOV9QeWMzZDloVFJqbm1wWVM1TGFaU1V1TGMxVlJ3Zw?oc=5)
+
+2026-10-27 <span class="news-indication-tag">2型糖尿病</span>
+
+出典: [FYTTE](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBjUnk0Z0pqSnN3YUo3UkFOWkt3NDk3Vjc4Y2tpYngzWE1KRHVJN21SOV9QeWMzZDloVFJqbm1wWVM1TGFaU1V1TGMxVlJ3Zw?oc=5)
+
+---
+
+### [【2026年最新・徹底調査】2型糖尿病は初期なら治る？完治・治癒・寛解の違いは？HbA1cが正常化して薬をやめても大丈夫？Dライフが寛解条件・再発・治療継続を調査](https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xOFZrY2VoeTY4ajJOYWtpejdra05NejltaElCSWstbXhhQkFWRzNRYi0ySXV6WU54aXo1SlZhZVF0ZzBvcWN1TUJUcnBsbnlCbFkw?oc=5)
+
+2026-10-27 <span class="news-indication-tag">2型糖尿病</span>
+
+出典: [ドリームニュース](https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xOFZrY2VoeTY4ajJOYWtpejdra05NejltaElCSWstbXhhQkFWRzNRYi0ySXV6WU54aXo1SlZhZVF0ZzBvcWN1TUJUcnBsbnlCbFkw?oc=5)
+
+---
+
+### [中年期からの筋トレの継続は2型糖尿病発症リスクの低下と関係する：話題の論文 拾い読み！：日経Gooday（グッデイ）](https://news.google.com/rss/articles/CBMilAFBVV95cUxOMnJQMHNiOXBRSm90bmdXdmtaeDJ1WHFpWFhVdm1KMnVhckN2V1A3dkFSVDljRGNGaUxvQi1HdVppMTZLRlJYeHpmdk1LbWZZTmR3Z1ktYnB0b0dCenVPZC1DM0Nkd050ZGNRMXloT3pvR1JvbnJPN044bXRhSkgtWEZqNDdKdXZVcFlTTW5Qc1JpVkhZ?oc=5)
+
+2026-10-25 <span class="news-indication-tag">2型糖尿病</span>
+
+出典: [日経Gooday](https://news.google.com/rss/articles/CBMilAFBVV95cUxOMnJQMHNiOXBRSm90bmdXdmtaeDJ1WHFpWFhVdm1KMnVhckN2V1A3dkFSVDljRGNGaUxvQi1HdVppMTZLRlJYeHpmdk1LbWZZTmR3Z1ktYnB0b0dCenVPZC1DM0Nkd050ZGNRMXloT3pvR1JvbnJPN044bXRhSkgtWEZqNDdKdXZVcFlTTW5Qc1JpVkhZ?oc=5)
+
+---
+
+### [2型糖尿病のリスクを高める6つの要因](https://news.google.com/rss/articles/CBMimAFBVV95cUxNdGEzV0hMUGlheGFYZ1hzM0VWS1FocGwwRnp1RXNGbDlQMmVCNTkxZ3BwcnBXeXl2N1VnUldtME5lazJRX2lqY2I2NksxMnhId3dKdl9BT1RNT19zQzRhWURuZ3JvWmMxdVRReHVXbXM4aXFUalQ5WmtycF82bHFhT3drMTk5VThuX0VjN1RfUVVMZk9YS0JLXw?oc=5)
+
+2026-10-22 <span class="news-indication-tag">2型糖尿病</span>
+
+出典: [Laodong.vn](https://news.google.com/rss/articles/CBMimAFBVV95cUxNdGEzV0hMUGlheGFYZ1hzM0VWS1FocGwwRnp1RXNGbDlQMmVCNTkxZ3BwcnBXeXl2N1VnUldtME5lazJRX2lqY2I2NksxMnhId3dKdl9BT1RNT19zQzRhWURuZ3JvWmMxdVRReHVXbXM4aXFUalQ5WmtycF82bHFhT3drMTk5VThuX0VjN1RfUVVMZk9YS0JLXw?oc=5)
+
+---
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/oseltamivir/
 ---
 
 <p class="key-answer" data-question="タミフルドライシロップ３％（選） に関するニュースは？">
-<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
+<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>3 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -32,9 +32,31 @@ permalink: /news/oseltamivir/
 <p><a href="{{ '/drugs/oseltamivir/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（0 件）
+## 関連ニュース（3 件）
 
-*現在、関連ニュースはありません。この医薬品に言及するニュースが出ると、自動的に収集されここに表示されます。*
+### [ワクチン接種後にインフルエンザ感染した昨年 予防接種の適切なタイミングは？【医師が解説】](https://news.google.com/rss/articles/CBMickFVX3lxTE9KeEVWSGNrbVphWXRaVm00alJYaVVHbkpMbDhTd3ZDNzZrTlNXNU9mU3Fkdk9KbUQxUUx0RWxFY2UybUUxY2RvRmlpS1lfLVZIV3JSeTJ5QjBYbk9BNTNtaVNWWkZ0eTZZbENDeTRYRGpxQQ?oc=5)
+
+2026-10-26 <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [デイリースポーツ](https://news.google.com/rss/articles/CBMickFVX3lxTE9KeEVWSGNrbVphWXRaVm00alJYaVVHbkpMbDhTd3ZDNzZrTlNXNU9mU3Fkdk9KbUQxUUx0RWxFY2UybUUxY2RvRmlpS1lfLVZIV3JSeTJ5QjBYbk9BNTNtaVNWWkZ0eTZZbENDeTRYRGpxQQ?oc=5)
+
+---
+
+### [「1回のくしゃみで約4万個の飛沫」インフルエンザなど流行しやすい冬を前に 看護師による予防講座 大分](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9pY19uRHBWa0hXOUc2TzliZGRWOER2Q21ia1VZNkg0dkxXNkNUT1o1TmdPSXNJYUdpY1pOeXNLbER0a1AtR1VDZVpzLU45Zw?oc=5)
+
+2026-10-23 <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [FNNプライムオンライン](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9pY19uRHBWa0hXOUc2TzliZGRWOER2Q21ia1VZNkg0dkxXNkNUT1o1TmdPSXNJYUdpY1pOeXNLbER0a1AtR1VDZVpzLU45Zw?oc=5)
+
+---
+
+### [季節性インフルエンザがピークに達し、高齢者、基礎疾患のある人は注意が必要](https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ1lRTGF6MjBLSEFRUDNpdzhTRUFMUWdMcVBNN1p4Ny0yOWl2UERqaXMzUFFiby1XbXF2VlhMNDU5LTZ3WHRiUkVqWXM5aXgzdGJhcXdKdXF0dmhYWWtua0F5QXNtQnVlT1B2OXo3akpqWi04Wk9vNVp5ZVJqc3lpdGlqeXF6dW1Vem9RdmdMQUctaC05V2Q5akN3bnU5alFwQ1U0eThOQQ?oc=5)
+
+2026-10-22 <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [Laodong.vn](https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ1lRTGF6MjBLSEFRUDNpdzhTRUFMUWdMcVBNN1p4Ny0yOWl2UERqaXMzUFFiby1XbXF2VlhMNDU5LTZ3WHRiUkVqWXM5aXgzdGJhcXdKdXF0dmhYWWtua0F5QXNtQnVlT1B2OXo3akpqWi04Wk9vNVp5ZVJqc3lpdGlqeXF6dW1Vem9RdmdMQUctaC05V2Q5akN3bnU5alFwQ1U0eThOQQ?oc=5)
+
+---
 
 
 <div class="disclaimer">

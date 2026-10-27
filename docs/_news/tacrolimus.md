@@ -14,7 +14,7 @@ permalink: /news/tacrolimus/
 ---
 
 <p class="key-answer" data-question="プログラフカプセル１ｍｇ（選） に関するニュースは？">
-<strong>プログラフカプセル１ｍｇ（選）</strong> には現在 <strong>0 件</strong>の関連ニュースがあり、予測適応症は 7 件です。
+<strong>プログラフカプセル１ｍｇ（選）</strong> には現在 <strong>1 件</strong>の関連ニュースがあり、予測適応症は 7 件です。
 </p>
 
 <div class="key-takeaway">
@@ -38,9 +38,15 @@ permalink: /news/tacrolimus/
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（0 件）
+## 関連ニュース（1 件）
 
-*現在、関連ニュースはありません。この医薬品に言及するニュースが出ると、自動的に収集されここに表示されます。*
+### [全国30施設84名の医療者が乾癬患者さんへエール 「世界乾癬デー2026 ドクターからの応援メッセージ」動画を公開 - PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE0xUUMtUTBsX1dpQkdSdzVEWkhIWmZpUTktRUphTjBPV1NJVUQ2OWdEV0lVaDRQNUxnWm9vaF9iOFVLeURTRDdNVmJqc2R3TU5IQnJqM2VMdkVSOHVzVkRvUjgyT2Voenl5WXc?oc=5)
+
+2026-10-26 <span class="news-indication-tag">乾癬</span>
+
+出典: [PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE0xUUMtUTBsX1dpQkdSdzVEWkhIWmZpUTktRUphTjBPV1NJVUQ2OWdEV0lVaDRQNUxnWm9vaF9iOFVLeURTRDdNVmJqc2R3TU5IQnJqM2VMdkVSOHVzVkRvUjgyT2Voenl5WXc?oc=5)
+
+---
 
 
 <div class="disclaimer">

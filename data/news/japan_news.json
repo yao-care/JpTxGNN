@@ -1,19 +1,67 @@
 {
   "source": "japan_news",
-  "fetched_at": "2026-10-27T02:54:13.997347+00:00",
-  "total_fetched": 165,
-  "unique_count": 165,
-  "health_related_count": 72,
+  "fetched_at": "2026-10-27T05:57:39.244576+00:00",
+  "total_fetched": 169,
+  "unique_count": 169,
+  "health_related_count": 75,
   "news": [
     {
-      "id": "fd12745fb56a",
-      "title": "ソネングラス「EN（エン）」竹細工からこぼれる灯りが温かく美しい行燈(家庭画報.com)",
-      "published": "2026-10-27T02:52:54+00:00",
-      "summary": "ソーラーライトに特化した南アフリカの照明ブランドと、静岡の伝統工芸「駿河竹千筋細工」の職人が協同開発した「EN」（高さ18×幅9.5センチ、1万9800円）。職人が直径1ミリほどの細く丸い竹ひごを組み",
+      "id": "95a33e89862d",
+      "title": "2025年のエイズ予防指針の改正について - 国立健康危機管理研究機構",
+      "published": "2026-10-27T05:44:33+00:00",
+      "summary": "2025年のエイズ予防指針の改正について&nbsp;&nbsp;国立健康危機管理研究機構HIV治療「成熟段階にある」 満屋裕明・国立国際医療研究所長&nbsp;&nbsp;日本経済新聞＜射程＞エイズ対策の現在地&nbsp;&nbsp;熊本日日新聞社",
+      "sources": [
+        {
+          "name": "国立健康危機管理研究機構",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRXlteFVTNjJPYWMtMEdsa0pfZmt1c1pTZXItOW9FYThLN0VxTF9FQmo0a3ZwdG03ZGpvTGpQVnZQOFBmRkZwbFpqdnB2OEljY185ejZSUjlHckM5VllsOUlFSzhTTXUxQlNXUE5MUi00eWE5RTdkMlppZjE1QW44Wm5R?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3b055d9e5481",
+      "title": "外国生まれ結核患者から分離されたMycobacterium orygisの国内初報告事例―神戸市 - 国立健康危機管理研究機構",
+      "published": "2026-10-27T05:44:26+00:00",
+      "summary": "外国生まれ結核患者から分離されたMycobacterium orygisの国内初報告事例―神戸市&nbsp;&nbsp;国立健康危機管理研究機構",
+      "sources": [
+        {
+          "name": "国立健康危機管理研究機構",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSUlmUEJuYS1jTVV1Q19PQ1VQcTdjazlmYjl0Wmsyem50ZEVQYzRhczVXZl8yUUVMWTZiLV9DYy11RnZVS1NKbjFVVHRxYnRDUEozQm5mMGxxM2xBZmxFRUR0SWxpdGNpbXFsUEQ2cENzRHFTMHJDaWttRU9FMkQ1Unh3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "b4ef1520e5ed",
+      "title": "九州大、心不全患者にIPSシートの移植手術へ　9月に保険適用後初(西日本新聞me)",
+      "published": "2026-10-27T05:35:06+00:00",
+      "summary": "九州大は26日、人工多能性幹細胞（iPS細胞）から作った心筋細胞シート「リハート」を重症の心不全患者に移植する手術を近く行うと発表した。リハートは9月に公的医療保険の適用となったばかり。同大では202",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/4d4084f2da345925d938ef85395a112acc342548?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "1ab0b43c838f",
+      "title": "【漫画】薬が苦手なのに…処方された漢方が「1回6錠」！？　耳を疑う量に「これはかわいそう」「分かる」【作者取材】(オトナンサー)",
+      "published": "2026-10-27T05:15:00+00:00",
+      "summary": "かけだしブロガーのぴよこづちさんの漫画「おくすり飲めない」と「おくすり飲めない2」が、Xで話題となっています。【漫画】本編を読む 作者は薬を飲むことがとても苦手です。あるとき、病院で漢方の錠剤を処方さ",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/b3cdfccbd7b4c81141edb07781e459488d461f36?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/85d4ed5a4102df2f6cbf372e48f8337fa426ee25?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "d4380bbcd985",
+      "title": "インタビュー相手がまさか･･･　ディープフェイクにAIを悪用　見抜くのもAI？　AI技術開発の社長が教える身を守るポイントは【岩本計介ニュースの現場から】(ABCニュース)",
+      "published": "2026-10-27T03:00:00+00:00",
+      "summary": "ＡＩがさまざまな場面で活用され便利になる一方で、悪用されるケースが後を絶ちません。最近では人物になりすます、いわゆる「ディープフェイク」を利用した詐欺などの犯罪行為が増えています。学童の『小4の壁』解",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/d538658e441f755fba2864c314e78caa70e65e2d?source=rss"
         }
       ]
     },
@@ -30,14 +78,14 @@
       ]
     },
     {
-      "id": "3c0bf4345a37",
-      "title": "49歳女性が昔読んだ本を開いたら……「ギャーだれか見てっ!!!!」　“驚きの収穫”に「激アツすぎる」「私がそこに挟みました!!」(ねとらぼ)",
-      "published": "2026-10-27T02:45:55+00:00",
-      "summary": "昔に読んだ本をあらためて開いてみたら……。まさかの大発見がThreadsで「ラッキーですね」「得した気分になる」と話題です。投稿は記事執筆時点で約18万回表示され、約1万7000件の“いいね”を獲得し",
+      "id": "55ad087b0bd6",
+      "title": "「血糖値対策」食後に効果的な運動はどっち？ 「ストレッチや軽めの運動」と「 筋トレや重めの運動」 - FYTTE",
+      "published": "2026-10-27T02:00:14+00:00",
+      "summary": "「血糖値対策」食後に効果的な運動はどっち？ 「ストレッチや軽めの運動」と「 筋トレや重めの運動」&nbsp;&nbsp;FYTTE中年期からの筋トレの継続は2型糖尿病発症リスクの低下と関係する&nbsp;&nbsp;日経Gooday",
       "sources": [
         {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/89c38f9812a3984d6f6d7f738468b718b1db3616?source=rss"
+          "name": "FYTTE",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBjUnk0Z0pqSnN3YUo3UkFOWkt3NDk3Vjc4Y2tpYngzWE1KRHVJN21SOV9QeWMzZDloVFJqbm1wWVM1TGFaU1V1TGMxVlJ3Zw?oc=5"
         }
       ]
     },
@@ -102,6 +150,18 @@
       ]
     },
     {
+      "id": "8000e903cdf4",
+      "title": "食事に気を付けても「コレステロール値」高い…数値上がる“まさかの原因”とは【糖尿病専門医が解説】 - オトナンサー",
+      "published": "2026-10-26T23:04:57+00:00",
+      "summary": "食事に気を付けても「コレステロール値」高い…数値上がる“まさかの原因”とは【糖尿病専門医が解説】&nbsp;&nbsp;オトナンサー食事に気を付けても「コレステロール値」高い…数値上がる“まさかの原因”とは【糖尿病専門医が解説】（オトナンサー）&nbsp;&nbsp;Yahoo!ニュース「LDLコレステロールが減らない」「卵はやはり1日1個まで？」名医が回答！&nbsp;&nbsp;日経Gooday",
+      "sources": [
+        {
+          "name": "オトナンサー",
+          "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9FaGNkNmlhem9hOVNvZWVUVzhVb2Q0XzRQXzZJYkdINFN3ekpnc2dWdjBucWJobkdJeUtTMW1fby1zNGQ2NjZPcEJR?oc=5"
+        }
+      ]
+    },
+    {
       "id": "9f6f1a9f5671",
       "title": "農業用ロボットもっと身近に　高齢化による担い手不足の切り札　工学研究科・藤永拓矢助教　明解！大阪公立大ゼミ(40)(産経新聞)",
       "published": "2026-10-26T22:59:45+00:00",
@@ -110,18 +170,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/ec866545d64d07563f2998b878aeb1f6c26e43e6?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "dc073de2a25c",
-      "title": "（1）突然、頭の中を金属で殴られたような痛みが！｜予想以上にキツかった 帯状疱疹闘病記 - 日刊ゲンダイDIGITAL",
-      "published": "2026-10-26T21:00:00+00:00",
-      "summary": "（1）突然、頭の中を金属で殴られたような痛みが！｜予想以上にキツかった 帯状疱疹闘病記&nbsp;&nbsp;日刊ゲンダイDIGITAL50歳以降に増える帯状疱疹。予防のためにできることとは？【医師監修】｜美ST（magacol）&nbsp;&nbsp;Yahoo!ニュース【うめきた温泉 蓮 Wellbeing Park】10/26 提携医療機関「医誠会国際総合病院」と共同で第18回健康セミナーを開催&nbsp;&nbsp;愛媛新聞",
-      "sources": [
-        {
-          "name": "日刊ゲンダイDIGITAL",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1GUlhPRWtaNW9lOTc3ZmtrQkp0cGJ0ZE9lTFNpRG9zWFotOFdNb0hscENkeVpXWTJzZTdmQ28xMXNQdHdhc2JoMS01Ui1ZUjNnYnZNQTNILURVSHRBMVhLcWt2T1E2RGx4?oc=5"
         }
       ]
     },
@@ -153,7 +201,7 @@
       "id": "4b681ca803e4",
       "title": "髄膜炎菌性髄膜炎の罹患率が低いにもかかわらず、依然として発生しやすい理由 - Laodong.vn",
       "published": "2026-10-26T10:50:09+00:00",
-      "summary": "髄膜炎菌性髄膜炎の罹患率が低いにもかかわらず、依然として発生しやすい理由&nbsp;&nbsp;Laodong.vn危険な髄膜炎菌感染症に対する免疫ギャップ。&nbsp;&nbsp;Vietnam.vn国立小児病院の医師が、髄膜炎菌性髄膜炎がなぜ容易に集団発生を引き起こすのかを説明する。&nbsp;&nbsp;Vietnam.vn",
+      "summary": "髄膜炎菌性髄膜炎の罹患率が低いにもかかわらず、依然として発生しやすい理由&nbsp;&nbsp;Laodong.vn医師たちは、髄膜炎菌感染症が突然発生する理由を指摘している。&nbsp;&nbsp;Vietnam.vn国立小児病院の医師が、髄膜炎菌感染症は発生率が低いにもかかわらず、なぜ容易に集団感染を引き起こす可能性があるのか​​を説明する。&nbsp;&nbsp;Vietnam.vn",
       "sources": [
         {
           "name": "Laodong.vn",
@@ -261,7 +309,7 @@
       "id": "f136e904acb9",
       "title": "お菓子やソーセージの食べすぎに注意？「超加工食品」と脳の異常に関連、約8800人を調査 - DAILYSUN NEW YORK",
       "published": "2026-10-26T00:00:00+00:00",
-      "summary": "お菓子やソーセージの食べすぎに注意？「超加工食品」と脳の異常に関連、約8800人を調査&nbsp;&nbsp;DAILYSUN NEW YORKカップ麺、菓子パン、ポテチ…超加工食品を減らしたらうつ症状が大幅改善&nbsp;&nbsp;ｄメニューニュースカップ麺、菓子パン、ポテチ…超加工食品を減らしたらうつ症状が大幅改善｜ニューヨークからお届けします。&nbsp;&nbsp;日刊ゲンダイDIGITAL超加工食品の摂取が知らず知らずのうちに脳血管の損傷を引き起こしている可能性&nbsp;&nbsp;GIGAZINE",
+      "summary": "お菓子やソーセージの食べすぎに注意？「超加工食品」と脳の異常に関連、約8800人を調査&nbsp;&nbsp;DAILYSUN NEW YORK高齢者のうつ症状リスクを高める「ある食品」 7000人超の調査で判明&nbsp;&nbsp;ニューズウィーク日本版カップ麺、菓子パン、ポテチ…超加工食品を減らしたらうつ症状が大幅改善&nbsp;&nbsp;ｄメニューニュースカップ麺、菓子パン、ポテチ…超加工食品を減らしたらうつ症状が大幅改善｜ニューヨークからお届けします。&nbsp;&nbsp;日刊ゲンダイDIGITAL超加工食品の摂取が知らず知らずのうちに脳血管の損傷を引き起こしている可能性&nbsp;&nbsp;GIGAZINE",
       "sources": [
         {
           "name": "DAILYSUN NEW YORK",
@@ -738,14 +786,14 @@
       ]
     },
     {
-      "id": "885013ea5074",
-      "title": "JAXAが火星衛星探査機「MMX」の初期クリティカル運用フェーズ終了を発表(sorae 宇宙へのポータルサイト)",
-      "published": "2026-10-22T02:42:53+00:00",
-      "summary": "JAXA（宇宙航空研究開発機構）は2026年10月21日付で、「H3」ロケット10号機で打ち上げられた火星衛星探査機「MMX」について、打ち上げ直後の重要な運用を正常に終え、探査機の健全性を確認したと",
+      "id": "e63cbe7ab138",
+      "title": "レナカパビル、感染性粒子産生を劇的に抑制－JIHSほか - QLifePro",
+      "published": "2026-10-22T00:30:00+00:00",
+      "summary": "レナカパビル、感染性粒子産生を劇的に抑制－JIHSほか&nbsp;&nbsp;QLifePro",
       "sources": [
         {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/abcbd9d911cc004981548df6c51e45c60c8a7ef8?source=rss"
+          "name": "QLifePro",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWlhUZjctY2JkcnZHcU8xUUFrcjVhNFcxZU9vNG1XNlRxRXUwSHJvSi1kUUtsemNaaExWMjRLZWpVYno3UzQ4R1pYcHBaclhPelVieElMeFZDUmxnTmJKUm51SUo1TGFLM00xZDNjMTdVOEdQWTJCVU96ejdwVGE5NGlYSUJEaWs0eG5nYkJUM3RUb2JWS0k4aEJfb1FBalJEWl9VcFJJMHB5cjZBNkk0T2d6UQ?oc=5"
         }
       ]
     },
@@ -822,6 +870,18 @@
       ]
     },
     {
+      "id": "a907b1a02fe5",
+      "title": "心臓にある「ミニ脳」の謎で新たな発見、一体何をしているのか - ナショナルジオグラフィック日本版",
+      "published": "2026-10-20T21:00:00+00:00",
+      "summary": "心臓にある「ミニ脳」の謎で新たな発見、一体何をしているのか&nbsp;&nbsp;ナショナルジオグラフィック日本版",
+      "sources": [
+        {
+          "name": "ナショナルジオグラフィック日本版",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zcl9UUnVfLTRtZFlMTF8tQ3lFbklLVEdFaDFneEJKQUd3Q2pxOEhKank2LXZmVkZrclRRQ2pobzVXV051YzljRTV5UFV5UW1NNDFaYnFvVUJXelpZV01JZV9sTQ?oc=5"
+        }
+      ]
+    },
+    {
       "id": "a58b547281d3",
       "title": "脊髄刺激療法で糖尿病性神経障害の感覚機能が改善｜CareNet.com - CareNet.com",
       "published": "2026-10-20T18:59:00+00:00",
@@ -842,30 +902,6 @@
         {
           "name": "Yahoo!ニュース",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4aDZTaFJQaW9OeUlrYlJ1ZjhETGVaNmFMVy1hWjZiWjlzdUpjeHlPYkNqXzQtZWd6cGE0d2xWSXBxM3RxT29iYXRQUUVGbThnREFhWnBKaGx3UEJ0bnlWSmN6YVNPUnZUbFZVUXc5SFFuYmdGSTdIZWhkQ3pTR28?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "b8275ba6cc74",
-      "title": "自覚症状は腰痛、通院は高血圧症が男女とも最多 厚労省調査 - 日本経済新聞",
-      "published": "2026-10-20T05:00:00+00:00",
-      "summary": "自覚症状は腰痛、通院は高血圧症が男女とも最多 厚労省調査&nbsp;&nbsp;日本経済新聞自覚症状 腰痛が最多 厚労省調査 通院理由は高血圧症 医療新世紀&nbsp;&nbsp;福井新聞社",
-      "sources": [
-        {
-          "name": "日本経済新聞",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9seVZUSlNSYjhNZGd3TngzVzh2VTVKUmNweEVnXzUwZzZYZWM3Z0pvWTF1X1ZoaWhldEtleUJpRlF4WkJqc0U0aG1qWFBKTDJSYjdTRTl2VXNwRXEwVGhWTnpvOWNQU0NQMEdJZg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "135aca8de6f8",
-      "title": "アルツハイマー病にＡＬＳ治療薬、回復メカニズムを解明 山口大大学院と山口東京理大の研究グループ【宇部】 - 宇部日報デジタル SARATTO",
-      "published": "2026-10-20T04:00:00+00:00",
-      "summary": "アルツハイマー病にＡＬＳ治療薬、回復メカニズムを解明 山口大大学院と山口東京理大の研究グループ【宇部】&nbsp;&nbsp;宇部日報デジタル SARATTO",
-      "sources": [
-        {
-          "name": "宇部日報デジタル SARATTO",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBCQjd5MWFfcjRFb2ljVGllUnl5WHRnSHN6MzRTUXZwVWZsMGlzTEFrT0Nhb3N0RXdvdUhRcGhrNWx3d0JsY29NcUZOTGp2QWsxSHVXeQ?oc=5"
         }
       ]
     }
