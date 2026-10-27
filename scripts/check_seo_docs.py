@@ -242,6 +242,16 @@ if bm.exists():
         if bad:
             errors.append(f"search-index.json 有 {len(bad)} 筆 brands 與 brand_names.json 不符（例：{', '.join(map(str, bad[:5]))}），請跑 .claude/rebuild_search_index.py JpTxGNN")
 
+# 5) 寫死的藥物數（2026-10-27 補）：drug_stats.json 要等於公開藥物頁數，
+#    不能用 Liquid 的寫死數字要一致、能用 Liquid 的檔不得寫死。規則與修法：scripts/generate_drug_stats.py。
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import generate_drug_stats as _gds  # noqa: E402
+_stats_now = json.loads((DOCS / "_data" / "drug_stats.json").read_text(encoding="utf-8"))
+_want = _gds.build_stats(_gds.listed_drugs(), _stats_now.get("generated", ""))
+if not _gds.same(_stats_now, _want):
+    errors.append(f"drug_stats.json total_drugs={_stats_now.get('total_drugs')}，公開藥物頁 {_want['total_drugs']} 頁（跑 scripts/generate_drug_stats.py）")
+errors.extend(f"{e}（跑 scripts/generate_drug_stats.py）" for e in _gds.count_spot_problems(_want) + _gds.hardcode_problems(_want))
+
 if errors:
     print(f"docs SEO 守門：✗ {len(errors)} 項")
     for e in errors:

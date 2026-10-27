@@ -370,7 +370,7 @@ window.TXGNN_ANALYTICS = {
       "@id": "{{ page.url | absolute_url }}#itemlist",
       "name": "JpTxGNN 医薬品検証報告",
       "description": "{{ site.data.site_stats.drugs }} 種の日本医療用医薬品のドラッグリポジショニング検証報告",
-      "numberOfItems": {{ site.drugs.size }},
+      "numberOfItems": {{ site.data.drug_stats.total_drugs }},
       "itemListOrder": "https://schema.org/ItemListOrderAscending"
     },
     {

@@ -847,6 +847,9 @@ def generate_news_pages(matched_news: list[dict], keywords: dict):
         drug_detail = drugs_detail_map.get(str(slug).lower(), {})
         drug_search = search_index_map.get(slug, {})
         news_items = drug_news.get(slug, [])  # 可能為空
+        if not news_items:
+            write_news_redirect(slug)
+            continue
         title = generate_drug_news_page(slug, drug_info, drug_detail, drug_search, news_items)
         drug_count += 1
         if news_items and drug_url(slug):
@@ -874,6 +877,29 @@ def slugify(text: str) -> str:
     slug = re.sub(r"[^\w\s-]", "", text.lower())
     slug = re.sub(r"[\s_]+", "-", slug)
     return slug.strip("-")
+
+
+def write_news_redirect(slug: str):
+    """2026-10-27：零新聞的藥不生新聞頁（用戶 2026-09-19 決定）。舊網址留轉址頁（不進 sitemap、不進站內搜尋），
+    導向藥物頁；藥物頁不可收錄就導向新聞總覽。格式同 docs/_drugs 的舊 ID 轉址頁。"""
+    target = drug_url(slug) or "/news/"
+    (NEWS_COLLECTION_DIR / f"{slug}.md").write_text(f"""---
+layout: id_redirect
+permalink: /news/{slug}/
+sitemap: false
+search_exclude: true
+nav_exclude: true
+---
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+<title>Redirecting&hellip;</title>
+<link rel="canonical" href="{{{{ site.url }}}}{target}">
+<meta http-equiv="refresh" content="0; url={target}">
+<script>location="{target}"</script>
+<a href="{target}">{target}</a>
+</html>
+""", encoding="utf-8")
 
 
 def generate_drug_news_page(slug: str, drug_info: dict, drug_detail: dict, drug_search: dict, news_items: list[dict]):

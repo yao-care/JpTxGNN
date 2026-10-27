@@ -15,7 +15,19 @@ Usage:
 import os
 import json
 import re
+import html
 from pathlib import Path
+
+
+def report_has_h1(text: str) -> bool:
+    """報告內文（code fence 以外）有沒有 `# ` 開頭的 h1。"""
+    fence = False
+    for line in text.split("\n"):
+        if line.startswith("```"):
+            fence = not fence
+        elif not fence and line.startswith("# "):
+            return True
+    return False
 
 
 LANG_BY_PROJECT = {
@@ -328,6 +340,10 @@ def sync_notes_to_docs():
             parent = evidence_level
 
         title = drug_name.replace("_", " ").title()
+        # 2026-10-27：每頁恰好一個 h1。報告第一行本身是 h1（藥名＋主預測），頁首藥名改成大字段落；
+        # 報告沒有 h1 時才用藥名當 h1。
+        title_block = (f'<p class="fs-9 fw-700">{html.escape(title)}</p>' if report_has_h1(content)
+                       else f"# {title}\n{{: .fs-9 }}")
 
         front_matter = f"""---
 layout: default
@@ -338,8 +354,7 @@ evidence_level: {evidence_level}
 indication_count: {indication_count}
 {extra_front_matter(bundle_path, evidence_level, indication_count, content)}---
 
-# {title}
-{{: .fs-9 }}
+{title_block}
 
 {t['evidence']}: **{evidence_level}** | {t['indications']}: **{indication_count}** {t['unit']}
 {{: .fs-6 .fw-300 }}
