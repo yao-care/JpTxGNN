@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "ゾビラックス軟膏５％（選） に関する健康ニュース。予測適応症 1 件。"
 permalink: /news/acyclovir/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 ---
 
 # ゾビラックス軟膏５％（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="ゾビラックス軟膏５％（選） に関するニュースは？">
-<strong>ゾビラックス軟膏５％（選）</strong> には現在 <strong>10 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
+<strong>ゾビラックス軟膏５％（選）</strong> には現在 <strong>11 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -33,13 +33,21 @@ last_modified_at: 2026-10-27
 <p><a href="{{ '/drugs/acyclovir/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（10 件）
+## 関連ニュース（11 件）
 
-### [（2）抗ウイルス薬、鎮痛薬、抗炎症薬…大量のクスリを4週間｜予想以上にキツかった 帯状疱疹闘病記](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRR3M3VWIzM1hnRjVNZEdOdDlwQk1TcnpIUTZ3SjYyU1ZJX1VuT1lKOXFWVmw4NUtDVG01Nk1xTURtZER0bkZnU0hSeTRGSVotaEpzZlE2akd4bC1pVTYzbHVXeHZKbjEw?oc=5)
+### [コロナ･インフル･帯状疱疹で脳が縮む!? 身近なウイルスがアルツハイマーを引き起こす恐怖のメカニズム（東洋経済オンライン）](https://news.google.com/rss/articles/CBMifkFVX3lxTE4zODY0bE54dmNPNDNkcmZqYUFHMV9vd3l0TVB2cm5XbWkxTXhwWVdpTldmSUUza2stWlZzU0g3N3N2RFRDRV93MUVrb3g0SXRNeVBaU3ZpcG96NVNzdzlvSkZvVXhjaU1lUWNBSV9EOHpuYlEySW1JTmxqZjhqZw?oc=5)
 
 2026-10-27 <span class="news-indication-tag">帯状疱疹</span>
 
-出典: [日刊ゲンダイDIGITAL](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRR3M3VWIzM1hnRjVNZEdOdDlwQk1TcnpIUTZ3SjYyU1ZJX1VuT1lKOXFWVmw4NUtDVG01Nk1xTURtZER0bkZnU0hSeTRGSVotaEpzZlE2akd4bC1pVTYzbHVXeHZKbjEw?oc=5)
+出典: [ｄメニューニュース](https://news.google.com/rss/articles/CBMifkFVX3lxTE4zODY0bE54dmNPNDNkcmZqYUFHMV9vd3l0TVB2cm5XbWkxTXhwWVdpTldmSUUza2stWlZzU0g3N3N2RFRDRV93MUVrb3g0SXRNeVBaU3ZpcG96NVNzdzlvSkZvVXhjaU1lUWNBSV9EOHpuYlEySW1JTmxqZjhqZw?oc=5)
+
+---
+
+### [文字どおり“地獄の激痛”をともなう帯状疱疹 「すぐに病院に行った患者」と「グズグズしていた患者」の、その後の明暗](https://news.google.com/rss/articles/CBMihwFBVV95cUxPb3F0bjFOLV8ySldiSkNGZ0cwM3Q0clFGTGJPME1kVmZhVnhlNmNRd1R3QjdhaUlKWGJTTGZMN28ydUNkTmtsc1pvS1VpNGdNc3BDZlU2d1RyTHAzVlRNbmVLRC04ZEtqUU1iMl91dms2aHNacnlVZmdxZkpRZHhzZll3UDdBM3c?oc=5)
+
+2026-10-27 <span class="news-indication-tag">帯状疱疹</span>
+
+出典: [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxPb3F0bjFOLV8ySldiSkNGZ0cwM3Q0clFGTGJPME1kVmZhVnhlNmNRd1R3QjdhaUlKWGJTTGZMN28ydUNkTmtsc1pvS1VpNGdNc3BDZlU2d1RyTHAzVlRNbmVLRC04ZEtqUU1iMl91dms2aHNacnlVZmdxZkpRZHhzZll3UDdBM3c?oc=5)
 
 ---
 
@@ -67,11 +75,11 @@ last_modified_at: 2026-10-27
 
 ---
 
-### [「カチカチ便」「便秘と下痢を繰り返す」大腸がんの疑いがあるのはどっち？ (2026年10月26日掲載)](https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwUlZMb1VpM3E2NWdYQUVGaEJhd1R6WV9RamhqTmNZcTYwRU5nVzJRd0t6SkxtWlVYVHppSzFJc204RGpBTFd1SjNyV3dBQVRVRmM3aXluTFJGekdkSHc?oc=5)
+### [女性のがん死亡数“第1位”は『大腸がん』… 見逃したくないサイン・初期症状とは？（メディカルドック）](https://news.google.com/rss/articles/CBMif0FVX3lxTFBjYzd0TjNYZE5pNWV4dkZMNmdLZld4SmpGcWg5MWN1d2RwVi05Rk5RLXdyQ2xjZWFGRmN2V1B3QjV4d1ZfOG1nelBpbHBZdGZ2UDZQX1hSOGZSMzNBeGZ1RU0zbFhLZ01reEl5WWdrcmFzQ0tFYWE5MTVucExRT2s?oc=5)
 
 2026-10-26 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
 
-出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwUlZMb1VpM3E2NWdYQUVGaEJhd1R6WV9RamhqTmNZcTYwRU5nVzJRd0t6SkxtWlVYVHppSzFJc204RGpBTFd1SjNyV3dBQVRVRmM3aXluTFJGekdkSHc?oc=5)
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBjYzd0TjNYZE5pNWV4dkZMNmdLZld4SmpGcWg5MWN1d2RwVi05Rk5RLXdyQ2xjZWFGRmN2V1B3QjV4d1ZfOG1nelBpbHBZdGZ2UDZQX1hSOGZSMzNBeGZ1RU0zbFhLZ01reEl5WWdrcmFzQ0tFYWE5MTVucExRT2s?oc=5)
 
 ---
 

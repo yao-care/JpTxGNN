@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "タミフルドライシロップ３％（選） に関する健康ニュース。予測適応症 1 件。"
 permalink: /news/oseltamivir/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 ---
 
 # タミフルドライシロップ３％（選） 関連ニュース
@@ -35,11 +35,11 @@ last_modified_at: 2026-10-27
 
 ## 関連ニュース（3 件）
 
-### [インフルエンザ流行「今年は1カ月早い」 広島・山口など中国地方、接種を前倒し](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9BUjAwbEpOMm00a0NqUjBMZVZIQlBFVEctaWc4b2xZSURmYlZHY1FoSnlhWEsxbEVKU1RTa1B0cDNPcUdXTnVOc1gtOA?oc=5)
+### [【今年から来年にかけてのインフルエンザ見通し】早く始まり、緩やかに広がる“じわじわ型”。年明けに別の型で再び流行する可能性も。クリニックフォアがワクチン接種・受診方法・予防内服を徹底解説 - PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE83cjRuWHB5cUFqV25NcDcycnhPYnNocTNfWFB2aHdfZGk5dUNzTy1JNldBX1NzZ3NUZ1NDLXR3X1pxdFhsWkdnWFU4WVVFek1Mdm9YbkZoUU5seGtDTWtDT3dFYTRia3RMWmc?oc=5)
 
-2026-10-27 <span class="news-indication-tag">インフルエンザ</span> <span class="news-indication-tag">風邪</span>
+2026-10-28 <span class="news-indication-tag">インフルエンザ</span> <span class="news-indication-tag">風邪</span>
 
-出典: [47NEWS](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9BUjAwbEpOMm00a0NqUjBMZVZIQlBFVEctaWc4b2xZSURmYlZHY1FoSnlhWEsxbEVKU1RTa1B0cDNPcUdXTnVOc1gtOA?oc=5)
+出典: [PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE83cjRuWHB5cUFqV25NcDcycnhPYnNocTNfWFB2aHdfZGk5dUNzTy1JNldBX1NzZ3NUZ1NDLXR3X1pxdFhsWkdnWFU4WVVFek1Mdm9YbkZoUU5seGtDTWtDT3dFYTRia3RMWmc?oc=5)
 
 ---
 
@@ -53,7 +53,7 @@ last_modified_at: 2026-10-27
 
 ### [季節性インフルエンザがピークに達し、高齢者、基礎疾患のある人は注意が必要](https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ1lRTGF6MjBLSEFRUDNpdzhTRUFMUWdMcVBNN1p4Ny0yOWl2UERqaXMzUFFiby1XbXF2VlhMNDU5LTZ3WHRiUkVqWXM5aXgzdGJhcXdKdXF0dmhYWWtua0F5QXNtQnVlT1B2OXo3akpqWi04Wk9vNVp5ZVJqc3lpdGlqeXF6dW1Vem9RdmdMQUctaC05V2Q5akN3bnU5alFwQ1U0eThOQQ?oc=5)
 
-2026-10-22 <span class="news-indication-tag">インフルエンザ</span>
+2026-10-22 <span class="news-indication-tag">心臓発作</span> <span class="news-indication-tag">脳卒中</span> <span class="news-indication-tag">インフルエンザ</span>
 
 出典: [Laodong.vn](https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ1lRTGF6MjBLSEFRUDNpdzhTRUFMUWdMcVBNN1p4Ny0yOWl2UERqaXMzUFFiby1XbXF2VlhMNDU5LTZ3WHRiUkVqWXM5aXgzdGJhcXdKdXF0dmhYWWtua0F5QXNtQnVlT1B2OXo3akpqWi04Wk9vNVp5ZVJqc3lpdGlqeXF6dW1Vem9RdmdMQUctaC05V2Q5akN3bnU5alFwQ1U0eThOQQ?oc=5)
 

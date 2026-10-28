@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "ディオバンＯＤ錠１６０ｍｇ（選） に関する健康ニュース。予測適応症 1 件。"
 permalink: /news/valsartan/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 ---
 
 # ディオバンＯＤ錠１６０ｍｇ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="ディオバンＯＤ錠１６０ｍｇ（選） に関するニュースは？">
-<strong>ディオバンＯＤ錠１６０ｍｇ（選）</strong> には現在 <strong>13 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
+<strong>ディオバンＯＤ錠１６０ｍｇ（選）</strong> には現在 <strong>14 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -33,13 +33,13 @@ last_modified_at: 2026-10-27
 <p><a href="{{ '/drugs/valsartan/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（13 件）
+## 関連ニュース（14 件）
 
-### [お酒が引き起こす心臓病がある！ リスクが大きい飲み方とは：左党の一分：日経Gooday（グッデイ）](https://news.google.com/rss/articles/CBMilAFBVV95cUxPWEZqZTF4cnlPOU14UGhGa21xdE1UQ0xIVE9wOWlBc2NLel9lYTk1SEx3UHROSFZtQVIzNUx4XzV3OXhoZGF6a05SVDdueFZfVExKZDB0TDRySjJUS3l1ZEtyMWhzbC1PYTMzellQaUVBZWw4VElNUUh2S21UYkVCNDdxMGZJR29Sem81MEMtdzNSSmdi?oc=5)
+### [お酒が引き起こす心臓病がある！ リスクが大きい飲み方とは：左党の一分：日経Gooday（グッデイ）](https://news.google.com/rss/articles/CBMijAFBVV95cUxQWXRmOE94LW5jeEtIcEUxVjFXQkJ1YkpTZHRSSEp1b0c3WjRZdTRtZlRkVWJEUGRPM1h2UnFBU2pYbnRuVk15X0J0aHZnS1A3Ymhjc0xZeXNyZGJfN0lrV0VIbnNzVnZIUFJnVjJsU3V3STFFMFBYRkhIWU0zT0JxbXpad2ZSNXdpcll5RA?oc=5)
 
 2026-10-27 <span class="news-indication-tag">心臓病</span>
 
-出典: [日経Gooday](https://news.google.com/rss/articles/CBMilAFBVV95cUxPWEZqZTF4cnlPOU14UGhGa21xdE1UQ0xIVE9wOWlBc2NLel9lYTk1SEx3UHROSFZtQVIzNUx4XzV3OXhoZGF6a05SVDdueFZfVExKZDB0TDRySjJUS3l1ZEtyMWhzbC1PYTMzellQaUVBZWw4VElNUUh2S21UYkVCNDdxMGZJR29Sem81MEMtdzNSSmdi?oc=5)
+出典: [日経Gooday](https://news.google.com/rss/articles/CBMijAFBVV95cUxQWXRmOE94LW5jeEtIcEUxVjFXQkJ1YkpTZHRSSEp1b0c3WjRZdTRtZlRkVWJEUGRPM1h2UnFBU2pYbnRuVk15X0J0aHZnS1A3Ymhjc0xZeXNyZGJfN0lrV0VIbnNzVnZIUFJnVjJsU3V3STFFMFBYRkhIWU0zT0JxbXpad2ZSNXdpcll5RA?oc=5)
 
 ---
 
@@ -67,11 +67,11 @@ last_modified_at: 2026-10-27
 
 ---
 
-### [「カチカチ便」「便秘と下痢を繰り返す」大腸がんの疑いがあるのはどっち？ (2026年10月26日掲載)](https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwUlZMb1VpM3E2NWdYQUVGaEJhd1R6WV9RamhqTmNZcTYwRU5nVzJRd0t6SkxtWlVYVHppSzFJc204RGpBTFd1SjNyV3dBQVRVRmM3aXluTFJGekdkSHc?oc=5)
+### [女性のがん死亡数“第1位”は『大腸がん』… 見逃したくないサイン・初期症状とは？（メディカルドック）](https://news.google.com/rss/articles/CBMif0FVX3lxTFBjYzd0TjNYZE5pNWV4dkZMNmdLZld4SmpGcWg5MWN1d2RwVi05Rk5RLXdyQ2xjZWFGRmN2V1B3QjV4d1ZfOG1nelBpbHBZdGZ2UDZQX1hSOGZSMzNBeGZ1RU0zbFhLZ01reEl5WWdrcmFzQ0tFYWE5MTVucExRT2s?oc=5)
 
 2026-10-26 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
 
-出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwUlZMb1VpM3E2NWdYQUVGaEJhd1R6WV9RamhqTmNZcTYwRU5nVzJRd0t6SkxtWlVYVHppSzFJc204RGpBTFd1SjNyV3dBQVRVRmM3aXluTFJGekdkSHc?oc=5)
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBjYzd0TjNYZE5pNWV4dkZMNmdLZld4SmpGcWg5MWN1d2RwVi05Rk5RLXdyQ2xjZWFGRmN2V1B3QjV4d1ZfOG1nelBpbHBZdGZ2UDZQX1hSOGZSMzNBeGZ1RU0zbFhLZ01reEl5WWdrcmFzQ0tFYWE5MTVucExRT2s?oc=5)
 
 ---
 
@@ -120,6 +120,14 @@ last_modified_at: 2026-10-27
 2026-10-23 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
 
 出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSWWhZOUFib3ItYmZTUGUyOVlqaHNzdUdjNzJvQnFrbEtDYTh4YUFlSndsd3NMNGZrVWVMM1VNUVhmaUFVX2d2NkxWTDlCZmVVNDN4YkZJNVVrVzRqLXc?oc=5)
+
+---
+
+### [季節性インフルエンザがピークに達し、高齢者、基礎疾患のある人は注意が必要](https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ1lRTGF6MjBLSEFRUDNpdzhTRUFMUWdMcVBNN1p4Ny0yOWl2UERqaXMzUFFiby1XbXF2VlhMNDU5LTZ3WHRiUkVqWXM5aXgzdGJhcXdKdXF0dmhYWWtua0F5QXNtQnVlT1B2OXo3akpqWi04Wk9vNVp5ZVJqc3lpdGlqeXF6dW1Vem9RdmdMQUctaC05V2Q5akN3bnU5alFwQ1U0eThOQQ?oc=5)
+
+2026-10-22 <span class="news-indication-tag">心臓発作</span> <span class="news-indication-tag">脳卒中</span> <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [Laodong.vn](https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ1lRTGF6MjBLSEFRUDNpdzhTRUFMUWdMcVBNN1p4Ny0yOWl2UERqaXMzUFFiby1XbXF2VlhMNDU5LTZ3WHRiUkVqWXM5aXgzdGJhcXdKdXF0dmhYWWtua0F5QXNtQnVlT1B2OXo3akpqWi04Wk9vNVp5ZVJqc3lpdGlqeXF6dW1Vem9RdmdMQUctaC05V2Q5akN3bnU5alFwQ1U0eThOQQ?oc=5)
 
 ---
 

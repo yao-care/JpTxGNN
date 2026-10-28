@@ -1,15 +1,132 @@
 {
-  "generated": "2026-10-27T21:35:18.284380+00:00",
-  "count": 24,
+  "generated": "2026-10-28T03:02:42.583599+00:00",
+  "count": 25,
   "news": [
     {
-      "id": "48ce6662fc96",
-      "title": "（2）抗ウイルス薬、鎮痛薬、抗炎症薬…大量のクスリを4週間｜予想以上にキツかった 帯状疱疹闘病記",
-      "published": "2026-10-27T21:00:00+00:00",
+      "id": "86788b2aa34a",
+      "title": "【今年から来年にかけてのインフルエンザ見通し】早く始まり、緩やかに広がる“じわじわ型”。年明けに別の型で再び流行する可能性も。クリニックフォアがワクチン接種・受診方法・予防内服を徹底解説 - PR TIMES",
+      "published": "2026-10-28T01:00:02+00:00",
       "sources": [
         {
-          "name": "日刊ゲンダイDIGITAL",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRR3M3VWIzM1hnRjVNZEdOdDlwQk1TcnpIUTZ3SjYyU1ZJX1VuT1lKOXFWVmw4NUtDVG01Nk1xTURtZER0bkZnU0hSeTRGSVotaEpzZlE2akd4bC1pVTYzbHVXeHZKbjEw?oc=5"
+          "name": "PR TIMES",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83cjRuWHB5cUFqV25NcDcycnhPYnNocTNfWFB2aHdfZGk5dUNzTy1JNldBX1NzZ3NUZ1NDLXR3X1pxdFhsWkdnWFU4WVVFek1Mdm9YbkZoUU5seGtDTWtDT3dFYTRia3RMWmc?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "influenza",
+          "keyword": "インフルエンザ",
+          "related_drugs": [
+            {
+              "slug": "oseltamivir",
+              "name": "タミフルドライシロップ３％（選）",
+              "url": "/drugs/oseltamivir/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "風邪",
+          "related_drugs": [
+            {
+              "slug": "theophylline",
+              "name": "ユニコン錠１００　１００ｍｇ（選）",
+              "url": "/drugs/theophylline/"
+            },
+            {
+              "slug": "cetirizine",
+              "name": "ザイザルシロップ０．０５％（選）",
+              "url": "/drugs/cetirizine/"
+            },
+            {
+              "slug": "morphine",
+              "name": "モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」",
+              "url": "/drugs/morphine/"
+            },
+            {
+              "slug": "loratadine",
+              "name": "クラリチン錠１０ｍｇ（選）",
+              "url": "/drugs/loratadine/"
+            },
+            {
+              "slug": "chlorpheniramine",
+              "name": "セレスタミン配合錠（選）",
+              "url": "/drugs/chlorpheniramine/"
+            },
+            {
+              "slug": "dextromethorphan",
+              "name": "デキストロメトルファン臭化水素酸塩細粒１０％「ツルハラ」",
+              "url": "/drugs/dextromethorphan/"
+            },
+            {
+              "slug": "acetaminophen",
+              "name": "トラムセット配合錠（選）",
+              "url": "/drugs/acetaminophen/"
+            },
+            {
+              "slug": "codeine",
+              "name": "ムコブロチン配合シロップ",
+              "url": "/drugs/codeine/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cb598ca54bb6",
+      "title": "【2026年最新・徹底調査】30代で2型糖尿病と診断されたらその後の生活はどうなる？仕事・転職・結婚・妊娠・将来の合併症への不安をDライフが調査",
+      "published": "2026-10-28T00:30:00+00:00",
+      "sources": [
+        {
+          "name": "ドリームニュース",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qUDlIQlQyMmk2QmEwV25STjQ4YmpIZk9lNFhnbXlpLUZHMGE2eXM0a09FNUxkTDNONjhlbURzMW96dW1OY3RVSFJobFhmOUIwcVVR?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "type 2 diabetes mellitus",
+          "keyword": "2型糖尿病",
+          "related_drugs": [
+            {
+              "slug": "glyburide",
+              "name": "オイグルコン錠２．５ｍｇ（選）",
+              "url": "/drugs/glyburide/"
+            },
+            {
+              "slug": "gliclazide",
+              "name": "グリミクロン錠４０ｍｇ（選）",
+              "url": "/drugs/gliclazide/"
+            },
+            {
+              "slug": "pioglitazone",
+              "name": "アクトスＯＤ錠３０　３０ｍｇ（選）",
+              "url": "/drugs/pioglitazone/"
+            },
+            {
+              "slug": "glimepiride",
+              "name": "アマリール０．５ｍｇ錠（選）",
+              "url": "/drugs/glimepiride/"
+            },
+            {
+              "slug": "metformin",
+              "name": "メホビル配合錠ＨＤ「トーワ」",
+              "url": "/drugs/metformin/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4078f9970490",
+      "title": "コロナ･インフル･帯状疱疹で脳が縮む!? 身近なウイルスがアルツハイマーを引き起こす恐怖のメカニズム（東洋経済オンライン）",
+      "published": "2026-10-27T23:18:17+00:00",
+      "sources": [
+        {
+          "name": "ｄメニューニュース",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zODY0bE54dmNPNDNkcmZqYUFHMV9vd3l0TVB2cm5XbWkxTXhwWVdpTldmSUUza2stWlZzU0g3N3N2RFRDRV93MUVrb3g0SXRNeVBaU3ZpcG96NVNzdzlvSkZvVXhjaU1lUWNBSV9EOHpuYlEySW1JTmxqZjhqZw?oc=5"
         }
       ],
       "keywords": [
@@ -38,13 +155,48 @@
       ]
     },
     {
-      "id": "b71652b5d280",
+      "id": "aefeb9921135",
+      "title": "文字どおり“地獄の激痛”をともなう帯状疱疹 「すぐに病院に行った患者」と「グズグズしていた患者」の、その後の明暗",
+      "published": "2026-10-27T22:30:39+00:00",
+      "sources": [
+        {
+          "name": "Yahoo!ファイナンス",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPb3F0bjFOLV8ySldiSkNGZ0cwM3Q0clFGTGJPME1kVmZhVnhlNmNRd1R3QjdhaUlKWGJTTGZMN28ydUNkTmtsc1pvS1VpNGdNc3BDZlU2d1RyTHAzVlRNbmVLRC04ZEtqUU1iMl91dms2aHNacnlVZmdxZkpRZHhzZll3UDdBM3c?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "herpes zoster",
+          "keyword": "帯状疱疹",
+          "related_drugs": [
+            {
+              "slug": "acyclovir",
+              "name": "ゾビラックス軟膏５％（選）",
+              "url": "/drugs/acyclovir/"
+            },
+            {
+              "slug": "azithromycin",
+              "name": "ジスロマック細粒小児用１０％　１００ｍｇ（選）",
+              "url": "/drugs/azithromycin/"
+            },
+            {
+              "slug": "metronidazole",
+              "name": "メトロニダゾールゲル０．７５％「マルイシ」",
+              "url": "/drugs/metronidazole/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "53051b6551b3",
       "title": "お酒が引き起こす心臓病がある！ リスクが大きい飲み方とは：左党の一分：日経Gooday（グッデイ）",
       "published": "2026-10-27T15:00:00+00:00",
       "sources": [
         {
           "name": "日経Gooday",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWEZqZTF4cnlPOU14UGhGa21xdE1UQ0xIVE9wOWlBc2NLel9lYTk1SEx3UHROSFZtQVIzNUx4XzV3OXhoZGF6a05SVDdueFZfVExKZDB0TDRySjJUS3l1ZEtyMWhzbC1PYTMzellQaUVBZWw4VElNUUh2S21UYkVCNDdxMGZJR29Sem81MEMtdzNSSmdi?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWXRmOE94LW5jeEtIcEUxVjFXQkJ1YkpTZHRSSEp1b0c3WjRZdTRtZlRkVWJEUGRPM1h2UnFBU2pYbnRuVk15X0J0aHZnS1A3Ymhjc0xZeXNyZGJfN0lrV0VIbnNzVnZIUFJnVjJsU3V3STFFMFBYRkhIWU0zT0JxbXpad2ZSNXdpcll5RA?oc=5"
         }
       ],
       "keywords": [
@@ -257,78 +409,6 @@
               "slug": "lactulose",
               "name": "ラグノスＮＦ経口ゼリー分包１２ｇ　５４．１６７％",
               "url": "/drugs/lactulose/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "01a9200dd441",
-      "title": "インフルエンザ流行「今年は1カ月早い」 広島・山口など中国地方、接種を前倒し",
-      "published": "2026-10-27T12:00:00+00:00",
-      "sources": [
-        {
-          "name": "47NEWS",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9BUjAwbEpOMm00a0NqUjBMZVZIQlBFVEctaWc4b2xZSURmYlZHY1FoSnlhWEsxbEVKU1RTa1B0cDNPcUdXTnVOc1gtOA?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "influenza",
-          "keyword": "インフルエンザ",
-          "related_drugs": [
-            {
-              "slug": "oseltamivir",
-              "name": "タミフルドライシロップ３％（選）",
-              "url": "/drugs/oseltamivir/"
-            }
-          ]
-        },
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "風邪",
-          "related_drugs": [
-            {
-              "slug": "theophylline",
-              "name": "ユニコン錠１００　１００ｍｇ（選）",
-              "url": "/drugs/theophylline/"
-            },
-            {
-              "slug": "cetirizine",
-              "name": "ザイザルシロップ０．０５％（選）",
-              "url": "/drugs/cetirizine/"
-            },
-            {
-              "slug": "morphine",
-              "name": "モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」",
-              "url": "/drugs/morphine/"
-            },
-            {
-              "slug": "loratadine",
-              "name": "クラリチン錠１０ｍｇ（選）",
-              "url": "/drugs/loratadine/"
-            },
-            {
-              "slug": "chlorpheniramine",
-              "name": "セレスタミン配合錠（選）",
-              "url": "/drugs/chlorpheniramine/"
-            },
-            {
-              "slug": "dextromethorphan",
-              "name": "デキストロメトルファン臭化水素酸塩細粒１０％「ツルハラ」",
-              "url": "/drugs/dextromethorphan/"
-            },
-            {
-              "slug": "acetaminophen",
-              "name": "トラムセット配合錠（選）",
-              "url": "/drugs/acetaminophen/"
-            },
-            {
-              "slug": "codeine",
-              "name": "ムコブロチン配合シロップ",
-              "url": "/drugs/codeine/"
             }
           ]
         }
@@ -1172,51 +1252,6 @@
       ]
     },
     {
-      "id": "dfc92a3d5880",
-      "title": "【2026年最新・徹底調査】2型糖尿病は初期なら治る？完治・治癒・寛解の違いは？HbA1cが正常化して薬をやめても大丈夫？Dライフが寛解条件・再発・治療継続を調査",
-      "published": "2026-10-27T00:30:00+00:00",
-      "sources": [
-        {
-          "name": "ドリームニュース",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xOFZrY2VoeTY4ajJOYWtpejdra05NejltaElCSWstbXhhQkFWRzNRYi0ySXV6WU54aXo1SlZhZVF0ZzBvcWN1TUJUcnBsbnlCbFkw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "type 2 diabetes mellitus",
-          "keyword": "2型糖尿病",
-          "related_drugs": [
-            {
-              "slug": "glyburide",
-              "name": "オイグルコン錠２．５ｍｇ（選）",
-              "url": "/drugs/glyburide/"
-            },
-            {
-              "slug": "gliclazide",
-              "name": "グリミクロン錠４０ｍｇ（選）",
-              "url": "/drugs/gliclazide/"
-            },
-            {
-              "slug": "pioglitazone",
-              "name": "アクトスＯＤ錠３０　３０ｍｇ（選）",
-              "url": "/drugs/pioglitazone/"
-            },
-            {
-              "slug": "glimepiride",
-              "name": "アマリール０．５ｍｇ錠（選）",
-              "url": "/drugs/glimepiride/"
-            },
-            {
-              "slug": "metformin",
-              "name": "メホビル配合錠ＨＤ「トーワ」",
-              "url": "/drugs/metformin/"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "c555be22e209",
       "title": "膵臓がんにピロリ菌関係か 抗体の値高いほどリスク",
       "published": "2026-10-26T15:00:00+00:00",
@@ -1579,13 +1614,13 @@
       ]
     },
     {
-      "id": "9a01576060e1",
-      "title": "「カチカチ便」「便秘と下痢を繰り返す」大腸がんの疑いがあるのはどっち？ (2026年10月26日掲載)",
-      "published": "2026-10-26T02:00:06+00:00",
+      "id": "5cf40fff9a72",
+      "title": "女性のがん死亡数“第1位”は『大腸がん』… 見逃したくないサイン・初期症状とは？（メディカルドック）",
+      "published": "2026-10-26T11:03:03+00:00",
       "sources": [
         {
-          "name": "ライブドアニュース",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwUlZMb1VpM3E2NWdYQUVGaEJhd1R6WV9RamhqTmNZcTYwRU5nVzJRd0t6SkxtWlVYVHppSzFJc204RGpBTFd1SjNyV3dBQVRVRmM3aXluTFJGekdkSHc?oc=5"
+          "name": "Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBjYzd0TjNYZE5pNWV4dkZMNmdLZld4SmpGcWg5MWN1d2RwVi05Rk5RLXdyQ2xjZWFGRmN2V1B3QjV4d1ZfOG1nelBpbHBZdGZ2UDZQX1hSOGZSMzNBeGZ1RU0zbFhLZ01reEl5WWdrcmFzQ0tFYWE5MTVucExRT2s?oc=5"
         }
       ],
       "keywords": [
@@ -4025,6 +4060,135 @@
         }
       ],
       "keywords": [
+        {
+          "type": "indication",
+          "name": "myocardial infarction",
+          "keyword": "心臓発作",
+          "related_drugs": [
+            {
+              "slug": "atenolol",
+              "name": "テノーミン錠５０　５０ｍｇ（選）",
+              "url": "/drugs/atenolol/"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "ロプレソール錠４０ｍｇ（選）",
+              "url": "/drugs/metoprolol/"
+            },
+            {
+              "slug": "lisinopril",
+              "name": "ロンゲス錠２０ｍｇ（選）",
+              "url": "/drugs/lisinopril/"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "エックスフォージ配合ＯＤ錠（選）",
+              "url": "/drugs/amlodipine/"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "ミカムロ配合錠ＢＰ（選）",
+              "url": "/drugs/telmisartan/"
+            },
+            {
+              "slug": "warfarin",
+              "name": "ワルファリンＫ細粒０．２％「ＮＳ」",
+              "url": "/drugs/warfarin/"
+            },
+            {
+              "slug": "prasugrel",
+              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」",
+              "url": "/drugs/prasugrel/"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "stroke",
+          "keyword": "脳卒中",
+          "related_drugs": [
+            {
+              "slug": "atorvastatin",
+              "name": "アトーゼット配合錠ＨＤ（選）",
+              "url": "/drugs/atorvastatin/"
+            },
+            {
+              "slug": "valsartan",
+              "name": "ディオバンＯＤ錠１６０ｍｇ（選）",
+              "url": "/drugs/valsartan/"
+            },
+            {
+              "slug": "pravastatin",
+              "name": "メバロチン錠５　５ｍｇ（選）",
+              "url": "/drugs/pravastatin/"
+            },
+            {
+              "slug": "simvastatin",
+              "name": "リポバス錠５　５ｍｇ（選）",
+              "url": "/drugs/simvastatin/"
+            },
+            {
+              "slug": "enalapril",
+              "name": "レニベース錠１０　１０ｍｇ（選）",
+              "url": "/drugs/enalapril/"
+            },
+            {
+              "slug": "lisinopril",
+              "name": "ロンゲス錠２０ｍｇ（選）",
+              "url": "/drugs/lisinopril/"
+            },
+            {
+              "slug": "diltiazem",
+              "name": "ヘルベッサー錠６０　６０ｍｇ（選）",
+              "url": "/drugs/diltiazem/"
+            },
+            {
+              "slug": "amlodipine",
+              "name": "エックスフォージ配合ＯＤ錠（選）",
+              "url": "/drugs/amlodipine/"
+            },
+            {
+              "slug": "telmisartan",
+              "name": "ミカムロ配合錠ＢＰ（選）",
+              "url": "/drugs/telmisartan/"
+            },
+            {
+              "slug": "rosuvastatin",
+              "name": "クレストールＯＤ錠５ｍｇ（選）",
+              "url": "/drugs/rosuvastatin/"
+            },
+            {
+              "slug": "verapamil",
+              "name": "ワソラン錠４０ｍｇ（選）",
+              "url": "/drugs/verapamil/"
+            },
+            {
+              "slug": "losartan",
+              "name": "ニューロタン錠５０ｍｇ（選）",
+              "url": "/drugs/losartan/"
+            },
+            {
+              "slug": "warfarin",
+              "name": "ワルファリンＫ細粒０．２％「ＮＳ」",
+              "url": "/drugs/warfarin/"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "ザルティア錠５ｍｇ（選）",
+              "url": "/drugs/tadalafil/"
+            },
+            {
+              "slug": "fenofibrate",
+              "name": "トライコア錠８０ｍｇ（選）",
+              "url": "/drugs/fenofibrate/"
+            },
+            {
+              "slug": "prasugrel",
+              "name": "プラスグレル錠５ｍｇ「ＤＳＥＰ」",
+              "url": "/drugs/prasugrel/"
+            }
+          ]
+        },
         {
           "type": "indication",
           "name": "influenza",

@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "サンテゾーン点眼液（０．１％）（選） に関する健康ニュース。予測適応症 1 件。"
 permalink: /news/dexamethasone/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 ---
 
 # サンテゾーン点眼液（０．１％）（選） 関連ニュース
@@ -35,11 +35,11 @@ last_modified_at: 2026-10-27
 
 ## 関連ニュース（13 件）
 
-### [お酒が引き起こす心臓病がある！ リスクが大きい飲み方とは：左党の一分：日経Gooday（グッデイ）](https://news.google.com/rss/articles/CBMilAFBVV95cUxPWEZqZTF4cnlPOU14UGhGa21xdE1UQ0xIVE9wOWlBc2NLel9lYTk1SEx3UHROSFZtQVIzNUx4XzV3OXhoZGF6a05SVDdueFZfVExKZDB0TDRySjJUS3l1ZEtyMWhzbC1PYTMzellQaUVBZWw4VElNUUh2S21UYkVCNDdxMGZJR29Sem81MEMtdzNSSmdi?oc=5)
+### [お酒が引き起こす心臓病がある！ リスクが大きい飲み方とは：左党の一分：日経Gooday（グッデイ）](https://news.google.com/rss/articles/CBMijAFBVV95cUxQWXRmOE94LW5jeEtIcEUxVjFXQkJ1YkpTZHRSSEp1b0c3WjRZdTRtZlRkVWJEUGRPM1h2UnFBU2pYbnRuVk15X0J0aHZnS1A3Ymhjc0xZeXNyZGJfN0lrV0VIbnNzVnZIUFJnVjJsU3V3STFFMFBYRkhIWU0zT0JxbXpad2ZSNXdpcll5RA?oc=5)
 
 2026-10-27 <span class="news-indication-tag">心臓病</span>
 
-出典: [日経Gooday](https://news.google.com/rss/articles/CBMilAFBVV95cUxPWEZqZTF4cnlPOU14UGhGa21xdE1UQ0xIVE9wOWlBc2NLel9lYTk1SEx3UHROSFZtQVIzNUx4XzV3OXhoZGF6a05SVDdueFZfVExKZDB0TDRySjJUS3l1ZEtyMWhzbC1PYTMzellQaUVBZWw4VElNUUh2S21UYkVCNDdxMGZJR29Sem81MEMtdzNSSmdi?oc=5)
+出典: [日経Gooday](https://news.google.com/rss/articles/CBMijAFBVV95cUxQWXRmOE94LW5jeEtIcEUxVjFXQkJ1YkpTZHRSSEp1b0c3WjRZdTRtZlRkVWJEUGRPM1h2UnFBU2pYbnRuVk15X0J0aHZnS1A3Ymhjc0xZeXNyZGJfN0lrV0VIbnNzVnZIUFJnVjJsU3V3STFFMFBYRkhIWU0zT0JxbXpad2ZSNXdpcll5RA?oc=5)
 
 ---
 
@@ -67,11 +67,11 @@ last_modified_at: 2026-10-27
 
 ---
 
-### [「カチカチ便」「便秘と下痢を繰り返す」大腸がんの疑いがあるのはどっち？ (2026年10月26日掲載)](https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwUlZMb1VpM3E2NWdYQUVGaEJhd1R6WV9RamhqTmNZcTYwRU5nVzJRd0t6SkxtWlVYVHppSzFJc204RGpBTFd1SjNyV3dBQVRVRmM3aXluTFJGekdkSHc?oc=5)
+### [女性のがん死亡数“第1位”は『大腸がん』… 見逃したくないサイン・初期症状とは？（メディカルドック）](https://news.google.com/rss/articles/CBMif0FVX3lxTFBjYzd0TjNYZE5pNWV4dkZMNmdLZld4SmpGcWg5MWN1d2RwVi05Rk5RLXdyQ2xjZWFGRmN2V1B3QjV4d1ZfOG1nelBpbHBZdGZ2UDZQX1hSOGZSMzNBeGZ1RU0zbFhLZ01reEl5WWdrcmFzQ0tFYWE5MTVucExRT2s?oc=5)
 
 2026-10-26 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
 
-出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwUlZMb1VpM3E2NWdYQUVGaEJhd1R6WV9RamhqTmNZcTYwRU5nVzJRd0t6SkxtWlVYVHppSzFJc204RGpBTFd1SjNyV3dBQVRVRmM3aXluTFJGekdkSHc?oc=5)
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBjYzd0TjNYZE5pNWV4dkZMNmdLZld4SmpGcWg5MWN1d2RwVi05Rk5RLXdyQ2xjZWFGRmN2V1B3QjV4d1ZfOG1nelBpbHBZdGZ2UDZQX1hSOGZSMzNBeGZ1RU0zbFhLZ01reEl5WWdrcmFzQ0tFYWE5MTVucExRT2s?oc=5)
 
 ---
 

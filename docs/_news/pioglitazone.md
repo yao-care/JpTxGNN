@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "アクトスＯＤ錠３０　３０ｍｇ（選） に関する健康ニュース。予測適応症 10 件。"
 permalink: /news/pioglitazone/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 ---
 
 # アクトスＯＤ錠３０　３０ｍｇ（選） 関連ニュース
@@ -44,6 +44,14 @@ last_modified_at: 2026-10-27
 
 ## 関連ニュース（5 件）
 
+### [【2026年最新・徹底調査】30代で2型糖尿病と診断されたらその後の生活はどうなる？仕事・転職・結婚・妊娠・将来の合併症への不安をDライフが調査](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qUDlIQlQyMmk2QmEwV25STjQ4YmpIZk9lNFhnbXlpLUZHMGE2eXM0a09FNUxkTDNONjhlbURzMW96dW1OY3RVSFJobFhmOUIwcVVR?oc=5)
+
+2026-10-28 <span class="news-indication-tag">2型糖尿病</span>
+
+出典: [ドリームニュース](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qUDlIQlQyMmk2QmEwV25STjQ4YmpIZk9lNFhnbXlpLUZHMGE2eXM0a09FNUxkTDNONjhlbURzMW96dW1OY3RVSFJobFhmOUIwcVVR?oc=5)
+
+---
+
 ### [2型糖尿病患者で肥満関連がんの罹患率が増加｜ニュース](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JbXQ4MXk1Q1RFZWViLWItcUw1NnhMMVlod1VWYm9tMEJqREVpOEQ0MVcyNlB0ZC0zT2Z4b1ZEaldueDF0dXJnSVV3MDl4Rk5HSnhmR3VHanRVSXhmWkFTTE8tOHNRNkVp?oc=5)
 
 2026-10-27 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">2型糖尿病</span>
@@ -57,14 +65,6 @@ last_modified_at: 2026-10-27
 2026-10-27 <span class="news-indication-tag">2型糖尿病</span>
 
 出典: [FYTTE](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBjUnk0Z0pqSnN3YUo3UkFOWkt3NDk3Vjc4Y2tpYngzWE1KRHVJN21SOV9QeWMzZDloVFJqbm1wWVM1TGFaU1V1TGMxVlJ3Zw?oc=5)
-
----
-
-### [【2026年最新・徹底調査】2型糖尿病は初期なら治る？完治・治癒・寛解の違いは？HbA1cが正常化して薬をやめても大丈夫？Dライフが寛解条件・再発・治療継続を調査](https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xOFZrY2VoeTY4ajJOYWtpejdra05NejltaElCSWstbXhhQkFWRzNRYi0ySXV6WU54aXo1SlZhZVF0ZzBvcWN1TUJUcnBsbnlCbFkw?oc=5)
-
-2026-10-27 <span class="news-indication-tag">2型糖尿病</span>
-
-出典: [ドリームニュース](https://news.google.com/rss/articles/CBMiU0FVX3lxTE4xOFZrY2VoeTY4ajJOYWtpejdra05NejltaElCSWstbXhhQkFWRzNRYi0ySXV6WU54aXo1SlZhZVF0ZzBvcWN1TUJUcnBsbnlCbFkw?oc=5)
 
 ---
 

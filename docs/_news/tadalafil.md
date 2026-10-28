@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "ザルティア錠５ｍｇ（選） に関する健康ニュース。予測適応症 1 件。"
 permalink: /news/tadalafil/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 ---
 
 # ザルティア錠５ｍｇ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="ザルティア錠５ｍｇ（選） に関するニュースは？">
-<strong>ザルティア錠５ｍｇ（選）</strong> には現在 <strong>4 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
+<strong>ザルティア錠５ｍｇ（選）</strong> には現在 <strong>5 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -33,13 +33,13 @@ last_modified_at: 2026-10-27
 <p><a href="{{ '/drugs/tadalafil/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（4 件）
+## 関連ニュース（5 件）
 
-### [お酒が引き起こす心臓病がある！ リスクが大きい飲み方とは：左党の一分：日経Gooday（グッデイ）](https://news.google.com/rss/articles/CBMilAFBVV95cUxPWEZqZTF4cnlPOU14UGhGa21xdE1UQ0xIVE9wOWlBc2NLel9lYTk1SEx3UHROSFZtQVIzNUx4XzV3OXhoZGF6a05SVDdueFZfVExKZDB0TDRySjJUS3l1ZEtyMWhzbC1PYTMzellQaUVBZWw4VElNUUh2S21UYkVCNDdxMGZJR29Sem81MEMtdzNSSmdi?oc=5)
+### [お酒が引き起こす心臓病がある！ リスクが大きい飲み方とは：左党の一分：日経Gooday（グッデイ）](https://news.google.com/rss/articles/CBMijAFBVV95cUxQWXRmOE94LW5jeEtIcEUxVjFXQkJ1YkpTZHRSSEp1b0c3WjRZdTRtZlRkVWJEUGRPM1h2UnFBU2pYbnRuVk15X0J0aHZnS1A3Ymhjc0xZeXNyZGJfN0lrV0VIbnNzVnZIUFJnVjJsU3V3STFFMFBYRkhIWU0zT0JxbXpad2ZSNXdpcll5RA?oc=5)
 
 2026-10-27 <span class="news-indication-tag">心臓病</span>
 
-出典: [日経Gooday](https://news.google.com/rss/articles/CBMilAFBVV95cUxPWEZqZTF4cnlPOU14UGhGa21xdE1UQ0xIVE9wOWlBc2NLel9lYTk1SEx3UHROSFZtQVIzNUx4XzV3OXhoZGF6a05SVDdueFZfVExKZDB0TDRySjJUS3l1ZEtyMWhzbC1PYTMzellQaUVBZWw4VElNUUh2S21UYkVCNDdxMGZJR29Sem81MEMtdzNSSmdi?oc=5)
+出典: [日経Gooday](https://news.google.com/rss/articles/CBMijAFBVV95cUxQWXRmOE94LW5jeEtIcEUxVjFXQkJ1YkpTZHRSSEp1b0c3WjRZdTRtZlRkVWJEUGRPM1h2UnFBU2pYbnRuVk15X0J0aHZnS1A3Ymhjc0xZeXNyZGJfN0lrV0VIbnNzVnZIUFJnVjJsU3V3STFFMFBYRkhIWU0zT0JxbXpad2ZSNXdpcll5RA?oc=5)
 
 ---
 
@@ -56,6 +56,14 @@ last_modified_at: 2026-10-27
 2026-10-24 <span class="news-indication-tag">心臓病</span>
 
 出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/7956278a7c18ca5a18b20ffd29cd2d193627aa9b?source=rss)
+
+---
+
+### [季節性インフルエンザがピークに達し、高齢者、基礎疾患のある人は注意が必要](https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ1lRTGF6MjBLSEFRUDNpdzhTRUFMUWdMcVBNN1p4Ny0yOWl2UERqaXMzUFFiby1XbXF2VlhMNDU5LTZ3WHRiUkVqWXM5aXgzdGJhcXdKdXF0dmhYWWtua0F5QXNtQnVlT1B2OXo3akpqWi04Wk9vNVp5ZVJqc3lpdGlqeXF6dW1Vem9RdmdMQUctaC05V2Q5akN3bnU5alFwQ1U0eThOQQ?oc=5)
+
+2026-10-22 <span class="news-indication-tag">心臓発作</span> <span class="news-indication-tag">脳卒中</span> <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [Laodong.vn](https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ1lRTGF6MjBLSEFRUDNpdzhTRUFMUWdMcVBNN1p4Ny0yOWl2UERqaXMzUFFiby1XbXF2VlhMNDU5LTZ3WHRiUkVqWXM5aXgzdGJhcXdKdXF0dmhYWWtua0F5QXNtQnVlT1B2OXo3akpqWi04Wk9vNVp5ZVJqc3lpdGlqeXF6dW1Vem9RdmdMQUctaC05V2Q5akN3bnU5alFwQ1U0eThOQQ?oc=5)
 
 ---
 

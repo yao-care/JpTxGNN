@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "エプジコム配合錠（選） に関する健康ニュース。予測適応症 1 件。"
 permalink: /news/lamivudine/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 ---
 
 # エプジコム配合錠（選） 関連ニュース
@@ -59,11 +59,11 @@ last_modified_at: 2026-10-27
 
 ---
 
-### [「カチカチ便」「便秘と下痢を繰り返す」大腸がんの疑いがあるのはどっち？ (2026年10月26日掲載)](https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwUlZMb1VpM3E2NWdYQUVGaEJhd1R6WV9RamhqTmNZcTYwRU5nVzJRd0t6SkxtWlVYVHppSzFJc204RGpBTFd1SjNyV3dBQVRVRmM3aXluTFJGekdkSHc?oc=5)
+### [女性のがん死亡数“第1位”は『大腸がん』… 見逃したくないサイン・初期症状とは？（メディカルドック）](https://news.google.com/rss/articles/CBMif0FVX3lxTFBjYzd0TjNYZE5pNWV4dkZMNmdLZld4SmpGcWg5MWN1d2RwVi05Rk5RLXdyQ2xjZWFGRmN2V1B3QjV4d1ZfOG1nelBpbHBZdGZ2UDZQX1hSOGZSMzNBeGZ1RU0zbFhLZ01reEl5WWdrcmFzQ0tFYWE5MTVucExRT2s?oc=5)
 
 2026-10-26 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
 
-出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwUlZMb1VpM3E2NWdYQUVGaEJhd1R6WV9RamhqTmNZcTYwRU5nVzJRd0t6SkxtWlVYVHppSzFJc204RGpBTFd1SjNyV3dBQVRVRmM3aXluTFJGekdkSHc?oc=5)
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBjYzd0TjNYZE5pNWV4dkZMNmdLZld4SmpGcWg5MWN1d2RwVi05Rk5RLXdyQ2xjZWFGRmN2V1B3QjV4d1ZfOG1nelBpbHBZdGZ2UDZQX1hSOGZSMzNBeGZ1RU0zbFhLZ01reEl5WWdrcmFzQ0tFYWE5MTVucExRT2s?oc=5)
 
 ---
 
