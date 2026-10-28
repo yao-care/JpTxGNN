@@ -35,11 +35,11 @@
     },
     {
       "url": "https://jptxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-      "valueCode": "L5"
+      "valueCode": "L2"
     },
     {
       "url": "https://jptxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
-      "valueDecimal": 0.99
+      "valueDecimal": 0.9999
     }
   ]
 }

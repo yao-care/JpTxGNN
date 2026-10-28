@@ -4,17 +4,17 @@ title: Pembrolizumab
 parent: モデル予測のみ
 nav_order: 238
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-17
-description: "Pembrolizumab：予測新適応症は歯肉線維腫症 (Fibromatosis, Gingival)（エビデンスレベル L5）。既存適応症：非小細胞肺癌、肺癌、転移性悪性黒色腫"
 monitor_inn: "Pembrolizumab"
 predicted_indications: ["fibromatosis, gingival", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung", "fibroma of lung", "lung benign neoplasm", "ovarioleukodystrophy", "lung germ cell tumor", "pulmonary sulcus neoplasm", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
+description: "Pembrolizumab：予測新適応症は歯肉線維腫症 (fibromatosis, gingival)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 
 # Pembrolizumab
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **10** 件
+エビデンスレベル: **L5** | 予測適応症: **9** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["fibromatosis, gingival", "inclusion body myopathy with 
 
 </div>
 
-## ペムブロリズマブ：非小細胞肺癌・悪性黒色腫から歯肉線維腫症へ
+## Pembrolizumab: 歯肉線維腫症 (fibromatosis, gingival)
 {: .text-alpha }
 
 ## 一言要約
@@ -45,12 +45,12 @@ TxGNN モデルは**歯肉線維腫症 (Fibromatosis, Gingival)** に有効で�
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 非小細胞肺癌、肺癌、転移性悪性黒色腫（知識グラフ上の適応症。日本の承認適応症テキストは未登録） |
-| 予測新規適応症 | 歯肉線維腫症 (Fibromatosis, Gingival) |
-| TxGNN 予測スコア | 99.40% |
+| 既存適応症 | 日本の承認情報に適応症の記載なし |
+| 予測新規適応症 | 歯肉線維腫症 (fibromatosis, gingival) |
+| TxGNN 予測スコア | 0.9940 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 取消のみ（有効な承認なし） |
-| 承認番号数 | 1 件（取消済み） |
+| 日本市販状況 | 販売中（有効な承認 1 件／全 1 件） |
+| 承認番号数 | 1 件（有効 1 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -63,7 +63,7 @@ TxGNN モデルは**歯肉線維腫症 (Fibromatosis, Gingival)** に有効で�
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
-| 622515801 | キイトルーダ点滴静注100mg 4mL | 注射剤（100mg 4mL） | 記載なし（取消済み） |
+| 622515801 | キイトルーダ点滴静注100mg 4mL | 注射剤（100mg 4mL） | 記載なし（有効） |
 
 ## 細胞毒性
 

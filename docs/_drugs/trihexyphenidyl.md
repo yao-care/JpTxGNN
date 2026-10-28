@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Trihexyphenidyl
-parent: 中エビデンスレベル
+parent: モデル予測のみ
 nav_order: 325
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 monitor_inn: "Trihexyphenidyl"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "attention deficit hyperactivity disorder, inattentive type", "Rasmussen subacute encephalitis", "PLA2G6-associated neurodegeneration", "congenital disorder of glycosylation with defective fucosylation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "retinal dystrophy with or without extraocular anomalies", "myelitis", "Charcot-Marie-Tooth disease, demyelinating, type 1G"]
@@ -14,7 +14,7 @@ description: "Trihexyphenidyl：予測新適応症は注意欠如・多動症 (a
 # Trihexyphenidyl
 {: .fs-9 }
 
-エビデンスレベル: **L4** | 予測適応症: **10** 件
+エビデンスレベル: **L5** | 予測適応症: **10** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ ADHD への直接的なエビデンスはなく、現時点ではモデル予測
 |------|------|
 | 既存適応症 | パーキンソン病治療薬、ムスカリン受容体拮抗薬（特発性パーキンソニズム、その他のパーキンソニズム） |
 | 予測新規適応症 | 注意欠如・多動症 (attention deficit-hyperactivity disorder) |
-| TxGNN 予測スコア | 99.92% |
-| エビデンスレベル | L4 |
-| 日本市販状況 | 販売中の承認なし（取消のみ） |
-| 承認番号数 | 10 件（すべて取消） |
+| TxGNN 予測スコア | 0.9992 |
+| エビデンスレベル | L5 |
+| 日本市販状況 | 販売中（有効な承認 10 件／全 10 件） |
+| 承認番号数 | 10 件（有効 10 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -74,7 +74,7 @@ ADHD との関連は間接的です。チックやジストニアを併発する
 
 ## 日本市販情報
 
-現在、日本で有効な承認はなく、承認 10 件はすべて取消済みです。以下は主な取消済み承認です。
+現在、日本で有効な承認は 10 件あり、承認 10 件すべてが有効です。以下は主な承認です。
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|

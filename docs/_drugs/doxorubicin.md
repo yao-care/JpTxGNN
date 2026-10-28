@@ -4,17 +4,17 @@ title: Doxorubicin
 parent: 高エビデンスレベル
 nav_order: 101
 evidence_level: L1
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-17
 description: "Doxorubicin：予測新適応症はユーイング肉腫 (Ewing sarcoma)（エビデンスレベル L1）。既存適応症：悪性リンパ腫、肺癌、胃癌、胆のう・胆管癌、膵臓癌、肝癌、結腸・直腸癌、乳癌、膀胱腫瘍、子宮体癌、骨肉腫、軟部腫瘍、多発性骨髄腫…"
 monitor_inn: "Doxorubicin"
-predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "rhabdomyosarcoma (disease)", "ganglioneuroblastoma (disease)"]
+predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "rhabdomyosarcoma (disease)"]
 ---
 
 # Doxorubicin
 {: .fs-9 }
 
-エビデンスレベル: **L1** | 予測適応症: **10** 件
+エビデンスレベル: **L1** | 予測適応症: **8** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -39,7 +39,7 @@ predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcino
 ## 一言要約
 
 ドキソルビシンはトポイソメラーゼII阻害作用をもつ抗悪性腫瘍薬で、日本では悪性リンパ腫、肺癌、乳癌、骨肉腫、軟部腫瘍など幅広い癌に使われてきました。
-TxGNN モデルは**ユーイング肉腫 (Ewing sarcoma)** に有効である可能性を予測しており（予測スコア 99.9%）、本レポート用に集めたデータでは **29 件の臨床試験**と **20 編の文献**がこの方向性を支持しています。完了した Phase 3 試験も複数含まれます。
+TxGNN モデルは**ユーイング肉腫 (Ewing sarcoma)** に有効である可能性を予測しており（予測スコア 0.9990）、本レポート用に集めたデータでは **29 件の臨床試験**と **20 編の文献**がこの方向性を支持しています。完了した Phase 3 試験も複数含まれます。
 
 ## クイック概要
 
@@ -47,10 +47,10 @@ TxGNN モデルは**ユーイング肉腫 (Ewing sarcoma)** に有効である�
 |------|------|
 | 既存適応症 | 悪性リンパ腫、肺癌、胃癌、胆のう・胆管癌、膵臓癌、肝癌、結腸・直腸癌、乳癌、膀胱腫瘍、子宮体癌、骨肉腫、軟部腫瘍、多発性骨髄腫、ユーイング肉腫ファミリー腫瘍、横紋筋肉腫、神経芽腫、網膜芽腫、腎芽腫、卵巣癌、エイズ関連カポジ肉腫 |
 | 予測新規適応症 | ユーイング肉腫 (Ewing sarcoma) |
-| TxGNN 予測スコア | 99.90% |
+| TxGNN 予測スコア | 0.9990 |
 | エビデンスレベル | L1 |
-| 日本市販状況 | 注意：承認 8 件はすべて整理済み（市販中の承認なし） |
-| 承認番号数 | 8 件（すべて整理済み） |
+| 日本市販状況 | 販売中（有効な承認 8 件／全 8 件） |
+| 承認番号数 | 8 件（有効 8 件） |
 | 推奨決定 | Proceed with Guardrails |
 
 なお、既存適応症にはすでに「ユーイング肉腫ファミリー腫瘍」が含まれます。そのため、今回の予測は完全な新規適応というより、既存適応の裏付けに近い位置づけです。
@@ -95,7 +95,7 @@ TxGNN モデルは**ユーイング肉腫 (Ewing sarcoma)** に有効である�
 
 ## 日本市販情報
 
-日本の承認 8 件はすべて整理済み（失効・取り下げ等）で、現在市販中の承認はありません。主要な承認を掲載します。
+日本の承認 8 件のうち 8 件が有効な承認で、現在市販されています。主要な承認を掲載します。
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
@@ -119,7 +119,7 @@ TxGNN モデルは**ユーイング肉腫 (Ewing sarcoma)** に有効である�
 
 ## 安全性に関する考慮事項
 
-- **禁忌に関連する疾患（知識グラフ上の関連。添付文書の記載ではない）**：肝不全・肝疾患、血小板減少症、好中球減少症、無顆粒球症、白血球減少、貧血、心疾患・心筋症・うっ血性心不全、心伝導障害、高ビリルビン血症（ギルバート症候群を含む）、感染症（真菌感染症を含む）、G6PD 欠損症など。
+- **禁忌に関連する疾患（添付文書の記載ではありません）**：肝不全・肝疾患、血小板減少症、好中球減少症、無顆粒球症、白血球減少、貧血、心疾患・心筋症・うっ血性心不全、心伝導障害、高ビリルビン血症（ギルバート症候群を含む）、感染症（真菌感染症を含む）、G6PD 欠損症など。
 - **薬物相互作用**（照会結果 100 件中の主なもの）：
   - 重大（Major）：ドラセトロン、シサプリド、パパベリン（QT 延長など心血管系のリスクに注意）
   - 中等度（Moderate）：オンダンセトロン、グラニセトロン、パロノセトロン、アプレピタント、ロラピタント、デキサメタゾン、クラリスロマイシン、レボフロキサシン、ファモチジンなど
@@ -132,7 +132,7 @@ TxGNN モデルは**ユーイング肉腫 (Ewing sarcoma)** に有効である�
 
 **理由：**
 - ユーイング肉腫では完了した Phase 3 RCT が複数あり（エビデンスレベル L1）、ドキソルビシンは標準レジメンの中核です。すでに日本の承認適応症にも含まれています。
-- ただし、日本の承認はすべて整理済みで市販品がなく、添付文書に基づく安全性情報も未確認です。試験の多くは多剤併用であり、ドキソルビシン単独の寄与は分離できません。
+- ただし、添付文書に基づく安全性情報は未確認です。試験の多くは多剤併用であり、ドキソルビシン単独の寄与は分離できません。
 
 **進める場合に必要なもの：**
 - PMDA の添付文書（警告・禁忌）の取得と確認（安全性スクリーニングの必須条件）

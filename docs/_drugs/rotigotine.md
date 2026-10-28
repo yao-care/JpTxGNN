@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Rotigotine
-parent: 中エビデンスレベル
+parent: モデル予測のみ
 nav_order: 273
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 monitor_inn: "rotigotine"
 predicted_indications: ["attention deficit-hyperactivity disorder", "schizophrenia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "faciodigitogenital syndrome", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "myopia X-linked", "atypical glycine encephalopathy", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited"]
@@ -14,7 +14,7 @@ description: "Rotigotine：予測新適応症は注意欠如・多動症 (attent
 # Rotigotine
 {: .fs-9 }
 
-エビデンスレベル: **L4** | 予測適応症: **10** 件
+エビデンスレベル: **L5** | 予測適応症: **10** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ TxGNN モデルは**注意欠如・多動症 (ADHD)** に有効である可能�
 |------|------|
 | 既存適応症 | パーキンソン病、むずむず脚症候群 |
 | 予測新規適応症 | 注意欠如・多動症 (attention deficit-hyperactivity disorder) |
-| TxGNN 予測スコア | 99.997% |
-| エビデンスレベル | L4 |
-| 日本市販状況 | 販売承認は全件が取消済み（現在市販なし） |
-| 承認番号数 | 5 件（すべて取消） |
+| TxGNN 予測スコア | 1.0000 |
+| エビデンスレベル | L5 |
+| 日本市販状況 | 販売中（有効な承認 5 件／全 5 件） |
+| 承認番号数 | 5 件（有効 5 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -77,11 +77,11 @@ ADHD ではドパミンおよびノルアドレナリン系の調節異常が関
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
-| 622163801 | ニュープロパッチ13.5mg | 記載なし | 記載なし（取消） |
-| 622478301 | ニュープロパッチ18mg | 記載なし | 記載なし（取消） |
-| 622163601 | ニュープロパッチ4.5mg | 記載なし | 記載なし（取消） |
-| 622163501 | ニュープロパッチ2.25mg | 記載なし | 記載なし（取消） |
-| 622163701 | ニュープロパッチ9mg | 記載なし | 記載なし（取消） |
+| 622163801 | ニュープロパッチ13.5mg | 記載なし | 記載なし（有効） |
+| 622478301 | ニュープロパッチ18mg | 記載なし | 記載なし（有効） |
+| 622163601 | ニュープロパッチ4.5mg | 記載なし | 記載なし（有効） |
+| 622163501 | ニュープロパッチ2.25mg | 記載なし | 記載なし（有効） |
+| 622163701 | ニュープロパッチ9mg | 記載なし | 記載なし（有効） |
 
 ## 安全性に関する考慮事項
 
@@ -111,7 +111,7 @@ ADHD ではドパミンおよびノルアドレナリン系の調節異常が関
 
 ### 参考：その他の予測候補
 
-ADHD 以外では、統合失調症（スコア 99.996%、L4、Hold）にドパミン作動薬の陰性症状に関するメタアナリシスなど間接的な文献があります。ただし、ドパミン作動で陽性症状が悪化する懸念があり、ロチゴチン固有の根拠はありません。残りの 8 候補（多小脳回症、顔指趾性器症候群、先天性糖鎖異常症、網膜ジストロフィー、X 連鎖性近視 2 件、非定型グリシン脳症、シャルコー・マリー・トゥース病 1G 型）は、臨床試験も文献もなく、機序的な根拠も確認できないため、いずれも L5・Hold です。
+ADHD 以外では、統合失調症（スコア 1.0000、L4、Hold）にドパミン作動薬の陰性症状に関するメタアナリシスなど間接的な文献があります。ただし、ドパミン作動で陽性症状が悪化する懸念があり、ロチゴチン固有の根拠はありません。残りの 8 候補（多小脳回症、顔指趾性器症候群、先天性糖鎖異常症、網膜ジストロフィー、X 連鎖性近視 2 件、非定型グリシン脳症、シャルコー・マリー・トゥース病 1G 型）は、臨床試験も文献もなく、機序的な根拠も確認できないため、いずれも L5・Hold です。
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

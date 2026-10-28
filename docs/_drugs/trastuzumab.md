@@ -4,17 +4,17 @@ title: Trastuzumab
 parent: モデル予測のみ
 nav_order: 321
 evidence_level: L5
-indication_count: 10
+indication_count: 6
 last_modified_at: 2026-10-17
-description: "Trastuzumab：予測新適応症はプロゲステロン受容体陽性乳癌 (progesterone-receptor positive breast cancer)（エビデンスレベル L5）。既存適応症：HER2 陽性乳癌"
 monitor_inn: "Trastuzumab"
 predicted_indications: ["malignant cutaneous granular cell skin tumor", "ectomesenchymoma", "human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "kidney pelvis sarcomatoid transitional cell carcinoma", "prostatic urethra urothelial carcinoma"]
+description: "Trastuzumab：予測新適応症はMalignant cutaneous granular cell skin tumor（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 
 # Trastuzumab
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **10** 件
+エビデンスレベル: **L5** | 予測適応症: **6** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,25 +33,24 @@ predicted_indications: ["malignant cutaneous granular cell skin tumor", "ectomes
 
 </div>
 
-## トラスツズマブ：HER2 陽性乳癌から プロゲステロン受容体陽性乳癌 へ
+## Trastuzumab: Malignant cutaneous granular cell skin tumor
 {: .text-alpha }
 
 ## 一言要約
 
 トラスツズマブは抗 HER2 モノクローナル抗体で、元々 HER2 陽性乳癌の治療に使用されていました。
-TxGNN モデルは**プロゲステロン受容体陽性乳癌 (progesterone-receptor positive breast cancer)** に有効である可能性を予測しており、現在 **13 件の臨床試験**と **20 編の文献**がこの方向性に関連しています。
 ただし、これは HER2 陽性かつ PR 陽性のサブグループに限られると考えられ、HER2 陰性の腫瘍には効果が期待できません。
 
 ## クイック概要
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | HER2 陽性乳癌 |
-| 予測新規適応症 | プロゲステロン受容体陽性乳癌 (progesterone-receptor positive breast cancer) |
-| TxGNN 予測スコア | 99.90% |
-| エビデンスレベル | L1（完了した Phase 3 RCT が 2 件以上：NCT01275677、NCT04629846） |
-| 日本市販状況 | 承認は取り消し済み（現在市販中の承認なし） |
-| 承認番号数 | 2 件（いずれも取消） |
+| 既存適応症 | 日本の承認情報に適応症の記載なし |
+| 予測新規適応症 | Malignant cutaneous granular cell skin tumor |
+| TxGNN 予測スコア | 0.9948 |
+| エビデンスレベル | L5（完了した Phase 3 RCT が 2 件以上：NCT01275677、NCT04629846） |
+| 日本市販状況 | 販売中（有効な承認 2 件／全 2 件） |
+| 承認番号数 | 2 件（有効 2 件） |
 | 推奨決定 | Proceed with Guardrails |
 
 > 補足：データ上のエビデンスレベル判定は L2 ですが、完了した Phase 3 試験が 2 件あるため、本レポートの判定ルールでは L1 に該当します。ただし NCT04629846 は主にペルツズマブのバイオシミラー比較試験であり、NCT01275677 は HER2 低発現乳癌が対象です。トラスツズマブそのものの PR 陽性乳癌への効果を直接示す試験とは言い切れないため、解釈には注意が必要です。
@@ -98,8 +97,8 @@ TxGNN モデルは**プロゲステロン受容体陽性乳癌 (progesterone-rec
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 | 状態 |
 |---------|------|------|-----------|------|
-| 629921901 | ハーセプチン注射用60 60mg | 注射剤 | 記載なし | 取消 |
-| 629922001 | ハーセプチン注射用150 150mg | 注射剤 | 記載なし | 取消 |
+| 629921901 | ハーセプチン注射用60 60mg | 注射剤 | 記載なし | 有効 |
+| 629922001 | ハーセプチン注射用150 150mg | 注射剤 | 記載なし | 有効 |
 
 ## 細胞毒性
 

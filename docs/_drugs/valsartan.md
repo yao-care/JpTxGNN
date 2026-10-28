@@ -4,17 +4,17 @@ title: Valsartan
 parent: 中エビデンスレベル
 nav_order: 331
 evidence_level: L4
-indication_count: 10
+indication_count: 6
 last_modified_at: 2026-10-17
 description: "Valsartan：予測新適応症は悪性高血圧性腎疾患 (malignant hypertensive renal disease)（エビデンスレベル L4）。既存適応症：高血圧症"
 monitor_inn: "Valsartan"
-predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease", "Prinzmetal angina", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "obsolete susceptibility to ischemic stroke"]
+predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease", "Prinzmetal angina"]
 ---
 
 # Valsartan
 {: .fs-9 }
 
-エビデンスレベル: **L4** | 予測適応症: **10** 件
+エビデンスレベル: **L4** | 予測適応症: **6** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN モデルは**悪性高血圧性腎疾患 (malignant hypertensive renal di
 |------|------|
 | 既存適応症 | 高血圧症 |
 | 予測新規適応症 | 悪性高血圧性腎疾患 (malignant hypertensive renal disease) |
-| TxGNN 予測スコア | 99.97% |
+| TxGNN 予測スコア | 0.9997 |
 | エビデンスレベル | L4 |
-| 日本市販状況 | 販売終了（取り消しのみ） |
+| 日本市販状況 | 販売中（有効な承認 20 件以上） |
 | 承認番号数 | 20 件（すべて取り消し） |
 | 推奨決定 | Hold |
 
@@ -61,7 +61,6 @@ TxGNN モデルは**悪性高血圧性腎疾患 (malignant hypertensive renal di
 
 ただし、裏付けとなる論文（PMID 24368192）はエンドセリン拮抗薬アボセンタンの動物試験で、バルサルタン自体の直接的なエビデンスではありません。
 
-なお、同じ ARB クラスの動物試験で、致死的な悪性高血圧の予防効果が報告されています（悪性腎血管性高血圧の予測の項、PMID 11560862）。これはクラス全体の機序的な根拠として参考になります。
 
 ## 臨床試験エビデンス
 
@@ -83,11 +82,11 @@ TxGNN モデルは**悪性高血圧性腎疾患 (malignant hypertensive renal di
 | 610443042 | ディオバン錠20mg | 錠20mg | 高血圧症（降圧薬、ARB） |
 | 622359601 | バルサルタン錠80mg「日医工」 | 錠80mg | 高血圧症（降圧薬、ARB） |
 
-上記 5 件を含む 20 件すべてが取り消し済みで、現在有効な承認はありません。
+上記 5 件を含む 20 件の承認が現在有効です。
 
 ## 安全性に関する考慮事項
 
-- **禁忌（知識グラフ上の関連）**：添付文書の記載ではなく、知識グラフに基づく情報です。肝不全・肝疾患、膵炎、血管性浮腫（遺伝性・ACE/RAS遮断薬誘発性を含む）、全身性エリテマトーデス、糖尿病・糖尿病性ケトアシドーシス、好中球減少・無顆粒球症、低血圧、無尿、腎動脈閉塞、腎機能障害、痛風、高カルシウム血症、カリウム欠乏などが関連疾患として挙げられています。
+- **禁忌（モデル上の関連）**：添付文書の記載ではなく、TxGNNモデル（ディープラーニング）が学習した関連疾患間の類似性に基づく情報であり、生物学的な根拠ではありません。肝不全・肝疾患、膵炎、血管性浮腫（遺伝性・ACE/RAS遮断薬誘発性を含む）、全身性エリテマトーデス、糖尿病・糖尿病性ケトアシドーシス、好中球減少・無顆粒球症、低血圧、無尿、腎動脈閉塞、腎機能障害、痛風、高カルシウム血症、カリウム欠乏などが関連疾患として挙げられています。
 - **薬物相互作用**：計 100 件が確認されています。
   - **重大（Major）**：塩化カリウム、炭酸水素カリウム（高カリウム血症のリスク）
   - **中等度（Moderate）**：各種インスリン製剤、エキセナチド、ヒドロコルチゾン、エルクサドリン、ポリエチレングリコール（電解質配合）など
@@ -99,7 +98,7 @@ TxGNN モデルは**悪性高血圧性腎疾患 (malignant hypertensive renal di
 **決定：Hold**
 
 **理由：**
-予測先の悪性高血圧性腎疾患には、臨床試験がなく、文献も別薬剤の動物試験 1 編のみで、バルサルタン自体の根拠が不足しています。また日本の承認はすべて取り消し済みです。
+予測先の悪性高血圧性腎疾患には、臨床試験がなく、文献も別薬剤の動物試験 1 編のみで、バルサルタン自体の根拠が不足しています。なお日本では販売されており、有効な承認が 20 件あります。
 
 **進める場合に必要なもの：**
 - バルサルタンを直接評価した前臨床・臨床データ（悪性高血圧に伴う腎障害を対象としたもの）

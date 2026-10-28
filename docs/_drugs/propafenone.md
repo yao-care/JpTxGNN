@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Propafenone
-parent: 中エビデンスレベル
+parent: モデル予測のみ
 nav_order: 257
-evidence_level: L4
-indication_count: 8
+evidence_level: L5
+indication_count: 6
 last_modified_at: 2026-10-17
-description: "Propafenone：予測新適応症はカテコラミン誘発多形性心室頻拍 (CPVT)。※TxGNN 最上位は躁病性双極性障害（スコア 99.80%）ですが…（エビデンスレベル L4）。既存適応症：抗不整脈薬、ナトリウムチャネル遮断薬"
+description: "Propafenone：予測新適応症は躁病性双極性障害。TxGNN モデル（深層学習）のスコアは 0.9980（エビデンスレベル L4）。既存適応症：抗不整脈薬、ナトリウムチャネル遮断薬"
 monitor_inn: "Propafenone"
 predicted_indications: ["manic bipolar affective disorder", "periodic paralysis with transient compartment-like syndrome", "Prinzmetal angina", "arrhythmogenic right ventricular cardiomyopathy", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania"]
 ---
@@ -14,7 +14,7 @@ predicted_indications: ["manic bipolar affective disorder", "periodic paralysis 
 # Propafenone
 {: .fs-9 }
 
-エビデンスレベル: **L4** | 予測適応症: **8** 件
+エビデンスレベル: **L5** | 予測適応症: **6** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["manic bipolar affective disorder", "periodic paralysis 
 
 </div>
 
-## プロパフェノン：不整脈から カテコラミン誘発多形性心室頻拍へ
+## プロパフェノン：不整脈から躁病性双極性障害へ
 {: .text-alpha }
 
 ## 一言要約
@@ -49,11 +49,11 @@ CPVT には **10 編の文献**（コホート研究、症例報告、in vitro �
 | 項目 | 内容 |
 |------|------|
 | 既存適応症 | 抗不整脈薬、ナトリウムチャネル遮断薬 |
-| 予測新規適応症 | カテコラミン誘発多形性心室頻拍 (CPVT)。※TxGNN 最上位は躁病性双極性障害（スコア 99.80%）ですが、エビデンスで支持されないため CPVT を主に評価 |
-| TxGNN 予測スコア | 99.79%（CPVT、全体順位 1743 位） |
-| エビデンスレベル | L4 |
-| 日本市販状況 | 販売承認はすべて整理済み（市販中の承認なし） |
-| 承認番号数 | 7 件（すべて整理済み） |
+| 予測新規適応症 | 躁病性双極性障害 |
+| TxGNN 予測スコア | 0.9980（躁病性双極性障害） |
+| エビデンスレベル | L5 |
+| 日本市販状況 | 販売中（有効な承認 7 件／全 7 件） |
+| 承認番号数 | 7 件（有効 7 件） |
 | 推奨決定 | Hold（研究課題として継続検討） |
 
 ---
@@ -132,7 +132,7 @@ PMDA の添付文書にある警告・禁忌は、今回のデータには含ま
 **理由：**
 - CPVT には RyR2 阻害という機序的根拠と症例報告がありますが、臨床試験がなく、エビデンスは L4 にとどまります。
 - TxGNN 最上位の躁病性双極性障害は、文献が副作用の報告にとどまっており、支持されません。
-- 日本の承認はすべて整理済みで、市販品がありません。添付文書の警告・禁忌も未確認です。
+- 日本では有効な承認が 7 件中 7 件あり、市販されています。添付文書の警告・禁忌も未確認です。
 
 **進める場合に必要なもの：**
 - PMDA の添付文書（警告・禁忌）の取得と確認（現時点で安全性評価を進めるうえで必須）

@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Sulpiride
-parent: 中エビデンスレベル
+parent: モデル予測のみ
 nav_order: 289
-evidence_level: L4
+evidence_level: L5
 indication_count: 9
 monitor_inn: "sulpiride"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia X-linked", "congenital disorder of glycosylation with defective fucosylation", "myopia 26, X-linked, female-limited", "syndromic myopia", "atypical glycine encephalopathy"]
@@ -14,7 +14,7 @@ description: "Sulpiride：予測新適応症は網膜ジストロフィー（ret
 # Sulpiride
 {: .fs-9 }
 
-エビデンスレベル: **L4** | 予測適応症: **9** 件
+エビデンスレベル: **L5** | 予測適応症: **9** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN モデルは**網膜ジストロフィー（retinal dystrophy with or with
 |------|------|
 | 既存適応症 | 統合失調症、うつ病・うつ状態、胃・十二指腸潰瘍 |
 | 予測新規適応症 | 網膜ジストロフィー（retinal dystrophy with or without extraocular anomalies） |
-| TxGNN 予測スコア | 99.95% |
-| エビデンスレベル | L4 |
-| 日本市販状況 | 販売中の承認なし（20 件すべて承認整理済み） |
+| TxGNN 予測スコア | 0.9995 |
+| エビデンスレベル | L5 |
+| 日本市販状況 | 販売中（有効な承認 20 件以上） |
 | 承認番号数 | 20 件 |
 | 推奨決定 | Hold |
 

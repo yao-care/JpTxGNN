@@ -4,17 +4,17 @@ title: Voglibose
 parent: モデル予測のみ
 nav_order: 339
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-17
-description: "Voglibose：予測新適応症は頭皮の単純性乏毛症 (hypotrichosis simplex of the scalp)（スコア第1位）。エビデンスのある代表候補は1…（エビデンスレベル L5）。既存適応症：糖尿病治療薬（α-グルコシダーゼ阻害薬）、2型糖尿病"
 monitor_inn: "Voglibose"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "autoimmune oophoritis", "diffuse alopecia areata", "IDDM 1", "Wolman disease with hypolipoproteinemia and acanthocytosis", "familial apolipoprotein C-II deficiency", "cholesteryl ester storage disease", "opsismodysplasia"]
+description: "Voglibose：予測新適応症は頭皮の単純性乏毛症 (hypotrichosis simplex of the scalp)（スコア第1位）。エビデンスのある代表候補は1型糖尿病 (hypotrichosis simplex of the scalp)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 
 # Voglibose
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **10** 件
+エビデンスレベル: **L5** | 予測適応症: **9** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotr
 
 </div>
 
-## ボグリボース：2型糖尿病から1型糖尿病へ
+## Voglibose: 頭皮の単純性乏毛症 (hypotrichosis simplex of the scalp)（スコア第1位）。エビデンスのある代表候補は1型糖尿病 (hypotrichosis simplex of the scalp)
 {: .text-alpha }
 
 ## 一言要約
@@ -46,11 +46,11 @@ TxGNN モデルの予測スコア第1位は**頭皮の単純性乏毛症 (hypotr
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 糖尿病治療薬（α-グルコシダーゼ阻害薬）、2型糖尿病 |
-| 予測新規適応症 | 頭皮の単純性乏毛症 (hypotrichosis simplex of the scalp)（スコア第1位）。エビデンスのある代表候補は1型糖尿病 (type 1 diabetes mellitus) |
-| TxGNN 予測スコア | 99.86%（乏毛症）／99.80%（1型糖尿病） |
+| 既存適応症 | 日本の承認情報に適応症の記載なし |
+| 予測新規適応症 | 頭皮の単純性乏毛症 (hypotrichosis simplex of the scalp)（スコア第1位）。エビデンスのある代表候補は1型糖尿病 (hypotrichosis simplex of the scalp) |
+| TxGNN 予測スコア | 0.9986 |
 | エビデンスレベル | L5（乏毛症）／L3（1型糖尿病） |
-| 日本市販状況 | 販売承認はすべて整理済み（取り消し・失効のみ、現行の有効承認なし） |
+| 日本市販状況 | 販売中（有効な承認 20 件以上） |
 | 承認番号数 | 20 件（すべて整理済み） |
 | 推奨決定 | Hold（乏毛症）／Hold（1型糖尿病は研究課題として位置づけ） |
 
@@ -58,7 +58,7 @@ TxGNN モデルの予測スコア第1位は**頭皮の単純性乏毛症 (hypotr
 
 現在、詳細な作用機序データはありません。既知の情報によると、ボグリボースは小腸の α-グルコシダーゼを阻害して糖質の吸収を遅らせ、食後の血糖上昇を抑える薬剤です。
 
-**第1位の乏毛症**：遺伝性の毛包疾患と α-グルコシダーゼ阻害との間に、妥当な機序的関連は見つかっていません。この予測は知識グラフのスコアのみに基づいており、臨床試験も文献もありません。第3位以降の先天性乏毛症・稗粒腫、自己免疫性卵巣炎、びまん性円形脱毛症、リソソーム病や脂質代謝異常、骨異形成症なども同様で、機序的な裏づけはありません。
+**第1位の乏毛症**：遺伝性の毛包疾患と α-グルコシダーゼ阻害との間に、妥当な機序的関連は見つかっていません。このスコアは TxGNN モデル（深層学習）によるもので、関連疾患間でモデルが学習した類似性を反映している可能性があり、生物学的な証拠ではありません。臨床試験も文献もありません。第3位以降の先天性乏毛症・稗粒腫、自己免疫性卵巣炎、びまん性円形脱毛症、リソソーム病や脂質代謝異常、骨異形成症なども同様で、機序的な裏づけはありません。
 
 **1型糖尿病**：既存適応症の2型糖尿病と同じく血糖管理が主題で、機序的に最も筋が通ります。食後高血糖を抑えることで、インスリン強化療法中の患者の補助的な血糖管理に役立つ可能性があります。夕食前投与で夜間低血糖が改善したとする小規模な報告があります。ただし、これはインスリン療法の補助という位置づけで、病態そのものを治療するものではありません。
 

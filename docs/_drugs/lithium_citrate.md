@@ -4,9 +4,9 @@ title: Lithium Citrate
 parent: モデル予測のみ
 nav_order: 190
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 monitor_inn: "Lithium citrate"
-predicted_indications: ["Malan overgrowth syndrome", "distal 17p13.3 microdeletion syndrome", "obesity disorder", "restless legs syndrome", "hydrops-lactic acidosis-sideroblastic anemia-multisystemic failure syndrome", "hypervitaminosis", "rheumatoid arthritis", "trichotillomania", "striatal degeneration, autosomal dominant", "proximal 16p11.2 microdeletion syndrome"]
+predicted_indications: ["Malan overgrowth syndrome"]
 last_modified_at: 2026-10-17
 description: "Lithium Citrate：予測新適応症はMalan 過成長症候群 (Malan overgrowth syndrome)（エビデンスレベル L5）。既存適応症：躁病および躁うつ病の躁状態"
 ---
@@ -14,7 +14,7 @@ description: "Lithium Citrate：予測新適応症はMalan 過成長症候群 (M
 # Lithium Citrate
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **10** 件
+エビデンスレベル: **L5** | 予測適応症: **1** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ TxGNN モデルは **Malan 過成長症候群 (Malan overgrowth syndrome)** に�
 |------|------|
 | 既存適応症 | 躁病および躁うつ病の躁状態 |
 | 予測新規適応症 | Malan 過成長症候群 (Malan overgrowth syndrome) |
-| TxGNN 予測スコア | 99.07% |
+| TxGNN 予測スコア | 0.9907 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売承認は全て取消済み（現在市販なし） |
-| 承認番号数 | 4 件（すべて取消） |
+| 日本市販状況 | 販売中（有効な承認 4 件／全 4 件） |
+| 承認番号数 | 4 件（有効 4 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -59,15 +59,10 @@ TxGNN モデルは **Malan 過成長症候群 (Malan overgrowth syndrome)** に�
 
 Malan 症候群は NFIX 関連の疾患で、躁病とは病態が大きく異なります。両者の関連は機序面の推測にとどまり、臨床的な裏付けはありません。
 
-その他の上位予測も同様にモデル予測のみです（スコアは 96.6〜99.1%）。
+その他の上位予測も同様にモデル予測のみです。
 
 | 順位 | 予測疾患 | スコア | 備考 |
 |------|---------|--------|------|
-| 2 | 17p13.3 遠位微小欠失症候群 | 98.86% | GSK-3/Wnt 関連の推測のみ |
-| 3 | 肥満 | 97.92% | 体重増加は副作用であり、方向性が逆の可能性 |
-| 4 | むずむず脚症候群 | 97.64% | 症状を悪化させる報告があり、整合性が弱い |
-| 7 | 関節リウマチ | 97.39% | GSK-3 阻害による抗炎症作用の前臨床的な根拠のみ |
-| 8 | 抜毛症 | 96.94% | 衝動制御への作用が概念的に関連 |
 
 ## 文献エビデンス
 
@@ -100,7 +95,7 @@ Malan 過成長症候群について、関連する文献は現在ありませ�
 
 **理由：**
 - 予測は TxGNN モデルのみに基づき（L5）、Malan 過成長症候群での臨床試験・文献がありません。
-- 日本の承認がすべて取消済みで、安全性の確認も不足しています。
+- 日本では販売中で、承認 4件のうち 4件が有効ですが、安全性の確認は不足しています。
 
 **進める場合に必要なもの：**
 - 添付文書の警告・禁忌情報の入手と安全性評価

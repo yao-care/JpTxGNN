@@ -82,8 +82,8 @@ GET /fhir/Bundle/all-predictions.json
 
 | タイプ | 説明 | 数量 |
 |--------|------|------|
-| MedicationKnowledge | 医薬品情報 | 3,952 |
-| ClinicalUseDefinition | 予測適応症 | 37,686 |
+| MedicationKnowledge | 医薬品情報 | {{ site.static_files | where_exp: 'f', 'f.path contains "/fhir/MedicationKnowledge/"' | size }} |
+| ClinicalUseDefinition | 予測適応症 | {{ site.static_files | where_exp: 'f', 'f.path contains "/fhir/ClinicalUseDefinition/"' | size }} |
 | Bundle | 全リソース集約 | 1 |
 
 ## Extension

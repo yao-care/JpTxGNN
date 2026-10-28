@@ -4,17 +4,17 @@ title: Sucralfate
 parent: 高エビデンスレベル
 nav_order: 287
 evidence_level: L2
-indication_count: 10
+indication_count: 2
 last_modified_at: 2026-10-17
-description: "Sucralfate：予測新適応症は十二指腸胃逆流 (duodenogastric reflux)（エビデンスレベル L2）。既存適応症：胃潰瘍、十二指腸潰瘍（消化性潰瘍薬、抗ペプシン薬）"
 monitor_inn: "Sucralfate"
-predicted_indications: ["duodenogastric reflux", "duodenal obstruction", "esophagitis (disease)", "peptic esophagitis", "duodenitis", "gastroduodenitis", "C1 inhibitor deficiency"]
+predicted_indications: ["duodenogastric reflux", "duodenal obstruction"]
+description: "Sucralfate：予測新適応症は十二指腸胃逆流 (duodenogastric reflux)（エビデンスレベル L2）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 
 # Sucralfate
 {: .fs-9 }
 
-エビデンスレベル: **L2** | 予測適応症: **10** 件
+エビデンスレベル: **L2** | 予測適応症: **2** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["duodenogastric reflux", "duodenal obstruction", "esopha
 
 </div>
 
-## スクラルファート：胃潰瘍・十二指腸潰瘍から十二指腸胃逆流へ
+## Sucralfate: 十二指腸胃逆流 (duodenogastric reflux)
 {: .text-alpha }
 
 ## 一言要約
@@ -45,12 +45,12 @@ TxGNN モデルは**十二指腸胃逆流 (duodenogastric reflux)** に有効で
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 胃潰瘍、十二指腸潰瘍（消化性潰瘍薬、抗ペプシン薬） |
+| 既存適応症 | 日本の承認情報に適応症の記載なし |
 | 予測新規適応症 | 十二指腸胃逆流 (duodenogastric reflux) |
-| TxGNN 予測スコア | 99.37% |
+| TxGNN 予測スコア | 0.9937 |
 | エビデンスレベル | L2 |
-| 日本市販状況 | 販売中の承認なし（7 件すべて承認整理済み） |
-| 承認番号数 | 7 件（有効 0 件、取消 7 件） |
+| 日本市販状況 | 販売中（有効な承認 7 件／全 7 件） |
+| 承認番号数 | 7 件（有効 7 件） |
 | 推奨決定 | Proceed with Guardrails |
 
 ## この予測が妥当である理由
@@ -82,7 +82,7 @@ TxGNN モデルは**十二指腸胃逆流 (duodenogastric reflux)** に有効で
 
 ## 日本市販情報
 
-日本では、スクラルファートの 7 件の承認はすべて取消済みで、現在販売中の承認はありません。
+日本では、7件の承認のうち7件が有効で、現在販売されています。
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
@@ -108,7 +108,7 @@ TxGNN モデルは**十二指腸胃逆流 (duodenogastric reflux)** に有効で
 
 **理由：**
 - アルカリ逆流性胃炎を対象とした小規模 RCT が 2 件あり、直接的な支持はありますが、症例数が少なく、年代も古いです。登録された臨床試験もありません。
-- 日本の承認はすべて取消済みで、現在は市販されていません。
+- 日本の承認は7件すべてが有効で、現在市販されています。
 
 **進める場合に必要なもの：**
 - 添付文書の警告・禁忌の確認（安全性スクリーニングの前提となる重大なデータ不足）
@@ -123,18 +123,9 @@ TxGNN モデルは**十二指腸胃逆流 (duodenogastric reflux)** に有効で
 
 | 順位 | 疾患 | スコア | エビデンスレベル | 推奨 |
 |------|------|--------|------------------|------|
-| 2 | 十二指腸閉塞 | 99.30% | L5 | Hold |
-| 3 | 食道炎 | 97.52% | L3 | Research Question |
-| 4 | 消化性食道炎 | 95.95% | L3 | Research Question |
-| 5 | 十二指腸炎 | 95.44% | L4 | Hold |
-| 6 | 活動性消化性潰瘍 | 95.32% | L3 | Research Question |
-| 7 | 胃十二指腸炎 | 94.26% | L4 | Hold |
-| 8 | C1 インヒビター欠損症 | 94.19% | L5 | Hold |
-| 9 | 消化性潰瘍穿孔 | 94.04% | L4 | Hold |
-| 10 | 胃空腸潰瘍 | 94.04% | L4 | Hold |
+| 2 | 十二指腸閉塞 | 0.9930 | L5 | Hold |
 
 - 食道炎では、好酸球性食道炎を対象とした早期第 1 相試験（[NCT02353078](https://clinicaltrials.gov/study/NCT02353078)、被験者 3 名、完了）が 1 件あります。
-- 消化性食道炎では、スクラルファートとアルギン酸／制酸薬、H2 ブロッカーなどを比較した RCT が複数あります。
 - 活動性消化性潰瘍は既存適応症と重なるため、真の再利用候補ではありません。
 - 十二指腸閉塞と C1 インヒビター欠損症は、機序的な裏付けがなくモデル予測のみに基づきます。
 ## 免責事項

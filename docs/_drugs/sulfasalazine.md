@@ -4,17 +4,17 @@ title: Sulfasalazine
 parent: モデル予測のみ
 nav_order: 288
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-17
-description: "Sulfasalazine：予測新適応症は合指（趾）症を伴う短指症候群 (Brachydactyly-syndactyly syndrome)（エビデンスレベル L5）。既存適応症：関節リウマチ、潰瘍性大腸炎、炎症性腸疾患、若年性特発性関節炎、脊椎関節症"
 monitor_inn: "Sulfasalazine"
-predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "osteoarthritis susceptibility", "congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "WHIM syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "spondyloarthropathy, susceptibility to", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis"]
+predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "WHIM syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis"]
+description: "Sulfasalazine：予測新適応症は合指（趾）症を伴う短指症候群 (brachydactyly-syndactyly syndrome)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 
 # Sulfasalazine
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **10** 件
+エビデンスレベル: **L5** | 予測適応症: **8** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous micro
 
 </div>
 
-## サラゾスルファピリジン：関節リウマチから合指（趾）症を伴う短指症候群へ
+## Sulfasalazine: 合指（趾）症を伴う短指症候群 (brachydactyly-syndactyly syndrome)
 {: .text-alpha }
 
 ## 一言要約
@@ -46,12 +46,12 @@ TxGNN モデルは、先天性の発生異常である**合指（趾）症を伴
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 関節リウマチ、潰瘍性大腸炎、炎症性腸疾患、若年性特発性関節炎、脊椎関節症（ナレッジグラフ上の適応症。日本の承認適応症の文言は今回のデータにありません） |
-| 予測新規適応症 | 合指（趾）症を伴う短指症候群 (Brachydactyly-syndactyly syndrome) |
-| TxGNN 予測スコア | 99.94% |
+| 既存適応症 | 日本の承認情報に適応症の記載なし |
+| 予測新規適応症 | 合指（趾）症を伴う短指症候群 (brachydactyly-syndactyly syndrome) |
+| TxGNN 予測スコア | 0.9994 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | ✗ 承認はすべて整理済み（現在有効な承認なし） |
-| 承認番号数 | 11 件（すべて整理済み） |
+| 日本市販状況 | 販売中（有効な承認 11 件／全 11 件） |
+| 承認番号数 | 11 件（有効 11 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -72,15 +72,15 @@ TxGNN モデルは、先天性の発生異常である**合指（趾）症を伴
 
 ## 日本市販情報
 
-日本の承認は 11 件ありますが、すべて整理済み（失効）で、現在有効な承認はありません。主な承認は以下のとおりです。承認適応症の記載はデータにありませんでした。
+日本では販売されており、11 件の承認のうち 11 件が有効です。主な承認は以下のとおりです。承認適応症の記載はデータにありませんでした。
 
 | 承認番号 | 商品名 | 剤形 | 状態 |
 |---------|------|------|------|
-| 610463004 | アザルフィジンEN錠250mg | 錠250mg | 整理済み |
-| 620004897 | アザルフィジンEN錠500mg | 錠500mg | 整理済み |
-| 670004897 | アザルフィジンEN錠500mg（選） | 錠500mg（選） | 整理済み |
-| 622161402 | サラゾスルファピリジン腸溶錠250mg「CH」 | 錠250mg「CH」 | 整理済み |
-| 621442905 | サラゾスルファピリジン腸溶錠500mg「CH」 | 錠500mg「CH」 | 整理済み |
+| 610463004 | アザルフィジンEN錠250mg | 錠250mg | 有効 |
+| 620004897 | アザルフィジンEN錠500mg | 錠500mg | 有効 |
+| 670004897 | アザルフィジンEN錠500mg（選） | 錠500mg（選） | 有効 |
+| 622161402 | サラゾスルファピリジン腸溶錠250mg「CH」 | 錠250mg「CH」 | 有効 |
+| 621442905 | サラゾスルファピリジン腸溶錠500mg「CH」 | 錠500mg「CH」 | 有効 |
 
 ## 安全性に関する考慮事項
 
@@ -104,7 +104,7 @@ TxGNN モデルは、先天性の発生異常である**合指（趾）症を伴
 - 添付文書にある警告・禁忌の確認（今回のデータには含まれていません）
 - 日本の承認状況の再確認
 
-**参考：** 同じ予測リストのうち、**変形性関節症 (Osteoarthritis)**（予測スコア 99.64%）には、軟骨破壊の抑制を示す動物実験・in vitro の文献があり、エビデンスレベルは L4 です。ただし臨床試験はありません。優先順位を検討する際は、こちらの方向性も併せて確認する価値があります。
+**参考：** 同じ予測リストのうち、**変形性関節症 (Osteoarthritis)**（予測スコア 0.9964）には、軟骨破壊の抑制を示す動物実験・in vitro の文献があり、エビデンスレベルは L4 です。ただし臨床試験はありません。優先順位を検討する際は、こちらの方向性も併せて確認する価値があります。
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

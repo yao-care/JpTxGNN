@@ -4,17 +4,17 @@ title: Lamotrigine
 parent: モデル予測のみ
 nav_order: 174
 evidence_level: L5
-indication_count: 10
+indication_count: 2
 last_modified_at: 2026-10-17
 description: "Lamotrigine：予測新適応症は三叉神経腫瘍 (Trigeminal Nerve Neoplasm)（エビデンスレベル L5）。既存適応症：双極性障害における気分エピソードの再発・再燃抑制、Lennox-Gastaut 症候群（抗てんかん薬）"
 monitor_inn: "Lamotrigine"
-predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "restless legs syndrome"]
+predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
 ---
 
 # Lamotrigine
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **10** 件
+エビデンスレベル: **L5** | 予測適応症: **2** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN モデルは**三叉神経腫瘍 (Trigeminal Nerve Neoplasm)** に有効�
 |------|------|
 | 既存適応症 | 双極性障害における気分エピソードの再発・再燃抑制、Lennox-Gastaut 症候群（抗てんかん薬） |
 | 予測新規適応症 | 三叉神経腫瘍 (Trigeminal Nerve Neoplasm) |
-| TxGNN 予測スコア | 99.97% |
+| TxGNN 予測スコア | 0.9997 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中の承認なし（全承認が整理済み） |
+| 日本市販状況 | 販売中（有効な承認 20 件以上） |
 | 承認番号数 | 20 件（すべて整理済み） |
 | 推奨決定 | Hold |
 
@@ -60,7 +60,7 @@ TxGNN モデルは**三叉神経腫瘍 (Trigeminal Nerve Neoplasm)** に有効�
 ただしこの機序は抗腫瘍作用ではありません。ラモトリギンに既知の抗腫瘍作用はなく、三叉神経腫瘍に適用できる機序的な根拠は確認できません。スコアが高い主な理由は、ラモトリギンが三叉神経痛（神経障害性の顔面痛）と関連していることだと考えられます。この予測は腫瘍そのものの治療効果を示すものとは言えません。
 
 **参考：三叉神経痛について**
-同じ解析で 2 番目に予測された**三叉神経痛**（スコア 99.89%）には、直接のエビデンスがあります。
+同じ解析で 2 番目に予測された**三叉神経痛**（スコア 0.9989）には、直接のエビデンスがあります。
 
 - ラモトリギンを検証した臨床試験が 2 件あります。
   - 20 例の二重盲検プラセボ対照アドオン試験（NCT00203229、完了）
@@ -85,7 +85,7 @@ TxGNN モデルは**三叉神経腫瘍 (Trigeminal Nerve Neoplasm)** に有効�
 
 ## 日本市販情報
 
-20 件の承認はすべて整理済みで、現在販売中の承認はありません。主な承認は次のとおりです。
+20 件の承認が有効で、現在販売中です。主な承認は次のとおりです。
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
@@ -125,7 +125,7 @@ TxGNN モデルは**三叉神経腫瘍 (Trigeminal Nerve Neoplasm)** に有効�
 - 腫瘍細胞や動物モデルでの前臨床データ（抗腫瘍作用の有無）
 - 詳細な作用機序データ
 - 添付文書の警告・禁忌の確認（安全性スクリーニングに必須）
-- 現在日本で販売中の製剤の有無の確認（承認はすべて整理済み）
+- 現在日本で販売中の製剤の確認（有効な承認は 20 件）
 - 評価対象の見直し：三叉神経痛（L2、Proceed with Guardrails）を優先候補として検討する
 ## 免責事項
 

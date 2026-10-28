@@ -6,14 +6,15 @@ title: Chloral Hydrate
 parent: モデル予測のみ (L5)
 nav_order: 45
 evidence_level: L5
-indication_count: 1
+indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Chloral Hydrate
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **1** 件
+エビデンスレベル: **L5** | 予測適応症: **0** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,8 +49,8 @@ Chloral hydrate（抱水クロラール） は従来からの鎮静催眠薬で�
 | 予測新適応症 | なし |
 | TxGNN 予測スコア | なし |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 本サイトのデータに未収載 |
-| 承認番号数 | — |
+| 日本市販状況 | 国内未承認（承認記録なし） |
+| 承認番号数 | 0 件（有効 0 件） |
 | 推奨判断 | Hold |
 
 ## この予測が妥当な理由

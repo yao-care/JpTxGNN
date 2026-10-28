@@ -4,7 +4,7 @@ title: Entecavir
 parent: 中エビデンスレベル
 nav_order: 111
 evidence_level: L4
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-17
 description: "Entecavir：予測新適応症は慢性C型肝炎ウイルス感染 (chronic hepatitis C virus infection)（エビデンスレベル L4）。既存適応症：B型肝炎（抗ウイルス薬、逆転写酵素阻害薬）"
 monitor_inn: "entecavir"
@@ -14,7 +14,7 @@ predicted_indications: ["chronic hepatitis C virus infection", "HIV infectious d
 # Entecavir
 {: .fs-9 }
 
-エビデンスレベル: **L4** | 予測適応症: **10** 件
+エビデンスレベル: **L4** | 予測適応症: **9** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ TxGNN モデルは**慢性C型肝炎ウイルス感染 (chronic hepatitis C viru
 |------|------|
 | 既存適応症 | B型肝炎（抗ウイルス薬、逆転写酵素阻害薬） |
 | 予測新規適応症 | 慢性C型肝炎ウイルス感染 (chronic hepatitis C virus infection) |
-| TxGNN 予測スコア | 99.98% |
+| TxGNN 予測スコア | 0.9998 |
 | エビデンスレベル | L4 |
-| 日本市販状況 | 現在有効な承認なし（承認 14 件はすべて整理・失効済み） |
-| 承認番号数 | 14 件 |
+| 日本市販状況 | 販売中（有効な承認 14 件／全 14 件） |
+| 承認番号数 | 14 件（有効 14 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -81,7 +81,7 @@ HCV は NS5B RNA 依存性 RNA ポリメラーゼで複製する RNA ウイル�
 
 ## 日本市販情報
 
-現在有効な承認はなく、下記はすべて整理・失効済みの承認です（代表的な 5 件）。
+現在有効な承認は 14 件中 14 件です。下記は代表的な 5 件です。
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|

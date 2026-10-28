@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Ropinirole
-parent: モデル予測のみ
+parent: 高エビデンスレベル
 nav_order: 271
-evidence_level: L5
+evidence_level: L2
 indication_count: 10
 monitor_inn: "ropinirole"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "retinal dystrophy with or without extraocular anomalies", "schizophrenia", "myopia X-linked", "congenital disorder of glycosylation with defective fucosylation", "atypical glycine encephalopathy", "myopia 26, X-linked, female-limited", "Charcot-Marie-Tooth disease, demyelinating, type 1G"]
@@ -14,7 +14,7 @@ description: "Ropinirole：予測新適応症は注意欠如・多動症 (Attent
 # Ropinirole
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **10** 件
+エビデンスレベル: **L2** | 予測適応症: **10** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN モデルは**注意欠如・多動症 (Attention Deficit-Hyperactivity Di
 |------|------|
 | 既存適応症 | パーキンソン病 |
 | 予測新規適応症 | 注意欠如・多動症 (Attention Deficit-Hyperactivity Disorder) |
-| TxGNN 予測スコア | 99.99% |
+| TxGNN 予測スコア | 0.9999 |
 | エビデンスレベル | L2（文献上の RCT 1 件。ただし臨床試験登録での完了確認はなく、L3 相当の可能性あり） |
-| 日本市販状況 | 販売承認は全て取消済み（現在市販中の承認なし） |
+| 日本市販状況 | 販売中（有効な承認 20 件以上） |
 | 承認番号数 | 20 件（すべて取消） |
 | 推奨決定 | Hold |
 
@@ -81,7 +81,7 @@ TxGNN モデルは**注意欠如・多動症 (Attention Deficit-Hyperactivity Di
 
 ## 日本市販情報
 
-日本の承認 20 件はすべて取消済みで、現在有効な承認はありません。以下は主な取消済み承認です。
+日本では有効な承認が 20 件あり、販売されています。以下は主な承認です。
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
@@ -105,7 +105,7 @@ TxGNN モデルは**注意欠如・多動症 (Attention Deficit-Hyperactivity Di
 
 **理由：**
 - ADHD に対する臨床試験の登録はなく、エビデンスは 2026 年の RCT 1 件と症例報告、レビューにとどまります。
-- 日本の承認はすべて取消済みで、添付文書の警告・禁忌データも未取得のため、安全性評価に進めません。
+- 日本では有効な承認が 20 件あり販売されていますが、添付文書の警告・禁忌データは未取得のため、安全性評価に進めません。
 
 **進める場合に必要なもの：**
 - 2026 年 RCT（PMID 42640474）の全文を確認し、主要評価項目の結果と有害事象を精査する
@@ -118,7 +118,7 @@ TxGNN モデルは**注意欠如・多動症 (Attention Deficit-Hyperactivity Di
 
 以下は ADHD 以外の予測候補です。
 
-- **統合失調症**（スコア 99.90%、L4、Hold）：前臨床試験、プロドパミン薬の陰性症状に関するメタ解析、症例報告があります。ただしドパミン作動薬は陽性症状を悪化させる可能性があり、知識グラフ上でも禁忌とされています。
+- **統合失調症**（スコア 0.9990、L4、Hold）：前臨床試験、プロドパミン薬の陰性症状に関するメタ解析、症例報告があります。ただしドパミン作動薬は陽性症状を悪化させる可能性があり、知識グラフ上でも禁忌とされています。
 - **その他**（顔指趾生殖器症候群、X 連鎖性近視、網膜ジストロフィーなど）：いずれも L5（モデル予測のみ）で、機序的な根拠は乏しく、保留が妥当です。
 ## 免責事項
 

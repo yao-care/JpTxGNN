@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Tetracycline
-parent: 中エビデンスレベル
+parent: モデル予測のみ
 nav_order: 303
-evidence_level: L4
+evidence_level: L5
 indication_count: 4
 last_modified_at: 2026-10-17
 description: "Tetracycline：予測新適応症は点状表層角結膜炎 (Punctate Epithelial Keratoconjunctivitis)（エビデンスレベル L4）。既存適応症：淋菌感染症、軟性下疳、性病性リンパ肉芽腫、猩紅熱、炭疽、ブルセラ症、百日咳、野兎病、ガス壊疽、回帰熱、ワイル病、発疹チフス、つつが虫病…"
@@ -14,7 +14,7 @@ predicted_indications: ["punctate epithelial keratoconjunctivitis", "chronic eth
 # Tetracycline
 {: .fs-9 }
 
-エビデンスレベル: **L4** | 予測適応症: **4** 件
+エビデンスレベル: **L5** | 予測適応症: **4** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -39,7 +39,7 @@ predicted_indications: ["punctate epithelial keratoconjunctivitis", "chronic eth
 ## 一言要約
 
 テトラサイクリンは、淋菌感染症、リケッチア感染症、結膜炎などの細菌感染症に使われてきた抗生物質です。
-TxGNN モデルは**点状表層角結膜炎 (Punctate Epithelial Keratoconjunctivitis)** に有効である可能性を予測しています（スコア 99.58%）。
+TxGNN モデルは**点状表層角結膜炎 (Punctate Epithelial Keratoconjunctivitis)** に有効である可能性を予測しています（スコア 0.9958）。
 ただし、現時点で臨床試験の登録はなく、裏付けとなる文献は **1 編**（症例報告）のみです。
 
 ## クイック概要
@@ -48,10 +48,10 @@ TxGNN モデルは**点状表層角結膜炎 (Punctate Epithelial Keratoconjunct
 |------|------|
 | 既存適応症 | 淋菌感染症、軟性下疳、性病性リンパ肉芽腫、猩紅熱、炭疽、ブルセラ症、百日咳、野兎病、ガス壊疽、回帰熱、ワイル病、発疹チフス、つつが虫病、眼瞼炎、結膜炎 |
 | 予測新規適応症 | 点状表層角結膜炎 (Punctate Epithelial Keratoconjunctivitis) |
-| TxGNN 予測スコア | 99.58% |
-| エビデンスレベル | L4 |
-| 日本市販状況 | 承認は全て取消済み（現在市販なし） |
-| 承認番号数 | 6 件（すべて取消） |
+| TxGNN 予測スコア | 0.9958 |
+| エビデンスレベル | L5 |
+| 日本市販状況 | 販売中（有効な承認 6 件／全 6 件） |
+| 承認番号数 | 6 件（有効 6 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -97,7 +97,7 @@ TxGNN モデルは**点状表層角結膜炎 (Punctate Epithelial Keratoconjunct
 
 **理由：**
 - 点状表層角結膜炎を裏付けるのは症例報告 1 編のみで、しかもその報告は有効性を示すものではありません。臨床試験もなく、L4 にとどまります。
-- 日本では承認がすべて取消されており、市販製剤がありません。添付文書の警告・禁忌データも未取得です。
+- 日本では市販されており、6件の承認のうち6件が有効です。添付文書の警告・禁忌データも未取得です。
 
 **進める場合に必要なもの：**
 - PMDA の添付文書から警告・禁忌を取得し、安全性スクリーニングを行う（ブロッキング事項）
@@ -109,9 +109,9 @@ TxGNN モデルは**点状表層角結膜炎 (Punctate Epithelial Keratoconjunct
 
 | 予測疾患 | TxGNN スコア | エビデンスレベル | 推奨 |
 |------|------|------|------|
-| 慢性副鼻腔炎 (Chronic Rhinosinusitis) | 99.15% | L1 | Proceed with Guardrails |
-| 慢性篩骨洞炎 (Chronic Ethmoidal Sinusitis) | 99.15% | L4 | Research Question |
-| 副鼻腔腫瘍 (Paranasal Sinus Neoplasm) | 99.10% | L5 | Hold |
+| 慢性副鼻腔炎 (Chronic Rhinosinusitis) | 0.9915 | L5 | Proceed with Guardrails |
+| 慢性篩骨洞炎 (Chronic Ethmoidal Sinusitis) | 0.9915 | L5 | Research Question |
+| 副鼻腔腫瘍 (Paranasal Sinus Neoplasm) | 0.9910 | L5 | Hold |
 
 慢性副鼻腔炎については、メタアナリシスやレビューが複数あります。ただし、その多くはテトラサイクリン自体ではなく、同系統のドキシサイクリンに関するものです。第一候補より先に、この疾患を優先して検討する価値があります。
 ## 免責事項

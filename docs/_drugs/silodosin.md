@@ -4,9 +4,9 @@ title: Silodosin
 parent: モデル予測のみ
 nav_order: 281
 evidence_level: L5
-indication_count: 10
+indication_count: 6
 monitor_inn: "Silodosin"
-predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly", "persistent fetal circulation syndrome", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "chronic thromboembolic pulmonary hypertension"]
+predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly"]
 last_modified_at: 2026-10-17
 description: "Silodosin：予測新適応症はAmbras 型先天性汎発性多毛症 (Ambras type hypertrichosis universalis congenita)（エビデンスレベル L5）。既存適応症：排尿障害改善薬、α1アドレナリン受容体拮抗薬"
 ---
@@ -14,7 +14,7 @@ description: "Silodosin：予測新適応症はAmbras 型先天性汎発性多�
 # Silodosin
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **10** 件
+エビデンスレベル: **L5** | 予測適応症: **6** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN モデルは **Ambras 型先天性汎発性多毛症 (Ambras type hypertri
 |------|------|
 | 既存適応症 | 排尿障害改善薬、α1アドレナリン受容体拮抗薬 |
 | 予測新規適応症 | Ambras 型先天性汎発性多毛症 (Ambras type hypertrichosis universalis congenita) |
-| TxGNN 予測スコア | 99.99% |
+| TxGNN 予測スコア | 0.9999 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売承認はすべて取消済み（現在有効な承認なし） |
+| 日本市販状況 | 販売中（有効な承認 20 件以上） |
 | 承認番号数 | 20 件（すべて取消） |
 | 推奨決定 | Hold |
 
@@ -72,7 +72,7 @@ TxGNN モデルは **Ambras 型先天性汎発性多毛症 (Ambras type hypertri
 
 ## 日本市販情報
 
-販売承認 20 件はすべて取消済みです。代表的なものを示します。
+有効な販売承認 20 件があります。代表的なものを示します。
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
@@ -97,7 +97,7 @@ TxGNN モデルは **Ambras 型先天性汎発性多毛症 (Ambras type hypertri
 
 **理由：**
 - 予測スコアは高いものの、臨床試験・文献がなく（L5）、機序的な裏付けも見当たりません。
-- 日本での販売承認はすべて取消済みで、添付文書の安全性情報も未確認です。
+- 日本では販売されており、有効な販売承認が 20 件あります。添付文書の安全性情報は未確認です。
 
 **進める場合に必要なもの：**
 - PMDA 添付文書の警告・禁忌の取得（安全性スクリーニングに必須）

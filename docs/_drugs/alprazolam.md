@@ -4,17 +4,17 @@ title: Alprazolam
 parent: 中エビデンスレベル
 nav_order: 21
 evidence_level: L4
-indication_count: 10
+indication_count: 3
 last_modified_at: 2026-10-17
 description: "Alprazolam：予測新適応症は不眠症 (Insomnia)（エビデンスレベル L4）。既存適応症：抗不安薬、マイナートランキライザー、催眠鎮静薬"
 monitor_inn: "Alprazolam"
-predicted_indications: ["insomnia (disease)", "benign paroxysmal torticollis of infancy", "agoraphobia", "attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "obsessive-compulsive disorder", "chondromyxoid fibroma", "specific developmental disorder", "faciodigitogenital syndrome", "phobic disorder"]
+predicted_indications: ["insomnia (disease)", "benign paroxysmal torticollis of infancy", "agoraphobia"]
 ---
 
 # Alprazolam
 {: .fs-9 }
 
-エビデンスレベル: **L4** | 予測適応症: **10** 件
+エビデンスレベル: **L4** | 予測適応症: **3** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ TxGNN モデルは**不眠症 (insomnia)** に有効である可能性を予測�
 |------|------|
 | 既存適応症 | 抗不安薬、マイナートランキライザー、催眠鎮静薬 |
 | 予測新規適応症 | 不眠症 (Insomnia) |
-| TxGNN 予測スコア | 99.81% |
+| TxGNN 予測スコア | 0.9981 |
 | エビデンスレベル | L4 |
-| 日本市販状況 | 有効な承認なし（承認はすべて整理済み） |
-| 承認番号数 | 14 件（すべて整理済み） |
+| 日本市販状況 | 販売中（有効な承認 14 件／全 14 件） |
+| 承認番号数 | 14 件（有効 14 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -82,7 +82,7 @@ TxGNN モデルは**不眠症 (insomnia)** に有効である可能性を予測�
 
 ## 日本市販情報
 
-14 件の承認はすべて整理済みで、現在有効な承認はありません。主な 5 件を示します。
+14 件の承認のうち 14 件が有効です(日本で販売中)。主な 5 件を示します。
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
@@ -108,7 +108,7 @@ TxGNN モデルは**不眠症 (insomnia)** に有効である可能性を予測�
 
 **理由：**
 - TxGNN スコアは高いものの、不眠症に対する臨床試験はなく、文献も間接的な研究にとどまります（L4）。
-- 日本の承認はすべて整理済みで、依存・記憶障害・転倒などベンゾジアゼピン特有のリスクもあります。現時点では再利用候補として推進できません。
+- ベンゾジアゼピン特有のリスク(依存・記憶障害・転倒など)もあります。現時点では再利用候補として推進できません。
 
 **進める場合に必要なもの：**
 - 不眠症に対する RCT またはシステマティックレビューによる有効性・安全性の確認

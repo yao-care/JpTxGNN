@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Clotrimazole
-parent: モデル予測のみ
+parent: 中エビデンスレベル
 nav_order: 77
-evidence_level: L5
-indication_count: 10
+evidence_level: L4
+indication_count: 3
 last_modified_at: 2026-10-17
 description: "Clotrimazole：予測新適応症はニキビ (acne)（エビデンスレベル L5）。既存適応症：抗真菌薬（エルゴステロール合成阻害薬）：カンジダに起因する腟炎および外陰腟炎、白癬、カンジダ症、癜風、口腔カンジダ症"
 monitor_inn: "Clotrimazole"
-predicted_indications: ["acne (disease)", "vulvovaginitis", "postmenopausal atrophic vaginitis", "trichomonal vulvovaginitis", "ectothrix infectious disease", "Majocchi granuloma", "endothrix infectious disease"]
+predicted_indications: ["acne (disease)", "vulvovaginitis", "postmenopausal atrophic vaginitis"]
 ---
 
 # Clotrimazole
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **10** 件
+エビデンスレベル: **L4** | 予測適応症: **3** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ TxGNN モデルの予測で最上位となったのは **ニキビ (acne)** で�
 |------|------|
 | 既存適応症 | 抗真菌薬（エルゴステロール合成阻害薬）：カンジダに起因する腟炎および外陰腟炎、白癬、カンジダ症、癜風、口腔カンジダ症 |
 | 予測新規適応症 | ニキビ (acne) |
-| TxGNN 予測スコア | 99.86% |
+| TxGNN 予測スコア | 0.9986 |
 | エビデンスレベル | L4（ニキビについて。前臨床・機序的推定のみ） |
-| 日本市販状況 | 販売中の承認なし（4 件すべて整理・取消済み） |
-| 承認番号数 | 4 件 |
+| 日本市販状況 | 販売中（有効な承認 4 件／全 4 件） |
+| 承認番号数 | 4 件（有効 4 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -87,7 +87,7 @@ TxGNN モデルの予測で最上位となったのは **ニキビ (acne)** で�
 
 ## 日本市販情報
 
-現在、販売中の承認はなく、取得した 4 件はすべて整理・取消済みです。
+日本国内では販売中で、4件の承認のうち4件が有効です。
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|

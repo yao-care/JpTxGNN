@@ -4,9 +4,9 @@ title: Pioglitazone
 parent: モデル予測のみ
 nav_order: 246
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 monitor_inn: "Pioglitazone"
-predicted_indications: ["opsismodysplasia", "focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis", "autoimmune oophoritis"]
+predicted_indications: ["opsismodysplasia", "focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
 last_modified_at: 2026-10-17
 description: "Pioglitazone：予測新適応症はオプシスモ異形成症 (Opsismodysplasia)（エビデンスレベル L5）。既存適応症：2型糖尿病（PPARγ 作動薬）"
 ---
@@ -14,7 +14,7 @@ description: "Pioglitazone：予測新適応症はオプシスモ異形成症 (O
 # Pioglitazone
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **10** 件
+エビデンスレベル: **L5** | 予測適応症: **9** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN モデルは **オプシスモ異形成症 (Opsismodysplasia)** に有効�
 |------|------|
 | 既存適応症 | 2型糖尿病（PPARγ 作動薬） |
 | 予測新規適応症 | オプシスモ異形成症 (Opsismodysplasia) |
-| TxGNN 予測スコア | 99.59% |
+| TxGNN 予測スコア | 0.9959 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 承認は全て取消（現在市販中の承認なし） |
+| 日本市販状況 | 販売中（有効な承認 20 件以上） |
 | 承認番号数 | 20 件（すべて取消） |
 | 推奨決定 | Hold |
 
@@ -66,15 +66,14 @@ TxGNN モデルは **オプシスモ異形成症 (Opsismodysplasia)** に有効�
 
 | 順位 | 疾患 | スコア | 機序上の見立て |
 |------|------|--------|----------------|
-| 2 | 限局性スティッフリム症候群 | 99.50% | PPARγ の抗炎症作用。直接の関連は未確立 |
-| 3 | 古典的スティッフパーソン症候群 | 99.50% | 免疫調整作用による推測のみ |
-| 4 | チアミン反応性機能障害症候群 | 99.48% | インスリン感受性改善。効果の根拠なし |
-| 5 | 薬剤性限局性リポジストロフィー | 99.30% | 脂肪細胞分化の促進で理論上は妥当だが、臨床根拠なし |
-| 6 | 遠心性リポジストロフィー | 99.26% | 同上 |
-| 7 | 圧迫性限局性脂肪萎縮症 | 99.24% | 同上。機械的要因による病態 |
-| 8 | 特発性限局性リポジストロフィー | 99.19% | 同上 |
-| 9 | 膵無形成 | 99.18% | β 細胞機能が必要なため、膵組織がない病態では効果が期待しにくい |
-| 10 | 自己免疫性卵巣炎 | 98.06% | 抗炎症作用や PCOS での使用からの間接的推測のみ |
+| 2 | 限局性スティッフリム症候群 | 0.9950 | PPARγ の抗炎症作用。直接の関連は未確立 |
+| 3 | 古典的スティッフパーソン症候群 | 0.9950 | 免疫調整作用による推測のみ |
+| 4 | チアミン反応性機能障害症候群 | 0.9948 | インスリン感受性改善。効果の根拠なし |
+| 5 | 薬剤性限局性リポジストロフィー | 0.9930 | 脂肪細胞分化の促進で理論上は妥当だが、臨床根拠なし |
+| 6 | 遠心性リポジストロフィー | 0.9926 | 同上 |
+| 7 | 圧迫性限局性脂肪萎縮症 | 0.9924 | 同上。機械的要因による病態 |
+| 8 | 特発性限局性リポジストロフィー | 0.9919 | 同上 |
+| 9 | 膵無形成 | 0.9918 | β 細胞機能が必要なため、膵組織がない病態では効果が期待しにくい |
 
 ## 臨床試験エビデンス
 
@@ -96,7 +95,7 @@ TxGNN モデルは **オプシスモ異形成症 (Opsismodysplasia)** に有効�
 
 ## 日本市販情報
 
-日本の承認 20 件はすべて取消済みで、現在有効な承認はありません。主な承認は以下のとおりです。
+日本の承認 20 件はすべて有効で、現在販売されています。主な承認は以下のとおりです。
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
@@ -120,7 +119,7 @@ TxGNN モデルは **オプシスモ異形成症 (Opsismodysplasia)** に有効�
 **決定：Hold**
 
 **理由：**
-予測を裏付ける臨床試験も文献もなく、エビデンスはモデル予測のみ（L5）です。また、日本の承認がすべて取消されており、安全性の主要データ（添付文書の警告・禁忌）も未入手のため、現時点では先に進められません。
+予測を裏付ける臨床試験も文献もなく、エビデンスはモデル予測のみ（L5）です。また、日本では販売されており有効な承認が 20 件ありますが、安全性の主要データ（添付文書の警告・禁忌）は未入手のため、現時点では先に進められません。
 
 **進める場合に必要なもの：**
 - PMDA 添付文書の警告・禁忌の取得（安全性スクリーニングに必須）

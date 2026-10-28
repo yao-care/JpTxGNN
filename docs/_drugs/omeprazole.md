@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Omeprazole
-parent: 中エビデンスレベル
+parent: モデル予測のみ
 nav_order: 227
-evidence_level: L3
-indication_count: 10
+evidence_level: L5
+indication_count: 1
 last_modified_at: 2026-10-17
-description: "Omeprazole：予測新適応症は十二指腸胃逆流 (duodenogastric reflux)（エビデンスレベル L3）。既存適応症：胃潰瘍、十二指腸潰瘍、吻合部潰瘍、逆流性食道炎、非びらん性胃食道逆流症、Zollinger-Ellison 症候群…"
 monitor_inn: "Omeprazole"
-predicted_indications: ["duodenal obstruction", "abnormality of glucagon secretion", "gastroduodenitis", "Smouldering systemic mastocytosis", "lymphoadenopathic mastocytosis with eosinophilia", "duodenitis"]
+predicted_indications: ["duodenal obstruction"]
+description: "Omeprazole：予測新適応症はDuodenal obstruction（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 
 # Omeprazole
 {: .fs-9 }
 
-エビデンスレベル: **L3** | 予測適応症: **10** 件
+エビデンスレベル: **L5** | 予測適応症: **1** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,23 @@ predicted_indications: ["duodenal obstruction", "abnormality of glucagon secreti
 
 </div>
 
-## オメプラゾール：消化性潰瘍・逆流性食道炎から十二指腸胃逆流へ
+## Omeprazole: Duodenal obstruction
 {: .text-alpha }
 
 ## 一言要約
 
 オメプラゾールはプロトンポンプ阻害薬で、元々胃潰瘍、十二指腸潰瘍、逆流性食道炎などの治療に使用されていました。
-TxGNN モデルは**十二指腸胃逆流 (duodenogastric reflux)** に有効である可能性を予測していますが、この予測を直接検証する臨床試験はなく、関連文献 **15 編**も観察研究・動物実験・総説が中心です。
 エビデンスは限定的で、現時点では研究課題の段階にあります。
 
 ## クイック概要
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 胃潰瘍、十二指腸潰瘍、吻合部潰瘍、逆流性食道炎、非びらん性胃食道逆流症、Zollinger-Ellison 症候群、ヘリコバクター・ピロリの除菌の補助 |
-| 予測新規適応症 | 十二指腸胃逆流 (duodenogastric reflux) |
-| TxGNN 予測スコア | 99.64% |
-| エビデンスレベル | L3 |
-| 日本市販状況 | 取消済みの承認のみ（有効な承認なし） |
+| 既存適応症 | 日本の承認情報に適応症の記載なし |
+| 予測新規適応症 | Duodenal obstruction |
+| TxGNN 予測スコア | 0.9964 |
+| エビデンスレベル | L5 |
+| 日本市販状況 | 販売中（有効な承認 20 件以上） |
 | 承認番号数 | 20 件（すべて取消済み） |
 | 推奨決定 | Hold |
 
@@ -84,7 +83,7 @@ Barrett 食道患者を対象とした研究では、オメプラゾールが十
 
 ## 日本市販情報
 
-有効な承認はなく、承認 20 件はすべて取消済みです。主な承認は以下のとおりです。
+主な承認は以下のとおりです。
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
@@ -109,7 +108,7 @@ Barrett 食道患者を対象とした研究では、オメプラゾールが十
 **決定：Hold**
 
 **理由：**
-十二指腸胃逆流に対しては直接の臨床試験がなく、文献も観察研究、動物実験、総説が中心です。オメプラゾールが逆流自体を減らすかどうかは結果が一定せず、動物実験では酸抑制が発がんを促進する懸念も示されています。また、日本の承認はすべて取消済みです。
+十二指腸胃逆流に対しては直接の臨床試験がなく、文献も観察研究、動物実験、総説が中心です。オメプラゾールが逆流自体を減らすかどうかは結果が一定せず、動物実験では酸抑制が発がんを促進する懸念も示されています。
 
 **進める場合に必要なもの：**
 - 十二指腸胃逆流を対象とした、オメプラゾールの前向き比較試験（胆汁逆流の評価指標を含む）
@@ -124,8 +123,8 @@ Barrett 食道患者を対象とした研究では、オメプラゾールが十
 
 同じ予測リストの中では、以下の候補の方がエビデンスが強い状況です。
 
-- **胃空腸吻合部潰瘍 (gastrojejunal ulcer)**：スコア 98.51%、エビデンスレベル L2、Proceed with Guardrails。肥満手術後の吻合部潰瘍予防を比較した Phase 4 試験（NCT00557349、完了、40 例）などがあります。
-- **活動性消化性潰瘍 (active peptic ulcer disease)**：スコア 98.81%、Proceed with Guardrails。ただし既存の承認適応症と重なるため、真の再利用ではありません。
+- 肥満手術後の吻合部潰瘍予防を比較した Phase 4 試験（NCT00557349、完了、40 例）などがあります。
+- ただし既存の承認適応症と重なるため、真の再利用ではありません。
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

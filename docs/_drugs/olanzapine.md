@@ -4,17 +4,17 @@ title: Olanzapine
 parent: モデル予測のみ
 nav_order: 224
 evidence_level: L5
-indication_count: 10
+indication_count: 2
 last_modified_at: 2026-10-17
 description: "Olanzapine：予測新適応症は良性乳児発作性斜頸 (benign paroxysmal torticollis of infancy)（エビデンスレベル L5）。既存適応症：統合失調症、双極性障害"
 monitor_inn: "Olanzapine"
-predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "dysthymic disorder", "distal 17p13.3 microdeletion syndrome", "neurotic disorder", "melancholia", "retinal dystrophy with or without extraocular anomalies", "Ohdo syndrome and variants", "childhood apraxia of speech"]
+predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia"]
 ---
 
 # Olanzapine
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **10** 件
+エビデンスレベル: **L5** | 予測適応症: **2** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,9 +50,9 @@ TxGNN モデルは**良性乳児発作性斜頸 (benign paroxysmal torticollis o
 |------|------|
 | 既存適応症 | 統合失調症、双極性障害 |
 | 予測新規適応症 | 良性乳児発作性斜頸 (benign paroxysmal torticollis of infancy) |
-| TxGNN 予測スコア | 99.54% |
+| TxGNN 予測スコア | 0.9954 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売終了（承認はすべて整理済み） |
+| 日本市販状況 | 販売中（有効な承認 20 件以上） |
 | 承認番号数 | 20 件 |
 | 推奨決定 | Hold |
 
@@ -68,12 +68,7 @@ TxGNN の上位 10 件のうち、エビデンスに差があります。参考�
 
 | 順位 | 疾患 | スコア | エビデンスレベル | 推奨 | 補足 |
 |------|------|--------|-----------------|------|------|
-| 2 | 広場恐怖症 | 99.47% | L4 | Research Question | 治療抵抗性パニック障害での増強療法（主に非盲検）による間接的な根拠のみ |
-| 3 | 気分変調性障害 | 99.28% | L4 | Research Question | 薬剤クラス単位のレビューと小規模研究による間接的な根拠 |
-| 5 | 神経症性障害 | 98.93% | L4 | Hold | 症例報告と処方実態調査が中心。用語も非特異的 |
-| 6 | 神経症性うつ病 | 98.77% | L1 | Proceed with Guardrails | 治療抵抗性うつ病の増強療法に関する複数のシステマティックレビュー／ネットワークメタ解析あり |
-| 7 | メランコリア | 98.77% | L1 | Proceed with Guardrails | 上記と同じ文献群。メランコリー型に特化した研究はない |
-| 1, 4, 8, 9, 10 | 良性乳児発作性斜頸、17p13.3 遠位微細欠失症候群、網膜ジストロフィー、大田症候群、小児発語失行 | 98.6〜99.5% | L4〜L5 | Hold | 機序的な関連が確認できない、または精神症状の併存に関する報告のみ |
+| 2 | 広場恐怖症 | 0.9947 | L5 | Research Question | 治療抵抗性パニック障害での増強療法（主に非盲検）による間接的な根拠のみ |
 
 神経症性うつ病とメランコリアの文献には、薬剤クラス全体や双極性うつ病を対象としたものが含まれます。オランザピン単独の根拠として読む際は注意が必要です。
 

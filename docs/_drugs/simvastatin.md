@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Simvastatin
-parent: 高エビデンスレベル
+parent: モデル予測のみ
 nav_order: 282
-evidence_level: L1
-indication_count: 10
+evidence_level: L5
+indication_count: 5
 last_modified_at: 2026-10-17
-description: "Simvastatin：予測新適応症は家族性高コレステロール血症 (Familial Hypercholesterolemia)（エビデンスレベル L1）。既存適応症：高脂血症、家族性高コレステロール血症（脂質異常症治療薬、HMG-CoA 還元酵素阻害薬）"
 monitor_inn: "Simvastatin"
-predicted_indications: ["brain stem infarction", "cholesterol-ester transfer protein deficiency", "HIV infectious disease", "ABri amyloidosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "fibroma of prostate", "simian immunodeficiency virus infection"]
+predicted_indications: ["brain stem infarction", "cholesterol-ester transfer protein deficiency", "HIV infectious disease", "ABri amyloidosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+description: "Simvastatin：予測新適応症はBrain stem infarction（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 
 # Simvastatin
 {: .fs-9 }
 
-エビデンスレベル: **L1** | 予測適応症: **10** 件
+エビデンスレベル: **L5** | 予測適応症: **5** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,24 @@ predicted_indications: ["brain stem infarction", "cholesterol-ester transfer pro
 
 </div>
 
-## シンバスタチン：脂質異常症から家族性高コレステロール血症へ
+## Simvastatin: Brain stem infarction
 {: .text-alpha }
 
 ## 一言要約
 
 シンバスタチンは HMG-CoA 還元酵素阻害薬（スタチン）で、元々は高脂血症や家族性高コレステロール血症の治療に使用されていました。
-TxGNN モデルは**家族性高コレステロール血症 (Familial Hypercholesterolemia)** に有効である可能性を最上位で予測しています。ただしこれは既存適応症と重なる疾患です。
+ただしこれは既存適応症と重なる疾患です。
 現在、**8 件の臨床試験**と **17 編の文献**がこの方向性を支持しています。
 
 ## クイック概要
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 高脂血症、家族性高コレステロール血症（脂質異常症治療薬、HMG-CoA 還元酵素阻害薬） |
-| 予測新規適応症 | 家族性高コレステロール血症 (Familial Hypercholesterolemia) |
-| TxGNN 予測スコア | 99.63% |
-| エビデンスレベル | L1 |
-| 日本市販状況 | 販売中の承認なし（20 件すべて取消・整理済み） |
+| 既存適応症 | 日本の承認情報に適応症の記載なし |
+| 予測新規適応症 | Brain stem infarction |
+| TxGNN 予測スコア | 0.9941 |
+| エビデンスレベル | L5 |
+| 日本市販状況 | 販売中（有効な承認 20 件以上） |
 | 承認番号数 | 20 件 |
 | 推奨決定 | Proceed with Guardrails |
 
@@ -58,7 +58,7 @@ TxGNN モデルは**家族性高コレステロール血症 (Familial Hyperchole
 
 現在、詳細な作用機序データはありません。既知の情報によると、シンバスタチンは HMG-CoA 還元酵素阻害薬に分類され、肝臓でのコレステロール合成を抑え、LDL 受容体の発現を高めて LDL コレステロールを下げます。
 
-予測された家族性高コレステロール血症は、日本での既存適応症にすでに含まれています。そのため今回の予測は、新しい疾患への展開というより、既存適応症をモデルが再現したものと考えるのが妥当です。
+そのため今回の予測は、新しい疾患への展開というより、既存適応症をモデルが再現したものと考えるのが妥当です。
 
 臨床試験では、シンバスタチンが基礎治療または比較対照として使われた試験が中心で、シンバスタチン単独の有効性を直接検証した試験は限られます。
 
@@ -93,7 +93,7 @@ TxGNN モデルは**家族性高コレステロール血症 (Familial Hyperchole
 
 ## 日本市販情報
 
-現在、販売中の承認はなく、取得済みの 20 件はすべて取消扱いです。代表的な 5 件を示します。
+代表的な 5 件を示します。
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|

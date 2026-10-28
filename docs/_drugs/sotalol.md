@@ -4,17 +4,17 @@ title: Sotalol
 parent: モデル予測のみ
 nav_order: 285
 evidence_level: L5
-indication_count: 7
+indication_count: 6
 monitor_inn: "Sotalol"
-predicted_indications: ["sick sinus syndrome 2, autosomal dominant", "Wildervanck syndrome", "sarcoglycanopathy", "stroke disorder", "manic bipolar affective disorder", "macrocephaly, dysmorphic facies, and psychomotor retardation", "obsolete susceptibility to ischemic stroke"]
+predicted_indications: ["sick sinus syndrome 2, autosomal dominant", "Wildervanck syndrome", "sarcoglycanopathy", "stroke disorder", "manic bipolar affective disorder", "macrocephaly, dysmorphic facies, and psychomotor retardation"]
 last_modified_at: 2026-10-17
-description: "Sotalol：予測新適応症は洞不全症候群 2 型、常染色体優性 (sick sinus syndrome 2, autosomal dominant)（エビデンスレベル L5）。既存適応症：抗不整脈薬、β遮断薬、カリウムチャネル遮断薬"
+description: "Sotalol：予測新適応症は洞不全症候群 2 型、常染色体優性 (sick sinus syndrome 2, autosomal dominant) (sick sinus syndrome 2, autosomal dominant)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 
 # Sotalol
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **7** 件
+エビデンスレベル: **L5** | 予測適応症: **6** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ description: "Sotalol：予測新適応症は洞不全症候群 2 型、常染�
 
 </div>
 
-## ソタロール：抗不整脈薬から脳卒中（予測）へ
+## Sotalol: 洞不全症候群 2 型、常染色体優性 (sick sinus syndrome 2, autosomal dominant) (sick sinus syndrome 2, autosomal dominant)
 {: .text-alpha }
 
 ## 一言要約
@@ -46,12 +46,12 @@ TxGNN モデルの予測上位は洞不全症候群 2 型（常染色体優性�
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 抗不整脈薬、β遮断薬、カリウムチャネル遮断薬 |
-| 予測新規適応症 | 洞不全症候群 2 型、常染色体優性 (sick sinus syndrome 2, autosomal dominant)（予測順位 1 位） |
-| TxGNN 予測スコア | 99.76%（脳卒中 (stroke disorder) は 99.44%） |
+| 既存適応症 | 日本の承認情報に適応症の記載なし |
+| 予測新規適応症 | 洞不全症候群 2 型、常染色体優性 (sick sinus syndrome 2, autosomal dominant) (sick sinus syndrome 2, autosomal dominant) |
+| TxGNN 予測スコア | 0.9976 |
 | エビデンスレベル | L5（予測順位 1 位）／L4（脳卒中） |
-| 日本市販状況 | 市販中の承認なし（取消のみ） |
-| 承認番号数 | 7 件（すべて取消） |
+| 日本市販状況 | 販売中（有効な承認 7 件／全 7 件） |
+| 承認番号数 | 7 件（有効 7 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由

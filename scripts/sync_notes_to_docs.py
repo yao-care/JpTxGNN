@@ -296,6 +296,7 @@ def sync_notes_to_docs():
     print(f"Found {len(drug_dirs)} drug directories (lang={lang})")
 
     synced = 0
+    synced_names = []
     errors = []
     missing_parent = set()
 
@@ -366,9 +367,23 @@ indication_count: {indication_count}
         full_content = finalize_front_matter(docs_drugs_dir / f"{drug_name}.md", full_content, base_dir)
         (docs_drugs_dir / f"{drug_name}.md").write_text(full_content, encoding="utf-8")
         synced += 1
+        synced_names.append(drug_name)
 
     print(f"\n{'='*60}")
     print(f"Synced: {synced} drugs")
+    # 2026-10-28：事實層（主預測、分數、原適應症、市場狀態、H1、description）一律由程式產生，
+    # notes 裡模型寫的舊事實不得蓋回頁面 → 寫完的頁交給母目錄的 factlayer 處理（沒有母目錄就略過並警告）
+    fl = base_dir.parent / ".claude" / "factlayer_20261028.py"
+    if synced_names and fl.exists():
+        import subprocess, sys as _sys
+        pages = ",".join(f"{base_dir.name}:{n}" for n in synced_names)
+        r = subprocess.run([_sys.executable, str(fl), "--apply", "--any-scope", "--pages", pages],
+                           cwd=base_dir.parent, capture_output=True, text=True)
+        print("factlayer:", (r.stdout.strip().splitlines() or [""])[-1][:200])
+        if r.returncode != 0:
+            print("WARNING: factlayer 失敗：", r.stderr[-300:])
+    elif synced_names:
+        print("WARNING: 找不到 ../.claude/factlayer_20261028.py，頁面事實層未套用（不要在母目錄外單獨跑 sync）")
     print(f"Errors: {len(errors)}")
     if missing_parent:
         print(f"WARNING: no parent page for levels: {sorted(missing_parent)}")

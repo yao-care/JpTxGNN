@@ -4,17 +4,17 @@ title: Etodolac
 parent: モデル予測のみ
 nav_order: 125
 evidence_level: L5
-indication_count: 10
+indication_count: 6
 last_modified_at: 2026-10-17
 description: "Etodolac：予測新適応症は肢端中間部異形成症 Hunter-Thompson 型 (acromesomelic dysplasia…（エビデンスレベル L5）。既存適応症：鎮痛薬、抗炎症薬、シクロオキシゲナーゼ2阻害薬（関節リウマチ）"
 monitor_inn: "Etodolac"
-predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "spondyloarthropathy, susceptibility to", "brachyolmia", "ankylosing spondylitis", "pseudoachondroplasia", "hypermobility of coccyx", "inflammatory spondylopathy"]
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "hypermobility of coccyx"]
 ---
 
 # Etodolac
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **10** 件
+エビデンスレベル: **L5** | 予測適応症: **6** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,14 +33,13 @@ predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachy
 
 </div>
 
-## エトドラク：関節リウマチから急性骨髄腫様形成異常（Hunter-Thompson 型）へ
+## エトドラク：関節リウマチから先端中間異形成 Hunter-Thompson 型へ
 {: .text-alpha }
 
 ## 一言要約
 
 エトドラクは COX-2 を選択的に阻害する鎮痛・抗炎症薬で、元々関節リウマチの治療に使用されていました。
 TxGNN モデルは **肢端中間部異形成症 Hunter-Thompson 型 (acromesomelic dysplasia, Hunter-Thompson type)** に有効である可能性を予測していますが、この疾患に関する臨床試験・文献は **0 件** で、モデル予測のみの段階です。
-なお、強直性脊椎炎（予測順位 6 位）と炎症性脊椎症（同 10 位）には、間接的ながら文献の裏付けがあります。
 
 ## クイック概要
 
@@ -48,21 +47,20 @@ TxGNN モデルは **肢端中間部異形成症 Hunter-Thompson 型 (acromesome
 |------|------|
 | 既存適応症 | 鎮痛薬、抗炎症薬、シクロオキシゲナーゼ2阻害薬（関節リウマチ） |
 | 予測新規適応症 | 肢端中間部異形成症 Hunter-Thompson 型 (acromesomelic dysplasia, Hunter-Thompson type) |
-| TxGNN 予測スコア | 99.97% |
+| TxGNN 予測スコア | 0.9997 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売承認はすべて取消済み（現在有効な承認なし） |
-| 承認番号数 | 12 件（すべて取消） |
+| 日本市販状況 | 販売中（有効な承認 12 件／全 12 件） |
+| 承認番号数 | 12 件（有効 12 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
 
 現在、詳細な作用機序データはありません。既知の情報によると、エトドラクは COX-2 選択性の高い非ステロイド性抗炎症薬（NSAID）で、プロスタグランジン合成を抑えて炎症と痛みを軽減し、関節リウマチなどで使用されてきました。
 
-ただし、予測された肢端中間部異形成症は GDF5（CDMP1）の異常による遺伝性骨格異形成症で、炎症が主因の疾患ではありません。そのため機序的な裏付けは乏しく、この予測は TxGNN の知識グラフ上の関連に基づくものにとどまります。
+ただし、予測された肢端中間部異形成症は GDF5（CDMP1）の異常による遺伝性骨格異形成症で、炎症が主因の疾患ではありません。そのため機序的な裏付けは乏しく、このスコアは TxGNN モデル（深層学習）によるもので、関連する疾患間でモデルが学習した類似性を反映している可能性があり、生物学的な証拠ではありません。
 
 上位 5 件のうち、機序的にもっともらしいのは 4 位の脊椎関節症感受性（NSAID は脊椎関節炎の第一選択薬）です。ただしこれは遺伝的感受性を表す用語で、エトドラク固有の試験や文献はありません。
 
-予測順位 6 位の**強直性脊椎炎**と 10 位の**炎症性脊椎症**は、炎症性リウマチ疾患という点で元の適応症に近く、機序的に最も妥当な候補です。
 
 ## 臨床試験エビデンス
 
@@ -70,7 +68,7 @@ TxGNN モデルは **肢端中間部異形成症 Hunter-Thompson 型 (acromesome
 
 ## 文献エビデンス
 
-予測 1 位の疾患に関する文献はありません。以下は、機序的に妥当性が高い 6 位（強直性脊椎炎）の関連文献です（10 位の炎症性脊椎症にもほぼ同じ文献が紐づいています）。いずれもこの疾患に特化した試験ではなく、間接的なエビデンスです。
+予測 1 位の疾患(先端中間異形成 Hunter-Thompson 型)に関する文献はありません。以下は関連疾患の文献です。いずれもこの疾患に特化した試験ではなく、間接的なエビデンスです。
 
 | PMID | 年 | タイプ | ジャーナル | 主な知見 |
 |------|-----|------|------|---------|
@@ -85,7 +83,7 @@ TxGNN モデルは **肢端中間部異形成症 Hunter-Thompson 型 (acromesome
 
 ## 日本市販情報
 
-現在有効な承認はなく、以下はすべて取消済みです（主要 5 件を記載）。
+現在、有効な承認は 12 件中 12 件です（主要 5 件を記載）。
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
@@ -109,13 +107,12 @@ TxGNN モデルは **肢端中間部異形成症 Hunter-Thompson 型 (acromesome
 **決定：Hold**
 
 **理由：**
-予測 1 位の疾患は炎症が主因ではない遺伝性骨格異形成症で、臨床試験も文献もなく、モデル予測のみ（L5）です。また日本の販売承認はすべて取消済みで、添付文書ベースの安全性情報も未確認です。
+予測 1 位の疾患は炎症が主因ではない遺伝性骨格異形成症で、臨床試験も文献もなく、モデル予測のみ（L5）です。日本では販売されており（有効な承認は 12 件中 12 件）、添付文書ベースの安全性情報は未確認です。
 
 **進める場合に必要なもの：**
 - 添付文書（警告・禁忌）の取得と安全性スクリーニング
 - 詳細な作用機序（MOA）データの補充
-- 候補の再選定：強直性脊椎炎・炎症性脊椎症（いずれも L4、研究課題として検討可）を優先し、疾患特異的な試験や文献を調査
-- 日本で再販売する場合の承認状況の確認（現在は有効な承認なし）
+- 日本での承認状況の確認（現在、有効な承認は 12 件中 12 件）
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

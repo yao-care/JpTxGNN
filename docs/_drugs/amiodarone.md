@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Amiodarone
-parent: モデル予測のみ
+parent: 中エビデンスレベル
 nav_order: 23
-evidence_level: L5
+evidence_level: L4
 indication_count: 10
 monitor_inn: "Amiodarone"
 predicted_indications: ["catecholaminergic polymorphic ventricular tachycardia", "incessant infant ventricular tachycardia", "ventricular tachycardia", "obsolete bundle branch block", "rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "heparin cofactor 2 deficiency", "trichotillomania", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "gout"]
@@ -14,7 +14,7 @@ description: "Amiodarone：予測新適応症はカテコラミン誘発多形�
 # Amiodarone
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **10** 件
+エビデンスレベル: **L4** | 予測適応症: **10** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ TxGNN モデルは最上位の予測として**カテコラミン誘発多形性
 |------|------|
 | 既存適応症 | 抗不整脈薬（カリウムチャネル遮断薬）：肥大型心筋症、心房細動 |
 | 予測新規適応症 | カテコラミン誘発多形性心室頻拍 (Catecholaminergic Polymorphic Ventricular Tachycardia) |
-| TxGNN 予測スコア | 99.78% |
+| TxGNN 予測スコア | 0.9978 |
 | エビデンスレベル | L4（参考：心室頻拍は L1） |
-| 日本市販状況 | 販売承認は取り消し済みのみ（現在有効な承認なし） |
-| 承認番号数 | 11 件（すべて取消） |
+| 日本市販状況 | 販売中（有効な承認 11 件／全 11 件） |
+| 承認番号数 | 11 件（有効 11 件） |
 | 推奨決定 | Hold（CPVT）／Proceed with Guardrails（心室頻拍） |
 
 ## この予測が妥当である理由
@@ -103,7 +103,7 @@ CPVT 領域で直接の根拠となるのは、主に上記のコホート研究
 
 ## 日本市販情報
 
-日本では、アミオダロン製剤の承認 11 件がすべて取消となっており、現在有効な承認はありません。主な履歴は以下のとおりです。
+日本では販売されており、11 件の承認のうち 11 件が有効です。主な履歴は以下のとおりです。
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
@@ -131,9 +131,9 @@ CPVT 領域で直接の根拠となるのは、主に上記のコホート研究
 **決定：Hold（CPVT について）**
 
 **理由：**
-- CPVT は TxGNN スコアが高い（99.78%）ものの、臨床試験がなく、文献も症例報告・コホート研究に限られます。β遮断薬やフレカイニドという確立した治療もあり、エビデンスレベルは L4 です。
+- CPVT は TxGNN スコアが高い（0.9978）ものの、臨床試験がなく、文献も症例報告・コホート研究に限られます。β遮断薬やフレカイニドという確立した治療もあり、エビデンスレベルは L4 です。
 - 同じデータの中では、心室頻拍が最も有望です（L1、Proceed with Guardrails）。複数の Phase 3/4 RCT が裏付けとなっています。ただし、これは既存の抗不整脈薬としての用途と重なる部分が大きい点に留意が必要です。
-- 日本では販売承認がすべて取消となっているため、実際に進めるには承認状況の再確認が必須です。
+- 日本では販売されており、11 件の承認のうち 11 件が有効です。
 
 **進める場合に必要なもの：**
 - 日本の添付文書（警告・禁忌）の取得と確認（現在未取得で、安全性評価の前提となる）

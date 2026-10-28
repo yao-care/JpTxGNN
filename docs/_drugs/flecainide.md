@@ -4,9 +4,9 @@ title: Flecainide
 parent: 中エビデンスレベル
 nav_order: 135
 evidence_level: L4
-indication_count: 10
+indication_count: 9
 monitor_inn: "Flecainide"
-predicted_indications: ["stroke disorder", "obsolete susceptibility to ischemic stroke", "sick sinus syndrome 2, autosomal dominant", "ABri amyloidosis", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "duodenal obstruction", "cerebrovascular disorder", "nephrogenic syndrome of inappropriate antidiuresis"]
+predicted_indications: ["stroke disorder", "sick sinus syndrome 2, autosomal dominant", "ABri amyloidosis", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "duodenal obstruction", "cerebrovascular disorder", "nephrogenic syndrome of inappropriate antidiuresis"]
 last_modified_at: 2026-10-17
 description: "Flecainide：予測新適応症は脳卒中 (stroke disorder)（エビデンスレベル L4）。既存適応症：発作性心房細動・粗動、期外収縮"
 ---
@@ -14,7 +14,7 @@ description: "Flecainide：予測新適応症は脳卒中 (stroke disorder)（�
 # Flecainide
 {: .fs-9 }
 
-エビデンスレベル: **L4** | 予測適応症: **10** 件
+エビデンスレベル: **L4** | 予測適応症: **9** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ TxGNN モデルは**脳卒中 (stroke disorder)** に有効である可能性を
 |------|------|
 | 既存適応症 | 発作性心房細動・粗動、期外収縮 |
 | 予測新規適応症 | 脳卒中 (stroke disorder) |
-| TxGNN 予測スコア | 99.91% |
+| TxGNN 予測スコア | 0.9991 |
 | エビデンスレベル | L4 |
-| 日本市販状況 | 現在は市販されていません（承認はすべて整理済み） |
-| 承認番号数 | 12 件（有効 0 件、整理済み 12 件） |
+| 日本市販状況 | 販売中（有効な承認 12 件／全 12 件） |
+| 承認番号数 | 12 件（有効 12 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -91,7 +91,7 @@ TxGNN モデルは**脳卒中 (stroke disorder)** に有効である可能性を
 | 622644101 | フレカイニド酢酸塩錠５０ｍｇ「ＫＯ」 | 錠５０ｍｇ「ＫＯ」 | 発作性心房細動・粗動、期外収縮 |
 | 622633003 | フレカイニド酢酸塩錠５０ｍｇ「ＶＴＲＳ」 | 錠５０ｍｇ「ＶＴＲＳ」 | 発作性心房細動・粗動、期外収縮 |
 
-※ 上記を含む 12 件の承認はすべて整理済みです。
+※ 上記を含む 12 件の承認のうち、12 件が有効です。
 
 ## 安全性に関する考慮事項
 
@@ -109,7 +109,7 @@ TxGNN モデルは**脳卒中 (stroke disorder)** に有効である可能性を
 
 **理由：**
 - 脳卒中への予測スコアは高いものの、エビデンスは間接的です。唯一の Phase 3 試験は PFO 閉鎖術後の不整脈抑制が目的で、脳卒中予防を直接検証していません。
-- 日本での承認はすべて整理済みで、虚血性心疾患・構造的心疾患での使用制限も、脳卒中集団への適用を難しくしています。
+- 日本では有効な承認が 12 件中 12 件あり、虚血性心疾患・構造的心疾患での使用制限も、脳卒中集団への適用を難しくしています。
 
 **進める場合に必要なもの：**
 - NCT05213104 の結果確認（予定完了：2026 年 9 月）

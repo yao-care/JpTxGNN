@@ -4,7 +4,7 @@ title: Sorafenib
 parent: 高エビデンスレベル
 nav_order: 284
 evidence_level: L2
-indication_count: 10
+indication_count: 6
 last_modified_at: 2026-10-17
 description: "Sorafenib：予測新適応症は脂肪肉腫 (Liposarcoma)（エビデンスレベル L2）。既存適応症：肝細胞癌、腎細胞癌、甲状腺癌（日本の承認適応症の記載データはありません）"
 monitor_inn: "Sorafenib"
@@ -14,7 +14,7 @@ predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "female bre
 # Sorafenib
 {: .fs-9 }
 
-エビデンスレベル: **L2** | 予測適応症: **10** 件
+エビデンスレベル: **L2** | 予測適応症: **6** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ TxGNN モデルは**脂肪肉腫 (Liposarcoma)** に有効である可能性を�
 |------|------|
 | 既存適応症 | 肝細胞癌、腎細胞癌、甲状腺癌（日本の承認適応症の記載データはありません） |
 | 予測新規適応症 | 脂肪肉腫 (Liposarcoma) |
-| TxGNN 予測スコア | 99.82% |
+| TxGNN 予測スコア | 0.9982 |
 | エビデンスレベル | L2 |
-| 日本市販状況 | 販売中止のみ（承認の取り消し・整理済み） |
-| 承認番号数 | 1 件 |
+| 日本市販状況 | 販売中（有効な承認 1 件／全 1 件） |
+| 承認番号数 | 1 件（有効 1 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由

@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Nilotinib
-parent: 中エビデンスレベル
+parent: モデル予測のみ
 nav_order: 222
-evidence_level: L4
+evidence_level: L5
 indication_count: 1
 monitor_inn: "Nilotinib"
 predicted_indications: ["dermatofibrosarcoma protuberans"]
@@ -14,7 +14,7 @@ description: "Nilotinib：予測新適応症は隆起性皮膚線維肉腫 (Derm
 # Nilotinib
 {: .fs-9 }
 
-エビデンスレベル: **L4** | 予測適応症: **1** 件
+エビデンスレベル: **L5** | 予測適応症: **1** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ TxGNN モデルは**隆起性皮膚線維肉腫 (Dermatofibrosarcoma protuberans
 |------|------|
 | 既存適応症 | 慢性骨髄性白血病（BCR-ABL1 陽性） |
 | 予測新規適応症 | 隆起性皮膚線維肉腫 (Dermatofibrosarcoma protuberans) |
-| TxGNN 予測スコア | 99.31% |
-| エビデンスレベル | L4 |
-| 日本市販状況 | 販売承認は取り消し済み（現在市販されていません） |
-| 承認番号数 | 1 件（取り消し） |
+| TxGNN 予測スコア | 0.9931 |
+| エビデンスレベル | L5 |
+| 日本市販状況 | 販売中（有効な承認 1 件／全 1 件） |
+| 承認番号数 | 1 件（有効 1 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -72,7 +72,7 @@ TxGNN モデルは**隆起性皮膚線維肉腫 (Dermatofibrosarcoma protuberans
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
-| 622585501 | タシグナカプセル50mg | カプセル 50mg | 記載なし（承認は取り消し済み） |
+| 622585501 | タシグナカプセル50mg | カプセル 50mg | 記載なし（承認は有効） |
 
 ## 細胞毒性
 

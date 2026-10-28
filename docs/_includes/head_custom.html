@@ -157,7 +157,7 @@ window.TXGNN_ANALYTICS = {
           "@type": "ListItem",
           "position": 2,
           "name": "{{ page.parent }}",
-          "item": "{% if page.evidence_level == 'L1' or page.evidence_level == 'L2' %}{{ '/evidence-high' | absolute_url }}{% elsif page.evidence_level == 'L3' or page.evidence_level == 'L4' %}{{ '/evidence-medium' | absolute_url }}{% else %}{{ '/evidence-low' | absolute_url }}{% endif %}"
+          "item": "{% if page.evidence_level == 'L1' or page.evidence_level == 'L2' %}{{ '/evidence-high' | absolute_url }}{% elsif page.evidence_level == 'L3' or page.evidence_level == 'L4' %}{{ '/evidence-medium' | absolute_url }}{% elsif page.evidence_level == 'N/A' %}{{ '/known-uses' | absolute_url }}{% else %}{{ '/evidence-low' | absolute_url }}{% endif %}"
         },
         {
           "@type": "ListItem",

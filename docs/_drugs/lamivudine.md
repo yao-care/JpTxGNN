@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Lamivudine
-parent: 中エビデンスレベル
-nav_order: 173
-evidence_level: L4
-indication_count: 10
-last_modified_at: 2026-10-17
-description: "Lamivudine：予測新適応症はサル免疫不全ウイルス感染症 (Simian Immunodeficiency Virus Infection)（エビデンスレベル L4）。既存適応症：慢性B型肝炎、HIV感染症、AIDS"
+parent: モデル予測のみ
+nav_order: 200
+evidence_level: L5
+indication_count: 5
 monitor_inn: "Lamivudine"
-predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "chronic hepatitis C virus infection", "hepatitis C virus infection", "primitive portal vein thrombosis", "early-onset familial noncirrhotic portal hypertension", "hepatopulmonary syndrome"]
+predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "chronic hepatitis C virus infection"]
+last_modified_at: 2026-10-27
+description: "Lamivudine：予測新適応症はサル免疫不全ウイルス感染症 (simian immunodeficiency virus infection)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 
 # Lamivudine
 {: .fs-9 }
 
-エビデンスレベル: **L4** | 予測適応症: **10** 件
+エビデンスレベル: **L5** | 予測適応症: **5** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,94 +33,88 @@ predicted_indications: ["simian immunodeficiency virus infection", "feline acqui
 
 </div>
 
-## ラミブジン：慢性B型肝炎・HIV感染症から サル免疫不全ウイルス感染症へ
+## ラミブジン：逆転写酵素阻害薬 → サル免疫不全ウイルス感染症 (simian immunodeficiency virus infection)
 {: .text-alpha }
 
 ## 一言要約
 
-ラミブジンは核酸系逆転写酵素阻害薬で、元々は慢性B型肝炎とHIV感染症（AIDS）の治療に使われていました。
-TxGNN モデルは**サル免疫不全ウイルス感染症 (Simian Immunodeficiency Virus Infection)** に有効である可能性を予測しています。ただし、臨床試験の登録は **0 件**で、裏付けは **15 編の文献**（多くがマカクザルを用いた動物実験）にとどまります。
-SIV はヒトHIVの動物モデルであり、ヒトへの再利用としては間接的なエビデンスです。
+ラミブジンはヌクレオシド系逆転写酵素阻害薬です。
+TxGNN モデルは**サル免疫不全ウイルス感染症 (simian immunodeficiency virus infection)** に有効である可能性を予測しています。
+関連する臨床試験の登録はなく、**15 編の文献**（主にマカクを用いた動物実験や in vitro 研究）が間接的に支持しているのみです。
 
 ## クイック概要
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 慢性B型肝炎、HIV感染症、AIDS（知識グラフ上の適応症情報による。日本の承認適応症の記載データはなし） |
-| 予測新規適応症 | サル免疫不全ウイルス感染症 (Simian Immunodeficiency Virus Infection) |
-| TxGNN 予測スコア | 99.93% |
-| エビデンスレベル | L4 |
-| 日本市販状況 | 承認は整理済み（現在有効な承認なし） |
-| 承認番号数 | 3 件（すべて整理済み） |
+| 既存適応症 | 日本の承認情報に適応症の記載なし |
+| 予測新規適応症 | サル免疫不全ウイルス感染症 (simian immunodeficiency virus infection) |
+| TxGNN 予測スコア | 0.9993 |
+| エビデンスレベル | L5 |
+| 日本市販状況 | 販売中（有効な承認 3 件／全 3 件） |
+| 承認番号数 | 3 件（有効 3 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、ラミブジンは逆転写酵素を阻害するヌクレオシド系薬剤です。HIV-1 とB型肝炎ウイルス (HBV) に対する有効性が確立しており、SIV の逆転写酵素も阻害します。この点がマカクザルモデルでの活性を説明すると考えられます。
+現在、詳細な作用機序データはありません。既知の情報として、ラミブジンはヌクレオシド系逆転写酵素阻害薬であり、レトロウイルスの逆転写酵素を阻害します。SIV の逆転写酵素も阻害するため、マカクモデルで活性が確認されています。
 
-SIV はヒトHIVの前駆ウイルスで、遺伝子構造や感染様式が近いレンチウイルスです。HIV治療薬の効果を調べる標準的な動物モデルとして使われています。そのため、既存適応症であるHIV感染症との関連は強く、機序的な適用可能性も高いと言えます。
+SIV はヒト免疫不全ウイルス (HIV) の動物モデルとして用いられるウイルスです。逆転写酵素の構造が似ているため、機序的には適用可能と考えられます。ただし、SIV はヒトの疾患ではなく、このエビデンスはヒトへの再利用には間接的です。
 
-ただし、SIV 感染症は研究用の動物モデル疾患であり、ヒトの治療適応症として開発される対象ではありません。この予測は、新しい臨床用途の発見というより、既知の抗レトロウイルス作用を動物モデルで裏付けたものと位置づけるのが妥当です。
+なお、収載された文献は SIV を研究対象とする動物実験が中心です。ただし、ヒトの SIV 感染症に対する臨床的な治療を直接検討した研究ではありません。このためエビデンスレベルは L5 としています。
+
+## 臨床試験エビデンス
+
+現在、関連する臨床試験の登録はありません。
 
 ## 文献エビデンス
 
-臨床試験の登録がないため、臨床試験の表は省略します。以下は SIV／SHIV 関連で最も関連性の高い文献です。いずれも動物または in vitro の研究で、RCT はありません。
-
 | PMID | 年 | タイプ | ジャーナル | 主な知見 |
 |------|-----|------|------|---------|
-| [12021341](https://pubmed.ncbi.nlm.nih.gov/12021341/) | 2002 | 動物実験 | Journal of Virology | SIV感染新生児マカクにラミブジンまたはエムトリシタビンを投与すると、5週間以内に耐性変異 M184V が出現した。ヒトHIV-1での耐性出現を再現するモデルとなる |
-| [19240457](https://pubmed.ncbi.nlm.nih.gov/19240457/) | 2009 | 動物実験 | AIDS | ジドブジン、ラミブジン、インジナビル併用による曝露後予防が、マカクの膣内SIV曝露後の感染を防げるか評価した |
-| [12502828](https://pubmed.ncbi.nlm.nih.gov/12502828/) | 2003 | 動物実験 | Journal of Virology | SIVのM184V変異は、ラミブジン併用下でもテノホビルによって野生型へ復帰する方向に選択される |
-| [15919889](https://pubmed.ncbi.nlm.nih.gov/15919889/) | 2005 | 動物実験 | Journal of Virology | RT-SHIV感染マカクにエファビレンツ、ラミブジン、テノホビルを併用し、ウイルス量の抑制を確認した |
-| [16973590](https://pubmed.ncbi.nlm.nih.gov/16973590/) | 2006 | 動物実験 | Journal of Virology | SIV感染マカクへの4剤併用抗レトロウイルス療法で、ウイルス量が急速に減少した |
-| [15040537](https://pubmed.ncbi.nlm.nih.gov/15040537/) | 2004 | 未分類（in vitro 評価） | Antiviral Therapy | HIV-2、SIV、SHIV に対する承認済み抗ウイルス薬 16 種の活性を比較し、曝露後予防への示唆を得た |
-| [12163615](https://pubmed.ncbi.nlm.nih.gov/12163615/) | 2002 | 未分類（ウイルス学研究） | Journal of Virology | M184V変異は、弱毒化SIV変異株の復帰を遅らせうる |
-| [14610172](https://pubmed.ncbi.nlm.nih.gov/14610172/) | 2003 | 未分類（動物実験） | Journal of Virology | SIVmac251感染マカクで、早期の抗ウイルス療法がリンパ球増殖動態に与える影響を予備的に評価した |
-| [12804006](https://pubmed.ncbi.nlm.nih.gov/12804006/) | 2003 | 未分類（動物実験） | AIDS Research and Human Retroviruses | 感染とHAART（ジドブジン、ラミブジン、インジナビル）が、P糖タンパク質や細胞内キナーゼの発現に与える影響を調べた |
-| [11689641](https://pubmed.ncbi.nlm.nih.gov/11689641/) | 2001 | 動物実験 | Journal of Virology | SHIV感染マカクでは、HAARTでウイルス血症を抑えても骨髄造血の障害が早期から続く |
+| [12021341](https://pubmed.ncbi.nlm.nih.gov/12021341/) | 2002 | 動物実験 | Journal of Virology | ラミブジンまたはエムトリシタビン投与の新生仔マカクで M184V 変異が 5 週以内に出現。変異ウイルスは適応度が低下 |
+| [19240457](https://pubmed.ncbi.nlm.nih.gov/19240457/) | 2009 | 動物実験 | AIDS | ジドブジン・ラミブジン・インジナビルによる曝露後予防の、マカクでの経腟 SIV 感染に対する効果を評価 |
+| [16973590](https://pubmed.ncbi.nlm.nih.gov/16973590/) | 2006 | 動物実験 | Journal of Virology | SIV 感染マカクへの 4 剤併用療法でのウイルス量の急速な減少 |
+| [12502828](https://pubmed.ncbi.nlm.nih.gov/12502828/) | 2003 | 動物実験 | Journal of Virology | ラミブジン併用下でもテノホビルにより SIV の M184V 変異の復帰が選択される |
+| [15919889](https://pubmed.ncbi.nlm.nih.gov/15919889/) | 2005 | 動物実験 | Journal of Virology | エファビレンツ・ラミブジン・テノホビル併用が RT-SHIV 感染マカクのウイルス量を抑制 |
+| [11689641](https://pubmed.ncbi.nlm.nih.gov/11689641/) | 2001 | 動物実験 | Journal of Virology | SHIV 感染マカクで、HAART によるウイルス血症の抑制後も骨髄造血障害が持続 |
+| [31658118](https://pubmed.ncbi.nlm.nih.gov/31658118/) | 2020 | レビュー | Current Opinion in HIV and AIDS | イスラトラビルの HIV-1 の治療・予防における役割を論じたレビュー（ラミブジン自体は主題ではない） |
+| [39509655](https://pubmed.ncbi.nlm.nih.gov/39509655/) | 2024 | レビュー | AIDS Reviews | コートジボワールの HIV-1・HIV-2 流行の実態。SIV は HIV の生物学的前駆体として言及 |
+| [15040537](https://pubmed.ncbi.nlm.nih.gov/15040537/) | 2004 | 記載なし | Antiviral Therapy | HIV-2、SIV、SHIV の各種抗 HIV-1 薬への感受性を評価 |
+| [12163615](https://pubmed.ncbi.nlm.nih.gov/12163615/) | 2002 | 記載なし | Journal of Virology | M184V 変異が弱毒化 SIV の復帰を遅らせる |
 
 ## 日本市販情報
 
-ラミブジンを含む日本の承認は 3 件ありますが、いずれも現在は整理済み（有効な承認なし）です。承認適応症のテキストは、今回のデータにありません。
+| 承認番号 | 商品名 | 剤形 | 承認適応症 |
+|---------|------|------|-----------|
+| 622699101 | ラバミコム配合錠「アメル」 | 錠「アメル」 | 記載なし |
+| 671657001 | エプジコム配合錠（選） | 錠（選） | 記載なし |
+| 621657001 | エプジコム配合錠 | 錠 | 記載なし |
 
-| 承認番号 | 商品名 | 剤形 | 状態 |
-|---------|------|------|------|
-| 622699101 | ラバミコム配合錠「アメル」 | 錠 | 整理済み |
-| 671657001 | エプジコム配合錠（選） | 錠 | 整理済み |
-| 621657001 | エプジコム配合錠 | 錠 | 整理済み |
+上記はいずれも配合錠の承認です。ラミブジン単剤の承認状況を示すものではありません。
 
 ## 安全性に関する考慮事項
 
-- **知識グラフ上の禁忌関連疾患**（添付文書の記載ではなく、知識グラフの薬物－疾患関係に基づく）：肝不全、腎疾患、膵炎、肝疾患、胆嚢疾患、ミオパチー・筋疾患、好中球減少症、無顆粒球症、貧血、高トリグリセリド血症、脂肪肝・非アルコール性脂肪肝炎、乳酸アシドーシス、皮膚筋炎・筋炎など。
-- **薬物相互作用**：相互作用は 100 件ありました。中等度と評価されたのは、ラクチトール、マンニトール、ナルトレキソン、オルリスタット、ソルビトールです。そのほか、メトホルミン、シメチジン、オメプラゾール、モルヒネ、バンコマイシンなど、重症度が「不明」の相互作用も多数あります。
-- **耐性**：ラミブジンはM184V変異（HBVではYMDD変異）による耐性が出やすい薬です。上記の動物実験でも、投与開始から短期間で耐性変異が出現しました。
+- **薬物相互作用**：DDI データベースで 100 件の相互作用が確認されています。主なものは、中等度のラクチトール、マンニトール、ナルトレキソン、オルリスタット、ソルビトールです。そのほか、メトホルミン、オメプラゾール、シメチジンなどが「重症度不明」として挙がっています。
 
-警告および禁忌の詳細については添付文書を参照してください。
+それ以外の警告・禁忌については、添付文書を参照してください。
 
 ## 結論と次のステップ
 
 **決定：Hold**
 
 **理由：**
-- 裏付けは、マカクザルなどの動物実験と in vitro 研究だけです。ヒトを対象とした臨床試験はなく、SIV 感染症自体も研究用の動物モデル疾患です。そのため、この予測を独立した臨床的な再利用候補として進める根拠は不足しています。
-- 日本の承認はすべて整理済みで、現在市販されている製品がありません。
+SIV は動物のウイルスであり、ヒトの疾患に対する再利用としては直接的な臨床試験がありません。予測疾患そのものを直接検討した臨床的な研究もなく、エビデンスはモデル予測と間接的な動物研究にとどまります。
 
 **進める場合に必要なもの：**
-- 添付文書（PMDA）の警告・禁忌・使用上の注意の入手と、安全性スクリーニングの実施
-- 作用機序データの補充（DrugBank など）
-- 実際の開発目的の再定義。SIV はHIV研究のモデルとして扱い、臨床的な再利用先はヒトのHIV感染症やB型肝炎など、既存適応症での位置づけと分けて評価する
-- 耐性変異（M184V など）と、相互作用の多い併用薬を考慮した評価計画
+- 日本の添付文書（警告・禁忌・適応症）の取得と確認
+- 詳細な作用機序データ（DrugBank など）
+- ヒトへの再利用としての意義の整理（SIV は動物モデルであり、ヒトでの対象疾患の再定義が必要）
+- ラミブジン単剤の日本での承認・市販状況の確認
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。
 臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-
-
-
 
 <!-- brand-names:start -->
 ## 日本での販売名

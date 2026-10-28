@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Doxycycline
-parent: 中エビデンスレベル
+parent: モデル予測のみ
 nav_order: 102
-evidence_level: L4
+evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-17
 description: "Doxycycline：予測新適応症は点状表層角結膜炎 (Punctate Epithelial Keratoconjunctivitis)（エビデンスレベル L4）。既存適応症：気管支炎、ざ瘡、細菌性肺炎、炭疽（吸入・消化管）、淋菌感染症、咽頭炎、放線菌症、軟性下疳、レプトスピラ症、鼠径リンパ肉芽腫 など"
@@ -14,7 +14,7 @@ predicted_indications: ["punctate epithelial keratoconjunctivitis", "otitis exte
 # Doxycycline
 {: .fs-9 }
 
-エビデンスレベル: **L4** | 予測適応症: **10** 件
+エビデンスレベル: **L5** | 予測適応症: **10** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -39,7 +39,7 @@ predicted_indications: ["punctate epithelial keratoconjunctivitis", "otitis exte
 ## 一言要約
 
 ドキシサイクリンはテトラサイクリン系抗菌薬で、気管支炎、ざ瘡、細菌性肺炎、炭疽、淋菌感染症などの治療に使われてきました。
-TxGNN モデルは**点状表層角結膜炎 (Punctate Epithelial Keratoconjunctivitis)** に有効である可能性を予測しています（スコア 99.94%）。
+TxGNN モデルは**点状表層角結膜炎 (Punctate Epithelial Keratoconjunctivitis)** に有効である可能性を予測しています（スコア 0.9994）。
 ただし、裏付けとなる臨床試験は **0 件**で、文献は **1 編**（症例報告レベル）にとどまります。エビデンスは限定的です。
 
 ## クイック概要
@@ -48,10 +48,10 @@ TxGNN モデルは**点状表層角結膜炎 (Punctate Epithelial Keratoconjunct
 |------|------|
 | 既存適応症 | 気管支炎、ざ瘡、細菌性肺炎、炭疽（吸入・消化管）、淋菌感染症、咽頭炎、放線菌症、軟性下疳、レプトスピラ症、鼠径リンパ肉芽腫 など |
 | 予測新規適応症 | 点状表層角結膜炎 (Punctate Epithelial Keratoconjunctivitis) |
-| TxGNN 予測スコア | 99.94% |
-| エビデンスレベル | L4 |
-| 日本市販状況 | 承認は失効のみ（現在有効な承認なし） |
-| 承認番号数 | 2 件（いずれも失効） |
+| TxGNN 予測スコア | 0.9994 |
+| エビデンスレベル | L5 |
+| 日本市販状況 | 販売中（有効な承認 2 件／全 2 件） |
+| 承認番号数 | 2 件（有効 2 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -72,8 +72,8 @@ TxGNN モデルは**点状表層角結膜炎 (Punctate Epithelial Keratoconjunct
 
 | 承認番号 | 商品名 | 剤形 | 状態 |
 |---------|------|------|------|
-| 620006084 | ビブラマイシン錠１００ｍｇ | 錠 100 mg（経口） | 失効 |
-| 620006083 | ビブラマイシン錠５０ｍｇ | 錠 50 mg（経口） | 失効 |
+| 620006084 | ビブラマイシン錠１００ｍｇ | 錠 100 mg（経口） | 有効 |
+| 620006083 | ビブラマイシン錠５０ｍｇ | 錠 50 mg（経口） | 有効 |
 
 ## 安全性に関する考慮事項
 

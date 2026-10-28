@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Risperidone
-parent: 高エビデンスレベル
+parent: モデル予測のみ
 nav_order: 267
-evidence_level: L1
-indication_count: 10
+evidence_level: L5
+indication_count: 5
 last_modified_at: 2026-10-17
-description: "Risperidone：予測新適応症は気分障害 (Major affective disorder)（エビデンスレベル L1）。既存適応症：統合失調症"
 monitor_inn: "Risperidone"
-predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "asperger syndrome, susceptibility to", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania", "major affective disorder", "Tourette syndrome", "intellectual disability", "autism, susceptibility to", "chromosome 15q11.2 deletion syndrome"]
+predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania", "major affective disorder"]
+description: "Risperidone：予測新適応症はGaze palsy, familial horizontal, with progressive scoliosis（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 
 # Risperidone
 {: .fs-9 }
 
-エビデンスレベル: **L1** | 予測適応症: **10** 件
+エビデンスレベル: **L5** | 予測適応症: **5** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["gaze palsy, familial horizontal, with progressive scoli
 
 </div>
 
-## リスペリドン：統合失調症から大うつ病性障害・双極性障害（気分障害）へ
+## Risperidone: Gaze palsy, familial horizontal, with progressive scoliosis
 {: .text-alpha }
 
 > 注：TxGNN の予測スコア順位で最上位の疾患（家族性水平性注視麻痺・進行性側弯症）には裏付けとなる研究が一切ありません。そのため、本レポートでは臨床エビデンスが最も充実している「気分障害 (major affective disorder)」を主な評価対象としました。
@@ -48,11 +48,11 @@ TxGNN モデルは**気分障害 (Major affective disorder)** に有効である
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 統合失調症 |
-| 予測新規適応症 | 気分障害 (Major affective disorder) |
-| TxGNN 予測スコア | 99.11% |
-| エビデンスレベル | L1 |
-| 日本市販状況 | 販売中止のみ（承認 20 件すべて整理済み） |
+| 既存適応症 | 日本の承認情報に適応症の記載なし |
+| 予測新規適応症 | Gaze palsy, familial horizontal, with progressive scoliosis |
+| TxGNN 予測スコア | 0.9976 |
+| エビデンスレベル | L5 |
+| 日本市販状況 | 販売中（有効な承認 20 件以上） |
 | 承認番号数 | 20 件 |
 | 推奨決定 | Proceed with Guardrails |
 
@@ -92,7 +92,7 @@ TxGNN モデルは**気分障害 (Major affective disorder)** に有効である
 
 ## 日本市販情報
 
-日本の承認 20 件はすべて販売中止（整理済み）で、現在有効な承認はありません。代表的な 5 件を示します。
+代表的な 5 件を示します。
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
@@ -132,12 +132,9 @@ TxGNN モデルは**気分障害 (Major affective disorder)** に有効である
 
 | 予測適応症 | スコア | エビデンスレベル | 推奨 |
 |-----------|--------|------------------|------|
-| トゥレット症候群 | 98.76% | L1（Phase 2 RCT、ネットワークメタアナリシス、ガイドライン） | Proceed with Guardrails |
-| 知的障害（攻撃性・破壊的行動） | 98.72% | L2（Phase 3 試験複数） | Proceed with Guardrails |
-| 抜毛症 | 99.51% | L4（症例報告のみ） | Research Question |
-| 自閉症（感受性） | 98.65% | L3（薬理遺伝学・観察研究中心） | Research Question |
-| Phelan-McDermid 症候群 | 99.59% | L4（レビューとゼブラフィッシュ研究のみ） | Hold |
-| その他（注視麻痺・側弯症、アスペルガー症候群の感受性、手-脳-発汗低下症候群、15q11.2 欠失症候群） | 98.59〜99.76% | L5（モデル予測のみ） | Hold |
+| 抜毛症 | 0.9951 | L4（症例報告のみ） | Research Question |
+| Phelan-McDermid 症候群 | 0.9959 | L4（レビューとゼブラフィッシュ研究のみ） | Hold |
+| その他（注視麻痺・側弯症、アスペルガー症候群の感受性、手-脳-発汗低下症候群、15q11.2 欠失症候群） | 98.59〜0.9976 | L5（モデル予測のみ） | Hold |
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

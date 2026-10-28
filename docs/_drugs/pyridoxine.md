@@ -1,20 +1,22 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Pyridoxine
-parent: モデル予測のみ
+parent: 既知の用途のみ（新規予測なし）
 nav_order: 260
-evidence_level: L5
-indication_count: 10
 monitor_inn: "Pyridoxine"
-predicted_indications: ["Ureaplasma urethritis", "gonococcal urethritis", "urinary tract infection (disease)", "uterine inflammatory disease", "xanthogranulomatous pyelonephritis", "congenital prothrombin deficiency", "toxocariasis", "toxascariasis", "anisakiasis", "vitamin deficiency disorder"]
 last_modified_at: 2026-10-17
-description: "Pyridoxine：予測新適応症はUreaplasma 尿道炎 (Ureaplasma urethritis)（エビデンスレベル L5）。既存適応症：ビタミンB6補充薬（脂漏性湿疹、接触皮膚炎）"
+description: "Pyridoxine: 日本における既知の用途と市場状況。現時点で新たな候補適応症はありません"
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Pyridoxine
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **10** 件
+エビデンスレベル: **N/A** | 予測適応症: **0** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,46 +35,19 @@ description: "Pyridoxine：予測新適応症はUreaplasma 尿道炎 (Ureaplasma
 
 </div>
 
-## ピリドキシン：ビタミンB6補充（脂漏性湿疹・接触皮膚炎）から Ureaplasma 尿道炎へ
+## Pyridoxine
 {: .text-alpha }
-
-## 一言要約
-
-ピリドキシン（ビタミンB6）は、元々ビタミンB6補充薬として脂漏性湿疹や接触皮膚炎に使用されていました。
-TxGNN モデルは **Ureaplasma 尿道炎 (Ureaplasma urethritis)** に有効である可能性を予測しています。
-ただし、この疾患に関する臨床試験・文献は **0 件**で、根拠はモデル予測のみです。
 
 ## クイック概要
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | ビタミンB6補充薬（脂漏性湿疹、接触皮膚炎） |
-| 予測新規適応症 | Ureaplasma 尿道炎 (Ureaplasma urethritis) |
-| TxGNN 予測スコア | 93.87% |
-| エビデンスレベル | L5 |
-| 日本市販状況 | 承認はすべて整理済み（現在有効な承認なし） |
-| 承認番号数 | 4 件（すべて整理済み） |
-| 推奨決定 | Hold |
-
-## この予測が妥当である理由
-
-現在、詳細な作用機序データはありません。既知の情報によると、ピリドキシンは体内でピリドキサールリン酸（PLP）に変換されます。PLP はアミノ酸代謝、一炭素代謝、神経伝達物質代謝の補酵素として働き、免疫機能の維持にも関与します。
-
-一方で、ピリドキシンに Ureaplasma などの病原体に対する直接の抗菌作用は確認されていません。既存適応症（ビタミンB6補充、皮膚疾患）と尿道炎の間にも、機序上の明確な関連は見当たりません。そのため、この予測の根拠は TxGNN のスコアのみです。
-
-なお、同じ予測で上位に挙がった淋菌性尿道炎（同スコア帯）にも、同様に直接の機序はありません。
-
-## 臨床試験エビデンス
-
-現在、関連する臨床試験の登録はありません。
-
-## 文献エビデンス
-
-現在、関連する文献はありません。
+| 既存適応症 | 日本の承認情報に適応症の記載なし |
+| 日本市販状況 | 販売中（有効な承認 4 件／全 4 件） |
+| 承認番号数 | 4 件（有効 4 件） |
 
 ## 日本市販情報
 
-4 件の承認はいずれも整理済みで、現在有効な承認はありません。
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
@@ -91,21 +66,6 @@ TxGNN モデルは **Ureaplasma 尿道炎 (Ureaplasma urethritis)** に有効で
 
 添付文書の警告・禁忌の詳細は、別途 PMDA の添付文書で確認してください。
 
-## 結論と次のステップ
-
-**決定：Hold**
-
-**理由：**
-- Ureaplasma 尿道炎に対する臨床試験・文献がなく、直接の作用機序も確認できないため、エビデンスはモデル予測のみ（L5）です。
-- 日本の承認もすべて整理済みで、現時点で開発を進める根拠はありません。
-
-**進める場合に必要なもの：**
-- 抗 Ureaplasma 作用に関する前臨床（in vitro / 動物）データ
-- 詳細な作用機序データ（MOA）の取得
-- PMDA 添付文書に基づく警告・禁忌の整理
-- 投与経路の適合性の評価
-
-**参考：**同じ予測の別候補である**ビタミン欠乏症 (vitamin deficiency disorder)**（スコア 85.50%）には、Phase 2/3 試験 1 件（完了、13 例）と複数のレビュー文献があり、エビデンスレベルは L3 でした。ピリドキシンの本来の役割（ビタミンB6補充）とも重なるため、評価は「Proceed with Guardrails」（高用量での感覚性ニューロパチーに注意）となります。再利用を検討するなら、この候補を優先する方が現実的です。
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。
@@ -119,11 +79,4 @@ TxGNN モデルは **Ureaplasma 尿道炎 (Ureaplasma urethritis)** に有効で
 
 
 
-<!-- brand-names:start -->
-## 日本での販売名
-
-同じ成分を含む日本の医薬品です。以下の名称でも検索できます。
-
-**販売名（規格別）**：ビタミンB6錠30mg、ピリドキシン塩酸塩、ピリドキシン塩酸塩注射液 10mg、ピリドキシン塩酸塩注射液 30mg
-<!-- brand-names:end -->
 

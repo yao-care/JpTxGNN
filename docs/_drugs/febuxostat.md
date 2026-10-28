@@ -4,9 +4,9 @@ title: Febuxostat
 parent: 中エビデンスレベル
 nav_order: 129
 evidence_level: L4
-indication_count: 10
+indication_count: 3
 monitor_inn: "Febuxostat"
-predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "Lesch-Nyhan syndrome", "hepatoportal sclerosis", "early-onset familial noncirrhotic portal hypertension", "idiopathic copper-associated cirrhosis", "primitive portal vein thrombosis", "hepatopulmonary syndrome", "hepatic porphyria", "disorder of phenylalanine metabolism"]
+predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "Lesch-Nyhan syndrome"]
 last_modified_at: 2026-10-17
 description: "Febuxostat：予測新適応症は腎性低尿酸血症 (hypouricemia, renal)（エビデンスレベル L4）。既存適応症：痛風"
 ---
@@ -14,7 +14,7 @@ description: "Febuxostat：予測新適応症は腎性低尿酸血症 (hypourice
 # Febuxostat
 {: .fs-9 }
 
-エビデンスレベル: **L4** | 予測適応症: **10** 件
+エビデンスレベル: **L4** | 予測適応症: **3** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN モデルは**腎性低尿酸血症 (hypouricemia, renal)** に有効で�
 |------|------|
 | 既存適応症 | 痛風 |
 | 予測新規適応症 | 腎性低尿酸血症 (hypouricemia, renal) |
-| TxGNN 予測スコア | 99.99% |
+| TxGNN 予測スコア | 0.9999 |
 | エビデンスレベル | L4 |
-| 日本市販状況 | 販売終了のみ（現在有効な承認なし） |
+| 日本市販状況 | 販売中（有効な承認 20 件以上） |
 | 承認番号数 | 20 件（すべて整理・失効済み） |
 | 推奨決定 | Hold |
 
@@ -76,7 +76,7 @@ TxGNN モデルは**腎性低尿酸血症 (hypouricemia, renal)** に有効で�
 
 ## 日本市販情報
 
-現在有効な承認はなく、下表はすべて整理済みの承認です。
+現在、日本国内で有効な承認が20件あり、販売されています。
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Codeine
-parent: 中エビデンスレベル
+parent: モデル予測のみ
 nav_order: 78
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 3
 last_modified_at: 2026-10-17
-description: "Codeine：予測新適応症は鼻腔疾患 (nasal cavity disease)（エビデンスレベル L4）。既存適応症：麻薬性鎮痛薬、鎮咳薬、オピオイド受容体作動薬"
 monitor_inn: "Codeine"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "trigeminal autonomic cephalalgia", "allergic urticaria", "faucial diphtheria", "cervical disc degenerative disorder", "papillary conjunctivitis", "tracheal disease", "cold urticaria", "bronchial disease"]
+predicted_indications: ["nasal cavity disease", "trigeminal autonomic cephalalgia", "allergic urticaria"]
+description: "Codeine：予測新適応症は鼻腔疾患 (nasal cavity disease)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 
 # Codeine
 {: .fs-9 }
 
-エビデンスレベル: **L4** | 予測適応症: **10** 件
+エビデンスレベル: **L5** | 予測適応症: **3** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "tri
 
 </div>
 
-## コデイン：麻薬性鎮痛薬・鎮咳薬から鼻腔疾患へ
+## Codeine: 鼻腔疾患 (nasal cavity disease)
 {: .text-alpha }
 
 ## 一言要約
@@ -45,11 +45,11 @@ TxGNN モデルは**鼻腔疾患 (nasal cavity disease)** に有効である可�
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 麻薬性鎮痛薬、鎮咳薬、オピオイド受容体作動薬 |
+| 既存適応症 | 日本の承認情報に適応症の記載なし |
 | 予測新規適応症 | 鼻腔疾患 (nasal cavity disease) |
-| TxGNN 予測スコア | 99.93% |
-| エビデンスレベル | L4 |
-| 日本市販状況 | 販売中の承認なし（失効・取消のみ） |
+| TxGNN 予測スコア | 0.9993 |
+| エビデンスレベル | L5 |
+| 日本市販状況 | 販売中（有効な承認 20 件以上） |
 | 承認番号数 | 20 件（すべて失効・取消） |
 | 推奨決定 | Hold |
 
@@ -104,7 +104,7 @@ TxGNN モデルは**鼻腔疾患 (nasal cavity disease)** に有効である可�
 
 ### 参考：他の予測候補
 
-他の予測候補（急性喉頭咽頭炎、気管疾患、気管支疾患など）も確認しましたが、いずれも臨床試験の登録はなく、エビデンスは限定的です。なお、気管支疾患（L4）は鎮咳作用との機序的な関連がありますが、喘息患者でヒスタミン介在性の気管支収縮を起こしうるため、慎重な安全対策が必要です。アレルギー性蕁麻疹や寒冷蕁麻疹では、コデインは治療薬ではなく肥満細胞の脱顆粒を起こす誘発物質として扱われており、再利用には不適切です。
+アレルギー性蕁麻疹や寒冷蕁麻疹では、コデインは治療薬ではなく肥満細胞の脱顆粒を起こす誘発物質として扱われており、再利用には不適切です。
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

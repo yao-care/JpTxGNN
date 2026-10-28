@@ -6,9 +6,9 @@ nav_order: 329
 evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-10-17
-description: "Ustekinumab：予測新適応症は皮膚炎 (Dermatitis)（エビデンスレベル L2）。既存適応症：乾癬性関節炎、乾癬、類乾癬"
 monitor_inn: "Ustekinumab"
 predicted_indications: ["dermatitis", "neonatal dermatomyositis", "acne keloid", "acrodermatitis chronica atrophicans", "amyopathic dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy", "pityriasis lichenoides", "acute lichenoid pityriasis"]
+description: "Ustekinumab：予測新適応症は皮膚炎 (dermatitis)（エビデンスレベル L2）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 
 # Ustekinumab
@@ -33,7 +33,7 @@ predicted_indications: ["dermatitis", "neonatal dermatomyositis", "acne keloid",
 
 </div>
 
-## ウステキヌマブ：乾癬性関節炎・乾癬から皮膚炎へ
+## Ustekinumab: 皮膚炎 (dermatitis)
 {: .text-alpha }
 
 ## 一言要約
@@ -45,12 +45,12 @@ TxGNN モデルは**皮膚炎 (Dermatitis)** に有効である可能性を予�
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 乾癬性関節炎、乾癬、類乾癬（知識グラフ上の情報。日本の承認適応症の記載はありません） |
-| 予測新規適応症 | 皮膚炎 (Dermatitis) |
-| TxGNN 予測スコア | 99.99% |
+| 既存適応症 | 日本の承認情報に適応症の記載なし |
+| 予測新規適応症 | 皮膚炎 (dermatitis) |
+| TxGNN 予測スコア | 0.9999 |
 | エビデンスレベル | L2 |
-| 日本市販状況 | 承認は取り消し済みのみ（現在の市販品なし） |
-| 承認番号数 | 2 件（いずれも取り消し） |
+| 日本市販状況 | 販売中（有効な承認 2 件／全 2 件） |
+| 承認番号数 | 2 件（有効 2 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -91,8 +91,8 @@ TxGNN モデルは**皮膚炎 (Dermatitis)** に有効である可能性を予�
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
-| 622046501 | ステラーラ皮下注45mgシリンジ 0.5mL | 注射剤（シリンジ） | （記載なし）／ 承認状況：取り消し |
-| 622554701 | ステラーラ点滴静注130mg 26mL | 注射剤（点滴静注） | （記載なし）／ 承認状況：取り消し |
+| 622046501 | ステラーラ皮下注45mgシリンジ 0.5mL | 注射剤（シリンジ） | （記載なし）／ 承認状況：有効 |
+| 622554701 | ステラーラ点滴静注130mg 26mL | 注射剤（点滴静注） | （記載なし）／ 承認状況：有効 |
 
 ## 安全性に関する考慮事項
 

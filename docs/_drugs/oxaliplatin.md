@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "Oxaliplatin"
 predicted_indications: ["malignant pleural mesothelioma", "malignant epithelioid mesothelioma", "sarcomatoid mesothelioma", "malignant visceral pleura tumor"]
 last_modified_at: 2026-10-17
-description: "Oxaliplatin：予測新適応症は悪性胸膜中皮腫 (Malignant Pleural Mesothelioma)（エビデンスレベル L3）。既存適応症：結腸癌の転移"
+description: "Oxaliplatin：予測新適応症は悪性胸膜中皮腫 (malignant pleural mesothelioma)（エビデンスレベル L3）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 
 # Oxaliplatin
@@ -33,7 +33,7 @@ description: "Oxaliplatin：予測新適応症は悪性胸膜中皮腫 (Malignan
 
 </div>
 
-## オキサリプラチン：結腸癌の転移から悪性胸膜中皮腫へ
+## Oxaliplatin: 悪性胸膜中皮腫 (malignant pleural mesothelioma)
 {: .text-alpha }
 
 ## 一言要約
@@ -46,12 +46,12 @@ TxGNN モデルは**悪性胸膜中皮腫 (Malignant Pleural Mesothelioma)** に
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 結腸癌の転移（承認適応症の記載データはありません。知識グラフ上の情報） |
-| 予測新規適応症 | 悪性胸膜中皮腫 (Malignant Pleural Mesothelioma) |
-| TxGNN 予測スコア | 99.68% |
+| 既存適応症 | 日本の承認情報に適応症の記載なし |
+| 予測新規適応症 | 悪性胸膜中皮腫 (malignant pleural mesothelioma) |
+| TxGNN 予測スコア | 0.9968 |
 | エビデンスレベル | L3 |
-| 日本市販状況 | 販売承認はすべて整理済み（取消）。現在の市販品なし |
-| 承認番号数 | 6 件（すべて取消） |
+| 日本市販状況 | 販売中（有効な承認 6 件／全 6 件） |
+| 承認番号数 | 6 件（有効 6 件） |
 | 推奨決定 | Hold |
 
 ※エビデンスレベルは、判定ルールに基づき L3 としました。完了した RCT はなく、第 II 相の単群試験と観察研究・レビューが中心です。データ上のスコアリングは L2 ですが、完了した Phase 2/3 の RCT は確認できないため、より保守的に判定しています。
@@ -91,11 +91,11 @@ TxGNN モデルは**悪性胸膜中皮腫 (Malignant Pleural Mesothelioma)** に
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
-| 621932301 | エルプラット点滴静注液１００ｍｇ　２０ｍＬ | 注射液 | （記載なし）取消 |
-| 671932301 | エルプラット点滴静注液１００ｍｇ　２０ｍＬ（選） | 注射液 | （記載なし）取消 |
-| 672189401 | エルプラット点滴静注液２００ｍｇ　４０ｍＬ（選） | 注射液 | （記載なし）取消 |
-| 621932201 | エルプラット点滴静注液５０ｍｇ　１０ｍＬ | 注射液 | （記載なし）取消 |
-| 622189401 | エルプラット点滴静注液２００ｍｇ　４０ｍＬ | 注射液 | （記載なし）取消 |
+| 621932301 | エルプラット点滴静注液１００ｍｇ　２０ｍＬ | 注射液 | （記載なし）有効 |
+| 671932301 | エルプラット点滴静注液１００ｍｇ　２０ｍＬ（選） | 注射液 | （記載なし）有効 |
+| 672189401 | エルプラット点滴静注液２００ｍｇ　４０ｍＬ（選） | 注射液 | （記載なし）有効 |
+| 621932201 | エルプラット点滴静注液５０ｍｇ　１０ｍＬ | 注射液 | （記載なし）有効 |
+| 622189401 | エルプラット点滴静注液２００ｍｇ　４０ｍＬ | 注射液 | （記載なし）有効 |
 
 ## 細胞毒性
 

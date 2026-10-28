@@ -4,17 +4,17 @@ title: Carvedilol
 parent: モデル予測のみ
 nav_order: 63
 evidence_level: L5
-indication_count: 10
+indication_count: 4
 last_modified_at: 2026-10-17
 description: "Carvedilol：予測新適応症は悪性高血圧性腎疾患 (malignant hypertensive renal disease)（エビデンスレベル L5）。既存適応症：本態性高血圧症、狭心症、拡張型心筋症、頻脈性心房細動（血圧降下薬、α1β遮断薬）"
 monitor_inn: "Carvedilol"
-predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease", "obsolete susceptibility to ischemic stroke", "cerebrovascular disorder", "ocular tuberculosis", "brain stem infarction"]
+predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
 ---
 
 # Carvedilol
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **10** 件
+エビデンスレベル: **L5** | 予測適応症: **4** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN モデルは**悪性高血圧性腎疾患 (malignant hypertensive renal di
 |------|------|
 | 既存適応症 | 本態性高血圧症、狭心症、拡張型心筋症、頻脈性心房細動（血圧降下薬、α1β遮断薬） |
 | 予測新規適応症 | 悪性高血圧性腎疾患 (malignant hypertensive renal disease) |
-| TxGNN 予測スコア | 99.55% |
+| TxGNN 予測スコア | 0.9955 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 市販中の承認はなし（取消済みのみ） |
+| 日本市販状況 | 販売中（有効な承認 20 件以上） |
 | 承認番号数 | 20 件（すべて取消） |
 | 推奨決定 | Hold |
 
@@ -60,7 +60,6 @@ TxGNN モデルは**悪性高血圧性腎疾患 (malignant hypertensive renal di
 
 悪性高血圧性腎疾患は、重度の高血圧による腎障害です。カルベジロールの血圧低下作用と血管抵抗の低下作用は、機序的にはこの病態に関連し得ます。ただし、これは推測の域を出ず、裏付けとなる臨床・文献データはありません。
 
-2 位の悪性腎血管性高血圧 (malignant renovascular hypertension) も同スコア帯（99.55%）で予測されていますが、同様に支持するエビデンスはありません。
 
 ## 臨床試験エビデンス
 
@@ -89,7 +88,7 @@ TxGNN モデルは**悪性高血圧性腎疾患 (malignant hypertensive renal di
 
 ## 日本市販情報
 
-日本ではカルベジロールの承認 20 件がすべて取消済みで、現在有効な承認はありません。以下は主な取消済み承認です。
+日本ではカルベジロールの有効な承認が 20 件あり、販売されています。以下は主な承認です。
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
@@ -102,7 +101,7 @@ TxGNN モデルは**悪性高血圧性腎疾患 (malignant hypertensive renal di
 ## 安全性に関する考慮事項
 
 - **知識グラフ上の禁忌関連疾患**：肝不全、気管支炎、喘息（内因性・アレルギー性を含む）、糖尿病、糖尿病性ケトアシドーシス、低血圧、末梢血管疾患（間欠性跛行、末梢動脈疾患を含む）、房室ブロック、肺気腫、気管支疾患、異型狭心症、洞不全症候群、アナフィラキシー、術中虹彩緊張低下症候群。
-  これは知識グラフ上の関連であり、添付文書の記載ではありません。
+  これは TxGNN モデル（ディープラーニング）のスコアであり、関連する疾患間でモデルが学習した類似性を反映している可能性があります。生物学的エビデンスではなく、添付文書の記載でもありません。
 - **薬物相互作用**（100 件を確認、主なもの）：
   - 重大 (Major)：エピネフリン
   - 中等度 (Moderate)：ヒドロコルチゾン、ヒヨスチアミン、ブプロピオン、トリアムシノロン、モルヒネ、アトロピン、デキサメタゾン、ロルカセリン、ベタメタゾン、ブデソニド、カナグリフロジン、アセトヘキサミド、各種カルシウム製剤
@@ -124,7 +123,6 @@ TxGNN モデルは**悪性高血圧性腎疾患 (malignant hypertensive renal di
 - 既存適応症との類似性、投与経路の適合性の評価
 - 悪性高血圧という重症病態での安全性（急激な降圧リスクなど）の検討
 
-**参考（他の予測疾患）：** 慢性肺性心疾患と脳血管障害は L4 で「研究課題」の段階にありますが、いずれも間接的・前臨床中心のエビデンスです。慢性肺性心疾患では非選択的β遮断による呼吸器安全性の懸念もあり、直ちに進められる状況ではありません。
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

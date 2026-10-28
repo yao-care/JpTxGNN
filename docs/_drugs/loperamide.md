@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-17
 description: "Loperamide：予測新適応症は急性伝染性結膜炎 (Acute Contagious Conjunctivitis)（エビデンスレベル L5）。既存適応症：止瀉薬、蠕動抑制薬、オピオイド受容体作動薬"
 monitor_inn: "Loperamide"
-predicted_indications: ["acute contagious conjunctivitis", "amebic dysentery", "conjunctivitis", "gastroduodenitis", "pseudomembranous conjunctivitis", "conjunctival folliculosis", "serous conjunctivitis except viral", "parasitic conjunctivitis", "chronic follicular conjunctivitis", "Angelucci syndrome"]
+predicted_indications: ["acute contagious conjunctivitis", "amebic dysentery", "conjunctivitis", "gastroduodenitis", "pseudomembranous conjunctivitis", "parasitic conjunctivitis", "chronic follicular conjunctivitis", "conjunctival folliculosis", "serous conjunctivitis except viral", "Angelucci syndrome"]
 ---
 
 # Loperamide
@@ -47,17 +47,17 @@ TxGNN モデルは**急性伝染性結膜炎 (Acute Contagious Conjunctivitis)**
 |------|------|
 | 既存適応症 | 止瀉薬、蠕動抑制薬、オピオイド受容体作動薬 |
 | 予測新規適応症 | 急性伝染性結膜炎 (Acute Contagious Conjunctivitis) |
-| TxGNN 予測スコア | 99.97% |
+| TxGNN 予測スコア | 0.9997 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中の承認なし（8 件すべて取消済み） |
-| 承認番号数 | 8 件（有効 0 件、取消 8 件） |
+| 日本市販状況 | 販売中（有効な承認 8 件／全 8 件） |
+| 承認番号数 | 8 件（有効 8 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
 
 現在、詳細な作用機序データはありません。ロペラミドは末梢性μオピオイド受容体作動薬として消化管の蠕動を抑え、下痢症状を和らげる薬です。
 
-一方、急性伝染性結膜炎は眼の感染性炎症であり、腸管運動を標的とするロペラミドの作用とは結びつきません。眼への作用も、抗菌・抗ウイルス・抗寄生虫活性も知られていません。この予測は、グラフ上で結膜疾患の用語が互いに近いことを反映したものである可能性が高く、生物学的な根拠は確認できません。
+一方、急性伝染性結膜炎は眼の感染性炎症であり、腸管運動を標的とするロペラミドの作用とは結びつきません。眼への作用も、抗菌・抗ウイルス・抗寄生虫活性も知られていません。このスコアは TxGNN モデル（ディープラーニング）によるもので、モデルが学習した関連疾患間の類似性を反映している可能性があり、生物学的な根拠ではありません。
 
 同様に、予測上位 10 件のうち結膜炎関連の 7 件（結膜炎、偽膜性結膜炎、結膜濾胞症、非ウイルス性漿液性結膜炎、寄生虫性結膜炎、慢性濾胞性結膜炎、Angelucci 症候群）も、いずれも機序的な裏付けがありません。
 

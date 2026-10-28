@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-17
 description: "Ascorbic Acid：予測新適応症は非症候性食道奇形 (Non-syndromic esophageal malformation)（エビデンスレベル L5）。既存適応症：アスコルビン酸欠乏症、壊血病"
 monitor_inn: "Ascorbic acid"
-predicted_indications: ["non-syndromic esophageal malformation", "esophageal disease", "congenital prothrombin deficiency", "injury", "biotin metabolic disease", "florid cemento-osseous dysplasia", "perinatal disease", "segmental odontomaxillary dysplasia", "disease by subcellular system affected", "vitamin deficiency disorder"]
+predicted_indications: ["non-syndromic esophageal malformation", "esophageal disease", "congenital prothrombin deficiency", "injury", "biotin metabolic disease", "segmental odontomaxillary dysplasia", "perinatal disease", "florid cemento-osseous dysplasia", "disease by subcellular system affected", "vitamin deficiency disorder"]
 ---
 
 # Ascorbic Acid
@@ -48,10 +48,10 @@ TxGNN モデルは**非症候性食道奇形 (non-syndromic esophageal malformat
 |------|------|
 | 既存適応症 | アスコルビン酸欠乏症、壊血病 |
 | 予測新規適応症 | 非症候性食道奇形 (Non-syndromic esophageal malformation) |
-| TxGNN 予測スコア | 99.96% |
+| TxGNN 予測スコア | 0.9996 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 承認はすべて失効（現在市販中の承認なし） |
-| 承認番号数 | 2 件（いずれも失効） |
+| 日本市販状況 | 販売中（有効な承認 2 件／全 2 件） |
+| 承認番号数 | 2 件（有効 2 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -60,7 +60,7 @@ TxGNN モデルは**非症候性食道奇形 (non-syndromic esophageal malformat
 
 一方、非症候性食道奇形は、食道が先天的に構造異常を起こす疾患です。アスコルビン酸との機序的な接点は見当たりません。栄養素の補充や抗酸化作用で、胎生期に決まる構造異常を是正できるとは考えにくいです。
 
-高いスコアは知識グラフ上の関係性から導かれた予測にすぎません。臨床的・機序的な裏付けは確認できず、妥当性は低いと評価します。
+高いスコアはTxGNN モデル（深層学習）による予測にすぎません。臨床的・機序的な裏付けは確認できず、妥当性は低いと評価します。
 
 ## 臨床試験エビデンス
 
@@ -74,8 +74,8 @@ TxGNN モデルは**非症候性食道奇形 (non-syndromic esophageal malformat
 
 | 承認番号 | 商品名 | 剤形 | 状態 |
 |---------|------|------|------|
-| 620721001 | シーピー配合顆粒 | 顆粒 | 失効 |
-| 620720901 | シナール配合顆粒 | 顆粒 | 失効 |
+| 620721001 | シーピー配合顆粒 | 顆粒 | 有効 |
+| 620720901 | シナール配合顆粒 | 顆粒 | 有効 |
 
 ## 安全性に関する考慮事項
 
@@ -96,7 +96,7 @@ TxGNN モデルは**非症候性食道奇形 (non-syndromic esophageal malformat
 
 **理由：**
 - 予測スコアは非常に高い一方、臨床試験も文献もなく（L5）、機序的な妥当性も見出せません。
-- 日本での承認がすべて失効していることもあり、現時点で開発や評価を進める根拠はありません。
+- 日本では有効な承認が2件中2件あり、販売されています。ただし、今回の予測はTxGNNモデル（深層学習）による研究上の参考情報であり、臨床での有効性を示すものではありません。
 
 **進める場合に必要なもの：**
 - 添付文書に基づく警告・禁忌などの安全性情報（PMDA）

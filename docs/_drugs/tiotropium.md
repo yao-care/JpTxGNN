@@ -4,17 +4,17 @@ title: Tiotropium
 parent: 高エビデンスレベル
 nav_order: 308
 evidence_level: L1
-indication_count: 10
+indication_count: 5
 last_modified_at: 2026-10-17
 description: "Tiotropium：予測新適応症は閉塞性肺疾患 (Obstructive Lung Disease)（エビデンスレベル L1）。既存適応症：気管支炎、喘息、内因性喘息、アレルギー性喘息、肺気腫"
 monitor_inn: "Tiotropium"
-predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome", "hyperlucent lung", "tracheal stenosis", "susceptibility to respiratory infections associated with CD8alpha chain mutation"]
+predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome", "hyperlucent lung", "tracheal stenosis"]
 ---
 
 # Tiotropium
 {: .fs-9 }
 
-エビデンスレベル: **L1** | 予測適応症: **10** 件
+エビデンスレベル: **L1** | 予測適応症: **5** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ TxGNN モデルは**閉塞性肺疾患 (Obstructive Lung Disease)** に有効で
 |------|------|
 | 既存適応症 | 気管支炎、喘息、内因性喘息、アレルギー性喘息、肺気腫 |
 | 予測新規適応症 | 閉塞性肺疾患 (Obstructive Lung Disease) |
-| TxGNN 予測スコア | 99.99% |
+| TxGNN 予測スコア | 0.9999 |
 | エビデンスレベル | L1 |
-| 日本市販状況 | 販売承認は取消済み（現在市販なし） |
-| 承認番号数 | 3 件（すべて取消） |
+| 日本市販状況 | 販売中（有効な承認 3 件／全 3 件） |
+| 承認番号数 | 3 件（有効 3 件） |
 | 推奨決定 | Proceed with Guardrails |
 
 ## この予測が妥当である理由
@@ -98,15 +98,15 @@ TxGNN モデルは**閉塞性肺疾患 (Obstructive Lung Disease)** に有効で
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
-| 622507801 | スピリーバ1.25μgレスピマット60吸入 | 吸入 75μg | 取消済み |
-| 621984201 | スピリーバ2.5μgレスピマット60吸入 | 吸入 150μg | 取消済み |
-| 620002421 | スピリーバ吸入用カプセル18μg | カプセル 18μg | 取消済み |
+| 622507801 | スピリーバ1.25μgレスピマット60吸入 | 吸入 75μg | 有効 |
+| 621984201 | スピリーバ2.5μgレスピマット60吸入 | 吸入 150μg | 有効 |
+| 620002421 | スピリーバ吸入用カプセル18μg | カプセル 18μg | 有効 |
 
-3 件の承認はすべて取消済みで、現在、日本で有効な承認はありません。
+3 件の承認のうち 3 件が現在有効で、日本で販売されています。
 
 ## 安全性に関する考慮事項
 
-- **禁忌（知識グラフ上の関連疾患。添付文書の記載ではありません）**：前立腺肥大症、腎機能障害、閉塞隅角緑内障、膀胱頸部閉塞
+- **禁忌（TxGNNモデル（ディープラーニング）が関連づけた疾患であり、添付文書の記載ではありません）**：前立腺肥大症、腎機能障害、閉塞隅角緑内障、膀胱頸部閉塞
 - **薬物相互作用**：100 件の相互作用が検出されています。主なものは次のとおりです。
   - 他の抗コリン薬（Moderate）：ヒヨスチアミン、アトロピン、グリコピロニウム、クリジニウム、ジサイクロミン、トロスピウム、メペンゾラート、メスコポラミン、プロパンテリン、スコポラミンなど。抗コリン作用が重なる可能性があります。
   - その他（Moderate）：エルクサドリン、プルカロプリド、吸入ヒトインスリン（速効型）
@@ -130,7 +130,7 @@ TxGNN モデルは**閉塞性肺疾患 (Obstructive Lung Disease)** に有効で
 
 ### 参考：その他の予測適応症
 
-TxGNN のスコアはいずれも 99.8% 以上ですが、以下は実質的な根拠が乏しい状況です。
+TxGNN のスコアはいずれも ≥ 0.99 ですが、以下は実質的な根拠が乏しい状況です。
 
 | 予測適応症 | エビデンスレベル | 推奨 | 備考 |
 |-----------|----------------|------|------|

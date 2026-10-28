@@ -4,17 +4,17 @@ title: Flurbiprofen
 parent: モデル予測のみ
 nav_order: 138
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-17
 description: "Flurbiprofen：予測新適応症は先端中肢異形成 Hunter-Thompson 型 (Acromesomelic dysplasia…（エビデンスレベル L5）。既存適応症：関節リウマチ（鎮痛薬・抗炎症薬・シクロオキシゲナーゼ阻害薬）"
 monitor_inn: "Flurbiprofen"
-predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "spondyloarthropathy, susceptibility to", "ankylosing spondylitis", "pseudoachondroplasia", "hypermobility of coccyx"]
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "ankylosing spondylitis", "pseudoachondroplasia", "hypermobility of coccyx"]
 ---
 
 # Flurbiprofen
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **10** 件
+エビデンスレベル: **L5** | 予測適応症: **9** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachy
 
 </div>
 
-## フルルビプロフェン：関節リウマチから先端中肢異形成（Hunter-Thompson 型）へ
+## フルルビプロフェン：関節リウマチから先端中間異形成 Hunter-Thompson 型へ
 {: .text-alpha }
 
 ## 一言要約
@@ -48,24 +48,23 @@ TxGNN モデルは、遺伝性骨格疾患である**先端中肢異形成 Hunte
 |------|------|
 | 既存適応症 | 関節リウマチ（鎮痛薬・抗炎症薬・シクロオキシゲナーゼ阻害薬） |
 | 予測新規適応症 | 先端中肢異形成 Hunter-Thompson 型 (Acromesomelic dysplasia, Hunter-Thompson type) |
-| TxGNN 予測スコア | 99.99% |
+| TxGNN 予測スコア | 0.9999 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売承認はすべて整理済み（市販中の承認なし） |
-| 承認番号数 | 10 件（すべて整理済み） |
+| 日本市販状況 | 販売中（有効な承認 10 件／全 10 件） |
+| 承認番号数 | 10 件（有効 10 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
 
 現在、詳細な作用機序データはありません。既知の情報では、フルルビプロフェンは非選択的 COX 阻害薬で、COX-1/COX-2 を阻害してプロスタグランジン介在性の炎症と疼痛を抑えます。関節リウマチでの鎮痛・抗炎症効果が既存適応症の根拠です。
 
-先端中肢異形成 Hunter-Thompson 型は、CDMP1/GDF5 に関連する遺伝性の骨格形成異常です。COX 阻害との機序的な接点は知られていません。この予測は、モデルの知識グラフ上の関連性だけに基づいており、機序面の裏付けはありません。症状としての疼痛や炎症を和らげる可能性が理論上あるにとどまり、疾患の本態に作用する根拠はありません。
+先端中間異形成 Hunter-Thompson 型は、CDMP1/GDF5 に関連する遺伝性の骨格形成異常です。COX 阻害との機序的な接点は知られていません。この予測スコア（0.9999）は TxGNN モデル（ディープラーニング）によるもので、モデルが学習した関連疾患間の類似性を反映している可能性があり、生物学的な証拠ではありません。機序面の裏付けもありません。症状としての疼痛や炎症を和らげる可能性が理論上あるにとどまり、疾患の本態に作用する根拠はありません。
 
 ### 参考：上位 10 件の他の予測候補
 
 同じ上位 10 件には、根拠の強さが異なる候補が含まれています。
 
-- **強直性脊椎炎 (Ankylosing spondylitis)**（順位 8、スコア 99.97%）は、唯一エビデンスのある候補です。評価は L2、推奨は Proceed with Guardrails です。COX 阻害は強直性脊椎炎の第一選択治療の機序であり、関節リウマチという既存適応症にも近い疾患です。
-- **脊椎関節症感受性 (Spondyloarthropathy, susceptibility to)**（順位 7）は、関連疾患のデータからの間接的な推測にとどまります。
+- **強直性脊椎炎 (Ankylosing spondylitis)**（順位 8、スコア 0.9997）は、唯一エビデンスのある候補です。評価は L2、推奨は Proceed with Guardrails です。COX 阻害は強直性脊椎炎の第一選択治療の機序であり、関節リウマチという既存適応症にも近い疾患です。
 - 残りの候補（短指症・合指症候群、偽性軟骨無形成症、尾骨過可動性など）は、いずれも L5 で Hold です。
 
 ## 臨床試験エビデンス
@@ -90,7 +89,7 @@ TxGNN モデルは、遺伝性骨格疾患である**先端中肢異形成 Hunte
 
 ## 日本市販情報
 
-承認は 10 件ありますが、すべて整理済み（失効）です。主な 5 件を示します。
+承認は 10 件あり、10 件すべてが有効です。主な 5 件を示します。
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
@@ -117,7 +116,7 @@ TxGNN モデルは、遺伝性骨格疾患である**先端中肢異形成 Hunte
 
 **理由：**
 - 先端中肢異形成 Hunter-Thompson 型には、臨床試験も文献もなく、機序的な接点もありません。根拠は TxGNN の予測のみ（L5）です。
-- 日本の承認はすべて整理済みで、現在市販中の製品はありません。
+- 日本の承認 10 件はすべて有効で、現在市販されています。
 
 **進める場合に必要なもの：**
 - 疾患の病態（GDF5 経路）と COX 阻害を結びつける前臨床・機序研究

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Rizatriptan
-parent: 中エビデンスレベル
+parent: モデル予測のみ
 nav_order: 270
-evidence_level: L4
-indication_count: 2
+evidence_level: L5
+indication_count: 1
 last_modified_at: 2026-10-17
-description: "Rizatriptan：予測新適応症は脳幹性前兆を伴う片頭痛 (Migraine with Brainstem Aura)（エビデンスレベル L4）。既存適応症：抗片頭痛薬、血管収縮薬、セロトニン受容体作動薬"
 monitor_inn: "rizatriptan"
 predicted_indications: ["atrophoderma vermiculata"]
+description: "Rizatriptan：予測新適応症はAtrophoderma vermiculata（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 
 # Rizatriptan
 {: .fs-9 }
 
-エビデンスレベル: **L4** | 予測適応症: **2** 件
+エビデンスレベル: **L5** | 予測適応症: **1** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,25 +33,24 @@ predicted_indications: ["atrophoderma vermiculata"]
 
 </div>
 
-## リザトリプタン：片頭痛から脳幹性前兆を伴う片頭痛へ
+## Rizatriptan: Atrophoderma vermiculata
 {: .text-alpha }
 
 ## 一言要約
 
 リザトリプタンは、元々片頭痛の急性期治療に使われていた抗片頭痛薬（セロトニン受容体作動薬）です。
-TxGNN モデルは**脳幹性前兆を伴う片頭痛 (Migraine with Brainstem Aura)** に有効である可能性を予測しています。
 現在、この疾患に特化した臨床試験の登録はなく、片頭痛全般に関する **20 編の文献**が間接的な裏付けとなっているにとどまります。
 
 ## クイック概要
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 抗片頭痛薬、血管収縮薬、セロトニン受容体作動薬 |
-| 予測新規適応症 | 脳幹性前兆を伴う片頭痛 (Migraine with Brainstem Aura) |
-| TxGNN 予測スコア | 99.94% |
-| エビデンスレベル | L4 |
-| 日本市販状況 | 販売承認はすべて整理済み（取消）。現在有効な承認なし |
-| 承認番号数 | 7 件（すべて取消） |
+| 既存適応症 | 日本の承認情報に適応症の記載なし |
+| 予測新規適応症 | Atrophoderma vermiculata |
+| TxGNN 予測スコア | 0.9919 |
+| エビデンスレベル | L5 |
+| 日本市販状況 | 販売中（有効な承認 7 件／全 7 件） |
+| 承認番号数 | 7 件（有効 7 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -85,7 +84,7 @@ TxGNN モデルは**脳幹性前兆を伴う片頭痛 (Migraine with Brainstem A
 
 ## 日本市販情報
 
-日本の承認はすべて取消済みで、現在市販されている製品はありません。以下は過去の承認です。
+以下は過去の承認です。
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
@@ -120,7 +119,6 @@ TxGNN モデルは**脳幹性前兆を伴う片頭痛 (Migraine with Brainstem A
 **理由：**
 - 脳幹性前兆を伴う片頭痛に直接関わる臨床試験も文献もなく、根拠は片頭痛全般への間接的なものにとどまります（エビデンスレベル L4）。
 - トリプタンによる血管収縮は、この亜型で安全性上の懸念とされています。
-- 日本の承認もすべて取消されています。
 
 **進める場合に必要なもの：**
 - 添付文書の警告・禁忌情報の取得（PMDA。現状では安全性スクリーニングに進めない重大なデータ欠落）
@@ -129,7 +127,7 @@ TxGNN モデルは**脳幹性前兆を伴う片頭痛 (Migraine with Brainstem A
 - 脳血管系リスクに関する安全性評価と、対象患者の選定基準
 - 現在有効な日本の承認がないため、再承認または供給体制の確認
 
-なお、2 番目の予測である萎縮性虫喰状皮膚症 (Atrophoderma Vermiculata) は、スコアは 99.19% でしたが、臨床試験も文献もなく、機序的な関連も見いだせませんでした（L5、Hold）。
+なお、2 番目の予測である萎縮性虫喰状皮膚症 (Atrophoderma Vermiculata) は、スコアは 0.9919 でしたが、臨床試験も文献もなく、機序的な関連も見いだせませんでした（L5、Hold）。
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

@@ -4,17 +4,17 @@ title: Tramadol
 parent: モデル予測のみ
 nav_order: 318
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-17
-description: "Tramadol：予測新適応症は先端中節骨異形成症 Hunter-Thompson 型 (acromesomelic dysplasia…（エビデンスレベル L5）。既存適応症：変形性関節症、関節症"
 monitor_inn: "Tramadol"
-predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "spondyloarthropathy, susceptibility to", "juvenile idiopathic arthritis", "juvenile arthritis due to defect in LACC1", "rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis"]
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "juvenile idiopathic arthritis", "juvenile arthritis due to defect in LACC1", "rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis"]
+description: "Tramadol：予測新適応症は先端中節骨異形成症 Hunter-Thompson 型 (acromesomelic dysplasia, Hunter-Thompson type)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 
 # Tramadol
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **10** 件
+エビデンスレベル: **L5** | 予測適応症: **9** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachy
 
 </div>
 
-## トラマドール：変形性関節症から先端中節骨異形成症（Hunter-Thompson型）へ
+## Tramadol: 先端中節骨異形成症 Hunter-Thompson 型 (acromesomelic dysplasia, Hunter-Thompson type)
 {: .text-alpha }
 
 ## 一言要約
@@ -46,12 +46,12 @@ TxGNN モデルは **先端中節骨異形成症 Hunter-Thompson 型 (acromesome
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 変形性関節症、関節症（ナレッジグラフ上の適応症。日本の承認適応症テキストは今回のデータにありません） |
+| 既存適応症 | 日本の承認情報に適応症の記載なし |
 | 予測新規適応症 | 先端中節骨異形成症 Hunter-Thompson 型 (acromesomelic dysplasia, Hunter-Thompson type) |
-| TxGNN 予測スコア | 99.99% |
+| TxGNN 予測スコア | 0.9999 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中のものなし（承認はすべて整理済み・失効） |
-| 承認番号数 | 6 件（すべて取消済み） |
+| 日本市販状況 | 販売中（有効な承認 6 件／全 6 件） |
+| 承認番号数 | 6 件（有効 6 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -60,7 +60,7 @@ TxGNN モデルは **先端中節骨異形成症 Hunter-Thompson 型 (acromesome
 
 一方、Hunter-Thompson 型の先端中節骨異形成症は、CDMP1/GDF5 シグナルの異常が原因の遺伝性骨格異形成症です。トラマドールの鎮痛作用はこの経路に関与せず、機序的な結びつきは見いだせません。
 
-高スコアは、骨・関節系疾患の用語がグラフ上で近い位置にあることを反映した可能性があります。この予測は機序面から支持されません。上位の他の予測（短躯性骨疾患、筋硬化症、若年性特発性関節炎など）も同様で、せいぜい対症的な鎮痛にとどまり、疾患を修飾する根拠はありません。
+高スコアは、TxGNNモデル（ディープラーニング）が学習した関連疾患間の類似性を反映している可能性があり、生物学的な根拠ではありません。この予測は機序面から支持されません。上位の他の予測（短躯性骨疾患、筋硬化症、若年性特発性関節炎など）も同様で、せいぜい対症的な鎮痛にとどまり、疾患を修飾する根拠はありません。
 
 ## 文献エビデンス
 
@@ -70,11 +70,11 @@ TxGNN モデルは **先端中節骨異形成症 Hunter-Thompson 型 (acromesome
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
-| 622914201 | トラマドール塩酸塩ＯＤ錠５０ｍｇ「ＫＯ」 | 錠５０ｍｇ「ＫＯ」 | 記載なし（取消済み） |
-| 672366101 | トラマールＯＤ錠２５ｍｇ（選） | 錠２５ｍｇ（選） | 記載なし（取消済み） |
-| 622366201 | トラマールＯＤ錠５０ｍｇ | 錠５０ｍｇ | 記載なし（取消済み） |
-| 672366201 | トラマールＯＤ錠５０ｍｇ（選） | 錠５０ｍｇ（選） | 記載なし（取消済み） |
-| 622914101 | トラマドール塩酸塩ＯＤ錠２５ｍｇ「ＫＯ」 | 錠２５ｍｇ「ＫＯ」 | 記載なし（取消済み） |
+| 622914201 | トラマドール塩酸塩ＯＤ錠５０ｍｇ「ＫＯ」 | 錠５０ｍｇ「ＫＯ」 | 記載なし（有効） |
+| 672366101 | トラマールＯＤ錠２５ｍｇ（選） | 錠２５ｍｇ（選） | 記載なし（有効） |
+| 622366201 | トラマールＯＤ錠５０ｍｇ | 錠５０ｍｇ | 記載なし（有効） |
+| 672366201 | トラマールＯＤ錠５０ｍｇ（選） | 錠５０ｍｇ（選） | 記載なし（有効） |
+| 622914101 | トラマドール塩酸塩ＯＤ錠２５ｍｇ「ＫＯ」 | 錠２５ｍｇ「ＫＯ」 | 記載なし（有効） |
 
 ## 安全性に関する考慮事項
 
@@ -113,7 +113,7 @@ TxGNN モデルは **先端中節骨異形成症 Hunter-Thompson 型 (acromesome
 
 **理由：**
 - 臨床試験・文献がなく、モデル予測のみ（L5）です。
-- トラマドールの作用機序は、予測された遺伝性骨格異形成症の病態と関連せず、日本の承認もすべて取消済みです。
+- トラマドールの作用機序は、予測された遺伝性骨格異形成症の病態と関連しません。なお、日本では販売されており、6件の承認すべてが有効です。
 
 **進める場合に必要なもの：**
 - 詳細な作用機序データ（MOA）の補完

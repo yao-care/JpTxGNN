@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Zolmitriptan
-parent: 中エビデンスレベル
+parent: モデル予測のみ
 nav_order: 345
-evidence_level: L4
-indication_count: 3
+evidence_level: L5
+indication_count: 2
 last_modified_at: 2026-10-17
-description: "Zolmitriptan：予測新適応症は脳幹性前兆を伴う片頭痛 (migraine with brainstem aura)（エビデンスレベル L4）。既存適応症：抗片頭痛薬、血管収縮薬、セロトニン受容体作動薬"
 monitor_inn: "zolmitriptan"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
+description: "Zolmitriptan：予測新適応症はAtrophoderma vermiculata（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 
 # Zolmitriptan
 {: .fs-9 }
 
-エビデンスレベル: **L4** | 予測適応症: **3** 件
+エビデンスレベル: **L5** | 予測適応症: **2** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,32 +33,31 @@ predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
 
 </div>
 
-## ゾルミトリプタン：片頭痛から脳幹性前兆を伴う片頭痛へ
+## Zolmitriptan: Atrophoderma vermiculata
 {: .text-alpha }
 
 ## 一言要約
 
 ゾルミトリプタンは 5-HT1B/1D 受容体作動薬（トリプタン系）で、元々片頭痛の急性期治療に使用されていました。
-TxGNN モデルは**脳幹性前兆を伴う片頭痛 (migraine with brainstem aura)** に有効である可能性を予測しています。
 このサブタイプを直接対象とした臨床試験はなく、片頭痛全般を扱う **19 編の文献**が間接的に関連するのみです。
 
 ## クイック概要
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 抗片頭痛薬、血管収縮薬、セロトニン受容体作動薬 |
-| 予測新規適応症 | 脳幹性前兆を伴う片頭痛 (migraine with brainstem aura) |
-| TxGNN 予測スコア | 99.99% |
-| エビデンスレベル | L4 |
-| 日本市販状況 | 販売中の承認なし（取消のみ） |
-| 承認番号数 | 11 件（すべて取消） |
+| 既存適応症 | 日本の承認情報に適応症の記載なし |
+| 予測新規適応症 | Atrophoderma vermiculata |
+| TxGNN 予測スコア | 0.9990 |
+| エビデンスレベル | L5 |
+| 日本市販状況 | 販売中（有効な承認 11 件／全 11 件） |
+| 承認番号数 | 11 件（有効 11 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
 
 現在、詳細な作用機序データ（original_moa）は登録されていません。文献によると、ゾルミトリプタンは選択的な 5-HT1B/1D 受容体作動薬で、頭蓋血管の収縮と三叉神経系の CGRP 放出抑制を通じて片頭痛発作を抑えます。前臨床の報告では、末梢だけでなく中枢での三叉神経血管系の活性化抑制も示されています。
 
-既存適応症の片頭痛と予測された脳幹性前兆を伴う片頭痛は、同じ片頭痛スペクトラムに属します。そのため、片頭痛全般への有効性が機序的な根拠になります。
+そのため、片頭痛全般への有効性が機序的な根拠になります。
 
 ただし、このサブタイプに特異的なエビデンスは間接的です。従来、トリプタン系の添付文書では血管収縮のリスクから、脳底型や片麻痺性片頭痛への使用に注意が促されてきました。機序上の関連性はあるものの、安全性の懸念が大きい予測です。
 
@@ -91,7 +90,6 @@ TxGNN モデルは**脳幹性前兆を伴う片頭痛 (migraine with brainstem a
 | 622846500 | ゾルミトリプタン２．５ｍｇ口腔内崩壊錠 | 錠 | （記載なし） |
 | 622418101 | ゾルミトリプタンＯＤ錠２．５ｍｇ「ＪＧ」 | 錠 | （記載なし） |
 
-いずれも承認は取り消されており、現在有効な承認はありません。
 
 ## 安全性に関する考慮事項
 

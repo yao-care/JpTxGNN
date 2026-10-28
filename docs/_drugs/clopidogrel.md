@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Clopidogrel
-parent: 高エビデンスレベル
+parent: モデル予測のみ
 nav_order: 76
-evidence_level: L2
-indication_count: 10
+evidence_level: L5
+indication_count: 7
 monitor_inn: "Clopidogrel"
-predicted_indications: ["migraine with brainstem aura", "migraine disorder", "osteoarthritis", "tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "rheumatoid arthritis", "osteoarthritis susceptibility", "pseudoachondroplasia", "fibromyalgia"]
+predicted_indications: ["migraine with brainstem aura", "migraine disorder", "osteoarthritis", "tendinitis", "idiopathic granulomatous myositis", "myositis fibrosa", "rheumatoid arthritis"]
 last_modified_at: 2026-10-17
 description: "Clopidogrel：予測新適応症は片頭痛 (Migraine Disorder)。順位 1 位は脳幹性前兆を伴う片頭痛 (Migraine with Brainstem A…（エビデンスレベル L2）。既存適応症：抗凝固薬、血小板凝集抑制薬、P2Y12阻害薬"
 ---
@@ -14,7 +14,7 @@ description: "Clopidogrel：予測新適応症は片頭痛 (Migraine Disorder)�
 # Clopidogrel
 {: .fs-9 }
 
-エビデンスレベル: **L2** | 予測適応症: **10** 件
+エビデンスレベル: **L5** | 予測適応症: **7** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ description: "Clopidogrel：予測新適応症は片頭痛 (Migraine Disorder)�
 
 </div>
 
-## クロピドグレル：血小板凝集抑制薬から片頭痛へ
+## クロピドグレル：脳幹性前兆を伴う片頭痛への可能性
 {: .text-alpha }
 
 ## 一言要約
@@ -48,10 +48,10 @@ TxGNN モデルは、上位予測の一つである**片頭痛 (Migraine Disorde
 | 項目 | 内容 |
 |------|------|
 | 既存適応症 | 抗凝固薬、血小板凝集抑制薬、P2Y12阻害薬 |
-| 予測新規適応症 | 片頭痛 (Migraine Disorder)。順位 1 位は脳幹性前兆を伴う片頭痛 (Migraine with Brainstem Aura、スコア 99.44%、エビデンスレベル L4) |
-| TxGNN 予測スコア | 99.44% |
-| エビデンスレベル | L2 |
-| 日本市販状況 | 承認は全件が整理済み（市販中の承認なし） |
+| 予測新規適応症 | 脳幹性前兆を伴う片頭痛 |
+| TxGNN 予測スコア | 0.9944 |
+| エビデンスレベル | L5 |
+| 日本市販状況 | 販売中（有効な承認 20 件以上） |
 | 承認番号数 | 20 件（すべて整理済み） |
 | 推奨決定 | Proceed with Guardrails |
 
@@ -91,7 +91,7 @@ TxGNN モデルは、上位予測の一つである**片頭痛 (Migraine Disorde
 
 ## 日本市販情報
 
-日本のクロピドグレルの承認は、現在すべて整理済み（失効）で、市販中の承認はありません。
+日本ではクロピドグレルは市販されており、有効な承認が20件あります。
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
@@ -103,7 +103,7 @@ TxGNN モデルは、上位予測の一つである**片頭痛 (Migraine Disorde
 
 ## 安全性に関する考慮事項
 
-- **知識グラフ上の禁忌関連疾患**：急性肝不全、肝炎、血液凝固障害、外傷、血小板減少性紫斑病、活動性消化性潰瘍、頭蓋内出血（添付文書の記載ではなく、知識グラフ上の関連です）。
+- **禁忌に関連する疾患**：急性肝不全、肝炎、血液凝固障害、外傷、血小板減少性紫斑病、活動性消化性潰瘍、頭蓋内出血（添付文書の記載ではありません）。
 - **薬物相互作用（主なもの）**：
   - 重大 (Major)：ラベプラゾール、オメプラゾール、エソメプラゾール、ピオグリタゾン、ロペラミド、レパグリニド
   - 中等度 (Moderate)：アセチルサリチル酸、モルヒネ、ブプロピオン、シメチジン、クラリスロマイシン、ランソプラゾール、パントプラゾールなど

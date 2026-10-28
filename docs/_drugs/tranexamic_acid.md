@@ -6,15 +6,16 @@ title: Tranexamic Acid
 parent: モデル予測のみ (L5)
 nav_order: 180
 evidence_level: L5
-indication_count: 1
+indication_count: 0
 last_modified_at: 2026-09-17
 description: "Tranexamic Acid：予測新適応症は無月経 (amenorrhea)（エビデンスレベル L5）。既存適応症：全身及び局所の出血又は出血性疾患"
+predicted_indications: []
 ---
 
 # Tranexamic Acid
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **1** 件
+エビデンスレベル: **L5** | 予測適応症: **0** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -50,8 +51,8 @@ TxGNN モデルは、本剤が**無月経 (amenorrhea)** に有効である可�
 | 予測新適応症 | 無月経 (amenorrhea) |
 | TxGNN 予測スコア | 99.19% |
 | エビデンスレベル | 評価待ち |
-| 日本市販状況 | 本サイトのデータに未収載 |
-| 承認番号数 | — |
+| 日本市販状況 | 国内未承認（承認記録なし） |
+| 承認番号数 | 0 件（有効 0 件） |
 | 推奨判断 | Needs Further Investigation |
 
 ## この予測が妥当な理由

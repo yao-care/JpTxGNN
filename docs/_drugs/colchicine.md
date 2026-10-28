@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Colchicine
-parent: 中エビデンスレベル
+parent: モデル予測のみ
 nav_order: 79
-evidence_level: L4
-indication_count: 3
+evidence_level: L5
+indication_count: 2
 last_modified_at: 2026-10-17
 description: "Colchicine：予測新適応症は熱帯熱マラリア (Plasmodium falciparum malaria)（エビデンスレベル L4）。既存適応症：痛風発作、家族性地中海熱"
 monitor_inn: "Colchicine"
@@ -14,7 +14,7 @@ predicted_indications: ["Plasmodium falciparum malaria", "dermatofibrosarcoma pr
 # Colchicine
 {: .fs-9 }
 
-エビデンスレベル: **L4** | 予測適応症: **3** 件
+エビデンスレベル: **L5** | 予測適応症: **2** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ TxGNN モデルは**熱帯熱マラリア (Plasmodium falciparum malaria)** に�
 |------|------|
 | 既存適応症 | 痛風発作、家族性地中海熱 |
 | 予測新規適応症 | 熱帯熱マラリア (Plasmodium falciparum malaria) |
-| TxGNN 予測スコア | 99.60% |
-| エビデンスレベル | L4 |
-| 日本市販状況 | 販売中の承認なし（承認整理済みのみ） |
-| 承認番号数 | 1 件（うち有効 0 件、整理済み 1 件） |
+| TxGNN 予測スコア | 0.9960 |
+| エビデンスレベル | L5 |
+| 日本市販状況 | 販売中（有効な承認 1 件／全 1 件） |
+| 承認番号数 | 1 件（有効 1 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由

@@ -4,7 +4,7 @@ title: Gefitinib
 parent: モデル予測のみ
 nav_order: 145
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-17
 description: "Gefitinib：予測新適応症は歯肉線維腫症 (fibromatosis, gingival)（エビデンスレベル L5）。既存適応症：非小細胞肺癌（EGFR 遺伝子変異陽性）"
 monitor_inn: "Gefitinib"
@@ -14,7 +14,7 @@ predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "inclusion 
 # Gefitinib
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **10** 件
+エビデンスレベル: **L5** | 予測適応症: **9** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ TxGNN モデルは**歯肉線維腫症 (fibromatosis, gingival)** に有効で�
 |------|------|
 | 既存適応症 | 非小細胞肺癌（EGFR 遺伝子変異陽性） |
 | 予測新規適応症 | 歯肉線維腫症 (fibromatosis, gingival) |
-| TxGNN 予測スコア | 99.89% |
+| TxGNN 予測スコア | 0.9989 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 承認は全て取り消し済み（現在市販中の承認なし） |
-| 承認番号数 | 9 件（うち有効 0 件、取り消し 9 件） |
+| 日本市販状況 | 販売中（有効な承認 9 件／全 9 件） |
+| 承認番号数 | 9 件（有効 9 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -84,7 +84,7 @@ TxGNN モデルは**歯肉線維腫症 (fibromatosis, gingival)** に有効で�
 
 ## 日本市販情報
 
-日本の承認は 9 件ありますが、すべて取り消し済みです。主要なものを示します。
+日本では販売されており、承認 9 件のうち 9 件が有効です。
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|

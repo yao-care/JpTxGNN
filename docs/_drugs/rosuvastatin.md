@@ -4,17 +4,17 @@ title: Rosuvastatin
 parent: モデル予測のみ
 nav_order: 272
 evidence_level: L5
-indication_count: 10
+indication_count: 6
 last_modified_at: 2026-10-17
-description: "Rosuvastatin：予測新適応症はコレステロールエステル転送蛋白欠損症 (cholesterol-ester transfer protein deficiency)（エビデンスレベル L5）。既存適応症：高コレステロール血症、家族性高コレステロール血症（脂質異常症治療薬、HMG-CoA 還元酵素阻害薬）"
 monitor_inn: "Rosuvastatin"
-predicted_indications: ["cholesterol-ester transfer protein deficiency", "brain stem infarction", "HIV infectious disease", "hypoalphalipoproteinemia", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "hyperlipidemia due to hepatic triglyceride lipase deficiency", "ABri amyloidosis"]
+predicted_indications: ["cholesterol-ester transfer protein deficiency", "brain stem infarction", "HIV infectious disease", "hypoalphalipoproteinemia", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "ABri amyloidosis"]
+description: "Rosuvastatin：予測新適応症はコレステロールエステル転送蛋白欠損症 (cholesterol-ester transfer protein deficiency)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 
 # Rosuvastatin
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **10** 件
+エビデンスレベル: **L5** | 予測適応症: **6** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["cholesterol-ester transfer protein deficiency", "brain 
 
 </div>
 
-## ロスバスタチン：脂質異常症から コレステロールエステル転送蛋白欠損症へ
+## Rosuvastatin: コレステロールエステル転送蛋白欠損症 (cholesterol-ester transfer protein deficiency)
 {: .text-alpha }
 
 ## 一言要約
@@ -45,11 +45,11 @@ TxGNN モデルは**コレステロールエステル転送蛋白欠損症 (chol
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 高コレステロール血症、家族性高コレステロール血症（脂質異常症治療薬、HMG-CoA 還元酵素阻害薬） |
+| 既存適応症 | 日本の承認情報に適応症の記載なし |
 | 予測新規適応症 | コレステロールエステル転送蛋白欠損症 (cholesterol-ester transfer protein deficiency) |
-| TxGNN 予測スコア | 99.54% |
+| TxGNN 予測スコア | 0.9954 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 現在有効な承認はなく、失効・取消のみ |
+| 日本市販状況 | 販売中（有効な承認 20 件以上） |
 | 承認番号数 | 20 件（すべて失効・取消） |
 | 推奨決定 | Hold |
 
@@ -69,7 +69,7 @@ TxGNN モデルは**コレステロールエステル転送蛋白欠損症 (chol
 
 ## 日本市販情報
 
-収載されている承認 20 件はすべて失効・取消で、現在有効な承認はありません。以下は主な 5 件です。
+収載されている承認 20 件はいずれも有効で、日本で販売されています。以下は主な 5 件です。
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
@@ -100,9 +100,9 @@ TxGNN モデルは**コレステロールエステル転送蛋白欠損症 (chol
 - 添付文書の警告・禁忌情報の確認
 - 詳細な作用機序データの整理と、CETP 欠損症との機序的関連の検証
 - 前臨床または観察研究レベルのエビデンスの収集
-- 日本での現在の販売状況の再確認（収載された承認はすべて失効・取消）
+- 日本での現在の販売状況の再確認（収載された承認 20 件は有効）
 
-**参考：**同じ予測リストでは、家族性高コレステロール血症（スコア 99.54%）と高脂血症（スコア 99.09%）が L1、HIV 感染症が L2 のエビデンスで、いずれも Proceed with Guardrails と判定されています。ただし、家族性高コレステロール血症と高脂血症は既存の適応症そのものであり、新規再利用の候補とは言えません。
+**参考：**同じ予測リストでは、HIV 感染症が L2 のエビデンスで、Proceed with Guardrails と判定されています。
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

@@ -4,17 +4,17 @@ title: Fexofenadine
 parent: モデル予測のみ
 nav_order: 134
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-17
 description: "Fexofenadine：予測新適応症は酒さ性結膜炎 (Rosacea Conjunctivitis)（エビデンスレベル L5）。既存適応症：アレルギー性鼻炎、アトピー性皮膚炎（抗アレルギー薬、H1 受容体拮抗薬）"
 monitor_inn: "Fexofenadine"
-predicted_indications: ["rosacea conjunctivitis", "punctate epithelial keratoconjunctivitis", "blepharoconjunctivitis", "viral conjunctivitis", "parasitic eyelid infestation", "ulcerative blepharitis", "infective urethral stricture", "postinfectious vasculitis", "post-bacterial disorder", "noninfectious dermatoses of eyelid"]
+predicted_indications: ["rosacea conjunctivitis"]
 ---
 
 # Fexofenadine
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **10** 件
+エビデンスレベル: **L5** | 予測適応症: **1** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,9 +48,9 @@ TxGNN モデルは**酒さ性結膜炎 (Rosacea Conjunctivitis)** に有効で�
 |------|------|
 | 既存適応症 | アレルギー性鼻炎、アトピー性皮膚炎（抗アレルギー薬、H1 受容体拮抗薬） |
 | 予測新規適応症 | 酒さ性結膜炎 (Rosacea Conjunctivitis) |
-| TxGNN 予測スコア | 99.85% |
+| TxGNN 予測スコア | 0.9985 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 取消のみ（現在有効な承認なし） |
+| 日本市販状況 | 販売中（有効な承認 20 件以上） |
 | 承認番号数 | 20 件（すべて取消） |
 | 推奨決定 | Hold |
 
@@ -64,14 +64,10 @@ TxGNN モデルは**酒さ性結膜炎 (Rosacea Conjunctivitis)** に有効で�
 
 | 順位 | 予測疾患 | スコア | 妥当性のコメント |
 |------|---------|--------|----------------|
-| 2 | 点状表層角結膜炎 | 98.63% | 経口薬は眼への移行性が限られる |
-| 3 | 眼瞼結膜炎 | 98.40% | アレルギー成分には有効かもしれないが、細菌性や脂漏性が多い |
-| 4 | ウイルス性結膜炎 | 98.17% | 抗ウイルス作用はなく、かゆみの緩和にとどまる可能性 |
-| 10 | 眼瞼の非感染性皮膚疾患 | 95.84% | 既存適応症のアトピー性皮膚炎に最も近く、生物学的に最も妥当 |
 
 ## 日本市販情報
 
-現在有効な承認はなく、登録されている 20 件はすべて取消されています。主な記録は以下のとおりです。
+現在、国内で販売されており、有効な承認が 20 件あります。主な記録は以下のとおりです。
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
@@ -96,7 +92,7 @@ TxGNN モデルは**酒さ性結膜炎 (Rosacea Conjunctivitis)** に有効で�
 
 **理由：**
 - 臨床試験も文献もなく、予測はモデルのスコアのみに基づいています（L5）。
-- 日本の承認はすべて取消されており、作用機序データと添付文書の安全性情報も不足しています。
+- 日本では現在販売されており、有効な承認が 20 件ありますが、作用機序データと添付文書の安全性情報は不足しています。
 
 **進める場合に必要なもの：**
 - 作用機序（MOA）データの補充

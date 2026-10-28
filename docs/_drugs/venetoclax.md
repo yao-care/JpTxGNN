@@ -4,17 +4,17 @@ title: Venetoclax
 parent: モデル予測のみ
 nav_order: 333
 evidence_level: L5
-indication_count: 10
+indication_count: 6
 last_modified_at: 2026-10-17
-description: "Venetoclax：予測新適応症は胚中心前型慢性リンパ性白血病/小リンパ球性リンパ腫 (pregerminal center chronic lymphocytic leu…（エビデンスレベル L5）。既存適応症：急性リンパ性白血病、リヒター症候群"
 monitor_inn: "Venetoclax"
 predicted_indications: ["Hodgkins lymphoma", "chronic myelogenous leukemia, BCR-ABL1 positive", "Ewing sarcoma", "follicular lymphoma", "metastatic neoplasm", "malignant spiradenoma"]
+description: "Venetoclax：予測新適応症はHodgkins lymphoma（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 
 # Venetoclax
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **10** 件
+エビデンスレベル: **L5** | 予測適応症: **6** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,25 +33,23 @@ predicted_indications: ["Hodgkins lymphoma", "chronic myelogenous leukemia, BCR-
 
 </div>
 
-## ベネトクラクス：急性リンパ性白血病・リヒター症候群から 胚中心前型慢性リンパ性白血病/小リンパ球性リンパ腫へ
+## Venetoclax: Hodgkins lymphoma
 {: .text-alpha }
 
 ## 一言要約
 
-ベネトクラクスは BCL-2 を選択的に阻害する経口薬で、知識グラフ上の既存適応症は急性リンパ性白血病とリヒター症候群です。
-TxGNN モデルは**胚中心前型慢性リンパ性白血病/小リンパ球性リンパ腫（pregerminal center CLL/SLL）**に有効である可能性を予測しています。
 ただし、この疾患に直接対応する臨床試験は **0 件**、文献は **1 編**（B 細胞受容体の構造と機能に関する基礎的な解析で、ベネトクラクスは検証されていません）にとどまり、エビデンスは限定的です。
 
 ## クイック概要
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 急性リンパ性白血病、リヒター症候群（知識グラフの適応症情報に基づく。日本の承認情報には適応症の記載なし） |
-| 予測新規適応症 | 胚中心前型慢性リンパ性白血病/小リンパ球性リンパ腫 (pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma) |
-| TxGNN 予測スコア | 99.55% |
-| エビデンスレベル | L4（前臨床・機序レベルの情報のみ） |
-| 日本市販状況 | 有効な承認なし（3 件すべて承認整理済み） |
-| 承認番号数 | 3 件 |
+| 既存適応症 | 日本の承認情報に適応症の記載なし |
+| 予測新規適応症 | Hodgkins lymphoma |
+| TxGNN 予測スコア | 0.9951 |
+| エビデンスレベル | L5（前臨床・機序レベルの情報のみ） |
+| 日本市販状況 | 販売中（有効な承認 3 件／全 3 件） |
+| 承認番号数 | 3 件（有効 3 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -76,11 +74,10 @@ TxGNN モデルは**胚中心前型慢性リンパ性白血病/小リンパ球�
 
 | 承認番号 | 商品名 | 剤形 | 状態 |
 |---------|------|------|------|
-| 622696301 | ベネクレクスタ錠５０ｍｇ | 錠５０ｍｇ | 承認整理済み |
-| 622696201 | ベネクレクスタ錠１０ｍｇ | 錠１０ｍｇ | 承認整理済み |
-| 622696401 | ベネクレクスタ錠１００ｍｇ | 錠１００ｍｇ | 承認整理済み |
+| 622696301 | ベネクレクスタ錠５０ｍｇ | 錠５０ｍｇ | 承認有効 |
+| 622696201 | ベネクレクスタ錠１０ｍｇ | 錠１０ｍｇ | 承認有効 |
+| 622696401 | ベネクレクスタ錠１００ｍｇ | 錠１００ｍｇ | 承認有効 |
 
-3 件はいずれも経口錠剤の単剤で、現時点で有効な承認はありません。
 
 ## 細胞毒性
 

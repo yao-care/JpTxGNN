@@ -4,17 +4,17 @@ title: Luliconazole
 parent: 高エビデンスレベル
 nav_order: 198
 evidence_level: L2
-indication_count: 7
+indication_count: 3
 last_modified_at: 2026-10-17
 description: "Luliconazole：予測新適応症は癜風 (Pityriasis Versicolor)（エビデンスレベル L2）。既存適応症：足白癬、体部白癬、白癬感染症、股部・肛門周囲の皮膚糸状菌症"
 monitor_inn: "Luliconazole"
-predicted_indications: ["pityriasis versicolor", "endothrix infectious disease", "Majocchi granuloma", "ectothrix infectious disease"]
+predicted_indications: ["pityriasis versicolor", "endothrix infectious disease", "ectothrix infectious disease"]
 ---
 
 # Luliconazole
 {: .fs-9 }
 
-エビデンスレベル: **L2** | 予測適応症: **7** 件
+エビデンスレベル: **L2** | 予測適応症: **3** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ TxGNN モデルは**癜風 (Pityriasis Versicolor)** に有効である可能性
 |------|------|
 | 既存適応症 | 足白癬、体部白癬、白癬感染症、股部・肛門周囲の皮膚糸状菌症 |
 | 予測新規適応症 | 癜風 (Pityriasis Versicolor) |
-| TxGNN 予測スコア | 99.13% |
+| TxGNN 予測スコア | 0.9913 |
 | エビデンスレベル | L2 |
-| 日本市販状況 | 取消のみ（現在有効な承認なし） |
-| 承認番号数 | 1 件（取消済み） |
+| 日本市販状況 | 販売中（有効な承認 1 件／全 1 件） |
+| 承認番号数 | 1 件（有効 1 件） |
 | 推奨決定 | Proceed with Guardrails |
 
 ## この予測が妥当である理由
@@ -95,7 +95,7 @@ TxGNN モデルは**癜風 (Pityriasis Versicolor)** に有効である可能性
 - 添付文書の警告・禁忌情報の取得（現状は未確認で、安全性評価の前提条件）
 - 詳細な作用機序データ（MOA）の補完
 - 2016 年 RCT の詳細な結果確認と、NCT07333170 の結果の追跡
-- 日本での剤形・濃度の承認状況の再確認（現在有効な承認なし）
+- 日本での剤形・濃度の承認状況の再確認（現在有効な承認は1件中1件）
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

@@ -4,17 +4,17 @@ title: Losartan
 parent: 中エビデンスレベル
 nav_order: 196
 evidence_level: L4
-indication_count: 10
+indication_count: 7
 last_modified_at: 2026-10-17
 description: "Losartan：予測新適応症は悪性高血圧性腎疾患 (Malignant Hypertensive Renal Disease)（エビデンスレベル L4）。既存適応症：高血圧症、糖尿病性腎症"
 monitor_inn: "Losartan"
-predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "Prinzmetal angina", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "chronic pulmonary heart disease", "intracerebral hemorrhage"]
+predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "Prinzmetal angina", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies"]
 ---
 
 # Losartan
 {: .fs-9 }
 
-エビデンスレベル: **L4** | 予測適応症: **10** 件
+エビデンスレベル: **L4** | 予測適応症: **7** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN モデルは**悪性高血圧性腎疾患 (Malignant Hypertensive Renal Di
 |------|------|
 | 既存適応症 | 高血圧症、糖尿病性腎症 |
 | 予測新規適応症 | 悪性高血圧性腎疾患 (Malignant Hypertensive Renal Disease) |
-| TxGNN 予測スコア | 99.73% |
+| TxGNN 予測スコア | 0.9973 |
 | エビデンスレベル | L4 |
-| 日本市販状況 | 販売中の承認なし（20 件すべて承認整理済み） |
+| 日本市販状況 | 販売中（有効な承認 20 件以上） |
 | 承認番号数 | 20 件 |
 | 推奨決定 | Hold |
 
@@ -107,7 +107,7 @@ TxGNN モデルは**悪性高血圧性腎疾患 (Malignant Hypertensive Renal Di
 
 ---
 
-**参考（他の予測候補）**：予測順位 2 位以下には、悪性腎血管性高血圧、肺高血圧症、脳小血管病、慢性肺性心、脳内出血などがあります。いずれも臨床試験での確認は不十分で、エビデンスレベルは L4〜L5 です。慢性肺性心には第 3 相試験が 1 件ありますが、介入薬がロサルタンかどうかは確認できていません。
+**参考（他の予測候補）**：予測順位 2 位以下には、肺高血圧症、脳小血管病などがあります。いずれも臨床試験での確認は不十分で、エビデンスレベルは L4〜L5 です。
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

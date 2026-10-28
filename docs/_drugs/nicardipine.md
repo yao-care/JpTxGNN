@@ -4,7 +4,7 @@ title: Nicardipine
 parent: モデル予測のみ
 nav_order: 220
 evidence_level: L5
-indication_count: 5
+indication_count: 4
 last_modified_at: 2026-10-17
 description: "Nicardipine：予測新適応症は原因不明の多因子性肺高血圧症 (pulmonary hypertension with unclear multifactorial me…（エビデンスレベル L5）。既存適応症：高血圧性緊急症、急性心不全、本態性高血圧症"
 monitor_inn: "Nicardipine"
@@ -14,7 +14,7 @@ predicted_indications: ["pulmonary hypertension with unclear multifactorial mech
 # Nicardipine
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **5** 件
+エビデンスレベル: **L5** | 予測適応症: **4** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["pulmonary hypertension with unclear multifactorial mech
 
 </div>
 
-## ニカルジピン：高血圧性緊急症・急性心不全・本態性高血圧症から肺高血圧症（原因不明の多因子性）へ
+## ニカルジピン：高血圧性緊急症・急性心不全・本態性高血圧症から原因不明の多因子性肺高血圧症へ
 {: .text-alpha }
 
 ## 一言要約
@@ -48,10 +48,10 @@ TxGNN モデルは**原因不明の多因子性肺高血圧症 (pulmonary hypert
 |------|------|
 | 既存適応症 | 高血圧性緊急症、急性心不全、本態性高血圧症 |
 | 予測新規適応症 | 原因不明の多因子性肺高血圧症 (pulmonary hypertension with unclear multifactorial mechanism) |
-| TxGNN 予測スコア | 99.26% |
+| TxGNN 予測スコア | 0.9926 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 承認は全て取消済み（現在市販中の承認なし） |
-| 承認番号数 | 12 件（すべて取消） |
+| 日本市販状況 | 販売中（有効な承認 12 件／全 12 件） |
+| 承認番号数 | 12 件（有効 12 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -79,7 +79,7 @@ TxGNN モデルは**原因不明の多因子性肺高血圧症 (pulmonary hypert
 
 ## 日本市販情報
 
-承認はすべて取消済みで、現在有効な承認はありません。以下は取消済みの主な承認です。
+承認12件のうち12件が現在有効です。以下は主な承認です。
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
@@ -103,7 +103,7 @@ TxGNN モデルは**原因不明の多因子性肺高血圧症 (pulmonary hypert
 **決定：Hold**
 
 **理由：**
-根拠は TxGNN の予測のみ（L5）で、この適応症に対する臨床試験も文献もありません。また、日本の承認はすべて取消済みで、添付文書の安全性情報も未取得です。機序上の仮説はありますが、全身性血管拡張が肺の換気血流バランスを悪化させる懸念もあります。
+根拠は TxGNN の予測のみ（L5）で、この適応症に対する臨床試験も文献もありません。また、日本では販売されており、承認12件のうち12件が有効ですが、添付文書の安全性情報は未取得です。機序上の仮説はありますが、全身性血管拡張が肺の換気血流バランスを悪化させる懸念もあります。
 
 **進める場合に必要なもの：**
 - PMDA 添付文書の警告・禁忌の取得と確認（現在の最優先課題）

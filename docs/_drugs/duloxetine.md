@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-17
 description: "Duloxetine：予測新適応症は乳児良性発作性斜頸 (Benign Paroxysmal Torticollis of Infancy)（エビデンスレベル L5）。既存適応症：抗うつ薬、セロトニン・ノルアドレナリン再取り込み阻害薬"
 monitor_inn: "Duloxetine"
-predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "obsessive-compulsive disorder", "schizotypal personality disorder", "schizoid personality disorder", "paranoid personality disorder", "histrionic personality disorder (disease)", "Ohdo syndrome and variants", "ligneous conjunctivitis", "blepharophimosis - intellectual disability syndrome, Ohdo type"]
+predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "obsessive-compulsive disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "paranoid personality disorder", "schizotypal personality disorder", "Ohdo syndrome and variants", "ligneous conjunctivitis", "blepharophimosis - intellectual disability syndrome, Ohdo type"]
 ---
 
 # Duloxetine
@@ -47,9 +47,9 @@ TxGNN モデルは**乳児良性発作性斜頸 (Benign Paroxysmal Torticollis o
 |------|------|
 | 既存適応症 | 抗うつ薬、セロトニン・ノルアドレナリン再取り込み阻害薬 |
 | 予測新規適応症 | 乳児良性発作性斜頸 (Benign Paroxysmal Torticollis of Infancy) |
-| TxGNN 予測スコア | 99.85% |
+| TxGNN 予測スコア | 0.9985 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 承認はすべて整理済み（現在有効な承認なし） |
+| 日本市販状況 | 販売中（有効な承認 20 件以上） |
 | 承認番号数 | 20 件（有効 0 件、整理済み 20 件） |
 | 推奨決定 | Hold |
 
@@ -69,7 +69,7 @@ TxGNN モデルは**乳児良性発作性斜頸 (Benign Paroxysmal Torticollis o
 
 ## 日本市販情報
 
-日本では 20 件の承認がありますが、すべて整理済みです。主なものは以下のとおりです。
+日本では販売されており、有効な承認が 20 件あります。主なものは以下のとおりです。
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
@@ -99,8 +99,8 @@ TxGNN モデルは**乳児良性発作性斜頸 (Benign Paroxysmal Torticollis o
 
 | 疾患 | スコア | エビデンスレベル | 概要 |
 |------|--------|----------------|------|
-| 強迫性障害 (OCD) | 99.84% | L2（Proceed with Guardrails） | 完了した第 4 相試験 [NCT00464698](https://clinicaltrials.gov/study/NCT00464698)（n=20）と、治療抵抗性 OCD への増強療法の二重盲検 RCT [27811556](https://pubmed.ncbi.nlm.nih.gov/27811556/) があります。いずれも小規模です。 |
-| 広場恐怖症 | 99.84% | L4（Research Question） | パニック障害・全般性不安障害の研究による間接的な支持のみです。 |
+| 強迫性障害 (OCD) | 0.9984 | L5（Proceed with Guardrails） | 完了した第 4 相試験 [NCT00464698](https://clinicaltrials.gov/study/NCT00464698)（n=20）と、治療抵抗性 OCD への増強療法の二重盲検 RCT [27811556](https://pubmed.ncbi.nlm.nih.gov/27811556/) があります。いずれも小規模です。 |
+| 広場恐怖症 | 0.9984 | L5（Research Question） | パニック障害・全般性不安障害の研究による間接的な支持のみです。 |
 
 残る 7 件は、乳児良性発作性斜頸を含めてすべて L5 で、支持する臨床データはありません。
 

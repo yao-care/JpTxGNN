@@ -6,14 +6,15 @@ title: Scopolamine
 parent: モデル予測のみ (L5)
 nav_order: 154
 evidence_level: L5
-indication_count: 1
+indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Scopolamine
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **1** 件
+エビデンスレベル: **L5** | 予測適応症: **0** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -49,8 +50,8 @@ TxGNN モデルは、本剤が**馬尾症候群 (Cauda Equina Syndrome)** およ
 | 予測新適応症 | Cauda Equina Syndrome（馬尾症候群） |
 | TxGNN 予測スコア | 99.99% |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 本サイトのデータに未収載 |
-| 承認番号数 | — |
+| 日本市販状況 | 国内未承認（承認記録なし） |
+| 承認番号数 | 0 件（有効 0 件） |
 | 推奨判断 | Hold |
 
 ## この予測が妥当な理由
@@ -62,12 +63,6 @@ Scopolamine（スコポラミン）は抗コリン薬であり、ムスカリン
 
 | 順位 | 予測適応症 | 予測スコア | TxGNN 順位 | 作用機序との関連性 |
 |------|-----------|---------|-----------|----------|
-| 1 | Cauda Equina Syndrome（馬尾症候群） | 99.99% | 548 | 神経圧迫に起因する膀胱痙攣を緩和する可能性がある |
-| 2 | Neurogenic Bladder（神経因性膀胱） | 99.98% | 909 | 抗コリン作用により過活動膀胱を緩和し得る |
-| 3 | Papillary Conjunctivitis（乳頭結膜炎） | 99.98% | 1,025 | 関連性は不明確 |
-| 4 | Atopic Conjunctivitis（アトピー性結膜炎） | 99.80% | 4,736 | 関連性は不明確 |
-| 5 | Rosacea Conjunctivitis（酒さ性結膜炎） | 99.40% | 11,144 | 関連性は不明確 |
-| 6 | Vernal Conjunctivitis（春季カタル） | 99.08% | 15,822 | 関連性は不明確 |
 
 馬尾症候群および神経因性膀胱の予測は比較的妥当である。Scopolamine の抗コリン作用が、膀胱の過活動や痙攣症状を緩和し得るためである。
 一方、結膜炎関連の予測は、既知の作用機序との関連性が弱い。

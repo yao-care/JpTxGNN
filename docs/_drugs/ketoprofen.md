@@ -4,17 +4,17 @@ title: Ketoprofen
 parent: モデル予測のみ
 nav_order: 171
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-17
 description: "Ketoprofen：予測新適応症は肢端中間異形成症 Hunter-Thompson 型 (acromesomelic dysplasia…（エビデンスレベル L5）。既存適応症：鎮痛薬・抗炎症薬・解熱薬（痛風発作、関節リウマチ）"
 monitor_inn: "Ketoprofen"
-predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "spondyloarthropathy, susceptibility to", "WHIM syndrome", "juvenile arthritis due to defect in LACC1"]
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "WHIM syndrome", "juvenile arthritis due to defect in LACC1"]
 ---
 
 # Ketoprofen
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **10** 件
+エビデンスレベル: **L5** | 予測適応症: **9** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachy
 
 </div>
 
-## ケトプロフェン：痛風発作・関節リウマチから肢端中間異形成症（Hunter-Thompson 型）へ
+## ケトプロフェン：痛風発作・関節リウマチから先端中肢異形成 Hunter-Thompson 型へ
 {: .text-alpha }
 
 ## 一言要約
@@ -47,9 +47,9 @@ TxGNN モデルは**肢端中間異形成症 Hunter-Thompson 型 (acromesomelic 
 |------|------|
 | 既存適応症 | 鎮痛薬・抗炎症薬・解熱薬（痛風発作、関節リウマチ） |
 | 予測新規適応症 | 肢端中間異形成症 Hunter-Thompson 型 (acromesomelic dysplasia, Hunter-Thompson type) |
-| TxGNN 予測スコア | 99.98% |
+| TxGNN 予測スコア | 0.9998 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売承認はすべて取り消し済み（有効な承認なし） |
+| 日本市販状況 | 販売中（有効な承認 20 件以上） |
 | 承認番号数 | 20 件（すべて取り消し） |
 | 推奨決定 | Hold |
 
@@ -57,13 +57,13 @@ TxGNN モデルは**肢端中間異形成症 Hunter-Thompson 型 (acromesomelic 
 
 現在、詳細な作用機序データはありません。既知の情報によると、ケトプロフェンはシクロオキシゲナーゼ（COX）阻害作用を持つ NSAID で、プロスタグランジン合成を抑えることで鎮痛・抗炎症・解熱作用を示します。
 
-一方、Hunter-Thompson 型の肢端中間異形成症は、GDF5 の異常による骨格形成異常です。COX 阻害との間に妥当な機序的関連は見つかっておらず、この予測は知識グラフ上の推論に基づくもので、臨床的・機序的な裏付けはありません。仮に使用するとしても、関節痛への対症的な効果にとどまると考えられます。
+一方、Hunter-Thompson 型の先端中肢異形成は、GDF5 の異常による骨格形成異常です。COX 阻害との間に妥当な機序的関連は見つかっておらず、このスコアは TxGNN モデル（深層学習）が出力したもので、モデルが学習した関連疾患間の類似性を反映している可能性があるものの、生物学的な証拠ではありません。仮に使用するとしても、関節痛への対症的な効果にとどまると考えられます。
 
-なお、予測上位 10 件には、機序的な妥当性が比較的高いものとして「脊椎関節症（感受性）」（スコア 99.86%）があります。NSAID は脊椎関節炎の標準的な対症療法ですが、これについても試験や文献は確認されておらず、エビデンスはモデル予測のみです。
+なお、予測上位 10 件には、機序的な妥当性が比較的高いものとして「脊椎関節症（感受性）」（スコア 0.9986）があります。NSAID は脊椎関節炎の標準的な対症療法ですが、これについても試験や文献は確認されておらず、エビデンスはモデル予測のみです。
 
 ## 日本市販情報
 
-日本では、ケトプロフェンの 20 件の承認すべてが取り消されており、現在有効な承認はありません。主な取り消し済み承認は以下のとおりです。
+日本では、ケトプロフェンは販売されており、20 件の承認が有効です。主な承認は以下のとおりです。
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
@@ -88,7 +88,7 @@ TxGNN モデルは**肢端中間異形成症 Hunter-Thompson 型 (acromesomelic 
 
 **理由：**
 - 予測は TxGNN のモデルスコアのみに基づき、臨床試験・文献がなく、GDF5 欠損に起因する疾患と COX 阻害の間に機序的な関連も認められません。
-- 日本の販売承認もすべて取り消されており、再利用を進める基盤が弱い状況です。
+- 日本ではケトプロフェンが販売されており、20 件の承認が有効です。
 
 **進める場合に必要なもの：**
 - 詳細な作用機序データ（MOA）の取得

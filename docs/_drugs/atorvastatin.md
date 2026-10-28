@@ -2,19 +2,19 @@
 layout: default
 title: Atorvastatin
 parent: 高エビデンスレベル
-nav_order: 33
-evidence_level: L1
-indication_count: 10
-last_modified_at: 2026-10-17
-description: "Atorvastatin：予測新適応症は家族性高コレステロール血症 (Familial Hypercholesterolemia)（エビデンスレベル L1）。既存適応症：脂質異常症治療薬、HMG-CoA 還元酵素阻害薬"
+nav_order: 41
+evidence_level: L2
+indication_count: 4
 monitor_inn: "Atorvastatin"
-predicted_indications: ["HIV infectious disease", "brain stem infarction", "cholesterol-ester transfer protein deficiency", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "hypoalphalipoproteinemia", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection"]
+predicted_indications: ["HIV infectious disease", "brain stem infarction", "cholesterol-ester transfer protein deficiency", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
+last_modified_at: 2026-10-27
+description: "Atorvastatin：予測新適応症はHIV感染症 (HIV infectious disease)（エビデンスレベル L2）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 
 # Atorvastatin
 {: .fs-9 }
 
-エビデンスレベル: **L1** | 予測適応症: **10** 件
+エビデンスレベル: **L2** | 予測適応症: **4** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,116 +33,94 @@ predicted_indications: ["HIV infectious disease", "brain stem infarction", "chol
 
 </div>
 
-## アトルバスタチン：脂質異常症から家族性高コレステロール血症へ
+## アトルバスタチン：HMG-CoA還元酵素阻害薬 → HIV感染症 (HIV infectious disease)
 {: .text-alpha }
 
 ## 一言要約
 
-アトルバスタチンは HMG-CoA 還元酵素阻害薬（スタチン）で、元々脂質異常症の治療に使用されていました。
-TxGNN モデルは**家族性高コレステロール血症 (Familial Hypercholesterolemia)** に有効である可能性を予測しており、予測スコアは 99.42% です。
-このデータでは **13 件の臨床試験**と **20 編の文献**が確認されています。ただし、この適応症は薬の本来の作用機序とほぼ重なるため、「新規」というより適応症の近縁拡張と見るのが妥当です。
+アトルバスタチンは、HMG-CoA還元酵素阻害薬（スタチン）として日本で使われてきた薬です。
+TxGNN モデルは **HIV感染症 (HIV infectious disease)** に有効である可能性を予測しています。
+今回まとめたデータでは、**14 件の臨床試験**と **20 編の文献**が関連しています。ただし、いずれも小規模な試験が中心です。
 
 ## クイック概要
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 脂質異常症治療薬、HMG-CoA 還元酵素阻害薬 |
-| 予測新規適応症 | 家族性高コレステロール血症 (Familial Hypercholesterolemia) |
-| TxGNN 予測スコア | 99.42% |
-| エビデンスレベル | L1 |
-| 日本市販状況 | 承認は全て整理済み（現在有効な承認なし） |
-| 承認番号数 | 20 件（全て整理済み） |
+| 既存適応症 | 日本の承認情報に適応症の記載なし |
+| 予測新規適応症 | HIV感染症 (HIV infectious disease) |
+| TxGNN 予測スコア | 0.9931 |
+| エビデンスレベル | L2 |
+| 日本市販状況 | 販売中（有効な承認 20 件以上） |
+| 承認番号数 | 20 件以上 |
 | 推奨決定 | Proceed with Guardrails |
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データは、このレポートの元データには含まれていません。既知の情報によると、アトルバスタチンは HMG-CoA 還元酵素を阻害して肝臓の LDL 受容体を増やし、LDL コレステロール（LDL-C）を下げる薬です。これは脂質異常症治療の中核となる機序です。
+現在、詳細な作用機序データはありません。既知の情報によると、スタチンは LDL コレステロールを下げるだけでなく、単球・マクロファージの活性化を抑えるなど、抗炎症的な作用を持つことが知られています。
 
-家族性高コレステロール血症（FH）は LDL 受容体の機能低下による LDL-C 上昇を特徴とします。アトルバスタチンはこの経路を介して LDL-C を下げるため、機序的に適用可能であり、実質的には既存適応症に近い位置づけです。
+HIV 感染症では、抗レトロウイルス療法（特にプロテアーゼ阻害薬）による脂質異常と、治療後も続く慢性的な免疫活性化・炎症が問題になります。スタチンは、この二つに働きかける可能性があります。実際に、脂質管理と免疫活性化の抑制を目的とした試験が複数行われています。
 
-なお、予測上位には HIV 感染症（スコア 99.31%）もあります。こちらは抗ウイルス作用が確立しておらず、炎症や ART 関連脂質異常への効果を探る段階で、証拠レベルは L2、推奨は「Research Question」です。
+ただし、スタチン自体に確立した抗ウイルス作用はありません。また、プロテアーゼ阻害薬との間に強い CYP3A4 相互作用があるため、用量には注意が必要です。
 
 ## 臨床試験エビデンス
 
-アトルバスタチン自体を試験薬とする試験を優先し、最大 10 件を記載します。
-
 | 試験番号 | フェーズ | 状態 | 被験者数 | 主な知見 |
 |---------|--------|------|----------|---------|
-| [NCT00827606](https://clinicaltrials.gov/study/NCT00827606) | Phase 3 | 完了 | 272 | 小児・若年の heFH におけるアトルバスタチンの 3 年間の成長・発達とコレステロール低下効果 |
-| [NCT00134485](https://clinicaltrials.gov/study/NCT00134485) | Phase 3 | 完了 | 400 | heFH でトルセトラピブ/アトルバスタチン配合 vs アトルバスタチン単独（トルセトラピブは安全性の問題で開発中止） |
-| [NCT00136981](https://clinicaltrials.gov/study/NCT00136981) | Phase 3 | 完了 | 800 | heFH で頸動脈超音波による動脈硬化評価（トルセトラピブ/アトルバスタチン配合 vs アトルバスタチン単独、24 か月） |
-| [NCT00134511](https://clinicaltrials.gov/study/NCT00134511) | Phase 3 | 完了 | 30 | ホモ接合体 FH でトルセトラピブ/アトルバスタチンの有効性・安全性（強制増量、非盲検） |
-| [NCT00739999](https://clinicaltrials.gov/study/NCT00739999) | Phase 1 | 完了 | 39 | 小児・若年の heFH におけるアトルバスタチンの薬物動態・薬力学・安全性（有効性は評価せず） |
-| [NCT03884452](https://clinicaltrials.gov/study/NCT03884452) | Phase 3 | 完了 | 50 | ホモ接合体 FH でエゼチミブをアトルバスタチンまたはシンバスタチンに追加（アトルバスタチンは背景治療） |
-| [NCT03885921](https://clinicaltrials.gov/study/NCT03885921) | Phase 3 | 完了 | 44 | 上記試験の長期延長（最長 24 か月）で、エゼチミブ併用の安全性と忍容性を評価 |
-| [NCT01709500](https://clinicaltrials.gov/study/NCT01709500) | Phase 3 | 完了 | 249 | heFH でアリロクマブ vs プラセボ（アトルバスタチンは背景治療の可能性） |
-| [NCT03510884](https://clinicaltrials.gov/study/NCT03510884) | Phase 3 | 完了 | 153 | 小児・若年の heFH でアリロクマブ vs プラセボ（スタチンは背景治療） |
-| [NCT01279590](https://clinicaltrials.gov/study/NCT01279590) | Phase 2 | 完了 | 282 | スタチン関連筋痛の既往がある高コレステロール血症で PPD10558 vs アトルバスタチン |
+| [NCT01766076](https://clinicaltrials.gov/study/NCT01766076) | Phase 3 | 完了 | 30 | ART 反応が不十分な成人へのアトルバスタチン補助療法の RCT。免疫活性化の変化を評価 |
+| [NCT00367458](https://clinicaltrials.gov/study/NCT00367458) | Phase 2 | 完了 | 24 | 抗レトロウイルス薬未使用の HIV 陽性者での、プラセボ対照 RCT。ウイルス量と免疫活性化マーカーへの影響を検討 |
+| [NCT00663234](https://clinicaltrials.gov/study/NCT00663234) | Phase 1/2 | 中止 | 28 | HIV 感染小児・青年のプロテアーゼ阻害薬関連高 LDL コレステロールに対する安全性と有効性の検討 |
+| [NCT03037372](https://clinicaltrials.gov/study/NCT03037372) | Phase 3 | 不明 | 320 | サブサハラアフリカの ART 治療中成人で、アトルバスタチンとロスバスタチンの免疫活性化・炎症抑制効果の同等性を検証 |
+| [NCT02081638](https://clinicaltrials.gov/study/NCT02081638) | Phase 2 | 完了 | 53 | エリートコントローラーおよび ART 治療中の HIV 陽性者で、スタチンとアスピリンの炎症・凝固への影響を比較 |
+| [NCT01600170](https://clinicaltrials.gov/study/NCT01600170) | Phase 4 | 完了 | 11 | HIV 関連神経認知障害に対し、スタチンによる単球・マクロファージ活性化の抑制を検討 |
+| [NCT01263938](https://clinicaltrials.gov/study/NCT01263938) | Phase 4 | 完了 | 5 | ART 治療中の HIV 感染者における単球活性化へのアトルバスタチンの影響を調べたパイロット試験 |
+| [NCT00355251](https://clinicaltrials.gov/study/NCT00355251) | Phase 4 | 中止 | 5 | ART 中断前のアトルバスタチンがウイルス複製に与える影響を検討。早期終了のため情報は乏しい |
+| [NCT00965185](https://clinicaltrials.gov/study/NCT00965185) | 該当なし | 完了 | 40 | HIV 患者でのスタチン療法による、プラーク炎症と動脈硬化の改善を検討 |
+| [NCT00017758](https://clinicaltrials.gov/study/NCT00017758) | Phase 1 | 完了 | 56 | エファビレンツ・ネルフィナビルがスタチンの血中濃度に与える影響を調べた薬物動態試験（安全性情報） |
 
 ## 文献エビデンス
 
 | PMID | 年 | タイプ | ジャーナル | 主な知見 |
 |------|-----|------|------|---------|
-| [25760954](https://pubmed.ncbi.nlm.nih.gov/25760954/) | 2015 | Review (Cochrane) | Cochrane Database Syst Rev | アトルバスタチンの用量依存的な脂質低下効果を整理 |
-| [27678432](https://pubmed.ncbi.nlm.nih.gov/27678432/) | 2016 | 臨床試験 | J Clin Lipidol | 小児・若年 heFH におけるアトルバスタチン 3 年間の有効性と安全性 |
-| [27417002](https://pubmed.ncbi.nlm.nih.gov/27417002/) | 2016 | コホート | J Am Coll Cardiol | heFH でのスタチン治療による冠動脈疾患・全死亡の低減 |
-| [9666952](https://pubmed.ncbi.nlm.nih.gov/9666952/) | 1998 | コホート | QJM | 重症 heFH 54 例で、アトルバスタチンにより LDL が約 46% 低下 |
-| [9301631](https://pubmed.ncbi.nlm.nih.gov/9301631/) | 1997 | 非盲検試験 | Arterioscler Thromb Vasc Biol | FH でアトルバスタチン 80 mg の有効性と安全性（22 例） |
-| [11383320](https://pubmed.ncbi.nlm.nih.gov/11383320/) | 2001 | 比較試験 | Nutr Metab Cardiovasc Dis | heFH でアトルバスタチンとシンバスタチンの LDL-C 目標達成を比較 |
-| [12883464](https://pubmed.ncbi.nlm.nih.gov/12883464/) | 2003 | 臨床研究 | Med Sci Monit | FH でアトルバスタチンが微量アルブミン尿を減少 |
-| [36928267](https://pubmed.ncbi.nlm.nih.gov/36928267/) | 2023 | コホート | J Atheroscler Thromb | 日本の実臨床における高リスク患者の LDL-C 目標達成率 |
-| [40254247](https://pubmed.ncbi.nlm.nih.gov/40254247/) | 2025 | 前臨床 | Toxicology | FH 患者由来 iPSC 筋細胞での脂溶性・水溶性スタチンの筋毒性の違い |
-| [28437620](https://pubmed.ncbi.nlm.nih.gov/28437620/) | 2017 | ガイドライン | Endocr Pract | AACE/ACE の脂質異常症管理ガイドライン |
+| [37450602](https://pubmed.ncbi.nlm.nih.gov/37450602/) | 2023 | RCT | AIDS | エリートコントローラーと ART 治療中の HIV 陽性者で、アトルバスタチンとアスピリンを比較した非盲検 RCT。残存炎症の抑制を狙う |
+| [18991624](https://pubmed.ncbi.nlm.nih.gov/18991624/) | 2008 | RCT | Current HIV Research | プロテアーゼ阻害薬使用中の HIV 感染者の高コレステロール血症に対し、ロスバスタチン、プラバスタチン、アトルバスタチンを比較した非盲検ランダム化試験 |
+| [26851703](https://pubmed.ncbi.nlm.nih.gov/26851703/) | 2016 | メタ解析 | European Heart Journal | HIV 陽性者 736 例（18 研究）で、一次予防におけるスタチンの有効性と安全性を比較 |
+| [25907504](https://pubmed.ncbi.nlm.nih.gov/25907504/) | 2015 | システマティックレビュー | American Journal of Cardiology | HIV 感染者に対するスタチン療法の有用性を整理 |
+| [29804227](https://pubmed.ncbi.nlm.nih.gov/29804227/) | 2018 | Review | Current Infectious Disease Reports | ART 中の HIV 感染者におけるスタチンの心血管リスク低減効果と安全性 |
+| [26658651](https://pubmed.ncbi.nlm.nih.gov/26658651/) | 2016 | Review | Current Opinion in Infectious Diseases | 治療中の HIV 感染でスタチンが心血管アウトカムを改善するかを検証 |
+| [31126301](https://pubmed.ncbi.nlm.nih.gov/31126301/) | 2019 | コホート／レビュー | AIDS Research and Therapy | HIV 陽性者の心血管疾患予防におけるスタチンとアスピリンの役割と課題 |
+| [29770749](https://pubmed.ncbi.nlm.nih.gov/29770749/) | 2018 | コホート | HIV Clinical Trials | 慢性腎臓病と脂質異常症を併発した HIV-1 感染者で、ロスバスタチンとアトルバスタチンが腎機能を維持するか検討 |
+| [22770622](https://pubmed.ncbi.nlm.nih.gov/22770622/) | 2012 | Review | Expert Opinion on Pharmacotherapy | HIV に伴う脂質異常症に対するスタチンの安全性と有効性 |
+| [41774493](https://pubmed.ncbi.nlm.nih.gov/41774493/) | 2026 | 動物実験 | JCI Insight | HIV／抗レトロウイルス薬で誘発されるマウスの心臓線維化・機能障害を、アトルバスタチンが血小板 TGF-β1 シグナルの遮断により抑制 |
 
 ## 日本市販情報
 
-現在有効な承認はなく、下記は全て整理済みの承認です。
-
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 622152101 | アトルバスタチン錠１０ｍｇ「ＺＥ」 | 錠 | 脂質異常症治療薬, HMG-CoA還元酵素阻害薬 |
-| 622110501 | アトルバスタチン錠１０ｍｇ「トーワ」 | 錠 | 脂質異常症治療薬, HMG-CoA還元酵素阻害薬 |
-| 622167701 | アトルバスタチン錠１０ｍｇ「日医工」 | 錠 | 脂質異常症治療薬, HMG-CoA還元酵素阻害薬 |
-| 622921301 | アトルバスタチン錠５ｍｇ「ＶＴＲＳ」 | 錠 | 脂質異常症治療薬, HMG-CoA還元酵素阻害薬 |
-| 622465301 | アマルエット配合錠１番「日医工」 | 錠（配合剤） | 記載なし |
+日本では複数のアトルバスタチン製剤が市販されており、経口の錠剤が中心です。
 
 ## 安全性に関する考慮事項
 
-- **知識グラフ上の禁忌関連疾患**（添付文書の記載ではありません）：肝不全、肝疾患、腎疾患、胆嚢疾患、甲状腺機能低下症、粘液水腫、ミオパチー、筋疾患、横紋筋融解症、低血圧性障害、物質乱用・依存など。
-- **薬物相互作用**（計 100 件、主なもの）：
-  - 重大（Major）：クラリスロマイシン
-  - 中等度（Moderate）：アプレピタント、オメプラゾール、シメチジン、クロトリマゾール、デキサメタゾン、ミコナゾール、メトロニダゾール、ロスバスタチン、シンバスタチンなど
-  - 軽微（Minor）：水酸化アルミニウム、水酸化マグネシウム、リラグルチド
-- HIV 治療で用いるプロテアーゼ阻害薬は CYP3A4 を強く阻害するため、併用時は用量に注意が必要です。
-
-警告および禁忌の詳細は添付文書で確認してください。
+- **薬物相互作用**：相互作用は合計 100 件が記録されています。主なものは次のとおりです。
+  - **重大（Major）**：クラリスロマイシン
+  - **中等度（Moderate）**：オメプラゾール、シメチジン、デキサメタゾン、メトロニダゾール、ロスバスタチン、シンバスタチンなど
+- **抗 HIV 薬との併用**：プロテアーゼ阻害薬は CYP3A4 を強く阻害します。アトルバスタチンの血中濃度が上がるおそれがあるため、併用時は用量に注意が必要です。筋障害（横紋筋融解症など）のリスクも考慮してください。
 
 ## 結論と次のステップ
 
 **決定：Proceed with Guardrails**
 
 **理由：**
-- FH に対するアトルバスタチンの有効性は、複数の Phase 3 試験と多数の文献で支持されており、機序的にも本来の作用そのものです。
-- ただし日本では現在、有効な承認が全て整理済みで、添付文書の警告・禁忌データも未取得です。
+HIV 陽性者を対象に、完了した Phase 3 RCT と Phase 2 のプラセボ対照 RCT が各 1 件あり、免疫活性化や脂質管理への関与が検討されています。ただし、いずれも被験者数が少なく、抗ウイルス効果は確立していません。そのため、研究段階として慎重に進めるのが妥当です。
 
 **進める場合に必要なもの：**
-- 添付文書（PMDA）の警告・禁忌情報の取得（ブロッキング課題）
-- 詳細な作用機序データ（DrugBank）の補完
-- 日本での現行の販売・承認状況の再確認（整理済みの承認が多いため）
-- 小児や CYP3A4 阻害薬併用患者など、特定集団の安全性モニタリング計画
-- HIV など他の予測適応症は L2 以下のため、別途検証が必要
+- 免疫活性化・炎症マーカーに対する効果を、より大規模な試験（例：NCT03037372 の結果）で確認すること
+- プロテアーゼ阻害薬など抗 HIV 薬との併用に関する、用量設定と安全性モニタリング計画
+- 添付文書の警告・禁忌の確認（今回のデータでは取得できていません）
+- 詳細な作用機序データの補充
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。
 臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-
-
-
-
 
 <!-- brand-names:start -->
 ## 日本での販売名

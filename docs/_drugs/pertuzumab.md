@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Pertuzumab
-parent: 高エビデンスレベル
+parent: モデル予測のみ
 nav_order: 241
-evidence_level: L1
-indication_count: 10
+evidence_level: L5
+indication_count: 6
 last_modified_at: 2026-10-17
-description: "Pertuzumab：予測新適応症はプロゲステロン受容体陽性乳癌 (Progesterone-receptor positive breast cancer)（エビデンスレベル L1）。既存適応症：HER2 陽性乳癌"
 monitor_inn: "Pertuzumab"
 predicted_indications: ["ectomesenchymoma", "malignant cutaneous granular cell skin tumor", "human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "prostatic urethra urothelial carcinoma", "kidney pelvis sarcomatoid transitional cell carcinoma"]
+description: "Pertuzumab：予測新適応症はEctomesenchymoma（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 
 # Pertuzumab
 {: .fs-9 }
 
-エビデンスレベル: **L1** | 予測適応症: **10** 件
+エビデンスレベル: **L5** | 予測適応症: **6** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,24 @@ predicted_indications: ["ectomesenchymoma", "malignant cutaneous granular cell s
 
 </div>
 
-## ペルツズマブ：HER2陽性乳癌から プロゲステロン受容体陽性乳癌 へ
+## Pertuzumab: Ectomesenchymoma
 {: .text-alpha }
 
 ## 一言要約
 
 ペルツズマブは HER2 を標的とする抗体医薬で、元々 HER2 陽性乳癌の治療に使用されていました。
-TxGNN モデルは**プロゲステロン受容体陽性乳癌 (Progesterone-receptor positive breast cancer)** に有効である可能性を予測しており、現在 **1 件の臨床試験**と **20 編の文献**がこの方向性に関連しています。ただし、エビデンスは HER2 陽性サブセットに限られます。
+ただし、エビデンスは HER2 陽性サブセットに限られます。
 
 ## クイック概要
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | HER2 陽性乳癌 |
-| 予測新規適応症 | プロゲステロン受容体陽性乳癌 (Progesterone-receptor positive breast cancer) |
-| TxGNN 予測スコア | 99.93% |
-| エビデンスレベル | L1 |
-| 日本市販状況 | 販売承認は整理済み（現在は市販されていません） |
-| 承認番号数 | 1 件（整理済み） |
+| 既存適応症 | 日本の承認情報に適応症の記載なし |
+| 予測新規適応症 | Ectomesenchymoma |
+| TxGNN 予測スコア | 0.9971 |
+| エビデンスレベル | L5 |
+| 日本市販状況 | 販売中（有効な承認 1 件／全 1 件） |
+| 承認番号数 | 1 件（有効 1 件） |
 | 推奨決定 | Proceed with Guardrails |
 
 ## この予測が妥当である理由
@@ -86,7 +86,7 @@ TxGNN モデルは**プロゲステロン受容体陽性乳癌 (Progesterone-rec
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
-| 622255101 | パージェタ点滴静注420mg/14mL | 注射剤（420mg/14mL） | 記載なし（承認は整理済み） |
+| 622255101 | パージェタ点滴静注420mg/14mL | 注射剤（420mg/14mL） | 記載なし（承認は有効） |
 
 ## 細胞毒性
 

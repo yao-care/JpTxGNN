@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Felodipine
-parent: 中エビデンスレベル
+parent: モデル予測のみ
 nav_order: 131
-evidence_level: L4
-indication_count: 7
+evidence_level: L5
+indication_count: 5
 last_modified_at: 2026-10-17
 description: "Felodipine：予測新適応症は肺疾患・低酸素に伴う肺高血圧症 (Pulmonary hypertension owing to lung disease and/or…（エビデンスレベル L4）。既存適応症：高血圧症（血圧降下薬・血管拡張薬・カルシウムチャネル遮断薬）"
 monitor_inn: "Felodipine"
@@ -14,7 +14,7 @@ predicted_indications: ["pulmonary hypertension owing to lung disease and/or hyp
 # Felodipine
 {: .fs-9 }
 
-エビデンスレベル: **L4** | 予測適応症: **7** 件
+エビデンスレベル: **L5** | 予測適応症: **5** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["pulmonary hypertension owing to lung disease and/or hyp
 
 </div>
 
-## フェロジピン：高血圧症から 肺高血圧症（肺疾患・低酸素に伴うもの）へ
+## フェロジピン：高血圧症から 肺疾患・低酸素に伴う肺高血圧症へ
 {: .text-alpha }
 
 ## 一言要約
@@ -48,10 +48,10 @@ TxGNN モデルは**肺疾患・低酸素に伴う肺高血圧症 (Pulmonary hyp
 |------|------|
 | 既存適応症 | 高血圧症（血圧降下薬・血管拡張薬・カルシウムチャネル遮断薬） |
 | 予測新規適応症 | 肺疾患・低酸素に伴う肺高血圧症 (Pulmonary hypertension owing to lung disease and/or hypoxia) |
-| TxGNN 予測スコア | 99.91% |
-| エビデンスレベル | L4 |
-| 日本市販状況 | ✗ 承認はすべて整理済み（現在市販中の製品なし） |
-| 承認番号数 | 8 件（すべて整理済み） |
+| TxGNN 予測スコア | 0.9991 |
+| エビデンスレベル | L5 |
+| 日本市販状況 | 販売中（有効な承認 8 件／全 8 件） |
+| 承認番号数 | 8 件（有効 8 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -82,7 +82,7 @@ TxGNN モデルは**肺疾患・低酸素に伴う肺高血圧症 (Pulmonary hyp
 
 ## 日本市販情報
 
-主要な承認 5 件を示します。8 件の承認はすべて整理済みで、現在有効な承認はありません。
+主要な承認 5 件を示します。8 件の承認はすべて有効です。
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
@@ -111,7 +111,7 @@ TxGNN モデルは**肺疾患・低酸素に伴う肺高血圧症 (Pulmonary hyp
 
 **理由：**
 - 肺高血圧症に対する臨床試験はなく、文献もすべて in vitro・動物の間接的な研究です（L4）。TxGNN の予測スコアは高いものの、現時点で臨床開発に進める根拠はありません。
-- 日本での承認はすべて整理済みで、現在市販中の製品がありません。
+- 日本では 8 件の承認のうち 8 件が有効で、市販されています。
 
 **進める場合に必要なもの：**
 - 肺高血圧症モデル（低酸素誘発性など）での肺動脈圧・肺血管抵抗に関する直接的な前臨床データ
@@ -120,7 +120,6 @@ TxGNN モデルは**肺疾患・低酸素に伴う肺高血圧症 (Pulmonary hyp
 - 全身性の血管拡張による低血圧、低酸素性肺血管収縮の抑制に伴うガス交換悪化のリスク評価
 - 剤形・投与経路の適合性の確認
 
-**参考：** 同じ薬物の別の予測候補である**プリンツメタル狭心症 (Prinzmetal angina)** には、フェロジピンを評価した RCT が複数あります（エビデンスレベル L2、推奨は Proceed with Guardrails）。再利用候補としては、そちらの方が優先度が高いと考えられます。
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

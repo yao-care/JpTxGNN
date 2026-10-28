@@ -4,17 +4,17 @@ title: Ibuprofen
 parent: モデル予測のみ
 nav_order: 158
 evidence_level: L5
-indication_count: 10
+indication_count: 7
 monitor_inn: "Ibuprofen"
-predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "hypotrichosis simplex of the scalp", "WHIM syndrome", "congenital hypotrichosis milia"]
-last_modified_at: 2026-10-17
-description: "Ibuprofen：予測新適応症は先端中間異形成 Hunter-Thompson 型 (acromesomelic dysplasia…（エビデンスレベル L5）。既存適応症：鎮痛薬、抗炎症薬、解熱薬、シクロオキシゲナーゼ阻害薬（関節リウマチ）"
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
+last_modified_at: 2026-10-28
+description: "Ibuprofen：予測新適応症は先端中間異形成 Hunter-Thompson 型 (acromesomelic dysplasia, Hunter-Thompson type)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 
 # Ibuprofen
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **10** 件
+エビデンスレベル: **L5** | 予測適応症: **7** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ description: "Ibuprofen：予測新適応症は先端中間異形成 Hunter-Thom
 
 </div>
 
-## イブプロフェン：関節リウマチ（鎮痛・抗炎症）から先端中間異形成（Hunter-Thompson型）へ
+## Ibuprofen: 先端中間異形成 Hunter-Thompson 型 (acromesomelic dysplasia, Hunter-Thompson type)
 {: .text-alpha }
 
 ## 一言要約
@@ -46,12 +46,12 @@ TxGNN モデルは**先端中間異形成 Hunter-Thompson 型 (acromesomelic dys
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 鎮痛薬、抗炎症薬、解熱薬、シクロオキシゲナーゼ阻害薬（関節リウマチ） |
+| 既存適応症 | 日本の承認情報に適応症の記載なし |
 | 予測新規適応症 | 先端中間異形成 Hunter-Thompson 型 (acromesomelic dysplasia, Hunter-Thompson type) |
-| TxGNN 予測スコア | 99.74% |
+| TxGNN 予測スコア | 0.9974 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 承認は全て取消済み（現在の市販品なし） |
-| 承認番号数 | 10 件（有効 0 件、取消 10 件） |
+| 日本市販状況 | 販売中（有効な承認 10 件／全 10 件） |
+| 承認番号数 | 10 件（有効 10 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -62,7 +62,7 @@ TxGNN モデルは**先端中間異形成 Hunter-Thompson 型 (acromesomelic dys
 
 そのため、この予測の裏付けは TxGNN のスコアのみです。症状緩和（疼痛など）以外の効果を期待できる根拠は、現時点では示されていません。
 
-なお、予測上位には他に、brachyolmia-amelogenesis imperfecta syndrome（99.71%）、myosclerosis（99.68%）、brachyolmia（99.67%）、brachydactyly-syndactyly syndrome（99.66%）、pseudoachondroplasia（99.66%）などがあります。いずれもエビデンスレベルは L5 で、臨床試験・文献はなく、推奨は Hold です。
+なお、予測上位には他に、brachyolmia-amelogenesis imperfecta syndrome（0.9971）、myosclerosis（0.9968）、brachyolmia（0.9967）、brachydactyly-syndactyly syndrome（0.9966）、pseudoachondroplasia（0.9966）などがあります。いずれもエビデンスレベルは L5 で、臨床試験・文献はなく、推奨は Hold です。
 
 ## 日本市販情報
 
@@ -74,7 +74,7 @@ TxGNN モデルは**先端中間異形成 Hunter-Thompson 型 (acromesomelic dys
 | 620088902 | イブプロフェン顆粒２０％「ツルハラ」 | 顆粒２０％ | 鎮痛薬、抗炎症薬、解熱薬、シクロオキシゲナーゼ阻害薬（関節リウマチ） |
 | 620090604 | イブプロフェン錠１００ｍｇ「ＮＩＧ」 | 錠１００ｍｇ | 鎮痛薬、抗炎症薬、解熱薬、シクロオキシゲナーゼ阻害薬（関節リウマチ） |
 
-※ 上記を含む 10 件はすべて取消済みです。
+※ 上記を含む 10 件のうち、10 件が有効な承認です。
 
 ## 安全性に関する考慮事項
 
@@ -91,7 +91,7 @@ TxGNN モデルは**先端中間異形成 Hunter-Thompson 型 (acromesomelic dys
 **決定：Hold**
 
 **理由：**
-予測は TxGNN モデルのスコアのみに基づいており、臨床試験も文献もありません。COX 阻害との機序的関連も確認できず、日本での承認もすべて取消済みです。
+予測は TxGNN モデルのスコアのみに基づいており、臨床試験も文献もありません。COX 阻害との機序的関連も確認できていません。日本では販売されており、10 件の承認のうち 10 件が有効です。
 
 **進める場合に必要なもの：**
 - 添付文書（PMDA）の警告・禁忌の確認（安全性スクリーニングの前提条件）

@@ -4,17 +4,17 @@ title: Meloxicam
 parent: モデル予測のみ
 nav_order: 200
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 last_modified_at: 2026-10-17
 description: "Meloxicam：予測新適応症は肢中間部異形成症 Hunter-Thompson 型 (acromesomelic dysplasia…（エビデンスレベル L5）。既存適応症：関節リウマチ（鎮痛薬、抗炎症薬、シクロオキシゲナーゼ2阻害薬）"
 monitor_inn: "Meloxicam"
-predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "spondyloarthropathy, susceptibility to", "rheumatoid nodulosis", "WHIM syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "rheumatoid nodulosis", "WHIM syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
 ---
 
 # Meloxicam
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **10** 件
+エビデンスレベル: **L5** | 予測適応症: **8** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN モデルは**肢中間部異形成症 Hunter-Thompson 型 (acromesomelic 
 |------|------|
 | 既存適応症 | 関節リウマチ（鎮痛薬、抗炎症薬、シクロオキシゲナーゼ2阻害薬） |
 | 予測新規適応症 | 肢中間部異形成症 Hunter-Thompson 型 (acromesomelic dysplasia, Hunter-Thompson type) |
-| TxGNN 予測スコア | 99.92% |
+| TxGNN 予測スコア | 0.9992 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売承認は全て取消済み（現在有効な承認なし） |
+| 日本市販状況 | 販売中（有効な承認 20 件以上） |
 | 承認番号数 | 20 件（すべて取消） |
 | 推奨決定 | Hold |
 
@@ -105,7 +105,7 @@ TxGNN モデルは**肢中間部異形成症 Hunter-Thompson 型 (acromesomelic 
 **決定：Hold**
 
 **理由：**
-予測第 1 位の疾患には臨床試験も文献もなく（L5）、機序的にも COX-2 阻害との関連が見いだせません。さらに日本の販売承認はすべて取消済みで、添付文書の安全性情報も未確認のため、現時点で先に進める根拠はありません。
+予測第 1 位の疾患には臨床試験も文献もなく（L5）、機序的にも COX-2 阻害との関連が見いだせません。日本では販売されており有効な販売承認が 20 件ありますが、添付文書の安全性情報は未確認のため、現時点で先に進める根拠はありません。
 
 **進める場合に必要なもの：**
 - 添付文書（警告・禁忌）の取得と安全性評価

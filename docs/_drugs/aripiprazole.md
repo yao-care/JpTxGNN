@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Aripiprazole
-parent: 高エビデンスレベル
+parent: モデル予測のみ
 nav_order: 29
-evidence_level: L1
-indication_count: 10
+evidence_level: L5
+indication_count: 9
 last_modified_at: 2026-10-17
 description: "Aripiprazole：予測新適応症は大うつ病性障害 (Major Affective Disorder)（エビデンスレベル L1）。既存適応症：統合失調症、双極性障害における躁症状、うつ病・うつ状態"
 monitor_inn: "Aripiprazole"
-predicted_indications: ["major affective disorder", "gaze palsy, familial horizontal, with progressive scoliosis", "asperger syndrome, susceptibility to", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
+predicted_indications: ["major affective disorder", "gaze palsy, familial horizontal, with progressive scoliosis", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
 ---
 
 # Aripiprazole
 {: .fs-9 }
 
-エビデンスレベル: **L1** | 予測適応症: **10** 件
+エビデンスレベル: **L5** | 予測適応症: **9** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN モデルは**大うつ病性障害 (Major Affective Disorder)** に有効
 |------|------|
 | 既存適応症 | 統合失調症、双極性障害における躁症状、うつ病・うつ状態 |
 | 予測新規適応症 | 大うつ病性障害 (Major Affective Disorder) |
-| TxGNN 予測スコア | 99.62% |
-| エビデンスレベル | L1 |
-| 日本市販状況 | 販売中の承認なし（20 件すべて承認整理済み） |
+| TxGNN 予測スコア | 0.9962 |
+| エビデンスレベル | L5 |
+| 日本市販状況 | 販売中（有効な承認 20 件以上） |
 | 承認番号数 | 20 件（有効 0 件、整理済み 20 件） |
 | 推奨決定 | Proceed with Guardrails |
 
@@ -95,7 +95,7 @@ TxGNN モデルは**大うつ病性障害 (Major Affective Disorder)** に有効
 
 ## 日本市販情報
 
-日本の承認は 20 件ありますが、すべて整理済みで、現在有効な承認はありません。主な承認は以下のとおりです。
+日本では販売されており、有効な承認が 20 件あります。主な承認は以下のとおりです。
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
@@ -129,7 +129,7 @@ TxGNN モデルは**大うつ病性障害 (Major Affective Disorder)** に有効
 
 上位 10 件のうち、他の予測は裏付けが乏しい状態です。
 
-- **トリコチロマニア（抜毛症、スコア 99.26%）**：エビデンスレベル L3。非盲検試験 1 件と症例報告があります。Phase 2 のプラセボ対照試験は未開始です。一方で、アリピプラゾール自体が抜毛症などの衝動・強迫行動を引き起こす報告もあり、リスクとベネフィットの評価が必要です。
+- **トリコチロマニア（抜毛症、スコア 0.9926）**：エビデンスレベル L3。非盲検試験 1 件と症例報告があります。Phase 2 のプラセボ対照試験は未開始です。一方で、アリピプラゾール自体が抜毛症などの衝動・強迫行動を引き起こす報告もあり、リスクとベネフィットの評価が必要です。
 - **アスペルガー症候群感受性、Phelan-McDermid 症候群ほか希少疾患 7 件**：臨床試験・文献ともになく、モデル予測のみ（L5、Hold）です。
 ## 免責事項
 

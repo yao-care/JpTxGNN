@@ -4,17 +4,17 @@ title: Azathioprine
 parent: モデル予測のみ
 nav_order: 35
 evidence_level: L5
-indication_count: 10
+indication_count: 7
 last_modified_at: 2026-10-17
 description: "Azathioprine：予測新適応症はコロボーマ性小眼球症-根幹肢異形成症候群 (colobomatous microphthalmia-rhizomelic dysplasi…（エビデンスレベル L5）。既存適応症：臓器移植における拒絶反応、ステロイド依存性のクローン病・潰瘍性大腸炎、顕微鏡的多発血管炎、多発血管炎性肉芽腫症、全身性エリテマトーデス…"
 monitor_inn: "Azathioprine"
-predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "osteoarthritis susceptibility", "WHIM syndrome", "granulomatous disease, chronic, autosomal recessive, 5", "osteoarthritis", "granulomatous disease with defect in neutrophil chemotaxis", "acromesomelic dysplasia, Hunter-Thompson type"]
+predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "WHIM syndrome", "granulomatous disease, chronic, autosomal recessive, 5", "osteoarthritis", "granulomatous disease with defect in neutrophil chemotaxis", "acromesomelic dysplasia, Hunter-Thompson type"]
 ---
 
 # Azathioprine
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **10** 件
+エビデンスレベル: **L5** | 予測適応症: **7** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,17 +47,17 @@ TxGNN モデルは**コロボーマ性小眼球症-根幹肢異形成症候群 (
 |------|------|
 | 既存適応症 | 臓器移植における拒絶反応、ステロイド依存性のクローン病・潰瘍性大腸炎、顕微鏡的多発血管炎、多発血管炎性肉芽腫症、全身性エリテマトーデス、自己免疫性肝炎 ほか |
 | 予測新規適応症 | コロボーマ性小眼球症-根幹肢異形成症候群 (colobomatous microphthalmia-rhizomelic dysplasia syndrome) |
-| TxGNN 予測スコア | 99.999% |
+| TxGNN 予測スコア | 1.0000 |
 | エビデンスレベル | L5（モデル予測のみ） |
-| 日本市販状況 | 承認は全て失効（市販中の製品なし） |
-| 承認番号数 | 3 件（いずれも失効） |
+| 日本市販状況 | 販売中（有効な承認 3 件／全 3 件） |
+| 承認番号数 | 3 件（有効 3 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
 
 現在、詳細な作用機序データはありません。既知の情報によると、アザチオプリンは 6-メルカプトプリンを経てチオグアニンヌクレオチドに変換され、プリン合成を阻害して免疫細胞の増殖を抑える免疫抑制薬です。臓器移植や自己免疫疾患では、この作用が有効性の根拠になっています。
 
-一方、この予測疾患は眼と骨格に生じる先天性の発生異常で、免疫が関与する機序は知られていません。そのため、アザチオプリンのプリン合成阻害や免疫抑制がこの疾患を標的にするという妥当な機序的関連は見出せませんでした。この予測はナレッジグラフ上のシグナルにとどまり、臨床的にも機序的にも裏付けがありません。スコアが高くても、妥当性が支持されたとは言えません。
+一方、この予測疾患は眼と骨格に生じる先天性の発生異常で、免疫が関与する機序は知られていません。そのため、アザチオプリンのプリン合成阻害や免疫抑制がこの疾患を標的にするという妥当な機序的関連は見出せませんでした。このスコアは TxGNN モデル（深層学習）が出したもので、モデルが学習した関連疾患間の類似性を反映している可能性があり、生物学的な証拠ではありません。臨床的にも機序的にも裏付けがありません。スコアが高くても、妥当性が支持されたとは言えません。
 
 ## 臨床試験エビデンス
 
@@ -100,7 +100,6 @@ TxGNN モデルは**コロボーマ性小眼球症-根幹肢異形成症候群 (
 - 添付文書（警告・禁忌）の取得による安全性評価
 - 日本での承認が全て失効している点の確認
 
-**参考：** 同じ予測リストには、炎症性腸疾患（予測スコア約 99.5%）と潰瘍性大腸炎（同約 99.3%）があります。これらは多数の臨床試験と Cochrane メタ解析に支えられ、L1 と評価されています。ただし、いずれも既存の承認適応症（ステロイド依存性のクローン病・潰瘍性大腸炎）に該当するため、新規適応症としての再利用ではなく承認内の使用です。実際に評価を進める価値が高いのは、こちらの候補です。進める場合は TPMT/NUDT15 遺伝子検査、血液・肝機能モニタリング、感染症・悪性腫瘍の監視、相互作用の確認（アロプリノール、フェブキソスタットなど）が必要です。
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

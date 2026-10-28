@@ -4,9 +4,9 @@ title: Rivaroxaban
 parent: モデル予測のみ
 nav_order: 268
 evidence_level: L5
-indication_count: 10
+indication_count: 4
 monitor_inn: "Rivaroxaban"
-predicted_indications: ["rheumatoid arthritis", "gout", "HIV infectious disease", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "sclerosing cholangitis", "systemic mastocytosis", "Smouldering systemic mastocytosis", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection"]
+predicted_indications: ["rheumatoid arthritis", "gout", "HIV infectious disease", "brachydactyly-syndactyly syndrome"]
 last_modified_at: 2026-10-17
 description: "Rivaroxaban：予測新適応症は関節リウマチ (Rheumatoid Arthritis)（エビデンスレベル L5）。既存適応症：抗血栓薬、第Xa因子阻害薬"
 ---
@@ -14,7 +14,7 @@ description: "Rivaroxaban：予測新適応症は関節リウマチ (Rheumatoid 
 # Rivaroxaban
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **10** 件
+エビデンスレベル: **L5** | 予測適応症: **4** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN モデルは**関節リウマチ (Rheumatoid Arthritis)** に有効であ�
 |------|------|
 | 既存適応症 | 抗血栓薬、第Xa因子阻害薬 |
 | 予測新規適応症 | 関節リウマチ (Rheumatoid Arthritis) |
-| TxGNN 予測スコア | 99.57% |
+| TxGNN 予測スコア | 0.9957 |
 | エビデンスレベル | L5（モデル予測のみ。データ上の暫定評価は L4） |
-| 日本市販状況 | 販売承認は全て取消済み（現在有効な承認なし） |
+| 日本市販状況 | 販売中（有効な承認 20 件以上） |
 | 承認番号数 | 20 件（すべて取消） |
 | 推奨決定 | Hold |
 
@@ -103,13 +103,13 @@ TxGNN モデルは**関節リウマチ (Rheumatoid Arthritis)** に有効であ�
 - 添付文書（警告・禁忌）の確認と安全性スクリーニング
 - 関節リウマチにおけるトロンビン/第Xa因子の役割を検証する前臨床・機序研究
 - 出血リスクと便益を評価する探索的臨床試験の設計
-- 日本での承認がすべて取消済みである経緯の確認
+- 日本で販売されており、有効な承認が20件あることの確認
 
 ## 補足：他の予測候補について
 
 上位 10 件の予測のうち、他の候補も現時点ではいずれも Hold です。
 
-- **HIV 感染症（スコア 99.17%）**：リバーロキサバンに抗ウイルス作用はなく、文献は HIV 患者での抗凝固薬の安全性（リトナビル/コビシスタットとの相互作用による出血リスク）に関するものです。治療適応ではなく薬物相互作用の問題です。
+- **HIV 感染症（スコア 0.9917）**：リバーロキサバンに抗ウイルス作用はなく、文献は HIV 患者での抗凝固薬の安全性（リトナビル/コビシスタットとの相互作用による出血リスク）に関するものです。治療適応ではなく薬物相互作用の問題です。
 - **痛風、短指趾合指症候群、コロボーマ性小眼球症、硬化性胆管炎、全身性肥満細胞症（含むくすぶり型）、ネコ後天性免疫不全症候群、サル免疫不全ウイルス感染症**：機序的根拠や直接的な研究がなく、モデル予測のみ（L5）です。
 ## 免責事項
 

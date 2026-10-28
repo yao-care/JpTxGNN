@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Tamoxifen
-parent: 高エビデンスレベル
+parent: モデル予測のみ
 nav_order: 295
-evidence_level: L1
-indication_count: 10
+evidence_level: L5
+indication_count: 3
 last_modified_at: 2026-10-17
-description: "Tamoxifen：予測新適応症は乳腺上皮内癌 (Breast Carcinoma in Situ)（エビデンスレベル L1）。既存適応症：乳癌"
 monitor_inn: "Tamoxifen"
 predicted_indications: ["mammary Paget disease", "Ehrlich tumor carcinoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
+description: "Tamoxifen：予測新適応症はMammary Paget disease（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 
 # Tamoxifen
 {: .fs-9 }
 
-エビデンスレベル: **L1** | 予測適応症: **10** 件
+エビデンスレベル: **L5** | 予測適応症: **3** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["mammary Paget disease", "Ehrlich tumor carcinoma", "bot
 
 </div>
 
-## タモキシフェン：乳癌から乳腺上皮内癌（Breast Carcinoma in Situ）へ
+## Tamoxifen: Mammary Paget disease
 {: .text-alpha }
 
 ## 一言要約
@@ -47,12 +47,12 @@ TxGNN モデルの最上位予測は乳房パジェット病 (Mammary Paget Dise
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 乳癌 |
-| 予測新規適応症 | 乳腺上皮内癌 (Breast Carcinoma in Situ)（予測順位 4 位） |
-| TxGNN 予測スコア | 99.67% |
-| エビデンスレベル | L1 |
-| 日本市販状況 | 承認は全て整理済み（現在市販中の承認なし） |
-| 承認番号数 | 13 件（すべて整理済み） |
+| 既存適応症 | 日本の承認情報に適応症の記載なし |
+| 予測新規適応症 | Mammary Paget disease |
+| TxGNN 予測スコア | 0.9969 |
+| エビデンスレベル | L5 |
+| 日本市販状況 | 販売中（有効な承認 13 件／全 13 件） |
+| 承認番号数 | 13 件（有効 13 件） |
 | 推奨決定 | Proceed with Guardrails |
 
 ## この予測が妥当である理由
@@ -97,7 +97,7 @@ TxGNN モデルの最上位予測は乳房パジェット病 (Mammary Paget Dise
 
 ## 日本市販情報
 
-日本での承認 13 件はすべて整理済みで、現在市販中の承認はありません。主なものは以下のとおりです。
+主なものは以下のとおりです。
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
@@ -128,7 +128,7 @@ TxGNN モデルの最上位予測は乳房パジェット病 (Mammary Paget Dise
 **決定：Proceed with Guardrails**
 
 **理由：**
-乳腺上皮内癌では、TAM-01 や NSABP B-24 などの Phase 3 RCT が再発抑制を示しており、エビデンスは L1 です。ただし、日本の承認はすべて整理済みで市販品がなく、安全性の添付文書情報も未確認のため、条件付きでの前進とします。
+乳腺上皮内癌では、TAM-01 や NSABP B-24 などの Phase 3 RCT が再発抑制を示しており、エビデンスは L1 です。
 
 **進める場合に必要なもの：**
 - 日本国内での製品入手可否の確認（現在は承認が整理済み）
@@ -141,15 +141,14 @@ TxGNN モデルの最上位予測は乳房パジェット病 (Mammary Paget Dise
 
 | 順位 | 疾患 | スコア | エビデンスレベル | 推奨 | 要点 |
 |------|------|--------|------------------|------|------|
-| 1 | 乳房パジェット病 | 99.69% | L4 | Research Question | 基礎に DCIS や浸潤癌があることが多く、効果は間接的。症例報告が中心 |
-| 2 | 乳管内篩状乳腺腺癌 | 99.69% | L5 | Hold | ER 陽性が多く機序は妥当。臨床・文献エビデンスなし |
-| 3 | 基底細胞様乳癌 | 99.68% | L4 | Hold | 多くは ER 陰性で ER 拮抗の関連性は限定的。前臨床データのみ |
-| 5 | 脂腺乳癌 | 99.67% | L5 | Hold | 極めて稀で ER 依存性は未確立。エビデンスなし |
-| 6 | 浸潤性管状乳癌 | 99.67% | L4 | Research Question | ER 陽性が多く機序は妥当。タモキシフェン単独の効果を示すデータなし |
-| 7 | エーリッヒ腫瘍癌 | 99.67% | L4 | Hold | マウスの移植腫瘍モデルで、ヒトの疾患ではない |
-| 8 | ホルモン抵抗性乳癌 | 99.67% | L3 | Research Question | 単剤ではなく、耐性を解除する併用療法での検討が必要 |
-| 9 | ER 陽性乳癌 | 99.67% | L1 | Proceed with Guardrails | 既存適応症と同じ領域。Phase 3 の証拠は豊富 |
-| 10 | 膣のぶどう状胚性横紋筋肉腫 | 99.67% | L5 | Hold | 機序的な関連なし。エビデンスなし |
+| 1 | 乳房パジェット病 | 0.9969 | L5 | Research Question | 基礎に DCIS や浸潤癌があることが多く、効果は間接的。症例報告が中心 |
+| 2 | 乳管内篩状乳腺腺癌 | 0.9969 | L5 | Hold | ER 陽性が多く機序は妥当。臨床・文献エビデンスなし |
+| 5 | 脂腺乳癌 | 0.9967 | L5 | Hold | 極めて稀で ER 依存性は未確立。エビデンスなし |
+| 6 | 浸潤性管状乳癌 | 0.9967 | L4 | Research Question | ER 陽性が多く機序は妥当。タモキシフェン単独の効果を示すデータなし |
+| 7 | エーリッヒ腫瘍癌 | 0.9967 | L4 | Hold | マウスの移植腫瘍モデルで、ヒトの疾患ではない |
+| 8 | ホルモン抵抗性乳癌 | 0.9967 | L3 | Research Question | 単剤ではなく、耐性を解除する併用療法での検討が必要 |
+| 9 | ER 陽性乳癌 | 0.9967 | L1 | Proceed with Guardrails | 既存適応症と同じ領域。Phase 3 の証拠は豊富 |
+| 10 | 膣のぶどう状胚性横紋筋肉腫 | 0.9967 | L5 | Hold | 機序的な関連なし。エビデンスなし |
 
 予測 9 位の ER 陽性乳癌は既存の乳癌適応に近く、新規性は小さい点にご注意ください。
 ## 免責事項

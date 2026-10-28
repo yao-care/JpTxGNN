@@ -4,17 +4,17 @@ title: Warfarin
 parent: モデル予測のみ
 nav_order: 342
 evidence_level: L5
-indication_count: 10
+indication_count: 7
 last_modified_at: 2026-10-17
-description: "Warfarin：予測新適応症は血栓性素因 (Thrombophilia)（エビデンスレベル L5）。既存適応症：抗凝固薬、ビタミンK拮抗薬"
 monitor_inn: "Warfarin"
-predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombophilia", "rheumatoid arthritis", "breast fibrocystic disease", "benign mammary dysplasia", "apocrine adenosis of breast", "blunt duct adenosis of breast", "migraine disorder"]
+predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombophilia", "rheumatoid arthritis", "breast fibrocystic disease", "benign mammary dysplasia"]
+description: "Warfarin：予測新適応症はHeparin cofactor 2 deficiency（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 
 # Warfarin
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **10** 件
+エビデンスレベル: **L5** | 予測適応症: **7** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with s
 
 </div>
 
-## ワルファリン：抗凝固薬から血栓性素因（Thrombophilia）へ
+## Warfarin: Heparin cofactor 2 deficiency
 {: .text-alpha }
 
 ## 一言要約
@@ -46,12 +46,12 @@ TxGNN モデルは複数の血栓性疾患、とくに**血栓性素因 (Thrombo
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 抗凝固薬、ビタミンK拮抗薬 |
-| 予測新規適応症 | 血栓性素因 (Thrombophilia)（予測スコア順位1位は ヘパリンコファクターII欠乏症） |
-| TxGNN 予測スコア | 99.75%（血栓性素因）／ 99.87%（最上位：ヘパリンコファクターII欠乏症） |
-| エビデンスレベル | L3（血栓性素因） |
-| 日本市販状況 | 販売承認は全件が整理・取消済（市販中の承認なし） |
-| 承認番号数 | 18 件（すべて取消） |
+| 既存適応症 | 日本の承認情報に適応症の記載なし |
+| 予測新規適応症 | Heparin cofactor 2 deficiency |
+| TxGNN 予測スコア | 0.9987 |
+| エビデンスレベル | L5（血栓性素因） |
+| 日本市販状況 | 販売中（有効な承認 18 件／全 18 件） |
+| 承認番号数 | 18 件（有効 18 件） |
 | 推奨決定 | Proceed with Guardrails |
 
 > 補足：スコア最上位のヘパリンコファクターII欠乏症は症例報告のみ（L4）で、研究課題の段階です。本レポートでは、エビデンスが最も厚い血栓性素因を中心に評価します。
@@ -87,7 +87,7 @@ TxGNN モデルは複数の血栓性疾患、とくに**血栓性素因 (Thrombo
 
 ## 日本市販情報
 
-販売承認は18件ありますが、すべて取消済みで、現在有効な承認はありません。以下は代表的な5件です。
+以下は代表的な5件です。
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
@@ -119,10 +119,8 @@ TxGNN モデルは複数の血栓性疾患、とくに**血栓性素因 (Thrombo
 - 詳細な作用機序データ（MOA）の補充
 - 血栓性素因サブグループ（抗凝固因子欠乏症など）での比較試験またはレジストリ解析
 - INR モニタリングと相互作用管理を含む安全性計画
-- 日本の承認がすべて取消されている点の確認（現行の入手経路・製品の再確認）
 
 **その他の予測適応症の扱い：**
-- ヘパリンコファクターII欠乏症、アンチトロンビン欠乏症2型、片頭痛：症例報告が中心（L4）で、研究課題の段階です。
 - 第V因子過剰症：TxGNN 予測のみ（L5）で保留です。
 - 関節リウマチ、乳腺線維嚢胞症、良性乳腺異形成、乳腺アポクリン腺症、乳腺鈍性導管腺症：機序的根拠がなく、関連資料も相互作用情報にとどまるため保留です。
 ## 免責事項

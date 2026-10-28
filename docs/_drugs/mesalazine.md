@@ -4,9 +4,9 @@ title: Mesalazine
 parent: モデル予測のみ
 nav_order: 203
 evidence_level: L5
-indication_count: 7
+indication_count: 6
 monitor_inn: "mesalazine"
-predicted_indications: ["congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "rheumatoid arthritis", "seborrheic keratosis", "osteoarthritis susceptibility", "vulvar inverted follicular keratosis", "pseudoachondroplasia"]
+predicted_indications: ["congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "rheumatoid arthritis", "seborrheic keratosis", "vulvar inverted follicular keratosis", "pseudoachondroplasia"]
 last_modified_at: 2026-10-17
 description: "Mesalazine：予測新適応症は若年性黄斑ジストロフィーを伴う先天性乏毛症 (Congenital Hypotrichosis with Juvenile Macular…（エビデンスレベル L5）。既存適応症：潰瘍性大腸炎、クローン病（抗炎症薬）"
 ---
@@ -14,7 +14,7 @@ description: "Mesalazine：予測新適応症は若年性黄斑ジストロフ�
 # Mesalazine
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **7** 件
+エビデンスレベル: **L5** | 予測適応症: **6** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,17 +48,17 @@ TxGNN モデルは**若年性黄斑ジストロフィーを伴う先天性乏毛
 |------|------|
 | 既存適応症 | 潰瘍性大腸炎、クローン病（抗炎症薬） |
 | 予測新規適応症 | 若年性黄斑ジストロフィーを伴う先天性乏毛症 (Congenital Hypotrichosis with Juvenile Macular Dystrophy) |
-| TxGNN 予測スコア | 99.65% |
+| TxGNN 予測スコア | 0.9965 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 現在有効な承認なし（全件が失効・取消済み） |
-| 承認番号数 | 13 件（すべて失効・取消済み） |
+| 日本市販状況 | 販売中（有効な承認 13 件／全 13 件） |
+| 承認番号数 | 13 件（有効 13 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
 
 現在、詳細な作用機序データはありません。既知の情報によると、メサラジンは COX／リポキシゲナーゼ阻害や PPAR-γ 活性化を介した抗炎症作用を持つ薬剤で、潰瘍性大腸炎とクローン病での有効性が確立しています。
 
-一方、予測された疾患は CDH3 遺伝子に関連する遺伝性疾患です。メサラジンの抗炎症作用との間に妥当な機序的関連は見当たりません。高い TxGNN スコアは、知識グラフ上の関連性に基づく予測にすぎません。
+一方、予測された疾患は CDH3 遺伝子に関連する遺伝性疾患です。メサラジンの抗炎症作用との間に妥当な機序的関連は見当たりません。高い TxGNN スコアは TxGNN モデル（深層学習）が出力したもので、関連する疾患間でモデルが学習した類似性を反映している可能性があり、生物学的な根拠ではありません。
 既存適応症（腸管の炎症性疾患）との類似性も未評価です。現時点では、機序的に適用可能とは言えません。
 
 ## 臨床試験エビデンス
@@ -79,14 +79,14 @@ TxGNN モデルは**若年性黄斑ジストロフィーを伴う先天性乏毛
 | 622924101 | メサラジン徐放錠２５０ｍｇ「トーワ」 | 錠２５０ｍｇ「トーワ」 | 抗炎症薬。潰瘍性大腸炎、クローン病 |
 | 622065002 | メサラジン錠５００ｍｇ「ケミファ」 | 錠５００ｍｇ「ケミファ」 | 抗炎症薬。潰瘍性大腸炎、クローン病 |
 
-登録されている承認 13 件はすべて失効・取消済みです。上記は主要な 5 件のみを記載しています。
+登録されている承認 13 件はすべて有効です。上記は主要な 5 件のみを記載しています。
 
 ## 安全性に関する考慮事項
 
 - **薬物相互作用**：相互作用データは 100 件あります。主なものは次のとおりです。
   - 重大（Major）：ボツリヌス抗毒素免疫グロブリン、シドホビル
   - 中等度（Moderate）：NSAIDs（ケトロラク、イブプロフェン、セレコキシブ、ブロムフェナク）、アシクロビル、アミノグリコシド（アミカシン）、アムホテリシン B 製剤、アザチオプリン、シスプラチン、バシトラシン、カプレオマイシン、スルホニル尿素系薬（クロルプロパミド、アセトヘキサミド）。腎毒性や血液毒性の増強が懸念されるものが目立ちます。
-- **知識グラフ上の禁忌関連疾患**：腎疾患、間質性腎炎、肝疾患、胆嚢疾患、好中球減少症、無顆粒球症、貧血（大球性貧血を含む）、幽門狭窄などが挙がっています。これは添付文書の記載ではなく、知識グラフ上の関連情報です。
+- **知識グラフ上の禁忌関連疾患**：腎疾患、間質性腎炎、肝疾患、胆嚢疾患、好中球減少症、無顆粒球症、貧血（大球性貧血を含む）、幽門狭窄などが挙がっています。
 
 警告・禁忌の正式な内容は添付文書で確認してください。
 

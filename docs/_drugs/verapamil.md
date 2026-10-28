@@ -4,17 +4,17 @@ title: Verapamil
 parent: モデル予測のみ
 nav_order: 334
 evidence_level: L5
-indication_count: 10
+indication_count: 6
 last_modified_at: 2026-10-17
-description: "Verapamil：予測新適応症は閉塞性脚ブロック (obsolete bundle branch block)（エビデンスレベル L5）。既存適応症：抗不整脈薬、血管拡張薬、カルシウムチャネル遮断薬（心房細動、狭心症、心筋梗塞）"
 monitor_inn: "Verapamil"
-predicted_indications: ["obsolete bundle branch block", "malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "periodic paralysis with transient compartment-like syndrome", "obsolete susceptibility to ischemic stroke", "arrhythmogenic right ventricular cardiomyopathy", "brain stem infarction"]
+predicted_indications: ["obsolete bundle branch block", "malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "periodic paralysis with transient compartment-like syndrome"]
+description: "Verapamil：予測新適応症は閉塞性脚ブロック (obsolete bundle branch block)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 
 # Verapamil
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **10** 件
+エビデンスレベル: **L5** | 予測適応症: **6** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["obsolete bundle branch block", "malignant hypertensive 
 
 </div>
 
-## ベラパミル：心房細動・狭心症・心筋梗塞から閉塞性脚ブロック（obsolete bundle branch block）へ
+## Verapamil: 閉塞性脚ブロック (obsolete bundle branch block)
 {: .text-alpha }
 
 ## 一言要約
@@ -46,12 +46,12 @@ TxGNN モデルは **閉塞性脚ブロック (obsolete bundle branch block)** �
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 抗不整脈薬、血管拡張薬、カルシウムチャネル遮断薬（心房細動、狭心症、心筋梗塞） |
+| 既存適応症 | 日本の承認情報に適応症の記載なし |
 | 予測新規適応症 | 閉塞性脚ブロック (obsolete bundle branch block) |
-| TxGNN 予測スコア | 99.62% |
+| TxGNN 予測スコア | 0.9962 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 取消済みのみ（現在有効な承認なし） |
-| 承認番号数 | 10 件（すべて取消） |
+| 日本市販状況 | 販売中（有効な承認 10 件／全 10 件） |
+| 承認番号数 | 10 件（有効 10 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -64,15 +64,11 @@ TxGNN モデルは **閉塞性脚ブロック (obsolete bundle branch block)** �
 
 | 予測疾患 | スコア | エビデンスレベル | 所見 |
 |------|------|------|------|
-| 悪性高血圧性腎疾患 | 99.27% | L5 | 降圧作用による腎血管保護は理論上あり得るが、エビデンスなし |
-| 悪性腎血管性高血圧 | 99.27% | L5 | 文献 2 編あるが、ベラパミルの評価ではない |
-| 原因不明の多因子性肺高血圧症 | 99.26% | L5 | 肺動脈平滑筋の弛緩は理論上あり得るが、エビデンスなし |
-| 肺疾患・低酸素に伴う肺高血圧症 | 99.26% | L4 | 血管・低酸素の前臨床研究あり。右心不全悪化のリスクに注意 |
-| Braddock 症候群 | 99.15% | L5 | 機序的関連を確立できず |
-| 一過性コンパートメント様症候群を伴う周期性麻痺 | 99.08% | L5 | 支持エビデンスなし |
-| 虚血性脳卒中感受性（obsolete） | 98.74% | L5 | 支持エビデンスなし |
-| 不整脈原性右室心筋症 | 98.40% | L4 | ベラパミル感受性心室頻拍の症例報告・総説あり。ARVC は瘢痕関連リエントリーが主で間接的 |
-| 脳幹梗塞 | 97.73% | L5 | 文献は梗塞後頭痛の症例報告のみ |
+| 悪性高血圧性腎疾患 | 0.9927 | L5 | 降圧作用による腎血管保護は理論上あり得るが、エビデンスなし |
+| 原因不明の多因子性肺高血圧症 | 0.9926 | L5 | 肺動脈平滑筋の弛緩は理論上あり得るが、エビデンスなし |
+| 肺疾患・低酸素に伴う肺高血圧症 | 0.9926 | L5 | 血管・低酸素の前臨床研究あり。右心不全悪化のリスクに注意 |
+| Braddock 症候群 | 0.9915 | L5 | 機序的関連を確立できず |
+| 一過性コンパートメント様症候群を伴う周期性麻痺 | 0.9908 | L5 | 支持エビデンスなし |
 
 ## 臨床試験エビデンス
 
@@ -124,7 +120,7 @@ TxGNN モデルは **閉塞性脚ブロック (obsolete bundle branch block)** �
 
 ## 安全性に関する考慮事項
 
-- **禁忌（知識グラフ上の関連疾患。添付文書の記載ではありません）**：房室ブロック、心不全、大動脈弁狭窄、肥大型心筋症、低血圧性疾患、心室頻拍、腎疾患、肝疾患、好中球減少、無顆粒球症、重症筋無力症、血管性浮腫など。特に**房室ブロックや伝導障害のある患者**は、予測 1 位の脚ブロックと関連し、悪化の懸念があります。
+- **禁忌（モデルが学習した関連疾患に基づくもので、添付文書の記載ではありません）**：房室ブロック、心不全、大動脈弁狭窄、肥大型心筋症、低血圧性疾患、心室頻拍、腎疾患、肝疾患、好中球減少、無顆粒球症、重症筋無力症、血管性浮腫など。特に**房室ブロックや伝導障害のある患者**は、予測 1 位の脚ブロックと関連し、悪化の懸念があります。
 - **薬物相互作用**（計 100 件中、一部を抜粋）：
   - 重大 (Major)：ロペラミド
   - 中等度 (Moderate)：クラリスロマイシン、シメチジン、アプレピタント、ブプロピオン、メトホルミン、アスピリン、カナグリフロジン、ステロイド類（ヒドロコルチゾン、デキサメタゾン、ベタメタゾン、トリアムシノロン、ブデソニド）、カルシウム製剤

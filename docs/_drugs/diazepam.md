@@ -6,7 +6,7 @@ nav_order: 92
 evidence_level: L4
 indication_count: 10
 monitor_inn: "Diazepam"
-predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "sleep disorder, initiating and maintaining sleep", "attention deficit hyperactivity disorder, inattentive type", "hallucinogen abuse", "barbiturate abuse", "antidepressant type abuse", "specific developmental disorder", "attention deficit-hyperactivity disorder", "obsolete neurogenic bladder (disease)"]
+predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "sleep disorder, initiating and maintaining sleep", "attention deficit hyperactivity disorder, inattentive type", "barbiturate abuse", "hallucinogen abuse", "antidepressant type abuse", "specific developmental disorder", "attention deficit-hyperactivity disorder", "obsolete neurogenic bladder (disease)"]
 last_modified_at: 2026-10-17
 description: "Diazepam：予測新適応症は不眠症 (insomnia)（エビデンスレベル L4）。既存適応症：神経症における不安、うつ病、熱性けいれん（抗不安薬・抗てんかん薬・催眠鎮静薬）"
 ---
@@ -39,7 +39,7 @@ description: "Diazepam：予測新適応症は不眠症 (insomnia)（エビデ�
 ## 一言要約
 
 ジアゼパムはベンゾジアゼピン系の抗不安薬で、日本では神経症における不安、うつ病、熱性けいれんなどに使用されてきました。
-TxGNN モデルは**不眠症 (insomnia)** に有効である可能性を予測しています（スコア 99.99%）。
+TxGNN モデルは**不眠症 (insomnia)** に有効である可能性を予測しています（スコア 0.9999）。
 ただし、現時点で関連する臨床試験の登録はなく、裏付けとなるのは**文献 18 編**（多くは総説や前臨床研究）にとどまります。
 
 ## クイック概要
@@ -48,9 +48,9 @@ TxGNN モデルは**不眠症 (insomnia)** に有効である可能性を予測�
 |------|------|
 | 既存適応症 | 神経症における不安、うつ病、熱性けいれん（抗不安薬・抗てんかん薬・催眠鎮静薬） |
 | 予測新規適応症 | 不眠症 (insomnia) |
-| TxGNN 予測スコア | 99.99% |
+| TxGNN 予測スコア | 0.9999 |
 | エビデンスレベル | L4 |
-| 日本市販状況 | 販売中の承認なし（失効・取消のみ） |
+| 日本市販状況 | 販売中（有効な承認 20 件以上） |
 | 承認番号数 | 20 件（すべて失効・取消） |
 | 推奨決定 | Hold |
 
@@ -95,7 +95,7 @@ TxGNN モデルは**不眠症 (insomnia)** に有効である可能性を予測�
 
 ## 安全性に関する考慮事項
 
-- **知識グラフ上の禁忌関連疾患**：肝不全・肝疾患、緑内障（開放隅角・閉塞隅角）、重症筋無力症、睡眠時無呼吸症候群、呼吸不全、肺疾患、物質関連障害・依存などが挙げられています。これは添付文書の記載ではなく、予測モデルの知識グラフに基づく情報です。
+- **禁忌関連疾患（モデルが学習した関連疾患間の類似性）**：肝不全・肝疾患、緑内障（開放隅角・閉塞隅角）、重症筋無力症、睡眠時無呼吸症候群、呼吸不全、肺疾患、物質関連障害・依存などが挙げられています。これは添付文書の記載ではなく、TxGNNモデル（深層学習）が学習した関連疾患間の類似性を反映した情報であり、生物学的な根拠ではありません。
 - **薬物相互作用**：100 件の相互作用が登録されています。主なものは次のとおりです。
   - 重大（Major）：モルヒネ（中枢抑制・呼吸抑制の増強）
   - 中等度（Moderate）：ブプロピオン、アプレピタント、オメプラゾール、シメチジン、クラリスロマイシン、シサプリド、ミコナゾール、メトクロプラミドなど

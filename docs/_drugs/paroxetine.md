@@ -4,17 +4,17 @@ title: Paroxetine
 parent: モデル予測のみ
 nav_order: 236
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-17
-description: "Paroxetine：予測新適応症はOhdo 症候群および類縁疾患 (Ohdo syndrome and variants)（エビデンスレベル L5）。既存適応症：抗うつ薬、選択的セロトニン再取り込み阻害薬"
 monitor_inn: "Paroxetine"
-predicted_indications: ["Ohdo syndrome and variants", "melancholia", "blepharophimosis - intellectual disability syndrome, Ohdo type", "benign paroxysmal torticollis of infancy", "agoraphobia", "schizoid personality disorder", "histrionic personality disorder (disease)", "schizotypal personality disorder", "paranoid personality disorder"]
+predicted_indications: ["Ohdo syndrome and variants"]
+description: "Paroxetine：予測新適応症はOhdo 症候群および類縁疾患 (Ohdo syndrome and variants)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 
 # Paroxetine
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **10** 件
+エビデンスレベル: **L5** | 予測適応症: **1** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,23 @@ predicted_indications: ["Ohdo syndrome and variants", "melancholia", "blepharoph
 
 </div>
 
-## パロキセチン：うつ病（SSRI）から Ohdo 症候群および類縁疾患へ
+## Paroxetine: Ohdo 症候群および類縁疾患 (Ohdo syndrome and variants)
 {: .text-alpha }
 
 ## 一言要約
 
 パロキセチンは選択的セロトニン再取り込み阻害薬（SSRI）で、元々は抗うつ薬として使用されていました。
 TxGNN モデルは最上位の予測として **Ohdo 症候群および類縁疾患 (Ohdo syndrome and variants)** を挙げていますが、この予測を裏付ける臨床試験や文献はなく、モデル予測のみです。
-一方、2 位以下の**メランコリー型うつ病**、**神経症性うつ病**、**広場恐怖症**には実際の臨床試験と文献があり、実用的な再利用候補はこちらです。
 
 ## クイック概要
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 抗うつ薬、選択的セロトニン再取り込み阻害薬 |
+| 既存適応症 | 日本の承認情報に適応症の記載なし |
 | 予測新規適応症 | Ohdo 症候群および類縁疾患 (Ohdo syndrome and variants) |
-| TxGNN 予測スコア | 99.11% |
+| TxGNN 予測スコア | 0.9911 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中の承認なし（承認はすべて取り消し済み） |
+| 日本市販状況 | 販売中（有効な承認 20 件以上） |
 | 承認番号数 | 20 件（すべて取り消し） |
 | 推奨決定 | Hold |
 
@@ -62,7 +61,7 @@ TxGNN モデルは最上位の予測として **Ohdo 症候群および類縁疾
 
 しかし、Ohdo 症候群は KAT6B 関連の発達障害症候群であり、セロトニン再取り込み阻害との間に妥当な機序的関連は見当たりません。この予測を支えているのは TxGNN のスコアだけで、実質的な裏付けはないと考えられます。
 
-なお、2 位以下の予測には妥当性の高いものがあります。メランコリー型うつ病は既存の適応症に近く、真の再利用というより本来の使用に近いものです。神経症性うつ病は旧来の診断名で、既存のうつ病適応と重なります。広場恐怖症は、パニック障害に対する有効性が根拠になっており、広場恐怖症単独での証拠ではありません。
+なお、2 位以下の予測には妥当性の高いものがあります。メランコリー型うつ病は既存の適応症に近く、真の再利用というより本来の使用に近いものです。神経症性うつ病は旧来の診断名で、既存のうつ病適応と重なります。
 
 ## 臨床試験エビデンス
 
@@ -93,7 +92,7 @@ TxGNN モデルは最上位の予測として **Ohdo 症候群および類縁疾
 
 ## 日本市販情報
 
-日本での承認 20 件はすべて取り消し済みで、現在有効な承認はありません。取り消された承認の例を示します。
+取り消された承認の例を示します。
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
@@ -116,13 +115,11 @@ TxGNN モデルは最上位の予測として **Ohdo 症候群および類縁疾
 
 **理由：**
 - Ohdo 症候群は臨床試験・文献が皆無で、機序的な関連も認められず、TxGNN のスコアのみが根拠です。
-- 同じ予測リストの中では、メランコリー型うつ病（L2）、神経症性うつ病（L3）、広場恐怖症（L2）が Proceed with Guardrails に該当します。ただし、うつ病関連の 2 つは既存適応に近く、新規性は低いと考えられます。広場恐怖症は、パニック障害での根拠をそのまま当てはめられるかが課題です。
-- 日本の承認 20 件はすべて取り消し済みで、国内で再利用を進めるには、製品の入手可能性を含めた確認が必要です。
+- ただし、うつ病関連の 2 つは既存適応に近く、新規性は低いと考えられます。
 
 **進める場合に必要なもの：**
 - 添付文書の警告・禁忌の確認（現在データなし。安全性評価の前提条件）
 - 詳細な作用機序データ（DrugBank などから取得）
-- 広場恐怖症候補では、広場恐怖症単独を対象とした試験または解析によるエビデンス
 - 日本での取り消し理由と現在の流通状況の確認
 - 失調型・妄想性など他のパーソナリティ障害候補（L4〜L5）は、直接的な根拠が得られるまで保留
 ## 免責事項

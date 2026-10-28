@@ -4,17 +4,17 @@ title: Fentanyl
 parent: モデル予測のみ
 nav_order: 133
 evidence_level: L5
-indication_count: 10
+indication_count: 2
 monitor_inn: "Fentanyl"
-predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome", "trichotillomania", "myofascial pain syndrome", "manic bipolar affective disorder", "migraine with brainstem aura", "methemoglobinemia", "idiopathic granulomatous myositis", "myositis fibrosa", "tendinitis"]
+predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome"]
 last_modified_at: 2026-10-17
-description: "Fentanyl：予測新適応症は腎性抗利尿ホルモン不適切分泌症候群 (Nephrogenic Syndrome of Inappropriate Antidiuresis)（エビデンスレベル L5）。既存適応症：麻薬性鎮痛薬、オピオイド受容体作動薬"
+description: "Fentanyl：予測新適応症は腎性抗利尿ホルモン不適切分泌症候群 (nephrogenic syndrome of inappropriate antidiuresis)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 
 # Fentanyl
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **10** 件
+エビデンスレベル: **L5** | 予測適応症: **2** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ description: "Fentanyl：予測新適応症は腎性抗利尿ホルモン不適�
 
 </div>
 
-## フェンタニル：麻薬性鎮痛薬から腎性抗利尿ホルモン不適切分泌症候群へ
+## Fentanyl: 腎性抗利尿ホルモン不適切分泌症候群 (nephrogenic syndrome of inappropriate antidiuresis)
 {: .text-alpha }
 
 ## 一言要約
@@ -45,11 +45,11 @@ TxGNN モデルは**腎性抗利尿ホルモン不適切分泌症候群 (Nephrog
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 麻薬性鎮痛薬、オピオイド受容体作動薬 |
-| 予測新規適応症 | 腎性抗利尿ホルモン不適切分泌症候群 (Nephrogenic Syndrome of Inappropriate Antidiuresis) |
-| TxGNN 予測スコア | 99.46% |
+| 既存適応症 | 日本の承認情報に適応症の記載なし |
+| 予測新規適応症 | 腎性抗利尿ホルモン不適切分泌症候群 (nephrogenic syndrome of inappropriate antidiuresis) |
+| TxGNN 予測スコア | 0.9946 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 承認は取り消し済みのみ（有効な承認なし） |
+| 日本市販状況 | 販売中（有効な承認 20 件以上） |
 | 承認番号数 | 20 件（すべて取り消し） |
 | 推奨決定 | Hold |
 
@@ -59,7 +59,7 @@ TxGNN モデルは**腎性抗利尿ホルモン不適切分泌症候群 (Nephrog
 
 この予測は、機序面からは**妥当とは言い難い**と判断します。この疾患は、バソプレシン V2 受容体の機能獲得型変異によって起こります。フェンタニルにはこの受容体の異常を是正する機序が知られていません。むしろオピオイドは抗利尿ホルモンの放出を促す可能性があるため、病態を悪化させる方向に働くおそれもあります。
 
-TxGNN のスコアは高いものの、知識グラフ上の関連性に基づく計算結果です。鎮痛薬という既存適応症との臨床的なつながりも確認できません。
+このスコアは TxGNN モデル（ディープラーニング）によるもので、関連する疾患間でモデルが学習した類似性を反映している可能性があります。生物学的な根拠ではありません。
 
 ## 臨床試験エビデンス
 
@@ -71,7 +71,7 @@ TxGNN のスコアは高いものの、知識グラフ上の関連性に基づ�
 
 ## 日本市販情報
 
-日本では、フェンタニル製剤の承認 20 件がすべて取り消し済みです。有効な承認は単剤・配合剤とも 0 件です。適応症が記載されている主な承認は以下のとおりです。
+日本では販売されており、有効な承認が 20 件あります。適応症が記載されている主な承認は以下のとおりです。
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
@@ -106,7 +106,7 @@ TxGNN のスコアは高いものの、知識グラフ上の関連性に基づ�
 - 添付文書の警告・禁忌情報の取得
 - 詳細な作用機序データ（MOA）の補充
 - V2 受容体異常に対するフェンタニルの作用を検証する前臨床的な機序研究
-- 同一薬物の他の予測候補の検討。たとえば筋筋膜性疼痛症候群は、慢性非がん性疼痛の突出痛に対する Phase 3 試験（NCT00343733、完了、120 名）が関連づけられており、鎮痛薬という既存適応症にも近い候補です。ただし、試験と本疾患との適合は未検証で、長期オピオイド使用の依存・過量投与リスクも考慮が必要です。
+- 同一薬物の他の予測候補の検討。ただし、試験と本疾患との適合は未検証で、長期オピオイド使用の依存・過量投与リスクも考慮が必要です。
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

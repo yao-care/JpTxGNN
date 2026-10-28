@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Tolvaptan
-parent: 高エビデンスレベル
+parent: モデル予測のみ
 nav_order: 314
-evidence_level: L2
-indication_count: 10
+evidence_level: L5
+indication_count: 9
 last_modified_at: 2026-10-17
-description: "Tolvaptan：予測新適応症は多発性嚢胞腎 3 型（多発性嚢胞肝を伴う場合を含む）（エビデンスレベル L2）。既存適応症：利尿薬、バソプレシン V2 受容体拮抗薬（抗利尿ホルモン不適合分泌症候群）"
 monitor_inn: "tolvaptan"
 predicted_indications: ["renal-hepatic-pancreatic dysplasia", "karyomegalic interstitial nephritis", "thoracic malformation", "Joubert syndrome with renal defect", "adult familial nephronophthisis-spastic quadriparesia syndrome", "Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature"]
+description: "Tolvaptan：予測新適応症はRenal-hepatic-pancreatic dysplasia（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 
 # Tolvaptan
 {: .fs-9 }
 
-エビデンスレベル: **L2** | 予測適応症: **10** 件
+エビデンスレベル: **L5** | 予測適応症: **9** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["renal-hepatic-pancreatic dysplasia", "karyomegalic inte
 
 </div>
 
-## トルバプタン：抗利尿ホルモン不適合分泌症候群から多発性嚢胞腎（PKD3型）へ
+## Tolvaptan: Renal-hepatic-pancreatic dysplasia
 {: .text-alpha }
 
 ## 一言要約
@@ -45,11 +45,11 @@ TxGNN モデルは**多発性嚢胞腎 3 型（多発性嚢胞肝を伴う場合
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 利尿薬、バソプレシン V2 受容体拮抗薬（抗利尿ホルモン不適合分泌症候群） |
-| 予測新規適応症 | 多発性嚢胞腎 3 型（多発性嚢胞肝を伴う場合を含む） |
-| TxGNN 予測スコア | 99.99% |
-| エビデンスレベル | L2 |
-| 日本市販状況 | 市販中の承認なし（20 件すべて承認整理済み） |
+| 既存適応症 | 日本の承認情報に適応症の記載なし |
+| 予測新規適応症 | Renal-hepatic-pancreatic dysplasia |
+| TxGNN 予測スコア | 0.9998 |
+| エビデンスレベル | L5 |
+| 日本市販状況 | 販売中（有効な承認 20 件以上） |
 | 承認番号数 | 20 件（有効 0 件、整理済み 20 件） |
 | 推奨決定 | Proceed with Guardrails |
 
@@ -78,7 +78,7 @@ TxGNN モデルは**多発性嚢胞腎 3 型（多発性嚢胞肝を伴う場合
 
 ## 日本市販情報
 
-日本の承認 20 件はすべて承認整理済み（取り消し）で、現在有効な承認はありません。主な承認は以下のとおりです。
+主な承認は以下のとおりです。
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
@@ -110,7 +110,6 @@ ADPKD に対しては大規模な第 3 相 RCT があり、トルバプタンの
 - 詳細な作用機序データ（DrugBank からの取得）
 - PKD3 型（GANAB 関連）患者での有効性を示す、またはサブグループ解析可能なデータ
 - 肝機能の定期モニタリング計画と、併用禁忌・注意薬（特にクラリスロマイシンなど CYP3A 阻害薬）の管理方針
-- 日本での承認状況の再確認（現在は有効な承認なし）
 
 ## 補足：その他の予測適応症
 

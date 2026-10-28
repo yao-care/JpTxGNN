@@ -4,17 +4,17 @@ title: Salmeterol
 parent: 高エビデンスレベル
 nav_order: 276
 evidence_level: L1
-indication_count: 7
+indication_count: 5
 last_modified_at: 2026-10-17
-description: "Salmeterol：予測新適応症は気管支炎 (Bronchitis)（エビデンスレベル L1）。既存適応症：肺気腫、内因性喘息、アレルギー性喘息（承認文書の適応症テキストは今回のデータにありません）"
 monitor_inn: "Salmeterol"
 predicted_indications: ["bronchitis", "respiratory malformation", "obstructive lung disease", "Rienhoff syndrome", "atopic eczema"]
+description: "Salmeterol：予測新適応症は気管支炎 (bronchitis)（エビデンスレベル L1）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 
 # Salmeterol
 {: .fs-9 }
 
-エビデンスレベル: **L1** | 予測適応症: **7** 件
+エビデンスレベル: **L1** | 予測適応症: **5** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["bronchitis", "respiratory malformation", "obstructive l
 
 </div>
 
-## サルメテロール：肺気腫・喘息から気管支炎へ
+## Salmeterol: 気管支炎 (bronchitis)
 {: .text-alpha }
 
 ## 一言要約
@@ -46,12 +46,12 @@ TxGNN モデルは**気管支炎 (Bronchitis)** に有効である可能性を�
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 肺気腫、内因性喘息、アレルギー性喘息（承認文書の適応症テキストは今回のデータにありません） |
-| 予測新規適応症 | 気管支炎 (Bronchitis) |
-| TxGNN 予測スコア | 99.92% |
+| 既存適応症 | 日本の承認情報に適応症の記載なし |
+| 予測新規適応症 | 気管支炎 (bronchitis) |
+| TxGNN 予測スコア | 0.9992 |
 | エビデンスレベル | L1 |
-| 日本市販状況 | 販売終了のみ（取消済み 1 件） |
-| 承認番号数 | 1 件 |
+| 日本市販状況 | 販売中（有効な承認 1 件／全 1 件） |
+| 承認番号数 | 1 件（有効 1 件） |
 | 推奨決定 | Proceed with Guardrails |
 
 ## この予測が妥当である理由
@@ -95,7 +95,7 @@ TxGNN モデルは**気管支炎 (Bronchitis)** に有効である可能性を�
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
-| 620001944 | セレベント５０ディスカス　５０μｇ６０ブリスター | 記載なし | 記載なし（取消済み） |
+| 620001944 | セレベント５０ディスカス　５０μｇ６０ブリスター | 記載なし | 記載なし（有効） |
 
 ## 安全性に関する考慮事項
 

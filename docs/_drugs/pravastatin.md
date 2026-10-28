@@ -4,17 +4,17 @@ title: Pravastatin
 parent: 中エビデンスレベル
 nav_order: 252
 evidence_level: L3
-indication_count: 10
+indication_count: 6
 last_modified_at: 2026-10-17
-description: "Pravastatin：予測新適応症はホモ接合体家族性高コレステロール血症 (homozygous familial hypercholesterolemia)（エビデンスレベル L3）。既存適応症：高脂血症、家族性高コレステロール血症"
 monitor_inn: "Pravastatin"
-predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "hypoalphalipoproteinemia", "cholesterol-ester transfer protein deficiency"]
+predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "hypoalphalipoproteinemia", "cholesterol-ester transfer protein deficiency"]
+description: "Pravastatin：予測新適応症はHIV infectious disease（エビデンスレベル L3）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 
 # Pravastatin
 {: .fs-9 }
 
-エビデンスレベル: **L3** | 予測適応症: **10** 件
+エビデンスレベル: **L3** | 予測適応症: **6** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,24 +33,23 @@ predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder w
 
 </div>
 
-## プラバスタチン：脂質異常症から家族性高コレステロール血症（ホモ接合体型）へ
+## Pravastatin: HIV infectious disease
 {: .text-alpha }
 
 ## 一言要約
 
 プラバスタチンは HMG-CoA 還元酵素阻害薬（スタチン）で、元々高脂血症および家族性高コレステロール血症の治療に使われていました。
-TxGNN モデルは**ホモ接合体家族性高コレステロール血症 (homozygous familial hypercholesterolemia)** に有効である可能性を予測しています。
 この疾患そのものに対するプラバスタチンの直接的な試験はなく、関連する臨床試験 1 件（別薬の試験）と文献 13 編がありますが、エビデンスは間接的です。
 
 ## クイック概要
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 高脂血症、家族性高コレステロール血症 |
-| 予測新規適応症 | ホモ接合体家族性高コレステロール血症 (homozygous familial hypercholesterolemia) |
-| TxGNN 予測スコア | 99.95% |
+| 既存適応症 | 日本の承認情報に適応症の記載なし |
+| 予測新規適応症 | HIV infectious disease |
+| TxGNN 予測スコア | 0.9974 |
 | エビデンスレベル | L3 |
-| 日本市販状況 | 現在市販中の承認なし（失効・取消のみ） |
+| 日本市販状況 | 販売中（有効な承認 20 件以上） |
 | 承認番号数 | 20 件（すべて取消済み） |
 | 推奨決定 | Proceed with Guardrails |
 
@@ -58,7 +57,7 @@ TxGNN モデルは**ホモ接合体家族性高コレステロール血症 (homo
 
 現在、詳細な作用機序データはありません。ただし、プラバスタチンは HMG-CoA 還元酵素を競合的に阻害するスタチンとして知られています。肝臓でのコレステロール合成を抑え、肝 LDL 受容体の発現を高めて LDL コレステロールを下げます。
 
-既存適応症の家族性高コレステロール血症と、予測された新規適応症のホモ接合体型は同じ疾患群に属します。一方で、ホモ接合体型では LDL 受容体の残存活性が必要なため、効果は限定的・間接的にとどまると考えられます。
+一方で、ホモ接合体型では LDL 受容体の残存活性が必要なため、効果は限定的・間接的にとどまると考えられます。
 
 この点は予測の弱点です。小児の家族性高コレステロール血症に対するスタチンの有効性は Cochrane レビューなどで示されていますが、多くはヘテロ接合体型を対象としています。
 

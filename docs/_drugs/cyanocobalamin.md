@@ -4,9 +4,9 @@ title: Cyanocobalamin
 parent: モデル予測のみ
 nav_order: 82
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 monitor_inn: "Cyanocobalamin"
-predicted_indications: ["biotin metabolic disease", "inborn error of biotin metabolism", "non-syndromic esophageal malformation", "inflammatory myopathy with abundant macrophages", "idiopathic eosinophilic myositis", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "proteinuria", "focal myositis", "primary CD59 deficiency"]
+predicted_indications: ["biotin metabolic disease"]
 last_modified_at: 2026-10-17
 description: "Cyanocobalamin：予測新適応症はビオチン代謝疾患 (biotin metabolic disease)（エビデンスレベル L5）。既存適応症：貧血治療薬、造血薬、ビタミンB12補充薬（甲状腺機能亢進症、広節裂頭条虫症に関連）"
 ---
@@ -14,7 +14,7 @@ description: "Cyanocobalamin：予測新適応症はビオチン代謝疾患 (bi
 # Cyanocobalamin
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **10** 件
+エビデンスレベル: **L5** | 予測適応症: **1** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,17 +47,17 @@ TxGNN モデルは**ビオチン代謝疾患 (biotin metabolic disease)** に有
 |------|------|
 | 既存適応症 | 貧血治療薬、造血薬、ビタミンB12補充薬（甲状腺機能亢進症、広節裂頭条虫症に関連） |
 | 予測新規適応症 | ビオチン代謝疾患 (biotin metabolic disease) |
-| TxGNN 予測スコア | 99.60% |
+| TxGNN 予測スコア | 0.9960 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 取消のみ（現在有効な承認なし） |
-| 承認番号数 | 12 件（すべて取消） |
+| 日本市販状況 | 販売中（有効な承認 12 件／全 12 件） |
+| 承認番号数 | 12 件（有効 12 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
 
 現在、詳細な作用機序データはありません。既知の情報では、シアノコバラミンはメチルマロニルCoAムターゼとメチオニン合成酵素の補酵素（コバラミン）として働きます。一方、ビオチンはカルボキシラーゼ類の補酵素です。
 
-両者はビタミン代謝やプロピオン酸・一炭素代謝を通じて緩やかに関連するのみです。直接的な臨床的裏付けはありません。この予測は、知識グラフ上でビタミン代謝の近傍にあることを反映している可能性が高く、機序的な妥当性は限定的です。
+両者はビタミン代謝やプロピオン酸・一炭素代謝を通じて緩やかに関連するのみです。直接的な臨床的裏付けはありません。このスコアは TxGNN モデル(深層学習)によるもので、関連する疾患間でモデルが学習した類似性を反映している可能性があり、生物学的な根拠を示すものではありません。
 
 なお、他の上位予測（ビオチン代謝先天異常、食道奇形、各種炎症性筋疾患、CD59欠損症など）も、機序上の根拠が乏しいか、モデルの副産物と考えられます。ビオチン代謝先天異常（ビオチニダーゼ欠損症、ホロカルボキシラーゼ合成酵素欠損症）の治療はビオチン補充であり、コバラミンの役割は確立していません。
 
@@ -73,7 +73,7 @@ TxGNN モデルは**ビオチン代謝疾患 (biotin metabolic disease)** に有
 
 ## 日本市販情報
 
-現在有効な承認はなく、承認 12 件はすべて取消済みです。主な取消済み承認は以下のとおりです。
+国内で販売されており、承認 12 件のうち 12 件が有効です。主な承認は以下のとおりです。
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|

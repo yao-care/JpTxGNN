@@ -4,9 +4,9 @@ title: Sennosides
 parent: モデル予測のみ
 nav_order: 278
 evidence_level: L5
-indication_count: 10
+indication_count: 6
 monitor_inn: "Sennosides"
-predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "open-angle glaucoma", "primary hereditary glaucoma", "alopecia", "glaucoma 1, open angle", "open angle glaucoma", "esophageal varices with bleeding", "esophageal varices without bleeding"]
+predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "open-angle glaucoma", "primary hereditary glaucoma", "alopecia"]
 last_modified_at: 2026-10-17
 description: "Sennosides：予測新適応症は頭皮の単純性乏毛症 (hypotrichosis simplex of the scalp)（エビデンスレベル L5）。既存適応症：下剤"
 ---
@@ -14,7 +14,7 @@ description: "Sennosides：予測新適応症は頭皮の単純性乏毛症 (hyp
 # Sennosides
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **10** 件
+エビデンスレベル: **L5** | 予測適応症: **6** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ TxGNN モデルは**頭皮の単純性乏毛症 (hypotrichosis simplex of the sc
 |------|------|
 | 既存適応症 | 下剤 |
 | 予測新規適応症 | 頭皮の単純性乏毛症 (hypotrichosis simplex of the scalp) |
-| TxGNN 予測スコア | 99.29% |
+| TxGNN 予測スコア | 0.9929 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中の承認なし（承認整理・取消済みのみ） |
-| 承認番号数 | 15 件（すべて取消済み） |
+| 日本市販状況 | 販売中（有効な承認 15 件／全 15 件） |
+| 承認番号数 | 15 件（有効 15 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -66,13 +66,13 @@ TxGNN モデルは**頭皮の単純性乏毛症 (hypotrichosis simplex of the sc
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
-| 620480708 | センノシド錠１２ｍｇ「ＮＩＧ」 | 錠 | 下剤（取消済み） |
-| 620480504 | センノシド錠１２ｍｇ「ＹＤ」 | 錠 | 下剤（取消済み） |
-| 620480205 | センノシド錠１２ｍｇ「セイコー」 | 錠 | 下剤（取消済み） |
-| 620481301 | プルゼニド錠１２ｍｇ | 錠 | 下剤（取消済み） |
-| 620480601 | センノシド錠１２ｍｇ「サワイ」 | 錠 | 下剤（取消済み） |
+| 620480708 | センノシド錠１２ｍｇ「ＮＩＧ」 | 錠 | 下剤（有効） |
+| 620480504 | センノシド錠１２ｍｇ「ＹＤ」 | 錠 | 下剤（有効） |
+| 620480205 | センノシド錠１２ｍｇ「セイコー」 | 錠 | 下剤（有効） |
+| 620481301 | プルゼニド錠１２ｍｇ | 錠 | 下剤（有効） |
+| 620480601 | センノシド錠１２ｍｇ「サワイ」 | 錠 | 下剤（有効） |
 
-全 15 件はすべて単剤で、現在有効な承認はありません。上記は主要な 5 件のみを記載しています。
+全 15 件はすべて単剤で、15 件すべてが現在有効な承認です。上記は主要な 5 件のみを記載しています。
 
 ## 安全性に関する考慮事項
 

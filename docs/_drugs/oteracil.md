@@ -1,20 +1,19 @@
 ---
 layout: default
 title: Oteracil
-parent: 高エビデンス (L1-L2)
-nav_order: 117
-evidence_level: L2
-indication_count: 1
-last_modified_at: 2026-09-17
-description: "Oteracil：予測新適応症は大腸腫瘍 (Colonic Neoplasm)（エビデンスレベル L2）。既存適応症：日本の承認適応症は本サイトのデータに未収載"
----
-
+parent: 既知の用途のみ（新規予測なし）
+nav_order: 258
+last_modified_at: 2026-10-23
+description: "Oteracil: 日本における既知の用途と市場状況。現時点で新たな候補適応症はありません"
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Oteracil
 {: .fs-9 }
 
-エビデンスレベル: **L2** | 予測適応症: **1** 件
+エビデンスレベル: **N/A** | 予測適応症: **0** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,91 +32,48 @@ description: "Oteracil：予測新適応症は大腸腫瘍 (Colonic Neoplasm)（
 
 </div>
 
-## Oteracil：胃癌から大腸腫瘍へ
+<!-- known-uses-page -->
+<!-- description: Oteracil: 日本における既知の用途と市場状況。現時点で新たな候補適応症はなし -->
+## Oteracil
 {: .text-alpha }
 
-## 一言まとめ
-
-Oteracil（オテラシルカリウム） は S-1 配合剤の成分の一つで、もともと胃癌の治療に用いられています。
-TxGNN モデルは、本剤が**大腸腫瘍 (Colonic Neoplasm)** に有効な可能性があると予測しており、
-現在 **7 件の臨床試験**と **10 件の文献**がこの方向性を支持しています。
-
 ## 概要
+TxGNNモデルでは、Oteracil(オテラシル)についてスコア0.99以上の候補が得られなかったため、現時点で新たな予測適応症はありません。以下に、この薬剤に記録されている既知の用途を掲載します。
 
+## 早見表
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 日本の承認適応症は本サイトのデータに未収載（知識グラフ上の適応症：gastric cancer、gastric neoplasm、diffuse gastric adenocarcinoma、gastric linitis plastica、gastric carcinoma） |
-| 予測新適応症 | 大腸腫瘍 (Colonic Neoplasm) |
-| TxGNN 予測スコア | 99.99% |
-| エビデンスレベル | L2 |
-| 日本市販状況 | 本サイトのデータに未収載 |
-| 承認番号数 | — |
-| 推奨判断 | Proceed with Guardrails |
+| 日本市販状況 | 国内未承認（承認記録なし） |
+| 承認番号数 | 0 件（有効 0 件） |
+| この薬剤に記録されている既知の用途 | 6 |
 
-## この予測が妥当な理由
+## この薬剤に記録されている既知の用途
 
-現時点では、詳細な作用機序に関するデータは不足しています。既知の情報によると、Oteracil は S-1 配合剤の一部であり、その成分は胃癌での有効性が確認されており、作用機序の面から大腸腫瘍にも適用できる可能性があります。S-1 に含まれる tegafur は 5-FU のプロドラッグで、急速に分裂する癌細胞における DNA 合成を阻害することが知られており、大腸腫瘍でも有効である可能性があります。
-
-## 臨床試験エビデンス
-
-| 試験番号 | フェーズ | 状況 | 症例数 | 主な知見 |
-|---------|------|------|------|---------|
-| [NCT00524706](https://clinicaltrials.gov/study/NCT00524706) | Phase 1/2 | 不明 | 42 | S-1 とオキサリプラチンの併用療法は、未治療の転移性大腸癌に対して良好な活性と許容可能な毒性を示した。 |
-| [NCT02618356](https://clinicaltrials.gov/study/NCT02618356) | Phase 2 | 不明 | 82 | 転移性大腸癌患者における無増悪生存期間中央値 (mPFS) を評価する。 |
-| [NCT00974389](https://clinicaltrials.gov/study/NCT00974389) | Phase 2 | 不明 | 40 | 切除不能または再発大腸癌に対する S-1 とベバシズマブの併用。 |
-| [NCT01918852](https://clinicaltrials.gov/study/NCT01918852) | Phase 3 | 完了 | 161 | 転移性大腸癌患者における S-1 とカペシタビンの効果を比較。 |
-| [NCT03448549](https://clinicaltrials.gov/study/NCT03448549) | Phase 3 | 不明 | 1191 | ステージ III 大腸癌患者の術後補助化学療法として S-1 とカペシタビンを比較。 |
-| [NCT06255379](https://clinicaltrials.gov/study/NCT06255379) | Phase 2 | 募集開始前 | 52 | 進行・転移性結腸直腸癌の三次治療としての Fuquinitinib と S-1 の併用。 |
-| [NCT00660894](https://clinicaltrials.gov/study/NCT00660894) | Phase 3 | 完了 | 1535 | ステージ III 結腸癌患者における S-1 とその他の治療の効果を比較。 |
-
-## 文献エビデンス
-
-| PMID | 発表年 | 種別 | 雑誌 | 主な知見 |
-|------|-----|------|------|---------|
-| [31917122](https://pubmed.ncbi.nlm.nih.gov/31917122/) | 2020 | RCT | Clin Colorectal Cancer | 高リスクのステージ III 結腸癌患者の術後補助化学療法としての S-1 とオキサリプラチンの有効性は確立されていない。 |
-| [25209093](https://pubmed.ncbi.nlm.nih.gov/25209093/) | 2014 | Review | Clin Colorectal Cancer | アジアにおける転移性結腸直腸癌の治療ガイドライン。 |
-| [20500514](https://pubmed.ncbi.nlm.nih.gov/20500514/) | 2010 | Animal | Cancer Science | 新たなリンパ節転移モデルを開発し、S-1 と UFT/LV の抗転移効果を比較した。 |
-| [26805106](https://pubmed.ncbi.nlm.nih.gov/26805106/) | 2015 | Case report | Gan to Kagaku Ryoho | 結腸癌の転移および再発の治療に成功した症例報告。 |
-| [26036466](https://pubmed.ncbi.nlm.nih.gov/26036466/) | 2015 | RCT | BMC Cancer | ACTS-CC 試験により、ステージ III 結腸直腸癌の術後補助化学療法における S-1 の非劣性が確認された。 |
-
-## 日本市販情報
-
-日本の承認情報は本サイトのデータに未収載です。
-
-## 細胞毒性
-
-| 項目 | 内容 |
+### 承認済み(承認または添付文書で裏付けあり)
+| 適応症 | 出典 |
 |------|------|
-| 細胞毒性分類 | 従来型の細胞毒性薬（フルオロピリミジン系） |
-| 骨髄抑制リスク | 中等度 |
-| 催吐性分類 | 低〜中等度 |
-| モニタリング項目 | CBC（分画含む）、肝腎機能、電解質 |
-| 取り扱い時の防護 | 細胞毒性薬の取り扱い基準に従って取り扱う必要あり |
+| 胃腫瘍 (stomach neoplasms) | 他国での承認 |
 
-## 安全性に関する考慮事項
+### 承認済み適応症に関連(同一疾患カテゴリ)
+| 適応症 | 承認カテゴリ |
+|------|------|
+| 該当なし | 該当なし |
 
-安全性情報は添付文書をご参照ください。
+### ナレッジグラフに記録された関係(承認は確認されていない)
+| 適応症 |
+|------|
+| びまん性胃腺癌 (diffuse gastric adenocarcinoma) |
+| 胃癌 (gastric cancer) |
+| 胃癌腫 (gastric carcinoma) |
+| スキルス胃癌 (gastric linitis plastica) |
+| 胃腫瘍 (gastric neoplasm) |
 
-## 結論と次のステップ
+## 免責事項
 
-**判断：Proceed with Guardrails**
-
-**理由：**
-複数の Phase 2/3 臨床試験が結腸直腸癌に対する S-1 の有効性を支持しており、S-1 配合剤（ティーエスワン）は日本で結腸・直腸癌の効能・効果を承認されており、結腸直腸癌は新たな予測ではなく既に承認された用途である。
-
-**推進に必要な事項：**
-- 詳細な薬剤の作用機序（MOA）データ
-- 特定の集団における安全性モニタリング計画
+本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。
+臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-<div class="disclaimer" style="background-color: #fff3cd; padding: 1rem; border-radius: 0.5rem; margin-top: 2rem;">
-<strong>⚠️ 免責事項</strong><br>
-本レポートは学術研究目的のみであり、<strong>医療アドバイスを構成するものではありません</strong>。
-薬の使用は必ず医師の指示に従ってください。自己判断で投薬を変更しないでください。
-ドラッグ・リポジショニングの決定には、完全な臨床検証と規制審査が必要です。
-</div>
 
 <!-- brand-names:start -->
 ## 日本での販売名

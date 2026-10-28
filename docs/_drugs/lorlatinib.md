@@ -4,7 +4,7 @@ title: Lorlatinib
 parent: モデル予測のみ
 nav_order: 194
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-17
 description: "Lorlatinib：予測新適応症は遺伝性歯肉線維腫症 (fibromatosis, gingival)（エビデンスレベル L5）。既存適応症：非小細胞肺癌（ALK 陽性）"
 monitor_inn: "Lorlatinib"
@@ -14,7 +14,7 @@ predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma 
 # Lorlatinib
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **10** 件
+エビデンスレベル: **L5** | 予測適応症: **9** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ TxGNN モデルは**遺伝性歯肉線維腫症 (fibromatosis, gingival)** に�
 |------|------|
 | 既存適応症 | 非小細胞肺癌（ALK 陽性） |
 | 予測新規適応症 | 遺伝性歯肉線維腫症 (fibromatosis, gingival) |
-| TxGNN 予測スコア | 99.81% |
+| TxGNN 予測スコア | 0.9981 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 承認は失効（市販中の承認なし） |
-| 承認番号数 | 2 件（いずれも失効） |
+| 日本市販状況 | 販売中（有効な承認 2 件／全 2 件） |
+| 承認番号数 | 2 件（有効 2 件） |
 | 推奨決定 | Hold |
 
 注：日本の承認情報には適応症の記載がないため、既存適応症は薬物の既知の用途（ALK 陽性非小細胞肺癌）から記載しています。
@@ -76,8 +76,8 @@ TxGNN モデルは**遺伝性歯肉線維腫症 (fibromatosis, gingival)** に�
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
-| 622653201 | ローブレナ錠25mg | 錠25mg（経口） | 記載なし（失効） |
-| 622653301 | ローブレナ錠100mg | 錠100mg（経口） | 記載なし（失効） |
+| 622653201 | ローブレナ錠25mg | 錠25mg（経口） | 記載なし（有効） |
+| 622653301 | ローブレナ錠100mg | 錠100mg（経口） | 記載なし（有効） |
 
 ## 細胞毒性
 

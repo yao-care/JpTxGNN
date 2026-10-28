@@ -4,17 +4,17 @@ title: Pazopanib
 parent: 高エビデンスレベル
 nav_order: 237
 evidence_level: L2
-indication_count: 10
+indication_count: 6
 last_modified_at: 2026-10-17
-description: "Pazopanib：予測新適応症は未分類腎細胞癌 (unclassified renal cell carcinoma)（エビデンスレベル L2）。既存適応症：腎細胞癌、軟部肉腫（日本の承認適応症テキストは未登録）"
 monitor_inn: "Pazopanib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "heart fibrosarcoma", "fibroblastic neoplasm", "kidney fibrosarcoma", "dermatofibrosarcoma protuberans"]
+description: "Pazopanib：予測新適応症はLiposarcoma（エビデンスレベル L2）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 
 # Pazopanib
 {: .fs-9 }
 
-エビデンスレベル: **L2** | 予測適応症: **10** 件
+エビデンスレベル: **L2** | 予測適応症: **6** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,25 +33,24 @@ predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "heart fibr
 
 </div>
 
-## パゾパニブ：腎細胞癌・軟部肉腫から未分類腎細胞癌へ
+## Pazopanib: Liposarcoma
 {: .text-alpha }
 
 ## 一言要約
 
 パゾパニブは VEGFR・PDGFR・c-Kit を標的とするマルチキナーゼ阻害薬で、元々は腎細胞癌や軟部肉腫の治療に使われていました。
-TxGNN モデルは**未分類腎細胞癌 (unclassified renal cell carcinoma)** に有効である可能性を予測しています（スコア 99.63%）。
 現時点では臨床試験の登録はなく、**6 編の文献**（第 2 相単群試験 1 件を含む後ろ向き研究が中心）が支持しています。
 
 ## クイック概要
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 腎細胞癌、軟部肉腫（日本の承認適応症テキストは未登録） |
-| 予測新規適応症 | 未分類腎細胞癌 (unclassified renal cell carcinoma) |
-| TxGNN 予測スコア | 99.63% |
+| 既存適応症 | 日本の承認情報に適応症の記載なし |
+| 予測新規適応症 | Liposarcoma |
+| TxGNN 予測スコア | 0.9959 |
 | エビデンスレベル | L2 |
-| 日本市販状況 | 承認取消のみ（現在の市販品なし） |
-| 承認番号数 | 1 件（取消済み） |
+| 日本市販状況 | 販売中（有効な承認 1 件／全 1 件） |
+| 承認番号数 | 1 件（有効 1 件） |
 | 推奨決定 | Proceed with Guardrails |
 
 ## この予測が妥当である理由
@@ -64,10 +63,9 @@ TxGNN モデルは**未分類腎細胞癌 (unclassified renal cell carcinoma)** 
 
 | 予測疾患 | スコア | エビデンスレベル | 推奨 |
 |------|------|------|------|
-| 脂肪肉腫 | 99.59% | L2 | Proceed with Guardrails |
-| 線維芽細胞性腫瘍 | 99.35% | L2 | Proceed with Guardrails |
-| 隆起性皮膚線維肉腫 (DFSP) | 99.29% | L2 | Proceed with Guardrails |
-| Xp11.2 転座/TFE3 融合関連腎細胞癌、神経芽腫関連腎細胞癌、小児腎細胞癌、卵巣粘液型脂肪肉腫、心臓線維肉腫、腎線維肉腫 | 99.33〜99.63% | L5 | Hold |
+| 脂肪肉腫 | 0.9959 | L2 | Proceed with Guardrails |
+| 線維芽細胞性腫瘍 | 0.9935 | L5 | Proceed with Guardrails |
+| 隆起性皮膚線維肉腫 (DFSP) | 0.9929 | L2 | Proceed with Guardrails |
 
 脂肪肉腫と DFSP は、PDGFR 依存性の機序が明確で、DFSP は COL1A1-PDGFB 融合による PDGFR 活性化が根拠です。一方、脂肪肉腫は第 2 相試験の効果が限定的で、登録試験では脂肪細胞系組織型が除外されていました。
 
@@ -90,7 +88,7 @@ TxGNN モデルは**未分類腎細胞癌 (unclassified renal cell carcinoma)** 
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
-| 622201801 | ヴォトリエント錠200mg | 錠200mg（経口） | 記載なし（承認は取消済み） |
+| 622201801 | ヴォトリエント錠200mg | 錠200mg（経口） | 記載なし（承認は有効） |
 
 ## 細胞毒性
 

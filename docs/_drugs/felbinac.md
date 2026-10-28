@@ -4,17 +4,17 @@ title: Felbinac
 parent: モデル予測のみ
 nav_order: 130
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-17
 description: "Felbinac：予測新適応症はbrachyolmia-amelogenesis imperfecta syndrome（エビデンスレベル L5）。既存適応症：鎮痛薬、抗炎症薬、シクロオキシゲナーゼ阻害薬"
 monitor_inn: "felbinac"
-predicted_indications: ["brachyolmia-amelogenesis imperfecta syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "spondyloarthropathy, susceptibility to", "rheumatoid nodulosis", "combined immunodeficiency due to moesin deficiency", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "juvenile idiopathic arthritis"]
+predicted_indications: ["brachyolmia-amelogenesis imperfecta syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "rheumatoid nodulosis", "combined immunodeficiency due to moesin deficiency", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "juvenile idiopathic arthritis"]
 ---
 
 # Felbinac
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **10** 件
+エビデンスレベル: **L5** | 予測適応症: **9** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ TxGNN モデルは **brachyolmia-amelogenesis imperfecta syndrome** に有効で
 |------|------|
 | 既存適応症 | 鎮痛薬、抗炎症薬、シクロオキシゲナーゼ阻害薬 |
 | 予測新規適応症 | brachyolmia-amelogenesis imperfecta syndrome |
-| TxGNN 予測スコア | 99.99% |
+| TxGNN 予測スコア | 0.9999 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売なし（承認はすべて整理済み） |
-| 承認番号数 | 9 件（すべて整理済み） |
+| 日本市販状況 | 販売中（有効な承認 9 件／全 9 件） |
+| 承認番号数 | 9 件（有効 9 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -71,7 +71,7 @@ TxGNN モデルは **brachyolmia-amelogenesis imperfecta syndrome** に有効で
 | 621981802 | フェルビナクテープ35mg「NP」 7cm×10cm | テープ | 鎮痛薬、抗炎症薬、シクロオキシゲナーゼ阻害薬 |
 | 620646303 | フェルビナクテープ70mg「NP」 10cm×14cm | テープ | 鎮痛薬、抗炎症薬、シクロオキシゲナーゼ阻害薬 |
 
-上記を含む 9 件の承認はすべて整理済みで、現在有効な承認はありません。
+上記を含む 9 件の承認はすべて有効です。
 
 ## 安全性に関する考慮事項
 
@@ -84,7 +84,7 @@ TxGNN モデルは **brachyolmia-amelogenesis imperfecta syndrome** に有効で
 **理由：**
 - 予測はモデルスコアのみに基づき、臨床試験も文献もありません（L5）。
 - 上位候補は遺伝性骨格異形成で、COX 阻害との機序的関連が認められません。
-- 国内の承認もすべて整理済みです。
+- 国内で販売されており、9 件の承認すべてが有効です。
 
 **進める場合に必要なもの：**
 - 詳細な薬物作用機序データ（MOA）

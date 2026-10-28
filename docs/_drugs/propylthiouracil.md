@@ -4,17 +4,17 @@ title: Propylthiouracil
 parent: モデル予測のみ
 nav_order: 259
 evidence_level: L5
-indication_count: 3
+indication_count: 2
 last_modified_at: 2026-10-17
-description: "Propylthiouracil：予測新適応症は甲状腺ホルモンβ受容体変異による甲状腺ホルモン不応症 (Resistance to thyroid hormone due to a mu…（エビデンスレベル L5）。既存適応症：甲状腺機能亢進症"
+description: "Propylthiouracil：予測新適応症は甲状腺ホルモン受容体β変異による甲状腺ホルモン不応症（エビデンスレベル L5）。既存適応症：甲状腺機能亢進症"
 monitor_inn: "Propylthiouracil"
-predicted_indications: ["resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "neonatal thyrotoxicosis", "hyperthyroxinemia"]
+predicted_indications: ["resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "hyperthyroxinemia"]
 ---
 
 # Propylthiouracil
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **3** 件
+エビデンスレベル: **L5** | 予測適応症: **2** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["resistance to thyroid hormone due to a mutation in thyr
 
 </div>
 
-## プロピルチオウラシル：甲状腺機能亢進症から甲状腺ホルモン不応症（THRB 変異）へ
+## プロピルチオウラシル：甲状腺機能亢進症から甲状腺ホルモン受容体β変異による甲状腺ホルモン不応症へ
 {: .text-alpha }
 
 ## 一言要約
@@ -47,10 +47,10 @@ TxGNN モデルは**甲状腺ホルモンβ受容体変異による甲状腺ホ�
 |------|------|
 | 既存適応症 | 甲状腺機能亢進症 |
 | 予測新規適応症 | 甲状腺ホルモンβ受容体変異による甲状腺ホルモン不応症 (Resistance to thyroid hormone due to a mutation in THRB) |
-| TxGNN 予測スコア | 99.66% |
+| TxGNN 予測スコア | 0.9966 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売承認は取り消し済み（現在市販なし） |
-| 承認番号数 | 2 件（いずれも取り消し） |
+| 日本市販状況 | 販売中（有効な承認 2 件／全 2 件） |
+| 承認番号数 | 2 件（有効 2 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -76,8 +76,8 @@ TxGNN モデルは**甲状腺ホルモンβ受容体変異による甲状腺ホ�
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 | 状態 |
 |---------|------|------|-----------|------|
-| 620009232 | チウラジール錠５０ｍｇ | 錠 50 mg | （記載なし） | 取り消し |
-| 612430003 | プロピルチオウラシル錠 ５０ｍｇ | 錠 50 mg | 抗甲状腺薬、甲状腺ホルモン合成阻害薬。甲状腺機能亢進症 | 取り消し |
+| 620009232 | チウラジール錠５０ｍｇ | 錠 50 mg | （記載なし） | 有効 |
+| 612430003 | プロピルチオウラシル錠 ５０ｍｇ | 錠 50 mg | 抗甲状腺薬、甲状腺ホルモン合成阻害薬。甲状腺機能亢進症 | 有効 |
 
 ## 安全性に関する考慮事項
 
@@ -104,8 +104,7 @@ TxGNN モデルは**甲状腺ホルモンβ受容体変異による甲状腺ホ�
 
 ### 参考：他の予測適応症
 
-- **新生児甲状腺中毒症**（スコア 99.40%、L4）：母体バセドウ病の PTU 治療による間接的なエビデンスが中心です。新生児への直接投与の根拠ではなく、肝毒性のため第 1 期以降の使用は制限されます。
-- **高サイロキシン血症**（スコア 99.08%、L4）：直接の PTU のエビデンスは 1 件の症例報告（PMID 18334584）のみです。家族性異常アルブミン性高サイロキシン血症や甲状腺ホルモン不応症では合成阻害の効果が期待できません。
+- **高サイロキシン血症**（スコア 0.9908、L4）：直接の PTU のエビデンスは 1 件の症例報告（PMID 18334584）のみです。家族性異常アルブミン性高サイロキシン血症や甲状腺ホルモン不応症では合成阻害の効果が期待できません。
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

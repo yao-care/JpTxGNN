@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "Blonanserin"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "hydranencephaly (disease)", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "syndromic myopia", "myopia X-linked", "atypical glycine encephalopathy", "myopia 26, X-linked, female-limited"]
 last_modified_at: 2026-10-17
-description: "Blonanserin：予測新適応症は眼外異常を伴う…（エビデンスレベル L5）。既存適応症：統合失調症"
+description: "Blonanserin：予測新適応症は網膜ジストロフィー（エビデンスレベル L5）。既存適応症：統合失調症"
 ---
 
 # Blonanserin
@@ -47,10 +47,10 @@ TxGNN モデルは**遺伝性網膜ジストロフィー（retinal dystrophy wit
 |------|------|
 | 既存適応症 | 統合失調症 |
 | 予測新規適応症 | 眼外異常を伴う、または伴わない網膜ジストロフィー (retinal dystrophy with or without extraocular anomalies) |
-| TxGNN 予測スコア | 99.98% |
+| TxGNN 予測スコア | 0.9998 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売承認は整理済み（現在有効な承認なし） |
-| 承認番号数 | 3 件（すべて承認整理済み） |
+| 日本市販状況 | 販売中（有効な承認 3 件／全 3 件） |
+| 承認番号数 | 3 件（有効 3 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -65,9 +65,9 @@ TxGNN モデルは**遺伝性網膜ジストロフィー（retinal dystrophy wit
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
-| 622687801 | ロナセンテープ２０ｍｇ | テープ２０ｍｇ | 承認整理済み |
-| 622687901 | ロナセンテープ３０ｍｇ | テープ３０ｍｇ | 承認整理済み |
-| 622688001 | ロナセンテープ４０ｍｇ | テープ４０ｍｇ | 承認整理済み |
+| 622687801 | ロナセンテープ２０ｍｇ | テープ２０ｍｇ | 承認有効 |
+| 622687901 | ロナセンテープ３０ｍｇ | テープ３０ｍｇ | 承認有効 |
+| 622688001 | ロナセンテープ４０ｍｇ | テープ４０ｍｇ | 承認有効 |
 
 ## 安全性に関する考慮事項
 

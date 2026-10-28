@@ -4,7 +4,7 @@ title: Phenobarbital
 parent: モデル予測のみ
 nav_order: 242
 evidence_level: L5
-indication_count: 10
+indication_count: 3
 last_modified_at: 2026-10-17
 description: "Phenobarbital：予測新適応症は三叉神経腫瘍 (Trigeminal Nerve Neoplasm)（エビデンスレベル L5）。既存適応症：不眠症（抗不安薬、抗けいれん薬、催眠鎮静薬）"
 monitor_inn: "Phenobarbital"
@@ -14,7 +14,7 @@ predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "be
 # Phenobarbital
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **10** 件
+エビデンスレベル: **L5** | 予測適応症: **3** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ TxGNN モデルは**三叉神経腫瘍 (Trigeminal Nerve Neoplasm)** に有効�
 |------|------|
 | 既存適応症 | 不眠症（抗不安薬、抗けいれん薬、催眠鎮静薬） |
 | 予測新規適応症 | 三叉神経腫瘍 (Trigeminal Nerve Neoplasm) |
-| TxGNN 予測スコア | 99.96% |
+| TxGNN 予測スコア | 0.9996 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中の承認なし（9 件すべて取消済み） |
-| 承認番号数 | 9 件（すべて取消） |
+| 日本市販状況 | 販売中（有効な承認 9 件／全 9 件） |
+| 承認番号数 | 9 件（有効 9 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -111,7 +111,7 @@ TxGNN モデルは**三叉神経腫瘍 (Trigeminal Nerve Neoplasm)** に有効�
 
 **理由：**
 - 三叉神経腫瘍に対する臨床試験はなく、機序的な裏付けも乏しいため、現時点では再利用を進める根拠がありません。
-- 日本の承認がすべて取消されている点も、実用化の障壁です。
+- 日本では9件の承認すべてが有効で、販売されています。
 
 **進める場合に必要なもの：**
 - 添付文書の警告・禁忌の取得と解析（PMDA）

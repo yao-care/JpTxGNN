@@ -1,20 +1,22 @@
 ---
+noindex: true
+sitemap: false
 layout: default
 title: Furosemide
-parent: モデル予測のみ
+parent: 既知の用途のみ（新規予測なし）
 nav_order: 142
-evidence_level: L5
-indication_count: 10
 last_modified_at: 2026-10-17
-description: "Furosemide：予測新適応症は悪性高血圧性腎疾患 (Malignant Hypertensive Renal Disease)（エビデンスレベル L5）。既存適応症：本態性高血圧症、高血圧症（利尿薬、Na-K-Cl共輸送体阻害薬）"
+description: "Furosemide: 日本における既知の用途と市場状況。現時点で新たな候補適応症はありません"
 monitor_inn: "Furosemide"
-predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease", "acute pulmonary heart disease", "primary hereditary glaucoma", "chronic renal failure syndrome", "chronic kidney disease"]
+predicted_indications: []
+indication_count: 0
+evidence_level: N/A
 ---
 
 # Furosemide
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **10** 件
+エビデンスレベル: **N/A** | 予測適応症: **0** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,45 +35,20 @@ predicted_indications: ["malignant hypertensive renal disease", "pulmonary hyper
 
 </div>
 
-## フロセミド：本態性高血圧症から悪性高血圧性腎疾患へ
+## Furosemide
 {: .text-alpha }
-
-## 一言要約
-
-フロセミドはNa-K-Cl共輸送体を阻害する利尿薬で、もともと本態性高血圧症・高血圧症の治療に使われていました。
-TxGNN モデルは**悪性高血圧性腎疾患 (Malignant Hypertensive Renal Disease)** に有効である可能性を予測していますが、この疾患を直接支持する臨床試験・文献は**0 件**で、モデル予測のみの段階です。
 
 ## クイック概要
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 本態性高血圧症、高血圧症（利尿薬、Na-K-Cl共輸送体阻害薬） |
-| 予測新規適応症 | 悪性高血圧性腎疾患 (Malignant Hypertensive Renal Disease) |
-| TxGNN 予測スコア | 98.03% |
-| エビデンスレベル | L5 |
-| 日本市販状況 | 販売中の承認なし（取消・整理済みの承認のみ） |
+| 既存適応症 | 日本の承認情報に適応症の記載なし |
+| 日本市販状況 | 販売中（有効な承認 20 件以上） |
 | 承認番号数 | 20 件（すべて取消済み） |
-| 推奨決定 | Hold |
-
-## この予測が妥当である理由
-
-現在、詳細な作用機序データは登録されていません。ただし、フロセミドは Na-K-Cl共輸送体阻害薬に分類されます。ヘンレ係蹄の太い上行脚で NKCC2 を阻害し、ナトリウムと水の排泄を促して循環血液量と血圧を下げます。
-
-高血圧症と悪性高血圧性腎疾患は、血圧上昇と腎障害という病態でつながっています。利尿による体液量の減少は、容量依存性の高血圧に対して機序的に筋が通ります。
-
-ただし、悪性高血圧では降圧薬による根本的な治療が中心です。フロセミドが担えるのは補助的な役割にとどまると考えられます。この疾患を対象とした臨床的な裏付けは、現時点では提供されていません。
-
-## 臨床試験エビデンス
-
-現在、関連する臨床試験の登録はありません。
-
-## 文献エビデンス
-
-現在、関連する文献はありません。
 
 ## 日本市販情報
 
-日本の承認はすべて取消済みで、現在販売中のものはありません。以下は主な承認の記録です。
+以下は主な承認の記録です。
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
@@ -91,21 +68,6 @@ TxGNN モデルは**悪性高血圧性腎疾患 (Malignant Hypertensive Renal Di
 
 警告・禁忌の正式な内容は、添付文書を参照してください。
 
-## 結論と次のステップ
-
-**決定：Hold**
-
-**理由：**
-- 悪性高血圧性腎疾患に対する臨床試験・文献が一件もなく、根拠は TxGNN の予測スコアのみ（L5）です。
-- 本疾患では降圧薬による根本治療が中心で、フロセミドは補助的な位置づけにとどまると考えられます。
-- 同じ予測群のうち、**慢性腎臓病 (CKD)** は完了済みの Phase 4 試験を含む複数の試験と文献があり、エビデンスレベル L2 で「Proceed with Guardrails」と評価されています。優先的に検討する価値があります。
-
-**進める場合に必要なもの：**
-- 悪性高血圧性腎疾患における利尿薬の有効性を示す臨床データ（試験または観察研究）
-- 添付文書（PMDA）に基づく警告・禁忌の確認
-- 詳細な作用機序データ（DrugBank 等）の補完
-- 日本では販売中の承認がないため、現在の承認状況と供給形態の確認
-- 進める場合は、腎機能・電解質のモニタリング、難聴（聴器毒性）への注意、相互作用の確認
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。
@@ -119,13 +81,4 @@ TxGNN モデルは**悪性高血圧性腎疾患 (Malignant Hypertensive Renal Di
 
 
 
-<!-- brand-names:start -->
-## 日本での販売名
-
-同じ成分を含む日本の医薬品です。以下の名称でも検索できます。
-
-**商品名**：ラシックス
-
-**販売名（規格別）**：フロセミド10mg錠、フロセミド20mg注射液、フロセミド20mg錠、フロセミド40mg錠、フロセミド注20mg、フロセミド細粒4%、フロセミド錠10mg、フロセミド錠20mg、フロセミド錠40mg、ラシックス注100mg、ラシックス注20mg、ラシックス錠10mg、ラシックス錠20mg、ラシックス錠40mg
-<!-- brand-names:end -->
 

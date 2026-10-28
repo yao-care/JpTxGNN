@@ -6,14 +6,15 @@ title: Cephalexin
 parent: モデル予測のみ (L5)
 nav_order: 43
 evidence_level: L5
-indication_count: 1
+indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Cephalexin
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **1** 件
+エビデンスレベル: **L5** | 予測適応症: **0** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,8 +49,8 @@ Cephalexin（セファレキシン） は第一世代セフェム系の経口抗
 | 予測新適応症 | なし |
 | TxGNN 予測スコア | なし |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売承認あり（有効 12 件） |
-| 承認番号数 | 12 件 |
+| 日本市販状況 | 販売中（有効な承認 12 件／全 12 件） |
+| 承認番号数 | 12 件（有効 12 件） |
 | 推奨判断 | Hold |
 
 ## この予測が妥当な理由

@@ -4,9 +4,9 @@ title: Prasugrel
 parent: モデル予測のみ
 nav_order: 251
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 monitor_inn: "Prasugrel"
-predicted_indications: ["pulmonary hypertension", "migraine disorder", "migraine with brainstem aura", "kyphoscoliotic heart disease", "rheumatoid arthritis", "homozygous familial hypercholesterolemia", "hypoalphalipoproteinemia", "migraine with or without aura, susceptibility to", "brachydactyly-syndactyly syndrome", "leprosy"]
+predicted_indications: ["pulmonary hypertension", "migraine disorder", "migraine with brainstem aura", "kyphoscoliotic heart disease", "rheumatoid arthritis", "homozygous familial hypercholesterolemia", "hypoalphalipoproteinemia", "brachydactyly-syndactyly syndrome", "leprosy"]
 last_modified_at: 2026-10-17
 description: "Prasugrel：予測新適応症は肺高血圧症 (Pulmonary Hypertension)（エビデンスレベル L5）。既存適応症：狭心症、心筋梗塞（血小板凝集抑制薬、P2Y12 阻害薬）"
 ---
@@ -14,7 +14,7 @@ description: "Prasugrel：予測新適応症は肺高血圧症 (Pulmonary Hypert
 # Prasugrel
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **10** 件
+エビデンスレベル: **L5** | 予測適応症: **9** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ TxGNN モデルは**肺高血圧症 (Pulmonary Hypertension)** に有効であ�
 |------|------|
 | 既存適応症 | 狭心症、心筋梗塞（血小板凝集抑制薬、P2Y12 阻害薬） |
 | 予測新規適応症 | 肺高血圧症 (Pulmonary Hypertension) |
-| TxGNN 予測スコア | 99.88% |
+| TxGNN 予測スコア | 0.9988 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売承認はすべて取消済み（現在市販中の製品なし） |
-| 承認番号数 | 12 件（すべて取消） |
+| 日本市販状況 | 販売中（有効な承認 12 件／全 12 件） |
+| 承認番号数 | 12 件（有効 12 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -92,7 +92,7 @@ TxGNN モデルは**肺高血圧症 (Pulmonary Hypertension)** に有効であ�
 
 ## 日本市販情報
 
-販売承認は 12 件すべてが取消済みで、現在有効な承認はありません。主な承認（取消済み）：
+販売承認は 12 件すべてが有効です。主な承認：
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
@@ -117,7 +117,7 @@ TxGNN モデルは**肺高血圧症 (Pulmonary Hypertension)** に有効であ�
 **決定：Hold**
 
 **理由：**
-- 肺高血圧症については、臨床試験も直接的な文献もなく、モデル予測のみ（L5）で、機序的な根拠も推測の域を出ません。さらに日本の承認はすべて取消済みで、出血リスクを伴う薬剤でもあるため、現時点で進める根拠は不十分です。
+- 肺高血圧症については、臨床試験も直接的な文献もなく、モデル予測のみ（L5）で、機序的な根拠も推測の域を出ません。さらに出血リスクを伴う薬剤でもあるため、現時点で進める根拠は不十分です。
 - 予測順位 2 位の片頭痛（PFO 合併）は L3 で、観察研究と進行中の Phase 3 試験があるため、「研究課題 (Research Question)」として別途検討する価値があります。
 
 **進める場合に必要なもの：**

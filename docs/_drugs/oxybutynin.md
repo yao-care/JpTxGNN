@@ -4,9 +4,9 @@ title: Oxybutynin
 parent: モデル予測のみ
 nav_order: 231
 evidence_level: L5
-indication_count: 10
+indication_count: 3
 monitor_inn: "Oxybutynin"
-predicted_indications: ["restless legs syndrome", "gastroduodenitis", "peptic ulcer disease", "low compliance bladder", "nephrogenic syndrome of inappropriate antidiuresis", "insomnia (disease)", "attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "familial episodic pain syndrome with predominantly upper body involvement", "transient tic disorder"]
+predicted_indications: ["restless legs syndrome", "gastroduodenitis", "peptic ulcer disease"]
 last_modified_at: 2026-10-17
 description: "Oxybutynin：予測新適応症は下肢静止不能症候群 (Restless Legs Syndrome)（エビデンスレベル L5）。既存適応症：頻尿治療薬、過活動膀胱用薬、ムスカリン受容体拮抗薬"
 ---
@@ -14,7 +14,7 @@ description: "Oxybutynin：予測新適応症は下肢静止不能症候群 (Res
 # Oxybutynin
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **10** 件
+エビデンスレベル: **L5** | 予測適応症: **3** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ TxGNN モデルは**下肢静止不能症候群 (Restless Legs Syndrome)** に�
 |------|------|
 | 既存適応症 | 頻尿治療薬、過活動膀胱用薬、ムスカリン受容体拮抗薬 |
 | 予測新規適応症 | 下肢静止不能症候群 (Restless Legs Syndrome) |
-| TxGNN 予測スコア | 99.74% |
+| TxGNN 予測スコア | 0.9974 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 承認は全て整理済み（現在、有効な承認なし） |
-| 承認番号数 | 12 件（すべて取り消し・整理済み） |
+| 日本市販状況 | 販売中（有効な承認 12 件／全 12 件） |
+| 承認番号数 | 12 件（有効 12 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -60,11 +60,11 @@ TxGNN モデルは**下肢静止不能症候群 (Restless Legs Syndrome)** に�
 
 一方、下肢静止不能症候群は、主にドパミン系の機能異常や鉄代謝の異常が関わる疾患とされています。オキシブチニンにはこれらの経路への作用が知られていません。そのため、既存適応症との機序的な関連性は確認できません。
 
-TxGNN のスコアは非常に高い（99.74%）ものの、これは知識グラフ上の計算による予測です。裏付けとなる臨床・文献データがないため、現時点では**仮説段階**として扱うのが適切です。
+TxGNN モデル（深層学習）のスコアは非常に高い（0.9974）ものの、このスコアは関連する疾患間でモデルが学習した類似性を反映している可能性があり、生物学的な根拠ではありません。裏付けとなる臨床・文献データがないため、現時点では**仮説段階**として扱うのが適切です。
 
 ## 日本市販情報
 
-12 件の承認はすべて取り消し済みです。主な承認は以下のとおりです（最大 5 件を記載）。
+12 件の承認はすべて有効です。主な承認は以下のとおりです（最大 5 件を記載）。
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|

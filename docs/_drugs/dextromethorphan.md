@@ -4,17 +4,17 @@ title: Dextromethorphan
 parent: モデル予測のみ
 nav_order: 91
 evidence_level: L5
-indication_count: 10
+indication_count: 5
 last_modified_at: 2026-10-17
 description: "Dextromethorphan：予測新適応症は鼻腔疾患 (nasal cavity disease)（エビデンスレベル L5）。既存適応症：鎮咳薬（気管支拡張症）"
 monitor_inn: "Dextromethorphan"
-predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "faucial diphtheria", "trigeminal autonomic cephalalgia", "cervical disc degenerative disorder", "allergic urticaria", "tracheal disease", "massive neonatal aspiration syndrome", "respiratory syncytial virus bronchiolitis", "hantavirus infectious disease"]
+predicted_indications: ["nasal cavity disease", "faucial diphtheria", "trigeminal autonomic cephalalgia", "cervical disc degenerative disorder", "allergic urticaria"]
 ---
 
 # Dextromethorphan
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **10** 件
+エビデンスレベル: **L5** | 予測適応症: **5** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,10 +47,10 @@ TxGNN モデルは**鼻腔疾患 (nasal cavity disease)** に有効である可�
 |------|------|
 | 既存適応症 | 鎮咳薬（気管支拡張症） |
 | 予測新規適応症 | 鼻腔疾患 (nasal cavity disease) |
-| TxGNN 予測スコア | 99.98% |
+| TxGNN 予測スコア | 0.9998 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売なし（承認はすべて取消済み） |
-| 承認番号数 | 7 件（すべて取消） |
+| 日本市販状況 | 販売中（有効な承認 7 件／全 7 件） |
+| 承認番号数 | 7 件（有効 7 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -61,7 +61,6 @@ TxGNN モデルは**鼻腔疾患 (nasal cavity disease)** に有効である可�
 
 そのため、この予測は TxGNN スコアのみに依存しており、機序面の裏付けは弱いと判断します。
 
-なお、他の上位予測（急性咽喉頭炎、気管疾患など）は、咳症状の緩和という点では間接的な関連が考えられます。一方、基礎疾患そのものの治療にはなりません。
 
 ## 日本市販情報
 
@@ -73,7 +72,7 @@ TxGNN モデルは**鼻腔疾患 (nasal cavity disease)** に有効である可�
 | 620374101 | デキストロメトルファン臭化水素酸塩錠１５ｍｇ「トーワ」 | 錠剤 | 鎮咳薬（気管支拡張症） |
 | 620374204 | デキストロメトルファン臭化水素酸塩錠１５ｍｇ「ＮＰ」 | 錠剤 | 鎮咳薬（気管支拡張症） |
 
-7 件の承認はすべて取消済みで、現在有効な承認はありません。
+7 件の承認のうち 7 件が有効です。
 
 ## 安全性に関する考慮事項
 
@@ -88,7 +87,7 @@ TxGNN モデルは**鼻腔疾患 (nasal cavity disease)** に有効である可�
 **決定：Hold**
 
 **理由：**
-予測スコアは高いものの、鼻腔疾患に関する臨床試験・文献がなく、機序的な裏付けもありません。エビデンスはモデル予測のみ（L5）です。また、日本の承認はすべて取消済みで、市販品がありません。
+予測スコアは高いものの、鼻腔疾患に関する臨床試験・文献がなく、機序的な裏付けもありません。エビデンスはモデル予測のみ（L5）です。なお、スコアは TxGNN モデル（深層学習）によるもので、モデルが学習した関連疾患間の類似性を反映している可能性があり、生物学的エビデンスではありません。日本では市販されており、7 件の承認すべてが有効です。
 
 **進める場合に必要なもの：**
 - 鼻腔疾患に対する作用機序の検討と、関連する前臨床・臨床データの収集
@@ -96,7 +95,6 @@ TxGNN モデルは**鼻腔疾患 (nasal cavity disease)** に有効である可�
 - 作用機序（MOA）データの補完
 - 剤形・投与経路の適合性の確認
 - 販売再開の可否を含む、日本での規制上の位置づけの確認
-- 予測順位が上位でエビデンスがある別候補（気管疾患：L4、動物・in vitro 研究のみ）との優先順位の比較
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

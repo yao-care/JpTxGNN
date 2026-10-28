@@ -4,9 +4,9 @@ title: Candesartan
 parent: 高エビデンスレベル
 nav_order: 57
 evidence_level: L2
-indication_count: 10
+indication_count: 9
 monitor_inn: "Candesartan"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "pulmonary hypertension", "Prinzmetal angina", "kyphoscoliotic heart disease", "atrophoderma vermiculata", "ulerythema ophryogenesis", "benign prostatic hyperplasia (disease)", "alopecia"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "pulmonary hypertension", "Prinzmetal angina", "kyphoscoliotic heart disease", "atrophoderma vermiculata", "ulerythema ophryogenesis", "benign prostatic hyperplasia (disease)", "alopecia"]
 last_modified_at: 2026-10-17
 description: "Candesartan：予測新適応症は片頭痛 (migraine disorder)（エビデンスレベル L2）。既存適応症：血圧降下薬、アンジオテンシンII受容体拮抗薬"
 ---
@@ -14,7 +14,7 @@ description: "Candesartan：予測新適応症は片頭痛 (migraine disorder)�
 # Candesartan
 {: .fs-9 }
 
-エビデンスレベル: **L2** | 予測適応症: **10** 件
+エビデンスレベル: **L2** | 予測適応症: **9** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -47,9 +47,9 @@ TxGNN モデルは**片頭痛 (migraine disorder)** に有効である可能性�
 |------|------|
 | 既存適応症 | 血圧降下薬、アンジオテンシンII受容体拮抗薬 |
 | 予測新規適応症 | 片頭痛 (migraine disorder) |
-| TxGNN 予測スコア | 99.97% |
+| TxGNN 予測スコア | 0.9997 |
 | エビデンスレベル | L2 |
-| 日本市販状況 | 販売承認は整理済み（現在有効な承認は 0 件） |
+| 日本市販状況 | 販売中（有効な承認 20 件以上） |
 | 承認番号数 | 20 件（すべて整理済み） |
 | 推奨決定 | Proceed with Guardrails |
 

@@ -4,17 +4,17 @@ title: Itraconazole
 parent: モデル予測のみ
 nav_order: 169
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-17
 description: "Itraconazole：予測新適応症はニューモシスチス症 (pneumocystosis)（エビデンスレベル L5）。既存適応症：抗真菌薬（エルゴステロール合成阻害薬）：スポロトリコーシス、クロモミコーシス、白癬、カンジダ症、慢性皮膚粘膜カンジダ症、癜風、爪白癬…"
 monitor_inn: "Itraconazole"
-predicted_indications: ["pneumocystosis", "Cryptococcal meningitis", "hyalohyphomycosis", "trichosporonosis", "geotrichosis", "penicilliosis", "maple bark strippers' lung", "leprosy", "congenital candidiasis", "candida glabrata"]
+predicted_indications: ["pneumocystosis"]
 ---
 
 # Itraconazole
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **10** 件
+エビデンスレベル: **L5** | 予測適応症: **1** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ TxGNN モデルは**ニューモシスチス症 (pneumocystosis)** に有効で�
 |------|------|
 | 既存適応症 | 抗真菌薬（エルゴステロール合成阻害薬）：スポロトリコーシス、クロモミコーシス、白癬、カンジダ症、慢性皮膚粘膜カンジダ症、癜風、爪白癬、ブラストミセス症、ヒストプラスマ症 |
 | 予測新規適応症 | ニューモシスチス症 (pneumocystosis) |
-| TxGNN 予測スコア | 99.34% |
+| TxGNN 予測スコア | 0.9934 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中の承認なし（全承認が取消済み） |
-| 承認番号数 | 9 件（すべて取消） |
+| 日本市販状況 | 販売中（有効な承認 9 件／全 9 件） |
+| 承認番号数 | 9 件（有効 9 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -83,7 +83,7 @@ TxGNN モデルは**ニューモシスチス症 (pneumocystosis)** に有効で�
 
 ## 日本市販情報
 
-現在、日本で有効な承認はありません。以下はすべて取消済みの承認です。
+現在、日本で承認9件のうち9件が有効です。
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|

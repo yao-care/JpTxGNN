@@ -4,17 +4,17 @@ title: Tadalafil
 parent: モデル予測のみ
 nav_order: 294
 evidence_level: L5
-indication_count: 10
+indication_count: 8
 monitor_inn: "Tadalafil"
-predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly", "kyphoscoliotic heart disease", "migraine with brainstem aura", "migraine disorder", "hypotrichosis simplex of the scalp"]
+predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly", "kyphoscoliotic heart disease", "migraine with brainstem aura"]
 last_modified_at: 2026-10-17
-description: "Tadalafil：予測新適応症はAmbras 型汎発性先天性多毛症 (Ambras type hypertrichosis universalis congenita)（エビデンスレベル L5）。既存適応症：肺動脈性肺高血圧症（血圧降下薬、勃起不全治療薬、PDE5 阻害薬）"
+description: "Tadalafil：予測新適応症はAmbras 型汎発性先天性多毛症 (Ambras type hypertrichosis universalis congenita)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 
 # Tadalafil
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **10** 件
+エビデンスレベル: **L5** | 予測適応症: **8** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ description: "Tadalafil：予測新適応症はAmbras 型汎発性先天性多�
 
 </div>
 
-## タダラフィル：肺動脈性肺高血圧症から Ambras 型汎発性先天性多毛症へ
+## Tadalafil: Ambras 型汎発性先天性多毛症 (Ambras type hypertrichosis universalis congenita)
 {: .text-alpha }
 
 ## 一言要約
@@ -45,11 +45,11 @@ TxGNN モデルは **Ambras 型汎発性先天性多毛症 (Ambras type hypertri
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 肺動脈性肺高血圧症（血圧降下薬、勃起不全治療薬、PDE5 阻害薬） |
+| 既存適応症 | 日本の承認情報に適応症の記載なし |
 | 予測新規適応症 | Ambras 型汎発性先天性多毛症 (Ambras type hypertrichosis universalis congenita) |
-| TxGNN 予測スコア | 99.98% |
+| TxGNN 予測スコア | 0.9998 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売承認はすべて整理済み（市販中の承認なし） |
+| 日本市販状況 | 販売中（有効な承認 20 件以上） |
 | 承認番号数 | 20 件（すべて整理済み） |
 | 推奨決定 | Hold |
 
@@ -59,9 +59,9 @@ TxGNN モデルは **Ambras 型汎発性先天性多毛症 (Ambras type hypertri
 
 一方、Ambras 症候群は 8 番染色体の調節領域の異常に起因する遺伝性疾患で、PDE5 阻害との機序的な関連は確立していません。したがって、この予測の妥当性は現時点では**支持されていません**。
 
-ランク 2 の「多毛症 (hypertrichosis)」（スコア 99.98%）についても、cGMP を介した血管拡張がミノキシジル型の毛包血流改善に概念的に似ているという程度で、タダラフィルでの直接的な証拠はありません。上位 10 件の予測の多くは遺伝性の毛髪・発生異常で、機序的な裏付けは乏しい状況です。
+ランク 2 の「多毛症 (hypertrichosis)」（スコア 0.9998）についても、cGMP を介した血管拡張がミノキシジル型の毛包血流改善に概念的に似ているという程度で、タダラフィルでの直接的な証拠はありません。上位 10 件の予測の多くは遺伝性の毛髪・発生異常で、機序的な裏付けは乏しい状況です。
 
-なお、予測上位には偏頭痛関連（脳幹性前兆を伴う片頭痛、片頭痛）も含まれますが、これらは治療効果ではなく、タダラフィルが片頭痛の前兆を**誘発した**という症例報告（2006 年）です。NO/cGMP 経路は片頭痛の病態に関与するため、むしろ悪化のリスクとして注意が必要です。
+なお、予測上位には偏頭痛関連（脳幹性前兆を伴う片頭痛、片頭痛）も含まれますが、これらは治療効果ではなく、タダラフィルが片頭痛の前兆を**誘発した**という症例報告（2006 年）です。
 
 ## 日本市販情報
 
@@ -73,11 +73,11 @@ TxGNN モデルは **Ambras 型汎発性先天性多毛症 (Ambras type hypertri
 | 628711002 | シアリス錠20mg | 錠 20mg | （記載なし） |
 | 628710902 | シアリス錠10mg | 錠 10mg | （記載なし） |
 
-上記を含む 20 件の承認はすべて整理済みの状態です。
+上記を含む 20 件の承認が有効な状態で、国内で販売されています。
 
 ## 安全性に関する考慮事項
 
-- **禁忌（知識グラフ上の関連疾患）**：以下はラベル本文ではなく、知識グラフ上の薬物-疾患の禁忌関係に基づく情報です。
+- **禁忌（関連疾患）**：以下はラベル本文に基づく情報ではなく、薬物と疾患の禁忌関係として整理された情報です。
   - 心血管系：大動脈弁狭窄症、低血圧、急性冠症候群、心筋梗塞、肥大型心筋症、脳梗塞などの脳血管障害
   - 血液系：血液凝固異常、鎌状赤血球症、ヘモグロビン異常症、多発性骨髄腫、白血病
   - 泌尿生殖器：持続勃起症、ペロニー病
@@ -85,7 +85,6 @@ TxGNN モデルは **Ambras 型汎発性先天性多毛症 (Ambras type hypertri
 - **薬物相互作用**（DDInter、計 100 件、うち主なもの）：
   - 中等度：アプレピタント、デキサメタゾン、クラリスロマイシン、シメチジン、ミコナゾール、クロトリマゾール、ロルカセリン、サプロプテリン、トログリタゾン、SGLT2 阻害薬（カナグリフロジン、ダパグリフロジン、エンパグリフロジン、エルツグリフロジン）
   - 軽度：パパベリン
-- 片頭痛の前兆を誘発した症例報告があり、片頭痛既往のある患者では注意が必要です。
 
 ## 結論と次のステップ
 

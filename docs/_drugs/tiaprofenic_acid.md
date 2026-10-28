@@ -6,14 +6,15 @@ title: Tiaprofenic Acid
 parent: モデル予測のみ (L5)
 nav_order: 171
 evidence_level: L5
-indication_count: 1
+indication_count: 0
 last_modified_at: 2026-09-17
+predicted_indications: []
 ---
 
 # Tiaprofenic Acid
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **1** 件
+エビデンスレベル: **L5** | 予測適応症: **0** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -49,24 +50,14 @@ TxGNN モデルは、本剤が複数の希少な骨発育不全疾患に有効�
 | 予測新適応症 | Brachydactyly-Syndactyly Syndrome（第1位） |
 | TxGNN 予測スコア | 99.99%（最高スコア） |
 | エビデンスレベル | L5（予測のみ） |
-| 日本市販状況 | 本サイトのデータに未収載 |
-| 承認番号数 | — |
+| 日本市販状況 | 国内未承認（承認記録なし） |
+| 承認番号数 | 0 件（有効 0 件） |
 | 推奨判断 | Hold |
 
 ## TxGNN 予測適応症一覧
 
 | 順位 | 予測疾患 | TxGNN スコア | 疾患タイプ |
 |-----|---------|-----------|---------|
-| 1 | Brachydactyly-Syndactyly Syndrome | 99.99% | 骨発育異常 |
-| 2 | Colobomatous Microphthalmia-Rhizomelic Dysplasia Syndrome | 99.99% | 骨発育異常 |
-| 3 | Brachyolmia-Amelogenesis Imperfecta Syndrome | 99.99% | 骨発育異常 |
-| 4 | Acromesomelic Dysplasia, Hunter-Thompson Type | 99.99% | 骨発育異常 |
-| 5 | Myosclerosis | 99.99% | 筋疾患 |
-| 6 | Spondyloarthropathy, Susceptibility to | 99.99% | 脊椎関節症 |
-| 7 | Brachyolmia | 99.99% | 骨発育異常 |
-| 8 | Factor 5 Excess with Spontaneous Thrombosis | 99.98% | 凝固異常 |
-| 9 | Heparin Cofactor 2 Deficiency | 99.98% | 凝固異常 |
-| 10 | Pseudoachondroplasia | 99.98% | 骨発育異常 |
 
 **パターンの観察：** 予測結果は、骨発育不全および関連する遺伝性疾患に高度に集中しています。
 
