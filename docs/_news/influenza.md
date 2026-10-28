@@ -3,7 +3,7 @@ layout: default
 title: "インフルエンザ (influenza) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 3 件、関連医薬品 1 件。"
+description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 5 件、関連医薬品 1 件。"
 permalink: /news/influenza/
 last_modified_at: 2026-10-28
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="インフルエンザ (influenza) に関するニュースは？">
-<strong>インフルエンザ (influenza)</strong> には現在 <strong>3 件</strong>の関連ニュースと 1 件の関連医薬品があります。
+<strong>インフルエンザ (influenza)</strong> には現在 <strong>5 件</strong>の関連ニュースと 1 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,29 @@ last_modified_at: 2026-10-28
 </ul>
 </div>
 
-## 関連ニュース（3 件）
+## 関連ニュース（5 件）
 
-### [【今年から来年にかけてのインフルエンザ見通し】早く始まり、緩やかに広がる“じわじわ型”。年明けに別の型で再び流行する可能性も。クリニックフォアがワクチン接種・受診方法・予防内服を徹底解説 - PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE83cjRuWHB5cUFqV25NcDcycnhPYnNocTNfWFB2aHdfZGk5dUNzTy1JNldBX1NzZ3NUZ1NDLXR3X1pxdFhsWkdnWFU4WVVFek1Mdm9YbkZoUU5seGtDTWtDT3dFYTRia3RMWmc?oc=5)
+### [【茅ヶ崎市・寒川町】茅ヶ崎・寒川でインフルエンザ流行発生注意報が発表！感染予防と対応策まとめ](https://news.google.com/rss/articles/CBMia0FVX3lxTE1HMzFMTjNERGdjRmF3U0VZTkxYbUk5MVdBRDJtS1NoU252SXp0QnFNb25yaVcyRkxzNU5BRnE0UXEwTDhLVkV4cHNFVDJIVzZBOGtYTkdvUnB3VFhqdWZnLW5QZ29SUTQ1YW1R?oc=5)
 
 2026-10-28
 
-出典: [PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE83cjRuWHB5cUFqV25NcDcycnhPYnNocTNfWFB2aHdfZGk5dUNzTy1JNldBX1NzZ3NUZ1NDLXR3X1pxdFhsWkdnWFU4WVVFek1Mdm9YbkZoUU5seGtDTWtDT3dFYTRia3RMWmc?oc=5)
+出典: [湘南人](https://news.google.com/rss/articles/CBMia0FVX3lxTE1HMzFMTjNERGdjRmF3U0VZTkxYbUk5MVdBRDJtS1NoU252SXp0QnFNb25yaVcyRkxzNU5BRnE0UXEwTDhLVkV4cHNFVDJIVzZBOGtYTkdvUnB3VFhqdWZnLW5QZ29SUTQ1YW1R?oc=5)
+
+---
+
+### [ライオン、歯みがき行動によりインフルエンザウイルスに反応する唾液中の免疫成分「IgA抗体」濃度が増加することを確認](https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZcHFuU3JrYl90X214elpDTVI1WXViaGlvaGswOFJ0LThLZjhDZWNwamQyNG1admJPeVNaLVEyaFpjMzhVVksxUjJ5Q1ZzWXR4aDc0c0ZWSWlRb242dUpQLXdlX1gxR21iWlk2Uw?oc=5)
+
+2026-10-28
+
+出典: [日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZcHFuU3JrYl90X214elpDTVI1WXViaGlvaGswOFJ0LThLZjhDZWNwamQyNG1admJPeVNaLVEyaFpjMzhVVksxUjJ5Q1ZzWXR4aDc0c0ZWSWlRb242dUpQLXdlX1gxR21iWlk2Uw?oc=5)
+
+---
+
+### [7歳の乳児が重度のA型インフルエンザ感染により重篤な状態、肺水腫と急性心筋炎を引き起こす](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZjM3cUZGcl9RWEtRNWY4OXF5eElHRXdZd2dBMHA2TUhhMjBrVUVseExDRkNfeGEzaml5X2VkcllJS2U0T1dMSmVEVEthdGNGXzR5aW1uTWszR0U1b2pJbVl3Um1vXzJLUmhsSFRBS0dGQ2Q2RUZoSmhTaDRPMlRfemJjLUROYmtIZ181RGE1cGxYckFMVkxzQ0R6ek5ib2ZDV2ZQelp5UzFSM05nSHo3d1NfTWo3Qy0xZWJTckNITG1KZw?oc=5)
+
+2026-10-28
+
+出典: [Laodong.vn](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZjM3cUZGcl9RWEtRNWY4OXF5eElHRXdZd2dBMHA2TUhhMjBrVUVseExDRkNfeGEzaml5X2VkcllJS2U0T1dMSmVEVEthdGNGXzR5aW1uTWszR0U1b2pJbVl3Um1vXzJLUmhsSFRBS0dGQ2Q2RUZoSmhTaDRPMlRfemJjLUROYmtIZ181RGE1cGxYckFMVkxzQ0R6ek5ib2ZDV2ZQelp5UzFSM05nSHo3d1NfTWo3Qy0xZWJTckNITG1KZw?oc=5)
 
 ---
 

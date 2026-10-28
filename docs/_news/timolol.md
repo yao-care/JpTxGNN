@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="デュオトラバ配合点眼液（選） に関するニュースは？">
-<strong>デュオトラバ配合点眼液（選）</strong> には現在 <strong>9 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
+<strong>デュオトラバ配合点眼液（選）</strong> には現在 <strong>10 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -33,13 +33,21 @@ last_modified_at: 2026-10-28
 <p><a href="{{ '/drugs/timolol/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（9 件）
+## 関連ニュース（10 件）
 
-### [介護者を支えるには？NCCN、がんになった大切な人を支えるための必携ガイドを発表 - ACROFAN Japan](https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5VHlEZEhOeEs4YVoxZzJyT3NwTHdieFJJaVZDSDU2dVctdERUTE9JMUROcldnWFV4QWI3QnZXTWpZeUZSbUZQa2dPVGNVa0FLakNPUTdNNmptSlU?oc=5)
+### [「意外！」減塩なのに物足りなくない。50代からの高血圧予防に「めんつゆ」に合わせると最強な飲み物とは【管理栄養士監修】(OTONA SALONE)](https://news.yahoo.co.jp/articles/a2862ade054964adceb1f899e4a7165b3e3e71de?source=rss)
 
-2026-10-27 <span class="news-indication-tag">がん</span>
+2026-10-28 <span class="news-indication-tag">高血圧</span>
 
-出典: [ACROFAN Japan](https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5VHlEZEhOeEs4YVoxZzJyT3NwTHdieFJJaVZDSDU2dVctdERUTE9JMUROcldnWFV4QWI3QnZXTWpZeUZSbUZQa2dPVGNVa0FLakNPUTdNNmptSlU?oc=5)
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/a2862ade054964adceb1f899e4a7165b3e3e71de?source=rss)
+
+---
+
+### [【梅宮アンナさん】乳がん闘病中であっても外見を整えることは前を向くための心(webマガジン mi](https://news.yahoo.co.jp/articles/3f1ba7e2e2cd5075d7e3f010c71cac0174c9472d?source=rss)
+
+2026-10-28 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
+
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/3f1ba7e2e2cd5075d7e3f010c71cac0174c9472d?source=rss)
 
 ---
 

@@ -37,6 +37,14 @@ last_modified_at: 2026-10-28
 
 ## 関連ニュース（4 件）
 
+### [「意外！」減塩なのに物足りなくない。50代からの高血圧予防に「めんつゆ」に合わせると最強な飲み物とは【管理栄養士監修】(OTONA SALONE)](https://news.yahoo.co.jp/articles/a2862ade054964adceb1f899e4a7165b3e3e71de?source=rss)
+
+2026-10-28 <span class="news-indication-tag">高血圧</span>
+
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/a2862ade054964adceb1f899e4a7165b3e3e71de?source=rss)
+
+---
+
 ### [お酒が引き起こす心臓病がある！ リスクが大きい飲み方とは：左党の一分：日経Gooday（グッデイ）](https://news.google.com/rss/articles/CBMijAFBVV95cUxQWXRmOE94LW5jeEtIcEUxVjFXQkJ1YkpTZHRSSEp1b0c3WjRZdTRtZlRkVWJEUGRPM1h2UnFBU2pYbnRuVk15X0J0aHZnS1A3Ymhjc0xZeXNyZGJfN0lrV0VIbnNzVnZIUFJnVjJsU3V3STFFMFBYRkhIWU0zT0JxbXpad2ZSNXdpcll5RA?oc=5)
 
 2026-10-27 <span class="news-indication-tag">心臓病</span>
@@ -58,14 +66,6 @@ last_modified_at: 2026-10-28
 2026-10-24 <span class="news-indication-tag">心臓病</span>
 
 出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/7956278a7c18ca5a18b20ffd29cd2d193627aa9b?source=rss)
-
----
-
-### [2型糖尿病のリスクを高める6つの要因](https://news.google.com/rss/articles/CBMimAFBVV95cUxNdGEzV0hMUGlheGFYZ1hzM0VWS1FocGwwRnp1RXNGbDlQMmVCNTkxZ3BwcnBXeXl2N1VnUldtME5lazJRX2lqY2I2NksxMnhId3dKdl9BT1RNT19zQzRhWURuZ3JvWmMxdVRReHVXbXM4aXFUalQ5WmtycF82bHFhT3drMTk5VThuX0VjN1RfUVVMZk9YS0JLXw?oc=5)
-
-2026-10-22 <span class="news-indication-tag">心臓病</span> <span class="news-indication-tag">2型糖尿病</span>
-
-出典: [Laodong.vn](https://news.google.com/rss/articles/CBMimAFBVV95cUxNdGEzV0hMUGlheGFYZ1hzM0VWS1FocGwwRnp1RXNGbDlQMmVCNTkxZ3BwcnBXeXl2N1VnUldtME5lazJRX2lqY2I2NksxMnhId3dKdl9BT1RNT19zQzRhWURuZ3JvWmMxdVRReHVXbXM4aXFUalQ5WmtycF82bHFhT3drMTk5VThuX0VjN1RfUVVMZk9YS0JLXw?oc=5)
 
 ---
 

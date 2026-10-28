@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」 に関するニュースは？">
-<strong>モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」</strong> には現在 <strong>10 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
+<strong>モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」</strong> には現在 <strong>9 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -33,21 +33,13 @@ last_modified_at: 2026-10-28
 <p><a href="{{ '/drugs/morphine/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（10 件）
+## 関連ニュース（9 件）
 
-### [【今年から来年にかけてのインフルエンザ見通し】早く始まり、緩やかに広がる“じわじわ型”。年明けに別の型で再び流行する可能性も。クリニックフォアがワクチン接種・受診方法・予防内服を徹底解説 - PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE83cjRuWHB5cUFqV25NcDcycnhPYnNocTNfWFB2aHdfZGk5dUNzTy1JNldBX1NzZ3NUZ1NDLXR3X1pxdFhsWkdnWFU4WVVFek1Mdm9YbkZoUU5seGtDTWtDT3dFYTRia3RMWmc?oc=5)
+### [【梅宮アンナさん】乳がん闘病中であっても外見を整えることは前を向くための心(webマガジン mi](https://news.yahoo.co.jp/articles/3f1ba7e2e2cd5075d7e3f010c71cac0174c9472d?source=rss)
 
-2026-10-28 <span class="news-indication-tag">インフルエンザ</span> <span class="news-indication-tag">風邪</span>
+2026-10-28 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
 
-出典: [PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE83cjRuWHB5cUFqV25NcDcycnhPYnNocTNfWFB2aHdfZGk5dUNzTy1JNldBX1NzZ3NUZ1NDLXR3X1pxdFhsWkdnWFU4WVVFek1Mdm9YbkZoUU5seGtDTWtDT3dFYTRia3RMWmc?oc=5)
-
----
-
-### [介護者を支えるには？NCCN、がんになった大切な人を支えるための必携ガイドを発表 - ACROFAN Japan](https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5VHlEZEhOeEs4YVoxZzJyT3NwTHdieFJJaVZDSDU2dVctdERUTE9JMUROcldnWFV4QWI3QnZXTWpZeUZSbUZQa2dPVGNVa0FLakNPUTdNNmptSlU?oc=5)
-
-2026-10-27 <span class="news-indication-tag">がん</span>
-
-出典: [ACROFAN Japan](https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5VHlEZEhOeEs4YVoxZzJyT3NwTHdieFJJaVZDSDU2dVctdERUTE9JMUROcldnWFV4QWI3QnZXTWpZeUZSbUZQa2dPVGNVa0FLakNPUTdNNmptSlU?oc=5)
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/3f1ba7e2e2cd5075d7e3f010c71cac0174c9472d?source=rss)
 
 ---
 

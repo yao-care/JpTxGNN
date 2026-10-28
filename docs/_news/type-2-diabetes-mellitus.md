@@ -3,7 +3,7 @@ layout: default
 title: "2型糖尿病 (type 2 diabetes mellitus) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "2型糖尿病 (type 2 diabetes mellitus) に関する健康ニュース。ニュース 5 件、関連医薬品 5 件。"
+description: "2型糖尿病 (type 2 diabetes mellitus) に関する健康ニュース。ニュース 4 件、関連医薬品 5 件。"
 permalink: /news/type-2-diabetes-mellitus/
 last_modified_at: 2026-10-28
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="2型糖尿病 (type 2 diabetes mellitus) に関するニュースは？">
-<strong>2型糖尿病 (type 2 diabetes mellitus)</strong> には現在 <strong>5 件</strong>の関連ニュースと 5 件の関連医薬品があります。
+<strong>2型糖尿病 (type 2 diabetes mellitus)</strong> には現在 <strong>4 件</strong>の関連ニュースと 5 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,7 @@ last_modified_at: 2026-10-28
 </ul>
 </div>
 
-## 関連ニュース（5 件）
+## 関連ニュース（4 件）
 
 ### [【2026年最新・徹底調査】30代で2型糖尿病と診断されたらその後の生活はどうなる？仕事・転職・結婚・妊娠・将来の合併症への不安をDライフが調査](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qUDlIQlQyMmk2QmEwV25STjQ4YmpIZk9lNFhnbXlpLUZHMGE2eXM0a09FNUxkTDNONjhlbURzMW96dW1OY3RVSFJobFhmOUIwcVVR?oc=5)
 
@@ -57,14 +57,6 @@ last_modified_at: 2026-10-28
 2026-10-27
 
 出典: [FYTTE](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBjUnk0Z0pqSnN3YUo3UkFOWkt3NDk3Vjc4Y2tpYngzWE1KRHVJN21SOV9QeWMzZDloVFJqbm1wWVM1TGFaU1V1TGMxVlJ3Zw?oc=5)
-
----
-
-### [中年期からの筋トレの継続は2型糖尿病発症リスクの低下と関係する：話題の論文 拾い読み！：日経Gooday（グッデイ）](https://news.google.com/rss/articles/CBMilAFBVV95cUxOMnJQMHNiOXBRSm90bmdXdmtaeDJ1WHFpWFhVdm1KMnVhckN2V1A3dkFSVDljRGNGaUxvQi1HdVppMTZLRlJYeHpmdk1LbWZZTmR3Z1ktYnB0b0dCenVPZC1DM0Nkd050ZGNRMXloT3pvR1JvbnJPN044bXRhSkgtWEZqNDdKdXZVcFlTTW5Qc1JpVkhZ?oc=5)
-
-2026-10-25
-
-出典: [日経Gooday](https://news.google.com/rss/articles/CBMilAFBVV95cUxOMnJQMHNiOXBRSm90bmdXdmtaeDJ1WHFpWFhVdm1KMnVhckN2V1A3dkFSVDljRGNGaUxvQi1HdVppMTZLRlJYeHpmdk1LbWZZTmR3Z1ktYnB0b0dCenVPZC1DM0Nkd050ZGNRMXloT3pvR1JvbnJPN044bXRhSkgtWEZqNDdKdXZVcFlTTW5Qc1JpVkhZ?oc=5)
 
 ---
 

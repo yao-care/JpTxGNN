@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="メホビル配合錠ＨＤ「トーワ」 に関するニュースは？">
-<strong>メホビル配合錠ＨＤ「トーワ」</strong> には現在 <strong>5 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
+<strong>メホビル配合錠ＨＤ「トーワ」</strong> には現在 <strong>4 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,7 @@ last_modified_at: 2026-10-28
 <p><a href="{{ '/drugs/metformin/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（5 件）
+## 関連ニュース（4 件）
 
 ### [【2026年最新・徹底調査】30代で2型糖尿病と診断されたらその後の生活はどうなる？仕事・転職・結婚・妊娠・将来の合併症への不安をDライフが調査](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qUDlIQlQyMmk2QmEwV25STjQ4YmpIZk9lNFhnbXlpLUZHMGE2eXM0a09FNUxkTDNONjhlbURzMW96dW1OY3RVSFJobFhmOUIwcVVR?oc=5)
 
@@ -59,17 +59,9 @@ last_modified_at: 2026-10-28
 
 ---
 
-### [中年期からの筋トレの継続は2型糖尿病発症リスクの低下と関係する：話題の論文 拾い読み！：日経Gooday（グッデイ）](https://news.google.com/rss/articles/CBMilAFBVV95cUxOMnJQMHNiOXBRSm90bmdXdmtaeDJ1WHFpWFhVdm1KMnVhckN2V1A3dkFSVDljRGNGaUxvQi1HdVppMTZLRlJYeHpmdk1LbWZZTmR3Z1ktYnB0b0dCenVPZC1DM0Nkd050ZGNRMXloT3pvR1JvbnJPN044bXRhSkgtWEZqNDdKdXZVcFlTTW5Qc1JpVkhZ?oc=5)
-
-2026-10-25 <span class="news-indication-tag">2型糖尿病</span>
-
-出典: [日経Gooday](https://news.google.com/rss/articles/CBMilAFBVV95cUxOMnJQMHNiOXBRSm90bmdXdmtaeDJ1WHFpWFhVdm1KMnVhckN2V1A3dkFSVDljRGNGaUxvQi1HdVppMTZLRlJYeHpmdk1LbWZZTmR3Z1ktYnB0b0dCenVPZC1DM0Nkd050ZGNRMXloT3pvR1JvbnJPN044bXRhSkgtWEZqNDdKdXZVcFlTTW5Qc1JpVkhZ?oc=5)
-
----
-
 ### [2型糖尿病のリスクを高める6つの要因](https://news.google.com/rss/articles/CBMimAFBVV95cUxNdGEzV0hMUGlheGFYZ1hzM0VWS1FocGwwRnp1RXNGbDlQMmVCNTkxZ3BwcnBXeXl2N1VnUldtME5lazJRX2lqY2I2NksxMnhId3dKdl9BT1RNT19zQzRhWURuZ3JvWmMxdVRReHVXbXM4aXFUalQ5WmtycF82bHFhT3drMTk5VThuX0VjN1RfUVVMZk9YS0JLXw?oc=5)
 
-2026-10-22 <span class="news-indication-tag">心臓病</span> <span class="news-indication-tag">2型糖尿病</span>
+2026-10-22 <span class="news-indication-tag">2型糖尿病</span>
 
 出典: [Laodong.vn](https://news.google.com/rss/articles/CBMimAFBVV95cUxNdGEzV0hMUGlheGFYZ1hzM0VWS1FocGwwRnp1RXNGbDlQMmVCNTkxZ3BwcnBXeXl2N1VnUldtME5lazJRX2lqY2I2NksxMnhId3dKdl9BT1RNT19zQzRhWURuZ3JvWmMxdVRReHVXbXM4aXFUalQ5WmtycF82bHFhT3drMTk5VThuX0VjN1RfUVVMZk9YS0JLXw?oc=5)
 

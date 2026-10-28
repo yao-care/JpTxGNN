@@ -3,7 +3,7 @@ layout: default
 title: "心臓病 (heart_disease) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "心臓病 (heart_disease) に関する健康ニュース。ニュース 4 件、関連医薬品 41 件。"
+description: "心臓病 (heart_disease) に関する健康ニュース。ニュース 3 件、関連医薬品 41 件。"
 permalink: /news/heart-disease/
 last_modified_at: 2026-10-28
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="心臓病 (heart_disease) に関するニュースは？">
-<strong>心臓病 (heart_disease)</strong> には現在 <strong>4 件</strong>の関連ニュースと 41 件の関連医薬品があります。
+<strong>心臓病 (heart_disease)</strong> には現在 <strong>3 件</strong>の関連ニュースと 41 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -70,7 +70,7 @@ last_modified_at: 2026-10-28
 </ul>
 </div>
 
-## 関連ニュース（4 件）
+## 関連ニュース（3 件）
 
 ### [お酒が引き起こす心臓病がある！ リスクが大きい飲み方とは：左党の一分：日経Gooday（グッデイ）](https://news.google.com/rss/articles/CBMijAFBVV95cUxQWXRmOE94LW5jeEtIcEUxVjFXQkJ1YkpTZHRSSEp1b0c3WjRZdTRtZlRkVWJEUGRPM1h2UnFBU2pYbnRuVk15X0J0aHZnS1A3Ymhjc0xZeXNyZGJfN0lrV0VIbnNzVnZIUFJnVjJsU3V3STFFMFBYRkhIWU0zT0JxbXpad2ZSNXdpcll5RA?oc=5)
 
@@ -93,14 +93,6 @@ last_modified_at: 2026-10-28
 2026-10-24
 
 出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/7956278a7c18ca5a18b20ffd29cd2d193627aa9b?source=rss)
-
----
-
-### [2型糖尿病のリスクを高める6つの要因](https://news.google.com/rss/articles/CBMimAFBVV95cUxNdGEzV0hMUGlheGFYZ1hzM0VWS1FocGwwRnp1RXNGbDlQMmVCNTkxZ3BwcnBXeXl2N1VnUldtME5lazJRX2lqY2I2NksxMnhId3dKdl9BT1RNT19zQzRhWURuZ3JvWmMxdVRReHVXbXM4aXFUalQ5WmtycF82bHFhT3drMTk5VThuX0VjN1RfUVVMZk9YS0JLXw?oc=5)
-
-2026-10-22
-
-出典: [Laodong.vn](https://news.google.com/rss/articles/CBMimAFBVV95cUxNdGEzV0hMUGlheGFYZ1hzM0VWS1FocGwwRnp1RXNGbDlQMmVCNTkxZ3BwcnBXeXl2N1VnUldtME5lazJRX2lqY2I2NksxMnhId3dKdl9BT1RNT19zQzRhWURuZ3JvWmMxdVRReHVXbXM4aXFUalQ5WmtycF82bHFhT3drMTk5VThuX0VjN1RfUVVMZk9YS0JLXw?oc=5)
 
 ---
 
