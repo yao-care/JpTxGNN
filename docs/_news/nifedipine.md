@@ -3,7 +3,7 @@ layout: default
 title: "アダラートＣＲ錠４０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "アダラートＣＲ錠４０ｍｇ（選） に関する健康ニュース。予測適応症 3 件。"
+description: "アダラートＣＲ錠４０ｍｇ（選） に関する健康ニュース。予測適応症 0 件。"
 permalink: /news/nifedipine/
 last_modified_at: 2026-10-28
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="アダラートＣＲ錠４０ｍｇ（選） に関するニュースは？">
-<strong>アダラートＣＲ錠４０ｍｇ（選）</strong> には現在 <strong>4 件</strong>の関連ニュースがあり、予測適応症は 3 件です。
+<strong>アダラートＣＲ錠４０ｍｇ（選）</strong> には現在 <strong>3 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -26,24 +26,11 @@ last_modified_at: 2026-10-28
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（3 件）</strong>:<ul>
-<li>脳幹性前兆を伴う片頭痛 (Migraine with brainstem aura)</li>
-<li>悪性腎血管性高血圧</li>
-<li>肺疾患・低酸素に伴う肺高血圧症</li>
-</ul></li>
 </ul>
 <p><a href="{{ '/drugs/nifedipine/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（4 件）
-
-### [「意外！」減塩なのに物足りなくない。50代からの高血圧予防に「めんつゆ」に合わせると最強な飲み物とは【管理栄養士監修】(OTONA SALONE)](https://news.yahoo.co.jp/articles/a2862ade054964adceb1f899e4a7165b3e3e71de?source=rss)
-
-2026-10-28 <span class="news-indication-tag">高血圧</span>
-
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/a2862ade054964adceb1f899e4a7165b3e3e71de?source=rss)
-
----
+## 関連ニュース（3 件）
 
 ### [お酒が引き起こす心臓病がある！ リスクが大きい飲み方とは：左党の一分：日経Gooday（グッデイ）](https://news.google.com/rss/articles/CBMijAFBVV95cUxQWXRmOE94LW5jeEtIcEUxVjFXQkJ1YkpTZHRSSEp1b0c3WjRZdTRtZlRkVWJEUGRPM1h2UnFBU2pYbnRuVk15X0J0aHZnS1A3Ymhjc0xZeXNyZGJfN0lrV0VIbnNzVnZIUFJnVjJsU3V3STFFMFBYRkhIWU0zT0JxbXpad2ZSNXdpcll5RA?oc=5)
 

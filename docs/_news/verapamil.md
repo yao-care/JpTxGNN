@@ -3,7 +3,7 @@ layout: default
 title: "ワソラン錠４０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ワソラン錠４０ｍｇ（選） に関する健康ニュース。予測適応症 10 件。"
+description: "ワソラン錠４０ｍｇ（選） に関する健康ニュース。予測適応症 6 件。"
 permalink: /news/verapamil/
 last_modified_at: 2026-10-28
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="ワソラン錠４０ｍｇ（選） に関するニュースは？">
-<strong>ワソラン錠４０ｍｇ（選）</strong> には現在 <strong>14 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>ワソラン錠４０ｍｇ（選）</strong> には現在 <strong>12 件</strong>の関連ニュースがあり、予測適応症は 6 件です。
 </p>
 
 <div class="key-takeaway">
@@ -26,39 +26,19 @@ last_modified_at: 2026-10-28
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
+<li><strong>予測適応症（6 件）</strong>:<ul>
 <li>閉塞性脚ブロック (obsolete bundle branch block)</li>
-<li>悪性高血圧性腎疾患</li>
-<li>悪性腎血管性高血圧</li>
-<li>原因不明の多因子性肺高血圧症</li>
-<li>肺疾患・低酸素に伴う肺高血圧症</li>
-<li>Braddock 症候群</li>
-<li>一過性コンパートメント様症候群を伴う周期性麻痺</li>
-<li>虚血性脳卒中感受性（obsolete）</li>
-<li>不整脈原性右室心筋症</li>
-<li>脳幹梗塞</li>
+<li>悪性高血圧性腎疾患 (malignant hypertensive renal disease)</li>
+<li>肺疾患・低酸素に伴う肺高血圧症 (pulmonary hypertension owing to lung disease and/or hypoxia)</li>
+<li>原因不明の多因子性肺高血圧症 (pulmonary hypertension with unclear multifactorial mechanism)</li>
+<li>Braddock syndrome</li>
+<li>periodic paralysis with transient compartment-like syndrome</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/verapamil/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（14 件）
-
-### [「意外！」減塩なのに物足りなくない。50代からの高血圧予防に「めんつゆ」に合わせると最強な飲み物とは【管理栄養士監修】(OTONA SALONE)](https://news.yahoo.co.jp/articles/a2862ade054964adceb1f899e4a7165b3e3e71de?source=rss)
-
-2026-10-28 <span class="news-indication-tag">高血圧</span>
-
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/a2862ade054964adceb1f899e4a7165b3e3e71de?source=rss)
-
----
-
-### [【梅宮アンナさん】乳がん闘病中であっても外見を整えることは前を向くための心(webマガジン mi](https://news.yahoo.co.jp/articles/3f1ba7e2e2cd5075d7e3f010c71cac0174c9472d?source=rss)
-
-2026-10-28 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
-
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/3f1ba7e2e2cd5075d7e3f010c71cac0174c9472d?source=rss)
-
----
+## 関連ニュース（12 件）
 
 ### [お酒が引き起こす心臓病がある！ リスクが大きい飲み方とは：左党の一分：日経Gooday（グッデイ）](https://news.google.com/rss/articles/CBMijAFBVV95cUxQWXRmOE94LW5jeEtIcEUxVjFXQkJ1YkpTZHRSSEp1b0c3WjRZdTRtZlRkVWJEUGRPM1h2UnFBU2pYbnRuVk15X0J0aHZnS1A3Ymhjc0xZeXNyZGJfN0lrV0VIbnNzVnZIUFJnVjJsU3V3STFFMFBYRkhIWU0zT0JxbXpad2ZSNXdpcll5RA?oc=5)
 

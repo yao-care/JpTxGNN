@@ -3,7 +3,7 @@ layout: default
 title: "クラビット点眼液１．５％（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "クラビット点眼液１．５％（選） に関する健康ニュース。予測適応症 3 件。"
+description: "クラビット点眼液１．５％（選） に関する健康ニュース。予測適応症 10 件。"
 permalink: /news/levofloxacin/
 last_modified_at: 2026-10-28
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="クラビット点眼液１．５％（選） に関するニュースは？">
-<strong>クラビット点眼液１．５％（選）</strong> には現在 <strong>12 件</strong>の関連ニュースがあり、予測適応症は 3 件です。
+<strong>クラビット点眼液１．５％（選）</strong> には現在 <strong>11 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -26,24 +26,23 @@ last_modified_at: 2026-10-28
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L4</li>
-<li><strong>予測適応症（3 件）</strong>:<ul>
-<li>点状表層角結膜炎 (punctate epithelial keratoconjunctivitis)</li>
-<li>単クローン性免疫グロブリン血症</li>
-<li>敗血症型ペスト</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>点状表層角膜炎 (punctate epithelial keratoconjunctivitis)</li>
+<li>高アミラーゼ血症 (hyperamylasemia)</li>
+<li>多クローン性高粘稠度症候群 (polyclonal hyperviscosity syndrome)</li>
+<li>congenital analbuminemia</li>
+<li>blood group incompatibility</li>
+<li>premalignant hematological system disease</li>
+<li>monoclonal gammopathy</li>
+<li>hematological disease associated with an acquired peripheral neuropathy</li>
+<li>septicemic plague</li>
+<li>congenital hematological disorder</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/levofloxacin/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（12 件）
-
-### [【梅宮アンナさん】乳がん闘病中であっても外見を整えることは前を向くための心(webマガジン mi](https://news.yahoo.co.jp/articles/3f1ba7e2e2cd5075d7e3f010c71cac0174c9472d?source=rss)
-
-2026-10-28 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
-
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/3f1ba7e2e2cd5075d7e3f010c71cac0174c9472d?source=rss)
-
----
+## 関連ニュース（11 件）
 
 ### [お酒が引き起こす心臓病がある！ リスクが大きい飲み方とは：左党の一分：日経Gooday（グッデイ）](https://news.google.com/rss/articles/CBMijAFBVV95cUxQWXRmOE94LW5jeEtIcEUxVjFXQkJ1YkpTZHRSSEp1b0c3WjRZdTRtZlRkVWJEUGRPM1h2UnFBU2pYbnRuVk15X0J0aHZnS1A3Ymhjc0xZeXNyZGJfN0lrV0VIbnNzVnZIUFJnVjJsU3V3STFFMFBYRkhIWU0zT0JxbXpad2ZSNXdpcll5RA?oc=5)
 

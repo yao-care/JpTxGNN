@@ -26,9 +26,7 @@ last_modified_at: 2026-10-28
 <strong>関連医薬品レポート</strong>
 <p>以下の医薬品の予測適応症は、この疾患と関連している可能性があります：</p>
 <ul>
-<li><a href="{{ '/drugs/gliclazide/' | relative_url }}">グリミクロン錠４０ｍｇ（選）</a></li>
 <li><a href="{{ '/drugs/glimepiride/' | relative_url }}">アマリール０．５ｍｇ錠（選）</a></li>
-<li><a href="{{ '/drugs/glyburide/' | relative_url }}">オイグルコン錠２．５ｍｇ（選）</a></li>
 <li><a href="{{ '/drugs/metformin/' | relative_url }}">メホビル配合錠ＨＤ「トーワ」</a></li>
 <li><a href="{{ '/drugs/pioglitazone/' | relative_url }}">アクトスＯＤ錠３０　３０ｍｇ（選）</a></li>
 </ul>

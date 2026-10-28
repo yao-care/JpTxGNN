@@ -3,7 +3,7 @@ layout: default
 title: "ゾビラックス軟膏５％（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ゾビラックス軟膏５％（選） に関する健康ニュース。予測適応症 1 件。"
+description: "ゾビラックス軟膏５％（選） に関する健康ニュース。予測適応症 10 件。"
 permalink: /news/acyclovir/
 last_modified_at: 2026-10-28
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="ゾビラックス軟膏５％（選） に関するニュースは？">
-<strong>ゾビラックス軟膏５％（選）</strong> には現在 <strong>11 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
+<strong>ゾビラックス軟膏５％（選）</strong> には現在 <strong>10 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -26,28 +26,29 @@ last_modified_at: 2026-10-28
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（1 件）</strong>:<ul>
-<li>点状表層角結膜炎 (Punctate Epithelial Keratoconjunctivitis)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>点状表層角膜炎 (punctate epithelial keratoconjunctivitis)</li>
+<li>尋常性疣贅 (common wart)</li>
+<li>post-infectious neuralgia</li>
+<li>hepatitis C induced liver cirrhosis</li>
+<li>eosinophilic pustular folliculitis</li>
+<li>sequela of COVID-19</li>
+<li>外陰膣カンジダ症 (vulvovaginal candidiasis)</li>
+<li>papular urticaria</li>
+<li>disease of orbital region</li>
+<li>epidemic keratoconjunctivitis</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/acyclovir/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（11 件）
+## 関連ニュース（10 件）
 
-### [【梅宮アンナさん】乳がん闘病中であっても外見を整えることは前を向くための心(webマガジン mi](https://news.yahoo.co.jp/articles/3f1ba7e2e2cd5075d7e3f010c71cac0174c9472d?source=rss)
-
-2026-10-28 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
-
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/3f1ba7e2e2cd5075d7e3f010c71cac0174c9472d?source=rss)
-
----
-
-### [コロナ･インフル･帯状疱疹で脳が縮む!? 身近なウイルスがアルツハイマーを引き起こす恐怖のメカニズム(東洋経済オンライン)](https://news.google.com/rss/articles/CBMihwFBVV95cUxNZW1VRHNCUmFxc2hhbDZsT3NfdFFFZnR0X3VxNzNRWWxWNHFuQ3hIX3p1TWoyV2FhY1JYWnNMamRxN1dIRDRZX3NxXzRqbks1SGhYeUtBVG5ZdVRrMFJSSEY4TGtqbmRTSGR3QUtZX2wxTmVWUkZxclozM1ZRWDBUQXdYaUthU3c?oc=5)
+### [コロナ･インフル･帯状疱疹で脳が縮む!? 身近なウイルスがアルツハイマーを引き起こす恐怖のメカニズム（東洋経済オンライン）](https://news.google.com/rss/articles/CBMifkFVX3lxTE4zODY0bE54dmNPNDNkcmZqYUFHMV9vd3l0TVB2cm5XbWkxTXhwWVdpTldmSUUza2stWlZzU0g3N3N2RFRDRV93MUVrb3g0SXRNeVBaU3ZpcG96NVNzdzlvSkZvVXhjaU1lUWNBSV9EOHpuYlEySW1JTmxqZjhqZw?oc=5)
 
 2026-10-27 <span class="news-indication-tag">帯状疱疹</span>
 
-出典: [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxNZW1VRHNCUmFxc2hhbDZsT3NfdFFFZnR0X3VxNzNRWWxWNHFuQ3hIX3p1TWoyV2FhY1JYWnNMamRxN1dIRDRZX3NxXzRqbks1SGhYeUtBVG5ZdVRrMFJSSEY4TGtqbmRTSGR3QUtZX2wxTmVWUkZxclozM1ZRWDBUQXdYaUthU3c?oc=5)
+出典: [ｄメニューニュース](https://news.google.com/rss/articles/CBMifkFVX3lxTE4zODY0bE54dmNPNDNkcmZqYUFHMV9vd3l0TVB2cm5XbWkxTXhwWVdpTldmSUUza2stWlZzU0g3N3N2RFRDRV93MUVrb3g0SXRNeVBaU3ZpcG96NVNzdzlvSkZvVXhjaU1lUWNBSV9EOHpuYlEySW1JTmxqZjhqZw?oc=5)
 
 ---
 

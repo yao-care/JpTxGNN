@@ -3,7 +3,7 @@ layout: default
 title: "ディレグラ配合錠（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ディレグラ配合錠（選） に関する健康ニュース。予測適応症 5 件。"
+description: "ディレグラ配合錠（選） に関する健康ニュース。予測適応症 1 件。"
 permalink: /news/fexofenadine/
 last_modified_at: 2026-10-28
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="ディレグラ配合錠（選） に関するニュースは？">
-<strong>ディレグラ配合錠（選）</strong> には現在 <strong>3 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>ディレグラ配合錠（選）</strong> には現在 <strong>3 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -26,12 +26,8 @@ last_modified_at: 2026-10-28
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（5 件）</strong>:<ul>
-<li>酒さ性結膜炎 (Rosacea Conjunctivitis)</li>
-<li>点状表層角結膜炎</li>
-<li>眼瞼結膜炎</li>
-<li>ウイルス性結膜炎</li>
-<li>眼瞼の非感染性皮膚疾患</li>
+<li><strong>予測適応症（1 件）</strong>:<ul>
+<li>酒さ性結膜炎 (rosacea conjunctivitis)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/fexofenadine/' | relative_url }}">医薬品レポート全文を見る →</a></p>

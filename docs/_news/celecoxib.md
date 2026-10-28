@@ -3,7 +3,7 @@ layout: default
 title: "セレコックス錠２００ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "セレコックス錠２００ｍｇ（選） に関する健康ニュース。予測適応症 4 件。"
+description: "セレコックス錠２００ｍｇ（選） に関する健康ニュース。予測適応症 7 件。"
 permalink: /news/celecoxib/
 last_modified_at: 2026-10-28
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="セレコックス錠２００ｍｇ（選） に関するニュースは？">
-<strong>セレコックス錠２００ｍｇ（選）</strong> には現在 <strong>9 件</strong>の関連ニュースがあり、予測適応症は 4 件です。
+<strong>セレコックス錠２００ｍｇ（選）</strong> には現在 <strong>8 件</strong>の関連ニュースがあり、予測適応症は 7 件です。
 </p>
 
 <div class="key-takeaway">
@@ -26,25 +26,20 @@ last_modified_at: 2026-10-28
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（4 件）</strong>:<ul>
-<li>先端中間肢異形成症 Hunter-Thompson 型 (acromesomelic dysplasia, Hunter-Thompson type)</li>
-<li>炎症性脊椎症（強直性脊椎炎・体軸性脊椎関節炎）</li>
-<li>リウマトイド因子陽性多関節型若年性特発性関節炎</li>
-<li>リウマチ性血管炎</li>
+<li><strong>予測適応症（7 件）</strong>:<ul>
+<li>先端中肢異形成 Hunter-Thompson 型 (acromesomelic dysplasia, Hunter-Thompson type)</li>
+<li>brachyolmia-amelogenesis imperfecta syndrome</li>
+<li>myosclerosis</li>
+<li>尾骨過可動症 (hypermobility of coccyx)</li>
+<li>brachyolmia</li>
+<li>rheumatoid nodulosis</li>
+<li>WHIM syndrome</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/celecoxib/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（9 件）
-
-### [【梅宮アンナさん】乳がん闘病中であっても外見を整えることは前を向くための心(webマガジン mi](https://news.yahoo.co.jp/articles/3f1ba7e2e2cd5075d7e3f010c71cac0174c9472d?source=rss)
-
-2026-10-28 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
-
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/3f1ba7e2e2cd5075d7e3f010c71cac0174c9472d?source=rss)
-
----
+## 関連ニュース（8 件）
 
 ### [2型糖尿病患者で肥満関連がんの罹患率が増加｜ニュース](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JbXQ4MXk1Q1RFZWViLWItcUw1NnhMMVlod1VWYm9tMEJqREVpOEQ0MVcyNlB0ZC0zT2Z4b1ZEaldueDF0dXJnSVV3MDl4Rk5HSnhmR3VHanRVSXhmWkFTTE8tOHNRNkVp?oc=5)
 

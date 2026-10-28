@@ -3,7 +3,7 @@ layout: default
 title: "プラスグレル錠５ｍｇ「ＤＳＥＰ」 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "プラスグレル錠５ｍｇ「ＤＳＥＰ」 に関する健康ニュース。予測適応症 1 件。"
+description: "プラスグレル錠５ｍｇ「ＤＳＥＰ」 に関する健康ニュース。予測適応症 9 件。"
 permalink: /news/prasugrel/
 last_modified_at: 2026-10-28
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="プラスグレル錠５ｍｇ「ＤＳＥＰ」 に関するニュースは？">
-<strong>プラスグレル錠５ｍｇ「ＤＳＥＰ」</strong> には現在 <strong>13 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
+<strong>プラスグレル錠５ｍｇ「ＤＳＥＰ」</strong> には現在 <strong>12 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
 </p>
 
 <div class="key-takeaway">
@@ -26,22 +26,22 @@ last_modified_at: 2026-10-28
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（1 件）</strong>:<ul>
-<li>肺高血圧症 (Pulmonary Hypertension)</li>
+<li><strong>予測適応症（9 件）</strong>:<ul>
+<li>肺高血圧症 (pulmonary hypertension)</li>
+<li>片頭痛 (migraine disorder)</li>
+<li>脳幹性前兆を伴う片頭痛 (migraine with brainstem aura)</li>
+<li>kyphoscoliotic heart disease</li>
+<li>関節リウマチ (rheumatoid arthritis)</li>
+<li>ホモ接合体家族性高コレステロール血症 (homozygous familial hypercholesterolemia)</li>
+<li>低αリポタンパク血症 (hypoalphalipoproteinemia)</li>
+<li>短指症候群 (brachydactyly-syndactyly syndrome)</li>
+<li>leprosy</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/prasugrel/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（13 件）
-
-### [【梅宮アンナさん】乳がん闘病中であっても外見を整えることは前を向くための心(webマガジン mi](https://news.yahoo.co.jp/articles/3f1ba7e2e2cd5075d7e3f010c71cac0174c9472d?source=rss)
-
-2026-10-28 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
-
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/3f1ba7e2e2cd5075d7e3f010c71cac0174c9472d?source=rss)
-
----
+## 関連ニュース（12 件）
 
 ### [お酒が引き起こす心臓病がある！ リスクが大きい飲み方とは：左党の一分：日経Gooday（グッデイ）](https://news.google.com/rss/articles/CBMijAFBVV95cUxQWXRmOE94LW5jeEtIcEUxVjFXQkJ1YkpTZHRSSEp1b0c3WjRZdTRtZlRkVWJEUGRPM1h2UnFBU2pYbnRuVk15X0J0aHZnS1A3Ymhjc0xZeXNyZGJfN0lrV0VIbnNzVnZIUFJnVjJsU3V3STFFMFBYRkhIWU0zT0JxbXpad2ZSNXdpcll5RA?oc=5)
 

@@ -3,7 +3,7 @@ layout: default
 title: "ザルティア錠５ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ザルティア錠５ｍｇ（選） に関する健康ニュース。予測適応症 1 件。"
+description: "ザルティア錠５ｍｇ（選） に関する健康ニュース。予測適応症 8 件。"
 permalink: /news/tadalafil/
 last_modified_at: 2026-10-28
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="ザルティア錠５ｍｇ（選） に関するニュースは？">
-<strong>ザルティア錠５ｍｇ（選）</strong> には現在 <strong>4 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
+<strong>ザルティア錠５ｍｇ（選）</strong> には現在 <strong>4 件</strong>の関連ニュースがあり、予測適応症は 8 件です。
 </p>
 
 <div class="key-takeaway">
@@ -26,8 +26,15 @@ last_modified_at: 2026-10-28
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（1 件）</strong>:<ul>
-<li>Ambras 型汎発性先天性多毛症 (Ambras type hypertrichosis universalis congenita)</li>
+<li><strong>予測適応症（8 件）</strong>:<ul>
+<li>アンブラス型先天性全身性多毛症 (Ambras type hypertrichosis universalis congenita)</li>
+<li>hypertrichosis (disease)</li>
+<li>歯・歯周組織の異常を伴う奇形症候群 (malformation syndrome with odontal and/or periodontal component)</li>
+<li>syndrome with a Dandy-Walker malformation as major feature</li>
+<li>isolated genetic hair shaft abnormality</li>
+<li>familial isolated trichomegaly</li>
+<li>kyphoscoliotic heart disease</li>
+<li>脳幹性前兆を伴う片頭痛 (migraine with brainstem aura)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tadalafil/' | relative_url }}">医薬品レポート全文を見る →</a></p>

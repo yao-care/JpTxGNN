@@ -3,7 +3,7 @@ layout: default
 title: "メホビル配合錠ＨＤ「トーワ」 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "メホビル配合錠ＨＤ「トーワ」 に関する健康ニュース。予測適応症 1 件。"
+description: "メホビル配合錠ＨＤ「トーワ」 に関する健康ニュース。予測適応症 5 件。"
 permalink: /news/metformin/
 last_modified_at: 2026-10-28
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="メホビル配合錠ＨＤ「トーワ」 に関するニュースは？">
-<strong>メホビル配合錠ＨＤ「トーワ」</strong> には現在 <strong>4 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
+<strong>メホビル配合錠ＨＤ「トーワ」</strong> には現在 <strong>4 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -26,8 +26,12 @@ last_modified_at: 2026-10-28
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（1 件）</strong>:<ul>
-<li>焦点性スティッフリム症候群 (focal stiff limb syndrome)</li>
+<li><strong>予測適応症（5 件）</strong>:<ul>
+<li>限局性硬直肢症候群 (focal stiff limb syndrome)</li>
+<li>古典的スティッフパーソン症候群 (classic stiff person syndrome)</li>
+<li>オプシスモ異形成症 (opsismodysplasia)</li>
+<li>thiamine-responsive dysfunction syndrome</li>
+<li>drug-induced localized lipodystrophy</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/metformin/' | relative_url }}">医薬品レポート全文を見る →</a></p>

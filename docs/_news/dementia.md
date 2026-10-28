@@ -3,9 +3,9 @@ layout: default
 title: "認知症 (dementia) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "認知症 (dementia) に関する健康ニュース。ニュース 1 件、関連医薬品 2 件。"
+description: "認知症 (dementia) に関する健康ニュース。ニュース 2 件、関連医薬品 2 件。"
 permalink: /news/dementia/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 ---
 
 # 認知症 (dementia) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="認知症 (dementia) に関するニュースは？">
-<strong>認知症 (dementia)</strong> には現在 <strong>1 件</strong>の関連ニュースと 2 件の関連医薬品があります。
+<strong>認知症 (dementia)</strong> には現在 <strong>2 件</strong>の関連ニュースと 2 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,15 @@ last_modified_at: 2026-10-27
 </ul>
 </div>
 
-## 関連ニュース（1 件）
+## 関連ニュース（2 件）
+
+### [認知症は｢家系だから仕方ない｣は誤解だった…遺伝リスクが高くても発症リスクが約3割低かった人の生活習慣](https://news.google.com/rss/articles/CBMihwFBVV95cUxOcWNwWmdVNVBvMVg1NmVieUs0YVFiUGxSTnJodmhwX1NBaWx0UTFwRTRqNVF2WnE5emhoU2VfVnlTbFVPR1ZNU042aENoWTg2VERxVS1TOXo2aWNzN0swSG9kSEhBeU5kUUQwSHZCajAxa3dzbXFpMVU2UDYzVndodTN3U3dDUDQ?oc=5)
+
+2026-10-28
+
+出典: [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxOcWNwWmdVNVBvMVg1NmVieUs0YVFiUGxSTnJodmhwX1NBaWx0UTFwRTRqNVF2WnE5emhoU2VfVnlTbFVPR1ZNU042aENoWTg2VERxVS1TOXo2aWNzN0swSG9kSEhBeU5kUUQwSHZCajAxa3dzbXFpMVU2UDYzVndodTN3U3dDUDQ?oc=5)
+
+---
 
 ### [｢認知症から脳を守るには良い睡眠が重要｣…脳神経内科医が解説する最新研究でわかってきた"すごい役割"](https://news.google.com/rss/articles/CBMihwFBVV95cUxNOXh3bUpuNlVESGtIWFozMGlSRl9JRVlOenJPYVU1T3h0VUx2clplVjhQRTQwNmg2YnB2S0lFalc0c1FKOUVOMXR4RVlBb0JGSFpBRFhKUTBUbzBPenBYZEVibHVhMzNpMEIweEFrbE1XY2oxVzUtNDFmSmgyUHBZWUYwRFgyMGc?oc=5)
 

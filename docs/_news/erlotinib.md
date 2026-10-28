@@ -3,7 +3,7 @@ layout: default
 title: "エルロチニブ錠１５０ｍｇ「ＮＫ」 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "エルロチニブ錠１５０ｍｇ「ＮＫ」 に関する健康ニュース。予測適応症 1 件。"
+description: "エルロチニブ錠１５０ｍｇ「ＮＫ」 に関する健康ニュース。予測適応症 0 件。"
 permalink: /news/erlotinib/
 last_modified_at: 2026-10-28
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="エルロチニブ錠１５０ｍｇ「ＮＫ」 に関するニュースは？">
-<strong>エルロチニブ錠１５０ｍｇ「ＮＫ」</strong> には現在 <strong>10 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
+<strong>エルロチニブ錠１５０ｍｇ「ＮＫ」</strong> には現在 <strong>10 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -26,20 +26,17 @@ last_modified_at: 2026-10-28
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L4</li>
-<li><strong>予測適応症（1 件）</strong>:<ul>
-<li>ユーイング肉腫 (Ewing sarcoma)</li>
-</ul></li>
 </ul>
 <p><a href="{{ '/drugs/erlotinib/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
 ## 関連ニュース（10 件）
 
-### [【梅宮アンナさん】乳がん闘病中であっても外見を整えることは前を向くための心(webマガジン mi](https://news.yahoo.co.jp/articles/3f1ba7e2e2cd5075d7e3f010c71cac0174c9472d?source=rss)
+### [認知症は｢家系だから仕方ない｣は誤解だった…遺伝リスクが高くても発症リスクが約3割低かった人の生活習慣](https://news.google.com/rss/articles/CBMihwFBVV95cUxOcWNwWmdVNVBvMVg1NmVieUs0YVFiUGxSTnJodmhwX1NBaWx0UTFwRTRqNVF2WnE5emhoU2VfVnlTbFVPR1ZNU042aENoWTg2VERxVS1TOXo2aWNzN0swSG9kSEhBeU5kUUQwSHZCajAxa3dzbXFpMVU2UDYzVndodTN3U3dDUDQ?oc=5)
 
-2026-10-28 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
+2026-10-28 <span class="news-indication-tag">認知症</span>
 
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/3f1ba7e2e2cd5075d7e3f010c71cac0174c9472d?source=rss)
+出典: [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxOcWNwWmdVNVBvMVg1NmVieUs0YVFiUGxSTnJodmhwX1NBaWx0UTFwRTRqNVF2WnE5emhoU2VfVnlTbFVPR1ZNU042aENoWTg2VERxVS1TOXo2aWNzN0swSG9kSEhBeU5kUUQwSHZCajAxa3dzbXFpMVU2UDYzVndodTN3U3dDUDQ?oc=5)
 
 ---
 

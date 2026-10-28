@@ -3,9 +3,9 @@ layout: default
 title: "更年期 (menopause) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "更年期 (menopause) に関する健康ニュース。ニュース 1 件、関連医薬品 2 件。"
+description: "更年期 (menopause) に関する健康ニュース。ニュース 2 件、関連医薬品 2 件。"
 permalink: /news/menopause/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 ---
 
 # 更年期 (menopause) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="更年期 (menopause) に関するニュースは？">
-<strong>更年期 (menopause)</strong> には現在 <strong>1 件</strong>の関連ニュースと 2 件の関連医薬品があります。
+<strong>更年期 (menopause)</strong> には現在 <strong>2 件</strong>の関連ニュースと 2 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,15 @@ last_modified_at: 2026-10-27
 </ul>
 </div>
 
-## 関連ニュース（1 件）
+## 関連ニュース（2 件）
+
+### [【更年期世代の不眠対策】眠れない・疲れがとれない｜熟睡できるための呼吸とツボ押し方法(ヨガジャーナルオンライン)](https://news.yahoo.co.jp/articles/a43995c35fdcc987e49e4c2abad7d94095202725?source=rss)
+
+2026-10-28
+
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/a43995c35fdcc987e49e4c2abad7d94095202725?source=rss)
+
+---
 
 ### [インフル対策で注目。「実はお米でいう玄米」免疫が２倍活性化！更年期世代の太りやすさ、血糖値までケアする神調味料は【医師が解説】 - OTONA SALONE](https://news.google.com/rss/articles/CBMiRkFVX3lxTE9EUmV6LS1aTnNiNmFvQUJyRDlzQ2I0aUtqRmpiVVdVVkNNUDEwdFFPLVh1RmpYT19DLUNFaHZVdHJUT0hGNGc?oc=5)
 

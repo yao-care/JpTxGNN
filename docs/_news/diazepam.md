@@ -3,7 +3,7 @@ layout: default
 title: "ホリゾン錠５ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ホリゾン錠５ｍｇ（選） に関する健康ニュース。予測適応症 1 件。"
+description: "ホリゾン錠５ｍｇ（選） に関する健康ニュース。予測適応症 10 件。"
 permalink: /news/diazepam/
 last_modified_at: 2026-10-28
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="ホリゾン錠５ｍｇ（選） に関するニュースは？">
-<strong>ホリゾン錠５ｍｇ（選）</strong> には現在 <strong>9 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
+<strong>ホリゾン錠５ｍｇ（選）</strong> には現在 <strong>8 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -26,22 +26,23 @@ last_modified_at: 2026-10-28
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L4</li>
-<li><strong>予測適応症（1 件）</strong>:<ul>
-<li>不眠症 (insomnia)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>不眠症 (insomnia (disease))</li>
+<li>馬尾症候群 (cauda equina syndrome)</li>
+<li>入眠・睡眠維持障害 (sleep disorder, initiating and maintaining sleep)</li>
+<li>attention deficit hyperactivity disorder, inattentive type</li>
+<li>barbiturate abuse</li>
+<li>hallucinogen abuse</li>
+<li>antidepressant type abuse</li>
+<li>specific developmental disorder</li>
+<li>注意欠如・多動症 (attention deficit-hyperactivity disorder)</li>
+<li>obsolete neurogenic bladder (disease)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/diazepam/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（9 件）
-
-### [【梅宮アンナさん】乳がん闘病中であっても外見を整えることは前を向くための心(webマガジン mi](https://news.yahoo.co.jp/articles/3f1ba7e2e2cd5075d7e3f010c71cac0174c9472d?source=rss)
-
-2026-10-28 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
-
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/3f1ba7e2e2cd5075d7e3f010c71cac0174c9472d?source=rss)
-
----
+## 関連ニュース（8 件）
 
 ### [2型糖尿病患者で肥満関連がんの罹患率が増加｜ニュース](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JbXQ4MXk1Q1RFZWViLWItcUw1NnhMMVlod1VWYm9tMEJqREVpOEQ0MVcyNlB0ZC0zT2Z4b1ZEaldueDF0dXJnSVV3MDl4Rk5HSnhmR3VHanRVSXhmWkFTTE8tOHNRNkVp?oc=5)
 

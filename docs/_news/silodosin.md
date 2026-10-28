@@ -3,7 +3,7 @@ layout: default
 title: "ユリーフＯＤ錠４ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ユリーフＯＤ錠４ｍｇ（選） に関する健康ニュース。予測適応症 1 件。"
+description: "ユリーフＯＤ錠４ｍｇ（選） に関する健康ニュース。予測適応症 6 件。"
 permalink: /news/silodosin/
 last_modified_at: 2026-10-28
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="ユリーフＯＤ錠４ｍｇ（選） に関するニュースは？">
-<strong>ユリーフＯＤ錠４ｍｇ（選）</strong> には現在 <strong>3 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
+<strong>ユリーフＯＤ錠４ｍｇ（選）</strong> には現在 <strong>3 件</strong>の関連ニュースがあり、予測適応症は 6 件です。
 </p>
 
 <div class="key-takeaway">
@@ -26,8 +26,13 @@ last_modified_at: 2026-10-28
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（1 件）</strong>:<ul>
-<li>Ambras 型先天性汎発性多毛症 (Ambras type hypertrichosis universalis congenita)</li>
+<li><strong>予測適応症（6 件）</strong>:<ul>
+<li>アンブラス型先天性全身性多毛症 (Ambras type hypertrichosis universalis congenita)</li>
+<li>hypertrichosis (disease)</li>
+<li>歯・歯周組織の異常を伴う奇形症候群 (malformation syndrome with odontal and/or periodontal component)</li>
+<li>syndrome with a Dandy-Walker malformation as major feature</li>
+<li>isolated genetic hair shaft abnormality</li>
+<li>familial isolated trichomegaly</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/silodosin/' | relative_url }}">医薬品レポート全文を見る →</a></p>

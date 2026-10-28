@@ -3,7 +3,7 @@ layout: default
 title: "エンペシドクリーム１％（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "エンペシドクリーム１％（選） に関する健康ニュース。予測適応症 1 件。"
+description: "エンペシドクリーム１％（選） に関する健康ニュース。予測適応症 3 件。"
 permalink: /news/clotrimazole/
 last_modified_at: 2026-10-28
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="エンペシドクリーム１％（選） に関するニュースは？">
-<strong>エンペシドクリーム１％（選）</strong> には現在 <strong>10 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
+<strong>エンペシドクリーム１％（選）</strong> には現在 <strong>10 件</strong>の関連ニュースがあり、予測適応症は 3 件です。
 </p>
 
 <div class="key-takeaway">
@@ -26,8 +26,10 @@ last_modified_at: 2026-10-28
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（1 件）</strong>:<ul>
-<li>ニキビ (acne)</li>
+<li><strong>予測適応症（3 件）</strong>:<ul>
+<li>ニキビ (acne) (acne (disease))</li>
+<li>外陰腟炎 (vulvovaginitis)</li>
+<li>postmenopausal atrophic vaginitis</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/clotrimazole/' | relative_url }}">医薬品レポート全文を見る →</a></p>
@@ -35,11 +37,11 @@ last_modified_at: 2026-10-28
 
 ## 関連ニュース（10 件）
 
-### [【梅宮アンナさん】乳がん闘病中であっても外見を整えることは前を向くための心(webマガジン mi](https://news.yahoo.co.jp/articles/3f1ba7e2e2cd5075d7e3f010c71cac0174c9472d?source=rss)
+### [【更年期世代の不眠対策】眠れない・疲れがとれない｜熟睡できるための呼吸とツボ押し方法(ヨガジャーナルオンライン)](https://news.yahoo.co.jp/articles/a43995c35fdcc987e49e4c2abad7d94095202725?source=rss)
 
-2026-10-28 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
+2026-10-28 <span class="news-indication-tag">更年期</span>
 
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/3f1ba7e2e2cd5075d7e3f010c71cac0174c9472d?source=rss)
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/a43995c35fdcc987e49e4c2abad7d94095202725?source=rss)
 
 ---
 

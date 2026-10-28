@@ -3,7 +3,7 @@ layout: default
 title: "ビクシリンＳ配合錠　（２５０ｍｇ） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ビクシリンＳ配合錠　（２５０ｍｇ） に関する健康ニュース。予測適応症 10 件。"
+description: "ビクシリンＳ配合錠　（２５０ｍｇ） に関する健康ニュース。予測適応症 9 件。"
 permalink: /news/ampicillin/
 last_modified_at: 2026-10-28
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="ビクシリンＳ配合錠　（２５０ｍｇ） に関するニュースは？">
-<strong>ビクシリンＳ配合錠　（２５０ｍｇ）</strong> には現在 <strong>9 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>ビクシリンＳ配合錠　（２５０ｍｇ）</strong> には現在 <strong>8 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
 </p>
 
 <div class="key-takeaway">
@@ -26,31 +26,22 @@ last_modified_at: 2026-10-28
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
-<li>喉頭炎 (Laryngitis)</li>
-<li>淋菌性尿道炎</li>
-<li>ウレアプラズマ尿道炎</li>
-<li>慢性副鼻腔炎</li>
-<li>慢性篩骨洞炎</li>
-<li>歯肉炎</li>
-<li>副鼻腔腫瘍</li>
-<li>細菌性関節炎</li>
-<li>結膜炎</li>
-<li>歯冠周囲炎</li>
+<li><strong>予測適応症（9 件）</strong>:<ul>
+<li>喉頭炎 (laryngitis)</li>
+<li>Ureaplasma 尿道炎 (Ureaplasma urethritis)</li>
+<li>慢性副鼻腔炎 (chronic rhinosinusitis)</li>
+<li>慢性篩骨洞炎 (chronic ethmoidal sinusitis)</li>
+<li>gingivitis</li>
+<li>paranasal sinus neoplasm (disease)</li>
+<li>細菌性関節炎 (bacterial arthritis)</li>
+<li>結膜炎 (conjunctivitis)</li>
+<li>智歯周囲炎 (pericoronitis)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ampicillin/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（9 件）
-
-### [【梅宮アンナさん】乳がん闘病中であっても外見を整えることは前を向くための心(webマガジン mi](https://news.yahoo.co.jp/articles/3f1ba7e2e2cd5075d7e3f010c71cac0174c9472d?source=rss)
-
-2026-10-28 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
-
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/3f1ba7e2e2cd5075d7e3f010c71cac0174c9472d?source=rss)
-
----
+## 関連ニュース（8 件）
 
 ### [2型糖尿病患者で肥満関連がんの罹患率が増加｜ニュース](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JbXQ4MXk1Q1RFZWViLWItcUw1NnhMMVlod1VWYm9tMEJqREVpOEQ0MVcyNlB0ZC0zT2Z4b1ZEaldueDF0dXJnSVV3MDl4Rk5HSnhmR3VHanRVSXhmWkFTTE8tOHNRNkVp?oc=5)
 

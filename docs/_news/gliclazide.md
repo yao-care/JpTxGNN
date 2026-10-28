@@ -1,109 +1,16 @@
 ---
-layout: default
-title: "グリミクロン錠４０ｍｇ（選） 関連ニュース"
-parent: 健康ニュース
-nav_exclude: true
-description: "グリミクロン錠４０ｍｇ（選） に関する健康ニュース。予測適応症 1 件。"
+layout: id_redirect
 permalink: /news/gliclazide/
-last_modified_at: 2026-10-28
+sitemap: false
+search_exclude: true
+nav_exclude: true
 ---
-
-# グリミクロン錠４０ｍｇ（選） 関連ニュース
-
-[← ニュース一覧に戻る]({{ '/news/' | relative_url }})
-
----
-
-<p class="key-answer" data-question="グリミクロン錠４０ｍｇ（選） に関するニュースは？">
-<strong>グリミクロン錠４０ｍｇ（選）</strong> には現在 <strong>4 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
-</p>
-
-<div class="key-takeaway">
-このページは グリミクロン錠４０ｍｇ（選） のAI予測適応症と最新の健康ニュースをまとめたものです。オレンジ色で示された適応症は、最近ニュースで取り上げられたことを示します。
-</div>
-
-<div class="drug-info-card">
-<strong>医薬品情報</strong>
-<ul>
-<li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（1 件）</strong>:<ul>
-<li>focal stiff limb syndrome（限局性硬直肢症候群）</li>
-</ul></li>
-</ul>
-<p><a href="{{ '/drugs/gliclazide/' | relative_url }}">医薬品レポート全文を見る →</a></p>
-</div>
-
-## 関連ニュース（4 件）
-
-### [【2026年最新・徹底調査】30代で2型糖尿病と診断されたらその後の生活はどうなる？仕事・転職・結婚・妊娠・将来の合併症への不安をDライフが調査](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qUDlIQlQyMmk2QmEwV25STjQ4YmpIZk9lNFhnbXlpLUZHMGE2eXM0a09FNUxkTDNONjhlbURzMW96dW1OY3RVSFJobFhmOUIwcVVR?oc=5)
-
-2026-10-28 <span class="news-indication-tag">2型糖尿病</span>
-
-出典: [ドリームニュース](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qUDlIQlQyMmk2QmEwV25STjQ4YmpIZk9lNFhnbXlpLUZHMGE2eXM0a09FNUxkTDNONjhlbURzMW96dW1OY3RVSFJobFhmOUIwcVVR?oc=5)
-
----
-
-### [2型糖尿病患者で肥満関連がんの罹患率が増加｜ニュース](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JbXQ4MXk1Q1RFZWViLWItcUw1NnhMMVlod1VWYm9tMEJqREVpOEQ0MVcyNlB0ZC0zT2Z4b1ZEaldueDF0dXJnSVV3MDl4Rk5HSnhmR3VHanRVSXhmWkFTTE8tOHNRNkVp?oc=5)
-
-2026-10-27 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">2型糖尿病</span>
-
-出典: [保健指導リソースガイド](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JbXQ4MXk1Q1RFZWViLWItcUw1NnhMMVlod1VWYm9tMEJqREVpOEQ0MVcyNlB0ZC0zT2Z4b1ZEaldueDF0dXJnSVV3MDl4Rk5HSnhmR3VHanRVSXhmWkFTTE8tOHNRNkVp?oc=5)
-
----
-
-### [「血糖値対策」食後に効果的な運動はどっち？ 「ストレッチや軽めの運動」と「 筋トレや重めの運動」](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBjUnk0Z0pqSnN3YUo3UkFOWkt3NDk3Vjc4Y2tpYngzWE1KRHVJN21SOV9QeWMzZDloVFJqbm1wWVM1TGFaU1V1TGMxVlJ3Zw?oc=5)
-
-2026-10-27 <span class="news-indication-tag">2型糖尿病</span>
-
-出典: [FYTTE](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBjUnk0Z0pqSnN3YUo3UkFOWkt3NDk3Vjc4Y2tpYngzWE1KRHVJN21SOV9QeWMzZDloVFJqbm1wWVM1TGFaU1V1TGMxVlJ3Zw?oc=5)
-
----
-
-### [2型糖尿病のリスクを高める6つの要因](https://news.google.com/rss/articles/CBMimAFBVV95cUxNdGEzV0hMUGlheGFYZ1hzM0VWS1FocGwwRnp1RXNGbDlQMmVCNTkxZ3BwcnBXeXl2N1VnUldtME5lazJRX2lqY2I2NksxMnhId3dKdl9BT1RNT19zQzRhWURuZ3JvWmMxdVRReHVXbXM4aXFUalQ5WmtycF82bHFhT3drMTk5VThuX0VjN1RfUVVMZk9YS0JLXw?oc=5)
-
-2026-10-22 <span class="news-indication-tag">2型糖尿病</span>
-
-出典: [Laodong.vn](https://news.google.com/rss/articles/CBMimAFBVV95cUxNdGEzV0hMUGlheGFYZ1hzM0VWS1FocGwwRnp1RXNGbDlQMmVCNTkxZ3BwcnBXeXl2N1VnUldtME5lazJRX2lqY2I2NksxMnhId3dKdl9BT1RNT19zQzRhWURuZ3JvWmMxdVRReHVXbXM4aXFUalQ5WmtycF82bHFhT3drMTk5VThuX0VjN1RfUVVMZk9YS0JLXw?oc=5)
-
----
-
-
-<div class="disclaimer">
-<strong>免責事項</strong>: 本ページのニュースはシステムが自動収集したものであり、研究上の参考情報にすぎず、医療アドバイスを構成するものではありません。
-</div>
-
-<style>
-.indication-matched {
-  background: #fff3e0;
-  padding: 4px 8px;
-  border-radius: 4px;
-  border-left: 3px solid #ff9800;
-}
-.indication-tag {
-  display: inline-block;
-  background: #ff9800;
-  color: white;
-  padding: 2px 8px;
-  border-radius: 12px;
-  font-size: 0.8em;
-  margin-left: 8px;
-}
-.news-indication-tag {
-  display: inline-block;
-  background: #ff9800;
-  color: white;
-  padding: 2px 10px;
-  border-radius: 12px;
-  font-size: 0.85em;
-  margin-left: 4px;
-}
-.news-drug-tag {
-  display: inline-block;
-  background: #1565c0;
-  color: white;
-  padding: 2px 10px;
-  border-radius: 12px;
-  font-size: 0.85em;
-  margin-left: 4px;
-}
-</style>
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+<title>Redirecting&hellip;</title>
+<link rel="canonical" href="{{ site.url }}/news/">
+<meta http-equiv="refresh" content="0; url=/news/">
+<script>location="/news/"</script>
+<a href="/news/">/news/</a>
+</html>

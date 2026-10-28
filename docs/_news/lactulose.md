@@ -3,7 +3,7 @@ layout: default
 title: "ラグノスＮＦ経口ゼリー分包１２ｇ　５４．１６７％ 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ラグノスＮＦ経口ゼリー分包１２ｇ　５４．１６７％ に関する健康ニュース。予測適応症 1 件。"
+description: "ラグノスＮＦ経口ゼリー分包１２ｇ　５４．１６７％ に関する健康ニュース。予測適応症 8 件。"
 permalink: /news/lactulose/
 last_modified_at: 2026-10-28
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="ラグノスＮＦ経口ゼリー分包１２ｇ　５４．１６７％ に関するニュースは？">
-<strong>ラグノスＮＦ経口ゼリー分包１２ｇ　５４．１６７％</strong> には現在 <strong>12 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
+<strong>ラグノスＮＦ経口ゼリー分包１２ｇ　５４．１６７％</strong> には現在 <strong>11 件</strong>の関連ニュースがあり、予測適応症は 8 件です。
 </p>
 
 <div class="key-takeaway">
@@ -26,22 +26,21 @@ last_modified_at: 2026-10-28
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L3</li>
-<li><strong>予測適応症（1 件）</strong>:<ul>
-<li>閉塞性黄疸 (Obstructive Jaundice)（TxGNN 第3位。第1位の急性尿酸腎症は根拠となる研究がないため評価対象外）</li>
+<li><strong>予測適応症（8 件）</strong>:<ul>
+<li>急性尿酸性腎症 (acute urate nephropathy)</li>
+<li>nephrolithiasis</li>
+<li>obstructive jaundice</li>
+<li>bile duct disease</li>
+<li>biliary tract disease</li>
+<li>hyperphosphatemia (disease)</li>
+<li>exercise-induced malignant hyperthermia</li>
+<li>bile duct neoplasm</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lactulose/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（12 件）
-
-### [【梅宮アンナさん】乳がん闘病中であっても外見を整えることは前を向くための心(webマガジン mi](https://news.yahoo.co.jp/articles/3f1ba7e2e2cd5075d7e3f010c71cac0174c9472d?source=rss)
-
-2026-10-28 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
-
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/3f1ba7e2e2cd5075d7e3f010c71cac0174c9472d?source=rss)
-
----
+## 関連ニュース（11 件）
 
 ### [お酒が引き起こす心臓病がある！ リスクが大きい飲み方とは：左党の一分：日経Gooday（グッデイ）](https://news.google.com/rss/articles/CBMijAFBVV95cUxQWXRmOE94LW5jeEtIcEUxVjFXQkJ1YkpTZHRSSEp1b0c3WjRZdTRtZlRkVWJEUGRPM1h2UnFBU2pYbnRuVk15X0J0aHZnS1A3Ymhjc0xZeXNyZGJfN0lrV0VIbnNzVnZIUFJnVjJsU3V3STFFMFBYRkhIWU0zT0JxbXpad2ZSNXdpcll5RA?oc=5)
 

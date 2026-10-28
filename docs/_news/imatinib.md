@@ -3,7 +3,7 @@ layout: default
 title: "グリベック錠１００ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "グリベック錠１００ｍｇ（選） に関する健康ニュース。予測適応症 1 件。"
+description: "グリベック錠１００ｍｇ（選） に関する健康ニュース。予測適応症 10 件。"
 permalink: /news/imatinib/
 last_modified_at: 2026-10-28
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="グリベック錠１００ｍｇ（選） に関するニュースは？">
-<strong>グリベック錠１００ｍｇ（選）</strong> には現在 <strong>9 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
+<strong>グリベック錠１００ｍｇ（選）</strong> には現在 <strong>8 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -26,22 +26,23 @@ last_modified_at: 2026-10-28
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（1 件）</strong>:<ul>
+<li><strong>予測適応症（10 件）</strong>:<ul>
 <li>心臓線維肉腫 (heart fibrosarcoma)</li>
+<li>線維芽細胞性腫瘍 (fibroblastic neoplasm)</li>
+<li>conventional fibrosarcoma</li>
+<li>kidney fibrosarcoma</li>
+<li>low grade fibromyxoid sarcoma</li>
+<li>脂肪肉腫 (liposarcoma)</li>
+<li>liver fibrosarcoma</li>
+<li>autosomal recessive familial Mediterranean fever</li>
+<li>ovarian myxoid liposarcoma</li>
+<li>familial rhabdoid tumor</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/imatinib/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（9 件）
-
-### [【梅宮アンナさん】乳がん闘病中であっても外見を整えることは前を向くための心(webマガジン mi](https://news.yahoo.co.jp/articles/3f1ba7e2e2cd5075d7e3f010c71cac0174c9472d?source=rss)
-
-2026-10-28 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
-
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/3f1ba7e2e2cd5075d7e3f010c71cac0174c9472d?source=rss)
-
----
+## 関連ニュース（8 件）
 
 ### [2型糖尿病患者で肥満関連がんの罹患率が増加｜ニュース](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JbXQ4MXk1Q1RFZWViLWItcUw1NnhMMVlod1VWYm9tMEJqREVpOEQ0MVcyNlB0ZC0zT2Z4b1ZEaldueDF0dXJnSVV3MDl4Rk5HSnhmR3VHanRVSXhmWkFTTE8tOHNRNkVp?oc=5)
 

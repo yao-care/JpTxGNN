@@ -3,7 +3,7 @@ layout: default
 title: "ジスロマック細粒小児用１０％　１００ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ジスロマック細粒小児用１０％　１００ｍｇ（選） に関する健康ニュース。予測適応症 1 件。"
+description: "ジスロマック細粒小児用１０％　１００ｍｇ（選） に関する健康ニュース。予測適応症 10 件。"
 permalink: /news/azithromycin/
 last_modified_at: 2026-10-28
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="ジスロマック細粒小児用１０％　１００ｍｇ（選） に関するニュースは？">
-<strong>ジスロマック細粒小児用１０％　１００ｍｇ（選）</strong> には現在 <strong>14 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
+<strong>ジスロマック細粒小児用１０％　１００ｍｇ（選）</strong> には現在 <strong>13 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -26,28 +26,29 @@ last_modified_at: 2026-10-28
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（1 件）</strong>:<ul>
-<li>高アミラーゼ血症 (Hyperamylasemia)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>高アミラーゼ血症 (hyperamylasemia)</li>
+<li>多クローン性高粘稠度症候群 (polyclonal hyperviscosity syndrome)</li>
+<li>congenital analbuminemia</li>
+<li>点状表層角膜炎 (punctate epithelial keratoconjunctivitis)</li>
+<li>blood group incompatibility</li>
+<li>premalignant hematological system disease</li>
+<li>monoclonal gammopathy</li>
+<li>hematological disease associated with an acquired peripheral neuropathy</li>
+<li>septicemic plague</li>
+<li>congenital hematological disorder</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/azithromycin/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（14 件）
+## 関連ニュース（13 件）
 
-### [【梅宮アンナさん】乳がん闘病中であっても外見を整えることは前を向くための心(webマガジン mi](https://news.yahoo.co.jp/articles/3f1ba7e2e2cd5075d7e3f010c71cac0174c9472d?source=rss)
-
-2026-10-28 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
-
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/3f1ba7e2e2cd5075d7e3f010c71cac0174c9472d?source=rss)
-
----
-
-### [コロナ･インフル･帯状疱疹で脳が縮む!? 身近なウイルスがアルツハイマーを引き起こす恐怖のメカニズム(東洋経済オンライン)](https://news.google.com/rss/articles/CBMihwFBVV95cUxNZW1VRHNCUmFxc2hhbDZsT3NfdFFFZnR0X3VxNzNRWWxWNHFuQ3hIX3p1TWoyV2FhY1JYWnNMamRxN1dIRDRZX3NxXzRqbks1SGhYeUtBVG5ZdVRrMFJSSEY4TGtqbmRTSGR3QUtZX2wxTmVWUkZxclozM1ZRWDBUQXdYaUthU3c?oc=5)
+### [コロナ･インフル･帯状疱疹で脳が縮む!? 身近なウイルスがアルツハイマーを引き起こす恐怖のメカニズム（東洋経済オンライン）](https://news.google.com/rss/articles/CBMifkFVX3lxTE4zODY0bE54dmNPNDNkcmZqYUFHMV9vd3l0TVB2cm5XbWkxTXhwWVdpTldmSUUza2stWlZzU0g3N3N2RFRDRV93MUVrb3g0SXRNeVBaU3ZpcG96NVNzdzlvSkZvVXhjaU1lUWNBSV9EOHpuYlEySW1JTmxqZjhqZw?oc=5)
 
 2026-10-27 <span class="news-indication-tag">帯状疱疹</span>
 
-出典: [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxNZW1VRHNCUmFxc2hhbDZsT3NfdFFFZnR0X3VxNzNRWWxWNHFuQ3hIX3p1TWoyV2FhY1JYWnNMamRxN1dIRDRZX3NxXzRqbks1SGhYeUtBVG5ZdVRrMFJSSEY4TGtqbmRTSGR3QUtZX2wxTmVWUkZxclozM1ZRWDBUQXdYaUthU3c?oc=5)
+出典: [ｄメニューニュース](https://news.google.com/rss/articles/CBMifkFVX3lxTE4zODY0bE54dmNPNDNkcmZqYUFHMV9vd3l0TVB2cm5XbWkxTXhwWVdpTldmSUUza2stWlZzU0g3N3N2RFRDRV93MUVrb3g0SXRNeVBaU3ZpcG96NVNzdzlvSkZvVXhjaU1lUWNBSV9EOHpuYlEySW1JTmxqZjhqZw?oc=5)
 
 ---
 

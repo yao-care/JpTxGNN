@@ -3,7 +3,7 @@ layout: default
 title: "リリカＯＤ錠１５０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "リリカＯＤ錠１５０ｍｇ（選） に関する健康ニュース。予測適応症 1 件。"
+description: "リリカＯＤ錠１５０ｍｇ（選） に関する健康ニュース。予測適応症 6 件。"
 permalink: /news/pregabalin/
 last_modified_at: 2026-10-28
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="リリカＯＤ錠１５０ｍｇ（選） に関するニュースは？">
-<strong>リリカＯＤ錠１５０ｍｇ（選）</strong> には現在 <strong>3 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
+<strong>リリカＯＤ錠１５０ｍｇ（選）</strong> には現在 <strong>3 件</strong>の関連ニュースがあり、予測適応症は 6 件です。
 </p>
 
 <div class="key-takeaway">
@@ -26,8 +26,13 @@ last_modified_at: 2026-10-28
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（1 件）</strong>:<ul>
-<li>腱炎 (Tendinitis)（最上位予測）。エビデンスが最も豊富な候補は変形性関節症 (Osteoarthritis)</li>
+<li><strong>予測適応症（6 件）</strong>:<ul>
+<li>腱炎 (tendinitis)</li>
+<li>myositis fibrosa</li>
+<li>idiopathic granulomatous myositis</li>
+<li>inclusion body myositis</li>
+<li>片頭痛 (migraine disorder)</li>
+<li>脳幹性前兆を伴う片頭痛 (migraine with brainstem aura)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pregabalin/' | relative_url }}">医薬品レポート全文を見る →</a></p>

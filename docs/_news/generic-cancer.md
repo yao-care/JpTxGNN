@@ -3,7 +3,7 @@ layout: default
 title: "がん (generic_cancer) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "がん (generic_cancer) に関する健康ニュース。ニュース 9 件、関連医薬品 67 件。"
+description: "がん (generic_cancer) に関する健康ニュース。ニュース 8 件、関連医薬品 67 件。"
 permalink: /news/generic-cancer/
 last_modified_at: 2026-10-28
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="がん (generic_cancer) に関するニュースは？">
-<strong>がん (generic_cancer)</strong> には現在 <strong>9 件</strong>の関連ニュースと 67 件の関連医薬品があります。
+<strong>がん (generic_cancer)</strong> には現在 <strong>8 件</strong>の関連ニュースと 67 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -52,7 +52,6 @@ last_modified_at: 2026-10-28
 <li><a href="{{ '/drugs/erlotinib/' | relative_url }}">エルロチニブ錠１５０ｍｇ「ＮＫ」</a></li>
 <li><a href="{{ '/drugs/ezetimibe/' | relative_url }}">ゼチーア錠１０ｍｇ（選）</a></li>
 <li><a href="{{ '/drugs/fenofibrate/' | relative_url }}">トライコア錠８０ｍｇ（選）</a></li>
-<li><a href="{{ '/drugs/furosemide/' | relative_url }}">ラシックス錠１０ｍｇ（選）</a></li>
 <li><a href="{{ '/drugs/gefitinib/' | relative_url }}">イレッサ錠２５０　２５０ｍｇ（選）</a></li>
 <li><a href="{{ '/drugs/hydrochlorothiazide/' | relative_url }}">プレミネント配合錠ＨＤ（選）</a></li>
 <li><a href="{{ '/drugs/hydrocortisone/' | relative_url }}">ヘモレックス軟膏</a></li>
@@ -95,15 +94,7 @@ last_modified_at: 2026-10-28
 </ul>
 </div>
 
-## 関連ニュース（9 件）
-
-### [【梅宮アンナさん】乳がん闘病中であっても外見を整えることは前を向くための心(webマガジン mi](https://news.yahoo.co.jp/articles/3f1ba7e2e2cd5075d7e3f010c71cac0174c9472d?source=rss)
-
-2026-10-28
-
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/3f1ba7e2e2cd5075d7e3f010c71cac0174c9472d?source=rss)
-
----
+## 関連ニュース（8 件）
 
 ### [2型糖尿病患者で肥満関連がんの罹患率が増加｜ニュース](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JbXQ4MXk1Q1RFZWViLWItcUw1NnhMMVlod1VWYm9tMEJqREVpOEQ0MVcyNlB0ZC0zT2Z4b1ZEaldueDF0dXJnSVV3MDl4Rk5HSnhmR3VHanRVSXhmWkFTTE8tOHNRNkVp?oc=5)
 

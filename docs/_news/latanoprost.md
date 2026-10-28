@@ -3,7 +3,7 @@ layout: default
 title: "ザラカム配合点眼液（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "ザラカム配合点眼液（選） に関する健康ニュース。予測適応症 10 件。"
+description: "ザラカム配合点眼液（選） に関する健康ニュース。予測適応症 9 件。"
 permalink: /news/latanoprost/
 last_modified_at: 2026-10-28
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="ザラカム配合点眼液（選） に関するニュースは？">
-<strong>ザラカム配合点眼液（選）</strong> には現在 <strong>14 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>ザラカム配合点眼液（選）</strong> には現在 <strong>13 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
 </p>
 
 <div class="key-takeaway">
@@ -26,31 +26,22 @@ last_modified_at: 2026-10-28
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
-<li>原発性遺伝性緑内障 (primary hereditary glaucoma)</li>
-<li>内臓カルシフィラキシー</li>
-<li>頭皮の単純性乏毛症</li>
-<li>動脈性胸郭出口症候群</li>
-<li>静脈性胸郭出口症候群</li>
-<li>神経性胸郭出口症候群</li>
-<li>先天性乏毛症・稗粒腫</li>
-<li>胃血管形成異常</li>
-<li>ブルートゥ症候群</li>
-<li>リンパ管拡張症</li>
+<li><strong>予測適応症（9 件）</strong>:<ul>
+<li>内臓カルシフィラキシス (visceral calciphylaxis)</li>
+<li>頭皮単純性乏毛症 (hypotrichosis simplex of the scalp)</li>
+<li>venous thoracic outlet syndrome</li>
+<li>arterial thoracic outlet syndrome</li>
+<li>neurogenic thoracic outlet syndrome</li>
+<li>congenital hypotrichosis milia</li>
+<li>angiodysplasia of stomach</li>
+<li>blue toe syndrome</li>
+<li>lymphangiectasis</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/latanoprost/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（14 件）
-
-### [【梅宮アンナさん】乳がん闘病中であっても外見を整えることは前を向くための心(webマガジン mi](https://news.yahoo.co.jp/articles/3f1ba7e2e2cd5075d7e3f010c71cac0174c9472d?source=rss)
-
-2026-10-28 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
-
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/3f1ba7e2e2cd5075d7e3f010c71cac0174c9472d?source=rss)
-
----
+## 関連ニュース（13 件）
 
 ### [九州大学が全国2例目のiPSシート移植手術　無事終了、患者は容態安定(西日本新聞me)](https://news.yahoo.co.jp/articles/9dc128215b68168b8fe41da1a9d443ef56e6a487?source=rss)
 

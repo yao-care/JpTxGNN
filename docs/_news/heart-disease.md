@@ -39,7 +39,6 @@ last_modified_at: 2026-10-28
 <li><a href="{{ '/drugs/enalapril/' | relative_url }}">レニベース錠１０　１０ｍｇ（選）</a></li>
 <li><a href="{{ '/drugs/fenofibrate/' | relative_url }}">トライコア錠８０ｍｇ（選）</a></li>
 <li><a href="{{ '/drugs/fexofenadine/' | relative_url }}">ディレグラ配合錠（選）</a></li>
-<li><a href="{{ '/drugs/furosemide/' | relative_url }}">ラシックス錠１０ｍｇ（選）</a></li>
 <li><a href="{{ '/drugs/hydrochlorothiazide/' | relative_url }}">プレミネント配合錠ＨＤ（選）</a></li>
 <li><a href="{{ '/drugs/hydrocortisone/' | relative_url }}">ヘモレックス軟膏</a></li>
 <li><a href="{{ '/drugs/lactulose/' | relative_url }}">ラグノスＮＦ経口ゼリー分包１２ｇ　５４．１６７％</a></li>

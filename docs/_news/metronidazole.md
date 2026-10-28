@@ -3,7 +3,7 @@ layout: default
 title: "メトロニダゾールゲル０．７５％「マルイシ」 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "メトロニダゾールゲル０．７５％「マルイシ」 に関する健康ニュース。予測適応症 1 件。"
+description: "メトロニダゾールゲル０．７５％「マルイシ」 に関する健康ニュース。予測適応症 10 件。"
 permalink: /news/metronidazole/
 last_modified_at: 2026-10-28
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="メトロニダゾールゲル０．７５％「マルイシ」 に関するニュースは？">
-<strong>メトロニダゾールゲル０．７５％「マルイシ」</strong> には現在 <strong>12 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
+<strong>メトロニダゾールゲル０．７５％「マルイシ」</strong> には現在 <strong>12 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -26,8 +26,17 @@ last_modified_at: 2026-10-28
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（1 件）</strong>:<ul>
-<li>ニューモシスチス症 (Pneumocystosis)</li>
+<li><strong>予測適応症（10 件）</strong>:<ul>
+<li>ニューモシスチス症 (pneumocystosis)</li>
+<li>点状表層角膜炎 (punctate epithelial keratoconjunctivitis)</li>
+<li>潰瘍性直腸S状結腸炎 (ulcerative proctosigmoiditis)</li>
+<li>nocardiosis</li>
+<li>postmenopausal atrophic vaginitis</li>
+<li>Cryptococcal meningitis</li>
+<li>乳頭結膜炎 (papillary conjunctivitis)</li>
+<li>myiasis</li>
+<li>cap polyposis</li>
+<li>ulceration of vulva</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/metronidazole/' | relative_url }}">医薬品レポート全文を見る →</a></p>
@@ -35,19 +44,19 @@ last_modified_at: 2026-10-28
 
 ## 関連ニュース（12 件）
 
-### [【梅宮アンナさん】乳がん闘病中であっても外見を整えることは前を向くための心(webマガジン mi](https://news.yahoo.co.jp/articles/3f1ba7e2e2cd5075d7e3f010c71cac0174c9472d?source=rss)
+### [【更年期世代の不眠対策】眠れない・疲れがとれない｜熟睡できるための呼吸とツボ押し方法(ヨガジャーナルオンライン)](https://news.yahoo.co.jp/articles/a43995c35fdcc987e49e4c2abad7d94095202725?source=rss)
 
-2026-10-28 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
+2026-10-28 <span class="news-indication-tag">更年期</span>
 
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/3f1ba7e2e2cd5075d7e3f010c71cac0174c9472d?source=rss)
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/a43995c35fdcc987e49e4c2abad7d94095202725?source=rss)
 
 ---
 
-### [コロナ･インフル･帯状疱疹で脳が縮む!? 身近なウイルスがアルツハイマーを引き起こす恐怖のメカニズム(東洋経済オンライン)](https://news.google.com/rss/articles/CBMihwFBVV95cUxNZW1VRHNCUmFxc2hhbDZsT3NfdFFFZnR0X3VxNzNRWWxWNHFuQ3hIX3p1TWoyV2FhY1JYWnNMamRxN1dIRDRZX3NxXzRqbks1SGhYeUtBVG5ZdVRrMFJSSEY4TGtqbmRTSGR3QUtZX2wxTmVWUkZxclozM1ZRWDBUQXdYaUthU3c?oc=5)
+### [コロナ･インフル･帯状疱疹で脳が縮む!? 身近なウイルスがアルツハイマーを引き起こす恐怖のメカニズム（東洋経済オンライン）](https://news.google.com/rss/articles/CBMifkFVX3lxTE4zODY0bE54dmNPNDNkcmZqYUFHMV9vd3l0TVB2cm5XbWkxTXhwWVdpTldmSUUza2stWlZzU0g3N3N2RFRDRV93MUVrb3g0SXRNeVBaU3ZpcG96NVNzdzlvSkZvVXhjaU1lUWNBSV9EOHpuYlEySW1JTmxqZjhqZw?oc=5)
 
 2026-10-27 <span class="news-indication-tag">帯状疱疹</span>
 
-出典: [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxNZW1VRHNCUmFxc2hhbDZsT3NfdFFFZnR0X3VxNzNRWWxWNHFuQ3hIX3p1TWoyV2FhY1JYWnNMamRxN1dIRDRZX3NxXzRqbks1SGhYeUtBVG5ZdVRrMFJSSEY4TGtqbmRTSGR3QUtZX2wxTmVWUkZxclozM1ZRWDBUQXdYaUthU3c?oc=5)
+出典: [ｄメニューニュース](https://news.google.com/rss/articles/CBMifkFVX3lxTE4zODY0bE54dmNPNDNkcmZqYUFHMV9vd3l0TVB2cm5XbWkxTXhwWVdpTldmSUUza2stWlZzU0g3N3N2RFRDRV93MUVrb3g0SXRNeVBaU3ZpcG96NVNzdzlvSkZvVXhjaU1lUWNBSV9EOHpuYlEySW1JTmxqZjhqZw?oc=5)
 
 ---
 

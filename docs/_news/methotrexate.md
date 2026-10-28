@@ -3,7 +3,7 @@ layout: default
 title: "リウマトレックスカプセル２ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "リウマトレックスカプセル２ｍｇ（選） に関する健康ニュース。予測適応症 1 件。"
+description: "リウマトレックスカプセル２ｍｇ（選） に関する健康ニュース。予測適応症 7 件。"
 permalink: /news/methotrexate/
 last_modified_at: 2026-10-28
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="リウマトレックスカプセル２ｍｇ（選） に関するニュースは？">
-<strong>リウマトレックスカプセル２ｍｇ（選）</strong> には現在 <strong>10 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
+<strong>リウマトレックスカプセル２ｍｇ（選）</strong> には現在 <strong>9 件</strong>の関連ニュースがあり、予測適応症は 7 件です。
 </p>
 
 <div class="key-takeaway">
@@ -26,22 +26,20 @@ last_modified_at: 2026-10-28
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（1 件）</strong>:<ul>
+<li><strong>予測適応症（7 件）</strong>:<ul>
 <li>肺芽腫 (pulmonary blastoma)</li>
+<li>原発性肺リンパ腫 (primary pulmonary lymphoma)</li>
+<li>高分化型胎児型肺腺癌 (well-differentiated fetal adenocarcinoma of the lung)</li>
+<li>Hodgkins lymphoma</li>
+<li>rhabdomyosarcoma (disease)</li>
+<li>parameningeal embryonal rhabdomyosarcoma</li>
+<li>膣のブドウ状型胚性横紋筋肉腫 (botryoid-type embryonal rhabdomyosarcoma of the vagina)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/methotrexate/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（10 件）
-
-### [【梅宮アンナさん】乳がん闘病中であっても外見を整えることは前を向くための心(webマガジン mi](https://news.yahoo.co.jp/articles/3f1ba7e2e2cd5075d7e3f010c71cac0174c9472d?source=rss)
-
-2026-10-28 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
-
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/3f1ba7e2e2cd5075d7e3f010c71cac0174c9472d?source=rss)
-
----
+## 関連ニュース（9 件）
 
 ### [2型糖尿病患者で肥満関連がんの罹患率が増加｜ニュース](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JbXQ4MXk1Q1RFZWViLWItcUw1NnhMMVlod1VWYm9tMEJqREVpOEQ0MVcyNlB0ZC0zT2Z4b1ZEaldueDF0dXJnSVV3MDl4Rk5HSnhmR3VHanRVSXhmWkFTTE8tOHNRNkVp?oc=5)
 

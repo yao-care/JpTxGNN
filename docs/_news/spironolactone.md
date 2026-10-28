@@ -3,7 +3,7 @@ layout: default
 title: "アルダクトンＡ錠５０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "アルダクトンＡ錠５０ｍｇ（選） に関する健康ニュース。予測適応症 1 件。"
+description: "アルダクトンＡ錠５０ｍｇ（選） に関する健康ニュース。予測適応症 2 件。"
 permalink: /news/spironolactone/
 last_modified_at: 2026-10-28
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="アルダクトンＡ錠５０ｍｇ（選） に関するニュースは？">
-<strong>アルダクトンＡ錠５０ｍｇ（選）</strong> には現在 <strong>12 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
+<strong>アルダクトンＡ錠５０ｍｇ（選）</strong> には現在 <strong>11 件</strong>の関連ニュースがあり、予測適応症は 2 件です。
 </p>
 
 <div class="key-takeaway">
@@ -26,22 +26,15 @@ last_modified_at: 2026-10-28
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L2</li>
-<li><strong>予測適応症（1 件）</strong>:<ul>
-<li>脱毛症 (Alopecia)（エビデンスのある上位候補）</li>
+<li><strong>予測適応症（2 件）</strong>:<ul>
+<li>頭皮単純性乏毛症 (hypotrichosis simplex of the scalp)</li>
+<li>congenital hypotrichosis milia</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/spironolactone/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（12 件）
-
-### [【梅宮アンナさん】乳がん闘病中であっても外見を整えることは前を向くための心(webマガジン mi](https://news.yahoo.co.jp/articles/3f1ba7e2e2cd5075d7e3f010c71cac0174c9472d?source=rss)
-
-2026-10-28 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
-
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/3f1ba7e2e2cd5075d7e3f010c71cac0174c9472d?source=rss)
-
----
+## 関連ニュース（11 件）
 
 ### [お酒が引き起こす心臓病がある！ リスクが大きい飲み方とは：左党の一分：日経Gooday（グッデイ）](https://news.google.com/rss/articles/CBMijAFBVV95cUxQWXRmOE94LW5jeEtIcEUxVjFXQkJ1YkpTZHRSSEp1b0c3WjRZdTRtZlRkVWJEUGRPM1h2UnFBU2pYbnRuVk15X0J0aHZnS1A3Ymhjc0xZeXNyZGJfN0lrV0VIbnNzVnZIUFJnVjJsU3V3STFFMFBYRkhIWU0zT0JxbXpad2ZSNXdpcll5RA?oc=5)
 

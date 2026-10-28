@@ -3,7 +3,7 @@ layout: default
 title: "アクトスＯＤ錠３０　３０ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "アクトスＯＤ錠３０　３０ｍｇ（選） に関する健康ニュース。予測適応症 10 件。"
+description: "アクトスＯＤ錠３０　３０ｍｇ（選） に関する健康ニュース。予測適応症 9 件。"
 permalink: /news/pioglitazone/
 last_modified_at: 2026-10-28
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="アクトスＯＤ錠３０　３０ｍｇ（選） に関するニュースは？">
-<strong>アクトスＯＤ錠３０　３０ｍｇ（選）</strong> には現在 <strong>4 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>アクトスＯＤ錠３０　３０ｍｇ（選）</strong> には現在 <strong>4 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
 </p>
 
 <div class="key-takeaway">
@@ -26,17 +26,16 @@ last_modified_at: 2026-10-28
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（10 件）</strong>:<ul>
-<li>オプシスモ異形成症 (Opsismodysplasia)</li>
-<li>限局性スティッフリム症候群</li>
-<li>古典的スティッフパーソン症候群</li>
-<li>チアミン反応性機能障害症候群</li>
-<li>薬剤性限局性リポジストロフィー</li>
-<li>遠心性リポジストロフィー</li>
-<li>圧迫性限局性脂肪萎縮症</li>
-<li>特発性限局性リポジストロフィー</li>
-<li>膵無形成</li>
-<li>自己免疫性卵巣炎</li>
+<li><strong>予測適応症（9 件）</strong>:<ul>
+<li>オプシスモ異形成症 (opsismodysplasia)</li>
+<li>限局性硬直肢症候群 (focal stiff limb syndrome)</li>
+<li>古典的スティッフパーソン症候群 (classic stiff person syndrome)</li>
+<li>thiamine-responsive dysfunction syndrome</li>
+<li>drug-induced localized lipodystrophy</li>
+<li>centrifugal lipodystrophy</li>
+<li>pressure-induced localized lipoatrophy</li>
+<li>idiopathic localized lipodystrophy</li>
+<li>pancreatic agenesis</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pioglitazone/' | relative_url }}">医薬品レポート全文を見る →</a></p>

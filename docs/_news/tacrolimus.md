@@ -3,9 +3,9 @@ layout: default
 title: "プログラフカプセル１ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "プログラフカプセル１ｍｇ（選） に関する健康ニュース。予測適応症 7 件。"
+description: "プログラフカプセル１ｍｇ（選） に関する健康ニュース。予測適応症 2 件。"
 permalink: /news/tacrolimus/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 ---
 
 # プログラフカプセル１ｍｇ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="プログラフカプセル１ｍｇ（選） に関するニュースは？">
-<strong>プログラフカプセル１ｍｇ（選）</strong> には現在 <strong>1 件</strong>の関連ニュースがあり、予測適応症は 7 件です。
+<strong>プログラフカプセル１ｍｇ（選）</strong> には現在 <strong>1 件</strong>の関連ニュースがあり、予測適応症は 2 件です。
 </p>
 
 <div class="key-takeaway">
@@ -26,14 +26,9 @@ last_modified_at: 2026-10-27
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L1</li>
-<li><strong>予測適応症（7 件）</strong>:<ul>
-<li>脂漏性皮膚炎 (Seborrheic Dermatitis)</li>
-<li>類乾癬 (Parapsoriasis)</li>
-<li>皮膚炎 (Dermatitis)</li>
-<li>急性痘瘡状苔癬状粃糠疹</li>
-<li>関節リウマチ</li>
-<li>乾癬 (Psoriasis)</li>
-<li>発疹 (Exanthem)</li>
+<li><strong>予測適応症（2 件）</strong>:<ul>
+<li>脂漏性皮膚炎 (seborrheic dermatitis)</li>
+<li>類乾癬 (parapsoriasis)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">医薬品レポート全文を見る →</a></p>

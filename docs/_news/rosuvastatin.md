@@ -3,7 +3,7 @@ layout: default
 title: "クレストールＯＤ錠５ｍｇ（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "クレストールＯＤ錠５ｍｇ（選） に関する健康ニュース。予測適応症 1 件。"
+description: "クレストールＯＤ錠５ｍｇ（選） に関する健康ニュース。予測適応症 6 件。"
 permalink: /news/rosuvastatin/
 last_modified_at: 2026-10-28
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="クレストールＯＤ錠５ｍｇ（選） に関するニュースは？">
-<strong>クレストールＯＤ錠５ｍｇ（選）</strong> には現在 <strong>13 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
+<strong>クレストールＯＤ錠５ｍｇ（選）</strong> には現在 <strong>12 件</strong>の関連ニュースがあり、予測適応症は 6 件です。
 </p>
 
 <div class="key-takeaway">
@@ -26,22 +26,19 @@ last_modified_at: 2026-10-28
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（1 件）</strong>:<ul>
+<li><strong>予測適応症（6 件）</strong>:<ul>
 <li>コレステロールエステル転送蛋白欠損症 (cholesterol-ester transfer protein deficiency)</li>
+<li>脳幹梗塞 (brain stem infarction)</li>
+<li>HIV感染症 (HIV infectious disease)</li>
+<li>低αリポタンパク血症 (hypoalphalipoproteinemia)</li>
+<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter</li>
+<li>ABri amyloidosis</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/rosuvastatin/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（13 件）
-
-### [【梅宮アンナさん】乳がん闘病中であっても外見を整えることは前を向くための心(webマガジン mi](https://news.yahoo.co.jp/articles/3f1ba7e2e2cd5075d7e3f010c71cac0174c9472d?source=rss)
-
-2026-10-28 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
-
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/3f1ba7e2e2cd5075d7e3f010c71cac0174c9472d?source=rss)
-
----
+## 関連ニュース（12 件）
 
 ### [お酒が引き起こす心臓病がある！ リスクが大きい飲み方とは：左党の一分：日経Gooday（グッデイ）](https://news.google.com/rss/articles/CBMijAFBVV95cUxQWXRmOE94LW5jeEtIcEUxVjFXQkJ1YkpTZHRSSEp1b0c3WjRZdTRtZlRkVWJEUGRPM1h2UnFBU2pYbnRuVk15X0J0aHZnS1A3Ymhjc0xZeXNyZGJfN0lrV0VIbnNzVnZIUFJnVjJsU3V3STFFMFBYRkhIWU0zT0JxbXpad2ZSNXdpcll5RA?oc=5)
 

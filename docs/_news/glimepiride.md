@@ -3,7 +3,7 @@ layout: default
 title: "アマリール０．５ｍｇ錠（選） 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "アマリール０．５ｍｇ錠（選） に関する健康ニュース。予測適応症 1 件。"
+description: "アマリール０．５ｍｇ錠（選） に関する健康ニュース。予測適応症 9 件。"
 permalink: /news/glimepiride/
 last_modified_at: 2026-10-28
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="アマリール０．５ｍｇ錠（選） に関するニュースは？">
-<strong>アマリール０．５ｍｇ錠（選）</strong> には現在 <strong>4 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
+<strong>アマリール０．５ｍｇ錠（選）</strong> には現在 <strong>4 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
 </p>
 
 <div class="key-takeaway">
@@ -26,8 +26,16 @@ last_modified_at: 2026-10-28
 <strong>医薬品情報</strong>
 <ul>
 <li><strong>エビデンスレベル</strong>: L5</li>
-<li><strong>予測適応症（1 件）</strong>:<ul>
-<li>古典的スティッフパーソン症候群 (Classic Stiff Person Syndrome)</li>
+<li><strong>予測適応症（9 件）</strong>:<ul>
+<li>限局性硬直肢症候群 (focal stiff limb syndrome)</li>
+<li>古典的スティッフパーソン症候群 (classic stiff person syndrome)</li>
+<li>オプシスモ異形成症 (opsismodysplasia)</li>
+<li>thiamine-responsive dysfunction syndrome</li>
+<li>drug-induced localized lipodystrophy</li>
+<li>centrifugal lipodystrophy</li>
+<li>pressure-induced localized lipoatrophy</li>
+<li>idiopathic localized lipodystrophy</li>
+<li>pancreatic agenesis</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/glimepiride/' | relative_url }}">医薬品レポート全文を見る →</a></p>
