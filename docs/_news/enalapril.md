@@ -48,6 +48,14 @@ last_modified_at: 2026-10-28
 
 ---
 
+### [化学療法反応スコアは進行卵巣がんのPARP阻害薬維持療法の効果を予測可能か／Gynecol Oncol｜CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QWVhPZGVwQU5sVEc3c0JnS25TelYya1J2OUw0SmtCMDNabHNLWnpkMEFWRFZnUnpfRFI5ZTdMRXRiWlBONFpyYl9SM1A0Yk1fMUo2MTZkOGVHVzNLeV9B?oc=5)
+
+2026-10-27 <span class="news-indication-tag">がん</span>
+
+出典: [CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QWVhPZGVwQU5sVEc3c0JnS25TelYya1J2OUw0SmtCMDNabHNLWnpkMEFWRFZnUnpfRFI5ZTdMRXRiWlBONFpyYl9SM1A0Yk1fMUo2MTZkOGVHVzNLeV9B?oc=5)
+
+---
+
 ### [2型糖尿病患者で肥満関連がんの罹患率が増加｜ニュース](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JbXQ4MXk1Q1RFZWViLWItcUw1NnhMMVlod1VWYm9tMEJqREVpOEQ0MVcyNlB0ZC0zT2Z4b1ZEaldueDF0dXJnSVV3MDl4Rk5HSnhmR3VHanRVSXhmWkFTTE8tOHNRNkVp?oc=5)
 
 2026-10-27 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">2型糖尿病</span>
@@ -133,14 +141,6 @@ last_modified_at: 2026-10-28
 2026-10-22 <span class="news-indication-tag">心臓発作</span> <span class="news-indication-tag">脳卒中</span> <span class="news-indication-tag">インフルエンザ</span>
 
 出典: [Laodong.vn](https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ1lRTGF6MjBLSEFRUDNpdzhTRUFMUWdMcVBNN1p4Ny0yOWl2UERqaXMzUFFiby1XbXF2VlhMNDU5LTZ3WHRiUkVqWXM5aXgzdGJhcXdKdXF0dmhYWWtua0F5QXNtQnVlT1B2OXo3akpqWi04Wk9vNVp5ZVJqc3lpdGlqeXF6dW1Vem9RdmdMQUctaC05V2Q5akN3bnU5alFwQ1U0eThOQQ?oc=5)
-
----
-
-### [膵臓がん「画期的新薬」、ドラッグロス回避へ一歩 日本も治験参加](https://news.google.com/rss/articles/CBMibEFVX3lxTE9kV3JWUWVoWG51VlJaOFZpWkFJYllldnQtRF9GOG1kOGc4c3VOSjIwa1d4aEZHaGY5ZFI1bVB2TEFZSmZUXzMwZDhfZVMtcXk2RjJ5TFU2RFpIRzFhVXNJWjVmUTNjMVQxSjRNcA?oc=5)
-
-2026-10-21 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">膵臓がん</span>
-
-出典: [日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTE9kV3JWUWVoWG51VlJaOFZpWkFJYllldnQtRF9GOG1kOGc4c3VOSjIwa1d4aEZHaGY5ZFI1bVB2TEFZSmZUXzMwZDhfZVMtcXk2RjJ5TFU2RFpIRzFhVXNJWjVmUTNjMVQxSjRNcA?oc=5)
 
 ---
 

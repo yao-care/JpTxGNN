@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="エンペシドクリーム１％（選） に関するニュースは？">
-<strong>エンペシドクリーム１％（選）</strong> には現在 <strong>10 件</strong>の関連ニュースがあり、予測適応症は 3 件です。
+<strong>エンペシドクリーム１％（選）</strong> には現在 <strong>9 件</strong>の関連ニュースがあり、予測適応症は 3 件です。
 </p>
 
 <div class="key-takeaway">
@@ -35,13 +35,13 @@ last_modified_at: 2026-10-28
 <p><a href="{{ '/drugs/clotrimazole/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（10 件）
+## 関連ニュース（9 件）
 
-### [【更年期世代の不眠対策】眠れない・疲れがとれない｜熟睡できるための呼吸とツボ押し方法(ヨガジャーナルオンライン)](https://news.yahoo.co.jp/articles/a43995c35fdcc987e49e4c2abad7d94095202725?source=rss)
+### [化学療法反応スコアは進行卵巣がんのPARP阻害薬維持療法の効果を予測可能か／Gynecol Oncol｜CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QWVhPZGVwQU5sVEc3c0JnS25TelYya1J2OUw0SmtCMDNabHNLWnpkMEFWRFZnUnpfRFI5ZTdMRXRiWlBONFpyYl9SM1A0Yk1fMUo2MTZkOGVHVzNLeV9B?oc=5)
 
-2026-10-28 <span class="news-indication-tag">更年期</span>
+2026-10-27 <span class="news-indication-tag">がん</span>
 
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/a43995c35fdcc987e49e4c2abad7d94095202725?source=rss)
+出典: [CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QWVhPZGVwQU5sVEc3c0JnS25TelYya1J2OUw0SmtCMDNabHNLWnpkMEFWRFZnUnpfRFI5ZTdMRXRiWlBONFpyYl9SM1A0Yk1fMUo2MTZkOGVHVzNLeV9B?oc=5)
 
 ---
 
@@ -106,14 +106,6 @@ last_modified_at: 2026-10-28
 2026-10-23 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
 
 出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSWWhZOUFib3ItYmZTUGUyOVlqaHNzdUdjNzJvQnFrbEtDYTh4YUFlSndsd3NMNGZrVWVMM1VNUVhmaUFVX2d2NkxWTDlCZmVVNDN4YkZJNVVrVzRqLXc?oc=5)
-
----
-
-### [膵臓がん「画期的新薬」、ドラッグロス回避へ一歩 日本も治験参加](https://news.google.com/rss/articles/CBMibEFVX3lxTE9kV3JWUWVoWG51VlJaOFZpWkFJYllldnQtRF9GOG1kOGc4c3VOSjIwa1d4aEZHaGY5ZFI1bVB2TEFZSmZUXzMwZDhfZVMtcXk2RjJ5TFU2RFpIRzFhVXNJWjVmUTNjMVQxSjRNcA?oc=5)
-
-2026-10-21 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">膵臓がん</span>
-
-出典: [日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTE9kV3JWUWVoWG51VlJaOFZpWkFJYllldnQtRF9GOG1kOGc4c3VOSjIwa1d4aEZHaGY5ZFI1bVB2TEFZSmZUXzMwZDhfZVMtcXk2RjJ5TFU2RFpIRzFhVXNJWjVmUTNjMVQxSjRNcA?oc=5)
 
 ---
 

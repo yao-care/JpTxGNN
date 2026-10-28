@@ -3,9 +3,9 @@ layout: default
 title: "膵臓がん (pancreatic cancer) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "膵臓がん (pancreatic cancer) に関する健康ニュース。ニュース 2 件、関連医薬品 1 件。"
+description: "膵臓がん (pancreatic cancer) に関する健康ニュース。ニュース 1 件、関連医薬品 1 件。"
 permalink: /news/pancreatic-cancer/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 ---
 
 # 膵臓がん (pancreatic cancer) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="膵臓がん (pancreatic cancer) に関するニュースは？">
-<strong>膵臓がん (pancreatic cancer)</strong> には現在 <strong>2 件</strong>の関連ニュースと 1 件の関連医薬品があります。
+<strong>膵臓がん (pancreatic cancer)</strong> には現在 <strong>1 件</strong>の関連ニュースと 1 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -30,21 +30,13 @@ last_modified_at: 2026-10-27
 </ul>
 </div>
 
-## 関連ニュース（2 件）
+## 関連ニュース（1 件）
 
 ### [膵臓がんにピロリ菌関係か 抗体の値高いほどリスク](https://news.google.com/rss/articles/CBMiS0FVX3lxTE53RDh5Ukl5d3dLR2VvUVMyS0VNcTY3YWgzMmVJNnZIcElfWVRCQ1JhbGhvUWRkMVZqLVVHYkZ5aDlhdldRa2dDVW0tOA?oc=5)
 
 2026-10-26
 
 出典: [47NEWS](https://news.google.com/rss/articles/CBMiS0FVX3lxTE53RDh5Ukl5d3dLR2VvUVMyS0VNcTY3YWgzMmVJNnZIcElfWVRCQ1JhbGhvUWRkMVZqLVVHYkZ5aDlhdldRa2dDVW0tOA?oc=5)
-
----
-
-### [膵臓がん「画期的新薬」、ドラッグロス回避へ一歩 日本も治験参加](https://news.google.com/rss/articles/CBMibEFVX3lxTE9kV3JWUWVoWG51VlJaOFZpWkFJYllldnQtRF9GOG1kOGc4c3VOSjIwa1d4aEZHaGY5ZFI1bVB2TEFZSmZUXzMwZDhfZVMtcXk2RjJ5TFU2RFpIRzFhVXNJWjVmUTNjMVQxSjRNcA?oc=5)
-
-2026-10-21
-
-出典: [日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTE9kV3JWUWVoWG51VlJaOFZpWkFJYllldnQtRF9GOG1kOGc4c3VOSjIwa1d4aEZHaGY5ZFI1bVB2TEFZSmZUXzMwZDhfZVMtcXk2RjJ5TFU2RFpIRzFhVXNJWjVmUTNjMVQxSjRNcA?oc=5)
 
 ---
 
