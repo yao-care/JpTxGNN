@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Iron"
 predicted_indications: ["vitamin B12- and folate-independent constitutional megaloblastic anemia", "Plummer-Vinson syndrome", "non-syndromic esophageal malformation", "biotin metabolic disease", "vitamin deficiency disorder", "esophageal disease"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Iron：予測新適応症はビタミンB12・葉酸非依存性体質性巨赤芽球性貧血 (vitamin B12- and folate-independent constitutional megaloblastic anemia)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 

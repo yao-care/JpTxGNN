@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Upadacitinib"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
-last_modified_at: 2026-10-17
+last_modified_at: 2026-10-28
 description: "Upadacitinib：予測新適応症はcolobomatous microphthalmia-rhizomelic dysplasia syndrome（エビデンスレベル L5）。既存適応症：関節リウマチ"
 ---
 

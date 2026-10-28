@@ -6,7 +6,7 @@ title: Pyridoxine
 parent: 既知の用途のみ（新規予測なし）
 nav_order: 260
 monitor_inn: "Pyridoxine"
-last_modified_at: 2026-10-17
+last_modified_at: 2026-10-28
 description: "Pyridoxine: 日本における既知の用途と市場状況。現時点で新たな候補適応症はありません"
 predicted_indications: []
 indication_count: 0

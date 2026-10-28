@@ -5,7 +5,7 @@ parent: 中エビデンスレベル
 nav_order: 26
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-10-17
+last_modified_at: 2026-10-28
 description: "Ampicillin：予測新適応症は喉頭炎 (Laryngitis)（エビデンスレベル L5）。既存適応症：抗生物質"
 monitor_inn: "Ampicillin"
 predicted_indications: ["laryngitis", "Ureaplasma urethritis", "chronic rhinosinusitis", "chronic ethmoidal sinusitis", "gingivitis", "paranasal sinus neoplasm (disease)", "bacterial arthritis", "conjunctivitis", "pericoronitis"]

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "anastrozole"
 predicted_indications: ["neuroblastoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "monocytic leukemia"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Anastrozole：予測新適応症は神経芽腫 (neuroblastoma)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 

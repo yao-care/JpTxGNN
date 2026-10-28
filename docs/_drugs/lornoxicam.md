@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 8
 monitor_inn: "lornoxicam"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "headache disorder", "trigeminal autonomic cephalalgia", "tendinitis", "idiopathic granulomatous myositis"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Lornoxicam：予測新適応症は片頭痛 (migraine disorder)（エビデンスレベル L2）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 

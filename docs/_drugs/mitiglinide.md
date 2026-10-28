@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Mitiglinide"
 predicted_indications: ["opsismodysplasia"]
-last_modified_at: 2026-10-17
+last_modified_at: 2026-10-28
 description: "Mitiglinide：予測新適応症はオプシスモ異形成症 (Opsismodysplasia)（エビデンスレベル L5）。既存適応症：2型糖尿病"
 ---
 

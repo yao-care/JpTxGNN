@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 5
 monitor_inn: "Tizanidine"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "Tourette syndrome", "ulerythema ophryogenesis"]
-last_modified_at: 2026-10-17
+last_modified_at: 2026-10-28
 description: "Tizanidine：予測新適応症は片頭痛 (migraine disorder)（エビデンスレベル L2）。既存適応症：脊髄小脳変性症、多発性硬化症、筋萎縮性側索硬化症（鎮痙薬・筋弛緩薬）"
 ---
 

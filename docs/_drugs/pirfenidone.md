@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "pirfenidone"
 predicted_indications: ["extracutaneous mastocytoma", "dermatofibrosarcoma protuberans", "aggressive systemic mastocytosis", "heart fibrosarcoma", "conventional fibrosarcoma", "autosomal recessive familial Mediterranean fever", "kidney fibrosarcoma", "hepatic infarction", "fibroblastic neoplasm", "low grade fibromyxoid sarcoma"]
-last_modified_at: 2026-10-17
+last_modified_at: 2026-10-28
 description: "Pirfenidone：予測新適応症は肥満細胞腫 (Extracutaneous mastocytoma)（予測スコア第 1 位）。文献で裏付けが得られた候補は線維芽細胞性腫瘍…（エビデンスレベル L5）。既存適応症：特発性肺線維症"
 ---
 

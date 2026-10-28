@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Panitumumab"
 predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy"]
-last_modified_at: 2026-10-17
+last_modified_at: 2026-10-28
 description: "Panitumumab：予測新適応症は薬剤性骨粗鬆症 (Drug-induced Osteoporosis)（エビデンスレベル L5）。既存適応症：転移性結腸癌"
 ---
 

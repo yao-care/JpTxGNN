@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "estazolam"
 predicted_indications: ["visual epilepsy", "alcohol withdrawal delirium", "restless legs syndrome", "myofascial pain syndrome", "audiogenic seizures", "startle epilepsy", "thinking seizures", "micturation-induced seizures", "eating seizures"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Estazolam：予測新適応症は視覚性てんかん (visual epilepsy)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 

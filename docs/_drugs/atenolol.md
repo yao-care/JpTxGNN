@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Atenolol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Atenolol：予測新適応症は悪性高血圧性腎疾患（エビデンスレベル L5）。既存適応症：本態性高血圧症、狭心症、期外収縮"
 ---
 

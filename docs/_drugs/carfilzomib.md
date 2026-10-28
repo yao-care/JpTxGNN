@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Carfilzomib"
 predicted_indications: ["CMM7", "pediatric leptomeningeal melanoma", "epithelioid cell uveal melanoma", "vulvar melanoma (disease)", "melanoma"]
-last_modified_at: 2026-10-17
+last_modified_at: 2026-10-28
 description: "Carfilzomib：予測新適応症はCMM7（エビデンスレベル L5）。既存適応症：形質細胞性骨髄腫（多発性骨髄腫）"
 ---
 

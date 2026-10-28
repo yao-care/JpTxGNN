@@ -5,7 +5,7 @@ parent: 高エビデンスレベル
 nav_order: 101
 evidence_level: L1
 indication_count: 8
-last_modified_at: 2026-10-17
+last_modified_at: 2026-10-28
 description: "Doxorubicin：予測新適応症はユーイング肉腫 (Ewing sarcoma)（エビデンスレベル L1）。既存適応症：悪性リンパ腫、肺癌、胃癌、胆のう・胆管癌、膵臓癌、肝癌、結腸・直腸癌、乳癌、膀胱腫瘍、子宮体癌、骨肉腫、軟部腫瘍、多発性骨髄腫…"
 monitor_inn: "Doxorubicin"
 predicted_indications: ["Ewing sarcoma", "well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "monocytic leukemia", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "parameningeal embryonal rhabdomyosarcoma", "rhabdomyosarcoma (disease)"]

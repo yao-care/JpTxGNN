@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 234
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-17
+last_modified_at: 2026-10-28
 monitor_inn: "Paclitaxel"
 predicted_indications: ["parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 description: "Paclitaxel：予測新適応症はParameningeal embryonal rhabdomyosarcoma（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"

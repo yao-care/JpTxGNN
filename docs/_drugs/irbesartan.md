@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "irbesartan"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Irbesartan：予測新適応症は悪性高血圧性腎疾患 (malignant hypertensive renal disease)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 

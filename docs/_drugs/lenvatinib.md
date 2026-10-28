@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 5
 monitor_inn: "Lenvatinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipoma", "familial spontaneous pneumothorax", "endocrine-cerebro-osteodysplasia syndrome"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Lenvatinib：予測新適応症は脂肪肉腫 (liposarcoma)（エビデンスレベル L2）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 

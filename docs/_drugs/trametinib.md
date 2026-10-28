@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 319
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-17
+last_modified_at: 2026-10-28
 description: "Trametinib：予測新適応症は脈絡膜欠損症 (Choroideremia)（エビデンスレベル L5）。既存適応症：転移性悪性黒色腫"
 monitor_inn: "Trametinib"
 predicted_indications: ["choroideremia"]

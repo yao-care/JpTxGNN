@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 239
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-17
+last_modified_at: 2026-10-28
 monitor_inn: "Perampanel"
 predicted_indications: ["beta-ketothiolase deficiency"]
 description: "Perampanel：予測新適応症はBeta-ketothiolase deficiency（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"

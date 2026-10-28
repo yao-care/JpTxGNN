@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Enzalutamide"
 predicted_indications: ["prostate leiomyoma", "Brenner tumor", "fibroma of prostate", "benign reproductive system neoplasm", "benign prostate phyllodes tumor"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Enzalutamide：予測新適応症は前立腺平滑筋腫 (prostate leiomyoma)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 

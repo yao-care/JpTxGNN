@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Morphine"
 predicted_indications: ["myofascial pain syndrome", "manic bipolar affective disorder", "Tourette syndrome", "restless legs syndrome", "attention deficit hyperactivity disorder, inattentive type", "migraine disorder", "trichotillomania", "methemoglobinemia", "migraine with brainstem aura", "specific developmental disorder"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Morphine：予測新適応症は筋筋膜性疼痛症候群 (myofascial pain syndrome)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 

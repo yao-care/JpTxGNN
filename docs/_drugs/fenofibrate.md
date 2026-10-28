@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Fenofibrate"
 predicted_indications: ["cholesterol-ester transfer protein deficiency"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Fenofibrate：予測新適応症はコレステロールエステル転送蛋白欠損症（エビデンスレベル L5）。既存適応症：高脂血症、家族性高脂血症"
 ---
 

@@ -5,7 +5,7 @@ parent: 高エビデンスレベル
 nav_order: 198
 evidence_level: L2
 indication_count: 3
-last_modified_at: 2026-10-17
+last_modified_at: 2026-10-28
 description: "Luliconazole：予測新適応症は癜風 (Pityriasis Versicolor)（エビデンスレベル L2）。既存適応症：足白癬、体部白癬、白癬感染症、股部・肛門周囲の皮膚糸状菌症"
 monitor_inn: "Luliconazole"
 predicted_indications: ["pityriasis versicolor", "endothrix infectious disease", "ectothrix infectious disease"]

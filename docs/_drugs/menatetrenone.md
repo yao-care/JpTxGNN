@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Menatetrenone"
 predicted_indications: ["lipoma of the conjunctiva", "bronchial adenomas/carcinoids childhood", "chondroid hamartoma", "ductal or ductular proliferation", "non-seminomatous lesion", "tumor of testis and paratestis", "benign neoplasm of tongue", "thyroglossal duct cyst", "mesenchymoma", "cystic neoplasm"]
-last_modified_at: 2026-10-17
+last_modified_at: 2026-10-28
 description: "Menatetrenone：予測新適応症は結膜脂肪腫 (lipoma of the conjunctiva)（エビデンスレベル L5）。既存適応症：骨粗鬆症"
 ---
 

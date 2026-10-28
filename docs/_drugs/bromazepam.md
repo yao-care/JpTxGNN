@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "bromazepam"
 predicted_indications: ["migraine disorder"]
-last_modified_at: 2026-10-17
+last_modified_at: 2026-10-28
 description: "Bromazepam：予測新適応症は片頭痛 (Migraine Disorder)（エビデンスレベル L5）。既存適応症：神経症における不安、うつ病（抗不安薬・マイナートランキライザー・催眠鎮静薬）"
 ---
 

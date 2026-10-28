@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Cyclosporine"
 predicted_indications: ["granulomatous disease, chronic, autosomal recessive", "brain aneurysm", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congenital ichthyosiform erythroderma", "fetal erythroblastosis", "brachydactyly-syndactyly syndrome", "prolapse of lacrimal gland"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Cyclosporine：予測新適応症は慢性肉芽腫症、常染色体劣性 (granulomatous disease, chronic, autosomal recessive)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 

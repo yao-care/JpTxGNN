@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Pregabalin"
 predicted_indications: ["tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "inclusion body myositis", "migraine disorder", "migraine with brainstem aura"]
-last_modified_at: 2026-10-17
+last_modified_at: 2026-10-28
 description: "Pregabalin：予測新適応症は腱炎 (Tendinitis)（最上位予測）。エビデンスが最も豊富な候補は変形性関節症 (tendinitis)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 

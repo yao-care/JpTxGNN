@@ -5,7 +5,7 @@ parent: 中エビデンスレベル
 nav_order: 252
 evidence_level: L3
 indication_count: 6
-last_modified_at: 2026-10-17
+last_modified_at: 2026-10-28
 monitor_inn: "Pravastatin"
 predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "hypoalphalipoproteinemia", "cholesterol-ester transfer protein deficiency"]
 description: "Pravastatin：予測新適応症はHIV infectious disease（エビデンスレベル L3）。既存適応症：日本の承認情報に適応症の記載なし"

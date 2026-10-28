@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Amoxicillin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Amoxicillin：予測新適応症はポリクローナル高粘稠度症候群 (polyclonal hyperviscosity syndrome)（エビデンスレベル L5）。既存適応症：淋菌感染症、梅毒、歯周組織炎、猩紅熱、ヘリコバクター・ピロリ感染症"
 ---
 

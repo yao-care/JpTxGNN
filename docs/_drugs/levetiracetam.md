@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Levetiracetam"
 predicted_indications: ["beta-ketothiolase deficiency"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Levetiracetam：予測新適応症はβ-ケトチオラーゼ欠損症 (beta-ketothiolase deficiency)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 

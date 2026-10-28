@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 9
 monitor_inn: "Flecainide"
 predicted_indications: ["stroke disorder", "sick sinus syndrome 2, autosomal dominant", "ABri amyloidosis", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "duodenal obstruction", "cerebrovascular disorder", "nephrogenic syndrome of inappropriate antidiuresis"]
-last_modified_at: 2026-10-17
+last_modified_at: 2026-10-28
 description: "Flecainide：予測新適応症は脳卒中 (stroke disorder)（エビデンスレベル L4）。既存適応症：発作性心房細動・粗動、期外収縮"
 ---
 

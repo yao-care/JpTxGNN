@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "temozolomide"
 predicted_indications: ["cauda equina neoplasm"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Temozolomide：予測新適応症は馬尾腫瘍 (Cauda equina neoplasm)（エビデンスレベル L4）."
 ---
 

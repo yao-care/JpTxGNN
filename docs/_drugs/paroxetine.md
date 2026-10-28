@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 236
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-17
+last_modified_at: 2026-10-28
 monitor_inn: "Paroxetine"
 predicted_indications: ["Ohdo syndrome and variants"]
 description: "Paroxetine：予測新適応症はOhdo 症候群および類縁疾患 (Ohdo syndrome and variants)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"

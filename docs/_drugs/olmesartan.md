@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "olmesartan"
 predicted_indications: ["Prinzmetal angina", "hypotrichosis simplex of the scalp", "migraine disorder", "alopecia", "pulmonary hypertension", "congenital hypotrichosis milia", "diffuse alopecia areata", "migraine with brainstem aura", "kyphoscoliotic heart disease", "open-angle glaucoma"]
-last_modified_at: 2026-10-17
+last_modified_at: 2026-10-28
 description: "Olmesartan：予測新適応症は異型狭心症 (Prinzmetal angina)（TxGNN 最上位）／エビデンス最多：片頭痛 (migraine disorder)（エビデンスレベル L5）。既存適応症：血圧降下薬、アンジオテンシンII受容体拮抗薬（高血圧）"
 ---
 

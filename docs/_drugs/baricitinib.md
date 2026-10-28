@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Baricitinib"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
-last_modified_at: 2026-10-17
+last_modified_at: 2026-10-28
 description: "Baricitinib：予測新適応症はコロボーマ性小眼球症-根性肢異形成症候群 (colobomatous microphthalmia-rhizomelic dysplasi…（エビデンスレベル L5）。既存適応症：関節リウマチ"
 ---
 

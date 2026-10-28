@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 259
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-17
+last_modified_at: 2026-10-28
 description: "Propylthiouracil：予測新適応症は甲状腺ホルモン受容体β変異による甲状腺ホルモン不応症（エビデンスレベル L5）。既存適応症：甲状腺機能亢進症"
 monitor_inn: "Propylthiouracil"
 predicted_indications: ["resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "hyperthyroxinemia"]

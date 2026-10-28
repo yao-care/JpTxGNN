@@ -3,7 +3,7 @@ layout: default
 title: Cisatracurium
 parent: 既知の用途のみ（新規予測なし）
 nav_order: 87
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Cisatracurium: 日本における既知の用途と市場状況。現時点で新たな候補適応症はありません"
 predicted_indications: []
 indication_count: 0

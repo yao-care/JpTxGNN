@@ -5,7 +5,7 @@ parent: 高エビデンスレベル
 nav_order: 293
 evidence_level: L1
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 monitor_inn: "Tacrolimus"
 predicted_indications: ["seborrheic dermatitis", "parapsoriasis"]
 description: "Tacrolimus：予測新適応症は脂漏性皮膚炎 (seborrheic dermatitis)（エビデンスレベル L1）。既存適応症：日本の承認情報に適応症の記載なし"
@@ -147,8 +147,6 @@ TxGNN モデルは**脂漏性皮膚炎 (Seborrheic Dermatitis)** に有効であ
 
 同じ成分を含む日本の医薬品です。以下の名称でも検索できます。
 
-**商品名**：グラセプター、タリムス、プログラフ、プロトピック
 
-**販売名（規格別）**：タクロリムス5mg錠、タクロリムスカプセル0.5mg、タクロリムスカプセル1mg、タクロリムスカプセル5mg、タクロリムス軟膏0.1%、タクロリムス錠0.5mg、タクロリムス錠1.5mg、タクロリムス錠1mg、タクロリムス錠2mg、タクロリムス錠3mg、タクロリムス錠5mg、プログラフカプセル0.5mg、プログラフカプセル1mg、プログラフカプセル5mg、プログラフ注射液2mg 0.4mL、プログラフ注射液5mg 1mL、プログラフ顆粒0.2mg、プログラフ顆粒1mg、プロトピック軟膏0.03%小児用、プロトピック軟膏0.1%
 <!-- brand-names:end -->
 

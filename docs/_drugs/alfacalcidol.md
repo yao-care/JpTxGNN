@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "alfacalcidol"
 predicted_indications: ["craniofacial conodysplasia", "acromesomelic dysplasia, Campailla Martinelli type", "renal tubular acidosis"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Alfacalcidol：予測新適応症は頭蓋顔面円錐異形成（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載がなく、確認できません。スコアはTxGNNモデル（ディープラーニング）によるもので、関連疾患間でモデルが学習した類似性を反映している可能性があり、生物学的エビデンスではありません。"
 ---
 

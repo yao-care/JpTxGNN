@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 272
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-17
+last_modified_at: 2026-10-28
 monitor_inn: "Rosuvastatin"
 predicted_indications: ["cholesterol-ester transfer protein deficiency", "brain stem infarction", "HIV infectious disease", "hypoalphalipoproteinemia", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "ABri amyloidosis"]
 description: "Rosuvastatin：予測新適応症はコレステロールエステル転送蛋白欠損症 (cholesterol-ester transfer protein deficiency)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"

@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 145
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-17
+last_modified_at: 2026-10-28
 description: "Gefitinib：予測新適応症は歯肉線維腫症 (fibromatosis, gingival)（エビデンスレベル L5）。既存適応症：非小細胞肺癌（EGFR 遺伝子変異陽性）"
 monitor_inn: "Gefitinib"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung", "lung benign neoplasm", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome", "lung germ cell tumor", "pulmonary sulcus neoplasm", "junctional epidermolysis bullosa"]

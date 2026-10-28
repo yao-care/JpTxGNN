@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Quetiapine"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "hydranencephaly (disease)", "distal 17p13.3 microdeletion syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "trichotillomania", "syndromic myopia", "myopia 26, X-linked, female-limited"]
-last_modified_at: 2026-10-17
+last_modified_at: 2026-10-28
 description: "Quetiapine：予測新適応症は網膜ジストロフィー（眼外異常を伴う、または伴わない）（エビデンスレベル L5）。既存適応症：統合失調症、双極性障害におけるうつ症状"
 ---
 

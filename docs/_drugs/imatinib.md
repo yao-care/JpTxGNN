@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Imatinib"
 predicted_indications: ["heart fibrosarcoma", "fibroblastic neoplasm", "conventional fibrosarcoma", "kidney fibrosarcoma", "low grade fibromyxoid sarcoma", "liposarcoma", "liver fibrosarcoma", "autosomal recessive familial Mediterranean fever", "ovarian myxoid liposarcoma", "familial rhabdoid tumor"]
-last_modified_at: 2026-10-17
+last_modified_at: 2026-10-28
 description: "Imatinib：予測新適応症は心臓線維肉腫 (heart fibrosarcoma)（エビデンスレベル L5）。既存適応症：慢性骨髄性白血病、消化管間質腫瘍 (KIT 陽性)、フィラデルフィア染色体陽性急性リンパ性白血病…"
 ---
 

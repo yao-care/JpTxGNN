@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 10
 monitor_inn: "Amiodarone"
 predicted_indications: ["catecholaminergic polymorphic ventricular tachycardia", "incessant infant ventricular tachycardia", "ventricular tachycardia", "obsolete bundle branch block", "rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "heparin cofactor 2 deficiency", "trichotillomania", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "gout"]
-last_modified_at: 2026-10-17
+last_modified_at: 2026-10-28
 description: "Amiodarone：予測新適応症はカテコラミン誘発多形性心室頻拍 (Catecholaminergic Polymorphic Ventricular Tachycardi…（エビデンスレベル L5）。既存適応症：抗不整脈薬（カリウムチャネル遮断薬）：肥大型心筋症、心房細動"
 ---
 

@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 45
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-17
+last_modified_at: 2026-10-28
 description: "Bimatoprost：予測新適応症は歯・歯周組織の異常を伴う奇形症候群 (malformation syndrome with odontal and/or periodon…（エビデンスレベル L5）。既存適応症：緑内障（抗緑内障薬、睫毛発毛薬）"
 monitor_inn: "bimatoprost"
 predicted_indications: ["malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "Ambras type hypertrichosis universalis congenita", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "genetic alopecia", "pulmonary arteriovenous malformation (disease)"]

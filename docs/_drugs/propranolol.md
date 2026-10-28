@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 258
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-17
+last_modified_at: 2026-10-28
 description: "Propranolol：予測新適応症は遠位型ミオパチー・舘山型 (distal myopathy, Tateyama type)（エビデンスレベル L5）。既存適応症：本態性高血圧症、狭心症、期外収縮、頻拍性心房細動、新鮮心房細動、乳児血管腫"
 monitor_inn: "Propranolol"
 predicted_indications: ["distal myopathy, Tateyama type", "congenital myopathy with excess of thin filaments", "chondroma", "cirrhotic cardiomyopathy"]

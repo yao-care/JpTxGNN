@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Lisinopril"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Lisinopril：予測新適応症は原因が不明確な多因子性の肺高血圧症 (pulmonary hypertension with unclear multifactorial mechanism)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 

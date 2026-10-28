@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 91
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-17
+last_modified_at: 2026-10-28
 description: "Dextromethorphan：予測新適応症は鼻腔疾患 (nasal cavity disease)（エビデンスレベル L5）。既存適応症：鎮咳薬（気管支拡張症）"
 monitor_inn: "Dextromethorphan"
 predicted_indications: ["nasal cavity disease", "faucial diphtheria", "trigeminal autonomic cephalalgia", "cervical disc degenerative disorder", "allergic urticaria"]

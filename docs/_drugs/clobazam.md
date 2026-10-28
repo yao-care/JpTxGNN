@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Clobazam"
 predicted_indications: ["febrile infection-related epilepsy syndrome", "perioral myoclonia with absences", "atypical childhood epilepsy with centrotemporal spikes", "photosensitive occipital lobe epilepsy", "cryptogenic late-onset epileptic spasms", "childhood onset epileptic encephalopathy", "benign occipital epilepsy", "early-onset epileptic encephalopathy and intellectual disability due to GRIN2A mutation", "restless legs syndrome", "polymicrogyria with optic nerve hypoplasia"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Clobazam：予測新適応症は熱性感染症関連てんかん症候群 (febrile infection-related epilepsy syndrome)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 

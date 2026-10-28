@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 200
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-17
+last_modified_at: 2026-10-28
 description: "Meloxicam：予測新適応症は肢中間部異形成症 Hunter-Thompson 型 (acromesomelic dysplasia…（エビデンスレベル L5）。既存適応症：関節リウマチ（鎮痛薬、抗炎症薬、シクロオキシゲナーゼ2阻害薬）"
 monitor_inn: "Meloxicam"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "rheumatoid nodulosis", "WHIM syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]

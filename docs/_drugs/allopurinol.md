@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Allopurinol"
 predicted_indications: ["hepatic porphyria", "hepatoportal sclerosis", "hepatopulmonary syndrome", "early-onset familial noncirrhotic portal hypertension", "idiopathic copper-associated cirrhosis", "primitive portal vein thrombosis", "disorder of phenylalanine metabolism", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "inflammatory myopathy with abundant macrophages"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Allopurinol：予測新適応症は肝性ポルフィリン症（エビデンスレベル L5）。既存適応症：痛風（尿酸生合成抑制薬、キサンチンオキシダーゼ阻害薬）"
 ---
 

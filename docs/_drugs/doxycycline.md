@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 102
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-17
+last_modified_at: 2026-10-28
 description: "Doxycycline：予測新適応症は点状表層角結膜炎 (Punctate Epithelial Keratoconjunctivitis)（エビデンスレベル L4）。既存適応症：気管支炎、ざ瘡、細菌性肺炎、炭疽（吸入・消化管）、淋菌感染症、咽頭炎、放線菌症、軟性下疳、レプトスピラ症、鼠径リンパ肉芽腫 など"
 monitor_inn: "Doxycycline"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "exposure keratitis", "chronic gingivitis"]

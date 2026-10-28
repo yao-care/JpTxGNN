@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 267
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-17
+last_modified_at: 2026-10-28
 monitor_inn: "Risperidone"
 predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania", "major affective disorder"]
 description: "Risperidone：予測新適応症はGaze palsy, familial horizontal, with progressive scoliosis（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"

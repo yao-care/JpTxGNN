@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Moxifloxacin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder", "hematopoietic and lymphoid system neoplasm"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Moxifloxacin：予測新適応症は多クローン性高粘稠度症候群 (polyclonal hyperviscosity syndrome)（エビデンスレベル L5）。既存適応症：眼瞼炎、結膜炎（点眼液の承認適応症）"
 ---
 

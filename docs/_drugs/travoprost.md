@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "travoprost"
 predicted_indications: ["visceral calciphylaxis", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "vascular disease", "angiodysplasia of stomach", "blue toe syndrome", "lymphangiectasis", "idiopathic spontaneous coronary artery dissection", "hemangioendothelioma"]
-last_modified_at: 2026-10-17
+last_modified_at: 2026-10-28
 description: "Travoprost：予測新適応症はVisceral calciphylaxis（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 

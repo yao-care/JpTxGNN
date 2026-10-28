@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Axitinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipoma", "familial spontaneous pneumothorax"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Axitinib：予測新適応症は脂肪肉腫 (liposarcoma)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Istradefylline"
 predicted_indications: ["Rasmussen subacute encephalitis"]
-last_modified_at: 2026-10-17
+last_modified_at: 2026-10-28
 description: "Istradefylline：予測新適応症はラスムッセン亜急性脳炎 (Rasmussen subacute encephalitis)（エビデンスレベル L5）。既存適応症：パーキンソン病（および関連するパーキンソニズム症候群）"
 ---
 

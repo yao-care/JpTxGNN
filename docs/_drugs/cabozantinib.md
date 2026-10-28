@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Cabozantinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "amyotrophic lateral sclerosis", "bilateral parasagittal parieto-occipital polymicrogyria", "angiolipoma"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Cabozantinib：予測新適応症は脂肪肉腫 (liposarcoma)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 

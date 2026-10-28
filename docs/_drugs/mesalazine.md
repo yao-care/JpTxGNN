@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "mesalazine"
 predicted_indications: ["congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "rheumatoid arthritis", "seborrheic keratosis", "vulvar inverted follicular keratosis", "pseudoachondroplasia"]
-last_modified_at: 2026-10-17
+last_modified_at: 2026-10-28
 description: "Mesalazine：予測新適応症は若年性黄斑ジストロフィーを伴う先天性乏毛症 (Congenital Hypotrichosis with Juvenile Macular…（エビデンスレベル L5）。既存適応症：潰瘍性大腸炎、クローン病（抗炎症薬）"
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Vincristine"
 predicted_indications: ["vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Vincristine：予測新適応症は椎骨異常を伴う内分泌・T細胞機能異常症候群（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載はありません。"
 ---
 

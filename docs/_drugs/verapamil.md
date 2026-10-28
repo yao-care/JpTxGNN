@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 334
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-17
+last_modified_at: 2026-10-28
 monitor_inn: "Verapamil"
 predicted_indications: ["obsolete bundle branch block", "malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "periodic paralysis with transient compartment-like syndrome"]
 description: "Verapamil：予測新適応症は閉塞性脚ブロック (obsolete bundle branch block)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"

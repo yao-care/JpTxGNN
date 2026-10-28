@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 333
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-17
+last_modified_at: 2026-10-28
 monitor_inn: "Venetoclax"
 predicted_indications: ["Hodgkins lymphoma", "chronic myelogenous leukemia, BCR-ABL1 positive", "Ewing sarcoma", "follicular lymphoma", "metastatic neoplasm", "malignant spiradenoma"]
 description: "Venetoclax：予測新適応症はHodgkins lymphoma（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"

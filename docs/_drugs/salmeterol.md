@@ -5,7 +5,7 @@ parent: 高エビデンスレベル
 nav_order: 276
 evidence_level: L1
 indication_count: 5
-last_modified_at: 2026-10-17
+last_modified_at: 2026-10-28
 monitor_inn: "Salmeterol"
 predicted_indications: ["bronchitis", "respiratory malformation", "obstructive lung disease", "Rienhoff syndrome", "atopic eczema"]
 description: "Salmeterol：予測新適応症は気管支炎 (bronchitis)（エビデンスレベル L1）。既存適応症：日本の承認情報に適応症の記載なし"

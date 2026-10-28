@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 223
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-17
+last_modified_at: 2026-10-28
 monitor_inn: "nitrazepam"
 predicted_indications: ["Wernicke-Korsakoff syndrome"]
 description: "Nitrazepam：予測新適応症はWernicke-Korsakoff syndrome（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"

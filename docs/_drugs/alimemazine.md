@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "alimemazine"
 predicted_indications: ["IgE responsiveness, atopic", "nasal cavity disease", "recalcitrant atopic dermatitis"]
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Alimemazine：予測新適応症はアトピー性 IgE 反応性 (IgE responsiveness, atopic)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし。ナレッジグラフ上の記録された関係：血管性浮腫、アレルギー性鼻炎、血管運動性鼻炎、咽頭炎、かぜ…"
 ---
 

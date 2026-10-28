@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 257
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-17
+last_modified_at: 2026-10-28
 description: "Propafenone：予測新適応症は躁病性双極性障害。TxGNN モデル（深層学習）のスコアは 0.9980（エビデンスレベル L4）。既存適応症：抗不整脈薬、ナトリウムチャネル遮断薬"
 monitor_inn: "Propafenone"
 predicted_indications: ["manic bipolar affective disorder", "periodic paralysis with transient compartment-like syndrome", "Prinzmetal angina", "arrhythmogenic right ventricular cardiomyopathy", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania"]

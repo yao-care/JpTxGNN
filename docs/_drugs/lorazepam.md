@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 193
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-17
+last_modified_at: 2026-10-28
 description: "Lorazepam：予測新適応症は三叉神経腫瘍 (trigeminal nerve neoplasm)（エビデンスレベル L5）。既存適応症：神経症における不安（抗不安薬、抗けいれん薬、マイナートランキライザー）"
 monitor_inn: "Lorazepam"
 predicted_indications: ["trigeminal nerve neoplasm"]

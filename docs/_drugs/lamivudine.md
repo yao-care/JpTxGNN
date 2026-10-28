@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Lamivudine"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "chronic hepatitis C virus infection"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Lamivudine：予測新適応症はサル免疫不全ウイルス感染症 (simian immunodeficiency virus infection)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 

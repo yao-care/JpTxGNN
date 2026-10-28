@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Denosumab"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy"]
-last_modified_at: 2026-10-17
+last_modified_at: 2026-10-28
 description: "Denosumab：予測新適応症は重症非増殖性糖尿病網膜症 (Severe Nonproliferative Diabetic Retinopathy)（エビデンスレベル L5）。既存適応症：骨粗鬆症（閉経後骨粗鬆症、薬剤性骨粗鬆症）"
 ---
 
