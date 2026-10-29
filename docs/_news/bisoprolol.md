@@ -15,7 +15,7 @@ last_modified_at: 2026-10-29
 ---
 
 <p class="key-answer" data-question="メインテート錠５ｍｇ（選） に関するニュースは？">
-<strong>メインテート錠５ｍｇ（選）</strong> には現在 <strong>12 件</strong>の関連ニュースがあり、予測適応症は 4 件です。
+<strong>メインテート錠５ｍｇ（選）</strong> には現在 <strong>13 件</strong>の関連ニュースがあり、予測適応症は 4 件です。
 </p>
 
 <div class="key-takeaway">
@@ -36,15 +36,7 @@ last_modified_at: 2026-10-29
 <p><a href="{{ '/drugs/bisoprolol/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（12 件）
-
-### [40kg減量ダイエットに成功した55歳女性が実感「がんばれるジム」を選ぶほど続かないワケ(HALMEK up)](https://news.yahoo.co.jp/articles/57b2970b6fd32e1abbcd618be6446dc8eafec45b?source=rss)
-
-2026-10-29 <span class="news-indication-tag">がん</span>
-
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/57b2970b6fd32e1abbcd618be6446dc8eafec45b?source=rss)
-
----
+## 関連ニュース（13 件）
 
 ### [統合失調症の患者に”がん治療格差”　早期発見や手術率の低さが研究で判明…「誰一人取り残さない」治療体制のために(RSK山陽放送)](https://news.yahoo.co.jp/articles/6ff977a85cf83acabac7a4a8da6462b8dbe350d3?source=rss)
 
@@ -110,6 +102,14 @@ last_modified_at: 2026-10-29
 
 ---
 
+### [GSKのがん治療薬、直腸がん患者の76%で腫瘍が完全消失 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース](https://news.google.com/rss/articles/CBMicEFVX3lxTE5QYTU3d3daMks1MzZSSWJucWNNOWhnZXpsM3I0RGhlOXF2UEhyajdTQlRFcWo0SDBNeXJKWnJKc2hnUzZGa3UzTUdoemFXUVFlVU02RGdjblZpMnFMTEJMdEtyQkRxc2pnTVNiXzdJaU0?oc=5)
+
+2026-10-26 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">癌</span> <span class="news-indication-tag">腫瘍</span> <span class="news-indication-tag">直腸がん</span>
+
+出典: [Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース](https://news.google.com/rss/articles/CBMicEFVX3lxTE5QYTU3d3daMks1MzZSSWJucWNNOWhnZXpsM3I0RGhlOXF2UEhyajdTQlRFcWo0SDBNeXJKWnJKc2hnUzZGa3UzTUdoemFXUVFlVU02RGdjblZpMnFMTEJMdEtyQkRxc2pnTVNiXzdJaU0?oc=5)
+
+---
+
 ### [9520のタンパクから真の原因へ：プロテオゲノミクス×因果推論で拓く虚血性心疾患の創薬](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kYVA0TEsyejJrRTRlQ2hxZER4dmpIZkJNamI5MDZ0UU5sLUh0UC1Wbkd6YUJoUUFHRUZYUHFYUGJua3Nvd05oMlJ1LUxEeWl0VWc?oc=5)
 
 2026-10-25 <span class="news-indication-tag">心疾患</span>
@@ -126,11 +126,19 @@ last_modified_at: 2026-10-29
 
 ---
 
-### [がん予防について学ぶ 白浜中で啓発講座、和歌山 - AGARA 紀伊民報](https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xXzBiakRYMjBlMk9XVEc3aFBjaC1qX1JNYmd0R204S1pQTDBESnV4Uzk0RzcwbUhyc1dDWjZRdW96RGpSY0h5ang2bnRCRUk?oc=5)
+### [生活習慣で乳がんリスクは変わる？運動習慣は発症リスクなどの低下と関連 (2026年10月23日掲載)](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSWWhZOUFib3ItYmZTUGUyOVlqaHNzdUdjNzJvQnFrbEtDYTh4YUFlSndsd3NMNGZrVWVMM1VNUVhmaUFVX2d2NkxWTDlCZmVVNDN4YkZJNVVrVzRqLXc?oc=5)
 
-2026-10-24 <span class="news-indication-tag">がん</span>
+2026-10-23 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
 
-出典: [AGARA 紀伊民報](https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xXzBiakRYMjBlMk9XVEc3aFBjaC1qX1JNYmd0R204S1pQTDBESnV4Uzk0RzcwbUhyc1dDWjZRdW96RGpSY0h5ang2bnRCRUk?oc=5)
+出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSWWhZOUFib3ItYmZTUGUyOVlqaHNzdUdjNzJvQnFrbEtDYTh4YUFlSndsd3NMNGZrVWVMM1VNUVhmaUFVX2d2NkxWTDlCZmVVNDN4YkZJNVVrVzRqLXc?oc=5)
+
+---
+
+### [「私には関係ない」を防ぐために - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE5NQlpqLV9IdEFwTldCTk8xZjJWcFE1ODZWMnhNZ2tqSE9yak56R1ZuRG9LbG83WXdDMEh0bG53T2pSTVRjcjhMNjFXTl82dzRBUGNLN3hPMjRYYzRqVFQ1Unc2ck9jazhfay13dk9n?oc=5)
+
+2026-10-23 <span class="news-indication-tag">がん</span>
+
+出典: [au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE5NQlpqLV9IdEFwTldCTk8xZjJWcFE1ODZWMnhNZ2tqSE9yak56R1ZuRG9LbG83WXdDMEh0bG53T2pSTVRjcjhMNjFXTl82dzRBUGNLN3hPMjRYYzRqVFQ1Unc2ck9jazhfay13dk9n?oc=5)
 
 ---
 

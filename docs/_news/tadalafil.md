@@ -15,7 +15,7 @@ last_modified_at: 2026-10-29
 ---
 
 <p class="key-answer" data-question="ザルティア錠５ｍｇ（選） に関するニュースは？">
-<strong>ザルティア錠５ｍｇ（選）</strong> には現在 <strong>3 件</strong>の関連ニュースがあり、予測適応症は 8 件です。
+<strong>ザルティア錠５ｍｇ（選）</strong> には現在 <strong>2 件</strong>の関連ニュースがあり、予測適応症は 8 件です。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ last_modified_at: 2026-10-29
 <p><a href="{{ '/drugs/tadalafil/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（3 件）
+## 関連ニュース（2 件）
 
 ### [お酒が引き起こす心臓病がある！ リスクが大きい飲み方とは：左党の一分：日経Gooday（グッデイ）](https://news.google.com/rss/articles/CBMilAFBVV95cUxPWEZqZTF4cnlPOU14UGhGa21xdE1UQ0xIVE9wOWlBc2NLel9lYTk1SEx3UHROSFZtQVIzNUx4XzV3OXhoZGF6a05SVDdueFZfVExKZDB0TDRySjJUS3l1ZEtyMWhzbC1PYTMzellQaUVBZWw4VElNUUh2S21UYkVCNDdxMGZJR29Sem81MEMtdzNSSmdi?oc=5)
 
@@ -55,14 +55,6 @@ last_modified_at: 2026-10-29
 2026-10-25 <span class="news-indication-tag">心疾患</span>
 
 出典: [m3.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kYVA0TEsyejJrRTRlQ2hxZER4dmpIZkJNamI5MDZ0UU5sLUh0UC1Wbkd6YUJoUUFHRUZYUHFYUGJua3Nvd05oMlJ1LUxEeWl0VWc?oc=5)
-
----
-
-### [早期に認識すべき脳卒中の5つの警告サイン](https://news.google.com/rss/articles/CBMikAFBVV95cUxPS1pueVFYanZybTRkSzRfVktyYk1PY2RzWHNGLXBuVUw3emVVb2FicmozNWRvTUViTWNFN2ZfV3Z5Q0dTS2tRSHRnY0g2RXdzYnFKSEFFWE9LTHo4S0ZteG1rY0x4bzk5TnVDYjdCc1dFR2VrZWFBRjNjN3l5akVtSWg1M2YxWUhXZnU5b2hvdng?oc=5)
-
-2026-10-25 <span class="news-indication-tag">脳卒中</span>
-
-出典: [Laodong.vn](https://news.google.com/rss/articles/CBMikAFBVV95cUxPS1pueVFYanZybTRkSzRfVktyYk1PY2RzWHNGLXBuVUw3emVVb2FicmozNWRvTUViTWNFN2ZfV3Z5Q0dTS2tRSHRnY0g2RXdzYnFKSEFFWE9LTHo4S0ZteG1rY0x4bzk5TnVDYjdCc1dFR2VrZWFBRjNjN3l5akVtSWg1M2YxWUhXZnU5b2hvdng?oc=5)
 
 ---
 

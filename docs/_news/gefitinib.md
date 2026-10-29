@@ -43,14 +43,6 @@ last_modified_at: 2026-10-29
 
 ## 関連ニュース（12 件）
 
-### [40kg減量ダイエットに成功した55歳女性が実感「がんばれるジム」を選ぶほど続かないワケ(HALMEK up)](https://news.yahoo.co.jp/articles/57b2970b6fd32e1abbcd618be6446dc8eafec45b?source=rss)
-
-2026-10-29 <span class="news-indication-tag">がん</span>
-
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/57b2970b6fd32e1abbcd618be6446dc8eafec45b?source=rss)
-
----
-
 ### [統合失調症の患者に”がん治療格差”　早期発見や手術率の低さが研究で判明…「誰一人取り残さない」治療体制のために(RSK山陽放送)](https://news.yahoo.co.jp/articles/6ff977a85cf83acabac7a4a8da6462b8dbe350d3?source=rss)
 
 2026-10-29 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">統合失調症</span>
@@ -80,14 +72,6 @@ last_modified_at: 2026-10-29
 2026-10-28 <span class="news-indication-tag">帯状疱疹</span> <span class="news-indication-tag">認知症</span>
 
 出典: [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxQM3dMdmZWemJLZHluY0ppWWFFdzBkbHZKeG5oajI4SUhtOC1vSUI4WDZWcXNicDZpZXlYYTRyeGdBZDhBQkJlelZxZ3A1dE5QdUlaZnQ4QmJ4V1BqanJRV3QycENQcUhYUG9fTGhJN3d0VjdQeXhyMjFqTlJWNU1FdFJ5RzNKMUE?oc=5)
-
----
-
-### [認知症は｢家系だから仕方ない｣は誤解だった…遺伝リスクが高くても発症リスクが約3割低かった人の生活習慣](https://news.google.com/rss/articles/CBMihwFBVV95cUxOcWNwWmdVNVBvMVg1NmVieUs0YVFiUGxSTnJodmhwX1NBaWx0UTFwRTRqNVF2WnE5emhoU2VfVnlTbFVPR1ZNU042aENoWTg2VERxVS1TOXo2aWNzN0swSG9kSEhBeU5kUUQwSHZCajAxa3dzbXFpMVU2UDYzVndodTN3U3dDUDQ?oc=5)
-
-2026-10-28 <span class="news-indication-tag">認知症</span>
-
-出典: [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxOcWNwWmdVNVBvMVg1NmVieUs0YVFiUGxSTnJodmhwX1NBaWx0UTFwRTRqNVF2WnE5emhoU2VfVnlTbFVPR1ZNU042aENoWTg2VERxVS1TOXo2aWNzN0swSG9kSEhBeU5kUUQwSHZCajAxa3dzbXFpMVU2UDYzVndodTN3U3dDUDQ?oc=5)
 
 ---
 
@@ -123,6 +107,14 @@ last_modified_at: 2026-10-29
 
 ---
 
+### [GSKのがん治療薬、直腸がん患者の76%で腫瘍が完全消失 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース](https://news.google.com/rss/articles/CBMicEFVX3lxTE5QYTU3d3daMks1MzZSSWJucWNNOWhnZXpsM3I0RGhlOXF2UEhyajdTQlRFcWo0SDBNeXJKWnJKc2hnUzZGa3UzTUdoemFXUVFlVU02RGdjblZpMnFMTEJMdEtyQkRxc2pnTVNiXzdJaU0?oc=5)
+
+2026-10-26 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">癌</span> <span class="news-indication-tag">腫瘍</span> <span class="news-indication-tag">直腸がん</span>
+
+出典: [Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース](https://news.google.com/rss/articles/CBMicEFVX3lxTE5QYTU3d3daMks1MzZSSWJucWNNOWhnZXpsM3I0RGhlOXF2UEhyajdTQlRFcWo0SDBNeXJKWnJKc2hnUzZGa3UzTUdoemFXUVFlVU02RGdjblZpMnFMTEJMdEtyQkRxc2pnTVNiXzdJaU0?oc=5)
+
+---
+
 ### [ソンラ省、150人の女性労働組合員に無料の専門的ながん検診を実施](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWnNJeXRmaUdEcVZ4eHRZNVYteWF0Q1F2Qm1xbzRkTG5QUXo4RTc2aU9SSTlaMHNkazZETTdLOVQ1cFBWRTItbkJNd2hkNU5IVTRERXQwR0d0MzZQMVJYZzJTNjZRNmxxZExJWjNfeDNRcGVFNS14dHdmaEZxakx4NU1fUlpNbWtYaUs4b2VZNHlZd09YQzVjclk0cjdCMTNDcmxSeVp6MmxqUExDNk94bk5sbkgxbmJYVU1CbVVwZng?oc=5)
 
 2026-10-25 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">肺がん</span>
@@ -131,11 +123,19 @@ last_modified_at: 2026-10-29
 
 ---
 
-### [がん予防について学ぶ 白浜中で啓発講座、和歌山 - AGARA 紀伊民報](https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xXzBiakRYMjBlMk9XVEc3aFBjaC1qX1JNYmd0R204S1pQTDBESnV4Uzk0RzcwbUhyc1dDWjZRdW96RGpSY0h5ang2bnRCRUk?oc=5)
+### [生活習慣で乳がんリスクは変わる？運動習慣は発症リスクなどの低下と関連 (2026年10月23日掲載)](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSWWhZOUFib3ItYmZTUGUyOVlqaHNzdUdjNzJvQnFrbEtDYTh4YUFlSndsd3NMNGZrVWVMM1VNUVhmaUFVX2d2NkxWTDlCZmVVNDN4YkZJNVVrVzRqLXc?oc=5)
 
-2026-10-24 <span class="news-indication-tag">がん</span>
+2026-10-23 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
 
-出典: [AGARA 紀伊民報](https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xXzBiakRYMjBlMk9XVEc3aFBjaC1qX1JNYmd0R204S1pQTDBESnV4Uzk0RzcwbUhyc1dDWjZRdW96RGpSY0h5ang2bnRCRUk?oc=5)
+出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSWWhZOUFib3ItYmZTUGUyOVlqaHNzdUdjNzJvQnFrbEtDYTh4YUFlSndsd3NMNGZrVWVMM1VNUVhmaUFVX2d2NkxWTDlCZmVVNDN4YkZJNVVrVzRqLXc?oc=5)
+
+---
+
+### [「私には関係ない」を防ぐために - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE5NQlpqLV9IdEFwTldCTk8xZjJWcFE1ODZWMnhNZ2tqSE9yak56R1ZuRG9LbG83WXdDMEh0bG53T2pSTVRjcjhMNjFXTl82dzRBUGNLN3hPMjRYYzRqVFQ1Unc2ck9jazhfay13dk9n?oc=5)
+
+2026-10-23 <span class="news-indication-tag">がん</span>
+
+出典: [au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE5NQlpqLV9IdEFwTldCTk8xZjJWcFE1ODZWMnhNZ2tqSE9yak56R1ZuRG9LbG83WXdDMEh0bG53T2pSTVRjcjhMNjFXTl82dzRBUGNLN3hPMjRYYzRqVFQ1Unc2ck9jazhfay13dk9n?oc=5)
 
 ---
 

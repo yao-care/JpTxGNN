@@ -15,7 +15,7 @@ last_modified_at: 2026-10-29
 ---
 
 <p class="key-answer" data-question="エンペシドクリーム１％（選） に関するニュースは？">
-<strong>エンペシドクリーム１％（選）</strong> には現在 <strong>11 件</strong>の関連ニュースがあり、予測適応症は 3 件です。
+<strong>エンペシドクリーム１％（選）</strong> には現在 <strong>13 件</strong>の関連ニュースがあり、予測適応症は 3 件です。
 </p>
 
 <div class="key-takeaway">
@@ -35,13 +35,13 @@ last_modified_at: 2026-10-29
 <p><a href="{{ '/drugs/clotrimazole/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（11 件）
+## 関連ニュース（13 件）
 
-### [40kg減量ダイエットに成功した55歳女性が実感「がんばれるジム」を選ぶほど続かないワケ(HALMEK up)](https://news.yahoo.co.jp/articles/57b2970b6fd32e1abbcd618be6446dc8eafec45b?source=rss)
+### [【更年期は「女性の健康の崖」か】骨・肝臓・血中脂質に急激な変化、大規模研究で判明(ヨガジャーナルオンライン)](https://news.yahoo.co.jp/articles/a8b0c9126268710e6edf2c8df16262b3f46c8e0d?source=rss)
 
-2026-10-29 <span class="news-indication-tag">がん</span>
+2026-10-29 <span class="news-indication-tag">更年期</span>
 
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/57b2970b6fd32e1abbcd618be6446dc8eafec45b?source=rss)
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/a8b0c9126268710e6edf2c8df16262b3f46c8e0d?source=rss)
 
 ---
 
@@ -101,6 +101,14 @@ last_modified_at: 2026-10-29
 
 ---
 
+### [GSKのがん治療薬、直腸がん患者の76%で腫瘍が完全消失 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース](https://news.google.com/rss/articles/CBMicEFVX3lxTE5QYTU3d3daMks1MzZSSWJucWNNOWhnZXpsM3I0RGhlOXF2UEhyajdTQlRFcWo0SDBNeXJKWnJKc2hnUzZGa3UzTUdoemFXUVFlVU02RGdjblZpMnFMTEJMdEtyQkRxc2pnTVNiXzdJaU0?oc=5)
+
+2026-10-26 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">癌</span> <span class="news-indication-tag">腫瘍</span> <span class="news-indication-tag">直腸がん</span>
+
+出典: [Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース](https://news.google.com/rss/articles/CBMicEFVX3lxTE5QYTU3d3daMks1MzZSSWJucWNNOWhnZXpsM3I0RGhlOXF2UEhyajdTQlRFcWo0SDBNeXJKWnJKc2hnUzZGa3UzTUdoemFXUVFlVU02RGdjblZpMnFMTEJMdEtyQkRxc2pnTVNiXzdJaU0?oc=5)
+
+---
+
 ### [ソンラ省、150人の女性労働組合員に無料の専門的ながん検診を実施](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWnNJeXRmaUdEcVZ4eHRZNVYteWF0Q1F2Qm1xbzRkTG5QUXo4RTc2aU9SSTlaMHNkazZETTdLOVQ1cFBWRTItbkJNd2hkNU5IVTRERXQwR0d0MzZQMVJYZzJTNjZRNmxxZExJWjNfeDNRcGVFNS14dHdmaEZxakx4NU1fUlpNbWtYaUs4b2VZNHlZd09YQzVjclk0cjdCMTNDcmxSeVp6MmxqUExDNk94bk5sbkgxbmJYVU1CbVVwZng?oc=5)
 
 2026-10-25 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">肺がん</span>
@@ -117,11 +125,19 @@ last_modified_at: 2026-10-29
 
 ---
 
-### [がん予防について学ぶ 白浜中で啓発講座、和歌山 - AGARA 紀伊民報](https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xXzBiakRYMjBlMk9XVEc3aFBjaC1qX1JNYmd0R204S1pQTDBESnV4Uzk0RzcwbUhyc1dDWjZRdW96RGpSY0h5ang2bnRCRUk?oc=5)
+### [生活習慣で乳がんリスクは変わる？運動習慣は発症リスクなどの低下と関連 (2026年10月23日掲載)](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSWWhZOUFib3ItYmZTUGUyOVlqaHNzdUdjNzJvQnFrbEtDYTh4YUFlSndsd3NMNGZrVWVMM1VNUVhmaUFVX2d2NkxWTDlCZmVVNDN4YkZJNVVrVzRqLXc?oc=5)
 
-2026-10-24 <span class="news-indication-tag">がん</span>
+2026-10-23 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
 
-出典: [AGARA 紀伊民報](https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xXzBiakRYMjBlMk9XVEc3aFBjaC1qX1JNYmd0R204S1pQTDBESnV4Uzk0RzcwbUhyc1dDWjZRdW96RGpSY0h5ang2bnRCRUk?oc=5)
+出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSWWhZOUFib3ItYmZTUGUyOVlqaHNzdUdjNzJvQnFrbEtDYTh4YUFlSndsd3NMNGZrVWVMM1VNUVhmaUFVX2d2NkxWTDlCZmVVNDN4YkZJNVVrVzRqLXc?oc=5)
+
+---
+
+### [「私には関係ない」を防ぐために - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE5NQlpqLV9IdEFwTldCTk8xZjJWcFE1ODZWMnhNZ2tqSE9yak56R1ZuRG9LbG83WXdDMEh0bG53T2pSTVRjcjhMNjFXTl82dzRBUGNLN3hPMjRYYzRqVFQ1Unc2ck9jazhfay13dk9n?oc=5)
+
+2026-10-23 <span class="news-indication-tag">がん</span>
+
+出典: [au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE5NQlpqLV9IdEFwTldCTk8xZjJWcFE1ODZWMnhNZ2tqSE9yak56R1ZuRG9LbG83WXdDMEh0bG53T2pSTVRjcjhMNjFXTl82dzRBUGNLN3hPMjRYYzRqVFQ1Unc2ck9jazhfay13dk9n?oc=5)
 
 ---
 
