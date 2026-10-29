@@ -3,9 +3,9 @@ layout: default
 title: "心臓病 (heart_disease) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "心臓病 (heart_disease) に関する健康ニュース。ニュース 3 件、関連医薬品 41 件。"
+description: "心臓病 (heart_disease) に関する健康ニュース。ニュース 2 件、関連医薬品 41 件。"
 permalink: /news/heart-disease/
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 ---
 
 # 心臓病 (heart_disease) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="心臓病 (heart_disease) に関するニュースは？">
-<strong>心臓病 (heart_disease)</strong> には現在 <strong>3 件</strong>の関連ニュースと 41 件の関連医薬品があります。
+<strong>心臓病 (heart_disease)</strong> には現在 <strong>2 件</strong>の関連ニュースと 41 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -69,7 +69,7 @@ last_modified_at: 2026-10-28
 </ul>
 </div>
 
-## 関連ニュース（3 件）
+## 関連ニュース（2 件）
 
 ### [お酒が引き起こす心臓病がある！ リスクが大きい飲み方とは：左党の一分：日経Gooday（グッデイ）](https://news.google.com/rss/articles/CBMijAFBVV95cUxQWXRmOE94LW5jeEtIcEUxVjFXQkJ1YkpTZHRSSEp1b0c3WjRZdTRtZlRkVWJEUGRPM1h2UnFBU2pYbnRuVk15X0J0aHZnS1A3Ymhjc0xZeXNyZGJfN0lrV0VIbnNzVnZIUFJnVjJsU3V3STFFMFBYRkhIWU0zT0JxbXpad2ZSNXdpcll5RA?oc=5)
 
@@ -84,14 +84,6 @@ last_modified_at: 2026-10-28
 2026-10-25
 
 出典: [m3.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kYVA0TEsyejJrRTRlQ2hxZER4dmpIZkJNamI5MDZ0UU5sLUh0UC1Wbkd6YUJoUUFHRUZYUHFYUGJua3Nvd05oMlJ1LUxEeWl0VWc?oc=5)
-
----
-
-### [お茶は飲み方次第、心臓の健康に良くも悪くも　紅茶の方が緑茶よりも効果？(CNN.co.jp)](https://news.yahoo.co.jp/articles/7956278a7c18ca5a18b20ffd29cd2d193627aa9b?source=rss)
-
-2026-10-24
-
-出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/7956278a7c18ca5a18b20ffd29cd2d193627aa9b?source=rss)
 
 ---
 

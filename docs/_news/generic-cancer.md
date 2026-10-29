@@ -3,9 +3,9 @@ layout: default
 title: "がん (generic_cancer) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "がん (generic_cancer) に関する健康ニュース。ニュース 8 件、関連医薬品 67 件。"
+description: "がん (generic_cancer) に関する健康ニュース。ニュース 9 件、関連医薬品 67 件。"
 permalink: /news/generic-cancer/
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 ---
 
 # がん (generic_cancer) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="がん (generic_cancer) に関するニュースは？">
-<strong>がん (generic_cancer)</strong> には現在 <strong>8 件</strong>の関連ニュースと 67 件の関連医薬品があります。
+<strong>がん (generic_cancer)</strong> には現在 <strong>9 件</strong>の関連ニュースと 67 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -94,7 +94,23 @@ last_modified_at: 2026-10-28
 </ul>
 </div>
 
-## 関連ニュース（8 件）
+## 関連ニュース（9 件）
+
+### [20～40代に増加中の「子宮頸がん」。原因の多くは自覚症状ゼロのHPV感染…20歳から始める婦人科検診の重要性を産婦人科医が解説 (2026年10月29日掲載)](https://news.google.com/rss/articles/CBMiXkFVX3lxTE4zbVZMVnJBR1hVcEN3Z1RmTGZWNTFaYXB3UVVaVDhfVGIxRTRDSVFKTWh0VXZGcFhqZmlZb2NqRGlwTFhYYkZyRFI4V1BDdW1fZ2I5dTNNeVU3WldGZGc?oc=5)
+
+2026-10-29
+
+出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiXkFVX3lxTE4zbVZMVnJBR1hVcEN3Z1RmTGZWNTFaYXB3UVVaVDhfVGIxRTRDSVFKTWh0VXZGcFhqZmlZb2NqRGlwTFhYYkZyRFI4V1BDdW1fZ2I5dTNNeVU3WldGZGc?oc=5)
+
+---
+
+### [糖尿病の悪化と体重減少、膵がん早期発見の鍵に－東北大ほか](https://news.google.com/rss/articles/CBMihgFBVV95cUxPQUlTMXM0eENVbmwzcTZTeUw5V2MtdjhrSV9Ra24ySUQyQjcteUVXR25SYk9EOWk3dzZ4eVg2eXdUc3VCd1p0LS1rQ296NzZnQTVBdVI1RmFHel9uYVpKSDF3UjZmZlQ0cDc2dGdWWXowT3htMW11MllXMTFXTVFESkhxdE9RUQ?oc=5)
+
+2026-10-28
+
+出典: [QLifePro](https://news.google.com/rss/articles/CBMihgFBVV95cUxPQUlTMXM0eENVbmwzcTZTeUw5V2MtdjhrSV9Ra24ySUQyQjcteUVXR25SYk9EOWk3dzZ4eVg2eXdUc3VCd1p0LS1rQ296NzZnQTVBdVI1RmFHel9uYVpKSDF3UjZmZlQ0cDc2dGdWWXowT3htMW11MllXMTFXTVFESkhxdE9RUQ?oc=5)
+
+---
 
 ### [化学療法反応スコアは進行卵巣がんのPARP阻害薬維持療法の効果を予測可能か／Gynecol Oncol｜CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QWVhPZGVwQU5sVEc3c0JnS25TelYya1J2OUw0SmtCMDNabHNLWnpkMEFWRFZnUnpfRFI5ZTdMRXRiWlBONFpyYl9SM1A0Yk1fMUo2MTZkOGVHVzNLeV9B?oc=5)
 
@@ -120,11 +136,19 @@ last_modified_at: 2026-10-28
 
 ---
 
-### [女性のがん死亡数“第1位”は『大腸がん』… 見逃したくないサイン・初期症状とは？（メディカルドック）](https://news.google.com/rss/articles/CBMif0FVX3lxTFBjYzd0TjNYZE5pNWV4dkZMNmdLZld4SmpGcWg5MWN1d2RwVi05Rk5RLXdyQ2xjZWFGRmN2V1B3QjV4d1ZfOG1nelBpbHBZdGZ2UDZQX1hSOGZSMzNBeGZ1RU0zbFhLZ01reEl5WWdrcmFzQ0tFYWE5MTVucExRT2s?oc=5)
+### [「カチカチ便」「便秘と下痢を繰り返す」大腸がんの疑いがあるのはどっち？ (2026年10月26日掲載)](https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwUlZMb1VpM3E2NWdYQUVGaEJhd1R6WV9RamhqTmNZcTYwRU5nVzJRd0t6SkxtWlVYVHppSzFJc204RGpBTFd1SjNyV3dBQVRVRmM3aXluTFJGekdkSHc?oc=5)
 
 2026-10-26
 
-出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBjYzd0TjNYZE5pNWV4dkZMNmdLZld4SmpGcWg5MWN1d2RwVi05Rk5RLXdyQ2xjZWFGRmN2V1B3QjV4d1ZfOG1nelBpbHBZdGZ2UDZQX1hSOGZSMzNBeGZ1RU0zbFhLZ01reEl5WWdrcmFzQ0tFYWE5MTVucExRT2s?oc=5)
+出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwUlZMb1VpM3E2NWdYQUVGaEJhd1R6WV9RamhqTmNZcTYwRU5nVzJRd0t6SkxtWlVYVHppSzFJc204RGpBTFd1SjNyV3dBQVRVRmM3aXluTFJGekdkSHc?oc=5)
+
+---
+
+### [ソンラ省、150人の女性労働組合員に無料の専門的ながん検診を実施](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWnNJeXRmaUdEcVZ4eHRZNVYteWF0Q1F2Qm1xbzRkTG5QUXo4RTc2aU9SSTlaMHNkazZETTdLOVQ1cFBWRTItbkJNd2hkNU5IVTRERXQwR0d0MzZQMVJYZzJTNjZRNmxxZExJWjNfeDNRcGVFNS14dHdmaEZxakx4NU1fUlpNbWtYaUs4b2VZNHlZd09YQzVjclk0cjdCMTNDcmxSeVp6MmxqUExDNk94bk5sbkgxbmJYVU1CbVVwZng?oc=5)
+
+2026-10-25
+
+出典: [Laodong.vn](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWnNJeXRmaUdEcVZ4eHRZNVYteWF0Q1F2Qm1xbzRkTG5QUXo4RTc2aU9SSTlaMHNkazZETTdLOVQ1cFBWRTItbkJNd2hkNU5IVTRERXQwR0d0MzZQMVJYZzJTNjZRNmxxZExJWjNfeDNRcGVFNS14dHdmaEZxakx4NU1fUlpNbWtYaUs4b2VZNHlZd09YQzVjclk0cjdCMTNDcmxSeVp6MmxqUExDNk94bk5sbkgxbmJYVU1CbVVwZng?oc=5)
 
 ---
 
@@ -133,22 +157,6 @@ last_modified_at: 2026-10-28
 2026-10-25
 
 出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/fc9711d0cd418436bf73efe84fc01af1fb8badc3?source=rss)
-
----
-
-### [顔写真だけでがん患者の余命を診断できるAIモデル、米研究チームが開発(CNN.co.jp)](https://news.yahoo.co.jp/articles/799582aa4209863f6b69bec4eaf3db6a34db9d4c?source=rss)
-
-2026-10-24
-
-出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/799582aa4209863f6b69bec4eaf3db6a34db9d4c?source=rss)
-
----
-
-### [【闘病】市の検診では“異常なし”だった右胸の『乳がん』 気付けば全摘と抗がん剤8回…(メディカルドック)](https://news.yahoo.co.jp/articles/4e57461108ab45b5e30dd80383aa0034ebd7310c?source=rss)
-
-2026-10-24
-
-出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/4e57461108ab45b5e30dd80383aa0034ebd7310c?source=rss)
 
 ---
 

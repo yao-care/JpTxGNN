@@ -3,9 +3,9 @@ layout: default
 title: "インフルエンザ (influenza) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 5 件、関連医薬品 1 件。"
+description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 3 件、関連医薬品 1 件。"
 permalink: /news/influenza/
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 ---
 
 # インフルエンザ (influenza) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="インフルエンザ (influenza) に関するニュースは？">
-<strong>インフルエンザ (influenza)</strong> には現在 <strong>5 件</strong>の関連ニュースと 1 件の関連医薬品があります。
+<strong>インフルエンザ (influenza)</strong> には現在 <strong>3 件</strong>の関連ニュースと 1 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -30,21 +30,13 @@ last_modified_at: 2026-10-28
 </ul>
 </div>
 
-## 関連ニュース（5 件）
+## 関連ニュース（3 件）
 
 ### [【茅ヶ崎市・寒川町】茅ヶ崎・寒川でインフルエンザ流行発生注意報が発表！感染予防と対応策まとめ](https://news.google.com/rss/articles/CBMia0FVX3lxTE1HMzFMTjNERGdjRmF3U0VZTkxYbUk5MVdBRDJtS1NoU252SXp0QnFNb25yaVcyRkxzNU5BRnE0UXEwTDhLVkV4cHNFVDJIVzZBOGtYTkdvUnB3VFhqdWZnLW5QZ29SUTQ1YW1R?oc=5)
 
 2026-10-28
 
 出典: [湘南人](https://news.google.com/rss/articles/CBMia0FVX3lxTE1HMzFMTjNERGdjRmF3U0VZTkxYbUk5MVdBRDJtS1NoU252SXp0QnFNb25yaVcyRkxzNU5BRnE0UXEwTDhLVkV4cHNFVDJIVzZBOGtYTkdvUnB3VFhqdWZnLW5QZ29SUTQ1YW1R?oc=5)
-
----
-
-### [ライオン、歯みがき行動によりインフルエンザウイルスに反応する唾液中の免疫成分「IgA抗体」濃度が増加することを確認](https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZcHFuU3JrYl90X214elpDTVI1WXViaGlvaGswOFJ0LThLZjhDZWNwamQyNG1admJPeVNaLVEyaFpjMzhVVksxUjJ5Q1ZzWXR4aDc0c0ZWSWlRb242dUpQLXdlX1gxR21iWlk2Uw?oc=5)
-
-2026-10-28
-
-出典: [日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZcHFuU3JrYl90X214elpDTVI1WXViaGlvaGswOFJ0LThLZjhDZWNwamQyNG1admJPeVNaLVEyaFpjMzhVVksxUjJ5Q1ZzWXR4aDc0c0ZWSWlRb242dUpQLXdlX1gxR21iWlk2Uw?oc=5)
 
 ---
 
@@ -61,14 +53,6 @@ last_modified_at: 2026-10-28
 2026-10-23
 
 出典: [FNNプライムオンライン](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9pY19uRHBWa0hXOUc2TzliZGRWOER2Q21ia1VZNkg0dkxXNkNUT1o1TmdPSXNJYUdpY1pOeXNLbER0a1AtR1VDZVpzLU45Zw?oc=5)
-
----
-
-### [季節性インフルエンザがピークに達し、高齢者、基礎疾患のある人は注意が必要](https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ1lRTGF6MjBLSEFRUDNpdzhTRUFMUWdMcVBNN1p4Ny0yOWl2UERqaXMzUFFiby1XbXF2VlhMNDU5LTZ3WHRiUkVqWXM5aXgzdGJhcXdKdXF0dmhYWWtua0F5QXNtQnVlT1B2OXo3akpqWi04Wk9vNVp5ZVJqc3lpdGlqeXF6dW1Vem9RdmdMQUctaC05V2Q5akN3bnU5alFwQ1U0eThOQQ?oc=5)
-
-2026-10-22
-
-出典: [Laodong.vn](https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ1lRTGF6MjBLSEFRUDNpdzhTRUFMUWdMcVBNN1p4Ny0yOWl2UERqaXMzUFFiby1XbXF2VlhMNDU5LTZ3WHRiUkVqWXM5aXgzdGJhcXdKdXF0dmhYWWtua0F5QXNtQnVlT1B2OXo3akpqWi04Wk9vNVp5ZVJqc3lpdGlqeXF6dW1Vem9RdmdMQUctaC05V2Q5akN3bnU5alFwQ1U0eThOQQ?oc=5)
 
 ---
 

@@ -3,9 +3,9 @@ layout: default
 title: "乳がん (female breast carcinoma) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "乳がん (female breast carcinoma) に関する健康ニュース。ニュース 2 件、関連医薬品 7 件。"
+description: "乳がん (female breast carcinoma) に関する健康ニュース。ニュース 1 件、関連医薬品 7 件。"
 permalink: /news/female-breast-carcinoma/
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 ---
 
 # 乳がん (female breast carcinoma) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="乳がん (female breast carcinoma) に関するニュースは？">
-<strong>乳がん (female breast carcinoma)</strong> には現在 <strong>2 件</strong>の関連ニュースと 7 件の関連医薬品があります。
+<strong>乳がん (female breast carcinoma)</strong> には現在 <strong>1 件</strong>の関連ニュースと 7 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -36,15 +36,7 @@ last_modified_at: 2026-10-28
 </ul>
 </div>
 
-## 関連ニュース（2 件）
-
-### [【闘病】市の検診では“異常なし”だった右胸の『乳がん』 気付けば全摘と抗がん剤8回…(メディカルドック)](https://news.yahoo.co.jp/articles/4e57461108ab45b5e30dd80383aa0034ebd7310c?source=rss)
-
-2026-10-24
-
-出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/4e57461108ab45b5e30dd80383aa0034ebd7310c?source=rss)
-
----
+## 関連ニュース（1 件）
 
 ### [生活習慣で乳がんリスクは変わる？運動習慣は発症リスクなどの低下と関連 (2026年10月23日掲載)](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSWWhZOUFib3ItYmZTUGUyOVlqaHNzdUdjNzJvQnFrbEtDYTh4YUFlSndsd3NMNGZrVWVMM1VNUVhmaUFVX2d2NkxWTDlCZmVVNDN4YkZJNVVrVzRqLXc?oc=5)
 

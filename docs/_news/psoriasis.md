@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "乾癬 (psoriasis) に関する健康ニュース。ニュース 1 件、関連医薬品 4 件。"
 permalink: /news/psoriasis/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-29
 ---
 
 # 乾癬 (psoriasis) 関連ニュース
@@ -35,11 +35,11 @@ last_modified_at: 2026-10-27
 
 ## 関連ニュース（1 件）
 
-### [全国30施設84名の医療者が乾癬患者さんへエール 「世界乾癬デー2026 ドクターからの応援メッセージ」動画を公開 - PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE0xUUMtUTBsX1dpQkdSdzVEWkhIWmZpUTktRUphTjBPV1NJVUQ2OWdEV0lVaDRQNUxnWm9vaF9iOFVLeURTRDdNVmJqc2R3TU5IQnJqM2VMdkVSOHVzVkRvUjgyT2Voenl5WXc?oc=5)
+### [IFPA：2026年世界乾癬デー、若者たちが偏見と差別に対して声を上げる](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YUXpYclNTYjVNUDkyc2ZvODZwY2dzYVpsZWwzOXBsUFZpTW13aHZfeTJfeWdYakhyUWtxVktxSVBsckVhM3FfQlRQbTdJQjk1Wjd6QzVtVi1VVlZr?oc=5)
 
-2026-10-26
+2026-10-29
 
-出典: [PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE0xUUMtUTBsX1dpQkdSdzVEWkhIWmZpUTktRUphTjBPV1NJVUQ2OWdEV0lVaDRQNUxnWm9vaF9iOFVLeURTRDdNVmJqc2R3TU5IQnJqM2VMdkVSOHVzVkRvUjgyT2Voenl5WXc?oc=5)
+出典: [河北新報オンライン](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YUXpYclNTYjVNUDkyc2ZvODZwY2dzYVpsZWwzOXBsUFZpTW13aHZfeTJfeWdYakhyUWtxVktxSVBsckVhM3FfQlRQbTdJQjk1Wjd6QzVtVi1VVlZr?oc=5)
 
 ---
 

@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "認知症 (dementia) に関する健康ニュース。ニュース 2 件、関連医薬品 2 件。"
 permalink: /news/dementia/
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 ---
 
 # 認知症 (dementia) 関連ニュース
@@ -33,19 +33,19 @@ last_modified_at: 2026-10-28
 
 ## 関連ニュース（2 件）
 
+### [ワクチン摂取で認知症リスクが半減!? 帯状疱疹、ヘルペスなど“潜伏ウイルス”が脳を蝕む連鎖反応を防ぐ《驚きの方法》](https://news.google.com/rss/articles/CBMihwFBVV95cUxQM3dMdmZWemJLZHluY0ppWWFFdzBkbHZKeG5oajI4SUhtOC1vSUI4WDZWcXNicDZpZXlYYTRyeGdBZDhBQkJlelZxZ3A1dE5QdUlaZnQ4QmJ4V1BqanJRV3QycENQcUhYUG9fTGhJN3d0VjdQeXhyMjFqTlJWNU1FdFJ5RzNKMUE?oc=5)
+
+2026-10-28
+
+出典: [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxQM3dMdmZWemJLZHluY0ppWWFFdzBkbHZKeG5oajI4SUhtOC1vSUI4WDZWcXNicDZpZXlYYTRyeGdBZDhBQkJlelZxZ3A1dE5QdUlaZnQ4QmJ4V1BqanJRV3QycENQcUhYUG9fTGhJN3d0VjdQeXhyMjFqTlJWNU1FdFJ5RzNKMUE?oc=5)
+
+---
+
 ### [認知症は｢家系だから仕方ない｣は誤解だった…遺伝リスクが高くても発症リスクが約3割低かった人の生活習慣](https://news.google.com/rss/articles/CBMihwFBVV95cUxOcWNwWmdVNVBvMVg1NmVieUs0YVFiUGxSTnJodmhwX1NBaWx0UTFwRTRqNVF2WnE5emhoU2VfVnlTbFVPR1ZNU042aENoWTg2VERxVS1TOXo2aWNzN0swSG9kSEhBeU5kUUQwSHZCajAxa3dzbXFpMVU2UDYzVndodTN3U3dDUDQ?oc=5)
 
 2026-10-28
 
 出典: [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxOcWNwWmdVNVBvMVg1NmVieUs0YVFiUGxSTnJodmhwX1NBaWx0UTFwRTRqNVF2WnE5emhoU2VfVnlTbFVPR1ZNU042aENoWTg2VERxVS1TOXo2aWNzN0swSG9kSEhBeU5kUUQwSHZCajAxa3dzbXFpMVU2UDYzVndodTN3U3dDUDQ?oc=5)
-
----
-
-### [｢認知症から脳を守るには良い睡眠が重要｣…脳神経内科医が解説する最新研究でわかってきた"すごい役割"](https://news.google.com/rss/articles/CBMihwFBVV95cUxNOXh3bUpuNlVESGtIWFozMGlSRl9JRVlOenJPYVU1T3h0VUx2clplVjhQRTQwNmg2YnB2S0lFalc0c1FKOUVOMXR4RVlBb0JGSFpBRFhKUTBUbzBPenBYZEVibHVhMzNpMEIweEFrbE1XY2oxVzUtNDFmSmgyUHBZWUYwRFgyMGc?oc=5)
-
-2026-10-27
-
-出典: [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxNOXh3bUpuNlVESGtIWFozMGlSRl9JRVlOenJPYVU1T3h0VUx2clplVjhQRTQwNmg2YnB2S0lFalc0c1FKOUVOMXR4RVlBb0JGSFpBRFhKUTBUbzBPenBYZEVibHVhMzNpMEIweEFrbE1XY2oxVzUtNDFmSmgyUHBZWUYwRFgyMGc?oc=5)
 
 ---
 

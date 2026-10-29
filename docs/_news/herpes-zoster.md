@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "帯状疱疹 (herpes zoster) に関する健康ニュース。ニュース 2 件、関連医薬品 3 件。"
 permalink: /news/herpes-zoster/
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 ---
 
 # 帯状疱疹 (herpes zoster) 関連ニュース
@@ -34,19 +34,19 @@ last_modified_at: 2026-10-28
 
 ## 関連ニュース（2 件）
 
-### [コロナ･インフル･帯状疱疹で脳が縮む!? 身近なウイルスがアルツハイマーを引き起こす恐怖のメカニズム（東洋経済オンライン）](https://news.google.com/rss/articles/CBMifkFVX3lxTE4zODY0bE54dmNPNDNkcmZqYUFHMV9vd3l0TVB2cm5XbWkxTXhwWVdpTldmSUUza2stWlZzU0g3N3N2RFRDRV93MUVrb3g0SXRNeVBaU3ZpcG96NVNzdzlvSkZvVXhjaU1lUWNBSV9EOHpuYlEySW1JTmxqZjhqZw?oc=5)
+### [ワクチン摂取で認知症リスクが半減!? 帯状疱疹、ヘルペスなど“潜伏ウイルス”が脳を蝕む連鎖反応を防ぐ《驚きの方法》](https://news.google.com/rss/articles/CBMihwFBVV95cUxQM3dMdmZWemJLZHluY0ppWWFFdzBkbHZKeG5oajI4SUhtOC1vSUI4WDZWcXNicDZpZXlYYTRyeGdBZDhBQkJlelZxZ3A1dE5QdUlaZnQ4QmJ4V1BqanJRV3QycENQcUhYUG9fTGhJN3d0VjdQeXhyMjFqTlJWNU1FdFJ5RzNKMUE?oc=5)
 
-2026-10-27
+2026-10-28
 
-出典: [ｄメニューニュース](https://news.google.com/rss/articles/CBMifkFVX3lxTE4zODY0bE54dmNPNDNkcmZqYUFHMV9vd3l0TVB2cm5XbWkxTXhwWVdpTldmSUUza2stWlZzU0g3N3N2RFRDRV93MUVrb3g0SXRNeVBaU3ZpcG96NVNzdzlvSkZvVXhjaU1lUWNBSV9EOHpuYlEySW1JTmxqZjhqZw?oc=5)
+出典: [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxQM3dMdmZWemJLZHluY0ppWWFFdzBkbHZKeG5oajI4SUhtOC1vSUI4WDZWcXNicDZpZXlYYTRyeGdBZDhBQkJlelZxZ3A1dE5QdUlaZnQ4QmJ4V1BqanJRV3QycENQcUhYUG9fTGhJN3d0VjdQeXhyMjFqTlJWNU1FdFJ5RzNKMUE?oc=5)
 
 ---
 
-### [文字どおり“地獄の激痛”をともなう帯状疱疹 「すぐに病院に行った患者」と「グズグズしていた患者」の、その後の明暗](https://news.google.com/rss/articles/CBMihwFBVV95cUxPb3F0bjFOLV8ySldiSkNGZ0cwM3Q0clFGTGJPME1kVmZhVnhlNmNRd1R3QjdhaUlKWGJTTGZMN28ydUNkTmtsc1pvS1VpNGdNc3BDZlU2d1RyTHAzVlRNbmVLRC04ZEtqUU1iMl91dms2aHNacnlVZmdxZkpRZHhzZll3UDdBM3c?oc=5)
+### [（2）抗ウイルス薬、鎮痛薬、抗炎症薬…大量のクスリを4週間｜予想以上にキツかった 帯状疱疹闘病記](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRR3M3VWIzM1hnRjVNZEdOdDlwQk1TcnpIUTZ3SjYyU1ZJX1VuT1lKOXFWVmw4NUtDVG01Nk1xTURtZER0bkZnU0hSeTRGSVotaEpzZlE2akd4bC1pVTYzbHVXeHZKbjEw?oc=5)
 
 2026-10-27
 
-出典: [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxPb3F0bjFOLV8ySldiSkNGZ0cwM3Q0clFGTGJPME1kVmZhVnhlNmNRd1R3QjdhaUlKWGJTTGZMN28ydUNkTmtsc1pvS1VpNGdNc3BDZlU2d1RyTHAzVlRNbmVLRC04ZEtqUU1iMl91dms2aHNacnlVZmdxZkpRZHhzZll3UDdBM3c?oc=5)
+出典: [日刊ゲンダイDIGITAL](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRR3M3VWIzM1hnRjVNZEdOdDlwQk1TcnpIUTZ3SjYyU1ZJX1VuT1lKOXFWVmw4NUtDVG01Nk1xTURtZER0bkZnU0hSeTRGSVotaEpzZlE2akd4bC1pVTYzbHVXeHZKbjEw?oc=5)
 
 ---
 

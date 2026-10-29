@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "アクトスＯＤ錠３０　３０ｍｇ（選） に関する健康ニュース。予測適応症 9 件。"
 permalink: /news/pioglitazone/
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 ---
 
 # アクトスＯＤ錠３０　３０ｍｇ（選） 関連ニュース
@@ -59,11 +59,11 @@ last_modified_at: 2026-10-28
 
 ---
 
-### [「血糖値対策」食後に効果的な運動はどっち？ 「ストレッチや軽めの運動」と「 筋トレや重めの運動」](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBjUnk0Z0pqSnN3YUo3UkFOWkt3NDk3Vjc4Y2tpYngzWE1KRHVJN21SOV9QeWMzZDloVFJqbm1wWVM1TGFaU1V1TGMxVlJ3Zw?oc=5)
+### [糖尿病患者が合併症を避けるために運動する際の注意点](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdWlKM2NROEJLc21CYndwTHNNMHBFRXBrTXBLSGdFNXBLY1plQ2ZaYjhKdGNVVHM5R2FuUFhKdF9XdVJybV9WUEpXWE9aRDUzRnViejFqejVOUGZrZEc0UjZoMFAtVDROZ0lRSzROd1RiVTJtam02N0NWOXFPal94allvVVVGVjBVWHcxLWJLZ01lT1EtNGR1M0ZSX1M0RUpUNjNvdXFsdnVXUQ?oc=5)
 
 2026-10-27 <span class="news-indication-tag">2型糖尿病</span>
 
-出典: [FYTTE](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBjUnk0Z0pqSnN3YUo3UkFOWkt3NDk3Vjc4Y2tpYngzWE1KRHVJN21SOV9QeWMzZDloVFJqbm1wWVM1TGFaU1V1TGMxVlJ3Zw?oc=5)
+出典: [Laodong.vn](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdWlKM2NROEJLc21CYndwTHNNMHBFRXBrTXBLSGdFNXBLY1plQ2ZaYjhKdGNVVHM5R2FuUFhKdF9XdVJybV9WUEpXWE9aRDUzRnViejFqejVOUGZrZEc0UjZoMFAtVDROZ0lRSzROd1RiVTJtam02N0NWOXFPal94allvVVVGVjBVWHcxLWJLZ01lT1EtNGR1M0ZSX1M0RUpUNjNvdXFsdnVXUQ?oc=5)
 
 ---
 

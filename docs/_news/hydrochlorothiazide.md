@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "プレミネント配合錠ＨＤ（選） に関する健康ニュース。予測適応症 0 件。"
 permalink: /news/hydrochlorothiazide/
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 ---
 
 # プレミネント配合錠ＨＤ（選） 関連ニュース
@@ -31,6 +31,22 @@ last_modified_at: 2026-10-28
 </div>
 
 ## 関連ニュース（11 件）
+
+### [20～40代に増加中の「子宮頸がん」。原因の多くは自覚症状ゼロのHPV感染…20歳から始める婦人科検診の重要性を産婦人科医が解説 (2026年10月29日掲載)](https://news.google.com/rss/articles/CBMiXkFVX3lxTE4zbVZMVnJBR1hVcEN3Z1RmTGZWNTFaYXB3UVVaVDhfVGIxRTRDSVFKTWh0VXZGcFhqZmlZb2NqRGlwTFhYYkZyRFI4V1BDdW1fZ2I5dTNNeVU3WldGZGc?oc=5)
+
+2026-10-29 <span class="news-indication-tag">がん</span>
+
+出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiXkFVX3lxTE4zbVZMVnJBR1hVcEN3Z1RmTGZWNTFaYXB3UVVaVDhfVGIxRTRDSVFKTWh0VXZGcFhqZmlZb2NqRGlwTFhYYkZyRFI4V1BDdW1fZ2I5dTNNeVU3WldGZGc?oc=5)
+
+---
+
+### [糖尿病の悪化と体重減少、膵がん早期発見の鍵に－東北大ほか](https://news.google.com/rss/articles/CBMihgFBVV95cUxPQUlTMXM0eENVbmwzcTZTeUw5V2MtdjhrSV9Ra24ySUQyQjcteUVXR25SYk9EOWk3dzZ4eVg2eXdUc3VCd1p0LS1rQ296NzZnQTVBdVI1RmFHel9uYVpKSDF3UjZmZlQ0cDc2dGdWWXowT3htMW11MllXMTFXTVFESkhxdE9RUQ?oc=5)
+
+2026-10-28 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">膵がん</span>
+
+出典: [QLifePro](https://news.google.com/rss/articles/CBMihgFBVV95cUxPQUlTMXM0eENVbmwzcTZTeUw5V2MtdjhrSV9Ra24ySUQyQjcteUVXR25SYk9EOWk3dzZ4eVg2eXdUc3VCd1p0LS1rQ296NzZnQTVBdVI1RmFHel9uYVpKSDF3UjZmZlQ0cDc2dGdWWXowT3htMW11MllXMTFXTVFESkhxdE9RUQ?oc=5)
+
+---
 
 ### [お酒が引き起こす心臓病がある！ リスクが大きい飲み方とは：左党の一分：日経Gooday（グッデイ）](https://news.google.com/rss/articles/CBMijAFBVV95cUxQWXRmOE94LW5jeEtIcEUxVjFXQkJ1YkpTZHRSSEp1b0c3WjRZdTRtZlRkVWJEUGRPM1h2UnFBU2pYbnRuVk15X0J0aHZnS1A3Ymhjc0xZeXNyZGJfN0lrV0VIbnNzVnZIUFJnVjJsU3V3STFFMFBYRkhIWU0zT0JxbXpad2ZSNXdpcll5RA?oc=5)
 
@@ -64,11 +80,11 @@ last_modified_at: 2026-10-28
 
 ---
 
-### [女性のがん死亡数“第1位”は『大腸がん』… 見逃したくないサイン・初期症状とは？（メディカルドック）](https://news.google.com/rss/articles/CBMif0FVX3lxTFBjYzd0TjNYZE5pNWV4dkZMNmdLZld4SmpGcWg5MWN1d2RwVi05Rk5RLXdyQ2xjZWFGRmN2V1B3QjV4d1ZfOG1nelBpbHBZdGZ2UDZQX1hSOGZSMzNBeGZ1RU0zbFhLZ01reEl5WWdrcmFzQ0tFYWE5MTVucExRT2s?oc=5)
+### [「カチカチ便」「便秘と下痢を繰り返す」大腸がんの疑いがあるのはどっち？ (2026年10月26日掲載)](https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwUlZMb1VpM3E2NWdYQUVGaEJhd1R6WV9RamhqTmNZcTYwRU5nVzJRd0t6SkxtWlVYVHppSzFJc204RGpBTFd1SjNyV3dBQVRVRmM3aXluTFJGekdkSHc?oc=5)
 
 2026-10-26 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
 
-出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBjYzd0TjNYZE5pNWV4dkZMNmdLZld4SmpGcWg5MWN1d2RwVi05Rk5RLXdyQ2xjZWFGRmN2V1B3QjV4d1ZfOG1nelBpbHBZdGZ2UDZQX1hSOGZSMzNBeGZ1RU0zbFhLZ01reEl5WWdrcmFzQ0tFYWE5MTVucExRT2s?oc=5)
+出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwUlZMb1VpM3E2NWdYQUVGaEJhd1R6WV9RamhqTmNZcTYwRU5nVzJRd0t6SkxtWlVYVHppSzFJc204RGpBTFd1SjNyV3dBQVRVRmM3aXluTFJGekdkSHc?oc=5)
 
 ---
 
@@ -80,35 +96,19 @@ last_modified_at: 2026-10-28
 
 ---
 
+### [ソンラ省、150人の女性労働組合員に無料の専門的ながん検診を実施](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWnNJeXRmaUdEcVZ4eHRZNVYteWF0Q1F2Qm1xbzRkTG5QUXo4RTc2aU9SSTlaMHNkazZETTdLOVQ1cFBWRTItbkJNd2hkNU5IVTRERXQwR0d0MzZQMVJYZzJTNjZRNmxxZExJWjNfeDNRcGVFNS14dHdmaEZxakx4NU1fUlpNbWtYaUs4b2VZNHlZd09YQzVjclk0cjdCMTNDcmxSeVp6MmxqUExDNk94bk5sbkgxbmJYVU1CbVVwZng?oc=5)
+
+2026-10-25 <span class="news-indication-tag">がん</span>
+
+出典: [Laodong.vn](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWnNJeXRmaUdEcVZ4eHRZNVYteWF0Q1F2Qm1xbzRkTG5QUXo4RTc2aU9SSTlaMHNkazZETTdLOVQ1cFBWRTItbkJNd2hkNU5IVTRERXQwR0d0MzZQMVJYZzJTNjZRNmxxZExJWjNfeDNRcGVFNS14dHdmaEZxakx4NU1fUlpNbWtYaUs4b2VZNHlZd09YQzVjclk0cjdCMTNDcmxSeVp6MmxqUExDNk94bk5sbkgxbmJYVU1CbVVwZng?oc=5)
+
+---
+
 ### [【闘病】ひどい肩こりの正体は希少がん『胸腺がん』ステージ4a 事業も愛猫も失った1年に…(メディカルドック)](https://news.yahoo.co.jp/articles/fc9711d0cd418436bf73efe84fc01af1fb8badc3?source=rss)
 
 2026-10-25 <span class="news-indication-tag">がん</span>
 
 出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/fc9711d0cd418436bf73efe84fc01af1fb8badc3?source=rss)
-
----
-
-### [顔写真だけでがん患者の余命を診断できるAIモデル、米研究チームが開発(CNN.co.jp)](https://news.yahoo.co.jp/articles/799582aa4209863f6b69bec4eaf3db6a34db9d4c?source=rss)
-
-2026-10-24 <span class="news-indication-tag">がん</span>
-
-出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/799582aa4209863f6b69bec4eaf3db6a34db9d4c?source=rss)
-
----
-
-### [お茶は飲み方次第、心臓の健康に良くも悪くも　紅茶の方が緑茶よりも効果？(CNN.co.jp)](https://news.yahoo.co.jp/articles/7956278a7c18ca5a18b20ffd29cd2d193627aa9b?source=rss)
-
-2026-10-24 <span class="news-indication-tag">心臓病</span>
-
-出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/7956278a7c18ca5a18b20ffd29cd2d193627aa9b?source=rss)
-
----
-
-### [【闘病】市の検診では“異常なし”だった右胸の『乳がん』 気付けば全摘と抗がん剤8回…(メディカルドック)](https://news.yahoo.co.jp/articles/4e57461108ab45b5e30dd80383aa0034ebd7310c?source=rss)
-
-2026-10-24 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
-
-出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/4e57461108ab45b5e30dd80383aa0034ebd7310c?source=rss)
 
 ---
 

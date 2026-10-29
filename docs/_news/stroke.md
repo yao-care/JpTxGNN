@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "脳卒中 (stroke) に関する健康ニュース。ニュース 1 件、関連医薬品 16 件。"
 permalink: /news/stroke/
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 ---
 
 # 脳卒中 (stroke) 関連ニュース
@@ -47,11 +47,11 @@ last_modified_at: 2026-10-28
 
 ## 関連ニュース（1 件）
 
-### [季節性インフルエンザがピークに達し、高齢者、基礎疾患のある人は注意が必要](https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ1lRTGF6MjBLSEFRUDNpdzhTRUFMUWdMcVBNN1p4Ny0yOWl2UERqaXMzUFFiby1XbXF2VlhMNDU5LTZ3WHRiUkVqWXM5aXgzdGJhcXdKdXF0dmhYWWtua0F5QXNtQnVlT1B2OXo3akpqWi04Wk9vNVp5ZVJqc3lpdGlqeXF6dW1Vem9RdmdMQUctaC05V2Q5akN3bnU5alFwQ1U0eThOQQ?oc=5)
+### [早期に認識すべき脳卒中の5つの警告サイン](https://news.google.com/rss/articles/CBMikAFBVV95cUxPS1pueVFYanZybTRkSzRfVktyYk1PY2RzWHNGLXBuVUw3emVVb2FicmozNWRvTUViTWNFN2ZfV3Z5Q0dTS2tRSHRnY0g2RXdzYnFKSEFFWE9LTHo4S0ZteG1rY0x4bzk5TnVDYjdCc1dFR2VrZWFBRjNjN3l5akVtSWg1M2YxWUhXZnU5b2hvdng?oc=5)
 
-2026-10-22
+2026-10-25
 
-出典: [Laodong.vn](https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ1lRTGF6MjBLSEFRUDNpdzhTRUFMUWdMcVBNN1p4Ny0yOWl2UERqaXMzUFFiby1XbXF2VlhMNDU5LTZ3WHRiUkVqWXM5aXgzdGJhcXdKdXF0dmhYWWtua0F5QXNtQnVlT1B2OXo3akpqWi04Wk9vNVp5ZVJqc3lpdGlqeXF6dW1Vem9RdmdMQUctaC05V2Q5akN3bnU5alFwQ1U0eThOQQ?oc=5)
+出典: [Laodong.vn](https://news.google.com/rss/articles/CBMikAFBVV95cUxPS1pueVFYanZybTRkSzRfVktyYk1PY2RzWHNGLXBuVUw3emVVb2FicmozNWRvTUViTWNFN2ZfV3Z5Q0dTS2tRSHRnY0g2RXdzYnFKSEFFWE9LTHo4S0ZteG1rY0x4bzk5TnVDYjdCc1dFR2VrZWFBRjNjN3l5akVtSWg1M2YxWUhXZnU5b2hvdng?oc=5)
 
 ---
 
