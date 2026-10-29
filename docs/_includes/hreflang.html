@@ -1,0 +1,9 @@
+{%- comment -%}2026-10-29 hreflang：30 站同一份藥物頁互相標註，資料由母目錄 .claude/gen_hreflang_20261029.py 產生{%- endcomment -%}
+{%- assign hl_alt = site.data.hreflang.pages[page.url] -%}
+{%- if hl_alt and page.noindex != true -%}
+{%- for a in hl_alt -%}
+{%- assign hl_i = a[0] -%}
+{%- assign hl_site = site.data.hreflang.sites[hl_i] %}
+<link rel="alternate" hreflang="{{ hl_site[0] }}" href="{{ hl_site[1] }}{{ a[1] }}">
+{%- endfor %}
+{% endif -%}

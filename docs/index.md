@@ -24,6 +24,41 @@ image: /assets/images/og-default.png
 
 ---
 
+<!-- local-home:start（母目錄 .claude/gen_local_home_20261029.py 產生，勿手改）-->
+## 日本：本サイトの収録範囲
+
+本サイトでは、[PMDA](https://www.pmda.go.jp/)の承認情報（日本）に収載された医薬品のうち **{{ site.data.drug_stats.total_drugs }}** 品目のレポートを公開しています。
+
+エビデンスレベル別のレポート数： L1 {{ site.data.drug_stats.level_counts.L1 }} · L2 {{ site.data.drug_stats.level_counts.L2 }} · L3 {{ site.data.drug_stats.level_counts.L3 }} · L4 {{ site.data.drug_stats.level_counts.L4 }} · L5 {{ site.data.drug_stats.level_counts.L5 }}
+
+### 本サイトでエビデンスレベルが最も高い医薬品
+
+| 医薬品 | エビデンスレベル |
+|---|---|
+| [Tegafur](/drugs/tegafur/) | L1 |
+| [Doxorubicin](/drugs/doxorubicin/) | L1 |
+| [Salmeterol](/drugs/salmeterol/) | L1 |
+| [Tiotropium](/drugs/tiotropium/) | L1 |
+| [Tacrolimus](/drugs/tacrolimus/) | L1 |
+| [Dexamethasone](/drugs/dexamethasone/) | L2 |
+| [Ropinirole](/drugs/ropinirole/) | L2 |
+| [Ustekinumab](/drugs/ustekinumab/) | L2 |
+| [Candesartan](/drugs/candesartan/) | L2 |
+| [Prednisolone](/drugs/prednisolone/) | L2 |
+
+### 30 の TxGNN サイトのうち本サイトだけが収録している医薬品
+
+| 医薬品 | エビデンスレベル |
+|---|---|
+| [Menatetrenone](/drugs/menatetrenone/) | L5 |
+| [Pergolide](/drugs/pergolide/) | L5 |
+| [Tofogliflozin](/drugs/tofogliflozin/) | L5 |
+| [Ipragliflozin](/drugs/ipragliflozin/) | L5 |
+| [Limaprost](/drugs/limaprost/) | L5 |
+| [Eszopiclone](/drugs/eszopiclone/) | N/A |
+
+<!-- local-home:end -->
+
 ## 医薬品検索
 
 <p class="key-answer" data-question="医薬品や疾患のドラッグリポジショニング可能性をどのように検索しますか？">

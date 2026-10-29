@@ -31,6 +31,11 @@ description: "JpTxGNN における全医薬品の検証レポートとエビデ�
 
 ---
 
+<!-- local-home:start（母目錄 .claude/gen_local_home_20261029.py 產生，勿手改）-->
+この一覧は[PMDA](https://www.pmda.go.jp/)の承認情報（日本）に基づいています。
+
+<!-- local-home:end -->
+
 ## エビデンスレベル別内訳
 
 | エビデンスレベル | 医薬品数 | 説明 |
