@@ -39,6 +39,14 @@ last_modified_at: 2026-10-29
 
 ## 関連ニュース（13 件）
 
+### [放置すると肝がんリスク増…「脂肪肝」を招く“意外な食べ物”とは【専門医が解説】(オトナンサー)](https://news.yahoo.co.jp/articles/21f4cac77fb03382a8cbc6be87c75ab39c933733?source=rss)
+
+2026-10-29 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">肝がん</span>
+
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/21f4cac77fb03382a8cbc6be87c75ab39c933733?source=rss)
+
+---
+
 ### [統合失調症の患者に”がん治療格差”　早期発見や手術率の低さが研究で判明…「誰一人取り残さない」治療体制のために(RSK山陽放送)](https://news.yahoo.co.jp/articles/6ff977a85cf83acabac7a4a8da6462b8dbe350d3?source=rss)
 
 2026-10-29 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">統合失調症</span>
@@ -108,14 +116,6 @@ last_modified_at: 2026-10-29
 2026-10-26 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">癌</span> <span class="news-indication-tag">腫瘍</span> <span class="news-indication-tag">直腸がん</span>
 
 出典: [Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース](https://news.google.com/rss/articles/CBMicEFVX3lxTE5QYTU3d3daMks1MzZSSWJucWNNOWhnZXpsM3I0RGhlOXF2UEhyajdTQlRFcWo0SDBNeXJKWnJKc2hnUzZGa3UzTUdoemFXUVFlVU02RGdjblZpMnFMTEJMdEtyQkRxc2pnTVNiXzdJaU0?oc=5)
-
----
-
-### [9520のタンパクから真の原因へ：プロテオゲノミクス×因果推論で拓く虚血性心疾患の創薬](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kYVA0TEsyejJrRTRlQ2hxZER4dmpIZkJNamI5MDZ0UU5sLUh0UC1Wbkd6YUJoUUFHRUZYUHFYUGJua3Nvd05oMlJ1LUxEeWl0VWc?oc=5)
-
-2026-10-25 <span class="news-indication-tag">心疾患</span>
-
-出典: [m3.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kYVA0TEsyejJrRTRlQ2hxZER4dmpIZkJNamI5MDZ0UU5sLUh0UC1Wbkd6YUJoUUFHRUZYUHFYUGJua3Nvd05oMlJ1LUxEeWl0VWc?oc=5)
 
 ---
 

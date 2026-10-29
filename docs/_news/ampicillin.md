@@ -15,7 +15,7 @@ last_modified_at: 2026-10-29
 ---
 
 <p class="key-answer" data-question="ビクシリンＳ配合錠　（２５０ｍｇ） に関するニュースは？">
-<strong>ビクシリンＳ配合錠　（２５０ｍｇ）</strong> には現在 <strong>12 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
+<strong>ビクシリンＳ配合錠　（２５０ｍｇ）</strong> には現在 <strong>13 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ last_modified_at: 2026-10-29
 <p><a href="{{ '/drugs/ampicillin/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（12 件）
+## 関連ニュース（13 件）
+
+### [放置すると肝がんリスク増…「脂肪肝」を招く“意外な食べ物”とは【専門医が解説】(オトナンサー)](https://news.yahoo.co.jp/articles/21f4cac77fb03382a8cbc6be87c75ab39c933733?source=rss)
+
+2026-10-29 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">肝がん</span>
+
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/21f4cac77fb03382a8cbc6be87c75ab39c933733?source=rss)
+
+---
 
 ### [統合失調症の患者に”がん治療格差”　早期発見や手術率の低さが研究で判明…「誰一人取り残さない」治療体制のために(RSK山陽放送)](https://news.yahoo.co.jp/articles/6ff977a85cf83acabac7a4a8da6462b8dbe350d3?source=rss)
 

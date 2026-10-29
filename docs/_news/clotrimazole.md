@@ -15,7 +15,7 @@ last_modified_at: 2026-10-29
 ---
 
 <p class="key-answer" data-question="エンペシドクリーム１％（選） に関するニュースは？">
-<strong>エンペシドクリーム１％（選）</strong> には現在 <strong>13 件</strong>の関連ニュースがあり、予測適応症は 3 件です。
+<strong>エンペシドクリーム１％（選）</strong> には現在 <strong>14 件</strong>の関連ニュースがあり、予測適応症は 3 件です。
 </p>
 
 <div class="key-takeaway">
@@ -35,13 +35,13 @@ last_modified_at: 2026-10-29
 <p><a href="{{ '/drugs/clotrimazole/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（13 件）
+## 関連ニュース（14 件）
 
-### [【更年期は「女性の健康の崖」か】骨・肝臓・血中脂質に急激な変化、大規模研究で判明(ヨガジャーナルオンライン)](https://news.yahoo.co.jp/articles/a8b0c9126268710e6edf2c8df16262b3f46c8e0d?source=rss)
+### [放置すると肝がんリスク増…「脂肪肝」を招く“意外な食べ物”とは【専門医が解説】(オトナンサー)](https://news.yahoo.co.jp/articles/21f4cac77fb03382a8cbc6be87c75ab39c933733?source=rss)
 
-2026-10-29 <span class="news-indication-tag">更年期</span>
+2026-10-29 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">肝がん</span>
 
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/a8b0c9126268710e6edf2c8df16262b3f46c8e0d?source=rss)
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/21f4cac77fb03382a8cbc6be87c75ab39c933733?source=rss)
 
 ---
 
@@ -74,6 +74,14 @@ last_modified_at: 2026-10-29
 2026-10-28 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">膵がん</span>
 
 出典: [QLifePro](https://news.google.com/rss/articles/CBMihgFBVV95cUxPQUlTMXM0eENVbmwzcTZTeUw5V2MtdjhrSV9Ra24ySUQyQjcteUVXR25SYk9EOWk3dzZ4eVg2eXdUc3VCd1p0LS1rQ296NzZnQTVBdVI1RmFHel9uYVpKSDF3UjZmZlQ0cDc2dGdWWXowT3htMW11MllXMTFXTVFESkhxdE9RUQ?oc=5)
+
+---
+
+### [閉経期の経口ホルモン療法、血栓症リスクは増加するか／BMJ｜CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE52Y1d6dTZ5ekMzeE0yZ1E0bThoYmZHYVd2YjE2NW4ta2VNcjdKdWg5UVVRdjJfUGRyVllJTnN0RUlydUpxWFI5akVZTE9mQ3A3cm54S1hCaDY1TDQtOHYw?oc=5)
+
+2026-10-27 <span class="news-indication-tag">閉経</span>
+
+出典: [CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE52Y1d6dTZ5ekMzeE0yZ1E0bThoYmZHYVd2YjE2NW4ta2VNcjdKdWg5UVVRdjJfUGRyVllJTnN0RUlydUpxWFI5akVZTE9mQ3A3cm54S1hCaDY1TDQtOHYw?oc=5)
 
 ---
 
