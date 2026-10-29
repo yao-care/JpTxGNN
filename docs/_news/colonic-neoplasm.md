@@ -32,11 +32,11 @@ last_modified_at: 2026-10-29
 
 ## 関連ニュース（1 件）
 
-### [「カチカチ便」「便秘と下痢を繰り返す」大腸がんの疑いがあるのはどっち？ (2026年10月26日掲載)](https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwUlZMb1VpM3E2NWdYQUVGaEJhd1R6WV9RamhqTmNZcTYwRU5nVzJRd0t6SkxtWlVYVHppSzFJc204RGpBTFd1SjNyV3dBQVRVRmM3aXluTFJGekdkSHc?oc=5)
+### [大腸がん、腸内細菌に注目…毒素「コリバクチン」がＤＮＡに傷](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kTlpBMHpfODhWbGgzcGRYRDVJVmw0dktBRFlWbUhwdDd3cWs3Zmk2d01CNkt1dVNqUWZ3b1FhN3pPaHhDaFlNbjloQW9OV1JQSEtUck0zazVHZXlJbTZUdFFqV2c?oc=5)
 
-2026-10-26
+2026-10-29
 
-出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwUlZMb1VpM3E2NWdYQUVGaEJhd1R6WV9RamhqTmNZcTYwRU5nVzJRd0t6SkxtWlVYVHppSzFJc204RGpBTFd1SjNyV3dBQVRVRmM3aXluTFJGekdkSHc?oc=5)
+出典: [読売新聞](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kTlpBMHpfODhWbGgzcGRYRDVJVmw0dktBRFlWbUhwdDd3cWs3Zmk2d01CNkt1dVNqUWZ3b1FhN3pPaHhDaFlNbjloQW9OV1JQSEtUck0zazVHZXlJbTZUdFFqV2c?oc=5)
 
 ---
 

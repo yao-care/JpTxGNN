@@ -15,7 +15,7 @@ last_modified_at: 2026-10-29
 ---
 
 <p class="key-answer" data-question="デキストロメトルファン臭化水素酸塩細粒１０％「ツルハラ」 に関するニュースは？">
-<strong>デキストロメトルファン臭化水素酸塩細粒１０％「ツルハラ」</strong> には現在 <strong>2 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>デキストロメトルファン臭化水素酸塩細粒１０％「ツルハラ」</strong> には現在 <strong>1 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -37,21 +37,13 @@ last_modified_at: 2026-10-29
 <p><a href="{{ '/drugs/dextromethorphan/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（2 件）
+## 関連ニュース（1 件）
 
-### [寒くなると高齢者の肺炎のリスクに注意](https://news.google.com/rss/articles/CBMirAFBVV95cUxONE1qZF9jdGxqZHd6c082bEdESjRQamlIU3RQeEJBOGQ4bXdnQTZJaFUwekx2c1docjh2aFBwYnVVWVVRbkxxUWNoY2xOX0xzczRkQnoycXhZSFIyRWtJZW1SU1p6NTNvVEFOcjlkV0ZOVGpsQU5sNDg5STBvMzczY3ZZRlZ1LU9IX1lBRmN2WDNTbEVfbTBUanNBQ2VuWHRpRE0wRXVZOHlUTFZY?oc=5)
+### [天候が寒くなると高齢者の肺炎のリスクを軽減する方法](https://news.google.com/rss/articles/CBMisgFBVV95cUxQd3lvTjJMbHFsV25qOHBUZUhQMUYtR3lBb1ZndjBzcXVDbnRCLUJybnJjWng4Z1Q2ZVl6TVhuZjVLZG94RGlXcHY0alI4ejlMVXJveDdNV2NwUUtGWlpqU3lsUlBmTExpMTdteVVyQ2NyUmJCaVhhT3A2YU01WDlPTkNuR2hTWWJXWDUzbFZnQjlGcHhVdGw2S2R3MmdHbE5Eb09EdGJsM0VXdWdoZ1BqOEN3?oc=5)
 
-2026-10-28 <span class="news-indication-tag">肺炎</span> <span class="news-indication-tag">風邪</span>
+2026-10-29 <span class="news-indication-tag">肺炎</span> <span class="news-indication-tag">風邪</span>
 
-出典: [Laodong.vn](https://news.google.com/rss/articles/CBMirAFBVV95cUxONE1qZF9jdGxqZHd6c082bEdESjRQamlIU3RQeEJBOGQ4bXdnQTZJaFUwekx2c1docjh2aFBwYnVVWVVRbkxxUWNoY2xOX0xzczRkQnoycXhZSFIyRWtJZW1SU1p6NTNvVEFOcjlkV0ZOVGpsQU5sNDg5STBvMzczY3ZZRlZ1LU9IX1lBRmN2WDNTbEVfbTBUanNBQ2VuWHRpRE0wRXVZOHlUTFZY?oc=5)
-
----
-
-### [【茅ヶ崎市・寒川町】茅ヶ崎・寒川でインフルエンザ流行発生注意報が発表！感染予防と対応策まとめ](https://news.google.com/rss/articles/CBMia0FVX3lxTE1HMzFMTjNERGdjRmF3U0VZTkxYbUk5MVdBRDJtS1NoU252SXp0QnFNb25yaVcyRkxzNU5BRnE0UXEwTDhLVkV4cHNFVDJIVzZBOGtYTkdvUnB3VFhqdWZnLW5QZ29SUTQ1YW1R?oc=5)
-
-2026-10-28 <span class="news-indication-tag">インフルエンザ</span> <span class="news-indication-tag">風邪</span>
-
-出典: [湘南人](https://news.google.com/rss/articles/CBMia0FVX3lxTE1HMzFMTjNERGdjRmF3U0VZTkxYbUk5MVdBRDJtS1NoU252SXp0QnFNb25yaVcyRkxzNU5BRnE0UXEwTDhLVkV4cHNFVDJIVzZBOGtYTkdvUnB3VFhqdWZnLW5QZ29SUTQ1YW1R?oc=5)
+出典: [Laodong.vn](https://news.google.com/rss/articles/CBMisgFBVV95cUxQd3lvTjJMbHFsV25qOHBUZUhQMUYtR3lBb1ZndjBzcXVDbnRCLUJybnJjWng4Z1Q2ZVl6TVhuZjVLZG94RGlXcHY0alI4ejlMVXJveDdNV2NwUUtGWlpqU3lsUlBmTExpMTdteVVyQ2NyUmJCaVhhT3A2YU01WDlPTkNuR2hTWWJXWDUzbFZnQjlGcHhVdGw2S2R3MmdHbE5Eb09EdGJsM0VXdWdoZ1BqOEN3?oc=5)
 
 ---
 

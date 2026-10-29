@@ -15,7 +15,7 @@ last_modified_at: 2026-10-29
 ---
 
 <p class="key-answer" data-question="タミフルドライシロップ３％（選） に関するニュースは？">
-<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>4 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>5 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,21 +30,29 @@ last_modified_at: 2026-10-29
 <p><a href="{{ '/drugs/oseltamivir/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（4 件）
+## 関連ニュース（5 件）
 
-### [寒くなると高齢者の肺炎のリスクに注意](https://news.google.com/rss/articles/CBMirAFBVV95cUxONE1qZF9jdGxqZHd6c082bEdESjRQamlIU3RQeEJBOGQ4bXdnQTZJaFUwekx2c1docjh2aFBwYnVVWVVRbkxxUWNoY2xOX0xzczRkQnoycXhZSFIyRWtJZW1SU1p6NTNvVEFOcjlkV0ZOVGpsQU5sNDg5STBvMzczY3ZZRlZ1LU9IX1lBRmN2WDNTbEVfbTBUanNBQ2VuWHRpRE0wRXVZOHlUTFZY?oc=5)
+### [【岐阜県インフルエンザ週報】県全体は減少も「可茂地域」で2.4倍に急増 高齢者の入院目立つ＜10月19日～25日の感染症情報 - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE1vNk5TUC1pWFRoUzFCZWRsV3FSUFFXUW5Cb0NaMDk1XzdDVWxkNzZOaXQ1XzREdXM1RlRnSFdYZGxWRVBBbC1MdURNWlN4c3g5RWpkbzhIZXBqZ3dvQ2VfdkFkTVBDM0hIRHZDV2l3?oc=5)
 
-2026-10-28 <span class="news-indication-tag">肺炎</span> <span class="news-indication-tag">風邪</span>
+2026-10-29 <span class="news-indication-tag">インフルエンザ</span>
 
-出典: [Laodong.vn](https://news.google.com/rss/articles/CBMirAFBVV95cUxONE1qZF9jdGxqZHd6c082bEdESjRQamlIU3RQeEJBOGQ4bXdnQTZJaFUwekx2c1docjh2aFBwYnVVWVVRbkxxUWNoY2xOX0xzczRkQnoycXhZSFIyRWtJZW1SU1p6NTNvVEFOcjlkV0ZOVGpsQU5sNDg5STBvMzczY3ZZRlZ1LU9IX1lBRmN2WDNTbEVfbTBUanNBQ2VuWHRpRE0wRXVZOHlUTFZY?oc=5)
+出典: [au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE1vNk5TUC1pWFRoUzFCZWRsV3FSUFFXUW5Cb0NaMDk1XzdDVWxkNzZOaXQ1XzREdXM1RlRnSFdYZGxWRVBBbC1MdURNWlN4c3g5RWpkbzhIZXBqZ3dvQ2VfdkFkTVBDM0hIRHZDV2l3?oc=5)
 
 ---
 
-### [【茅ヶ崎市・寒川町】茅ヶ崎・寒川でインフルエンザ流行発生注意報が発表！感染予防と対応策まとめ](https://news.google.com/rss/articles/CBMia0FVX3lxTE1HMzFMTjNERGdjRmF3U0VZTkxYbUk5MVdBRDJtS1NoU252SXp0QnFNb25yaVcyRkxzNU5BRnE0UXEwTDhLVkV4cHNFVDJIVzZBOGtYTkdvUnB3VFhqdWZnLW5QZ29SUTQ1YW1R?oc=5)
+### [《インフルエンザ・コロナを予防》手洗い、マスク…対策しても感染!? 専門家が教える感染症予防の落とし穴と“免疫力強化”のポイント](https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VaC1PN3J4cWVVYW5BM1IwRXBFXzZybmd1RFBaMjdMNzMyZ0dtWThHU3BCNXo3a0RyZ1VPb01hTHlJNEsydFo2NExvT1pkams?oc=5)
 
-2026-10-28 <span class="news-indication-tag">インフルエンザ</span> <span class="news-indication-tag">風邪</span>
+2026-10-29 <span class="news-indication-tag">インフルエンザ</span>
 
-出典: [湘南人](https://news.google.com/rss/articles/CBMia0FVX3lxTE1HMzFMTjNERGdjRmF3U0VZTkxYbUk5MVdBRDJtS1NoU252SXp0QnFNb25yaVcyRkxzNU5BRnE0UXEwTDhLVkV4cHNFVDJIVzZBOGtYTkdvUnB3VFhqdWZnLW5QZ29SUTQ1YW1R?oc=5)
+出典: [週刊女性PRIME](https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VaC1PN3J4cWVVYW5BM1IwRXBFXzZybmd1RFBaMjdMNzMyZ0dtWThHU3BCNXo3a0RyZ1VPb01hTHlJNEsydFo2NExvT1pkams?oc=5)
+
+---
+
+### [天候が寒くなると高齢者の肺炎のリスクを軽減する方法](https://news.google.com/rss/articles/CBMisgFBVV95cUxQd3lvTjJMbHFsV25qOHBUZUhQMUYtR3lBb1ZndjBzcXVDbnRCLUJybnJjWng4Z1Q2ZVl6TVhuZjVLZG94RGlXcHY0alI4ejlMVXJveDdNV2NwUUtGWlpqU3lsUlBmTExpMTdteVVyQ2NyUmJCaVhhT3A2YU01WDlPTkNuR2hTWWJXWDUzbFZnQjlGcHhVdGw2S2R3MmdHbE5Eb09EdGJsM0VXdWdoZ1BqOEN3?oc=5)
+
+2026-10-29 <span class="news-indication-tag">肺炎</span> <span class="news-indication-tag">風邪</span>
+
+出典: [Laodong.vn](https://news.google.com/rss/articles/CBMisgFBVV95cUxQd3lvTjJMbHFsV25qOHBUZUhQMUYtR3lBb1ZndjBzcXVDbnRCLUJybnJjWng4Z1Q2ZVl6TVhuZjVLZG94RGlXcHY0alI4ejlMVXJveDdNV2NwUUtGWlpqU3lsUlBmTExpMTdteVVyQ2NyUmJCaVhhT3A2YU01WDlPTkNuR2hTWWJXWDUzbFZnQjlGcHhVdGw2S2R3MmdHbE5Eb09EdGJsM0VXdWdoZ1BqOEN3?oc=5)
 
 ---
 
@@ -56,11 +64,11 @@ last_modified_at: 2026-10-29
 
 ---
 
-### [「1回のくしゃみで約4万個の飛沫」インフルエンザなど流行しやすい冬を前に 看護師による予防講座 大分](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9pY19uRHBWa0hXOUc2TzliZGRWOER2Q21ia1VZNkg0dkxXNkNUT1o1TmdPSXNJYUdpY1pOeXNLbER0a1AtR1VDZVpzLU45Zw?oc=5)
+### [クアンチ省は48時間以内に感染源の処理を要求](https://news.google.com/rss/articles/CBMioAFBVV95cUxQWWF3X29lT0Q0alc2WGhTQkdfc0ZfRTdRUUpHRnJrb2xYX1VadWVpNC1fYUZGNlQxbE1xcmFyVjRkUHJfdEFIZ1BmN050MThyRkwzQTdCejFqS3lURmduM192dEgyUTRsZmJEaFhsM0hXRWxlcFpfbnF1Z2oxSm13Q2s4cGNyRGl0c3VCeW5ta3N5NEdXZG52dnktcDlVTkdU?oc=5)
 
 2026-10-23 <span class="news-indication-tag">インフルエンザ</span>
 
-出典: [FNNプライムオンライン](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9pY19uRHBWa0hXOUc2TzliZGRWOER2Q21ia1VZNkg0dkxXNkNUT1o1TmdPSXNJYUdpY1pOeXNLbER0a1AtR1VDZVpzLU45Zw?oc=5)
+出典: [Laodong.vn](https://news.google.com/rss/articles/CBMioAFBVV95cUxQWWF3X29lT0Q0alc2WGhTQkdfc0ZfRTdRUUpHRnJrb2xYX1VadWVpNC1fYUZGNlQxbE1xcmFyVjRkUHJfdEFIZ1BmN050MThyRkwzQTdCejFqS3lURmduM192dEgyUTRsZmJEaFhsM0hXRWxlcFpfbnF1Z2oxSm13Q2s4cGNyRGl0c3VCeW5ta3N5NEdXZG52dnktcDlVTkdU?oc=5)
 
 ---
 
