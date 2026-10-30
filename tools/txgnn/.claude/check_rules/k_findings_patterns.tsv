@@ -1,0 +1,23 @@
+lang	pattern	meaning	fix_hint
+any	(?i)(knowledge[- ]?graph|wissensgraph\w*|graphe[s]? de connaissances?|grafo de (conocimiento|conhecimento)|grafo di conoscenz\w*|kennisgraaf\w*|kunnskapsgraf\w*|kunskapsgraf\w*|videns?graf\w*|tietograaf\w*|知識圖譜|知识图谱|知識グラフ|지식 ?그래프|graf pengetahuan|الرسم البياني المعرفي|رسم بياني معرفي|กราฟความรู้|โครงข่ายความรู้)	KG 詞（各語言），供 40 字窗口用	—
+en	(?i)knowledge[- ]graph[- ](score|prediction|inference|model|signal|output|artefact|artifact|association|proximity|similarity|pattern|topology|connectivity|structure|propagation)	KG 接分數/預測/鄰近類名詞	TxGNN model (deep learning) score/prediction
+en	(?i)(score|prediction|predicted)\b[^.\n]{0,40}\b(reflects?|comes? from|rests? (only )?on|driven by|based on|derived from)\b[^.\n]{0,40}knowledge[- ]graph	分數/預測歸因於 KG	may reflect similarities the TxGNN model learned between related diseases, not biological evidence
+en	(?i)knowledge[- ]graph and deep[- ]learning (prediction )?(pipeline|steps|modules)	KG 與 DL 並列為預測管線	TxGNN deep-learning prediction pipeline
+zh	(分數|分数|預測|预测|高分)[^。\n]{0,20}(反映|來自|来自|源自|僅代表|仅代表|只是)[^。\n]{0,10}(知識圖譜|知识图谱)[中上]?的?(鄰近|邻近|關聯|关联|網路|网络|假象|人為產物|雜訊|推論|計算結果|結構|拓樸|相似)	分數/預測歸因於 KG	TxGNN 模型（深度學習）的預測／分數；鄰近類改「可能反映模型學到的疾病相似性」
+zh	TxGNN ?(知識圖譜|知识图谱)的?(預測|预测|模型分數|關聯推論)|(知識圖譜|知识图谱)模型	KG 當成預測模型	TxGNN 模型（深度學習）
+ko	지식 ?그래프 ?(상의?|에서|의|기반(의)?|에 기반한)\s*(예측|점수|근접성|연관성|인공(적)?|인위적|네트워크|구조|유사성|계산)	KG 當預測/分數來源	TxGNN 모델(딥러닝) 예측；근접성類改「모델이 학습한 질환 간 유사성」
+ja	知識グラフ(上の|に基づく|に由来する?|の)\s*(関連|近接|構造|推論|スコア|予測|偽相関)	KG 當預測/分數來源	TxGNN モデル（深層学習）の予測
+es	(?i)(predicci[oó]n (derivada|basada|del|sobre el)|puntaje (alto )?del|artefacto del|cercan[ií]a en el|se (apoya|basa) (solamente|s[oó]lo|[uú]nicamente) en el) grafo de conocimiento	KG 當預測/分數來源	modelo TxGNN (aprendizaje profundo)
+pt	(?i)(previs[aã]o (derivada|baseada|do)|pontua[cç][aã]o (alta )?do|artefato do|proximidade no|se apoia (somente|apenas) no) grafo de conhecimento	KG 當預測/分數來源（排除 contraindicações previstas pelo grafo）	modelo TxGNN (aprendizado profundo)
+fr	(?i)(pr[eé]diction issue d(u|'un)|score issu du|proximit[eé] dans le|artefact du) graphe de connaissances	KG 當預測/分數來源	modèle TxGNN (apprentissage profond)
+it	(?i)(previsione (derivata|basata|del|sul)|punteggio (alto )?del|artefatto del|vicinanza nel|si basa (solo|soltanto|unicamente) sul) grafo di conoscenz\w*	KG 當預測/分數來源	modello TxGNN (apprendimento profondo)
+de	(?i)(Vorhersage des Wissensgraphen|Wissensgraphen-Score|N[aä]he im Wissensgraphen|beruht allein auf dem Wissensgraphen|TxGNN-Knowledge-Graph[^.\n]{0,40}Vorhersagen|mit einem Wissensgraphen[^.\n]{0,40}vorhergesagt)	KG 當預測/分數來源	TxGNN-Modell (Deep Learning)
+no	(?i)kunnskapsgraf-?(prediksjon|score|modell)|predikeres med en kunnskapsgraf	KG 當預測/分數來源	TxGNN-modellen (dyp læring)
+sv	(?i)kunskapsgraf-?(prediktion|poäng|modell)	KG 當預測/分數來源	TxGNN-modellen (djupinlärning)
+da	(?i)videns?graf(baseret|-baseret) (model|association|forudsigelse)	KG 當預測/分數來源	TxGNN-modellen (dyb læring)
+nl	(?i)voorspelling (uit|van) een kennisgraaf|kennisgraafmodel|artefact van de kennisgraaf	KG 當預測/分數來源	TxGNN-model (deep learning)
+fi	(?i)tietograafi(pohjainen)? ?ennuste|tietograafin (artefakti|naapurit)	KG 當預測/分數來源	TxGNN-malli (syväoppiminen)
+ms	(?i)ramalan berasaskan graf pengetahuan|skor (model )?graf pengetahuan|artifak graf pengetahuan|model graf pengetahuan	KG 當預測/分數來源	model TxGNN (pembelajaran mendalam)
+ar	(التنبؤ (ناتج|قائم) (عن|على) الرسم البياني المعرفي|(قرب|تقارب) في الرسم البياني المعرفي|نموذج الرسم البياني المعرفي)	KG 當預測/分數來源	نموذج TxGNN (التعلم العميق)
+th	คะแนน[^\n]{0,30}จาก(กราฟความรู้|โครงข่ายความรู้)|ความใกล้เคียง(ของโหนด)?ในกราฟความรู้	KG 當預測/分數來源	แบบจำลอง TxGNN (การเรียนรู้เชิงลึก)
+ok_exempt	(?i)(exclud|already recorded|trained on|ausgeschlossen|bereits|exclu|déjà|ya registrad|já registrad|già registrat|allerede|redan|已排除|已記錄|已记录|既に|이미 기록|telah direkod|contraindic|kontraindik|contre-indic|controindic|禁忌|금기|DrugBank|trainiert|entrenad|treinad|addestrat|getraind|trænet|trenad|koulutet|訓練|学習され|학습된|dilatih|ฝึก|Nature Medicine|Huang)	例外：已知用途排除、禁忌症、訓練資料、節點對應、論文引用	不改

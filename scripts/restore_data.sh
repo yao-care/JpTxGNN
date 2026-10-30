@@ -19,10 +19,20 @@ get() {  # $1 repo $2 tag $3 asset 前綴 $4 tar 要去掉的路徑層數
   local d; d=$(mktemp -d)
   gh release download "$2" -R "$1" -D "$d" -p "$3.*"
   (cd "$d" && check "$3.sha256")
-  cat "$d/$3".tar.gz.part-* | tar xzf - --strip-components="$4"
+  if ls "$d/$3".tar.gz.part-* >/dev/null 2>&1; then cat "$d/$3".tar.gz.part-*; else cat "$d/$3.tar.gz"; fi | tar xzf - --strip-components="$4"  # 大檔分片、小檔（cache）不分片
   rm -rf "$d"; echo "✓ $1 $2 $3"
 }
 get "$REPO" "$TAG" "$SITE-data" 1          # tar 內是 <站>/data/...，去掉第一層解到本 repo
+# 母 repo 快取（舊版證據包備份、Kr 的 MFDS 適應症文字）：本 repo 最新的 cache-* Release，沒有就略過
+CTAG=$(gh release list -R "$REPO" -L 100 --json tagName,createdAt -q '[.[]|select(.tagName|startswith("cache-"))]|sort_by(.createdAt)|last|.tagName')
+[ -n "$CTAG" ] && get "$REPO" "$CTAG" "$SITE-cache" 1
+# data/external 有些站是指向 TwTxGNN 的捷徑（打包時只存捷徑）；斷掉的就從 TwTxGNN 的 shared-external 補實體檔
+if find data/external -maxdepth 1 -type l ! -exec test -e {} \; -print 2>/dev/null | grep -q .; then
+  find data/external -maxdepth 1 -type l ! -exec test -e {} \; -delete
+  d=$(mktemp -d); gh release download data-20261016 -R yao-care/TwTxGNN -D "$d" -p "shared-external.*"
+  (cd "$d" && check shared-external.sha256) && tar xzf "$d"/shared-external.tar.gz -C data/external && rm -rf "$d"
+  echo "✓ data/external 共用檔已補上"
+fi
 if [ $KG = 1 ]; then
   get yao-care/TwTxGNN data-20261016 shared-kg 1              # TwTxGNN/data/{kg,node,kg_directed,edges}.csv → data/
   [ "$SITE" = TwTxGNN ] && get yao-care/TwTxGNN data-20261016 TwTxGNN-model_ckpt 1

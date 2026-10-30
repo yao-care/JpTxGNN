@@ -1,0 +1,5 @@
+{
+ "_doc": "KG 已知用途的人工排除（2026-10-22）：這些 KG 邊不當已知用途。每筆附理由。",
+ "DB01281": {"drug": "abatacept", "names": ["spondyloarthropathy"], "reason": "pm 第十三輪查核：KG 合併節點源自 spondyloarthropathy susceptibility 類關係；abatacept 各國未核准 SpA，AS 試驗失敗"},
+ "DB06273": {"drug": "tocilizumab", "names": ["spondyloarthropathy"], "reason": "同上；tocilizumab 未核准 SpA，AS 試驗失敗"}
+}

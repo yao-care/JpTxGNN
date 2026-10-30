@@ -1,0 +1,10 @@
+{
+ "labels": {
+  "Ativo": "valid",
+  "Cancelado": "cancelled"
+ },
+ "preferred": {
+  "valid": "Ativo",
+  "cancelled": "Cancelado"
+ }
+}

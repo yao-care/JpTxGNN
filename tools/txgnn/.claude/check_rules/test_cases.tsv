@@ -1,0 +1,179 @@
+code	lang	text	expect	note
+P5	en	The high score (99.91%) comes from the knowledge graph.	hit	
+P5	de	Der hohe Wert (99,5 %) stammt aus dem Wissensgraphen.	hit	
+P5	en	The KG prediction score is high for this pair.	hit	
+P5	en	| Source | KG |	hit	
+P5	en	This knowledge-graph score suggests a link.	hit	
+P5	zh	這個高分預測很可能來自知識圖譜中的間接關聯，而非真實的藥理證據。	hit	
+P5	zh	高分數僅來自知識圖譜的關聯推論，不代表有生物學上的支持。	hit	
+P5	ja	この予測は知識グラフ上の関連に基づくものです。	hit	
+P5	ko	이 점수는 지식 그래프 상의 근접성을 반영합니다.	hit	
+P5	es	La puntuación alta del grafo de conocimiento no implica eficacia.	hit	
+P5	it	La previsione basata sul grafo di conoscenza non è una prova.	hit	
+P5	fr	Le score issu du graphe de connaissances est élevé.	hit	
+P5	ms	Skor graf pengetahuan ini tinggi.	hit	
+P5	th	คะแนนสูงนี้มาจากกราฟความรู้	hit	
+P5	en	The score of 0.9991 may simply reflect proximity in the knowledge graph.	hit	
+P5	en	Indications already recorded in the knowledge graph are excluded from predictions.	miss	
+P5	en	TxGNN is a graph neural network trained on a biomedical knowledge graph and predicts new uses.	miss	
+P5	en	The TxGNN model (deep learning) gave this pair a score of 0.9991.	miss	
+P5	en	The knowledge graph lists 17,080 diseases. The model score is 0.9991.	hit	
+P5	fi	Lääke vaikuttaa hermoston tietoverkkoon ja ennuste on epävarma.	miss	
+P5	en	Huang et al. (Nature Medicine) integrated a knowledge graph with deep learning to predict efficacy.	miss	
+P5	es	Las contraindicaciones registradas en el grafo de conocimiento se excluyen de la predicción.	miss	
+P5	en	Kidney function (eGFR 60) was stable; the 5 kg weight gain was noted.	miss	
+P6	zh	| TxGNN 預測分數 | 99.97% |	hit	
+P6	ja	スコア 99.5％ と高い	hit	
+P6	ar	درجة التنبؤ ٩٩٫٩٪	hit	
+P6	en	The prediction score 0.9991 reflects very high confidence.	hit	
+P6	fr	Score 0,9991, confiance élevée	hit	
+P6	it	punteggio 0,9991 con alta fiducia	hit	
+P6	no	score 0,9991 gir høy tillit	hit	
+P6	en	| TxGNN Prediction Score | 0.9997 |	miss	
+P6	en	Response rate was 45% in the trial.	miss	
+P2	en	| TxGNN Prediction Score | 0.85 |	hit	
+P2	en	| TxGNN Prediction Score | 85.3% |	hit	
+P2	en	The TxGNN score is 1.00 for this pair.	hit	
+P2	en	The TxGNN score of 99 % was reported.	hit	
+P2	en	The TxGNN score was 0.987.	hit	
+P2	en	| TxGNN Prediction Score | 0.9950 |	miss	
+P2	en	| TxGNN Prediction Score | 99.50% |	miss	
+P2	en	Overall response rate was 45% (95% CI 30–60%).	miss	
+COUNT_LABEL	any	Number of ARTG entries	hit	
+COUNT_LABEL	any	Number of DINs	hit	
+COUNT_LABEL	any	Number of Marketing Authorisations	hit	
+COUNT_LABEL	any	Number of NHS prescribing items (BNF)	hit	
+COUNT_LABEL	any	Number of NDAs	hit	
+COUNT_LABEL	any	許可證數	hit	
+COUNT_LABEL	any	承認番号数	hit	
+COUNT_LABEL	any	허가증 수	hit	
+COUNT_LABEL	any	عدد التراخيص	hit	
+COUNT_LABEL	any	จำนวนใบอนุญาต	hit	
+COUNT_LABEL	any	Nombre d'AMM	hit	
+COUNT_LABEL	any	Myyntilupien määrä	hit	
+COUNT_LABEL	any	Number of marketed products	hit	
+COUNT_LABEL	any	模型候選中的已知用途數	miss	
+COUNT_LABEL	any	Number of inflammation cases	miss	
+COUNT_LABEL	any	TxGNN Prediction Score	miss	
+COUNT_LABEL	any	Number of predicted indications	miss	
+PRED_ROW	any	預測新適應症	hit	
+PRED_ROW	any	予測新規適応症	hit	
+PRED_ROW	any	예측 신규 적응증	hit	
+PRED_ROW	any	Predicted New Indication	hit	
+PRED_ROW	any	Nueva Indicación Predicha	hit	
+PRED_ROW	any	Nova Indicação Prevista	hit	
+PRED_ROW	any	Vorhergesagte neue Indikation	hit	
+PRED_ROW	any	Forudsagt ny indikation	hit	
+PRED_ROW	any	Ennustettu uusi käyttöaihe	hit	
+PRED_ROW	any	Nouvelle Indication Prédite	hit	
+PRED_ROW	any	Nuova indicazione prevista	hit	
+PRED_ROW	any	Indikasi Baharu yang Diramalkan	hit	
+PRED_ROW	any	Voorspelde nieuwe indicatie	hit	
+PRED_ROW	any	Predikert ny indikasjon	hit	
+PRED_ROW	any	الاستطباب الجديد المتوقع	hit	
+PRED_ROW	any	Förutsagd ny indikation	hit	
+PRED_ROW	any	ข้อบ่งใช้ใหม่ที่ทำนาย	hit	
+PRED_ROW	any	原適應症	miss	
+PRED_ROW	any	Original Indication	miss	
+PRED_ROW	any	Ursprüngliche Indikation	miss	
+PRED_ROW	any	TxGNN Prediction Score	miss	
+STATUS_ROW	any	UsTxGNN|Taiwan Market Status;US Market Status	hit	US Market Status
+STATUS_ROW	any	DETxGNN|Marktstatus in Taiwan;Marktstatus in Deutschland	hit	Marktstatus in Deutschland
+STATUS_ROW	any	SETxGNN|Marknadsstatus i Taiwan;Marknadsstatus i Sverige	hit	Marknadsstatus i Sverige
+STATUS_ROW	any	TwTxGNN|台灣上市	hit	台灣上市
+P5	en	This candidate (score 0.9952) emerges from patterns in the knowledge graph rather than trial data.	hit	
+P5	en	Its high ranking likely reflects network proximity between the two diseases in the KG.	hit	
+P5	de	Die Vorhersage stützt sich auf Verbindungen im Wissensgraphen.	hit	
+P5	es	La puntuación de 0,996 refleja la proximidad entre nodos del grafo de conocimiento.	hit	
+P5	en	The TxGNN model was trained on a biomedical knowledge graph; known uses recorded there are excluded.	miss	
+P5	zh	知識圖譜中已記錄的適應症已排除，不列為新預測。	miss	
+INDEX_EN	en	UsTxGNN|simian immunodeficiency virus infection	hit	simian immunodeficiency virus infection
+INDEX_EN	ja	JpTxGNN|強直性脊椎炎 (Ankylosing Spondylitis)	hit	ankylosing spondylitis
+INDEX_EN	ms	MyTxGNN|Sindrom orang kaku klasik (classic stiff person syndrome)	hit	classic stiff person syndrome
+P2	en	The TxGNN deep-learning model (score ≥ 0.99) produced candidates for this drug.	miss	
+P2	pt	O modelo TxGNN não apresenta nenhum candidato com pontuação ≥ 0,99.	miss	
+P2	de	Das TxGNN-Modell (Score ≥ 0,99) hat Kandidaten erzeugt.	miss	
+P2	ja	TxGNN スコア 0.99 以上の候補はありません。	miss	
+P2	fr	Le score élevé de TxGNN (0,998) est élevé.	hit	
+STATUS_ROW	any	ESTxGNN|Estado de comercialización en España	hit	Estado de comercialización en España
+INDEX_EN	en	ThTxGNN|monoclonal gammopathy	hit	monoclonal gammopathy
+P2	pt	O modelo TxGNN não apresenta nenhum candidato com pontuação igual ou superior a 0,99.	miss	
+P2	es	Ningún candidato del modelo TxGNN tiene una puntuación igual o superior a 0,99.	miss	
+P2	en	Other predictions (fascioliasis 0.9950) also scored above 0.99 but have no studies.	miss	
+P5	en	The one known use among the candidates is a relation recorded in the knowledge graph, with no approval found.	miss	
+P5	zh	候選中唯一的已知用途是知識圖譜記錄的關係，未找到核准紀錄。	miss	
+P5	en	The candidate's score reflects proximity in the knowledge graph.	hit	
+P5	en	This known use is listed because its score reflects proximity in the knowledge graph.	hit	
+P5	en	The known use's high score comes from the knowledge graph.	hit	
+M3	en	All 7 licenses are cancelled, so the drug is no longer available.	hit	valid=7
+M3	ar	جميع التراخيص الأربعة ملغاة.	hit	valid=4
+M3	zh	本藥在台灣的許可證皆已註銷。	hit	valid=2
+M3	es	Todos los registros sanitarios están anulados.	hit	valid=3
+M3	de	Alle Zulassungen sind erloschen.	hit	valid=1
+M3	en	Three of the seven licenses were cancelled; four remain valid.	miss	valid=4
+M3	es	El medicamento está comercializado en España.	hit	cancelled
+M3	es	No comercializado: todos los registros están anulados.	miss	cancelled
+P5	es	el vínculo se apoya solo en la cercanía dentro de la red del grafo de conocimiento	hit	
+P5	de	Der Befund ist vermutlich ein Graph-Artefakt.	hit	
+P5	fr	Ce lien repose probablement sur des voisins communs dans le graphe.	hit	
+P5	en	TxGNN, a graph neural network model, ranked this disease first.	miss	
+P5	en	The known use scored 0.995 in the knowledge graph.	hit	
+P5	zh	此已知用途的預測分數 0.995 來自知識圖譜。	hit	
+P5	de	Die bekannte Anwendung erhielt im Wissensgraphen einen Score von 0,995.	hit	
+P5	es	El uso conocido obtuvo una puntuación de 0,995 en el grafo de conocimiento.	hit	
+P5	fr	L'usage connu a obtenu un score de 0,995 dans le graphe de connaissances.	hit	
+P5	ja	この既知の用途は知識グラフでスコア 0.995 でした。	hit	
+P2	en	Other candidates scored above 0.95 in the TxGNN model.	hit	
+P2	en	The TxGNN score was over 0.97.	hit	
+P2	en	The TxGNN score was above 97%.	hit	
+P2	de	Der TxGNN-Score lag über 0,97.	hit	
+P2	es	La puntuación TxGNN fue superior a 0,96.	hit	
+P2	da	Modelscoren for denne sygdom er 0,9732.	hit	
+P2	da	| TxGNN-forudsigelsesscore | 0,9732 |	hit	
+P6	da	TxGNN-forudsigelsesscore 99,14 %	hit	
+P3C6	en	rheumatoid arthritis|The model also predicts benefit in a population such as rheumatoid arthritis patients.	hit	
+P3C6	en	Plummer-Vinson syndrome|For the predicted indications, deficiency anemia and Plummer-Vinson syndrome lack trials.	hit	
+P3C6	en	rheumatoid arthritis|Rheumatoid arthritis is a known use recorded in the label.	miss	
+P5	en	### Relations recorded in the knowledge graph (no approval found)	miss	
+P5	es	### Relaciones registradas en el grafo de conocimiento (sin aprobación encontrada)	miss	
+P5	de	### Im Wissensgraphen verzeichnete Beziehungen (keine Zulassung gefunden)	miss	
+P5	en	| Original Indication | Hypertension (recorded in the knowledge graph; not on the label) |	miss	
+P5	ar	**موانع الاستعمال (من الرسم البياني المعرفي، وليست من نص النشرة الدوائية)**	miss	
+P5	en	The prediction recorded in the knowledge graph scored 0.995.	hit	
+P5	fr	Elle repose probablement sur des voisins communs dans le graphe et ne constitue pas une preuve.	hit	
+P3C6	en	rheumatoid arthritis|These should be weighed in a population such as RA patients.	hit	
+P3C6	en	deficiency anemia|For the predicted indications, deficiency anemia raises a potential interaction concern.	hit	
+M3	en	None of the three licences is currently valid in Australia.	hit	valid=3
+M3	en	The product is not marketed in Australia.	hit	valid=3
+M3	en	The drug no longer has any valid licence.	hit	valid=3
+M3	da	Lægemidlet er ikke markedsført i Danmark.	hit	valid=2
+M3	zh	本藥未在台灣上市。	hit	valid=2
+M3	de	Das Arzneimittel ist nicht im Handel.	hit	valid=1
+M3	en	Of the seven licenses, three were cancelled and four remain valid.	miss	valid=4
+P2	da	Kun forudsigelser med en TxGNN-score på 0,99 eller højere vises.	miss	
+P2	no	Bare prediksjoner med TxGNN-score på 0,99 eller høyere vises.	miss	
+P2	fi	Vain TxGNN-pistemäärän 0,99 tai enemmän ennusteet näytetään.	miss	
+P2	nl	Alleen voorspellingen met een TxGNN-score van 0,99 of hoger worden getoond.	miss	
+P2	ms	Hanya ramalan dengan skor TxGNN 0.99 atau lebih dipaparkan.	miss	
+M3	en	All licences are cancelled and none remain valid.	hit	valid=3
+M3	en	None of the licences is still valid.	hit	valid=3
+M3	en	No licence is still valid; all were cancelled.	hit	valid=3
+M3	en	Not a single licence remains valid.	hit	valid=3
+M3	en	All 5 licences are cancelled, 0 remain valid.	hit	valid=3
+M3	zh	目前有效 0 張，全部已註銷。	hit	valid=3
+M3	da	Ingen af tilladelserne er stadig gyldige.	hit	valid=3
+M3	en	Two licences were cancelled, but 3 remain valid.	miss	valid=3
+M3	zh	已註銷 2 張，仍有效 3 張。	miss	valid=3
+M3	en	None were cancelled, and 4 remain valid.	miss	valid=4
+M3	da	Ingen tilladelser er afregistrerede; 3 er gyldige.	miss	valid=3
+M3	de	Keine Zulassung wurde widerrufen, 2 sind gültig.	miss	valid=2
+M3	fr	Aucune AMM n'a été retirée ; 3 sont valides.	miss	valid=3
+M3	en	The product has no generic competitor; 2 licences are valid.	miss	valid=2
+M3	pt	O medicamento não é comercializado no Brasil.	miss	cancelled
+M3	pt	O fármaco não tem registro comercializado.	miss	cancelled
+P5	en	- **Disease associations flagged in the knowledge graph (not label text):** liver failure, liver disease, fatty liver disease, pancreatitis, lactic acidosis	miss	Us abacavir（pm A 案：KG 禁忌／注意關聯允許）
+P5	nl	**Aandachtspunten uit de kennisgraaf (geen bijsluitertekst):** de TxGNN-kennisgraaf koppelt everolimus aan de volgende aandoeningen als mogelijke contra-indicatie of reden voor voorzichtigheid:	miss	Nl everolimus（pm A 案）
+P5	en	The knowledge graph flags pancreatitis as a likely new indication with score 0.995.	hit	pm A 案對照：有分數不豁免
+P5	nl	De kennisgraaf voorspelt deze aandoening.	hit	pm A 案對照：有預測字樣不豁免
+P5	en	The knowledge graph links this drug to liver failure.	miss	section=## Safety Considerations
+P5	en	The knowledge graph links this drug to liver failure with a score of 0.995.	hit	section=## Safety Considerations

@@ -1,0 +1,85 @@
+{
+ "DB04841": {
+  "drug": "flunarizine",
+  "terms": [
+   "migraine",
+   "cat:migraine"
+  ],
+  "source": "多國核准偏頭痛預防（例：加拿大 Sibelium 仿單 'prophylaxis of migraine'；德國 Fachinformation Flunarizin 'Prophylaxe der Migräne'）；Tw TFDA 與 PMDA 資料未收錄"
+ },
+ "DB04890": {
+  "drug": "bepotastine",
+  "terms": [
+   "urticaria",
+   "cat:urticaria"
+  ],
+  "source": "PMDA タリオン錠 添付文書 効能・効果：アレルギー性鼻炎、蕁麻疹、皮膚疾患（湿疹・皮膚炎、痒疹、皮膚そう痒症）に伴うそう痒；jp_fda_drugs.json 的 KEGG 欄只列鼻炎"
+ },
+ "DB00727": {
+  "drug": "nitroglycerin",
+  "terms": [
+   "angina",
+   "cat:angina"
+  ],
+  "source": "Tw TFDA 許可證適應症「預防或治療冠狀動脈疾病引起之狹心症」「心絞痛」；My NPRA 證據包 indication 欄空白"
+ },
+ "DB00469": {
+  "drug": "tenoxicam",
+  "terms": [
+   "rheumatoid arthritis",
+   "osteoarthritis",
+   "cat:rheumatoid arthritis"
+  ],
+  "source": "Tilcotil（Roche）仿單：rheumatoid arthritis、osteoarthritis 的症狀治療；本專案 KG 只有 arthropathy，ANVISA 證據包只有藥理分類"
+ },
+ "DB06650": {
+  "drug": "ofatumumab",
+  "terms": [
+   "chronic lymphocytic leukemia",
+   "cat:cll"
+  ],
+  "source": "US FDA Arzerra 仿單：chronic lymphocytic leukemia（CLL）；EMA 只剩 Kesimpta（MS）"
+ },
+ "DB00999": {
+  "drug": "hydrochlorothiazide",
+  "terms": [
+   "congestive heart failure",
+   "heart failure",
+   "cat:heart failure"
+  ],
+  "source": "US FDA hydrochlorothiazide 仿單：adjunctive therapy in edema associated with congestive heart failure；KG 對 CHF 同時記 indication 與 contraindication"
+ },
+ "DB00975": {
+  "drug": "dipyridamole",
+  "terms": [
+   "stroke",
+   "ischemic stroke",
+   "cat:stroke"
+  ],
+  "source": "UK SmPC Attia 200 mg MR（dipyridamole 單方）4.1：secondary prevention of ischaemic stroke and transient ischaemic attacks — https://www.medicines.org.uk/emc/product/3472/smpc （pm 2026-10-22 核對；原 emc 2954 已 404）"
+ },
+ "DB00086": {
+  "drug": "streptokinase",
+  "terms": [
+   "myocardial infarction",
+   "acute myocardial infarction",
+   "deep vein thrombosis",
+   "pulmonary embolism",
+   "arterial occlusion",
+   "coronary thrombosis"
+  ],
+  "source": "Kr MFDS 효능효과（nedrug.mfds.go.kr/pbp/cmn/pdfDownload/199904106/EE）：1. 급성심근경색 2. 급성기저정맥혈전증、급성폐색전증、급성동맥폐색증；My NPRA 證據包無適應症文字、KG 無 streptokinase 適應症邊；Streptase 仿單：intracoronary lysis of coronary artery thrombi（急性心肌梗塞冠狀動脈內輸注）——coronary thrombosis 依 pm 2026-10-23 醫療判定列為已知用途"
+ },
+ "DB09488": {
+  "drug": "acrivastine",
+  "terms": [
+   "urticaria",
+   "allergic urticaria",
+   "chronic urticaria",
+   "cat:urticaria",
+   "nasal cavity disease",
+   "IgE responsiveness, atopic"
+  ],
+  "source": "EU/UK 仿單（acrivastine）適應症含慢性（特發性）蕁麻疹；Dk acrivastine 頁自引 PMID 1715267 亦為蕁麻疹療效（pm 2026-10-23 核對）；nasal cavity disease（過敏性鼻炎的上位類別）、IgE responsiveness, atopic（異位性體質，為核准用途的機轉，非疾病）由 pm 2026-10-23 醫療判定為已知用途"
+ }
+}

@@ -101,3 +101,5 @@ u03b_coverage.json
 
 # 2026-10-29 許可證排程更新的暫存輸出
 /.license_refresh/
+# 工具鏈複本要進 repo（母 repo .claude/ 的複本）
+!/tools/txgnn/.claude/
