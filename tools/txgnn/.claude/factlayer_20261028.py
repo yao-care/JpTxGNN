@@ -239,7 +239,7 @@ def status_value(site, fc):
         return ck.KR_UNKNOWN
     ms, v, n, partial = fc.get("market_status"), fc.get("valid"), fc.get("total"), fc.get("partial")
     if ms == "Marketed":
-        return (tl[1] if partial else tl[0]).format(v=v, n=n)
+        return ck.marketed_text(site, lang, v, n, partial)
     if ms == "Approved, not marketed":
         return ck.NOT_MKT.get(lang, ck.NOT_MKT["en"]).format(n=n)
     if ms == "Cancelled only":

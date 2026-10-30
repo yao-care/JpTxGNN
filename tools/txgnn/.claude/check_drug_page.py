@@ -305,6 +305,34 @@ NO_CENTRAL = {
 }
 
 
+# 2026-10-30（用戶選「沿用現有來源排程」）：這些站的「本地資料」不是主管機關許可證資料，狀態列照實陳述來源，
+# 不寫成「已許可、上市中」。{v}／{n}＝在列筆數（同原本的有效／總數）；部分紀錄用第二個模板。
+SOURCE_STATUS = {
+    "NZTxGNN": ("Listed on the Pharmac Pharmaceutical Schedule ({v} of {n} items) – Medsafe licence status is not included in this data",
+                "Listed on the Pharmac Pharmaceutical Schedule (at least {v} items) – Medsafe licence status is not included in this data"),
+    "UkTxGNN": ("Listed in NHSBSA BNF presentation codes ({v} of {n}) – MHRA licence status is not included in this data",
+                "Listed in NHSBSA BNF presentation codes (at least {v}) – MHRA licence status is not included in this data"),
+    "ARTxGNN": ("Incluido en el listado de medicamentos de PAMI ({v} de {n}) – el estado del registro en ANMAT no está incluido en estos datos",
+                "Incluido en el listado de medicamentos de PAMI (al menos {v}) – el estado del registro en ANMAT no está incluido en estos datos"),
+    "AuTxGNN": ("Listed on the PBS Schedule ({v} of {n} items) – TGA (ARTG) registration status is not included in this data",
+                "Listed on the PBS Schedule (at least {v} items) – TGA (ARTG) registration status is not included in this data"),
+    "InTxGNN": ("Listed in a compiled Indian medicine price dataset ({v} of {n}) – CDSCO approval status is not included in this data",
+                "Listed in a compiled Indian medicine price dataset (at least {v}) – CDSCO approval status is not included in this data"),
+    "PhTxGNN": ("Listed in the Philippine National Formulary ({v} of {n}) – FDA Philippines registration status is not included in this data",
+                "Listed in the Philippine National Formulary (at least {v}) – FDA Philippines registration status is not included in this data"),
+    "ThTxGNN": ("อยู่ในบัญชียาหลักแห่งชาติ ({v} จาก {n} รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย.",
+                "อยู่ในบัญชียาหลักแห่งชาติ (อย่างน้อย {v} รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย."),
+}
+
+
+def marketed_text(site, lang, v, n, partial):
+    """事實是 Marketed 時的狀態列：來源不是許可證資料的站用 SOURCE_STATUS，其他站用 mv2.T"""
+    if site in SOURCE_STATUS:
+        return SOURCE_STATUS[site][1 if partial else 0].format(v=v, n=n)
+    tl = mv2.T.get(lang) or mv2.T["en"]
+    return (tl[1] if partial else tl[0]).format(v=v, n=n)
+
+
 def not_reg_text(site, lang):
     """查無許可紀錄時的狀態列：EMA 代理站用資料範圍句，其他站用 NOT_REG"""
     return NO_CENTRAL.get(site) or NOT_REG.get(lang, NOT_REG["en"])
@@ -877,7 +905,7 @@ def check_page(site, f, cls, want_noindex):
             E("M1", "找不到本站狀態列")
         else:
             if ms == "Marketed":
-                want_s = (tl[1] if partial else tl[0]).format(v=v, n=n)
+                want_s = marketed_text(site, lang, v, n, partial)
                 if st[1] != want_s:
                     E("M1", f"狀態列「{st[1][:40]}」≠「{want_s}」")
             elif ms == "Approved, not marketed":
