@@ -1,0 +1,116 @@
+# 許可證排程更新（2026-10-29）：從主管機關下載許可證 → 更新證據包狀態 → 程式改頁 → checker 歸零 → 推上 main → 部署。
+# 全程不用 AI。停損（改太多頁、checker／gate／h1 沒過、資料下載或格式有問題、Tw 人工查核頁）一律不推、開 issue。
+# 規則見 tools/txgnn/.claude/license_refresh_20261029.py；本站下載與對應見 scripts/license_adapter.py。
+name: License refresh
+
+on:
+  schedule:
+    - cron: '2 5 * * 1'   # 每週一 UTC 05:02（台北 13:02），錯開 news-monitor 的整點
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: '試跑：完整計算並列出逐欄位變更，但不 commit、不發 Release（true／false）'
+        default: 'false'
+      max_pages:
+        description: '補跑積欠變動時放寬停損頁數（留空＝預設 min(200, 5%)）'
+        default: ''
+      max_change:
+        description: '第一次換官方來源時放寬狀態變動比例（例 0.5；留空＝預設 0.2）'
+        default: ''
+
+permissions:
+  contents: write
+  issues: write
+  actions: write
+
+concurrency:
+  group: license-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6
+
+      - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          pip install uv
+          uv sync --frozen
+
+      - name: Restore data from Release
+        run: bash scripts/restore_data.sh
+
+      - name: Refresh licenses
+        id: refresh
+        env:
+          LICENSE_REFRESH_MAX_PAGES: ${{ inputs.max_pages }}
+          LICENSE_REFRESH_MAX_CHANGE: ${{ inputs.max_change }}
+        run: |
+          WS=$(bash scripts/txgnn_ws.sh)
+          SITE=$(cat tools/txgnn/SITE)
+          set +e
+          # 試跑也跑完整流程（含改頁、checker、逐欄位清單），只是後面不 commit、不發 Release（pm 第 4 點：手動放量前先回報頁數）
+          (cd "$WS" && "$GITHUB_WORKSPACE/.venv/bin/python" .claude/license_refresh_20261029.py "$SITE")
+          code=$?
+          set -e
+          echo "code=$code" >> "$GITHUB_OUTPUT"
+          cat .license_refresh/summary.md >> "$GITHUB_STEP_SUMMARY"
+          python3 -c "import json;s=json.load(open('.license_refresh/summary.json'));print('records=%d' % len(s.get('license_changes',[])));print('held=%d' % len(s.get('held',[])));print('unsynced=%d' % len(s.get('unsynced',[])));print('missing=%d' % (1 if s.get('missing_alert') else 0))" >> "$GITHUB_OUTPUT"
+
+      - name: Commit and push pages
+        if: steps.refresh.outputs.code == '0' && inputs.dry_run != 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898273+github-actions[bot]@users.noreply.github.com"
+          git add docs
+          if git diff --cached --quiet; then echo "頁面沒有變化"; exit 0; fi
+          git commit -m "chore(license): 許可證排程更新 $(date -u +%F)（$(git diff --cached --name-only -- docs/_drugs | wc -l | tr -d ' ') 個藥物頁）"
+          git pull --rebase
+          git push
+          gh workflow run pages.yml --ref main
+
+      - name: Publish updated data to Release
+        if: steps.refresh.outputs.code == '0' && steps.refresh.outputs.records != '0' && inputs.dry_run != 'true'
+        run: |
+          SITE=$(cat tools/txgnn/SITE)
+          TAG="data-$(date -u +%Y%m%d-%H%M%S)"   # 每次新 tag，舊 tag 一律不覆蓋（pm 2026-10-30 第 3 點）
+          STAGE=$(mktemp -d)
+          git ls-files --others --ignored --exclude-standard -z -- data | tr '\0' '\n' \
+            | grep -vE '^data/(kg\.csv|node\.csv|kg_directed\.csv|edges\.csv)$|\.DS_Store$' \
+            | sed "s|^|$SITE/|" > "$STAGE/list"
+          ln -sfn "$GITHUB_WORKSPACE" "$STAGE/$SITE"
+          (cd "$STAGE" && tar -czhf - -T list | split -b 1900m - "$SITE-data.tar.gz.part-")
+          (cd "$STAGE" && sha256sum "$SITE-data".tar.gz.part-* > "$SITE-data.sha256")
+          if gh release view "$TAG" >/dev/null 2>&1; then echo "tag $TAG 已存在，不覆蓋" >&2; exit 1; fi
+          gh release create "$TAG" --title "$SITE 成果資料（$TAG，許可證排程更新）" \
+            --notes "許可證排程更新後的完整 data/。還原：bash scripts/restore_data.sh（預設取最新建立的 data-* tag，不含 -handoff）。" \
+            "$STAGE/$SITE-data".tar.gz.part-* "$STAGE/$SITE-data.sha256"
+
+      - name: Upload field changes
+        if: always()
+        uses: actions/upload-artifact@b7c566a772e6b6bfb58ed0dc250532a479d7789f # v6
+        with:
+          name: license-refresh-summary
+          path: .license_refresh/
+          include-hidden-files: true
+
+      - name: Open issue on stop
+        if: (steps.refresh.outputs.code != '0' || steps.refresh.outputs.held != '0' || steps.refresh.outputs.unsynced != '0' || steps.refresh.outputs.missing != '0') && inputs.dry_run != 'true'
+        run: |
+          title="許可證排程更新需要人看（exit ${{ steps.refresh.outputs.code }}，擋下 ${{ steps.refresh.outputs.held }} 頁，未同步 ${{ steps.refresh.outputs.unsynced }} 格）"
+          n=$(gh issue list --label license-refresh --state open --json number -q 'length')
+          gh label create license-refresh --color B60205 --description "許可證排程更新需要人看" 2>/dev/null || true
+          body="$(cat .license_refresh/summary.md)
+
+          Run：${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          if [ "$n" = "0" ]; then gh issue create --label license-refresh --title "$title" --body "$body"
+          else gh issue comment "$(gh issue list --label license-refresh --state open --json number -q '.[0].number')" --body "$body"; fi
+          [ "${{ steps.refresh.outputs.code }}" = "0" ] || exit 1

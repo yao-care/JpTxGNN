@@ -348,3 +348,44 @@ TxGNNの原著論文も引用してください：
 }
 ```
 
+<!-- txgnn-ops:start -->
+## 維運：資料還原與許可證更新
+
+### 完整還原
+
+git 只放程式碼與網站頁面；許可證原始資料、證據包、藥師報告原稿、預測結果放在本 repo 的 Release。
+
+```bash
+git clone https://github.com/yao-care/jptxgnn.git && cd jptxgnn
+uv sync                                  # Python 相依套件
+bash scripts/restore_data.sh             # 取最新的 data-* Release，還原 data/（含校驗）
+bash scripts/restore_data.sh --with-kg   # 另加共用知識圖譜與預測模型（只有重跑預測才需要）
+```
+
+需要 [GitHub CLI](https://cli.github.com/)（`gh auth login`）與 [uv](https://docs.astral.sh/uv/)。
+
+### 改頁工具鏈
+
+事實層、checker、許可證狀態計算等放在 `tools/txgnn/.claude/`，是母 repo `yao-care/txgnn` 的 `.claude/` 複本（版本見 `tools/txgnn/VERSION`）。
+規則要改請改母 repo，再用 `python3 .claude/sync_site_tools.py JpTxGNN` 同步過來，不要直接改這裡的複本。
+在本 repo 單獨使用時，先組工作目錄：
+
+```bash
+WS=$(bash scripts/txgnn_ws.sh)
+cd "$WS"
+python3 .claude/dump_license_facts_20261021.py JpTxGNN       # 依證據包算市場狀態（checker 要用）
+python3 .claude/checker_trend.py --no-append JpTxGNN           # 全部藥物頁 checker，必須「非 0 0」
+```
+
+### 許可證排程更新（GitHub Actions）
+
+`.github/workflows/license-refresh.yml` 每週一 UTC 03:17 自動執行，也可以在 Actions 頁手動觸發（可選只試跑）：
+
+1. 從 Release 還原 `data/`（`scripts/restore_data.sh`）
+2. 從主管機關下載最新許可證資料（`scripts/license_adapter.py`），檢查筆數與格式
+3. 更新證據包的許可證狀態 → 重算市場狀態 → 同步許可證表 → 事實層改頁 → checker 全量必須 0 → 衍生檔 → gate
+4. 全部通過才推上 `main` 並觸發部署；更新後的 `data/` 另存成新的 `data-YYYYMMDD` Release
+
+以下情況一律不推、自動開 issue（label `license-refresh`）：下載失敗或格式改變、狀態變動超過兩成、
+改到的藥物頁超過 min(200, 5%)、checker／gate／h1 沒過、有人工查核紀錄的頁會被改到。全程不使用 AI。
+<!-- txgnn-ops:end -->
