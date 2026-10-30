@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="トラマールＯＤ錠５０ｍｇ（選） に関するニュースは？">
-<strong>トラマールＯＤ錠５０ｍｇ（選）</strong> には現在 <strong>14 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
+<strong>トラマールＯＤ錠５０ｍｇ（選）</strong> には現在 <strong>13 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,13 @@ last_modified_at: 2026-10-30
 <p><a href="{{ '/drugs/tramadol/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（14 件）
+## 関連ニュース（13 件）
 
-### [乳がんの発症ピークは更年期世代…新知見！【Q＆A】乳腺専門医に聞く「運動で乳がんを予防する方法」(ヨガジャーナルオンライン)](https://news.yahoo.co.jp/articles/ecd70611be272b2db40e25c78f6342c87c217b48?source=rss)
+### [「50代が履いても違和感がない」　ユニクロの“4990円ワイドパンツ”が好評！　「スタイル良く見える」「しゃがんでもノーストレス」の声(ねとらぼ)](https://news.yahoo.co.jp/articles/e256da8656ad352d5f47f89235f04c999c2a1c03?source=rss)
 
-2026-10-30 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span> <span class="news-indication-tag">更年期</span>
+2026-10-30 <span class="news-indication-tag">がん</span>
 
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/ecd70611be272b2db40e25c78f6342c87c217b48?source=rss)
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/e256da8656ad352d5f47f89235f04c999c2a1c03?source=rss)
 
 ---
 
@@ -144,14 +144,6 @@ last_modified_at: 2026-10-30
 2026-10-25 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">癌</span> <span class="news-indication-tag">肺がん</span>
 
 出典: [Laodong.vn](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWnNJeXRmaUdEcVZ4eHRZNVYteWF0Q1F2Qm1xbzRkTG5QUXo4RTc2aU9SSTlaMHNkazZETTdLOVQ1cFBWRTItbkJNd2hkNU5IVTRERXQwR0d0MzZQMVJYZzJTNjZRNmxxZExJWjNfeDNRcGVFNS14dHdmaEZxakx4NU1fUlpNbWtYaUs4b2VZNHlZd09YQzVjclk0cjdCMTNDcmxSeVp6MmxqUExDNk94bk5sbkgxbmJYVU1CbVVwZng?oc=5)
-
----
-
-### [生活習慣で乳がんリスクは変わる？運動習慣は発症リスクなどの低下と関連 (2026年10月23日掲載)](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSWWhZOUFib3ItYmZTUGUyOVlqaHNzdUdjNzJvQnFrbEtDYTh4YUFlSndsd3NMNGZrVWVMM1VNUVhmaUFVX2d2NkxWTDlCZmVVNDN4YkZJNVVrVzRqLXc?oc=5)
-
-2026-10-23 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
-
-出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSWWhZOUFib3ItYmZTUGUyOVlqaHNzdUdjNzJvQnFrbEtDYTh4YUFlSndsd3NMNGZrVWVMM1VNUVhmaUFVX2d2NkxWTDlCZmVVNDN4YkZJNVVrVzRqLXc?oc=5)
 
 ---
 

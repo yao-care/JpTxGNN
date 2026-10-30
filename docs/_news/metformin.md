@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "メホビル配合錠ＨＤ「トーワ」 に関する健康ニュース。予測適応症 5 件。"
 permalink: /news/metformin/
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 ---
 
 # メホビル配合錠ＨＤ「トーワ」 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-29
 ---
 
 <p class="key-answer" data-question="メホビル配合錠ＨＤ「トーワ」 に関するニュースは？">
-<strong>メホビル配合錠ＨＤ「トーワ」</strong> には現在 <strong>3 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>メホビル配合錠ＨＤ「トーワ」</strong> には現在 <strong>2 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -37,15 +37,7 @@ last_modified_at: 2026-10-29
 <p><a href="{{ '/drugs/metformin/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（3 件）
-
-### [【2026年最新・徹底調査】30代で2型糖尿病と診断されたらその後の生活はどうなる？仕事・転職・結婚・妊娠・将来の合併症への不安をDライフが調査](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qUDlIQlQyMmk2QmEwV25STjQ4YmpIZk9lNFhnbXlpLUZHMGE2eXM0a09FNUxkTDNONjhlbURzMW96dW1OY3RVSFJobFhmOUIwcVVR?oc=5)
-
-2026-10-28 <span class="news-indication-tag">2型糖尿病</span>
-
-出典: [ドリームニュース](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qUDlIQlQyMmk2QmEwV25STjQ4YmpIZk9lNFhnbXlpLUZHMGE2eXM0a09FNUxkTDNONjhlbURzMW96dW1OY3RVSFJobFhmOUIwcVVR?oc=5)
-
----
+## 関連ニュース（2 件）
 
 ### [2型糖尿病患者で肥満関連がんの罹患率が増加｜ニュース](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JbXQ4MXk1Q1RFZWViLWItcUw1NnhMMVlod1VWYm9tMEJqREVpOEQ0MVcyNlB0ZC0zT2Z4b1ZEaldueDF0dXJnSVV3MDl4Rk5HSnhmR3VHanRVSXhmWkFTTE8tOHNRNkVp?oc=5)
 

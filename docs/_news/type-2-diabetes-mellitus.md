@@ -3,9 +3,9 @@ layout: default
 title: "2型糖尿病 (type 2 diabetes mellitus) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "2型糖尿病 (type 2 diabetes mellitus) に関する健康ニュース。ニュース 3 件、関連医薬品 5 件。"
+description: "2型糖尿病 (type 2 diabetes mellitus) に関する健康ニュース。ニュース 2 件、関連医薬品 5 件。"
 permalink: /news/type-2-diabetes-mellitus/
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 ---
 
 # 2型糖尿病 (type 2 diabetes mellitus) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-29
 ---
 
 <p class="key-answer" data-question="2型糖尿病 (type 2 diabetes mellitus) に関するニュースは？">
-<strong>2型糖尿病 (type 2 diabetes mellitus)</strong> には現在 <strong>3 件</strong>の関連ニュースと 5 件の関連医薬品があります。
+<strong>2型糖尿病 (type 2 diabetes mellitus)</strong> には現在 <strong>2 件</strong>の関連ニュースと 5 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -32,15 +32,7 @@ last_modified_at: 2026-10-29
 </ul>
 </div>
 
-## 関連ニュース（3 件）
-
-### [【2026年最新・徹底調査】30代で2型糖尿病と診断されたらその後の生活はどうなる？仕事・転職・結婚・妊娠・将来の合併症への不安をDライフが調査](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qUDlIQlQyMmk2QmEwV25STjQ4YmpIZk9lNFhnbXlpLUZHMGE2eXM0a09FNUxkTDNONjhlbURzMW96dW1OY3RVSFJobFhmOUIwcVVR?oc=5)
-
-2026-10-28
-
-出典: [ドリームニュース](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qUDlIQlQyMmk2QmEwV25STjQ4YmpIZk9lNFhnbXlpLUZHMGE2eXM0a09FNUxkTDNONjhlbURzMW96dW1OY3RVSFJobFhmOUIwcVVR?oc=5)
-
----
+## 関連ニュース（2 件）
 
 ### [2型糖尿病患者で肥満関連がんの罹患率が増加｜ニュース](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JbXQ4MXk1Q1RFZWViLWItcUw1NnhMMVlod1VWYm9tMEJqREVpOEQ0MVcyNlB0ZC0zT2Z4b1ZEaldueDF0dXJnSVV3MDl4Rk5HSnhmR3VHanRVSXhmWkFTTE8tOHNRNkVp?oc=5)
 

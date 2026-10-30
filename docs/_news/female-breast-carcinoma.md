@@ -3,7 +3,7 @@ layout: default
 title: "乳がん (female breast carcinoma) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "乳がん (female breast carcinoma) に関する健康ニュース。ニュース 3 件、関連医薬品 7 件。"
+description: "乳がん (female breast carcinoma) に関する健康ニュース。ニュース 1 件、関連医薬品 7 件。"
 permalink: /news/female-breast-carcinoma/
 last_modified_at: 2026-10-30
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="乳がん (female breast carcinoma) に関するニュースは？">
-<strong>乳がん (female breast carcinoma)</strong> には現在 <strong>3 件</strong>の関連ニュースと 7 件の関連医薬品があります。
+<strong>乳がん (female breast carcinoma)</strong> には現在 <strong>1 件</strong>の関連ニュースと 7 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -36,29 +36,13 @@ last_modified_at: 2026-10-30
 </ul>
 </div>
 
-## 関連ニュース（3 件）
-
-### [乳がんの発症ピークは更年期世代…新知見！【Q＆A】乳腺専門医に聞く「運動で乳がんを予防する方法」(ヨガジャーナルオンライン)](https://news.yahoo.co.jp/articles/ecd70611be272b2db40e25c78f6342c87c217b48?source=rss)
-
-2026-10-30
-
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/ecd70611be272b2db40e25c78f6342c87c217b48?source=rss)
-
----
+## 関連ニュース（1 件）
 
 ### [20代・30代女性が無料で乳がん検診を体験！ はなさく生命がピンクリボン月間に札幌で啓発イベントを開催](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rc2I2ZEFzVktnNDBISHU5RlZRQlJ1TmxjamJ2RGpJSkNJOGJiVDRpTG8tUkFyb1otRUtodkljbkNSNl9wN1A0X0tBVGJSaHF4dmcwV2FySWxES1U?oc=5)
 
 2026-10-30
 
 出典: [舌肥](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rc2I2ZEFzVktnNDBISHU5RlZRQlJ1TmxjamJ2RGpJSkNJOGJiVDRpTG8tUkFyb1otRUtodkljbkNSNl9wN1A0X0tBVGJSaHF4dmcwV2FySWxES1U?oc=5)
-
----
-
-### [生活習慣で乳がんリスクは変わる？運動習慣は発症リスクなどの低下と関連 (2026年10月23日掲載)](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSWWhZOUFib3ItYmZTUGUyOVlqaHNzdUdjNzJvQnFrbEtDYTh4YUFlSndsd3NMNGZrVWVMM1VNUVhmaUFVX2d2NkxWTDlCZmVVNDN4YkZJNVVrVzRqLXc?oc=5)
-
-2026-10-23
-
-出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSWWhZOUFib3ItYmZTUGUyOVlqaHNzdUdjNzJvQnFrbEtDYTh4YUFlSndsd3NMNGZrVWVMM1VNUVhmaUFVX2d2NkxWTDlCZmVVNDN4YkZJNVVrVzRqLXc?oc=5)
 
 ---
 

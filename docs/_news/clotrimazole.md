@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="エンペシドクリーム１％（選） に関するニュースは？">
-<strong>エンペシドクリーム１％（選）</strong> には現在 <strong>15 件</strong>の関連ニュースがあり、予測適応症は 3 件です。
+<strong>エンペシドクリーム１％（選）</strong> には現在 <strong>14 件</strong>の関連ニュースがあり、予測適応症は 3 件です。
 </p>
 
 <div class="key-takeaway">
@@ -35,13 +35,13 @@ last_modified_at: 2026-10-30
 <p><a href="{{ '/drugs/clotrimazole/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（15 件）
+## 関連ニュース（14 件）
 
-### [乳がんの発症ピークは更年期世代…新知見！【Q＆A】乳腺専門医に聞く「運動で乳がんを予防する方法」(ヨガジャーナルオンライン)](https://news.yahoo.co.jp/articles/ecd70611be272b2db40e25c78f6342c87c217b48?source=rss)
+### [「50代が履いても違和感がない」　ユニクロの“4990円ワイドパンツ”が好評！　「スタイル良く見える」「しゃがんでもノーストレス」の声(ねとらぼ)](https://news.yahoo.co.jp/articles/e256da8656ad352d5f47f89235f04c999c2a1c03?source=rss)
 
-2026-10-30 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span> <span class="news-indication-tag">更年期</span>
+2026-10-30 <span class="news-indication-tag">がん</span>
 
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/ecd70611be272b2db40e25c78f6342c87c217b48?source=rss)
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/e256da8656ad352d5f47f89235f04c999c2a1c03?source=rss)
 
 ---
 
@@ -146,14 +146,6 @@ last_modified_at: 2026-10-30
 2026-10-24 <span class="news-indication-tag">更年期</span>
 
 出典: [OTONA SALONE](https://news.google.com/rss/articles/CBMiRkFVX3lxTE9EUmV6LS1aTnNiNmFvQUJyRDlzQ2I0aUtqRmpiVVdVVkNNUDEwdFFPLVh1RmpYT19DLUNFaHZVdHJUT0hGNGc?oc=5)
-
----
-
-### [生活習慣で乳がんリスクは変わる？運動習慣は発症リスクなどの低下と関連 (2026年10月23日掲載)](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSWWhZOUFib3ItYmZTUGUyOVlqaHNzdUdjNzJvQnFrbEtDYTh4YUFlSndsd3NMNGZrVWVMM1VNUVhmaUFVX2d2NkxWTDlCZmVVNDN4YkZJNVVrVzRqLXc?oc=5)
-
-2026-10-23 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
-
-出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSWWhZOUFib3ItYmZTUGUyOVlqaHNzdUdjNzJvQnFrbEtDYTh4YUFlSndsd3NMNGZrVWVMM1VNUVhmaUFVX2d2NkxWTDlCZmVVNDN4YkZJNVVrVzRqLXc?oc=5)
 
 ---
 

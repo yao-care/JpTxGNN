@@ -32,14 +32,6 @@ last_modified_at: 2026-10-30
 
 ## 関連ニュース（3 件）
 
-### [インフルエンザ流行中、今期は10歳未満の入院例が3割超…子どももワクチン接種やマスク装着を](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nVmZ2SWMySlJMYVBkYlFPOEhENXJYVEVUbjgxNjBYdGE0SVk4aEVXcTVrcFo1N3ozUmg3UmVEZnJYazllQkUtdU9KUFByRFNwVGt2YUhna1I5SGprUVQ4?oc=5)
-
-2026-10-30
-
-出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nVmZ2SWMySlJMYVBkYlFPOEhENXJYVEVUbjgxNjBYdGE0SVk4aEVXcTVrcFo1N3ozUmg3UmVEZnJYazllQkUtdU9KUFByRFNwVGt2YUhna1I5SGprUVQ4?oc=5)
-
----
-
 ### [感染症に負けないカラダとココロ＝日常ケア編　喫煙、免疫機能下げる｜四国新聞WEB朝刊](https://news.google.com/rss/articles/CBMid0FVX3lxTE1PN1lmSWRmVDA5QlpNVm5HbllGNzl5ZGltVFV5eFFpbFBjXzVVLU45VkdZeC1EMUtPYWlyOU9xUVlHQ3dtXzdSVEZLWHlHZFFGdFY3aXFuOG11NkFOWFJaSFFGY0Z3Y1cwYzVBN1NVSVRoV0ZJTXFB0gF8QVVfeXFMTTk4TEN3cHp1S0dvNlI5MHBKRS1SMVVKTFA0TVVtdXlwb1czSS1qTTJrY0tKbUpkOE5FTDcxQ0g4UVA5M0VHcktQSTZiZ0d1WG9mN1pWNG1nT2djd2FkZThfTnFYRVJSVnVqa3FQalFMS01wZ0VjUGtsTnlFMA?oc=5)
 
 2026-10-29
@@ -48,11 +40,19 @@ last_modified_at: 2026-10-30
 
 ---
 
-### [【岐阜県インフルエンザ週報】県全体は減少も「可茂地域」で2.4倍に急増 高齢者の入院目立つ＜10月19日～25日の感染症情報 - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE1vNk5TUC1pWFRoUzFCZWRsV3FSUFFXUW5Cb0NaMDk1XzdDVWxkNzZOaXQ1XzREdXM1RlRnSFdYZGxWRVBBbC1MdURNWlN4c3g5RWpkbzhIZXBqZ3dvQ2VfdkFkTVBDM0hIRHZDV2l3?oc=5)
+### [7歳の乳児が重度のA型インフルエンザ感染により重篤な状態、肺水腫と急性心筋炎を引き起こす](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZjM3cUZGcl9RWEtRNWY4OXF5eElHRXdZd2dBMHA2TUhhMjBrVUVseExDRkNfeGEzaml5X2VkcllJS2U0T1dMSmVEVEthdGNGXzR5aW1uTWszR0U1b2pJbVl3Um1vXzJLUmhsSFRBS0dGQ2Q2RUZoSmhTaDRPMlRfemJjLUROYmtIZ181RGE1cGxYckFMVkxzQ0R6ek5ib2ZDV2ZQelp5UzFSM05nSHo3d1NfTWo3Qy0xZWJTckNITG1KZw?oc=5)
 
-2026-10-29
+2026-10-28
 
-出典: [au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE1vNk5TUC1pWFRoUzFCZWRsV3FSUFFXUW5Cb0NaMDk1XzdDVWxkNzZOaXQ1XzREdXM1RlRnSFdYZGxWRVBBbC1MdURNWlN4c3g5RWpkbzhIZXBqZ3dvQ2VfdkFkTVBDM0hIRHZDV2l3?oc=5)
+出典: [Laodong.vn](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZjM3cUZGcl9RWEtRNWY4OXF5eElHRXdZd2dBMHA2TUhhMjBrVUVseExDRkNfeGEzaml5X2VkcllJS2U0T1dMSmVEVEthdGNGXzR5aW1uTWszR0U1b2pJbVl3Um1vXzJLUmhsSFRBS0dGQ2Q2RUZoSmhTaDRPMlRfemJjLUROYmtIZ181RGE1cGxYckFMVkxzQ0R6ek5ib2ZDV2ZQelp5UzFSM05nSHo3d1NfTWo3Qy0xZWJTckNITG1KZw?oc=5)
+
+---
+
+### [ホーチミン市の学校で髄膜炎菌感染症 濃厚接触者99人に予防措置、登校は通常通り](https://news.google.com/rss/articles/CBMibEFVX3lxTFBpY3l4WU84ZlZmWFIyVXlabEF5dnE2V1ZIXy0weVZ2b2tNcUFfZlpRdTRDYmJ0ZktTZVdRQWpna2VwdWxjMDBsNXZvSEdUcHo3anJVMXYtMnBtcXB0SEVteWs5Y2JodUN2REpNVQ?oc=5)
+
+2026-10-24
+
+出典: [https://access-online.net/](https://news.google.com/rss/articles/CBMibEFVX3lxTFBpY3l4WU84ZlZmWFIyVXlabEF5dnE2V1ZIXy0weVZ2b2tNcUFfZlpRdTRDYmJ0ZktTZVdRQWpna2VwdWxjMDBsNXZvSEdUcHo3anJVMXYtMnBtcXB0SEVteWs5Y2JodUN2REpNVQ?oc=5)
 
 ---
 
