@@ -27,8 +27,12 @@ get "$REPO" "$TAG" "$SITE-data" 1          # tar 內是 <站>/data/...，去掉�
 CTAG=$(gh release list -R "$REPO" -L 100 --json tagName,createdAt -q '[.[]|select(.tagName|startswith("cache-"))]|sort_by(.createdAt)|last|.tagName')
 [ -n "$CTAG" ] && get "$REPO" "$CTAG" "$SITE-cache" 1
 # data/external 有些站是指向 TwTxGNN 的捷徑（打包時只存捷徑）；斷掉的就從 TwTxGNN 的 shared-external 補實體檔
-if find data/external -maxdepth 1 -type l ! -exec test -e {} \; -print 2>/dev/null | grep -q .; then
-  find data/external -maxdepth 1 -type l ! -exec test -e {} \; -delete
+need=0
+for f in disease_vocab.csv drug_disease_relations.csv drugbank_vocab.csv; do
+  [ -s "data/external/$f" ] || { rm -f "data/external/$f"; need=1; }   # -s 會跟隨捷徑：不存在、空檔、斷掉的捷徑都算缺
+done
+if [ $need = 1 ]; then
+  mkdir -p data/external
   d=$(mktemp -d); gh release download data-20261016 -R yao-care/TwTxGNN -D "$d" -p "shared-external.*"
   (cd "$d" && check shared-external.sha256) && tar xzf "$d"/shared-external.tar.gz -C data/external && rm -rf "$d"
   echo "✓ data/external 共用檔已補上"
