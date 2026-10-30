@@ -40,11 +40,11 @@ last_modified_at: 2026-10-30
 
 ## 関連ニュース（15 件）
 
-### [「50代が履いても違和感がない」　ユニクロの“4990円ワイドパンツ”が好評！　「スタイル良く見える」「しゃがんでもノーストレス」の声(ねとらぼ)](https://news.yahoo.co.jp/articles/e256da8656ad352d5f47f89235f04c999c2a1c03?source=rss)
+### [「筆箱大の血塊」が出ても「更年期」とあしらわれ…卵巣がんステージ2と判明するまでかかった悔しさと「1年7か月」(CHANTO WEB)](https://news.yahoo.co.jp/articles/1e82346435c6fc51772faf49cd69ed62fa1473e8?source=rss)
 
-2026-10-30 <span class="news-indication-tag">がん</span>
+2026-10-30 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">更年期</span>
 
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/e256da8656ad352d5f47f89235f04c999c2a1c03?source=rss)
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/1e82346435c6fc51772faf49cd69ed62fa1473e8?source=rss)
 
 ---
 

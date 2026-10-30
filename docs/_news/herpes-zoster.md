@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "帯状疱疹 (herpes zoster) に関する健康ニュース。ニュース 2 件、関連医薬品 3 件。"
 permalink: /news/herpes-zoster/
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 ---
 
 # 帯状疱疹 (herpes zoster) 関連ニュース
@@ -42,7 +42,7 @@ last_modified_at: 2026-10-29
 
 ---
 
-### [ワクチン摂取で認知症リスクが半減!? 帯状疱疹、ヘルペスなど“潜伏ウイルス”が脳を蝕む連鎖反応を防ぐ《驚きの方法》](https://news.google.com/rss/articles/CBMihwFBVV95cUxQM3dMdmZWemJLZHluY0ppWWFFdzBkbHZKeG5oajI4SUhtOC1vSUI4WDZWcXNicDZpZXlYYTRyeGdBZDhBQkJlelZxZ3A1dE5QdUlaZnQ4QmJ4V1BqanJRV3QycENQcUhYUG9fTGhJN3d0VjdQeXhyMjFqTlJWNU1FdFJ5RzNKMUE?oc=5)
+### [ワクチン接種で認知症リスクが半減!? 帯状疱疹、ヘルペスなど“潜伏ウイルス”が脳を蝕む連鎖反応を防ぐ《驚きの方法》](https://news.google.com/rss/articles/CBMihwFBVV95cUxQM3dMdmZWemJLZHluY0ppWWFFdzBkbHZKeG5oajI4SUhtOC1vSUI4WDZWcXNicDZpZXlYYTRyeGdBZDhBQkJlelZxZ3A1dE5QdUlaZnQ4QmJ4V1BqanJRV3QycENQcUhYUG9fTGhJN3d0VjdQeXhyMjFqTlJWNU1FdFJ5RzNKMUE?oc=5)
 
 2026-10-28
 
