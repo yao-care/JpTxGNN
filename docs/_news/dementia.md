@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "認知症 (dementia) に関する健康ニュース。ニュース 3 件、関連医薬品 2 件。"
 permalink: /news/dementia/
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 ---
 
 # 認知症 (dementia) 関連ニュース
@@ -33,11 +33,11 @@ last_modified_at: 2026-10-29
 
 ## 関連ニュース（3 件）
 
-### [認知症の母が暮らす実家に帰省中「10分だけ留守番してもらったら…」息子が後悔した理由と活用中のアイテム(介護ポストセブン)](https://news.yahoo.co.jp/articles/bc511c4bd4f3669c5eab55b6bf5cf80780ae2960?source=rss)
+### [認知症を引き起こす「ペットボトル飲料」のリスク…亡くなった人の脳から「クレヨン1本分」の微小プラスチックが検出された](https://news.google.com/rss/articles/CBMihwFBVV95cUxQN2Q4c2hSNThtZ0M5eHB5RjVKUklITTc4QjVSOFhsWHI4T2RyS3hSdXFQQUNvUWlqYS1ZX18xUFBqb0JCd2VHdEp6WEZmdUgzX1ZjdXZUMDBrelhoaFFNSE1mNnQzU3NUbGtraER2dmpIQ2NjTFk0eThYUmJsYzlRYkFxM3ZDWlE?oc=5)
 
-2026-10-29
+2026-10-30
 
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/bc511c4bd4f3669c5eab55b6bf5cf80780ae2960?source=rss)
+出典: [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxQN2Q4c2hSNThtZ0M5eHB5RjVKUklITTc4QjVSOFhsWHI4T2RyS3hSdXFQQUNvUWlqYS1ZX18xUFBqb0JCd2VHdEp6WEZmdUgzX1ZjdXZUMDBrelhoaFFNSE1mNnQzU3NUbGtraER2dmpIQ2NjTFk0eThYUmJsYzlRYkFxM3ZDWlE?oc=5)
 
 ---
 

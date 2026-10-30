@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」 に関する健康ニュース。予測適応症 10 件。"
 permalink: /news/morphine/
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 ---
 
 # モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-29
 ---
 
 <p class="key-answer" data-question="モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」 に関するニュースは？">
-<strong>モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」</strong> には現在 <strong>14 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」</strong> には現在 <strong>13 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,13 @@ last_modified_at: 2026-10-29
 <p><a href="{{ '/drugs/morphine/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（14 件）
+## 関連ニュース（13 件）
 
-### [放置すると肝がんリスク増…「脂肪肝」を招く“意外な食べ物”とは【専門医が解説】(オトナンサー)](https://news.yahoo.co.jp/articles/21f4cac77fb03382a8cbc6be87c75ab39c933733?source=rss)
+### [新薬承認遅れは「生きる時間そのもの」の喪失―薬が確実に届くために必要なこと(メディカルドック)](https://news.yahoo.co.jp/articles/26137862bd868afbe3ff76b21e5971dbea746cf8?source=rss)
 
-2026-10-29 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">肝がん</span>
+2026-10-30 <span class="news-indication-tag">がん</span>
 
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/21f4cac77fb03382a8cbc6be87c75ab39c933733?source=rss)
+出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/26137862bd868afbe3ff76b21e5971dbea746cf8?source=rss)
 
 ---
 
@@ -145,14 +145,6 @@ last_modified_at: 2026-10-29
 2026-10-23 <span class="news-indication-tag">風邪</span>
 
 出典: [福岡TNCニュース](https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xZHE2WWVrSXFsZ0ZJYWZxanVfeExONFpsQ1cyRnZENmdVSkFzRmtWcnVxN1pqOFM2Q3NIVzEtY1lOVnNkQWN0dy1oUGxoczdWUjZoejAzWldSVjVBUXRoeEJYZw?oc=5)
-
----
-
-### [「私には関係ない」を防ぐために - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE5NQlpqLV9IdEFwTldCTk8xZjJWcFE1ODZWMnhNZ2tqSE9yak56R1ZuRG9LbG83WXdDMEh0bG53T2pSTVRjcjhMNjFXTl82dzRBUGNLN3hPMjRYYzRqVFQ1Unc2ck9jazhfay13dk9n?oc=5)
-
-2026-10-23 <span class="news-indication-tag">がん</span>
-
-出典: [au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE5NQlpqLV9IdEFwTldCTk8xZjJWcFE1ODZWMnhNZ2tqSE9yak56R1ZuRG9LbG83WXdDMEh0bG53T2pSTVRjcjhMNjFXTl82dzRBUGNLN3hPMjRYYzRqVFQ1Unc2ck9jazhfay13dk9n?oc=5)
 
 ---
 

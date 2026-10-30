@@ -3,9 +3,9 @@ layout: default
 title: "がん (generic_cancer) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "がん (generic_cancer) に関する健康ニュース。ニュース 12 件、関連医薬品 67 件。"
+description: "がん (generic_cancer) に関する健康ニュース。ニュース 11 件、関連医薬品 67 件。"
 permalink: /news/generic-cancer/
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 ---
 
 # がん (generic_cancer) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-29
 ---
 
 <p class="key-answer" data-question="がん (generic_cancer) に関するニュースは？">
-<strong>がん (generic_cancer)</strong> には現在 <strong>12 件</strong>の関連ニュースと 67 件の関連医薬品があります。
+<strong>がん (generic_cancer)</strong> には現在 <strong>11 件</strong>の関連ニュースと 67 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -94,13 +94,13 @@ last_modified_at: 2026-10-29
 </ul>
 </div>
 
-## 関連ニュース（12 件）
+## 関連ニュース（11 件）
 
-### [放置すると肝がんリスク増…「脂肪肝」を招く“意外な食べ物”とは【専門医が解説】(オトナンサー)](https://news.yahoo.co.jp/articles/21f4cac77fb03382a8cbc6be87c75ab39c933733?source=rss)
+### [新薬承認遅れは「生きる時間そのもの」の喪失―薬が確実に届くために必要なこと(メディカルドック)](https://news.yahoo.co.jp/articles/26137862bd868afbe3ff76b21e5971dbea746cf8?source=rss)
 
-2026-10-29
+2026-10-30
 
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/21f4cac77fb03382a8cbc6be87c75ab39c933733?source=rss)
+出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/26137862bd868afbe3ff76b21e5971dbea746cf8?source=rss)
 
 ---
 
@@ -181,14 +181,6 @@ last_modified_at: 2026-10-29
 2026-10-23
 
 出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSWWhZOUFib3ItYmZTUGUyOVlqaHNzdUdjNzJvQnFrbEtDYTh4YUFlSndsd3NMNGZrVWVMM1VNUVhmaUFVX2d2NkxWTDlCZmVVNDN4YkZJNVVrVzRqLXc?oc=5)
-
----
-
-### [「私には関係ない」を防ぐために - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE5NQlpqLV9IdEFwTldCTk8xZjJWcFE1ODZWMnhNZ2tqSE9yak56R1ZuRG9LbG83WXdDMEh0bG53T2pSTVRjcjhMNjFXTl82dzRBUGNLN3hPMjRYYzRqVFQ1Unc2ck9jazhfay13dk9n?oc=5)
-
-2026-10-23
-
-出典: [au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE5NQlpqLV9IdEFwTldCTk8xZjJWcFE1ODZWMnhNZ2tqSE9yak56R1ZuRG9LbG83WXdDMEh0bG53T2pSTVRjcjhMNjFXTl82dzRBUGNLN3hPMjRYYzRqVFQ1Unc2ck9jazhfay13dk9n?oc=5)
 
 ---
 

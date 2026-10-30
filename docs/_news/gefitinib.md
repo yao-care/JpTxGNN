@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "イレッサ錠２５０　２５０ｍｇ（選） に関する健康ニュース。予測適応症 9 件。"
 permalink: /news/gefitinib/
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 ---
 
 # イレッサ錠２５０　２５０ｍｇ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-29
 ---
 
 <p class="key-answer" data-question="イレッサ錠２５０　２５０ｍｇ（選） に関するニュースは？">
-<strong>イレッサ錠２５０　２５０ｍｇ（選）</strong> には現在 <strong>15 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
+<strong>イレッサ錠２５０　２５０ｍｇ（選）</strong> には現在 <strong>14 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
 </p>
 
 <div class="key-takeaway">
@@ -41,21 +41,21 @@ last_modified_at: 2026-10-29
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（15 件）
+## 関連ニュース（14 件）
 
-### [認知症の母が暮らす実家に帰省中「10分だけ留守番してもらったら…」息子が後悔した理由と活用中のアイテム(介護ポストセブン)](https://news.yahoo.co.jp/articles/bc511c4bd4f3669c5eab55b6bf5cf80780ae2960?source=rss)
+### [新薬承認遅れは「生きる時間そのもの」の喪失―薬が確実に届くために必要なこと(メディカルドック)](https://news.yahoo.co.jp/articles/26137862bd868afbe3ff76b21e5971dbea746cf8?source=rss)
 
-2026-10-29 <span class="news-indication-tag">認知症</span>
+2026-10-30 <span class="news-indication-tag">がん</span>
 
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/bc511c4bd4f3669c5eab55b6bf5cf80780ae2960?source=rss)
+出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/26137862bd868afbe3ff76b21e5971dbea746cf8?source=rss)
 
 ---
 
-### [放置すると肝がんリスク増…「脂肪肝」を招く“意外な食べ物”とは【専門医が解説】(オトナンサー)](https://news.yahoo.co.jp/articles/21f4cac77fb03382a8cbc6be87c75ab39c933733?source=rss)
+### [認知症を引き起こす「ペットボトル飲料」のリスク…亡くなった人の脳から「クレヨン1本分」の微小プラスチックが検出された](https://news.google.com/rss/articles/CBMihwFBVV95cUxQN2Q4c2hSNThtZ0M5eHB5RjVKUklITTc4QjVSOFhsWHI4T2RyS3hSdXFQQUNvUWlqYS1ZX18xUFBqb0JCd2VHdEp6WEZmdUgzX1ZjdXZUMDBrelhoaFFNSE1mNnQzU3NUbGtraER2dmpIQ2NjTFk0eThYUmJsYzlRYkFxM3ZDWlE?oc=5)
 
-2026-10-29 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">肝がん</span>
+2026-10-30 <span class="news-indication-tag">認知症</span>
 
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/21f4cac77fb03382a8cbc6be87c75ab39c933733?source=rss)
+出典: [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxQN2Q4c2hSNThtZ0M5eHB5RjVKUklITTc4QjVSOFhsWHI4T2RyS3hSdXFQQUNvUWlqYS1ZX18xUFBqb0JCd2VHdEp6WEZmdUgzX1ZjdXZUMDBrelhoaFFNSE1mNnQzU3NUbGtraER2dmpIQ2NjTFk0eThYUmJsYzlRYkFxM3ZDWlE?oc=5)
 
 ---
 
@@ -152,14 +152,6 @@ last_modified_at: 2026-10-29
 2026-10-23 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
 
 出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSWWhZOUFib3ItYmZTUGUyOVlqaHNzdUdjNzJvQnFrbEtDYTh4YUFlSndsd3NMNGZrVWVMM1VNUVhmaUFVX2d2NkxWTDlCZmVVNDN4YkZJNVVrVzRqLXc?oc=5)
-
----
-
-### [「私には関係ない」を防ぐために - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE5NQlpqLV9IdEFwTldCTk8xZjJWcFE1ODZWMnhNZ2tqSE9yak56R1ZuRG9LbG83WXdDMEh0bG53T2pSTVRjcjhMNjFXTl82dzRBUGNLN3hPMjRYYzRqVFQ1Unc2ck9jazhfay13dk9n?oc=5)
-
-2026-10-23 <span class="news-indication-tag">がん</span>
-
-出典: [au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE5NQlpqLV9IdEFwTldCTk8xZjJWcFE1ODZWMnhNZ2tqSE9yak56R1ZuRG9LbG83WXdDMEh0bG53T2pSTVRjcjhMNjFXTl82dzRBUGNLN3hPMjRYYzRqVFQ1Unc2ck9jazhfay13dk9n?oc=5)
 
 ---
 

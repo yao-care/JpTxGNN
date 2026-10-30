@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "タミフルドライシロップ３％（選） に関する健康ニュース。予測適応症 0 件。"
 permalink: /news/oseltamivir/
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 ---
 
 # タミフルドライシロップ３％（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-29
 ---
 
 <p class="key-answer" data-question="タミフルドライシロップ３％（選） に関するニュースは？">
-<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>5 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>6 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ last_modified_at: 2026-10-29
 <p><a href="{{ '/drugs/oseltamivir/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（5 件）
+## 関連ニュース（6 件）
+
+### [感染症に負けないカラダとココロ＝日常ケア編　喫煙、免疫機能下げる｜四国新聞WEB朝刊](https://news.google.com/rss/articles/CBMid0FVX3lxTE1PN1lmSWRmVDA5QlpNVm5HbllGNzl5ZGltVFV5eFFpbFBjXzVVLU45VkdZeC1EMUtPYWlyOU9xUVlHQ3dtXzdSVEZLWHlHZFFGdFY3aXFuOG11NkFOWFJaSFFGY0Z3Y1cwYzVBN1NVSVRoV0ZJTXFB0gF8QVVfeXFMTTk4TEN3cHp1S0dvNlI5MHBKRS1SMVVKTFA0TVVtdXlwb1czSS1qTTJrY0tKbUpkOE5FTDcxQ0g4UVA5M0VHcktQSTZiZ0d1WG9mN1pWNG1nT2djd2FkZThfTnFYRVJSVnVqa3FQalFMS01wZ0VjUGtsTnlFMA?oc=5)
+
+2026-10-29 <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [四国新聞](https://news.google.com/rss/articles/CBMid0FVX3lxTE1PN1lmSWRmVDA5QlpNVm5HbllGNzl5ZGltVFV5eFFpbFBjXzVVLU45VkdZeC1EMUtPYWlyOU9xUVlHQ3dtXzdSVEZLWHlHZFFGdFY3aXFuOG11NkFOWFJaSFFGY0Z3Y1cwYzVBN1NVSVRoV0ZJTXFB0gF8QVVfeXFMTTk4TEN3cHp1S0dvNlI5MHBKRS1SMVVKTFA0TVVtdXlwb1czSS1qTTJrY0tKbUpkOE5FTDcxQ0g4UVA5M0VHcktQSTZiZ0d1WG9mN1pWNG1nT2djd2FkZThfTnFYRVJSVnVqa3FQalFMS01wZ0VjUGtsTnlFMA?oc=5)
+
+---
 
 ### [【岐阜県インフルエンザ週報】県全体は減少も「可茂地域」で2.4倍に急増 高齢者の入院目立つ＜10月19日～25日の感染症情報 - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE1vNk5TUC1pWFRoUzFCZWRsV3FSUFFXUW5Cb0NaMDk1XzdDVWxkNzZOaXQ1XzREdXM1RlRnSFdYZGxWRVBBbC1MdURNWlN4c3g5RWpkbzhIZXBqZ3dvQ2VfdkFkTVBDM0hIRHZDV2l3?oc=5)
 
@@ -40,19 +48,19 @@ last_modified_at: 2026-10-29
 
 ---
 
-### [《インフルエンザ・コロナを予防》手洗い、マスク…対策しても感染!? 専門家が教える感染症予防の落とし穴と“免疫力強化”のポイント](https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VaC1PN3J4cWVVYW5BM1IwRXBFXzZybmd1RFBaMjdMNzMyZ0dtWThHU3BCNXo3a0RyZ1VPb01hTHlJNEsydFo2NExvT1pkams?oc=5)
-
-2026-10-29 <span class="news-indication-tag">インフルエンザ</span>
-
-出典: [週刊女性PRIME](https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VaC1PN3J4cWVVYW5BM1IwRXBFXzZybmd1RFBaMjdMNzMyZ0dtWThHU3BCNXo3a0RyZ1VPb01hTHlJNEsydFo2NExvT1pkams?oc=5)
-
----
-
 ### [天候が寒くなると高齢者の肺炎のリスクを軽減する方法](https://news.google.com/rss/articles/CBMisgFBVV95cUxQd3lvTjJMbHFsV25qOHBUZUhQMUYtR3lBb1ZndjBzcXVDbnRCLUJybnJjWng4Z1Q2ZVl6TVhuZjVLZG94RGlXcHY0alI4ejlMVXJveDdNV2NwUUtGWlpqU3lsUlBmTExpMTdteVVyQ2NyUmJCaVhhT3A2YU01WDlPTkNuR2hTWWJXWDUzbFZnQjlGcHhVdGw2S2R3MmdHbE5Eb09EdGJsM0VXdWdoZ1BqOEN3?oc=5)
 
 2026-10-29 <span class="news-indication-tag">肺炎</span> <span class="news-indication-tag">風邪</span>
 
 出典: [Laodong.vn](https://news.google.com/rss/articles/CBMisgFBVV95cUxQd3lvTjJMbHFsV25qOHBUZUhQMUYtR3lBb1ZndjBzcXVDbnRCLUJybnJjWng4Z1Q2ZVl6TVhuZjVLZG94RGlXcHY0alI4ejlMVXJveDdNV2NwUUtGWlpqU3lsUlBmTExpMTdteVVyQ2NyUmJCaVhhT3A2YU01WDlPTkNuR2hTWWJXWDUzbFZnQjlGcHhVdGw2S2R3MmdHbE5Eb09EdGJsM0VXdWdoZ1BqOEN3?oc=5)
+
+---
+
+### [【第43週】インフルエンザ、RSウイルスの感染報告続く ヘルパンギーナは警報継続 群馬県の感染症情報](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1rQ2pjdkEzeXkteVNvMXQ0bldUbFJKV3RDSEZsQnh2M0ZfaXlxLWQ4azl2TjQ0VDk4OUFWN3ljSi1WUzRrb0F6YVh3?oc=5)
+
+2026-10-28 <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [みんなの学校新聞](https://news.google.com/rss/articles/CBMiSkFVX3lxTE1rQ2pjdkEzeXkteVNvMXQ0bldUbFJKV3RDSEZsQnh2M0ZfaXlxLWQ4azl2TjQ0VDk4OUFWN3ljSi1WUzRrb0F6YVh3?oc=5)
 
 ---
 
