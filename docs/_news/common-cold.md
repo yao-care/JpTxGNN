@@ -3,9 +3,9 @@ layout: default
 title: "風邪 (common cold) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "風邪 (common cold) に関する健康ニュース。ニュース 2 件、関連医薬品 8 件。"
+description: "風邪 (common cold) に関する健康ニュース。ニュース 1 件、関連医薬品 8 件。"
 permalink: /news/common-cold/
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 ---
 
 # 風邪 (common cold) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-29
 ---
 
 <p class="key-answer" data-question="風邪 (common cold) に関するニュースは？">
-<strong>風邪 (common cold)</strong> には現在 <strong>2 件</strong>の関連ニュースと 8 件の関連医薬品があります。
+<strong>風邪 (common cold)</strong> には現在 <strong>1 件</strong>の関連ニュースと 8 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -37,21 +37,13 @@ last_modified_at: 2026-10-29
 </ul>
 </div>
 
-## 関連ニュース（2 件）
+## 関連ニュース（1 件）
 
-### [天候が寒くなると高齢者の肺炎のリスクを軽減する方法](https://news.google.com/rss/articles/CBMisgFBVV95cUxQd3lvTjJMbHFsV25qOHBUZUhQMUYtR3lBb1ZndjBzcXVDbnRCLUJybnJjWng4Z1Q2ZVl6TVhuZjVLZG94RGlXcHY0alI4ejlMVXJveDdNV2NwUUtGWlpqU3lsUlBmTExpMTdteVVyQ2NyUmJCaVhhT3A2YU01WDlPTkNuR2hTWWJXWDUzbFZnQjlGcHhVdGw2S2R3MmdHbE5Eb09EdGJsM0VXdWdoZ1BqOEN3?oc=5)
+### [【副鼻腔炎】鼻水・鼻づまりが10日以上続いたら要注意 放置で嗅覚低下、手術が必要になることも - AERA DIGITAL](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YQjNILUh6c0l6VlhxQUlBQTJxN01IMU1TaU5sa2NWNlZnSkt6SmItWEw2U1VnX2FpSGx1YzY0WjRIVzNGdG9TeGRsU09MUUFLSVBfSEFHbGl5QQ?oc=5)
 
-2026-10-29
+2026-10-30
 
-出典: [Laodong.vn](https://news.google.com/rss/articles/CBMisgFBVV95cUxQd3lvTjJMbHFsV25qOHBUZUhQMUYtR3lBb1ZndjBzcXVDbnRCLUJybnJjWng4Z1Q2ZVl6TVhuZjVLZG94RGlXcHY0alI4ejlMVXJveDdNV2NwUUtGWlpqU3lsUlBmTExpMTdteVVyQ2NyUmJCaVhhT3A2YU01WDlPTkNuR2hTWWJXWDUzbFZnQjlGcHhVdGw2S2R3MmdHbE5Eb09EdGJsM0VXdWdoZ1BqOEN3?oc=5)
-
----
-
-### [高熱出ない“隠れインフル”に医師が警鐘 「ただの風邪」と思い込み感染拡大のおそれ 「インフル保険」加入は4倍のペースに 福岡](https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xZHE2WWVrSXFsZ0ZJYWZxanVfeExONFpsQ1cyRnZENmdVSkFzRmtWcnVxN1pqOFM2Q3NIVzEtY1lOVnNkQWN0dy1oUGxoczdWUjZoejAzWldSVjVBUXRoeEJYZw?oc=5)
-
-2026-10-23
-
-出典: [福岡TNCニュース](https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xZHE2WWVrSXFsZ0ZJYWZxanVfeExONFpsQ1cyRnZENmdVSkFzRmtWcnVxN1pqOFM2Q3NIVzEtY1lOVnNkQWN0dy1oUGxoczdWUjZoejAzWldSVjVBUXRoeEJYZw?oc=5)
+出典: [AERA DIGITAL](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YQjNILUh6c0l6VlhxQUlBQTJxN01IMU1TaU5sa2NWNlZnSkt6SmItWEw2U1VnX2FpSGx1YzY0WjRIVzNGdG9TeGRsU09MUUFLSVBfSEFHbGl5QQ?oc=5)
 
 ---
 

@@ -3,9 +3,9 @@ layout: default
 title: "膵がん (pancreatic cancer) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "膵がん (pancreatic cancer) に関する健康ニュース。ニュース 2 件、関連医薬品 1 件。"
+description: "膵がん (pancreatic cancer) に関する健康ニュース。ニュース 1 件、関連医薬品 1 件。"
 permalink: /news/pancreatic-cancer/
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-30
 ---
 
 # 膵がん (pancreatic cancer) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-29
 ---
 
 <p class="key-answer" data-question="膵がん (pancreatic cancer) に関するニュースは？">
-<strong>膵がん (pancreatic cancer)</strong> には現在 <strong>2 件</strong>の関連ニュースと 1 件の関連医薬品があります。
+<strong>膵がん (pancreatic cancer)</strong> には現在 <strong>1 件</strong>の関連ニュースと 1 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -30,21 +30,13 @@ last_modified_at: 2026-10-29
 </ul>
 </div>
 
-## 関連ニュース（2 件）
+## 関連ニュース（1 件）
 
 ### [糖尿病の悪化と体重減少、膵がん早期発見の鍵に－東北大ほか](https://news.google.com/rss/articles/CBMihgFBVV95cUxPQUlTMXM0eENVbmwzcTZTeUw5V2MtdjhrSV9Ra24ySUQyQjcteUVXR25SYk9EOWk3dzZ4eVg2eXdUc3VCd1p0LS1rQ296NzZnQTVBdVI1RmFHel9uYVpKSDF3UjZmZlQ0cDc2dGdWWXowT3htMW11MllXMTFXTVFESkhxdE9RUQ?oc=5)
 
 2026-10-28
 
 出典: [QLifePro](https://news.google.com/rss/articles/CBMihgFBVV95cUxPQUlTMXM0eENVbmwzcTZTeUw5V2MtdjhrSV9Ra24ySUQyQjcteUVXR25SYk9EOWk3dzZ4eVg2eXdUc3VCd1p0LS1rQ296NzZnQTVBdVI1RmFHel9uYVpKSDF3UjZmZlQ0cDc2dGdWWXowT3htMW11MllXMTFXTVFESkhxdE9RUQ?oc=5)
-
----
-
-### [膵臓がんにピロリ菌関係か 抗体の値高いほどリスク](https://news.google.com/rss/articles/CBMiS0FVX3lxTE53RDh5Ukl5d3dLR2VvUVMyS0VNcTY3YWgzMmVJNnZIcElfWVRCQ1JhbGhvUWRkMVZqLVVHYkZ5aDlhdldRa2dDVW0tOA?oc=5)
-
-2026-10-26
-
-出典: [47NEWS](https://news.google.com/rss/articles/CBMiS0FVX3lxTE53RDh5Ukl5d3dLR2VvUVMyS0VNcTY3YWgzMmVJNnZIcElfWVRCQ1JhbGhvUWRkMVZqLVVHYkZ5aDlhdldRa2dDVW0tOA?oc=5)
 
 ---
 

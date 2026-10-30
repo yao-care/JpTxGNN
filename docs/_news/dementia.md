@@ -33,11 +33,11 @@ last_modified_at: 2026-10-30
 
 ## 関連ニュース（3 件）
 
-### [認知症を引き起こす「ペットボトル飲料」のリスク…亡くなった人の脳から「クレヨン1本分」の微小プラスチックが検出された](https://news.google.com/rss/articles/CBMihwFBVV95cUxQN2Q4c2hSNThtZ0M5eHB5RjVKUklITTc4QjVSOFhsWHI4T2RyS3hSdXFQQUNvUWlqYS1ZX18xUFBqb0JCd2VHdEp6WEZmdUgzX1ZjdXZUMDBrelhoaFFNSE1mNnQzU3NUbGtraER2dmpIQ2NjTFk0eThYUmJsYzlRYkFxM3ZDWlE?oc=5)
+### [認知症を引き起こす「ペットボトル飲料」のリスク…亡くなった人の脳から「クレヨン1本分」の微小プラスチックが検出された](https://news.google.com/rss/articles/CBMif0FVX3lxTFBCUEZMN04tYnNFR2NSelVBdnZvcnlGaExEc00zQnYxVE9XRndFQ09MS0hwVmZVSjZHMDZPcEtUYU9GdExpbE1SZnhTNklLNlVNRHlOZnk4SjYzTGJIRTFQbHR0clIwZUJxUXQyVXZvblZtQnNDdWRZTjdWa2hlbms?oc=5)
 
 2026-10-30
 
-出典: [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxQN2Q4c2hSNThtZ0M5eHB5RjVKUklITTc4QjVSOFhsWHI4T2RyS3hSdXFQQUNvUWlqYS1ZX18xUFBqb0JCd2VHdEp6WEZmdUgzX1ZjdXZUMDBrelhoaFFNSE1mNnQzU3NUbGtraER2dmpIQ2NjTFk0eThYUmJsYzlRYkFxM3ZDWlE?oc=5)
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBCUEZMN04tYnNFR2NSelVBdnZvcnlGaExEc00zQnYxVE9XRndFQ09MS0hwVmZVSjZHMDZPcEtUYU9GdExpbE1SZnhTNklLNlVNRHlOZnk4SjYzTGJIRTFQbHR0clIwZUJxUXQyVXZvblZtQnNDdWRZTjdWa2hlbms?oc=5)
 
 ---
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="プラスグレル錠５ｍｇ「ＤＳＥＰ」 に関するニュースは？">
-<strong>プラスグレル錠５ｍｇ「ＤＳＥＰ」</strong> には現在 <strong>12 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
+<strong>プラスグレル錠５ｍｇ「ＤＳＥＰ」</strong> には現在 <strong>16 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,45 @@ last_modified_at: 2026-10-30
 <p><a href="{{ '/drugs/prasugrel/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（12 件）
+## 関連ニュース（16 件）
+
+### [乳がんの発症ピークは更年期世代…新知見！【Q＆A】乳腺専門医に聞く「運動で乳がんを予防する方法」(ヨガジャーナルオンライン)](https://news.yahoo.co.jp/articles/ecd70611be272b2db40e25c78f6342c87c217b48?source=rss)
+
+2026-10-30 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span> <span class="news-indication-tag">更年期</span>
+
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/ecd70611be272b2db40e25c78f6342c87c217b48?source=rss)
+
+---
+
+### [20代・30代女性が無料で乳がん検診を体験！ はなさく生命がピンクリボン月間に札幌で啓発イベントを開催](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rc2I2ZEFzVktnNDBISHU5RlZRQlJ1TmxjamJ2RGpJSkNJOGJiVDRpTG8tUkFyb1otRUtodkljbkNSNl9wN1A0X0tBVGJSaHF4dmcwV2FySWxES1U?oc=5)
+
+2026-10-30 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
+
+出典: [舌肥](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rc2I2ZEFzVktnNDBISHU5RlZRQlJ1TmxjamJ2RGpJSkNJOGJiVDRpTG8tUkFyb1otRUtodkljbkNSNl9wN1A0X0tBVGJSaHF4dmcwV2FySWxES1U?oc=5)
+
+---
+
+### [『潰瘍性大腸炎』で「大腸がん」リスクは約2.5倍 内視鏡検査を始める時期を医師が解説](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wRERERE9PUUhPeXl1YmRwcGlnNS1zSnJpbzJVYlBQaU54cTZsNk9ROXExdTc4SXFhSnJYYzJGZkdyaXU4c01PWVlHa0ZicWZVamJEYWE4YlRfYlVj?oc=5)
+
+2026-10-30 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
+
+出典: [メディカルドック](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wRERERE9PUUhPeXl1YmRwcGlnNS1zSnJpbzJVYlBQaU54cTZsNk9ROXExdTc4SXFhSnJYYzJGZkdyaXU4c01PWVlHa0ZicWZVamJEYWE4YlRfYlVj?oc=5)
+
+---
 
 ### [新薬承認遅れは「生きる時間そのもの」の喪失―薬が確実に届くために必要なこと(メディカルドック)](https://news.yahoo.co.jp/articles/26137862bd868afbe3ff76b21e5971dbea746cf8?source=rss)
 
 2026-10-30 <span class="news-indication-tag">がん</span>
 
 出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/26137862bd868afbe3ff76b21e5971dbea746cf8?source=rss)
+
+---
+
+### [【大阪府摂津市】わずか6mLの採血でがん・認知リスクを評価する「メタロ・バランス検査」、「まつざき脳神経・頭痛クリニック千里丘」にて2026年12月19日(土)より検査開始 ＜ご予約受付中](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBrY05CQ3VTZmFkdExVLVpjUGlCVHlhS3Q4d1ExOV9DdkZyM0JTZ1Y0RGN5YVJfOFh5WDdvdDd4RFlMVU1Da3lYMDQ2OWIxQVd0aVFaU2pMR1Y?oc=5)
+
+2026-10-29 <span class="news-indication-tag">がん</span>
+
+出典: [オリコンニュース](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBrY05CQ3VTZmFkdExVLVpjUGlCVHlhS3Q4d1ExOV9DdkZyM0JTZ1Y0RGN5YVJfOFh5WDdvdDd4RFlMVU1Da3lYMDQ2OWIxQVd0aVFaU2pMR1Y?oc=5)
 
 ---
 
@@ -59,19 +91,11 @@ last_modified_at: 2026-10-30
 
 ---
 
-### [大腸がん、腸内細菌に注目…毒素「コリバクチン」がＤＮＡに傷](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kTlpBMHpfODhWbGgzcGRYRDVJVmw0dktBRFlWbUhwdDd3cWs3Zmk2d01CNkt1dVNqUWZ3b1FhN3pPaHhDaFlNbjloQW9OV1JQSEtUck0zazVHZXlJbTZUdFFqV2c?oc=5)
+### [血糖値をコントロールする方法は、糖尿病に進行するリスクを軽減するのに役立ちます](https://news.google.com/rss/articles/CBMivgFBVV95cUxQOEQwdVFtNTRvNVhINVZ0Z3RKMHlOTnN2VzVBc3JWSWRPejBDa2tqTnVpN2NCYTZSY2pLVDBBZmEzUFpMTklHcWs2OElid2JzTlc5SVpFUTR3OHYyNGF4amtFZlZocGNxWUVmVG5aOFRmcldEN2R6WlM2U0Q5VFItN25sb1EwMnNxOEZ5SV9yQnNhOUFXSVFjN21ha29jV1UxUzAxVktKdVBSZnlzU1FCZlVSenhHSzIwSmRYN2xn?oc=5)
 
-2026-10-29 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
+2026-10-28 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心臓病</span>
 
-出典: [読売新聞](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kTlpBMHpfODhWbGgzcGRYRDVJVmw0dktBRFlWbUhwdDd3cWs3Zmk2d01CNkt1dVNqUWZ3b1FhN3pPaHhDaFlNbjloQW9OV1JQSEtUck0zazVHZXlJbTZUdFFqV2c?oc=5)
-
----
-
-### [【大阪府摂津市】わずか6mLの採血でがん・認知リスクを評価する「メタロ・バランス検査」、「まつざき脳神経・頭痛クリニック千里丘」にて2026年12月19日(土)より検査開始 ＜ご予約受付中＞](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WdVpTNi1WUTBrVXhBRTBZMUV1NXo0aWlKSmxGa2VSTnRIaThEc3lRNnYtRnVSS1dpMXRObUVDeWxvcDBKanBCU3QzWS1hS0FaeE9QWU11RzBvblE0?oc=5)
-
-2026-10-29 <span class="news-indication-tag">がん</span>
-
-出典: [愛媛新聞](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9WdVpTNi1WUTBrVXhBRTBZMUV1NXo0aWlKSmxGa2VSTnRIaThEc3lRNnYtRnVSS1dpMXRObUVDeWxvcDBKanBCU3QzWS1hS0FaeE9QWU11RzBvblE0?oc=5)
+出典: [Laodong.vn](https://news.google.com/rss/articles/CBMivgFBVV95cUxQOEQwdVFtNTRvNVhINVZ0Z3RKMHlOTnN2VzVBc3JWSWRPejBDa2tqTnVpN2NCYTZSY2pLVDBBZmEzUFpMTklHcWs2OElid2JzTlc5SVpFUTR3OHYyNGF4amtFZlZocGNxWUVmVG5aOFRmcldEN2R6WlM2U0Q5VFItN25sb1EwMnNxOEZ5SV9yQnNhOUFXSVFjN21ha29jV1UxUzAxVktKdVBSZnlzU1FCZlVSenhHSzIwSmRYN2xn?oc=5)
 
 ---
 
@@ -107,14 +131,6 @@ last_modified_at: 2026-10-30
 
 ---
 
-### [膵臓がんにピロリ菌関係か 抗体の値高いほどリスク](https://news.google.com/rss/articles/CBMiS0FVX3lxTE53RDh5Ukl5d3dLR2VvUVMyS0VNcTY3YWgzMmVJNnZIcElfWVRCQ1JhbGhvUWRkMVZqLVVHYkZ5aDlhdldRa2dDVW0tOA?oc=5)
-
-2026-10-26 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">膵臓がん</span>
-
-出典: [47NEWS](https://news.google.com/rss/articles/CBMiS0FVX3lxTE53RDh5Ukl5d3dLR2VvUVMyS0VNcTY3YWgzMmVJNnZIcElfWVRCQ1JhbGhvUWRkMVZqLVVHYkZ5aDlhdldRa2dDVW0tOA?oc=5)
-
----
-
 ### [GSKのがん治療薬、直腸がん患者の76%で腫瘍が完全消失 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース](https://news.google.com/rss/articles/CBMicEFVX3lxTE5QYTU3d3daMks1MzZSSWJucWNNOWhnZXpsM3I0RGhlOXF2UEhyajdTQlRFcWo0SDBNeXJKWnJKc2hnUzZGa3UzTUdoemFXUVFlVU02RGdjblZpMnFMTEJMdEtyQkRxc2pnTVNiXzdJaU0?oc=5)
 
 2026-10-26 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">癌</span> <span class="news-indication-tag">腫瘍</span> <span class="news-indication-tag">直腸がん</span>
@@ -123,9 +139,25 @@ last_modified_at: 2026-10-30
 
 ---
 
+### [お菓子やソーセージの食べすぎに注意？「超加工食品」と脳の異常に関連、約8800人を調査 - DAILYSUN NEW YORK](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJbjhvWjg2RnJYNF91VFRPWWUzVkRMZjBkSDNUc3hlalNlNC04a2R6RXdiaHluTmJyUW1WY0hIYzVxZ3lXZTJXVDFNUmtUVDFqWFEwcXh2N0VneldUb094dA?oc=5)
+
+2026-10-26 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
+
+出典: [DAILYSUN NEW YORK](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJbjhvWjg2RnJYNF91VFRPWWUzVkRMZjBkSDNUc3hlalNlNC04a2R6RXdiaHluTmJyUW1WY0hIYzVxZ3lXZTJXVDFNUmtUVDFqWFEwcXh2N0VneldUb094dA?oc=5)
+
+---
+
+### [9520のタンパクから真の原因へ：プロテオゲノミクス×因果推論で拓く虚血性心疾患の創薬](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kYVA0TEsyejJrRTRlQ2hxZER4dmpIZkJNamI5MDZ0UU5sLUh0UC1Wbkd6YUJoUUFHRUZYUHFYUGJua3Nvd05oMlJ1LUxEeWl0VWc?oc=5)
+
+2026-10-25 <span class="news-indication-tag">心疾患</span>
+
+出典: [m3.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kYVA0TEsyejJrRTRlQ2hxZER4dmpIZkJNamI5MDZ0UU5sLUh0UC1Wbkd6YUJoUUFHRUZYUHFYUGJua3Nvd05oMlJ1LUxEeWl0VWc?oc=5)
+
+---
+
 ### [ソンラ省、150人の女性労働組合員に無料の専門的ながん検診を実施](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWnNJeXRmaUdEcVZ4eHRZNVYteWF0Q1F2Qm1xbzRkTG5QUXo4RTc2aU9SSTlaMHNkazZETTdLOVQ1cFBWRTItbkJNd2hkNU5IVTRERXQwR0d0MzZQMVJYZzJTNjZRNmxxZExJWjNfeDNRcGVFNS14dHdmaEZxakx4NU1fUlpNbWtYaUs4b2VZNHlZd09YQzVjclk0cjdCMTNDcmxSeVp6MmxqUExDNk94bk5sbkgxbmJYVU1CbVVwZng?oc=5)
 
-2026-10-25 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">肺がん</span>
+2026-10-25 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">癌</span> <span class="news-indication-tag">肺がん</span>
 
 出典: [Laodong.vn](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWnNJeXRmaUdEcVZ4eHRZNVYteWF0Q1F2Qm1xbzRkTG5QUXo4RTc2aU9SSTlaMHNkazZETTdLOVQ1cFBWRTItbkJNd2hkNU5IVTRERXQwR0d0MzZQMVJYZzJTNjZRNmxxZExJWjNfeDNRcGVFNS14dHdmaEZxakx4NU1fUlpNbWtYaUs4b2VZNHlZd09YQzVjclk0cjdCMTNDcmxSeVp6MmxqUExDNk94bk5sbkgxbmJYVU1CbVVwZng?oc=5)
 
