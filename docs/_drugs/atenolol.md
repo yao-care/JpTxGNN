@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Atenolol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Atenolol：予測新適応症は悪性高血圧性腎疾患（エビデンスレベル L5）。既存適応症：本態性高血圧症、狭心症、期外収縮"
 ---
 
@@ -50,7 +50,7 @@ TxGNN モデルは**悪性高血圧性腎疾患 (malignant hypertensive renal di
 | TxGNN 予測スコア | 0.9985 |
 | エビデンスレベル | L5 |
 | 日本市販状況 | 販売中（有効な承認 20 件／全 20 件） |
-| 承認数 | 20 件（有効 20 件） |
+| 承認番号数 | 20 件（有効 20 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由

@@ -333,6 +333,41 @@ def marketed_text(site, lang, v, n, partial):
     return (tl[1] if partial else tl[0]).format(v=v, n=n)
 
 
+# 2026-10-30（pm）：概覽表本站狀態列／張數列的標準欄位名（各站主流寫法；主流寫法不準確的修正：US 不只 NDA、
+# 來源不是許可證資料的站照實寫來源）。Tw 由 Tw 自己的 tfda 程式產生，不在此表。
+MARKET_LABELS = {
+    "ARTxGNN": ("Estado de Mercado en Argentina", "Número de productos en el listado PAMI"),
+    "AuTxGNN": ("Australia Market Status", "Number of PBS Items"),
+    "BrTxGNN": ("Situação no Mercado Brasileiro", "Número de Registros"),
+    "CHTxGNN": ("Marktstatus Schweiz", "Anzahl Zulassungen"),
+    "COTxGNN": ("Estado de Mercado en Colombia", "Número de Registros Sanitarios"),
+    "CaTxGNN": ("Canada Market Status", "Number of DINs"),
+    "DETxGNN": ("Marktstatus in Deutschland", "Anzahl der Zulassungen"),
+    "DkTxGNN": ("Markedsstatus i Danmark", "Antal markedsføringstilladelser"),
+    "ESTxGNN": ("Estado de Mercado en España", "Número de Autorizaciones"),
+    "EuTxGNN": ("EU Market Status", "Number of Authorizations"),
+    "FITxGNN": ("Markkinatilanne Suomessa", "Myyntilupien määrä"),
+    "FRTxGNN": ("Statut de Marché en France", "Nombre d'AMM"),
+    "HkTxGNN": ("香港上市", "許可證數"),
+    "ITTxGNN": ("Stato di mercato in Italia", "Numero di autorizzazioni"),
+    "InTxGNN": ("India Market Status", "Number of Listed Products"),
+    "JpTxGNN": ("日本市販状況", "承認番号数"),
+    "KrTxGNN": ("한국 시판 현황", "허가증 수"),
+    "MyTxGNN": ("Status Pasaran di Malaysia", "Bilangan Pendaftaran"),
+    "NOTxGNN": ("Markedsstatus i Norge", "Antall godkjenninger"),
+    "NZTxGNN": ("New Zealand Market Status", "Number of Pharmac Schedule Items"),
+    "NlTxGNN": ("Marktstatus in Nederland", "Aantal vergunningen"),
+    "PhTxGNN": ("Philippines Market Status", "Number of PNF Entries"),
+    "SATxGNN": ("حالة السوق في السعودية", "عدد التراخيص"),
+    "SETxGNN": ("Marknadsstatus i Sverige", "Antal godkännanden"),
+    "SgTxGNN": ("Singapore Market Status", "Number of Registrations"),
+    "ThTxGNN": ("สถานะการวางจำหน่ายในไทย", "จำนวนรายการในบัญชียาหลักแห่งชาติ"),
+    "UkTxGNN": ("UK Market Status", "Number of BNF Presentation Codes"),
+    "UsTxGNN": ("US Market Status", "Number of FDA Applications"),
+    "ZaTxGNN": ("South Africa Market Status", "Number of SAHPRA Registrations"),
+}
+
+
 def not_reg_text(site, lang):
     """查無許可紀錄時的狀態列：EMA 代理站用資料範圍句，其他站用 NOT_REG"""
     return NO_CENTRAL.get(site) or NOT_REG.get(lang, NOT_REG["en"])
@@ -446,11 +481,14 @@ STATUS_LABEL = re.compile(mv2.LABEL.pattern + r"|comercializ|commercialis|commer
 
 
 def status_row(site, rows):
-    return _pick_own(site, [r for r in rows if len(r) >= 2 and STATUS_LABEL.search(r[0]) and not is_count_label(r[0])])
+    std = (MARKET_LABELS.get(site) or ("", ""))[1]
+    return _pick_own(site, [r for r in rows if len(r) >= 2 and STATUS_LABEL.search(r[0]) and not is_count_label(r[0]) and r[0] != std])
 
 
 def count_row(site, rows):
-    return _pick_own(site, [r for r in rows if len(r) >= 2 and is_count_label(r[0])])
+    std = (MARKET_LABELS.get(site) or ("", ""))[1]  # 字串檔的標準欄位名（例：Number of PBS Items 不含許可證字樣）也認，且優先
+    exact = [r for r in rows if len(r) >= 2 and std and r[0] == std]
+    return exact[0] if exact else _pick_own(site, [r for r in rows if len(r) >= 2 and is_count_label(r[0])])
 
 
 # ---------- 資料 ----------

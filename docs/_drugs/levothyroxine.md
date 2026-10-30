@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Levothyroxine"
 predicted_indications: ["renal hypodysplasia/aplasia", "bilateral renal agenesis", "Potter sequence", "Carney complex"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Levothyroxine：予測新適応症は腎低形成/無形成 (renal hypodysplasia/aplasia)（エビデンスレベル L5）。既存適応症：甲状腺ホルモン補充薬（甲状腺機能低下症）"
 ---
 
@@ -51,7 +51,7 @@ TxGNN モデルは**腎低形成/無形成 (renal hypodysplasia/aplasia)** に�
 | TxGNN 予測スコア | 0.9967 |
 | エビデンスレベル | L5 |
 | 日本市販状況 | 販売中（有効な承認 14 件／全 14 件） |
-| 承認数 | 14 件（有効 14 件） |
+| 承認番号数 | 14 件（有効 14 件） |
 | 推奨決定 | Hold |
 
 その他の予測候補（いずれも L5、臨床試験・文献なし、Hold）：

@@ -5,7 +5,7 @@ parent: 既知の用途のみ（新規予測なし）
 nav_order: 370
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Treprostinil: 日本における既知の用途と市販状況。現時点で新たな候補適応症はありません"
 predicted_indications: []
 ---
@@ -46,7 +46,7 @@ Treprostinil(トレプロスチニル)について、TxGNNモデルはスコア0
 | 新たな予測適応症 | なし(スコア0.99以上のモデル候補なし) |
 | この薬剤に記録されている既知の用途 | 2 |
 | エビデンスレベル | 該当なし |
-| 日本での市販状況 | 国内未承認（承認記録なし） |
+| 日本市販状況 | 国内未承認（承認記録なし） |
 | 承認番号数 | 0 件（有効 0 件） |
 
 ## この薬剤に記録されている既知の用途
