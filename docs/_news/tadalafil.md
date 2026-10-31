@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "ザルティア錠５ｍｇ（選） に関する健康ニュース。予測適応症 8 件。"
 permalink: /news/tadalafil/
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 ---
 
 # ザルティア錠５ｍｇ（選） 関連ニュース
@@ -42,19 +42,19 @@ last_modified_at: 2026-10-30
 
 ## 関連ニュース（3 件）
 
+### [ヴィンロン省は、脳卒中の予防、救急能力の向上、死亡リスクの軽減に積極的に取り組んでいます。](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ3ExNzR0eXI5QjhUaGVEOEliZDUzMEtlMjNERzZoLURLdjM0Y2xKcERvdDQ1aE4wczlOY3lVOXZoc0pxRVhfLWxNd2xFWXh3clJRYnpTTmNlejI5NUVidWZBTHRpOW9OSnlCcllWRzVmcUdHVHVyUGdQRUZpU0UydVprZEdieGRxVlZrX2tLZEZmSnlXZWxweDdXVmpObFozVzhlaTlWclByazFoczJBc2FYeXljcUlMMUpvbmJXcXI?oc=5)
+
+2026-10-30 <span class="news-indication-tag">脳卒中</span>
+
+出典: [Laodong.vn](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ3ExNzR0eXI5QjhUaGVEOEliZDUzMEtlMjNERzZoLURLdjM0Y2xKcERvdDQ1aE4wczlOY3lVOXZoc0pxRVhfLWxNd2xFWXh3clJRYnpTTmNlejI5NUVidWZBTHRpOW9OSnlCcllWRzVmcUdHVHVyUGdQRUZpU0UydVprZEdieGRxVlZrX2tLZEZmSnlXZWxweDdXVmpObFozVzhlaTlWclByazFoczJBc2FYeXljcUlMMUpvbmJXcXI?oc=5)
+
+---
+
 ### [血糖値をコントロールする方法は、糖尿病に進行するリスクを軽減するのに役立ちます](https://news.google.com/rss/articles/CBMivgFBVV95cUxQOEQwdVFtNTRvNVhINVZ0Z3RKMHlOTnN2VzVBc3JWSWRPejBDa2tqTnVpN2NCYTZSY2pLVDBBZmEzUFpMTklHcWs2OElid2JzTlc5SVpFUTR3OHYyNGF4amtFZlZocGNxWUVmVG5aOFRmcldEN2R6WlM2U0Q5VFItN25sb1EwMnNxOEZ5SV9yQnNhOUFXSVFjN21ha29jV1UxUzAxVktKdVBSZnlzU1FCZlVSenhHSzIwSmRYN2xn?oc=5)
 
 2026-10-28 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心臓病</span>
 
 出典: [Laodong.vn](https://news.google.com/rss/articles/CBMivgFBVV95cUxQOEQwdVFtNTRvNVhINVZ0Z3RKMHlOTnN2VzVBc3JWSWRPejBDa2tqTnVpN2NCYTZSY2pLVDBBZmEzUFpMTklHcWs2OElid2JzTlc5SVpFUTR3OHYyNGF4amtFZlZocGNxWUVmVG5aOFRmcldEN2R6WlM2U0Q5VFItN25sb1EwMnNxOEZ5SV9yQnNhOUFXSVFjN21ha29jV1UxUzAxVktKdVBSZnlzU1FCZlVSenhHSzIwSmRYN2xn?oc=5)
-
----
-
-### [お酒が引き起こす心臓病がある！ リスクが大きい飲み方とは：左党の一分：日経Gooday（グッデイ）](https://news.google.com/rss/articles/CBMilAFBVV95cUxPWEZqZTF4cnlPOU14UGhGa21xdE1UQ0xIVE9wOWlBc2NLel9lYTk1SEx3UHROSFZtQVIzNUx4XzV3OXhoZGF6a05SVDdueFZfVExKZDB0TDRySjJUS3l1ZEtyMWhzbC1PYTMzellQaUVBZWw4VElNUUh2S21UYkVCNDdxMGZJR29Sem81MEMtdzNSSmdi?oc=5)
-
-2026-10-27 <span class="news-indication-tag">心臓病</span>
-
-出典: [日経Gooday](https://news.google.com/rss/articles/CBMilAFBVV95cUxPWEZqZTF4cnlPOU14UGhGa21xdE1UQ0xIVE9wOWlBc2NLel9lYTk1SEx3UHROSFZtQVIzNUx4XzV3OXhoZGF6a05SVDdueFZfVExKZDB0TDRySjJUS3l1ZEtyMWhzbC1PYTMzellQaUVBZWw4VElNUUh2S21UYkVCNDdxMGZJR29Sem81MEMtdzNSSmdi?oc=5)
 
 ---
 

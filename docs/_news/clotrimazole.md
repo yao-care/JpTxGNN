@@ -15,7 +15,7 @@ last_modified_at: 2026-10-31
 ---
 
 <p class="key-answer" data-question="エンペシドクリーム１％（選） に関するニュースは？">
-<strong>エンペシドクリーム１％（選）</strong> には現在 <strong>16 件</strong>の関連ニュースがあり、予測適応症は 3 件です。
+<strong>エンペシドクリーム１％（選）</strong> には現在 <strong>12 件</strong>の関連ニュースがあり、予測適応症は 3 件です。
 </p>
 
 <div class="key-takeaway">
@@ -35,29 +35,13 @@ last_modified_at: 2026-10-31
 <p><a href="{{ '/drugs/clotrimazole/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（16 件）
+## 関連ニュース（12 件）
 
-### [【闘病】2時間止まらない鼻血と白い塊… 正体はHPVによる『鼻腔がん』だった(メディカルドック)](https://news.yahoo.co.jp/articles/5237762cb32e9371e8efb5973a0839ca72e76d49?source=rss)
-
-2026-10-31 <span class="news-indication-tag">がん</span>
-
-出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/5237762cb32e9371e8efb5973a0839ca72e76d49?source=rss)
-
----
-
-### [前編｜朝、指がこわばるのは更年期のサイン？ 女性に多い手の不調を専門家が解説(CBCテレビ)](https://news.yahoo.co.jp/articles/c403f89a527790d6845e1caaa32be5d03b2ce6d3?source=rss)
-
-2026-10-31 <span class="news-indication-tag">更年期</span>
-
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/c403f89a527790d6845e1caaa32be5d03b2ce6d3?source=rss)
-
----
-
-### [「自分も家庭を持ちたい」　26歳で希少がんを発症した男性　友人の結婚式で感じた喜びと複雑な思い(Hint](https://news.yahoo.co.jp/articles/4844c18ca77e86fc791a4f5a8b510f4ff2cfd472?source=rss)
+### [【闘病】2時間止まらない鼻血と白い塊… 正体はHPVによる『鼻腔がん』だった（メディカルドック）](https://news.google.com/rss/articles/CBMif0FVX3lxTFBQMmhaQU82bU1YQTRzMDRVd3h3UnFpVEVqZ1Z1OUtPTTZKbEF6SWU0N1V5Unh1VVRyb0I3alpGaFpvZTRSUnBSblJVQ3FOMUhvV0ZnWVRsbWh5VE9IZjA2RVoxQUJDdTVjeFZfUUhRUHRRVjcwd3Z0RE5FYXBKRDg?oc=5)
 
 2026-10-31 <span class="news-indication-tag">がん</span>
 
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/4844c18ca77e86fc791a4f5a8b510f4ff2cfd472?source=rss)
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBQMmhaQU82bU1YQTRzMDRVd3h3UnFpVEVqZ1Z1OUtPTTZKbEF6SWU0N1V5Unh1VVRyb0I3alpGaFpvZTRSUnBSblJVQ3FOMUhvV0ZnWVRsbWh5VE9IZjA2RVoxQUJDdTVjeFZfUUhRUHRRVjcwd3Z0RE5FYXBKRDg?oc=5) · [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/5237762cb32e9371e8efb5973a0839ca72e76d49?source=rss)
 
 ---
 
@@ -109,19 +93,19 @@ last_modified_at: 2026-10-31
 
 ---
 
-### [閉経期の経口ホルモン療法、血栓症リスクは増加するか／BMJ｜CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE52Y1d6dTZ5ekMzeE0yZ1E0bThoYmZHYVd2YjE2NW4ta2VNcjdKdWg5UVVRdjJfUGRyVllJTnN0RUlydUpxWFI5akVZTE9mQ3A3cm54S1hCaDY1TDQtOHYw?oc=5)
-
-2026-10-27 <span class="news-indication-tag">閉経</span>
-
-出典: [CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE52Y1d6dTZ5ekMzeE0yZ1E0bThoYmZHYVd2YjE2NW4ta2VNcjdKdWg5UVVRdjJfUGRyVllJTnN0RUlydUpxWFI5akVZTE9mQ3A3cm54S1hCaDY1TDQtOHYw?oc=5)
-
----
-
 ### [化学療法反応スコアは進行卵巣がんのPARP阻害薬維持療法の効果を予測可能か／Gynecol Oncol｜CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QWVhPZGVwQU5sVEc3c0JnS25TelYya1J2OUw0SmtCMDNabHNLWnpkMEFWRFZnUnpfRFI5ZTdMRXRiWlBONFpyYl9SM1A0Yk1fMUo2MTZkOGVHVzNLeV9B?oc=5)
 
 2026-10-27 <span class="news-indication-tag">がん</span>
 
 出典: [CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QWVhPZGVwQU5sVEc3c0JnS25TelYya1J2OUw0SmtCMDNabHNLWnpkMEFWRFZnUnpfRFI5ZTdMRXRiWlBONFpyYl9SM1A0Yk1fMUo2MTZkOGVHVzNLeV9B?oc=5)
+
+---
+
+### [閉経期の経口ホルモン療法、血栓症リスクは増加するか／BMJ｜CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE52Y1d6dTZ5ekMzeE0yZ1E0bThoYmZHYVd2YjE2NW4ta2VNcjdKdWg5UVVRdjJfUGRyVllJTnN0RUlydUpxWFI5akVZTE9mQ3A3cm54S1hCaDY1TDQtOHYw?oc=5)
+
+2026-10-27 <span class="news-indication-tag">閉経</span>
+
+出典: [CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE52Y1d6dTZ5ekMzeE0yZ1E0bThoYmZHYVd2YjE2NW4ta2VNcjdKdWg5UVVRdjJfUGRyVllJTnN0RUlydUpxWFI5akVZTE9mQ3A3cm54S1hCaDY1TDQtOHYw?oc=5)
 
 ---
 
@@ -141,27 +125,11 @@ last_modified_at: 2026-10-31
 
 ---
 
-### [ソンラ省、150人の女性労働組合員に無料の専門的ながん検診を実施](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWnNJeXRmaUdEcVZ4eHRZNVYteWF0Q1F2Qm1xbzRkTG5QUXo4RTc2aU9SSTlaMHNkazZETTdLOVQ1cFBWRTItbkJNd2hkNU5IVTRERXQwR0d0MzZQMVJYZzJTNjZRNmxxZExJWjNfeDNRcGVFNS14dHdmaEZxakx4NU1fUlpNbWtYaUs4b2VZNHlZd09YQzVjclk0cjdCMTNDcmxSeVp6MmxqUExDNk94bk5sbkgxbmJYVU1CbVVwZng?oc=5)
-
-2026-10-25 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">癌</span> <span class="news-indication-tag">肺がん</span>
-
-出典: [Laodong.vn](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWnNJeXRmaUdEcVZ4eHRZNVYteWF0Q1F2Qm1xbzRkTG5QUXo4RTc2aU9SSTlaMHNkazZETTdLOVQ1cFBWRTItbkJNd2hkNU5IVTRERXQwR0d0MzZQMVJYZzJTNjZRNmxxZExJWjNfeDNRcGVFNS14dHdmaEZxakx4NU1fUlpNbWtYaUs4b2VZNHlZd09YQzVjclk0cjdCMTNDcmxSeVp6MmxqUExDNk94bk5sbkgxbmJYVU1CbVVwZng?oc=5)
-
----
-
 ### [インフル対策で注目。「実はお米でいう玄米」免疫が２倍活性化！更年期世代の太りやすさ、血糖値までケアする神調味料は【医師が解説】 - OTONA SALONE](https://news.google.com/rss/articles/CBMiRkFVX3lxTE9EUmV6LS1aTnNiNmFvQUJyRDlzQ2I0aUtqRmpiVVdVVkNNUDEwdFFPLVh1RmpYT19DLUNFaHZVdHJUT0hGNGc?oc=5)
 
 2026-10-24 <span class="news-indication-tag">更年期</span>
 
 出典: [OTONA SALONE](https://news.google.com/rss/articles/CBMiRkFVX3lxTE9EUmV6LS1aTnNiNmFvQUJyRDlzQ2I0aUtqRmpiVVdVVkNNUDEwdFFPLVh1RmpYT19DLUNFaHZVdHJUT0hGNGc?oc=5)
-
----
-
-### [大腸炎を予防し、消化器系の健康を守る方法](https://news.google.com/rss/articles/CBMirAFBVV95cUxNckhMTzVRSjk2NmtxcUN6RVd3ZU5sRXFCWTJQTjZUVXpFdTd4Qmttb1BncVhkd3hJUE5QRmo2WGQ0RlRvRXJlMTMtQlhPbXAweEs2SjZ4NThmNVJNYmFNalZCTXRfMjJOSERCN0xOdlFYeV9RVUJPQ001bzFOOWl5dF8yV2xzU2l3VEFJMnMtZ1l0YlAtNVRkVEpXMWlWeXBnTVByYURkQTJ1MFJJ?oc=5)
-
-2026-10-24 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
-
-出典: [Laodong.vn](https://news.google.com/rss/articles/CBMirAFBVV95cUxNckhMTzVRSjk2NmtxcUN6RVd3ZU5sRXFCWTJQTjZUVXpFdTd4Qmttb1BncVhkd3hJUE5QRmo2WGQ0RlRvRXJlMTMtQlhPbXAweEs2SjZ4NThmNVJNYmFNalZCTXRfMjJOSERCN0xOdlFYeV9RVUJPQ001bzFOOWl5dF8yV2xzU2l3VEFJMnMtZ1l0YlAtNVRkVEpXMWlWeXBnTVByYURkQTJ1MFJJ?oc=5)
 
 ---
 

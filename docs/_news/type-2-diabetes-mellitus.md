@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "2型糖尿病 (type 2 diabetes mellitus) に関する健康ニュース。ニュース 2 件、関連医薬品 5 件。"
 permalink: /news/type-2-diabetes-mellitus/
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 ---
 
 # 2型糖尿病 (type 2 diabetes mellitus) 関連ニュース
@@ -42,11 +42,11 @@ last_modified_at: 2026-10-30
 
 ---
 
-### [「血糖値対策」食後に効果的な運動はどっち？ 「ストレッチや軽めの運動」と「 筋トレや重めの運動」](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBjUnk0Z0pqSnN3YUo3UkFOWkt3NDk3Vjc4Y2tpYngzWE1KRHVJN21SOV9QeWMzZDloVFJqbm1wWVM1TGFaU1V1TGMxVlJ3Zw?oc=5)
+### [糖尿病患者が合併症を避けるために運動する際の注意点](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdWlKM2NROEJLc21CYndwTHNNMHBFRXBrTXBLSGdFNXBLY1plQ2ZaYjhKdGNVVHM5R2FuUFhKdF9XdVJybV9WUEpXWE9aRDUzRnViejFqejVOUGZrZEc0UjZoMFAtVDROZ0lRSzROd1RiVTJtam02N0NWOXFPal94allvVVVGVjBVWHcxLWJLZ01lT1EtNGR1M0ZSX1M0RUpUNjNvdXFsdnVXUQ?oc=5)
 
 2026-10-27
 
-出典: [FYTTE](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBjUnk0Z0pqSnN3YUo3UkFOWkt3NDk3Vjc4Y2tpYngzWE1KRHVJN21SOV9QeWMzZDloVFJqbm1wWVM1TGFaU1V1TGMxVlJ3Zw?oc=5)
+出典: [Laodong.vn](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdWlKM2NROEJLc21CYndwTHNNMHBFRXBrTXBLSGdFNXBLY1plQ2ZaYjhKdGNVVHM5R2FuUFhKdF9XdVJybV9WUEpXWE9aRDUzRnViejFqejVOUGZrZEc0UjZoMFAtVDROZ0lRSzROd1RiVTJtam02N0NWOXFPal94allvVVVGVjBVWHcxLWJLZ01lT1EtNGR1M0ZSX1M0RUpUNjNvdXFsdnVXUQ?oc=5)
 
 ---
 

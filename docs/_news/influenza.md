@@ -3,7 +3,7 @@ layout: default
 title: "インフルエンザ (influenza) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 4 件、関連医薬品 1 件。"
+description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 5 件、関連医薬品 1 件。"
 permalink: /news/influenza/
 last_modified_at: 2026-10-31
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-31
 ---
 
 <p class="key-answer" data-question="インフルエンザ (influenza) に関するニュースは？">
-<strong>インフルエンザ (influenza)</strong> には現在 <strong>4 件</strong>の関連ニュースと 1 件の関連医薬品があります。
+<strong>インフルエンザ (influenza)</strong> には現在 <strong>5 件</strong>の関連ニュースと 1 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,29 @@ last_modified_at: 2026-10-31
 </ul>
 </div>
 
-## 関連ニュース（4 件）
+## 関連ニュース（5 件）
+
+### [2例目の髄膜炎菌性髄膜炎患者死亡、カマウ省は約90人の接触者を絞り込む](https://news.google.com/rss/articles/CBMiswFBVV95cUxQUVZ1djZZRTE0ZWM2Qk9qZDh3Vkl3cjRLdnpVakhEY1lqc3ZQWlZBQTJUSzBwdzAxeEpraFhlMXpZUExFaG9sdFRheUNTaUhQWWoteVI3QkVVY0JUWUdlVTVlVmxESUMtUlo5YWJMQUlBSFRDTjRTYjlCdDN6Vmt4YzBSRTYxOVJ3QzBxQVkyWVFMdHlGUE9iUE5tZ0ktd3o5X1lwVFVEcXZmX0dONno0a192VQ?oc=5)
+
+2026-10-30
+
+出典: [Laodong.vn](https://news.google.com/rss/articles/CBMiswFBVV95cUxQUVZ1djZZRTE0ZWM2Qk9qZDh3Vkl3cjRLdnpVakhEY1lqc3ZQWlZBQTJUSzBwdzAxeEpraFhlMXpZUExFaG9sdFRheUNTaUhQWWoteVI3QkVVY0JUWUdlVTVlVmxESUMtUlo5YWJMQUlBSFRDTjRTYjlCdDN6Vmt4YzBSRTYxOVJ3QzBxQVkyWVFMdHlGUE9iUE5tZ0ktd3o5X1lwVFVEcXZmX0dONno0a192VQ?oc=5)
+
+---
 
 ### [感染症に負けないカラダとココロ＝日常ケア編　喫煙、免疫機能下げる｜四国新聞WEB朝刊](https://news.google.com/rss/articles/CBMid0FVX3lxTE1PN1lmSWRmVDA5QlpNVm5HbllGNzl5ZGltVFV5eFFpbFBjXzVVLU45VkdZeC1EMUtPYWlyOU9xUVlHQ3dtXzdSVEZLWHlHZFFGdFY3aXFuOG11NkFOWFJaSFFGY0Z3Y1cwYzVBN1NVSVRoV0ZJTXFB0gF8QVVfeXFMTTk4TEN3cHp1S0dvNlI5MHBKRS1SMVVKTFA0TVVtdXlwb1czSS1qTTJrY0tKbUpkOE5FTDcxQ0g4UVA5M0VHcktQSTZiZ0d1WG9mN1pWNG1nT2djd2FkZThfTnFYRVJSVnVqa3FQalFMS01wZ0VjUGtsTnlFMA?oc=5)
 
 2026-10-29
 
 出典: [四国新聞](https://news.google.com/rss/articles/CBMid0FVX3lxTE1PN1lmSWRmVDA5QlpNVm5HbllGNzl5ZGltVFV5eFFpbFBjXzVVLU45VkdZeC1EMUtPYWlyOU9xUVlHQ3dtXzdSVEZLWHlHZFFGdFY3aXFuOG11NkFOWFJaSFFGY0Z3Y1cwYzVBN1NVSVRoV0ZJTXFB0gF8QVVfeXFMTTk4TEN3cHp1S0dvNlI5MHBKRS1SMVVKTFA0TVVtdXlwb1czSS1qTTJrY0tKbUpkOE5FTDcxQ0g4UVA5M0VHcktQSTZiZ0d1WG9mN1pWNG1nT2djd2FkZThfTnFYRVJSVnVqa3FQalFMS01wZ0VjUGtsTnlFMA?oc=5)
+
+---
+
+### [【愛知県インフルエンザ週報】患者数1.11倍と増加傾向 各地で学級閉鎖相次ぐ＜10月19日～25日の感染症情報 - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTFBYdlE4bXhLSTlqWHNqa3V5cXBjalhCdkdwcWFxMnFOclNidDhQSnJyLVh4aTR3WGpjakZsZ1NqdzVEOWZLai1JQUNmRDZJSm1rSFpOZGlRcC00X1JxOEVFQk5DWlI5OFc1OVZBSjBR?oc=5)
+
+2026-10-29
+
+出典: [au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTFBYdlE4bXhLSTlqWHNqa3V5cXBjalhCdkdwcWFxMnFOclNidDhQSnJyLVh4aTR3WGpjakZsZ1NqdzVEOWZLai1JQUNmRDZJSm1rSFpOZGlRcC00X1JxOEVFQk5DWlI5OFc1OVZBSjBR?oc=5)
 
 ---
 
@@ -53,14 +69,6 @@ last_modified_at: 2026-10-31
 2026-10-28
 
 出典: [Laodong.vn](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZjM3cUZGcl9RWEtRNWY4OXF5eElHRXdZd2dBMHA2TUhhMjBrVUVseExDRkNfeGEzaml5X2VkcllJS2U0T1dMSmVEVEthdGNGXzR5aW1uTWszR0U1b2pJbVl3Um1vXzJLUmhsSFRBS0dGQ2Q2RUZoSmhTaDRPMlRfemJjLUROYmtIZ181RGE1cGxYckFMVkxzQ0R6ek5ib2ZDV2ZQelp5UzFSM05nSHo3d1NfTWo3Qy0xZWJTckNITG1KZw?oc=5)
-
----
-
-### [ホーチミン市の学校で髄膜炎菌感染症 濃厚接触者99人に予防措置、登校は通常通り](https://news.google.com/rss/articles/CBMibEFVX3lxTFBpY3l4WU84ZlZmWFIyVXlabEF5dnE2V1ZIXy0weVZ2b2tNcUFfZlpRdTRDYmJ0ZktTZVdRQWpna2VwdWxjMDBsNXZvSEdUcHo3anJVMXYtMnBtcXB0SEVteWs5Y2JodUN2REpNVQ?oc=5)
-
-2026-10-24
-
-出典: [https://access-online.net/](https://news.google.com/rss/articles/CBMibEFVX3lxTFBpY3l4WU84ZlZmWFIyVXlabEF5dnE2V1ZIXy0weVZ2b2tNcUFfZlpRdTRDYmJ0ZktTZVdRQWpna2VwdWxjMDBsNXZvSEdUcHo3anJVMXYtMnBtcXB0SEVteWs5Y2JodUN2REpNVQ?oc=5)
 
 ---
 
