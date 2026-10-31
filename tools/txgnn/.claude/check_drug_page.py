@@ -434,9 +434,9 @@ ALL_CANCEL = re.compile(
 ONLY_CANCEL = re.compile(
     r"\bonly\b[^.\n]{0,30}(cancel+ed|revoked|withdrawn|expired|lapsed|inactive)\b|\bno (currently )?(valid|active) product|"
     r"\b(apenas|somente|só)\b[^.\n]{0,30}(cancelad|inativ)|\(registros? cancelados?\)|sem produto (atualmente )?(válido|ativo|vigente)|"
-    r"\b(solo|sólo|únicamente)\b[^.\n]{0,30}(anulad|cancelad|revocad)|\(registros? (anulad|cancelad)[oa]s?\)|sin producto (actualmente )?(válido|vigente)|"
+    r"\b(solo|sólo|únicamente)\b\s+(\w+\s+){0,3}(registros?|autorizaci\w+|una autorizaci\w+)[^.\n;]{0,20}(anulad|cancelad|revocad)|\(registros? (anulad|cancelad)[oa]s?\)|sin producto (actualmente )?(válido|vigente)|"
     r"\b(uniquement|seulement)\b[^.\n]{0,30}(annulé|abrogé|retiré)|\bnur\b[^.\n]{0,30}(erloschen|widerrufen|zurückgezogen)|"
-    r"\bsolo\b[^.\n]{0,30}(revocat|annullat|cessat)|\balleen\b[^.\n]{0,30}(ingetrokken|doorgehaald|vervallen)|"
+    r"\bsolo\b\s+(\w+\s+){0,3}autorizzazion\w*[^.\n;]{0,20}(revocat|annullat|cessat)|\balleen\b[^.\n]{0,30}(ingetrokken|doorgehaald|vervallen)|"
     r"\bendast\b[^.\n]{0,30}(avregistrer|återkall)|\bkun\b[^.\n]{0,30}(avregistrer|afregistrer|tilbakekall|tilbagekald)|"
     r"\bvain\b[^.\n]{0,30}perut|(取消|整理|失効)(済み|された承認)?のみ|취소된 허가(만|뿐)|(僅有|只有|僅存)已?(註銷|撤銷)|"
     r"\bhanya\b[^.\n]{0,30}dibatalkan|فقط[^.\n]{0,30}(ملغا|ملغى|ملغية)|มีเพียง[^.\n]{0,30}ยกเลิก", re.I)

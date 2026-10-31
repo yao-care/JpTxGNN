@@ -98,6 +98,8 @@ def main(argv):
             md += ["", f"### 擋下、等人看的頁（{len(S['held'])}）", ""] + [f"- `{x}`" for x in S["held"]]
         if S.get("checker_bad"):
             md += ["", "### checker 非 0 的頁", ""] + [f"- `{x}`" for x in S["checker_bad"]]
+        if S.get("to_verify"):
+            md += ["", f"### 狀態列變成全部註銷／查無、要對全量來源依成分確認的頁（{len(S['to_verify'])}）", ""] + [f"- `{x}`" for x in S["to_verify"]]
         if S.get("unsynced"):
             md += ["", "### 本站沒有對應寫法、未改的許可證表格子", ""] + [f"- {x}" for x in S["unsynced"]]
         if S.get("fields"):
@@ -201,6 +203,12 @@ def main(argv):
     #    證據包沒變也照跑：頁面若落後於事實（例如上次停在一半）會在這裡對齊。
     run([PY, ".claude/dump_license_facts_20261021.py", site])
     rows = lts.sync_market_rows(site)
+    # 2026-10-31（pm）：狀態列這次變成「全部註銷／查無」的頁，要先對全量來源依成分確認才能算定案（證據包可能只收了部分登記號）；
+    # 排程不自己判斷，列進 issue 給 pm 追蹤。已改寫成資料範圍句的站（SCOPE_CANCELLED／NO_CENTRAL）不列。
+    ckm = _load("ckm", BASE / ".claude/check_drug_page.py")
+    fs_now = lts.facts(site)
+    scoped = {"Cancelled only": site in ckm.SCOPE_CANCELLED, "Not marketed": site in ckm.NO_CENTRAL}
+    S["to_verify"] = sorted(pg for pg in rows if scoped.get((lts.page_facts(fs_now, pg) or {}).get("market_status"), True) is False)
     tch, unsynced = lts.apply(site, labels)
     tch += lts.drop_excluded_rows(site)
     fields = [(pg, lab, a_, b_) for pg, ch in rows.items() for lab, a_, b_ in ch] + tch

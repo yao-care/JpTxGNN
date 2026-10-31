@@ -53,6 +53,7 @@ jobs:
         env:
           LICENSE_REFRESH_MAX_PAGES: ${{ inputs.max_pages }}
           LICENSE_REFRESH_MAX_CHANGE: ${{ inputs.max_change }}
+          PBS_PUBLIC_KEY: ${{ secrets.PBS_PUBLIC_KEY }}   # 只有 AU 用（PBS public API 共用金鑰）；其他站沒設就是空字串
         run: |
           WS=$(bash scripts/txgnn_ws.sh)
           SITE=$(cat tools/txgnn/SITE)
@@ -63,7 +64,7 @@ jobs:
           set -e
           echo "code=$code" >> "$GITHUB_OUTPUT"
           cat .license_refresh/summary.md >> "$GITHUB_STEP_SUMMARY"
-          python3 -c "import json;s=json.load(open('.license_refresh/summary.json'));print('records=%d' % len(s.get('license_changes',[])));print('held=%d' % len(s.get('held',[])));print('unsynced=%d' % len(s.get('unsynced',[])));print('missing=%d' % (1 if s.get('missing_alert') else 0))" >> "$GITHUB_OUTPUT"
+          python3 -c "import json;s=json.load(open('.license_refresh/summary.json'));print('records=%d' % len(s.get('license_changes',[])));print('held=%d' % len(s.get('held',[])));print('unsynced=%d' % len(s.get('unsynced',[])));print('missing=%d' % (1 if s.get('missing_alert') else 0));print('verify=%d' % len(s.get('to_verify',[])))" >> "$GITHUB_OUTPUT"
 
       - name: Commit and push pages
         if: steps.refresh.outputs.code == '0' && inputs.dry_run != 'true'
@@ -78,7 +79,7 @@ jobs:
           gh workflow run pages.yml --ref main
 
       - name: Publish updated data to Release
-        if: steps.refresh.outputs.code == '0' && steps.refresh.outputs.records != '0' && inputs.dry_run != 'true'
+        if: (steps.refresh.outputs.code == '0' || steps.refresh.outputs.code == '6') && steps.refresh.outputs.records != '0' && inputs.dry_run != 'true'
         run: |
           SITE=$(cat tools/txgnn/SITE)
           TAG="data-$(date -u +%Y%m%d-%H%M%S)"   # 每次新 tag，舊 tag 一律不覆蓋（pm 2026-10-30 第 3 點）
@@ -103,9 +104,9 @@ jobs:
           include-hidden-files: true
 
       - name: Open issue on stop
-        if: (steps.refresh.outputs.code != '0' || steps.refresh.outputs.held != '0' || steps.refresh.outputs.unsynced != '0' || steps.refresh.outputs.missing != '0') && inputs.dry_run != 'true'
+        if: (steps.refresh.outputs.code != '0' || steps.refresh.outputs.held != '0' || steps.refresh.outputs.unsynced != '0' || steps.refresh.outputs.missing != '0' || steps.refresh.outputs.verify != '0') && inputs.dry_run != 'true'
         run: |
-          title="許可證排程更新需要人看（exit ${{ steps.refresh.outputs.code }}，擋下 ${{ steps.refresh.outputs.held }} 頁，未同步 ${{ steps.refresh.outputs.unsynced }} 格）"
+          title="許可證排程／來源監看需要人看（exit ${{ steps.refresh.outputs.code }}，擋下 ${{ steps.refresh.outputs.held }} 頁，未同步 ${{ steps.refresh.outputs.unsynced }} 格）"
           n=$(gh issue list --label license-refresh --state open --json number -q 'length')
           gh label create license-refresh --color B60205 --description "許可證排程更新需要人看" 2>/dev/null || true
           body="$(cat .license_refresh/summary.md)
@@ -113,4 +114,4 @@ jobs:
           Run：${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
           if [ "$n" = "0" ]; then gh issue create --label license-refresh --title "$title" --body "$body"
           else gh issue comment "$(gh issue list --label license-refresh --state open --json number -q '.[0].number')" --body "$body"; fi
-          [ "${{ steps.refresh.outputs.code }}" = "0" ] || exit 1
+          [ "${{ steps.refresh.outputs.code }}" = "0" ] || [ "${{ steps.refresh.outputs.code }}" = "6" ] || exit 1  # 6＝監看來源有更新（不是錯誤）
