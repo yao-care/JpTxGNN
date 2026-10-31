@@ -43,6 +43,10 @@ def main(argv):
         facts = json.loads(r.stdout)
         (d / f"{s}.json").write_text(json.dumps(facts, ensure_ascii=False), encoding="utf-8")
         print(f"{s}: {len(facts)} 藥，部分紀錄 {sum(1 for x in facts.values() if x.get('partial'))}", flush=True)
+        if s == "TwTxGNN" and (BASE / s / "snapshots/tfda_licenses.json.gz").exists():
+            # Tw 的 facts 以頁面許可證表的來源（tfda_licenses 快照）為準（pm 2026-10-23）；只用證據包算會跟頁面差 66 頁以上。
+            # 2026-10-31：原本要另外手動跑，全站重算時漏掉、Tw 排程也沒跑 → 寫進這裡，一律接著覆蓋
+            subprocess.run([sys.executable, str(BASE / ".claude/tw_license_facts_from_tfda_20261023.py")], check=True)
 
 
 if __name__ == "__main__":
