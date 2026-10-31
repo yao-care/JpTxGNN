@@ -1,8 +1,10 @@
 {
  "labels": {
-  "Sah": "valid"
+  "Sah": "valid",
+  "Dibatalkan Pendaftaran": "cancelled"
  },
  "preferred": {
-  "valid": "Sah"
+  "valid": "Sah",
+  "cancelled": "Dibatalkan Pendaftaran"
  }
 }
