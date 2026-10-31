@@ -15,7 +15,7 @@ last_modified_at: 2026-10-31
 ---
 
 <p class="key-answer" data-question="メトロニダゾールゲル０．７５％「マルイシ」 に関するニュースは？">
-<strong>メトロニダゾールゲル０．７５％「マルイシ」</strong> には現在 <strong>14 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>メトロニダゾールゲル０．７５％「マルイシ」</strong> には現在 <strong>13 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ last_modified_at: 2026-10-31
 <p><a href="{{ '/drugs/metronidazole/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（14 件）
+## 関連ニュース（13 件）
 
 ### [【闘病】2時間止まらない鼻血と白い塊… 正体はHPVによる『鼻腔がん』だった（メディカルドック）](https://news.google.com/rss/articles/CBMif0FVX3lxTFBQMmhaQU82bU1YQTRzMDRVd3h3UnFpVEVqZ1Z1OUtPTTZKbEF6SWU0N1V5Unh1VVRyb0I3alpGaFpvZTRSUnBSblJVQ3FOMUhvV0ZnWVRsbWh5VE9IZjA2RVoxQUJDdTVjeFZfUUhRUHRRVjcwd3Z0RE5FYXBKRDg?oc=5)
 
@@ -84,19 +84,19 @@ last_modified_at: 2026-10-31
 
 ---
 
-### [【大阪府摂津市】わずか6mLの採血でがん・認知リスクを評価する「メタロ・バランス検査」、「まつざき脳神経・頭痛クリニック千里丘」にて2026年12月19日(土)より検査開始 ＜ご予約受付中](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBrY05CQ3VTZmFkdExVLVpjUGlCVHlhS3Q4d1ExOV9DdkZyM0JTZ1Y0RGN5YVJfOFh5WDdvdDd4RFlMVU1Da3lYMDQ2OWIxQVd0aVFaU2pMR1Y?oc=5)
-
-2026-10-29 <span class="news-indication-tag">がん</span>
-
-出典: [オリコンニュース](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBrY05CQ3VTZmFkdExVLVpjUGlCVHlhS3Q4d1ExOV9DdkZyM0JTZ1Y0RGN5YVJfOFh5WDdvdDd4RFlMVU1Da3lYMDQ2OWIxQVd0aVFaU2pMR1Y?oc=5)
-
----
-
 ### [統合失調症の患者に”がん治療格差”　早期発見や手術率の低さが研究で判明…「誰一人取り残さない」治療体制のために(RSK山陽放送)](https://news.yahoo.co.jp/articles/6ff977a85cf83acabac7a4a8da6462b8dbe350d3?source=rss)
 
 2026-10-29 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">統合失調症</span>
 
 出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/6ff977a85cf83acabac7a4a8da6462b8dbe350d3?source=rss)
+
+---
+
+### [【大阪府摂津市】わずか6mLの採血でがん・認知リスクを評価する「メタロ・バランス検査」、「まつざき脳神経・頭痛クリニック千里丘」にて2026年12月19日(土)より検査開始 ＜ご予約受付中＞ - PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZdEFnSGMzc2JQTjQ0bHgzdC1tdVp5U0lucEVsdUxZZzhpMmpLWHRwYmg0QVBhcE12VXM1NWYzeVNjOWt3M090QkFVanY1eTNfcmREUmk0alcyVEVhN2U1cTFwTDlkZkFQZnc?oc=5)
+
+2026-10-29 <span class="news-indication-tag">がん</span>
+
+出典: [PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZdEFnSGMzc2JQTjQ0bHgzdC1tdVp5U0lucEVsdUxZZzhpMmpLWHRwYmg0QVBhcE12VXM1NWYzeVNjOWt3M090QkFVanY1eTNfcmREUmk0alcyVEVhN2U1cTFwTDlkZkFQZnc?oc=5)
 
 ---
 
@@ -145,14 +145,6 @@ last_modified_at: 2026-10-31
 2026-10-26 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">癌</span> <span class="news-indication-tag">腫瘍</span> <span class="news-indication-tag">直腸がん</span>
 
 出典: [Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース](https://news.google.com/rss/articles/CBMicEFVX3lxTE5QYTU3d3daMks1MzZSSWJucWNNOWhnZXpsM3I0RGhlOXF2UEhyajdTQlRFcWo0SDBNeXJKWnJKc2hnUzZGa3UzTUdoemFXUVFlVU02RGdjblZpMnFMTEJMdEtyQkRxc2pnTVNiXzdJaU0?oc=5)
-
----
-
-### [インフル対策で注目。「実はお米でいう玄米」免疫が２倍活性化！更年期世代の太りやすさ、血糖値までケアする神調味料は【医師が解説】 - OTONA SALONE](https://news.google.com/rss/articles/CBMiRkFVX3lxTE9EUmV6LS1aTnNiNmFvQUJyRDlzQ2I0aUtqRmpiVVdVVkNNUDEwdFFPLVh1RmpYT19DLUNFaHZVdHJUT0hGNGc?oc=5)
-
-2026-10-24 <span class="news-indication-tag">更年期</span>
-
-出典: [OTONA SALONE](https://news.google.com/rss/articles/CBMiRkFVX3lxTE9EUmV6LS1aTnNiNmFvQUJyRDlzQ2I0aUtqRmpiVVdVVkNNUDEwdFFPLVh1RmpYT19DLUNFaHZVdHJUT0hGNGc?oc=5)
 
 ---
 

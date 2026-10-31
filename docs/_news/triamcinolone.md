@@ -15,7 +15,7 @@ last_modified_at: 2026-10-31
 ---
 
 <p class="key-answer" data-question="レダコート軟膏０．１％（選） に関するニュースは？">
-<strong>レダコート軟膏０．１％（選）</strong> には現在 <strong>13 件</strong>の関連ニュースがあり、予測適応症は 8 件です。
+<strong>レダコート軟膏０．１％（選）</strong> には現在 <strong>12 件</strong>の関連ニュースがあり、予測適応症は 8 件です。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ last_modified_at: 2026-10-31
 <p><a href="{{ '/drugs/triamcinolone/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（13 件）
+## 関連ニュース（12 件）
 
 ### [【闘病】2時間止まらない鼻血と白い塊… 正体はHPVによる『鼻腔がん』だった（メディカルドック）](https://news.google.com/rss/articles/CBMif0FVX3lxTFBQMmhaQU82bU1YQTRzMDRVd3h3UnFpVEVqZ1Z1OUtPTTZKbEF6SWU0N1V5Unh1VVRyb0I3alpGaFpvZTRSUnBSblJVQ3FOMUhvV0ZnWVRsbWh5VE9IZjA2RVoxQUJDdTVjeFZfUUhRUHRRVjcwd3Z0RE5FYXBKRDg?oc=5)
 
@@ -74,14 +74,6 @@ last_modified_at: 2026-10-31
 
 ---
 
-### [【大阪府摂津市】わずか6mLの採血でがん・認知リスクを評価する「メタロ・バランス検査」、「まつざき脳神経・頭痛クリニック千里丘」にて2026年12月19日(土)より検査開始 ＜ご予約受付中](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBrY05CQ3VTZmFkdExVLVpjUGlCVHlhS3Q4d1ExOV9DdkZyM0JTZ1Y0RGN5YVJfOFh5WDdvdDd4RFlMVU1Da3lYMDQ2OWIxQVd0aVFaU2pMR1Y?oc=5)
-
-2026-10-29 <span class="news-indication-tag">がん</span>
-
-出典: [オリコンニュース](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBrY05CQ3VTZmFkdExVLVpjUGlCVHlhS3Q4d1ExOV9DdkZyM0JTZ1Y0RGN5YVJfOFh5WDdvdDd4RFlMVU1Da3lYMDQ2OWIxQVd0aVFaU2pMR1Y?oc=5)
-
----
-
 ### [統合失調症の患者に”がん治療格差”　早期発見や手術率の低さが研究で判明…「誰一人取り残さない」治療体制のために(RSK山陽放送)](https://news.yahoo.co.jp/articles/6ff977a85cf83acabac7a4a8da6462b8dbe350d3?source=rss)
 
 2026-10-29 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">統合失調症</span>
@@ -90,19 +82,19 @@ last_modified_at: 2026-10-31
 
 ---
 
+### [【大阪府摂津市】わずか6mLの採血でがん・認知リスクを評価する「メタロ・バランス検査」、「まつざき脳神経・頭痛クリニック千里丘」にて2026年12月19日(土)より検査開始 ＜ご予約受付中＞ - PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZdEFnSGMzc2JQTjQ0bHgzdC1tdVp5U0lucEVsdUxZZzhpMmpLWHRwYmg0QVBhcE12VXM1NWYzeVNjOWt3M090QkFVanY1eTNfcmREUmk0alcyVEVhN2U1cTFwTDlkZkFQZnc?oc=5)
+
+2026-10-29 <span class="news-indication-tag">がん</span>
+
+出典: [PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZdEFnSGMzc2JQTjQ0bHgzdC1tdVp5U0lucEVsdUxZZzhpMmpLWHRwYmg0QVBhcE12VXM1NWYzeVNjOWt3M090QkFVanY1eTNfcmREUmk0alcyVEVhN2U1cTFwTDlkZkFQZnc?oc=5)
+
+---
+
 ### [再発・難治性TFHリンパ腫対象のダサチニブP2試験、効果予測指標を解明－筑波大ほか](https://news.google.com/rss/articles/CBMidEFVX3lxTE9zSmNEVzdvUjF1TVZMeVhoTkExVzEzODcycGdycU1RUnJfZ09ZWC1WYktFa3Bac3dIX2NmOFR1dEhiUUVYa1F4QnVvR0xrSU5pOGtyWVZaTjg5MUxyZi1JQWhIM2RmbDl3REtkU1h2QXcycW5f?oc=5)
 
 2026-10-29 <span class="news-indication-tag">リンパ腫</span>
 
 出典: [QLifePro](https://news.google.com/rss/articles/CBMidEFVX3lxTE9zSmNEVzdvUjF1TVZMeVhoTkExVzEzODcycGdycU1RUnJfZ09ZWC1WYktFa3Bac3dIX2NmOFR1dEhiUUVYa1F4QnVvR0xrSU5pOGtyWVZaTjg5MUxyZi1JQWhIM2RmbDl3REtkU1h2QXcycW5f?oc=5)
-
----
-
-### [血糖値をコントロールする方法は、糖尿病に進行するリスクを軽減するのに役立ちます](https://news.google.com/rss/articles/CBMivgFBVV95cUxQOEQwdVFtNTRvNVhINVZ0Z3RKMHlOTnN2VzVBc3JWSWRPejBDa2tqTnVpN2NCYTZSY2pLVDBBZmEzUFpMTklHcWs2OElid2JzTlc5SVpFUTR3OHYyNGF4amtFZlZocGNxWUVmVG5aOFRmcldEN2R6WlM2U0Q5VFItN25sb1EwMnNxOEZ5SV9yQnNhOUFXSVFjN21ha29jV1UxUzAxVktKdVBSZnlzU1FCZlVSenhHSzIwSmRYN2xn?oc=5)
-
-2026-10-28 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心臓病</span>
-
-出典: [Laodong.vn](https://news.google.com/rss/articles/CBMivgFBVV95cUxQOEQwdVFtNTRvNVhINVZ0Z3RKMHlOTnN2VzVBc3JWSWRPejBDa2tqTnVpN2NCYTZSY2pLVDBBZmEzUFpMTklHcWs2OElid2JzTlc5SVpFUTR3OHYyNGF4amtFZlZocGNxWUVmVG5aOFRmcldEN2R6WlM2U0Q5VFItN25sb1EwMnNxOEZ5SV9yQnNhOUFXSVFjN21ha29jV1UxUzAxVktKdVBSZnlzU1FCZlVSenhHSzIwSmRYN2xn?oc=5)
 
 ---
 

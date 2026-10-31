@@ -68,19 +68,19 @@ last_modified_at: 2026-10-31
 
 ---
 
-### [【大阪府摂津市】わずか6mLの採血でがん・認知リスクを評価する「メタロ・バランス検査」、「まつざき脳神経・頭痛クリニック千里丘」にて2026年12月19日(土)より検査開始 ＜ご予約受付中](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBrY05CQ3VTZmFkdExVLVpjUGlCVHlhS3Q4d1ExOV9DdkZyM0JTZ1Y0RGN5YVJfOFh5WDdvdDd4RFlMVU1Da3lYMDQ2OWIxQVd0aVFaU2pMR1Y?oc=5)
-
-2026-10-29 <span class="news-indication-tag">がん</span>
-
-出典: [オリコンニュース](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBrY05CQ3VTZmFkdExVLVpjUGlCVHlhS3Q4d1ExOV9DdkZyM0JTZ1Y0RGN5YVJfOFh5WDdvdDd4RFlMVU1Da3lYMDQ2OWIxQVd0aVFaU2pMR1Y?oc=5)
-
----
-
 ### [統合失調症の患者に”がん治療格差”　早期発見や手術率の低さが研究で判明…「誰一人取り残さない」治療体制のために(RSK山陽放送)](https://news.yahoo.co.jp/articles/6ff977a85cf83acabac7a4a8da6462b8dbe350d3?source=rss)
 
 2026-10-29 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">統合失調症</span>
 
 出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/6ff977a85cf83acabac7a4a8da6462b8dbe350d3?source=rss)
+
+---
+
+### [【大阪府摂津市】わずか6mLの採血でがん・認知リスクを評価する「メタロ・バランス検査」、「まつざき脳神経・頭痛クリニック千里丘」にて2026年12月19日(土)より検査開始 ＜ご予約受付中＞ - PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZdEFnSGMzc2JQTjQ0bHgzdC1tdVp5U0lucEVsdUxZZzhpMmpLWHRwYmg0QVBhcE12VXM1NWYzeVNjOWt3M090QkFVanY1eTNfcmREUmk0alcyVEVhN2U1cTFwTDlkZkFQZnc?oc=5)
+
+2026-10-29 <span class="news-indication-tag">がん</span>
+
+出典: [PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZdEFnSGMzc2JQTjQ0bHgzdC1tdVp5U0lucEVsdUxZZzhpMmpLWHRwYmg0QVBhcE12VXM1NWYzeVNjOWt3M090QkFVanY1eTNfcmREUmk0alcyVEVhN2U1cTFwTDlkZkFQZnc?oc=5)
 
 ---
 
