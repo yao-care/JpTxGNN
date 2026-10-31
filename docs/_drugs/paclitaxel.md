@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 234
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "Paclitaxel"
 predicted_indications: ["parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 description: "Paclitaxel：予測新適応症はParameningeal embryonal rhabdomyosarcoma（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
@@ -135,7 +135,7 @@ description: "Paclitaxel：予測新適応症はParameningeal embryonal rhabdomy
 **進める場合に必要なもの：**
 - PMDA の添付文書から警告・禁忌を取得し、安全性スクリーニングを行うこと
 - 作用機序（MOA）データの補完（DrugBank などから）
-- 有効な販売承認の有無の確認（現状は整理済みのみ）
+- 有効な販売承認の有無の確認
 - 骨髄抑制、末梢神経障害、過敏反応に対するモニタリング計画
 - 相互作用が中等度の併用薬（CYP 関連薬など）の管理方針
 

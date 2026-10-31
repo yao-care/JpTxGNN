@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "temozolomide"
 predicted_indications: ["cauda equina neoplasm"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Temozolomide：予測新適応症は馬尾腫瘍 (Cauda equina neoplasm)（エビデンスレベル L4）."
 ---
 
@@ -50,8 +50,8 @@ TxGNN モデルは**馬尾腫瘍 (Cauda equina neoplasm)** に有効である可
 | 予測新規適応症 | 馬尾腫瘍 (Cauda equina neoplasm) |
 | TxGNN 予測スコア | 0.9930 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 国内未承認（承認記録なし） |
-| 承認番号数 | 0 件（有効 0 件） |
+| 日本市販状況 | 販売中（有効な承認 5 件／全 5 件） |
+| 承認番号数 | 5 件（有効 5 件） |
 | 推奨決定 | Hold |
 
 ※ 馬尾部の脊髄粘液乳頭状上衣腫の症例報告が 1 編あり、この疾患領域を直接扱っているため L4 としています。ただし症例報告のみで、質の高い研究はありません。

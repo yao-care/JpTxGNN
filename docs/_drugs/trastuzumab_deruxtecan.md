@@ -5,7 +5,7 @@ layout: default
 title: Trastuzumab Deruxtecan
 parent: 既知の用途のみ（新規予測なし）
 nav_order: 181
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 predicted_indications: []
 indication_count: 0
 evidence_level: N/A
@@ -41,5 +41,5 @@ evidence_level: N/A
 | 項目 | 内容 |
 |------|------|
 | 既存適応症 | 日本の承認情報に適応症の記載なし |
-| 日本市販状況 | 国内未承認（承認記録なし） |
-| 承認番号数 | 0 件（有効 0 件） |
+| 日本市販状況 | 販売中（有効な承認 1 件／全 1 件） |
+| 承認番号数 | 1 件（有効 1 件） |

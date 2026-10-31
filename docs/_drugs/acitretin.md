@@ -3,7 +3,7 @@ layout: default
 title: Acitretin
 parent: 既知の用途のみ（新規予測なし）
 nav_order: 14
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Acitretin: 日本における既知の用途と市場状況。現時点で新たな候補適応症はありません"
 predicted_indications: []
 indication_count: 0
@@ -43,7 +43,7 @@ TxGNNモデルでは、Acitretin(アシトレチン)についてスコア0.99以
 ## 早見表
 | 項目 | 内容 |
 |------|------|
-| 日本市販状況 | 国内未承認（承認記録なし） |
+| 日本市販状況 | 本サイトのデータ（薬価基準収載医薬品マスター）に該当品目なし（国内の承認状況は未確認） |
 | 承認番号数 | 0 件（有効 0 件） |
 | この薬剤について記録されている既知の用途 | 1 |
 

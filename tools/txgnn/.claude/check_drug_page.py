@@ -304,6 +304,8 @@ NO_CENTRAL = {
     "NOTxGNN": "Ingen sentral EU-godkjenning (EMA) registrert – nasjonale markedsføringstillatelser (DMP) finnes ikke i dataene som er brukt her",
     # 2026-10-31：TH 的來源是 Thai FDA 查詢系統（只收ทะเบียนตำรับยาแผนปัจจุบัน），查不到不等於沒有藥（例：morphine 在國家基本藥物目錄裡）
     "ThTxGNN": "ไม่พบทะเบียนตำรับยาในระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย.",
+    # 2026-10-31（pm）：JP 的來源是藥價基準收載醫藥品マスター，不收 OTC 等未收載品目，查不到不等於國內未承認
+    "JpTxGNN": "本サイトのデータ（薬価基準収載医薬品マスター）に該当品目なし（国内の承認状況は未確認）",
 }
 
 
@@ -426,6 +428,18 @@ ALL_CANCEL = re.compile(
     r"\b(kesemua|semua)\b[^.\n]{0,40}pendaftaran[^.\n]{0,30}dibatalkan|tiada pendaftaran (yang )?sah|"
     r"جميع التراخيص[^.\n]{0,40}(ملغا|ملغى|ملغية|أُلغيت|ألغيت)|لا توجد تراخيص سارية|لا يوجد ترخيص ساري|"
     r"(ทั้งหมด|ทุกรายการ)[^.\n]{0,30}ยกเลิก|ไม่มีทะเบียนที่ยังมีผล", re.I)
+# 2026-10-31（pm 退件 BR）：「只有註銷的許可」這類說法（沒寫未上市、但說只剩註銷登記），事實有有效許可時跟狀態列矛盾。
+# 句中同時提到有效／現行許可（POS_VALID）的不算（例：「2 張註銷、3 張有效」）。單純提到「另有 4 個註銷登記」不算，
+# 只抓括號斷言「(registro cancelado)」與「apenas／solo … cancelado」這類「只有」的說法。
+ONLY_CANCEL = re.compile(
+    r"\bonly\b[^.\n]{0,30}(cancel+ed|revoked|withdrawn|expired|lapsed|inactive)\b|\bno (currently )?(valid|active) product|"
+    r"\b(apenas|somente|só)\b[^.\n]{0,30}(cancelad|inativ)|\(registros? cancelados?\)|sem produto (atualmente )?(válido|ativo|vigente)|"
+    r"\b(solo|sólo|únicamente)\b[^.\n]{0,30}(anulad|cancelad|revocad)|\(registros? (anulad|cancelad)[oa]s?\)|sin producto (actualmente )?(válido|vigente)|"
+    r"\b(uniquement|seulement)\b[^.\n]{0,30}(annulé|abrogé|retiré)|\bnur\b[^.\n]{0,30}(erloschen|widerrufen|zurückgezogen)|"
+    r"\bsolo\b[^.\n]{0,30}(revocat|annullat|cessat)|\balleen\b[^.\n]{0,30}(ingetrokken|doorgehaald|vervallen)|"
+    r"\bendast\b[^.\n]{0,30}(avregistrer|återkall)|\bkun\b[^.\n]{0,30}(avregistrer|afregistrer|tilbakekall|tilbagekald)|"
+    r"\bvain\b[^.\n]{0,30}perut|(取消|整理|失効)(済み|された承認)?のみ|취소된 허가(만|뿐)|(僅有|只有|僅存)已?(註銷|撤銷)|"
+    r"\bhanya\b[^.\n]{0,30}dibatalkan|فقط[^.\n]{0,30}(ملغا|ملغى|ملغية)|มีเพียง[^.\n]{0,30}ยกเลิก", re.I)
 NOT_MKT_CLAIM = re.compile(
     r"\bnot (currently )?marketed\b|\bno longer (marketed|available|has any valid)|\bno longer on the market|"
     r"\bno (longer has any |currently )?valid licen|\bdoes not have any valid|\bhas no valid|"
@@ -999,7 +1013,7 @@ def check_page(site, f, cls, want_noindex):
             if line.startswith("|") or line.startswith("#"):
                 continue
             for s in sentences(line):
-                if v > 0 and (ALL_CANCEL.search(s) or NOT_MKT_CLAIM.search(s) or (NOT_MKT_LOOSE.search(s) and not POS_VALID.search(s))) \
+                if v > 0 and (ALL_CANCEL.search(s) or NOT_MKT_CLAIM.search(s) or ((NOT_MKT_LOOSE.search(s) or ONLY_CANCEL.search(s)) and not POS_VALID.search(s))) \
                         and not (still_valid_ok(s) and not NOT_MKT_CLAIM.search(s)):
                     E("M3", f"事實有效 {v} 張，正文寫全部註銷：{s[:60]}")
                 elif ms in ("Cancelled only", "Not marketed") and (marketed_word(lang) in s or MKT_CLAIM_EXTRA.search(s)) and not mv2.NEG.search(s):

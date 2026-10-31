@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Empagliflozin"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Empagliflozin：予測新適応症はfocal stiff limb syndrome（局所性スティフ・リム症候群）（エビデンスレベル L5）。既存適応症：2 型糖尿病"
 ---
 
@@ -89,7 +89,7 @@ focal stiff limb syndrome は、スティフパーソン症候群の仲間に属
 
 **理由：**
 - 根拠は TxGNN の予測スコアのみで、臨床試験も文献もなく、機序的な関連も確認できません。
-- 日本での承認は取消済みのみで、安全性に関する添付文書情報も確認できていません。
+- 安全性に関する添付文書情報も確認できていません。
 
 **進める場合に必要なもの：**
 - 作用機序（MOA）データの取得

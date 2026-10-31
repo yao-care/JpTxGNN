@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 345
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "zolmitriptan"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
 description: "Zolmitriptan：予測新適応症はAtrophoderma vermiculata（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
@@ -115,7 +115,7 @@ description: "Zolmitriptan：予測新適応症はAtrophoderma vermiculata（エ
 - 詳細な作用機序データ（MOA）の補充
 - 脳幹性前兆を伴う片頭痛を対象とした臨床データまたは専門家の評価
 - 脳血管系・心血管系リスクに関する評価と、対象患者の選定基準の設定
-- 日本での承認状況の再確認（現在は取消のみ）
+- 日本での承認状況の再確認
 
 ---
 

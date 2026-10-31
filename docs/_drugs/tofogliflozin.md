@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Tofogliflozin"
 predicted_indications: ["opsismodysplasia", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Tofogliflozin：予測新適応症はオプシスモディスプラジア (Opsismodysplasia)（エビデンスレベル L5）。既存適応症：2型糖尿病"
 ---
 
@@ -81,7 +81,7 @@ TxGNN モデルは**オプシスモディスプラジア (Opsismodysplasia)** �
 
 **理由：**
 - 予測スコアは高い（0.9946）ものの、臨床試験・文献が一件もなく、機序的な関連も見いだせません。
-- さらに日本での承認は取消のみで、現時点で再利用を進める根拠は不足しています。
+- 現時点で再利用を進める根拠は不足しています。
 
 **進める場合に必要なもの：**
 - PMDA の添付文書に基づく警告・禁忌情報の取得（安全性スクリーニングの前提）

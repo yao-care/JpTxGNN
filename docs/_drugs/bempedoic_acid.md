@@ -3,7 +3,7 @@ layout: default
 title: Bempedoic Acid
 parent: 既知の用途のみ（新規予測なし）
 nav_order: 50
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Bempedoic Acid: 日本における既知の用途と市場状況。現時点で新たな候補適応症はありません"
 predicted_indications: []
 indication_count: 0
@@ -43,8 +43,8 @@ TxGNN深層学習モデルは、Bempedoic Acid(ベムペド酸)についてス�
 ## 早見表
 | 項目 | 内容 |
 |------|------|
-| 日本市販状況 | 国内未承認（承認記録なし） |
-| 承認番号数 | 0 件（有効 0 件） |
+| 日本市販状況 | 販売中（有効な承認 1 件／全 1 件） |
+| 承認番号数 | 1 件（有効 1 件） |
 | この薬剤に記録されている既知の用途 | 2 |
 
 ## この薬剤に記録されている既知の用途
