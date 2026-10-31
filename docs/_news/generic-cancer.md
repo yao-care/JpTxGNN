@@ -3,7 +3,7 @@ layout: default
 title: "がん (generic_cancer) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "がん (generic_cancer) に関する健康ニュース。ニュース 10 件、関連医薬品 67 件。"
+description: "がん (generic_cancer) に関する健康ニュース。ニュース 11 件、関連医薬品 67 件。"
 permalink: /news/generic-cancer/
 last_modified_at: 2026-10-31
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-31
 ---
 
 <p class="key-answer" data-question="がん (generic_cancer) に関するニュースは？">
-<strong>がん (generic_cancer)</strong> には現在 <strong>10 件</strong>の関連ニュースと 67 件の関連医薬品があります。
+<strong>がん (generic_cancer)</strong> には現在 <strong>11 件</strong>の関連ニュースと 67 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -94,7 +94,7 @@ last_modified_at: 2026-10-31
 </ul>
 </div>
 
-## 関連ニュース（10 件）
+## 関連ニュース（11 件）
 
 ### [【闘病】2時間止まらない鼻血と白い塊… 正体はHPVによる『鼻腔がん』だった（メディカルドック）](https://news.google.com/rss/articles/CBMif0FVX3lxTFBQMmhaQU82bU1YQTRzMDRVd3h3UnFpVEVqZ1Z1OUtPTTZKbEF6SWU0N1V5Unh1VVRyb0I3alpGaFpvZTRSUnBSblJVQ3FOMUhvV0ZnWVRsbWh5VE9IZjA2RVoxQUJDdTVjeFZfUUhRUHRRVjcwd3Z0RE5FYXBKRDg?oc=5)
 
@@ -165,6 +165,14 @@ last_modified_at: 2026-10-31
 2026-10-27
 
 出典: [保健指導リソースガイド](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JbXQ4MXk1Q1RFZWViLWItcUw1NnhMMVlod1VWYm9tMEJqREVpOEQ0MVcyNlB0ZC0zT2Z4b1ZEaldueDF0dXJnSVV3MDl4Rk5HSnhmR3VHanRVSXhmWkFTTE8tOHNRNkVp?oc=5)
+
+---
+
+### [がんワクチン市場の見通し:CERVAVACなどの四価ワクチンが成長を牽引、2030年までに182億ドルへ](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LRkFUQlN3RWlWMFh2OGxya2tJSndNSFJLVHBFWlJMRUZUZ2ZiSzhpdnpLa0FhLVBlcU4wUzdKYWRYQmwtQ1hGQ3I2UVF6LTFQUDlz?oc=5)
+
+2026-10-27
+
+出典: [ドリームニュース](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LRkFUQlN3RWlWMFh2OGxya2tJSndNSFJLVHBFWlJMRUZUZ2ZiSzhpdnpLa0FhLVBlcU4wUzdKYWRYQmwtQ1hGQ3I2UVF6LTFQUDlz?oc=5)
 
 ---
 

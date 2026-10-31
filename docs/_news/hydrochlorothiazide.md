@@ -15,7 +15,7 @@ last_modified_at: 2026-10-31
 ---
 
 <p class="key-answer" data-question="プレミネント配合錠ＨＤ（選） に関するニュースは？">
-<strong>プレミネント配合錠ＨＤ（選）</strong> には現在 <strong>11 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>プレミネント配合錠ＨＤ（選）</strong> には現在 <strong>12 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ last_modified_at: 2026-10-31
 <p><a href="{{ '/drugs/hydrochlorothiazide/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（11 件）
+## 関連ニュース（12 件）
 
 ### [【闘病】2時間止まらない鼻血と白い塊… 正体はHPVによる『鼻腔がん』だった（メディカルドック）](https://news.google.com/rss/articles/CBMif0FVX3lxTFBQMmhaQU82bU1YQTRzMDRVd3h3UnFpVEVqZ1Z1OUtPTTZKbEF6SWU0N1V5Unh1VVRyb0I3alpGaFpvZTRSUnBSblJVQ3FOMUhvV0ZnWVRsbWh5VE9IZjA2RVoxQUJDdTVjeFZfUUhRUHRRVjcwd3Z0RE5FYXBKRDg?oc=5)
 
@@ -101,6 +101,14 @@ last_modified_at: 2026-10-31
 2026-10-27 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">2型糖尿病</span>
 
 出典: [保健指導リソースガイド](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JbXQ4MXk1Q1RFZWViLWItcUw1NnhMMVlod1VWYm9tMEJqREVpOEQ0MVcyNlB0ZC0zT2Z4b1ZEaldueDF0dXJnSVV3MDl4Rk5HSnhmR3VHanRVSXhmWkFTTE8tOHNRNkVp?oc=5)
+
+---
+
+### [がんワクチン市場の見通し:CERVAVACなどの四価ワクチンが成長を牽引、2030年までに182億ドルへ](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LRkFUQlN3RWlWMFh2OGxya2tJSndNSFJLVHBFWlJMRUZUZ2ZiSzhpdnpLa0FhLVBlcU4wUzdKYWRYQmwtQ1hGQ3I2UVF6LTFQUDlz?oc=5)
+
+2026-10-27 <span class="news-indication-tag">がん</span>
+
+出典: [ドリームニュース](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LRkFUQlN3RWlWMFh2OGxya2tJSndNSFJLVHBFWlJMRUZUZ2ZiSzhpdnpLa0FhLVBlcU4wUzdKYWRYQmwtQ1hGQ3I2UVF6LTFQUDlz?oc=5)
 
 ---
 

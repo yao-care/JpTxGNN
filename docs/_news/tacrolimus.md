@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "プログラフカプセル１ｍｇ（選） に関する健康ニュース。予測適応症 2 件。"
 permalink: /news/tacrolimus/
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 ---
 
 # プログラフカプセル１ｍｇ（選） 関連ニュース
@@ -36,11 +36,11 @@ last_modified_at: 2026-10-30
 
 ## 関連ニュース（1 件）
 
-### [小児乾癬を、子ども自身にやさしく伝える啓発小冊子を制作 - RBB TODAY](https://news.google.com/rss/articles/CBMieEFVX3lxTE1TMm52a3dPeEktWU55WnBQUHo0SXo3U1p0RlVhdjBLTC1CdGotcDFjby1tSFpxc0VETVpwSDFEOHJyRlBpeFh5LW9FTnF1UF9TTGZjNFpnWWQxN2ZKaC1QQWNJVkVVQmF5OGN0SEttbEhDbXdhRDJSRQ?oc=5)
+### [IFPA：2026年世界乾癬デー、若者たちが偏見と差別に対して声を上げる](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YUXpYclNTYjVNUDkyc2ZvODZwY2dzYVpsZWwzOXBsUFZpTW13aHZfeTJfeWdYakhyUWtxVktxSVBsckVhM3FfQlRQbTdJQjk1Wjd6QzVtVi1VVlZr?oc=5)
 
 2026-10-29 <span class="news-indication-tag">乾癬</span>
 
-出典: [RBB TODAY](https://news.google.com/rss/articles/CBMieEFVX3lxTE1TMm52a3dPeEktWU55WnBQUHo0SXo3U1p0RlVhdjBLTC1CdGotcDFjby1tSFpxc0VETVpwSDFEOHJyRlBpeFh5LW9FTnF1UF9TTGZjNFpnWWQxN2ZKaC1QQWNJVkVVQmF5OGN0SEttbEhDbXdhRDJSRQ?oc=5)
+出典: [河北新報オンライン](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9YUXpYclNTYjVNUDkyc2ZvODZwY2dzYVpsZWwzOXBsUFZpTW13aHZfeTJfeWdYakhyUWtxVktxSVBsckVhM3FfQlRQbTdJQjk1Wjd6QzVtVi1VVlZr?oc=5)
 
 ---
 
