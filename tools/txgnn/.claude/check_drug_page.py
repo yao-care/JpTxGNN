@@ -408,7 +408,7 @@ NOT_REG = {"en": "Not marketed (no licence on record)",
 "ar": "غير مسوق (لا يوجد ترخيص مسجل)",
 "sv": "Inte marknadsförd (inget godkännande registrerat)",
 "th": "ไม่มีจำหน่าย (ไม่พบทะเบียน)"}
-KR_UNKNOWN = "Unknown (source lacks cancellation status)"
+KR_UNKNOWN = "Unknown (source lacks cancellation status)"  # Kr 舊規則用語（2026-10-31 起 Kr 依 nedrug 註銷狀態，與其他站相同）
 # M3（pm C1）：正文說全部註銷／沒有有效許可證，但事實有有效許可證；或事實全部註銷，正文卻說上市中
 _LIC = r"(licen[cs]es?|authori[sz]ations?|registrations?|NDAs?|approvals?|registros?|autorizaci\w+|Zulassungen|AMM|autorisations?|" \
        r"autorizzazioni|vergunningen|registraties|tilladelser|godkjenninger|tillatelser|godkännanden|tillstånd|lupa\w*|pendaftaran|التراخيص|تراخيص|ทะเบียน)"
@@ -950,9 +950,6 @@ def check_page(site, f, cls, want_noindex):
     st = status_row(site, all_rows)
     if not fc:
         E("M1", "沒有 license_facts")
-    elif site == "KrTxGNN":
-        if st is None or KR_UNKNOWN not in st[1]:
-            E("M1", f"kr 狀態列≠{KR_UNKNOWN}：{(st or ['', ''])[1][:40]}")
     else:
         ms, v, n, partial = fc.get("market_status"), fc.get("valid"), fc.get("total"), fc.get("partial")
         tl = mv2.T.get(lang) or mv2.T["en"]
@@ -996,7 +993,7 @@ def check_page(site, f, cls, want_noindex):
                 if lic.get(k) == "valid" and mv2.TABLE_NEG.search(" ".join(cells[1:])):
                     E("M1", f"有效許可證 {cells[0]} 寫成註銷")
     # M3（pm C1）：正文市場說法與事實矛盾
-    if fc and site != "KrTxGNN":
+    if fc:
         ms, v = fc.get("market_status"), fc.get("valid") or 0
         for line in strip_managed(body).split("\n") + [desc]:
             if line.startswith("|") or line.startswith("#"):

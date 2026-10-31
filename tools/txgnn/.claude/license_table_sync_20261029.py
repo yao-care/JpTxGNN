@@ -170,9 +170,7 @@ def sync_market_rows(site, dry=False):
         st = ck.status_row(site, rows)
         if st and site != "TwTxGNN":
             want = None
-            if site == "KrTxGNN":
-                want = ck.KR_UNKNOWN
-            elif ms == "Marketed":
+            if ms == "Marketed":  # Kr 2026-10-31 起依 nedrug 註銷狀態，與其他站相同
                 want = ck.marketed_text(site, lang, v, n, partial)
             elif ms == "Approved, not marketed":
                 want = ck.NOT_MKT.get(lang, ck.NOT_MKT["en"]).format(n=n)
@@ -183,7 +181,7 @@ def sync_market_rows(site, dry=False):
             if want and st[1] != want:
                 ch.append((st[0], st[1], want))
         cr = ck.count_row(site, rows)
-        if cr and site not in ("TwTxGNN", "KrTxGNN") and n is not None:
+        if cr and site != "TwTxGNN" and n is not None:
             want_c = tl[3].format(n=n) if partial else tl[2].format(n=n, v=v or 0)
             if cr[1] != want_c:
                 ch.append((cr[0], cr[1], want_c))

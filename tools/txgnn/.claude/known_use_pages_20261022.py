@@ -267,8 +267,8 @@ def facts_for(site, page):
         mk = f"Cancelled only: {fa.get('total')} licence(s) on record, none valid"
     elif fa.get("market_status") == "Approved, not marketed":  # 與 check_drug_page.NOT_MKT 同一份字彙
         mk = _ck().NOT_MKT.get(lang, _ck().NOT_MKT["en"]).format(n=fa.get("total"))
-    elif site == "KrTxGNN" or str(fa.get("market_status", "")).startswith("Unknown"):
-        mk = _ck().KR_UNKNOWN if site == "KrTxGNN" else "Unknown (the data source does not record cancellation status)"
+    elif str(fa.get("market_status", "")).startswith("Unknown"):
+        mk = "Unknown (the data source does not record cancellation status)"
     else:
         mk = "No licence found in this site's data"
     hi = [x for x in b["drug"].get("predicted_indications", []) if (x.get("txgnn_score") or 0) >= kf.SCORE_MIN

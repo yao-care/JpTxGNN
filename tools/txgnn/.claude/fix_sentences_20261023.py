@@ -117,7 +117,7 @@ def bad_lines(site, t, kept, excluded, kept_sc, cls="keep", removed=(), facts=No
                 hit = True
                 why[i] = ("P2", "Scores in this line must be exactly one of the listed scores, 4 decimals, never %.")
         # M3：正文市場說法與事實矛盾
-        if not hit and facts and site != "KrTxGNN" and not line.startswith(("|", "#")):
+        if not hit and facts and not line.startswith(("|", "#")):
             v = facts.get("valid") or 0
             if (v > 0 and ck.ALL_CANCEL.search(line)) or (facts.get("market_status") in ("Cancelled only", "Not marketed") and
                     (ck.marketed_word(lang) in line or ck.MKT_CLAIM_EXTRA.search(line)) and not ck.mv2.NEG.search(line)):

@@ -235,8 +235,6 @@ def status_value(site, fc):
     """與 apply_programmatic 同一套多語狀態句"""
     lang = ck.LANG.get(site, "en")
     tl = ck.mv2.T.get(lang) or ck.mv2.T["en"]
-    if site == "KrTxGNN":
-        return ck.KR_UNKNOWN
     ms, v, n, partial = fc.get("market_status"), fc.get("valid"), fc.get("total"), fc.get("partial")
     if ms == "Marketed":
         return ck.marketed_text(site, lang, v, n, partial)
@@ -292,11 +290,7 @@ def ensure_status_rows(site, page, text, start):
     want = status_value(site, fc) if fc else NOT_RECORDED[lang_of(site)]
     if want is None:
         want = NOT_RECORDED[lang_of(site)]
-    if st is not None:
-        if site == "KrTxGNN" and st[1] != want:
-            i = next(i for i, r in zip(ov, rows) if r[0] == st[0])
-            set_row(lines, i, want)
-            return "\n".join(lines)
+    if st is not None:  # 已有狀態列：值由 apply_programmatic／license_table_sync 依事實改
         return text
     at = next((i for i, r in zip(ov, rows) if ck.ORIG_ROW.search(r[0])), ov[0] - 1 if ov else None)
     lines.insert(at + 1, f"| {lab} | {want} |")
