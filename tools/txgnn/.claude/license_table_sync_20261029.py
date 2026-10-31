@@ -181,8 +181,9 @@ def sync_market_rows(site, dry=False):
             if want and st[1] != want:
                 ch.append((st[0], st[1], want))
         cr = ck.count_row(site, rows)
-        if cr and site != "TwTxGNN" and n is not None:
-            want_c = tl[3].format(n=n) if partial else tl[2].format(n=n, v=v or 0)
+        if cr and site != "TwTxGNN" and (n is not None or partial):
+            # 部分紀錄（total 為空）也要同步：用已收錄張數寫「至少 N」，與狀態列一致（2026-10-31 pm 退件 BR：張數列被跳過而留舊值）
+            want_c = tl[3].format(n=n if n is not None else len(fc.get("licenses") or {})) if partial else tl[2].format(n=n, v=v or 0)
             if cr[1] != want_c:
                 ch.append((cr[0], cr[1], want_c))
         if not ch:
