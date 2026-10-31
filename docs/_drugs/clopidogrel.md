@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Clopidogrel"
 predicted_indications: ["migraine with brainstem aura", "migraine disorder", "osteoarthritis", "tendinitis", "idiopathic granulomatous myositis", "myositis fibrosa", "rheumatoid arthritis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Clopidogrel：予測新適応症は片頭痛 (Migraine Disorder)。順位 1 位は脳幹性前兆を伴う片頭痛 (Migraine with Brainstem A…（エビデンスレベル L2）。既存適応症：抗凝固薬、血小板凝集抑制薬、P2Y12阻害薬"
 ---
 
@@ -52,7 +52,7 @@ TxGNN モデルは、上位予測の一つである**片頭痛 (Migraine Disorde
 | TxGNN 予測スコア | 0.9944 |
 | エビデンスレベル | L5 |
 | 日本市販状況 | 販売中（有効な承認 20 件以上） |
-| 承認番号数 | 20 件（すべて整理済み） |
+| 承認番号数 | 20 件以上 |
 | 推奨決定 | Proceed with Guardrails |
 
 ## この予測が妥当である理由

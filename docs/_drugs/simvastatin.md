@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 282
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "Simvastatin"
 predicted_indications: ["brain stem infarction", "cholesterol-ester transfer protein deficiency", "HIV infectious disease", "ABri amyloidosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Simvastatin：予測新適応症はBrain stem infarction（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
@@ -51,7 +51,7 @@ description: "Simvastatin：予測新適応症はBrain stem infarction（エビ�
 | TxGNN 予測スコア | 0.9941 |
 | エビデンスレベル | L5 |
 | 日本市販状況 | 販売中（有効な承認 20 件以上） |
-| 承認番号数 | 20 件 |
+| 承認番号数 | 20 件以上 |
 | 推奨決定 | Proceed with Guardrails |
 
 ## この予測が妥当である理由

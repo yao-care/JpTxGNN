@@ -5,7 +5,7 @@ parent: 中エビデンスレベル
 nav_order: 331
 evidence_level: L4
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Valsartan：予測新適応症は悪性高血圧性腎疾患 (malignant hypertensive renal disease)（エビデンスレベル L4）。既存適応症：高血圧症"
 monitor_inn: "Valsartan"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease", "Prinzmetal angina"]
@@ -50,7 +50,7 @@ TxGNN モデルは**悪性高血圧性腎疾患 (malignant hypertensive renal di
 | TxGNN 予測スコア | 0.9997 |
 | エビデンスレベル | L4 |
 | 日本市販状況 | 販売中（有効な承認 20 件以上） |
-| 承認番号数 | 20 件（すべて取り消し） |
+| 承認番号数 | 20 件以上 |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由

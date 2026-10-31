@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 314
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "tolvaptan"
 predicted_indications: ["renal-hepatic-pancreatic dysplasia", "karyomegalic interstitial nephritis", "thoracic malformation", "Joubert syndrome with renal defect", "adult familial nephronophthisis-spastic quadriparesia syndrome", "Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature"]
 description: "Tolvaptan：予測新適応症はRenal-hepatic-pancreatic dysplasia（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
@@ -50,7 +50,7 @@ TxGNN モデルは**多発性嚢胞腎 3 型（多発性嚢胞肝を伴う場合
 | TxGNN 予測スコア | 0.9998 |
 | エビデンスレベル | L5 |
 | 日本市販状況 | 販売中（有効な承認 20 件以上） |
-| 承認番号数 | 20 件（有効 0 件、整理済み 20 件） |
+| 承認番号数 | 20 件以上 |
 | 推奨決定 | Proceed with Guardrails |
 
 ## この予測が妥当である理由

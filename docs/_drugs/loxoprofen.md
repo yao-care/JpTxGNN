@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Loxoprofen"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Loxoprofen：予測新適応症はコロボーマ性小眼球症－根肢近位型異形成症候群 (colobomatous microphthalmia-rhizomelic dyspla…（エビデンスレベル L5）。既存適応症：関節リウマチ"
 ---
 
@@ -50,7 +50,7 @@ TxGNN モデルは**コロボーマ性小眼球症－根肢近位型異形成症
 | TxGNN 予測スコア | 0.9980 |
 | エビデンスレベル | L5 |
 | 日本市販状況 | 販売中（有効な承認 20 件以上） |
-| 承認番号数 | 20 件 |
+| 承認番号数 | 20 件以上 |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由

@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 78
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "Codeine"
 predicted_indications: ["nasal cavity disease", "trigeminal autonomic cephalalgia", "allergic urticaria"]
 description: "Codeine：予測新適応症は鼻腔疾患 (nasal cavity disease)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
@@ -50,7 +50,7 @@ TxGNN モデルは**鼻腔疾患 (nasal cavity disease)** に有効である可�
 | TxGNN 予測スコア | 0.9993 |
 | エビデンスレベル | L5 |
 | 日本市販状況 | 販売中（有効な承認 20 件以上） |
-| 承認番号数 | 20 件（すべて失効・取消） |
+| 承認番号数 | 20 件以上 |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由

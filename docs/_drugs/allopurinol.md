@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Allopurinol"
 predicted_indications: ["hepatic porphyria", "hepatoportal sclerosis", "hepatopulmonary syndrome", "early-onset familial noncirrhotic portal hypertension", "idiopathic copper-associated cirrhosis", "primitive portal vein thrombosis", "disorder of phenylalanine metabolism", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "inflammatory myopathy with abundant macrophages"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Allopurinol：予測新適応症は肝性ポルフィリン症（エビデンスレベル L5）。既存適応症：痛風（尿酸生合成抑制薬、キサンチンオキシダーゼ阻害薬）"
 ---
 
@@ -51,7 +51,7 @@ TxGNN モデルは**肝性ポルフィリン症 (Hepatic Porphyria)** に有効�
 | TxGNN 予測スコア | 0.9995 |
 | エビデンスレベル | L5 |
 | 日本市販状況 | 販売中（有効な承認 20 件以上） |
-| 承認番号数 | 少なくとも 20 件（一覧は一部のみの可能性あり） |
+| 承認番号数 | 20 件以上 |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由

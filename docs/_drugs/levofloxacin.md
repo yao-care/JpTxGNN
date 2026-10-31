@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 185
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Levofloxacin：予測新適応症は点状表層角結膜炎 (punctate epithelial keratoconjunctivitis)（エビデンスレベル L4）。既存適応症：抗菌薬（核酸合成阻害薬）：眼瞼炎、結膜炎、肺炎マイコプラズマ、胆嚢炎、腸チフス、パラチフス、コレラ、歯周組織炎、炭疽、ブルセラ症、ペスト…"
 monitor_inn: "Levofloxacin"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder"]
@@ -51,7 +51,7 @@ TxGNN モデルは **点状表層角結膜炎 (punctate epithelial keratoconjunc
 | TxGNN 予測スコア | 0.9992 |
 | エビデンスレベル | L5 |
 | 日本市販状況 | 販売中（有効な承認 20 件以上） |
-| 承認番号数 | 20 件（すべて取消済み） |
+| 承認番号数 | 20 件以上 |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由

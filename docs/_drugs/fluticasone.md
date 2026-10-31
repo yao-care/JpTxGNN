@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Fluticasone"
 predicted_indications: ["migraine disorder", "Prinzmetal angina", "migraine with brainstem aura"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Fluticasone：予測新適応症は片頭痛 (Migraine Disorder)（エビデンスレベル L5）。既存適応症：承認適応症の文言は未取得（製品は点鼻液・吸入剤）"
 ---
 
@@ -50,7 +50,7 @@ TxGNN モデルは**片頭痛 (Migraine Disorder)** に有効である可能性�
 | TxGNN 予測スコア | 0.9920 |
 | エビデンスレベル | L5 |
 | 日本市販状況 | 販売中（有効な承認 20 件以上） |
-| 承認番号数 | 20 件（有効 0 件、整理済み 20 件） |
+| 承認番号数 | 20 件以上 |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Metformin"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Metformin：予測新適応症は焦点性スティッフリム症候群 (focal stiff limb syndrome)（エビデンスレベル L5）。既存適応症：2型糖尿病、多嚢胞性卵巣症候群"
 ---
 
@@ -50,7 +50,7 @@ TxGNN モデルは**焦点性スティッフリム症候群 (focal stiff limb sy
 | TxGNN 予測スコア | 0.9945 |
 | エビデンスレベル | L5 |
 | 日本市販状況 | 販売中（有効な承認 20 件以上） |
-| 承認番号数 | 20 件（すべて取り消し済み） |
+| 承認番号数 | 20 件以上 |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由

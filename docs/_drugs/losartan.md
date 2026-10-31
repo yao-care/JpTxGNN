@@ -5,7 +5,7 @@ parent: 中エビデンスレベル
 nav_order: 196
 evidence_level: L4
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Losartan：予測新適応症は悪性高血圧性腎疾患 (Malignant Hypertensive Renal Disease)（エビデンスレベル L4）。既存適応症：高血圧症、糖尿病性腎症"
 monitor_inn: "Losartan"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "Prinzmetal angina", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies"]
@@ -50,7 +50,7 @@ TxGNN モデルは**悪性高血圧性腎疾患 (Malignant Hypertensive Renal Di
 | TxGNN 予測スコア | 0.9973 |
 | エビデンスレベル | L4 |
 | 日本市販状況 | 販売中（有効な承認 20 件以上） |
-| 承認番号数 | 20 件 |
+| 承認番号数 | 20 件以上 |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由

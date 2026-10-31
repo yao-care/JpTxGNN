@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 104
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Duloxetine：予測新適応症は乳児良性発作性斜頸 (Benign Paroxysmal Torticollis of Infancy)（エビデンスレベル L5）。既存適応症：抗うつ薬、セロトニン・ノルアドレナリン再取り込み阻害薬"
 monitor_inn: "Duloxetine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "obsessive-compulsive disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "paranoid personality disorder", "schizotypal personality disorder", "Ohdo syndrome and variants", "ligneous conjunctivitis", "blepharophimosis - intellectual disability syndrome, Ohdo type"]
@@ -50,7 +50,7 @@ TxGNN モデルは**乳児良性発作性斜頸 (Benign Paroxysmal Torticollis o
 | TxGNN 予測スコア | 0.9985 |
 | エビデンスレベル | L5 |
 | 日本市販状況 | 販売中（有効な承認 20 件以上） |
-| 承認番号数 | 20 件（有効 0 件、整理済み 20 件） |
+| 承認番号数 | 20 件以上 |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由

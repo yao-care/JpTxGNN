@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Granisetron"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "acute contagious conjunctivitis", "angioedema", "allergic urticaria", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania", "bronchitis", "cold urticaria", "conjunctivitis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Granisetron：予測新適応症は躁病性双極性感情障害 (manic bipolar affective disorder)（エビデンスレベル L5）。既存適応症：承認書のデータに記載なし"
 ---
 
@@ -50,7 +50,7 @@ TxGNN モデルは**躁病性双極性感情障害 (manic bipolar affective diso
 | TxGNN 予測スコア | 0.9962 |
 | エビデンスレベル | L5 |
 | 日本市販状況 | 販売中（有効な承認 20 件以上） |
-| 承認番号数 | 20 件（すべて取消） |
+| 承認番号数 | 20 件以上 |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由

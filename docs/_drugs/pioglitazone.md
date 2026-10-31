@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Pioglitazone"
 predicted_indications: ["opsismodysplasia", "focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Pioglitazone：予測新適応症はオプシスモ異形成症 (Opsismodysplasia)（エビデンスレベル L5）。既存適応症：2型糖尿病（PPARγ 作動薬）"
 ---
 
@@ -51,7 +51,7 @@ TxGNN モデルは **オプシスモ異形成症 (Opsismodysplasia)** に有効�
 | TxGNN 予測スコア | 0.9959 |
 | エビデンスレベル | L5 |
 | 日本市販状況 | 販売中（有効な承認 20 件以上） |
-| 承認番号数 | 20 件（すべて取消） |
+| 承認番号数 | 20 件以上 |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由

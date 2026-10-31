@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 212
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "Mirtazapine"
 predicted_indications: ["Ohdo syndrome and variants", "blepharophimosis - intellectual disability syndrome, Ohdo type", "benign paroxysmal torticollis of infancy"]
 description: "Mirtazapine：予測新適応症はOhdo 症候群および関連型 (Ohdo syndrome and variants)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
@@ -52,7 +52,7 @@ TxGNN モデルの予測スコア第 1 位は **Ohdo 症候群および関連型
 | TxGNN 予測スコア | 0.9942 |
 | エビデンスレベル | L5（第 1 位予測）。参考：恐怖症性障害 L2、気分変調性障害・メランコリー L3 |
 | 日本市販状況 | 販売中（有効な承認 20 件以上） |
-| 承認番号数 | 20 件（有効 0 件、整理済み 20 件） |
+| 承認番号数 | 20 件以上 |
 | 推奨決定 | Hold（第 1 位予測について） |
 
 ## この予測が妥当である理由

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Ebastine"
 predicted_indications: ["coronary artery disease", "myocardial ischemia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Ebastine：予測新適応症は冠動脈疾患 (Coronary Artery Disease)（エビデンスレベル L5）。既存適応症：アレルギー性鼻炎（抗アレルギー薬・鎮痒薬・H1受容体拮抗薬）"
 ---
 
@@ -50,7 +50,7 @@ TxGNN モデルは**冠動脈疾患 (Coronary Artery Disease)** に有効であ�
 | TxGNN 予測スコア | 0.9918 |
 | エビデンスレベル | L5 |
 | 日本市販状況 | 販売中（有効な承認 20 件以上） |
-| 承認番号数 | 20 件（すべて取消） |
+| 承認番号数 | 20 件以上 |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由

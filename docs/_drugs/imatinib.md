@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Imatinib"
 predicted_indications: ["heart fibrosarcoma", "fibroblastic neoplasm", "conventional fibrosarcoma", "kidney fibrosarcoma", "low grade fibromyxoid sarcoma", "liposarcoma", "liver fibrosarcoma", "autosomal recessive familial Mediterranean fever", "ovarian myxoid liposarcoma", "familial rhabdoid tumor"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Imatinib：予測新適応症は心臓線維肉腫 (heart fibrosarcoma)（エビデンスレベル L5）。既存適応症：慢性骨髄性白血病、消化管間質腫瘍 (KIT 陽性)、フィラデルフィア染色体陽性急性リンパ性白血病…"
 ---
 
@@ -51,7 +51,7 @@ TxGNN モデルは**心臓線維肉腫 (heart fibrosarcoma)** に有効である
 | TxGNN 予測スコア | 0.9994 |
 | エビデンスレベル | L5（間接的な機序・総説のみ） |
 | 日本市販状況 | 販売中（有効な承認 20 件以上） |
-| 承認番号数 | 20 件（すべて取消） |
+| 承認番号数 | 20 件以上 |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由

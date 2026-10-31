@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 10
 monitor_inn: "ropinirole"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "retinal dystrophy with or without extraocular anomalies", "schizophrenia", "myopia X-linked", "congenital disorder of glycosylation with defective fucosylation", "atypical glycine encephalopathy", "myopia 26, X-linked, female-limited", "Charcot-Marie-Tooth disease, demyelinating, type 1G"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Ropinirole：予測新適応症は注意欠如・多動症 (Attention Deficit-Hyperactivity Disorder)（エビデンスレベル L5）。既存適応症：パーキンソン病"
 ---
 
@@ -51,7 +51,7 @@ TxGNN モデルは**注意欠如・多動症 (Attention Deficit-Hyperactivity Di
 | TxGNN 予測スコア | 0.9999 |
 | エビデンスレベル | L2（文献上の RCT 1 件。ただし臨床試験登録での完了確認はなく、L3 相当の可能性あり） |
 | 日本市販状況 | 販売中（有効な承認 20 件以上） |
-| 承認番号数 | 20 件（すべて取消） |
+| 承認番号数 | 20 件以上 |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由

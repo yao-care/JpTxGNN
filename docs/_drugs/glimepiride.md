@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Glimepiride"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Glimepiride：予測新適応症はfocal stiff limb syndrome（局所性スティフ・リム症候群）（エビデンスレベル L5）。既存適応症：2 型糖尿病（糖尿病治療薬、血糖降下薬、スルホニル尿素受容体作動薬）"
 ---
 
@@ -50,7 +50,7 @@ TxGNN モデルは **focal stiff limb syndrome（局所性スティフ・リム�
 | TxGNN 予測スコア | 0.9975 |
 | エビデンスレベル | L5 |
 | 日本市販状況 | 販売中（有効な承認 20 件以上） |
-| 承認番号数 | 少なくとも 20 件（一覧は一部のみの可能性あり） |
+| 承認番号数 | 20 件以上 |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Rivastigmine"
 predicted_indications: ["glaucoma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Rivastigmine：予測新適応症は緑内障 (Glaucoma)（エビデンスレベル L4）。既存適応症：アルツハイマー型認知症（認知症治療薬、アセチルコリンエステラーゼ阻害薬）"
 ---
 
@@ -50,7 +50,7 @@ TxGNN モデルは**緑内障 (Glaucoma)** に有効である可能性を予測�
 | TxGNN 予測スコア | 0.9927 |
 | エビデンスレベル | L5 |
 | 日本市販状況 | 販売中（有効な承認 20 件以上） |
-| 承認番号数 | 20 件（すべて取消） |
+| 承認番号数 | 20 件以上 |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由

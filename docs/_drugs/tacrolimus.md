@@ -5,7 +5,7 @@ parent: 高エビデンスレベル
 nav_order: 293
 evidence_level: L1
 indication_count: 2
-last_modified_at: 2026-10-29
+last_modified_at: 2026-10-31
 monitor_inn: "Tacrolimus"
 predicted_indications: ["seborrheic dermatitis", "parapsoriasis"]
 description: "Tacrolimus：予測新適応症は脂漏性皮膚炎 (seborrheic dermatitis)（エビデンスレベル L1）。既存適応症：日本の承認情報に適応症の記載なし"
@@ -50,7 +50,7 @@ TxGNN モデルは**脂漏性皮膚炎 (Seborrheic Dermatitis)** に有効であ
 | TxGNN 予測スコア | 0.9926 |
 | エビデンスレベル | L1 |
 | 日本市販状況 | 販売中（有効な承認 20 件以上） |
-| 承認番号数 | 20 件（すべて取消済み） |
+| 承認番号数 | 20 件以上 |
 | 推奨決定 | Proceed with Guardrails |
 
 > エビデンスレベルについて：L1 の基準は「完了した Phase 3 RCT が 2 件以上」ですが、脂漏性皮膚炎の完了済み Phase 3 は 1 件のみです。そのため、厳密に適用すると L2 相当になります。上記の L1 は、今回編纂したデータ上の判定をそのまま記載したものです。

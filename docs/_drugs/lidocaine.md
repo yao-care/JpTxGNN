@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Lidocaine"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "papillary conjunctivitis", "rosacea conjunctivitis", "exposure keratitis", "atopic conjunctivitis", "conjunctival disorder", "nephrotic syndrome", "non-human animal disease", "tinea corporis", "sporadic idiopathic steroid-resistant nephrotic syndrome"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Lidocaine：予測新適応症は点状表層角結膜炎 (punctate epithelial keratoconjunctivitis)（エビデンスレベル L5）。既存適応症：表面麻酔薬、抗不整脈薬、ナトリウムチャネル遮断薬（局所麻酔薬としての記載もあり）"
 ---
 
@@ -53,7 +53,7 @@ TxGNN モデルは**点状表層角結膜炎 (punctate epithelial keratoconjunct
 | TxGNN 予測スコア | 0.9999 |
 | エビデンスレベル | L5 |
 | 日本市販状況 | 販売中（有効な承認 20 件以上） |
-| 承認番号数 | 少なくとも 20 件（一覧は一部のみの可能性あり） |
+| 承認番号数 | 20 件以上 |
 | 推奨決定 | Hold |
 
 ---

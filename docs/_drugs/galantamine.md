@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Galantamine"
 predicted_indications: ["psychogenic movement disorders", "chronic tic disorder", "primary orthostatic tremor", "extrapyramidal and movement disease", "benign shuddering attacks", "tremor-nystagmus-duodenal ulcer syndrome", "lingual-facial-buccal dyskinesia", "benign paroxysmal tonic upgaze of childhood with ataxia", "acute intermittent porphyria"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Galantamine：予測新適応症は心因性運動障害 (Psychogenic Movement Disorders)（エビデンスレベル L5）。既存適応症：認知症治療薬、アセチルコリンエステラーゼ阻害薬"
 ---
 
@@ -51,7 +51,7 @@ TxGNN モデルは**心因性運動障害 (Psychogenic Movement Disorders)** に
 | TxGNN 予測スコア | 0.9990 |
 | エビデンスレベル | L5 |
 | 日本市販状況 | 販売中（有効な承認 20 件以上） |
-| 承認番号数 | 20 件（すべて取消） |
+| 承認番号数 | 20 件以上 |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由

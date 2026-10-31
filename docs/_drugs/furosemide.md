@@ -5,7 +5,7 @@ layout: default
 title: Furosemide
 parent: 既知の用途のみ（新規予測なし）
 nav_order: 142
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Furosemide: 日本における既知の用途と市場状況。現時点で新たな候補適応症はありません"
 monitor_inn: "Furosemide"
 predicted_indications: []
@@ -44,7 +44,7 @@ evidence_level: N/A
 |------|------|
 | 既存適応症 | 日本の承認情報に適応症の記載なし |
 | 日本市販状況 | 販売中（有効な承認 20 件以上） |
-| 承認番号数 | 20 件（すべて取消済み） |
+| 承認番号数 | 20 件以上 |
 
 ## 日本市販情報
 

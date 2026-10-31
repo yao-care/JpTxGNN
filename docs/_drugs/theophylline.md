@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Theophylline"
 predicted_indications: ["thrombotic disease", "nasal cavity disease", "laryngotracheitis", "tracheal disease", "pharyngitis", "acute laryngopharyngitis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Theophylline：予測新適応症は血栓性疾患 (thrombotic disease)（エビデンスレベル L5）。既存適応症：気管支喘息、肺気腫"
 ---
 
@@ -50,7 +50,7 @@ TxGNN モデルは**血栓性疾患 (thrombotic disease)** に有効である可
 | TxGNN 予測スコア | 0.9962 |
 | エビデンスレベル | L5 |
 | 日本市販状況 | 販売中（有効な承認 20 件以上） |
-| 承認番号数 | 少なくとも 20 件（一覧は一部のみの可能性あり） |
+| 承認番号数 | 20 件以上 |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由

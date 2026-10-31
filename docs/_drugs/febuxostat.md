@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 3
 monitor_inn: "Febuxostat"
 predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "Lesch-Nyhan syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Febuxostat：予測新適応症は腎性低尿酸血症 (hypouricemia, renal)（エビデンスレベル L4）。既存適応症：痛風"
 ---
 
@@ -50,7 +50,7 @@ TxGNN モデルは**腎性低尿酸血症 (hypouricemia, renal)** に有効で�
 | TxGNN 予測スコア | 0.9999 |
 | エビデンスレベル | L4 |
 | 日本市販状況 | 販売中（有効な承認 20 件以上） |
-| 承認番号数 | 20 件（すべて整理・失効済み） |
+| 承認番号数 | 20 件以上 |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由

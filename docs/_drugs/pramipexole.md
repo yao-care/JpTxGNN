@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 10
 monitor_inn: "Pramipexole"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "attention deficit hyperactivity disorder, inattentive type", "specific developmental disorder", "chondromyxoid fibroma", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "schizophrenia", "atypical glycine encephalopathy"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Pramipexole：予測新適応症は注意欠如・多動症 (attention deficit-hyperactivity disorder)（エビデンスレベル L4）。既存適応症：パーキンソン病、レストレスレッグス症候群"
 ---
 
@@ -51,7 +51,7 @@ TxGNN モデルは**注意欠如・多動症 (attention deficit-hyperactivity di
 | TxGNN 予測スコア | 1.0000 |
 | エビデンスレベル | L4 |
 | 日本市販状況 | 販売中（有効な承認 20 件以上） |
-| 承認番号数 | 20 件（すべて整理済み） |
+| 承認番号数 | 20 件以上 |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由

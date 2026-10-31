@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 114
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Epinastine：予測新適応症は酒さ性結膜炎 (Rosacea Conjunctivitis)（エビデンスレベル L5）。既存適応症：気管支喘息、アレルギー性鼻炎、尋常性乾癬"
 monitor_inn: "Epinastine"
 predicted_indications: ["rosacea conjunctivitis", "allergic urticaria"]
@@ -51,7 +51,7 @@ TxGNN モデルは**酒さ性結膜炎 (Rosacea Conjunctivitis)** に有効で�
 | TxGNN 予測スコア | 0.9957 |
 | エビデンスレベル | L5 |
 | 日本市販状況 | 販売中（有効な承認 20 件以上） |
-| 承認番号数 | 20 件（すべて取消済み） |
+| 承認番号数 | 20 件以上 |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由

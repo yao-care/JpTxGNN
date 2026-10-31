@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 9
 monitor_inn: "Candesartan"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "pulmonary hypertension", "Prinzmetal angina", "kyphoscoliotic heart disease", "atrophoderma vermiculata", "ulerythema ophryogenesis", "benign prostatic hyperplasia (disease)", "alopecia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Candesartan：予測新適応症は片頭痛 (migraine disorder)（エビデンスレベル L2）。既存適応症：血圧降下薬、アンジオテンシンII受容体拮抗薬"
 ---
 
@@ -50,7 +50,7 @@ TxGNN モデルは**片頭痛 (migraine disorder)** に有効である可能性�
 | TxGNN 予測スコア | 0.9997 |
 | エビデンスレベル | L2 |
 | 日本市販状況 | 販売中（有効な承認 20 件以上） |
-| 承認番号数 | 20 件（すべて整理済み） |
+| 承認番号数 | 20 件以上 |
 | 推奨決定 | Proceed with Guardrails |
 
 ※ 完了した Phase 3 RCT は確認できず、Phase 2/3 および Phase 2 の完了 RCT があるため L2 と判定しました。

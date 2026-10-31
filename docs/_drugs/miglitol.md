@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 210
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Miglitol：予測新適応症は巣状スティフリム症候群 (Focal Stiff Limb Syndrome)（エビデンスレベル L5）。既存適応症：糖尿病（α-グルコシダーゼ阻害薬）"
 monitor_inn: "Miglitol"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pancreatic agenesis", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy"]
@@ -51,7 +51,7 @@ TxGNN モデルは**巣状スティフリム症候群 (focal stiff limb syndrome
 | TxGNN 予測スコア | 0.9987 |
 | エビデンスレベル | L5 |
 | 日本市販状況 | 販売中（有効な承認 20 件以上） |
-| 承認番号数 | 20 件（有効 0 件、整理済み 20 件） |
+| 承認番号数 | 20 件以上 |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由

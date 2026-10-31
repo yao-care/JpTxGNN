@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Icosapent ethyl"
 predicted_indications: ["hemoglobinopathy"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Icosapent Ethyl：予測新適応症はヘモグロビン異常症 (hemoglobinopathy)（エビデンスレベル L5）。既存適応症：脂質異常症（高脂血症）、閉塞性動脈硬化症"
 ---
 
@@ -50,7 +50,7 @@ TxGNN モデルは**ヘモグロビン異常症 (hemoglobinopathy)** に有効�
 | TxGNN 予測スコア | 0.9909 |
 | エビデンスレベル | L5 |
 | 日本市販状況 | 販売中（有効な承認 20 件以上） |
-| 承認番号数 | 20 件（すべて取消） |
+| 承認番号数 | 20 件以上 |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由

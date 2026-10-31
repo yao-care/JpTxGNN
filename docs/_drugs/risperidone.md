@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 267
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "Risperidone"
 predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania", "major affective disorder"]
 description: "Risperidone：予測新適応症はGaze palsy, familial horizontal, with progressive scoliosis（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
@@ -53,7 +53,7 @@ TxGNN モデルは**気分障害 (Major affective disorder)** に有効である
 | TxGNN 予測スコア | 0.9976 |
 | エビデンスレベル | L5 |
 | 日本市販状況 | 販売中（有効な承認 20 件以上） |
-| 承認番号数 | 20 件 |
+| 承認番号数 | 20 件以上 |
 | 推奨決定 | Proceed with Guardrails |
 
 ## この予測が妥当である理由

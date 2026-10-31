@@ -5,7 +5,7 @@ parent: 高エビデンスレベル
 nav_order: 43
 evidence_level: L2
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Betamethasone：予測新適応症は円形脱毛症 (Alopecia Areata)（エビデンスレベル L2）。既存適応症：乾癬、掌蹠膿疱症、慢性円板状エリテマトーデス、毛孔性紅色粃糠疹、菌状息肉症、天疱瘡群など（抗炎症薬、鎮痒薬、グルココルチコイド受容体作動薬）"
 monitor_inn: "Betamethasone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions"]
@@ -50,7 +50,7 @@ TxGNN モデルは**円形脱毛症 (Alopecia Areata)** に有効である可能
 | TxGNN 予測スコア | 0.9997 |
 | エビデンスレベル | L2 |
 | 日本市販状況 | 販売中（有効な承認 20 件以上） |
-| 承認番号数 | 20 件（すべて失効・取り消し） |
+| 承認番号数 | 20 件以上 |
 | 推奨決定 | Proceed with Guardrails |
 
 ## この予測が妥当である理由

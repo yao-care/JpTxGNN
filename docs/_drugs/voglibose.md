@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 339
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 monitor_inn: "Voglibose"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "autoimmune oophoritis", "diffuse alopecia areata", "IDDM 1", "Wolman disease with hypolipoproteinemia and acanthocytosis", "familial apolipoprotein C-II deficiency", "cholesteryl ester storage disease", "opsismodysplasia"]
 description: "Voglibose：予測新適応症は頭皮の単純性乏毛症 (hypotrichosis simplex of the scalp)（スコア第1位）。エビデンスのある代表候補は1型糖尿病 (hypotrichosis simplex of the scalp)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
@@ -51,7 +51,7 @@ TxGNN モデルの予測スコア第1位は**頭皮の単純性乏毛症 (hypotr
 | TxGNN 予測スコア | 0.9986 |
 | エビデンスレベル | L5（乏毛症）／L3（1型糖尿病） |
 | 日本市販状況 | 販売中（有効な承認 20 件以上） |
-| 承認番号数 | 20 件（すべて整理済み） |
+| 承認番号数 | 20 件以上 |
 | 推奨決定 | Hold（乏毛症）／Hold（1型糖尿病は研究課題として位置づけ） |
 
 ## この予測が妥当である理由

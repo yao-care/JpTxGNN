@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 63
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Carvedilol：予測新適応症は悪性高血圧性腎疾患 (malignant hypertensive renal disease)（エビデンスレベル L5）。既存適応症：本態性高血圧症、狭心症、拡張型心筋症、頻脈性心房細動（血圧降下薬、α1β遮断薬）"
 monitor_inn: "Carvedilol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
@@ -51,7 +51,7 @@ TxGNN モデルは**悪性高血圧性腎疾患 (malignant hypertensive renal di
 | TxGNN 予測スコア | 0.9955 |
 | エビデンスレベル | L5 |
 | 日本市販状況 | 販売中（有効な承認 20 件以上） |
-| 承認番号数 | 20 件（すべて取消） |
+| 承認番号数 | 20 件以上 |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由

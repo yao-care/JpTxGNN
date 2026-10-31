@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Pitavastatin"
 predicted_indications: ["cholesterol-ester transfer protein deficiency", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "simian immunodeficiency virus infection"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-31
 description: "Pitavastatin：予測新適応症はコレステロールエステル転送蛋白欠損症 (cholesterol-ester transfer protein deficiency)（エビデンスレベル L5）。既存適応症：脂質異常症（HMG-CoA 還元酵素阻害薬）"
 ---
 
@@ -50,7 +50,7 @@ TxGNN モデルは**コレステロールエステル転送蛋白欠損症 (chol
 | TxGNN 予測スコア | 0.9998 |
 | エビデンスレベル | L5 |
 | 日本市販状況 | 販売中（有効な承認 20 件以上） |
-| 承認番号数 | 少なくとも 20 件（一覧は一部のみの可能性あり） |
+| 承認番号数 | 20 件以上 |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
