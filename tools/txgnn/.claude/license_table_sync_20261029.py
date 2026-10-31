@@ -177,7 +177,7 @@ def sync_market_rows(site, dry=False):
             elif ms == "Approved, not marketed":
                 want = ck.NOT_MKT.get(lang, ck.NOT_MKT["en"]).format(n=n)
             elif ms == "Cancelled only":
-                want = ck.CANCELLED.get(lang, ck.CANCELLED["en"]).format(n=n)
+                want = ck.cancelled_text(site, lang, n)
             elif ms == "Not marketed":
                 want = ck.not_reg_text(site, lang)
             if want and st[1] != want:

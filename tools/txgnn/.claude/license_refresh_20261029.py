@@ -123,6 +123,21 @@ def main(argv):
     except Exception as e:
         finish(2, f"下載失敗：{str(e)[:300]}")
     problems = ad.validate(new, old)
+    if getattr(ad, "WATCH", False):
+        # 監看模式（2026-10-30，PH／TH／IN：來源不會定期更新、或只能看發布頁）：比對來源指紋，有變就開 issue（exit 6），不改頁
+        if problems:
+            finish(2, "監看來源抓取有問題：" + "；".join(problems))
+        raw_path.parent.mkdir(parents=True, exist_ok=True)
+        if old is None:
+            raw_path.write_text(json.dumps(new, ensure_ascii=False, indent=1), encoding="utf-8")
+            S["license_changes"] = ["watch-init"]
+            finish(0, f"首次記錄來源指紋（{len(new)} 項），之後有變化會開 issue")
+        if new == old:
+            finish(0, f"來源沒有變化（{len(new)} 項）")
+        S["license_changes"] = ["watch"]
+        S["steps"].append(ad.describe(old, new) if hasattr(ad, "describe") else "來源內容有變")
+        raw_path.write_text(json.dumps(new, ensure_ascii=False, indent=1), encoding="utf-8")
+        finish(6, "來源有更新，請人工確認是否要更新本站資料（頁面未自動修改）")
     idx = ad.status_index(new)
     bundles = sorted((BASE / site / "data/bundles").glob("*/drug_bundle.json"))
     if not bundles:
