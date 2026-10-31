@@ -1000,6 +1000,12 @@ def check_page(site, f, cls, want_noindex):
                     ok = False
             if not ok:
                 E("M1", f"張數列「{cr[1][:40]}」≠ 共 {n}／有效 {v}{'（部分紀錄）' if partial else ''}")
+        # M4（2026-10-31 pm 退件 BR）：張數列要跟狀態列同一套事實、同一套寫法（部分紀錄也要檢查），不得有括號內部註記
+        # （例「20 (todos cancelados)」配「pelo menos 20」的狀態列、「0 (consulta realizada com grafia incorreta…)」）。Tw 格式不同，不查。
+        if cr is not None and site != "TwTxGNN" and (n is not None or partial):
+            want_c = tl[3].format(n=n if n is not None else len(fc.get("licenses") or {})) if partial else tl[2].format(n=n, v=v or 0)
+            if cr[1] != want_c:
+                E("M4", f"張數列「{cr[1][:50]}」≠「{want_c}」")
         lic = {mv2.norm_id(k): s for k, s in (fc.get("licenses") or {}).items()}
         if site != "TwTxGNN":
             for cells in all_rows:
