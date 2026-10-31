@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "タミフルドライシロップ３％（選） に関する健康ニュース。予測適応症 0 件。"
 permalink: /news/oseltamivir/
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 ---
 
 # タミフルドライシロップ３％（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="タミフルドライシロップ３％（選） に関するニュースは？">
-<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>3 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>4 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,21 @@ last_modified_at: 2026-10-30
 <p><a href="{{ '/drugs/oseltamivir/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（3 件）
+## 関連ニュース（4 件）
 
 ### [感染症に負けないカラダとココロ＝日常ケア編　喫煙、免疫機能下げる｜四国新聞WEB朝刊](https://news.google.com/rss/articles/CBMid0FVX3lxTE1PN1lmSWRmVDA5QlpNVm5HbllGNzl5ZGltVFV5eFFpbFBjXzVVLU45VkdZeC1EMUtPYWlyOU9xUVlHQ3dtXzdSVEZLWHlHZFFGdFY3aXFuOG11NkFOWFJaSFFGY0Z3Y1cwYzVBN1NVSVRoV0ZJTXFB0gF8QVVfeXFMTTk4TEN3cHp1S0dvNlI5MHBKRS1SMVVKTFA0TVVtdXlwb1czSS1qTTJrY0tKbUpkOE5FTDcxQ0g4UVA5M0VHcktQSTZiZ0d1WG9mN1pWNG1nT2djd2FkZThfTnFYRVJSVnVqa3FQalFMS01wZ0VjUGtsTnlFMA?oc=5)
 
 2026-10-29 <span class="news-indication-tag">インフルエンザ</span>
 
 出典: [四国新聞](https://news.google.com/rss/articles/CBMid0FVX3lxTE1PN1lmSWRmVDA5QlpNVm5HbllGNzl5ZGltVFV5eFFpbFBjXzVVLU45VkdZeC1EMUtPYWlyOU9xUVlHQ3dtXzdSVEZLWHlHZFFGdFY3aXFuOG11NkFOWFJaSFFGY0Z3Y1cwYzVBN1NVSVRoV0ZJTXFB0gF8QVVfeXFMTTk4TEN3cHp1S0dvNlI5MHBKRS1SMVVKTFA0TVVtdXlwb1czSS1qTTJrY0tKbUpkOE5FTDcxQ0g4UVA5M0VHcktQSTZiZ0d1WG9mN1pWNG1nT2djd2FkZThfTnFYRVJSVnVqa3FQalFMS01wZ0VjUGtsTnlFMA?oc=5)
+
+---
+
+### [歯みがき行動により、インフルエンザウイルスに反応する唾液中の免疫成分「IgA抗体」濃度が増加することを確認 - PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE1IT0Z3NWZTdmZHOXhZSTU4cmFPZGhWbXBkcW1IbHVJSXJjR0x1cmt1VVNvVTNZMTVtLWdzMTBYQ290dGpzbGY2VkZ3WmZGTWtSMUlmb1BnZ2ZkclpLaDZwQjdnYkpZd3hKSUE?oc=5)
+
+2026-10-28 <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE1IT0Z3NWZTdmZHOXhZSTU4cmFPZGhWbXBkcW1IbHVJSXJjR0x1cmt1VVNvVTNZMTVtLWdzMTBYQ290dGpzbGY2VkZ3WmZGTWtSMUlmb1BnZ2ZkclpLaDZwQjdnYkpZd3hKSUE?oc=5)
 
 ---
 

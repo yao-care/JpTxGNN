@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "更年期 (menopause) に関する健康ニュース。ニュース 3 件、関連医薬品 2 件。"
 permalink: /news/menopause/
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 ---
 
 # 更年期 (menopause) 関連ニュース
@@ -33,11 +33,11 @@ last_modified_at: 2026-10-30
 
 ## 関連ニュース（3 件）
 
-### [「筆箱大の血塊」が出ても「更年期」とあしらわれ…卵巣がんステージ2と判明するまでかかった悔しさと「1年7か月」(CHANTO WEB)](https://news.yahoo.co.jp/articles/1e82346435c6fc51772faf49cd69ed62fa1473e8?source=rss)
+### [前編｜朝、指がこわばるのは更年期のサイン？ 女性に多い手の不調を専門家が解説(CBCテレビ)](https://news.yahoo.co.jp/articles/c403f89a527790d6845e1caaa32be5d03b2ce6d3?source=rss)
 
-2026-10-30
+2026-10-31
 
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/1e82346435c6fc51772faf49cd69ed62fa1473e8?source=rss)
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/c403f89a527790d6845e1caaa32be5d03b2ce6d3?source=rss)
 
 ---
 

@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "ワソラン錠４０ｍｇ（選） に関する健康ニュース。予測適応症 6 件。"
 permalink: /news/verapamil/
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 ---
 
 # ワソラン錠４０ｍｇ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="ワソラン錠４０ｍｇ（選） に関するニュースは？">
-<strong>ワソラン錠４０ｍｇ（選）</strong> には現在 <strong>15 件</strong>の関連ニュースがあり、予測適応症は 6 件です。
+<strong>ワソラン錠４０ｍｇ（選）</strong> には現在 <strong>16 件</strong>の関連ニュースがあり、予測適応症は 6 件です。
 </p>
 
 <div class="key-takeaway">
@@ -38,13 +38,29 @@ last_modified_at: 2026-10-30
 <p><a href="{{ '/drugs/verapamil/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（15 件）
+## 関連ニュース（16 件）
 
-### [「筆箱大の血塊」が出ても「更年期」とあしらわれ…卵巣がんステージ2と判明するまでかかった悔しさと「1年7か月」(CHANTO WEB)](https://news.yahoo.co.jp/articles/1e82346435c6fc51772faf49cd69ed62fa1473e8?source=rss)
+### [【闘病】2時間止まらない鼻血と白い塊… 正体はHPVによる『鼻腔がん』だった(メディカルドック)](https://news.yahoo.co.jp/articles/5237762cb32e9371e8efb5973a0839ca72e76d49?source=rss)
 
-2026-10-30 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">更年期</span>
+2026-10-31 <span class="news-indication-tag">がん</span>
 
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/1e82346435c6fc51772faf49cd69ed62fa1473e8?source=rss)
+出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/5237762cb32e9371e8efb5973a0839ca72e76d49?source=rss)
+
+---
+
+### [「自分も家庭を持ちたい」　26歳で希少がんを発症した男性　友人の結婚式で感じた喜びと複雑な思い(Hint](https://news.yahoo.co.jp/articles/4844c18ca77e86fc791a4f5a8b510f4ff2cfd472?source=rss)
+
+2026-10-31 <span class="news-indication-tag">がん</span>
+
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/4844c18ca77e86fc791a4f5a8b510f4ff2cfd472?source=rss)
+
+---
+
+### [「なくなる日が来てほしい」検診とワクチンで“予防できる”も日本では毎年約3000人が命を失う子宮頸がん 治療で命が助かったものの子宮摘出した女性が経験を伝える取り組み 進まぬ“検診”とその要因 - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE1pcnpqX0otSFVCN1pOV2gzNFZ1ekN6WU5td3BUNnhJSHl4emVEWlpwdjdDZUVUOGwzV05icXE3UjhtdlhpcGFCekJ3RFFKUXFYOW9HdFh0LXZrclJpSW16NUJNeFYxbmZpMklkVVdn?oc=5)
+
+2026-10-30 <span class="news-indication-tag">がん</span>
+
+出典: [au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE1pcnpqX0otSFVCN1pOV2gzNFZ1ekN6WU5td3BUNnhJSHl4emVEWlpwdjdDZUVUOGwzV05icXE3UjhtdlhpcGFCekJ3RFFKUXFYOW9HdFh0LXZrclJpSW16NUJNeFYxbmZpMklkVVdn?oc=5)
 
 ---
 
@@ -53,14 +69,6 @@ last_modified_at: 2026-10-30
 2026-10-30 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
 
 出典: [舌肥](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rc2I2ZEFzVktnNDBISHU5RlZRQlJ1TmxjamJ2RGpJSkNJOGJiVDRpTG8tUkFyb1otRUtodkljbkNSNl9wN1A0X0tBVGJSaHF4dmcwV2FySWxES1U?oc=5)
-
----
-
-### [『潰瘍性大腸炎』で「大腸がん」リスクは約2.5倍 内視鏡検査を始める時期を医師が解説](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wRERERE9PUUhPeXl1YmRwcGlnNS1zSnJpbzJVYlBQaU54cTZsNk9ROXExdTc4SXFhSnJYYzJGZkdyaXU4c01PWVlHa0ZicWZVamJEYWE4YlRfYlVj?oc=5)
-
-2026-10-30 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
-
-出典: [メディカルドック](https://news.google.com/rss/articles/CBMiXEFVX3lxTE9wRERERE9PUUhPeXl1YmRwcGlnNS1zSnJpbzJVYlBQaU54cTZsNk9ROXExdTc4SXFhSnJYYzJGZkdyaXU4c01PWVlHa0ZicWZVamJEYWE4YlRfYlVj?oc=5)
 
 ---
 
@@ -136,14 +144,6 @@ last_modified_at: 2026-10-30
 
 ---
 
-### [お菓子やソーセージの食べすぎに注意？「超加工食品」と脳の異常に関連、約8800人を調査 - DAILYSUN NEW YORK](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJbjhvWjg2RnJYNF91VFRPWWUzVkRMZjBkSDNUc3hlalNlNC04a2R6RXdiaHluTmJyUW1WY0hIYzVxZ3lXZTJXVDFNUmtUVDFqWFEwcXh2N0VneldUb094dA?oc=5)
-
-2026-10-26 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
-
-出典: [DAILYSUN NEW YORK](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJbjhvWjg2RnJYNF91VFRPWWUzVkRMZjBkSDNUc3hlalNlNC04a2R6RXdiaHluTmJyUW1WY0hIYzVxZ3lXZTJXVDFNUmtUVDFqWFEwcXh2N0VneldUb094dA?oc=5)
-
----
-
 ### [9520のタンパクから真の原因へ：プロテオゲノミクス×因果推論で拓く虚血性心疾患の創薬](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kYVA0TEsyejJrRTRlQ2hxZER4dmpIZkJNamI5MDZ0UU5sLUh0UC1Wbkd6YUJoUUFHRUZYUHFYUGJua3Nvd05oMlJ1LUxEeWl0VWc?oc=5)
 
 2026-10-25 <span class="news-indication-tag">心疾患</span>
@@ -157,6 +157,14 @@ last_modified_at: 2026-10-30
 2026-10-25 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">癌</span> <span class="news-indication-tag">肺がん</span>
 
 出典: [Laodong.vn](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWnNJeXRmaUdEcVZ4eHRZNVYteWF0Q1F2Qm1xbzRkTG5QUXo4RTc2aU9SSTlaMHNkazZETTdLOVQ1cFBWRTItbkJNd2hkNU5IVTRERXQwR0d0MzZQMVJYZzJTNjZRNmxxZExJWjNfeDNRcGVFNS14dHdmaEZxakx4NU1fUlpNbWtYaUs4b2VZNHlZd09YQzVjclk0cjdCMTNDcmxSeVp6MmxqUExDNk94bk5sbkgxbmJYVU1CbVVwZng?oc=5)
+
+---
+
+### [大腸炎を予防し、消化器系の健康を守る方法](https://news.google.com/rss/articles/CBMirAFBVV95cUxNckhMTzVRSjk2NmtxcUN6RVd3ZU5sRXFCWTJQTjZUVXpFdTd4Qmttb1BncVhkd3hJUE5QRmo2WGQ0RlRvRXJlMTMtQlhPbXAweEs2SjZ4NThmNVJNYmFNalZCTXRfMjJOSERCN0xOdlFYeV9RVUJPQ001bzFOOWl5dF8yV2xzU2l3VEFJMnMtZ1l0YlAtNVRkVEpXMWlWeXBnTVByYURkQTJ1MFJJ?oc=5)
+
+2026-10-24 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
+
+出典: [Laodong.vn](https://news.google.com/rss/articles/CBMirAFBVV95cUxNckhMTzVRSjk2NmtxcUN6RVd3ZU5sRXFCWTJQTjZUVXpFdTd4Qmttb1BncVhkd3hJUE5QRmo2WGQ0RlRvRXJlMTMtQlhPbXAweEs2SjZ4NThmNVJNYmFNalZCTXRfMjJOSERCN0xOdlFYeV9RVUJPQ001bzFOOWl5dF8yV2xzU2l3VEFJMnMtZ1l0YlAtNVRkVEpXMWlWeXBnTVByYURkQTJ1MFJJ?oc=5)
 
 ---
 
