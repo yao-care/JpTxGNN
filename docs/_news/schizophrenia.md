@@ -3,9 +3,9 @@ layout: default
 title: "統合失調症 (schizophrenia) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "統合失調症 (schizophrenia) に関する健康ニュース。ニュース 1 件、関連医薬品 7 件。"
+description: "統合失調症 (schizophrenia) に関する健康ニュース。ニュース 2 件、関連医薬品 7 件。"
 permalink: /news/schizophrenia/
-last_modified_at: 2026-10-29
+last_modified_at: 2026-11-01
 ---
 
 # 統合失調症 (schizophrenia) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-29
 ---
 
 <p class="key-answer" data-question="統合失調症 (schizophrenia) に関するニュースは？">
-<strong>統合失調症 (schizophrenia)</strong> には現在 <strong>1 件</strong>の関連ニュースと 7 件の関連医薬品があります。
+<strong>統合失調症 (schizophrenia)</strong> には現在 <strong>2 件</strong>の関連ニュースと 7 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -36,13 +36,21 @@ last_modified_at: 2026-10-29
 </ul>
 </div>
 
-## 関連ニュース（1 件）
+## 関連ニュース（2 件）
 
 ### [統合失調症の患者に”がん治療格差”　早期発見や手術率の低さが研究で判明…「誰一人取り残さない」治療体制のために(RSK山陽放送)](https://news.yahoo.co.jp/articles/6ff977a85cf83acabac7a4a8da6462b8dbe350d3?source=rss)
 
 2026-10-29
 
 出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/6ff977a85cf83acabac7a4a8da6462b8dbe350d3?source=rss)
+
+---
+
+### [ドパミンパーシャルアゴニストは統合失調症患者の自殺リスクに影響を及ぼすか｜CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZOFVrNW5QVHRwSHN1a2lIZHRGMmpQcTY5V3d5YlZyaV9USHhHNFZFZF9YYzY2RTJOUFRLc2IxdFdNWF8tSWp6OWd4SHcxM1FQa1dCYWI0aVhoSnpWRjB3?oc=5)
+
+2026-10-27
+
+出典: [CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZOFVrNW5QVHRwSHN1a2lIZHRGMmpQcTY5V3d5YlZyaV9USHhHNFZFZF9YYzY2RTJOUFRLc2IxdFdNWF8tSWp6OWd4SHcxM1FQa1dCYWI0aVhoSnpWRjB3?oc=5)
 
 ---
 

@@ -32,6 +32,14 @@ last_modified_at: 2026-11-01
 
 ## 関連ニュース（5 件）
 
+### [社説：インフル流行の長期化 拡大警戒し対策の徹底を](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZVDBBazZ4bU43a3BPZGE1T3B4cHJZanhTTU9TVGlZTE15V0wzWHA3MWlnM1hjWGI3cFRXakN0cDZDZDE1WEJ1VWdXUDAwRWZjazQ3Vl9uRTExVWtDZE9GT0RQdDd5S3BL?oc=5)
+
+2026-11-01 <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [毎日新聞](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZVDBBazZ4bU43a3BPZGE1T3B4cHJZanhTTU9TVGlZTE15V0wzWHA3MWlnM1hjWGI3cFRXakN0cDZDZDE1WEJ1VWdXUDAwRWZjazQ3Vl9uRTExVWtDZE9GT0RQdDd5S3BL?oc=5)
+
+---
+
 ### [インフルエンザ後の子供が重篤な状態、医師は親が絶対に見過ごすべきではない兆候を警告](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUmpBa0tIcVBWN01VS0xhUk05UlA2c25yYWhfRHJfazlMcm1DWE5PTU5lMzFQejZTZU1NOHloMWoya1E5MWREbUxVTnRjYllNT1Njb0tHcWlMb0V1VTZqa3Y2V0x1c2dSb3J3U2VXeHozc2VzTC16RU5YcDlYVUxLU2dZLU5XX1V6YkZ3TUhPazB1MWFWUkNRRmx5YzVXZ0RQRVVMWGxxQ1U4SWt0TlNjODJveDNZZTdwampr?oc=5)
 
 2026-11-01 <span class="news-indication-tag">インフルエンザ</span>
@@ -61,14 +69,6 @@ last_modified_at: 2026-11-01
 2026-10-29 <span class="news-indication-tag">インフルエンザ</span>
 
 出典: [週刊女性PRIME](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBrc0Vya251ZzJDdUhNRXdmejhKVXpiY0pTTXdhTHFMTlVZdjA3bms3REtPdkdHRHRGODFWVVhfT2hZQ2JNaU4ybVprWExTc2h6clQ5UUtvVGhybzRu?oc=5)
-
----
-
-### [インフルエンザ流行「昨年より1カ月早い」 広島・山口など中国地方 医療現場は接種前倒し](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9BUjAwbEpOMm00a0NqUjBMZVZIQlBFVEctaWc4b2xZSURmYlZHY1FoSnlhWEsxbEVKU1RTa1B0cDNPcUdXTnVOc1gtOA?oc=5)
-
-2026-10-27 <span class="news-indication-tag">インフルエンザ</span>
-
-出典: [47NEWS](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9BUjAwbEpOMm00a0NqUjBMZVZIQlBFVEctaWc4b2xZSURmYlZHY1FoSnlhWEsxbEVKU1RTa1B0cDNPcUdXTnVOc1gtOA?oc=5)
 
 ---
 

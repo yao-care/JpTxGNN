@@ -15,7 +15,7 @@ last_modified_at: 2026-11-01
 ---
 
 <p class="key-answer" data-question="リスパダール錠２ｍｇ（選） に関するニュースは？">
-<strong>リスパダール錠２ｍｇ（選）</strong> には現在 <strong>13 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>リスパダール錠２ｍｇ（選）</strong> には現在 <strong>14 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,7 @@ last_modified_at: 2026-11-01
 <p><a href="{{ '/drugs/risperidone/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（13 件）
+## 関連ニュース（14 件）
 
 ### [【闘病】自覚症状はなかったのに… 「転移なし」から一転した『子宮頸がん』はステージ3（メディカルドック）](https://news.google.com/rss/articles/CBMif0FVX3lxTE51SXowbVdvMTVMT1RQMzJ1WWpXMjMxS3RfRElJemhJMWI4MFQwM0Jwa3VCVi1zdkZNb0M4Z1NVby02ekdwMUlIY2V4TG5yaHF1TldDLUJvQm5UTFEweFh3VXl2STRMOGZ5Q2FrZG0yRF9WUkExUlo4b0thSGpsUmc?oc=5)
 
@@ -103,6 +103,14 @@ last_modified_at: 2026-11-01
 
 ---
 
+### [ドパミンパーシャルアゴニストは統合失調症患者の自殺リスクに影響を及ぼすか｜CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZOFVrNW5QVHRwSHN1a2lIZHRGMmpQcTY5V3d5YlZyaV9USHhHNFZFZF9YYzY2RTJOUFRLc2IxdFdNWF8tSWp6OWd4SHcxM1FQa1dCYWI0aVhoSnpWRjB3?oc=5)
+
+2026-10-27 <span class="news-indication-tag">統合失調症</span>
+
+出典: [CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZOFVrNW5QVHRwSHN1a2lIZHRGMmpQcTY5V3d5YlZyaV9USHhHNFZFZF9YYzY2RTJOUFRLc2IxdFdNWF8tSWp6OWd4SHcxM1FQa1dCYWI0aVhoSnpWRjB3?oc=5)
+
+---
+
 ### [化学療法反応スコアは進行卵巣がんのPARP阻害薬維持療法の効果を予測可能か／Gynecol Oncol｜CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QWVhPZGVwQU5sVEc3c0JnS25TelYya1J2OUw0SmtCMDNabHNLWnpkMEFWRFZnUnpfRFI5ZTdMRXRiWlBONFpyYl9SM1A0Yk1fMUo2MTZkOGVHVzNLeV9B?oc=5)
 
 2026-10-27 <span class="news-indication-tag">がん</span>
@@ -129,7 +137,7 @@ last_modified_at: 2026-11-01
 
 ### [GSKのがん治療薬、直腸がん患者の76%で腫瘍が完全消失 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース](https://news.google.com/rss/articles/CBMicEFVX3lxTE5QYTU3d3daMks1MzZSSWJucWNNOWhnZXpsM3I0RGhlOXF2UEhyajdTQlRFcWo0SDBNeXJKWnJKc2hnUzZGa3UzTUdoemFXUVFlVU02RGdjblZpMnFMTEJMdEtyQkRxc2pnTVNiXzdJaU0?oc=5)
 
-2026-10-26 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">癌</span> <span class="news-indication-tag">腫瘍</span> <span class="news-indication-tag">直腸がん</span>
+2026-10-26 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">腫瘍</span> <span class="news-indication-tag">直腸がん</span>
 
 出典: [Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース](https://news.google.com/rss/articles/CBMicEFVX3lxTE5QYTU3d3daMks1MzZSSWJucWNNOWhnZXpsM3I0RGhlOXF2UEhyajdTQlRFcWo0SDBNeXJKWnJKc2hnUzZGa3UzTUdoemFXUVFlVU02RGdjblZpMnFMTEJMdEtyQkRxc2pnTVNiXzdJaU0?oc=5)
 
