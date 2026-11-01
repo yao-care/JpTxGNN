@@ -18,13 +18,7 @@ _KF = None  # known_use_filter 模組快取（2026-10-21）
 
 
 def _market_status(valid, lics, partial):
-    """2026-10-22（pm A8）：kr 原始資料沒有取消／撤回欄位 → 未知；核准但未上市另列。"""
-    try:
-        from ..paths import get_project_root
-        if get_project_root().name == "KrTxGNN":
-            return "Unknown (source lacks cancellation status)"
-    except Exception:
-        pass
+    """核准但未上市另列。2026-10-31：kr 改依 nedrug 的取消／撤回狀態（license_status），不再固定回傳 Unknown。"""
     if valid:
         return "Marketed"
     if any(x["status"] == "not_marketed" for x in lics):
