@@ -48,19 +48,19 @@ last_modified_at: 2026-11-01
 
 ---
 
+### [【11月はパープルリボン月間】だ液によるがんリスク検査「サリバチェッカー®」が特別キャンペーンを実施。 - PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE9XRnhxQWI4dlF6NUw0RVFiV1ljRURfa1YwSi1Gd0VjNEJnYWs1R0pFc29IdXllVHIxeFp0b3FyLTNwcHJUTjRwc2JqWWl5bnlxeUZvLUt1U29Wc3dSdDc4ZWl6VTVUeFdzVGc?oc=5)
+
+2026-11-01 <span class="news-indication-tag">がん</span>
+
+出典: [PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE9XRnhxQWI4dlF6NUw0RVFiV1ljRURfa1YwSi1Gd0VjNEJnYWs1R0pFc29IdXllVHIxeFp0b3FyLTNwcHJUTjRwc2JqWWl5bnlxeUZvLUt1U29Wc3dSdDc4ZWl6VTVUeFdzVGc?oc=5)
+
+---
+
 ### [【闘病】2時間止まらない鼻血と白い塊… 正体はHPVによる『鼻腔がん』だった（メディカルドック）](https://news.google.com/rss/articles/CBMif0FVX3lxTFBQMmhaQU82bU1YQTRzMDRVd3h3UnFpVEVqZ1Z1OUtPTTZKbEF6SWU0N1V5Unh1VVRyb0I3alpGaFpvZTRSUnBSblJVQ3FOMUhvV0ZnWVRsbWh5VE9IZjA2RVoxQUJDdTVjeFZfUUhRUHRRVjcwd3Z0RE5FYXBKRDg?oc=5)
 
 2026-10-31 <span class="news-indication-tag">がん</span>
 
 出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBQMmhaQU82bU1YQTRzMDRVd3h3UnFpVEVqZ1Z1OUtPTTZKbEF6SWU0N1V5Unh1VVRyb0I3alpGaFpvZTRSUnBSblJVQ3FOMUhvV0ZnWVRsbWh5VE9IZjA2RVoxQUJDdTVjeFZfUUhRUHRRVjcwd3Z0RE5FYXBKRDg?oc=5) · [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/5237762cb32e9371e8efb5973a0839ca72e76d49?source=rss)
-
----
-
-### [認知症を引き起こす「ペットボトル飲料」のリスク…亡くなった人の脳から「クレヨン1本分」の微小プラスチックが検出された](https://news.google.com/rss/articles/CBMif0FVX3lxTFBCUEZMN04tYnNFR2NSelVBdnZvcnlGaExEc00zQnYxVE9XRndFQ09MS0hwVmZVSjZHMDZPcEtUYU9GdExpbE1SZnhTNklLNlVNRHlOZnk4SjYzTGJIRTFQbHR0clIwZUJxUXQyVXZvblZtQnNDdWRZTjdWa2hlbms?oc=5)
-
-2026-10-31 <span class="news-indication-tag">認知症</span>
-
-出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBCUEZMN04tYnNFR2NSelVBdnZvcnlGaExEc00zQnYxVE9XRndFQ09MS0hwVmZVSjZHMDZPcEtUYU9GdExpbE1SZnhTNklLNlVNRHlOZnk4SjYzTGJIRTFQbHR0clIwZUJxUXQyVXZvblZtQnNDdWRZTjdWa2hlbms?oc=5)
 
 ---
 
@@ -96,14 +96,6 @@ last_modified_at: 2026-11-01
 
 ---
 
-### [糖尿病の悪化と体重減少、膵がん早期発見の鍵に－東北大ほか](https://news.google.com/rss/articles/CBMihgFBVV95cUxPQUlTMXM0eENVbmwzcTZTeUw5V2MtdjhrSV9Ra24ySUQyQjcteUVXR25SYk9EOWk3dzZ4eVg2eXdUc3VCd1p0LS1rQ296NzZnQTVBdVI1RmFHel9uYVpKSDF3UjZmZlQ0cDc2dGdWWXowT3htMW11MllXMTFXTVFESkhxdE9RUQ?oc=5)
-
-2026-10-28 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">膵がん</span>
-
-出典: [QLifePro](https://news.google.com/rss/articles/CBMihgFBVV95cUxPQUlTMXM0eENVbmwzcTZTeUw5V2MtdjhrSV9Ra24ySUQyQjcteUVXR25SYk9EOWk3dzZ4eVg2eXdUc3VCd1p0LS1rQ296NzZnQTVBdVI1RmFHel9uYVpKSDF3UjZmZlQ0cDc2dGdWWXowT3htMW11MllXMTFXTVFESkhxdE9RUQ?oc=5)
-
----
-
 ### [化学療法反応スコアは進行卵巣がんのPARP阻害薬維持療法の効果を予測可能か／Gynecol Oncol｜CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QWVhPZGVwQU5sVEc3c0JnS25TelYya1J2OUw0SmtCMDNabHNLWnpkMEFWRFZnUnpfRFI5ZTdMRXRiWlBONFpyYl9SM1A0Yk1fMUo2MTZkOGVHVzNLeV9B?oc=5)
 
 2026-10-27 <span class="news-indication-tag">がん</span>
@@ -133,6 +125,14 @@ last_modified_at: 2026-11-01
 2026-10-26 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">癌</span> <span class="news-indication-tag">腫瘍</span> <span class="news-indication-tag">直腸がん</span>
 
 出典: [Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース](https://news.google.com/rss/articles/CBMicEFVX3lxTE5QYTU3d3daMks1MzZSSWJucWNNOWhnZXpsM3I0RGhlOXF2UEhyajdTQlRFcWo0SDBNeXJKWnJKc2hnUzZGa3UzTUdoemFXUVFlVU02RGdjblZpMnFMTEJMdEtyQkRxc2pnTVNiXzdJaU0?oc=5)
+
+---
+
+### [お菓子やソーセージの食べすぎに注意？「超加工食品」と脳の異常に関連、約8800人を調査 - DAILYSUN NEW YORK](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJbjhvWjg2RnJYNF91VFRPWWUzVkRMZjBkSDNUc3hlalNlNC04a2R6RXdiaHluTmJyUW1WY0hIYzVxZ3lXZTJXVDFNUmtUVDFqWFEwcXh2N0VneldUb094dA?oc=5)
+
+2026-10-26 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
+
+出典: [DAILYSUN NEW YORK](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJbjhvWjg2RnJYNF91VFRPWWUzVkRMZjBkSDNUc3hlalNlNC04a2R6RXdiaHluTmJyUW1WY0hIYzVxZ3lXZTJXVDFNUmtUVDFqWFEwcXh2N0VneldUb094dA?oc=5)
 
 ---
 

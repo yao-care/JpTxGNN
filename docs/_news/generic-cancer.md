@@ -3,7 +3,7 @@ layout: default
 title: "がん (generic_cancer) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "がん (generic_cancer) に関する健康ニュース。ニュース 12 件、関連医薬品 67 件。"
+description: "がん (generic_cancer) に関する健康ニュース。ニュース 13 件、関連医薬品 67 件。"
 permalink: /news/generic-cancer/
 last_modified_at: 2026-11-01
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-01
 ---
 
 <p class="key-answer" data-question="がん (generic_cancer) に関するニュースは？">
-<strong>がん (generic_cancer)</strong> には現在 <strong>12 件</strong>の関連ニュースと 67 件の関連医薬品があります。
+<strong>がん (generic_cancer)</strong> には現在 <strong>13 件</strong>の関連ニュースと 67 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -94,7 +94,7 @@ last_modified_at: 2026-11-01
 </ul>
 </div>
 
-## 関連ニュース（12 件）
+## 関連ニュース（13 件）
 
 ### [【闘病】自覚症状はなかったのに… 「転移なし」から一転した『子宮頸がん』はステージ3（メディカルドック）](https://news.google.com/rss/articles/CBMif0FVX3lxTE51SXowbVdvMTVMT1RQMzJ1WWpXMjMxS3RfRElJemhJMWI4MFQwM0Jwa3VCVi1zdkZNb0M4Z1NVby02ekdwMUlIY2V4TG5yaHF1TldDLUJvQm5UTFEweFh3VXl2STRMOGZ5Q2FrZG0yRF9WUkExUlo4b0thSGpsUmc?oc=5)
 
@@ -109,6 +109,14 @@ last_modified_at: 2026-11-01
 2026-11-01
 
 出典: [テレ朝NEWS](https://news.google.com/rss/articles/CBMickFVX3lxTFB3MWZZTnBJRGNyMmtINExpV0EwRlZLR0drQnZ2N29kZUNRUXh2SjcyY2lyNk9KWnM1blZMMUZyUkFqSi1xZnREaEhXN056c0pvaXFmVUxSMjZjU0JIakU5b0h6OV95WEEwN0dIN3ZrSzk5QQ?oc=5)
+
+---
+
+### [【11月はパープルリボン月間】だ液によるがんリスク検査「サリバチェッカー®」が特別キャンペーンを実施。 - PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE9XRnhxQWI4dlF6NUw0RVFiV1ljRURfa1YwSi1Gd0VjNEJnYWs1R0pFc29IdXllVHIxeFp0b3FyLTNwcHJUTjRwc2JqWWl5bnlxeUZvLUt1U29Wc3dSdDc4ZWl6VTVUeFdzVGc?oc=5)
+
+2026-11-01
+
+出典: [PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE9XRnhxQWI4dlF6NUw0RVFiV1ljRURfa1YwSi1Gd0VjNEJnYWs1R0pFc29IdXllVHIxeFp0b3FyLTNwcHJUTjRwc2JqWWl5bnlxeUZvLUt1U29Wc3dSdDc4ZWl6VTVUeFdzVGc?oc=5)
 
 ---
 
@@ -152,14 +160,6 @@ last_modified_at: 2026-11-01
 
 ---
 
-### [糖尿病の悪化と体重減少、膵がん早期発見の鍵に－東北大ほか](https://news.google.com/rss/articles/CBMihgFBVV95cUxPQUlTMXM0eENVbmwzcTZTeUw5V2MtdjhrSV9Ra24ySUQyQjcteUVXR25SYk9EOWk3dzZ4eVg2eXdUc3VCd1p0LS1rQ296NzZnQTVBdVI1RmFHel9uYVpKSDF3UjZmZlQ0cDc2dGdWWXowT3htMW11MllXMTFXTVFESkhxdE9RUQ?oc=5)
-
-2026-10-28
-
-出典: [QLifePro](https://news.google.com/rss/articles/CBMihgFBVV95cUxPQUlTMXM0eENVbmwzcTZTeUw5V2MtdjhrSV9Ra24ySUQyQjcteUVXR25SYk9EOWk3dzZ4eVg2eXdUc3VCd1p0LS1rQ296NzZnQTVBdVI1RmFHel9uYVpKSDF3UjZmZlQ0cDc2dGdWWXowT3htMW11MllXMTFXTVFESkhxdE9RUQ?oc=5)
-
----
-
 ### [化学療法反応スコアは進行卵巣がんのPARP阻害薬維持療法の効果を予測可能か／Gynecol Oncol｜CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QWVhPZGVwQU5sVEc3c0JnS25TelYya1J2OUw0SmtCMDNabHNLWnpkMEFWRFZnUnpfRFI5ZTdMRXRiWlBONFpyYl9SM1A0Yk1fMUo2MTZkOGVHVzNLeV9B?oc=5)
 
 2026-10-27
@@ -189,6 +189,14 @@ last_modified_at: 2026-11-01
 2026-10-26
 
 出典: [Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース](https://news.google.com/rss/articles/CBMicEFVX3lxTE5QYTU3d3daMks1MzZSSWJucWNNOWhnZXpsM3I0RGhlOXF2UEhyajdTQlRFcWo0SDBNeXJKWnJKc2hnUzZGa3UzTUdoemFXUVFlVU02RGdjblZpMnFMTEJMdEtyQkRxc2pnTVNiXzdJaU0?oc=5)
+
+---
+
+### [お菓子やソーセージの食べすぎに注意？「超加工食品」と脳の異常に関連、約8800人を調査 - DAILYSUN NEW YORK](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJbjhvWjg2RnJYNF91VFRPWWUzVkRMZjBkSDNUc3hlalNlNC04a2R6RXdiaHluTmJyUW1WY0hIYzVxZ3lXZTJXVDFNUmtUVDFqWFEwcXh2N0VneldUb094dA?oc=5)
+
+2026-10-26
+
+出典: [DAILYSUN NEW YORK](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJbjhvWjg2RnJYNF91VFRPWWUzVkRMZjBkSDNUc3hlalNlNC04a2R6RXdiaHluTmJyUW1WY0hIYzVxZ3lXZTJXVDFNUmtUVDFqWFEwcXh2N0VneldUb094dA?oc=5)
 
 ---
 

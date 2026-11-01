@@ -3,7 +3,7 @@ layout: default
 title: "認知症 (dementia) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "認知症 (dementia) に関する健康ニュース。ニュース 2 件、関連医薬品 2 件。"
+description: "認知症 (dementia) に関する健康ニュース。ニュース 1 件、関連医薬品 2 件。"
 permalink: /news/dementia/
 last_modified_at: 2026-11-01
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-01
 ---
 
 <p class="key-answer" data-question="認知症 (dementia) に関するニュースは？">
-<strong>認知症 (dementia)</strong> には現在 <strong>2 件</strong>の関連ニュースと 2 件の関連医薬品があります。
+<strong>認知症 (dementia)</strong> には現在 <strong>1 件</strong>の関連ニュースと 2 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -31,21 +31,13 @@ last_modified_at: 2026-11-01
 </ul>
 </div>
 
-## 関連ニュース（2 件）
+## 関連ニュース（1 件）
 
 ### [認知症薬は予想より2年早く登場 医療の未来図、AI診察やがん治療はどうなる？](https://news.google.com/rss/articles/CBMickFVX3lxTFB3MWZZTnBJRGNyMmtINExpV0EwRlZLR0drQnZ2N29kZUNRUXh2SjcyY2lyNk9KWnM1blZMMUZyUkFqSi1xZnREaEhXN056c0pvaXFmVUxSMjZjU0JIakU5b0h6OV95WEEwN0dIN3ZrSzk5QQ?oc=5)
 
 2026-11-01
 
 出典: [テレ朝NEWS](https://news.google.com/rss/articles/CBMickFVX3lxTFB3MWZZTnBJRGNyMmtINExpV0EwRlZLR0drQnZ2N29kZUNRUXh2SjcyY2lyNk9KWnM1blZMMUZyUkFqSi1xZnREaEhXN056c0pvaXFmVUxSMjZjU0JIakU5b0h6OV95WEEwN0dIN3ZrSzk5QQ?oc=5)
-
----
-
-### [認知症を引き起こす「ペットボトル飲料」のリスク…亡くなった人の脳から「クレヨン1本分」の微小プラスチックが検出された](https://news.google.com/rss/articles/CBMif0FVX3lxTFBCUEZMN04tYnNFR2NSelVBdnZvcnlGaExEc00zQnYxVE9XRndFQ09MS0hwVmZVSjZHMDZPcEtUYU9GdExpbE1SZnhTNklLNlVNRHlOZnk4SjYzTGJIRTFQbHR0clIwZUJxUXQyVXZvblZtQnNDdWRZTjdWa2hlbms?oc=5)
-
-2026-10-31
-
-出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBCUEZMN04tYnNFR2NSelVBdnZvcnlGaExEc00zQnYxVE9XRndFQ09MS0hwVmZVSjZHMDZPcEtUYU9GdExpbE1SZnhTNklLNlVNRHlOZnk4SjYzTGJIRTFQbHR0clIwZUJxUXQyVXZvblZtQnNDdWRZTjdWa2hlbms?oc=5)
 
 ---
 

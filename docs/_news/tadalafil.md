@@ -15,7 +15,7 @@ last_modified_at: 2026-11-01
 ---
 
 <p class="key-answer" data-question="ザルティア錠５ｍｇ（選） に関するニュースは？">
-<strong>ザルティア錠５ｍｇ（選）</strong> には現在 <strong>1 件</strong>の関連ニュースがあり、予測適応症は 8 件です。
+<strong>ザルティア錠５ｍｇ（選）</strong> には現在 <strong>2 件</strong>の関連ニュースがあり、予測適応症は 8 件です。
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,21 @@ last_modified_at: 2026-11-01
 <p><a href="{{ '/drugs/tadalafil/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（1 件）
+## 関連ニュース（2 件）
 
 ### [ヴィンロン省は、脳卒中の予防、救急能力の向上、死亡リスクの軽減に積極的に取り組んでいます。](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ3ExNzR0eXI5QjhUaGVEOEliZDUzMEtlMjNERzZoLURLdjM0Y2xKcERvdDQ1aE4wczlOY3lVOXZoc0pxRVhfLWxNd2xFWXh3clJRYnpTTmNlejI5NUVidWZBTHRpOW9OSnlCcllWRzVmcUdHVHVyUGdQRUZpU0UydVprZEdieGRxVlZrX2tLZEZmSnlXZWxweDdXVmpObFozVzhlaTlWclByazFoczJBc2FYeXljcUlMMUpvbmJXcXI?oc=5)
 
 2026-10-30 <span class="news-indication-tag">脳卒中</span>
 
 出典: [Laodong.vn](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ3ExNzR0eXI5QjhUaGVEOEliZDUzMEtlMjNERzZoLURLdjM0Y2xKcERvdDQ1aE4wczlOY3lVOXZoc0pxRVhfLWxNd2xFWXh3clJRYnpTTmNlejI5NUVidWZBTHRpOW9OSnlCcllWRzVmcUdHVHVyUGdQRUZpU0UydVprZEdieGRxVlZrX2tLZEZmSnlXZWxweDdXVmpObFozVzhlaTlWclByazFoczJBc2FYeXljcUlMMUpvbmJXcXI?oc=5)
+
+---
+
+### [9520のタンパクから真の原因へ：プロテオゲノミクス×因果推論で拓く虚血性心疾患の創薬](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kYVA0TEsyejJrRTRlQ2hxZER4dmpIZkJNamI5MDZ0UU5sLUh0UC1Wbkd6YUJoUUFHRUZYUHFYUGJua3Nvd05oMlJ1LUxEeWl0VWc?oc=5)
+
+2026-10-25 <span class="news-indication-tag">心疾患</span>
+
+出典: [m3.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kYVA0TEsyejJrRTRlQ2hxZER4dmpIZkJNamI5MDZ0UU5sLUh0UC1Wbkd6YUJoUUFHRUZYUHFYUGJua3Nvd05oMlJ1LUxEeWl0VWc?oc=5)
 
 ---
 

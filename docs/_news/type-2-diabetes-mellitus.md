@@ -3,9 +3,9 @@ layout: default
 title: "2型糖尿病 (type 2 diabetes mellitus) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "2型糖尿病 (type 2 diabetes mellitus) に関する健康ニュース。ニュース 2 件、関連医薬品 5 件。"
+description: "2型糖尿病 (type 2 diabetes mellitus) に関する健康ニュース。ニュース 1 件、関連医薬品 5 件。"
 permalink: /news/type-2-diabetes-mellitus/
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-01
 ---
 
 # 2型糖尿病 (type 2 diabetes mellitus) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-31
 ---
 
 <p class="key-answer" data-question="2型糖尿病 (type 2 diabetes mellitus) に関するニュースは？">
-<strong>2型糖尿病 (type 2 diabetes mellitus)</strong> には現在 <strong>2 件</strong>の関連ニュースと 5 件の関連医薬品があります。
+<strong>2型糖尿病 (type 2 diabetes mellitus)</strong> には現在 <strong>1 件</strong>の関連ニュースと 5 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -32,21 +32,13 @@ last_modified_at: 2026-10-31
 </ul>
 </div>
 
-## 関連ニュース（2 件）
+## 関連ニュース（1 件）
 
 ### [2型糖尿病患者で肥満関連がんの罹患率が増加｜ニュース](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JbXQ4MXk1Q1RFZWViLWItcUw1NnhMMVlod1VWYm9tMEJqREVpOEQ0MVcyNlB0ZC0zT2Z4b1ZEaldueDF0dXJnSVV3MDl4Rk5HSnhmR3VHanRVSXhmWkFTTE8tOHNRNkVp?oc=5)
 
 2026-10-27
 
 出典: [保健指導リソースガイド](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JbXQ4MXk1Q1RFZWViLWItcUw1NnhMMVlod1VWYm9tMEJqREVpOEQ0MVcyNlB0ZC0zT2Z4b1ZEaldueDF0dXJnSVV3MDl4Rk5HSnhmR3VHanRVSXhmWkFTTE8tOHNRNkVp?oc=5)
-
----
-
-### [糖尿病患者が合併症を避けるために運動する際の注意点](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdWlKM2NROEJLc21CYndwTHNNMHBFRXBrTXBLSGdFNXBLY1plQ2ZaYjhKdGNVVHM5R2FuUFhKdF9XdVJybV9WUEpXWE9aRDUzRnViejFqejVOUGZrZEc0UjZoMFAtVDROZ0lRSzROd1RiVTJtam02N0NWOXFPal94allvVVVGVjBVWHcxLWJLZ01lT1EtNGR1M0ZSX1M0RUpUNjNvdXFsdnVXUQ?oc=5)
-
-2026-10-27
-
-出典: [Laodong.vn](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdWlKM2NROEJLc21CYndwTHNNMHBFRXBrTXBLSGdFNXBLY1plQ2ZaYjhKdGNVVHM5R2FuUFhKdF9XdVJybV9WUEpXWE9aRDUzRnViejFqejVOUGZrZEc0UjZoMFAtVDROZ0lRSzROd1RiVTJtam02N0NWOXFPal94allvVVVGVjBVWHcxLWJLZ01lT1EtNGR1M0ZSX1M0RUpUNjNvdXFsdnVXUQ?oc=5)
 
 ---
 

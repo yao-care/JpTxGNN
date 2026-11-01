@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "アマリール０．５ｍｇ錠（選） に関する健康ニュース。予測適応症 9 件。"
 permalink: /news/glimepiride/
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-01
 ---
 
 # アマリール０．５ｍｇ錠（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-31
 ---
 
 <p class="key-answer" data-question="アマリール０．５ｍｇ錠（選） に関するニュースは？">
-<strong>アマリール０．５ｍｇ錠（選）</strong> には現在 <strong>2 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
+<strong>アマリール０．５ｍｇ錠（選）</strong> には現在 <strong>1 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
 </p>
 
 <div class="key-takeaway">
@@ -41,21 +41,13 @@ last_modified_at: 2026-10-31
 <p><a href="{{ '/drugs/glimepiride/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（2 件）
+## 関連ニュース（1 件）
 
 ### [2型糖尿病患者で肥満関連がんの罹患率が増加｜ニュース](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JbXQ4MXk1Q1RFZWViLWItcUw1NnhMMVlod1VWYm9tMEJqREVpOEQ0MVcyNlB0ZC0zT2Z4b1ZEaldueDF0dXJnSVV3MDl4Rk5HSnhmR3VHanRVSXhmWkFTTE8tOHNRNkVp?oc=5)
 
 2026-10-27 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">2型糖尿病</span>
 
 出典: [保健指導リソースガイド](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JbXQ4MXk1Q1RFZWViLWItcUw1NnhMMVlod1VWYm9tMEJqREVpOEQ0MVcyNlB0ZC0zT2Z4b1ZEaldueDF0dXJnSVV3MDl4Rk5HSnhmR3VHanRVSXhmWkFTTE8tOHNRNkVp?oc=5)
-
----
-
-### [糖尿病患者が合併症を避けるために運動する際の注意点](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdWlKM2NROEJLc21CYndwTHNNMHBFRXBrTXBLSGdFNXBLY1plQ2ZaYjhKdGNVVHM5R2FuUFhKdF9XdVJybV9WUEpXWE9aRDUzRnViejFqejVOUGZrZEc0UjZoMFAtVDROZ0lRSzROd1RiVTJtam02N0NWOXFPal94allvVVVGVjBVWHcxLWJLZ01lT1EtNGR1M0ZSX1M0RUpUNjNvdXFsdnVXUQ?oc=5)
-
-2026-10-27 <span class="news-indication-tag">2型糖尿病</span>
-
-出典: [Laodong.vn](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdWlKM2NROEJLc21CYndwTHNNMHBFRXBrTXBLSGdFNXBLY1plQ2ZaYjhKdGNVVHM5R2FuUFhKdF9XdVJybV9WUEpXWE9aRDUzRnViejFqejVOUGZrZEc0UjZoMFAtVDROZ0lRSzROd1RiVTJtam02N0NWOXFPal94allvVVVGVjBVWHcxLWJLZ01lT1EtNGR1M0ZSX1M0RUpUNjNvdXFsdnVXUQ?oc=5)
 
 ---
 
