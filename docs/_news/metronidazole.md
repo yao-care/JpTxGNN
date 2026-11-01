@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "メトロニダゾールゲル０．７５％「マルイシ」 に関する健康ニュース。予測適応症 10 件。"
 permalink: /news/metronidazole/
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-01
 ---
 
 # メトロニダゾールゲル０．７５％「マルイシ」 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-31
 ---
 
 <p class="key-answer" data-question="メトロニダゾールゲル０．７５％「マルイシ」 に関するニュースは？">
-<strong>メトロニダゾールゲル０．７５％「マルイシ」</strong> には現在 <strong>14 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>メトロニダゾールゲル０．７５％「マルイシ」</strong> には現在 <strong>15 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,29 @@ last_modified_at: 2026-10-31
 <p><a href="{{ '/drugs/metronidazole/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（14 件）
+## 関連ニュース（15 件）
+
+### [【闘病】自覚症状はなかったのに… 「転移なし」から一転した『子宮頸がん』はステージ3（メディカルドック）](https://news.google.com/rss/articles/CBMif0FVX3lxTE51SXowbVdvMTVMT1RQMzJ1WWpXMjMxS3RfRElJemhJMWI4MFQwM0Jwa3VCVi1zdkZNb0M4Z1NVby02ekdwMUlIY2V4TG5yaHF1TldDLUJvQm5UTFEweFh3VXl2STRMOGZ5Q2FrZG0yRF9WUkExUlo4b0thSGpsUmc?oc=5)
+
+2026-11-01 <span class="news-indication-tag">がん</span>
+
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE51SXowbVdvMTVMT1RQMzJ1WWpXMjMxS3RfRElJemhJMWI4MFQwM0Jwa3VCVi1zdkZNb0M4Z1NVby02ekdwMUlIY2V4TG5yaHF1TldDLUJvQm5UTFEweFh3VXl2STRMOGZ5Q2FrZG0yRF9WUkExUlo4b0thSGpsUmc?oc=5) · [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/ae80c2ddc4ac5854538454ffb5677c74bc06989f?source=rss)
+
+---
+
+### [認知症薬は予想より2年早く登場 医療の未来図、AI診察やがん治療はどうなる？](https://news.google.com/rss/articles/CBMickFVX3lxTFB3MWZZTnBJRGNyMmtINExpV0EwRlZLR0drQnZ2N29kZUNRUXh2SjcyY2lyNk9KWnM1blZMMUZyUkFqSi1xZnREaEhXN056c0pvaXFmVUxSMjZjU0JIakU5b0h6OV95WEEwN0dIN3ZrSzk5QQ?oc=5)
+
+2026-11-01 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">認知症</span>
+
+出典: [テレ朝NEWS](https://news.google.com/rss/articles/CBMickFVX3lxTFB3MWZZTnBJRGNyMmtINExpV0EwRlZLR0drQnZ2N29kZUNRUXh2SjcyY2lyNk9KWnM1blZMMUZyUkFqSi1xZnREaEhXN056c0pvaXFmVUxSMjZjU0JIakU5b0h6OV95WEEwN0dIN3ZrSzk5QQ?oc=5)
+
+---
 
 ### [【闘病】2時間止まらない鼻血と白い塊… 正体はHPVによる『鼻腔がん』だった（メディカルドック）](https://news.google.com/rss/articles/CBMif0FVX3lxTFBQMmhaQU82bU1YQTRzMDRVd3h3UnFpVEVqZ1Z1OUtPTTZKbEF6SWU0N1V5Unh1VVRyb0I3alpGaFpvZTRSUnBSblJVQ3FOMUhvV0ZnWVRsbWh5VE9IZjA2RVoxQUJDdTVjeFZfUUhRUHRRVjcwd3Z0RE5FYXBKRDg?oc=5)
 
 2026-10-31 <span class="news-indication-tag">がん</span>
 
 出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBQMmhaQU82bU1YQTRzMDRVd3h3UnFpVEVqZ1Z1OUtPTTZKbEF6SWU0N1V5Unh1VVRyb0I3alpGaFpvZTRSUnBSblJVQ3FOMUhvV0ZnWVRsbWh5VE9IZjA2RVoxQUJDdTVjeFZfUUhRUHRRVjcwd3Z0RE5FYXBKRDg?oc=5) · [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/5237762cb32e9371e8efb5973a0839ca72e76d49?source=rss)
-
----
-
-### [「なくなる日が来てほしい」検診とワクチンで“予防できる”も日本では毎年約3000人が命を失う子宮頸がん 治療で命が助かったものの子宮摘出した女性が経験を伝える取り組み 進まぬ“検診”とその要因 - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE1pcnpqX0otSFVCN1pOV2gzNFZ1ekN6WU5td3BUNnhJSHl4emVEWlpwdjdDZUVUOGwzV05icXE3UjhtdlhpcGFCekJ3RFFKUXFYOW9HdFh0LXZrclJpSW16NUJNeFYxbmZpMklkVVdn?oc=5)
-
-2026-10-30 <span class="news-indication-tag">がん</span>
-
-出典: [au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE1pcnpqX0otSFVCN1pOV2gzNFZ1ekN6WU5td3BUNnhJSHl4emVEWlpwdjdDZUVUOGwzV05icXE3UjhtdlhpcGFCekJ3RFFKUXFYOW9HdFh0LXZrclJpSW16NUJNeFYxbmZpMklkVVdn?oc=5)
 
 ---
 
@@ -76,14 +84,6 @@ last_modified_at: 2026-10-31
 
 ---
 
-### [（4）発症すると「認知症リスク」11％アップの報告が気になった｜予想以上にキツかった 帯状疱疹闘病記](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VUzNPZ29ReWIzSEZtaHZYcWN5TE03TWp3amxVUFZsa3NMR1hZbGRCdjdVMm9valFyZWNidm9KbWFWYlVUaHhUbFZqOU9SbHVBM1dTb0VfMGZva3dlcVRmRURxRE1rOEk2?oc=5)
-
-2026-10-29 <span class="news-indication-tag">帯状疱疹</span> <span class="news-indication-tag">認知症</span>
-
-出典: [日刊ゲンダイDIGITAL](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VUzNPZ29ReWIzSEZtaHZYcWN5TE03TWp3amxVUFZsa3NMR1hZbGRCdjdVMm9valFyZWNidm9KbWFWYlVUaHhUbFZqOU9SbHVBM1dTb0VfMGZva3dlcVRmRURxRE1rOEk2?oc=5)
-
----
-
 ### [統合失調症の患者に”がん治療格差”　早期発見や手術率の低さが研究で判明…「誰一人取り残さない」治療体制のために(RSK山陽放送)](https://news.yahoo.co.jp/articles/6ff977a85cf83acabac7a4a8da6462b8dbe350d3?source=rss)
 
 2026-10-29 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">統合失調症</span>
@@ -100,6 +100,14 @@ last_modified_at: 2026-10-31
 
 ---
 
+### [抗ウイルス薬、鎮痛薬、抗炎症薬…大量のクスリを4週間【予想以上にキツかった 帯状疱疹闘病記】#2](https://news.google.com/rss/articles/CBMihAFBVV95cUxQaTJlSVNYbF9abDFaMDZXTTJxQW9MWDdkaEliNWo4UGUxWU5kUk54SmdqS1M5Z0VRWFNaLUxZZnNpanB3SXV4MjJkcFhsR0JLRXp2aUxNdVZlUDE1N3NyeXRWZmtETHNSanVKWDdYV21RUGdNa0FaLUMtUU1FdTlPd3BkdHPSAYoBQVVfeXFMT2tVVFZaV2R4OFIxTTR0ME9kN0hJUDJLRzBxLUZ2d1BTb2N3Z21qN2hwUVhwTTQtZUxxaDJack5RLW05RGdobFJOUkMxY2RETHdfSDNweDRWNlBhTFhlSU56NWJZbVNKbDU1V0xZcmhNbUFMX0JiallSUU82aGlQVjRvTFBKVV9GWmZn?oc=5)
+
+2026-10-28 <span class="news-indication-tag">帯状疱疹</span>
+
+出典: [ｄメニューニュース](https://news.google.com/rss/articles/CBMihAFBVV95cUxQaTJlSVNYbF9abDFaMDZXTTJxQW9MWDdkaEliNWo4UGUxWU5kUk54SmdqS1M5Z0VRWFNaLUxZZnNpanB3SXV4MjJkcFhsR0JLRXp2aUxNdVZlUDE1N3NyeXRWZmtETHNSanVKWDdYV21RUGdNa0FaLUMtUU1FdTlPd3BkdHPSAYoBQVVfeXFMT2tVVFZaV2R4OFIxTTR0ME9kN0hJUDJLRzBxLUZ2d1BTb2N3Z21qN2hwUVhwTTQtZUxxaDJack5RLW05RGdobFJOUkMxY2RETHdfSDNweDRWNlBhTFhlSU56NWJZbVNKbDU1V0xZcmhNbUFMX0JiallSUU82aGlQVjRvTFBKVV9GWmZn?oc=5)
+
+---
+
 ### [糖尿病の悪化と体重減少、膵がん早期発見の鍵に－東北大ほか](https://news.google.com/rss/articles/CBMihgFBVV95cUxPQUlTMXM0eENVbmwzcTZTeUw5V2MtdjhrSV9Ra24ySUQyQjcteUVXR25SYk9EOWk3dzZ4eVg2eXdUc3VCd1p0LS1rQ296NzZnQTVBdVI1RmFHel9uYVpKSDF3UjZmZlQ0cDc2dGdWWXowT3htMW11MllXMTFXTVFESkhxdE9RUQ?oc=5)
 
 2026-10-28 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">膵がん</span>
@@ -108,11 +116,11 @@ last_modified_at: 2026-10-31
 
 ---
 
-### [コロナ･インフル･帯状疱疹で脳が縮む!? 身近なウイルスがアルツハイマーを引き起こす恐怖のメカニズム(東洋経済オンライン)](https://news.google.com/rss/articles/CBMihwFBVV95cUxNZW1VRHNCUmFxc2hhbDZsT3NfdFFFZnR0X3VxNzNRWWxWNHFuQ3hIX3p1TWoyV2FhY1JYWnNMamRxN1dIRDRZX3NxXzRqbks1SGhYeUtBVG5ZdVRrMFJSSEY4TGtqbmRTSGR3QUtZX2wxTmVWUkZxclozM1ZRWDBUQXdYaUthU3c?oc=5)
+### [コロナ･インフル･帯状疱疹で脳が縮む!? 身近なウイルスがアルツハイマーを引き起こす恐怖のメカニズム（東洋経済オンライン）](https://news.google.com/rss/articles/CBMifkFVX3lxTE4zODY0bE54dmNPNDNkcmZqYUFHMV9vd3l0TVB2cm5XbWkxTXhwWVdpTldmSUUza2stWlZzU0g3N3N2RFRDRV93MUVrb3g0SXRNeVBaU3ZpcG96NVNzdzlvSkZvVXhjaU1lUWNBSV9EOHpuYlEySW1JTmxqZjhqZw?oc=5)
 
 2026-10-27 <span class="news-indication-tag">帯状疱疹</span>
 
-出典: [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxNZW1VRHNCUmFxc2hhbDZsT3NfdFFFZnR0X3VxNzNRWWxWNHFuQ3hIX3p1TWoyV2FhY1JYWnNMamRxN1dIRDRZX3NxXzRqbks1SGhYeUtBVG5ZdVRrMFJSSEY4TGtqbmRTSGR3QUtZX2wxTmVWUkZxclozM1ZRWDBUQXdYaUthU3c?oc=5)
+出典: [ｄメニューニュース](https://news.google.com/rss/articles/CBMifkFVX3lxTE4zODY0bE54dmNPNDNkcmZqYUFHMV9vd3l0TVB2cm5XbWkxTXhwWVdpTldmSUUza2stWlZzU0g3N3N2RFRDRV93MUVrb3g0SXRNeVBaU3ZpcG96NVNzdzlvSkZvVXhjaU1lUWNBSV9EOHpuYlEySW1JTmxqZjhqZw?oc=5)
 
 ---
 

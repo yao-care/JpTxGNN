@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "帯状疱疹 (herpes zoster) に関する健康ニュース。ニュース 2 件、関連医薬品 3 件。"
 permalink: /news/herpes-zoster/
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-01
 ---
 
 # 帯状疱疹 (herpes zoster) 関連ニュース
@@ -34,19 +34,19 @@ last_modified_at: 2026-10-31
 
 ## 関連ニュース（2 件）
 
-### [（4）発症すると「認知症リスク」11％アップの報告が気になった｜予想以上にキツかった 帯状疱疹闘病記](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VUzNPZ29ReWIzSEZtaHZYcWN5TE03TWp3amxVUFZsa3NMR1hZbGRCdjdVMm9valFyZWNidm9KbWFWYlVUaHhUbFZqOU9SbHVBM1dTb0VfMGZva3dlcVRmRURxRE1rOEk2?oc=5)
+### [抗ウイルス薬、鎮痛薬、抗炎症薬…大量のクスリを4週間【予想以上にキツかった 帯状疱疹闘病記】#2](https://news.google.com/rss/articles/CBMihAFBVV95cUxQaTJlSVNYbF9abDFaMDZXTTJxQW9MWDdkaEliNWo4UGUxWU5kUk54SmdqS1M5Z0VRWFNaLUxZZnNpanB3SXV4MjJkcFhsR0JLRXp2aUxNdVZlUDE1N3NyeXRWZmtETHNSanVKWDdYV21RUGdNa0FaLUMtUU1FdTlPd3BkdHPSAYoBQVVfeXFMT2tVVFZaV2R4OFIxTTR0ME9kN0hJUDJLRzBxLUZ2d1BTb2N3Z21qN2hwUVhwTTQtZUxxaDJack5RLW05RGdobFJOUkMxY2RETHdfSDNweDRWNlBhTFhlSU56NWJZbVNKbDU1V0xZcmhNbUFMX0JiallSUU82aGlQVjRvTFBKVV9GWmZn?oc=5)
 
-2026-10-29
+2026-10-28
 
-出典: [日刊ゲンダイDIGITAL](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VUzNPZ29ReWIzSEZtaHZYcWN5TE03TWp3amxVUFZsa3NMR1hZbGRCdjdVMm9valFyZWNidm9KbWFWYlVUaHhUbFZqOU9SbHVBM1dTb0VfMGZva3dlcVRmRURxRE1rOEk2?oc=5)
+出典: [ｄメニューニュース](https://news.google.com/rss/articles/CBMihAFBVV95cUxQaTJlSVNYbF9abDFaMDZXTTJxQW9MWDdkaEliNWo4UGUxWU5kUk54SmdqS1M5Z0VRWFNaLUxZZnNpanB3SXV4MjJkcFhsR0JLRXp2aUxNdVZlUDE1N3NyeXRWZmtETHNSanVKWDdYV21RUGdNa0FaLUMtUU1FdTlPd3BkdHPSAYoBQVVfeXFMT2tVVFZaV2R4OFIxTTR0ME9kN0hJUDJLRzBxLUZ2d1BTb2N3Z21qN2hwUVhwTTQtZUxxaDJack5RLW05RGdobFJOUkMxY2RETHdfSDNweDRWNlBhTFhlSU56NWJZbVNKbDU1V0xZcmhNbUFMX0JiallSUU82aGlQVjRvTFBKVV9GWmZn?oc=5)
 
 ---
 
-### [コロナ･インフル･帯状疱疹で脳が縮む!? 身近なウイルスがアルツハイマーを引き起こす恐怖のメカニズム(東洋経済オンライン)](https://news.google.com/rss/articles/CBMihwFBVV95cUxNZW1VRHNCUmFxc2hhbDZsT3NfdFFFZnR0X3VxNzNRWWxWNHFuQ3hIX3p1TWoyV2FhY1JYWnNMamRxN1dIRDRZX3NxXzRqbks1SGhYeUtBVG5ZdVRrMFJSSEY4TGtqbmRTSGR3QUtZX2wxTmVWUkZxclozM1ZRWDBUQXdYaUthU3c?oc=5)
+### [コロナ･インフル･帯状疱疹で脳が縮む!? 身近なウイルスがアルツハイマーを引き起こす恐怖のメカニズム（東洋経済オンライン）](https://news.google.com/rss/articles/CBMifkFVX3lxTE4zODY0bE54dmNPNDNkcmZqYUFHMV9vd3l0TVB2cm5XbWkxTXhwWVdpTldmSUUza2stWlZzU0g3N3N2RFRDRV93MUVrb3g0SXRNeVBaU3ZpcG96NVNzdzlvSkZvVXhjaU1lUWNBSV9EOHpuYlEySW1JTmxqZjhqZw?oc=5)
 
 2026-10-27
 
-出典: [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxNZW1VRHNCUmFxc2hhbDZsT3NfdFFFZnR0X3VxNzNRWWxWNHFuQ3hIX3p1TWoyV2FhY1JYWnNMamRxN1dIRDRZX3NxXzRqbks1SGhYeUtBVG5ZdVRrMFJSSEY4TGtqbmRTSGR3QUtZX2wxTmVWUkZxclozM1ZRWDBUQXdYaUthU3c?oc=5)
+出典: [ｄメニューニュース](https://news.google.com/rss/articles/CBMifkFVX3lxTE4zODY0bE54dmNPNDNkcmZqYUFHMV9vd3l0TVB2cm5XbWkxTXhwWVdpTldmSUUza2stWlZzU0g3N3N2RFRDRV93MUVrb3g0SXRNeVBaU3ZpcG96NVNzdzlvSkZvVXhjaU1lUWNBSV9EOHpuYlEySW1JTmxqZjhqZw?oc=5)
 
 ---
 

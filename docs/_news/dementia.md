@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "認知症 (dementia) に関する健康ニュース。ニュース 2 件、関連医薬品 2 件。"
 permalink: /news/dementia/
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-01
 ---
 
 # 認知症 (dementia) 関連ニュース
@@ -33,19 +33,19 @@ last_modified_at: 2026-10-31
 
 ## 関連ニュース（2 件）
 
-### [認知症を引き起こす「ペットボトル飲料」のリスク…亡くなった人の脳から「クレヨン1本分」の微小プラスチックが検出された](https://news.google.com/rss/articles/CBMihwFBVV95cUxQN2Q4c2hSNThtZ0M5eHB5RjVKUklITTc4QjVSOFhsWHI4T2RyS3hSdXFQQUNvUWlqYS1ZX18xUFBqb0JCd2VHdEp6WEZmdUgzX1ZjdXZUMDBrelhoaFFNSE1mNnQzU3NUbGtraER2dmpIQ2NjTFk0eThYUmJsYzlRYkFxM3ZDWlE?oc=5)
+### [認知症薬は予想より2年早く登場 医療の未来図、AI診察やがん治療はどうなる？](https://news.google.com/rss/articles/CBMickFVX3lxTFB3MWZZTnBJRGNyMmtINExpV0EwRlZLR0drQnZ2N29kZUNRUXh2SjcyY2lyNk9KWnM1blZMMUZyUkFqSi1xZnREaEhXN056c0pvaXFmVUxSMjZjU0JIakU5b0h6OV95WEEwN0dIN3ZrSzk5QQ?oc=5)
 
-2026-10-30
+2026-11-01
 
-出典: [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxQN2Q4c2hSNThtZ0M5eHB5RjVKUklITTc4QjVSOFhsWHI4T2RyS3hSdXFQQUNvUWlqYS1ZX18xUFBqb0JCd2VHdEp6WEZmdUgzX1ZjdXZUMDBrelhoaFFNSE1mNnQzU3NUbGtraER2dmpIQ2NjTFk0eThYUmJsYzlRYkFxM3ZDWlE?oc=5)
+出典: [テレ朝NEWS](https://news.google.com/rss/articles/CBMickFVX3lxTFB3MWZZTnBJRGNyMmtINExpV0EwRlZLR0drQnZ2N29kZUNRUXh2SjcyY2lyNk9KWnM1blZMMUZyUkFqSi1xZnREaEhXN056c0pvaXFmVUxSMjZjU0JIakU5b0h6OV95WEEwN0dIN3ZrSzk5QQ?oc=5)
 
 ---
 
-### [（4）発症すると「認知症リスク」11％アップの報告が気になった｜予想以上にキツかった 帯状疱疹闘病記](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VUzNPZ29ReWIzSEZtaHZYcWN5TE03TWp3amxVUFZsa3NMR1hZbGRCdjdVMm9valFyZWNidm9KbWFWYlVUaHhUbFZqOU9SbHVBM1dTb0VfMGZva3dlcVRmRURxRE1rOEk2?oc=5)
+### [認知症を引き起こす「ペットボトル飲料」のリスク…亡くなった人の脳から「クレヨン1本分」の微小プラスチックが検出された](https://news.google.com/rss/articles/CBMif0FVX3lxTFBCUEZMN04tYnNFR2NSelVBdnZvcnlGaExEc00zQnYxVE9XRndFQ09MS0hwVmZVSjZHMDZPcEtUYU9GdExpbE1SZnhTNklLNlVNRHlOZnk4SjYzTGJIRTFQbHR0clIwZUJxUXQyVXZvblZtQnNDdWRZTjdWa2hlbms?oc=5)
 
-2026-10-29
+2026-10-31
 
-出典: [日刊ゲンダイDIGITAL](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VUzNPZ29ReWIzSEZtaHZYcWN5TE03TWp3amxVUFZsa3NMR1hZbGRCdjdVMm9valFyZWNidm9KbWFWYlVUaHhUbFZqOU9SbHVBM1dTb0VfMGZva3dlcVRmRURxRE1rOEk2?oc=5)
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBCUEZMN04tYnNFR2NSelVBdnZvcnlGaExEc00zQnYxVE9XRndFQ09MS0hwVmZVSjZHMDZPcEtUYU9GdExpbE1SZnhTNklLNlVNRHlOZnk4SjYzTGJIRTFQbHR0clIwZUJxUXQyVXZvblZtQnNDdWRZTjdWa2hlbms?oc=5)
 
 ---
 

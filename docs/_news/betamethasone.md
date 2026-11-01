@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "リンデロン−Ｖ軟膏０．１２％（選） に関する健康ニュース。予測適応症 8 件。"
 permalink: /news/betamethasone/
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-01
 ---
 
 # リンデロン−Ｖ軟膏０．１２％（選） 関連ニュース
@@ -42,19 +42,27 @@ last_modified_at: 2026-10-31
 
 ## 関連ニュース（13 件）
 
+### [【闘病】自覚症状はなかったのに… 「転移なし」から一転した『子宮頸がん』はステージ3（メディカルドック）](https://news.google.com/rss/articles/CBMif0FVX3lxTE51SXowbVdvMTVMT1RQMzJ1WWpXMjMxS3RfRElJemhJMWI4MFQwM0Jwa3VCVi1zdkZNb0M4Z1NVby02ekdwMUlIY2V4TG5yaHF1TldDLUJvQm5UTFEweFh3VXl2STRMOGZ5Q2FrZG0yRF9WUkExUlo4b0thSGpsUmc?oc=5)
+
+2026-11-01 <span class="news-indication-tag">がん</span>
+
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE51SXowbVdvMTVMT1RQMzJ1WWpXMjMxS3RfRElJemhJMWI4MFQwM0Jwa3VCVi1zdkZNb0M4Z1NVby02ekdwMUlIY2V4TG5yaHF1TldDLUJvQm5UTFEweFh3VXl2STRMOGZ5Q2FrZG0yRF9WUkExUlo4b0thSGpsUmc?oc=5) · [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/ae80c2ddc4ac5854538454ffb5677c74bc06989f?source=rss)
+
+---
+
+### [認知症薬は予想より2年早く登場 医療の未来図、AI診察やがん治療はどうなる？](https://news.google.com/rss/articles/CBMickFVX3lxTFB3MWZZTnBJRGNyMmtINExpV0EwRlZLR0drQnZ2N29kZUNRUXh2SjcyY2lyNk9KWnM1blZMMUZyUkFqSi1xZnREaEhXN056c0pvaXFmVUxSMjZjU0JIakU5b0h6OV95WEEwN0dIN3ZrSzk5QQ?oc=5)
+
+2026-11-01 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">認知症</span>
+
+出典: [テレ朝NEWS](https://news.google.com/rss/articles/CBMickFVX3lxTFB3MWZZTnBJRGNyMmtINExpV0EwRlZLR0drQnZ2N29kZUNRUXh2SjcyY2lyNk9KWnM1blZMMUZyUkFqSi1xZnREaEhXN056c0pvaXFmVUxSMjZjU0JIakU5b0h6OV95WEEwN0dIN3ZrSzk5QQ?oc=5)
+
+---
+
 ### [【闘病】2時間止まらない鼻血と白い塊… 正体はHPVによる『鼻腔がん』だった（メディカルドック）](https://news.google.com/rss/articles/CBMif0FVX3lxTFBQMmhaQU82bU1YQTRzMDRVd3h3UnFpVEVqZ1Z1OUtPTTZKbEF6SWU0N1V5Unh1VVRyb0I3alpGaFpvZTRSUnBSblJVQ3FOMUhvV0ZnWVRsbWh5VE9IZjA2RVoxQUJDdTVjeFZfUUhRUHRRVjcwd3Z0RE5FYXBKRDg?oc=5)
 
 2026-10-31 <span class="news-indication-tag">がん</span>
 
 出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBQMmhaQU82bU1YQTRzMDRVd3h3UnFpVEVqZ1Z1OUtPTTZKbEF6SWU0N1V5Unh1VVRyb0I3alpGaFpvZTRSUnBSblJVQ3FOMUhvV0ZnWVRsbWh5VE9IZjA2RVoxQUJDdTVjeFZfUUhRUHRRVjcwd3Z0RE5FYXBKRDg?oc=5) · [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/5237762cb32e9371e8efb5973a0839ca72e76d49?source=rss)
-
----
-
-### [「なくなる日が来てほしい」検診とワクチンで“予防できる”も日本では毎年約3000人が命を失う子宮頸がん 治療で命が助かったものの子宮摘出した女性が経験を伝える取り組み 進まぬ“検診”とその要因 - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE1pcnpqX0otSFVCN1pOV2gzNFZ1ekN6WU5td3BUNnhJSHl4emVEWlpwdjdDZUVUOGwzV05icXE3UjhtdlhpcGFCekJ3RFFKUXFYOW9HdFh0LXZrclJpSW16NUJNeFYxbmZpMklkVVdn?oc=5)
-
-2026-10-30 <span class="news-indication-tag">がん</span>
-
-出典: [au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE1pcnpqX0otSFVCN1pOV2gzNFZ1ekN6WU5td3BUNnhJSHl4emVEWlpwdjdDZUVUOGwzV05icXE3UjhtdlhpcGFCekJ3RFFKUXFYOW9HdFh0LXZrclJpSW16NUJNeFYxbmZpMklkVVdn?oc=5)
 
 ---
 
@@ -135,14 +143,6 @@ last_modified_at: 2026-10-31
 2026-10-26 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">癌</span> <span class="news-indication-tag">腫瘍</span> <span class="news-indication-tag">直腸がん</span>
 
 出典: [Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース](https://news.google.com/rss/articles/CBMicEFVX3lxTE5QYTU3d3daMks1MzZSSWJucWNNOWhnZXpsM3I0RGhlOXF2UEhyajdTQlRFcWo0SDBNeXJKWnJKc2hnUzZGa3UzTUdoemFXUVFlVU02RGdjblZpMnFMTEJMdEtyQkRxc2pnTVNiXzdJaU0?oc=5)
-
----
-
-### [9520のタンパクから真の原因へ：プロテオゲノミクス×因果推論で拓く虚血性心疾患の創薬](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kYVA0TEsyejJrRTRlQ2hxZER4dmpIZkJNamI5MDZ0UU5sLUh0UC1Wbkd6YUJoUUFHRUZYUHFYUGJua3Nvd05oMlJ1LUxEeWl0VWc?oc=5)
-
-2026-10-25 <span class="news-indication-tag">心疾患</span>
-
-出典: [m3.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kYVA0TEsyejJrRTRlQ2hxZER4dmpIZkJNamI5MDZ0UU5sLUh0UC1Wbkd6YUJoUUFHRUZYUHFYUGJua3Nvd05oMlJ1LUxEeWl0VWc?oc=5)
 
 ---
 
