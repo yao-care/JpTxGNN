@@ -6,6 +6,7 @@ on:
     paths:
       - 'docs/**'
       - '.github/workflows/pages.yml'
+      - 'scripts/stamp_sitemap_lastmod.py'
   workflow_dispatch:
 
 permissions:
@@ -23,6 +24,10 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4
+        with:
+          # 🔴 sitemap 的 lastmod 取 git commit 日期，淺 clone 只有一個 commit
+          #    會讓全站日期一模一樣（＝假訊號，比沒有 lastmod 更糟）。
+          fetch-depth: 0
 
       - name: Setup Pages
         uses: actions/configure-pages@983d7736d9b0ae728b81ab479565c72886d7745b # v5
@@ -34,6 +39,19 @@ jobs:
         with:
           source: ./docs
           destination: ./_site
+
+      # jekyll-sitemap 只對有 date 的文件（_posts）產 lastmod，521 個網址裡只有 8 個有。
+      # 沒有 lastmod，Google 沒有「這頁變了」的訊號，seo-ops 的 sitemap 過期重送判準也只
+      # 剩「網址數有沒有變」，改寫既有頁面永遠不會觸發。官方 jekyll-build-pages 受 GitHub
+      # Pages 插件白名單限制裝不了 jekyll-last-modified-at，故在建置後直接蓋。
+      # 這一步失敗不擋部署（腳本自己吞掉錯誤並印出哪幾個網址沒蓋到）。
+      - name: Stamp sitemap lastmod from git history
+        run: |
+          # actions/jekyll-build-pages 在容器裡以 root 產出 _site，後續步驟是 runner
+          # 身分，直接寫會 PermissionError: [Errno 13]（2026-08-21 run 32443001028 實遇：
+          # 讀得到、寫不進去，腳本照設計警告後放行，站照常部署但 lastmod 沒蓋上）。
+          sudo chown -R "$(id -u):$(id -g)" ./_site
+          python3 scripts/stamp_sitemap_lastmod.py ./_site/sitemap.xml
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@56afc609e74202658d3ffba0e8f6dda462b719fa # v3
