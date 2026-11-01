@@ -40,7 +40,7 @@ jobs:
           source: ./docs
           destination: ./_site
 
-      # jekyll-sitemap 只對有 date 的文件（_posts）產 lastmod，521 個網址裡只有 8 個有。
+      # jekyll-sitemap 只給有 date／last_modified_at 的頁 lastmod，首頁、about 等固定頁都沒有。
       # 沒有 lastmod，Google 沒有「這頁變了」的訊號，seo-ops 的 sitemap 過期重送判準也只
       # 剩「網址數有沒有變」，改寫既有頁面永遠不會觸發。官方 jekyll-build-pages 受 GitHub
       # Pages 插件白名單限制裝不了 jekyll-last-modified-at，故在建置後直接蓋。

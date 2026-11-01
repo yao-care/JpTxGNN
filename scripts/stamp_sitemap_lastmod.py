@@ -3,10 +3,11 @@
 
 為什麼需要這支：
     本站用 GitHub 官方的 actions/jekyll-build-pages 建置，插件受 GitHub Pages 白名單限制，
-    裝不了 jekyll-last-modified-at。而 jekyll-sitemap 只對有 date 的文件（_posts）產 lastmod，
-    於是 521 個網址裡只有 8 個有 lastmod。沒有 lastmod，Google 就沒有「這一頁變了」的訊號，
-    seo-ops 每天的 sitemap 過期重送判準也只剩「網址數有沒有變」——改寫既有頁面永遠不會觸發。
-    實例：/drugs/ 的 GSC 記錄停在 2026-05-28 的一次 404，線上早就正常，三個月沒被重抓。
+    裝不了 jekyll-last-modified-at。而 jekyll-sitemap 只給有 date／last_modified_at 的頁 lastmod，
+    首頁、about、方法論這類固定頁都沒有；沒有 front matter 的靜態檔則給建置當下的時間。
+    沒有 lastmod，Google 就沒有「這一頁變了」的訊號，seo-ops 每天的 sitemap 過期重送判準
+    也只剩「網址數有沒有變」——改寫既有頁面永遠不會觸發，GSC 會一直停在很久以前的那次檢索。
+    線上現況用母 repo 的 .claude/check_sitemap_lastmod.py 查。
 
 為什麼取 git commit 日期而不是建置時間：
     用建置時間的話，每次 build 都等於宣稱全站更新，那是假訊號，比沒有 lastmod 更糟
@@ -198,7 +199,7 @@ def main() -> int:
 
 if __name__ == "__main__":
     # sitemap 蓋不上 lastmod **不該**擋住整個站的部署——沒有 lastmod 只是 SEO 訊號變弱，
-    # 部署不出去是整站停更。但也不能安靜地失敗，否則哪天壞掉沒人知道，又回到 8/521 的狀態。
+    # 部署不出去是整站停更。但也不能安靜地失敗，否則哪天壞掉沒人知道，又回到大部分網址沒有 lastmod 的狀態。
     # 折衷：吞掉例外回 0，同時輸出 GitHub Actions 的 ::warning:: 註記，會出現在 run 摘要上。
     try:
         raise SystemExit(main())
