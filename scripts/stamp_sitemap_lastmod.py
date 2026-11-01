@@ -19,6 +19,7 @@
 """
 from __future__ import annotations
 
+import re
 import subprocess
 import sys
 import xml.etree.ElementTree as ET
@@ -54,20 +55,57 @@ def collection_lookup(docs: Path, collection: str, name: str) -> Path | None:
     return idx.get(slug(name))
 
 
+_permalink_index: dict[Path, dict[str, Path]] = {}
+_PERMALINK_RE = re.compile(r"\A﻿?---\r?\n(?:.*?\r?\n)??permalink:\s*[\"']?([^\"'\r\n]+?)[\"']?\s*\r?\n", re.S)
+_SKIP_DIRS = {"_site", ".jekyll-cache", "vendor", "node_modules", ".bundle"}
+
+
+def permalink_lookup(docs: Path, p: str) -> Path | None:
+    """front matter 寫了 permalink 的頁，以它為準。
+
+    檔名跟網址不一定一樣：導覽頁 nav-safety.md 的 permalink 是 /safety/，
+    My 站 nav-help.md 是 /bantuan/。只靠檔名猜會對不到，甚至對到同名的別頁。
+    含 :name 這類變數的 permalink 不是單一網址，略過。
+    """
+    idx = _permalink_index.get(docs)
+    if idx is None:
+        idx = {}
+        for f in sorted(docs.rglob("*")):
+            if f.suffix not in (".md", ".html", ".markdown") or not f.is_file():
+                continue
+            if _SKIP_DIRS.intersection(f.relative_to(docs).parts):
+                continue
+            try:
+                head = f.read_text(encoding="utf-8", errors="replace")[:2000]
+            except OSError:
+                continue
+            fm_end = head.find("\n---", 3)
+            m = _PERMALINK_RE.match(head[: fm_end + 1] if fm_end > 0 else "")
+            if m and ":" not in m.group(1):
+                idx.setdefault(m.group(1).strip().strip("/"), f)
+        _permalink_index[docs] = idx
+    return idx.get(p)
+
+
 def source_for(url_path: str, docs: Path) -> Path | None:
     """網址路徑 → Jekyll 原始檔。找不到回 None。
 
-    對應規則來自 docs/_config.yml：頂層 .md 走 permalink /:name/，
-    集合 drugs／news 走 /drugs/:name/、/news/:name/。
+    先看 front matter 的 permalink；沒有的話照 docs/_config.yml 的規則猜：
+    頂層 .md 走 permalink /:name/，集合 drugs／news 走 /drugs/:name/、/news/:name/。
     """
     p = url_path.strip("/")
+    hit = permalink_lookup(docs, p) if p else None
+    if hit is not None:
+        return hit
     if not p:
         for c in ("index.md", "index.html"):
             if (docs / c).is_file():
                 return docs / c
         return None
 
-    candidates = [docs / f"{p}.md", docs / f"{p}.html", docs / p / "index.md", docs / p / "index.html"]
+    # docs / p：沒有 front matter 的靜態檔（/smart/app.html）。jekyll-sitemap 給這類檔的 lastmod
+    # 是建置當下的檔案時間，每次部署都變成「今天」，等於假訊號，要換成 git 日期。
+    candidates = [docs / p, docs / f"{p}.md", docs / f"{p}.html", docs / p / "index.md", docs / p / "index.html"]
     # 站上有一批直接輸出 .html 的頁（/smart/api-spec.html），原始檔是同名 .md。
     if p.endswith(".html"):
         stem = p[: -len(".html")]
@@ -90,8 +128,7 @@ def commit_date(path: Path, repo: Path) -> str | None:
     try:
         head = path.read_text(encoding="utf-8", errors="replace")[:2000]
         if head.startswith("---"):
-            import re as _re
-            m = _re.search(r"^last_modified_at:\s*(\d{4}-\d{2}-\d{2})", head, _re.M)
+            m = re.search(r"^last_modified_at:\s*(\d{4}-\d{2}-\d{2})", head, re.M)
             if m:
                 return m.group(1)
     except OSError:
