@@ -15,7 +15,7 @@ last_modified_at: 2026-11-02
 ---
 
 <p class="key-answer" data-question="タミフルドライシロップ３％（選） に関するニュースは？">
-<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>4 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>5 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,21 @@ last_modified_at: 2026-11-02
 <p><a href="{{ '/drugs/oseltamivir/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（4 件）
+## 関連ニュース（5 件）
 
 ### [社説：インフル流行の長期化 拡大警戒し対策の徹底を](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZVDBBazZ4bU43a3BPZGE1T3B4cHJZanhTTU9TVGlZTE15V0wzWHA3MWlnM1hjWGI3cFRXakN0cDZDZDE1WEJ1VWdXUDAwRWZjazQ3Vl9uRTExVWtDZE9GT0RQdDd5S3BL?oc=5)
 
 2026-11-01 <span class="news-indication-tag">認知症</span> <span class="news-indication-tag">心筋梗塞</span> <span class="news-indication-tag">脳卒中</span> <span class="news-indication-tag">インフルエンザ</span>
 
 出典: [毎日新聞](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZVDBBazZ4bU43a3BPZGE1T3B4cHJZanhTTU9TVGlZTE15V0wzWHA3MWlnM1hjWGI3cFRXakN0cDZDZDE1WEJ1VWdXUDAwRWZjazQ3Vl9uRTExVWtDZE9GT0RQdDd5S3BL?oc=5)
+
+---
+
+### [ダイソー、セリアetc.｜インフルエンザ・胃腸炎に備えよう！現役保育士もおすすめの感染症対策4選](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnUUtFeDlfdG5MNE9EclZZaVZvNjBtSWtiTmJOdHV4d20xVm9BVUtuOUE2V3ZnS1F2TEFnOU1PTmhza3lqSWlGMGc4VmZ6aElnbDZMVGVDclRjMTRIeUE?oc=5)
+
+2026-11-01 <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [たまひよ](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnUUtFeDlfdG5MNE9EclZZaVZvNjBtSWtiTmJOdHV4d20xVm9BVUtuOUE2V3ZnS1F2TEFnOU1PTmhza3lqSWlGMGc4VmZ6aElnbDZMVGVDclRjMTRIeUE?oc=5)
 
 ---
 
@@ -48,19 +56,19 @@ last_modified_at: 2026-11-02
 
 ---
 
-### [ライオン、歯みがきでインフルエンザ反応抗体の濃度増加を確認、唾液の防御機能に新知見](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9xaUhPTHd3aWo5b2NsUjVkc2ZRbkVaNnZuc0lDTmp6cHZPc1hGN1Z4d09HdGUyVlJnZjdzZlkyXzRRRzBrZ2U0aUdscldVcUhGV2w2Ng?oc=5)
-
-2026-11-01 <span class="news-indication-tag">インフルエンザ</span>
-
-出典: [https://kabu-ir.com/](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9xaUhPTHd3aWo5b2NsUjVkc2ZRbkVaNnZuc0lDTmp6cHZPc1hGN1Z4d09HdGUyVlJnZjdzZlkyXzRRRzBrZ2U0aUdscldVcUhGV2w2Ng?oc=5)
-
----
-
 ### [《インフルエンザ・コロナを予防》手洗い、マスク…対策しても感染!? 専門家が教える感染症予防の落とし穴と“免疫力強化”のポイント](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBrc0Vya251ZzJDdUhNRXdmejhKVXpiY0pTTXdhTHFMTlVZdjA3bms3REtPdkdHRHRGODFWVVhfT2hZQ2JNaU4ybVprWExTc2h6clQ5UUtvVGhybzRu?oc=5)
 
 2026-10-29 <span class="news-indication-tag">インフルエンザ</span>
 
 出典: [週刊女性PRIME](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBrc0Vya251ZzJDdUhNRXdmejhKVXpiY0pTTXdhTHFMTlVZdjA3bms3REtPdkdHRHRGODFWVVhfT2hZQ2JNaU4ybVprWExTc2h6clQ5UUtvVGhybzRu?oc=5)
+
+---
+
+### [歯みがき行動により、インフルエンザウイルスに反応する唾液中の免疫成分「IgA抗体」濃度が増加することを確認 - PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE1IT0Z3NWZTdmZHOXhZSTU4cmFPZGhWbXBkcW1IbHVJSXJjR0x1cmt1VVNvVTNZMTVtLWdzMTBYQ290dGpzbGY2VkZ3WmZGTWtSMUlmb1BnZ2ZkclpLaDZwQjdnYkpZd3hKSUE?oc=5)
+
+2026-10-28 <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE1IT0Z3NWZTdmZHOXhZSTU4cmFPZGhWbXBkcW1IbHVJSXJjR0x1cmt1VVNvVTNZMTVtLWdzMTBYQ290dGpzbGY2VkZ3WmZGTWtSMUlmb1BnZ2ZkclpLaDZwQjdnYkpZd3hKSUE?oc=5)
 
 ---
 

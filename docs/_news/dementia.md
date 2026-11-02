@@ -3,7 +3,7 @@ layout: default
 title: "認知症 (dementia) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "認知症 (dementia) に関する健康ニュース。ニュース 3 件、関連医薬品 2 件。"
+description: "認知症 (dementia) に関する健康ニュース。ニュース 2 件、関連医薬品 2 件。"
 permalink: /news/dementia/
 last_modified_at: 2026-11-02
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-02
 ---
 
 <p class="key-answer" data-question="認知症 (dementia) に関するニュースは？">
-<strong>認知症 (dementia)</strong> には現在 <strong>3 件</strong>の関連ニュースと 2 件の関連医薬品があります。
+<strong>認知症 (dementia)</strong> には現在 <strong>2 件</strong>の関連ニュースと 2 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -31,15 +31,7 @@ last_modified_at: 2026-11-02
 </ul>
 </div>
 
-## 関連ニュース（3 件）
-
-### [「お義母さん、たしか直葬をご希望でしたよね」認知症の母に失礼な発言をくり返す55歳妻。「優しい嫁」は演技だったか。夫の苦悩(FORZA STYLE)](https://news.yahoo.co.jp/articles/e9b7b7dd5555c90cf0cdec8a5ff60cb4bee3c453?source=rss)
-
-2026-11-02
-
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/e9b7b7dd5555c90cf0cdec8a5ff60cb4bee3c453?source=rss)
-
----
+## 関連ニュース（2 件）
 
 ### [社説：インフル流行の長期化 拡大警戒し対策の徹底を](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZVDBBazZ4bU43a3BPZGE1T3B4cHJZanhTTU9TVGlZTE15V0wzWHA3MWlnM1hjWGI3cFRXakN0cDZDZDE1WEJ1VWdXUDAwRWZjazQ3Vl9uRTExVWtDZE9GT0RQdDd5S3BL?oc=5)
 
@@ -49,11 +41,11 @@ last_modified_at: 2026-11-02
 
 ---
 
-### [認知症薬は予想より2年早く登場 医療の未来図、AI診察やがん治療はどうなる？](https://news.google.com/rss/articles/CBMickFVX3lxTFB3MWZZTnBJRGNyMmtINExpV0EwRlZLR0drQnZ2N29kZUNRUXh2SjcyY2lyNk9KWnM1blZMMUZyUkFqSi1xZnREaEhXN056c0pvaXFmVUxSMjZjU0JIakU5b0h6OV95WEEwN0dIN3ZrSzk5QQ?oc=5)
+### [加齢に対抗するために＜10＞認知症予防 適量のワイン摂取 効果](https://news.google.com/rss/articles/CBMiYEFVX3lxTE91ajZhak1NT3V0anl1U3VKSlEtcUVXeGRtNWFCTTVIbFdmNDZ1ZXpkdDRpVHJwYUNxSFJCZjZHRTdiS1ZtUXp3VlRKTUVqOU5yX2Roa0owNGtIUDBxeFBsNA?oc=5)
 
-2026-11-01
+2026-10-31
 
-出典: [テレ朝NEWS](https://news.google.com/rss/articles/CBMickFVX3lxTFB3MWZZTnBJRGNyMmtINExpV0EwRlZLR0drQnZ2N29kZUNRUXh2SjcyY2lyNk9KWnM1blZMMUZyUkFqSi1xZnREaEhXN056c0pvaXFmVUxSMjZjU0JIakU5b0h6OV95WEEwN0dIN3ZrSzk5QQ?oc=5)
+出典: [愛媛新聞](https://news.google.com/rss/articles/CBMiYEFVX3lxTE91ajZhak1NT3V0anl1U3VKSlEtcUVXeGRtNWFCTTVIbFdmNDZ1ZXpkdDRpVHJwYUNxSFJCZjZHRTdiS1ZtUXp3VlRKTUVqOU5yX2Roa0owNGtIUDBxeFBsNA?oc=5)
 
 ---
 

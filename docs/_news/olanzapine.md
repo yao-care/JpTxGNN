@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "ジプレキサザイディス錠２．５ｍｇ（選） に関する健康ニュース。予測適応症 2 件。"
 permalink: /news/olanzapine/
-last_modified_at: 2026-11-01
+last_modified_at: 2026-11-02
 ---
 
 # ジプレキサザイディス錠２．５ｍｇ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-01
 ---
 
 <p class="key-answer" data-question="ジプレキサザイディス錠２．５ｍｇ（選） に関するニュースは？">
-<strong>ジプレキサザイディス錠２．５ｍｇ（選）</strong> には現在 <strong>2 件</strong>の関連ニュースがあり、予測適応症は 2 件です。
+<strong>ジプレキサザイディス錠２．５ｍｇ（選）</strong> には現在 <strong>1 件</strong>の関連ニュースがあり、予測適応症は 2 件です。
 </p>
 
 <div class="key-takeaway">
@@ -34,15 +34,7 @@ last_modified_at: 2026-11-01
 <p><a href="{{ '/drugs/olanzapine/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（2 件）
-
-### [統合失調症の患者に”がん治療格差”　早期発見や手術率の低さが研究で判明…「誰一人取り残さない」治療体制のために(RSK山陽放送)](https://news.yahoo.co.jp/articles/6ff977a85cf83acabac7a4a8da6462b8dbe350d3?source=rss)
-
-2026-10-29 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">統合失調症</span>
-
-出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/6ff977a85cf83acabac7a4a8da6462b8dbe350d3?source=rss)
-
----
+## 関連ニュース（1 件）
 
 ### [ドパミンパーシャルアゴニストは統合失調症患者の自殺リスクに影響を及ぼすか｜CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZOFVrNW5QVHRwSHN1a2lIZHRGMmpQcTY5V3d5YlZyaV9USHhHNFZFZF9YYzY2RTJOUFRLc2IxdFdNWF8tSWp6OWd4SHcxM1FQa1dCYWI0aVhoSnpWRjB3?oc=5)
 

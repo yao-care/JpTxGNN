@@ -47,19 +47,19 @@ last_modified_at: 2026-11-02
 
 ## 関連ニュース（2 件）
 
+### [FPTロンチャウとバイエルが協力して、国民の脳卒中のリスクをスクリーニング](https://news.google.com/rss/articles/CBMirwFBVV95cUxNLVFHazRRdXdkSUlsdjd1VFV2OGR1MFVYa0g2Y2M0b1lBc082ZVl5TUc1Ym1HNDU0ZzNZbFNNNDVrSkdva3ExQjZVdWF1MzlZS3lOSF83ZHAxcWlaV3V1OFZEOHM3bTUxM3hSd1gyZ1J3dG91MUdkbU1DTlhJcUVHODFkXzVPSzdjeHFnR296TlBCYXZOc3BONldnTDZFV3Nlclp5bGVZSWxFbkZCOVBJ?oc=5)
+
+2026-11-02
+
+出典: [Laodong.vn](https://news.google.com/rss/articles/CBMirwFBVV95cUxNLVFHazRRdXdkSUlsdjd1VFV2OGR1MFVYa0g2Y2M0b1lBc082ZVl5TUc1Ym1HNDU0ZzNZbFNNNDVrSkdva3ExQjZVdWF1MzlZS3lOSF83ZHAxcWlaV3V1OFZEOHM3bTUxM3hSd1gyZ1J3dG91MUdkbU1DTlhJcUVHODFkXzVPSzdjeHFnR296TlBCYXZOc3BONldnTDZFV3Nlclp5bGVZSWxFbkZCOVBJ?oc=5)
+
+---
+
 ### [社説：インフル流行の長期化 拡大警戒し対策の徹底を](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZVDBBazZ4bU43a3BPZGE1T3B4cHJZanhTTU9TVGlZTE15V0wzWHA3MWlnM1hjWGI3cFRXakN0cDZDZDE1WEJ1VWdXUDAwRWZjazQ3Vl9uRTExVWtDZE9GT0RQdDd5S3BL?oc=5)
 
 2026-11-01
 
 出典: [毎日新聞](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZVDBBazZ4bU43a3BPZGE1T3B4cHJZanhTTU9TVGlZTE15V0wzWHA3MWlnM1hjWGI3cFRXakN0cDZDZDE1WEJ1VWdXUDAwRWZjazQ3Vl9uRTExVWtDZE9GT0RQdDd5S3BL?oc=5)
-
----
-
-### [ヴィンロン省は、脳卒中の予防、救急能力の向上、死亡リスクの軽減に積極的に取り組んでいます。](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ3ExNzR0eXI5QjhUaGVEOEliZDUzMEtlMjNERzZoLURLdjM0Y2xKcERvdDQ1aE4wczlOY3lVOXZoc0pxRVhfLWxNd2xFWXh3clJRYnpTTmNlejI5NUVidWZBTHRpOW9OSnlCcllWRzVmcUdHVHVyUGdQRUZpU0UydVprZEdieGRxVlZrX2tLZEZmSnlXZWxweDdXVmpObFozVzhlaTlWclByazFoczJBc2FYeXljcUlMMUpvbmJXcXI?oc=5)
-
-2026-10-30
-
-出典: [Laodong.vn](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ3ExNzR0eXI5QjhUaGVEOEliZDUzMEtlMjNERzZoLURLdjM0Y2xKcERvdDQ1aE4wczlOY3lVOXZoc0pxRVhfLWxNd2xFWXh3clJRYnpTTmNlejI5NUVidWZBTHRpOW9OSnlCcllWRzVmcUdHVHVyUGdQRUZpU0UydVprZEdieGRxVlZrX2tLZEZmSnlXZWxweDdXVmpObFozVzhlaTlWclByazFoczJBc2FYeXljcUlMMUpvbmJXcXI?oc=5)
 
 ---
 

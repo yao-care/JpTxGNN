@@ -15,7 +15,7 @@ last_modified_at: 2026-11-02
 ---
 
 <p class="key-answer" data-question="アクトスＯＤ錠３０　３０ｍｇ（選） に関するニュースは？">
-<strong>アクトスＯＤ錠３０　３０ｍｇ（選）</strong> には現在 <strong>2 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
+<strong>アクトスＯＤ錠３０　３０ｍｇ（選）</strong> には現在 <strong>1 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
 </p>
 
 <div class="key-takeaway">
@@ -41,21 +41,13 @@ last_modified_at: 2026-11-02
 <p><a href="{{ '/drugs/pioglitazone/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（2 件）
+## 関連ニュース（1 件）
 
-### [「血糖値対策」運動を習慣にするならどっちが効果的？ 「週２〜３」または「週末にまとめて」](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBBeUlpQURxcWxOUTRDV3RoWXJkNGtYNWkzNzlwVFBRTk1iYUYwOU1laHdTNEtrb2xBMGNKSEpOd3hSajdOOGZnWEJNVXZkZw?oc=5)
+### [エビデンスで紐解く生活習慣病予防 指導現場で使える最新データ 【糖尿病】2型糖尿病発症予防から寛解まで](https://news.google.com/rss/articles/CBMibEFVX3lxTFBOdG1IWktMLUZlU3JSTUp2b3lDZFJURVpwY3hiTkNMVHMxcnpaLU95NTdqaENVeW5NUzZxcHpBQlZXV1JRRm9OQkZkNE5YWE5NRmJZaVpRUEgxdzUwVkVkclR2SDBKUlhlM0tIVA?oc=5)
 
 2026-11-02 <span class="news-indication-tag">2型糖尿病</span>
 
-出典: [FYTTE](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBBeUlpQURxcWxOUTRDV3RoWXJkNGtYNWkzNzlwVFBRTk1iYUYwOU1laHdTNEtrb2xBMGNKSEpOd3hSajdOOGZnWEJNVXZkZw?oc=5)
-
----
-
-### [2型糖尿病患者で肥満関連がんの罹患率が増加｜ニュース](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JbXQ4MXk1Q1RFZWViLWItcUw1NnhMMVlod1VWYm9tMEJqREVpOEQ0MVcyNlB0ZC0zT2Z4b1ZEaldueDF0dXJnSVV3MDl4Rk5HSnhmR3VHanRVSXhmWkFTTE8tOHNRNkVp?oc=5)
-
-2026-10-27 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">2型糖尿病</span>
-
-出典: [保健指導リソースガイド](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JbXQ4MXk1Q1RFZWViLWItcUw1NnhMMVlod1VWYm9tMEJqREVpOEQ0MVcyNlB0ZC0zT2Z4b1ZEaldueDF0dXJnSVV3MDl4Rk5HSnhmR3VHanRVSXhmWkFTTE8tOHNRNkVp?oc=5)
+出典: [保健指導リソースガイド](https://news.google.com/rss/articles/CBMibEFVX3lxTFBOdG1IWktMLUZlU3JSTUp2b3lDZFJURVpwY3hiTkNMVHMxcnpaLU95NTdqaENVeW5NUzZxcHpBQlZXV1JRRm9OQkZkNE5YWE5NRmJZaVpRUEgxdzUwVkVkclR2SDBKUlhlM0tIVA?oc=5)
 
 ---
 
