@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "帯状疱疹 (herpes zoster) に関する健康ニュース。ニュース 2 件、関連医薬品 3 件。"
 permalink: /news/herpes-zoster/
-last_modified_at: 2026-11-01
+last_modified_at: 2026-11-02
 ---
 
 # 帯状疱疹 (herpes zoster) 関連ニュース
@@ -34,11 +34,11 @@ last_modified_at: 2026-11-01
 
 ## 関連ニュース（2 件）
 
-### [抗ウイルス薬、鎮痛薬、抗炎症薬…大量のクスリを4週間【予想以上にキツかった 帯状疱疹闘病記】#2](https://news.google.com/rss/articles/CBMihAFBVV95cUxQaTJlSVNYbF9abDFaMDZXTTJxQW9MWDdkaEliNWo4UGUxWU5kUk54SmdqS1M5Z0VRWFNaLUxZZnNpanB3SXV4MjJkcFhsR0JLRXp2aUxNdVZlUDE1N3NyeXRWZmtETHNSanVKWDdYV21RUGdNa0FaLUMtUU1FdTlPd3BkdHPSAYoBQVVfeXFMT2tVVFZaV2R4OFIxTTR0ME9kN0hJUDJLRzBxLUZ2d1BTb2N3Z21qN2hwUVhwTTQtZUxxaDJack5RLW05RGdobFJOUkMxY2RETHdfSDNweDRWNlBhTFhlSU56NWJZbVNKbDU1V0xZcmhNbUFMX0JiallSUU82aGlQVjRvTFBKVV9GWmZn?oc=5)
+### [にきび、帯状疱疹 動画で学んで 県臨床皮膚科医会が11月2日から公開 告知板 | 暮らし・文化 | 佐賀県のニュース](https://news.google.com/rss/articles/CBMiVkFVX3lxTE93WUlTUjhSMGM1WXZFSmsyMzgwa3FaSmlKazNHT0liLUktaEdITjUwYlZHbFdaZ21QN21jem83QVJYcnJTQ0FoZUZscUI2SHdDWGlQQzF3?oc=5)
 
-2026-10-28
+2026-11-02
 
-出典: [ｄメニューニュース](https://news.google.com/rss/articles/CBMihAFBVV95cUxQaTJlSVNYbF9abDFaMDZXTTJxQW9MWDdkaEliNWo4UGUxWU5kUk54SmdqS1M5Z0VRWFNaLUxZZnNpanB3SXV4MjJkcFhsR0JLRXp2aUxNdVZlUDE1N3NyeXRWZmtETHNSanVKWDdYV21RUGdNa0FaLUMtUU1FdTlPd3BkdHPSAYoBQVVfeXFMT2tVVFZaV2R4OFIxTTR0ME9kN0hJUDJLRzBxLUZ2d1BTb2N3Z21qN2hwUVhwTTQtZUxxaDJack5RLW05RGdobFJOUkMxY2RETHdfSDNweDRWNlBhTFhlSU56NWJZbVNKbDU1V0xZcmhNbUFMX0JiallSUU82aGlQVjRvTFBKVV9GWmZn?oc=5)
+出典: [佐賀新聞](https://news.google.com/rss/articles/CBMiVkFVX3lxTE93WUlTUjhSMGM1WXZFSmsyMzgwa3FaSmlKazNHT0liLUktaEdITjUwYlZHbFdaZ21QN21jem83QVJYcnJTQ0FoZUZscUI2SHdDWGlQQzF3?oc=5)
 
 ---
 

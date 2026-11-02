@@ -3,9 +3,9 @@ layout: default
 title: "インフルエンザ (influenza) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 5 件、関連医薬品 1 件。"
+description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 4 件、関連医薬品 1 件。"
 permalink: /news/influenza/
-last_modified_at: 2026-11-01
+last_modified_at: 2026-11-02
 ---
 
 # インフルエンザ (influenza) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-01
 ---
 
 <p class="key-answer" data-question="インフルエンザ (influenza) に関するニュースは？">
-<strong>インフルエンザ (influenza)</strong> には現在 <strong>5 件</strong>の関連ニュースと 1 件の関連医薬品があります。
+<strong>インフルエンザ (influenza)</strong> には現在 <strong>4 件</strong>の関連ニュースと 1 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ last_modified_at: 2026-11-01
 </ul>
 </div>
 
-## 関連ニュース（5 件）
+## 関連ニュース（4 件）
 
 ### [社説：インフル流行の長期化 拡大警戒し対策の徹底を](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZVDBBazZ4bU43a3BPZGE1T3B4cHJZanhTTU9TVGlZTE15V0wzWHA3MWlnM1hjWGI3cFRXakN0cDZDZDE1WEJ1VWdXUDAwRWZjazQ3Vl9uRTExVWtDZE9GT0RQdDd5S3BL?oc=5)
 
@@ -53,14 +53,6 @@ last_modified_at: 2026-11-01
 2026-11-01
 
 出典: [https://kabu-ir.com/](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9xaUhPTHd3aWo5b2NsUjVkc2ZRbkVaNnZuc0lDTmp6cHZPc1hGN1Z4d09HdGUyVlJnZjdzZlkyXzRRRzBrZ2U0aUdscldVcUhGV2w2Ng?oc=5)
-
----
-
-### [【愛知県インフルエンザ週報】患者数1.11倍と増加傾向 各地で学級閉鎖相次ぐ＜10月19日～25日の感染症情報 - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTFBYdlE4bXhLSTlqWHNqa3V5cXBjalhCdkdwcWFxMnFOclNidDhQSnJyLVh4aTR3WGpjakZsZ1NqdzVEOWZLai1JQUNmRDZJSm1rSFpOZGlRcC00X1JxOEVFQk5DWlI5OFc1OVZBSjBR?oc=5)
-
-2026-10-29
-
-出典: [au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTFBYdlE4bXhLSTlqWHNqa3V5cXBjalhCdkdwcWFxMnFOclNidDhQSnJyLVh4aTR3WGpjakZsZ1NqdzVEOWZLai1JQUNmRDZJSm1rSFpOZGlRcC00X1JxOEVFQk5DWlI5OFc1OVZBSjBR?oc=5)
 
 ---
 

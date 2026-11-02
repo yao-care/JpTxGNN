@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "ディオバンＯＤ錠１６０ｍｇ（選） に関する健康ニュース。予測適応症 6 件。"
 permalink: /news/valsartan/
-last_modified_at: 2026-11-01
+last_modified_at: 2026-11-02
 ---
 
 # ディオバンＯＤ錠１６０ｍｇ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-01
 ---
 
 <p class="key-answer" data-question="ディオバンＯＤ錠１６０ｍｇ（選） に関するニュースは？">
-<strong>ディオバンＯＤ錠１６０ｍｇ（選）</strong> には現在 <strong>14 件</strong>の関連ニュースがあり、予測適応症は 6 件です。
+<strong>ディオバンＯＤ錠１６０ｍｇ（選）</strong> には現在 <strong>16 件</strong>の関連ニュースがあり、予測適応症は 6 件です。
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,23 @@ last_modified_at: 2026-11-01
 <p><a href="{{ '/drugs/valsartan/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（14 件）
+## 関連ニュース（16 件）
+
+### [肥満症が胃噴門部腺がんを進展させる機序をマウスで解明－東北大](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa1dKNlI0Y1pQY0J1UTdFWVFfUGlGaFpzeDloaUhrSnNaU3NwTmFoLTY2cktBZi1ZNk5PejhvQWN6cmlTZjdPUFNtRk5Kc0s4R2FpNkJaalQ2eEhvS2thZzkzWktFcnl6OHhPLV9kNmhncE9lbUM4MTlPc2dkVEJIZ0xQOTVWalhkWXFINVZDdUtTOWszXzhVWTJMQVhXNllPYW9xdTNCNUxhQWNfRGpuNk1KNjhFaEMtYXhvdWlZY2I4UlpQMDdGVXVfRDRKWl9HRHVvRg?oc=5)
+
+2026-11-02 <span class="news-indication-tag">がん</span>
+
+出典: [QLifePro](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa1dKNlI0Y1pQY0J1UTdFWVFfUGlGaFpzeDloaUhrSnNaU3NwTmFoLTY2cktBZi1ZNk5PejhvQWN6cmlTZjdPUFNtRk5Kc0s4R2FpNkJaalQ2eEhvS2thZzkzWktFcnl6OHhPLV9kNmhncE9lbUM4MTlPc2dkVEJIZ0xQOTVWalhkWXFINVZDdUtTOWszXzhVWTJMQVhXNllPYW9xdTNCNUxhQWNfRGpuNk1KNjhFaEMtYXhvdWlZY2I4UlpQMDdGVXVfRDRKWl9HRHVvRg?oc=5)
+
+---
+
+### [社説：インフル流行の長期化 拡大警戒し対策の徹底を](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZVDBBazZ4bU43a3BPZGE1T3B4cHJZanhTTU9TVGlZTE15V0wzWHA3MWlnM1hjWGI3cFRXakN0cDZDZDE1WEJ1VWdXUDAwRWZjazQ3Vl9uRTExVWtDZE9GT0RQdDd5S3BL?oc=5)
+
+2026-11-01 <span class="news-indication-tag">認知症</span> <span class="news-indication-tag">心筋梗塞</span> <span class="news-indication-tag">脳卒中</span> <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [毎日新聞](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZVDBBazZ4bU43a3BPZGE1T3B4cHJZanhTTU9TVGlZTE15V0wzWHA3MWlnM1hjWGI3cFRXakN0cDZDZDE1WEJ1VWdXUDAwRWZjazQ3Vl9uRTExVWtDZE9GT0RQdDd5S3BL?oc=5)
+
+---
 
 ### [【闘病】自覚症状はなかったのに… 「転移なし」から一転した『子宮頸がん』はステージ3（メディカルドック）](https://news.google.com/rss/articles/CBMif0FVX3lxTE51SXowbVdvMTVMT1RQMzJ1WWpXMjMxS3RfRElJemhJMWI4MFQwM0Jwa3VCVi1zdkZNb0M4Z1NVby02ekdwMUlIY2V4TG5yaHF1TldDLUJvQm5UTFEweFh3VXl2STRMOGZ5Q2FrZG0yRF9WUkExUlo4b0thSGpsUmc?oc=5)
 
@@ -56,19 +72,11 @@ last_modified_at: 2026-11-01
 
 ---
 
-### [【11月はパープルリボン月間】だ液によるがんリスク検査「サリバチェッカー®」が特別キャンペーンを実施。 - PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE9XRnhxQWI4dlF6NUw0RVFiV1ljRURfa1YwSi1Gd0VjNEJnYWs1R0pFc29IdXllVHIxeFp0b3FyLTNwcHJUTjRwc2JqWWl5bnlxeUZvLUt1U29Wc3dSdDc4ZWl6VTVUeFdzVGc?oc=5)
-
-2026-11-01 <span class="news-indication-tag">がん</span>
-
-出典: [PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE9XRnhxQWI4dlF6NUw0RVFiV1ljRURfa1YwSi1Gd0VjNEJnYWs1R0pFc29IdXllVHIxeFp0b3FyLTNwcHJUTjRwc2JqWWl5bnlxeUZvLUt1U29Wc3dSdDc4ZWl6VTVUeFdzVGc?oc=5)
-
----
-
-### [【闘病】2時間止まらない鼻血と白い塊… 正体はHPVによる『鼻腔がん』だった（メディカルドック）](https://news.google.com/rss/articles/CBMif0FVX3lxTFBQMmhaQU82bU1YQTRzMDRVd3h3UnFpVEVqZ1Z1OUtPTTZKbEF6SWU0N1V5Unh1VVRyb0I3alpGaFpvZTRSUnBSblJVQ3FOMUhvV0ZnWVRsbWh5VE9IZjA2RVoxQUJDdTVjeFZfUUhRUHRRVjcwd3Z0RE5FYXBKRDg?oc=5)
+### [【闘病】2時間止まらない鼻血と白い塊… 正体はHPVによる『鼻腔がん』だった(メディカルドック)](https://news.yahoo.co.jp/articles/5237762cb32e9371e8efb5973a0839ca72e76d49?source=rss)
 
 2026-10-31 <span class="news-indication-tag">がん</span>
 
-出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBQMmhaQU82bU1YQTRzMDRVd3h3UnFpVEVqZ1Z1OUtPTTZKbEF6SWU0N1V5Unh1VVRyb0I3alpGaFpvZTRSUnBSblJVQ3FOMUhvV0ZnWVRsbWh5VE9IZjA2RVoxQUJDdTVjeFZfUUhRUHRRVjcwd3Z0RE5FYXBKRDg?oc=5) · [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/5237762cb32e9371e8efb5973a0839ca72e76d49?source=rss)
+出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/5237762cb32e9371e8efb5973a0839ca72e76d49?source=rss)
 
 ---
 
@@ -96,6 +104,14 @@ last_modified_at: 2026-11-01
 
 ---
 
+### [「体調不良を我慢しがちな人へ」2児の母が鼻腔がん闘病で知った検診の重要性【作者に聞く】](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aQXpNYjRzb0NPTk00NVlDbENmRGFjOVRoalRXLVd4MGc5eWRQbkRoY3prWERnRXR6MXk3eUkzSGlkaVQtcVlGZUREam0yd3lFWmtVM0VxdzBUZWZZa1ZN?oc=5)
+
+2026-10-29 <span class="news-indication-tag">がん</span>
+
+出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aQXpNYjRzb0NPTk00NVlDbENmRGFjOVRoalRXLVd4MGc5eWRQbkRoY3prWERnRXR6MXk3eUkzSGlkaVQtcVlGZUREam0yd3lFWmtVM0VxdzBUZWZZa1ZN?oc=5)
+
+---
+
 ### [統合失調症の患者に”がん治療格差”　早期発見や手術率の低さが研究で判明…「誰一人取り残さない」治療体制のために(RSK山陽放送)](https://news.yahoo.co.jp/articles/6ff977a85cf83acabac7a4a8da6462b8dbe350d3?source=rss)
 
 2026-10-29 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">統合失調症</span>
@@ -109,6 +125,22 @@ last_modified_at: 2026-11-01
 2026-10-29 <span class="news-indication-tag">がん</span>
 
 出典: [PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZdEFnSGMzc2JQTjQ0bHgzdC1tdVp5U0lucEVsdUxZZzhpMmpLWHRwYmg0QVBhcE12VXM1NWYzeVNjOWt3M090QkFVanY1eTNfcmREUmk0alcyVEVhN2U1cTFwTDlkZkFQZnc?oc=5)
+
+---
+
+### [高血圧管理・治療ガイドライン2025を一覧に追加](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVWTdvSVJrN2t4cDY2dnl2U2p2NHdDQ2ZRUVphd2Zic2VrQmM4bFkyajhlSEVJWjRpQUpQTmxDUjV0TER0QkZHZjJUaUl2a0hCMWc?oc=5)
+
+2026-10-28 <span class="news-indication-tag">高血圧</span>
+
+出典: [m3.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVWTdvSVJrN2t4cDY2dnl2U2p2NHdDQ2ZRUVphd2Zic2VrQmM4bFkyajhlSEVJWjRpQUpQTmxDUjV0TER0QkZHZjJUaUl2a0hCMWc?oc=5)
+
+---
+
+### [血糖値をコントロールする方法は、糖尿病に進行するリスクを軽減するのに役立ちます](https://news.google.com/rss/articles/CBMivgFBVV95cUxQOEQwdVFtNTRvNVhINVZ0Z3RKMHlOTnN2VzVBc3JWSWRPejBDa2tqTnVpN2NCYTZSY2pLVDBBZmEzUFpMTklHcWs2OElid2JzTlc5SVpFUTR3OHYyNGF4amtFZlZocGNxWUVmVG5aOFRmcldEN2R6WlM2U0Q5VFItN25sb1EwMnNxOEZ5SV9yQnNhOUFXSVFjN21ha29jV1UxUzAxVktKdVBSZnlzU1FCZlVSenhHSzIwSmRYN2xn?oc=5)
+
+2026-10-28 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心臓病</span>
+
+出典: [Laodong.vn](https://news.google.com/rss/articles/CBMivgFBVV95cUxQOEQwdVFtNTRvNVhINVZ0Z3RKMHlOTnN2VzVBc3JWSWRPejBDa2tqTnVpN2NCYTZSY2pLVDBBZmEzUFpMTklHcWs2OElid2JzTlc5SVpFUTR3OHYyNGF4amtFZlZocGNxWUVmVG5aOFRmcldEN2R6WlM2U0Q5VFItN25sb1EwMnNxOEZ5SV9yQnNhOUFXSVFjN21ha29jV1UxUzAxVktKdVBSZnlzU1FCZlVSenhHSzIwSmRYN2xn?oc=5)
 
 ---
 
@@ -128,27 +160,11 @@ last_modified_at: 2026-11-01
 
 ---
 
-### [がんワクチン市場の見通し:CERVAVACなどの四価ワクチンが成長を牽引、2030年までに182億ドルへ](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LRkFUQlN3RWlWMFh2OGxya2tJSndNSFJLVHBFWlJMRUZUZ2ZiSzhpdnpLa0FhLVBlcU4wUzdKYWRYQmwtQ1hGQ3I2UVF6LTFQUDlz?oc=5)
-
-2026-10-27 <span class="news-indication-tag">がん</span>
-
-出典: [ドリームニュース](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LRkFUQlN3RWlWMFh2OGxya2tJSndNSFJLVHBFWlJMRUZUZ2ZiSzhpdnpLa0FhLVBlcU4wUzdKYWRYQmwtQ1hGQ3I2UVF6LTFQUDlz?oc=5)
-
----
-
 ### [GSKのがん治療薬、直腸がん患者の76%で腫瘍が完全消失 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース](https://news.google.com/rss/articles/CBMicEFVX3lxTE5QYTU3d3daMks1MzZSSWJucWNNOWhnZXpsM3I0RGhlOXF2UEhyajdTQlRFcWo0SDBNeXJKWnJKc2hnUzZGa3UzTUdoemFXUVFlVU02RGdjblZpMnFMTEJMdEtyQkRxc2pnTVNiXzdJaU0?oc=5)
 
-2026-10-26 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">腫瘍</span> <span class="news-indication-tag">直腸がん</span>
+2026-10-26 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">癌</span> <span class="news-indication-tag">腫瘍</span> <span class="news-indication-tag">直腸がん</span>
 
 出典: [Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース](https://news.google.com/rss/articles/CBMicEFVX3lxTE5QYTU3d3daMks1MzZSSWJucWNNOWhnZXpsM3I0RGhlOXF2UEhyajdTQlRFcWo0SDBNeXJKWnJKc2hnUzZGa3UzTUdoemFXUVFlVU02RGdjblZpMnFMTEJMdEtyQkRxc2pnTVNiXzdJaU0?oc=5)
-
----
-
-### [お菓子やソーセージの食べすぎに注意？「超加工食品」と脳の異常に関連、約8800人を調査 - DAILYSUN NEW YORK](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJbjhvWjg2RnJYNF91VFRPWWUzVkRMZjBkSDNUc3hlalNlNC04a2R6RXdiaHluTmJyUW1WY0hIYzVxZ3lXZTJXVDFNUmtUVDFqWFEwcXh2N0VneldUb094dA?oc=5)
-
-2026-10-26 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
-
-出典: [DAILYSUN NEW YORK](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJbjhvWjg2RnJYNF91VFRPWWUzVkRMZjBkSDNUc3hlalNlNC04a2R6RXdiaHluTmJyUW1WY0hIYzVxZ3lXZTJXVDFNUmtUVDFqWFEwcXh2N0VneldUb094dA?oc=5)
 
 ---
 
