@@ -118,7 +118,7 @@ window.TXGNN_ANALYTICS = {
       "description": {{ page.description | default: page.title | jsonify }},
       "url": "{{ page.url | absolute_url }}",
       "datePublished": "2026-03-04",
-      "dateModified": "2026-03-04",
+      "dateModified": "{{ page.last_modified_at | default: '2026-03-04' | date: '%Y-%m-%d' }}",
       "lastReviewed": "2026-03-04",
       "reviewedBy": {
         "@id": "https://www.yao.care/#organization"
@@ -203,7 +203,7 @@ window.TXGNN_ANALYTICS = {
         "@id": "https://www.yao.care/#organization"
       },
       "datePublished": "2026-03-04",
-      "dateModified": "2026-03-04",
+      "dateModified": "{{ page.last_modified_at | default: '2026-03-04' | date: '%Y-%m-%d' }}",
       "mainEntityOfPage": "https://jptxgnn.yao.care/",
       "isAccessibleForFree": true
     },
@@ -236,7 +236,7 @@ window.TXGNN_ANALYTICS = {
       "description": "JpTxGNN ドラッグリポジショニング検証報告のプロジェクト説明、データソース、引用方法",
       "url": "{{ page.url | absolute_url }}",
       "datePublished": "2026-03-04",
-      "dateModified": "2026-03-04",
+      "dateModified": "{{ page.last_modified_at | default: '2026-03-04' | date: '%Y-%m-%d' }}",
       "mainEntity": {
         "@id": "https://www.yao.care/#organization"
       }
@@ -455,7 +455,7 @@ window.TXGNN_ANALYTICS = {
       "description": {{ page.description | default: page.title | jsonify }},
       "url": "{{ page.url | absolute_url }}",
       "datePublished": "2026-03-04",
-      "dateModified": "2026-03-04",
+      "dateModified": "{{ page.last_modified_at | default: '2026-03-04' | date: '%Y-%m-%d' }}",
       "author": {
         "@id": "https://www.yao.care/#organization"
       },

@@ -20,6 +20,7 @@
 """
 from __future__ import annotations
 
+import json
 import re
 import subprocess
 import sys
@@ -181,6 +182,60 @@ def _git_commit_date(path: Path, repo: Path) -> str | None:
     return d or None
 
 
+# 2026-11-03：首頁、about、藥物頁、個別新聞頁的 JSON-LD dateModified 原本在 head_custom.html 寫死（2026-03-04），
+# 內容改了日期也不變——sitemap 說這頁最近改過，頁上的結構化資料卻還是舊日期，兩個訊號互相矛盾。
+# head_custom.html 已改成取 page.last_modified_at，但首頁、about 的內容大多是 Liquid 從 site.data／site.drugs
+# 組出來的，front matter 反映不了，所以在這裡把建置好的頁面 JSON-LD 的 dateModified 對齊到上面蓋進 sitemap
+# 的 lastmod（同一個日期、同一套算法，不用另外維護清單）。
+# 規則：只動 <script type="application/ld+json"> 裡值是純日期（YYYY-MM-DD）的 "dateModified"，
+# 只在 lastmod 比現值新時改。有 last_modified_at 的頁（藥物頁、新聞頁）dateModified 與 lastmod 同取該值，不會動；
+# jekyll-seo-tag 輸出的帶時間的值不碰。改完重新解析該段 JSON，解析不過就不寫回、列出網址。
+_LDJSON_RE = re.compile(r'(<script\b[^>]*type="application/ld\+json"[^>]*>)(.*?)(</script>)', re.S)
+_DATE_MODIFIED_RE = re.compile(r'("dateModified"\s*:\s*")(\d{4}-\d{2}-\d{2})(")')
+
+
+def built_html(url_path: str, site_dir: Path) -> Path | None:
+    p = unquote(url_path).lstrip("/")
+    if not p or p.endswith("/"):
+        f = site_dir / p / "index.html"
+    else:
+        f = site_dir / p
+        if not f.suffix:
+            f = site_dir / f"{p}.html"
+    return f if f.suffix == ".html" and f.is_file() else None
+
+
+def sync_jsonld_date_modified(site_dir: Path, page_dates: dict[str, str]) -> tuple[list[str], list[str]]:
+    changed: list[str] = []
+    bad_json: list[str] = []
+    for loc, date in page_dates.items():
+        f = built_html(urlparse(loc).path, site_dir)
+        if f is None:
+            continue
+        html = f.read_text(encoding="utf-8")
+        if '"dateModified"' not in html:
+            continue
+
+        def fix_block(m: re.Match) -> str:
+            body = m.group(2)
+            new = _DATE_MODIFIED_RE.sub(
+                lambda d: d.group(1) + date + d.group(3) if d.group(2) < date else d.group(0), body)
+            if new == body:
+                return m.group(0)
+            try:
+                json.loads(new)
+            except ValueError:
+                bad_json.append(loc)
+                return m.group(0)
+            return m.group(1) + new + m.group(3)
+
+        new_html = _LDJSON_RE.sub(fix_block, html)
+        if new_html != html:
+            f.write_text(new_html, encoding="utf-8")
+            changed.append(loc)
+    return changed, bad_json
+
+
 def main() -> int:
     repo = Path(__file__).resolve().parent.parent
     sitemap = Path(sys.argv[1]) if len(sys.argv) > 1 else repo / "_site" / "sitemap.xml"
@@ -194,6 +249,7 @@ def main() -> int:
     root = tree.getroot()
 
     stamped = kept = 0
+    page_dates: dict[str, str] = {}
     unresolved: list[str] = []
     for url_el in root.findall(f"{{{NS}}}url"):
         loc_el = url_el.find(f"{{{NS}}}loc")
@@ -214,9 +270,15 @@ def main() -> int:
         if lastmod_el is None:
             lastmod_el = ET.SubElement(url_el, f"{{{NS}}}lastmod")
         lastmod_el.text = date
+        page_dates[loc_el.text] = date
         stamped += 1
 
     tree.write(sitemap, encoding="UTF-8", xml_declaration=True)
+    changed, bad_json = sync_jsonld_date_modified(sitemap.parent, page_dates)
+    print(f"[lastmod] JSON-LD dateModified 對齊 sitemap lastmod：{len(changed)} 頁"
+          + (f"（{'、'.join(urlparse(u).path for u in changed[:5])}{' …' if len(changed) > 5 else ''}）" if changed else ""))
+    if bad_json:
+        print(f"[lastmod] ⚠️ 這些頁的 JSON-LD 改完解析不過，沒寫回：{bad_json[:10]}")
     total = stamped + kept
     print(f"[lastmod] {sitemap.name}：{total} 個網址，蓋上 git 日期 {stamped}，保留原樣 {kept}"
           f"（其中 {kept - len(unresolved)} 個原本就有 lastmod）")
