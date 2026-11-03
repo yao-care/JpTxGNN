@@ -4,17 +4,17 @@ title: Iron
 parent: モデル予測のみ
 nav_order: 192
 evidence_level: L5
-indication_count: 6
+indication_count: 5
 monitor_inn: "Iron"
-predicted_indications: ["vitamin B12- and folate-independent constitutional megaloblastic anemia", "Plummer-Vinson syndrome", "non-syndromic esophageal malformation", "biotin metabolic disease", "vitamin deficiency disorder", "esophageal disease"]
-last_modified_at: 2026-10-28
-description: "Iron：予測新適応症はビタミンB12・葉酸非依存性体質性巨赤芽球性貧血 (vitamin B12- and folate-independent constitutional megaloblastic anemia)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
+predicted_indications: ["vitamin B12- and folate-independent constitutional megaloblastic anemia", "non-syndromic esophageal malformation", "biotin metabolic disease", "vitamin deficiency disorder", "esophageal disease"]
+last_modified_at: 2026-11-03
+description: "Iron：予測新適応症はVitamin B12- and folate-independent constitutional megaloblastic anemia（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 
 # Iron
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **6** 件
+エビデンスレベル: **L5** | 予測適応症: **5** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,20 +33,20 @@ description: "Iron：予測新適応症はビタミンB12・葉酸非依存性�
 
 </div>
 
-## 鉄：鉄補充薬 → ビタミンB12・葉酸非依存性体質性巨赤芽球性貧血 (vitamin B12- and folate-independent constitutional megaloblastic anemia)
+## Iron: Vitamin B12- and folate-independent constitutional megaloblastic anemia
 {: .text-alpha }
 
 ## 一言要約
 
-鉄は貧血の治療や造血を助ける鉄補充薬として、日本で使われてきた成分です。
-TxGNN モデルは**ビタミンB12・葉酸非依存性体質性巨赤芽球性貧血 (vitamin B12- and folate-independent constitutional megaloblastic anemia)** に有効である可能性を予測していますが、この疾患を直接調べた臨床試験や文献はなく、エビデンスはモデル予測のみです。
+鉄は貧血治療薬・造血薬・鉄補充薬として使用されてきた薬剤です。
+TxGNN モデルは**ビタミン B12・葉酸非依存性体質性巨赤芽球性貧血 (vitamin B12- and folate-independent constitutional megaloblastic anemia)** に有効である可能性を予測していますが、この疾患を直接検討した臨床試験・文献は現時点でありません。エビデンスは**モデル予測のみ（L5）**です。
 
 ## クイック概要
 
 | 項目 | 内容 |
 |------|------|
 | 既存適応症 | 日本の承認情報に適応症の記載なし |
-| 予測新規適応症 | ビタミンB12・葉酸非依存性体質性巨赤芽球性貧血 (vitamin B12- and folate-independent constitutional megaloblastic anemia) |
+| 予測新規適応症 | Vitamin B12- and folate-independent constitutional megaloblastic anemia |
 | TxGNN 予測スコア | 0.9989 |
 | エビデンスレベル | L5 |
 | 日本市販状況 | 販売中（有効な承認 7 件／全 7 件） |
@@ -55,9 +55,9 @@ TxGNN モデルは**ビタミンB12・葉酸非依存性体質性巨赤芽球性
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。鉄はヘム合成と赤血球造血に必要なミネラルで、鉄欠乏性貧血の補充療法に使われます。
+現在、詳細な作用機序データはありません。鉄はヘム合成と赤血球造血を支える必須ミネラルであり、貧血領域で広く用いられています。
 
-一方、この予測疾患は、ビタミンB12や葉酸の不足ではなく、DNA 合成の異常によって生じる巨赤芽球性貧血です。鉄が造血を支えるという一般的な関連はありますが、この病態の中心的な欠陥を鉄で補えるとは言えません。したがって、機序的な裏付けは弱く、現時点では TxGNN の予測にとどまります。
+一方、この巨赤芽球性貧血はビタミン B12 や葉酸に依存しない DNA 合成の異常を背景とする疾患です。鉄の造血支持作用との関連は TxGNN の予測にとどまり、機序的な裏付けは限定的です。
 
 ## 臨床試験エビデンス
 
@@ -79,25 +79,24 @@ TxGNN モデルは**ビタミンB12・葉酸非依存性体質性巨赤芽球性
 
 ## 安全性に関する考慮事項
 
-- **薬物相互作用**：合計 79 件の相互作用が登録されています。主なものは次のとおりです。
+- **薬物相互作用**：79 件の相互作用が報告されています。主なものは以下のとおりです。
   - 重大（Major）：ドルテグラビル、ビクテグラビル
-  - 中等度（Moderate）：ドキシサイクリン、テトラサイクリン、シプロフロキサシン、アレンドロン酸、リセドロン酸、イバンドロン酸、オメプラゾール、ラベプラゾール、酸化マグネシウム、レボドパ、デフェリプロンなど。多くは鉄との併用による吸収低下が関係します。
-- **併用に注意が必要な疾患**：消化性潰瘍、遺伝性ヘモクロマトーシス、ヘモジデローシス、鉄代謝異常、ウィルソン病、潰瘍性大腸炎、炎症性腸疾患、溶血性貧血、胃腸炎が、禁忌の可能性がある疾患として挙げられています。ただし添付文書の記載ではないため、確認が必要です。
+  - 中等度（Moderate）：オメプラゾール、ラベプラゾール、ドキシサイクリン、テトラサイクリン、シプロフロキサシン、アレンドロン酸、リセドロン酸、イバンドロン酸、レボドパ、酸化マグネシウム、デフェリプロンなど（キレート形成や吸収低下が背景として想定されます）
 
-警告・禁忌の詳細は添付文書を参照してください。
+その他の警告・禁忌については添付文書を参照してください。
 
 ## 結論と次のステップ
 
 **決定：Hold**
 
 **理由：**
-この疾患を直接調べた臨床試験や文献がなく、エビデンスはモデル予測のみ（L5）です。機序的にも、B12・葉酸非依存性の DNA 合成異常に鉄が作用する根拠は乏しい状況です。
+この疾患を直接検討した臨床試験や文献がなく、機序的な裏付けも限定的で、エビデンスはモデル予測のみ（L5）です。
 
 **進める場合に必要なもの：**
-- この疾患に対する鉄の作用機序データ（MOA）の整備
-- 病態と鉄代謝の関連を調べる前臨床または症例研究
-- 添付文書の警告・禁忌情報の取得と安全性評価
-- 対象疾患の患者像と投与経路の適合性の確認
+- 詳細な薬物作用機序データ（MOA）
+- この疾患に対する鉄の効果を直接検討した症例報告・臨床研究の確認
+- 添付文書に基づく警告・禁忌の整理（安全性スクリーニング）
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

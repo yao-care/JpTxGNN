@@ -4,9 +4,9 @@
   "level_counts": {
     "L1": 2,
     "L2": 17,
-    "L3": 9,
+    "L3": 10,
     "L4": 15,
-    "L5": 253
+    "L5": 252
   },
   "all_drugs": [
     {
@@ -427,7 +427,7 @@
       "name": "Ceftriaxone",
       "slug": "ceftriaxone",
       "level": "L5",
-      "indication_count": 7
+      "indication_count": 5
     },
     {
       "name": "Celecoxib",
@@ -463,7 +463,7 @@
       "name": "Ciprofloxacin",
       "slug": "ciprofloxacin",
       "level": "L5",
-      "indication_count": 10
+      "indication_count": 9
     },
     {
       "name": "Cisatracurium",
@@ -553,7 +553,7 @@
       "name": "Danazol",
       "slug": "danazol",
       "level": "L5",
-      "indication_count": 10
+      "indication_count": 9
     },
     {
       "name": "Dantrolene",
@@ -1033,7 +1033,7 @@
       "name": "Imipenem",
       "slug": "imipenem",
       "level": "L5",
-      "indication_count": 10
+      "indication_count": 9
     },
     {
       "name": "Indomethacin",
@@ -1075,7 +1075,7 @@
       "name": "Iron",
       "slug": "iron",
       "level": "L5",
-      "indication_count": 6
+      "indication_count": 5
     },
     {
       "name": "Isosorbide Dinitrate",
@@ -1195,7 +1195,7 @@
       "name": "Levofloxacin",
       "slug": "levofloxacin",
       "level": "L5",
-      "indication_count": 10
+      "indication_count": 9
     },
     {
       "name": "Levothyroxine",
@@ -1296,8 +1296,8 @@
     {
       "name": "Meropenem",
       "slug": "meropenem",
-      "level": "L5",
-      "indication_count": 9
+      "level": "L3",
+      "indication_count": 7
     },
     {
       "name": "Mesalazine",

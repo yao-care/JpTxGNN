@@ -4,17 +4,17 @@ title: Ciprofloxacin
 parent: モデル予測のみ
 nav_order: 86
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 monitor_inn: "Ciprofloxacin"
-predicted_indications: ["diffuse scleroderma", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "punctate epithelial keratoconjunctivitis", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
-last_modified_at: 2026-10-28
+predicted_indications: ["diffuse scleroderma", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "punctate epithelial keratoconjunctivitis", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy"]
+last_modified_at: 2026-11-03
 description: "Ciprofloxacin：予測新適応症はびまん性強皮症 (diffuse scleroderma)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 
 # Ciprofloxacin
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **10** 件
+エビデンスレベル: **L5** | 予測適応症: **9** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,13 +33,14 @@ description: "Ciprofloxacin：予測新適応症はびまん性強皮症 (diffus
 
 </div>
 
-## シプロフロキサシン：DNA ジャイレース/トポイソメラーゼ IV 阻害薬（フルオロキノロン系抗菌薬） → びまん性強皮症 (diffuse scleroderma)
+## Ciprofloxacin: びまん性強皮症 (diffuse scleroderma)
 {: .text-alpha }
 
 ## 一言要約
 
-シプロフロキサシンはフルオロキノロン系の抗菌薬です。
-TxGNN モデルは**びまん性強皮症 (diffuse scleroderma)** に有効である可能性を予測しています。ただし、この疾患を直接検討した臨床試験の登録はなく、関連する文献が **2 編**あるのみです。
+シプロフロキサシンは DNA ジャイレース／トポイソメラーゼ IV を阻害するフルオロキノロン系抗菌薬です。
+TxGNN モデルは**びまん性強皮症 (diffuse scleroderma)** に有効である可能性を予測しており、スコアは 0.9987 です。
+ただし、この疾患を直接検討した臨床試験の登録はなく、関連する文献は **2 編**にとどまります。
 
 ## クイック概要
 
@@ -55,13 +56,11 @@ TxGNN モデルは**びまん性強皮症 (diffuse scleroderma)** に有効で�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。一般に、シプロフロキサシンは細菌の DNA ジャイレースとトポイソメラーゼ IV を阻害する抗菌薬です。この作用は強皮症の病態そのものに直接働くものではありません。
+現在、詳細な作用機序データはありません。シプロフロキサシンは細菌の DNA ジャイレースとトポイソメラーゼ IV を阻害するフルオロキノロン系抗菌薬として知られています。
 
-この予測を支える機序的な手がかりは、間接的なものが 2 つあります。
-- 強皮症患者由来の皮膚細胞で、線維芽細胞のコラーゲン産生を減らす可能性が報告されている（抗線維化シグナル）。
-- 全身性強皮症に合併しやすい小腸細菌過剰増殖の治療に役立つ可能性がある。
+強皮症との関連については、2 つの間接的な経路が報告されています。1 つは、強皮症患者由来の皮膚細胞で線維芽細胞のコラーゲン産生を低下させる抗線維化シグナルです。もう 1 つは、全身性強皮症に合併しやすい小腸細菌過剰増殖の治療です。
 
-いずれも臨床的な有効性データによる裏付けはなく、現時点では仮説の段階です。
+ただし、どちらの経路も間接的で、臨床的な有効性を示すデータはありません。現時点では、確立した治療というより、検証すべき研究課題と位置づけられます。
 
 ## 臨床試験エビデンス
 
@@ -71,8 +70,8 @@ TxGNN モデルは**びまん性強皮症 (diffuse scleroderma)** に有効で�
 
 | PMID | 年 | タイプ | ジャーナル | 主な知見 |
 |------|-----|------|------|---------|
-| [20507401](https://pubmed.ncbi.nlm.nih.gov/20507401/) | 2010 | In vitro（二重盲検ランダム化試験として計画） | The Journal of Dermatology | 強皮症の皮膚に対する経口シプロフロキサシンの抗線維化作用を検討。重症度を下げるかを調べた研究 |
-| [7728404](https://pubmed.ncbi.nlm.nih.gov/7728404/) | 1995 | Cohort | British Journal of Rheumatology | 全身性強皮症 24 例で小腸細菌過剰増殖を評価し、治療経過を検討（びまん型は 6 例） |
+| [20507401](https://pubmed.ncbi.nlm.nih.gov/20507401/) | 2010 | In vitro 分類 | The Journal of Dermatology | 強皮症の皮膚に対する経口シプロフロキサシンの抗線維化作用を、二重盲検ランダム化試験で検討した報告 |
+| [7728404](https://pubmed.ncbi.nlm.nih.gov/7728404/) | 1995 | Cohort | British Journal of Rheumatology | 全身性硬化症 24 例で小腸細菌過剰増殖を評価し、治療経過を検討した研究 |
 
 ## 日本市販情報
 
@@ -85,24 +84,25 @@ TxGNN モデルは**びまん性強皮症 (diffuse scleroderma)** に有効で�
 
 ## 安全性に関する考慮事項
 
-- **薬物相互作用**：相互作用データベースで 100 件が確認されています。主なものは次のとおりです。
-  - 重要度が高い（Major）もの：ヒドロコルチゾン、トリアムシノロン、デキサメタゾン、ベタメタゾン、ブプロピオン
-  - 中等度（Moderate）のもの：メトホルミン、ピオグリタゾン、ファモチジン、ロペラミド、アスピリンなど
+- **薬物相互作用**：相互作用の報告が 100 件あります。主なものは次のとおりです。
+  - Major：ヒドロコルチゾン、トリアムシノロン、デキサメタゾン、ベタメタゾン、ブプロピオン
+  - Moderate：メトホルミン、ピオグリタゾン、ロペラミド、アスピリン、ファモチジンなど
 
-  特にコルチコステロイドとの併用は、強皮症の治療でも想定される組み合わせのため注意が必要です。
+添付文書の警告および禁忌については、添付文書を参照してください。
 
 ## 結論と次のステップ
 
 **決定：Hold**
 
 **理由：**
-びまん性強皮症に対する臨床試験の登録はなく、文献も抗線維化作用の検討と小腸細菌過剰増殖の観察研究にとどまります。臨床的有効性を示すデータはなく、現時点では研究課題の段階です。
+- 強皮症に関する文献は 2 編ありますが、いずれも間接的な示唆にとどまり、臨床試験の登録もありません。現段階では臨床応用を検討する根拠は不十分です。
 
 **進める場合に必要なもの：**
-- 抗線維化作用を確認する追加の前臨床・臨床研究
-- 作用機序データの補充
-- 添付文書の警告・禁忌情報の取得
-- 強皮症患者でのコルチコステロイド併用を含む安全性評価
+- 強皮症の皮膚線維化に対する効果を評価する、前向きの臨床試験またはランダム化比較試験
+- 抗線維化作用の機序を裏付ける前臨床・機序データ
+- 添付文書の警告・禁忌の確認と、安全性の評価
+- 強皮症で併用されることの多い副腎皮質ステロイドとの相互作用の確認
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

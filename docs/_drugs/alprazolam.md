@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-03
 monitor_inn: "Alprazolam"
 predicted_indications: ["insomnia (disease)", "benign paroxysmal torticollis of infancy"]
-description: "Alprazolam：予測新適応症は不眠症 (insomnia (disease)) (insomnia (disease))（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
+description: "Alprazolam：予測新適応症は不眠症 (insomnia (disease))（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 
 # Alprazolam
@@ -33,7 +33,7 @@ description: "Alprazolam：予測新適応症は不眠症 (insomnia (disease)) (
 
 </div>
 
-## Alprazolam: 不眠症 (insomnia (disease)) (insomnia (disease))
+## Alprazolam: 不眠症 (insomnia (disease))
 {: .text-alpha }
 
 ## 一言要約
@@ -47,7 +47,7 @@ TxGNN モデルは**不眠症 (insomnia (disease))** に有効である可能性
 | 項目 | 内容 |
 |------|------|
 | 既存適応症 | 日本の承認情報に適応症の記載なし |
-| 予測新規適応症 | 不眠症 (insomnia (disease)) (insomnia (disease)) |
+| 予測新規適応症 | 不眠症 (insomnia (disease)) |
 | TxGNN 予測スコア | 0.9981 |
 | エビデンスレベル | L5 |
 | 日本市販状況 | 販売中（有効な承認 14 件／全 14 件） |

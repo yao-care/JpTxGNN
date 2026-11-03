@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-03
 monitor_inn: "Clotrimazole"
 predicted_indications: ["acne (disease)", "postmenopausal atrophic vaginitis"]
-description: "Clotrimazole：予測新適応症は尋常性ざ瘡 (acne (disease)) (acne (disease))（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
+description: "Clotrimazole：予測新適応症は尋常性ざ瘡 (acne (disease))（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 
 # Clotrimazole
@@ -33,7 +33,7 @@ description: "Clotrimazole：予測新適応症は尋常性ざ瘡 (acne (disease
 
 </div>
 
-## Clotrimazole: 尋常性ざ瘡 (acne (disease)) (acne (disease))
+## Clotrimazole: 尋常性ざ瘡 (acne (disease))
 {: .text-alpha }
 
 ## 一言要約
@@ -47,7 +47,7 @@ TxGNN モデルは**尋常性ざ瘡 (acne (disease))** に有効である可能�
 | 項目 | 内容 |
 |------|------|
 | 既存適応症 | 日本の承認情報に適応症の記載なし |
-| 予測新規適応症 | 尋常性ざ瘡 (acne (disease)) (acne (disease)) |
+| 予測新規適応症 | 尋常性ざ瘡 (acne (disease)) |
 | TxGNN 予測スコア | 0.9986 |
 | エビデンスレベル | L5 |
 | 日本市販状況 | 販売中（有効な承認 4 件／全 4 件） |
