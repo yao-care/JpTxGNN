@@ -13,6 +13,8 @@ import time
 from datetime import datetime
 from pathlib import Path
 
+import xml.etree.ElementTree as ET
+
 import requests
 
 from github_utils import create_issue, close_older_pubmed_issues
@@ -102,6 +104,7 @@ def is_known_indication(approved_indication: str, predicted_indication: str) -> 
 # Configuration
 ESEARCH_URL = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi"
 ESUMMARY_URL = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi"
+EFETCH_URL = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi"
 CACHE_FILE = Path(__file__).parent.parent / "data" / "cache" / "pubmed_cache.json"
 DRUG_LIST_FILE = Path(__file__).parent / "drug_list.json"
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN")
@@ -215,10 +218,44 @@ def _role_flags(text: str) -> str:
     return "; ".join(msg for pat, msg in ROLE_PATTERNS if re.search(pat, t))
 
 
+def _match_text(text: str) -> str:
+    text = re.sub(r"<[^>]+>", " ", text or "")
+    return re.sub(r"\s+", " ", text).lower()
+
+
+def paper_hits(paper: dict, indications: list) -> list:
+    """論文標題或摘要直接出現哪些預測新適應症（2026-11-03：摘要也比對，不再只看標題）。"""
+    text = _match_text(paper.get("title", "") + " " + paper.get("abstract", ""))
+    return [i for i in indications if _clean_indication(i) and _match_text(_clean_indication(i)) in text]
+
+
 def matched_indications(papers: list, indications: list) -> list:
-    """以論文標題比對命中哪些預測新適應症；比對不到就回傳空串列。"""
-    titles = " ".join(p.get("title", "") for p in papers).lower()
-    return [i for i in indications if _clean_indication(i).lower() in titles]
+    """以論文標題／摘要比對命中哪些預測新適應症；比對不到就回傳空串列。"""
+    hit = {i for p in papers for i in paper_hits(p, indications)}
+    return [i for i in indications if i in hit]
+
+
+def fetch_abstracts(pmids: list) -> dict:
+    """以 efetch 取摘要（PMID → 摘要文字）；失敗回傳空 dict（只剩標題可比對）。"""
+    if not pmids:
+        return {}
+    params = {"db": "pubmed", "id": ",".join(pmids), "retmode": "xml", "rettype": "abstract"}
+    if NCBI_API_KEY:
+        params["api_key"] = NCBI_API_KEY
+    try:
+        response = requests.get(EFETCH_URL, params=params, timeout=60)
+        response.raise_for_status()
+        root = ET.fromstring(response.content)
+    except (requests.RequestException, ET.ParseError) as e:
+        print(f"Error fetching abstracts: {e}")
+        return {}
+    abstracts = {}
+    for art in root.iter("PubmedArticle"):
+        pmid = art.findtext("MedlineCitation/PMID", default="")
+        parts = ["".join(node.itertext()) for node in art.iter("AbstractText")]
+        if pmid:
+            abstracts[pmid] = " ".join(x.strip() for x in parts if x and x.strip())
+    return abstracts
 
 
 def get_paper_details(pmids: list) -> list:
@@ -283,12 +320,12 @@ def create_github_issue(drug_name: str, new_papers: list, indications: list = No
     paper_details = []
     for paper in new_papers:
         authors = ", ".join(paper["authors"]) + (" et al." if len(paper["authors"]) >= 3 else "")
-        hit = [i for i in indications if _clean_indication(i).lower() in paper["title"].lower()]
+        hit = paper_hits(paper, indications)
         role = _role_flags(paper["title"])
         paper_details.append(
             f"### PMID: {paper['pmid']}\n"
             f"- **Title**: {paper['title']}\n"
-            f"- **Matched predicted indication**: {'; '.join(hit) if hit else '(not in title — check abstract)'}\n"
+            f"- **Matched predicted indication**: {'; '.join(hit) if hit else '(no direct match in title/abstract)'}\n"
             + (f"- **⚠ Role flag**: {role}\n" if role else "")
             + f"- **Journal**: {paper['source']}\n"
             f"- **Publication Date**: {paper['pubdate']}\n"
@@ -316,7 +353,7 @@ PubMed
 New Academic Publications
 
 ### Details
-Found **{len(new_papers)}** new publications:
+Found **{len(new_papers)}** new publications (at least one directly mentions a predicted indication in its title/abstract):
 
 {"".join(paper_details)}
 
@@ -354,6 +391,7 @@ def main():
     new_findings = []
     seen_pmids = cache.get("seen_pmids", {})
     skipped_known = 0
+    skipped_no_hit = 0
 
     for i, drug in enumerate(drugs):
         drug_name = drug["name"]
@@ -395,12 +433,22 @@ def main():
                 elif len(papers) < 2:
                     print(f"  Only {len(papers)} paper found - below threshold")
                 else:
-                    print(f"  Found {len(papers)} new papers!")
-                    new_findings.append({
-                        "drug": drug_name,
-                        "papers": papers,
-                        "indications": matched_indications(papers, predicted) or predicted,
-                    })
+                    # 2026-11-03：至少一篇的標題／摘要直接出現預測新適應症才開 issue；標題只掛對到的預測
+                    abstracts = fetch_abstracts([p["pmid"] for p in papers])
+                    time.sleep(RATE_LIMIT_DELAY)
+                    for paper in papers:
+                        paper["abstract"] = abstracts.get(paper["pmid"], "")
+                    hits = matched_indications(papers, predicted)
+                    if not hits:
+                        skipped_no_hit += 1
+                        print(f"  {len(papers)} new papers, none directly mentions a predicted indication (cache only)")
+                    else:
+                        print(f"  Found {len(papers)} new papers! (matched: {'; '.join(hits)})")
+                        new_findings.append({
+                            "drug": drug_name,
+                            "papers": papers,
+                            "indications": hits,
+                        })
 
             # Update seen PMIDs
             drug_seen.extend(new_pmids)
@@ -416,6 +464,7 @@ def main():
     print("Summary")
     print("=" * 60)
     print(f"Skipped (known indications): {skipped_known}")
+    print(f"Skipped (no direct indication match): {skipped_no_hit}")
 
     if new_findings:
         print(f"New findings: {len(new_findings)}")

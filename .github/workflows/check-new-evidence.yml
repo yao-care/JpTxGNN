@@ -30,6 +30,15 @@ jobs:
       - name: Extract drug list
         run: python scripts/extract_drug_list.py
 
+      - name: Close stale evidence issues
+        # 預測清單更新後，已開出去的監測 issue 若列的預測都不在頁面上就留言關閉（最多 50 筆／次）
+        run: python scripts/reconcile_evidence_issues.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          RECONCILE_MAX_CLOSE: '50'
+        continue-on-error: true
+
       - name: Check ClinicalTrials.gov
         run: python scripts/check_clinicaltrials.py
         env:
