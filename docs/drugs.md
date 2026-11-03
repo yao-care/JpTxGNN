@@ -36,6 +36,8 @@ description: "JpTxGNN における全医薬品の検証レポートとエビデ�
 
 <!-- local-home:end -->
 
+絞り込み一覧：[新規適応症に臨床試験エビデンスがある国内医薬品]({{ '/clinical-trial-evidence/' | relative_url }})（L1–L2、予測適応症と引用登録試験数つき）。
+
 ## エビデンスレベル別内訳
 
 | エビデンスレベル | 医薬品数 | 説明 |
