@@ -18,10 +18,10 @@ JpTxGNN は以下のデータソースを統合しています。
 | 項目 | 内容 |
 |------|------|
 | 提供元 | 社会保険診療報酬支払基金 |
-| URL | [https://www.ssk.or.jp/](https://www.ssk.or.jp/) |
+| URL | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)（旧 ssk.or.jp） |
 | データ件数 | 19,317 薬品 |
-| 含まれる情報 | 薬価基準コード、販売名、薬価、単位 |
-| 更新頻度 | 毎月 |
+| 含まれる情報 | 薬価基準コード、販売名、薬価、単位、廃止年月日 |
+| 更新頻度 | 本サイトは毎週月曜に最新の医薬品マスター（y_ALL ファイル）を自動取得し、廃止年月日を反映 |
 
 ### KEGG DRUG
 
