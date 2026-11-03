@@ -65,6 +65,33 @@ def list_issue_comments(issue_number: int) -> List[dict]:
     return comments
 
 
+def search_issue_titles(title: str, state: str = "all") -> dict:
+    """以 Search API 找標題含同一藥名的 auto-detected issue，回傳 {標題: 編號}。
+
+    本站 auto-detected issue 約 4.3 萬筆，逐頁列全部要 400 多次請求（GITHUB_TOKEN 每小時 1,000 次），
+    去重改用搜尋縮小範圍後再比對完整標題。Search API 一次最多回 1,000 筆。
+    """
+    m = ISSUE_DRUG_RE.search(title)
+    key = (m.group(1) if m else title).replace('"', " ").strip()[:200]
+    q = f'repo:{GITHUB_REPO} is:issue label:auto-detected in:title "{key}"'
+    if state in ("open", "closed"):
+        q += f" is:{state}"
+    url = "https://api.github.com/search/issues"
+    params = {"q": q, "per_page": 100}
+    found = {}
+    for _ in range(10):
+        response = requests.get(url, headers=get_headers(), params=params, timeout=30)
+        response.raise_for_status()
+        for issue in response.json().get("items", []):
+            found[issue.get("title")] = issue["number"]
+        next_url = response.links.get("next", {}).get("url")
+        if not next_url:
+            break
+        url, params = next_url, None
+    return found
+
+
+# 本次執行新開的 issue（搜尋索引有延遲，剛開的查不到）
 _ISSUE_TITLE_CACHE = {}
 
 
@@ -83,15 +110,11 @@ def issue_exists(title: str, state: str = "all") -> bool:
         print(f"[DRY RUN] Would check for existing issue: {title}")
         return False
 
-    # GitHub API doesn't support exact title search, so we fetch and filter.
-    # 分頁取全部；同一次執行內只抓一次，之後新開的 issue 由 create_issue 補進快取
+    # GitHub API doesn't support exact title search, so we search by drug name and filter.
     try:
-        if state not in _ISSUE_TITLE_CACHE:
-            _ISSUE_TITLE_CACHE[state] = {
-                i.get("title"): i["number"]
-                for i in list_issues({"state": state, "labels": "auto-detected"})
-            }
-        number = _ISSUE_TITLE_CACHE[state].get(title)
+        number = _ISSUE_TITLE_CACHE.get(state, {}).get(title)
+        if number is None:
+            number = search_issue_titles(title, state).get(title)
         if number is not None:
             print(f"  → Issue already exists: #{number} - {title}")
             return True
@@ -325,8 +348,8 @@ def create_issue(title: str, body: str, labels: list) -> Optional[str]:
         response.raise_for_status()
         created = response.json()
         issue_url = created.get("html_url")
-        for titles in _ISSUE_TITLE_CACHE.values():
-            titles[title] = created.get("number")
+        for st in ("all", "open"):
+            _ISSUE_TITLE_CACHE.setdefault(st, {})[title] = created.get("number")
         print(f"  → Created issue: {issue_url}")
         return issue_url
 
