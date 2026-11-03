@@ -4,9 +4,9 @@
   "level_counts": {
     "L1": 2,
     "L2": 17,
-    "L3": 10,
-    "L4": 15,
-    "L5": 252
+    "L3": 8,
+    "L4": 16,
+    "L5": 253
   },
   "all_drugs": [
     {
@@ -744,7 +744,7 @@
     {
       "name": "Epirubicin",
       "slug": "epirubicin",
-      "level": "L3",
+      "level": "L5",
       "indication_count": 7
     },
     {
@@ -1632,7 +1632,7 @@
     {
       "name": "Pravastatin",
       "slug": "pravastatin",
-      "level": "L3",
+      "level": "L4",
       "indication_count": 6
     },
     {
