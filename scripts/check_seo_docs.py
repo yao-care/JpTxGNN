@@ -13,6 +13,8 @@
      （:name／:slug／:title）＋Jekyll slugify 推導。
   5. 日本販売名區塊與 search-index 的 brands 跟 docs/_data/brand_names.json 一致；docs/_data/drug_stats.json 與寫死的藥物數一致（scripts/generate_drug_stats.py）。
   6. Markdown 表格前後有空行（2026-11-03；缺空行 kramdown 會把整張表排成純文字，scripts/fix_table_spacing.py 修）。
+  7. docs/nav-*.md、evidence-*.md、drugs.md 不寫死該由 drug_stats.json 來的藥物總數、等級分布條寬度、等級藥物數（2026-11-03）。
+  8. llms.txt／llms-full.txt 範例藥物行「名稱 (Lx): 網址」的標籤＝藥物頁 evidence_level，且不指向轉址／noindex／不存在的頁（2026-11-03）。
 
 Tw 專屬的檢查（TFDA 許可證表、docs/_data/drug_reviews.json 人工查核紀錄、drug_stats.json）沒有移植；
 本站之後若建立同類機制，再把對應檢查加回來。
@@ -262,6 +264,86 @@ for _f in _fts.targets():
     _n = len(_fts.problems(_f.read_bytes().decode("utf-8", errors="replace")))
     if _n:
         errors.append(f"{_f.relative_to(DOCS)}：{_n} 處表格前後缺空行，會被排成純文字（跑 scripts/fix_table_spacing.py）")
+
+# 7) 導覽頁與等級列表頁不得寫死該由 docs/_data/drug_stats.json 來的數字（2026-11-03 補）：
+#    docs/nav-*.md 的藥物／報告總數、等級分布條（dist-high／dist-medium／dist-low）的寬度、等級卡片的藥物數，
+#    以及 nav-*.md、evidence-*.md、drugs.md 等級表（| L1-L2 | 數字 |）的藥物數。nav-*.md 曾被自動化層寫入
+#    寫死的數字後過期（MyTxGNN 2026-11-03：寫 799 份、14%／5%／81%，實際 606 份）。
+#    修法：內文改用 Liquid 讀 site.data.drug_stats（total_drugs、level_counts，百分比在 Liquid 裡算）；
+#    front matter description 不能用 Liquid，不寫數字（非寫不可就列進 scripts/generate_drug_stats.py 的 COUNT_SPOTS 由它同步）。
+import generate_drug_stats as _gds_nav  # noqa: E402
+_NAV_W = (r"(?:drugs?|medicines?|medications?|ubat|medicamentos?|fármacos?|farmacos?|arzneimittel\w*|lægemidl\w*|"
+          r"geneesmiddel\w*|läkemed\w*|legemid\w*|lääk\w*|médicaments?|farmaci|藥物?|药物?|薬|医薬品|약물|의약품|ยา|أدوية|دواء|"
+          r"reports?|relatórios?|informes?|rapports?|berichte\w*|rapporter|rapporten|rapporti|laporan|รายงาน|レポート|報告|报告|보고서)")
+_NAV_N = r"(?<![A-Za-z\d.,/#:\-])(\d{1,3}(?:[,.]\d{3})+|\d{2,5})(?![A-Za-z\d%.,/])"
+_NAV_HARD = re.compile(_NAV_N + r"[^\d\n]{0,12}?" + _NAV_W + "|" + _NAV_W + r"[^\d\n]{0,40}?" + _NAV_N, re.I)
+_NAV_MASK = re.compile(r"\{\{.*?\}\}|\{%.*?%\}|<[^>\n]*>|https?://\S+|&#?\w+;", re.S)
+_NAV_BAR = re.compile(r"<[^>]*\bdist-(?:high|medium|low|l[1-5])\b[^>]*>", re.I)
+_NAV_CARD = re.compile(r'class="drug-card-count">\s*([\d][\d,.]*)\s*<', re.I)
+_NAV_LVROW = re.compile(r"^\|\s*\**L[1-5](?:\s*[-–~]\s*L[1-5])?\**\s*\|\s*\**(\d[\d,.]*)\**\s*\|", re.M)
+_nav_spots = {}
+for _sp in _gds_nav.COUNT_SPOTS:
+    _nav_spots.setdefault(_sp[0], []).append(_sp[1])
+for _f in sorted(DOCS.glob("nav-*.md")) + sorted(DOCS.glob("evidence-*.md")) + [DOCS / "drugs.md"]:
+    if not _f.exists():
+        continue
+    _t = _f.read_bytes().decode("utf-8", errors="replace")
+    _ln = lambda i: _t.count("\n", 0, i) + 1  # noqa: E731
+    _bad = []
+    for _m in _NAV_BAR.finditer(_t):
+        _w = re.search(r"width:\s*([^;\"']+)", _m.group(0))
+        if _w and "{{" not in _w.group(1):
+            _bad.append(f"{_ln(_m.start())} 行等級分布條寬度寫死 {_w.group(1).strip()}")
+    _bad += [f"{_ln(_m.start())} 行等級卡片寫死 {_m.group(1)}" for _m in _NAV_CARD.finditer(_t)]
+    _bad += [f"{_ln(_m.start())} 行等級表寫死 {_m.group(1)}" for _m in _NAV_LVROW.finditer(_t)]
+    if _f.name.startswith("nav-") and _f.name != "nav-safety.md":  # nav-safety 的數字是 DDInter 等安全性資料集的規模，不是 drug_stats
+        _skip = [(_m.start(), _m.end()) for _p in _nav_spots.get(f"docs/{_f.name}", [])
+                 for _m in re.finditer(_p, _t, re.M)]  # COUNT_SPOTS 管的位置（腳本同步）不算
+        _masked = _NAV_MASK.sub(lambda m: re.sub(r"[^\n]", " ", m.group(0)), _t)
+        for _m in _NAV_HARD.finditer(_masked):
+            _num = (_m.group(1) or _m.group(2)).replace(",", "").replace(".", "")
+            if int(_num) < 50 or 1990 <= int(_num) <= 2099 or any(a <= _m.start() < b for a, b in _skip):
+                continue  # 個位數／每藥前 N 筆之類的小數字、年份不是藥物總數
+            _bad.append(f"{_ln(_m.start())} 行寫死的藥物／報告數「{' '.join(_m.group(0).split())}」")
+    errors.extend(f"{_f.name}：{b}（改用 site.data.drug_stats 的 Liquid；description 不寫數字）" for b in _bad)
+
+# 8) llms.txt／llms-full.txt 的範例藥物行「- 名稱 (Lx): 網址」（2026-11-03 補）：標籤＝該藥物頁 front matter 的
+#    evidence_level，且網址指到存在的藥物頁、不是 ID 轉址頁、不是 noindex 頁（藥物頁重新評級後標籤會過期，
+#    NZTxGNN 等站曾發生）。修法：母目錄 python3 .claude/sync_llms_descriptions.py <站> 會依頁面同步標籤；
+#    指到轉址／noindex／不存在頁的行要人工換一個藥。
+_LLM_LINE = re.compile(r"^\s*[-*]\s*(.+?)\s*\((L[1-5]|N/A)\)\s*:\s*(https?://\S+?)\s*$", re.M)
+_llm_pages, _llm_prefix = {}, []
+for _cn, _pat in collection_rules().items():
+    if _cn != "drugs":
+        continue
+    _llm_prefix.append(_pat.split(":")[0])
+    for _f in (DOCS / "_drugs").glob("*.md"):
+        _t = _f.read_text(encoding="utf-8", errors="replace")
+        _fm = front_matter(_t)
+        _u = _fm.get("permalink") or re.sub(r":(name|slug|title)\b", jekyll_slugify(_fm.get("slug") or _f.stem), _pat)
+        _llm_pages[_u.rstrip("/") + "/"] = (_fm, 'http-equiv="refresh"' in _t)
+for _name in ("llms.txt", "llms-full.txt"):
+    _f = DOCS / _name
+    if not _f.exists():
+        continue
+    for _m in _LLM_LINE.finditer(_f.read_text(encoding="utf-8", errors="replace")):
+        _url, _lv = _m.group(3), _m.group(2)
+        if not _url.startswith(SITE):
+            continue
+        _path = (_url[len(SITE):].split("#")[0].split("?")[0] or "/").rstrip("/") + "/"
+        if not any(_path.startswith(p) for p in _llm_prefix):
+            continue  # 不是藥物頁（如 /evidence-low/ 的等級說明行）
+        if _path not in _llm_pages:
+            errors.append(f"{_name}：「{_m.group(1)} ({_lv})」指到不存在的藥物頁 {_url}（換一個藥）")
+            continue
+        _fm, _refresh = _llm_pages[_path]
+        if _fm.get("layout") == "id_redirect" or _refresh or _fm.get("redirect_to"):
+            errors.append(f"{_name}：「{_m.group(1)} ({_lv})」指到轉址頁 {_url}（換一個藥）")
+        elif _fm.get("noindex", "").lower() == "true":
+            errors.append(f"{_name}：「{_m.group(1)} ({_lv})」指到 noindex 頁 {_url}（換一個藥）")
+        elif _fm.get("evidence_level", "") != _lv:
+            errors.append(f"{_name}：「{_m.group(1)} ({_lv})」標籤與頁面 evidence_level {_fm.get('evidence_level') or '（無）'} 不符"
+                          f"（跑母目錄 .claude/sync_llms_descriptions.py）")
 
 if errors:
     print(f"docs SEO 守門：✗ {len(errors)} 項")
