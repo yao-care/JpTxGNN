@@ -5,7 +5,7 @@ parent: 中エビデンスレベル
 nav_order: 26
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 description: "Ampicillin：予測新適応症は喉頭炎 (Laryngitis)（エビデンスレベル L5）。既存適応症：抗生物質"
 monitor_inn: "Ampicillin"
 predicted_indications: ["laryngitis", "Ureaplasma urethritis", "chronic rhinosinusitis", "chronic ethmoidal sinusitis", "gingivitis", "paranasal sinus neoplasm (disease)", "bacterial arthritis", "conjunctivitis", "pericoronitis"]
@@ -125,6 +125,7 @@ TxGNN モデルは**喉頭炎 (Laryngitis)** に有効である可能性を予�
 | 細菌性関節炎 | 0.9911 | L5 | Research Question | 症例報告、動物、in vitro が中心です |
 | 結膜炎 | 0.9904 | L4 | Hold | 病原体・感受性の調査が中心です |
 | 歯冠周囲炎 | 0.9904 | L4 | Research Question | 小規模な臨床評価による間接的な裏付けです |
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

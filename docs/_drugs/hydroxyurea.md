@@ -3,7 +3,7 @@ layout: default
 title: Hydroxyurea
 parent: 既知の用途のみ（新規予測なし）
 nav_order: 180
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Hydroxyurea: 日本における既知の用途と市場状況。現時点で新たな候補適応症はありません"
 predicted_indications: []
 indication_count: 0
@@ -41,6 +41,7 @@ evidence_level: N/A
 TxGNN モデルでは、Hydroxyurea(ヒドロキシウレア)についてスコア 0.99 以上の候補は得られておらず、現時点で新たな予測適応症はありません。この薬剤について記録されている既知の用途を以下に示します。
 
 ## 早見表
+
 | 項目 | 内容 |
 |------|------|
 | 日本市販状況 | 販売中（有効な承認 1 件／全 1 件） |
@@ -50,16 +51,19 @@ TxGNN モデルでは、Hydroxyurea(ヒドロキシウレア)についてスコ�
 ## この薬剤について記録されている既知の用途
 
 ### 承認済み(承認または添付文書で裏付けられるもの)
+
 | 適応症 | 出典 |
 |------|------|
 | 白血病 (leukemia) | 他国での承認 (licence in another country) |
 
 ### 承認済み適応症に関連するもの(同じ疾患カテゴリ)
+
 | 適応症 | 承認済みカテゴリ |
 |------|------|
 | なし | なし |
 
 ### ナレッジグラフに記録されている関係(承認は確認されていない)
+
 | 適応症 |
 |------|
 | 卵巣境界悪性上皮性腫瘍 (borderline epithelial tumor of ovary) |

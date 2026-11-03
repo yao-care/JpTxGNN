@@ -3,7 +3,7 @@ layout: default
 title: Benzylpenicillin
 parent: 既知の用途のみ（新規予測なし）
 nav_order: 53
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Benzylpenicillin: 日本における既知の用途と市場状況。現時点で新たな候補適応症はありません"
 predicted_indications: []
 indication_count: 0
@@ -41,6 +41,7 @@ evidence_level: N/A
 TxGNNモデルでは、ベンジルペニシリン(Benzylpenicillin)についてスコア0.99以上の候補が得られなかったため、現時点で新たな予測適応症はありません。この薬剤について記録されている既知の用途を以下に示します。
 
 ## 概要
+
 | 項目 | 内容 |
 |------|------|
 | 日本市販状況 | 販売中（有効な承認 2 件／全 2 件） |
@@ -50,6 +51,7 @@ TxGNNモデルでは、ベンジルペニシリン(Benzylpenicillin)について
 ## この薬剤に記録されている既知の用途
 
 ### 承認済み(承認または添付文書で裏付けられるもの)
+
 | 適応症 | 出典 |
 |------|------|
 | 細菌感染症 (bacterial infection) | 他国の承認 |
@@ -60,11 +62,13 @@ TxGNNモデルでは、ベンジルペニシリン(Benzylpenicillin)について
 | 扁桃炎 (tonsillitis) | 他国の承認 |
 
 ### 承認済み適応症に関連するもの(同じ疾患カテゴリ)
+
 | 適応症 | 承認カテゴリ |
 |------|------|
 | なし | なし |
 
 ### ナレッジグラフに記録されている関係(承認は確認されていない)
+
 | 適応症 |
 |------|
 | 放線菌目感染症 (actinomycetales infectious disease) |

@@ -5,7 +5,7 @@ parent: 高エビデンスレベル
 nav_order: 310
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 description: "Tocilizumab：予測新適応症は強直性脊椎炎 (Ankylosing Spondylitis)（エビデンスレベル L2）。既存適応症：関節リウマチ、若年性特発性関節炎、側頭動脈炎、キャッスルマン病など（日本の承認適応症テキストは未登録）"
 monitor_inn: "Tocilizumab"
 predicted_indications: ["ankylosing spondylitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "vertebral disease"]
@@ -131,6 +131,7 @@ TxGNN モデルは**強直性脊椎炎 (Ankylosing Spondylitis)** に有効で�
 | 脊椎関節症の感受性 | L4 | Hold | in vitro 研究のみ |
 | 脊椎疾患（非特異的） | L4 | Hold | 間接的な根拠のみ |
 | 尾骨過可動性、クンメル病、IL12B 欠損によるメンデル遺伝性マイコバクテリア感受性 | L5 | Hold | モデル予測のみ。機序的な根拠なし |
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

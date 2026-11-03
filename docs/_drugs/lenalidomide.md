@@ -5,7 +5,7 @@ parent: 高エビデンスレベル
 nav_order: 179
 evidence_level: L2
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 description: "Lenalidomide：予測新適応症は骨髄性白血病 (Myeloid Leukemia)（エビデンスレベル L2）。既存適応症：多発性骨髄腫、骨髄異形成症候群（5番染色体長腕部欠失）"
 monitor_inn: "Lenalidomide"
 predicted_indications: ["myeloid leukemia", "refractory cytopenia of childhood", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts"]
@@ -144,6 +144,7 @@ TxGNN モデルは**骨髄性白血病 (Myeloid Leukemia)** に有効である�
 | 3 | 小児不応性血球減少症 | 0.9935 | L5 | Hold |
 | 4 | 無再生性貧血 | 0.9932 | L5 | Research Question |
 | 5 | 重症先天性低色素性貧血（環状鉄芽球を伴う） | 0.9928 | L5 | Hold |
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

@@ -11,6 +11,8 @@
   4. docs/*.md 的站內連結指到存在的 permalink、redirect_from 或實際檔案。
      permalink 含 collection 文件（_drugs/、_news/）：照 _config.yml 的 permalink 樣板
      （:name／:slug／:title）＋Jekyll slugify 推導。
+  5. 日本販売名區塊與 search-index 的 brands 跟 docs/_data/brand_names.json 一致；docs/_data/drug_stats.json 與寫死的藥物數一致（scripts/generate_drug_stats.py）。
+  6. Markdown 表格前後有空行（2026-11-03；缺空行 kramdown 會把整張表排成純文字，scripts/fix_table_spacing.py 修）。
 
 Tw 專屬的檢查（TFDA 許可證表、docs/_data/drug_reviews.json 人工查核紀錄、drug_stats.json）沒有移植；
 本站之後若建立同類機制，再把對應檢查加回來。
@@ -251,6 +253,15 @@ _want = _gds.build_stats(_gds.listed_drugs(), _stats_now.get("generated", ""))
 if not _gds.same(_stats_now, _want):
     errors.append(f"drug_stats.json total_drugs={_stats_now.get('total_drugs')}，公開藥物頁 {_want['total_drugs']} 頁（跑 scripts/generate_drug_stats.py）")
 errors.extend(f"{e}（跑 scripts/generate_drug_stats.py）" for e in _gds.count_spot_problems(_want) + _gds.hardcode_problems(_want))
+
+# 6) 表格前後缺空行（2026-11-03 補）：kramdown 會把整張表排成純文字（線上出現 `| 欄 | 欄 | |---|---|`）。
+#    修法：python3 scripts/fix_table_spacing.py（只補空行，不改字）。
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import fix_table_spacing as _fts  # noqa: E402
+for _f in _fts.targets():
+    _n = len(_fts.problems(_f.read_bytes().decode("utf-8", errors="replace")))
+    if _n:
+        errors.append(f"{_f.relative_to(DOCS)}：{_n} 處表格前後缺空行，會被排成純文字（跑 scripts/fix_table_spacing.py）")
 
 if errors:
     print(f"docs SEO 守門：✗ {len(errors)} 項")

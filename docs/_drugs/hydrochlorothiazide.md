@@ -3,7 +3,7 @@ layout: default
 title: Hydrochlorothiazide
 parent: 既知の用途のみ（新規予測なし）
 nav_order: 175
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 description: "Hydrochlorothiazide: 日本における既知の用途と市場状況。現時点で新たな候補適応症はありません"
 predicted_indications: []
 indication_count: 0
@@ -41,6 +41,7 @@ evidence_level: N/A
 TxGNN モデルでは、ヒドロクロロチアジド（Hydrochlorothiazide）についてスコア 0.99 以上の候補が得られなかったため、現時点で新たな予測適応症はありません。この薬剤に記録されている既知の用途を以下に示します。
 
 ## 早見表
+
 | 項目 | 内容 |
 |------|------|
 | 日本市販状況 | 販売中（有効な承認 20 件以上） |
@@ -51,6 +52,7 @@ TxGNN モデルでは、ヒドロクロロチアジド（Hydrochlorothiazide）�
 ## この薬剤に記録されている既知の用途
 
 ### 承認済み（承認または添付文書で裏付けあり）
+
 | 適応症 | 情報源 |
 |------|------|
 | うっ血性心不全 (congestive heart failure) | 公式添付文書（キュレーション済み）(official label (curated)) |
@@ -59,11 +61,13 @@ TxGNN モデルでは、ヒドロクロロチアジド（Hydrochlorothiazide）�
 | 高血圧症 (hypertension) | 他国での承認 (licence in another country) |
 
 ### 承認済み適応症と関連（同じ疾患カテゴリ）
+
 | 適応症 | 承認済みカテゴリ |
 |------|------|
 | なし | なし |
 
 ### ナレッジグラフに記録されている関係（承認は確認されていません）
+
 | 適応症 |
 |------|
 | 高血圧性障害 (hypertensive disorder) |

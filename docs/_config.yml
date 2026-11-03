@@ -106,5 +106,15 @@ defaults:
     values:
       layout: "default"
       nav_exclude: true
+  # 2026-11-03：SMART 啟動端點與應用殼（需從 EHR 啟動、沒有可收錄內容）不列入 sitemap；
+  # 兩頁本身也有 <meta name="robots" content="noindex">。獨立測試頁 standalone.html 照常收錄。
+  - scope:
+      path: "smart/launch.html"
+    values:
+      sitemap: false
+  - scope:
+      path: "smart/app.html"
+    values:
+      sitemap: false
 
 

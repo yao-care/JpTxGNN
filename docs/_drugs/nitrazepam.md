@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 223
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 monitor_inn: "nitrazepam"
 predicted_indications: ["Wernicke-Korsakoff syndrome"]
 description: "Nitrazepam：予測新適応症はWernicke-Korsakoff syndrome（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
@@ -120,6 +120,7 @@ description: "Nitrazepam：予測新適応症はWernicke-Korsakoff syndrome（�
 | 予測適応症 | TxGNN スコア | 備考 |
 |-----------|-------------|------|
 | ウェルニッケ・コルサコフ症候群 | 0.9931 | ベンゾジアゼピンはアルコール離脱に使われるが、根本のチアミン欠乏には作用せず、鎮静が脳症を覆い隠す・悪化させる恐れがある |
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

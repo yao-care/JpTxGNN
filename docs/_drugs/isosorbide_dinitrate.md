@@ -3,7 +3,7 @@ layout: default
 title: Isosorbide Dinitrate
 parent: 既知の用途のみ（新規予測なし）
 nav_order: 191
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Isosorbide Dinitrate: 日本における既知の用途と市場状況。現時点で新たな候補適応症はありません"
 predicted_indications: []
 indication_count: 0
@@ -41,6 +41,7 @@ evidence_level: N/A
 TxGNN モデルには、Isosorbide Dinitrate（イソソルビドジニトレート）についてスコア 0.99 以上の候補がなく、現時点で新たに予測された適応症はありません。この薬剤に記録されている既知の用途を以下に示します。
 
 ## クイック概要
+
 | 項目 | 内容 |
 |------|------|
 | 日本市販状況 | 販売中（有効な承認 26 件／全 26 件） |
@@ -50,6 +51,7 @@ TxGNN モデルには、Isosorbide Dinitrate（イソソルビドジニトレー
 ## この薬剤に記録されている既知の用途
 
 ### 承認済み（承認または添付文書で裏付けられているもの）
+
 | 適応症 | 出典 |
 |------|------|
 | 狭心症 (angina) | 他国での承認 |
@@ -59,11 +61,13 @@ TxGNN モデルには、Isosorbide Dinitrate（イソソルビドジニトレー
 | 心筋虚血 (myocardial ischemia) | 他国での承認 |
 
 ### 承認済み適応症に関連するもの（同じ疾患カテゴリ）
+
 | 適応症 | 承認済みカテゴリ |
 |------|------|
 | なし | なし |
 
 ### ナレッジグラフに記録されている関係（承認は確認されていない）
+
 | 適応症 |
 |------|
 | なし |

@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 314
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 monitor_inn: "tolvaptan"
 predicted_indications: ["renal-hepatic-pancreatic dysplasia", "karyomegalic interstitial nephritis", "thoracic malformation", "Joubert syndrome with renal defect", "adult familial nephronophthisis-spastic quadriparesia syndrome", "Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature"]
 description: "Tolvaptan：予測新適応症はRenal-hepatic-pancreatic dysplasia（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
@@ -123,6 +123,7 @@ ADPKD に対しては大規模な第 3 相 RCT があり、トルバプタンの
 | 5 | 腎欠損を伴う Joubert 症候群 | L4 | Hold | 腎線毛病の総説のみで、トルバプタンの臨床データなし |
 | 6 | 成人型家族性ネフロン癆–痙性四肢麻痺症候群 | L5 | Hold | 神経症状には効果が期待できない |
 | 7〜10 | 多毛症関連、歯・歯周奇形症候群、Dandy-Walker 奇形を主徴とする症候群 | L5 | Hold | 妥当な機序的関連が確認できない |
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

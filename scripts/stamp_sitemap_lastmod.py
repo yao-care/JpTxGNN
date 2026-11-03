@@ -127,14 +127,46 @@ def commit_date(path: Path, repo: Path) -> str | None:
     # 2026-10-17：藥物頁 front matter 有 last_modified_at（內文實際最後變動日，排除只改 front matter 的批次提交）就用它，
     # 否則 2026-10-16 這類全站維護提交會讓所有頁的 lastmod 變成同一天。
     try:
-        head = path.read_text(encoding="utf-8", errors="replace")[:2000]
+        text = path.read_text(encoding="utf-8", errors="replace")
+        head = text[:2000]
         if head.startswith("---"):
             m = re.search(r"^last_modified_at:\s*(\d{4}-\d{2}-\d{2})", head, re.M)
             if m:
                 return m.group(1)
     except OSError:
-        pass
-    return _git_commit_date(path, repo)
+        text = ""
+    own = _git_commit_date(path, repo)
+    deps = _liquid_dependency_dates(text, repo)
+    return max([d for d in [own, *deps] if d], default=None)
+
+
+# 2026-11-03：列表頁（evidence-high／-medium／-low、known-uses、drugs、news、nav-drugs）的內容是 Liquid 從
+# site.drugs／site.news 的 front matter 即時組出來的，原始檔本身多半幾個月沒動。只看原始檔的 git 日期，
+# evidence-high／-medium 的 lastmod 停在 2026-03-04、evidence-low 停在 10-17，但頁上列的藥物名單在 10-21、10-28、10-29 都改過——Google 不會知道要回來重爬。
+# 這裡只把「會出現在列表上的欄位」（標題、證據等級、適應症數、noindex、轉址、網址）的變動算進來，
+# 藥物頁內文改了（許可證張數等）不算，免得每週排程都讓列表頁假裝更新。
+_LISTING_FIELDS = r"^(title|evidence_level|indication_count|noindex|layout|permalink|nav_exclude|sitemap):"
+_listing_cache: dict[str, str | None] = {}
+
+
+def _liquid_dependency_dates(text: str, repo: Path) -> list[str | None]:
+    out: list[str | None] = []
+    for coll in sorted(set(re.findall(r"\bsite\.(drugs|news)\b", text))):
+        if coll not in _listing_cache:
+            try:
+                r = subprocess.run(
+                    ["git", "log", "-1", "--format=%cs", f"-G{_LISTING_FIELDS}", "--", f"docs/_{coll}"],
+                    cwd=repo, capture_output=True, text=True, timeout=120,
+                )
+                _listing_cache[coll] = r.stdout.strip() or None
+            except (subprocess.SubprocessError, OSError):
+                _listing_cache[coll] = None
+        out.append(_listing_cache[coll])
+    # site.data.X → docs/_data/X.{yml,json,…} 的 git 日期（首頁、drugs 頁的藥物數與等級分布）
+    for name in sorted(set(re.findall(r"\bsite\.data\.(\w+)", text))):
+        for f in sorted((repo / "docs" / "_data").glob(f"{name}.*")):
+            out.append(_git_commit_date(f, repo))
+    return out
 
 
 def _git_commit_date(path: Path, repo: Path) -> str | None:

@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 258
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 description: "Propranolol：予測新適応症は遠位型ミオパチー・舘山型 (distal myopathy, Tateyama type)（エビデンスレベル L5）。既存適応症：本態性高血圧症、狭心症、期外収縮、頻拍性心房細動、新鮮心房細動、乳児血管腫"
 monitor_inn: "Propranolol"
 predicted_indications: ["distal myopathy, Tateyama type", "congenital myopathy with excess of thin filaments", "chondroma", "cirrhotic cardiomyopathy"]
@@ -119,6 +119,7 @@ TxGNN モデルは**遠位型ミオパチー（舘山型）(distal myopathy, Tat
 | 肝硬変性心筋症 | L3 | コホート研究 3 編。QT 延長の補正が示唆される一方、進行した肝硬変では循環・腎機能への悪影響の報告もあり、利益とリスクの慎重な評価が必要 |
 | 心筋症 | L4 | 文献の大半が総説で、心筋症に特化した RCT はなし。病型が不明確 |
 | 筋肉内血管腫、乳腺類上皮血管腫、乳腺毛細血管腫 | L4 | 乳児血管腫の文献（日本で既承認）からの間接的な外挿。各疾患に特化したエビデンスはない |
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

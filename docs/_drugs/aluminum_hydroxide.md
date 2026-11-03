@@ -3,7 +3,7 @@ layout: default
 title: Aluminum Hydroxide
 parent: 既知の用途のみ（新規予測なし）
 nav_order: 28
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Aluminum Hydroxide: 日本における既知の用途と市場状況。現時点で新たな候補適応症はありません"
 predicted_indications: []
 indication_count: 0
@@ -41,6 +41,7 @@ evidence_level: N/A
 Aluminum Hydroxide(水酸化アルミニウム)について、TxGNNモデルでスコア0.99以上の候補適応症は見つからなかったため、現時点で新たな予測適応症はありません。以下に、この薬剤について記録されている既知の用途を示します。
 
 ## 早見表
+
 | 項目 | 内容 |
 |------|------|
 | 日本市販状況 | 販売中（有効な承認 7 件／全 7 件） |
@@ -50,6 +51,7 @@ Aluminum Hydroxide(水酸化アルミニウム)について、TxGNNモデルで�
 ## この薬剤に記録されている既知の用途
 
 ### 承認済み(承認または添付文書で裏付けられたもの)
+
 | 適応症 | 出典 |
 |------|------|
 | 十二指腸潰瘍 (duodenal ulcer) | 他国での承認 |
@@ -59,11 +61,13 @@ Aluminum Hydroxide(水酸化アルミニウム)について、TxGNNモデルで�
 | 胃酸過多 (hyperacidity) | 他国での承認 |
 
 ### 承認済み適応症に関連するもの(同じ疾患カテゴリ)
+
 | 適応症 | 承認済みカテゴリ |
 |------|------|
 | なし | なし |
 
 ### ナレッジグラフに記録されている関係(承認は確認されず)
+
 | 適応症 |
 |------|
 | 食道炎 (esophagitis) |

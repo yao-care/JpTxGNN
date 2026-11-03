@@ -3,7 +3,7 @@ layout: default
 title: Amcinonide
 parent: 既知の用途のみ（新規予測なし）
 nav_order: 30
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Amcinonide: 日本における既知の用途と市場状況。現時点で新たな候補適応症はありません"
 predicted_indications: []
 indication_count: 0
@@ -41,6 +41,7 @@ evidence_level: N/A
 TxGNNモデルでは、アムシノニド (Amcinonide) についてスコア0.99以上の候補が得られていないため、現時点で新たな予測適応症はありません。この薬剤について記録されている既知の用途を以下に示します。
 
 ## クイック概要
+
 | 項目 | 内容 |
 |------|------|
 | 日本市販状況 | 販売中（有効な承認 2 件／全 2 件） |
@@ -50,6 +51,7 @@ TxGNNモデルでは、アムシノニド (Amcinonide) についてスコア0.99
 ## この薬剤に記録されている既知の用途
 
 ### 承認済み(承認または添付文書により裏付けあり)
+
 | 適応症 | 情報源 |
 |------|------|
 | 皮膚炎 (dermatitis) | 他国での承認 (licence in another country) |
@@ -58,11 +60,13 @@ TxGNNモデルでは、アムシノニド (Amcinonide) についてスコア0.99
 | 乾癬 (psoriasis) | 他国での承認 (licence in another country) |
 
 ### 承認済み適応症に関連(同じ疾患カテゴリ)
+
 | 適応症 | 承認カテゴリ |
 |------|------|
 | なし | なし |
 
 ### ナレッジグラフに記録されている関係(承認は確認されていない)
+
 | 適応症 |
 |------|
 | アトピー性湿疹 (atopic eczema) |

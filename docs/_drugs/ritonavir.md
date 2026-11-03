@@ -3,7 +3,7 @@ layout: default
 title: Ritonavir
 parent: 既知の用途のみ（新規予測なし）
 nav_order: 303
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Ritonavir: 日本における既知の用途と市場状況。現時点で新たな候補適応症はありません"
 predicted_indications: []
 indication_count: 0
@@ -41,6 +41,7 @@ evidence_level: N/A
 TxGNNモデルでは、リトナビル(Ritonavir)についてスコア0.99以上の候補適応症が得られなかったため、現時点で新たに予測された適応症はありません。以下に、この薬剤について記録されている既知の用途を示します。
 
 ## 早見表
+
 | 項目 | 内容 |
 |------|------|
 | 日本市販状況 | 販売中（有効な承認 1 件／全 1 件） |
@@ -50,17 +51,20 @@ TxGNNモデルでは、リトナビル(Ritonavir)についてスコア0.99以上
 ## この薬剤について記録されている既知の用途
 
 ### 承認済み(承認または添付文書で裏付けられているもの)
+
 | 適応症 | 情報源 |
 |------|------|
 | 新型コロナウイルス感染症 (covid-19 virus infection) | 他国での承認 (licence in another country) |
 | HIV感染症 (hiv infections) | 他国での承認 (licence in another country) |
 
 ### 承認済み適応症に関連(同じ疾患カテゴリ)
+
 | 適応症 | 承認済みカテゴリ |
 |------|------|
 | なし | なし |
 
 ### ナレッジグラフに記録された関係(承認は確認されていません)
+
 | 適応症 |
 |------|
 | 後天性免疫不全症候群 (aids) |

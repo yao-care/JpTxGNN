@@ -3,7 +3,7 @@ layout: default
 title: Ipratropium
 parent: 既知の用途のみ（新規予測なし）
 nav_order: 188
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Ipratropium: 日本における既知の用途と市場状況。現時点で新たな候補適応症はありません"
 predicted_indications: []
 indication_count: 0
@@ -41,6 +41,7 @@ evidence_level: N/A
 TxGNN モデルでは、イプラトロピウム (Ipratropium) についてスコア 0.99 以上の候補適応症が得られなかったため、現時点で新たな予測適応症はありません。以下に、この薬剤について記録されている既知の用途を示します。
 
 ## クイック概要
+
 | 項目 | 内容 |
 |------|------|
 | 日本市販状況 | 本サイトのデータ（薬価基準収載医薬品マスター）に該当品目なし（国内の承認状況は未確認） |
@@ -50,17 +51,20 @@ TxGNN モデルでは、イプラトロピウム (Ipratropium) についてス�
 ## この薬剤について記録されている既知の用途
 
 ### 承認済み (承認または添付文書に裏付けあり)
+
 | 適応症 | 情報源 |
 |------|------|
 | 喘息 (asthma) | 他国での承認 (licence in another country) |
 | 気管支炎 (bronchitis) | 他国での承認 (licence in another country) |
 
 ### 承認済み適応症に関連 (同じ疾患カテゴリー)
+
 | 適応症 | 承認済みカテゴリー |
 |------|------|
 | なし | なし |
 
 ### ナレッジグラフに記録された関係 (承認は確認されていません)
+
 | 適応症 |
 |------|
 | アレルギー性鼻炎 (allergic rhinitis) |

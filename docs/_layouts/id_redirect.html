@@ -1,2 +1,7 @@
-{%- comment -%}2026-10-17：舊頁轉址頁專用版型（不叫 redirect，避免和 jekyll-redirect-from 外掛的 redirect 版型撞名）。{%- endcomment -%}
-{{ content }}
+{%- comment -%}2026-10-17：舊頁轉址頁專用版型（不叫 redirect，避免和 jekyll-redirect-from 外掛的 redirect 版型撞名）。
+2026-11-03：轉址頁是 .md，kramdown 會把第一行 <!DOCTYPE html> 轉成 <p>&lt;!DOCTYPE html&gt;</p>。
+那個 <p> 出現在 <html> 之前，瀏覽器／Googlebot 的 HTML 解析器會提早開出 <body>，
+後面的 <link rel="canonical"> 與 <meta http-equiv="refresh"> 全落進 body——Google 不採用 body 裡的 canonical。
+這裡把那段跳脫後的 DOCTYPE 拿掉、由版型輸出真的 DOCTYPE，canonical／refresh 才會在 <head>。{%- endcomment -%}
+<!DOCTYPE html>
+{{ content | remove: '<p>&lt;!DOCTYPE html&gt;</p>' | remove: '<!DOCTYPE html>' | strip }}

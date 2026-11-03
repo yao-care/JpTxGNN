@@ -3,7 +3,7 @@ layout: default
 title: Gentamicin
 parent: 既知の用途のみ（新規予測なし）
 nav_order: 166
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 description: "Gentamicin: 日本における既知の用途と市場状況。現時点で新たな候補適応症はありません"
 predicted_indications: []
 indication_count: 0
@@ -41,6 +41,7 @@ evidence_level: N/A
 TxGNN モデルでは、Gentamicin（ゲンタマイシン）についてスコア 0.99 以上の候補適応症は得られませんでした。そのため、現時点で新たに予測された適応症はありません。以下に、この薬剤について記録されている既知の用途を示します。
 
 ## 早見表
+
 | 項目 | 内容 |
 |------|------|
 | 日本市販状況 | 販売中（有効な承認 19 件／全 19 件） |
@@ -51,17 +52,20 @@ TxGNN モデルでは、Gentamicin（ゲンタマイシン）についてスコ�
 ## この薬剤について記録されている既知の用途
 
 ### 承認済み（承認または添付文書で裏付けられるもの）
+
 | 適応症 | 出典 |
 |------|------|
 | 結膜炎 (conjunctivitis) | 日本での承認 (licence in Japan) |
 | 細菌感染症 (bacterial infection) | 他国での承認 (licence in another country) |
 
 ### 承認済み適応症に関連するもの（同じ疾患カテゴリ）
+
 | 適応症 | 承認されているカテゴリ |
 |------|------|
 | なし | なし |
 
 ### ナレッジグラフに記録されている関係（承認は確認されていません）
+
 | 適応症 |
 |------|
 | なし |

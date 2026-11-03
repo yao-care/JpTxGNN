@@ -5,7 +5,7 @@ parent: 高エビデンスレベル
 nav_order: 308
 evidence_level: L1
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 description: "Tiotropium：予測新適応症は閉塞性肺疾患 (Obstructive Lung Disease)（エビデンスレベル L1）。既存適応症：気管支炎、喘息、内因性喘息、アレルギー性喘息、肺気腫"
 monitor_inn: "Tiotropium"
 predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome", "hyperlucent lung", "tracheal stenosis"]
@@ -138,6 +138,7 @@ TxGNN のスコアはいずれも ≥ 0.99 ですが、以下は実質的な根�
 | 重症早期発症 COPD | L4 | Research Question | COPD のサブタイプで間接的な根拠のみ。試験なし |
 | 呼吸器奇形 | L5 | Hold | 嚢胞性線維症の試験は関連が低く、機序の根拠なし |
 | Rienhoff 症候群、代償性肺気腫、間質性肺気腫、過透過性肺、気管狭窄、CD8α鎖変異関連の呼吸器感染感受性 | L5 | Hold | TxGNN の予測のみで、試験・文献なし |
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

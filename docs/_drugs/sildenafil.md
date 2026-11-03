@@ -3,7 +3,7 @@ layout: default
 title: Sildenafil
 parent: 既知の用途のみ（新規予測なし）
 nav_order: 321
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-03
 description: "Sildenafil: 日本における既知の用途と市場状況。現時点で新たな候補適応症はありません"
 predicted_indications: []
 indication_count: 0
@@ -41,6 +41,7 @@ evidence_level: N/A
 Sildenafil（シルデナフィル）について、TxGNN モデルはスコア 0.99 以上の候補を出しておらず、現時点で新たな予測適応症はありません。以下に、この薬剤に記録されている既知の用途を示します。
 
 ## 早見表
+
 | 項目 | 内容 |
 |------|------|
 | 日本市販状況 | 販売中（有効な承認 7 件／全 7 件） |
@@ -51,6 +52,7 @@ Sildenafil（シルデナフィル）について、TxGNN モデルはスコア 
 ## この薬剤に記録されている既知の用途
 
 ### 承認済み（承認または添付文書で裏付けられているもの）
+
 | 適応症 | 情報源 |
 |------|------|
 | 高血圧症 (hypertension) | 日本の承認 |
@@ -58,11 +60,13 @@ Sildenafil（シルデナフィル）について、TxGNN モデルはスコア 
 | 肺高血圧症 (pulmonary hypertension) | 他国の承認 |
 
 ### 承認済み適応症に関連するもの（同じ疾患カテゴリ）
+
 | 適応症 | 承認済みカテゴリ |
 |------|------|
 | なし | なし |
 
 ### ナレッジグラフに記録されている関係（承認は確認されていない）
+
 | 適応症 |
 |------|
 | 早漏 (premature ejaculation) |

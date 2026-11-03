@@ -3,7 +3,7 @@ layout: default
 title: Prednisolone Acetate
 parent: 既知の用途のみ（新規予測なし）
 nav_order: 287
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Prednisolone Acetate: 日本における既知の用途と市場状況。現時点で新たな候補適応症はありません"
 predicted_indications: []
 indication_count: 0
@@ -41,6 +41,7 @@ evidence_level: N/A
 Prednisolone Acetate(プレドニゾロン酢酸エステル)について、TxGNNモデルのスコア0.99以上の候補はなく、現時点で新たに予測された適応症はありません。この薬剤に記録されている既知の用途を以下に示します。
 
 ## クイック概要
+
 | 項目 | 内容 |
 |------|------|
 | 日本市販状況 | 販売中（有効な承認 2 件／全 2 件） |
@@ -50,6 +51,7 @@ Prednisolone Acetate(プレドニゾロン酢酸エステル)について、TxGN
 ## この薬剤に記録されている既知の用途
 
 ### 承認済み(ライセンスまたは添付文書で裏付けあり)
+
 | 適応症 | 情報源 |
 |------|------|
 | 関節炎 (arthritis) | 他国のライセンス |
@@ -59,11 +61,13 @@ Prednisolone Acetate(プレドニゾロン酢酸エステル)について、TxGN
 | 腎炎 (nephritis) | 他国のライセンス |
 
 ### 承認済み適応症に関連(同一疾患カテゴリ)
+
 | 適応症 | 承認カテゴリ |
 |------|------|
 | なし | なし |
 
 ### ナレッジグラフに記録されている関係(承認は確認されていません)
+
 | 適応症 |
 |------|
 | 急性伝染性結膜炎 (acute contagious conjunctivitis) |
