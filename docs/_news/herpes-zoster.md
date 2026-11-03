@@ -3,9 +3,9 @@ layout: default
 title: "帯状疱疹 (herpes zoster) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "帯状疱疹 (herpes zoster) に関する健康ニュース。ニュース 2 件、関連医薬品 3 件。"
+description: "帯状疱疹 (herpes zoster) に関する健康ニュース。ニュース 1 件、関連医薬品 3 件。"
 permalink: /news/herpes-zoster/
-last_modified_at: 2026-11-02
+last_modified_at: 2026-11-03
 ---
 
 # 帯状疱疹 (herpes zoster) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-02
 ---
 
 <p class="key-answer" data-question="帯状疱疹 (herpes zoster) に関するニュースは？">
-<strong>帯状疱疹 (herpes zoster)</strong> には現在 <strong>2 件</strong>の関連ニュースと 3 件の関連医薬品があります。
+<strong>帯状疱疹 (herpes zoster)</strong> には現在 <strong>1 件</strong>の関連ニュースと 3 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -32,15 +32,7 @@ last_modified_at: 2026-11-02
 </ul>
 </div>
 
-## 関連ニュース（2 件）
-
-### [にきび、帯状疱疹 動画で学んで 県臨床皮膚科医会が11月2日から公開 告知板 | 暮らし・文化 | 佐賀県のニュース](https://news.google.com/rss/articles/CBMiVkFVX3lxTE93WUlTUjhSMGM1WXZFSmsyMzgwa3FaSmlKazNHT0liLUktaEdITjUwYlZHbFdaZ21QN21jem83QVJYcnJTQ0FoZUZscUI2SHdDWGlQQzF3?oc=5)
-
-2026-11-02
-
-出典: [佐賀新聞](https://news.google.com/rss/articles/CBMiVkFVX3lxTE93WUlTUjhSMGM1WXZFSmsyMzgwa3FaSmlKazNHT0liLUktaEdITjUwYlZHbFdaZ21QN21jem83QVJYcnJTQ0FoZUZscUI2SHdDWGlQQzF3?oc=5)
-
----
+## 関連ニュース（1 件）
 
 ### [コロナ･インフル･帯状疱疹で脳が縮む!? 身近なウイルスがアルツハイマーを引き起こす恐怖のメカニズム(東洋経済オンライン)](https://news.google.com/rss/articles/CBMihwFBVV95cUxNZW1VRHNCUmFxc2hhbDZsT3NfdFFFZnR0X3VxNzNRWWxWNHFuQ3hIX3p1TWoyV2FhY1JYWnNMamRxN1dIRDRZX3NxXzRqbks1SGhYeUtBVG5ZdVRrMFJSSEY4TGtqbmRTSGR3QUtZX2wxTmVWUkZxclozM1ZRWDBUQXdYaUthU3c?oc=5)
 

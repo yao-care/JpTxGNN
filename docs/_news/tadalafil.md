@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="ザルティア錠５ｍｇ（選） に関するニュースは？">
-<strong>ザルティア錠５ｍｇ（選）</strong> には現在 <strong>4 件</strong>の関連ニュースがあり、予測適応症は 8 件です。
+<strong>ザルティア錠５ｍｇ（選）</strong> には現在 <strong>5 件</strong>の関連ニュースがあり、予測適応症は 8 件です。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ last_modified_at: 2026-11-03
 <p><a href="{{ '/drugs/tadalafil/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（4 件）
+## 関連ニュース（5 件）
+
+### [高血圧患者の脳卒中予防法](https://news.google.com/rss/articles/CBMimgFBVV95cUxPMVFsbjlUWENENUpIaWJrNnc5Ujl1WU9tODdRSFhWaDcwdTNjMWdNV25aeHE5ekM0bzh5TkhuWFlHdG9tejVRZmgyYnp2Zkp0cE15ZEZqZkNVdnFDUmNST1lHclBydWdhMGxrX3RmZ0xJTjR1Wm1wcmNOSkpZNUhNNFU4T3FYUzhEX29mblhLSDhHMkxZMjl4a29B?oc=5)
+
+2026-11-03 <span class="news-indication-tag">高血圧</span> <span class="news-indication-tag">脳卒中</span>
+
+出典: [Laodong.vn](https://news.google.com/rss/articles/CBMimgFBVV95cUxPMVFsbjlUWENENUpIaWJrNnc5Ujl1WU9tODdRSFhWaDcwdTNjMWdNV25aeHE5ekM0bzh5TkhuWFlHdG9tejVRZmgyYnp2Zkp0cE15ZEZqZkNVdnFDUmNST1lHclBydWdhMGxrX3RmZ0xJTjR1Wm1wcmNOSkpZNUhNNFU4T3FYUzhEX29mblhLSDhHMkxZMjl4a29B?oc=5)
+
+---
 
 ### [《ヨーグルトやサプリのまとめ摂りは逆効果？》医師が警告する「間違った腸活」の落とし穴 便通とメンタルを整える新常識 (1/1)](https://news.google.com/rss/articles/CBMiSkFVX3lxTFBhc2hCLTA0RTVtbC1GT2JwSk1LY2xWUXBNTG9nLUw5c1hibThSLVdjMU1qc0dVNl9odm5HZmRvU0ZNOGsyV24taERn?oc=5)
 
@@ -58,11 +66,11 @@ last_modified_at: 2026-11-03
 
 ---
 
-### [社説：インフル流行の長期化 拡大警戒し対策の徹底を](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZVDBBazZ4bU43a3BPZGE1T3B4cHJZanhTTU9TVGlZTE15V0wzWHA3MWlnM1hjWGI3cFRXakN0cDZDZDE1WEJ1VWdXUDAwRWZjazQ3Vl9uRTExVWtDZE9GT0RQdDd5S3BL?oc=5)
+### [《最新研究が明かすインフルエンザワクチンの効果》心筋梗塞や脳卒中などのリスク低減か、認知症予防に関する研究も 60才以上が対象の「新ワクチン」は来年以降の導入へ (1/2)](https://news.google.com/rss/articles/CBMiOEFVX3lxTE1RcmFybi00U19KMjBoeHdKN2dqUUZ2TTBwUjduWmFzY2haTkR5N0J6Wl90RlJuZXU5?oc=5)
 
 2026-11-01 <span class="news-indication-tag">認知症</span> <span class="news-indication-tag">心筋梗塞</span> <span class="news-indication-tag">脳卒中</span> <span class="news-indication-tag">インフルエンザ</span>
 
-出典: [毎日新聞](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZVDBBazZ4bU43a3BPZGE1T3B4cHJZanhTTU9TVGlZTE15V0wzWHA3MWlnM1hjWGI3cFRXakN0cDZDZDE1WEJ1VWdXUDAwRWZjazQ3Vl9uRTExVWtDZE9GT0RQdDd5S3BL?oc=5)
+出典: [女性セブンプラス](https://news.google.com/rss/articles/CBMiOEFVX3lxTE1RcmFybi00U19KMjBoeHdKN2dqUUZ2TTBwUjduWmFzY2haTkR5N0J6Wl90RlJuZXU5?oc=5)
 
 ---
 

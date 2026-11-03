@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="サインバルタカプセル３０ｍｇ（選） に関するニュースは？">
-<strong>サインバルタカプセル３０ｍｇ（選）</strong> には現在 <strong>2 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>サインバルタカプセル３０ｍｇ（選）</strong> には現在 <strong>1 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ last_modified_at: 2026-11-03
 <p><a href="{{ '/drugs/duloxetine/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（2 件）
+## 関連ニュース（1 件）
 
 ### [《ヨーグルトやサプリのまとめ摂りは逆効果？》医師が警告する「間違った腸活」の落とし穴 便通とメンタルを整える新常識 (1/1)](https://news.google.com/rss/articles/CBMiSkFVX3lxTFBhc2hCLTA0RTVtbC1GT2JwSk1LY2xWUXBNTG9nLUw5c1hibThSLVdjMU1qc0dVNl9odm5HZmRvU0ZNOGsyV24taERn?oc=5)
 
 2026-11-02 <span class="news-indication-tag">動脈硬化</span>
 
 出典: [介護ポストセブン](https://news.google.com/rss/articles/CBMiSkFVX3lxTFBhc2hCLTA0RTVtbC1GT2JwSk1LY2xWUXBNTG9nLUw5c1hibThSLVdjMU1qc0dVNl9odm5HZmRvU0ZNOGsyV24taERn?oc=5)
-
----
-
-### [ドパミンパーシャルアゴニストは統合失調症患者の自殺リスクに影響を及ぼすか｜CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZOFVrNW5QVHRwSHN1a2lIZHRGMmpQcTY5V3d5YlZyaV9USHhHNFZFZF9YYzY2RTJOUFRLc2IxdFdNWF8tSWp6OWd4SHcxM1FQa1dCYWI0aVhoSnpWRjB3?oc=5)
-
-2026-10-27 <span class="news-indication-tag">統合失調症</span>
-
-出典: [CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZOFVrNW5QVHRwSHN1a2lIZHRGMmpQcTY5V3d5YlZyaV9USHhHNFZFZF9YYzY2RTJOUFRLc2IxdFdNWF8tSWp6OWd4SHcxM1FQa1dCYWI0aVhoSnpWRjB3?oc=5)
 
 ---
 

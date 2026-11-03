@@ -3,9 +3,9 @@ layout: default
 title: "乳がん (female breast carcinoma) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "乳がん (female breast carcinoma) に関する健康ニュース。ニュース 1 件、関連医薬品 7 件。"
+description: "乳がん (female breast carcinoma) に関する健康ニュース。ニュース 2 件、関連医薬品 7 件。"
 permalink: /news/female-breast-carcinoma/
-last_modified_at: 2026-10-30
+last_modified_at: 2026-11-03
 ---
 
 # 乳がん (female breast carcinoma) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="乳がん (female breast carcinoma) に関するニュースは？">
-<strong>乳がん (female breast carcinoma)</strong> には現在 <strong>1 件</strong>の関連ニュースと 7 件の関連医薬品があります。
+<strong>乳がん (female breast carcinoma)</strong> には現在 <strong>2 件</strong>の関連ニュースと 7 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,15 @@ last_modified_at: 2026-10-30
 </ul>
 </div>
 
-## 関連ニュース（1 件）
+## 関連ニュース（2 件）
+
+### [CDK4/6阻害薬後に進行したHR+/HER2-乳がんへのアベマシクリブ＋フルベストラント、最終OS結果（postMONARCH）／ESMO2026｜CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RWGlzczBaSnpObFlsdjVRQ1FsaWQ2MXkxSU5nVV85LTZSRlRxa19UNVcxZXY4UnZwa0pwRU41QkJha1lmTUJ4N21yNGZCWFFIQlhnWkl2RExhQndISi1r?oc=5)
+
+2026-11-02
+
+出典: [CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RWGlzczBaSnpObFlsdjVRQ1FsaWQ2MXkxSU5nVV85LTZSRlRxa19UNVcxZXY4UnZwa0pwRU41QkJha1lmTUJ4N21yNGZCWFFIQlhnWkl2RExhQndISi1r?oc=5)
+
+---
 
 ### [20代・30代女性が無料で乳がん検診を体験！ はなさく生命がピンクリボン月間に札幌で啓発イベントを開催](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rc2I2ZEFzVktnNDBISHU5RlZRQlJ1TmxjamJ2RGpJSkNJOGJiVDRpTG8tUkFyb1otRUtodkljbkNSNl9wN1A0X0tBVGJSaHF4dmcwV2FySWxES1U?oc=5)
 

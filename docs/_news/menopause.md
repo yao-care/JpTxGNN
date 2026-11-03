@@ -3,7 +3,7 @@ layout: default
 title: "更年期 (menopause) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "更年期 (menopause) に関する健康ニュース。ニュース 2 件、関連医薬品 2 件。"
+description: "更年期 (menopause) に関する健康ニュース。ニュース 1 件、関連医薬品 2 件。"
 permalink: /news/menopause/
 last_modified_at: 2026-11-03
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="更年期 (menopause) に関するニュースは？">
-<strong>更年期 (menopause)</strong> には現在 <strong>2 件</strong>の関連ニュースと 2 件の関連医薬品があります。
+<strong>更年期 (menopause)</strong> には現在 <strong>1 件</strong>の関連ニュースと 2 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -31,21 +31,13 @@ last_modified_at: 2026-11-03
 </ul>
 </div>
 
-## 関連ニュース（2 件）
+## 関連ニュース（1 件）
 
-### [「疲れが取れない」「やる気が出ない」は年齢のせい？ 『男性更年期』の初期症状を医師が解説](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qQ1hrMmNfVC1fUk1BY285RjNZXzZHYmprdlptLTJ2ZUJWN3VZUlZUQi1FYTlNNzZCMnFUbDZLNmNTNFhvY1dQWXgxOFhtQ3lOUjhRNkVQTXY2SmlW?oc=5)
+### [病院で「どこも悪くない」と言われ続けた48歳女性。どうき、めまい、5kg減…夫にも「大げさじゃない？」と言われて(OTONA SALONE)](https://news.yahoo.co.jp/articles/13284dfaa93138efeb24d6af1e5416af0bb8a585?source=rss)
 
-2026-11-02
+2026-11-03
 
-出典: [メディカルドック](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qQ1hrMmNfVC1fUk1BY285RjNZXzZHYmprdlptLTJ2ZUJWN3VZUlZUQi1FYTlNNzZCMnFUbDZLNmNTNFhvY1dQWXgxOFhtQ3lOUjhRNkVQTXY2SmlW?oc=5)
-
----
-
-### [閉経期の経口ホルモン療法、血栓症リスクは増加するか／BMJ｜CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE52Y1d6dTZ5ekMzeE0yZ1E0bThoYmZHYVd2YjE2NW4ta2VNcjdKdWg5UVVRdjJfUGRyVllJTnN0RUlydUpxWFI5akVZTE9mQ3A3cm54S1hCaDY1TDQtOHYw?oc=5)
-
-2026-10-27
-
-出典: [CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE52Y1d6dTZ5ekMzeE0yZ1E0bThoYmZHYVd2YjE2NW4ta2VNcjdKdWg5UVVRdjJfUGRyVllJTnN0RUlydUpxWFI5akVZTE9mQ3A3cm54S1hCaDY1TDQtOHYw?oc=5)
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/13284dfaa93138efeb24d6af1e5416af0bb8a585?source=rss)
 
 ---
 

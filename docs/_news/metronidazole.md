@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="メトロニダゾールゲル０．７５％「マルイシ」 に関するニュースは？">
-<strong>メトロニダゾールゲル０．７５％「マルイシ」</strong> には現在 <strong>14 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>メトロニダゾールゲル０．７５％「マルイシ」</strong> には現在 <strong>13 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,29 @@ last_modified_at: 2026-11-03
 <p><a href="{{ '/drugs/metronidazole/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（14 件）
+## 関連ニュース（13 件）
 
-### [悪性度の高いⅠ期膀胱がん、BCG注入療法で効果得られず　その後の治療はどうする？　がん電話相談から(産経新聞)](https://news.yahoo.co.jp/articles/71074119141152f4d1514d570cb76bf21b8ecbf5?source=rss)
+### [病院で「どこも悪くない」と言われ続けた48歳女性。どうき、めまい、5kg減…夫にも「大げさじゃない？」と言われて(OTONA SALONE)](https://news.yahoo.co.jp/articles/13284dfaa93138efeb24d6af1e5416af0bb8a585?source=rss)
 
-2026-11-02 <span class="news-indication-tag">がん</span>
+2026-11-03 <span class="news-indication-tag">更年期</span>
 
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/71074119141152f4d1514d570cb76bf21b8ecbf5?source=rss)
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/13284dfaa93138efeb24d6af1e5416af0bb8a585?source=rss)
 
 ---
 
-### [「疲れが取れない」「やる気が出ない」は年齢のせい？ 『男性更年期』の初期症状を医師が解説](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qQ1hrMmNfVC1fUk1BY285RjNZXzZHYmprdlptLTJ2ZUJWN3VZUlZUQi1FYTlNNzZCMnFUbDZLNmNTNFhvY1dQWXgxOFhtQ3lOUjhRNkVQTXY2SmlW?oc=5)
+### [【すい臓がん治療最前線】画期的新薬「ダラクソンラシブ」に高まる期待 「百年に一度の薬」と絶賛されるも、日本で保険診療として承認されるためには“高すぎる薬価”の壁(マネーポストWEB)](https://news.google.com/rss/articles/CBMihwFBVV95cUxOUm1yMW5oNXFfNEplUWpxaFE5aTRVckFaZHFiZ2xFbzJiUnU3Y08wZl9CczliMmIwNWtwaDNlTHFNNWUtbTJiN3hHVDR0TEhETVplR24yRmZ4eFBMa3dreXFUYXVVWm1UWUxvcXRfdVJveEZ6OVVRdmo1MUVfeENUNG9MM1V4TW8?oc=5)
 
-2026-11-02 <span class="news-indication-tag">更年期</span>
+2026-11-02 <span class="news-indication-tag">がん</span>
 
-出典: [メディカルドック](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qQ1hrMmNfVC1fUk1BY285RjNZXzZHYmprdlptLTJ2ZUJWN3VZUlZUQi1FYTlNNzZCMnFUbDZLNmNTNFhvY1dQWXgxOFhtQ3lOUjhRNkVQTXY2SmlW?oc=5)
+出典: [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxOUm1yMW5oNXFfNEplUWpxaFE5aTRVckFaZHFiZ2xFbzJiUnU3Y08wZl9CczliMmIwNWtwaDNlTHFNNWUtbTJiN3hHVDR0TEhETVplR24yRmZ4eFBMa3dreXFUYXVVWm1UWUxvcXRfdVJveEZ6OVVRdmo1MUVfeENUNG9MM1V4TW8?oc=5)
+
+---
+
+### [CDK4/6阻害薬後に進行したHR+/HER2-乳がんへのアベマシクリブ＋フルベストラント、最終OS結果（postMONARCH）／ESMO2026｜CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RWGlzczBaSnpObFlsdjVRQ1FsaWQ2MXkxSU5nVV85LTZSRlRxa19UNVcxZXY4UnZwa0pwRU41QkJha1lmTUJ4N21yNGZCWFFIQlhnWkl2RExhQndISi1r?oc=5)
+
+2026-11-02 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
+
+出典: [CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RWGlzczBaSnpObFlsdjVRQ1FsaWQ2MXkxSU5nVV85LTZSRlRxa19UNVcxZXY4UnZwa0pwRU41QkJha1lmTUJ4N21yNGZCWFFIQlhnWkl2RExhQndISi1r?oc=5)
 
 ---
 
@@ -68,11 +76,11 @@ last_modified_at: 2026-11-03
 
 ---
 
-### [にきび、帯状疱疹 動画で学んで 県臨床皮膚科医会が11月2日から公開 告知板 | 暮らし・文化 | 佐賀県のニュース](https://news.google.com/rss/articles/CBMiVkFVX3lxTE93WUlTUjhSMGM1WXZFSmsyMzgwa3FaSmlKazNHT0liLUktaEdITjUwYlZHbFdaZ21QN21jem83QVJYcnJTQ0FoZUZscUI2SHdDWGlQQzF3?oc=5)
+### [肥満症が胃噴門部腺がんを進展させる機序をマウスで解明－東北大](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa1dKNlI0Y1pQY0J1UTdFWVFfUGlGaFpzeDloaUhrSnNaU3NwTmFoLTY2cktBZi1ZNk5PejhvQWN6cmlTZjdPUFNtRk5Kc0s4R2FpNkJaalQ2eEhvS2thZzkzWktFcnl6OHhPLV9kNmhncE9lbUM4MTlPc2dkVEJIZ0xQOTVWalhkWXFINVZDdUtTOWszXzhVWTJMQVhXNllPYW9xdTNCNUxhQWNfRGpuNk1KNjhFaEMtYXhvdWlZY2I4UlpQMDdGVXVfRDRKWl9HRHVvRg?oc=5)
 
-2026-11-02 <span class="news-indication-tag">帯状疱疹</span>
+2026-11-02 <span class="news-indication-tag">がん</span>
 
-出典: [佐賀新聞](https://news.google.com/rss/articles/CBMiVkFVX3lxTE93WUlTUjhSMGM1WXZFSmsyMzgwa3FaSmlKazNHT0liLUktaEdITjUwYlZHbFdaZ21QN21jem83QVJYcnJTQ0FoZUZscUI2SHdDWGlQQzF3?oc=5)
+出典: [QLifePro](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa1dKNlI0Y1pQY0J1UTdFWVFfUGlGaFpzeDloaUhrSnNaU3NwTmFoLTY2cktBZi1ZNk5PejhvQWN6cmlTZjdPUFNtRk5Kc0s4R2FpNkJaalQ2eEhvS2thZzkzWktFcnl6OHhPLV9kNmhncE9lbUM4MTlPc2dkVEJIZ0xQOTVWalhkWXFINVZDdUtTOWszXzhVWTJMQVhXNllPYW9xdTNCNUxhQWNfRGpuNk1KNjhFaEMtYXhvdWlZY2I4UlpQMDdGVXVfRDRKWl9HRHVvRg?oc=5)
 
 ---
 
@@ -89,6 +97,14 @@ last_modified_at: 2026-11-03
 2026-10-31 <span class="news-indication-tag">がん</span>
 
 出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/5237762cb32e9371e8efb5973a0839ca72e76d49?source=rss)
+
+---
+
+### [「なくなる日が来てほしい」検診とワクチンで“予防できる”も日本では毎年約3000人が命を失う子宮頸がん 治療で命が助かったものの子宮摘出した女性が経験を伝える取り組み 進まぬ“検診”とその要因 - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE1pcnpqX0otSFVCN1pOV2gzNFZ1ekN6WU5td3BUNnhJSHl4emVEWlpwdjdDZUVUOGwzV05icXE3UjhtdlhpcGFCekJ3RFFKUXFYOW9HdFh0LXZrclJpSW16NUJNeFYxbmZpMklkVVdn?oc=5)
+
+2026-10-30 <span class="news-indication-tag">がん</span>
+
+出典: [au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE1pcnpqX0otSFVCN1pOV2gzNFZ1ekN6WU5td3BUNnhJSHl4emVEWlpwdjdDZUVUOGwzV05icXE3UjhtdlhpcGFCekJ3RFFKUXFYOW9HdFh0LXZrclJpSW16NUJNeFYxbmZpMklkVVdn?oc=5)
 
 ---
 
@@ -129,30 +145,6 @@ last_modified_at: 2026-11-03
 2026-10-27 <span class="news-indication-tag">帯状疱疹</span>
 
 出典: [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxNZW1VRHNCUmFxc2hhbDZsT3NfdFFFZnR0X3VxNzNRWWxWNHFuQ3hIX3p1TWoyV2FhY1JYWnNMamRxN1dIRDRZX3NxXzRqbks1SGhYeUtBVG5ZdVRrMFJSSEY4TGtqbmRTSGR3QUtZX2wxTmVWUkZxclozM1ZRWDBUQXdYaUthU3c?oc=5)
-
----
-
-### [「なくなる日が来てほしい」検診とワクチンで“予防できる”も日本では毎年約3000人が命を失う子宮頸がん 治療で命が助かったものの子宮摘出した女性が経験を伝える取り組み 進まぬ“検診”とその要因](https://news.google.com/rss/articles/CBMiVEFVX3lxTE16WmFJZW5NaUNoLUY5VWREY2UxWm5LUVpTLXhBTV8zUFRGaTBNNnF0RkQyeWsxMUlReG5QSUMyVGN5QWJEQXd2LWVTcVNqSG5BMmdvMQ?oc=5)
-
-2026-10-27 <span class="news-indication-tag">がん</span>
-
-出典: [ktv.jp](https://news.google.com/rss/articles/CBMiVEFVX3lxTE16WmFJZW5NaUNoLUY5VWREY2UxWm5LUVpTLXhBTV8zUFRGaTBNNnF0RkQyeWsxMUlReG5QSUMyVGN5QWJEQXd2LWVTcVNqSG5BMmdvMQ?oc=5)
-
----
-
-### [化学療法反応スコアは進行卵巣がんのPARP阻害薬維持療法の効果を予測可能か／Gynecol Oncol｜CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QWVhPZGVwQU5sVEc3c0JnS25TelYya1J2OUw0SmtCMDNabHNLWnpkMEFWRFZnUnpfRFI5ZTdMRXRiWlBONFpyYl9SM1A0Yk1fMUo2MTZkOGVHVzNLeV9B?oc=5)
-
-2026-10-27 <span class="news-indication-tag">がん</span>
-
-出典: [CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QWVhPZGVwQU5sVEc3c0JnS25TelYya1J2OUw0SmtCMDNabHNLWnpkMEFWRFZnUnpfRFI5ZTdMRXRiWlBONFpyYl9SM1A0Yk1fMUo2MTZkOGVHVzNLeV9B?oc=5)
-
----
-
-### [閉経期の経口ホルモン療法、血栓症リスクは増加するか／BMJ｜CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE52Y1d6dTZ5ekMzeE0yZ1E0bThoYmZHYVd2YjE2NW4ta2VNcjdKdWg5UVVRdjJfUGRyVllJTnN0RUlydUpxWFI5akVZTE9mQ3A3cm54S1hCaDY1TDQtOHYw?oc=5)
-
-2026-10-27 <span class="news-indication-tag">閉経</span>
-
-出典: [CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE52Y1d6dTZ5ekMzeE0yZ1E0bThoYmZHYVd2YjE2NW4ta2VNcjdKdWg5UVVRdjJfUGRyVllJTnN0RUlydUpxWFI5akVZTE9mQ3A3cm54S1hCaDY1TDQtOHYw?oc=5)
 
 ---
 

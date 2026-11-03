@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="ディオバンＯＤ錠１６０ｍｇ（選） に関するニュースは？">
-<strong>ディオバンＯＤ錠１６０ｍｇ（選）</strong> には現在 <strong>14 件</strong>の関連ニュースがあり、予測適応症は 6 件です。
+<strong>ディオバンＯＤ錠１６０ｍｇ（選）</strong> には現在 <strong>16 件</strong>の関連ニュースがあり、予測適応症は 6 件です。
 </p>
 
 <div class="key-takeaway">
@@ -38,13 +38,29 @@ last_modified_at: 2026-11-03
 <p><a href="{{ '/drugs/valsartan/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（14 件）
+## 関連ニュース（16 件）
 
-### [悪性度の高いⅠ期膀胱がん、BCG注入療法で効果得られず　その後の治療はどうする？　がん電話相談から(産経新聞)](https://news.yahoo.co.jp/articles/71074119141152f4d1514d570cb76bf21b8ecbf5?source=rss)
+### [高血圧患者の脳卒中予防法](https://news.google.com/rss/articles/CBMimgFBVV95cUxPMVFsbjlUWENENUpIaWJrNnc5Ujl1WU9tODdRSFhWaDcwdTNjMWdNV25aeHE5ekM0bzh5TkhuWFlHdG9tejVRZmgyYnp2Zkp0cE15ZEZqZkNVdnFDUmNST1lHclBydWdhMGxrX3RmZ0xJTjR1Wm1wcmNOSkpZNUhNNFU4T3FYUzhEX29mblhLSDhHMkxZMjl4a29B?oc=5)
+
+2026-11-03 <span class="news-indication-tag">高血圧</span> <span class="news-indication-tag">脳卒中</span>
+
+出典: [Laodong.vn](https://news.google.com/rss/articles/CBMimgFBVV95cUxPMVFsbjlUWENENUpIaWJrNnc5Ujl1WU9tODdRSFhWaDcwdTNjMWdNV25aeHE5ekM0bzh5TkhuWFlHdG9tejVRZmgyYnp2Zkp0cE15ZEZqZkNVdnFDUmNST1lHclBydWdhMGxrX3RmZ0xJTjR1Wm1wcmNOSkpZNUhNNFU4T3FYUzhEX29mblhLSDhHMkxZMjl4a29B?oc=5)
+
+---
+
+### [【すい臓がん治療最前線】画期的新薬「ダラクソンラシブ」に高まる期待 「百年に一度の薬」と絶賛されるも、日本で保険診療として承認されるためには“高すぎる薬価”の壁(マネーポストWEB)](https://news.google.com/rss/articles/CBMihwFBVV95cUxOUm1yMW5oNXFfNEplUWpxaFE5aTRVckFaZHFiZ2xFbzJiUnU3Y08wZl9CczliMmIwNWtwaDNlTHFNNWUtbTJiN3hHVDR0TEhETVplR24yRmZ4eFBMa3dreXFUYXVVWm1UWUxvcXRfdVJveEZ6OVVRdmo1MUVfeENUNG9MM1V4TW8?oc=5)
 
 2026-11-02 <span class="news-indication-tag">がん</span>
 
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/71074119141152f4d1514d570cb76bf21b8ecbf5?source=rss)
+出典: [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxOUm1yMW5oNXFfNEplUWpxaFE5aTRVckFaZHFiZ2xFbzJiUnU3Y08wZl9CczliMmIwNWtwaDNlTHFNNWUtbTJiN3hHVDR0TEhETVplR24yRmZ4eFBMa3dreXFUYXVVWm1UWUxvcXRfdVJveEZ6OVVRdmo1MUVfeENUNG9MM1V4TW8?oc=5)
+
+---
+
+### [CDK4/6阻害薬後に進行したHR+/HER2-乳がんへのアベマシクリブ＋フルベストラント、最終OS結果（postMONARCH）／ESMO2026｜CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RWGlzczBaSnpObFlsdjVRQ1FsaWQ2MXkxSU5nVV85LTZSRlRxa19UNVcxZXY4UnZwa0pwRU41QkJha1lmTUJ4N21yNGZCWFFIQlhnWkl2RExhQndISi1r?oc=5)
+
+2026-11-02 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
+
+出典: [CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RWGlzczBaSnpObFlsdjVRQ1FsaWQ2MXkxSU5nVV85LTZSRlRxa19UNVcxZXY4UnZwa0pwRU41QkJha1lmTUJ4N21yNGZCWFFIQlhnWkl2RExhQndISi1r?oc=5)
 
 ---
 
@@ -64,11 +80,19 @@ last_modified_at: 2026-11-03
 
 ---
 
-### [社説：インフル流行の長期化 拡大警戒し対策の徹底を](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZVDBBazZ4bU43a3BPZGE1T3B4cHJZanhTTU9TVGlZTE15V0wzWHA3MWlnM1hjWGI3cFRXakN0cDZDZDE1WEJ1VWdXUDAwRWZjazQ3Vl9uRTExVWtDZE9GT0RQdDd5S3BL?oc=5)
+### [肥満症が胃噴門部腺がんを進展させる機序をマウスで解明－東北大](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa1dKNlI0Y1pQY0J1UTdFWVFfUGlGaFpzeDloaUhrSnNaU3NwTmFoLTY2cktBZi1ZNk5PejhvQWN6cmlTZjdPUFNtRk5Kc0s4R2FpNkJaalQ2eEhvS2thZzkzWktFcnl6OHhPLV9kNmhncE9lbUM4MTlPc2dkVEJIZ0xQOTVWalhkWXFINVZDdUtTOWszXzhVWTJMQVhXNllPYW9xdTNCNUxhQWNfRGpuNk1KNjhFaEMtYXhvdWlZY2I4UlpQMDdGVXVfRDRKWl9HRHVvRg?oc=5)
+
+2026-11-02 <span class="news-indication-tag">がん</span>
+
+出典: [QLifePro](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa1dKNlI0Y1pQY0J1UTdFWVFfUGlGaFpzeDloaUhrSnNaU3NwTmFoLTY2cktBZi1ZNk5PejhvQWN6cmlTZjdPUFNtRk5Kc0s4R2FpNkJaalQ2eEhvS2thZzkzWktFcnl6OHhPLV9kNmhncE9lbUM4MTlPc2dkVEJIZ0xQOTVWalhkWXFINVZDdUtTOWszXzhVWTJMQVhXNllPYW9xdTNCNUxhQWNfRGpuNk1KNjhFaEMtYXhvdWlZY2I4UlpQMDdGVXVfRDRKWl9HRHVvRg?oc=5)
+
+---
+
+### [《最新研究が明かすインフルエンザワクチンの効果》心筋梗塞や脳卒中などのリスク低減か、認知症予防に関する研究も 60才以上が対象の「新ワクチン」は来年以降の導入へ (1/2)](https://news.google.com/rss/articles/CBMiOEFVX3lxTE1RcmFybi00U19KMjBoeHdKN2dqUUZ2TTBwUjduWmFzY2haTkR5N0J6Wl90RlJuZXU5?oc=5)
 
 2026-11-01 <span class="news-indication-tag">認知症</span> <span class="news-indication-tag">心筋梗塞</span> <span class="news-indication-tag">脳卒中</span> <span class="news-indication-tag">インフルエンザ</span>
 
-出典: [毎日新聞](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZVDBBazZ4bU43a3BPZGE1T3B4cHJZanhTTU9TVGlZTE15V0wzWHA3MWlnM1hjWGI3cFRXakN0cDZDZDE1WEJ1VWdXUDAwRWZjazQ3Vl9uRTExVWtDZE9GT0RQdDd5S3BL?oc=5)
+出典: [女性セブンプラス](https://news.google.com/rss/articles/CBMiOEFVX3lxTE1RcmFybi00U19KMjBoeHdKN2dqUUZ2TTBwUjduWmFzY2haTkR5N0J6Wl90RlJuZXU5?oc=5)
 
 ---
 
@@ -85,6 +109,14 @@ last_modified_at: 2026-11-03
 2026-10-31 <span class="news-indication-tag">がん</span>
 
 出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/5237762cb32e9371e8efb5973a0839ca72e76d49?source=rss)
+
+---
+
+### [「なくなる日が来てほしい」検診とワクチンで“予防できる”も日本では毎年約3000人が命を失う子宮頸がん 治療で命が助かったものの子宮摘出した女性が経験を伝える取り組み 進まぬ“検診”とその要因 - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE1pcnpqX0otSFVCN1pOV2gzNFZ1ekN6WU5td3BUNnhJSHl4emVEWlpwdjdDZUVUOGwzV05icXE3UjhtdlhpcGFCekJ3RFFKUXFYOW9HdFh0LXZrclJpSW16NUJNeFYxbmZpMklkVVdn?oc=5)
+
+2026-10-30 <span class="news-indication-tag">がん</span>
+
+出典: [au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE1pcnpqX0otSFVCN1pOV2gzNFZ1ekN6WU5td3BUNnhJSHl4emVEWlpwdjdDZUVUOGwzV05icXE3UjhtdlhpcGFCekJ3RFFKUXFYOW9HdFh0LXZrclJpSW16NUJNeFYxbmZpMklkVVdn?oc=5)
 
 ---
 
@@ -133,22 +165,6 @@ last_modified_at: 2026-11-03
 2026-10-28 <span class="news-indication-tag">脳卒中</span>
 
 出典: [PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE9NX1NfN29mSTd1Z211OFVZdTVTVTVWaTBNZ2E3b3J5blNiQk9DWTVOaU5JaTRST21SSG0wSkc3RTJKMDJhalBEQm9YWWt0Q01YdnZ6SmxEeEdRV2c0dUJqV3NDSGJjZEhzTlE?oc=5)
-
----
-
-### [「なくなる日が来てほしい」検診とワクチンで“予防できる”も日本では毎年約3000人が命を失う子宮頸がん 治療で命が助かったものの子宮摘出した女性が経験を伝える取り組み 進まぬ“検診”とその要因](https://news.google.com/rss/articles/CBMiVEFVX3lxTE16WmFJZW5NaUNoLUY5VWREY2UxWm5LUVpTLXhBTV8zUFRGaTBNNnF0RkQyeWsxMUlReG5QSUMyVGN5QWJEQXd2LWVTcVNqSG5BMmdvMQ?oc=5)
-
-2026-10-27 <span class="news-indication-tag">がん</span>
-
-出典: [ktv.jp](https://news.google.com/rss/articles/CBMiVEFVX3lxTE16WmFJZW5NaUNoLUY5VWREY2UxWm5LUVpTLXhBTV8zUFRGaTBNNnF0RkQyeWsxMUlReG5QSUMyVGN5QWJEQXd2LWVTcVNqSG5BMmdvMQ?oc=5)
-
----
-
-### [化学療法反応スコアは進行卵巣がんのPARP阻害薬維持療法の効果を予測可能か／Gynecol Oncol｜CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QWVhPZGVwQU5sVEc3c0JnS25TelYya1J2OUw0SmtCMDNabHNLWnpkMEFWRFZnUnpfRFI5ZTdMRXRiWlBONFpyYl9SM1A0Yk1fMUo2MTZkOGVHVzNLeV9B?oc=5)
-
-2026-10-27 <span class="news-indication-tag">がん</span>
-
-出典: [CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QWVhPZGVwQU5sVEc3c0JnS25TelYya1J2OUw0SmtCMDNabHNLWnpkMEFWRFZnUnpfRFI5ZTdMRXRiWlBONFpyYl9SM1A0Yk1fMUo2MTZkOGVHVzNLeV9B?oc=5)
 
 ---
 

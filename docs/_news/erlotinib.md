@@ -32,27 +32,27 @@ last_modified_at: 2026-11-03
 
 ## 関連ニュース（14 件）
 
-### [悪性度の高いⅠ期膀胱がん、BCG注入療法で効果得られず　その後の治療はどうする？　がん電話相談から(産経新聞)](https://news.yahoo.co.jp/articles/71074119141152f4d1514d570cb76bf21b8ecbf5?source=rss)
+### [糖尿病、数値下げるのは大事だけど…低血糖にご注意 ふらつきや認知症 持続測定器の活用で管理を](https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yS094c01RaDlqTmV1SE85S293cTZoODhIcEJoNGJmXzNmRmdRakNvNy1COXNxRHNMelJ2U0FHSkdvcGZrWnRkZjc4dzJyQVpXNk5J?oc=5)
+
+2026-11-02 <span class="news-indication-tag">認知症</span>
+
+出典: [東京新聞](https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yS094c01RaDlqTmV1SE85S293cTZoODhIcEJoNGJmXzNmRmdRakNvNy1COXNxRHNMelJ2U0FHSkdvcGZrWnRkZjc4dzJyQVpXNk5J?oc=5)
+
+---
+
+### [【すい臓がん治療最前線】画期的新薬「ダラクソンラシブ」に高まる期待 「百年に一度の薬」と絶賛されるも、日本で保険診療として承認されるためには“高すぎる薬価”の壁(マネーポストWEB)](https://news.google.com/rss/articles/CBMihwFBVV95cUxOUm1yMW5oNXFfNEplUWpxaFE5aTRVckFaZHFiZ2xFbzJiUnU3Y08wZl9CczliMmIwNWtwaDNlTHFNNWUtbTJiN3hHVDR0TEhETVplR24yRmZ4eFBMa3dreXFUYXVVWm1UWUxvcXRfdVJveEZ6OVVRdmo1MUVfeENUNG9MM1V4TW8?oc=5)
 
 2026-11-02 <span class="news-indication-tag">がん</span>
 
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/71074119141152f4d1514d570cb76bf21b8ecbf5?source=rss)
+出典: [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxOUm1yMW5oNXFfNEplUWpxaFE5aTRVckFaZHFiZ2xFbzJiUnU3Y08wZl9CczliMmIwNWtwaDNlTHFNNWUtbTJiN3hHVDR0TEhETVplR24yRmZ4eFBMa3dreXFUYXVVWm1UWUxvcXRfdVJveEZ6OVVRdmo1MUVfeENUNG9MM1V4TW8?oc=5)
 
 ---
 
-### [怒りっぽくなった、意欲の低下…　「前頭側頭葉変性症」の可能性も　脳を知る(産経新聞)](https://news.yahoo.co.jp/articles/89c4c44e573ebcc7f9180e610969e210c43406f5?source=rss)
+### [CDK4/6阻害薬後に進行したHR+/HER2-乳がんへのアベマシクリブ＋フルベストラント、最終OS結果（postMONARCH）／ESMO2026｜CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RWGlzczBaSnpObFlsdjVRQ1FsaWQ2MXkxSU5nVV85LTZSRlRxa19UNVcxZXY4UnZwa0pwRU41QkJha1lmTUJ4N21yNGZCWFFIQlhnWkl2RExhQndISi1r?oc=5)
 
-2026-11-02 <span class="news-indication-tag">認知症</span>
+2026-11-02 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
 
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/89c4c44e573ebcc7f9180e610969e210c43406f5?source=rss)
-
----
-
-### [糖尿病、数値下げるのは大事だけど…低血糖にご注意 ふらつきや認知症 持続測定器の活用で管理を](https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zYkNkVE90eWxoS1RScmhuaUs0YmkzSWdVd0w5ZkIzaEVVbUloeG9ZZENGTm9vbkxnZjJxME1odXhYWVJMRWhvUklld3VUOGJfem55RjJBUFZxaXlZdFcw?oc=5)
-
-2026-11-02 <span class="news-indication-tag">認知症</span>
-
-出典: [東京新聞](https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zYkNkVE90eWxoS1RScmhuaUs0YmkzSWdVd0w5ZkIzaEVVbUloeG9ZZENGTm9vbkxnZjJxME1odXhYWVJMRWhvUklld3VUOGJfem55RjJBUFZxaXlZdFcw?oc=5)
+出典: [CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RWGlzczBaSnpObFlsdjVRQ1FsaWQ2MXkxSU5nVV85LTZSRlRxa19UNVcxZXY4UnZwa0pwRU41QkJha1lmTUJ4N21yNGZCWFFIQlhnWkl2RExhQndISi1r?oc=5)
 
 ---
 
@@ -64,11 +64,19 @@ last_modified_at: 2026-11-03
 
 ---
 
-### [社説：インフル流行の長期化 拡大警戒し対策の徹底を](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZVDBBazZ4bU43a3BPZGE1T3B4cHJZanhTTU9TVGlZTE15V0wzWHA3MWlnM1hjWGI3cFRXakN0cDZDZDE1WEJ1VWdXUDAwRWZjazQ3Vl9uRTExVWtDZE9GT0RQdDd5S3BL?oc=5)
+### [肥満症が胃噴門部腺がんを進展させる機序をマウスで解明－東北大](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa1dKNlI0Y1pQY0J1UTdFWVFfUGlGaFpzeDloaUhrSnNaU3NwTmFoLTY2cktBZi1ZNk5PejhvQWN6cmlTZjdPUFNtRk5Kc0s4R2FpNkJaalQ2eEhvS2thZzkzWktFcnl6OHhPLV9kNmhncE9lbUM4MTlPc2dkVEJIZ0xQOTVWalhkWXFINVZDdUtTOWszXzhVWTJMQVhXNllPYW9xdTNCNUxhQWNfRGpuNk1KNjhFaEMtYXhvdWlZY2I4UlpQMDdGVXVfRDRKWl9HRHVvRg?oc=5)
+
+2026-11-02 <span class="news-indication-tag">がん</span>
+
+出典: [QLifePro](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa1dKNlI0Y1pQY0J1UTdFWVFfUGlGaFpzeDloaUhrSnNaU3NwTmFoLTY2cktBZi1ZNk5PejhvQWN6cmlTZjdPUFNtRk5Kc0s4R2FpNkJaalQ2eEhvS2thZzkzWktFcnl6OHhPLV9kNmhncE9lbUM4MTlPc2dkVEJIZ0xQOTVWalhkWXFINVZDdUtTOWszXzhVWTJMQVhXNllPYW9xdTNCNUxhQWNfRGpuNk1KNjhFaEMtYXhvdWlZY2I4UlpQMDdGVXVfRDRKWl9HRHVvRg?oc=5)
+
+---
+
+### [《最新研究が明かすインフルエンザワクチンの効果》心筋梗塞や脳卒中などのリスク低減か、認知症予防に関する研究も 60才以上が対象の「新ワクチン」は来年以降の導入へ (1/2)](https://news.google.com/rss/articles/CBMiOEFVX3lxTE1RcmFybi00U19KMjBoeHdKN2dqUUZ2TTBwUjduWmFzY2haTkR5N0J6Wl90RlJuZXU5?oc=5)
 
 2026-11-01 <span class="news-indication-tag">認知症</span> <span class="news-indication-tag">心筋梗塞</span> <span class="news-indication-tag">脳卒中</span> <span class="news-indication-tag">インフルエンザ</span>
 
-出典: [毎日新聞](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZVDBBazZ4bU43a3BPZGE1T3B4cHJZanhTTU9TVGlZTE15V0wzWHA3MWlnM1hjWGI3cFRXakN0cDZDZDE1WEJ1VWdXUDAwRWZjazQ3Vl9uRTExVWtDZE9GT0RQdDd5S3BL?oc=5)
+出典: [女性セブンプラス](https://news.google.com/rss/articles/CBMiOEFVX3lxTE1RcmFybi00U19KMjBoeHdKN2dqUUZ2TTBwUjduWmFzY2haTkR5N0J6Wl90RlJuZXU5?oc=5)
 
 ---
 
@@ -80,19 +88,27 @@ last_modified_at: 2026-11-03
 
 ---
 
-### [加齢に対抗するために＜10＞認知症予防 適量のワイン摂取 効果](https://news.google.com/rss/articles/CBMiYEFVX3lxTE91ajZhak1NT3V0anl1U3VKSlEtcUVXeGRtNWFCTTVIbFdmNDZ1ZXpkdDRpVHJwYUNxSFJCZjZHRTdiS1ZtUXp3VlRKTUVqOU5yX2Roa0owNGtIUDBxeFBsNA?oc=5)
-
-2026-10-31 <span class="news-indication-tag">認知症</span>
-
-出典: [愛媛新聞](https://news.google.com/rss/articles/CBMiYEFVX3lxTE91ajZhak1NT3V0anl1U3VKSlEtcUVXeGRtNWFCTTVIbFdmNDZ1ZXpkdDRpVHJwYUNxSFJCZjZHRTdiS1ZtUXp3VlRKTUVqOU5yX2Roa0owNGtIUDBxeFBsNA?oc=5)
-
----
-
 ### [【闘病】2時間止まらない鼻血と白い塊… 正体はHPVによる『鼻腔がん』だった(メディカルドック)](https://news.yahoo.co.jp/articles/5237762cb32e9371e8efb5973a0839ca72e76d49?source=rss)
 
 2026-10-31 <span class="news-indication-tag">がん</span>
 
 出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/5237762cb32e9371e8efb5973a0839ca72e76d49?source=rss)
+
+---
+
+### [認知症を引き起こす「ペットボトル飲料」のリスク…亡くなった人の脳から「クレヨン1本分」の微小プラスチックが検出された](https://news.google.com/rss/articles/CBMif0FVX3lxTFBCUEZMN04tYnNFR2NSelVBdnZvcnlGaExEc00zQnYxVE9XRndFQ09MS0hwVmZVSjZHMDZPcEtUYU9GdExpbE1SZnhTNklLNlVNRHlOZnk4SjYzTGJIRTFQbHR0clIwZUJxUXQyVXZvblZtQnNDdWRZTjdWa2hlbms?oc=5)
+
+2026-10-31 <span class="news-indication-tag">認知症</span>
+
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBCUEZMN04tYnNFR2NSelVBdnZvcnlGaExEc00zQnYxVE9XRndFQ09MS0hwVmZVSjZHMDZPcEtUYU9GdExpbE1SZnhTNklLNlVNRHlOZnk4SjYzTGJIRTFQbHR0clIwZUJxUXQyVXZvblZtQnNDdWRZTjdWa2hlbms?oc=5)
+
+---
+
+### [「なくなる日が来てほしい」検診とワクチンで“予防できる”も日本では毎年約3000人が命を失う子宮頸がん 治療で命が助かったものの子宮摘出した女性が経験を伝える取り組み 進まぬ“検診”とその要因 - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE1pcnpqX0otSFVCN1pOV2gzNFZ1ekN6WU5td3BUNnhJSHl4emVEWlpwdjdDZUVUOGwzV05icXE3UjhtdlhpcGFCekJ3RFFKUXFYOW9HdFh0LXZrclJpSW16NUJNeFYxbmZpMklkVVdn?oc=5)
+
+2026-10-30 <span class="news-indication-tag">がん</span>
+
+出典: [au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE1pcnpqX0otSFVCN1pOV2gzNFZ1ekN6WU5td3BUNnhJSHl4emVEWlpwdjdDZUVUOGwzV05icXE3UjhtdlhpcGFCekJ3RFFKUXFYOW9HdFh0LXZrclJpSW16NUJNeFYxbmZpMklkVVdn?oc=5)
 
 ---
 
@@ -125,22 +141,6 @@ last_modified_at: 2026-11-03
 2026-10-29 <span class="news-indication-tag">がん</span>
 
 出典: [PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZdEFnSGMzc2JQTjQ0bHgzdC1tdVp5U0lucEVsdUxZZzhpMmpLWHRwYmg0QVBhcE12VXM1NWYzeVNjOWt3M090QkFVanY1eTNfcmREUmk0alcyVEVhN2U1cTFwTDlkZkFQZnc?oc=5)
-
----
-
-### [「なくなる日が来てほしい」検診とワクチンで“予防できる”も日本では毎年約3000人が命を失う子宮頸がん 治療で命が助かったものの子宮摘出した女性が経験を伝える取り組み 進まぬ“検診”とその要因](https://news.google.com/rss/articles/CBMiVEFVX3lxTE16WmFJZW5NaUNoLUY5VWREY2UxWm5LUVpTLXhBTV8zUFRGaTBNNnF0RkQyeWsxMUlReG5QSUMyVGN5QWJEQXd2LWVTcVNqSG5BMmdvMQ?oc=5)
-
-2026-10-27 <span class="news-indication-tag">がん</span>
-
-出典: [ktv.jp](https://news.google.com/rss/articles/CBMiVEFVX3lxTE16WmFJZW5NaUNoLUY5VWREY2UxWm5LUVpTLXhBTV8zUFRGaTBNNnF0RkQyeWsxMUlReG5QSUMyVGN5QWJEQXd2LWVTcVNqSG5BMmdvMQ?oc=5)
-
----
-
-### [化学療法反応スコアは進行卵巣がんのPARP阻害薬維持療法の効果を予測可能か／Gynecol Oncol｜CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QWVhPZGVwQU5sVEc3c0JnS25TelYya1J2OUw0SmtCMDNabHNLWnpkMEFWRFZnUnpfRFI5ZTdMRXRiWlBONFpyYl9SM1A0Yk1fMUo2MTZkOGVHVzNLeV9B?oc=5)
-
-2026-10-27 <span class="news-indication-tag">がん</span>
-
-出典: [CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QWVhPZGVwQU5sVEc3c0JnS25TelYya1J2OUw0SmtCMDNabHNLWnpkMEFWRFZnUnpfRFI5ZTdMRXRiWlBONFpyYl9SM1A0Yk1fMUo2MTZkOGVHVzNLeV9B?oc=5)
 
 ---
 

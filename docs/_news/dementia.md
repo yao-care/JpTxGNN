@@ -3,7 +3,7 @@ layout: default
 title: "認知症 (dementia) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "認知症 (dementia) に関する健康ニュース。ニュース 4 件、関連医薬品 2 件。"
+description: "認知症 (dementia) に関する健康ニュース。ニュース 3 件、関連医薬品 2 件。"
 permalink: /news/dementia/
 last_modified_at: 2026-11-03
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="認知症 (dementia) に関するニュースは？">
-<strong>認知症 (dementia)</strong> には現在 <strong>4 件</strong>の関連ニュースと 2 件の関連医薬品があります。
+<strong>認知症 (dementia)</strong> には現在 <strong>3 件</strong>の関連ニュースと 2 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -31,37 +31,29 @@ last_modified_at: 2026-11-03
 </ul>
 </div>
 
-## 関連ニュース（4 件）
+## 関連ニュース（3 件）
 
-### [怒りっぽくなった、意欲の低下…　「前頭側頭葉変性症」の可能性も　脳を知る(産経新聞)](https://news.yahoo.co.jp/articles/89c4c44e573ebcc7f9180e610969e210c43406f5?source=rss)
-
-2026-11-02
-
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/89c4c44e573ebcc7f9180e610969e210c43406f5?source=rss)
-
----
-
-### [糖尿病、数値下げるのは大事だけど…低血糖にご注意 ふらつきや認知症 持続測定器の活用で管理を](https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zYkNkVE90eWxoS1RScmhuaUs0YmkzSWdVd0w5ZkIzaEVVbUloeG9ZZENGTm9vbkxnZjJxME1odXhYWVJMRWhvUklld3VUOGJfem55RjJBUFZxaXlZdFcw?oc=5)
+### [糖尿病、数値下げるのは大事だけど…低血糖にご注意 ふらつきや認知症 持続測定器の活用で管理を](https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yS094c01RaDlqTmV1SE85S293cTZoODhIcEJoNGJmXzNmRmdRakNvNy1COXNxRHNMelJ2U0FHSkdvcGZrWnRkZjc4dzJyQVpXNk5J?oc=5)
 
 2026-11-02
 
-出典: [東京新聞](https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zYkNkVE90eWxoS1RScmhuaUs0YmkzSWdVd0w5ZkIzaEVVbUloeG9ZZENGTm9vbkxnZjJxME1odXhYWVJMRWhvUklld3VUOGJfem55RjJBUFZxaXlZdFcw?oc=5)
+出典: [東京新聞](https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yS094c01RaDlqTmV1SE85S293cTZoODhIcEJoNGJmXzNmRmdRakNvNy1COXNxRHNMelJ2U0FHSkdvcGZrWnRkZjc4dzJyQVpXNk5J?oc=5)
 
 ---
 
-### [社説：インフル流行の長期化 拡大警戒し対策の徹底を](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZVDBBazZ4bU43a3BPZGE1T3B4cHJZanhTTU9TVGlZTE15V0wzWHA3MWlnM1hjWGI3cFRXakN0cDZDZDE1WEJ1VWdXUDAwRWZjazQ3Vl9uRTExVWtDZE9GT0RQdDd5S3BL?oc=5)
+### [《最新研究が明かすインフルエンザワクチンの効果》心筋梗塞や脳卒中などのリスク低減か、認知症予防に関する研究も 60才以上が対象の「新ワクチン」は来年以降の導入へ (1/2)](https://news.google.com/rss/articles/CBMiOEFVX3lxTE1RcmFybi00U19KMjBoeHdKN2dqUUZ2TTBwUjduWmFzY2haTkR5N0J6Wl90RlJuZXU5?oc=5)
 
 2026-11-01
 
-出典: [毎日新聞](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZVDBBazZ4bU43a3BPZGE1T3B4cHJZanhTTU9TVGlZTE15V0wzWHA3MWlnM1hjWGI3cFRXakN0cDZDZDE1WEJ1VWdXUDAwRWZjazQ3Vl9uRTExVWtDZE9GT0RQdDd5S3BL?oc=5)
+出典: [女性セブンプラス](https://news.google.com/rss/articles/CBMiOEFVX3lxTE1RcmFybi00U19KMjBoeHdKN2dqUUZ2TTBwUjduWmFzY2haTkR5N0J6Wl90RlJuZXU5?oc=5)
 
 ---
 
-### [加齢に対抗するために＜10＞認知症予防 適量のワイン摂取 効果](https://news.google.com/rss/articles/CBMiYEFVX3lxTE91ajZhak1NT3V0anl1U3VKSlEtcUVXeGRtNWFCTTVIbFdmNDZ1ZXpkdDRpVHJwYUNxSFJCZjZHRTdiS1ZtUXp3VlRKTUVqOU5yX2Roa0owNGtIUDBxeFBsNA?oc=5)
+### [認知症を引き起こす「ペットボトル飲料」のリスク…亡くなった人の脳から「クレヨン1本分」の微小プラスチックが検出された](https://news.google.com/rss/articles/CBMif0FVX3lxTFBCUEZMN04tYnNFR2NSelVBdnZvcnlGaExEc00zQnYxVE9XRndFQ09MS0hwVmZVSjZHMDZPcEtUYU9GdExpbE1SZnhTNklLNlVNRHlOZnk4SjYzTGJIRTFQbHR0clIwZUJxUXQyVXZvblZtQnNDdWRZTjdWa2hlbms?oc=5)
 
 2026-10-31
 
-出典: [愛媛新聞](https://news.google.com/rss/articles/CBMiYEFVX3lxTE91ajZhak1NT3V0anl1U3VKSlEtcUVXeGRtNWFCTTVIbFdmNDZ1ZXpkdDRpVHJwYUNxSFJCZjZHRTdiS1ZtUXp3VlRKTUVqOU5yX2Roa0owNGtIUDBxeFBsNA?oc=5)
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBCUEZMN04tYnNFR2NSelVBdnZvcnlGaExEc00zQnYxVE9XRndFQ09MS0hwVmZVSjZHMDZPcEtUYU9GdExpbE1SZnhTNklLNlVNRHlOZnk4SjYzTGJIRTFQbHR0clIwZUJxUXQyVXZvblZtQnNDdWRZTjdWa2hlbms?oc=5)
 
 ---
 

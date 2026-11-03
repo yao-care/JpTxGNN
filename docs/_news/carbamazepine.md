@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="テグレトール錠１００ｍｇ（選） に関するニュースは？">
-<strong>テグレトール錠１００ｍｇ（選）</strong> には現在 <strong>10 件</strong>の関連ニュースがあり、予測適応症は 3 件です。
+<strong>テグレトール錠１００ｍｇ（選）</strong> には現在 <strong>11 件</strong>の関連ニュースがあり、予測適応症は 3 件です。
 </p>
 
 <div class="key-takeaway">
@@ -35,13 +35,21 @@ last_modified_at: 2026-11-03
 <p><a href="{{ '/drugs/carbamazepine/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（10 件）
+## 関連ニュース（11 件）
 
-### [悪性度の高いⅠ期膀胱がん、BCG注入療法で効果得られず　その後の治療はどうする？　がん電話相談から(産経新聞)](https://news.yahoo.co.jp/articles/71074119141152f4d1514d570cb76bf21b8ecbf5?source=rss)
+### [【すい臓がん治療最前線】画期的新薬「ダラクソンラシブ」に高まる期待 「百年に一度の薬」と絶賛されるも、日本で保険診療として承認されるためには“高すぎる薬価”の壁(マネーポストWEB)](https://news.google.com/rss/articles/CBMihwFBVV95cUxOUm1yMW5oNXFfNEplUWpxaFE5aTRVckFaZHFiZ2xFbzJiUnU3Y08wZl9CczliMmIwNWtwaDNlTHFNNWUtbTJiN3hHVDR0TEhETVplR24yRmZ4eFBMa3dreXFUYXVVWm1UWUxvcXRfdVJveEZ6OVVRdmo1MUVfeENUNG9MM1V4TW8?oc=5)
 
 2026-11-02 <span class="news-indication-tag">がん</span>
 
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/71074119141152f4d1514d570cb76bf21b8ecbf5?source=rss)
+出典: [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxOUm1yMW5oNXFfNEplUWpxaFE5aTRVckFaZHFiZ2xFbzJiUnU3Y08wZl9CczliMmIwNWtwaDNlTHFNNWUtbTJiN3hHVDR0TEhETVplR24yRmZ4eFBMa3dreXFUYXVVWm1UWUxvcXRfdVJveEZ6OVVRdmo1MUVfeENUNG9MM1V4TW8?oc=5)
+
+---
+
+### [CDK4/6阻害薬後に進行したHR+/HER2-乳がんへのアベマシクリブ＋フルベストラント、最終OS結果（postMONARCH）／ESMO2026｜CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RWGlzczBaSnpObFlsdjVRQ1FsaWQ2MXkxSU5nVV85LTZSRlRxa19UNVcxZXY4UnZwa0pwRU41QkJha1lmTUJ4N21yNGZCWFFIQlhnWkl2RExhQndISi1r?oc=5)
+
+2026-11-02 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
+
+出典: [CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RWGlzczBaSnpObFlsdjVRQ1FsaWQ2MXkxSU5nVV85LTZSRlRxa19UNVcxZXY4UnZwa0pwRU41QkJha1lmTUJ4N21yNGZCWFFIQlhnWkl2RExhQndISi1r?oc=5)
 
 ---
 
@@ -50,6 +58,14 @@ last_modified_at: 2026-11-03
 2026-11-02 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">腫瘍</span>
 
 出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/5c4c70fd6d5e36badb6cc5c78b0a8135c398e42c?source=rss)
+
+---
+
+### [肥満症が胃噴門部腺がんを進展させる機序をマウスで解明－東北大](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa1dKNlI0Y1pQY0J1UTdFWVFfUGlGaFpzeDloaUhrSnNaU3NwTmFoLTY2cktBZi1ZNk5PejhvQWN6cmlTZjdPUFNtRk5Kc0s4R2FpNkJaalQ2eEhvS2thZzkzWktFcnl6OHhPLV9kNmhncE9lbUM4MTlPc2dkVEJIZ0xQOTVWalhkWXFINVZDdUtTOWszXzhVWTJMQVhXNllPYW9xdTNCNUxhQWNfRGpuNk1KNjhFaEMtYXhvdWlZY2I4UlpQMDdGVXVfRDRKWl9HRHVvRg?oc=5)
+
+2026-11-02 <span class="news-indication-tag">がん</span>
+
+出典: [QLifePro](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa1dKNlI0Y1pQY0J1UTdFWVFfUGlGaFpzeDloaUhrSnNaU3NwTmFoLTY2cktBZi1ZNk5PejhvQWN6cmlTZjdPUFNtRk5Kc0s4R2FpNkJaalQ2eEhvS2thZzkzWktFcnl6OHhPLV9kNmhncE9lbUM4MTlPc2dkVEJIZ0xQOTVWalhkWXFINVZDdUtTOWszXzhVWTJMQVhXNllPYW9xdTNCNUxhQWNfRGpuNk1KNjhFaEMtYXhvdWlZY2I4UlpQMDdGVXVfRDRKWl9HRHVvRg?oc=5)
 
 ---
 
@@ -66,6 +82,14 @@ last_modified_at: 2026-11-03
 2026-10-31 <span class="news-indication-tag">がん</span>
 
 出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/5237762cb32e9371e8efb5973a0839ca72e76d49?source=rss)
+
+---
+
+### [「なくなる日が来てほしい」検診とワクチンで“予防できる”も日本では毎年約3000人が命を失う子宮頸がん 治療で命が助かったものの子宮摘出した女性が経験を伝える取り組み 進まぬ“検診”とその要因 - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE1pcnpqX0otSFVCN1pOV2gzNFZ1ekN6WU5td3BUNnhJSHl4emVEWlpwdjdDZUVUOGwzV05icXE3UjhtdlhpcGFCekJ3RFFKUXFYOW9HdFh0LXZrclJpSW16NUJNeFYxbmZpMklkVVdn?oc=5)
+
+2026-10-30 <span class="news-indication-tag">がん</span>
+
+出典: [au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE1pcnpqX0otSFVCN1pOV2gzNFZ1ekN6WU5td3BUNnhJSHl4emVEWlpwdjdDZUVUOGwzV05icXE3UjhtdlhpcGFCekJ3RFFKUXFYOW9HdFh0LXZrclJpSW16NUJNeFYxbmZpMklkVVdn?oc=5)
 
 ---
 
@@ -98,22 +122,6 @@ last_modified_at: 2026-11-03
 2026-10-29 <span class="news-indication-tag">がん</span>
 
 出典: [PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZdEFnSGMzc2JQTjQ0bHgzdC1tdVp5U0lucEVsdUxZZzhpMmpLWHRwYmg0QVBhcE12VXM1NWYzeVNjOWt3M090QkFVanY1eTNfcmREUmk0alcyVEVhN2U1cTFwTDlkZkFQZnc?oc=5)
-
----
-
-### [「なくなる日が来てほしい」検診とワクチンで“予防できる”も日本では毎年約3000人が命を失う子宮頸がん 治療で命が助かったものの子宮摘出した女性が経験を伝える取り組み 進まぬ“検診”とその要因](https://news.google.com/rss/articles/CBMiVEFVX3lxTE16WmFJZW5NaUNoLUY5VWREY2UxWm5LUVpTLXhBTV8zUFRGaTBNNnF0RkQyeWsxMUlReG5QSUMyVGN5QWJEQXd2LWVTcVNqSG5BMmdvMQ?oc=5)
-
-2026-10-27 <span class="news-indication-tag">がん</span>
-
-出典: [ktv.jp](https://news.google.com/rss/articles/CBMiVEFVX3lxTE16WmFJZW5NaUNoLUY5VWREY2UxWm5LUVpTLXhBTV8zUFRGaTBNNnF0RkQyeWsxMUlReG5QSUMyVGN5QWJEQXd2LWVTcVNqSG5BMmdvMQ?oc=5)
-
----
-
-### [化学療法反応スコアは進行卵巣がんのPARP阻害薬維持療法の効果を予測可能か／Gynecol Oncol｜CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QWVhPZGVwQU5sVEc3c0JnS25TelYya1J2OUw0SmtCMDNabHNLWnpkMEFWRFZnUnpfRFI5ZTdMRXRiWlBONFpyYl9SM1A0Yk1fMUo2MTZkOGVHVzNLeV9B?oc=5)
-
-2026-10-27 <span class="news-indication-tag">がん</span>
-
-出典: [CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1QWVhPZGVwQU5sVEc3c0JnS25TelYya1J2OUw0SmtCMDNabHNLWnpkMEFWRFZnUnpfRFI5ZTdMRXRiWlBONFpyYl9SM1A0Yk1fMUo2MTZkOGVHVzNLeV9B?oc=5)
 
 ---
 

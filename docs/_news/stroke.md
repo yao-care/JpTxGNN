@@ -3,7 +3,7 @@ layout: default
 title: "脳卒中 (stroke) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "脳卒中 (stroke) に関する健康ニュース。ニュース 3 件、関連医薬品 16 件。"
+description: "脳卒中 (stroke) に関する健康ニュース。ニュース 4 件、関連医薬品 16 件。"
 permalink: /news/stroke/
 last_modified_at: 2026-11-03
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="脳卒中 (stroke) に関するニュースは？">
-<strong>脳卒中 (stroke)</strong> には現在 <strong>3 件</strong>の関連ニュースと 16 件の関連医薬品があります。
+<strong>脳卒中 (stroke)</strong> には現在 <strong>4 件</strong>の関連ニュースと 16 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -45,7 +45,15 @@ last_modified_at: 2026-11-03
 </ul>
 </div>
 
-## 関連ニュース（3 件）
+## 関連ニュース（4 件）
+
+### [高血圧患者の脳卒中予防法](https://news.google.com/rss/articles/CBMimgFBVV95cUxPMVFsbjlUWENENUpIaWJrNnc5Ujl1WU9tODdRSFhWaDcwdTNjMWdNV25aeHE5ekM0bzh5TkhuWFlHdG9tejVRZmgyYnp2Zkp0cE15ZEZqZkNVdnFDUmNST1lHclBydWdhMGxrX3RmZ0xJTjR1Wm1wcmNOSkpZNUhNNFU4T3FYUzhEX29mblhLSDhHMkxZMjl4a29B?oc=5)
+
+2026-11-03
+
+出典: [Laodong.vn](https://news.google.com/rss/articles/CBMimgFBVV95cUxPMVFsbjlUWENENUpIaWJrNnc5Ujl1WU9tODdRSFhWaDcwdTNjMWdNV25aeHE5ekM0bzh5TkhuWFlHdG9tejVRZmgyYnp2Zkp0cE15ZEZqZkNVdnFDUmNST1lHclBydWdhMGxrX3RmZ0xJTjR1Wm1wcmNOSkpZNUhNNFU4T3FYUzhEX29mblhLSDhHMkxZMjl4a29B?oc=5)
+
+---
 
 ### [FPTロンチャウとバイエルが協力して、国民の脳卒中のリスクをスクリーニング](https://news.google.com/rss/articles/CBMirwFBVV95cUxNLVFHazRRdXdkSUlsdjd1VFV2OGR1MFVYa0g2Y2M0b1lBc082ZVl5TUc1Ym1HNDU0ZzNZbFNNNDVrSkdva3ExQjZVdWF1MzlZS3lOSF83ZHAxcWlaV3V1OFZEOHM3bTUxM3hSd1gyZ1J3dG91MUdkbU1DTlhJcUVHODFkXzVPSzdjeHFnR296TlBCYXZOc3BONldnTDZFV3Nlclp5bGVZSWxFbkZCOVBJ?oc=5)
 
@@ -55,11 +63,11 @@ last_modified_at: 2026-11-03
 
 ---
 
-### [社説：インフル流行の長期化 拡大警戒し対策の徹底を](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZVDBBazZ4bU43a3BPZGE1T3B4cHJZanhTTU9TVGlZTE15V0wzWHA3MWlnM1hjWGI3cFRXakN0cDZDZDE1WEJ1VWdXUDAwRWZjazQ3Vl9uRTExVWtDZE9GT0RQdDd5S3BL?oc=5)
+### [《最新研究が明かすインフルエンザワクチンの効果》心筋梗塞や脳卒中などのリスク低減か、認知症予防に関する研究も 60才以上が対象の「新ワクチン」は来年以降の導入へ (1/2)](https://news.google.com/rss/articles/CBMiOEFVX3lxTE1RcmFybi00U19KMjBoeHdKN2dqUUZ2TTBwUjduWmFzY2haTkR5N0J6Wl90RlJuZXU5?oc=5)
 
 2026-11-01
 
-出典: [毎日新聞](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZVDBBazZ4bU43a3BPZGE1T3B4cHJZanhTTU9TVGlZTE15V0wzWHA3MWlnM1hjWGI3cFRXakN0cDZDZDE1WEJ1VWdXUDAwRWZjazQ3Vl9uRTExVWtDZE9GT0RQdDd5S3BL?oc=5)
+出典: [女性セブンプラス](https://news.google.com/rss/articles/CBMiOEFVX3lxTE1RcmFybi00U19KMjBoeHdKN2dqUUZ2TTBwUjduWmFzY2haTkR5N0J6Wl90RlJuZXU5?oc=5)
 
 ---
 
