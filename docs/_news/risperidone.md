@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "リスパダール錠２ｍｇ（選） に関する健康ニュース。予測適応症 5 件。"
 permalink: /news/risperidone/
-last_modified_at: 2026-11-02
+last_modified_at: 2026-11-03
 ---
 
 # リスパダール錠２ｍｇ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-02
 ---
 
 <p class="key-answer" data-question="リスパダール錠２ｍｇ（選） に関するニュースは？">
-<strong>リスパダール錠２ｍｇ（選）</strong> には現在 <strong>12 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>リスパダール錠２ｍｇ（選）</strong> には現在 <strong>11 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -37,13 +37,13 @@ last_modified_at: 2026-11-02
 <p><a href="{{ '/drugs/risperidone/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（12 件）
+## 関連ニュース（11 件）
 
-### [蓋を開けたら歓声があがる！薄切り肉の真ん中に黄色と緑を添えた、目にも鮮やかな「肉のっけ一段弁当」(LIMO)](https://news.yahoo.co.jp/articles/a98f710482fafcc96cdb893aae101fee724ee574?source=rss)
+### [悪性度の高いⅠ期膀胱がん、BCG注入療法で効果得られず　その後の治療はどうする？　がん電話相談から(産経新聞)](https://news.yahoo.co.jp/articles/71074119141152f4d1514d570cb76bf21b8ecbf5?source=rss)
 
 2026-11-02 <span class="news-indication-tag">がん</span>
 
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/a98f710482fafcc96cdb893aae101fee724ee574?source=rss)
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/71074119141152f4d1514d570cb76bf21b8ecbf5?source=rss)
 
 ---
 
@@ -52,14 +52,6 @@ last_modified_at: 2026-11-02
 2026-11-02 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">腫瘍</span>
 
 出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/5c4c70fd6d5e36badb6cc5c78b0a8135c398e42c?source=rss)
-
----
-
-### [肥満症が胃噴門部腺がんを進展させる機序をマウスで解明－東北大](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa1dKNlI0Y1pQY0J1UTdFWVFfUGlGaFpzeDloaUhrSnNaU3NwTmFoLTY2cktBZi1ZNk5PejhvQWN6cmlTZjdPUFNtRk5Kc0s4R2FpNkJaalQ2eEhvS2thZzkzWktFcnl6OHhPLV9kNmhncE9lbUM4MTlPc2dkVEJIZ0xQOTVWalhkWXFINVZDdUtTOWszXzhVWTJMQVhXNllPYW9xdTNCNUxhQWNfRGpuNk1KNjhFaEMtYXhvdWlZY2I4UlpQMDdGVXVfRDRKWl9HRHVvRg?oc=5)
-
-2026-11-02 <span class="news-indication-tag">がん</span>
-
-出典: [QLifePro](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa1dKNlI0Y1pQY0J1UTdFWVFfUGlGaFpzeDloaUhrSnNaU3NwTmFoLTY2cktBZi1ZNk5PejhvQWN6cmlTZjdPUFNtRk5Kc0s4R2FpNkJaalQ2eEhvS2thZzkzWktFcnl6OHhPLV9kNmhncE9lbUM4MTlPc2dkVEJIZ0xQOTVWalhkWXFINVZDdUtTOWszXzhVWTJMQVhXNllPYW9xdTNCNUxhQWNfRGpuNk1KNjhFaEMtYXhvdWlZY2I4UlpQMDdGVXVfRDRKWl9HRHVvRg?oc=5)
 
 ---
 
@@ -111,19 +103,19 @@ last_modified_at: 2026-11-02
 
 ---
 
-### [ドパミンパーシャルアゴニストは統合失調症患者の自殺リスクに影響を及ぼすか｜CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZOFVrNW5QVHRwSHN1a2lIZHRGMmpQcTY5V3d5YlZyaV9USHhHNFZFZF9YYzY2RTJOUFRLc2IxdFdNWF8tSWp6OWd4SHcxM1FQa1dCYWI0aVhoSnpWRjB3?oc=5)
-
-2026-10-27 <span class="news-indication-tag">統合失調症</span>
-
-出典: [CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZOFVrNW5QVHRwSHN1a2lIZHRGMmpQcTY5V3d5YlZyaV9USHhHNFZFZF9YYzY2RTJOUFRLc2IxdFdNWF8tSWp6OWd4SHcxM1FQa1dCYWI0aVhoSnpWRjB3?oc=5)
-
----
-
 ### [「なくなる日が来てほしい」検診とワクチンで“予防できる”も日本では毎年約3000人が命を失う子宮頸がん 治療で命が助かったものの子宮摘出した女性が経験を伝える取り組み 進まぬ“検診”とその要因](https://news.google.com/rss/articles/CBMiVEFVX3lxTE16WmFJZW5NaUNoLUY5VWREY2UxWm5LUVpTLXhBTV8zUFRGaTBNNnF0RkQyeWsxMUlReG5QSUMyVGN5QWJEQXd2LWVTcVNqSG5BMmdvMQ?oc=5)
 
 2026-10-27 <span class="news-indication-tag">がん</span>
 
 出典: [ktv.jp](https://news.google.com/rss/articles/CBMiVEFVX3lxTE16WmFJZW5NaUNoLUY5VWREY2UxWm5LUVpTLXhBTV8zUFRGaTBNNnF0RkQyeWsxMUlReG5QSUMyVGN5QWJEQXd2LWVTcVNqSG5BMmdvMQ?oc=5)
+
+---
+
+### [ドパミンパーシャルアゴニストは統合失調症患者の自殺リスクに影響を及ぼすか｜CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZOFVrNW5QVHRwSHN1a2lIZHRGMmpQcTY5V3d5YlZyaV9USHhHNFZFZF9YYzY2RTJOUFRLc2IxdFdNWF8tSWp6OWd4SHcxM1FQa1dCYWI0aVhoSnpWRjB3?oc=5)
+
+2026-10-27 <span class="news-indication-tag">統合失調症</span>
+
+出典: [CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZOFVrNW5QVHRwSHN1a2lIZHRGMmpQcTY5V3d5YlZyaV9USHhHNFZFZF9YYzY2RTJOUFRLc2IxdFdNWF8tSWp6OWd4SHcxM1FQa1dCYWI0aVhoSnpWRjB3?oc=5)
 
 ---
 

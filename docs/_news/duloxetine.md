@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "サインバルタカプセル３０ｍｇ（選） に関する健康ニュース。予測適応症 10 件。"
 permalink: /news/duloxetine/
-last_modified_at: 2026-11-02
+last_modified_at: 2026-11-03
 ---
 
 # サインバルタカプセル３０ｍｇ（選） 関連ニュース
@@ -44,11 +44,11 @@ last_modified_at: 2026-11-02
 
 ## 関連ニュース（2 件）
 
-### [血糖値をコントロールする方法は、糖尿病に進行するリスクを軽減するのに役立ちます](https://news.google.com/rss/articles/CBMivgFBVV95cUxQOEQwdVFtNTRvNVhINVZ0Z3RKMHlOTnN2VzVBc3JWSWRPejBDa2tqTnVpN2NCYTZSY2pLVDBBZmEzUFpMTklHcWs2OElid2JzTlc5SVpFUTR3OHYyNGF4amtFZlZocGNxWUVmVG5aOFRmcldEN2R6WlM2U0Q5VFItN25sb1EwMnNxOEZ5SV9yQnNhOUFXSVFjN21ha29jV1UxUzAxVktKdVBSZnlzU1FCZlVSenhHSzIwSmRYN2xn?oc=5)
+### [《ヨーグルトやサプリのまとめ摂りは逆効果？》医師が警告する「間違った腸活」の落とし穴 便通とメンタルを整える新常識 (1/1)](https://news.google.com/rss/articles/CBMiSkFVX3lxTFBhc2hCLTA0RTVtbC1GT2JwSk1LY2xWUXBNTG9nLUw5c1hibThSLVdjMU1qc0dVNl9odm5HZmRvU0ZNOGsyV24taERn?oc=5)
 
-2026-10-28 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心臓病</span>
+2026-11-02 <span class="news-indication-tag">動脈硬化</span>
 
-出典: [Laodong.vn](https://news.google.com/rss/articles/CBMivgFBVV95cUxQOEQwdVFtNTRvNVhINVZ0Z3RKMHlOTnN2VzVBc3JWSWRPejBDa2tqTnVpN2NCYTZSY2pLVDBBZmEzUFpMTklHcWs2OElid2JzTlc5SVpFUTR3OHYyNGF4amtFZlZocGNxWUVmVG5aOFRmcldEN2R6WlM2U0Q5VFItN25sb1EwMnNxOEZ5SV9yQnNhOUFXSVFjN21ha29jV1UxUzAxVktKdVBSZnlzU1FCZlVSenhHSzIwSmRYN2xn?oc=5)
+出典: [介護ポストセブン](https://news.google.com/rss/articles/CBMiSkFVX3lxTFBhc2hCLTA0RTVtbC1GT2JwSk1LY2xWUXBNTG9nLUw5c1hibThSLVdjMU1qc0dVNl9odm5HZmRvU0ZNOGsyV24taERn?oc=5)
 
 ---
 

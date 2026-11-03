@@ -3,9 +3,9 @@ layout: default
 title: "脳卒中 (stroke) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "脳卒中 (stroke) に関する健康ニュース。ニュース 2 件、関連医薬品 16 件。"
+description: "脳卒中 (stroke) に関する健康ニュース。ニュース 3 件、関連医薬品 16 件。"
 permalink: /news/stroke/
-last_modified_at: 2026-11-02
+last_modified_at: 2026-11-03
 ---
 
 # 脳卒中 (stroke) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-02
 ---
 
 <p class="key-answer" data-question="脳卒中 (stroke) に関するニュースは？">
-<strong>脳卒中 (stroke)</strong> には現在 <strong>2 件</strong>の関連ニュースと 16 件の関連医薬品があります。
+<strong>脳卒中 (stroke)</strong> には現在 <strong>3 件</strong>の関連ニュースと 16 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -45,7 +45,7 @@ last_modified_at: 2026-11-02
 </ul>
 </div>
 
-## 関連ニュース（2 件）
+## 関連ニュース（3 件）
 
 ### [FPTロンチャウとバイエルが協力して、国民の脳卒中のリスクをスクリーニング](https://news.google.com/rss/articles/CBMirwFBVV95cUxNLVFHazRRdXdkSUlsdjd1VFV2OGR1MFVYa0g2Y2M0b1lBc082ZVl5TUc1Ym1HNDU0ZzNZbFNNNDVrSkdva3ExQjZVdWF1MzlZS3lOSF83ZHAxcWlaV3V1OFZEOHM3bTUxM3hSd1gyZ1J3dG91MUdkbU1DTlhJcUVHODFkXzVPSzdjeHFnR296TlBCYXZOc3BONldnTDZFV3Nlclp5bGVZSWxFbkZCOVBJ?oc=5)
 
@@ -60,6 +60,14 @@ last_modified_at: 2026-11-02
 2026-11-01
 
 出典: [毎日新聞](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZVDBBazZ4bU43a3BPZGE1T3B4cHJZanhTTU9TVGlZTE15V0wzWHA3MWlnM1hjWGI3cFRXakN0cDZDZDE1WEJ1VWdXUDAwRWZjazQ3Vl9uRTExVWtDZE9GT0RQdDd5S3BL?oc=5)
+
+---
+
+### [脳卒中患者の実生活における上肢活動量パターンの特定-ウェアラブルセンサーを用いた横断研究-～ニューロリハビリテーション研究センター - PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE9NX1NfN29mSTd1Z211OFVZdTVTVTVWaTBNZ2E3b3J5blNiQk9DWTVOaU5JaTRST21SSG0wSkc3RTJKMDJhalBEQm9YWWt0Q01YdnZ6SmxEeEdRV2c0dUJqV3NDSGJjZEhzTlE?oc=5)
+
+2026-10-28
+
+出典: [PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE9NX1NfN29mSTd1Z211OFVZdTVTVTVWaTBNZ2E3b3J5blNiQk9DWTVOaU5JaTRST21SSG0wSkc3RTJKMDJhalBEQm9YWWt0Q01YdnZ6SmxEeEdRV2c0dUJqV3NDSGJjZEhzTlE?oc=5)
 
 ---
 

@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "アダラートＣＲ錠４０ｍｇ（選） に関する健康ニュース。予測適応症 0 件。"
 permalink: /news/nifedipine/
-last_modified_at: 2026-11-02
+last_modified_at: 2026-11-03
 ---
 
 # アダラートＣＲ錠４０ｍｇ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-02
 ---
 
 <p class="key-answer" data-question="アダラートＣＲ錠４０ｍｇ（選） に関するニュースは？">
-<strong>アダラートＣＲ錠４０ｍｇ（選）</strong> には現在 <strong>2 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>アダラートＣＲ錠４０ｍｇ（選）</strong> には現在 <strong>1 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,21 +30,13 @@ last_modified_at: 2026-11-02
 <p><a href="{{ '/drugs/nifedipine/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（2 件）
+## 関連ニュース（1 件）
 
 ### [高血圧管理・治療ガイドライン2025を一覧に追加](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVWTdvSVJrN2t4cDY2dnl2U2p2NHdDQ2ZRUVphd2Zic2VrQmM4bFkyajhlSEVJWjRpQUpQTmxDUjV0TER0QkZHZjJUaUl2a0hCMWc?oc=5)
 
 2026-10-28 <span class="news-indication-tag">高血圧</span>
 
 出典: [m3.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBVWTdvSVJrN2t4cDY2dnl2U2p2NHdDQ2ZRUVphd2Zic2VrQmM4bFkyajhlSEVJWjRpQUpQTmxDUjV0TER0QkZHZjJUaUl2a0hCMWc?oc=5)
-
----
-
-### [血糖値をコントロールする方法は、糖尿病に進行するリスクを軽減するのに役立ちます](https://news.google.com/rss/articles/CBMivgFBVV95cUxQOEQwdVFtNTRvNVhINVZ0Z3RKMHlOTnN2VzVBc3JWSWRPejBDa2tqTnVpN2NCYTZSY2pLVDBBZmEzUFpMTklHcWs2OElid2JzTlc5SVpFUTR3OHYyNGF4amtFZlZocGNxWUVmVG5aOFRmcldEN2R6WlM2U0Q5VFItN25sb1EwMnNxOEZ5SV9yQnNhOUFXSVFjN21ha29jV1UxUzAxVktKdVBSZnlzU1FCZlVSenhHSzIwSmRYN2xn?oc=5)
-
-2026-10-28 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心臓病</span>
-
-出典: [Laodong.vn](https://news.google.com/rss/articles/CBMivgFBVV95cUxQOEQwdVFtNTRvNVhINVZ0Z3RKMHlOTnN2VzVBc3JWSWRPejBDa2tqTnVpN2NCYTZSY2pLVDBBZmEzUFpMTklHcWs2OElid2JzTlc5SVpFUTR3OHYyNGF4amtFZlZocGNxWUVmVG5aOFRmcldEN2R6WlM2U0Q5VFItN25sb1EwMnNxOEZ5SV9yQnNhOUFXSVFjN21ha29jV1UxUzAxVktKdVBSZnlzU1FCZlVSenhHSzIwSmRYN2xn?oc=5)
 
 ---
 

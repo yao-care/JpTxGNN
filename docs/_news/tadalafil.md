@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "ザルティア錠５ｍｇ（選） に関する健康ニュース。予測適応症 8 件。"
 permalink: /news/tadalafil/
-last_modified_at: 2026-11-02
+last_modified_at: 2026-11-03
 ---
 
 # ザルティア錠５ｍｇ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-02
 ---
 
 <p class="key-answer" data-question="ザルティア錠５ｍｇ（選） に関するニュースは？">
-<strong>ザルティア錠５ｍｇ（選）</strong> には現在 <strong>3 件</strong>の関連ニュースがあり、予測適応症は 8 件です。
+<strong>ザルティア錠５ｍｇ（選）</strong> には現在 <strong>4 件</strong>の関連ニュースがあり、予測適応症は 8 件です。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ last_modified_at: 2026-11-02
 <p><a href="{{ '/drugs/tadalafil/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（3 件）
+## 関連ニュース（4 件）
+
+### [《ヨーグルトやサプリのまとめ摂りは逆効果？》医師が警告する「間違った腸活」の落とし穴 便通とメンタルを整える新常識 (1/1)](https://news.google.com/rss/articles/CBMiSkFVX3lxTFBhc2hCLTA0RTVtbC1GT2JwSk1LY2xWUXBNTG9nLUw5c1hibThSLVdjMU1qc0dVNl9odm5HZmRvU0ZNOGsyV24taERn?oc=5)
+
+2026-11-02 <span class="news-indication-tag">動脈硬化</span>
+
+出典: [介護ポストセブン](https://news.google.com/rss/articles/CBMiSkFVX3lxTFBhc2hCLTA0RTVtbC1GT2JwSk1LY2xWUXBNTG9nLUw5c1hibThSLVdjMU1qc0dVNl9odm5HZmRvU0ZNOGsyV24taERn?oc=5)
+
+---
 
 ### [FPTロンチャウとバイエルが協力して、国民の脳卒中のリスクをスクリーニング](https://news.google.com/rss/articles/CBMirwFBVV95cUxNLVFHazRRdXdkSUlsdjd1VFV2OGR1MFVYa0g2Y2M0b1lBc082ZVl5TUc1Ym1HNDU0ZzNZbFNNNDVrSkdva3ExQjZVdWF1MzlZS3lOSF83ZHAxcWlaV3V1OFZEOHM3bTUxM3hSd1gyZ1J3dG91MUdkbU1DTlhJcUVHODFkXzVPSzdjeHFnR296TlBCYXZOc3BONldnTDZFV3Nlclp5bGVZSWxFbkZCOVBJ?oc=5)
 
@@ -58,11 +66,11 @@ last_modified_at: 2026-11-02
 
 ---
 
-### [血糖値をコントロールする方法は、糖尿病に進行するリスクを軽減するのに役立ちます](https://news.google.com/rss/articles/CBMivgFBVV95cUxQOEQwdVFtNTRvNVhINVZ0Z3RKMHlOTnN2VzVBc3JWSWRPejBDa2tqTnVpN2NCYTZSY2pLVDBBZmEzUFpMTklHcWs2OElid2JzTlc5SVpFUTR3OHYyNGF4amtFZlZocGNxWUVmVG5aOFRmcldEN2R6WlM2U0Q5VFItN25sb1EwMnNxOEZ5SV9yQnNhOUFXSVFjN21ha29jV1UxUzAxVktKdVBSZnlzU1FCZlVSenhHSzIwSmRYN2xn?oc=5)
+### [脳卒中患者の実生活における上肢活動量パターンの特定-ウェアラブルセンサーを用いた横断研究-～ニューロリハビリテーション研究センター - PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE9NX1NfN29mSTd1Z211OFVZdTVTVTVWaTBNZ2E3b3J5blNiQk9DWTVOaU5JaTRST21SSG0wSkc3RTJKMDJhalBEQm9YWWt0Q01YdnZ6SmxEeEdRV2c0dUJqV3NDSGJjZEhzTlE?oc=5)
 
-2026-10-28 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心臓病</span>
+2026-10-28 <span class="news-indication-tag">脳卒中</span>
 
-出典: [Laodong.vn](https://news.google.com/rss/articles/CBMivgFBVV95cUxQOEQwdVFtNTRvNVhINVZ0Z3RKMHlOTnN2VzVBc3JWSWRPejBDa2tqTnVpN2NCYTZSY2pLVDBBZmEzUFpMTklHcWs2OElid2JzTlc5SVpFUTR3OHYyNGF4amtFZlZocGNxWUVmVG5aOFRmcldEN2R6WlM2U0Q5VFItN25sb1EwMnNxOEZ5SV9yQnNhOUFXSVFjN21ha29jV1UxUzAxVktKdVBSZnlzU1FCZlVSenhHSzIwSmRYN2xn?oc=5)
+出典: [PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE9NX1NfN29mSTd1Z211OFVZdTVTVTVWaTBNZ2E3b3J5blNiQk9DWTVOaU5JaTRST21SSG0wSkc3RTJKMDJhalBEQm9YWWt0Q01YdnZ6SmxEeEdRV2c0dUJqV3NDSGJjZEhzTlE?oc=5)
 
 ---
 

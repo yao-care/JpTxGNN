@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "テノーミン錠５０　５０ｍｇ（選） に関する健康ニュース。予測適応症 5 件。"
 permalink: /news/atenolol/
-last_modified_at: 2026-11-02
+last_modified_at: 2026-11-03
 ---
 
 # テノーミン錠５０　５０ｍｇ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-02
 ---
 
 <p class="key-answer" data-question="テノーミン錠５０　５０ｍｇ（選） に関するニュースは？">
-<strong>テノーミン錠５０　５０ｍｇ（選）</strong> には現在 <strong>13 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>テノーミン錠５０　５０ｍｇ（選）</strong> には現在 <strong>12 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -37,13 +37,21 @@ last_modified_at: 2026-11-02
 <p><a href="{{ '/drugs/atenolol/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（13 件）
+## 関連ニュース（12 件）
 
-### [蓋を開けたら歓声があがる！薄切り肉の真ん中に黄色と緑を添えた、目にも鮮やかな「肉のっけ一段弁当」(LIMO)](https://news.yahoo.co.jp/articles/a98f710482fafcc96cdb893aae101fee724ee574?source=rss)
+### [悪性度の高いⅠ期膀胱がん、BCG注入療法で効果得られず　その後の治療はどうする？　がん電話相談から(産経新聞)](https://news.yahoo.co.jp/articles/71074119141152f4d1514d570cb76bf21b8ecbf5?source=rss)
 
 2026-11-02 <span class="news-indication-tag">がん</span>
 
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/a98f710482fafcc96cdb893aae101fee724ee574?source=rss)
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/71074119141152f4d1514d570cb76bf21b8ecbf5?source=rss)
+
+---
+
+### [《ヨーグルトやサプリのまとめ摂りは逆効果？》医師が警告する「間違った腸活」の落とし穴 便通とメンタルを整える新常識 (1/1)](https://news.google.com/rss/articles/CBMiSkFVX3lxTFBhc2hCLTA0RTVtbC1GT2JwSk1LY2xWUXBNTG9nLUw5c1hibThSLVdjMU1qc0dVNl9odm5HZmRvU0ZNOGsyV24taERn?oc=5)
+
+2026-11-02 <span class="news-indication-tag">動脈硬化</span>
+
+出典: [介護ポストセブン](https://news.google.com/rss/articles/CBMiSkFVX3lxTFBhc2hCLTA0RTVtbC1GT2JwSk1LY2xWUXBNTG9nLUw5c1hibThSLVdjMU1qc0dVNl9odm5HZmRvU0ZNOGsyV24taERn?oc=5)
 
 ---
 
@@ -52,14 +60,6 @@ last_modified_at: 2026-11-02
 2026-11-02 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">腫瘍</span>
 
 出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/5c4c70fd6d5e36badb6cc5c78b0a8135c398e42c?source=rss)
-
----
-
-### [肥満症が胃噴門部腺がんを進展させる機序をマウスで解明－東北大](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa1dKNlI0Y1pQY0J1UTdFWVFfUGlGaFpzeDloaUhrSnNaU3NwTmFoLTY2cktBZi1ZNk5PejhvQWN6cmlTZjdPUFNtRk5Kc0s4R2FpNkJaalQ2eEhvS2thZzkzWktFcnl6OHhPLV9kNmhncE9lbUM4MTlPc2dkVEJIZ0xQOTVWalhkWXFINVZDdUtTOWszXzhVWTJMQVhXNllPYW9xdTNCNUxhQWNfRGpuNk1KNjhFaEMtYXhvdWlZY2I4UlpQMDdGVXVfRDRKWl9HRHVvRg?oc=5)
-
-2026-11-02 <span class="news-indication-tag">がん</span>
-
-出典: [QLifePro](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa1dKNlI0Y1pQY0J1UTdFWVFfUGlGaFpzeDloaUhrSnNaU3NwTmFoLTY2cktBZi1ZNk5PejhvQWN6cmlTZjdPUFNtRk5Kc0s4R2FpNkJaalQ2eEhvS2thZzkzWktFcnl6OHhPLV9kNmhncE9lbUM4MTlPc2dkVEJIZ0xQOTVWalhkWXFINVZDdUtTOWszXzhVWTJMQVhXNllPYW9xdTNCNUxhQWNfRGpuNk1KNjhFaEMtYXhvdWlZY2I4UlpQMDdGVXVfRDRKWl9HRHVvRg?oc=5)
 
 ---
 
@@ -116,14 +116,6 @@ last_modified_at: 2026-11-02
 2026-10-29 <span class="news-indication-tag">がん</span>
 
 出典: [PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZdEFnSGMzc2JQTjQ0bHgzdC1tdVp5U0lucEVsdUxZZzhpMmpLWHRwYmg0QVBhcE12VXM1NWYzeVNjOWt3M090QkFVanY1eTNfcmREUmk0alcyVEVhN2U1cTFwTDlkZkFQZnc?oc=5)
-
----
-
-### [血糖値をコントロールする方法は、糖尿病に進行するリスクを軽減するのに役立ちます](https://news.google.com/rss/articles/CBMivgFBVV95cUxQOEQwdVFtNTRvNVhINVZ0Z3RKMHlOTnN2VzVBc3JWSWRPejBDa2tqTnVpN2NCYTZSY2pLVDBBZmEzUFpMTklHcWs2OElid2JzTlc5SVpFUTR3OHYyNGF4amtFZlZocGNxWUVmVG5aOFRmcldEN2R6WlM2U0Q5VFItN25sb1EwMnNxOEZ5SV9yQnNhOUFXSVFjN21ha29jV1UxUzAxVktKdVBSZnlzU1FCZlVSenhHSzIwSmRYN2xn?oc=5)
-
-2026-10-28 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心臓病</span>
-
-出典: [Laodong.vn](https://news.google.com/rss/articles/CBMivgFBVV95cUxQOEQwdVFtNTRvNVhINVZ0Z3RKMHlOTnN2VzVBc3JWSWRPejBDa2tqTnVpN2NCYTZSY2pLVDBBZmEzUFpMTklHcWs2OElid2JzTlc5SVpFUTR3OHYyNGF4amtFZlZocGNxWUVmVG5aOFRmcldEN2R6WlM2U0Q5VFItN25sb1EwMnNxOEZ5SV9yQnNhOUFXSVFjN21ha29jV1UxUzAxVktKdVBSZnlzU1FCZlVSenhHSzIwSmRYN2xn?oc=5)
 
 ---
 

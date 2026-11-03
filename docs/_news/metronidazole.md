@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "メトロニダゾールゲル０．７５％「マルイシ」 に関する健康ニュース。予測適応症 10 件。"
 permalink: /news/metronidazole/
-last_modified_at: 2026-11-02
+last_modified_at: 2026-11-03
 ---
 
 # メトロニダゾールゲル０．７５％「マルイシ」 関連ニュース
@@ -44,11 +44,19 @@ last_modified_at: 2026-11-02
 
 ## 関連ニュース（14 件）
 
-### [蓋を開けたら歓声があがる！薄切り肉の真ん中に黄色と緑を添えた、目にも鮮やかな「肉のっけ一段弁当」(LIMO)](https://news.yahoo.co.jp/articles/a98f710482fafcc96cdb893aae101fee724ee574?source=rss)
+### [悪性度の高いⅠ期膀胱がん、BCG注入療法で効果得られず　その後の治療はどうする？　がん電話相談から(産経新聞)](https://news.yahoo.co.jp/articles/71074119141152f4d1514d570cb76bf21b8ecbf5?source=rss)
 
 2026-11-02 <span class="news-indication-tag">がん</span>
 
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/a98f710482fafcc96cdb893aae101fee724ee574?source=rss)
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/71074119141152f4d1514d570cb76bf21b8ecbf5?source=rss)
+
+---
+
+### [「疲れが取れない」「やる気が出ない」は年齢のせい？ 『男性更年期』の初期症状を医師が解説](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qQ1hrMmNfVC1fUk1BY285RjNZXzZHYmprdlptLTJ2ZUJWN3VZUlZUQi1FYTlNNzZCMnFUbDZLNmNTNFhvY1dQWXgxOFhtQ3lOUjhRNkVQTXY2SmlW?oc=5)
+
+2026-11-02 <span class="news-indication-tag">更年期</span>
+
+出典: [メディカルドック](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qQ1hrMmNfVC1fUk1BY285RjNZXzZHYmprdlptLTJ2ZUJWN3VZUlZUQi1FYTlNNzZCMnFUbDZLNmNTNFhvY1dQWXgxOFhtQ3lOUjhRNkVQTXY2SmlW?oc=5)
 
 ---
 
@@ -65,14 +73,6 @@ last_modified_at: 2026-11-02
 2026-11-02 <span class="news-indication-tag">帯状疱疹</span>
 
 出典: [佐賀新聞](https://news.google.com/rss/articles/CBMiVkFVX3lxTE93WUlTUjhSMGM1WXZFSmsyMzgwa3FaSmlKazNHT0liLUktaEdITjUwYlZHbFdaZ21QN21jem83QVJYcnJTQ0FoZUZscUI2SHdDWGlQQzF3?oc=5)
-
----
-
-### [肥満症が胃噴門部腺がんを進展させる機序をマウスで解明－東北大](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa1dKNlI0Y1pQY0J1UTdFWVFfUGlGaFpzeDloaUhrSnNaU3NwTmFoLTY2cktBZi1ZNk5PejhvQWN6cmlTZjdPUFNtRk5Kc0s4R2FpNkJaalQ2eEhvS2thZzkzWktFcnl6OHhPLV9kNmhncE9lbUM4MTlPc2dkVEJIZ0xQOTVWalhkWXFINVZDdUtTOWszXzhVWTJMQVhXNllPYW9xdTNCNUxhQWNfRGpuNk1KNjhFaEMtYXhvdWlZY2I4UlpQMDdGVXVfRDRKWl9HRHVvRg?oc=5)
-
-2026-11-02 <span class="news-indication-tag">がん</span>
-
-出典: [QLifePro](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa1dKNlI0Y1pQY0J1UTdFWVFfUGlGaFpzeDloaUhrSnNaU3NwTmFoLTY2cktBZi1ZNk5PejhvQWN6cmlTZjdPUFNtRk5Kc0s4R2FpNkJaalQ2eEhvS2thZzkzWktFcnl6OHhPLV9kNmhncE9lbUM4MTlPc2dkVEJIZ0xQOTVWalhkWXFINVZDdUtTOWszXzhVWTJMQVhXNllPYW9xdTNCNUxhQWNfRGpuNk1KNjhFaEMtYXhvdWlZY2I4UlpQMDdGVXVfRDRKWl9HRHVvRg?oc=5)
 
 ---
 

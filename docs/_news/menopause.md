@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "閉経 (menopause) 関連ニュース"
+title: "更年期 (menopause) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "閉経 (menopause) に関する健康ニュース。ニュース 1 件、関連医薬品 2 件。"
+description: "更年期 (menopause) に関する健康ニュース。ニュース 2 件、関連医薬品 2 件。"
 permalink: /news/menopause/
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 ---
 
-# 閉経 (menopause) 関連ニュース
+# 更年期 (menopause) 関連ニュース
 
 [← ニュース一覧に戻る]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="閉経 (menopause) に関するニュースは？">
-<strong>閉経 (menopause)</strong> には現在 <strong>1 件</strong>の関連ニュースと 2 件の関連医薬品があります。
+<p class="key-answer" data-question="更年期 (menopause) に関するニュースは？">
+<strong>更年期 (menopause)</strong> には現在 <strong>2 件</strong>の関連ニュースと 2 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
-このページは「閉経」に関する最新の健康ニュースをまとめ、JpTxGNN データベースで予測適応症にこの疾患を含む医薬品を一覧表示します。
+このページは「更年期」に関する最新の健康ニュースをまとめ、JpTxGNN データベースで予測適応症にこの疾患を含む医薬品を一覧表示します。
 </div>
 
 <div class="related-drugs-card">
@@ -31,7 +31,15 @@ last_modified_at: 2026-10-31
 </ul>
 </div>
 
-## 関連ニュース（1 件）
+## 関連ニュース（2 件）
+
+### [「疲れが取れない」「やる気が出ない」は年齢のせい？ 『男性更年期』の初期症状を医師が解説](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qQ1hrMmNfVC1fUk1BY285RjNZXzZHYmprdlptLTJ2ZUJWN3VZUlZUQi1FYTlNNzZCMnFUbDZLNmNTNFhvY1dQWXgxOFhtQ3lOUjhRNkVQTXY2SmlW?oc=5)
+
+2026-11-02
+
+出典: [メディカルドック](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qQ1hrMmNfVC1fUk1BY285RjNZXzZHYmprdlptLTJ2ZUJWN3VZUlZUQi1FYTlNNzZCMnFUbDZLNmNTNFhvY1dQWXgxOFhtQ3lOUjhRNkVQTXY2SmlW?oc=5)
+
+---
 
 ### [閉経期の経口ホルモン療法、血栓症リスクは増加するか／BMJ｜CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE52Y1d6dTZ5ekMzeE0yZ1E0bThoYmZHYVd2YjE2NW4ta2VNcjdKdWg5UVVRdjJfUGRyVllJTnN0RUlydUpxWFI5akVZTE9mQ3A3cm54S1hCaDY1TDQtOHYw?oc=5)
 
