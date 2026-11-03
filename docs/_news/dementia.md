@@ -33,11 +33,11 @@ last_modified_at: 2026-11-03
 
 ## 関連ニュース（3 件）
 
-### [糖尿病、数値下げるのは大事だけど…低血糖にご注意 ふらつきや認知症 持続測定器の活用で管理を](https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yS094c01RaDlqTmV1SE85S293cTZoODhIcEJoNGJmXzNmRmdRakNvNy1COXNxRHNMelJ2U0FHSkdvcGZrWnRkZjc4dzJyQVpXNk5J?oc=5)
+### [糖尿病、数値下げるのは大事だけど…低血糖にご注意 ふらつきや認知症 持続測定器の活用で管理を](https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zYkNkVE90eWxoS1RScmhuaUs0YmkzSWdVd0w5ZkIzaEVVbUloeG9ZZENGTm9vbkxnZjJxME1odXhYWVJMRWhvUklld3VUOGJfem55RjJBUFZxaXlZdFcw?oc=5)
 
 2026-11-02
 
-出典: [東京新聞](https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yS094c01RaDlqTmV1SE85S293cTZoODhIcEJoNGJmXzNmRmdRakNvNy1COXNxRHNMelJ2U0FHSkdvcGZrWnRkZjc4dzJyQVpXNk5J?oc=5)
+出典: [東京新聞](https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zYkNkVE90eWxoS1RScmhuaUs0YmkzSWdVd0w5ZkIzaEVVbUloeG9ZZENGTm9vbkxnZjJxME1odXhYWVJMRWhvUklld3VUOGJfem55RjJBUFZxaXlZdFcw?oc=5)
 
 ---
 
