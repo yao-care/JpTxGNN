@@ -4,17 +4,17 @@ title: Erythromycin
 parent: モデル予測のみ
 nav_order: 117
 evidence_level: L5
-indication_count: 5
-last_modified_at: 2026-10-28
+indication_count: 4
+last_modified_at: 2026-11-03
 description: "Erythromycin：予測新適応症は点状表層角結膜炎 (Punctate Epithelial Keratoconjunctivitis)（エビデンスレベル L4）。既存適応症：抗生物質（タンパク質合成阻害薬）：淋菌感染症、軟性下疳、梅毒、性病性リンパ肉芽腫、猩紅熱、ジフテリア、百日咳、破傷風、ガス壊疽、アメーバ赤痢"
 monitor_inn: "Erythromycin"
-predicted_indications: ["punctate epithelial keratoconjunctivitis", "acute contagious conjunctivitis", "exposure keratitis", "lymphogranuloma venereum", "necrotizing ulcerative gingivitis"]
+predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis", "lymphogranuloma venereum", "necrotizing ulcerative gingivitis"]
 ---
 
 # Erythromycin
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **5** 件
+エビデンスレベル: **L5** | 予測適応症: **4** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -65,7 +65,6 @@ TxGNN モデルは**点状表層角結膜炎 (Punctate Epithelial Keratoconjunct
 
 | 順位 | 予測疾患 | スコア | エビデンスレベル | 補足 |
 |------|---------|--------|----------------|------|
-| 2 | 急性伝染性結膜炎 | 0.9955 | L5 | 試験・文献なし。抗菌活性からの推測のみ |
 | 3 | 兎眼性角膜炎 | 0.9950 | L5 | 提供された文献はエリスロマイシンの評価を行っていない |
 | 4 | 性病性リンパ肉芽腫 | 0.9905 | L4 | 既存適応症と一致。文献はレビュー中心で、試験なし |
 | 5 | 壊死性潰瘍性歯肉炎 | 0.9900 | L5 | 古い臨床報告と歯科用抗菌薬のレビューのみ |

@@ -4,17 +4,17 @@ title: Sertraline
 parent: モデル予測のみ
 nav_order: 279
 evidence_level: L5
-indication_count: 8
+indication_count: 7
 monitor_inn: "Sertraline"
-predicted_indications: ["schizoid personality disorder", "schizotypal personality disorder", "paranoid personality disorder", "histrionic personality disorder (disease)", "benign paroxysmal torticollis of infancy", "agoraphobia", "dependent personality disorder", "narcissistic personality disorder"]
-last_modified_at: 2026-10-31
-description: "Sertraline：予測新適応症はシゾイドパーソナリティ障害 (Schizoid Personality Disorder)（エビデンスレベル L5）。既存適応症：うつ病・うつ状態、パニック障害"
+predicted_indications: ["schizoid personality disorder", "schizotypal personality disorder", "paranoid personality disorder", "histrionic personality disorder (disease)", "benign paroxysmal torticollis of infancy", "dependent personality disorder", "narcissistic personality disorder"]
+last_modified_at: 2026-11-03
+description: "Sertraline：予測新適応症はシゾイドパーソナリティ障害 (schizoid personality disorder)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 
 # Sertraline
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **8** 件
+エビデンスレベル: **L5** | 予測適応症: **7** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ description: "Sertraline：予測新適応症はシゾイドパーソナリテ�
 
 </div>
 
-## セルトラリン：うつ病・パニック障害から シゾイドパーソナリティ障害 へ
+## Sertraline: シゾイドパーソナリティ障害 (schizoid personality disorder)
 {: .text-alpha }
 
 ## 一言要約
@@ -46,8 +46,8 @@ TxGNN モデルは**シゾイドパーソナリティ障害 (Schizoid Personalit
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | うつ病・うつ状態、パニック障害 |
-| 予測新規適応症 | シゾイドパーソナリティ障害 (Schizoid Personality Disorder) |
+| 既存適応症 | 日本の承認情報に適応症の記載なし |
+| 予測新規適応症 | シゾイドパーソナリティ障害 (schizoid personality disorder) |
 | TxGNN 予測スコア | 0.9993 |
 | エビデンスレベル | L5 |
 | 日本市販状況 | 販売中（有効な承認 20 件以上） |
@@ -102,7 +102,7 @@ TxGNN モデルは**シゾイドパーソナリティ障害 (Schizoid Personalit
 - 添付文書の警告・禁忌情報の確認
 - 重大な相互作用（ブプロピオンなど）への対応方針の整理
 
-なお、同じ予測リストの中では**広場恐怖症 (Agoraphobia)** が、パニック障害に対するセルトラリンの複数の RCT とメタアナリシスに支えられ、最も根拠が厚い候補です（Proceed with Guardrails）。ただし、これは既承認のパニック障害と大きく重なります。
+ただし、これは既承認のパニック障害と大きく重なります。
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

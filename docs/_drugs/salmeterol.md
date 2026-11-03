@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Salmeterol
-parent: 高エビデンスレベル
+parent: モデル予測のみ
 nav_order: 276
-evidence_level: L1
-indication_count: 5
-last_modified_at: 2026-10-28
+evidence_level: L5
+indication_count: 3
+last_modified_at: 2026-11-03
 monitor_inn: "Salmeterol"
-predicted_indications: ["bronchitis", "respiratory malformation", "obstructive lung disease", "Rienhoff syndrome", "atopic eczema"]
-description: "Salmeterol：予測新適応症は気管支炎 (bronchitis)（エビデンスレベル L1）。既存適応症：日本の承認情報に適応症の記載なし"
+predicted_indications: ["respiratory malformation", "Rienhoff syndrome", "atopic eczema"]
+description: "Salmeterol：予測新適応症はRespiratory malformation（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 
 # Salmeterol
 {: .fs-9 }
 
-エビデンスレベル: **L1** | 予測適応症: **5** 件
+エビデンスレベル: **L5** | 予測適応症: **3** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,23 +33,21 @@ description: "Salmeterol：予測新適応症は気管支炎 (bronchitis)（エ�
 
 </div>
 
-## Salmeterol: 気管支炎 (bronchitis)
+## Salmeterol: Respiratory malformation
 {: .text-alpha }
 
 ## 一言要約
 
 サルメテロールは長時間作用型β2刺激薬（LABA）で、元々肺気腫や気管支喘息の治療に使用されていました。
-TxGNN モデルは**気管支炎 (Bronchitis)** に有効である可能性を予測しており、現在 **9 件の臨床試験**と **20 編の文献**がこの方向性に関連しています。
-ただし、気管支炎を含む COPD は既存適応症（肺気腫）と重なっており、真の再利用というより適応症の延長に近い予測です。
 
 ## クイック概要
 
 | 項目 | 内容 |
 |------|------|
 | 既存適応症 | 日本の承認情報に適応症の記載なし |
-| 予測新規適応症 | 気管支炎 (bronchitis) |
-| TxGNN 予測スコア | 0.9992 |
-| エビデンスレベル | L1 |
+| 予測新規適応症 | Respiratory malformation |
+| TxGNN 予測スコア | 0.9991 |
+| エビデンスレベル | L5 |
 | 日本市販状況 | 販売中（有効な承認 1 件／全 1 件） |
 | 承認番号数 | 1 件（有効 1 件） |
 | 推奨決定 | Proceed with Guardrails |

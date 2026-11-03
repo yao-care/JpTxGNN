@@ -4,17 +4,17 @@ title: Betamethasone
 parent: 高エビデンスレベル
 nav_order: 43
 evidence_level: L2
-indication_count: 8
-last_modified_at: 2026-10-31
-description: "Betamethasone：予測新適応症は円形脱毛症 (Alopecia Areata)（エビデンスレベル L2）。既存適応症：乾癬、掌蹠膿疱症、慢性円板状エリテマトーデス、毛孔性紅色粃糠疹、菌状息肉症、天疱瘡群など（抗炎症薬、鎮痒薬、グルココルチコイド受容体作動薬）"
+indication_count: 7
+last_modified_at: 2026-11-03
 monitor_inn: "Betamethasone"
-predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions"]
+predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions"]
+description: "Betamethasone：予測新適応症はAlopecia mucinosa（エビデンスレベル L2）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 
 # Betamethasone
 {: .fs-9 }
 
-エビデンスレベル: **L2** | 予測適応症: **8** 件
+エビデンスレベル: **L2** | 予測適応症: **7** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,20 +33,19 @@ predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvi
 
 </div>
 
-## ベタメタゾン：炎症性皮膚疾患・自己免疫疾患から円形脱毛症へ
+## Betamethasone: Alopecia mucinosa
 {: .text-alpha }
 
 ## 一言要約
 
 ベタメタゾンはグルココルチコイド受容体作動薬で、元々乾癬、掌蹠膿疱症、天疱瘡などの皮膚疾患や、関節リウマチ、潰瘍性大腸炎などの全身性炎症・自己免疫疾患の治療に使用されていました。
-TxGNN モデルは**円形脱毛症 (Alopecia Areata)** に有効である可能性を予測しており、現在 **6 件の臨床試験**と **20 編の文献**がこの方向性に関連しています。
 
 ## クイック概要
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 乾癬、掌蹠膿疱症、慢性円板状エリテマトーデス、毛孔性紅色粃糠疹、菌状息肉症、天疱瘡群など（抗炎症薬、鎮痒薬、グルココルチコイド受容体作動薬） |
-| 予測新規適応症 | 円形脱毛症 (Alopecia Areata) |
+| 既存適応症 | 日本の承認情報に適応症の記載なし |
+| 予測新規適応症 | Alopecia mucinosa |
 | TxGNN 予測スコア | 0.9997 |
 | エビデンスレベル | L2 |
 | 日本市販状況 | 販売中（有効な承認 20 件以上） |
@@ -59,7 +58,7 @@ TxGNN モデルは**円形脱毛症 (Alopecia Areata)** に有効である可能
 
 円形脱毛症は、毛包の免疫特権が破綻し、T 細胞を介した自己免疫攻撃によって非瘢痕性の脱毛が起こる疾患です。ベタメタゾンの免疫抑制作用はこの攻撃を抑える方向に働くと考えられ、外用、局所注射、経口ミニパルス療法が実臨床で使われてきた根拠にもなっています。
 
-既存適応症の乾癬、エリテマトーデス、天疱瘡などは、いずれも免疫異常を背景とする炎症性疾患です。円形脱毛症も自己免疫疾患であるため、同じ作用機序で効果が期待でき、予測には機序的な整合性があります。
+既存適応症の乾癬、エリテマトーデス、天疱瘡などは、いずれも免疫異常を背景とする炎症性疾患です。
 
 ## 臨床試験エビデンス
 
@@ -67,9 +66,6 @@ TxGNN モデルは**円形脱毛症 (Alopecia Areata)** に有効である可能
 |---------|--------|------|----------|---------|
 | [NCT06786689](https://clinicaltrials.gov/study/NCT06786689) | Phase 2 | 完了 | 60 | 中等度〜重度の円形脱毛症で、ベタメタゾン経口ミニパルス療法と週 1 回アザチオプリンパルス療法の有効性を比較 |
 | [NCT02350023](https://clinicaltrials.gov/study/NCT02350023) | Phase 4 | 完了 | 50 | 限局性円形脱毛症で、外用ラタノプロストと外用コルチコステロイド（ベタメタゾンと思われるが、タイトル切れのため未確認）を無作為比較 |
-| [NCT05803070](https://clinicaltrials.gov/study/NCT05803070) | 該当なし | 不明 | 59 | 限局性円形脱毛症で、外用セチリジン 1% と外用ベタメタゾン吉草酸エステル 0.1% の有効性・安全性を比較 |
-| [NCT06087796](https://clinicaltrials.gov/study/NCT06087796) | Phase 1 | 不明 | 60 | 斑状円形脱毛症で、外用ペントキシフィリン・メトホルミンとベタメタゾン吉草酸エステル 0.1% クリームを比較 |
-| [NCT07696585](https://clinicaltrials.gov/study/NCT07696585) | 該当なし | 募集前 | 60 | 斑状円形脱毛症で、メトホルミン 30%・シンバスタチン 2%・ベタメタゾン吉草酸エステル 0.1% の外用を評価（併用のため単独効果は判別不能） |
 | [NCT04207931](https://clinicaltrials.gov/study/NCT04207931) | Phase 4 | 募集中 | 250 | 中心性遠心性瘢痕性脱毛症の治療成績を比較（円形脱毛症ではないが、炎症性脱毛症へのコルチコステロイド使用を支持） |
 
 ## 文献エビデンス

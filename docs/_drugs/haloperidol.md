@@ -4,17 +4,17 @@ title: Haloperidol
 parent: モデル予測のみ
 nav_order: 154
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 monitor_inn: "Haloperidol"
-predicted_indications: ["congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "syndromic myopia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "atypical glycine encephalopathy", "manic bipolar affective disorder"]
-last_modified_at: 2026-10-31
-description: "Haloperidol：予測新適応症はフコシル化欠損を伴う先天性グリコシル化異常症 (congenital disorder of glycosylation with def…（エビデンスレベル L5）。既存適応症：統合失調症、躁病"
+predicted_indications: ["congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "syndromic myopia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "atypical glycine encephalopathy"]
+last_modified_at: 2026-11-03
+description: "Haloperidol：予測新適応症はフコシル化欠損を伴う先天性グリコシル化異常症 (congenital disorder of glycosylation with defective fucosylation)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 
 # Haloperidol
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **10** 件
+エビデンスレベル: **L5** | 予測適応症: **9** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ description: "Haloperidol：予測新適応症はフコシル化欠損を伴う�
 
 </div>
 
-## ハロペリドール：統合失調症から フコシル化欠損を伴う先天性グリコシル化異常症へ
+## Haloperidol: フコシル化欠損を伴う先天性グリコシル化異常症 (congenital disorder of glycosylation with defective fucosylation)
 {: .text-alpha }
 
 ## 一言要約
@@ -45,7 +45,7 @@ TxGNN モデルは**フコシル化欠損を伴う先天性グリコシル化異
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 統合失調症、躁病 |
+| 既存適応症 | 日本の承認情報に適応症の記載なし |
 | 予測新規適応症 | フコシル化欠損を伴う先天性グリコシル化異常症 (congenital disorder of glycosylation with defective fucosylation) |
 | TxGNN 予測スコア | 0.9991 |
 | エビデンスレベル | L5 |
@@ -64,7 +64,7 @@ TxGNN モデルは**フコシル化欠損を伴う先天性グリコシル化異
 上位 10 件の予測のうち、エビデンスがあるのは次の 2 件だけです。
 
 - **網膜ジストロフィー（順位 2）**：ラットモデルでの網膜神経節細胞の視覚応答に関する動物研究が 2 件（2016 年、2019 年）あります。これは生理学的な反応を示したもので、治療効果を示したものではありません。
-- **躁病性双極性障害（順位 10）**：Phase 3 試験を含む臨床試験と、ネットワークメタアナリシスなどの文献があります。ただし躁病はすでに既存適応症に含まれており、新たな再利用シグナルではありません。
+- ただし躁病はすでに既存適応症に含まれており、新たな再利用シグナルではありません。
 
 近視関連の候補（順位 4、6、7）は、網膜ドパミンが近視進行を抑える方向に働くと考えられているため、D2 拮抗は逆効果になる可能性があります。
 

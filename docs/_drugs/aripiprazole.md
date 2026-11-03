@@ -4,17 +4,17 @@ title: Aripiprazole
 parent: モデル予測のみ
 nav_order: 29
 evidence_level: L5
-indication_count: 9
-last_modified_at: 2026-10-31
-description: "Aripiprazole：予測新適応症は大うつ病性障害 (Major Affective Disorder)（エビデンスレベル L1）。既存適応症：統合失調症、双極性障害における躁症状、うつ病・うつ状態"
+indication_count: 8
+last_modified_at: 2026-11-03
 monitor_inn: "Aripiprazole"
-predicted_indications: ["major affective disorder", "gaze palsy, familial horizontal, with progressive scoliosis", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
+predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
+description: "Aripiprazole：予測新適応症はGaze palsy, familial horizontal, with progressive scoliosis（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 
 # Aripiprazole
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **9** 件
+エビデンスレベル: **L5** | 予測適応症: **8** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,21 +33,21 @@ predicted_indications: ["major affective disorder", "gaze palsy, familial horizo
 
 </div>
 
-## アリピプラゾール：統合失調症から大うつ病性障害（Major Affective Disorder）へ
+## Aripiprazole: Gaze palsy, familial horizontal, with progressive scoliosis
 {: .text-alpha }
 
 ## 一言要約
 
 アリピプラゾールは、元々統合失調症の治療薬として使用され、日本では双極性障害の躁症状やうつ病・うつ状態にも適応を持っています。
-TxGNN モデルは**大うつ病性障害 (Major Affective Disorder)** に有効である可能性を予測しており、今回まとめたデータでは **36 件の臨床試験**と **19 編の文献**がこの方向性に関連しています。ただし、日本の既存ラベルがすでにうつ病・うつ状態を含むため、本件は真の再利用というより、適応内またはそれに近いシグナルです。
+ただし、日本の既存ラベルがすでにうつ病・うつ状態を含むため、本件は真の再利用というより、適応内またはそれに近いシグナルです。
 
 ## クイック概要
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 統合失調症、双極性障害における躁症状、うつ病・うつ状態 |
-| 予測新規適応症 | 大うつ病性障害 (Major Affective Disorder) |
-| TxGNN 予測スコア | 0.9962 |
+| 既存適応症 | 日本の承認情報に適応症の記載なし |
+| 予測新規適応症 | Gaze palsy, familial horizontal, with progressive scoliosis |
+| TxGNN 予測スコア | 0.9960 |
 | エビデンスレベル | L5 |
 | 日本市販状況 | 販売中（有効な承認 20 件以上） |
 | 承認番号数 | 20 件以上 |

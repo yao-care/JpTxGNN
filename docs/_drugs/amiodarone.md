@@ -4,17 +4,17 @@ title: Amiodarone
 parent: 中エビデンスレベル
 nav_order: 23
 evidence_level: L4
-indication_count: 10
+indication_count: 9
 monitor_inn: "Amiodarone"
-predicted_indications: ["catecholaminergic polymorphic ventricular tachycardia", "incessant infant ventricular tachycardia", "ventricular tachycardia", "obsolete bundle branch block", "rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "heparin cofactor 2 deficiency", "trichotillomania", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "gout"]
-last_modified_at: 2026-10-28
-description: "Amiodarone：予測新適応症はカテコラミン誘発多形性心室頻拍 (Catecholaminergic Polymorphic Ventricular Tachycardi…（エビデンスレベル L5）。既存適応症：抗不整脈薬（カリウムチャネル遮断薬）：肥大型心筋症、心房細動"
+predicted_indications: ["catecholaminergic polymorphic ventricular tachycardia", "incessant infant ventricular tachycardia", "obsolete bundle branch block", "rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "heparin cofactor 2 deficiency", "trichotillomania", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "gout"]
+last_modified_at: 2026-11-03
+description: "Amiodarone：予測新適応症はカテコラミン誘発多形性心室頻拍 (catecholaminergic polymorphic ventricular tachycardia)（エビデンスレベル L4）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 
 # Amiodarone
 {: .fs-9 }
 
-エビデンスレベル: **L4** | 予測適応症: **10** 件
+エビデンスレベル: **L4** | 予測適応症: **9** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,21 +33,20 @@ description: "Amiodarone：予測新適応症はカテコラミン誘発多形�
 
 </div>
 
-## アミオダロン：心房細動・肥大型心筋症から カテコラミン誘発多形性心室頻拍 へ
+## Amiodarone: カテコラミン誘発多形性心室頻拍 (catecholaminergic polymorphic ventricular tachycardia)
 {: .text-alpha }
 
 ## 一言要約
 
 アミオダロンはカリウムチャネル遮断作用をもつ抗不整脈薬で、元々は心房細動や肥大型心筋症に関連する不整脈の治療に使用されていました。
 TxGNN モデルは最上位の予測として**カテコラミン誘発多形性心室頻拍 (CPVT)** に有効である可能性を示しています。ただし、この疾患を直接支持する臨床試験はなく、文献も症例報告・コホート研究が中心です。
-一方、予測順位 3 位の**心室頻拍 (Ventricular Tachycardia)** には複数の Phase 3/4 臨床試験と RCT があり、最も裏付けが厚い候補です。本レポートでは、ご指定の順序に従って最上位予測の CPVT を中心に記載し、心室頻拍については補足として併記します。
 
 ## クイック概要
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 抗不整脈薬（カリウムチャネル遮断薬）：肥大型心筋症、心房細動 |
-| 予測新規適応症 | カテコラミン誘発多形性心室頻拍 (Catecholaminergic Polymorphic Ventricular Tachycardia) |
+| 既存適応症 | 日本の承認情報に適応症の記載なし |
+| 予測新規適応症 | カテコラミン誘発多形性心室頻拍 (catecholaminergic polymorphic ventricular tachycardia) |
 | TxGNN 予測スコア | 0.9978 |
 | エビデンスレベル | L4（参考：心室頻拍は L1） |
 | 日本市販状況 | 販売中（有効な承認 11 件／全 11 件） |
@@ -66,7 +65,6 @@ TxGNN モデルは最上位の予測として**カテコラミン誘発多形性
 
 CPVT に対する臨床試験の登録は、現在ありません。
 
-参考として、予測順位 3 位の心室頻拍に対する主な試験を示します（関連性の高いものを抜粋）。
 
 | 試験番号 | フェーズ | 状態 | 被験者数 | 主な知見 |
 |---------|--------|------|----------|---------|

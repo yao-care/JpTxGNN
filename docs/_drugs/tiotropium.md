@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Tiotropium
-parent: 高エビデンスレベル
+parent: モデル予測のみ
 nav_order: 308
-evidence_level: L1
-indication_count: 5
+evidence_level: L5
+indication_count: 4
 last_modified_at: 2026-11-03
-description: "Tiotropium：予測新適応症は閉塞性肺疾患 (Obstructive Lung Disease)（エビデンスレベル L1）。既存適応症：気管支炎、喘息、内因性喘息、アレルギー性喘息、肺気腫"
 monitor_inn: "Tiotropium"
-predicted_indications: ["obstructive lung disease", "respiratory malformation", "Rienhoff syndrome", "hyperlucent lung", "tracheal stenosis"]
+predicted_indications: ["respiratory malformation", "Rienhoff syndrome", "hyperlucent lung", "tracheal stenosis"]
+description: "Tiotropium：予測新適応症はRespiratory malformation（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 
 # Tiotropium
 {: .fs-9 }
 
-エビデンスレベル: **L1** | 予測適応症: **5** 件
+エビデンスレベル: **L5** | 予測適応症: **4** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,23 +33,22 @@ predicted_indications: ["obstructive lung disease", "respiratory malformation", 
 
 </div>
 
-## チオトロピウム：気管支炎・喘息・肺気腫から閉塞性肺疾患へ
+## Tiotropium: Respiratory malformation
 {: .text-alpha }
 
 ## 一言要約
 
 チオトロピウムは長時間作用型の抗コリン薬（吸入）で、元々気管支炎、喘息、肺気腫などの治療に使用されていました。
-TxGNN モデルは**閉塞性肺疾患 (Obstructive Lung Disease)** に有効である可能性を予測しており、現在 **35 件以上の臨床試験**と **20 編の文献**がこの方向性を支持しています。
 ただし、この適応症は既存の適応症と重なっており、新規の再利用というより既知の効果の確認にあたります。
 
 ## クイック概要
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 気管支炎、喘息、内因性喘息、アレルギー性喘息、肺気腫 |
-| 予測新規適応症 | 閉塞性肺疾患 (Obstructive Lung Disease) |
-| TxGNN 予測スコア | 0.9999 |
-| エビデンスレベル | L1 |
+| 既存適応症 | 日本の承認情報に適応症の記載なし |
+| 予測新規適応症 | Respiratory malformation |
+| TxGNN 予測スコア | 0.9995 |
+| エビデンスレベル | L5 |
 | 日本市販状況 | 販売中（有効な承認 3 件／全 3 件） |
 | 承認番号数 | 3 件（有効 3 件） |
 | 推奨決定 | Proceed with Guardrails |

@@ -4,17 +4,17 @@ title: Risperidone
 parent: モデル予測のみ
 nav_order: 267
 evidence_level: L5
-indication_count: 5
+indication_count: 4
 last_modified_at: 2026-11-03
 monitor_inn: "Risperidone"
-predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania", "major affective disorder"]
+predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania"]
 description: "Risperidone：予測新適応症はGaze palsy, familial horizontal, with progressive scoliosis（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 
 # Risperidone
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **5** 件
+エビデンスレベル: **L5** | 予測適応症: **4** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -41,8 +41,6 @@ description: "Risperidone：予測新適応症はGaze palsy, familial horizontal
 ## 一言要約
 
 リスペリドンは非定型抗精神病薬で、元々統合失調症の治療に使用されていました。
-TxGNN モデルは**気分障害 (Major affective disorder)** に有効である可能性を予測しており、
-現在 **11 件の臨床試験**（うち Phase 3 が 4 件完了）と **20 編の文献**（メタアナリシス 4 編を含む）がこの方向性を支持しています。
 
 ## クイック概要
 

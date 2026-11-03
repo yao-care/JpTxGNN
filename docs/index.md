@@ -2,7 +2,7 @@
 layout: default
 title: ドラッグリポジショニング検証報告
 nav_order: 1
-description: "AI を用いて日本医療用医薬品の潜在的新適応症を予測。385 種の医薬品について、既知用途を除外した 1,663 件の予測新適応症を提供。"
+description: "AI を用いて日本医療用医薬品の潜在的新適応症を予測。385 種の医薬品について、既知用途を除外した 1,642 件の予測新適応症を提供。"
 permalink: /
 image: /assets/images/og-default.png
 ---
@@ -10,7 +10,7 @@ image: /assets/images/og-default.png
 # ドラッグリポジショニング、データからエビデンスへ
 
 <p class="key-answer" data-question="JpTxGNN ドラッグリポジショニング検証報告とは？">
-<strong>JpTxGNN</strong> は、ハーバード大学 TxGNN モデルに基づくドラッグリポジショニング予測プラットフォームです。AI により <strong>1,663</strong> 件の新適応症（既知用途を除外）を予測し、<strong>385</strong> 種の日本医療用医薬品に対して予測から検証までの完全なレポートを提供します。
+<strong>JpTxGNN</strong> は、ハーバード大学 TxGNN モデルに基づくドラッグリポジショニング予測プラットフォームです。AI により <strong>1,642</strong> 件の新適応症（既知用途を除外）を予測し、<strong>385</strong> 種の日本医療用医薬品に対して予測から検証までの完全なレポートを提供します。
 </p>
 
 <div class="key-takeaway">
@@ -160,7 +160,7 @@ image: /assets/images/og-default.png
     <div class="stat-label">DrugBank マッピング</div>
   </div>
   <div class="stat-card" style="background: linear-gradient(135deg, #ee0979 0%, #ff6a00 100%);">
-    <div class="stat-number">1,663</div>
+    <div class="stat-number">1,642</div>
     <div class="stat-label">予測新適応症</div>
   </div>
   <div class="stat-card" style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);">
@@ -199,7 +199,7 @@ image: /assets/images/og-default.png
 | 項目 | 数量 |
 |------|------|
 | 医薬品レポート | 385 件 |
-| 予測新適応症 | 1,663 件 |
+| 予測新適応症 | 1,642 件 |
 
 ### 予測フロー
 

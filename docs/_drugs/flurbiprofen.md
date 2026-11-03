@@ -4,17 +4,17 @@ title: Flurbiprofen
 parent: モデル予測のみ
 nav_order: 138
 evidence_level: L5
-indication_count: 9
-last_modified_at: 2026-10-28
-description: "Flurbiprofen：予測新適応症は先端中肢異形成 Hunter-Thompson 型 (Acromesomelic dysplasia…（エビデンスレベル L5）。既存適応症：関節リウマチ（鎮痛薬・抗炎症薬・シクロオキシゲナーゼ阻害薬）"
+indication_count: 8
+last_modified_at: 2026-11-03
 monitor_inn: "Flurbiprofen"
-predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "ankylosing spondylitis", "pseudoachondroplasia", "hypermobility of coccyx"]
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "hypermobility of coccyx"]
+description: "Flurbiprofen：予測新適応症は先端中肢異形成 Hunter-Thompson 型 (acromesomelic dysplasia, Hunter-Thompson type)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 
 # Flurbiprofen
 {: .fs-9 }
 
-エビデンスレベル: **L5** | 予測適応症: **9** 件
+エビデンスレベル: **L5** | 予測適応症: **8** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachy
 
 </div>
 
-## フルルビプロフェン：関節リウマチから先端中間異形成 Hunter-Thompson 型へ
+## Flurbiprofen: 先端中肢異形成 Hunter-Thompson 型 (acromesomelic dysplasia, Hunter-Thompson type)
 {: .text-alpha }
 
 ## 一言要約
@@ -46,8 +46,8 @@ TxGNN モデルは、遺伝性骨格疾患である**先端中肢異形成 Hunte
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 関節リウマチ（鎮痛薬・抗炎症薬・シクロオキシゲナーゼ阻害薬） |
-| 予測新規適応症 | 先端中肢異形成 Hunter-Thompson 型 (Acromesomelic dysplasia, Hunter-Thompson type) |
+| 既存適応症 | 日本の承認情報に適応症の記載なし |
+| 予測新規適応症 | 先端中肢異形成 Hunter-Thompson 型 (acromesomelic dysplasia, Hunter-Thompson type) |
 | TxGNN 予測スコア | 0.9999 |
 | エビデンスレベル | L5 |
 | 日本市販状況 | 販売中（有効な承認 10 件／全 10 件） |
@@ -64,7 +64,7 @@ TxGNN モデルは、遺伝性骨格疾患である**先端中肢異形成 Hunte
 
 同じ上位 10 件には、根拠の強さが異なる候補が含まれています。
 
-- **強直性脊椎炎 (Ankylosing spondylitis)**（順位 8、スコア 0.9997）は、唯一エビデンスのある候補です。評価は L2、推奨は Proceed with Guardrails です。COX 阻害は強直性脊椎炎の第一選択治療の機序であり、関節リウマチという既存適応症にも近い疾患です。
+- 評価は L2、推奨は Proceed with Guardrails です。COX 阻害は強直性脊椎炎の第一選択治療の機序であり、関節リウマチという既存適応症にも近い疾患です。
 - 残りの候補（短指症・合指症候群、偽性軟骨無形成症、尾骨過可動性など）は、いずれも L5 で Hold です。
 
 ## 臨床試験エビデンス
@@ -75,7 +75,7 @@ TxGNN モデルは、遺伝性骨格疾患である**先端中肢異形成 Hunte
 
 先端中肢異形成 Hunter-Thompson 型については、現在、関連する文献はありません。
 
-参考として、強直性脊椎炎（順位 8）では、以下のランダム化比較試験が確認されています。いずれも古く小規模な、実薬対照の試験です。
+いずれも古く小規模な、実薬対照の試験です。
 
 | PMID | 年 | タイプ | ジャーナル | 主な知見 |
 |------|-----|------|------|---------|
@@ -123,7 +123,7 @@ TxGNN モデルは、遺伝性骨格疾患である**先端中肢異形成 Hunte
 - 詳細な作用機序データの取得
 - 添付文書の警告・禁忌情報の取得（現時点では安全性スクリーニングに進めません）
 - 外用テープ剤が対象疾患の投与経路に適合するかの検討
-- 優先候補の見直し：根拠のある強直性脊椎炎（L2）を主候補として再評価する案があります。その場合は、古く小規模な試験が中心である点を踏まえ、現行ガイドライン下での NSAID の位置づけ、消化器・心血管・腎リスク、相互作用に配慮した条件付き（Proceed with Guardrails）での検討になります。
+- その場合は、古く小規模な試験が中心である点を踏まえ、現行ガイドライン下での NSAID の位置づけ、消化器・心血管・腎リスク、相互作用に配慮した条件付き（Proceed with Guardrails）での検討になります。
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

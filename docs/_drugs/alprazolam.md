@@ -4,17 +4,17 @@ title: Alprazolam
 parent: 中エビデンスレベル
 nav_order: 21
 evidence_level: L4
-indication_count: 3
-last_modified_at: 2026-10-28
-description: "Alprazolam：予測新適応症は不眠症 (Insomnia)（エビデンスレベル L4）。既存適応症：抗不安薬、マイナートランキライザー、催眠鎮静薬"
+indication_count: 2
+last_modified_at: 2026-11-03
 monitor_inn: "Alprazolam"
-predicted_indications: ["insomnia (disease)", "benign paroxysmal torticollis of infancy", "agoraphobia"]
+predicted_indications: ["insomnia (disease)", "benign paroxysmal torticollis of infancy"]
+description: "Alprazolam：予測新適応症は不眠症 (insomnia (disease))（エビデンスレベル L4）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 
 # Alprazolam
 {: .fs-9 }
 
-エビデンスレベル: **L4** | 予測適応症: **3** 件
+エビデンスレベル: **L4** | 予測適応症: **2** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["insomnia (disease)", "benign paroxysmal torticollis of 
 
 </div>
 
-## アルプラゾラム：抗不安薬から不眠症へ
+## Alprazolam: 不眠症 (insomnia (disease))
 {: .text-alpha }
 
 ## 一言要約
@@ -45,8 +45,8 @@ TxGNN モデルは**不眠症 (insomnia)** に有効である可能性を予測�
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 抗不安薬、マイナートランキライザー、催眠鎮静薬 |
-| 予測新規適応症 | 不眠症 (Insomnia) |
+| 既存適応症 | 日本の承認情報に適応症の記載なし |
+| 予測新規適応症 | 不眠症 (insomnia (disease)) |
 | TxGNN 予測スコア | 0.9981 |
 | エビデンスレベル | L4 |
 | 日本市販状況 | 販売中（有効な承認 14 件／全 14 件） |

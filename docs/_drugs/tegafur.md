@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Tegafur
-parent: 高エビデンスレベル
+parent: モデル予測のみ
 nav_order: 297
-evidence_level: L1
-indication_count: 10
+evidence_level: L5
+indication_count: 8
 monitor_inn: "Tegafur"
-predicted_indications: ["colonic neoplasm", "cecum villous adenoma", "cecum neuroendocrine tumor G1", "lipoma of colon", "cecal disease", "colon leiomyoma", "benign neoplasm of cecum", "rectosigmoid junction neoplasm", "colonic lymphangioma", "cavernous hemangioma of colon"]
-last_modified_at: 2026-10-28
-description: "Tegafur：予測新適応症は大腸腫瘍 (colonic neoplasm)（エビデンスレベル L1）。既存適応症：日本の承認情報に適応症の記載なし"
+predicted_indications: ["cecum villous adenoma", "cecum neuroendocrine tumor G1", "lipoma of colon", "cecal disease", "colon leiomyoma", "benign neoplasm of cecum", "colonic lymphangioma", "cavernous hemangioma of colon"]
+last_modified_at: 2026-11-03
+description: "Tegafur：予測新適応症はCecum villous adenoma（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 
 # Tegafur
 {: .fs-9 }
 
-エビデンスレベル: **L1** | 予測適応症: **10** 件
+エビデンスレベル: **L5** | 予測適応症: **8** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,22 +33,21 @@ description: "Tegafur：予測新適応症は大腸腫瘍 (colonic neoplasm)（�
 
 </div>
 
-## Tegafur: 大腸腫瘍 (colonic neoplasm)
+## Tegafur: Cecum villous adenoma
 {: .text-alpha }
 
 ## 一言要約
 
 テガフールは経口フッ化ピリミジン系の抗がん薬（5-FU のプロドラッグ）で、元々胃癌の治療に使用されていました。
-TxGNN モデルは**大腸腫瘍 (Colonic Neoplasm)** に有効である可能性を予測しており、現在 **16 件の臨床試験**と **20 編の文献**がこの方向性に関連しています。
 
 ## クイック概要
 
 | 項目 | 内容 |
 |------|------|
 | 既存適応症 | 日本の承認情報に適応症の記載なし |
-| 予測新規適応症 | 大腸腫瘍 (colonic neoplasm) |
-| TxGNN 予測スコア | 0.9990 |
-| エビデンスレベル | L1 |
+| 予測新規適応症 | Cecum villous adenoma |
+| TxGNN 予測スコア | 0.9986 |
+| エビデンスレベル | L5 |
 | 日本市販状況 | 販売中（有効な承認 6 件／全 6 件） |
 | 承認番号数 | 6 件（有効 6 件） |
 | 推奨決定 | Proceed with Guardrails |

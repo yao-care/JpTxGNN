@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Luliconazole
-parent: 高エビデンスレベル
+parent: モデル予測のみ
 nav_order: 198
-evidence_level: L2
-indication_count: 3
-last_modified_at: 2026-10-28
-description: "Luliconazole：予測新適応症は癜風 (Pityriasis Versicolor)（エビデンスレベル L2）。既存適応症：足白癬、体部白癬、白癬感染症、股部・肛門周囲の皮膚糸状菌症"
+evidence_level: L5
+indication_count: 2
+last_modified_at: 2026-11-03
 monitor_inn: "Luliconazole"
-predicted_indications: ["pityriasis versicolor", "endothrix infectious disease", "ectothrix infectious disease"]
+predicted_indications: ["endothrix infectious disease", "ectothrix infectious disease"]
+description: "Luliconazole：予測新適応症はEndothrix infectious disease（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 
 # Luliconazole
 {: .fs-9 }
 
-エビデンスレベル: **L2** | 予測適応症: **3** 件
+エビデンスレベル: **L5** | 予測適応症: **2** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,22 +33,21 @@ predicted_indications: ["pityriasis versicolor", "endothrix infectious disease",
 
 </div>
 
-## ルリコナゾール：白癬から癜風へ
+## Luliconazole: Endothrix infectious disease
 {: .text-alpha }
 
 ## 一言要約
 
 ルリコナゾールはイミダゾール系の外用抗真菌薬で、元々足白癬、体部白癬、股部・肛門周囲の皮膚糸状菌症などの白癬の治療に使われていました。
-TxGNN モデルは**癜風 (Pityriasis Versicolor)** に有効である可能性を予測しており、現在 **1 件の臨床試験**と **2 編の文献**がこの方向性を支持しています。
 
 ## クイック概要
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 足白癬、体部白癬、白癬感染症、股部・肛門周囲の皮膚糸状菌症 |
-| 予測新規適応症 | 癜風 (Pityriasis Versicolor) |
-| TxGNN 予測スコア | 0.9913 |
-| エビデンスレベル | L2 |
+| 既存適応症 | 日本の承認情報に適応症の記載なし |
+| 予測新規適応症 | Endothrix infectious disease |
+| TxGNN 予測スコア | 0.9910 |
+| エビデンスレベル | L5 |
 | 日本市販状況 | 販売中（有効な承認 1 件／全 1 件） |
 | 承認番号数 | 1 件（有効 1 件） |
 | 推奨決定 | Proceed with Guardrails |
@@ -65,7 +64,6 @@ TxGNN モデルは**癜風 (Pityriasis Versicolor)** に有効である可能性
 
 | 試験番号 | フェーズ | 状態 | 被験者数 | 主な知見 |
 |---------|--------|------|----------|---------|
-| [NCT07333170](https://clinicaltrials.gov/study/NCT07333170) | Phase 4 | 募集開始前 | 86 | 癜風におけるルリコナゾール 2% クリームとケトコナゾール 1% クリームの直接比較ランダム化試験（2026 年 2 月開始、同年 11 月完了予定）。結果は未公表 |
 
 ## 文献エビデンス
 

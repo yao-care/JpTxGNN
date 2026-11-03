@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Dexamethasone
-parent: 高エビデンスレベル
+parent: モデル予測のみ
 nav_order: 90
-evidence_level: L2
-indication_count: 10
+evidence_level: L5
+indication_count: 9
 monitor_inn: "Dexamethasone"
-predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo", "prolapse of lacrimal gland"]
-last_modified_at: 2026-10-31
-description: "Dexamethasone：予測新適応症は円形脱毛症 (alopecia areata)（エビデンスレベル L2）。既存適応症：乾癬、掌蹠膿疱症、慢性円板状エリテマトーデス、関節リウマチ、全身性エリテマトーデス、気管支喘息など（炎症・自己免疫疾患全般）"
+predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo", "prolapse of lacrimal gland"]
+last_modified_at: 2026-11-03
+description: "Dexamethasone：予測新適応症はAlopecia mucinosa（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 
 # Dexamethasone
 {: .fs-9 }
 
-エビデンスレベル: **L2** | 予測適応症: **10** 件
+エビデンスレベル: **L5** | 予測適応症: **9** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,22 +33,21 @@ description: "Dexamethasone：予測新適応症は円形脱毛症 (alopecia are
 
 </div>
 
-## デキサメタゾン：炎症・自己免疫疾患から円形脱毛症へ
+## Dexamethasone: Alopecia mucinosa
 {: .text-alpha }
 
 ## 一言要約
 
 デキサメタゾンは強力なグルココルチコイド受容体作動薬で、元々は乾癬、関節リウマチ、全身性エリテマトーデスなど幅広い炎症・自己免疫疾患に使用されていました。
-TxGNN モデルは**円形脱毛症 (alopecia areata)** に有効である可能性を予測しており、登録された臨床試験はありませんが、**RCT 1 件を含む 20 編の文献**がこの方向性を支持しています。
 
 ## クイック概要
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 乾癬、掌蹠膿疱症、慢性円板状エリテマトーデス、関節リウマチ、全身性エリテマトーデス、気管支喘息など（炎症・自己免疫疾患全般） |
-| 予測新規適応症 | 円形脱毛症 (alopecia areata) |
+| 既存適応症 | 日本の承認情報に適応症の記載なし |
+| 予測新規適応症 | Alopecia mucinosa |
 | TxGNN 予測スコア | 0.9999 |
-| エビデンスレベル | L2 |
+| エビデンスレベル | L5 |
 | 日本市販状況 | 販売中（有効な承認 20 件以上） |
 | 承認番号数 | 20 件以上 |
 | 推奨決定 | Proceed with Guardrails |

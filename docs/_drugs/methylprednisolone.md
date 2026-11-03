@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Methylprednisolone
-parent: 中エビデンスレベル
+parent: モデル予測のみ
 nav_order: 206
-evidence_level: L3
-indication_count: 9
-last_modified_at: 2026-10-28
-description: "Methylprednisolone：予測新適応症は円形脱毛症 (Alopecia Areata)（エビデンスレベル L3）。既存適応症：自己免疫疾患、クローン病、副腎皮質機能不全、急性リンパ芽球性白血病など（承認適応症の記載データはありません）"
+evidence_level: L5
+indication_count: 8
+last_modified_at: 2026-11-03
 monitor_inn: "Methylprednisolone"
-predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
+predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
+description: "Methylprednisolone：予測新適応症はAlopecia mucinosa（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 
 # Methylprednisolone
 {: .fs-9 }
 
-エビデンスレベル: **L3** | 予測適応症: **9** 件
+エビデンスレベル: **L5** | 予測適応症: **8** 件
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,22 +33,21 @@ predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvi
 
 </div>
 
-## メチルプレドニゾロン：自己免疫疾患・副腎皮質機能不全などから円形脱毛症へ
+## Methylprednisolone: Alopecia mucinosa
 {: .text-alpha }
 
 ## 一言要約
 
 メチルプレドニゾロンは合成グルココルチコイドで、元々自己免疫疾患、クローン病、副腎皮質機能不全、急性リンパ芽球性白血病などに関連する適応症で使用されてきました。
-TxGNN モデルは**円形脱毛症 (Alopecia Areata)** に有効である可能性を予測しており、現在 **1 件の臨床試験**と **20 編の文献**がこの方向性を支持しています。
 
 ## クイック概要
 
 | 項目 | 内容 |
 |------|------|
-| 既存適応症 | 自己免疫疾患、クローン病、副腎皮質機能不全、急性リンパ芽球性白血病など（承認適応症の記載データはありません） |
-| 予測新規適応症 | 円形脱毛症 (Alopecia Areata) |
+| 既存適応症 | 日本の承認情報に適応症の記載なし |
+| 予測新規適応症 | Alopecia mucinosa |
 | TxGNN 予測スコア | 0.9999 |
-| エビデンスレベル | L3 |
+| エビデンスレベル | L5 |
 | 日本市販状況 | 販売中（有効な承認 9 件／全 9 件） |
 | 承認番号数 | 9 件（有効 9 件） |
 | 推奨決定 | Proceed with Guardrails |
