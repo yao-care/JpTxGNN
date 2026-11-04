@@ -1,6 +1,6 @@
 {
   "total": 296,
-  "generated_at": "2026-11-04T05:22:54.273292",
+  "generated_at": "2026-11-04T19:29:44.342729",
   "drugs": [
     {
       "name": "Abatacept",
@@ -150,7 +150,7 @@
     {
       "name": "Alprazolam",
       "file": "alprazolam.md",
-      "evidence_level": "L5",
+      "evidence_level": "L3",
       "indication_count": 2,
       "predicted_indication": "",
       "inn": "Alprazolam",
@@ -1201,7 +1201,7 @@
     {
       "name": "Diazepam",
       "file": "diazepam.md",
-      "evidence_level": "L4",
+      "evidence_level": "L2",
       "indication_count": 10,
       "predicted_indication": "",
       "inn": "Diazepam",
@@ -1769,7 +1769,7 @@
     {
       "name": "Flecainide",
       "file": "flecainide.md",
-      "evidence_level": "L4",
+      "evidence_level": "L5",
       "indication_count": 9,
       "predicted_indication": "",
       "inn": "Flecainide",
@@ -2384,7 +2384,7 @@
     {
       "name": "Lenvatinib",
       "file": "lenvatinib.md",
-      "evidence_level": "L2",
+      "evidence_level": "L3",
       "indication_count": 5,
       "predicted_indication": "",
       "inn": "Lenvatinib",
@@ -2591,7 +2591,7 @@
     {
       "name": "Lornoxicam",
       "file": "lornoxicam.md",
-      "evidence_level": "L2",
+      "evidence_level": "L5",
       "indication_count": 8,
       "predicted_indication": "",
       "inn": "lornoxicam",
@@ -3749,7 +3749,7 @@
     {
       "name": "Sorafenib",
       "file": "sorafenib.md",
-      "evidence_level": "L2",
+      "evidence_level": "L5",
       "indication_count": 6,
       "predicted_indication": "",
       "inn": "Sorafenib",
