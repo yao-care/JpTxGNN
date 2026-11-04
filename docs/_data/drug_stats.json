@@ -1,12 +1,12 @@
 {
-  "generated": "2026-11-03",
+  "generated": "2026-11-04",
   "total_drugs": 385,
   "level_counts": {
     "L1": 2,
-    "L2": 17,
-    "L3": 8,
-    "L4": 16,
-    "L5": 253
+    "L2": 16,
+    "L3": 10,
+    "L4": 14,
+    "L5": 254
   },
   "all_drugs": [
     {
@@ -96,7 +96,7 @@
     {
       "name": "Alprazolam",
       "slug": "alprazolam",
-      "level": "L5",
+      "level": "L3",
       "indication_count": 2
     },
     {
@@ -594,7 +594,7 @@
     {
       "name": "Diazepam",
       "slug": "diazepam",
-      "level": "L4",
+      "level": "L2",
       "indication_count": 10
     },
     {
@@ -864,7 +864,7 @@
     {
       "name": "Flecainide",
       "slug": "flecainide",
-      "level": "L4",
+      "level": "L5",
       "indication_count": 9
     },
     {
@@ -1164,7 +1164,7 @@
     {
       "name": "Lenvatinib",
       "slug": "lenvatinib",
-      "level": "L2",
+      "level": "L3",
       "indication_count": 5
     },
     {
@@ -1884,7 +1884,7 @@
     {
       "name": "Sorafenib",
       "slug": "sorafenib",
-      "level": "L2",
+      "level": "L5",
       "indication_count": 6
     },
     {
