@@ -3,9 +3,9 @@ layout: default
 title: "がん (generic_cancer) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "がん (generic_cancer) に関する健康ニュース。ニュース 10 件、関連医薬品 67 件。"
+description: "がん (generic_cancer) に関する健康ニュース。ニュース 11 件、関連医薬品 67 件。"
 permalink: /news/generic-cancer/
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-04
 ---
 
 # がん (generic_cancer) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="がん (generic_cancer) に関するニュースは？">
-<strong>がん (generic_cancer)</strong> には現在 <strong>10 件</strong>の関連ニュースと 67 件の関連医薬品があります。
+<strong>がん (generic_cancer)</strong> には現在 <strong>11 件</strong>の関連ニュースと 67 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -94,13 +94,29 @@ last_modified_at: 2026-11-03
 </ul>
 </div>
 
-## 関連ニュース（10 件）
+## 関連ニュース（11 件）
 
-### [【すい臓がん治療最前線】画期的新薬「ダラクソンラシブ」に高まる期待 「百年に一度の薬」と絶賛されるも、日本で保険診療として承認されるためには“高すぎる薬価”の壁](https://news.google.com/rss/articles/CBMiR0FVX3lxTFBMOXZ5ZzlSdVhpMXNwSGlfU1Z6b3lTX2tHRkZXOTVua3M1eGhjbS1na1Jkc0otRVhUdVpmVzV2TGNnTUhVb2hF?oc=5)
+### [知っておきたいがんの「ステージ」。数字が大きいほどがんは進行。病期を知ることで、今後の見通しが立てられる(婦人公論.jp)](https://news.yahoo.co.jp/articles/3a8ea3b5e7166d482ee9517912a7182b2ed8575a?source=rss)
+
+2026-11-04
+
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/3a8ea3b5e7166d482ee9517912a7182b2ed8575a?source=rss)
+
+---
+
+### [＜女性向け検診のススメ＞子宮頸がん検診や乳がん検診、受けるべきだけど…東京都の取り組みは](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5DRUZDOTZqUkdrVnIwV1lYWENNS0d0TW56WDZWdl94RWFmMEVZNGdtM2VadVpVOXR0OU1tUDdHRHNqdUZnWklueDlWOA?oc=5)
+
+2026-11-04
+
+出典: [モデルプレス](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5DRUZDOTZqUkdrVnIwV1lYWENNS0d0TW56WDZWdl94RWFmMEVZNGdtM2VadVpVOXR0OU1tUDdHRHNqdUZnWklueDlWOA?oc=5)
+
+---
+
+### [【すい臓がん治療最前線】画期的新薬「ダラクソンラシブ」に高まる期待 「百年に一度の薬」と絶賛されるも、日本で保険診療として承認されるためには“高すぎる薬価”の壁(マネーポストWEB)](https://news.google.com/rss/articles/CBMihwFBVV95cUxOUm1yMW5oNXFfNEplUWpxaFE5aTRVckFaZHFiZ2xFbzJiUnU3Y08wZl9CczliMmIwNWtwaDNlTHFNNWUtbTJiN3hHVDR0TEhETVplR24yRmZ4eFBMa3dreXFUYXVVWm1UWUxvcXRfdVJveEZ6OVVRdmo1MUVfeENUNG9MM1V4TW8?oc=5)
 
 2026-11-02
 
-出典: [マネーポストWEB](https://news.google.com/rss/articles/CBMiR0FVX3lxTFBMOXZ5ZzlSdVhpMXNwSGlfU1Z6b3lTX2tHRkZXOTVua3M1eGhjbS1na1Jkc0otRVhUdVpmVzV2TGNnTUhVb2hF?oc=5)
+出典: [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxOUm1yMW5oNXFfNEplUWpxaFE5aTRVckFaZHFiZ2xFbzJiUnU3Y08wZl9CczliMmIwNWtwaDNlTHFNNWUtbTJiN3hHVDR0TEhETVplR24yRmZ4eFBMa3dreXFUYXVVWm1UWUxvcXRfdVJveEZ6OVVRdmo1MUVfeENUNG9MM1V4TW8?oc=5)
 
 ---
 
@@ -120,19 +136,11 @@ last_modified_at: 2026-11-03
 
 ---
 
-### [肥満症が胃噴門部腺がんを進展させる機序をマウスで解明－東北大](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa1dKNlI0Y1pQY0J1UTdFWVFfUGlGaFpzeDloaUhrSnNaU3NwTmFoLTY2cktBZi1ZNk5PejhvQWN6cmlTZjdPUFNtRk5Kc0s4R2FpNkJaalQ2eEhvS2thZzkzWktFcnl6OHhPLV9kNmhncE9lbUM4MTlPc2dkVEJIZ0xQOTVWalhkWXFINVZDdUtTOWszXzhVWTJMQVhXNllPYW9xdTNCNUxhQWNfRGpuNk1KNjhFaEMtYXhvdWlZY2I4UlpQMDdGVXVfRDRKWl9HRHVvRg?oc=5)
-
-2026-11-02
-
-出典: [QLifePro](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa1dKNlI0Y1pQY0J1UTdFWVFfUGlGaFpzeDloaUhrSnNaU3NwTmFoLTY2cktBZi1ZNk5PejhvQWN6cmlTZjdPUFNtRk5Kc0s4R2FpNkJaalQ2eEhvS2thZzkzWktFcnl6OHhPLV9kNmhncE9lbUM4MTlPc2dkVEJIZ0xQOTVWalhkWXFINVZDdUtTOWszXzhVWTJMQVhXNllPYW9xdTNCNUxhQWNfRGpuNk1KNjhFaEMtYXhvdWlZY2I4UlpQMDdGVXVfRDRKWl9HRHVvRg?oc=5)
-
----
-
-### [【闘病】自覚症状はなかったのに… 「転移なし」から一転した『子宮頸がん』はステージ3（メディカルドック）](https://news.google.com/rss/articles/CBMif0FVX3lxTE51SXowbVdvMTVMT1RQMzJ1WWpXMjMxS3RfRElJemhJMWI4MFQwM0Jwa3VCVi1zdkZNb0M4Z1NVby02ekdwMUlIY2V4TG5yaHF1TldDLUJvQm5UTFEweFh3VXl2STRMOGZ5Q2FrZG0yRF9WUkExUlo4b0thSGpsUmc?oc=5)
+### [【闘病】自覚症状はなかったのに… 「転移なし」から一転した『子宮頸がん』はステージ3(メディカルドック)](https://news.yahoo.co.jp/articles/ae80c2ddc4ac5854538454ffb5677c74bc06989f?source=rss)
 
 2026-11-01
 
-出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE51SXowbVdvMTVMT1RQMzJ1WWpXMjMxS3RfRElJemhJMWI4MFQwM0Jwa3VCVi1zdkZNb0M4Z1NVby02ekdwMUlIY2V4TG5yaHF1TldDLUJvQm5UTFEweFh3VXl2STRMOGZ5Q2FrZG0yRF9WUkExUlo4b0thSGpsUmc?oc=5) · [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/ae80c2ddc4ac5854538454ffb5677c74bc06989f?source=rss)
+出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/ae80c2ddc4ac5854538454ffb5677c74bc06989f?source=rss)
 
 ---
 

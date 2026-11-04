@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "テノーミン錠５０　５０ｍｇ（選） に関する健康ニュース。予測適応症 5 件。"
 permalink: /news/atenolol/
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-04
 ---
 
 # テノーミン錠５０　５０ｍｇ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="テノーミン錠５０　５０ｍｇ（選） に関するニュースは？">
-<strong>テノーミン錠５０　５０ｍｇ（選）</strong> には現在 <strong>12 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>テノーミン錠５０　５０ｍｇ（選）</strong> には現在 <strong>13 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -37,21 +37,29 @@ last_modified_at: 2026-11-03
 <p><a href="{{ '/drugs/atenolol/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（12 件）
+## 関連ニュース（13 件）
 
-### [【すい臓がん治療最前線】画期的新薬「ダラクソンラシブ」に高まる期待 「百年に一度の薬」と絶賛されるも、日本で保険診療として承認されるためには“高すぎる薬価”の壁](https://news.google.com/rss/articles/CBMiR0FVX3lxTFBMOXZ5ZzlSdVhpMXNwSGlfU1Z6b3lTX2tHRkZXOTVua3M1eGhjbS1na1Jkc0otRVhUdVpmVzV2TGNnTUhVb2hF?oc=5)
+### [知っておきたいがんの「ステージ」。数字が大きいほどがんは進行。病期を知ることで、今後の見通しが立てられる(婦人公論.jp)](https://news.yahoo.co.jp/articles/3a8ea3b5e7166d482ee9517912a7182b2ed8575a?source=rss)
 
-2026-11-02 <span class="news-indication-tag">がん</span>
+2026-11-04 <span class="news-indication-tag">がん</span>
 
-出典: [マネーポストWEB](https://news.google.com/rss/articles/CBMiR0FVX3lxTFBMOXZ5ZzlSdVhpMXNwSGlfU1Z6b3lTX2tHRkZXOTVua3M1eGhjbS1na1Jkc0otRVhUdVpmVzV2TGNnTUhVb2hF?oc=5)
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/3a8ea3b5e7166d482ee9517912a7182b2ed8575a?source=rss)
 
 ---
 
-### [《ヨーグルトやサプリのまとめ摂りは逆効果？》医師が警告する「間違った腸活」の落とし穴 便通とメンタルを整える新常識 (1/1)](https://news.google.com/rss/articles/CBMiSkFVX3lxTFBhc2hCLTA0RTVtbC1GT2JwSk1LY2xWUXBNTG9nLUw5c1hibThSLVdjMU1qc0dVNl9odm5HZmRvU0ZNOGsyV24taERn?oc=5)
+### [＜女性向け検診のススメ＞子宮頸がん検診や乳がん検診、受けるべきだけど…東京都の取り組みは](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5DRUZDOTZqUkdrVnIwV1lYWENNS0d0TW56WDZWdl94RWFmMEVZNGdtM2VadVpVOXR0OU1tUDdHRHNqdUZnWklueDlWOA?oc=5)
 
-2026-11-02 <span class="news-indication-tag">動脈硬化</span>
+2026-11-04 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
 
-出典: [介護ポストセブン](https://news.google.com/rss/articles/CBMiSkFVX3lxTFBhc2hCLTA0RTVtbC1GT2JwSk1LY2xWUXBNTG9nLUw5c1hibThSLVdjMU1qc0dVNl9odm5HZmRvU0ZNOGsyV24taERn?oc=5)
+出典: [モデルプレス](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5DRUZDOTZqUkdrVnIwV1lYWENNS0d0TW56WDZWdl94RWFmMEVZNGdtM2VadVpVOXR0OU1tUDdHRHNqdUZnWklueDlWOA?oc=5)
+
+---
+
+### [【すい臓がん治療最前線】画期的新薬「ダラクソンラシブ」に高まる期待 「百年に一度の薬」と絶賛されるも、日本で保険診療として承認されるためには“高すぎる薬価”の壁(マネーポストWEB)](https://news.google.com/rss/articles/CBMihwFBVV95cUxOUm1yMW5oNXFfNEplUWpxaFE5aTRVckFaZHFiZ2xFbzJiUnU3Y08wZl9CczliMmIwNWtwaDNlTHFNNWUtbTJiN3hHVDR0TEhETVplR24yRmZ4eFBMa3dreXFUYXVVWm1UWUxvcXRfdVJveEZ6OVVRdmo1MUVfeENUNG9MM1V4TW8?oc=5)
+
+2026-11-02 <span class="news-indication-tag">がん</span>
+
+出典: [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxOUm1yMW5oNXFfNEplUWpxaFE5aTRVckFaZHFiZ2xFbzJiUnU3Y08wZl9CczliMmIwNWtwaDNlTHFNNWUtbTJiN3hHVDR0TEhETVplR24yRmZ4eFBMa3dreXFUYXVVWm1UWUxvcXRfdVJveEZ6OVVRdmo1MUVfeENUNG9MM1V4TW8?oc=5)
 
 ---
 
@@ -71,14 +79,6 @@ last_modified_at: 2026-11-03
 
 ---
 
-### [肥満症が胃噴門部腺がんを進展させる機序をマウスで解明－東北大](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa1dKNlI0Y1pQY0J1UTdFWVFfUGlGaFpzeDloaUhrSnNaU3NwTmFoLTY2cktBZi1ZNk5PejhvQWN6cmlTZjdPUFNtRk5Kc0s4R2FpNkJaalQ2eEhvS2thZzkzWktFcnl6OHhPLV9kNmhncE9lbUM4MTlPc2dkVEJIZ0xQOTVWalhkWXFINVZDdUtTOWszXzhVWTJMQVhXNllPYW9xdTNCNUxhQWNfRGpuNk1KNjhFaEMtYXhvdWlZY2I4UlpQMDdGVXVfRDRKWl9HRHVvRg?oc=5)
-
-2026-11-02 <span class="news-indication-tag">がん</span>
-
-出典: [QLifePro](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa1dKNlI0Y1pQY0J1UTdFWVFfUGlGaFpzeDloaUhrSnNaU3NwTmFoLTY2cktBZi1ZNk5PejhvQWN6cmlTZjdPUFNtRk5Kc0s4R2FpNkJaalQ2eEhvS2thZzkzWktFcnl6OHhPLV9kNmhncE9lbUM4MTlPc2dkVEJIZ0xQOTVWalhkWXFINVZDdUtTOWszXzhVWTJMQVhXNllPYW9xdTNCNUxhQWNfRGpuNk1KNjhFaEMtYXhvdWlZY2I4UlpQMDdGVXVfRDRKWl9HRHVvRg?oc=5)
-
----
-
 ### [《最新研究が明かすインフルエンザワクチンの効果》心筋梗塞や脳卒中などのリスク低減か、認知症予防に関する研究も 60才以上が対象の「新ワクチン」は来年以降の導入へ (1/2)](https://news.google.com/rss/articles/CBMiOEFVX3lxTE1RcmFybi00U19KMjBoeHdKN2dqUUZ2TTBwUjduWmFzY2haTkR5N0J6Wl90RlJuZXU5?oc=5)
 
 2026-11-01 <span class="news-indication-tag">認知症</span> <span class="news-indication-tag">心筋梗塞</span> <span class="news-indication-tag">脳卒中</span> <span class="news-indication-tag">インフルエンザ</span>
@@ -87,11 +87,11 @@ last_modified_at: 2026-11-03
 
 ---
 
-### [【闘病】自覚症状はなかったのに… 「転移なし」から一転した『子宮頸がん』はステージ3（メディカルドック）](https://news.google.com/rss/articles/CBMif0FVX3lxTE51SXowbVdvMTVMT1RQMzJ1WWpXMjMxS3RfRElJemhJMWI4MFQwM0Jwa3VCVi1zdkZNb0M4Z1NVby02ekdwMUlIY2V4TG5yaHF1TldDLUJvQm5UTFEweFh3VXl2STRMOGZ5Q2FrZG0yRF9WUkExUlo4b0thSGpsUmc?oc=5)
+### [【闘病】自覚症状はなかったのに… 「転移なし」から一転した『子宮頸がん』はステージ3(メディカルドック)](https://news.yahoo.co.jp/articles/ae80c2ddc4ac5854538454ffb5677c74bc06989f?source=rss)
 
 2026-11-01 <span class="news-indication-tag">がん</span>
 
-出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE51SXowbVdvMTVMT1RQMzJ1WWpXMjMxS3RfRElJemhJMWI4MFQwM0Jwa3VCVi1zdkZNb0M4Z1NVby02ekdwMUlIY2V4TG5yaHF1TldDLUJvQm5UTFEweFh3VXl2STRMOGZ5Q2FrZG0yRF9WUkExUlo4b0thSGpsUmc?oc=5) · [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/ae80c2ddc4ac5854538454ffb5677c74bc06989f?source=rss)
+出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/ae80c2ddc4ac5854538454ffb5677c74bc06989f?source=rss)
 
 ---
 
@@ -124,6 +124,14 @@ last_modified_at: 2026-11-03
 2026-10-29 <span class="news-indication-tag">がん</span>
 
 出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aQXpNYjRzb0NPTk00NVlDbENmRGFjOVRoalRXLVd4MGc5eWRQbkRoY3prWERnRXR6MXk3eUkzSGlkaVQtcVlGZUREam0yd3lFWmtVM0VxdzBUZWZZa1ZN?oc=5)
+
+---
+
+### [インフルエンザ「注意報レベル」続く 今後大きな流行が発生する可能性 手洗いや適切なマスク着用呼びかけ 福岡](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBiRHZTbFozOE5wRXRBSk9FOFlhRzVvb3Y5Rlp3OFRBdEduX3FrZHZ3YS1wSXJzd2twZUFZMXpQZ3JINlVSUFd1cTJ1dkNqTUhWZEpkZlNaWUZoTy0xS2hvejk1VQ?oc=5)
+
+2026-10-29 <span class="news-indication-tag">認知症</span> <span class="news-indication-tag">心筋梗塞</span> <span class="news-indication-tag">脳卒中</span> <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [福岡TNCニュース](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBiRHZTbFozOE5wRXRBSk9FOFlhRzVvb3Y5Rlp3OFRBdEduX3FrZHZ3YS1wSXJzd2twZUFZMXpQZ3JINlVSUFd1cTJ1dkNqTUhWZEpkZlNaWUZoTy0xS2hvejk1VQ?oc=5)
 
 ---
 

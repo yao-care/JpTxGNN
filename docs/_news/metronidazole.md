@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "メトロニダゾールゲル０．７５％「マルイシ」 に関する健康ニュース。予測適応症 10 件。"
 permalink: /news/metronidazole/
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-04
 ---
 
 # メトロニダゾールゲル０．７５％「マルイシ」 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="メトロニダゾールゲル０．７５％「マルイシ」 に関するニュースは？">
-<strong>メトロニダゾールゲル０．７５％「マルイシ」</strong> には現在 <strong>11 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>メトロニダゾールゲル０．７５％「マルイシ」</strong> には現在 <strong>13 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,37 @@ last_modified_at: 2026-11-03
 <p><a href="{{ '/drugs/metronidazole/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（11 件）
+## 関連ニュース（13 件）
 
-### [【すい臓がん治療最前線】画期的新薬「ダラクソンラシブ」に高まる期待 「百年に一度の薬」と絶賛されるも、日本で保険診療として承認されるためには“高すぎる薬価”の壁](https://news.google.com/rss/articles/CBMiR0FVX3lxTFBMOXZ5ZzlSdVhpMXNwSGlfU1Z6b3lTX2tHRkZXOTVua3M1eGhjbS1na1Jkc0otRVhUdVpmVzV2TGNnTUhVb2hF?oc=5)
+### [知っておきたいがんの「ステージ」。数字が大きいほどがんは進行。病期を知ることで、今後の見通しが立てられる(婦人公論.jp)](https://news.yahoo.co.jp/articles/3a8ea3b5e7166d482ee9517912a7182b2ed8575a?source=rss)
+
+2026-11-04 <span class="news-indication-tag">がん</span>
+
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/3a8ea3b5e7166d482ee9517912a7182b2ed8575a?source=rss)
+
+---
+
+### [＜女性向け検診のススメ＞子宮頸がん検診や乳がん検診、受けるべきだけど…東京都の取り組みは](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5DRUZDOTZqUkdrVnIwV1lYWENNS0d0TW56WDZWdl94RWFmMEVZNGdtM2VadVpVOXR0OU1tUDdHRHNqdUZnWklueDlWOA?oc=5)
+
+2026-11-04 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
+
+出典: [モデルプレス](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5DRUZDOTZqUkdrVnIwV1lYWENNS0d0TW56WDZWdl94RWFmMEVZNGdtM2VadVpVOXR0OU1tUDdHRHNqdUZnWklueDlWOA?oc=5)
+
+---
+
+### [大仁田厚氏×天野方一院長が男性更年期の公開対談を開催 ― “歳のせい”で片づけない、男性の健康を考える - PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE5sUWl2Z3piV2pVbk42TklOU3R0WnNjRERheEpTYXR2bHRjX2pXWkRnNHJPc0lLaTk3Q2xCaFc1Q01NM2NJTGh3c0RiNFNkZGktOEU2SDIySVNILTB0OXpxTVZxdElmWWN1X1E?oc=5)
+
+2026-11-04 <span class="news-indication-tag">更年期</span>
+
+出典: [PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE5sUWl2Z3piV2pVbk42TklOU3R0WnNjRERheEpTYXR2bHRjX2pXWkRnNHJPc0lLaTk3Q2xCaFc1Q01NM2NJTGh3c0RiNFNkZGktOEU2SDIySVNILTB0OXpxTVZxdElmWWN1X1E?oc=5)
+
+---
+
+### [【すい臓がん治療最前線】画期的新薬「ダラクソンラシブ」に高まる期待 「百年に一度の薬」と絶賛されるも、日本で保険診療として承認されるためには“高すぎる薬価”の壁(マネーポストWEB)](https://news.google.com/rss/articles/CBMihwFBVV95cUxOUm1yMW5oNXFfNEplUWpxaFE5aTRVckFaZHFiZ2xFbzJiUnU3Y08wZl9CczliMmIwNWtwaDNlTHFNNWUtbTJiN3hHVDR0TEhETVplR24yRmZ4eFBMa3dreXFUYXVVWm1UWUxvcXRfdVJveEZ6OVVRdmo1MUVfeENUNG9MM1V4TW8?oc=5)
 
 2026-11-02 <span class="news-indication-tag">がん</span>
 
-出典: [マネーポストWEB](https://news.google.com/rss/articles/CBMiR0FVX3lxTFBMOXZ5ZzlSdVhpMXNwSGlfU1Z6b3lTX2tHRkZXOTVua3M1eGhjbS1na1Jkc0otRVhUdVpmVzV2TGNnTUhVb2hF?oc=5)
+出典: [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxOUm1yMW5oNXFfNEplUWpxaFE5aTRVckFaZHFiZ2xFbzJiUnU3Y08wZl9CczliMmIwNWtwaDNlTHFNNWUtbTJiN3hHVDR0TEhETVplR24yRmZ4eFBMa3dreXFUYXVVWm1UWUxvcXRfdVJveEZ6OVVRdmo1MUVfeENUNG9MM1V4TW8?oc=5)
 
 ---
 
@@ -68,19 +92,11 @@ last_modified_at: 2026-11-03
 
 ---
 
-### [肥満症が胃噴門部腺がんを進展させる機序をマウスで解明－東北大](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa1dKNlI0Y1pQY0J1UTdFWVFfUGlGaFpzeDloaUhrSnNaU3NwTmFoLTY2cktBZi1ZNk5PejhvQWN6cmlTZjdPUFNtRk5Kc0s4R2FpNkJaalQ2eEhvS2thZzkzWktFcnl6OHhPLV9kNmhncE9lbUM4MTlPc2dkVEJIZ0xQOTVWalhkWXFINVZDdUtTOWszXzhVWTJMQVhXNllPYW9xdTNCNUxhQWNfRGpuNk1KNjhFaEMtYXhvdWlZY2I4UlpQMDdGVXVfRDRKWl9HRHVvRg?oc=5)
-
-2026-11-02 <span class="news-indication-tag">がん</span>
-
-出典: [QLifePro](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa1dKNlI0Y1pQY0J1UTdFWVFfUGlGaFpzeDloaUhrSnNaU3NwTmFoLTY2cktBZi1ZNk5PejhvQWN6cmlTZjdPUFNtRk5Kc0s4R2FpNkJaalQ2eEhvS2thZzkzWktFcnl6OHhPLV9kNmhncE9lbUM4MTlPc2dkVEJIZ0xQOTVWalhkWXFINVZDdUtTOWszXzhVWTJMQVhXNllPYW9xdTNCNUxhQWNfRGpuNk1KNjhFaEMtYXhvdWlZY2I4UlpQMDdGVXVfRDRKWl9HRHVvRg?oc=5)
-
----
-
-### [【闘病】自覚症状はなかったのに… 「転移なし」から一転した『子宮頸がん』はステージ3（メディカルドック）](https://news.google.com/rss/articles/CBMif0FVX3lxTE51SXowbVdvMTVMT1RQMzJ1WWpXMjMxS3RfRElJemhJMWI4MFQwM0Jwa3VCVi1zdkZNb0M4Z1NVby02ekdwMUlIY2V4TG5yaHF1TldDLUJvQm5UTFEweFh3VXl2STRMOGZ5Q2FrZG0yRF9WUkExUlo4b0thSGpsUmc?oc=5)
+### [【闘病】自覚症状はなかったのに… 「転移なし」から一転した『子宮頸がん』はステージ3(メディカルドック)](https://news.yahoo.co.jp/articles/ae80c2ddc4ac5854538454ffb5677c74bc06989f?source=rss)
 
 2026-11-01 <span class="news-indication-tag">がん</span>
 
-出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE51SXowbVdvMTVMT1RQMzJ1WWpXMjMxS3RfRElJemhJMWI4MFQwM0Jwa3VCVi1zdkZNb0M4Z1NVby02ekdwMUlIY2V4TG5yaHF1TldDLUJvQm5UTFEweFh3VXl2STRMOGZ5Q2FrZG0yRF9WUkExUlo4b0thSGpsUmc?oc=5) · [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/ae80c2ddc4ac5854538454ffb5677c74bc06989f?source=rss)
+出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/ae80c2ddc4ac5854538454ffb5677c74bc06989f?source=rss)
 
 ---
 
@@ -124,11 +140,11 @@ last_modified_at: 2026-11-03
 
 ---
 
-### [コロナ･インフル･帯状疱疹で脳が縮む!? 身近なウイルスがアルツハイマーを引き起こす恐怖のメカニズム(東洋経済オンライン)](https://news.google.com/rss/articles/CBMihwFBVV95cUxNZW1VRHNCUmFxc2hhbDZsT3NfdFFFZnR0X3VxNzNRWWxWNHFuQ3hIX3p1TWoyV2FhY1JYWnNMamRxN1dIRDRZX3NxXzRqbks1SGhYeUtBVG5ZdVRrMFJSSEY4TGtqbmRTSGR3QUtZX2wxTmVWUkZxclozM1ZRWDBUQXdYaUthU3c?oc=5)
+### [ワクチン接種で認知症リスクが半減!? 帯状疱疹、ヘルペスなど“潜伏ウイルス”が脳を蝕む連鎖反応を防ぐ《驚きの方法》](https://news.google.com/rss/articles/CBMihwFBVV95cUxQM3dMdmZWemJLZHluY0ppWWFFdzBkbHZKeG5oajI4SUhtOC1vSUI4WDZWcXNicDZpZXlYYTRyeGdBZDhBQkJlelZxZ3A1dE5QdUlaZnQ4QmJ4V1BqanJRV3QycENQcUhYUG9fTGhJN3d0VjdQeXhyMjFqTlJWNU1FdFJ5RzNKMUE?oc=5)
 
-2026-10-27 <span class="news-indication-tag">帯状疱疹</span>
+2026-10-28 <span class="news-indication-tag">帯状疱疹</span> <span class="news-indication-tag">認知症</span>
 
-出典: [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxNZW1VRHNCUmFxc2hhbDZsT3NfdFFFZnR0X3VxNzNRWWxWNHFuQ3hIX3p1TWoyV2FhY1JYWnNMamRxN1dIRDRZX3NxXzRqbks1SGhYeUtBVG5ZdVRrMFJSSEY4TGtqbmRTSGR3QUtZX2wxTmVWUkZxclozM1ZRWDBUQXdYaUthU3c?oc=5)
+出典: [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxQM3dMdmZWemJLZHluY0ppWWFFdzBkbHZKeG5oajI4SUhtOC1vSUI4WDZWcXNicDZpZXlYYTRyeGdBZDhBQkJlelZxZ3A1dE5QdUlaZnQ4QmJ4V1BqanJRV3QycENQcUhYUG9fTGhJN3d0VjdQeXhyMjFqTlJWNU1FdFJ5RzNKMUE?oc=5)
 
 ---
 

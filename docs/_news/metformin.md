@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "メホビル配合錠ＨＤ「トーワ」 に関する健康ニュース。予測適応症 5 件。"
 permalink: /news/metformin/
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-04
 ---
 
 # メホビル配合錠ＨＤ「トーワ」 関連ニュース
@@ -39,11 +39,11 @@ last_modified_at: 2026-11-03
 
 ## 関連ニュース（1 件）
 
-### [エビデンスで紐解く生活習慣病予防 指導現場で使える最新データ 【糖尿病】2型糖尿病発症予防から寛解まで](https://news.google.com/rss/articles/CBMibEFVX3lxTFBOdG1IWktMLUZlU3JSTUp2b3lDZFJURVpwY3hiTkNMVHMxcnpaLU95NTdqaENVeW5NUzZxcHpBQlZXV1JRRm9OQkZkNE5YWE5NRmJZaVpRUEgxdzUwVkVkclR2SDBKUlhlM0tIVA?oc=5)
+### [炭水化物を控えると“太る”？ 血糖値の急上昇を抑え、満腹感を持続する食べ物とは？ 【管理栄養士】監修](https://news.google.com/rss/articles/CBMiSkFVX3lxTE5zeDZYNWZRTEdua0xhWEJxUk5aSXc0VjFOV0FFTThUV09WSUNzZF9MRWduOVNkbWR3d0Y4b0VmbHhuQ2hsQjlXYjlR?oc=5)
 
-2026-11-02 <span class="news-indication-tag">2型糖尿病</span>
+2026-10-29 <span class="news-indication-tag">2型糖尿病</span>
 
-出典: [保健指導リソースガイド](https://news.google.com/rss/articles/CBMibEFVX3lxTFBOdG1IWktMLUZlU3JSTUp2b3lDZFJURVpwY3hiTkNMVHMxcnpaLU95NTdqaENVeW5NUzZxcHpBQlZXV1JRRm9OQkZkNE5YWE5NRmJZaVpRUEgxdzUwVkVkclR2SDBKUlhlM0tIVA?oc=5)
+出典: [オトナンサー](https://news.google.com/rss/articles/CBMiSkFVX3lxTE5zeDZYNWZRTEdua0xhWEJxUk5aSXc0VjFOV0FFTThUV09WSUNzZF9MRWduOVNkbWR3d0Y4b0VmbHhuQ2hsQjlXYjlR?oc=5)
 
 ---
 

@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "脳卒中 (stroke) に関する健康ニュース。ニュース 4 件、関連医薬品 16 件。"
 permalink: /news/stroke/
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-04
 ---
 
 # 脳卒中 (stroke) 関連ニュース
@@ -71,11 +71,11 @@ last_modified_at: 2026-11-03
 
 ---
 
-### [脳卒中患者の実生活における上肢活動量パターンの特定-ウェアラブルセンサーを用いた横断研究-～ニューロリハビリテーション研究センター - PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE9NX1NfN29mSTd1Z211OFVZdTVTVTVWaTBNZ2E3b3J5blNiQk9DWTVOaU5JaTRST21SSG0wSkc3RTJKMDJhalBEQm9YWWt0Q01YdnZ6SmxEeEdRV2c0dUJqV3NDSGJjZEhzTlE?oc=5)
+### [インフルエンザ「注意報レベル」続く 今後大きな流行が発生する可能性 手洗いや適切なマスク着用呼びかけ 福岡](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBiRHZTbFozOE5wRXRBSk9FOFlhRzVvb3Y5Rlp3OFRBdEduX3FrZHZ3YS1wSXJzd2twZUFZMXpQZ3JINlVSUFd1cTJ1dkNqTUhWZEpkZlNaWUZoTy0xS2hvejk1VQ?oc=5)
 
-2026-10-28
+2026-10-29
 
-出典: [PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE9NX1NfN29mSTd1Z211OFVZdTVTVTVWaTBNZ2E3b3J5blNiQk9DWTVOaU5JaTRST21SSG0wSkc3RTJKMDJhalBEQm9YWWt0Q01YdnZ6SmxEeEdRV2c0dUJqV3NDSGJjZEhzTlE?oc=5)
+出典: [福岡TNCニュース](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBiRHZTbFozOE5wRXRBSk9FOFlhRzVvb3Y5Rlp3OFRBdEduX3FrZHZ3YS1wSXJzd2twZUFZMXpQZ3JINlVSUFd1cTJ1dkNqTUhWZEpkZlNaWUZoTy0xS2hvejk1VQ?oc=5)
 
 ---
 

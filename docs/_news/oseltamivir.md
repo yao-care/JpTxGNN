@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "タミフルドライシロップ３％（選） に関する健康ニュース。予測適応症 0 件。"
 permalink: /news/oseltamivir/
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-04
 ---
 
 # タミフルドライシロップ３％（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="タミフルドライシロップ３％（選） に関するニュースは？">
-<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>7 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>8 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ last_modified_at: 2026-11-03
 <p><a href="{{ '/drugs/oseltamivir/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（7 件）
+## 関連ニュース（8 件）
+
+### [中世の「ミイラの薬」が細胞をインフルエンザから守る可能性](https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzXzJzbjRZcWo0alBLaTJ4X0IyUXZOc3hPMmNraV95WnMyTWVKaHU0WmV0ZDJaY0NyRjlhbmZpa2N4VDFTeGFJMmlTcEJkUndhMDcwclU2dDFfOG8?oc=5)
+
+2026-11-04 <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [ナゾロジー](https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzXzJzbjRZcWo0alBLaTJ4X0IyUXZOc3hPMmNraV95WnMyTWVKaHU0WmV0ZDJaY0NyRjlhbmZpa2N4VDFTeGFJMmlTcEJkUndhMDcwclU2dDFfOG8?oc=5)
+
+---
 
 ### [季節の変わり目、インフルエンザによる危険な合併症の警告](https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1hBeVo0c1c4eVExWWlXVXBYTG0tVHpEUDVMdC0wdkRSMDFRVkZ1cnVPLUFMME1GMDZhLXgwekEzelk3OV9NWGZoVFZ1SGgzNWRmcFJiZzl5RmZsOExQOXJJVUhFTWdXNExsRmROa0RDV2UtSjZRa01pSUxTakxjbnRaSmg4MkIzbUY0LXlJTUp0Zw?oc=5)
 
@@ -64,6 +72,14 @@ last_modified_at: 2026-11-03
 
 ---
 
+### [インフルエンザ「注意報レベル」続く 今後大きな流行が発生する可能性 手洗いや適切なマスク着用呼びかけ 福岡](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBiRHZTbFozOE5wRXRBSk9FOFlhRzVvb3Y5Rlp3OFRBdEduX3FrZHZ3YS1wSXJzd2twZUFZMXpQZ3JINlVSUFd1cTJ1dkNqTUhWZEpkZlNaWUZoTy0xS2hvejk1VQ?oc=5)
+
+2026-10-29 <span class="news-indication-tag">認知症</span> <span class="news-indication-tag">心筋梗塞</span> <span class="news-indication-tag">脳卒中</span> <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [福岡TNCニュース](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBiRHZTbFozOE5wRXRBSk9FOFlhRzVvb3Y5Rlp3OFRBdEduX3FrZHZ3YS1wSXJzd2twZUFZMXpQZ3JINlVSUFd1cTJ1dkNqTUhWZEpkZlNaWUZoTy0xS2hvejk1VQ?oc=5)
+
+---
+
 ### [《インフルエンザ・コロナを予防》手洗い、マスク…対策しても感染!? 専門家が教える感染症予防の落とし穴と“免疫力強化”のポイント](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBrc0Vya251ZzJDdUhNRXdmejhKVXpiY0pTTXdhTHFMTlVZdjA3bms3REtPdkdHRHRGODFWVVhfT2hZQ2JNaU4ybVprWExTc2h6clQ5UUtvVGhybzRu?oc=5)
 
 2026-10-29 <span class="news-indication-tag">インフルエンザ</span>
@@ -72,19 +88,11 @@ last_modified_at: 2026-11-03
 
 ---
 
-### [【茅ヶ崎市・寒川町】茅ヶ崎・寒川でインフルエンザ流行発生注意報が発表！感染予防と対応策まとめ](https://news.google.com/rss/articles/CBMia0FVX3lxTE1HMzFMTjNERGdjRmF3U0VZTkxYbUk5MVdBRDJtS1NoU252SXp0QnFNb25yaVcyRkxzNU5BRnE0UXEwTDhLVkV4cHNFVDJIVzZBOGtYTkdvUnB3VFhqdWZnLW5QZ29SUTQ1YW1R?oc=5)
+### [ライオン、歯みがき行動によりインフルエンザウイルスに反応する唾液中の免疫成分「IgA抗体」濃度が増加することを確認](https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZcHFuU3JrYl90X214elpDTVI1WXViaGlvaGswOFJ0LThLZjhDZWNwamQyNG1admJPeVNaLVEyaFpjMzhVVksxUjJ5Q1ZzWXR4aDc0c0ZWSWlRb242dUpQLXdlX1gxR21iWlk2Uw?oc=5)
 
 2026-10-28 <span class="news-indication-tag">インフルエンザ</span>
 
-出典: [湘南人](https://news.google.com/rss/articles/CBMia0FVX3lxTE1HMzFMTjNERGdjRmF3U0VZTkxYbUk5MVdBRDJtS1NoU252SXp0QnFNb25yaVcyRkxzNU5BRnE0UXEwTDhLVkV4cHNFVDJIVzZBOGtYTkdvUnB3VFhqdWZnLW5QZ29SUTQ1YW1R?oc=5)
-
----
-
-### [歯みがき行動により、インフルエンザウイルスに反応する唾液中の免疫成分「IgA抗体」濃度が増加することを確認 - PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE1IT0Z3NWZTdmZHOXhZSTU4cmFPZGhWbXBkcW1IbHVJSXJjR0x1cmt1VVNvVTNZMTVtLWdzMTBYQ290dGpzbGY2VkZ3WmZGTWtSMUlmb1BnZ2ZkclpLaDZwQjdnYkpZd3hKSUE?oc=5)
-
-2026-10-28 <span class="news-indication-tag">インフルエンザ</span>
-
-出典: [PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE1IT0Z3NWZTdmZHOXhZSTU4cmFPZGhWbXBkcW1IbHVJSXJjR0x1cmt1VVNvVTNZMTVtLWdzMTBYQ290dGpzbGY2VkZ3WmZGTWtSMUlmb1BnZ2ZkclpLaDZwQjdnYkpZd3hKSUE?oc=5)
+出典: [日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZcHFuU3JrYl90X214elpDTVI1WXViaGlvaGswOFJ0LThLZjhDZWNwamQyNG1admJPeVNaLVEyaFpjMzhVVksxUjJ5Q1ZzWXR4aDc0c0ZWSWlRb242dUpQLXdlX1gxR21iWlk2Uw?oc=5)
 
 ---
 

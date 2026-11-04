@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "デュオトラバ配合点眼液（選） に関する健康ニュース。予測適応症 0 件。"
 permalink: /news/timolol/
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-04
 ---
 
 # デュオトラバ配合点眼液（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="デュオトラバ配合点眼液（選） に関するニュースは？">
-<strong>デュオトラバ配合点眼液（選）</strong> には現在 <strong>12 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>デュオトラバ配合点眼液（選）</strong> には現在 <strong>13 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,23 @@ last_modified_at: 2026-11-03
 <p><a href="{{ '/drugs/timolol/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（12 件）
+## 関連ニュース（13 件）
+
+### [知っておきたいがんの「ステージ」。数字が大きいほどがんは進行。病期を知ることで、今後の見通しが立てられる(婦人公論.jp)](https://news.yahoo.co.jp/articles/3a8ea3b5e7166d482ee9517912a7182b2ed8575a?source=rss)
+
+2026-11-04 <span class="news-indication-tag">がん</span>
+
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/3a8ea3b5e7166d482ee9517912a7182b2ed8575a?source=rss)
+
+---
+
+### [＜女性向け検診のススメ＞子宮頸がん検診や乳がん検診、受けるべきだけど…東京都の取り組みは](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5DRUZDOTZqUkdrVnIwV1lYWENNS0d0TW56WDZWdl94RWFmMEVZNGdtM2VadVpVOXR0OU1tUDdHRHNqdUZnWklueDlWOA?oc=5)
+
+2026-11-04 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
+
+出典: [モデルプレス](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5DRUZDOTZqUkdrVnIwV1lYWENNS0d0TW56WDZWdl94RWFmMEVZNGdtM2VadVpVOXR0OU1tUDdHRHNqdUZnWklueDlWOA?oc=5)
+
+---
 
 ### [高血圧患者の脳卒中予防法](https://news.google.com/rss/articles/CBMimgFBVV95cUxPMVFsbjlUWENENUpIaWJrNnc5Ujl1WU9tODdRSFhWaDcwdTNjMWdNV25aeHE5ekM0bzh5TkhuWFlHdG9tejVRZmgyYnp2Zkp0cE15ZEZqZkNVdnFDUmNST1lHclBydWdhMGxrX3RmZ0xJTjR1Wm1wcmNOSkpZNUhNNFU4T3FYUzhEX29mblhLSDhHMkxZMjl4a29B?oc=5)
 
@@ -40,11 +56,11 @@ last_modified_at: 2026-11-03
 
 ---
 
-### [【すい臓がん治療最前線】画期的新薬「ダラクソンラシブ」に高まる期待 「百年に一度の薬」と絶賛されるも、日本で保険診療として承認されるためには“高すぎる薬価”の壁](https://news.google.com/rss/articles/CBMiR0FVX3lxTFBMOXZ5ZzlSdVhpMXNwSGlfU1Z6b3lTX2tHRkZXOTVua3M1eGhjbS1na1Jkc0otRVhUdVpmVzV2TGNnTUhVb2hF?oc=5)
+### [【すい臓がん治療最前線】画期的新薬「ダラクソンラシブ」に高まる期待 「百年に一度の薬」と絶賛されるも、日本で保険診療として承認されるためには“高すぎる薬価”の壁(マネーポストWEB)](https://news.google.com/rss/articles/CBMihwFBVV95cUxOUm1yMW5oNXFfNEplUWpxaFE5aTRVckFaZHFiZ2xFbzJiUnU3Y08wZl9CczliMmIwNWtwaDNlTHFNNWUtbTJiN3hHVDR0TEhETVplR24yRmZ4eFBMa3dreXFUYXVVWm1UWUxvcXRfdVJveEZ6OVVRdmo1MUVfeENUNG9MM1V4TW8?oc=5)
 
 2026-11-02 <span class="news-indication-tag">がん</span>
 
-出典: [マネーポストWEB](https://news.google.com/rss/articles/CBMiR0FVX3lxTFBMOXZ5ZzlSdVhpMXNwSGlfU1Z6b3lTX2tHRkZXOTVua3M1eGhjbS1na1Jkc0otRVhUdVpmVzV2TGNnTUhVb2hF?oc=5)
+出典: [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxOUm1yMW5oNXFfNEplUWpxaFE5aTRVckFaZHFiZ2xFbzJiUnU3Y08wZl9CczliMmIwNWtwaDNlTHFNNWUtbTJiN3hHVDR0TEhETVplR24yRmZ4eFBMa3dreXFUYXVVWm1UWUxvcXRfdVJveEZ6OVVRdmo1MUVfeENUNG9MM1V4TW8?oc=5)
 
 ---
 
@@ -64,19 +80,11 @@ last_modified_at: 2026-11-03
 
 ---
 
-### [肥満症が胃噴門部腺がんを進展させる機序をマウスで解明－東北大](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa1dKNlI0Y1pQY0J1UTdFWVFfUGlGaFpzeDloaUhrSnNaU3NwTmFoLTY2cktBZi1ZNk5PejhvQWN6cmlTZjdPUFNtRk5Kc0s4R2FpNkJaalQ2eEhvS2thZzkzWktFcnl6OHhPLV9kNmhncE9lbUM4MTlPc2dkVEJIZ0xQOTVWalhkWXFINVZDdUtTOWszXzhVWTJMQVhXNllPYW9xdTNCNUxhQWNfRGpuNk1KNjhFaEMtYXhvdWlZY2I4UlpQMDdGVXVfRDRKWl9HRHVvRg?oc=5)
-
-2026-11-02 <span class="news-indication-tag">がん</span>
-
-出典: [QLifePro](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa1dKNlI0Y1pQY0J1UTdFWVFfUGlGaFpzeDloaUhrSnNaU3NwTmFoLTY2cktBZi1ZNk5PejhvQWN6cmlTZjdPUFNtRk5Kc0s4R2FpNkJaalQ2eEhvS2thZzkzWktFcnl6OHhPLV9kNmhncE9lbUM4MTlPc2dkVEJIZ0xQOTVWalhkWXFINVZDdUtTOWszXzhVWTJMQVhXNllPYW9xdTNCNUxhQWNfRGpuNk1KNjhFaEMtYXhvdWlZY2I4UlpQMDdGVXVfRDRKWl9HRHVvRg?oc=5)
-
----
-
-### [【闘病】自覚症状はなかったのに… 「転移なし」から一転した『子宮頸がん』はステージ3（メディカルドック）](https://news.google.com/rss/articles/CBMif0FVX3lxTE51SXowbVdvMTVMT1RQMzJ1WWpXMjMxS3RfRElJemhJMWI4MFQwM0Jwa3VCVi1zdkZNb0M4Z1NVby02ekdwMUlIY2V4TG5yaHF1TldDLUJvQm5UTFEweFh3VXl2STRMOGZ5Q2FrZG0yRF9WUkExUlo4b0thSGpsUmc?oc=5)
+### [【闘病】自覚症状はなかったのに… 「転移なし」から一転した『子宮頸がん』はステージ3(メディカルドック)](https://news.yahoo.co.jp/articles/ae80c2ddc4ac5854538454ffb5677c74bc06989f?source=rss)
 
 2026-11-01 <span class="news-indication-tag">がん</span>
 
-出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE51SXowbVdvMTVMT1RQMzJ1WWpXMjMxS3RfRElJemhJMWI4MFQwM0Jwa3VCVi1zdkZNb0M4Z1NVby02ekdwMUlIY2V4TG5yaHF1TldDLUJvQm5UTFEweFh3VXl2STRMOGZ5Q2FrZG0yRF9WUkExUlo4b0thSGpsUmc?oc=5) · [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/ae80c2ddc4ac5854538454ffb5677c74bc06989f?source=rss)
+出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/ae80c2ddc4ac5854538454ffb5677c74bc06989f?source=rss)
 
 ---
 
