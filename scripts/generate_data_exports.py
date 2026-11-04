@@ -10,9 +10,6 @@ Creates public data files:
 Output: docs/data/
 """
 
-import json
-import shutil
-from datetime import datetime
 from pathlib import Path
 
 import pandas as pd
@@ -57,103 +54,21 @@ def export_repurposing_candidates():
     return len(df_export)
 
 
-def export_drug_mapping():
-    """Export drug mapping CSV to docs/data."""
-    source_path = DATA_DIR / "processed" / "drug_mapping.csv"
-    dest_path = DOCS_DATA_DIR / "drug_mapping.csv"
-
-    if not source_path.exists():
-        print(f"  警告: {source_path} が見つかりません")
-        return 0
-
-    # Read and export
-    df = pd.read_csv(source_path)
-
-    # Select columns for public export
-    export_cols = ["承認番号", "販売名", "drugbank_id", "映射成功"]
-    existing_cols = [c for c in export_cols if c in df.columns]
-    df_export = df[existing_cols].copy()
-
-    # Save
-    df_export.to_csv(dest_path, index=False)
-    print(f"  - drug_mapping.csv: {len(df_export)} 行")
-    return len(df_export)
-
-
-def generate_statistics():
-    """Generate statistics JSON for the website."""
-    stats = {
-        "generated": datetime.now().isoformat(),
-        "data": {}
-    }
-
-    # Drug statistics
-    drugs_path = DOCS_DATA_DIR / "drugs.json"
-    if drugs_path.exists():
-        with open(drugs_path, "r", encoding="utf-8") as f:
-            drugs_data = json.load(f)
-        stats["data"]["drugs"] = {
-            "total": drugs_data.get("total_count", 0),
-            "with_indication": sum(1 for d in drugs_data.get("drugs", []) if d.get("original_indication")),
-        }
-
-    # Candidates statistics
-    candidates_path = DATA_DIR / "processed" / "repurposing_candidates.csv.gz"
-    if candidates_path.exists():
-        df = pd.read_csv(candidates_path)
-        stats["data"]["candidates"] = {
-            "total": len(df),
-            "unique_drugs": df["drugbank_id"].nunique() if "drugbank_id" in df.columns else 0,
-            "unique_indications": df["潛在新適應症"].nunique() if "潛在新適應症" in df.columns else 0,
-        }
-
-    # Search index statistics
-    search_index_path = DOCS_DATA_DIR / "search-index.json"
-    if search_index_path.exists():
-        with open(search_index_path, "r", encoding="utf-8") as f:
-            search_data = json.load(f)
-        stats["data"]["search_index"] = {
-            "drugs": len(search_data.get("drugs", [])),
-        }
-
-    # News statistics
-    news_index_path = DOCS_DATA_DIR / "news-index.json"
-    if news_index_path.exists():
-        with open(news_index_path, "r", encoding="utf-8") as f:
-            news_data = json.load(f)
-        stats["data"]["news"] = {
-            "matched": news_data.get("count", 0),
-        }
-
-    # Save statistics
-    stats_path = DOCS_DATA_DIR / "statistics.json"
-    with open(stats_path, "w", encoding="utf-8") as f:
-        json.dump(stats, f, ensure_ascii=False, indent=2)
-
-    print(f"  - statistics.json: 生成完了")
-    return stats
-
-
 def main():
     print("データエクスポートを生成中...")
 
     # Ensure output directory exists
     DOCS_DATA_DIR.mkdir(parents=True, exist_ok=True)
 
-    # Export files
+    # docs/data/drug_mapping.csv と statistics.json はどのページからも参照されず、
+    # 2026-03 の古いファイルのまま残っていたため 2026-11-04 に削除。ここでも生成しない。
     print("\nファイルをエクスポート:")
     candidates_count = export_repurposing_candidates()
-    mapping_count = export_drug_mapping()
-
-    # Generate statistics
-    print("\n統計を生成:")
-    stats = generate_statistics()
 
     # Summary
     print("\n完了！")
     print(f"  出力ディレクトリ: {DOCS_DATA_DIR}")
     print(f"  リポジショニング候補: {candidates_count} 行")
-    print(f"  薬物マッピング: {mapping_count} 行")
 
 
 if __name__ == "__main__":
