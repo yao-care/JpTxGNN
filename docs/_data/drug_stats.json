@@ -3,10 +3,10 @@
   "total_drugs": 385,
   "level_counts": {
     "L1": 2,
-    "L2": 16,
+    "L2": 15,
     "L3": 10,
     "L4": 14,
-    "L5": 254
+    "L5": 255
   },
   "all_drugs": [
     {
@@ -1254,7 +1254,7 @@
     {
       "name": "Lornoxicam",
       "slug": "lornoxicam",
-      "level": "L2",
+      "level": "L5",
       "indication_count": 8
     },
     {
