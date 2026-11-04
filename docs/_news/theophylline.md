@@ -15,7 +15,7 @@ last_modified_at: 2026-11-04
 ---
 
 <p class="key-answer" data-question="ユニコン錠１００　１００ｍｇ（選） に関するニュースは？">
-<strong>ユニコン錠１００　１００ｍｇ（選）</strong> には現在 <strong>11 件</strong>の関連ニュースがあり、予測適応症は 6 件です。
+<strong>ユニコン錠１００　１００ｍｇ（選）</strong> には現在 <strong>12 件</strong>の関連ニュースがあり、予測適応症は 6 件です。
 </p>
 
 <div class="key-takeaway">
@@ -38,21 +38,21 @@ last_modified_at: 2026-11-04
 <p><a href="{{ '/drugs/theophylline/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（11 件）
+## 関連ニュース（12 件）
 
-### [知っておきたいがんの「ステージ」。数字が大きいほどがんは進行。病期を知ることで、今後の見通しが立てられる(婦人公論.jp)](https://news.yahoo.co.jp/articles/3a8ea3b5e7166d482ee9517912a7182b2ed8575a?source=rss)
-
-2026-11-04 <span class="news-indication-tag">がん</span>
-
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/3a8ea3b5e7166d482ee9517912a7182b2ed8575a?source=rss)
-
----
-
-### [＜女性向け検診のススメ＞子宮頸がん検診や乳がん検診、受けるべきだけど…東京都の取り組みは](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5DRUZDOTZqUkdrVnIwV1lYWENNS0d0TW56WDZWdl94RWFmMEVZNGdtM2VadVpVOXR0OU1tUDdHRHNqdUZnWklueDlWOA?oc=5)
+### [健康：子宮頸がんの症例数と死亡者数は増加すると予測される - Nature Asia](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XYi1ndHNtNUFOLThBTkJYQ1h2TmdTbDYwMDk3ZTlmc2xHZkNfd3J2ZmI3ek9GTGRlc1o2YkZQZFQteGZLSFdFVUFyczF0RXNaUVRjYXgtVzVjTVlXRVlCTnlxblZhU0U?oc=5)
 
 2026-11-04 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
 
-出典: [モデルプレス](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5DRUZDOTZqUkdrVnIwV1lYWENNS0d0TW56WDZWdl94RWFmMEVZNGdtM2VadVpVOXR0OU1tUDdHRHNqdUZnWklueDlWOA?oc=5)
+出典: [Nature Asia](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XYi1ndHNtNUFOLThBTkJYQ1h2TmdTbDYwMDk3ZTlmc2xHZkNfd3J2ZmI3ek9GTGRlc1o2YkZQZFQteGZLSFdFVUFyczF0RXNaUVRjYXgtVzVjTVlXRVlCTnlxblZhU0U?oc=5)
+
+---
+
+### [乳がんはベトナム人女性にかかりやすく、50%が発見が遅れています。](https://news.google.com/rss/articles/CBMipwFBVV95cUxQLWc4cnYwMDVOX19EcV9DUzB3ZDFfanBsQW43dWYyTFU2aXo0cFdVN1V2a2RiOC1tM2tTSnk1R0Rkb1dqSWtuU0VIQXhZaGR6dXU3c25jZmJfc1Bqd3lDVlA5QVlrNlJrSWhheU9RZW4tdGJXYjBkLWktdzlBR1ZWc0dfQ2FpSWtjQkdiZFlxUVRPUWhYbE1hNk1CU0pmYk5PR1NGLWhtSQ?oc=5)
+
+2026-11-03 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
+
+出典: [Laodong.vn](https://news.google.com/rss/articles/CBMipwFBVV95cUxQLWc4cnYwMDVOX19EcV9DUzB3ZDFfanBsQW43dWYyTFU2aXo0cFdVN1V2a2RiOC1tM2tTSnk1R0Rkb1dqSWtuU0VIQXhZaGR6dXU3c25jZmJfc1Bqd3lDVlA5QVlrNlJrSWhheU9RZW4tdGJXYjBkLWktdzlBR1ZWc0dfQ2FpSWtjQkdiZFlxUVRPUWhYbE1hNk1CU0pmYk5PR1NGLWhtSQ?oc=5)
 
 ---
 
@@ -61,6 +61,22 @@ last_modified_at: 2026-11-04
 2026-11-02 <span class="news-indication-tag">がん</span>
 
 出典: [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxOUm1yMW5oNXFfNEplUWpxaFE5aTRVckFaZHFiZ2xFbzJiUnU3Y08wZl9CczliMmIwNWtwaDNlTHFNNWUtbTJiN3hHVDR0TEhETVplR24yRmZ4eFBMa3dreXFUYXVVWm1UWUxvcXRfdVJveEZ6OVVRdmo1MUVfeENUNG9MM1V4TW8?oc=5)
+
+---
+
+### [【大腸がん治療最前線】「AI内視鏡で“見逃しリスク”を軽減」「難易度が高いケースではロボット手術」、国が推奨する検査「便潜血法」には落とし穴も](https://news.google.com/rss/articles/CBMiR0FVX3lxTE1WckJyYzRYUWNVSUJLOENsYkFOZDZKaE9YYjNHNy1zMzVqUTUxaktlRHRHRmdFWS1WdTVQRFhxSk9FN3RJV2Nz?oc=5)
+
+2026-11-02 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
+
+出典: [マネーポストWEB](https://news.google.com/rss/articles/CBMiR0FVX3lxTE1WckJyYzRYUWNVSUJLOENsYkFOZDZKaE9YYjNHNy1zMzVqUTUxaktlRHRHRmdFWS1WdTVQRFhxSk9FN3RJV2Nz?oc=5)
+
+---
+
+### [《ヨーグルトやサプリのまとめ摂りは逆効果？》医師が警告する「間違った腸活」の落とし穴 便通とメンタルを整える新常識 (1/1)](https://news.google.com/rss/articles/CBMiSkFVX3lxTFBhc2hCLTA0RTVtbC1GT2JwSk1LY2xWUXBNTG9nLUw5c1hibThSLVdjMU1qc0dVNl9odm5HZmRvU0ZNOGsyV24taERn?oc=5)
+
+2026-11-02 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
+
+出典: [介護ポストセブン](https://news.google.com/rss/articles/CBMiSkFVX3lxTFBhc2hCLTA0RTVtbC1GT2JwSk1LY2xWUXBNTG9nLUw5c1hibThSLVdjMU1qc0dVNl9odm5HZmRvU0ZNOGsyV24taERn?oc=5)
 
 ---
 
@@ -80,6 +96,14 @@ last_modified_at: 2026-11-04
 
 ---
 
+### [肥満症が胃噴門部腺がんを進展させる機序をマウスで解明－東北大](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa1dKNlI0Y1pQY0J1UTdFWVFfUGlGaFpzeDloaUhrSnNaU3NwTmFoLTY2cktBZi1ZNk5PejhvQWN6cmlTZjdPUFNtRk5Kc0s4R2FpNkJaalQ2eEhvS2thZzkzWktFcnl6OHhPLV9kNmhncE9lbUM4MTlPc2dkVEJIZ0xQOTVWalhkWXFINVZDdUtTOWszXzhVWTJMQVhXNllPYW9xdTNCNUxhQWNfRGpuNk1KNjhFaEMtYXhvdWlZY2I4UlpQMDdGVXVfRDRKWl9HRHVvRg?oc=5)
+
+2026-11-02 <span class="news-indication-tag">がん</span>
+
+出典: [QLifePro](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa1dKNlI0Y1pQY0J1UTdFWVFfUGlGaFpzeDloaUhrSnNaU3NwTmFoLTY2cktBZi1ZNk5PejhvQWN6cmlTZjdPUFNtRk5Kc0s4R2FpNkJaalQ2eEhvS2thZzkzWktFcnl6OHhPLV9kNmhncE9lbUM4MTlPc2dkVEJIZ0xQOTVWalhkWXFINVZDdUtTOWszXzhVWTJMQVhXNllPYW9xdTNCNUxhQWNfRGpuNk1KNjhFaEMtYXhvdWlZY2I4UlpQMDdGVXVfRDRKWl9HRHVvRg?oc=5)
+
+---
+
 ### [【闘病】自覚症状はなかったのに… 「転移なし」から一転した『子宮頸がん』はステージ3(メディカルドック)](https://news.yahoo.co.jp/articles/ae80c2ddc4ac5854538454ffb5677c74bc06989f?source=rss)
 
 2026-11-01 <span class="news-indication-tag">がん</span>
@@ -88,11 +112,11 @@ last_modified_at: 2026-11-04
 
 ---
 
-### [【闘病】2時間止まらない鼻血と白い塊… 正体はHPVによる『鼻腔がん』だった(メディカルドック)](https://news.yahoo.co.jp/articles/5237762cb32e9371e8efb5973a0839ca72e76d49?source=rss)
+### [【闘病】2時間止まらない鼻血と白い塊… 正体はHPVによる『鼻腔がん』だった（メディカルドック）](https://news.google.com/rss/articles/CBMif0FVX3lxTFBQMmhaQU82bU1YQTRzMDRVd3h3UnFpVEVqZ1Z1OUtPTTZKbEF6SWU0N1V5Unh1VVRyb0I3alpGaFpvZTRSUnBSblJVQ3FOMUhvV0ZnWVRsbWh5VE9IZjA2RVoxQUJDdTVjeFZfUUhRUHRRVjcwd3Z0RE5FYXBKRDg?oc=5)
 
 2026-10-31 <span class="news-indication-tag">がん</span>
 
-出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/5237762cb32e9371e8efb5973a0839ca72e76d49?source=rss)
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBQMmhaQU82bU1YQTRzMDRVd3h3UnFpVEVqZ1Z1OUtPTTZKbEF6SWU0N1V5Unh1VVRyb0I3alpGaFpvZTRSUnBSblJVQ3FOMUhvV0ZnWVRsbWh5VE9IZjA2RVoxQUJDdTVjeFZfUUhRUHRRVjcwd3Z0RE5FYXBKRDg?oc=5) · [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/5237762cb32e9371e8efb5973a0839ca72e76d49?source=rss)
 
 ---
 
@@ -101,22 +125,6 @@ last_modified_at: 2026-11-04
 2026-10-30 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
 
 出典: [舌肥](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rc2I2ZEFzVktnNDBISHU5RlZRQlJ1TmxjamJ2RGpJSkNJOGJiVDRpTG8tUkFyb1otRUtodkljbkNSNl9wN1A0X0tBVGJSaHF4dmcwV2FySWxES1U?oc=5)
-
----
-
-### [新薬承認遅れは「生きる時間そのもの」の喪失―薬が確実に届くために必要なこと(メディカルドック)](https://news.yahoo.co.jp/articles/26137862bd868afbe3ff76b21e5971dbea746cf8?source=rss)
-
-2026-10-30 <span class="news-indication-tag">がん</span>
-
-出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/26137862bd868afbe3ff76b21e5971dbea746cf8?source=rss)
-
----
-
-### [「体調不良を我慢しがちな人へ」2児の母が鼻腔がん闘病で知った検診の重要性【作者に聞く】](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aQXpNYjRzb0NPTk00NVlDbENmRGFjOVRoalRXLVd4MGc5eWRQbkRoY3prWERnRXR6MXk3eUkzSGlkaVQtcVlGZUREam0yd3lFWmtVM0VxdzBUZWZZa1ZN?oc=5)
-
-2026-10-29 <span class="news-indication-tag">がん</span>
-
-出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aQXpNYjRzb0NPTk00NVlDbENmRGFjOVRoalRXLVd4MGc5eWRQbkRoY3prWERnRXR6MXk3eUkzSGlkaVQtcVlGZUREam0yd3lFWmtVM0VxdzBUZWZZa1ZN?oc=5)
 
 ---
 

@@ -1,0 +1,54 @@
+---
+layout: default
+title: "大腸がん (colonic neoplasm) 関連ニュース"
+parent: 健康ニュース
+nav_exclude: true
+description: "大腸がん (colonic neoplasm) に関する健康ニュース。ニュース 2 件、関連医薬品 1 件。"
+permalink: /news/colonic-neoplasm/
+last_modified_at: 2026-11-04
+---
+
+# 大腸がん (colonic neoplasm) 関連ニュース
+
+[← ニュース一覧に戻る]({{ '/news/' | relative_url }})
+
+---
+
+<p class="key-answer" data-question="大腸がん (colonic neoplasm) に関するニュースは？">
+<strong>大腸がん (colonic neoplasm)</strong> には現在 <strong>2 件</strong>の関連ニュースと 1 件の関連医薬品があります。
+</p>
+
+<div class="key-takeaway">
+このページは「大腸がん」に関する最新の健康ニュースをまとめ、JpTxGNN データベースで予測適応症にこの疾患を含む医薬品を一覧表示します。
+</div>
+
+<div class="related-drugs-card">
+<strong>関連医薬品レポート</strong>
+<p>以下の医薬品の予測適応症は、この疾患と関連している可能性があります：</p>
+<ul>
+<li><a href="{{ '/drugs/capecitabine/' | relative_url }}">ゼローダ錠３００　３００ｍｇ（選）</a></li>
+</ul>
+</div>
+
+## 関連ニュース（2 件）
+
+### [【大腸がん治療最前線】「AI内視鏡で“見逃しリスク”を軽減」「難易度が高いケースではロボット手術」、国が推奨する検査「便潜血法」には落とし穴も](https://news.google.com/rss/articles/CBMiR0FVX3lxTE1WckJyYzRYUWNVSUJLOENsYkFOZDZKaE9YYjNHNy1zMzVqUTUxaktlRHRHRmdFWS1WdTVQRFhxSk9FN3RJV2Nz?oc=5)
+
+2026-11-02
+
+出典: [マネーポストWEB](https://news.google.com/rss/articles/CBMiR0FVX3lxTE1WckJyYzRYUWNVSUJLOENsYkFOZDZKaE9YYjNHNy1zMzVqUTUxaktlRHRHRmdFWS1WdTVQRFhxSk9FN3RJV2Nz?oc=5)
+
+---
+
+### [《ヨーグルトやサプリのまとめ摂りは逆効果？》医師が警告する「間違った腸活」の落とし穴 便通とメンタルを整える新常識 (1/1)](https://news.google.com/rss/articles/CBMiSkFVX3lxTFBhc2hCLTA0RTVtbC1GT2JwSk1LY2xWUXBNTG9nLUw5c1hibThSLVdjMU1qc0dVNl9odm5HZmRvU0ZNOGsyV24taERn?oc=5)
+
+2026-11-02
+
+出典: [介護ポストセブン](https://news.google.com/rss/articles/CBMiSkFVX3lxTFBhc2hCLTA0RTVtbC1GT2JwSk1LY2xWUXBNTG9nLUw5c1hibThSLVdjMU1qc0dVNl9odm5HZmRvU0ZNOGsyV24taERn?oc=5)
+
+---
+
+
+<div class="disclaimer">
+<strong>免責事項</strong>: 本ページのニュースはシステムが自動収集したものであり、研究上の参考情報にすぎず、医療アドバイスを構成するものではありません。
+</div>

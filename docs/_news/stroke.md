@@ -3,7 +3,7 @@ layout: default
 title: "脳卒中 (stroke) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "脳卒中 (stroke) に関する健康ニュース。ニュース 4 件、関連医薬品 16 件。"
+description: "脳卒中 (stroke) に関する健康ニュース。ニュース 3 件、関連医薬品 16 件。"
 permalink: /news/stroke/
 last_modified_at: 2026-11-04
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-04
 ---
 
 <p class="key-answer" data-question="脳卒中 (stroke) に関するニュースは？">
-<strong>脳卒中 (stroke)</strong> には現在 <strong>4 件</strong>の関連ニュースと 16 件の関連医薬品があります。
+<strong>脳卒中 (stroke)</strong> には現在 <strong>3 件</strong>の関連ニュースと 16 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -45,7 +45,7 @@ last_modified_at: 2026-11-04
 </ul>
 </div>
 
-## 関連ニュース（4 件）
+## 関連ニュース（3 件）
 
 ### [高血圧患者の脳卒中予防法](https://news.google.com/rss/articles/CBMimgFBVV95cUxPMVFsbjlUWENENUpIaWJrNnc5Ujl1WU9tODdRSFhWaDcwdTNjMWdNV25aeHE5ekM0bzh5TkhuWFlHdG9tejVRZmgyYnp2Zkp0cE15ZEZqZkNVdnFDUmNST1lHclBydWdhMGxrX3RmZ0xJTjR1Wm1wcmNOSkpZNUhNNFU4T3FYUzhEX29mblhLSDhHMkxZMjl4a29B?oc=5)
 
@@ -68,14 +68,6 @@ last_modified_at: 2026-11-04
 2026-11-01
 
 出典: [女性セブンプラス](https://news.google.com/rss/articles/CBMiOEFVX3lxTE1RcmFybi00U19KMjBoeHdKN2dqUUZ2TTBwUjduWmFzY2haTkR5N0J6Wl90RlJuZXU5?oc=5)
-
----
-
-### [インフルエンザ「注意報レベル」続く 今後大きな流行が発生する可能性 手洗いや適切なマスク着用呼びかけ 福岡](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBiRHZTbFozOE5wRXRBSk9FOFlhRzVvb3Y5Rlp3OFRBdEduX3FrZHZ3YS1wSXJzd2twZUFZMXpQZ3JINlVSUFd1cTJ1dkNqTUhWZEpkZlNaWUZoTy0xS2hvejk1VQ?oc=5)
-
-2026-10-29
-
-出典: [福岡TNCニュース](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBiRHZTbFozOE5wRXRBSk9FOFlhRzVvb3Y5Rlp3OFRBdEduX3FrZHZ3YS1wSXJzd2twZUFZMXpQZ3JINlVSUFd1cTJ1dkNqTUhWZEpkZlNaWUZoTy0xS2hvejk1VQ?oc=5)
 
 ---
 

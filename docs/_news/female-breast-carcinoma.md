@@ -3,7 +3,7 @@ layout: default
 title: "乳がん (female breast carcinoma) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "乳がん (female breast carcinoma) に関する健康ニュース。ニュース 3 件、関連医薬品 7 件。"
+description: "乳がん (female breast carcinoma) に関する健康ニュース。ニュース 4 件、関連医薬品 7 件。"
 permalink: /news/female-breast-carcinoma/
 last_modified_at: 2026-11-04
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-04
 ---
 
 <p class="key-answer" data-question="乳がん (female breast carcinoma) に関するニュースは？">
-<strong>乳がん (female breast carcinoma)</strong> には現在 <strong>3 件</strong>の関連ニュースと 7 件の関連医薬品があります。
+<strong>乳がん (female breast carcinoma)</strong> には現在 <strong>4 件</strong>の関連ニュースと 7 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -36,13 +36,21 @@ last_modified_at: 2026-11-04
 </ul>
 </div>
 
-## 関連ニュース（3 件）
+## 関連ニュース（4 件）
 
-### [＜女性向け検診のススメ＞子宮頸がん検診や乳がん検診、受けるべきだけど…東京都の取り組みは](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5DRUZDOTZqUkdrVnIwV1lYWENNS0d0TW56WDZWdl94RWFmMEVZNGdtM2VadVpVOXR0OU1tUDdHRHNqdUZnWklueDlWOA?oc=5)
+### [健康：子宮頸がんの症例数と死亡者数は増加すると予測される - Nature Asia](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XYi1ndHNtNUFOLThBTkJYQ1h2TmdTbDYwMDk3ZTlmc2xHZkNfd3J2ZmI3ek9GTGRlc1o2YkZQZFQteGZLSFdFVUFyczF0RXNaUVRjYXgtVzVjTVlXRVlCTnlxblZhU0U?oc=5)
 
 2026-11-04
 
-出典: [モデルプレス](https://news.google.com/rss/articles/CBMiS0FVX3lxTE5DRUZDOTZqUkdrVnIwV1lYWENNS0d0TW56WDZWdl94RWFmMEVZNGdtM2VadVpVOXR0OU1tUDdHRHNqdUZnWklueDlWOA?oc=5)
+出典: [Nature Asia](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XYi1ndHNtNUFOLThBTkJYQ1h2TmdTbDYwMDk3ZTlmc2xHZkNfd3J2ZmI3ek9GTGRlc1o2YkZQZFQteGZLSFdFVUFyczF0RXNaUVRjYXgtVzVjTVlXRVlCTnlxblZhU0U?oc=5)
+
+---
+
+### [乳がんはベトナム人女性にかかりやすく、50%が発見が遅れています。](https://news.google.com/rss/articles/CBMipwFBVV95cUxQLWc4cnYwMDVOX19EcV9DUzB3ZDFfanBsQW43dWYyTFU2aXo0cFdVN1V2a2RiOC1tM2tTSnk1R0Rkb1dqSWtuU0VIQXhZaGR6dXU3c25jZmJfc1Bqd3lDVlA5QVlrNlJrSWhheU9RZW4tdGJXYjBkLWktdzlBR1ZWc0dfQ2FpSWtjQkdiZFlxUVRPUWhYbE1hNk1CU0pmYk5PR1NGLWhtSQ?oc=5)
+
+2026-11-03
+
+出典: [Laodong.vn](https://news.google.com/rss/articles/CBMipwFBVV95cUxQLWc4cnYwMDVOX19EcV9DUzB3ZDFfanBsQW43dWYyTFU2aXo0cFdVN1V2a2RiOC1tM2tTSnk1R0Rkb1dqSWtuU0VIQXhZaGR6dXU3c25jZmJfc1Bqd3lDVlA5QVlrNlJrSWhheU9RZW4tdGJXYjBkLWktdzlBR1ZWc0dfQ2FpSWtjQkdiZFlxUVRPUWhYbE1hNk1CU0pmYk5PR1NGLWhtSQ?oc=5)
 
 ---
 

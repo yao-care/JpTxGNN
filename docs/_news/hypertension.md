@@ -3,9 +3,9 @@ layout: default
 title: "高血圧 (hypertension) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "高血圧 (hypertension) に関する健康ニュース。ニュース 2 件、関連医薬品 9 件。"
+description: "高血圧 (hypertension) に関する健康ニュース。ニュース 3 件、関連医薬品 9 件。"
 permalink: /news/hypertension/
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-04
 ---
 
 # 高血圧 (hypertension) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-03
 ---
 
 <p class="key-answer" data-question="高血圧 (hypertension) に関するニュースは？">
-<strong>高血圧 (hypertension)</strong> には現在 <strong>2 件</strong>の関連ニュースと 9 件の関連医薬品があります。
+<strong>高血圧 (hypertension)</strong> には現在 <strong>3 件</strong>の関連ニュースと 9 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,15 @@ last_modified_at: 2026-11-03
 </ul>
 </div>
 
-## 関連ニュース（2 件）
+## 関連ニュース（3 件）
+
+### [加熱式たばこも高リスク、紙巻きと同等の高血圧発症率が判明 - Forbes JAPAN](https://news.google.com/rss/articles/CBMiWkFVX3lxTE41Yjg3VGFtV2xKc0hGV3MteElDdzB5SWRDeUdpY3RGdUo0UE5xUXBmY1hLeEhjVzJTXzFtczJJVTg2UDNreXZRZ29qbGtmTXdVYktFcFBpYWZBdw?oc=5)
+
+2026-11-04
+
+出典: [Forbes JAPAN](https://news.google.com/rss/articles/CBMiWkFVX3lxTE41Yjg3VGFtV2xKc0hGV3MteElDdzB5SWRDeUdpY3RGdUo0UE5xUXBmY1hLeEhjVzJTXzFtczJJVTg2UDNreXZRZ29qbGtmTXdVYktFcFBpYWZBdw?oc=5)
+
+---
 
 ### [高血圧患者の脳卒中予防法](https://news.google.com/rss/articles/CBMimgFBVV95cUxPMVFsbjlUWENENUpIaWJrNnc5Ujl1WU9tODdRSFhWaDcwdTNjMWdNV25aeHE5ekM0bzh5TkhuWFlHdG9tejVRZmgyYnp2Zkp0cE15ZEZqZkNVdnFDUmNST1lHclBydWdhMGxrX3RmZ0xJTjR1Wm1wcmNOSkpZNUhNNFU4T3FYUzhEX29mblhLSDhHMkxZMjl4a29B?oc=5)
 

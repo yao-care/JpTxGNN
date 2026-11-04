@@ -15,7 +15,7 @@ last_modified_at: 2026-11-04
 ---
 
 <p class="key-answer" data-question="ザルティア錠５ｍｇ（選） に関するニュースは？">
-<strong>ザルティア錠５ｍｇ（選）</strong> には現在 <strong>4 件</strong>の関連ニュースがあり、予測適応症は 8 件です。
+<strong>ザルティア錠５ｍｇ（選）</strong> には現在 <strong>3 件</strong>の関連ニュースがあり、予測適応症は 8 件です。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ last_modified_at: 2026-11-04
 <p><a href="{{ '/drugs/tadalafil/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（4 件）
+## 関連ニュース（3 件）
 
 ### [高血圧患者の脳卒中予防法](https://news.google.com/rss/articles/CBMimgFBVV95cUxPMVFsbjlUWENENUpIaWJrNnc5Ujl1WU9tODdRSFhWaDcwdTNjMWdNV25aeHE5ekM0bzh5TkhuWFlHdG9tejVRZmgyYnp2Zkp0cE15ZEZqZkNVdnFDUmNST1lHclBydWdhMGxrX3RmZ0xJTjR1Wm1wcmNOSkpZNUhNNFU4T3FYUzhEX29mblhLSDhHMkxZMjl4a29B?oc=5)
 
@@ -63,14 +63,6 @@ last_modified_at: 2026-11-04
 2026-11-01 <span class="news-indication-tag">認知症</span> <span class="news-indication-tag">心筋梗塞</span> <span class="news-indication-tag">脳卒中</span> <span class="news-indication-tag">インフルエンザ</span>
 
 出典: [女性セブンプラス](https://news.google.com/rss/articles/CBMiOEFVX3lxTE1RcmFybi00U19KMjBoeHdKN2dqUUZ2TTBwUjduWmFzY2haTkR5N0J6Wl90RlJuZXU5?oc=5)
-
----
-
-### [インフルエンザ「注意報レベル」続く 今後大きな流行が発生する可能性 手洗いや適切なマスク着用呼びかけ 福岡](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBiRHZTbFozOE5wRXRBSk9FOFlhRzVvb3Y5Rlp3OFRBdEduX3FrZHZ3YS1wSXJzd2twZUFZMXpQZ3JINlVSUFd1cTJ1dkNqTUhWZEpkZlNaWUZoTy0xS2hvejk1VQ?oc=5)
-
-2026-10-29 <span class="news-indication-tag">認知症</span> <span class="news-indication-tag">心筋梗塞</span> <span class="news-indication-tag">脳卒中</span> <span class="news-indication-tag">インフルエンザ</span>
-
-出典: [福岡TNCニュース](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBiRHZTbFozOE5wRXRBSk9FOFlhRzVvb3Y5Rlp3OFRBdEduX3FrZHZ3YS1wSXJzd2twZUFZMXpQZ3JINlVSUFd1cTJ1dkNqTUhWZEpkZlNaWUZoTy0xS2hvejk1VQ?oc=5)
 
 ---
 

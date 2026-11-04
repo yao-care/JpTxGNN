@@ -3,7 +3,7 @@ layout: default
 title: "インフルエンザ (influenza) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 8 件、関連医薬品 1 件。"
+description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 7 件、関連医薬品 1 件。"
 permalink: /news/influenza/
 last_modified_at: 2026-11-04
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-04
 ---
 
 <p class="key-answer" data-question="インフルエンザ (influenza) に関するニュースは？">
-<strong>インフルエンザ (influenza)</strong> には現在 <strong>8 件</strong>の関連ニュースと 1 件の関連医薬品があります。
+<strong>インフルエンザ (influenza)</strong> には現在 <strong>7 件</strong>の関連ニュースと 1 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ last_modified_at: 2026-11-04
 </ul>
 </div>
 
-## 関連ニュース（8 件）
+## 関連ニュース（7 件）
+
+### [【第44週】群馬県内でインフルエンザ、RSウイルス報告続く、ヘルパンギーナは警報解除](https://news.google.com/rss/articles/CBMiSkFVX3lxTE9hLXRXUkhhY2V1X0tXS080M1RYTnF5Tmp4aHNqRjl5NDVLRVdfTVNsUnNIVzZHeDRCVmJTdWNTdHNjanI2UFRQUjV3?oc=5)
+
+2026-11-04
+
+出典: [みんなの学校新聞](https://news.google.com/rss/articles/CBMiSkFVX3lxTE9hLXRXUkhhY2V1X0tXS080M1RYTnF5Tmp4aHNqRjl5NDVLRVdfTVNsUnNIVzZHeDRCVmJTdWNTdHNjanI2UFRQUjV3?oc=5)
+
+---
 
 ### [中世の「ミイラの薬」が細胞をインフルエンザから守る可能性](https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzXzJzbjRZcWo0alBLaTJ4X0IyUXZOc3hPMmNraV95WnMyTWVKaHU0WmV0ZDJaY0NyRjlhbmZpa2N4VDFTeGFJMmlTcEJkUndhMDcwclU2dDFfOG8?oc=5)
 
@@ -45,14 +53,6 @@ last_modified_at: 2026-11-04
 2026-11-03
 
 出典: [Laodong.vn](https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1hBeVo0c1c4eVExWWlXVXBYTG0tVHpEUDVMdC0wdkRSMDFRVkZ1cnVPLUFMME1GMDZhLXgwekEzelk3OV9NWGZoVFZ1SGgzNWRmcFJiZzl5RmZsOExQOXJJVUhFTWdXNExsRmROa0RDV2UtSjZRa01pSUxTakxjbnRaSmg4MkIzbUY0LXlJTUp0Zw?oc=5)
-
----
-
-### [ダイソー、セリアetc.｜インフルエンザ・胃腸炎に備えよう！現役保育士もおすすめの感染症対策4選 - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE1WTU1KMkc0M2oxcmVBY2Y1Vm12VldfdjBraGI5MW1Dc3VWR19Ea1E3WGZTRFpJMDUwcldPeXFQZHNhN3VaN2sxelBLZVMtQkFSeWtxWUlZXzY2R3N0cVZVQ0o0SDF0akxJMHBzdWd3?oc=5)
-
-2026-11-02
-
-出典: [au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE1WTU1KMkc0M2oxcmVBY2Y1Vm12VldfdjBraGI5MW1Dc3VWR19Ea1E3WGZTRFpJMDUwcldPeXFQZHNhN3VaN2sxelBLZVMtQkFSeWtxWUlZXzY2R3N0cVZVQ0o0SDF0akxJMHBzdWd3?oc=5)
 
 ---
 
@@ -72,11 +72,11 @@ last_modified_at: 2026-11-04
 
 ---
 
-### [インフルエンザ「注意報レベル」続く 今後大きな流行が発生する可能性 手洗いや適切なマスク着用呼びかけ 福岡](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBiRHZTbFozOE5wRXRBSk9FOFlhRzVvb3Y5Rlp3OFRBdEduX3FrZHZ3YS1wSXJzd2twZUFZMXpQZ3JINlVSUFd1cTJ1dkNqTUhWZEpkZlNaWUZoTy0xS2hvejk1VQ?oc=5)
+### [ダイソー、セリアetc.｜インフルエンザ・胃腸炎に備えよう！現役保育士もおすすめの感染症対策4選](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnUUtFeDlfdG5MNE9EclZZaVZvNjBtSWtiTmJOdHV4d20xVm9BVUtuOUE2V3ZnS1F2TEFnOU1PTmhza3lqSWlGMGc4VmZ6aElnbDZMVGVDclRjMTRIeUE?oc=5)
 
-2026-10-29
+2026-11-01
 
-出典: [福岡TNCニュース](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBiRHZTbFozOE5wRXRBSk9FOFlhRzVvb3Y5Rlp3OFRBdEduX3FrZHZ3YS1wSXJzd2twZUFZMXpQZ3JINlVSUFd1cTJ1dkNqTUhWZEpkZlNaWUZoTy0xS2hvejk1VQ?oc=5)
+出典: [たまひよ](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnUUtFeDlfdG5MNE9EclZZaVZvNjBtSWtiTmJOdHV4d20xVm9BVUtuOUE2V3ZnS1F2TEFnOU1PTmhza3lqSWlGMGc4VmZ6aElnbDZMVGVDclRjMTRIeUE?oc=5)
 
 ---
 
@@ -85,14 +85,6 @@ last_modified_at: 2026-11-04
 2026-10-29
 
 出典: [週刊女性PRIME](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBrc0Vya251ZzJDdUhNRXdmejhKVXpiY0pTTXdhTHFMTlVZdjA3bms3REtPdkdHRHRGODFWVVhfT2hZQ2JNaU4ybVprWExTc2h6clQ5UUtvVGhybzRu?oc=5)
-
----
-
-### [ライオン、歯みがき行動によりインフルエンザウイルスに反応する唾液中の免疫成分「IgA抗体」濃度が増加することを確認](https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZcHFuU3JrYl90X214elpDTVI1WXViaGlvaGswOFJ0LThLZjhDZWNwamQyNG1admJPeVNaLVEyaFpjMzhVVksxUjJ5Q1ZzWXR4aDc0c0ZWSWlRb242dUpQLXdlX1gxR21iWlk2Uw?oc=5)
-
-2026-10-28
-
-出典: [日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZcHFuU3JrYl90X214elpDTVI1WXViaGlvaGswOFJ0LThLZjhDZWNwamQyNG1admJPeVNaLVEyaFpjMzhVVksxUjJ5Q1ZzWXR4aDc0c0ZWSWlRb242dUpQLXdlX1gxR21iWlk2Uw?oc=5)
 
 ---
 
