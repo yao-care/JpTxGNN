@@ -72,7 +72,8 @@ JpTxGNN は <strong>{{ site.data.site_stats.drugs }}</strong> 種の日本医療
     <div class="drug-stat-label">対象医薬品</div>
   </div>
   <div class="drug-stat">
-    <div class="drug-stat-number">142</div>
+    {%- comment -%}下の数字＝DrugBank に対応付けできた DrugBank ID の数（重複なし）。出典：Release data-20261031 の data/processed/drug_mapping.csv の映射成功列。マッピングを作り直したら更新すること。{%- endcomment %}
+    <div class="drug-stat-number">474</div>
     <div class="drug-stat-label">DrugBank マッピング</div>
   </div>
   <div class="drug-stat">

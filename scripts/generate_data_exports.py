@@ -3,7 +3,7 @@
 Generate data exports for downloads page.
 
 Creates public data files:
-- docs/data/repurposing_candidates.csv
+- docs/data/repurposing_candidates.csv（downloads.md 有連結；只想更新這個檔就單獨呼叫 export_repurposing_candidates()）
 - docs/data/drugs.json (already created)
 - docs/data/search-index.json (already created)
 
@@ -26,7 +26,8 @@ DOCS_DATA_DIR = PROJECT_ROOT / "docs" / "data"
 def export_repurposing_candidates():
     """Export repurposing candidates CSV to docs/data."""
     source_path = DATA_DIR / "processed" / "repurposing_candidates.csv.gz"
-    dest_path = DOCS_DATA_DIR / "repurposing_candidates.csv.gz"
+    # downloads.md 連的是 /data/repurposing_candidates.csv（未壓縮）；原本寫成 .csv.gz，網站上的檔一直沒更新（2026-11-04）
+    dest_path = DOCS_DATA_DIR / "repurposing_candidates.csv"
 
     if not source_path.exists():
         print(f"  警告: {source_path} が見つかりません")
