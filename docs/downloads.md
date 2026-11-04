@@ -17,7 +17,7 @@ JpTxGNN の予測データをダウンロードできます。
 
 | ファイル | 形式 | 説明 |
 |----------|------|------|
-| [repurposing_candidates.csv](/data/repurposing_candidates.csv) | CSV | 全リポジショニング候補 |
+| [repurposing_candidates.csv](/data/repurposing_candidates.csv) | CSV | 知識グラフ（TxGNN KG）に記録済みの薬物–疾病関係（既知用途の照合に使用、新規予測ではありません） |
 | [drugs.json](/data/drugs.json) | JSON | 薬物情報一覧 |
 | [search-index.json](/data/search-index.json) | JSON | 検索インデックス |
 
@@ -36,12 +36,12 @@ JpTxGNN の予測データをダウンロードできます。
 
 | カラム | 説明 |
 |--------|------|
-| 承認番号 | PMDA 承認番号 |
-| 販売名 | 日本での販売名 |
-| 薬物成分 | 有効成分（英語） |
+| approval_number | 承認番号 |
+| brand_name | 日本での販売名 |
+| ingredient | 有効成分（英語） |
 | drugbank_id | DrugBank 識別子 |
-| 潜在新適応症 | 予測された適応症 |
-| 来源 | 予測ソース |
+| predicted_indication | 知識グラフ上で関係のある疾病 |
+| source | データソース（TxGNN Knowledge Graph） |
 
 ### drugs.json
 

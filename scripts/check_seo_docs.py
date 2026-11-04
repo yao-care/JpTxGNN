@@ -15,6 +15,7 @@
   6. Markdown 表格前後有空行（2026-11-03；缺空行 kramdown 會把整張表排成純文字，scripts/fix_table_spacing.py 修）。
   7. docs/nav-*.md、evidence-*.md、drugs.md 不寫死該由 drug_stats.json 來的藥物總數、等級分布條寬度、等級藥物數（2026-11-03）。
   8. llms.txt／llms-full.txt 範例藥物行「名稱 (Lx): 網址」的標籤＝藥物頁 evidence_level，且不指向轉址／noindex／不存在的頁（2026-11-03）。
+  9. llms.txt／llms-full.txt 的本站資料區塊（site-data）剛好一個、等級分布＝drug_stats.json、資料集網址出現在本站 sources 頁（2026-11-04）。
 
 Tw 專屬的檢查（TFDA 許可證表、docs/_data/drug_reviews.json 人工查核紀錄、drug_stats.json）沒有移植；
 本站之後若建立同類機制，再把對應檢查加回來。
@@ -344,6 +345,38 @@ for _name in ("llms.txt", "llms-full.txt"):
         elif _fm.get("evidence_level", "") != _lv:
             errors.append(f"{_name}：「{_m.group(1)} ({_lv})」標籤與頁面 evidence_level {_fm.get('evidence_level') or '（無）'} 不符"
                           f"（跑母目錄 .claude/sync_llms_descriptions.py）")
+
+# 9) llms.txt／llms-full.txt 的「本站資料」區塊（2026-11-04 補）：<!-- site-data:begin … --> 到 <!-- site-data:end -->，
+#    每個 llms 檔剛好一個。等級分布行的 L1–L5、N/A 頁數＝docs/_data/drug_stats.json（N/A＝total_drugs 減 L1–L5 總和），
+#    並寫出 total_drugs；資料集行的網址都要出現在本站 sources 頁（資料集要有出處，不在 llms 自創來源）。
+#    修法：母目錄 python3 .claude/sync_llms_descriptions.py <站>；資料集行改母目錄 .claude/llms_site_data.tsv（先改 sources 頁）。
+_SD_BLOCK = re.compile(r"<!-- site-data:begin\b.*?-->(.*?)<!-- site-data:end -->", re.S)
+_sd_stats = json.loads((DOCS / "_data" / "drug_stats.json").read_text(encoding="utf-8"))
+_sd_total = int(_sd_stats.get("total_drugs") or 0)
+_sd_want = {f"L{_i}": int((_sd_stats.get("level_counts") or {}).get(f"L{_i}", 0)) for _i in range(1, 6)}
+_sd_want["N/A"] = _sd_total - sum(_sd_want.values())
+_sd_src = "\n".join(_p.read_text(encoding="utf-8", errors="replace")
+                    for _p in (DOCS / "sources.md", DOCS / "data-sources.md") if _p.exists())
+for _name in ("llms.txt", "llms-full.txt"):
+    _f = DOCS / _name
+    if not _f.exists():
+        continue
+    _blocks = _SD_BLOCK.findall(_f.read_text(encoding="utf-8", errors="replace"))
+    if len(_blocks) != 1:
+        errors.append(f"{_name}：本站資料區塊（site-data）應該剛好 1 個，現在 {len(_blocks)} 個"
+                      f"（跑母目錄 .claude/sync_llms_descriptions.py）")
+        continue
+    _got = {_k: int(_v) for _k, _v in re.findall(r"(?<![\w/])(L[1-5]|N/A) (\d+)\b", _blocks[0])}
+    if _got != _sd_want or not re.search(rf"(?<![\d.,]){_sd_total}(?![\d.,])", _blocks[0]):
+        errors.append(f"{_name}：本站資料區塊的等級分布 {_got} 與 drug_stats.json {_sd_want}（total_drugs {_sd_total}）"
+                      f"不符或沒寫出總數（跑母目錄 .claude/sync_llms_descriptions.py）")
+    _urls = re.findall(r"https?://[^\s,;<>()（）]+", _blocks[0])
+    if not _urls:
+        errors.append(f"{_name}：本站資料區塊沒有資料集下載網址（改母目錄 .claude/llms_site_data.tsv）")
+    for _u in _urls:
+        if _u not in _sd_src:
+            errors.append(f"{_name}：本站資料區塊的資料集網址 {_u} 不在本站 sources 頁"
+                          f"（先在 sources 頁寫明出處，再改母目錄 .claude/llms_site_data.tsv）")
 
 if errors:
     print(f"docs SEO 守門：✗ {len(errors)} 項")
