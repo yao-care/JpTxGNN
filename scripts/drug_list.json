@@ -1,6 +1,6 @@
 {
   "total": 296,
-  "generated_at": "2026-11-03T19:14:05.779951",
+  "generated_at": "2026-11-04T05:22:54.273292",
   "drugs": [
     {
       "name": "Abatacept",
@@ -1531,7 +1531,7 @@
     {
       "name": "Epirubicin",
       "file": "epirubicin.md",
-      "evidence_level": "L3",
+      "evidence_level": "L5",
       "indication_count": 7,
       "predicted_indication": "",
       "inn": "Epirubicin",
@@ -3350,7 +3350,7 @@
     {
       "name": "Pravastatin",
       "file": "pravastatin.md",
-      "evidence_level": "L3",
+      "evidence_level": "L4",
       "indication_count": 6,
       "predicted_indication": "",
       "inn": "Pravastatin",
