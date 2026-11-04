@@ -3,6 +3,7 @@ layout: default
 title: ドラッグリポジショニング検証報告
 nav_order: 1
 description: "AI を用いて日本医療用医薬品の潜在的新適応症を予測。385 種の医薬品について、既知用途を除外した 1,633 件の予測新適応症を提供。"
+last_modified_at: 2026-11-04
 permalink: /
 image: /assets/images/og-default.png
 ---
@@ -27,7 +28,7 @@ image: /assets/images/og-default.png
 <!-- local-home:start（母目錄 .claude/gen_local_home_20261029.py 產生，勿手改）-->
 ## 日本：本サイトの収録範囲
 
-本サイトでは、[PMDA](https://www.pmda.go.jp/)の承認情報（日本）に収載された医薬品のうち **{{ site.data.drug_stats.total_drugs }}** 品目のレポートを公開しています。
+本サイトでは、[社会保険診療報酬支払基金の医薬品マスター](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)（薬価基準収載品目、日本）に収載された医薬品のうち **{{ site.data.drug_stats.total_drugs }}** 品目のレポートを公開しています。
 
 エビデンスレベル別のレポート数： L1 {{ site.data.drug_stats.level_counts.L1 }} · L2 {{ site.data.drug_stats.level_counts.L2 }} · L3 {{ site.data.drug_stats.level_counts.L3 }} · L4 {{ site.data.drug_stats.level_counts.L4 }} · L5 {{ site.data.drug_stats.level_counts.L5 }}
 
@@ -35,16 +36,16 @@ image: /assets/images/og-default.png
 
 | 医薬品 | エビデンスレベル |
 |---|---|
-| [Tegafur](/drugs/tegafur/) | L1 |
 | [Doxorubicin](/drugs/doxorubicin/) | L1 |
-| [Salmeterol](/drugs/salmeterol/) | L1 |
-| [Tiotropium](/drugs/tiotropium/) | L1 |
 | [Tacrolimus](/drugs/tacrolimus/) | L1 |
-| [Dexamethasone](/drugs/dexamethasone/) | L2 |
+| [Diazepam](/drugs/diazepam/) | L2 |
 | [Ropinirole](/drugs/ropinirole/) | L2 |
 | [Ustekinumab](/drugs/ustekinumab/) | L2 |
 | [Candesartan](/drugs/candesartan/) | L2 |
 | [Prednisolone](/drugs/prednisolone/) | L2 |
+| [Clomipramine](/drugs/clomipramine/) | L2 |
+| [Regorafenib](/drugs/regorafenib/) | L2 |
+| [Docetaxel](/drugs/docetaxel/) | L2 |
 
 ### 30 の TxGNN サイトのうち本サイトだけが収録している医薬品
 
@@ -156,7 +157,7 @@ image: /assets/images/og-default.png
     <div class="stat-label">対象医薬品</div>
   </div>
   <div class="stat-card" style="background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%);">
-    <div class="stat-number">142</div>
+    <div class="stat-number">474</div>
     <div class="stat-label">DrugBank マッピング</div>
   </div>
   <div class="stat-card" style="background: linear-gradient(135deg, #ee0979 0%, #ff6a00 100%);">
@@ -327,7 +328,7 @@ image: /assets/images/og-default.png
 <strong>免責事項</strong><br>
 本レポートは学術研究参考のみを目的としており、<strong>医療アドバイスを構成するものではありません</strong>。医薬品の使用は医師の指示に従ってください。ドラッグリポジショニングの決定には、完全な臨床検証と規制審査が必要です。
 <br><br>
-<small>最終更新：2026-03-03 | 審査者：藥提醒科技有限公司 (yao.care)</small>
+<small>最終更新：{{ page.last_modified_at | date: "%Y-%m-%d" }} | 審査者：藥提醒科技有限公司 (yao.care)</small>
 </div>
 
 ---

@@ -254,7 +254,7 @@ _stats_now = json.loads((DOCS / "_data" / "drug_stats.json").read_text(encoding=
 _want = _gds.build_stats(_gds.listed_drugs(), _stats_now.get("generated", ""))
 if not _gds.same(_stats_now, _want):
     errors.append(f"drug_stats.json total_drugs={_stats_now.get('total_drugs')}，公開藥物頁 {_want['total_drugs']} 頁（跑 scripts/generate_drug_stats.py）")
-errors.extend(f"{e}（跑 scripts/generate_drug_stats.py）" for e in _gds.count_spot_problems(_want) + _gds.hardcode_problems(_want))
+errors.extend(f"{e}（跑 scripts/generate_drug_stats.py）" for e in _gds.count_spot_problems(_want) + _gds.index_date_problems(_want) + _gds.hardcode_problems(_want))
 
 # 6) 表格前後缺空行（2026-11-03 補）：kramdown 會把整張表排成純文字（線上出現 `| 欄 | 欄 | |---|---|`）。
 #    修法：python3 scripts/fix_table_spacing.py（只補空行，不改字）。

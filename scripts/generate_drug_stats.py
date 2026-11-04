@@ -132,6 +132,27 @@ def hardcode_problems(stats):
     return errs
 
 
+INDEX = ROOT / "docs" / "index.md"
+
+
+def index_date_problems(stats, fix=False):
+    """首頁「最後更新」與首頁 JSON-LD dateModified 都讀 docs/index.md front matter 的 last_modified_at
+    （2026-11-04 起；原本是 {{ site.time }}／"now"，每次建置都變，等於宣稱每天更新）。
+    這個日期要等於 drug_stats.json 的 generated：藥物數、等級分布或藥物清單真的變了，本支才會換日期。
+    front matter 沒有 last_modified_at 的 index.md 不管。"""
+    if not INDEX.exists() or not stats.get("generated"):
+        return []
+    raw = INDEX.read_bytes().decode("utf-8")
+    m = re.match(r"(\ufeff?---\r?\n)(.*?)(\r?\n---\r?\n)", raw, re.S)
+    lm = re.search(r"^last_modified_at:[ \t]*(\S*)[ \t]*$", m.group(2), re.M) if m else None
+    if not lm or lm.group(1) == stats["generated"]:
+        return []
+    if fix:
+        a = m.start(2) + lm.start(1)
+        INDEX.write_bytes((raw[:a] + stats["generated"] + raw[m.start(2) + lm.end(1):]).encode("utf-8"))
+    return [f"docs/index.md：front matter last_modified_at {lm.group(1)} 應為 {stats['generated']}（drug_stats.json 的 generated）"]
+
+
 def main():
     check = "--check" in sys.argv[1:]
     drugs = listed_drugs()
@@ -148,6 +169,7 @@ def main():
             OUT.write_text(json.dumps(stats, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
         print(f"drug_stats.json：{stats['total_drugs']} 個藥，{stats['level_counts']}")
     errs += count_spot_problems(stats, fix=not check)
+    errs += index_date_problems(stats, fix=not check)
     errs += hardcode_problems(stats)
     if check:
         if errs:
