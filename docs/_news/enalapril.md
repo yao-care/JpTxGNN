@@ -15,7 +15,7 @@ last_modified_at: 2026-11-04
 ---
 
 <p class="key-answer" data-question="レニベース錠１０　１０ｍｇ（選） に関するニュースは？">
-<strong>レニベース錠１０　１０ｍｇ（選）</strong> には現在 <strong>16 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>レニベース錠１０　１０ｍｇ（選）</strong> には現在 <strong>17 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,23 @@ last_modified_at: 2026-11-04
 <p><a href="{{ '/drugs/enalapril/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（16 件）
+## 関連ニュース（17 件）
+
+### [「突然片目が見えなくなった」は“脳梗塞”のサイン！？　眼科医が「目の血管」をくまなく調べるワケ(オトナンサー)](https://news.yahoo.co.jp/articles/c26c5a71f07b5e2f0b4909f8ccf8f565aebb18c5?source=rss)
+
+2026-11-04 <span class="news-indication-tag">脳卒中</span> <span class="news-indication-tag">脳梗塞</span> <span class="news-indication-tag">脳出血</span>
+
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/c26c5a71f07b5e2f0b4909f8ccf8f565aebb18c5?source=rss)
+
+---
+
+### [局所進行食道がん、食道胃接合部がんに対する根治的な化学放射線療法にペムブロリズマブの上乗せを検証するランダム化第III相試験：KEYNOTE-975【ESMO2026 胃・食道がん】](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBIU3REb2ROOHdCZXZiNFpaaXI0SjlqMENmaW1IaEc5Yzc0V3RNV0ROY2F5dkxDOUhlTDJRWklva2dhNmdpek5rUkg2YzBrM3FKZ2c?oc=5)
+
+2026-11-04 <span class="news-indication-tag">がん</span>
+
+出典: [m3.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBIU3REb2ROOHdCZXZiNFpaaXI0SjlqMENmaW1IaEc5Yzc0V3RNV0ROY2F5dkxDOUhlTDJRWklva2dhNmdpek5rUkg2YzBrM3FKZ2c?oc=5)
+
+---
 
 ### [健康：子宮頸がんの症例数と死亡者数は増加すると予測される - Nature Asia](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XYi1ndHNtNUFOLThBTkJYQ1h2TmdTbDYwMDk3ZTlmc2xHZkNfd3J2ZmI3ek9GTGRlc1o2YkZQZFQteGZLSFdFVUFyczF0RXNaUVRjYXgtVzVjTVlXRVlCTnlxblZhU0U?oc=5)
 
@@ -56,19 +72,11 @@ last_modified_at: 2026-11-04
 
 ---
 
-### [【すい臓がん治療最前線】画期的新薬「ダラクソンラシブ」に高まる期待 「百年に一度の薬」と絶賛されるも、日本で保険診療として承認されるためには“高すぎる薬価”の壁(マネーポストWEB)](https://news.google.com/rss/articles/CBMihwFBVV95cUxOUm1yMW5oNXFfNEplUWpxaFE5aTRVckFaZHFiZ2xFbzJiUnU3Y08wZl9CczliMmIwNWtwaDNlTHFNNWUtbTJiN3hHVDR0TEhETVplR24yRmZ4eFBMa3dreXFUYXVVWm1UWUxvcXRfdVJveEZ6OVVRdmo1MUVfeENUNG9MM1V4TW8?oc=5)
+### [【すい臓がん治療最前線】画期的新薬「ダラクソンラシブ」に高まる期待 「百年に一度の薬」と絶賛されるも、日本で保険診療として承認されるためには“高すぎる薬価”の壁](https://news.google.com/rss/articles/CBMiR0FVX3lxTFBMOXZ5ZzlSdVhpMXNwSGlfU1Z6b3lTX2tHRkZXOTVua3M1eGhjbS1na1Jkc0otRVhUdVpmVzV2TGNnTUhVb2hF?oc=5)
 
 2026-11-02 <span class="news-indication-tag">がん</span>
 
-出典: [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxOUm1yMW5oNXFfNEplUWpxaFE5aTRVckFaZHFiZ2xFbzJiUnU3Y08wZl9CczliMmIwNWtwaDNlTHFNNWUtbTJiN3hHVDR0TEhETVplR24yRmZ4eFBMa3dreXFUYXVVWm1UWUxvcXRfdVJveEZ6OVVRdmo1MUVfeENUNG9MM1V4TW8?oc=5)
-
----
-
-### [【大腸がん治療最前線】「AI内視鏡で“見逃しリスク”を軽減」「難易度が高いケースではロボット手術」、国が推奨する検査「便潜血法」には落とし穴も](https://news.google.com/rss/articles/CBMiR0FVX3lxTE1WckJyYzRYUWNVSUJLOENsYkFOZDZKaE9YYjNHNy1zMzVqUTUxaktlRHRHRmdFWS1WdTVQRFhxSk9FN3RJV2Nz?oc=5)
-
-2026-11-02 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
-
-出典: [マネーポストWEB](https://news.google.com/rss/articles/CBMiR0FVX3lxTE1WckJyYzRYUWNVSUJLOENsYkFOZDZKaE9YYjNHNy1zMzVqUTUxaktlRHRHRmdFWS1WdTVQRFhxSk9FN3RJV2Nz?oc=5)
+出典: [マネーポストWEB](https://news.google.com/rss/articles/CBMiR0FVX3lxTFBMOXZ5ZzlSdVhpMXNwSGlfU1Z6b3lTX2tHRkZXOTVua3M1eGhjbS1na1Jkc0otRVhUdVpmVzV2TGNnTUhVb2hF?oc=5)
 
 ---
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-04
 ---
 
 <p class="key-answer" data-question="ザルティア錠５ｍｇ（選） に関するニュースは？">
-<strong>ザルティア錠５ｍｇ（選）</strong> には現在 <strong>3 件</strong>の関連ニュースがあり、予測適応症は 8 件です。
+<strong>ザルティア錠５ｍｇ（選）</strong> には現在 <strong>4 件</strong>の関連ニュースがあり、予測適応症は 8 件です。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ last_modified_at: 2026-11-04
 <p><a href="{{ '/drugs/tadalafil/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（3 件）
+## 関連ニュース（4 件）
+
+### [「突然片目が見えなくなった」は“脳梗塞”のサイン！？　眼科医が「目の血管」をくまなく調べるワケ(オトナンサー)](https://news.yahoo.co.jp/articles/c26c5a71f07b5e2f0b4909f8ccf8f565aebb18c5?source=rss)
+
+2026-11-04 <span class="news-indication-tag">脳卒中</span> <span class="news-indication-tag">脳梗塞</span> <span class="news-indication-tag">脳出血</span>
+
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/c26c5a71f07b5e2f0b4909f8ccf8f565aebb18c5?source=rss)
+
+---
 
 ### [高血圧患者の脳卒中予防法](https://news.google.com/rss/articles/CBMimgFBVV95cUxPMVFsbjlUWENENUpIaWJrNnc5Ujl1WU9tODdRSFhWaDcwdTNjMWdNV25aeHE5ekM0bzh5TkhuWFlHdG9tejVRZmgyYnp2Zkp0cE15ZEZqZkNVdnFDUmNST1lHclBydWdhMGxrX3RmZ0xJTjR1Wm1wcmNOSkpZNUhNNFU4T3FYUzhEX29mblhLSDhHMkxZMjl4a29B?oc=5)
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-04
 ---
 
 <p class="key-answer" data-question="メトロニダゾールゲル０．７５％「マルイシ」 に関するニュースは？">
-<strong>メトロニダゾールゲル０．７５％「マルイシ」</strong> には現在 <strong>14 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>メトロニダゾールゲル０．７５％「マルイシ」</strong> には現在 <strong>13 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,21 @@ last_modified_at: 2026-11-04
 <p><a href="{{ '/drugs/metronidazole/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（14 件）
+## 関連ニュース（13 件）
+
+### [局所進行食道がん、食道胃接合部がんに対する根治的な化学放射線療法にペムブロリズマブの上乗せを検証するランダム化第III相試験：KEYNOTE-975【ESMO2026 胃・食道がん】](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBIU3REb2ROOHdCZXZiNFpaaXI0SjlqMENmaW1IaEc5Yzc0V3RNV0ROY2F5dkxDOUhlTDJRWklva2dhNmdpek5rUkg2YzBrM3FKZ2c?oc=5)
+
+2026-11-04 <span class="news-indication-tag">がん</span>
+
+出典: [m3.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBIU3REb2ROOHdCZXZiNFpaaXI0SjlqMENmaW1IaEc5Yzc0V3RNV0ROY2F5dkxDOUhlTDJRWklva2dhNmdpek5rUkg2YzBrM3FKZ2c?oc=5)
+
+---
 
 ### [健康：子宮頸がんの症例数と死亡者数は増加すると予測される - Nature Asia](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XYi1ndHNtNUFOLThBTkJYQ1h2TmdTbDYwMDk3ZTlmc2xHZkNfd3J2ZmI3ek9GTGRlc1o2YkZQZFQteGZLSFdFVUFyczF0RXNaUVRjYXgtVzVjTVlXRVlCTnlxblZhU0U?oc=5)
 
 2026-11-04 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
 
 出典: [Nature Asia](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XYi1ndHNtNUFOLThBTkJYQ1h2TmdTbDYwMDk3ZTlmc2xHZkNfd3J2ZmI3ek9GTGRlc1o2YkZQZFQteGZLSFdFVUFyczF0RXNaUVRjYXgtVzVjTVlXRVlCTnlxblZhU0U?oc=5)
-
----
-
-### [大仁田厚氏×天野方一院長が男性更年期の公開対談を開催 ― “歳のせい”で片づけない、男性の健康を考える - PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE5sUWl2Z3piV2pVbk42TklOU3R0WnNjRERheEpTYXR2bHRjX2pXWkRnNHJPc0lLaTk3Q2xCaFc1Q01NM2NJTGh3c0RiNFNkZGktOEU2SDIySVNILTB0OXpxTVZxdElmWWN1X1E?oc=5)
-
-2026-11-04 <span class="news-indication-tag">更年期</span>
-
-出典: [PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE5sUWl2Z3piV2pVbk42TklOU3R0WnNjRERheEpTYXR2bHRjX2pXWkRnNHJPc0lLaTk3Q2xCaFc1Q01NM2NJTGh3c0RiNFNkZGktOEU2SDIySVNILTB0OXpxTVZxdElmWWN1X1E?oc=5)
 
 ---
 
@@ -68,19 +68,11 @@ last_modified_at: 2026-11-04
 
 ---
 
-### [【すい臓がん治療最前線】画期的新薬「ダラクソンラシブ」に高まる期待 「百年に一度の薬」と絶賛されるも、日本で保険診療として承認されるためには“高すぎる薬価”の壁(マネーポストWEB)](https://news.google.com/rss/articles/CBMihwFBVV95cUxOUm1yMW5oNXFfNEplUWpxaFE5aTRVckFaZHFiZ2xFbzJiUnU3Y08wZl9CczliMmIwNWtwaDNlTHFNNWUtbTJiN3hHVDR0TEhETVplR24yRmZ4eFBMa3dreXFUYXVVWm1UWUxvcXRfdVJveEZ6OVVRdmo1MUVfeENUNG9MM1V4TW8?oc=5)
+### [【すい臓がん治療最前線】画期的新薬「ダラクソンラシブ」に高まる期待 「百年に一度の薬」と絶賛されるも、日本で保険診療として承認されるためには“高すぎる薬価”の壁](https://news.google.com/rss/articles/CBMiR0FVX3lxTFBMOXZ5ZzlSdVhpMXNwSGlfU1Z6b3lTX2tHRkZXOTVua3M1eGhjbS1na1Jkc0otRVhUdVpmVzV2TGNnTUhVb2hF?oc=5)
 
 2026-11-02 <span class="news-indication-tag">がん</span>
 
-出典: [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxOUm1yMW5oNXFfNEplUWpxaFE5aTRVckFaZHFiZ2xFbzJiUnU3Y08wZl9CczliMmIwNWtwaDNlTHFNNWUtbTJiN3hHVDR0TEhETVplR24yRmZ4eFBMa3dreXFUYXVVWm1UWUxvcXRfdVJveEZ6OVVRdmo1MUVfeENUNG9MM1V4TW8?oc=5)
-
----
-
-### [【大腸がん治療最前線】「AI内視鏡で“見逃しリスク”を軽減」「難易度が高いケースではロボット手術」、国が推奨する検査「便潜血法」には落とし穴も](https://news.google.com/rss/articles/CBMiR0FVX3lxTE1WckJyYzRYUWNVSUJLOENsYkFOZDZKaE9YYjNHNy1zMzVqUTUxaktlRHRHRmdFWS1WdTVQRFhxSk9FN3RJV2Nz?oc=5)
-
-2026-11-02 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
-
-出典: [マネーポストWEB](https://news.google.com/rss/articles/CBMiR0FVX3lxTE1WckJyYzRYUWNVSUJLOENsYkFOZDZKaE9YYjNHNy1zMzVqUTUxaktlRHRHRmdFWS1WdTVQRFhxSk9FN3RJV2Nz?oc=5)
+出典: [マネーポストWEB](https://news.google.com/rss/articles/CBMiR0FVX3lxTFBMOXZ5ZzlSdVhpMXNwSGlfU1Z6b3lTX2tHRkZXOTVua3M1eGhjbS1na1Jkc0otRVhUdVpmVzV2TGNnTUhVb2hF?oc=5)
 
 ---
 

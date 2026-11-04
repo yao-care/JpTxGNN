@@ -3,7 +3,7 @@ layout: default
 title: "脳卒中 (stroke) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "脳卒中 (stroke) に関する健康ニュース。ニュース 3 件、関連医薬品 16 件。"
+description: "脳卒中 (stroke) に関する健康ニュース。ニュース 4 件、関連医薬品 16 件。"
 permalink: /news/stroke/
 last_modified_at: 2026-11-04
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-04
 ---
 
 <p class="key-answer" data-question="脳卒中 (stroke) に関するニュースは？">
-<strong>脳卒中 (stroke)</strong> には現在 <strong>3 件</strong>の関連ニュースと 16 件の関連医薬品があります。
+<strong>脳卒中 (stroke)</strong> には現在 <strong>4 件</strong>の関連ニュースと 16 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -45,7 +45,15 @@ last_modified_at: 2026-11-04
 </ul>
 </div>
 
-## 関連ニュース（3 件）
+## 関連ニュース（4 件）
+
+### [「突然片目が見えなくなった」は“脳梗塞”のサイン！？　眼科医が「目の血管」をくまなく調べるワケ(オトナンサー)](https://news.yahoo.co.jp/articles/c26c5a71f07b5e2f0b4909f8ccf8f565aebb18c5?source=rss)
+
+2026-11-04
+
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/c26c5a71f07b5e2f0b4909f8ccf8f565aebb18c5?source=rss)
+
+---
 
 ### [高血圧患者の脳卒中予防法](https://news.google.com/rss/articles/CBMimgFBVV95cUxPMVFsbjlUWENENUpIaWJrNnc5Ujl1WU9tODdRSFhWaDcwdTNjMWdNV25aeHE5ekM0bzh5TkhuWFlHdG9tejVRZmgyYnp2Zkp0cE15ZEZqZkNVdnFDUmNST1lHclBydWdhMGxrX3RmZ0xJTjR1Wm1wcmNOSkpZNUhNNFU4T3FYUzhEX29mblhLSDhHMkxZMjl4a29B?oc=5)
 

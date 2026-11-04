@@ -15,7 +15,7 @@ last_modified_at: 2026-11-04
 ---
 
 <p class="key-answer" data-question="タミフルドライシロップ３％（選） に関するニュースは？">
-<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>7 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>5 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ last_modified_at: 2026-11-04
 <p><a href="{{ '/drugs/oseltamivir/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（7 件）
+## 関連ニュース（5 件）
 
 ### [【第44週】群馬県内でインフルエンザ、RSウイルス報告続く、ヘルパンギーナは警報解除](https://news.google.com/rss/articles/CBMiSkFVX3lxTE9hLXRXUkhhY2V1X0tXS080M1RYTnF5Tmp4aHNqRjl5NDVLRVdfTVNsUnNIVzZHeDRCVmJTdWNTdHNjanI2UFRQUjV3?oc=5)
 
@@ -56,14 +56,6 @@ last_modified_at: 2026-11-04
 
 ---
 
-### [医師が季節性インフルエンザによる重篤な合併症のリスクがある人々に警告](https://news.google.com/rss/articles/CBMiswFBVV95cUxQUkNYM0lvR3ZxaGtTNHZhb01xRTMzcW5peXh5b29wQThDM1ZIaE53LWRlYm1UOWIwOEQ1WDRGdkVaUDRxNWFUZjc4SkFsQy1qNHJrREY2eDhPNzZOYW9MTXFNeHRETTZSVHJMQTEyRDUzTnROTVdCcmVLX1hlV0tENmxybHVWNTg2RkNYSlNSVXhqSnJvMHRyQjNLSWMtRlVPVEYtdUhVNHF3SDk2NWVGaV9adw?oc=5)
-
-2026-11-02 <span class="news-drug-tag">アセトアミノフェン５０ｍｇ坐剤</span> <span class="news-indication-tag">インフルエンザ</span>
-
-出典: [Laodong.vn](https://news.google.com/rss/articles/CBMiswFBVV95cUxQUkNYM0lvR3ZxaGtTNHZhb01xRTMzcW5peXh5b29wQThDM1ZIaE53LWRlYm1UOWIwOEQ1WDRGdkVaUDRxNWFUZjc4SkFsQy1qNHJrREY2eDhPNzZOYW9MTXFNeHRETTZSVHJMQTEyRDUzTnROTVdCcmVLX1hlV0tENmxybHVWNTg2RkNYSlNSVXhqSnJvMHRyQjNLSWMtRlVPVEYtdUhVNHF3SDk2NWVGaV9adw?oc=5)
-
----
-
 ### [《最新研究が明かすインフルエンザワクチンの効果》心筋梗塞や脳卒中などのリスク低減か、認知症予防に関する研究も 60才以上が対象の「新ワクチン」は来年以降の導入へ (1/2)](https://news.google.com/rss/articles/CBMiOEFVX3lxTE1RcmFybi00U19KMjBoeHdKN2dqUUZ2TTBwUjduWmFzY2haTkR5N0J6Wl90RlJuZXU5?oc=5)
 
 2026-11-01 <span class="news-indication-tag">認知症</span> <span class="news-indication-tag">心筋梗塞</span> <span class="news-indication-tag">脳卒中</span> <span class="news-indication-tag">インフルエンザ</span>
@@ -77,14 +69,6 @@ last_modified_at: 2026-11-04
 2026-11-01 <span class="news-indication-tag">インフルエンザ</span>
 
 出典: [たまひよ](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnUUtFeDlfdG5MNE9EclZZaVZvNjBtSWtiTmJOdHV4d20xVm9BVUtuOUE2V3ZnS1F2TEFnOU1PTmhza3lqSWlGMGc4VmZ6aElnbDZMVGVDclRjMTRIeUE?oc=5)
-
----
-
-### [《インフルエンザ・コロナを予防》手洗い、マスク…対策しても感染!? 専門家が教える感染症予防の落とし穴と“免疫力強化”のポイント](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBrc0Vya251ZzJDdUhNRXdmejhKVXpiY0pTTXdhTHFMTlVZdjA3bms3REtPdkdHRHRGODFWVVhfT2hZQ2JNaU4ybVprWExTc2h6clQ5UUtvVGhybzRu?oc=5)
-
-2026-10-29 <span class="news-indication-tag">インフルエンザ</span>
-
-出典: [週刊女性PRIME](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBrc0Vya251ZzJDdUhNRXdmejhKVXpiY0pTTXdhTHFMTlVZdjA3bms3REtPdkdHRHRGODFWVVhfT2hZQ2JNaU4ybVprWExTc2h6clQ5UUtvVGhybzRu?oc=5)
 
 ---
 
