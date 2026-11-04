@@ -16,6 +16,7 @@
   7. docs/nav-*.md、evidence-*.md、drugs.md 不寫死該由 drug_stats.json 來的藥物總數、等級分布條寬度、等級藥物數（2026-11-03）。
   8. llms.txt／llms-full.txt 範例藥物行「名稱 (Lx): 網址」的標籤＝藥物頁 evidence_level，且不指向轉址／noindex／不存在的頁（2026-11-03）。
   9. llms.txt／llms-full.txt 的本站資料區塊（site-data）剛好一個、等級分布＝drug_stats.json、資料集網址出現在本站 sources 頁（2026-11-04）。
+  10. docs/_data/hreflang.json 裡本站自己的頁（說明頁等，藥物頁除外）存在、不是 noindex／轉址頁、組裡有自我參照、沒有 x-default（2026-11-04）。
 
 Tw 專屬的檢查（TFDA 許可證表、docs/_data/drug_reviews.json 人工查核紀錄、drug_stats.json）沒有移植；
 本站之後若建立同類機制，再把對應檢查加回來。
@@ -377,6 +378,47 @@ for _name in ("llms.txt", "llms-full.txt"):
         if _u not in _sd_src:
             errors.append(f"{_name}：本站資料區塊的資料集網址 {_u} 不在本站 sources 頁"
                           f"（先在 sources 頁寫明出處，再改母目錄 .claude/llms_site_data.tsv）")
+
+# 10) hreflang（2026-11-04 補）：docs/_data/hreflang.json 的 pages 裡本站自己的頁（藥物頁 /drugs/<藥>/ 由母目錄
+#    .claude/gen_hreflang_20261029.py 管，這裡不查）要對得上存在的 permalink、不是 noindex／轉址頁，組裡要含本站自己
+#    （自我參照），而且不得含 x-default（首頁沒有）。說明頁（privacy／methodology／guide／downloads／about）的組由
+#    母目錄 .claude/gen_hreflang_pages.py 產生：頁改成 noindex、刪頁或改 permalink 後，在母目錄重跑它（建表＋--apply）。
+_HL_F = DOCS / "_data" / "hreflang.json"
+if _HL_F.exists():
+    _hl = json.loads(_HL_F.read_text(encoding="utf-8"))
+    _hl_base = "https://" + (DOCS / "CNAME").read_text(encoding="utf-8").strip()
+    _hl_me = [_i for _i, _s in enumerate(_hl.get("sites", [])) if _s[1].rstrip("/") == _hl_base]
+    if len(_hl_me) != 1:
+        errors.append(f"_data/hreflang.json 的 sites 表找不到本站 {_hl_base}（在母目錄重跑 .claude/gen_hreflang_pages.py --apply）")
+    else:
+        _hl_pg = {}  # permalink → (front matter 原文, 內文)
+        for _f in DOCS.rglob("*"):
+            _rel = _f.relative_to(DOCS).parts
+            if _f.suffix not in (".md", ".html") or any(_p.startswith(("_", ".")) or _p in ("vendor", "node_modules", "assets") for _p in _rel[:-1]):
+                continue
+            _t = _f.read_text(encoding="utf-8", errors="replace")
+            _m = re.match(r"\A\ufeff?---\r?\n(.*?)\r?\n---\r?\n", _t, re.S)
+            if not _m:
+                continue
+            _pm = re.search(r'^permalink:\s*"?([^"\s]+)"?\s*$', _m.group(1), re.M)
+            if _pm:
+                _hl_pg["/" + _pm.group(1).strip("/") + "/" if _pm.group(1).strip("/") else "/"] = (_m.group(1), _t[_m.end():])
+            elif _f.name == "index.md" and len(_rel) == 1:
+                _hl_pg["/"] = (_m.group(1), _t[_m.end():])
+        for _k, _alt in _hl.get("pages", {}).items():
+            if _k.startswith("/drugs/") and _k != "/drugs/":
+                continue
+            if _k not in _hl_pg:
+                errors.append(f"_data/hreflang.json 列了 {_k}，本站沒有這個 permalink（在母目錄重跑 .claude/gen_hreflang_pages.py）")
+                continue
+            _fmt, _body = _hl_pg[_k]
+            if (re.search(r"^noindex:\s*true\b", _fmt, re.M) or re.search(r"<meta[^>]+name=[\"']robots[\"'][^>]*noindex", _body, re.I)
+                    or re.search(r"^(redirect_to:|layout:\s*id_redirect)", _fmt, re.M) or 'http-equiv="refresh"' in _body[:3000]):
+                errors.append(f"_data/hreflang.json 列了 {_k}，但本站這頁是 noindex 或轉址頁，不得列入 hreflang（在母目錄重跑 .claude/gen_hreflang_pages.py）")
+            if [_hl_me[0], _k] not in _alt:
+                errors.append(f"_data/hreflang.json 的 {_k} 組沒有本站自己（自我參照）")
+            if any(str(_hl["sites"][_a[0]][0]).lower() == "x-default" for _a in _alt):
+                errors.append(f"_data/hreflang.json 的 {_k} 組有 x-default（首頁沒有，不加）")
 
 if errors:
     print(f"docs SEO 守門：✗ {len(errors)} 項")
