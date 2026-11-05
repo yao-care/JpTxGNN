@@ -11,7 +11,7 @@ image: /assets/images/og-default.png
 # ドラッグリポジショニング、データからエビデンスへ
 
 <p class="key-answer" data-question="JpTxGNN ドラッグリポジショニング検証報告とは？">
-<strong>JpTxGNN</strong> は、ハーバード大学 TxGNN モデルに基づくドラッグリポジショニング予測プラットフォームです。AI により <strong>1,633</strong> 件の新適応症（既知用途を除外）を予測し、<strong>385</strong> 種の日本医療用医薬品に対して予測から検証までの完全なレポートを提供します。
+<strong>JpTxGNN</strong> は、ハーバード大学 TxGNN モデルに基づくドラッグリポジショニング予測プラットフォームです。AI により <strong>{{ site.data.site_stats.indications }}</strong> 件の新適応症（既知用途を除外）を予測し、<strong>{{ site.data.drug_stats.total_drugs }}</strong> 種の日本医療用医薬品に対して予測から検証までの完全なレポートを提供します。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,20 @@ image: /assets/images/og-default.png
 
 本サイトでは、[社会保険診療報酬支払基金の医薬品マスター](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)（薬価基準収載品目、日本）に収載された医薬品のうち **{{ site.data.drug_stats.total_drugs }}** 品目のレポートを公開しています。
 
-エビデンスレベル別のレポート数： L1 {{ site.data.drug_stats.level_counts.L1 }} · L2 {{ site.data.drug_stats.level_counts.L2 }} · L3 {{ site.data.drug_stats.level_counts.L3 }} · L4 {{ site.data.drug_stats.level_counts.L4 }} · L5 {{ site.data.drug_stats.level_counts.L5 }}
+データセット：[社会保険診療報酬支払基金 医薬品マスター](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)。毎週月曜日に自動でダウンロードし照合しています。詳細：[データソース]({{ '/sources/' | relative_url }})。
+
+エビデンスレベル別のレポート数：
+
+| エビデンスレベル | レポート数 | 割合 |
+|---|---|---|
+| L1 | {{ site.data.drug_stats.level_counts.L1 }} | {{ site.data.drug_stats.level_counts.L1 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
+| L2 | {{ site.data.drug_stats.level_counts.L2 }} | {{ site.data.drug_stats.level_counts.L2 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
+| L3 | {{ site.data.drug_stats.level_counts.L3 }} | {{ site.data.drug_stats.level_counts.L3 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
+| L4 | {{ site.data.drug_stats.level_counts.L4 }} | {{ site.data.drug_stats.level_counts.L4 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
+| L5 | {{ site.data.drug_stats.level_counts.L5 }} | {{ site.data.drug_stats.level_counts.L5 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
+{% assign na = site.data.drug_stats.total_drugs | minus: site.data.drug_stats.level_counts.L1 | minus: site.data.drug_stats.level_counts.L2 | minus: site.data.drug_stats.level_counts.L3 | minus: site.data.drug_stats.level_counts.L4 | minus: site.data.drug_stats.level_counts.L5 %}{% if na > 0 %}| N/A | {{ na }} | {{ na | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |{% endif %}
+
+本サイトの予測（医薬品と疾患の組み合わせ）のうち 40 件は、30 の TxGNN サイトのうち他のサイトにはありません。
 
 ### 本サイトでエビデンスレベルが最も高い医薬品
 
@@ -153,7 +166,7 @@ image: /assets/images/og-default.png
 
 <div class="stats-grid">
   <div class="stat-card">
-    <div class="stat-number">385</div>
+    <div class="stat-number">{{ site.data.drug_stats.total_drugs }}</div>
     <div class="stat-label">対象医薬品</div>
   </div>
   <div class="stat-card" style="background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%);">
@@ -161,7 +174,7 @@ image: /assets/images/og-default.png
     <div class="stat-label">DrugBank マッピング</div>
   </div>
   <div class="stat-card" style="background: linear-gradient(135deg, #ee0979 0%, #ff6a00 100%);">
-    <div class="stat-number">1,633</div>
+    <div class="stat-number">{{ site.data.site_stats.indications }}</div>
     <div class="stat-label">予測新適応症</div>
   </div>
   <div class="stat-card" style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);">
@@ -176,7 +189,7 @@ image: /assets/images/og-default.png
 
 | 分類 | 説明 | リンク |
 |------|------|------|
-| **医薬品検索** | 385 種の医薬品（検索可能） | [医薬品リスト]({{ '/drugs/' | relative_url }}) |
+| **医薬品検索** | {{ site.data.drug_stats.total_drugs }} 種の医薬品（検索可能） | [医薬品リスト]({{ '/drugs/' | relative_url }}) |
 | **SMART on FHIR** | EHR システム統合 | [SMART App]({{ '/smart/' | relative_url }}) |
 | **FHIR API** | プログラムによるアクセス | [API 仕様]({{ '/fhir-api/' | relative_url }}) |
 | **データダウンロード** | CSV / JSON 形式 | [ダウンロード]({{ '/downloads/' | relative_url }}) |
@@ -199,8 +212,8 @@ image: /assets/images/og-default.png
 
 | 項目 | 数量 |
 |------|------|
-| 医薬品レポート | 385 件 |
-| 予測新適応症 | 1,633 件 |
+| 医薬品レポート | {{ site.data.drug_stats.total_drugs }} 件 |
+| 予測新適応症 | {{ site.data.site_stats.indications }} 件 |
 
 ### 予測フロー
 
@@ -335,16 +348,4 @@ image: /assets/images/og-default.png
 
 ## 開発者について
 
-本プラットフォームは **藥提醒科技有限公司**（yao.care、法人登記番号 83620786、
-12F, No. 220, Sec. 2, Taiwan Blvd., West Dist., Taichung City, Taiwan）が開発・運営しています。
-
-JpTxGNN は、同社の「TxGNN ドラッグリポジショニング」製品ラインの日本サイトです。
-同一のシステムは 30 の国と地域に展開されており、それぞれ `{CC}TxGNN`
-（JpTxGNN、UsTxGNN、DETxGNN など）と命名され、`{cc}txgnn.yao.care` で公開されています。
-製品概要： <https://www.yao.care/medical/txgnn/>
-
-TxGNN モデルそのものは Harvard Medical School の Zitnik Lab によって開発され、
-*Nature Medicine* に発表されました。本プラットフォームは、そのモデルの上に 藥提醒科技有限公司 が構築した
-本番システムであり、各国の医薬品承認データの統合、知識グラフ上の既知用途を除外した深層学習予測、
-PubMed / ClinicalTrials によるエビデンス評価、SMART on FHIR による
-電子カルテ連携をカバーしています。
+本プラットフォームは **藥提醒科技有限公司**（yao.care）が開発・運営しています。会社概要と方法論の背景は<a href="{{ '/about/' | relative_url }}">プロジェクトについて</a>ページをご覧ください。
