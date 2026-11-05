@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "エルロチニブ錠１５０ｍｇ「ＮＫ」 に関する健康ニュース。予測適応症 0 件。"
 permalink: /news/erlotinib/
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-05
 ---
 
 # エルロチニブ錠１５０ｍｇ「ＮＫ」 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-04
 ---
 
 <p class="key-answer" data-question="エルロチニブ錠１５０ｍｇ「ＮＫ」 に関するニュースは？">
-<strong>エルロチニブ錠１５０ｍｇ「ＮＫ」</strong> には現在 <strong>17 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>エルロチニブ錠１５０ｍｇ「ＮＫ」</strong> には現在 <strong>15 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ last_modified_at: 2026-11-04
 <p><a href="{{ '/drugs/erlotinib/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（17 件）
+## 関連ニュース（15 件）
+
+### [がんが進行し、住み慣れた家で最期を過ごしたい。訪問診療、介護保険…在宅療養で利用できる制度は(婦人公論.jp)](https://news.yahoo.co.jp/articles/9fc25d198a2fe8abd8ae92815563e80d9d3bca52?source=rss)
+
+2026-11-05 <span class="news-indication-tag">がん</span>
+
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/9fc25d198a2fe8abd8ae92815563e80d9d3bca52?source=rss)
+
+---
 
 ### [世界中で認知症患者増加の危機！新規患者が2050年には2倍超の2470万人に - @DIME アットダイム](https://news.google.com/rss/articles/CBMiREFVX3lxTE9BMHBscWJlMXJwMnE0MU1xT3pRV2c1RDcwei1GbGZtX2hhVU1FZHVJY0o3Sk1NNGo1aE42a0hGMy1iNTdy?oc=5)
 
@@ -104,14 +112,6 @@ last_modified_at: 2026-11-04
 
 ---
 
-### [肥満症が胃噴門部腺がんを進展させる機序をマウスで解明－東北大](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa1dKNlI0Y1pQY0J1UTdFWVFfUGlGaFpzeDloaUhrSnNaU3NwTmFoLTY2cktBZi1ZNk5PejhvQWN6cmlTZjdPUFNtRk5Kc0s4R2FpNkJaalQ2eEhvS2thZzkzWktFcnl6OHhPLV9kNmhncE9lbUM4MTlPc2dkVEJIZ0xQOTVWalhkWXFINVZDdUtTOWszXzhVWTJMQVhXNllPYW9xdTNCNUxhQWNfRGpuNk1KNjhFaEMtYXhvdWlZY2I4UlpQMDdGVXVfRDRKWl9HRHVvRg?oc=5)
-
-2026-11-02 <span class="news-indication-tag">がん</span>
-
-出典: [QLifePro](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa1dKNlI0Y1pQY0J1UTdFWVFfUGlGaFpzeDloaUhrSnNaU3NwTmFoLTY2cktBZi1ZNk5PejhvQWN6cmlTZjdPUFNtRk5Kc0s4R2FpNkJaalQ2eEhvS2thZzkzWktFcnl6OHhPLV9kNmhncE9lbUM4MTlPc2dkVEJIZ0xQOTVWalhkWXFINVZDdUtTOWszXzhVWTJMQVhXNllPYW9xdTNCNUxhQWNfRGpuNk1KNjhFaEMtYXhvdWlZY2I4UlpQMDdGVXVfRDRKWl9HRHVvRg?oc=5)
-
----
-
 ### [《最新研究が明かすインフルエンザワクチンの効果》心筋梗塞や脳卒中などのリスク低減か、認知症予防に関する研究も 60才以上が対象の「新ワクチン」は来年以降の導入へ (1/2)](https://news.google.com/rss/articles/CBMiOEFVX3lxTE1RcmFybi00U19KMjBoeHdKN2dqUUZ2TTBwUjduWmFzY2haTkR5N0J6Wl90RlJuZXU5?oc=5)
 
 2026-11-01 <span class="news-indication-tag">認知症</span> <span class="news-indication-tag">心筋梗塞</span> <span class="news-indication-tag">脳卒中</span> <span class="news-indication-tag">インフルエンザ</span>
@@ -144,27 +144,11 @@ last_modified_at: 2026-11-04
 
 ---
 
-### [20代・30代女性が無料で乳がん検診を体験！ はなさく生命がピンクリボン月間に札幌で啓発イベントを開催](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rc2I2ZEFzVktnNDBISHU5RlZRQlJ1TmxjamJ2RGpJSkNJOGJiVDRpTG8tUkFyb1otRUtodkljbkNSNl9wN1A0X0tBVGJSaHF4dmcwV2FySWxES1U?oc=5)
-
-2026-10-30 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
-
-出典: [舌肥](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rc2I2ZEFzVktnNDBISHU5RlZRQlJ1TmxjamJ2RGpJSkNJOGJiVDRpTG8tUkFyb1otRUtodkljbkNSNl9wN1A0X0tBVGJSaHF4dmcwV2FySWxES1U?oc=5)
-
----
-
-### [【大阪府摂津市】わずか6mLの採血でがん・認知リスクを評価する「メタロ・バランス検査」、「まつざき脳神経・頭痛クリニック千里丘」にて2026年12月19日(土)より検査開始 ＜ご予約受付中＞ - PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZdEFnSGMzc2JQTjQ0bHgzdC1tdVp5U0lucEVsdUxZZzhpMmpLWHRwYmg0QVBhcE12VXM1NWYzeVNjOWt3M090QkFVanY1eTNfcmREUmk0alcyVEVhN2U1cTFwTDlkZkFQZnc?oc=5)
+### [【大阪府摂津市】わずか6mLの採血でがん・認知リスクを評価する「メタロ・バランス検査」、「まつざき脳神経・頭痛クリニック千里丘」にて2026年12月19日(土)より検査開始 ＜ご予約受付中](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uQmxQTHJid1NacUxmQjFEUE1lSVRDcnNpbG95LTluY1JQOWI3TFhqMW1ocEhObXdNRzkweTVjYlVLZnlqbjJ3Z3padWhYTTZpbC03WGxEUmwzZw?oc=5)
 
 2026-10-29 <span class="news-indication-tag">がん</span>
 
-出典: [PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE9ZdEFnSGMzc2JQTjQ0bHgzdC1tdVp5U0lucEVsdUxZZzhpMmpLWHRwYmg0QVBhcE12VXM1NWYzeVNjOWt3M090QkFVanY1eTNfcmREUmk0alcyVEVhN2U1cTFwTDlkZkFQZnc?oc=5)
-
----
-
-### [ワクチン接種で認知症リスクが半減!? 帯状疱疹、ヘルペスなど“潜伏ウイルス”が脳を蝕む連鎖反応を防ぐ《驚きの方法》](https://news.google.com/rss/articles/CBMihwFBVV95cUxQM3dMdmZWemJLZHluY0ppWWFFdzBkbHZKeG5oajI4SUhtOC1vSUI4WDZWcXNicDZpZXlYYTRyeGdBZDhBQkJlelZxZ3A1dE5QdUlaZnQ4QmJ4V1BqanJRV3QycENQcUhYUG9fTGhJN3d0VjdQeXhyMjFqTlJWNU1FdFJ5RzNKMUE?oc=5)
-
-2026-10-28 <span class="news-indication-tag">帯状疱疹</span> <span class="news-indication-tag">認知症</span>
-
-出典: [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxQM3dMdmZWemJLZHluY0ppWWFFdzBkbHZKeG5oajI4SUhtOC1vSUI4WDZWcXNicDZpZXlYYTRyeGdBZDhBQkJlelZxZ3A1dE5QdUlaZnQ4QmJ4V1BqanJRV3QycENQcUhYUG9fTGhJN3d0VjdQeXhyMjFqTlJWNU1FdFJ5RzNKMUE?oc=5)
+出典: [オリコンニュース](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uQmxQTHJid1NacUxmQjFEUE1lSVRDcnNpbG95LTluY1JQOWI3TFhqMW1ocEhObXdNRzkweTVjYlVLZnlqbjJ3Z3padWhYTTZpbC03WGxEUmwzZw?oc=5)
 
 ---
 
