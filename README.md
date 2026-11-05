@@ -23,7 +23,7 @@ Japan PMDA承認医薬品のTxGNNモデルによるドラッグリポジショ�
 | **予測総数** | 12,395,216 |
 | **ユニーク医薬品数** | 426 |
 | **ユニーク適応症数** | 15,003 |
-| **DDIデータ** | 302,516 |
+| **DDIデータ** | 160,235 |
 | **DFIデータ** | 857 |
 | **DHIデータ** | 35 |
 | **DDSIデータ** | 8,359 |
@@ -218,7 +218,7 @@ PYTHONPATH=src python -m jptxgnn.predict.txgnn_model
 | **医薬品データ** | PMDA | - | Japan |
 | **知識グラフ** | TxGNN KG | [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IXA7BM) | 17,080 diseases, 7,957 drugs |
 | **医薬品データベース** | DrugBank | [DrugBank](https://go.drugbank.com/) | 医薬品成分マッピング |
-| **薬物相互作用** | DDInter 2.0 | [DDInter](https://ddinter2.scbdd.com/) | DDIペア |
+| **薬物相互作用** | DDInter | [DDInter](https://ddinter2.scbdd.com/) | DDIペア |
 | **薬物相互作用** | Guide to PHARMACOLOGY | [IUPHAR/BPS](https://www.guidetopharmacology.org/) | 承認薬物相互作用 |
 | **臨床試験** | ClinicalTrials.gov | [CT.gov API v2](https://clinicaltrials.gov/data-api/api) | 臨床試験登録 |
 | **臨床試験** | WHO ICTRP | [ICTRP API](https://apps.who.int/trialsearch/api/v1/search) | 国際臨床試験プラットフォーム |

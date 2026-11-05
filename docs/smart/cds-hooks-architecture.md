@@ -9,6 +9,8 @@ permalink: /smart/cds-hooks-architecture/
 
 # CDS Hooks アーキテクチャ設計
 
+> **計画文書**：本ページは計画文書であり、記載のサービスはまだデプロイされていません。本サイトには現在 CDS Hooks サービスも cds-services.json もなく、提供しているのは静的な FHIR ファイルと、ブラウザ内で動作する SMART アプリおよびスタンドアロン検索ページのみです。
+
 本ページでは、JpTxGNN の CDS Hooks 統合アーキテクチャを解説します。
 
 ---

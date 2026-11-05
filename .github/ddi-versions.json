@@ -13,7 +13,7 @@
     "ddi_with_mechanism": 8466,
     "url": "https://ddinter2.scbdd.com/download/",
     "api_endpoint": "https://ddinter2.scbdd.com/server/interaction-source/",
-    "note": "API 回傳有機制描述的 DDI，下載頁面有完整配對"
+    "note": "API 回傳有機制描述的 DDI（ddi_with_mechanism，workflow 監測用）。ddi_total_pairs 是 DDInter 2.0 網站統計的總配對數，不是本站資料（母 repo generate_readmes.py 會把它寫進 README）。下載頁的 ddinter_downloads_code_*.csv 在 DDInter 1.0（ddinter.scbdd.com）與 2.0（ddinter2.scbdd.com）兩站是同一組檔案（2026-11-05 比對位元組相同），檔案本身不標版本；本站 data/external/ddi/ddinter/ddinter_code_*.csv 與之相同：222,383 列資料（扣掉 8 個標題列）、160,235 組不重複藥物配對、1,939 個藥名"
   },
   "ddinter_dfi": {
     "last_checked": "2026-02-21",

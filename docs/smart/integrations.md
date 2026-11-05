@@ -57,6 +57,8 @@ JpTxGNN SMART App は複数の外部リソースを統合し、ドラッグリ�
 
 ## CDS Hooks 統合
 
+> **注**：この節の CDS Hooks 統合は計画段階で、サービスはまだデプロイされていません。本サイトには現在 CDS Hooks サービスも cds-services.json もありません。
+
 JpTxGNN は CDS Hooks 仕様に基づく臨床決定支援統合をサポートしています。
 
 ### サポートするフック

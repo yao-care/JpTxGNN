@@ -420,6 +420,31 @@ if _HL_F.exists():
             if any(str(_hl["sites"][_a[0]][0]).lower() == "x-default" for _a in _alt):
                 errors.append(f"_data/hreflang.json 的 {_k} 組有 x-default（首頁沒有，不加）")
 
+# 11) DDInter 筆數（2026-11-05 補）：本站的 DDInter 資料是 ddinter_code_*.csv 8 個下載檔，222,383 列資料（222,391 行扣掉 8 個
+#    標題列）、去重後 160,235 組藥物配對。docs、README.md、CITATION.cff 裡提到 DDInter 或 DDI 的那一行（含後面 3 行，涵蓋 HTML
+#    表格分行的 <td>）只能寫這兩個數；302,516、200,000 是 DDInter 2.0 網站自己的統計，只在同一行寫明「DDInter 2.0」時放行。
+_DDI_NUM = re.compile(r"(?<![\d,.])(\d{3})[,.\u00a0\u202f ](\d{3})(?![\d,.]?\d)")
+_DDI_OK, _DDI_OK20 = {222383, 160235}, {302516, 200000}
+_ddi_files = [_f for _f in DOCS.rglob("*") if _f.suffix in (".md", ".html", ".txt")
+              and not any(_p in ("_site", "vendor", "node_modules", ".jekyll-cache") for _p in _f.relative_to(DOCS).parts)]
+_ddi_files += [DOCS.parent / "README.md", DOCS.parent / "CITATION.cff"]
+for _f in _ddi_files:
+    if not _f.is_file():
+        continue
+    _ls = _f.read_text(encoding="utf-8", errors="replace").splitlines()
+    _bad = set()
+    for _i, _ln in enumerate(_ls):
+        if not re.search(r"DDInter(?!act)|\bDDI\b", _ln):
+            continue
+        for _j in range(_i, min(_i + 4, len(_ls))):
+            for _m in _DDI_NUM.finditer(_ls[_j]):
+                _v = int(_m.group(1) + _m.group(2))
+                if _v in _DDI_OK or (_v in _DDI_OK20 and "DDInter 2.0" in _ls[_j]):
+                    continue
+                _bad.add((_j + 1, _m.group(0)))
+    for _ln_no, _num in sorted(_bad):
+        errors.append(f"{_f.relative_to(DOCS.parent)}:{_ln_no} 寫了 DDInter／DDI 筆數 {_num}：本站資料只能寫 222,383（列數）或 160,235（去重配對數）")
+
 if errors:
     print(f"docs SEO 守門：✗ {len(errors)} 項")
     for e in errors:
