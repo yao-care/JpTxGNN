@@ -22,6 +22,7 @@
      許可證表裡有效的許可證不得寫成註銷；kr 只檢查狀態列＝Unknown (source lacks cancellation status)
   M2 事實是已註銷／過期／核准未上市，狀態列不得寫成上市中（kr 不查）
   M3 正文（非表格）說全部註銷／沒有有效許可證但事實有效數 >0，或事實全部註銷／未上市但正文說上市中（kr 不查；pm C1）
+     M3 擴充（2026-11-05，英文站、M3X_SITES 啟用）：M3a 未上市卻寫有效、M3b 有效卻寫未註冊／查無註冊、M3c 有註銷卻寫全部有效／沒有註銷／有效張數過多
 N1 noindex（--noindex 時才查）：no_pred_noindex 的頁要有 noindex: true，其他頁不得有
 用法（母目錄）：python3 .claude/check_drug_page.py [--selftest] [--noindex] [--pages site:page,...] [站 ...]
 輸出 .claude/audit_20261016/check/results.tsv（site, page, code, detail）；有錯 exit 1。
@@ -487,6 +488,65 @@ MKT_CLAIM_EXTRA = re.compile(r"\bis (currently )?marketed\b|\bremains on the mar
                              r"\bmarkkinoilla\b|\bdipasarkan\b|مسوق|วางจำหน่าย", re.I)
 AT_LEAST = re.compile(r"at least|al menos|pelo menos|mindestens|mindst|vähintään|au moins|至少|almeno|以上|최소|sekurang-kurangnya|minstens|"
                       r"\bminst\b|على الأقل|อย่างน้อย|≥", re.I)
+
+# M3 擴充（2026-11-05，Za 概覽 vs 內文矛盾稽核找到的三種漏網寫法；英文站）：
+#   M3a 事實是全部註銷／查無許可，正文寫有效（valid status、currently valid、valid registration、小寫 marketed in…）
+#   M3b 事實有有效許可，正文寫未註冊／查無註冊（not registered、no SAHPRA registrations、zero registrations、total licences: 0、
+#       data retrieval failure 這類「查無結果」說法）
+#   M3c 事實有註銷張數（非部分紀錄），正文寫全部有效／沒有註銷，或正文寫的有效張數多於事實
+# 只在 M3X_SITES 的站啟用：新規則上線前，該站頁面要先清到 0（否則許可證排程的 checker 會擋下整批）；selftest 一律測。
+M3X_SITES = {"ZaTxGNN"}
+M3X_LANGS = ("en", "en-us")
+VALID_CLAIM = re.compile(r"\bvalid status\b|\b(is|are|remains?) (currently |still )?valid\b|\bcurrently valid\b|"
+                         r"\bvalid (single[\w-]*|registrations?|licen[cs]es?|authori[sz]ations?|approvals?|SAHPRA|products?|records?|entr(y|ies))\b|"
+                         r"\(\s*[^()]*\bvalid\s*\)|\bmarketed in\b|\bis (widely )?(registered|marketed)\b", re.I)
+NOREG_CLAIM = re.compile(r"\bnot (currently )?registered\b|\bno (SAHPRA|local|South African|national)[- ](registrations?|licen[cs]es?|registered (products?|medicines?|formulations?))\b|"
+                         r"\bholds? no (\w+ ){0,3}(registrations?|licen[cs]es?|marketing authori[sz]ations?)\b|"
+                         r"\bzero (\w+ ){0,3}(registrations?|licen[cs]es?)\b|\bzero[- ](registration|licen[cs]e) (result|finding)|"
+                         r"\bno (?:(?!cancel|revok|withdraw|combination)\w+ ){0,3}registrations? (on record|on file|were found|was found|were identified|were located|are recorded|"
+                         r"(were |are )?recorded|found|returned)\b|\(total licen[cs]es?: 0\)|\b0[- ]registration|\bno registration (records?|data)\b|"
+                         r"\breturned zero (\w+ ){0,2}(registrations?|licen[cs]es?|products?|records?)\b|\bdata (retrieval|collection|matching) (failure|gap|issue|error)|\bretrieval or matching failure|"
+                         r"\bno (\w+ ){0,2}(registered |pharmaceutical )?products? (were|was) (found|identified|returned|listed)\b|"
+                         r"\babsence of (SAHPRA |local |any )?registration|\bregistration (data|records?) (was|were) not (collected|retrieved)\b|"
+                         r"\bSection 21 unregistered|\bunregistered medicine (provisions?|authori[sz]ation)", re.I)
+REG_WORD = re.compile(r"regist|licen[cs]|authori[sz]|market|products?\b|records?\b", re.I)
+REGISTRY_CTX = re.compile(r"trial|SANCTR|PACTR|ICTRP|clinicaltrials|NCT\d|\bregistry\b|\bstud(y|ies)\b", re.I)
+NONE_CANCEL = re.compile(r"\bnone (of them |of these )?(is |are |was |were )?(cancel+ed|revoked|withdrawn)\b|"
+                         r"\bno (cancel+ed|revoked|withdrawn)( or [\w-]+)? (registrations?|licen[cs]es?|authori[sz]ations?|approvals?|ones)\b|"
+                         r"\bno (registrations?|licen[cs]es?) (is|are|was|were) cancel+ed\b|\bnone cancel+ed\b", re.I)
+ALL_VALID = re.compile(r"\b(all|both)\b[^.;\n]{0,70}?\b(are|is|remain|remains)\s+(currently |still )?valid\b|"
+                       r"\b(all|both)\b[^.;\n]{0,50}\bwith valid status\b|\ball (\w+ ){0,3}valid\b", re.I)
+NUM_WORDS = {"one": 1, "two": 2, "three": 3, "four": 4, "five": 5, "six": 6, "seven": 7, "eight": 8, "nine": 9, "ten": 10,
+             "eleven": 11, "twelve": 12, "thirteen": 13, "fourteen": 14, "fifteen": 15, "sixteen": 16, "seventeen": 17,
+             "eighteen": 18, "nineteen": 19, "twenty": 20}
+_NUM = r"(\d+|" + "|".join(NUM_WORDS) + r")"
+VALID_COUNT = re.compile(r"\b" + _NUM + r"\b((?:[\s-]+(?!of\b|and\b|are\b|is\b)[\w-]+){0,4}?)\s+(are|is|remain)\s+(currently |still )?valid\b|"
+                         r"\b" + _NUM + r"\s+valid\b", re.I)
+
+
+def _num(x):
+    return int(x) if x.isdigit() else NUM_WORDS.get(x.lower())
+
+
+def m3x(lang, s, fc):
+    """M3 擴充規則；回傳子類（M3a／M3b／M3c）或 None。fc＝license_facts 一筆（market_status、valid、total、cancelled、partial）"""
+    if lang not in M3X_LANGS or not fc or REGISTRY_CTX.search(s):
+        return None
+    ms, v = fc.get("market_status"), fc.get("valid") or 0
+    c = fc.get("cancelled") or 0
+    if ms in ("Cancelled only", "Not marketed") and VALID_CLAIM.search(s) and not mv2.NEG.search(s):
+        return "M3a"
+    if v > 0 and NOREG_CLAIM.search(s) and not POS_VALID.search(s) and REG_WORD.search(s):
+        return "M3b"
+    if c > 0 and not fc.get("partial"):
+        if NONE_CANCEL.search(s) or (ALL_VALID.search(s) and not re.search(r"cancel", s, re.I)):
+            return "M3c"
+        for m in VALID_COUNT.finditer(s):
+            n = _num(m.group(1) or m.group(5))
+            pre = s[max(0, m.start() - 14):m.start()]
+            if n and n > v and not AT_LEAST.search(pre) and not (m.group(1) and re.search(r"\bof (the )?$", pre, re.I)):
+                return "M3c"
+    return None
 
 
 def marketed_word(lang):
@@ -1024,6 +1084,8 @@ def check_page(site, f, cls, want_noindex):
                     E("M3", f"事實有效 {v} 張，正文寫全部註銷：{s[:60]}")
                 elif ms in ("Cancelled only", "Not marketed") and (marketed_word(lang) in s or MKT_CLAIM_EXTRA.search(s)) and not mv2.NEG.search(s):
                     E("M3", f"事實 {ms}，正文寫上市中：{s[:60]}")
+                elif site in M3X_SITES and (sub := m3x(lang, s, fc)):
+                    E("M3", f"{sub} 事實 {ms}（有效 {v}／註銷 {fc.get('cancelled') or 0}），正文：{s[:60]}")
     # N1
     if want_noindex:
         has = bool(re.search(r"^noindex:\s*true", fm, re.M))
@@ -1056,6 +1118,10 @@ def selftest():
                     and not (still_valid_ok(text) and not NOT_MKT_CLAIM.search(text))
             else:
                 got = (marketed_word(lang) in text or bool(MKT_CLAIM_EXTRA.search(text))) and not mv2.NEG.search(text)
+        elif code == "M3X":  # note＝ms=<市場狀態>;valid=<n>;cancelled=<n>[;partial=1]（2026-11-05 M3 擴充）
+            kv = dict(x.split("=", 1) for x in note.split(";") if "=" in x)
+            got = bool(m3x(lang, text, {"market_status": kv.get("ms"), "valid": int(kv.get("valid", 0)),
+                                        "cancelled": int(kv.get("cancelled", 0)), "partial": kv.get("partial") == "1"}))
         elif code == "P3C6":  # text＝「已移除病名|句子」：正文提到已移除（非已知用途）的病名（含常見縮寫），已知用途句除外
             name, s = text.split("|", 1)
             rxs = [re.compile(r"(?<![A-Za-z])" + re.escape(name) + r"(?![A-Za-z])", re.I)] + \

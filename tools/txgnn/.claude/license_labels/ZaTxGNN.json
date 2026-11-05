@@ -1,8 +1,11 @@
 {
  "labels": {
-  "Valid": "valid"
+  "Valid": "valid",
+  "Cancelled": "cancelled",
+  "Canceled": "cancelled"
  },
  "preferred": {
-  "valid": "Valid"
+  "valid": "Valid",
+  "cancelled": "Cancelled"
  }
 }
