@@ -123,7 +123,8 @@ jobs:
 
             ### 資料來源文件
 
-            詳見 [DATA_SOURCES.md](docs/DATA_SOURCES.md)
+            - 本站資料來源頁：<https://jptxgnn.yao.care/ddi/>
+            - 版本記錄與筆數重算方式：[.github/ddi-versions.json](${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/blob/main/.github/ddi-versions.json)
 
             ---
             *此 Issue 由 GitHub Actions 自動建立*
