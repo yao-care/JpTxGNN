@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "タミフルドライシロップ３％（選） に関する健康ニュース。予測適応症 0 件。"
 permalink: /news/oseltamivir/
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-05
 ---
 
 # タミフルドライシロップ３％（選） 関連ニュース
@@ -32,11 +32,11 @@ last_modified_at: 2026-11-04
 
 ## 関連ニュース（5 件）
 
-### [【第44週】群馬県内でインフルエンザ、RSウイルス報告続く、ヘルパンギーナは警報解除](https://news.google.com/rss/articles/CBMiSkFVX3lxTE9hLXRXUkhhY2V1X0tXS080M1RYTnF5Tmp4aHNqRjl5NDVLRVdfTVNsUnNIVzZHeDRCVmJTdWNTdHNjanI2UFRQUjV3?oc=5)
+### [群馬県内のインフルエンザ感染者 3週ぶりに増加「推移読むのが難しい」](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mUXBoUlBvaGVNMWg2QzlzSWp1THBMRjR6aUZvV0pIMGp1YWpNc0I4ME1kM1RNRHNoMUtMUFZMOFFJMWJGY3UtWnpqZENTLWh0SGZJMDlwUDY2UQ?oc=5)
 
-2026-11-04 <span class="news-indication-tag">インフルエンザ</span>
+2026-11-05 <span class="news-indication-tag">インフルエンザ</span>
 
-出典: [みんなの学校新聞](https://news.google.com/rss/articles/CBMiSkFVX3lxTE9hLXRXUkhhY2V1X0tXS080M1RYTnF5Tmp4aHNqRjl5NDVLRVdfTVNsUnNIVzZHeDRCVmJTdWNTdHNjanI2UFRQUjV3?oc=5)
+出典: [上毛新聞電子版](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mUXBoUlBvaGVNMWg2QzlzSWp1THBMRjR6aUZvV0pIMGp1YWpNc0I4ME1kM1RNRHNoMUtMUFZMOFFJMWJGY3UtWnpqZENTLWh0SGZJMDlwUDY2UQ?oc=5)
 
 ---
 
