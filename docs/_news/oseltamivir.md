@@ -15,7 +15,7 @@ last_modified_at: 2026-11-05
 ---
 
 <p class="key-answer" data-question="タミフルドライシロップ３％（選） に関するニュースは？">
-<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>5 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>8 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,9 +30,25 @@ last_modified_at: 2026-11-05
 <p><a href="{{ '/drugs/oseltamivir/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（5 件）
+## 関連ニュース（8 件）
 
-### [群馬県内のインフルエンザ感染者 3週ぶりに増加「推移読むのが難しい」](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mUXBoUlBvaGVNMWg2QzlzSWp1THBMRjR6aUZvV0pIMGp1YWpNc0I4ME1kM1RNRHNoMUtMUFZMOFFJMWJGY3UtWnpqZENTLWh0SGZJMDlwUDY2UQ?oc=5)
+### [【岐阜県インフルエンザ週報】「可茂」が定点当たり15.40人で最多 「岐阜市」は前週の約2.5倍に急増＜10月26日～11月1日の感染症情報 - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE9XM1FmamtSN0NQV0pxel9PN2loRTRIV0FnaEt6UTJCamhnMkZDaDJYYWVqTkRPWEN3OC15bnRDVWJ2QlM2RkYybFNZaW5GcVJYWFNMVFhNR045NzZTUFlNNXNpdlBSdE5LMVpuZnBB?oc=5)
+
+2026-11-05 <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE9XM1FmamtSN0NQV0pxel9PN2loRTRIV0FnaEt6UTJCamhnMkZDaDJYYWVqTkRPWEN3OC15bnRDVWJ2QlM2RkYybFNZaW5GcVJYWFNMVFhNR045NzZTUFlNNXNpdlBSdE5LMVpuZnBB?oc=5)
+
+---
+
+### [【愛知県インフルエンザ週報】患者数2週連続で増加 “14歳以下”の感染目立つ＜10月26日～11月1日の感染症情報 - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTFBrWVRJVjVxcl9CZ2lCek1OZWM2UEtsWVJQdVdsV1g3MnA0b3B4c3BZR3NlX3pnb0wwZXNSdTN5c3Q5WExJbUZDS0FXNmd5QkZPTld6MGVQRmtXZjVadk9GZjh3dzFYdFNpNG9qbHFn?oc=5)
+
+2026-11-05 <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTFBrWVRJVjVxcl9CZ2lCek1OZWM2UEtsWVJQdVdsV1g3MnA0b3B4c3BZR3NlX3pnb0wwZXNSdTN5c3Q5WExJbUZDS0FXNmd5QkZPTld6MGVQRmtXZjVadk9GZjh3dzFYdFNpNG9qbHFn?oc=5)
+
+---
+
+### [群馬県内のインフルエンザ感染者 3週ぶりに増加「推移読むのが難しい」 | 上毛新聞電子版｜群馬県のニュース・スポーツ情報](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mUXBoUlBvaGVNMWg2QzlzSWp1THBMRjR6aUZvV0pIMGp1YWpNc0I4ME1kM1RNRHNoMUtMUFZMOFFJMWJGY3UtWnpqZENTLWh0SGZJMDlwUDY2UQ?oc=5)
 
 2026-11-05 <span class="news-indication-tag">インフルエンザ</span>
 
@@ -69,6 +85,14 @@ last_modified_at: 2026-11-05
 2026-11-01 <span class="news-indication-tag">インフルエンザ</span>
 
 出典: [たまひよ](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnUUtFeDlfdG5MNE9EclZZaVZvNjBtSWtiTmJOdHV4d20xVm9BVUtuOUE2V3ZnS1F2TEFnOU1PTmhza3lqSWlGMGc4VmZ6aElnbDZMVGVDclRjMTRIeUE?oc=5)
+
+---
+
+### [インフルエンザ流行中、今期は10歳未満の入院例が3割超…子どももワクチン接種やマスク装着を](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nVmZ2SWMySlJMYVBkYlFPOEhENXJYVEVUbjgxNjBYdGE0SVk4aEVXcTVrcFo1N3ozUmg3UmVEZnJYazllQkUtdU9KUFByRFNwVGt2YUhna1I5SGprUVQ4?oc=5)
+
+2026-10-30 <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nVmZ2SWMySlJMYVBkYlFPOEhENXJYVEVUbjgxNjBYdGE0SVk4aEVXcTVrcFo1N3ozUmg3UmVEZnJYazllQkUtdU9KUFByRFNwVGt2YUhna1I5SGprUVQ4?oc=5)
 
 ---
 

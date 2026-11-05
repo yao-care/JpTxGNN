@@ -15,7 +15,7 @@ last_modified_at: 2026-11-05
 ---
 
 <p class="key-answer" data-question="トライコア錠８０ｍｇ（選） に関するニュースは？">
-<strong>トライコア錠８０ｍｇ（選）</strong> には現在 <strong>14 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
+<strong>トライコア錠８０ｍｇ（選）</strong> には現在 <strong>15 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -33,13 +33,37 @@ last_modified_at: 2026-11-05
 <p><a href="{{ '/drugs/fenofibrate/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（14 件）
+## 関連ニュース（15 件）
 
-### [がんが進行し、住み慣れた家で最期を過ごしたい。訪問診療、介護保険…在宅療養で利用できる制度は(婦人公論.jp)](https://news.yahoo.co.jp/articles/9fc25d198a2fe8abd8ae92815563e80d9d3bca52?source=rss)
+### [子宮頸がん予防啓発月間でエッセイ漫画『さよならしきゅう』を期間限定公開 MSD](https://news.google.com/rss/articles/CBMi2gJBVV95cUxNNHRaVTl5QjVTX01oQ29odmhJSFVPX3duSmZNLXBLaUhISXRDQmhERGhyNl9tX241bDlSYWRMX2RSZFBPeWdDVTRvcUl6SW5Fb3pSWmp2Rkt6TzJ5SkNSeVFxcjdBZmhnVlRCWFNVazRaaU1uTnR5d2VVSUpDQ1Z5X0RnUmFSV3RDY2V3Q1JMQnhqWVF1a3JWMG4xd1dreTJ6RWxrRGt2Wk5UMk1JemU5dHBOUDhYdHVNRHgyLW1IN3cxZ3lHd01Db21wd0NUOWNhV1FXa3ZRN2FGdWl4dUZvN1hYSTl3amFFTWM5OVFFQm50ajJtdkdldGVsaGhyb2FhRWJaV2c1VU5IN0dGRDllMEpIdjloNzRQUHJ2eHYtckJhNzJDOWJlUUdpTG0ybTB1ZHVGODhGOVZwaHNxdzFCWDN0dlZMbjZoSGlxNm9mcl83RGt5N3hjZFVn?oc=5)
+
+2026-11-05 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
+
+出典: [医薬通信社](https://news.google.com/rss/articles/CBMi2gJBVV95cUxNNHRaVTl5QjVTX01oQ29odmhJSFVPX3duSmZNLXBLaUhISXRDQmhERGhyNl9tX241bDlSYWRMX2RSZFBPeWdDVTRvcUl6SW5Fb3pSWmp2Rkt6TzJ5SkNSeVFxcjdBZmhnVlRCWFNVazRaaU1uTnR5d2VVSUpDQ1Z5X0RnUmFSV3RDY2V3Q1JMQnhqWVF1a3JWMG4xd1dreTJ6RWxrRGt2Wk5UMk1JemU5dHBOUDhYdHVNRHgyLW1IN3cxZ3lHd01Db21wd0NUOWNhV1FXa3ZRN2FGdWl4dUZvN1hYSTl3amFFTWM5OVFFQm50ajJtdkdldGVsaGhyb2FhRWJaV2c1VU5IN0dGRDllMEpIdjloNzRQUHJ2eHYtckJhNzJDOWJlUUdpTG0ybTB1ZHVGODhGOVZwaHNxdzFCWDN0dlZMbjZoSGlxNm9mcl83RGt5N3hjZFVn?oc=5)
+
+---
+
+### [【大腸がん研究の最前線】40歳未満の患者の約70％で腸内細菌の関与を確認 1965年以降生まれではその割合が増加 研究から見えてきた新たな予防への可能性【前後編の後編】](https://news.google.com/rss/articles/CBMibkFVX3lxTE5jbjlWUkhrTk9SdkVvcXhWWGpnZG1FakZHNWJPY2pucmhjRHpPVXUxb0ZveE9fOGE3MEtsdHRzZkxpU0d4SU1EV1lyVEc5REJSUU16SHJiR0ZLVHJ3Z0dHbkoxdzU4Q25MSlo5N2pn?oc=5)
+
+2026-11-05 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
+
+出典: [NEWSポストセブン](https://news.google.com/rss/articles/CBMibkFVX3lxTE5jbjlWUkhrTk9SdkVvcXhWWGpnZG1FakZHNWJPY2pucmhjRHpPVXUxb0ZveE9fOGE3MEtsdHRzZkxpU0d4SU1EV1lyVEc5REJSUU16SHJiR0ZLVHJ3Z0dHbkoxdzU4Q25MSlo5N2pn?oc=5)
+
+---
+
+### [20代～30代の女性をパートナーに持つ男性のうち、6割は子宮頸がんの原因となるウイルスを男性が女性にうつす可能性があることを知らない！ - PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE5RRHF0bFU1VjhJNFRGMUFyRmEzc1kzbjlzeHUyNG41LUZkWU10RDA4MHVuekNzSmxiZDB6eHJ1WTY3OXZNekdobF80UlNzU0UydlFYQmtYWVJrM29Gek9UZW1yQkdaeFNDUHc?oc=5)
 
 2026-11-05 <span class="news-indication-tag">がん</span>
 
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/9fc25d198a2fe8abd8ae92815563e80d9d3bca52?source=rss)
+出典: [PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE5RRHF0bFU1VjhJNFRGMUFyRmEzc1kzbjlzeHUyNG41LUZkWU10RDA4MHVuekNzSmxiZDB6eHJ1WTY3OXZNekdobF80UlNzU0UydlFYQmtYWVJrM29Gek9UZW1yQkdaeFNDUHc?oc=5)
+
+---
+
+### [胃がんの発症に深く関わる「ピロリ菌」――除菌と検査について知っておきたいこと(Medical Note)](https://news.yahoo.co.jp/articles/6d6f62f6b9e56dcf79db73610a70a25bf34b1341?source=rss)
+
+2026-11-05 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">胃がん</span>
+
+出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/6d6f62f6b9e56dcf79db73610a70a25bf34b1341?source=rss)
 
 ---
 
@@ -48,14 +72,6 @@ last_modified_at: 2026-11-05
 2026-11-04 <span class="news-indication-tag">がん</span>
 
 出典: [m3.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBIU3REb2ROOHdCZXZiNFpaaXI0SjlqMENmaW1IaEc5Yzc0V3RNV0ROY2F5dkxDOUhlTDJRWklva2dhNmdpek5rUkg2YzBrM3FKZ2c?oc=5)
-
----
-
-### [健康：子宮頸がんの症例数と死亡者数は増加すると予測される - Nature Asia](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XYi1ndHNtNUFOLThBTkJYQ1h2TmdTbDYwMDk3ZTlmc2xHZkNfd3J2ZmI3ek9GTGRlc1o2YkZQZFQteGZLSFdFVUFyczF0RXNaUVRjYXgtVzVjTVlXRVlCTnlxblZhU0U?oc=5)
-
-2026-11-04 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
-
-出典: [Nature Asia](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XYi1ndHNtNUFOLThBTkJYQ1h2TmdTbDYwMDk3ZTlmc2xHZkNfd3J2ZmI3ek9GTGRlc1o2YkZQZFQteGZLSFdFVUFyczF0RXNaUVRjYXgtVzVjTVlXRVlCTnlxblZhU0U?oc=5)
 
 ---
 
@@ -75,11 +91,11 @@ last_modified_at: 2026-11-05
 
 ---
 
-### [【すい臓がん治療最前線】画期的新薬「ダラクソンラシブ」に高まる期待 「百年に一度の薬」と絶賛されるも、日本で保険診療として承認されるためには“高すぎる薬価”の壁](https://news.google.com/rss/articles/CBMiR0FVX3lxTFBMOXZ5ZzlSdVhpMXNwSGlfU1Z6b3lTX2tHRkZXOTVua3M1eGhjbS1na1Jkc0otRVhUdVpmVzV2TGNnTUhVb2hF?oc=5)
+### [【すい臓がん治療最前線】画期的新薬「ダラクソンラシブ」に高まる期待 「百年に一度の薬」と絶賛されるも、日本で保険診療として承認されるためには“高すぎる薬価”の壁(マネーポストWEB)](https://news.google.com/rss/articles/CBMihwFBVV95cUxOUm1yMW5oNXFfNEplUWpxaFE5aTRVckFaZHFiZ2xFbzJiUnU3Y08wZl9CczliMmIwNWtwaDNlTHFNNWUtbTJiN3hHVDR0TEhETVplR24yRmZ4eFBMa3dreXFUYXVVWm1UWUxvcXRfdVJveEZ6OVVRdmo1MUVfeENUNG9MM1V4TW8?oc=5)
 
 2026-11-02 <span class="news-indication-tag">がん</span>
 
-出典: [マネーポストWEB](https://news.google.com/rss/articles/CBMiR0FVX3lxTFBMOXZ5ZzlSdVhpMXNwSGlfU1Z6b3lTX2tHRkZXOTVua3M1eGhjbS1na1Jkc0otRVhUdVpmVzV2TGNnTUhVb2hF?oc=5)
+出典: [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxOUm1yMW5oNXFfNEplUWpxaFE5aTRVckFaZHFiZ2xFbzJiUnU3Y08wZl9CczliMmIwNWtwaDNlTHFNNWUtbTJiN3hHVDR0TEhETVplR24yRmZ4eFBMa3dreXFUYXVVWm1UWUxvcXRfdVJveEZ6OVVRdmo1MUVfeENUNG9MM1V4TW8?oc=5)
 
 ---
 
@@ -136,14 +152,6 @@ last_modified_at: 2026-11-05
 2026-10-31 <span class="news-indication-tag">がん</span>
 
 出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBQMmhaQU82bU1YQTRzMDRVd3h3UnFpVEVqZ1Z1OUtPTTZKbEF6SWU0N1V5Unh1VVRyb0I3alpGaFpvZTRSUnBSblJVQ3FOMUhvV0ZnWVRsbWh5VE9IZjA2RVoxQUJDdTVjeFZfUUhRUHRRVjcwd3Z0RE5FYXBKRDg?oc=5) · [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/5237762cb32e9371e8efb5973a0839ca72e76d49?source=rss)
-
----
-
-### [【大阪府摂津市】わずか6mLの採血でがん・認知リスクを評価する「メタロ・バランス検査」、「まつざき脳神経・頭痛クリニック千里丘」にて2026年12月19日(土)より検査開始 ＜ご予約受付中](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uQmxQTHJid1NacUxmQjFEUE1lSVRDcnNpbG95LTluY1JQOWI3TFhqMW1ocEhObXdNRzkweTVjYlVLZnlqbjJ3Z3padWhYTTZpbC03WGxEUmwzZw?oc=5)
-
-2026-10-29 <span class="news-indication-tag">がん</span>
-
-出典: [オリコンニュース](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uQmxQTHJid1NacUxmQjFEUE1lSVRDcnNpbG95LTluY1JQOWI3TFhqMW1ocEhObXdNRzkweTVjYlVLZnlqbjJ3Z3padWhYTTZpbC03WGxEUmwzZw?oc=5)
 
 ---
 

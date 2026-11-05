@@ -33,6 +33,14 @@ last_modified_at: 2026-11-05
 
 ## 関連ニュース（4 件）
 
+### [あなたは大丈夫？ほぼ毎日昼寝する高齢者は認知症リスクが48％増えると判明 - @DIME アットダイム](https://news.google.com/rss/articles/CBMiREFVX3lxTE9LYjRadmpFcHd3ZHRaUFZMUVpoaGRoSXNDRWRqNTA3QzZOS0gwdXBlRmNZY202NFUxUGNsUExDMVAwdTM4?oc=5)
+
+2026-11-05
+
+出典: [@DIME アットダイム](https://news.google.com/rss/articles/CBMiREFVX3lxTE9LYjRadmpFcHd3ZHRaUFZMUVpoaGRoSXNDRWRqNTA3QzZOS0gwdXBlRmNZY202NFUxUGNsUExDMVAwdTM4?oc=5)
+
+---
+
 ### [世界中で認知症患者増加の危機！新規患者が2050年には2倍超の2470万人に - @DIME アットダイム](https://news.google.com/rss/articles/CBMiREFVX3lxTE9BMHBscWJlMXJwMnE0MU1xT3pRV2c1RDcwei1GbGZtX2hhVU1FZHVJY0o3Sk1NNGo1aE42a0hGMy1iNTdy?oc=5)
 
 2026-11-04
@@ -54,14 +62,6 @@ last_modified_at: 2026-11-05
 2026-11-01
 
 出典: [女性セブンプラス](https://news.google.com/rss/articles/CBMiOEFVX3lxTE1RcmFybi00U19KMjBoeHdKN2dqUUZ2TTBwUjduWmFzY2haTkR5N0J6Wl90RlJuZXU5?oc=5)
-
----
-
-### [認知症を引き起こす「ペットボトル飲料」のリスク…亡くなった人の脳から「クレヨン1本分」の微小プラスチックが検出された](https://news.google.com/rss/articles/CBMif0FVX3lxTFBCUEZMN04tYnNFR2NSelVBdnZvcnlGaExEc00zQnYxVE9XRndFQ09MS0hwVmZVSjZHMDZPcEtUYU9GdExpbE1SZnhTNklLNlVNRHlOZnk4SjYzTGJIRTFQbHR0clIwZUJxUXQyVXZvblZtQnNDdWRZTjdWa2hlbms?oc=5)
-
-2026-10-31
-
-出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBCUEZMN04tYnNFR2NSelVBdnZvcnlGaExEc00zQnYxVE9XRndFQ09MS0hwVmZVSjZHMDZPcEtUYU9GdExpbE1SZnhTNklLNlVNRHlOZnk4SjYzTGJIRTFQbHR0clIwZUJxUXQyVXZvblZtQnNDdWRZTjdWa2hlbms?oc=5)
 
 ---
 
