@@ -209,6 +209,33 @@ def main(argv):
     fs_now = lts.facts(site)
     scoped = {"Cancelled only": site in ckm.SCOPE_CANCELLED, "Not marketed": site in ckm.NO_CENTRAL}
     S["to_verify"] = sorted(pg for pg in rows if scoped.get((lts.page_facts(fs_now, pg) or {}).get("market_status"), True) is False)
+    # 2026-11-05（Za 概覽 vs 內文稽核）：排程只改表格列、不改正文。這輪有許可證從有效轉成註銷的頁，正文若還有
+    # 張數句或「全部有效／沒有註銷」句（M3 擴充規則，英文站；其他語言站：同句有數字與許可證字樣），也列進 to_verify，
+    # 由人或程式（例：Za scripts/sync_license_pages.py）處理，不在排程裡改寫正文。
+    flipped_pages = sorted({c.split(" ")[0] for c in changes if " preprocess " not in c and "→" in c
+                            and str(c.rsplit("→", 1)[-1]).lower().startswith("cancel")})
+    lang_now = ckm.LANG.get(site, "en")
+    for pg in flipped_pages:
+        pf = BASE / site / "docs/_drugs" / f"{pg}.md"
+        if not pf.exists():
+            pf = BASE / site / "docs/_drugs" / f"{pg.replace('_', '-')}.md"
+        if not pf.exists():
+            continue
+        fcp = lts.page_facts(fs_now, pg) or {}
+        body = pf.read_text(encoding="utf-8").replace("\r\n", "\n")
+        hit = None
+        for line in body.split("\n"):
+            if line.startswith(("|", "#")):
+                continue
+            for s in ckm.sentences(line):
+                if (hasattr(ckm, "m3x") and ckm.m3x(lang_now, s, fcp)) or \
+                        (lang_now not in ("en", "en-us") and re.search(r"\d", s) and re.search(ckm._LIC, s, re.I)):
+                    hit = s
+                    break
+            if hit:
+                break
+        if hit and pg not in S["to_verify"]:
+            S["to_verify"].append(f"{pg}（本輪有許可證轉註銷，正文仍有張數／全部有效句：{hit[:60]}）")
     tch, unsynced = lts.apply(site, labels)
     tch += lts.drop_excluded_rows(site)
     fields = [(pg, lab, a_, b_) for pg, ch in rows.items() for lab, a_, b_ in ch] + tch

@@ -177,3 +177,32 @@ P5	en	The knowledge graph flags pancreatitis as a likely new indication with sco
 P5	nl	De kennisgraaf voorspelt deze aandoening.	hit	pm A 案對照：有預測字樣不豁免
 P5	en	The knowledge graph links this drug to liver failure.	miss	section=## Safety Considerations
 P5	en	The knowledge graph links this drug to liver failure with a score of 0.995.	hit	section=## Safety Considerations
+M3X	en	The product is a single-ingredient registration with valid status.	hit	ms=Cancelled only;valid=0;cancelled=1
+M3X	en	One single-ingredient registration is currently valid.	hit	ms=Cancelled only;valid=0;cancelled=1
+M3X	en	Carbocisteine is a mucoregulating medicine with antioxidant activity, marketed in South Africa as a single-ingredient syrup.	hit	ms=Cancelled only;valid=0;cancelled=1
+M3X	en	Only one registration (single-ingredient, valid) was identified, and it is for an injectable product.	hit	ms=Cancelled only;valid=0;cancelled=1
+M3X	en	The only registration has been cancelled and the drug is not marketed in South Africa.	miss	ms=Cancelled only;valid=0;cancelled=1
+M3X	en	Arginine hydrochloride is **not currently registered with SAHPRA** and carries no approved South African product licences on record.	hit	ms=Marketed;valid=9;cancelled=1
+M3X	en	No SAHPRA registrations were found for bupropion hydrochloride in the current evidence pack (total licences: 0).	hit	ms=Marketed;valid=1;cancelled=0
+M3X	en	A result of zero SAHPRA registrations almost certainly reflects a data retrieval failure rather than true market absence.	hit	ms=Marketed;valid=19;cancelled=1
+M3X	en	No SANCTR or PACTR registrations were identified in the data compiled for this report.	miss	ms=Marketed;valid=6;cancelled=1
+M3X	en	Ipratropium is marketed in South Africa with nine valid registrations.	miss	ms=Marketed;valid=9;cancelled=5
+M3X	en	All 11 registrations are valid single-ingredient records.	hit	ms=Marketed;valid=10;cancelled=1
+M3X	en	Ciprofloxacin has 8 valid single-ingredient SAHPRA registrations and no cancelled ones.	hit	ms=Marketed;valid=6;cancelled=2
+M3X	en	Both registrations are valid single-ingredient products, and none are cancelled.	hit	ms=Marketed;valid=1;cancelled=1
+M3X	en	Eleven single-ingredient SAHPRA registrations are valid and none are cancelled.	hit	ms=Marketed;valid=9;cancelled=2
+M3X	en	Showing 5 of 9 valid registrations.	hit	ms=Marketed;valid=8;cancelled=1
+M3X	en	Of the 18 registrations on record, 17 are valid and 1 is cancelled.	miss	ms=Marketed;valid=17;cancelled=1
+M3X	en	All five registrations are valid and none is cancelled.	miss	ms=Marketed;valid=5;cancelled=0
+M3X	en	The data list 20 valid registrations; the list may be partial.	miss	ms=Marketed;valid=16;cancelled=4;partial=1
+M3X	en	All drug repurposing candidates require clinical validation before any change in prescribing practice.	miss	ms=Marketed;valid=8;cancelled=1
+M3X	es	Las tres autorizaciones están vigentes.	miss	ms=Cancelled only;valid=0;cancelled=3
+M3X	en	Four of the five registrations are valid and one is cancelled.	miss	ms=Marketed;valid=4;cancelled=1
+M3X	en	Seven of the eight SAHPRA registrations are valid and one is cancelled.	miss	ms=Marketed;valid=7;cancelled=1
+M3X	en	No combination products and no cancelled registrations were found.	miss	ms=Marketed;valid=2;cancelled=0
+M3X	en	Diphenylpyraline hydrochloride is an antihistamine, though no SAHPRA-registered indication text was available in this pack.	miss	ms=Marketed;valid=3;cancelled=0
+M3X	en	No SAHPRA-registered products were identified for Bisoprolol Fumarate in the current evidence pack.	hit	ms=Marketed;valid=7;cancelled=0
+M3X	en	> No registered products were found to tabulate.	hit	ms=Marketed;valid=53;cancelled=7
+M3X	en	The absence of SAHPRA registration reflects the local regulatory status only.	hit	ms=Marketed;valid=37;cancelled=5
+M3X	en	The TxGNN pipeline returned zero predicted indications because the entry could not be resolved, which is a data matching failure.	miss	ms=Marketed;valid=5;cancelled=0
+M3X	en	A result of zero licences strongly suggests a data ingestion or mapping failure at source.	hit	ms=Marketed;valid=5;cancelled=0
