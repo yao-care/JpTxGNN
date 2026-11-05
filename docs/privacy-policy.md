@@ -65,6 +65,10 @@ JpTxGNN（以下「本サービス」）は、ユーザーのプライバシー�
 | サービス | 目的 | プライバシーポリシー |
 |----------|------|----------------------|
 | GitHub Pages | ホスティング | [GitHub Privacy](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement) |
+| Google Analytics 4 (www.googletagmanager.com, google-analytics.com) | アクセス統計（閲覧ページ、参照元）。分析用 Cookie を使用します。検索語、フォームの内容、URL のクエリ文字列は送信しません。 | [Google プライバシーポリシー](https://policies.google.com/privacy) |
+| cdn.jsdelivr.net | スクリプトライブラリ：全ページの d3 グラフ、SMART ページの Fuse.js（名称照合）と SMART on FHIR クライアント、トップページの医薬品検索 | [jsDelivr プライバシーポリシー](https://www.jsdelivr.com/terms/privacy-policy-jsdelivr-net) |
+| clinicaltrials.gov | SMART ページの臨床試験検索：検索を指示したときだけ、医薬品名と適応症名を ClinicalTrials.gov API に送信します | [NLM ウェブポリシー](https://www.nlm.nih.gov/web_policies.html) |
+| rxnav.nlm.nih.gov | SMART アプリ：電子カルテから読み取った医薬品の RxNorm コードを、成分名を調べるため米国国立医学図書館（NLM）の RxNav API に送信します（患者を特定する情報は含みません） | [NLM ウェブポリシー](https://www.nlm.nih.gov/web_policies.html) |
 
 ## データセキュリティ
 

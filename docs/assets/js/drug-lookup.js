@@ -169,10 +169,10 @@
   }
 
   const MATCH_TEXT = {
-    "exact": "Exact match",
-    "only": "No drug with exactly this name. Related results (similar name or original-indication text) are listed below; they are not the same drug, so check before opening:",
-    "after": "Other related results (not the same drug):",
-    "hidden": "{name} ({level}) matches this name exactly but is hidden by the evidence-level filter."
+    "exact": "名称が完全に一致",
+    "only": "この名称と完全に一致する医薬品はありません。以下は名称または元の適応症の記載が近い関連結果で、同じ医薬品ではありません。開く前に確認してください：",
+    "after": "その他の関連結果（同じ医薬品ではありません）：",
+    "hidden": "{name}（{level}）は名称が完全に一致しますが、エビデンスレベルの絞り込みで非表示になっています。"
   };
 
   // 等待 DOM 和 Fuse.js 載入完成
@@ -230,7 +230,7 @@
     })
     .catch(e => {
       console.error('Failed to load search index:', e);
-      results.innerHTML = '<div class="lookup-notice">Failed to load the search index. Please reload the page.</div>';
+      results.innerHTML = '<div class="lookup-notice">検索インデックスを読み込めませんでした。ページを再読み込みしてください。</div>';
     });
 
   // 工具函數
@@ -261,13 +261,13 @@
   // 渲染搜尋結果
   function renderResults(query, showHint) {
     if (!searchIndex) {
-      results.innerHTML = '<div class="lookup-notice">Loading the search index, please wait...</div>';
+      results.innerHTML = '<div class="lookup-notice">検索インデックスを読み込んでいます...</div>';
       return;
     }
 
     if (!query || query.length < 2) {
       if (showHint) {
-        results.innerHTML = '<div class="lookup-notice">Please enter at least 2 characters</div>';
+        results.innerHTML = '<div class="lookup-notice">2 文字以上入力してください</div>';
       } else {
         results.innerHTML = '';
       }
@@ -276,7 +276,7 @@
 
     const levels = getSelectedLevels();
     if (levels.length === 0 && levelFilters.length > 0) {
-      results.innerHTML = '<div class="lookup-notice">Please select at least one evidence level</div>';
+      results.innerHTML = '<div class="lookup-notice">エビデンスレベルを 1 つ以上選択してください</div>';
       return;
     }
 
@@ -304,7 +304,7 @@
     }
 
     if (filteredDrugs.length > 0) {
-      html += '<div class="result-section"><div class="section-title">Matching drugs</div>';
+      html += '<div class="result-section"><div class="section-title">該当する医薬品</div>';
       let lastMatch = null;
       filteredDrugs.forEach(r => {
         const drug = r.item;
@@ -323,22 +323,22 @@
         html += '<a href="' + (drug.url || config.drugsBaseUrl + drug.slug + '/') + '" class="drug-name">' + escapeHtml(drug.name) + escapeHtml(brands) + '</a>';
         html += '<span class="level-badge level-' + drug.level + '">' + drug.level + '</span>';
         html += '</div>';
-        html += '<div class="result-original">Original indication: ' + (escapeHtml(drug.original) || '—') + '</div>';
-        html += '<div class="result-indications"><strong>Predicted new indications:</strong> ';
+        html += '<div class="result-original">元の適応症：' + (escapeHtml(drug.original) || '—') + '</div>';
+        html += '<div class="result-indications"><strong>予測新規適応症：</strong>';
 
         if (filteredInds.length > 0) {
           filteredInds.slice(0, 5).forEach(ind => {
-            html += '<span class="ind-item"><span class="level-badge level-' + ind.level + '">' + ind.level + '</span> ' + escapeHtml(ind.name) + ' (score ' + formatScore(ind.score) + ')</span>';
+            html += '<span class="ind-item"><span class="level-badge level-' + ind.level + '">' + ind.level + '</span> ' + escapeHtml(ind.name) + '（スコア ' + formatScore(ind.score) + '）</span>';
           });
           if (filteredInds.length > 5) {
-            html += '<span class="more">...' + filteredInds.length + ' in total</span>';
+            html += '<span class="more">…全 ' + filteredInds.length + ' 件</span>';
           }
         } else {
-          html += '<span class="no-match">(none match the filter)</span>';
+          html += '<span class="no-match">（絞り込み条件に該当なし）</span>';
         }
 
         html += '</div>';
-        html += '<a href="' + (drug.url || config.drugsBaseUrl + drug.slug + '/') + '" class="view-report">View full report →</a>';
+        html += '<a href="' + (drug.url || config.drugsBaseUrl + drug.slug + '/') + '" class="view-report">完全なレポートを見る →</a>';
         html += '</div>';
       });
       html += '</div>';
@@ -349,7 +349,7 @@
     const filteredInds = indResults.filter(r => !r.item.level || levels.includes(r.item.level));
 
     if (filteredInds.length > 0) {
-      html += '<div class="result-section"><div class="section-title">Matching indications</div>';
+      html += '<div class="result-section"><div class="section-title">該当する適応症</div>';
       filteredInds.forEach(r => {
         const ind = r.item;
         const indDrugs = filterByLevel(ind.drugs || [], levels);
@@ -359,19 +359,19 @@
         html += '<span class="indication-name">' + escapeHtml(ind.name) + '</span>';
         if (ind.level) html += '<span class="level-badge level-' + ind.level + '">' + ind.level + '</span>';
         html += '</div>';
-        html += '<div class="result-drugs"><strong>Candidate drugs (' + indDrugs.length + '):</strong> ';
+        html += '<div class="result-drugs"><strong>候補医薬品（' + indDrugs.length + '）：</strong>';
 
         indDrugs.slice(0, 5).forEach(d => {
           html += '<div class="drug-item">';
           html += '<a href="' + (d.url || config.drugsBaseUrl + d.slug + '/') + '">' + escapeHtml(d.drug || d.name || '') + '</a>';
           if (d.level) html += '<span class="level-badge level-' + d.level + '">' + d.level + '</span>';
-          html += '<span class="score">score ' + formatScore(d.score) + '</span>';
+          html += '<span class="score">スコア ' + formatScore(d.score) + '</span>';
           if (d.original) html += '<span class="original-hint">' + escapeHtml(d.original) + '</span>';
           html += '</div>';
         });
 
         if (indDrugs.length > 5) {
-          html += '<div class="more">...' + indDrugs.length + ' drugs in total</div>';
+          html += '<div class="more">…全 ' + indDrugs.length + ' 件の医薬品</div>';
         }
 
         html += '</div></div>';
@@ -380,7 +380,7 @@
     }
 
     if (!html) {
-      html = '<div class="lookup-notice">No matching results</div>';
+      html = '<div class="lookup-notice">該当する結果はありません</div>';
     }
 
     results.innerHTML = html;
