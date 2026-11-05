@@ -11,7 +11,9 @@
   'use strict';
 
   const CONFIG = {
-    ddiDataUrl: '/data/ddi-index.json',
+    // This site does not publish /data/ddi-index.json; only the curated rules
+    // below are used. Set a URL here once such a file exists.
+    ddiDataUrl: null,
     maxAlerts: 10
   };
 
@@ -185,6 +187,10 @@
    */
   async function loadDDIIndex() {
     if (isLoaded) return;
+    if (!CONFIG.ddiDataUrl) {
+      isLoaded = true;
+      return;
+    }
 
     try {
       const response = await fetch(CONFIG.ddiDataUrl);
