@@ -15,7 +15,7 @@ last_modified_at: 2026-11-05
 ---
 
 <p class="key-answer" data-question="タミフルドライシロップ３％（選） に関するニュースは？">
-<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>8 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>7 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,15 +30,7 @@ last_modified_at: 2026-11-05
 <p><a href="{{ '/drugs/oseltamivir/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（8 件）
-
-### [【岐阜県インフルエンザ週報】「可茂」が定点当たり15.40人で最多 「岐阜市」は前週の約2.5倍に急増＜10月26日～11月1日の感染症情報 - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE9XM1FmamtSN0NQV0pxel9PN2loRTRIV0FnaEt6UTJCamhnMkZDaDJYYWVqTkRPWEN3OC15bnRDVWJ2QlM2RkYybFNZaW5GcVJYWFNMVFhNR045NzZTUFlNNXNpdlBSdE5LMVpuZnBB?oc=5)
-
-2026-11-05 <span class="news-indication-tag">インフルエンザ</span>
-
-出典: [au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE9XM1FmamtSN0NQV0pxel9PN2loRTRIV0FnaEt6UTJCamhnMkZDaDJYYWVqTkRPWEN3OC15bnRDVWJ2QlM2RkYybFNZaW5GcVJYWFNMVFhNR045NzZTUFlNNXNpdlBSdE5LMVpuZnBB?oc=5)
-
----
+## 関連ニュース（7 件）
 
 ### [【愛知県インフルエンザ週報】患者数2週連続で増加 “14歳以下”の感染目立つ＜10月26日～11月1日の感染症情報 - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTFBrWVRJVjVxcl9CZ2lCek1OZWM2UEtsWVJQdVdsV1g3MnA0b3B4c3BZR3NlX3pnb0wwZXNSdTN5c3Q5WExJbUZDS0FXNmd5QkZPTld6MGVQRmtXZjVadk9GZjh3dzFYdFNpNG9qbHFn?oc=5)
 

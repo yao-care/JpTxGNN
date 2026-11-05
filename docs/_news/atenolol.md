@@ -39,9 +39,17 @@ last_modified_at: 2026-11-05
 
 ## 関連ニュース（13 件）
 
+### [「脂肪肝」は自力で改善できる？　わずかな減量でも効果出る食事＆運動法とは【医師が解説】(オトナンサー)](https://news.yahoo.co.jp/articles/a3198d28355ec22cdbfe0156c5a23b73dec6b478?source=rss)
+
+2026-11-05 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">肝がん</span>
+
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/a3198d28355ec22cdbfe0156c5a23b73dec6b478?source=rss)
+
+---
+
 ### [子宮頸がん予防啓発月間でエッセイ漫画『さよならしきゅう』を期間限定公開 MSD](https://news.google.com/rss/articles/CBMi2gJBVV95cUxNNHRaVTl5QjVTX01oQ29odmhJSFVPX3duSmZNLXBLaUhISXRDQmhERGhyNl9tX241bDlSYWRMX2RSZFBPeWdDVTRvcUl6SW5Fb3pSWmp2Rkt6TzJ5SkNSeVFxcjdBZmhnVlRCWFNVazRaaU1uTnR5d2VVSUpDQ1Z5X0RnUmFSV3RDY2V3Q1JMQnhqWVF1a3JWMG4xd1dreTJ6RWxrRGt2Wk5UMk1JemU5dHBOUDhYdHVNRHgyLW1IN3cxZ3lHd01Db21wd0NUOWNhV1FXa3ZRN2FGdWl4dUZvN1hYSTl3amFFTWM5OVFFQm50ajJtdkdldGVsaGhyb2FhRWJaV2c1VU5IN0dGRDllMEpIdjloNzRQUHJ2eHYtckJhNzJDOWJlUUdpTG0ybTB1ZHVGODhGOVZwaHNxdzFCWDN0dlZMbjZoSGlxNm9mcl83RGt5N3hjZFVn?oc=5)
 
-2026-11-05 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
+2026-11-05 <span class="news-indication-tag">がん</span>
 
 出典: [医薬通信社](https://news.google.com/rss/articles/CBMi2gJBVV95cUxNNHRaVTl5QjVTX01oQ29odmhJSFVPX3duSmZNLXBLaUhISXRDQmhERGhyNl9tX241bDlSYWRMX2RSZFBPeWdDVTRvcUl6SW5Fb3pSWmp2Rkt6TzJ5SkNSeVFxcjdBZmhnVlRCWFNVazRaaU1uTnR5d2VVSUpDQ1Z5X0RnUmFSV3RDY2V3Q1JMQnhqWVF1a3JWMG4xd1dreTJ6RWxrRGt2Wk5UMk1JemU5dHBOUDhYdHVNRHgyLW1IN3cxZ3lHd01Db21wd0NUOWNhV1FXa3ZRN2FGdWl4dUZvN1hYSTl3amFFTWM5OVFFQm50ajJtdkdldGVsaGhyb2FhRWJaV2c1VU5IN0dGRDllMEpIdjloNzRQUHJ2eHYtckJhNzJDOWJlUUdpTG0ybTB1ZHVGODhGOVZwaHNxdzFCWDN0dlZMbjZoSGlxNm9mcl83RGt5N3hjZFVn?oc=5)
 
@@ -87,19 +95,11 @@ last_modified_at: 2026-11-05
 
 ---
 
-### [【すい臓がん治療最前線】画期的新薬「ダラクソンラシブ」に高まる期待 「百年に一度の薬」と絶賛されるも、日本で保険診療として承認されるためには“高すぎる薬価”の壁(マネーポストWEB)](https://news.google.com/rss/articles/CBMihwFBVV95cUxOUm1yMW5oNXFfNEplUWpxaFE5aTRVckFaZHFiZ2xFbzJiUnU3Y08wZl9CczliMmIwNWtwaDNlTHFNNWUtbTJiN3hHVDR0TEhETVplR24yRmZ4eFBMa3dreXFUYXVVWm1UWUxvcXRfdVJveEZ6OVVRdmo1MUVfeENUNG9MM1V4TW8?oc=5)
+### [【すい臓がん治療最前線】画期的新薬「ダラクソンラシブ」に高まる期待 「百年に一度の薬」と絶賛されるも、日本で保険診療として承認されるためには“高すぎる薬価”の壁](https://news.google.com/rss/articles/CBMiR0FVX3lxTFBMOXZ5ZzlSdVhpMXNwSGlfU1Z6b3lTX2tHRkZXOTVua3M1eGhjbS1na1Jkc0otRVhUdVpmVzV2TGNnTUhVb2hF?oc=5)
 
 2026-11-02 <span class="news-indication-tag">がん</span>
 
-出典: [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxOUm1yMW5oNXFfNEplUWpxaFE5aTRVckFaZHFiZ2xFbzJiUnU3Y08wZl9CczliMmIwNWtwaDNlTHFNNWUtbTJiN3hHVDR0TEhETVplR24yRmZ4eFBMa3dreXFUYXVVWm1UWUxvcXRfdVJveEZ6OVVRdmo1MUVfeENUNG9MM1V4TW8?oc=5)
-
----
-
-### [《ヨーグルトやサプリのまとめ摂りは逆効果？》医師が警告する「間違った腸活」の落とし穴 便通とメンタルを整える新常識 (1/1)](https://news.google.com/rss/articles/CBMiSkFVX3lxTFBhc2hCLTA0RTVtbC1GT2JwSk1LY2xWUXBNTG9nLUw5c1hibThSLVdjMU1qc0dVNl9odm5HZmRvU0ZNOGsyV24taERn?oc=5)
-
-2026-11-02 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
-
-出典: [介護ポストセブン](https://news.google.com/rss/articles/CBMiSkFVX3lxTFBhc2hCLTA0RTVtbC1GT2JwSk1LY2xWUXBNTG9nLUw5c1hibThSLVdjMU1qc0dVNl9odm5HZmRvU0ZNOGsyV24taERn?oc=5)
+出典: [マネーポストWEB](https://news.google.com/rss/articles/CBMiR0FVX3lxTFBMOXZ5ZzlSdVhpMXNwSGlfU1Z6b3lTX2tHRkZXOTVua3M1eGhjbS1na1Jkc0otRVhUdVpmVzV2TGNnTUhVb2hF?oc=5)
 
 ---
 
@@ -139,7 +139,7 @@ last_modified_at: 2026-11-05
 
 2026-10-31 <span class="news-indication-tag">がん</span>
 
-出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBQMmhaQU82bU1YQTRzMDRVd3h3UnFpVEVqZ1Z1OUtPTTZKbEF6SWU0N1V5Unh1VVRyb0I3alpGaFpvZTRSUnBSblJVQ3FOMUhvV0ZnWVRsbWh5VE9IZjA2RVoxQUJDdTVjeFZfUUhRUHRRVjcwd3Z0RE5FYXBKRDg?oc=5) · [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/5237762cb32e9371e8efb5973a0839ca72e76d49?source=rss)
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBQMmhaQU82bU1YQTRzMDRVd3h3UnFpVEVqZ1Z1OUtPTTZKbEF6SWU0N1V5Unh1VVRyb0I3alpGaFpvZTRSUnBSblJVQ3FOMUhvV0ZnWVRsbWh5VE9IZjA2RVoxQUJDdTVjeFZfUUhRUHRRVjcwd3Z0RE5FYXBKRDg?oc=5)
 
 ---
 

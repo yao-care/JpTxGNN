@@ -3,7 +3,7 @@ layout: default
 title: "乳がん (female breast carcinoma) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "乳がん (female breast carcinoma) に関する健康ニュース。ニュース 3 件、関連医薬品 7 件。"
+description: "乳がん (female breast carcinoma) に関する健康ニュース。ニュース 2 件、関連医薬品 7 件。"
 permalink: /news/female-breast-carcinoma/
 last_modified_at: 2026-11-05
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-05
 ---
 
 <p class="key-answer" data-question="乳がん (female breast carcinoma) に関するニュースは？">
-<strong>乳がん (female breast carcinoma)</strong> には現在 <strong>3 件</strong>の関連ニュースと 7 件の関連医薬品があります。
+<strong>乳がん (female breast carcinoma)</strong> には現在 <strong>2 件</strong>の関連ニュースと 7 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -36,15 +36,7 @@ last_modified_at: 2026-11-05
 </ul>
 </div>
 
-## 関連ニュース（3 件）
-
-### [子宮頸がん予防啓発月間でエッセイ漫画『さよならしきゅう』を期間限定公開 MSD](https://news.google.com/rss/articles/CBMi2gJBVV95cUxNNHRaVTl5QjVTX01oQ29odmhJSFVPX3duSmZNLXBLaUhISXRDQmhERGhyNl9tX241bDlSYWRMX2RSZFBPeWdDVTRvcUl6SW5Fb3pSWmp2Rkt6TzJ5SkNSeVFxcjdBZmhnVlRCWFNVazRaaU1uTnR5d2VVSUpDQ1Z5X0RnUmFSV3RDY2V3Q1JMQnhqWVF1a3JWMG4xd1dreTJ6RWxrRGt2Wk5UMk1JemU5dHBOUDhYdHVNRHgyLW1IN3cxZ3lHd01Db21wd0NUOWNhV1FXa3ZRN2FGdWl4dUZvN1hYSTl3amFFTWM5OVFFQm50ajJtdkdldGVsaGhyb2FhRWJaV2c1VU5IN0dGRDllMEpIdjloNzRQUHJ2eHYtckJhNzJDOWJlUUdpTG0ybTB1ZHVGODhGOVZwaHNxdzFCWDN0dlZMbjZoSGlxNm9mcl83RGt5N3hjZFVn?oc=5)
-
-2026-11-05
-
-出典: [医薬通信社](https://news.google.com/rss/articles/CBMi2gJBVV95cUxNNHRaVTl5QjVTX01oQ29odmhJSFVPX3duSmZNLXBLaUhISXRDQmhERGhyNl9tX241bDlSYWRMX2RSZFBPeWdDVTRvcUl6SW5Fb3pSWmp2Rkt6TzJ5SkNSeVFxcjdBZmhnVlRCWFNVazRaaU1uTnR5d2VVSUpDQ1Z5X0RnUmFSV3RDY2V3Q1JMQnhqWVF1a3JWMG4xd1dreTJ6RWxrRGt2Wk5UMk1JemU5dHBOUDhYdHVNRHgyLW1IN3cxZ3lHd01Db21wd0NUOWNhV1FXa3ZRN2FGdWl4dUZvN1hYSTl3amFFTWM5OVFFQm50ajJtdkdldGVsaGhyb2FhRWJaV2c1VU5IN0dGRDllMEpIdjloNzRQUHJ2eHYtckJhNzJDOWJlUUdpTG0ybTB1ZHVGODhGOVZwaHNxdzFCWDN0dlZMbjZoSGlxNm9mcl83RGt5N3hjZFVn?oc=5)
-
----
+## 関連ニュース（2 件）
 
 ### [乳がんはベトナム人女性にかかりやすく、50%が発見が遅れています。](https://news.google.com/rss/articles/CBMipwFBVV95cUxQLWc4cnYwMDVOX19EcV9DUzB3ZDFfanBsQW43dWYyTFU2aXo0cFdVN1V2a2RiOC1tM2tTSnk1R0Rkb1dqSWtuU0VIQXhZaGR6dXU3c25jZmJfc1Bqd3lDVlA5QVlrNlJrSWhheU9RZW4tdGJXYjBkLWktdzlBR1ZWc0dfQ2FpSWtjQkdiZFlxUVRPUWhYbE1hNk1CU0pmYk5PR1NGLWhtSQ?oc=5)
 

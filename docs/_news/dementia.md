@@ -33,7 +33,7 @@ last_modified_at: 2026-11-05
 
 ## 関連ニュース（4 件）
 
-### [あなたは大丈夫？ほぼ毎日昼寝する高齢者は認知症リスクが48％増えると判明 - @DIME アットダイム](https://news.google.com/rss/articles/CBMiREFVX3lxTE9LYjRadmpFcHd3ZHRaUFZMUVpoaGRoSXNDRWRqNTA3QzZOS0gwdXBlRmNZY202NFUxUGNsUExDMVAwdTM4?oc=5)
+### [あなたは大丈夫？ほぼ毎日昼寝する高齢者は認知症リスクが50％近く上がることが判明 - @DIME アットダイム](https://news.google.com/rss/articles/CBMiREFVX3lxTE9LYjRadmpFcHd3ZHRaUFZMUVpoaGRoSXNDRWRqNTA3QzZOS0gwdXBlRmNZY202NFUxUGNsUExDMVAwdTM4?oc=5)
 
 2026-11-05
 

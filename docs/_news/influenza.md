@@ -3,7 +3,7 @@ layout: default
 title: "インフルエンザ (influenza) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 8 件、関連医薬品 1 件。"
+description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 7 件、関連医薬品 1 件。"
 permalink: /news/influenza/
 last_modified_at: 2026-11-05
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-05
 ---
 
 <p class="key-answer" data-question="インフルエンザ (influenza) に関するニュースは？">
-<strong>インフルエンザ (influenza)</strong> には現在 <strong>8 件</strong>の関連ニュースと 1 件の関連医薬品があります。
+<strong>インフルエンザ (influenza)</strong> には現在 <strong>7 件</strong>の関連ニュースと 1 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -30,15 +30,7 @@ last_modified_at: 2026-11-05
 </ul>
 </div>
 
-## 関連ニュース（8 件）
-
-### [【岐阜県インフルエンザ週報】「可茂」が定点当たり15.40人で最多 「岐阜市」は前週の約2.5倍に急増＜10月26日～11月1日の感染症情報 - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE9XM1FmamtSN0NQV0pxel9PN2loRTRIV0FnaEt6UTJCamhnMkZDaDJYYWVqTkRPWEN3OC15bnRDVWJ2QlM2RkYybFNZaW5GcVJYWFNMVFhNR045NzZTUFlNNXNpdlBSdE5LMVpuZnBB?oc=5)
-
-2026-11-05
-
-出典: [au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE9XM1FmamtSN0NQV0pxel9PN2loRTRIV0FnaEt6UTJCamhnMkZDaDJYYWVqTkRPWEN3OC15bnRDVWJ2QlM2RkYybFNZaW5GcVJYWFNMVFhNR045NzZTUFlNNXNpdlBSdE5LMVpuZnBB?oc=5)
-
----
+## 関連ニュース（7 件）
 
 ### [【愛知県インフルエンザ週報】患者数2週連続で増加 “14歳以下”の感染目立つ＜10月26日～11月1日の感染症情報 - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTFBrWVRJVjVxcl9CZ2lCek1OZWM2UEtsWVJQdVdsV1g3MnA0b3B4c3BZR3NlX3pnb0wwZXNSdTN5c3Q5WExJbUZDS0FXNmd5QkZPTld6MGVQRmtXZjVadk9GZjh3dzFYdFNpNG9qbHFn?oc=5)
 
