@@ -1,9 +1,9 @@
 {
   "guide_to_pharmacology": {
-    "last_checked": "2026-09-29",
-    "last_modified": "Wed, 16 Sep 2026 11:52:05 GMT",
-    "record_count": 4801,
-    "version": "2026.3",
+    "last_checked": "2026-11-05",
+    "last_modified": "Mon, 12 Oct 2026 14:04:25 GMT",
+    "record_count": 4810,
+    "version": "2026.3.1",
     "url": "https://www.guidetopharmacology.org/DATA/approved_drug_detailed_interactions.csv"
   },
   "ddinter": {
@@ -21,7 +21,8 @@
     "ddinter_rows": 222383,
     "ddinter_unique_pairs": 160235,
     "ddinter_drug_names": 1939,
-    "gtopdb_version": "2026.3",
-    "gtopdb_drug_target_records": 4799
+    "gtopdb_version": "2026.3.1",
+    "gtopdb_drug_target_records": 4808,
+    "gtopdb_release": "data-20261105-123838"
   }
 }
