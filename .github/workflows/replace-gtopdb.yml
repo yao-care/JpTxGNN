@@ -1,0 +1,116 @@
+# 替換成果資料 Release 裡的 Guide to PHARMACOLOGY（GtoPdb）檔（2026-11-05，用戶核准更新到新版 GtoPdb）。
+# 取本站指定的 data tag，只把 data/external/ddi/pharmacology/approved_drug_detailed_interactions.csv 換成 request 檔指定的版本
+# （下載後比對 request 裡的 sha256 與檔案第一行的版本），其他檔原樣重新打包成新 tag 發布。舊 tag 一律不覆蓋。
+# 觸發：push 修改 .github/replace-gtopdb.request（雲端 session 沒有 workflow_dispatch 權限）。request 內容四行：
+#   1 本站來源 data tag　2 GtoPdb 檔案網址　3 該檔 sha256　4 GtoPdb 版本號（檔案第一行要寫這個版本）
+#   5（選填）TwTxGNN 的 data tag：來源 Release 裡指向 TwTxGNN 的符號連結（本站 data-20261031 有 data/complex_disease_42）
+#     換成該 tag 裡的實際檔案，讓新 Release 單獨還原就能用；沒填而來源有符號連結時停止。
+# 新版 GtoPdb 只進資料；藥物報告下次重產時才會用到。發布後要更新 .github/ddi-versions.json 的 guide_to_pharmacology 與 site_data。
+name: Replace GtoPdb file in data release
+
+on:
+  push:
+    branches: [main]
+    paths: ['.github/replace-gtopdb.request']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: replace-gtopdb
+  cancel-in-progress: false
+
+jobs:
+  replace:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    env:
+      GH_TOKEN: ${{ github.token }}
+      REL: data/external/ddi/pharmacology/approved_drug_detailed_interactions.csv
+    steps:
+      - uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6
+        with:
+          sparse-checkout: .github
+
+      - name: Read request file
+        run: |
+          set -euo pipefail
+          f=.github/replace-gtopdb.request
+          src=$(sed -n 1p "$f" | tr -d '[:space:]'); url=$(sed -n 2p "$f" | tr -d '[:space:]')
+          sha=$(sed -n 3p "$f" | tr -d '[:space:]'); ver=$(sed -n 4p "$f" | tr -d '[:space:]'); tw=$(sed -n 5p "$f" | tr -d '[:space:]')
+          [[ "$src" =~ ^data-[0-9A-Za-z-]+$ ]] || { echo "request 第 1 行（來源 tag）格式錯誤" >&2; exit 1; }
+          [[ "$url" =~ ^https://www\.guidetopharmacology\.org/[A-Za-z0-9/_.-]+\.csv$ ]] || { echo "request 第 2 行（網址）格式錯誤" >&2; exit 1; }
+          [[ "$sha" =~ ^[0-9a-f]{64}$ ]] || { echo "request 第 3 行（sha256）格式錯誤" >&2; exit 1; }
+          [[ "$ver" =~ ^[0-9]{4}\.[0-9]+(\.[0-9]+)?$ ]] || { echo "request 第 4 行（版本）格式錯誤" >&2; exit 1; }
+          [ -z "$tw" ] || [[ "$tw" =~ ^data-[0-9A-Za-z-]+$ ]] || { echo "request 第 5 行（TwTxGNN tag）格式錯誤" >&2; exit 1; }
+          { echo "TWTAG=$tw"; echo "SRC=$src"; echo "URL=$url"; echo "NEWSHA=$sha"; echo "NEWVER=$ver"; echo "SITE=${GITHUB_REPOSITORY#*/}"; } >> "$GITHUB_ENV"
+
+      - name: Download new GtoPdb file
+        run: |
+          set -euo pipefail
+          N=$RUNNER_TEMP/gtopdb; mkdir -p "$N"
+          curl -fsSL --retry 3 -o "$N/new.csv" "$URL"
+          echo "$NEWSHA  $N/new.csv" | sha256sum -c
+          first=$(head -1 "$N/new.csv" | tr -d '"\r')
+          case "$first" in "# GtoPdb Version: $NEWVER - published:"*) ;; *) echo "第一行不是 GtoPdb $NEWVER：$first" >&2; exit 1 ;; esac
+          echo "NEWCSV=$N/new.csv" >> "$GITHUB_ENV"
+
+      - name: Download and extract source release
+        run: |
+          set -euo pipefail
+          W=$RUNNER_TEMP/w; mkdir -p "$W/dl" "$W/root"
+          gh release download "$SRC" -R "$GITHUB_REPOSITORY" -D "$W/dl" -p "$SITE-data.*"
+          (cd "$W/dl" && sha256sum -c "$SITE-data.sha256")
+          cat "$W/dl/$SITE-data".tar.gz.part-* | tar xzf - -C "$W/root"
+          rm -rf "$W/dl"
+          cd "$W/root"
+          if [ -n "$TWTAG" ] && [ -n "$(find "$SITE" -type l)" ]; then
+            want=(); while IFS= read -r -d '' l; do
+              t=$(readlink "$l"); case "$t" in *TwTxGNN/*) ;; *) echo "非 TwTxGNN 的連結，停止：$l -> $t" >&2; exit 1 ;; esac
+              want+=("TwTxGNN/${t##*TwTxGNN/}")
+            done < <(find "$SITE" -type l -print0)
+            mkdir -p "$W/dl-tw"; gh release download "$TWTAG" -R yao-care/TwTxGNN -D "$W/dl-tw" -p "TwTxGNN-data.*"
+            (cd "$W/dl-tw" && sha256sum -c TwTxGNN-data.sha256)
+            mkdir -p "$W/tw"; cat "$W/dl-tw"/TwTxGNN-data.tar.gz.part-* | tar xzf - -C "$W/tw" "${want[@]}"
+            rm -rf "$W/dl-tw"
+            while IFS= read -r -d '' l; do
+              t=$(readlink "$l"); src="$W/tw/TwTxGNN/${t##*TwTxGNN/}"
+              [ -e "$src" ] || { echo "TwTxGNN $TWTAG 裡找不到 ${t##*TwTxGNN/}（$l）" >&2; exit 1; }
+              rm "$l"; cp -RLp "$src" "$l"; echo "LINKNOTE=；原本指向 TwTxGNN 的符號連結已換成 TwTxGNN $TWTAG 裡的實際檔案（${t##*TwTxGNN/}），單獨還原本站即可使用" >> "$GITHUB_ENV"; echo "✓ $l <- TwTxGNN $TWTAG ${t##*TwTxGNN/}" | tee -a "$GITHUB_STEP_SUMMARY"
+            done < <(find "$SITE" -type l -print0)
+            rm -rf "$W/tw"
+          fi
+          [ -z "$(find . -type l)" ] || { echo "來源 Release 有符號連結，停止（request 第 5 行填 TwTxGNN tag 可換成實際檔）" >&2; find . -type l >&2; exit 1; }
+          [ -f "$SITE/$REL" ] || { echo "來源 Release 沒有 $SITE/$REL" >&2; exit 1; }
+          echo "W=$W" >> "$GITHUB_ENV"
+
+      - name: Replace GtoPdb file
+        run: |
+          set -euo pipefail
+          cd "$W/root"
+          find "$SITE" -type f ! -path "$SITE/$REL" -print0 | sort -z | xargs -0 sha256sum > "$RUNNER_TEMP/before.sha256"
+          old=$(head -1 "$SITE/$REL" | tr -d '"\r'); oldsha=$(sha256sum "$SITE/$REL" | cut -d' ' -f1)
+          [ "$oldsha" != "$NEWSHA" ] || { echo "來源 Release 的 GtoPdb 檔已是這一版，不需重發" >&2; exit 1; }
+          cp "$NEWCSV" "$SITE/$REL"
+          find "$SITE" -type f ! -path "$SITE/$REL" -print0 | sort -z | xargs -0 sha256sum > "$RUNNER_TEMP/after.sha256"
+          cmp "$RUNNER_TEMP/before.sha256" "$RUNNER_TEMP/after.sha256"
+          rows=$(tail -n +3 "$SITE/$REL" | wc -l)
+          { echo "OLDLINE=$old"; echo "OLDSHA=$oldsha"; echo "NEWROWS=$rows"; echo "NEWLINE=$(head -1 "$SITE/$REL" | tr -d '"\r')"; } >> "$GITHUB_ENV"
+          printf '舊：%s（%s）\n新：%s（%s，%s 列資料）\n' "$old" "$oldsha" "$(head -1 "$SITE/$REL" | tr -d '"\r')" "$NEWSHA" "$rows" | tee -a "$GITHUB_STEP_SUMMARY"
+
+      - name: Package and publish
+        run: |
+          set -euo pipefail
+          TAG="data-$(date -u +%Y%m%d-%H%M%S)"
+          if gh release view "$TAG" -R "$GITHUB_REPOSITORY" >/dev/null 2>&1; then echo "tag $TAG 已存在，不覆蓋" >&2; exit 1; fi
+          OUT=$RUNNER_TEMP/out; mkdir -p "$OUT"
+          (cd "$W/root" && tar czf - "$SITE") | split -b 1900m - "$OUT/$SITE-data.tar.gz.part-"
+          (cd "$OUT" && sha256sum "$SITE-data".tar.gz.part-* > "$SITE-data.sha256")
+          printf '%s\n\n%s\n\n%s\n\n%s\n' \
+            "$SITE 成果資料，內容同 $SRC，差別只在 $REL 換成 Guide to PHARMACOLOGY 新版（$NEWLINE，$NEWROWS 列資料，sha256 $NEWSHA；原為 $OLDLINE）${LINKNOTE:-}。" \
+            "新版 GtoPdb 只更新資料檔；藥物報告沒有重產，下次重產時才會用到。" \
+            "還原方式同 $SRC。" \
+            "本預測結果僅供研究參考，不構成醫療建議。老藥新用候選需經過臨床驗證才能應用。" > "$OUT/notes.md"
+          gh release create "$TAG" -R "$GITHUB_REPOSITORY" --target main --title "$SITE 成果資料（$TAG，GtoPdb $NEWVER）" \
+            --notes-file "$OUT/notes.md" "$OUT/$SITE-data".tar.gz.part-* "$OUT/$SITE-data.sha256"
+          echo "已發布 $TAG" | tee -a "$GITHUB_STEP_SUMMARY"
