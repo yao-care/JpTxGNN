@@ -420,11 +420,16 @@ if _HL_F.exists():
             if any(str(_hl["sites"][_a[0]][0]).lower() == "x-default" for _a in _alt):
                 errors.append(f"_data/hreflang.json 的 {_k} 組有 x-default（首頁沒有，不加）")
 
-# 11) DDInter 筆數（2026-11-05 補）：本站的 DDInter 資料是 ddinter_code_*.csv 8 個下載檔，222,383 列資料（222,391 行扣掉 8 個
-#    標題列）、去重後 160,235 組藥物配對。docs、README.md、CITATION.cff 裡提到 DDInter 或 DDI 的那一行（含後面 3 行，涵蓋 HTML
+# 11) DDInter 筆數（2026-11-05 補）：本站的 DDInter 資料是 ddinter_code_*.csv 8 個下載檔，列數與去重後的藥物配對數記在
+#    .github/ddi-versions.json 的 site_data（ddinter_rows、ddinter_unique_pairs；重算方式見 site_data.note）。docs、README.md、CITATION.cff 裡提到 DDInter 或 DDI 的那一行（含後面 3 行，涵蓋 HTML
 #    表格分行的 <td>）只能寫這兩個數；302,516、200,000 是 DDInter 2.0 網站自己的統計，只在同一行寫明「DDInter 2.0」時放行。
 _DDI_NUM = re.compile(r"(?<![\d,.])(\d{3})[,.\u00a0\u202f ](\d{3})(?![\d,.]?\d)")
-_DDI_OK, _DDI_OK20 = {222383, 160235}, {302516, 200000}
+# 2026-11-05：允許值改讀 .github/ddi-versions.json 的 site_data（ddinter_rows、ddinter_unique_pairs），不在這裡寫死
+_ddi_sd = json.loads((DOCS.parent / ".github" / "ddi-versions.json").read_text(encoding="utf-8")).get("site_data", {})
+_DDI_OK = {_ddi_sd[_k] for _k in ("ddinter_rows", "ddinter_unique_pairs") if isinstance(_ddi_sd.get(_k), int)}
+_DDI_OK20 = {302516, 200000}
+if len(_DDI_OK) != 2:
+    errors.append(".github/ddi-versions.json 的 site_data 缺 ddinter_rows 或 ddinter_unique_pairs（DDInter 筆數檢查要用）")
 _ddi_files = [_f for _f in DOCS.rglob("*") if _f.suffix in (".md", ".html", ".txt")
               and not any(_p in ("_site", "vendor", "node_modules", ".jekyll-cache") for _p in _f.relative_to(DOCS).parts)]
 _ddi_files += [DOCS.parent / "README.md", DOCS.parent / "CITATION.cff"]
@@ -443,7 +448,7 @@ for _f in _ddi_files:
                     continue
                 _bad.add((_j + 1, _m.group(0)))
     for _ln_no, _num in sorted(_bad):
-        errors.append(f"{_f.relative_to(DOCS.parent)}:{_ln_no} 寫了 DDInter／DDI 筆數 {_num}：本站資料只能寫 222,383（列數）或 160,235（去重配對數）")
+        errors.append(f"{_f.relative_to(DOCS.parent)}:{_ln_no} 寫了 DDInter／DDI 筆數 {_num}：本站資料只能寫 {_ddi_sd.get('ddinter_rows', 0):,}（列數）或 {_ddi_sd.get('ddinter_unique_pairs', 0):,}（去重配對數，見 site_data）")
 
 if errors:
     print(f"docs SEO 守門：✗ {len(errors)} 項")
