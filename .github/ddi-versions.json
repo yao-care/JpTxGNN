@@ -13,32 +13,10 @@
     "ddi_with_mechanism": 8466,
     "url": "https://ddinter2.scbdd.com/download/",
     "api_endpoint": "https://ddinter2.scbdd.com/server/interaction-source/",
-    "note": "API 回傳有機制描述的 DDI（ddi_with_mechanism，workflow 監測用）。ddi_total_pairs 是 DDInter 2.0 網站統計的總配對數，不是本站資料（2026-11-05 起母 repo generate_readmes.py 改讀 site_data，不再讀這欄）。下載頁的 ddinter_downloads_code_*.csv 在 DDInter 1.0（ddinter.scbdd.com）與 2.0（ddinter2.scbdd.com）兩站是同一組檔案（2026-11-05 比對位元組相同），檔案本身不標版本；本站 data/external/ddi/ddinter/ddinter_code_*.csv 與之相同：222,383 列資料（扣掉 8 個標題列）、160,235 組不重複藥物配對、1,939 個藥名"
-  },
-  "ddinter_dfi": {
-    "last_checked": "2026-02-21",
-    "version": "2.0",
-    "record_count": 857,
-    "food_count": 29,
-    "matched_drugs": 56,
-    "api_endpoint": "https://ddinter2.scbdd.com/server/food-interaction-source/"
-  },
-  "ddinter_ddsi": {
-    "last_checked": "2026-02-21",
-    "version": "2.0",
-    "record_count": 8359,
-    "matched_drugs": 115,
-    "api_endpoint": "https://ddinter2.scbdd.com/server/disease-interaction-source/",
-    "status": "integrated"
-  },
-  "dhi_curated": {
-    "last_checked": "2026-02-21",
-    "record_count": 35,
-    "herb_count": 10,
-    "source": "manual_curation"
+    "note": "API 回傳有機制描述的 DDI（ddi_with_mechanism，workflow 監測用）。ddi_total_pairs 是 DDInter 2.0 網站統計的總配對數，不是本站資料（2026-11-05 起母 repo generate_readmes.py 改讀 site_data，不再讀這欄）。下載頁的 ddinter_downloads_code_*.csv 在 DDInter 1.0（ddinter.scbdd.com）與 2.0（ddinter2.scbdd.com）兩站是同一組檔案（2026-11-05 比對位元組相同），檔案本身不標版本；本站 data/external/ddi/ddinter/ddinter_code_*.csv 與之相同；筆數記在 site_data，重算方式見 site_data.note"
   },
   "site_data": {
-    "note": "本站自己的資料筆數（2026-11-05 依本站 Release data-20261031 的 data/external/ 核對）。母 repo .claude/generate_readmes.py 只讀這段寫 README；ddinter、ddinter_dfi 等區塊是 interaction-update-check.yml 監測 DDInter 網站用的，不是本站資料。資料更新後要重算這段。",
+    "note": "本站自己的資料筆數（2026-11-05 依本站 Release data-20261031 的 data/external/ 核對）。母 repo .claude/generate_readmes.py 只讀這段寫 README；ddinter 區塊是 interaction-update-check.yml 監測 DDInter 網站用的，不是本站資料。資料更新後要重算這段。重算方式（還原本站 Release 的 data/ 後在 repo 根目錄執行）：ddinter_rows＝`tail -q -n +2 data/external/ddi/ddinter/ddinter_code_*.csv | wc -l`；ddinter_unique_pairs、ddinter_drug_names＝`python3 -c \"import csv,glob;r=[x for f in glob.glob('data/external/ddi/ddinter/ddinter_code_*.csv') for x in csv.DictReader(open(f))];print(len({tuple(sorted((x['Drug_A'],x['Drug_B']))) for x in r}),len({x[k] for x in r for k in ('Drug_A','Drug_B')}))\"`；gtopdb_drug_target_records＝`tail -n +3 data/external/ddi/pharmacology/approved_drug_detailed_interactions.csv | wc -l`（前兩行是版本註記與表頭），gtopdb_version 看該檔第一行。",
     "ddinter_files": "data/external/ddi/ddinter/ddinter_code_*.csv（8 檔；DDInter 1.0 與 2.0 下載頁提供的是同一組檔案，檔案不標版本）",
     "ddinter_rows": 222383,
     "ddinter_unique_pairs": 160235,
