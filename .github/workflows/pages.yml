@@ -1,4 +1,5 @@
 name: Deploy Jekyll site to Pages
+# 部署步驟偶爾遇到 GitHub 暫時錯誤（Deployment failed, try again later）：在 Actions 頁按 Re-run，或推一個改到 docs/ 或本檔的 commit 重新部署。
 
 on:
   push:
