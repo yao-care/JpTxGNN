@@ -45,13 +45,6 @@
             {
               "code": "read"
             }
-          ],
-          "searchParam": [
-            {
-              "name": "_id",
-              "type": "token",
-              "documentation": "医薬品識別子 (slug)"
-            }
           ]
         },
         {
@@ -60,13 +53,6 @@
           "interaction": [
             {
               "code": "read"
-            }
-          ],
-          "searchParam": [
-            {
-              "name": "subject",
-              "type": "reference",
-              "documentation": "MedicationKnowledge への参照"
             }
           ]
         }

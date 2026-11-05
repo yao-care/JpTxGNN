@@ -183,13 +183,6 @@ def create_capability_statement(base_url: str, drug_count: int, indication_count
                         "profile": "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge",
                         "interaction": [
                             {"code": "read"}
-                        ],
-                        "searchParam": [
-                            {
-                                "name": "_id",
-                                "type": "token",
-                                "documentation": "医薬品識別子 (slug)"
-                            }
                         ]
                     },
                     {
@@ -197,13 +190,6 @@ def create_capability_statement(base_url: str, drug_count: int, indication_count
                         "profile": "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition",
                         "interaction": [
                             {"code": "read"}
-                        ],
-                        "searchParam": [
-                            {
-                                "name": "subject",
-                                "type": "reference",
-                                "documentation": "MedicationKnowledge への参照"
-                            }
                         ]
                     }
                 ]
