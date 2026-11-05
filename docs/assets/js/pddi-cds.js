@@ -32,7 +32,7 @@
 
   /**
    * PDDI Knowledge Base - High-priority interactions with contextual factors
-   * Based on DDI-CDS.org research and DDInter 2.0
+   * 5 built-in hand-curated PDDI rules, based on DDI-CDS.org research with DDInter as a reference
    */
   const PDDI_KNOWLEDGE_BASE = [
     // Warfarin-NSAID (DDInteract pattern)
@@ -93,7 +93,7 @@
       ],
       evidence: {
         level: 'High',
-        sources: ['DDInteract RCT', 'AHRQ Evidence Review', 'DDInter 2.0']
+        sources: ['DDInteract RCT', 'AHRQ Evidence Review', 'DDInter']
       }
     },
 
@@ -145,7 +145,7 @@
       ],
       evidence: {
         level: 'High',
-        sources: ['DDI-CDS.org Colchicine CDS', 'FDA Warning', 'DDInter 2.0']
+        sources: ['DDI-CDS.org Colchicine CDS', 'FDA Warning', 'DDInter']
       }
     },
 
@@ -187,7 +187,7 @@
       ],
       evidence: {
         level: 'High',
-        sources: ['DDI-CDS.org Tizanidine CDS', 'FDA Label', 'DDInter 2.0']
+        sources: ['DDI-CDS.org Tizanidine CDS', 'FDA Label', 'DDInter']
       }
     },
 
@@ -234,7 +234,7 @@
       ],
       evidence: {
         level: 'High',
-        sources: ['Clinical Pharmacokinetics Studies', 'DDInter 2.0']
+        sources: ['Clinical Pharmacokinetics Studies', 'DDInter']
       }
     },
 
@@ -291,7 +291,7 @@
       ],
       evidence: {
         level: 'High',
-        sources: ['CredibleMeds QT Drug Lists', 'FDA Warnings', 'DDInter 2.0']
+        sources: ['CredibleMeds QT Drug Lists', 'FDA Warnings', 'DDInter']
       }
     }
   ];

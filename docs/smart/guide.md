@@ -142,7 +142,7 @@ EHR システム管理者に連絡し、以下の情報を提供して設定し�
 | Launch URL | `https://jptxgnn.yao.care/smart/launch.html` |
 | Redirect URI | `https://jptxgnn.yao.care/smart/app.html` |
 | Client ID | `jptxgnn-smart-app` |
-| Scopes | `launch patient/MedicationRequest.read openid fhirUser` |
+| Scopes | `launch patient/Patient.read patient/MedicationRequest.read patient/MedicationStatement.read openid fhirUser` |
 
 ### 患者データは安全ですか？
 

@@ -21,11 +21,11 @@ DDI（Drug-Drug Interaction）は、2 種類以上の医薬品を併用した際
 
 ---
 
-## データ統合予定
+## データの状況
 
 <div style="background: #fff3cd; border: 1px solid #ffc107; border-radius: 8px; padding: 16px; margin: 20px 0;">
-<strong>開発中</strong><br>
-DDI データの統合は現在開発中です。DDInter 2.0 から相互作用情報を統合予定です。
+<strong>現在の状況</strong><br>
+薬物-薬物相互作用（DDI）は DDInter のダウンロードファイル（<code>ddinter_code_*.csv</code>：222,383 行、重複を除いた 160,235 組の薬物ペア）を取得済みで、薬物レポートの作成時に参照し、一部のレポートの安全性の項に相互作用を記載しています。サイト上で DDI を検索・チェックする機能はまだ提供していません。DDSI・DFI・DHI のデータは未取得です。
 </div>
 
 ---

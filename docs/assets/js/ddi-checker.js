@@ -1,7 +1,7 @@
 /**
  * JpTxGNN Drug-Drug Interaction Checker
  *
- * Client-side DDI checking based on DDInter 2.0 database.
+ * Client-side DDI checking with 15 built-in curated rules (DDInter consulted as a reference; not a full database lookup).
  * Provides real-time interaction alerts for drug repurposing candidates.
  *
  * @author JpTxGNN Team
@@ -24,7 +24,7 @@
     'Minor': { priority: 1, class: 'ddi-minor', label: 'Minor' }
   };
 
-  // High-priority DDI rules (curated from DDInter 2.0)
+  // 15 built-in high-priority DDI rules (hand-curated, DDInter consulted as a reference)
   // Format: { drug1: [synonym list], drug2: [synonym list], severity, summary, detail }
   const CURATED_DDI_RULES = [
     {
@@ -249,7 +249,7 @@
           summary: rule.summary,
           detail: rule.detail,
           recommendation: rule.recommendation,
-          source: 'JpTxGNN DDI Rules (based on DDInter 2.0)'
+          source: 'JpTxGNN built-in DDI rules (15 curated rules; not a full DDInter lookup)'
         });
       }
     }

@@ -29,6 +29,7 @@ permalink: /smart/technical-docs/
 
 ```
 launch
+patient/Patient.read
 patient/MedicationRequest.read
 patient/MedicationStatement.read
 openid

@@ -17,7 +17,7 @@ permalink: /safety/
 
 ## 概要
 
-ドラッグリポジショニングを検討する際、既存の安全性情報は重要な考慮事項です。JpTxGNN では以下の相互作用データを統合予定です：
+ドラッグリポジショニングを検討する際、既存の安全性情報は重要な考慮事項です。JpTxGNN では、DDI は DDInter のデータを取得済みで薬物レポートの作成時に参照しています。DDSI・DFI・DHI は統合予定です：
 
 <style>
 .safety-cards {
@@ -133,20 +133,20 @@ permalink: /safety/
 ## 現在のステータス
 
 <div style="background: #fff3cd; border: 1px solid #ffc107; border-radius: 8px; padding: 16px; margin: 20px 0;">
-<strong>開発中</strong><br>
-安全性データの統合は現在開発中です。今後、DDInter 2.0 などのデータソースから相互作用情報を統合予定です。
+<strong>現在の状況</strong><br>
+薬物-薬物相互作用（DDI）は DDInter のダウンロードファイル（<code>ddinter_code_*.csv</code>：222,383 行、重複を除いた 160,235 組の薬物ペア）を取得済みで、薬物レポートの作成時に参照し、一部のレポートの安全性の項に相互作用を記載しています。サイト上で DDI を検索・チェックする機能はまだ提供していません。DDSI・DFI・DHI のデータは未取得です。
 </div>
 
 ---
 
-## データソース（予定）
+## データソース
 
 | 種類 | データソース | 説明 |
 |------|-------------|------|
-| DDI | DDInter 2.0 | 薬物-薬物相互作用 |
-| DDSI | DDInter 2.0 | 薬物-疾患禁忌 |
-| DFI | DDInter 2.0 | 薬物-食物相互作用 |
-| DHI | 文献調査 | 薬物-ハーブ相互作用 |
+| DDI | DDInter（ダウンロードファイル、取得済み） | 薬物-薬物相互作用 |
+| DDSI | DDInter 2.0（予定） | 薬物-疾患禁忌 |
+| DFI | DDInter 2.0（予定） | 薬物-食物相互作用 |
+| DHI | 文献調査（予定） | 薬物-ハーブ相互作用 |
 
 ---
 
