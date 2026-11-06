@@ -18,6 +18,8 @@
   9. llms.txt／llms-full.txt 的本站資料區塊（site-data）剛好一個、等級分布＝drug_stats.json、資料集網址出現在本站 sources 頁（2026-11-04）。
   10. docs/_data/hreflang.json 裡本站自己的頁（說明頁等，藥物頁除外）存在、不是 noindex／轉址頁、組裡有自我參照、沒有 x-default（2026-11-04）。
   12. docs/data/drugs.json 等於公開藥物頁：不含 noindex／轉址頁、等級＝頁首、筆數＝drug_stats.json total_drugs、original_indication 不是預測說明或截斷的句子、predicted_indication／txgnn_score 不是表頭字或預測說明（2026-11-06）。
+  13. 藥物頁 front matter description 的證據等級字樣＝頁首 evidence_level（母目錄 .claude/sync_description_levels.py，2026-11-06）。
+  14. FHIR：MedicationKnowledge 等級＝藥物頁頁首、不含 noindex 藥物頁的藥，Bundle／summary／index／metadata 的數字＝實際檔數（母目錄 .claude/sync_fhir_levels.py，2026-11-06）。
 
 Tw 專屬的檢查（TFDA 許可證表、docs/_data/drug_reviews.json 人工查核紀錄、drug_stats.json）沒有移植；
 本站之後若建立同類機制，再把對應檢查加回來。
@@ -522,6 +524,162 @@ if _DJ_F.exists():
     if _dj_bad:
         errors.append(f"docs/data/drugs.json 與藥物頁不一致 {len(_dj_bad)} 項，例：{'；'.join(_dj_bad[:5])}"
                       f"（母目錄跑 python3 .claude/generate_drugs_json.py <本站目錄>）")
+
+# 13) 藥物頁 front matter description 的證據等級字樣＝頁首 evidence_level（2026-11-06 補）：description 裡「等級標籤＋Lx」
+#    （evidence level L4、nivel de evidencia L4、證據等級 L4…）要等於該頁 evidence_level；頁首 N/A 的頁不得寫 Lx。
+#    Sg 的 abacavir 曾寫 L4、頁首 L5。修法：母目錄 python3 .claude/sync_description_levels.py <本站> --apply
+#    （只換等級字樣，改動記在 docs/_data/description_level_log.json）；N/A 頁要人工改寫。
+_LV_LABELS = ("evidence level", "nivel de evidencia", "nível de evidência", "Evidenzstufe", "evidensniveau", "näytön taso",
+              "niveau de preuve", "證據等級", "livello di evidenza", "エビデンスレベル", "근거 수준", "tahap bukti", "evidensnivå",
+              "bewijsniveau", "مستوى الدليل", "ระดับหลักฐาน")
+_LV_TOK = re.compile(r"(?:" + "|".join(re.escape(_x) for _x in _LV_LABELS) + r")\s*(L[1-5])(?![0-9])", re.I)
+
+
+def _lv_val(_block, _key):
+    _m = re.search(rf"^{_key}:[ \t]*(.*)$", _block, re.M)
+    return _m.group(1).strip().strip("\"'") if _m else ""
+
+
+_LV_PAGES = {}  # 檔名 → 頁面資訊
+for _f in sorted((DOCS / "_drugs").glob("*.md")):
+    _t = _f.read_text(encoding="utf-8", errors="replace")
+    _e = _t.find("\n---", 3) if _t.startswith("---") else -1
+    _b = _t[3:_e] if _e >= 0 else ""
+    _pm = re.search(r"^permalink:\s*[\"']?/drugs/([^/\"'\s]+)/?[\"']?\s*$", _b, re.M)
+    _tg = re.search(r'http-equiv="refresh"[^>]*url=(?:https?://[^/"]+)?/drugs/([^/"\s>]+)', _t, re.I)
+    _LV_PAGES[_f.stem] = {
+        "level": _lv_val(_b, "evidence_level") or "L5",
+        "desc": _lv_val(_b, "description"),
+        "noindex": _lv_val(_b, "noindex").lower() == "true" or _lv_val(_b, "search_exclude").lower() == "true",
+        "redirect": 'http-equiv="refresh"' in _t or _lv_val(_b, "layout") == "id_redirect" or bool(_lv_val(_b, "redirect_to")),
+        "target": _tg.group(1) if _tg else None,
+        "url": _pm.group(1) if _pm else re.sub(r"[\W_]+", "-", _f.stem, flags=re.U).strip("-").lower(),
+        "db": _lv_val(_b, "drugbank_id").lower(),
+    }
+_lv_bad = []
+for _s, _p in _LV_PAGES.items():
+    if _p["redirect"]:
+        continue
+    _toks = set(_LV_TOK.findall(_p["desc"]))
+    if _toks and _toks != {_p["level"]}:
+        _lv_bad.append(f"{_s}（description 寫 {'/'.join(sorted(_toks))}，頁首 {_p['level']}）")
+if _lv_bad:
+    errors.append(f"藥物頁 description 的證據等級與頁首不一致 {len(_lv_bad)} 頁，例：{'；'.join(_lv_bad[:5])}"
+                  f"（母目錄跑 python3 .claude/sync_description_levels.py <本站> --apply；N/A 頁人工改寫）")
+
+# 14) FHIR（docs/fhir）與藥物頁一致（2026-11-06 補）：MedicationKnowledge 的 evidence-level＝它對應藥物頁的頁首，
+#    noindex／search_exclude 藥物頁的藥不得有 MedicationKnowledge 或 ClinicalUseDefinition（照 Tw 的規則不發布），
+#    Bundle/all-predictions.json 的 entry＝它所收資源類型的實際檔案（內容相同、total＝entry 數），Bundle/summary.json
+#    與 index.json 的總數、metadata 描述裡的藥物數／適應症數＝實際檔數。Th 的 amlodipine 曾標 L4、頁首 L5。
+#    MedicationKnowledge 對頁：同名頁（大小寫、- 與 _ 視為相同；轉址頁跟著轉址）→ front matter drugbank_id →
+#    去掉分隔符號同名 → docs/_data/fhir_page_map.json（依其他站 DrugBank ID 對到的頁）；都對不到的不查。
+#    修法：母目錄 python3 .claude/sync_fhir_levels.py <本站> --apply（在地欄位不動）。
+_LV_FHIR = DOCS / "fhir"
+if (_LV_FHIR / "MedicationKnowledge").is_dir():
+    _lv_mapf = DOCS / "_data" / "fhir_page_map.json"
+    _lv_map = json.loads(_lv_mapf.read_text(encoding="utf-8")).get("map", {}) if _lv_mapf.exists() else {}
+    _lv_key, _lv_url, _lv_db, _lv_norm = {}, {}, {}, {}
+    for _s, _p in _LV_PAGES.items():
+        for _k in {_s.lower(), _s.lower().replace("-", "_"), _s.lower().replace("_", "-")}:
+            _lv_key.setdefault(_k, []).append(_s)
+        _lv_url.setdefault(_p["url"], []).append(_s)
+        if _p["db"] and not _p["redirect"]:
+            _lv_db.setdefault(_p["db"], []).append(_s)
+        _lv_norm.setdefault(re.sub(r"[^a-z0-9]", "", _s.lower()), []).append(_s)
+
+    def _lv_page(_id):
+        _k = _id.lower()
+        _hit = None
+        for _c in (_k, _k.replace("-", "_"), _k.replace("_", "-")):
+            _h = _lv_key.get(_c) or []
+            if _h:
+                _hit = _h[0] if len(_h) == 1 else next((_x for _x in _h if _x == _id), None)
+                break
+        if _hit is None:
+            if re.fullmatch(r"db\d{5}", _k):
+                _h = _lv_db.get(_k) or []
+                _hit = _h[0] if len(_h) == 1 else None
+            else:
+                _h = _lv_norm.get(re.sub(r"[^a-z0-9]", "", _k)) or []
+                _hit = _h[0] if len(_h) == 1 else None
+        if _hit is None and _id in _lv_map:
+            _hit = _lv_map[_id].get("page") if _lv_map[_id].get("page") in _LV_PAGES else None
+        _seen = set()
+        while _hit and _LV_PAGES[_hit]["redirect"] and _hit not in _seen:
+            _seen.add(_hit)
+            _h = [_x for _x in _lv_url.get(_LV_PAGES[_hit]["target"] or "", []) if _x != _hit]
+            _hit = _h[0] if len(_h) == 1 else None
+        return None if (_hit and _LV_PAGES[_hit]["redirect"]) else _hit
+
+    _lv_mk = {_f.stem: json.loads(_f.read_text(encoding="utf-8")) for _f in (_LV_FHIR / "MedicationKnowledge").glob("*.json")}
+    _lv_cud = {_f.stem: json.loads(_f.read_text(encoding="utf-8")) for _f in (_LV_FHIR / "ClinicalUseDefinition").glob("*.json")}
+    _lv_lvl, _lv_hid = [], set()
+    for _s, _r in _lv_mk.items():
+        _pg = _lv_page(_r.get("id") or _s)
+        if not _pg:
+            continue
+        if _LV_PAGES[_pg]["noindex"]:
+            _lv_hid.add(_r.get("id") or _s)
+            continue
+        _ext = next((_x for _x in _r.get("extension") or [] if str(_x.get("url", "")).endswith("/evidence-level")), None)
+        if _ext is not None and _ext.get("valueCode") != _LV_PAGES[_pg]["level"]:
+            _lv_lvl.append(f"{_s}（{_ext.get('valueCode')}，頁首 {_LV_PAGES[_pg]['level']}）")
+    for _r in _lv_cud.values():
+        _ref = next((str(_x.get("reference", "")) for _x in _r.get("subject") or []
+                     if str(_x.get("reference", "")).startswith("MedicationKnowledge/")), "")
+        _sid = _ref.split("/", 1)[1] if _ref else ""
+        if _sid and _sid not in _lv_hid:
+            _pg = _lv_page(_sid)
+            if _pg and _LV_PAGES[_pg]["noindex"]:
+                _lv_hid.add(_sid)
+    _lv_fb = []
+    if _lv_lvl:
+        _lv_fb.append(f"MedicationKnowledge 等級與頁首不一致 {len(_lv_lvl)} 個，例：{'；'.join(_lv_lvl[:5])}")
+    if _lv_hid:
+        _lv_fb.append(f"含 noindex 藥物頁的藥 {len(_lv_hid)} 個，例：{sorted(_lv_hid)[:5]}")
+    _n_mk, _n_cud = len(_lv_mk), len(_lv_cud)
+    _bp = _LV_FHIR / "Bundle" / "all-predictions.json"
+    if _bp.exists():
+        _bd = json.loads(_bp.read_text(encoding="utf-8"))
+        _ent = _bd.get("entry") or []
+        _types = {_x["resource"]["resourceType"] for _x in _ent}
+        _files = {}
+        if "MedicationKnowledge" in _types:
+            _files.update({("MedicationKnowledge", _r.get("id") or _s): _r for _s, _r in _lv_mk.items()})
+        if "ClinicalUseDefinition" in _types:
+            _files.update({("ClinicalUseDefinition", _r.get("id") or _s): _r for _s, _r in _lv_cud.items()})
+        _got = {(_x["resource"]["resourceType"], _x["resource"].get("id")): _x["resource"] for _x in _ent}
+        if _bd.get("total") != len(_ent):
+            _lv_fb.append(f"Bundle/all-predictions.json total={_bd.get('total')}，entry {len(_ent)} 筆")
+        if set(_got) != set(_files) or len(_got) != len(_ent):
+            _lv_fb.append(f"Bundle/all-predictions.json 與資源檔不一致：缺 {len(set(_files) - set(_got))}、多 {len(set(_got) - set(_files))}、"
+                          f"重複 {len(_ent) - len(_got)}")
+        elif any(_got[_k] != _files[_k] for _k in _files):
+            _lv_fb.append("Bundle/all-predictions.json 有 entry 與資源檔內容不同")
+    _sp = _LV_FHIR / "Bundle" / "summary.json"
+    if _sp.exists() and json.loads(_sp.read_text(encoding="utf-8")).get("total") != _n_mk + _n_cud:
+        _lv_fb.append(f"Bundle/summary.json total 不等於 MedicationKnowledge＋ClinicalUseDefinition 檔數 {_n_mk + _n_cud}")
+    _ip = _LV_FHIR / "index.json"
+    if _ip.exists():
+        _ix = json.loads(_ip.read_text(encoding="utf-8"))
+        _cnt = {(_x.get("resource") or {}).get("resourceType"): (_x.get("resource") or {}).get("count") for _x in _ix.get("entry") or []}
+        if {_k: _v for _k, _v in _cnt.items() if _k in ("MedicationKnowledge", "ClinicalUseDefinition")} != \
+                {_k: _v for _k, _v in {"MedicationKnowledge": _n_mk, "ClinicalUseDefinition": _n_cud}.items() if _k in _cnt} \
+                or _ix.get("total") != sum(_v or 0 for _v in _cnt.values()):
+            _lv_fb.append(f"index.json 的 count／total 與實際檔數（MedicationKnowledge {_n_mk}、ClinicalUseDefinition {_n_cud}）不符")
+    for _mn in ("metadata", "metadata.json"):
+        _mp = _LV_FHIR / _mn
+        if not _mp.exists():
+            continue
+        _md = json.loads(_mp.read_text(encoding="utf-8")).get("description", "")
+        for _pat in (r"Contains (\d+) drugs and (\d+) predicted indications",
+                     r"Contains (\d+) MedicationKnowledge and (\d+) ClinicalUseDefinition resources",
+                     r"(\d+) 医薬品、(\d+) 予測適応症"):
+            _mm = re.search(_pat, _md)
+            if _mm and (int(_mm.group(1)), int(_mm.group(2))) != (_n_mk, _n_cud):
+                _lv_fb.append(f"fhir/{_mn} 寫 {_mm.group(1)}／{_mm.group(2)}，實際 MedicationKnowledge {_n_mk}、ClinicalUseDefinition {_n_cud}")
+    if _lv_fb:
+        errors.append(f"FHIR 與藥物頁不一致：{'；'.join(_lv_fb)}（母目錄跑 python3 .claude/sync_fhir_levels.py <本站> --apply）")
 
 if errors:
     print(f"docs SEO 守門：✗ {len(errors)} 項")

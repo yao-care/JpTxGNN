@@ -1,0 +1,149 @@
+{
+  "_note": "藥物頁 front matter description 的證據等級字樣改成頁首等級的紀錄（母目錄 .claude/sync_description_levels.py 追加；只換等級字樣，其他文字不動）。還原：把 original_description 寫回該頁 description。",
+  "entries": [
+    {
+      "page": "docs/_drugs/ampicillin.md",
+      "date": "2026-11-06",
+      "from": "L5",
+      "to": "L4",
+      "original_description": "\"Ampicillin：予測新適応症は喉頭炎 (Laryngitis)（エビデンスレベル L5）。既存適応症：抗生物質\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/budesonide.md",
+      "date": "2026-11-06",
+      "from": "L4",
+      "to": "L5",
+      "original_description": "\"Budesonide：予測新適応症はアトピー性湿疹 (atopic eczema)（エビデンスレベル L4）。既存適応症：気管支喘息、クローン病、潰瘍性大腸炎\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/clopidogrel.md",
+      "date": "2026-11-06",
+      "from": "L2",
+      "to": "L5",
+      "original_description": "\"Clopidogrel：予測新適応症は片頭痛 (Migraine Disorder)。順位 1 位は脳幹性前兆を伴う片頭痛 (Migraine with Brainstem A…（エビデンスレベル L2）。既存適応症：抗凝固薬、血小板凝集抑制薬、P2Y12阻害薬\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/colchicine.md",
+      "date": "2026-11-06",
+      "from": "L4",
+      "to": "L5",
+      "original_description": "\"Colchicine：予測新適応症は熱帯熱マラリア (Plasmodium falciparum malaria)（エビデンスレベル L4）。既存適応症：痛風発作、家族性地中海熱\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/doxycycline.md",
+      "date": "2026-11-06",
+      "from": "L4",
+      "to": "L5",
+      "original_description": "\"Doxycycline：予測新適応症は点状表層角結膜炎 (Punctate Epithelial Keratoconjunctivitis)（エビデンスレベル L4）。既存適応症：気管支炎、ざ瘡、細菌性肺炎、炭疽（吸入・消化管）、淋菌感染症、咽頭炎、放線菌症、軟性下疳、レプトスピラ症、鼠径リンパ肉芽腫 など\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/erythromycin.md",
+      "date": "2026-11-06",
+      "from": "L4",
+      "to": "L5",
+      "original_description": "\"Erythromycin：予測新適応症は点状表層角結膜炎 (Punctate Epithelial Keratoconjunctivitis)（エビデンスレベル L4）。既存適応症：抗生物質（タンパク質合成阻害薬）：淋菌感染症、軟性下疳、梅毒、性病性リンパ肉芽腫、猩紅熱、ジフテリア、百日咳、破傷風、ガス壊疽、アメーバ赤痢\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/felodipine.md",
+      "date": "2026-11-06",
+      "from": "L4",
+      "to": "L5",
+      "original_description": "\"Felodipine：予測新適応症は肺疾患・低酸素に伴う肺高血圧症 (Pulmonary hypertension owing to lung disease and/or…（エビデンスレベル L4）。既存適応症：高血圧症（血圧降下薬・血管拡張薬・カルシウムチャネル遮断薬）\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/levocabastine.md",
+      "date": "2026-11-06",
+      "from": "L4",
+      "to": "L5",
+      "original_description": "\"Levocabastine：予測新適応症はアレルギー性蕁麻疹 (Allergic Urticaria)（エビデンスレベル L4）。既存適応症：アトピー性結膜炎、乳頭性結膜炎、春季カタル（承認書の適応症テキストは空欄）\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/nilotinib.md",
+      "date": "2026-11-06",
+      "from": "L4",
+      "to": "L5",
+      "original_description": "\"Nilotinib：予測新適応症は隆起性皮膚線維肉腫 (Dermatofibrosarcoma protuberans)（エビデンスレベル L4）。既存適応症：慢性骨髄性白血病（BCR-ABL1 陽性）\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/propafenone.md",
+      "date": "2026-11-06",
+      "from": "L4",
+      "to": "L5",
+      "original_description": "\"Propafenone：予測新適応症は躁病性双極性障害。TxGNN モデル（深層学習）のスコアは 0.9980（エビデンスレベル L4）。既存適応症：抗不整脈薬、ナトリウムチャネル遮断薬\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/rivastigmine.md",
+      "date": "2026-11-06",
+      "from": "L4",
+      "to": "L5",
+      "original_description": "\"Rivastigmine：予測新適応症は緑内障 (Glaucoma)（エビデンスレベル L4）。既存適応症：アルツハイマー型認知症（認知症治療薬、アセチルコリンエステラーゼ阻害薬）\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/ropinirole.md",
+      "date": "2026-11-06",
+      "from": "L5",
+      "to": "L2",
+      "original_description": "\"Ropinirole：予測新適応症は注意欠如・多動症 (Attention Deficit-Hyperactivity Disorder)（エビデンスレベル L5）。既存適応症：パーキンソン病\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/rotigotine.md",
+      "date": "2026-11-06",
+      "from": "L4",
+      "to": "L5",
+      "original_description": "\"Rotigotine：予測新適応症は注意欠如・多動症 (attention deficit-hyperactivity disorder)（エビデンスレベル L4）。既存適応症：パーキンソン病、むずむず脚症候群\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/sulpiride.md",
+      "date": "2026-11-06",
+      "from": "L4",
+      "to": "L5",
+      "original_description": "\"Sulpiride：予測新適応症は網膜ジストロフィー（retinal dystrophy with or without extraocular anomalies）（エビデンスレベル L4）。既存適応症：統合失調症、うつ病・うつ状態、胃・十二指腸潰瘍\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/temozolomide.md",
+      "date": "2026-11-06",
+      "from": "L4",
+      "to": "L5",
+      "original_description": "\"Temozolomide：予測新適応症は馬尾腫瘍 (Cauda equina neoplasm)（エビデンスレベル L4）.\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/tetracycline.md",
+      "date": "2026-11-06",
+      "from": "L4",
+      "to": "L5",
+      "original_description": "\"Tetracycline：予測新適応症は点状表層角結膜炎 (Punctate Epithelial Keratoconjunctivitis)（エビデンスレベル L4）。既存適応症：淋菌感染症、軟性下疳、性病性リンパ肉芽腫、猩紅熱、炭疽、ブルセラ症、百日咳、野兎病、ガス壊疽、回帰熱、ワイル病、発疹チフス、つつが虫病…\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/topiroxostat.md",
+      "date": "2026-11-06",
+      "from": "L4",
+      "to": "L5",
+      "original_description": "\"Topiroxostat：予測新適応症は腎性低尿酸血症 (hypouricemia, renal)（エビデンスレベル L4）。既存適応症：高尿酸血症、痛風\"",
+      "tool": ".claude/sync_description_levels.py"
+    },
+    {
+      "page": "docs/_drugs/trihexyphenidyl.md",
+      "date": "2026-11-06",
+      "from": "L4",
+      "to": "L5",
+      "original_description": "\"Trihexyphenidyl：予測新適応症は注意欠如・多動症 (attention deficit-hyperactivity disorder)（エビデンスレベル L4）。既存適応症：パーキンソン病治療薬、ムスカリン受容体拮抗薬（特発性パーキンソニズム、その他のパーキンソニズム）\"",
+      "tool": ".claude/sync_description_levels.py"
+    }
+  ]
+}

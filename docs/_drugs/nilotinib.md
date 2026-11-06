@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "Nilotinib"
 predicted_indications: ["dermatofibrosarcoma protuberans"]
 last_modified_at: 2026-10-28
-description: "Nilotinib：予測新適応症は隆起性皮膚線維肉腫 (Dermatofibrosarcoma protuberans)（エビデンスレベル L4）。既存適応症：慢性骨髄性白血病（BCR-ABL1 陽性）"
+description: "Nilotinib：予測新適応症は隆起性皮膚線維肉腫 (Dermatofibrosarcoma protuberans)（エビデンスレベル L5）。既存適応症：慢性骨髄性白血病（BCR-ABL1 陽性）"
 ---
 
 # Nilotinib
