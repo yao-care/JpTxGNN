@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="タミフルドライシロップ３％（選） に関するニュースは？">
-<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>6 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>5 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,21 +30,13 @@ last_modified_at: 2026-11-06
 <p><a href="{{ '/drugs/oseltamivir/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（6 件）
+## 関連ニュース（5 件）
 
 ### [群馬県内のインフルエンザ感染者 3週ぶりに増加「推移読むのが難しい」 | 上毛新聞電子版｜群馬県のニュース・スポーツ情報](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mUXBoUlBvaGVNMWg2QzlzSWp1THBMRjR6aUZvV0pIMGp1YWpNc0I4ME1kM1RNRHNoMUtMUFZMOFFJMWJGY3UtWnpqZENTLWh0SGZJMDlwUDY2UQ?oc=5)
 
 2026-11-05 <span class="news-indication-tag">インフルエンザ</span>
 
 出典: [上毛新聞電子版](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mUXBoUlBvaGVNMWg2QzlzSWp1THBMRjR6aUZvV0pIMGp1YWpNc0I4ME1kM1RNRHNoMUtMUFZMOFFJMWJGY3UtWnpqZENTLWh0SGZJMDlwUDY2UQ?oc=5)
-
----
-
-### [住友生命、「インフルエンザ実態調査レポート」2026を公開](https://news.google.com/rss/articles/CBMie0FVX3lxTE9wZjV0engta2tUVFVKLWtYZVUySl85R2RSTkJNcDdRY3JDSkJGSTZXZy0tYzUtSWFncm1PLVJHYTZhdFhtVV9FbGtnSnl5TmdScUJIVjJ4TFFBNHVDMTBYY3h1WHdKbEplZWJHLUZ0VTA2NnoybWJJSjkyUQ?oc=5)
-
-2026-11-05 <span class="news-indication-tag">高血圧</span> <span class="news-indication-tag">インフルエンザ</span>
-
-出典: [新日本保険新聞社](https://news.google.com/rss/articles/CBMie0FVX3lxTE9wZjV0engta2tUVFVKLWtYZVUySl85R2RSTkJNcDdRY3JDSkJGSTZXZy0tYzUtSWFncm1PLVJHYTZhdFhtVV9FbGtnSnl5TmdScUJIVjJ4TFFBNHVDMTBYY3h1WHdKbEplZWJHLUZ0VTA2NnoybWJJSjkyUQ?oc=5)
 
 ---
 

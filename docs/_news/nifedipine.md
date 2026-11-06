@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="アダラートＣＲ錠４０ｍｇ（選） に関するニュースは？">
-<strong>アダラートＣＲ錠４０ｍｇ（選）</strong> には現在 <strong>2 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>アダラートＣＲ錠４０ｍｇ（選）</strong> には現在 <strong>1 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,21 +30,13 @@ last_modified_at: 2026-11-06
 <p><a href="{{ '/drugs/nifedipine/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（2 件）
+## 関連ニュース（1 件）
 
-### [住友生命、「インフルエンザ実態調査レポート」2026を公開](https://news.google.com/rss/articles/CBMie0FVX3lxTE9wZjV0engta2tUVFVKLWtYZVUySl85R2RSTkJNcDdRY3JDSkJGSTZXZy0tYzUtSWFncm1PLVJHYTZhdFhtVV9FbGtnSnl5TmdScUJIVjJ4TFFBNHVDMTBYY3h1WHdKbEplZWJHLUZ0VTA2NnoybWJJSjkyUQ?oc=5)
+### [【漫画】順調だった妊娠8カ月の健診、医師の表情が一変…　告げられた“おなかの子の異常”に「これは不安…」【作者取材】(オトナンサー)](https://news.yahoo.co.jp/articles/7329c04e44264fcfadc38a5a300ff2579539c035?source=rss)
 
-2026-11-05 <span class="news-indication-tag">高血圧</span> <span class="news-indication-tag">インフルエンザ</span>
+2026-11-06 <span class="news-indication-tag">心臓病</span>
 
-出典: [新日本保険新聞社](https://news.google.com/rss/articles/CBMie0FVX3lxTE9wZjV0engta2tUVFVKLWtYZVUySl85R2RSTkJNcDdRY3JDSkJGSTZXZy0tYzUtSWFncm1PLVJHYTZhdFhtVV9FbGtnSnl5TmdScUJIVjJ4TFFBNHVDMTBYY3h1WHdKbEplZWJHLUZ0VTA2NnoybWJJSjkyUQ?oc=5)
-
----
-
-### [高血圧患者の脳卒中予防法](https://news.google.com/rss/articles/CBMimgFBVV95cUxPMVFsbjlUWENENUpIaWJrNnc5Ujl1WU9tODdRSFhWaDcwdTNjMWdNV25aeHE5ekM0bzh5TkhuWFlHdG9tejVRZmgyYnp2Zkp0cE15ZEZqZkNVdnFDUmNST1lHclBydWdhMGxrX3RmZ0xJTjR1Wm1wcmNOSkpZNUhNNFU4T3FYUzhEX29mblhLSDhHMkxZMjl4a29B?oc=5)
-
-2026-11-03 <span class="news-indication-tag">高血圧</span> <span class="news-indication-tag">脳卒中</span>
-
-出典: [Laodong.vn](https://news.google.com/rss/articles/CBMimgFBVV95cUxPMVFsbjlUWENENUpIaWJrNnc5Ujl1WU9tODdRSFhWaDcwdTNjMWdNV25aeHE5ekM0bzh5TkhuWFlHdG9tejVRZmgyYnp2Zkp0cE15ZEZqZkNVdnFDUmNST1lHclBydWdhMGxrX3RmZ0xJTjR1Wm1wcmNOSkpZNUhNNFU4T3FYUzhEX29mblhLSDhHMkxZMjl4a29B?oc=5)
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/7329c04e44264fcfadc38a5a300ff2579539c035?source=rss)
 
 ---
 

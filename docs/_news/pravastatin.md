@@ -40,27 +40,43 @@ last_modified_at: 2026-11-06
 
 ## 関連ニュース（14 件）
 
-### [PARP阻害薬と免疫療法の併用による相乗効果を臨床試験で検証―基礎研究で期待された相乗効果の再考につながる知見― - PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTFBpZDZJcVprRDc5Z1J3NkFYSlhrX25wYXY2WjRSZTd4eVBxRmFXNUxKRUhFM1ZfcXBJeVJfUm9HS3NrZUx0elNpbFlRRWNxLUFTMDVCREZudldJS05rZ1NXd2JmM3hickZXaGc?oc=5)
+### [子宮頸がん死2050年までに4割増 米ワシントン大推計、世界の格差深刻](https://news.google.com/rss/articles/CBMidkFVX3lxTE5xR1YwMVkzTUN0dlpOREZ6cW9hSFJvSWM1Y1dwYTJ0dG1yWjNLSml4VVhtN2puUTBDZWhWRE1makdYLTNXczlQckpEV0ExRlRJYjFaQno5clRHelVpb0J1cWhqSzRMTTlUX0dLWFpiMlRWX0xfd3c?oc=5)
 
-2026-11-06 <span class="news-indication-tag">がん</span>
+2026-11-06 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
 
-出典: [PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTFBpZDZJcVprRDc5Z1J3NkFYSlhrX25wYXY2WjRSZTd4eVBxRmFXNUxKRUhFM1ZfcXBJeVJfUm9HS3NrZUx0elNpbFlRRWNxLUFTMDVCREZudldJS05rZ1NXd2JmM3hickZXaGc?oc=5)
-
----
-
-### [子宮頸がん予防啓発月間でエッセイ漫画『さよならしきゅう』を期間限定公開 MSD](https://news.google.com/rss/articles/CBMi2gJBVV95cUxNNHRaVTl5QjVTX01oQ29odmhJSFVPX3duSmZNLXBLaUhISXRDQmhERGhyNl9tX241bDlSYWRMX2RSZFBPeWdDVTRvcUl6SW5Fb3pSWmp2Rkt6TzJ5SkNSeVFxcjdBZmhnVlRCWFNVazRaaU1uTnR5d2VVSUpDQ1Z5X0RnUmFSV3RDY2V3Q1JMQnhqWVF1a3JWMG4xd1dreTJ6RWxrRGt2Wk5UMk1JemU5dHBOUDhYdHVNRHgyLW1IN3cxZ3lHd01Db21wd0NUOWNhV1FXa3ZRN2FGdWl4dUZvN1hYSTl3amFFTWM5OVFFQm50ajJtdkdldGVsaGhyb2FhRWJaV2c1VU5IN0dGRDllMEpIdjloNzRQUHJ2eHYtckJhNzJDOWJlUUdpTG0ybTB1ZHVGODhGOVZwaHNxdzFCWDN0dlZMbjZoSGlxNm9mcl83RGt5N3hjZFVn?oc=5)
-
-2026-11-05 <span class="news-indication-tag">がん</span>
-
-出典: [医薬通信社](https://news.google.com/rss/articles/CBMi2gJBVV95cUxNNHRaVTl5QjVTX01oQ29odmhJSFVPX3duSmZNLXBLaUhISXRDQmhERGhyNl9tX241bDlSYWRMX2RSZFBPeWdDVTRvcUl6SW5Fb3pSWmp2Rkt6TzJ5SkNSeVFxcjdBZmhnVlRCWFNVazRaaU1uTnR5d2VVSUpDQ1Z5X0RnUmFSV3RDY2V3Q1JMQnhqWVF1a3JWMG4xd1dreTJ6RWxrRGt2Wk5UMk1JemU5dHBOUDhYdHVNRHgyLW1IN3cxZ3lHd01Db21wd0NUOWNhV1FXa3ZRN2FGdWl4dUZvN1hYSTl3amFFTWM5OVFFQm50ajJtdkdldGVsaGhyb2FhRWJaV2c1VU5IN0dGRDllMEpIdjloNzRQUHJ2eHYtckJhNzJDOWJlUUdpTG0ybTB1ZHVGODhGOVZwaHNxdzFCWDN0dlZMbjZoSGlxNm9mcl83RGt5N3hjZFVn?oc=5)
+出典: [産経ニュース](https://news.google.com/rss/articles/CBMidkFVX3lxTE5xR1YwMVkzTUN0dlpOREZ6cW9hSFJvSWM1Y1dwYTJ0dG1yWjNLSml4VVhtN2puUTBDZWhWRE1makdYLTNXczlQckpEV0ExRlRJYjFaQno5clRHelVpb0J1cWhqSzRMTTlUX0dLWFpiMlRWX0xfd3c?oc=5)
 
 ---
 
-### [【大腸がん研究の最前線】40歳未満の患者の約70％で腸内細菌の関与を確認 1965年以降生まれではその割合が増加 研究から見えてきた新たな予防への可能性【前後編の後編】](https://news.google.com/rss/articles/CBMid0FVX3lxTFBKY0xqMnFDN1pqdWxwUXA0MldYMzBkaUlsZ3d2OGxTMllSTzNhNlZ3UkZIWTM5NnFRcWlLcEJwMzluZzZ6RjFpRTRtbkd1UGRXbzRlSnFZT3QyMEFidTdRSUwtLWliSjZpTEoybzlCNGp5T00xN0VR?oc=5)
+### [【漫画】順調だった妊娠8カ月の健診、医師の表情が一変…　告げられた“おなかの子の異常”に「これは不安…」【作者取材】(オトナンサー)](https://news.yahoo.co.jp/articles/7329c04e44264fcfadc38a5a300ff2579539c035?source=rss)
+
+2026-11-06 <span class="news-indication-tag">心臓病</span>
+
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/7329c04e44264fcfadc38a5a300ff2579539c035?source=rss)
+
+---
+
+### [「血液がドロドロに……」 飲めば飲むほど脳卒中リスクが上がる？ 身近な飲み物に潜む意外な危険性](https://news.google.com/rss/articles/CBMieEFVX3lxTE1yVkYxQUFnMUU3Rk9YNkdkbmF1TkJObUgxUzhYZ0RuQ2tvbF9DRFctalpnS2xlZGhCVkRVb2t2MUZVNGlfaHFVRktDYjNhS1dxbUlsMmE3TmljLWVZRG8teFowcUw5R0czWXNhaGJ4ZEdSMHFJaEhkbNIBfkFVX3lxTE9GaE54STNjYU10V2RVRk9JRjRGU2tFeE1YZk41U0ZpV1hiSV9xakdoSW5JbFBha3Z0Ymk5S2tna2dMYTJXRzl6TDczTjdvNXE5Q2RuNmtTbVhzeTZHbVJhZ3RYcTNmMGllalFRSjFWX0RuTG1TbWZhUzd5N1RnQQ?oc=5)
+
+2026-11-06 <span class="news-indication-tag">脳卒中</span>
+
+出典: [ｄメニューニュース](https://news.google.com/rss/articles/CBMieEFVX3lxTE1yVkYxQUFnMUU3Rk9YNkdkbmF1TkJObUgxUzhYZ0RuQ2tvbF9DRFctalpnS2xlZGhCVkRVb2t2MUZVNGlfaHFVRktDYjNhS1dxbUlsMmE3TmljLWVZRG8teFowcUw5R0czWXNhaGJ4ZEdSMHFJaEhkbNIBfkFVX3lxTE9GaE54STNjYU10V2RVRk9JRjRGU2tFeE1YZk41U0ZpV1hiSV9xakdoSW5JbFBha3Z0Ymk5S2tna2dMYTJXRzl6TDczTjdvNXE5Q2RuNmtTbVhzeTZHbVJhZ3RYcTNmMGllalFRSjFWX0RuTG1TbWZhUzd5N1RnQQ?oc=5)
+
+---
+
+### [【大腸がん研究の最前線】40歳未満の患者の約70％で腸内細菌の関与を確認 1965年以降生まれではその割合が増加 研究から見えてきた新たな予防への可能性【前後編の後編】](https://news.google.com/rss/articles/CBMibkFVX3lxTE5jbjlWUkhrTk9SdkVvcXhWWGpnZG1FakZHNWJPY2pucmhjRHpPVXUxb0ZveE9fOGE3MEtsdHRzZkxpU0d4SU1EV1lyVEc5REJSUU16SHJiR0ZLVHJ3Z0dHbkoxdzU4Q25MSlo5N2pn?oc=5)
 
 2026-11-05 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
 
-出典: [NEWSポストセブン](https://news.google.com/rss/articles/CBMid0FVX3lxTFBKY0xqMnFDN1pqdWxwUXA0MldYMzBkaUlsZ3d2OGxTMllSTzNhNlZ3UkZIWTM5NnFRcWlLcEJwMzluZzZ6RjFpRTRtbkd1UGRXbzRlSnFZT3QyMEFidTdRSUwtLWliSjZpTEoybzlCNGp5T00xN0VR?oc=5)
+出典: [NEWSポストセブン](https://news.google.com/rss/articles/CBMibkFVX3lxTE5jbjlWUkhrTk9SdkVvcXhWWGpnZG1FakZHNWJPY2pucmhjRHpPVXUxb0ZveE9fOGE3MEtsdHRzZkxpU0d4SU1EV1lyVEc5REJSUU16SHJiR0ZLVHJ3Z0dHbkoxdzU4Q25MSlo5N2pn?oc=5)
+
+---
+
+### [20代～30代の女性をパートナーに持つ男性のうち、6割は子宮頸がんの原因となるウイルスを男性が女性にうつす可能性があることを知らない！ - PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE5RRHF0bFU1VjhJNFRGMUFyRmEzc1kzbjlzeHUyNG41LUZkWU10RDA4MHVuekNzSmxiZDB6eHJ1WTY3OXZNekdobF80UlNzU0UydlFYQmtYWVJrM29Gek9UZW1yQkdaeFNDUHc?oc=5)
+
+2026-11-05 <span class="news-indication-tag">がん</span>
+
+出典: [PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE5RRHF0bFU1VjhJNFRGMUFyRmEzc1kzbjlzeHUyNG41LUZkWU10RDA4MHVuekNzSmxiZDB6eHJ1WTY3OXZNekdobF80UlNzU0UydlFYQmtYWVJrM29Gek9UZW1yQkdaeFNDUHc?oc=5)
 
 ---
 
@@ -72,27 +88,11 @@ last_modified_at: 2026-11-06
 
 ---
 
-### [「男児へのHPVワクチン助成」について](https://news.google.com/rss/articles/CBMiX0FVX3lxTE15S3ZRclRsSTJyaFFOZUktWG9DeEFVNjhGT3VrNFo4T25YMDlXTjd4RExCSGxycDN0WVpXM0tGeDF4YW5OZG5xdjF2MWRPMF9wYjVRM1Y2dWptWW0xenBz?oc=5)
-
-2026-11-05 <span class="news-indication-tag">がん</span>
-
-出典: [選挙ドットコム](https://news.google.com/rss/articles/CBMiX0FVX3lxTE15S3ZRclRsSTJyaFFOZUktWG9DeEFVNjhGT3VrNFo4T25YMDlXTjd4RExCSGxycDN0WVpXM0tGeDF4YW5OZG5xdjF2MWRPMF9wYjVRM1Y2dWptWW0xenBz?oc=5)
-
----
-
 ### [乳がんはベトナム人女性にかかりやすく、50%が発見が遅れています。](https://news.google.com/rss/articles/CBMipwFBVV95cUxQLWc4cnYwMDVOX19EcV9DUzB3ZDFfanBsQW43dWYyTFU2aXo0cFdVN1V2a2RiOC1tM2tTSnk1R0Rkb1dqSWtuU0VIQXhZaGR6dXU3c25jZmJfc1Bqd3lDVlA5QVlrNlJrSWhheU9RZW4tdGJXYjBkLWktdzlBR1ZWc0dfQ2FpSWtjQkdiZFlxUVRPUWhYbE1hNk1CU0pmYk5PR1NGLWhtSQ?oc=5)
 
 2026-11-03 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
 
 出典: [Laodong.vn](https://news.google.com/rss/articles/CBMipwFBVV95cUxQLWc4cnYwMDVOX19EcV9DUzB3ZDFfanBsQW43dWYyTFU2aXo0cFdVN1V2a2RiOC1tM2tTSnk1R0Rkb1dqSWtuU0VIQXhZaGR6dXU3c25jZmJfc1Bqd3lDVlA5QVlrNlJrSWhheU9RZW4tdGJXYjBkLWktdzlBR1ZWc0dfQ2FpSWtjQkdiZFlxUVRPUWhYbE1hNk1CU0pmYk5PR1NGLWhtSQ?oc=5)
-
----
-
-### [高血圧患者の脳卒中予防法](https://news.google.com/rss/articles/CBMimgFBVV95cUxPMVFsbjlUWENENUpIaWJrNnc5Ujl1WU9tODdRSFhWaDcwdTNjMWdNV25aeHE5ekM0bzh5TkhuWFlHdG9tejVRZmgyYnp2Zkp0cE15ZEZqZkNVdnFDUmNST1lHclBydWdhMGxrX3RmZ0xJTjR1Wm1wcmNOSkpZNUhNNFU4T3FYUzhEX29mblhLSDhHMkxZMjl4a29B?oc=5)
-
-2026-11-03 <span class="news-indication-tag">高血圧</span> <span class="news-indication-tag">脳卒中</span>
-
-出典: [Laodong.vn](https://news.google.com/rss/articles/CBMimgFBVV95cUxPMVFsbjlUWENENUpIaWJrNnc5Ujl1WU9tODdRSFhWaDcwdTNjMWdNV25aeHE5ekM0bzh5TkhuWFlHdG9tejVRZmgyYnp2Zkp0cE15ZEZqZkNVdnFDUmNST1lHclBydWdhMGxrX3RmZ0xJTjR1Wm1wcmNOSkpZNUhNNFU4T3FYUzhEX29mblhLSDhHMkxZMjl4a29B?oc=5)
 
 ---
 

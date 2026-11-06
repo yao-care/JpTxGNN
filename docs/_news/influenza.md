@@ -3,7 +3,7 @@ layout: default
 title: "インフルエンザ (influenza) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 6 件、関連医薬品 1 件。"
+description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 5 件、関連医薬品 1 件。"
 permalink: /news/influenza/
 last_modified_at: 2026-11-06
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="インフルエンザ (influenza) に関するニュースは？">
-<strong>インフルエンザ (influenza)</strong> には現在 <strong>6 件</strong>の関連ニュースと 1 件の関連医薬品があります。
+<strong>インフルエンザ (influenza)</strong> には現在 <strong>5 件</strong>の関連ニュースと 1 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -30,21 +30,13 @@ last_modified_at: 2026-11-06
 </ul>
 </div>
 
-## 関連ニュース（6 件）
+## 関連ニュース（5 件）
 
 ### [群馬県内のインフルエンザ感染者 3週ぶりに増加「推移読むのが難しい」 | 上毛新聞電子版｜群馬県のニュース・スポーツ情報](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mUXBoUlBvaGVNMWg2QzlzSWp1THBMRjR6aUZvV0pIMGp1YWpNc0I4ME1kM1RNRHNoMUtMUFZMOFFJMWJGY3UtWnpqZENTLWh0SGZJMDlwUDY2UQ?oc=5)
 
 2026-11-05
 
 出典: [上毛新聞電子版](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mUXBoUlBvaGVNMWg2QzlzSWp1THBMRjR6aUZvV0pIMGp1YWpNc0I4ME1kM1RNRHNoMUtMUFZMOFFJMWJGY3UtWnpqZENTLWh0SGZJMDlwUDY2UQ?oc=5)
-
----
-
-### [住友生命、「インフルエンザ実態調査レポート」2026を公開](https://news.google.com/rss/articles/CBMie0FVX3lxTE9wZjV0engta2tUVFVKLWtYZVUySl85R2RSTkJNcDdRY3JDSkJGSTZXZy0tYzUtSWFncm1PLVJHYTZhdFhtVV9FbGtnSnl5TmdScUJIVjJ4TFFBNHVDMTBYY3h1WHdKbEplZWJHLUZ0VTA2NnoybWJJSjkyUQ?oc=5)
-
-2026-11-05
-
-出典: [新日本保険新聞社](https://news.google.com/rss/articles/CBMie0FVX3lxTE9wZjV0engta2tUVFVKLWtYZVUySl85R2RSTkJNcDdRY3JDSkJGSTZXZy0tYzUtSWFncm1PLVJHYTZhdFhtVV9FbGtnSnl5TmdScUJIVjJ4TFFBNHVDMTBYY3h1WHdKbEplZWJHLUZ0VTA2NnoybWJJSjkyUQ?oc=5)
 
 ---
 
