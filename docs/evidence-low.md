@@ -29,7 +29,7 @@ TxGNN モデルによる予測はあるが、臨床エビデンスの支持が�
 
 ## 薬物リスト
 
-{% assign l5_drugs = site.drugs | where: "evidence_level", "L5" | sort: "title" %}
+{% assign l5_drugs = site.drugs | where: "evidence_level", "L5" | where_exp: "d", "d.noindex != true" | sort: "title" %}
 
 ### L5 レベル ({{ l5_drugs.size }} 件)
 

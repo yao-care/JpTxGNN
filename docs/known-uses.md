@@ -10,7 +10,7 @@ description: "これらの薬剤では、TxGNN モデルの候補はすべて既
 
 これらの薬剤では、TxGNN モデルの候補はすべて既知の用途（知識グラフまたは承認情報に記録済み）であり、新たな予測適応症はありません。各ページに既知の用途と国内の販売状況を掲載しています。
 
-{% assign known_drugs = site.drugs | where: "evidence_level", "N/A" | sort: "title" %}
+{% assign known_drugs = site.drugs | where: "evidence_level", "N/A" | where_exp: "d", "d.noindex != true" | sort: "title" %}
 
 **{{ known_drugs.size }} 剤**
 
