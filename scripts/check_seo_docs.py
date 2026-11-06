@@ -17,7 +17,7 @@
   8. llms.txt／llms-full.txt 範例藥物行「名稱 (Lx): 網址」的標籤＝藥物頁 evidence_level，且不指向轉址／noindex／不存在的頁（2026-11-03）。
   9. llms.txt／llms-full.txt 的本站資料區塊（site-data）剛好一個、等級分布＝drug_stats.json、資料集網址出現在本站 sources 頁（2026-11-04）。
   10. docs/_data/hreflang.json 裡本站自己的頁（說明頁等，藥物頁除外）存在、不是 noindex／轉址頁、組裡有自我參照、沒有 x-default（2026-11-04）。
-  12. docs/data/drugs.json 等於公開藥物頁：不含 noindex／轉址頁、等級＝頁首、筆數＝drug_stats.json total_drugs、original_indication 不是預測說明或截斷的句子（2026-11-06）。
+  12. docs/data/drugs.json 等於公開藥物頁：不含 noindex／轉址頁、等級＝頁首、筆數＝drug_stats.json total_drugs、original_indication 不是預測說明或截斷的句子、predicted_indication／txgnn_score 不是表頭字或預測說明（2026-11-06）。
 
 Tw 專屬的檢查（TFDA 許可證表、docs/_data/drug_reviews.json 人工查核紀錄、drug_stats.json）沒有移植；
 本站之後若建立同類機制，再把對應檢查加回來。
@@ -489,6 +489,31 @@ if _DJ_F.exists():
         _oi = str(_e.get("original_indication") or "").strip()
         if _oi and (_DJ_OI_BAD.search(_oi) or _oi.endswith(("...", "…"))):
             _dj_bad.append(f"{norm(_e.get('url') or '/drugs/' + str(_e.get('slug', '')) + '/')} original_indication 是預測說明或截斷的句子：{_oi[:40]}")
+    # predicted_indication、txgnn_score（2026-11-06 補）：產生器以前用 regex 從內文抓預測表第一列與分數，有值的多半是表頭字
+    #   （「預測適應症」「Predicted Indication」「Forudsagt indikation」「Sykdom」…）。用戶決定這兩欄留空（欄位保留）；
+    #   有值時不得等於本站藥物頁任何表格的表頭字或粗體列名，不得含預測說明字樣，txgnn_score 只能是數字（0–1 或百分比）。
+    _DJ_SEP = re.compile(r"^\s*\|?\s*:?-{3,}:?\s*(\|\s*:?-{3,}:?\s*)*\|?\s*$")
+    _DJ_HDR = set()
+    for _f in sorted((DOCS / "_drugs").glob("*.md")):
+        _ls = _f.read_text(encoding="utf-8", errors="replace").splitlines()
+        for _i, _l in enumerate(_ls):
+            if _i and "|" in _ls[_i - 1] and _DJ_SEP.match(_l):
+                _DJ_HDR |= {_c.strip(" *_`").casefold() for _c in _ls[_i - 1].strip().strip("|").split("|") if _c.strip(" *_`")}
+            _m = re.match(r"^\s*\|\s*\*\*([^|*]+)\*\*\s*\|", _l)
+            if _m:
+                _DJ_HDR.add(_m.group(1).strip().casefold())
+    _DJ_PRED_BAD = re.compile(r"predict|prédi|predic|vorhergesagt|forudsag|voorspeld|ennust|förutsag|predikert|予測|예측|預測|预测"
+                              r"|may be effective|TxGNN|top-ranked|score|分數|分数|スコア|점수", re.I)
+    for _e in _dj_list:
+        _du = norm(_e.get("url") or "/drugs/" + str(_e.get("slug", "")) + "/")
+        for _k in ("predicted_indication", "txgnn_score"):
+            _v = str(_e.get(_k) if _e.get(_k) is not None else "").strip()
+            if not _v:
+                continue
+            if _v.strip(" *_`").casefold() in _DJ_HDR or _DJ_PRED_BAD.search(_v):
+                _dj_bad.append(f"{_du} {_k} 是表頭字或預測說明：{_v[:40]}")
+            elif _k == "txgnn_score" and not re.fullmatch(r"(0(\.\d+)?|1(\.0+)?|\d{1,3}(\.\d+)?\s*%)", _v):
+                _dj_bad.append(f"{_du} txgnn_score 不是分數：{_v[:40]}")
     _dj_bad += [f"{_u} 是公開藥物頁但不在 drugs.json" for _u in sorted(_dj_public - _dj_seen)]
     _dj_total = json.loads((DOCS / "_data" / "drug_stats.json").read_text(encoding="utf-8")).get("total_drugs")
     if len(_dj_list) != _dj_total or (isinstance(_dj, dict) and _dj.get("total_count", len(_dj_list)) != len(_dj_list)):
