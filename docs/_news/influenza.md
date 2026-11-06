@@ -3,9 +3,9 @@ layout: default
 title: "インフルエンザ (influenza) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 7 件、関連医薬品 1 件。"
+description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 6 件、関連医薬品 1 件。"
 permalink: /news/influenza/
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-06
 ---
 
 # インフルエンザ (influenza) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-05
 ---
 
 <p class="key-answer" data-question="インフルエンザ (influenza) に関するニュースは？">
-<strong>インフルエンザ (influenza)</strong> には現在 <strong>7 件</strong>の関連ニュースと 1 件の関連医薬品があります。
+<strong>インフルエンザ (influenza)</strong> には現在 <strong>6 件</strong>の関連ニュースと 1 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -30,15 +30,7 @@ last_modified_at: 2026-11-05
 </ul>
 </div>
 
-## 関連ニュース（7 件）
-
-### [【愛知県インフルエンザ週報】患者数2週連続で増加 “14歳以下”の感染目立つ＜10月26日～11月1日の感染症情報 - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTFBrWVRJVjVxcl9CZ2lCek1OZWM2UEtsWVJQdVdsV1g3MnA0b3B4c3BZR3NlX3pnb0wwZXNSdTN5c3Q5WExJbUZDS0FXNmd5QkZPTld6MGVQRmtXZjVadk9GZjh3dzFYdFNpNG9qbHFn?oc=5)
-
-2026-11-05
-
-出典: [au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTFBrWVRJVjVxcl9CZ2lCek1OZWM2UEtsWVJQdVdsV1g3MnA0b3B4c3BZR3NlX3pnb0wwZXNSdTN5c3Q5WExJbUZDS0FXNmd5QkZPTld6MGVQRmtXZjVadk9GZjh3dzFYdFNpNG9qbHFn?oc=5)
-
----
+## 関連ニュース（6 件）
 
 ### [群馬県内のインフルエンザ感染者 3週ぶりに増加「推移読むのが難しい」 | 上毛新聞電子版｜群馬県のニュース・スポーツ情報](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mUXBoUlBvaGVNMWg2QzlzSWp1THBMRjR6aUZvV0pIMGp1YWpNc0I4ME1kM1RNRHNoMUtMUFZMOFFJMWJGY3UtWnpqZENTLWh0SGZJMDlwUDY2UQ?oc=5)
 

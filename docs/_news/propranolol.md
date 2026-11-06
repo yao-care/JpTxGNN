@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "インデラル錠１０ｍｇ（選） に関する健康ニュース。予測適応症 4 件。"
 permalink: /news/propranolol/
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-06
 ---
 
 # インデラル錠１０ｍｇ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-05
 ---
 
 <p class="key-answer" data-question="インデラル錠１０ｍｇ（選） に関するニュースは？">
-<strong>インデラル錠１０ｍｇ（選）</strong> には現在 <strong>12 件</strong>の関連ニュースがあり、予測適応症は 4 件です。
+<strong>インデラル錠１０ｍｇ（選）</strong> には現在 <strong>11 件</strong>の関連ニュースがあり、予測適応症は 4 件です。
 </p>
 
 <div class="key-takeaway">
@@ -36,15 +36,7 @@ last_modified_at: 2026-11-05
 <p><a href="{{ '/drugs/propranolol/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（12 件）
-
-### [「脂肪肝」は自力で改善できる？　わずかな減量でも効果出る食事＆運動法とは【医師が解説】(オトナンサー)](https://news.yahoo.co.jp/articles/a3198d28355ec22cdbfe0156c5a23b73dec6b478?source=rss)
-
-2026-11-05 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">肝がん</span>
-
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/a3198d28355ec22cdbfe0156c5a23b73dec6b478?source=rss)
-
----
+## 関連ニュース（11 件）
 
 ### [子宮頸がん予防啓発月間でエッセイ漫画『さよならしきゅう』を期間限定公開 MSD](https://news.google.com/rss/articles/CBMi2gJBVV95cUxNNHRaVTl5QjVTX01oQ29odmhJSFVPX3duSmZNLXBLaUhISXRDQmhERGhyNl9tX241bDlSYWRMX2RSZFBPeWdDVTRvcUl6SW5Fb3pSWmp2Rkt6TzJ5SkNSeVFxcjdBZmhnVlRCWFNVazRaaU1uTnR5d2VVSUpDQ1Z5X0RnUmFSV3RDY2V3Q1JMQnhqWVF1a3JWMG4xd1dreTJ6RWxrRGt2Wk5UMk1JemU5dHBOUDhYdHVNRHgyLW1IN3cxZ3lHd01Db21wd0NUOWNhV1FXa3ZRN2FGdWl4dUZvN1hYSTl3amFFTWM5OVFFQm50ajJtdkdldGVsaGhyb2FhRWJaV2c1VU5IN0dGRDllMEpIdjloNzRQUHJ2eHYtckJhNzJDOWJlUUdpTG0ybTB1ZHVGODhGOVZwaHNxdzFCWDN0dlZMbjZoSGlxNm9mcl83RGt5N3hjZFVn?oc=5)
 
@@ -62,19 +54,19 @@ last_modified_at: 2026-11-05
 
 ---
 
-### [20代～30代の女性をパートナーに持つ男性のうち、6割は子宮頸がんの原因となるウイルスを男性が女性にうつす可能性があることを知らない！ - PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE5RRHF0bFU1VjhJNFRGMUFyRmEzc1kzbjlzeHUyNG41LUZkWU10RDA4MHVuekNzSmxiZDB6eHJ1WTY3OXZNekdobF80UlNzU0UydlFYQmtYWVJrM29Gek9UZW1yQkdaeFNDUHc?oc=5)
-
-2026-11-05 <span class="news-indication-tag">がん</span>
-
-出典: [PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE5RRHF0bFU1VjhJNFRGMUFyRmEzc1kzbjlzeHUyNG41LUZkWU10RDA4MHVuekNzSmxiZDB6eHJ1WTY3OXZNekdobF80UlNzU0UydlFYQmtYWVJrM29Gek9UZW1yQkdaeFNDUHc?oc=5)
-
----
-
 ### [胃がんの発症に深く関わる「ピロリ菌」――除菌と検査について知っておきたいこと(Medical Note)](https://news.yahoo.co.jp/articles/6d6f62f6b9e56dcf79db73610a70a25bf34b1341?source=rss)
 
 2026-11-05 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">胃がん</span>
 
 出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/6d6f62f6b9e56dcf79db73610a70a25bf34b1341?source=rss)
+
+---
+
+### [「男児へのHPVワクチン助成」について](https://news.google.com/rss/articles/CBMiX0FVX3lxTE15S3ZRclRsSTJyaFFOZUktWG9DeEFVNjhGT3VrNFo4T25YMDlXTjd4RExCSGxycDN0WVpXM0tGeDF4YW5OZG5xdjF2MWRPMF9wYjVRM1Y2dWptWW0xenBz?oc=5)
+
+2026-11-05 <span class="news-indication-tag">がん</span>
+
+出典: [選挙ドットコム](https://news.google.com/rss/articles/CBMiX0FVX3lxTE15S3ZRclRsSTJyaFFOZUktWG9DeEFVNjhGT3VrNFo4T25YMDlXTjd4RExCSGxycDN0WVpXM0tGeDF4YW5OZG5xdjF2MWRPMF9wYjVRM1Y2dWptWW0xenBz?oc=5)
 
 ---
 
@@ -94,11 +86,11 @@ last_modified_at: 2026-11-05
 
 ---
 
-### [【すい臓がん治療最前線】画期的新薬「ダラクソンラシブ」に高まる期待 「百年に一度の薬」と絶賛されるも、日本で保険診療として承認されるためには“高すぎる薬価”の壁](https://news.google.com/rss/articles/CBMiR0FVX3lxTFBMOXZ5ZzlSdVhpMXNwSGlfU1Z6b3lTX2tHRkZXOTVua3M1eGhjbS1na1Jkc0otRVhUdVpmVzV2TGNnTUhVb2hF?oc=5)
+### [【すい臓がん治療最前線】画期的新薬「ダラクソンラシブ」に高まる期待 「百年に一度の薬」と絶賛されるも、日本で保険診療として承認されるためには“高すぎる薬価”の壁(マネーポストWEB)](https://news.google.com/rss/articles/CBMihwFBVV95cUxOUm1yMW5oNXFfNEplUWpxaFE5aTRVckFaZHFiZ2xFbzJiUnU3Y08wZl9CczliMmIwNWtwaDNlTHFNNWUtbTJiN3hHVDR0TEhETVplR24yRmZ4eFBMa3dreXFUYXVVWm1UWUxvcXRfdVJveEZ6OVVRdmo1MUVfeENUNG9MM1V4TW8?oc=5)
 
 2026-11-02 <span class="news-indication-tag">がん</span>
 
-出典: [マネーポストWEB](https://news.google.com/rss/articles/CBMiR0FVX3lxTFBMOXZ5ZzlSdVhpMXNwSGlfU1Z6b3lTX2tHRkZXOTVua3M1eGhjbS1na1Jkc0otRVhUdVpmVzV2TGNnTUhVb2hF?oc=5)
+出典: [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxOUm1yMW5oNXFfNEplUWpxaFE5aTRVckFaZHFiZ2xFbzJiUnU3Y08wZl9CczliMmIwNWtwaDNlTHFNNWUtbTJiN3hHVDR0TEhETVplR24yRmZ4eFBMa3dreXFUYXVVWm1UWUxvcXRfdVJveEZ6OVVRdmo1MUVfeENUNG9MM1V4TW8?oc=5)
 
 ---
 
