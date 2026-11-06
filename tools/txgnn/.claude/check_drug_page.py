@@ -1491,6 +1491,19 @@ def index_english(site, name):
     return _loc2en(site).get(n, n)
 
 
+def orig_use_ok(rx, rxs, hit, orig_cell, lic_ind, known):
+    """P3：已排除病名的命中其實是原適應症（不算錯）。
+    (a) 2026-10-27 pm：命中字串就在概覽表原適應症格，且同一規則也命中本地許可證適應症文字；
+    (b) 2026-11-06：該病名被排除是因為它是本藥的已知用途（known_use_filter），且病名任一寫法（英文或站內當地名）出現在原適應症格。
+        (a) 對不上的情形：德文形容詞變格（標題「chronischer myeloischer Leukämie」、原適應症格「chronische myeloische Leukämie」），
+        許可證適應症是 MeSH 倒裝英文（「Leukemia, Myelogenous, Chronic」）。DE dasatinib「Von chronischer myeloischer Leukämie … zum Ewing-Sarkom」"""
+    if not orig_cell:
+        return False
+    if hit.lower() in orig_cell.lower() and any(rx.search(t) for t in lic_ind):
+        return True
+    return bool(known) and any(r.search(orig_cell) for r in rxs)
+
+
 def parse_fm_list(fm, key):
     m = re.search(rf"^{key}:\s*(\[.*\])\s*$", fm, re.M)
     if m:
@@ -1680,6 +1693,10 @@ def check_page(site, f, cls, want_noindex):
     # 2026-10-27 pm：命中的字串剛好就是本地許可證記載的原適應症（概覽表原適應症格，且同一規則也命中許可證適應症文字）→ 不算
     lic_ind = [r.get("indication") or "" for r in ((b.get("tfda") or {}).get("records") or []) if (r.get("indication") or "").strip()]
     orig_cell = next((r[1] for r in (tbs[0][1] if tbs else []) if len(r) >= 2 and ORIG_ROW.search(r[0])), "")
+    # 2026-11-06：被排除的原因是「已知用途」（known_use_filter 判定）的病名，給 orig_use_ok 的 (b) 用
+    known_x = set(excluded) - set(kf.filter_predictions(BASE / site, d.get("drugbank_id") or kf._dl_dbid(BASE / site).get(
+        (d.get("inn") or d.get("name") or "").strip().lower(), ""), (d.get("inn") or d.get("name") or "").strip(), excluded, b)) \
+        if excluded and orig_cell else set()
     for x in excluded:
         for rx in name_regexes(site, x):
             if any(rx.search(k) for k in kept):
@@ -1692,7 +1709,7 @@ def check_page(site, f, cls, want_noindex):
                         continue
                     if re.fullmatch(r"L[1-5]", m.group(0).strip()):  # 2026-10-29：縮寫比對撞到證據等級 L1–L5，不是病名
                         continue
-                    if not (orig_cell and m.group(0).lower() in orig_cell.lower() and any(rx.search(t) for t in lic_ind)):
+                    if not orig_use_ok(rx, name_regexes(site, x), m.group(0), orig_cell, lic_ind, x in known_x):
                         return True
                 return False
             where = next((w for w, h in hay.items() if hit(h)), None)
@@ -2009,6 +2026,12 @@ def selftest():
                   [re.compile(r"(?<![A-Za-z0-9])" + re.escape(a) + r"(?![A-Za-z0-9])") for a in _abbrs(name, {})]
             known_only = KNOWN_USE_OK.search(s) and not (score_tokens(s) or SCORE_PRED_STRICT.search(s))
             got = any(rx.search(s) for rx in rxs) and not known_only
+        elif code == "P3ORIG":  # text＝「英文病名|當地名1;當地名2|命中字串|原適應症格|許可證適應症」，note＝known=0|1：orig_use_ok（hit＝豁免）
+            en, locs, h, oc, li = (text.split("|") + [""] * 5)[:5]
+            rxs = [re.compile(r"(?<![A-Za-z])" + re.escape(en) + r"(?![A-Za-z])", re.I)] + \
+                  [re.compile(r"(?<![A-Za-zÀ-ÿ])" + re.escape(x) + r"(?![A-Za-zÀ-ÿ])", re.I) for x in locs.split(";") if x]
+            rx = next((r for r in rxs if r.search(h)), rxs[0])
+            got = orig_use_ok(rx, rxs, h, oc, [li] if li else [], note == "known=1")
         elif code == "INDEX_EN":  # text＝「站|search-index 病名」，note＝應得的英文病名
             site, name = text.split("|", 1)
             got = index_english(site, name) == note

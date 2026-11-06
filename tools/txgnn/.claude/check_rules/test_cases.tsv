@@ -485,3 +485,9 @@ M3V	en-us	All are single-ingredient products.	hit	site=UsTxGNN;ms=Marketed;total
 M3V	en	All 11 registrations are valid single-ingredient licences.	hit	site=InTxGNN;ms=Marketed;total=11;valid=11;cancelled=0;vs=0;st=0
 M3V	en	Both entries are valid single-ingredient products.	hit	site=AuTxGNN;ms=Marketed;total=2;valid=2;cancelled=0;vs=1;st=1
 M3V	en	All 11 registrations are valid licences.	miss	site=InTxGNN;ms=Marketed;total=11;valid=11;cancelled=0;vs=0;st=0
+P3ORIG	de	myeloid leukemia|Myeloische Leukämie;myeloischer Leukämie|myeloischer Leukämie|Vorläuferzell-lymphoblastische Leukämie/Lymphom; BCR-ABL-positive chronische myeloische Leukämie|Leukemia, Myelogenous, Chronic, BCR-ABL Positive	hit	known=1
+P3ORIG	de	myeloid leukemia|Myeloische Leukämie;myeloischer Leukämie|myeloischer Leukämie|Vorläuferzell-lymphoblastische Leukämie/Lymphom; BCR-ABL-positive chronische myeloische Leukämie|Leukemia, Myelogenous, Chronic, BCR-ABL Positive	miss	known=0
+P3ORIG	de	myeloid leukemia|Myeloische Leukämie;myeloischer Leukämie|myeloischer Leukämie|Ewing-Sarkom|Leukemia, Myelogenous, Chronic, BCR-ABL Positive	miss	known=1
+P3ORIG	de	myeloid leukemia|Myeloische Leukämie;myeloischer Leukämie|myeloischer Leukämie||	miss	known=1
+P3ORIG	en	hypertension||hypertension|Hypertension; heart failure|Treatment of hypertension	hit	known=0
+P3ORIG	en	hypertension||hypertension|Heart failure|Treatment of hypertension	miss	known=0
