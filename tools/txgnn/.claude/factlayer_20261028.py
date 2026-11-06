@@ -36,6 +36,7 @@ ap = _load("ap", BASE / ".claude/apply_programmatic_20261023.py")
 ck = ap.ck
 fs = _load("fs", BASE / ".claude/fix_sentences_20261023.py")
 dm = _load("dm", BASE / ".claude/drug_meta_description.py")
+mt = _load("mt", BASE / ".claude/md_tables.py")
 
 NOT_RECORDED = {
     "en": "Not recorded in the local data", "es": "No consta en los datos locales", "pt": "Não consta nos dados locais",
@@ -80,6 +81,9 @@ def orig_value(site, b, page=None):
 def pred_display(site, k0, cell):
     """kept[0] 的顯示名：現有格子若已是 kept[0]（當地名）就沿用當地名，後面附英文名；否則只寫英文名。"""
     rxs = ck.name_regexes(site, k0)
+    c0 = (cell or "").strip().strip(" *")
+    if "(" in k0 and c0.lower().endswith(f"({k0.lower()})") and len(c0) > len(k0) + 2:
+        return c0  # 2026-11-03：病名本身含括號（amenorrhea (disease)）時，下面的去括號式剝不掉英文名，會再附一次英文名
     loc = re.sub(r"\s*[（(][^()（）]*[)）]\s*$", "", (cell or "").strip()).strip(" *")
     eng = k0[:1].upper() + k0[1:]
     simple = loc and len(loc) <= 80 and not re.search(r"[:;。；：]|\brank\b|\d", loc, re.I)
@@ -112,7 +116,7 @@ def strip_sentences(site, text, kept, excluded, kept_sc, cls, removed, facts):
     bad = fs.bad_lines(site, text, kept, excluded, kept_sc, cls, removed, facts)
     new = list(lines)
     for i in bad:
-        if i < fm_end or not fs.deletable(site, new, i, fm_end):
+        if new[i] is None or i < fm_end or not fs.deletable(site, new, i, fm_end):
             continue
         line = new[i]
         m = fs.LIST_PREFIX.match(line)
@@ -125,7 +129,31 @@ def strip_sentences(site, text, kept, excluded, kept_sc, cls, removed, facts):
             keep.append(s)
         out = "".join(keep).strip()
         new[i] = (prefix + out) if out else None
+        drop_wrapped_tail(new, i, rest, out)
     return "\n".join(x for x in new if x is not None)
+
+
+SENT_END = re.compile(r"[.!?。！？؟।][\"'”」』)\]*_`]*\s*$")
+
+
+def drop_wrapped_tail(lines, i, rest, out):
+    """刪掉的是行尾那句、而那句跨到下一行（原行結尾沒有句末標點）：下一行開頭屬於同一句的部分一併刪，不留殘句。
+    （2026-11-03 Us albendazole 等 7 頁：一句話摘要「The TxGNN model predicts ... **X**,」整行刪了，
+    下一行「with **3 clinical trials** and ... supporting this direction.」留成沒有主詞的殘句）"""
+    if SENT_END.search(rest) or (out and rest.rstrip().endswith(out.rstrip())):
+        return  # 原行以句末結束，或保留到行尾（刪的不是行尾那句）
+    j = i + 1
+    while j < len(lines):
+        nxt = lines[j]
+        if nxt is None or not nxt.strip() or nxt.lstrip().startswith(("|", "#", "<", "{", ">", "---")) or fs.LIST_PREFIX.match(nxt).group(1):
+            return
+        lead = nxt[:len(nxt) - len(nxt.lstrip())]
+        sents = fs.split_sentences(nxt.strip())
+        remain = "".join(sents[1:]).strip()
+        lines[j] = (lead + remain) if remain else None
+        if SENT_END.search(sents[0]):
+            return
+        j += 1
 
 
 SNIP = re.compile(r"[：:]\s?(.+)$")
@@ -197,6 +225,7 @@ def strip_by_checker(site, text, cls, fname, ov_lines):
             out = "".join(keep).strip()
             if out != rest.strip():
                 lines[i] = (prefix + out) if out else None; changed = True
+                drop_wrapped_tail(lines, i, rest, out)
         # 資料列被刪光的表格：表頭與分隔列一併拿掉
         for i in range(fm_end, len(lines) - 1):
             if lines[i] and lines[i].startswith("|") and lines[i + 1] and re.match(r"^\|[\s:|-]+\|\s*$", lines[i + 1]):
@@ -237,13 +266,13 @@ def status_value(site, fc):
     tl = ck.mv2.T.get(lang) or ck.mv2.T["en"]
     ms, v, n, partial = fc.get("market_status"), fc.get("valid"), fc.get("total"), fc.get("partial")
     if ms == "Marketed":
-        return ck.marketed_text(site, lang, v, n, partial)
+        return ck.marketed_text(site, lang, v, n, partial, fc)
     if ms == "Approved, not marketed":
-        return ck.NOT_MKT.get(lang, ck.NOT_MKT["en"]).format(n=n)
+        return ck.not_marketed_text(site, lang, fc)
     if ms == "Cancelled only":
         return ck.cancelled_text(site, lang, n)
     if ms == "Not marketed":
-        return ck.not_reg_text(site, lang)
+        return ck.not_reg_text(site, lang, fc)
     return None
 
 
@@ -390,7 +419,11 @@ def drop_prediction_sections(site, page, text, start):
     h1 = next((i for i in range(start, len(lines)) if is_title(lines, i)), None)
     if h1 is None:
         return text
-    heads = [i for i in range(h1 + 1, len(lines)) if lines[i].startswith("## ")]
+    # 段落層級＝標題後第一個標題的層級：多數站是「## 段」，SE 等站的報告段是「### 段」（只有免責聲明是 ##），
+    # 只認 ## 會把 ### 的概覽表、上市資訊一起當導言刪掉（2026-11-03 SE olodaterol：M1 找不到狀態列而退回）
+    first = next((re.match(r"^(#{2,6}) ", lines[i]) for i in range(h1 + 1, len(lines)) if re.match(r"^#{2,6} ", lines[i])), None)
+    lvl = len(first.group(1)) if first else 2
+    heads = [i for i in range(h1 + 1, len(lines)) if re.match(rf"^#{{2,{lvl}}} ", lines[i])]
     if not heads:
         return text
     bounds = [(h, (heads[k + 1] if k + 1 < len(heads) else len(lines))) for k, h in enumerate(heads)]
@@ -563,6 +596,20 @@ def transform(site, f, cls, pmap):
     return t0, t2, crlf
 
 
+def spacing_only(f, apply_, summ):
+    """不跑事實層的頁（已乾淨、處理失敗、或改了會退步而退回原檔）只補表格前後空行（2026-11-03）。
+    各站 sync 寫頁後都會呼叫本支：notes 結尾沒有換行時，sync 接上「\\n## Disclaimer」會讓最後一張表
+    緊貼標題，kramdown 把整張表排成純文字。只補空行、不改字、不動 last_modified_at（sync 剛寫過這頁）。"""
+    raw = f.read_bytes().decode("utf-8")
+    new = mt.fix_table_spacing(raw)
+    if new is raw:
+        return ""
+    summ["table_spacing"] += 1
+    if apply_:
+        f.write_bytes(new.encode("utf-8"))
+    return "+table_spacing"
+
+
 def main(argv):
     apply_ = "--apply" in argv
     ap.LOCAL = True
@@ -589,24 +636,25 @@ def main(argv):
                 before = sorted({e[0] for e in ck.check_page(s, f, cls, False) if e[0] != "P7"})
                 if not before and "--force" not in argv:  # 已經可以發佈的頁一字不動（--force：指定頁強制重套，例如規則修正後）
                     summ["pages"] += 1; summ["skipped_clean"] += 1
-                    rows.append((s, f.stem, "", "", "skip_clean"))
+                    rows.append((s, f.stem, "", "", "skip_clean" + spacing_only(f, apply_, summ)))
                     continue
                 t0, t2, crlf = transform(s, f, cls, pmap)
+                t2 = mt.fix_table_spacing(t2)
             except Exception as e:
-                rows.append((s, f.stem, "X", f"處理失敗：{str(e)[:100]}", "")); summ["error"] += 1
+                rows.append((s, f.stem, "X", f"處理失敗：{str(e)[:100]}", spacing_only(f, apply_, summ))); summ["error"] += 1
                 continue
             tmp = OUT / "_tmp" / s / f.name
             tmp.parent.mkdir(parents=True, exist_ok=True)
             tmp.write_text(t2, encoding="utf-8")
             after = sorted({e[0] for e in ck.check_page(s, tmp, cls, False) if e[0] != "P7"})
             if set(after) - set(before):  # 改後多出新錯 → 改用精簡版（只填原適應症＋刪 checker 報的違規句，不動 H1／主預測／description）再試
-                t2m = minimal(s, f, cls, pmap)
+                t2m = mt.fix_table_spacing(minimal(s, f, cls, pmap))
                 tmp.write_text(t2m, encoding="utf-8")
                 after_m = sorted({e[0] for e in ck.check_page(s, tmp, cls, False) if e[0] != "P7"})
                 if not (set(after_m) - set(before)) and t2m != t0:
                     t2, after = t2m, after_m
             if set(after) - set(before):  # 不准讓頁面多出原本沒有的錯：退回原檔
-                rows.append((s, f.stem, ",".join(before), ",".join(before), "reverted_regress")); summ["reverted_regress"] += 1
+                rows.append((s, f.stem, ",".join(before), ",".join(before), "reverted_regress" + spacing_only(f, apply_, summ))); summ["reverted_regress"] += 1
                 summ["pages"] += 1; summ["nonzero_before"] += 1; summ["nonzero_after"] += 1
                 continue
             if t2 != t0:

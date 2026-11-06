@@ -53,6 +53,10 @@ SYNONYMS = {
     "non-small cell lung": [r"\bNSCLC\b"],
     "toxemia of pregnancy": [r"pre-?eclampsia", r"\beclampsia"],  # 2026-10-29：子癇前症＝妊娠毒血症（用戶核准，Tw 硫酸鎂人工重審 L1）
     r"(?<!non-)(?<!non )small cell lung": [r"(?<!non-)(?<!non )\bSCLC\b"],
+    # 2026-11-04：等級不符頁逐組重審時，下列子型／同義名的研究被誤判為「非本病」而把等級壓成 L5
+    "manic bipolar affective disorder": [r"\bmania\b", r"\bmanic\b"],  # 躁症（不含泛雙相情感障礙）
+    r"cutaneous t-cell lymphoma": [r"mycosis fungoides", r"s[ée]zary"],  # 蕈狀肉芽腫、Sézary 症候群是原發皮膚 T 細胞淋巴瘤的子型
+    "plasma cell myeloma": [r"multiple myeloma"],  # 同一個病
 }
 
 

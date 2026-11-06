@@ -88,6 +88,10 @@ P5	es	La puntuación de 0,996 refleja la proximidad entre nodos del grafo de con
 P5	en	The TxGNN model was trained on a biomedical knowledge graph; known uses recorded there are excluded.	miss	
 P5	zh	知識圖譜中已記錄的適應症已排除，不列為新預測。	miss	
 INDEX_EN	en	UsTxGNN|simian immunodeficiency virus infection	hit	simian immunodeficiency virus infection
+INDEX_EN	en	UsTxGNN|amenorrhea (disease)	hit	amenorrhea (disease)
+INDEX_EN	zh	HkTxGNN|transient ischemic attack (disease)	hit	transient ischemic attack (disease)
+INDEX_EN	nl	NlTxGNN|feline acquired immunodeficiency syndrome	hit	feline acquired immunodeficiency syndrome
+INDEX_EN	zh	HkTxGNN|46,XY 性發育異常（睪丸類固醇合成缺陷） (46,XY disorder of sex development due to testicular steroidogenesis defect)	hit	46,xy disorder of sex development due to testicular steroidogenesis defect
 INDEX_EN	ja	JpTxGNN|強直性脊椎炎 (Ankylosing Spondylitis)	hit	ankylosing spondylitis
 INDEX_EN	ms	MyTxGNN|Sindrom orang kaku klasik (classic stiff person syndrome)	hit	classic stiff person syndrome
 P2	en	The TxGNN deep-learning model (score ≥ 0.99) produced candidates for this drug.	miss	
@@ -177,6 +181,11 @@ P5	en	The knowledge graph flags pancreatitis as a likely new indication with sco
 P5	nl	De kennisgraaf voorspelt deze aandoening.	hit	pm A 案對照：有預測字樣不豁免
 P5	en	The knowledge graph links this drug to liver failure.	miss	section=## Safety Considerations
 P5	en	The knowledge graph links this drug to liver failure with a score of 0.995.	hit	section=## Safety Considerations
+D1	ms	## Laronidase: A\n{: .text-alpha }\n\n## Ringkasan Satu Ayat\n\nx\n\n---\n\n## Laronidase: Daripada B kepada C\n{: .text-alpha }\n\n## Ringkasan Satu Ayat	hit	第二份舊報告（My laronidase 型）
+D1	en	## Amiloride: diuretic → x (x)\n{: .text-alpha }\n\nWait — the page language is English.\n\n## Amiloride: diuretic → x\n{: .text-alpha }\n\n## One-Sentence Summary	hit	模型更正標題留下兩個標題（Us amiloride 型）
+D1	en	## Amiloride: diuretic → x\n{: .text-alpha }\n\n## One-Sentence Summary\n\n## Quick Overview\n\n## Disclaimer	miss	正常頁：一個報告標題
+D1	en	## Amiloride: diuretic → x\n{: .text-alpha }\n\n## One-Sentence Summary\n\n## Amiloride: diuretic → y\n\ntext	miss	第二個 H2 沒有 {: .text-alpha }，不是報告標題
+D1	ko	## A: 1\n{: .text-alpha }\n\n> 제목 수정\n\n## A: 2\n{: .text-alpha }\n\n**수정:**\n\n## A: 3\n{: .text-alpha }	hit	三個標題（Kr tropicamide 型）
 M3X	en	The product is a single-ingredient registration with valid status.	hit	ms=Cancelled only;valid=0;cancelled=1
 M3X	en	One single-ingredient registration is currently valid.	hit	ms=Cancelled only;valid=0;cancelled=1
 M3X	en	Carbocisteine is a mucoregulating medicine with antioxidant activity, marketed in South Africa as a single-ingredient syrup.	hit	ms=Cancelled only;valid=0;cancelled=1
@@ -206,3 +215,273 @@ M3X	en	> No registered products were found to tabulate.	hit	ms=Marketed;valid=53
 M3X	en	The absence of SAHPRA registration reflects the local regulatory status only.	hit	ms=Marketed;valid=37;cancelled=5
 M3X	en	The TxGNN pipeline returned zero predicted indications because the entry could not be resolved, which is a data matching failure.	miss	ms=Marketed;valid=5;cancelled=0
 M3X	en	A result of zero licences strongly suggests a data ingestion or mapping failure at source.	hit	ms=Marketed;valid=5;cancelled=0
+M3X	en	No oral arginine product was identified, so route compatibility has not been assessed.	miss	ms=Marketed;valid=35;cancelled=19
+M3X	en	It may be available as a supplement, but no scheduled pharmaceutical products were identified in the regulatory dataset.	hit	ms=Marketed;valid=39;cancelled=4
+M3V	en-us	Disopyramide is a class Ia antiarrhythmic drug that is marketed in Canada (as RYTHMODAN).	hit	site=CaTxGNN;ms=Approved, not marketed;valid=0;not_marketed=1
+M3V	en-us	Lurbinectedin was formerly marketed in Canada as ZEPZELCA but is now dormant.	miss	site=CaTxGNN;ms=Approved, not marketed;valid=0;not_marketed=1
+M3V	en-us	All three licences are currently valid single-ingredient products.	miss	site=CaTxGNN;ms=Marketed;valid=2;not_marketed=1;cancelled=0
+M3V	en-us	All four authorisations are valid single-ingredient products.	hit	site=CaTxGNN;ms=Marketed;valid=3;not_marketed=0;cancelled=1
+M3V	en-us	Diclofenac has 20 valid single-ingredient authorizations in Canada and none are cancelled.	hit	site=CaTxGNN;ms=Marketed;valid=18;cancelled=2;partial=1
+M3V	en-us	Sixteen valid single-ingredient licences are on record, and none is cancelled.	miss	site=CaTxGNN;ms=Marketed;valid=14;not_marketed=2;cancelled=0
+M3V	en-us	Estradiol has no recorded Health Canada authorizations in this Evidence Pack (0 DINs).	hit	site=CaTxGNN;ms=Marketed;valid=20;partial=1
+M5	en	| Taiwan Market Status | ✗ Not Marketed |	hit	
+M5	en	| Canada Market Status | Marketed (marketed DINs: 9 of 9) |	miss	
+M3V	es	Ambas autorizaciones corresponden a monofármaco, están vigentes y pertenecen a Allergan Pharmaceuticals International Limited.	hit	site=ESTxGNN;ms=Cancelled only;valid=0;cancelled=2
+M3V	es	Actualmente no está comercializado en España: solo constan autorizaciones canceladas.	miss	site=ESTxGNN;ms=Cancelled only;valid=0;cancelled=2
+M3V	es	Remimazolam es una benzodiazepina de acción ultracorta, autorizada y comercializada en España (Byfavo).	hit	site=ESTxGNN;ms=Approved, not marketed;valid=0;not_marketed=1
+M3V	es	Las 6 autorizaciones están vigentes, son de principio activo único y no hay ninguna cancelada.	hit	site=ESTxGNN;ms=Marketed;valid=5;cancelled=1
+M3V	es	Se muestran 5 de las 10 autorizaciones vigentes (todas de principio activo único, ninguna cancelada).	miss	site=ESTxGNN;ms=Marketed;valid=8;not_marketed=2;cancelled=0
+M3V	es	Siete de las diez autorizaciones están vigentes y tres están canceladas.	miss	site=ESTxGNN;ms=Marketed;valid=7;cancelled=3
+M3V	es	Además, los cuatro registros sanitarios en Colombia están cancelados.	hit	site=COTxGNN;ms=Marketed;valid=4
+M3V	es	Además, la única autorización en España está cancelada.	hit	site=ESTxGNN;ms=Marketed;valid=50;cancelled=17
+M3V	ko	ALVERINE CITRATE는 현재 허가 이력이 없어 기존 적응증을 확인할 수 없습니다.	hit	site=KrTxGNN;ms=Marketed;valid=10
+M3V	ko	Amisulpride(DrugBank ID: DB06288)는 현재 대만 미허가 약물로, 이번 Evidence Pack에 TxGNN 예측 적응증 결과가 포함되어 있지 않습니다.	hit	site=KrTxGNN;ms=Marketed;valid=10
+M3V	ko	3건 모두 한국메나리니(주)의 유효한 단일 성분 허가입니다.	hit	site=KrTxGNN;ms=Cancelled only;valid=0;cancelled=3
+M3V	ko	총 20건이 모두 유효한 단일 성분 허가이며, 취소된 허가는 없습니다.	hit	site=KrTxGNN;ms=Marketed;valid=18;cancelled=2
+M3V	ko	한국에는 단일 성분 제제 15건이 유효 허가 상태입니다.	hit	site=KrTxGNN;ms=Marketed;valid=14;cancelled=1
+M3V	ko	다만 허가 적응증과 작용 기전 데이터가 확인되지 않았고, 안전성 관련 허가 정보가 없어 조건부 진행이 적절합니다.	miss	site=KrTxGNN;ms=Marketed;valid=20;partial=1
+M3V	ko	3건 모두 취하되어 현재 국내 시판 허가가 없습니다.	miss	site=KrTxGNN;ms=Cancelled only;valid=0;cancelled=3
+M3V	ko	한국에서 20건의 허가증이 유효하게 시판되고 있는 비정형 항정신병약입니다.	miss	site=KrTxGNN;ms=Marketed;valid=19;cancelled=1;partial=1
+M3V	ko	유효 허가 16건, 취소 2건입니다.	miss	site=KrTxGNN;ms=Marketed;valid=16;cancelled=2
+M5	ko	대만 임상 분리균 637주를 대상으로 한 연구에서도 대장균과 K. pneumoniae에 우수한 활성을 보였습니다.	miss	
+M5	ko	| `taiwan_regulatory.market_status` | `Not marketed` | 미시판 |	hit	
+M5	ko	현재 한국(대만) 시판 이력도 없으며, 작용 기전·안전성 데이터 모두 수집되지 않았습니다.	hit	
+M3V	da	Bemærk: Den eneste registrerede tilladelse er et veterinærlægemiddel (Trymox Vet., Univet Limited), som er gyldigt og markedsført.	hit	site=DkTxGNN;ms=Marketed;valid=5
+M3V	da	Bemærk: Den registrerede tilladelse gælder et veterinært præparat (Zoetis Animal Health ApS).	miss	site=DkTxGNN;ms=Not marketed;valid=0
+M3V	da	⚠️ Vigtig bemærkning om markedsstatus i Danmark: Bevissamlingen registrerer nul danske markedsføringstilladelser.	hit	site=DkTxGNN;ms=Marketed;valid=3
+M3V	da	Melatonin er ikke markedsført i Danmark ifølge Evidenspakken.	hit	site=DkTxGNN;ms=Marketed;valid=2
+M3V	da	Lægemidlet er markedsført i Danmark som tabletter.	hit	site=DkTxGNN;ms=Not marketed;valid=0
+M3V	da	Lægemidlet er ikke markedsført i Danmark.	miss	site=DkTxGNN;ms=Not marketed;valid=0
+M3V	ms	Selain itu, profil keselamatan acitretin menuntut kehati-hatian, dan ubat ini tidak berdaftar di Malaysia.	hit	site=MyTxGNN;ms=Marketed;valid=4
+M3V	ms	Kalsium sitrat tidak mempunyai pendaftaran NPRA yang direkodkan (0 lesen), maka tiada jadual produk dipaparkan.	hit	site=MyTxGNN;ms=Marketed;valid=47;cancelled=1
+M3V	ms	Kesemua 29 pendaftaran berstatus sah dan mengandungi bahan tunggal.	hit	site=MyTxGNN;ms=Marketed;valid=28;cancelled=1
+M3V	ms	Data tempatan merekodkan 800 lesen yang sah, termasuk 71 produk bahan tunggal.	hit	site=MyTxGNN;ms=Marketed;valid=797;cancelled=3
+M3V	ms	Tiada pendaftaran produk vitamin A bahan tunggal.	miss	site=MyTxGNN;ms=Marketed;valid=166
+M3V	ms	Ubat ini tidak berdaftar di Malaysia.	miss	site=MyTxGNN;ms=Not marketed;valid=0
+M3V	ms	Sebanyak 28 daripada 29 pendaftaran berstatus sah.	miss	site=MyTxGNN;ms=Marketed;valid=28;cancelled=1
+M5	en	| Number of Taiwan Licenses | 0 |	hit	Us 2026-11-05
+M5	en	The query returned 0 results from the TFDA database.	hit	Us 2026-11-05
+M5	en	| Number of FDA Applications | 3 (active: 1) |	miss	Us 2026-11-05
+M3X	en	This profile is consistent with a branded prenatal multivitamin that may be marketed in other jurisdictions but has not been registered here.	miss	ms=Not marketed;valid=0;cancelled=0
+M3X	en	The TxGNN pipeline returned no predicted indications, no original indication is registered, and the product holds no US market authorization.	miss	ms=Not marketed;valid=0;cancelled=0
+M3X	en	The product is registered and marketed in the US as an OTC tablet.	hit	ms=Not marketed;valid=0;cancelled=0
+M3X	en	The drug is widely marketed as a cough syrup.	hit	ms=Not marketed;valid=0;cancelled=0
+M3V	en	Albuterol Sulfate has **no registered products** in the Singapore Health Sciences Authority (HSA) database as of the data cutoff (2026-04-19).	hit	site=SgTxGNN;ms=Marketed;valid=13;cancelled=0
+M3V	en	Abiraterone Acetate has **0 registered products** in Singapore.	hit	site=SgTxGNN;ms=Marketed;valid=17;cancelled=0
+M3V	en	No TxGNN-predicted indications were returned for this entry, and Singapore regulatory registration records are absent.	hit	site=SgTxGNN;ms=Marketed;valid=8;cancelled=0
+M3V	en	No ophthalmic formulation is listed among the Singapore products, which matters for an ocular indication.	miss	site=SgTxGNN;ms=Marketed;valid=6;cancelled=0
+M3V	en	There are no registered trials for nasal cavity disease.	miss	site=SgTxGNN;ms=Marketed;valid=16;cancelled=0
+M3V	en	The EU authorization is also currently cancelled.	hit	site=EuTxGNN;ms=Marketed;valid=2;cancelled=0
+M3V	en	In addition, the only EU authorization on record is cancelled.	hit	site=EuTxGNN;ms=Marketed;valid=2;cancelled=0
+M3V	en	Reference data note that an earlier EMA approval (as Removab) was withdrawn at the marketing authorisation holder's request in 2017 for commercial reasons, and that the drug was re-authorised in early 2025.	miss	site=EuTxGNN;ms=Marketed;valid=1;cancelled=1
+M3V	en	The EU authorization is also cancelled.	miss	site=EuTxGNN;ms=Cancelled only;valid=0;cancelled=1
+M3V	en	Clarification of the cancelled EU authorization status and the available dosage forms and routes	hit	site=EuTxGNN;ms=Marketed;valid=1;cancelled=0
+M3V	en	Both EU authorizations are cancelled.	hit	site=EuTxGNN;ms=Marketed;valid=2;cancelled=0
+M3V	en	There are no cancelled authorizations.	miss	site=EuTxGNN;ms=Marketed;valid=4;cancelled=0
+M3V	en	Fenfluramine was historically withdrawn from the market as an appetite suppressant because of valvular heart disease.	miss	site=EuTxGNN;ms=Marketed;valid=1;cancelled=0
+M3V	en	One EU authorization is cancelled.	miss	site=EuTxGNN;ms=Marketed;valid=2;cancelled=1
+ROW_STATUS	en	UsTxGNN|| NDA208743 (cancelled) | Tymlos (Radius Health, Inc.) | Injection, solution | Not listed in the license record |	hit	NDA208743=valid
+ROW_STATUS	en	UsTxGNN|| ANDA077449 (Ingenus), cancelled | Fentanyl | Injection | Not available |	hit	ANDA077449=valid
+ROW_STATUS	en	UsTxGNN|| NDA020764 | Lamictal | Tablet | Not specified (valid) |	hit	NDA020764=cancelled
+ROW_STATUS	en	UsTxGNN|| NDA 020764 | Lamictal | Tablet | Not specified (status: valid) |	hit	NDA020764=cancelled
+ROW_STATUS	en	UsTxGNN|| NDA208743 | TYMLOS | RADIUS | Solution; subcutaneous | Valid |	miss	NDA208743=valid
+ROW_STATUS	en	UsTxGNN|| ANDA080384 | PROCAINE HYDROCHLORIDE | ABRAXIS PHARM | Injectable; injection | Discontinued in Drugs@FDA |	miss	ANDA080384=cancelled
+ROW_STATUS	en	UsTxGNN|| NDA208743 (cancelled) | Tymlos | Injection | Not listed |	miss	NDA208743=cancelled
+ROW_STATUS	en	KrTxGNN|| 200812345 (cancelled) | X | Tablet | Valid |	miss	200812345=valid
+M3	en	All four licences are valid, and none has been cancelled.	miss	valid=4
+M3	en	All 12 centralised authorisations are valid; none were withdrawn.	miss	valid=12
+M3	es	Todos los registros están vigentes y ninguno fue cancelado.	miss	valid=3
+M3	de	Alle Zulassungen sind gültig, keine wurde widerrufen.	miss	valid=2
+M3	en	All three licences have been cancelled.	hit	valid=2
+M3	en	All EU authorisations for this drug were withdrawn in 2019.	hit	valid=1
+M3	es	Todos los registros fueron cancelados.	hit	valid=1
+M3V	en	The drug is therefore not marketed in the EU, which limits any repurposing plan.	hit	site=EuTxGNN;ms=Cancelled only;valid=0;cancelled=2
+M3V	en	The EU authorization is cancelled.	miss	site=EuTxGNN;ms=Cancelled only;valid=0;cancelled=1
+M3V	en	Duloxetine is not currently available in Singapore.	hit	site=SgTxGNN;ms=Not marketed;valid=0;cancelled=0
+M3V	en	A suitable topical or vaginal formulation and route, since none is currently registered in Singapore	miss	site=SgTxGNN;ms=Not marketed;valid=0;cancelled=0
+M3V	en	One valid single-ingredient authorisation is recorded.	hit	site=UkTxGNN;ms=Marketed;valid=12;cancelled=0
+M3V	en	Abacavir is a single-ingredient product with valid status.	hit	site=UkTxGNN;ms=Marketed;valid=12;cancelled=0
+M3V	en	A result of zero licences strongly suggests a data ingestion or mapping failure at source.	hit	site=UkTxGNN;ms=Marketed;valid=5;cancelled=0
+M3V	en	The identifier appears to be a BNF-style code rather than an MHRA PL number, so the authorisation details should be checked against MHRA records.	miss	site=UkTxGNN;ms=Marketed;valid=5;cancelled=0
+M3V	en	Abacavir is a nucleoside reverse transcriptase inhibitor used in combination antiretroviral therapy.	miss	site=UkTxGNN;ms=Marketed;valid=5;cancelled=0
+M3V	en	- Verification of the UK authorisation record, including licence number, dosage form and approved indication	miss	site=UkTxGNN;ms=Marketed;valid=5;cancelled=0
+M3V	en	Only one authorisation record is available, and it carries no indication text or manufacturer.	hit	site=UkTxGNN;ms=Marketed;valid=5;cancelled=0
+M3V	en	Both New Zealand licences are cancelled, and the haematological risks are significant.	hit	site=NZTxGNN;ms=Marketed;valid=3;cancelled=0
+M3V	en	All three licences are valid, and no approved-indication text is available for them.	hit	site=NZTxGNN;ms=Marketed;valid=3;cancelled=0
+M3V	en	No pramipexole product is currently authorized in New Zealand.	hit	site=NZTxGNN;ms=Marketed;valid=3;cancelled=0
+M3V	en	Dapsone carries a significant risk of haemolysis and methaemoglobinaemia.	miss	site=NZTxGNN;ms=Marketed;valid=3;cancelled=0
+M3V	en	- Verification of the Medsafe licence status, which is not included in this data	miss	site=NZTxGNN;ms=Marketed;valid=3;cancelled=0
+M3V	en	The licence is a single-ingredient product and is currently valid.	hit	site=UkTxGNN;ms=Marketed;valid=5;cancelled=0
+M3V	en	A sixth authorisation, Indolar SR Cap 75mg (1001010K0BGADAD), is also recorded as valid.	hit	site=UkTxGNN;ms=Marketed;valid=5;cancelled=0
+M3V	en	No MHRA-authorised products are listed.	hit	site=UkTxGNN;ms=Marketed;valid=5;cancelled=0
+M3V	en	- Clarification of the regulatory pathway, since both New Zealand licences are cancelled	hit	site=NZTxGNN;ms=Marketed;valid=3;cancelled=0
+M3V	en	Two single-ingredient bosentan licences (Bosentan Dr Reddy's, 62.5 mg and 125 mg tablets) are recorded in the local data.	hit	site=NZTxGNN;ms=Marketed;valid=3;cancelled=0
+M3V	en	Nevirapine is also no longer actively marketed in New Zealand (both licences cancelled), and it carries notable liver and skin toxicity risks.	hit	site=NZTxGNN;ms=Marketed;valid=3;cancelled=0
+M3V	en	Diltiazem Hydrochloride currently has zero registered authorizations in New Zealand based on data retrieved on 2026-03-29.	hit	site=NZTxGNN;ms=Marketed;valid=3;cancelled=0
+M3V	en	- Clarification of the original approved indication and the regulatory pathway	miss	site=NZTxGNN;ms=Marketed;valid=3;cancelled=0
+M3V	en	Both Phase 3 trials were completed, and the pooled analysis showed a reduction in relapse rate.	miss	site=NZTxGNN;ms=Marketed;valid=3;cancelled=0
+M3V	en	- Complete UK authorisation details (indication text, dosage form, valid licence number)	miss	site=UkTxGNN;ms=Marketed;valid=5;cancelled=0
+M3V	en	Fluoxetine is a selective serotonin reuptake inhibitor, marketed in the Philippines under one valid licence.	hit	site=PhTxGNN;ms=Marketed;valid=1;cancelled=0
+M3V	en	The only Philippines registration has been cancelled, and no label-based safety data are available.	hit	site=PhTxGNN;ms=Marketed;valid=1;cancelled=0
+M3V	en	No product authorizations were found.	hit	site=PhTxGNN;ms=Marketed;valid=1;cancelled=0
+M3V	en	Amoxicillin is a beta-lactam antibiotic that inhibits bacterial cell wall synthesis.	miss	site=PhTxGNN;ms=Marketed;valid=1;cancelled=0
+M3V	en	- Package insert warnings and contraindications from the Philippines FDA, and the approved indication text	miss	site=PhTxGNN;ms=Marketed;valid=1;cancelled=0
+M3V	en	The local records show this single-ingredient licence as valid, and the drug is marketed in the Philippines.	hit	site=PhTxGNN;ms=Marketed;valid=1;cancelled=0
+M3V	en	Nystatin is a polyene antifungal that is registered and marketed in the Philippines.	hit	site=PhTxGNN;ms=Marketed;valid=1;cancelled=0
+M3V	en	The drug's registration in the Philippines has also been cancelled.	hit	site=PhTxGNN;ms=Marketed;valid=1;cancelled=0
+M3V	en	- Clarification of the Philippines registration status (cancelled) and the dosage form	hit	site=PhTxGNN;ms=Marketed;valid=1;cancelled=0
+M3V	en	- Confirmation of whether any valid Philippines registration or ophthalmic formulation exists	miss	site=PhTxGNN;ms=Marketed;valid=1;cancelled=0
+M3V	en	Only one single-ingredient product is recorded, and it is currently valid.	hit	site=UkTxGNN;ms=Marketed;valid=3;cancelled=0
+M3V	en	The record shows one valid single-ingredient product and no cancelled products.	hit	site=UkTxGNN;ms=Marketed;valid=3;cancelled=0
+M3V	en	Raltegravir is recorded as marketed in the UK, with one single-ingredient record.	hit	site=UkTxGNN;ms=Marketed;valid=3;cancelled=0
+M3V	en	Overall status: **Marketed**.	hit	site=UkTxGNN;ms=Marketed;valid=3;cancelled=0
+M3V	en	The registry lists one valid single-ingredient authorisation.	hit	site=UkTxGNN;ms=Marketed;valid=3;cancelled=0
+M3V	en	No TxGNN predictions have been generated, and the absence of a DrugBank ID, mechanism of action data, and valid UK regulatory records means none of the core evaluation criteria can be assessed at this time.	miss	site=UkTxGNN;ms=Marketed;valid=3;cancelled=0
+M3V	en	Aciclovir is an antiviral nucleoside analogue that is marketed in the UK in oral suspension and topical cream products.	miss	site=UkTxGNN;ms=Marketed;valid=3;cancelled=0
+M3V	en	This is a single-ingredient product record.	miss	site=UkTxGNN;ms=Marketed;valid=3;cancelled=0
+M3V	en	The only Phase 3 registration (NCT00447369) was withdrawn and provides no data.	miss	site=UkTxGNN;ms=Marketed;valid=3;cancelled=0
+M3V	en	There are no clinical trials or relevant publications, the mechanistic link to NSIAD is speculative, and the only New Zealand authorization has been cancelled.	hit	site=NZTxGNN;ms=Marketed;valid=3;cancelled=0
+M3V	en	There are no clinical trials, the single retrieved publication is not about perindopril, and the drug is marketed in New Zealand with 3 valid licences of 3.	hit	site=NZTxGNN;ms=Marketed;valid=3;cancelled=0
+M3V	en	- Clarification of the cancelled New Zealand regulatory status and route compatibility	hit	site=NZTxGNN;ms=Marketed;valid=3;cancelled=0
+M3V	en	- Confirm the reason for cancellation of the New Zealand authorizations and the availability of any alternative metronidazole products.	hit	site=NZTxGNN;ms=Marketed;valid=3;cancelled=0
+M3V	en	The market status is marketed.	hit	site=NZTxGNN;ms=Marketed;valid=3;cancelled=0
+M3V	en	Local records show axitinib as marketed in New Zealand.	hit	site=NZTxGNN;ms=Marketed;valid=3;cancelled=0
+M3V	en	Aspirin products are marketed in New Zealand as plain tablets (a 300 mg dispersible tablet and a 100 mg tablet).	miss	site=NZTxGNN;ms=Marketed;valid=3;cancelled=0
+M3V	en	- Confirmation of whether any product is currently marketed in New Zealand	miss	site=NZTxGNN;ms=Marketed;valid=3;cancelled=0
+M3V	en	A 10-year paediatric registry (NCT00568997) is still active.	miss	site=NZTxGNN;ms=Marketed;valid=3;cancelled=0
+M3V	en	The overall market status in the local data is "Marketed".	hit	site=PhTxGNN;ms=Marketed;valid=3;cancelled=0
+M3V	en	However, both registered trials are indirect perioperative studies, the supporting data are decades old, and the Philippines registration is cancelled.	hit	site=PhTxGNN;ms=Marketed;valid=3;cancelled=0
+M3V	en	- Clarification of the original approved indication and the reason for the registration cancellation	hit	site=PhTxGNN;ms=Marketed;valid=3;cancelled=0
+M3V	en	This is a single-ingredient registration.	hit	site=PhTxGNN;ms=Marketed;valid=3;cancelled=0
+M3V	en	Cetirizine is an H1-receptor antagonist (antihistamine) with a local registration record in the Philippines.	hit	site=PhTxGNN;ms=Marketed;valid=3;cancelled=0
+M3V	en	The Phase 3 trials that test potassium directly are small or lack reported results, although the drug is marketed in the Philippines with all three licenses valid.	hit	site=PhTxGNN;ms=Marketed;valid=3;cancelled=0
+M3V	en	- An assessment of whether a valid marketed product and a suitable route of administration exist in the Philippines	miss	site=PhTxGNN;ms=Marketed;valid=3;cancelled=0
+M3V	en	Approved use: Not stated in the Philippines registration record	miss	site=PhTxGNN;ms=Marketed;valid=3;cancelled=0
+M3V	en	Nitrofurantoin is an antibacterial drug, but the Philippine registration record compiled for this report does not state its approved indication.	miss	site=PhTxGNN;ms=Marketed;valid=3;cancelled=0
+M3V	en	Detailed mechanism-of-action data are not available in the registration records.	miss	site=PhTxGNN;ms=Marketed;valid=3;cancelled=0
+M3V	en	PNF entries are formulary listings, not FDA Philippines registrations; FDA Philippines registration status is not included in this data.	miss	site=PhTxGNN;ms=Marketed;valid=3;cancelled=0
+M3V	en	Currently no related clinical trials registered.	miss	site=PhTxGNN;ms=Marketed;valid=3;cancelled=0
+M3V	en	This is almost certainly a search artefact.	hit	site=UkTxGNN;ms=Marketed;valid=3;cancelled=0
+M3V	en	The absence of data here reflects a gap in the evidence pack rather than a true lack of UK market presence.	hit	site=UkTxGNN;ms=Marketed;valid=3;cancelled=0
+M3V	en	However, in the absence of a UK marketing authorisation, any clinical use would require a Specials licence or named-patient basis application via the MHRA, and standard BNF/NICE guidance does not apply.	hit	site=UkTxGNN;ms=Marketed;valid=3;cancelled=0
+M3V	en	The high score is likely a TxGNN model (deep learning) artefact and should not be read as evidence.	miss	site=UkTxGNN;ms=Marketed;valid=3;cancelled=0
+M3V	en	The link to "cystic neoplasm" is probably an ontology-mapping artefact arising from serous and ovarian disease terms.	miss	site=UkTxGNN;ms=Marketed;valid=3;cancelled=0
+M3V	en-us	All nine US listings for trastuzumab products are marked as cancelled.	hit	site=UsTxGNN;ms=Marketed;valid=9;cancelled=0
+M3V	en-us	There are 9 authorizations in total, and all are cancelled.	hit	site=UsTxGNN;ms=Marketed;valid=27;cancelled=4
+M3V	en-us	In addition, all US authorizations for amoxicillin are currently cancelled.	hit	site=UsTxGNN;ms=Marketed;valid=62;cancelled=64
+M3V	en-us	The US licences are all cancelled, so the drug's regulatory position needs clarification.	hit	site=UsTxGNN;ms=Marketed;valid=45;cancelled=28
+M3V	en-us	Both US NDAs are currently listed as cancelled.	hit	site=UsTxGNN;ms=Marketed;valid=3;cancelled=3
+M3V	en-us	The US license is also listed as cancelled, and package insert safety data are missing.	hit	site=UsTxGNN;ms=Marketed;valid=1;cancelled=0
+M3V	en-us	Idelalisib's sole US license is cancelled, and it carries serious toxicity concerns.	hit	site=UsTxGNN;ms=Marketed;valid=2;cancelled=1
+M3V	en-us	The compiled data list 14 US authorizations, all with cancelled status and no indication text.	hit	site=UsTxGNN;ms=Marketed;valid=7;cancelled=2
+M3V	en-us	The three top-scoring predictions have no study evidence at all, and the product's US market status is "Cancelled only".	hit	site=UsTxGNN;ms=Marketed;valid=2;cancelled=0
+M3V	en-us	All 11 are listed as cancelled.	hit	site=UsTxGNN;ms=Marketed;valid=15;cancelled=11
+M3V	en-us	In addition, all U.S. authorizations for tetrabenazine are cancelled, and label safety data are missing.	hit	site=UsTxGNN;ms=Marketed;valid=9;cancelled=3
+M3V	en-us	Both authorizations are held by Genentech, Inc. and are recorded as cancelled.	hit	site=UsTxGNN;ms=Marketed;valid=2;cancelled=0
+M3V	en-us	Eight further ANDAs are on file, all cancelled.	hit	site=UsTxGNN;ms=Marketed;valid=21;cancelled=1
+M3V	en-us	Three more ANDAs (AvKARE, Aurobindo, Zydus) are also listed as cancelled.	hit	site=UsTxGNN;ms=Marketed;valid=13;cancelled=0
+M3V	en-us	Five further authorizations are also cancelled: XGEVA (BLA125320) and OSPOMYV (BLA761392).	hit	site=UsTxGNN;ms=Marketed;valid=13;cancelled=0;lic=BLA125320:valid,BLA761392:valid
+M3V	en-us	Three further cancelled licences are not shown: ANDA076126 (Carlsbad) and ANDA075939 (Amneal).	hit	site=UsTxGNN;ms=Marketed;valid=39;cancelled=32;lic=ANDA076126:valid,ANDA075939:cancelled
+M3V	en-us	Neither product is currently active, so availability would need to be verified.	hit	site=UsTxGNN;ms=Marketed;valid=2;cancelled=3
+M3V	en-us	- Clarification of the cancelled US market status and the current availability of the drug	hit	site=UsTxGNN;ms=Marketed;valid=19;cancelled=16
+M3V	en-us	- Clarification of the original approved indications and the reasons for the NDA cancellations	hit	site=UsTxGNN;ms=Marketed;valid=2;cancelled=0
+M3V	en-us	All four licences are valid, and none has been cancelled.	miss	site=UsTxGNN;ms=Marketed;valid=4;cancelled=0
+M3V	en-us	Six further generic tablet ANDAs are also listed as cancelled.	miss	site=UsTxGNN;ms=Marketed;valid=31;cancelled=15
+M3V	en-us	Of the 5 licences listed, 3 are valid and 2 are cancelled.	miss	site=UsTxGNN;ms=Marketed;valid=6;cancelled=11
+M3V	en-us	A sixth licence, ANDA088131 (Chartwell RX), is also cancelled.	miss	site=UsTxGNN;ms=Marketed;valid=1;cancelled=80;lic=ANDA088131:cancelled
+M3V	en-us	The US license is cancelled.	miss	site=UsTxGNN;ms=Cancelled only;valid=0;cancelled=1
+M3V	en-us	Several of the records are valid, and at least one is cancelled.	miss	site=UsTxGNN;ms=Marketed;valid=10;cancelled=6
+M3V	en-us	Of the licence records, 8 are valid and 1 (an injectable product) is cancelled.	miss	site=UsTxGNN;ms=Marketed;valid=20;cancelled=7
+M3V	en-us	- Clarification of the reason for the license cancellations and the current US availability	miss	site=UsTxGNN;ms=Marketed;valid=1;cancelled=3
+M3V	en-us	This is a veterinary indication, and the evidence further limits practical development.	miss	site=UsTxGNN;ms=Marketed;valid=2;cancelled=0
+M3V	en-us	All nine US listings for trastuzumab products are marked as cancelled.	miss	site=DETxGNN;ms=Marketed;valid=9;cancelled=0
+M3V	en	At least one licence is valid in the local data (1 licence in total, 1 valid, 0 cancelled).	miss	site=UsTxGNN;ms=Marketed;valid=1;cancelled=0
+M3	pt	Além disso, todos os registros no Brasil estão cancelados.	hit	valid=2
+M3	pt	A previsão é apenas computacional (L5), e todos os registros no Brasil estão cancelados.	hit	valid=3
+M3	ar	جميع التراخيص الثلاثة ملغاة ولا يوجد حالياً ترخيص ساري.	hit	valid=2
+M3	ar	جميع التراخيص الاثنا عشر ملغاة، ولا يتوفر نص مؤشرات معتمد أو شكل صيدلاني في البيانات المتاحة.	hit	valid=1
+M3	en	All 4 registrations are valid, and none is cancelled.	miss	valid=4
+M3	es	Hay 20 autorizaciones vigentes en total, todas de monofármaco, sin autorizaciones canceladas.	miss	valid=20
+M3	en	All six are single-ingredient licences and none has been cancelled.	miss	valid=6
+M3V	en	Both EU authorizations are cancelled.	hit	site=EuTxGNN;ms=Marketed;valid=2;cancelled=1;note=2026-11-06 ALLC_X 對 Eu 啟用後：有有效許可時「兩張都註銷」與事實矛盾
+M3V	en	All nine SAHPRA registrations for trastuzumab products are marked as cancelled.	hit	site=ZaTxGNN;ms=Marketed;valid=9;cancelled=0
+M3V	en	There are no human rheumatoid arthritis trials, and the EU authorizations are currently cancelled.	hit	site=EuTxGNN;ms=Marketed;valid=2;cancelled=0
+M3V	en	However, no trials or efficacy studies exist specifically for this subtype, and the EU authorisation is recorded as cancelled.	hit	site=EuTxGNN;ms=Marketed;valid=1;cancelled=0
+M3V	en	The guardrails reflect that all three EU centrally authorized products are cancelled, that the Phase 3 trial is a comparison.	hit	site=EuTxGNN;ms=Marketed;valid=3;cancelled=2
+M3V	en	- Clarification of the reason for the licence cancellations and whether any nilotinib product is currently available in New Zealand	hit	site=NZTxGNN;ms=Marketed;valid=2;cancelled=0
+M3V	en	- Clarification of whether any nilotinib product is currently available in New Zealand	miss	site=NZTxGNN;ms=Marketed;valid=2;cancelled=0
+M3V	en	The drug is marketed in the EU, and two older authorizations have been withdrawn.	miss	site=EuTxGNN;ms=Marketed;valid=9;cancelled=2
+M3V	en-us	In total, 10 licences are valid and 1 is cancelled.	hit	site=UsTxGNN;ms=Marketed;total=48;valid=21;cancelled=27;note=2026-11-06 總數說法（TOTAL_X）
+M3V	en-us	Of 7 US licence records, 5 are valid and 2 are cancelled.	hit	site=UsTxGNN;ms=Marketed;total=10;valid=6;cancelled=4
+M3V	en-us	Of the licence records compiled for this report, 8 are valid and 1 is cancelled.	hit	site=UsTxGNN;ms=Marketed;total=292;valid=72;cancelled=220
+M3V	en-us	Five of the six licences are currently valid, and one is cancelled.	hit	site=UsTxGNN;ms=Marketed;total=15;valid=6;cancelled=9
+M3V	en-us	The drug is marketed in the US, with 6 of 6 licenses valid.	hit	site=UsTxGNN;ms=Marketed;total=17;valid=12;cancelled=5
+M3V	en-us	- Clarification of the regulatory and supply situation (6 of 6 US licenses are valid)	hit	site=UsTxGNN;ms=Marketed;total=17;valid=12;cancelled=5
+M3V	en-us	All 16 US licenses are recorded as valid, and the records contain no approved indication text.	hit	site=UsTxGNN;ms=Marketed;total=52;valid=35;cancelled=17
+M3V	en-us	The local data hold 6 licence records in total, and the list above shows 5 of them.	hit	site=UsTxGNN;ms=Marketed;total=15;valid=5;cancelled=10
+M3V	en-us	All seven licenses are oral tablets.	hit	site=UsTxGNN;ms=Marketed;total=39;valid=26;cancelled=13
+M3V	en	The drug is marketed in this country: 9 of 9 licences are valid.	hit	site=EuTxGNN;ms=Marketed;total=11;valid=9;cancelled=2
+M3V	en	The list shows 5 of 18 valid licences.	hit	site=SgTxGNN;ms=Marketed;total=17;valid=17;cancelled=0
+M3V	en	- The SAHPRA package insert (warnings, contraindications, approved indications) for all three registrations	hit	site=ZaTxGNN;ms=Marketed;total=46;valid=35;cancelled=11
+M3V	en-us	In total, 21 licences are valid and 27 are cancelled.	miss	site=UsTxGNN;ms=Marketed;total=48;valid=21;cancelled=27
+M3V	en-us	Of 34 FDA applications, 20 are active and 14 are cancelled.	miss	site=UsTxGNN;ms=Marketed;total=34;valid=20;cancelled=14
+M3V	en-us	Of the 5 licences listed, 3 are valid and 2 are cancelled.	miss	site=UsTxGNN;ms=Marketed;total=17;valid=6;cancelled=11
+M3V	en-us	Showing 5 of 337 entries (FDA applications first, active before discontinued; NDC listings without an FDA application last).	miss	site=UsTxGNN;ms=Marketed;total=70;valid=6;cancelled=64;listed=267
+M3V	en-us	The interaction screen returned 100 entries in total; only a sample is shown here.	miss	site=UsTxGNN;ms=Marketed;total=11;valid=2;cancelled=9
+M3V	en-us	A total of 100 interactions were recorded.	miss	site=UsTxGNN;ms=Marketed;total=11;valid=11;cancelled=0
+M3V	en-us	All 20 entries reviewed are rated Moderate.	miss	site=UsTxGNN;ms=Marketed;total=2;valid=2;cancelled=0
+M3V	en-us	Of 15 recorded licences, 14 are valid and 1 is cancelled.	miss	site=UsTxGNN;ms=Marketed;valid=14;cancelled=1;partial=1
+M3V	en-us	At least 8 of the 12 licences are valid.	miss	site=UsTxGNN;ms=Marketed;total=20;valid=14;cancelled=6
+M3V	en-us	The drug is marketed in the US, with 6 of 6 licenses valid.	miss	site=DETxGNN;ms=Marketed;total=17;valid=12;cancelled=5
+M3V	en	The drug is marketed in this country, and all 7 of 7 licences are valid; none is cancelled.	miss	site=SgTxGNN;ms=Marketed;total=7;valid=7;cancelled=0
+M3V	en	> **Action required**: Verify MHRA product licence data for Alendronic acid via the MHRA Product Licence Search and re-run the data ingestion pipeline.	hit	site=UkTxGNN;ms=Marketed;total=16;valid=16;cancelled=0;note=2026-11-06 清單站「去抓許可資料、重跑擷取」（LIST_PIPE）
+M3V	en	- **[Critical]** Re-run the MHRA product licence ingestion pipeline and confirm PL records are correctly retrieved	hit	site=UkTxGNN;ms=Marketed;total=16;valid=16;cancelled=0
+M3V	en	MHRA licence data should be retrieved and loaded before any regulatory assessment is undertaken.	hit	site=UkTxGNN;ms=Marketed;total=34;valid=34;cancelled=0
+M3V	en	- **Verify UK market status:** Cross-check against the MHRA Product Licence register to confirm whether existing authorisations were missed in the current data pull	hit	site=UkTxGNN;ms=Marketed;total=5;valid=5;cancelled=0
+M3V	en	However, the trials are small and old, no trials are registered, and the UK licence record is incomplete.	hit	site=UkTxGNN;ms=Marketed;total=5;valid=5;cancelled=0
+M3V	en	The licence-level records and the market-level summary compiled for this report are not fully consistent, so current availability should be confirmed directly with Medsafe before any planning.	hit	site=NZTxGNN;ms=Marketed;total=3;valid=3;cancelled=0
+M3V	en	The original approved indications field is also empty, which may indicate that a regulatory data pull (e.g., from FDA Philippines or equivalent) was not completed before this pack was assembled.	hit	site=PhTxGNN;ms=Marketed;total=2;valid=2;cancelled=0
+M3V	en	- **Re-run TxGNN prediction pipeline** — Once the DrugBank ID and regulatory data are resolved, re-run the TxGNN model to generate repurposing candidates.	miss	site=UkTxGNN;ms=Marketed;total=48;valid=48;cancelled=0
+M3V	en	- **Retrieve SmPC safety data** — Download and parse the current MHRA SmPC to populate key warnings, contraindications, and drug interactions.	miss	site=UkTxGNN;ms=Marketed;total=48;valid=48;cancelled=0
+M3V	en	- Retrieve the Medsafe package insert to complete warnings, contraindications, and original indication information (a blocking gap for safety screening)	miss	site=NZTxGNN;ms=Marketed;total=2;valid=2;cancelled=0
+M3V	en	The identifier appears to be a BNF-style code rather than an MHRA PL number, so the authorisation details should be checked against MHRA records.	miss	site=UkTxGNN;ms=Marketed;total=3;valid=3;cancelled=0
+M3V	en	- Confirm Philippines FDA registration status via the online product verification portal; if unregistered, assess importation or registration pathway.	miss	site=PhTxGNN;ms=Marketed;total=1;valid=1;cancelled=0
+M3V	en	MHRA licence data should be retrieved and loaded before any regulatory assessment is undertaken.	miss	site=CaTxGNN;ms=Marketed;total=34;valid=34;cancelled=0
+M3V	en	The drug is marketed in this country, with 3 valid licences of 3.	hit	site=EuTxGNN;ms=Marketed;total=8;valid=8;cancelled=0;note=2026-11-06「N valid … of N」總數說法
+M3V	en-us	In addition, the drug is marketed in the US with 11 valid licenses out of 11, and the safety data are incomplete.	hit	site=UsTxGNN;ms=Marketed;total=20;valid=15;cancelled=5
+M3V	en	The drug is marketed in this country, with 8 valid licences out of 8.	miss	site=EuTxGNN;ms=Marketed;total=8;valid=8;cancelled=0
+M3V	en	The authorization for Vaborem is valid (1 valid licence out of 1) and the drug is marketed.	miss	site=EuTxGNN;ms=Marketed;total=1;valid=1;cancelled=0
+M3V	en-us	The drug is marketed in the US, with 11 valid authorizations.	hit	site=UsTxGNN;ms=Marketed;total=116;valid=68;cancelled=48;note=2026-11-06 有效張數說少了（VALIDX，amlodipine）
+M3V	en-us	- Confirm the current US regulatory status, since the drug is marketed with 11 valid licenses.	hit	site=UsTxGNN;ms=Marketed;total=46;valid=31;cancelled=15
+M3V	en-us	Nine valid US licenses are on record, and the drug is marketed.	hit	site=UsTxGNN;ms=Marketed;total=26;valid=18;cancelled=8
+M3V	en-us	In the US, 13 authorizations are currently valid and the drug is marketed.	hit	site=UsTxGNN;ms=Marketed;total=30;valid=20;cancelled=10
+M3V	en-us	Twelve valid single-ingredient ANDA records were listed, and the list may be partial.	hit	site=UsTxGNN;ms=Marketed;total=80;valid=38;cancelled=42
+M3V	en-us	- Clarification of the licensing status (8 valid US licenses) and route compatibility assessment	hit	site=UsTxGNN;ms=Marketed;total=20;valid=12;cancelled=8
+M3V	en-us	The drug is marketed in the US, with 68 valid authorizations.	miss	site=UsTxGNN;ms=Marketed;total=116;valid=68;cancelled=48
+M3V	en-us	The drug is marketed in the US, with at least 11 valid authorizations.	miss	site=UsTxGNN;ms=Marketed;total=116;valid=68;cancelled=48
+M3V	en-us	The drug is marketed in the US, with 11 valid authorizations.	miss	site=UsTxGNN;ms=Marketed;valid=11;cancelled=0;partial=1
+M3V	en-us	All three listed authorizations are valid, and no approved indication text is recorded for them.	miss	site=UsTxGNN;ms=Marketed;total=7;valid=7;cancelled=0
+M3V	en	Two further licences are valid: MINIRIN Nasal Spray 10 mcg/dose (SIN03760P, spray) and MINIRIN Injection 4 mcg/ml (SIN04482P, injection).	miss	site=SgTxGNN;ms=Marketed;total=7;valid=7;cancelled=0
+M3V	en-us	Of the 5 licences listed, 3 are valid and 2 are cancelled.	miss	site=UsTxGNN;ms=Marketed;total=17;valid=6;cancelled=11
+M3V	en	All three licences are currently valid single-ingredient products.	miss	site=CaTxGNN;ms=Marketed;total=3;valid=2;not_marketed=1;cancelled=0
+M3V	en-us	The drug is marketed in the US, with 11 valid authorizations.	miss	site=DETxGNN;ms=Marketed;total=116;valid=68;cancelled=48
+M3V	en-us	The interaction screen returned 12 valid records.	miss	site=UsTxGNN;ms=Marketed;total=116;valid=68;cancelled=48
+M3V	en	All five registrations are valid single-ingredient products.	hit	site=SgTxGNN;ms=Marketed;total=5;valid=5;cancelled=0;vs=0;st=0;note=2026-11-06 單方／複方（COMBO_X，Sg articaine）
+M3V	en	Both licences are valid, single-ingredient oral products from Kowa Company, Ltd.	hit	site=SgTxGNN;ms=Marketed;total=4;valid=4;cancelled=0;vs=2;st=2
+M3V	en	All are combination products and none is cancelled.	hit	site=SgTxGNN;ms=Marketed;total=23;valid=23;cancelled=0;vs=5;st=5
+M3V	en	Ethinylestradiol is widely used, and it is registered in South Africa in 20 single-ingredient products.	hit	site=ZaTxGNN;ms=Marketed;total=78;valid=65;cancelled=13;vs=2;st=2
+M3V	en	All products listed are single-ingredient miconazole.	hit	site=NZTxGNN;ms=Marketed;total=6;valid=6;cancelled=0;vs=5;st=5
+M3V	en	All five registrations are valid products.	miss	site=SgTxGNN;ms=Marketed;total=5;valid=5;cancelled=0;vs=0;st=0
+M3V	en	All 18 licences are valid single-ingredient registrations, with none cancelled.	miss	site=SgTxGNN;ms=Marketed;total=18;valid=18;cancelled=0;vs=18;st=18
+M3V	en	Five single-ingredient licences are valid; the rest are combinations.	miss	site=SgTxGNN;ms=Marketed;total=18;valid=18;cancelled=0;vs=5;st=5
+M3V	en	- Approved indication text for each registration, to clarify which products are single-agent and which are combinations.	miss	site=ZaTxGNN;ms=Marketed;total=70;valid=70;cancelled=0;vs=2;st=2
+M3V	en	Butalbital is marketed only in fixed-dose combination products.	miss	site=CaTxGNN;ms=Marketed;total=11;valid=11;cancelled=0;vs=0;st=0;note=2026-11-06 Ca reviewer 修正後 FIORINAL 等都是複方
+M3V	en	All five registrations are valid single-ingredient products.	miss	site=SgTxGNN;ms=Marketed;valid=5;cancelled=0;vs=0;st=0;partial=1
+M3V	en	Pemetrexed in combination with cisplatin is the standard regimen, and all products are single-agent vials.	miss	site=SgTxGNN;ms=Marketed;total=5;valid=5;cancelled=0;vs=3;st=3
+M3V	en	Butalbital is marketed only in fixed-dose combination products.	hit	site=CaTxGNN;ms=Marketed;total=11;valid=11;cancelled=0;vs=3;st=3
+M3V	en	Twelve valid single-ingredient licenses exist in total; the five above are shown.	hit	site=CaTxGNN;ms=Marketed;total=12;valid=12;cancelled=0;vs=0;st=0
+M3V	en	Eight valid single-ingredient authorizations are listed.	miss	site=CaTxGNN;ms=Marketed;total=8;valid=6;not_marketed=2;cancelled=0;vs=6;st=8
+M3V	en-us	All are single-ingredient products.	hit	site=UsTxGNN;ms=Marketed;total=155;valid=93;cancelled=62;vs=76;st=155
+M3V	en	All 11 registrations are valid single-ingredient licences.	hit	site=InTxGNN;ms=Marketed;total=11;valid=11;cancelled=0;vs=0;st=0
+M3V	en	Both entries are valid single-ingredient products.	hit	site=AuTxGNN;ms=Marketed;total=2;valid=2;cancelled=0;vs=1;st=1
+M3V	en	All 11 registrations are valid licences.	miss	site=InTxGNN;ms=Marketed;total=11;valid=11;cancelled=0;vs=0;st=0

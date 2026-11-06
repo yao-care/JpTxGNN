@@ -33,6 +33,7 @@ def _load(name, path):
 kf = _load("kf", BASE / ".claude/known_use_filter.py")
 dm = _load("dm", BASE / ".claude/drug_meta_description.py")
 mv2 = _load("mv2", BASE / ".claude/rewrite_market_v2_20261021.py")
+mt = _load("mt", BASE / ".claude/md_tables.py")  # 表格前後補空行、格子清理（2026-11-03）
 COUNTRY = {"ARTxGNN": "Argentina", "AuTxGNN": "Australia", "BrTxGNN": "Brazil", "CHTxGNN": "Switzerland", "COTxGNN": "Colombia",
            "CaTxGNN": "Canada", "DETxGNN": "Germany", "DkTxGNN": "Denmark", "ESTxGNN": "Spain", "EuTxGNN": "the European Union",
            "FITxGNN": "Finland", "FRTxGNN": "France", "HkTxGNN": "Hong Kong", "ITTxGNN": "Italy", "InTxGNN": "India",
@@ -61,6 +62,7 @@ Output exactly (keep HTML comments; translate headings into {lang}):
 <2–3 sentences: the model's candidates for this drug are all known uses, so there is currently no new predicted indication.>
 
 ## <"Quick overview">
+
 | <"Item"> | <"Content"> |
 |------|------|
 | <"New predicted indications"> | <"None (all traceable model candidates are known uses)"> |
@@ -81,6 +83,7 @@ Output exactly (keep HTML comments; translate headings into {lang}):
 <2–3 sentences: the TxGNN model has no candidate with a score of 0.99 or higher for this drug, so there is currently no new predicted indication; the drug's recorded uses are listed below.>
 
 ## <"Quick overview">
+
 | <"Item"> | <"Content"> |
 |------|------|
 | <"New predicted indications"> | <"None (no model candidate scored 0.99 or higher)"> |
@@ -92,18 +95,24 @@ Output exactly (keep HTML comments; translate headings into {lang}):
 
 TABLES = """
 ### <"Approved (supported by a licence or label)">
+
 | <"Indication"> | <"Source"> |
 |------|------|
 <rows for zone "approved": disease name | source (add "approved indication: <matched_term>" when matched_term differs from the English name)>
+
 ### <"Related to an approved indication (same disease category)">
+
 | <"Indication"> | <"Approved category"> |
 |------|------|
 <rows for zone "related": disease name | matched_term>
+
 ### <"Relations recorded in the knowledge graph (no approval found)">
+
 | <"Indication"> |
 |------|
 <rows for zone "kg">
-(If a group has no rows, keep its heading and write one row saying "none" in {lang}.)"""
+
+(If a group has no rows, keep its heading and write one row saying "none" in {lang}. Keep a blank line before and after every table.)"""
 
 SYSTEM = """You write one page of a drug-repurposing website for pharmacists, in {lang}.
 
@@ -156,6 +165,10 @@ def classify(site, bundle, x):
     """一個病名 → (區, 依據)。核准＝本國／他國許可證或人工補充仿單的條文本身或其子型；related＝只是同一疾病類別；kg＝KG 真有該邊（或其子型）。
     都對不上就回 None（不列，不捏造來源）。"""
     kg, local_all, glob_all, ext, extra = _sources_of(site, bundle)
+    d = bundle.get("drug") or {}
+    ov = kf.overlap_entry(BASE / site, d.get("drugbank_id") or "", d.get("inn") or d.get("name") or "", x)
+    if ov:  # 2026-11-03：盤點排除表（known_use_overlap_exclude.json），附官方仿單出處
+        return "approved:curated", ov["approved_use"]
     for zone, terms in (("approved:local", _plain(local_all)), ("approved:curated", _plain(ext)), ("approved:other", _plain(glob_all) - _plain(local_all))):
         hit = next((k for k in sorted(terms, key=len) if kf._n(x) == k or kf.is_known_variant(x, {k})), None)
         if hit:
@@ -249,7 +262,8 @@ def license_section(site, page, bundle, fa, heading):
                 name = r.get("brand_name_en") or r.get("product_name") or r.get("product") or r.get("brand_name_zh") or ""
                 form = r.get("dosage_form") or ""
                 st = (fa.get("licenses") or {}).get(lid, "valid")
-                rows.append(f"| {lid} | {str(name).replace('|', '/')[:60]} | {str(form).replace('|', '/')[:40]} | {word.get(st, sv)} |")
+                # 格子用 mt.cell：劑型等欄位帶換行（Kr「[다회용] …\n[1회용」）會把表格從中間拆斷（2026-11-03）
+                rows.append(f"| {mt.cell(lid)} | {mt.cell(name, 60)} | {mt.cell(form, 40)} | {word.get(st, sv)} |")
     out = [heading, "", f"| {h1} | {h2} | {h3} | {h4} |", "|------|------|------|------|"] + rows[:30]
     if fa.get("partial") or len(rows) > 30:
         out += ["", note]
@@ -266,7 +280,7 @@ def facts_for(site, page):
     elif fa.get("market_status") == "Cancelled only":
         mk = f"Cancelled only: {fa.get('total')} licence(s) on record, none valid"
     elif fa.get("market_status") == "Approved, not marketed":  # 與 check_drug_page.NOT_MKT 同一份字彙
-        mk = _ck().NOT_MKT.get(lang, _ck().NOT_MKT["en"]).format(n=fa.get("total"))
+        mk = _ck().not_marketed_text(site, lang, fa)
     elif str(fa.get("market_status", "")).startswith("Unknown"):
         mk = "Unknown (the data source does not record cancellation status)"
     else:
@@ -343,7 +357,7 @@ def gate(site, out, facts):
 
 KEEP_H = re.compile(r"^## .*(safety|sicherheit|sécurité|securite|sicurezza|seguridad|segurança|turvallisuus|sikkerhet|säkerhet|sikkerhed|veiligheid|"
                     r"安全|السلامة|keselamatan|ความปลอดภัย|안전|cytotox|zytotox|citotox|sytotoks|cytotoks|細胞毒性|السمية الخلوية|sitotoksik|ความเป็นพิษ|세포독성)", re.I)
-MARKET_H = re.compile(r"^## .*(market|markt|marché|marche|mercado|mercato|markkina|marknad|marked|市販|上市|販売|시판|السوق|การวางจำหน่าย|pasaran)", re.I)
+MARKET_H = re.compile(r"^## .*(market|markt|marché|marche|mercado|comercializa|mercato|markkina|marknad|marked|市販|上市|販売|시판|السوق|การวางจำหน่าย|pasaran)", re.I)
 
 
 def old_notes(site, page):
@@ -368,6 +382,27 @@ def kept_sections(site, page, old_pred_names):
     return "\n".join(out).strip()
 
 
+_MARKET_H_CACHE = {}
+
+
+def site_market_heading(site, lang):
+    """舊筆記沒有市場段標題時用的預設標題：取該站自己藥物頁裡最常見的市場段標題，
+    沿用各站既有寫法（2026-11-03 起；原本固定退回英文 "Market information"，
+    會在 Br／Fi／My／Se 等站留下英文標題）。該站完全沒有時才退回舊預設。"""
+    if site not in _MARKET_H_CACHE:
+        from collections import Counter
+        cnt = Counter()
+        for f in (BASE / site / "docs/_drugs").glob("*.md"):
+            for line in f.read_text(encoding="utf-8", errors="replace").split("\n"):
+                s = line.strip()
+                if MARKET_H.match(s) and s != "## Market information":
+                    cnt[s] += 1
+        top = cnt.most_common(1)
+        # 至少 3 頁共用才算站上的標準寫法，避免挑到「<藥名>: …」這類單頁標題
+        _MARKET_H_CACHE[site] = top[0][0] if top and top[0][1] >= 3 else None
+    return _MARKET_H_CACHE[site] or "## " + {"Japanese": "国内販売情報"}.get(lang, "Market information")
+
+
 def run(site, page, dry=False):
     facts, (b, fa) = facts_for(site, page)
     lang = LANGNAME[dm.site_lang(BASE / site)]
@@ -378,11 +413,14 @@ def run(site, page, dry=False):
     out = call(sysmsg, "Write the page now.")
     errs = gate(site, out, facts)
     old = old_notes(site, page)
-    mh = next((l for l in old.split("\n") if MARKET_H.match(l)), "## " + {"Japanese": "国内販売情報"}.get(lang, "Market information"))
+    mh = next((l for l in old.split("\n") if MARKET_H.match(l)), None) or site_market_heading(site, lang)
     lic = license_section(site, page, b, fa, mh)
     old_preds = [p["disease_name"] for p in b["drug"].get("predicted_indications", [])]
     keep = kept_sections(site, page, old_preds)
     out = out.rstrip() + ("\n\n" + lic if lic else "") + ("\n\n" + keep if keep else "")
+    # 模型常把表格緊貼在標題下（2026-10-22 樣板本身就沒有空行），kramdown 會把整張表排成純文字：
+    # 寫 notes 前一律補表格前後空行（2026-11-03；只補空行，不改字）
+    out = mt.fix_table_spacing(out)
     notes = BASE / site / "data/notes" / page / "drug_pharmacist_notes.md"
     if not errs and not dry:
         if notes.parent.exists() and not (BK / site / page).exists():

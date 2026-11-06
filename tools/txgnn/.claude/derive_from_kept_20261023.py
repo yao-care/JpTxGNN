@@ -159,7 +159,9 @@ def main(argv):
                             e2["valueCode"] = lv.get(k, "L5")
                         elif "score" in key:
                             e2["valueDecimal"] = round(p["txgnn_score"], 4)
-                        elif key == "source":
+                        elif key == "source" or (key.endswith("-source") and "Knowledge Graph" in str(e.get("valueString", ""))):
+                            # Ph 模板是 prediction-source＝「TxGNN Knowledge Graph」（checker P7 禁止），原本整個照抄（2026-11-03）；
+                            # 其他站的 prediction-source（「TxGNN KG + DL」等）照舊沿用模板
                             e2[next((x for x in e if x.startswith("value")), "valueString")] = "TxGNN deep learning model"
                         else:
                             e2 = copy.deepcopy(e)

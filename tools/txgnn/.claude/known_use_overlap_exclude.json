@@ -1,0 +1,2805 @@
+{
+ "_doc": "「預測的其實就是已核准用途」排除表（2026-11-03 用戶決定）。來源：approved_overlap 盤點（30 站 docs/_drugs）判定＝確定重疊的 1,742 列，合併成藥－預測疾病組合。known_use_filter.filter_predictions 讀這份：藥（drugbank_id，沒有就用 drug＝證據包 inn 小寫）＋預測病名（正規化後完全相同）就排除，不做子型／類別延伸。每筆都對 30 站生效（2026-11-03 用戶決定改回既有原則：任一國核准就算已知用途）。approved_countries＝只在部分國家核准的組合，記錄核准國家（approved_in_sites＝核准國對應的站；not_approved_in_sites＝未核准國對應的站）與理由，只當資訊，不限制生效範圍；沒有 approved_countries＝各主要市場都有核准或未逐國區分。source＝2026-11-03 以程式抓官方仿單原文比對到的出處（DailyMed SPL 適應症段、EMA EPAR、emc SmPC 4.1、AEMPS CIMA 4.1、JAPIC 添付文書），quote 是原文片段；source_pending＝還沒找到可查證的現行官方仿單（多為已下市或僅部分國家），排除照樣生效，出處待補。改這份之後依 .claude/apply_overlap_exclude_20261103.py 開頭的步驟套到頁面。",
+ "_source_pending": "待補出處：22 筆 source_pending: true（多為已下市藥或僅部分國家核准，找不到可查證的現行官方仿單）。排除照樣生效；補到出處後填 source、把 source_pending 改 false。查過的來源記在 source_tried。",
+ "entries": [
+  {
+   "drug": "acetylsalicylic acid",
+   "drugbank_id": "DB00945",
+   "predicted": "thrombotic disease",
+   "approved_use": "prevention of thrombotic events (MI, stroke, TIA)",
+   "relation": "上位概念（已核准者為其下位）",
+   "relation_note_en": "supertype",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4c2a1403-3862-1efd-0a91-444989222b37",
+    "document": "DURLAZA (ACETYLSALICYLIC ACID) CAPSULE, EXTENDED RELEASE [NEW HAVEN PHARMACEUTICALS, INC.]",
+    "quote": "SECTION\"/> 1 INDICATIONS AND USAGE DURLAZA is indicated to: Reduce the risk of death and myocardial infarction (MI) in patients with chronic coronary artery disease, such as patients with a history of",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 16
+  },
+  {
+   "drug": "albendazole",
+   "drugbank_id": "DB00518",
+   "predicted": "alveolar echinococcosis",
+   "approved_use": "EU/UK SmPC: cystic and alveolar echinococcosis",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": {
+    "kind": "AEMPS ficha técnica (CIMA)",
+    "url": "https://cima.aemps.es/cima/dochtml/ft/60407/FT_60407.html",
+    "document": "CIMA ESKAZOLE 400 MG COMPRIMIDOS (60407)",
+    "quote": "pués de un drenaje percutáneo de los quistes para diagnóstico o por razones terapéuticas. Equinococosis alveolar (causada por Echinococcus multilocularis) Aunque su eficacia no ha sido demostrada comple",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 19
+  },
+  {
+   "drug": "albendazole",
+   "drugbank_id": "DB00518",
+   "predicted": "Cestode infectious disease",
+   "approved_use": "neurocysticercosis (Taenia solium), cystic hydatid disease (Echinococcus)",
+   "relation": "上位概念（已核准者為其下位）",
+   "relation_note_en": "supertype",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1977a867-0ee1-44c0-8da3-fe59c48699f5",
+    "document": "ALBENZA (ALBENDAZOLE) TABLET, FILM COATED [AMNEAL PHARMACEUTICALS LLC]",
+    "quote": "CATIONS AND USAGE ALBENZA is an anthelmintic drug indicated for: Treatment of parenchymal neurocysticercosis due to active lesions caused by larval forms of the pork tapeworm, Taenia solium . ( 1.1",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 19
+  },
+  {
+   "drug": "alprazolam",
+   "drugbank_id": "DB00404",
+   "predicted": "agoraphobia",
+   "approved_use": "panic disorder with or without agoraphobia",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=bb5cf72e-3a41-41a8-9a38-80f974eca33f",
+    "document": "XANAX (ALPRAZOLAM) TABLET [VIATRIS SPECIALTY LLC]",
+    "quote": "zed anxiety disorder (GAD) in adults. • treatment of panic disorder (PD), with or without agoraphobia in adults. XANAX is a benzodiazepine indicated for the: • Acute treatment of generalized",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 22
+  },
+  {
+   "drug": "alprostadil",
+   "drugbank_id": "DB00770",
+   "predicted": "tricuspid valve agenesis",
+   "approved_use": "maintain ductus arteriosus patency in neonates with ductal-dependent CHD (incl. tricuspid atresia)",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=930f8c02-46a8-4cff-a484-660468ab23c3",
+    "document": "PROSTIN VR PEDIATRIC (ALPROSTADIL) INJECTION, SOLUTION [PHARMACIA & UPJOHN COMPANY LLC]",
+    "quote": "or survival. Such congenital heart defects include pulmonary atresia, pulmonary stenosis, tricuspid atresia, tetralogy of Fallot, interruption of the aortic arch, coarctation of the aorta, or trans",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 19
+  },
+  {
+   "drug": "amiodarone",
+   "drugbank_id": "DB01118",
+   "predicted": "ventricular tachycardia",
+   "approved_use": "life-threatening ventricular arrhythmias incl. recurrent VT",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=dcadce9c-d0a0-4235-8ff8-dd93c09e03b3",
+    "document": "PACERONE (AMIODARONE HYDROCHLORIDE) TABLET [BRYANT RANCH PREPACK]",
+    "quote": "dicated for: Recurrent ventricular fibrillation. ( 1 ) Recurrent hemodynamically unstable ventricular tachycardia. ( 1 ) <code code=\"",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 20
+  },
+  {
+   "drug": "anakinra",
+   "drugbank_id": "DB00026",
+   "predicted": "autosomal recessive familial Mediterranean fever",
+   "approved_use": "EU SmPC: familial Mediterranean fever (also CAPS, Still's, RA)",
+   "relation": "同一疾病",
+   "relation_note_en": "same (EU)",
+   "approved_countries": {
+    "approved_in_sites": [
+     "EuTxGNN",
+     "DETxGNN",
+     "DkTxGNN",
+     "ESTxGNN",
+     "FITxGNN",
+     "FRTxGNN",
+     "ITTxGNN",
+     "NlTxGNN",
+     "SETxGNN",
+     "NOTxGNN"
+    ],
+    "why": "FMF 只在歐盟（EMA Kineret）核准"
+   },
+   "source": {
+    "kind": "EMA EPAR",
+    "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/kineret",
+    "document": "EMA EPAR kineret",
+    "quote": "in and tiredness. Severe disabilities such as deafness and loss of vision may also occur; familial Mediterranean fever, another inherited periodic fever syndrome, which leads to repeated attacks of fever, inf",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 12
+  },
+  {
+   "drug": "aripiprazole",
+   "drugbank_id": "DB01238",
+   "predicted": "major affective disorder",
+   "approved_use": "bipolar I disorder; adjunct in major depressive disorder",
+   "relation": "上位概念（已核准者為其下位）",
+   "relation_note_en": "supertype",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=da4c07fd-1130-4341-bb44-63acfa4162be",
+    "document": "ABILIFY ASIMTUFII (ARIPIPRAZOLE) INJECTION, SUSPENSION, EXTENDED RELEASE [OTSUKA AMERICA PHARMACEUTICAL, INC]",
+    "quote": "ed: for the treatment of schizophrenia in adults for maintenance monotherapy treatment of bipolar I disorder in adults ABILIFY ASIMTUFII is an atypical antipsychotic indicated: for the trea",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 26
+  },
+  {
+   "drug": "ascorbic acid",
+   "drugbank_id": "DB00126",
+   "predicted": "vitamin deficiency disorder",
+   "approved_use": "vitamin C deficiency (scurvy)",
+   "relation": "上位概念（已核准者為其下位）",
+   "relation_note_en": "supertype",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f0b683f8-189b-4a3f-9ffe-f91df6d798b6",
+    "document": "ASCORBIC ACID INJECTION [ZYDUS PHARMACEUTICALS USA INC.]",
+    "quote": "USAGE Ascorbic acid injection is indicated for the short term (up to 1 week) treatment of scurvy in adult and pediatric patients age 5 months and older for whom oral administration is no",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 17
+  },
+  {
+   "drug": "asenapine",
+   "drugbank_id": "DB06216",
+   "predicted": "major affective disorder",
+   "approved_use": "bipolar I mania",
+   "relation": "上位概念（已核准者為其下位）",
+   "relation_note_en": "supertype",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5429f134-839f-4ffc-9944-55f51238def8",
+    "document": "SAPHRIS (ASENAPINE MALEATE) TABLET [ALLERGAN, INC.]",
+    "quote": "D USAGE SAPHRIS is indicated for: Schizophrenia in adults [see Clinical Studies ( 14.1 )] Bipolar I disorder [see Clinical Studies ( 14.2 )] • Acute monotherapy of manic or mixed episodes,",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 11
+  },
+  {
+   "drug": "bentazepam",
+   "drugbank_id": null,
+   "predicted": "anxiety",
+   "approved_use": "anxiety",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": {
+    "kind": "AEMPS ficha técnica (CIMA)",
+    "url": "https://cima.aemps.es/cima/dochtml/ft/55464/FT_55464.html",
+    "document": "CIMA TIADIPONA (55464)",
+    "quote": "Estados de ansiedad asociados o no a trastornos funcionales u orgánicos, incluyendo alteraciones del comporta",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 1
+  },
+  {
+   "drug": "betamethasone",
+   "drugbank_id": "DB00443",
+   "predicted": "alopecia areata",
+   "approved_use": "intralesional injection (e.g., Celestone Soluspan): alopecia areata",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=95a19c2f-c329-4ce1-a0a7-174814aac3ad",
+    "document": "CELESTONE SOLUSPAN (BETAMETHASONE ACETATE AND BETAMETHASONE SODIUM PHOSPHATE) INJECTION, SUSPENSION [SPORTPHARM LLC]",
+    "quote": "intralesional administration of CELESTONE SOLUSPAN Injectable Suspension is indicated for alopecia areata; discoid lupus erythematosus; keloids; localized hypertrophic, infiltrated, inflammatory",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 21
+  },
+  {
+   "drug": "bexarotene",
+   "drugbank_id": "DB00307",
+   "predicted": "Sezary syndrome",
+   "approved_use": "cutaneous T-cell lymphoma",
+   "relation": "下位／亞型",
+   "relation_note_en": "subtype",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1d056725-0576-4338-8089-6336e768ccdc",
+    "document": "TARGRETIN (BEXAROTENE) CAPSULE, LIQUID FILLED [BAUSCH HEALTH US, LLC]",
+    "quote": "IN ® (bexarotene) Capsules are indicated for the treatment of cutaneous manifestations of cutaneous T-cell lymphoma in patients who are refractory to at least one prior systemic therapy. TARGRETIN (bexarot",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 11
+  },
+  {
+   "drug": "bleomycin",
+   "drugbank_id": "DB00290",
+   "predicted": "reticulum cell sarcoma",
+   "approved_use": "lymphomas incl. reticulum cell sarcoma (US label wording)",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=640602f9-a7df-46f0-a9b1-19c471008bee",
+    "document": "BLEOMYCIN (BLEOMYCIN SULFATE) POWDER, FOR SOLUTION [MEITHEAL PHARMACEUTICALS INC.]",
+    "quote": "n patients with previously irradiated head and neck cancer. Lymphomas: Hodgkin's disease, non-Hodgkin's lymphoma. Testicular Carcinoma: Embryonal cell, choriocarcinoma, and teratocarcinoma. B",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "note": "現行美國仿單寫 non-Hodgkin's lymphoma；reticulum cell sarcoma 是其舊稱（屬 NHL）",
+   "inventory_rows": 16
+  },
+  {
+   "drug": "brotizolam",
+   "drugbank_id": null,
+   "predicted": "insomnia (disease)",
+   "approved_use": "insomnia",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": {
+    "kind": "AEMPS ficha técnica (CIMA)",
+    "url": "https://cima.aemps.es/cima/dochtml/ft/58229/FT_58229.html",
+    "document": "CIMA SINTONAL 0,25 mg comprimidos (58229)",
+    "quote": "Insomnio que requiere intervención farmacológica.",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 1
+  },
+  {
+   "drug": "butylscopolamine",
+   "drugbank_id": null,
+   "predicted": "irritable bowel syndrome",
+   "approved_use": "GI smooth-muscle spasm incl. irritable bowel syndrome (UK OTC Buscopan IBS)",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "approved_countries": {
+    "approved_in_sites": [
+     "UkTxGNN"
+    ],
+    "why": "IBS 只見於英國 OTC Buscopan IBS Relief"
+   },
+   "source": {
+    "kind": "UK SmPC (emc)",
+    "url": "https://www.medicines.org.uk/emc/product/3884/smpc",
+    "document": "Buscopan IBS Relief 10 mg Coated Tablets - Summary of Product Characteristics (SmPC) - (emc) | 3884",
+    "quote": "cated for the relief of gastro-intestinal tract spasm associated with medically confirmed Irritable Bowel Syndrome.",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 1
+  },
+  {
+   "drug": "calcifediol",
+   "drugbank_id": "DB00146",
+   "predicted": "obsolete vitamin D deficiency",
+   "approved_use": "vitamin D deficiency",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": {
+    "kind": "AEMPS ficha técnica (CIMA)",
+    "url": "https://cima.aemps.es/cima/dochtml/ft/53684/FT_53684.html",
+    "document": "CIMA HIDROFEROL CHOQUE 3 mg SOLUCION ORAL (53684)",
+    "quote": "Tratamiento de la deficiencia de vitamina D (niveles séricos de 25(OH)D < 25 nmol/l), en adultos, en aquellos trastornos en los que s",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 10
+  },
+  {
+   "drug": "cefoxitin",
+   "drugbank_id": "DB01331",
+   "predicted": "urinary tract infection (disease)",
+   "approved_use": "urinary tract infections",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6c7e9485-1ede-411c-8c46-911439332864",
+    "document": "CEFOXITIN AND DEXTROSE (CEFOXITIN SODIUM) INJECTION, SOLUTION [B. BRAUN MEDICAL INC.]",
+    "quote": "le isolates of the designated bacteria ( 1 ): Lower respiratory tract infections ( 1.1 ); Urinary tract infections ( 1.2 ); Intra-abdominal infections ( 1.3 ); Gynecological infections ( 1.4 ); Septicemia",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 8
+  },
+  {
+   "drug": "ceftazidime",
+   "drugbank_id": "DB00438",
+   "predicted": "urinary tract infection (disease)",
+   "approved_use": "urinary tract infections (incl. complicated UTI)",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=40d48c5d-650e-461b-a67b-7e65772d1b92",
+    "document": "TAZICEF (CEFTAZIDIME) INJECTION, POWDER, FOR SOLUTION [HOSPIRA, INC.]",
+    "quote": "usceptible strains); and Streptococcus pyogenes (group A beta-hemolytic streptococci). 3. Urinary Tract Infections, both complicated and uncomplicated, caused by Pseudomonas aeruginosa ; Enterobacter spp.",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 12
+  },
+  {
+   "drug": "ceftriaxone",
+   "drugbank_id": "DB01212",
+   "predicted": "infectious otitis media",
+   "approved_use": "acute bacterial otitis media",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4c5c2d3f-5038-41a1-a2fe-4dcd048dbac1",
+    "document": "CEFTRIAXONE (CEFTRIAXONE SODIUM) INJECTION, SOLUTION [BAXTER HEALTHCARE COMPANY]",
+    "quote": "a coli, Enterobacter aerogenes, Proteus mirabilis or Serratia marcescens. ACUTE BACTERIAL OTITIS MEDIA caused by Streptococcus pneumoniae, Haemophilus influenzae (including beta-lactamase prod",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 20
+  },
+  {
+   "drug": "ceftriaxone",
+   "drugbank_id": "DB01212",
+   "predicted": "suppurative otitis media",
+   "approved_use": "acute bacterial otitis media",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4c5c2d3f-5038-41a1-a2fe-4dcd048dbac1",
+    "document": "CEFTRIAXONE (CEFTRIAXONE SODIUM) INJECTION, SOLUTION [BAXTER HEALTHCARE COMPANY]",
+    "quote": "a coli, Enterobacter aerogenes, Proteus mirabilis or Serratia marcescens. ACUTE BACTERIAL OTITIS MEDIA caused by Streptococcus pneumoniae, Haemophilus influenzae (including beta-lactamase prod",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 20
+  },
+  {
+   "drug": "cefuroxime",
+   "drugbank_id": "DB01112",
+   "predicted": "urinary tract infection (disease)",
+   "approved_use": "urinary tract infections",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=15cabe73-f39d-4798-a840-115fe94f8f96",
+    "document": "CEFUROXIME AXETIL TABLET, FILM COATED [PD-RX PHARMACEUTICALS, INC.]",
+    "quote": "cture infections (adults and pediatric patients 13 years and older) ( 1.5 ) Uncomplicated urinary tract infections (adults and pediatric patients 13 years and older) ( 1.6 ) Uncomplicated gonorrhea (adult",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 20
+  },
+  {
+   "drug": "cemiplimab",
+   "drugbank_id": "DB14707",
+   "predicted": "external ear basal cell carcinoma",
+   "approved_use": "locally advanced/metastatic basal cell carcinoma",
+   "relation": "下位／亞型",
+   "relation_note_en": "subtype by site",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4347ae1f-d397-4f18-8b70-03897e1c054a",
+    "document": "LIBTAYO (CEMIPLIMAB-RWLC) INJECTION [REGENERON PHARMACEUTICALS, INC.]",
+    "quote": "patients with CSCC at high risk of recurrence after surgery and radiation. ( 1.1 , 14.1 ) Basal Cell Carcinoma (BCC) for the treatment of adult patients with locally advanced or metastatic BCC (laBCC",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 12
+  },
+  {
+   "drug": "chlorambucil",
+   "drugbank_id": "DB00291",
+   "predicted": "chronic lymphocytic leukemia/small lymphocytic lymphoma with immunoglobulin heavy chain variable-region gene somatic hypermutation",
+   "approved_use": "chronic lymphocytic leukemia",
+   "relation": "下位／亞型",
+   "relation_note_en": "subtype",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=58a3c995-5ad6-465d-8437-5970c9088213",
+    "document": "LEUKERAN (CHLORAMBUCIL) TABLET, FILM COATED [WAYLIS THERAPEUTICS LLC]",
+    "quote": "SECTION\"/> INDICATIONS AND USAGE LEUKERAN (chlorambucil) is indicated in the treatment of chronic lymphatic (lymphocytic) leukemia, malignant lymphomas including lymphosarcoma, giant follicular lymphoma, and Hodgkin’",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 20
+  },
+  {
+   "drug": "chlorambucil",
+   "drugbank_id": "DB00291",
+   "predicted": "pregerminal center chronic lymphocytic leukemia/small lymphocytic lymphoma",
+   "approved_use": "chronic lymphocytic leukemia",
+   "relation": "下位／亞型",
+   "relation_note_en": "subtype",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=58a3c995-5ad6-465d-8437-5970c9088213",
+    "document": "LEUKERAN (CHLORAMBUCIL) TABLET, FILM COATED [WAYLIS THERAPEUTICS LLC]",
+    "quote": "SECTION\"/> INDICATIONS AND USAGE LEUKERAN (chlorambucil) is indicated in the treatment of chronic lymphatic (lymphocytic) leukemia, malignant lymphomas including lymphosarcoma, giant follicular lymphoma, and Hodgkin’",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 20
+  },
+  {
+   "drug": "chloramphenicol",
+   "drugbank_id": "DB00446",
+   "predicted": "conjunctivitis",
+   "approved_use": "ophthalmic: bacterial conjunctivitis",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": {
+    "kind": "UK SmPC (emc)",
+    "url": "https://www.medicines.org.uk/emc/product/13182/smpc",
+    "document": "Brolene Antibiotic 0.5%w/v Eye Drops - Summary of Product Characteristics (SmPC) - (emc) | 13182",
+    "quote": "4.1 Therapeutic indications Treatment of acute bacterial conjunctivitis.",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 17
+  },
+  {
+   "drug": "choline salicylate",
+   "drugbank_id": "DB14006",
+   "predicted": "rheumatoid arthritis",
+   "approved_use": "oral choline salicylate: rheumatoid arthritis, osteoarthritis",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": null,
+   "source_pending": true,
+   "source_tried": [],
+   "inventory_rows": 5
+  },
+  {
+   "drug": "ciprofloxacin",
+   "drugbank_id": "DB00537",
+   "predicted": "septicemic plague",
+   "approved_use": "plague incl. pneumonic and septicemic plague",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c527d138-e32c-418f-9573-a3d8a796279f",
+    "document": "CIPROFLOXACIN (CIPROFOLXACIN) TABLET [REMEDYREPACK INC.]",
+    "quote": "orrhea ( 1.6 ) Inhalational Anthrax post-exposure in adult and pediatric patients ( 1.7 ) Plague in adult and pediatric patients ( 1.8 ) Chronic Bacterial Prostatitis ( 1.9 ) Lower Respi",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 22
+  },
+  {
+   "drug": "clidinium",
+   "drugbank_id": "DB00771",
+   "predicted": "peptic ulcer disease",
+   "approved_use": "adjunctive therapy in peptic ulcer",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f99ebf66-f207-4a97-9666-4da1d72b061c",
+    "document": "LIBRAX (CHLORDIAZEPOXIDE HYDROCHLORIDE AND CLIDINIUM BROMIDE) CAPSULE [BAUSCH HEALTH US, LLC]",
+    "quote": "rointestinal disorders. Librax may also be used as adjunctive therapy in the treatment of peptic ulcer and in the treatment of the irritable bowel syndrome (irritable colon, spastic colon, muc",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "note": "只以複方（Librax：chlordiazepoxide＋clidinium）核准",
+   "inventory_rows": 6
+  },
+  {
+   "drug": "clomifene",
+   "drugbank_id": "DB00882",
+   "predicted": "anovulation",
+   "approved_use": "ovulatory dysfunction in women desiring pregnancy",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=2ca373c1-4dba-4126-8616-5c533d606fe5",
+    "document": "CLOMID (CLOMIPHENE CITRATE) TABLET [COSETTE PHARMACEUTICALS, INC.]",
+    "quote": "AGE SECTION\"/> INDICATIONS AND USAGE Clomiphene citrate is indicated for the treatment of ovulatory dysfunction in women desiring pregnancy. Impediments to achieving pregnancy must be excluded or adequ",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 7
+  },
+  {
+   "drug": "clotrimazole",
+   "drugbank_id": "DB00257",
+   "predicted": "vulvovaginitis",
+   "approved_use": "vulvovaginal candidiasis",
+   "relation": "上位概念（已核准者為其下位）",
+   "relation_note_en": "supertype",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ab0e14b8-8c64-435c-e053-2a95a90acfba",
+    "document": "CLOTRIMAZOLE CREAM [NUCARE PHARMACEUTICALS,INC.]",
+    "quote": "odeSystem=\"2.16.840.1.113883.6.1\" displayName=\"INDICATIONS & USAGE SECTION\"/> Uses treats vaginal yeast infections relieves external itching and irritation due to a vaginal yeast infection <code code=\"",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "note": "出處為 OTC 陰道用製劑（vaginal yeast infections）",
+   "inventory_rows": 22
+  },
+  {
+   "drug": "clozapine",
+   "drugbank_id": "DB00363",
+   "predicted": "psychotic disorder",
+   "approved_use": "treatment-resistant schizophrenia; psychosis in Parkinson's disease (EU)",
+   "relation": "上位概念（已核准者為其下位）",
+   "relation_note_en": "supertype",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=90876802-0e3a-44c9-9ff7-1754dfbe736a",
+    "document": "CLOZARIL (CLOZAPINE) TABLET [HLS THERAPEUTICS (USA), INC.]",
+    "quote": "r who are judged to be at chronic risk for re-experiencing suicidal behavior. ( 1.2 ) 1.1 Treatment-Resistant Schizophrenia CLOZARIL is indicated for the treatment of severely ill patients with schizophrenia who f",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 18
+  },
+  {
+   "drug": "collagenase clostridium histolyticum",
+   "drugbank_id": "DB00048",
+   "predicted": "palmar fibromatosis",
+   "approved_use": "Dupuytren's contracture with palpable cord",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=805cecd0-fd1f-11dd-87af-0800200c9a66",
+    "document": "XIAFLEX (COLLAGENASE CLOSTRIDIUM HISTOLYTICUM) KIT [ENDO USA, INC.]",
+    "quote": "\"/> 1 INDICATIONS AND USAGE XIAFLEX is indicated for the treatment of adult patients with Dupuytren’s contracture with a palpable cord. XIAFLEX is indicated for the treatment of adult men w",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 1
+  },
+  {
+   "drug": "conestat alfa",
+   "drugbank_id": "DB09228",
+   "predicted": "C1 inhibitor deficiency",
+   "approved_use": "hereditary angioedema due to C1-INH deficiency",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": {
+    "kind": "EMA EPAR",
+    "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ruconest",
+    "document": "EMA EPAR ruconest",
+    "quote": "substance conestat alfa. What is Ruconest used for? Ruconest is used to treat attacks of hereditary angioedema in adults and adolescents. Patients with angioedema have attacks of swelling that can occ",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 4
+  },
+  {
+   "drug": "cortisone",
+   "drugbank_id": "DB14681",
+   "predicted": "adrenocortical insufficiency",
+   "approved_use": "primary or secondary adrenocortical insufficiency",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cc158d11-f356-4696-8b73-5d2681dcbcf2",
+    "document": "CORTISONE ACETATE TABLET [CHARTWELL RX, LLC]",
+    "quote": "AND USAGE: When oral therapy is not feasible: 1. Endocrine Disorders Primary or secondary adrenocortical insufficiency (hydrocortisone or cortisone is the first choice; synthetic analogs may be used in conjun",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 4
+  },
+  {
+   "drug": "cortisone",
+   "drugbank_id": "DB14681",
+   "predicted": "Crohn's colitis",
+   "approved_use": "systemic corticosteroid label: regional enteritis, ulcerative colitis",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cc158d11-f356-4696-8b73-5d2681dcbcf2",
+    "document": "CORTISONE ACETATE TABLET [CHARTWELL RX, LLC]",
+    "quote": "Diseases To tide the patient over a critical period of the disease in: Ulcerative colitis Regional enteritis 12. Miscellaneous Tuberculous meningitis with subarachnoid block or impending block when",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 4
+  },
+  {
+   "drug": "cyclandelate",
+   "drugbank_id": "DB04838",
+   "predicted": "peripheral vascular disease",
+   "approved_use": "peripheral vascular disease / intermittent claudication (older labels)",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": null,
+   "source_pending": true,
+   "source_tried": [],
+   "inventory_rows": 2
+  },
+  {
+   "drug": "cyclophosphamide",
+   "drugbank_id": "DB00531",
+   "predicted": "lymph node cancer",
+   "approved_use": "malignant lymphomas (Hodgkin, NHL)",
+   "relation": "上位概念（已核准者為其下位）",
+   "relation_note_en": "supertype",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7d6447e3-22c9-48d9-87c0-d0b576d7ea9e",
+    "document": "CYCLOPHOSPHAMIDE CAPSULE [OPKO PHARMACEUTICALS, LLC]",
+    "quote": "E Cyclophosphamide is an alkylating drug indicated for treatment of: Malignant Diseases : malignant lymphomas: Hodgkin’s disease, lymphocytic lymphoma, mixed-cell type lymphoma, histiocytic lymphoma,",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 16
+  },
+  {
+   "drug": "cyclophosphamide",
+   "drugbank_id": "DB00531",
+   "predicted": "myeloid leukemia",
+   "approved_use": "acute myelogenous and monocytic leukemia (US label)",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7d6447e3-22c9-48d9-87c0-d0b576d7ea9e",
+    "document": "CYCLOPHOSPHAMIDE CAPSULE [OPKO PHARMACEUTICALS, LLC]",
+    "quote": "kemia, chronic granulocytic leukemia (it is usually ineffective in acute blastic crisis), acute myelogenous and monocytic leukemia, acute lymphoblastic (stem-cell) leukemia (cyclophosphamide given",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 16
+  },
+  {
+   "drug": "cysteamine",
+   "drugbank_id": "DB00847",
+   "predicted": "inborn disorder of lysosomal amino acid transport",
+   "approved_use": "nephropathic cystinosis (lysosomal cystine transport defect)",
+   "relation": "上位概念（已核准者為其下位）",
+   "relation_note_en": "supertype",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f495b76d-96c6-48e5-8fa3-30a4336628eb",
+    "document": "CYSTAGON (CYSTEAMINE BITARTRATE) CAPSULE [MYLAN PHARMACEUTICALS INC.]",
+    "quote": "NS & USAGE SECTION\"/> INDICATIONS AND USAGE CYSTAGON ® is indicated for the management of nephropathic cystinosis in children and adults. <code code=\"",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 2
+  },
+  {
+   "drug": "danazol",
+   "drugbank_id": "DB01406",
+   "predicted": "benign mammary dysplasia",
+   "approved_use": "fibrocystic breast disease",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=35a21f89-cf5f-4e8b-8400-3ef7023bc49c",
+    "document": "DANAZOL CAPSULE [CARILION MATERIALS MANAGEMENT]",
+    "quote": "apsules are indicated for the treatment of endometriosis amenable to hormonal management. Fibrocystic Breast Disease Most cases of symptomatic fibrocystic breast disease may be treated by simple measures (e",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 16
+  },
+  {
+   "drug": "dexamethasone",
+   "drugbank_id": "DB01234",
+   "predicted": "alopecia areata",
+   "approved_use": "intralesional injection: alopecia areata, discoid lupus, keloids",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d9b935d5-1b4f-4a08-8d40-57f397368fef",
+    "document": "DEXAMETHASONE SODIUM PHOSPHATE INJECTION [HENRY SCHEIN, INC.]",
+    "quote": "hronicus (neurodermatitis) Discoid lupus erythematosus Necrobiosis lipoidica diabeticorum Alopecia areata They also may be useful in cystic tumors of an aponeurosis tendon (ganglia). <code code=\"",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 26
+  },
+  {
+   "drug": "dipyridamole",
+   "drugbank_id": "DB00975",
+   "predicted": "thrombotic disease",
+   "approved_use": "prophylaxis of thromboembolism after valve replacement; stroke prevention (with aspirin)",
+   "relation": "上位概念（已核准者為其下位）",
+   "relation_note_en": "supertype",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=226099e2-70bb-4b9b-bb52-c20fbca2aec5",
+    "document": "DIPYRIDAMOLE TABLET, FILM COATED [REMEDYREPACK INC.]",
+    "quote": "are indicated as an adjunct to coumarin anticoagulants in the prevention of postoperative thromboembolic complications of cardiac valve replacement. <code code=\"",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 18
+  },
+  {
+   "drug": "dipyridamole",
+   "drugbank_id": "DB00975",
+   "predicted": "transient ischemic attack (disease)",
+   "approved_use": "with aspirin: reduce risk of stroke after TIA/ischemic stroke",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": {
+    "kind": "UK SmPC (emc)",
+    "url": "https://www.medicines.org.uk/emc/product/3472/smpc",
+    "document": "Attia 200 mg Modified-Release Capsules, Hard - Summary of Product Characteristics (SmPC) - (emc) | 3472",
+    "quote": "4.1 Therapeutic indications • Secondary prevention of ischaemic stroke and transient ischaemic attacks either alone or in conjunction with aspirin. • An adjunct to oral anti-coagu",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "note": "英國單方緩釋劑核准；美國只以複方（Aggrenox）核准",
+   "inventory_rows": 18
+  },
+  {
+   "drug": "ecallantide",
+   "drugbank_id": "DB05311",
+   "predicted": "C1 inhibitor deficiency",
+   "approved_use": "hereditary angioedema",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f56aec67-c662-477c-b866-bfc23e8809cf",
+    "document": "KALBITOR (ECALLANTIDE) INJECTION, SOLUTION [TAKEDA PHARMACEUTICALS AMERICA, INC.]",
+    "quote": "CATIONS AND USAGE KALBITOR ® (ecallantide) is indicated for treatment of acute attacks of hereditary angioedema (HAE) in patients 12 years of age and older. KALBITOR is a plasma kallikrein inhibitor in",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 1
+  },
+  {
+   "drug": "elosulfase alfa",
+   "drugbank_id": "DB09051",
+   "predicted": "lysosomal storage disease with skeletal involvement",
+   "approved_use": "mucopolysaccharidosis IVA",
+   "relation": "上位概念（已核准者為其下位）",
+   "relation_note_en": "supertype",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=0caa2565-12b2-0ad0-1f9a-273e81c3d4cc",
+    "document": "VIMIZIM (ELOSULFASE ALFA) INJECTION, SOLUTION, CONCENTRATE [BIOMARIN PHARMACEUTICAL INC.]",
+    "quote": "CTION\"/> 1 INDICATIONS AND USAGE VIMIZIM (elosulfase alfa) is indicated for patients with Mucopolysaccharidosis type IVA (MPS IVA; Morquio A syndrome). VIMIZIM is a hydrolytic lysosomal glycosaminoglycan (GAG)-",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 7
+  },
+  {
+   "drug": "ergocalciferol",
+   "drugbank_id": "DB00153",
+   "predicted": "hypophosphatemia (disease)",
+   "approved_use": "familial hypophosphatemia, refractory rickets, hypoparathyroidism",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=acb61678-d23d-405d-8c14-1a16cfd3a776",
+    "document": "DRISDOL (ERGOCALCIFEROL) CAPSULE, LIQUID FILLED [VALIDUS PHARMACEUTICALS LLC]",
+    "quote": "rathyroidism, refractory rickets, also known as vitamin D resistant rickets, and familial hypophosphatemia. <code codeSystem=\"2.16.840.1.113883.6.1\" code=\"",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 10
+  },
+  {
+   "drug": "ertapenem",
+   "drugbank_id": "DB00303",
+   "predicted": "staphylococcus aureus infection",
+   "approved_use": "infections caused by susceptible S. aureus (methicillin-susceptible)",
+   "relation": "其他（見英文備註）",
+   "relation_note_en": "pathogen listed on label",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5b050245-aa03-4e28-e063-6394a90aeabc",
+    "document": "ERTAPENEM (ERTAPENEM SODIUM) INJECTION [APOTEX CORP]",
+    "quote": "kin structure infections, including diabetic foot infections without osteomyelitis due to Staphylococcus aureus (methicillin susceptible isolates only), Streptococcus agalactiae , Streptococcus pyogene",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 16
+  },
+  {
+   "drug": "erythromycin",
+   "drugbank_id": "DB00199",
+   "predicted": "acute contagious conjunctivitis",
+   "approved_use": "ophthalmic: superficial ocular infections incl. bacterial conjunctivitis",
+   "relation": "上位概念（已核准者為其下位）",
+   "relation_note_en": "supertype",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5ddd708a-9238-fea1-e063-6394a90a37b1",
+    "document": "ERYTHROMYCIN OINTMENT [REDPHARM DRUG]",
+    "quote": "\" displayName=\"INDICATIONS & USAGE SECTION\"/> INDICATIONS AND USAGE: For the treatment of superficial ocular infections involving the conjunctiva and/or cornea caused by organisms susceptible to erythromycin.",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 20
+  },
+  {
+   "drug": "fenbufen",
+   "drugbank_id": null,
+   "predicted": "osteoarthritis",
+   "approved_use": "osteoarthritis, rheumatoid arthritis, ankylosing spondylitis",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": null,
+   "source_pending": true,
+   "source_tried": [],
+   "inventory_rows": 1
+  },
+  {
+   "drug": "fenticonazole",
+   "drugbank_id": "DB13434",
+   "predicted": "vaginitis (disease)",
+   "approved_use": "vulvovaginal candidiasis",
+   "relation": "上位概念（已核准者為其下位）",
+   "relation_note_en": "supertype",
+   "source": {
+    "kind": "AEMPS ficha técnica (CIMA)",
+    "url": "https://cima.aemps.es/cima/dochtml/ft/61128/FT_61128.html",
+    "document": "CIMA LOMEXIN 20 MG/G CREMA (61128)",
+    "quote": "Lomexin 20 mg/g crema está indicado para el tratamiento de la candidiasis vulvovaginal no complicada en combinación con Lomexin cápsulas vaginales blandas (ver sección 4.4). Se",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 6
+  },
+  {
+   "drug": "fenticonazole",
+   "drugbank_id": "DB13434",
+   "predicted": "vulvovaginitis",
+   "approved_use": "vulvovaginal candidiasis",
+   "relation": "上位概念（已核准者為其下位）",
+   "relation_note_en": "supertype",
+   "source": {
+    "kind": "AEMPS ficha técnica (CIMA)",
+    "url": "https://cima.aemps.es/cima/dochtml/ft/61128/FT_61128.html",
+    "document": "CIMA LOMEXIN 20 MG/G CREMA (61128)",
+    "quote": "Lomexin 20 mg/g crema está indicado para el tratamiento de la candidiasis vulvovaginal no complicada en combinación con Lomexin cápsulas vaginales blandas (ver sección 4.4). Se",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 6
+  },
+  {
+   "drug": "ferric maltol",
+   "drugbank_id": "DB15598",
+   "predicted": "Plummer-Vinson syndrome",
+   "approved_use": "iron deficiency anemia",
+   "relation": "已核准疾病的表現",
+   "relation_note_en": "Plummer-Vinson is a manifestation of iron deficiency",
+   "source": {
+    "kind": "EMA EPAR",
+    "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/feraccru",
+    "document": "EMA EPAR feraccru",
+    "quote": "ropean Commission decision Overview Feraccru is an iron-containing medicine used to treat iron deficiency (lack of iron) in adults and adolescents aged 12 years and older. Feraccru contains the a",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 6
+  },
+  {
+   "drug": "ferrous gluconate",
+   "drugbank_id": "DB14488",
+   "predicted": "Plummer-Vinson syndrome",
+   "approved_use": "iron deficiency anemia",
+   "relation": "已核准疾病的表現",
+   "relation_note_en": "Plummer-Vinson is a manifestation of iron deficiency",
+   "source": null,
+   "source_pending": true,
+   "source_tried": [
+    "dailymed:ferrous gluconate"
+   ],
+   "inventory_rows": 6
+  },
+  {
+   "drug": "ferrous sulfate anhydrous",
+   "drugbank_id": null,
+   "predicted": "Plummer-Vinson syndrome",
+   "approved_use": "iron deficiency anemia",
+   "relation": "已核准疾病的表現",
+   "relation_note_en": "Plummer-Vinson is a manifestation of iron deficiency",
+   "source": {
+    "kind": "UK SmPC (emc)",
+    "url": "https://www.medicines.org.uk/emc/product/102243/smpc",
+    "document": "Ferrograd 325 mg prolonged release film coated tablet - Summary of Product Characteristics (SmPC) - (emc) | 102243",
+    "quote": "4.1 Therapeutic indications Prevention and treatment of iron deficiency anaemia.",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 6
+  },
+  {
+   "drug": "ferumoxytol",
+   "drugbank_id": "DB06215",
+   "predicted": "Plummer-Vinson syndrome",
+   "approved_use": "iron deficiency anemia",
+   "relation": "已核准疾病的表現",
+   "relation_note_en": "Plummer-Vinson is a manifestation of iron deficiency",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=32b0e320-a739-11dc-a704-0002a5d5c51b",
+    "document": "FERAHEME (FERUMOXYTOL) INJECTION [AMAG PHARMACEUTICALS, INC]",
+    "quote": "ONS & USAGE SECTION\"/> 1 INDICATIONS AND USAGE Feraheme is indicated for the treatment of iron deficiency anemia (IDA) in adult patients: • who have intolerance to oral iron or have had unsatisfactory r",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 1
+  },
+  {
+   "drug": "fluocinolone acetonide",
+   "drugbank_id": "DB00591",
+   "predicted": "annular atrophic lichen planus",
+   "approved_use": "corticosteroid-responsive dermatoses incl. lichen planus",
+   "relation": "下位／亞型",
+   "relation_note_en": "subtype",
+   "source": {
+    "kind": "UK SmPC (emc)",
+    "url": "https://www.medicines.org.uk/emc/product/100198/smpc",
+    "document": "SYNALAR (Fluocinolone Acetonide 0.00625% w/w) 1:4 Ointment 50g - Summary of Product Characteristics (SmPC) - (emc) | 100",
+    "quote": "dermatitis, neurodermatitis. Prurigo. Psoriasis (excluding widespread plaque psoriasis). Lichen planus. Discoid lupus erythematosus. - Maintaining therapy when control has been achieved with '",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 12
+  },
+  {
+   "drug": "fluocinolone acetonide",
+   "drugbank_id": "DB00591",
+   "predicted": "hypertrophic lichen planus",
+   "approved_use": "corticosteroid-responsive dermatoses incl. lichen planus",
+   "relation": "下位／亞型",
+   "relation_note_en": "subtype",
+   "source": {
+    "kind": "UK SmPC (emc)",
+    "url": "https://www.medicines.org.uk/emc/product/100198/smpc",
+    "document": "SYNALAR (Fluocinolone Acetonide 0.00625% w/w) 1:4 Ointment 50g - Summary of Product Characteristics (SmPC) - (emc) | 100",
+    "quote": "dermatitis, neurodermatitis. Prurigo. Psoriasis (excluding widespread plaque psoriasis). Lichen planus. Discoid lupus erythematosus. - Maintaining therapy when control has been achieved with '",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 12
+  },
+  {
+   "drug": "fluocinolone acetonide",
+   "drugbank_id": "DB00591",
+   "predicted": "lichen planus pigmentosus",
+   "approved_use": "corticosteroid-responsive dermatoses incl. lichen planus",
+   "relation": "下位／亞型",
+   "relation_note_en": "subtype",
+   "source": {
+    "kind": "UK SmPC (emc)",
+    "url": "https://www.medicines.org.uk/emc/product/100198/smpc",
+    "document": "SYNALAR (Fluocinolone Acetonide 0.00625% w/w) 1:4 Ointment 50g - Summary of Product Characteristics (SmPC) - (emc) | 100",
+    "quote": "dermatitis, neurodermatitis. Prurigo. Psoriasis (excluding widespread plaque psoriasis). Lichen planus. Discoid lupus erythematosus. - Maintaining therapy when control has been achieved with '",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 12
+  },
+  {
+   "drug": "fluoxetine",
+   "drugbank_id": "DB00472",
+   "predicted": "agoraphobia",
+   "approved_use": "panic disorder with or without agoraphobia",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c88f33ed-6dfb-4c5e-bc01-d8e36dd97299",
+    "document": "PROZAC (FLUOXETINE HYDROCHLORIDE) CAPSULE [DISTA PRODUCTS COMPANY]",
+    "quote": "vosa [see Clinical Studies ( 14.3 )] . Acute treatment of Panic Disorder, with or without agoraphobia [see Clinical Studies ( 14.4 )]. PROZAC and Olanzapine in Combination is indicated for th",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 21
+  },
+  {
+   "drug": "flurbiprofen",
+   "drugbank_id": "DB00712",
+   "predicted": "ankylosing spondylitis",
+   "approved_use": "rheumatoid arthritis, osteoarthritis, ankylosing spondylitis (UK)",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "approved_countries": {
+    "approved_in_sites": [
+     "UkTxGNN"
+    ],
+    "why": "僵直性脊椎炎只見於英國 SmPC；美國仿單只有 RA、OA"
+   },
+   "source": {
+    "kind": "UK SmPC (emc)",
+    "url": "https://www.medicines.org.uk/emc/product/327/smpc",
+    "document": "Flurbiprofen 100 mg coated tablets - Summary of Product Characteristics (SmPC) - (emc) | 327",
+    "quote": "4.1 Therapeutic indications For the treatment of rheumatoid disease, osteoarthritis, ankylosing spondylitis, musculoskeletal disorders and trauma such as periarthritis, frozen shoulder, bursitis, t",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 19
+  },
+  {
+   "drug": "fluvoxamine",
+   "drugbank_id": "DB00176",
+   "predicted": "endogenous depression",
+   "approved_use": "depression (EU/JP; US: OCD only)",
+   "relation": "下位／亞型",
+   "relation_note_en": "subtype of depression",
+   "approved_countries": {
+    "not_approved_in_sites": [
+     "UsTxGNN"
+    ],
+    "why": "憂鬱症在歐盟／日本等核准；美國只核准 OCD"
+   },
+   "source": {
+    "kind": "UK SmPC (emc)",
+    "url": "https://www.medicines.org.uk/emc/product/6603/smpc",
+    "document": "Faverin 100 mg Film-coated Tablets - Summary of Product Characteristics (SmPC) - (emc) | 6603",
+    "quote": "4.1 Therapeutic indications - Major depressive episode - Obsessive Compulsive Disorder (OCD)",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 12
+  },
+  {
+   "drug": "formoterol",
+   "drugbank_id": "DB00983",
+   "predicted": "bronchitis",
+   "approved_use": "COPD incl. chronic bronchitis and emphysema",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fb2fe258-fe2e-47f6-8adf-ca75bf6f90af",
+    "document": "PERFOROMIST (FORMOTEROL FUMARATE DIHYDRATE) SOLUTION [VIATRIS SPECIALTY LLC]",
+    "quote": "nchoconstriction in patients with chronic obstructive pulmonary disease (COPD), including chronic bronchitis and emphysema. ( 1.1 ) Important limitations of use: • PERFOROMIST Inhalation Solution is",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 18
+  },
+  {
+   "drug": "gimeracil",
+   "drugbank_id": "DB09257",
+   "predicted": "colonic neoplasm",
+   "approved_use": "S-1: gastric cancer; colorectal cancer in JP",
+   "relation": "上位概念（已核准者為其下位）",
+   "relation_note_en": "supertype",
+   "approved_countries": {
+    "approved_in_sites": [
+     "JpTxGNN"
+    ],
+    "why": "S-1 的大腸直腸癌適應症只在日本"
+   },
+   "source": {
+    "kind": "日本添付文書（KEGG MEDICUS／JAPIC）",
+    "url": "https://www.kegg.jp/medicus-bin/japic_med?japic_code=00061730",
+    "document": "JAPIC 添付文書 ティーエスワン",
+    "quote": "2.6 フルシトシンを投与中の患者［ 1.4 、 10.1 、 16.7 参照］ 2.7 妊婦又は妊娠している可能性のある女性［ 9.5 参照］ 4. 効能または効果 胃癌 、 結腸・直腸癌 、 頭頸部癌 、 非小細胞肺癌 、手術不能又は再発 乳癌 、 膵癌 、胆道癌、ホルモン受容体陽性かつHER2陰性で再発高リスクの 乳癌 における術後薬物療法 5. 効能または効果",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "note": "只以 S-1（tegafur/gimeracil/oteracil）複方核准",
+   "inventory_rows": 11
+  },
+  {
+   "drug": "haloperidol",
+   "drugbank_id": "DB00502",
+   "predicted": "manic bipolar affective disorder",
+   "approved_use": "manic episodes of bipolar disorder (EU SmPC); psychotic disorders",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "approved_countries": {
+    "not_approved_in_sites": [
+     "UsTxGNN"
+    ],
+    "why": "躁症在歐盟等 SmPC 核准；美國仿單只有思覺失調、妥瑞症"
+   },
+   "source": {
+    "kind": "UK SmPC (emc)",
+    "url": "https://www.medicines.org.uk/emc/product/15252/smpc",
+    "document": "HALDOL 2 mg/ml oral solution - Summary of Product Characteristics (SmPC) - (emc) | 15252",
+    "quote": "lirium when non-pharmacological treatments have failed. • Treatment of moderate to severe manic episodes associated with bipolar I disorder. • Treatment of acute psychomotor agitation a",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 23
+  },
+  {
+   "drug": "hyaluronic acid",
+   "drugbank_id": "DB08818",
+   "predicted": "dry eye syndrome",
+   "approved_use": "ophthalmic: dry eye / keratoconjunctival epithelial disorders",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": {
+    "kind": "日本添付文書（KEGG MEDICUS／JAPIC）",
+    "url": "https://www.kegg.jp/medicus-bin/japic_med?japic_code=00059034",
+    "document": "JAPIC 添付文書 ヒアレイン",
+    "quote": "1319720Q5038 28.9円／個 4. 効能または効果 下記疾患に伴う角結膜上皮障害 ○ シェーグレン症候群 、 スティーブンス・ジョンソン症候群 、 眼球乾燥症候群 （ ドライアイ ）等の内因性疾患 ○術後、薬剤性、外傷、コンタクトレンズ装用等による外因性疾患 6. 用法及び用量 1回1滴、1日5〜6回点眼し、症状により適宜増減する。 なお、通常は0.1％製",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "note": "出處為日本（ヒアレイン）；美國的玻尿酸點眼屬醫材，未以藥品核准",
+   "inventory_rows": 5
+  },
+  {
+   "drug": "hydroxyprogesterone caproate",
+   "drugbank_id": "DB06789",
+   "predicted": "endometrial cancer",
+   "approved_use": "generic HPC label: advanced adenocarcinoma of uterine corpus",
+   "relation": "同一疾病",
+   "relation_note_en": "same (non-Makena label)",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=687bcf42-f437-42c7-8909-a91f621f55df",
+    "document": "HYDROXYPROGESTERONE CAPROATE INJECTION [EUGIA US LLC]",
+    "quote": "P is indicated in non-pregnant women: for the treatment of advanced adenocarcinoma of the uterine corpus (Stage III or IV); in the management of amenorrhea (primary and secondary) and abnormal u",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 4
+  },
+  {
+   "drug": "hydroxyprogesterone caproate",
+   "drugbank_id": "DB06789",
+   "predicted": "uterine corpus cancer",
+   "approved_use": "generic HPC label: advanced adenocarcinoma of uterine corpus (stage III/IV)",
+   "relation": "同一疾病",
+   "relation_note_en": "same (non-Makena label)",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=687bcf42-f437-42c7-8909-a91f621f55df",
+    "document": "HYDROXYPROGESTERONE CAPROATE INJECTION [EUGIA US LLC]",
+    "quote": "P is indicated in non-pregnant women: for the treatment of advanced adenocarcinoma of the uterine corpus (Stage III or IV); in the management of amenorrhea (primary and secondary) and abnormal u",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 4
+  },
+  {
+   "drug": "hydroxyurea",
+   "drugbank_id": "DB01005",
+   "predicted": "sickle cell-beta-thalassemia disease syndrome",
+   "approved_use": "sickle cell anemia / sickle cell syndrome (EU Siklos incl. compound genotypes)",
+   "relation": "下位／亞型",
+   "relation_note_en": "subtype",
+   "source": {
+    "kind": "EMA EPAR",
+    "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/siklos",
+    "document": "EMA EPAR siklos",
+    "quote": "eatment with Siklos should be started by a doctor who has experience in the management of sickle cell syndrome. Siklos is taken once a day, preferably in the morning before breakfast. The starting dos",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "note": "歐盟 Siklos 寫 sickle cell syndrome（含複合基因型）；美國寫 sickle cell anemia",
+   "inventory_rows": 12
+  },
+  {
+   "drug": "hydroxyurea",
+   "drugbank_id": "DB01005",
+   "predicted": "sickle cell-hemoglobin c disease syndrome",
+   "approved_use": "sickle cell syndrome (EU Siklos)",
+   "relation": "下位／亞型",
+   "relation_note_en": "subtype",
+   "source": {
+    "kind": "EMA EPAR",
+    "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/siklos",
+    "document": "EMA EPAR siklos",
+    "quote": "eatment with Siklos should be started by a doctor who has experience in the management of sickle cell syndrome. Siklos is taken once a day, preferably in the morning before breakfast. The starting dos",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "note": "歐盟 Siklos 寫 sickle cell syndrome（含複合基因型）；美國寫 sickle cell anemia",
+   "inventory_rows": 12
+  },
+  {
+   "drug": "hydroxyurea",
+   "drugbank_id": "DB01005",
+   "predicted": "sickle cell-hemoglobin d disease syndrome",
+   "approved_use": "sickle cell syndrome (EU Siklos)",
+   "relation": "下位／亞型",
+   "relation_note_en": "subtype",
+   "source": {
+    "kind": "EMA EPAR",
+    "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/siklos",
+    "document": "EMA EPAR siklos",
+    "quote": "eatment with Siklos should be started by a doctor who has experience in the management of sickle cell syndrome. Siklos is taken once a day, preferably in the morning before breakfast. The starting dos",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "note": "歐盟 Siklos 寫 sickle cell syndrome（含複合基因型）；美國寫 sickle cell anemia",
+   "inventory_rows": 12
+  },
+  {
+   "drug": "icatibant",
+   "drugbank_id": "DB06196",
+   "predicted": "C1 inhibitor deficiency",
+   "approved_use": "hereditary angioedema (C1-INH deficiency)",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ed6657ca-ab68-477a-9968-e12dc928b540",
+    "document": "FIRAZYR (ICATIBANT ACETATE) INJECTION, SOLUTION [TAKEDA PHARMACEUTICALS AMERICA, INC.]",
+    "quote": "ATIONS AND USAGE FIRAZYR ® (icatibant) is indicated for the treatment of acute attacks of hereditary angioedema (HAE) in adults 18 years of age and older. FIRAZYR is a bradykinin B2 receptor antagonist",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 16
+  },
+  {
+   "drug": "imipenem",
+   "drugbank_id": "DB01598",
+   "predicted": "staphylococcus aureus infection",
+   "approved_use": "infections caused by susceptible S. aureus (methicillin-susceptible)",
+   "relation": "其他（見英文備註）",
+   "relation_note_en": "pathogen listed on label",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f41d8abd-7792-4918-1b93-bd83ea01955e",
+    "document": "PRIMAXIN IV (IMIPENEM AND CILASTATIN SODIUM) INJECTION, POWDER, FOR SOLUTION [MERCK SHARP & DOHME LLC]",
+    "quote": "for the treatment of lower respiratory tract infections caused by susceptible strains of Staphylococcus aureus (penicillinase-producing isolates), Acinetobacter species, Enterobacter species, Escheric",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 19
+  },
+  {
+   "drug": "indoramin",
+   "drugbank_id": null,
+   "predicted": "benign prostatic hyperplasia (disease)",
+   "approved_use": "hypertension; benign prostatic hyperplasia (UK)",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "approved_countries": {
+    "approved_in_sites": [
+     "UkTxGNN"
+    ],
+    "why": "BPH 適應症見於英國 SmPC"
+   },
+   "source": {
+    "kind": "UK SmPC (emc)",
+    "url": "https://www.medicines.org.uk/emc/product/6666/smpc",
+    "document": "Doralese Tiltab Tablets 20 mg - Summary of Product Characteristics (SmPC) - (emc) | 6666",
+    "quote": "s for which alpha blockade is indicated. Management of urinary outflow obstruction due to benign prostatic hyperplasia.",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 1
+  },
+  {
+   "drug": "iron",
+   "drugbank_id": "DB01592",
+   "predicted": "Plummer-Vinson syndrome",
+   "approved_use": "iron deficiency anemia",
+   "relation": "已核准疾病的表現",
+   "relation_note_en": "Plummer-Vinson is a manifestation of iron deficiency",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=626dc9e5-c6b4-4f9c-9bf4-774fd3ae619a",
+    "document": "VENOFER (IRON SUCROSE) INJECTION, SOLUTION [AMERICAN REGENT, INC.]",
+    "quote": "IONS & USAGE SECTION\"/> 1 INDICATIONS AND USAGE Venofer is indicated for the treatment of iron deficiency anemia (IDA) in patients with chronic kidney disease (CKD). Venofer is an iron replacement produ",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 12
+  },
+  {
+   "drug": "lanadelumab",
+   "drugbank_id": "DB14597",
+   "predicted": "C1 inhibitor deficiency",
+   "approved_use": "hereditary angioedema prophylaxis",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=15f99d8c-efe7-4f7d-aa20-0d0f1e30c6e8",
+    "document": "TAKHZYRO (LANADELUMAB-FLYO) SOLUTION TAKHZYRO (LANADELUMAB-FLYO) INJECTION, SOLUTION [TAKEDA PHARMACEUTICALS AMERICA, IN",
+    "quote": "\"/> 1 INDICATIONS AND USAGE TAKHZYRO ® is indicated for prophylaxis to prevent attacks of hereditary angioedema (HAE) in adult and pediatric patients aged 2 years and older. TAKHZYRO is a plasma kallik",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 16
+  },
+  {
+   "drug": "laronidase",
+   "drugbank_id": "DB00090",
+   "predicted": "lysosomal storage disease with skeletal involvement",
+   "approved_use": "mucopolysaccharidosis I",
+   "relation": "上位概念（已核准者為其下位）",
+   "relation_note_en": "supertype",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a80ac249-cae4-41f3-88bb-344088b20e60",
+    "document": "ALDURAZYME (LARONIDASE) INJECTION, SOLUTION, CONCENTRATE [GENZYME CORPORATION]",
+    "quote": "for the treatment of: adult and pediatric patients with Hurler and Hurler-Scheie forms of Mucopolysaccharidosis I (MPS I) and patients with the Scheie form of MPS I who have moderate to severe symptoms.",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 17
+  },
+  {
+   "drug": "levofloxacin",
+   "drugbank_id": "DB01137",
+   "predicted": "septicemic plague",
+   "approved_use": "plague incl. pneumonic and septicemic plague",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=46a3c619-b2a3-3f28-e063-6394a90a2309",
+    "document": "LEVOFLOXACIN TABLET, FILM COATED [ST. MARY'S MEDICAL PARK PHARMACY]",
+    "quote": "s ( 1.6 ) • Inhalational Anthrax, Post-Exposure in adult and pediatric patients ( 1.7 ) • Plague in adult and pediatric patients ( 1.8 ) • Urinary Tract Infections (UTI): Complicated ( 1",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 21
+  },
+  {
+   "drug": "levosalbutamol",
+   "drugbank_id": "DB13139",
+   "predicted": "obstructive lung disease",
+   "approved_use": "asthma and/or COPD",
+   "relation": "上位概念（已核准者為其下位）",
+   "relation_note_en": "supertype",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=70a35706-d7a8-4a48-98c6-1cab1c42fe8d",
+    "document": "XOPENEX HFA (LEVALBUTEROL TARTRATE) AEROSOL, METERED [LUPIN PHARMACEUTICALS, INC.]",
+    "quote": "for the treatment or prevention of bronchospasm in patients 4 years of age and older with reversible obstructive airway disease. ( 1.1 ) 1.1 Bronchospasm XOPENEX HFA is indicated for the treatment or prevention of bro",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 1
+  },
+  {
+   "drug": "lomustine",
+   "drugbank_id": "DB01206",
+   "predicted": "cerebellopontine angle embryonal tumor",
+   "approved_use": "brain tumors, primary and metastatic",
+   "relation": "下位／亞型",
+   "relation_note_en": "subtype",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3529fe2f-3c23-4862-bb20-b48026957082",
+    "document": "GLEOSTINE (LOMUSTINE) CAPSULE, GELATIN COATED [AZURITY PHARMACEUTICALS, INC.]",
+    "quote": "S AND USAGE Gleostine is an alkylating drug indicated for the treatment of patients with: Brain tumors, primary and metastatic, following appropriate surgical and/or radiotherapeutic procedure",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 8
+  },
+  {
+   "drug": "lomustine",
+   "drugbank_id": "DB01206",
+   "predicted": "cerebral neuroblastoma",
+   "approved_use": "brain tumors, primary and metastatic",
+   "relation": "下位／亞型",
+   "relation_note_en": "subtype",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3529fe2f-3c23-4862-bb20-b48026957082",
+    "document": "GLEOSTINE (LOMUSTINE) CAPSULE, GELATIN COATED [AZURITY PHARMACEUTICALS, INC.]",
+    "quote": "S AND USAGE Gleostine is an alkylating drug indicated for the treatment of patients with: Brain tumors, primary and metastatic, following appropriate surgical and/or radiotherapeutic procedure",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 8
+  },
+  {
+   "drug": "lomustine",
+   "drugbank_id": "DB01206",
+   "predicted": "cerebral sarcoma",
+   "approved_use": "brain tumors, primary and metastatic",
+   "relation": "下位／亞型",
+   "relation_note_en": "subtype",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3529fe2f-3c23-4862-bb20-b48026957082",
+    "document": "GLEOSTINE (LOMUSTINE) CAPSULE, GELATIN COATED [AZURITY PHARMACEUTICALS, INC.]",
+    "quote": "S AND USAGE Gleostine is an alkylating drug indicated for the treatment of patients with: Brain tumors, primary and metastatic, following appropriate surgical and/or radiotherapeutic procedure",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 8
+  },
+  {
+   "drug": "lomustine",
+   "drugbank_id": "DB01206",
+   "predicted": "childhood brain germinoma",
+   "approved_use": "brain tumors, primary and metastatic",
+   "relation": "下位／亞型",
+   "relation_note_en": "subtype",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3529fe2f-3c23-4862-bb20-b48026957082",
+    "document": "GLEOSTINE (LOMUSTINE) CAPSULE, GELATIN COATED [AZURITY PHARMACEUTICALS, INC.]",
+    "quote": "S AND USAGE Gleostine is an alkylating drug indicated for the treatment of patients with: Brain tumors, primary and metastatic, following appropriate surgical and/or radiotherapeutic procedure",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 8
+  },
+  {
+   "drug": "lomustine",
+   "drugbank_id": "DB01206",
+   "predicted": "lymph node cancer",
+   "approved_use": "Hodgkin disease (secondary therapy)",
+   "relation": "上位概念（已核准者為其下位）",
+   "relation_note_en": "supertype",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3529fe2f-3c23-4862-bb20-b48026957082",
+    "document": "GLEOSTINE (LOMUSTINE) CAPSULE, GELATIN COATED [AZURITY PHARMACEUTICALS, INC.]",
+    "quote": "and metastatic, following appropriate surgical and/or radiotherapeutic procedures. ( 1 ) Hodgkin's lymphoma in combination with other chemotherapies, following disease progression with i",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 8
+  },
+  {
+   "drug": "lomustine",
+   "drugbank_id": "DB01206",
+   "predicted": "pediatric cerebral ependymoblastoma",
+   "approved_use": "brain tumors, primary and metastatic",
+   "relation": "下位／亞型",
+   "relation_note_en": "subtype",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3529fe2f-3c23-4862-bb20-b48026957082",
+    "document": "GLEOSTINE (LOMUSTINE) CAPSULE, GELATIN COATED [AZURITY PHARMACEUTICALS, INC.]",
+    "quote": "S AND USAGE Gleostine is an alkylating drug indicated for the treatment of patients with: Brain tumors, primary and metastatic, following appropriate surgical and/or radiotherapeutic procedure",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 8
+  },
+  {
+   "drug": "lomustine",
+   "drugbank_id": "DB01206",
+   "predicted": "pediatric infratentorial ependymoblastoma",
+   "approved_use": "brain tumors, primary and metastatic",
+   "relation": "下位／亞型",
+   "relation_note_en": "subtype",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=3529fe2f-3c23-4862-bb20-b48026957082",
+    "document": "GLEOSTINE (LOMUSTINE) CAPSULE, GELATIN COATED [AZURITY PHARMACEUTICALS, INC.]",
+    "quote": "S AND USAGE Gleostine is an alkylating drug indicated for the treatment of patients with: Brain tumors, primary and metastatic, following appropriate surgical and/or radiotherapeutic procedure",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 8
+  },
+  {
+   "drug": "lormetazepam",
+   "drugbank_id": null,
+   "predicted": "insomnia (disease)",
+   "approved_use": "insomnia",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": {
+    "kind": "AEMPS ficha técnica (CIMA)",
+    "url": "https://cima.aemps.es/cima/dochtml/ft/56296/FT_56296.html",
+    "document": "CIMA NOCTAMID 1 mg COMPRIMIDOS (56296)",
+    "quote": "- Tratamiento de corta duración del insomnio. - Inducción del sueño en periodos pre y postoperatorios. Las benzodiazepinas sólo están",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 4
+  },
+  {
+   "drug": "lormetazepam",
+   "drugbank_id": null,
+   "predicted": "sleep disorder, initiating and maintaining sleep",
+   "approved_use": "insomnia",
+   "relation": "同義詞",
+   "relation_note_en": "synonym",
+   "source": {
+    "kind": "AEMPS ficha técnica (CIMA)",
+    "url": "https://cima.aemps.es/cima/dochtml/ft/56296/FT_56296.html",
+    "document": "CIMA NOCTAMID 1 mg COMPRIMIDOS (56296)",
+    "quote": "- Tratamiento de corta duración del insomnio. - Inducción del sueño en periodos pre y postoperatorios. Las benzodiazepinas sólo están",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 4
+  },
+  {
+   "drug": "luliconazole",
+   "drugbank_id": "DB08933",
+   "predicted": "pityriasis versicolor",
+   "approved_use": "JP label: tinea, candidiasis, pityriasis versicolor",
+   "relation": "同一疾病",
+   "relation_note_en": "same (JP)",
+   "approved_countries": {
+    "approved_in_sites": [
+     "JpTxGNN"
+    ],
+    "why": "汗斑（癜風）只見於日本仿單；美國 Luzu 只有足／股／體癬"
+   },
+   "source": {
+    "kind": "日本添付文書（KEGG MEDICUS／JAPIC）",
+    "url": "https://www.kegg.jp/medicus-bin/japic_med?japic_code=00061378",
+    "document": "JAPIC 添付文書 ルリコン",
+    "quote": "本剤の成分に対し過敏症の既往歴のある患者 4. 効能または効果 下記の皮膚真菌症の治療 ○ 白癬 足 白癬 、体部 白癬 、股部 白癬 ○ カンジダ症 指間びらん症、間擦疹 ○ 癜風 6. 用法及び用量 1日1回患部に塗布する。 9. 特定の背景を有する患者に関する注意 9.5 妊婦 妊婦又は妊娠している可能性のある女性には、治療上の有益性が危険性を上回ると判",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 5
+  },
+  {
+   "drug": "magnesium sulfate",
+   "drugbank_id": "DB00653",
+   "predicted": "toxemia of pregnancy",
+   "approved_use": "prevention/control of seizures in pre-eclampsia and eclampsia",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5a18118e-6370-4473-adb2-084d66667ebc",
+    "document": "MAGNESIUM SULFATE (MAGNESIUM SULFATE HEPTAHYDRATE) INJECTION, SOLUTION [SQUARE PHARMACEUTICALS PLC.]",
+    "quote": "gnesium sulfate injection is also indicated for the prevention and control of seizures in pre-eclampsia and eclampsia, respectively. <code code=\"",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 9
+  },
+  {
+   "drug": "margetuximab",
+   "drugbank_id": "DB14967",
+   "predicted": "HER2 positive breast carcinoma",
+   "approved_use": "HER2-positive metastatic breast cancer",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6a6d50c7-06ea-479c-83cc-f197a9e428c9",
+    "document": "MARGENZA (MARGETUXIMAB-CMKB) INJECTION, SOLUTION, CONCENTRATE [TERSERA THERAPEUTICS LLC]",
+    "quote": "ed, in combination with chemotherapy, for the treatment of adult patients with metastatic HER2-positive breast cancer who have received two or more prior anti-HER2 regimens, at least one of whi",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 1
+  },
+  {
+   "drug": "mechlorethamine",
+   "drugbank_id": "DB00888",
+   "predicted": "lymph node cancer",
+   "approved_use": "Hodgkin disease, lymphosarcoma",
+   "relation": "上位概念（已核准者為其下位）",
+   "relation_note_en": "supertype",
+   "source": null,
+   "source_pending": true,
+   "source_tried": [
+    "dailymed:mechlorethamine",
+    "dailymed:mustargen"
+   ],
+   "inventory_rows": 3
+  },
+  {
+   "drug": "medazepam",
+   "drugbank_id": null,
+   "predicted": "anxiety",
+   "approved_use": "anxiety",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": null,
+   "source_pending": true,
+   "source_tried": [],
+   "inventory_rows": 1
+  },
+  {
+   "drug": "medroxyprogesterone acetate",
+   "drugbank_id": "DB00603",
+   "predicted": "amenorrhea (disease)",
+   "approved_use": "secondary amenorrhea",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a586be28-96af-4fed-a13f-9b94fd4c7405",
+    "document": "PROVERA (MEDROXYPROGESTERONE ACETATE) TABLET [PHARMACIA & UPJOHN COMPANY LLC]",
+    "quote": "USAGE SECTION\"/> INDICATIONS AND USAGE PROVERA tablets are indicated for the treatment of secondary amenorrhea and abnormal uterine bleeding due to hormonal imbalance in the absence of organic patholo",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 14
+  },
+  {
+   "drug": "mefenamic acid",
+   "drugbank_id": "DB00784",
+   "predicted": "rheumatoid arthritis",
+   "approved_use": "UK SmPC (Ponstan): rheumatoid arthritis incl. Still's disease, osteoarthritis",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "approved_countries": {
+    "approved_in_sites": [
+     "UkTxGNN"
+    ],
+    "why": "RA 只見於英國 Ponstan SmPC"
+   },
+   "source": {
+    "kind": "UK SmPC (emc)",
+    "url": "https://www.medicines.org.uk/emc/product/1598/smpc",
+    "document": "Ponstan Capsules 250mg - Summary of Product Characteristics (SmPC) - (emc) | 1598",
+    "quote": "activity. Indications 1. As an anti-inflammatory analgesic for the symptomatic relief of rheumatoid arthritis (including Still's Disease), osteoarthritis, and pain including muscular, traumatic and d",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 15
+  },
+  {
+   "drug": "meropenem",
+   "drugbank_id": "DB00760",
+   "predicted": "Peptostreptococcus infectious disease",
+   "approved_use": "complicated intra-abdominal infections incl. Peptostreptococcus spp.",
+   "relation": "其他（見英文備註）",
+   "relation_note_en": "pathogen listed on label",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=58e165b7-e230-4459-abf9-06d5ca1dd7b2",
+    "document": "MEROPENEM INJECTION [BROOKS STERISCIENCE LIMITED]",
+    "quote": "), Pseudomonas aeruginosa, Escherichia coli, Proteus mirabilis, Bacteroides fragilis, and Peptostreptococcus species. 1.2 Complicated Intra-abdominal Infections (Adult and Pediatric Patients) Merope",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 20
+  },
+  {
+   "drug": "meropenem",
+   "drugbank_id": "DB00760",
+   "predicted": "staphylococcus aureus infection",
+   "approved_use": "cSSSI caused by S. aureus (methicillin-susceptible)",
+   "relation": "其他（見英文備註）",
+   "relation_note_en": "pathogen listed on label",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=58e165b7-e230-4459-abf9-06d5ca1dd7b2",
+    "document": "MEROPENEM INJECTION [BROOKS STERISCIENCE LIMITED]",
+    "quote": "icated for the treatment of complicated skin and skin structure infections (cSSSI) due to Staphylococcus aureus (methicillin-susceptible isolates only), Streptococcus pyogenes, Streptococcus agalactiae",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 20
+  },
+  {
+   "drug": "methotrimeprazine",
+   "drugbank_id": null,
+   "predicted": "schizophrenia",
+   "approved_use": "schizophrenia / psychoses (levomepromazine)",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": {
+    "kind": "UK SmPC (emc)",
+    "url": "https://www.medicines.org.uk/emc/product/1429/smpc",
+    "document": "Nozinan 25 mg Tablets - Summary of Product Characteristics (SmPC) - (emc) | 1429",
+    "quote": "d in the relief of severe chronic pain. Psychiatry As an alternative to chlorpromazine in schizophrenia especially when it is desirable to reduce psychomotor activity. General medicine – Termi",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 1
+  },
+  {
+   "drug": "methylprednisolone",
+   "drugbank_id": "DB00959",
+   "predicted": "alopecia areata",
+   "approved_use": "intralesional acetate injection (Depo-Medrol): alopecia areata",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=95ec0e75-6b5d-4320-8f23-3d6229216ca8",
+    "document": "DEPO-MEDROL (METHYLPREDNISOLONE ACETATE) INJECTION, SUSPENSION [SPORTPHARM LLC]",
+    "quote": "is. C. For Intralesional Administration DEPO-MEDROL is indicated for intralesional use in alopecia areata, discoid lupus erythematosus; keloids, localized hypertrophic, infiltrated inflammatory l",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 21
+  },
+  {
+   "drug": "methysergide",
+   "drugbank_id": null,
+   "predicted": "migraine disorder",
+   "approved_use": "migraine prophylaxis (vascular headache prophylaxis)",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": null,
+   "source_pending": true,
+   "source_tried": [
+    "emc:methysergide",
+    "emc:deseril"
+   ],
+   "inventory_rows": 1
+  },
+  {
+   "drug": "mitomycin",
+   "drugbank_id": "DB00305",
+   "predicted": "malignant exocrine pancreas neoplasm",
+   "approved_use": "disseminated adenocarcinoma of stomach or pancreas",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9dd0e3f2-0938-4c57-8d09-040b5405b44f",
+    "document": "MITOMYCIN INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [MEITHEAL PHARMACEUTICALS INC.]",
+    "quote": "s been shown to be useful in the therapy of disseminated adenocarcinoma of the stomach or pancreas in proven combinations with other approved chemotherapeutic agents and as palliative tre",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 13
+  },
+  {
+   "drug": "mitomycin",
+   "drugbank_id": "DB00305",
+   "predicted": "pancreatic intraductal papillary-mucinous carcinoma",
+   "approved_use": "disseminated adenocarcinoma of pancreas",
+   "relation": "下位／亞型",
+   "relation_note_en": "subtype",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9dd0e3f2-0938-4c57-8d09-040b5405b44f",
+    "document": "MITOMYCIN INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [MEITHEAL PHARMACEUTICALS INC.]",
+    "quote": "s been shown to be useful in the therapy of disseminated adenocarcinoma of the stomach or pancreas in proven combinations with other approved chemotherapeutic agents and as palliative tre",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 13
+  },
+  {
+   "drug": "mitomycin",
+   "drugbank_id": "DB00305",
+   "predicted": "pancreatic signet ring cell adenocarcinoma",
+   "approved_use": "disseminated adenocarcinoma of pancreas",
+   "relation": "下位／亞型",
+   "relation_note_en": "subtype",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=9dd0e3f2-0938-4c57-8d09-040b5405b44f",
+    "document": "MITOMYCIN INJECTION, POWDER, LYOPHILIZED, FOR SOLUTION [MEITHEAL PHARMACEUTICALS INC.]",
+    "quote": "s been shown to be useful in the therapy of disseminated adenocarcinoma of the stomach or pancreas in proven combinations with other approved chemotherapeutic agents and as palliative tre",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 13
+  },
+  {
+   "drug": "montelukast",
+   "drugbank_id": "DB00471",
+   "predicted": "obstructive lung disease",
+   "approved_use": "asthma and/or COPD",
+   "relation": "上位概念（已核准者為其下位）",
+   "relation_note_en": "supertype",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=482dcc92-b47f-4ea6-854a-f5ac2aea7842",
+    "document": "SINGULAIR (MONTELUKAST SODIUM) GRANULE SINGULAIR (MONTELUKAST SODIUM) TABLET, CHEWABLE SINGULAIR (MONTELUKAST SODIUM) TA",
+    "quote": "is a leukotriene receptor antagonist indicated for: Prophylaxis and chronic treatment of asthma in patients 12 months of age and older ( 1.1 ). Acute prevention of exercise-induced bron",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 21
+  },
+  {
+   "drug": "natamycin",
+   "drugbank_id": "DB00826",
+   "predicted": "candidiasis",
+   "approved_use": "candidiasis (oral/vaginal/cutaneous)",
+   "relation": "上位概念（已核准者為其下位）",
+   "relation_note_en": "supertype",
+   "approved_countries": {
+    "not_approved_in_sites": [
+     "UsTxGNN"
+    ],
+    "why": "陰道念珠菌（陰道錠）只在部分國家核准；美國只有眼用 Natacyn"
+   },
+   "source": null,
+   "source_pending": true,
+   "source_tried": [],
+   "inventory_rows": 7
+  },
+  {
+   "drug": "natamycin",
+   "drugbank_id": "DB00826",
+   "predicted": "vaginitis (disease)",
+   "approved_use": "vaginal candidiasis",
+   "relation": "上位概念（已核准者為其下位）",
+   "relation_note_en": "supertype",
+   "approved_countries": {
+    "not_approved_in_sites": [
+     "UsTxGNN"
+    ],
+    "why": "陰道念珠菌（陰道錠）只在部分國家核准；美國只有眼用 Natacyn"
+   },
+   "source": null,
+   "source_pending": true,
+   "source_tried": [],
+   "inventory_rows": 7
+  },
+  {
+   "drug": "natamycin",
+   "drugbank_id": "DB00826",
+   "predicted": "vulvovaginal candidiasis",
+   "approved_use": "vaginal candidiasis (vaginal tablets, some countries)",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "approved_countries": {
+    "not_approved_in_sites": [
+     "UsTxGNN"
+    ],
+    "why": "陰道念珠菌（陰道錠）只在部分國家核准；美國只有眼用 Natacyn"
+   },
+   "source": null,
+   "source_pending": true,
+   "source_tried": [],
+   "inventory_rows": 7
+  },
+  {
+   "drug": "natamycin",
+   "drugbank_id": "DB00826",
+   "predicted": "vulvovaginitis",
+   "approved_use": "vaginal candidiasis",
+   "relation": "上位概念（已核准者為其下位）",
+   "relation_note_en": "supertype",
+   "approved_countries": {
+    "not_approved_in_sites": [
+     "UsTxGNN"
+    ],
+    "why": "陰道念珠菌（陰道錠）只在部分國家核准；美國只有眼用 Natacyn"
+   },
+   "source": null,
+   "source_pending": true,
+   "source_tried": [],
+   "inventory_rows": 7
+  },
+  {
+   "drug": "nordazepam",
+   "drugbank_id": null,
+   "predicted": "anxiety",
+   "approved_use": "anxiety",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": null,
+   "source_pending": true,
+   "source_tried": [],
+   "inventory_rows": 1
+  },
+  {
+   "drug": "norethisterone",
+   "drugbank_id": "DB00717",
+   "predicted": "amenorrhea (disease)",
+   "approved_use": "secondary amenorrhea",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=26130af6-221b-2349-81b6-0c0132d6e524",
+    "document": "GALLIFREY (NORETHINDRONE ACETATE) TABLET [XIROMED LLC]",
+    "quote": "ey (Norethindrone Acetate Tablets, USP), 5 mg Gallifrey is indicated for the treatment of secondary amenorrhea, endometriosis, and abnormal uterine bleeding due to hormonal imbalance in the absence of",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 22
+  },
+  {
+   "drug": "nystatin",
+   "drugbank_id": "DB00646",
+   "predicted": "vulvovaginitis",
+   "approved_use": "vaginal candidiasis",
+   "relation": "上位概念（已核准者為其下位）",
+   "relation_note_en": "supertype",
+   "source": null,
+   "source_pending": true,
+   "source_tried": [
+    "emc:nystatin pessaries",
+    "dailymed:nystatin vaginal"
+   ],
+   "inventory_rows": 23
+  },
+  {
+   "drug": "olodaterol",
+   "drugbank_id": "DB09080",
+   "predicted": "bronchitis",
+   "approved_use": "COPD incl. chronic bronchitis and emphysema",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5d9a5433-857e-44ea-b3d6-2a400ca0cef5",
+    "document": "STRIVERDI RESPIMAT (OLODATEROL RESPIMAT INHALATION SPRAY) SPRAY, METERED [BOEHRINGER INGELHEIM PHARMACEUTICALS, INC.]",
+    "quote": "flow obstruction in patients with chronic obstructive pulmonary disease (COPD), including chronic bronchitis and/or emphysema. ( 1.1 ) Important limitations: STRIVERDI RESPIMAT is NOT indicated to t",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 14
+  },
+  {
+   "drug": "omalizumab",
+   "drugbank_id": "DB00043",
+   "predicted": "obstructive lung disease",
+   "approved_use": "asthma and/or COPD",
+   "relation": "上位概念（已核准者為其下位）",
+   "relation_note_en": "supertype",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7f6a2191-adfb-48b9-9bfa-0d9920479f0d",
+    "document": "XOLAIR (OMALIZUMAB) INJECTION, SOLUTION XOLAIR PFS (OMALIZUMAB) INJECTION, SOLUTION XOLAIR (OMALIZUMAB) INJECTION, SOLUT",
+    "quote": "ONS AND USAGE XOLAIR is an anti-IgE antibody indicated for: Moderate to severe persistent asthma in adults and pediatric patients 6 years of age and older with a positive skin test or in",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 21
+  },
+  {
+   "drug": "orciprenaline",
+   "drugbank_id": "DB00816",
+   "predicted": "obstructive lung disease",
+   "approved_use": "asthma and/or COPD",
+   "relation": "上位概念（已核准者為其下位）",
+   "relation_note_en": "supertype",
+   "source": null,
+   "source_pending": true,
+   "source_tried": [
+    "dailymed:metaproterenol sulfate",
+    "dailymed:metaproterenol"
+   ],
+   "inventory_rows": 1
+  },
+  {
+   "drug": "oteracil",
+   "drugbank_id": "DB03209",
+   "predicted": "colonic neoplasm",
+   "approved_use": "S-1: gastric cancer; colorectal cancer in JP",
+   "relation": "上位概念（已核准者為其下位）",
+   "relation_note_en": "supertype",
+   "approved_countries": {
+    "approved_in_sites": [
+     "JpTxGNN"
+    ],
+    "why": "S-1 的大腸直腸癌適應症只在日本"
+   },
+   "source": {
+    "kind": "日本添付文書（KEGG MEDICUS／JAPIC）",
+    "url": "https://www.kegg.jp/medicus-bin/japic_med?japic_code=00061730",
+    "document": "JAPIC 添付文書 ティーエスワン",
+    "quote": "2.6 フルシトシンを投与中の患者［ 1.4 、 10.1 、 16.7 参照］ 2.7 妊婦又は妊娠している可能性のある女性［ 9.5 参照］ 4. 効能または効果 胃癌 、 結腸・直腸癌 、 頭頸部癌 、 非小細胞肺癌 、手術不能又は再発 乳癌 、 膵癌 、胆道癌、ホルモン受容体陽性かつHER2陰性で再発高リスクの 乳癌 における術後薬物療法 5. 効能または効果",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "note": "只以 S-1（tegafur/gimeracil/oteracil）複方核准",
+   "inventory_rows": 11
+  },
+  {
+   "drug": "oxyphenbutazone",
+   "drugbank_id": "DB03585",
+   "predicted": "gout",
+   "approved_use": "acute gouty arthritis (historic labels)",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": null,
+   "source_pending": true,
+   "source_tried": [],
+   "inventory_rows": 1
+  },
+  {
+   "drug": "oxyphenbutazone",
+   "drugbank_id": "DB03585",
+   "predicted": "rheumatoid arthritis",
+   "approved_use": "rheumatoid arthritis / rheumatic disorders (historic labels)",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": null,
+   "source_pending": true,
+   "source_tried": [],
+   "inventory_rows": 1
+  },
+  {
+   "drug": "phenindione",
+   "drugbank_id": "DB00498",
+   "predicted": "thrombotic disease",
+   "approved_use": "prophylaxis/treatment of thromboembolic disorders",
+   "relation": "上位概念（已核准者為其下位）",
+   "relation_note_en": "supertype",
+   "source": {
+    "kind": "UK SmPC (emc)",
+    "url": "https://www.medicines.org.uk/emc/product/15269/smpc",
+    "document": "Dindevan 10mg Tablets - Summary of Product Characteristics (SmPC) - (emc) | 15269",
+    "quote": "ophylaxis after insertion of prosthetic heart valves. Prophylaxis and treatment of venous thrombosis and pulmonary embolism.",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 2
+  },
+  {
+   "drug": "phenylbutazone",
+   "drugbank_id": null,
+   "predicted": "gout",
+   "approved_use": "acute gouty arthritis (historic labels)",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": null,
+   "source_pending": true,
+   "source_tried": [],
+   "inventory_rows": 4
+  },
+  {
+   "drug": "phenylbutazone",
+   "drugbank_id": null,
+   "predicted": "rheumatoid arthritis",
+   "approved_use": "rheumatoid arthritis / rheumatic disorders (historic labels; ankylosing spondylitis)",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": null,
+   "source_pending": true,
+   "source_tried": [],
+   "inventory_rows": 4
+  },
+  {
+   "drug": "pinazepam",
+   "drugbank_id": null,
+   "predicted": "anxiety",
+   "approved_use": "anxiety",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": {
+    "kind": "AEMPS ficha técnica (CIMA)",
+    "url": "https://cima.aemps.es/cima/dochtml/ft/53886/FT_53886.html",
+    "document": "CIMA DUNA 10 mg cápsulas duras (53886)",
+    "quote": "Ansiedad: En todos los estados de ansiedad y tensión de origen psiconeurótico, depresivo, involuti",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 3
+  },
+  {
+   "drug": "potassium citrate",
+   "drugbank_id": "DB09125",
+   "predicted": "nephrolithiasis",
+   "approved_use": "hypocitraturic calcium oxalate nephrolithiasis, uric acid lithiasis, RTA with stones",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=72cdea1b-2240-41db-987d-86d5c6aaa978",
+    "document": "UROCIT-K (POTASSIUM CITRATE) TABLET, EXTENDED RELEASE [MISSION PHARMACAL COMPANY]",
+    "quote": "renal tubular acidosis [see Clinical Studies (14.1)]. 1.2 Hypocitraturic Calcium Oxalate Nephrolithiasis of any Etiology Potassium citrate is indicated for the management of Hypocitraturic calci",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 8
+  },
+  {
+   "drug": "prednisone",
+   "drugbank_id": "DB00635",
+   "predicted": "tenosynovitis",
+   "approved_use": "rheumatic disorders incl. acute nonspecific tenosynovitis",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=6b360c1f-c862-47ee-a40e-3903c2d6162f",
+    "document": "PREDNISONE TABLETS, USP, 20 MG (PREDNISONE) TABLET [PD-RX PHARMACEUTICALS, INC.]",
+    "quote": "maintenance therapy) Ankylosing spondylitis Acute and subacute bursitis Acute nonspecific tenosynovitis Acute gouty arthritis Post-traumatic osteoarthritis Synovitis of osteoarthritis Epicondyl",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 17
+  },
+  {
+   "drug": "progesterone",
+   "drugbank_id": "DB00396",
+   "predicted": "amenorrhea (disease)",
+   "approved_use": "secondary amenorrhea",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1cf237ff-c4f8-4faa-a7aa-77599c856889",
+    "document": "PROMETRIUM (PROGESTERONE) CAPSULE [ACERTIS PHARMACEUTICALS, LLC]",
+    "quote": "are receiving conjugated estrogens tablets. They are also indicated for use in secondary amenorrhea. <code code=\"",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 21
+  },
+  {
+   "drug": "riluzole",
+   "drugbank_id": "DB00740",
+   "predicted": "amyotrohpic lateral sclerosis type 22",
+   "approved_use": "amyotrophic lateral sclerosis",
+   "relation": "下位／亞型",
+   "relation_note_en": "genetic subtype of ALS",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ccead445-970c-46a1-9532-2848cc2aa3b6",
+    "document": "RILUZOLE TABLET, FILM COATED [FLORIDA PHARMACEUTICAL PRODUCTS, LLC]",
+    "quote": "AGE SECTION\"/> 1 INDICATIONS AND USAGE Riluzole tablets is indicated for the treatment of amyotrophic lateral sclerosis (ALS). Riluzole tablets is indicated for the treatment of amyotrophic lateral sclerosis (",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 24
+  },
+  {
+   "drug": "risperidone",
+   "drugbank_id": "DB00734",
+   "predicted": "major affective disorder",
+   "approved_use": "bipolar mania",
+   "relation": "上位概念（已核准者為其下位）",
+   "relation_note_en": "supertype",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7e117c7e-02fc-4343-92a1-230061dfc5e0",
+    "document": "RISPERDAL (RISPERIDONE) TABLET RISPERDAL M-TAB (RISPERIDONE) TABLET, ORALLY DISINTEGRATING RISPERDAL (RISPERIDONE) SOLUT",
+    "quote": "lithium or valproate, for the treatment of acute manic or mixed episodes associated with Bipolar I Disorder ( 1.2 ) Treatment of irritability associated with autistic disorder ( 1.3 ) 1.",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 27
+  },
+  {
+   "drug": "salbutamol",
+   "drugbank_id": "DB01001",
+   "predicted": "bronchitis",
+   "approved_use": "bronchospasm in reversible obstructive airway disease incl. asthma, chronic bronchitis, emphysema",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": null,
+   "source_pending": true,
+   "source_tried": [
+    "emc:salbutamol"
+   ],
+   "inventory_rows": 22
+  },
+  {
+   "drug": "salmeterol",
+   "drugbank_id": "DB00938",
+   "predicted": "bronchitis",
+   "approved_use": "COPD incl. chronic bronchitis and emphysema",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=12d9728e-6b5c-4aee-bfb0-745e542ed2e4",
+    "document": "SEREVENT DISKUS (SALMETEROL XINAFOATE) POWDER, METERED [GLAXOSMITHKLINE LLC]",
+    "quote": "s aged 4 years and older. ( 1.2 ) • Maintenance treatment of bronchospasm associated with chronic obstructive pulmonary disease (COPD). ( 1.3 ) Important limitation of use: Not indicated for relief o",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 22
+  },
+  {
+   "drug": "salmeterol",
+   "drugbank_id": "DB00938",
+   "predicted": "obstructive lung disease",
+   "approved_use": "asthma and/or COPD",
+   "relation": "上位概念（已核准者為其下位）",
+   "relation_note_en": "supertype",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=12d9728e-6b5c-4aee-bfb0-745e542ed2e4",
+    "document": "SEREVENT DISKUS (SALMETEROL XINAFOATE) POWDER, METERED [GLAXOSMITHKLINE LLC]",
+    "quote": "ECTION\"/> 1 INDICATIONS AND USAGE SEREVENT DISKUS is a LABA indicated for: • Treatment of asthma in patients aged 4 years and older with an ICS. ( 1.1 ) • Prevention of exercise-induced",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 23
+  },
+  {
+   "drug": "sapropterin",
+   "drugbank_id": null,
+   "predicted": "hyperphenylalaninemia due to tetrahydrobiopterin deficiency",
+   "approved_use": "EU: HPA in BH4 deficiency; BH4-responsive PKU",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "approved_countries": {
+    "approved_in_sites": [
+     "EuTxGNN",
+     "DETxGNN",
+     "DkTxGNN",
+     "ESTxGNN",
+     "FITxGNN",
+     "FRTxGNN",
+     "ITTxGNN",
+     "NlTxGNN",
+     "SETxGNN",
+     "NOTxGNN"
+    ],
+    "why": "BH4 缺乏症的高苯丙胺酸血症在歐盟核准；美國只核准 BH4 反應型 PKU"
+   },
+   "source": {
+    "kind": "EMA EPAR",
+    "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/kuvan",
+    "document": "EMA EPAR kuvan",
+    "quote": "ne in adults and children of all ages with the genetic disorders phenylketonuria (PKU) or tetrahydrobiopterin (BH4) deficiency. Patients with these disorders cannot process the amino acid phenylalanine from dietary p",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 5
+  },
+  {
+   "drug": "sebelipase alfa",
+   "drugbank_id": "DB11563",
+   "predicted": "cholesteryl ester storage disease",
+   "approved_use": "lysosomal acid lipase deficiency (Wolman disease / CESD)",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=83a77b9d-42f0-4645-8420-786285da7326",
+    "document": "KANUMA (SEBELIPASE ALFA) INJECTION, SOLUTION, CONCENTRATE [ALEXION PHARMACEUTICALS INC.]",
+    "quote": "CATIONS AND USAGE KANUMA ® is indicated for the treatment of patients with a diagnosis of Lysosomal Acid Lipase (LAL) deficiency. KANUMA ® is a hydrolytic lysosomal cholesteryl ester and triacylglycero",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 11
+  },
+  {
+   "drug": "secnidazole",
+   "drugbank_id": "DB12834",
+   "predicted": "trichomonal vulvovaginitis",
+   "approved_use": "trichomoniasis; bacterial vaginosis",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=056485b6-8bba-4a21-ae00-cdb4e7ae4bfa",
+    "document": "SOLOSEC (SECNIDAZOLE) GRANULE [EVOFEM INC.]",
+    "quote": "of bacterial vaginosis in female patients 12 years of age and older. ( 1.1 ) Treatment of trichomoniasis in patients 12 years of age and older. ( 1.2 ) To reduce the development of drug-resistan",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 7
+  },
+  {
+   "drug": "sertaconazole",
+   "drugbank_id": "DB01153",
+   "predicted": "pityriasis versicolor",
+   "approved_use": "EU SmPC: cutaneous mycoses incl. pityriasis versicolor",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "approved_countries": {
+    "approved_in_sites": [
+     "ESTxGNN",
+     "FRTxGNN"
+    ],
+    "why": "汗斑見於西班牙／法國 SmPC；其他站未確認"
+   },
+   "source": {
+    "kind": "AEMPS ficha técnica (CIMA)",
+    "url": "https://cima.aemps.es/cima/dochtml/ft/59078/FT_59078.html",
+    "document": "CIMA DERMOFIX 20 MG/G CREMA (59078)",
+    "quote": "a corporis, tinea cruris, tinea manus, tinea barbae y tinea pedis), candidiasis cutáneas, pitiriasis versicolor. Se deben tener en cuenta las recomendaciones oficiales sobre el uso adecuado de antifúng",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 7
+  },
+  {
+   "drug": "sertraline",
+   "drugbank_id": "DB01104",
+   "predicted": "agoraphobia",
+   "approved_use": "panic disorder with or without agoraphobia",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c3b0b1f8-abfd-4054-8645-fd076305f4f8",
+    "document": "ZOLOFT (SERTRALINE HYDROCHLORIDE) TABLET, FILM COATED [STAT RX USA LLC]",
+    "quote": "sorder ZOLOFT is indicated for the treatment of panic disorder in adults, with or without agoraphobia, as defined in DSM-IV. Panic disorder is characterized by the occurrence of unexpected pa",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 19
+  },
+  {
+   "drug": "sirolimus",
+   "drugbank_id": "DB00877",
+   "predicted": "lymphangiomyoma",
+   "approved_use": "lymphangioleiomyomatosis",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=09f24e7a-0bea-4e02-b557-c60eb842d41a",
+    "document": "SIROLIMUS TABLET, FILM COATED [REMEDYREPACK INC.]",
+    "quote": "1.2 , 14.3 ). Sirolimus is an mTOR inhibitor indicated for the treatment of patients with lymphangioleiomyomatosis ( 1.3 ). 1.1 Prophylaxis of Organ Rejection in Renal Transplantation Sirolimus tablets ar",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 21
+  },
+  {
+   "drug": "stanozolol",
+   "drugbank_id": "DB06718",
+   "predicted": "C1 inhibitor deficiency",
+   "approved_use": "hereditary angioedema prophylaxis (historic US label)",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": null,
+   "source_pending": true,
+   "source_tried": [],
+   "inventory_rows": 2
+  },
+  {
+   "drug": "talimogene laherparepvec",
+   "drugbank_id": "DB13896",
+   "predicted": "CMM7",
+   "approved_use": "unresectable cutaneous melanoma",
+   "relation": "下位／亞型",
+   "relation_note_en": "subtype (hereditary cutaneous melanoma)",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=64ffb680-ea8c-42fc-9649-9e8c0eb77ddb",
+    "document": "IMLYGIC (TALIMOGENE LAHERPAREPVEC) INJECTION, SUSPENSION [AMGEN INC]",
+    "quote": "cal treatment of unresectable cutaneous, subcutaneous, and nodal lesions in patients with melanoma recurrent after initial surgery. Limitations of use : IMLYGIC has not been shown to impro",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 6
+  },
+  {
+   "drug": "tecovirimat",
+   "drugbank_id": "DB12020",
+   "predicted": "human infection by orthopoxvirus",
+   "approved_use": "smallpox; EU: mpox, cowpox",
+   "relation": "上位概念（已核准者為其下位）",
+   "relation_note_en": "supertype",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fce826ab-4d6a-4139-a2ee-a304a913a253",
+    "document": "TPOXX (TECOVIRIMAT MONOHYDRATE) INJECTION, SOLUTION, CONCENTRATE TPOXX (TECOVIRIMAT MONOHYDRATE) CAPSULE [SIGA TECHNOLOG",
+    "quote": "orthopoxvirus VP37 envelope wrapping protein and is indicated for the treatment of human smallpox disease in adults and pediatric patients weighing at least 3 kg. ( 1.1 ) Limitations of U",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 1
+  },
+  {
+   "drug": "tegafur",
+   "drugbank_id": "DB09256",
+   "predicted": "colonic neoplasm",
+   "approved_use": "colorectal cancer (UFT, S-1 in JP)",
+   "relation": "上位概念（已核准者為其下位）",
+   "relation_note_en": "supertype",
+   "source": {
+    "kind": "AEMPS ficha técnica (CIMA)",
+    "url": "https://cima.aemps.es/cima/dochtml/ft/54192/FT_54192.html",
+    "document": "CIMA UTEFOS 400 mg CAPSULAS DURAS (54192)",
+    "quote": "Tratamiento del cáncer colorrectal, cáncer gástrico y tumores gastrointestinales avanzado o recurrente (incluyendo esófago y",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "note": "出處為西班牙 tegafur 單方（Utefos）；tegafur-uracil／S-1 另有核准",
+   "inventory_rows": 14
+  },
+  {
+   "drug": "tegafur",
+   "drugbank_id": "DB09256",
+   "predicted": "rectosigmoid junction neoplasm",
+   "approved_use": "colorectal cancer",
+   "relation": "下位／亞型",
+   "relation_note_en": "subtype by site",
+   "source": {
+    "kind": "AEMPS ficha técnica (CIMA)",
+    "url": "https://cima.aemps.es/cima/dochtml/ft/54192/FT_54192.html",
+    "document": "CIMA UTEFOS 400 mg CAPSULAS DURAS (54192)",
+    "quote": "Tratamiento del cáncer colorrectal, cáncer gástrico y tumores gastrointestinales avanzado o recurrente (incluyendo esófago y",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "note": "出處為西班牙 tegafur 單方（Utefos）",
+   "inventory_rows": 14
+  },
+  {
+   "drug": "terbutaline",
+   "drugbank_id": "DB00871",
+   "predicted": "obstructive lung disease",
+   "approved_use": "asthma and/or COPD",
+   "relation": "上位概念（已核准者為其下位）",
+   "relation_note_en": "supertype",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=859267c6-3d14-4123-9b9d-4fc248f09726",
+    "document": "TERBUTALINE SULFATE TABLET [CHARTWELL RX, LLC.]",
+    "quote": "INDICATIONS AND USAGE Terbutaline sulfate is indicated for the prevention and reversal of bronchospasm in patients 12 years of age and older with asthma and reversible bronchospasm associated",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 17
+  },
+  {
+   "drug": "terconazole",
+   "drugbank_id": "DB00251",
+   "predicted": "vaginitis (disease)",
+   "approved_use": "vulvovaginal candidiasis",
+   "relation": "上位概念（已核准者為其下位）",
+   "relation_note_en": "supertype",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=207e9cf2-e8ec-43d7-9c11-46283c9cdb37",
+    "document": "TERCONAZOLE SUPPOSITORY [PADAGIS ISRAEL PHARMACEUTICALS LTD]",
+    "quote": "D USAGE Terconazole Vaginal Suppositories, 80 mg are indicated for the local treatment of vulvovaginal candidiasis (moniliasis). As this product is effective only for vulvovaginitis caused by the genus Ca",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 3
+  },
+  {
+   "drug": "terconazole",
+   "drugbank_id": "DB00251",
+   "predicted": "vulvovaginitis",
+   "approved_use": "vulvovaginal candidiasis",
+   "relation": "上位概念（已核准者為其下位）",
+   "relation_note_en": "supertype",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=207e9cf2-e8ec-43d7-9c11-46283c9cdb37",
+    "document": "TERCONAZOLE SUPPOSITORY [PADAGIS ISRAEL PHARMACEUTICALS LTD]",
+    "quote": "D USAGE Terconazole Vaginal Suppositories, 80 mg are indicated for the local treatment of vulvovaginal candidiasis (moniliasis). As this product is effective only for vulvovaginitis caused by the genus Ca",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 3
+  },
+  {
+   "drug": "tioconazole",
+   "drugbank_id": "DB01007",
+   "predicted": "vulvovaginitis",
+   "approved_use": "vulvovaginal candidiasis",
+   "relation": "上位概念（已核准者為其下位）",
+   "relation_note_en": "supertype",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=587e42b4-cbdc-4a03-afae-f9e5e6605937",
+    "document": "MONISTAT TIOCONAZOLE 1 (TIOCONAZOLE) OINTMENT [INSIGHT PHARMACEUTICALS LLC]",
+    "quote": "odeSystem=\"2.16.840.1.113883.6.1\" displayName=\"INDICATIONS & USAGE SECTION\"/> Uses treats vaginal yeast infections <code code=\"",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 9
+  },
+  {
+   "drug": "tiotropium",
+   "drugbank_id": "DB01409",
+   "predicted": "obstructive lung disease",
+   "approved_use": "asthma and/or COPD",
+   "relation": "上位概念（已核准者為其下位）",
+   "relation_note_en": "supertype",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=7b656b14-fcaa-2741-f6f0-e0be48971c02",
+    "document": "SPIRIVA RESPIMAT (TIOTROPIUM BROMIDE INHALATION SPRAY) SPRAY, METERED [BOEHRINGER INGELHEIM PHARMACEUTICALS, INC.]",
+    "quote": "ntenance treatment of bronchospasm associated with chronic obstructive pulmonary disease (COPD), and for reducing COPD exacerbations ( 1.1 ) The long-term, once-daily, maintenance trea",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 16
+  },
+  {
+   "drug": "tipiracil",
+   "drugbank_id": "DB09343",
+   "predicted": "rectosigmoid junction neoplasm",
+   "approved_use": "metastatic colorectal cancer",
+   "relation": "下位／亞型",
+   "relation_note_en": "subtype by site",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f5beed22-d71d-4c0d-8dca-2c7317d65d85",
+    "document": "LONSURF (TRIFLURIDINE AND TIPIRACIL) TABLET, FILM COATED [TAIHO PHARMACEUTICAL CO., LTD.]",
+    "quote": "e phosphorylase inhibitor, indicated for the treatment of adult patients with: metastatic colorectal cancer as a single agent or in combination with bevacizumab who have been previously treated wit",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 14
+  },
+  {
+   "drug": "triclofos",
+   "drugbank_id": "DB06753",
+   "predicted": "insomnia (disease)",
+   "approved_use": "insomnia (short-term hypnotic)",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": null,
+   "source_pending": true,
+   "source_tried": [
+    "emc:triclofos",
+    "emc:triclofos"
+   ],
+   "inventory_rows": 1
+  },
+  {
+   "drug": "triptorelin",
+   "drugbank_id": "DB06825",
+   "predicted": "precocious puberty",
+   "approved_use": "central precocious puberty",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=f41380e7-b830-432d-a5f5-a872932f107e",
+    "document": "TRIPTODUR (TRIPTORELIN) KIT [AZURITY PHARMACEUTICALS, INC.]",
+    "quote": "s indicated for the treatment of pediatric patients 2 years of age and older with central precocious puberty (CPP). TRIPTODUR is a gonadotropin releasing hormone (GnRH) agonist indicated for the tre",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 12
+  },
+  {
+   "drug": "tulobuterol",
+   "drugbank_id": "DB12248",
+   "predicted": "bronchitis",
+   "approved_use": "bronchial asthma, acute and chronic bronchitis, emphysema (JP label)",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": {
+    "kind": "日本添付文書（KEGG MEDICUS／JAPIC）",
+    "url": "https://www.kegg.jp/medicus-bin/japic_med?japic_code=00050979",
+    "document": "JAPIC 添付文書 ホクナリン",
+    "quote": "忌 次の患者には投与しないこと 2.1 本剤の成分に対し過敏症の既往歴のある患者 4. 効能または効果 下記疾患の気道閉塞性障害に基づく呼吸困難など諸症状の緩解 気管支喘息 、急性気管支炎、 慢性気管支炎 、 喘息 性気管支炎、 肺気腫 、珪肺症、塵肺症 5. 効能または効果に関連する注意 ＜気管支喘息＞ 気管支喘息治療における長期管理の基本は、吸入ステロイド剤等の",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 1
+  },
+  {
+   "drug": "tulobuterol",
+   "drugbank_id": "DB12248",
+   "predicted": "obstructive lung disease",
+   "approved_use": "asthma and/or COPD",
+   "relation": "上位概念（已核准者為其下位）",
+   "relation_note_en": "supertype",
+   "source": {
+    "kind": "日本添付文書（KEGG MEDICUS／JAPIC）",
+    "url": "https://www.kegg.jp/medicus-bin/japic_med?japic_code=00050979",
+    "document": "JAPIC 添付文書 ホクナリン",
+    "quote": "9円／ｇ 2. 禁忌 次の患者には投与しないこと 2.1 本剤の成分に対し過敏症の既往歴のある患者 4. 効能または効果 下記疾患の気道閉塞性障害に基づく呼吸困難など諸症状の緩解 気管支喘息 、急性気管支炎、 慢性気管支炎 、 喘息 性気管支炎、 肺気腫 、珪肺症、塵肺症 5. 効能または効果に関連する注意 ＜気管支喘息＞ 気管支喘息治療における長期管理の基本は、吸入",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 2
+  },
+  {
+   "drug": "uracil",
+   "drugbank_id": null,
+   "predicted": "colonic neoplasm",
+   "approved_use": "colorectal cancer (tegafur-uracil)",
+   "relation": "上位概念（已核准者為其下位）",
+   "relation_note_en": "supertype",
+   "source": {
+    "kind": "日本添付文書（KEGG MEDICUS／JAPIC）",
+    "url": "https://www.kegg.jp/medicus-bin/japic_med?japic_code=00057368",
+    "document": "JAPIC 添付文書 ユーエフティ",
+    "quote": "6 妊婦又は妊娠している可能性のある女性［ 9.5 参照］ 4. 効能または効果 ＜テガフール・ウラシル通常療法＞ 次の疾患の自覚的並びに他覚的症状の寛解 頭頸部癌 、 胃癌 、 結腸・直腸癌 、 肝臓癌 、 胆のう・胆管癌 、 膵臓癌 、 肺癌 、 乳癌 、 膀胱癌 、 前立腺癌 、 子宮頸癌 ＜ホリナート・テガフール・ウラシル療法＞ 結腸・直腸癌 5. 効能または効",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "note": "uracil 只以 tegafur-uracil（UFT）複方核准",
+   "inventory_rows": 4
+  },
+  {
+   "drug": "uracil",
+   "drugbank_id": null,
+   "predicted": "gastric carcinoma",
+   "approved_use": "tegafur-uracil (JP): gastric cancer",
+   "relation": "同一疾病",
+   "relation_note_en": "same (JP)",
+   "approved_countries": {
+    "approved_in_sites": [
+     "JpTxGNN"
+    ],
+    "why": "tegafur-uracil 的胃癌適應症見於日本仿單"
+   },
+   "source": {
+    "kind": "日本添付文書（KEGG MEDICUS／JAPIC）",
+    "url": "https://www.kegg.jp/medicus-bin/japic_med?japic_code=00057368",
+    "document": "JAPIC 添付文書 ユーエフティ",
+    "quote": "照］ 2.6 妊婦又は妊娠している可能性のある女性［ 9.5 参照］ 4. 効能または効果 ＜テガフール・ウラシル通常療法＞ 次の疾患の自覚的並びに他覚的症状の寛解 頭頸部癌 、 胃癌 、 結腸・直腸癌 、 肝臓癌 、 胆のう・胆管癌 、 膵臓癌 、 肺癌 、 乳癌 、 膀胱癌 、 前立腺癌 、 子宮頸癌 ＜ホリナート・テガフール・ウラシル療法＞ 結腸・直腸癌",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "note": "uracil 只以 tegafur-uracil（UFT）複方核准",
+   "inventory_rows": 4
+  },
+  {
+   "drug": "uracil",
+   "drugbank_id": null,
+   "predicted": "rectosigmoid junction neoplasm",
+   "approved_use": "colorectal cancer (tegafur-uracil)",
+   "relation": "下位／亞型",
+   "relation_note_en": "subtype by site",
+   "source": {
+    "kind": "日本添付文書（KEGG MEDICUS／JAPIC）",
+    "url": "https://www.kegg.jp/medicus-bin/japic_med?japic_code=00057368",
+    "document": "JAPIC 添付文書 ユーエフティ",
+    "quote": "6 妊婦又は妊娠している可能性のある女性［ 9.5 参照］ 4. 効能または効果 ＜テガフール・ウラシル通常療法＞ 次の疾患の自覚的並びに他覚的症状の寛解 頭頸部癌 、 胃癌 、 結腸・直腸癌 、 肝臓癌 、 胆のう・胆管癌 、 膵臓癌 、 肺癌 、 乳癌 、 膀胱癌 、 前立腺癌 、 子宮頸癌 ＜ホリナート・テガフール・ウラシル療法＞ 結腸・直腸癌 5. 効能または効",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "note": "uracil 只以 tegafur-uracil（UFT）複方核准",
+   "inventory_rows": 4
+  },
+  {
+   "drug": "valbenazine",
+   "drugbank_id": null,
+   "predicted": "extrapyramidal and movement disease",
+   "approved_use": "tardive dyskinesia; Huntington chorea",
+   "relation": "上位概念（已核准者為其下位）",
+   "relation_note_en": "supertype",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4c970164-cafb-421f-9eb5-c226ef0a3417",
+    "document": "INGREZZA (VALBENAZINE) CAPSULE INGREZZA (VALBENAZINE) KIT INGREZZA SPRINKLE (VALBENAZINE) CAPSULE [NEUROCRINE BIOSCIENCE",
+    "quote": "ND USAGE INGREZZA and INGREZZA SPRINKLE are indicated for the treatment of adults with: - tardive dyskinesia [see Clinical Studies ( 14.1 )] . - chorea associated with Huntington’s disease [see Clin",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 2
+  },
+  {
+   "drug": "valdecoxib",
+   "drugbank_id": "DB00580",
+   "predicted": "rheumatoid arthritis",
+   "approved_use": "rheumatoid arthritis, osteoarthritis, primary dysmenorrhea",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": null,
+   "source_pending": true,
+   "source_tried": [],
+   "inventory_rows": 1
+  },
+  {
+   "drug": "vestronidase alfa",
+   "drugbank_id": "DB12366",
+   "predicted": "lysosomal storage disease with skeletal involvement",
+   "approved_use": "mucopolysaccharidosis VII",
+   "relation": "上位概念（已核准者為其下位）",
+   "relation_note_en": "supertype",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=925d4e21-fd98-474d-a34d-a0b3558ed750",
+    "document": "MEPSEVII (VESTRONIDASE ALFA) INJECTION [ULTRAGENYX PHARMACEUTICAL INC.]",
+    "quote": "IONS AND USAGE MEPSEVII is indicated in pediatric and adult patients for the treatment of Mucopolysaccharidosis VII (MPS VII, Sly syndrome). Limitations of Use The effect of MEPSEVII on the central nervous",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 7
+  },
+  {
+   "drug": "viloxazine",
+   "drugbank_id": "DB09185",
+   "predicted": "attention deficit hyperactivity disorder, inattentive type",
+   "approved_use": "ADHD",
+   "relation": "下位／亞型",
+   "relation_note_en": "subtype",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=aedf408d-0f84-418d-9416-7c39ddb0d29a",
+    "document": "QELBREE (VILOXAZINE HYDROCHLORIDE) CAPSULE, EXTENDED RELEASE [SUPERNUS PHARMACEUTICALS, INC]",
+    "quote": "IONS & USAGE SECTION\"/> 1 INDICATIONS AND USAGE Qelbree is indicated for the treatment of Attention-Deficit Hyperactivity Disorder (ADHD) in adults and pediatric patients 6 years and older. Qelbree",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 2
+  },
+  {
+   "drug": "viloxazine",
+   "drugbank_id": "DB09185",
+   "predicted": "attention deficit-hyperactivity disorder",
+   "approved_use": "ADHD",
+   "relation": "同一疾病",
+   "relation_note_en": "same",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=aedf408d-0f84-418d-9416-7c39ddb0d29a",
+    "document": "QELBREE (VILOXAZINE HYDROCHLORIDE) CAPSULE, EXTENDED RELEASE [SUPERNUS PHARMACEUTICALS, INC]",
+    "quote": "IONS & USAGE SECTION\"/> 1 INDICATIONS AND USAGE Qelbree is indicated for the treatment of Attention-Deficit Hyperactivity Disorder (ADHD) in adults and pediatric patients 6 years and older. Qelbree",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 2
+  },
+  {
+   "drug": "vorinostat",
+   "drugbank_id": "DB02546",
+   "predicted": "Sezary syndrome",
+   "approved_use": "cutaneous T-cell lymphoma",
+   "relation": "下位／亞型",
+   "relation_note_en": "subtype",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cd86ee78-2781-468b-930c-3c4677bcc092",
+    "document": "ZOLINZA (VORINOSTAT) CAPSULE [MERCK SHARP & DOHME LLC]",
+    "quote": "AGE ZOLINZA ® is indicated for the treatment of cutaneous manifestations in patients with cutaneous T-cell lymphoma who have progressive, persistent or recurrent disease on or following two systemic therap",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 3
+  },
+  {
+   "drug": "zafirlukast",
+   "drugbank_id": "DB00549",
+   "predicted": "obstructive lung disease",
+   "approved_use": "asthma and/or COPD",
+   "relation": "上位概念（已核准者為其下位）",
+   "relation_note_en": "supertype",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=baba507f-6557-4551-815c-9ab6606e4ee1",
+    "document": "ZAFIRLUKAST TABLET, COATED [STRIDES PHARMA SCIENCE LIMITED]",
+    "quote": "DICATIONS AND USAGE Zafirlukast is indicated for the prophylaxis and chronic treatment of asthma in adults and children 5 years of age and older. <code code=\"",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 4
+  },
+  {
+   "drug": "zileuton",
+   "drugbank_id": "DB00744",
+   "predicted": "obstructive lung disease",
+   "approved_use": "asthma and/or COPD",
+   "relation": "上位概念（已核准者為其下位）",
+   "relation_note_en": "supertype",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=aee65202-fddb-497f-9f11-17cc727cb157",
+    "document": "ZYFLO (ZILEUTON) TABLET [CHIESI USA, INC.]",
+    "quote": "\"/> INDICATIONS AND USAGE ZYFLO is indicated for the prophylaxis and chronic treatment of asthma in adults and children 12 years of age and older. <code code=\"",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 1
+  },
+  {
+   "drug": "ziprasidone",
+   "drugbank_id": "DB00246",
+   "predicted": "major affective disorder",
+   "approved_use": "bipolar mania",
+   "relation": "上位概念（已核准者為其下位）",
+   "relation_note_en": "supertype",
+   "source": {
+    "kind": "US FDA label (DailyMed)",
+    "url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=a3aa96bb-2cc1-4316-b94c-61593e927505",
+    "document": "GEODON (ZIPRASIDONE HYDROCHLORIDE) CAPSULE [REBEL DISTRIBUTORS CORP]",
+    "quote": "s indicated for the treatment of schizophrenia, as monotherapy for the acute treatment of bipolar manic or mixed episodes, and as an adjunct to lithium or valproate for the maintenance tr",
+    "checked": "2026-11-03"
+   },
+   "source_pending": false,
+   "inventory_rows": 12
+  }
+ ]
+}

@@ -63,3 +63,9 @@ def get(proj: str) -> dict:
 
 def all_projects() -> list[str]:
     return sorted(SITES)
+
+
+if __name__ == "__main__":
+    # 給 shell 迴圈用：for proj in $(python3 .claude/site_registry.py); do ...
+    # 排序與 `ls -d *TxGNN | sort`（C locale）相同，但只列 30 站，不含 CnTxGNN 等非站台目錄。
+    print("\n".join(all_projects()))

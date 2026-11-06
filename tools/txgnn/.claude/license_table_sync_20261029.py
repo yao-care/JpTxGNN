@@ -5,6 +5,8 @@
 更新後：狀態欄的格子是某狀態的已知寫法、但許可證現在是另一種狀態 → 換成新狀態的寫法。
 新狀態在該站沒有學到寫法時：用證據包紀錄裡主管機關的原文狀態（pm 2026-10-30：只能用該國官方用語，不跨站借用、不機器翻譯）；
 原文也沒有 → 不改、記在 unsynced（排程 summary 列出、開 issue）。
+用語檔另有 unconfirmed（Za 2026-11-06：狀態未經主管機關確認、照樣算有效的加註寫法）時：事實層 unconfirmed_ids 裡的有效許可維持加註，
+主管機關查得到了就依新狀態換成一般寫法（有效→preferred.valid、註銷→preferred.cancelled）。
 狀態欄＝表頭是 estado／status／statut／状態…的那一欄；許可證號在第一欄。Tw 的許可證表由 tfda 程式產生，不處理。
 用法（母目錄或工作目錄）：
   python3 .claude/license_table_sync_20261029.py learn 站 > labels.json   （用目前的 license_facts）
@@ -113,6 +115,7 @@ def apply(site, lab, dry=False):
         return [], []
     fs = facts(site)
     labels, pref = lab["labels"], lab["preferred"]
+    unc = lab.get("unconfirmed")  # 狀態未經主管機關確認、照樣算有效的寫法（Za 2026-11-06：Valid (status not confirmed by SAHPRA)）
     off = official_text(site)
     changed, unsynced = [], []
     for f in sorted((BASE / site / "docs/_drugs").glob("*.md")):
@@ -124,13 +127,22 @@ def apply(site, lab, dry=False):
         crlf = "\r\n" in raw[:500]
         lines = raw.replace("\r\n", "\n").split("\n")
         ch = False
+        unc_ids = {norm(k) for k in (fc.get("unconfirmed_ids") or [])}
         for i, c, col in list(status_cells(lines)):
             now = lic.get(norm(c[0]))
-            was = labels.get(c[col])
-            if not now or not was or was == now:
+            was = labels.get(c[col]) or ("valid" if unc and c[col] == unc else None)
+            if not now or not was:
                 continue
-            # 本站頁面學到的寫法優先；沒有就用主管機關原文（pm 2026-10-30：只能用該國官方用語，不跨站借、不機器翻譯）
-            want = pref.get(now) or off.get(norm(c[0]))
+            if unc and was == now == "valid":
+                # 加註的有效許可（2026-11-06）：主管機關還查不到→維持加註；查得到且有效→換成一般的有效寫法（查得到且註銷走下面）
+                want = unc if norm(c[0]) in unc_ids else (pref.get("valid") if c[col] == unc else None)
+                if not want or want == c[col]:
+                    continue
+            elif was == now:
+                continue
+            else:
+                # 本站頁面學到的寫法優先；沒有就用主管機關原文（pm 2026-10-30：只能用該國官方用語，不跨站借、不機器翻譯）
+                want = pref.get(now) or off.get(norm(c[0]))
             if not want:
                 unsynced.append(f"{f.stem} {c[0]}：{was}→{now}，本站沒有 {now} 的寫法、證據包也沒有官方原文")
                 continue
@@ -171,19 +183,21 @@ def sync_market_rows(site, dry=False):
         if st and site != "TwTxGNN":
             want = None
             if ms == "Marketed":  # Kr 2026-10-31 起依 nedrug 註銷狀態，與其他站相同
-                want = ck.marketed_text(site, lang, v, n, partial)
+                want = ck.marketed_text(site, lang, v, n, partial, fc)
             elif ms == "Approved, not marketed":
-                want = ck.NOT_MKT.get(lang, ck.NOT_MKT["en"]).format(n=n)
+                want = ck.not_marketed_text(site, lang, fc)
             elif ms == "Cancelled only":
                 want = ck.cancelled_text(site, lang, n)
             elif ms == "Not marketed":
-                want = ck.not_reg_text(site, lang)
+                want = ck.not_reg_text(site, lang, fc)
+            elif ms == "Status unknown" and hasattr(ck, "unknown_status_text"):
+                want = ck.unknown_status_text(site, lang, fc)
             if want and st[1] != want:
                 ch.append((st[0], st[1], want))
         cr = ck.count_row(site, rows)
         if cr and site != "TwTxGNN" and (n is not None or partial):
             # 部分紀錄（total 為空）也要同步：用已收錄張數寫「至少 N」，與狀態列一致（2026-10-31 pm 退件 BR：張數列被跳過而留舊值）
-            want_c = tl[3].format(n=n if n is not None else len(fc.get("licenses") or {})) if partial else tl[2].format(n=n, v=v or 0)
+            want_c = ck.count_text(site, lang, fc)
             if cr[1] != want_c:
                 ch.append((cr[0], cr[1], want_c))
         if not ch:
@@ -216,7 +230,7 @@ def drop_excluded_rows(site, dry=False):
         keep = []
         for l in lines:
             c = [x.strip() for x in l.strip().strip("|").split("|")] if l.startswith("|") else []
-            if c and norm(c[0]) in vet:
+            if c and (norm(c[0]) in vet or norm(re.sub(r"^MA\s*", "", c[0])) in vet):  # Dk 有些表寫「MA 28105835216」
                 out.append((pg.stem, f"許可證表 {c[0]}（獸用）", l.strip(), "（刪除）"))
                 continue
             keep.append(l)

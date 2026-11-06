@@ -38,6 +38,11 @@ def load_adapter(site):
        status_index(new) -> dict    {許可證號: 新狀態 dict}
        record_id(rec) -> str        bundle tfda.records 一筆的許可證號
        update(rec, new) -> bool     依新狀態改這筆紀錄，有改回 True
+    選用：sync_tables(站目錄, [證據包名]) -> [(頁, 欄位, 前值, 後值)]  狀態有變的藥由站自己重排／改寫許可證表（Za 2026-11-06）
+          PAGE_NOTE（regex）             3b 自我檢查另外允許改的非表格行（例：表下程式產生的「Showing N of M」）與空行
+          merge_records(bundle) -> [str]  逐筆更新狀態前，把證據包裡號碼統一後同號的紀錄合併成一筆（直接改 bundle），
+                                         回傳每筆合併的說明（第一個字是許可證號）；合併過的藥算「證據包有改」，也交給 sync_tables；
+                                         摘要另列「合併同號紀錄 N 筆」，不算進狀態變動（Za 2026-11-06）
     """
     return _load("license_adapter", BASE / site / "scripts/license_adapter.py")
 
@@ -100,6 +105,8 @@ def main(argv):
             md += ["", "### checker 非 0 的頁", ""] + [f"- `{x}`" for x in S["checker_bad"]]
         if S.get("to_verify"):
             md += ["", f"### 狀態列變成全部註銷／查無、要對全量來源依成分確認的頁（{len(S['to_verify'])}）", ""] + [f"- `{x}`" for x in S["to_verify"]]
+        if S.get("merged"):
+            md += ["", f"### 合併同號紀錄（{len(S['merged'])}）", ""] + [f"- {x}" for x in S["merged"]]
         if S.get("unsynced"):
             md += ["", "### 本站沒有對應寫法、未改的許可證表格子", ""] + [f"- {x}" for x in S["unsynced"]]
         if S.get("fields"):
@@ -171,12 +178,15 @@ def main(argv):
         S["steps"].append(f"許可證表狀態欄寫法：{labels['preferred']}")
 
     # 2b. 寫回證據包（下載不到的許可證保留原狀態）
-    n_rec, n_bundle, changes = 0, 0, []
+    n_rec, n_bundle, changes, merges = 0, 0, [], []
     for f in bundles:
         b = json.loads(f.read_text(encoding="utf-8"))
         ch = bool(getattr(ad, "preprocess", None) and ad.preprocess(b))  # 站專屬的前處理（例：EMA 獸用許可移出）
         if ch:
             changes.append(f"{f.parent.name} preprocess 前處理")
+        if hasattr(ad, "merge_records"):  # 站專屬：號碼寫法統一後同號的紀錄當場合併（Za 2026-11-06，用戶決定）
+            for note in ad.merge_records(b):
+                ch = True; changes.append(f"{f.parent.name} {note}"); merges.append(changes[-1])
         for r in lts.reg_block(b).get("records", []):
             nv = idx.get(ad.record_id(r))
             if nv is not None:
@@ -187,8 +197,11 @@ def main(argv):
             n_bundle += 1
             if not dry:
                 f.write_text(json.dumps(b, ensure_ascii=False, indent=2), encoding="utf-8")
-    n_id = len({c.split(" ")[1] for c in changes if " preprocess " not in c})  # 同一張許可證在證據包裡可能重複多筆（例如 CO 每個包裝一筆）
-    S["steps"].append(f"許可證狀態有變 {n_rec} 筆（{n_id} 張不重複許可證）、{n_bundle} 個藥")
+    mset = set(merges)  # 合併同號紀錄另列（2026-11-06 用戶決定），不算進狀態變動與停損比例
+    n_id = len({c.split(" ")[1] for c in changes if " preprocess " not in c and c not in mset})  # 同一張許可證在證據包裡可能重複多筆（例如 CO 每個包裝一筆）
+    S["steps"].append(f"許可證狀態有變 {n_rec} 筆（{n_id} 張不重複許可證）、{n_bundle} 個藥"
+                      + (f"；合併同號紀錄 {len(merges)} 筆" if hasattr(ad, "merge_records") else ""))
+    S["merged"] = merges[:300]
     S["license_changes"] = changes[:1000]
     rmax = float(os.environ.get("LICENSE_REFRESH_MAX_CHANGE") or 0.2)  # 只給手動補跑（第一次換官方來源）用，排程不設
     if len(ids) and n_id / len(ids) > rmax:
@@ -238,6 +251,8 @@ def main(argv):
             S["to_verify"].append(f"{pg}（本輪有許可證轉註銷，正文仍有張數／全部有效句：{hit[:60]}）")
     tch, unsynced = lts.apply(site, labels)
     tch += lts.drop_excluded_rows(site)
+    if hasattr(ad, "sync_tables"):  # 站專屬：狀態有變的藥，許可證表依重建的排序重排、號碼改成主管機關寫法（Za 2026-11-06）
+        tch += ad.sync_tables(BASE / site, sorted({c.split(" ")[0] for c in changes if " preprocess " not in c}))
     fields = [(pg, lab, a_, b_) for pg, ch in rows.items() for lab, a_, b_ in ch] + tch
     S["fields"] = [f"{pg}｜{lab}｜{a_} → {b_}" for pg, lab, a_, b_ in fields]
     S["steps"].append(f"概覽表狀態／張數列改 {sum(len(v) for v in rows.values())} 格（{len(rows)} 頁）；許可證表狀態格改 {len(tch)} 格"
@@ -251,8 +266,10 @@ def main(argv):
         old_t = run(["git", "show", f"HEAD:{rel}"], cwd=BASE / site, check=False).stdout.replace("\r\n", "\n").split("\n")
         new_t = (BASE / site / rel).read_text(encoding="utf-8").replace("\r\n", "\n").split("\n")
         import difflib
+        note = getattr(ad, "PAGE_NOTE", None)
         bad_l = [l for l in difflib.unified_diff(old_t, new_t, lineterm="", n=0)
-                 if l[:1] in "+-" and not l.startswith(("+++", "---")) and not l[1:].startswith("|")]
+                 if l[:1] in "+-" and not l.startswith(("+++", "---")) and not l[1:].startswith("|")
+                 and not (note and (not l[1:].strip() or re.match(note, l[1:].strip())))]
         if bad_l:
             S["pages"] = [rel]
             git(site, "checkout", "--", "docs")

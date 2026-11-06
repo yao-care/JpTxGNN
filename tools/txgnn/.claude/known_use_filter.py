@@ -8,6 +8,8 @@ KnownRelationsChecker 只排除名稱完全相同的已知適應症；這裡再�
 英文直接用；非英文用該站 src/*/mapping/disease_mapper.py 的 DISEASE_DICT 轉成英文病名。
 第二輪（同日）：許可證適應症改為 30 站依 DrugBank ID 合併（.claude/cache/license_terms_by_db.json，
 `python3 .claude/known_use_filter.py --build-license-cache` 重建），並加上 CATEGORIES 疾病類別規則。
+2026-11-03（用戶決定）：另讀 .claude/known_use_overlap_exclude.json——盤點確認「預測的其實就是已核准用途」的藥＋預測病名，
+逐筆附官方仿單出處（overlap_entry()）；只比對完全相同的病名，30 站都生效（任一國核准就算已知用途；approved_countries 只當資訊）。頁面套用步驟見 .claude/apply_overlap_exclude_20261103.py 開頭。
 """
 import csv, json, re
 from functools import lru_cache
@@ -65,6 +67,30 @@ def _kg_exclude():
         if v.get("drug"):
             out[v["drug"].lower()] = names  # known_set 也會用藥名查
     return out
+
+
+@lru_cache(maxsize=1)
+def _overlap_exclude():
+    """2026-11-03 用戶決定：盤點確認「預測的其實就是已核准用途」的藥＋預測病名（.claude/known_use_overlap_exclude.json）。
+    只比對正規化後完全相同的病名，不做子型、類別延伸（那些交給上面的規則）。→ {藥鍵: [entry, ...]}，藥鍵＝DrugBank ID 與藥名小寫"""
+    f = BASE / ".claude/known_use_overlap_exclude.json"
+    out = {}
+    for e in (json.loads(f.read_text(encoding="utf-8")).get("entries", []) if f.exists() else []):
+        for k in {(e.get("drugbank_id") or "").upper(), (e.get("drug") or "").lower(), (e.get("drug") or "").lower().replace(" ", "_")} - {""}:
+            out.setdefault(k, []).append(e)
+    return out
+
+
+def overlap_entry(proj: Path, drugbank_id: str, inn: str, name: str):
+    """這個預測在排除表裡 → 回傳該筆（approved_use、source、approved_countries 等）；否則 None。
+    2026-11-03 用戶決定：任一國核准就算已知用途，每筆對 30 站都生效；approved_countries（核准國家）只當資訊，不看 proj。"""
+    p = _n(name)
+    keys = [(drugbank_id or "").upper(), (inn or "").lower(), (inn or "").lower().replace("_", " ")]
+    for k in keys:
+        for e in _overlap_exclude().get(k, []) if k else []:
+            if _n(e["predicted"]) == p:
+                return e
+    return None
 
 
 def known_set(proj: Path, drug_key: str):
@@ -359,7 +385,8 @@ def filter_predictions(proj: Path, drugbank_id: str, inn: str, names: list, bund
     def in_text(n):  # 預測名（至少兩個字）整句出現在許可證長句裡：myeloid leukemia ⊂ "acute myeloid leukaemia"
         p = _n(n)
         return len(p.split()) >= 2 and any(_within(p, x) for x in texts)
-    return [n for n in names if not is_known_variant(n, known) and not (_cats(n) & kc) and not in_text(n)]
+    return [n for n in names if not is_known_variant(n, known) and not (_cats(n) & kc) and not in_text(n)
+            and not overlap_entry(proj, drugbank_id, inn, n)]  # 2026-11-03：盤點確認的「其實是已核准用途」排除表
 
 
 if __name__ == "__main__":

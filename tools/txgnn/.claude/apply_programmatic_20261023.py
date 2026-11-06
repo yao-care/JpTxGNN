@@ -219,23 +219,23 @@ def transform(site, f, cls, pmap):
         tl = mv2.T.get(lang) or mv2.T["en"]
         want = None
         if ms == "Marketed":  # Kr 2026-10-31 起依 nedrug 註銷狀態，與其他站相同
-            want = ck.marketed_text(site, lang, v, n, partial)
+            want = ck.marketed_text(site, lang, v, n, partial, fc)
         elif ms == "Approved, not marketed":
-            want = ck.NOT_MKT.get(lang, ck.NOT_MKT["en"]).format(n=n)
+            want = ck.not_marketed_text(site, lang, fc)
         elif ms == "Cancelled only":
             want = ck.cancelled_text(site, lang, n)
         elif ms == "Not marketed":
-            want = ck.not_reg_text(site, lang)
+            want = ck.not_reg_text(site, lang, fc)
         if want and st[1] != want:
             body = set_cell(body, st[0], want)
         cr = ck.count_row(site, all_rows)
         if cr is None and site != "TwTxGNN" and (n is not None or partial) and st is not None:
             # 已知用途頁等模板沒有張數列：依該站最常用的張數列標題補一列，放在狀態列下面；部分紀錄 total 為空 → 用已收錄張數
-            want_c = (tl[3].format(n=n if n is not None else len(fc.get("licenses") or {})) if partial else tl[2].format(n=n, v=v or 0))
+            want_c = (ck.count_text(site, lang, fc))
             body = re.sub(r"^(\|\s*" + re.escape(st[0]) + r"\s*\|[^\n]*\n)", lambda m: m.group(1) + f"| {count_label(site)} | {want_c} |\n",
                           body, count=1, flags=re.M)
         if cr and site != "TwTxGNN" and n is not None:  # 所有狀態都依事實（非上市類：有效 0）
-            want_c = (tl[3].format(n=n) if partial else tl[2].format(n=n, v=v or 0))
+            want_c = ck.count_text(site, lang, fc)
             if cr[1] != want_c:
                 body = set_cell(body, cr[0], want_c)
         if site != "TwTxGNN":

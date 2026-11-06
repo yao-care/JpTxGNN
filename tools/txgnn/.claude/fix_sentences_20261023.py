@@ -119,7 +119,7 @@ def bad_lines(site, t, kept, excluded, kept_sc, cls="keep", removed=(), facts=No
         # M3：正文市場說法與事實矛盾
         if not hit and facts and not line.startswith(("|", "#")):
             v = facts.get("valid") or 0
-            if (v > 0 and ck.ALL_CANCEL.search(line)) or (facts.get("market_status") in ("Cancelled only", "Not marketed") and
+            if (v > 0 and ck.all_cancel(line)) or (facts.get("market_status") in ("Cancelled only", "Not marketed") and
                     (ck.marketed_word(lang) in line or ck.MKT_CLAIM_EXTRA.search(line)) and not ck.mv2.NEG.search(line)):
                 hit = True
                 why[i] = ("M3", "Market statement contradicts the market facts above; state them correctly or drop the claim.")
