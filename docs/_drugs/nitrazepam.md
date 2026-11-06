@@ -82,7 +82,7 @@ description: "Nitrazepam：予測新適応症はWernicke-Korsakoff syndrome（�
 
 ## 日本市販情報
 
-すべての承認が取消済みです。主なものを示します。
+主なものを示します。
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
@@ -109,7 +109,7 @@ description: "Nitrazepam：予測新適応症はWernicke-Korsakoff syndrome（�
 **進める場合に必要なもの：**
 - 添付文書の警告・禁忌情報の取得（PMDA）
 - 詳細な作用機序データ（DrugBank）
-- 現在の市販・供給状況と取消の経緯の確認
+- 現在の市販・供給状況の確認
 - 高齢者を対象とした持ち越し鎮静、転倒、依存のリスク管理計画
 - 相互作用の重症度の精査
 
@@ -127,12 +127,6 @@ description: "Nitrazepam：予測新適応症はWernicke-Korsakoff syndrome（�
 臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-
-
-
-
 
 <!-- brand-names:start -->
 ## 日本での販売名

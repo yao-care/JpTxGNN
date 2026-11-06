@@ -91,19 +91,12 @@ TxGNN モデルは **colobomatous microphthalmia-rhizomelic dysplasia syndrome�
 - 作用機序 (MOA) データの補充（DrugBank などから取得）
 - JAK-STAT シグナルと対象疾患の病態との関連を示す前臨床・機序研究の調査
 - 関連する臨床試験・文献の再検索
-- 日本での承認取り消しの経緯と現在の供給状況の確認
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。
 臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-
-
-
-
 
 <!-- brand-names:start -->
 ## 日本での販売名

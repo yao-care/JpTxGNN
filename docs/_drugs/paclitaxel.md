@@ -130,7 +130,7 @@ description: "Paclitaxel：予測新適応症はParameningeal embryonal rhabdomy
 **決定：Proceed with Guardrails**
 
 **理由：**
-女性乳癌はすでに日本で承認されている適応症であり、完了した Phase 3 試験が複数あるため、エビデンスは十分です。ただし、これらの多くはパクリタキセルを併用基盤とする試験です。また、日本での有効な承認は現在ありません。
+女性乳癌はすでに日本で承認されている適応症であり、完了した Phase 3 試験が複数あるため、エビデンスは十分です。ただし、これらの多くはパクリタキセルを併用基盤とする試験です。
 
 **進める場合に必要なもの：**
 - PMDA の添付文書から警告・禁忌を取得し、安全性スクリーニングを行うこと
@@ -150,12 +150,6 @@ description: "Paclitaxel：予測新適応症はParameningeal embryonal rhabdomy
 臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-
-
-
-
 
 <!-- brand-names:start -->
 ## 日本での販売名

@@ -122,7 +122,6 @@ description: "Aripiprazole：予測新適応症はGaze palsy, familial horizonta
 **進める場合に必要なもの：**
 - PMDA の添付文書から警告・禁忌を取得し、安全性スクリーニングを完了すること
 - 詳細な作用機序データ（DrugBank）の補完
-- 現在有効な日本の承認がないため、販売状況と承認の現状を確認すること
 - 血糖、脂質、体重、好中球数などのモニタリング計画、および併用薬（特にブプロピオン）の管理方針
 
 ## 補足：その他の予測適応症
@@ -137,12 +136,6 @@ description: "Aripiprazole：予測新適応症はGaze palsy, familial horizonta
 臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-
-
-
-
 
 <!-- brand-names:start -->
 ## 日本での販売名

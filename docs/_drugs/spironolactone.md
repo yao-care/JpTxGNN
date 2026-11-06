@@ -92,7 +92,6 @@ description: "Spironolactone：予測新適応症はHypotrichosis simplex of the
 | 620266132 | スピロノラクトン錠２５ｍｇ「日医工」 | 錠２５ｍｇ「日医工」 | 高血圧症、原発性アルドステロン症（有効） |
 | 620266148 | スピロノラクトン錠２５ｍｇ「杏林」 | 錠２５ｍｇ「杏林」 | 高血圧症、原発性アルドステロン症（有効） |
 
-
 ## 安全性に関する考慮事項
 
 - **薬物相互作用**：100 件の相互作用が登録されています。主なものは以下の通りです。
@@ -104,7 +103,7 @@ description: "Spironolactone：予測新適応症はHypotrichosis simplex of the
 **決定：Proceed with Guardrails**
 
 **理由：**
-ただし、Phase 3 の確証試験がなく、日本では有効な承認が現在ありません。
+ただし、Phase 3 の確証試験がありません。
 
 その他の予測候補（頭皮の単純性乏毛症、先天性乏毛症・稗粒腫、びまん性円形脱毛症、悪性高血圧性腎疾患、Braddock 症候群など）は、実データがないか間接的なものに限られるため、**Hold** が妥当です。
 
@@ -119,12 +118,6 @@ description: "Spironolactone：予測新適応症はHypotrichosis simplex of the
 臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-
-
-
-
 
 <!-- brand-names:start -->
 ## 日本での販売名

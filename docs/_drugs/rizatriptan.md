@@ -125,7 +125,6 @@ description: "Rizatriptan：予測新適応症はAtrophoderma vermiculata（エ�
 - 詳細な作用機序データ（MOA）の補完（DrugBank）
 - 脳幹性前兆を伴う片頭痛に特化した臨床データの収集、または試験の設計
 - 脳血管系リスクに関する安全性評価と、対象患者の選定基準
-- 現在有効な日本の承認がないため、再承認または供給体制の確認
 
 なお、2 番目の予測である萎縮性虫喰状皮膚症 (Atrophoderma Vermiculata) は、スコアは 0.9919 でしたが、臨床試験も文献もなく、機序的な関連も見いだせませんでした（L5、Hold）。
 ## 免責事項
@@ -134,12 +133,6 @@ description: "Rizatriptan：予測新適応症はAtrophoderma vermiculata（エ�
 臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-
-
-
-
 
 <!-- brand-names:start -->
 ## 日本での販売名

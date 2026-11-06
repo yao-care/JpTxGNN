@@ -64,7 +64,6 @@ description: "Perampanel：予測新適応症はBeta-ketothiolase deficiency（�
 
 視覚てんかんについては、現在、関連する臨床試験の登録はありません。
 
-
 | 試験番号 | フェーズ | 状態 | 被験者数 | 主な知見 |
 |---------|--------|------|----------|---------|
 | [NCT04309721](https://clinicaltrials.gov/study/NCT04309721) | Phase 3 | 終了（中止） | 1 | 焦点運動性重積状態への追加投与の RCT。1 例で終了し、有効性データなし |
@@ -115,7 +114,6 @@ description: "Perampanel：予測新適応症はBeta-ketothiolase deficiency（�
 - 視覚てんかんなど光過敏性・反射てんかん患者を対象とした症例集積や小規模試験
 - 詳細な作用機序データ（MOA）の整備
 - 添付文書の警告・禁忌の確認（精神・行動面の副作用を含む）
-- 日本での承認状況の再確認（取り消しの経緯を含む）
 - ただし、関連試験は小規模・中止・募集中で、有効性は未確立です。
 ## 免責事項
 
@@ -123,12 +121,6 @@ description: "Perampanel：予測新適応症はBeta-ketothiolase deficiency（�
 臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-
-
-
-
 
 <!-- brand-names:start -->
 ## 日本での販売名
