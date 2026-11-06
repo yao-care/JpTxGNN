@@ -1557,6 +1557,30 @@ def strip_managed(body):
     return MANAGED.sub("", body)
 
 
+# Tw（2026-11-06）：已核准用途排除表（known_use_overlap_exclude.json）的預測，Tw 依該站規則不刪 front matter、不改 H1，
+# 改寫成重審「撤回」紀錄（docs/_data/drug_reviews.json 的 rereview_result＋verdict=withdraw＋known_use_exclusion[].predicted，
+# tw_known_use_withdraw_20261103.py 寫的；頁面不發布撤回預測由 Tw 自己的 gate 第 7d 項檢查）。
+# 所以 Tw 的「頁面該列的預測」裡，排除表命中、而且本頁有撤回紀錄的照舊算數；沒有撤回紀錄的照樣排除（P1 會報）。
+OVERLAP_VIA_REVIEW = {"TwTxGNN"}
+_WD = {}
+
+
+def review_withdrawn(site):
+    """{頁面檔名: {正規化病名}}：本站 drug_reviews.json 裡 verdict=withdraw 的已核准用途撤回"""
+    if site not in _WD:
+        p = BASE / site / "docs/_data/drug_reviews.json"
+        out = {}
+        recs = (json.loads(p.read_text(encoding="utf-8")).get("records") or []) if p.exists() else []
+        for r in recs:
+            if r.get("action") == "rereview_result" and r.get("verdict") == "withdraw":
+                stem = (r.get("file") or "").removesuffix(".md")
+                for e in r.get("known_use_exclusion") or []:
+                    if e.get("predicted"):
+                        out.setdefault(stem, set()).add(norm_name(e["predicted"]))
+        _WD[site] = out
+    return _WD[site]
+
+
 def check_page(site, f, cls, want_noindex):
     errs = []
     E = lambda code, detail="": errs.append((code, detail))
@@ -1575,6 +1599,11 @@ def check_page(site, f, cls, want_noindex):
     preds = {norm_name(p["disease_name"]): p for p in d.get("predicted_indications") or [] if p.get("disease_name")}
     top = [p["disease_name"] for p in d.get("predicted_indications") or [] if (p.get("txgnn_score") or 0) >= kf.SCORE_MIN][:10]
     kept = kf.kept_predictions(BASE / site, b) if cls not in ("no_pred_keep", "no_pred_noindex") else []
+    if site in OVERLAP_VIA_REVIEW and kept is not None and cls not in ("no_pred_keep", "no_pred_noindex"):
+        wd = review_withdrawn(site).get(f.stem, set())
+        if wd:  # 排除表命中、而且本頁有撤回紀錄的預測放回原位（Tw 的 front matter、H1 依該站規則不改）
+            kn = {norm_name(k) for k in kept}
+            kept = [k for k in kf.kept_predictions(BASE / site, b, overlap=False) if norm_name(k) in kn or norm_name(k) in wd]
     keptn = {norm_name(k) for k in kept}
     excluded = [x for x in top if norm_name(x) not in keptn]
     kept_sc = [preds[norm_name(k)]["txgnn_score"] for k in kept if norm_name(k) in preds]

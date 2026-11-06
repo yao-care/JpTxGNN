@@ -368,7 +368,7 @@ def build_license_cache():
     return out
 
 
-def filter_predictions(proj: Path, drugbank_id: str, inn: str, names: list, bundle: dict = None) -> list:
+def filter_predictions(proj: Path, drugbank_id: str, inn: str, names: list, bundle: dict = None, overlap: bool = True) -> list:
     lic = license_terms(proj, bundle) | _global_license().get(drugbank_id or "", set())
     known = known_set(proj, drugbank_id) | known_set(proj, (inn or "").lower()) | lic
     # 第五輪：KG 矛盾關係（indication＋contraindication）若有許可證／仿單佐證，仍算已知用途
@@ -386,7 +386,7 @@ def filter_predictions(proj: Path, drugbank_id: str, inn: str, names: list, bund
         p = _n(n)
         return len(p.split()) >= 2 and any(_within(p, x) for x in texts)
     return [n for n in names if not is_known_variant(n, known) and not (_cats(n) & kc) and not in_text(n)
-            and not overlap_entry(proj, drugbank_id, inn, n)]  # 2026-11-03：盤點確認的「其實是已核准用途」排除表
+            and not (overlap and overlap_entry(proj, drugbank_id, inn, n))]  # 2026-11-03：盤點確認的「其實是已核准用途」排除表（overlap=False 只給 checker 的 Tw 用）
 
 
 if __name__ == "__main__":
@@ -398,7 +398,7 @@ if __name__ == "__main__":
 SCORE_MIN = 0.99  # 2026-10-22：30 站統一門檻（th 等站證據包收了 0.5 以上的候選，網站寫的是只列 ≥0.99）
 
 
-def kept_predictions(proj: Path, bundle: dict) -> list:
+def kept_predictions(proj: Path, bundle: dict, overlap: bool = True) -> list:
     """證據包 → 頁面該列的預測：分數 ≥0.99 的前 10 名，再排除已知用途。各環節（reviewer、sync、監測欄位、重生名單）共用。"""
     d = (bundle or {}).get("drug") or {}
     def sc(p):
@@ -413,7 +413,7 @@ def kept_predictions(proj: Path, bundle: dict) -> list:
         return []
     inn = (d.get("inn") or d.get("name") or "").strip()
     dbid = d.get("drugbank_id") or _dl_dbid(proj).get(inn.lower(), "")  # My 證據包多數沒有 drugbank_id／inn，查不到 KG 已知用途（streptokinase 心肌梗塞漏判）
-    return filter_predictions(proj, dbid, inn, names, bundle)
+    return filter_predictions(proj, dbid, inn, names, bundle, overlap=overlap)
 
 
 _DLID = {}
