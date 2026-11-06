@@ -40,6 +40,14 @@ last_modified_at: 2026-11-06
 
 ---
 
+### [住友生命、「インフルエンザ実態調査レポート」2026を公開](https://news.google.com/rss/articles/CBMie0FVX3lxTE9wZjV0engta2tUVFVKLWtYZVUySl85R2RSTkJNcDdRY3JDSkJGSTZXZy0tYzUtSWFncm1PLVJHYTZhdFhtVV9FbGtnSnl5TmdScUJIVjJ4TFFBNHVDMTBYY3h1WHdKbEplZWJHLUZ0VTA2NnoybWJJSjkyUQ?oc=5)
+
+2026-11-05
+
+出典: [新日本保険新聞社](https://news.google.com/rss/articles/CBMie0FVX3lxTE9wZjV0engta2tUVFVKLWtYZVUySl85R2RSTkJNcDdRY3JDSkJGSTZXZy0tYzUtSWFncm1PLVJHYTZhdFhtVV9FbGtnSnl5TmdScUJIVjJ4TFFBNHVDMTBYY3h1WHdKbEplZWJHLUZ0VTA2NnoybWJJSjkyUQ?oc=5)
+
+---
+
 ### [中世の「ミイラの薬」が細胞をインフルエンザから守る可能性](https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzXzJzbjRZcWo0alBLaTJ4X0IyUXZOc3hPMmNraV95WnMyTWVKaHU0WmV0ZDJaY0NyRjlhbmZpa2N4VDFTeGFJMmlTcEJkUndhMDcwclU2dDFfOG8?oc=5)
 
 2026-11-04
@@ -69,14 +77,6 @@ last_modified_at: 2026-11-06
 2026-11-01
 
 出典: [たまひよ](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnUUtFeDlfdG5MNE9EclZZaVZvNjBtSWtiTmJOdHV4d20xVm9BVUtuOUE2V3ZnS1F2TEFnOU1PTmhza3lqSWlGMGc4VmZ6aElnbDZMVGVDclRjMTRIeUE?oc=5)
-
----
-
-### [インフルエンザ流行中、今期は10歳未満の入院例が3割超…子どももワクチン接種やマスク装着を](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nVmZ2SWMySlJMYVBkYlFPOEhENXJYVEVUbjgxNjBYdGE0SVk4aEVXcTVrcFo1N3ozUmg3UmVEZnJYazllQkUtdU9KUFByRFNwVGt2YUhna1I5SGprUVQ4?oc=5)
-
-2026-10-30
-
-出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nVmZ2SWMySlJMYVBkYlFPOEhENXJYVEVUbjgxNjBYdGE0SVk4aEVXcTVrcFo1N3ozUmg3UmVEZnJYazllQkUtdU9KUFByRFNwVGt2YUhna1I5SGprUVQ4?oc=5)
 
 ---
 

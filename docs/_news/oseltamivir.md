@@ -25,7 +25,7 @@ last_modified_at: 2026-11-06
 <div class="drug-info-card">
 <strong>医薬品情報</strong>
 <ul>
-<li><strong>エビデンスレベル</strong>: L5</li>
+<li><strong>エビデンスレベル</strong>: N/A</li>
 </ul>
 <p><a href="{{ '/drugs/oseltamivir/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
@@ -37,6 +37,14 @@ last_modified_at: 2026-11-06
 2026-11-05 <span class="news-indication-tag">インフルエンザ</span>
 
 出典: [上毛新聞電子版](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mUXBoUlBvaGVNMWg2QzlzSWp1THBMRjR6aUZvV0pIMGp1YWpNc0I4ME1kM1RNRHNoMUtMUFZMOFFJMWJGY3UtWnpqZENTLWh0SGZJMDlwUDY2UQ?oc=5)
+
+---
+
+### [住友生命、「インフルエンザ実態調査レポート」2026を公開](https://news.google.com/rss/articles/CBMie0FVX3lxTE9wZjV0engta2tUVFVKLWtYZVUySl85R2RSTkJNcDdRY3JDSkJGSTZXZy0tYzUtSWFncm1PLVJHYTZhdFhtVV9FbGtnSnl5TmdScUJIVjJ4TFFBNHVDMTBYY3h1WHdKbEplZWJHLUZ0VTA2NnoybWJJSjkyUQ?oc=5)
+
+2026-11-05 <span class="news-indication-tag">高血圧</span> <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [新日本保険新聞社](https://news.google.com/rss/articles/CBMie0FVX3lxTE9wZjV0engta2tUVFVKLWtYZVUySl85R2RSTkJNcDdRY3JDSkJGSTZXZy0tYzUtSWFncm1PLVJHYTZhdFhtVV9FbGtnSnl5TmdScUJIVjJ4TFFBNHVDMTBYY3h1WHdKbEplZWJHLUZ0VTA2NnoybWJJSjkyUQ?oc=5)
 
 ---
 
@@ -69,14 +77,6 @@ last_modified_at: 2026-11-06
 2026-11-01 <span class="news-indication-tag">インフルエンザ</span>
 
 出典: [たまひよ](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnUUtFeDlfdG5MNE9EclZZaVZvNjBtSWtiTmJOdHV4d20xVm9BVUtuOUE2V3ZnS1F2TEFnOU1PTmhza3lqSWlGMGc4VmZ6aElnbDZMVGVDclRjMTRIeUE?oc=5)
-
----
-
-### [インフルエンザ流行中、今期は10歳未満の入院例が3割超…子どももワクチン接種やマスク装着を](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nVmZ2SWMySlJMYVBkYlFPOEhENXJYVEVUbjgxNjBYdGE0SVk4aEVXcTVrcFo1N3ozUmg3UmVEZnJYazllQkUtdU9KUFByRFNwVGt2YUhna1I5SGprUVQ4?oc=5)
-
-2026-10-30 <span class="news-indication-tag">認知症</span> <span class="news-indication-tag">心筋梗塞</span> <span class="news-indication-tag">脳卒中</span> <span class="news-indication-tag">インフルエンザ</span>
-
-出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nVmZ2SWMySlJMYVBkYlFPOEhENXJYVEVUbjgxNjBYdGE0SVk4aEVXcTVrcFo1N3ozUmg3UmVEZnJYazllQkUtdU9KUFByRFNwVGt2YUhna1I5SGprUVQ4?oc=5)
 
 ---
 

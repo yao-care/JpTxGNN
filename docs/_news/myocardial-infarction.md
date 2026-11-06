@@ -3,7 +3,7 @@ layout: default
 title: "心筋梗塞 (myocardial infarction) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "心筋梗塞 (myocardial infarction) に関する健康ニュース。ニュース 2 件、関連医薬品 7 件。"
+description: "心筋梗塞 (myocardial infarction) に関する健康ニュース。ニュース 1 件、関連医薬品 7 件。"
 permalink: /news/myocardial-infarction/
 last_modified_at: 2026-11-06
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="心筋梗塞 (myocardial infarction) に関するニュースは？">
-<strong>心筋梗塞 (myocardial infarction)</strong> には現在 <strong>2 件</strong>の関連ニュースと 7 件の関連医薬品があります。
+<strong>心筋梗塞 (myocardial infarction)</strong> には現在 <strong>1 件</strong>の関連ニュースと 7 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -36,21 +36,13 @@ last_modified_at: 2026-11-06
 </ul>
 </div>
 
-## 関連ニュース（2 件）
+## 関連ニュース（1 件）
 
 ### [《最新研究が明かすインフルエンザワクチンの効果》心筋梗塞や脳卒中などのリスク低減か、認知症予防に関する研究も 60才以上が対象の「新ワクチン」は来年以降の導入へ (1/2)](https://news.google.com/rss/articles/CBMiOEFVX3lxTE1RcmFybi00U19KMjBoeHdKN2dqUUZ2TTBwUjduWmFzY2haTkR5N0J6Wl90RlJuZXU5?oc=5)
 
 2026-11-01
 
 出典: [女性セブンプラス](https://news.google.com/rss/articles/CBMiOEFVX3lxTE1RcmFybi00U19KMjBoeHdKN2dqUUZ2TTBwUjduWmFzY2haTkR5N0J6Wl90RlJuZXU5?oc=5)
-
----
-
-### [インフルエンザ流行中、今期は10歳未満の入院例が3割超…子どももワクチン接種やマスク装着を](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nVmZ2SWMySlJMYVBkYlFPOEhENXJYVEVUbjgxNjBYdGE0SVk4aEVXcTVrcFo1N3ozUmg3UmVEZnJYazllQkUtdU9KUFByRFNwVGt2YUhna1I5SGprUVQ4?oc=5)
-
-2026-10-30
-
-出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nVmZ2SWMySlJMYVBkYlFPOEhENXJYVEVUbjgxNjBYdGE0SVk4aEVXcTVrcFo1N3ozUmg3UmVEZnJYazllQkUtdU9KUFByRFNwVGt2YUhna1I5SGprUVQ4?oc=5)
 
 ---
 

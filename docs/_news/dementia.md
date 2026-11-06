@@ -3,7 +3,7 @@ layout: default
 title: "認知症 (dementia) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "認知症 (dementia) に関する健康ニュース。ニュース 6 件、関連医薬品 2 件。"
+description: "認知症 (dementia) に関する健康ニュース。ニュース 5 件、関連医薬品 2 件。"
 permalink: /news/dementia/
 last_modified_at: 2026-11-06
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-06
 ---
 
 <p class="key-answer" data-question="認知症 (dementia) に関するニュースは？">
-<strong>認知症 (dementia)</strong> には現在 <strong>6 件</strong>の関連ニュースと 2 件の関連医薬品があります。
+<strong>認知症 (dementia)</strong> には現在 <strong>5 件</strong>の関連ニュースと 2 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,7 @@ last_modified_at: 2026-11-06
 </ul>
 </div>
 
-## 関連ニュース（6 件）
+## 関連ニュース（5 件）
 
 ### [認知症を加速する男性ホルモン作用破綻の機序を解明－都長寿研](https://news.google.com/rss/articles/CBMigAFBVV95cUxNQzJ5MWQ3SjQ5YzhjZ3RzYWUzUTBESUZNYmhwa2pudUFfOW1nc0Q1R3Y1aXBCbUlNNFRBa1lFVWJHMXl4RDltSWpGbmt3STFNYVVZZEdsS3NGQzYySXc5Wlc5NDlBcDhPMm5DTDVGd3BremVUWFZRWUNHdlZwZU4yMw?oc=5)
 
@@ -57,11 +57,11 @@ last_modified_at: 2026-11-06
 
 ---
 
-### [糖尿病、数値下げるのは大事だけど…低血糖にご注意 ふらつきや認知症 持続測定器の活用で管理を](https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zYkNkVE90eWxoS1RScmhuaUs0YmkzSWdVd0w5ZkIzaEVVbUloeG9ZZENGTm9vbkxnZjJxME1odXhYWVJMRWhvUklld3VUOGJfem55RjJBUFZxaXlZdFcw?oc=5)
+### [糖尿病、数値下げるのは大事だけど…低血糖にご注意 ふらつきや認知症 持続測定器の活用で管理を](https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yS094c01RaDlqTmV1SE85S293cTZoODhIcEJoNGJmXzNmRmdRakNvNy1COXNxRHNMelJ2U0FHSkdvcGZrWnRkZjc4dzJyQVpXNk5J?oc=5)
 
 2026-11-02
 
-出典: [東京新聞](https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zYkNkVE90eWxoS1RScmhuaUs0YmkzSWdVd0w5ZkIzaEVVbUloeG9ZZENGTm9vbkxnZjJxME1odXhYWVJMRWhvUklld3VUOGJfem55RjJBUFZxaXlZdFcw?oc=5)
+出典: [東京新聞](https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yS094c01RaDlqTmV1SE85S293cTZoODhIcEJoNGJmXzNmRmdRakNvNy1COXNxRHNMelJ2U0FHSkdvcGZrWnRkZjc4dzJyQVpXNk5J?oc=5)
 
 ---
 
@@ -70,14 +70,6 @@ last_modified_at: 2026-11-06
 2026-11-01
 
 出典: [女性セブンプラス](https://news.google.com/rss/articles/CBMiOEFVX3lxTE1RcmFybi00U19KMjBoeHdKN2dqUUZ2TTBwUjduWmFzY2haTkR5N0J6Wl90RlJuZXU5?oc=5)
-
----
-
-### [インフルエンザ流行中、今期は10歳未満の入院例が3割超…子どももワクチン接種やマスク装着を](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nVmZ2SWMySlJMYVBkYlFPOEhENXJYVEVUbjgxNjBYdGE0SVk4aEVXcTVrcFo1N3ozUmg3UmVEZnJYazllQkUtdU9KUFByRFNwVGt2YUhna1I5SGprUVQ4?oc=5)
-
-2026-10-30
-
-出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nVmZ2SWMySlJMYVBkYlFPOEhENXJYVEVUbjgxNjBYdGE0SVk4aEVXcTVrcFo1N3ozUmg3UmVEZnJYazllQkUtdU9KUFByRFNwVGt2YUhna1I5SGprUVQ4?oc=5)
 
 ---
 

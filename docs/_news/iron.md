@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "クエン酸第一鉄ナトリウム鉄５０ｍｇ錠 に関する健康ニュース。予測適応症 5 件。"
 permalink: /news/iron/
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-06
 ---
 
 # クエン酸第一鉄ナトリウム鉄５０ｍｇ錠 関連ニュース
@@ -25,7 +25,7 @@ last_modified_at: 2026-11-04
 <div class="drug-info-card">
 <strong>医薬品情報</strong>
 <ul>
-<li><strong>エビデンスレベル</strong>: L3</li>
+<li><strong>エビデンスレベル</strong>: L5</li>
 <li><strong>予測適応症（5 件）</strong>:<ul>
 <li>ビタミンB12・葉酸非依存性体質性巨赤芽球性貧血 (vitamin B12- and folate-independent constitutional megaloblastic anemia)</li>
 <li>非症候性食道奇形 (non-syndromic esophageal malformation)</li>
