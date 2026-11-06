@@ -20,6 +20,7 @@
   12. docs/data/drugs.json 等於公開藥物頁：不含 noindex／轉址頁、等級＝頁首、筆數＝drug_stats.json total_drugs、original_indication 不是預測說明或截斷的句子、predicted_indication／txgnn_score 不是表頭字或預測說明（2026-11-06）。
   13. 藥物頁 front matter description 的證據等級字樣＝頁首 evidence_level（母目錄 .claude/sync_description_levels.py，2026-11-06）。
   14. FHIR：MedicationKnowledge 等級＝藥物頁頁首、不含 noindex 藥物頁的藥，Bundle／summary／index／metadata 的數字＝實際檔數（母目錄 .claude/sync_fhir_levels.py，2026-11-06）。
+  15. FHIR metadata（docs/fhir/metadata*）的在地欄位：jurisdiction 國碼＝本站 ISO 3166-1 alpha-2、不出現別站國名／代號、網址在本站網域、非中日文站不含漢字（2026-11-06）。
 
 Tw 專屬的檢查（TFDA 許可證表、docs/_data/drug_reviews.json 人工查核紀錄、drug_stats.json）沒有移植；
 本站之後若建立同類機制，再把對應檢查加回來。
@@ -680,6 +681,64 @@ if (_LV_FHIR / "MedicationKnowledge").is_dir():
                 _lv_fb.append(f"fhir/{_mn} 寫 {_mm.group(1)}／{_mm.group(2)}，實際 MedicationKnowledge {_n_mk}、ClinicalUseDefinition {_n_cud}")
     if _lv_fb:
         errors.append(f"FHIR 與藥物頁不一致：{'；'.join(_lv_fb)}（母目錄跑 python3 .claude/sync_fhir_levels.py <本站> --apply）")
+
+
+# 15) FHIR metadata 的在地欄位（2026-11-06 補）：docs/fhir/metadata、metadata.json（CapabilityStatement）當初從別站複製，
+#    Dk／Nl／Za 的 metadata.json 曾寫「Australia」、國碼寫成「Dk」這種不合 ISO 3166-1 alpha-2 的格式，Ph 的 url 曾是 github.io。
+#    jurisdiction（urn:iso:std:iso:3166）國碼＝本站國碼；所有文字欄位不得出現別站國名或別站代號；
+#    url、implementation.url、contact 的網址要在本站網域；非中日文站的文字欄位不得有漢字（Kr 的 description 曾是中文）。
+#    本站的值寫死在這裡（國碼＝ISO 3166-1 alpha-2，網域＝_config.yml 的 url），不讀別站。
+#    修法：只改 docs/fhir/metadata* 錯的欄位，scripts/generate_fhir_resources.py 寫錯的地方一起改，數字欄位不動。
+_MD_ISO = "JP"
+_MD_HOST = "https://jptxgnn.yao.care"
+_MD_HAN_OK = True
+_MD_OTHER_NAMES = re.compile(r"\bArgentin|\bAustralia|\bBrazil|\bSwitzerland\b|\bSwiss\b|\bColombia|\bCanad(?:a|ian)\b|\bGermany\b|\bGerman\b|\bDenmark\b|\bDanish\b|\bSpain\b|\bSpanish\b|\bEuropean Union\b|\bFinland\b|\bFinnish\b|\bFrance\b|\bFrench\b|\bHong Kong\b|\bItaly\b|\bItalian\b|\bIndian?\b|\bKorea|\bMalaysia|\bNorway\b|\bNorwegian\b|\bNew Zealand\b|\bNetherlands\b|\bDutch\b|\bPhilippine|\bSaudi\b|\bSweden\b|\bSwedish\b|\bSingapore|\bThailand\b|\bThai\b|\bTaiwan|\bUnited Kingdom\b|\bUK\b|\bBritish\b|\bUnited States\b|\bUSA\b|\bSouth Africa")
+_MD_OTHER_SITES = re.compile(r"\b(?:ARTxGNN|AuTxGNN|BrTxGNN|CHTxGNN|COTxGNN|CaTxGNN|DETxGNN|DkTxGNN|ESTxGNN|EuTxGNN|FITxGNN|FRTxGNN|HkTxGNN|ITTxGNN|InTxGNN|KrTxGNN|MyTxGNN|NOTxGNN|NZTxGNN|NlTxGNN|PhTxGNN|SATxGNN|SETxGNN|SgTxGNN|ThTxGNN|TwTxGNN|UkTxGNN|UsTxGNN|ZaTxGNN|CnTxGNN)\b", re.I)
+
+
+def _md_strings(_v, _path=""):
+    if isinstance(_v, dict):
+        for _k, _x in _v.items():
+            yield from _md_strings(_x, f"{_path}.{_k}" if _path else _k)
+    elif isinstance(_v, list):
+        for _i, _x in enumerate(_v):
+            yield from _md_strings(_x, f"{_path}[{_i}]")
+    elif isinstance(_v, str):
+        yield _path, _v
+
+
+_md_bad = []
+for _mn in ("metadata", "metadata.json"):
+    _mp = DOCS / "fhir" / _mn
+    if not _mp.exists():
+        continue
+    try:
+        _md = json.loads(_mp.read_text(encoding="utf-8"))
+    except ValueError as _e:
+        _md_bad.append(f"fhir/{_mn} 不是合法 JSON：{_e}")
+        continue
+    for _j in _md.get("jurisdiction") or []:
+        for _c in _j.get("coding") or []:
+            if _c.get("system") == "urn:iso:std:iso:3166" and _c.get("code") != _MD_ISO:
+                _md_bad.append(f"fhir/{_mn} jurisdiction 國碼 {_c.get('code')!r}，本站是 {_MD_ISO}")
+    _urls = [("url", _md.get("url"))] + [("implementation.url", (_md.get("implementation") or {}).get("url"))] + \
+            [("contact", _t.get("value")) for _ct in _md.get("contact") or [] for _t in _ct.get("telecom") or []
+             if _t.get("system") == "url"]
+    for _k, _u in _urls:
+        if _u and not (_u == _MD_HOST or _u.startswith(_MD_HOST + "/")):
+            _md_bad.append(f"fhir/{_mn} {_k}={_u} 不在本站網域 {_MD_HOST}")
+    for _k, _t in _md_strings(_md):
+        if _k.startswith("rest") and _k.endswith(("profile", "definition")):
+            continue
+        for _rx, _what in ((_MD_OTHER_NAMES, "別站國名"), (_MD_OTHER_SITES, "別站代號")):
+            _m = _rx.search(_t)
+            if _m:
+                _md_bad.append(f"fhir/{_mn} {_k} 出現{_what}「{_m.group(0)}」：{_t[:80]}")
+        if not _MD_HAN_OK and re.search(r"[\u4e00-\u9fff]", _t):
+            _md_bad.append(f"fhir/{_mn} {_k} 有漢字（本站不是中日文站）：{_t[:80]}")
+if _md_bad:
+    errors.append(f"FHIR metadata 在地欄位錯 {len(_md_bad)} 處：{'；'.join(_md_bad[:6])}"
+                  f"（只改 docs/fhir/metadata* 錯的欄位與 scripts/generate_fhir_resources.py，數字欄位不動）")
 
 if errors:
     print(f"docs SEO 守門：✗ {len(errors)} 項")
