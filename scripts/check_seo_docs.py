@@ -17,7 +17,7 @@
   8. llms.txt／llms-full.txt 範例藥物行「名稱 (Lx): 網址」的標籤＝藥物頁 evidence_level，且不指向轉址／noindex／不存在的頁（2026-11-03）。
   9. llms.txt／llms-full.txt 的本站資料區塊（site-data）剛好一個、等級分布＝drug_stats.json、資料集網址出現在本站 sources 頁（2026-11-04）。
   10. docs/_data/hreflang.json 裡本站自己的頁（說明頁等，藥物頁除外）存在、不是 noindex／轉址頁、組裡有自我參照、沒有 x-default（2026-11-04）。
-  12. docs/data/drugs.json 等於公開藥物頁：不含 noindex／轉址頁、等級＝頁首、筆數＝drug_stats.json total_drugs（2026-11-06）。
+  12. docs/data/drugs.json 等於公開藥物頁：不含 noindex／轉址頁、等級＝頁首、筆數＝drug_stats.json total_drugs、original_indication 不是預測說明或截斷的句子（2026-11-06）。
 
 Tw 專屬的檢查（TFDA 許可證表、docs/_data/drug_reviews.json 人工查核紀錄、drug_stats.json）沒有移植；
 本站之後若建立同類機制，再把對應檢查加回來。
@@ -482,6 +482,13 @@ if _DJ_F.exists():
             _dj_bad.append(f"{_u} 是 noindex 頁")
         elif str(_e.get("evidence_level", "")) != (_dj_pages[_u][0].get("evidence_level") or "L5"):
             _dj_bad.append(f"{_u} 等級 {_e.get('evidence_level')}，頁首 {_dj_pages[_u][0].get('evidence_level') or 'L5'}")
+    # original_indication 要是真的原適應症（2026-11-06 補）：以前產生器沒有 front matter 值時從內文抓句子，抓到的全是
+    #   預測說明（「he TxGNN model predicts it may be effective for …」）或其他段落，還在 200 字處截成「...」，新聞頁把它當原適應症顯示。
+    _DJ_OI_BAD = re.compile(r"predict|may be effective|TxGNN|top-ranked|模型預測|模型预测|預測適應症|预测适应症", re.I)
+    for _e in _dj_list:
+        _oi = str(_e.get("original_indication") or "").strip()
+        if _oi and (_DJ_OI_BAD.search(_oi) or _oi.endswith(("...", "…"))):
+            _dj_bad.append(f"{norm(_e.get('url') or '/drugs/' + str(_e.get('slug', '')) + '/')} original_indication 是預測說明或截斷的句子：{_oi[:40]}")
     _dj_bad += [f"{_u} 是公開藥物頁但不在 drugs.json" for _u in sorted(_dj_public - _dj_seen)]
     _dj_total = json.loads((DOCS / "_data" / "drug_stats.json").read_text(encoding="utf-8")).get("total_drugs")
     if len(_dj_list) != _dj_total or (isinstance(_dj, dict) and _dj.get("total_count", len(_dj_list)) != len(_dj_list)):
