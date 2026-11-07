@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="リポバス錠５　５ｍｇ（選） に関するニュースは？">
-<strong>リポバス錠５　５ｍｇ（選）</strong> には現在 <strong>11 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>リポバス錠５　５ｍｇ（選）</strong> には現在 <strong>12 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,15 @@ last_modified_at: 2026-11-07
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（11 件）
+## 関連ニュース（12 件）
+
+### [局所進行食道がんに対する根治的な化学放射線療法にデュルバルマブの上乗せ効果を検討するランダム化第II相試験：ARION PRODIGE 67【ESMO2026 胃・食道がん】](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoYjh1bjBEUWF1NlhCd05wb0JsV20xY1RQY0Z6S25TSXo1S3FLTWRpUF9DWHBJREkzZi1SRU13UzdPSWFwVzEtS0h1RXdnN0ZhMUE?oc=5)
+
+2026-11-07 <span class="news-indication-tag">がん</span>
+
+出典: [m3.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoYjh1bjBEUWF1NlhCd05wb0JsV20xY1RQY0Z6S25TSXo1S3FLTWRpUF9DWHBJREkzZi1SRU13UzdPSWFwVzEtS0h1RXdnN0ZhMUE?oc=5)
+
+---
 
 ### [男性も打ちませんかＨＰＶワクチン 北とかちみんなのクリニック 久滝俊博院長～ドクターリレー（８０）](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1FYUU5ZjZKX0dlWERhR0lWaHhRM3loMV85cmtlM3U3OVhwek90eVNBMTZJQ244TlYydVlGSEkzbk9wSGNqS1JMblM3X01sNzhsMVlEUDFOT1ZvVWZaOThvb1doZXE?oc=5)
 
@@ -68,6 +76,14 @@ last_modified_at: 2026-11-07
 2026-11-06 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">膵臓がん</span>
 
 出典: [Futuro Prossimo](https://news.google.com/rss/articles/CBMinwFBVV95cUxQTWR3eTJxYTV6UDl6M2VvN3BZQm9ZYVptY05UOW1ocS1OWU1QaWFrdHJCb2ZzamZodXBBaldpakJyWkQxdlFUWXlmQWd2SURUSUhXUWpSdGx0SnB4UVFxZ1k1T1RRRjlOUmFlYlpMTy1oN281YVg1aE5pLXM1SF9jZWtDbGxxVmRfdUhFVE5ibVdIeTRIYkdaNERYa3JmYkU?oc=5)
+
+---
+
+### [【大腸がん研究の最前線】40歳未満の患者の約70％で腸内細菌の関与を確認 1965年以降生まれではその割合が増加 研究から見えてきた新たな予防への可能性【前後編の後編】](https://news.google.com/rss/articles/CBMibkFVX3lxTE5jbjlWUkhrTk9SdkVvcXhWWGpnZG1FakZHNWJPY2pucmhjRHpPVXUxb0ZveE9fOGE3MEtsdHRzZkxpU0d4SU1EV1lyVEc5REJSUU16SHJiR0ZLVHJ3Z0dHbkoxdzU4Q25MSlo5N2pn?oc=5)
+
+2026-11-05 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
+
+出典: [NEWSポストセブン](https://news.google.com/rss/articles/CBMibkFVX3lxTE5jbjlWUkhrTk9SdkVvcXhWWGpnZG1FakZHNWJPY2pucmhjRHpPVXUxb0ZveE9fOGE3MEtsdHRzZkxpU0d4SU1EV1lyVEc5REJSUU16SHJiR0ZLVHJ3Z0dHbkoxdzU4Q25MSlo5N2pn?oc=5)
 
 ---
 
@@ -116,14 +132,6 @@ last_modified_at: 2026-11-07
 2026-11-02 <span class="news-indication-tag">がん</span>
 
 出典: [QLifePro](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa1dKNlI0Y1pQY0J1UTdFWVFfUGlGaFpzeDloaUhrSnNaU3NwTmFoLTY2cktBZi1ZNk5PejhvQWN6cmlTZjdPUFNtRk5Kc0s4R2FpNkJaalQ2eEhvS2thZzkzWktFcnl6OHhPLV9kNmhncE9lbUM4MTlPc2dkVEJIZ0xQOTVWalhkWXFINVZDdUtTOWszXzhVWTJMQVhXNllPYW9xdTNCNUxhQWNfRGpuNk1KNjhFaEMtYXhvdWlZY2I4UlpQMDdGVXVfRDRKWl9HRHVvRg?oc=5)
-
----
-
-### [大腸がん検診 習慣化勧める 石垣で市民講座](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pZDRGUlRWNXlOZUVKZ3g1bUNabTJqcTEyM3FDTS1UcldJRE4yWFJzWS1pZ1F5UmR3dlJaT3pVcS1UWkZrSjVyZVNEQWZDb0lhekFWQmRUZEZwVzR5c3c?oc=5)
-
-2026-10-31 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
-
-出典: [沖縄タイムス社](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pZDRGUlRWNXlOZUVKZ3g1bUNabTJqcTEyM3FDTS1UcldJRE4yWFJzWS1pZ1F5UmR3dlJaT3pVcS1UWkZrSjVyZVNEQWZDb0lhekFWQmRUZEZwVzR5c3c?oc=5)
 
 ---
 

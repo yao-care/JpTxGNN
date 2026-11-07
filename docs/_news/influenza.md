@@ -32,6 +32,14 @@ last_modified_at: 2026-11-07
 
 ## 関連ニュース（6 件）
 
+### [【子どもたちのインフルエンザ予防接種へ｜日本初の鼻に噴霧するタイプ「フルミスト点鼻液」｜埼玉県...](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HR1VjRjJqVUxpUzJ3T3J0SThDLVUxX1pvemZNSlNBMWpITWtaVFJ3SF9QLXdhZ1diREh2My1NaXNNOU9GaTloUGFuSE01dUlPSjN6VGhPX0FUWnhVdzRR?oc=5)
+
+2026-11-07
+
+出典: [選挙ドットコム](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HR1VjRjJqVUxpUzJ3T3J0SThDLVUxX1pvemZNSlNBMWpITWtaVFJ3SF9QLXdhZ1diREh2My1NaXNNOU9GaTloUGFuSE01dUlPSjN6VGhPX0FUWnhVdzRR?oc=5)
+
+---
+
 ### [インフルエンザ感染者数が8週ぶりに減少 丹南が最多、次いで福井市 福井県「ピークはこれから」感染対策呼びかけ](https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VdXFEWG1MS3gwRmtyNm1MNkpjQmd0NTJRanBnSnFMY2NjdmxjRndHeWs0bHZELThEZzBIeGJyNzRvT3hUbWN5RS1mVXA2dw?oc=5)
 
 2026-11-05
@@ -69,14 +77,6 @@ last_modified_at: 2026-11-07
 2026-11-01
 
 出典: [たまひよ](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnUUtFeDlfdG5MNE9EclZZaVZvNjBtSWtiTmJOdHV4d20xVm9BVUtuOUE2V3ZnS1F2TEFnOU1PTmhza3lqSWlGMGc4VmZ6aElnbDZMVGVDclRjMTRIeUE?oc=5)
-
----
-
-### [ライオン、歯みがきでインフルエンザ反応抗体の濃度増加を確認、唾液の防御機能に新知見](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9xaUhPTHd3aWo5b2NsUjVkc2ZRbkVaNnZuc0lDTmp6cHZPc1hGN1Z4d09HdGUyVlJnZjdzZlkyXzRRRzBrZ2U0aUdscldVcUhGV2w2Ng?oc=5)
-
-2026-11-01
-
-出典: [https://kabu-ir.com/](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9xaUhPTHd3aWo5b2NsUjVkc2ZRbkVaNnZuc0lDTmp6cHZPc1hGN1Z4d09HdGUyVlJnZjdzZlkyXzRRRzBrZ2U0aUdscldVcUhGV2w2Ng?oc=5)
 
 ---
 
