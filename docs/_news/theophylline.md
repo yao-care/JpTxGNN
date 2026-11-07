@@ -40,11 +40,11 @@ last_modified_at: 2026-11-07
 
 ## 関連ニュース（10 件）
 
-### [家族だってつらいのは当たり前。「第二の患者」ともいわれる〈がん患者の家族〉が利用できるサポートは(婦人公論.jp)](https://news.yahoo.co.jp/articles/1473b1805b53c79e539505832b0db6275d903f80?source=rss)
+### [男性も打ちませんかＨＰＶワクチン 北とかちみんなのクリニック 久滝俊博院長～ドクターリレー（８０）](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1FYUU5ZjZKX0dlWERhR0lWaHhRM3loMV85cmtlM3U3OVhwek90eVNBMTZJQ244TlYydVlGSEkzbk9wSGNqS1JMblM3X01sNzhsMVlEUDFOT1ZvVWZaOThvb1doZXE?oc=5)
 
 2026-11-07 <span class="news-indication-tag">がん</span>
 
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/1473b1805b53c79e539505832b0db6275d903f80?source=rss)
+出典: [十勝毎日新聞](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1FYUU5ZjZKX0dlWERhR0lWaHhRM3loMV85cmtlM3U3OVhwek90eVNBMTZJQ244TlYydVlGSEkzbk9wSGNqS1JMblM3X01sNzhsMVlEUDFOT1ZvVWZaOThvb1doZXE?oc=5)
 
 ---
 
@@ -56,27 +56,19 @@ last_modified_at: 2026-11-07
 
 ---
 
-### [子宮頸がん死2050年までに4割増 米ワシントン大推計、世界の格差深刻](https://news.google.com/rss/articles/CBMidkFVX3lxTE5xR1YwMVkzTUN0dlpOREZ6cW9hSFJvSWM1Y1dwYTJ0dG1yWjNLSml4VVhtN2puUTBDZWhWRE1makdYLTNXczlQckpEV0ExRlRJYjFaQno5clRHelVpb0J1cWhqSzRMTTlUX0dLWFpiMlRWX0xfd3c?oc=5)
+### [子宮頸がん死５０年に４割増 米大推計、世界の格差深刻](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XemdVcS1GVnR6VDdqaUFMaWZxMkdadEVjcXpxY1pyRFh3WG8ta2FzbnVwa21ybmNlSWNxVklBQUNSREpfamlwUGwwRkhqQzh0Mmw3MnhiRUltRExkQkdHN2lEUU8?oc=5)
 
-2026-11-06 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
+2026-11-06 <span class="news-indication-tag">がん</span>
 
-出典: [産経ニュース](https://news.google.com/rss/articles/CBMidkFVX3lxTE5xR1YwMVkzTUN0dlpOREZ6cW9hSFJvSWM1Y1dwYTJ0dG1yWjNLSml4VVhtN2puUTBDZWhWRE1makdYLTNXczlQckpEV0ExRlRJYjFaQno5clRHelVpb0J1cWhqSzRMTTlUX0dLWFpiMlRWX0xfd3c?oc=5)
-
----
-
-### [【大腸がん研究の最前線】40歳未満の患者の約70％で腸内細菌の関与を確認 1965年以降生まれではその割合が増加 研究から見えてきた新たな予防への可能性【前後編の後編】](https://news.google.com/rss/articles/CBMibkFVX3lxTE5jbjlWUkhrTk9SdkVvcXhWWGpnZG1FakZHNWJPY2pucmhjRHpPVXUxb0ZveE9fOGE3MEtsdHRzZkxpU0d4SU1EV1lyVEc5REJSUU16SHJiR0ZLVHJ3Z0dHbkoxdzU4Q25MSlo5N2pn?oc=5)
-
-2026-11-05 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
-
-出典: [NEWSポストセブン](https://news.google.com/rss/articles/CBMibkFVX3lxTE5jbjlWUkhrTk9SdkVvcXhWWGpnZG1FakZHNWJPY2pucmhjRHpPVXUxb0ZveE9fOGE3MEtsdHRzZkxpU0d4SU1EV1lyVEc5REJSUU16SHJiR0ZLVHJ3Z0dHbkoxdzU4Q25MSlo5N2pn?oc=5)
+出典: [東京新聞](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XemdVcS1GVnR6VDdqaUFMaWZxMkdadEVjcXpxY1pyRFh3WG8ta2FzbnVwa21ybmNlSWNxVklBQUNSREpfamlwUGwwRkhqQzh0Mmw3MnhiRUltRExkQkdHN2lEUU8?oc=5)
 
 ---
 
-### [20代～30代の女性をパートナーに持つ男性のうち、6割は子宮頸がんの原因となるウイルスを男性が女性にうつす可能性があることを知らない！ - PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE5RRHF0bFU1VjhJNFRGMUFyRmEzc1kzbjlzeHUyNG41LUZkWU10RDA4MHVuekNzSmxiZDB6eHJ1WTY3OXZNekdobF80UlNzU0UydlFYQmtYWVJrM29Gek9UZW1yQkdaeFNDUHc?oc=5)
+### [膵臓がん治療薬ダラキソンラシブ：イタリアでの入手方法 - Futuro Prossimo](https://news.google.com/rss/articles/CBMinwFBVV95cUxQTWR3eTJxYTV6UDl6M2VvN3BZQm9ZYVptY05UOW1ocS1OWU1QaWFrdHJCb2ZzamZodXBBaldpakJyWkQxdlFUWXlmQWd2SURUSUhXUWpSdGx0SnB4UVFxZ1k1T1RRRjlOUmFlYlpMTy1oN281YVg1aE5pLXM1SF9jZWtDbGxxVmRfdUhFVE5ibVdIeTRIYkdaNERYa3JmYkU?oc=5)
 
-2026-11-05 <span class="news-indication-tag">がん</span>
+2026-11-06 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">膵臓がん</span>
 
-出典: [PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE5RRHF0bFU1VjhJNFRGMUFyRmEzc1kzbjlzeHUyNG41LUZkWU10RDA4MHVuekNzSmxiZDB6eHJ1WTY3OXZNekdobF80UlNzU0UydlFYQmtYWVJrM29Gek9UZW1yQkdaeFNDUHc?oc=5)
+出典: [Futuro Prossimo](https://news.google.com/rss/articles/CBMinwFBVV95cUxQTWR3eTJxYTV6UDl6M2VvN3BZQm9ZYVptY05UOW1ocS1OWU1QaWFrdHJCb2ZzamZodXBBaldpakJyWkQxdlFUWXlmQWd2SURUSUhXUWpSdGx0SnB4UVFxZ1k1T1RRRjlOUmFlYlpMTy1oN281YVg1aE5pLXM1SF9jZWtDbGxxVmRfdUhFVE5ibVdIeTRIYkdaNERYa3JmYkU?oc=5)
 
 ---
 
@@ -96,14 +88,6 @@ last_modified_at: 2026-11-07
 
 ---
 
-### [【すい臓がん治療最前線】画期的新薬「ダラクソンラシブ」に高まる期待 「百年に一度の薬」と絶賛されるも、日本で保険診療として承認されるためには“高すぎる薬価”の壁](https://news.google.com/rss/articles/CBMiR0FVX3lxTFBMOXZ5ZzlSdVhpMXNwSGlfU1Z6b3lTX2tHRkZXOTVua3M1eGhjbS1na1Jkc0otRVhUdVpmVzV2TGNnTUhVb2hF?oc=5)
-
-2026-11-02 <span class="news-indication-tag">がん</span>
-
-出典: [マネーポストWEB](https://news.google.com/rss/articles/CBMiR0FVX3lxTFBMOXZ5ZzlSdVhpMXNwSGlfU1Z6b3lTX2tHRkZXOTVua3M1eGhjbS1na1Jkc0otRVhUdVpmVzV2TGNnTUhVb2hF?oc=5)
-
----
-
 ### [CDK4/6阻害薬後に進行したHR+/HER2-乳がんへのアベマシクリブ＋フルベストラント、最終OS結果（postMONARCH）／ESMO2026｜CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RWGlzczBaSnpObFlsdjVRQ1FsaWQ2MXkxSU5nVV85LTZSRlRxa19UNVcxZXY4UnZwa0pwRU41QkJha1lmTUJ4N21yNGZCWFFIQlhnWkl2RExhQndISi1r?oc=5)
 
 2026-11-02 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
@@ -117,6 +101,22 @@ last_modified_at: 2026-11-07
 2026-11-02 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">腫瘍</span>
 
 出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/5c4c70fd6d5e36badb6cc5c78b0a8135c398e42c?source=rss)
+
+---
+
+### [肥満症が胃噴門部腺がんを進展させる機序をマウスで解明－東北大](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa1dKNlI0Y1pQY0J1UTdFWVFfUGlGaFpzeDloaUhrSnNaU3NwTmFoLTY2cktBZi1ZNk5PejhvQWN6cmlTZjdPUFNtRk5Kc0s4R2FpNkJaalQ2eEhvS2thZzkzWktFcnl6OHhPLV9kNmhncE9lbUM4MTlPc2dkVEJIZ0xQOTVWalhkWXFINVZDdUtTOWszXzhVWTJMQVhXNllPYW9xdTNCNUxhQWNfRGpuNk1KNjhFaEMtYXhvdWlZY2I4UlpQMDdGVXVfRDRKWl9HRHVvRg?oc=5)
+
+2026-11-02 <span class="news-indication-tag">がん</span>
+
+出典: [QLifePro](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa1dKNlI0Y1pQY0J1UTdFWVFfUGlGaFpzeDloaUhrSnNaU3NwTmFoLTY2cktBZi1ZNk5PejhvQWN6cmlTZjdPUFNtRk5Kc0s4R2FpNkJaalQ2eEhvS2thZzkzWktFcnl6OHhPLV9kNmhncE9lbUM4MTlPc2dkVEJIZ0xQOTVWalhkWXFINVZDdUtTOWszXzhVWTJMQVhXNllPYW9xdTNCNUxhQWNfRGpuNk1KNjhFaEMtYXhvdWlZY2I4UlpQMDdGVXVfRDRKWl9HRHVvRg?oc=5)
+
+---
+
+### [大腸がん検診 習慣化勧める 石垣で市民講座](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pZDRGUlRWNXlOZUVKZ3g1bUNabTJqcTEyM3FDTS1UcldJRE4yWFJzWS1pZ1F5UmR3dlJaT3pVcS1UWkZrSjVyZVNEQWZDb0lhekFWQmRUZEZwVzR5c3c?oc=5)
+
+2026-10-31 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
+
+出典: [沖縄タイムス社](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pZDRGUlRWNXlOZUVKZ3g1bUNabTJqcTEyM3FDTS1UcldJRE4yWFJzWS1pZ1F5UmR3dlJaT3pVcS1UWkZrSjVyZVNEQWZDb0lhekFWQmRUZEZwVzR5c3c?oc=5)
 
 ---
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="タミフルドライシロップ３％（選） に関するニュースは？">
-<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>5 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>6 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ last_modified_at: 2026-11-07
 <p><a href="{{ '/drugs/oseltamivir/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（5 件）
+## 関連ニュース（6 件）
+
+### [インフルエンザ感染者数が8週ぶりに減少 丹南が最多、次いで福井市 福井県「ピークはこれから」感染対策呼びかけ](https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VdXFEWG1MS3gwRmtyNm1MNkpjQmd0NTJRanBnSnFMY2NjdmxjRndHeWs0bHZELThEZzBIeGJyNzRvT3hUbWN5RS1mVXA2dw?oc=5)
+
+2026-11-05 <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [FNNプライムオンライン](https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VdXFEWG1MS3gwRmtyNm1MNkpjQmd0NTJRanBnSnFMY2NjdmxjRndHeWs0bHZELThEZzBIeGJyNzRvT3hUbWN5RS1mVXA2dw?oc=5)
+
+---
 
 ### [群馬県内のインフルエンザ感染者 3週ぶりに増加「推移読むのが難しい」 | 上毛新聞電子版｜群馬県のニュース・スポーツ情報](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mUXBoUlBvaGVNMWg2QzlzSWp1THBMRjR6aUZvV0pIMGp1YWpNc0I4ME1kM1RNRHNoMUtMUFZMOFFJMWJGY3UtWnpqZENTLWh0SGZJMDlwUDY2UQ?oc=5)
 

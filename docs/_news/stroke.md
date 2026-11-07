@@ -3,7 +3,7 @@ layout: default
 title: "脳卒中 (stroke) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "脳卒中 (stroke) に関する健康ニュース。ニュース 2 件、関連医薬品 16 件。"
+description: "脳卒中 (stroke) に関する健康ニュース。ニュース 1 件、関連医薬品 16 件。"
 permalink: /news/stroke/
 last_modified_at: 2026-11-07
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="脳卒中 (stroke) に関するニュースは？">
-<strong>脳卒中 (stroke)</strong> には現在 <strong>2 件</strong>の関連ニュースと 16 件の関連医薬品があります。
+<strong>脳卒中 (stroke)</strong> には現在 <strong>1 件</strong>の関連ニュースと 16 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -45,21 +45,13 @@ last_modified_at: 2026-11-07
 </ul>
 </div>
 
-## 関連ニュース（2 件）
+## 関連ニュース（1 件）
 
-### [「血液がドロドロに……」 飲めば飲むほど脳卒中リスクが上がる？ 身近な飲み物に潜む意外な危険性](https://news.google.com/rss/articles/CBMieEFVX3lxTE1yVkYxQUFnMUU3Rk9YNkdkbmF1TkJObUgxUzhYZ0RuQ2tvbF9DRFctalpnS2xlZGhCVkRVb2t2MUZVNGlfaHFVRktDYjNhS1dxbUlsMmE3TmljLWVZRG8teFowcUw5R0czWXNhaGJ4ZEdSMHFJaEhkbNIBfkFVX3lxTE9GaE54STNjYU10V2RVRk9JRjRGU2tFeE1YZk41U0ZpV1hiSV9xakdoSW5JbFBha3Z0Ymk5S2tna2dMYTJXRzl6TDczTjdvNXE5Q2RuNmtTbVhzeTZHbVJhZ3RYcTNmMGllalFRSjFWX0RuTG1TbWZhUzd5N1RnQQ?oc=5)
+### [高血圧患者の脳卒中予防法](https://news.google.com/rss/articles/CBMimgFBVV95cUxPMVFsbjlUWENENUpIaWJrNnc5Ujl1WU9tODdRSFhWaDcwdTNjMWdNV25aeHE5ekM0bzh5TkhuWFlHdG9tejVRZmgyYnp2Zkp0cE15ZEZqZkNVdnFDUmNST1lHclBydWdhMGxrX3RmZ0xJTjR1Wm1wcmNOSkpZNUhNNFU4T3FYUzhEX29mblhLSDhHMkxZMjl4a29B?oc=5)
 
-2026-11-06
+2026-11-03
 
-出典: [ｄメニューニュース](https://news.google.com/rss/articles/CBMieEFVX3lxTE1yVkYxQUFnMUU3Rk9YNkdkbmF1TkJObUgxUzhYZ0RuQ2tvbF9DRFctalpnS2xlZGhCVkRVb2t2MUZVNGlfaHFVRktDYjNhS1dxbUlsMmE3TmljLWVZRG8teFowcUw5R0czWXNhaGJ4ZEdSMHFJaEhkbNIBfkFVX3lxTE9GaE54STNjYU10V2RVRk9JRjRGU2tFeE1YZk41U0ZpV1hiSV9xakdoSW5JbFBha3Z0Ymk5S2tna2dMYTJXRzl6TDczTjdvNXE5Q2RuNmtTbVhzeTZHbVJhZ3RYcTNmMGllalFRSjFWX0RuTG1TbWZhUzd5N1RnQQ?oc=5)
-
----
-
-### [FPTロンチャウとバイエルが協力して、国民の脳卒中のリスクをスクリーニング](https://news.google.com/rss/articles/CBMirwFBVV95cUxNLVFHazRRdXdkSUlsdjd1VFV2OGR1MFVYa0g2Y2M0b1lBc082ZVl5TUc1Ym1HNDU0ZzNZbFNNNDVrSkdva3ExQjZVdWF1MzlZS3lOSF83ZHAxcWlaV3V1OFZEOHM3bTUxM3hSd1gyZ1J3dG91MUdkbU1DTlhJcUVHODFkXzVPSzdjeHFnR296TlBCYXZOc3BONldnTDZFV3Nlclp5bGVZSWxFbkZCOVBJ?oc=5)
-
-2026-11-02
-
-出典: [Laodong.vn](https://news.google.com/rss/articles/CBMirwFBVV95cUxNLVFHazRRdXdkSUlsdjd1VFV2OGR1MFVYa0g2Y2M0b1lBc082ZVl5TUc1Ym1HNDU0ZzNZbFNNNDVrSkdva3ExQjZVdWF1MzlZS3lOSF83ZHAxcWlaV3V1OFZEOHM3bTUxM3hSd1gyZ1J3dG91MUdkbU1DTlhJcUVHODFkXzVPSzdjeHFnR296TlBCYXZOc3BONldnTDZFV3Nlclp5bGVZSWxFbkZCOVBJ?oc=5)
+出典: [Laodong.vn](https://news.google.com/rss/articles/CBMimgFBVV95cUxPMVFsbjlUWENENUpIaWJrNnc5Ujl1WU9tODdRSFhWaDcwdTNjMWdNV25aeHE5ekM0bzh5TkhuWFlHdG9tejVRZmgyYnp2Zkp0cE15ZEZqZkNVdnFDUmNST1lHclBydWdhMGxrX3RmZ0xJTjR1Wm1wcmNOSkpZNUhNNFU4T3FYUzhEX29mblhLSDhHMkxZMjl4a29B?oc=5)
 
 ---
 

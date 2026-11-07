@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "大腸がん (colonic neoplasm) に関する健康ニュース。ニュース 1 件、関連医薬品 1 件。"
 permalink: /news/colonic-neoplasm/
-last_modified_at: 2026-11-06
+last_modified_at: 2026-11-07
 ---
 
 # 大腸がん (colonic neoplasm) 関連ニュース
@@ -32,11 +32,11 @@ last_modified_at: 2026-11-06
 
 ## 関連ニュース（1 件）
 
-### [【大腸がん研究の最前線】40歳未満の患者の約70％で腸内細菌の関与を確認 1965年以降生まれではその割合が増加 研究から見えてきた新たな予防への可能性【前後編の後編】](https://news.google.com/rss/articles/CBMibkFVX3lxTE5jbjlWUkhrTk9SdkVvcXhWWGpnZG1FakZHNWJPY2pucmhjRHpPVXUxb0ZveE9fOGE3MEtsdHRzZkxpU0d4SU1EV1lyVEc5REJSUU16SHJiR0ZLVHJ3Z0dHbkoxdzU4Q25MSlo5N2pn?oc=5)
+### [大腸がん検診 習慣化勧める 石垣で市民講座](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pZDRGUlRWNXlOZUVKZ3g1bUNabTJqcTEyM3FDTS1UcldJRE4yWFJzWS1pZ1F5UmR3dlJaT3pVcS1UWkZrSjVyZVNEQWZDb0lhekFWQmRUZEZwVzR5c3c?oc=5)
 
-2026-11-05
+2026-10-31
 
-出典: [NEWSポストセブン](https://news.google.com/rss/articles/CBMibkFVX3lxTE5jbjlWUkhrTk9SdkVvcXhWWGpnZG1FakZHNWJPY2pucmhjRHpPVXUxb0ZveE9fOGE3MEtsdHRzZkxpU0d4SU1EV1lyVEc5REJSUU16SHJiR0ZLVHJ3Z0dHbkoxdzU4Q25MSlo5N2pn?oc=5)
+出典: [沖縄タイムス社](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1pZDRGUlRWNXlOZUVKZ3g1bUNabTJqcTEyM3FDTS1UcldJRE4yWFJzWS1pZ1F5UmR3dlJaT3pVcS1UWkZrSjVyZVNEQWZDb0lhekFWQmRUZEZwVzR5c3c?oc=5)
 
 ---
 

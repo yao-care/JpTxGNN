@@ -3,7 +3,7 @@ layout: default
 title: "インフルエンザ (influenza) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 5 件、関連医薬品 1 件。"
+description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 6 件、関連医薬品 1 件。"
 permalink: /news/influenza/
 last_modified_at: 2026-11-07
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="インフルエンザ (influenza) に関するニュースは？">
-<strong>インフルエンザ (influenza)</strong> には現在 <strong>5 件</strong>の関連ニュースと 1 件の関連医薬品があります。
+<strong>インフルエンザ (influenza)</strong> には現在 <strong>6 件</strong>の関連ニュースと 1 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ last_modified_at: 2026-11-07
 </ul>
 </div>
 
-## 関連ニュース（5 件）
+## 関連ニュース（6 件）
+
+### [インフルエンザ感染者数が8週ぶりに減少 丹南が最多、次いで福井市 福井県「ピークはこれから」感染対策呼びかけ](https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VdXFEWG1MS3gwRmtyNm1MNkpjQmd0NTJRanBnSnFMY2NjdmxjRndHeWs0bHZELThEZzBIeGJyNzRvT3hUbWN5RS1mVXA2dw?oc=5)
+
+2026-11-05
+
+出典: [FNNプライムオンライン](https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VdXFEWG1MS3gwRmtyNm1MNkpjQmd0NTJRanBnSnFMY2NjdmxjRndHeWs0bHZELThEZzBIeGJyNzRvT3hUbWN5RS1mVXA2dw?oc=5)
+
+---
 
 ### [群馬県内のインフルエンザ感染者 3週ぶりに増加「推移読むのが難しい」 | 上毛新聞電子版｜群馬県のニュース・スポーツ情報](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mUXBoUlBvaGVNMWg2QzlzSWp1THBMRjR6aUZvV0pIMGp1YWpNc0I4ME1kM1RNRHNoMUtMUFZMOFFJMWJGY3UtWnpqZENTLWh0SGZJMDlwUDY2UQ?oc=5)
 
