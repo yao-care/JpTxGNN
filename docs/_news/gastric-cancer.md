@@ -3,9 +3,9 @@ layout: default
 title: "胃がん (gastric cancer) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "胃がん (gastric cancer) に関する健康ニュース。ニュース 1 件、関連医薬品 1 件。"
+description: "胃がん (gastric cancer) に関する健康ニュース。ニュース 2 件、関連医薬品 1 件。"
 permalink: /news/gastric-cancer/
-last_modified_at: 2026-11-05
+last_modified_at: 2026-11-07
 ---
 
 # 胃がん (gastric cancer) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-05
 ---
 
 <p class="key-answer" data-question="胃がん (gastric cancer) に関するニュースは？">
-<strong>胃がん (gastric cancer)</strong> には現在 <strong>1 件</strong>の関連ニュースと 1 件の関連医薬品があります。
+<strong>胃がん (gastric cancer)</strong> には現在 <strong>2 件</strong>の関連ニュースと 1 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ last_modified_at: 2026-11-05
 </ul>
 </div>
 
-## 関連ニュース（1 件）
+## 関連ニュース（2 件）
+
+### [【闘病】「まさにどん底でした」 同じ年に『胃がん』と『乳がん』 2度の告知を受け(メディカルドック)](https://news.yahoo.co.jp/articles/740b2a6c95e614de05f8ff5037415af5f9c63676?source=rss)
+
+2026-11-07
+
+出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/740b2a6c95e614de05f8ff5037415af5f9c63676?source=rss)
+
+---
 
 ### [胃がんの発症に深く関わる「ピロリ菌」――除菌と検査について知っておきたいこと(Medical Note)](https://news.yahoo.co.jp/articles/6d6f62f6b9e56dcf79db73610a70a25bf34b1341?source=rss)
 
