@@ -15,7 +15,7 @@ last_modified_at: 2026-11-08
 ---
 
 <p class="key-answer" data-question="クラリス錠５０小児用　５０ｍｇ（選） に関するニュースは？">
-<strong>クラリス錠５０小児用　５０ｍｇ（選）</strong> には現在 <strong>12 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>クラリス錠５０小児用　５０ｍｇ（選）</strong> には現在 <strong>10 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,7 @@ last_modified_at: 2026-11-08
 <p><a href="{{ '/drugs/clarithromycin/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（12 件）
+## 関連ニュース（10 件）
 
 ### [【闘病】“太っただけ”と思っていたおなかの張り…正体は14cmの腫瘍『悪性リンパ腫』(メディカルドック)](https://news.yahoo.co.jp/articles/e67f63331455a378e6e49fd62d347db8d9016dd8?source=rss)
 
@@ -79,22 +79,6 @@ last_modified_at: 2026-11-08
 
 ---
 
-### [膵臓がん治療薬ダラキソンラシブ：イタリアでの入手方法 - Futuro Prossimo](https://news.google.com/rss/articles/CBMinwFBVV95cUxQTWR3eTJxYTV6UDl6M2VvN3BZQm9ZYVptY05UOW1ocS1OWU1QaWFrdHJCb2ZzamZodXBBaldpakJyWkQxdlFUWXlmQWd2SURUSUhXUWpSdGx0SnB4UVFxZ1k1T1RRRjlOUmFlYlpMTy1oN281YVg1aE5pLXM1SF9jZWtDbGxxVmRfdUhFVE5ibVdIeTRIYkdaNERYa3JmYkU?oc=5)
-
-2026-11-06 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">膵臓がん</span>
-
-出典: [Futuro Prossimo](https://news.google.com/rss/articles/CBMinwFBVV95cUxQTWR3eTJxYTV6UDl6M2VvN3BZQm9ZYVptY05UOW1ocS1OWU1QaWFrdHJCb2ZzamZodXBBaldpakJyWkQxdlFUWXlmQWd2SURUSUhXUWpSdGx0SnB4UVFxZ1k1T1RRRjlOUmFlYlpMTy1oN281YVg1aE5pLXM1SF9jZWtDbGxxVmRfdUhFVE5ibVdIeTRIYkdaNERYa3JmYkU?oc=5)
-
----
-
-### [【大腸がん研究の最前線】日本人患者の約半数で腸内細菌の関与を確認、若年発症でより顕著に ゲノム解析で新たな発症要因が明らかに【前後編の前編】](https://news.google.com/rss/articles/CBMid0FVX3lxTFAtazlaRjVCZ1pma1N3bzZ4dUVBMzgwMWtObkdlMWp5QnBPT25PT19Yd1UwMGVyNzRXZG9fNDBKcjFWODNQMnZVNmdvT2lfekNjSWtyNl9hY3pycmZlTE9zbkg4dnV5cU03SmhEUlVZcTNoT3pmNURN?oc=5)
-
-2026-11-05 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
-
-出典: [NEWSポストセブン](https://news.google.com/rss/articles/CBMid0FVX3lxTFAtazlaRjVCZ1pma1N3bzZ4dUVBMzgwMWtObkdlMWp5QnBPT25PT19Yd1UwMGVyNzRXZG9fNDBKcjFWODNQMnZVNmdvT2lfekNjSWtyNl9hY3pycmZlTE9zbkg4dnV5cU03SmhEUlVZcTNoT3pmNURN?oc=5)
-
----
-
 ### [胃がんの発症に深く関わる「ピロリ菌」――除菌と検査について知っておきたいこと(Medical Note)](https://news.yahoo.co.jp/articles/6d6f62f6b9e56dcf79db73610a70a25bf34b1341?source=rss)
 
 2026-11-05 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">胃がん</span>
@@ -111,19 +95,19 @@ last_modified_at: 2026-11-08
 
 ---
 
+### [【すい臓がん治療最前線】画期的新薬「ダラクソンラシブ」に高まる期待 「百年に一度の薬」と絶賛されるも、日本で保険診療として承認されるためには“高すぎる薬価”の壁(マネーポストWEB)](https://news.google.com/rss/articles/CBMihwFBVV95cUxOUm1yMW5oNXFfNEplUWpxaFE5aTRVckFaZHFiZ2xFbzJiUnU3Y08wZl9CczliMmIwNWtwaDNlTHFNNWUtbTJiN3hHVDR0TEhETVplR24yRmZ4eFBMa3dreXFUYXVVWm1UWUxvcXRfdVJveEZ6OVVRdmo1MUVfeENUNG9MM1V4TW8?oc=5)
+
+2026-11-02 <span class="news-indication-tag">がん</span>
+
+出典: [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxOUm1yMW5oNXFfNEplUWpxaFE5aTRVckFaZHFiZ2xFbzJiUnU3Y08wZl9CczliMmIwNWtwaDNlTHFNNWUtbTJiN3hHVDR0TEhETVplR24yRmZ4eFBMa3dreXFUYXVVWm1UWUxvcXRfdVJveEZ6OVVRdmo1MUVfeENUNG9MM1V4TW8?oc=5)
+
+---
+
 ### [CDK4/6阻害薬後に進行したHR+/HER2-乳がんへのアベマシクリブ＋フルベストラント、最終OS結果（postMONARCH）／ESMO2026｜CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RWGlzczBaSnpObFlsdjVRQ1FsaWQ2MXkxSU5nVV85LTZSRlRxa19UNVcxZXY4UnZwa0pwRU41QkJha1lmTUJ4N21yNGZCWFFIQlhnWkl2RExhQndISi1r?oc=5)
 
 2026-11-02 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
 
 出典: [CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RWGlzczBaSnpObFlsdjVRQ1FsaWQ2MXkxSU5nVV85LTZSRlRxa19UNVcxZXY4UnZwa0pwRU41QkJha1lmTUJ4N21yNGZCWFFIQlhnWkl2RExhQndISi1r?oc=5)
-
----
-
-### [がんを撃退する「遺伝子改変T細胞療法」をAIで改良(Forbes JAPAN)](https://news.yahoo.co.jp/articles/5c4c70fd6d5e36badb6cc5c78b0a8135c398e42c?source=rss)
-
-2026-11-02 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">腫瘍</span>
-
-出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/5c4c70fd6d5e36badb6cc5c78b0a8135c398e42c?source=rss)
 
 ---
 

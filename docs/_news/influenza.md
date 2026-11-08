@@ -3,9 +3,9 @@ layout: default
 title: "インフルエンザ (influenza) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 6 件、関連医薬品 1 件。"
+description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 7 件、関連医薬品 1 件。"
 permalink: /news/influenza/
-last_modified_at: 2026-11-07
+last_modified_at: 2026-11-08
 ---
 
 # インフルエンザ (influenza) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="インフルエンザ (influenza) に関するニュースは？">
-<strong>インフルエンザ (influenza)</strong> には現在 <strong>6 件</strong>の関連ニュースと 1 件の関連医薬品があります。
+<strong>インフルエンザ (influenza)</strong> には現在 <strong>7 件</strong>の関連ニュースと 1 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ last_modified_at: 2026-11-07
 </ul>
 </div>
 
-## 関連ニュース（6 件）
+## 関連ニュース（7 件）
+
+### [最新“栄養ケア”で〈インフルエンザ・コロナ〉を防ぐ、感染症予防の落とし穴と免疫力アップ法](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KTkcwVWVKQjVzME1kTUItTHU4ZzhxdXA2U0dYQVVvZ1c4TFFQQko1TXJya2RkUjcyRWV5THJwNFpPbDJHSGVrajJweEdYZS1EaWV2M2U0bnl3WkNEX0E?oc=5)
+
+2026-11-07
+
+出典: [Infoseek](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KTkcwVWVKQjVzME1kTUItTHU4ZzhxdXA2U0dYQVVvZ1c4TFFQQko1TXJya2RkUjcyRWV5THJwNFpPbDJHSGVrajJweEdYZS1EaWV2M2U0bnl3WkNEX0E?oc=5)
+
+---
 
 ### [【子どもたちのインフルエンザ予防接種へ｜日本初の鼻に噴霧するタイプ「フルミスト点鼻液」｜埼玉県...](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HR1VjRjJqVUxpUzJ3T3J0SThDLVUxX1pvemZNSlNBMWpITWtaVFJ3SF9QLXdhZ1diREh2My1NaXNNOU9GaTloUGFuSE01dUlPSjN6VGhPX0FUWnhVdzRR?oc=5)
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-08
 ---
 
 <p class="key-answer" data-question="タミフルドライシロップ３％（選） に関するニュースは？">
-<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>6 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>7 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ last_modified_at: 2026-11-08
 <p><a href="{{ '/drugs/oseltamivir/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（6 件）
+## 関連ニュース（7 件）
+
+### [最新“栄養ケア”で〈インフルエンザ・コロナ〉を防ぐ、感染症予防の落とし穴と免疫力アップ法](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KTkcwVWVKQjVzME1kTUItTHU4ZzhxdXA2U0dYQVVvZ1c4TFFQQko1TXJya2RkUjcyRWV5THJwNFpPbDJHSGVrajJweEdYZS1EaWV2M2U0bnl3WkNEX0E?oc=5)
+
+2026-11-07 <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [Infoseek](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KTkcwVWVKQjVzME1kTUItTHU4ZzhxdXA2U0dYQVVvZ1c4TFFQQko1TXJya2RkUjcyRWV5THJwNFpPbDJHSGVrajJweEdYZS1EaWV2M2U0bnl3WkNEX0E?oc=5)
+
+---
 
 ### [【子どもたちのインフルエンザ予防接種へ｜日本初の鼻に噴霧するタイプ「フルミスト点鼻液」｜埼玉県...](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HR1VjRjJqVUxpUzJ3T3J0SThDLVUxX1pvemZNSlNBMWpITWtaVFJ3SF9QLXdhZ1diREh2My1NaXNNOU9GaTloUGFuSE01dUlPSjN6VGhPX0FUWnhVdzRR?oc=5)
 
