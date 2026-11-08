@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "リドカイン（１８ｍｇ）３０．５ｍｍ×５０．０ｍｍ貼付剤 に関する健康ニュース。予測適応症 10 件。"
 permalink: /news/lidocaine/
-last_modified_at: 2026-11-07
+last_modified_at: 2026-11-08
 ---
 
 # リドカイン（１８ｍｇ）３０．５ｍｍ×５０．０ｍｍ貼付剤 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-07
 ---
 
 <p class="key-answer" data-question="リドカイン（１８ｍｇ）３０．５ｍｍ×５０．０ｍｍ貼付剤 に関するニュースは？">
-<strong>リドカイン（１８ｍｇ）３０．５ｍｍ×５０．０ｍｍ貼付剤</strong> には現在 <strong>11 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>リドカイン（１８ｍｇ）３０．５ｍｍ×５０．０ｍｍ貼付剤</strong> には現在 <strong>12 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,29 @@ last_modified_at: 2026-11-07
 <p><a href="{{ '/drugs/lidocaine/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（11 件）
+## 関連ニュース（12 件）
+
+### [【闘病】“太っただけ”と思っていたおなかの張り…正体は14cmの腫瘍『悪性リンパ腫』(メディカルドック)](https://news.yahoo.co.jp/articles/e67f63331455a378e6e49fd62d347db8d9016dd8?source=rss)
+
+2026-11-08 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">腫瘍</span> <span class="news-indication-tag">リンパ腫</span> <span class="news-indication-tag">悪性リンパ腫</span>
+
+出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/e67f63331455a378e6e49fd62d347db8d9016dd8?source=rss)
+
+---
+
+### [で、結局どうなった？ ハンタウイルス感染症、ネパールの洪水、HPVワクチン…「事の顛末」最後までフォローを！](https://news.google.com/rss/articles/CBMif0FVX3lxTE13ZU4xMmRoMEQydF93MkZUZjJFOVZtTFc4Q0tjcWwxUldOMldHNDVEUDdkZHhFQ2hRRlRuTHNUWlJtTTc5NjlNTWpQdlBMUWN3WkhmWDZWOU1qdXJyaFFxVHAteGtwZXpJVWFwbEhyQ01QSy05LWhyeXdKd09zdFU?oc=5)
+
+2026-11-08 <span class="news-indication-tag">がん</span>
+
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE13ZU4xMmRoMEQydF93MkZUZjJFOVZtTFc4Q0tjcWwxUldOMldHNDVEUDdkZHhFQ2hRRlRuTHNUWlJtTTc5NjlNTWpQdlBMUWN3WkhmWDZWOU1qdXJyaFFxVHAteGtwZXpJVWFwbEhyQ01QSy05LWhyeXdKd09zdFU?oc=5)
+
+---
 
 ### [局所進行食道がんに対する根治的な化学放射線療法にデュルバルマブの上乗せ効果を検討するランダム化第II相試験：ARION PRODIGE 67【ESMO2026 胃・食道がん】](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoYjh1bjBEUWF1NlhCd05wb0JsV20xY1RQY0Z6S25TSXo1S3FLTWRpUF9DWHBJREkzZi1SRU13UzdPSWFwVzEtS0h1RXdnN0ZhMUE?oc=5)
 
 2026-11-07 <span class="news-indication-tag">がん</span>
 
 出典: [m3.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoYjh1bjBEUWF1NlhCd05wb0JsV20xY1RQY0Z6S25TSXo1S3FLTWRpUF9DWHBJREkzZi1SRU13UzdPSWFwVzEtS0h1RXdnN0ZhMUE?oc=5)
-
----
-
-### [男性も打ちませんかＨＰＶワクチン 北とかちみんなのクリニック 久滝俊博院長～ドクターリレー（８０）](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1FYUU5ZjZKX0dlWERhR0lWaHhRM3loMV85cmtlM3U3OVhwek90eVNBMTZJQ244TlYydVlGSEkzbk9wSGNqS1JMblM3X01sNzhsMVlEUDFOT1ZvVWZaOThvb1doZXE?oc=5)
-
-2026-11-07 <span class="news-indication-tag">がん</span>
-
-出典: [十勝毎日新聞](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1FYUU5ZjZKX0dlWERhR0lWaHhRM3loMV85cmtlM3U3OVhwek90eVNBMTZJQ244TlYydVlGSEkzbk9wSGNqS1JMblM3X01sNzhsMVlEUDFOT1ZvVWZaOThvb1doZXE?oc=5)
 
 ---
 
@@ -68,11 +76,11 @@ last_modified_at: 2026-11-07
 
 ---
 
-### [子宮頸がん死５０年に４割増 米大推計、世界の格差深刻](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XemdVcS1GVnR6VDdqaUFMaWZxMkdadEVjcXpxY1pyRFh3WG8ta2FzbnVwa21ybmNlSWNxVklBQUNSREpfamlwUGwwRkhqQzh0Mmw3MnhiRUltRExkQkdHN2lEUU8?oc=5)
+### [子宮頸がん死2050年までに4割増 米ワシントン大推計、世界の格差深刻](https://news.google.com/rss/articles/CBMidkFVX3lxTE5xR1YwMVkzTUN0dlpOREZ6cW9hSFJvSWM1Y1dwYTJ0dG1yWjNLSml4VVhtN2puUTBDZWhWRE1makdYLTNXczlQckpEV0ExRlRJYjFaQno5clRHelVpb0J1cWhqSzRMTTlUX0dLWFpiMlRWX0xfd3c?oc=5)
 
 2026-11-06 <span class="news-indication-tag">がん</span>
 
-出典: [東京新聞](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XemdVcS1GVnR6VDdqaUFMaWZxMkdadEVjcXpxY1pyRFh3WG8ta2FzbnVwa21ybmNlSWNxVklBQUNSREpfamlwUGwwRkhqQzh0Mmw3MnhiRUltRExkQkdHN2lEUU8?oc=5)
+出典: [産経ニュース](https://news.google.com/rss/articles/CBMidkFVX3lxTE5xR1YwMVkzTUN0dlpOREZ6cW9hSFJvSWM1Y1dwYTJ0dG1yWjNLSml4VVhtN2puUTBDZWhWRE1makdYLTNXczlQckpEV0ExRlRJYjFaQno5clRHelVpb0J1cWhqSzRMTTlUX0dLWFpiMlRWX0xfd3c?oc=5)
 
 ---
 
@@ -84,11 +92,11 @@ last_modified_at: 2026-11-07
 
 ---
 
-### [【大腸がん研究の最前線】40歳未満の患者の約70％で腸内細菌の関与を確認 1965年以降生まれではその割合が増加 研究から見えてきた新たな予防への可能性【前後編の後編】](https://news.google.com/rss/articles/CBMibkFVX3lxTE5jbjlWUkhrTk9SdkVvcXhWWGpnZG1FakZHNWJPY2pucmhjRHpPVXUxb0ZveE9fOGE3MEtsdHRzZkxpU0d4SU1EV1lyVEc5REJSUU16SHJiR0ZLVHJ3Z0dHbkoxdzU4Q25MSlo5N2pn?oc=5)
+### [【大腸がん研究の最前線】日本人患者の約半数で腸内細菌の関与を確認、若年発症でより顕著に ゲノム解析で新たな発症要因が明らかに【前後編の前編】](https://news.google.com/rss/articles/CBMid0FVX3lxTFAtazlaRjVCZ1pma1N3bzZ4dUVBMzgwMWtObkdlMWp5QnBPT25PT19Yd1UwMGVyNzRXZG9fNDBKcjFWODNQMnZVNmdvT2lfekNjSWtyNl9hY3pycmZlTE9zbkg4dnV5cU03SmhEUlVZcTNoT3pmNURN?oc=5)
 
 2026-11-05 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
 
-出典: [NEWSポストセブン](https://news.google.com/rss/articles/CBMibkFVX3lxTE5jbjlWUkhrTk9SdkVvcXhWWGpnZG1FakZHNWJPY2pucmhjRHpPVXUxb0ZveE9fOGE3MEtsdHRzZkxpU0d4SU1EV1lyVEc5REJSUU16SHJiR0ZLVHJ3Z0dHbkoxdzU4Q25MSlo5N2pn?oc=5)
+出典: [NEWSポストセブン](https://news.google.com/rss/articles/CBMid0FVX3lxTFAtazlaRjVCZ1pma1N3bzZ4dUVBMzgwMWtObkdlMWp5QnBPT25PT19Yd1UwMGVyNzRXZG9fNDBKcjFWODNQMnZVNmdvT2lfekNjSWtyNl9hY3pycmZlTE9zbkg4dnV5cU03SmhEUlVZcTNoT3pmNURN?oc=5)
 
 ---
 

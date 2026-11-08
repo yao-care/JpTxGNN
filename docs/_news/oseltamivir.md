@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "タミフルドライシロップ３％（選） に関する健康ニュース。予測適応症 0 件。"
 permalink: /news/oseltamivir/
-last_modified_at: 2026-11-07
+last_modified_at: 2026-11-08
 ---
 
 # タミフルドライシロップ３％（選） 関連ニュース
@@ -66,7 +66,7 @@ last_modified_at: 2026-11-07
 
 ### [季節の変わり目、インフルエンザによる危険な合併症の警告](https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1hBeVo0c1c4eVExWWlXVXBYTG0tVHpEUDVMdC0wdkRSMDFRVkZ1cnVPLUFMME1GMDZhLXgwekEzelk3OV9NWGZoVFZ1SGgzNWRmcFJiZzl5RmZsOExQOXJJVUhFTWdXNExsRmROa0RDV2UtSjZRa01pSUxTakxjbnRaSmg4MkIzbUY0LXlJTUp0Zw?oc=5)
 
-2026-11-03 <span class="news-indication-tag">インフルエンザ</span>
+2026-11-03 <span class="news-indication-tag">肺炎</span> <span class="news-indication-tag">インフルエンザ</span>
 
 出典: [Laodong.vn](https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1hBeVo0c1c4eVExWWlXVXBYTG0tVHpEUDVMdC0wdkRSMDFRVkZ1cnVPLUFMME1GMDZhLXgwekEzelk3OV9NWGZoVFZ1SGgzNWRmcFJiZzl5RmZsOExQOXJJVUhFTWdXNExsRmROa0RDV2UtSjZRa01pSUxTakxjbnRaSmg4MkIzbUY0LXlJTUp0Zw?oc=5)
 
