@@ -32,14 +32,6 @@ last_modified_at: 2026-11-08
 
 ## 関連ニュース（7 件）
 
-### [最新“栄養ケア”で〈インフルエンザ・コロナ〉を防ぐ、感染症予防の落とし穴と免疫力アップ法](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KTkcwVWVKQjVzME1kTUItTHU4ZzhxdXA2U0dYQVVvZ1c4TFFQQko1TXJya2RkUjcyRWV5THJwNFpPbDJHSGVrajJweEdYZS1EaWV2M2U0bnl3WkNEX0E?oc=5)
-
-2026-11-07 <span class="news-indication-tag">インフルエンザ</span>
-
-出典: [Infoseek](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KTkcwVWVKQjVzME1kTUItTHU4ZzhxdXA2U0dYQVVvZ1c4TFFQQko1TXJya2RkUjcyRWV5THJwNFpPbDJHSGVrajJweEdYZS1EaWV2M2U0bnl3WkNEX0E?oc=5)
-
----
-
 ### [【子どもたちのインフルエンザ予防接種へ｜日本初の鼻に噴霧するタイプ「フルミスト点鼻液」｜埼玉県...](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HR1VjRjJqVUxpUzJ3T3J0SThDLVUxX1pvemZNSlNBMWpITWtaVFJ3SF9QLXdhZ1diREh2My1NaXNNOU9GaTloUGFuSE01dUlPSjN6VGhPX0FUWnhVdzRR?oc=5)
 
 2026-11-07 <span class="news-indication-tag">インフルエンザ</span>
@@ -64,6 +56,14 @@ last_modified_at: 2026-11-08
 
 ---
 
+### [【三重県インフルエンザ週報】学年閉鎖4校・学級閉鎖11校発生 鈴鹿・四日市・伊勢で県平均上回る＜10月26日～11月1日の感染症情報 - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE96cTZMNnQ5ekx3d3B0MHVWdkhJWWozcjdseVJxdUREM2paMlBvNkJFa21Tc1dQLWhDZWFqSzExUWZISUNobnlyaEotZklGYTk5cnJpSldfc0szYThZV2t0aFhWS2tkdWJSOUkwN3V3?oc=5)
+
+2026-11-04 <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE96cTZMNnQ5ekx3d3B0MHVWdkhJWWozcjdseVJxdUREM2paMlBvNkJFa21Tc1dQLWhDZWFqSzExUWZISUNobnlyaEotZklGYTk5cnJpSldfc0szYThZV2t0aFhWS2tkdWJSOUkwN3V3?oc=5)
+
+---
+
 ### [中世の「ミイラの薬」が細胞をインフルエンザから守る可能性](https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzXzJzbjRZcWo0alBLaTJ4X0IyUXZOc3hPMmNraV95WnMyTWVKaHU0WmV0ZDJaY0NyRjlhbmZpa2N4VDFTeGFJMmlTcEJkUndhMDcwclU2dDFfOG8?oc=5)
 
 2026-11-04 <span class="news-indication-tag">インフルエンザ</span>
@@ -80,11 +80,11 @@ last_modified_at: 2026-11-08
 
 ---
 
-### [ダイソー、セリアetc.｜インフルエンザ・胃腸炎に備えよう！現役保育士もおすすめの感染症対策4選](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnUUtFeDlfdG5MNE9EclZZaVZvNjBtSWtiTmJOdHV4d20xVm9BVUtuOUE2V3ZnS1F2TEFnOU1PTmhza3lqSWlGMGc4VmZ6aElnbDZMVGVDclRjMTRIeUE?oc=5)
+### [ダイソー、セリアetc.｜インフルエンザ・胃腸炎に備えよう！現役保育士もおすすめの感染症対策4選 - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE1WTU1KMkc0M2oxcmVBY2Y1Vm12VldfdjBraGI5MW1Dc3VWR19Ea1E3WGZTRFpJMDUwcldPeXFQZHNhN3VaN2sxelBLZVMtQkFSeWtxWUlZXzY2R3N0cVZVQ0o0SDF0akxJMHBzdWd3?oc=5)
 
-2026-11-01 <span class="news-indication-tag">インフルエンザ</span>
+2026-11-02 <span class="news-indication-tag">インフルエンザ</span>
 
-出典: [たまひよ](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBnUUtFeDlfdG5MNE9EclZZaVZvNjBtSWtiTmJOdHV4d20xVm9BVUtuOUE2V3ZnS1F2TEFnOU1PTmhza3lqSWlGMGc4VmZ6aElnbDZMVGVDclRjMTRIeUE?oc=5)
+出典: [au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE1WTU1KMkc0M2oxcmVBY2Y1Vm12VldfdjBraGI5MW1Dc3VWR19Ea1E3WGZTRFpJMDUwcldPeXFQZHNhN3VaN2sxelBLZVMtQkFSeWtxWUlZXzY2R3N0cVZVQ0o0SDF0akxJMHBzdWd3?oc=5)
 
 ---
 

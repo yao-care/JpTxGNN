@@ -49,14 +49,6 @@ last_modified_at: 2026-11-08
 
 ---
 
-### [で、結局どうなった？ ハンタウイルス感染症、ネパールの洪水、HPVワクチン…「事の顛末」最後までフォローを！](https://news.google.com/rss/articles/CBMif0FVX3lxTE13ZU4xMmRoMEQydF93MkZUZjJFOVZtTFc4Q0tjcWwxUldOMldHNDVEUDdkZHhFQ2hRRlRuTHNUWlJtTTc5NjlNTWpQdlBMUWN3WkhmWDZWOU1qdXJyaFFxVHAteGtwZXpJVWFwbEhyQ01QSy05LWhyeXdKd09zdFU?oc=5)
-
-2026-11-08 <span class="news-indication-tag">がん</span>
-
-出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE13ZU4xMmRoMEQydF93MkZUZjJFOVZtTFc4Q0tjcWwxUldOMldHNDVEUDdkZHhFQ2hRRlRuTHNUWlJtTTc5NjlNTWpQdlBMUWN3WkhmWDZWOU1qdXJyaFFxVHAteGtwZXpJVWFwbEhyQ01QSy05LWhyeXdKd09zdFU?oc=5)
-
----
-
 ### [局所進行食道がんに対する根治的な化学放射線療法にデュルバルマブの上乗せ効果を検討するランダム化第II相試験：ARION PRODIGE 67【ESMO2026 胃・食道がん】](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoYjh1bjBEUWF1NlhCd05wb0JsV20xY1RQY0Z6S25TSXo1S3FLTWRpUF9DWHBJREkzZi1SRU13UzdPSWFwVzEtS0h1RXdnN0ZhMUE?oc=5)
 
 2026-11-07 <span class="news-indication-tag">がん</span>
@@ -65,19 +57,27 @@ last_modified_at: 2026-11-08
 
 ---
 
+### [HPVワクチンの接種で子宮頚がんの死亡率が100％減少する？ 世界的医学誌に研究論文｜役に立つオモシロ医学論文](https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6QURJQ1RPWmRXRE45X1dySzlRUmJjZGprTnpaZ0tocnl4QzNMMzB5bXQ0cXJYdThQMnVhZWd3VnV5dlJSd25CcTczeFBBRFk1eUFZbHhLMkVLVWRhZm9vOTdjOXZCenBV?oc=5)
+
+2026-11-07 <span class="news-indication-tag">がん</span>
+
+出典: [日刊ゲンダイDIGITAL](https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6QURJQ1RPWmRXRE45X1dySzlRUmJjZGprTnpaZ0tocnl4QzNMMzB5bXQ0cXJYdThQMnVhZWd3VnV5dlJSd25CcTczeFBBRFk1eUFZbHhLMkVLVWRhZm9vOTdjOXZCenBV?oc=5)
+
+---
+
+### [子宮頸がん死５０年に４割増 米大推計、世界の格差深刻](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCU1hZRHJVY3NTNEw3MmhoT3dUVGU0WG9iS2NpNHp0dENrSTcwRHlKeWI1Ti1HTC1NcDM5ZmttY3p6aGRKMGtTZGQwSzZEOWVRSnE0?oc=5)
+
+2026-11-07 <span class="news-indication-tag">がん</span>
+
+出典: [東京新聞](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCU1hZRHJVY3NTNEw3MmhoT3dUVGU0WG9iS2NpNHp0dENrSTcwRHlKeWI1Ti1HTC1NcDM5ZmttY3p6aGRKMGtTZGQwSzZEOWVRSnE0?oc=5)
+
+---
+
 ### [【闘病】「まさにどん底でした」 同じ年に『胃がん』と『乳がん』 2度の告知を受け(メディカルドック)](https://news.yahoo.co.jp/articles/740b2a6c95e614de05f8ff5037415af5f9c63676?source=rss)
 
 2026-11-07 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">胃がん</span> <span class="news-indication-tag">乳がん</span>
 
 出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/740b2a6c95e614de05f8ff5037415af5f9c63676?source=rss)
-
----
-
-### [子宮頸がん死2050年までに4割増 米ワシントン大推計、世界の格差深刻](https://news.google.com/rss/articles/CBMidkFVX3lxTE5xR1YwMVkzTUN0dlpOREZ6cW9hSFJvSWM1Y1dwYTJ0dG1yWjNLSml4VVhtN2puUTBDZWhWRE1makdYLTNXczlQckpEV0ExRlRJYjFaQno5clRHelVpb0J1cWhqSzRMTTlUX0dLWFpiMlRWX0xfd3c?oc=5)
-
-2026-11-06 <span class="news-indication-tag">がん</span>
-
-出典: [産経ニュース](https://news.google.com/rss/articles/CBMidkFVX3lxTE5xR1YwMVkzTUN0dlpOREZ6cW9hSFJvSWM1Y1dwYTJ0dG1yWjNLSml4VVhtN2puUTBDZWhWRE1makdYLTNXczlQckpEV0ExRlRJYjFaQno5clRHelVpb0J1cWhqSzRMTTlUX0dLWFpiMlRWX0xfd3c?oc=5)
 
 ---
 

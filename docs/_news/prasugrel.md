@@ -15,7 +15,7 @@ last_modified_at: 2026-11-08
 ---
 
 <p class="key-answer" data-question="プラスグレル錠５ｍｇ「ＤＳＥＰ」 に関するニュースは？">
-<strong>プラスグレル錠５ｍｇ「ＤＳＥＰ」</strong> には現在 <strong>12 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
+<strong>プラスグレル錠５ｍｇ「ＤＳＥＰ」</strong> には現在 <strong>11 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
 </p>
 
 <div class="key-takeaway">
@@ -41,21 +41,13 @@ last_modified_at: 2026-11-08
 <p><a href="{{ '/drugs/prasugrel/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（12 件）
+## 関連ニュース（11 件）
 
 ### [【闘病】“太っただけ”と思っていたおなかの張り…正体は14cmの腫瘍『悪性リンパ腫』(メディカルドック)](https://news.yahoo.co.jp/articles/e67f63331455a378e6e49fd62d347db8d9016dd8?source=rss)
 
 2026-11-08 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">腫瘍</span> <span class="news-indication-tag">リンパ腫</span> <span class="news-indication-tag">悪性リンパ腫</span>
 
 出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/e67f63331455a378e6e49fd62d347db8d9016dd8?source=rss)
-
----
-
-### [で、結局どうなった？ ハンタウイルス感染症、ネパールの洪水、HPVワクチン…「事の顛末」最後までフォローを！](https://news.google.com/rss/articles/CBMif0FVX3lxTE13ZU4xMmRoMEQydF93MkZUZjJFOVZtTFc4Q0tjcWwxUldOMldHNDVEUDdkZHhFQ2hRRlRuTHNUWlJtTTc5NjlNTWpQdlBMUWN3WkhmWDZWOU1qdXJyaFFxVHAteGtwZXpJVWFwbEhyQ01QSy05LWhyeXdKd09zdFU?oc=5)
-
-2026-11-08 <span class="news-indication-tag">がん</span>
-
-出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE13ZU4xMmRoMEQydF93MkZUZjJFOVZtTFc4Q0tjcWwxUldOMldHNDVEUDdkZHhFQ2hRRlRuTHNUWlJtTTc5NjlNTWpQdlBMUWN3WkhmWDZWOU1qdXJyaFFxVHAteGtwZXpJVWFwbEhyQ01QSy05LWhyeXdKd09zdFU?oc=5)
 
 ---
 
@@ -67,19 +59,27 @@ last_modified_at: 2026-11-08
 
 ---
 
+### [HPVワクチンの接種で子宮頚がんの死亡率が100％減少する？ 世界的医学誌に研究論文｜役に立つオモシロ医学論文](https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6QURJQ1RPWmRXRE45X1dySzlRUmJjZGprTnpaZ0tocnl4QzNMMzB5bXQ0cXJYdThQMnVhZWd3VnV5dlJSd25CcTczeFBBRFk1eUFZbHhLMkVLVWRhZm9vOTdjOXZCenBV?oc=5)
+
+2026-11-07 <span class="news-indication-tag">がん</span>
+
+出典: [日刊ゲンダイDIGITAL](https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6QURJQ1RPWmRXRE45X1dySzlRUmJjZGprTnpaZ0tocnl4QzNMMzB5bXQ0cXJYdThQMnVhZWd3VnV5dlJSd25CcTczeFBBRFk1eUFZbHhLMkVLVWRhZm9vOTdjOXZCenBV?oc=5)
+
+---
+
+### [子宮頸がん死５０年に４割増 米大推計、世界の格差深刻](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCU1hZRHJVY3NTNEw3MmhoT3dUVGU0WG9iS2NpNHp0dENrSTcwRHlKeWI1Ti1HTC1NcDM5ZmttY3p6aGRKMGtTZGQwSzZEOWVRSnE0?oc=5)
+
+2026-11-07 <span class="news-indication-tag">がん</span>
+
+出典: [東京新聞](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCU1hZRHJVY3NTNEw3MmhoT3dUVGU0WG9iS2NpNHp0dENrSTcwRHlKeWI1Ti1HTC1NcDM5ZmttY3p6aGRKMGtTZGQwSzZEOWVRSnE0?oc=5)
+
+---
+
 ### [【闘病】「まさにどん底でした」 同じ年に『胃がん』と『乳がん』 2度の告知を受け(メディカルドック)](https://news.yahoo.co.jp/articles/740b2a6c95e614de05f8ff5037415af5f9c63676?source=rss)
 
 2026-11-07 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">胃がん</span> <span class="news-indication-tag">乳がん</span>
 
 出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/740b2a6c95e614de05f8ff5037415af5f9c63676?source=rss)
-
----
-
-### [子宮頸がん死2050年までに4割増 米ワシントン大推計、世界の格差深刻](https://news.google.com/rss/articles/CBMidkFVX3lxTE5xR1YwMVkzTUN0dlpOREZ6cW9hSFJvSWM1Y1dwYTJ0dG1yWjNLSml4VVhtN2puUTBDZWhWRE1makdYLTNXczlQckpEV0ExRlRJYjFaQno5clRHelVpb0J1cWhqSzRMTTlUX0dLWFpiMlRWX0xfd3c?oc=5)
-
-2026-11-06 <span class="news-indication-tag">がん</span>
-
-出典: [産経ニュース](https://news.google.com/rss/articles/CBMidkFVX3lxTE5xR1YwMVkzTUN0dlpOREZ6cW9hSFJvSWM1Y1dwYTJ0dG1yWjNLSml4VVhtN2puUTBDZWhWRE1makdYLTNXczlQckpEV0ExRlRJYjFaQno5clRHelVpb0J1cWhqSzRMTTlUX0dLWFpiMlRWX0xfd3c?oc=5)
 
 ---
 
@@ -120,14 +120,6 @@ last_modified_at: 2026-11-08
 2026-11-02 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
 
 出典: [CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RWGlzczBaSnpObFlsdjVRQ1FsaWQ2MXkxSU5nVV85LTZSRlRxa19UNVcxZXY4UnZwa0pwRU41QkJha1lmTUJ4N21yNGZCWFFIQlhnWkl2RExhQndISi1r?oc=5)
-
----
-
-### [FPTロンチャウとバイエルが協力して、国民の脳卒中のリスクをスクリーニング](https://news.google.com/rss/articles/CBMirwFBVV95cUxNLVFHazRRdXdkSUlsdjd1VFV2OGR1MFVYa0g2Y2M0b1lBc082ZVl5TUc1Ym1HNDU0ZzNZbFNNNDVrSkdva3ExQjZVdWF1MzlZS3lOSF83ZHAxcWlaV3V1OFZEOHM3bTUxM3hSd1gyZ1J3dG91MUdkbU1DTlhJcUVHODFkXzVPSzdjeHFnR296TlBCYXZOc3BONldnTDZFV3Nlclp5bGVZSWxFbkZCOVBJ?oc=5)
-
-2026-11-02 <span class="news-indication-tag">脳卒中</span>
-
-出典: [Laodong.vn](https://news.google.com/rss/articles/CBMirwFBVV95cUxNLVFHazRRdXdkSUlsdjd1VFV2OGR1MFVYa0g2Y2M0b1lBc082ZVl5TUc1Ym1HNDU0ZzNZbFNNNDVrSkdva3ExQjZVdWF1MzlZS3lOSF83ZHAxcWlaV3V1OFZEOHM3bTUxM3hSd1gyZ1J3dG91MUdkbU1DTlhJcUVHODFkXzVPSzdjeHFnR296TlBCYXZOc3BONldnTDZFV3Nlclp5bGVZSWxFbkZCOVBJ?oc=5)
 
 ---
 
