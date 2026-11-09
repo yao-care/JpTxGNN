@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "タミフルドライシロップ３％（選） に関する健康ニュース。予測適応症 0 件。"
 permalink: /news/oseltamivir/
-last_modified_at: 2026-11-08
+last_modified_at: 2026-11-09
 ---
 
 # タミフルドライシロップ３％（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-08
 ---
 
 <p class="key-answer" data-question="タミフルドライシロップ３％（選） に関するニュースは？">
-<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>7 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>8 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ last_modified_at: 2026-11-08
 <p><a href="{{ '/drugs/oseltamivir/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（7 件）
+## 関連ニュース（8 件）
+
+### [進歩する間質性肺炎診療と新たな“抗線維化薬”の登場――第3回日本呼吸器学会連携ウェビナー開催(Medical Note)](https://news.yahoo.co.jp/articles/1cd02a1fd3f71da92352488c7603e7beddebf3d8?source=rss)
+
+2026-11-09 <span class="news-indication-tag">肺炎</span>
+
+出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/1cd02a1fd3f71da92352488c7603e7beddebf3d8?source=rss)
+
+---
 
 ### [【子どもたちのインフルエンザ予防接種へ｜日本初の鼻に噴霧するタイプ「フルミスト点鼻液」｜埼玉県...](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HR1VjRjJqVUxpUzJ3T3J0SThDLVUxX1pvemZNSlNBMWpITWtaVFJ3SF9QLXdhZ1diREh2My1NaXNNOU9GaTloUGFuSE01dUlPSjN6VGhPX0FUWnhVdzRR?oc=5)
 

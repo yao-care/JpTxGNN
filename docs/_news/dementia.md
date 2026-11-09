@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "認知症 (dementia) に関する健康ニュース。ニュース 3 件、関連医薬品 2 件。"
 permalink: /news/dementia/
-last_modified_at: 2026-11-07
+last_modified_at: 2026-11-09
 ---
 
 # 認知症 (dementia) 関連ニュース
@@ -33,11 +33,11 @@ last_modified_at: 2026-11-07
 
 ## 関連ニュース（3 件）
 
-### [認知症を加速する男性ホルモン作用破綻の機序を解明－都長寿研](https://news.google.com/rss/articles/CBMigAFBVV95cUxNQzJ5MWQ3SjQ5YzhjZ3RzYWUzUTBESUZNYmhwa2pudUFfOW1nc0Q1R3Y1aXBCbUlNNFRBa1lFVWJHMXl4RDltSWpGbmt3STFNYVVZZEdsS3NGQzYySXc5Wlc5NDlBcDhPMm5DTDVGd3BremVUWFZRWUNHdlZwZU4yMw?oc=5)
+### [毎日42分の「明るい光」で認知症リスクが17%低い傾向に：8.7万人の追跡研究で判明](https://news.google.com/rss/articles/CBMijwFBVV95cUxNemFISms4Wi05d21tQi1GRGxzUDlUQ0tkM0Z5ZWEwX0VZVzRwTko1QklsRWhieGhhY1RoV3VWSXFWZWpVemJ2RDhWUHczT0JSRnV3Y25iczlnckRWWmpnQV8wX3REanZxazdQSzliSzdDWXhmanRhenFsUUwxbVNfZzlieEJhb1YzUXVUMmMxbw?oc=5)
 
-2026-11-06
+2026-11-09
 
-出典: [QLifePro](https://news.google.com/rss/articles/CBMigAFBVV95cUxNQzJ5MWQ3SjQ5YzhjZ3RzYWUzUTBESUZNYmhwa2pudUFfOW1nc0Q1R3Y1aXBCbUlNNFRBa1lFVWJHMXl4RDltSWpGbmt3STFNYVVZZEdsS3NGQzYySXc5Wlc5NDlBcDhPMm5DTDVGd3BremVUWFZRWUNHdlZwZU4yMw?oc=5)
+出典: [XenoSpectrum](https://news.google.com/rss/articles/CBMijwFBVV95cUxNemFISms4Wi05d21tQi1GRGxzUDlUQ0tkM0Z5ZWEwX0VZVzRwTko1QklsRWhieGhhY1RoV3VWSXFWZWpVemJ2RDhWUHczT0JSRnV3Y25iczlnckRWWmpnQV8wX3REanZxazdQSzliSzdDWXhmanRhenFsUUwxbVNfZzlieEJhb1YzUXVUMmMxbw?oc=5)
 
 ---
 

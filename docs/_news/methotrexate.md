@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "リウマトレックスカプセル２ｍｇ（選） に関する健康ニュース。予測適応症 7 件。"
 permalink: /news/methotrexate/
-last_modified_at: 2026-11-08
+last_modified_at: 2026-11-09
 ---
 
 # リウマトレックスカプセル２ｍｇ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-08
 ---
 
 <p class="key-answer" data-question="リウマトレックスカプセル２ｍｇ（選） に関するニュースは？">
-<strong>リウマトレックスカプセル２ｍｇ（選）</strong> には現在 <strong>10 件</strong>の関連ニュースがあり、予測適応症は 7 件です。
+<strong>リウマトレックスカプセル２ｍｇ（選）</strong> には現在 <strong>12 件</strong>の関連ニュースがあり、予測適応症は 7 件です。
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,7 @@ last_modified_at: 2026-11-08
 <p><a href="{{ '/drugs/methotrexate/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（10 件）
+## 関連ニュース（12 件）
 
 ### [【闘病】“太っただけ”と思っていたおなかの張り…正体は14cmの腫瘍『悪性リンパ腫』(メディカルドック)](https://news.yahoo.co.jp/articles/e67f63331455a378e6e49fd62d347db8d9016dd8?source=rss)
 
@@ -65,19 +65,43 @@ last_modified_at: 2026-11-08
 
 ---
 
-### [子宮頸がん死５０年に４割増 米大推計、世界の格差深刻](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCU1hZRHJVY3NTNEw3MmhoT3dUVGU0WG9iS2NpNHp0dENrSTcwRHlKeWI1Ti1HTC1NcDM5ZmttY3p6aGRKMGtTZGQwSzZEOWVRSnE0?oc=5)
-
-2026-11-07 <span class="news-indication-tag">がん</span>
-
-出典: [東京新聞](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCU1hZRHJVY3NTNEw3MmhoT3dUVGU0WG9iS2NpNHp0dENrSTcwRHlKeWI1Ti1HTC1NcDM5ZmttY3p6aGRKMGtTZGQwSzZEOWVRSnE0?oc=5)
-
----
-
 ### [【闘病】「まさにどん底でした」 同じ年に『胃がん』と『乳がん』 2度の告知を受け(メディカルドック)](https://news.yahoo.co.jp/articles/740b2a6c95e614de05f8ff5037415af5f9c63676?source=rss)
 
 2026-11-07 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">胃がん</span> <span class="news-indication-tag">乳がん</span>
 
 出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/740b2a6c95e614de05f8ff5037415af5f9c63676?source=rss)
+
+---
+
+### [子宮頸がん死2050年までに4割増 米ワシントン大推計、世界の格差深刻](https://news.google.com/rss/articles/CBMidkFVX3lxTE5xR1YwMVkzTUN0dlpOREZ6cW9hSFJvSWM1Y1dwYTJ0dG1yWjNLSml4VVhtN2puUTBDZWhWRE1makdYLTNXczlQckpEV0ExRlRJYjFaQno5clRHelVpb0J1cWhqSzRMTTlUX0dLWFpiMlRWX0xfd3c?oc=5)
+
+2026-11-06 <span class="news-indication-tag">がん</span>
+
+出典: [産経ニュース](https://news.google.com/rss/articles/CBMidkFVX3lxTE5xR1YwMVkzTUN0dlpOREZ6cW9hSFJvSWM1Y1dwYTJ0dG1yWjNLSml4VVhtN2puUTBDZWhWRE1makdYLTNXczlQckpEV0ExRlRJYjFaQno5clRHelVpb0J1cWhqSzRMTTlUX0dLWFpiMlRWX0xfd3c?oc=5)
+
+---
+
+### [子宮頸がん死５０年に４割増 米大推計、世界の格差深刻](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XemdVcS1GVnR6VDdqaUFMaWZxMkdadEVjcXpxY1pyRFh3WG8ta2FzbnVwa21ybmNlSWNxVklBQUNSREpfamlwUGwwRkhqQzh0Mmw3MnhiRUltRExkQkdHN2lEUU8?oc=5)
+
+2026-11-06 <span class="news-indication-tag">がん</span>
+
+出典: [東京新聞](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XemdVcS1GVnR6VDdqaUFMaWZxMkdadEVjcXpxY1pyRFh3WG8ta2FzbnVwa21ybmNlSWNxVklBQUNSREpfamlwUGwwRkhqQzh0Mmw3MnhiRUltRExkQkdHN2lEUU8?oc=5)
+
+---
+
+### [【新製品】乳癌治療薬を新発売‐「イムルリオ錠」 日本イーライリリー](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VRWtOWUFpbWhsT0xzLTAtRXVjbDg3aFE1OEppT1hQZVBEM2p6ZVo4d3Z0b1dmT1cxSHVxMEpELUl6ZUxpZGhscktiX0pIMkhFaGFj?oc=5)
+
+2026-11-06 <span class="news-indication-tag">癌</span> <span class="news-indication-tag">乳癌</span>
+
+出典: [薬事日報](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VRWtOWUFpbWhsT0xzLTAtRXVjbDg3aFE1OEppT1hQZVBEM2p6ZVo4d3Z0b1dmT1cxSHVxMEpELUl6ZUxpZGhscktiX0pIMkhFaGFj?oc=5)
+
+---
+
+### [乳がんステージ2B、再発後も職場の温かい配慮で仕事を続けながら大切にする当たり前の日常](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rd3VJYjVCaXVNeTVjazBwSmJoR1pMS2tzZVF4ZVAxR3ptSXdpeVBCU0cxZGo3R1gyZlZ6MjVPbm12bnM0Z191dlRfQTcyYm5aYnVJ?oc=5)
+
+2026-11-06 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
+
+出典: [がん情報サイト「オンコロ」](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rd3VJYjVCaXVNeTVjazBwSmJoR1pMS2tzZVF4ZVAxR3ptSXdpeVBCU0cxZGo3R1gyZlZ6MjVPbm12bnM0Z191dlRfQTcyYm5aYnVJ?oc=5)
 
 ---
 
@@ -110,14 +134,6 @@ last_modified_at: 2026-11-08
 2026-11-02 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
 
 出典: [CareNet.com](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1RWGlzczBaSnpObFlsdjVRQ1FsaWQ2MXkxSU5nVV85LTZSRlRxa19UNVcxZXY4UnZwa0pwRU41QkJha1lmTUJ4N21yNGZCWFFIQlhnWkl2RExhQndISi1r?oc=5)
-
----
-
-### [肥満症が胃噴門部腺がんを進展させる機序をマウスで解明－東北大](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa1dKNlI0Y1pQY0J1UTdFWVFfUGlGaFpzeDloaUhrSnNaU3NwTmFoLTY2cktBZi1ZNk5PejhvQWN6cmlTZjdPUFNtRk5Kc0s4R2FpNkJaalQ2eEhvS2thZzkzWktFcnl6OHhPLV9kNmhncE9lbUM4MTlPc2dkVEJIZ0xQOTVWalhkWXFINVZDdUtTOWszXzhVWTJMQVhXNllPYW9xdTNCNUxhQWNfRGpuNk1KNjhFaEMtYXhvdWlZY2I4UlpQMDdGVXVfRDRKWl9HRHVvRg?oc=5)
-
-2026-11-02 <span class="news-indication-tag">がん</span>
-
-出典: [QLifePro](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa1dKNlI0Y1pQY0J1UTdFWVFfUGlGaFpzeDloaUhrSnNaU3NwTmFoLTY2cktBZi1ZNk5PejhvQWN6cmlTZjdPUFNtRk5Kc0s4R2FpNkJaalQ2eEhvS2thZzkzWktFcnl6OHhPLV9kNmhncE9lbUM4MTlPc2dkVEJIZ0xQOTVWalhkWXFINVZDdUtTOWszXzhVWTJMQVhXNllPYW9xdTNCNUxhQWNfRGpuNk1KNjhFaEMtYXhvdWlZY2I4UlpQMDdGVXVfRDRKWl9HRHVvRg?oc=5)
 
 ---
 
