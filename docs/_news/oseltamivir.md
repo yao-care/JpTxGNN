@@ -56,19 +56,27 @@ last_modified_at: 2026-11-09
 
 ---
 
-### [群馬県内のインフルエンザ感染者 3週ぶりに増加「推移読むのが難しい」 | 上毛新聞電子版｜群馬県のニュース・スポーツ情報](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mUXBoUlBvaGVNMWg2QzlzSWp1THBMRjR6aUZvV0pIMGp1YWpNc0I4ME1kM1RNRHNoMUtMUFZMOFFJMWJGY3UtWnpqZENTLWh0SGZJMDlwUDY2UQ?oc=5)
-
-2026-11-05 <span class="news-indication-tag">インフルエンザ</span>
-
-出典: [上毛新聞電子版](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mUXBoUlBvaGVNMWg2QzlzSWp1THBMRjR6aUZvV0pIMGp1YWpNc0I4ME1kM1RNRHNoMUtMUFZMOFFJMWJGY3UtWnpqZENTLWh0SGZJMDlwUDY2UQ?oc=5)
-
----
-
 ### [【三重県インフルエンザ週報】学年閉鎖4校・学級閉鎖11校発生 鈴鹿・四日市・伊勢で県平均上回る＜10月26日～11月1日の感染症情報 - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE96cTZMNnQ5ekx3d3B0MHVWdkhJWWozcjdseVJxdUREM2paMlBvNkJFa21Tc1dQLWhDZWFqSzExUWZISUNobnlyaEotZklGYTk5cnJpSldfc0szYThZV2t0aFhWS2tkdWJSOUkwN3V3?oc=5)
 
 2026-11-04 <span class="news-indication-tag">インフルエンザ</span>
 
 出典: [au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE96cTZMNnQ5ekx3d3B0MHVWdkhJWWozcjdseVJxdUREM2paMlBvNkJFa21Tc1dQLWhDZWFqSzExUWZISUNobnlyaEotZklGYTk5cnJpSldfc0szYThZV2t0aFhWS2tkdWJSOUkwN3V3?oc=5)
+
+---
+
+### [【第44週】群馬県内でインフルエンザ、RSウイルス報告続く、ヘルパンギーナは警報解除](https://news.google.com/rss/articles/CBMiSkFVX3lxTE9hLXRXUkhhY2V1X0tXS080M1RYTnF5Tmp4aHNqRjl5NDVLRVdfTVNsUnNIVzZHeDRCVmJTdWNTdHNjanI2UFRQUjV3?oc=5)
+
+2026-11-04 <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [みんなの学校新聞](https://news.google.com/rss/articles/CBMiSkFVX3lxTE9hLXRXUkhhY2V1X0tXS080M1RYTnF5Tmp4aHNqRjl5NDVLRVdfTVNsUnNIVzZHeDRCVmJTdWNTdHNjanI2UFRQUjV3?oc=5)
+
+---
+
+### [インフルエンザ３件など 鳥取県内集団感染](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5wcXl2MkxFTVdabFU0RkllWEM3WUNXZFZ6a2ZyTVN4Y2JGbU5JOU1YUUlyT3ZYNmNOY2RHRnVCcDJkSWd0b0xsZXVfb0Z3bU1K?oc=5)
+
+2026-11-04 <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [日本海新聞](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5wcXl2MkxFTVdabFU0RkllWEM3WUNXZFZ6a2ZyTVN4Y2JGbU5JOU1YUUlyT3ZYNmNOY2RHRnVCcDJkSWd0b0xsZXVfb0Z3bU1K?oc=5)
 
 ---
 
@@ -85,14 +93,6 @@ last_modified_at: 2026-11-09
 2026-11-03 <span class="news-indication-tag">肺炎</span> <span class="news-indication-tag">インフルエンザ</span>
 
 出典: [Laodong.vn](https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1hBeVo0c1c4eVExWWlXVXBYTG0tVHpEUDVMdC0wdkRSMDFRVkZ1cnVPLUFMME1GMDZhLXgwekEzelk3OV9NWGZoVFZ1SGgzNWRmcFJiZzl5RmZsOExQOXJJVUhFTWdXNExsRmROa0RDV2UtSjZRa01pSUxTakxjbnRaSmg4MkIzbUY0LXlJTUp0Zw?oc=5)
-
----
-
-### [ダイソー、セリアetc.｜インフルエンザ・胃腸炎に備えよう！現役保育士もおすすめの感染症対策4選 - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE1WTU1KMkc0M2oxcmVBY2Y1Vm12VldfdjBraGI5MW1Dc3VWR19Ea1E3WGZTRFpJMDUwcldPeXFQZHNhN3VaN2sxelBLZVMtQkFSeWtxWUlZXzY2R3N0cVZVQ0o0SDF0akxJMHBzdWd3?oc=5)
-
-2026-11-02 <span class="news-indication-tag">インフルエンザ</span>
-
-出典: [au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE1WTU1KMkc0M2oxcmVBY2Y1Vm12VldfdjBraGI5MW1Dc3VWR19Ea1E3WGZTRFpJMDUwcldPeXFQZHNhN3VaN2sxelBLZVMtQkFSeWtxWUlZXzY2R3N0cVZVQ0o0SDF0akxJMHBzdWd3?oc=5)
 
 ---
 

@@ -64,14 +64,6 @@ last_modified_at: 2026-11-09
 
 ---
 
-### [子宮頸がん死2050年までに4割増 米ワシントン大推計、世界の格差深刻](https://news.google.com/rss/articles/CBMidkFVX3lxTE5xR1YwMVkzTUN0dlpOREZ6cW9hSFJvSWM1Y1dwYTJ0dG1yWjNLSml4VVhtN2puUTBDZWhWRE1makdYLTNXczlQckpEV0ExRlRJYjFaQno5clRHelVpb0J1cWhqSzRMTTlUX0dLWFpiMlRWX0xfd3c?oc=5)
-
-2026-11-06 <span class="news-indication-tag">がん</span>
-
-出典: [産経ニュース](https://news.google.com/rss/articles/CBMidkFVX3lxTE5xR1YwMVkzTUN0dlpOREZ6cW9hSFJvSWM1Y1dwYTJ0dG1yWjNLSml4VVhtN2puUTBDZWhWRE1makdYLTNXczlQckpEV0ExRlRJYjFaQno5clRHelVpb0J1cWhqSzRMTTlUX0dLWFpiMlRWX0xfd3c?oc=5)
-
----
-
 ### [子宮頸がん死５０年に４割増 米大推計、世界の格差深刻](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9XemdVcS1GVnR6VDdqaUFMaWZxMkdadEVjcXpxY1pyRFh3WG8ta2FzbnVwa21ybmNlSWNxVklBQUNSREpfamlwUGwwRkhqQzh0Mmw3MnhiRUltRExkQkdHN2lEUU8?oc=5)
 
 2026-11-06 <span class="news-indication-tag">がん</span>
@@ -93,6 +85,14 @@ last_modified_at: 2026-11-09
 2026-11-06 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
 
 出典: [がん情報サイト「オンコロ」](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rd3VJYjVCaXVNeTVjazBwSmJoR1pMS2tzZVF4ZVAxR3ptSXdpeVBCU0cxZGo3R1gyZlZ6MjVPbm12bnM0Z191dlRfQTcyYm5aYnVJ?oc=5)
+
+---
+
+### [【大腸がん研究の最前線】日本人患者の約半数で腸内細菌の関与を確認、若年発症でより顕著に ゲノム解析で新たな発症要因が明らかに【前後編の前編】](https://news.google.com/rss/articles/CBMid0FVX3lxTFAtazlaRjVCZ1pma1N3bzZ4dUVBMzgwMWtObkdlMWp5QnBPT25PT19Yd1UwMGVyNzRXZG9fNDBKcjFWODNQMnZVNmdvT2lfekNjSWtyNl9hY3pycmZlTE9zbkg4dnV5cU03SmhEUlVZcTNoT3pmNURN?oc=5)
+
+2026-11-05 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
+
+出典: [NEWSポストセブン](https://news.google.com/rss/articles/CBMid0FVX3lxTFAtazlaRjVCZ1pma1N3bzZ4dUVBMzgwMWtObkdlMWp5QnBPT25PT19Yd1UwMGVyNzRXZG9fNDBKcjFWODNQMnZVNmdvT2lfekNjSWtyNl9hY3pycmZlTE9zbkg4dnV5cU03SmhEUlVZcTNoT3pmNURN?oc=5)
 
 ---
 
@@ -120,11 +120,11 @@ last_modified_at: 2026-11-09
 
 ---
 
-### [【すい臓がん治療最前線】画期的新薬「ダラクソンラシブ」に高まる期待 「百年に一度の薬」と絶賛されるも、日本で保険診療として承認されるためには“高すぎる薬価”の壁(マネーポストWEB)](https://news.google.com/rss/articles/CBMihwFBVV95cUxOUm1yMW5oNXFfNEplUWpxaFE5aTRVckFaZHFiZ2xFbzJiUnU3Y08wZl9CczliMmIwNWtwaDNlTHFNNWUtbTJiN3hHVDR0TEhETVplR24yRmZ4eFBMa3dreXFUYXVVWm1UWUxvcXRfdVJveEZ6OVVRdmo1MUVfeENUNG9MM1V4TW8?oc=5)
+### [【すい臓がん治療最前線】画期的新薬「ダラクソンラシブ」に高まる期待 「百年に一度の薬」と絶賛されるも、日本で保険診療として承認されるためには“高すぎる薬価”の壁](https://news.google.com/rss/articles/CBMiR0FVX3lxTFBMOXZ5ZzlSdVhpMXNwSGlfU1Z6b3lTX2tHRkZXOTVua3M1eGhjbS1na1Jkc0otRVhUdVpmVzV2TGNnTUhVb2hF?oc=5)
 
 2026-11-02 <span class="news-indication-tag">がん</span>
 
-出典: [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxOUm1yMW5oNXFfNEplUWpxaFE5aTRVckFaZHFiZ2xFbzJiUnU3Y08wZl9CczliMmIwNWtwaDNlTHFNNWUtbTJiN3hHVDR0TEhETVplR24yRmZ4eFBMa3dreXFUYXVVWm1UWUxvcXRfdVJveEZ6OVVRdmo1MUVfeENUNG9MM1V4TW8?oc=5)
+出典: [マネーポストWEB](https://news.google.com/rss/articles/CBMiR0FVX3lxTFBMOXZ5ZzlSdVhpMXNwSGlfU1Z6b3lTX2tHRkZXOTVua3M1eGhjbS1na1Jkc0otRVhUdVpmVzV2TGNnTUhVb2hF?oc=5)
 
 ---
 

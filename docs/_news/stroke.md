@@ -3,7 +3,7 @@ layout: default
 title: "脳卒中 (stroke) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "脳卒中 (stroke) に関する健康ニュース。ニュース 2 件、関連医薬品 16 件。"
+description: "脳卒中 (stroke) に関する健康ニュース。ニュース 1 件、関連医薬品 16 件。"
 permalink: /news/stroke/
 last_modified_at: 2026-11-09
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-09
 ---
 
 <p class="key-answer" data-question="脳卒中 (stroke) に関するニュースは？">
-<strong>脳卒中 (stroke)</strong> には現在 <strong>2 件</strong>の関連ニュースと 16 件の関連医薬品があります。
+<strong>脳卒中 (stroke)</strong> には現在 <strong>1 件</strong>の関連ニュースと 16 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -45,15 +45,7 @@ last_modified_at: 2026-11-09
 </ul>
 </div>
 
-## 関連ニュース（2 件）
-
-### [「脳卒中」の危険サインを見逃しちゃダメ 医師が警告する“直ちに救急車を呼ぶべき症状”とは](https://news.google.com/rss/articles/CBMiSkFVX3lxTFBlbXlCTl83SlVTQ04zYkJDZFQ0X3ZDRmUtOUtaWVBfQnE1bTNEcWRpZGdsTGdKcUYxcGdBZy1LVkNEWDVUeHhzRDdB?oc=5)
-
-2026-11-08
-
-出典: [オトナンサー](https://news.google.com/rss/articles/CBMiSkFVX3lxTFBlbXlCTl83SlVTQ04zYkJDZFQ0X3ZDRmUtOUtaWVBfQnE1bTNEcWRpZGdsTGdKcUYxcGdBZy1LVkNEWDVUeHhzRDdB?oc=5)
-
----
+## 関連ニュース（1 件）
 
 ### [高血圧患者の脳卒中予防法](https://news.google.com/rss/articles/CBMimgFBVV95cUxPMVFsbjlUWENENUpIaWJrNnc5Ujl1WU9tODdRSFhWaDcwdTNjMWdNV25aeHE5ekM0bzh5TkhuWFlHdG9tejVRZmgyYnp2Zkp0cE15ZEZqZkNVdnFDUmNST1lHclBydWdhMGxrX3RmZ0xJTjR1Wm1wcmNOSkpZNUhNNFU4T3FYUzhEX29mblhLSDhHMkxZMjl4a29B?oc=5)
 
