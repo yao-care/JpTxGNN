@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="ニューロタン錠５０ｍｇ（選） に関するニュースは？">
-<strong>ニューロタン錠５０ｍｇ（選）</strong> には現在 <strong>11 件</strong>の関連ニュースがあり、予測適応症は 7 件です。
+<strong>ニューロタン錠５０ｍｇ（選）</strong> には現在 <strong>8 件</strong>の関連ニュースがあり、予測適応症は 7 件です。
 </p>
 
 <div class="key-takeaway">
@@ -39,15 +39,7 @@ last_modified_at: 2026-11-10
 <p><a href="{{ '/drugs/losartan/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（11 件）
-
-### [Ⅳ期卵巣がんの50代女性、オラパリブで間質性肺炎の副作用　服用中止か継続か悩む　がん電話相談から(産経新聞)](https://news.yahoo.co.jp/articles/09de75b515123c6f553f8791a207c6438d4f70b8?source=rss)
-
-2026-11-09 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">肺炎</span>
-
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/09de75b515123c6f553f8791a207c6438d4f70b8?source=rss)
-
----
+## 関連ニュース（8 件）
 
 ### [【闘病】“太っただけ”と思っていたおなかの張り…正体は14cmの腫瘍『悪性リンパ腫』(メディカルドック)](https://news.yahoo.co.jp/articles/e67f63331455a378e6e49fd62d347db8d9016dd8?source=rss)
 
@@ -70,6 +62,14 @@ last_modified_at: 2026-11-10
 2026-11-07 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">胃がん</span> <span class="news-indication-tag">乳がん</span>
 
 出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/740b2a6c95e614de05f8ff5037415af5f9c63676?source=rss)
+
+---
+
+### [「血液がドロドロに……」 飲めば飲むほど脳卒中リスクが上がる？ 身近な飲み物に潜む意外な危険性](https://news.google.com/rss/articles/CBMieEFVX3lxTE1yVkYxQUFnMUU3Rk9YNkdkbmF1TkJObUgxUzhYZ0RuQ2tvbF9DRFctalpnS2xlZGhCVkRVb2t2MUZVNGlfaHFVRktDYjNhS1dxbUlsMmE3TmljLWVZRG8teFowcUw5R0czWXNhaGJ4ZEdSMHFJaEhkbNIBfkFVX3lxTE9GaE54STNjYU10V2RVRk9JRjRGU2tFeE1YZk41U0ZpV1hiSV9xakdoSW5JbFBha3Z0Ymk5S2tna2dMYTJXRzl6TDczTjdvNXE5Q2RuNmtTbVhzeTZHbVJhZ3RYcTNmMGllalFRSjFWX0RuTG1TbWZhUzd5N1RnQQ?oc=5)
+
+2026-11-06 <span class="news-indication-tag">脳卒中</span>
+
+出典: [ｄメニューニュース](https://news.google.com/rss/articles/CBMieEFVX3lxTE1yVkYxQUFnMUU3Rk9YNkdkbmF1TkJObUgxUzhYZ0RuQ2tvbF9DRFctalpnS2xlZGhCVkRVb2t2MUZVNGlfaHFVRktDYjNhS1dxbUlsMmE3TmljLWVZRG8teFowcUw5R0czWXNhaGJ4ZEdSMHFJaEhkbNIBfkFVX3lxTE9GaE54STNjYU10V2RVRk9JRjRGU2tFeE1YZk41U0ZpV1hiSV9xakdoSW5JbFBha3Z0Ymk5S2tna2dMYTJXRzl6TDczTjdvNXE5Q2RuNmtTbVhzeTZHbVJhZ3RYcTNmMGllalFRSjFWX0RuTG1TbWZhUzd5N1RnQQ?oc=5)
 
 ---
 
@@ -102,30 +102,6 @@ last_modified_at: 2026-11-10
 2026-11-05 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
 
 出典: [NEWSポストセブン](https://news.google.com/rss/articles/CBMid0FVX3lxTFAtazlaRjVCZ1pma1N3bzZ4dUVBMzgwMWtObkdlMWp5QnBPT25PT19Yd1UwMGVyNzRXZG9fNDBKcjFWODNQMnZVNmdvT2lfekNjSWtyNl9hY3pycmZlTE9zbkg4dnV5cU03SmhEUlVZcTNoT3pmNURN?oc=5)
-
----
-
-### [胃がんの発症に深く関わる「ピロリ菌」――除菌と検査について知っておきたいこと(Medical Note)](https://news.yahoo.co.jp/articles/6d6f62f6b9e56dcf79db73610a70a25bf34b1341?source=rss)
-
-2026-11-05 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">胃がん</span>
-
-出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/6d6f62f6b9e56dcf79db73610a70a25bf34b1341?source=rss)
-
----
-
-### [乳がんはベトナム人女性にかかりやすく、50%が発見が遅れています。](https://news.google.com/rss/articles/CBMipwFBVV95cUxQLWc4cnYwMDVOX19EcV9DUzB3ZDFfanBsQW43dWYyTFU2aXo0cFdVN1V2a2RiOC1tM2tTSnk1R0Rkb1dqSWtuU0VIQXhZaGR6dXU3c25jZmJfc1Bqd3lDVlA5QVlrNlJrSWhheU9RZW4tdGJXYjBkLWktdzlBR1ZWc0dfQ2FpSWtjQkdiZFlxUVRPUWhYbE1hNk1CU0pmYk5PR1NGLWhtSQ?oc=5)
-
-2026-11-03 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
-
-出典: [Laodong.vn](https://news.google.com/rss/articles/CBMipwFBVV95cUxQLWc4cnYwMDVOX19EcV9DUzB3ZDFfanBsQW43dWYyTFU2aXo0cFdVN1V2a2RiOC1tM2tTSnk1R0Rkb1dqSWtuU0VIQXhZaGR6dXU3c25jZmJfc1Bqd3lDVlA5QVlrNlJrSWhheU9RZW4tdGJXYjBkLWktdzlBR1ZWc0dfQ2FpSWtjQkdiZFlxUVRPUWhYbE1hNk1CU0pmYk5PR1NGLWhtSQ?oc=5)
-
----
-
-### [高血圧患者の脳卒中予防法](https://news.google.com/rss/articles/CBMimgFBVV95cUxPMVFsbjlUWENENUpIaWJrNnc5Ujl1WU9tODdRSFhWaDcwdTNjMWdNV25aeHE5ekM0bzh5TkhuWFlHdG9tejVRZmgyYnp2Zkp0cE15ZEZqZkNVdnFDUmNST1lHclBydWdhMGxrX3RmZ0xJTjR1Wm1wcmNOSkpZNUhNNFU4T3FYUzhEX29mblhLSDhHMkxZMjl4a29B?oc=5)
-
-2026-11-03 <span class="news-indication-tag">高血圧</span> <span class="news-indication-tag">脳卒中</span>
-
-出典: [Laodong.vn](https://news.google.com/rss/articles/CBMimgFBVV95cUxPMVFsbjlUWENENUpIaWJrNnc5Ujl1WU9tODdRSFhWaDcwdTNjMWdNV25aeHE5ekM0bzh5TkhuWFlHdG9tejVRZmgyYnp2Zkp0cE15ZEZqZkNVdnFDUmNST1lHclBydWdhMGxrX3RmZ0xJTjR1Wm1wcmNOSkpZNUhNNFU4T3FYUzhEX29mblhLSDhHMkxZMjl4a29B?oc=5)
 
 ---
 

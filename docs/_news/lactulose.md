@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="ラグノスＮＦ経口ゼリー分包１２ｇ　５４．１６７％ に関するニュースは？">
-<strong>ラグノスＮＦ経口ゼリー分包１２ｇ　５４．１６７％</strong> には現在 <strong>10 件</strong>の関連ニュースがあり、予測適応症は 8 件です。
+<strong>ラグノスＮＦ経口ゼリー分包１２ｇ　５４．１６７％</strong> には現在 <strong>7 件</strong>の関連ニュースがあり、予測適応症は 8 件です。
 </p>
 
 <div class="key-takeaway">
@@ -40,15 +40,7 @@ last_modified_at: 2026-11-10
 <p><a href="{{ '/drugs/lactulose/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（10 件）
-
-### [Ⅳ期卵巣がんの50代女性、オラパリブで間質性肺炎の副作用　服用中止か継続か悩む　がん電話相談から(産経新聞)](https://news.yahoo.co.jp/articles/09de75b515123c6f553f8791a207c6438d4f70b8?source=rss)
-
-2026-11-09 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">肺炎</span>
-
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/09de75b515123c6f553f8791a207c6438d4f70b8?source=rss)
-
----
+## 関連ニュース（7 件）
 
 ### [【闘病】“太っただけ”と思っていたおなかの張り…正体は14cmの腫瘍『悪性リンパ腫』(メディカルドック)](https://news.yahoo.co.jp/articles/e67f63331455a378e6e49fd62d347db8d9016dd8?source=rss)
 
@@ -103,22 +95,6 @@ last_modified_at: 2026-11-10
 2026-11-05 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
 
 出典: [NEWSポストセブン](https://news.google.com/rss/articles/CBMid0FVX3lxTFAtazlaRjVCZ1pma1N3bzZ4dUVBMzgwMWtObkdlMWp5QnBPT25PT19Yd1UwMGVyNzRXZG9fNDBKcjFWODNQMnZVNmdvT2lfekNjSWtyNl9hY3pycmZlTE9zbkg4dnV5cU03SmhEUlVZcTNoT3pmNURN?oc=5)
-
----
-
-### [胃がんの発症に深く関わる「ピロリ菌」――除菌と検査について知っておきたいこと(Medical Note)](https://news.yahoo.co.jp/articles/6d6f62f6b9e56dcf79db73610a70a25bf34b1341?source=rss)
-
-2026-11-05 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">胃がん</span>
-
-出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/6d6f62f6b9e56dcf79db73610a70a25bf34b1341?source=rss)
-
----
-
-### [乳がんはベトナム人女性にかかりやすく、50%が発見が遅れています。](https://news.google.com/rss/articles/CBMipwFBVV95cUxQLWc4cnYwMDVOX19EcV9DUzB3ZDFfanBsQW43dWYyTFU2aXo0cFdVN1V2a2RiOC1tM2tTSnk1R0Rkb1dqSWtuU0VIQXhZaGR6dXU3c25jZmJfc1Bqd3lDVlA5QVlrNlJrSWhheU9RZW4tdGJXYjBkLWktdzlBR1ZWc0dfQ2FpSWtjQkdiZFlxUVRPUWhYbE1hNk1CU0pmYk5PR1NGLWhtSQ?oc=5)
-
-2026-11-03 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
-
-出典: [Laodong.vn](https://news.google.com/rss/articles/CBMipwFBVV95cUxQLWc4cnYwMDVOX19EcV9DUzB3ZDFfanBsQW43dWYyTFU2aXo0cFdVN1V2a2RiOC1tM2tTSnk1R0Rkb1dqSWtuU0VIQXhZaGR6dXU3c25jZmJfc1Bqd3lDVlA5QVlrNlJrSWhheU9RZW4tdGJXYjBkLWktdzlBR1ZWc0dfQ2FpSWtjQkdiZFlxUVRPUWhYbE1hNk1CU0pmYk5PR1NGLWhtSQ?oc=5)
 
 ---
 

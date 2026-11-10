@@ -3,7 +3,7 @@ layout: default
 title: "インフルエンザ (influenza) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 7 件、関連医薬品 1 件。"
+description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 6 件、関連医薬品 1 件。"
 permalink: /news/influenza/
 last_modified_at: 2026-11-10
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="インフルエンザ (influenza) に関するニュースは？">
-<strong>インフルエンザ (influenza)</strong> には現在 <strong>7 件</strong>の関連ニュースと 1 件の関連医薬品があります。
+<strong>インフルエンザ (influenza)</strong> には現在 <strong>6 件</strong>の関連ニュースと 1 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,29 @@ last_modified_at: 2026-11-10
 </ul>
 </div>
 
-## 関連ニュース（7 件）
+## 関連ニュース（6 件）
 
-### [［論説］インフルエンザ流行 予防と広げない対策を](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WS2RWVkxIVkM3LTdZR2w0U0ItMVVYcG5aSF9Jb2k4OVFWWW5lQlMyblFSUVRBS0pQR2lnM3VWY2QzTHpGamVxbThPT0QwWlhlMXFFdHlyMGx4RjQ?oc=5)
+### [【三重県インフルエンザ週報】学年閉鎖7校・学級閉鎖13校発生 鈴鹿・桑名・伊賀・伊勢で県全体の患者届出数上回る＜11月2日～8日の感染症情報 - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE8yNmtYYzliWGdFbFJEQlo1dS1FdHRXOHdHMGdUTzVDV1VtaTQtNmdJUUNFWWdhRENya0tOVXpsWDh4OVJmQXVva0JkSC1yV3kyMWdGZFBwZTg0Nk92TjZpSDFWNHZoRTV1LXA5N3RR?oc=5)
 
-2026-11-09
+2026-11-10
 
-出典: [日本農業新聞](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WS2RWVkxIVkM3LTdZR2w0U0ItMVVYcG5aSF9Jb2k4OVFWWW5lQlMyblFSUVRBS0pQR2lnM3VWY2QzTHpGamVxbThPT0QwWlhlMXFFdHlyMGx4RjQ?oc=5)
+出典: [au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE8yNmtYYzliWGdFbFJEQlo1dS1FdHRXOHdHMGdUTzVDV1VtaTQtNmdJUUNFWWdhRENya0tOVXpsWDh4OVJmQXVva0JkSC1yV3kyMWdGZFBwZTg0Nk92TjZpSDFWNHZoRTV1LXA5N3RR?oc=5)
+
+---
+
+### [今季のインフルエンザは油断禁物 じわじわ型の流行と再感染リスク - Forbes JAPAN](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GU0s0RUIzbWdZTHhXVlRQSFFKYnFObmZEOEJSU29ZUDZvdjBNdjgzVE9BdEVxMW42TFZjWUZKZ0RPWGpyWlI4NFZQdUNORzVRTjltMmxzMGg2UQ?oc=5)
+
+2026-11-10
+
+出典: [Forbes JAPAN](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GU0s0RUIzbWdZTHhXVlRQSFFKYnFObmZEOEJSU29ZUDZvdjBNdjgzVE9BdEVxMW42TFZjWUZKZ0RPWGpyWlI4NFZQdUNORzVRTjltMmxzMGg2UQ?oc=5)
+
+---
+
+### [季節性インフルエンザは、基礎疾患を持つ高齢者に多くの合併症をもたらす可能性があります](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWFhmVFQ2cmNmc2tObGFJa2lCYVpfOWRNWmlBOHFjWmQzSnJ4dHZQWUhHUlVUZzhkNVFIdzhZNGJ1MkEwLTZvNHhEX2FJVXpieFJESWVwQm81clZLV3NfbmFIdHlkZWpYNlUzYThqTDJLY2ZvQTRQbGpscFViS1MxWF9BYThKSU12ak4wczNibGNUX2RMU1FZVEdJeU1uck5iZXk4ZTBCMks?oc=5)
+
+2026-11-07
+
+出典: [Laodong.vn](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWFhmVFQ2cmNmc2tObGFJa2lCYVpfOWRNWmlBOHFjWmQzSnJ4dHZQWUhHUlVUZzhkNVFIdzhZNGJ1MkEwLTZvNHhEX2FJVXpieFJESWVwQm81clZLV3NfbmFIdHlkZWpYNlUzYThqTDJLY2ZvQTRQbGpscFViS1MxWF9BYThKSU12ak4wczNibGNUX2RMU1FZVEdJeU1uck5iZXk4ZTBCMks?oc=5)
 
 ---
 
@@ -45,22 +61,6 @@ last_modified_at: 2026-11-10
 2026-11-05
 
 出典: [FNNプライムオンライン](https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VdXFEWG1MS3gwRmtyNm1MNkpjQmd0NTJRanBnSnFMY2NjdmxjRndHeWs0bHZELThEZzBIeGJyNzRvT3hUbWN5RS1mVXA2dw?oc=5)
-
----
-
-### [【三重県インフルエンザ週報】学年閉鎖4校・学級閉鎖11校発生 鈴鹿・四日市・伊勢で県平均上回る＜10月26日～11月1日の感染症情報 - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE96cTZMNnQ5ekx3d3B0MHVWdkhJWWozcjdseVJxdUREM2paMlBvNkJFa21Tc1dQLWhDZWFqSzExUWZISUNobnlyaEotZklGYTk5cnJpSldfc0szYThZV2t0aFhWS2tkdWJSOUkwN3V3?oc=5)
-
-2026-11-04
-
-出典: [au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE96cTZMNnQ5ekx3d3B0MHVWdkhJWWozcjdseVJxdUREM2paMlBvNkJFa21Tc1dQLWhDZWFqSzExUWZISUNobnlyaEotZklGYTk5cnJpSldfc0szYThZV2t0aFhWS2tkdWJSOUkwN3V3?oc=5)
-
----
-
-### [【第44週】群馬県内でインフルエンザ、RSウイルス報告続く、ヘルパンギーナは警報解除](https://news.google.com/rss/articles/CBMiSkFVX3lxTE9hLXRXUkhhY2V1X0tXS080M1RYTnF5Tmp4aHNqRjl5NDVLRVdfTVNsUnNIVzZHeDRCVmJTdWNTdHNjanI2UFRQUjV3?oc=5)
-
-2026-11-04
-
-出典: [みんなの学校新聞](https://news.google.com/rss/articles/CBMiSkFVX3lxTE9hLXRXUkhhY2V1X0tXS080M1RYTnF5Tmp4aHNqRjl5NDVLRVdfTVNsUnNIVzZHeDRCVmJTdWNTdHNjanI2UFRQUjV3?oc=5)
 
 ---
 
@@ -77,14 +77,6 @@ last_modified_at: 2026-11-10
 2026-11-04
 
 出典: [ナゾロジー](https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzXzJzbjRZcWo0alBLaTJ4X0IyUXZOc3hPMmNraV95WnMyTWVKaHU0WmV0ZDJaY0NyRjlhbmZpa2N4VDFTeGFJMmlTcEJkUndhMDcwclU2dDFfOG8?oc=5)
-
----
-
-### [季節の変わり目、インフルエンザによる危険な合併症の警告](https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1hBeVo0c1c4eVExWWlXVXBYTG0tVHpEUDVMdC0wdkRSMDFRVkZ1cnVPLUFMME1GMDZhLXgwekEzelk3OV9NWGZoVFZ1SGgzNWRmcFJiZzl5RmZsOExQOXJJVUhFTWdXNExsRmROa0RDV2UtSjZRa01pSUxTakxjbnRaSmg4MkIzbUY0LXlJTUp0Zw?oc=5)
-
-2026-11-03
-
-出典: [Laodong.vn](https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1hBeVo0c1c4eVExWWlXVXBYTG0tVHpEUDVMdC0wdkRSMDFRVkZ1cnVPLUFMME1GMDZhLXgwekEzelk3OV9NWGZoVFZ1SGgzNWRmcFJiZzl5RmZsOExQOXJJVUhFTWdXNExsRmROa0RDV2UtSjZRa01pSUxTakxjbnRaSmg4MkIzbUY0LXlJTUp0Zw?oc=5)
 
 ---
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="クラビット点眼液１．５％（選） に関するニュースは？">
-<strong>クラビット点眼液１．５％（選）</strong> には現在 <strong>12 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
+<strong>クラビット点眼液１．５％（選）</strong> には現在 <strong>8 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
 </p>
 
 <div class="key-takeaway">
@@ -41,15 +41,7 @@ last_modified_at: 2026-11-10
 <p><a href="{{ '/drugs/levofloxacin/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（12 件）
-
-### [Ⅳ期卵巣がんの50代女性、オラパリブで間質性肺炎の副作用　服用中止か継続か悩む　がん電話相談から(産経新聞)](https://news.yahoo.co.jp/articles/09de75b515123c6f553f8791a207c6438d4f70b8?source=rss)
-
-2026-11-09 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">肺炎</span>
-
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/09de75b515123c6f553f8791a207c6438d4f70b8?source=rss)
-
----
+## 関連ニュース（8 件）
 
 ### [進歩する間質性肺炎診療と新たな“抗線維化薬”の登場――第3回日本呼吸器学会連携ウェビナー開催(Medical Note)](https://news.yahoo.co.jp/articles/1cd02a1fd3f71da92352488c7603e7beddebf3d8?source=rss)
 
@@ -112,30 +104,6 @@ last_modified_at: 2026-11-10
 2026-11-05 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
 
 出典: [NEWSポストセブン](https://news.google.com/rss/articles/CBMid0FVX3lxTFAtazlaRjVCZ1pma1N3bzZ4dUVBMzgwMWtObkdlMWp5QnBPT25PT19Yd1UwMGVyNzRXZG9fNDBKcjFWODNQMnZVNmdvT2lfekNjSWtyNl9hY3pycmZlTE9zbkg4dnV5cU03SmhEUlVZcTNoT3pmNURN?oc=5)
-
----
-
-### [胃がんの発症に深く関わる「ピロリ菌」――除菌と検査について知っておきたいこと(Medical Note)](https://news.yahoo.co.jp/articles/6d6f62f6b9e56dcf79db73610a70a25bf34b1341?source=rss)
-
-2026-11-05 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">胃がん</span>
-
-出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/6d6f62f6b9e56dcf79db73610a70a25bf34b1341?source=rss)
-
----
-
-### [乳がんはベトナム人女性にかかりやすく、50%が発見が遅れています。](https://news.google.com/rss/articles/CBMipwFBVV95cUxQLWc4cnYwMDVOX19EcV9DUzB3ZDFfanBsQW43dWYyTFU2aXo0cFdVN1V2a2RiOC1tM2tTSnk1R0Rkb1dqSWtuU0VIQXhZaGR6dXU3c25jZmJfc1Bqd3lDVlA5QVlrNlJrSWhheU9RZW4tdGJXYjBkLWktdzlBR1ZWc0dfQ2FpSWtjQkdiZFlxUVRPUWhYbE1hNk1CU0pmYk5PR1NGLWhtSQ?oc=5)
-
-2026-11-03 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
-
-出典: [Laodong.vn](https://news.google.com/rss/articles/CBMipwFBVV95cUxQLWc4cnYwMDVOX19EcV9DUzB3ZDFfanBsQW43dWYyTFU2aXo0cFdVN1V2a2RiOC1tM2tTSnk1R0Rkb1dqSWtuU0VIQXhZaGR6dXU3c25jZmJfc1Bqd3lDVlA5QVlrNlJrSWhheU9RZW4tdGJXYjBkLWktdzlBR1ZWc0dfQ2FpSWtjQkdiZFlxUVRPUWhYbE1hNk1CU0pmYk5PR1NGLWhtSQ?oc=5)
-
----
-
-### [季節の変わり目、インフルエンザによる危険な合併症の警告](https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1hBeVo0c1c4eVExWWlXVXBYTG0tVHpEUDVMdC0wdkRSMDFRVkZ1cnVPLUFMME1GMDZhLXgwekEzelk3OV9NWGZoVFZ1SGgzNWRmcFJiZzl5RmZsOExQOXJJVUhFTWdXNExsRmROa0RDV2UtSjZRa01pSUxTakxjbnRaSmg4MkIzbUY0LXlJTUp0Zw?oc=5)
-
-2026-11-03 <span class="news-indication-tag">肺炎</span> <span class="news-indication-tag">インフルエンザ</span>
-
-出典: [Laodong.vn](https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1hBeVo0c1c4eVExWWlXVXBYTG0tVHpEUDVMdC0wdkRSMDFRVkZ1cnVPLUFMME1GMDZhLXgwekEzelk3OV9NWGZoVFZ1SGgzNWRmcFJiZzl5RmZsOExQOXJJVUhFTWdXNExsRmROa0RDV2UtSjZRa01pSUxTakxjbnRaSmg4MkIzbUY0LXlJTUp0Zw?oc=5)
 
 ---
 
