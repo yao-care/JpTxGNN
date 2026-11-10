@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="デキストロメトルファン臭化水素酸塩細粒１０％「ツルハラ」 に関するニュースは？">
-<strong>デキストロメトルファン臭化水素酸塩細粒１０％「ツルハラ」</strong> には現在 <strong>3 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>デキストロメトルファン臭化水素酸塩細粒１０％「ツルハラ」</strong> には現在 <strong>2 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -37,21 +37,13 @@ last_modified_at: 2026-11-10
 <p><a href="{{ '/drugs/dextromethorphan/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（3 件）
+## 関連ニュース（2 件）
 
 ### [なかなか治らない鼻づまり、風邪ではなくアレルギーや副鼻腔炎の可能性も(Medical Note)](https://news.yahoo.co.jp/articles/f297b976a9f501c0569189985b3115c9551c4a09?source=rss)
 
 2026-11-10 <span class="news-indication-tag">風邪</span>
 
 出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/f297b976a9f501c0569189985b3115c9551c4a09?source=rss)
-
----
-
-### [昔の当たり前は令和の非常識？ 「やけどに“すぐ”アロエ」「鼻血は上を向く」「熱が出たらすぐ解熱剤」「風邪の時は入浴NG」はなんと「非常識」 医師が解説 - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE1ueUp0ZUJJWXVDZlF2TmVTYndCQzNrR05KX3B4X0NlTjFWcjJZM2dBZDhkQnVLejNyR2hqMzFUS1gtRGxYR0dNdm5ZS3c1Y0pfd2JlVmgtaVpLY2JCRWlyaTg0N2l0MG1EVFUxbW13?oc=5)
-
-2026-11-10 <span class="news-indication-tag">風邪</span>
-
-出典: [au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE1ueUp0ZUJJWXVDZlF2TmVTYndCQzNrR05KX3B4X0NlTjFWcjJZM2dBZDhkQnVLejNyR2hqMzFUS1gtRGxYR0dNdm5ZS3c1Y0pfd2JlVmgtaVpLY2JCRWlyaTg0N2l0MG1EVFUxbW13?oc=5)
 
 ---
 

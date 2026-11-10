@@ -44,19 +44,19 @@ last_modified_at: 2026-11-10
 
 ## 関連ニュース（8 件）
 
+### [ワクチンでがん予防～子宮頸がん、ＨＰＶ関連がん（自治医科大付属さいたま医療センター　今野良名誉教授）～](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xLU1EMmR2MDZ2NlQwYlpvU1VsUHl4b3RiellyTTNGVktwZlJFWHNTTGxxM21ScEU3WUM2TnZqckN2a0xlR3h2VDc1NTTSAVJBVV95cUxOaDFfX19NMDZzSWNlcnZiOXRqQXlaTlFhZDQ1RmFERXEyX3R0LWpuelNQbjBJbUQ5QlB3VS01eG9FdkZ3ZDBJTmRoNmJxai1WUXN3?oc=5)
+
+2026-11-10 <span class="news-indication-tag">がん</span>
+
+出典: [時事メディカル](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xLU1EMmR2MDZ2NlQwYlpvU1VsUHl4b3RiellyTTNGVktwZlJFWHNTTGxxM21ScEU3WUM2TnZqckN2a0xlR3h2VDc1NTTSAVJBVV95cUxOaDFfX19NMDZzSWNlcnZiOXRqQXlaTlFhZDQ1RmFERXEyX3R0LWpuelNQbjBJbUQ5QlB3VS01eG9FdkZ3ZDBJTmRoNmJxai1WUXN3?oc=5)
+
+---
+
 ### [【闘病】“太っただけ”と思っていたおなかの張り…正体は14cmの腫瘍『悪性リンパ腫』(メディカルドック)](https://news.yahoo.co.jp/articles/e67f63331455a378e6e49fd62d347db8d9016dd8?source=rss)
 
 2026-11-08 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">腫瘍</span> <span class="news-indication-tag">リンパ腫</span> <span class="news-indication-tag">悪性リンパ腫</span>
 
 出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/e67f63331455a378e6e49fd62d347db8d9016dd8?source=rss)
-
----
-
-### [HPVワクチンの接種で子宮頚がんの死亡率が100％減少する？ 世界的医学誌に研究論文｜役に立つオモシロ医学論文](https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6QURJQ1RPWmRXRE45X1dySzlRUmJjZGprTnpaZ0tocnl4QzNMMzB5bXQ0cXJYdThQMnVhZWd3VnV5dlJSd25CcTczeFBBRFk1eUFZbHhLMkVLVWRhZm9vOTdjOXZCenBV?oc=5)
-
-2026-11-07 <span class="news-indication-tag">がん</span>
-
-出典: [日刊ゲンダイDIGITAL](https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6QURJQ1RPWmRXRE45X1dySzlRUmJjZGprTnpaZ0tocnl4QzNMMzB5bXQ0cXJYdThQMnVhZWd3VnV5dlJSd25CcTczeFBBRFk1eUFZbHhLMkVLVWRhZm9vOTdjOXZCenBV?oc=5)
 
 ---
 
@@ -84,19 +84,19 @@ last_modified_at: 2026-11-10
 
 ---
 
-### [【新製品】乳癌治療薬を新発売‐「イムルリオ錠」 日本イーライリリー](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VRWtOWUFpbWhsT0xzLTAtRXVjbDg3aFE1OEppT1hQZVBEM2p6ZVo4d3Z0b1dmT1cxSHVxMEpELUl6ZUxpZGhscktiX0pIMkhFaGFj?oc=5)
-
-2026-11-06 <span class="news-indication-tag">癌</span> <span class="news-indication-tag">乳癌</span>
-
-出典: [薬事日報](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VRWtOWUFpbWhsT0xzLTAtRXVjbDg3aFE1OEppT1hQZVBEM2p6ZVo4d3Z0b1dmT1cxSHVxMEpELUl6ZUxpZGhscktiX0pIMkhFaGFj?oc=5)
-
----
-
 ### [乳がんステージ2B、再発後も職場の温かい配慮で仕事を続けながら大切にする当たり前の日常](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rd3VJYjVCaXVNeTVjazBwSmJoR1pMS2tzZVF4ZVAxR3ptSXdpeVBCU0cxZGo3R1gyZlZ6MjVPbm12bnM0Z191dlRfQTcyYm5aYnVJ?oc=5)
 
 2026-11-06 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
 
 出典: [がん情報サイト「オンコロ」](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rd3VJYjVCaXVNeTVjazBwSmJoR1pMS2tzZVF4ZVAxR3ptSXdpeVBCU0cxZGo3R1gyZlZ6MjVPbm12bnM0Z191dlRfQTcyYm5aYnVJ?oc=5)
+
+---
+
+### [帯状疱疹はワクチンで防ぐ 50歳から接種検討、後遺症にも対策](https://news.google.com/rss/articles/CBMibEFVX3lxTE1oS1U3RnVhUHVoTE1YMWRheThuVWZ0b0YwVDdzRHQtRVpud0x5Ym03WjhLejhORjdDWmxWNDFFX2YtMkQyeHdJLUxQZWRCeHl4YlNJdmJFMXl2N1kyTm9ubHpMZFcyNkVGTGtNdg?oc=5)
+
+2026-11-05 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">帯状疱疹</span>
+
+出典: [日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTE1oS1U3RnVhUHVoTE1YMWRheThuVWZ0b0YwVDdzRHQtRVpud0x5Ym03WjhLejhORjdDWmxWNDFFX2YtMkQyeHdJLUxQZWRCeHl4YlNJdmJFMXl2N1kyTm9ubHpMZFcyNkVGTGtNdg?oc=5)
 
 ---
 

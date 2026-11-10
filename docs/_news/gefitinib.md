@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="イレッサ錠２５０　２５０ｍｇ（選） に関するニュースは？">
-<strong>イレッサ錠２５０　２５０ｍｇ（選）</strong> には現在 <strong>11 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
+<strong>イレッサ錠２５０　２５０ｍｇ（選）</strong> には現在 <strong>10 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ last_modified_at: 2026-11-10
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（11 件）
+## 関連ニュース（10 件）
+
+### [ワクチンでがん予防～子宮頸がん、ＨＰＶ関連がん（自治医科大付属さいたま医療センター　今野良名誉教授）～](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xLU1EMmR2MDZ2NlQwYlpvU1VsUHl4b3RiellyTTNGVktwZlJFWHNTTGxxM21ScEU3WUM2TnZqckN2a0xlR3h2VDc1NTTSAVJBVV95cUxOaDFfX19NMDZzSWNlcnZiOXRqQXlaTlFhZDQ1RmFERXEyX3R0LWpuelNQbjBJbUQ5QlB3VS01eG9FdkZ3ZDBJTmRoNmJxai1WUXN3?oc=5)
+
+2026-11-10 <span class="news-indication-tag">がん</span>
+
+出典: [時事メディカル](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xLU1EMmR2MDZ2NlQwYlpvU1VsUHl4b3RiellyTTNGVktwZlJFWHNTTGxxM21ScEU3WUM2TnZqckN2a0xlR3h2VDc1NTTSAVJBVV95cUxOaDFfX19NMDZzSWNlcnZiOXRqQXlaTlFhZDQ1RmFERXEyX3R0LWpuelNQbjBJbUQ5QlB3VS01eG9FdkZ3ZDBJTmRoNmJxai1WUXN3?oc=5)
+
+---
 
 ### [毎日42分の「明るい光」で認知症リスクが17%低い傾向に：8.7万人の追跡研究で判明](https://news.google.com/rss/articles/CBMijwFBVV95cUxNemFISms4Wi05d21tQi1GRGxzUDlUQ0tkM0Z5ZWEwX0VZVzRwTko1QklsRWhieGhhY1RoV3VWSXFWZWpVemJ2RDhWUHczT0JSRnV3Y25iczlnckRWWmpnQV8wX3REanZxazdQSzliSzdDWXhmanRhenFsUUwxbVNfZzlieEJhb1YzUXVUMmMxbw?oc=5)
 
@@ -59,14 +67,6 @@ last_modified_at: 2026-11-10
 
 ---
 
-### [HPVワクチンの接種で子宮頚がんの死亡率が100％減少する？ 世界的医学誌に研究論文｜役に立つオモシロ医学論文](https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6QURJQ1RPWmRXRE45X1dySzlRUmJjZGprTnpaZ0tocnl4QzNMMzB5bXQ0cXJYdThQMnVhZWd3VnV5dlJSd25CcTczeFBBRFk1eUFZbHhLMkVLVWRhZm9vOTdjOXZCenBV?oc=5)
-
-2026-11-07 <span class="news-indication-tag">がん</span>
-
-出典: [日刊ゲンダイDIGITAL](https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6QURJQ1RPWmRXRE45X1dySzlRUmJjZGprTnpaZ0tocnl4QzNMMzB5bXQ0cXJYdThQMnVhZWd3VnV5dlJSd25CcTczeFBBRFk1eUFZbHhLMkVLVWRhZm9vOTdjOXZCenBV?oc=5)
-
----
-
 ### [【闘病】「まさにどん底でした」 同じ年に『胃がん』と『乳がん』 2度の告知を受け(メディカルドック)](https://news.yahoo.co.jp/articles/740b2a6c95e614de05f8ff5037415af5f9c63676?source=rss)
 
 2026-11-07 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">胃がん</span> <span class="news-indication-tag">乳がん</span>
@@ -80,14 +80,6 @@ last_modified_at: 2026-11-10
 2026-11-06 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">膵臓がん</span>
 
 出典: [Futuro Prossimo](https://news.google.com/rss/articles/CBMinwFBVV95cUxQTWR3eTJxYTV6UDl6M2VvN3BZQm9ZYVptY05UOW1ocS1OWU1QaWFrdHJCb2ZzamZodXBBaldpakJyWkQxdlFUWXlmQWd2SURUSUhXUWpSdGx0SnB4UVFxZ1k1T1RRRjlOUmFlYlpMTy1oN281YVg1aE5pLXM1SF9jZWtDbGxxVmRfdUhFVE5ibVdIeTRIYkdaNERYa3JmYkU?oc=5)
-
----
-
-### [【新製品】乳癌治療薬を新発売‐「イムルリオ錠」 日本イーライリリー](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VRWtOWUFpbWhsT0xzLTAtRXVjbDg3aFE1OEppT1hQZVBEM2p6ZVo4d3Z0b1dmT1cxSHVxMEpELUl6ZUxpZGhscktiX0pIMkhFaGFj?oc=5)
-
-2026-11-06 <span class="news-indication-tag">癌</span> <span class="news-indication-tag">乳癌</span>
-
-出典: [薬事日報](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VRWtOWUFpbWhsT0xzLTAtRXVjbDg3aFE1OEppT1hQZVBEM2p6ZVo4d3Z0b1dmT1cxSHVxMEpELUl6ZUxpZGhscktiX0pIMkhFaGFj?oc=5)
 
 ---
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="タミフルドライシロップ３％（選） に関するニュースは？">
-<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>7 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>6 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ last_modified_at: 2026-11-10
 <p><a href="{{ '/drugs/oseltamivir/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（7 件）
+## 関連ニュース（6 件）
 
 ### [【三重県インフルエンザ週報】学年閉鎖7校・学級閉鎖13校発生 鈴鹿・桑名・伊賀・伊勢で県全体の患者届出数上回る＜11月2日～8日の感染症情報 - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE8yNmtYYzliWGdFbFJEQlo1dS1FdHRXOHdHMGdUTzVDV1VtaTQtNmdJUUNFWWdhRENya0tOVXpsWDh4OVJmQXVva0JkSC1yV3kyMWdGZFBwZTg0Nk92TjZpSDFWNHZoRTV1LXA5N3RR?oc=5)
 
@@ -53,14 +53,6 @@ last_modified_at: 2026-11-10
 2026-11-09 <span class="news-indication-tag">肺炎</span>
 
 出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/1cd02a1fd3f71da92352488c7603e7beddebf3d8?source=rss)
-
----
-
-### [季節性インフルエンザは、基礎疾患を持つ高齢者に多くの合併症をもたらす可能性があります](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWFhmVFQ2cmNmc2tObGFJa2lCYVpfOWRNWmlBOHFjWmQzSnJ4dHZQWUhHUlVUZzhkNVFIdzhZNGJ1MkEwLTZvNHhEX2FJVXpieFJESWVwQm81clZLV3NfbmFIdHlkZWpYNlUzYThqTDJLY2ZvQTRQbGpscFViS1MxWF9BYThKSU12ak4wczNibGNUX2RMU1FZVEdJeU1uck5iZXk4ZTBCMks?oc=5)
-
-2026-11-07 <span class="news-indication-tag">インフルエンザ</span>
-
-出典: [Laodong.vn](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWFhmVFQ2cmNmc2tObGFJa2lCYVpfOWRNWmlBOHFjWmQzSnJ4dHZQWUhHUlVUZzhkNVFIdzhZNGJ1MkEwLTZvNHhEX2FJVXpieFJESWVwQm81clZLV3NfbmFIdHlkZWpYNlUzYThqTDJLY2ZvQTRQbGpscFViS1MxWF9BYThKSU12ak4wczNibGNUX2RMU1FZVEdJeU1uck5iZXk4ZTBCMks?oc=5)
 
 ---
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="トライコア錠８０ｍｇ（選） に関するニュースは？">
-<strong>トライコア錠８０ｍｇ（選）</strong> には現在 <strong>8 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
+<strong>トライコア錠８０ｍｇ（選）</strong> には現在 <strong>7 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -33,21 +33,21 @@ last_modified_at: 2026-11-10
 <p><a href="{{ '/drugs/fenofibrate/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（8 件）
+## 関連ニュース（7 件）
+
+### [ワクチンでがん予防～子宮頸がん、ＨＰＶ関連がん（自治医科大付属さいたま医療センター　今野良名誉教授）～](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xLU1EMmR2MDZ2NlQwYlpvU1VsUHl4b3RiellyTTNGVktwZlJFWHNTTGxxM21ScEU3WUM2TnZqckN2a0xlR3h2VDc1NTTSAVJBVV95cUxOaDFfX19NMDZzSWNlcnZiOXRqQXlaTlFhZDQ1RmFERXEyX3R0LWpuelNQbjBJbUQ5QlB3VS01eG9FdkZ3ZDBJTmRoNmJxai1WUXN3?oc=5)
+
+2026-11-10 <span class="news-indication-tag">がん</span>
+
+出典: [時事メディカル](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xLU1EMmR2MDZ2NlQwYlpvU1VsUHl4b3RiellyTTNGVktwZlJFWHNTTGxxM21ScEU3WUM2TnZqckN2a0xlR3h2VDc1NTTSAVJBVV95cUxOaDFfX19NMDZzSWNlcnZiOXRqQXlaTlFhZDQ1RmFERXEyX3R0LWpuelNQbjBJbUQ5QlB3VS01eG9FdkZ3ZDBJTmRoNmJxai1WUXN3?oc=5)
+
+---
 
 ### [【闘病】“太っただけ”と思っていたおなかの張り…正体は14cmの腫瘍『悪性リンパ腫』(メディカルドック)](https://news.yahoo.co.jp/articles/e67f63331455a378e6e49fd62d347db8d9016dd8?source=rss)
 
 2026-11-08 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">腫瘍</span> <span class="news-indication-tag">リンパ腫</span> <span class="news-indication-tag">悪性リンパ腫</span>
 
 出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/e67f63331455a378e6e49fd62d347db8d9016dd8?source=rss)
-
----
-
-### [HPVワクチンの接種で子宮頚がんの死亡率が100％減少する？ 世界的医学誌に研究論文｜役に立つオモシロ医学論文](https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6QURJQ1RPWmRXRE45X1dySzlRUmJjZGprTnpaZ0tocnl4QzNMMzB5bXQ0cXJYdThQMnVhZWd3VnV5dlJSd25CcTczeFBBRFk1eUFZbHhLMkVLVWRhZm9vOTdjOXZCenBV?oc=5)
-
-2026-11-07 <span class="news-indication-tag">がん</span>
-
-出典: [日刊ゲンダイDIGITAL](https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6QURJQ1RPWmRXRE45X1dySzlRUmJjZGprTnpaZ0tocnl4QzNMMzB5bXQ0cXJYdThQMnVhZWd3VnV5dlJSd25CcTczeFBBRFk1eUFZbHhLMkVLVWRhZm9vOTdjOXZCenBV?oc=5)
 
 ---
 
@@ -72,14 +72,6 @@ last_modified_at: 2026-11-10
 2026-11-06 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">膵臓がん</span>
 
 出典: [Futuro Prossimo](https://news.google.com/rss/articles/CBMinwFBVV95cUxQTWR3eTJxYTV6UDl6M2VvN3BZQm9ZYVptY05UOW1ocS1OWU1QaWFrdHJCb2ZzamZodXBBaldpakJyWkQxdlFUWXlmQWd2SURUSUhXUWpSdGx0SnB4UVFxZ1k1T1RRRjlOUmFlYlpMTy1oN281YVg1aE5pLXM1SF9jZWtDbGxxVmRfdUhFVE5ibVdIeTRIYkdaNERYa3JmYkU?oc=5)
-
----
-
-### [【新製品】乳癌治療薬を新発売‐「イムルリオ錠」 日本イーライリリー](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VRWtOWUFpbWhsT0xzLTAtRXVjbDg3aFE1OEppT1hQZVBEM2p6ZVo4d3Z0b1dmT1cxSHVxMEpELUl6ZUxpZGhscktiX0pIMkhFaGFj?oc=5)
-
-2026-11-06 <span class="news-indication-tag">癌</span> <span class="news-indication-tag">乳癌</span>
-
-出典: [薬事日報](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VRWtOWUFpbWhsT0xzLTAtRXVjbDg3aFE1OEppT1hQZVBEM2p6ZVo4d3Z0b1dmT1cxSHVxMEpELUl6ZUxpZGhscktiX0pIMkhFaGFj?oc=5)
 
 ---
 

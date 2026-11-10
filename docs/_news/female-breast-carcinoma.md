@@ -3,7 +3,7 @@ layout: default
 title: "乳がん (female breast carcinoma) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "乳がん (female breast carcinoma) に関する健康ニュース。ニュース 3 件、関連医薬品 7 件。"
+description: "乳がん (female breast carcinoma) に関する健康ニュース。ニュース 2 件、関連医薬品 7 件。"
 permalink: /news/female-breast-carcinoma/
 last_modified_at: 2026-11-10
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="乳がん (female breast carcinoma) に関するニュースは？">
-<strong>乳がん (female breast carcinoma)</strong> には現在 <strong>3 件</strong>の関連ニュースと 7 件の関連医薬品があります。
+<strong>乳がん (female breast carcinoma)</strong> には現在 <strong>2 件</strong>の関連ニュースと 7 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -36,21 +36,13 @@ last_modified_at: 2026-11-10
 </ul>
 </div>
 
-## 関連ニュース（3 件）
+## 関連ニュース（2 件）
 
 ### [【闘病】「まさにどん底でした」 同じ年に『胃がん』と『乳がん』 2度の告知を受け(メディカルドック)](https://news.yahoo.co.jp/articles/740b2a6c95e614de05f8ff5037415af5f9c63676?source=rss)
 
 2026-11-07
 
 出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/740b2a6c95e614de05f8ff5037415af5f9c63676?source=rss)
-
----
-
-### [【新製品】乳癌治療薬を新発売‐「イムルリオ錠」 日本イーライリリー](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VRWtOWUFpbWhsT0xzLTAtRXVjbDg3aFE1OEppT1hQZVBEM2p6ZVo4d3Z0b1dmT1cxSHVxMEpELUl6ZUxpZGhscktiX0pIMkhFaGFj?oc=5)
-
-2026-11-06
-
-出典: [薬事日報](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1VRWtOWUFpbWhsT0xzLTAtRXVjbDg3aFE1OEppT1hQZVBEM2p6ZVo4d3Z0b1dmT1cxSHVxMEpELUl6ZUxpZGhscktiX0pIMkhFaGFj?oc=5)
 
 ---
 

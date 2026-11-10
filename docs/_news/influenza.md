@@ -3,7 +3,7 @@ layout: default
 title: "インフルエンザ (influenza) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 6 件、関連医薬品 1 件。"
+description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 5 件、関連医薬品 1 件。"
 permalink: /news/influenza/
 last_modified_at: 2026-11-10
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="インフルエンザ (influenza) に関するニュースは？">
-<strong>インフルエンザ (influenza)</strong> には現在 <strong>6 件</strong>の関連ニュースと 1 件の関連医薬品があります。
+<strong>インフルエンザ (influenza)</strong> には現在 <strong>5 件</strong>の関連ニュースと 1 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ last_modified_at: 2026-11-10
 </ul>
 </div>
 
-## 関連ニュース（6 件）
+## 関連ニュース（5 件）
 
 ### [【三重県インフルエンザ週報】学年閉鎖7校・学級閉鎖13校発生 鈴鹿・桑名・伊賀・伊勢で県全体の患者届出数上回る＜11月2日～8日の感染症情報 - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE8yNmtYYzliWGdFbFJEQlo1dS1FdHRXOHdHMGdUTzVDV1VtaTQtNmdJUUNFWWdhRENya0tOVXpsWDh4OVJmQXVva0JkSC1yV3kyMWdGZFBwZTg0Nk92TjZpSDFWNHZoRTV1LXA5N3RR?oc=5)
 
@@ -45,14 +45,6 @@ last_modified_at: 2026-11-10
 2026-11-10
 
 出典: [Forbes JAPAN](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GU0s0RUIzbWdZTHhXVlRQSFFKYnFObmZEOEJSU29ZUDZvdjBNdjgzVE9BdEVxMW42TFZjWUZKZ0RPWGpyWlI4NFZQdUNORzVRTjltMmxzMGg2UQ?oc=5)
-
----
-
-### [季節性インフルエンザは、基礎疾患を持つ高齢者に多くの合併症をもたらす可能性があります](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWFhmVFQ2cmNmc2tObGFJa2lCYVpfOWRNWmlBOHFjWmQzSnJ4dHZQWUhHUlVUZzhkNVFIdzhZNGJ1MkEwLTZvNHhEX2FJVXpieFJESWVwQm81clZLV3NfbmFIdHlkZWpYNlUzYThqTDJLY2ZvQTRQbGpscFViS1MxWF9BYThKSU12ak4wczNibGNUX2RMU1FZVEdJeU1uck5iZXk4ZTBCMks?oc=5)
-
-2026-11-07
-
-出典: [Laodong.vn](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWFhmVFQ2cmNmc2tObGFJa2lCYVpfOWRNWmlBOHFjWmQzSnJ4dHZQWUhHUlVUZzhkNVFIdzhZNGJ1MkEwLTZvNHhEX2FJVXpieFJESWVwQm81clZLV3NfbmFIdHlkZWpYNlUzYThqTDJLY2ZvQTRQbGpscFViS1MxWF9BYThKSU12ak4wczNibGNUX2RMU1FZVEdJeU1uck5iZXk4ZTBCMks?oc=5)
 
 ---
 
