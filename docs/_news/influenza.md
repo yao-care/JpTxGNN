@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 7 件、関連医薬品 1 件。"
 permalink: /news/influenza/
-last_modified_at: 2026-11-09
+last_modified_at: 2026-11-10
 ---
 
 # インフルエンザ (influenza) 関連ニュース
@@ -32,11 +32,11 @@ last_modified_at: 2026-11-09
 
 ## 関連ニュース（7 件）
 
-### [【子どもたちのインフルエンザ予防接種へ｜日本初の鼻に噴霧するタイプ「フルミスト点鼻液」｜埼玉県...](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HR1VjRjJqVUxpUzJ3T3J0SThDLVUxX1pvemZNSlNBMWpITWtaVFJ3SF9QLXdhZ1diREh2My1NaXNNOU9GaTloUGFuSE01dUlPSjN6VGhPX0FUWnhVdzRR?oc=5)
+### [［論説］インフルエンザ流行 予防と広げない対策を](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WS2RWVkxIVkM3LTdZR2w0U0ItMVVYcG5aSF9Jb2k4OVFWWW5lQlMyblFSUVRBS0pQR2lnM3VWY2QzTHpGamVxbThPT0QwWlhlMXFFdHlyMGx4RjQ?oc=5)
 
-2026-11-07
+2026-11-09
 
-出典: [選挙ドットコム](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1HR1VjRjJqVUxpUzJ3T3J0SThDLVUxX1pvemZNSlNBMWpITWtaVFJ3SF9QLXdhZ1diREh2My1NaXNNOU9GaTloUGFuSE01dUlPSjN6VGhPX0FUWnhVdzRR?oc=5)
+出典: [日本農業新聞](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WS2RWVkxIVkM3LTdZR2w0U0ItMVVYcG5aSF9Jb2k4OVFWWW5lQlMyblFSUVRBS0pQR2lnM3VWY2QzTHpGamVxbThPT0QwWlhlMXFFdHlyMGx4RjQ?oc=5)
 
 ---
 
