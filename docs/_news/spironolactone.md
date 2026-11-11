@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="アルダクトンＡ錠５０ｍｇ（選） に関するニュースは？">
-<strong>アルダクトンＡ錠５０ｍｇ（選）</strong> には現在 <strong>9 件</strong>の関連ニュースがあり、予測適応症は 2 件です。
+<strong>アルダクトンＡ錠５０ｍｇ（選）</strong> には現在 <strong>7 件</strong>の関連ニュースがあり、予測適応症は 2 件です。
 </p>
 
 <div class="key-takeaway">
@@ -34,15 +34,7 @@ last_modified_at: 2026-11-11
 <p><a href="{{ '/drugs/spironolactone/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（9 件）
-
-### [悪性リンパ腫と闘う4児の母。西洋医学への疑問と、葛藤の末に掴んだ「自分なりの正解」(ヨガジャーナルオンライン)](https://news.yahoo.co.jp/articles/afb7b717015ee18ee2be1441f90a55bf187726b2?source=rss)
-
-2026-11-11 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">血液がん</span> <span class="news-indication-tag">リンパ腫</span> <span class="news-indication-tag">悪性リンパ腫</span>
-
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/afb7b717015ee18ee2be1441f90a55bf187726b2?source=rss)
-
----
+## 関連ニュース（7 件）
 
 ### [ヴィンロン省の1,000人の女性が3種類のがんの無料スクリーニングを受ける](https://news.google.com/rss/articles/CBMipAFBVV95cUxQblo1ZHFoUUtPNkwwZHFVblFmUUNwVnlORjkxMGhKZEQ2X25pUVppQUV1SWJZclNnX2RKb0g3UE1iazAtUENqc2JhUFZFaklJRmJjWUdEZmRlS0cxOWlZeG9kT3ZVcEw4Sl8wOUF3Z2NCSmJ5STBHMHVfeksyc09RbEozZ3pUaGRhZFQ1WDB2cFc5c1M1N1cxMFZpYThmRWlGakNXcg?oc=5)
 
@@ -97,14 +89,6 @@ last_modified_at: 2026-11-11
 2026-11-05 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
 
 出典: [NEWSポストセブン](https://news.google.com/rss/articles/CBMid0FVX3lxTFAtazlaRjVCZ1pma1N3bzZ4dUVBMzgwMWtObkdlMWp5QnBPT25PT19Yd1UwMGVyNzRXZG9fNDBKcjFWODNQMnZVNmdvT2lfekNjSWtyNl9hY3pycmZlTE9zbkg4dnV5cU03SmhEUlVZcTNoT3pmNURN?oc=5)
-
----
-
-### [（13）「がん」は夜に成長するのか？ 体内時計とがん細胞の意外な関係｜夜の医学～老化する人、しない人](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DNnpQTXlWTWtELTZ4dGhESmhLMW9md2t5ZW45RmpHNkFyM1Q3YWIxSHlVNkdSVnVoQjhOVElIN0htM0xDeUROdGVSczZIdUFTS2xyeXJ4VTJIRjMtQ0xabVlNZEkyZFVL?oc=5)
-
-2026-11-04 <span class="news-indication-tag">がん</span>
-
-出典: [日刊ゲンダイDIGITAL](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DNnpQTXlWTWtELTZ4dGhESmhLMW9md2t5ZW45RmpHNkFyM1Q3YWIxSHlVNkdSVnVoQjhOVElIN0htM0xDeUROdGVSczZIdUFTS2xyeXJ4VTJIRjMtQ0xabVlNZEkyZFVL?oc=5)
 
 ---
 

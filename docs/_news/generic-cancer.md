@@ -3,7 +3,7 @@ layout: default
 title: "がん (generic_cancer) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "がん (generic_cancer) に関する健康ニュース。ニュース 9 件、関連医薬品 67 件。"
+description: "がん (generic_cancer) に関する健康ニュース。ニュース 7 件、関連医薬品 67 件。"
 permalink: /news/generic-cancer/
 last_modified_at: 2026-11-11
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="がん (generic_cancer) に関するニュースは？">
-<strong>がん (generic_cancer)</strong> には現在 <strong>9 件</strong>の関連ニュースと 67 件の関連医薬品があります。
+<strong>がん (generic_cancer)</strong> には現在 <strong>7 件</strong>の関連ニュースと 67 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -94,15 +94,7 @@ last_modified_at: 2026-11-11
 </ul>
 </div>
 
-## 関連ニュース（9 件）
-
-### [悪性リンパ腫と闘う4児の母。西洋医学への疑問と、葛藤の末に掴んだ「自分なりの正解」(ヨガジャーナルオンライン)](https://news.yahoo.co.jp/articles/afb7b717015ee18ee2be1441f90a55bf187726b2?source=rss)
-
-2026-11-11
-
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/afb7b717015ee18ee2be1441f90a55bf187726b2?source=rss)
-
----
+## 関連ニュース（7 件）
 
 ### [ヴィンロン省の1,000人の女性が3種類のがんの無料スクリーニングを受ける](https://news.google.com/rss/articles/CBMipAFBVV95cUxQblo1ZHFoUUtPNkwwZHFVblFmUUNwVnlORjkxMGhKZEQ2X25pUVppQUV1SWJZclNnX2RKb0g3UE1iazAtUENqc2JhUFZFaklJRmJjWUdEZmRlS0cxOWlZeG9kT3ZVcEw4Sl8wOUF3Z2NCSmJ5STBHMHVfeksyc09RbEozZ3pUaGRhZFQ1WDB2cFc5c1M1N1cxMFZpYThmRWlGakNXcg?oc=5)
 
@@ -157,14 +149,6 @@ last_modified_at: 2026-11-11
 2026-11-05
 
 出典: [NEWSポストセブン](https://news.google.com/rss/articles/CBMid0FVX3lxTFAtazlaRjVCZ1pma1N3bzZ4dUVBMzgwMWtObkdlMWp5QnBPT25PT19Yd1UwMGVyNzRXZG9fNDBKcjFWODNQMnZVNmdvT2lfekNjSWtyNl9hY3pycmZlTE9zbkg4dnV5cU03SmhEUlVZcTNoT3pmNURN?oc=5)
-
----
-
-### [（13）「がん」は夜に成長するのか？ 体内時計とがん細胞の意外な関係｜夜の医学～老化する人、しない人](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DNnpQTXlWTWtELTZ4dGhESmhLMW9md2t5ZW45RmpHNkFyM1Q3YWIxSHlVNkdSVnVoQjhOVElIN0htM0xDeUROdGVSczZIdUFTS2xyeXJ4VTJIRjMtQ0xabVlNZEkyZFVL?oc=5)
-
-2026-11-04
-
-出典: [日刊ゲンダイDIGITAL](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DNnpQTXlWTWtELTZ4dGhESmhLMW9md2t5ZW45RmpHNkFyM1Q3YWIxSHlVNkdSVnVoQjhOVElIN0htM0xDeUROdGVSczZIdUFTS2xyeXJ4VTJIRjMtQ0xabVlNZEkyZFVL?oc=5)
 
 ---
 

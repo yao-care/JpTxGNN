@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="イレッサ錠２５０　２５０ｍｇ（選） に関するニュースは？">
-<strong>イレッサ錠２５０　２５０ｍｇ（選）</strong> には現在 <strong>14 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
+<strong>イレッサ錠２５０　２５０ｍｇ（選）</strong> には現在 <strong>11 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,13 @@ last_modified_at: 2026-11-11
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（14 件）
+## 関連ニュース（11 件）
 
-### [悪性リンパ腫と闘う4児の母。西洋医学への疑問と、葛藤の末に掴んだ「自分なりの正解」(ヨガジャーナルオンライン)](https://news.yahoo.co.jp/articles/afb7b717015ee18ee2be1441f90a55bf187726b2?source=rss)
+### [45歳以降の感染症による入院、認知症発症リスクの上昇に関係か](https://news.google.com/rss/articles/CBMilAFBVV95cUxQejA0SFFBbkdHVGVaam1MWjNoUzMxYkE5bWZuQW9kZVpFYndScmF2TDNOc25IU1BzaHpwTmtzcXNjd29hbV95OUFQV3E5cVBXSE1Wbk5FT2FMWl9hR0VPNGJ0OVJmRm1kb2xyd0NPWHY2anVVOFFkZlFMY2tUT29zTFIwVWU0bmJhY1NSbzZQMi15Q1la?oc=5)
 
-2026-11-11 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">血液がん</span> <span class="news-indication-tag">リンパ腫</span> <span class="news-indication-tag">悪性リンパ腫</span>
+2026-11-11 <span class="news-indication-tag">認知症</span>
 
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/afb7b717015ee18ee2be1441f90a55bf187726b2?source=rss)
+出典: [日経Gooday](https://news.google.com/rss/articles/CBMilAFBVV95cUxQejA0SFFBbkdHVGVaam1MWjNoUzMxYkE5bWZuQW9kZVpFYndScmF2TDNOc25IU1BzaHpwTmtzcXNjd29hbV95OUFQV3E5cVBXSE1Wbk5FT2FMWl9hR0VPNGJ0OVJmRm1kb2xyd0NPWHY2anVVOFFkZlFMY2tUT29zTFIwVWU0bmJhY1NSbzZQMi15Q1la?oc=5)
 
 ---
 
@@ -115,14 +115,6 @@ last_modified_at: 2026-11-11
 
 ---
 
-### [認知症を加速する男性ホルモン作用破綻の機序を解明－都長寿研](https://news.google.com/rss/articles/CBMigAFBVV95cUxNQzJ5MWQ3SjQ5YzhjZ3RzYWUzUTBESUZNYmhwa2pudUFfOW1nc0Q1R3Y1aXBCbUlNNFRBa1lFVWJHMXl4RDltSWpGbmt3STFNYVVZZEdsS3NGQzYySXc5Wlc5NDlBcDhPMm5DTDVGd3BremVUWFZRWUNHdlZwZU4yMw?oc=5)
-
-2026-11-06 <span class="news-indication-tag">認知症</span>
-
-出典: [QLifePro](https://news.google.com/rss/articles/CBMigAFBVV95cUxNQzJ5MWQ3SjQ5YzhjZ3RzYWUzUTBESUZNYmhwa2pudUFfOW1nc0Q1R3Y1aXBCbUlNNFRBa1lFVWJHMXl4RDltSWpGbmt3STFNYVVZZEdsS3NGQzYySXc5Wlc5NDlBcDhPMm5DTDVGd3BremVUWFZRWUNHdlZwZU4yMw?oc=5)
-
----
-
 ### [あなたは大丈夫？ほぼ毎日昼寝する高齢者は認知症リスクが50％近く上がることが判明 - @DIME アットダイム](https://news.google.com/rss/articles/CBMiREFVX3lxTE9LYjRadmpFcHd3ZHRaUFZMUVpoaGRoSXNDRWRqNTA3QzZOS0gwdXBlRmNZY202NFUxUGNsUExDMVAwdTM4?oc=5)
 
 2026-11-05 <span class="news-indication-tag">認知症</span>
@@ -136,22 +128,6 @@ last_modified_at: 2026-11-11
 2026-11-05 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
 
 出典: [NEWSポストセブン](https://news.google.com/rss/articles/CBMid0FVX3lxTFAtazlaRjVCZ1pma1N3bzZ4dUVBMzgwMWtObkdlMWp5QnBPT25PT19Yd1UwMGVyNzRXZG9fNDBKcjFWODNQMnZVNmdvT2lfekNjSWtyNl9hY3pycmZlTE9zbkg4dnV5cU03SmhEUlVZcTNoT3pmNURN?oc=5)
-
----
-
-### [世界中で認知症患者増加の危機！新規患者が2050年には2倍超の2470万人に - @DIME アットダイム](https://news.google.com/rss/articles/CBMiREFVX3lxTE9BMHBscWJlMXJwMnE0MU1xT3pRV2c1RDcwei1GbGZtX2hhVU1FZHVJY0o3Sk1NNGo1aE42a0hGMy1iNTdy?oc=5)
-
-2026-11-04 <span class="news-indication-tag">認知症</span>
-
-出典: [@DIME アットダイム](https://news.google.com/rss/articles/CBMiREFVX3lxTE9BMHBscWJlMXJwMnE0MU1xT3pRV2c1RDcwei1GbGZtX2hhVU1FZHVJY0o3Sk1NNGo1aE42a0hGMy1iNTdy?oc=5)
-
----
-
-### [（13）「がん」は夜に成長するのか？ 体内時計とがん細胞の意外な関係｜夜の医学～老化する人、しない人](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DNnpQTXlWTWtELTZ4dGhESmhLMW9md2t5ZW45RmpHNkFyM1Q3YWIxSHlVNkdSVnVoQjhOVElIN0htM0xDeUROdGVSczZIdUFTS2xyeXJ4VTJIRjMtQ0xabVlNZEkyZFVL?oc=5)
-
-2026-11-04 <span class="news-indication-tag">がん</span>
-
-出典: [日刊ゲンダイDIGITAL](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DNnpQTXlWTWtELTZ4dGhESmhLMW9md2t5ZW45RmpHNkFyM1Q3YWIxSHlVNkdSVnVoQjhOVElIN0htM0xDeUROdGVSczZIdUFTS2xyeXJ4VTJIRjMtQ0xabVlNZEkyZFVL?oc=5)
 
 ---
 

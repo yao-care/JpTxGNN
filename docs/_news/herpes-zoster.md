@@ -34,11 +34,11 @@ last_modified_at: 2026-11-11
 
 ## 関連ニュース（1 件）
 
-### [きっかけは何？ 他人にうつるの？ つらい後遺症は？ 《発症が急増する50代》が知っておきたい帯状疱疹の素朴な疑問10](https://news.google.com/rss/articles/CBMihwFBVV95cUxNcG1xU0pUSk1QVmo5RHdFYW1KSzRvVm56OGZWazRmT1JXcFlfbE1jWE5vV1A5XzVaVjhTZmFCUjlPc2EtR0tnSEdzT3Mwdjg4M29ZRmJSdVpRQnZxVGowbmp0blAzMC14UHhzNXJxMks1R0hLdHcyOUVWcWJBbFFlakVpb1FyR00?oc=5)
+### [帯状疱疹はワクチンで防ぐ 50歳から接種検討、後遺症にも対策](https://news.google.com/rss/articles/CBMibEFVX3lxTE1oS1U3RnVhUHVoTE1YMWRheThuVWZ0b0YwVDdzRHQtRVpud0x5Ym03WjhLejhORjdDWmxWNDFFX2YtMkQyeHdJLUxQZWRCeHl4YlNJdmJFMXl2N1kyTm9ubHpMZFcyNkVGTGtNdg?oc=5)
 
-2026-11-11
+2026-11-05
 
-出典: [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxNcG1xU0pUSk1QVmo5RHdFYW1KSzRvVm56OGZWazRmT1JXcFlfbE1jWE5vV1A5XzVaVjhTZmFCUjlPc2EtR0tnSEdzT3Mwdjg4M29ZRmJSdVpRQnZxVGowbmp0blAzMC14UHhzNXJxMks1R0hLdHcyOUVWcWJBbFFlakVpb1FyR00?oc=5)
+出典: [日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTE1oS1U3RnVhUHVoTE1YMWRheThuVWZ0b0YwVDdzRHQtRVpud0x5Ym03WjhLejhORjdDWmxWNDFFX2YtMkQyeHdJLUxQZWRCeHl4YlNJdmJFMXl2N1kyTm9ubHpMZFcyNkVGTGtNdg?oc=5)
 
 ---
 

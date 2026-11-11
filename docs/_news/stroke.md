@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "脳卒中 (stroke) 関連ニュース"
+title: "脳梗塞 (stroke) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "脳卒中 (stroke) に関する健康ニュース。ニュース 1 件、関連医薬品 16 件。"
+description: "脳梗塞 (stroke) に関する健康ニュース。ニュース 2 件、関連医薬品 16 件。"
 permalink: /news/stroke/
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-11
 ---
 
-# 脳卒中 (stroke) 関連ニュース
+# 脳梗塞 (stroke) 関連ニュース
 
 [← ニュース一覧に戻る]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="脳卒中 (stroke) に関するニュースは？">
-<strong>脳卒中 (stroke)</strong> には現在 <strong>1 件</strong>の関連ニュースと 16 件の関連医薬品があります。
+<p class="key-answer" data-question="脳梗塞 (stroke) に関するニュースは？">
+<strong>脳梗塞 (stroke)</strong> には現在 <strong>2 件</strong>の関連ニュースと 16 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
-このページは「脳卒中」に関する最新の健康ニュースをまとめ、JpTxGNN データベースで予測適応症にこの疾患を含む医薬品を一覧表示します。
+このページは「脳梗塞」に関する最新の健康ニュースをまとめ、JpTxGNN データベースで予測適応症にこの疾患を含む医薬品を一覧表示します。
 </div>
 
 <div class="related-drugs-card">
@@ -45,7 +45,15 @@ last_modified_at: 2026-11-10
 </ul>
 </div>
 
-## 関連ニュース（1 件）
+## 関連ニュース（2 件）
+
+### [ラジオ大阪が特別番組「糖尿病デー・スペシャル」予防・治療情報をたっぷりお届け！ check! ラジオ大阪](https://news.google.com/rss/articles/CBMidkFVX3lxTE9RcHVTQ2FKOVZxaVFxWExkdEFvNUxRMkVqblEwSnZ5ZWgxdkJTZFNTdm1jaG9Nd2dON3dGQjJkSkpQQU40akc2VThxTW9vcW9iWUNOSUp0Z1JSZTRhanl3SG5NX3FmSTAxNjZaSjNWQmFPeDZZUmc?oc=5)
+
+2026-11-11
+
+出典: [産経ニュース](https://news.google.com/rss/articles/CBMidkFVX3lxTE9RcHVTQ2FKOVZxaVFxWExkdEFvNUxRMkVqblEwSnZ5ZWgxdkJTZFNTdm1jaG9Nd2dON3dGQjJkSkpQQU40akc2VThxTW9vcW9iWUNOSUp0Z1JSZTRhanl3SG5NX3FmSTAxNjZaSjNWQmFPeDZZUmc?oc=5)
+
+---
 
 ### [「血液がドロドロに……」 飲めば飲むほど脳卒中リスクが上がる？ 身近な飲み物に潜む意外な危険性](https://news.google.com/rss/articles/CBMieEFVX3lxTE1yVkYxQUFnMUU3Rk9YNkdkbmF1TkJObUgxUzhYZ0RuQ2tvbF9DRFctalpnS2xlZGhCVkRVb2t2MUZVNGlfaHFVRktDYjNhS1dxbUlsMmE3TmljLWVZRG8teFowcUw5R0czWXNhaGJ4ZEdSMHFJaEhkbNIBfkFVX3lxTE9GaE54STNjYU10V2RVRk9JRjRGU2tFeE1YZk41U0ZpV1hiSV9xakdoSW5JbFBha3Z0Ymk5S2tna2dMYTJXRzl6TDczTjdvNXE5Q2RuNmtTbVhzeTZHbVJhZ3RYcTNmMGllalFRSjFWX0RuTG1TbWZhUzd5N1RnQQ?oc=5)
 

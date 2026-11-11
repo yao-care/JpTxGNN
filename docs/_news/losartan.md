@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="ニューロタン錠５０ｍｇ（選） に関するニュースは？">
-<strong>ニューロタン錠５０ｍｇ（選）</strong> には現在 <strong>10 件</strong>の関連ニュースがあり、予測適応症は 7 件です。
+<strong>ニューロタン錠５０ｍｇ（選）</strong> には現在 <strong>9 件</strong>の関連ニュースがあり、予測適応症は 7 件です。
 </p>
 
 <div class="key-takeaway">
@@ -39,13 +39,13 @@ last_modified_at: 2026-11-11
 <p><a href="{{ '/drugs/losartan/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（10 件）
+## 関連ニュース（9 件）
 
-### [悪性リンパ腫と闘う4児の母。西洋医学への疑問と、葛藤の末に掴んだ「自分なりの正解」(ヨガジャーナルオンライン)](https://news.yahoo.co.jp/articles/afb7b717015ee18ee2be1441f90a55bf187726b2?source=rss)
+### [ラジオ大阪が特別番組「糖尿病デー・スペシャル」予防・治療情報をたっぷりお届け！ check! ラジオ大阪](https://news.google.com/rss/articles/CBMidkFVX3lxTE9RcHVTQ2FKOVZxaVFxWExkdEFvNUxRMkVqblEwSnZ5ZWgxdkJTZFNTdm1jaG9Nd2dON3dGQjJkSkpQQU40akc2VThxTW9vcW9iWUNOSUp0Z1JSZTRhanl3SG5NX3FmSTAxNjZaSjNWQmFPeDZZUmc?oc=5)
 
-2026-11-11 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">血液がん</span> <span class="news-indication-tag">リンパ腫</span> <span class="news-indication-tag">悪性リンパ腫</span>
+2026-11-11 <span class="news-indication-tag">脳梗塞</span>
 
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/afb7b717015ee18ee2be1441f90a55bf187726b2?source=rss)
+出典: [産経ニュース](https://news.google.com/rss/articles/CBMidkFVX3lxTE9RcHVTQ2FKOVZxaVFxWExkdEFvNUxRMkVqblEwSnZ5ZWgxdkJTZFNTdm1jaG9Nd2dON3dGQjJkSkpQQU40akc2VThxTW9vcW9iWUNOSUp0Z1JSZTRhanl3SG5NX3FmSTAxNjZaSjNWQmFPeDZZUmc?oc=5)
 
 ---
 
@@ -110,14 +110,6 @@ last_modified_at: 2026-11-11
 2026-11-05 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
 
 出典: [NEWSポストセブン](https://news.google.com/rss/articles/CBMid0FVX3lxTFAtazlaRjVCZ1pma1N3bzZ4dUVBMzgwMWtObkdlMWp5QnBPT25PT19Yd1UwMGVyNzRXZG9fNDBKcjFWODNQMnZVNmdvT2lfekNjSWtyNl9hY3pycmZlTE9zbkg4dnV5cU03SmhEUlVZcTNoT3pmNURN?oc=5)
-
----
-
-### [（13）「がん」は夜に成長するのか？ 体内時計とがん細胞の意外な関係｜夜の医学～老化する人、しない人](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DNnpQTXlWTWtELTZ4dGhESmhLMW9md2t5ZW45RmpHNkFyM1Q3YWIxSHlVNkdSVnVoQjhOVElIN0htM0xDeUROdGVSczZIdUFTS2xyeXJ4VTJIRjMtQ0xabVlNZEkyZFVL?oc=5)
-
-2026-11-04 <span class="news-indication-tag">がん</span>
-
-出典: [日刊ゲンダイDIGITAL](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DNnpQTXlWTWtELTZ4dGhESmhLMW9md2t5ZW45RmpHNkFyM1Q3YWIxSHlVNkdSVnVoQjhOVElIN0htM0xDeUROdGVSczZIdUFTS2xyeXJ4VTJIRjMtQ0xabVlNZEkyZFVL?oc=5)
 
 ---
 

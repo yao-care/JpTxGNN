@@ -3,7 +3,7 @@ layout: default
 title: "認知症 (dementia) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "認知症 (dementia) に関する健康ニュース。ニュース 5 件、関連医薬品 2 件。"
+description: "認知症 (dementia) に関する健康ニュース。ニュース 4 件、関連医薬品 2 件。"
 permalink: /news/dementia/
 last_modified_at: 2026-11-11
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="認知症 (dementia) に関するニュースは？">
-<strong>認知症 (dementia)</strong> には現在 <strong>5 件</strong>の関連ニュースと 2 件の関連医薬品があります。
+<strong>認知症 (dementia)</strong> には現在 <strong>4 件</strong>の関連ニュースと 2 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,15 @@ last_modified_at: 2026-11-11
 </ul>
 </div>
 
-## 関連ニュース（5 件）
+## 関連ニュース（4 件）
+
+### [45歳以降の感染症による入院、認知症発症リスクの上昇に関係か](https://news.google.com/rss/articles/CBMilAFBVV95cUxQejA0SFFBbkdHVGVaam1MWjNoUzMxYkE5bWZuQW9kZVpFYndScmF2TDNOc25IU1BzaHpwTmtzcXNjd29hbV95OUFQV3E5cVBXSE1Wbk5FT2FMWl9hR0VPNGJ0OVJmRm1kb2xyd0NPWHY2anVVOFFkZlFMY2tUT29zTFIwVWU0bmJhY1NSbzZQMi15Q1la?oc=5)
+
+2026-11-11
+
+出典: [日経Gooday](https://news.google.com/rss/articles/CBMilAFBVV95cUxQejA0SFFBbkdHVGVaam1MWjNoUzMxYkE5bWZuQW9kZVpFYndScmF2TDNOc25IU1BzaHpwTmtzcXNjd29hbV95OUFQV3E5cVBXSE1Wbk5FT2FMWl9hR0VPNGJ0OVJmRm1kb2xyd0NPWHY2anVVOFFkZlFMY2tUT29zTFIwVWU0bmJhY1NSbzZQMi15Q1la?oc=5)
+
+---
 
 ### [日常生活で「強い光」を浴びる量が認知症リスクに肥満よりも強く関連しているとの研究結果](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vWnRxVy1XZWlyWkZIWFNwUXFkSVFxSXk4c1pYaFVxbERldXgtSkxDV0JzN3Y0Nk5KYWNxVkg2N1N0Q1diNHZRNTRST3F6QmlkTXFUclNOMmdBMl9RdVhF?oc=5)
 
@@ -49,27 +57,11 @@ last_modified_at: 2026-11-11
 
 ---
 
-### [認知症を加速する男性ホルモン作用破綻の機序を解明－都長寿研](https://news.google.com/rss/articles/CBMigAFBVV95cUxNQzJ5MWQ3SjQ5YzhjZ3RzYWUzUTBESUZNYmhwa2pudUFfOW1nc0Q1R3Y1aXBCbUlNNFRBa1lFVWJHMXl4RDltSWpGbmt3STFNYVVZZEdsS3NGQzYySXc5Wlc5NDlBcDhPMm5DTDVGd3BremVUWFZRWUNHdlZwZU4yMw?oc=5)
-
-2026-11-06
-
-出典: [QLifePro](https://news.google.com/rss/articles/CBMigAFBVV95cUxNQzJ5MWQ3SjQ5YzhjZ3RzYWUzUTBESUZNYmhwa2pudUFfOW1nc0Q1R3Y1aXBCbUlNNFRBa1lFVWJHMXl4RDltSWpGbmt3STFNYVVZZEdsS3NGQzYySXc5Wlc5NDlBcDhPMm5DTDVGd3BremVUWFZRWUNHdlZwZU4yMw?oc=5)
-
----
-
 ### [あなたは大丈夫？ほぼ毎日昼寝する高齢者は認知症リスクが50％近く上がることが判明 - @DIME アットダイム](https://news.google.com/rss/articles/CBMiREFVX3lxTE9LYjRadmpFcHd3ZHRaUFZMUVpoaGRoSXNDRWRqNTA3QzZOS0gwdXBlRmNZY202NFUxUGNsUExDMVAwdTM4?oc=5)
 
 2026-11-05
 
 出典: [@DIME アットダイム](https://news.google.com/rss/articles/CBMiREFVX3lxTE9LYjRadmpFcHd3ZHRaUFZMUVpoaGRoSXNDRWRqNTA3QzZOS0gwdXBlRmNZY202NFUxUGNsUExDMVAwdTM4?oc=5)
-
----
-
-### [世界中で認知症患者増加の危機！新規患者が2050年には2倍超の2470万人に - @DIME アットダイム](https://news.google.com/rss/articles/CBMiREFVX3lxTE9BMHBscWJlMXJwMnE0MU1xT3pRV2c1RDcwei1GbGZtX2hhVU1FZHVJY0o3Sk1NNGo1aE42a0hGMy1iNTdy?oc=5)
-
-2026-11-04
-
-出典: [@DIME アットダイム](https://news.google.com/rss/articles/CBMiREFVX3lxTE9BMHBscWJlMXJwMnE0MU1xT3pRV2c1RDcwei1GbGZtX2hhVU1FZHVJY0o3Sk1NNGo1aE42a0hGMy1iNTdy?oc=5)
 
 ---
 
