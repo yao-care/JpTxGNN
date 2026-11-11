@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "心筋梗塞 (myocardial infarction) に関する健康ニュース。ニュース 1 件、関連医薬品 7 件。"
 permalink: /news/myocardial-infarction/
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-11
 ---
 
 # 心筋梗塞 (myocardial infarction) 関連ニュース
@@ -38,11 +38,11 @@ last_modified_at: 2026-11-10
 
 ## 関連ニュース（1 件）
 
-### [エナジードリンクが心筋梗塞や心停止と関連？米研究者らが警鐘 (2026年11月9日掲載)](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HeERJU1BaaUEzR3VzLXI1WGxSX196N0J1MWVuUENLcy1hSV9LRmpyUFlPUUxrM3hIa2daamh2THNnaTNIeE9KOFJ4SEQ0dmxiaUZxZDJyQ05VM0RqN0E?oc=5)
+### [エナジードリンク、心筋梗塞など重大な心臓トラブルとの関連？米研究が指摘](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hdFE1U2txdDVLVUQ1eTBzc0RpUFBIMnVWb0ZHejI0ZGJIRnhJMmZENnNMaEFXMGdRdVpPWlF5SUFMQjdRT3UxMVdySGdybkhMQllKLW9oX0Uwa05RZktR?oc=5)
 
-2026-11-10
+2026-11-09
 
-出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1HeERJU1BaaUEzR3VzLXI1WGxSX196N0J1MWVuUENLcy1hSV9LRmpyUFlPUUxrM3hIa2daamh2THNnaTNIeE9KOFJ4SEQ0dmxiaUZxZDJyQ05VM0RqN0E?oc=5)
+出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hdFE1U2txdDVLVUQ1eTBzc0RpUFBIMnVWb0ZHejI0ZGJIRnhJMmZENnNMaEFXMGdRdVpPWlF5SUFMQjdRT3UxMVdySGdybkhMQllKLW9oX0Uwa05RZktR?oc=5)
 
 ---
 

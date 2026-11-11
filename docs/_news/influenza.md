@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 5 件、関連医薬品 1 件。"
 permalink: /news/influenza/
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-11
 ---
 
 # インフルエンザ (influenza) 関連ニュース
@@ -31,6 +31,14 @@ last_modified_at: 2026-11-10
 </div>
 
 ## 関連ニュース（5 件）
+
+### [A型インフルエンザが増加、多くの高齢患者が重症化](https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ3J2bUVXc0FoSnBtZXg4ejVOeWJTYVh5dTFUemtEY3BTUkFkTEpIQV9SLVM5WEpYQXFPdEY1RUxKb1ZGbFRRZ2FYNlljMG83aUJsYzl6SWZvVGdibGd4UVByYlBQcFZiSWhlZVBUYy1UMk53TWNWamI1VWNiMkhGbjRuNVhrQUU4UEVZY3cwYlIwMVZDWklnVi03eTlXU25Ub2gw?oc=5)
+
+2026-11-10
+
+出典: [Laodong.vn](https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ3J2bUVXc0FoSnBtZXg4ejVOeWJTYVh5dTFUemtEY3BTUkFkTEpIQV9SLVM5WEpYQXFPdEY1RUxKb1ZGbFRRZ2FYNlljMG83aUJsYzl6SWZvVGdibGd4UVByYlBQcFZiSWhlZVBUYy1UMk53TWNWamI1VWNiMkhGbjRuNVhrQUU4UEVZY3cwYlIwMVZDWklnVi03eTlXU25Ub2gw?oc=5)
+
+---
 
 ### [【三重県インフルエンザ週報】学年閉鎖7校・学級閉鎖13校発生 鈴鹿・桑名・伊賀・伊勢で県全体の患者届出数上回る＜11月2日～8日の感染症情報 - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE8yNmtYYzliWGdFbFJEQlo1dS1FdHRXOHdHMGdUTzVDV1VtaTQtNmdJUUNFWWdhRENya0tOVXpsWDh4OVJmQXVva0JkSC1yV3kyMWdGZFBwZTg0Nk92TjZpSDFWNHZoRTV1LXA5N3RR?oc=5)
 
@@ -61,14 +69,6 @@ last_modified_at: 2026-11-10
 2026-11-04
 
 出典: [日本海新聞](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5wcXl2MkxFTVdabFU0RkllWEM3WUNXZFZ6a2ZyTVN4Y2JGbU5JOU1YUUlyT3ZYNmNOY2RHRnVCcDJkSWd0b0xsZXVfb0Z3bU1K?oc=5)
-
----
-
-### [中世の「ミイラの薬」が細胞をインフルエンザから守る可能性](https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzXzJzbjRZcWo0alBLaTJ4X0IyUXZOc3hPMmNraV95WnMyTWVKaHU0WmV0ZDJaY0NyRjlhbmZpa2N4VDFTeGFJMmlTcEJkUndhMDcwclU2dDFfOG8?oc=5)
-
-2026-11-04
-
-出典: [ナゾロジー](https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzXzJzbjRZcWo0alBLaTJ4X0IyUXZOc3hPMmNraV95WnMyTWVKaHU0WmV0ZDJaY0NyRjlhbmZpa2N4VDFTeGFJMmlTcEJkUndhMDcwclU2dDFfOG8?oc=5)
 
 ---
 

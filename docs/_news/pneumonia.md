@@ -3,9 +3,9 @@ layout: default
 title: "肺炎 (pneumonia) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "肺炎 (pneumonia) に関する健康ニュース。ニュース 1 件、関連医薬品 3 件。"
+description: "肺炎 (pneumonia) に関する健康ニュース。ニュース 2 件、関連医薬品 3 件。"
 permalink: /news/pneumonia/
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-11
 ---
 
 # 肺炎 (pneumonia) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="肺炎 (pneumonia) に関するニュースは？">
-<strong>肺炎 (pneumonia)</strong> には現在 <strong>1 件</strong>の関連ニュースと 3 件の関連医薬品があります。
+<strong>肺炎 (pneumonia)</strong> には現在 <strong>2 件</strong>の関連ニュースと 3 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,15 @@ last_modified_at: 2026-11-10
 </ul>
 </div>
 
-## 関連ニュース（1 件）
+## 関連ニュース（2 件）
+
+### [A型インフルエンザが増加、多くの高齢患者が重症化](https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ3J2bUVXc0FoSnBtZXg4ejVOeWJTYVh5dTFUemtEY3BTUkFkTEpIQV9SLVM5WEpYQXFPdEY1RUxKb1ZGbFRRZ2FYNlljMG83aUJsYzl6SWZvVGdibGd4UVByYlBQcFZiSWhlZVBUYy1UMk53TWNWamI1VWNiMkhGbjRuNVhrQUU4UEVZY3cwYlIwMVZDWklnVi03eTlXU25Ub2gw?oc=5)
+
+2026-11-10
+
+出典: [Laodong.vn](https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ3J2bUVXc0FoSnBtZXg4ejVOeWJTYVh5dTFUemtEY3BTUkFkTEpIQV9SLVM5WEpYQXFPdEY1RUxKb1ZGbFRRZ2FYNlljMG83aUJsYzl6SWZvVGdibGd4UVByYlBQcFZiSWhlZVBUYy1UMk53TWNWamI1VWNiMkhGbjRuNVhrQUU4UEVZY3cwYlIwMVZDWklnVi03eTlXU25Ub2gw?oc=5)
+
+---
 
 ### [進歩する間質性肺炎診療と新たな“抗線維化薬”の登場――第3回日本呼吸器学会連携ウェビナー開催(Medical Note)](https://news.yahoo.co.jp/articles/1cd02a1fd3f71da92352488c7603e7beddebf3d8?source=rss)
 

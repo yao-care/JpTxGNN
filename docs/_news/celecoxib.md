@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "セレコックス錠２００ｍｇ（選） に関する健康ニュース。予測適応症 7 件。"
 permalink: /news/celecoxib/
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-11
 ---
 
 # セレコックス錠２００ｍｇ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="セレコックス錠２００ｍｇ（選） に関するニュースは？">
-<strong>セレコックス錠２００ｍｇ（選）</strong> には現在 <strong>6 件</strong>の関連ニュースがあり、予測適応症は 7 件です。
+<strong>セレコックス錠２００ｍｇ（選）</strong> には現在 <strong>10 件</strong>の関連ニュースがあり、予測適応症は 7 件です。
 </p>
 
 <div class="key-takeaway">
@@ -39,13 +39,45 @@ last_modified_at: 2026-11-10
 <p><a href="{{ '/drugs/celecoxib/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（6 件）
+## 関連ニュース（10 件）
+
+### [世界初！ ウイルスを体内に入れて食道がんを治療する最新技術とは？(THE21オンライン)](https://news.yahoo.co.jp/articles/ee66170633144f0f5fb600377bcf4ab4fe6d70f7?source=rss)
+
+2026-11-11 <span class="news-indication-tag">がん</span>
+
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/ee66170633144f0f5fb600377bcf4ab4fe6d70f7?source=rss)
+
+---
+
+### [「声がおかしい」の一言から始まった――喉頭がん経験者・内田 忠男さんと専門医が伝えたい早期受診の大切さ(Medical Note)](https://news.yahoo.co.jp/articles/cfa0d2fb0bfff33f108940be8cc0e199eb36499c?source=rss)
+
+2026-11-11 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">かぜ</span>
+
+出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/cfa0d2fb0bfff33f108940be8cc0e199eb36499c?source=rss)
+
+---
+
+### [胃・食道接合部・食道腺がんに対するレゴラフェニブ・ニボルマブ・化学療法の併用療法の効果と、治療への耐性が生じる機序を解明 - PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE8yR3NxXzFuN3hQMVhSTVFEbGNjMXJWblNNUG9CVmN3em5vaUdqVG1hbmthS0hfc25aX3dJMDAxSTlnZHBlSUtFVTItR1d2QzVOV2NVZXhzZFh2WHBfN0RwWEUtczg0eTdtMmc?oc=5)
+
+2026-11-11 <span class="news-indication-tag">がん</span>
+
+出典: [PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE8yR3NxXzFuN3hQMVhSTVFEbGNjMXJWblNNUG9CVmN3em5vaUdqVG1hbmthS0hfc25aX3dJMDAxSTlnZHBlSUtFVTItR1d2QzVOV2NVZXhzZFh2WHBfN0RwWEUtczg0eTdtMmc?oc=5)
+
+---
 
 ### [ワクチンでがん予防～子宮頸がん、ＨＰＶ関連がん（自治医科大付属さいたま医療センター　今野良名誉教授）～](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xLU1EMmR2MDZ2NlQwYlpvU1VsUHl4b3RiellyTTNGVktwZlJFWHNTTGxxM21ScEU3WUM2TnZqckN2a0xlR3h2VDc1NTTSAVJBVV95cUxOaDFfX19NMDZzSWNlcnZiOXRqQXlaTlFhZDQ1RmFERXEyX3R0LWpuelNQbjBJbUQ5QlB3VS01eG9FdkZ3ZDBJTmRoNmJxai1WUXN3?oc=5)
 
 2026-11-10 <span class="news-indication-tag">がん</span>
 
 出典: [時事メディカル](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xLU1EMmR2MDZ2NlQwYlpvU1VsUHl4b3RiellyTTNGVktwZlJFWHNTTGxxM21ScEU3WUM2TnZqckN2a0xlR3h2VDc1NTTSAVJBVV95cUxOaDFfX19NMDZzSWNlcnZiOXRqQXlaTlFhZDQ1RmFERXEyX3R0LWpuelNQbjBJbUQ5QlB3VS01eG9FdkZ3ZDBJTmRoNmJxai1WUXN3?oc=5)
+
+---
+
+### [「問題なし」の診断から、わずか半年後にがんが判明。「まさか自分が」思いがけない病気発覚【がん実体験漫画3選】](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LTDB2RWNCcEE0SWxqQXFpUDBCN0RVUU9iQ2FjWjdMWFRoR1RwRWpQMGUzTUxneGhaUEtBYXlOV1djRFFxbWtTTnFXVUUzWDJIVEZxRkMxZm1uRWpYMHJJ?oc=5)
+
+2026-11-09 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
+
+出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LTDB2RWNCcEE0SWxqQXFpUDBCN0RVUU9iQ2FjWjdMWFRoR1RwRWpQMGUzTUxneGhaUEtBYXlOV1djRFFxbWtTTnFXVUUzWDJIVEZxRkMxZm1uRWpYMHJJ?oc=5)
 
 ---
 
@@ -57,11 +89,11 @@ last_modified_at: 2026-11-10
 
 ---
 
-### [【闘病】「まさにどん底でした」 同じ年に『胃がん』と『乳がん』 2度の告知を受け(メディカルドック)](https://news.yahoo.co.jp/articles/740b2a6c95e614de05f8ff5037415af5f9c63676?source=rss)
+### [局所進行食道がんに対する根治的な化学放射線療法にデュルバルマブの上乗せ効果を検討するランダム化第II相試験：ARION PRODIGE 67【ESMO2026 胃・食道がん】](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoYjh1bjBEUWF1NlhCd05wb0JsV20xY1RQY0Z6S25TSXo1S3FLTWRpUF9DWHBJREkzZi1SRU13UzdPSWFwVzEtS0h1RXdnN0ZhMUE?oc=5)
 
-2026-11-07 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">胃がん</span> <span class="news-indication-tag">乳がん</span>
+2026-11-07 <span class="news-indication-tag">がん</span>
 
-出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/740b2a6c95e614de05f8ff5037415af5f9c63676?source=rss)
+出典: [m3.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoYjh1bjBEUWF1NlhCd05wb0JsV20xY1RQY0Z6S25TSXo1S3FLTWRpUF9DWHBJREkzZi1SRU13UzdPSWFwVzEtS0h1RXdnN0ZhMUE?oc=5)
 
 ---
 
@@ -73,19 +105,19 @@ last_modified_at: 2026-11-10
 
 ---
 
-### [乳がんステージ2B、再発後も職場の温かい配慮で仕事を続けながら大切にする当たり前の日常](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rd3VJYjVCaXVNeTVjazBwSmJoR1pMS2tzZVF4ZVAxR3ptSXdpeVBCU0cxZGo3R1gyZlZ6MjVPbm12bnM0Z191dlRfQTcyYm5aYnVJ?oc=5)
-
-2026-11-06 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
-
-出典: [がん情報サイト「オンコロ」](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rd3VJYjVCaXVNeTVjazBwSmJoR1pMS2tzZVF4ZVAxR3ptSXdpeVBCU0cxZGo3R1gyZlZ6MjVPbm12bnM0Z191dlRfQTcyYm5aYnVJ?oc=5)
-
----
-
 ### [【大腸がん研究の最前線】日本人患者の約半数で腸内細菌の関与を確認、若年発症でより顕著に ゲノム解析で新たな発症要因が明らかに【前後編の前編】](https://news.google.com/rss/articles/CBMid0FVX3lxTFAtazlaRjVCZ1pma1N3bzZ4dUVBMzgwMWtObkdlMWp5QnBPT25PT19Yd1UwMGVyNzRXZG9fNDBKcjFWODNQMnZVNmdvT2lfekNjSWtyNl9hY3pycmZlTE9zbkg4dnV5cU03SmhEUlVZcTNoT3pmNURN?oc=5)
 
 2026-11-05 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
 
 出典: [NEWSポストセブン](https://news.google.com/rss/articles/CBMid0FVX3lxTFAtazlaRjVCZ1pma1N3bzZ4dUVBMzgwMWtObkdlMWp5QnBPT25PT19Yd1UwMGVyNzRXZG9fNDBKcjFWODNQMnZVNmdvT2lfekNjSWtyNl9hY3pycmZlTE9zbkg4dnV5cU03SmhEUlVZcTNoT3pmNURN?oc=5)
+
+---
+
+### [（13）「がん」は夜に成長するのか？ 体内時計とがん細胞の意外な関係｜夜の医学～老化する人、しない人](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DNnpQTXlWTWtELTZ4dGhESmhLMW9md2t5ZW45RmpHNkFyM1Q3YWIxSHlVNkdSVnVoQjhOVElIN0htM0xDeUROdGVSczZIdUFTS2xyeXJ4VTJIRjMtQ0xabVlNZEkyZFVL?oc=5)
+
+2026-11-04 <span class="news-indication-tag">がん</span>
+
+出典: [日刊ゲンダイDIGITAL](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DNnpQTXlWTWtELTZ4dGhESmhLMW9md2t5ZW45RmpHNkFyM1Q3YWIxSHlVNkdSVnVoQjhOVElIN0htM0xDeUROdGVSczZIdUFTS2xyeXJ4VTJIRjMtQ0xabVlNZEkyZFVL?oc=5)
 
 ---
 

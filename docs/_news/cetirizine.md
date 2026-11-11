@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "ザイザルシロップ０．０５％（選） に関する健康ニュース。予測適応症 3 件。"
 permalink: /news/cetirizine/
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-11
 ---
 
 # ザイザルシロップ０．０５％（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="ザイザルシロップ０．０５％（選） に関するニュースは？">
-<strong>ザイザルシロップ０．０５％（選）</strong> には現在 <strong>2 件</strong>の関連ニュースがあり、予測適応症は 3 件です。
+<strong>ザイザルシロップ０．０５％（選）</strong> には現在 <strong>3 件</strong>の関連ニュースがあり、予測適応症は 3 件です。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,15 @@ last_modified_at: 2026-11-10
 <p><a href="{{ '/drugs/cetirizine/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（2 件）
+## 関連ニュース（3 件）
+
+### [「声がおかしい」の一言から始まった――喉頭がん経験者・内田 忠男さんと専門医が伝えたい早期受診の大切さ(Medical Note)](https://news.yahoo.co.jp/articles/cfa0d2fb0bfff33f108940be8cc0e199eb36499c?source=rss)
+
+2026-11-11 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">かぜ</span>
+
+出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/cfa0d2fb0bfff33f108940be8cc0e199eb36499c?source=rss)
+
+---
 
 ### [なかなか治らない鼻づまり、風邪ではなくアレルギーや副鼻腔炎の可能性も(Medical Note)](https://news.yahoo.co.jp/articles/f297b976a9f501c0569189985b3115c9551c4a09?source=rss)
 

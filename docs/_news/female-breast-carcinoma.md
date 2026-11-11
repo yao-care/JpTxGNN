@@ -3,9 +3,9 @@ layout: default
 title: "乳がん (female breast carcinoma) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "乳がん (female breast carcinoma) に関する健康ニュース。ニュース 2 件、関連医薬品 7 件。"
+description: "乳がん (female breast carcinoma) に関する健康ニュース。ニュース 1 件、関連医薬品 7 件。"
 permalink: /news/female-breast-carcinoma/
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-11
 ---
 
 # 乳がん (female breast carcinoma) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="乳がん (female breast carcinoma) に関するニュースは？">
-<strong>乳がん (female breast carcinoma)</strong> には現在 <strong>2 件</strong>の関連ニュースと 7 件の関連医薬品があります。
+<strong>乳がん (female breast carcinoma)</strong> には現在 <strong>1 件</strong>の関連ニュースと 7 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -36,21 +36,13 @@ last_modified_at: 2026-11-10
 </ul>
 </div>
 
-## 関連ニュース（2 件）
+## 関連ニュース（1 件）
 
-### [【闘病】「まさにどん底でした」 同じ年に『胃がん』と『乳がん』 2度の告知を受け(メディカルドック)](https://news.yahoo.co.jp/articles/740b2a6c95e614de05f8ff5037415af5f9c63676?source=rss)
+### [「問題なし」の診断から、わずか半年後にがんが判明。「まさか自分が」思いがけない病気発覚【がん実体験漫画3選】](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LTDB2RWNCcEE0SWxqQXFpUDBCN0RVUU9iQ2FjWjdMWFRoR1RwRWpQMGUzTUxneGhaUEtBYXlOV1djRFFxbWtTTnFXVUUzWDJIVEZxRkMxZm1uRWpYMHJJ?oc=5)
 
-2026-11-07
+2026-11-09
 
-出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/740b2a6c95e614de05f8ff5037415af5f9c63676?source=rss)
-
----
-
-### [乳がんステージ2B、再発後も職場の温かい配慮で仕事を続けながら大切にする当たり前の日常](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rd3VJYjVCaXVNeTVjazBwSmJoR1pMS2tzZVF4ZVAxR3ptSXdpeVBCU0cxZGo3R1gyZlZ6MjVPbm12bnM0Z191dlRfQTcyYm5aYnVJ?oc=5)
-
-2026-11-06
-
-出典: [がん情報サイト「オンコロ」](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rd3VJYjVCaXVNeTVjazBwSmJoR1pMS2tzZVF4ZVAxR3ptSXdpeVBCU0cxZGo3R1gyZlZ6MjVPbm12bnM0Z191dlRfQTcyYm5aYnVJ?oc=5)
+出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LTDB2RWNCcEE0SWxqQXFpUDBCN0RVUU9iQ2FjWjdMWFRoR1RwRWpQMGUzTUxneGhaUEtBYXlOV1djRFFxbWtTTnFXVUUzWDJIVEZxRkMxZm1uRWpYMHJJ?oc=5)
 
 ---
 
