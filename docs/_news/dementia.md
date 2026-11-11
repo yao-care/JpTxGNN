@@ -3,7 +3,7 @@ layout: default
 title: "認知症 (dementia) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "認知症 (dementia) に関する健康ニュース。ニュース 6 件、関連医薬品 2 件。"
+description: "認知症 (dementia) に関する健康ニュース。ニュース 5 件、関連医薬品 2 件。"
 permalink: /news/dementia/
 last_modified_at: 2026-11-11
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="認知症 (dementia) に関するニュースは？">
-<strong>認知症 (dementia)</strong> には現在 <strong>6 件</strong>の関連ニュースと 2 件の関連医薬品があります。
+<strong>認知症 (dementia)</strong> には現在 <strong>5 件</strong>の関連ニュースと 2 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -31,13 +31,13 @@ last_modified_at: 2026-11-11
 </ul>
 </div>
 
-## 関連ニュース（6 件）
+## 関連ニュース（5 件）
 
-### [65歳以上で歯が19本以下だと認知症リスクが高まる？歯科医師「歯ぐきから血が出たらSOS。教えてくれる患者さんには拍手を送りたい」(婦人公論.jp)](https://news.yahoo.co.jp/articles/32c04bfac72454f5ab89c0b2083faab7eff4fef6?source=rss)
+### [日常生活で「強い光」を浴びる量が認知症リスクに肥満よりも強く関連しているとの研究結果](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vWnRxVy1XZWlyWkZIWFNwUXFkSVFxSXk4c1pYaFVxbERldXgtSkxDV0JzN3Y0Nk5KYWNxVkg2N1N0Q1diNHZRNTRST3F6QmlkTXFUclNOMmdBMl9RdVhF?oc=5)
 
 2026-11-11
 
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/32c04bfac72454f5ab89c0b2083faab7eff4fef6?source=rss)
+出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vWnRxVy1XZWlyWkZIWFNwUXFkSVFxSXk4c1pYaFVxbERldXgtSkxDV0JzN3Y0Nk5KYWNxVkg2N1N0Q1diNHZRNTRST3F6QmlkTXFUclNOMmdBMl9RdVhF?oc=5)
 
 ---
 
@@ -46,14 +46,6 @@ last_modified_at: 2026-11-11
 2026-11-11
 
 出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/66d88af03a79a29434227785dbf2ec5755d1d4d0?source=rss)
-
----
-
-### [毎日42分の「明るい光」で認知症リスクが17%低い傾向に：8.7万人の追跡研究で判明](https://news.google.com/rss/articles/CBMijwFBVV95cUxNemFISms4Wi05d21tQi1GRGxzUDlUQ0tkM0Z5ZWEwX0VZVzRwTko1QklsRWhieGhhY1RoV3VWSXFWZWpVemJ2RDhWUHczT0JSRnV3Y25iczlnckRWWmpnQV8wX3REanZxazdQSzliSzdDWXhmanRhenFsUUwxbVNfZzlieEJhb1YzUXVUMmMxbw?oc=5)
-
-2026-11-09
-
-出典: [XenoSpectrum](https://news.google.com/rss/articles/CBMijwFBVV95cUxNemFISms4Wi05d21tQi1GRGxzUDlUQ0tkM0Z5ZWEwX0VZVzRwTko1QklsRWhieGhhY1RoV3VWSXFWZWpVemJ2RDhWUHczT0JSRnV3Y25iczlnckRWWmpnQV8wX3REanZxazdQSzliSzdDWXhmanRhenFsUUwxbVNfZzlieEJhb1YzUXVUMmMxbw?oc=5)
 
 ---
 

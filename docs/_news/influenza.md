@@ -3,7 +3,7 @@ layout: default
 title: "インフルエンザ (influenza) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 5 件、関連医薬品 1 件。"
+description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 3 件、関連医薬品 1 件。"
 permalink: /news/influenza/
 last_modified_at: 2026-11-11
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="インフルエンザ (influenza) に関するニュースは？">
-<strong>インフルエンザ (influenza)</strong> には現在 <strong>5 件</strong>の関連ニュースと 1 件の関連医薬品があります。
+<strong>インフルエンザ (influenza)</strong> には現在 <strong>3 件</strong>の関連ニュースと 1 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ last_modified_at: 2026-11-11
 </ul>
 </div>
 
-## 関連ニュース（5 件）
+## 関連ニュース（3 件）
+
+### [痛くないワクチンも 本格的な流行前にしたいインフルエンザ対策](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzOERjVTdmaVJoc21zWGR2ZUdhUk1KTEVIWFBzYVo0VkZkRjZTQXllalFuT1M2eGZaVUVidUVhemt5RC14S1d0RG50RmlRakhHWTVtNFNmcTJlMkVGVnVVUmJWdUxGSmI0?oc=5)
+
+2026-11-11
+
+出典: [毎日新聞](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzOERjVTdmaVJoc21zWGR2ZUdhUk1KTEVIWFBzYVo0VkZkRjZTQXllalFuT1M2eGZaVUVidUVhemt5RC14S1d0RG50RmlRakhHWTVtNFNmcTJlMkVGVnVVUmJWdUxGSmI0?oc=5)
+
+---
 
 ### [A型インフルエンザが増加、多くの高齢患者が重症化](https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ3J2bUVXc0FoSnBtZXg4ejVOeWJTYVh5dTFUemtEY3BTUkFkTEpIQV9SLVM5WEpYQXFPdEY1RUxKb1ZGbFRRZ2FYNlljMG83aUJsYzl6SWZvVGdibGd4UVByYlBQcFZiSWhlZVBUYy1UMk53TWNWamI1VWNiMkhGbjRuNVhrQUU4UEVZY3cwYlIwMVZDWklnVi03eTlXU25Ub2gw?oc=5)
 
@@ -45,30 +53,6 @@ last_modified_at: 2026-11-11
 2026-11-10
 
 出典: [au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE8yNmtYYzliWGdFbFJEQlo1dS1FdHRXOHdHMGdUTzVDV1VtaTQtNmdJUUNFWWdhRENya0tOVXpsWDh4OVJmQXVva0JkSC1yV3kyMWdGZFBwZTg0Nk92TjZpSDFWNHZoRTV1LXA5N3RR?oc=5)
-
----
-
-### [今季のインフルエンザは油断禁物 じわじわ型の流行と再感染リスク - Forbes JAPAN](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GU0s0RUIzbWdZTHhXVlRQSFFKYnFObmZEOEJSU29ZUDZvdjBNdjgzVE9BdEVxMW42TFZjWUZKZ0RPWGpyWlI4NFZQdUNORzVRTjltMmxzMGg2UQ?oc=5)
-
-2026-11-10
-
-出典: [Forbes JAPAN](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GU0s0RUIzbWdZTHhXVlRQSFFKYnFObmZEOEJSU29ZUDZvdjBNdjgzVE9BdEVxMW42TFZjWUZKZ0RPWGpyWlI4NFZQdUNORzVRTjltMmxzMGg2UQ?oc=5)
-
----
-
-### [インフルエンザ感染者数が8週ぶりに減少 丹南が最多、次いで福井市 福井県「ピークはこれから」感染対策呼びかけ](https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VdXFEWG1MS3gwRmtyNm1MNkpjQmd0NTJRanBnSnFMY2NjdmxjRndHeWs0bHZELThEZzBIeGJyNzRvT3hUbWN5RS1mVXA2dw?oc=5)
-
-2026-11-05
-
-出典: [FNNプライムオンライン](https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VdXFEWG1MS3gwRmtyNm1MNkpjQmd0NTJRanBnSnFMY2NjdmxjRndHeWs0bHZELThEZzBIeGJyNzRvT3hUbWN5RS1mVXA2dw?oc=5)
-
----
-
-### [インフルエンザ３件など 鳥取県内集団感染](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5wcXl2MkxFTVdabFU0RkllWEM3WUNXZFZ6a2ZyTVN4Y2JGbU5JOU1YUUlyT3ZYNmNOY2RHRnVCcDJkSWd0b0xsZXVfb0Z3bU1K?oc=5)
-
-2026-11-04
-
-出典: [日本海新聞](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5wcXl2MkxFTVdabFU0RkllWEM3WUNXZFZ6a2ZyTVN4Y2JGbU5JOU1YUUlyT3ZYNmNOY2RHRnVCcDJkSWd0b0xsZXVfb0Z3bU1K?oc=5)
 
 ---
 

@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "サインバルタカプセル３０ｍｇ（選） に関する健康ニュース。予測適応症 10 件。"
 permalink: /news/duloxetine/
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-11
 ---
 
 # サインバルタカプセル３０ｍｇ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="サインバルタカプセル３０ｍｇ（選） に関するニュースは？">
-<strong>サインバルタカプセル３０ｍｇ（選）</strong> には現在 <strong>2 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>サインバルタカプセル３０ｍｇ（選）</strong> には現在 <strong>1 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ last_modified_at: 2026-11-10
 <p><a href="{{ '/drugs/duloxetine/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（2 件）
+## 関連ニュース（1 件）
 
-### [補聴器使用で難聴者の全死亡リスク９％低下 心血管疾患死亡リスクも１５％低下](https://news.google.com/rss/articles/CBMibkFVX3lxTE1DcUkyNW9TalYtQ0FoVlpCb1RoNVE4NC1RM1MwdlhIUERPYWpuNmFraWd3VWx1Wld3U0V4SW42WHpUN0dwQVBmVGlrZXg3Si1rek5OMk5wTUN3X0p2YUFtSXVrMkU5S1NpSWdWUWl3?oc=5)
+### [補聴器使用で難聴者の全死亡リスク９％低下 心血管疾患死亡リスクも１５％低下](https://news.google.com/rss/articles/CBMijgFBVV95cUxNdHRFS0NveElha2cwcjl1a19NSGN6dDBRQzVDV0dDYzlPTmlpdUVacGtWaG5vcGNxWTFCU1RpYmdOV0kycXBVUUpMS0dZQWd1amYtUUNqZWIzMUhYQUxSdEpTUUxRLXlEWWR3MFVqdm1fRm84aWtPeFlZdUVWVmdBMU5DTzlkNXBsS2hucUVR?oc=5)
 
 2026-11-10 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾患</span>
 
-出典: [読売新聞](https://news.google.com/rss/articles/CBMibkFVX3lxTE1DcUkyNW9TalYtQ0FoVlpCb1RoNVE4NC1RM1MwdlhIUERPYWpuNmFraWd3VWx1Wld3U0V4SW42WHpUN0dwQVBmVGlrZXg3Si1rek5OMk5wTUN3X0p2YUFtSXVrMkU5S1NpSWdWUWl3?oc=5)
-
----
-
-### [帯状疱疹はワクチンで防ぐ 50歳から接種検討、後遺症にも対策](https://news.google.com/rss/articles/CBMibEFVX3lxTE1oS1U3RnVhUHVoTE1YMWRheThuVWZ0b0YwVDdzRHQtRVpud0x5Ym03WjhLejhORjdDWmxWNDFFX2YtMkQyeHdJLUxQZWRCeHl4YlNJdmJFMXl2N1kyTm9ubHpMZFcyNkVGTGtNdg?oc=5)
-
-2026-11-05 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">帯状疱疹</span>
-
-出典: [日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTE1oS1U3RnVhUHVoTE1YMWRheThuVWZ0b0YwVDdzRHQtRVpud0x5Ym03WjhLejhORjdDWmxWNDFFX2YtMkQyeHdJLUxQZWRCeHl4YlNJdmJFMXl2N1kyTm9ubHpMZFcyNkVGTGtNdg?oc=5)
+出典: [読売新聞](https://news.google.com/rss/articles/CBMijgFBVV95cUxNdHRFS0NveElha2cwcjl1a19NSGN6dDBRQzVDV0dDYzlPTmlpdUVacGtWaG5vcGNxWTFCU1RpYmdOV0kycXBVUUpMS0dZQWd1amYtUUNqZWIzMUhYQUxSdEpTUUxRLXlEWWR3MFVqdm1fRm84aWtPeFlZdUVWVmdBMU5DTzlkNXBsS2hucUVR?oc=5)
 
 ---
 

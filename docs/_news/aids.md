@@ -33,11 +33,11 @@ last_modified_at: 2026-11-11
 
 ## 関連ニュース（1 件）
 
-### [【11〜12月開催】12月1日「世界エイズデー」に合わせて全国から多彩な企画が集結！「TOKYO AIDS WEEKS 2026」イベントラインナップ発表！ - PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE4weUdwS1BJMW5nUGlUckxGMXNseDdlMUpEbWk3U3F1WHJKM3dCdlJucTdiSWZaMnNscWR3WkNvX1kzamRLeDhESlRDT3Q3Z2ctLW8zOXctSWF1QWFvb1c5bmVQSnZ3VGR0Qnc?oc=5)
+### [【11～12月開催】12月1日「世界エイズデー」に合わせて全国から多彩な企画が集結！「TOKYO AIDS WEEKS 2026」イベントラインナップ発表！](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpbmNYTFNScmc3TnNwZ2FQR0liNTRWelU4WWhjM3VYcUs2clZfV0JCS0dublVyTlVuU19TNnpBcEFUMmhTX21WeEdjZmhGcmpDRHc?oc=5)
 
 2026-11-11
 
-出典: [PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE4weUdwS1BJMW5nUGlUckxGMXNseDdlMUpEbWk3U3F1WHJKM3dCdlJucTdiSWZaMnNscWR3WkNvX1kzamRLeDhESlRDT3Q3Z2ctLW8zOXctSWF1QWFvb1c5bmVQSnZ3VGR0Qnc?oc=5)
+出典: [山陽新聞](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpbmNYTFNScmc3TnNwZ2FQR0liNTRWelU4WWhjM3VYcUs2clZfV0JCS0dublVyTlVuU19TNnpBcEFUMmhTX21WeEdjZmhGcmpDRHc?oc=5)
 
 ---
 

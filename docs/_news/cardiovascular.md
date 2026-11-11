@@ -3,9 +3,9 @@ layout: default
 title: "心血管 (cardiovascular) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "心血管 (cardiovascular) に関する健康ニュース。ニュース 2 件、関連医薬品 17 件。"
+description: "心血管 (cardiovascular) に関する健康ニュース。ニュース 1 件、関連医薬品 17 件。"
 permalink: /news/cardiovascular/
-last_modified_at: 2026-11-10
+last_modified_at: 2026-11-11
 ---
 
 # 心血管 (cardiovascular) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-10
 ---
 
 <p class="key-answer" data-question="心血管 (cardiovascular) に関するニュースは？">
-<strong>心血管 (cardiovascular)</strong> には現在 <strong>2 件</strong>の関連ニュースと 17 件の関連医薬品があります。
+<strong>心血管 (cardiovascular)</strong> には現在 <strong>1 件</strong>の関連ニュースと 17 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -46,21 +46,13 @@ last_modified_at: 2026-11-10
 </ul>
 </div>
 
-## 関連ニュース（2 件）
+## 関連ニュース（1 件）
 
-### [補聴器使用で難聴者の全死亡リスク９％低下 心血管疾患死亡リスクも１５％低下](https://news.google.com/rss/articles/CBMibkFVX3lxTE1DcUkyNW9TalYtQ0FoVlpCb1RoNVE4NC1RM1MwdlhIUERPYWpuNmFraWd3VWx1Wld3U0V4SW42WHpUN0dwQVBmVGlrZXg3Si1rek5OMk5wTUN3X0p2YUFtSXVrMkU5S1NpSWdWUWl3?oc=5)
+### [補聴器使用で難聴者の全死亡リスク９％低下 心血管疾患死亡リスクも１５％低下](https://news.google.com/rss/articles/CBMijgFBVV95cUxNdHRFS0NveElha2cwcjl1a19NSGN6dDBRQzVDV0dDYzlPTmlpdUVacGtWaG5vcGNxWTFCU1RpYmdOV0kycXBVUUpMS0dZQWd1amYtUUNqZWIzMUhYQUxSdEpTUUxRLXlEWWR3MFVqdm1fRm84aWtPeFlZdUVWVmdBMU5DTzlkNXBsS2hucUVR?oc=5)
 
 2026-11-10
 
-出典: [読売新聞](https://news.google.com/rss/articles/CBMibkFVX3lxTE1DcUkyNW9TalYtQ0FoVlpCb1RoNVE4NC1RM1MwdlhIUERPYWpuNmFraWd3VWx1Wld3U0V4SW42WHpUN0dwQVBmVGlrZXg3Si1rek5OMk5wTUN3X0p2YUFtSXVrMkU5S1NpSWdWUWl3?oc=5)
-
----
-
-### [帯状疱疹はワクチンで防ぐ 50歳から接種検討、後遺症にも対策](https://news.google.com/rss/articles/CBMibEFVX3lxTE1oS1U3RnVhUHVoTE1YMWRheThuVWZ0b0YwVDdzRHQtRVpud0x5Ym03WjhLejhORjdDWmxWNDFFX2YtMkQyeHdJLUxQZWRCeHl4YlNJdmJFMXl2N1kyTm9ubHpMZFcyNkVGTGtNdg?oc=5)
-
-2026-11-05
-
-出典: [日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTE1oS1U3RnVhUHVoTE1YMWRheThuVWZ0b0YwVDdzRHQtRVpud0x5Ym03WjhLejhORjdDWmxWNDFFX2YtMkQyeHdJLUxQZWRCeHl4YlNJdmJFMXl2N1kyTm9ubHpMZFcyNkVGTGtNdg?oc=5)
+出典: [読売新聞](https://news.google.com/rss/articles/CBMijgFBVV95cUxNdHRFS0NveElha2cwcjl1a19NSGN6dDBRQzVDV0dDYzlPTmlpdUVacGtWaG5vcGNxWTFCU1RpYmdOV0kycXBVUUpMS0dZQWd1amYtUUNqZWIzMUhYQUxSdEpTUUxRLXlEWWR3MFVqdm1fRm84aWtPeFlZdUVWVmdBMU5DTzlkNXBsS2hucUVR?oc=5)
 
 ---
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="メトロニダゾールゲル０．７５％「マルイシ」 に関するニュースは？">
-<strong>メトロニダゾールゲル０．７５％「マルイシ」</strong> には現在 <strong>12 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>メトロニダゾールゲル０．７５％「マルイシ」</strong> には現在 <strong>11 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,29 @@ last_modified_at: 2026-11-11
 <p><a href="{{ '/drugs/metronidazole/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（12 件）
+## 関連ニュース（11 件）
 
-### [世界初！ ウイルスを体内に入れて食道がんを治療する最新技術とは？(THE21オンライン)](https://news.yahoo.co.jp/articles/ee66170633144f0f5fb600377bcf4ab4fe6d70f7?source=rss)
+### [悪性リンパ腫と闘う4児の母。西洋医学への疑問と、葛藤の末に掴んだ「自分なりの正解」(ヨガジャーナルオンライン)](https://news.yahoo.co.jp/articles/afb7b717015ee18ee2be1441f90a55bf187726b2?source=rss)
+
+2026-11-11 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">血液がん</span> <span class="news-indication-tag">リンパ腫</span> <span class="news-indication-tag">悪性リンパ腫</span>
+
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/afb7b717015ee18ee2be1441f90a55bf187726b2?source=rss)
+
+---
+
+### [きっかけは何？ 他人にうつるの？ つらい後遺症は？ 《発症が急増する50代》が知っておきたい帯状疱疹の素朴な疑問10](https://news.google.com/rss/articles/CBMihwFBVV95cUxNcG1xU0pUSk1QVmo5RHdFYW1KSzRvVm56OGZWazRmT1JXcFlfbE1jWE5vV1A5XzVaVjhTZmFCUjlPc2EtR0tnSEdzT3Mwdjg4M29ZRmJSdVpRQnZxVGowbmp0blAzMC14UHhzNXJxMks1R0hLdHcyOUVWcWJBbFFlakVpb1FyR00?oc=5)
+
+2026-11-11 <span class="news-indication-tag">帯状疱疹</span>
+
+出典: [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxNcG1xU0pUSk1QVmo5RHdFYW1KSzRvVm56OGZWazRmT1JXcFlfbE1jWE5vV1A5XzVaVjhTZmFCUjlPc2EtR0tnSEdzT3Mwdjg4M29ZRmJSdVpRQnZxVGowbmp0blAzMC14UHhzNXJxMks1R0hLdHcyOUVWcWJBbFFlakVpb1FyR00?oc=5)
+
+---
+
+### [ヴィンロン省の1,000人の女性が3種類のがんの無料スクリーニングを受ける](https://news.google.com/rss/articles/CBMipAFBVV95cUxQblo1ZHFoUUtPNkwwZHFVblFmUUNwVnlORjkxMGhKZEQ2X25pUVppQUV1SWJZclNnX2RKb0g3UE1iazAtUENqc2JhUFZFaklJRmJjWUdEZmRlS0cxOWlZeG9kT3ZVcEw4Sl8wOUF3Z2NCSmJ5STBHMHVfeksyc09RbEozZ3pUaGRhZFQ1WDB2cFc5c1M1N1cxMFZpYThmRWlGakNXcg?oc=5)
 
 2026-11-11 <span class="news-indication-tag">がん</span>
 
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/ee66170633144f0f5fb600377bcf4ab4fe6d70f7?source=rss)
+出典: [Laodong.vn](https://news.google.com/rss/articles/CBMipAFBVV95cUxQblo1ZHFoUUtPNkwwZHFVblFmUUNwVnlORjkxMGhKZEQ2X25pUVppQUV1SWJZclNnX2RKb0g3UE1iazAtUENqc2JhUFZFaklJRmJjWUdEZmRlS0cxOWlZeG9kT3ZVcEw4Sl8wOUF3Z2NCSmJ5STBHMHVfeksyc09RbEozZ3pUaGRhZFQ1WDB2cFc5c1M1N1cxMFZpYThmRWlGakNXcg?oc=5)
 
 ---
 
@@ -60,35 +76,11 @@ last_modified_at: 2026-11-11
 
 ---
 
-### [胃・食道接合部・食道腺がんに対するレゴラフェニブ・ニボルマブ・化学療法の併用療法の効果と、治療への耐性が生じる機序を解明 - PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE8yR3NxXzFuN3hQMVhSTVFEbGNjMXJWblNNUG9CVmN3em5vaUdqVG1hbmthS0hfc25aX3dJMDAxSTlnZHBlSUtFVTItR1d2QzVOV2NVZXhzZFh2WHBfN0RwWEUtczg0eTdtMmc?oc=5)
-
-2026-11-11 <span class="news-indication-tag">がん</span>
-
-出典: [PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE8yR3NxXzFuN3hQMVhSTVFEbGNjMXJWblNNUG9CVmN3em5vaUdqVG1hbmthS0hfc25aX3dJMDAxSTlnZHBlSUtFVTItR1d2QzVOV2NVZXhzZFh2WHBfN0RwWEUtczg0eTdtMmc?oc=5)
-
----
-
 ### [ワクチンでがん予防～子宮頸がん、ＨＰＶ関連がん（自治医科大付属さいたま医療センター　今野良名誉教授）～](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xLU1EMmR2MDZ2NlQwYlpvU1VsUHl4b3RiellyTTNGVktwZlJFWHNTTGxxM21ScEU3WUM2TnZqckN2a0xlR3h2VDc1NTTSAVJBVV95cUxOaDFfX19NMDZzSWNlcnZiOXRqQXlaTlFhZDQ1RmFERXEyX3R0LWpuelNQbjBJbUQ5QlB3VS01eG9FdkZ3ZDBJTmRoNmJxai1WUXN3?oc=5)
 
 2026-11-10 <span class="news-indication-tag">がん</span>
 
 出典: [時事メディカル](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xLU1EMmR2MDZ2NlQwYlpvU1VsUHl4b3RiellyTTNGVktwZlJFWHNTTGxxM21ScEU3WUM2TnZqckN2a0xlR3h2VDc1NTTSAVJBVV95cUxOaDFfX19NMDZzSWNlcnZiOXRqQXlaTlFhZDQ1RmFERXEyX3R0LWpuelNQbjBJbUQ5QlB3VS01eG9FdkZ3ZDBJTmRoNmJxai1WUXN3?oc=5)
-
----
-
-### [「問題なし」の診断から、わずか半年後にがんが判明。「まさか自分が」思いがけない病気発覚【がん実体験漫画3選】](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LTDB2RWNCcEE0SWxqQXFpUDBCN0RVUU9iQ2FjWjdMWFRoR1RwRWpQMGUzTUxneGhaUEtBYXlOV1djRFFxbWtTTnFXVUUzWDJIVEZxRkMxZm1uRWpYMHJJ?oc=5)
-
-2026-11-09 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
-
-出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LTDB2RWNCcEE0SWxqQXFpUDBCN0RVUU9iQ2FjWjdMWFRoR1RwRWpQMGUzTUxneGhaUEtBYXlOV1djRFFxbWtTTnFXVUUzWDJIVEZxRkMxZm1uRWpYMHJJ?oc=5)
-
----
-
-### [【闘病】“太っただけ”と思っていたおなかの張り…正体は14cmの腫瘍『悪性リンパ腫』(メディカルドック)](https://news.yahoo.co.jp/articles/e67f63331455a378e6e49fd62d347db8d9016dd8?source=rss)
-
-2026-11-08 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">腫瘍</span> <span class="news-indication-tag">リンパ腫</span> <span class="news-indication-tag">悪性リンパ腫</span>
-
-出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/e67f63331455a378e6e49fd62d347db8d9016dd8?source=rss)
 
 ---
 
@@ -116,11 +108,11 @@ last_modified_at: 2026-11-11
 
 ---
 
-### [帯状疱疹はワクチンで防ぐ 50歳から接種検討、後遺症にも対策](https://news.google.com/rss/articles/CBMibEFVX3lxTE1oS1U3RnVhUHVoTE1YMWRheThuVWZ0b0YwVDdzRHQtRVpud0x5Ym03WjhLejhORjdDWmxWNDFFX2YtMkQyeHdJLUxQZWRCeHl4YlNJdmJFMXl2N1kyTm9ubHpMZFcyNkVGTGtNdg?oc=5)
+### [乳がんステージ2B、再発後も職場の温かい配慮で仕事を続けながら大切にする当たり前の日常](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rd3VJYjVCaXVNeTVjazBwSmJoR1pMS2tzZVF4ZVAxR3ptSXdpeVBCU0cxZGo3R1gyZlZ6MjVPbm12bnM0Z191dlRfQTcyYm5aYnVJ?oc=5)
 
-2026-11-05 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">帯状疱疹</span>
+2026-11-06 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
 
-出典: [日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTE1oS1U3RnVhUHVoTE1YMWRheThuVWZ0b0YwVDdzRHQtRVpud0x5Ym03WjhLejhORjdDWmxWNDFFX2YtMkQyeHdJLUxQZWRCeHl4YlNJdmJFMXl2N1kyTm9ubHpMZFcyNkVGTGtNdg?oc=5)
+出典: [がん情報サイト「オンコロ」](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rd3VJYjVCaXVNeTVjazBwSmJoR1pMS2tzZVF4ZVAxR3ptSXdpeVBCU0cxZGo3R1gyZlZ6MjVPbm12bnM0Z191dlRfQTcyYm5aYnVJ?oc=5)
 
 ---
 

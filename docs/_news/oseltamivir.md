@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="タミフルドライシロップ３％（選） に関するニュースは？">
-<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>6 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>4 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ last_modified_at: 2026-11-11
 <p><a href="{{ '/drugs/oseltamivir/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（6 件）
+## 関連ニュース（4 件）
+
+### [痛くないワクチンも 本格的な流行前にしたいインフルエンザ対策](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzOERjVTdmaVJoc21zWGR2ZUdhUk1KTEVIWFBzYVo0VkZkRjZTQXllalFuT1M2eGZaVUVidUVhemt5RC14S1d0RG50RmlRakhHWTVtNFNmcTJlMkVGVnVVUmJWdUxGSmI0?oc=5)
+
+2026-11-11 <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [毎日新聞](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzOERjVTdmaVJoc21zWGR2ZUdhUk1KTEVIWFBzYVo0VkZkRjZTQXllalFuT1M2eGZaVUVidUVhemt5RC14S1d0RG50RmlRakhHWTVtNFNmcTJlMkVGVnVVUmJWdUxGSmI0?oc=5)
+
+---
 
 ### [A型インフルエンザが増加、多くの高齢患者が重症化](https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ3J2bUVXc0FoSnBtZXg4ejVOeWJTYVh5dTFUemtEY3BTUkFkTEpIQV9SLVM5WEpYQXFPdEY1RUxKb1ZGbFRRZ2FYNlljMG83aUJsYzl6SWZvVGdibGd4UVByYlBQcFZiSWhlZVBUYy1UMk53TWNWamI1VWNiMkhGbjRuNVhrQUU4UEVZY3cwYlIwMVZDWklnVi03eTlXU25Ub2gw?oc=5)
 
@@ -48,35 +56,11 @@ last_modified_at: 2026-11-11
 
 ---
 
-### [今季のインフルエンザは油断禁物 じわじわ型の流行と再感染リスク - Forbes JAPAN](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GU0s0RUIzbWdZTHhXVlRQSFFKYnFObmZEOEJSU29ZUDZvdjBNdjgzVE9BdEVxMW42TFZjWUZKZ0RPWGpyWlI4NFZQdUNORzVRTjltMmxzMGg2UQ?oc=5)
-
-2026-11-10 <span class="news-indication-tag">インフルエンザ</span>
-
-出典: [Forbes JAPAN](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GU0s0RUIzbWdZTHhXVlRQSFFKYnFObmZEOEJSU29ZUDZvdjBNdjgzVE9BdEVxMW42TFZjWUZKZ0RPWGpyWlI4NFZQdUNORzVRTjltMmxzMGg2UQ?oc=5)
-
----
-
 ### [進歩する間質性肺炎診療と新たな“抗線維化薬”の登場――第3回日本呼吸器学会連携ウェビナー開催(Medical Note)](https://news.yahoo.co.jp/articles/1cd02a1fd3f71da92352488c7603e7beddebf3d8?source=rss)
 
 2026-11-09 <span class="news-indication-tag">肺炎</span>
 
 出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/1cd02a1fd3f71da92352488c7603e7beddebf3d8?source=rss)
-
----
-
-### [インフルエンザ感染者数が8週ぶりに減少 丹南が最多、次いで福井市 福井県「ピークはこれから」感染対策呼びかけ](https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VdXFEWG1MS3gwRmtyNm1MNkpjQmd0NTJRanBnSnFMY2NjdmxjRndHeWs0bHZELThEZzBIeGJyNzRvT3hUbWN5RS1mVXA2dw?oc=5)
-
-2026-11-05 <span class="news-indication-tag">インフルエンザ</span>
-
-出典: [FNNプライムオンライン](https://news.google.com/rss/articles/CBMiTkFVX3lxTE5VdXFEWG1MS3gwRmtyNm1MNkpjQmd0NTJRanBnSnFMY2NjdmxjRndHeWs0bHZELThEZzBIeGJyNzRvT3hUbWN5RS1mVXA2dw?oc=5)
-
----
-
-### [インフルエンザ３件など 鳥取県内集団感染](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5wcXl2MkxFTVdabFU0RkllWEM3WUNXZFZ6a2ZyTVN4Y2JGbU5JOU1YUUlyT3ZYNmNOY2RHRnVCcDJkSWd0b0xsZXVfb0Z3bU1K?oc=5)
-
-2026-11-04 <span class="news-indication-tag">インフルエンザ</span>
-
-出典: [日本海新聞](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5wcXl2MkxFTVdabFU0RkllWEM3WUNXZFZ6a2ZyTVN4Y2JGbU5JOU1YUUlyT3ZYNmNOY2RHRnVCcDJkSWd0b0xsZXVfb0Z3bU1K?oc=5)
 
 ---
 
