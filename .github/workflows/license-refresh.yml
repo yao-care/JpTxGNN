@@ -6,6 +6,9 @@ name: License refresh
 on:
   schedule:
     - cron: '2 5 * * 1'   # 每週一 UTC 05:02（台北 13:02），錯開 news-monitor 的整點
+  push:   # 2026-11-12：雲端 session 不能直接觸發 workflow／建 Release，改用 push 請求檔觸發（照常跑完整排程與停損）
+    branches: [main]
+    paths: ['.github/release-request']
   workflow_dispatch:
     inputs:
       dry_run:
