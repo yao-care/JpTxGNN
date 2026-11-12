@@ -211,6 +211,19 @@ def main(argv):
     raw_path.parent.mkdir(parents=True, exist_ok=True)
     raw_path.write_text(json.dumps(new, ensure_ascii=False, indent=2), encoding="utf-8")
 
+    # 2c. 證據包 local_regulatory 用本站 _local_regulatory 從（已更新的）bundle 重算（2026-11-12 用戶決定；不呼叫模型）。
+    #     證據包是公開 Release 的一部分；10-15 產生的證據包把有效許可算成註銷，這裡每週跟 bundle 對齊。
+    #     重算有變的證據包記在 pack_changes，workflow 依它（加上 license_changes）決定要不要發新 Release。
+    rp = run([PY, ".claude/refresh_pack_regulatory_20261112.py", "--json", site], check=False)
+    if rp.returncode != 0:
+        finish(4, f"證據包重算失敗：{(rp.stdout + rp.stderr)[-300:]}")
+    try:
+        pk = json.loads(rp.stdout.strip().splitlines()[-1])
+    except (ValueError, IndexError):
+        pk = {"stats": {}, "changed": []}
+    S["pack_changes"] = pk.get("changed", [])[:2000]
+    S["steps"].append(f"證據包 local_regulatory 重算：{len(pk.get('changed', []))} 個有變（{json.dumps(pk.get('stats', {}), ensure_ascii=False)[:200]}）")
+
     # 3. 只改許可證欄位（pm 2026-10-30 第 2 點）：概覽表本站狀態列、既有張數列、許可證表狀態格。
     #    不跑事實層、fix_residual、衍生檔重產——H1、原適應症、description、預測內容一律不動。
     #    證據包沒變也照跑：頁面若落後於事實（例如上次停在一半）會在這裡對齊。
