@@ -12,7 +12,8 @@
   P5 KG 不是預測／分數來源：逐句判斷（句界＝句號等後接空白或換行，數字小數點不算）；
      k_findings_patterns.tsv 各語言句型、或同句同時有 KG 詞（含縮寫 KG）與分數／預測／排名詞、或 KG_AS_PRED；同句命中 ok_exempt 不算
   P6 分數不寫成百分比（%、％、٪，含阿拉伯數字），表格與本文都查；分數同一行不得出現信心類字眼
-  P7 FHIR ClinicalUseDefinition 與 search-index.json 的預測＝kept（病名正規化後比對）、分數 ≥0.99；
+  P7 FHIR ClinicalUseDefinition 與 search-index.json 的預測＝kept 扣掉重審撤回的預測（病名正規化後比對；撤回名單＝本站
+     drug_reviews.json verdict=withdraw，2026-11-12 起，各站查核機制）、分數 ≥0.99；
      找不到 MedicationKnowledge 要報錯；FHIR 不得寫「TxGNN Knowledge Graph」
   P3 另含：因門檻／刷新移除（非已知用途）的預測，正文仍當預測或給分數（英文、當地名、頁內縮寫；pm C6）；
      H1、description 的主預測必須是 kept[0]
@@ -2116,6 +2117,28 @@ def review_withdrawn(site):
     return _WD[site]
 
 
+_PUBWD = {}
+
+
+def published_withdrawn(site):
+    """{頁面檔名: {正規化病名}}：本站 drug_reviews.json 裡重審撤回（verdict=withdraw）、不對外發布的預測
+    （known_use_exclusion[].predicted 與 withdrawn_predictions；紀錄標 resolved_by_regeneration／withdrawn 的不算）。
+    規則同各站 src/<套件>/regulatory/withdrawn.py：頁面原文保留，但 FHIR 與 search-index 不收（2026-11-12，P7 用）"""
+    if site not in _PUBWD:
+        p = BASE / site / "docs/_data/drug_reviews.json"
+        out = {}
+        recs = (json.loads(p.read_text(encoding="utf-8")).get("records") or []) if p.exists() else []
+        for r in recs:
+            if r.get("action") != "rereview_result" or r.get("verdict") != "withdraw" \
+                    or r.get("status") in ("resolved_by_regeneration", "withdrawn"):
+                continue
+            stem = (r.get("file") or "").removesuffix(".md")
+            names = [e.get("predicted") for e in r.get("known_use_exclusion") or []] + list(r.get("withdrawn_predictions") or [])
+            out.setdefault(stem, set()).update(norm_name(n) for n in names if n)
+        _PUBWD[site] = out
+    return _PUBWD[site]
+
+
 def check_page(site, f, cls, want_noindex):
     errs = []
     E = lambda code, detail="": errs.append((code, detail))
@@ -2336,7 +2359,10 @@ def check_page(site, f, cls, want_noindex):
     keys = {norm_name(f.stem), norm_name(f.stem.replace("_", "-")), norm_name(f.stem.replace("-", "_")),
             norm_name(d.get("drugbank_id")), norm_name(d.get("inn")), norm_name(d.get("name"))} - {""}
     ids = [i for i, names in mk.items() if names & keys]
-    want = sorted(keptn)
+    # 重審撤回的預測頁面上保留、但不對外發布（各站查核機制；2026-11-12）：FHIR／search-index 應＝kept 扣掉撤回的
+    pub_wd = published_withdrawn(site).get(f.stem, set())
+    want = sorted(keptn - pub_wd)
+    n_want = len(want)
     # 站上 force_noindex.json 列的頁（用戶核准下架；Us 2026-11-06 PEG 3500）衍生檔依決定拿掉了本藥：不報「找不到」，有的話仍檢查內容
     _ffp = BASE / site / "docs/_data/force_noindex.json"
     forced7 = _ffp.exists() and f.stem in json.loads(_ffp.read_text(encoding="utf-8")).get("pages", {})
@@ -2346,7 +2372,7 @@ def check_page(site, f, cls, want_noindex):
     for i in ids:
         rows7 = cud.get(i, [])
         if sorted(x[0] for x in rows7) != want:
-            E("P7", f"FHIR {len(rows7)} 筆≠kept {len(kept)}")
+            E("P7", f"FHIR {len(rows7)} 筆≠kept {n_want}" + (f"（kept {len(kept)} 扣撤回 {len(kept) - n_want}）" if pub_wd else ""))
         if any(sc is not None and sc < 0.99 for _, sc, _ in rows7):
             E("P7", "FHIR 有 <0.99 分數")
         if any("TxGNN Knowledge Graph" in raw for _, _, raw in rows7):
@@ -2356,7 +2382,7 @@ def check_page(site, f, cls, want_noindex):
     if x is not None:
         inds = x.get("indications") or []
         if sorted(index_english(site, i.get("name", "")) for i in inds) != want:
-            E("P7", f"search-index 病名≠kept（{len(inds)}／{len(kept)}）")
+            E("P7", f"search-index 病名≠kept（{len(inds)}／{n_want}）")
         if any(float(i.get("score") or 0) < 99 for i in inds):
             E("P7", "search-index 有 <0.99 分數")
     elif kept and not forced7:
