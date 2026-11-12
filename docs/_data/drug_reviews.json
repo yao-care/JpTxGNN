@@ -1532,6 +1532,31 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：34c5102b（2026-11-06）"
   },
   {
+   "id": "jp-row-20261112-ethosuximide-1",
+   "drug": "ethosuximide",
+   "file": "ethosuximide.md",
+   "action": "correct",
+   "claim": "| 620006918（失効） | ザロンチンシロップ５％ | シロップ | 記載なし |",
+   "replacement": "| 620006918 | ザロンチンシロップ５％ | シロップ | 記載なし |",
+   "summary": "表：620006918 は「失効」ではなく有効",
+   "note": "訂正：医薬品マスター（薬価基準収載品目）では 620006918 は有効です（2026-11-05 のデータ）。表の状態の記載だけを直しました。",
+   "finding": "表格把 620006918 寫成「失効」；證據包 pmda.records 原始狀態與事實層都是「有効」（data-20261105-123838）。只刪狀態註記",
+   "sources": [
+    {
+     "title": "医薬品マスター ダウンロードページ",
+     "url": "https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html",
+     "accessed": "2026-11-05"
+    },
+    {
+     "title": "医薬品医療機器総合機構（PMDA）",
+     "url": "https://www.pmda.go.jp/",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
+  },
+  {
    "id": "jp-lic-20261106-etizolam-1",
    "drug": "etizolam",
    "file": "etizolam.md",
@@ -1955,6 +1980,31 @@
    "checked": "2026-11-06",
    "summary": "削除：「日本での承認取消の経緯の確認と、剤形・投与経路の適合性評価」",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：34c5102b（2026-11-06）"
+  },
+  {
+   "id": "jp-row-20261112-istradefylline-1",
+   "drug": "istradefylline",
+   "file": "istradefylline.md",
+   "action": "correct",
+   "claim": "| 622245801（取消済み） | ノウリアスト錠２０ｍｇ | 錠２０ｍｇ（経口） | 記載なし |",
+   "replacement": "| 622245801 | ノウリアスト錠２０ｍｇ | 錠２０ｍｇ（経口） | 記載なし |",
+   "summary": "表：622245801 は「取消済み」ではなく有効",
+   "note": "訂正：医薬品マスター（薬価基準収載品目）では 622245801 は有効です（2026-11-05 のデータ）。表の状態の記載だけを直しました。",
+   "finding": "表格把 622245801 寫成「取消済み」；證據包 pmda.records 原始狀態與事實層都是「有効」（data-20261105-123838）。只刪狀態註記",
+   "sources": [
+    {
+     "title": "医薬品マスター ダウンロードページ",
+     "url": "https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html",
+     "accessed": "2026-11-05"
+    },
+    {
+     "title": "医薬品医療機器総合機構（PMDA）",
+     "url": "https://www.pmda.go.jp/",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 表格列狀態對事實層（母目錄 check_drug_page.py --row-status）"
   },
   {
    "id": "jp-lic-20261106-itopride-1",

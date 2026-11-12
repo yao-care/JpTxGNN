@@ -63,7 +63,13 @@ TxGNN モデルは **ラスムッセン亜急性脳炎 (Rasmussen subacute encep
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
-| 622245801（取消済み） | ノウリアスト錠２０ｍｇ | 錠２０ｍｇ（経口） | 記載なし |
+| 622245801 | ノウリアスト錠２０ｍｇ | 錠２０ｍｇ（経口） | 記載なし |
+
+<!-- review:begin jp-row-20261112-istradefylline-1 -->
+
+> **確認による訂正（2026-11-12）**：元の記載は「622245801（取消済み）／ノウリアスト錠２０ｍｇ／錠２０ｍｇ（経口）／記載なし」でした。訂正：医薬品マスター（薬価基準収載品目）では 622245801 は有効です（2026-11-05 のデータ）。表の状態の記載だけを直しました。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-row-20261112-istradefylline-1 -->
 
 ## 安全性に関する考慮事項
 
@@ -111,6 +117,7 @@ TxGNN モデルは **ラスムッセン亜急性脳炎 (Rasmussen subacute encep
 |------|------|------|------|
 | 2026-11-06 | 削除：「作用機序データと添付文書の警告・禁忌も未確認で、日本の承認も取消済みのため、現段階で先に進める根拠はありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-06 | 削除：「日本での承認取消の経緯の確認と、剤形・投与経路の適合性評価」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-12 | 表：622245801 は「取消済み」ではなく有効 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 
 <!-- review:end log -->
 
