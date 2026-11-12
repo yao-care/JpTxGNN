@@ -39,7 +39,7 @@
 D1 一頁只能有一份報告（2026-11-03 用戶決定）：報告標題＝H2 後一行是「{: .text-alpha }」；兩個以上就錯
    （過去產生時殘留的第二份舊報告、或模型自己「更正標題」留下的第二個標題；修法見 drop_duplicate_reports_20261103.py）
 N1 noindex（--noindex 時才查）：no_pred_noindex 的頁、站上 docs/_data/force_noindex.json 列的頁要有 noindex: true，其他頁不得有
-用法（母目錄）：python3 .claude/check_drug_page.py [--selftest] [--noindex] [--pages site:page,...] [站 ...]
+用法（母目錄）：python3 .claude/check_drug_page.py [--selftest] [--row-status] [--noindex] [--pages site:page,...] [站 ...]
 輸出 .claude/audit_20261016/check/results.tsv（site, page, code, detail）；有錯 exit 1。
 """
 import sys as _sys, pathlib as _pl; _sys.path.insert(0, str(_pl.Path(__file__).resolve().parent)); import site_registry as _site_registry  # noqa: E402  # 30 站名單（不含 CnTxGNN）
@@ -309,7 +309,7 @@ CANCELLED = {"en": "Not marketed (licences cancelled: {n} of {n})",
 "ja": "販売なし（承認 {n} 件すべて取消・整理済み）",
 "ko": "미시판 (취소된 허가 {n}건 / 전체 {n}건)",
 "ms": "Tidak dipasarkan (pendaftaran dibatalkan: {n} daripada {n})",
-"nl": "Niet in de handel (ingetrokken vergunningen: {n} van {n})",
+"nl": "Niet in de handel (niet geregistreerd: {n} van {n})",  # CBG 現行清單沒有的號碼，原文寫「Niet geregistreerd」（2026-11-12）
 "no": "Ikke markedsført (avregistrerte godkjenninger: {n} av {n})",
 "ar": "غير مسوق (أُلغيت جميع التراخيص، وعددها {n})",
 "sv": "Inte marknadsförd (avregistrerade godkännanden: {n} av {n})",
@@ -2514,11 +2514,9 @@ def row_status_word(cells):
     return "valid" if _ROW_POS.search(txt) else None
 
 
-def row_status_conflicts(site, rows, lic):
-    """[(代碼, 說明)]：號碼格含本站許可證號（可夾別的字）、列上寫的狀態跟事實相反"""
-    rx = TABLE_ROW_STATUS.get(site)
+def _row_status_us(rows, lic, rx):
     out = []
-    for cells in rows if rx else []:
+    for cells in rows:
         m = rx.search(cells[0]) if cells else None
         if not m:
             continue
@@ -2528,6 +2526,134 @@ def row_status_conflicts(site, rows, lic):
             out.append(("M1", f"有效許可證 {cells[0]} 寫成註銷（列上的狀態字）"))
         elif st == "cancelled" and said == "valid":
             out.append(("M1", f"已停產／註銷的許可證 {cells[0]} 寫成有效（列上的狀態字）"))
+    return out
+
+
+# 表格列狀態（2026-11-12 起 29 站登記，用戶決定「各站補 gate 檢查＋用紀錄批次更正」）：
+# 號碼格（第一欄）含本藥快照 facts.licenses 的號碼，且列上某一段文字「整段就是」狀態字（整格、括號內、或 ; , / – 分開的一段；
+# 可帶「AMM」「status:」「autorizzazione」之類的前綴），跟事實（valid／cancelled）相反就擋。只比 valid 與 cancelled；
+# 事實是 not_marketed（核准未上市）、unknown（待確認）的列不比。「未記載」「Not recorded」「No registrada」這類講資料沒有的寫法不是狀態字，不算。
+# 字樣照各站頁面實際寫法與主管機關原文（2026-11-12 摸底）；不確定的字不收。
+_PFX = r"(?:(?:status|estado|estatus|statut|stato|situação|zustand|tila|tilstand|الحالة|สถานะ|상태|状態|狀態)\s*[:：]?\s*)?"
+_LIC = (r"(?:(?:licen[cs]e|registration|authori[sz]ation|marketing authori[sz]ation|amm|aic|autorizzazione|registro|registo|"
+        r"autorización|autorisation|zulassung|myyntilupa|lupa|markedsføringstilladelse|markedsføringstillatelse|godkännande|"
+        r"vergunning|registratie|pendaftaran|الترخيص|ترخيص)\s+)?")
+ROW_WORDS = {
+    "en": (r"valid|active|current|authori[sz]ed|registered|marketed",
+           r"cancell?ed(?:\s+(?:post|pre)[- ]?market)?|withdrawn|revoked|lapsed|expired|suspended|discontinued|deregistered|inactive|not current"),
+    "en-us": (r"valid|active|current|authori[sz]ed|registered|marketed",
+              r"cancell?ed(?:\s+(?:post|pre)[- ]?market)?|withdrawn|revoked|lapsed|expired|suspended|discontinued|deregistered|inactive|not current"),
+    "es": (r"vigente|activ[oa]|válid[oa]|autorizad[oa]", r"cancelad[oa]|revocad[oa]|anulad[oa]|suspendid[oa]|vencid[oa]|caducad[oa]|retirad[oa]|no vigente"),
+    "pt": (r"ativ[oa]|válid[oa]|vigente", r"cancelad[oa]|caducad[oa]|vencid[oa]|suspens[oa]|inativ[oa]|cancelamento"),
+    "de": (r"gültig|zugelassen|aktiv", r"erloschen|widerrufen|zurückgezogen|abgelaufen|ungültig|nicht (?:mehr )?zugelassen|suspendiert|ruhend"),
+    "fi": (r"voimassa(?:oleva)?|myönnetty|hyväksytty", r"peruutettu|peruttu|mitätöity|lakannut|lakkautettu|vanhentunut|rauennut|kumottu|keskeytetty|ei voimassa"),
+    "fr": (r"active|valide|en vigueur|autorisée", r"annulée|abrogée|retirée|suspendue|caduque|archivée|non valide|abrogé|annulé"),
+    "it": (r"valida|autorizzat[ao]|attiva", r"revocat[ao]|sospes[ao]|ritirat[ao]|decadut[ao]|scadut[ao]|annullat[ao]|non valida"),
+    "da": (r"gyldig|godkendt|aktiv", r"afregistreret|tilbagekaldt|udløbet|ophørt|suspenderet|ugyldig"),
+    "no": (r"gyldig|godkjent|aktiv", r"opphørt|tilbakekalt|trukket tilbake|utløpt|suspendert|avregistrert|bortfalt|ugyldig"),
+    "sv": (r"godkänd|giltig|giltigt|aktiv", r"indragen|indraget|avregistrerad|återkallad|återkallat|upphörd|upphört|utgången|avförd|"
+           r"(?:godkännandet|tillståndet) är (?:indraget|återkallat|upphört)|indraget godkännande"),
+    "nl": (r"geldig|ingeschreven|actief", r"ingetrokken|doorgehaald|vervallen|geschorst|niet geldig|ongeldig"),
+    "zh": (r"有效|已註冊|現行", r"已?註銷|已?撤銷|已?取消|已?失效|已?廢止"),
+    "ja": (r"有効|承認有効|承認済み?", r"承認取消し?|取消し?済み?|取り消し済み|失効|販売中止|整理済み?|削除"),
+    "ko": (r"유효|정상", r"취소|취하|허가취소|품목취하|유효기간\s*만료|만료|폐지"),
+    "ms": (r"sah|aktif|berdaftar", r"dibatalkan(?:\s+pendaftaran)?|batal|ditarik balik|tamat tempoh|digantung|tidak sah"),
+    "ar": (r"ساري|سارٍ|سار|فعال|نشط", r"ملغى|ملغي|ملغاة|منتهي|منتهية|موقوف|مسحوب|غير ساري"),
+    "th": (r"คงอยู่|ปลด\s*SMP", r"ยกเลิก|เพิกถอน|หมดอายุ|พักใช้"),
+}
+# 不適用的站（不登記；理由寫在這裡，gate 不驗表格列狀態）
+ROW_STATUS_NA = {
+    "TwTxGNN": "許可證表由 tfda_licenses.py 程式產生（gate 第 6 項驗程式區塊），快照 schema 不同",
+    "PhTxGNN": "PNF 沒有品項號碼，快照的 licenses 鍵是藥名，表格沒有許可狀態欄",
+    "UkTxGNN": "依據是 NHSBSA BNF 處方代碼，不是許可證，資料沒有許可狀態",
+}
+# 開關（比照 M3X_SITES）：站上表格列清到 0 才加進來，加進來後該站 gate（licenses.page_problems）與每週排程 checker 就會擋。
+# 打開某站：把站名加進 ROW_STATUS_ON → commit → python3 .claude/sync_site_tools.py <站>。
+# 量測（不受開關限制）：row_status_conflicts(..., force=True)，或 python3 .claude/check_drug_page.py --row-status <站…>。
+# 2026-11-12 量測（全頁表格）為 0 的站直接啟用；Br／DE／FI／FR／IT／Jp／NO／Nl／SA／SE 有錯列，更正完再加
+ROW_STATUS_ON = {"ARTxGNN", "AuTxGNN", "BrTxGNN", "CHTxGNN", "COTxGNN", "CaTxGNN", "DETxGNN", "DkTxGNN", "ESTxGNN",
+                 "EuTxGNN", "FITxGNN", "FRTxGNN", "HkTxGNN", "ITTxGNN", "InTxGNN", "JpTxGNN", "KrTxGNN", "MyTxGNN",
+                 "NOTxGNN", "NZTxGNN", "NlTxGNN", "SATxGNN", "SETxGNN", "SgTxGNN", "ThTxGNN", "UsTxGNN", "ZaTxGNN"}
+_ROW_RX = {}
+
+
+def _row_rx(lang):
+    if lang not in _ROW_RX:
+        pos, neg = ROW_WORDS.get(lang) or ROW_WORDS["en"]
+        mk = lambda w: re.compile(r"\s*" + _PFX + _LIC + r"(?:" + w + r")\s*[.。!]?\s*", re.I)
+        _ROW_RX[lang] = (mk(pos), mk(neg))
+    return _ROW_RX[lang]
+
+
+def _segments(txt):
+    """一格文字拆成可能是狀態字的段落：整格、括號內、括號外、括號外以 ; , / – - 分開的各段"""
+    t = re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", txt).replace("**", "").replace("`", "")
+    inner = re.findall(r"[（(]([^()（）]*)[)）]", t)
+    outer = re.sub(r"[（(][^()（）]*[)）]", " ", t)
+    sp = r"[;；,，/／]|\s[–—-]\s|[.。]\s+"
+    segs = [t, outer] + inner + re.split(sp, outer)
+    for x in inner:
+        segs += re.split(sp, x)
+    return [x.strip() for x in segs if x and x.strip()]
+
+
+def row_status_said(site, cells, id_text=""):
+    """列上寫的狀態：valid／cancelled／None（兩種都有或都沒有就 None）"""
+    pos, neg = _row_rx(LANG.get(site, "en"))
+    first = cells[0].replace(id_text, " ", 1) if cells and id_text else (cells[0] if cells else "")
+    got = set()
+    for c in [first] + list(cells[1:]):
+        for seg in _segments(c):
+            if neg.fullmatch(seg):
+                got.add("cancelled")
+            elif pos.fullmatch(seg):
+                got.add("valid")
+    return got.pop() if len(got) == 1 else None
+
+
+def _row_id(cell, lic):
+    """號碼格裡的本藥號碼（正規化後的鍵）：整格相等優先；否則找前後不接數字／字母的子字串，取最長的"""
+    k = mv2.norm_id(re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", cell))
+    if k in lic:
+        return k
+    best = ""
+    for key in lic:
+        if len(key) < 4 or not re.search(r"\d", key) or len(key) <= len(best):
+            continue
+        i = k.find(key)
+        while i >= 0:
+            a, b = k[i - 1:i] if i else "", k[i + len(key):i + len(key) + 1]
+            okl = not a or not (a.isdigit() if key[0].isdigit() else a.isalnum())
+            okr = not b or not (b.isdigit() if key[-1].isdigit() else b.isalnum())
+            if okl and okr:
+                best = key
+                break
+            i = k.find(key, i + 1)
+    return best or None
+
+
+def row_status_conflicts(site, rows, lic, force=False):
+    """[(代碼, 說明)]：號碼格含本站許可證號（可夾別的字）、列上寫的狀態跟事實相反。
+    只在 ROW_STATUS_ON 的站生效（force=True 量測用）；Us 用原本的 NDA／ANDA／BLA 樣式。"""
+    if not force and site not in ROW_STATUS_ON:
+        return []
+    if site in TABLE_ROW_STATUS:
+        return _row_status_us(rows, lic, TABLE_ROW_STATUS[site])
+    if site in ROW_STATUS_NA or not lic:
+        return []
+    out = []
+    for cells in rows:
+        if not cells:
+            continue
+        k = _row_id(cells[0], lic)
+        st = lic.get(k) if k else None
+        if st not in ("valid", "cancelled"):
+            continue
+        said = row_status_said(site, cells)
+        if st == "valid" and said == "cancelled":
+            out.append(("M1", f"有效許可證 {cells[0]} 寫成註銷（列上的狀態字）"))
+        elif st == "cancelled" and said == "valid":
+            out.append(("M1", f"已註銷／停產的許可證 {cells[0]} 寫成有效（列上的狀態字）"))
     return out
 
 
@@ -2590,7 +2716,7 @@ def selftest():
             site, row = text.split("|", 1)
             k, s = note.split("=", 1)
             cells = [c.strip() for c in row.strip().strip("|").split("|")]
-            got = bool(row_status_conflicts(site, [cells], {mv2.norm_id(k): s}))
+            got = bool(row_status_conflicts(site, [cells], {mv2.norm_id(k): s}, force=True))
         elif code == "STATUS_ROW":  # text＝「站|列標題1;列標題2」，note＝應選中的列標題
             site, labels = text.split("|", 1)
             pick = status_row(site, [[l, "x"] for l in labels.split(";")])
@@ -2604,9 +2730,42 @@ def selftest():
     return bad == 0
 
 
+def row_status_report(sites):
+    """--row-status：各站全頁表格（扣掉查核框）裡狀態跟快照事實相反的列，不受 ROW_STATUS_ON 限制。回傳總列數"""
+    import gzip
+    total = 0
+    for site in sites:
+        if site in ROW_STATUS_NA:
+            print(f"{site}: 不適用（{ROW_STATUS_NA[site]}）")
+            continue
+        snap = next(iter(sorted((BASE / site / "snapshots").glob("*_licenses.json.gz"))), None)
+        if snap is None:
+            print(f"{site}: 沒有許可證快照")
+            continue
+        drugs = json.load(gzip.open(snap)).get("drugs") or {}
+        n, pages = 0, []
+        for stem, e in sorted(drugs.items()):
+            lic = {mv2.norm_id(k): v for k, v in ((e.get("facts") or {}).get("licenses") or {}).items()}
+            f = BASE / site / "docs/_drugs" / f"{stem}.md"
+            if not lic or not f.exists():
+                continue
+            body = re.sub(r"<!-- review:begin (\S+) -->.*?<!-- review:end \1 -->", "", f.read_text(encoding="utf-8"), flags=re.S)
+            rows = [[c.strip() for c in ln.strip().strip("|").split("|")] for ln in body.split("\n") if ln.startswith("|")]
+            hits = row_status_conflicts(site, rows, lic, force=True)
+            if hits:
+                n += len(hits)
+                pages.append(stem)
+        total += n
+        print(f"{site}: {n} 列、{len(pages)} 頁{'（gate 已啟用）' if site in ROW_STATUS_ON else ''}" + (f"：{', '.join(pages[:8])}…" if pages else ""))
+    return total
+
+
 def main(argv):
     if "--selftest" in argv:
         sys.exit(0 if selftest() else 1)
+    if "--row-status" in argv:
+        sites = [a for a in argv if a.endswith("TxGNN")] or [p.name for p in _site_registry.glob_sites(BASE)]
+        sys.exit(1 if row_status_report(sites) else 0)
     want_noindex = "--noindex" in argv
     pages = None
     if "--pages" in argv:

@@ -1,8 +1,11 @@
 {
  "labels": {
-  "Geldig": "valid"
+  "Geldig": "valid",
+  "Niet geregistreerd": "cancelled"
  },
  "preferred": {
-  "valid": "Geldig"
- }
+  "valid": "Geldig",
+  "cancelled": "Niet geregistreerd"
+ },
+ "_note": "2026-11-12：Nl 事實層改依 CBG 現行登記（scripts/rebuild_licenses_by_ingredient.py）；不在現行登記的登記號，CBG 網站寫「Niet geregistreerd geneesmiddel … komt niet voor in de Geneesmiddeleninformatiebank」，照原文用「Niet geregistreerd」，不寫撤銷"
 }
