@@ -3,7 +3,7 @@ layout: default
 title: "大腸がん (colonic neoplasm) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "大腸がん (colonic neoplasm) に関する健康ニュース。ニュース 2 件、関連医薬品 1 件。"
+description: "大腸がん (colonic neoplasm) に関する健康ニュース。ニュース 1 件、関連医薬品 1 件。"
 permalink: /news/colonic-neoplasm/
 last_modified_at: 2026-11-12
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="大腸がん (colonic neoplasm) に関するニュースは？">
-<strong>大腸がん (colonic neoplasm)</strong> には現在 <strong>2 件</strong>の関連ニュースと 1 件の関連医薬品があります。
+<strong>大腸がん (colonic neoplasm)</strong> には現在 <strong>1 件</strong>の関連ニュースと 1 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -30,21 +30,13 @@ last_modified_at: 2026-11-12
 </ul>
 </div>
 
-## 関連ニュース（2 件）
+## 関連ニュース（1 件）
 
 ### [切除不能/再発大腸がんに対するロンサーフ＋アバスチン、14日周期投与と従来の28日周期投与を検証](https://news.google.com/rss/articles/CBMiSEFVX3lxTFBaR0l0OHYwNUQ2X0Y3T3g2Sy0xZ05zTHNLNGFFdWY3dmZoZVpCMWM0UF8wNGcyQWxsRC1NUkFrRkROajRFa2czZA?oc=5)
 
 2026-11-12
 
 出典: [がん情報サイト「オンコロ」](https://news.google.com/rss/articles/CBMiSEFVX3lxTFBaR0l0OHYwNUQ2X0Y3T3g2Sy0xZ05zTHNLNGFFdWY3dmZoZVpCMWM0UF8wNGcyQWxsRC1NUkFrRkROajRFa2czZA?oc=5)
-
----
-
-### [【大腸がん研究の最前線】日本人患者の約半数で腸内細菌の関与を確認、若年発症でより顕著に ゲノム解析で新たな発症要因が明らかに【前後編の前編】 - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE40di1IdUtHRmowcmNYa3ZfMG5FMVhFcnZGOGVxdGNjTEIzLUczdmpJTEJXcFVWdUVFV2FMdjVfbDEtUW5EQkJFRUN5ZDMwT0U2ZXd2VGRqSFRzR0tGTkJxNHA3NHdVemZJUUZ3VnJB?oc=5)
-
-2026-11-05
-
-出典: [au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE40di1IdUtHRmowcmNYa3ZfMG5FMVhFcnZGOGVxdGNjTEIzLUczdmpJTEJXcFVWdUVFV2FMdjVfbDEtUW5EQkJFRUN5ZDMwT0U2ZXd2VGRqSFRzR0tGTkJxNHA3NHdVemZJUUZ3VnJB?oc=5)
 
 ---
 
