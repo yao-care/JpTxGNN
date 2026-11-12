@@ -3,7 +3,7 @@ layout: default
 title: "認知症 (dementia) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "認知症 (dementia) に関する健康ニュース。ニュース 5 件、関連医薬品 2 件。"
+description: "認知症 (dementia) に関する健康ニュース。ニュース 4 件、関連医薬品 2 件。"
 permalink: /news/dementia/
 last_modified_at: 2026-11-12
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="認知症 (dementia) に関するニュースは？">
-<strong>認知症 (dementia)</strong> には現在 <strong>5 件</strong>の関連ニュースと 2 件の関連医薬品があります。
+<strong>認知症 (dementia)</strong> には現在 <strong>4 件</strong>の関連ニュースと 2 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,7 @@ last_modified_at: 2026-11-12
 </ul>
 </div>
 
-## 関連ニュース（5 件）
+## 関連ニュース（4 件）
 
 ### [近視の低年齢化が顕著も、眼科受診は約半数にとどまる 早期の予防・対策で子供の目を守る](https://news.google.com/rss/articles/CBMibkFVX3lxTE85elhhV2NXX2Z1V3ozMzJQQmk5aGdmTFZlcU1Qb0NrNElTVTRDT25TZmhmbjdTNnNmV0dqWTNlX1lscFRlV1djN2ROYlU5T0xBVC0tclgxbUdISDFORjNBbXV2Um4yakQ2RmMtM3Z3?oc=5)
 
@@ -62,14 +62,6 @@ last_modified_at: 2026-11-12
 2026-11-11
 
 出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/66d88af03a79a29434227785dbf2ec5755d1d4d0?source=rss)
-
----
-
-### [あなたは大丈夫？ほぼ毎日昼寝する高齢者は認知症リスクが50％近く上がることが判明 - @DIME アットダイム](https://news.google.com/rss/articles/CBMiREFVX3lxTE9LYjRadmpFcHd3ZHRaUFZMUVpoaGRoSXNDRWRqNTA3QzZOS0gwdXBlRmNZY202NFUxUGNsUExDMVAwdTM4?oc=5)
-
-2026-11-05
-
-出典: [@DIME アットダイム](https://news.google.com/rss/articles/CBMiREFVX3lxTE9LYjRadmpFcHd3ZHRaUFZMUVpoaGRoSXNDRWRqNTA3QzZOS0gwdXBlRmNZY202NFUxUGNsUExDMVAwdTM4?oc=5)
 
 ---
 

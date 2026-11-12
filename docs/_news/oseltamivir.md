@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="タミフルドライシロップ３％（選） に関するニュースは？">
-<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>3 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>2 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,13 @@ last_modified_at: 2026-11-12
 <p><a href="{{ '/drugs/oseltamivir/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（3 件）
+## 関連ニュース（2 件）
 
-### [インフルすでに感染、それでもワクチン必要？ 注射しない噴霧型は？](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RN1d1UTdkek1QNEpUOTk5SUlPMkM0anBRYXBnN0daT3Z2TXpBUEMtdnNremZKaXMydmhSMUNtVDlxWVVINFU0bW9PZDIwNU5fVHNfbU5zaFBXcmt5UW5qdG4tMW14Y28?oc=5)
+### [インフルエンザ感染拡大 例年より早い流行 学級閉鎖も相次ぐ 札幌市は小児ドライブスルー発熱外来を開設へ 北海道内全体でも注意報レベルに(FNNプライムオンライン)](https://news.yahoo.co.jp/articles/8f6485cd621c307510a07400682a73d41bec3197?source=rss)
 
 2026-11-12 <span class="news-indication-tag">インフルエンザ</span>
 
-出典: [朝日新聞](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RN1d1UTdkek1QNEpUOTk5SUlPMkM0anBRYXBnN0daT3Z2TXpBUEMtdnNremZKaXMydmhSMUNtVDlxWVVINFU0bW9PZDIwNU5fVHNfbU5zaFBXcmt5UW5qdG4tMW14Y28?oc=5)
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/8f6485cd621c307510a07400682a73d41bec3197?source=rss)
 
 ---
 
@@ -45,14 +45,6 @@ last_modified_at: 2026-11-12
 2026-11-10 <span class="news-indication-tag">インフルエンザ</span>
 
 出典: [Laodong.vn](https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ3J2bUVXc0FoSnBtZXg4ejVOeWJTYVh5dTFUemtEY3BTUkFkTEpIQV9SLVM5WEpYQXFPdEY1RUxKb1ZGbFRRZ2FYNlljMG83aUJsYzl6SWZvVGdibGd4UVByYlBQcFZiSWhlZVBUYy1UMk53TWNWamI1VWNiMkhGbjRuNVhrQUU4UEVZY3cwYlIwMVZDWklnVi03eTlXU25Ub2gw?oc=5)
-
----
-
-### [【三重県インフルエンザ週報】学年閉鎖7校・学級閉鎖13校発生 鈴鹿・桑名・伊賀・伊勢で県全体の患者届出数上回る＜11月2日～8日の感染症情報 - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE8yNmtYYzliWGdFbFJEQlo1dS1FdHRXOHdHMGdUTzVDV1VtaTQtNmdJUUNFWWdhRENya0tOVXpsWDh4OVJmQXVva0JkSC1yV3kyMWdGZFBwZTg0Nk92TjZpSDFWNHZoRTV1LXA5N3RR?oc=5)
-
-2026-11-10 <span class="news-indication-tag">インフルエンザ</span>
-
-出典: [au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE8yNmtYYzliWGdFbFJEQlo1dS1FdHRXOHdHMGdUTzVDV1VtaTQtNmdJUUNFWWdhRENya0tOVXpsWDh4OVJmQXVva0JkSC1yV3kyMWdGZFBwZTg0Nk92TjZpSDFWNHZoRTV1LXA5N3RR?oc=5)
 
 ---
 

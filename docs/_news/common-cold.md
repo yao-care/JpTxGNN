@@ -3,9 +3,9 @@ layout: default
 title: "かぜ (common cold) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "かぜ (common cold) に関する健康ニュース。ニュース 3 件、関連医薬品 8 件。"
+description: "かぜ (common cold) に関する健康ニュース。ニュース 2 件、関連医薬品 8 件。"
 permalink: /news/common-cold/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-12
 ---
 
 # かぜ (common cold) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="かぜ (common cold) に関するニュースは？">
-<strong>かぜ (common cold)</strong> には現在 <strong>3 件</strong>の関連ニュースと 8 件の関連医薬品があります。
+<strong>かぜ (common cold)</strong> には現在 <strong>2 件</strong>の関連ニュースと 8 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -37,21 +37,13 @@ last_modified_at: 2026-11-11
 </ul>
 </div>
 
-## 関連ニュース（3 件）
+## 関連ニュース（2 件）
 
 ### [「声がおかしい」の一言から始まった――喉頭がん経験者・内田 忠男さんと専門医が伝えたい早期受診の大切さ(Medical Note)](https://news.yahoo.co.jp/articles/cfa0d2fb0bfff33f108940be8cc0e199eb36499c?source=rss)
 
 2026-11-11
 
 出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/cfa0d2fb0bfff33f108940be8cc0e199eb36499c?source=rss)
-
----
-
-### [なかなか治らない鼻づまり、風邪ではなくアレルギーや副鼻腔炎の可能性も(Medical Note)](https://news.yahoo.co.jp/articles/f297b976a9f501c0569189985b3115c9551c4a09?source=rss)
-
-2026-11-10
-
-出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/f297b976a9f501c0569189985b3115c9551c4a09?source=rss)
 
 ---
 
