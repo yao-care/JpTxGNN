@@ -354,6 +354,31 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：34c5102b（2026-11-06）"
   },
   {
+   "id": "jp-lic-20261112-bimatoprost-1",
+   "drug": "bimatoprost",
+   "file": "bimatoprost.md",
+   "action": "correct",
+   "claim": "残りの 3 件（「TS」「わかもと」、ルミガン（選））も取消済みです。",
+   "replacement": "残りの 3 件（「TS」「わかもと」、ルミガン（選））も有効です。",
+   "summary": "訂正：残りの 3 件は「取消済み」ではなく有効",
+   "note": "訂正：医薬品マスター（薬価基準収載品目）では、残りの 3 件（622661201「TS」、622650401「わかもと」、671933101 ルミガン（選））も有効です（2026-11-05 のデータ）。データ上の収載は 8 件、うち有効 8 件です。",
+   "finding": "11 月 AI 重產時證據包的 local_regulatory 把全部許可標成 Cancelled only（狀態對應壞掉），正文照著寫「取消済み」；證據包同一 Release 的 bundle（pmda.records）與事實層這 3 件都是「有効」",
+   "sources": [
+    {
+     "title": "医薬品マスター ダウンロードページ",
+     "url": "https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html",
+     "accessed": "2026-11-05"
+    },
+    {
+     "title": "医薬品医療機器総合機構（PMDA）",
+     "url": "https://www.pmda.go.jp/",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（正文的許可狀態對事實層與證據包 bundle 原始狀態）"
+  },
+  {
    "id": "jp-lic-20261106-biperiden-1",
    "drug": "biperiden",
    "file": "biperiden.md",
@@ -1305,6 +1330,31 @@
    "checked": "2026-11-06",
    "summary": "削除：「現在は国内で市販されておらず、警告・禁忌の情報も不足しているため、現時点で進めるのは適切ではありません」",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：34c5102b（2026-11-06）"
+  },
+  {
+   "id": "jp-lic-20261112-droxidopa-1",
+   "drug": "droxidopa",
+   "file": "droxidopa.md",
+   "action": "correct",
+   "claim": "- 前臨床研究（細胞・動物モデル）または症例報告による裏付けの探索\n- 市販が整理済みである点を踏まえた、供給・剤形面の実現可能性の確認",
+   "replacement": "- 前臨床研究（細胞・動物モデル）または症例報告による裏付けの探索",
+   "summary": "削除：「市販が整理済みである点を踏まえた、供給・剤形面の実現可能性の確認」",
+   "note": "削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-05 のデータ）。データ上の収載は 7 件、うち有効 7 件です。最新の件数はクイック概要と日本市販情報にあります。",
+   "finding": "11 月 AI 重產時證據包把全部許可標成 Cancelled only，次步驟清單據此寫「市販が整理済み」；bundle 與事實層 7 件全是「有効」。整條建立在錯誤前提上，整條刪除",
+   "sources": [
+    {
+     "title": "医薬品マスター ダウンロードページ",
+     "url": "https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html",
+     "accessed": "2026-11-05"
+    },
+    {
+     "title": "医薬品医療機器総合機構（PMDA）",
+     "url": "https://www.pmda.go.jp/",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（正文的許可狀態對事實層與證據包 bundle 原始狀態）"
   },
   {
    "id": "jp-lic-20261106-duloxetine-1",
@@ -4514,6 +4564,31 @@
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：34c5102b（2026-11-06）"
   },
   {
+   "id": "jp-lic-20261112-tocilizumab-1",
+   "drug": "tocilizumab",
+   "file": "tocilizumab.md",
+   "action": "correct",
+   "claim": "同８０ｍｇ「ＣＴ」（629936601）も取消済みです。",
+   "replacement": "同８０ｍｇ「ＣＴ」（629936601）も有効です。",
+   "summary": "訂正：620006804・629936801・629936601 は「取消済み」ではなく有効",
+   "note": "訂正：医薬品マスター（薬価基準収載品目）では、アクテムラ点滴静注用８０ｍｇ（620006804）、トシリズマブＢＳ点滴静注４００ｍｇ「ＣＴ」（629936801）、同８０ｍｇ「ＣＴ」（629936601）は有効です（2026-11-05 のデータ）。データ上の収載は 8 件、うち有効 8 件です。",
+   "finding": "11 月 AI 重產時證據包把全部許可標成 Cancelled only，正文照著寫「取消済み」；bundle 與事實層這 3 件是「有効」",
+   "sources": [
+    {
+     "title": "医薬品マスター ダウンロードページ",
+     "url": "https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html",
+     "accessed": "2026-11-05"
+    },
+    {
+     "title": "医薬品医療機器総合機構（PMDA）",
+     "url": "https://www.pmda.go.jp/",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（正文的許可狀態對事實層與證據包 bundle 原始狀態）"
+  },
+  {
    "id": "jp-lic-20261106-tofisopam-1",
    "drug": "tofisopam",
    "file": "tofisopam.md",
@@ -5387,6 +5462,56 @@
    "checked": "2026-11-06",
    "summary": "削除：「取消の理由を含む」",
    "method": "2026-11-12 由 git 提交前後的頁面轉入查核紀錄（scripts/reviews_from_edits.py）；原本的刪改：34c5102b（2026-11-06）"
+  },
+  {
+   "id": "jp-lic-20261112-dapagliflozin-1",
+   "drug": "dapagliflozin",
+   "file": "dapagliflozin.md",
+   "action": "correct",
+   "claim": "他に、ダパグリフロジン錠5mg「TSP」（622994801）も取消済みです。",
+   "replacement": "他に、ダパグリフロジン錠5mg「TSP」（622994801）も有効です。",
+   "summary": "訂正：622994801 は「取消済み」ではなく有効",
+   "note": "訂正：医薬品マスター（薬価基準収載品目）では、ダパグリフロジン錠5mg「TSP」（622994801）は有効です（2026-11-05 のデータ）。データ上の収載は 6 件、うち有効 6 件です。",
+   "finding": "11 月 AI 重產時證據包把全部許可標成 Cancelled only，正文照著寫「取消済み」；bundle 與事實層 622994801 是「有効」",
+   "sources": [
+    {
+     "title": "医薬品マスター ダウンロードページ",
+     "url": "https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html",
+     "accessed": "2026-11-05"
+    },
+    {
+     "title": "医薬品医療機器総合機構（PMDA）",
+     "url": "https://www.pmda.go.jp/",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（正文的許可狀態對事實層與證據包 bundle 原始狀態）"
+  },
+  {
+   "id": "jp-lic-20261112-lorazepam-1",
+   "drug": "lorazepam",
+   "file": "lorazepam.md",
+   "action": "correct",
+   "claim": "- 不眠症を優先候補として検討する場合は、現行の適応を持つ他の催眠薬と比較する文献精査と、依存・耐性・相互作用リスクの評価\n- 市販が取り消されているため、再導入や製剤供給の可否の確認",
+   "replacement": "- 不眠症を優先候補として検討する場合は、現行の適応を持つ他の催眠薬と比較する文献精査と、依存・耐性・相互作用リスクの評価",
+   "summary": "削除：「市販が取り消されているため、再導入や製剤供給の可否の確認」",
+   "note": "削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-05 のデータ）。データ上の収載は 7 件、うち有効 7 件です。最新の件数はクイック概要と日本市販情報にあります。",
+   "finding": "11 月 AI 重產時證據包把全部許可標成 Cancelled only，次步驟清單據此寫「市販が取り消されている」；bundle 與事實層 7 件全是「有効」。整條建立在錯誤前提上，整條刪除",
+   "sources": [
+    {
+     "title": "医薬品マスター ダウンロードページ",
+     "url": "https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html",
+     "accessed": "2026-11-05"
+    },
+    {
+     "title": "医薬品医療機器総合機構（PMDA）",
+     "url": "https://www.pmda.go.jp/",
+     "accessed": "2026-11-05"
+    }
+   ],
+   "checked": "2026-11-12",
+   "method": "2026-11-12 人工查核（正文的許可狀態對事實層與證據包 bundle 原始狀態）"
   }
  ]
 }

@@ -624,3 +624,4 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
 2026-10-31～11-06 依新事實直接刪掉的矛盾子句，2026-11-12 已用 `scripts/reviews_from_edits.py --git` 轉成 215 筆紀錄（148 頁）。
 `scripts/sync_notes_to_docs.py` 依 notes 重寫整頁後會重套紀錄，notes 裡的舊錯句會被紀錄再更正一次。
 
+2026-11-12 正文許可狀態對事實層掃描：5 頁（bimatoprost、dapagliflozin、tocilizumab、lorazepam、droxidopa）在 11 月 AI 重產時照證據包（local_regulatory 全標 Cancelled only，狀態對應壞掉）寫成「取消済み／市販が取り消されている」，bundle 與事實層都是「有効」；以 5 筆 `jp-lic-20261112-*` 紀錄更正（能照事實改的改成「有効」，整條建立在錯誤前提上的次步驟條目刪除）。
