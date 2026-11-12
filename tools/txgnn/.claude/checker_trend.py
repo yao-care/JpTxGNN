@@ -5,6 +5,7 @@
 逐頁結果另寫 .claude/audit_20261016/checker_full/<date>.tsv（不進 git）。
 用法（母目錄）：python3 .claude/checker_trend.py [--no-append] [站 ...]
 """
+import sys as _sys, pathlib as _pl; _sys.path.insert(0, str(_pl.Path(__file__).resolve().parent)); import site_registry as _site_registry  # noqa: E402  # 30 站名單（不含 CnTxGNN）
 import csv
 import importlib.util
 import json
@@ -44,7 +45,7 @@ def main(argv):
     only = {a for a in argv if a.endswith("TxGNN")}
     by_site = defaultdict(list)
     # 2026-10-29（pm 驗收）：範圍＝所有非轉址的藥物頁（含 noindex 頁、稽核分類表以外的頁），不只分類表
-    for d in sorted(BASE.glob("*TxGNN")):
+    for d in sorted(_site_registry.glob_sites(BASE)):
         if only and d.name not in only:
             continue
         for f in sorted((d / "docs/_drugs").glob("*.md")):

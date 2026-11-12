@@ -8,6 +8,7 @@ sync_notes_to_docs.py 重生頁面時會用同一個函式（monitor_fields）�
 
 用法：python3 .claude/add_monitor_fields.py [站 ...]
 """
+import sys as _sys, pathlib as _pl; _sys.path.insert(0, str(_pl.Path(__file__).resolve().parent)); import site_registry as _site_registry  # noqa: E402  # 30 站名單（不含 CnTxGNN）
 import json, re, sys
 from pathlib import Path
 
@@ -72,7 +73,7 @@ def apply(path: Path, lines: list[str]) -> bool:
 
 
 def main(argv):
-    sites = argv or [p.name for p in sorted(BASE.glob("*TxGNN"))]
+    sites = argv or [p.name for p in sorted(_site_registry.glob_sites(BASE))]
     for s in sites:
         proj = BASE / s
         n = w = 0

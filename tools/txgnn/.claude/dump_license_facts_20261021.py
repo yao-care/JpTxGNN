@@ -3,6 +3,7 @@ partial_list、archivée／Opinion 判為無效）算出每個藥的市場狀態
 .claude/cache/license_facts/<站>.json：{bundle 名: {market_status, total, valid, cancelled, partial, licenses: {字號: valid|cancelled}}}
 不呼叫模型。用法（母目錄）：python3 .claude/dump_license_facts_20261021.py [站 ...]
 """
+import sys as _sys, pathlib as _pl; _sys.path.insert(0, str(_pl.Path(__file__).resolve().parent)); import site_registry as _site_registry  # noqa: E402  # 30 站名單（不含 CnTxGNN）
 import json
 import subprocess
 import sys
@@ -38,7 +39,7 @@ json.dump(out, sys.stdout, ensure_ascii=False)
 
 
 def main(argv):
-    sites = argv or sorted(p.name for p in BASE.glob("*TxGNN"))
+    sites = argv or sorted(p.name for p in _site_registry.glob_sites(BASE))
     d = BASE / ".claude/cache/license_facts"
     d.mkdir(parents=True, exist_ok=True)
     for s in sites:

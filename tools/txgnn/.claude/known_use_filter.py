@@ -11,6 +11,7 @@ KnownRelationsChecker 只排除名稱完全相同的已知適應症；這裡再�
 2026-11-03（用戶決定）：另讀 .claude/known_use_overlap_exclude.json——盤點確認「預測的其實就是已核准用途」的藥＋預測病名，
 逐筆附官方仿單出處（overlap_entry()）；只比對完全相同的病名，30 站都生效（任一國核准就算已知用途；approved_countries 只當資訊）。頁面套用步驟見 .claude/apply_overlap_exclude_20261103.py 開頭。
 """
+import sys as _sys, pathlib as _pl; _sys.path.insert(0, str(_pl.Path(__file__).resolve().parent)); import site_registry as _site_registry  # noqa: E402  # 30 站名單（不含 CnTxGNN）
 import csv, json, re
 from functools import lru_cache
 from pathlib import Path
@@ -336,7 +337,7 @@ def _global_license():
 
 def build_license_cache():
     out = {}
-    for proj in sorted(BASE.glob("*TxGNN")):
+    for proj in sorted(_site_registry.glob_sites(BASE)):
         for b in proj.glob("data/bundles/*/drug_bundle.json"):
             try:
                 bd = json.loads(b.read_text(encoding="utf-8"))

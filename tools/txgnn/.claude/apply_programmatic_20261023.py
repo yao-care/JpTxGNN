@@ -14,6 +14,7 @@ CRLF 保留。預設乾跑（寫 diff），--apply 才寫檔。notes 不動（sy
   --any：不限分類（重生／已知用途頁的後處理）；--local：讀本機檔而不是 HEAD
 輸出 .claude/audit_20261016/programmatic/：changes.diff、to_regen.tsv、summary.tsv
 """
+import sys as _sys, pathlib as _pl; _sys.path.insert(0, str(_pl.Path(__file__).resolve().parent)); import site_registry as _site_registry  # noqa: E402  # 30 站名單（不含 CnTxGNN）
 import csv
 import difflib
 import importlib.util
@@ -284,7 +285,7 @@ def main(argv):
     pages = None
     if "--pages" in argv:
         pages = {tuple(x.split(":", 1)) for x in argv[argv.index("--pages") + 1].split(",")}
-    sites = [a for a in argv if a.endswith("TxGNN")] or sorted({p[0] for p in pages} if pages else (p.name for p in BASE.glob("*TxGNN")))
+    sites = [a for a in argv if a.endswith("TxGNN")] or sorted({p[0] for p in pages} if pages else (p.name for p in _site_registry.glob_sites(BASE)))
     OUT.mkdir(parents=True, exist_ok=True)
     rows = list(csv.DictReader(open(BASE / ".claude/audit_20261016/m2/classification.tsv", encoding="utf-8"), delimiter="\t"))
     skip = set()

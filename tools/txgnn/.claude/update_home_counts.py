@@ -7,6 +7,7 @@
   數字存在 docs/_data/site_stats.yml；首頁 index.md 中與上次數字相同的寫死數字會換成新數字。
   第一次執行用 --seed 舊藥物數,舊適應症數 指定首頁現有的寫死數字（可用逗號分隔多個舊值，以 / 分隔兩組）。
 """
+import sys as _sys, pathlib as _pl; _sys.path.insert(0, str(_pl.Path(__file__).resolve().parent)); import site_registry as _site_registry  # noqa: E402  # 30 站名單（不含 CnTxGNN）
 import re, sys
 from pathlib import Path
 
@@ -48,7 +49,7 @@ def main(argv):
         i = argv.index("--seed")
         seed = argv[i + 1]
         argv = argv[:i] + argv[i + 2:]
-    sites = argv or [p.name for p in sorted(BASE.glob("*TxGNN"))]
+    sites = argv or [p.name for p in sorted(_site_registry.glob_sites(BASE))]
     for s in sites:
         proj = BASE / s
         idx = proj / "docs/index.md"

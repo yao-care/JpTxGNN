@@ -65,6 +65,13 @@ def all_projects() -> list[str]:
     return sorted(SITES)
 
 
+def glob_sites(base):
+    """base 底下實際存在、且在 30 站名單內的站目錄（Path，依名稱排序）。取代 base.glob("*TxGNN")：
+    那樣會把 CnTxGNN 等非站台目錄也算進來（2026-11-12）。在各站 tools/txgnn 組出的工作目錄裡，只會回傳本站。"""
+    from pathlib import Path
+    return sorted(q for q in Path(base).glob("*TxGNN") if q.name in SITES)
+
+
 if __name__ == "__main__":
     # 給 shell 迴圈用：for proj in $(python3 .claude/site_registry.py); do ...
     # 排序與 `ls -d *TxGNN | sort`（C locale）相同，但只列 30 站，不含 CnTxGNN 等非站台目錄。

@@ -42,6 +42,7 @@ N1 noindex（--noindex 時才查）：no_pred_noindex 的頁、站上 docs/_data
 用法（母目錄）：python3 .claude/check_drug_page.py [--selftest] [--noindex] [--pages site:page,...] [站 ...]
 輸出 .claude/audit_20261016/check/results.tsv（site, page, code, detail）；有錯 exit 1。
 """
+import sys as _sys, pathlib as _pl; _sys.path.insert(0, str(_pl.Path(__file__).resolve().parent)); import site_registry as _site_registry  # noqa: E402  # 30 站名單（不含 CnTxGNN）
 import csv
 import importlib.util
 import json
@@ -2610,7 +2611,7 @@ def main(argv):
     pages = None
     if "--pages" in argv:
         pages = {tuple(x.split(":", 1)) for x in argv[argv.index("--pages") + 1].split(",")}
-    sites = [a for a in argv if a.endswith("TxGNN")] or sorted({p[0] for p in pages} if pages else (p.name for p in BASE.glob("*TxGNN")))
+    sites = [a for a in argv if a.endswith("TxGNN")] or sorted({p[0] for p in pages} if pages else (p.name for p in _site_registry.glob_sites(BASE)))
     OUT.mkdir(parents=True, exist_ok=True)
     cl = classification()
     rows, per = [], Counter()

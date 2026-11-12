@@ -6,6 +6,7 @@ title：全大寫的藥名（PIMOZIDE、EZETIMIBA）改成首字大寫；縮寫 
 
 用法：python3 .claude/drug_meta_description.py [站 ...]
 """
+import sys as _sys, pathlib as _pl; _sys.path.insert(0, str(_pl.Path(__file__).resolve().parent)); import site_registry as _site_registry  # noqa: E402  # 30 站名單（不含 CnTxGNN）
 import json, re, sys
 from pathlib import Path
 
@@ -96,7 +97,7 @@ def nice_title(t: str) -> str:
 
 
 def main(argv):
-    sites = argv or [p.name for p in sorted(BASE.glob("*TxGNN"))]
+    sites = argv or [p.name for p in sorted(_site_registry.glob_sites(BASE))]
     for s in sites:
         proj = BASE / s
         lang = site_lang(proj)

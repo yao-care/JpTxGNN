@@ -10,6 +10,7 @@
 輸出 .claude/audit_20261016/track5v2/：<站>.diff、summary.tsv、unmatched.tsv（找不到概覽列或張數列）
 用法：python3 .claude/rewrite_market_v2_20261021.py [--apply] [站 ...]
 """
+import sys as _sys, pathlib as _pl; _sys.path.insert(0, str(_pl.Path(__file__).resolve().parent)); import site_registry as _site_registry  # noqa: E402  # 30 站名單（不含 CnTxGNN）
 import difflib
 import json
 import re
@@ -99,7 +100,7 @@ def indexable(t):
 
 def main(argv):
     apply_ = "--apply" in argv
-    sites = [a for a in argv if not a.startswith("--")] or sorted(p.name for p in BASE.glob("*TxGNN"))
+    sites = [a for a in argv if not a.startswith("--")] or sorted(p.name for p in _site_registry.glob_sites(BASE))
     OUT.mkdir(parents=True, exist_ok=True)
     summary, unmatched, notes_miss, approved_nm, relabel_pages = [], [], [], [], []
     for s in sites:

@@ -4,6 +4,7 @@
 欄位與原檔相同：total_drugs、level_counts、all_drugs[{name, slug, level, indication_count}]；slug＝檔名（D3 以 drugUrls 對應實際網址）。
 用法：python3 .claude/gen_drug_stats.py [站 ...]
 """
+import sys as _sys, pathlib as _pl; _sys.path.insert(0, str(_pl.Path(__file__).resolve().parent)); import site_registry as _site_registry  # noqa: E402  # 30 站名單（不含 CnTxGNN）
 import json, re, subprocess, sys
 from datetime import date
 from pathlib import Path
@@ -17,7 +18,7 @@ def fm_get(head, key):
 
 
 def main(argv):
-    sites = argv or [p.name for p in sorted(BASE.glob("*TxGNN")) if p.name != "TwTxGNN"]
+    sites = argv or [p.name for p in sorted(_site_registry.glob_sites(BASE)) if p.name != "TwTxGNN"]
     for s in sites:
         proj = BASE / s
         # 2026-10-27：站上有 scripts/generate_drug_stats.py（drugs.md 建置守門用的同一套規則）就交給它，免得兩套規則不一致讓建置失敗
