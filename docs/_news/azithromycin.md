@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="ジスロマック細粒小児用１０％　１００ｍｇ（選） に関するニュースは？">
-<strong>ジスロマック細粒小児用１０％　１００ｍｇ（選）</strong> には現在 <strong>8 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>ジスロマック細粒小児用１０％　１００ｍｇ（選）</strong> には現在 <strong>10 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ last_modified_at: 2026-11-12
 <p><a href="{{ '/drugs/azithromycin/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（8 件）
+## 関連ニュース（10 件）
+
+### [「膵臓がん」の原因は喫煙、飲酒だけじゃない？　専門医が教える発症リスクが高い人の“特徴”とは(オトナンサー)](https://news.yahoo.co.jp/articles/76e6eb4a66752e56f04531f33c33e470f4d076b1?source=rss)
+
+2026-11-12 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">膵臓がん</span>
+
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/76e6eb4a66752e56f04531f33c33e470f4d076b1?source=rss)
+
+---
+
+### [採血でがん検査、手軽そうだけど… ＭＣＥＤ検査、治療学会が見解書](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkbS1OVllTX2s5a1JyRERhOG9leUptdW1OaDBwaXZGNVdJTFFnUEg1bGZiNXVPMnFNTGN1WlVFUFdnX1hCbDl5Q05JdjlBQkpaZWRVRDRCTVplTGVl?oc=5)
+
+2026-11-12 <span class="news-indication-tag">がん</span>
+
+出典: [朝日新聞](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkbS1OVllTX2s5a1JyRERhOG9leUptdW1OaDBwaXZGNVdJTFFnUEg1bGZiNXVPMnFNTGN1WlVFUFdnX1hCbDl5Q05JdjlBQkpaZWRVRDRCTVplTGVl?oc=5)
+
+---
 
 ### [しこり以外にもある『乳がん』のサイン 触った感触だけで判断してはいけない理由を医師が解説(メディカルドック)](https://news.yahoo.co.jp/articles/ccb2a890a0f98834c8b29a4450b0cd6f8a1c25b7?source=rss)
 
@@ -84,19 +100,19 @@ last_modified_at: 2026-11-12
 
 ---
 
-### [ワクチンでがん予防～子宮頸がん、ＨＰＶ関連がん（自治医科大付属さいたま医療センター　今野良名誉教授）～](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xLU1EMmR2MDZ2NlQwYlpvU1VsUHl4b3RiellyTTNGVktwZlJFWHNTTGxxM21ScEU3WUM2TnZqckN2a0xlR3h2VDc1NTTSAVJBVV95cUxOaDFfX19NMDZzSWNlcnZiOXRqQXlaTlFhZDQ1RmFERXEyX3R0LWpuelNQbjBJbUQ5QlB3VS01eG9FdkZ3ZDBJTmRoNmJxai1WUXN3?oc=5)
-
-2026-11-10 <span class="news-indication-tag">がん</span>
-
-出典: [時事メディカル](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xLU1EMmR2MDZ2NlQwYlpvU1VsUHl4b3RiellyTTNGVktwZlJFWHNTTGxxM21ScEU3WUM2TnZqckN2a0xlR3h2VDc1NTTSAVJBVV95cUxOaDFfX19NMDZzSWNlcnZiOXRqQXlaTlFhZDQ1RmFERXEyX3R0LWpuelNQbjBJbUQ5QlB3VS01eG9FdkZ3ZDBJTmRoNmJxai1WUXN3?oc=5)
-
----
-
 ### [局所進行食道がんに対する根治的な化学放射線療法にデュルバルマブの上乗せ効果を検討するランダム化第II相試験：ARION PRODIGE 67【ESMO2026 胃・食道がん】](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoYjh1bjBEUWF1NlhCd05wb0JsV20xY1RQY0Z6S25TSXo1S3FLTWRpUF9DWHBJREkzZi1SRU13UzdPSWFwVzEtS0h1RXdnN0ZhMUE?oc=5)
 
 2026-11-07 <span class="news-indication-tag">がん</span>
 
 出典: [m3.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoYjh1bjBEUWF1NlhCd05wb0JsV20xY1RQY0Z6S25TSXo1S3FLTWRpUF9DWHBJREkzZi1SRU13UzdPSWFwVzEtS0h1RXdnN0ZhMUE?oc=5)
+
+---
+
+### [HPVワクチンの接種で子宮頚がんの死亡率が100％減少する？ 世界的医学誌に研究論文｜役に立つオモシロ医学論文](https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6QURJQ1RPWmRXRE45X1dySzlRUmJjZGprTnpaZ0tocnl4QzNMMzB5bXQ0cXJYdThQMnVhZWd3VnV5dlJSd25CcTczeFBBRFk1eUFZbHhLMkVLVWRhZm9vOTdjOXZCenBV?oc=5)
+
+2026-11-07 <span class="news-indication-tag">がん</span>
+
+出典: [日刊ゲンダイDIGITAL](https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6QURJQ1RPWmRXRE45X1dySzlRUmJjZGprTnpaZ0tocnl4QzNMMzB5bXQ0cXJYdThQMnVhZWd3VnV5dlJSd25CcTczeFBBRFk1eUFZbHhLMkVLVWRhZm9vOTdjOXZCenBV?oc=5)
 
 ---
 

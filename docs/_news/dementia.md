@@ -3,7 +3,7 @@ layout: default
 title: "認知症 (dementia) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "認知症 (dementia) に関する健康ニュース。ニュース 4 件、関連医薬品 2 件。"
+description: "認知症 (dementia) に関する健康ニュース。ニュース 5 件、関連医薬品 2 件。"
 permalink: /news/dementia/
 last_modified_at: 2026-11-12
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="認知症 (dementia) に関するニュースは？">
-<strong>認知症 (dementia)</strong> には現在 <strong>4 件</strong>の関連ニュースと 2 件の関連医薬品があります。
+<strong>認知症 (dementia)</strong> には現在 <strong>5 件</strong>の関連ニュースと 2 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -31,13 +31,21 @@ last_modified_at: 2026-11-12
 </ul>
 </div>
 
-## 関連ニュース（4 件）
+## 関連ニュース（5 件）
 
-### [近視の低年齢化が顕著も、眼科受診は約半数にとどまる 早期の予防・対策で子供の目を守る](https://news.google.com/rss/articles/CBMibkFVX3lxTE85elhhV2NXX2Z1V3ozMzJQQmk5aGdmTFZlcU1Qb0NrNElTVTRDT25TZmhmbjdTNnNmV0dqWTNlX1lscFRlV1djN2ROYlU5T0xBVC0tclgxbUdISDFORjNBbXV2Um4yakQ2RmMtM3Z3?oc=5)
+### [「認知症の家族への接し方で進行は速まるのか？」認知症の母を13年介護する工藤広伸さんがたどりついた答え(介護ポストセブン)](https://news.yahoo.co.jp/articles/5f1d2ad0492e36ceb119c0202d2a6d086e4d82d7?source=rss)
+
+2026-11-12
+
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/5f1d2ad0492e36ceb119c0202d2a6d086e4d82d7?source=rss) · [介護ポストセブン](https://news.google.com/rss/articles/CBMiSkFVX3lxTE5qVDBBZzhYekhYV1NkdXJ2ZEhKQlN2OWhwR2R5ekZfWU1yZmtFZFg2eHozcmtSd2tfM29aNmdVRi00a1ZHZjlPY2JB?oc=5)
+
+---
+
+### [急増！子どもの近視 進行抑制のゴールデンタイムを逃さないために［PR］](https://news.google.com/rss/articles/CBMibEFVX3lxTE5kMHJ1VmV5cW0yU1ZsVldSNEtkNlZ4UWJ6d0tOOGEySV9mdENkbHY2RHdQaWxMcnNwVDRIa0ktakNUOV9CSGl5RnZzRkpTS3ZzdXdZTkxKNURWZjVXMTlCR3BMVFhKZkNfVUpQYQ?oc=5)
 
 2026-11-11
 
-出典: [読売新聞](https://news.google.com/rss/articles/CBMibkFVX3lxTE85elhhV2NXX2Z1V3ozMzJQQmk5aGdmTFZlcU1Qb0NrNElTVTRDT25TZmhmbjdTNnNmV0dqWTNlX1lscFRlV1djN2ROYlU5T0xBVC0tclgxbUdISDFORjNBbXV2Um4yakQ2RmMtM3Z3?oc=5)
+出典: [日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTE5kMHJ1VmV5cW0yU1ZsVldSNEtkNlZ4UWJ6d0tOOGEySV9mdENkbHY2RHdQaWxMcnNwVDRIa0ktakNUOV9CSGl5RnZzRkpTS3ZzdXdZTkxKNURWZjVXMTlCR3BMVFhKZkNfVUpQYQ?oc=5)
 
 ---
 

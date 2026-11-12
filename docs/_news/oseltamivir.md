@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="タミフルドライシロップ３％（選） に関するニュースは？">
-<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>2 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>1 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,21 +30,13 @@ last_modified_at: 2026-11-12
 <p><a href="{{ '/drugs/oseltamivir/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（2 件）
+## 関連ニュース（1 件）
 
-### [インフルエンザ感染拡大 例年より早い流行 学級閉鎖も相次ぐ 札幌市は小児ドライブスルー発熱外来を開設へ 北海道内全体でも注意報レベルに(FNNプライムオンライン)](https://news.yahoo.co.jp/articles/8f6485cd621c307510a07400682a73d41bec3197?source=rss)
+### [季節性インフルエンザは、基礎疾患を持つ高齢者に多くの合併症をもたらす可能性があります](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWFhmVFQ2cmNmc2tObGFJa2lCYVpfOWRNWmlBOHFjWmQzSnJ4dHZQWUhHUlVUZzhkNVFIdzhZNGJ1MkEwLTZvNHhEX2FJVXpieFJESWVwQm81clZLV3NfbmFIdHlkZWpYNlUzYThqTDJLY2ZvQTRQbGpscFViS1MxWF9BYThKSU12ak4wczNibGNUX2RMU1FZVEdJeU1uck5iZXk4ZTBCMks?oc=5)
 
-2026-11-12 <span class="news-indication-tag">インフルエンザ</span>
+2026-11-07 <span class="news-indication-tag">インフルエンザ</span>
 
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/8f6485cd621c307510a07400682a73d41bec3197?source=rss)
-
----
-
-### [A型インフルエンザが増加、多くの高齢患者が重症化](https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ3J2bUVXc0FoSnBtZXg4ejVOeWJTYVh5dTFUemtEY3BTUkFkTEpIQV9SLVM5WEpYQXFPdEY1RUxKb1ZGbFRRZ2FYNlljMG83aUJsYzl6SWZvVGdibGd4UVByYlBQcFZiSWhlZVBUYy1UMk53TWNWamI1VWNiMkhGbjRuNVhrQUU4UEVZY3cwYlIwMVZDWklnVi03eTlXU25Ub2gw?oc=5)
-
-2026-11-10 <span class="news-indication-tag">インフルエンザ</span>
-
-出典: [Laodong.vn](https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ3J2bUVXc0FoSnBtZXg4ejVOeWJTYVh5dTFUemtEY3BTUkFkTEpIQV9SLVM5WEpYQXFPdEY1RUxKb1ZGbFRRZ2FYNlljMG83aUJsYzl6SWZvVGdibGd4UVByYlBQcFZiSWhlZVBUYy1UMk53TWNWamI1VWNiMkhGbjRuNVhrQUU4UEVZY3cwYlIwMVZDWklnVi03eTlXU25Ub2gw?oc=5)
+出典: [Laodong.vn](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWFhmVFQ2cmNmc2tObGFJa2lCYVpfOWRNWmlBOHFjWmQzSnJ4dHZQWUhHUlVUZzhkNVFIdzhZNGJ1MkEwLTZvNHhEX2FJVXpieFJESWVwQm81clZLV3NfbmFIdHlkZWpYNlUzYThqTDJLY2ZvQTRQbGpscFViS1MxWF9BYThKSU12ak4wczNibGNUX2RMU1FZVEdJeU1uck5iZXk4ZTBCMks?oc=5)
 
 ---
 
