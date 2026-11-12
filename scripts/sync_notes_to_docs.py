@@ -384,6 +384,16 @@ indication_count: {indication_count}
             print("WARNING: factlayer 失敗：", r.stderr[-300:])
     elif synced_names:
         print("WARNING: 找不到 ../.claude/factlayer_20261028.py，頁面事實層未套用（不要在母目錄外單獨跑 sync）")
+    # 2026-11-12 本站查核機制：notes 是查核前的文字，寫完的頁一律重套 docs/_data/drug_reviews.json
+    # （被蓋回的錯句依紀錄再更正、查核框與查核紀錄表補回；說明見 scripts/apply_drug_reviews.py）
+    if synced_names:
+        import sys as _sys2
+        _sys2.path.insert(0, str(Path(__file__).resolve().parent))
+        import apply_drug_reviews as _adr
+        _probs, _chg = _adr.run(only={f"{n}.md" for n in synced_names})
+        print(f"查核紀錄重套：{len(_chg)} 頁、問題 {len(_probs)} 項")
+        for _p in _probs[:20]:
+            print("  ✗", _p)
     print(f"Errors: {len(errors)}")
     if missing_parent:
         print(f"WARNING: no parent page for levels: {sorted(missing_parent)}")

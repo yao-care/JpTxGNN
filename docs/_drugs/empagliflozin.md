@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Empagliflozin"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Empagliflozin：予測新適応症はfocal stiff limb syndrome（局所性スティフ・リム症候群）（エビデンスレベル L5）。既存適応症：2 型糖尿病"
 ---
 
@@ -91,11 +91,37 @@ focal stiff limb syndrome は、スティフパーソン症候群の仲間に属
 - 根拠は TxGNN の予測スコアのみで、臨床試験も文献もなく、機序的な関連も確認できません。
 - 安全性に関する添付文書情報も確認できていません。
 
+<!-- review:begin jp-lic-20261031-empagliflozin-1 -->
+
+> **確認による訂正（2026-10-31）**：元の記載は「日本での承認は取消済みのみで、安全性に関する添付文書情報も確認できていません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-10-31）。データ上の収載は 2 件、うち有効 2 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261031-empagliflozin-1 -->
+
 **進める場合に必要なもの：**
 - 作用機序（MOA）データの取得
 - PMDA 添付文書の警告・禁忌情報の取得と確認
 - スティフパーソン症候群スペクトラムと SGLT2 阻害との機序的関連を示す前臨床・文献的根拠の調査
 - 投与経路や用量の適合性の評価
+
+<!-- review:begin jp-lic-20261106-empagliflozin-2 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「投与経路や用量の適合性の評価／日本での承認状況（取消の経緯と現行の流通状況）の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 2 件、うち有効 2 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-empagliflozin-2 -->
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-10-31 | 削除：「日本での承認は取消済みのみで」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本での承認状況（取消の経緯と現行の流通状況）の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

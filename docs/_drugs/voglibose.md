@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 339
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "Voglibose"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "autoimmune oophoritis", "diffuse alopecia areata", "IDDM 1", "Wolman disease with hypolipoproteinemia and acanthocytosis", "familial apolipoprotein C-II deficiency", "cholesteryl ester storage disease", "opsismodysplasia"]
 description: "Voglibose：予測新適応症は頭皮の単純性乏毛症 (hypotrichosis simplex of the scalp)（スコア第1位）。エビデンスのある代表候補は1型糖尿病 (hypotrichosis simplex of the scalp)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
@@ -80,6 +80,12 @@ TxGNN モデルの予測スコア第1位は**頭皮の単純性乏毛症 (hypotr
 
 以下は主な記録です。
 
+<!-- review:begin jp-lic-20261106-voglibose-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「現在、有効な承認は残っておらず、20 件すべてが整理済み（取り消し・失効）です。以下は主な記録です。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-voglibose-1 -->
+
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
 | 670406390 | ベイスン錠0.2（0.2 mg） | 錠 | 糖尿病治療薬、α-グルコシダーゼ阻害薬、2型糖尿病 |
@@ -103,11 +109,38 @@ TxGNN モデルの予測スコア第1位は**頭皮の単純性乏毛症 (hypotr
 - 予測スコア第1位の乏毛症など、大半の候補は臨床試験も文献もなく、機序的な裏づけもないモデル予測のみ（L5）です。
 - 1型糖尿病は小規模なコホート研究と症例報告があるもののエビデンスは限定的（L3）で、インスリン療法の補助という位置づけに留まるため、現時点では研究課題として扱うのが妥当です。
 
+<!-- review:begin jp-lic-20261106-voglibose-2 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「1型糖尿病は小規模なコホート研究と症例報告があるもののエビデンスは限定的（L3）で、インスリン療法の補助という位置づけに留まるため、現時点では研究課題として扱うのが妥当です。／日本では現行の有効な承認がなく、添付文書の警告・禁忌も未確認です。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-voglibose-2 -->
+
 **進める場合に必要なもの：**
 - PMDA の添付文書（警告・禁忌）の取得と確認（安全性スクリーニングに必須）
 - DrugBank からの作用機序（MOA）データの補完
 - 1型糖尿病について、夜間低血糖や食後血糖管理に関する、より大規模な対照試験の探索または設計
 - 日本での販売状況と流通の再確認
+
+<!-- review:begin jp-lic-20261106-voglibose-3 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「日本での販売状況と流通の再確認（承認が整理済みのため）」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-voglibose-3 -->
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「現在、有効な承認は残っておらず、20 件すべてが整理済み（取り消し・失効）です」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本では現行の有効な承認がなく、添付文書の警告・禁忌も未確認です」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「承認が整理済みのため」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

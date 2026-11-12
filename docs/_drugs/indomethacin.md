@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 162
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Indomethacin：予測新適応症は短指症候群 (Brachydactyly-Syndactyly Syndrome)（エビデンスレベル L5）。既存適応症：関節リウマチ、痛風発作（鎮痛薬・抗炎症薬・解熱薬）"
 monitor_inn: "Indomethacin"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "WHIM syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "brachyolmia", "myosclerosis", "juvenile idiopathic arthritis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "rheumatoid nodulosis"]
@@ -120,6 +120,25 @@ TxGNN モデルは、先天性の肢形成異常である**短指症候群 (Brac
 - 短指症候群の病態に関する前臨床研究など、機序的根拠の探索
 - 小児用量、消化管・腎・肝のモニタリング、相互作用の確認を含む安全性計画（他の適応症の検討に進む場合）
 - 製剤・供給面の確認
+
+<!-- review:begin jp-lic-20261106-indomethacin-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「現在市販中の製剤がないため、製剤・供給面の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 15 件、うち有効 15 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-indomethacin-1 -->
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「現在市販中の製剤がないため」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

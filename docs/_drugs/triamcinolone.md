@@ -5,7 +5,7 @@ parent: 中エビデンスレベル
 nav_order: 323
 evidence_level: L4
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Triamcinolone：予測新適応症は脱毛性粘液症 (Alopecia Mucinosa)（エビデンスレベル L4）。既存適応症：慢性副腎皮質機能不全、関節リウマチ、気管支喘息、ネフローゼ症候群、アトピー皮膚炎…"
 monitor_inn: "Triamcinolone"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
@@ -102,11 +102,23 @@ TxGNN モデルは**脱毛性粘液症 (Alopecia Mucinosa)** に有効である�
 **理由：**
 - 脱毛性粘液症に対する支持根拠は症例報告 2 編のみで、いずれもトリアムシノロンを検証していません。
 
+<!-- review:begin jp-lic-20261106-triamcinolone-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「脱毛性粘液症に対する支持根拠は症例報告 2 編のみで、いずれもトリアムシノロンを検証していません。また、現在日本で有効な承認はなく、添付文書の安全性情報も未確認です。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 12 件、うち有効 12 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-triamcinolone-1 -->
+
 **進める場合に必要なもの：**
 - PMDA 添付文書の警告・禁忌の取得と解析（安全性スクリーニングの前提）
 - 詳細な作用機序データ（DrugBank など）の補完
 - 脱毛性粘液症に対するトリアムシノロン（病変内注射や外用）を直接評価した文献の調査
 - 剤形・投与経路の適合性の確認
+
+<!-- review:begin jp-lic-20261106-triamcinolone-2 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「剤形・投与経路の適合性の確認／販売承認が取消されている状況での供給・再承認の可能性の検討」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 12 件、うち有効 12 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-triamcinolone-2 -->
 
 ### 参考：他の予測適応症
 
@@ -119,6 +131,20 @@ TxGNN は他にも予測しています。ただし、エビデンスは限定�
 | その他 5 疾患（抗体欠損を伴う脱毛症、遺伝性乏毛症など） | 99.7〜0.9999 | L5 | Hold | モデル予測のみ |
 
 毛包炎性脱毛症は、脱毛性粘液症よりも観察研究が多く、優先度の再検討に値します。
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「また、現在日本で有効な承認はなく、添付文書の安全性情報も未確認です」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「販売承認が取消されている状況での供給・再承認の可能性の検討」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

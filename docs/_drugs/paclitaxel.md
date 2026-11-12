@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 234
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "Paclitaxel"
 predicted_indications: ["parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 description: "Paclitaxel：予測新適応症はParameningeal embryonal rhabdomyosarcoma（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
@@ -132,6 +132,12 @@ description: "Paclitaxel：予測新適応症はParameningeal embryonal rhabdomy
 **理由：**
 女性乳癌はすでに日本で承認されている適応症であり、完了した Phase 3 試験が複数あるため、エビデンスは十分です。ただし、これらの多くはパクリタキセルを併用基盤とする試験です。
 
+<!-- review:begin jp-lic-20261106-paclitaxel-2 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「ただし、これらの多くはパクリタキセルを併用基盤とする試験です。また、日本での有効な承認は現在ありません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 12 件、うち有効 12 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-paclitaxel-2 -->
+
 **進める場合に必要なもの：**
 - PMDA の添付文書から警告・禁忌を取得し、安全性スクリーニングを行うこと
 - 作用機序（MOA）データの補完（DrugBank などから）
@@ -139,11 +145,31 @@ description: "Paclitaxel：予測新適応症はParameningeal embryonal rhabdomy
 - 骨髄抑制、末梢神経障害、過敏反応に対するモニタリング計画
 - 相互作用が中等度の併用薬（CYP 関連薬など）の管理方針
 
+<!-- review:begin jp-lic-20261031-paclitaxel-1 -->
+
+> **確認による訂正（2026-10-31）**：元の記載は「有効な販売承認の有無の確認（現状は整理済みのみ）」でした。削除：医薬品マスター（薬価基準収載品目）の収載情報と一致しない記載でした（2026-10-31）。データ上の収載は 12 件、うち有効 12 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261031-paclitaxel-1 -->
+
 **他の予測疾患の扱い（参考）：**
 - ER 陰性乳癌、ER 陽性乳癌、ホルモン抵抗性乳癌：Proceed with Guardrails
 - 両側乳癌、乳房遺伝子発現プロファイル別乳癌：Research Question
 - Ehrlich 腫瘍（マウス）、乳頭癌：Hold（前臨床または症例報告のみ）
 - 傍髄膜胎児型横紋筋肉腫、膣ぶどう状胎児型横紋筋肉腫：Hold（モデル予測のみ）
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-10-31 | 削除：「現状は整理済みのみ」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「また、日本での有効な承認は現在ありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

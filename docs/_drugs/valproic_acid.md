@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 330
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Valproic Acid：予測新適応症は三叉神経腫瘍 (Trigeminal Nerve Neoplasm)（エビデンスレベル L5）。既存適応症：躁病および躁うつ病の躁状態"
 monitor_inn: "Valproic acid"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
@@ -114,11 +114,37 @@ TxGNN モデルは**三叉神経腫瘍 (Trigeminal Nerve Neoplasm)** に有効�
 **理由：**
 最上位の予測（三叉神経腫瘍）は、臨床試験も腫瘍に特異的な文献もなく、TxGNN のスコアだけに頼っています（L5）。
 
+<!-- review:begin jp-lic-20261106-valproic_acid-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「最上位の予測（三叉神経腫瘍）は、臨床試験も腫瘍に特異的な文献もなく、TxGNN のスコアだけに頼っています（L5）。また、日本で有効な承認がなく、添付文書の安全性情報も未確認のため、現時点では先に進めません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 16 件、うち有効 16 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-valproic_acid-1 -->
+
 **進める場合に必要なもの：**
 - 添付文書（警告・禁忌）の取得と安全性評価
 - 詳細な作用機序データ（MOA）の補充
 - 三叉神経腫瘍に対する HDAC 阻害の前臨床データの確認
 - 検討対象の再設定：L4 で比較的根拠のある三叉神経痛や驚愕てんかんを、優先的な研究課題として検討する
+
+<!-- review:begin jp-lic-20261106-valproic_acid-2 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「検討対象の再設定：L4 で比較的根拠のある三叉神経痛や驚愕てんかんを、優先的な研究課題として検討する／日本で承認が失効している経緯の確認（現行の承認状況の再確認）」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 16 件、うち有効 16 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-valproic_acid-2 -->
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「また、日本で有効な承認がなく、添付文書の安全性情報も未確認のため、現時点では先に進めません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本で承認が失効している経緯の確認（現行の承認状況の再確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

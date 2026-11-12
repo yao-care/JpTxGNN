@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 223
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 monitor_inn: "nitrazepam"
 predicted_indications: ["Wernicke-Korsakoff syndrome"]
 description: "Nitrazepam：予測新適応症はWernicke-Korsakoff syndrome（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
@@ -84,6 +84,12 @@ description: "Nitrazepam：予測新適応症はWernicke-Korsakoff syndrome（�
 
 主なものを示します。
 
+<!-- review:begin jp-lic-20261106-nitrazepam-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「すべての承認が取消済みです。主なものを示します。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 20 件、うち有効 20 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-nitrazepam-1 -->
+
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
 | 670454053 | ネルボン錠５ｍｇ（選） | 錠５ｍｇ | 不眠症、点頭てんかん（抗けいれん薬、催眠鎮静薬） |
@@ -113,6 +119,12 @@ description: "Nitrazepam：予測新適応症はWernicke-Korsakoff syndrome（�
 - 高齢者を対象とした持ち越し鎮静、転倒、依存のリスク管理計画
 - 相互作用の重症度の精査
 
+<!-- review:begin jp-lic-20261106-nitrazepam-2 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「現在の市販・供給状況と取消の経緯の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 20 件、うち有効 20 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-nitrazepam-2 -->
+
 ### 参考：その他の予測適応症
 
 次の 2 件はいずれも臨床試験・文献がなく、TxGNN の予測のみ（エビデンスレベル L5）のため、**Hold** と判断します。
@@ -120,6 +132,19 @@ description: "Nitrazepam：予測新適応症はWernicke-Korsakoff syndrome（�
 | 予測適応症 | TxGNN スコア | 備考 |
 |-----------|-------------|------|
 | ウェルニッケ・コルサコフ症候群 | 0.9931 | ベンゾジアゼピンはアルコール離脱に使われるが、根本のチアミン欠乏には作用せず、鎮静が脳症を覆い隠す・悪化させる恐れがある |
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「すべての承認が取消済みです」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「と取消の経緯」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
 
 ## 免責事項
 

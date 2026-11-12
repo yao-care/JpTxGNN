@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Rivaroxaban"
 predicted_indications: ["rheumatoid arthritis", "gout", "HIV infectious disease", "brachydactyly-syndactyly syndrome"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Rivaroxaban：予測新適応症は関節リウマチ (Rheumatoid Arthritis)（エビデンスレベル L5）。既存適応症：抗血栓薬、第Xa因子阻害薬"
 ---
 
@@ -74,6 +74,12 @@ TxGNN モデルは**関節リウマチ (Rheumatoid Arthritis)** に有効であ�
 
 主なものは以下のとおりです。
 
+<!-- review:begin jp-lic-20261106-rivaroxaban-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「現在有効な承認はなく、20 件すべてが取消済みです。主なものは以下のとおりです。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-rivaroxaban-1 -->
+
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
 | 622068301 | イグザレルト錠10mg | 錠10mg | 抗血栓薬, 第Xa因子阻害薬 |
@@ -111,6 +117,19 @@ TxGNN モデルは**関節リウマチ (Rheumatoid Arthritis)** に有効であ�
 
 - **HIV 感染症（スコア 0.9917）**：リバーロキサバンに抗ウイルス作用はなく、文献は HIV 患者での抗凝固薬の安全性（リトナビル/コビシスタットとの相互作用による出血リスク）に関するものです。治療適応ではなく薬物相互作用の問題です。
 - **痛風、短指趾合指症候群、コロボーマ性小眼球症、硬化性胆管炎、全身性肥満細胞症（含むくすぶり型）、ネコ後天性免疫不全症候群、サル免疫不全ウイルス感染症**：機序的根拠や直接的な研究がなく、モデル予測のみ（L5）です。
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「現在有効な承認はなく、20 件すべてが取消済みです」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

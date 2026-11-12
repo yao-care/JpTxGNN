@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 308
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 monitor_inn: "Tiotropium"
 predicted_indications: ["respiratory malformation", "Rienhoff syndrome", "hyperlucent lung", "tracheal stenosis"]
 description: "Tiotropium：予測新適応症はRespiratory malformation（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
@@ -121,10 +121,22 @@ description: "Tiotropium：予測新適応症はRespiratory malformation（エ�
 - COPD を含む閉塞性肺疾患について、完了した複数の Phase 3 RCT と、RCT・メタ解析・Cochrane レビューがあり、エビデンスは L1 に相当します。
 - ただし、この適応症は既存適応症と重なる確認的な内容で、新規再利用ではありません。
 
+<!-- review:begin jp-lic-20261106-tiotropium-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「ただし、この適応症は既存適応症と重なる確認的な内容で、新規再利用ではありません。日本での承認も取消済みで、作用機序と添付文書の安全性データも不足しています。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 3 件、うち有効 3 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-tiotropium-1 -->
+
 **進める場合に必要なもの：**
 - 詳細な作用機序データ（MOA）の補完
 - 日本の添付文書（警告・禁忌）の取得と確認
 - 前立腺肥大症、緑内障、腎機能障害を持つ患者に対する安全性モニタリング計画
+
+<!-- review:begin jp-lic-20261106-tiotropium-2 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「販売承認の取消理由の確認と、現在の供給状況の確認／前立腺肥大症、緑内障、腎機能障害を持つ患者に対する安全性モニタリング計画」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 3 件、うち有効 3 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-tiotropium-2 -->
 
 ### 参考：その他の予測適応症
 
@@ -136,6 +148,19 @@ TxGNN のスコアはいずれも ≥ 0.99 ですが、以下は実質的な根�
 | 重症早期発症 COPD | L4 | Research Question | COPD のサブタイプで間接的な根拠のみ。試験なし |
 | 呼吸器奇形 | L5 | Hold | 嚢胞性線維症の試験は関連が低く、機序の根拠なし |
 | Rienhoff 症候群、代償性肺気腫、間質性肺気腫、過透過性肺、気管狭窄、CD8α鎖変異関連の呼吸器感染感受性 | L5 | Hold | TxGNN の予測のみで、試験・文献なし |
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「日本での承認も取消済みで、作用機序と添付文書の安全性データも不足しています」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「販売承認の取消理由の確認と、現在の供給状況の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
 
 ## 免責事項
 

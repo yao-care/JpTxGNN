@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Levocetirizine"
 predicted_indications: ["rheumatoid arthritis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Levocetirizine：予測新適応症は関節リウマチ (Rheumatoid Arthritis)（エビデンスレベル L5）。既存適応症：アレルギー性鼻炎（抗アレルギー薬、H1 受容体拮抗薬）"
 ---
 
@@ -76,6 +76,12 @@ TxGNN の予測が唯一の根拠であり、臨床試験も文献も存在し�
 
 主な承認は以下のとおりです。
 
+<!-- review:begin jp-lic-20261106-levocetirizine-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「現在、有効な承認はなく、20 件すべてが失効・取消となっています。主な承認は以下のとおりです。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-levocetirizine-1 -->
+
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
 | 622036701 | ザイザル錠５ｍｇ | 錠 | アレルギー性鼻炎（抗アレルギー薬、H1 受容体拮抗薬） |
@@ -106,6 +112,26 @@ TxGNN の予測が唯一の根拠であり、臨床試験も文献も存在し�
 - 関節リウマチにおけるヒスタミン／H1 受容体の関与を示す前臨床・文献調査
 - 日本での販売・承認状況の再確認
 - 腎機能低下患者に対する安全性評価計画
+
+<!-- review:begin jp-lic-20261106-levocetirizine-2 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「日本での販売・承認状況の再確認（失効の理由を含む）」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-levocetirizine-2 -->
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「現在、有効な承認はなく、20 件すべてが失効・取消となっています」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「失効の理由を含む」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 63
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Carvedilol：予測新適応症は悪性高血圧性腎疾患 (malignant hypertensive renal disease)（エビデンスレベル L5）。既存適応症：本態性高血圧症、狭心症、拡張型心筋症、頻脈性心房細動（血圧降下薬、α1β遮断薬）"
 monitor_inn: "Carvedilol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
@@ -115,12 +115,30 @@ TxGNN モデルは**悪性高血圧性腎疾患 (malignant hypertensive renal di
 **理由：**
 悪性高血圧性腎疾患への予測は TxGNN スコアのみに基づき、臨床試験・文献による裏付けがありません。
 
+<!-- review:begin jp-lic-20261106-carvedilol-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「悪性高血圧性腎疾患への予測は TxGNN スコアのみに基づき、臨床試験・文献による裏付けがありません。日本でも現在有効な承認がなく、添付文書の安全性情報も未確認のため、先に進める根拠が不足しています。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-carvedilol-1 -->
+
 **進める場合に必要なもの：**
 - 添付文書（警告・禁忌）の取得と確認
 - 詳細な作用機序データ (MOA) の補充
 - 悪性高血圧性腎疾患に対する臨床・前臨床エビデンスの調査
 - 既存適応症との類似性、投与経路の適合性の評価
 - 悪性高血圧という重症病態での安全性（急激な降圧リスクなど）の検討
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「日本でも現在有効な承認がなく、添付文書の安全性情報も未確認のため、先に進める根拠が不足しています」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
 
 ## 免責事項
 

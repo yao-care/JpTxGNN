@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Limaprost"
 predicted_indications: ["hereditary von Willebrand disease", "small bowel Crohn disease", "gastritis", "Von Willebrand disease, X-linked form", "venous insufficiency (disease)"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Limaprost：予測新適応症は遺伝性フォンヴィレブランド病 (hereditary von Willebrand disease)（エビデンスレベル L5）。既存適応症：閉塞性血栓血管炎、腰部脊柱管狭窄症（血小板凝集抑制薬・血管拡張薬・プロスタグランジンE1受容体作動薬）"
 ---
 
@@ -102,6 +102,25 @@ TxGNN モデルは**遺伝性フォンヴィレブランド病 (hereditary von W
 - 詳細な作用機序データ（MOA）の補充
 - 機序的に妥当性の高い候補（胃炎、静脈不全など）の優先的な再評価と、前臨床・文献調査
 - 投与経路の適合性の評価
+
+<!-- review:begin jp-lic-20261106-limaprost-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「投与経路の適合性の評価／日本での承認取消の経緯の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 8 件、うち有効 8 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-limaprost-1 -->
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「日本での承認取消の経緯の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

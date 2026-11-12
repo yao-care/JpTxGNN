@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 46
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Biperiden：予測新適応症はRasmussen 亜急性脳炎 (Rasmussen subacute encephalitis)（エビデンスレベル L5）。既存適応症：パーキンソン病治療薬（特発性パーキンソニズム、その他のパーキンソニズム）"
 monitor_inn: "Biperiden"
 predicted_indications: ["Rasmussen subacute encephalitis", "myelitis", "PLA2G6-associated neurodegeneration", "transaldolase deficiency", "fructose-1,6-bisphosphatase deficiency", "progressive supranuclear palsy-corticobasal syndrome", "paralysis agitans, juvenile, of Hunt", "Lewy body dementia", "attention deficit-hyperactivity disorder", "X-linked intellectual disability-ataxia-apraxia syndrome"]
@@ -81,6 +81,12 @@ Rasmussen 亜急性脳炎に関する文献はありません。参考として�
 
 Lewy 小体型認知症ではコリン系の機能低下があるため、中枢性抗コリン薬は認知機能を悪化させ、精神症状を増悪させる可能性があります。この予測は再利用の方向性としては支持されません。
 
+<!-- review:begin jp-lic-20261106-biperiden-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「日本では、ビペリデンのすべての承認（9 件）が取消済みです。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 9 件、うち有効 9 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-biperiden-1 -->
+
 ## 日本市販情報
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
@@ -106,6 +112,12 @@ Lewy 小体型認知症ではコリン系の機能低下があるため、中枢
 
 添付文書の警告および禁忌については、詳細を確認できていません。
 
+<!-- review:begin jp-lic-20261106-biperiden-2 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「添付文書の警告および禁忌については、詳細を確認できていません。承認が取消済みの薬剤であるため、添付文書の入手可否も含めて確認が必要です。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 9 件、うち有効 9 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-biperiden-2 -->
+
 ## 結論と次のステップ
 
 **決定：Hold**
@@ -115,11 +127,39 @@ Lewy 小体型認知症ではコリン系の機能低下があるため、中枢
 - 病態は免疫介在性で、抗コリン作用との機序的なつながりも乏しいため、現時点では再利用を進める根拠がありません。
 - 上位 10 件のいずれの予測でも、再利用を支持する十分なエビデンスは得られていません。
 
+<!-- review:begin jp-lic-20261106-biperiden-3 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「上位 10 件のいずれの予測でも、再利用を支持する十分なエビデンスは得られていません。／日本では全承認が取消済みであり、再利用には再承認または新規承認が必要になります。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 9 件、うち有効 9 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-biperiden-3 -->
+
 **進める場合に必要なもの：**
 - 添付文書の警告・禁忌情報の取得と確認（PMDA）
 - 詳細な作用機序データ（DrugBank など）の補充
 - Rasmussen 脳炎における免疫・コリン系の関与に関する前臨床または機序研究
 - 機序的に比較的妥当な疾患（若年性パーキンソン病、非定型パーキンソニズム、PLA2G6 関連神経変性症）について、症例報告やレビューを含む文献の追加調査
+
+<!-- review:begin jp-lic-20261106-biperiden-4 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「機序的に比較的妥当な疾患（若年性パーキンソン病、非定型パーキンソニズム、PLA2G6 関連神経変性症）について、症例報告やレビューを含む文献の追加調査／日本での承認状況（取消の経緯、再承認の可能性）の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 9 件、うち有効 9 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-biperiden-4 -->
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「日本では、ビペリデンのすべての承認（9 件）が取消済みです」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「承認が取消済みの薬剤であるため、添付文書の入手可否も含めて確認が必要です」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本では全承認が取消済みであり、再利用には再承認または新規承認が必要になります」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本での承認状況（取消の経緯、再承認の可能性）の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

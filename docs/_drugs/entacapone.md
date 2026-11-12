@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 110
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Entacapone：予測新適応症はPLA2G6 関連神経変性症 (PLA2G6-associated neurodegeneration)（エビデンスレベル L5）。既存適応症：パーキンソン病（COMT 阻害薬、抗ジスキネジア）"
 monitor_inn: "Entacapone"
 predicted_indications: ["PLA2G6-associated neurodegeneration", "Rasmussen subacute encephalitis", "myelitis", "paralysis agitans, juvenile, of Hunt", "transaldolase deficiency", "lethal infantile mitochondrial myopathy", "Lewy body dementia", "fructose-1,6-bisphosphatase deficiency", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "progressive supranuclear palsy-corticobasal syndrome"]
@@ -80,6 +80,12 @@ PLA2G6 関連神経変性症にはジストニア・パーキンソニズムの�
 
 他に「エンタカポン錠１００ｍｇ「アメル」」があります。
 
+<!-- review:begin jp-lic-20261106-entacapone-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「他に「エンタカポン錠１００ｍｇ「アメル」」（承認番号 622498501、取消）があります。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 6 件、うち有効 6 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-entacapone-1 -->
+
 ## 安全性に関する考慮事項
 
 - **禁忌（知識グラフ上の情報）**：添付文書の記載ではなく、TxGNN の知識グラフにある薬物-疾患の禁忌関係です。多系統萎縮症、起立性低血圧、薬剤性ジスキネジア、てんかん、肝疾患、腎疾患、消化性潰瘍、緑内障（開放隅角・閉塞隅角）、精神疾患（統合失調症様障害・統合失調感情障害など）、糖尿病・糖尿病性ケトアシドーシス、黒色腫、心筋梗塞・冠動脈血栓症、突然の心停止、心伝導障害、ヘモグロビン異常症、下痢性疾患などが挙げられています。
@@ -111,6 +117,19 @@ PLA2G6 関連神経変性症にはジストニア・パーキンソニズムの�
 | 10 | 進行性核上性麻痺-大脳皮質基底核症候群 | 0.9904 | L5 | 歩行解析の観察研究のみで、エンタカポンは評価されていない |
 
 その他の予測（Rasmussen 脳炎、脊髄炎、トランスアルドラーゼ欠損症、乳児致死性ミトコンドリアミオパチー、フルクトース-1,6-ビスホスファターゼ欠損症、多小脳回症候群）は、機序的な裏付けがなく、優先度は低いと考えられます。
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「承認番号 622498501、取消」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

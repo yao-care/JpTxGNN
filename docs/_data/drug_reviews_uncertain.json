@@ -1,0 +1,4 @@
+{
+ "_doc": "藥物頁待查清單（2026-11-12 建，比照 TwTxGNN／UsTxGNN docs/_data/drug_reviews_uncertain.json）。項目不刪：查清標 status: resolved（附 record_ids，指向 docs/_data/drug_reviews.json 的紀錄），查不出定論標 status: unresolvable（附 searched、unresolvable_reason）。",
+ "items": []
+}

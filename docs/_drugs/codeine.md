@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 78
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "Codeine"
 predicted_indications: ["nasal cavity disease", "trigeminal autonomic cephalalgia", "allergic urticaria"]
 description: "Codeine：予測新適応症は鼻腔疾患 (nasal cavity disease)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
@@ -71,6 +71,12 @@ TxGNN モデルは**鼻腔疾患 (nasal cavity disease)** に有効である可�
 
 主なものは以下のとおりです。
 
+<!-- review:begin jp-lic-20261106-codeine-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「日本で現在有効な承認はなく、20 件すべてが失効・取消です。主なものは以下のとおりです。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-codeine-1 -->
+
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
 | 620005841 | コデインリン酸塩錠５ｍｇ「シオエ」 | 錠 5 mg | 麻薬性鎮痛薬、鎮咳薬、オピオイド受容体作動薬 |
@@ -95,6 +101,12 @@ TxGNN モデルは**鼻腔疾患 (nasal cavity disease)** に有効である可�
 **理由：**
 - 予測スコアは高いものの、臨床試験はなく、文献も治療効果を示さない症例報告 1 編のみで、機序的な根拠も乏しい状況です。
 
+<!-- review:begin jp-lic-20261106-codeine-2 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「予測スコアは高いものの、臨床試験はなく、文献も治療効果を示さない症例報告 1 編のみで、機序的な根拠も乏しい状況です。／日本では有効な承認がなく、添付文書の安全性情報も確認できていません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-codeine-2 -->
+
 **進める場合に必要なもの：**
 - PMDA 添付文書の警告・禁忌の取得と確認
 - 詳細な作用機序データ（MOA）の補完
@@ -104,6 +116,20 @@ TxGNN モデルは**鼻腔疾患 (nasal cavity disease)** に有効である可�
 ### 参考：他の予測候補
 
 アレルギー性蕁麻疹や寒冷蕁麻疹では、コデインは治療薬ではなく肥満細胞の脱顆粒を起こす誘発物質として扱われており、再利用には不適切です。
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「日本で現在有効な承認はなく、20 件すべてが失効・取消です」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本では有効な承認がなく、添付文書の安全性情報も確認できていません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

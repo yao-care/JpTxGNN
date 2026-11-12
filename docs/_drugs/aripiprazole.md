@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 29
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 monitor_inn: "Aripiprazole"
 predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
 description: "Aripiprazole：予測新適応症はGaze palsy, familial horizontal, with progressive scoliosis（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
@@ -124,12 +124,31 @@ description: "Aripiprazole：予測新適応症はGaze palsy, familial horizonta
 - 詳細な作用機序データ（DrugBank）の補完
 - 血糖、脂質、体重、好中球数などのモニタリング計画、および併用薬（特にブプロピオン）の管理方針
 
+<!-- review:begin jp-lic-20261106-aripiprazole-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「現在有効な日本の承認がないため、販売状況と承認の現状を確認すること／血糖、脂質、体重、好中球数などのモニタリング計画、および併用薬（特にブプロピオン）の管理方針」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-aripiprazole-1 -->
+
 ## 補足：その他の予測適応症
 
 上位 10 件のうち、他の予測は裏付けが乏しい状態です。
 
 - **トリコチロマニア（抜毛症、スコア 0.9926）**：エビデンスレベル L3。非盲検試験 1 件と症例報告があります。Phase 2 のプラセボ対照試験は未開始です。一方で、アリピプラゾール自体が抜毛症などの衝動・強迫行動を引き起こす報告もあり、リスクとベネフィットの評価が必要です。
 - **アスペルガー症候群感受性、Phelan-McDermid 症候群ほか希少疾患 7 件**：臨床試験・文献ともになく、モデル予測のみ（L5、Hold）です。
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「現在有効な日本の承認がないため、販売状況と承認の現状を確認すること」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 104
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Duloxetine：予測新適応症は乳児良性発作性斜頸 (Benign Paroxysmal Torticollis of Infancy)（エビデンスレベル L5）。既存適応症：抗うつ薬、セロトニン・ノルアドレナリン再取り込み阻害薬"
 monitor_inn: "Duloxetine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "obsessive-compulsive disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "paranoid personality disorder", "schizotypal personality disorder", "Ohdo syndrome and variants", "ligneous conjunctivitis", "blepharophimosis - intellectual disability syndrome, Ohdo type"]
@@ -111,11 +111,30 @@ TxGNN モデルは**乳児良性発作性斜頸 (Benign Paroxysmal Torticollis o
 **理由：**
 - 乳児良性発作性斜頸については、臨床試験も文献もなく、モデル予測のみの L5 です。
 
+<!-- review:begin jp-lic-20261106-duloxetine-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「乳児良性発作性斜頸については、臨床試験も文献もなく、モデル予測のみの L5 です。／対象が乳児であることや、日本で現在有効な承認がないことも、進めにくい要因です。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-duloxetine-1 -->
+
 **進める場合に必要なもの：**
 - 添付文書の警告・禁忌情報の取得と安全性スクリーニング
 - 詳細な作用機序データの補充
 - 本疾患と片頭痛関連病態の関係、および乳児への適用可否の文献調査
 - 優先度を再検討する場合は、エビデンスのある強迫性障害を候補として評価する
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「対象が乳児であることや、日本で現在有効な承認がないことも、進めにくい要因です」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Silodosin"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Silodosin：予測新適応症はAmbras 型先天性汎発性多毛症 (Ambras type hypertrichosis universalis congenita)（エビデンスレベル L5）。既存適応症：排尿障害改善薬、α1アドレナリン受容体拮抗薬"
 ---
 
@@ -104,6 +104,25 @@ TxGNN モデルは **Ambras 型先天性汎発性多毛症 (Ambras type hypertri
 - DrugBank からの作用機序（MOA）データの補充
 - α1A 遮断と毛包・多毛症との関連を示す前臨床・機序研究の探索
 - 予測上位疾患（多毛症、毛髪異常）が希少遺伝性疾患であることを踏まえた、実現可能性と必要性の再評価
+
+<!-- review:begin jp-lic-20261106-silodosin-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「予測上位疾患（多毛症、毛髪異常）が希少遺伝性疾患であることを踏まえた、実現可能性と必要性の再評価／販売承認が取消済みである点を踏まえた、供給・開発の見通しの確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-silodosin-1 -->
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「販売承認が取消済みである点を踏まえた、供給・開発の見通しの確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

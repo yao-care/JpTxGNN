@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 334
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "Verapamil"
 predicted_indications: ["obsolete bundle branch block", "malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "periodic paralysis with transient compartment-like syndrome"]
 description: "Verapamil：予測新適応症は閉塞性脚ブロック (obsolete bundle branch block)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
@@ -110,6 +110,12 @@ TxGNN モデルは **閉塞性脚ブロック (obsolete bundle branch block)** �
 
 主なもの：
 
+<!-- review:begin jp-lic-20261106-verapamil-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「現在有効な承認はなく、10 件すべてが取消済みです。主なもの：」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 10 件、うち有効 10 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-verapamil-1 -->
+
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
 | 620004629 | ワソラン錠40mg | 錠 | 抗不整脈薬、血管拡張薬、カルシウムチャネル遮断薬（心房細動、狭心症、心筋梗塞） |
@@ -135,11 +141,38 @@ TxGNN モデルは **閉塞性脚ブロック (obsolete bundle branch block)** �
 **理由：**
 - 予測 1 位の閉塞性脚ブロックには臨床試験も文献もなく、機序的にも支持されず、ベラパミルが伝導障害を悪化させる懸念があります。
 
+<!-- review:begin jp-lic-20261106-verapamil-2 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「予測 1 位の閉塞性脚ブロックには臨床試験も文献もなく、機序的にも支持されず、ベラパミルが伝導障害を悪化させる懸念があります。／日本では現在有効な承認がなく、添付文書の安全性情報も未取得のため、先に進める根拠が不足しています。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 10 件、うち有効 10 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-verapamil-2 -->
+
 **進める場合に必要なもの：**
 - PMDA 添付文書の警告・禁忌情報の取得（安全性スクリーニングの前提）
 - DrugBank からの詳細な作用機序データの取得
 - 肺高血圧症（低酸素・肺疾患に伴うもの）や不整脈原性右室心筋症を優先候補とする再評価（L4 のため研究課題として検討可）
 - 房室ブロック・心不全など伝導障害や心機能低下のある集団に対するリスク評価
+
+<!-- review:begin jp-lic-20261106-verapamil-3 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「房室ブロック・心不全など伝導障害や心機能低下のある集団に対するリスク評価／日本での承認取消の経緯の確認と、投与経路・剤形の適合性評価」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 10 件、うち有効 10 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-verapamil-3 -->
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「現在有効な承認はなく、10 件すべてが取消済みです」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本では現在有効な承認がなく、添付文書の安全性情報も未取得のため、先に進める根拠が不足しています」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本での承認取消の経緯の確認と、投与経路・剤形の適合性評価」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

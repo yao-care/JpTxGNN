@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Tadalafil"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly", "kyphoscoliotic heart disease", "migraine with brainstem aura"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Tadalafil：予測新適応症はAmbras 型汎発性先天性多毛症 (Ambras type hypertrichosis universalis congenita)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 
@@ -93,12 +93,31 @@ TxGNN モデルは **Ambras 型汎発性先天性多毛症 (Ambras type hypertri
 **理由：**
 - 予測された適応症に対する臨床試験・文献がなく、エビデンスはモデル予測のみ（L5）です。機序的にも PDE5 阻害との関連が乏しく、遺伝性疾患のため治療的根拠が見当たりません。
 
+<!-- review:begin jp-lic-20261106-tadalafil-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「機序的にも PDE5 阻害との関連が乏しく、遺伝性疾患のため治療的根拠が見当たりません。／日本ではすべての承認が整理済みで、市販中の製品がありません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-tadalafil-1 -->
+
 **進める場合に必要なもの：**
 - 添付文書の警告・禁忌情報の取得（PMDA 添付文書の確認）
 - 詳細な作用機序（MOA）データの補充
 - 多毛症など毛髪関連疾患に対する前臨床・機序研究
 - 予測疾患の機序的妥当性の再評価（候補の優先順位の見直しを含む）
 - 現在の日本での供給・承認状況の確認
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「日本ではすべての承認が整理済みで、市販中の製品がありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

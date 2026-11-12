@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Istradefylline"
 predicted_indications: ["Rasmussen subacute encephalitis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Istradefylline：予測新適応症はラスムッセン亜急性脳炎 (Rasmussen subacute encephalitis)（エビデンスレベル L5）。既存適応症：パーキンソン病（および関連するパーキンソニズム症候群）"
 ---
 
@@ -83,11 +83,37 @@ TxGNN モデルは **ラスムッセン亜急性脳炎 (Rasmussen subacute encep
 **理由：**
 予測を支える臨床試験も文献もなく、エビデンスはモデル予測のみ (L5) です。
 
+<!-- review:begin jp-lic-20261106-istradefylline-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「予測を支える臨床試験も文献もなく、エビデンスはモデル予測のみ (L5) です。作用機序データと添付文書の警告・禁忌も未確認で、日本の承認も取消済みのため、現段階で先に進める根拠はありません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 1 件、うち有効 1 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-istradefylline-1 -->
+
 **進める場合に必要なもの：**
 - 添付文書（PMDA）の警告・禁忌の取得と解析（安全性スクリーニングに必須）
 - 作用機序 (MOA) データの補完（DrugBank など）
 - A2A 拮抗とラスムッセン脳炎の病態（神経炎症・てんかん）を結ぶ前臨床・機序研究の調査
 - 関連する臨床試験・文献の再検索
+
+<!-- review:begin jp-lic-20261106-istradefylline-2 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「関連する臨床試験・文献の再検索／日本での承認取消の経緯の確認と、剤形・投与経路の適合性評価」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 1 件、うち有効 1 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-istradefylline-2 -->
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「作用機序データと添付文書の警告・禁忌も未確認で、日本の承認も取消済みのため、現段階で先に進める根拠はありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本での承認取消の経緯の確認と、剤形・投与経路の適合性評価」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

@@ -31,6 +31,9 @@
      不等於事實（valid_under；至少 N、部分紀錄、表外另有 N 張、表格列出的 N 張、單方張數不少於事實單方有效張數的不算）
      M3 英文「單方／複方」說法跟事實不符（2026-11-06，COMBO_X_SITES：10 個英文站；Us、Au、In、Ca 修好各站 reviewer 的成分數判定後啟用）：
      寫全部單方／沒有複方但有效許可有複方、寫只有複方但有單方、單方張數多於事實（combo_x）
+     M3 第二批 15 站（2026-11-06；AR、Br、CH、DE、FI、FR、Hk、IT、Jp、NO、Nl、SA、SE、Th 加進 M3X_SITES，Tw 由自己的查核機制處理）：
+     X_LOCAL 加 de、fi、no、it、sv、fr、pt、nl、zh、ja、ar、th 的寫法（canc／ccount／total 鍵），X_SCOPE 站只判「事實有效卻說沒有／註銷」；
+     M5 加各語言的台灣模板殘留（TW_LEFTOVER_X，TWX_SITES）
      M3l 清單站（Uk、NZ、Ph）第四輪（2026-11-06）：說許可資料應去 MHRA／Medsafe／FDA PH 擷取、重跑擷取流程、許可資料／紀錄不完整或尚未載入（LIST_PIPE；仿單缺漏不算）
 D1 一頁只能有一份報告（2026-11-03 用戶決定）：報告標題＝H2 後一行是「{: .text-alpha }」；兩個以上就錯
    （過去產生時殘留的第二份舊報告、或模型自己「更正標題」留下的第二個標題；修法見 drop_duplicate_reports_20261103.py）
@@ -587,6 +590,7 @@ AT_LEAST = re.compile(r"at least|al menos|pelo menos|mindestens|mindst|vähintä
 #   M3c 事實有註銷張數（非部分紀錄），正文寫全部有效／沒有註銷，或正文寫的有效張數多於事實
 # 只在 M3X_SITES 的站啟用：新規則上線前，該站頁面要先清到 0（否則許可證排程的 checker 會擋下整批）；selftest 一律測。
 M3X_SITES = {"COTxGNN", "CaTxGNN", "DkTxGNN", "ESTxGNN", "KrTxGNN", "EuTxGNN", "MyTxGNN", "NZTxGNN", "PhTxGNN", "SgTxGNN", "UkTxGNN", "UsTxGNN", "ZaTxGNN"}
+M3X_SITES |= {"DETxGNN", "CHTxGNN", "FITxGNN", "NOTxGNN", "ITTxGNN", "SETxGNN", "FRTxGNN", "BrTxGNN", "NlTxGNN", "ARTxGNN", "HkTxGNN", "JpTxGNN", "SATxGNN", "ThTxGNN"}  # 2026-11-06 第二批（依站清到 0 後逐站加入）
 M3X_LANGS = ("en", "en-us")
 VALID_CLAIM = re.compile(r"\bvalid status\b|\b(is|are|remains?) (currently |still )?valid\b|\bcurrently valid\b|"
                          r"\bvalid (single[\w-]*|registrations?|licen[cs]es?|authori[sz]ations?|approvals?|SAHPRA|products?|records?|entr(y|ies))\b|"
@@ -664,6 +668,29 @@ TW_LEFTOVER = re.compile(r"Taiwan (Market(ing)? Status|Approved Licen|regulatory
                          r"Number of Taiwan Licen|\b\d+ Taiwan licen|No Taiwan licen[cs]e records?|TFDA database|"
                          r"taiwan_regulatory|not in Taiwan TFDA|TFDA (query|records?|licen|official|package insert)|parse the TFDA|for the Taiwan context|"
                          r"대만[^.|]{0,12}(허가|시판|식약|미허가|규제|등록)|\(대만\)|대만\(한국\)|台灣上市|臺灣上市", re.I)
+# 2026-11-06 第二批 15 站：各語言的台灣模板殘留（台灣市場狀態列、TFDA 仿單／資料庫、台灣許可證）。TFDA 在非 Tw 站一律是模板殘留；
+# 「Taiwan」只在跟市場／許可字連在一起時算（文獻表裡「台灣的研究」不算）。只在 TWX_SITES 啟用（新規則上線前該站頁面要先清到 0）
+TW_LEFTOVER_X = re.compile(
+    r"\bTFDA\b|台灣食藥署|食品藥物管理署|\b(Status|Stato|Statut|Estado|Situação|Marktstatus|Markedsstatus|Marknadsstatus)\b[^|.]{0,40}\bTa[iï]w[aá]n\w*|Taiwan\w*[- ](marked|marknad|markt|mercato|mercado|marché|markkin)\w*|"
+    r"Taiwan(?:-|\s)?Markt\w*|taiwanische[nr]? (Markt\w*|Zulassung\w*|Lizenz\w*)|Markt(?:status)?\s+(?:in\s+)?Taiwan|Zulassung\w* (in|für) Taiwan|"
+    r"march[ée] taïwanais|statut (de marché|du marché) (à|de) Taïwan|Taïwan[^.|]{0,20}(AMM|autorisation|commercialis)|"
+    r"mercato (di |a |taiwanese)?Taiwan|stato (di mercato|del mercato) (a|di|in) Taiwan|Taiwan[^.|]{0,20}(autorizzazion|commercio)|"
+    r"mercado (de |em |taiwanês|taiwanés)?Taiwán?|Taiw[aá]n[^.|]{0,20}(registro|comercializ|autoriza)|"
+    r"Taiwan(?:ese)? markt\w*|markt(status)? (in |van )?Taiwan|Taiwan[^.|]{0,20}(vergunning|handel)|"
+    r"Taiwan(?:s)? marknad|marknadsstatus (i )?Taiwan|Taiwan[^.|]{0,20}(godkännande|marknadsför)|"
+    r"Taiwan(?:s)? marked|markedsstatus (i )?Taiwan|Taiwan[^.|]{0,20}(godkjenning|markedsfør)|"
+    r"Taiwan\w*[- ](markkin|sääntely|pakkaus)\w*|markkina\w* Taiwanissa|markkinoilla Taiwanissa|Taiwan\w*[^.|]{0,20}(myyntilu|markkinoil)|"
+    r"台灣(市場|上市|許可|核准|藥證)|臺灣(市場|上市|許可|核准|藥證)|台湾(市場|市販|上市|承認|許可)|"
+    r"السوق التايوانية|حالة السوق في تايوان|تايوان[^.|]{0,20}(ترخيص|تراخيص|تسويق)|"
+    r"ตลาดไต้หวัน|สถานะ(การวางจำหน่าย|ตลาด)(ใน)?ไต้หวัน|ไต้หวัน[^.|]{0,20}(ทะเบียน|จำหน่าย)", re.I)
+TWX_SITES = {"DETxGNN", "CHTxGNN", "FITxGNN", "NOTxGNN", "ITTxGNN", "SETxGNN", "FRTxGNN", "BrTxGNN", "NlTxGNN", "ARTxGNN", "HkTxGNN", "JpTxGNN", "SATxGNN", "ThTxGNN"}
+
+
+def tw_left(site, s):
+    """非 Tw 站的台灣模板殘留（M5）：原本的 TW_LEFTOVER＋第二批站的各語言寫法"""
+    if site == "TwTxGNN":
+        return False
+    return bool(TW_LEFTOVER.search(s) or (site in TWX_SITES and TW_LEFTOVER_X.search(s)))
 
 
 _KEEP = {}
@@ -693,6 +720,10 @@ NOREG_EXTRA["SgTxGNN"] = re.compile(
     r"\b(registration|regulatory) (registration )?records? (are|is) absent\b|\bcurrently unregistered\b|\bunregistered in Singapore\b|"
     r"\bregulatory data returned zero\b|\bnot present in regulatory data\b|\btotal_licen[cs]es\W{0,3}[:=]\s*0\b|\bno local regulatory data\b|"
     r"\bno approved registration\b|\bno Singapore market registration\b|\bno Singapore regulatory\b", re.I)
+# AR（2026-11-06，西文，給付清單站）：舊證據包頁說「在阿根廷查無上市許可（0 licencias）」；PAMI 清單有本藥品項時，這些說法跟事實矛盾
+NOREG_EXTRA["ARTxGNN"] = re.compile(
+    r"\bno se (registraron|identificaron|encontraron) (\w+ )?autorizaci\w+|\bno (cuenta con|posee) (\w+ )?autorizaci\w+ de (comercializaci|mercado)\w*|"
+    r"\b0 licencias\b|\bausencia de datos regulatorios en Argentina\b|\bno existen autorizaciones de comercializaci\w+", re.I)
 # EU（2026-11-06，英文）：舊頁依當時的單筆紀錄寫「本藥（唯一）的 EU 許可已註銷」；本站有有效集中許可時判 M3b
 # （「earlier／previously／in 2017」這類講過去某個許可的句子不算）
 NOREG_EXTRA["EuTxGNN"] = re.compile(
@@ -714,6 +745,7 @@ CTX_NARROW = {"COTxGNN": re.compile(r"NCT\d|registro de ensayos?|EudraCT|REEC|Cl
 
 # 判定前先拿掉 Markdown 粗體／斜體記號的站（「están **cancelados**」原本對不上；只在新上線的站啟用，已上線的站維持原判定）
 EMPH_STRIP = {"COTxGNN", "NZTxGNN", "PhTxGNN", "SgTxGNN", "UkTxGNN"}
+EMPH_STRIP |= {"DETxGNN", "CHTxGNN", "FITxGNN", "NOTxGNN", "ITTxGNN", "SETxGNN", "FRTxGNN", "BrTxGNN", "NlTxGNN", "ARTxGNN", "HkTxGNN", "JpTxGNN", "SATxGNN", "ThTxGNN"}  # 2026-11-06 第二批（依站清到 0 後逐站加入）
 
 # M3 擴充（2026-11-06，Us 用戶決定）：英文「全部註銷」的漏網寫法。ALL_CANCEL 只認「all … licence … cancelled」且許可字在 all 後 40 字內，
 # 漏掉（例 Us 依成分重建後仍留在正文的舊句）：
@@ -1286,24 +1318,514 @@ X_LOCAL["ms"] = dict(
     cw=r"batal|cancel|tamat|expir", preneg=r"\b(tidak|tiada|tanpa|bukan|belum)\b[^.;]{0,30}$")
 
 
+# ---------- 2026-11-06 第二批 15 站（AR、Br、CH、DE、FI、FR、Hk、IT、Jp、NO、Nl、SA、SE、Th、Tw）的當地語言寫法 ----------
+# 舊證據包頁的錯誤前提（用戶決定照前 15 站的做法只刪矛盾子句）。新增的鍵（舊語言 es／ko／da／ms 沒有，判定不變）：
+#   canc   ：說某張／本藥的許可已註銷、撤銷、失效（事實沒有任何註銷、有效 >0 時一定矛盾 → M3b）；hist 命中（講過去的事、年份）不算
+#   ccount ：說另有 N 張註銷，N 多於事實的註銷張數 → M3c
+#   total  ：說共 N 張（group(1)），跟事實總數不同 → M3c（部分紀錄不判）
+# X_SCOPE：事實層只涵蓋部分來源（EMA 集中許可、藥價收載、Thai FDA 查詢系統、CBG 對不齊）的站，「查無／全部註銷」時正文說有效／上市
+# 可能是對的（國家許可），M3a／M3d 不判，只判「事實有效卻說沒有／註銷」這一側。
+X_SCOPE = {"DETxGNN", "FITxGNN", "NOTxGNN", "JpTxGNN", "ThTxGNN", "NlTxGNN", "ARTxGNN", "HkTxGNN", "SATxGNN"}
+_NUMW_DE = {"eine": 1, "einer": 1, "ein": 1, "zwei": 2, "drei": 3, "vier": 4, "fünf": 5, "sechs": 6, "sieben": 7, "acht": 8, "neun": 9,
+            "zehn": 10, "elf": 11, "zwölf": 12, "beide": 2, "beiden": 2}
+_NDE = r"(\d+|" + "|".join(sorted(_NUMW_DE, key=len, reverse=True)) + r")"
+_LIC_DE = r"(?:(?:EU-|EMA-|Markt|zentrale[nr]? (?:EU-)?|europäische[nr]? |deutsche[nr]? |schweizerische[nr]? |nationale[nr]? )?Zulassung(?:en)?|Genehmigung(?:en)?|Lizenz(?:en)?|Zulassungsstatus)"
+_CANC_DE = r"(?:erlosch\w*|aufgehoben\w*|zurückgezogen\w*|widerruf\w*|gelöscht\w*|annulliert\w*|storniert\w*|außer Kraft|nicht mehr gültig|ungültig\w*|\bcancel+ed\b|„cancelled“)"
+X_LOCAL["de"] = dict(
+    neg=re.compile(r"\b(nicht|keine?[nrms]?|ohne|weder)\b[^.;]{0,30}(gültig|im Handel|im Verkehr|vermarktet|zugelassen|erhältlich)", re.I),
+    valid=re.compile(r"\b(ist|sind|bleib\w*)\s+(\w+\s+){0,2}gültig\b|\bgültige[n]? (EU-)?Zulassung(en)?\b|\b\d+ von \d+ Zulassungen gültig|\bStatus:? „?(gültig|zugelassen|authorised)", re.I),
+    mkt=re.compile(r"\b(ist|sind|wird|werden)\s+(\w+\s+){0,3}(im Handel|im Verkehr|vermarktet)\b|\bin (Deutschland|der Schweiz) (im Handel|im Verkehr|erhältlich|vermarktet)\b", re.I),
+    noreg=re.compile(
+        r"\b(alle|sämtliche|beide|beiden)\b[^.;]{0,80}?" + _LIC_DE + r"[^.;]{0,80}?" + _CANC_DE + r"|"
+        r"\b" + _LIC_DE + r"\b[^.;]{0,60}?\b(sämtlich|alle|allesamt|beide)\b[^.;]{0,20}?" + _CANC_DE + r"|"
+        r"\b(die|eine|seine|ihre|deren) (einzige|alleinige|einzig erfasste)\b[^.;]{0,50}?" + _LIC_DE + r"[^.;]{0,60}?" + _CANC_DE + r"|"
+        r"\b(die|seine|ihre|deren)\s+(deutsche[n]?|europäische[n]?|schweizerische[n]?|zentrale[n]?|EU-|EMA-)\s*Zulassung(en)?\b[^.;,]{0,50}?\b(ist|sind|wurde|wurden|gilt|gelten|wird|werden)\b[^.;,]{0,40}?" + _CANC_DE + r"|"
+        r"\b(die|seine|ihre|deren)\s+Zulassung(en)?\s+(in|für) (Deutschland|der Schweiz|der EU|Europa)\b[^.;,]{0,40}?" + _CANC_DE + r"|"
+        r"\b(Die|die) Zulassungen\b(?! (für|von|des|der|zu|mit)\b)[^.;,]{0,40}?\b(sind|wurden)\b[^.;,]{0,25}?" + _CANC_DE + r"|"
+        r"\b(nur noch|nur|lediglich)\b[^.;]{0,25}?(eine )?" + _CANC_DE + r"[^.;]{0,15}?Zulassung|\bZulassung\w*\b[^.;]{0,40}?\bnur noch\b[^.;]{0,20}?" + _CANC_DE + r"|"
+        r"\b(erlosch\w*|aufgehoben\w*)\w* Zulassungs(status|lage)\b|"
+        r"\bkeine (gültige|aktive|aktuelle|bestehende|gültigen|aktiven) " + _LIC_DE + r"|\bkein(en)? gültige[nr]? Zulassungsstatus|"
+        r"\bGültige Zulassungen gibt es (derzeit |aktuell )?nicht\b|\bfehl\w*\b[^.;]{0,30}\bgültige[n]? (EU-)?Zulassung|\bfehlende[n]? gültige[n]? Zulassung|"
+        r"\bkeine (EU-|EMA-)?Zulassungen? (\w+ ){0,4}(erfasst|verzeichnet|vorhanden|gefunden|registriert)\b(?![^.;]{0,30}\b(für die|für diese|zur) (vorhergesagte|neue)?\s*(Indikation|Anwendung))|"
+        r"\bkeine (\w+ ){0,2}Zulassung\w* (\w+ ){0,3}(aktiv|gültig)\b|\bFehlen einer gültigen (EU-)?Zulassung|"
+        r"\b(eine|keine)? ?gültige[n]? (EU-)?Zulassung(en)?\b[^.;]{0,50}?\bnicht\s+(\w+\s+)?(vor|verzeichnet|vorhanden|erfasst|bestehen|besteht)\b|"
+        r"\bgültige[n]? (EU-)?Zulassung(en)? (besteht|bestehen|gibt es|liegt|liegen)\b[^.;]{0,30}\bnicht\b|"
+        r"\bgültige[n]?\b[^.;]{0,30}?zulassung(en)?\b[^.;]{0,50}?\b(besteht|bestehen|liegt|liegen|gibt es)\b[^.;]{0,40}?\bnicht\b|"
+        r"\bkeine Lizenzen\b|\b0 (EU-)?(Zulassungen|Lizenzen|Genehmigungen)\b|\b0-Ergebnis|\bNull-Ergebnis|\bFehlen von Einträgen\b|\bDatenbeschaffungslücke\b|"
+        r"\bnicht (in Deutschland|in der Schweiz|in der EU|EU-weit) zugelassen\b(?![^.;]{0,30}\b(für|zur|bei)\b)|\bin (Deutschland|der Schweiz) nicht zugelassen\b(?![^.;]{0,30}\b(für|zur|bei)\b)|"
+        r"\bStatus\b[^.;]{0,20}?„(erloschen|aufgehoben|erloschen/zurückgezogen|erloschen/aufgehoben|cancelled)", re.I),
+    canc=re.compile(r"\b(" + _LIC_DE + r"|Marktstatus|Vermarktungsstatus)\b[^.;:]{0,120}?" + _CANC_DE + r"|" + _CANC_DE + r"[e]?[nrs]?\s+(\w+[- ]){0,2}(" + _LIC_DE + r"|Marktstatus|Vermarktungsstatus|Eintr(a|ä)g\w*)\b|"
+                    r"\bStatus\b[^.;]{0,20}?„?(erloschen|aufgehoben|cancelled)", re.I),
+    hist=re.compile(r"EMEA/V/|Tierarzneimittel|veterinärmedizinische[nr]? Zulassung|\b(19|20)\d\d\b|\bfrüher\w*|\behemals\b|\bzuvor\b|\bdamals\b|\bvorübergehend\b|\berneut erteilt|\bwieder(zugelassen| erteilt)|\bAntrag\w*|Zulassungsantrag|"
+                    r"\b(Studie|Studien|Prüfung)\b[^.;]{0,30}(zurückgezogen|abgebrochen)|\bIndikation\w*\b[^.;]{0,30}(zurückgezogen|gestrichen|widerrufen)|\bvom Markt genommen\b", re.I),
+    none_cancel=re.compile(r"\b(keine?[nrms]?|ohne)\s+(\w+\s+){0,2}" + _CANC_DE + r"\w*\s+(\w+[- ]){0,2}" + _LIC_DE + r"|\b" + _LIC_DE +
+                           r"\b[^.;]{0,40}\b(ist|sind|wurde|wurden)\s+(\w+\s+)?nicht\s+" + _CANC_DE + r"|\bkeine (der|dieser) Zulassungen\b[^.;]{0,30}" + _CANC_DE, re.I),
+    all_valid=re.compile(r"\b(alle|sämtliche|beide)\b[^.;]{0,60}?\b(sind|ist)\s+(\w+\s+){0,2}gültig\b|\balle (\w+ ){0,3}gültig\b", re.I),
+    count=[re.compile(r"\b" + _NDE + r"\s+(gültige|aktive)\s+(EU-)?Zulassungen\b", re.I),
+           re.compile(r"\b" + _NDE + r"\s+von\s+\d+\s+(\w+\s+)?(EU-)?Zulassung(en)?\s+((sind|ist)\s+)?gültig\b", re.I),
+           re.compile(r"\b" + _NDE + r"\s+(\w+\s+)?(EU-)?Zulassungen\s+(\([^()]{0,60}\)\s+)?(sind|waren)\s+(\w+\s+)?gültig\b", re.I),
+           re.compile(r"\b" + _NDE + r"\s+(\w+\s+)?Zulassungen haben den Status „?gültig", re.I)],
+    ccount=[re.compile(r"\b" + _NDE + r"\s+(weitere\s+)?(erloschene|aufgehobene|zurückgezogene|widerrufene)\s+(EU-)?Zulassungen\b", re.I)],
+    total=[re.compile(r"\binsgesamt\s+" + _NDE + r"\s+(EU-)?Zulassungen\b|\bGesamtzahl von\s+" + _NDE + r"\b|\b\d+ von " + _NDE + r" (\w+ )?(EU-)?Zulassungen\b|"
+                      r"\b(alle|sämtliche)\s+" + _NDE + r"\s+(\w+\s+)?(EU-)?Zulassungen\b", re.I)],
+    partner=re.compile(r"\b(von|aus|der|den)\s*$", re.I), numw=_NUMW_DE,
+    ctx=re.compile(r"NCT\d|Studienregister|EudraCT|ClinicalTrials|DRKS", re.I),
+    cw=r"erlosch|aufgehoben|zurückgezogen|widerruf|gelöscht|cancel", preneg=r"(\b(nicht|keine?[nrms]?|ohne)\b|\bfehl\w*|\bFehlen)[^.;]{0,30}$",
+    postneg=r"^[^.;]{0,50}\bnicht\b")
+
+
+# 芬蘭文（FITxGNN，EMA 集中許可）
+_NUMW_FI = {"yksi": 1, "yhden": 1, "kaksi": 2, "kolme": 3, "neljä": 4, "viisi": 5, "kuusi": 6, "seitsemän": 7, "kahdeksan": 8, "yhdeksän": 9,
+            "kymmenen": 10, "molemmat": 2, "kumpikin": 2}
+_NFI = r"(\d+|" + "|".join(sorted(_NUMW_FI, key=len, reverse=True)) + r")"
+_LIC_FI = r"(?:(?:myynti|EU-|EMA-)?lu(?:pa|paa|pia|vat|van|vien|pien|vista|villa|vissa|valla|vassa|vasta|vaksi|pana|pina)(?:kin|kaan)?\b|myyntilupatila\w*|myyntilupatilanne\w*)"
+_CANC_FI = r"(?:perut\w*|peruu\w*|lakan\w*|lakkaut\w*|kumot\w*|vanhentun\w*|rauen\w*|poistet\w*|\bcancel+ed\b)"
+X_LOCAL["fi"] = dict(
+    neg=re.compile(r"\b(ei|eikä|ilman)\b[^.;]{0,30}(voimassa|markkinoilla)", re.I),
+    valid=re.compile(r"\bvoimassa olev\w*|\b(on|ovat) (\w+ ){0,2}voimassa\b", re.I),
+    mkt=re.compile(r"\b(on|ovat) (\w+ ){0,3}markkinoilla Suomessa\b|\bmarkkinoilla Suomessa\b", re.I),
+    noreg=re.compile(
+        r"\b(kaikki|molemmat|kumpikin|ainoa|ainoan)\b[^.;]{0,60}?" + _LIC_FI + r"[^.;]{0,60}?" + _CANC_FI + r"|"
+        r"\b" + _LIC_FI + r"[^.;]{0,40}?\b(kaikki|molemmat)\b[^.;]{0,20}?" + _CANC_FI + r"|"
+        r"\b(Suomen|suomalai\w+|Suomessa)\b[^.;]{0,40}?" + _LIC_FI + r"[^.;]{0,40}?\b(on|ovat)\b[^.;]{0,25}?" + _CANC_FI + r"|"
+        r"\b" + _LIC_FI + r"\s+(Suomessa\s+)?(on|ovat)\s+(\w+\s+){0,3}?(vain\s+)?" + _CANC_FI + r"|"
+        r"\b(myynti)?lu(pa|vat)\b[^.;]{0,30}\btilassa\s+\"?" + _CANC_FI + r"|\bainoa tieto\b[^.;]{0,40}" + _CANC_FI + r"|"
+        r"\b(ei|eikä)\b[^.;]{0,40}?\b(voimassa olev|aktiivi)\w* (\w+ ){0,3}(myynti)?lu(paa|pia)\b|\b(voimassa olev|aktiivi)\w* (\w+ ){0,7}?(\w*valmist\w*|(myynti)?lu(paa|pia))\b[^.;]{0,30}\bei\b|"
+        r"\bei (ole )?(\w+ ){0,3}voimassa olev\w* (\w+ ){0,2}\w*(valmisteita|valmistetta)\b|\b(valmiste|lääke|tuote)\s+on\s+(\w+\s+)?" + _CANC_FI + r"|"
+        r"\b(kumpikaan|yksikään)\b[^.;]{0,30}?(myynti)?lupa\b[^.;]{0,20}\bei\b[^.;]{0,15}voimassa|\bvain (yksi )?" + _CANC_FI + r"[^.;]{0,10}(myynti)?lupa\b|"
+        r"\bei (ole )?(\w+ ){0,2}markkinoilla( Suomessa)?\b(?! Taiwanissa)|\b0 (myynti)?lupaa\b|\blupia ei löytynyt\b", re.I),
+    canc=re.compile(r"\b" + _LIC_FI + r"[^.;:]{0,80}?" + _CANC_FI + r"|" + _CANC_FI + r"\s+(\w+\s+){0,2}(myynti)?lu(pa|vat|pia|paa|van)\b|\btilassa\s+\"?(peruutettu|peruttu)", re.I),
+    hist=re.compile(r"\b(19|20)\d\d\b|\baiemmin\b|\baikaisemmin\b|\bvanha\w*\b(?! myyntilupa)|\btutkimu\w*\b[^.;]{0,30}(peru|keskeyt)|\bkäyttöaihe\w*\b[^.;]{0,30}peru|eläinlääkevalmist|eläinlääkkeen myyntilu|\bEMEA/V/", re.I),
+    none_cancel=re.compile(r"\b(ei|eikä)\b[^.;]{0,20}(yhtään |mitään )?" + _CANC_FI + r"\w*\s+(myynti)?lu(paa|pia)\b|\bperuttuja (myynti)?lupia ei\b|\b(ei|eikä) (ole )?(peruutettu|peruttu)\b", re.I),
+    all_valid=re.compile(r"\b(kaikki|molemmat)\b[^.;]{0,50}?\b(ovat|on) (\w+ ){0,2}voimassa\b", re.I),
+    count=[re.compile(r"\b" + _NFI + r"\s+voimassa olev\w*\s+(myynti)?lu(pa|paa|pia)\b", re.I),
+           re.compile(r"\b" + _NFI + r"\s*/\s*\d+\s+(myynti)?lu(pa|paa|pia|vat)\b[^.;]{0,15}voimassa", re.I),
+           re.compile(r"\b" + _NFI + r"\s+(myynti)?lu(pa|paa|vat)\s+(\w+\s+){0,2}(on|ovat)\s+voimassa\b", re.I)],
+    ccount=[re.compile(r"\b" + _NFI + r"\s+(muuta\s+)?(peruutettua|peruttua)\s+(myynti)?lupaa\b", re.I)],
+    total=[re.compile(r"\b(kaikki|yhteensä)\s+" + _NFI + r"\s+(\w+\s+)?(myynti)?lu(pa|paa|pia|vat)\b", re.I)],
+    partner=re.compile(r"(\d+\s*:sta|\bjoista)\s*$", re.I), numw=_NUMW_FI,
+    ctx=re.compile(r"NCT\d|EudraCT|ClinicalTrials|tutkimusrekisteri", re.I),
+    cw=r"perut|peruu|lakan|kumot|cancel", preneg=r"\b(ei|eikä|ilman)\b[^.;]{0,30}$", postneg=r"^[^.;]{0,90}\bei\b")
+
+# 挪威文（NOTxGNN，EMA 集中許可）
+_NUMW_NO = {"en": 1, "ett": 1, "én": 1, "to": 2, "tre": 3, "fire": 4, "fem": 5, "seks": 6, "sju": 7, "syv": 7, "åtte": 8, "ni": 9, "ti": 10,
+            "elleve": 11, "tolv": 12, "begge": 2}
+_NNO = r"(\d+|" + "|".join(sorted(_NUMW_NO, key=len, reverse=True)) + r")"
+_LIC_NO = r"(?:(?:markedsførings|EU-|EMA-)?(?:tillatelse(?:n|r|ne)?|godkjenning(?:en|er|ene)?)|lisens(?:en|er|ene)?|autorisasjon(?:en|er|ene)?)"
+_CANC_NO = r"(?:avregistrer\w*|trukket tilbake|tilbaketrukk\w*|tilbakekal\w*|utløpt\w*|annuller\w*|opphevet|\bcancel+ed\b|«cancelled»)"
+X_LOCAL["no"] = dict(
+    neg=re.compile(r"\b(ikke|ingen|uten)\b[^.;]{0,30}(gyldig|markedsført|godkjent)", re.I),
+    valid=re.compile(r"\b(er|var) (\w+ ){0,2}gyldig(e)?\b|\bgyldige? (\w+ )?(tillatelse|godkjenning|markedsføringstillatelse)\w*", re.I),
+    mkt=re.compile(r"\b(er|blir) (\w+ ){0,2}markedsført\b|\bmarkedsført i Norge\b|\bpå markedet i Norge\b", re.I),
+    noreg=re.compile(
+        r"\b(alle|begge|samtlige|den eneste|det eneste|eneste)\b[^.;]{0,70}?" + _LIC_NO + r"[^.;]{0,60}?" + _CANC_NO + r"|"
+        r"\b" + _LIC_NO + r"\b[^.;]{0,50}?\b(alle|begge)\b[^.;]{0,20}?" + _CANC_NO + r"|"
+        r"\bden (norske|europeiske|norske/europeiske|sentrale) " + _LIC_NO + r"\b[^.;,]{0,40}?" + _CANC_NO + r"|"
+        r"\b(produktet|produktene|preparatet|legemidlet|legemiddelet|midlet)\b[^.;,]{0,30}?\b(er|var)\b[^.;,]{0,25}?" + _CANC_NO + r"(\s+i (Norge|det norske markedet))?|"
+        r"\b(er|var)\s+(\w+\s+){0,2}(produktet|produktene|preparatet|legemidlet|legemiddelet|midlet)\s+(\w+\s+){0,2}" + _CANC_NO + r"|"
+        r"\b(alle|begge)\b[^.;]{0,30}\b(produktene|preparatene)\b[^.;]{0,25}" + _CANC_NO + r"|"
+        r"\b(kun|bare)\b[^.;]{0,15}(en |én )?" + _CANC_NO + r"[^.;]{0,10}" + _LIC_NO + r"|\bingen gyldig\w* " + _LIC_NO + r"|\bingen " + _LIC_NO + r"\b[^.;]{0,30}\b(er )?gyldig|"
+        r"\b0 (godkjenninger|tillatelser)\b|\bikke (lenger )?(markedsført|tilgjengelig|godkjent) i Norge\b", re.I),
+    canc=re.compile(r"\b" + _LIC_NO + r"\b[^.;:]{0,90}?" + _CANC_NO + r"|" + _CANC_NO + r"[e]?\s+(\w+\s+){0,2}" + _LIC_NO + r"\b|\bstatus:?\s*«?(avregistrert|trukket tilbake|cancelled)|"
+                    r"\bavregistrer\w*|\b(produkt|preparat|legemid)\w*\b[^.;:]{0,30}\b(trukket tilbake|tilbakekalt)", re.I),
+    hist=re.compile(r"\b(19|20)\d\d\b|\btidligere\b|\bmidlertidig\b|\bsøknad\w*|\bstudie\w*\b[^.;]{0,30}(trukket|avsluttet)|\b(trukket|avsluttet)\b[^.;]{0,30}\bstudie|\bindikasjon\w*\b[^.;]{0,30}(trukket|avregistr)|veterinærpreparat|veterinær godkjenning|\bEMEA/V/", re.I),
+    none_cancel=re.compile(r"\b(ingen|ikke)\s+(\w+\s+){0,2}" + _CANC_NO + r"\w*\s+(\w+\s+){0,2}" + _LIC_NO + r"|\b" + _LIC_NO + r"\b[^.;]{0,40}\bikke\s+(\w+\s+)?" + _CANC_NO, re.I),
+    all_valid=re.compile(r"\b(alle|begge)\b[^.;]{0,60}?\b(er|var)\s+(\w+\s+){0,2}gyldig(e)?\b", re.I),
+    count=[re.compile(r"\b" + _NNO + r"\s+gyldige\s+(\w+\s+)?(tillatelser|godkjenninger|markedsføringstillatelser)\b", re.I),
+           re.compile(r"\b" + _NNO + r"\s+av\s+\d+\s+(\w+\s+)?(tillatelser|godkjenninger|markedsføringstillatelser)\s+(er\s+)?gyldig", re.I),
+           re.compile(r"\b" + _NNO + r"\s+(\w+\s+)?(tillatelser|godkjenninger|markedsføringstillatelser)\s+(er|var)\s+(\w+\s+)?gyldige\b", re.I)],
+    ccount=[re.compile(r"\b" + _NNO + r"\s+(ytterligere\s+|andre\s+|øvrige\s+)?(avregistrerte|tilbaketrukne|tilbakekalte)\s+(\w+\s+)?(tillatelser|godkjenninger)\b", re.I)],
+    total=[re.compile(r"\b(alle|totalt|samtlige)\s+" + _NNO + r"\s+(\w+\s+)?(tillatelsene|godkjenningene|tillatelser|godkjenninger)\b|\b\d+ av " + _NNO + r" (\w+ )?(tillatelser|godkjenninger)\b", re.I)],
+    partner=re.compile(r"\b(av|blant)\s*$", re.I), numw=_NUMW_NO,
+    ctx=re.compile(r"NCT\d|EudraCT|ClinicalTrials|studieregister", re.I),
+    cw=r"avregistr|trukket|tilbakekal|cancel", preneg=r"\b(ikke|ingen|uten|mangler)\b[^.;]{0,30}$", postneg=r"^[^.;]{0,40}\b(ikke|mangler)\b")
+
+
+# 義大利文（ITTxGNN，AIFA 包裝層級資料）
+_NUMW_IT = {"una": 1, "uno": 1, "un": 1, "due": 2, "tre": 3, "quattro": 4, "cinque": 5, "sei": 6, "sette": 7, "otto": 8, "nove": 9, "dieci": 10,
+            "undici": 11, "dodici": 12, "entrambe": 2, "entrambi": 2}
+_NIT = r"(\d+|" + "|".join(sorted(_NUMW_IT, key=len, reverse=True)) + r")"
+_LIC_IT = r"(?:autorizzazion[ei](?: all'immissione in commercio| di commercializzazione| al commercio| commerciali| commerciale)?|AIC|licenz[ae]|registrazion[ei])"
+_CANC_IT = r"(?:revocat\w*|annullat\w*|cancellat\w*|cessat\w*|sospes[aeio]\b|ritirat\w*|scadut\w*|decadut\w*|\bcancel+ed\b|«revocata»|\"revocata\")"
+X_LOCAL["it"] = dict(
+    neg=re.compile(r"\b(non|nessun\w*|senza|alcun\w*)\b[^.;]{0,40}(valid|attiv|in commercio|commercializzat|autorizzat)", re.I),
+    valid=re.compile(r"\b(è|sono|risulta|risultano) (\w+ ){0,2}valid[aei]\b|\b" + _LIC_IT + r" (\w+ )?(valid[ae]|attiv[ae]|in vigore)\b", re.I),
+    mkt=re.compile(r"\b(è|sono) (\w+ ){0,2}(in commercio|commercializzat[oaie])\b|\bcommercializzat[oaie] in Italia\b", re.I),
+    noreg=re.compile(
+        r"\b(tutte|entrambe|le due|le tre|ambedue)\b[^.;]{0,60}?" + _LIC_IT + r"[^.;]{0,60}?" + _CANC_IT + r"|"
+        r"\b" + _LIC_IT + r"\b[^.;]{0,40}?\b(tutte|entrambe)\b[^.;]{0,20}?" + _CANC_IT + r"|"
+        r"\bl'unica\b[^.;]{0,60}?" + _CANC_IT + r"|\b(un[ae]? sola|una singola) " + _LIC_IT + r"\b[^.;]{0,40}?\b(stato )?" + _CANC_IT + r"|"
+        r"\b(la sua|la|le|sue|il suo) " + _LIC_IT + r"\s+(italian[ae]|local[ei]|in Italia|nazional[ei])\b[^.;,]{0,40}?" + _CANC_IT + r"|"
+        r"\bLe " + _LIC_IT + r"\b(?! (per|di|del|della|relative))[^.;,]{0,30}?\b(sono|risultano)\b[^.;,]{0,20}?" + _CANC_IT + r"|"
+        r"\b(non|nessun\w*)\b[^.;]{0,40}?" + _LIC_IT + r"[^.;]{0,30}?\b(valid|attiv|in vigore)\w*|"
+        r"\bnon (\w+ ){0,3}(vi è|vi sono|c'è|ci sono|esist\w+|risulta|risultano)\b[^.;]{0,50}?\b(prodott\w*|specialità|confezion\w*|farmac\w*)\b[^.;]{0,40}?(valid\w*|attiv\w*|autorizzat\w*)|"
+        r"\bnessun\w* (record di )?" + _LIC_IT + r"\b[^.;]{0,60}?\b(trovat|registrat|restituit|present|rilevat)\w*|\bnessun record di " + _LIC_IT + r"|"
+        r"\bnon ve ne (sono|è) (\w+ )?(di )?valid|\bnon ve n'è alcuna (\w+ )?valid|\bnon ha alcun record di autorizzazione|\bnon (ha|dispone|possiede)\b (\w+ ){0,2}(di )?(alcuna |alcun )?" + _LIC_IT + r"\b(?![^.;]{0,40}\b(per (questa|tale|l'|la|le)|valid))|"
+        r"\b(le|tutte le) \d+ " + _LIC_IT + r"\b[^.;,]{0,30}?\b(sono|risultano)\b[^.;,]{0,20}?" + _CANC_IT + r"|\b" + _LIC_IT + r"[^.]{0,40}[;:,]\s*tutte (\w+ )?(risultano|sono) (\w+ )?" + _CANC_IT + r"|"
+        r"\bnon (è|risulta) (attualmente |più )?(in commercio|commercializzat\w*|autorizzat\w*) in Italia\b(?![^.;]{0,30}\b(per|nel|nella)\b)|\bnon (è|risulta) più (in commercio|commercializzat\w*|autorizzat\w*)\b|"
+        r"\bnon ne (è|risulta|sono|risultano) (\w+ )?(attiv|valid|present)\w*\s+(alcun|nessun)\w*|\bnon ne (è|risulta) (\w+ )?(alcuna|nessuna)\b|\bnon ne è (\w+ )?(attiva|valida)\b|"
+        r"\bnon (sembra|risulta|pare) (possedere|avere|disporre di) (\w+ ){0,2}" + _LIC_IT + r"\b|"
+        r"\btotal_licenses\W{0,3}[:=]\s*0\b|\b0 " + _LIC_IT + r"\b|\b(è|sono) (\w+ ){0,2}(stato|stati) (revocat|annullat|cancellat|ritirat)\w* dal commercio|"
+        r"\bnon (è|risulta) (più )?(in commercio|commercializzat\w*) in Italia\b|\bstato di " + _LIC_IT + r" (revocat|annullat|cessat)\w*", re.I),
+    canc=re.compile(r"\b" + _LIC_IT + r"\b[^.;:]{0,90}?" + _CANC_IT + r"|" + _CANC_IT + r"\s+(\w+\s+){0,2}" + _LIC_IT + r"\b|\bstato\b[^.;]{0,15}?\b(annullat|revocat|cancellat|cessat)\w*|"
+                    r"\b(prodott\w*|specialità|confezion\w*)\b[^.;:]{0,30}?\b(è|sono|risulta|risultano) (\w+ )?(revocat|annullat|cancellat|ritirat)\w*", re.I),
+    hist=re.compile(r"\b(19|20)\d\d\b|\bin passato\b|\bprecedentemente\b|\bstoricamente\b|\bstudi\w*\b[^.;]{0,40}(ritirat|sospes|cessat|interrott)|"
+                    r"\b(ritirat|sospes|cessat|interrott)\w*\b[^.;]{0,30}\bstudi|\bsperimentazion\w*|\bindicazion\w*\b[^.;]{0,30}(revocat|ritirat)|medicinal[ei] veterinari|EMEA/V/", re.I),
+    none_cancel=re.compile(r"\bnessun\w* (\w+ ){0,2}(è |risulta )?" + _CANC_IT + r"|\bnon (\w+ )?(è|sono|risulta|risultano) (\w+ )?" + _CANC_IT, re.I),
+    all_valid=re.compile(r"\b(tutte|entrambe)\b[^.;]{0,60}?\b(sono|risultano)\s+(\w+\s+){0,2}valid[ae]\b", re.I),
+    count=[re.compile(r"\b" + _NIT + r"\s+" + _LIC_IT + r"\s+(\w+\s+)?(valid[ae]|attiv[ae]|in vigore)\b", re.I),
+           re.compile(r"\b" + _NIT + r"\s+su\s+\d+\s+" + _LIC_IT + r"\s+(\w+\s+)?(sono\s+|risultano\s+)?(valid[ae]|attiv[ae])\b", re.I),
+           re.compile(r"\b" + _NIT + r"\s+" + _LIC_IT + r"\b[^.;,]{0,20}?\b(sono|risultano)\s+(\w+\s+)?valid[ae]\b", re.I)],
+    ccount=[re.compile(r"\b" + _NIT + r"\s+(ulteriori\s+|altre\s+)?" + _LIC_IT + r"\s+(\w+\s+)?(revocat|annullat|cancellat|cessat)\w*", re.I)],
+    total=[re.compile(r"\bin totale\s+" + _NIT + r"\s+" + _LIC_IT + r"|\b(tutte|tutte e)\s+(le\s+)?" + _NIT + r"\s+(le\s+)?" + _LIC_IT + r"|\b" + _NIT + r"\s+" + _LIC_IT + r",?\s+tutte\b", re.I)],
+    partner=re.compile(r"\b(delle|degli|su|di)\s*$", re.I), numw=_NUMW_IT,
+    ctx=re.compile(r"NCT\d|EudraCT|ClinicalTrials|registro (degli )?studi", re.I),
+    cw=r"revocat|annullat|cancellat|cessat|cancel", preneg=r"\b(non|nessun\w*|senza|alcun\w*)\b[^.;]{0,40}$", postneg=r"^[^.;]{0,40}\bnon\b")
+
+
+# 瑞典文（SETxGNN，Läkemedelsverket）
+_NUMW_SV = {"en": 1, "ett": 1, "två": 2, "tre": 3, "fyra": 4, "fem": 5, "sex": 6, "sju": 7, "åtta": 8, "nio": 9, "tio": 10, "elva": 11, "tolv": 12, "båda": 2}
+_NSV = r"(\d+|" + "|".join(sorted(_NUMW_SV, key=len, reverse=True)) + r")"
+_LIC_SV = r"(?:godkännande(?:t|n|na|nas)?|försäljningstillstånd(?:et|en)?|tillstånd(?:et|en)?|licens(?:en|er|erna)?|registrering(?:en|ar|arna)?)"
+_CANC_SV = r"(?:avregistrer\w*|indrag\w*|återkall\w*|upphävd\w*|upphört|utgång\w*|annuller\w*|makuler\w*|\bcancel+ed\b)"
+X_LOCAL["sv"] = dict(
+    neg=re.compile(r"\b(inte|inga|inget|ingen|utan|saknas|saknar)\b[^.;]{0,30}(giltig|marknadsför|godkänd)", re.I),
+    valid=re.compile(r"\b(är|var) (\w+ ){0,2}giltig[at]?\b|\bgiltig[at]? (\w+ )?(godkännande|försäljningstillstånd)\w*", re.I),
+    single=re.compile(r"\b(som )?(enda|enskild|enskilt) (substans|aktiv substans|godkänt läkemedel)|\benkomponent\w*", re.I),
+    mkt=re.compile(r"\b(är|blir) (\w+ ){0,2}marknadsför(d|da|t)\b|\bmarknadsförs i Sverige\b", re.I),
+    noreg=re.compile(
+        r"\b(alla|samtliga|båda|det enda|den enda|enda)\b[^.;]{0,70}?" + _LIC_SV + r"[^.;]{0,60}?" + _CANC_SV + r"|"
+        r"\b" + _LIC_SV + r"\b[^.;]{0,50}?\b(alla|båda|samtliga)\b[^.;]{0,20}?" + _CANC_SV + r"|"
+        r"\b(det|de|dess) (svenska|lokala) " + _LIC_SV + r"\b[^.;,]{0,50}?" + _CANC_SV + r"|"
+        r"\b(inget|ingen|inga)\s+(\w+\s+){0,2}giltig[at]?\s+(\w+\s+){0,2}" + _LIC_SV + r"|\binget\b[^.;]{0,30}\b(är|finns)\b[^.;]{0,30}\bgiltig|"
+        r"\b(inget|ingen) (produkt|produkter|läkemedel|läkemedlet|preparat|preparatet)\b[^.;,()]{0,60}\b(giltig|marknaden|godkänn)\w*|\b0 godkännanden\b|"
+        r"\binte (längre )?(godkänd|marknadsförd|tillgänglig) i Sverige\b|\binte (längre )?marknadsför(d|t|da|s)\b|"
+        r"\binga (läkemedel|produkter|preparat)\b[^.;,()]{0,40}\b(godkända|marknadsförda|giltiga)\b|\binte på den svenska marknaden\b|\binte (längre )?finns i Sverige\b|"
+        r"\b(inget|ingen|inga)\s+(giltig|gällande)\w*\s+(\w*(produkt|läkemedel|preparat)(er|en|et|erna)?\b|\w*godkännande\w*)|"
+        r"\b(ingen|inget)\s+(\w+\s+){0,3}?(produkt|produkter|läkemedel|läkemedlet|preparat|preparatet)\s+([^\s.;,()]+\s+){0,3}?(är|finns)\s+([^\s.;,()]+\s+){0,3}?(godkänd|marknadsför|giltig)\w*|"
+        r"\bsaknar (\w+ ){0,3}(giltig|gällande)\w* " + _LIC_SV + r"|\b(inget|ingen|inga)\s+gällande\s+" + _LIC_SV + r"|\b(produkten|läkemedlet|preparatet)\b[^.;,]{0,25}?\b(är|var)\b[^.;,]{0,20}?" + _CANC_SV, re.I),
+    canc=re.compile(r"\b" + _LIC_SV + r"\b[^.;:]{0,90}?" + _CANC_SV + r"|" + _CANC_SV + r"[e]?\s+(\w+\s+){0,2}" + _LIC_SV + r"\b|\bavregistrer\w*", re.I),
+    hist=re.compile(r"\b(19|20)\d\d\b|\btidigare\b|\btillfällig\w*|\bansök\w*|\bstudie\w*\b[^.;]{0,30}(avbrut|återkall|indrag)|\b(avbrut|indrag|återkall)\w*\b[^.;]{0,30}\bstudie|"
+                    r"\bprövning\w*\b[^.;]{0,30}(avbrut|återkall|indrag)|\bindikation\w*\b[^.;]{0,30}(indrag|återkall)|veterinärmedicinsk\w* läkemedel|EMEA/V/", re.I),
+    none_cancel=re.compile(r"\b(inga|inget|ingen|inte)\s+(\w+\s+){0,2}" + _CANC_SV + r"|\b" + _LIC_SV + r"\b[^.;]{0,40}\binte\s+(\w+\s+)?" + _CANC_SV, re.I),
+    all_valid=re.compile(r"\b(alla|samtliga|båda)\b[^.;]{0,60}?\b(är|var)\s+(\w+\s+){0,2}giltiga\b", re.I),
+    count=[re.compile(r"\b" + _NSV + r"\s+giltiga\s+(\w+\s+)?(godkännanden|försäljningstillstånd)\b", re.I),
+           re.compile(r"\b" + _NSV + r"\s+av\s+\d+\s+(\w+\s+)?(godkännanden|försäljningstillstånd)\s+(är\s+)?giltiga", re.I),
+           re.compile(r"\b" + _NSV + r"\s+(\w+\s+)?(godkännanden|försäljningstillstånd)\s+(är|var)\s+(\w+\s+)?giltiga\b", re.I)],
+    ccount=[re.compile(r"\b" + _NSV + r"\s+(ytterligare\s+|andra\s+|övriga\s+)?(avregistrerade|indragna|återkallade)\s+(\w+\s+)?(godkännanden|försäljningstillstånd)\b", re.I)],
+    total=[re.compile(r"\b(alla|samtliga|totalt)\s+" + _NSV + r"\s+(\w+\s+)?(godkännanden|godkännandena|försäljningstillstånd)\b", re.I)],
+    partner=re.compile(r"\b(av|bland|varav)\s*$", re.I), numw=_NUMW_SV,
+    ctx=re.compile(r"NCT\d|EudraCT|ClinicalTrials|prövningsregister", re.I),
+    cw=r"avregistr|indrag|återkall|cancel", preneg=r"\b(inte|inga|inget|ingen|utan|saknar)\b[^.;,()]{0,70}$", postneg=r"^[^.;,()]{0,50}\b(inte|saknas)\b")
+
+
+# 法文（FRTxGNN，BDPM）
+_NUMW_FR = {"une": 1, "un": 1, "deux": 2, "trois": 3, "quatre": 4, "cinq": 5, "six": 6, "sept": 7, "huit": 8, "neuf": 9, "dix": 10, "onze": 11, "douze": 12}
+_NFR = r"(\d+|" + "|".join(sorted(_NUMW_FR, key=len, reverse=True)) + r")"
+_LIC_FR = r"(?:AMM|autorisations? de mise sur le marché|autorisations?|enregistrements?|licences?)"
+_CANC_FR = r"(?:annul[ée]e?s?|abrog[ée]e?s?|retir[ée]e?s?|archiv[ée]e?s?|suspendue?s?|caduque?s?|r[ée]voqu[ée]e?s?|\bcancel+ed\b|«\s*annul[ée]e?s?\s*»)"
+X_LOCAL["fr"] = dict(
+    neg=re.compile(r"\b(aucune?|pas|plus|sans|non|ni)\b[^.;]{0,60}(valide|commercialis|autoris)", re.I),
+    valid=re.compile(r"\b(est|sont) (\w+ ){0,2}valides?\b|\b(AMM|autorisations?) (\w+ )?valides?\b", re.I),
+    mkt=re.compile(r"\b(est|sont) (\w+ ){0,2}commercialisée?s?\b|\bcommercialisée?s? en France\b", re.I),
+    noreg=re.compile(
+        r"\b(toutes|tous|les deux|les trois|l'ensemble des)\b[^.;]{0,60}?" + _LIC_FR + r"[^.;]{0,60}?" + _CANC_FR + r"|"
+        r"\b" + _LIC_FR + r"\b[^.;]{0,40}?\b(toutes|tous)\b[^.;]{0,20}?" + _CANC_FR + r"|"
+        r"\b(la seule|l'unique|seule|unique)\b[^.;]{0,60}?" + _LIC_FR + r"[^.;]{0,50}?" + _CANC_FR + r"|\b" + _LIC_FR + r" unique\b[^.;]{0,30}?" + _CANC_FR + r"|"
+        r"\b(L'|l'|Les |les |Son |son |Ses |ses )(AMM|autorisations?)( (française|françaises|locale|locales|recensées?|compilées?|identifiées?))?\b[^.;,]{0,40}?\b(est|sont|étant|a été|ont été)\b[^.;,]{0,25}?" + _CANC_FR + r"|"
+        r"\b(Les|les) \d+ " + _LIC_FR + r"\b[^.;,]{0,40}?\b(sont|étant|ont été)\b[^.;,]{0,25}?" + _CANC_FR + r"|"
+        r"\bn'(a|ont) plus qu'une? (\w+ )?" + _LIC_FR + r"\s+" + _CANC_FR + r"|\b(a|ont) une " + _LIC_FR + r" " + _CANC_FR + r"|"
+        r"\b(aujourd'hui )?(tous|toutes) (\w+ )?(annul[ée]e?s|abrog[ée]e?s|retir[ée]e?s)\b|\b" + _LIC_FR + r"\b[^.;]{0,80}?,\s*(toutes|tous) (\w+ )?" + _CANC_FR + r"|"
+        r"\bannulation (de toutes les|des \d+|des deux|des trois) " + _LIC_FR + r"|\baucune? (AMM|autorisation)s? n'(est|était) (\w+ )?(valide|active|en vigueur)|"
+        r"\bn'est (\w+ ){0,3}plus commercialisée?s?\b|\baucune n'(est|était) (\w+ )?(valide|active|en vigueur|en cours de validité)|\bn'(a|ont) plus d'(AMM|autorisation)s? (valide|active|en vigueur)|\bplus commercialisée?s? en France\b|\bstatut (réglementaire )?(en France )?(est )?«?\s*annulé|"
+        r"\baucune? (\w+ ){0,2}(AMM|autorisation|spécialité|présentation)s? (\w+ ){0,2}(valide|active|en vigueur|commercialisée)s?\b|\b0 AMM\b|"
+        r"\bn'(est|existe|y a) (\w+ ){0,3}(aucune?|pas d'|plus d'?) ?(AMM|autorisation|spécialité)s? (\w+ ){0,2}(valide|active|en vigueur|commercialisée)", re.I),
+    canc=re.compile(r"\b" + _LIC_FR + r"\b[^.;:]{0,90}?" + _CANC_FR + r"|\bstatut\b[^.;]{0,20}?«?\s*(annulé|abrogé|archivé)|\bannulation\b[^.;]{0,30}\b" + _LIC_FR + r"|\b" + _LIC_FR + r"\b[^.;]{0,30}\bannulation", re.I),
+    hist=re.compile(r"\b(19|20)\d\d\b|\bauparavant\b|\bantérieurement\b|\bhistoriquement\b|\banciennement\b|\b(essai|étude)s?\b[^.;]{0,40}(retir|suspendu|arrêt|interromp)|"
+                    r"\b(retir|suspendu|arrêt|interromp)\w*\b[^.;]{0,30}\b(essai|étude)|\bindications?\b[^.;]{0,30}(retirée|abrogée)|AMM vétérinaire|médicaments? vétérinaires?|EMEA/V/|\bdemande\w*", re.I),
+    none_cancel=re.compile(r"\baucune? (\w+ ){0,3}(n'est |n'a été |n'ont été )?" + _CANC_FR + r"|\bn'(est|sont) (\w+ )?pas " + _CANC_FR + r"|\b(sans|aucune) annulation", re.I),
+    all_valid=re.compile(r"\b(toutes|tous|les deux)\b[^.;]{0,60}?\b(sont|est)\s+(\w+\s+){0,2}valides\b", re.I),
+    count=[re.compile(r"\b" + _NFR + r"\s+" + _LIC_FR + r"\s+(\w+\s+)?valides\b", re.I),
+           re.compile(r"\b" + _NFR + r"\s+" + _LIC_FR + r"\s+sur\s+\d+\s+(\w+\s+)?(sont\s+)?valides\b", re.I),
+           re.compile(r"\b" + _NFR + r"\s+" + _LIC_FR + r"\b[^.;,]{0,25}?\b(sont|est)\s+(\w+\s+)?valides?\b", re.I)],
+    ccount=[re.compile(r"\b" + _NFR + r"\s+(autres\s+)?" + _LIC_FR + r"\s+(\w+\s+){0,2}(annulées|abrogées|retirées|archivées)\b", re.I)],
+    total=[re.compile(r"\b(Les|les|au total|total de)\s+" + _NFR + r"\s+" + _LIC_FR + r"\b|\b\d+ " + _LIC_FR + r" sur " + _NFR + r"\b", re.I)],
+    partner=re.compile(r"\b(des|sur|parmi|dont)\s*$", re.I), numw=_NUMW_FR,
+    ctx=re.compile(r"NCT\d|EudraCT|ClinicalTrials|registre des essais", re.I),
+    cw=r"annul|abrog|retir|archiv|cancel", preneg=r"\b(aucune?|pas|plus|sans|non|ni)\b[^.;,()]{0,50}$", postneg=r"^[^.;,()]{0,40}\b(n'|ne |pas\b|aucun)")
+
+
+# 葡萄牙文（BrTxGNN，ANVISA）
+_NUMW_PT = {"um": 1, "uma": 1, "dois": 2, "duas": 2, "três": 3, "quatro": 4, "cinco": 5, "seis": 6, "sete": 7, "oito": 8, "nove": 9, "dez": 10,
+            "onze": 11, "doze": 12, "ambos": 2, "ambas": 2}
+_NPT = r"(\d+|" + "|".join(sorted(_NUMW_PT, key=len, reverse=True)) + r")"
+_LIC_PT = r"(?:registros?|autoriza[çc](?:ão|ões)|licen[çc]as?)"
+_CANC_PT = r"(?:cancelad[oa]s?|caducad[oa]s?|vencid[oa]s?|inativ[oa]s?|revogad[oa]s?|suspens[oa]s?|\bcancel+ed\b)"
+X_LOCAL["pt"] = dict(
+    neg=re.compile(r"\b(não|nenhum\w*|sem|nem)\b[^.;]{0,50}(válid|vigente|ativ|comercializad)", re.I),
+    valid=re.compile(r"\b(está|estão|é|são|consta|constam) (\w+ ){0,2}(válid[oa]s?|vigentes?|ativ[oa]s?)\b|\bregistros? (\w+ )?(válid[oa]s?|vigentes?|ativ[oa]s?)\b", re.I),
+    mkt=re.compile(r"\b(é|está|são|estão) (\w+ ){0,2}comercializad[oa]s?\b|\bcomercializad[oa]s? no Brasil\b", re.I),
+    noreg=re.compile(
+        r"\b(todos|todas|ambos|ambas|os dois|as duas|o único|a única|único|única)\b[^.;]{0,60}?" + _LIC_PT + r"[^.;]{0,60}?" + _CANC_PT + r"|"
+        r"\b" + _LIC_PT + r"\b[^.;]{0,40}?\b(todos|todas|ambos)\b[^.;]{0,20}?" + _CANC_PT + r"|"
+        r"\b(o|os|seu|seus) registros?( (no Brasil|brasileiros?|na ANVISA|do produto|do medicamento)( no Brasil)?)?\b[^.;,]{0,40}?\b(está|estão|consta|constam|foi|foram)\b[^.;,]{0,25}?" + _CANC_PT + r"|"
+        r"\b(os|as|seus) \d+ registros\b[^.;,]{0,40}?\b(estão|são|foram|constam)\b[^.;,]{0,25}?" + _CANC_PT + r"|"
+        r"\bnão (há|tem|possui|existe|existem|dispõe de) (\w+ ){0,3}registros? (\w+ ){0,3}(válid|vigente|ativ)\w*|\bnão (tem|possui) (qualquer |nenhum )?registros?\b(?![^.;]{0,30}\b(para|de) (esta|essa|a|uma) indicação)|"
+        r"\bnão (está|é|foi) registrad[oa] (no Brasil|na ANVISA)|\bnenhum registro (\w+ ){0,3}(foi encontrado|encontrado|ativo|válido|vigente)|\bausência de registros?( (ativos|válidos|vigentes|regulatórios))?\b|"
+        r"\bsem registros? (\w+ )?(válidos?|ativos?|vigentes?)\b|\b0 registros\b|\bregistros?:? 0\b|"
+        r"\bdetalhes (dos|do|individuais dos) registros?\b[^.;]{0,60}\b(vazi|em branco|não foram)|\bdados de registro\b[^.;]{0,30}\bnão foram populados|"
+        r"\bdetalhes do registro regulatório estão vazios|\bdetalhes (individuais )?(dos|de cada|do) registros?\b[^.;]{0,120}?\b(não (estão|foram)|ausentes|vazi|em branco)|"
+        r"\bcampos (de retorno )?(dos registros )?(estão|retornaram|foram devolvidos) (em branco|vazios)|\bextração dos metadados dos registros\b[^.;]{0,30}não foi concluída|\bnão (está|é) (mais )?comercializad[oa]\b", re.I),
+    canc=re.compile(r"\b" + _LIC_PT + r"\b[^.;:]{0,90}?" + _CANC_PT + r"|" + _CANC_PT + r"\s+(\w+\s+){0,2}" + _LIC_PT + r"\b|\b(status|situação)\b[^.;]{0,20}?\bcancelad", re.I),
+    hist=re.compile(r"\b(19|20)\d\d\b|\banteriormente\b|\bhistoricamente\b|\b(ensaio|estudo)s?\b[^.;]{0,40}(cancelad|suspens|retirad|interromp)|\bindicação\b[^.;]{0,30}(cancelad|revogad)|"
+                    r"medicamento veterinário|EMEA/V/", re.I),
+    none_cancel=re.compile(r"\bnenhum (\w+ ){0,2}(está |foi )?" + _CANC_PT + r"|\bnão (está|estão|foi|foram) " + _CANC_PT + r"|\bsem (registros )?cancelad", re.I),
+    all_valid=re.compile(r"\b(todos|todas|ambos)\b[^.;]{0,60}?\b(são|estão)\s+(\w+\s+){0,2}(válid[oa]s|vigentes|ativ[oa]s)\b", re.I),
+    count=[re.compile(r"\b" + _NPT + r"\s+registros?\s+(\w+\s+)?(válid[oa]s?|vigentes?|ativ[oa]s?)\b", re.I),
+           re.compile(r"\b" + _NPT + r"\s+de\s+\d+\s+registros?\s+(\w+\s+)?((são|estão)\s+)?(válid[oa]s?|vigentes?|ativ[oa]s?)\b", re.I),
+           re.compile(r"\b" + _NPT + r"\s+registros?\b[^.;,]{0,25}?\b(são|estão)\s+(\w+\s+)?(válid[oa]s|vigentes|ativ[oa]s)\b", re.I)],
+    ccount=[re.compile(r"\b(?:mais\s+)?" + _NPT + r"\s+(outros\s+)?registros?\s+(\w+\s+)?(cancelad|caducad|revogad)[oa]s\b", re.I)],
+    total=[re.compile(r"\b(há|total de|existem|confirmou|constam)\s+\*{0,2}" + _NPT + r"\s+registros?\b|\b" + _NPT + r"\s+registros?\s+(no total|confirmados)|\b\d+\s+de\s+" + _NPT + r"\s+registros?\b", re.I)],
+    partner=re.compile(r"\b(de|dos|das|entre|dentre)\s*$", re.I), numw=_NUMW_PT,
+    ctx=re.compile(r"NCT\d|ReBEC|ClinicalTrials|registro de ensaios", re.I),
+    cw=r"cancelad|caducad|revogad|cancel", preneg=r"\b(não|nenhum\w*|sem|nem)\b[^.;,()]{0,50}$", postneg=r"^[^.;,()]{0,40}\bnão\b")
+
+
+# 荷蘭文（NlTxGNN，CBG-MEB）
+_NUMW_NL = {"een": 1, "één": 1, "twee": 2, "drie": 3, "vier": 4, "vijf": 5, "zes": 6, "zeven": 7, "acht": 8, "negen": 9, "tien": 10, "elf": 11, "twaalf": 12, "beide": 2}
+_NNL = r"(\d+|" + "|".join(sorted(_NUMW_NL, key=len, reverse=True)) + r")"
+_LIC_NL = r"(?:(?:handels)?vergunning(?:en)?|registratie(?:s)?|inschrijving(?:en)?|RVG-registratie\w*)"
+_CANC_NL = r"(?:doorgehaald\w*|ingetrokken\w*|vervallen\w*|geschorst\w*|\bcancel+ed\b)"
+X_LOCAL["nl"] = dict(
+    neg=re.compile(r"\b(geen|niet|zonder)\b[^.;]{0,40}(geldig|in de handel|op de markt|geregistreerd)", re.I),
+    valid=re.compile(r"\b(is|zijn) (\w+ ){0,2}geldig\b|\bgeldige (\w+ )?(vergunning|registratie)\w*", re.I),
+    mkt=re.compile(r"\b(is|zijn|wordt|worden) (\w+ ){0,2}(in de handel|op de markt)\b|\bin Nederland in de handel\b", re.I),
+    noreg=re.compile(
+        r"\b(alle|beide|de enige|het enige|enige)\b[^.;]{0,60}?(" + _LIC_NL + r"|product\w*)[^.;]{0,60}?" + _CANC_NL + r"|"
+        r"\b" + _LIC_NL + r"\b[^.;]{0,40}?\b(alle|beide)\b[^.;]{0,20}?" + _CANC_NL + r"|"
+        r"\b(de|haar|zijn|hun) (Nederlandse )?" + _LIC_NL + r"( in Nederland)?\b[^.;,]{0,40}?\b(is|zijn|werd|werden)\b[^.;,]{0,25}?" + _CANC_NL + r"|"
+        r"\bgeen (\w+ ){0,2}(geldige|actieve|lopende) (\w+ ){0,2}" + _LIC_NL + r"|\bniet (meer )?(in de handel|geregistreerd) in Nederland\b|\bniet meer in de handel\b|"
+        r"\b(alleen nog|uitsluitend)\b[^.;]{0,60}\b(doorgehaald|ingetrokken)\w*|\b0 (vergunningen|registraties)\b", re.I),
+    canc=re.compile(r"\b" + _LIC_NL + r"\b[^.;:]{0,90}?" + _CANC_NL + r"|" + _CANC_NL + r"[e]?\s+(\w+\s+){0,2}" + _LIC_NL + r"\b|"
+                    r"\b(product|producten|middel|geneesmiddel|preparaat)\b[^.;:]{0,30}\b(is|zijn)\s+(\w+\s+)?(doorgehaald|ingetrokken)", re.I),
+    hist=re.compile(r"\b(19|20)\d\d\b|\beerder\b|\bvoorheen\b|\bhistorisch\b|\bstudie\w*\b[^.;]{0,40}(ingetrokken|beëindigd|stopgezet)|\b(ingetrokken|beëindigd|stopgezet)\b[^.;]{0,20}\bstudie|"
+                    r"\bindicatie\w*\b[^.;]{0,30}(ingetrokken|vervallen)|diergeneesmiddel|EMEA/V/", re.I),
+    none_cancel=re.compile(r"\bgeen (\w+ ){0,2}(doorgehaald|ingetrokken)\w*|\bniet (\w+ )?(doorgehaald|ingetrokken)", re.I),
+    all_valid=re.compile(r"\b(alle|beide)\b[^.;]{0,60}?\b(zijn|is)\s+(\w+\s+){0,2}geldig\b", re.I),
+    count=[re.compile(r"\b" + _NNL + r"\s+geldige\s+" + _LIC_NL + r"\b", re.I),
+           re.compile(r"\b" + _NNL + r"\s+van\s+(de\s+)?\d+\s+" + _LIC_NL + r"\s+(zijn\s+|is\s+)?geldig", re.I),
+           re.compile(r"\b" + _NNL + r"\s+" + _LIC_NL + r"\s+(zijn|waren)\s+(\w+\s+)?geldig\b", re.I)],
+    ccount=[re.compile(r"\b" + _NNL + r"\s+(andere\s+|overige\s+)?(doorgehaalde|ingetrokken|vervallen)\s+" + _LIC_NL + r"\b", re.I)],
+    total=[re.compile(r"\b(alle|totaal|in totaal)\s+" + _NNL + r"\s+" + _LIC_NL + r"\b", re.I)],
+    partner=re.compile(r"\b(van|uit)\s*$", re.I), numw=_NUMW_NL,
+    ctx=re.compile(r"NCT\d|EudraCT|ClinicalTrials|trialregister", re.I),
+    cw=r"doorgehaald|ingetrokken|vervallen|cancel", preneg=r"\b(geen|niet|zonder)\b[^.;,()]{0,50}$", postneg=r"^[^.;,()]{0,40}\b(niet|ontbreekt)\b")
+
+
+def _xl_num(R, g):
+    if g is None:
+        return None
+    g = g.lower()
+    return int(g) if g.isdigit() else R["numw"].get(g)
+
+
+# 中文（HkTxGNN；TwTxGNN 由 Tw 自己的查核機制處理，不列入 M3X_SITES）
+_NUMW_ZH = {"一": 1, "兩": 2, "二": 2, "三": 3, "四": 4, "五": 5, "六": 6, "七": 7, "八": 8, "九": 9, "十": 10}
+_LIC_ZH = r"(?:許可證|註冊|藥證|登記)"
+_CANC_ZH = r"(?:註銷|撤銷|撤回|取消|失效|過期|廢止|cancel+ed)"
+X_LOCAL["zh"] = dict(
+    neg=re.compile(r"(無|沒有|並無|未|非|不)[^。；，]{0,8}(有效|上市|註冊)"),
+    valid=re.compile(r"(?<![無沒並未非])有效(?!期)|上市中|已上市"),
+    mkt=re.compile(r"(?<![未不])在香港(上市|銷售|供應)|(?<![未不])已上市"),
+    noreg=re.compile(
+        r"(全部|均|皆|都|所有|唯一|僅有的|僅存的)[^。；，]{0,20}?" + _LIC_ZH + r"[^。；]{0,15}?(已|均已|皆已|都已)?" + _CANC_ZH + r"|"
+        + _LIC_ZH + r"[^。；，]{0,10}?(全部|均|皆|都)(已)?" + _CANC_ZH + r"|"
+        r"(?<!劑型尚)(?<!劑型)(?<!劑型並)(無|沒有|並無|查無|未有|未見)(任何)?(有效|現行)?(的)?(香港)?(許可證|註冊紀錄|藥證)(?!.{0,3}(交互|試驗|研究))|"
+        r"未(在|於|獲)?香港(註冊|上市|核准)|香港(並)?未(有)?(註冊|上市|核准)|不在香港市場|(?<![\d.])0\s*張(有效)?(許可證|註冊)"),
+    canc=re.compile(_LIC_ZH + r"[^。；，]{0,20}?(已|均已|皆已|都已|被)" + _CANC_ZH + r"|已" + _CANC_ZH + r"的" + _LIC_ZH),
+    hist=re.compile(r"(19|20)\d\d\s*年|過去|曾經|先前|試驗[^。；]{0,10}(撤回|取消|終止)|(撤回|取消|終止)[^。；]{0,10}試驗|適應症[^。；]{0,10}(撤銷|取消)|獸用"),
+    none_cancel=re.compile(r"(無|沒有|並無|未有|未見)(任何)?(已)?" + _CANC_ZH + r"|已" + _CANC_ZH + r"(者)?\s*(為)?\s*0|" + _CANC_ZH + r"\s*0\s*張"),
+    all_valid=re.compile(r"(全部|均|皆|都|所有)[^。；，]{0,10}?(為)?有效(?!期)"),
+    count=[re.compile(r"(?<![\d.])(\d+)\s*張(的)?(有效|現行)"), re.compile(r"有效[^。；，\d]{0,8}?(?<![\d.])(\d+)\s*張")],
+    ccount=[re.compile(r"(?<![\d.])(\d+)\s*張(已)?" + _CANC_ZH)],
+    total=[re.compile(r"共(有|計)?\s*(\d+)\s*張(?!有效)")],
+    partner=re.compile(r"(中的|其中|之中|以上為|以下為|另有|還有|另外|尚有|此外)\s*$"), numw=_NUMW_ZH,
+    ctx=re.compile(r"NCT\d|臨床試驗登記|ClinicalTrials"),
+    cw=r"註銷|撤銷|取消|失效|cancel", preneg=r"(無|沒有|並無|未|非|不)[^。；，()（）]{0,8}$", postneg=r"^(?!x)x")
+
+
+# 日文（JpTxGNN，薬価基準収載医薬品マスター）
+_NUMW_JA = {"一": 1, "二": 2, "三": 3, "四": 4, "五": 5}
+_CANC_JA = r"(?:取消|取り消|整理|失効|廃止|cancel+ed)"
+X_LOCAL["ja"] = dict(
+    neg=re.compile(r"(有効|販売|市販)[^。]{0,10}(なし|ない|ありません|ゼロ)|未承認"),
+    valid=re.compile(r"有効な承認|承認[^。、]{0,8}有効|販売中|市販中|販売されて"),
+    mkt=re.compile(r"(日本で(は)?)?(販売|市販)(されて|中)"),
+    noreg=re.compile(
+        r"(すべて|全て|全件|いずれも|全承認|全部|唯一の)[^。]{0,20}?" + _CANC_JA + r"|承認[^。]{0,15}?(すべて|全て|いずれも|全件|とも)[^。]{0,8}?" + _CANC_JA + r"|"
+        r"(有効な|現在有効な|販売中の)[^。、]{0,10}?承認(は|が)?(なし|ありません|ない|なく|はありません)|"
+        r"日本(で|では|の|での)[^。]{0,12}?承認(は|が|も)[^。]{0,8}?(取り消され|取消され|取消済|取り消し済|取消と|整理され|整理済|失効し|失効済)|"
+        r"(承認|販売)(状況)?[（(](承認)?(取消|整理|失効)(済み)?[）)]|"
+        r"承認(は)?(すでに|既に)?(取り消され|取消され)|(販売|製造販売)承認(は)?[^。]{0,10}?" + _CANC_JA + r"(済み|となって|されて|の状態)|"
+        r"市販(中)?の?(製品|品)(は|が)?(ありません|ない)|日本で(は)?(承認されていない|販売されていない)(?![^。]{0,10}(適応|効能))|"
+        r"(有効な|販売中の|市販中の)[^。、]{0,10}?(承認|製品|製剤)(は|が|も)?(現在|いまは|もう)?(なし|ありません|ない|なく|残っておらず|残っていない|存在しない)|"
+        r"(日本|国内)(で|では)?[^。、]{0,4}?(市販|販売)されておらず|(現在は?)(市販|販売)(なし|されていない)|"
+        r"承認は?(すべて|全て)?(取消|取り消し|整理)済みのため"),
+    canc=re.compile(r"承認[^。、]{0,15}?" + _CANC_JA + r"|" + _CANC_JA + r"(済み|された)?の?承認|承認番号[^。]{0,20}?" + _CANC_JA + r"|"
+                    r"(承認|販売|供給|市販)[^。]{0,20}[（(][^）)]{0,10}" + _CANC_JA + r"|" + _CANC_JA + r"(済み)?[^。]{0,5}(の|後の)(経緯|理由|背景|供給)"),
+    hist=re.compile(r"(19|20)\d\d\s*年|過去に|以前は|かつて|試験[^。]{0,10}(中止|取消|取り下げ)|適応[^。]{0,10}(削除|取消)|動物用"),
+    none_cancel=re.compile(r"(取消|整理|失効)(済み|・整理済み)?(の承認)?(は)?(なし|ありません|0\s*件)"),
+    all_valid=re.compile(r"(すべて|全て|いずれも)[^。]{0,8}有効"),
+    count=[re.compile(r"有効な承認(?:は|が)?\s*(?:少なくとも\s*)?(\d+)\s*件"), re.compile(r"(?<![\d.])(\d+)\s*件の承認(は|が)?(すべて|全て)?有効"),
+           re.compile(r"承認\s*(\d+)\s*件(は|が)?(すべて|全て)有効"), re.compile(r"のうち\s*(\d+)\s*件が有効")],
+    ccount=[re.compile(r"(?<![\d.])(\d+)\s*件の(取消|整理|失効)(済み)?の?承認")],
+    total=[re.compile(r"承認(?:は|が)?(?:合計|全)\s*(\d+)\s*件|(?:合計|全)\s*(\d+)\s*件の承認")],
+    partner=re.compile(r"(うち|のうち|中|主要な)\s*$"), numw=_NUMW_JA,
+    ctx=re.compile(r"NCT\d|jRCT|UMIN|ClinicalTrials|臨床試験登録"),
+    cw=r"取消|取り消|整理|失効|cancel", preneg=r"^(?!x)x", postneg=r"^[^。、]{0,15}(なし|ない|なく|ありません|ゼロ|おらず|ていない)")
+
+
+AR_DIAC = re.compile(r"[\u064B-\u0652\u0640]")
+# 阿拉伯文（SATxGNN；資料是 SFDA 註冊清單，狀態全為 Registered → 只判許可註銷／查無有效許可與張數，不判上市與否）
+_NUMW_AR = {"واحد": 1, "الوحيد": 1, "ترخيصين": 2, "الترخيصين": 2, "اثنان": 2, "اثنين": 2, "ثلاثة": 3, "الثلاثة": 3, "أربعة": 4, "الأربعة": 4,
+            "خمسة": 5, "الخمسة": 5, "ستة": 6, "الستة": 6, "سبعة": 7, "السبعة": 7, "ثمانية": 8, "الثمانية": 8, "تسعة": 9, "التسعة": 9,
+            "عشرة": 10, "العشرة": 10}
+_LIC_AR = r"(?:[وفبل]?(?:ال)?(?:ترخيص|تراخيص|ترخيصين|ترخيصان)\w*|(?:ال)?(?:منتج|مستحضر)(?:ات)?\s+(?:ال)?(?:مرخص|مسجل|وحيد|محلي)\w*)"
+_CANC_AR = r"(?:[\*«\"]*(?:ال)?(?:ملغ[ىاي]\w*|مُلغ[ىا]\w*|ملغاة|ملغية)|(?:أُ?لغيت|أُ?لغي|تم إلغاء|إلغاء))"
+X_LOCAL["ar"] = dict(
+    neg=re.compile(r"(?<!\w)(لا|غير|عدم|ليس|ليست|بدون|دون)(?!\w)"),
+    valid=re.compile(r"(?<!\w)[وف]?(?:سار(?:ي|ية|يًا|ياً|يا)?|صالح\w*)(?!\w)"),
+    mkt=re.compile(r"مسو[ّ]?ق"),
+    noreg=re.compile(
+        r"(جميع|كل|كلا|كافة)\s*(ال)?(تراخيص|ترخيص|الترخيصين|المنتجات)[^.؟!]{0,40}?" + _CANC_AR + r"|"
+        + _LIC_AR + r"\s*(ال)?(الوحيد|المحلي الوحيد|الوحيد المرخص)[^.؟!]{0,30}?" + _CANC_AR + r"|"
+        r"(الترخيص|المنتج) (الوحيد|المحلي الوحيد)[^.؟!]{0,30}?" + _CANC_AR + r"|"
+        r"(لا|ولا)\s+(يوجد|توجد|يتوفر|تتوفر|يضم|يملك)[^.؟!،]{0,25}?(ترخيص|تراخيص|منتج|مستحضر)\w*[^.؟!،]{0,12}?(سار|ساري|سارية|صالح|فعال)|"
+        r"عدم وجود (أي )?(ترخيص|تراخيص)\w* (سار|ساري|سارية|صالح)|"
+        r"غير مسو[ّ]?ق\w* (حالي|في (السعودية|المملكة|السوق))|ملغ[ىا]\w* التسويق|الوحيد[^.؟!،]{0,25}?" + _CANC_AR + r"|"
+        r"(?<!\w)و?(جميعها|كلها|كلاهما|كلٌّ منها)[^.؟!،]{0,15}?" + _CANC_AR + r"|بحالة\W{0,4}" + _CANC_AR + r"|"
+        r"(?<!\w)بلا (أي )?(ترخيص|تراخيص)\w* (سار|ساري|سارية|صالح)|(غير|ليس|ليست) مرخ[ّ]?ص\w* (حالي|في (السعودية|المملكة))|(ليس|ليست) (لل\w+|له|لها|لديه|لديها) (أي )?(ترخيص|تراخيص)\w* (سار|صالح)|"
+        r"(ليس|ليست) (له|لها|لديه|لديها) (أي )?(ترخيص|تراخيص)\w* (سار|ساري|سارية|صالح)"),
+    canc=re.compile(_LIC_AR + r"[^.؟!]{0,30}?" + _CANC_AR + r"|" + _CANC_AR + r"[^.؟!]{0,6}?" + _LIC_AR + r"|حالة الترخيص\W{0,6}" + _CANC_AR + r"|"
+                    r"(?:ال)?(?:منتج|مستحضر|دواء)(?:ات)?(?:\s+(?:ال)?(?:مرخ[ّ]?ص|مسج[ّ]?ل)\w*(?:\s+محلي\w*)?)?\s+(?:ال)?(?:ملغ[ىاي]\w*|مُلغ[ىا]\w*)|"
+                    r"(?:ملغ[ىا]\w*|مُلغ[ىا]\w*)\s+(?:التسجيل|التسويق|تسويقي\w*)|(?:التسويقية|التسويق)\s+(?:ال)?(?:ملغ[ىاي]\w*|مُلغ[ىا]\w*)|"
+                    r"(?:ملغ[ىاي]\w*|مُلغ[ىا]\w*)\W{0,3}\s*(?:أيض|كذلك)|[«\"](?:ملغاة|ملغى)(?: فقط)?[»\"]"),
+    hist=re.compile(r"(19|20)\d\d|في الماضي|بيطري|تجربة[^.]{0,15}(أوقفت|ألغيت|سحبت)|سُحبت التجربة"),
+    none_cancel=re.compile(r"(لا|ولا) (يوجد|توجد)[^.؟!]{0,15}(ترخيص|تراخيص)\w* ملغ|(0|صفر) (ترخيص|تراخيص)\w* ملغ|لا شيء منها ملغ"),
+    all_valid=re.compile(r"(جميع|كل|كلا)[^.؟!]{0,25}سار"),
+    count=[re.compile(r"(?<![\d.])(\d+)\s*(?:ترخيص\w*|تراخيص)\s*(?:سار\w*|صالح\w*)"),
+           re.compile(r"\(\s*(\d+)\s*من\s*(?:أصل\s*)?\d+\s*(?:تراخيص|ترخيص\w*)?\s*(?:سار\w*|صالح\w*)"),
+           re.compile(r"سار\w*\s*\(\s*(\d+)\s*من"),
+           re.compile(r"جميع (?:ال)?تراخيص\s*(?:الـ\s*)?(\d+|\w+)\s*(?:المسجلة\s*)?سار")],
+    total=[re.compile(r"من أصل\s*(\d+)\s*(?:ترخيص\w*|تراخيص)"), re.compile(r"(?<![\d.])(\d+)\s*(?:ترخيص\w*|تراخيص)\s*مسجل"),
+           re.compile(r"(?:يضم السجل|يوجد|توجد|هناك|لديه|لديها|للدواء|له)\s*(\d+)\s*(?:ترخيص\w*|تراخيص)(?!\s*(?:سار|صالح|ملغ))")],
+    partner=re.compile(r"(من بين|منها|من أصل)\s*$"), numw=_NUMW_AR,
+    ctx=re.compile(r"NCT\d|ClinicalTrials|تجارب? سريرية مسجلة|تجربة مسجلة"),
+    cw=r"ملغ|إلغاء|ألغي|cancel", preneg=r"(لا|غير|عدم|ليس|ليست|بدون|دون)[^.;؛،]{0,30}$", postneg=r"^\W{0,3}(?!x)x")
+
+
+# 泰文（ThTxGNN；Thai FDA 資料有 คงอยู่／ยกเลิก 等狀態，事實層可靠；舊版證據包只帶 1 張許可，報告常把整個藥說成「已註銷」）
+_LIC_TH = r"(?:ทะเบียน|ใบอนุญาต|เลขทะเบียน)"
+_CANC_TH = r"(?:ถูก)?(?:ยกเลิก|เพิกถอน)"
+_UNIT_TH = r"\s*(?:รายการ|ฉบับ|ใบ|ทะเบียน|ตำรับ)"
+X_LOCAL["th"] = dict(
+    neg=re.compile(r"ไม่มี|ไม่ได้|ไม่พบ"),
+    valid=re.compile(r"ยังใช้ได้|ยังมีผล|ยังใช้งาน|คงอยู่"),
+    mkt=re.compile(r"วางจำหน่ายแล้ว|มีจำหน่าย"),
+    noreg=re.compile(
+        _LIC_TH + r"\S{0,30}?" + _CANC_TH + r"(?:แล้ว)?\s*ทั้งหมด|ยกเลิกทั้งหมด|"
+        r"ไม่มี\S{0,25}?" + _LIC_TH + r"\S{0,20}?ที่(?:ยัง)?(?:ใช้ได้|มีผล|ใช้งาน)|ไม่มี\S{0,10}?ใบอนุญาตที่ยัง|"
+        r"ไม่มีผลิตภัณฑ์[^.]{0,30}?(?:ที่)?(?:วางจำหน่าย|ทะเบียนยังใช้ได้)|ไม่มี(?:ทะเบียน|ใบอนุญาต)[^.]{0,40}?ที่ยัง(?:มีผล|ใช้ได้|ใช้งาน)|"
+        + _LIC_TH + r"(?:ยา|ตำรับยา)?(?:ของยา)?(?:ใน(?:ประเทศ)?ไทย)(?:ก็)?\s*" + _CANC_TH + r"|"
+        r"(?:ใน(?:ประเทศ)?ไทย)" + _LIC_TH + r"(?:ยา|ตำรับยา)?\s*" + _CANC_TH + r"|"
+        + _LIC_TH + r"(?:เดิม|เดียวที่มี|เดียว|นี้|ที่พบ|รายการข้างต้น)\S{0,25}?\s*(?:มีสถานะ\s*|สถานะ\s*)?\**\s*" + _CANC_TH + r"|"
+        r"ใบอนุญาตเดิม\S{0,30}?" + _CANC_TH + r"|ใบอนุญาตถูกยกเลิก"),
+    canc=re.compile(_LIC_TH + r"\S{0,20}?\s*\**" + _CANC_TH),
+    hist=re.compile(r"สัตว์|ปศุสัตว์"),
+    none_cancel=re.compile(r"ไม่มี\S{0,15}?(?:ทะเบียน|ใบอนุญาต)\S{0,10}?ที่ถูกยกเลิก"),
+    all_valid=re.compile(r"ทั้งหมด\S{0,15}ยังใช้ได้|ยังใช้ได้ทั้งหมด"),
+    count=[re.compile(r"(?:ยังใช้ได้|ใช้ได้อยู่|ใช้ได้|ยังมีผลใช้ได้|ยังมีผลบังคับใช้|ที่ยังมีผล|ยังใช้งานได้)\s*(?:\(valid\)\s*)?(\d+)" + _UNIT_TH),
+           re.compile(r"(?<![\d/])(\d+)\s*(?:รายการ|ฉบับ|ใบ|ทะเบียน)ที่ยัง(?:ใช้ได้|มีผล)")],
+    ccount=[re.compile(r"(?:ถูก)?ยกเลิก(?:แล้ว)?\s*(\d+)" + _UNIT_TH), re.compile(r"(?<![\d/])(\d+)" + _UNIT_TH + r"\s*ถูกยกเลิก")],
+    ccount_nonvalid=True,  # 「已註銷 N 張」把所有非有效（註銷、撤銷、逾期）都算進去時 N≦總數−有效，不判
+    total=[re.compile(_LIC_TH + r"\S{0,12}?(?:ทั้งหมด|รวม)\s*(\d+)" + _UNIT_TH), re.compile(r"(?:ทั้งหมด|รวม)\s*(\d+)\s*(?:ใบ|ทะเบียน)(?!\S*(?:วิจัย|บทความ|การศึกษา))")],
+    partner=re.compile(r"(?:จาก|ใน)\s*$"), numw={},
+    ctx=re.compile(r"NCT\d|ClinicalTrials|การทดลองทางคลินิก\S{0,6}ลงทะเบียน|ลงทะเบียนการทดลอง"),
+    cw=r"ยกเลิก|เพิกถอน|cancel", preneg=r"(?:ไม่มี|ไม่ได้|ไม่พบ)[^.]{0,45}$", postneg=r"^(?!x)x")
+
+
+_TOTAL_SUBSET_X = re.compile(r"ci-dessous|ci-dessus|\blist[ée]es\b|\bprésent[ée]es\b|\baffich[ée]es\b|\bexemples?\b|\bpremi[eè]res?\b|\btableau\b|"
+                             r"\babaixo\b|\bacima\b|\blistad[oa]s\b|\bexibid[oa]s\b|\bmostrad[oa]s\b|\bprincipais\b|\btabela\b|"
+                             r"\bunten\b|\boben\b|\baufgeführt|\bgelistet|\bTabelle\b|\bsotto\b|\bsopra\b|\belencat|\btabella\b|\bnedan\b|\bovan\b|\blistade\b|\btabell|"
+                             r"\bnedenfor\b|\bovenfor\b|\boppført|\balla\b|\byllä\b|\btaulukko|\bhieronder\b|\bhierboven\b|\bvermeld|\btabel\b", re.I)
+_STATUS_AFTER = re.compile(r"^\W*(\*\*)?(válid|ativ|vigente|cancelad|valid|gültig|aktiv|erlosch|aufgehoben|voimassa|peru|gyldig|avregistr|annullat|revocat|cancellat|"
+                           r"giltig|indrag|valide|annul|abrog|geldig|doorgehaald|ingetrokken)", re.I)
+_ARTICLE = {"een", "ein", "eine", "einer", "einen", "un", "una", "uno", "um", "uma", "en", "ett", "une", "an"}  # 冠詞（「een geldige vergunning」），不當張數
+
+
+def m3x_local_ext(lang, s, fc, site):
+    """第二批站新增的鍵（canc／ccount／total）；舊語言沒有這些鍵，不影響"""
+    R = X_LOCAL.get(lang)
+    if lang == "ar":
+        s = AR_DIAC.sub("", s)
+    if not R or "canc" not in R or not fc or CTX_NARROW.get(site, R["ctx"]).search(s):
+        return None
+    v, c, n = fc.get("valid") or 0, fc.get("cancelled") or 0, fc.get("total")
+    s_np = re.sub(r"\s*\([^()]*\)", "", s)  # 括號（持有人、許可號）拿掉後再找「許可…已註銷」
+    if v > 0 and c == 0 and not fc.get("partial") and (R["canc"].search(s) or R["canc"].search(s_np)) and not R["none_cancel"].search(s) and not R["hist"].search(s):
+        return "M3b"
+    for rx in R.get("ccount", []):
+        for m in rx.finditer(s):
+            k = _xl_num(R, m.group(1))
+            if R.get("ccount_nonvalid") and n and k <= n - v:
+                continue
+            if k and k > c and not fc.get("partial") and not AT_LEAST.search(s[max(0, m.start() - 14):m.start()]) and not R["hist"].search(s):
+                return "M3c"
+    if not fc.get("partial"):  # 有效張數說法跟事實不同（多寫或少寫；「至少」、「…之中的」不算）
+        ok = {v, v + (fc.get("not_marketed") or 0)}
+        for rx in R["count"]:
+            for m in rx.finditer(s):
+                k = None if (m.group(1) or "").lower() in _ARTICLE else _xl_num(R, m.group(1))
+                pre = s[max(0, m.start() - 14):m.start()]
+                if k is not None and k not in ok and not AT_LEAST.search(pre) and not R["partner"].search(pre) and not R["hist"].search(s):
+                    return "M3c"
+    if n and not fc.get("partial") and not _TOTAL_SUBSET_X.search(s):  # 事實查無紀錄（n＝0）時，正文的張數講的可能是資料範圍外的許可（獸用、國家許可），不判；講表格列出的子集不判
+        for rx in R.get("total", []):
+            for m in rx.finditer(s):
+                if _STATUS_AFTER.match(s[m.end():]):
+                    continue  # 「Há 1 registro válido」：後面接狀態字，是某狀態的張數，不是總數
+                g = next((x for x in m.groups() if x and _xl_num(R, x) is not None), None)
+                k = _xl_num(R, g) if g and g.lower() not in _ARTICLE else None
+                if k is not None and k != n and k != n + (fc.get("not_marketed") or 0) and not AT_LEAST.search(s[max(0, m.start() - 14):m.start()]):
+                    return "M3c"
+    return None
+
+
 def m3x_local(lang, s, fc, site):
     """M3a／M3b／M3c／M3d 的非英文寫法（X_LOCAL 有該語言才查）"""
     R = X_LOCAL.get(lang)
+    if lang == "ar":
+        s = AR_DIAC.sub("", s)  # 阿拉伯文的變音符號（ً ّ）不算 \w，比對前拿掉
     if not R or not fc or CTX_NARROW.get(site, R["ctx"]).search(s):
         return None
     ms, v, c, nm = fc.get("market_status"), fc.get("valid") or 0, fc.get("cancelled") or 0, fc.get("not_marketed") or 0
     negd = bool(R["neg"].search(s))
-    if ms in ("Cancelled only", "Not marketed") and (R["valid"].search(s) or R["mkt"].search(s)) and not negd:
+    if ms in ("Cancelled only", "Not marketed") and (R["valid"].search(s) or R["mkt"].search(s)) and not negd and site not in X_SCOPE:
         return "M3a"
-    if ms == "Approved, not marketed" and R["mkt"].search(s) and not negd:
+    if ms == "Approved, not marketed" and R["mkt"].search(s) and not negd and site not in X_SCOPE:
         return "M3d"
+    ext = m3x_local_ext(lang, s, fc, site)
+    if ext:
+        return ext
     cw = R.get("cw", r"cancel|anul|revoc")
     if ms == "Approved, not marketed" and c > 0 and R["all_valid"].search(s) and not re.search(cw, s, re.I):
         return "M3c"
-    posv = any(not re.search(R.get("preneg", r"\b(no|ning[uú]n[oa]?|sin|ni|no hay)\b[^.;]{0,30}$"), s[:m.start()], re.I) for m in R["valid"].finditer(s))
+    posv = any(not re.search(R.get("preneg", r"\b(no|ning[uú]n[oa]?|sin|ni|no hay)\b[^.;]{0,30}$"), s[:m.start()], re.I)
+               and not (R.get("postneg") and re.search(R["postneg"], s[m.end():], re.I)) for m in R["valid"].finditer(s))
     if v > 0 and c == 0 and site in CANC_NOUN and CANC_NOUN[site].search(s) and not R["none_cancel"].search(s):
         return "M3b"
-    if v > 0 and (R["noreg"].search(s) or (site in NOREG_EXTRA and NOREG_EXTRA[site].search(s))) and not R["none_cancel"].search(s) and not posv:
+    vs_zero = bool(R.get("single") and R["single"].search(s) and fc.get("valid_single") == 0)  # 說「單方」沒有有效許可，而事實的單方有效張數確實是 0
+    if v > 0 and not vs_zero and (R["noreg"].search(s) or (site in NOREG_EXTRA and NOREG_EXTRA[site].search(s))) and not R["none_cancel"].search(s) and not posv:
         return "M3b"
     if c > 0 and (not fc.get("partial") or site in M3X_PARTIAL):
         if R["none_cancel"].search(s) or (R["all_valid"].search(s) and not re.search(cw, s, re.I)):
@@ -1935,7 +2457,7 @@ def check_page(site, f, cls, want_noindex):
         # M5（2026-11-05）：非 Tw 站殘留 TwTxGNN 模板的台灣上市狀態列／taiwan_regulatory 欄位／「台灣無許可」句
         if site != "TwTxGNN":
             for line in strip_managed(body).split("\n"):
-                if TW_LEFTOVER.search(line) and not any(k in line for k in license_keep(site).get(f.stem, ())):
+                if tw_left(site, line) and not any(k in line for k in license_keep(site).get(f.stem, ())):
                     E("M5", f"殘留台灣模板：{line.strip()[:60]}")
     # N1
     if want_noindex:

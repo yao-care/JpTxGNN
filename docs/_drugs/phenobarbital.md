@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 242
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Phenobarbital：予測新適応症は三叉神経腫瘍 (Trigeminal Nerve Neoplasm)（エビデンスレベル L5）。既存適応症：不眠症（抗不安薬、抗けいれん薬、催眠鎮静薬）"
 monitor_inn: "Phenobarbital"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
@@ -70,6 +70,12 @@ TxGNN モデルは**三叉神経腫瘍 (Trigeminal Nerve Neoplasm)** に有効�
 
 三叉神経腫瘍に関する文献は 1 編のみで、薬効を直接示すものではありません。
 
+<!-- review:begin jp-lic-20261106-phenobarbital-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「日本では現在、有効な承認はなく、9 件すべてが取消済みです。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 9 件、うち有効 9 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-phenobarbital-1 -->
+
 | PMID | 年 | タイプ | ジャーナル | 主な知見 |
 |------|-----|------|------|---------|
 | [9157801](https://pubmed.ncbi.nlm.nih.gov/9157801/) | 1997 | Case series | Anales espanoles de pediatria | Sturge-Weber 症候群 14 例の臨床経過と治療反応のレビュー。三叉神経腫瘍に対するフェノバルビタールの効果を直接示すものではない |
@@ -116,6 +122,19 @@ TxGNN モデルは**三叉神経腫瘍 (Trigeminal Nerve Neoplasm)** に有効�
 - 作用機序（MOA）データの補完（DrugBank）
 - 反射性発作（聴原性発作など）に絞った再評価と、ヒトでのエビデンス収集
 - 三叉神経腫瘍については、腫瘍関連発作の抑制という限定的な位置づけでの検討
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「日本では現在、有効な承認はなく、9 件すべてが取消済みです」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

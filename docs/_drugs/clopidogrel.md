@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Clopidogrel"
 predicted_indications: ["migraine with brainstem aura", "migraine disorder", "osteoarthritis", "tendinitis", "idiopathic granulomatous myositis", "myositis fibrosa", "rheumatoid arthritis"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Clopidogrel：予測新適応症は片頭痛 (Migraine Disorder)。順位 1 位は脳幹性前兆を伴う片頭痛 (Migraine with Brainstem A…（エビデンスレベル L5）。既存適応症：抗凝固薬、血小板凝集抑制薬、P2Y12阻害薬"
 ---
 
@@ -126,6 +126,25 @@ TxGNN モデルは、上位予測の一つである**片頭痛 (Migraine Disorde
 - 詳細な作用機序データ（MOA）の補充
 - 添付文書（PMDA）の警告・禁忌情報の取得と安全性スクリーニング
 - 出血リスクと PPI 等との薬物相互作用に関する管理計画
+
+<!-- review:begin jp-lic-20261106-clopidogrel-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「出血リスクと PPI 等との薬物相互作用に関する管理計画／日本での承認が全件整理済みであるため、供給・承認状況の再確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-clopidogrel-1 -->
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「日本での承認が全件整理済みであるため、供給・承認状況の再確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

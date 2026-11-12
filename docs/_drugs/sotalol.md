@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Sotalol"
 predicted_indications: ["sick sinus syndrome 2, autosomal dominant", "Wildervanck syndrome", "sarcoglycanopathy", "stroke disorder", "manic bipolar affective disorder", "macrocephaly, dysmorphic facies, and psychomotor retardation"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Sotalol：予測新適応症は洞不全症候群 2 型、常染色体優性 (sick sinus syndrome 2, autosomal dominant) (sick sinus syndrome 2, autosomal dominant)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 
@@ -90,6 +90,12 @@ TxGNN モデルの予測上位は洞不全症候群 2 型（常染色体優性�
 
 双極性障害の躁状態については、文献 2 編（[39179332](https://pubmed.ncbi.nlm.nih.gov/39179332/)、[32124390](https://pubmed.ncbi.nlm.nih.gov/32124390/)）が見つかりました。いずれも β 遮断薬と抗精神病薬の併用による QT 延長・torsades de pointes のリスクを扱っており、有効性を支持する証拠ではなく安全性上の懸念です。
 
+<!-- review:begin jp-lic-20261106-sotalol-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「現在、日本で有効な承認はなく、7 件すべてが取消となっています。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 7 件、うち有効 7 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-sotalol-1 -->
+
 ## 日本市販情報
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
@@ -120,12 +126,39 @@ TxGNN モデルの予測上位は洞不全症候群 2 型（常染色体優性�
 **理由：**
 予測順位 1 位の洞不全症候群 2 型は、ソタロールの徐拍化作用により悪化する可能性があり、安全性上不適切です。脳卒中については心房細動治療を介した間接的な関連しかなく、ソタロール単独で脳卒中を減らす証拠もありません。
 
+<!-- review:begin jp-lic-20261106-sotalol-2 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「脳卒中については心房細動治療を介した間接的な関連しかなく、ソタロール単独で脳卒中を減らす証拠もありません。さらに日本では現在有効な承認がありません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 7 件、うち有効 7 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-sotalol-2 -->
+
 **進める場合に必要なもの：**
 - PMDA 添付文書の警告・禁忌の取得（安全性スクリーニングに必須）
 - DrugBank からの作用機序（MOA）データの取得
 - 脳卒中予防を主要評価項目とした、ソタロールと他の抗不整脈薬の比較データ
 - 日本での販売状況と供給可能性の確認
 - 洞不全症候群 2 型の予測は、禁忌との重複を踏まえて除外を検討
+
+<!-- review:begin jp-lic-20261106-sotalol-3 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「日本での販売状況（承認取消の経緯）と供給可能性の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 7 件、うち有効 7 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-sotalol-3 -->
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「現在、日本で有効な承認はなく、7 件すべてが取消となっています」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「さらに日本では現在有効な承認がありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「承認取消の経緯」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

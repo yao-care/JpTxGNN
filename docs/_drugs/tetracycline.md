@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 303
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Tetracycline：予測新適応症は点状表層角結膜炎 (Punctate Epithelial Keratoconjunctivitis)（エビデンスレベル L5）。既存適応症：淋菌感染症、軟性下疳、性病性リンパ肉芽腫、猩紅熱、炭疽、ブルセラ症、百日咳、野兎病、ガス壊疽、回帰熱、ワイル病、発疹チフス、つつが虫病…"
 monitor_inn: "Tetracycline"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "chronic ethmoidal sinusitis", "chronic rhinosinusitis", "paranasal sinus neoplasm (disease)"]
@@ -64,6 +64,12 @@ TxGNN モデルは**点状表層角結膜炎 (Punctate Epithelial Keratoconjunct
 
 現在、関連する臨床試験の登録はありません。
 
+<!-- review:begin jp-lic-20261106-tetracycline-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「いずれも承認は取消済みです。ほかに歯科用軟膏（承認番号 620002329）も取消済みです。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 6 件、うち有効 6 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-tetracycline-1 -->
+
 ## 文献エビデンス
 
 | PMID | 年 | タイプ | ジャーナル | 主な知見 |
@@ -112,6 +118,19 @@ TxGNN モデルは**点状表層角結膜炎 (Punctate Epithelial Keratoconjunct
 | 副鼻腔腫瘍 (Paranasal Sinus Neoplasm) | 0.9910 | L5 | Hold |
 
 慢性副鼻腔炎については、メタアナリシスやレビューが複数あります。ただし、その多くはテトラサイクリン自体ではなく、同系統のドキシサイクリンに関するものです。第一候補より先に、この疾患を優先して検討する価値があります。
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「いずれも承認は取消済みです。ほかに歯科用軟膏（承認番号 620002329）も取消済みです」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

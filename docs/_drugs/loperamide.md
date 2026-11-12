@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 191
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Loperamide：予測新適応症は急性伝染性結膜炎 (Acute Contagious Conjunctivitis)（エビデンスレベル L5）。既存適応症：止瀉薬、蠕動抑制薬、オピオイド受容体作動薬"
 monitor_inn: "Loperamide"
 predicted_indications: ["acute contagious conjunctivitis", "amebic dysentery", "conjunctivitis", "gastroduodenitis", "pseudomembranous conjunctivitis", "parasitic conjunctivitis", "chronic follicular conjunctivitis", "conjunctival folliculosis", "serous conjunctivitis except viral", "Angelucci syndrome"]
@@ -69,6 +69,12 @@ TxGNN モデルは**急性伝染性結膜炎 (Acute Contagious Conjunctivitis)**
 
 予測第 1 位の急性伝染性結膜炎に関する文献はありません。参考として、予測第 2 位（アメーバ赤痢）と第 4 位（胃十二指腸炎）で得られた文献を示します。いずれも有効性を支持するものではありません。
 
+<!-- review:begin jp-lic-20261106-loperamide-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「日本では現在、販売中の承認はなく、8 件すべてが取消済みです。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 8 件、うち有効 8 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-loperamide-1 -->
+
 | PMID | 年 | タイプ | ジャーナル | 主な知見 |
 |------|-----|------|------|---------|
 | [3893119](https://pubmed.ncbi.nlm.nih.gov/3893119/) | 1985 | Review | Am J Med | 急性下痢の非輸液療法のレビュー。経口補液が基本で、各種薬剤が症状を軽減しうる（アメーバ赤痢予測に関連） |
@@ -100,12 +106,32 @@ TxGNN モデルは**急性伝染性結膜炎 (Acute Contagious Conjunctivitis)**
 **理由：**
 - 急性伝染性結膜炎に対する臨床試験・文献はなく、機序的な関連も見いだせないため、モデル予測のみの L5 です。
 
+<!-- review:begin jp-lic-20261106-loperamide-2 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「急性伝染性結膜炎に対する臨床試験・文献はなく、機序的な関連も見いだせないため、モデル予測のみの L5 です。／日本では販売中の承認がなく、安全性情報も不足しています。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 8 件、うち有効 8 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-loperamide-2 -->
+
 **進める場合に必要なもの：**
 - 詳細な作用機序データ（MOA）の取得
 - 日本の添付文書（警告・禁忌）の取得と安全性評価
 - 眼への投与経路の適合性の検討（現状は未評価）
 - 結膜炎に対する前臨床での機序検証（ロペラミドの眼局所作用を示す根拠）
 - 予測精度の再確認。消化管関連の候補（アメーバ赤痢、胃十二指腸炎）は、現在の文献ではむしろ安全性上の懸念を示しています。
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「日本では現在、販売中の承認はなく、8 件すべてが取消済みです」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本では販売中の承認がなく、安全性情報も不足しています」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

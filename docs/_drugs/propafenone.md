@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 257
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Propafenone：予測新適応症は躁病性双極性障害。TxGNN モデル（深層学習）のスコアは 0.9980（エビデンスレベル L5）。既存適応症：抗不整脈薬、ナトリウムチャネル遮断薬"
 monitor_inn: "Propafenone"
 predicted_indications: ["manic bipolar affective disorder", "periodic paralysis with transient compartment-like syndrome", "Prinzmetal angina", "arrhythmogenic right ventricular cardiomyopathy", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania"]
@@ -99,6 +99,12 @@ CPVT に関する主な文献です。
 
 CPVT 以外の候補では、乳児の持続性心室頻拍に対する経口プロパフェノンの小児観察研究（[8237821](https://pubmed.ncbi.nlm.nih.gov/8237821/)、1993 年、Case series）があります。
 
+<!-- review:begin jp-lic-20261106-propafenone-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「日本のすべての承認が整理済みで、現在市販中の承認はありません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 7 件、うち有効 7 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-propafenone-1 -->
+
 ---
 
 ## 日本市販情報
@@ -138,6 +144,19 @@ PMDA の添付文書にある警告・禁忌は、今回のデータには含ま
 - CPVT でプロパフェノンとフレカイニドを比較した臨床データの収集（後ろ向きコホートまたは前向き試験）
 - 国内で使用できる製剤・供給体制の確認
 - QT 延長、構造的心疾患、CYP 阻害薬併用の患者に対するモニタリング計画の作成
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「日本のすべての承認が整理済みで、現在市販中の承認はありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

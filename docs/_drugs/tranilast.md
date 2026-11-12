@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 320
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Tranilast：予測新適応症は脂漏性角化症 (Seborrheic Keratosis)（エビデンスレベル L5）。既存適応症：気管支喘息、アレルギー性鼻炎、アトピー性皮膚炎（抗アレルギー薬・喘息治療薬・メディエーター遊離抑制薬）"
 monitor_inn: "Tranilast"
 predicted_indications: ["seborrheic keratosis", "seborrheic dermatitis", "polyp of vocal cord", "polyp of middle ear", "polyp of frontal sinus", "polyp of external auditory canal", "epulis", "fibroepithelial polyp", "polyp of ureter", "polyp of vulva"]
@@ -101,12 +101,38 @@ TxGNN モデルは**脂漏性角化症 (Seborrheic Keratosis)** に有効であ�
 **理由：**
 脂漏性角化症に対する臨床試験も文献もなく、予測はモデルのスコアのみに基づいています。
 
+<!-- review:begin jp-lic-20261106-tranilast-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「脂漏性角化症に対する臨床試験も文献もなく、予測はモデルのスコアのみに基づいています。日本での有効な承認もなく、安全性情報（警告・禁忌）も未確認のため、現時点では開発を進められません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 20 件、うち有効 20 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-tranilast-1 -->
+
 **進める場合に必要なもの：**
 - PMDA 添付文書から警告・禁忌を取得し、安全性スクリーニングを実施する（必須）
 - DrugBank などから詳細な作用機序（MOA）を取得する
 - TGF-β 抑制と脂漏性角化症の病態との関連を検証する前臨床研究・文献調査
 - 投与経路（外用または経口）の適合性評価
 - エビデンスのより強い候補（例：エプーリスなど線維化関連疾患）との優先順位比較
+
+<!-- review:begin jp-lic-20261106-tranilast-2 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「現在有効な承認がないため、製造販売の再開や開発主体に関する規制面の確認／エビデンスのより強い候補（例：エプーリスなど線維化関連疾患）との優先順位比較」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 20 件、うち有効 20 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-tranilast-2 -->
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「日本での有効な承認もなく、安全性情報（警告・禁忌）も未確認のため、現時点では開発を進められません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「現在有効な承認がないため、製造販売の再開や開発主体に関する規制面の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

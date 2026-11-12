@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "temozolomide"
 predicted_indications: ["cauda equina neoplasm"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Temozolomide：予測新適応症は馬尾腫瘍 (Cauda equina neoplasm)（エビデンスレベル L5）."
 ---
 
@@ -93,12 +93,38 @@ TxGNN モデルは**馬尾腫瘍 (Cauda equina neoplasm)** に有効である可
 **理由：**
 TxGNN の予測スコアは高いものの、馬尾腫瘍を直接検討した臨床試験はなく、文献も症例報告 1 編のみです。
 
+<!-- review:begin jp-lic-20261106-temozolomide-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「TxGNN の予測スコアは高いものの、馬尾腫瘍を直接検討した臨床試験はなく、文献も症例報告 1 編のみです。日本では市販されておらず、承認も取得されていないため、現時点では研究課題として位置づけるのが適切です。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 5 件、うち有効 5 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-temozolomide-1 -->
+
 **進める場合に必要なもの：**
 - 日本の添付文書（警告・禁忌）の確認と安全性スクリーニング
 - 詳細な薬物作用機序データ（MOA）の補充
 - 脊髄・馬尾領域の上衣腫など関連腫瘍に対する、より多くの症例報告・観察研究・臨床試験データの収集
 - 日本での販売状況・供給体制の確認
 - 骨髄抑制リスクに対する血液学的モニタリング計画の策定
+
+<!-- review:begin jp-lic-20261106-temozolomide-2 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「日本での販売状況・供給体制の確認（現在は市販なし）」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 5 件、うち有効 5 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-temozolomide-2 -->
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「日本では市販されておらず、承認も取得されていないため、現時点では研究課題として位置づけるのが適切です」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「現在は市販なし」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

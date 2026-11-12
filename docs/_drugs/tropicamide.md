@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Tropicamide"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Tropicamide：予測新適応症は馬尾症候群 (Cauda Equina Syndrome)（エビデンスレベル L5）。既存適応症：散瞳薬、ムスカリン受容体拮抗薬"
 ---
 
@@ -92,6 +92,12 @@ TxGNN モデルは**馬尾症候群 (Cauda Equina Syndrome)** に有効である
 **理由：**
 予測はモデルのスコアのみに基づいており、臨床試験も文献もありません。全身投与の安全性・薬物動態データもないため、現時点で先に進める根拠は不足しています。
 
+<!-- review:begin jp-lic-20261106-tropicamide-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「点眼剤として販売終了となっており、全身投与の安全性・薬物動態データもないため、現時点で先に進める根拠は不足しています。」でした。削除：医薬品マスター（薬価基準収載品目）の収載情報と一致しない記載でした（2026-11-06）。データ上の収載は 4 件、うち有効 4 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-tropicamide-1 -->
+
 **進める場合に必要なもの：**
 - 添付文書の警告・禁忌情報の取得（現在は安全性評価を進められない状態です）
 - 作用機序データの補完（DrugBank などから）
@@ -99,6 +105,19 @@ TxGNN モデルは**馬尾症候群 (Cauda Equina Syndrome)** に有効である
 - 予測疾患の用語の見直し（神経因性膀胱は旧用語のため現行の用語に置き換える）
 - 馬尾症候群、神経因性膀胱、過敏性腸症候群での抗ムスカリン薬に関する文献と臨床試験の調査
 - 全身性の抗ムスカリン薬（既存の排尿障害治療薬など）との比較による優位性の検討
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「点眼剤として販売終了となっており」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

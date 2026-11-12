@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 102
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Doxycycline：予測新適応症は点状表層角結膜炎 (Punctate Epithelial Keratoconjunctivitis)（エビデンスレベル L5）。既存適応症：気管支炎、ざ瘡、細菌性肺炎、炭疽（吸入・消化管）、淋菌感染症、咽頭炎、放線菌症、軟性下疳、レプトスピラ症、鼠径リンパ肉芽腫 など"
 monitor_inn: "Doxycycline"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "exposure keratitis", "chronic gingivitis"]
@@ -97,6 +97,12 @@ TxGNN モデルは**点状表層角結膜炎 (Punctate Epithelial Keratoconjunct
 **理由：**
 - 予測スコアは高いものの、関連する臨床試験の登録はなく、文献も 1992 年の 2 症例報告のみです。
 
+<!-- review:begin jp-lic-20261106-doxycycline-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「予測スコアは高いものの、関連する臨床試験の登録はなく、文献も 1992 年の 2 症例報告のみです。／日本では現在有効な承認もないため、再利用の判断に進める段階ではありません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 2 件、うち有効 2 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-doxycycline-1 -->
+
 **進める場合に必要なもの：**
 - 点状表層角結膜炎に対するドキシサイクリンの有効性を評価する臨床研究（眼科領域の観察研究や小規模な比較試験）
 - 作用機序データの補完（MMP 阻害・抗炎症作用と眼表面病態の関連）
@@ -104,6 +110,19 @@ TxGNN モデルは**点状表層角結膜炎 (Punctate Epithelial Keratoconjunct
 - 投与経路の検討（全身投与か局所投与か）と、日本での製剤の入手可否の確認
 
 **参考：** 同じデータ内の他の予測候補では、慢性歯肉炎（歯周炎に対する局所・補助投与の無作為化試験が複数あり、エビデンスレベル L2、Proceed with Guardrails）が相対的にエビデンスが厚く、優先検討の余地があります。
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「日本では現在有効な承認もないため、再利用の判断に進める段階ではありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

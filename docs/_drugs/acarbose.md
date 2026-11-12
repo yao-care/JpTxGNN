@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Acarbose"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Acarbose：予測新適応症はfocal stiff limb syndrome（エビデンスレベル L5）。既存適応症：糖尿病（α-グルコシダーゼ阻害薬）"
 ---
 
@@ -100,11 +100,30 @@ TxGNN モデルは **focal stiff limb syndrome** に有効である可能性を�
 - 臨床試験・文献がなく、エビデンスはモデル予測のみ（L5）です。
 - アカルボースの作用機序と focal stiff limb syndrome の病態に妥当な接点がありません。
 
+<!-- review:begin jp-lic-20261106-acarbose-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「アカルボースの作用機序と focal stiff limb syndrome の病態に妥当な接点がありません。／日本の販売承認も全て取消となっています。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 4 件、うち有効 4 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-acarbose-1 -->
+
 **進める場合に必要なもの：**
 - 添付文書の警告・禁忌情報の取得（現時点で安全性スクリーニングに進めない状態です）
 - 作用機序データの補充
 - 予測疾患に対する機序的仮説の提示と、前臨床または症例レベルの裏付け
 - 他の予測候補を含めた再評価。ただし、上位候補にも同様に根拠がありません。
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「日本の販売承認も全て取消となっています」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

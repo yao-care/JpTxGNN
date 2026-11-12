@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 224
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Olanzapine：予測新適応症は良性乳児発作性斜頸 (benign paroxysmal torticollis of infancy)（エビデンスレベル L5）。既存適応症：統合失調症、双極性障害"
 monitor_inn: "Olanzapine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia"]
@@ -84,6 +84,12 @@ TxGNN の上位 10 件のうち、エビデンスに差があります。参考�
 
 主な承認は以下のとおりです。
 
+<!-- review:begin jp-lic-20261106-olanzapine-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「販売中の承認はなく、20 件すべてが整理済み（取消）です。主な承認は以下のとおりです。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-olanzapine-1 -->
+
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
 | 622506401 | オランザピン細粒１％「ニプロ」 | 細粒 | 統合失調症、双極性障害 |
@@ -115,6 +121,26 @@ TxGNN の上位 10 件のうち、エビデンスに差があります。参考�
 - 作用機序（MOA）データの補充（DrugBank）
 - 優先度の高い候補への切り替え検討。神経症性うつ病・メランコリアは、治療抵抗性うつ病の増強療法でオランザピン単独の根拠を精査すれば、Proceed with Guardrails の対象になり得ます。広場恐怖症と気分変調性障害は、研究課題として前向き試験の設計を検討できます。
 - 再利用を進める場合は供給と承認状況の確認が必要です。
+
+<!-- review:begin jp-lic-20261106-olanzapine-2 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「国内で販売中の製剤がないため、再利用を進める場合は供給と承認状況の確認が必要です。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-olanzapine-2 -->
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「販売中の承認はなく、20 件すべてが整理済み（取消）です」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「国内で販売中の製剤がないため」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

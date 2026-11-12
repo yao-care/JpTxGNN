@@ -5,7 +5,7 @@ parent: 高エビデンスレベル
 nav_order: 179
 evidence_level: L2
 indication_count: 4
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 description: "Lenalidomide：予測新適応症は骨髄性白血病 (Myeloid Leukemia)（エビデンスレベル L2）。既存適応症：多発性骨髄腫、骨髄異形成症候群（5番染色体長腕部欠失）"
 monitor_inn: "Lenalidomide"
 predicted_indications: ["myeloid leukemia", "refractory cytopenia of childhood", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts"]
@@ -129,11 +129,23 @@ TxGNN モデルは**骨髄性白血病 (Myeloid Leukemia)** に有効である�
 **理由：**
 - AML・高リスク MDS を対象に、完了済みの Phase 2 試験が複数あり、機序的にも整合します。ただし、確証的な Phase 3 試験の結果はなく、各試験の規模も小さいです。
 
+<!-- review:begin jp-lic-20261106-lenalidomide-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「ただし、確証的な Phase 3 試験の結果はなく、各試験の規模も小さいです。／日本の承認は全件が取消済みで、添付文書の警告・禁忌データも欠けているため、安全性面のガードレールが必要です。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 12 件、うち有効 12 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-lenalidomide-1 -->
+
 **進める場合に必要なもの：**
 - PMDA の添付文書（警告・禁忌）の取得と安全性スクリーニング
 - 詳細な作用機序データ（MOA）の補完
 - Phase 2 試験の有効性結果（寛解率、生存期間）の精査
 - 骨髄抑制、血栓塞栓症、催奇形性（胎児毒性）に対するモニタリング計画
+
+<!-- review:begin jp-lic-20261106-lenalidomide-2 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「骨髄抑制、血栓塞栓症、催奇形性（胎児毒性）に対するモニタリング計画／日本での承認取消の経緯の確認と、供給体制の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 12 件、うち有効 12 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-lenalidomide-2 -->
 
 ### 補足：他の予測適応症
 
@@ -142,6 +154,19 @@ TxGNN モデルは**骨髄性白血病 (Myeloid Leukemia)** に有効である�
 | 3 | 小児不応性血球減少症 | 0.9935 | L5 | Hold |
 | 4 | 無再生性貧血 | 0.9932 | L5 | Research Question |
 | 5 | 重症先天性低色素性貧血（環状鉄芽球を伴う） | 0.9928 | L5 | Hold |
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「日本の承認は全件が取消済みで、添付文書の警告・禁忌データも欠けているため、安全性面のガードレールが必要です」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本での承認取消の経緯の確認と、供給体制の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
 
 ## 免責事項
 

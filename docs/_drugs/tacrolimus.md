@@ -5,7 +5,7 @@ parent: 高エビデンスレベル
 nav_order: 293
 evidence_level: L1
 indication_count: 2
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "Tacrolimus"
 predicted_indications: ["seborrheic dermatitis", "parapsoriasis"]
 description: "Tacrolimus：予測新適応症は脂漏性皮膚炎 (seborrheic dermatitis)（エビデンスレベル L1）。既存適応症：日本の承認情報に適応症の記載なし"
@@ -114,6 +114,12 @@ TxGNN モデルは**脂漏性皮膚炎 (Seborrheic Dermatitis)** に有効であ
 - 脂漏性皮膚炎に対し、完了済みの Phase 3 試験（n=120）と Phase 4 試験（n=104）があります。維持療法を検討した文献や機序面の裏付けもあり、エビデンスは一定程度あります。
 - 一方で、Phase 3 は 1 件のみで、結果の詳細は今回のデータに含まれていません。
 
+<!-- review:begin jp-lic-20261106-tacrolimus-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「一方で、Phase 3 は 1 件のみで、結果の詳細は今回のデータに含まれていません。日本では脂漏性皮膚炎の適応がなく、現在有効な承認もありません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-tacrolimus-1 -->
+
 **進める場合に必要なもの：**
 - 作用機序データ（MOA）の補充
 - 添付文書（PMDA）の警告・禁忌情報の取得と、安全性スクリーニングの実施
@@ -122,6 +128,12 @@ TxGNN モデルは**脂漏性皮膚炎 (Seborrheic Dermatitis)** に有効であ
 - 外用での長期使用に伴う感染症・悪性腫瘍リスクのモニタリング計画
 - 外用剤形（軟膏）に限定した投与経路の検討
 
+<!-- review:begin jp-lic-20261106-tacrolimus-2 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「日本での販売状況（承認取消の経緯と現在の供給）の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-tacrolimus-2 -->
+
 ## 補足：その他の予測適応症（参考）
 
 | 予測適応症 | TxGNN スコア | エビデンスレベル | 推奨 |
@@ -129,6 +141,20 @@ TxGNN モデルは**脂漏性皮膚炎 (Seborrheic Dermatitis)** に有効であ
 | 類乾癬 (Parapsoriasis) | 0.9924 | L5 | Research Question |
 
 ケロイド性痤瘡は、タクロリムス使用中の移植患者での発症報告があり、治療効果ではなく有害事象の可能性を示唆しています。慢性萎縮性肢端皮膚炎は感染症であり、免疫抑制が悪化させるおそれがあります。
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「日本では脂漏性皮膚炎の適応がなく、現在有効な承認もありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「承認取消の経緯と」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

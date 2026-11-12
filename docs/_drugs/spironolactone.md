@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 286
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "Spironolactone"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia"]
 description: "Spironolactone：予測新適応症はHypotrichosis simplex of the scalp（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
@@ -105,6 +105,12 @@ description: "Spironolactone：予測新適応症はHypotrichosis simplex of the
 **理由：**
 ただし、Phase 3 の確証試験がありません。
 
+<!-- review:begin jp-lic-20261106-spironolactone-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「ただし、Phase 3 の確証試験がなく、日本では有効な承認が現在ありません。」でした。削除：承認・収載の件数または状態の記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 14 件、うち有効 14 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-spironolactone-1 -->
+
 その他の予測候補（頭皮の単純性乏毛症、先天性乏毛症・稗粒腫、びまん性円形脱毛症、悪性高血圧性腎疾患、Braddock 症候群など）は、実データがないか間接的なものに限られるため、**Hold** が妥当です。
 
 **進める場合に必要なもの：**
@@ -112,6 +118,19 @@ description: "Spironolactone：予測新適応症はHypotrichosis simplex of the
 - 詳細な薬物作用機序（MOA）データの補充
 - 日本での承認状況の確認（現在の有効な承認の有無、再承認や新規申請の要否）
 - 対象集団（主に女性）、投与量、腎機能・カリウム値のモニタリング計画の策定
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「なく、日本では有効な承認が現在」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

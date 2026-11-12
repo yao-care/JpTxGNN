@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 282
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "Simvastatin"
 predicted_indications: ["brain stem infarction", "cholesterol-ester transfer protein deficiency", "HIV infectious disease", "ABri amyloidosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Simvastatin：予測新適応症はBrain stem infarction（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
@@ -126,6 +126,25 @@ description: "Simvastatin：予測新適応症はBrain stem infarction（エビ�
 - 詳細な作用機序データの補充
 - 既存適応症と重ならない疾患への展開を狙う場合は、新規適応症の候補の再選定
 - 相互作用（特に CYP3A4 阻害薬）と筋障害のモニタリング計画
+
+<!-- review:begin jp-lic-20261106-simvastatin-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「日本の販売状況の確認（取消済みのため、現行の承認製剤の有無を確認する）」でした。削除：医薬品マスター（薬価基準収載品目）の収載情報と一致しない記載でした（2026-11-06）。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-simvastatin-1 -->
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「取消済みのため」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

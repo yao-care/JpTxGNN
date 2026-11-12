@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 194
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Lorlatinib：予測新適応症は遺伝性歯肉線維腫症 (fibromatosis, gingival)（エビデンスレベル L5）。既存適応症：非小細胞肺癌（ALK 陽性）"
 monitor_inn: "Lorlatinib"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "lung germ cell tumor", "pulmonary sulcus neoplasm", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "junctional epidermolysis bullosa", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
@@ -105,12 +105,31 @@ TxGNN モデルは**遺伝性歯肉線維腫症 (fibromatosis, gingival)** に�
 **理由：**
 - 予測スコアは高いものの、遺伝性歯肉線維腫症に対する臨床試験・文献がなく、ALK/ROS1 阻害との機序的関連も確立されていません（L5）。
 
+<!-- review:begin jp-lic-20261106-lorlatinib-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「予測スコアは高いものの、遺伝性歯肉線維腫症に対する臨床試験・文献がなく、ALK/ROS1 阻害との機序的関連も確立されていません（L5）。／日本の承認は失効しており、添付文書の警告・禁忌も未確認です。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 2 件、うち有効 2 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-lorlatinib-1 -->
+
 **進める場合に必要なもの：**
 - 添付文書（PMDA）の警告・禁忌の取得と安全性評価
 - 詳細な作用機序（MOA）データの取得
 - 歯肉線維腫症の病態（遺伝子変異など）と ALK/ROS1 経路の関連を検証する前臨床研究
 - 投与経路（経口錠のみ）と対象疾患の適合性の検討
 - 予測順位の高い他候補のうち、ALK 陽性肺癌に近い疾患（肺門部癌、肺溝腫瘍など）を優先的に再評価すること
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「日本の承認は失効しており、添付文書の警告・禁忌も未確認です」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

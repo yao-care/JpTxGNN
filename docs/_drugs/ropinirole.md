@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 10
 monitor_inn: "ropinirole"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "retinal dystrophy with or without extraocular anomalies", "schizophrenia", "myopia X-linked", "congenital disorder of glycosylation with defective fucosylation", "atypical glycine encephalopathy", "myopia 26, X-linked, female-limited", "Charcot-Marie-Tooth disease, demyelinating, type 1G"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Ropinirole：予測新適応症は注意欠如・多動症 (Attention Deficit-Hyperactivity Disorder)（エビデンスレベル L2）。既存適応症：パーキンソン病"
 ---
 
@@ -114,12 +114,31 @@ TxGNN モデルは**注意欠如・多動症 (Attention Deficit-Hyperactivity Di
 - 小児・青年での安全性（精神症状、起立性低血圧、衝動制御障害）を検討する
 - 検証的な追加試験の計画
 
+<!-- review:begin jp-lic-20261106-ropinirole-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「検証的な追加試験の計画、および日本で販売承認が取り消された経緯の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-ropinirole-1 -->
+
 ## 補足：他の予測候補
 
 以下は ADHD 以外の予測候補です。
 
 - **統合失調症**（スコア 0.9990、L4、Hold）：前臨床試験、プロドパミン薬の陰性症状に関するメタ解析、症例報告があります。ただしドパミン作動薬は陽性症状を悪化させる可能性があり、知識グラフ上でも禁忌とされています。
 - **その他**（顔指趾生殖器症候群、X 連鎖性近視、網膜ジストロフィーなど）：いずれも L5（モデル予測のみ）で、機序的な根拠は乏しく、保留が妥当です。
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「および日本で販売承認が取り消された経緯の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

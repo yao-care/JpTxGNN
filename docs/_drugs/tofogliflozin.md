@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Tofogliflozin"
 predicted_indications: ["opsismodysplasia", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Tofogliflozin：予測新適応症はオプシスモディスプラジア (Opsismodysplasia)（エビデンスレベル L5）。既存適応症：2型糖尿病"
 ---
 
@@ -83,23 +83,36 @@ TxGNN モデルは**オプシスモディスプラジア (Opsismodysplasia)** �
 - 予測スコアは高い（0.9946）ものの、臨床試験・文献が一件もなく、機序的な関連も見いだせません。
 - 現時点で再利用を進める根拠は不足しています。
 
+<!-- review:begin jp-lic-20261031-tofogliflozin-1 -->
+
+> **確認による訂正（2026-10-31）**：元の記載は「さらに日本での承認は取消のみで、現時点で再利用を進める根拠は不足しています。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-10-31）。データ上の収載は 1 件、うち有効 1 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261031-tofogliflozin-1 -->
+
 **進める場合に必要なもの：**
 - PMDA の添付文書に基づく警告・禁忌情報の取得（安全性スクリーニングの前提）
 - 詳細な作用機序データの補充（DrugBank など）
 - SGLT2 阻害と INPPL1/SHIP2 経路との関連を検討する前臨床研究
 - 他の予測候補（スティッフパーソン症候群、限局性リポジストロフィー等）も、いずれも L5 で同様に裏付けがないため、より機序的に妥当な候補の再選定
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-10-31 | 削除：「さらに日本での承認は取消のみで」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。
 臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-
-
-
-
 
 <!-- brand-names:start -->
 ## 日本での販売名

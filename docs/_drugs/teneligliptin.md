@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Teneligliptin"
 predicted_indications: ["opsismodysplasia", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Teneligliptin：予測新適応症はOpsismodysplasia（オプシスモ異形成症）（エビデンスレベル L5）。既存適応症：2 型糖尿病"
 ---
 
@@ -86,11 +86,37 @@ TxGNN モデルは **Opsismodysplasia（オプシスモ異形成症）** に有�
 **理由：**
 予測新規適応症にはモデル予測以外の根拠（臨床試験、文献、機序的関連）がなく、エビデンスレベルは L5 です。
 
+<!-- review:begin jp-lic-20261106-teneligliptin-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「予測新規適応症にはモデル予測以外の根拠（臨床試験、文献、機序的関連）がなく、エビデンスレベルは L5 です。また、日本での承認は全て取消済みで、現在市販されていません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 4 件、うち有効 4 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-teneligliptin-1 -->
+
 **進める場合に必要なもの：**
 - DPP-4 阻害と INPPL1/SHIP2 経路との機序的関連を検討する前臨床データ
 - 詳細な作用機序データ（MOA）の補充
 - PMDA 添付文書の警告・禁忌情報の取得と安全性評価
 - 他の上位候補（stiff person 症候群など）を含めた優先順位の再検討
+
+<!-- review:begin jp-lic-20261106-teneligliptin-2 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「取消済み承認の経緯の確認（再申請や他国での承認状況を含む）／他の上位候補（stiff person 症候群など）を含めた優先順位の再検討」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 4 件、うち有効 4 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-teneligliptin-2 -->
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「また、日本での承認は全て取消済みで、現在市販されていません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「取消済み承認の経緯の確認（再申請や他国での承認状況を含む」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

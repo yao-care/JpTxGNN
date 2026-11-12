@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Naftopidil"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Naftopidil：予測新適応症はAmbras 型先天性汎発性多毛症 (Ambras type hypertrichosis universalis congenita)（エビデンスレベル L5）。既存適応症：排尿障害改善薬、α1アドレナリン受容体拮抗薬"
 ---
 
@@ -76,6 +76,12 @@ TxGNN モデルは **Ambras 型先天性汎発性多毛症 (Ambras type hypertri
 
 主な承認は以下のとおりです。
 
+<!-- review:begin jp-lic-20261106-naftopidil-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「現在有効な承認はなく、20 件すべてが整理済みです。主な承認は以下のとおりです。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-naftopidil-1 -->
+
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
 | 620002803 | フリバス錠75mg | 錠 75mg | 排尿障害改善薬、α1アドレナリン受容体拮抗薬 |
@@ -98,6 +104,19 @@ TxGNN モデルは **Ambras 型先天性汎発性多毛症 (Ambras type hypertri
 - DrugBank などから詳細な作用機序データ（MOA）を補充する
 - α1 受容体拮抗と毛包・TRPS1 関連経路の関係に関する前臨床・機序研究の探索
 - 投与経路や剤形の適合性の評価（現在は経口錠剤のみ）
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「現在有効な承認はなく、20 件すべてが整理済みです」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

@@ -5,7 +5,7 @@ parent: 高エビデンスレベル
 nav_order: 253
 evidence_level: L2
 indication_count: 9
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 description: "Prednisolone：予測新適応症は円形脱毛症 (Alopecia Areata)（エビデンスレベル L2）。既存適応症：乾癬、掌蹠膿疱症（外用製剤）／関節リウマチ、全身性エリテマトーデス、ネフローゼ症候群、気管支喘息など多数（内服製剤）"
 monitor_inn: "Prednisolone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia antibody deficiency", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "prolapse of lacrimal gland"]
@@ -80,6 +80,12 @@ TxGNN モデルは**円形脱毛症 (alopecia areata)** に有効である可能
 
 主な承認は以下のとおりです。
 
+<!-- review:begin jp-lic-20261106-prednisolone-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「現在、市販中の承認はなく、20 件すべてが取り消し済みです。主な承認は以下のとおりです。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-prednisolone-1 -->
+
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
 | 612450051 | プレドニゾロン錠 5mg | 錠 | 慢性副腎皮質機能不全、亜急性甲状腺炎、甲状腺中毒症、ACTH単独欠損症、関節リウマチ、若年性関節リウマチ、リウマチ性多発筋痛、エリテマ... |
@@ -110,6 +116,12 @@ TxGNN モデルは**円形脱毛症 (alopecia areata)** に有効である可能
 - JAK 阻害薬など代替治療との位置づけ整理
 - 現行の供給・承認状況の確認
 
+<!-- review:begin jp-lic-20261106-prednisolone-2 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「日本では現在市販中の承認がないため、現行の供給・承認状況の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-prednisolone-2 -->
+
 ## 参考：その他の予測候補
 
 | 予測疾患 | スコア | エビデンスレベル | 決定 | 備考 |
@@ -122,6 +134,19 @@ TxGNN モデルは**円形脱毛症 (alopecia areata)** に有効である可能
 | 脱毛・知的障害・高ゴナドトロピン性性腺機能低下症候群 | 0.9998 | L5 | Hold | モデル予測のみ |
 | 丘疹性病変を伴う無毛症 | 0.9994 | L5 | Hold | モデル予測のみ |
 | 涙腺脱出 | 0.9994 | L5 | Hold | モデル予測のみ |
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「現在、市販中の承認はなく、20 件すべてが取り消し済みです」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本では現在市販中の承認がないため」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
 
 ## 免責事項
 

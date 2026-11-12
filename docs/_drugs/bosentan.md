@@ -5,7 +5,7 @@ parent: 中エビデンスレベル
 nav_order: 49
 evidence_level: L4
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Bosentan：予測新適応症は関節リウマチ (Rheumatoid Arthritis)（エビデンスレベル L4）。既存適応症：肺動脈性肺高血圧症、全身性強皮症（血圧降下薬、エンドセリン受容体拮抗薬）"
 monitor_inn: "bosentan"
 predicted_indications: ["rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "pseudoxanthoma elasticum, forme fruste", "kyphoscoliotic heart disease", "elastoma", "gout", "hypertrichosis (disease)"]
@@ -89,6 +89,12 @@ TxGNN モデルは**関節リウマチ (Rheumatoid Arthritis)** に有効であ�
 
 上記は主要な 5 件を記載しています。
 
+<!-- review:begin jp-lic-20261106-bosentan-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「※ 8 件すべてが取消・整理済みの状態です。上記は主要な 5 件を記載しています。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 8 件、うち有効 8 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-bosentan-1 -->
+
 ## 安全性に関する考慮事項
 
 - **禁忌に関連する疾患（知識グラフ上の情報、添付文書の記載ではありません）**：肝不全、肝疾患、胆嚢疾患、血小板減少症、うっ血性心不全、貧血、高ビリルビン血症（ジルベール症候群を含む）、薬剤性肝障害、肺水腫、肺静脈閉塞症
@@ -107,13 +113,40 @@ TxGNN モデルは**関節リウマチ (Rheumatoid Arthritis)** に有効であ�
 **理由：**
 関節リウマチへの予測は、マウスの関節炎モデルによる前臨床エビデンス（L4）にとどまり、ヒトでの有効性データや臨床試験がありません。さらに添付文書の安全性情報も未取得のため、先に進める段階ではありません。
 
+<!-- review:begin jp-lic-20261106-bosentan-2 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「さらに日本での有効な承認は現在なく、添付文書の安全性情報も未取得のため、先に進める段階ではありません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 8 件、うち有効 8 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-bosentan-2 -->
+
 **進める場合に必要なもの：**
 - 添付文書（警告・禁忌）の取得と安全性スクリーニング
 - 詳細な作用機序（MOA）データの補完
 - 関節リウマチ患者を対象とした探索的臨床試験の設計（肝機能障害リスクへの対応を含む）
 
+<!-- review:begin jp-lic-20261106-bosentan-3 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「関節リウマチ患者を対象とした探索的臨床試験の設計（肝機能障害リスクへの対応を含む）／日本での承認状況（取消の経緯）と供給可否の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 8 件、うち有効 8 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-bosentan-3 -->
+
 **参考：その他の予測候補**
 - **その他の予測**（短指趾症・合指症症候群、コロボーマ性小眼球症・根幹部異形成症候群、弾性線維性仮性黄色腫（不全型）、後側弯性心疾患、弾性線維腫、痛風、多毛症）：機序的根拠がないか、エビデンスがなく、すべて Hold です。痛風については、エンドセリン受容体拮抗薬の有害事象に関する薬剤安全性解析が 1 件あるのみで、有効性を示すものではありません。
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「※ 8 件すべてが取消・整理済みの状態です」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本での有効な承認は現在なく」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本での承認状況（取消の経緯）と供給可否の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

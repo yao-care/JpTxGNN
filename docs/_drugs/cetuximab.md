@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Cetuximab"
 predicted_indications: ["chondroid hamartoma", "non-seminomatous lesion", "bronchial adenomas/carcinoids childhood", "ductal or ductular proliferation", "tumor of testis and paratestis", "odontogenic cyst", "thyroglossal duct cyst", "cystic neoplasm", "epiglottis neoplasm", "pre-malignant neoplasm"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Cetuximab：予測新適応症は軟骨様過誤腫 (Chondroid Hamartoma)（エビデンスレベル L5）。既存適応症：結腸直腸癌、頭頸部扁平上皮癌（咽頭・喉頭の扁平上皮癌を含む）"
 ---
 
@@ -121,12 +121,38 @@ TxGNN モデルは、予測スコア上位に**軟骨様過誤腫 (Chondroid Ham
 - 予測第 1 位の軟骨様過誤腫には、臨床試験・文献がなく、機序的な根拠もありません（L5）。
 - 上位候補の中では前悪性腫瘍（L2）が最も進んでいますが、結果が未報告で長期投与の毒性も懸念されます。
 
+<!-- review:begin jp-lic-20261106-cetuximab-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「また、日本での承認は 2 件とも取消済みです。上位候補の中では前悪性腫瘍（L2）が最も進んでいますが、結果が未報告で長期投与の毒性も懸念されます。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 2 件、うち有効 2 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-cetuximab-1 -->
+
 **進める場合に必要なもの：**
 - 作用機序（MOA）データの補完
 - PMDA 添付文書の警告・禁忌の取得と安全性評価
 - 軟骨様過誤腫における EGFR 発現・依存性の基礎的な検証
 - 前悪性腫瘍を優先候補とする場合、NCT00524017 の結果データの確認
 - 日本での販売状況と、供給可能性の確認
+
+<!-- review:begin jp-lic-20261106-cetuximab-2 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「日本での販売状況（承認取消の経緯を含む）と、供給可能性の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 2 件、うち有効 2 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-cetuximab-2 -->
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「また、日本での承認は 2 件とも取消済みです」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「承認取消の経緯を含む」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 8
 monitor_inn: "regorafenib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "clear cell renal carcinoma", "unclassified renal cell carcinoma", "renal cell carcinoma associated with Xp11.2 translocations/TFE3 gene fusions", "renal cell carcinoma associated with neuroblastoma", "childhood kidney cell carcinoma", "vulva sarcoma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Regorafenib：予測新適応症は脂肪肉腫 (Liposarcoma)（エビデンスレベル L2）。既存適応症：転移性大腸癌、肝細胞癌、消化管間質腫瘍 (GIST) など（日本の承認適応症の記載はなし）"
 ---
 
@@ -123,12 +123,31 @@ TxGNN モデルは**脂肪肉腫 (Liposarcoma)** に有効である可能性を�
 **理由：**
 - 脂肪肉腫を対象とした SARC024 および REGOSARC のプラセボ対照 Phase 2 試験で有効性が示されず、著者らも日常的使用を支持しないと結論づけています。
 
+<!-- review:begin jp-lic-20261106-regorafenib-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「脂肪肉腫を対象とした SARC024 および REGOSARC のプラセボ対照 Phase 2 試験で有効性が示されず、著者らも日常的使用を支持しないと結論づけています。／日本では販売中の承認がなく、警告・禁忌データも不足しているため、現時点での再利用推進は困難です。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 1 件、うち有効 1 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-regorafenib-1 -->
+
 **進める場合に必要なもの：**
 - 脂肪肉腫の特定サブタイプ（例：脱分化型）や併用療法に絞った新たな仮説と、その検証データ
 - PMDA 添付文書の警告・禁忌情報の取得
 - 詳細な作用機序データ（MOA）の補充
 - 日本での承認・供給状況の確認
 - 参考：REGOSARC で有効性が示された非脂肪細胞性軟部肉腫（平滑筋肉腫、滑膜肉腫など）への検討の方が、エビデンス上は有望です。
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「日本では販売中の承認がなく、警告・禁忌データも不足しているため、現時点での再利用推進は困難です」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

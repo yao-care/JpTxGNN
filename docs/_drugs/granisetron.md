@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Granisetron"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "acute contagious conjunctivitis", "angioedema", "allergic urticaria", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania", "bronchitis", "cold urticaria", "conjunctivitis"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Granisetron：予測新適応症は躁病性双極性感情障害 (manic bipolar affective disorder)（エビデンスレベル L5）。既存適応症：承認書のデータに記載なし"
 ---
 
@@ -39,6 +39,12 @@ description: "Granisetron：予測新適応症は躁病性双極性感情障害 
 ## 一言要約
 
 TxGNN モデルは**躁病性双極性感情障害 (manic bipolar affective disorder)** に有効である可能性を予測していますが、臨床試験・文献はいずれも **0 件**で、モデル予測のみの段階です。
+
+<!-- review:begin jp-lic-20261106-granisetron-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「グラニセトロンは選択的 5-HT3 受容体拮抗薬で、日本では注射剤・錠剤・内服ゼリーとして承認されていましたが、現在は 20 件すべての承認が整理（取消）済みです。／TxGNN モデルは**躁病性双極性感情障害 (manic bipolar affective disorder)** に有効である可能性を予測していますが、臨床試験・文献はいずれも **0 件**で、モデル予測のみの段階です。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-granisetron-1 -->
 
 ## クイック概要
 
@@ -90,12 +96,32 @@ QT 延長リスクに関わる薬剤（アミオダロン、アミスルプリ�
 **理由：**
 予測はモデルのスコアのみに基づき、臨床試験・文献・機序データがすべてありません。現時点で次の段階に進める根拠はありません。
 
+<!-- review:begin jp-lic-20261106-granisetron-2 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「また、日本の承認は全件が取消済みで、添付文書の警告・禁忌も確認できていません。現時点で次の段階に進める根拠はありません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-granisetron-2 -->
+
 **進める場合に必要なもの：**
 - 添付文書の警告・禁忌情報の取得（PMDA）
 - 詳細な作用機序データ（DrugBank）
 - 躁病性双極性感情障害に関する前臨床・臨床の文献調査と臨床試験の検索
 - QT 延長リスクを含む安全性評価と、精神科領域の併用薬との相互作用の確認
 - 既存適応症と予測適応症の類似性評価、および投与経路の適合性評価
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「グラニセトロンは選択的 5-HT3 受容体拮抗薬で、日本では注射剤・錠剤・内服ゼリーとして承認されていましたが、現在は 20 件すべての承認が整理（取消）済みです」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「また、日本の承認は全件が取消済みで、添付文書の警告・禁忌も確認できていません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

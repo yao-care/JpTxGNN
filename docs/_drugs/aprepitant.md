@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "aprepitant"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "hypertrichosis (disease)", "pulmonary hypertension", "leprosy", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "kyphoscoliotic heart disease", "syndrome with a Dandy-Walker malformation as major feature", "subarachnoid hemorrhage (disease)", "isolated genetic hair shaft abnormality"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Aprepitant：予測新適応症は腎性不適切抗利尿症候群 (nephrogenic syndrome of inappropriate antidiuresis)（エビデンスレベル L5）。既存適応症：制吐薬、抗うつ薬、統合失調症治療薬、NK1受容体拮抗薬"
 ---
 
@@ -93,6 +93,25 @@ NSIAD は V2 受容体の活性化変異によって起こる疾患です。サ�
 - NK1 経路と V2 受容体／バソプレシン系の関連を検討する前臨床・機序研究
 - 他の予測候補（肺高血圧症、くも膜下出血など）との優先順位比較
 - 日本での供給状況の確認
+
+<!-- review:begin jp-lic-20261106-aprepitant-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「日本での供給状況（承認取消）の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 12 件、うち有効 12 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-aprepitant-1 -->
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「承認取消」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

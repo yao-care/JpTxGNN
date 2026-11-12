@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "bevacizumab"
 predicted_indications: ["epiglottis neoplasm", "benign neoplasm of tongue", "tumor of testis and paratestis", "benign neoplasm of hypopharynx", "benign neoplasm of floor of mouth", "cervical neuroblastoma", "cystic neoplasm", "nasal cavity inverting papilloma", "mesenchymoma", "schwannoma of jugular foramen"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Bevacizumab：予測新適応症は喉頭蓋腫瘍 (Epiglottis Neoplasm)（第 1 位）／嚢胞性腫瘍 (Cystic Neoplasm)（エビデンス最多）（エビデンスレベル L5）。既存適応症：腹膜癌、原発性腹膜癌、卵巣悪性上皮性腫瘍、乳癌、結腸の転移性腫瘍、膠芽腫など（日本の承認適応症の記載はなし）"
 ---
 
@@ -123,12 +123,38 @@ TxGNN モデルの予測順位第 1 位は**喉頭蓋腫瘍 (Epiglottis Neoplasm
 - 予測第 1 位の喉頭蓋腫瘍は、モデル予測のみで臨床試験も文献もなく（L5）、現時点では評価できません。
 - 嚢胞性腫瘍は L2 相当のデータがありますが、卵巣癌という既存用途の延長で、対象疾患との直接性が低いため、現時点での推進は難しい状況です。
 
+<!-- review:begin jp-lic-20261106-bevacizumab-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「嚢胞性腫瘍は L2 相当のデータがありますが、卵巣癌という既存用途の延長で、対象疾患との直接性が低いため、現時点での推進は難しい状況です。／日本ではアバスチンの承認が 2 件とも取消済みで、市販品がありません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 2 件、うち有効 2 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-bevacizumab-1 -->
+
 **進める場合に必要なもの：**
 - PMDA の添付文書から警告・禁忌を取得し、安全性スクリーニングを実施する（必須）
 - DrugBank から作用機序 (MOA) データを取得し、機序的な関連性を分析する
 - 喉頭蓋腫瘍および嚢胞性腫瘍の具体的な病型（悪性か良性か）を定義し直し、疾患特異的な文献・試験を再検索する
 - 日本の現行の販売状況と承認適応症を確認する（他社製品や後続品の有無を含む）
 - 予測順位上位の頭頸部領域の腫瘍について、前臨床・症例レベルのエビデンスを追加調査する
+
+<!-- review:begin jp-lic-20261106-bevacizumab-2 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「日本の現行の販売状況と承認適応症を確認する（取消の理由、他社製品や後続品の有無を含む）」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 2 件、うち有効 2 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-bevacizumab-2 -->
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「日本ではアバスチンの承認が 2 件とも取消済みで、市販品がありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「取消の理由」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

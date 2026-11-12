@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 9
 monitor_inn: "Candesartan"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "pulmonary hypertension", "Prinzmetal angina", "kyphoscoliotic heart disease", "atrophoderma vermiculata", "ulerythema ophryogenesis", "benign prostatic hyperplasia (disease)", "alopecia"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Candesartan：予測新適応症は片頭痛 (migraine disorder)（エビデンスレベル L2）。既存適応症：血圧降下薬、アンジオテンシンII受容体拮抗薬"
 ---
 
@@ -63,6 +63,12 @@ TxGNN モデルは**片頭痛 (migraine disorder)** に有効である可能性�
 
 血管系の調節という観点で、高血圧と片頭痛には機序的な接点があります。さらに、プラセボ対照のランダム化試験やシステマティックレビューが片頭痛予防での有用性を支持しており、予測の妥当性を裏付けています。
 
+<!-- review:begin jp-lic-20261106-candesartan-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「現在有効な承認はなく、以下は整理済み（承認整理）の主な承認です。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-candesartan-1 -->
+
 ## 臨床試験エビデンス
 
 | 試験番号 | フェーズ | 状態 | 被験者数 | 主な知見 |
@@ -110,6 +116,12 @@ TxGNN モデルは**片頭痛 (migraine disorder)** に有効である可能性�
 **理由：**
 片頭痛予防について、完了した第2相のプラセボ対照 RCT（450 例）と Lancet Neurology での公表、複数のメタアナリシスがあり、エビデンスは比較的強い状況です。
 
+<!-- review:begin jp-lic-20261106-candesartan-2 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「片頭痛予防について、完了した第2相のプラセボ対照 RCT（450 例）と Lancet Neurology での公表、複数のメタアナリシスがあり、エビデンスは比較的強い状況です。一方で、完了した Phase 3 試験はなく、日本では現在有効な承認がなく、添付文書の安全性情報も未確認です。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-candesartan-2 -->
+
 **進める場合に必要なもの：**
 - 添付文書の警告・禁忌情報の取得と確認（現時点では安全性スクリーニングに進めない状態です）
 - 詳細な薬物作用機序データの補充
@@ -119,6 +131,20 @@ TxGNN モデルは**片頭痛 (migraine disorder)** に有効である可能性�
 
 **その他の予測について：**
 片頭痛に関連する予測（脳幹性前兆を伴う片頭痛、片頭痛の感受性）は片頭痛全般のデータからの類推であり、サブタイプ別の試験はありません（研究課題段階）。肺高血圧症は動物実験のみで臨床エビデンスがなく、プリンツメタル狭心症、脊柱後側弯性心疾患、蛇行状皮膚萎縮症、眉毛部紅斑性毛包性角化症、前立腺肥大症、脱毛症は TxGNN の予測のみ、または間接的な報告にとどまるため、現時点では保留（Hold）が妥当です。
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「現在有効な承認はなく、以下は整理済み（承認整理）の主な承認です」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「一方で、完了した Phase 3 試験はなく、日本では現在有効な承認がなく、添付文書の安全性情報も未確認です」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

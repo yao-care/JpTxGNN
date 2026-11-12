@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Fluorouracil"
 predicted_indications: ["botryoid-type embryonal rhabdomyosarcoma of the vagina", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "liver sarcoma", "sickle cell-hemoglobin d disease syndrome", "sickle cell-beta-thalassemia disease syndrome", "hereditary persistence of fetal hemoglobin-sickle cell disease syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Fluorouracil：予測新適応症は膣のブドウ状型胚性横紋筋肉腫 (botryoid-type embryonal rhabdomyosarcoma of the vagin…（エビデンスレベル L5）。既存適応症：胃癌、肝癌、結腸・直腸癌、乳癌、膵癌、子宮頸癌、子宮体癌、卵巣癌、食道癌、肺癌、頭頸部癌、有棘細胞癌、基底細胞癌"
 ---
 
@@ -122,6 +122,25 @@ TxGNN モデルは**胚性横紋筋肉腫（膣のブドウ状型）(botryoid-ty
 - 現行の標準レジメン（ビンクリスチン、アクチノマイシン D、シクロホスファミドなど）に対する上乗せ価値の評価
 - DPD 欠損症の検査など、特定集団の安全性モニタリング計画
 - 日本での販売状況の確認
+
+<!-- review:begin jp-lic-20261106-fluorouracil-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「日本での販売状況（取り消し後の供給状況）の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 2 件、うち有効 2 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-fluorouracil-1 -->
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「取り消し後の供給状況」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 327
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Troxipide：予測新適応症は食道炎 (Esophagitis)（エビデンスレベル L5）。既存適応症：消化性潰瘍薬（胃潰瘍）"
 monitor_inn: "troxipide"
 predicted_indications: ["esophagitis (disease)", "hiatus hernia (disease)", "achlorhydria", "gastric dilatation", "Dieulafoy lesion", "pylorospasm", "cascade stomach"]
@@ -101,12 +101,31 @@ TxGNN は食道炎のほかにも、次の疾患を上位候補として予測�
 **理由：**
 食道炎については TxGNN の予測スコアが高いものの、臨床試験も文献もなく、エビデンスは L5（モデル予測のみ）です。
 
+<!-- review:begin jp-lic-20261106-troxipide-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「食道炎については TxGNN の予測スコアが高いものの、臨床試験も文献もなく、エビデンスは L5（モデル予測のみ）です。また、日本の承認は取消済みで、現在市販されている製品はありません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 1 件、うち有効 1 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-troxipide-1 -->
+
 **進める場合に必要なもの：**
 - 添付文書の警告・禁忌情報の入手（現状では安全性スクリーニングに進めない）
 - 詳細な作用機序データ（MOA）の補充
 - 食道炎に関する前臨床・臨床研究の調査
 - 経路適合性（投与経路）の評価
 - 前臨床エビデンスのある活動性消化性潰瘍や胃空腸潰瘍を、優先的な研究課題として検討すること
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「また、日本の承認は取消済みで、現在市販されている製品はありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

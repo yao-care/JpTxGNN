@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 302
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Teriparatide：予測新適応症は十二指腸潰瘍 (duodenal ulcer)（エビデンスレベル L5）。既存適応症：骨粗鬆症（閉経後骨粗鬆症を含む）"
 monitor_inn: "Teriparatide"
 predicted_indications: ["duodenal ulcer (disease)", "non-syndromic esophageal malformation", "duodenal obstruction", "duodenogastric reflux", "esophageal disease", "Worth syndrome", "autosomal dominant neovascular inflammatory vitreoretinopathy", "succinyl-CoA:3-ketoacid CoA transferase deficiency", "amenorrhea (disease)"]
@@ -99,6 +99,12 @@ TxGNN モデルは**十二指腸潰瘍 (duodenal ulcer)** に有効である可�
 **理由：**
 - 十二指腸潰瘍に対する臨床試験・文献がなく、PTH1R 作用との機序的なつながりも見つかりません。エビデンスは L5（モデル予測のみ）で、現時点では開発や検討を進める根拠がありません。
 
+<!-- review:begin jp-lic-20261106-teriparatide-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「エビデンスは L5（モデル予測のみ）で、現時点では開発や検討を進める根拠がありません。／日本では現在有効な承認がなく、市販状況の面でも制約があります。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 5 件、うち有効 5 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-teriparatide-1 -->
+
 **進める場合に必要なもの：**
 - 十二指腸粘膜に対する PTH 経路の関与を示す前臨床・機序研究
 - 添付文書の警告・禁忌情報の取得と、安全性スクリーニングの実施
@@ -113,6 +119,19 @@ TxGNN モデルは**十二指腸潰瘍 (duodenal ulcer)** に有効である可�
 - 授乳状況を確認する
 - 相互作用を確認する
 - 製品の入手可否を確認する
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「日本では現在有効な承認がなく、市販状況の面でも制約があります」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

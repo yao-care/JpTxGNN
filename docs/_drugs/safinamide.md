@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Safinamide"
 predicted_indications: ["Rasmussen subacute encephalitis", "myelitis", "PLA2G6-associated neurodegeneration"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Safinamide：予測新適応症はラスムッセン亜急性脳炎 (Rasmussen subacute encephalitis)（エビデンスレベル L5）。既存適応症：パーキンソン病（承認適応症の記載データはなし）"
 ---
 
@@ -95,12 +95,31 @@ TxGNN モデルは**ラスムッセン亜急性脳炎 (Rasmussen subacute enceph
 - 作用機序と、ラスムッセン脳炎の自己免疫性炎症という主病態との間にも明確なつながりがありません。
 - 添付文書の警告・禁忌情報が未取得で、安全性評価を進められない状態です。
 
+<!-- review:begin jp-lic-20261106-safinamide-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「添付文書の警告・禁忌情報が未取得で、安全性評価を進められない状態です。／日本では承認が整理されており、現在は市販されていません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 1 件、うち有効 1 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-safinamide-1 -->
+
 **進める場合に必要なもの：**
 - 添付文書（PMDA）から警告・禁忌を取得し、安全性評価を行う
 - DrugBank から詳細な作用機序 (MOA) データを取得する
 - ラスムッセン脳炎に対する前臨床研究（てんかんモデル、神経炎症モデルなど）や症例報告の調査
 - 疾患の主病態（自己免疫性炎症）との機序的整合性の再評価
 - 上位 3 候補（ラスムッセン脳炎、脊髄炎、PLA2G6 関連神経変性症）の優先順位づけ。実現性の面では、パーキンソン症状を伴う PLA2G6 関連神経変性症を先に検討する余地があります。
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「日本では承認が整理されており、現在は市販されていません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

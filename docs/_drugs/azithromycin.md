@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 36
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Azithromycin：予測新適応症は高アミラーゼ血症 (Hyperamylasemia)（エビデンスレベル L5）。既存適応症：歯周組織炎、MAC症、結膜炎、眼瞼炎"
 monitor_inn: "Azithromycin"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "punctate epithelial keratoconjunctivitis", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder"]
@@ -102,6 +102,25 @@ TxGNN モデルは**高アミラーゼ血症 (Hyperamylasemia)** に有効であ
 - 作用機序データの補充と、高アミラーゼ血症との機序的関連の検討
 - 高アミラーゼ血症に関する前臨床または観察研究の探索
 - 参考として、今回の予測順位では、鎌状赤血球症（先天性血液疾患）や敗血症型ペストの方が関連データは多くなっています。ただし、鎌状赤血球症の試験 2 件は被験者 0 人で中止されており、ペストは in vitro で効果が乏しいとの報告があります。こうした他の候補疾患も、並行して検討する価値があります。
+
+<!-- review:begin jp-lic-20261106-azithromycin-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「日本での承認状況（失効扱いの理由、現在の流通状況）の再確認／高アミラーゼ血症に関する前臨床または観察研究の探索」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 15 件、うち有効 15 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-azithromycin-1 -->
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「日本での承認状況（失効扱いの理由、現在の流通状況）の再確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

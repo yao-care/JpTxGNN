@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Ebastine"
 predicted_indications: ["coronary artery disease", "myocardial ischemia"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Ebastine：予測新適応症は冠動脈疾患 (Coronary Artery Disease)（エビデンスレベル L5）。既存適応症：アレルギー性鼻炎（抗アレルギー薬・鎮痒薬・H1受容体拮抗薬）"
 ---
 
@@ -92,11 +92,37 @@ TxGNN モデルは**冠動脈疾患 (Coronary Artery Disease)** に有効であ�
 **理由：**
 冠動脈疾患への適応は TxGNN の予測のみに基づいており、臨床試験・文献ともになく、機序的な裏付けも間接的です。
 
+<!-- review:begin jp-lic-20261106-ebastine-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「冠動脈疾患への適応は TxGNN の予測のみに基づいており、臨床試験・文献ともになく、機序的な裏付けも間接的です。また、日本の承認は全て取消済みで、現在市販されている製品がありません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-ebastine-1 -->
+
 **進める場合に必要なもの：**
 - 添付文書（PMDA）の警告・禁忌情報の取得と安全性スクリーニング
 - 詳細な薬物作用機序データ（MOA）の補充（DrugBank など）
 - ヒスタミンと冠動脈疾患・心筋虚血の関連を示す前臨床・観察研究の文献調査
 - 心血管系への影響（QT 延長リスクなど）を含む安全性の評価
+
+<!-- review:begin jp-lic-20261106-ebastine-2 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「心血管系への影響（QT 延長リスクなど）を含む安全性の評価／日本で承認が取り消された経緯と、再導入が可能かどうかの確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-ebastine-2 -->
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「また、日本の承認は全て取消済みで、現在市販されている製品がありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本で承認が取り消された経緯と、再導入が可能かどうかの確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

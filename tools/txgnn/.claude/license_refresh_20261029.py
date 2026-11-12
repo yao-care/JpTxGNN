@@ -304,15 +304,27 @@ def main(argv):
             git(site, "checkout", "--", "docs")
             finish(4, "擋下非 0 頁後 checker 仍非 0，全部還原")
 
-    # 4. 有人工查核紀錄的頁不自動改（Tw）
+    # 4. 有人工查核紀錄的頁不自動改（Tw）。2026-11-12 起其他站也各有查核機制（用戶決定 30 站各自建立，核心流程比照 Tw）：
+    #    那些站的排程只改表格列、查核紀錄管的是正文，兩者不衝突，不擋；改完由站自己的程式重套紀錄、重建許可證快照
+    #    （scripts/apply_drug_reviews.py、scripts/build_license_snapshot.py，有才跑），gate 第 17、18 項再檢查一次。
     rv = BASE / site / "docs/_data/drug_reviews.json"
-    if rv.exists():
+    if rv.exists() and site == "TwTxGNN":
         prot = {r.get("drug") for r in json.loads(rv.read_text(encoding="utf-8")).get("records", [])}
         hit = [p for p in changed_drug_pages(site) if Path(p).stem in prot]
         if hit:
             S["pages"] = hit
             git(site, "checkout", "--", "docs")
             finish(5, f"{len(hit)} 個有人工查核紀錄的頁會被改到，全部還原，等用戶簽核")
+
+    # 4b. 站自己的查核機制（2026-11-12）：重套查核紀錄、重建許可證快照（站上沒有這兩支就不跑）
+    if site != "TwTxGNN":
+        for script, args in (("scripts/apply_drug_reviews.py", []), ("scripts/build_license_snapshot.py", ["--ws", str(BASE)])):
+            if (BASE / site / script).exists():
+                r = run([PY, script, *args], cwd=BASE / site, check=False)
+                S["steps"].append(f"{script}：" + ((r.stdout or r.stderr).strip().split("\n") or [""])[-1][:160])
+                if r.returncode != 0:
+                    git(site, "checkout", "--", "docs", *(["snapshots"] if (BASE / site / "snapshots").exists() else []))
+                    finish(4, f"{script} 失敗，頁面已還原：{(r.stdout + r.stderr)[-300:]}")
 
     # 5. lastmod（正文有變才換日期）
     n_body = fix_lastmod(site, S["date"])

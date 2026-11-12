@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 259
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Propylthiouracil：予測新適応症は甲状腺ホルモン受容体β変異による甲状腺ホルモン不応症（エビデンスレベル L5）。既存適応症：甲状腺機能亢進症"
 monitor_inn: "Propylthiouracil"
 predicted_indications: ["resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "hyperthyroxinemia"]
@@ -95,14 +95,40 @@ TxGNN モデルは**甲状腺ホルモンβ受容体変異による甲状腺ホ�
 - 臨床試験がなく、文献も PTU の有効性を直接評価していません（エビデンスレベル L5）。
 - 機序上は、受容体異常に対するホルモン合成抑制が TSH 上昇と甲状腺腫悪化を招くおそれがあります。
 
+<!-- review:begin jp-lic-20261106-propylthiouracil-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「機序上は、受容体異常に対するホルモン合成抑制が TSH 上昇と甲状腺腫悪化を招くおそれがあります。／日本の販売承認はすでに取り消されています。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 2 件、うち有効 2 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-propylthiouracil-1 -->
+
 **進める場合に必要なもの：**
 - 添付文書（警告・禁忌）の取得と解析（必須）
 - 作用機序データ（DrugBank など）の補完
 - 甲状腺ホルモン不応症で PTU の有益性を支持する臨床・前臨床データ（現状では否定的な症例報告のみ）
 
+<!-- review:begin jp-lic-20261106-propylthiouracil-2 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「甲状腺ホルモン不応症で PTU の有益性を支持する臨床・前臨床データ（現状では否定的な症例報告のみ）／日本で販売承認が取り消された経緯と、現在の入手経路の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 2 件、うち有効 2 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-propylthiouracil-2 -->
+
 ### 参考：他の予測適応症
 
 - **高サイロキシン血症**（スコア 0.9908、L4）：直接の PTU のエビデンスは 1 件の症例報告（PMID 18334584）のみです。家族性異常アルブミン性高サイロキシン血症や甲状腺ホルモン不応症では合成阻害の効果が期待できません。
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「日本の販売承認はすでに取り消されています」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本で販売承認が取り消された経緯と、現在の入手経路の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

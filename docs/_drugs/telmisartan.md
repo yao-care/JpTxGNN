@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 298
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Telmisartan：予測新適応症はPrinzmetal 狭心症 (Prinzmetal angina)（エビデンスレベル L5）。既存適応症：高血圧症（血圧降下薬、アンジオテンシンII受容体拮抗薬）"
 monitor_inn: "Telmisartan"
 predicted_indications: ["Prinzmetal angina", "brain stem infarction", "ABri amyloidosis", "cerebral artery occlusion", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "intracerebral hemorrhage", "Braddock syndrome"]
@@ -124,12 +124,38 @@ TxGNN モデルは **Prinzmetal 狭心症 (Prinzmetal angina)** に有効であ�
 **理由：**
 - 第 1 位の Prinzmetal 狭心症は、臨床試験・文献ともになく、TxGNN のスコアだけが根拠です。
 
+<!-- review:begin jp-lic-20261106-telmisartan-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「第 1 位の Prinzmetal 狭心症は、臨床試験・文献ともになく、TxGNN のスコアだけが根拠です。／現在有効な日本の承認がない点と、添付文書の警告・禁忌が未確認である点も、先に進めない要因です。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-telmisartan-1 -->
+
 **進める場合に必要なもの：**
 - Prinzmetal 狭心症に関する文献調査（血管攣縮に対する ARB の知見）と、前臨床・小規模臨床の検討
 - PMDA 添付文書の警告・禁忌の取得と確認
 - 詳細な作用機序データ（MOA）の補充
 - 開発・供給体制の確認
 - エビデンスが比較的充実している脳出血（TRIDENT 試験の結果の精査）を、優先的な評価候補として検討
+
+<!-- review:begin jp-lic-20261106-telmisartan-2 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「日本での承認整理済みの状況を踏まえた、開発・供給体制の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-telmisartan-2 -->
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「現在有効な日本の承認がない点と、添付文書の警告・禁忌が未確認である点も、先に進めない要因です」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本での承認整理済みの状況を踏まえた」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 145
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Gefitinib：予測新適応症は歯肉線維腫症 (fibromatosis, gingival)（エビデンスレベル L5）。既存適応症：非小細胞肺癌（EGFR 遺伝子変異陽性）"
 monitor_inn: "Gefitinib"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung", "lung benign neoplasm", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome", "lung germ cell tumor", "pulmonary sulcus neoplasm", "junctional epidermolysis bullosa"]
@@ -122,12 +122,38 @@ TxGNN モデルは**歯肉線維腫症 (fibromatosis, gingival)** に有効で�
 **理由：**
 - 予測 1 位の歯肉線維腫症は、臨床試験・文献がなくモデル予測のみ（L5）で、機序的な裏付けも推測にとどまります。
 
+<!-- review:begin jp-lic-20261106-gefitinib-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「予測 1 位の歯肉線維腫症は、臨床試験・文献がなくモデル予測のみ（L5）で、機序的な裏付けも推測にとどまります。／日本の承認は全て取り消し済みで、添付文書の警告・禁忌情報も未取得です。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 9 件、うち有効 9 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-gefitinib-1 -->
+
 **進める場合に必要なもの：**
 - 添付文書（PMDA）の警告・禁忌の取得と、安全性スクリーニングの実施
 - 詳細な作用機序データ（DrugBank など）の補充
 - 歯肉線維腫症における EGFR シグナルの関与を示す前臨床データ（線維芽細胞モデルなど）
 - 肝疾患・間質性肺疾患など、知識グラフ上の禁忌関連疾患に対するリスク評価
 - 現在の国内供給状況の確認
+
+<!-- review:begin jp-lic-20261106-gefitinib-2 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「現在の国内供給状況の確認（承認が全て取り消し済みのため）」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 9 件、うち有効 9 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-gefitinib-2 -->
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「日本の承認は全て取り消し済みで、添付文書の警告・禁忌情報も未取得です」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「承認が全て取り消し済みのため」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

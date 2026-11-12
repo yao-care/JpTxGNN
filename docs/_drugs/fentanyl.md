@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Fentanyl"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Fentanyl：予測新適応症は腎性抗利尿ホルモン不適切分泌症候群 (nephrogenic syndrome of inappropriate antidiuresis)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 
@@ -102,11 +102,30 @@ TxGNN モデルは**腎性抗利尿ホルモン不適切分泌症候群 (Nephrog
 **理由：**
 予測新規適応症に対する臨床試験・文献はなく、エビデンスレベルは L5（モデル予測のみ）です。機序的にも、オピオイドが抗利尿ホルモン放出を促す可能性があり、整合しません。
 
+<!-- review:begin jp-lic-20261106-fentanyl-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「機序的にも、オピオイドが抗利尿ホルモン放出を促す可能性があり、整合しません。日本では有効な承認もなく、現時点で再利用を進める根拠はありません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-fentanyl-1 -->
+
 **進める場合に必要なもの：**
 - 添付文書の警告・禁忌情報の取得
 - 詳細な作用機序データ（MOA）の補充
 - V2 受容体異常に対するフェンタニルの作用を検証する前臨床的な機序研究
 - 同一薬物の他の予測候補の検討。ただし、試験と本疾患との適合は未検証で、長期オピオイド使用の依存・過量投与リスクも考慮が必要です。
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「日本では有効な承認もなく、現時点で再利用を進める根拠はありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

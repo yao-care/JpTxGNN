@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 79
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Colchicine：予測新適応症は熱帯熱マラリア (Plasmodium falciparum malaria)（エビデンスレベル L5）。既存適応症：痛風発作、家族性地中海熱"
 monitor_inn: "Colchicine"
 predicted_indications: ["Plasmodium falciparum malaria", "dermatofibrosarcoma protuberans"]
@@ -99,6 +99,12 @@ TxGNN モデルは**熱帯熱マラリア (Plasmodium falciparum malaria)** に�
 **理由：**
 熱帯熱マラリアに対する根拠は間接的な in vitro 研究 2 編のみで、臨床試験はありません。
 
+<!-- review:begin jp-lic-20261106-colchicine-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「熱帯熱マラリアに対する根拠は間接的な in vitro 研究 2 編のみで、臨床試験はありません。日本では有効な承認もなく、添付文書の安全性情報も未確認です。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 1 件、うち有効 1 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-colchicine-1 -->
+
 **進める場合に必要なもの：**
 - 添付文書の警告・禁忌情報の取得（現時点で安全性評価に進めない状態）
 - 詳細な作用機序データ（DrugBank からの取得）
@@ -108,6 +114,19 @@ TxGNN モデルは**熱帯熱マラリア (Plasmodium falciparum malaria)** に�
 ---
 
 **補足：** 予測順位 2 位の家族性地中海熱は、すでに承認されている適応症です。新規の再利用ではなく既存用途の再確認にあたります。順位 3 位の隆起性皮膚線維肉腫は、臨床試験も文献もなく、モデル予測のみ（L5、Hold）です。
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「日本では有効な承認もなく、添付文書の安全性情報も未確認です」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

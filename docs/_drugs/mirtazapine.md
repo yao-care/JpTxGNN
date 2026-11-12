@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 212
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "Mirtazapine"
 predicted_indications: ["Ohdo syndrome and variants", "blepharophimosis - intellectual disability syndrome, Ohdo type", "benign paroxysmal torticollis of infancy"]
 description: "Mirtazapine：予測新適応症はOhdo 症候群および関連型 (Ohdo syndrome and variants)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
@@ -116,11 +116,37 @@ TxGNN モデルの予測スコア第 1 位は **Ohdo 症候群および関連型
 - 臨床試験・文献がなく、機序的な裏付けもないため、モデル予測のみの L5 です。
 - 気分変調性障害・メランコリーは L3 で「Proceed with Guardrails」と評価されていますが、既存適応症（うつ病）に近く、真に新しい再利用とは言いにくい面があります。
 
+<!-- review:begin jp-lic-20261106-mirtazapine-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「さらに日本では販売中の承認がありません。／気分変調性障害・メランコリーは L3 で「Proceed with Guardrails」と評価されていますが、既存適応症（うつ病）に近く、真に新しい再利用とは言いにくい面があります。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-mirtazapine-1 -->
+
 **進める場合に必要なもの：**
 - 添付文書（PMDA）の警告・禁忌の取得と解析（現在は未確認で、安全性スクリーニングに進めない）
 - 作用機序データの補完（DrugBank）
 - 検討対象を、エビデンスのある気分変調性障害・恐怖症性障害・メランコリーに絞り直すこと
 - 小児・高齢者を含む対象集団別の安全性モニタリング計画（無顆粒球症、肝機能、セロトニン症候群、併用薬の相互作用）
+
+<!-- review:begin jp-lic-20261106-mirtazapine-2 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「小児・高齢者を含む対象集団別の安全性モニタリング計画（無顆粒球症、肝機能、セロトニン症候群、併用薬の相互作用）／日本での販売承認が整理済みである点を踏まえた、再申請または他国の承認状況の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-mirtazapine-2 -->
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「さらに日本では販売中の承認がありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本での販売承認が整理済みである点を踏まえた、再申請または他国の承認状況の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

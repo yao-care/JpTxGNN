@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Oxybutynin"
 predicted_indications: ["restless legs syndrome", "gastroduodenitis", "peptic ulcer disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Oxybutynin：予測新適応症は下肢静止不能症候群 (Restless Legs Syndrome)（エビデンスレベル L5）。既存適応症：頻尿治療薬、過活動膀胱用薬、ムスカリン受容体拮抗薬"
 ---
 
@@ -102,8 +102,27 @@ TxGNN モデル（深層学習）のスコアは非常に高い（0.9974）も�
 - 添付文書（PMDA）の警告・禁忌の取得と安全性スクリーニング
 - 詳細な薬物作用機序データの補充
 
+<!-- review:begin jp-lic-20261106-oxybutynin-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「詳細な薬物作用機序データの補充／日本での承認が全て整理済みである点を踏まえた、供給・開発方針の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 12 件、うち有効 12 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-oxybutynin-1 -->
+
 **参考：**
 同じ薬物の他の予測候補には、より裏付けのあるものがあります。特に「低コンプライアンス膀胱」は、システマティックレビューや RCT が存在します。ただし、この候補は元の適応症（過活動膀胱）に近く、再利用の新規性は限定的です。
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「日本での承認が全て整理済みである点を踏まえた、供給・開発方針の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

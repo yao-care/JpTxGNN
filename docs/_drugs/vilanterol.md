@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 336
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "Vilanterol"
 predicted_indications: ["hyperlucent lung", "tracheal stenosis", "bronchial neoplasm (disease)", "respiratory malformation", "tracheal calcification", "laryngotracheitis"]
 description: "Vilanterol：予測新適応症はHyperlucent lung（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
@@ -130,6 +130,25 @@ COPD や喘息はいずれも気流閉塞を特徴とする疾患で、「閉塞
 - 日本での販売状況と、再承認や代替製剤の可能性の確認
 - 糖尿病治療薬、QT 延長薬、交感神経刺激薬との併用に関する安全性モニタリング計画
 - 他の予測疾患（過度の肺透過性亢進、気管狭窄など）は、直接のエビデンスがなく機序的根拠も弱いため保留とし、新規適応症としては追わないことを推奨します。
+
+<!-- review:begin jp-lic-20261106-vilanterol-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「日本での販売状況（承認取消の経緯）と、再承認や代替製剤の可能性の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 6 件、うち有効 6 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-vilanterol-1 -->
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「承認取消の経緯」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

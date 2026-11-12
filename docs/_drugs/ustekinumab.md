@@ -5,7 +5,7 @@ parent: 高エビデンスレベル
 nav_order: 329
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "Ustekinumab"
 predicted_indications: ["dermatitis", "neonatal dermatomyositis", "acne keloid", "acrodermatitis chronica atrophicans", "amyopathic dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy", "pityriasis lichenoides", "acute lichenoid pityriasis"]
 description: "Ustekinumab：予測新適応症は皮膚炎 (dermatitis)（エビデンスレベル L2）。既存適応症：日本の承認情報に適応症の記載なし"
@@ -113,12 +113,38 @@ TxGNN モデルは**皮膚炎 (Dermatitis)** に有効である可能性を予�
 **理由：**
 - アトピー性皮膚炎を対象とした Phase 2 試験が 2 件あるものの、効果は限定的です。皮膚炎は主に Th2 優位であり、IL-12/23 阻害との機序的整合性にも限界があります。
 
+<!-- review:begin jp-lic-20261106-ustekinumab-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「皮膚炎は主に Th2 優位であり、IL-12/23 阻害との機序的整合性にも限界があります。／日本での承認は 2 件とも取り消し済みで、警告・禁忌情報も不足しているため、安全性評価に進める状態ではありません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 2 件、うち有効 2 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-ustekinumab-1 -->
+
 **進める場合に必要なもの：**
 - PMDA 添付文書の警告・禁忌情報の取得と解析（安全性スクリーニングの前提）
 - 詳細な作用機序データ（DrugBank など）の補充
 - Th1/Th17 優位の皮膚炎サブタイプ（接触皮膚炎など）に絞った有効性の検討
 - Phase 2 の結果を再検証する追加試験と、他の予測疾患での機序検証
 - 日本での現在の販売状況の確認
+
+<!-- review:begin jp-lic-20261106-ustekinumab-2 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「日本での現在の販売状況（承認の取り消し理由と、代替販売名の有無）の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 2 件、うち有効 2 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-ustekinumab-2 -->
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「日本での承認は 2 件とも取り消し済みで、警告・禁忌情報も不足しているため、安全性評価に進める状態ではありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「承認の取り消し理由と、代替販売名の有無」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

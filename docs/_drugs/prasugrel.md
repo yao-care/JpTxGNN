@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Prasugrel"
 predicted_indications: ["pulmonary hypertension", "migraine disorder", "migraine with brainstem aura", "kyphoscoliotic heart disease", "rheumatoid arthritis", "homozygous familial hypercholesterolemia", "hypoalphalipoproteinemia", "brachydactyly-syndactyly syndrome", "leprosy"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Prasugrel：予測新適応症は肺高血圧症 (Pulmonary Hypertension)（エビデンスレベル L5）。既存適応症：狭心症、心筋梗塞（血小板凝集抑制薬、P2Y12 阻害薬）"
 ---
 
@@ -125,6 +125,25 @@ TxGNN モデルは**肺高血圧症 (Pulmonary Hypertension)** に有効であ�
 - 詳細な作用機序データ（DrugBank）の補充
 - 肺高血圧症に関する前臨床データまたは観察研究による機序検証
 - 片頭痛（PFO 合併）を優先候補とする場合は、プラスグレルを直接評価するランダム化試験の確認と、出血リスクを含む安全性評価計画
+
+<!-- review:begin jp-lic-20261106-prasugrel-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「片頭痛（PFO 合併）を優先候補とする場合は、プラスグレルを直接評価するランダム化試験の確認と、出血リスクを含む安全性評価計画／日本で承認が取消されている経緯の確認と、供給体制の検討」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 12 件、うち有効 12 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-prasugrel-1 -->
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「日本で承認が取消されている経緯の確認と、供給体制の検討」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 244
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Phenytoin：予測新適応症は三叉神経腫瘍 (Trigeminal Nerve Neoplasm)（エビデンスレベル L5）。既存適応症：抗てんかん薬"
 monitor_inn: "Phenytoin"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
@@ -96,11 +96,30 @@ TxGNN モデルは**三叉神経腫瘍 (Trigeminal Nerve Neoplasm)** に有効�
 **理由：**
 - 三叉神経腫瘍に対しては臨床試験・直接的な文献がなく、機序的にも抗腫瘍効果を支持する根拠がありません。
 
+<!-- review:begin jp-lic-20261106-phenytoin-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「三叉神経腫瘍に対しては臨床試験・直接的な文献がなく、機序的にも抗腫瘍効果を支持する根拠がありません。エビデンスはモデル予測のみ（L5）で、日本ではすべての承認が整理済みです。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 8 件、うち有効 8 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-phenytoin-1 -->
+
 **進める場合に必要なもの：**
 - 添付文書の警告・禁忌の取得（PMDA）
 - 詳細な作用機序データ（DrugBank）
 - 三叉神経腫瘍に対する前臨床データまたは機序的根拠
 - 参考として、同じ予測リストの中で**三叉神経痛**（L3、観察研究あり）や**反射性てんかん**（驚愕てんかん、読書てんかんなど、L4）は、既存の抗てんかん作用との関連性が高く、優先的に検討する価値があります。
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「エビデンスはモデル予測のみ（L5）で、日本ではすべての承認が整理済みです」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

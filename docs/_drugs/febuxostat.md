@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 3
 monitor_inn: "Febuxostat"
 predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "Lesch-Nyhan syndrome"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Febuxostat：予測新適応症は腎性低尿酸血症 (hypouricemia, renal)（エビデンスレベル L4）。既存適応症：痛風"
 ---
 
@@ -100,11 +100,30 @@ TxGNN モデルは**腎性低尿酸血症 (hypouricemia, renal)** に有効で�
 **理由：**
 - 腎性低尿酸血症は尿酸がもともと低い疾患であり、尿酸を下げる本薬には機序的な根拠がありません。エビデンスも症例レベルの報告と関連性の低い試験 1 件にとどまります。
 
+<!-- review:begin jp-lic-20261106-febuxostat-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「エビデンスも症例レベルの報告と関連性の低い試験 1 件にとどまります。／日本では現在有効な承認がなく、添付文書の警告・禁忌情報も未取得のため、安全性評価を進められません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-febuxostat-1 -->
+
 **進める場合に必要なもの：**
 - PMDA の添付文書（警告・禁忌）の取得と安全性スクリーニング
 - 作用機序データの補完（DrugBank など）
 - EIAKI 予防という限定的な仮説を検証する臨床研究の設計（尿酸の過度な低下や心血管リスクの評価を含む）
 - 参考：同じ予測リストの Lesch-Nyhan 症候群や部分的 HPRT 欠損症は、尿酸産生抑制という点で機序的に整合しており、優先的な検討候補になり得ます。
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「日本では現在有効な承認がなく、添付文書の警告・禁忌情報も未取得のため、安全性評価を進められません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

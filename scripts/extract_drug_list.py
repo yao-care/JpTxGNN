@@ -6,7 +6,11 @@ Creates a JSON file with drug names, evidence levels, and indication counts.
 
 import json
 import re
+import sys
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "src"))
+from jptxgnn.regulatory import withdrawn as W  # noqa: E402  重審撤回的預測不監測（2026-11-12 本站查核機制）
 
 
 def parse_front_matter(content: str) -> dict:
@@ -62,6 +66,9 @@ def main():
         except ValueError:
             predicted_indications = []
         monitor_inn = front_matter.get("monitor_inn", "")
+        _gone = W.load()
+        if _gone.get(md_file.stem):  # 查核紀錄 verdict=withdraw 的預測：頁面原文不刪，但不再當成預測監測
+            predicted_indications = [x for x in predicted_indications if not W.is_withdrawn(_gone, md_file.stem, x)]
         if not predicted_indications or not monitor_inn:
             continue
 

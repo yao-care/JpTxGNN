@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 264
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Rasagiline：予測新適応症はPLA2G6 関連神経変性症 (PLA2G6-associated neurodegeneration)（エビデンスレベル L5）。既存適応症：パーキンソン病（日本の承認適応症のテキストは、今回のデータにはありません）"
 monitor_inn: "Rasagiline"
 predicted_indications: ["PLA2G6-associated neurodegeneration", "Rasmussen subacute encephalitis", "myelitis", "paralysis agitans, juvenile, of Hunt", "transaldolase deficiency", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis"]
@@ -97,11 +97,37 @@ PLA2G6 関連神経変性症にはパーキンソニズム（PARK14）を呈す�
 **理由：**
 予測スコアは高いものの、臨床試験も文献もなく、エビデンスは L5（モデル予測のみ）です。
 
+<!-- review:begin jp-lic-20261106-rasagiline-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「予測スコアは高いものの、臨床試験も文献もなく、エビデンスは L5（モデル予測のみ）です。日本の承認も取消済みで、作用機序データと添付文書の安全性情報も不足しています。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 2 件、うち有効 2 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-rasagiline-1 -->
+
 **進める場合に必要なもの：**
 - 添付文書（PMDA）の警告・禁忌情報の取得と解析
 - DrugBank からの作用機序（MOA）データの補充
 - PLA2G6 関連神経変性症に対する前臨床・機序研究や症例報告の調査
 - 上記が揃った後の再評価
+
+<!-- review:begin jp-lic-20261106-rasagiline-2 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「日本での承認取消の経緯の確認と、投与経路の適合性評価／上記が揃った後の再評価」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 2 件、うち有効 2 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-rasagiline-2 -->
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「日本の承認も取消済みで、作用機序データと添付文書の安全性情報も不足しています」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本での承認取消の経緯の確認と、投与経路の適合性評価」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

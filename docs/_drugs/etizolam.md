@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 1
 monitor_inn: "Etizolam"
 predicted_indications: ["insomnia (disease)"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Etizolam：予測新適応症は不眠症 (insomnia)（エビデンスレベル L4）。既存適応症：不安（anxiety）"
 ---
 
@@ -100,6 +100,25 @@ TxGNN の予測スコアは高いものの、不眠症に対する臨床試験�
 - 不眠症に対する臨床試験や観察研究を調べる
 - 依存性、離脱症状、反跳性不眠のリスクを評価し、使用条件を検討する
 - 現在の日本での承認状況を確認し、製品の現状を把握する
+
+<!-- review:begin jp-lic-20261106-etizolam-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「現在の日本での承認状況（失効済みの承認のみ）を確認し、製品の現状を把握する」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 1 件、うち有効 1 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-etizolam-1 -->
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「失効済みの承認のみ」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

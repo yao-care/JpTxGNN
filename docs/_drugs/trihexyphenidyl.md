@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Trihexyphenidyl"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "attention deficit hyperactivity disorder, inattentive type", "Rasmussen subacute encephalitis", "PLA2G6-associated neurodegeneration", "congenital disorder of glycosylation with defective fucosylation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "retinal dystrophy with or without extraocular anomalies", "myelitis", "Charcot-Marie-Tooth disease, demyelinating, type 1G"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Trihexyphenidyl：予測新適応症は注意欠如・多動症 (attention deficit-hyperactivity disorder)（エビデンスレベル L5）。既存適応症：パーキンソン病治療薬、ムスカリン受容体拮抗薬（特発性パーキンソニズム、その他のパーキンソニズム）"
 ---
 
@@ -109,6 +109,12 @@ ADHD との関連は間接的です。チックやジストニアを併発する
 **理由：**
 ADHD に対する臨床試験はなく、文献もチックとジストニアの症例シリーズ 1 編のみで、直接的な裏付けがありません。機序的にも間接的で、抗コリン作用が注意力や認知機能を悪化させる懸念があります。
 
+<!-- review:begin jp-lic-20261106-trihexyphenidyl-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「機序的にも間接的で、抗コリン作用が注意力や認知機能を悪化させる懸念があります。さらに、日本では現在有効な承認がありません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 10 件、うち有効 10 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-trihexyphenidyl-1 -->
+
 **進める場合に必要なもの：**
 - PMDA の添付文書から警告・禁忌情報を取得し、安全性スクリーニングを行う
 - 詳細な作用機序データ（MOA）を DrugBank などから補充する
@@ -116,6 +122,19 @@ ADHD に対する臨床試験はなく、文献もチックとジストニアの
 - 日本での再販・剤形の状況の確認
 
 なお、予測順位 2 位以下（顔指趾生殖器症候群、PLA2G6 関連神経変性症など）も、直接的な根拠は乏しい状況です。PLA2G6 関連神経変性症のみ、パーキンソニズムやジストニアへの対症的な効果が想定されるため、今後の研究課題として検討の余地があります。
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「さらに、日本では現在有効な承認がありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

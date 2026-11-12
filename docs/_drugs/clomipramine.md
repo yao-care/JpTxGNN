@@ -5,7 +5,7 @@ parent: 高エビデンスレベル
 nav_order: 74
 evidence_level: L2
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Clomipramine：予測新適応症は不安障害 (Anxiety Disorder)（エビデンスレベル L2）。既存適応症：強迫性障害 (OCD)"
 monitor_inn: "Clomipramine"
 predicted_indications: ["anxiety disorder", "benign paroxysmal torticollis of infancy", "schizoid personality disorder", "histrionic personality disorder (disease)", "schizotypal personality disorder", "paranoid personality disorder", "agoraphobia", "attention deficit-hyperactivity disorder"]
@@ -117,11 +117,37 @@ OCD は不安スペクトラムの疾患と位置づけられることが多く�
 **理由：**
 パニック障害・広場恐怖でクロミプラミンを検証した RCT とメタアナリシスがあり、不安障害への有効性を支持するエビデンスは比較的充実しています。そのため、条件を付けて慎重に進めるべきです。
 
+<!-- review:begin jp-lic-20261106-clomipramine-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「一方、日本では承認が取消されており、安全性の公式情報も未整備です。そのため、条件を付けて慎重に進めるべきです。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 3 件、うち有効 3 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-clomipramine-1 -->
+
 **進める場合に必要なもの：**
 - 添付文書の警告・禁忌の取得と確認（現時点で最優先の不足データ）
 - 詳細な作用機序データ（MOA）の補充
 - 不安障害を直接対象としたクロミプラミンの臨床試験の確認
 - 相互作用（重大レベルの併用薬）、てんかん・心疾患・高齢者などのリスク集団に対する安全性モニタリング計画
+
+<!-- review:begin jp-lic-20261106-clomipramine-2 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「日本での承認取消の経緯と、再導入の可否の確認／相互作用（重大レベルの併用薬）、てんかん・心疾患・高齢者などのリスク集団に対する安全性モニタリング計画」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 3 件、うち有効 3 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-clomipramine-2 -->
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「一方、日本では承認が取消されており、安全性の公式情報も未整備です」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本での承認取消の経緯と、再導入の可否の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

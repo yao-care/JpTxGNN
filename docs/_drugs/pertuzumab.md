@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 241
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "Pertuzumab"
 predicted_indications: ["ectomesenchymoma", "malignant cutaneous granular cell skin tumor", "human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "prostatic urethra urothelial carcinoma", "kidney pelvis sarcomatoid transitional cell carcinoma"]
 description: "Pertuzumab：予測新適応症はEctomesenchymoma（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
@@ -117,6 +117,25 @@ HR 陽性/HER2 陽性の乳癌では、完了した第 3 相 RCT を含む複数
 - 詳細な作用機序データ（MOA）の補充
 - 心機能モニタリング計画の策定
 - PR 陽性サブセットに特化した臨床試験データの確認（現在の試験は PR 陰性例が中心）
+
+<!-- review:begin jp-lic-20261106-pertuzumab-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「日本での販売承認が整理済みであるため、現在の供給状況と再承認の要否の確認／心機能モニタリング計画の策定」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 1 件、うち有効 1 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-pertuzumab-1 -->
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「日本での販売承認が整理済みであるため、現在の供給状況と再承認の要否の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

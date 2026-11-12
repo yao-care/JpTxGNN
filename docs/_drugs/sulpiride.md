@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "sulpiride"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia X-linked", "congenital disorder of glycosylation with defective fucosylation", "myopia 26, X-linked, female-limited", "syndromic myopia", "atypical glycine encephalopathy"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Sulpiride：予測新適応症は網膜ジストロフィー（retinal dystrophy with or without extraocular anomalies）（エビデンスレベル L5）。既存適応症：統合失調症、うつ病・うつ状態、胃・十二指腸潰瘍"
 ---
 
@@ -75,6 +75,12 @@ TxGNN モデルは**網膜ジストロフィー（retinal dystrophy with or with
 
 主な承認は以下のとおりです。
 
+<!-- review:begin jp-lic-20261106-sulpiride-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「現在、有効な承認はなく、20 件すべてが承認整理済みです。主な承認は以下のとおりです。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-sulpiride-1 -->
+
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
 | 620002520 | スルピリド細粒１０％「アメル」 | 細粒 | 統合失調症、うつ病・うつ状態、胃・十二指腸潰瘍 |
@@ -104,6 +110,26 @@ TxGNN モデルは**網膜ジストロフィー（retinal dystrophy with or with
 - 網膜疾患に対するヒトでのデータ（症例報告、観察研究、早期臨床試験）の収集
 - 網膜への薬物到達性と投与経路（全身投与か局所投与か）の検討
 - 日本での販売状況の再確認
+
+<!-- review:begin jp-lic-20261106-sulpiride-2 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「日本での販売状況の再確認（承認整理済みの経緯を含む）」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-sulpiride-2 -->
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「現在、有効な承認はなく、20 件すべてが承認整理済みです」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「承認整理済みの経緯を含む」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

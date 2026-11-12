@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "olmesartan"
 predicted_indications: ["Prinzmetal angina", "hypotrichosis simplex of the scalp", "migraine disorder", "alopecia", "pulmonary hypertension", "congenital hypotrichosis milia", "diffuse alopecia areata", "migraine with brainstem aura", "kyphoscoliotic heart disease", "open-angle glaucoma"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Olmesartan：予測新適応症は異型狭心症 (Prinzmetal angina)（TxGNN 最上位）／エビデンス最多：片頭痛 (migraine disorder)（エビデンスレベル L5）。既存適応症：血圧降下薬、アンジオテンシンII受容体拮抗薬（高血圧）"
 ---
 
@@ -85,6 +85,12 @@ TxGNN モデルの予測スコア最上位は**異型狭心症 (Prinzmetal angin
 
 主な例を示します。
 
+<!-- review:begin jp-lic-20261106-olmesartan-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「日本では現在、販売中の承認はありません。20 件すべてが承認整理済みです。主な例を示します。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-olmesartan-1 -->
+
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
 | 672454201 | オルメテックOD錠40mg（選） | 錠 40mg | （記載なし） |
@@ -110,12 +116,32 @@ TxGNN モデルの予測スコア最上位は**異型狭心症 (Prinzmetal angin
 - TxGNN 最上位の異型狭心症は、実際の研究がなく L5 にとどまります。
 - 片頭痛は文献があり L3 ですが、臨床試験がなく、報告の多くは高血圧患者対象です。血圧低下による二次的効果を否定できません。
 
+<!-- review:begin jp-lic-20261106-olmesartan-2 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「血圧低下による二次的効果を否定できません。／日本では販売中の承認もありません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-olmesartan-2 -->
+
 **進める場合に必要なもの：**
 - 片頭痛予防についてのオルメサルタン固有の臨床データ（非高血圧患者を含む RCT）
 - 作用機序データの補充（DrugBank からの取得）
 - 添付文書の警告・禁忌の取得と安全性評価（現状は未取得で、安全性審査を進める前に必須）
 - 販売中の製剤や、再承認・販売経路の確認
 - 片頭痛予防として使われている他の ARB（カンデサルタンなど）や既存の予防薬との比較検討
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「日本では現在、販売中の承認はありません。20 件すべてが承認整理済みです」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本では販売中の承認もありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

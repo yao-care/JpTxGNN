@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 211
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Minocycline：予測新適応症は点状表層角結膜炎 (Punctate Epithelial Keratoconjunctivitis)（エビデンスレベル L5）。既存適応症：尿路感染症、気管支炎、ざ瘡、歯周炎、淋病、咽頭炎など（日本の承認適応症の記載はなし）"
 monitor_inn: "Minocycline"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis"]
@@ -92,6 +92,25 @@ TxGNN モデルは**点状表層角結膜炎 (Punctate Epithelial Keratoconjunct
 - 詳細な作用機序データ (MOA) を DrugBank などから補充する
 - 点状表層角結膜炎および暴露性角膜炎に対する前臨床・臨床研究、文献を調査する
 - 眼科用途に必要な投与経路・剤形（点眼剤など）の適合性を評価する
+
+<!-- review:begin jp-lic-20261106-minocycline-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「眼科用途に必要な投与経路・剤形（点眼剤など）の適合性を評価する／日本での承認整理の経緯と、再導入の可能性を確認する」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 3 件、うち有効 3 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-minocycline-1 -->
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「日本での承認整理の経緯と、再導入の可能性を確認する」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

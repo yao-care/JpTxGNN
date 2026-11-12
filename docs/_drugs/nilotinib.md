@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Nilotinib"
 predicted_indications: ["dermatofibrosarcoma protuberans"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Nilotinib：予測新適応症は隆起性皮膚線維肉腫 (Dermatofibrosarcoma protuberans)（エビデンスレベル L5）。既存適応症：慢性骨髄性白血病（BCR-ABL1 陽性）"
 ---
 
@@ -104,12 +104,38 @@ TxGNN モデルは**隆起性皮膚線維肉腫 (Dermatofibrosarcoma protuberans
 **理由：**
 TxGNN の予測スコアは高いものの、裏付けは PDGFR 阻害薬に関する総説 1 編のみで、臨床試験もありません。現段階では研究課題として保留するのが妥当です。
 
+<!-- review:begin jp-lic-20261106-nilotinib-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「また、日本での承認は取り消されており、添付文書ベースの安全性情報も確認できていません。現段階では研究課題として保留するのが妥当です。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 1 件、うち有効 1 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-nilotinib-1 -->
+
 **進める場合に必要なもの：**
 - PMDA 添付文書の警告・禁忌情報の取得（安全性スクリーニングに必須）
 - 詳細な作用機序データ（MOA）の確認（DrugBank など）
 - 隆起性皮膚線維肉腫に対するニロチニブの前臨床・臨床データの調査（症例報告、第 2 相試験など）
 - 既存の PDGFR 阻害薬（イマチニブなど）との比較評価
 - QT 延長や代謝系リスクを考慮した安全性モニタリング計画
+
+<!-- review:begin jp-lic-20261106-nilotinib-2 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「QT 延長や代謝系リスクを考慮した安全性モニタリング計画／日本での承認取り消しの経緯の確認と、再導入の可能性の検討」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 1 件、うち有効 1 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-nilotinib-2 -->
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「また、日本での承認は取り消されており、添付文書ベースの安全性情報も確認できていません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本での承認取り消しの経緯の確認と、再導入の可能性の検討」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

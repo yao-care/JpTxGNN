@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 45
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Bimatoprost：予測新適応症は歯・歯周組織の異常を伴う奇形症候群 (malformation syndrome with odontal and/or periodon…（エビデンスレベル L5）。既存適応症：緑内障（抗緑内障薬、睫毛発毛薬）"
 monitor_inn: "bimatoprost"
 predicted_indications: ["malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "Ambras type hypertrichosis universalis congenita", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "genetic alopecia", "pulmonary arteriovenous malformation (disease)"]
@@ -125,6 +125,25 @@ TxGNN モデルは、最上位の予測として**歯・歯周組織の異常を
 - 予測の優先順位の見直し：エビデンスのある脱毛症（男性型・女性型脱毛症、円形脱毛症）を、新規適応症の評価対象として検討します。
 - 作用機序データ（MOA）の補充。
 - 添付文書の警告・禁忌の確認（PMDA の添付文書を取得して解析）。
+
+<!-- review:begin jp-lic-20261106-bimatoprost-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「添付文書の警告・禁忌の確認（PMDA の添付文書を取得して解析）。／外用（頭皮）剤形での開発可否の検討：日本で現在有効な承認がなく、剤形・投与経路の適合性も未評価です。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 8 件、うち有効 8 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-bimatoprost-1 -->
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「外用（頭皮）剤形での開発可否の検討：日本で現在有効な承認がなく、剤形・投与経路の適合性も未評価です」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

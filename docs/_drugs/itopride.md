@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Itopride"
 predicted_indications: ["small bowel Crohn disease", "venous insufficiency (disease)", "achlorhydria", "hiatus hernia (disease)"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Itopride：予測新適応症は小腸クローン病 (small bowel Crohn disease)（エビデンスレベル L5）。既存適応症：消化管運動改善薬、ドパミン受容体拮抗薬"
 ---
 
@@ -78,6 +78,12 @@ TxGNN モデルは**小腸クローン病 (small bowel Crohn disease)** に有�
 
 現在、関連する文献はありません。
 
+<!-- review:begin jp-lic-20261106-itopride-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「上記 4 件はいずれも承認が取り消されています。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 4 件、うち有効 4 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-itopride-1 -->
+
 ## 日本市販情報
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
@@ -99,10 +105,37 @@ TxGNN モデルは**小腸クローン病 (small bowel Crohn disease)** に有�
 - 予測スコアは高いものの、臨床試験・文献がなく、エビデンスレベルは L5 です。
 - 作用機序面でもクローン病の炎症病態との関連は確認できません。
 
+<!-- review:begin jp-lic-20261106-itopride-2 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「作用機序面でもクローン病の炎症病態との関連は確認できません。／日本の承認も全て取り消されており、現時点で再利用を進める根拠は乏しい状況です。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 4 件、うち有効 4 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-itopride-2 -->
+
 **進める場合に必要なもの：**
 - 詳細な作用機序データ（MOA）の取得
 - 添付文書の警告・禁忌情報の確認と安全性スクリーニング
 - 小腸クローン病に対する前臨床研究や機序研究によるエビデンスの構築
+
+<!-- review:begin jp-lic-20261106-itopride-3 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「小腸クローン病に対する前臨床研究や機序研究によるエビデンスの構築／承認取り消しの経緯の確認と、剤形・投与経路の適合性評価」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 4 件、うち有効 4 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-itopride-3 -->
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「上記 4 件はいずれも承認が取り消されています」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本の承認も全て取り消されており、現時点で再利用を進める根拠は乏しい状況です」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「承認取り消しの経緯の確認と、剤形・投与経路の適合性評価」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

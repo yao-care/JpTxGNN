@@ -22,6 +22,14 @@
   14. FHIR：MedicationKnowledge 等級＝藥物頁頁首、不含 noindex 藥物頁的藥，Bundle／summary／index／metadata 的數字＝實際檔數（母目錄 .claude/sync_fhir_levels.py，2026-11-06）。
   15. FHIR metadata（docs/fhir/metadata*）的在地欄位：jurisdiction 國碼＝本站 ISO 3166-1 alpha-2、不出現別站國名／代號、網址在本站網域、非中日文站不含漢字（2026-11-06）。
   16. docs/fhir 所有檔的 jurisdiction 國碼＝本站、含 txgnn／github.io 的網址在本站網域；metadata 與 metadata.json 內容相同、只宣稱 read（2026-11-06）。
+  17. docs/_data/drug_reviews.json 的查核紀錄（更正／加註／待重審／重審結果）都還套在藥物頁上
+      （頁面被產線或排程改寫會蓋掉；修法：python3 scripts/apply_drug_reviews.py）（2026-11-12，本站查核機制）。
+  18. 藥物頁的許可證資訊＝snapshots/jp_licenses.json.gz：市場段落表格的許可證號屬於本藥、狀態列與張數列＝事實層寫法、
+      表格列狀態不跟事實相反（src/jptxgnn/regulatory/licenses.py）（2026-11-12）。
+  19. 藥物頁頁首等級＝快速總覽等級格的等級（規則見 src/jptxgnn/regulatory/site.py 的 HEADER_RULE；主預測撤回時為其他預測表最高
+      等級或 N/A），parent 對應列表頁（src/jptxgnn/regulatory/page_format.py）（2026-11-12）。
+  20. 查核紀錄裡重審撤回（verdict=withdraw）的預測，不出現在 search-index.json、FHIR ClinicalUseDefinition、
+      證據監測清單 scripts/drug_list.json（src/jptxgnn/regulatory/withdrawn.py）（2026-11-12）。
 
 Tw 專屬的檢查（TFDA 許可證表、docs/_data/drug_reviews.json 人工查核紀錄、drug_stats.json）沒有移植；
 本站之後若建立同類機制，再把對應檢查加回來。
@@ -783,6 +791,28 @@ if len(_fx_md) == 2 and _fx_md["metadata"] != _fx_md["metadata.json"]:
 if _fx_bad:
     errors.append(f"FHIR 檔的在地欄位錯 {len(_fx_bad)} 項：{'；'.join(_fx_bad[:6])}"
                   f"（只改國碼／網域那一處；metadata.json 照 metadata 寫；scripts/generate_fhir_resources.py 寫錯的地方一起改）")
+
+# 17–20) 本站查核機制（2026-11-12，用戶決定 30 站各有自己的查核機制，核心流程比照 TwTxGNN／UsTxGNN）
+sys.path.insert(0, str(DOCS.parent / "src"))
+sys.path.insert(0, str(DOCS.parent / "scripts"))
+from apply_drug_reviews import check_errors as _review_errors  # noqa: E402
+from jptxgnn.regulatory import licenses as _Lic, page_format as _Pf, withdrawn as _Wd  # noqa: E402
+errors += _review_errors()
+_lic_errs = _Lic.site_problems()
+if _lic_errs:
+    errors.append(f"許可證資訊跟快照不一致 {len(_lic_errs)} 項：{'；'.join(_lic_errs[:5])}")
+_hdr = []
+for _f in sorted((DOCS / "_drugs").glob("*.md")):
+    _t = _f.read_text(encoding="utf-8")
+    if 'http-equiv="refresh"' in _t[:3000] or re.search(r"^layout:\s*id_redirect", _t[:3000], re.M):
+        continue
+    _hdr += [f"{_f.name}：{x}" for x in _Pf.header_problems(_t, _f.stem)]
+if _hdr:
+    errors.append(f"藥物頁頁首等級跟快速總覽不一致 {len(_hdr)} 頁：{'；'.join(_hdr[:5])}"
+                  "（等級要改經查核紀錄 rereview_result；規則見 src/jptxgnn/regulatory/page_format.py）")
+_left = _Wd.published_withdrawn(DOCS)
+if _left:
+    errors.append(f"重審撤回的預測仍對外發布 {len(_left)} 處：{'；'.join(_left[:5])}")
 
 if errors:
     print(f"docs SEO 守門：✗ {len(errors)} 項")

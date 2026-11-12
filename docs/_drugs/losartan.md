@@ -5,7 +5,7 @@ parent: 中エビデンスレベル
 nav_order: 196
 evidence_level: L4
 indication_count: 7
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Losartan：予測新適応症は悪性高血圧性腎疾患 (Malignant Hypertensive Renal Disease)（エビデンスレベル L4）。既存適応症：高血圧症、糖尿病性腎症"
 monitor_inn: "Losartan"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "Prinzmetal angina", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies"]
@@ -75,6 +75,12 @@ TxGNN モデルは**悪性高血圧性腎疾患 (Malignant Hypertensive Renal Di
 
 承認適応症のテキストが登録されている主な承認を以下に示します。
 
+<!-- review:begin jp-lic-20261106-losartan-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「日本では、ロサルタンの承認 20 件はすべて承認整理済みで、現在販売中のものはありません。承認適応症のテキストが登録されている主な承認を以下に示します。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-losartan-1 -->
+
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
 | 622152501 | ロサルタンカリウム錠５０ｍｇ「ＺＥ」 | 錠５０ｍｇ「ＺＥ」 | 血圧降下薬、アンジオテンシンII受容体拮抗薬。高血圧症、糖尿病性腎症 |
@@ -104,9 +110,29 @@ TxGNN モデルは**悪性高血圧性腎疾患 (Malignant Hypertensive Renal Di
 - 悪性高血圧性腎障害に対するヒトでの観察研究や臨床試験の調査
 - 腎機能障害のある患者でのリスク評価と、高カリウム血症を含む相互作用の管理計画
 
+<!-- review:begin jp-lic-20261106-losartan-2 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「腎機能障害のある患者でのリスク評価と、高カリウム血症を含む相互作用の管理計画／日本では現在販売中の承認がないため、再利用を進める場合の薬事上の位置づけの確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-losartan-2 -->
+
 ---
 
 **参考（他の予測候補）**：予測順位 2 位以下には、肺高血圧症、脳小血管病などがあります。いずれも臨床試験での確認は不十分で、エビデンスレベルは L4〜L5 です。
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「日本では、ロサルタンの承認 20 件はすべて承認整理済みで、現在販売中のものはありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本では現在販売中の承認がないため、再利用を進める場合の薬事上の位置づけの確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

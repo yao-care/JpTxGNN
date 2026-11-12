@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 210
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Miglitol：予測新適応症は巣状スティフリム症候群 (Focal Stiff Limb Syndrome)（エビデンスレベル L5）。既存適応症：糖尿病（α-グルコシダーゼ阻害薬）"
 monitor_inn: "Miglitol"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pancreatic agenesis", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy"]
@@ -123,11 +123,30 @@ TxGNN モデルは**巣状スティフリム症候群 (focal stiff limb syndrome
 **理由：**
 - 最上位の予測である巣状スティフリム症候群には、臨床試験も文献もなく、機序的な根拠も見当たらないため、現時点で開発を進める根拠がありません。
 
+<!-- review:begin jp-lic-20261106-miglitol-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「最上位の予測である巣状スティフリム症候群には、臨床試験も文献もなく、機序的な根拠も見当たらないため、現時点で開発を進める根拠がありません。／日本では全承認が整理済みで、現在市販されている製剤もありません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-miglitol-1 -->
+
 **進める場合に必要なもの：**
 - 添付文書（警告・禁忌）の取得と確認
 - 詳細な作用機序データの補充
 - 巣状スティフリム症候群との生物学的関連を示す前臨床データ
 - 1 型糖尿病の補助療法を優先候補とする場合は、現行の臨床ガイドラインとの整合確認、Phase 3 試験の結果の精査、低血糖リスクを含む安全性評価（その場合は Proceed with Guardrails が妥当）
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「日本では全承認が整理済みで、現在市販されている製剤もありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 81
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Cromoglicic Acid：予測新適応症は潰瘍性直腸S状結腸炎 (Ulcerative Proctosigmoiditis)（エビデンスレベル L5）。既存適応症：気管支喘息、アレルギー性鼻炎、アレルギー性結膜炎、肥満細胞症など（日本の承認適応症テキストはデータなし）"
 monitor_inn: "Cromoglicic acid"
 predicted_indications: ["ulcerative proctosigmoiditis", "nocardiosis", "rosacea conjunctivitis", "cap polyposis", "cutaneous photosensitivity-lethal colitis syndrome", "undetermined colitis", "pneumocystosis", "osteoarthritis", "allergic urticaria", "neonatal inflammatory skin and bowel disease"]
@@ -74,6 +74,18 @@ TxGNN モデルは**潰瘍性直腸S状結腸炎 (Ulcerative Proctosigmoiditis)*
 
 いずれも点眼液2%（100 mg/5 mL）の単剤です。承認適応症のテキストはデータがありません。
 
+<!-- review:begin jp-lic-20261106-cromoglicic_acid-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「すべて承認整理済みで、現在市販中の製品はありません。いずれも点眼液2%（100 mg/5 mL）の単剤です。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 12 件、うち有効 12 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-cromoglicic_acid-1 -->
+
+<!-- review:begin jp-lic-20261106-cromoglicic_acid-2 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「※上記は主要5件で、ほかに7件の整理済み承認があります（合計12件）。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 12 件、うち有効 12 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-cromoglicic_acid-2 -->
+
 | 承認番号 | 商品名 | 剤形 | 状態 |
 |---------|------|------|------|
 | 621719301 | クロモグリク酸Na・PF点眼液2%「日点」 | 点眼液 | 有効 |
@@ -96,12 +108,33 @@ TxGNN モデルは**潰瘍性直腸S状結腸炎 (Ulcerative Proctosigmoiditis)*
 **理由：**
 予測スコアは高い（0.9999）ものの、臨床試験も文献もなく、モデル予測のみに基づくエビデンスレベル L5 です。
 
+<!-- review:begin jp-lic-20261106-cromoglicic_acid-3 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「予測スコアは高い（0.9999）ものの、臨床試験も文献もなく、モデル予測のみに基づくエビデンスレベル L5 です。日本では現在市販中の製品もなく、添付文書の警告・禁忌データも未取得のため、現時点では先に進められません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 12 件、うち有効 12 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-cromoglicic_acid-3 -->
+
 **進める場合に必要なもの：**
 - 添付文書（PMDA）の警告・禁忌の取得と解析（安全性スクリーニングの前提条件）
 - 詳細な薬物作用機序データ（DrugBank など）
 - 潰瘍性大腸炎における肥満細胞安定化薬の前臨床・臨床文献の調査
 - 投与経路の適合性の評価（現在の日本の製剤は点眼液のみで、腸管への投与には別の剤形が必要）
 - 機序的に妥当性の高いアレルギー性蕁麻疹など、他の候補の優先的な検討
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「すべて承認整理済みで、現在市販中の製品はありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「※上記は主要5件で、ほかに7件の整理済み承認があります（合計12件」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本では現在市販中の製品もなく、添付文書の警告・禁忌データも未取得のため、現時点では先に進められません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

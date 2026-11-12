@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 346
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "Zolpidem"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia"]
 description: "Zolpidem：予測新適応症はBenign paroxysmal torticollis of infancy（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
@@ -121,6 +121,25 @@ TxGNN は他にも候補を予測していますが、いずれも直接の支�
 - 作用機序データの補充（DrugBank など）
 - 現在の日本での販売状況と承認の再確認
 - 高齢者、肝疾患、睡眠時無呼吸、依存歴のある患者向けの安全性モニタリング計画
+
+<!-- review:begin jp-lic-20261106-zolpidem-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「現在の日本での販売状況と承認の再確認（取消の理由を含む）」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-zolpidem-1 -->
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「取消の理由を含む」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

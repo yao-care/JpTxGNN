@@ -5,7 +5,7 @@ parent: 高エビデンスレベル
 nav_order: 310
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-12
 description: "Tocilizumab：予測新適応症は強直性脊椎炎 (Ankylosing Spondylitis)（エビデンスレベル L2）。既存適応症：関節リウマチ、若年性特発性関節炎、側頭動脈炎、キャッスルマン病など（日本の承認適応症テキストは未登録）"
 monitor_inn: "Tocilizumab"
 predicted_indications: ["ankylosing spondylitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "vertebral disease"]
@@ -117,6 +117,12 @@ TxGNN モデルは**強直性脊椎炎 (Ankylosing Spondylitis)** に有効で�
 - 添付文書（警告・禁忌）の取得と安全性スクリーニング
 - 詳細な作用機序データ（MOA）の補充
 
+<!-- review:begin jp-lic-20261106-tocilizumab-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「詳細な作用機序データ（MOA）の補充／日本での現行の承認・販売状況（取消の背景を含む）の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 8 件、うち有効 8 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-tocilizumab-1 -->
+
 ---
 
 ### 参考：他の予測適応症の状況
@@ -130,6 +136,18 @@ TxGNN モデルは**強直性脊椎炎 (Ankylosing Spondylitis)** に有効で�
 | 脊椎関節症の感受性 | L4 | Hold | in vitro 研究のみ |
 | 脊椎疾患（非特異的） | L4 | Hold | 間接的な根拠のみ |
 | 尾骨過可動性、クンメル病、IL12B 欠損によるメンデル遺伝性マイコバクテリア感受性 | L5 | Hold | モデル予測のみ。機序的な根拠なし |
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「日本での現行の承認・販売状況（取消の背景を含む）の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
 
 ## 免責事項
 

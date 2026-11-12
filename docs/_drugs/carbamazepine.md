@@ -5,7 +5,7 @@ parent: 中エビデンスレベル
 nav_order: 59
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Carbamazepine：予測新適応症は三叉神経腫瘍 (trigeminal nerve neoplasm)（エビデンスレベル L4）。既存適応症：躁病、躁うつ病の躁状態、統合失調症、三叉神経痛（鎮痛薬・抗てんかん薬）"
 monitor_inn: "Carbamazepine"
 predicted_indications: ["trigeminal nerve neoplasm", "beta-ketothiolase deficiency", "Rett syndrome, congenital variant"]
@@ -103,6 +103,12 @@ TxGNN モデルは**三叉神経腫瘍 (trigeminal nerve neoplasm)** に有効�
 **理由：**
 腫瘍そのものへの効果を示す臨床試験も機序データもありません。文献は腫瘍随伴性の三叉神経痛に対する対症的な使用を示すにとどまり、エビデンスレベルは L4 です。
 
+<!-- review:begin jp-lic-20261106-carbamazepine-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「文献は腫瘍随伴性の三叉神経痛に対する対症的な使用を示すにとどまり、エビデンスレベルは L4 です。また、日本では現在、有効な承認がありません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 11 件、うち有効 11 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-carbamazepine-1 -->
+
 **進める場合に必要なもの：**
 - 添付文書の警告・禁忌の確認（安全性スクリーニングの前提となるデータ）
 - 詳細な作用機序データの補充
@@ -111,6 +117,19 @@ TxGNN モデルは**三叉神経腫瘍 (trigeminal nerve neoplasm)** に有効�
 - 日本での承認状況の再確認（現行の有効な製剤の有無）
 
 なお、同じ予測リストには、てんかん関連の予測として startle epilepsy、反射てんかん関連の予測（thinking seizures、audiogenic seizures、reading seizures など）が上位にあります。いずれも症例報告や動物実験が中心で、L4 の「研究課題」にとどまります。orgasm-induced seizures、beta-ketothiolase deficiency、Rett 症候群先天型は文献・試験がなく L5（Hold）です。
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「また、日本では現在、有効な承認がありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

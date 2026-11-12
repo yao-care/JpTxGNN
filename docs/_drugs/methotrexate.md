@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 205
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Methotrexate：予測新適応症は肺芽腫 (pulmonary blastoma)（エビデンスレベル L5）。既存適応症：慢性リンパ性白血病、慢性骨髄性白血病、絨毛癌、乳癌、尿路上皮癌、骨肉腫、胃癌、関節リウマチ、尋常性乾癬、関節症性乾癬、膿疱性乾癬…"
 monitor_inn: "Methotrexate"
 predicted_indications: ["pulmonary blastoma", "primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "Hodgkins lymphoma", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
@@ -159,6 +159,25 @@ TxGNN モデルは **肺芽腫 (pulmonary blastoma)** に有効である可能�
 - 肺芽腫に関する症例報告・基礎研究を調査する
 - 優先度を再検討する：エビデンスのある**原発性肺リンパ腫（L4）、小細胞肺癌（L4）、ホジキンリンパ腫（L3）、横紋筋肉腫（L3）**を、研究課題 (Research Question) として評価する
 - 再利用する場合の供給・剤形の経路を確認する（肺疾患が対象の場合は肺毒性を含む）
+
+<!-- review:begin jp-lic-20261106-methotrexate-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「国内で現在有効な製剤がないため、再利用する場合の供給・剤形の経路を確認する（肺疾患が対象の場合は肺毒性を含む）」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 15 件、うち有効 15 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-methotrexate-1 -->
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「国内で現在有効な製剤がないため」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 239
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "Perampanel"
 predicted_indications: ["beta-ketothiolase deficiency"]
 description: "Perampanel：予測新適応症はBeta-ketothiolase deficiency（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
@@ -115,6 +115,25 @@ description: "Perampanel：予測新適応症はBeta-ketothiolase deficiency（�
 - 詳細な作用機序データ（MOA）の整備
 - 添付文書の警告・禁忌の確認（精神・行動面の副作用を含む）
 - ただし、関連試験は小規模・中止・募集中で、有効性は未確立です。
+
+<!-- review:begin jp-lic-20261106-perampanel-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「日本での承認状況の再確認（取り消しの経緯を含む）／ただし、関連試験は小規模・中止・募集中で、有効性は未確立です。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 4 件、うち有効 4 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-perampanel-1 -->
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「日本での承認状況の再確認（取り消しの経緯を含む」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

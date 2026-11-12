@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Acyclovir"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "common wart", "post-infectious neuralgia", "hepatitis C induced liver cirrhosis", "eosinophilic pustular folliculitis", "sequela of COVID-19", "vulvovaginal candidiasis", "papular urticaria", "disease of orbital region", "epidemic keratoconjunctivitis"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Acyclovir：予測新適応症は点状表層角結膜炎 (Punctate Epithelial Keratoconjunctivitis)（エビデンスレベル L5）。既存適応症：単純疱疹、単純ヘルペスウイルス感染症、帯状疱疹、性器ヘルペス、水痘、単純ヘルペスウイルスに起因する角膜炎"
 ---
 
@@ -104,6 +104,25 @@ TxGNN モデルは**点状表層角結膜炎 (Punctate Epithelial Keratoconjunct
 - 添付文書の警告・禁忌の確認と、安全性評価（特に腎機能障害のある患者）
 - 眼科用剤形の再取得、または代替剤形の検討
 - 参考：同じデータでは、予測順位 2 位の**尋常性疣贅 (common wart)** で病変内注射の Phase 2/3 を含む臨床試験 4 件と RCT 文献があり（エビデンスレベル L2）、優先的に検討する価値があります。
+
+<!-- review:begin jp-lic-20261106-acyclovir-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「眼科用剤形の再取得、または代替剤形の検討（現在、日本で販売中の承認はなし）」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-acyclovir-1 -->
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「現在、日本で販売中の承認はなし」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

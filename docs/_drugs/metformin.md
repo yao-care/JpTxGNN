@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Metformin"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Metformin：予測新適応症は焦点性スティッフリム症候群 (focal stiff limb syndrome)（エビデンスレベル L5）。既存適応症：2型糖尿病、多嚢胞性卵巣症候群"
 ---
 
@@ -73,6 +73,12 @@ TxGNN モデルは**焦点性スティッフリム症候群 (focal stiff limb sy
 
 代表的なものを以下に示します。
 
+<!-- review:begin jp-lic-20261106-metformin-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「現在、有効な承認はなく、20 件すべてが取り消し済みです。代表的なものを以下に示します。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-metformin-1 -->
+
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
 | 620004480 | グリコラン錠250mg | 錠 250mg | 糖尿病治療薬、血糖降下薬、AMPキナーゼ活性化薬（2型糖尿病、多嚢胞性卵巣症候群） |
@@ -98,11 +104,31 @@ TxGNN モデルは**焦点性スティッフリム症候群 (focal stiff limb sy
 **理由：**
 - 臨床試験も文献も存在せず、機序的にも関連が乏しいため、エビデンスは L5（モデル予測のみ）にとどまります。
 
+<!-- review:begin jp-lic-20261106-metformin-2 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「臨床試験も文献も存在せず、機序的にも関連が乏しいため、エビデンスは L5（モデル予測のみ）にとどまります。／日本では現在有効な承認がなく、添付文書の安全性情報も未確認です。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-metformin-2 -->
+
 **進める場合に必要なもの：**
 - 詳細な作用機序データ（MOA）の取得
 - 添付文書の警告・禁忌情報の取得と安全性スクリーニング
 - スティッフリム症候群に対する前臨床または臨床の裏付け（現状では存在しない）
 - 他の予測疾患のうち、相対的に根拠のあるもの（例：ホモ接合型家族性高コレステロール血症は L4 で、培養線維芽細胞でコレステロール代謝への作用を示す in vitro 研究が 1 件あります）の優先的な再評価
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「現在、有効な承認はなく、20 件すべてが取り消し済みです」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本では現在有効な承認がなく、添付文書の安全性情報も未確認です」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

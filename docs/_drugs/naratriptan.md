@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 219
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "naratriptan"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
 description: "Naratriptan：予測新適応症はAtrophoderma vermiculata（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
@@ -108,6 +108,12 @@ description: "Naratriptan：予測新適応症はAtrophoderma vermiculata（エ�
 - 臨床試験がなく、文献も片頭痛全般を扱うもので脳幹性前兆に特化していないため、現状は研究仮説の段階です。
 - 脳幹性前兆や片麻痺性片頭痛では血管収縮への懸念からトリプタンの使用が慎重に扱われてきました。さらに、知識グラフ上でも片麻痺性片頭痛が禁忌関連疾患に挙がっています。
 
+<!-- review:begin jp-lic-20261106-naratriptan-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「さらに、知識グラフ上でも片麻痺性片頭痛が禁忌関連疾患に挙がっています。加えて、日本国内では現在販売中の承認がありません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 3 件、うち有効 3 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-naratriptan-1 -->
+
 **進める場合に必要なもの：**
 - 添付文書の警告・禁忌の取得と解析（現状の最大の障壁）
 - 詳細な作用機序データ（MOA）の補充
@@ -120,6 +126,19 @@ description: "Naratriptan：予測新適応症はAtrophoderma vermiculata（エ�
 **補足：他の予測候補について**
 
 2位の萎縮性毛包性皮膚症（atrophoderma vermiculata、スコア 0.9974）と3位の眉毛部紅斑性毛包性角化症（ulerythema ophryogenesis、スコア 0.9947）は、いずれもモデル予測のみ（L5）で、臨床試験も文献もありません。ナラトリプタンの作用機序との関連も確認されておらず、推奨は **Hold** です。
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「加えて、日本国内では現在販売中の承認がありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

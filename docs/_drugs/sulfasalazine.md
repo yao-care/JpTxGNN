@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 288
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "Sulfasalazine"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "WHIM syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis"]
 description: "Sulfasalazine：予測新適応症は合指（趾）症を伴う短指症候群 (brachydactyly-syndactyly syndrome)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
@@ -97,6 +97,12 @@ TxGNN モデルは、先天性の発生異常である**合指（趾）症を伴
 **理由：**
 - 予測新規適応症には臨床試験も文献もなく、機序上の関連も見つかっていません。エビデンスは L5（モデル予測のみ）です。
 
+<!-- review:begin jp-lic-20261106-sulfasalazine-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「エビデンスは L5（モデル予測のみ）です。／日本では現在有効な承認がなく、国内での開発・使用の前提も整っていません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 11 件、うち有効 11 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-sulfasalazine-1 -->
+
 **進める場合に必要なもの：**
 - 疾患の病態（発生異常に関わる経路）とサラゾスルファピリジンの作用との機序的な関連の検証
 - 前臨床研究による裏付け
@@ -104,6 +110,19 @@ TxGNN モデルは、先天性の発生異常である**合指（趾）症を伴
 - 日本の承認状況の再確認
 
 **参考：** 同じ予測リストのうち、**変形性関節症 (Osteoarthritis)**（予測スコア 0.9964）には、軟骨破壊の抑制を示す動物実験・in vitro の文献があり、エビデンスレベルは L4 です。ただし臨床試験はありません。優先順位を検討する際は、こちらの方向性も併せて確認する価値があります。
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「日本では現在有効な承認がなく、国内での開発・使用の前提も整っていません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

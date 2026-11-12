@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Menatetrenone"
 predicted_indications: ["lipoma of the conjunctiva", "bronchial adenomas/carcinoids childhood", "chondroid hamartoma", "ductal or ductular proliferation", "non-seminomatous lesion", "tumor of testis and paratestis", "benign neoplasm of tongue", "thyroglossal duct cyst", "mesenchymoma", "cystic neoplasm"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 description: "Menatetrenone：予測新適応症は結膜脂肪腫 (lipoma of the conjunctiva)（エビデンスレベル L5）。既存適応症：骨粗鬆症"
 ---
 
@@ -85,12 +85,38 @@ TxGNN モデルは**結膜脂肪腫 (lipoma of the conjunctiva)** に有効で�
 **理由：**
 予測スコアは高いものの、臨床試験・文献が一件もなく、機序的な裏付けもないため、エビデンスレベルは L5（モデル予測のみ）です。
 
+<!-- review:begin jp-lic-20261106-menatetrenone-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「予測スコアは高いものの、臨床試験・文献が一件もなく、機序的な裏付けもないため、エビデンスレベルは L5（モデル予測のみ）です。また、日本では現在有効な承認がなく、添付文書に基づく安全性評価もできていません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 7 件、うち有効 7 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-menatetrenone-1 -->
+
 **進める場合に必要なもの：**
 - 添付文書（PMDA）の警告・禁忌情報の取得と安全性スクリーニング
 - 詳細な薬物作用機序データ（MOA）の取得（DrugBank など）
 - 結膜脂肪腫との機序的関連を示す前臨床研究や文献の調査
 - 投与経路の適合性評価（現在は経口カプセルのみで、結膜局所への適用の可否が未確認）
 - 現在の市販状況の確認
+
+<!-- review:begin jp-lic-20261106-menatetrenone-2 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「現在の市販状況（承認整理の経緯）の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 7 件、うち有効 7 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-menatetrenone-2 -->
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「また、日本では現在有効な承認がなく、添付文書に基づく安全性評価もできていません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「承認整理の経緯」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

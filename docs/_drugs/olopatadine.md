@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 226
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Olopatadine：予測新適応症は酒さ性結膜炎 (Rosacea Conjunctivitis)（エビデンスレベル L5）。既存適応症：アレルギー性鼻炎、尋常性乾癬（抗アレルギー薬、H1 受容体拮抗薬）"
 monitor_inn: "Olopatadine"
 predicted_indications: ["rosacea conjunctivitis"]
@@ -62,6 +62,12 @@ TxGNN モデルは**酒さ性結膜炎 (Rosacea Conjunctivitis)** に有効で�
 
 TxGNN の高いスコア（0.9941）は予測値にすぎません。これを裏付ける臨床試験や文献は、現時点ではありません。
 
+<!-- review:begin jp-lic-20261106-olopatadine-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「主要な承認（いずれも取消済み）：」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-olopatadine-1 -->
+
 ## 日本市販情報
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
@@ -94,6 +100,26 @@ TxGNN の高いスコア（0.9941）は予測値にすぎません。これを�
 - 投与経路（点眼剤など）の適合性評価
 - 既存適応症との類似性の評価
 - 現在の日本での供給状況の確認
+
+<!-- review:begin jp-lic-20261106-olopatadine-2 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「取消済み承認の経緯の確認と、現在の日本での供給状況の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-olopatadine-2 -->
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「主要な承認（いずれも取消済み）：」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「取消済み承認の経緯の確認と」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

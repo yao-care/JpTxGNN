@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 238
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "Pembrolizumab"
 predicted_indications: ["fibromatosis, gingival", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung", "fibroma of lung", "lung benign neoplasm", "ovarioleukodystrophy", "lung germ cell tumor", "pulmonary sulcus neoplasm", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
 description: "Pembrolizumab：予測新適応症は歯肉線維腫症 (fibromatosis, gingival)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
@@ -89,6 +89,12 @@ TxGNN モデルは**歯肉線維腫症 (Fibromatosis, Gingival)** に有効で�
 **理由：**
 予測を支持する臨床試験・文献がなく、モデル予測のみ（L5）です。歯肉線維腫症は非腫瘍性の線維性疾患で、PD-1 阻害との機序的関連も見られません。
 
+<!-- review:begin jp-lic-20261106-pembrolizumab-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「歯肉線維腫症は非腫瘍性の線維性疾患で、PD-1 阻害との機序的関連も見られません。また、日本の承認は取消済みで、添付文書ベースの安全性情報も未確認です。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 1 件、うち有効 1 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-pembrolizumab-1 -->
+
 **進める場合に必要なもの：**
 - 歯肉線維腫症と PD-1 経路を結ぶ機序的・前臨床エビデンス
 - 詳細な薬物作用機序データ（MOA）の補充
@@ -99,6 +105,19 @@ TxGNN モデルは**歯肉線維腫症 (Fibromatosis, Gingival)** に有効で�
 
 **参考：他の予測候補について**
 同じ薬物の予測上位 10 件のうち、肺門部肺癌（L4、症例報告のみ）、肺良性腫瘍（L4、悪性 NSCLC/SCLC の文献は間接的）、肺胚細胞腫瘍（L4、間接的な試験のみ）などの肺関連疾患は、歯肉線維腫症よりも機序的な関連性があります。ただし、いずれも直接的な臨床エビデンスは不十分で、推奨は Hold または Research Question にとどまります。
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「また、日本の承認は取消済みで、添付文書ベースの安全性情報も未確認です」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

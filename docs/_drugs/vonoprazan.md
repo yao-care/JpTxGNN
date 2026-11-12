@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 340
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-12
 monitor_inn: "vonoprazan"
 predicted_indications: ["peptic ulcer perforation", "hiatus hernia (disease)", "achlorhydria", "Dieulafoy lesion", "pylorospasm", "gastric dilatation", "cascade stomach", "hemorrhagic duodenitis"]
 description: "Vonoprazan：予測新適応症はPeptic ulcer perforation（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
@@ -107,13 +107,39 @@ description: "Vonoprazan：予測新適応症はPeptic ulcer perforation（エ�
 **理由：**
 - 活動性消化性潰瘍は既存適応症（胃・十二指腸潰瘍）と機序的にほぼ重なり、メタアナリシスや RCT を含む文献が支持しています。一方、このレポートの範囲では臨床試験登録がなく、安全性の一次情報も不足しているため、条件付きの推進が妥当です。
 
+<!-- review:begin jp-lic-20261106-vonoprazan-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「一方、このレポートの範囲では臨床試験登録がなく、日本の承認は取り消し済みで、安全性の一次情報も不足しているため、条件付きの推進が妥当です。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 4 件、うち有効 4 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-vonoprazan-1 -->
+
 **進める場合に必要なもの：**
 - 添付文書（PMDA）の警告・禁忌情報の取得と安全性スクリーニング
 - 詳細な作用機序データ（DrugBank など）の補完
 - 活動性消化性潰瘍を対象とした臨床試験デザインの検討
 - 長期使用時の反跳性酸分泌や胃粘膜変化に対するモニタリング計画
 
+<!-- review:begin jp-lic-20261106-vonoprazan-2 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「日本での承認取り消しの経緯と現在の販売状況の確認／活動性消化性潰瘍を対象とした臨床試験デザインの検討」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 4 件、うち有効 4 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-vonoprazan-2 -->
+
 なお、順位の低い予測（無酸症、ディーラフォイ病変、幽門痙攣、胃拡張、カスケード胃）は保留（Hold）とします。吻合部潰瘍、消化性潰瘍穿孔、食道裂孔ヘルニア、出血性十二指腸炎は、機序的な妥当性はあるものの直接的エビデンスが限られ、研究課題（Research Question）の段階です。
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「日本の承認は取り消し済みで」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本での承認取り消しの経緯と現在の販売状況の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

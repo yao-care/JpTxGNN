@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 236
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 monitor_inn: "Paroxetine"
 predicted_indications: ["Ohdo syndrome and variants"]
 description: "Paroxetine：予測新適応症はOhdo 症候群および類縁疾患 (Ohdo syndrome and variants)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
@@ -94,6 +94,12 @@ TxGNN モデルは最上位の予測として **Ohdo 症候群および類縁疾
 
 承認の例を示します。
 
+<!-- review:begin jp-lic-20261106-paroxetine-1 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「取り消された承認の例を示します。」でした。削除：医薬品マスター（薬価基準収載品目）の収載情報と一致しない記載でした（2026-11-06）。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-paroxetine-1 -->
+
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
 | 622134001 | パロキセチン錠２０ｍｇ「明治」 | 錠 | 抗うつ薬、選択的セロトニン再取り込み阻害薬 |
@@ -122,6 +128,26 @@ TxGNN モデルは最上位の予測として **Ohdo 症候群および類縁疾
 - 詳細な作用機序データ（DrugBank などから取得）
 - 日本での現在の流通状況の確認
 - 失調型・妄想性など他のパーソナリティ障害候補（L4〜L5）は、直接的な根拠が得られるまで保留
+
+<!-- review:begin jp-lic-20261106-paroxetine-2 -->
+
+> **確認による訂正（2026-11-06）**：元の記載は「日本での取り消し理由と現在の流通状況の確認」でした。削除：医薬品マスター（薬価基準収載品目）の収載情報と一致しない記載でした（2026-11-06）。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+
+<!-- review:end jp-lic-20261106-paroxetine-2 -->
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-06 | 削除：「取り消された」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「取り消し理由と」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。
