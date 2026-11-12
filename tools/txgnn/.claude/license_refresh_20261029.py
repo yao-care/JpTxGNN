@@ -118,6 +118,17 @@ def main(argv):
         print("\n".join(md))
         sys.exit(code)
 
+    def refresh_packs():  # 步驟 2c（監看模式的站在步驟 1 也跑：bundle 不變，但舊證據包要先修正一次）
+        rp = run([PY, ".claude/refresh_pack_regulatory_20261112.py", "--json", site], check=False)
+        if rp.returncode != 0:
+            finish(4, f"證據包重算失敗：{(rp.stdout + rp.stderr)[-300:]}")
+        try:
+            pk = json.loads(rp.stdout.strip().splitlines()[-1])
+        except (ValueError, IndexError):
+            pk = {"stats": {}, "changed": []}
+        S["pack_changes"] = pk.get("changed", [])[:2000]
+        S["steps"].append(f"證據包 local_regulatory 重算：{len(pk.get('changed', []))} 個有變（{json.dumps(pk.get('stats', {}), ensure_ascii=False)[:200]}）")
+
     if os.environ.get("ALLOW_AI_REGEN"):
         finish(4, "環境設了 ALLOW_AI_REGEN，排程不准使用 AI 重生，中止")
     if changed_drug_pages(site):
@@ -137,6 +148,8 @@ def main(argv):
         if problems:
             finish(2, "監看來源抓取有問題：" + "；".join(problems))
         raw_path.parent.mkdir(parents=True, exist_ok=True)
+        if not dry:
+            refresh_packs()
         if old is None:
             raw_path.write_text(json.dumps(new, ensure_ascii=False, indent=1), encoding="utf-8")
             S["license_changes"] = ["watch-init"]
@@ -214,15 +227,7 @@ def main(argv):
     # 2c. 證據包 local_regulatory 用本站 _local_regulatory 從（已更新的）bundle 重算（2026-11-12 用戶決定；不呼叫模型）。
     #     證據包是公開 Release 的一部分；10-15 產生的證據包把有效許可算成註銷，這裡每週跟 bundle 對齊。
     #     重算有變的證據包記在 pack_changes，workflow 依它（加上 license_changes）決定要不要發新 Release。
-    rp = run([PY, ".claude/refresh_pack_regulatory_20261112.py", "--json", site], check=False)
-    if rp.returncode != 0:
-        finish(4, f"證據包重算失敗：{(rp.stdout + rp.stderr)[-300:]}")
-    try:
-        pk = json.loads(rp.stdout.strip().splitlines()[-1])
-    except (ValueError, IndexError):
-        pk = {"stats": {}, "changed": []}
-    S["pack_changes"] = pk.get("changed", [])[:2000]
-    S["steps"].append(f"證據包 local_regulatory 重算：{len(pk.get('changed', []))} 個有變（{json.dumps(pk.get('stats', {}), ensure_ascii=False)[:200]}）")
+    refresh_packs()
 
     # 3. 只改許可證欄位（pm 2026-10-30 第 2 點）：概覽表本站狀態列、既有張數列、許可證表狀態格。
     #    不跑事實層、fix_residual、衍生檔重產——H1、原適應症、description、預測內容一律不動。
