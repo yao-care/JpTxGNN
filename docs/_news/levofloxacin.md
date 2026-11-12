@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "クラビット点眼液１．５％（選） に関する健康ニュース。予測適応症 9 件。"
 permalink: /news/levofloxacin/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-12
 ---
 
 # クラビット点眼液１．５％（選） 関連ニュース
@@ -43,11 +43,27 @@ last_modified_at: 2026-11-11
 
 ## 関連ニュース（9 件）
 
+### [切除不能/再発大腸がんに対するロンサーフ＋アバスチン、14日周期投与と従来の28日周期投与を検証](https://news.google.com/rss/articles/CBMiSEFVX3lxTFBaR0l0OHYwNUQ2X0Y3T3g2Sy0xZ05zTHNLNGFFdWY3dmZoZVpCMWM0UF8wNGcyQWxsRC1NUkFrRkROajRFa2czZA?oc=5)
+
+2026-11-12 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
+
+出典: [がん情報サイト「オンコロ」](https://news.google.com/rss/articles/CBMiSEFVX3lxTFBaR0l0OHYwNUQ2X0Y3T3g2Sy0xZ05zTHNLNGFFdWY3dmZoZVpCMWM0UF8wNGcyQWxsRC1NUkFrRkROajRFa2czZA?oc=5)
+
+---
+
 ### [ヴィンロン省の1,000人の女性が3種類のがんの無料スクリーニングを受ける](https://news.google.com/rss/articles/CBMipAFBVV95cUxQblo1ZHFoUUtPNkwwZHFVblFmUUNwVnlORjkxMGhKZEQ2X25pUVppQUV1SWJZclNnX2RKb0g3UE1iazAtUENqc2JhUFZFaklJRmJjWUdEZmRlS0cxOWlZeG9kT3ZVcEw4Sl8wOUF3Z2NCSmJ5STBHMHVfeksyc09RbEozZ3pUaGRhZFQ1WDB2cFc5c1M1N1cxMFZpYThmRWlGakNXcg?oc=5)
 
 2026-11-11 <span class="news-indication-tag">がん</span>
 
 出典: [Laodong.vn](https://news.google.com/rss/articles/CBMipAFBVV95cUxQblo1ZHFoUUtPNkwwZHFVblFmUUNwVnlORjkxMGhKZEQ2X25pUVppQUV1SWJZclNnX2RKb0g3UE1iazAtUENqc2JhUFZFaklJRmJjWUdEZmRlS0cxOWlZeG9kT3ZVcEw4Sl8wOUF3Z2NCSmJ5STBHMHVfeksyc09RbEozZ3pUaGRhZFQ1WDB2cFc5c1M1N1cxMFZpYThmRWlGakNXcg?oc=5)
+
+---
+
+### [余命半年と言われたスキルス胃がんの妻、がん保険の給付金で家族旅行…厳しい闘病中でも満面の笑みが](https://news.google.com/rss/articles/CBMif0FVX3lxTE1LV2gtVTNIMmQ3TnZnWlk4SGdJRUZsSGtGNERDckRZWk9XQ1R2dGd6eWpubGJvcXhPNjdTaGlXYndBemV3eWNwS0hNMVhqdlcxeXJLOC1OR1JNV284U05Qb05Nc2ZWT0w2Z3ExWm5hZXA1Z3g0eDQtTW44TjVzWDA?oc=5)
+
+2026-11-11 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">胃がん</span>
+
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE1LV2gtVTNIMmQ3TnZnWlk4SGdJRUZsSGtGNERDckRZWk9XQ1R2dGd6eWpubGJvcXhPNjdTaGlXYndBemV3eWNwS0hNMVhqdlcxeXJLOC1OR1JNV284U05Qb05Nc2ZWT0w2Z3ExWm5hZXA1Z3g0eDQtTW44TjVzWDA?oc=5)
 
 ---
 
@@ -64,22 +80,6 @@ last_modified_at: 2026-11-11
 2026-11-10 <span class="news-indication-tag">がん</span>
 
 出典: [時事メディカル](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xLU1EMmR2MDZ2NlQwYlpvU1VsUHl4b3RiellyTTNGVktwZlJFWHNTTGxxM21ScEU3WUM2TnZqckN2a0xlR3h2VDc1NTTSAVJBVV95cUxOaDFfX19NMDZzSWNlcnZiOXRqQXlaTlFhZDQ1RmFERXEyX3R0LWpuelNQbjBJbUQ5QlB3VS01eG9FdkZ3ZDBJTmRoNmJxai1WUXN3?oc=5)
-
----
-
-### [A型インフルエンザが増加、多くの高齢患者が重症化](https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ3J2bUVXc0FoSnBtZXg4ejVOeWJTYVh5dTFUemtEY3BTUkFkTEpIQV9SLVM5WEpYQXFPdEY1RUxKb1ZGbFRRZ2FYNlljMG83aUJsYzl6SWZvVGdibGd4UVByYlBQcFZiSWhlZVBUYy1UMk53TWNWamI1VWNiMkhGbjRuNVhrQUU4UEVZY3cwYlIwMVZDWklnVi03eTlXU25Ub2gw?oc=5)
-
-2026-11-10 <span class="news-indication-tag">肺炎</span> <span class="news-indication-tag">インフルエンザ</span>
-
-出典: [Laodong.vn](https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ3J2bUVXc0FoSnBtZXg4ejVOeWJTYVh5dTFUemtEY3BTUkFkTEpIQV9SLVM5WEpYQXFPdEY1RUxKb1ZGbFRRZ2FYNlljMG83aUJsYzl6SWZvVGdibGd4UVByYlBQcFZiSWhlZVBUYy1UMk53TWNWamI1VWNiMkhGbjRuNVhrQUU4UEVZY3cwYlIwMVZDWklnVi03eTlXU25Ub2gw?oc=5)
-
----
-
-### [進歩する間質性肺炎診療と新たな“抗線維化薬”の登場――第3回日本呼吸器学会連携ウェビナー開催(Medical Note)](https://news.yahoo.co.jp/articles/1cd02a1fd3f71da92352488c7603e7beddebf3d8?source=rss)
-
-2026-11-09 <span class="news-indication-tag">肺炎</span>
-
-出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/1cd02a1fd3f71da92352488c7603e7beddebf3d8?source=rss)
 
 ---
 
@@ -107,11 +107,11 @@ last_modified_at: 2026-11-11
 
 ---
 
-### [【大腸がん研究の最前線】日本人患者の約半数で腸内細菌の関与を確認、若年発症でより顕著に ゲノム解析で新たな発症要因が明らかに【前後編の前編】](https://news.google.com/rss/articles/CBMid0FVX3lxTFAtazlaRjVCZ1pma1N3bzZ4dUVBMzgwMWtObkdlMWp5QnBPT25PT19Yd1UwMGVyNzRXZG9fNDBKcjFWODNQMnZVNmdvT2lfekNjSWtyNl9hY3pycmZlTE9zbkg4dnV5cU03SmhEUlVZcTNoT3pmNURN?oc=5)
+### [【大腸がん研究の最前線】日本人患者の約半数で腸内細菌の関与を確認、若年発症でより顕著に ゲノム解析で新たな発症要因が明らかに【前後編の前編】 - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE40di1IdUtHRmowcmNYa3ZfMG5FMVhFcnZGOGVxdGNjTEIzLUczdmpJTEJXcFVWdUVFV2FMdjVfbDEtUW5EQkJFRUN5ZDMwT0U2ZXd2VGRqSFRzR0tGTkJxNHA3NHdVemZJUUZ3VnJB?oc=5)
 
 2026-11-05 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
 
-出典: [NEWSポストセブン](https://news.google.com/rss/articles/CBMid0FVX3lxTFAtazlaRjVCZ1pma1N3bzZ4dUVBMzgwMWtObkdlMWp5QnBPT25PT19Yd1UwMGVyNzRXZG9fNDBKcjFWODNQMnZVNmdvT2lfekNjSWtyNl9hY3pycmZlTE9zbkg4dnV5cU03SmhEUlVZcTNoT3pmNURN?oc=5)
+出典: [au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE40di1IdUtHRmowcmNYa3ZfMG5FMVhFcnZGOGVxdGNjTEIzLUczdmpJTEJXcFVWdUVFV2FMdjVfbDEtUW5EQkJFRUN5ZDMwT0U2ZXd2VGRqSFRzR0tGTkJxNHA3NHdVemZJUUZ3VnJB?oc=5)
 
 ---
 

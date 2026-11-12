@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "エルロチニブ錠１５０ｍｇ「ＮＫ」 に関する健康ニュース。予測適応症 0 件。"
 permalink: /news/erlotinib/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-12
 ---
 
 # エルロチニブ錠１５０ｍｇ「ＮＫ」 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="エルロチニブ錠１５０ｍｇ「ＮＫ」 に関するニュースは？">
-<strong>エルロチニブ錠１５０ｍｇ「ＮＫ」</strong> には現在 <strong>11 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>エルロチニブ錠１５０ｍｇ「ＮＫ」</strong> には現在 <strong>14 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,23 @@ last_modified_at: 2026-11-11
 <p><a href="{{ '/drugs/erlotinib/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（11 件）
+## 関連ニュース（14 件）
+
+### [切除不能/再発大腸がんに対するロンサーフ＋アバスチン、14日周期投与と従来の28日周期投与を検証](https://news.google.com/rss/articles/CBMiSEFVX3lxTFBaR0l0OHYwNUQ2X0Y3T3g2Sy0xZ05zTHNLNGFFdWY3dmZoZVpCMWM0UF8wNGcyQWxsRC1NUkFrRkROajRFa2czZA?oc=5)
+
+2026-11-12 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
+
+出典: [がん情報サイト「オンコロ」](https://news.google.com/rss/articles/CBMiSEFVX3lxTFBaR0l0OHYwNUQ2X0Y3T3g2Sy0xZ05zTHNLNGFFdWY3dmZoZVpCMWM0UF8wNGcyQWxsRC1NUkFrRkROajRFa2czZA?oc=5)
+
+---
+
+### [近視の低年齢化が顕著も、眼科受診は約半数にとどまる 早期の予防・対策で子供の目を守る](https://news.google.com/rss/articles/CBMibkFVX3lxTE85elhhV2NXX2Z1V3ozMzJQQmk5aGdmTFZlcU1Qb0NrNElTVTRDT25TZmhmbjdTNnNmV0dqWTNlX1lscFRlV1djN2ROYlU5T0xBVC0tclgxbUdISDFORjNBbXV2Um4yakQ2RmMtM3Z3?oc=5)
+
+2026-11-11 <span class="news-indication-tag">認知症</span>
+
+出典: [読売新聞](https://news.google.com/rss/articles/CBMibkFVX3lxTE85elhhV2NXX2Z1V3ozMzJQQmk5aGdmTFZlcU1Qb0NrNElTVTRDT25TZmhmbjdTNnNmV0dqWTNlX1lscFRlV1djN2ROYlU5T0xBVC0tclgxbUdISDFORjNBbXV2Um4yakQ2RmMtM3Z3?oc=5)
+
+---
 
 ### [45歳以降の感染症による入院、認知症発症リスクの上昇に関係か](https://news.google.com/rss/articles/CBMilAFBVV95cUxQejA0SFFBbkdHVGVaam1MWjNoUzMxYkE5bWZuQW9kZVpFYndScmF2TDNOc25IU1BzaHpwTmtzcXNjd29hbV95OUFQV3E5cVBXSE1Wbk5FT2FMWl9hR0VPNGJ0OVJmRm1kb2xyd0NPWHY2anVVOFFkZlFMY2tUT29zTFIwVWU0bmJhY1NSbzZQMi15Q1la?oc=5)
 
@@ -53,6 +69,14 @@ last_modified_at: 2026-11-11
 2026-11-11 <span class="news-indication-tag">がん</span>
 
 出典: [Laodong.vn](https://news.google.com/rss/articles/CBMipAFBVV95cUxQblo1ZHFoUUtPNkwwZHFVblFmUUNwVnlORjkxMGhKZEQ2X25pUVppQUV1SWJZclNnX2RKb0g3UE1iazAtUENqc2JhUFZFaklJRmJjWUdEZmRlS0cxOWlZeG9kT3ZVcEw4Sl8wOUF3Z2NCSmJ5STBHMHVfeksyc09RbEozZ3pUaGRhZFQ1WDB2cFc5c1M1N1cxMFZpYThmRWlGakNXcg?oc=5)
+
+---
+
+### [余命半年と言われたスキルス胃がんの妻、がん保険の給付金で家族旅行…厳しい闘病中でも満面の笑みが](https://news.google.com/rss/articles/CBMif0FVX3lxTE1LV2gtVTNIMmQ3TnZnWlk4SGdJRUZsSGtGNERDckRZWk9XQ1R2dGd6eWpubGJvcXhPNjdTaGlXYndBemV3eWNwS0hNMVhqdlcxeXJLOC1OR1JNV284U05Qb05Nc2ZWT0w2Z3ExWm5hZXA1Z3g0eDQtTW44TjVzWDA?oc=5)
+
+2026-11-11 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">胃がん</span>
+
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE1LV2gtVTNIMmQ3TnZnWlk4SGdJRUZsSGtGNERDckRZWk9XQ1R2dGd6eWpubGJvcXhPNjdTaGlXYndBemV3eWNwS0hNMVhqdlcxeXJLOC1OR1JNV284U05Qb05Nc2ZWT0w2Z3ExWm5hZXA1Z3g0eDQtTW44TjVzWDA?oc=5)
 
 ---
 
@@ -112,11 +136,11 @@ last_modified_at: 2026-11-11
 
 ---
 
-### [【大腸がん研究の最前線】日本人患者の約半数で腸内細菌の関与を確認、若年発症でより顕著に ゲノム解析で新たな発症要因が明らかに【前後編の前編】](https://news.google.com/rss/articles/CBMid0FVX3lxTFAtazlaRjVCZ1pma1N3bzZ4dUVBMzgwMWtObkdlMWp5QnBPT25PT19Yd1UwMGVyNzRXZG9fNDBKcjFWODNQMnZVNmdvT2lfekNjSWtyNl9hY3pycmZlTE9zbkg4dnV5cU03SmhEUlVZcTNoT3pmNURN?oc=5)
+### [【大腸がん研究の最前線】日本人患者の約半数で腸内細菌の関与を確認、若年発症でより顕著に ゲノム解析で新たな発症要因が明らかに【前後編の前編】 - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE40di1IdUtHRmowcmNYa3ZfMG5FMVhFcnZGOGVxdGNjTEIzLUczdmpJTEJXcFVWdUVFV2FMdjVfbDEtUW5EQkJFRUN5ZDMwT0U2ZXd2VGRqSFRzR0tGTkJxNHA3NHdVemZJUUZ3VnJB?oc=5)
 
 2026-11-05 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
 
-出典: [NEWSポストセブン](https://news.google.com/rss/articles/CBMid0FVX3lxTFAtazlaRjVCZ1pma1N3bzZ4dUVBMzgwMWtObkdlMWp5QnBPT25PT19Yd1UwMGVyNzRXZG9fNDBKcjFWODNQMnZVNmdvT2lfekNjSWtyNl9hY3pycmZlTE9zbkg4dnV5cU03SmhEUlVZcTNoT3pmNURN?oc=5)
+出典: [au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE40di1IdUtHRmowcmNYa3ZfMG5FMVhFcnZGOGVxdGNjTEIzLUczdmpJTEJXcFVWdUVFV2FMdjVfbDEtUW5EQkJFRUN5ZDMwT0U2ZXd2VGRqSFRzR0tGTkJxNHA3NHdVemZJUUZ3VnJB?oc=5)
 
 ---
 

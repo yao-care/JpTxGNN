@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "タミフルドライシロップ３％（選） に関する健康ニュース。予測適応症 0 件。"
 permalink: /news/oseltamivir/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-12
 ---
 
 # タミフルドライシロップ３％（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="タミフルドライシロップ３％（選） に関するニュースは？">
-<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>4 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>3 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,19 +30,19 @@ last_modified_at: 2026-11-11
 <p><a href="{{ '/drugs/oseltamivir/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（4 件）
+## 関連ニュース（3 件）
 
-### [痛くないワクチンも 本格的な流行前にしたいインフルエンザ対策](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzOERjVTdmaVJoc21zWGR2ZUdhUk1KTEVIWFBzYVo0VkZkRjZTQXllalFuT1M2eGZaVUVidUVhemt5RC14S1d0RG50RmlRakhHWTVtNFNmcTJlMkVGVnVVUmJWdUxGSmI0?oc=5)
+### [インフルすでに感染、それでもワクチン必要？ 注射しない噴霧型は？](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RN1d1UTdkek1QNEpUOTk5SUlPMkM0anBRYXBnN0daT3Z2TXpBUEMtdnNremZKaXMydmhSMUNtVDlxWVVINFU0bW9PZDIwNU5fVHNfbU5zaFBXcmt5UW5qdG4tMW14Y28?oc=5)
 
-2026-11-11 <span class="news-indication-tag">インフルエンザ</span>
+2026-11-12 <span class="news-indication-tag">インフルエンザ</span>
 
-出典: [毎日新聞](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzOERjVTdmaVJoc21zWGR2ZUdhUk1KTEVIWFBzYVo0VkZkRjZTQXllalFuT1M2eGZaVUVidUVhemt5RC14S1d0RG50RmlRakhHWTVtNFNmcTJlMkVGVnVVUmJWdUxGSmI0?oc=5)
+出典: [朝日新聞](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RN1d1UTdkek1QNEpUOTk5SUlPMkM0anBRYXBnN0daT3Z2TXpBUEMtdnNremZKaXMydmhSMUNtVDlxWVVINFU0bW9PZDIwNU5fVHNfbU5zaFBXcmt5UW5qdG4tMW14Y28?oc=5)
 
 ---
 
 ### [A型インフルエンザが増加、多くの高齢患者が重症化](https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ3J2bUVXc0FoSnBtZXg4ejVOeWJTYVh5dTFUemtEY3BTUkFkTEpIQV9SLVM5WEpYQXFPdEY1RUxKb1ZGbFRRZ2FYNlljMG83aUJsYzl6SWZvVGdibGd4UVByYlBQcFZiSWhlZVBUYy1UMk53TWNWamI1VWNiMkhGbjRuNVhrQUU4UEVZY3cwYlIwMVZDWklnVi03eTlXU25Ub2gw?oc=5)
 
-2026-11-10 <span class="news-indication-tag">肺炎</span> <span class="news-indication-tag">インフルエンザ</span>
+2026-11-10 <span class="news-indication-tag">インフルエンザ</span>
 
 出典: [Laodong.vn](https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ3J2bUVXc0FoSnBtZXg4ejVOeWJTYVh5dTFUemtEY3BTUkFkTEpIQV9SLVM5WEpYQXFPdEY1RUxKb1ZGbFRRZ2FYNlljMG83aUJsYzl6SWZvVGdibGd4UVByYlBQcFZiSWhlZVBUYy1UMk53TWNWamI1VWNiMkhGbjRuNVhrQUU4UEVZY3cwYlIwMVZDWklnVi03eTlXU25Ub2gw?oc=5)
 
@@ -53,14 +53,6 @@ last_modified_at: 2026-11-11
 2026-11-10 <span class="news-indication-tag">インフルエンザ</span>
 
 出典: [au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE8yNmtYYzliWGdFbFJEQlo1dS1FdHRXOHdHMGdUTzVDV1VtaTQtNmdJUUNFWWdhRENya0tOVXpsWDh4OVJmQXVva0JkSC1yV3kyMWdGZFBwZTg0Nk92TjZpSDFWNHZoRTV1LXA5N3RR?oc=5)
-
----
-
-### [進歩する間質性肺炎診療と新たな“抗線維化薬”の登場――第3回日本呼吸器学会連携ウェビナー開催(Medical Note)](https://news.yahoo.co.jp/articles/1cd02a1fd3f71da92352488c7603e7beddebf3d8?source=rss)
-
-2026-11-09 <span class="news-indication-tag">肺炎</span>
-
-出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/1cd02a1fd3f71da92352488c7603e7beddebf3d8?source=rss)
 
 ---
 

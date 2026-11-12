@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "ロンゲス錠２０ｍｇ（選） に関する健康ニュース。予測適応症 6 件。"
 permalink: /news/lisinopril/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-12
 ---
 
 # ロンゲス錠２０ｍｇ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-11
 ---
 
 <p class="key-answer" data-question="ロンゲス錠２０ｍｇ（選） に関するニュースは？">
-<strong>ロンゲス錠２０ｍｇ（選）</strong> には現在 <strong>11 件</strong>の関連ニュースがあり、予測適応症は 6 件です。
+<strong>ロンゲス錠２０ｍｇ（選）</strong> には現在 <strong>13 件</strong>の関連ニュースがあり、予測適応症は 6 件です。
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,15 @@ last_modified_at: 2026-11-11
 <p><a href="{{ '/drugs/lisinopril/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（11 件）
+## 関連ニュース（13 件）
+
+### [切除不能/再発大腸がんに対するロンサーフ＋アバスチン、14日周期投与と従来の28日周期投与を検証](https://news.google.com/rss/articles/CBMiSEFVX3lxTFBaR0l0OHYwNUQ2X0Y3T3g2Sy0xZ05zTHNLNGFFdWY3dmZoZVpCMWM0UF8wNGcyQWxsRC1NUkFrRkROajRFa2czZA?oc=5)
+
+2026-11-12 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
+
+出典: [がん情報サイト「オンコロ」](https://news.google.com/rss/articles/CBMiSEFVX3lxTFBaR0l0OHYwNUQ2X0Y3T3g2Sy0xZ05zTHNLNGFFdWY3dmZoZVpCMWM0UF8wNGcyQWxsRC1NUkFrRkROajRFa2czZA?oc=5)
+
+---
 
 ### [ラジオ大阪が特別番組「糖尿病デー・スペシャル」予防・治療情報をたっぷりお届け！ check! ラジオ大阪](https://news.google.com/rss/articles/CBMidkFVX3lxTE9RcHVTQ2FKOVZxaVFxWExkdEFvNUxRMkVqblEwSnZ5ZWgxdkJTZFNTdm1jaG9Nd2dON3dGQjJkSkpQQU40akc2VThxTW9vcW9iWUNOSUp0Z1JSZTRhanl3SG5NX3FmSTAxNjZaSjNWQmFPeDZZUmc?oc=5)
 
@@ -53,6 +61,14 @@ last_modified_at: 2026-11-11
 2026-11-11 <span class="news-indication-tag">がん</span>
 
 出典: [Laodong.vn](https://news.google.com/rss/articles/CBMipAFBVV95cUxQblo1ZHFoUUtPNkwwZHFVblFmUUNwVnlORjkxMGhKZEQ2X25pUVppQUV1SWJZclNnX2RKb0g3UE1iazAtUENqc2JhUFZFaklJRmJjWUdEZmRlS0cxOWlZeG9kT3ZVcEw4Sl8wOUF3Z2NCSmJ5STBHMHVfeksyc09RbEozZ3pUaGRhZFQ1WDB2cFc5c1M1N1cxMFZpYThmRWlGakNXcg?oc=5)
+
+---
+
+### [余命半年と言われたスキルス胃がんの妻、がん保険の給付金で家族旅行…厳しい闘病中でも満面の笑みが](https://news.google.com/rss/articles/CBMif0FVX3lxTE1LV2gtVTNIMmQ3TnZnWlk4SGdJRUZsSGtGNERDckRZWk9XQ1R2dGd6eWpubGJvcXhPNjdTaGlXYndBemV3eWNwS0hNMVhqdlcxeXJLOC1OR1JNV284U05Qb05Nc2ZWT0w2Z3ExWm5hZXA1Z3g0eDQtTW44TjVzWDA?oc=5)
+
+2026-11-11 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">胃がん</span>
+
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE1LV2gtVTNIMmQ3TnZnWlk4SGdJRUZsSGtGNERDckRZWk9XQ1R2dGd6eWpubGJvcXhPNjdTaGlXYndBemV3eWNwS0hNMVhqdlcxeXJLOC1OR1JNV284U05Qb05Nc2ZWT0w2Z3ExWm5hZXA1Z3g0eDQtTW44TjVzWDA?oc=5)
 
 ---
 
@@ -120,11 +136,11 @@ last_modified_at: 2026-11-11
 
 ---
 
-### [【大腸がん研究の最前線】日本人患者の約半数で腸内細菌の関与を確認、若年発症でより顕著に ゲノム解析で新たな発症要因が明らかに【前後編の前編】](https://news.google.com/rss/articles/CBMid0FVX3lxTFAtazlaRjVCZ1pma1N3bzZ4dUVBMzgwMWtObkdlMWp5QnBPT25PT19Yd1UwMGVyNzRXZG9fNDBKcjFWODNQMnZVNmdvT2lfekNjSWtyNl9hY3pycmZlTE9zbkg4dnV5cU03SmhEUlVZcTNoT3pmNURN?oc=5)
+### [【大腸がん研究の最前線】日本人患者の約半数で腸内細菌の関与を確認、若年発症でより顕著に ゲノム解析で新たな発症要因が明らかに【前後編の前編】 - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE40di1IdUtHRmowcmNYa3ZfMG5FMVhFcnZGOGVxdGNjTEIzLUczdmpJTEJXcFVWdUVFV2FMdjVfbDEtUW5EQkJFRUN5ZDMwT0U2ZXd2VGRqSFRzR0tGTkJxNHA3NHdVemZJUUZ3VnJB?oc=5)
 
 2026-11-05 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
 
-出典: [NEWSポストセブン](https://news.google.com/rss/articles/CBMid0FVX3lxTFAtazlaRjVCZ1pma1N3bzZ4dUVBMzgwMWtObkdlMWp5QnBPT25PT19Yd1UwMGVyNzRXZG9fNDBKcjFWODNQMnZVNmdvT2lfekNjSWtyNl9hY3pycmZlTE9zbkg4dnV5cU03SmhEUlVZcTNoT3pmNURN?oc=5)
+出典: [au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE40di1IdUtHRmowcmNYa3ZfMG5FMVhFcnZGOGVxdGNjTEIzLUczdmpJTEJXcFVWdUVFV2FMdjVfbDEtUW5EQkJFRUN5ZDMwT0U2ZXd2VGRqSFRzR0tGTkJxNHA3NHdVemZJUUZ3VnJB?oc=5)
 
 ---
 

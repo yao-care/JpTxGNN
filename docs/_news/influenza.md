@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 3 件、関連医薬品 1 件。"
 permalink: /news/influenza/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-12
 ---
 
 # インフルエンザ (influenza) 関連ニュース
@@ -32,11 +32,11 @@ last_modified_at: 2026-11-11
 
 ## 関連ニュース（3 件）
 
-### [痛くないワクチンも 本格的な流行前にしたいインフルエンザ対策](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzOERjVTdmaVJoc21zWGR2ZUdhUk1KTEVIWFBzYVo0VkZkRjZTQXllalFuT1M2eGZaVUVidUVhemt5RC14S1d0RG50RmlRakhHWTVtNFNmcTJlMkVGVnVVUmJWdUxGSmI0?oc=5)
+### [インフルすでに感染、それでもワクチン必要？ 注射しない噴霧型は？](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RN1d1UTdkek1QNEpUOTk5SUlPMkM0anBRYXBnN0daT3Z2TXpBUEMtdnNremZKaXMydmhSMUNtVDlxWVVINFU0bW9PZDIwNU5fVHNfbU5zaFBXcmt5UW5qdG4tMW14Y28?oc=5)
 
-2026-11-11
+2026-11-12
 
-出典: [毎日新聞](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzOERjVTdmaVJoc21zWGR2ZUdhUk1KTEVIWFBzYVo0VkZkRjZTQXllalFuT1M2eGZaVUVidUVhemt5RC14S1d0RG50RmlRakhHWTVtNFNmcTJlMkVGVnVVUmJWdUxGSmI0?oc=5)
+出典: [朝日新聞](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RN1d1UTdkek1QNEpUOTk5SUlPMkM0anBRYXBnN0daT3Z2TXpBUEMtdnNremZKaXMydmhSMUNtVDlxWVVINFU0bW9PZDIwNU5fVHNfbU5zaFBXcmt5UW5qdG4tMW14Y28?oc=5)
 
 ---
 
