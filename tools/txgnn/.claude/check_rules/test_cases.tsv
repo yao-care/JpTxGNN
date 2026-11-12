@@ -544,3 +544,4 @@ ROW_STATUS	x	SgTxGNN|| SIN13645P | Aricept Evess 5mg | TABLET | Valid |	miss	SIN
 ROW_STATUS	x	NZTxGNN|| 378038 | Ziagen | Abacavir sulphate | Tab 300 mg | No |	miss	378038=valid
 ROW_STATUS	x	UkTxGNN|| 0503010E0AAABAB | Abacavir 20mg/ml oral solution | Cancelled |	miss	0503010E0AAABAB=valid
 ROW_STATUS	x	TwTxGNN|| 衛署藥製字第055116號 | X | 已註銷 |	miss	衛署藥製字第055116號=valid
+M3V	ms	Jumlah keseluruhan ialah 314 lesen (304 sah).	miss	site=MyTxGNN;ms=Marketed;valid=303;not_marketed=0;cancelled=11

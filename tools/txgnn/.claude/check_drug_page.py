@@ -1313,7 +1313,7 @@ X_LOCAL["ms"] = dict(
                      r"\btiada lesen tempatan\b", re.I),
     none_cancel=re.compile(r"\btiada (\w+ ){0,2}(yang )?(dibatalkan|dibatal)\b|\btiada pembatalan\b|\b0 (dibatalkan|pembatalan)\b", re.I),
     all_valid=re.compile(r"\b(kesemua|semua)\b[^.;]{0,40}?\b(berstatus sah|adalah sah|masih sah)\b|\b(kesemua|semua) (\w+ ){0,3}(pendaftaran|lesen) (yang )?sah\b", re.I),
-    count=[re.compile(r"\b" + _NMS + r" (pendaftaran|lesen)\b[^.;]{0,20}?\b(yang )?(sah|berstatus sah)\b", re.I),
+    count=[re.compile(r"\b" + _NMS + r" (pendaftaran|lesen)\b[^.;()\d]{0,20}?\b(yang )?(sah|berstatus sah)\b", re.I),  # 「314 lesen (304 sah)」的 314 是總數（2026-11-12）
            re.compile(r"\b(?:kesemua|semua) " + _NMS + r" (pendaftaran|lesen)\b[^.;]{0,30}?\b(berstatus sah|adalah sah|sah)\b", re.I)],
     partner=re.compile(r"\b(daripada|dari)\s*$", re.I), numw=_NUMW_MS,
     ctx=re.compile(r"NCT\d|pendaftaran (ujian|percubaan)|ClinicalTrials|daftar (ujian|percubaan)", re.I),
