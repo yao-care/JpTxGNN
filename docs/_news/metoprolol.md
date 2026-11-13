@@ -40,19 +40,11 @@ last_modified_at: 2026-11-13
 
 ## 関連ニュース（10 件）
 
-### [33歳1児の母「トップレス」でフルマラソン出場に「賛否の声」。 両胸の乳がんの傷「もう隠したくない」“異例の決断”の理由とは【米】(ウィメンズヘルス)](https://news.yahoo.co.jp/articles/eb85700a1aa3891211bae4cb1bbf67a9aa30e3eb?source=rss)
-
-2026-11-13 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
-
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/eb85700a1aa3891211bae4cb1bbf67a9aa30e3eb?source=rss)
-
----
-
 ### [日本の大腸がん対策、何が足りない？―アメリカは「45歳から大腸内視鏡」が主流(メディカルドック)](https://news.yahoo.co.jp/articles/1da8b606671ebdf6470b05c85082e7fc6f0ad6ce?source=rss)
 
 2026-11-13 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
 
-出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/1da8b606671ebdf6470b05c85082e7fc6f0ad6ce?source=rss) · [メディカルドック](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsTVZiOUpZQlRQeGJZZFFaUzNPNGVaeWtTWmVnQUxnbGtlOVNucHVFLWZHR1RQeF9FRlBkT2FNUXdoYUdZZHZQNnl6LVNLY3ZITWtpUlBCV2JRekM5?oc=5)
+出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/1da8b606671ebdf6470b05c85082e7fc6f0ad6ce?source=rss) · [メディカルドック](https://news.google.com/rss/articles/CBMia0FVX3lxTE0zYzBiQWxIZUV1R3RsVmhwb0JmM29rQmVNS1ZKalJVaVpHUktGYl9ESm1LV1MyeEgwdEFBVFpzNFFQcTY0NzFYQWI2UElzRU9JNEM3OUJOSmVXaFRRZk8xZ0lqZ3ZPT2xSdm9Z?oc=5)
 
 ---
 
@@ -117,6 +109,14 @@ last_modified_at: 2026-11-13
 2026-11-07 <span class="news-indication-tag">がん</span>
 
 出典: [日刊ゲンダイDIGITAL](https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6QURJQ1RPWmRXRE45X1dySzlRUmJjZGprTnpaZ0tocnl4QzNMMzB5bXQ0cXJYdThQMnVhZWd3VnV5dlJSd25CcTczeFBBRFk1eUFZbHhLMkVLVWRhZm9vOTdjOXZCenBV?oc=5)
+
+---
+
+### [季節性インフルエンザは、基礎疾患を持つ高齢者に多くの合併症をもたらす可能性があります](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWFhmVFQ2cmNmc2tObGFJa2lCYVpfOWRNWmlBOHFjWmQzSnJ4dHZQWUhHUlVUZzhkNVFIdzhZNGJ1MkEwLTZvNHhEX2FJVXpieFJESWVwQm81clZLV3NfbmFIdHlkZWpYNlUzYThqTDJLY2ZvQTRQbGpscFViS1MxWF9BYThKSU12ak4wczNibGNUX2RMU1FZVEdJeU1uck5iZXk4ZTBCMks?oc=5)
+
+2026-11-07 <span class="news-indication-tag">心臓発作</span> <span class="news-indication-tag">脳卒中</span> <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [Laodong.vn](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWFhmVFQ2cmNmc2tObGFJa2lCYVpfOWRNWmlBOHFjWmQzSnJ4dHZQWUhHUlVUZzhkNVFIdzhZNGJ1MkEwLTZvNHhEX2FJVXpieFJESWVwQm81clZLV3NfbmFIdHlkZWpYNlUzYThqTDJLY2ZvQTRQbGpscFViS1MxWF9BYThKSU12ak4wczNibGNUX2RMU1FZVEdJeU1uck5iZXk4ZTBCMks?oc=5)
 
 ---
 

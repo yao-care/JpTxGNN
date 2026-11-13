@@ -3,7 +3,7 @@ layout: default
 title: "脳卒中 (stroke) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "脳卒中 (stroke) に関する健康ニュース。ニュース 1 件、関連医薬品 16 件。"
+description: "脳卒中 (stroke) に関する健康ニュース。ニュース 2 件、関連医薬品 16 件。"
 permalink: /news/stroke/
 last_modified_at: 2026-11-13
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="脳卒中 (stroke) に関するニュースは？">
-<strong>脳卒中 (stroke)</strong> には現在 <strong>1 件</strong>の関連ニュースと 16 件の関連医薬品があります。
+<strong>脳卒中 (stroke)</strong> には現在 <strong>2 件</strong>の関連ニュースと 16 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -45,13 +45,21 @@ last_modified_at: 2026-11-13
 </ul>
 </div>
 
-## 関連ニュース（1 件）
+## 関連ニュース（2 件）
 
 ### [【コーヒーvs炭酸飲料】うつのリスクに明暗？ 205万人分のデータで見えた“飲み物と心”の関係を医師が解説](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5JWU15NG85RnpYckVRUHhCejVjWHFzcFVyX215SUQtaXF3U0NWWnlOU1E3elRIQ0FkVFZnVjd1R1J2YjRyWVNRNl9ka0wtQnhneEtZS0hsYw?oc=5)
 
 2026-11-13
 
 出典: [メディカルドック](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5JWU15NG85RnpYckVRUHhCejVjWHFzcFVyX215SUQtaXF3U0NWWnlOU1E3elRIQ0FkVFZnVjd1R1J2YjRyWVNRNl9ka0wtQnhneEtZS0hsYw?oc=5)
+
+---
+
+### [季節性インフルエンザは、基礎疾患を持つ高齢者に多くの合併症をもたらす可能性があります](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWFhmVFQ2cmNmc2tObGFJa2lCYVpfOWRNWmlBOHFjWmQzSnJ4dHZQWUhHUlVUZzhkNVFIdzhZNGJ1MkEwLTZvNHhEX2FJVXpieFJESWVwQm81clZLV3NfbmFIdHlkZWpYNlUzYThqTDJLY2ZvQTRQbGpscFViS1MxWF9BYThKSU12ak4wczNibGNUX2RMU1FZVEdJeU1uck5iZXk4ZTBCMks?oc=5)
+
+2026-11-07
+
+出典: [Laodong.vn](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWFhmVFQ2cmNmc2tObGFJa2lCYVpfOWRNWmlBOHFjWmQzSnJ4dHZQWUhHUlVUZzhkNVFIdzhZNGJ1MkEwLTZvNHhEX2FJVXpieFJESWVwQm81clZLV3NfbmFIdHlkZWpYNlUzYThqTDJLY2ZvQTRQbGpscFViS1MxWF9BYThKSU12ak4wczNibGNUX2RMU1FZVEdJeU1uck5iZXk4ZTBCMks?oc=5)
 
 ---
 

@@ -36,7 +36,7 @@ last_modified_at: 2026-11-13
 
 2026-11-13
 
-出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/1da8b606671ebdf6470b05c85082e7fc6f0ad6ce?source=rss) · [メディカルドック](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsTVZiOUpZQlRQeGJZZFFaUzNPNGVaeWtTWmVnQUxnbGtlOVNucHVFLWZHR1RQeF9FRlBkT2FNUXdoYUdZZHZQNnl6LVNLY3ZITWtpUlBCV2JRekM5?oc=5)
+出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/1da8b606671ebdf6470b05c85082e7fc6f0ad6ce?source=rss) · [メディカルドック](https://news.google.com/rss/articles/CBMia0FVX3lxTE0zYzBiQWxIZUV1R3RsVmhwb0JmM29rQmVNS1ZKalJVaVpHUktGYl9ESm1LV1MyeEgwdEFBVFpzNFFQcTY0NzFYQWI2UElzRU9JNEM3OUJOSmVXaFRRZk8xZ0lqZ3ZPT2xSdm9Z?oc=5)
 
 ---
 

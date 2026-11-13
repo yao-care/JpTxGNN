@@ -43,11 +43,11 @@ last_modified_at: 2026-11-13
 
 ## 関連ニュース（10 件）
 
-### [33歳1児の母「トップレス」でフルマラソン出場に「賛否の声」。 両胸の乳がんの傷「もう隠したくない」“異例の決断”の理由とは【米】(ウィメンズヘルス)](https://news.yahoo.co.jp/articles/eb85700a1aa3891211bae4cb1bbf67a9aa30e3eb?source=rss)
+### [加藤茶さん「志村が教えてくれた」　心不全の危機を脱し新型コロナ予防、命を守る妻の工夫　大人のピンチ百科(産経新聞)](https://news.yahoo.co.jp/articles/e1945648a0bfcb278a8ee3268d3edc2d104a172e?source=rss)
 
-2026-11-13 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
+2026-11-13 <span class="news-indication-tag">心不全</span> <span class="news-indication-tag">インフルエンザ</span>
 
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/eb85700a1aa3891211bae4cb1bbf67a9aa30e3eb?source=rss)
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/e1945648a0bfcb278a8ee3268d3edc2d104a172e?source=rss)
 
 ---
 
@@ -55,7 +55,7 @@ last_modified_at: 2026-11-13
 
 2026-11-13 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
 
-出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/1da8b606671ebdf6470b05c85082e7fc6f0ad6ce?source=rss) · [メディカルドック](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsTVZiOUpZQlRQeGJZZFFaUzNPNGVaeWtTWmVnQUxnbGtlOVNucHVFLWZHR1RQeF9FRlBkT2FNUXdoYUdZZHZQNnl6LVNLY3ZITWtpUlBCV2JRekM5?oc=5)
+出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/1da8b606671ebdf6470b05c85082e7fc6f0ad6ce?source=rss) · [メディカルドック](https://news.google.com/rss/articles/CBMia0FVX3lxTE0zYzBiQWxIZUV1R3RsVmhwb0JmM29rQmVNS1ZKalJVaVpHUktGYl9ESm1LV1MyeEgwdEFBVFpzNFFQcTY0NzFYQWI2UElzRU9JNEM3OUJOSmVXaFRRZk8xZ0lqZ3ZPT2xSdm9Z?oc=5)
 
 ---
 

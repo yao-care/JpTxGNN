@@ -33,11 +33,11 @@ last_modified_at: 2026-11-13
 
 ## 関連ニュース（7 件）
 
-### [歯磨きで認知症や糖尿病を防ぐ？ 口腔ケアが全身を守る「口腔—全身連関」の最前線(TOKYO FM＋)](https://news.yahoo.co.jp/articles/695f1613d26c5f5b4f35015f324ca909c67faeec?source=rss)
+### [《認知症の約4割は防げる？》最新研究が示した「14の危険因子」　最大のリスク「難聴」のケアと1日3000歩から始める予防習慣(介護ポストセブン)](https://news.yahoo.co.jp/articles/2b66080439954312146c34b481fc33a4f719b86b?source=rss)
 
 2026-11-13
 
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/695f1613d26c5f5b4f35015f324ca909c67faeec?source=rss)
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/2b66080439954312146c34b481fc33a4f719b86b?source=rss)
 
 ---
 

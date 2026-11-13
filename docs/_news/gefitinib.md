@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="イレッサ錠２５０　２５０ｍｇ（選） に関するニュースは？">
-<strong>イレッサ錠２５０　２５０ｍｇ（選）</strong> には現在 <strong>16 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
+<strong>イレッサ錠２５０　２５０ｍｇ（選）</strong> には現在 <strong>15 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
 </p>
 
 <div class="key-takeaway">
@@ -41,21 +41,13 @@ last_modified_at: 2026-11-13
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（16 件）
+## 関連ニュース（15 件）
 
-### [33歳1児の母「トップレス」でフルマラソン出場に「賛否の声」。 両胸の乳がんの傷「もう隠したくない」“異例の決断”の理由とは【米】(ウィメンズヘルス)](https://news.yahoo.co.jp/articles/eb85700a1aa3891211bae4cb1bbf67a9aa30e3eb?source=rss)
-
-2026-11-13 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
-
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/eb85700a1aa3891211bae4cb1bbf67a9aa30e3eb?source=rss)
-
----
-
-### [歯磨きで認知症や糖尿病を防ぐ？ 口腔ケアが全身を守る「口腔—全身連関」の最前線(TOKYO FM＋)](https://news.yahoo.co.jp/articles/695f1613d26c5f5b4f35015f324ca909c67faeec?source=rss)
+### [《認知症の約4割は防げる？》最新研究が示した「14の危険因子」　最大のリスク「難聴」のケアと1日3000歩から始める予防習慣(介護ポストセブン)](https://news.yahoo.co.jp/articles/2b66080439954312146c34b481fc33a4f719b86b?source=rss)
 
 2026-11-13 <span class="news-indication-tag">認知症</span>
 
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/695f1613d26c5f5b4f35015f324ca909c67faeec?source=rss)
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/2b66080439954312146c34b481fc33a4f719b86b?source=rss)
 
 ---
 
@@ -71,7 +63,7 @@ last_modified_at: 2026-11-13
 
 2026-11-13 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
 
-出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/1da8b606671ebdf6470b05c85082e7fc6f0ad6ce?source=rss) · [メディカルドック](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsTVZiOUpZQlRQeGJZZFFaUzNPNGVaeWtTWmVnQUxnbGtlOVNucHVFLWZHR1RQeF9FRlBkT2FNUXdoYUdZZHZQNnl6LVNLY3ZITWtpUlBCV2JRekM5?oc=5)
+出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/1da8b606671ebdf6470b05c85082e7fc6f0ad6ce?source=rss) · [メディカルドック](https://news.google.com/rss/articles/CBMia0FVX3lxTE0zYzBiQWxIZUV1R3RsVmhwb0JmM29rQmVNS1ZKalJVaVpHUktGYl9ESm1LV1MyeEgwdEFBVFpzNFFQcTY0NzFYQWI2UElzRU9JNEM3OUJOSmVXaFRRZk8xZ0lqZ3ZPT2xSdm9Z?oc=5)
 
 ---
 

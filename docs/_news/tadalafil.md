@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="ザルティア錠５ｍｇ（選） に関するニュースは？">
-<strong>ザルティア錠５ｍｇ（選）</strong> には現在 <strong>2 件</strong>の関連ニュースがあり、予測適応症は 8 件です。
+<strong>ザルティア錠５ｍｇ（選）</strong> には現在 <strong>3 件</strong>の関連ニュースがあり、予測適応症は 8 件です。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ last_modified_at: 2026-11-13
 <p><a href="{{ '/drugs/tadalafil/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（2 件）
+## 関連ニュース（3 件）
 
 ### [【コーヒーvs炭酸飲料】うつのリスクに明暗？ 205万人分のデータで見えた“飲み物と心”の関係を医師が解説](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5JWU15NG85RnpYckVRUHhCejVjWHFzcFVyX215SUQtaXF3U0NWWnlOU1E3elRIQ0FkVFZnVjd1R1J2YjRyWVNRNl9ka0wtQnhneEtZS0hsYw?oc=5)
 
@@ -55,6 +55,14 @@ last_modified_at: 2026-11-13
 2026-11-10 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾患</span>
 
 出典: [読売新聞](https://news.google.com/rss/articles/CBMijgFBVV95cUxNdHRFS0NveElha2cwcjl1a19NSGN6dDBRQzVDV0dDYzlPTmlpdUVacGtWaG5vcGNxWTFCU1RpYmdOV0kycXBVUUpMS0dZQWd1amYtUUNqZWIzMUhYQUxSdEpTUUxRLXlEWWR3MFVqdm1fRm84aWtPeFlZdUVWVmdBMU5DTzlkNXBsS2hucUVR?oc=5)
+
+---
+
+### [季節性インフルエンザは、基礎疾患を持つ高齢者に多くの合併症をもたらす可能性があります](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWFhmVFQ2cmNmc2tObGFJa2lCYVpfOWRNWmlBOHFjWmQzSnJ4dHZQWUhHUlVUZzhkNVFIdzhZNGJ1MkEwLTZvNHhEX2FJVXpieFJESWVwQm81clZLV3NfbmFIdHlkZWpYNlUzYThqTDJLY2ZvQTRQbGpscFViS1MxWF9BYThKSU12ak4wczNibGNUX2RMU1FZVEdJeU1uck5iZXk4ZTBCMks?oc=5)
+
+2026-11-07 <span class="news-indication-tag">心臓発作</span> <span class="news-indication-tag">脳卒中</span> <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [Laodong.vn](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWFhmVFQ2cmNmc2tObGFJa2lCYVpfOWRNWmlBOHFjWmQzSnJ4dHZQWUhHUlVUZzhkNVFIdzhZNGJ1MkEwLTZvNHhEX2FJVXpieFJESWVwQm81clZLV3NfbmFIdHlkZWpYNlUzYThqTDJLY2ZvQTRQbGpscFViS1MxWF9BYThKSU12ak4wczNibGNUX2RMU1FZVEdJeU1uck5iZXk4ZTBCMks?oc=5)
 
 ---
 
