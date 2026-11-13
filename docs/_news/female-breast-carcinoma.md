@@ -3,7 +3,7 @@ layout: default
 title: "乳がん (female breast carcinoma) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "乳がん (female breast carcinoma) に関する健康ニュース。ニュース 2 件、関連医薬品 7 件。"
+description: "乳がん (female breast carcinoma) に関する健康ニュース。ニュース 3 件、関連医薬品 7 件。"
 permalink: /news/female-breast-carcinoma/
 last_modified_at: 2026-11-13
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="乳がん (female breast carcinoma) に関するニュースは？">
-<strong>乳がん (female breast carcinoma)</strong> には現在 <strong>2 件</strong>の関連ニュースと 7 件の関連医薬品があります。
+<strong>乳がん (female breast carcinoma)</strong> には現在 <strong>3 件</strong>の関連ニュースと 7 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,15 @@ last_modified_at: 2026-11-13
 </ul>
 </div>
 
-## 関連ニュース（2 件）
+## 関連ニュース（3 件）
+
+### [33歳1児の母「トップレス」でフルマラソン出場に「賛否の声」。 両胸の乳がんの傷「もう隠したくない」“異例の決断”の理由とは【米】(ウィメンズヘルス)](https://news.yahoo.co.jp/articles/eb85700a1aa3891211bae4cb1bbf67a9aa30e3eb?source=rss)
+
+2026-11-13
+
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/eb85700a1aa3891211bae4cb1bbf67a9aa30e3eb?source=rss)
+
+---
 
 ### [しこり以外にもある『乳がん』のサイン 触った感触だけで判断してはいけない理由を医師が解説(メディカルドック)](https://news.yahoo.co.jp/articles/ccb2a890a0f98834c8b29a4450b0cd6f8a1c25b7?source=rss)
 

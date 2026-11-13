@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "タミフルドライシロップ３％（選） に関する健康ニュース。予測適応症 0 件。"
 permalink: /news/oseltamivir/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 ---
 
 # タミフルドライシロップ３％（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="タミフルドライシロップ３％（選） に関するニュースは？">
-<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>1 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>2 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,21 @@ last_modified_at: 2026-11-12
 <p><a href="{{ '/drugs/oseltamivir/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（1 件）
+## 関連ニュース（2 件）
 
 ### [季節性インフルエンザは、基礎疾患を持つ高齢者に多くの合併症をもたらす可能性があります](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWFhmVFQ2cmNmc2tObGFJa2lCYVpfOWRNWmlBOHFjWmQzSnJ4dHZQWUhHUlVUZzhkNVFIdzhZNGJ1MkEwLTZvNHhEX2FJVXpieFJESWVwQm81clZLV3NfbmFIdHlkZWpYNlUzYThqTDJLY2ZvQTRQbGpscFViS1MxWF9BYThKSU12ak4wczNibGNUX2RMU1FZVEdJeU1uck5iZXk4ZTBCMks?oc=5)
 
 2026-11-07 <span class="news-indication-tag">インフルエンザ</span>
 
 出典: [Laodong.vn](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWFhmVFQ2cmNmc2tObGFJa2lCYVpfOWRNWmlBOHFjWmQzSnJ4dHZQWUhHUlVUZzhkNVFIdzhZNGJ1MkEwLTZvNHhEX2FJVXpieFJESWVwQm81clZLV3NfbmFIdHlkZWpYNlUzYThqTDJLY2ZvQTRQbGpscFViS1MxWF9BYThKSU12ak4wczNibGNUX2RMU1FZVEdJeU1uck5iZXk4ZTBCMks?oc=5)
+
+---
+
+### [インフル異例の早期流行 原因は（FNNプライムオンライン）](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT0FEa3JkcnQ0OGYtYmEtZ2NMV2dmeGpDRFNxY2RSTmlsbS02cUF1ZnpRdWV1WmdmU1dob3MwMDhsbjZJZW15N1E4eGJNZno4S20xRDc5X1hPbXF2SWp5R0o4MGIzUWJOUWNlTTUxU0ZjdnVGc2psdmRxRzlYcUFhOXJUWTU2U0RPZFdj?oc=5)
+
+2026-11-06 <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [ｄメニューニュース](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT0FEa3JkcnQ0OGYtYmEtZ2NMV2dmeGpDRFNxY2RSTmlsbS02cUF1ZnpRdWV1WmdmU1dob3MwMDhsbjZJZW15N1E4eGJNZno4S20xRDc5X1hPbXF2SWp5R0o4MGIzUWJOUWNlTTUxU0ZjdnVGc2psdmRxRzlYcUFhOXJUWTU2U0RPZFdj?oc=5)
 
 ---
 

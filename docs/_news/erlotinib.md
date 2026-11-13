@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="エルロチニブ錠１５０ｍｇ「ＮＫ」 に関するニュースは？">
-<strong>エルロチニブ錠１５０ｍｇ「ＮＫ」</strong> には現在 <strong>15 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>エルロチニブ錠１５０ｍｇ「ＮＫ」</strong> には現在 <strong>16 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,31 @@ last_modified_at: 2026-11-13
 <p><a href="{{ '/drugs/erlotinib/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（15 件）
+## 関連ニュース（16 件）
+
+### [33歳1児の母「トップレス」でフルマラソン出場に「賛否の声」。 両胸の乳がんの傷「もう隠したくない」“異例の決断”の理由とは【米】(ウィメンズヘルス)](https://news.yahoo.co.jp/articles/eb85700a1aa3891211bae4cb1bbf67a9aa30e3eb?source=rss)
+
+2026-11-13 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
+
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/eb85700a1aa3891211bae4cb1bbf67a9aa30e3eb?source=rss)
+
+---
+
+### [歯磨きで認知症や糖尿病を防ぐ？ 口腔ケアが全身を守る「口腔—全身連関」の最前線(TOKYO FM＋)](https://news.yahoo.co.jp/articles/695f1613d26c5f5b4f35015f324ca909c67faeec?source=rss)
+
+2026-11-13 <span class="news-indication-tag">認知症</span>
+
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/695f1613d26c5f5b4f35015f324ca909c67faeec?source=rss)
+
+---
+
+### [九州大「忘れる」仕組みを線虫実験で解明　認知症やPTSD治療に期待(西日本新聞me)](https://news.yahoo.co.jp/articles/d077af0f364ef60c4481e8a0b23b85fa8bb58e3f?source=rss)
+
+2026-11-13 <span class="news-indication-tag">認知症</span>
+
+出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/d077af0f364ef60c4481e8a0b23b85fa8bb58e3f?source=rss)
+
+---
 
 ### [日本の大腸がん対策、何が足りない？―アメリカは「45歳から大腸内視鏡」が主流(メディカルドック)](https://news.yahoo.co.jp/articles/1da8b606671ebdf6470b05c85082e7fc6f0ad6ce?source=rss)
 
@@ -45,14 +69,6 @@ last_modified_at: 2026-11-13
 2026-11-12 <span class="news-indication-tag">認知症</span>
 
 出典: [介護ポストセブン](https://news.google.com/rss/articles/CBMiSkFVX3lxTE5qVDBBZzhYekhYV1NkdXJ2ZEhKQlN2OWhwR2R5ekZfWU1yZmtFZFg2eHozcmtSd2tfM29aNmdVRi00a1ZHZjlPY2JB?oc=5)
-
----
-
-### [採血でがん検査、手軽そうだけど… ＭＣＥＤ検査、治療学会が見解書](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkbS1OVllTX2s5a1JyRERhOG9leUptdW1OaDBwaXZGNVdJTFFnUEg1bGZiNXVPMnFNTGN1WlVFUFdnX1hCbDl5Q05JdjlBQkpaZWRVRDRCTVplTGVl?oc=5)
-
-2026-11-12 <span class="news-indication-tag">がん</span>
-
-出典: [朝日新聞](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkbS1OVllTX2s5a1JyRERhOG9leUptdW1OaDBwaXZGNVdJTFFnUEg1bGZiNXVPMnFNTGN1WlVFUFdnX1hCbDl5Q05JdjlBQkpaZWRVRDRCTVplTGVl?oc=5)
 
 ---
 
@@ -72,11 +88,11 @@ last_modified_at: 2026-11-13
 
 ---
 
-### [急増！子どもの近視 進行抑制のゴールデンタイムを逃さないために［PR］](https://news.google.com/rss/articles/CBMibEFVX3lxTE5kMHJ1VmV5cW0yU1ZsVldSNEtkNlZ4UWJ6d0tOOGEySV9mdENkbHY2RHdQaWxMcnNwVDRIa0ktakNUOV9CSGl5RnZzRkpTS3ZzdXdZTkxKNURWZjVXMTlCR3BMVFhKZkNfVUpQYQ?oc=5)
+### [近視の低年齢化が顕著も、眼科受診は約半数にとどまる 早期の予防・対策で子供の目を守る](https://news.google.com/rss/articles/CBMibkFVX3lxTE85elhhV2NXX2Z1V3ozMzJQQmk5aGdmTFZlcU1Qb0NrNElTVTRDT25TZmhmbjdTNnNmV0dqWTNlX1lscFRlV1djN2ROYlU5T0xBVC0tclgxbUdISDFORjNBbXV2Um4yakQ2RmMtM3Z3?oc=5)
 
 2026-11-11 <span class="news-indication-tag">認知症</span>
 
-出典: [日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTE5kMHJ1VmV5cW0yU1ZsVldSNEtkNlZ4UWJ6d0tOOGEySV9mdENkbHY2RHdQaWxMcnNwVDRIa0ktakNUOV9CSGl5RnZzRkpTS3ZzdXdZTkxKNURWZjVXMTlCR3BMVFhKZkNfVUpQYQ?oc=5)
+出典: [読売新聞](https://news.google.com/rss/articles/CBMibkFVX3lxTE85elhhV2NXX2Z1V3ozMzJQQmk5aGdmTFZlcU1Qb0NrNElTVTRDT25TZmhmbjdTNnNmV0dqWTNlX1lscFRlV1djN2ROYlU5T0xBVC0tclgxbUdISDFORjNBbXV2Um4yakQ2RmMtM3Z3?oc=5)
 
 ---
 
@@ -88,19 +104,19 @@ last_modified_at: 2026-11-13
 
 ---
 
+### [今さら聞けない婦人科検診のギモンQ＆A](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sUHZXLS1KcDhsUnJuSlVMME9BNFZxZ1lwWGExSUprdUhNd1J3QzlaYXc1R0F2UFBpTTN3TlhKNDgwcWJIU2FQa1drSWM5OGpWeTVWMGIyRi0?oc=5)
+
+2026-11-11 <span class="news-indication-tag">がん</span>
+
+出典: [anan](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sUHZXLS1KcDhsUnJuSlVMME9BNFZxZ1lwWGExSUprdUhNd1J3QzlaYXc1R0F2UFBpTTN3TlhKNDgwcWJIU2FQa1drSWM5OGpWeTVWMGIyRi0?oc=5)
+
+---
+
 ### [日常生活で「強い光」を浴びる量が認知症リスクに肥満よりも強く関連しているとの研究結果](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vWnRxVy1XZWlyWkZIWFNwUXFkSVFxSXk4c1pYaFVxbERldXgtSkxDV0JzN3Y0Nk5KYWNxVkg2N1N0Q1diNHZRNTRST3F6QmlkTXFUclNOMmdBMl9RdVhF?oc=5)
 
 2026-11-11 <span class="news-indication-tag">認知症</span>
 
 出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vWnRxVy1XZWlyWkZIWFNwUXFkSVFxSXk4c1pYaFVxbERldXgtSkxDV0JzN3Y0Nk5KYWNxVkg2N1N0Q1diNHZRNTRST3F6QmlkTXFUclNOMmdBMl9RdVhF?oc=5)
-
----
-
-### [ヴィンロン省の1,000人の女性が3種類のがんの無料スクリーニングを受ける](https://news.google.com/rss/articles/CBMipAFBVV95cUxQblo1ZHFoUUtPNkwwZHFVblFmUUNwVnlORjkxMGhKZEQ2X25pUVppQUV1SWJZclNnX2RKb0g3UE1iazAtUENqc2JhUFZFaklJRmJjWUdEZmRlS0cxOWlZeG9kT3ZVcEw4Sl8wOUF3Z2NCSmJ5STBHMHVfeksyc09RbEozZ3pUaGRhZFQ1WDB2cFc5c1M1N1cxMFZpYThmRWlGakNXcg?oc=5)
-
-2026-11-11 <span class="news-indication-tag">がん</span>
-
-出典: [Laodong.vn](https://news.google.com/rss/articles/CBMipAFBVV95cUxQblo1ZHFoUUtPNkwwZHFVblFmUUNwVnlORjkxMGhKZEQ2X25pUVppQUV1SWJZclNnX2RKb0g3UE1iazAtUENqc2JhUFZFaklJRmJjWUdEZmRlS0cxOWlZeG9kT3ZVcEw4Sl8wOUF3Z2NCSmJ5STBHMHVfeksyc09RbEozZ3pUaGRhZFQ1WDB2cFc5c1M1N1cxMFZpYThmRWlGakNXcg?oc=5)
 
 ---
 
@@ -136,19 +152,11 @@ last_modified_at: 2026-11-13
 
 ---
 
-### [局所進行食道がんに対する根治的な化学放射線療法にデュルバルマブの上乗せ効果を検討するランダム化第II相試験：ARION PRODIGE 67【ESMO2026 胃・食道がん】](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoYjh1bjBEUWF1NlhCd05wb0JsV20xY1RQY0Z6S25TSXo1S3FLTWRpUF9DWHBJREkzZi1SRU13UzdPSWFwVzEtS0h1RXdnN0ZhMUE?oc=5)
+### [HPVワクチンの接種で子宮頚がんの死亡率が100％減少する？ 世界的医学誌に研究論文｜役に立つオモシロ医学論文](https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6QURJQ1RPWmRXRE45X1dySzlRUmJjZGprTnpaZ0tocnl4QzNMMzB5bXQ0cXJYdThQMnVhZWd3VnV5dlJSd25CcTczeFBBRFk1eUFZbHhLMkVLVWRhZm9vOTdjOXZCenBV?oc=5)
 
 2026-11-07 <span class="news-indication-tag">がん</span>
 
-出典: [m3.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoYjh1bjBEUWF1NlhCd05wb0JsV20xY1RQY0Z6S25TSXo1S3FLTWRpUF9DWHBJREkzZi1SRU13UzdPSWFwVzEtS0h1RXdnN0ZhMUE?oc=5)
-
----
-
-### [膵臓がん治療薬ダラキソンラシブ：イタリアでの入手方法 - Futuro Prossimo](https://news.google.com/rss/articles/CBMinwFBVV95cUxQTWR3eTJxYTV6UDl6M2VvN3BZQm9ZYVptY05UOW1ocS1OWU1QaWFrdHJCb2ZzamZodXBBaldpakJyWkQxdlFUWXlmQWd2SURUSUhXUWpSdGx0SnB4UVFxZ1k1T1RRRjlOUmFlYlpMTy1oN281YVg1aE5pLXM1SF9jZWtDbGxxVmRfdUhFVE5ibVdIeTRIYkdaNERYa3JmYkU?oc=5)
-
-2026-11-06 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">膵臓がん</span>
-
-出典: [Futuro Prossimo](https://news.google.com/rss/articles/CBMinwFBVV95cUxQTWR3eTJxYTV6UDl6M2VvN3BZQm9ZYVptY05UOW1ocS1OWU1QaWFrdHJCb2ZzamZodXBBaldpakJyWkQxdlFUWXlmQWd2SURUSUhXUWpSdGx0SnB4UVFxZ1k1T1RRRjlOUmFlYlpMTy1oN281YVg1aE5pLXM1SF9jZWtDbGxxVmRfdUhFVE5ibVdIeTRIYkdaNERYa3JmYkU?oc=5)
+出典: [日刊ゲンダイDIGITAL](https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6QURJQ1RPWmRXRE45X1dySzlRUmJjZGprTnpaZ0tocnl4QzNMMzB5bXQ0cXJYdThQMnVhZWd3VnV5dlJSd25CcTczeFBBRFk1eUFZbHhLMkVLVWRhZm9vOTdjOXZCenBV?oc=5)
 
 ---
 

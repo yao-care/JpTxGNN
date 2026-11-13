@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="ディオバンＯＤ錠１６０ｍｇ（選） に関するニュースは？">
-<strong>ディオバンＯＤ錠１６０ｍｇ（選）</strong> には現在 <strong>11 件</strong>の関連ニュースがあり、予測適応症は 6 件です。
+<strong>ディオバンＯＤ錠１６０ｍｇ（選）</strong> には現在 <strong>10 件</strong>の関連ニュースがあり、予測適応症は 6 件です。
 </p>
 
 <div class="key-takeaway">
@@ -38,21 +38,29 @@ last_modified_at: 2026-11-13
 <p><a href="{{ '/drugs/valsartan/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（11 件）
+## 関連ニュース（10 件）
+
+### [33歳1児の母「トップレス」でフルマラソン出場に「賛否の声」。 両胸の乳がんの傷「もう隠したくない」“異例の決断”の理由とは【米】(ウィメンズヘルス)](https://news.yahoo.co.jp/articles/eb85700a1aa3891211bae4cb1bbf67a9aa30e3eb?source=rss)
+
+2026-11-13 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
+
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/eb85700a1aa3891211bae4cb1bbf67a9aa30e3eb?source=rss)
+
+---
+
+### [【コーヒーvs炭酸飲料】うつのリスクに明暗？ 205万人分のデータで見えた“飲み物と心”の関係を医師が解説](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5JWU15NG85RnpYckVRUHhCejVjWHFzcFVyX215SUQtaXF3U0NWWnlOU1E3elRIQ0FkVFZnVjd1R1J2YjRyWVNRNl9ka0wtQnhneEtZS0hsYw?oc=5)
+
+2026-11-13 <span class="news-indication-tag">脳卒中</span>
+
+出典: [メディカルドック](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5JWU15NG85RnpYckVRUHhCejVjWHFzcFVyX215SUQtaXF3U0NWWnlOU1E3elRIQ0FkVFZnVjd1R1J2YjRyWVNRNl9ka0wtQnhneEtZS0hsYw?oc=5)
+
+---
 
 ### [日本の大腸がん対策、何が足りない？―アメリカは「45歳から大腸内視鏡」が主流(メディカルドック)](https://news.yahoo.co.jp/articles/1da8b606671ebdf6470b05c85082e7fc6f0ad6ce?source=rss)
 
 2026-11-13 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
 
 出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/1da8b606671ebdf6470b05c85082e7fc6f0ad6ce?source=rss) · [メディカルドック](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsTVZiOUpZQlRQeGJZZFFaUzNPNGVaeWtTWmVnQUxnbGtlOVNucHVFLWZHR1RQeF9FRlBkT2FNUXdoYUdZZHZQNnl6LVNLY3ZITWtpUlBCV2JRekM5?oc=5)
-
----
-
-### [採血でがん検査、手軽そうだけど… ＭＣＥＤ検査、治療学会が見解書](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkbS1OVllTX2s5a1JyRERhOG9leUptdW1OaDBwaXZGNVdJTFFnUEg1bGZiNXVPMnFNTGN1WlVFUFdnX1hCbDl5Q05JdjlBQkpaZWRVRDRCTVplTGVl?oc=5)
-
-2026-11-12 <span class="news-indication-tag">がん</span>
-
-出典: [朝日新聞](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkbS1OVllTX2s5a1JyRERhOG9leUptdW1OaDBwaXZGNVdJTFFnUEg1bGZiNXVPMnFNTGN1WlVFUFdnX1hCbDl5Q05JdjlBQkpaZWRVRDRCTVplTGVl?oc=5)
 
 ---
 
@@ -72,11 +80,11 @@ last_modified_at: 2026-11-13
 
 ---
 
-### [ヴィンロン省の1,000人の女性が3種類のがんの無料スクリーニングを受ける](https://news.google.com/rss/articles/CBMipAFBVV95cUxQblo1ZHFoUUtPNkwwZHFVblFmUUNwVnlORjkxMGhKZEQ2X25pUVppQUV1SWJZclNnX2RKb0g3UE1iazAtUENqc2JhUFZFaklJRmJjWUdEZmRlS0cxOWlZeG9kT3ZVcEw4Sl8wOUF3Z2NCSmJ5STBHMHVfeksyc09RbEozZ3pUaGRhZFQ1WDB2cFc5c1M1N1cxMFZpYThmRWlGakNXcg?oc=5)
+### [今さら聞けない婦人科検診のギモンQ＆A](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sUHZXLS1KcDhsUnJuSlVMME9BNFZxZ1lwWGExSUprdUhNd1J3QzlaYXc1R0F2UFBpTTN3TlhKNDgwcWJIU2FQa1drSWM5OGpWeTVWMGIyRi0?oc=5)
 
 2026-11-11 <span class="news-indication-tag">がん</span>
 
-出典: [Laodong.vn](https://news.google.com/rss/articles/CBMipAFBVV95cUxQblo1ZHFoUUtPNkwwZHFVblFmUUNwVnlORjkxMGhKZEQ2X25pUVppQUV1SWJZclNnX2RKb0g3UE1iazAtUENqc2JhUFZFaklJRmJjWUdEZmRlS0cxOWlZeG9kT3ZVcEw4Sl8wOUF3Z2NCSmJ5STBHMHVfeksyc09RbEozZ3pUaGRhZFQ1WDB2cFc5c1M1N1cxMFZpYThmRWlGakNXcg?oc=5)
+出典: [anan](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sUHZXLS1KcDhsUnJuSlVMME9BNFZxZ1lwWGExSUprdUhNd1J3QzlaYXc1R0F2UFBpTTN3TlhKNDgwcWJIU2FQa1drSWM5OGpWeTVWMGIyRi0?oc=5)
 
 ---
 
@@ -104,27 +112,11 @@ last_modified_at: 2026-11-13
 
 ---
 
-### [局所進行食道がんに対する根治的な化学放射線療法にデュルバルマブの上乗せ効果を検討するランダム化第II相試験：ARION PRODIGE 67【ESMO2026 胃・食道がん】](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoYjh1bjBEUWF1NlhCd05wb0JsV20xY1RQY0Z6S25TSXo1S3FLTWRpUF9DWHBJREkzZi1SRU13UzdPSWFwVzEtS0h1RXdnN0ZhMUE?oc=5)
+### [HPVワクチンの接種で子宮頚がんの死亡率が100％減少する？ 世界的医学誌に研究論文｜役に立つオモシロ医学論文](https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6QURJQ1RPWmRXRE45X1dySzlRUmJjZGprTnpaZ0tocnl4QzNMMzB5bXQ0cXJYdThQMnVhZWd3VnV5dlJSd25CcTczeFBBRFk1eUFZbHhLMkVLVWRhZm9vOTdjOXZCenBV?oc=5)
 
 2026-11-07 <span class="news-indication-tag">がん</span>
 
-出典: [m3.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoYjh1bjBEUWF1NlhCd05wb0JsV20xY1RQY0Z6S25TSXo1S3FLTWRpUF9DWHBJREkzZi1SRU13UzdPSWFwVzEtS0h1RXdnN0ZhMUE?oc=5)
-
----
-
-### [「血液がドロドロに……」 飲めば飲むほど脳卒中リスクが上がる？ 身近な飲み物に潜む意外な危険性](https://news.google.com/rss/articles/CBMieEFVX3lxTE1yVkYxQUFnMUU3Rk9YNkdkbmF1TkJObUgxUzhYZ0RuQ2tvbF9DRFctalpnS2xlZGhCVkRVb2t2MUZVNGlfaHFVRktDYjNhS1dxbUlsMmE3TmljLWVZRG8teFowcUw5R0czWXNhaGJ4ZEdSMHFJaEhkbNIBfkFVX3lxTE9GaE54STNjYU10V2RVRk9JRjRGU2tFeE1YZk41U0ZpV1hiSV9xakdoSW5JbFBha3Z0Ymk5S2tna2dMYTJXRzl6TDczTjdvNXE5Q2RuNmtTbVhzeTZHbVJhZ3RYcTNmMGllalFRSjFWX0RuTG1TbWZhUzd5N1RnQQ?oc=5)
-
-2026-11-06 <span class="news-indication-tag">脳卒中</span>
-
-出典: [ｄメニューニュース](https://news.google.com/rss/articles/CBMieEFVX3lxTE1yVkYxQUFnMUU3Rk9YNkdkbmF1TkJObUgxUzhYZ0RuQ2tvbF9DRFctalpnS2xlZGhCVkRVb2t2MUZVNGlfaHFVRktDYjNhS1dxbUlsMmE3TmljLWVZRG8teFowcUw5R0czWXNhaGJ4ZEdSMHFJaEhkbNIBfkFVX3lxTE9GaE54STNjYU10V2RVRk9JRjRGU2tFeE1YZk41U0ZpV1hiSV9xakdoSW5JbFBha3Z0Ymk5S2tna2dMYTJXRzl6TDczTjdvNXE5Q2RuNmtTbVhzeTZHbVJhZ3RYcTNmMGllalFRSjFWX0RuTG1TbWZhUzd5N1RnQQ?oc=5)
-
----
-
-### [膵臓がん治療薬ダラキソンラシブ：イタリアでの入手方法 - Futuro Prossimo](https://news.google.com/rss/articles/CBMinwFBVV95cUxQTWR3eTJxYTV6UDl6M2VvN3BZQm9ZYVptY05UOW1ocS1OWU1QaWFrdHJCb2ZzamZodXBBaldpakJyWkQxdlFUWXlmQWd2SURUSUhXUWpSdGx0SnB4UVFxZ1k1T1RRRjlOUmFlYlpMTy1oN281YVg1aE5pLXM1SF9jZWtDbGxxVmRfdUhFVE5ibVdIeTRIYkdaNERYa3JmYkU?oc=5)
-
-2026-11-06 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">膵臓がん</span>
-
-出典: [Futuro Prossimo](https://news.google.com/rss/articles/CBMinwFBVV95cUxQTWR3eTJxYTV6UDl6M2VvN3BZQm9ZYVptY05UOW1ocS1OWU1QaWFrdHJCb2ZzamZodXBBaldpakJyWkQxdlFUWXlmQWd2SURUSUhXUWpSdGx0SnB4UVFxZ1k1T1RRRjlOUmFlYlpMTy1oN281YVg1aE5pLXM1SF9jZWtDbGxxVmRfdUhFVE5ibVdIeTRIYkdaNERYa3JmYkU?oc=5)
+出典: [日刊ゲンダイDIGITAL](https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6QURJQ1RPWmRXRE45X1dySzlRUmJjZGprTnpaZ0tocnl4QzNMMzB5bXQ0cXJYdThQMnVhZWd3VnV5dlJSd25CcTczeFBBRFk1eUFZbHhLMkVLVWRhZm9vOTdjOXZCenBV?oc=5)
 
 ---
 

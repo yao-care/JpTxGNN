@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "脳卒中 (stroke) に関する健康ニュース。ニュース 1 件、関連医薬品 16 件。"
 permalink: /news/stroke/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 ---
 
 # 脳卒中 (stroke) 関連ニュース
@@ -47,11 +47,11 @@ last_modified_at: 2026-11-12
 
 ## 関連ニュース（1 件）
 
-### [「血液がドロドロに……」 飲めば飲むほど脳卒中リスクが上がる？ 身近な飲み物に潜む意外な危険性](https://news.google.com/rss/articles/CBMieEFVX3lxTE1yVkYxQUFnMUU3Rk9YNkdkbmF1TkJObUgxUzhYZ0RuQ2tvbF9DRFctalpnS2xlZGhCVkRVb2t2MUZVNGlfaHFVRktDYjNhS1dxbUlsMmE3TmljLWVZRG8teFowcUw5R0czWXNhaGJ4ZEdSMHFJaEhkbNIBfkFVX3lxTE9GaE54STNjYU10V2RVRk9JRjRGU2tFeE1YZk41U0ZpV1hiSV9xakdoSW5JbFBha3Z0Ymk5S2tna2dMYTJXRzl6TDczTjdvNXE5Q2RuNmtTbVhzeTZHbVJhZ3RYcTNmMGllalFRSjFWX0RuTG1TbWZhUzd5N1RnQQ?oc=5)
+### [【コーヒーvs炭酸飲料】うつのリスクに明暗？ 205万人分のデータで見えた“飲み物と心”の関係を医師が解説](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5JWU15NG85RnpYckVRUHhCejVjWHFzcFVyX215SUQtaXF3U0NWWnlOU1E3elRIQ0FkVFZnVjd1R1J2YjRyWVNRNl9ka0wtQnhneEtZS0hsYw?oc=5)
 
-2026-11-06
+2026-11-13
 
-出典: [ｄメニューニュース](https://news.google.com/rss/articles/CBMieEFVX3lxTE1yVkYxQUFnMUU3Rk9YNkdkbmF1TkJObUgxUzhYZ0RuQ2tvbF9DRFctalpnS2xlZGhCVkRVb2t2MUZVNGlfaHFVRktDYjNhS1dxbUlsMmE3TmljLWVZRG8teFowcUw5R0czWXNhaGJ4ZEdSMHFJaEhkbNIBfkFVX3lxTE9GaE54STNjYU10V2RVRk9JRjRGU2tFeE1YZk41U0ZpV1hiSV9xakdoSW5JbFBha3Z0Ymk5S2tna2dMYTJXRzl6TDczTjdvNXE5Q2RuNmtTbVhzeTZHbVJhZ3RYcTNmMGllalFRSjFWX0RuTG1TbWZhUzd5N1RnQQ?oc=5)
+出典: [メディカルドック](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5JWU15NG85RnpYckVRUHhCejVjWHFzcFVyX215SUQtaXF3U0NWWnlOU1E3elRIQ0FkVFZnVjd1R1J2YjRyWVNRNl9ka0wtQnhneEtZS0hsYw?oc=5)
 
 ---
 
