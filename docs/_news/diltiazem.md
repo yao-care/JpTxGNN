@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "ヘルベッサー錠６０　６０ｍｇ（選） に関する健康ニュース。予測適応症 0 件。"
 permalink: /news/diltiazem/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 ---
 
 # ヘルベッサー錠６０　６０ｍｇ（選） 関連ニュース
@@ -32,11 +32,11 @@ last_modified_at: 2026-11-12
 
 ## 関連ニュース（11 件）
 
-### [「膵臓がん」の原因は喫煙、飲酒だけじゃない？　専門医が教える発症リスクが高い人の“特徴”とは(オトナンサー)](https://news.yahoo.co.jp/articles/76e6eb4a66752e56f04531f33c33e470f4d076b1?source=rss)
+### [日本の大腸がん対策、何が足りない？―アメリカは「45歳から大腸内視鏡」が主流(メディカルドック)](https://news.yahoo.co.jp/articles/1da8b606671ebdf6470b05c85082e7fc6f0ad6ce?source=rss)
 
-2026-11-12 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">膵臓がん</span>
+2026-11-13 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
 
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/76e6eb4a66752e56f04531f33c33e470f4d076b1?source=rss)
+出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/1da8b606671ebdf6470b05c85082e7fc6f0ad6ce?source=rss) · [メディカルドック](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsTVZiOUpZQlRQeGJZZFFaUzNPNGVaeWtTWmVnQUxnbGtlOVNucHVFLWZHR1RQeF9FRlBkT2FNUXdoYUdZZHZQNnl6LVNLY3ZITWtpUlBCV2JRekM5?oc=5)
 
 ---
 
@@ -80,11 +80,19 @@ last_modified_at: 2026-11-12
 
 ---
 
-### [糖尿病患者の55%が合併症を発症](https://news.google.com/rss/articles/CBMikAFBVV95cUxOcXE3WTZJaWprQlhrRkJWZWJHM1BoUEJaYW9xcktGdFN2VnFpY2FYM1pwcGVGOUlkU1JXZHp4UmJVczFZN1ZDc3l5TnhqbS1yRWtGemd2RWpRRzBfVlIxVnp1Q0VvVFdIYS14UEhZMlFfMUx3MEl1Vk14MWdvYnBjam9XWXVIb2dwRUtDY0tJNm0?oc=5)
+### [ワクチンでがん予防～子宮頸がん、ＨＰＶ関連がん（自治医科大付属さいたま医療センター　今野良名誉教授）～](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xLU1EMmR2MDZ2NlQwYlpvU1VsUHl4b3RiellyTTNGVktwZlJFWHNTTGxxM21ScEU3WUM2TnZqckN2a0xlR3h2VDc1NTTSAVJBVV95cUxOaDFfX19NMDZzSWNlcnZiOXRqQXlaTlFhZDQ1RmFERXEyX3R0LWpuelNQbjBJbUQ5QlB3VS01eG9FdkZ3ZDBJTmRoNmJxai1WUXN3?oc=5)
 
-2026-11-10 <span class="news-indication-tag">高血圧</span>
+2026-11-10 <span class="news-indication-tag">がん</span>
 
-出典: [Laodong.vn](https://news.google.com/rss/articles/CBMikAFBVV95cUxOcXE3WTZJaWprQlhrRkJWZWJHM1BoUEJaYW9xcktGdFN2VnFpY2FYM1pwcGVGOUlkU1JXZHp4UmJVczFZN1ZDc3l5TnhqbS1yRWtGemd2RWpRRzBfVlIxVnp1Q0VvVFdIYS14UEhZMlFfMUx3MEl1Vk14MWdvYnBjam9XWXVIb2dwRUtDY0tJNm0?oc=5)
+出典: [時事メディカル](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xLU1EMmR2MDZ2NlQwYlpvU1VsUHl4b3RiellyTTNGVktwZlJFWHNTTGxxM21ScEU3WUM2TnZqckN2a0xlR3h2VDc1NTTSAVJBVV95cUxOaDFfX19NMDZzSWNlcnZiOXRqQXlaTlFhZDQ1RmFERXEyX3R0LWpuelNQbjBJbUQ5QlB3VS01eG9FdkZ3ZDBJTmRoNmJxai1WUXN3?oc=5)
+
+---
+
+### [「問題なし」の診断から、わずか半年後にがんが判明。「まさか自分が」思いがけない病気発覚【がん実体験漫画3選】](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LTDB2RWNCcEE0SWxqQXFpUDBCN0RVUU9iQ2FjWjdMWFRoR1RwRWpQMGUzTUxneGhaUEtBYXlOV1djRFFxbWtTTnFXVUUzWDJIVEZxRkMxZm1uRWpYMHJJ?oc=5)
+
+2026-11-09 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
+
+出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LTDB2RWNCcEE0SWxqQXFpUDBCN0RVUU9iQ2FjWjdMWFRoR1RwRWpQMGUzTUxneGhaUEtBYXlOV1djRFFxbWtTTnFXVUUzWDJIVEZxRkMxZm1uRWpYMHJJ?oc=5)
 
 ---
 
@@ -96,14 +104,6 @@ last_modified_at: 2026-11-12
 
 ---
 
-### [HPVワクチンの接種で子宮頚がんの死亡率が100％減少する？ 世界的医学誌に研究論文｜役に立つオモシロ医学論文](https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6QURJQ1RPWmRXRE45X1dySzlRUmJjZGprTnpaZ0tocnl4QzNMMzB5bXQ0cXJYdThQMnVhZWd3VnV5dlJSd25CcTczeFBBRFk1eUFZbHhLMkVLVWRhZm9vOTdjOXZCenBV?oc=5)
-
-2026-11-07 <span class="news-indication-tag">がん</span>
-
-出典: [日刊ゲンダイDIGITAL](https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6QURJQ1RPWmRXRE45X1dySzlRUmJjZGprTnpaZ0tocnl4QzNMMzB5bXQ0cXJYdThQMnVhZWd3VnV5dlJSd25CcTczeFBBRFk1eUFZbHhLMkVLVWRhZm9vOTdjOXZCenBV?oc=5)
-
----
-
 ### [「血液がドロドロに……」 飲めば飲むほど脳卒中リスクが上がる？ 身近な飲み物に潜む意外な危険性](https://news.google.com/rss/articles/CBMieEFVX3lxTE1yVkYxQUFnMUU3Rk9YNkdkbmF1TkJObUgxUzhYZ0RuQ2tvbF9DRFctalpnS2xlZGhCVkRVb2t2MUZVNGlfaHFVRktDYjNhS1dxbUlsMmE3TmljLWVZRG8teFowcUw5R0czWXNhaGJ4ZEdSMHFJaEhkbNIBfkFVX3lxTE9GaE54STNjYU10V2RVRk9JRjRGU2tFeE1YZk41U0ZpV1hiSV9xakdoSW5JbFBha3Z0Ymk5S2tna2dMYTJXRzl6TDczTjdvNXE5Q2RuNmtTbVhzeTZHbVJhZ3RYcTNmMGllalFRSjFWX0RuTG1TbWZhUzd5N1RnQQ?oc=5)
 
 2026-11-06 <span class="news-indication-tag">脳卒中</span>
@@ -112,11 +112,11 @@ last_modified_at: 2026-11-12
 
 ---
 
-### [乳がんステージ2B、再発後も職場の温かい配慮で仕事を続けながら大切にする当たり前の日常](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rd3VJYjVCaXVNeTVjazBwSmJoR1pMS2tzZVF4ZVAxR3ptSXdpeVBCU0cxZGo3R1gyZlZ6MjVPbm12bnM0Z191dlRfQTcyYm5aYnVJ?oc=5)
+### [膵臓がん治療薬ダラキソンラシブ：イタリアでの入手方法 - Futuro Prossimo](https://news.google.com/rss/articles/CBMinwFBVV95cUxQTWR3eTJxYTV6UDl6M2VvN3BZQm9ZYVptY05UOW1ocS1OWU1QaWFrdHJCb2ZzamZodXBBaldpakJyWkQxdlFUWXlmQWd2SURUSUhXUWpSdGx0SnB4UVFxZ1k1T1RRRjlOUmFlYlpMTy1oN281YVg1aE5pLXM1SF9jZWtDbGxxVmRfdUhFVE5ibVdIeTRIYkdaNERYa3JmYkU?oc=5)
 
-2026-11-06 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
+2026-11-06 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">膵臓がん</span>
 
-出典: [がん情報サイト「オンコロ」](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rd3VJYjVCaXVNeTVjazBwSmJoR1pMS2tzZVF4ZVAxR3ptSXdpeVBCU0cxZGo3R1gyZlZ6MjVPbm12bnM0Z191dlRfQTcyYm5aYnVJ?oc=5)
+出典: [Futuro Prossimo](https://news.google.com/rss/articles/CBMinwFBVV95cUxQTWR3eTJxYTV6UDl6M2VvN3BZQm9ZYVptY05UOW1ocS1OWU1QaWFrdHJCb2ZzamZodXBBaldpakJyWkQxdlFUWXlmQWd2SURUSUhXUWpSdGx0SnB4UVFxZ1k1T1RRRjlOUmFlYlpMTy1oN281YVg1aE5pLXM1SF9jZWtDbGxxVmRfdUhFVE5ibVdIeTRIYkdaNERYa3JmYkU?oc=5)
 
 ---
 

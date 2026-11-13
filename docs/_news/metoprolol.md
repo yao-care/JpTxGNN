@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "ロプレソール錠４０ｍｇ（選） に関する健康ニュース。予測適応症 6 件。"
 permalink: /news/metoprolol/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 ---
 
 # ロプレソール錠４０ｍｇ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="ロプレソール錠４０ｍｇ（選） に関するニュースは？">
-<strong>ロプレソール錠４０ｍｇ（選）</strong> には現在 <strong>10 件</strong>の関連ニュースがあり、予測適応症は 6 件です。
+<strong>ロプレソール錠４０ｍｇ（選）</strong> には現在 <strong>11 件</strong>の関連ニュースがあり、予測適応症は 6 件です。
 </p>
 
 <div class="key-takeaway">
@@ -38,13 +38,13 @@ last_modified_at: 2026-11-12
 <p><a href="{{ '/drugs/metoprolol/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（10 件）
+## 関連ニュース（11 件）
 
-### [「膵臓がん」の原因は喫煙、飲酒だけじゃない？　専門医が教える発症リスクが高い人の“特徴”とは(オトナンサー)](https://news.yahoo.co.jp/articles/76e6eb4a66752e56f04531f33c33e470f4d076b1?source=rss)
+### [日本の大腸がん対策、何が足りない？―アメリカは「45歳から大腸内視鏡」が主流(メディカルドック)](https://news.yahoo.co.jp/articles/1da8b606671ebdf6470b05c85082e7fc6f0ad6ce?source=rss)
 
-2026-11-12 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">膵臓がん</span>
+2026-11-13 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
 
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/76e6eb4a66752e56f04531f33c33e470f4d076b1?source=rss)
+出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/1da8b606671ebdf6470b05c85082e7fc6f0ad6ce?source=rss) · [メディカルドック](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsTVZiOUpZQlRQeGJZZFFaUzNPNGVaeWtTWmVnQUxnbGtlOVNucHVFLWZHR1RQeF9FRlBkT2FNUXdoYUdZZHZQNnl6LVNLY3ZITWtpUlBCV2JRekM5?oc=5)
 
 ---
 
@@ -88,11 +88,27 @@ last_modified_at: 2026-11-12
 
 ---
 
+### [ワクチンでがん予防～子宮頸がん、ＨＰＶ関連がん（自治医科大付属さいたま医療センター　今野良名誉教授）～](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xLU1EMmR2MDZ2NlQwYlpvU1VsUHl4b3RiellyTTNGVktwZlJFWHNTTGxxM21ScEU3WUM2TnZqckN2a0xlR3h2VDc1NTTSAVJBVV95cUxOaDFfX19NMDZzSWNlcnZiOXRqQXlaTlFhZDQ1RmFERXEyX3R0LWpuelNQbjBJbUQ5QlB3VS01eG9FdkZ3ZDBJTmRoNmJxai1WUXN3?oc=5)
+
+2026-11-10 <span class="news-indication-tag">がん</span>
+
+出典: [時事メディカル](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xLU1EMmR2MDZ2NlQwYlpvU1VsUHl4b3RiellyTTNGVktwZlJFWHNTTGxxM21ScEU3WUM2TnZqckN2a0xlR3h2VDc1NTTSAVJBVV95cUxOaDFfX19NMDZzSWNlcnZiOXRqQXlaTlFhZDQ1RmFERXEyX3R0LWpuelNQbjBJbUQ5QlB3VS01eG9FdkZ3ZDBJTmRoNmJxai1WUXN3?oc=5)
+
+---
+
 ### [補聴器使用で難聴者の全死亡リスク９％低下 心血管疾患死亡リスクも１５％低下](https://news.google.com/rss/articles/CBMijgFBVV95cUxNdHRFS0NveElha2cwcjl1a19NSGN6dDBRQzVDV0dDYzlPTmlpdUVacGtWaG5vcGNxWTFCU1RpYmdOV0kycXBVUUpMS0dZQWd1amYtUUNqZWIzMUhYQUxSdEpTUUxRLXlEWWR3MFVqdm1fRm84aWtPeFlZdUVWVmdBMU5DTzlkNXBsS2hucUVR?oc=5)
 
 2026-11-10 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾患</span>
 
 出典: [読売新聞](https://news.google.com/rss/articles/CBMijgFBVV95cUxNdHRFS0NveElha2cwcjl1a19NSGN6dDBRQzVDV0dDYzlPTmlpdUVacGtWaG5vcGNxWTFCU1RpYmdOV0kycXBVUUpMS0dZQWd1amYtUUNqZWIzMUhYQUxSdEpTUUxRLXlEWWR3MFVqdm1fRm84aWtPeFlZdUVWVmdBMU5DTzlkNXBsS2hucUVR?oc=5)
+
+---
+
+### [「問題なし」の診断から、わずか半年後にがんが判明。「まさか自分が」思いがけない病気発覚【がん実体験漫画3選】](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LTDB2RWNCcEE0SWxqQXFpUDBCN0RVUU9iQ2FjWjdMWFRoR1RwRWpQMGUzTUxneGhaUEtBYXlOV1djRFFxbWtTTnFXVUUzWDJIVEZxRkMxZm1uRWpYMHJJ?oc=5)
+
+2026-11-09 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
+
+出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LTDB2RWNCcEE0SWxqQXFpUDBCN0RVUU9iQ2FjWjdMWFRoR1RwRWpQMGUzTUxneGhaUEtBYXlOV1djRFFxbWtTTnFXVUUzWDJIVEZxRkMxZm1uRWpYMHJJ?oc=5)
 
 ---
 
@@ -104,19 +120,11 @@ last_modified_at: 2026-11-12
 
 ---
 
-### [HPVワクチンの接種で子宮頚がんの死亡率が100％減少する？ 世界的医学誌に研究論文｜役に立つオモシロ医学論文](https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6QURJQ1RPWmRXRE45X1dySzlRUmJjZGprTnpaZ0tocnl4QzNMMzB5bXQ0cXJYdThQMnVhZWd3VnV5dlJSd25CcTczeFBBRFk1eUFZbHhLMkVLVWRhZm9vOTdjOXZCenBV?oc=5)
+### [膵臓がん治療薬ダラキソンラシブ：イタリアでの入手方法 - Futuro Prossimo](https://news.google.com/rss/articles/CBMinwFBVV95cUxQTWR3eTJxYTV6UDl6M2VvN3BZQm9ZYVptY05UOW1ocS1OWU1QaWFrdHJCb2ZzamZodXBBaldpakJyWkQxdlFUWXlmQWd2SURUSUhXUWpSdGx0SnB4UVFxZ1k1T1RRRjlOUmFlYlpMTy1oN281YVg1aE5pLXM1SF9jZWtDbGxxVmRfdUhFVE5ibVdIeTRIYkdaNERYa3JmYkU?oc=5)
 
-2026-11-07 <span class="news-indication-tag">がん</span>
+2026-11-06 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">膵臓がん</span>
 
-出典: [日刊ゲンダイDIGITAL](https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6QURJQ1RPWmRXRE45X1dySzlRUmJjZGprTnpaZ0tocnl4QzNMMzB5bXQ0cXJYdThQMnVhZWd3VnV5dlJSd25CcTczeFBBRFk1eUFZbHhLMkVLVWRhZm9vOTdjOXZCenBV?oc=5)
-
----
-
-### [乳がんステージ2B、再発後も職場の温かい配慮で仕事を続けながら大切にする当たり前の日常](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rd3VJYjVCaXVNeTVjazBwSmJoR1pMS2tzZVF4ZVAxR3ptSXdpeVBCU0cxZGo3R1gyZlZ6MjVPbm12bnM0Z191dlRfQTcyYm5aYnVJ?oc=5)
-
-2026-11-06 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
-
-出典: [がん情報サイト「オンコロ」](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rd3VJYjVCaXVNeTVjazBwSmJoR1pMS2tzZVF4ZVAxR3ptSXdpeVBCU0cxZGo3R1gyZlZ6MjVPbm12bnM0Z191dlRfQTcyYm5aYnVJ?oc=5)
+出典: [Futuro Prossimo](https://news.google.com/rss/articles/CBMinwFBVV95cUxQTWR3eTJxYTV6UDl6M2VvN3BZQm9ZYVptY05UOW1ocS1OWU1QaWFrdHJCb2ZzamZodXBBaldpakJyWkQxdlFUWXlmQWd2SURUSUhXUWpSdGx0SnB4UVFxZ1k1T1RRRjlOUmFlYlpMTy1oN281YVg1aE5pLXM1SF9jZWtDbGxxVmRfdUhFVE5ibVdIeTRIYkdaNERYa3JmYkU?oc=5)
 
 ---
 

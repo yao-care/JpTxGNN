@@ -3,9 +3,9 @@ layout: default
 title: "大腸がん (colonic neoplasm) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "大腸がん (colonic neoplasm) に関する健康ニュース。ニュース 1 件、関連医薬品 1 件。"
+description: "大腸がん (colonic neoplasm) に関する健康ニュース。ニュース 2 件、関連医薬品 1 件。"
 permalink: /news/colonic-neoplasm/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 ---
 
 # 大腸がん (colonic neoplasm) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="大腸がん (colonic neoplasm) に関するニュースは？">
-<strong>大腸がん (colonic neoplasm)</strong> には現在 <strong>1 件</strong>の関連ニュースと 1 件の関連医薬品があります。
+<strong>大腸がん (colonic neoplasm)</strong> には現在 <strong>2 件</strong>の関連ニュースと 1 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ last_modified_at: 2026-11-12
 </ul>
 </div>
 
-## 関連ニュース（1 件）
+## 関連ニュース（2 件）
+
+### [日本の大腸がん対策、何が足りない？―アメリカは「45歳から大腸内視鏡」が主流(メディカルドック)](https://news.yahoo.co.jp/articles/1da8b606671ebdf6470b05c85082e7fc6f0ad6ce?source=rss)
+
+2026-11-13
+
+出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/1da8b606671ebdf6470b05c85082e7fc6f0ad6ce?source=rss) · [メディカルドック](https://news.google.com/rss/articles/CBMiXEFVX3lxTFBsTVZiOUpZQlRQeGJZZFFaUzNPNGVaeWtTWmVnQUxnbGtlOVNucHVFLWZHR1RQeF9FRlBkT2FNUXdoYUdZZHZQNnl6LVNLY3ZITWtpUlBCV2JRekM5?oc=5)
+
+---
 
 ### [切除不能/再発大腸がんに対するロンサーフ＋アバスチン、14日周期投与と従来の28日周期投与を検証](https://news.google.com/rss/articles/CBMiSEFVX3lxTFBaR0l0OHYwNUQ2X0Y3T3g2Sy0xZ05zTHNLNGFFdWY3dmZoZVpCMWM0UF8wNGcyQWxsRC1NUkFrRkROajRFa2czZA?oc=5)
 

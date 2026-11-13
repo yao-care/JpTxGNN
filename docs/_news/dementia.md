@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "認知症 (dementia) に関する健康ニュース。ニュース 5 件、関連医薬品 2 件。"
 permalink: /news/dementia/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 ---
 
 # 認知症 (dementia) 関連ニュース
@@ -33,11 +33,11 @@ last_modified_at: 2026-11-12
 
 ## 関連ニュース（5 件）
 
-### [「認知症の家族への接し方で進行は速まるのか？」認知症の母を13年介護する工藤広伸さんがたどりついた答え(介護ポストセブン)](https://news.yahoo.co.jp/articles/5f1d2ad0492e36ceb119c0202d2a6d086e4d82d7?source=rss)
+### [「認知症の家族への接し方で進行は速まるのか？」認知症の母を13年介護する工藤広伸さんがたどりついた答え (1/1)](https://news.google.com/rss/articles/CBMiSkFVX3lxTE5qVDBBZzhYekhYV1NkdXJ2ZEhKQlN2OWhwR2R5ekZfWU1yZmtFZFg2eHozcmtSd2tfM29aNmdVRi00a1ZHZjlPY2JB?oc=5)
 
 2026-11-12
 
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/5f1d2ad0492e36ceb119c0202d2a6d086e4d82d7?source=rss) · [介護ポストセブン](https://news.google.com/rss/articles/CBMiSkFVX3lxTE5qVDBBZzhYekhYV1NkdXJ2ZEhKQlN2OWhwR2R5ekZfWU1yZmtFZFg2eHozcmtSd2tfM29aNmdVRi00a1ZHZjlPY2JB?oc=5)
+出典: [介護ポストセブン](https://news.google.com/rss/articles/CBMiSkFVX3lxTE5qVDBBZzhYekhYV1NkdXJ2ZEhKQlN2OWhwR2R5ekZfWU1yZmtFZFg2eHozcmtSd2tfM29aNmdVRi00a1ZHZjlPY2JB?oc=5)
 
 ---
 

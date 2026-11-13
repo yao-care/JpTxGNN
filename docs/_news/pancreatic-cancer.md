@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "膵臓がん (pancreatic cancer) に関する健康ニュース。ニュース 1 件、関連医薬品 1 件。"
 permalink: /news/pancreatic-cancer/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 ---
 
 # 膵臓がん (pancreatic cancer) 関連ニュース
@@ -32,11 +32,11 @@ last_modified_at: 2026-11-12
 
 ## 関連ニュース（1 件）
 
-### [「膵臓がん」の原因は喫煙、飲酒だけじゃない？　専門医が教える発症リスクが高い人の“特徴”とは(オトナンサー)](https://news.yahoo.co.jp/articles/76e6eb4a66752e56f04531f33c33e470f4d076b1?source=rss)
+### [膵臓がん治療薬ダラキソンラシブ：イタリアでの入手方法 - Futuro Prossimo](https://news.google.com/rss/articles/CBMinwFBVV95cUxQTWR3eTJxYTV6UDl6M2VvN3BZQm9ZYVptY05UOW1ocS1OWU1QaWFrdHJCb2ZzamZodXBBaldpakJyWkQxdlFUWXlmQWd2SURUSUhXUWpSdGx0SnB4UVFxZ1k1T1RRRjlOUmFlYlpMTy1oN281YVg1aE5pLXM1SF9jZWtDbGxxVmRfdUhFVE5ibVdIeTRIYkdaNERYa3JmYkU?oc=5)
 
-2026-11-12
+2026-11-06
 
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/76e6eb4a66752e56f04531f33c33e470f4d076b1?source=rss)
+出典: [Futuro Prossimo](https://news.google.com/rss/articles/CBMinwFBVV95cUxQTWR3eTJxYTV6UDl6M2VvN3BZQm9ZYVptY05UOW1ocS1OWU1QaWFrdHJCb2ZzamZodXBBaldpakJyWkQxdlFUWXlmQWd2SURUSUhXUWpSdGx0SnB4UVFxZ1k1T1RRRjlOUmFlYlpMTy1oN281YVg1aE5pLXM1SF9jZWtDbGxxVmRfdUhFVE5ibVdIeTRIYkdaNERYa3JmYkU?oc=5)
 
 ---
 
