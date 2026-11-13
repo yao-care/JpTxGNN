@@ -8,6 +8,7 @@ on:
       - 'docs/**'
       - '.github/workflows/pages.yml'
       - 'scripts/stamp_sitemap_lastmod.py'
+      - 'scripts/stamp_fhir_counts.py'
   workflow_dispatch:
 
 permissions:
@@ -53,6 +54,12 @@ jobs:
           # 讀得到、寫不進去，腳本照設計警告後放行，站照常部署但 lastmod 沒蓋上）。
           sudo chown -R "$(id -u):$(id -g)" ./_site
           python3 scripts/stamp_sitemap_lastmod.py ./_site/sitemap.xml
+
+      # 在 FHIR metadata 寫入這次建置實際輸出的資源數（yao.care 官網讀這個 extension 加總 30 站），
+      # 並在沒有 Bundle/all-predictions.json 的站用同一批資源產生（downloads 頁有列這個網址）。
+      # 失敗不擋部署。
+      - name: Stamp FHIR resource counts
+        run: python3 scripts/stamp_fhir_counts.py ./_site/fhir --bundle
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@56afc609e74202658d3ffba0e8f6dda462b719fa # v3

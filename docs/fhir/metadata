@@ -7,7 +7,7 @@
   "title": "JpTxGNN FHIR Server",
   "status": "active",
   "experimental": true,
-  "date": "2026-11-06",
+  "date": "2026-11-13",
   "publisher": "JpTxGNN",
   "contact": [
     {
@@ -19,7 +19,7 @@
       ]
     }
   ],
-  "description": "JpTxGNN 医薬品リポジショニング予測データを FHIR リソースとして公開。529 医薬品、2400 予測適応症を含む。",
+  "description": "JpTxGNN 医薬品リポジショニング予測データを FHIR リソースとして公開。Contains 529 drugs and 2400 predicted indications.",
   "kind": "instance",
   "software": {
     "name": "JpTxGNN Static FHIR API",
@@ -55,6 +55,25 @@
               "code": "read"
             }
           ]
+        }
+      ]
+    }
+  ],
+  "extension": [
+    {
+      "url": "https://yao.care/fhir/StructureDefinition/txgnn-resource-counts",
+      "extension": [
+        {
+          "url": "MedicationKnowledge",
+          "valueInteger": 529
+        },
+        {
+          "url": "ClinicalUseDefinition",
+          "valueInteger": 2400
+        },
+        {
+          "url": "countedAt",
+          "valueDate": "2026-11-13"
         }
       ]
     }
