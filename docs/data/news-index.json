@@ -1,7 +1,37 @@
 {
-  "generated": "2026-11-14T12:42:24.828479+00:00",
-  "count": 17,
+  "generated": "2026-11-14T21:48:23.988166+00:00",
+  "count": 18,
   "news": [
+    {
+      "id": "ff5f9cd06931",
+      "title": "幸せを全部つめこんで50歳まで生きるか、あと50年生きるか？認知症の母に別人の名で呼ばれ続ける、36歳娘の孤独な日常(ウォーカープラス)",
+      "published": "2026-11-14T15:38:53+00:00",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/c3311d0f684576e9b2661e22a1b0a2a1e1de8b0e?source=rss"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "dementia",
+          "keyword": "認知症",
+          "related_drugs": [
+            {
+              "slug": "gefitinib",
+              "name": "イレッサ錠２５０　２５０ｍｇ（選）",
+              "url": "/drugs/gefitinib/"
+            },
+            {
+              "slug": "erlotinib",
+              "name": "エルロチニブ錠１５０ｍｇ「ＮＫ」",
+              "url": "/drugs/erlotinib/"
+            }
+          ]
+        }
+      ]
+    },
     {
       "id": "dce9bbeada63",
       "title": "【闘病】25歳で『乳がん』ステージ2A 後悔は「医療保険に入っていなかったこと」（メディカルドック）",
@@ -396,7 +426,7 @@
     {
       "id": "e5f98e8868c8",
       "title": "【コーヒーvs炭酸飲料】うつのリスクに明暗？ 205万人分のデータで見えた“飲み物と心”の関係を医師が解説",
-      "published": "2026-11-13T10:05:19+00:00",
+      "published": "2026-11-13T21:56:15+00:00",
       "sources": [
         {
           "name": "メディカルドック",
@@ -2474,98 +2504,13 @@
       ]
     },
     {
-      "id": "758a5ce643f5",
-      "title": "【三重県インフルエンザ週報】学年閉鎖7校・学級閉鎖13校発生 鈴鹿・桑名・伊賀・伊勢で県全体の患者届出数上回る＜11月2日～8日の感染症情報 - au Webポータル",
-      "published": "2026-11-10T10:08:30+00:00",
+      "id": "e45f61e712f0",
+      "title": "ワクチンでがん予防～子宮頸がん、ＨＰＶ関連がん（自治医科大付属さいたま医療センター　今野良名誉教授）～",
+      "published": "2026-11-10T20:00:00+00:00",
       "sources": [
         {
-          "name": "au Webポータル",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8yNmtYYzliWGdFbFJEQlo1dS1FdHRXOHdHMGdUTzVDV1VtaTQtNmdJUUNFWWdhRENya0tOVXpsWDh4OVJmQXVva0JkSC1yV3kyMWdGZFBwZTg0Nk92TjZpSDFWNHZoRTV1LXA5N3RR?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "influenza",
-          "keyword": "インフルエンザ",
-          "related_drugs": [
-            {
-              "slug": "oseltamivir",
-              "name": "タミフルドライシロップ３％（選）",
-              "url": "/drugs/oseltamivir/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "e3a0bade179f",
-      "title": "感染性腸炎・かぜに、経口補水液の備えを - 日本教育新聞電子版 NIKKYOWEB",
-      "published": "2026-11-10T04:00:53+00:00",
-      "sources": [
-        {
-          "name": "日本教育新聞電子版 NIKKYOWEB",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBEN25fNno5WDh6Ym42UFQ0VUlKdmdjUVBSaE8tTkltT2x1al9YODZ5eTdWb1NhM3N0WUhZNXp4SXUxdHNuMzNoNUxaTjZLcnJ4dlgw?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "common cold",
-          "keyword": "かぜ",
-          "related_drugs": [
-            {
-              "slug": "theophylline",
-              "name": "ユニコン錠１００　１００ｍｇ（選）",
-              "url": "/drugs/theophylline/"
-            },
-            {
-              "slug": "cetirizine",
-              "name": "ザイザルシロップ０．０５％（選）",
-              "url": "/drugs/cetirizine/"
-            },
-            {
-              "slug": "morphine",
-              "name": "モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」",
-              "url": "/drugs/morphine/"
-            },
-            {
-              "slug": "loratadine",
-              "name": "クラリチン錠１０ｍｇ（選）",
-              "url": "/drugs/loratadine/"
-            },
-            {
-              "slug": "chlorpheniramine",
-              "name": "セレスタミン配合錠（選）",
-              "url": "/drugs/chlorpheniramine/"
-            },
-            {
-              "slug": "dextromethorphan",
-              "name": "デキストロメトルファン臭化水素酸塩細粒１０％「ツルハラ」",
-              "url": "/drugs/dextromethorphan/"
-            },
-            {
-              "slug": "acetaminophen",
-              "name": "トラムセット配合錠（選）",
-              "url": "/drugs/acetaminophen/"
-            },
-            {
-              "slug": "codeine",
-              "name": "ムコブロチン配合シロップ",
-              "url": "/drugs/codeine/"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "67c73dc8549e",
-      "title": "「問題なし」の診断から、わずか半年後にがんが判明。「まさか自分が」思いがけない病気発覚【がん実体験漫画3選】",
-      "published": "2026-11-09T12:05:00+00:00",
-      "sources": [
-        {
-          "name": "ライブドアニュース",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LTDB2RWNCcEE0SWxqQXFpUDBCN0RVUU9iQ2FjWjdMWFRoR1RwRWpQMGUzTUxneGhaUEtBYXlOV1djRFFxbWtTTnFXVUUzWDJIVEZxRkMxZm1uRWpYMHJJ?oc=5"
+          "name": "時事メディカル",
+          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xLU1EMmR2MDZ2NlQwYlpvU1VsUHl4b3RiellyTTNGVktwZlJFWHNTTGxxM21ScEU3WUM2TnZqckN2a0xlR3h2VDc1NTTSAVJBVV95cUxOaDFfX19NMDZzSWNlcnZiOXRqQXlaTlFhZDQ1RmFERXEyX3R0LWpuelNQbjBJbUQ5QlB3VS01eG9FdkZ3ZDBJTmRoNmJxai1WUXN3?oc=5"
         }
       ],
       "keywords": [
@@ -2904,13 +2849,98 @@
       ]
     },
     {
-      "id": "b63d277fc668",
-      "title": "HPVワクチンの接種で子宮頚がんの死亡率が100％減少する？ 世界的医学誌に研究論文｜役に立つオモシロ医学論文",
-      "published": "2026-11-07T21:00:00+00:00",
+      "id": "758a5ce643f5",
+      "title": "【三重県インフルエンザ週報】学年閉鎖7校・学級閉鎖13校発生 鈴鹿・桑名・伊賀・伊勢で県全体の患者届出数上回る＜11月2日～8日の感染症情報 - au Webポータル",
+      "published": "2026-11-10T10:08:30+00:00",
       "sources": [
         {
-          "name": "日刊ゲンダイDIGITAL",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6QURJQ1RPWmRXRE45X1dySzlRUmJjZGprTnpaZ0tocnl4QzNMMzB5bXQ0cXJYdThQMnVhZWd3VnV5dlJSd25CcTczeFBBRFk1eUFZbHhLMkVLVWRhZm9vOTdjOXZCenBV?oc=5"
+          "name": "au Webポータル",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8yNmtYYzliWGdFbFJEQlo1dS1FdHRXOHdHMGdUTzVDV1VtaTQtNmdJUUNFWWdhRENya0tOVXpsWDh4OVJmQXVva0JkSC1yV3kyMWdGZFBwZTg0Nk92TjZpSDFWNHZoRTV1LXA5N3RR?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "influenza",
+          "keyword": "インフルエンザ",
+          "related_drugs": [
+            {
+              "slug": "oseltamivir",
+              "name": "タミフルドライシロップ３％（選）",
+              "url": "/drugs/oseltamivir/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "e3a0bade179f",
+      "title": "感染性腸炎・かぜに、経口補水液の備えを - 日本教育新聞電子版 NIKKYOWEB",
+      "published": "2026-11-10T04:00:53+00:00",
+      "sources": [
+        {
+          "name": "日本教育新聞電子版 NIKKYOWEB",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBEN25fNno5WDh6Ym42UFQ0VUlKdmdjUVBSaE8tTkltT2x1al9YODZ5eTdWb1NhM3N0WUhZNXp4SXUxdHNuMzNoNUxaTjZLcnJ4dlgw?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "common cold",
+          "keyword": "かぜ",
+          "related_drugs": [
+            {
+              "slug": "theophylline",
+              "name": "ユニコン錠１００　１００ｍｇ（選）",
+              "url": "/drugs/theophylline/"
+            },
+            {
+              "slug": "cetirizine",
+              "name": "ザイザルシロップ０．０５％（選）",
+              "url": "/drugs/cetirizine/"
+            },
+            {
+              "slug": "morphine",
+              "name": "モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」",
+              "url": "/drugs/morphine/"
+            },
+            {
+              "slug": "loratadine",
+              "name": "クラリチン錠１０ｍｇ（選）",
+              "url": "/drugs/loratadine/"
+            },
+            {
+              "slug": "chlorpheniramine",
+              "name": "セレスタミン配合錠（選）",
+              "url": "/drugs/chlorpheniramine/"
+            },
+            {
+              "slug": "dextromethorphan",
+              "name": "デキストロメトルファン臭化水素酸塩細粒１０％「ツルハラ」",
+              "url": "/drugs/dextromethorphan/"
+            },
+            {
+              "slug": "acetaminophen",
+              "name": "トラムセット配合錠（選）",
+              "url": "/drugs/acetaminophen/"
+            },
+            {
+              "slug": "codeine",
+              "name": "ムコブロチン配合シロップ",
+              "url": "/drugs/codeine/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "67c73dc8549e",
+      "title": "「問題なし」の診断から、わずか半年後にがんが判明。「まさか自分が」思いがけない病気発覚【がん実体験漫画3選】",
+      "published": "2026-11-09T12:05:00+00:00",
+      "sources": [
+        {
+          "name": "ライブドアニュース",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LTDB2RWNCcEE0SWxqQXFpUDBCN0RVUU9iQ2FjWjdMWFRoR1RwRWpQMGUzTUxneGhaUEtBYXlOV1djRFFxbWtTTnFXVUUzWDJIVEZxRkMxZm1uRWpYMHJJ?oc=5"
         }
       ],
       "keywords": [
