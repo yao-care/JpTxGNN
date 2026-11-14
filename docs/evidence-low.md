@@ -9,6 +9,11 @@ permalink: /evidence-low/
 
 # モデル予測のみの薬物
 
+<!-- page-data:start（母目錄 .claude/gen_page_data_20261116.py 產生，勿手改）-->
+{% assign pd_m = site.data.drug_stats.level_counts.L5 %}
+このページには、本サイトでレポートを公開している **{{ site.data.drug_stats.total_drugs }}** 品目のうち **{{ pd_m }}** 品目（{{ pd_m | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}%）を掲載しています。レベルの定義：[方法論]({{ '/methodology/' | relative_url }})。
+<!-- page-data:end -->
+
 <p style="font-size: 1.25rem; color: #666; margin-bottom: 1.5rem;">
 TxGNN モデルによる予測はあるが、臨床エビデンスの支持がない候補薬
 </p>
