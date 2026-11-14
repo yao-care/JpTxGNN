@@ -44,11 +44,27 @@ last_modified_at: 2026-11-14
 
 ---
 
+### [佐賀県、子宮頸がんのHPV検査を無料に 検診は県内どこでも受診OK](https://news.google.com/rss/articles/CBMibEFVX3lxTE8xemhISjI5THlfQWVjSjZxSUMtOElNMWs3ejktNTd6M2R5WXUzUDl4eUtCTHVqWWNpWkpSX0NBUnNKOGp1YUdJWjVHY19aNUhTUmlYSUthQ1Z2Rk1STlFKT0JycUlBNFNGUG9ybQ?oc=5)
+
+2026-11-13 <span class="news-indication-tag">がん</span>
+
+出典: [日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTE8xemhISjI5THlfQWVjSjZxSUMtOElNMWs3ejktNTd6M2R5WXUzUDl4eUtCTHVqWWNpWkpSX0NBUnNKOGp1YUdJWjVHY19aNUhTUmlYSUthQ1Z2Rk1STlFKT0JycUlBNFNGUG9ybQ?oc=5)
+
+---
+
 ### [日本の大腸がん対策、何が足りない？―アメリカは「45歳から大腸内視鏡」が主流(メディカルドック)](https://news.yahoo.co.jp/articles/1da8b606671ebdf6470b05c85082e7fc6f0ad6ce?source=rss)
 
 2026-11-13 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
 
 出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/1da8b606671ebdf6470b05c85082e7fc6f0ad6ce?source=rss) · [メディカルドック](https://news.google.com/rss/articles/CBMia0FVX3lxTE0zYzBiQWxIZUV1R3RsVmhwb0JmM29rQmVNS1ZKalJVaVpHUktGYl9ESm1LV1MyeEgwdEFBVFpzNFFQcTY0NzFYQWI2UElzRU9JNEM3OUJOSmVXaFRRZk8xZ0lqZ3ZPT2xSdm9Z?oc=5)
+
+---
+
+### [今さら聞けない婦人科検診のギモンQ＆A](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sUHZXLS1KcDhsUnJuSlVMME9BNFZxZ1lwWGExSUprdUhNd1J3QzlaYXc1R0F2UFBpTTN3TlhKNDgwcWJIU2FQa1drSWM5OGpWeTVWMGIyRi0?oc=5)
+
+2026-11-12 <span class="news-indication-tag">がん</span>
+
+出典: [anan](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sUHZXLS1KcDhsUnJuSlVMME9BNFZxZ1lwWGExSUprdUhNd1J3QzlaYXc1R0F2UFBpTTN3TlhKNDgwcWJIU2FQa1drSWM5OGpWeTVWMGIyRi0?oc=5)
 
 ---
 
@@ -68,19 +84,11 @@ last_modified_at: 2026-11-14
 
 ---
 
-### [今さら聞けない婦人科検診のギモンQ＆A](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sUHZXLS1KcDhsUnJuSlVMME9BNFZxZ1lwWGExSUprdUhNd1J3QzlaYXc1R0F2UFBpTTN3TlhKNDgwcWJIU2FQa1drSWM5OGpWeTVWMGIyRi0?oc=5)
+### [「問題なし」の診断から、わずか半年後にがんが判明。「まさか自分が」思いがけない病気発覚【がん実体験漫画3選】](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LTDB2RWNCcEE0SWxqQXFpUDBCN0RVUU9iQ2FjWjdMWFRoR1RwRWpQMGUzTUxneGhaUEtBYXlOV1djRFFxbWtTTnFXVUUzWDJIVEZxRkMxZm1uRWpYMHJJ?oc=5)
 
-2026-11-11 <span class="news-indication-tag">がん</span>
+2026-11-09 <span class="news-indication-tag">がん</span>
 
-出典: [anan](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sUHZXLS1KcDhsUnJuSlVMME9BNFZxZ1lwWGExSUprdUhNd1J3QzlaYXc1R0F2UFBpTTN3TlhKNDgwcWJIU2FQa1drSWM5OGpWeTVWMGIyRi0?oc=5)
-
----
-
-### [「声がおかしい」の一言から始まった――喉頭がん経験者・内田 忠男さんと専門医が伝えたい早期受診の大切さ(Medical Note)](https://news.yahoo.co.jp/articles/cfa0d2fb0bfff33f108940be8cc0e199eb36499c?source=rss)
-
-2026-11-11 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">かぜ</span>
-
-出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/cfa0d2fb0bfff33f108940be8cc0e199eb36499c?source=rss)
+出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LTDB2RWNCcEE0SWxqQXFpUDBCN0RVUU9iQ2FjWjdMWFRoR1RwRWpQMGUzTUxneGhaUEtBYXlOV1djRFFxbWtTTnFXVUUzWDJIVEZxRkMxZm1uRWpYMHJJ?oc=5)
 
 ---
 
@@ -89,14 +97,6 @@ last_modified_at: 2026-11-14
 2026-11-07 <span class="news-indication-tag">がん</span>
 
 出典: [日刊ゲンダイDIGITAL](https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6QURJQ1RPWmRXRE45X1dySzlRUmJjZGprTnpaZ0tocnl4QzNMMzB5bXQ0cXJYdThQMnVhZWd3VnV5dlJSd25CcTczeFBBRFk1eUFZbHhLMkVLVWRhZm9vOTdjOXZCenBV?oc=5)
-
----
-
-### [靴下を履いて寝るひとは「睡眠時間が32分長く」「寝つきが7.5分早い」ことが明らかに。更年期特有のホットフラッシュにも効果的か（Harper’s BAZAAR（ハーパーズ バザー））](https://news.google.com/rss/articles/CBMif0FVX3lxTE9jYUZjMVNxNGRoc2dVQWxVSDMtdHUxTGRwZVR0eldVM09BYW1QYjdrbHNHR01NWktnS0tCZE1wMEdEQzc1NG12MTJDY29Vc0ZlZEVSUnZQWG5KTFJqeTRFV3g4eGNHM0ZkRjhUVUFHMEdJdi1td0pzRFN3bmZPalU?oc=5)
-
-2026-11-07 <span class="news-indication-tag">更年期</span>
-
-出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE9jYUZjMVNxNGRoc2dVQWxVSDMtdHUxTGRwZVR0eldVM09BYW1QYjdrbHNHR01NWktnS0tCZE1wMEdEQzc1NG12MTJDY29Vc0ZlZEVSUnZQWG5KTFJqeTRFV3g4eGNHM0ZkRjhUVUFHMEdJdi1td0pzRFN3bmZPalU?oc=5)
 
 ---
 

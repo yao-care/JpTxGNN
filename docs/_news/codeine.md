@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "ムコブロチン配合シロップ に関する健康ニュース。予測適応症 3 件。"
 permalink: /news/codeine/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-14
 ---
 
 # ムコブロチン配合シロップ 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="ムコブロチン配合シロップ に関するニュースは？">
-<strong>ムコブロチン配合シロップ</strong> には現在 <strong>2 件</strong>の関連ニュースがあり、予測適応症は 3 件です。
+<strong>ムコブロチン配合シロップ</strong> には現在 <strong>1 件</strong>の関連ニュースがあり、予測適応症は 3 件です。
 </p>
 
 <div class="key-takeaway">
@@ -35,15 +35,7 @@ last_modified_at: 2026-11-12
 <p><a href="{{ '/drugs/codeine/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（2 件）
-
-### [「声がおかしい」の一言から始まった――喉頭がん経験者・内田 忠男さんと専門医が伝えたい早期受診の大切さ(Medical Note)](https://news.yahoo.co.jp/articles/cfa0d2fb0bfff33f108940be8cc0e199eb36499c?source=rss)
-
-2026-11-11 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">かぜ</span>
-
-出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/cfa0d2fb0bfff33f108940be8cc0e199eb36499c?source=rss)
-
----
+## 関連ニュース（1 件）
 
 ### [感染性腸炎・かぜに、経口補水液の備えを - 日本教育新聞電子版 NIKKYOWEB](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBEN25fNno5WDh6Ym42UFQ0VUlKdmdjUVBSaE8tTkltT2x1al9YODZ5eTdWb1NhM3N0WUhZNXp4SXUxdHNuMzNoNUxaTjZLcnJ4dlgw?oc=5)
 
