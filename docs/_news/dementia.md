@@ -3,9 +3,9 @@ layout: default
 title: "認知症 (dementia) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "認知症 (dementia) に関する健康ニュース。ニュース 7 件、関連医薬品 2 件。"
+description: "認知症 (dementia) に関する健康ニュース。ニュース 6 件、関連医薬品 2 件。"
 permalink: /news/dementia/
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-14
 ---
 
 # 認知症 (dementia) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-13
 ---
 
 <p class="key-answer" data-question="認知症 (dementia) に関するニュースは？">
-<strong>認知症 (dementia)</strong> には現在 <strong>7 件</strong>の関連ニュースと 2 件の関連医薬品があります。
+<strong>認知症 (dementia)</strong> には現在 <strong>6 件</strong>の関連ニュースと 2 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -31,15 +31,7 @@ last_modified_at: 2026-11-13
 </ul>
 </div>
 
-## 関連ニュース（7 件）
-
-### [《認知症の約4割は防げる？》最新研究が示した「14の危険因子」　最大のリスク「難聴」のケアと1日3000歩から始める予防習慣(介護ポストセブン)](https://news.yahoo.co.jp/articles/2b66080439954312146c34b481fc33a4f719b86b?source=rss)
-
-2026-11-13
-
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/2b66080439954312146c34b481fc33a4f719b86b?source=rss)
-
----
+## 関連ニュース（6 件）
 
 ### [九州大「忘れる」仕組みを線虫実験で解明　認知症やPTSD治療に期待(西日本新聞me)](https://news.yahoo.co.jp/articles/d077af0f364ef60c4481e8a0b23b85fa8bb58e3f?source=rss)
 
