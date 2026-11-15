@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "膵臓がん (pancreatic cancer) に関する健康ニュース。ニュース 1 件、関連医薬品 1 件。"
 permalink: /news/pancreatic-cancer/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-15
 ---
 
 # 膵臓がん (pancreatic cancer) 関連ニュース
@@ -32,11 +32,11 @@ last_modified_at: 2026-11-12
 
 ## 関連ニュース（1 件）
 
-### [「膵臓がん」の原因は喫煙、飲酒だけじゃない？　専門医が教える発症リスクが高い人の“特徴”とは(オトナンサー)](https://news.yahoo.co.jp/articles/76e6eb4a66752e56f04531f33c33e470f4d076b1?source=rss)
+### [【闘病】立てないほどの胃痛の正体は『膵臓がん』 多発肝転移、親友とは2週間違いの告知(メディカルドック)](https://news.yahoo.co.jp/articles/e71c4aff7d3bddd4e2ee8084a5ce74126815f1d3?source=rss)
 
-2026-11-12
+2026-11-15
 
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/76e6eb4a66752e56f04531f33c33e470f4d076b1?source=rss)
+出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/e71c4aff7d3bddd4e2ee8084a5ce74126815f1d3?source=rss)
 
 ---
 

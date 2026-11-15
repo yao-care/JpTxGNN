@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "認知症 (dementia) に関する健康ニュース。ニュース 5 件、関連医薬品 2 件。"
 permalink: /news/dementia/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-15
 ---
 
 # 認知症 (dementia) 関連ニュース
@@ -33,27 +33,35 @@ last_modified_at: 2026-11-12
 
 ## 関連ニュース（5 件）
 
-### [「認知症の家族への接し方で進行は速まるのか？」認知症の母を13年介護する工藤広伸さんがたどりついた答え(介護ポストセブン)](https://news.yahoo.co.jp/articles/5f1d2ad0492e36ceb119c0202d2a6d086e4d82d7?source=rss)
+### [九州大「忘れる」仕組みを線虫実験で解明　認知症やPTSD治療に期待(西日本新聞me)](https://news.yahoo.co.jp/articles/d077af0f364ef60c4481e8a0b23b85fa8bb58e3f?source=rss)
+
+2026-11-13
+
+出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/d077af0f364ef60c4481e8a0b23b85fa8bb58e3f?source=rss)
+
+---
+
+### [「認知症の家族への接し方で進行は速まるのか？」認知症の母を13年介護する工藤広伸さんがたどりついた答え (1/1)](https://news.google.com/rss/articles/CBMiSkFVX3lxTE5qVDBBZzhYekhYV1NkdXJ2ZEhKQlN2OWhwR2R5ekZfWU1yZmtFZFg2eHozcmtSd2tfM29aNmdVRi00a1ZHZjlPY2JB?oc=5)
 
 2026-11-12
 
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/5f1d2ad0492e36ceb119c0202d2a6d086e4d82d7?source=rss) · [介護ポストセブン](https://news.google.com/rss/articles/CBMiSkFVX3lxTE5qVDBBZzhYekhYV1NkdXJ2ZEhKQlN2OWhwR2R5ekZfWU1yZmtFZFg2eHozcmtSd2tfM29aNmdVRi00a1ZHZjlPY2JB?oc=5)
+出典: [介護ポストセブン](https://news.google.com/rss/articles/CBMiSkFVX3lxTE5qVDBBZzhYekhYV1NkdXJ2ZEhKQlN2OWhwR2R5ekZfWU1yZmtFZFg2eHozcmtSd2tfM29aNmdVRi00a1ZHZjlPY2JB?oc=5)
 
 ---
 
-### [急増！子どもの近視 進行抑制のゴールデンタイムを逃さないために［PR］](https://news.google.com/rss/articles/CBMibEFVX3lxTE5kMHJ1VmV5cW0yU1ZsVldSNEtkNlZ4UWJ6d0tOOGEySV9mdENkbHY2RHdQaWxMcnNwVDRIa0ktakNUOV9CSGl5RnZzRkpTS3ZzdXdZTkxKNURWZjVXMTlCR3BMVFhKZkNfVUpQYQ?oc=5)
+### [「中高年の近視」コンタクトレンズは何歳まで使える？ 老眼との兼ね合いは？｜一生見える目をつくる](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XU2dFTm9yWm1mS051R3YwTENLVzBIMFAyYzBvc1dKQzBwcWlvTHNrQWFCQXhpU2FjX2h5Rzk3RC1xSG9aWk9UTEtHSGpRQTU2VFY4Yjl3c3JoSVR4aURlc0c4ZExEQ3hm?oc=5)
 
 2026-11-11
 
-出典: [日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTE5kMHJ1VmV5cW0yU1ZsVldSNEtkNlZ4UWJ6d0tOOGEySV9mdENkbHY2RHdQaWxMcnNwVDRIa0ktakNUOV9CSGl5RnZzRkpTS3ZzdXdZTkxKNURWZjVXMTlCR3BMVFhKZkNfVUpQYQ?oc=5)
+出典: [日刊ゲンダイDIGITAL](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XU2dFTm9yWm1mS051R3YwTENLVzBIMFAyYzBvc1dKQzBwcWlvTHNrQWFCQXhpU2FjX2h5Rzk3RC1xSG9aWk9UTEtHSGpRQTU2VFY4Yjl3c3JoSVR4aURlc0c4ZExEQ3hm?oc=5)
 
 ---
 
-### [45歳以降の感染症による入院、認知症発症リスクの上昇に関係か](https://news.google.com/rss/articles/CBMilAFBVV95cUxQejA0SFFBbkdHVGVaam1MWjNoUzMxYkE5bWZuQW9kZVpFYndScmF2TDNOc25IU1BzaHpwTmtzcXNjd29hbV95OUFQV3E5cVBXSE1Wbk5FT2FMWl9hR0VPNGJ0OVJmRm1kb2xyd0NPWHY2anVVOFFkZlFMY2tUT29zTFIwVWU0bmJhY1NSbzZQMi15Q1la?oc=5)
+### [45歳以降の感染症による入院、認知症発症リスクの上昇に関係か](https://news.google.com/rss/articles/CBMicEFVX3lxTE9JMENjRm5jZG1XZjZEOTRKTFR3SFBfSlVBT3hmX3hCNzRoSHlaaGthQWV6cFN0ZV9JUmVxRWh3Q2pwaHBkWjVPa1lVX19EUFRjVkY0a1p3TFZ3VXdaNURNREJuSlk3bTJ5a2tBUkdscHQ?oc=5)
 
 2026-11-11
 
-出典: [日経Gooday](https://news.google.com/rss/articles/CBMilAFBVV95cUxQejA0SFFBbkdHVGVaam1MWjNoUzMxYkE5bWZuQW9kZVpFYndScmF2TDNOc25IU1BzaHpwTmtzcXNjd29hbV95OUFQV3E5cVBXSE1Wbk5FT2FMWl9hR0VPNGJ0OVJmRm1kb2xyd0NPWHY2anVVOFFkZlFMY2tUT29zTFIwVWU0bmJhY1NSbzZQMi15Q1la?oc=5)
+出典: [日経Gooday](https://news.google.com/rss/articles/CBMicEFVX3lxTE9JMENjRm5jZG1XZjZEOTRKTFR3SFBfSlVBT3hmX3hCNzRoSHlaaGthQWV6cFN0ZV9JUmVxRWh3Q2pwaHBkWjVPa1lVX19EUFRjVkY0a1p3TFZ3VXdaNURNREJuSlk3bTJ5a2tBUkdscHQ?oc=5)
 
 ---
 
@@ -62,14 +70,6 @@ last_modified_at: 2026-11-12
 2026-11-11
 
 出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vWnRxVy1XZWlyWkZIWFNwUXFkSVFxSXk4c1pYaFVxbERldXgtSkxDV0JzN3Y0Nk5KYWNxVkg2N1N0Q1diNHZRNTRST3F6QmlkTXFUclNOMmdBMl9RdVhF?oc=5)
-
----
-
-### [「まだ見えるから」と放置してはいけない!? 『白内障』と認知症・転倒の関係(メディカルドック)](https://news.yahoo.co.jp/articles/66d88af03a79a29434227785dbf2ec5755d1d4d0?source=rss)
-
-2026-11-11
-
-出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/66d88af03a79a29434227785dbf2ec5755d1d4d0?source=rss)
 
 ---
 
