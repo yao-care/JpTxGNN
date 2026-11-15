@@ -56,19 +56,19 @@ last_modified_at: 2026-11-15
 
 ---
 
+### [日本の大腸がん対策、何が足りない？―アメリカは「45歳から大腸内視鏡」が主流(メディカルドック)](https://news.yahoo.co.jp/articles/1da8b606671ebdf6470b05c85082e7fc6f0ad6ce?source=rss)
+
+2026-11-13 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
+
+出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/1da8b606671ebdf6470b05c85082e7fc6f0ad6ce?source=rss)
+
+---
+
 ### [佐賀県、子宮頸がんのHPV検査を無料に 検診は県内どこでも受診OK](https://news.google.com/rss/articles/CBMibEFVX3lxTE8xemhISjI5THlfQWVjSjZxSUMtOElNMWs3ejktNTd6M2R5WXUzUDl4eUtCTHVqWWNpWkpSX0NBUnNKOGp1YUdJWjVHY19aNUhTUmlYSUthQ1Z2Rk1STlFKT0JycUlBNFNGUG9ybQ?oc=5)
 
 2026-11-13 <span class="news-indication-tag">がん</span>
 
 出典: [日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTE8xemhISjI5THlfQWVjSjZxSUMtOElNMWs3ejktNTd6M2R5WXUzUDl4eUtCTHVqWWNpWkpSX0NBUnNKOGp1YUdJWjVHY19aNUhTUmlYSUthQ1Z2Rk1STlFKT0JycUlBNFNGUG9ybQ?oc=5)
-
----
-
-### [日本の大腸がん対策、何が足りない？―アメリカは「45歳から大腸内視鏡」が主流(メディカルドック)](https://news.yahoo.co.jp/articles/1da8b606671ebdf6470b05c85082e7fc6f0ad6ce?source=rss)
-
-2026-11-13 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
-
-出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/1da8b606671ebdf6470b05c85082e7fc6f0ad6ce?source=rss) · [メディカルドック](https://news.google.com/rss/articles/CBMia0FVX3lxTE0zYzBiQWxIZUV1R3RsVmhwb0JmM29rQmVNS1ZKalJVaVpHUktGYl9ESm1LV1MyeEgwdEFBVFpzNFFQcTY0NzFYQWI2UElzRU9JNEM3OUJOSmVXaFRRZk8xZ0lqZ3ZPT2xSdm9Z?oc=5)
 
 ---
 

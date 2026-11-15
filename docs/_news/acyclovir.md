@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="ゾビラックス軟膏５％（選） に関するニュースは？">
-<strong>ゾビラックス軟膏５％（選）</strong> には現在 <strong>10 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>ゾビラックス軟膏５％（選）</strong> には現在 <strong>11 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ last_modified_at: 2026-11-15
 <p><a href="{{ '/drugs/acyclovir/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（10 件）
+## 関連ニュース（11 件）
 
 ### [【闘病】立てないほどの胃痛の正体は『膵臓がん』 多発肝転移、親友とは2週間違いの告知(メディカルドック)](https://news.yahoo.co.jp/articles/e71c4aff7d3bddd4e2ee8084a5ce74126815f1d3?source=rss)
 
@@ -60,19 +60,19 @@ last_modified_at: 2026-11-15
 
 ---
 
+### [日本の大腸がん対策、何が足りない？―アメリカは「45歳から大腸内視鏡」が主流(メディカルドック)](https://news.yahoo.co.jp/articles/1da8b606671ebdf6470b05c85082e7fc6f0ad6ce?source=rss)
+
+2026-11-13 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
+
+出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/1da8b606671ebdf6470b05c85082e7fc6f0ad6ce?source=rss)
+
+---
+
 ### [佐賀県、子宮頸がんのHPV検査を無料に 検診は県内どこでも受診OK](https://news.google.com/rss/articles/CBMibEFVX3lxTE8xemhISjI5THlfQWVjSjZxSUMtOElNMWs3ejktNTd6M2R5WXUzUDl4eUtCTHVqWWNpWkpSX0NBUnNKOGp1YUdJWjVHY19aNUhTUmlYSUthQ1Z2Rk1STlFKT0JycUlBNFNGUG9ybQ?oc=5)
 
 2026-11-13 <span class="news-indication-tag">がん</span>
 
 出典: [日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTE8xemhISjI5THlfQWVjSjZxSUMtOElNMWs3ejktNTd6M2R5WXUzUDl4eUtCTHVqWWNpWkpSX0NBUnNKOGp1YUdJWjVHY19aNUhTUmlYSUthQ1Z2Rk1STlFKT0JycUlBNFNGUG9ybQ?oc=5)
-
----
-
-### [日本の大腸がん対策、何が足りない？―アメリカは「45歳から大腸内視鏡」が主流(メディカルドック)](https://news.yahoo.co.jp/articles/1da8b606671ebdf6470b05c85082e7fc6f0ad6ce?source=rss)
-
-2026-11-13 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
-
-出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/1da8b606671ebdf6470b05c85082e7fc6f0ad6ce?source=rss) · [メディカルドック](https://news.google.com/rss/articles/CBMia0FVX3lxTE0zYzBiQWxIZUV1R3RsVmhwb0JmM29rQmVNS1ZKalJVaVpHUktGYl9ESm1LV1MyeEgwdEFBVFpzNFFQcTY0NzFYQWI2UElzRU9JNEM3OUJOSmVXaFRRZk8xZ0lqZ3ZPT2xSdm9Z?oc=5)
 
 ---
 
@@ -105,6 +105,14 @@ last_modified_at: 2026-11-15
 2026-11-11 <span class="news-indication-tag">帯状疱疹</span>
 
 出典: [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxNcG1xU0pUSk1QVmo5RHdFYW1KSzRvVm56OGZWazRmT1JXcFlfbE1jWE5vV1A5XzVaVjhTZmFCUjlPc2EtR0tnSEdzT3Mwdjg4M29ZRmJSdVpRQnZxVGowbmp0blAzMC14UHhzNXJxMks1R0hLdHcyOUVWcWJBbFFlakVpb1FyR00?oc=5)
+
+---
+
+### [血清リポ蛋白（a）が動脈硬化の全ての過程に関与、50mg/dL以上で高リスク－国循](https://news.google.com/rss/articles/CBMidkFVX3lxTFB3cTZ6OXJOQ2pvalc4TVU1dU1uUDRpa1EtUGk4alVWR24wUHF5S000cWMxWlFzUnJiWUhnM3oyTlZoeHpVQmVnYm1yVXl0MHVCZ3hOREV1RzNvTTlaamt1b0huUVRnejhUeEtBc3JDMFlHczhYd3c?oc=5)
+
+2026-11-11 <span class="news-indication-tag">動脈硬化</span>
+
+出典: [QLifePro](https://news.google.com/rss/articles/CBMidkFVX3lxTFB3cTZ6OXJOQ2pvalc4TVU1dU1uUDRpa1EtUGk4alVWR24wUHF5S000cWMxWlFzUnJiWUhnM3oyTlZoeHpVQmVnYm1yVXl0MHVCZ3hOREV1RzNvTTlaamt1b0huUVRnejhUeEtBc3JDMFlHczhYd3c?oc=5)
 
 ---
 
