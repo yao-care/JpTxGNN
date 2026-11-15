@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "エルロチニブ錠１５０ｍｇ「ＮＫ」 に関する健康ニュース。予測適応症 0 件。"
 permalink: /news/erlotinib/
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-15
 ---
 
 # エルロチニブ錠１５０ｍｇ「ＮＫ」 関連ニュース
@@ -32,11 +32,11 @@ last_modified_at: 2026-11-14
 
 ## 関連ニュース（14 件）
 
-### [幸せを全部つめこんで50歳まで生きるか、あと50年生きるか？認知症の母に別人の名で呼ばれ続ける、36歳娘の孤独な日常(ウォーカープラス)](https://news.yahoo.co.jp/articles/c3311d0f684576e9b2661e22a1b0a2a1e1de8b0e?source=rss)
+### [【闘病】立てないほどの胃痛の正体は『膵臓がん』 多発肝転移、親友とは2週間違いの告知(メディカルドック)](https://news.yahoo.co.jp/articles/e71c4aff7d3bddd4e2ee8084a5ce74126815f1d3?source=rss)
 
-2026-11-14 <span class="news-indication-tag">認知症</span>
+2026-11-15 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">膵臓がん</span>
 
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/c3311d0f684576e9b2661e22a1b0a2a1e1de8b0e?source=rss)
+出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/e71c4aff7d3bddd4e2ee8084a5ce74126815f1d3?source=rss)
 
 ---
 
@@ -104,11 +104,11 @@ last_modified_at: 2026-11-14
 
 ---
 
-### [急増！子どもの近視 進行抑制のゴールデンタイムを逃さないために［PR］](https://news.google.com/rss/articles/CBMibEFVX3lxTE5kMHJ1VmV5cW0yU1ZsVldSNEtkNlZ4UWJ6d0tOOGEySV9mdENkbHY2RHdQaWxMcnNwVDRIa0ktakNUOV9CSGl5RnZzRkpTS3ZzdXdZTkxKNURWZjVXMTlCR3BMVFhKZkNfVUpQYQ?oc=5)
+### [「中高年の近視」コンタクトレンズは何歳まで使える？ 老眼との兼ね合いは？｜一生見える目をつくる](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XU2dFTm9yWm1mS051R3YwTENLVzBIMFAyYzBvc1dKQzBwcWlvTHNrQWFCQXhpU2FjX2h5Rzk3RC1xSG9aWk9UTEtHSGpRQTU2VFY4Yjl3c3JoSVR4aURlc0c4ZExEQ3hm?oc=5)
 
 2026-11-11 <span class="news-indication-tag">認知症</span>
 
-出典: [日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTE5kMHJ1VmV5cW0yU1ZsVldSNEtkNlZ4UWJ6d0tOOGEySV9mdENkbHY2RHdQaWxMcnNwVDRIa0ktakNUOV9CSGl5RnZzRkpTS3ZzdXdZTkxKNURWZjVXMTlCR3BMVFhKZkNfVUpQYQ?oc=5)
+出典: [日刊ゲンダイDIGITAL](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XU2dFTm9yWm1mS051R3YwTENLVzBIMFAyYzBvc1dKQzBwcWlvTHNrQWFCQXhpU2FjX2h5Rzk3RC1xSG9aWk9UTEtHSGpRQTU2VFY4Yjl3c3JoSVR4aURlc0c4ZExEQ3hm?oc=5)
 
 ---
 

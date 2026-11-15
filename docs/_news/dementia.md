@@ -3,9 +3,9 @@ layout: default
 title: "認知症 (dementia) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "認知症 (dementia) に関する健康ニュース。ニュース 6 件、関連医薬品 2 件。"
+description: "認知症 (dementia) に関する健康ニュース。ニュース 5 件、関連医薬品 2 件。"
 permalink: /news/dementia/
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-15
 ---
 
 # 認知症 (dementia) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-14
 ---
 
 <p class="key-answer" data-question="認知症 (dementia) に関するニュースは？">
-<strong>認知症 (dementia)</strong> には現在 <strong>6 件</strong>の関連ニュースと 2 件の関連医薬品があります。
+<strong>認知症 (dementia)</strong> には現在 <strong>5 件</strong>の関連ニュースと 2 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -31,15 +31,7 @@ last_modified_at: 2026-11-14
 </ul>
 </div>
 
-## 関連ニュース（6 件）
-
-### [幸せを全部つめこんで50歳まで生きるか、あと50年生きるか？認知症の母に別人の名で呼ばれ続ける、36歳娘の孤独な日常(ウォーカープラス)](https://news.yahoo.co.jp/articles/c3311d0f684576e9b2661e22a1b0a2a1e1de8b0e?source=rss)
-
-2026-11-14
-
-出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/c3311d0f684576e9b2661e22a1b0a2a1e1de8b0e?source=rss)
-
----
+## 関連ニュース（5 件）
 
 ### [九州大「忘れる」仕組みを線虫実験で解明　認知症やPTSD治療に期待(西日本新聞me)](https://news.yahoo.co.jp/articles/d077af0f364ef60c4481e8a0b23b85fa8bb58e3f?source=rss)
 
@@ -57,11 +49,11 @@ last_modified_at: 2026-11-14
 
 ---
 
-### [急増！子どもの近視 進行抑制のゴールデンタイムを逃さないために［PR］](https://news.google.com/rss/articles/CBMibEFVX3lxTE5kMHJ1VmV5cW0yU1ZsVldSNEtkNlZ4UWJ6d0tOOGEySV9mdENkbHY2RHdQaWxMcnNwVDRIa0ktakNUOV9CSGl5RnZzRkpTS3ZzdXdZTkxKNURWZjVXMTlCR3BMVFhKZkNfVUpQYQ?oc=5)
+### [「中高年の近視」コンタクトレンズは何歳まで使える？ 老眼との兼ね合いは？｜一生見える目をつくる](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XU2dFTm9yWm1mS051R3YwTENLVzBIMFAyYzBvc1dKQzBwcWlvTHNrQWFCQXhpU2FjX2h5Rzk3RC1xSG9aWk9UTEtHSGpRQTU2VFY4Yjl3c3JoSVR4aURlc0c4ZExEQ3hm?oc=5)
 
 2026-11-11
 
-出典: [日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTE5kMHJ1VmV5cW0yU1ZsVldSNEtkNlZ4UWJ6d0tOOGEySV9mdENkbHY2RHdQaWxMcnNwVDRIa0ktakNUOV9CSGl5RnZzRkpTS3ZzdXdZTkxKNURWZjVXMTlCR3BMVFhKZkNfVUpQYQ?oc=5)
+出典: [日刊ゲンダイDIGITAL](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XU2dFTm9yWm1mS051R3YwTENLVzBIMFAyYzBvc1dKQzBwcWlvTHNrQWFCQXhpU2FjX2h5Rzk3RC1xSG9aWk9UTEtHSGpRQTU2VFY4Yjl3c3JoSVR4aURlc0c4ZExEQ3hm?oc=5)
 
 ---
 

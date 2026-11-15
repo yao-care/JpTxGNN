@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "エプジコム配合錠（選） に関する健康ニュース。予測適応症 5 件。"
 permalink: /news/lamivudine/
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-15
 ---
 
 # エプジコム配合錠（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-14
 ---
 
 <p class="key-answer" data-question="エプジコム配合錠（選） に関するニュースは？">
-<strong>エプジコム配合錠（選）</strong> には現在 <strong>8 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>エプジコム配合錠（選）</strong> には現在 <strong>9 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,15 @@ last_modified_at: 2026-11-14
 <p><a href="{{ '/drugs/lamivudine/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（8 件）
+## 関連ニュース（9 件）
+
+### [【闘病】立てないほどの胃痛の正体は『膵臓がん』 多発肝転移、親友とは2週間違いの告知(メディカルドック)](https://news.yahoo.co.jp/articles/e71c4aff7d3bddd4e2ee8084a5ce74126815f1d3?source=rss)
+
+2026-11-15 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">膵臓がん</span>
+
+出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/e71c4aff7d3bddd4e2ee8084a5ce74126815f1d3?source=rss)
+
+---
 
 ### [【闘病】25歳で『乳がん』ステージ2A 後悔は「医療保険に入っていなかったこと」（メディカルドック）](https://news.google.com/rss/articles/CBMif0FVX3lxTE5WckJjUDl5UThGeXk2MmFzY3FHcjcwaHNpZTZITElGN2dZdnQ1ZUVpQkxiUGdjdUI2Q0x1ZDZzd0FlOHh3bzJnNk9ubHdrUHdKUlJsLWliMWRWaFY1QXRJZm11bmxjOUdpN1BVVl9rS3JNa2xfa3VwaEV4QVZmTVU?oc=5)
 
