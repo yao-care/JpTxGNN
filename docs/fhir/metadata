@@ -7,7 +7,7 @@
   "title": "JpTxGNN FHIR Server",
   "status": "active",
   "experimental": true,
-  "date": "2026-11-13",
+  "date": "2026-11-15",
   "publisher": "JpTxGNN",
   "contact": [
     {
@@ -19,7 +19,7 @@
       ]
     }
   ],
-  "description": "JpTxGNN 医薬品リポジショニング予測データを FHIR リソースとして公開。Contains 529 drugs and 2400 predicted indications.",
+  "description": "JpTxGNN 医薬品リポジショニング予測データを FHIR リソースとして公開。Contains 385 drugs and 1633 predicted indications.",
   "kind": "instance",
   "software": {
     "name": "JpTxGNN Static FHIR API",
@@ -65,15 +65,15 @@
       "extension": [
         {
           "url": "MedicationKnowledge",
-          "valueInteger": 529
+          "valueInteger": 385
         },
         {
           "url": "ClinicalUseDefinition",
-          "valueInteger": 2400
+          "valueInteger": 1633
         },
         {
           "url": "countedAt",
-          "valueDate": "2026-11-13"
+          "valueDate": "2026-11-15"
         }
       ]
     }
