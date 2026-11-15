@@ -19,9 +19,9 @@
 
   // Severity levels with priority (higher = more severe)
   const SEVERITY = {
-    'Major': { priority: 3, class: 'ddi-major', label: 'Major' },
-    'Moderate': { priority: 2, class: 'ddi-moderate', label: 'Moderate' },
-    'Minor': { priority: 1, class: 'ddi-minor', label: 'Minor' }
+    'Major': { priority: 3, class: 'ddi-major', label: '重度' },
+    'Moderate': { priority: 2, class: 'ddi-moderate', label: '中等度' },
+    'Minor': { priority: 1, class: 'ddi-minor', label: '軽度' }
   };
 
   // 15 built-in high-priority DDI rules (hand-curated, DDInter consulted as a reference)
@@ -33,9 +33,9 @@
         ['ibuprofen', 'advil', 'motrin', 'brufen']
       ],
       severity: 'Major',
-      summary: 'Warfarin + Ibuprofen: increased bleeding risk',
-      detail: 'NSAIDs inhibit platelet function and may enhance the anticoagulant effect of warfarin, significantly increasing the risk of gastrointestinal bleeding.',
-      recommendation: 'Use acetaminophen instead, or add a PPI for gastric protection.'
+      summary: 'ワルファリン + イブプロフェン：出血リスクの増加',
+      detail: 'NSAIDs は血小板機能を阻害し、ワルファリンの抗凝固作用を増強するおそれがあり、消化管出血のリスクが大きく高まります。',
+      recommendation: '代わりにアセトアミノフェンを使用するか、胃粘膜保護のため PPI を併用してください。'
     },
     {
       drugs: [
@@ -43,9 +43,9 @@
         ['aspirin', 'acetylsalicylic acid']
       ],
       severity: 'Major',
-      summary: 'Warfarin + Aspirin: increased bleeding risk',
-      detail: 'Both affect haemostasis; combined use greatly increases the risk of bleeding.',
-      recommendation: 'If the combination is necessary, use low-dose aspirin and monitor INR closely.'
+      summary: 'ワルファリン + アスピリン：出血リスクの増加',
+      detail: 'いずれも止血機構に影響し、併用で出血リスクが大きく高まります。',
+      recommendation: '併用が必要な場合は低用量アスピリンを使用し、INR を厳重に監視してください。'
     },
     {
       drugs: [
@@ -53,9 +53,9 @@
         ['naproxen', 'aleve', 'naprosyn']
       ],
       severity: 'Major',
-      summary: 'Warfarin + Naproxen: increased bleeding risk',
-      detail: 'Combining naproxen with warfarin increases the risk of gastrointestinal and other bleeding events.',
-      recommendation: 'Use acetaminophen for pain relief instead.'
+      summary: 'ワルファリン + ナプロキセン：出血リスクの増加',
+      detail: 'ナプロキセンとワルファリンの併用で、消化管出血などの出血のリスクが高まります。',
+      recommendation: '鎮痛には代わりにアセトアミノフェンを使用してください。'
     },
     {
       drugs: [
@@ -63,9 +63,9 @@
         ['iodixanol', 'visipaque', 'iopamidol', 'isovue', 'contrast']
       ],
       severity: 'Major',
-      summary: 'Metformin + iodinated contrast media: risk of lactic acidosis',
-      detail: 'Contrast media may cause acute kidney injury, leading to metformin accumulation and lactic acidosis.',
-      recommendation: 'Stop metformin 48 hours before the procedure and restart only after renal function is confirmed normal.'
+      summary: 'メトホルミン + ヨード造影剤：乳酸アシドーシスのリスク',
+      detail: '造影剤により急性腎障害が起こると、メトホルミンが蓄積して乳酸アシドーシスを来すおそれがあります。',
+      recommendation: '検査の 48 時間前にメトホルミンを中止し、腎機能が正常であることを確認してから再開してください。'
     },
     {
       drugs: [
@@ -73,9 +73,9 @@
         ['clarithromycin', 'biaxin', 'klacid']
       ],
       severity: 'Major',
-      summary: 'Colchicine + Clarithromycin: risk of toxicity',
-      detail: 'Clarithromycin is a strong CYP3A4 inhibitor and greatly increases colchicine blood levels.',
-      recommendation: 'Avoid the combination or substantially reduce the colchicine dose.'
+      summary: 'コルヒチン + クラリスロマイシン：中毒のリスク',
+      detail: 'クラリスロマイシンは強力な CYP3A4 阻害薬で、コルヒチンの血中濃度を大きく上昇させます。',
+      recommendation: '併用を避けるか、コルヒチンの用量を大幅に減らしてください。'
     },
     {
       drugs: [
@@ -83,9 +83,9 @@
         ['ritonavir', 'norvir', 'cobicistat', 'tybost']
       ],
       severity: 'Major',
-      summary: 'Colchicine + HIV protease inhibitors: risk of severe toxicity',
-      detail: 'HIV protease inhibitors markedly increase colchicine levels and may cause fatal toxicity.',
-      recommendation: 'Contraindicated in patients with renal or hepatic impairment.'
+      summary: 'コルヒチン + HIV プロテアーゼ阻害薬：重篤な中毒のリスク',
+      detail: 'HIV プロテアーゼ阻害薬はコルヒチンの濃度を著しく上昇させ、致死的な中毒を起こすおそれがあります。',
+      recommendation: '腎機能または肝機能障害のある患者には禁忌です。'
     },
     {
       drugs: [
@@ -93,9 +93,9 @@
         ['amiodarone', 'cordarone']
       ],
       severity: 'Major',
-      summary: 'Simvastatin + Amiodarone: risk of myopathy',
-      detail: 'Amiodarone increases simvastatin levels, raising the risk of rhabdomyolysis.',
-      recommendation: 'Do not exceed simvastatin 20 mg/day, or switch to another statin.'
+      summary: 'シンバスタチン + アミオダロン：ミオパチーのリスク',
+      detail: 'アミオダロンはシンバスタチンの濃度を上昇させ、横紋筋融解症のリスクを高めます。',
+      recommendation: 'シンバスタチンは 1 日 20 mg を超えないようにするか、他のスタチンに変更してください。'
     },
     {
       drugs: [
@@ -103,9 +103,9 @@
         ['tramadol', 'ultram']
       ],
       severity: 'Major',
-      summary: 'SSRI + Tramadol: risk of serotonin syndrome',
-      detail: 'Both increase serotonergic activity; combined use may cause life-threatening serotonin syndrome.',
-      recommendation: 'Monitor closely for symptoms (hyperthermia, myoclonus, altered mental status) and consider an alternative analgesic.'
+      summary: 'SSRI + トラマドール：セロトニン症候群のリスク',
+      detail: 'いずれもセロトニン作用を強め、併用で生命を脅かすセロトニン症候群を起こすおそれがあります。',
+      recommendation: '症状（高体温、ミオクローヌス、精神状態の変化）を注意深く観察し、他の鎮痛薬を検討してください。'
     },
     {
       drugs: [
@@ -113,9 +113,9 @@
         ['linezolid', 'zyvox']
       ],
       severity: 'Major',
-      summary: 'SSRI + Linezolid: risk of serotonin syndrome',
-      detail: 'Linezolid is an MAO inhibitor; combining it with an SSRI is highly dangerous.',
-      recommendation: 'Avoid the combination. If linezolid is required, stop the SSRI and allow an appropriate washout period.'
+      summary: 'SSRI + リネゾリド：セロトニン症候群のリスク',
+      detail: 'リネゾリドは MAO 阻害作用をもち、SSRI との併用は非常に危険です。',
+      recommendation: '併用を避けてください。リネゾリドが必要な場合は SSRI を中止し、適切な休薬期間をおいてください。'
     },
     {
       drugs: [
@@ -123,9 +123,9 @@
         ['moxifloxacin', 'avelox']
       ],
       severity: 'Major',
-      summary: 'Amiodarone + Moxifloxacin: risk of QT prolongation',
-      detail: 'Both can prolong the QT interval; combined use increases the risk of torsades de pointes.',
-      recommendation: 'Avoid the combination or monitor the ECG closely.'
+      summary: 'アミオダロン + モキシフロキサシン：QT 延長のリスク',
+      detail: 'いずれも QT 間隔を延長させるおそれがあり、併用でトルサード・ド・ポアントのリスクが高まります。',
+      recommendation: '併用を避けるか、心電図を注意深く監視してください。'
     },
     {
       drugs: [
@@ -133,9 +133,9 @@
         ['amiodarone', 'cordarone']
       ],
       severity: 'Major',
-      summary: 'Digoxin + Amiodarone: risk of digoxin toxicity',
-      detail: 'Amiodarone increases digoxin blood levels by about 70%.',
-      recommendation: 'When starting amiodarone, halve the digoxin dose and monitor blood levels.'
+      summary: 'ジゴキシン + アミオダロン：ジゴキシン中毒のリスク',
+      detail: 'アミオダロンはジゴキシンの血中濃度を約 70% 上昇させます。',
+      recommendation: 'アミオダロン開始時はジゴキシンの用量を半分にし、血中濃度を監視してください。'
     },
     {
       drugs: [
@@ -143,9 +143,9 @@
         ['omeprazole', 'prilosec', 'esomeprazole', 'nexium']
       ],
       severity: 'Moderate',
-      summary: 'Clopidogrel + PPI: reduced antiplatelet effect',
-      detail: 'Omeprazole inhibits CYP2C19, reducing conversion of clopidogrel to its active metabolite.',
-      recommendation: 'Consider pantoprazole or an H2 blocker instead.'
+      summary: 'クロピドグレル + PPI：抗血小板作用の減弱',
+      detail: 'オメプラゾールは CYP2C19 を阻害し、クロピドグレルの活性代謝物への変換を低下させます。',
+      recommendation: '代わりにパントプラゾールまたは H2 遮断薬を検討してください。'
     },
     {
       drugs: [
@@ -153,9 +153,9 @@
         ['ibuprofen', 'advil', 'naproxen', 'aleve', 'diclofenac']
       ],
       severity: 'Major',
-      summary: 'Lithium + NSAIDs: risk of lithium toxicity',
-      detail: 'NSAIDs reduce renal excretion of lithium, raising its blood levels.',
-      recommendation: 'Avoid the combination or monitor lithium levels closely.'
+      summary: 'リチウム + NSAIDs：リチウム中毒のリスク',
+      detail: 'NSAIDs はリチウムの腎排泄を低下させ、血中濃度を上昇させます。',
+      recommendation: '併用を避けるか、リチウム濃度を注意深く監視してください。'
     },
     {
       drugs: [
@@ -163,9 +163,9 @@
         ['spironolactone', 'aldactone', 'eplerenone', 'inspra']
       ],
       severity: 'Major',
-      summary: 'Potassium supplements + potassium-sparing diuretics: risk of hyperkalaemia',
-      detail: 'Both raise serum potassium; combined use may cause life-threatening hyperkalaemia.',
-      recommendation: 'Monitor serum potassium regularly and avoid concurrent potassium supplementation.'
+      summary: 'カリウム製剤 + カリウム保持性利尿薬：高カリウム血症のリスク',
+      detail: 'いずれも血清カリウムを上昇させ、併用で生命を脅かす高カリウム血症を起こすおそれがあります。',
+      recommendation: '血清カリウムを定期的に測定し、カリウム製剤の同時補充は避けてください。'
     },
     {
       drugs: [
@@ -173,9 +173,9 @@
         ['trimethoprim', 'bactrim', 'septra', 'sulfamethoxazole']
       ],
       severity: 'Major',
-      summary: 'Methotrexate + TMP-SMX: risk of bone marrow suppression',
-      detail: 'Both inhibit folate metabolism; combined use increases the risk of bone marrow suppression and mucositis.',
-      recommendation: 'Avoid the combination, or ensure adequate folate supplementation and monitor blood counts closely.'
+      summary: 'メトトレキサート + ST 合剤：骨髄抑制のリスク',
+      detail: 'いずれも葉酸代謝を阻害し、併用で骨髄抑制と粘膜炎のリスクが高まります。',
+      recommendation: '併用を避けるか、十分な葉酸補充を行い、血球数を注意深く監視してください。'
     }
   ];
 
@@ -249,7 +249,7 @@
           summary: rule.summary,
           detail: rule.detail,
           recommendation: rule.recommendation,
-          source: 'JpTxGNN built-in DDI rules (15 curated rules; not a full DDInter lookup)'
+          source: 'JpTxGNN 内蔵の相互作用ルール（厳選 15 件。DDInter の全件照会ではありません）'
         });
       }
     }
@@ -318,7 +318,7 @@
    */
   function formatAlertsHTML(alerts) {
     if (!alerts || alerts.length === 0) {
-      return '<div class="ddi-no-alerts">No drug interaction alerts found</div>';
+      return '<div class="ddi-no-alerts">相互作用の警告はありません</div>';
     }
 
     let html = '<div class="ddi-alerts">';
@@ -332,10 +332,10 @@
           </div>
           <div class="ddi-alert-body">
             <p class="ddi-detail">${escapeHtml(alert.detail)}</p>
-            <p class="ddi-recommendation"><strong>Recommendation:</strong> ${escapeHtml(alert.recommendation)}</p>
+            <p class="ddi-recommendation"><strong>推奨：</strong> ${escapeHtml(alert.recommendation)}</p>
           </div>
           <div class="ddi-alert-footer">
-            <span class="ddi-source">Source: ${escapeHtml(alert.source)}</span>
+            <span class="ddi-source">出典：${escapeHtml(alert.source)}</span>
           </div>
         </div>
       `;
@@ -353,7 +353,7 @@
       uuid: `ddi-alert-${index}`,
       summary: alert.summary,
       indicator: alert.severity === 'Major' ? 'critical' : alert.severity === 'Moderate' ? 'warning' : 'info',
-      detail: `${alert.detail}\n\nRecommendation: ${alert.recommendation}`,
+      detail: `${alert.detail}\n\n推奨：${alert.recommendation}`,
       source: {
         label: 'JpTxGNN DDI Checker',
         url: 'https://jptxgnn.yao.care/'
