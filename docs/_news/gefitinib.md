@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="イレッサ錠２５０　２５０ｍｇ（選） に関するニュースは？">
-<strong>イレッサ錠２５０　２５０ｍｇ（選）</strong> には現在 <strong>14 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
+<strong>イレッサ錠２５０　２５０ｍｇ（選）</strong> には現在 <strong>15 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ last_modified_at: 2026-11-15
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（14 件）
+## 関連ニュース（15 件）
 
 ### [【闘病】立てないほどの胃痛の正体は『膵臓がん』 多発肝転移、親友とは2週間違いの告知(メディカルドック)](https://news.yahoo.co.jp/articles/e71c4aff7d3bddd4e2ee8084a5ce74126815f1d3?source=rss)
 
@@ -115,11 +115,11 @@ last_modified_at: 2026-11-15
 
 ---
 
-### [「中高年の近視」コンタクトレンズは何歳まで使える？ 老眼との兼ね合いは？｜一生見える目をつくる](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XU2dFTm9yWm1mS051R3YwTENLVzBIMFAyYzBvc1dKQzBwcWlvTHNrQWFCQXhpU2FjX2h5Rzk3RC1xSG9aWk9UTEtHSGpRQTU2VFY4Yjl3c3JoSVR4aURlc0c4ZExEQ3hm?oc=5)
+### [急増！子どもの近視 進行抑制のゴールデンタイムを逃さないために［PR］](https://news.google.com/rss/articles/CBMibEFVX3lxTE5kMHJ1VmV5cW0yU1ZsVldSNEtkNlZ4UWJ6d0tOOGEySV9mdENkbHY2RHdQaWxMcnNwVDRIa0ktakNUOV9CSGl5RnZzRkpTS3ZzdXdZTkxKNURWZjVXMTlCR3BMVFhKZkNfVUpQYQ?oc=5)
 
 2026-11-11 <span class="news-indication-tag">認知症</span>
 
-出典: [日刊ゲンダイDIGITAL](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XU2dFTm9yWm1mS051R3YwTENLVzBIMFAyYzBvc1dKQzBwcWlvTHNrQWFCQXhpU2FjX2h5Rzk3RC1xSG9aWk9UTEtHSGpRQTU2VFY4Yjl3c3JoSVR4aURlc0c4ZExEQ3hm?oc=5)
+出典: [日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTE5kMHJ1VmV5cW0yU1ZsVldSNEtkNlZ4UWJ6d0tOOGEySV9mdENkbHY2RHdQaWxMcnNwVDRIa0ktakNUOV9CSGl5RnZzRkpTS3ZzdXdZTkxKNURWZjVXMTlCR3BMVFhKZkNfVUpQYQ?oc=5)
 
 ---
 
@@ -144,6 +144,14 @@ last_modified_at: 2026-11-15
 2026-11-10 <span class="news-indication-tag">がん</span>
 
 出典: [時事メディカル](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xLU1EMmR2MDZ2NlQwYlpvU1VsUHl4b3RiellyTTNGVktwZlJFWHNTTGxxM21ScEU3WUM2TnZqckN2a0xlR3h2VDc1NTTSAVJBVV95cUxOaDFfX19NMDZzSWNlcnZiOXRqQXlaTlFhZDQ1RmFERXEyX3R0LWpuelNQbjBJbUQ5QlB3VS01eG9FdkZ3ZDBJTmRoNmJxai1WUXN3?oc=5)
+
+---
+
+### [1日1杯でも5杯でもない…約13万人を最長43年追跡してわかった｢認知症リスクが最も下がるコーヒーの杯数｣](https://news.google.com/rss/articles/CBMiYkFVX3lxTE8ybE52M2kxMXJEa0NzME10UDF3aV90NUNQcFByN19UWjBzMDJiV0dVSFA4UmZkSkx3WE96SkIyRXVTazdmVDdpLW05Q1ZUeUsxQkFGNG5NalR5UnR2QmpMZWl3?oc=5)
+
+2026-11-10 <span class="news-indication-tag">認知症</span>
+
+出典: [Infoseek](https://news.google.com/rss/articles/CBMiYkFVX3lxTE8ybE52M2kxMXJEa0NzME10UDF3aV90NUNQcFByN19UWjBzMDJiV0dVSFA4UmZkSkx3WE96SkIyRXVTazdmVDdpLW05Q1ZUeUsxQkFGNG5NalR5UnR2QmpMZWl3?oc=5)
 
 ---
 

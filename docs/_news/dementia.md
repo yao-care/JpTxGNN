@@ -3,7 +3,7 @@ layout: default
 title: "認知症 (dementia) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "認知症 (dementia) に関する健康ニュース。ニュース 5 件、関連医薬品 2 件。"
+description: "認知症 (dementia) に関する健康ニュース。ニュース 6 件、関連医薬品 2 件。"
 permalink: /news/dementia/
 last_modified_at: 2026-11-15
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="認知症 (dementia) に関するニュースは？">
-<strong>認知症 (dementia)</strong> には現在 <strong>5 件</strong>の関連ニュースと 2 件の関連医薬品があります。
+<strong>認知症 (dementia)</strong> には現在 <strong>6 件</strong>の関連ニュースと 2 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,7 @@ last_modified_at: 2026-11-15
 </ul>
 </div>
 
-## 関連ニュース（5 件）
+## 関連ニュース（6 件）
 
 ### [九州大「忘れる」仕組みを線虫実験で解明　認知症やPTSD治療に期待(西日本新聞me)](https://news.yahoo.co.jp/articles/d077af0f364ef60c4481e8a0b23b85fa8bb58e3f?source=rss)
 
@@ -49,11 +49,11 @@ last_modified_at: 2026-11-15
 
 ---
 
-### [「中高年の近視」コンタクトレンズは何歳まで使える？ 老眼との兼ね合いは？｜一生見える目をつくる](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XU2dFTm9yWm1mS051R3YwTENLVzBIMFAyYzBvc1dKQzBwcWlvTHNrQWFCQXhpU2FjX2h5Rzk3RC1xSG9aWk9UTEtHSGpRQTU2VFY4Yjl3c3JoSVR4aURlc0c4ZExEQ3hm?oc=5)
+### [急増！子どもの近視 進行抑制のゴールデンタイムを逃さないために［PR］](https://news.google.com/rss/articles/CBMibEFVX3lxTE5kMHJ1VmV5cW0yU1ZsVldSNEtkNlZ4UWJ6d0tOOGEySV9mdENkbHY2RHdQaWxMcnNwVDRIa0ktakNUOV9CSGl5RnZzRkpTS3ZzdXdZTkxKNURWZjVXMTlCR3BMVFhKZkNfVUpQYQ?oc=5)
 
 2026-11-11
 
-出典: [日刊ゲンダイDIGITAL](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XU2dFTm9yWm1mS051R3YwTENLVzBIMFAyYzBvc1dKQzBwcWlvTHNrQWFCQXhpU2FjX2h5Rzk3RC1xSG9aWk9UTEtHSGpRQTU2VFY4Yjl3c3JoSVR4aURlc0c4ZExEQ3hm?oc=5)
+出典: [日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTE5kMHJ1VmV5cW0yU1ZsVldSNEtkNlZ4UWJ6d0tOOGEySV9mdENkbHY2RHdQaWxMcnNwVDRIa0ktakNUOV9CSGl5RnZzRkpTS3ZzdXdZTkxKNURWZjVXMTlCR3BMVFhKZkNfVUpQYQ?oc=5)
 
 ---
 
@@ -70,6 +70,14 @@ last_modified_at: 2026-11-15
 2026-11-11
 
 出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vWnRxVy1XZWlyWkZIWFNwUXFkSVFxSXk4c1pYaFVxbERldXgtSkxDV0JzN3Y0Nk5KYWNxVkg2N1N0Q1diNHZRNTRST3F6QmlkTXFUclNOMmdBMl9RdVhF?oc=5)
+
+---
+
+### [1日1杯でも5杯でもない…約13万人を最長43年追跡してわかった｢認知症リスクが最も下がるコーヒーの杯数｣](https://news.google.com/rss/articles/CBMiYkFVX3lxTE8ybE52M2kxMXJEa0NzME10UDF3aV90NUNQcFByN19UWjBzMDJiV0dVSFA4UmZkSkx3WE96SkIyRXVTazdmVDdpLW05Q1ZUeUsxQkFGNG5NalR5UnR2QmpMZWl3?oc=5)
+
+2026-11-10
+
+出典: [Infoseek](https://news.google.com/rss/articles/CBMiYkFVX3lxTE8ybE52M2kxMXJEa0NzME10UDF3aV90NUNQcFByN19UWjBzMDJiV0dVSFA4UmZkSkx3WE96SkIyRXVTazdmVDdpLW05Q1ZUeUsxQkFGNG5NalR5UnR2QmpMZWl3?oc=5)
 
 ---
 
