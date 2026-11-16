@@ -232,6 +232,44 @@ def _alt_names(name: str) -> list:
     return [x for x in dict.fromkeys(out) if x]
 
 
+# 成分對照／DrugBank ID 對到的 DL 藥名合理性（2026-11-16：Us 花粉→Saccharin、鋁鹽→Aluminum acetate、AR beta-alanina→Alanine 都是對照表錯）
+import difflib
+_SALTW = set("""hydrochloride hcl dihydrochloride hydrobromide sodium disodium potassium calcium magnesium zinc sulfate sulphate
+phosphate acetate diacetate maleate mesylate mesilate besylate besilate tartrate bitartrate hydrogen citrate fumarate succinate bromide chloride
+iodide nitrate lactate gluconate propionate dipropionate valerate furoate butyrate pivalate pamoate tosylate tosilate hyclate monohydrate
+dihydrate trihydrate hemihydrate sesquihydrate hydrate anhydrous decanoate enanthate cypionate palmitate stearate oxalate malate mandelate
+napsylate edisylate meglumine trometamol tromethamine benzoate salicylate carbonate bicarbonate hydroxide oxide acetonide acetonida acetonidum
+monosodium dipotassium hemifumarate xinafoate embonate acid acidum acido de of et e y anhydricum hydricus hydricum hemihydricus hemihydricum
+dihydricus dihydricum trihydricus hydrochloridum natricum calcicum sulfas phosphas acetas palmitas cloridrato clorhidrato sulfato fosfato
+acetato maleato d l dl""".split())
+_ANSTEM = ("chlor", "brom", "iod", "nitr", "sulf", "phosph", "citr", "carbon", "acet", "hydroxid", "oxid")
+_PAIR = {("aspirin", "acetylsalicylic"), ("adrenaline", "epinephrine"), ("adrenalinum", "epinephrine"), ("adrenalina", "epinephrine"),
+         ("noradrenaline", "norepinephrine"), ("noradrenalinum", "norepinephrine"), ("noradrenalina", "norepinephrine"),
+         ("albuterol", "salbutamol"), ("salbutamol", "albuterol"), ("paracetamol", "acetaminophen"), ("lignocaine", "lidocaine"),
+         ("retinoli", "vitamin"), ("retinol", "vitamin"), ("kalii", "potassium"), ("magnesii", "magnesium"), ("levometionina", "methionine"),
+         ("glibenclamide", "glyburide"), ("rifampicin", "rifampin"), ("ciclosporin", "cyclosporine")}
+def _tl(w):
+    for a, b in (("ph", "f"), ("th", "t"), ("ch", "c"), ("y", "i"), ("k", "c"), ("ae", "e")):
+        w = w.replace(a, b)
+    return w
+def _toks(n):
+    return [w for w in re.split(r"[^a-z0-9]+", (n or "").lower()) if w and not w.isdigit()]
+def _plausible(local, dl):
+    """證據包藥名（本站寫法）跟 DL 藥名像不像同一個藥：主體名相近（容許拼法差異、已知別名），鹽類／陰離子不能相反"""
+    a, b = _toks(local), _toks(dl)
+    ab = [w for w in a if w not in _SALTW] or a
+    bb = [w for w in b if w not in _SALTW] or b
+    if not ab or not bb:
+        return False
+    s1 = {st for w in a for st in _ANSTEM if st in w}
+    s2 = {st for w in b for st in _ANSTEM if st in w}
+    if s1 and s2 and not (s1 & s2):
+        return False  # aluminum iodide／sesquichlorohydrate ≠ aluminum acetate
+    if any((p, q) in _PAIR for p in ab[:2] for q in bb[:2]):
+        return True
+    return difflib.SequenceMatcher(None, _tl(ab[0]), _tl(bb[0])).ratio() >= 0.6
+
+
 def resolve_dl_drug(drug_name: str, drugbank_id: str | None = None) -> tuple[str | None, str | None, str]:
     """本站藥名 → DL 預測檔裡的藥名與 DrugBank ID（2026-11-16 建）。
 
@@ -274,6 +312,8 @@ def resolve_dl_drug(drug_name: str, drugbank_id: str | None = None) -> tuple[str
         if i and i.upper() in by_id:
             if _pre and _pre.group(1).lower() in ("alpha", "beta", "gamma", "delta", "alfa") and not by_id[i.upper()].lower().startswith(_pre.group(1).lower()[:4]):
                 continue  # beta-alanina 對到 Alanine 這類：前綴不同是不同物質
+            if not _plausible(key, by_id[i.upper()]):
+                continue  # 對照表把本藥對到名稱不像的藥（花粉→Saccharin、碘化鋁→醋酸鋁）
             return by_id[i.upper()], i.upper(), how
     for a in _alt_names(key):
         if a in by_name:
