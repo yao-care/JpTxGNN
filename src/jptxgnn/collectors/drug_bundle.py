@@ -266,8 +266,14 @@ def resolve_dl_drug(drug_name: str, drugbank_id: str | None = None) -> tuple[str
     if key.lower() in by_name:
         n, i = by_name[key.lower()]
         return n, (drugbank_id or i), "name"
+    # 複方（「A, B」「A ET B」「A + B」…）只接受藥名完全相同：成分對照與 DrugBank ID 只代表其中一個成分（2026-11-16，CH bupivacaine＋adrenaline 等）
+    if re.search(r",|;|\+|/|\s(et|e|y|and|und|og|och|en|ve)\s", key, re.I):
+        return None, drugbank_id, "combo"
+    _pre = re.match(r"(?i)(alpha|beta|gamma|delta|alfa|n|l|d|dl)[-_ ]", key)
     for how, i in (("drugbank_id", drugbank_id), ("mapping", mp.get(key.upper()) or mp.get(key.upper().replace("_", " ")))):
         if i and i.upper() in by_id:
+            if _pre and _pre.group(1).lower() in ("alpha", "beta", "gamma", "delta", "alfa") and not by_id[i.upper()].lower().startswith(_pre.group(1).lower()[:4]):
+                continue  # beta-alanina 對到 Alanine 這類：前綴不同是不同物質
             return by_id[i.upper()], i.upper(), how
     for a in _alt_names(key):
         if a in by_name:
