@@ -1,7 +1,7 @@
 # 雲端 session 新增／更新的 data/ 檔案併進最新 data-* Release（2026-11-16 建）。
 # 雲端 session 不能建 Release（GitHub 代理回 403），所以由雲端把要加的檔案打包推到暫存分支 claude/data-overlay-*，
 # 這支在 Actions 裡：還原最新 Release 的 data/ → 解開暫存分支的 .data-overlay/overlay.tar.gz.part-*（蓋上去）→ 發新的 data-* Release → 刪暫存分支。
-# 包裡只能有 <站>/data/ 底下的檔案（tar 內路徑），NOTE 寫這批資料是什麼、誰產生的。舊 tag 一律不覆蓋。
+# 包裡只能有 <站>/data/ 底下的檔案（tar 內路徑），DELETE（可選）列要拿掉的 data/ 路徑，NOTE 寫這批資料是什麼、誰產生的。舊 tag 一律不覆蓋。
 name: Data overlay
 
 on:
@@ -34,6 +34,9 @@ jobs:
           cat .data-overlay/overlay.tar.gz.part-* | tar tzf - > /tmp/overlay.list
           if grep -vE "^$SITE/data/" /tmp/overlay.list | grep -v '/$' | grep -q .; then echo "包裡有 $SITE/data/ 以外的路徑" >&2; exit 1; fi
           cat .data-overlay/overlay.tar.gz.part-* | tar xzf - --strip-components=1
+          if [ -f .data-overlay/DELETE ]; then   # 要從 Release 拿掉的檔（每行一個 data/ 底下的相對路徑）
+            while read -r f; do case "$f" in *..*) echo "略過含 .. 的路徑 $f";; data/*) rm -rf -- "$f" && echo "刪除 $f";; "") ;; *) echo "略過非 data/ 路徑 $f";; esac; done < .data-overlay/DELETE
+          fi
           echo "蓋上 $(grep -vc '/$' /tmp/overlay.list) 個檔案"; cat .data-overlay/NOTE
 
       - name: Publish updated data to Release

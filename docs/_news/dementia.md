@@ -3,7 +3,7 @@ layout: default
 title: "認知症 (dementia) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "認知症 (dementia) に関する健康ニュース。ニュース 9 件、関連医薬品 2 件。"
+description: "認知症 (dementia) に関する健康ニュース。ニュース 11 件、関連医薬品 2 件。"
 permalink: /news/dementia/
 last_modified_at: 2026-11-16
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-16
 ---
 
 <p class="key-answer" data-question="認知症 (dementia) に関するニュースは？">
-<strong>認知症 (dementia)</strong> には現在 <strong>9 件</strong>の関連ニュースと 2 件の関連医薬品があります。
+<strong>認知症 (dementia)</strong> には現在 <strong>11 件</strong>の関連ニュースと 2 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,15 @@ last_modified_at: 2026-11-16
 </ul>
 </div>
 
-## 関連ニュース（9 件）
+## 関連ニュース（11 件）
+
+### [《「芸術活動」が脳を守る？》専門家が明かす認知症予防の新常識 血圧も体重も”ほどほど”がいい理由 (1/1)](https://news.google.com/rss/articles/CBMiSkFVX3lxTE9vMjJYY09xSXRvQVRxeW1HVlAyeEJMNjlrdUF6MWFZcmtSTnJuSEFVTGdsdzIzQzJqaW1QUWFPRDFIWm5yRXQydHVn?oc=5)
+
+2026-11-16
+
+出典: [介護ポストセブン](https://news.google.com/rss/articles/CBMiSkFVX3lxTE9vMjJYY09xSXRvQVRxeW1HVlAyeEJMNjlrdUF6MWFZcmtSTnJuSEFVTGdsdzIzQzJqaW1QUWFPRDFIWm5yRXQydHVn?oc=5)
+
+---
 
 ### [「認知症」と「ただの物忘れ」医師が教える明らかな違い](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qMlNjRzlndmF0WVdjbUFSUmxFaV9pZnhaVnhfczBGMmdmOHFBdDFIeHA4UEp3U3Nydnl1VG16MGdSSFNWQUFJYkc4SU0xOXFfYnQ5LU0zZkhDcXoxNldj?oc=5)
 
@@ -86,6 +94,14 @@ last_modified_at: 2026-11-16
 2026-11-11
 
 出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vWnRxVy1XZWlyWkZIWFNwUXFkSVFxSXk4c1pYaFVxbERldXgtSkxDV0JzN3Y0Nk5KYWNxVkg2N1N0Q1diNHZRNTRST3F6QmlkTXFUclNOMmdBMl9RdVhF?oc=5)
+
+---
+
+### [1日1杯でも5杯でもない…約13万人を最長43年追跡してわかった｢認知症リスクが最も下がるコーヒーの杯数｣](https://news.google.com/rss/articles/CBMihwFBVV95cUxQVUhXdzR6LUd4V2ZlOXQzVFVCZ0s3cWdhdjVlanBsV0VTSmtlNTVTdV9INlFsR2N6cmk2WUxRXzZXZ24ydXg2UlI3OUxpZTUtdTFrNVVTZldCSU5YdWx1dTdwa01qVTVhUTBETUZKVC10c1JTeFctbGpFU1Z3SWVLb29kcWNfWGc?oc=5)
+
+2026-11-10
+
+出典: [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxQVUhXdzR6LUd4V2ZlOXQzVFVCZ0s3cWdhdjVlanBsV0VTSmtlNTVTdV9INlFsR2N6cmk2WUxRXzZXZ24ydXg2UlI3OUxpZTUtdTFrNVVTZldCSU5YdWx1dTdwa01qVTVhUTBETUZKVC10c1JTeFctbGpFU1Z3SWVLb29kcWNfWGc?oc=5)
 
 ---
 
