@@ -6,6 +6,8 @@ from datetime import datetime
 from pathlib import Path
 from typing import Any
 
+import re
+
 import pandas as pd
 
 
@@ -201,11 +203,85 @@ class DrugBundle:
         return "\n".join(lines)
 
 
+_DL_INDEX = None
+# 鹽類／水合物字尾（去掉後再對 DL 藥名）與英式／INN 別名（2026-11-16 noindex 盤點用的同一組）
+_SALT = set("""hydrochloride hcl dihydrochloride hydrobromide sodium disodium potassium calcium magnesium zinc sulfate sulphate
+phosphate acetate diacetate maleate mesylate mesilate besylate besilate tartrate bitartrate hydrogen citrate fumarate succinate bromide chloride
+iodide nitrate lactate gluconate propionate dipropionate valerate furoate butyrate pivalate pamoate tosylate tosilate hyclate monohydrate
+dihydrate trihydrate hemihydrate sesquihydrate hydrate anhydrous decanoate enanthate cypionate palmitate stearate oxalate malate mandelate
+napsylate edisylate meglumine trometamol tromethamine benzoate salicylate carbonate bicarbonate hydroxide oxide
+monosodium dipotassium hemifumarate xinafoate embonate""".split())
+_ALIAS = {"adrenaline": "epinephrine", "noradrenaline": "norepinephrine", "paracetamol": "acetaminophen", "salbutamol": "albuterol",
+          "lignocaine": "lidocaine", "frusemide": "furosemide", "glibenclamide": "glyburide", "ciclosporin": "cyclosporine",
+          "rifampicin": "rifampin", "colecalciferol": "cholecalciferol", "aciclovir": "acyclovir", "valaciclovir": "valacyclovir",
+          "amoxycillin": "amoxicillin", "cefalexin": "cephalexin", "isoprenaline": "isoproterenol", "dexamfetamine": "dextroamphetamine",
+          "oestradiol": "estradiol", "phenobarbitone": "phenobarbital", "thyroxine": "levothyroxine", "chlorphenamine": "chlorpheniramine",
+          "pethidine": "meperidine"}
+
+
+def _alt_names(name: str) -> list:
+    w = re.sub(r"[_\-]+", " ", (name or "").lower()).split()
+    while w and w[-1] in _SALT:
+        w = w[:-1]
+    out = []
+    if w:
+        n = " ".join(w)
+        out += [n, _ALIAS.get(n, n)]
+        if len(w) > 1 and w[0] in _SALT:
+            out.append(" ".join(w[1:]))
+    return [x for x in dict.fromkeys(out) if x]
+
+
+def resolve_dl_drug(drug_name: str, drugbank_id: str | None = None) -> tuple[str | None, str | None, str]:
+    """本站藥名 → DL 預測檔裡的藥名與 DrugBank ID（2026-11-16 建）。
+
+    DL 預測檔用英文 INN（Abacavir），以前只認「藥名完全相同」：當地語言藥名（CH 拉丁文 ABACAVIRUM、AR 西文 CLONIDINA）、
+    鹽類全名（ABACAVIR SULFATE）撈不到預測，頁面被當成沒有新預測（noindex）。
+    順序：藥名相同 → DrugBank ID（證據包或呼叫端給的）→ data/processed/drug_mapping.csv（成分名→DrugBank ID）→ 去鹽名／英式別名。
+    回傳 (DL 藥名, DrugBank ID, 對應方式)；對不到回 (None, DrugBank ID 或 None, "none")。
+    """
+    global _DL_INDEX
+    from ..paths import get_data_dir
+    if _DL_INDEX is None:
+        by_name, by_id, mp = {}, {}, {}
+        dl = get_data_dir() / "processed" / "txgnn_dl_predictions.csv.gz"
+        if dl.exists():
+            d = pd.read_csv(dl, usecols=["drugbank_id", "drug_name"]).drop_duplicates()
+            for i, n in zip(d["drugbank_id"], d["drug_name"]):
+                if isinstance(n, str):
+                    by_name.setdefault(n.lower(), (n, str(i).upper() if isinstance(i, str) else None))
+                    if isinstance(i, str):
+                        by_id.setdefault(i.upper(), n)
+        m = get_data_dir() / "processed" / "drug_mapping.csv"
+        if m.exists():
+            d = pd.read_csv(m)
+            ing = next((c for c in ("normalized_ingredient", "標準化成分", "drug_ingredient") if c in d.columns), None)
+            if ing and "drugbank_id" in d.columns:
+                for a, i in zip(d[ing], d["drugbank_id"]):
+                    if isinstance(a, str) and isinstance(i, str):
+                        mp.setdefault(a.upper().strip(), i.upper())
+        _DL_INDEX = (by_name, by_id, mp)
+    by_name, by_id, mp = _DL_INDEX
+    key = (drug_name or "").strip()
+    if key.lower() in by_name:
+        n, i = by_name[key.lower()]
+        return n, (drugbank_id or i), "name"
+    for how, i in (("drugbank_id", drugbank_id), ("mapping", mp.get(key.upper()) or mp.get(key.upper().replace("_", " ")))):
+        if i and i.upper() in by_id:
+            return by_id[i.upper()], i.upper(), how
+    for a in _alt_names(key):
+        if a in by_name:
+            n, i = by_name[a]
+            return n, (drugbank_id or i), "alt_name"
+    return None, drugbank_id or mp.get(key.upper()), "none"
+
+
 def load_predictions_for_drug(
     drug_name: str,
     predictions_path: str | Path | None = None,
     top_n: int = 10,
     min_score: float = 0.99,
+    drugbank_id: str | None = None,
 ) -> list[PredictedIndication]:
     """Load predicted indications for a specific drug from predictions CSV.
 
@@ -236,7 +312,10 @@ def load_predictions_for_drug(
     if "來源" in df.columns:
         df = df.rename(columns={"來源": "source"})
 
-    # Filter by drug name (case-insensitive)
+    # Filter by drug name (case-insensitive)；本站藥名對不上時改用 DrugBank ID／成分對照／去鹽名找 DL 藥名（resolve_dl_drug）
+    dl_name, _, _ = resolve_dl_drug(drug_name, drugbank_id)
+    if dl_name:
+        drug_name = dl_name
     drug_df = df[df["drug_name"].str.lower() == drug_name.lower()]
 
     # Filter by score
@@ -508,11 +587,13 @@ class DrugBundleAggregator:
         self._collection_log = []
 
         # Step 1: Load predicted indications
+        dl_name, dl_dbid, dl_how = resolve_dl_drug(drug_name, drugbank_id)
         predicted_indications = load_predictions_for_drug(
             drug_name=drug_name,
             predictions_path=predictions_path,
             top_n=top_n,
             min_score=min_score,
+            drugbank_id=dl_dbid,
         )
 
         # Step 2: Collect drug-level data once
@@ -541,11 +622,12 @@ class DrugBundleAggregator:
 
         # Step 3: Collect disease-specific data for each indication
         for indication in predicted_indications:
-            self.collect_indication_data(drug_name, indication)
+            # 文獻與試驗用 DL 的英文藥名查（當地語言名、鹽類全名在 PubMed／ClinicalTrials.gov 常查不到）
+            self.collect_indication_data(dl_name or drug_name, indication)
 
         # Step 4: Build the DrugBundle
         # Use provided drugbank_id or the one found from DrugBank lookup
-        final_drugbank_id = drugbank_id or drugbank_id_found
+        final_drugbank_id = drugbank_id or drugbank_id_found or dl_dbid
 
         drug = DrugCandidate(
             inn=drug_name,
@@ -568,6 +650,8 @@ class DrugBundleAggregator:
                 "top_n": top_n,
                 "min_score": min_score,
                 "indications_found": len(predicted_indications),
+                "dl_drug_name": dl_name,
+                "dl_match": dl_how,
             },
         )
 

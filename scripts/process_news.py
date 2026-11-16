@@ -1221,6 +1221,71 @@ def generate_news_index(matched_news: list[dict]):
     print(f"  產生索引: {output_path}")
 
 
+_PREV_MATCHES = {}  # 新聞 id -> 上次的 matched_keywords
+
+
+def carry_over_matched(news_items: list[dict]) -> list[dict]:
+    """2026-11-02：沿用上次已配對、仍在保留天數內的新聞。
+    Google News 每次回傳的條目與摘要都會換（摘要是 500 字截斷的群集），同一則新聞時有時無、時配時不配，
+    新聞頁就在「有內容／轉址」之間來回翻（EuTxGNN 10-28..11-01 有 399 頁翻面、327 頁翻兩次以上）。
+    放在去重之後，舊條目不再重跑標題清理；id 或任一來源連結已在本次結果裡的就不重複加。"""
+    prev_path = DATA_DIR / "matched_news.json"
+    if not prev_path.exists():
+        return news_items
+    try:
+        prev = load_json(prev_path).get("news", [])
+    except Exception as e:
+        print(f"  警告: 無法載入上次 matched_news.json - {e}")
+        return news_items
+    for n in prev:
+        if n.get("id") and n.get("matched_keywords"):
+            _PREV_MATCHES[n["id"]] = n["matched_keywords"]
+    seen_ids = {n.get("id") for n in news_items}
+    seen_links = {s.get("link") for n in news_items for s in n.get("sources", [])}
+    kept = []
+    for n in prev:
+        if not n.get("matched_keywords") or n.get("id") in seen_ids:
+            continue
+        if any(s.get("link") in seen_links for s in n.get("sources", [])):
+            continue
+        kept.append({k: v for k, v in n.items() if k != "matched_keywords"})
+    kept = filter_old_news(kept)
+    print(f"  沿用上次已配對: {len(kept)} 則")
+    return news_items + kept
+
+
+def sticky_matches(news_items: list[dict], keywords: dict):
+    """2026-11-02：同一則新聞上次配到、這次因摘要換掉而沒配到的，沿用上次的配對；
+    但關鍵字已從 keywords.json 拿掉的不沿用（改關鍵字仍會生效）。"""
+    valid = set()
+    for kind, key, items in (("drug", "slug", keywords.get("drugs", [])), ("indication", "name", keywords.get("indications", []))):
+        for e in items:
+            kw = e.get("keywords", [])
+            words = [w for v in kw.values() for w in (v or [])] if isinstance(kw, dict) else list(kw or [])
+            for w in words:
+                if isinstance(w, str):
+                    valid.add((kind, e.get(key), w))
+    added = 0
+    for item in news_items:
+        old = _PREV_MATCHES.get(item.get("id"))
+        if not old:
+            continue
+        cur = item.setdefault("matched_keywords", [])
+        have = {(m["type"], m.get("slug") or m.get("name")) for m in cur}
+        for m in old:
+            ident = m.get("slug") if m.get("type") == "drug" else m.get("name")
+            if (m.get("type"), ident) in have or (m.get("type"), ident, m.get("keyword")) not in valid:
+                continue
+            if m.get("type") == "drug" and not drug_url(ident):
+                continue
+            if m.get("type") == "indication":
+                m = dict(m, related_drugs=[d for d in m.get("related_drugs", []) if drug_url(d.get("slug"))])
+            cur.append(m)
+            have.add((m["type"], ident))
+            added += 1
+    print(f"  沿用上次配對: {added} 筆")
+
+
 def main():
     print("處理新聞資料...")
 
@@ -1236,6 +1301,7 @@ def main():
     # 3. 去重
     print("\n跨站去重:")
     all_news = deduplicate_news(all_news)
+    all_news = carry_over_matched(all_news)
 
     # 4. 載入關鍵字並匹配
     print("\n關鍵字匹配:")
@@ -1244,6 +1310,7 @@ def main():
     indication_count = keywords.get('indication_count', len(keywords.get('indications', [])))
     print(f"  關鍵字: {drug_count} 藥物 + {indication_count} 適應症")
     all_news = match_keywords(all_news, keywords)
+    sticky_matches(all_news, keywords)
 
     # 5. 輸出 matched_news.json
     output = {

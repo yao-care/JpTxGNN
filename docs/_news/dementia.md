@@ -3,9 +3,9 @@ layout: default
 title: "認知症 (dementia) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "認知症 (dementia) に関する健康ニュース。ニュース 5 件、関連医薬品 2 件。"
+description: "認知症 (dementia) に関する健康ニュース。ニュース 9 件、関連医薬品 2 件。"
 permalink: /news/dementia/
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 ---
 
 # 認知症 (dementia) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="認知症 (dementia) に関するニュースは？">
-<strong>認知症 (dementia)</strong> には現在 <strong>5 件</strong>の関連ニュースと 2 件の関連医薬品があります。
+<strong>認知症 (dementia)</strong> には現在 <strong>9 件</strong>の関連ニュースと 2 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,15 @@ last_modified_at: 2026-11-15
 </ul>
 </div>
 
-## 関連ニュース（5 件）
+## 関連ニュース（9 件）
+
+### [「認知症」と「ただの物忘れ」医師が教える明らかな違い](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qMlNjRzlndmF0WVdjbUFSUmxFaV9pZnhaVnhfczBGMmdmOHFBdDFIeHA4UEp3U3Nydnl1VG16MGdSSFNWQUFJYkc4SU0xOXFfYnQ5LU0zZkhDcXoxNldj?oc=5)
+
+2026-11-14
+
+出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qMlNjRzlndmF0WVdjbUFSUmxFaV9pZnhaVnhfczBGMmdmOHFBdDFIeHA4UEp3U3Nydnl1VG16MGdSSFNWQUFJYkc4SU0xOXFfYnQ5LU0zZkhDcXoxNldj?oc=5)
+
+---
 
 ### [九州大「忘れる」仕組みを線虫実験で解明　認知症やPTSD治療に期待(西日本新聞me)](https://news.yahoo.co.jp/articles/d077af0f364ef60c4481e8a0b23b85fa8bb58e3f?source=rss)
 
@@ -49,11 +57,11 @@ last_modified_at: 2026-11-15
 
 ---
 
-### [「中高年の近視」コンタクトレンズは何歳まで使える？ 老眼との兼ね合いは？｜一生見える目をつくる](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XU2dFTm9yWm1mS051R3YwTENLVzBIMFAyYzBvc1dKQzBwcWlvTHNrQWFCQXhpU2FjX2h5Rzk3RC1xSG9aWk9UTEtHSGpRQTU2VFY4Yjl3c3JoSVR4aURlc0c4ZExEQ3hm?oc=5)
+### [近視の低年齢化が顕著も、眼科受診は約半数にとどまる 早期の予防・対策で子供の目を守る](https://news.google.com/rss/articles/CBMibkFVX3lxTE85elhhV2NXX2Z1V3ozMzJQQmk5aGdmTFZlcU1Qb0NrNElTVTRDT25TZmhmbjdTNnNmV0dqWTNlX1lscFRlV1djN2ROYlU5T0xBVC0tclgxbUdISDFORjNBbXV2Um4yakQ2RmMtM3Z3?oc=5)
 
 2026-11-11
 
-出典: [日刊ゲンダイDIGITAL](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XU2dFTm9yWm1mS051R3YwTENLVzBIMFAyYzBvc1dKQzBwcWlvTHNrQWFCQXhpU2FjX2h5Rzk3RC1xSG9aWk9UTEtHSGpRQTU2VFY4Yjl3c3JoSVR4aURlc0c4ZExEQ3hm?oc=5)
+出典: [読売新聞](https://news.google.com/rss/articles/CBMibkFVX3lxTE85elhhV2NXX2Z1V3ozMzJQQmk5aGdmTFZlcU1Qb0NrNElTVTRDT25TZmhmbjdTNnNmV0dqWTNlX1lscFRlV1djN2ROYlU5T0xBVC0tclgxbUdISDFORjNBbXV2Um4yakQ2RmMtM3Z3?oc=5)
 
 ---
 
@@ -65,11 +73,35 @@ last_modified_at: 2026-11-15
 
 ---
 
+### [急増！子どもの近視 進行抑制のゴールデンタイムを逃さないために［PR］](https://news.google.com/rss/articles/CBMibEFVX3lxTE5kMHJ1VmV5cW0yU1ZsVldSNEtkNlZ4UWJ6d0tOOGEySV9mdENkbHY2RHdQaWxMcnNwVDRIa0ktakNUOV9CSGl5RnZzRkpTS3ZzdXdZTkxKNURWZjVXMTlCR3BMVFhKZkNfVUpQYQ?oc=5)
+
+2026-11-11
+
+出典: [日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTE5kMHJ1VmV5cW0yU1ZsVldSNEtkNlZ4UWJ6d0tOOGEySV9mdENkbHY2RHdQaWxMcnNwVDRIa0ktakNUOV9CSGl5RnZzRkpTS3ZzdXdZTkxKNURWZjVXMTlCR3BMVFhKZkNfVUpQYQ?oc=5)
+
+---
+
 ### [日常生活で「強い光」を浴びる量が認知症リスクに肥満よりも強く関連しているとの研究結果](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vWnRxVy1XZWlyWkZIWFNwUXFkSVFxSXk4c1pYaFVxbERldXgtSkxDV0JzN3Y0Nk5KYWNxVkg2N1N0Q1diNHZRNTRST3F6QmlkTXFUclNOMmdBMl9RdVhF?oc=5)
 
 2026-11-11
 
 出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vWnRxVy1XZWlyWkZIWFNwUXFkSVFxSXk4c1pYaFVxbERldXgtSkxDV0JzN3Y0Nk5KYWNxVkg2N1N0Q1diNHZRNTRST3F6QmlkTXFUclNOMmdBMl9RdVhF?oc=5)
+
+---
+
+### [1日1杯でも5杯でもない…約13万人を最長43年追跡してわかった｢認知症リスクが最も下がるコーヒーの杯数｣](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpOHYyUHc2ZWtTRWZLQm4zTzNFdW83eFhhZWR2RUotUG5nS0lITWRMX0N6Q3JUUGxTaWE5YUhSdnNRUFZkdGUzX2VBUXRZd0JVb3ZKRDdaZXFpT0NscHJqc2hwSQ?oc=5)
+
+2026-11-10
+
+出典: [Infoseek](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpOHYyUHc2ZWtTRWZLQm4zTzNFdW83eFhhZWR2RUotUG5nS0lITWRMX0N6Q3JUUGxTaWE5YUhSdnNRUFZkdGUzX2VBUXRZd0JVb3ZKRDdaZXFpT0NscHJqc2hwSQ?oc=5)
+
+---
+
+### [1日1杯でも5杯でもない…約13万人を最長43年追跡してわかった｢認知症リスクが最も下がるコーヒーの杯数｣](https://news.google.com/rss/articles/CBMiYkFVX3lxTE8ybE52M2kxMXJEa0NzME10UDF3aV90NUNQcFByN19UWjBzMDJiV0dVSFA4UmZkSkx3WE96SkIyRXVTazdmVDdpLW05Q1ZUeUsxQkFGNG5NalR5UnR2QmpMZWl3?oc=5)
+
+2026-11-10
+
+出典: [Infoseek](https://news.google.com/rss/articles/CBMiYkFVX3lxTE8ybE52M2kxMXJEa0NzME10UDF3aV90NUNQcFByN19UWjBzMDJiV0dVSFA4UmZkSkx3WE96SkIyRXVTazdmVDdpLW05Q1ZUeUsxQkFGNG5NalR5UnR2QmpMZWl3?oc=5)
 
 ---
 

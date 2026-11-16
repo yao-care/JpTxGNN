@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "脳卒中 (stroke) 関連ニュース"
+title: "脳梗塞 (stroke) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "脳卒中 (stroke) に関する健康ニュース。ニュース 1 件、関連医薬品 16 件。"
+description: "脳梗塞 (stroke) に関する健康ニュース。ニュース 1 件、関連医薬品 16 件。"
 permalink: /news/stroke/
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-16
 ---
 
-# 脳卒中 (stroke) 関連ニュース
+# 脳梗塞 (stroke) 関連ニュース
 
 [← ニュース一覧に戻る]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="脳卒中 (stroke) に関するニュースは？">
-<strong>脳卒中 (stroke)</strong> には現在 <strong>1 件</strong>の関連ニュースと 16 件の関連医薬品があります。
+<p class="key-answer" data-question="脳梗塞 (stroke) に関するニュースは？">
+<strong>脳梗塞 (stroke)</strong> には現在 <strong>1 件</strong>の関連ニュースと 16 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
-このページは「脳卒中」に関する最新の健康ニュースをまとめ、JpTxGNN データベースで予測適応症にこの疾患を含む医薬品を一覧表示します。
+このページは「脳梗塞」に関する最新の健康ニュースをまとめ、JpTxGNN データベースで予測適応症にこの疾患を含む医薬品を一覧表示します。
 </div>
 
 <div class="related-drugs-card">
@@ -47,11 +47,11 @@ last_modified_at: 2026-11-14
 
 ## 関連ニュース（1 件）
 
-### [【コーヒーvs炭酸飲料】うつのリスクに明暗？ 205万人分のデータで見えた“飲み物と心”の関係を医師が解説](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5JWU15NG85RnpYckVRUHhCejVjWHFzcFVyX215SUQtaXF3U0NWWnlOU1E3elRIQ0FkVFZnVjd1R1J2YjRyWVNRNl9ka0wtQnhneEtZS0hsYw?oc=5)
+### [成人の９人に１人がかかる糖尿病 病気への理解深める講演会 即実践できる食事や運動のポイントを説明](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBXa0M3WmNsSzlpdjY2Y21BRkxuZW5iN3ZZT19qOGxDVk14ZHhhYWQ1NnJRQjNTLTJFSm5SbFA5aUphSGFZMFVCT0pOQVQ3UQ?oc=5)
 
-2026-11-13
+2026-11-15
 
-出典: [メディカルドック](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5JWU15NG85RnpYckVRUHhCejVjWHFzcFVyX215SUQtaXF3U0NWWnlOU1E3elRIQ0FkVFZnVjd1R1J2YjRyWVNRNl9ka0wtQnhneEtZS0hsYw?oc=5)
+出典: [FNNプライムオンライン](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBXa0M3WmNsSzlpdjY2Y21BRkxuZW5iN3ZZT19qOGxDVk14ZHhhYWQ1NnJRQjNTLTJFSm5SbFA5aUphSGFZMFVCT0pOQVQ3UQ?oc=5)
 
 ---
 

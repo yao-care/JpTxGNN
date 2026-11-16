@@ -194,8 +194,10 @@ def patch_single_drug(
         drug_name = bundle.drug.inn
         result["drug"] = drug_name
 
-        # Fast in-memory lookup
-        predicted = drug_predictions.get(drug_name.lower())
+        # Fast in-memory lookup；本站藥名對不上 DL 藥名時，用 DrugBank ID／成分對照／去鹽名找（2026-11-16）
+        from jptxgnn.collectors.drug_bundle import resolve_dl_drug
+        dl_name, dl_dbid, dl_how = resolve_dl_drug(drug_name, bundle.drug.drugbank_id)
+        predicted = drug_predictions.get((dl_name or drug_name).lower())
 
         if not predicted:
             result["status"] = "no_predictions"
@@ -209,10 +211,14 @@ def patch_single_drug(
         # Collect per-indication evidence
         aggregator = DrugBundleAggregator(save_collected=True)
         for indication in predicted:
-            aggregator.collect_indication_data(drug_name, indication)
+            aggregator.collect_indication_data(dl_name or drug_name, indication)
 
         # Update bundle in-place
         bundle.drug.predicted_indications = predicted
+        if dl_dbid and not bundle.drug.drugbank_id:
+            bundle.drug.drugbank_id = dl_dbid
+        bundle.metadata["dl_drug_name"] = dl_name
+        bundle.metadata["dl_match"] = dl_how
         bundle.drug.is_novel_check_done = True
         bundle.collection_log.extend(aggregator._collection_log)
         bundle.metadata["patched_at"] = time.strftime("%Y-%m-%dT%H:%M:%S")
@@ -321,6 +327,9 @@ def main():
             print("所有 bundles 都已有 predicted_indications，無需 patch")
             return []
 
+        if args.drugs:  # 只 patch 指定的證據包目錄（逗號分隔，或 @檔案＝JSON 清單）
+            want = set(json.loads(Path(args.drugs[1:]).read_text()) if args.drugs.startswith("@") else [d.strip() for d in args.drugs.split(",")])
+            empty_bundles = [bf for bf in empty_bundles if bf.parent.name in want]
         print(f"找到 {len(empty_bundles)} 個需要 patch 的 bundles")
 
         # Preload predictions once (avoids re-reading CSV per bundle)
