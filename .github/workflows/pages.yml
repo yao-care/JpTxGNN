@@ -30,6 +30,8 @@ jobs:
           # 🔴 sitemap 的 lastmod 取 git commit 日期，淺 clone 只有一個 commit
           #    會讓全站日期一模一樣（＝假訊號，比沒有 lastmod 更糟）。
           fetch-depth: 0
+          # 2026-11-16：排隊較久的舊部署若較晚完成會蓋掉新版（Eu 14:14 的 workflow_dispatch 15:04 才完成）；一律建當下最新的 main
+          ref: main
 
       - name: Setup Pages
         uses: actions/configure-pages@983d7736d9b0ae728b81ab479565c72886d7745b # v5
