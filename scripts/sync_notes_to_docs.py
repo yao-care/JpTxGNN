@@ -148,7 +148,8 @@ def extra_front_matter(bundle_path: Path, evidence_level: str, indication_count:
     drug = (bundle or {}).get("drug") or {}
     names = [p.get("disease_name", "").strip() for p in (drug.get("predicted_indications") or [])]
     names = [n for n in names if n][:10]
-    inn = (drug.get("inn") or drug.get("name") or "").strip()
+    # 監測（PubMed／ClinicalTrials.gov）用 DL 的英文藥名；證據包藥名是當地語言或鹽類全名時（metadata.dl_drug_name，2026-11-16）
+    inn = (((bundle or {}).get("metadata") or {}).get("dl_drug_name") or drug.get("inn") or drug.get("name") or "").strip()
     kfp = bundle_path.parents[3].parent / ".claude" / "known_use_filter.py"  # N-01：監測不追已知用途的子型／上位詞
     if names and kfp.exists():
         global _KNOWN_USE_FILTER
@@ -159,6 +160,8 @@ def extra_front_matter(bundle_path: Path, evidence_level: str, indication_count:
         mon = _KNOWN_USE_FILTER.kept_predictions(bundle_path.parents[3], bundle)  # 2026-10-22：含 0.99 門檻
     else:
         mon = names
+    if drug.get("drugbank_id"):  # FHIR（sync_fhir_levels.py）靠它把 MedicationKnowledge 對到頁面；以前 sync 重寫時會丟掉（2026-11-16）
+        lines.append(f"drugbank_id: {drug['drugbank_id']}")
     if mon and inn:
         lines.append(f"monitor_inn: {json.dumps(inn, ensure_ascii=False)}")
         lines.append(f"predicted_indications: {json.dumps(mon, ensure_ascii=False)}")
