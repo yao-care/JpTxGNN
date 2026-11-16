@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "ザルティア錠５ｍｇ（選） に関する健康ニュース。予測適応症 8 件。"
 permalink: /news/tadalafil/
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 ---
 
 # ザルティア錠５ｍｇ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="ザルティア錠５ｍｇ（選） に関するニュースは？">
-<strong>ザルティア錠５ｍｇ（選）</strong> には現在 <strong>1 件</strong>の関連ニュースがあり、予測適応症は 8 件です。
+<strong>ザルティア錠５ｍｇ（選）</strong> には現在 <strong>2 件</strong>の関連ニュースがあり、予測適応症は 8 件です。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ last_modified_at: 2026-11-15
 <p><a href="{{ '/drugs/tadalafil/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（1 件）
+## 関連ニュース（2 件）
+
+### [成人の９人に１人がかかる糖尿病 病気への理解深める講演会 即実践できる食事や運動のポイントを説明](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBXa0M3WmNsSzlpdjY2Y21BRkxuZW5iN3ZZT19qOGxDVk14ZHhhYWQ1NnJRQjNTLTJFSm5SbFA5aUphSGFZMFVCT0pOQVQ3UQ?oc=5)
+
+2026-11-15 <span class="news-indication-tag">脳梗塞</span>
+
+出典: [FNNプライムオンライン](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBXa0M3WmNsSzlpdjY2Y21BRkxuZW5iN3ZZT19qOGxDVk14ZHhhYWQ1NnJRQjNTLTJFSm5SbFA5aUphSGFZMFVCT0pOQVQ3UQ?oc=5)
+
+---
 
 ### [血清リポ蛋白（a）が動脈硬化の全ての過程に関与、50mg/dL以上で高リスク－国循](https://news.google.com/rss/articles/CBMidkFVX3lxTFB3cTZ6OXJOQ2pvalc4TVU1dU1uUDRpa1EtUGk4alVWR24wUHF5S000cWMxWlFzUnJiWUhnM3oyTlZoeHpVQmVnYm1yVXl0MHVCZ3hOREV1RzNvTTlaamt1b0huUVRnejhUeEtBc3JDMFlHczhYd3c?oc=5)
 

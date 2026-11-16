@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "ミカムロ配合錠ＢＰ（選） に関する健康ニュース。予測適応症 9 件。"
 permalink: /news/telmisartan/
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 ---
 
 # ミカムロ配合錠ＢＰ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="ミカムロ配合錠ＢＰ（選） に関するニュースは？">
-<strong>ミカムロ配合錠ＢＰ（選）</strong> には現在 <strong>10 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
+<strong>ミカムロ配合錠ＢＰ（選）</strong> には現在 <strong>13 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,31 @@ last_modified_at: 2026-11-15
 <p><a href="{{ '/drugs/telmisartan/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（10 件）
+## 関連ニュース（13 件）
+
+### [【闘病】「手術不可」から一転…『大腸がん』永久人工肛門を受け入れた16時間の大手術(メディカルドック)](https://news.yahoo.co.jp/articles/88a4c1fa77a78697670eb7dcf3e00ed0fd317ef6?source=rss)
+
+2026-11-16 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
+
+出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/88a4c1fa77a78697670eb7dcf3e00ed0fd317ef6?source=rss)
+
+---
+
+### [HPVワクチン接種率、高１相当女子・全国1位の山形県も危機感](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKLXJObUdMR2hLNlFMLUprNUlvczVaeENyM05vMkdxeThtNWJRYmdYWDl1LU1wOVRqamRzYkhKNHVtOHg3ZzVhU3l4MjRNTnk2Wk1r?oc=5)
+
+2026-11-15 <span class="news-indication-tag">がん</span>
+
+出典: [m3.com](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKLXJObUdMR2hLNlFMLUprNUlvczVaeENyM05vMkdxeThtNWJRYmdYWDl1LU1wOVRqamRzYkhKNHVtOHg3ZzVhU3l4MjRNTnk2Wk1r?oc=5)
+
+---
+
+### [成人の９人に１人がかかる糖尿病 病気への理解深める講演会 即実践できる食事や運動のポイントを説明](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBXa0M3WmNsSzlpdjY2Y21BRkxuZW5iN3ZZT19qOGxDVk14ZHhhYWQ1NnJRQjNTLTJFSm5SbFA5aUphSGFZMFVCT0pOQVQ3UQ?oc=5)
+
+2026-11-15 <span class="news-indication-tag">脳梗塞</span>
+
+出典: [FNNプライムオンライン](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBXa0M3WmNsSzlpdjY2Y21BRkxuZW5iN3ZZT19qOGxDVk14ZHhhYWQ1NnJRQjNTLTJFSm5SbFA5aUphSGFZMFVCT0pOQVQ3UQ?oc=5)
+
+---
 
 ### [【闘病】立てないほどの胃痛の正体は『膵臓がん』 多発肝転移、親友とは2週間違いの告知(メディカルドック)](https://news.yahoo.co.jp/articles/e71c4aff7d3bddd4e2ee8084a5ce74126815f1d3?source=rss)
 

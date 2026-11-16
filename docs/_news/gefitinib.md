@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "イレッサ錠２５０　２５０ｍｇ（選） に関する健康ニュース。予測適応症 9 件。"
 permalink: /news/gefitinib/
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 ---
 
 # イレッサ錠２５０　２５０ｍｇ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="イレッサ錠２５０　２５０ｍｇ（選） に関するニュースは？">
-<strong>イレッサ錠２５０　２５０ｍｇ（選）</strong> には現在 <strong>15 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
+<strong>イレッサ錠２５０　２５０ｍｇ（選）</strong> には現在 <strong>20 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,37 @@ last_modified_at: 2026-11-15
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（15 件）
+## 関連ニュース（20 件）
+
+### [【闘病】「手術不可」から一転…『大腸がん』永久人工肛門を受け入れた16時間の大手術(メディカルドック)](https://news.yahoo.co.jp/articles/88a4c1fa77a78697670eb7dcf3e00ed0fd317ef6?source=rss)
+
+2026-11-16 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
+
+出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/88a4c1fa77a78697670eb7dcf3e00ed0fd317ef6?source=rss)
+
+---
+
+### [HPVワクチン接種率、高１相当女子・全国1位の山形県も危機感](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKLXJObUdMR2hLNlFMLUprNUlvczVaeENyM05vMkdxeThtNWJRYmdYWDl1LU1wOVRqamRzYkhKNHVtOHg3ZzVhU3l4MjRNTnk2Wk1r?oc=5)
+
+2026-11-15 <span class="news-indication-tag">がん</span>
+
+出典: [m3.com](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKLXJObUdMR2hLNlFMLUprNUlvczVaeENyM05vMkdxeThtNWJRYmdYWDl1LU1wOVRqamRzYkhKNHVtOHg3ZzVhU3l4MjRNTnk2Wk1r?oc=5)
+
+---
 
 ### [【闘病】立てないほどの胃痛の正体は『膵臓がん』 多発肝転移、親友とは2週間違いの告知(メディカルドック)](https://news.yahoo.co.jp/articles/e71c4aff7d3bddd4e2ee8084a5ce74126815f1d3?source=rss)
 
 2026-11-15 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">膵臓がん</span>
 
 出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/e71c4aff7d3bddd4e2ee8084a5ce74126815f1d3?source=rss)
+
+---
+
+### [「認知症」と「ただの物忘れ」医師が教える明らかな違い](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qMlNjRzlndmF0WVdjbUFSUmxFaV9pZnhaVnhfczBGMmdmOHFBdDFIeHA4UEp3U3Nydnl1VG16MGdSSFNWQUFJYkc4SU0xOXFfYnQ5LU0zZkhDcXoxNldj?oc=5)
+
+2026-11-14 <span class="news-indication-tag">認知症</span>
+
+出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qMlNjRzlndmF0WVdjbUFSUmxFaV9pZnhaVnhfczBGMmdmOHFBdDFIeHA4UEp3U3Nydnl1VG16MGdSSFNWQUFJYkc4SU0xOXFfYnQ5LU0zZkhDcXoxNldj?oc=5)
 
 ---
 
@@ -115,11 +139,11 @@ last_modified_at: 2026-11-15
 
 ---
 
-### [急増！子どもの近視 進行抑制のゴールデンタイムを逃さないために［PR］](https://news.google.com/rss/articles/CBMibEFVX3lxTE5kMHJ1VmV5cW0yU1ZsVldSNEtkNlZ4UWJ6d0tOOGEySV9mdENkbHY2RHdQaWxMcnNwVDRIa0ktakNUOV9CSGl5RnZzRkpTS3ZzdXdZTkxKNURWZjVXMTlCR3BMVFhKZkNfVUpQYQ?oc=5)
+### [近視の低年齢化が顕著も、眼科受診は約半数にとどまる 早期の予防・対策で子供の目を守る](https://news.google.com/rss/articles/CBMibkFVX3lxTE85elhhV2NXX2Z1V3ozMzJQQmk5aGdmTFZlcU1Qb0NrNElTVTRDT25TZmhmbjdTNnNmV0dqWTNlX1lscFRlV1djN2ROYlU5T0xBVC0tclgxbUdISDFORjNBbXV2Um4yakQ2RmMtM3Z3?oc=5)
 
 2026-11-11 <span class="news-indication-tag">認知症</span>
 
-出典: [日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTE5kMHJ1VmV5cW0yU1ZsVldSNEtkNlZ4UWJ6d0tOOGEySV9mdENkbHY2RHdQaWxMcnNwVDRIa0ktakNUOV9CSGl5RnZzRkpTS3ZzdXdZTkxKNURWZjVXMTlCR3BMVFhKZkNfVUpQYQ?oc=5)
+出典: [読売新聞](https://news.google.com/rss/articles/CBMibkFVX3lxTE85elhhV2NXX2Z1V3ozMzJQQmk5aGdmTFZlcU1Qb0NrNElTVTRDT25TZmhmbjdTNnNmV0dqWTNlX1lscFRlV1djN2ROYlU5T0xBVC0tclgxbUdISDFORjNBbXV2Um4yakQ2RmMtM3Z3?oc=5)
 
 ---
 
@@ -128,6 +152,14 @@ last_modified_at: 2026-11-15
 2026-11-11 <span class="news-indication-tag">認知症</span>
 
 出典: [日経Gooday](https://news.google.com/rss/articles/CBMicEFVX3lxTE9JMENjRm5jZG1XZjZEOTRKTFR3SFBfSlVBT3hmX3hCNzRoSHlaaGthQWV6cFN0ZV9JUmVxRWh3Q2pwaHBkWjVPa1lVX19EUFRjVkY0a1p3TFZ3VXdaNURNREJuSlk3bTJ5a2tBUkdscHQ?oc=5)
+
+---
+
+### [急増！子どもの近視 進行抑制のゴールデンタイムを逃さないために［PR］](https://news.google.com/rss/articles/CBMibEFVX3lxTE5kMHJ1VmV5cW0yU1ZsVldSNEtkNlZ4UWJ6d0tOOGEySV9mdENkbHY2RHdQaWxMcnNwVDRIa0ktakNUOV9CSGl5RnZzRkpTS3ZzdXdZTkxKNURWZjVXMTlCR3BMVFhKZkNfVUpQYQ?oc=5)
+
+2026-11-11 <span class="news-indication-tag">認知症</span>
+
+出典: [日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTE5kMHJ1VmV5cW0yU1ZsVldSNEtkNlZ4UWJ6d0tOOGEySV9mdENkbHY2RHdQaWxMcnNwVDRIa0ktakNUOV9CSGl5RnZzRkpTS3ZzdXdZTkxKNURWZjVXMTlCR3BMVFhKZkNfVUpQYQ?oc=5)
 
 ---
 
@@ -144,6 +176,14 @@ last_modified_at: 2026-11-15
 2026-11-10 <span class="news-indication-tag">がん</span>
 
 出典: [時事メディカル](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xLU1EMmR2MDZ2NlQwYlpvU1VsUHl4b3RiellyTTNGVktwZlJFWHNTTGxxM21ScEU3WUM2TnZqckN2a0xlR3h2VDc1NTTSAVJBVV95cUxOaDFfX19NMDZzSWNlcnZiOXRqQXlaTlFhZDQ1RmFERXEyX3R0LWpuelNQbjBJbUQ5QlB3VS01eG9FdkZ3ZDBJTmRoNmJxai1WUXN3?oc=5)
+
+---
+
+### [1日1杯でも5杯でもない…約13万人を最長43年追跡してわかった｢認知症リスクが最も下がるコーヒーの杯数｣](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpOHYyUHc2ZWtTRWZLQm4zTzNFdW83eFhhZWR2RUotUG5nS0lITWRMX0N6Q3JUUGxTaWE5YUhSdnNRUFZkdGUzX2VBUXRZd0JVb3ZKRDdaZXFpT0NscHJqc2hwSQ?oc=5)
+
+2026-11-10 <span class="news-indication-tag">認知症</span>
+
+出典: [Infoseek](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBpOHYyUHc2ZWtTRWZLQm4zTzNFdW83eFhhZWR2RUotUG5nS0lITWRMX0N6Q3JUUGxTaWE5YUhSdnNRUFZkdGUzX2VBUXRZd0JVb3ZKRDdaZXFpT0NscHJqc2hwSQ?oc=5)
 
 ---
 

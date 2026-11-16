@@ -3,9 +3,9 @@ layout: default
 title: "大腸がん (colonic neoplasm) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "大腸がん (colonic neoplasm) に関する健康ニュース。ニュース 2 件、関連医薬品 1 件。"
+description: "大腸がん (colonic neoplasm) に関する健康ニュース。ニュース 3 件、関連医薬品 1 件。"
 permalink: /news/colonic-neoplasm/
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 ---
 
 # 大腸がん (colonic neoplasm) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="大腸がん (colonic neoplasm) に関するニュースは？">
-<strong>大腸がん (colonic neoplasm)</strong> には現在 <strong>2 件</strong>の関連ニュースと 1 件の関連医薬品があります。
+<strong>大腸がん (colonic neoplasm)</strong> には現在 <strong>3 件</strong>の関連ニュースと 1 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ last_modified_at: 2026-11-15
 </ul>
 </div>
 
-## 関連ニュース（2 件）
+## 関連ニュース（3 件）
+
+### [【闘病】「手術不可」から一転…『大腸がん』永久人工肛門を受け入れた16時間の大手術(メディカルドック)](https://news.yahoo.co.jp/articles/88a4c1fa77a78697670eb7dcf3e00ed0fd317ef6?source=rss)
+
+2026-11-16
+
+出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/88a4c1fa77a78697670eb7dcf3e00ed0fd317ef6?source=rss)
+
+---
 
 ### [日本の大腸がん対策、何が足りない？―アメリカは「45歳から大腸内視鏡」が主流(メディカルドック)](https://news.yahoo.co.jp/articles/1da8b606671ebdf6470b05c85082e7fc6f0ad6ce?source=rss)
 
