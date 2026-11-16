@@ -3,9 +3,9 @@ layout: default
 title: "インフルエンザ (influenza) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 1 件、関連医薬品 1 件。"
+description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 2 件、関連医薬品 1 件。"
 permalink: /news/influenza/
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-16
 ---
 
 # インフルエンザ (influenza) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-14
 ---
 
 <p class="key-answer" data-question="インフルエンザ (influenza) に関するニュースは？">
-<strong>インフルエンザ (influenza)</strong> には現在 <strong>1 件</strong>の関連ニュースと 1 件の関連医薬品があります。
+<strong>インフルエンザ (influenza)</strong> には現在 <strong>2 件</strong>の関連ニュースと 1 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ last_modified_at: 2026-11-14
 </ul>
 </div>
 
-## 関連ニュース（1 件）
+## 関連ニュース（2 件）
+
+### [インフルエンザ感染者が2週ぶりに増加に転じる あわら市と坂井市も注意報レベル上回る 丹南が最多 福井](https://news.google.com/rss/articles/CBMiTkFVX3lxTE0xeXhXNVh1c1FicFhWN2NPWlVzd3Z0RDNXMkdBUmhCMC1JV2pEVWdGWFZsc2JFSjduREtYYU5PejZLSHdOQURTS0gzZjhrUQ?oc=5)
+
+2026-11-11
+
+出典: [FNNプライムオンライン](https://news.google.com/rss/articles/CBMiTkFVX3lxTE0xeXhXNVh1c1FicFhWN2NPWlVzd3Z0RDNXMkdBUmhCMC1JV2pEVWdGWFZsc2JFSjduREtYYU5PejZLSHdOQURTS0gzZjhrUQ?oc=5)
+
+---
 
 ### [【三重県インフルエンザ週報】学年閉鎖7校・学級閉鎖13校発生 鈴鹿・桑名・伊賀・伊勢で県全体の患者届出数上回る＜11月2日～8日の感染症情報 - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE8yNmtYYzliWGdFbFJEQlo1dS1FdHRXOHdHMGdUTzVDV1VtaTQtNmdJUUNFWWdhRENya0tOVXpsWDh4OVJmQXVva0JkSC1yV3kyMWdGZFBwZTg0Nk92TjZpSDFWNHZoRTV1LXA5N3RR?oc=5)
 

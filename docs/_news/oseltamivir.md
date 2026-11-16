@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "タミフルドライシロップ３％（選） に関する健康ニュース。予測適応症 0 件。"
 permalink: /news/oseltamivir/
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-16
 ---
 
 # タミフルドライシロップ３％（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-14
 ---
 
 <p class="key-answer" data-question="タミフルドライシロップ３％（選） に関するニュースは？">
-<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>1 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>2 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ last_modified_at: 2026-11-14
 <p><a href="{{ '/drugs/oseltamivir/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（1 件）
+## 関連ニュース（2 件）
+
+### [インフルエンザ感染者が2週ぶりに増加に転じる あわら市と坂井市も注意報レベル上回る 丹南が最多 福井](https://news.google.com/rss/articles/CBMiTkFVX3lxTE0xeXhXNVh1c1FicFhWN2NPWlVzd3Z0RDNXMkdBUmhCMC1JV2pEVWdGWFZsc2JFSjduREtYYU5PejZLSHdOQURTS0gzZjhrUQ?oc=5)
+
+2026-11-11 <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [FNNプライムオンライン](https://news.google.com/rss/articles/CBMiTkFVX3lxTE0xeXhXNVh1c1FicFhWN2NPWlVzd3Z0RDNXMkdBUmhCMC1JV2pEVWdGWFZsc2JFSjduREtYYU5PejZLSHdOQURTS0gzZjhrUQ?oc=5)
+
+---
 
 ### [【三重県インフルエンザ週報】学年閉鎖7校・学級閉鎖13校発生 鈴鹿・桑名・伊賀・伊勢で県全体の患者届出数上回る＜11月2日～8日の感染症情報 - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE8yNmtYYzliWGdFbFJEQlo1dS1FdHRXOHdHMGdUTzVDV1VtaTQtNmdJUUNFWWdhRENya0tOVXpsWDh4OVJmQXVva0JkSC1yV3kyMWdGZFBwZTg0Nk92TjZpSDFWNHZoRTV1LXA5N3RR?oc=5)
 

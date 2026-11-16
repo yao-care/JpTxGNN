@@ -15,7 +15,7 @@ last_modified_at: 2026-11-16
 ---
 
 <p class="key-answer" data-question="リンデロン−Ｖ軟膏０．１２％（選） に関するニュースは？">
-<strong>リンデロン−Ｖ軟膏０．１２％（選）</strong> には現在 <strong>11 件</strong>の関連ニュースがあり、予測適応症は 7 件です。
+<strong>リンデロン−Ｖ軟膏０．１２％（選）</strong> には現在 <strong>14 件</strong>の関連ニュースがあり、予測適応症は 7 件です。
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,15 @@ last_modified_at: 2026-11-16
 <p><a href="{{ '/drugs/betamethasone/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（11 件）
+## 関連ニュース（14 件）
+
+### [【訃報】YouTuber・ミミポポさん死去 「乳がん」の痛みや受診すべきケースを医師が解説(メディカルドック)](https://news.yahoo.co.jp/articles/eab1eb0607a37c40d8c602fbb1a8764b1dc13a05?source=rss)
+
+2026-11-16 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
+
+出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/eab1eb0607a37c40d8c602fbb1a8764b1dc13a05?source=rss)
+
+---
 
 ### [【闘病】「手術不可」から一転…『大腸がん』永久人工肛門を受け入れた16時間の大手術(メディカルドック)](https://news.yahoo.co.jp/articles/88a4c1fa77a78697670eb7dcf3e00ed0fd317ef6?source=rss)
 
@@ -113,11 +121,27 @@ last_modified_at: 2026-11-16
 
 ---
 
+### [余命半年と言われたスキルス胃がんの妻、がん保険の給付金で家族旅行…厳しい闘病中でも満面の笑みが](https://news.google.com/rss/articles/CBMif0FVX3lxTE1LV2gtVTNIMmQ3TnZnWlk4SGdJRUZsSGtGNERDckRZWk9XQ1R2dGd6eWpubGJvcXhPNjdTaGlXYndBemV3eWNwS0hNMVhqdlcxeXJLOC1OR1JNV284U05Qb05Nc2ZWT0w2Z3ExWm5hZXA1Z3g0eDQtTW44TjVzWDA?oc=5)
+
+2026-11-11 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">胃がん</span>
+
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE1LV2gtVTNIMmQ3TnZnWlk4SGdJRUZsSGtGNERDckRZWk9XQ1R2dGd6eWpubGJvcXhPNjdTaGlXYndBemV3eWNwS0hNMVhqdlcxeXJLOC1OR1JNV284U05Qb05Nc2ZWT0w2Z3ExWm5hZXA1Z3g0eDQtTW44TjVzWDA?oc=5)
+
+---
+
 ### [ワクチンでがん予防～子宮頸がん、ＨＰＶ関連がん（自治医科大付属さいたま医療センター　今野良名誉教授）～](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xLU1EMmR2MDZ2NlQwYlpvU1VsUHl4b3RiellyTTNGVktwZlJFWHNTTGxxM21ScEU3WUM2TnZqckN2a0xlR3h2VDc1NTTSAVJBVV95cUxOaDFfX19NMDZzSWNlcnZiOXRqQXlaTlFhZDQ1RmFERXEyX3R0LWpuelNQbjBJbUQ5QlB3VS01eG9FdkZ3ZDBJTmRoNmJxai1WUXN3?oc=5)
 
 2026-11-10 <span class="news-indication-tag">がん</span>
 
 出典: [時事メディカル](https://news.google.com/rss/articles/CBMiTEFVX3lxTE1xLU1EMmR2MDZ2NlQwYlpvU1VsUHl4b3RiellyTTNGVktwZlJFWHNTTGxxM21ScEU3WUM2TnZqckN2a0xlR3h2VDc1NTTSAVJBVV95cUxOaDFfX19NMDZzSWNlcnZiOXRqQXlaTlFhZDQ1RmFERXEyX3R0LWpuelNQbjBJbUQ5QlB3VS01eG9FdkZ3ZDBJTmRoNmJxai1WUXN3?oc=5)
+
+---
+
+### [成人慢性B型肝炎治療の世界市場（2026年～2032年）、市場規模（インターフェロン、抗ウイルス薬）・分析レポートを発表](https://news.google.com/rss/articles/CBMiT0FVX3lxTE1oelpoblFnWjlzWklxYlpVTmlnaEZHcFVFMEp4dC03cDg4VExaZXpOMnU5a1RfMWZ0NkVSTkU2VThzNmIxQnBYTDNTYXZmeU0?oc=5)
+
+2026-11-10 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">肝がん</span>
+
+出典: [アットプレス](https://news.google.com/rss/articles/CBMiT0FVX3lxTE1oelpoblFnWjlzWklxYlpVTmlnaEZHcFVFMEp4dC03cDg4VExaZXpOMnU5a1RfMWZ0NkVSTkU2VThzNmIxQnBYTDNTYXZmeU0?oc=5)
 
 ---
 
