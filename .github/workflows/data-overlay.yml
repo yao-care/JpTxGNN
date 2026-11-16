@@ -1,0 +1,59 @@
+# 雲端 session 新增／更新的 data/ 檔案併進最新 data-* Release（2026-11-16 建）。
+# 雲端 session 不能建 Release（GitHub 代理回 403），所以由雲端把要加的檔案打包推到暫存分支 claude/data-overlay-*，
+# 這支在 Actions 裡：還原最新 Release 的 data/ → 解開暫存分支的 .data-overlay/overlay.tar.gz.part-*（蓋上去）→ 發新的 data-* Release → 刪暫存分支。
+# 包裡只能有 <站>/data/ 底下的檔案（tar 內路徑），NOTE 寫這批資料是什麼、誰產生的。舊 tag 一律不覆蓋。
+name: Data overlay
+
+on:
+  push:
+    branches: ['claude/data-overlay-*']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: license-refresh   # 跟每週許可證排程排隊，不同時改 Release
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6
+
+      - name: Restore data from Release
+        run: bash scripts/restore_data.sh
+
+      - name: Apply overlay
+        run: |
+          SITE=$(tr -d '[:space:]' < tools/txgnn/SITE)
+          cd .data-overlay && sha256sum -c overlay.sha256 && cd ..
+          cat .data-overlay/overlay.tar.gz.part-* | tar tzf - > /tmp/overlay.list
+          if grep -vE "^$SITE/data/" /tmp/overlay.list | grep -v '/$' | grep -q .; then echo "包裡有 $SITE/data/ 以外的路徑" >&2; exit 1; fi
+          cat .data-overlay/overlay.tar.gz.part-* | tar xzf - --strip-components=1
+          echo "蓋上 $(grep -vc '/$' /tmp/overlay.list) 個檔案"; cat .data-overlay/NOTE
+
+      - name: Publish updated data to Release
+        run: |
+          SITE=$(tr -d '[:space:]' < tools/txgnn/SITE)
+          TAG="data-$(date -u +%Y%m%d-%H%M%S)"
+          STAGE=$(mktemp -d)
+          git ls-files --others --ignored --exclude-standard -z -- data | tr '\0' '\n' \
+            | grep -vE '^data/(kg\.csv|node\.csv|kg_directed\.csv|edges\.csv)$|\.DS_Store$' \
+            | sed "s|^|$SITE/|" > "$STAGE/list"
+          ln -sfn "$GITHUB_WORKSPACE" "$STAGE/$SITE"
+          (cd "$STAGE" && tar -czhf - -T list | split -b 1900m - "$SITE-data.tar.gz.part-")
+          (cd "$STAGE" && sha256sum "$SITE-data".tar.gz.part-* > "$SITE-data.sha256")
+          if gh release view "$TAG" >/dev/null 2>&1; then echo "tag $TAG 已存在，不覆蓋" >&2; exit 1; fi
+          gh release create "$TAG" --title "$SITE 成果資料（$TAG，雲端新增資料）" \
+            --notes "$(cat .data-overlay/NOTE)
+
+          完整 data/（上一版 Release＋這次新增）。還原：bash scripts/restore_data.sh（預設取最新建立的 data-* tag）。" \
+            "$STAGE/$SITE-data".tar.gz.part-* "$STAGE/$SITE-data.sha256"
+
+      - name: Delete overlay branch
+        if: success()
+        run: git push origin --delete "$GITHUB_REF_NAME"

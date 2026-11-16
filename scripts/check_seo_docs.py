@@ -798,6 +798,9 @@ sys.path.insert(0, str(DOCS.parent / "scripts"))
 from apply_drug_reviews import check_errors as _review_errors  # noqa: E402
 from jptxgnn.regulatory import licenses as _Lic, page_format as _Pf, withdrawn as _Wd  # noqa: E402
 errors += _review_errors()
+# 證據包漏收 DL 預測（2026-11-16；沒有 data/ 就略過，說明見 scripts/check_dl_coverage.py）
+from check_dl_coverage import check_errors as _dl_cov_errors  # noqa: E402
+errors += _dl_cov_errors()
 _lic_errs = _Lic.site_problems()
 if _lic_errs:
     errors.append(f"許可證資訊跟快照不一致 {len(_lic_errs)} 項：{'；'.join(_lic_errs[:5])}")
