@@ -305,7 +305,7 @@ CANCELLED = {"en": "Not marketed (licences cancelled: {n} of {n})",
 "fi": "Ei markkinoilla (perutut luvat: {n}/{n})",
 "fr": "Non commercialisé (autorisations annulées : {n} sur {n})",
 "zh": "未上市（已註銷許可證 {n} 張／共 {n} 張）",
-"it": "Non in commercio (autorizzazioni revocate: {n} su {n})",
+"it": "Non in commercio (autorizzazioni non più valide: {n} su {n})",  # 2026-11-17：AIFA 不列的 AIC 分不出撤銷或失效（decadenza），用中性寫法
 "ja": "販売なし（承認 {n} 件すべて取消・整理済み）",
 "ko": "미시판 (취소된 허가 {n}건 / 전체 {n}건)",
 "ms": "Tidak dipasarkan (pendaftaran dibatalkan: {n} daripada {n})",
@@ -442,6 +442,12 @@ SCOPE_CANCELLED = {
     # 2026-11-17（用戶要求確認 JP 新資料查不到的コード）：JP 的來源是薬価基準収載医薬品マスター，コード消失＝薬価基準から削除（経過措置満了），
     # 不等於承認取消；全部削除的頁只陳述資料範圍
     "JpTxGNN": "薬価基準収載品目なし（本サイトのデータの {n} 件はすべて薬価基準から削除済み、国内の承認状況は未確認）",
+    # 2026-11-17（用戶要求確認 AR 新資料查不到的代碼）：AR 的來源是 PAMI 給付價目表（ALFABETA 代碼，不是 ANMAT certificado），
+    # 代碼消失＝ya no figura en el listado de PAMI，不等於 ANMAT 註冊失效；全部不在清單的頁只陳述資料範圍
+    "ARTxGNN": "No figura en el listado vigente de PAMI (los {n} productos de estos datos ya no figuran) – el estado del registro en ANMAT no está incluido en estos datos",
+    # 2026-11-17（用戶要求確認 AU 新資料查不到的代碼）：AU 的來源是 PBS Schedule（pbs_code＝給付品項代碼，不是 ARTG 號碼），
+    # 代碼消失＝no longer listed on the PBS Schedule，不等於 TGA 註冊失效；全部不在當期清單的頁只陳述資料範圍
+    "AuTxGNN": "Not on the current PBS Schedule ({n} of {n} PBS items in this data no longer listed) – TGA (ARTG) registration status is not included in this data",
 }
 # 只陳述資料範圍的站（NO_CENTRAL／SCOPE_CANCELLED），事實是查無或全部註銷時，正文斷言「在本國／歐盟沒有上市、買不到」超出資料範圍（2026-11-06，Sg、Eu）
 SCOPE_NOMKT = {

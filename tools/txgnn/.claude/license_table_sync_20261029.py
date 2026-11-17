@@ -157,6 +157,9 @@ def apply(site, lab, dry=False):
     return changed, unsynced
 
 
+EXTRA_STATUS_LABELS = {"JpTxGNN": ("日本での販売状況",)}
+
+
 def sync_market_rows(site, dry=False):
     """只改許可證欄位（2026-10-30，pm 驗收第 2 點：排程不准動 H1、原適應症、description 等其他欄位）：
        概覽表的本站狀態列、既有的張數列（不新增列）。值的寫法與事實層（apply_programmatic）同一套。
@@ -194,6 +197,11 @@ def sync_market_rows(site, dry=False):
                 want = ck.unknown_status_text(site, lang, fc)
             if want and st[1] != want:
                 ch.append((st[0], st[1], want))
+            # 同一頁另有別名的狀態列（例：Jp 無新預測頁的「日本での販売状況」），值跟主狀態列一致（2026-11-17）
+            for lab in EXTRA_STATUS_LABELS.get(site, ()):
+                ex = next((r for r in rows if len(r) >= 2 and r[0] == lab), None)
+                if want and ex and ex[1] != want and lab != st[0]:
+                    ch.append((lab, ex[1], want))
         cr = ck.count_row(site, rows)
         if cr and site != "TwTxGNN" and (n is not None or partial):
             # 部分紀錄（total 為空）也要同步：用已收錄張數寫「至少 N」，與狀態列一致（2026-10-31 pm 退件 BR：張數列被跳過而留舊值）
