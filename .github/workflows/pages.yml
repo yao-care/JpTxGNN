@@ -25,7 +25,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           # 🔴 sitemap 的 lastmod 取 git commit 日期，淺 clone 只有一個 commit
           #    會讓全站日期一模一樣（＝假訊號，比沒有 lastmod 更糟）。
@@ -39,7 +39,7 @@ jobs:
       - name: Check docs SEO gate (permalinks, llms.txt, JSON-LD, brand block/search-index = brand_names.json)
         run: python3 scripts/check_seo_docs.py
       - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@44a6e6beabd48582f863aeeb6cb2151cc1716697 # v1
+        uses: actions/jekyll-build-pages@44a6e6beabd48582f863aeeb6cb2151cc1716697 # v1.0.13
         with:
           source: ./docs
           destination: ./_site
@@ -75,4 +75,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@cd2ce8fcbc39b97be8ca5fce6e763baed58fa128 # v5.0.0
+        uses: actions/deploy-pages@368f82528645a54fb793d4d04e342629a3f51346 # v5.0.1
