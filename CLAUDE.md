@@ -637,6 +637,10 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
 - `scripts/license_adapter.py`：fetch() 另收集主檔的廃止紀錄（HAISHI）、最新全件的コード記成 CURRENT（少於 15,000 或任一份下載失敗就不判定）；preprocess 對不在 CURRENT 且廃止年月日已過的コード標
   `license_status: cancelled`＋`yakka_deleted`（廃止日）＋`ssk_not_listed`（第一次發現日），status 改「薬価削除（YYYY-MM-DD[、後継コード N]）」（原值存 `status_before_yakka_deleted`），又出現在全件就還原；
   主檔沒有廃止紀錄的不推定。`confirmed_absent()` 讓排程把這些列成「主管機關現行清單確認已不列」，不算「查不到」。
+- 後継コード補收（同日）：91 張有後継コード的薬価削除コード中，43 張的後継コード（共 34 個コード）不在某些同一個證據包（含 22 個有藥物頁的證據包），有效張數少算。
+  本站沒有依成分重建證據包的程式，改由 `scripts/license_adapter.py` 的 preprocess 依最新全件ファイル那一列補一筆紀錄（欄位照 `scripts/convert_ssk_to_json.py` 的轉法，記 `yakka_successor_of`、`source`；收齊的證據包 total_matches 同步加），
+  每週排程會跟著做。ネオレスタミンコーワ散１％（620008671，クロルフェニラミン製劑，當初依片假名子字串誤收進 diphenhydramine 等證據包）的後継コード不補（NO_SUCCESSOR）。
+  238 個證據包補 377 筆；21 頁狀態列／張數列由排程同步（例：sertraline 有効 14→17 件以上、pitavastatin 16→19 件以上），都是部分收錄頁，正文沒有因此變成矛盾的句子。
 - 頁面照「薬価削除」寫，不寫承認取消：母目錄 check_drug_page.py 加 JP 的 SCOPE_CANCELLED（全部削除的頁狀態列＝「薬価基準収載品目なし（…すべて薬価基準から削除済み、国内の承認状況は未確認）」，troxipide 1 頁），
   ja 的 all_valid 排除「有効性」（loperamide 的「いずれも有効性を支持するものではありません」不是承認狀態）；本站 tools/txgnn 同步同一份。
 - 160 頁狀態列／張數列、25 格許可證表狀態格照事實層同步；正文寫「N 件すべて有効」而相反的 50 頁以 63 筆 `jp-lic-20261117-*`、表格列寫有効（troxipide 寫「取消」）的 10 列以 `jp-row-20261117-*` 更正

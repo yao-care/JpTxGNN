@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 24
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-17
 description: "Amlodipine：予測新適応症は脳幹梗塞 (Brain Stem Infarction)（エビデンスレベル L5）。既存適応症：血圧降下薬、血管拡張薬、カルシウムチャネル遮断薬"
 monitor_inn: "Amlodipine"
 predicted_indications: ["brain stem infarction", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "cerebral artery occlusion", "Braddock syndrome", "MRI defined brain infarct", "ABri amyloidosis", "intracerebral hemorrhage"]
@@ -50,8 +50,8 @@ TxGNN モデルは**脳幹梗塞 (Brain Stem Infarction)** に有効である可
 | 予測新規適応症 | 脳幹梗塞 (Brain Stem Infarction) |
 | TxGNN 予測スコア | 0.9994 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 15 件以上） |
-| 承認番号数 | 20 件以上 |
+| 日本市販状況 | 販売中（有効な承認 16 件以上） |
+| 承認番号数 | 21 件以上 |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由

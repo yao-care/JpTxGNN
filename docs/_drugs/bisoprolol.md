@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Bisoprolol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-17
 description: "Bisoprolol：予測新適応症は悪性高血圧性腎疾患 (malignant hypertensive renal disease)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 
@@ -50,8 +50,8 @@ TxGNN モデルは**悪性高血圧性腎疾患 (malignant hypertensive renal di
 | 予測新規適応症 | 悪性高血圧性腎疾患 (malignant hypertensive renal disease) |
 | TxGNN 予測スコア | 0.9994 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 18 件以上） |
-| 承認番号数 | 20 件以上 |
+| 日本市販状況 | 販売中（有効な承認 20 件以上） |
+| 承認番号数 | 22 件以上 |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由

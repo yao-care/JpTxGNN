@@ -17,6 +17,11 @@
   這是「薬価基準から削除」，頁面照這個寫，不寫承認取消。又出現在全件ファイル就還原。
 - 不在 CURRENT、主檔也沒有廃止紀錄的コード不推定，維持原狀態（排程照樣列為「查不到」）。
 - confirmed_absent(lid)：不在 CURRENT 且有廃止紀錄（下載到的或證據包已記的 yakka_deleted）。
+- 後継コード補收（2026-11-17）：薬価削除的コード有後継コード（主檔／経過措置一覧記的商品名関連コード）、後継コード在最新全件ファイル、
+  而同一個證據包沒有它時，preprocess 依最新全件ファイルの那一列補一筆紀錄（欄位照 scripts/convert_ssk_to_json.py 的轉法：
+  販売名＝漢字名称、一般名＝【般】名称、剤形與有効成分同一套切法、承認日＝変更年月日），記 yakka_successor_of（舊コード）與
+  source（全件ファイル名），total_matches 同步加；不刪舊紀錄（舊コード照舊標薬価削除）。後継コード是同一品目在薬価基準上的現行コード，
+  不補的話有效張數少算（例：セルトラリン錠２５ｍｇ「ＮＰ」等 5 個コード→ 622610900 セルトラリン塩酸塩２５ｍｇ錠）。
 """
 import csv
 import io
@@ -32,6 +37,13 @@ COVER_MIN = 0.85
 PAGE = "https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html"
 CURRENT: set = set()   # fetch() 填：最新全件ファイルの医薬品コード；空的就不做「不在主檔」判定
 HAISHI: dict = {}      # fetch() 填：コード → {"date": 廃止年月日, "succ": 後継コード or None, "src": 檔名}
+ROWS: dict = {}        # fetch() 填：最新全件ファイル的コード → 那一列（補後継コード紀錄用）
+LATEST = ""            # 最新全件ファイル名
+# 不補後継コード的舊コード（舊紀錄本身是誤收，補了會把別的成分算進來）
+NO_SUCCESSOR = {
+    "620008671": "ネオレスタミンコーワ散１％ 是クロルフェニラミンマレイン酸塩（YJ 4419003），當初依片假名「ﾚｽﾀﾐﾝｺｰﾜ」子字串收進 diphenhydramine 等證據包；"
+                 "後継コード 611410185 クロルフェニラミンマレイン酸塩散 １％ 不補",
+}
 MIN_CURRENT = 15000
 _RECORDED = None       # 證據包已標 yakka_deleted 的コード（confirmed_absent 用，第一次呼叫時掃描）
 
@@ -71,10 +83,32 @@ def fetch():
     except Exception as e:
         print(f"改定分／経過措置一覧下載失敗，不判定不在主檔的コード：{e}")
         hs = None
+    ROWS.clear()
     if hs is not None and len(out) >= MIN_CURRENT:
         CURRENT.update(r["code"] for r in out)
         HAISHI.update(hs)
+        ROWS.update({c[2].strip(): c for c in rows})
+        global LATEST
+        LATEST = href.rsplit("/", 1)[-1]
     return out
+
+
+def _successor_record(code, old):
+    """最新全件ファイルの一列 → 證據包 pmda 紀錄（欄位與 scripts/convert_ssk_to_json.py → collectors/jpfda.py 的轉法相同）"""
+    import importlib.util
+    from pathlib import Path
+    sp = importlib.util.spec_from_file_location("_ssk", Path(__file__).resolve().parent / "convert_ssk_to_json.py")
+    m = importlib.util.module_from_spec(sp)
+    sp.loader.exec_module(m)
+    c = ROWS[code]
+    brand, kana = c[4].strip(), c[6].strip()
+    generic = re.sub(r"^【般】", "", c[37].strip() if len(c) > 37 else "").strip()
+    base, form = m.parse_drug_name(brand)
+    ing = m.extract_generic_name(generic, "") if generic else m.extract_generic_name(base, kana)
+    return {"license_id": code, "brand_name_zh": brand, "brand_name_en": generic, "ingredients": ing, "indication": "",
+            "dosage_form": form, "manufacturer": "", "license_holder": "", "approval_date": c[29].strip(), "expiry_date": "",
+            "status": "有効", "yakka_successor_of": sorted(old),
+            "source": f"医薬品マスター全件ファイル {LATEST}（薬価削除コード {'、'.join(sorted(old))} の後継コード）"}
 
 
 def _fetch_haishi(page, latest):
@@ -157,6 +191,29 @@ def preprocess(bundle):
             if succ:
                 r["yakka_successor"] = succ
             ch = True
+    # 後継コード補收：同一個證據包沒有的後継コード補一筆（已補過的只更新 yakka_successor_of）
+    recs = (bundle.get("pmda") or {}).get("records") or []
+    if ROWS and recs:
+        have = {str(r.get("license_id") or "").strip(): r for r in recs}
+        want = {}
+        for r in recs:
+            succ = str(r.get("yakka_successor") or "").strip()
+            if r.get("yakka_deleted") and succ in ROWS and str(r.get("license_id")).strip() not in NO_SUCCESSOR:
+                want.setdefault(succ, set()).add(str(r.get("license_id")).strip())
+        n0 = len(recs)
+        for succ, old in sorted(want.items()):
+            if succ not in have:
+                recs.append(_successor_record(succ, old))
+                ch = True
+            elif "yakka_successor_of" in have[succ] and sorted(set(have[succ]["yakka_successor_of"]) | old) != have[succ]["yakka_successor_of"]:
+                have[succ]["yakka_successor_of"] = sorted(set(have[succ]["yakka_successor_of"]) | old)
+                ch = True
+        if len(recs) > n0:
+            reg = bundle["pmda"]
+            tm = int(reg.get("total_matches") or 0)
+            # 收齊的證據包（total_matches＝紀錄數）跟著加；只收了部分的（total_matches 較多）維持原值，照舊算部分收錄
+            reg["total_matches"] = len(recs) if tm <= n0 else max(tm, len(recs))
+            reg["found"] = True
     return ch
 
 

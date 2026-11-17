@@ -5,7 +5,7 @@ parent: 中エビデンスレベル
 nav_order: 214
 evidence_level: L3
 indication_count: 2
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-17
 monitor_inn: "Montelukast"
 predicted_indications: ["bronchitis", "atopic eczema"]
 description: "Montelukast：予測新適応症は気管支炎 (bronchitis)（エビデンスレベル L3）。既存適応症：日本の承認情報に適応症の記載なし"
@@ -49,8 +49,8 @@ TxGNN モデルは**気管支炎 (Bronchitis)** に有効である可能性を�
 | 予測新規適応症 | 気管支炎 (bronchitis) |
 | TxGNN 予測スコア | 0.9995 |
 | エビデンスレベル | L3 |
-| 日本市販状況 | 販売中（有効な承認 15 件以上） |
-| 承認番号数 | 20 件以上 |
+| 日本市販状況 | 販売中（有効な承認 16 件以上） |
+| 承認番号数 | 21 件以上 |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由

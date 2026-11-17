@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Quetiapine"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "hydranencephaly (disease)", "distal 17p13.3 microdeletion syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "trichotillomania", "syndromic myopia", "myopia 26, X-linked, female-limited"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-17
 description: "Quetiapine：予測新適応症は網膜ジストロフィー（眼外異常を伴う、または伴わない）（エビデンスレベル L5）。既存適応症：統合失調症、双極性障害におけるうつ症状"
 ---
 
@@ -49,8 +49,8 @@ TxGNN モデルは**網膜ジストロフィー（retinal dystrophy with or with
 | 予測新規適応症 | 網膜ジストロフィー（眼外異常を伴う、または伴わない） |
 | TxGNN 予測スコア | 0.9957 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 18 件以上） |
-| 承認番号数 | 20 件以上 |
+| 日本市販状況 | 販売中（有効な承認 19 件以上） |
+| 承認番号数 | 21 件以上 |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由

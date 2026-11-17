@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Silodosin"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-17
 description: "Silodosin：予測新適応症はAmbras 型先天性汎発性多毛症 (Ambras type hypertrichosis universalis congenita)（エビデンスレベル L5）。既存適応症：排尿障害改善薬、α1アドレナリン受容体拮抗薬"
 ---
 
@@ -50,8 +50,8 @@ TxGNN モデルは **Ambras 型先天性汎発性多毛症 (Ambras type hypertri
 | 予測新規適応症 | Ambras 型先天性汎発性多毛症 (Ambras type hypertrichosis universalis congenita) |
 | TxGNN 予測スコア | 0.9999 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 19 件以上） |
-| 承認番号数 | 20 件以上 |
+| 日本市販状況 | 販売中（有効な承認 20 件以上） |
+| 承認番号数 | 21 件以上 |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由

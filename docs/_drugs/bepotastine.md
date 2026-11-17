@@ -3,7 +3,7 @@ layout: default
 title: Bepotastine
 parent: 既知の用途のみ（新規予測なし）
 nav_order: 54
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-17
 description: "Bepotastine: 日本における既知の用途と市場状況。現時点で新たな候補適応症はありません"
 predicted_indications: []
 indication_count: 0
@@ -44,8 +44,8 @@ Bepotastine（ベポタスチン）についてTxGNNモデルが出力した候�
 
 | 項目 | 内容 |
 |------|------|
-| 日本市販状況 | 販売中（有効な承認 18 件以上） |
-| 承認番号数 | 20 件以上 |
+| 日本市販状況 | 販売中（有効な承認 19 件以上） |
+| 承認番号数 | 21 件以上 |
 | モデル候補のうち既知の用途 | 1 |
 | 日本での販売状況 | 販売中（有効な承認 20 件以上） |
 

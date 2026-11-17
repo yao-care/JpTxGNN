@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Clarithromycin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "punctate epithelial keratoconjunctivitis", "blood group incompatibility"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-17
 description: "Clarithromycin：予測新適応症は多クローン性高粘稠度症候群（エビデンスレベル L5）。既存適応症：非結核性抗酸菌症、マイコバクテリウム・アビウムコンプレックス(MAC)症、ヘリコバクター・ピロリ感染症、歯周組織炎、猩紅熱、百日咳"
 ---
 
@@ -49,8 +49,8 @@ TxGNN モデルは**多クローン性高粘稠度症候群 (polyclonal hypervis
 | 予測新規適応症 | 多クローン性高粘稠度症候群 |
 | TxGNN 予測スコア | 0.9935 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 17 件以上） |
-| 承認番号数 | 20 件以上 |
+| 日本市販状況 | 販売中（有効な承認 18 件以上） |
+| 承認番号数 | 21 件以上 |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由

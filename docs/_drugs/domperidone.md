@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Domperidone"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-17
 description: "Domperidone：予測新適応症は腎性抗利尿ホルモン不適合分泌症候群 (nephrogenic syndrome of inappropriate antidiuresis)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 
@@ -49,8 +49,8 @@ TxGNN モデルは**腎性抗利尿ホルモン不適合分泌症候群 (nephrog
 | 予測新規適応症 | 腎性抗利尿ホルモン不適合分泌症候群 (nephrogenic syndrome of inappropriate antidiuresis) |
 | TxGNN 予測スコア | 0.9908 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 19 件以上） |
-| 承認番号数 | 20 件以上 |
+| 日本市販状況 | 販売中（有効な承認 20 件以上） |
+| 承認番号数 | 21 件以上 |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由

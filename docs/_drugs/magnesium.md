@@ -3,7 +3,7 @@ layout: default
 title: Magnesium
 parent: 既知の用途のみ（新規予測なし）
 nav_order: 226
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-17
 description: "Magnesium: 日本における既知の用途と市場状況。現時点で新たな候補適応症はありません"
 predicted_indications: []
 indication_count: 0
@@ -44,8 +44,8 @@ Magnesium（マグネシウム）については、TxGNNディープラーニン
 
 | 項目 | 内容 |
 |------|------|
-| 日本市販状況 | 販売中（有効な承認 17 件以上） |
-| 承認番号数 | 20 件以上 |
+| 日本市販状況 | 販売中（有効な承認 19 件以上） |
+| 承認番号数 | 22 件以上 |
 | この薬剤に記録されている既知の用途 | 1 |
 | 日本での販売状況 | 販売中（有効な承認 20 件以上） |
 

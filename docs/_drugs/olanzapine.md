@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 224
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-17
 description: "Olanzapine：予測新適応症は良性乳児発作性斜頸 (benign paroxysmal torticollis of infancy)（エビデンスレベル L5）。既存適応症：統合失調症、双極性障害"
 monitor_inn: "Olanzapine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia"]
@@ -52,8 +52,8 @@ TxGNN モデルは**良性乳児発作性斜頸 (benign paroxysmal torticollis o
 | 予測新規適応症 | 良性乳児発作性斜頸 (benign paroxysmal torticollis of infancy) |
 | TxGNN 予測スコア | 0.9954 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 17 件以上） |
-| 承認番号数 | 20 件以上 |
+| 日本市販状況 | 販売中（有効な承認 19 件以上） |
+| 承認番号数 | 22 件以上 |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Sertraline"
 predicted_indications: ["schizoid personality disorder", "schizotypal personality disorder", "paranoid personality disorder", "histrionic personality disorder (disease)", "benign paroxysmal torticollis of infancy", "dependent personality disorder", "narcissistic personality disorder"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-17
 description: "Sertraline：予測新適応症はシゾイドパーソナリティ障害 (schizoid personality disorder)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
 ---
 
@@ -50,8 +50,8 @@ TxGNN モデルは**シゾイドパーソナリティ障害 (Schizoid Personalit
 | 予測新規適応症 | シゾイドパーソナリティ障害 (schizoid personality disorder) |
 | TxGNN 予測スコア | 0.9993 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 14 件以上） |
-| 承認番号数 | 20 件以上 |
+| 日本市販状況 | 販売中（有効な承認 17 件以上） |
+| 承認番号数 | 23 件以上 |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由

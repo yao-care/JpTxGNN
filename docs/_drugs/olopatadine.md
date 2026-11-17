@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 226
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-17
 description: "Olopatadine：予測新適応症は酒さ性結膜炎 (Rosacea Conjunctivitis)（エビデンスレベル L5）。既存適応症：アレルギー性鼻炎、尋常性乾癬（抗アレルギー薬、H1 受容体拮抗薬）"
 monitor_inn: "Olopatadine"
 predicted_indications: ["rosacea conjunctivitis"]
@@ -50,8 +50,8 @@ TxGNN モデルは**酒さ性結膜炎 (Rosacea Conjunctivitis)** に有効で�
 | 予測新規適応症 | 酒さ性結膜炎 (Rosacea Conjunctivitis) |
 | TxGNN 予測スコア | 0.9941 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 17 件以上） |
-| 承認番号数 | 20 件以上 |
+| 日本市販状況 | 販売中（有効な承認 18 件以上） |
+| 承認番号数 | 21 件以上 |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由

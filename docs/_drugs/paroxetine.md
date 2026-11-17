@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 236
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-17
 monitor_inn: "Paroxetine"
 predicted_indications: ["Ohdo syndrome and variants"]
 description: "Paroxetine：予測新適応症はOhdo 症候群および類縁疾患 (Ohdo syndrome and variants)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
@@ -49,8 +49,8 @@ TxGNN モデルは最上位の予測として **Ohdo 症候群および類縁疾
 | 予測新規適応症 | Ohdo 症候群および類縁疾患 (Ohdo syndrome and variants) |
 | TxGNN 予測スコア | 0.9911 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 18 件以上） |
-| 承認番号数 | 20 件以上 |
+| 日本市販状況 | 販売中（有効な承認 20 件以上） |
+| 承認番号数 | 22 件以上 |
 | 推奨決定 | Hold |
 
 ※最上位候補（Ohdo 症候群）のみの評価です。他の候補の評価は「結論と次のステップ」に示します。
