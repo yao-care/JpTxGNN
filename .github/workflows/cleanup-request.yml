@@ -1,0 +1,57 @@
+# 清理請求（2026-11-17，用戶同意）：雲端 session 經 GitHub 代理不能刪分支／Release（403），
+# 改成 push .github/cleanup-request（JSON：{"branches": [...], "releases": [...]}）到 main 觸發，由本 workflow 用 GITHUB_TOKEN 刪。
+# 防呆：不刪 main、claude/*、backup/* 分支；Release 只刪 data-*（不含 -handoff），而且最新兩個 data-* 一律保留（執行時重算）。
+name: Cleanup request
+
+on:
+  push:
+    branches: [main]
+    paths: ['.github/cleanup-request']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: cleanup-request
+  cancel-in-progress: false
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      GH_TOKEN: ${{ github.token }}
+      REPO: ${{ github.repository }}
+    steps:
+      - uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
+      - name: Delete requested branches and releases
+        run: |
+          python3 - <<'PY'
+          import json, os, subprocess, sys
+          repo = os.environ["REPO"]
+          req = json.load(open(".github/cleanup-request"))
+          def gh(*a):
+              return subprocess.run(["gh", *a], capture_output=True, text=True)
+          bad = 0
+          for b in req.get("branches", []):
+              if b == "main" or b.startswith(("claude/", "backup/")):
+                  print(f"skip protected branch {b}"); continue
+              r = gh("api", "-X", "DELETE", f"repos/{repo}/git/refs/heads/{b}")
+              ok = r.returncode == 0 or "Reference does not exist" in r.stderr
+              print(("deleted" if ok else "FAILED"), "branch", b, r.stderr.strip()[:200]); bad += not ok
+          out = gh("api", "--paginate", f"repos/{repo}/releases?per_page=100", "--jq", ".[] | [.tag_name, .created_at] | @tsv")
+          if out.returncode != 0: sys.exit("cannot list releases: " + out.stderr)
+          rel = [dict(zip(("tag_name", "created_at"), l.split("\t"))) for l in out.stdout.splitlines() if l.strip()]
+          data = sorted([r for r in rel if r["tag_name"].startswith("data-") and "handoff" not in r["tag_name"]], key=lambda r: r["created_at"])
+          keep = {r["tag_name"] for r in data[-2:]}
+          exists = {r["tag_name"] for r in rel}
+          for t in req.get("releases", []):
+              if not t.startswith("data-") or "handoff" in t or t in keep:
+                  print(f"skip protected release {t}"); continue
+              if t not in exists:
+                  print(f"already gone {t}"); continue
+              r = gh("release", "delete", t, "--repo", repo, "--cleanup-tag", "--yes")
+              print(("deleted" if r.returncode == 0 else "FAILED"), "release", t, r.stderr.strip()[:200]); bad += r.returncode != 0
+          print("kept newest data releases:", sorted(keep))
+          sys.exit(1 if bad else 0)
+          PY

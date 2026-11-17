@@ -1,0 +1,10 @@
+{
+ "branches": [
+  "checker-m3x-20261105",
+  "dependabot/bundler/docs/jekyll-remote-theme-0.5.1"
+ ],
+ "releases": [
+  "data-20261029"
+ ],
+ "_note": "2026-11-17 用戶同意的清理：已關 PR 的 dependabot 分支、已併進 main 的 11-05 一次性分支；data-* Release 只刪 repo 內沒有引用、內容只有本站 data 檔、且不是最新兩版的。"
+}
