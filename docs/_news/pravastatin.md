@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "メバロチン錠５　５ｍｇ（選） に関する健康ニュース。予測適応症 6 件。"
 permalink: /news/pravastatin/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 ---
 
 # メバロチン錠５　５ｍｇ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-16
 ---
 
 <p class="key-answer" data-question="メバロチン錠５　５ｍｇ（選） に関するニュースは？">
-<strong>メバロチン錠５　５ｍｇ（選）</strong> には現在 <strong>17 件</strong>の関連ニュースがあり、予測適応症は 6 件です。
+<strong>メバロチン錠５　５ｍｇ（選）</strong> には現在 <strong>18 件</strong>の関連ニュースがあり、予測適応症は 6 件です。
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,15 @@ last_modified_at: 2026-11-16
 <p><a href="{{ '/drugs/pravastatin/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（17 件）
+## 関連ニュース（18 件）
+
+### [52歳で「自分の中にがんがいる」と知った日。痛くて避けていた検診でステージ0と告知【体験談】(HALMEK up)](https://news.yahoo.co.jp/articles/54156e5ae6e1214292f277dc7de5bc210ec74aa1?source=rss)
+
+2026-11-17 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
+
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/54156e5ae6e1214292f277dc7de5bc210ec74aa1?source=rss)
+
+---
 
 ### [【写真】鹿児島県が17日からHIV無料検査―レッドリボン月間で平日夜と休日、県内14保健所](https://news.google.com/rss/articles/CBMiV0FVX3lxTE0zdURQNWlPZWJmamgySUVsNzdEaVhHTHBqaTBQUndPa0w5SGFzUlY5UkV2b09paHhkZGhReFZmQzF1X0JnR1VQRUZOV2RxczBPZU1VZV9Qbw?oc=5)
 
@@ -88,11 +96,11 @@ last_modified_at: 2026-11-16
 
 ---
 
-### [【闘病】25歳で『乳がん』ステージ2A 後悔は「医療保険に入っていなかったこと」（メディカルドック）](https://news.google.com/rss/articles/CBMif0FVX3lxTE5WckJjUDl5UThGeXk2MmFzY3FHcjcwaHNpZTZITElGN2dZdnQ1ZUVpQkxiUGdjdUI2Q0x1ZDZzd0FlOHh3bzJnNk9ubHdrUHdKUlJsLWliMWRWaFY1QXRJZm11bmxjOUdpN1BVVl9rS3JNa2xfa3VwaEV4QVZmTVU?oc=5)
+### [【闘病】25歳で『乳がん』ステージ2A 後悔は「医療保険に入っていなかったこと」(メディカルドック)](https://news.yahoo.co.jp/articles/c2ecd1bd304a3d3f92a062944a3ae7ea63e8f342?source=rss)
 
 2026-11-14 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
 
-出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE5WckJjUDl5UThGeXk2MmFzY3FHcjcwaHNpZTZITElGN2dZdnQ1ZUVpQkxiUGdjdUI2Q0x1ZDZzd0FlOHh3bzJnNk9ubHdrUHdKUlJsLWliMWRWaFY1QXRJZm11bmxjOUdpN1BVVl9rS3JNa2xfa3VwaEV4QVZmTVU?oc=5) · [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/c2ecd1bd304a3d3f92a062944a3ae7ea63e8f342?source=rss)
+出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/c2ecd1bd304a3d3f92a062944a3ae7ea63e8f342?source=rss)
 
 ---
 
