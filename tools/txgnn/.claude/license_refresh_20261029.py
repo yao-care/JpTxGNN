@@ -170,9 +170,15 @@ def main(argv):
     cover = sum(1 for i in ids if i in idx) / max(1, len(ids))
     S["steps"].append(f"下載 {len(new)} 筆（上次 {len(old) if old is not None else '無'} 筆）；證據包裡 {len(ids)} 張許可證，新資料涵蓋 {cover:.1%}")
     cmin = getattr(ad, "COVER_MIN", 0.95)
-    S["not_in_source"] = sorted(i for i in ids if i not in idx)[:300]  # 新資料查不到的許可證：保留原狀態，只列出來
+    # 站專屬：adapter.confirmed_absent(id) 為真＝主管機關的現行清單（不只狀態檔）確認已不列這張許可，preprocess 會標註銷；
+    # 這種不算「查不到」，另外列（CH 2026-11-17，用戶要求確認 91 張的實際狀態）。沒有這個函式的站行為不變
+    gone = sorted(i for i in ids if i not in idx and hasattr(ad, "confirmed_absent") and ad.confirmed_absent(i))
+    if gone:
+        S["confirmed_absent"] = gone[:300]
+        S["steps"].append(f"主管機關現行清單確認已不列 {len(gone)} 張（標註銷，不算查不到）")
+    S["not_in_source"] = sorted(i for i in ids if i not in idx and i not in set(gone))[:300]  # 新資料查不到的許可證：保留原狀態，只列出來
     if S["not_in_source"]:
-        n_miss = sum(1 for i in ids if i not in idx)
+        n_miss = sum(1 for i in ids if i not in idx and i not in set(gone))
         S["steps"].append(f"新資料查不到 {n_miss} 張許可證（保留原狀態，不推定為撤銷）")
         S["missing_alert"] = n_miss / max(1, len(ids)) > (1 - cmin) + 0.02 if cmin < 0.95 else n_miss / max(1, len(ids)) > 0.02  # 超過基準 2% 開 issue（pm 2026-10-30）
     # cmin：站專屬涵蓋門檻（例：Za 匯出檔不含舊制藥品，見轉換器說明）
