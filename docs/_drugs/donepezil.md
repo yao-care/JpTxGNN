@@ -50,7 +50,7 @@ TxGNN モデルは**心因性運動障害 (psychogenic movement disorders)** に
 | 予測新規適応症 | 心因性運動障害 (psychogenic movement disorders) |
 | TxGNN 予測スコア | 0.9923 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 20 件以上） |
+| 日本市販状況 | 販売中（有効な承認 17 件以上） |
 | 承認番号数 | 20 件以上 |
 | 推奨決定 | Hold |
 

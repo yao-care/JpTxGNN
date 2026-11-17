@@ -50,7 +50,7 @@ description: "Simvastatin：予測新適応症はBrain stem infarction（エビ�
 | 予測新規適応症 | Brain stem infarction |
 | TxGNN 予測スコア | 0.9941 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 20 件以上） |
+| 日本市販状況 | 販売中（有効な承認 14 件以上） |
 | 承認番号数 | 20 件以上 |
 | 推奨決定 | Proceed with Guardrails |
 

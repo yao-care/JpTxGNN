@@ -50,8 +50,8 @@ TxGNN モデルは**原因不明の多因子性肺高血圧症 (pulmonary hypert
 | 予測新規適応症 | 原因不明の多因子性肺高血圧症 (pulmonary hypertension with unclear multifactorial mechanism) |
 | TxGNN 予測スコア | 0.9926 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 12 件／全 12 件） |
-| 承認番号数 | 12 件（有効 12 件） |
+| 日本市販状況 | 販売中（有効な承認 11 件／全 12 件） |
+| 承認番号数 | 12 件（有効 11 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -103,7 +103,13 @@ TxGNN モデルは**原因不明の多因子性肺高血圧症 (pulmonary hypert
 **決定：Hold**
 
 **理由：**
-根拠は TxGNN の予測のみ（L5）で、この適応症に対する臨床試験も文献もありません。また、日本では販売されており、承認12件のうち12件が有効ですが、添付文書の安全性情報は未取得です。機序上の仮説はありますが、全身性血管拡張が肺の換気血流バランスを悪化させる懸念もあります。
+根拠は TxGNN の予測のみ（L5）で、この適応症に対する臨床試験も文献もありません。また、日本では販売されており、承認12件のうち11件が有効ですが（1件は薬価基準から削除済み）、添付文書の安全性情報は未取得です。機序上の仮説はありますが、全身性血管拡張が肺の換気血流バランスを悪化させる懸念もあります。
+
+<!-- review:begin jp-lic-20261117-nicardipine-1 -->
+
+> **確認による訂正（2026-11-17）**：元の記載は「承認12件のうち12件が有効ですが、」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 12 件のうち有効（収載中）は 11 件で、1 件は経過措置期間満了などにより薬価基準から削除されています（670454081（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+
+<!-- review:end jp-lic-20261117-nicardipine-1 -->
 
 **進める場合に必要なもの：**
 - PMDA 添付文書の警告・禁忌の取得と確認（現在の最優先課題）
@@ -126,6 +132,7 @@ TxGNN モデルは**原因不明の多因子性肺高血圧症 (pulmonary hypert
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「日本で承認が取消されている経緯と、現在の供給状況の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 
 <!-- review:end log -->
 

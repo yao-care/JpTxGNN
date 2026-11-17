@@ -49,7 +49,7 @@ description: "Zolpidem：予測新適応症はBenign paroxysmal torticollis of i
 | 予測新規適応症 | Benign paroxysmal torticollis of infancy |
 | TxGNN 予測スコア | 0.9926 |
 | エビデンスレベル | L5（データ上の判定。ただし直接の臨床試験は未登録で、文献ベース） |
-| 日本市販状況 | 販売中（有効な承認 20 件以上） |
+| 日本市販状況 | 販売中（有効な承認 19 件以上） |
 | 承認番号数 | 20 件以上 |
 | 推奨決定 | Proceed with Guardrails |
 

@@ -52,7 +52,7 @@ TxGNN モデルは**良性乳児発作性斜頸 (benign paroxysmal torticollis o
 | 予測新規適応症 | 良性乳児発作性斜頸 (benign paroxysmal torticollis of infancy) |
 | TxGNN 予測スコア | 0.9954 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 20 件以上） |
+| 日本市販状況 | 販売中（有効な承認 17 件以上） |
 | 承認番号数 | 20 件以上 |
 | 推奨決定 | Hold |
 

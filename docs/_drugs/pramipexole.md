@@ -50,7 +50,7 @@ TxGNN モデルは**注意欠如・多動症 (attention deficit-hyperactivity di
 | 予測新規適応症 | 注意欠如・多動症 (attention deficit-hyperactivity disorder) |
 | TxGNN 予測スコア | 1.0000 |
 | エビデンスレベル | L4 |
-| 日本市販状況 | 販売中（有効な承認 20 件以上） |
+| 日本市販状況 | 販売中（有効な承認 18 件以上） |
 | 承認番号数 | 20 件以上 |
 | 推奨決定 | Hold |
 

@@ -50,8 +50,8 @@ TxGNN モデルは**酒さ性結膜炎 (Rosacea Conjunctivitis)** に有効で�
 | 予測新規適応症 | 酒さ性結膜炎 (Rosacea Conjunctivitis) |
 | TxGNN 予測スコア | 0.9920 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 8 件／全 8 件） |
-| 承認番号数 | 8 件（有効 8 件） |
+| 日本市販状況 | 販売中（有効な承認 7 件／全 8 件） |
+| 承認番号数 | 8 件（有効 7 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -62,7 +62,13 @@ TxGNN モデルは**酒さ性結膜炎 (Rosacea Conjunctivitis)** に有効で�
 
 ## 日本市販情報
 
-現在、8件の承認のうち8件が有効で、国内で販売されています。
+現在、8件の承認のうち7件が有効で（1件は薬価基準から削除済み）、国内で販売されています。
+
+<!-- review:begin jp-lic-20261117-diphenhydramine-1 -->
+
+> **確認による訂正（2026-11-17）**：元の記載は「現在、8件の承認のうち8件が有効で、国内で販売されています。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 8 件のうち有効（収載中）は 7 件で、1 件は経過措置期間満了などにより薬価基準から削除されています（620008671（廃止年月日 2026-09-30、後継コード 611410185））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+
+<!-- review:end jp-lic-20261117-diphenhydramine-1 -->
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
@@ -117,6 +123,7 @@ TxGNN モデルは**酒さ性結膜炎 (Rosacea Conjunctivitis)** に有効で�
 |------|------|------|------|
 | 2026-11-06 | 削除：「さらに、日本では現在有効な承認がありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-06 | 削除：「現在有効な承認がないことを踏まえた、開発・導入方針の整理」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 
 <!-- review:end log -->
 

@@ -50,8 +50,8 @@ TxGNN モデルは**脂漏性角化症 (Seborrheic Keratosis)** に有効であ�
 | 予測新規適応症 | 脂漏性角化症 (Seborrheic Keratosis) |
 | TxGNN 予測スコア | 0.9998 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 20 件／全 20 件） |
-| 承認番号数 | 20 件（有効 20 件） |
+| 日本市販状況 | 販売中（有効な承認 17 件／全 20 件） |
+| 承認番号数 | 20 件（有効 17 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -78,7 +78,13 @@ TxGNN モデルは**脂漏性角化症 (Seborrheic Keratosis)** に有効であ�
 
 ## 日本市販情報
 
-トラニラストを含む製品は国内で販売されており、承認20件のうち20件が有効です。主な承認は以下のとおりです。
+トラニラストを含む製品は国内で販売されており、承認20件のうち17件が有効です（3件は薬価基準から削除済み）。主な承認は以下のとおりです。
+
+<!-- review:begin jp-lic-20261117-tranilast-1 -->
+
+> **確認による訂正（2026-11-17）**：元の記載は「承認20件のうち20件が有効です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 20 件のうち有効（収載中）は 17 件で、3 件は経過措置期間満了などにより薬価基準から削除されています（622024401（廃止年月日 2026-09-30、後継コード 622772500）、670002549（廃止年月日 2026-03-31）、622743500（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+
+<!-- review:end jp-lic-20261117-tranilast-1 -->
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
@@ -130,6 +136,7 @@ TxGNN モデルは**脂漏性角化症 (Seborrheic Keratosis)** に有効であ�
 |------|------|------|------|
 | 2026-11-06 | 削除：「日本での有効な承認もなく、安全性情報（警告・禁忌）も未確認のため、現時点では開発を進められません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-06 | 削除：「現在有効な承認がないため、製造販売の再開や開発主体に関する規制面の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 
 <!-- review:end log -->
 

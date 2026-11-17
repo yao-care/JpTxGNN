@@ -49,7 +49,7 @@ TxGNN モデルは**肢中間部異形成症 Hunter-Thompson 型 (acromesomelic 
 | 予測新規適応症 | 肢中間部異形成症 Hunter-Thompson 型 (acromesomelic dysplasia, Hunter-Thompson type) |
 | TxGNN 予測スコア | 0.9992 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 20 件以上） |
+| 日本市販状況 | 販売中（有効な承認 17 件以上） |
 | 承認番号数 | 20 件以上 |
 | 推奨決定 | Hold |
 

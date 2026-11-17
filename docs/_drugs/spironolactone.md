@@ -50,8 +50,8 @@ description: "Spironolactone：予測新適応症はHypotrichosis simplex of the
 | 予測新規適応症 | Hypotrichosis simplex of the scalp |
 | TxGNN 予測スコア | 0.9926 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 14 件／全 14 件） |
-| 承認番号数 | 14 件（有効 14 件） |
+| 日本市販状況 | 販売中（有効な承認 11 件／全 14 件） |
+| 承認番号数 | 14 件（有効 11 件） |
 | 推奨決定 | Proceed with Guardrails |
 
 ## この予測が妥当である理由
@@ -90,7 +90,13 @@ description: "Spironolactone：予測新適応症はHypotrichosis simplex of the
 | 612130039 | アルダクトンＡ錠５０ｍｇ | 錠５０ｍｇ | 高血圧症、原発性アルドステロン症（有効） |
 | 620266305 | スピロノラクトン錠２５ｍｇ「ＣＨ」 | 錠２５ｍｇ「ＣＨ」 | 高血圧症、原発性アルドステロン症（有効） |
 | 620266132 | スピロノラクトン錠２５ｍｇ「日医工」 | 錠２５ｍｇ「日医工」 | 高血圧症、原発性アルドステロン症（有効） |
-| 620266148 | スピロノラクトン錠２５ｍｇ「杏林」 | 錠２５ｍｇ「杏林」 | 高血圧症、原発性アルドステロン症（有効） |
+| 620266148 | スピロノラクトン錠２５ｍｇ「杏林」 | 錠２５ｍｇ「杏林」 | 高血圧症、原発性アルドステロン症（薬価削除：2026-09-30、後継コード 622315800） |
+
+<!-- review:begin jp-row-20261117-spironolactone-1 -->
+
+> **確認による訂正（2026-11-17）**：元の記載は「620266148／スピロノラクトン錠２５ｍｇ「杏林」／錠２５ｍｇ「杏林」／高血圧症、原発性アルドステロン症（有効）」でした。訂正：医薬品マスター（薬価基準収載品目）では 620266148 は廃止年月日 2026-09-30 で薬価基準から削除され、2026-11-12 の全件ファイルに収載されていません（後継コード 622315800 は収載中）。表の状態の記載だけを直しました。承認の取消しを意味するものではありません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+
+<!-- review:end jp-row-20261117-spironolactone-1 -->
 
 ## 安全性に関する考慮事項
 
@@ -128,6 +134,7 @@ description: "Spironolactone：予測新適応症はHypotrichosis simplex of the
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「なく、日本では有効な承認が現在」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-17 | 表：620266148 は有効ではなく薬価基準から削除済み | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 
 <!-- review:end log -->
 

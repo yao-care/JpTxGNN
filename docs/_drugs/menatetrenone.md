@@ -50,8 +50,8 @@ TxGNN モデルは**結膜脂肪腫 (lipoma of the conjunctiva)** に有効で�
 | 予測新規適応症 | 結膜脂肪腫 (lipoma of the conjunctiva) |
 | TxGNN 予測スコア | 0.9991 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 7 件／全 7 件） |
-| 承認番号数 | 7 件（有効 7 件） |
+| 日本市販状況 | 販売中（有効な承認 5 件／全 7 件） |
+| 承認番号数 | 7 件（有効 5 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -72,7 +72,13 @@ TxGNN モデルは**結膜脂肪腫 (lipoma of the conjunctiva)** に有効で�
 | 620008109 | メナテトレノンカプセル１５ｍｇ「トーワ」 | カプセル | 止血薬、骨粗鬆症治療薬（骨粗鬆症） |
 | 622958100 | メナテトレノン１５ｍｇカプセル | カプセル | 止血薬、骨粗鬆症治療薬（骨粗鬆症） |
 
-上記を含む 7 件の承認はすべて有効です。
+上記を含む 7 件の承認のうち 5 件が有効です（2 件は薬価基準から削除済み）。
+
+<!-- review:begin jp-lic-20261117-menatetrenone-1 -->
+
+> **確認による訂正（2026-11-17）**：元の記載は「上記を含む 7 件の承認はすべて有効です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 7 件のうち有効（収載中）は 5 件で、2 件は経過措置期間満了などにより薬価基準から削除されています（621804203（廃止年月日 2026-09-30、後継コード 622958100）、620005573（廃止年月日 2026-09-30、後継コード 622958100））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+
+<!-- review:end jp-lic-20261117-menatetrenone-1 -->
 
 ## 安全性に関する考慮事項
 
@@ -114,6 +120,7 @@ TxGNN モデルは**結膜脂肪腫 (lipoma of the conjunctiva)** に有効で�
 |------|------|------|------|
 | 2026-11-06 | 削除：「また、日本では現在有効な承認がなく、添付文書に基づく安全性評価もできていません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-06 | 削除：「承認整理の経緯」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 
 <!-- review:end log -->
 

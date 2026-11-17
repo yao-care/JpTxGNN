@@ -50,8 +50,8 @@ TxGNN モデルは**関節リウマチ (Rheumatoid Arthritis)** に有効であ�
 | 予測新規適応症 | 関節リウマチ (Rheumatoid Arthritis) |
 | TxGNN 予測スコア | 0.9980 |
 | エビデンスレベル | L4 |
-| 日本市販状況 | 販売中（有効な承認 8 件／全 8 件） |
-| 承認番号数 | 8 件（有効 8 件） |
+| 日本市販状況 | 販売中（有効な承認 7 件／全 8 件） |
+| 承認番号数 | 8 件（有効 7 件） |
 | 推奨決定 | Hold（研究課題として継続） |
 
 ## この予測が妥当である理由
@@ -85,7 +85,13 @@ TxGNN モデルは**関節リウマチ (Rheumatoid Arthritis)** に有効であ�
 | 620002492 | トラクリア錠62.5mg | 錠 62.5mg | 肺動脈性肺高血圧症、全身性強皮症（承認有効） |
 | 622525001 | ボセンタン錠62.5mg「JG」 | 錠 62.5mg | 肺動脈性肺高血圧症、全身性強皮症（承認有効） |
 | 670002492 | トラクリア錠62.5mg（選） | 錠 62.5mg | 肺動脈性肺高血圧症、全身性強皮症（承認有効） |
-| 622512801 | ボセンタン錠62.5mg「モチダ」 | 錠 62.5mg | 肺動脈性肺高血圧症、全身性強皮症（承認有効） |
+| 622512801 | ボセンタン錠62.5mg「モチダ」 | 錠 62.5mg | 肺動脈性肺高血圧症、全身性強皮症（薬価削除：2026-09-30、後継コード 622692200） |
+
+<!-- review:begin jp-row-20261117-bosentan-1 -->
+
+> **確認による訂正（2026-11-17）**：元の記載は「622512801／ボセンタン錠62.5mg「モチダ」／錠 62.5mg／肺動脈性肺高血圧症、全身性強皮症（承認有効）」でした。訂正：医薬品マスター（薬価基準収載品目）では 622512801 は廃止年月日 2026-09-30 で薬価基準から削除され、2026-11-12 の全件ファイルに収載されていません（後継コード 622692200 は収載中）。表の状態の記載だけを直しました。承認の取消しを意味するものではありません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+
+<!-- review:end jp-row-20261117-bosentan-1 -->
 
 上記は主要な 5 件を記載しています。
 
@@ -144,6 +150,7 @@ TxGNN モデルは**関節リウマチ (Rheumatoid Arthritis)** に有効であ�
 | 2026-11-06 | 削除：「※ 8 件すべてが取消・整理済みの状態です」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-06 | 削除：「日本での有効な承認は現在なく」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-06 | 削除：「日本での承認状況（取消の経緯）と供給可否の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-17 | 表：622512801 は有効ではなく薬価基準から削除済み | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 
 <!-- review:end log -->
 

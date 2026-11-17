@@ -50,8 +50,8 @@ TxGNN モデルは**高分化型胎児型肺腺癌 (well-differentiated fetal ad
 | 予測新規適応症 | 高分化型胎児型肺腺癌 (well-differentiated fetal adenocarcinoma of the lung) |
 | TxGNN 予測スコア | 0.9994 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 4 件／全 4 件） |
-| 承認番号数 | 4 件（有効 4 件） |
+| 日本市販状況 | 販売中（有効な承認 3 件／全 4 件） |
+| 承認番号数 | 4 件（有効 3 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由

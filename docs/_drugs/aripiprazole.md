@@ -49,7 +49,7 @@ description: "Aripiprazole：予測新適応症はGaze palsy, familial horizonta
 | 予測新規適応症 | Gaze palsy, familial horizontal, with progressive scoliosis |
 | TxGNN 予測スコア | 0.9960 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 20 件以上） |
+| 日本市販状況 | 販売中（有効な承認 19 件以上） |
 | 承認番号数 | 20 件以上 |
 | 推奨決定 | Proceed with Guardrails |
 

@@ -50,7 +50,7 @@ TxGNN モデルは **Prinzmetal 狭心症 (Prinzmetal angina)** に有効であ�
 | 予測新規適応症 | Prinzmetal 狭心症 (Prinzmetal angina) |
 | TxGNN 予測スコア | 0.9998 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 20 件以上） |
+| 日本市販状況 | 販売中（有効な承認 18 件以上） |
 | 承認番号数 | 20 件以上 |
 | 推奨決定 | Hold |
 

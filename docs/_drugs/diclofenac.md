@@ -49,7 +49,7 @@ TxGNN モデルは**頭皮の単純性乏毛症 (hypotrichosis simplex of the sc
 | 予測新規適応症 | 頭皮の単純性乏毛症 (hypotrichosis simplex of the scalp) |
 | TxGNN 予測スコア | 0.9969 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 20 件以上） |
+| 日本市販状況 | 販売中（有効な承認 16 件以上） |
 | 承認番号数 | 20 件以上 |
 | 推奨決定 | Hold |
 

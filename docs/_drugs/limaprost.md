@@ -51,8 +51,8 @@ TxGNN モデルは**遺伝性フォンヴィレブランド病 (hereditary von W
 | 予測新規適応症 | 遺伝性フォンヴィレブランド病 (hereditary von Willebrand disease) |
 | TxGNN 予測スコア | 0.9988 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 8 件／全 8 件） |
-| 承認番号数 | 8 件（有効 8 件） |
+| 日本市販状況 | 販売中（有効な承認 7 件／全 8 件） |
+| 承認番号数 | 8 件（有効 7 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -80,7 +80,13 @@ TxGNN モデルは**遺伝性フォンヴィレブランド病 (hereditary von W
 | 620002509 | オパルモン錠5μg | 錠5μg | 閉塞性血栓血管炎、腰部脊柱管狭窄症（有効） |
 | 621418905 | リマプロストアルファデクス錠5μg「SN」 | 錠5μg「SN」 | 閉塞性血栓血管炎、腰部脊柱管狭窄症（有効） |
 
-上記は主要な 5 件です。日本では 8 件の承認のうち 8 件が有効です。
+上記は主要な 5 件です。日本では 8 件の承認のうち 7 件が有効です（1 件は薬価基準から削除済み）。
+
+<!-- review:begin jp-lic-20261117-limaprost-1 -->
+
+> **確認による訂正（2026-11-17）**：元の記載は「日本では 8 件の承認のうち 8 件が有効です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 8 件のうち有効（収載中）は 7 件で、1 件は経過措置期間満了などにより薬価基準から削除されています（670002509（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+
+<!-- review:end jp-lic-20261117-limaprost-1 -->
 
 ## 安全性に関する考慮事項
 
@@ -95,7 +101,13 @@ TxGNN モデルは**遺伝性フォンヴィレブランド病 (hereditary von W
 **理由：**
 - 臨床試験・文献がなく、エビデンスはモデル予測のみ（L5）です。
 - 最上位の予測疾患（フォンヴィレブランド病）は、薬理作用と相反し安全性上の懸念があります。
-- 日本では販売されており、有効な承認が 8 件中 8 件あります。
+- 日本では販売されており、承認 8 件中、有効なものが 7 件あります。
+
+<!-- review:begin jp-lic-20261117-limaprost-2 -->
+
+> **確認による訂正（2026-11-17）**：元の記載は「日本では販売されており、有効な承認が 8 件中 8 件あります。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 8 件のうち有効（収載中）は 7 件で、1 件は経過措置期間満了などにより薬価基準から削除されています（670002509（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+
+<!-- review:end jp-lic-20261117-limaprost-2 -->
 
 **進める場合に必要なもの：**
 - 添付文書の警告・禁忌情報の取得と確認（安全性スクリーニングの前提）
@@ -118,6 +130,8 @@ TxGNN モデルは**遺伝性フォンヴィレブランド病 (hereditary von W
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「日本での承認取消の経緯の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 
 <!-- review:end log -->
 

@@ -49,8 +49,8 @@ description: "Nitrazepam：予測新適応症はWernicke-Korsakoff syndrome（�
 | 予測新規適応症 | Wernicke-Korsakoff syndrome |
 | TxGNN 予測スコア | 0.9931 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 20 件／全 20 件） |
-| 承認番号数 | 20 件（有効 20 件） |
+| 日本市販状況 | 販売中（有効な承認 16 件／全 20 件） |
+| 承認番号数 | 20 件（有効 16 件） |
 | 推奨決定 | Proceed with Guardrails |
 
 ## この予測が妥当である理由

@@ -50,7 +50,7 @@ TxGNN モデルは**直腸粘液腺癌 (rectum mucinous adenocarcinoma)** に有
 | 予測新規適応症 | 直腸粘液腺癌 (rectum mucinous adenocarcinoma) |
 | TxGNN 予測スコア | 0.9928 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 20 件以上） |
+| 日本市販状況 | 販売中（有効な承認 18 件以上） |
 | 承認番号数 | 20 件以上 |
 | 推奨決定 | Hold |
 

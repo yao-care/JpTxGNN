@@ -50,8 +50,8 @@ TxGNN モデルは**変異プロテアーゼ感受性プリオノパチー (Vari
 | 予測新規適応症 | 変異プロテアーゼ感受性プリオノパチー (Variably protease-sensitive prionopathy) |
 | TxGNN 予測スコア | 0.9933 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 7 件／全 7 件） |
-| 承認番号数 | 7 件（有効 7 件） |
+| 日本市販状況 | 販売中（有効な承認 4 件／全 7 件） |
+| 承認番号数 | 7 件（有効 4 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -72,7 +72,13 @@ TxGNN のスコアは高いものの、この予測を支持する臨床試験�
 | 622061201 | ドプスOD錠200mg | 錠 | （記載なし） |
 | 620005046 | ドプス細粒20% | 細粒 | （記載なし） |
 
-7 件の承認はすべて有効な状態です（販売中）。
+7 件の承認のうち 4 件が有効な状態です（販売中。3 件は薬価基準から削除済み）。
+
+<!-- review:begin jp-lic-20261117-droxidopa-1 -->
+
+> **確認による訂正（2026-11-17）**：元の記載は「7 件の承認はすべて有効な状態です（販売中）。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 7 件のうち有効（収載中）は 4 件で、3 件は経過措置期間満了などにより薬価基準から削除されています（622711000（廃止年月日 2026-03-31）、620005046（廃止年月日 2026-03-31）、622710900（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+
+<!-- review:end jp-lic-20261117-droxidopa-1 -->
 
 ## 安全性に関する考慮事項
 
@@ -117,6 +123,7 @@ TxGNN のスコアは高いものの、この予測を支持する臨床試験�
 |------|------|------|------|
 | 2026-11-06 | 削除：「現在は国内で市販されておらず、警告・禁忌の情報も不足しているため、現時点で進めるのは適切ではありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-12 | 削除：「市販が整理済みである点を踏まえた、供給・剤形面の実現可能性の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 
 <!-- review:end log -->
 

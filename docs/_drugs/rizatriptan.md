@@ -49,8 +49,8 @@ description: "Rizatriptan：予測新適応症はAtrophoderma vermiculata（エ�
 | 予測新規適応症 | Atrophoderma vermiculata |
 | TxGNN 予測スコア | 0.9919 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 7 件／全 7 件） |
-| 承認番号数 | 7 件（有効 7 件） |
+| 日本市販状況 | 販売中（有効な承認 6 件／全 7 件） |
+| 承認番号数 | 7 件（有効 6 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由

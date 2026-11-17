@@ -49,7 +49,7 @@ TxGNN モデルは **Ambras 型先天性汎発性多毛症 (Ambras type hypertri
 | 予測新規適応症 | Ambras 型先天性汎発性多毛症 (Ambras type hypertrichosis universalis congenita) |
 | TxGNN 予測スコア | 0.9996 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 20 件以上） |
+| 日本市販状況 | 販売中（有効な承認 18 件以上） |
 | 承認番号数 | 20 件以上 |
 | 推奨決定 | Hold |
 

@@ -49,8 +49,8 @@ description: "Paclitaxel：予測新適応症はParameningeal embryonal rhabdomy
 | 予測新規適応症 | Parameningeal embryonal rhabdomyosarcoma |
 | TxGNN 予測スコア | 0.9973 |
 | エビデンスレベル | L5（完了した Phase 3 試験が複数あるため。ただし後述のとおり、パクリタキセルを併用する試験が中心） |
-| 日本市販状況 | 販売中（有効な承認 12 件／全 12 件） |
-| 承認番号数 | 12 件（有効 12 件） |
+| 日本市販状況 | 販売中（有効な承認 6 件／全 12 件） |
+| 承認番号数 | 12 件（有効 6 件） |
 | 推奨決定 | Proceed with Guardrails |
 
 ## この予測が妥当である理由

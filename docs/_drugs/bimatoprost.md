@@ -49,8 +49,8 @@ TxGNN モデルは、最上位の予測として**歯・歯周組織の異常を
 | 予測新規適応症 | 歯・歯周組織の異常を伴う奇形症候群 (malformation syndrome with odontal and/or periodontal component) |
 | TxGNN 予測スコア | 1.0000 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 8 件／全 8 件） |
-| 承認番号数 | 8 件（有効 8 件） |
+| 日本市販状況 | 販売中（有効な承認 7 件／全 8 件） |
+| 承認番号数 | 8 件（有効 7 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -125,7 +125,13 @@ TxGNN モデルは、最上位の予測として**歯・歯周組織の異常を
 
 **理由：**
 - 最上位の予測（歯・歯周組織の異常を伴う奇形症候群）には、臨床試験も文献もありません。ビマトプロストの作用機序とのつながりも見いだせず、モデル予測のみの L5 です。
-- 日本の販売承認は 8 件すべてが有効で、現在市販されています。
+- 日本の販売承認は 8 件のうち 7 件が有効で（1 件は薬価基準から削除済み）、現在市販されています。
+
+<!-- review:begin jp-lic-20261117-bimatoprost-1 -->
+
+> **確認による訂正（2026-11-17）**：元の記載は「日本の販売承認は 8 件すべてが有効で、現在市販されています。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 8 件のうち有効（収載中）は 7 件で、1 件は経過措置期間満了などにより薬価基準から削除されています（622650401（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+
+<!-- review:end jp-lic-20261117-bimatoprost-1 -->
 
 **進める場合に必要なもの：**
 - 予測の優先順位の見直し：エビデンスのある脱毛症（男性型・女性型脱毛症、円形脱毛症）を、新規適応症の評価対象として検討します。
@@ -148,6 +154,7 @@ TxGNN モデルは、最上位の予測として**歯・歯周組織の異常を
 |------|------|------|------|
 | 2026-11-06 | 削除：「外用（頭皮）剤形での開発可否の検討：日本で現在有効な承認がなく、剤形・投与経路の適合性も未評価です」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-12 | 訂正：残りの 3 件は「取消済み」ではなく有効 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 
 <!-- review:end log -->
 

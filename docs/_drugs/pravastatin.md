@@ -50,7 +50,7 @@ TxGNN モデルは **HIV感染症 (HIV infectious disease)** に有効である�
 | 予測新規適応症 | HIV感染症 (HIV infectious disease) |
 | TxGNN 予測スコア | 0.9974 |
 | エビデンスレベル | L4 |
-| 日本市販状況 | 販売中（有効な承認 20 件以上） |
+| 日本市販状況 | 販売中（有効な承認 18 件以上） |
 | 承認番号数 | 20 件以上 |
 | 推奨決定 | Proceed with Guardrails |
 

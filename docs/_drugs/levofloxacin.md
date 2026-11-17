@@ -50,7 +50,7 @@ TxGNN モデルは**点状表層角結膜炎 (punctate epithelial keratoconjunct
 | 予測新規適応症 | 点状表層角結膜炎 (punctate epithelial keratoconjunctivitis) |
 | TxGNN 予測スコア | 0.9992 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 20 件以上） |
+| 日本市販状況 | 販売中（有効な承認 18 件以上） |
 | 承認番号数 | 20 件以上 |
 | 推奨決定 | Hold |
 

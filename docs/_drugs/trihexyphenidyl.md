@@ -50,8 +50,8 @@ ADHD への直接的なエビデンスはなく、現時点ではモデル予測
 | 予測新規適応症 | 注意欠如・多動症 (attention deficit-hyperactivity disorder) |
 | TxGNN 予測スコア | 0.9992 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 10 件／全 10 件） |
-| 承認番号数 | 10 件（有効 10 件） |
+| 日本市販状況 | 販売中（有効な承認 9 件／全 10 件） |
+| 承認番号数 | 10 件（有効 9 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -74,7 +74,13 @@ ADHD との関連は間接的です。チックやジストニアを併発する
 
 ## 日本市販情報
 
-現在、日本で有効な承認は 10 件あり、承認 10 件すべてが有効です。以下は主な承認です。
+現在、日本では承認 10 件のうち 9 件が有効です（1 件は薬価基準から削除済み）。以下は主な承認です。
+
+<!-- review:begin jp-lic-20261117-trihexyphenidyl-1 -->
+
+> **確認による訂正（2026-11-17）**：元の記載は「現在、日本で有効な承認は 10 件あり、承認 10 件すべてが有効です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 10 件のうち有効（収載中）は 9 件で、1 件は経過措置期間満了などにより薬価基準から削除されています（620119919（廃止年月日 2026-09-30、後継コード 611240304））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+
+<!-- review:end jp-lic-20261117-trihexyphenidyl-1 -->
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
@@ -132,6 +138,7 @@ ADHD に対する臨床試験はなく、文献もチックとジストニアの
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「さらに、日本では現在有効な承認がありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 
 <!-- review:end log -->
 

@@ -49,8 +49,8 @@ TxGNN モデルの第 1 位予測は**三叉神経腫瘍 (trigeminal nerve neopl
 | 予測新規適応症 | 三叉神経腫瘍 (trigeminal nerve neoplasm) |
 | TxGNN 予測スコア | 0.9987 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 7 件／全 7 件） |
-| 承認番号数 | 7 件（有効 7 件） |
+| 日本市販状況 | 販売中（有効な承認 4 件／全 7 件） |
+| 承認番号数 | 7 件（有効 4 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -83,13 +83,25 @@ TxGNN モデルの第 1 位予測は**三叉神経腫瘍 (trigeminal nerve neopl
 
 | 承認番号 | 商品名 | 剤形 | 承認適応症 |
 |---------|------|------|-----------|
-| 671170471 | ワイパックス錠１．０　１ｍｇ（選） | 錠（1 mg） | 神経症における不安（有効） |
+| 671170471 | ワイパックス錠１．０　１ｍｇ（選） | 錠（1 mg） | 神経症における不安（薬価削除：2026-03-31） |
 | 620049101 | ロラゼパム錠０．５ｍｇ「サワイ」 | 錠（0.5 mg） | 神経症における不安（有効） |
 | 611170471 | ワイパックス錠１．０　１ｍｇ | 錠（1 mg） | 神経症における不安（有効） |
 | 620049401 | ロラゼパム錠１ｍｇ「サワイ」 | 錠（1 mg） | 神経症における不安（有効） |
 | 611170470 | ワイパックス錠０．５　０．５ｍｇ | 錠（0.5 mg） | 神経症における不安（有効） |
 
-他に 2 件の承認があり、合計 7 件はすべて有効です。
+<!-- review:begin jp-row-20261117-lorazepam-1 -->
+
+> **確認による訂正（2026-11-17）**：元の記載は「671170471／ワイパックス錠１．０　１ｍｇ（選）／錠（1 mg）／神経症における不安（有効）」でした。訂正：医薬品マスター（薬価基準収載品目）では 671170471 は廃止年月日 2026-03-31 で薬価基準から削除され、2026-11-12 の全件ファイルに収載されていません。表の状態の記載だけを直しました。承認の取消しを意味するものではありません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+
+<!-- review:end jp-row-20261117-lorazepam-1 -->
+
+他に 2 件の承認があり、合計 7 件のうち 4 件が有効です（3 件は薬価基準から削除済み）。
+
+<!-- review:begin jp-lic-20261117-lorazepam-1 -->
+
+> **確認による訂正（2026-11-17）**：元の記載は「他に 2 件の承認があり、合計 7 件はすべて有効です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 7 件のうち有効（収載中）は 4 件で、3 件は経過措置期間満了などにより薬価基準から削除されています（671170471（廃止年月日 2026-03-31）、622707100（廃止年月日 2026-03-31）、671170470（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+
+<!-- review:end jp-lic-20261117-lorazepam-1 -->
 
 ## 安全性に関する考慮事項
 
@@ -104,10 +116,16 @@ TxGNN モデルの第 1 位予測は**三叉神経腫瘍 (trigeminal nerve neopl
 **決定：Hold**
 
 **理由：**
-- 第 1 位の三叉神経腫瘍には臨床試験も文献もなく、抗腫瘍作用の機序的根拠もありません。モデル予測のみ（L5）で、日本では販売されており、7 件の販売承認はすべて有効です。
+- 第 1 位の三叉神経腫瘍には臨床試験も文献もなく、抗腫瘍作用の機序的根拠もありません。モデル予測のみ（L5）で、日本では販売されており、7 件の販売承認のうち 4 件が有効です。
 - 参考までに、他の予測候補の状況は以下のとおりです。
   - 不眠症：L3、Research Question。ロラゼパムの RCT が 1 件あります。
   - 反射てんかん系（読書誘発発作、thinking seizures、micturation-induced seizures など）：L4、機序的には妥当ですが、エビデンスは間接的です。
+
+<!-- review:begin jp-lic-20261117-lorazepam-2 -->
+
+> **確認による訂正（2026-11-17）**：元の記載は「7 件の販売承認はすべて有効です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 7 件のうち有効（収載中）は 4 件で、3 件は経過措置期間満了などにより薬価基準から削除されています（671170471（廃止年月日 2026-03-31）、622707100（廃止年月日 2026-03-31）、671170470（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+
+<!-- review:end jp-lic-20261117-lorazepam-2 -->
 
 **進める場合に必要なもの：**
 - 三叉神経腫瘍については、機序の裏付けとなる前臨床・臨床データ（なければ追加検討は不要）
@@ -130,6 +148,9 @@ TxGNN モデルの第 1 位予測は**三叉神経腫瘍 (trigeminal nerve neopl
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-12 | 削除：「市販が取り消されているため、再導入や製剤供給の可否の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-17 | 表：671170471 は有効ではなく薬価基準から削除済み | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 
 <!-- review:end log -->
 
