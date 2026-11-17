@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "サインバルタカプセル３０ｍｇ（選） に関する健康ニュース。予測適応症 10 件。"
 permalink: /news/duloxetine/
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-17
 ---
 
 # サインバルタカプセル３０ｍｇ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="サインバルタカプセル３０ｍｇ（選） に関するニュースは？">
-<strong>サインバルタカプセル３０ｍｇ（選）</strong> には現在 <strong>1 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>サインバルタカプセル３０ｍｇ（選）</strong> には現在 <strong>2 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ last_modified_at: 2026-11-15
 <p><a href="{{ '/drugs/duloxetine/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（1 件）
+## 関連ニュース（2 件）
+
+### [ネアンデルタール人の遺伝子、現生人類の脳後頭葉を縮小・統合失調症リスクを10%低下させる - BigGo ファイナンス](https://news.google.com/rss/articles/CBMidEFVX3lxTE5lTV90ejd1N1Vkb3V2RUsxTGFLT21hQk1BT29GVk1Va1RMLVYtOGRGRnNObVprVlpqLU82NEhEdVpHZUJkYUJxNHpLTDdkUHJHd0F6dWdWZEhpcDFmYWFPRmxxNGs4N3FQeFlVUVpQamtSQjJp?oc=5)
+
+2026-11-16 <span class="news-indication-tag">統合失調症</span>
+
+出典: [BigGo ファイナンス](https://news.google.com/rss/articles/CBMidEFVX3lxTE5lTV90ejd1N1Vkb3V2RUsxTGFLT21hQk1BT29GVk1Va1RMLVYtOGRGRnNObVprVlpqLU82NEhEdVpHZUJkYUJxNHpLTDdkUHJHd0F6dWdWZEhpcDFmYWFPRmxxNGs4N3FQeFlVUVpQamtSQjJp?oc=5)
+
+---
 
 ### [血清リポ蛋白（a）が動脈硬化の全ての過程に関与、50mg/dL以上で高リスク－国循](https://news.google.com/rss/articles/CBMidkFVX3lxTFB3cTZ6OXJOQ2pvalc4TVU1dU1uUDRpa1EtUGk4alVWR24wUHF5S000cWMxWlFzUnJiWUhnM3oyTlZoeHpVQmVnYm1yVXl0MHVCZ3hOREV1RzNvTTlaamt1b0huUVRnejhUeEtBc3JDMFlHczhYd3c?oc=5)
 

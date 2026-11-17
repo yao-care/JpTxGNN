@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="エルロチニブ錠１５０ｍｇ「ＮＫ」 に関するニュースは？">
-<strong>エルロチニブ錠１５０ｍｇ「ＮＫ」</strong> には現在 <strong>26 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>エルロチニブ錠１５０ｍｇ「ＮＫ」</strong> には現在 <strong>33 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,37 @@ last_modified_at: 2026-11-17
 <p><a href="{{ '/drugs/erlotinib/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（26 件）
+## 関連ニュース（33 件）
+
+### [交際1人でも子宮頸がん、子供諦め「同じ悲しみ負わないで」国際目標6年、予防と理解課題](https://news.google.com/rss/articles/CBMijAFBVV95cUxOcWNMU2czbi1maHFGbEprRmpCeEJnYjdkX1dYWGtaUWpJTUQ2UUQwSnZaNzBHOFJPZDhOeXI2cEd1YUxNbmhMTjFiVXB2WnZid3ZLcC1xOW42anhsR1NISThra0NRY1V5Wk1NbDA1UDZTZ0JkdVFvSEFNZERPaFVOYnlUQ2xHQS0xcHFCSg?oc=5)
+
+2026-11-17 <span class="news-indication-tag">がん</span>
+
+出典: [産経ニュース](https://news.google.com/rss/articles/CBMijAFBVV95cUxOcWNMU2czbi1maHFGbEprRmpCeEJnYjdkX1dYWGtaUWpJTUQ2UUQwSnZaNzBHOFJPZDhOeXI2cEd1YUxNbmhMTjFiVXB2WnZid3ZLcC1xOW42anhsR1NISThra0NRY1V5Wk1NbDA1UDZTZ0JkdVFvSEFNZERPaFVOYnlUQ2xHQS0xcHFCSg?oc=5)
+
+---
 
 ### [52歳で「自分の中にがんがいる」と知った日。痛くて避けていた検診でステージ0と告知【体験談】(HALMEK up)](https://news.yahoo.co.jp/articles/54156e5ae6e1214292f277dc7de5bc210ec74aa1?source=rss)
 
 2026-11-17 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
 
 出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/54156e5ae6e1214292f277dc7de5bc210ec74aa1?source=rss)
+
+---
+
+### [過剰な医療を減らし、「生活の質」高める介護充実へ 介護離職がないスウェーデンに学ぶ認知症の医療と介護](https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZOVBPNlBHOHJPUXFjMXFaZGpjM2RuRi1xUnp4UGxGdDUwcTZEdzViWlFOZGdfbzZ2dDA2Ym9VY2p5azIxWGkxRURZSmJKRGJoQ1RtTG1qQlpZelZTV2poVDlEOFI5VF9lUVZGMzJB?oc=5)
+
+2026-11-16 <span class="news-indication-tag">認知症</span>
+
+出典: [読売新聞](https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZOVBPNlBHOHJPUXFjMXFaZGpjM2RuRi1xUnp4UGxGdDUwcTZEdzViWlFOZGdfbzZ2dDA2Ym9VY2p5azIxWGkxRURZSmJKRGJoQ1RtTG1qQlpZelZTV2poVDlEOFI5VF9lUVZGMzJB?oc=5)
+
+---
+
+### [広島大、国産ゲノム編集技術「Zinc Finger-ND1」の性能を約30％向上 ～がん治療や再生医療への応用に期待～](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jMEVmWmtBZVFSVXQwMnozZUF5bWJfX1FVWWxUVmdIM0t4cTdmM21ORklaRzl1ZlJYNThGcFdrbEFkYmotNnVyX3NGd3FiWDlnM3pUNFdKRmdzNVhRN25YN0ZvRVdtQQ?oc=5)
+
+2026-11-16 <span class="news-indication-tag">がん</span>
+
+出典: [日経バイオテクONLINE](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jMEVmWmtBZVFSVXQwMnozZUF5bWJfX1FVWWxUVmdIM0t4cTdmM21ORklaRzl1ZlJYNThGcFdrbEFkYmotNnVyX3NGd3FiWDlnM3pUNFdKRmdzNVhRN25YN0ZvRVdtQQ?oc=5)
 
 ---
 
@@ -56,6 +80,14 @@ last_modified_at: 2026-11-17
 
 ---
 
+### [眠りについて聞く理由【認知症あれこれ通信㊲】](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBORnkyQlhQcEp1TlZkbGFkYmFHR3dTbE9RcklxSlFodjVUa3BIRlFjWHQ4N1lzVGR2TFB2NGNoSUlKS3d5aDcyWE5jTW1FaE9uV2lIaEdR?oc=5)
+
+2026-11-16 <span class="news-indication-tag">認知症</span>
+
+出典: [西日本新聞me](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBORnkyQlhQcEp1TlZkbGFkYmFHR3dTbE9RcklxSlFodjVUa3BIRlFjWHQ4N1lzVGR2TFB2NGNoSUlKS3d5aDcyWE5jTW1FaE9uV2lIaEdR?oc=5)
+
+---
+
 ### [【闘病】「手術不可」から一転…『大腸がん』永久人工肛門を受け入れた16時間の大手術(メディカルドック)](https://news.yahoo.co.jp/articles/88a4c1fa77a78697670eb7dcf3e00ed0fd317ef6?source=rss)
 
 2026-11-16 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
@@ -69,6 +101,14 @@ last_modified_at: 2026-11-17
 2026-11-15 <span class="news-indication-tag">がん</span>
 
 出典: [m3.com](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKLXJObUdMR2hLNlFMLUprNUlvczVaeENyM05vMkdxeThtNWJRYmdYWDl1LU1wOVRqamRzYkhKNHVtOHg3ZzVhU3l4MjRNTnk2Wk1r?oc=5)
+
+---
+
+### [子宮頸がん死50年に4割増 米ワシントン大推計、世界の格差深刻](https://news.google.com/rss/articles/CBMibEFVX3lxTE4teWo3TzI3MU9PS3hWMFQtNGhrX1ZkVjdUeHhCaWY4dUlpb2QwU05jUWVGTHRYdWpyVzJFUXpwdHFwOTBiV0xDaUwtUlpKelBodllkLUF2aHFpMDVWaXNGUTJnTGYyQlpOU3JzOA?oc=5)
+
+2026-11-15 <span class="news-indication-tag">がん</span>
+
+出典: [日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTE4teWo3TzI3MU9PS3hWMFQtNGhrX1ZkVjdUeHhCaWY4dUlpb2QwU05jUWVGTHRYdWpyVzJFUXpwdHFwOTBiV0xDaUwtUlpKelBodllkLUF2aHFpMDVWaXNGUTJnTGYyQlpOU3JzOA?oc=5)
 
 ---
 
@@ -88,11 +128,19 @@ last_modified_at: 2026-11-17
 
 ---
 
-### [【闘病】25歳で『乳がん』ステージ2A 後悔は「医療保険に入っていなかったこと」(メディカルドック)](https://news.yahoo.co.jp/articles/c2ecd1bd304a3d3f92a062944a3ae7ea63e8f342?source=rss)
+### [【闘病】25歳で『乳がん』ステージ2A 後悔は「医療保険に入っていなかったこと」（メディカルドック）](https://news.google.com/rss/articles/CBMif0FVX3lxTE5WckJjUDl5UThGeXk2MmFzY3FHcjcwaHNpZTZITElGN2dZdnQ1ZUVpQkxiUGdjdUI2Q0x1ZDZzd0FlOHh3bzJnNk9ubHdrUHdKUlJsLWliMWRWaFY1QXRJZm11bmxjOUdpN1BVVl9rS3JNa2xfa3VwaEV4QVZmTVU?oc=5)
 
 2026-11-14 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
 
-出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/c2ecd1bd304a3d3f92a062944a3ae7ea63e8f342?source=rss)
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE5WckJjUDl5UThGeXk2MmFzY3FHcjcwaHNpZTZITElGN2dZdnQ1ZUVpQkxiUGdjdUI2Q0x1ZDZzd0FlOHh3bzJnNk9ubHdrUHdKUlJsLWliMWRWaFY1QXRJZm11bmxjOUdpN1BVVl9rS3JNa2xfa3VwaEV4QVZmTVU?oc=5) · [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/c2ecd1bd304a3d3f92a062944a3ae7ea63e8f342?source=rss)
+
+---
+
+### [忘れることは記憶の失敗なのか 光遺伝学で挑む忘却の謎、小さな線虫が明かす意外な仕組み びっくりサイエンス](https://news.google.com/rss/articles/CBMidkFVX3lxTE11TUhqYW1YM1ZyQmZKNmdkeUkwX250cWZBNHVtQzNrc3JCeFhvTi16b1JTMWQ4T3dsdkRlZWpKbXI4TjZuWmV6ZERPYXpMR1JZRjB1QW0yR1ZzNnhlSVF0R2ZRSUk1MWhSQUwyOEc2SGQzVUp5YVE?oc=5)
+
+2026-11-13 <span class="news-indication-tag">認知症</span>
+
+出典: [産経ニュース](https://news.google.com/rss/articles/CBMidkFVX3lxTE11TUhqYW1YM1ZyQmZKNmdkeUkwX250cWZBNHVtQzNrc3JCeFhvTi16b1JTMWQ4T3dsdkRlZWpKbXI4TjZuWmV6ZERPYXpMR1JZRjB1QW0yR1ZzNnhlSVF0R2ZRSUk1MWhSQUwyOEc2SGQzVUp5YVE?oc=5)
 
 ---
 
@@ -141,6 +189,14 @@ last_modified_at: 2026-11-17
 2026-11-12 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
 
 出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/ccb2a890a0f98834c8b29a4450b0cd6f8a1c25b7?source=rss)
+
+---
+
+### [埼玉県立がんセンター五木田医師から学ぶ「がんと運動」セミナーを開催 - PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE9hLXV6TC11OWVURzlNanNCTmlaTlFOODFqMXVfeDJiTXBRT3J4LVJOaExiOHpkMGthMU1SM0RfbTRBb2ZseTV6WHh4eXlUbGhGTjRkWDZrektfZDhjblpZX3FmR01uYTlSZ1E?oc=5)
+
+2026-11-12 <span class="news-indication-tag">がん</span>
+
+出典: [PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE9hLXV6TC11OWVURzlNanNCTmlaTlFOODFqMXVfeDJiTXBRT3J4LVJOaExiOHpkMGthMU1SM0RfbTRBb2ZseTV6WHh4eXlUbGhGTjRkWDZrektfZDhjblpZX3FmR01uYTlSZ1E?oc=5)
 
 ---
 

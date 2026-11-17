@@ -3,9 +3,9 @@ layout: default
 title: "認知症 (dementia) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "認知症 (dementia) に関する健康ニュース。ニュース 11 件、関連医薬品 2 件。"
+description: "認知症 (dementia) に関する健康ニュース。ニュース 14 件、関連医薬品 2 件。"
 permalink: /news/dementia/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 ---
 
 # 認知症 (dementia) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-16
 ---
 
 <p class="key-answer" data-question="認知症 (dementia) に関するニュースは？">
-<strong>認知症 (dementia)</strong> には現在 <strong>11 件</strong>の関連ニュースと 2 件の関連医薬品があります。
+<strong>認知症 (dementia)</strong> には現在 <strong>14 件</strong>の関連ニュースと 2 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,15 @@ last_modified_at: 2026-11-16
 </ul>
 </div>
 
-## 関連ニュース（11 件）
+## 関連ニュース（14 件）
+
+### [過剰な医療を減らし、「生活の質」高める介護充実へ 介護離職がないスウェーデンに学ぶ認知症の医療と介護](https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZOVBPNlBHOHJPUXFjMXFaZGpjM2RuRi1xUnp4UGxGdDUwcTZEdzViWlFOZGdfbzZ2dDA2Ym9VY2p5azIxWGkxRURZSmJKRGJoQ1RtTG1qQlpZelZTV2poVDlEOFI5VF9lUVZGMzJB?oc=5)
+
+2026-11-16
+
+出典: [読売新聞](https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZOVBPNlBHOHJPUXFjMXFaZGpjM2RuRi1xUnp4UGxGdDUwcTZEdzViWlFOZGdfbzZ2dDA2Ym9VY2p5azIxWGkxRURZSmJKRGJoQ1RtTG1qQlpZelZTV2poVDlEOFI5VF9lUVZGMzJB?oc=5)
+
+---
 
 ### [《「芸術活動」が脳を守る？》専門家が明かす認知症予防の新常識 血圧も体重も”ほどほど”がいい理由 (1/1)](https://news.google.com/rss/articles/CBMiSkFVX3lxTE9vMjJYY09xSXRvQVRxeW1HVlAyeEJMNjlrdUF6MWFZcmtSTnJuSEFVTGdsdzIzQzJqaW1QUWFPRDFIWm5yRXQydHVn?oc=5)
 
@@ -41,11 +49,27 @@ last_modified_at: 2026-11-16
 
 ---
 
+### [眠りについて聞く理由【認知症あれこれ通信㊲】](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBORnkyQlhQcEp1TlZkbGFkYmFHR3dTbE9RcklxSlFodjVUa3BIRlFjWHQ4N1lzVGR2TFB2NGNoSUlKS3d5aDcyWE5jTW1FaE9uV2lIaEdR?oc=5)
+
+2026-11-16
+
+出典: [西日本新聞me](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBORnkyQlhQcEp1TlZkbGFkYmFHR3dTbE9RcklxSlFodjVUa3BIRlFjWHQ4N1lzVGR2TFB2NGNoSUlKS3d5aDcyWE5jTW1FaE9uV2lIaEdR?oc=5)
+
+---
+
 ### [「認知症」と「ただの物忘れ」医師が教える明らかな違い](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qMlNjRzlndmF0WVdjbUFSUmxFaV9pZnhaVnhfczBGMmdmOHFBdDFIeHA4UEp3U3Nydnl1VG16MGdSSFNWQUFJYkc4SU0xOXFfYnQ5LU0zZkhDcXoxNldj?oc=5)
 
 2026-11-14
 
 出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qMlNjRzlndmF0WVdjbUFSUmxFaV9pZnhaVnhfczBGMmdmOHFBdDFIeHA4UEp3U3Nydnl1VG16MGdSSFNWQUFJYkc4SU0xOXFfYnQ5LU0zZkhDcXoxNldj?oc=5)
+
+---
+
+### [忘れることは記憶の失敗なのか 光遺伝学で挑む忘却の謎、小さな線虫が明かす意外な仕組み びっくりサイエンス](https://news.google.com/rss/articles/CBMidkFVX3lxTE11TUhqYW1YM1ZyQmZKNmdkeUkwX250cWZBNHVtQzNrc3JCeFhvTi16b1JTMWQ4T3dsdkRlZWpKbXI4TjZuWmV6ZERPYXpMR1JZRjB1QW0yR1ZzNnhlSVF0R2ZRSUk1MWhSQUwyOEc2SGQzVUp5YVE?oc=5)
+
+2026-11-13
+
+出典: [産経ニュース](https://news.google.com/rss/articles/CBMidkFVX3lxTE11TUhqYW1YM1ZyQmZKNmdkeUkwX250cWZBNHVtQzNrc3JCeFhvTi16b1JTMWQ4T3dsdkRlZWpKbXI4TjZuWmV6ZERPYXpMR1JZRjB1QW0yR1ZzNnhlSVF0R2ZRSUk1MWhSQUwyOEc2SGQzVUp5YVE?oc=5)
 
 ---
 

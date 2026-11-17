@@ -54,11 +54,11 @@ last_modified_at: 2026-11-17
 
 ---
 
-### [【闘病】25歳で『乳がん』ステージ2A 後悔は「医療保険に入っていなかったこと」(メディカルドック)](https://news.yahoo.co.jp/articles/c2ecd1bd304a3d3f92a062944a3ae7ea63e8f342?source=rss)
+### [【闘病】25歳で『乳がん』ステージ2A 後悔は「医療保険に入っていなかったこと」（メディカルドック）](https://news.google.com/rss/articles/CBMif0FVX3lxTE5WckJjUDl5UThGeXk2MmFzY3FHcjcwaHNpZTZITElGN2dZdnQ1ZUVpQkxiUGdjdUI2Q0x1ZDZzd0FlOHh3bzJnNk9ubHdrUHdKUlJsLWliMWRWaFY1QXRJZm11bmxjOUdpN1BVVl9rS3JNa2xfa3VwaEV4QVZmTVU?oc=5)
 
 2026-11-14
 
-出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/c2ecd1bd304a3d3f92a062944a3ae7ea63e8f342?source=rss)
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE5WckJjUDl5UThGeXk2MmFzY3FHcjcwaHNpZTZITElGN2dZdnQ1ZUVpQkxiUGdjdUI2Q0x1ZDZzd0FlOHh3bzJnNk9ubHdrUHdKUlJsLWliMWRWaFY1QXRJZm11bmxjOUdpN1BVVl9rS3JNa2xfa3VwaEV4QVZmTVU?oc=5) · [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/c2ecd1bd304a3d3f92a062944a3ae7ea63e8f342?source=rss)
 
 ---
 

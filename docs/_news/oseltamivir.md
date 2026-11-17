@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "タミフルドライシロップ３％（選） に関する健康ニュース。予測適応症 0 件。"
 permalink: /news/oseltamivir/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 ---
 
 # タミフルドライシロップ３％（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-16
 ---
 
 <p class="key-answer" data-question="タミフルドライシロップ３％（選） に関するニュースは？">
-<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>2 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>3 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ last_modified_at: 2026-11-16
 <p><a href="{{ '/drugs/oseltamivir/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（2 件）
+## 関連ニュース（3 件）
+
+### [抗インフルエンザ薬の使い分け、耐性リスクは？](https://news.google.com/rss/articles/CBMif0FVX3lxTE5QNHBEelpRVy1admhWNGtJZ1Zhc3JyU2RubXNnNFJwUjNsbkxOUjJ1Zy1jMXlJeW1KVVh2M0MtVHJLT05MSFFUam9Kd1RZS083cTYxVnFJcFhON2VrZ01nVHlnc0t3eVNxUlB3aXl2elp0bVJGdUcyckRzV2Nsa1k?oc=5)
+
+2026-11-16 <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [日経メディカル](https://news.google.com/rss/articles/CBMif0FVX3lxTE5QNHBEelpRVy1admhWNGtJZ1Zhc3JyU2RubXNnNFJwUjNsbkxOUjJ1Zy1jMXlJeW1KVVh2M0MtVHJLT05MSFFUam9Kd1RZS083cTYxVnFJcFhON2VrZ01nVHlnc0t3eVNxUlB3aXl2elp0bVJGdUcyckRzV2Nsa1k?oc=5)
+
+---
 
 ### [インフルエンザ感染者が2週ぶりに増加に転じる あわら市と坂井市も注意報レベル上回る 丹南が最多 福井](https://news.google.com/rss/articles/CBMiTkFVX3lxTE0xeXhXNVh1c1FicFhWN2NPWlVzd3Z0RDNXMkdBUmhCMC1JV2pEVWdGWFZsc2JFSjduREtYYU5PejZLSHdOQURTS0gzZjhrUQ?oc=5)
 

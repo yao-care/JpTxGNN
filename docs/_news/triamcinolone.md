@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="レダコート軟膏０．１％（選） に関するニュースは？">
-<strong>レダコート軟膏０．１％（選）</strong> には現在 <strong>15 件</strong>の関連ニュースがあり、予測適応症は 8 件です。
+<strong>レダコート軟膏０．１％（選）</strong> には現在 <strong>19 件</strong>の関連ニュースがあり、予測適応症は 8 件です。
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,29 @@ last_modified_at: 2026-11-17
 <p><a href="{{ '/drugs/triamcinolone/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（15 件）
+## 関連ニュース（19 件）
+
+### [交際1人でも子宮頸がん、子供諦め「同じ悲しみ負わないで」国際目標6年、予防と理解課題](https://news.google.com/rss/articles/CBMijAFBVV95cUxOcWNMU2czbi1maHFGbEprRmpCeEJnYjdkX1dYWGtaUWpJTUQ2UUQwSnZaNzBHOFJPZDhOeXI2cEd1YUxNbmhMTjFiVXB2WnZid3ZLcC1xOW42anhsR1NISThra0NRY1V5Wk1NbDA1UDZTZ0JkdVFvSEFNZERPaFVOYnlUQ2xHQS0xcHFCSg?oc=5)
+
+2026-11-17 <span class="news-indication-tag">がん</span>
+
+出典: [産経ニュース](https://news.google.com/rss/articles/CBMijAFBVV95cUxOcWNMU2czbi1maHFGbEprRmpCeEJnYjdkX1dYWGtaUWpJTUQ2UUQwSnZaNzBHOFJPZDhOeXI2cEd1YUxNbmhMTjFiVXB2WnZid3ZLcC1xOW42anhsR1NISThra0NRY1V5Wk1NbDA1UDZTZ0JkdVFvSEFNZERPaFVOYnlUQ2xHQS0xcHFCSg?oc=5)
+
+---
 
 ### [52歳で「自分の中にがんがいる」と知った日。痛くて避けていた検診でステージ0と告知【体験談】(HALMEK up)](https://news.yahoo.co.jp/articles/54156e5ae6e1214292f277dc7de5bc210ec74aa1?source=rss)
 
 2026-11-17 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
 
 出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/54156e5ae6e1214292f277dc7de5bc210ec74aa1?source=rss)
+
+---
+
+### [広島大、国産ゲノム編集技術「Zinc Finger-ND1」の性能を約30％向上 ～がん治療や再生医療への応用に期待～](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jMEVmWmtBZVFSVXQwMnozZUF5bWJfX1FVWWxUVmdIM0t4cTdmM21ORklaRzl1ZlJYNThGcFdrbEFkYmotNnVyX3NGd3FiWDlnM3pUNFdKRmdzNVhRN25YN0ZvRVdtQQ?oc=5)
+
+2026-11-16 <span class="news-indication-tag">がん</span>
+
+出典: [日経バイオテクONLINE](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jMEVmWmtBZVFSVXQwMnozZUF5bWJfX1FVWWxUVmdIM0t4cTdmM21ORklaRzl1ZlJYNThGcFdrbEFkYmotNnVyX3NGd3FiWDlnM3pUNFdKRmdzNVhRN25YN0ZvRVdtQQ?oc=5)
 
 ---
 
@@ -74,6 +90,14 @@ last_modified_at: 2026-11-17
 
 ---
 
+### [子宮頸がん死50年に4割増 米ワシントン大推計、世界の格差深刻](https://news.google.com/rss/articles/CBMibEFVX3lxTE4teWo3TzI3MU9PS3hWMFQtNGhrX1ZkVjdUeHhCaWY4dUlpb2QwU05jUWVGTHRYdWpyVzJFUXpwdHFwOTBiV0xDaUwtUlpKelBodllkLUF2aHFpMDVWaXNGUTJnTGYyQlpOU3JzOA?oc=5)
+
+2026-11-15 <span class="news-indication-tag">がん</span>
+
+出典: [日本経済新聞](https://news.google.com/rss/articles/CBMibEFVX3lxTE4teWo3TzI3MU9PS3hWMFQtNGhrX1ZkVjdUeHhCaWY4dUlpb2QwU05jUWVGTHRYdWpyVzJFUXpwdHFwOTBiV0xDaUwtUlpKelBodllkLUF2aHFpMDVWaXNGUTJnTGYyQlpOU3JzOA?oc=5)
+
+---
+
 ### [【闘病】立てないほどの胃痛の正体は『膵臓がん』 多発肝転移、親友とは2週間違いの告知(メディカルドック)](https://news.yahoo.co.jp/articles/e71c4aff7d3bddd4e2ee8084a5ce74126815f1d3?source=rss)
 
 2026-11-15 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">膵臓がん</span>
@@ -82,11 +106,11 @@ last_modified_at: 2026-11-17
 
 ---
 
-### [【闘病】25歳で『乳がん』ステージ2A 後悔は「医療保険に入っていなかったこと」(メディカルドック)](https://news.yahoo.co.jp/articles/c2ecd1bd304a3d3f92a062944a3ae7ea63e8f342?source=rss)
+### [【闘病】25歳で『乳がん』ステージ2A 後悔は「医療保険に入っていなかったこと」（メディカルドック）](https://news.google.com/rss/articles/CBMif0FVX3lxTE5WckJjUDl5UThGeXk2MmFzY3FHcjcwaHNpZTZITElGN2dZdnQ1ZUVpQkxiUGdjdUI2Q0x1ZDZzd0FlOHh3bzJnNk9ubHdrUHdKUlJsLWliMWRWaFY1QXRJZm11bmxjOUdpN1BVVl9rS3JNa2xfa3VwaEV4QVZmTVU?oc=5)
 
 2026-11-14 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
 
-出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/c2ecd1bd304a3d3f92a062944a3ae7ea63e8f342?source=rss)
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE5WckJjUDl5UThGeXk2MmFzY3FHcjcwaHNpZTZITElGN2dZdnQ1ZUVpQkxiUGdjdUI2Q0x1ZDZzd0FlOHh3bzJnNk9ubHdrUHdKUlJsLWliMWRWaFY1QXRJZm11bmxjOUdpN1BVVl9rS3JNa2xfa3VwaEV4QVZmTVU?oc=5) · [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/c2ecd1bd304a3d3f92a062944a3ae7ea63e8f342?source=rss)
 
 ---
 
@@ -119,6 +143,14 @@ last_modified_at: 2026-11-17
 2026-11-12 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
 
 出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/ccb2a890a0f98834c8b29a4450b0cd6f8a1c25b7?source=rss)
+
+---
+
+### [埼玉県立がんセンター五木田医師から学ぶ「がんと運動」セミナーを開催 - PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE9hLXV6TC11OWVURzlNanNCTmlaTlFOODFqMXVfeDJiTXBRT3J4LVJOaExiOHpkMGthMU1SM0RfbTRBb2ZseTV6WHh4eXlUbGhGTjRkWDZrektfZDhjblpZX3FmR01uYTlSZ1E?oc=5)
+
+2026-11-12 <span class="news-indication-tag">がん</span>
+
+出典: [PR TIMES](https://news.google.com/rss/articles/CBMiakFVX3lxTE9hLXV6TC11OWVURzlNanNCTmlaTlFOODFqMXVfeDJiTXBRT3J4LVJOaExiOHpkMGthMU1SM0RfbTRBb2ZseTV6WHh4eXlUbGhGTjRkWDZrektfZDhjblpZX3FmR01uYTlSZ1E?oc=5)
 
 ---
 
