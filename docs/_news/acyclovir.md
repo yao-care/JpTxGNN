@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="ゾビラックス軟膏５％（選） に関するニュースは？">
-<strong>ゾビラックス軟膏５％（選）</strong> には現在 <strong>23 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>ゾビラックス軟膏５％（選）</strong> には現在 <strong>28 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ last_modified_at: 2026-11-18
 <p><a href="{{ '/drugs/acyclovir/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（23 件）
+## 関連ニュース（28 件）
+
+### [がん死者数が21年比2.4倍に、早期発見を](https://news.google.com/rss/articles/CBMiRkFVX3lxTFB2WkIzOGhnMk94ZkZ1X093NTM5LTlUc0JrU21YcVhVakt1cklxM01WaWJoLUNqQVBLZmE2ZVdJX19Gc0xwQkE?oc=5)
+
+2026-11-18 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾患</span>
+
+出典: [NNAアジア](https://news.google.com/rss/articles/CBMiRkFVX3lxTFB2WkIzOGhnMk94ZkZ1X093NTM5LTlUc0JrU21YcVhVakt1cklxM01WaWJoLUNqQVBLZmE2ZVdJX19Gc0xwQkE?oc=5)
+
+---
+
+### [子宮頸がんワクチン業界の予測レポート：2026年から2033年にかけての期待される成長と](https://news.google.com/rss/articles/CBMiSkFVX3lxTFAzYjl6a0xLaHZiaTBEMUhKSURkeUJ6Mlc5UmpoN1Vtakd2RjJsSGl5WHZoMGlTTU54b3pmbzY4QV9XU3RWV2hNenVR?oc=5)
+
+2026-11-18 <span class="news-indication-tag">がん</span>
+
+出典: [pando.life](https://news.google.com/rss/articles/CBMiSkFVX3lxTFAzYjl6a0xLaHZiaTBEMUhKSURkeUJ6Mlc5UmpoN1Vtakd2RjJsSGl5WHZoMGlTTU54b3pmbzY4QV9XU3RWV2hNenVR?oc=5)
+
+---
 
 ### [太田裕美さんは乳がんのため自宅で死去(共同通信)](https://news.yahoo.co.jp/articles/ba64c886d61bd94504c678b79478d8263d85d463?source=rss)
 
@@ -132,6 +148,22 @@ last_modified_at: 2026-11-18
 
 ---
 
+### [2型糖尿病の強化降圧、認知症・軽度認知障害の発生に有意差なし](https://news.google.com/rss/articles/CBMiggFBVV95cUxOTko2Sy1sTGtGLWY0SVA5dmFmRGhZYm03Vk9TZ3QzU0VhVzdaeG9DUXRzT0RIZnJsYWk5SThidVZGTXNyTUtTTDFDSXZ6TDdXaHh6WDgyNDJuM1dOMU5Yc3Rka2ljUUxQeERPVFBKUUNmZnlUYjc0TGZ6TTliWmNUSllR?oc=5)
+
+2026-11-13 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">認知症</span> <span class="news-indication-tag">2型糖尿病</span>
+
+出典: [CareNet.com](https://news.google.com/rss/articles/CBMiggFBVV95cUxOTko2Sy1sTGtGLWY0SVA5dmFmRGhZYm03Vk9TZ3QzU0VhVzdaeG9DUXRzT0RIZnJsYWk5SThidVZGTXNyTUtTTDFDSXZ6TDdXaHh6WDgyNDJuM1dOMU5Yc3Rka2ljUUxQeERPVFBKUUNmZnlUYjc0TGZ6TTliWmNUSllR?oc=5)
+
+---
+
+### [夫婦で「帯状疱疹ワクチン」を打ったら、70歳の妻は「2回で2万2000円」なのに、69歳の私は「4万4000円」！ たった“1歳違い”で「倍になる」のはなぜ？「定期接種の対象年齢」を確認 - Ameba News [アメーバニュース]](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GN096YTBhODVkaERRcXV4alA2MWxsUllXenptOVFQNFlnUG9tWUd5c2JpbWFya2duZlMzSE0yX2VuRDA5ZEFpVXpvRzFOaEd3UjFFTUJZSzB4dw?oc=5)
+
+2026-11-13 <span class="news-indication-tag">帯状疱疹</span>
+
+出典: [Ameba News [アメーバニュース]](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GN096YTBhODVkaERRcXV4alA2MWxsUllXenptOVFQNFlnUG9tWUd5c2JpbWFya2duZlMzSE0yX2VuRDA5ZEFpVXpvRzFOaEd3UjFFTUJZSzB4dw?oc=5)
+
+---
+
 ### [日本の大腸がん対策、何が足りない？―アメリカは「45歳から大腸内視鏡」が主流(メディカルドック)](https://news.yahoo.co.jp/articles/1da8b606671ebdf6470b05c85082e7fc6f0ad6ce?source=rss)
 
 2026-11-13 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
@@ -153,6 +185,14 @@ last_modified_at: 2026-11-18
 2026-11-12 <span class="news-indication-tag">がん</span>
 
 出典: [anan](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sUHZXLS1KcDhsUnJuSlVMME9BNFZxZ1lwWGExSUprdUhNd1J3QzlaYXc1R0F2UFBpTTN3TlhKNDgwcWJIU2FQa1drSWM5OGpWeTVWMGIyRi0?oc=5)
+
+---
+
+### [脳腫瘍で亡くなった高校生男子 両親の希望で最後まで予後は告げず 病気への本人の思いを聞けなかった看護師の後悔](https://news.google.com/rss/articles/CBMibkFVX3lxTE9mdUx1NmpnNnlmYUdEdm9WSkpqelJXdTVNUkpJQUdOYjJRanhtWU55SFZkaVA4dTRHdFlvVXZnWW5tUG1mTVpjV09kM1hGeUpVV2haY2ZUZ2lWT0ZlOWluUkYxRlVjckswM0czZWtR?oc=5)
+
+2026-11-12 <span class="news-indication-tag">腫瘍</span>
+
+出典: [読売新聞](https://news.google.com/rss/articles/CBMibkFVX3lxTE9mdUx1NmpnNnlmYUdEdm9WSkpqelJXdTVNUkpJQUdOYjJRanhtWU55SFZkaVA4dTRHdFlvVXZnWW5tUG1mTVpjV09kM1hGeUpVV2haY2ZUZ2lWT0ZlOWluUkYxRlVjckswM0czZWtR?oc=5)
 
 ---
 

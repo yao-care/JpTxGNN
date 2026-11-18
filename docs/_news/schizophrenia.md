@@ -3,9 +3,9 @@ layout: default
 title: "統合失調症 (schizophrenia) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "統合失調症 (schizophrenia) に関する健康ニュース。ニュース 1 件、関連医薬品 7 件。"
+description: "統合失調症 (schizophrenia) に関する健康ニュース。ニュース 2 件、関連医薬品 7 件。"
 permalink: /news/schizophrenia/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-18
 ---
 
 # 統合失調症 (schizophrenia) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="統合失調症 (schizophrenia) に関するニュースは？">
-<strong>統合失調症 (schizophrenia)</strong> には現在 <strong>1 件</strong>の関連ニュースと 7 件の関連医薬品があります。
+<strong>統合失調症 (schizophrenia)</strong> には現在 <strong>2 件</strong>の関連ニュースと 7 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,15 @@ last_modified_at: 2026-11-17
 </ul>
 </div>
 
-## 関連ニュース（1 件）
+## 関連ニュース（2 件）
+
+### [ネアンデルタール人から受け継いだ遺伝子が現代人の脳や統合失調症リスクに影響している可能性 - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE5HYkg3LXVWLUR0VVQ0UTlmdjVtb0pHakpwLTJVWE1XcEdyN3hwYzZDc19PR2dJZGFtZGs5dFNZbHJmQTdOSG5veHFPZXZBa29QUVRkWlVSWTIxT01kMlZPamNQd2xyWVYwX0pxS0ln?oc=5)
+
+2026-11-17
+
+出典: [au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE5HYkg3LXVWLUR0VVQ0UTlmdjVtb0pHakpwLTJVWE1XcEdyN3hwYzZDc19PR2dJZGFtZGs5dFNZbHJmQTdOSG5veHFPZXZBa29QUVRkWlVSWTIxT01kMlZPamNQd2xyWVYwX0pxS0ln?oc=5)
+
+---
 
 ### [ネアンデルタール人の遺伝子、現生人類の脳後頭葉を縮小・統合失調症リスクを10%低下させる - BigGo ファイナンス](https://news.google.com/rss/articles/CBMidEFVX3lxTE5lTV90ejd1N1Vkb3V2RUsxTGFLT21hQk1BT29GVk1Va1RMLVYtOGRGRnNObVprVlpqLU82NEhEdVpHZUJkYUJxNHpLTDdkUHJHd0F6dWdWZEhpcDFmYWFPRmxxNGs4N3FQeFlVUVpQamtSQjJp?oc=5)
 

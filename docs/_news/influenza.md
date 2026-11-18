@@ -3,9 +3,9 @@ layout: default
 title: "インフルエンザ (influenza) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 3 件、関連医薬品 1 件。"
+description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 4 件、関連医薬品 1 件。"
 permalink: /news/influenza/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-18
 ---
 
 # インフルエンザ (influenza) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="インフルエンザ (influenza) に関するニュースは？">
-<strong>インフルエンザ (influenza)</strong> には現在 <strong>3 件</strong>の関連ニュースと 1 件の関連医薬品があります。
+<strong>インフルエンザ (influenza)</strong> には現在 <strong>4 件</strong>の関連ニュースと 1 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ last_modified_at: 2026-11-17
 </ul>
 </div>
 
-## 関連ニュース（3 件）
+## 関連ニュース（4 件）
+
+### [「インフルエンザの熱」が下がらない理由はご存知ですか？再診の目安となる症状も解説！](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNQl9JTUdYMHhBb2pIMzFaUkVNZUVEekNWZEs5NkhIQmhwYWlXUjdjbEx2X3dncnFrRUIyeVd3b3A3M3prckVWSTZoTDNza3BRd2NrNms4ZEJkTlZHX1Fr?oc=5)
+
+2026-11-18
+
+出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNQl9JTUdYMHhBb2pIMzFaUkVNZUVEekNWZEs5NkhIQmhwYWlXUjdjbEx2X3dncnFrRUIyeVd3b3A3M3prckVWSTZoTDNza3BRd2NrNms4ZEJkTlZHX1Fr?oc=5)
+
+---
 
 ### [抗インフルエンザ薬の使い分け、耐性リスクは？](https://news.google.com/rss/articles/CBMif0FVX3lxTE5QNHBEelpRVy1admhWNGtJZ1Zhc3JyU2RubXNnNFJwUjNsbkxOUjJ1Zy1jMXlJeW1KVVh2M0MtVHJLT05MSFFUam9Kd1RZS083cTYxVnFJcFhON2VrZ01nVHlnc0t3eVNxUlB3aXl2elp0bVJGdUcyckRzV2Nsa1k?oc=5)
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="エルロチニブ錠１５０ｍｇ「ＮＫ」 に関するニュースは？">
-<strong>エルロチニブ錠１５０ｍｇ「ＮＫ」</strong> には現在 <strong>38 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>エルロチニブ錠１５０ｍｇ「ＮＫ」</strong> には現在 <strong>47 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,47 @@ last_modified_at: 2026-11-18
 <p><a href="{{ '/drugs/erlotinib/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（38 件）
+## 関連ニュース（47 件）
+
+### [野菜ジュースでもサプリでもない…医師が｢認知症リスクが約3割下がる｣と勧めるスーパーで買える身近な食材(プレジデントオンライン)](https://news.yahoo.co.jp/articles/a66442e81cb0fd1c4df1d9a65e9a6a6843412d91?source=rss)
+
+2026-11-18 <span class="news-indication-tag">心臓病</span> <span class="news-indication-tag">認知症</span>
+
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/a66442e81cb0fd1c4df1d9a65e9a6a6843412d91?source=rss)
+
+---
+
+### [医師の森田豊さんも「母の認知症を認めたくない息子」に。後悔が受容に変わるまで【私の介護体験】(家庭画報.com)](https://news.yahoo.co.jp/articles/3963013d84a9926c681f71a96d5cbec62050a231?source=rss)
+
+2026-11-18 <span class="news-indication-tag">認知症</span> <span class="news-indication-tag">白血病</span> <span class="news-indication-tag">骨髄性白血病</span>
+
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/3963013d84a9926c681f71a96d5cbec62050a231?source=rss)
+
+---
+
+### [がん死者数が21年比2.4倍に、早期発見を](https://news.google.com/rss/articles/CBMiRkFVX3lxTFB2WkIzOGhnMk94ZkZ1X093NTM5LTlUc0JrU21YcVhVakt1cklxM01WaWJoLUNqQVBLZmE2ZVdJX19Gc0xwQkE?oc=5)
+
+2026-11-18 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾患</span>
+
+出典: [NNAアジア](https://news.google.com/rss/articles/CBMiRkFVX3lxTFB2WkIzOGhnMk94ZkZ1X093NTM5LTlUc0JrU21YcVhVakt1cklxM01WaWJoLUNqQVBLZmE2ZVdJX19Gc0xwQkE?oc=5)
+
+---
+
+### [認知症リスクを高める慢性的な孤独…高齢期の認知機能を守るには？ : 社会 : 財経日報](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1OVGd6RVRpa3QtNTFtRmN3MFpLZ1JuWVUzVTlMNlA5dFBkLTVDWXdQUmhoWmF5R0F5RWRyUHFTN3cxel9KLUdNeFJ1bjczSTc0eE9YR3V0dk5kV3Q3czRPWV90VQ?oc=5)
+
+2026-11-18 <span class="news-indication-tag">認知症</span>
+
+出典: [재경일보](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1OVGd6RVRpa3QtNTFtRmN3MFpLZ1JuWVUzVTlMNlA5dFBkLTVDWXdQUmhoWmF5R0F5RWRyUHFTN3cxel9KLUdNeFJ1bjczSTc0eE9YR3V0dk5kV3Q3czRPWV90VQ?oc=5)
+
+---
+
+### [子宮頸がんワクチン業界の予測レポート：2026年から2033年にかけての期待される成長と](https://news.google.com/rss/articles/CBMiSkFVX3lxTFAzYjl6a0xLaHZiaTBEMUhKSURkeUJ6Mlc5UmpoN1Vtakd2RjJsSGl5WHZoMGlTTU54b3pmbzY4QV9XU3RWV2hNenVR?oc=5)
+
+2026-11-18 <span class="news-indication-tag">がん</span>
+
+出典: [pando.life](https://news.google.com/rss/articles/CBMiSkFVX3lxTFAzYjl6a0xLaHZiaTBEMUhKSURkeUJ6Mlc5UmpoN1Vtakd2RjJsSGl5WHZoMGlTTU54b3pmbzY4QV9XU3RWV2hNenVR?oc=5)
+
+---
 
 ### [太田裕美さんは乳がんのため自宅で死去(共同通信)](https://news.yahoo.co.jp/articles/ba64c886d61bd94504c678b79478d8263d85d463?source=rss)
 
@@ -52,7 +92,7 @@ last_modified_at: 2026-11-18
 
 2026-11-17 <span class="news-indication-tag">認知症</span>
 
-出典: [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxOQlJvMExtQ0trektYc3A4S051UXBkakZZX2pWRW42TjVwb2F0c1Q3WlhzdF9paVpURWFldW5aaTM0bERPY3Zhd2JUS0FLVDJOZXZENFgyaDlKaHdvX1BRR19IMXRvSTlaVzZRQkhVejBEX2RoZ2pUMFVZVGFCN044VE1oTVNPNU0?oc=5) · [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/2e184cfe5fbb5fd9fcc2dad7a3ed3f0e622145b8?source=rss)
+出典: [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxOQlJvMExtQ0trektYc3A4S051UXBkakZZX2pWRW42TjVwb2F0c1Q3WlhzdF9paVpURWFldW5aaTM0bERPY3Zhd2JUS0FLVDJOZXZENFgyaDlKaHdvX1BRR19IMXRvSTlaVzZRQkhVejBEX2RoZ2pUMFVZVGFCN044VE1oTVNPNU0?oc=5)
 
 ---
 
@@ -61,6 +101,14 @@ last_modified_at: 2026-11-18
 2026-11-17 <span class="news-indication-tag">がん</span>
 
 出典: [産経ニュース](https://news.google.com/rss/articles/CBMijAFBVV95cUxOcWNMU2czbi1maHFGbEprRmpCeEJnYjdkX1dYWGtaUWpJTUQ2UUQwSnZaNzBHOFJPZDhOeXI2cEd1YUxNbmhMTjFiVXB2WnZid3ZLcC1xOW42anhsR1NISThra0NRY1V5Wk1NbDA1UDZTZ0JkdVFvSEFNZERPaFVOYnlUQ2xHQS0xcHFCSg?oc=5)
+
+---
+
+### [過剰な医療を減らし、「生活の質」高める介護充実へ 介護離職がないスウェーデンに学ぶ認知症の医療と介護](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hejJ2TW1RaXhEQ3ZYZ0kyT1hoTVNicXZfdElqXy1TYnZZVDUyQ0s1WHptaVV4enJJcEpDZnJIa3ZfVW8zS1Q4YXU5LUY4dzNKTGlKVXdWcEJZci1IT1NpWkF0OGxFUQ?oc=5)
+
+2026-11-17 <span class="news-indication-tag">認知症</span>
+
+出典: [読売新聞](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hejJ2TW1RaXhEQ3ZYZ0kyT1hoTVNicXZfdElqXy1TYnZZVDUyQ0s1WHptaVV4enJJcEpDZnJIa3ZfVW8zS1Q4YXU5LUY4dzNKTGlKVXdWcEJZci1IT1NpWkF0OGxFUQ?oc=5)
 
 ---
 
@@ -101,6 +149,14 @@ last_modified_at: 2026-11-18
 2026-11-16 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
 
 出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/eab1eb0607a37c40d8c602fbb1a8764b1dc13a05?source=rss)
+
+---
+
+### [眠りについて聞く理由【認知症あれこれ通信㊲】 - 写真・画像(1/1)](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5UNEFwQjY5NG1PTjdRUFdEbWtFWk5vX0lmR2x6WHd6X3E2YlM1TjUyWlpSaGppMmp2a2Ftd3hsTE1oMFN2eFpHcXpta3dscUJKSnB3R3dTQQ?oc=5)
+
+2026-11-16 <span class="news-indication-tag">認知症</span>
+
+出典: [西日本新聞me](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5UNEFwQjY5NG1PTjdRUFdEbWtFWk5vX0lmR2x6WHd6X3E2YlM1TjUyWlpSaGppMmp2a2Ftd3hsTE1oMFN2eFpHcXpta3dscUJKSnB3R3dTQQ?oc=5)
 
 ---
 
@@ -176,6 +232,14 @@ last_modified_at: 2026-11-18
 
 ---
 
+### [2型糖尿病の強化降圧、認知症・軽度認知障害の発生に有意差なし](https://news.google.com/rss/articles/CBMiggFBVV95cUxOTko2Sy1sTGtGLWY0SVA5dmFmRGhZYm03Vk9TZ3QzU0VhVzdaeG9DUXRzT0RIZnJsYWk5SThidVZGTXNyTUtTTDFDSXZ6TDdXaHh6WDgyNDJuM1dOMU5Yc3Rka2ljUUxQeERPVFBKUUNmZnlUYjc0TGZ6TTliWmNUSllR?oc=5)
+
+2026-11-13 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">認知症</span> <span class="news-indication-tag">2型糖尿病</span>
+
+出典: [CareNet.com](https://news.google.com/rss/articles/CBMiggFBVV95cUxOTko2Sy1sTGtGLWY0SVA5dmFmRGhZYm03Vk9TZ3QzU0VhVzdaeG9DUXRzT0RIZnJsYWk5SThidVZGTXNyTUtTTDFDSXZ6TDdXaHh6WDgyNDJuM1dOMU5Yc3Rka2ljUUxQeERPVFBKUUNmZnlUYjc0TGZ6TTliWmNUSllR?oc=5)
+
+---
+
 ### [九州大「忘れる」仕組みを線虫実験で解明　認知症やPTSD治療に期待(西日本新聞me)](https://news.yahoo.co.jp/articles/d077af0f364ef60c4481e8a0b23b85fa8bb58e3f?source=rss)
 
 2026-11-13 <span class="news-indication-tag">認知症</span>
@@ -213,6 +277,14 @@ last_modified_at: 2026-11-18
 2026-11-12 <span class="news-indication-tag">認知症</span>
 
 出典: [介護ポストセブン](https://news.google.com/rss/articles/CBMiSkFVX3lxTE5qVDBBZzhYekhYV1NkdXJ2ZEhKQlN2OWhwR2R5ekZfWU1yZmtFZFg2eHozcmtSd2tfM29aNmdVRi00a1ZHZjlPY2JB?oc=5)
+
+---
+
+### [脳腫瘍で亡くなった高校生男子 両親の希望で最後まで予後は告げず 病気への本人の思いを聞けなかった看護師の後悔](https://news.google.com/rss/articles/CBMibkFVX3lxTE9mdUx1NmpnNnlmYUdEdm9WSkpqelJXdTVNUkpJQUdOYjJRanhtWU55SFZkaVA4dTRHdFlvVXZnWW5tUG1mTVpjV09kM1hGeUpVV2haY2ZUZ2lWT0ZlOWluUkYxRlVjckswM0czZWtR?oc=5)
+
+2026-11-12 <span class="news-indication-tag">腫瘍</span>
+
+出典: [読売新聞](https://news.google.com/rss/articles/CBMibkFVX3lxTE9mdUx1NmpnNnlmYUdEdm9WSkpqelJXdTVNUkpJQUdOYjJRanhtWU55SFZkaVA4dTRHdFlvVXZnWW5tUG1mTVpjV09kM1hGeUpVV2haY2ZUZ2lWT0ZlOWluUkYxRlVjckswM0czZWtR?oc=5)
 
 ---
 

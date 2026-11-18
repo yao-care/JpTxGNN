@@ -3,7 +3,7 @@ layout: default
 title: "認知症 (dementia) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "認知症 (dementia) に関する健康ニュース。ニュース 17 件、関連医薬品 2 件。"
+description: "認知症 (dementia) に関する健康ニュース。ニュース 23 件、関連医薬品 2 件。"
 permalink: /news/dementia/
 last_modified_at: 2026-11-18
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="認知症 (dementia) に関するニュースは？">
-<strong>認知症 (dementia)</strong> には現在 <strong>17 件</strong>の関連ニュースと 2 件の関連医薬品があります。
+<strong>認知症 (dementia)</strong> には現在 <strong>23 件</strong>の関連ニュースと 2 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -31,13 +31,45 @@ last_modified_at: 2026-11-18
 </ul>
 </div>
 
-## 関連ニュース（17 件）
+## 関連ニュース（23 件）
+
+### [野菜ジュースでもサプリでもない…医師が｢認知症リスクが約3割下がる｣と勧めるスーパーで買える身近な食材(プレジデントオンライン)](https://news.yahoo.co.jp/articles/a66442e81cb0fd1c4df1d9a65e9a6a6843412d91?source=rss)
+
+2026-11-18
+
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/a66442e81cb0fd1c4df1d9a65e9a6a6843412d91?source=rss)
+
+---
+
+### [医師の森田豊さんも「母の認知症を認めたくない息子」に。後悔が受容に変わるまで【私の介護体験】(家庭画報.com)](https://news.yahoo.co.jp/articles/3963013d84a9926c681f71a96d5cbec62050a231?source=rss)
+
+2026-11-18
+
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/3963013d84a9926c681f71a96d5cbec62050a231?source=rss)
+
+---
+
+### [認知症リスクを高める慢性的な孤独…高齢期の認知機能を守るには？ : 社会 : 財経日報](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1OVGd6RVRpa3QtNTFtRmN3MFpLZ1JuWVUzVTlMNlA5dFBkLTVDWXdQUmhoWmF5R0F5RWRyUHFTN3cxel9KLUdNeFJ1bjczSTc0eE9YR3V0dk5kV3Q3czRPWV90VQ?oc=5)
+
+2026-11-18
+
+出典: [재경일보](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1OVGd6RVRpa3QtNTFtRmN3MFpLZ1JuWVUzVTlMNlA5dFBkLTVDWXdQUmhoWmF5R0F5RWRyUHFTN3cxel9KLUdNeFJ1bjczSTc0eE9YR3V0dk5kV3Q3czRPWV90VQ?oc=5)
+
+---
 
 ### [現役を引退すると増える…もの忘れ外来の医師が診察室で真っ先に見抜く"服装"に表われた｢認知症の兆し｣](https://news.google.com/rss/articles/CBMihwFBVV95cUxOQlJvMExtQ0trektYc3A4S051UXBkakZZX2pWRW42TjVwb2F0c1Q3WlhzdF9paVpURWFldW5aaTM0bERPY3Zhd2JUS0FLVDJOZXZENFgyaDlKaHdvX1BRR19IMXRvSTlaVzZRQkhVejBEX2RoZ2pUMFVZVGFCN044VE1oTVNPNU0?oc=5)
 
 2026-11-17
 
-出典: [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxOQlJvMExtQ0trektYc3A4S051UXBkakZZX2pWRW42TjVwb2F0c1Q3WlhzdF9paVpURWFldW5aaTM0bERPY3Zhd2JUS0FLVDJOZXZENFgyaDlKaHdvX1BRR19IMXRvSTlaVzZRQkhVejBEX2RoZ2pUMFVZVGFCN044VE1oTVNPNU0?oc=5) · [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/2e184cfe5fbb5fd9fcc2dad7a3ed3f0e622145b8?source=rss)
+出典: [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxOQlJvMExtQ0trektYc3A4S051UXBkakZZX2pWRW42TjVwb2F0c1Q3WlhzdF9paVpURWFldW5aaTM0bERPY3Zhd2JUS0FLVDJOZXZENFgyaDlKaHdvX1BRR19IMXRvSTlaVzZRQkhVejBEX2RoZ2pUMFVZVGFCN044VE1oTVNPNU0?oc=5)
+
+---
+
+### [過剰な医療を減らし、「生活の質」高める介護充実へ 介護離職がないスウェーデンに学ぶ認知症の医療と介護](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hejJ2TW1RaXhEQ3ZYZ0kyT1hoTVNicXZfdElqXy1TYnZZVDUyQ0s1WHptaVV4enJJcEpDZnJIa3ZfVW8zS1Q4YXU5LUY4dzNKTGlKVXdWcEJZci1IT1NpWkF0OGxFUQ?oc=5)
+
+2026-11-17
+
+出典: [読売新聞](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hejJ2TW1RaXhEQ3ZYZ0kyT1hoTVNicXZfdElqXy1TYnZZVDUyQ0s1WHptaVV4enJJcEpDZnJIa3ZfVW8zS1Q4YXU5LUY4dzNKTGlKVXdWcEJZci1IT1NpWkF0OGxFUQ?oc=5)
 
 ---
 
@@ -54,6 +86,14 @@ last_modified_at: 2026-11-18
 2026-11-16
 
 出典: [介護ポストセブン](https://news.google.com/rss/articles/CBMiSkFVX3lxTE9vMjJYY09xSXRvQVRxeW1HVlAyeEJMNjlrdUF6MWFZcmtSTnJuSEFVTGdsdzIzQzJqaW1QUWFPRDFIWm5yRXQydHVn?oc=5)
+
+---
+
+### [眠りについて聞く理由【認知症あれこれ通信㊲】 - 写真・画像(1/1)](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5UNEFwQjY5NG1PTjdRUFdEbWtFWk5vX0lmR2x6WHd6X3E2YlM1TjUyWlpSaGppMmp2a2Ftd3hsTE1oMFN2eFpHcXpta3dscUJKSnB3R3dTQQ?oc=5)
+
+2026-11-16
+
+出典: [西日本新聞me](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5UNEFwQjY5NG1PTjdRUFdEbWtFWk5vX0lmR2x6WHd6X3E2YlM1TjUyWlpSaGppMmp2a2Ftd3hsTE1oMFN2eFpHcXpta3dscUJKSnB3R3dTQQ?oc=5)
 
 ---
 
@@ -86,6 +126,14 @@ last_modified_at: 2026-11-18
 2026-11-13
 
 出典: [産経ニュース](https://news.google.com/rss/articles/CBMidkFVX3lxTE11TUhqYW1YM1ZyQmZKNmdkeUkwX250cWZBNHVtQzNrc3JCeFhvTi16b1JTMWQ4T3dsdkRlZWpKbXI4TjZuWmV6ZERPYXpMR1JZRjB1QW0yR1ZzNnhlSVF0R2ZRSUk1MWhSQUwyOEc2SGQzVUp5YVE?oc=5)
+
+---
+
+### [2型糖尿病の強化降圧、認知症・軽度認知障害の発生に有意差なし](https://news.google.com/rss/articles/CBMiggFBVV95cUxOTko2Sy1sTGtGLWY0SVA5dmFmRGhZYm03Vk9TZ3QzU0VhVzdaeG9DUXRzT0RIZnJsYWk5SThidVZGTXNyTUtTTDFDSXZ6TDdXaHh6WDgyNDJuM1dOMU5Yc3Rka2ljUUxQeERPVFBKUUNmZnlUYjc0TGZ6TTliWmNUSllR?oc=5)
+
+2026-11-13
+
+出典: [CareNet.com](https://news.google.com/rss/articles/CBMiggFBVV95cUxOTko2Sy1sTGtGLWY0SVA5dmFmRGhZYm03Vk9TZ3QzU0VhVzdaeG9DUXRzT0RIZnJsYWk5SThidVZGTXNyTUtTTDFDSXZ6TDdXaHh6WDgyNDJuM1dOMU5Yc3Rka2ljUUxQeERPVFBKUUNmZnlUYjc0TGZ6TTliWmNUSllR?oc=5)
 
 ---
 

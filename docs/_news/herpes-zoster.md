@@ -3,9 +3,9 @@ layout: default
 title: "帯状疱疹 (herpes zoster) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "帯状疱疹 (herpes zoster) に関する健康ニュース。ニュース 1 件、関連医薬品 3 件。"
+description: "帯状疱疹 (herpes zoster) に関する健康ニュース。ニュース 2 件、関連医薬品 3 件。"
 permalink: /news/herpes-zoster/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-18
 ---
 
 # 帯状疱疹 (herpes zoster) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-12
 ---
 
 <p class="key-answer" data-question="帯状疱疹 (herpes zoster) に関するニュースは？">
-<strong>帯状疱疹 (herpes zoster)</strong> には現在 <strong>1 件</strong>の関連ニュースと 3 件の関連医薬品があります。
+<strong>帯状疱疹 (herpes zoster)</strong> には現在 <strong>2 件</strong>の関連ニュースと 3 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,15 @@ last_modified_at: 2026-11-12
 </ul>
 </div>
 
-## 関連ニュース（1 件）
+## 関連ニュース（2 件）
+
+### [夫婦で「帯状疱疹ワクチン」を打ったら、70歳の妻は「2回で2万2000円」なのに、69歳の私は「4万4000円」！ たった“1歳違い”で「倍になる」のはなぜ？「定期接種の対象年齢」を確認 - Ameba News [アメーバニュース]](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GN096YTBhODVkaERRcXV4alA2MWxsUllXenptOVFQNFlnUG9tWUd5c2JpbWFya2duZlMzSE0yX2VuRDA5ZEFpVXpvRzFOaEd3UjFFTUJZSzB4dw?oc=5)
+
+2026-11-13
+
+出典: [Ameba News [アメーバニュース]](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GN096YTBhODVkaERRcXV4alA2MWxsUllXenptOVFQNFlnUG9tWUd5c2JpbWFya2duZlMzSE0yX2VuRDA5ZEFpVXpvRzFOaEd3UjFFTUJZSzB4dw?oc=5)
+
+---
 
 ### [きっかけは何？ 他人にうつるの？ つらい後遺症は？ 《発症が急増する50代》が知っておきたい帯状疱疹の素朴な疑問10](https://news.google.com/rss/articles/CBMihwFBVV95cUxNcG1xU0pUSk1QVmo5RHdFYW1KSzRvVm56OGZWazRmT1JXcFlfbE1jWE5vV1A5XzVaVjhTZmFCUjlPc2EtR0tnSEdzT3Mwdjg4M29ZRmJSdVpRQnZxVGowbmp0blAzMC14UHhzNXJxMks1R0hLdHcyOUVWcWJBbFFlakVpb1FyR00?oc=5)
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="アルダクトンＡ錠５０ｍｇ（選） に関するニュースは？">
-<strong>アルダクトンＡ錠５０ｍｇ（選）</strong> には現在 <strong>21 件</strong>の関連ニュースがあり、予測適応症は 2 件です。
+<strong>アルダクトンＡ錠５０ｍｇ（選）</strong> には現在 <strong>26 件</strong>の関連ニュースがあり、予測適応症は 2 件です。
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,39 @@ last_modified_at: 2026-11-18
 <p><a href="{{ '/drugs/spironolactone/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（21 件）
+## 関連ニュース（26 件）
+
+### [野菜ジュースでもサプリでもない…医師が｢認知症リスクが約3割下がる｣と勧めるスーパーで買える身近な食材(プレジデントオンライン)](https://news.yahoo.co.jp/articles/a66442e81cb0fd1c4df1d9a65e9a6a6843412d91?source=rss)
+
+2026-11-18 <span class="news-indication-tag">心臓病</span> <span class="news-indication-tag">認知症</span>
+
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/a66442e81cb0fd1c4df1d9a65e9a6a6843412d91?source=rss)
+
+---
+
+### [心臓病患者に尋ねるべき4つのワクチン](https://news.google.com/rss/articles/CBMiUkFVX3lxTE91WENLdXZTV0pFQ3ZLdjNFbnY5QlZHTnE3Qk1sY2JkMmF0STVjRkMwSHJvWEhhWUp4VFd1MzNyczlnUEdodlJwNXZudGRhcHBKNlE?oc=5)
+
+2026-11-18 <span class="news-indication-tag">心臓病</span>
+
+出典: [m3.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTE91WENLdXZTV0pFQ3ZLdjNFbnY5QlZHTnE3Qk1sY2JkMmF0STVjRkMwSHJvWEhhWUp4VFd1MzNyczlnUEdodlJwNXZudGRhcHBKNlE?oc=5)
+
+---
+
+### [がん死者数が21年比2.4倍に、早期発見を](https://news.google.com/rss/articles/CBMiRkFVX3lxTFB2WkIzOGhnMk94ZkZ1X093NTM5LTlUc0JrU21YcVhVakt1cklxM01WaWJoLUNqQVBLZmE2ZVdJX19Gc0xwQkE?oc=5)
+
+2026-11-18 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾患</span>
+
+出典: [NNAアジア](https://news.google.com/rss/articles/CBMiRkFVX3lxTFB2WkIzOGhnMk94ZkZ1X093NTM5LTlUc0JrU21YcVhVakt1cklxM01WaWJoLUNqQVBLZmE2ZVdJX19Gc0xwQkE?oc=5)
+
+---
+
+### [子宮頸がんワクチン業界の予測レポート：2026年から2033年にかけての期待される成長と](https://news.google.com/rss/articles/CBMiSkFVX3lxTFAzYjl6a0xLaHZiaTBEMUhKSURkeUJ6Mlc5UmpoN1Vtakd2RjJsSGl5WHZoMGlTTU54b3pmbzY4QV9XU3RWV2hNenVR?oc=5)
+
+2026-11-18 <span class="news-indication-tag">がん</span>
+
+出典: [pando.life](https://news.google.com/rss/articles/CBMiSkFVX3lxTFAzYjl6a0xLaHZiaTBEMUhKSURkeUJ6Mlc5UmpoN1Vtakd2RjJsSGl5WHZoMGlTTU54b3pmbzY4QV9XU3RWV2hNenVR?oc=5)
+
+---
 
 ### [太田裕美さんは乳がんのため自宅で死去(共同通信)](https://news.yahoo.co.jp/articles/ba64c886d61bd94504c678b79478d8263d85d463?source=rss)
 
@@ -145,6 +177,14 @@ last_modified_at: 2026-11-18
 2026-11-12 <span class="news-indication-tag">がん</span>
 
 出典: [anan](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sUHZXLS1KcDhsUnJuSlVMME9BNFZxZ1lwWGExSUprdUhNd1J3QzlaYXc1R0F2UFBpTTN3TlhKNDgwcWJIU2FQa1drSWM5OGpWeTVWMGIyRi0?oc=5)
+
+---
+
+### [脳腫瘍で亡くなった高校生男子 両親の希望で最後まで予後は告げず 病気への本人の思いを聞けなかった看護師の後悔](https://news.google.com/rss/articles/CBMibkFVX3lxTE9mdUx1NmpnNnlmYUdEdm9WSkpqelJXdTVNUkpJQUdOYjJRanhtWU55SFZkaVA4dTRHdFlvVXZnWW5tUG1mTVpjV09kM1hGeUpVV2haY2ZUZ2lWT0ZlOWluUkYxRlVjckswM0czZWtR?oc=5)
+
+2026-11-12 <span class="news-indication-tag">腫瘍</span>
+
+出典: [読売新聞](https://news.google.com/rss/articles/CBMibkFVX3lxTE9mdUx1NmpnNnlmYUdEdm9WSkpqelJXdTVNUkpJQUdOYjJRanhtWU55SFZkaVA4dTRHdFlvVXZnWW5tUG1mTVpjV09kM1hGeUpVV2haY2ZUZ2lWT0ZlOWluUkYxRlVjckswM0czZWtR?oc=5)
 
 ---
 

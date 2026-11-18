@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」 に関するニュースは？">
-<strong>モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」</strong> には現在 <strong>23 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」</strong> には現在 <strong>27 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ last_modified_at: 2026-11-18
 <p><a href="{{ '/drugs/morphine/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（23 件）
+## 関連ニュース（27 件）
+
+### [がん死者数が21年比2.4倍に、早期発見を](https://news.google.com/rss/articles/CBMiRkFVX3lxTFB2WkIzOGhnMk94ZkZ1X093NTM5LTlUc0JrU21YcVhVakt1cklxM01WaWJoLUNqQVBLZmE2ZVdJX19Gc0xwQkE?oc=5)
+
+2026-11-18 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾患</span>
+
+出典: [NNAアジア](https://news.google.com/rss/articles/CBMiRkFVX3lxTFB2WkIzOGhnMk94ZkZ1X093NTM5LTlUc0JrU21YcVhVakt1cklxM01WaWJoLUNqQVBLZmE2ZVdJX19Gc0xwQkE?oc=5)
+
+---
+
+### [子宮頸がんワクチン業界の予測レポート：2026年から2033年にかけての期待される成長と](https://news.google.com/rss/articles/CBMiSkFVX3lxTFAzYjl6a0xLaHZiaTBEMUhKSURkeUJ6Mlc5UmpoN1Vtakd2RjJsSGl5WHZoMGlTTU54b3pmbzY4QV9XU3RWV2hNenVR?oc=5)
+
+2026-11-18 <span class="news-indication-tag">がん</span>
+
+出典: [pando.life](https://news.google.com/rss/articles/CBMiSkFVX3lxTFAzYjl6a0xLaHZiaTBEMUhKSURkeUJ6Mlc5UmpoN1Vtakd2RjJsSGl5WHZoMGlTTU54b3pmbzY4QV9XU3RWV2hNenVR?oc=5)
+
+---
 
 ### [太田裕美さんは乳がんのため自宅で死去(共同通信)](https://news.yahoo.co.jp/articles/ba64c886d61bd94504c678b79478d8263d85d463?source=rss)
 
@@ -65,6 +81,14 @@ last_modified_at: 2026-11-18
 2026-11-17 <span class="news-indication-tag">がん</span>
 
 出典: [産経ニュース](https://news.google.com/rss/articles/CBMijAFBVV95cUxOcWNMU2czbi1maHFGbEprRmpCeEJnYjdkX1dYWGtaUWpJTUQ2UUQwSnZaNzBHOFJPZDhOeXI2cEd1YUxNbmhMTjFiVXB2WnZid3ZLcC1xOW42anhsR1NISThra0NRY1V5Wk1NbDA1UDZTZ0JkdVFvSEFNZERPaFVOYnlUQ2xHQS0xcHFCSg?oc=5)
+
+---
+
+### [ネアンデルタール人から受け継いだ遺伝子が現代人の脳や統合失調症リスクに影響している可能性 - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE5HYkg3LXVWLUR0VVQ0UTlmdjVtb0pHakpwLTJVWE1XcEdyN3hwYzZDc19PR2dJZGFtZGs5dFNZbHJmQTdOSG5veHFPZXZBa29QUVRkWlVSWTIxT01kMlZPamNQd2xyWVYwX0pxS0ln?oc=5)
+
+2026-11-17 <span class="news-indication-tag">統合失調症</span>
+
+出典: [au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE5HYkg3LXVWLUR0VVQ0UTlmdjVtb0pHakpwLTJVWE1XcEdyN3hwYzZDc19PR2dJZGFtZGs5dFNZbHJmQTdOSG5veHFPZXZBa29QUVRkWlVSWTIxT01kMlZPamNQd2xyWVYwX0pxS0ln?oc=5)
 
 ---
 
@@ -161,6 +185,14 @@ last_modified_at: 2026-11-18
 2026-11-12 <span class="news-indication-tag">がん</span>
 
 出典: [anan](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sUHZXLS1KcDhsUnJuSlVMME9BNFZxZ1lwWGExSUprdUhNd1J3QzlaYXc1R0F2UFBpTTN3TlhKNDgwcWJIU2FQa1drSWM5OGpWeTVWMGIyRi0?oc=5)
+
+---
+
+### [脳腫瘍で亡くなった高校生男子 両親の希望で最後まで予後は告げず 病気への本人の思いを聞けなかった看護師の後悔](https://news.google.com/rss/articles/CBMibkFVX3lxTE9mdUx1NmpnNnlmYUdEdm9WSkpqelJXdTVNUkpJQUdOYjJRanhtWU55SFZkaVA4dTRHdFlvVXZnWW5tUG1mTVpjV09kM1hGeUpVV2haY2ZUZ2lWT0ZlOWluUkYxRlVjckswM0czZWtR?oc=5)
+
+2026-11-12 <span class="news-indication-tag">腫瘍</span>
+
+出典: [読売新聞](https://news.google.com/rss/articles/CBMibkFVX3lxTE9mdUx1NmpnNnlmYUdEdm9WSkpqelJXdTVNUkpJQUdOYjJRanhtWU55SFZkaVA4dTRHdFlvVXZnWW5tUG1mTVpjV09kM1hGeUpVV2haY2ZUZ2lWT0ZlOWluUkYxRlVjckswM0czZWtR?oc=5)
 
 ---
 

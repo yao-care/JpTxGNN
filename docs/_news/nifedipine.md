@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "アダラートＣＲ錠４０ｍｇ（選） に関する健康ニュース。予測適応症 0 件。"
 permalink: /news/nifedipine/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-18
 ---
 
 # アダラートＣＲ錠４０ｍｇ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="アダラートＣＲ錠４０ｍｇ（選） に関するニュースは？">
-<strong>アダラートＣＲ錠４０ｍｇ（選）</strong> には現在 <strong>1 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>アダラートＣＲ錠４０ｍｇ（選）</strong> には現在 <strong>3 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,23 @@ last_modified_at: 2026-11-17
 <p><a href="{{ '/drugs/nifedipine/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（1 件）
+## 関連ニュース（3 件）
+
+### [野菜ジュースでもサプリでもない…医師が｢認知症リスクが約3割下がる｣と勧めるスーパーで買える身近な食材(プレジデントオンライン)](https://news.yahoo.co.jp/articles/a66442e81cb0fd1c4df1d9a65e9a6a6843412d91?source=rss)
+
+2026-11-18 <span class="news-indication-tag">心臓病</span> <span class="news-indication-tag">認知症</span>
+
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/a66442e81cb0fd1c4df1d9a65e9a6a6843412d91?source=rss)
+
+---
+
+### [心臓病患者に尋ねるべき4つのワクチン](https://news.google.com/rss/articles/CBMiUkFVX3lxTE91WENLdXZTV0pFQ3ZLdjNFbnY5QlZHTnE3Qk1sY2JkMmF0STVjRkMwSHJvWEhhWUp4VFd1MzNyczlnUEdodlJwNXZudGRhcHBKNlE?oc=5)
+
+2026-11-18 <span class="news-indication-tag">心臓病</span>
+
+出典: [m3.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTE91WENLdXZTV0pFQ3ZLdjNFbnY5QlZHTnE3Qk1sY2JkMmF0STVjRkMwSHJvWEhhWUp4VFd1MzNyczlnUEdodlJwNXZudGRhcHBKNlE?oc=5)
+
+---
 
 ### [「太るのは自己管理が甘いだけ」は誤解―職場で取り組む肥満症対策が目指すものとは(メディカルドック)](https://news.yahoo.co.jp/articles/455f821abb778835d7d18b787e87a7ebd160a5c0?source=rss)
 

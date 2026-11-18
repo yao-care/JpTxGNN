@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "ザルティア錠５ｍｇ（選） に関する健康ニュース。予測適応症 8 件。"
 permalink: /news/tadalafil/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-18
 ---
 
 # ザルティア錠５ｍｇ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-16
 ---
 
 <p class="key-answer" data-question="ザルティア錠５ｍｇ（選） に関するニュースは？">
-<strong>ザルティア錠５ｍｇ（選）</strong> には現在 <strong>2 件</strong>の関連ニュースがあり、予測適応症は 8 件です。
+<strong>ザルティア錠５ｍｇ（選）</strong> には現在 <strong>7 件</strong>の関連ニュースがあり、予測適応症は 8 件です。
 </p>
 
 <div class="key-takeaway">
@@ -40,13 +40,53 @@ last_modified_at: 2026-11-16
 <p><a href="{{ '/drugs/tadalafil/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（2 件）
+## 関連ニュース（7 件）
+
+### [野菜ジュースでもサプリでもない…医師が｢認知症リスクが約3割下がる｣と勧めるスーパーで買える身近な食材(プレジデントオンライン)](https://news.yahoo.co.jp/articles/a66442e81cb0fd1c4df1d9a65e9a6a6843412d91?source=rss)
+
+2026-11-18 <span class="news-indication-tag">心臓病</span> <span class="news-indication-tag">認知症</span>
+
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/a66442e81cb0fd1c4df1d9a65e9a6a6843412d91?source=rss)
+
+---
+
+### [心臓病患者に尋ねるべき4つのワクチン](https://news.google.com/rss/articles/CBMiUkFVX3lxTE91WENLdXZTV0pFQ3ZLdjNFbnY5QlZHTnE3Qk1sY2JkMmF0STVjRkMwSHJvWEhhWUp4VFd1MzNyczlnUEdodlJwNXZudGRhcHBKNlE?oc=5)
+
+2026-11-18 <span class="news-indication-tag">心臓病</span>
+
+出典: [m3.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTE91WENLdXZTV0pFQ3ZLdjNFbnY5QlZHTnE3Qk1sY2JkMmF0STVjRkMwSHJvWEhhWUp4VFd1MzNyczlnUEdodlJwNXZudGRhcHBKNlE?oc=5)
+
+---
+
+### [がん死者数が21年比2.4倍に、早期発見を](https://news.google.com/rss/articles/CBMiRkFVX3lxTFB2WkIzOGhnMk94ZkZ1X093NTM5LTlUc0JrU21YcVhVakt1cklxM01WaWJoLUNqQVBLZmE2ZVdJX19Gc0xwQkE?oc=5)
+
+2026-11-18 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾患</span>
+
+出典: [NNAアジア](https://news.google.com/rss/articles/CBMiRkFVX3lxTFB2WkIzOGhnMk94ZkZ1X093NTM5LTlUc0JrU21YcVhVakt1cklxM01WaWJoLUNqQVBLZmE2ZVdJX19Gc0xwQkE?oc=5)
+
+---
 
 ### [成人の９人に１人がかかる糖尿病 病気への理解深める講演会 即実践できる食事や運動のポイントを説明](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBXa0M3WmNsSzlpdjY2Y21BRkxuZW5iN3ZZT19qOGxDVk14ZHhhYWQ1NnJRQjNTLTJFSm5SbFA5aUphSGFZMFVCT0pOQVQ3UQ?oc=5)
 
 2026-11-15 <span class="news-indication-tag">脳梗塞</span>
 
 出典: [FNNプライムオンライン](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBXa0M3WmNsSzlpdjY2Y21BRkxuZW5iN3ZZT19qOGxDVk14ZHhhYWQ1NnJRQjNTLTJFSm5SbFA5aUphSGFZMFVCT0pOQVQ3UQ?oc=5)
+
+---
+
+### [急性虚血性脳卒中の治療、血栓溶解療法と血栓回収療法を整理](https://news.google.com/rss/articles/CBMiggFBVV95cUxQVENCMVpXZHB4Rm1IbWJxZFB2d0ZQei1hbmZsWE1Ca0h5WUhxVEFGSVAwSVhDcmxUUnFYNEdWUmszRVZCVzBuMi01bW9XMHUxcGRMcVF1ekJwSGFpcTNBeUNidVRKZ0pWSUNWSnZySXRDRW9jaFdPa1UxVm1qclNiWlpn?oc=5)
+
+2026-11-13 <span class="news-indication-tag">脳卒中</span>
+
+出典: [CareNet.com](https://news.google.com/rss/articles/CBMiggFBVV95cUxQVENCMVpXZHB4Rm1IbWJxZFB2d0ZQei1hbmZsWE1Ca0h5WUhxVEFGSVAwSVhDcmxUUnFYNEdWUmszRVZCVzBuMi01bW9XMHUxcGRMcVF1ekJwSGFpcTNBeUNidVRKZ0pWSUNWSnZySXRDRW9jaFdPa1UxVm1qclNiWlpn?oc=5)
+
+---
+
+### [2型糖尿病の強化降圧、認知症・軽度認知障害の発生に有意差なし](https://news.google.com/rss/articles/CBMiggFBVV95cUxOTko2Sy1sTGtGLWY0SVA5dmFmRGhZYm03Vk9TZ3QzU0VhVzdaeG9DUXRzT0RIZnJsYWk5SThidVZGTXNyTUtTTDFDSXZ6TDdXaHh6WDgyNDJuM1dOMU5Yc3Rka2ljUUxQeERPVFBKUUNmZnlUYjc0TGZ6TTliWmNUSllR?oc=5)
+
+2026-11-13 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">認知症</span> <span class="news-indication-tag">2型糖尿病</span>
+
+出典: [CareNet.com](https://news.google.com/rss/articles/CBMiggFBVV95cUxOTko2Sy1sTGtGLWY0SVA5dmFmRGhZYm03Vk9TZ3QzU0VhVzdaeG9DUXRzT0RIZnJsYWk5SThidVZGTXNyTUtTTDFDSXZ6TDdXaHh6WDgyNDJuM1dOMU5Yc3Rka2ljUUxQeERPVFBKUUNmZnlUYjc0TGZ6TTliWmNUSllR?oc=5)
 
 ---
 

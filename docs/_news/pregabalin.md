@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "リリカＯＤ錠１５０ｍｇ（選） に関する健康ニュース。予測適応症 6 件。"
 permalink: /news/pregabalin/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-18
 ---
 
 # リリカＯＤ錠１５０ｍｇ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="リリカＯＤ錠１５０ｍｇ（選） に関するニュースは？">
-<strong>リリカＯＤ錠１５０ｍｇ（選）</strong> には現在 <strong>1 件</strong>の関連ニュースがあり、予測適応症は 6 件です。
+<strong>リリカＯＤ錠１５０ｍｇ（選）</strong> には現在 <strong>3 件</strong>の関連ニュースがあり、予測適応症は 6 件です。
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,23 @@ last_modified_at: 2026-11-17
 <p><a href="{{ '/drugs/pregabalin/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（1 件）
+## 関連ニュース（3 件）
+
+### [野菜ジュースでもサプリでもない…医師が｢認知症リスクが約3割下がる｣と勧めるスーパーで買える身近な食材(プレジデントオンライン)](https://news.yahoo.co.jp/articles/a66442e81cb0fd1c4df1d9a65e9a6a6843412d91?source=rss)
+
+2026-11-18 <span class="news-indication-tag">心臓病</span> <span class="news-indication-tag">認知症</span>
+
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/a66442e81cb0fd1c4df1d9a65e9a6a6843412d91?source=rss)
+
+---
+
+### [心臓病患者に尋ねるべき4つのワクチン](https://news.google.com/rss/articles/CBMiUkFVX3lxTE91WENLdXZTV0pFQ3ZLdjNFbnY5QlZHTnE3Qk1sY2JkMmF0STVjRkMwSHJvWEhhWUp4VFd1MzNyczlnUEdodlJwNXZudGRhcHBKNlE?oc=5)
+
+2026-11-18 <span class="news-indication-tag">心臓病</span>
+
+出典: [m3.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTE91WENLdXZTV0pFQ3ZLdjNFbnY5QlZHTnE3Qk1sY2JkMmF0STVjRkMwSHJvWEhhWUp4VFd1MzNyczlnUEdodlJwNXZudGRhcHBKNlE?oc=5)
+
+---
 
 ### [【闘病】コロナ感染から約9カ月の寝たきり生活へ…20代女性を襲った『慢性疲労症候群』(メディカルドック)](https://news.yahoo.co.jp/articles/8aa3c3bf7bf8dcb48de1751161a3a05be59b6f21?source=rss)
 

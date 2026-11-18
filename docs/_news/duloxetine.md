@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "サインバルタカプセル３０ｍｇ（選） に関する健康ニュース。予測適応症 10 件。"
 permalink: /news/duloxetine/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-18
 ---
 
 # サインバルタカプセル３０ｍｇ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="サインバルタカプセル３０ｍｇ（選） に関するニュースは？">
-<strong>サインバルタカプセル３０ｍｇ（選）</strong> には現在 <strong>2 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>サインバルタカプセル３０ｍｇ（選）</strong> には現在 <strong>5 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,37 @@ last_modified_at: 2026-11-17
 <p><a href="{{ '/drugs/duloxetine/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（2 件）
+## 関連ニュース（5 件）
+
+### [がん死者数が21年比2.4倍に、早期発見を](https://news.google.com/rss/articles/CBMiRkFVX3lxTFB2WkIzOGhnMk94ZkZ1X093NTM5LTlUc0JrU21YcVhVakt1cklxM01WaWJoLUNqQVBLZmE2ZVdJX19Gc0xwQkE?oc=5)
+
+2026-11-18 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾患</span>
+
+出典: [NNAアジア](https://news.google.com/rss/articles/CBMiRkFVX3lxTFB2WkIzOGhnMk94ZkZ1X093NTM5LTlUc0JrU21YcVhVakt1cklxM01WaWJoLUNqQVBLZmE2ZVdJX19Gc0xwQkE?oc=5)
+
+---
+
+### [ネアンデルタール人から受け継いだ遺伝子が現代人の脳や統合失調症リスクに影響している可能性 - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE5HYkg3LXVWLUR0VVQ0UTlmdjVtb0pHakpwLTJVWE1XcEdyN3hwYzZDc19PR2dJZGFtZGs5dFNZbHJmQTdOSG5veHFPZXZBa29QUVRkWlVSWTIxT01kMlZPamNQd2xyWVYwX0pxS0ln?oc=5)
+
+2026-11-17 <span class="news-indication-tag">統合失調症</span>
+
+出典: [au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE5HYkg3LXVWLUR0VVQ0UTlmdjVtb0pHakpwLTJVWE1XcEdyN3hwYzZDc19PR2dJZGFtZGs5dFNZbHJmQTdOSG5veHFPZXZBa29QUVRkWlVSWTIxT01kMlZPamNQd2xyWVYwX0pxS0ln?oc=5)
+
+---
 
 ### [ネアンデルタール人の遺伝子、現生人類の脳後頭葉を縮小・統合失調症リスクを10%低下させる - BigGo ファイナンス](https://news.google.com/rss/articles/CBMidEFVX3lxTE5lTV90ejd1N1Vkb3V2RUsxTGFLT21hQk1BT29GVk1Va1RMLVYtOGRGRnNObVprVlpqLU82NEhEdVpHZUJkYUJxNHpLTDdkUHJHd0F6dWdWZEhpcDFmYWFPRmxxNGs4N3FQeFlVUVpQamtSQjJp?oc=5)
 
 2026-11-16 <span class="news-indication-tag">統合失調症</span>
 
 出典: [BigGo ファイナンス](https://news.google.com/rss/articles/CBMidEFVX3lxTE5lTV90ejd1N1Vkb3V2RUsxTGFLT21hQk1BT29GVk1Va1RMLVYtOGRGRnNObVprVlpqLU82NEhEdVpHZUJkYUJxNHpLTDdkUHJHd0F6dWdWZEhpcDFmYWFPRmxxNGs4N3FQeFlVUVpQamtSQjJp?oc=5)
+
+---
+
+### [2型糖尿病の強化降圧、認知症・軽度認知障害の発生に有意差なし](https://news.google.com/rss/articles/CBMiggFBVV95cUxOTko2Sy1sTGtGLWY0SVA5dmFmRGhZYm03Vk9TZ3QzU0VhVzdaeG9DUXRzT0RIZnJsYWk5SThidVZGTXNyTUtTTDFDSXZ6TDdXaHh6WDgyNDJuM1dOMU5Yc3Rka2ljUUxQeERPVFBKUUNmZnlUYjc0TGZ6TTliWmNUSllR?oc=5)
+
+2026-11-13 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">認知症</span> <span class="news-indication-tag">2型糖尿病</span>
+
+出典: [CareNet.com](https://news.google.com/rss/articles/CBMiggFBVV95cUxOTko2Sy1sTGtGLWY0SVA5dmFmRGhZYm03Vk9TZ3QzU0VhVzdaeG9DUXRzT0RIZnJsYWk5SThidVZGTXNyTUtTTDFDSXZ6TDdXaHh6WDgyNDJuM1dOMU5Yc3Rka2ljUUxQeERPVFBKUUNmZnlUYjc0TGZ6TTliWmNUSllR?oc=5)
 
 ---
 
