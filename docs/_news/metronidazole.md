@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "メトロニダゾールゲル０．７５％「マルイシ」 に関する健康ニュース。予測適応症 10 件。"
 permalink: /news/metronidazole/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-18
 ---
 
 # メトロニダゾールゲル０．７５％「マルイシ」 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="メトロニダゾールゲル０．７５％「マルイシ」 に関するニュースは？">
-<strong>メトロニダゾールゲル０．７５％「マルイシ」</strong> には現在 <strong>21 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>メトロニダゾールゲル０．７５％「マルイシ」</strong> には現在 <strong>24 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,31 @@ last_modified_at: 2026-11-17
 <p><a href="{{ '/drugs/metronidazole/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（21 件）
+## 関連ニュース（24 件）
+
+### [太田裕美さんは乳がんのため自宅で死去(共同通信)](https://news.yahoo.co.jp/articles/ba64c886d61bd94504c678b79478d8263d85d463?source=rss)
+
+2026-11-18 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
+
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/ba64c886d61bd94504c678b79478d8263d85d463?source=rss)
+
+---
+
+### [その「疲れ」、男性更年期かも？ 寿命とも関わる男性ホルモン「テストステロン」とは 【医師解説】(Medical Note)](https://news.yahoo.co.jp/articles/18f76eca860d6ff632ab3d15a6282a6dabd4afeb?source=rss)
+
+2026-11-18 <span class="news-indication-tag">更年期</span>
+
+出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/18f76eca860d6ff632ab3d15a6282a6dabd4afeb?source=rss)
+
+---
+
+### [【子宮頸がん】旭川市で30～40代の若い方が毎年2～3名亡くなっている](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YUUZwQ1ZfUjZRRnFVdWExN3pmbVJHcVJlME1xWWVCdk5YLWVvTC13T0xUV0pjT2I2dUE4R2hoVUExeF9feENIZV92NFJBMTZwbWQwNHZXTlRKYUZsb2c0?oc=5)
+
+2026-11-18 <span class="news-indication-tag">がん</span>
+
+出典: [選挙ドットコム](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YUUZwQ1ZfUjZRRnFVdWExN3pmbVJHcVJlME1xWWVCdk5YLWVvTC13T0xUV0pjT2I2dUE4R2hoVUExeF9feENIZV92NFJBMTZwbWQwNHZXTlRKYUZsb2c0?oc=5)
+
+---
 
 ### [これって”プレ更年期”なの？「駅の階段が上れない」39歳から突然始まった強い疲労。6年間、病院を回っても原因がわからなくて(OTONA SALONE)](https://news.yahoo.co.jp/articles/28cb7a42ce076281769acba911779b9370f4a4f2?source=rss)
 
@@ -120,7 +144,7 @@ last_modified_at: 2026-11-17
 
 2026-11-14 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
 
-出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE5WckJjUDl5UThGeXk2MmFzY3FHcjcwaHNpZTZITElGN2dZdnQ1ZUVpQkxiUGdjdUI2Q0x1ZDZzd0FlOHh3bzJnNk9ubHdrUHdKUlJsLWliMWRWaFY1QXRJZm11bmxjOUdpN1BVVl9rS3JNa2xfa3VwaEV4QVZmTVU?oc=5) · [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/c2ecd1bd304a3d3f92a062944a3ae7ea63e8f342?source=rss)
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE5WckJjUDl5UThGeXk2MmFzY3FHcjcwaHNpZTZITElGN2dZdnQ1ZUVpQkxiUGdjdUI2Q0x1ZDZzd0FlOHh3bzJnNk9ubHdrUHdKUlJsLWliMWRWaFY1QXRJZm11bmxjOUdpN1BVVl9rS3JNa2xfa3VwaEV4QVZmTVU?oc=5)
 
 ---
 

@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "プラスグレル錠５ｍｇ「ＤＳＥＰ」 に関する健康ニュース。予測適応症 9 件。"
 permalink: /news/prasugrel/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-18
 ---
 
 # プラスグレル錠５ｍｇ「ＤＳＥＰ」 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="プラスグレル錠５ｍｇ「ＤＳＥＰ」 に関するニュースは？">
-<strong>プラスグレル錠５ｍｇ「ＤＳＥＰ」</strong> には現在 <strong>23 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
+<strong>プラスグレル錠５ｍｇ「ＤＳＥＰ」</strong> には現在 <strong>25 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,23 @@ last_modified_at: 2026-11-17
 <p><a href="{{ '/drugs/prasugrel/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（23 件）
+## 関連ニュース（25 件）
+
+### [太田裕美さんは乳がんのため自宅で死去(共同通信)](https://news.yahoo.co.jp/articles/ba64c886d61bd94504c678b79478d8263d85d463?source=rss)
+
+2026-11-18 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
+
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/ba64c886d61bd94504c678b79478d8263d85d463?source=rss)
+
+---
+
+### [【子宮頸がん】旭川市で30～40代の若い方が毎年2～3名亡くなっている](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YUUZwQ1ZfUjZRRnFVdWExN3pmbVJHcVJlME1xWWVCdk5YLWVvTC13T0xUV0pjT2I2dUE4R2hoVUExeF9feENIZV92NFJBMTZwbWQwNHZXTlRKYUZsb2c0?oc=5)
+
+2026-11-18 <span class="news-indication-tag">がん</span>
+
+出典: [選挙ドットコム](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YUUZwQ1ZfUjZRRnFVdWExN3pmbVJHcVJlME1xWWVCdk5YLWVvTC13T0xUV0pjT2I2dUE4R2hoVUExeF9feENIZV92NFJBMTZwbWQwNHZXTlRKYUZsb2c0?oc=5)
+
+---
 
 ### [ゼロカロリー甘味料で血栓リスク2倍超、心臓発作のリスク増大 24年研究](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1PVUxraTRwWjR6bkQzbzdvcjhETGNQWVJMMkJLQTB6c25wQTZzSW9sSldwVlFWVHV0LUtNa0ZyYWxYVlpoYjhnRDZyVy16aURvRkRPQg?oc=5)
 
@@ -135,7 +151,7 @@ last_modified_at: 2026-11-17
 
 2026-11-14 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
 
-出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE5WckJjUDl5UThGeXk2MmFzY3FHcjcwaHNpZTZITElGN2dZdnQ1ZUVpQkxiUGdjdUI2Q0x1ZDZzd0FlOHh3bzJnNk9ubHdrUHdKUlJsLWliMWRWaFY1QXRJZm11bmxjOUdpN1BVVl9rS3JNa2xfa3VwaEV4QVZmTVU?oc=5) · [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/c2ecd1bd304a3d3f92a062944a3ae7ea63e8f342?source=rss)
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE5WckJjUDl5UThGeXk2MmFzY3FHcjcwaHNpZTZITElGN2dZdnQ1ZUVpQkxiUGdjdUI2Q0x1ZDZzd0FlOHh3bzJnNk9ubHdrUHdKUlJsLWliMWRWaFY1QXRJZm11bmxjOUdpN1BVVl9rS3JNa2xfa3VwaEV4QVZmTVU?oc=5)
 
 ---
 
