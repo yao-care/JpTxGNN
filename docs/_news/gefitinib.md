@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "イレッサ錠２５０　２５０ｍｇ（選） に関する健康ニュース。予測適応症 9 件。"
 permalink: /news/gefitinib/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-18
 ---
 
 # イレッサ錠２５０　２５０ｍｇ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="イレッサ錠２５０　２５０ｍｇ（選） に関するニュースは？">
-<strong>イレッサ錠２５０　２５０ｍｇ（選）</strong> には現在 <strong>33 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
+<strong>イレッサ錠２５０　２５０ｍｇ（選）</strong> には現在 <strong>36 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ last_modified_at: 2026-11-17
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（33 件）
+## 関連ニュース（36 件）
+
+### [現役を引退すると増える…もの忘れ外来の医師が診察室で真っ先に見抜く"服装"に表われた｢認知症の兆し｣](https://news.google.com/rss/articles/CBMihwFBVV95cUxOQlJvMExtQ0trektYc3A4S051UXBkakZZX2pWRW42TjVwb2F0c1Q3WlhzdF9paVpURWFldW5aaTM0bERPY3Zhd2JUS0FLVDJOZXZENFgyaDlKaHdvX1BRR19IMXRvSTlaVzZRQkhVejBEX2RoZ2pUMFVZVGFCN044VE1oTVNPNU0?oc=5)
+
+2026-11-17 <span class="news-indication-tag">認知症</span>
+
+出典: [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxOQlJvMExtQ0trektYc3A4S051UXBkakZZX2pWRW42TjVwb2F0c1Q3WlhzdF9paVpURWFldW5aaTM0bERPY3Zhd2JUS0FLVDJOZXZENFgyaDlKaHdvX1BRR19IMXRvSTlaVzZRQkhVejBEX2RoZ2pUMFVZVGFCN044VE1oTVNPNU0?oc=5) · [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/2e184cfe5fbb5fd9fcc2dad7a3ed3f0e622145b8?source=rss)
+
+---
 
 ### [交際1人でも子宮頸がん、子供諦め「同じ悲しみ負わないで」国際目標6年、予防と理解課題](https://news.google.com/rss/articles/CBMijAFBVV95cUxOcWNMU2czbi1maHFGbEprRmpCeEJnYjdkX1dYWGtaUWpJTUQ2UUQwSnZaNzBHOFJPZDhOeXI2cEd1YUxNbmhMTjFiVXB2WnZid3ZLcC1xOW42anhsR1NISThra0NRY1V5Wk1NbDA1UDZTZ0JkdVFvSEFNZERPaFVOYnlUQ2xHQS0xcHFCSg?oc=5)
 
@@ -131,6 +139,14 @@ last_modified_at: 2026-11-17
 
 ---
 
+### [認知症治療 糸口は「掃除役」(日経11月15日の記事より抜粋)｜石井則好](https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxWGYzblZ1XzdRQlJ5SlpuWVJtakFWakVGU1F0R0pra0FLanRubjU3dXJWd3JDR0RCRFB0cTNJdWpQci1Pb1RwV3lROFl0eFFDMjlWMTNaTWdQdmZFd05nMkFFdUkya1Rl?oc=5)
+
+2026-11-15 <span class="news-indication-tag">認知症</span>
+
+出典: [JIJICO](https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxWGYzblZ1XzdRQlJ5SlpuWVJtakFWakVGU1F0R0pra0FLanRubjU3dXJWd3JDR0RCRFB0cTNJdWpQci1Pb1RwV3lROFl0eFFDMjlWMTNaTWdQdmZFd05nMkFFdUkya1Rl?oc=5)
+
+---
+
 ### [「認知症」と「ただの物忘れ」医師が教える明らかな違い](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qMlNjRzlndmF0WVdjbUFSUmxFaV9pZnhaVnhfczBGMmdmOHFBdDFIeHA4UEp3U3Nydnl1VG16MGdSSFNWQUFJYkc4SU0xOXFfYnQ5LU0zZkhDcXoxNldj?oc=5)
 
 2026-11-14 <span class="news-indication-tag">認知症</span>
@@ -216,6 +232,14 @@ last_modified_at: 2026-11-17
 2026-11-12 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
 
 出典: [がん情報サイト「オンコロ」](https://news.google.com/rss/articles/CBMiSEFVX3lxTFBaR0l0OHYwNUQ2X0Y3T3g2Sy0xZ05zTHNLNGFFdWY3dmZoZVpCMWM0UF8wNGcyQWxsRC1NUkFrRkROajRFa2czZA?oc=5)
+
+---
+
+### [「中高年の近視」コンタクトレンズは何歳まで使える？ 老眼との兼ね合いは？｜一生見える目をつくる](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XU2dFTm9yWm1mS051R3YwTENLVzBIMFAyYzBvc1dKQzBwcWlvTHNrQWFCQXhpU2FjX2h5Rzk3RC1xSG9aWk9UTEtHSGpRQTU2VFY4Yjl3c3JoSVR4aURlc0c4ZExEQ3hm?oc=5)
+
+2026-11-11 <span class="news-indication-tag">認知症</span>
+
+出典: [日刊ゲンダイDIGITAL](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XU2dFTm9yWm1mS051R3YwTENLVzBIMFAyYzBvc1dKQzBwcWlvTHNrQWFCQXhpU2FjX2h5Rzk3RC1xSG9aWk9UTEtHSGpRQTU2VFY4Yjl3c3JoSVR4aURlc0c4ZExEQ3hm?oc=5)
 
 ---
 

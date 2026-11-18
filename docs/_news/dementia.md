@@ -3,9 +3,9 @@ layout: default
 title: "認知症 (dementia) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "認知症 (dementia) に関する健康ニュース。ニュース 14 件、関連医薬品 2 件。"
+description: "認知症 (dementia) に関する健康ニュース。ニュース 17 件、関連医薬品 2 件。"
 permalink: /news/dementia/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-18
 ---
 
 # 認知症 (dementia) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="認知症 (dementia) に関するニュースは？">
-<strong>認知症 (dementia)</strong> には現在 <strong>14 件</strong>の関連ニュースと 2 件の関連医薬品があります。
+<strong>認知症 (dementia)</strong> には現在 <strong>17 件</strong>の関連ニュースと 2 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,15 @@ last_modified_at: 2026-11-17
 </ul>
 </div>
 
-## 関連ニュース（14 件）
+## 関連ニュース（17 件）
+
+### [現役を引退すると増える…もの忘れ外来の医師が診察室で真っ先に見抜く"服装"に表われた｢認知症の兆し｣](https://news.google.com/rss/articles/CBMihwFBVV95cUxOQlJvMExtQ0trektYc3A4S051UXBkakZZX2pWRW42TjVwb2F0c1Q3WlhzdF9paVpURWFldW5aaTM0bERPY3Zhd2JUS0FLVDJOZXZENFgyaDlKaHdvX1BRR19IMXRvSTlaVzZRQkhVejBEX2RoZ2pUMFVZVGFCN044VE1oTVNPNU0?oc=5)
+
+2026-11-17
+
+出典: [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxOQlJvMExtQ0trektYc3A4S051UXBkakZZX2pWRW42TjVwb2F0c1Q3WlhzdF9paVpURWFldW5aaTM0bERPY3Zhd2JUS0FLVDJOZXZENFgyaDlKaHdvX1BRR19IMXRvSTlaVzZRQkhVejBEX2RoZ2pUMFVZVGFCN044VE1oTVNPNU0?oc=5) · [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/2e184cfe5fbb5fd9fcc2dad7a3ed3f0e622145b8?source=rss)
+
+---
 
 ### [過剰な医療を減らし、「生活の質」高める介護充実へ 介護離職がないスウェーデンに学ぶ認知症の医療と介護](https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZOVBPNlBHOHJPUXFjMXFaZGpjM2RuRi1xUnp4UGxGdDUwcTZEdzViWlFOZGdfbzZ2dDA2Ym9VY2p5azIxWGkxRURZSmJKRGJoQ1RtTG1qQlpZelZTV2poVDlEOFI5VF9lUVZGMzJB?oc=5)
 
@@ -54,6 +62,14 @@ last_modified_at: 2026-11-17
 2026-11-16
 
 出典: [西日本新聞me](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBORnkyQlhQcEp1TlZkbGFkYmFHR3dTbE9RcklxSlFodjVUa3BIRlFjWHQ4N1lzVGR2TFB2NGNoSUlKS3d5aDcyWE5jTW1FaE9uV2lIaEdR?oc=5)
+
+---
+
+### [認知症治療 糸口は「掃除役」(日経11月15日の記事より抜粋)｜石井則好](https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxWGYzblZ1XzdRQlJ5SlpuWVJtakFWakVGU1F0R0pra0FLanRubjU3dXJWd3JDR0RCRFB0cTNJdWpQci1Pb1RwV3lROFl0eFFDMjlWMTNaTWdQdmZFd05nMkFFdUkya1Rl?oc=5)
+
+2026-11-15
+
+出典: [JIJICO](https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxWGYzblZ1XzdRQlJ5SlpuWVJtakFWakVGU1F0R0pra0FLanRubjU3dXJWd3JDR0RCRFB0cTNJdWpQci1Pb1RwV3lROFl0eFFDMjlWMTNaTWdQdmZFd05nMkFFdUkya1Rl?oc=5)
 
 ---
 
@@ -86,6 +102,14 @@ last_modified_at: 2026-11-17
 2026-11-12
 
 出典: [介護ポストセブン](https://news.google.com/rss/articles/CBMiSkFVX3lxTE5qVDBBZzhYekhYV1NkdXJ2ZEhKQlN2OWhwR2R5ekZfWU1yZmtFZFg2eHozcmtSd2tfM29aNmdVRi00a1ZHZjlPY2JB?oc=5)
+
+---
+
+### [「中高年の近視」コンタクトレンズは何歳まで使える？ 老眼との兼ね合いは？｜一生見える目をつくる](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XU2dFTm9yWm1mS051R3YwTENLVzBIMFAyYzBvc1dKQzBwcWlvTHNrQWFCQXhpU2FjX2h5Rzk3RC1xSG9aWk9UTEtHSGpRQTU2VFY4Yjl3c3JoSVR4aURlc0c4ZExEQ3hm?oc=5)
+
+2026-11-11
+
+出典: [日刊ゲンダイDIGITAL](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5XU2dFTm9yWm1mS051R3YwTENLVzBIMFAyYzBvc1dKQzBwcWlvTHNrQWFCQXhpU2FjX2h5Rzk3RC1xSG9aWk9UTEtHSGpRQTU2VFY4Yjl3c3JoSVR4aURlc0c4ZExEQ3hm?oc=5)
 
 ---
 
