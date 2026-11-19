@@ -5,7 +5,7 @@ parent: 中エビデンスレベル
 nav_order: 21
 evidence_level: L3
 indication_count: 2
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-17
 monitor_inn: "Alprazolam"
 predicted_indications: ["insomnia (disease)", "benign paroxysmal torticollis of infancy"]
 description: "Alprazolam：予測新適応症は不眠症 (insomnia (disease))（エビデンスレベル L3）。既存適応症：日本の承認情報に適応症の記載なし"

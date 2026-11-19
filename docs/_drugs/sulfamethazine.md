@@ -3,7 +3,7 @@ layout: default
 title: Sulfamethazine
 parent: 既知の用途のみ（新規予測なし）
 nav_order: 333
-last_modified_at: 2026-11-03
+last_modified_at: 2026-10-31
 description: "Sulfamethazine: 日本における既知の用途と市場状況。現時点で新たな候補適応症はありません"
 predicted_indications: []
 indication_count: 0
