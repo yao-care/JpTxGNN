@@ -55,7 +55,7 @@ description: "Pertuzumab：予測新適応症はEctomesenchymoma（エビデン�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、ペルツズマブは HER2 の細胞外ドメイン II に結合し、HER3 や EGFR とのヘテロ二量体形成を妨げる抗体医薬です。これにより PI3K/AKT や MAPK のシグナルが抑制されると考えられています。
+米国 FDA が承認した Pertuzumab の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「ペルツズマブは、ヒト上皮増殖因子受容体 2 型タンパク質（HER2）の細胞外二量体化ドメイン（サブドメイン II）を標的とし、それにより、EGFR、HER3 及び HER4 を含む他の HER ファミリーメンバーと HER2 とのリガンド依存性ヘテロ二量体形成を阻害する。その結果、ペルツズマブは、2 つの主要なシグナル伝達経路であるマイトジェン活性化プロテイン（MAP）キナーゼ及びホスホイノシチド 3-キナーゼ（PI3K）を介したリガンド誘導性の細胞内シグナル伝達を阻害する。」英語原文："Pertuzumab targets the extracellular dimerization domain (Subdomain II) of the human epidermal growth factor receptor 2 protein (HER2) and, thereby, blocks ligand-dependent heterodimerization of HER2 with other HER family members, including EGFR, HER3, and HER4. As a result, pertuzumab inhibits ligand-initiated intracellular signaling through two major signal pathways, mitogen-activated protein (MAP) kinase, and phosphoinositide 3-kinase (PI3K)."（[DailyMed: Perjeta (pertuzumab) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=17f85d17-ab71-4f5b-9fe3-0b8c822f69ff)、版 2026-04-30、参照日 2026-11-19）。既知の情報によると、ペルツズマブは HER2 の細胞外ドメイン II に結合し、HER3 や EGFR とのヘテロ二量体形成を妨げる抗体医薬です。これにより PI3K/AKT や MAPK のシグナルが抑制されると考えられています。
 
 既存適応症の HER2 陽性乳癌と、予測された PR 陽性乳癌は、HER2 陽性かつホルモン受容体陽性（HR+/HER2+）の患者群で重なります。HER2 陽性乳癌の約半数にはホルモン受容体の共発現があるとされています。そのため、この患者群では HER2 阻害が機序的に適用できると考えられます。
 
@@ -128,11 +128,12 @@ HR 陽性/HER2 陽性の乳癌では、完了した第 3 相 RCT を含む複数
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「日本での販売承認が整理済みであるため、現在の供給状況と再承認の要否の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Perjeta (pertuzumab) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=17f85d17-ab71-4f5b-9fe3-0b8c822f69ff) |
 
 <!-- review:end log -->
 

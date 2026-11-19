@@ -56,7 +56,7 @@ TxGNN モデルは **閉塞性脚ブロック (obsolete bundle branch block)** �
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、ベラパミルは L 型カルシウムチャネルを遮断し、房室結節の伝導を遅らせる薬剤です。この作用により、心房細動などの上室性不整脈、狭心症で有効性が示されてきました。
+米国 FDA が承認した Verapamil の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「狭心症：抗狭心症薬としてのベラパミル塩酸塩の正確な作用機序は完全には解明されていないが、以下の2つの機序が含まれる。1. 冠動脈攣縮の弛緩及び予防：ベラパミル塩酸塩は、正常領域及び虚血領域のいずれにおいても主要な冠動脈及び冠細動脈を拡張し、自然発生性又はエルゴノビン誘発性のいずれの冠動脈攣縮に対しても強力な抑制作用を示す。」英語原文："Angina: The precise mechanism of action of verapamil hydrochloride as an antianginal agent remains to be fully determined, but includes the following two mechanisms: 1. Relaxation and prevention of coronary artery spasm: Verapamil hydrochloride dilates the main coronary arteries and coronary arterioles, both in normal and ischemic regions, and is a potent inhibitor of coronary artery spasm, whether spontaneous or ergonovine-induced."（[DailyMed: verapamil hydrochloride prescribing information, Preferred Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c7a54ee0-80c0-4c7e-a6a3-cb60142f860c)、版 2026-10-30、参照日 2026-11-19）。既知の情報によると、ベラパミルは L 型カルシウムチャネルを遮断し、房室結節の伝導を遅らせる薬剤です。この作用により、心房細動などの上室性不整脈、狭心症で有効性が示されてきました。
 
 ただし、脚ブロックは房室結節より下位の伝導系の障害です。ベラパミルにこれを改善する機序的根拠は見当たらず、むしろ伝導障害を悪化させるおそれがあります。この予測はモデルのスコアのみに基づいており、機序的な裏付けは弱いと判断します。
 
@@ -163,13 +163,14 @@ TxGNN モデルは **閉塞性脚ブロック (obsolete bundle branch block)** �
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「現在有効な承認はなく、10 件すべてが取消済みです」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-06 | 削除：「日本では現在有効な承認がなく、添付文書の安全性情報も未取得のため、先に進める根拠が不足しています」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-06 | 削除：「日本での承認取消の経緯の確認と、投与経路・剤形の適合性評価」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: verapamil hydrochloride prescribing information, Preferred Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c7a54ee0-80c0-4c7e-a6a3-cb60142f860c) |
 
 <!-- review:end log -->
 

@@ -60,7 +60,7 @@ CPVT には **10 編の文献**（コホート研究、症例報告、in vitro �
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。ただし、プロパフェノンはクラス IC の抗不整脈薬であり、ナトリウムチャネル遮断により心筋の興奮伝導を抑えることが知られています。
+米国 FDA が承認した Propafenone の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「プロパフェノンは、局所麻酔作用及び心筋膜に対する直接的な膜安定化作用を有するクラス 1C 抗不整脈薬である。プロパフェノンの電気生理学的作用は、単相性活動電位の立ち上がり速度（第 0 相）の低下として現れる。」英語原文："Propafenone is a Class 1C antiarrhythmic drug with local anesthetic effects, and a direct stabilizing action on myocardial membranes. The electrophysiological effect of propafenone manifests itself in a reduction of upstroke velocity (Phase 0) of the monophasic action potential."（[DailyMed: propafenone hydrochloride prescribing information, Northstar Rx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2ecd6452-ccc3-493f-9a4a-69f0fbf67a42)、版 2026-06-04、参照日 2026-11-19）。ただし、プロパフェノンはクラス IC の抗不整脈薬であり、ナトリウムチャネル遮断により心筋の興奮伝導を抑えることが知られています。
 
 CPVT は、リアノジン受容体 2 (RyR2) などの変異により、心筋細胞内でカルシウムが漏出して起こる遺伝性不整脈です。同じクラス IC のフレカイニドは RyR2 チャネルを遮断し、CPVT を抑えることがマウスとヒトで示されています。in vitro 研究では、プロパフェノン（特に R-プロパフェノン）も RyR2 を阻害し、不整脈の原因となる自発的なカルシウム波を抑えることが報告されています。
 
@@ -155,12 +155,13 @@ PMDA の添付文書にある警告・禁忌は、今回のデータには含ま
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「日本のすべての承認が整理済みで、現在市販中の承認はありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: propafenone hydrochloride prescribing information, Northstar Rx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2ecd6452-ccc3-493f-9a4a-69f0fbf67a42) |
 
 <!-- review:end log -->
 

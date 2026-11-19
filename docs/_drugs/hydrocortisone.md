@@ -55,7 +55,7 @@ TxGNN モデルは**円形脱毛症 (alopecia areata)** に有効である可能
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、ヒドロコルチゾンはグルココルチコイド受容体作動薬で、抗炎症作用と免疫抑制作用を持つことが知られています。
+米国 FDA が承認した Hydrocortisone の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「ヒドロコルチゾンはグルココルチコイドである。副腎皮質ステロイドであるグルココルチコイドは、様々な代謝作用を引き起こす。さらに、グルココルチコイドは多様な刺激に対する生体の免疫応答を修飾する。」英語原文："Hydrocortisone is a glucocorticoid. Glucocorticoids, adrenocortical steroids, cause varied metabolic effects. In addition, they modify the body's immune responses to diverse stimuli.."（[DailyMed: Alkindi Sprinkle (hydrocortisone) prescribing information, Eton Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=26c13a5f-7119-4c6a-bf10-fda4e07d7682)、版 2026-04-21、参照日 2026-11-19）。既知の情報によると、ヒドロコルチゾンはグルココルチコイド受容体作動薬で、抗炎症作用と免疫抑制作用を持つことが知られています。
 
 円形脱毛症は、毛包に対する T 細胞介在性の自己免疫的な攻撃により、非瘢痕性の脱毛が起こる疾患と考えられています。ステロイドの免疫抑制作用は、この炎症反応を抑える方向に働くと考えられ、機序的には適用可能性があります。
 
@@ -107,6 +107,19 @@ TxGNN モデルは**円形脱毛症 (alopecia areata)** に有効である可能
 - 詳細な作用機序データ（MOA）の補充
 - 円形脱毛症に適した投与経路（外用・皮内注射など）と剤形の検討
 - 他のステロイドや既存治療との有効性・安全性の比較
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Alkindi Sprinkle (hydrocortisone) prescribing information, Eton Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=26c13a5f-7119-4c6a-bf10-fda4e07d7682) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

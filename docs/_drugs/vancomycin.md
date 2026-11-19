@@ -56,7 +56,7 @@ TxGNN モデルは**びまん型強皮症 (diffuse scleroderma)** に有効で�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、バンコマイシンはペプチドグリカン前駆体の D-Ala-D-Ala 末端に結合して細菌の細胞壁合成を阻害するグリコペプチド系抗生物質で、グラム陽性菌に対して有効性が確立されています。
+米国 FDA が承認した Vancomycin の添付文書（Prescribing Information）の「Mechanism of Action」および「Microbiology」の項によると（非公式訳）、「バンコマイシンは抗菌薬である。[…] バンコマイシンの殺菌作用は主に細胞壁生合成の阻害によるものである。さらに、バンコマイシンは細菌の細胞膜透過性及びRNA合成を変化させる。」英語原文："Vancomycin is an antibacterial drug. […] The bactericidal action of vancomycin results primarily from inhibition of cell-wall biosynthesis. In addition, vancomycin alters bacterial-cell-membrane permeability and RNA synthesis."（[DailyMed: Tyzavan (vancomycin) prescribing information, Hikma Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=72e9c5e2-07cc-4a8b-ba64-b2e7619ea560)、版 2026-08-19、参照日 2026-11-19）。既知の情報によると、バンコマイシンはペプチドグリカン前駆体の D-Ala-D-Ala 末端に結合して細菌の細胞壁合成を阻害するグリコペプチド系抗生物質で、グラム陽性菌に対して有効性が確立されています。
 
 一方、強皮症は線維化・血管障害・自己免疫を特徴とする疾患です。バンコマイシンには、強皮症に関連する抗線維化作用や免疫調節作用は知られていません。そのため、今回の予測は機序的に支持されません。
 
@@ -106,18 +106,25 @@ TxGNN のスコアは高い（0.9992）ものの、これは TxGNN モデル（�
 - DrugBank からの作用機序（MOA）データの取得
 - 強皮症に対する抗線維化・免疫調節作用を示す前臨床研究（機序の裏付け）
 - 肺炎球菌肺炎など、既存適応と重複しない候補の再検討
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Tyzavan (vancomycin) prescribing information, Hikma Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=72e9c5e2-07cc-4a8b-ba64-b2e7619ea560) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。
 臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-
-
-
-
 
 <!-- brand-names:start -->
 ## 日本での販売名

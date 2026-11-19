@@ -56,7 +56,7 @@ TxGNN モデルは**心因性運動障害 (psychogenic movement disorders)** に
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。ドネペジルはアセチルコリンエステラーゼを阻害してシナプスのアセチルコリン濃度を高める薬剤であり、大脳基底核のコリン作動性とドパミン作動性のバランスに影響し得ると考えられます。
+米国 FDA が承認した Donepezil の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「アルツハイマー病の認知に関する徴候及び症状の病因についての現在の理論では、その一部はコリン作動性神経伝達の欠乏に起因するとされている。ドネペジル塩酸塩は、コリン作動性機能を増強することにより治療効果を発揮すると推測されている。」英語原文："Current theories on the pathogenesis of the cognitive signs and symptoms of Alzheimer’s disease attribute some of them to a deficiency of cholinergic neurotransmission. Donepezil hydrochloride is postulated to exert its therapeutic effect by enhancing cholinergic function."（[DailyMed: Aricept (donepezil hydrochloride) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98e451e1-e4d7-4439-a675-c5457ba20975)、版 2021-12-30、参照日 2026-11-19）。ドネペジルはアセチルコリンエステラーゼを阻害してシナプスのアセチルコリン濃度を高める薬剤であり、大脳基底核のコリン作動性とドパミン作動性のバランスに影響し得ると考えられます。
 
 ただし、心因性運動障害は機能性の疾患です。機序面でも臨床面でも、この予測を裏づける根拠は今回の収集データにはありません。したがって、この予測はモデル出力の段階にとどまり、機序的な妥当性は確認できていません。
 
@@ -81,6 +81,19 @@ TxGNN モデルは**心因性運動障害 (psychogenic movement disorders)** に
 - 添付文書の警告・禁忌の取得と確認
 - 心因性運動障害に対する前臨床または探索的臨床研究の有無の調査
 - 心因性運動障害の病態に即した機序的仮説の整理
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Aricept (donepezil hydrochloride) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98e451e1-e4d7-4439-a675-c5457ba20975) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

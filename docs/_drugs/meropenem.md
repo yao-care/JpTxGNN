@@ -56,7 +56,7 @@ TxGNN モデルは**細菌性関節炎 (bacterial arthritis)** に有効であ�
 
 ## この予測が妥当である理由
 
-メロペネムはペニシリン結合タンパク質（PBP）に結合し、細菌の細胞壁合成を阻害するカルバペネム系抗菌薬です。グラム陰性菌とグラム陽性菌に広く活性があります。現在、このレポート用にまとめたデータには詳細な作用機序の記載がありませんが、カルバペネム系としての一般的な機序は確立しています。
+メロペネムはペニシリン結合タンパク質（PBP）に結合し、細菌の細胞壁合成を阻害するカルバペネム系抗菌薬です。グラム陰性菌とグラム陽性菌に広く活性があります。米国 FDA が承認した Meropenem の添付文書（Prescribing Information）の「Mechanism of Action」および「Microbiology」の項によると（非公式訳）、「メロペネムは抗菌薬である。[…] メロペネムの殺菌作用は細胞壁合成の阻害によるものである。メロペネムは大部分のグラム陽性菌及びグラム陰性菌の細胞壁を透過し、標的であるペニシリン結合タンパク（PBP）に結合する。」英語原文："Meropenem is an antibacterial drug. […] The bactericidal activity of meropenem results from the inhibition of cell wall synthesis. Meropenem penetrates the cell wall of most gram-positive and gram-negative bacteria to bind penicillin-binding-protein (PBP) targets."（[DailyMed: meropenem prescribing information, Civica, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b0075b72-c3cc-f844-e053-2a95a90a417f)、版 2026-11-02、参照日 2026-11-19）。
 
 細菌性関節炎（化膿性関節炎）の原因菌には、類鼻疽菌 (*Burkholderia pseudomallei*)、ESBL 産生肺炎桿菌、連鎖球菌などがあります。これらはメロペネムの抗菌スペクトラムと重なります。実際に、骨関節型の類鼻疽 22 例の後ろ向きレビューでは、全分離株がメロペネムに感受性でした。ESBL 産生肺炎桿菌による化膿性関節炎の症例報告では、メロペネムとアミカシンの併用に関節鏡下洗浄を加えて治療に成功しています。
 
@@ -110,6 +110,18 @@ TxGNN モデルは**細菌性関節炎 (bacterial arthritis)** に有効であ�
 - 関節腔内への薬物移行性と投与量・投与期間の検討
 - 添付文書の警告・禁忌の確認と、特定集団（腎機能低下、てんかんなど）での安全性評価
 - 詳細な作用機序データの補完
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: meropenem prescribing information, Civica, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b0075b72-c3cc-f844-e053-2a95a90a417f) |
+
+<!-- review:end log -->
 
 ## 免責事項
 

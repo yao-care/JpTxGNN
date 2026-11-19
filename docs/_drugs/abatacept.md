@@ -60,7 +60,7 @@ TxGNN モデルは**強直性脊椎炎 (ankylosing spondylitis)** に有効で�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。ただしアバタセプトは CTLA-4-Ig 融合蛋白として、CD80/86 と CD28 の結合を阻害し、T細胞の活性化を抑えることが知られています。この作用は、関節リウマチなど免疫介在性の関節疾患で利用されています。
+米国 FDA が承認した Abatacept の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「アバタセプトは選択的共刺激調節剤であり、CD80およびCD86に結合することでCD28との相互作用を阻害し、T細胞（Tリンパ球）の活性化を抑制する。この相互作用は、Tリンパ球の完全な活性化に必要な共刺激シグナルをもたらす。」英語原文："Abatacept, a selective costimulation modulator, inhibits T-cell (T lymphocyte) activation by binding to CD80 and CD86, thereby blocking interaction with CD28. This interaction provides a costimulatory signal necessary for full activation of T lymphocytes."（[DailyMed: Orencia (abatacept) prescribing information, E.R. Squibb & Sons, L.L.C.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0836c6ac-ee37-5640-2fed-a3185a0b16eb)、版 2025-11-13、参照日 2026-11-19）。ただしアバタセプトは CTLA-4-Ig 融合蛋白として、CD80/86 と CD28 の結合を阻害し、T細胞の活性化を抑えることが知られています。この作用は、関節リウマチなど免疫介在性の関節疾患で利用されています。
 
 強直性脊椎炎も免疫介在性の脊椎関節炎であるため、T細胞の活性化を抑えることで炎症が軽減する可能性は理論上あります。
 
@@ -128,6 +128,19 @@ TxGNN モデルは**強直性脊椎炎 (ankylosing spondylitis)** に有効で�
 - 詳細な作用機序データ（MOA）
 - 添付文書に基づく警告・禁忌の確認
 - 併用薬（特に他の生物学的製剤や JAK 阻害薬）に関する安全性管理計画
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Orencia (abatacept) prescribing information, E.R. Squibb & Sons, L.L.C.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0836c6ac-ee37-5640-2fed-a3185a0b16eb) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

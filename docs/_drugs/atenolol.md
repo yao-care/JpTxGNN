@@ -55,7 +55,7 @@ TxGNN モデルは**悪性高血圧性腎疾患 (malignant hypertensive renal di
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、アテノロールは β1 選択的遮断薬で、心拍数と心拍出量を低下させ、レニン分泌も抑制します。これらは血圧低下に寄与すると考えられます。
+米国 FDA が承認した Atenolol の添付文書（Prescribing Information）の「Clinical Pharmacology」の項によると（非公式訳）、「TENORMINは、膜安定化作用および内因性交感神経刺激（部分作動）作用を有しないβ 1 選択性（心臓選択性）βアドレナリン受容体遮断薬である。ただし、この選択的作用は絶対的なものではなく、高用量では、TENORMINは主に気管支および血管の筋組織に存在するβ 2 アドレナリン受容体も阻害する。」英語原文："TENORMIN is a beta 1 -selective (cardioselective) beta-adrenergic receptor blocking agent without membrane stabilizing or intrinsic sympathomimetic (partial agonist) activities. This preferential effect is not absolute, however, and at higher doses, TENORMIN inhibits beta 2 -adrenoreceptors, chiefly located in the bronchial and vascular musculature."（[DailyMed: Tenormin (atenolol) prescribing information, Upsher-Smith Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6e850b1e-28a4-4ff8-8ed7-bb0b29faa28a)、版 2025-09-18、参照日 2026-11-19）。既知の情報によると、アテノロールは β1 選択的遮断薬で、心拍数と心拍出量を低下させ、レニン分泌も抑制します。これらは血圧低下に寄与すると考えられます。
 
 既存適応症の本態性高血圧症と、予測された悪性高血圧性腎疾患は、いずれも高血圧に関連する病態です。血圧を下げることで腎障害の進行を抑える可能性が、機序的には想定されます。
 
@@ -116,11 +116,12 @@ TxGNN モデルは**悪性高血圧性腎疾患 (malignant hypertensive renal di
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Tenormin (atenolol) prescribing information, Upsher-Smith Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6e850b1e-28a4-4ff8-8ed7-bb0b29faa28a) |
 
 <!-- review:end log -->
 

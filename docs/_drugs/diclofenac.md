@@ -55,7 +55,7 @@ TxGNN モデルは**頭皮の単純性乏毛症 (hypotrichosis simplex of the sc
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。ジクロフェナクは非選択的 COX 阻害薬として知られ、プロスタグランジン産生を抑えて炎症と疼痛を軽減します。
+米国 FDA が承認した Diclofenac の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「ジクロフェナクは鎮痛作用、抗炎症作用及び解熱作用を有する。ジクロフェナクの作用機序は、他のNSAIDsと同様に完全には解明されていないが、シクロオキシゲナーゼ（COX-1及びCOX-2）の阻害が関与している。」英語原文："Diclofenac has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of diclofenac, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2)."（[DailyMed: Diclofenac Sodium Delayed Release (diclofenac sodium) prescribing information, Preferred Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bc99e6af-7050-4653-a681-5b252305a970)、版 2026-09-24、参照日 2026-11-19）。ジクロフェナクは非選択的 COX 阻害薬として知られ、プロスタグランジン産生を抑えて炎症と疼痛を軽減します。
 
 一方、頭皮の単純性乏毛症は遺伝性の毛包疾患で、COX 阻害やプロスタグランジン経路との関連は知られていません。既存適応症との機序上のつながりも確認できず、予測を裏付ける臨床的・機序的根拠はありません。スコアは高いものの、現時点ではモデル由来の仮説にとどまります。
 
@@ -116,18 +116,25 @@ TxGNN モデルは**頭皮の単純性乏毛症 (hypotrichosis simplex of the sc
 - 小児を対象としたジクロフェナク関連の文献が複数あります。例として、1988 年のナプロキセン・トルメチンとの単盲検クロスオーバー試験（28 例）と、1983 年の小児コホート研究があります。いずれも古く小規模で、エビデンスレベルは L3 です。
 - 機序（COX 阻害による関節の炎症・疼痛の症状緩和）とは整合します。ただし既存の抗炎症・鎮痛作用の延長にあたり、新規性は限定的です。
 - 再利用候補として優先的に検討する場合は、こちらを独立して評価するのが現実的です。
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Diclofenac Sodium Delayed Release (diclofenac sodium) prescribing information, Preferred Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bc99e6af-7050-4653-a681-5b252305a970) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。
 臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-
-
-
-
 
 <!-- brand-names:start -->
 ## 日本での販売名

@@ -55,7 +55,7 @@ description: "Naratriptan：予測新適応症はAtrophoderma vermiculata（エ�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。ただし、ナラトリプタンは5-HT1B/1D受容体作動薬として知られています。頭蓋内血管を収縮させ、三叉神経からのCGRP放出を抑えることで、急性期の片頭痛に効果を示すと考えられています。
+米国 FDA が承認した Naratriptan の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「ナラトリプタンは、ヒトクローン化 5-HT 1B/1D 受容体に高い親和性で結合する。片頭痛は、局所的な頭蓋内血管拡張、および/または三叉神経系の神経終末からの感覚神経ペプチド（サブスタンス P 及びカルシトニン遺伝子関連ペプチドを含む）の放出によるものと考えられる。」英語原文："Naratriptan binds with high affinity to human cloned 5-HT 1B/1D receptors. Migraines are likely due to local cranial vasodilatation and/or to the release of sensory neuropeptides (including substance P and calcitonin gene-related peptide) through nerve endings in the trigeminal system."（[DailyMed: naratriptan prescribing information, ASCLEMED USA INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=63ea356f-0895-4540-b242-8e611eacd938)、版 2026-08-07、参照日 2026-11-19）。ただし、ナラトリプタンは5-HT1B/1D受容体作動薬として知られています。頭蓋内血管を収縮させ、三叉神経からのCGRP放出を抑えることで、急性期の片頭痛に効果を示すと考えられています。
 
 そのため、疾患としての関連性は高く、モデルが高いスコアを付けた理由も理解できます。
 
@@ -131,11 +131,12 @@ description: "Naratriptan：予測新適応症はAtrophoderma vermiculata（エ�
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「加えて、日本国内では現在販売中の承認がありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: naratriptan prescribing information, ASCLEMED USA INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=63ea356f-0895-4540-b242-8e611eacd938) |
 
 <!-- review:end log -->
 

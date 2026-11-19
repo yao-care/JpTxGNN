@@ -56,6 +56,13 @@ LOG_HEAD = C.LOG_HEAD
 DISCLAIMER_RE = C.DISCLAIMER_RE
 
 
+# 作用機轉紀錄（mechanism，2026-11-19）的查核紀錄表字樣
+MOA_ACTION = '作用機序データがないとする記述を、出典付きの抜粋に置き換え'
+MOA_INTRO_ONLY = '以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。'
+MOA_INTRO_ADD = '作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。'
+ACTION_EN = dict(ACTION_EN, mechanism=MOA_ACTION)
+
+
 def load():
     if not DATA.exists():
         return []
@@ -171,6 +178,13 @@ def apply_record(text, rec, problems):
             return text
         block = f"{begin(rid)}\n\n{rec['markdown'].strip()}\n\n{end(rid)}\n\n"
         return text[:m.start()] + block + text[m.start():]
+    if act == "mechanism":
+        j = find_outside(text, rec["claim"])
+        if j >= 0:
+            text = text[:j] + rec["replacement"] + text[j + len(rec["claim"]):]
+        elif find_outside(text, rec["replacement"]) < 0:
+            problems.append(f"{rid}：頁面上找不到「作用機轉資料不可得」原句或附出處的作用機轉（頁面可能被改寫，需人工重查）")
+        return text
     if act == "correct":
         olds = [rec["claim"]] + [h["replacement"] for h in rec.get("history") or []
                                  if h.get("replacement") and h["replacement"] != rec["replacement"]
@@ -233,6 +247,10 @@ def log_md(recs):
         intro = C.INTRO_HEADER
     elif any(r["action"] == "rereview_result" and r.get("table_updates") for r in recs):
         intro = C.INTRO_RERE
+    if recs and all(r["action"] in ("mechanism", "header_level", "description_level") for r in recs) and any(r["action"] == "mechanism" for r in recs):
+        intro = MOA_INTRO_ONLY
+    elif any(r["action"] == "mechanism" for r in recs):
+        intro += MOA_INTRO_ADD
     return f"{begin('log')}\n\n{LOG_HEAD}\n\n{intro}\n\n" + "\n".join(rows) + f"\n\n{end('log')}\n\n"
 
 
@@ -283,6 +301,14 @@ def validate(recs):
         for k in ("id", "file", "action", "checked", "sources"):
             if not r.get(k):
                 errs.append(f"{r.get('id')}：缺 {k}")
+        if r.get("action") == "mechanism":
+            if not (r.get("claim") and r.get("replacement")):
+                errs.append(f"{r.get('id')}：mechanism 要有 claim 與 replacement")
+            for sx in r.get("sources") or []:
+                if not (sx.get("url") and sx.get("accessed") and sx.get("excerpt")):
+                    errs.append(f"{r.get('id')}：mechanism 的來源要有 url、accessed、excerpt（原文節錄）")
+                elif sx["url"] not in (r.get("replacement") or ""):
+                    errs.append(f"{r.get('id')}：mechanism 的 replacement 要附來源連結 {sx['url']}")
         if r.get("action") not in ACTION_EN:
             errs.append(f"{r.get('id')}：action 必須是 {sorted(ACTION_EN)}")
         if r.get("action") == "correct" and not (r.get("replacement") or r.get("anchor")):

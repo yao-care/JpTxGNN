@@ -56,7 +56,7 @@ TxGNN モデルは **focal stiff limb syndrome** に有効である可能性を�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報では、アカルボースは小腸の α-グルコシダーゼを阻害して炭水化物の消化・吸収を遅らせ、食後血糖の上昇を抑える薬です。
+米国 FDA が承認した Acarbose の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「スルホニルウレア系薬剤とは異なり、アカルボース錠はインスリン分泌を促進しない。アカルボースの血糖上昇抑制作用は、膵α-アミラーゼおよび膜結合型小腸α-グルコシド加水分解酵素を競合的かつ可逆的に阻害することによる。」英語原文："In contrast to sulfonylureas, Acarbose Tablets do not enhance insulin secretion. The antihyperglycemic action of acarbose results from a competitive, reversible inhibition of pancreatic alpha-amylase and membrane-bound intestinal alpha-glucoside hydrolase enzymes."（[DailyMed: acarbose prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1ba7a072-03b0-41f2-be7a-101145bdef3a)、版 2026-08-11、参照日 2026-11-19）。既知の情報では、アカルボースは小腸の α-グルコシダーゼを阻害して炭水化物の消化・吸収を遅らせ、食後血糖の上昇を抑える薬です。
 
 一方、focal stiff limb syndrome は神経免疫性または脊髄介在ニューロンの異常が関わる疾患です。アカルボースの作用はこの病態と結びつきません。予測は TxGNN による関連づけのみで、機序的な根拠は確認できていません。
 
@@ -116,11 +116,12 @@ TxGNN モデルは **focal stiff limb syndrome** に有効である可能性を�
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「日本の販売承認も全て取消となっています」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: acarbose prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1ba7a072-03b0-41f2-be7a-101145bdef3a) |
 
 <!-- review:end log -->
 

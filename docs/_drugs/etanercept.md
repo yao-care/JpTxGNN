@@ -56,7 +56,7 @@ TxGNN モデルは**尾骨過可動性 (hypermobility of coccyx)** に有効で�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報では、エタネルセプトは TNF を捕捉して炎症シグナルを抑える生物学的製剤です。この働きは、TNF が関与する炎症性疾患で有効性が確立されています。
+米国 FDA が承認した Etanercept の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「TNFは天然に存在するサイトカインであり、正常な炎症反応及び免疫反応に関与する。TNFはRA、多関節型JIA、PsA及びASの炎症過程並びにその結果生じる関節病変において重要な役割を果たす。[…] エタネルセプトはp75 TNF受容体の二量体可溶型であり、TNF分子と結合することができる。」英語原文："TNF is a naturally occurring cytokine that is involved in normal inflammatory and immune responses. It plays an important role in the inflammatory processes of RA, polyarticular JIA, PsA, and AS and the resulting joint pathology. […] Etanercept is a dimeric soluble form of the p75 TNF receptor that can bind TNF molecules."（[DailyMed: Enbrel (etanercept) prescribing information, Immunex Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a002b40c-097d-47a5-957f-7a7b1807af7f)、版 2026-05-11、参照日 2026-11-19）。既知の情報では、エタネルセプトは TNF を捕捉して炎症シグナルを抑える生物学的製剤です。この働きは、TNF が関与する炎症性疾患で有効性が確立されています。
 
 一方、尾骨過可動性は主に力学的・外傷性の病態で、TNF 主導の炎症性疾患とは言えません。そのため、今回の予測に対して明確な機序上の関連は確認できませんでした。現時点の根拠は TxGNN の予測のみです。
 
@@ -93,6 +93,19 @@ TxGNN モデルは**尾骨過可動性 (hypermobility of coccyx)** に有効で�
 - 詳細な作用機序データ（MOA）の補充
 - 添付文書（警告・禁忌）の取得と安全性スクリーニング
 - この疾患を直接対象とした前臨床研究または臨床研究の有無の調査
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Enbrel (etanercept) prescribing information, Immunex Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a002b40c-097d-47a5-957f-7a7b1807af7f) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

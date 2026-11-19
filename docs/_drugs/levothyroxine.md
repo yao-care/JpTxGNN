@@ -64,7 +64,7 @@ TxGNN モデルは**腎低形成/無形成 (renal hypodysplasia/aplasia)** に�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、レボチロキシンは甲状腺ホルモン（T4）の補充薬で、甲状腺機能低下症での有効性が確立しています。甲状腺ホルモンは正常な成長や臓器発達を支える役割を持ちます。
+米国 FDA が承認した Levothyroxine の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「甲状腺ホルモンは、DNA転写及びタンパク質合成の制御を通じてその生理作用を発揮する。トリヨードチロニン（T3）及びL-チロキシン（T4）は細胞核内に拡散し、DNAに結合している甲状腺受容体タンパク質に結合する。」英語原文："Thyroid hormones exert their physiologic actions through control of DNA transcription and protein synthesis. Triiodothyronine (T3) and L-thyroxine (T4) diffuse into the cell nucleus and bind to thyroid receptor proteins attached to DNA."（[DailyMed: Levoxyl (levothyroxine sodium) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=758588c3-c63e-491b-0aa2-4f50d80cb174)、版 2026-11-06、参照日 2026-11-19）。既知の情報によると、レボチロキシンは甲状腺ホルモン（T4）の補充薬で、甲状腺機能低下症での有効性が確立しています。甲状腺ホルモンは正常な成長や臓器発達を支える役割を持ちます。
 
 しかし、腎低形成/無形成は先天的な構造発達異常であり、レボチロキシンがこれを治療できるという確立した機序はありません。今回の関連付けは TxGNN モデル（深層学習）の予測のみに依拠しており、そのスコアはモデルが関連する疾患間で学習した類似性を反映している可能性があるにとどまり、生物学的な根拠ではありません。機序的な妥当性は現時点で裏付けられていません。
 
@@ -106,6 +106,19 @@ TxGNN モデルは**腎低形成/無形成 (renal hypodysplasia/aplasia)** に�
 - 腎低形成/無形成に対する前臨床研究や機序研究による裏付け
 - 甲状腺ホルモンと腎発達の関連を示す文献調査
 - 投与経路や対象集団の適合性評価
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Levoxyl (levothyroxine sodium) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=758588c3-c63e-491b-0aa2-4f50d80cb174) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

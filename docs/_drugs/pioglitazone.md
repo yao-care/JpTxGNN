@@ -56,7 +56,7 @@ TxGNN モデルは **オプシスモ異形成症 (Opsismodysplasia)** に有効�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、ピオグリタゾンはチアゾリジン系の PPARγ 作動薬で、インスリン抵抗性を改善することで 2 型糖尿病に有効性が示されています。
+米国 FDA が承認した Pioglitazone の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「ACTOSはチアゾリジンジオン系薬剤であり、その作用機序はインスリンの存在に依存する。ACTOSは末梢及び肝臓におけるインスリン抵抗性を低下させ、その結果、インスリン依存性のグルコース処理を増加させ、肝糖産生を減少させる。[…] ピオグリタゾンはインスリン分泌促進薬ではない。」英語原文："ACTOS is a thiazolidinedione that depends on the presence of insulin for its mechanism of action. ACTOS decreases insulin resistance in the periphery and in the liver resulting in increased insulin-dependent glucose disposal and decreased hepatic glucose output. […] Pioglitazone is not an insulin secretagogue."（[DailyMed: Actos (pioglitazone) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d2ddc491-88a9-4063-9150-443b4fa4330c)、版 2025-03-28、参照日 2026-11-19）。既知の情報によると、ピオグリタゾンはチアゾリジン系の PPARγ 作動薬で、インスリン抵抗性を改善することで 2 型糖尿病に有効性が示されています。
 
 オプシスモ異形成症は、INPPL1 (SHIP2) の変異によって PI3K／インスリンシグナルが影響を受ける骨異形成症です。インスリンシグナルという共通の経路を介した関連は考えられますが、あくまで推測の域を出ず、根拠は TxGNN の予測のみです。
 
@@ -128,18 +128,25 @@ TxGNN モデルは **オプシスモ異形成症 (Opsismodysplasia)** に有効�
 - 疾患に特異的な文献・臨床試験の調査
 - 剤形・投与経路の適合性の確認
 - 上位候補のうち、リポジストロフィー系疾患は機序上の妥当性が比較的高いため、優先的な再評価を検討
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Actos (pioglitazone) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d2ddc491-88a9-4063-9150-443b4fa4330c) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。
 臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-
-
-
-
 
 <!-- brand-names:start -->
 ## 日本での販売名

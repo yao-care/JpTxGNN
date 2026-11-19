@@ -55,7 +55,7 @@ TxGNN モデルは**ビオチン代謝疾患 (biotin metabolic disease)** に有
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報では、シアノコバラミンはメチルマロニルCoAムターゼとメチオニン合成酵素の補酵素（コバラミン）として働きます。一方、ビオチンはカルボキシラーゼ類の補酵素です。
+米国 FDA が承認した Cyanocobalamin の添付文書（Prescribing Information）の「Clinical Pharmacology」の項によると（非公式訳）、「臨床薬理　ビタミンB12は、成長、細胞増殖、造血、ならびに核タンパク質およびミエリンの合成に必須である。」英語原文："CLINICAL PHAMRACOLOGY Vitamin B12 is essential to growth, cell reproduction, hematopoiesis, and nucleoprotein and myelin synthesis."（[DailyMed: cyanocobalamin prescribing information, SOLA Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e559c6c8-2973-77fb-e053-2995a90af43d)、版 2025-12-08、参照日 2026-11-19）。既知の情報では、シアノコバラミンはメチルマロニルCoAムターゼとメチオニン合成酵素の補酵素（コバラミン）として働きます。一方、ビオチンはカルボキシラーゼ類の補酵素です。
 
 両者はビタミン代謝やプロピオン酸・一炭素代謝を通じて緩やかに関連するのみです。直接的な臨床的裏付けはありません。このスコアは TxGNN モデル(深層学習)によるもので、関連する疾患間でモデルが学習した類似性を反映している可能性があり、生物学的な根拠を示すものではありません。
 
@@ -114,11 +114,12 @@ TxGNN モデルは**ビオチン代謝疾患 (biotin metabolic disease)** に有
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「機序的な関連も弱く、日本では現在有効な承認がありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: cyanocobalamin prescribing information, SOLA Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e559c6c8-2973-77fb-e053-2995a90af43d) |
 
 <!-- review:end log -->
 

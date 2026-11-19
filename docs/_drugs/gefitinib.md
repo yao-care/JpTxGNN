@@ -56,7 +56,7 @@ TxGNN モデルは**歯肉線維腫症 (fibromatosis, gingival)** に有効で�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、ゲフィチニブは受容体型チロシンキナーゼ阻害薬に分類される抗悪性腫瘍薬で、EGFR 遺伝子変異陽性の非小細胞肺癌での有効性が確立されています。EGFR のチロシンキナーゼ経路を阻害することで、細胞増殖シグナルを抑えると考えられます。
+米国 FDA が承認した Gefitinib の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「上皮成長因子受容体（EGFR）は正常細胞及びがん細胞の両方の細胞表面に発現しており、細胞の増殖及び分裂の過程に関与している。NSCLC細胞内のある種のEGFR活性化変異（エクソン19欠失又はエクソン21点変異L858R）は、腫瘍細胞増殖の促進、アポトーシスの阻止、血管新生因子の産生増加及び転移過程の促進に寄与することが確認されている。[…] ゲフィチニブは、野生型及びある種の活性化変異型EGFRのキナーゼ活性を可逆的に阻害し、受容体に関連するチロシン残基の自己リン酸化を阻止することにより、さらに下流のシグナル伝達を阻害し、EGFR依存性の増殖を阻止する。」英語原文："The epidermal growth factor receptor (EGFR) is expressed on the cell surface of both normal and cancer cells and plays a role in the processes of cell growth and proliferation. Some EGFR activating mutations (exon 19 deletion or exon 21 point mutation L858R) within NSCLC cells have been identified as contributing to the promotion of tumor cell growth, blocking of apoptosis, increasing the production of angiogenic factors and facilitating the processes of metastasis. […] Gefitinib reversibly inhibits the kinase activity of wild-type and certain activating mutations of EGFR, preventing autophosphorylation of tyrosine residues associated with the receptor, thereby inhibiting further downstream signaling and blocking EGFR-dependent proliferation."（[DailyMed: Iressa (gefitinib) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=827d60e8-7e07-41b7-c28b-49ef1c4a5a41)、版 2023-02-28、参照日 2026-11-19）。既知の情報によると、ゲフィチニブは受容体型チロシンキナーゼ阻害薬に分類される抗悪性腫瘍薬で、EGFR 遺伝子変異陽性の非小細胞肺癌での有効性が確立されています。EGFR のチロシンキナーゼ経路を阻害することで、細胞増殖シグナルを抑えると考えられます。
 
 歯肉線維腫症は線維芽細胞の過剰な増殖を特徴とする疾患です。EGFR シグナルの阻害が線維芽細胞の増殖を理論上抑える可能性はありますが、これは推測の域を出ません。臨床試験も文献もなく、根拠は TxGNN の予測のみです。既存適応症（肺癌）との類似性についても、現時点では評価できていません。
 
@@ -151,13 +151,14 @@ TxGNN モデルは**歯肉線維腫症 (fibromatosis, gingival)** に有効で�
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「日本の承認は全て取り消し済みで、添付文書の警告・禁忌情報も未取得です」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-06 | 削除：「承認が全て取り消し済みのため」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Iressa (gefitinib) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=827d60e8-7e07-41b7-c28b-49ef1c4a5a41) |
 
 <!-- review:end log -->
 

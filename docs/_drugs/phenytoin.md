@@ -55,7 +55,7 @@ TxGNN モデルは**三叉神経腫瘍 (Trigeminal Nerve Neoplasm)** に有効�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。一般的な薬理知識では、フェニトインは電位依存性ナトリウムチャネルを遮断し、神経細胞の反復発火を抑える抗てんかん薬です。三叉神経痛などの神経障害性疼痛にも使われてきました。
+米国 FDA が承認した Phenytoin の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「フェニトインが治療効果を発揮する正確な機序は確立されていないが、膜ナトリウムチャネルの電位依存的な遮断が関与し、その結果、持続的な高頻度神経発火が減少すると考えられている。」英語原文："The precise mechanism by which phenytoin exerts its therapeutic effect has not been established but is thought to involve the voltage-dependent blockade of membrane sodium channels resulting in a reduction in sustained high-frequency neuronal discharges."（[DailyMed: Extended Phenytoin Sodium (phenytoin sodium) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=363cd347-d25e-42b9-9ce7-30642f3cb353)、版 2026-06-25、参照日 2026-11-19）。一般的な薬理知識では、フェニトインは電位依存性ナトリウムチャネルを遮断し、神経細胞の反復発火を抑える抗てんかん薬です。三叉神経痛などの神経障害性疼痛にも使われてきました。
 
 ただし、この作用は神経の過剰興奮を抑えるもので、抗腫瘍効果を示すものではありません。今回の予測は、三叉神経に関わる疾患（三叉神経痛）との症状面での重なりを反映している可能性が高く、腫瘍そのものに対する機序的な裏付けは確認できません。
 
@@ -112,11 +112,12 @@ TxGNN モデルは**三叉神経腫瘍 (Trigeminal Nerve Neoplasm)** に有効�
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「エビデンスはモデル予測のみ（L5）で、日本ではすべての承認が整理済みです」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Extended Phenytoin Sodium (phenytoin sodium) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=363cd347-d25e-42b9-9ce7-30642f3cb353) |
 
 <!-- review:end log -->
 

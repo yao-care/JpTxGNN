@@ -56,7 +56,7 @@ TxGNN モデルは**重症非増殖性糖尿病網膜症 (Severe Nonproliferativ
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、デノスマブは RANKL を阻害するヒト型モノクローナル抗体で、骨吸収を抑えることで骨粗鬆症での有効性が確認されています。
+米国 FDA が承認した Denosumab の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「デノスマブ製剤は、骨吸収を担う細胞である破骨細胞の形成、機能及び生存に必須の膜貫通型又は可溶型タンパク質であるRANKLに結合する。デノスマブ製剤は、RANKLが破骨細胞及びその前駆細胞の表面にある受容体RANKを活性化することを阻止する。」英語原文："Denosumab products bind to RANKL, a transmembrane or soluble protein essential for the formation, function, and survival of osteoclasts, the cells responsible for bone resorption. Denosumab products prevent RANKL from activating its receptor, RANK, on the surface of osteoclasts and their precursors."（[DailyMed: Conexxence (denosumab) prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=39a0a789-778f-4695-b3a9-61643e6396cd)、版 2026-11-04、参照日 2026-11-19）。既知の情報によると、デノスマブは RANKL を阻害するヒト型モノクローナル抗体で、骨吸収を抑えることで骨粗鬆症での有効性が確認されています。
 
 RANKL/RANK シグナルは、糖尿病における炎症や血管病変との関連が緩やかに示唆されています。ただし、RANKL 阻害が網膜の微小血管疾患に結びつくことを直接示す証拠はなく、この関連性は TxGNN の予測のみに基づいています。
 
@@ -115,11 +115,12 @@ RANKL/RANK シグナルは、糖尿病における炎症や血管病変との関
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「日本での承認状況（取り消しの経緯と現行製品の有無）の再確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Conexxence (denosumab) prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=39a0a789-778f-4695-b3a9-61643e6396cd) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ TxGNN モデルは**悪性高血圧性腎疾患 (malignant hypertensive renal di
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。ビソプロロールはβ1アドレナリン受容体を選択的に遮断する薬剤として知られています。
+米国 FDA が承認した Bisoprolol の添付文書（Prescribing Information）の「Clinical Pharmacology」の項によると（非公式訳）、「ビソプロロールフマル酸塩は、治療用量範囲において有意な膜安定化作用又は内因性交感神経刺激作用を有しないbeta 1 選択的（心臓選択的）アドレナリン受容体遮断薬である。しかしながら、心臓選択性は絶対的なものではなく、高用量（≥ 20 mg）では、ビソプロロールフマル酸塩は主に気管支及び血管の筋層に存在するbeta 2 アドレナリン受容体も阻害する。したがって、選択性を維持するためには最小有効量を使用することが重要である。」英語原文："BISOPROLOL FUMARATE is a beta 1 -selective (cardioselective) adrenoceptor blocking agent without significant membrane stabilizing activity or intrinsic sympathomimetic activity in its therapeutic dosage range. Cardioselectivity is not absolute, however, and at higher doses (≥ 20 mg) bisoprolol fumarate also inhibits beta 2 -adrenoceptors, chiefly located in the bronchial and vascular musculature; to retain selectivity it is therefore important to use the lowest effective dose."（[DailyMed: bisoprolol fumarate prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6517d564-ea55-4084-a8ab-34fea548c24e)、版 2026-11-11、参照日 2026-11-19）。ビソプロロールはβ1アドレナリン受容体を選択的に遮断する薬剤として知られています。
 
 β1遮断はレニン・アンジオテンシン系の活性化と血圧を下げる方向に働きます。そのため、重度の高血圧に伴う腎障害の進行を抑える可能性があると考えられます。
 
@@ -104,6 +104,19 @@ TxGNN モデルは**悪性高血圧性腎疾患 (malignant hypertensive renal di
 - 詳細な薬物作用機序データ（MOA）の補充
 - 悪性高血圧性腎疾患に対する前臨床研究や観察研究の文献調査
 - 重度腎障害・高血圧緊急症の患者を対象とした安全性評価計画の検討
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: bisoprolol fumarate prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6517d564-ea55-4084-a8ab-34fea548c24e) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

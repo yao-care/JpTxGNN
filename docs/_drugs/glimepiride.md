@@ -55,7 +55,7 @@ TxGNN モデルは **focal stiff limb syndrome（局所性スティフ・リム�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、グリメピリドは膵β細胞の KATP チャネルを閉鎖してインスリン分泌を促進するスルホニル尿素系薬剤で、2 型糖尿病での使用が確立されています。
+米国 FDA が承認した Glimepiride の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「グリメピリドは主に膵β細胞からのインスリン分泌を刺激することにより血糖を低下させる。スルホニルウレア系薬剤は膵β細胞の細胞膜にあるスルホニルウレア受容体に結合し、ATP感受性カリウムチャネルを閉鎖させることにより、インスリン分泌を刺激する。」英語原文："Glimepiride primarily lowers blood glucose by stimulating the release of insulin from pancreatic beta cells. Sulfonylureas bind to the sulfonylurea receptor in the pancreatic beta-cell plasma membrane, leading to closure of the ATP-sensitive potassium channel, thereby stimulating the release of insulin."（[DailyMed: Glimepiride 3 Mg (glimepiride) prescribing information, Lifsa Drugs LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=51157849-7990-4a8b-ae50-eda1baf93cfa)、版 2024-08-20、参照日 2026-11-19）。既知の情報によると、グリメピリドは膵β細胞の KATP チャネルを閉鎖してインスリン分泌を促進するスルホニル尿素系薬剤で、2 型糖尿病での使用が確立されています。
 
 focal stiff limb syndrome は、GABA 作動性・グリシン作動性の神経伝達の障害（自己免疫が関与）を背景とする稀な神経疾患です。グリメピリドとの機序的な関連は確立されておらず、この予測は TxGNN モデルの出力に基づくものにとどまります。
 
@@ -106,6 +106,19 @@ focal stiff limb syndrome は、GABA 作動性・グリシン作動性の神経�
 - 添付文書（PMDA）に基づく警告・禁忌の確認
 - 前臨床研究または症例報告など、対象疾患を直接扱うエビデンスの収集
 - 低血糖リスクを含む、非糖尿病患者での安全性評価
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Glimepiride 3 Mg (glimepiride) prescribing information, Lifsa Drugs LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=51157849-7990-4a8b-ae50-eda1baf93cfa) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

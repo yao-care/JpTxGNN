@@ -56,7 +56,7 @@ TxGNN モデルは**胃十二指腸炎 (gastroduodenitis)** に有効である�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。ただし、メトクロプラミドはドパミンD2受容体拮抗薬に分類される制吐薬・消化管運動改善薬として知られています。文献では、ドパミン拮抗薬が胃十二指腸の運動を促進し、胃幽門部と十二指腸の協調運動に影響することが動物実験や生理学的研究で示されています。
+米国 FDA が承認した Metoclopramide の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「メトクロプラミドは、胃液、胆汁又は膵液の分泌を刺激することなく、上部消化管の運動を刺激する。胃食道逆流並びに急性及び再発性の糖尿病性胃不全麻痺の治療におけるメトクロプラミドの正確な作用機序は完全には確立されていない。」英語原文："Metoclopramide stimulates motility of the upper gastrointestinal tract without stimulating gastric, biliary, or pancreatic secretions. The exact mechanism of action of metoclopramide in the treatment of gastroesophageal reflux and acute and recurrent diabetic gastroparesis has not been fully established."（[DailyMed: Reglan (metoclopramide hydrochloride) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de55c133-eb08-4a35-91a2-5dc093027397)、版 2026-02-09、参照日 2026-11-19）。ただし、メトクロプラミドはドパミンD2受容体拮抗薬に分類される制吐薬・消化管運動改善薬として知られています。文献では、ドパミン拮抗薬が胃十二指腸の運動を促進し、胃幽門部と十二指腸の協調運動に影響することが動物実験や生理学的研究で示されています。
 
 こうした作用は、胃十二指腸の炎症に伴う消化不良症状（吐き気、胃排出の遅れなど）を和らげる可能性があります。ただし、これは症状緩和という機序上の推測です。胃十二指腸炎そのものの治療効果を直接示した研究は、今回の収集データにはありません。
 
@@ -111,6 +111,19 @@ TxGNN モデルは**胃十二指腸炎 (gastroduodenitis)** に有効である�
 - 詳細な薬物作用機序データ（MOA）
 - 添付文書（PMDA）に基づく警告・禁忌の確認
 - 併用薬（特にトラマドール、アミスルプリドなど重大な相互作用薬）に関する安全性評価
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Reglan (metoclopramide hydrochloride) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de55c133-eb08-4a35-91a2-5dc093027397) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

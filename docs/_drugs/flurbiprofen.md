@@ -55,7 +55,7 @@ TxGNN モデルは **先端中間肢異形成症 ハンター・トンプソン�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。フルルビプロフェンは非選択的COX阻害薬に分類され、プロスタグランジン産生を抑えることで鎮痛・抗炎症作用を示します。
+米国 FDA が承認した Flurbiprofen の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「フルルビプロフェンは鎮痛、抗炎症及び解熱作用を有する。フルルビプロフェンの作用機序は、他のNSAIDsと同様に完全には解明されていないが、シクロオキシゲナーゼ（COX-1及びCOX-2）の阻害が関与している。」英語原文："Flurbiprofen has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of flurbiprofen, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2)."（[DailyMed: Lurbiro (flurbiprofen) prescribing information, IPG Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7ebf7427-eaae-4035-a6b2-0ea6381e8763)、版 2026-10-05、参照日 2026-11-19）。フルルビプロフェンは非選択的COX阻害薬に分類され、プロスタグランジン産生を抑えることで鎮痛・抗炎症作用を示します。
 
 予測された疾患は、GDF5 遺伝子（CDMP1）に関連する遺伝性の骨格形成異常です。COX 阻害との機序的なつながりは知られておらず、今回の予測の根拠はモデルのスコアのみです。炎症や痛みの症状緩和という対症的な使い方は理論上あり得ますが、骨格形成そのものへの効果を支持する情報は見つかっていません。
 
@@ -111,11 +111,12 @@ TxGNN モデルは **先端中間肢異形成症 ハンター・トンプソン�
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Lurbiro (flurbiprofen) prescribing information, IPG Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7ebf7427-eaae-4035-a6b2-0ea6381e8763) |
 
 <!-- review:end log -->
 

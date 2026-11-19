@@ -56,7 +56,7 @@ TxGNN モデルは**遠位型ミオパチー（舘山型）(distal myopathy, Tat
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報では、プロプラノロールはβ₁/β₂受容体を非選択的に遮断し、心拍数・心収縮力・交感神経刺激を抑える薬です。この作用が高血圧、狭心症、頻脈性不整脈での有効性の基盤になっています。
+米国 FDA が承認した Propranolol の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「プロプラノロールの降圧作用の機序は確立されていない。降圧作用に寄与する因子として、心拍出量の減少、腎臓からのレニン放出の阻害、及び脳の血管運動中枢からの持続的な交感神経出力の減弱が挙げられる。」英語原文："The mechanism of the antihypertensive effect of propranolol has not been established. Among factors that contribute to the antihypertensive action are: decreased cardiac output, inhibition of renin release by the kidneys, and diminution of tonic sympathetic nerve outflow from vasomotor centers in the brain."（[DailyMed: Inderal Xl (propranolol hydrochloride) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ac196ff5-9215-402b-bc57-69aa87f8bade)、版 2026-08-27、参照日 2026-11-19）。既知の情報では、プロプラノロールはβ₁/β₂受容体を非選択的に遮断し、心拍数・心収縮力・交感神経刺激を抑える薬です。この作用が高血圧、狭心症、頻脈性不整脈での有効性の基盤になっています。
 
 一方、舘山型遠位型ミオパチーはカベオリン-3 に関連する筋疾患で、既存適応症の循環器疾患とは病態が大きく異なります。β遮断がこの疾患の病態に作用するという機序的な関連は、現時点で見当たりません。高スコアは TxGNN モデル（ディープラーニング）が学習した関連疾患間の類似性を反映している可能性があり、生物学的な裏付けではなく、機序面の裏付けは乏しいと考えます。
 
@@ -142,13 +142,14 @@ TxGNN モデルは**遠位型ミオパチー（舘山型）(distal myopathy, Tat
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 | 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 | 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Inderal Xl (propranolol hydrochloride) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ac196ff5-9215-402b-bc57-69aa87f8bade) |
 
 <!-- review:end log -->
 

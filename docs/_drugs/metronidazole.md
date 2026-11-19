@@ -56,7 +56,7 @@ TxGNN モデルは **ニューモシスチス症 (Pneumocystosis)** に有効で
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、メトロニダゾールはニトロイミダゾール系の薬で、嫌気的条件下で活性化され、DNA を傷害するラジカルを生じます。この作用で嫌気性菌や原虫に効果を示します。
+米国 FDA が承認した Metronidazole の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「ニトロイミダゾール系薬剤であるメトロニダゾールは、嫌気性環境下で大部分の偏性嫌気性菌に対して抗菌作用を示す。メトロニダゾールは受動拡散により菌体内に入り、感受性嫌気性菌の細胞質内で活性化されると還元される。この過程には、フェレドキシン等の細胞内電子伝達供与体、及びメトロニダゾールのニトロ基への電子の移動が含まれ、これにより短寿命のニトロソフリーラジカルが生成される。」英語原文："Metronidazole, a nitroimidazole, exerts antibacterial effects in an anaerobic environment against most obligate anaerobes. Once metronidazole enters the organism by passive diffusion and activated in the cytoplasm of susceptible anaerobic bacteria, it is reduced; this process includes intra-cellular electron transport donors such as ferredoxin and transfer of an electron to the nitro group of the metronidazole leading to formation of a short-lived nitroso free radical."（[DailyMed: metronidazole prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49360d6f-c8b3-420e-af75-154cf7b05255)、版 2026-11-02、参照日 2026-11-19）。既知の情報によると、メトロニダゾールはニトロイミダゾール系の薬で、嫌気的条件下で活性化され、DNA を傷害するラジカルを生じます。この作用で嫌気性菌や原虫に効果を示します。
 
 ニューモシスチスは好気性の真菌で、メトロニダゾールに感受性を示す標的は確立されていません。既存適応症（嫌気性菌・原虫感染）との関連も薄く、今回の予測は TxGNN のスコアだけが根拠です。機序面から適用できるとは現時点で言えません。
 
@@ -111,18 +111,25 @@ TxGNN モデルは **ニューモシスチス症 (Pneumocystosis)** に有効で
 - 詳細な作用機序データ（DrugBank など）
 - ニューモシスチスに対する in vitro・前臨床での活性データ
 - 参考：同じ予測リストでは、外陰部潰瘍（L3）、キャップポリポーシス（L4）、潰瘍性直腸S状結腸炎（L4）、ハエ症（L4）のほうが文献の裏付けがあり、優先して検討する価値があります。
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: metronidazole prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=49360d6f-c8b3-420e-af75-154cf7b05255) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。
 臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-
-
-
-
 
 <!-- brand-names:start -->
 ## 日本での販売名

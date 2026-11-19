@@ -57,7 +57,7 @@ TxGNN モデルは最上位の予測として **Ohdo 症候群および類縁疾
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、パロキセチンは SSRI に分類され、セロトニンの再取り込みを阻害してシナプスのセロトニン濃度を高めることで、うつ病に対する有効性が確立されています。
+米国 FDA が承認した Paroxetine の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「大うつ病性障害（MDD）、パニック障害（PD）、社交不安障害（SAD）及び月経前不快気分障害（PMDD）の治療におけるPAXIL CRの作用機序は不明であるが、神経細胞におけるセロトニン（5-HT）の再取り込み阻害に起因する中枢神経系のセロトニン作動性活性の増強に関連すると推定されている。」英語原文："The mechanism of action of PAXIL CR in the treatment of major depressive disorder (MDD), panic disorder (PD), social anxiety disorder (SAD), and premenstrual dysphoric disorder (PMDD) is unknown, but is presumed to be linked to potentiation of serotonergic activity in the central nervous system resulting from inhibition of neuronal reuptake of serotonin (5-HT)."（[DailyMed: Paxil Cr (paroxetine hydrochloride) prescribing information, Apotex Corp](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=483bd97f-c4d0-4e23-aaa8-6334f4471e0c)、版 2026-09-30、参照日 2026-11-19）。既知の情報によると、パロキセチンは SSRI に分類され、セロトニンの再取り込みを阻害してシナプスのセロトニン濃度を高めることで、うつ病に対する有効性が確立されています。
 
 しかし、Ohdo 症候群は KAT6B 関連の発達障害症候群であり、セロトニン再取り込み阻害との間に妥当な機序的関連は見当たりません。この予測を支えているのは TxGNN のスコアだけで、実質的な裏付けはないと考えられます。
 
@@ -139,12 +139,13 @@ TxGNN モデルは最上位の予測として **Ohdo 症候群および類縁疾
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「取り消された」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-06 | 削除：「取り消し理由と」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Paxil Cr (paroxetine hydrochloride) prescribing information, Apotex Corp](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=483bd97f-c4d0-4e23-aaa8-6334f4471e0c) |
 
 <!-- review:end log -->
 

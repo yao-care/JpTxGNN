@@ -55,7 +55,7 @@ description: "Omeprazole：予測新適応症はDuodenal obstruction（エビデ
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、オメプラゾールは胃壁細胞の H+/K+ ATPase（プロトンポンプ）を阻害して胃酸分泌を抑えるプロトンポンプ阻害薬で、消化性潰瘍や逆流性食道炎での有効性が確立されています。
+米国 FDA が承認した Omeprazole の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「オメプラゾールは、胃壁細胞の分泌面における H + /K + ATPase 酵素系を特異的に阻害することにより胃酸分泌を抑制する抗分泌化合物の一群である置換ベンズイミダゾール類に属する。この酵素系は胃粘膜内の酸（プロトン）ポンプとみなされていることから、オメプラゾールは酸生成の最終段階を遮断するという点で、胃酸ポンプ阻害薬として特徴づけられている。」英語原文："Omeprazole belongs to a class of antisecretory compounds, the substituted benzimidazoles, that suppress gastric acid secretion by specific inhibition of the H + /K + ATPase enzyme system at the secretory surface of the gastric parietal cell. Because this enzyme system is regarded as the acid (proton) pump within the gastric mucosa, omeprazole has been characterized as a gastric acid-pump inhibitor, in that it blocks the final step of acid production."（[DailyMed: Prilosec (omeprazole magnesium) prescribing information, Covis Pharma US, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b6761f84-53ac-4745-a8c8-1e5427d7e179)、版 2024-03-19、参照日 2026-11-19）。既知の情報によると、オメプラゾールは胃壁細胞の H+/K+ ATPase（プロトンポンプ）を阻害して胃酸分泌を抑えるプロトンポンプ阻害薬で、消化性潰瘍や逆流性食道炎での有効性が確立されています。
 
 十二指腸胃逆流は、十二指腸内容物（胆汁など）が胃へ逆流する病態です。胃酸を抑えることで、逆流した内容物による粘膜障害を軽減できる可能性があります。ただし、逆流そのものを減らす効果については結果が一定していません。
 
@@ -136,11 +136,12 @@ Barrett 食道患者を対象とした研究では、オメプラゾールが十
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「取消の経緯と」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Prilosec (omeprazole magnesium) prescribing information, Covis Pharma US, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b6761f84-53ac-4745-a8c8-1e5427d7e179) |
 
 <!-- review:end log -->
 

@@ -55,7 +55,7 @@ TxGNN モデルは**ポリクローナル高粘稠度症候群 (polyclonal hyper
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、アモキシシリンはβ-ラクタム系抗生物質で、細菌の細胞壁合成を阻害して抗菌作用を示します。
+米国 FDA が承認した Amoxicillin の添付文書（Prescribing Information）の「Mechanism of Action」および「Microbiology」の項によると（非公式訳）、「アモキシシリンは抗菌薬である。[…] アモキシシリンは、活発な増殖期にある感受性菌に対してペニシリンと同様の殺菌作用を示す。細胞壁生合成を阻害することにより作用し、細菌を死滅させる。」英語原文："Amoxicillin is an antibacterial drug. […] Amoxicillin is similar to penicillin in its bactericidal action against susceptible bacteria during the stage of active multiplication. It acts through the inhibition of cell wall biosynthesis that leads to the death of the bacteria."（[DailyMed: amoxicillin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98e9274c-c02e-44d9-8cc5-17536ef03a77)、版 2026-11-13、参照日 2026-11-19）。既知の情報によると、アモキシシリンはβ-ラクタム系抗生物質で、細菌の細胞壁合成を阻害して抗菌作用を示します。
 
 一方、多クローン性高粘稠度症候群は、免疫グロブリンが過剰に増えることで血液の粘度が上がる病態です。細菌感染が原因ではないため、アモキシシリンの抗菌作用との機序的な接点は見当たりません。この予測のスコアはTxGNNモデル(ディープラーニング)によるもので、関連する疾患間でモデルが学習した類似性を反映している可能性があり、生物学的な根拠ではありません。臨床的・文献的な裏付けもありません。
 
@@ -113,11 +113,12 @@ TxGNN モデルは**ポリクローナル高粘稠度症候群 (polyclonal hyper
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: amoxicillin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98e9274c-c02e-44d9-8cc5-17536ef03a77) |
 
 <!-- review:end log -->
 

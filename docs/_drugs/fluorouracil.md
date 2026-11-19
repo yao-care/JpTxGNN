@@ -56,7 +56,7 @@ TxGNN モデルは**胚性横紋筋肉腫（膣のブドウ状型）(botryoid-ty
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、フルオロウラシルはチミジル酸合成酵素を阻害し、RNA/DNA に取り込まれる代謝拮抗薬であり、増殖の速い腫瘍細胞に作用すると考えられます。
+米国 FDA が承認した Fluorouracil の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「フルオロウラシルはヌクレオシド代謝阻害薬であり、デオキシリボ核酸（DNA）の合成を阻害し、またより低い程度ではあるがリボ核酸（RNA）の生成を阻害する。これらの作用は急速に増殖する細胞に影響を及ぼし、細胞死をもたらす可能性がある。フルオロウラシルは3つの主要な活性代謝物、すなわち5-フルオロ-2′-デオキシウリジン-5′-一リン酸（FdUMP）、5-フルオロウリジン-5′三リン酸（FUTP）及び5-フルオロ-2′-デオキシウリジン-5′-三リン酸（FdUTP）に変換される。」英語原文："Fluorouracil is a nucleoside metabolic inhibitor that interferes with the synthesis of deoxyribonucleic acid (DNA) and to a lesser extent inhibits the formation of ribonucleic acid (RNA); these affect rapidly growing cells and may lead to cell death. Fluorouracil is converted to three main active metabolites: 5-fluoro-2′-deoxyuridine-5′-monophosphate (FdUMP), 5-fluorouridine-5′triphosphate (FUTP) and 5-fluoro-2′-deoxyuridine-5′-triphosphate (FdUTP)."（[DailyMed: Favlyxa (fluorouracil) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1daf714b-704c-4bcc-b6e0-6f0eb2bfe66b)、版 2026-10-23、参照日 2026-11-19）。既知の情報によると、フルオロウラシルはチミジル酸合成酵素を阻害し、RNA/DNA に取り込まれる代謝拮抗薬であり、増殖の速い腫瘍細胞に作用すると考えられます。
 
 横紋筋肉腫は増殖の速い肉腫であるため、この作用が理論上は有効に働く可能性があります。ただし、標準的な横紋筋肉腫の治療レジメンは 5-FU を中心としていません。したがって、この予測はモデルによる仮説の段階にとどまります。
 
@@ -133,11 +133,12 @@ TxGNN モデルは**胚性横紋筋肉腫（膣のブドウ状型）(botryoid-ty
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「取り消し後の供給状況」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Favlyxa (fluorouracil) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1daf714b-704c-4bcc-b6e0-6f0eb2bfe66b) |
 
 <!-- review:end log -->
 

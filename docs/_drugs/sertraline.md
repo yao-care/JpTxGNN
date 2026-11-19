@@ -56,7 +56,7 @@ TxGNN モデルは**シゾイドパーソナリティ障害 (Schizoid Personalit
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、セルトラリンはセロトニンの再取り込みを選択的に阻害する SSRI で、うつ病・うつ状態とパニック障害での有効性が日本で承認されています。
+米国 FDA が承認した Sertraline の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「セルトラリンは、セロトニン(5-HT)の神経細胞への再取り込みを阻害することにより、中枢神経系におけるセロトニン作動性活性を増強する。」英語原文："Sertraline potentiates serotonergic activity in the central nervous system through inhibition of neuronal reuptake of serotonin (5-HT)."（[DailyMed: Zoloft (sertraline hydrochloride) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fda754f6-d0f3-4dce-a17a-927d64f912f7)、版 2023-08-08、参照日 2026-11-19）。既知の情報によると、セルトラリンはセロトニンの再取り込みを選択的に阻害する SSRI で、うつ病・うつ状態とパニック障害での有効性が日本で承認されています。
 
 シゾイドパーソナリティ障害の特徴である社会的引きこもりや感情の平板化に対して、セロトニン系の調節が理論上は影響しうると考えられます。ただし、これは推測の域を出ません。この疾患に対する直接的な裏付けはなく、取得できた唯一の文献もむちゃ食い障害の研究です。
 
@@ -103,6 +103,19 @@ TxGNN モデルは**シゾイドパーソナリティ障害 (Schizoid Personalit
 - 重大な相互作用（ブプロピオンなど）への対応方針の整理
 
 ただし、これは既承認のパニック障害と大きく重なります。
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Zoloft (sertraline hydrochloride) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fda754f6-d0f3-4dce-a17a-927d64f912f7) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

@@ -55,7 +55,7 @@ TxGNN モデルは、最上位の予測として**歯・歯周組織の異常を
 
 ## この予測が妥当である理由
 
-ビマトプロストはプロスタグランジン F2α 類似のプロスタマイドで、FP 型受容体を介して作用します。緑内障では眼圧を下げ、毛包では成長期を延長して毛包を大きくすることが知られています。ただし、今回のデータには詳細な作用機序の情報が含まれていません。以下は公表されている薬理知識に基づく説明です。
+ビマトプロストはプロスタグランジン F2α 類似のプロスタマイドで、FP 型受容体を介して作用します。緑内障では眼圧を下げ、毛包では成長期を延長して毛包を大きくすることが知られています。米国 FDA が承認した Bimatoprost の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「ビマトプロストはプロスタグランジン類縁体であり、眼圧下降作用を有するプロスタグランジンの合成構造類縁体である。ビマトプロストは、線維柱帯（主経路）及びぶどう膜強膜経路（副経路）の両方を介した房水流出を増加させることにより、ヒトにおいて眼圧を下降させると考えられている。」英語原文："Bimatoprost, a prostaglandin analog, is a synthetic structural analog of prostaglandin with ocular hypotensive activity. Bimatoprost is believed to lower IOP in humans by increasing outflow of aqueous humor through both the trabecular meshwork (conventional) and uveoscleral routes (unconventional)."（[DailyMed: Durysta (bimatoprost) prescribing information, Allergan, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3f59da84-0bcc-4c84-b3e2-e215681ef341)、版 2024-10-16、参照日 2026-11-19）。以下は公表されている薬理知識に基づく説明です。
 
 最上位の予測疾患は、歯・歯周組織の形成に関わる先天性の発生異常です。ビマトプロストの薬理作用とは、機序的につながる根拠が見つかっていません。このスコアはTxGNNモデル（ディープラーニング）によるもので、毛髪や低毛症の表現型など関連疾患間でモデルが学習した類似性を反映した可能性があり、生物学的な裏付けではありません。したがって、この予測は妥当とは言えません。
 
@@ -148,13 +148,14 @@ TxGNN モデルは、最上位の予測として**歯・歯周組織の異常を
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「外用（頭皮）剤形での開発可否の検討：日本で現在有効な承認がなく、剤形・投与経路の適合性も未評価です」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-12 | 訂正：残りの 3 件は「取消済み」ではなく有効 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Durysta (bimatoprost) prescribing information, Allergan, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3f59da84-0bcc-4c84-b3e2-e215681ef341) |
 
 <!-- review:end log -->
 

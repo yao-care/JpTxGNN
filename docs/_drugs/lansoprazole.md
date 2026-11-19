@@ -55,7 +55,7 @@ TxGNN モデルは**十二指腸閉塞 (duodenal obstruction)** に有効であ�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。ランソプラゾールはプロトンポンプ阻害薬に分類され、胃酸分泌を抑える薬剤として知られています。
+米国 FDA が承認した Lansoprazole の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「ランソプラゾールは、胃壁細胞の分泌面における（H +, K + ）-ATPase酵素系を特異的に阻害することにより胃酸分泌を抑制する抗分泌化合物の一群である置換ベンズイミダゾール類に属する。この酵素系は壁細胞内の酸（プロトン）ポンプとみなされていることから、ランソプラゾールは酸産生の最終段階を阻害するという点で、胃酸ポンプ阻害剤として特徴づけられている。」英語原文："Lansoprazole belongs to a class of antisecretory compounds, the substituted benzimidazoles, that suppress gastric acid secretion by specific inhibition of the (H +, K + )-ATPase enzyme system at the secretory surface of the gastric parietal cell. Because this enzyme system is regarded as the acid (proton) pump within the parietal cell, lansoprazole has been characterized as a gastric acid-pump inhibitor, in that it blocks the final step of acid production."（[DailyMed: Prevacid (lansoprazole) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=71ba78cb-7e46-43eb-9425-fa130f537f84)、版 2025-07-08、参照日 2026-11-19）。ランソプラゾールはプロトンポンプ阻害薬に分類され、胃酸分泌を抑える薬剤として知られています。
 
 酸分泌を抑えることで、閉塞部位付近に生じうる二次的な消化性粘膜障害を和らげる可能性は考えられます。ただし十二指腸閉塞は機械的な通過障害であり、酸抑制で閉塞そのものが改善するとは考えにくく、この関連性は TxGNN の予測のみに基づいています。支持する直接的な研究は今回のデータにはありません。
 
@@ -97,6 +97,19 @@ TxGNN モデルは**十二指腸閉塞 (duodenal obstruction)** に有効であ�
 - 詳細な作用機序データ（MOA）の補充
 - 添付文書（警告・禁忌）の取得と安全性確認
 - 投与経路の適合性評価
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Prevacid (lansoprazole) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=71ba78cb-7e46-43eb-9425-fa130f537f84) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

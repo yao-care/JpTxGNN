@@ -55,7 +55,7 @@ TxGNN モデルは**子宮靭帯腺癌 (uterine ligament adenocarcinoma)** に�
 
 ## この予測が妥当である理由
 
-デュルバルマブは PD-L1 を遮断し、抑制されていた T 細胞の抗腫瘍活性を回復させる抗体です。現在、詳細な作用機序データはありません。ただし、PD-L1 阻害は腫瘍免疫を介した広範な固形がんに共通する考え方です。
+デュルバルマブは PD-L1 を遮断し、抑制されていた T 細胞の抗腫瘍活性を回復させる抗体です。米国 FDA が承認した Durvalumab の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「プログラム細胞死リガンド1（PD-L1）の発現は炎症シグナル（例：IFN-gamma）により誘導されることがあり、PD-L1は腫瘍微小環境において腫瘍細胞及び腫瘍関連免疫細胞の両方に発現しうる。PD-L1はPD-1及びCD80（B7.1）との相互作用を介してT細胞の機能及び活性化を阻害する。[…] デュルバルマブは、PD-L1に結合し、PD-L1とPD-1及びCD80（B7.1）との相互作用を阻害するヒト免疫グロブリンG1カッパ（IgG1κ）モノクローナル抗体である。」英語原文："Expression of programmed cell death ligand-1 (PD-L1) can be induced by inflammatory signals (e.g., IFN-gamma) and can be expressed on both tumor cells and tumor-associated immune cells in the tumor microenvironment. PD-L1 blocks T-cell function and activation through interaction with PD-1 and CD80 (B7.1). […] Durvalumab is a human immunoglobulin G1 kappa (IgG1κ) monoclonal antibody that binds to PD-L1 and blocks the interaction of PD-L1 with PD-1 and CD80 (B7.1)."（[DailyMed: Imfinzi (durvalumab) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8baba4ea-2855-42fa-9bd9-5a7548d4cec3)、版 2026-08-31、参照日 2026-11-19）。ただし、PD-L1 阻害は腫瘍免疫を介した広範な固形がんに共通する考え方です。
 
 子宮靭帯腺癌は稀な婦人科腺癌で、デュルバルマブとの関連は TxGNN の予測のみに基づきます。この疾患に特化した PD-L1 発現の根拠や臨床データは、今回まとめたデータには含まれていません。そのため、機序的な適用可能性は仮説の段階です。
 
@@ -100,6 +100,19 @@ TxGNN モデルは**子宮靭帯腺癌 (uterine ligament adenocarcinoma)** に�
 - この疾患を対象とした症例報告・臨床試験の調査
 - PMDA 添付文書の警告・禁忌の取得と解析
 - DrugBank からの作用機序データの補完
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Imfinzi (durvalumab) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8baba4ea-2855-42fa-9bd9-5a7548d4cec3) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

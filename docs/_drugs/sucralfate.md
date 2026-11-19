@@ -55,7 +55,7 @@ TxGNN モデルは**十二指腸胃逆流 (duodenogastric reflux)** に有効で
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、スクラルファートは非全身性の粘膜保護薬で、潰瘍部位に保護バリアを形成します。このため、既存適応症である胃・十二指腸潰瘍での有効性が確立されています。
+米国 FDA が承認した Sucralfate の添付文書（Prescribing Information）の「Clinical Pharmacology」の項によると（非公式訳）、「スクラルファートが十二指腸潰瘍の治癒を促進する機序は完全には解明されていないが、全身作用ではなく局所作用によりその効果を発揮することが知られている。以下の知見も関連すると考えられる:1.」英語原文："Although the mechanism of sucralfate's ability to accelerate healing of duodenal ulcers remains to be fully defined, it is known that it exerts its effect through a local, rather than systemic, action. The following observations also appear pertinent: 1."（[DailyMed: Sucralfate Oral Suspension (sucralfate) prescribing information, Glenmark Pharmaceuticals Inc., USA](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e595c2a-edd0-43f7-a2db-69553b9557d9)、版 2026-01-06、参照日 2026-11-19）。既知の情報によると、スクラルファートは非全身性の粘膜保護薬で、潰瘍部位に保護バリアを形成します。このため、既存適応症である胃・十二指腸潰瘍での有効性が確立されています。
 
 十二指腸胃逆流は、胆汁を含む十二指腸内容物が胃へ逆流し、粘膜を傷害する病態です。収集した文献では、スクラルファートが胆汁酸を吸着し、傷害粘膜を保護することで、胆汁逆流による胃粘膜障害を軽減しうると考えられています。胃・十二指腸粘膜の保護という既存の作用と同じ方向であり、機序的に適用可能です。
 
@@ -145,12 +145,13 @@ TxGNN モデルは**十二指腸胃逆流 (duodenogastric reflux)** に有効で
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 | 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Sucralfate Oral Suspension (sucralfate) prescribing information, Glenmark Pharmaceuticals Inc., USA](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e595c2a-edd0-43f7-a2db-69553b9557d9) |
 
 <!-- review:end log -->
 

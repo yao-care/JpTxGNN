@@ -55,7 +55,7 @@ TxGNN モデルは**遺伝性網膜ジストロフィー（retinal dystrophy wit
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データは今回まとめたデータにはありません。ただし薬理情報によると、ブロナンセリンはドパミン D2 受容体と 5-HT2A 受容体に作用する薬剤で、日本では統合失調症の治療薬として承認されています。
+ChEMBL（EMBL-EBI）に登録されている Blonanserin の作用機序（非公式訳）：「セロトニン2a（5-HT2a）受容体拮抗薬；ドパミンD2受容体拮抗薬；ドパミンD3受容体拮抗薬」英語原文："Serotonin 2a (5-HT2a) receptor antagonist; Dopamine D2 receptor antagonist; Dopamine D3 receptor antagonist"（[ChEMBL CHEMBL178803 (blonanserin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL178803)、CC BY-SA 3.0、参照日 2026-11-19）。ただし薬理情報によると、ブロナンセリンはドパミン D2 受容体と 5-HT2A 受容体に作用する薬剤で、日本では統合失調症の治療薬として承認されています。
 
 統合失調症と遺伝性網膜ジストロフィーの間に、確立した機序的なつながりは見当たりません。網膜変性の病態経路にドパミン・セロトニン受容体拮抗が関与するという根拠はなく、この関連は TxGNN の予測のみに基づいています。したがって、現段階で機序的な妥当性を支持することはできません。
 
@@ -101,12 +101,13 @@ TxGNN モデルは**遺伝性網膜ジストロフィー（retinal dystrophy wit
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「また、日本で現在有効な承認がなく、添付文書の安全性情報も未確認です」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-06 | 削除：「現時点で有効な承認がない点を踏まえた、開発・供給体制の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [ChEMBL CHEMBL178803 (blonanserin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL178803) |
 
 <!-- review:end log -->
 

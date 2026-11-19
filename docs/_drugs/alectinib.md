@@ -56,7 +56,7 @@ TxGNN モデルは**歯肉線維腫症 (Fibromatosis, Gingival)** に有効で�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、アレクチニブは ALK（および RET）キナーゼを阻害する分子標的薬で、ALK 融合遺伝子陽性の非小細胞肺癌で有効性が確立しています。
+米国 FDA が承認した Alectinib の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「アレクチニブはALKおよびRETを標的とするチロシンキナーゼ阻害剤である。非臨床試験において、アレクチニブはALKのリン酸化、ならびにALKを介した下流シグナル伝達タンパク質STAT3およびAKTの活性化を阻害し、ALK融合遺伝子、遺伝子増幅または活性化変異を有する複数の細胞株において腫瘍細胞の生存率を低下させた。」英語原文："Alectinib is a tyrosine kinase inhibitor that targets ALK and RET. In nonclinical studies, alectinib inhibited ALK phosphorylation and ALK-mediated activation of the downstream signaling proteins STAT3 and AKT, and decreased tumor cell viability in multiple cell lines harboring ALK fusions, amplifications, or activating mutations."（[DailyMed: Alecensa (alectinib hydrochloride) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=42c49deb-713b-427a-9670-08af08adcffb)、版 2026-08-21、参照日 2026-11-19）。既知の情報によると、アレクチニブは ALK（および RET）キナーゼを阻害する分子標的薬で、ALK 融合遺伝子陽性の非小細胞肺癌で有効性が確立しています。
 
 しかし、歯肉線維腫症は ALK や RET のシグナルに依存する疾患として知られておらず、既存適応症との機序的な関連は確認できません。この予測は TxGNN モデルのスコアのみに基づいており、現時点では妥当性を裏付ける根拠は乏しい状況です。
 
@@ -147,11 +147,12 @@ TxGNN モデルは**歯肉線維腫症 (Fibromatosis, Gingival)** に有効で�
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「また、日本での販売承認は現在失効・整理済みの状態です」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Alecensa (alectinib hydrochloride) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=42c49deb-713b-427a-9670-08af08adcffb) |
 
 <!-- review:end log -->
 

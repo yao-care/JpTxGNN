@@ -56,7 +56,7 @@ TxGNN モデルは**十二指腸閉塞 (duodenal obstruction)** に有効であ�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。エソメプラゾールはプロトンポンプ阻害薬に分類され、胃酸分泌を抑える薬です。
+米国 FDA が承認した Esomeprazole の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「エソメプラゾールは置換ベンズイミダゾール系の胃酸分泌抑制化合物に属し、胃壁細胞の分泌表面においてH+/K+ ATPase酵素系を特異的に阻害することにより胃酸分泌を抑制する。エソメプラゾールは壁細胞の酸性区画においてプロトン化され、変換されて活性阻害体であるアキラルなスルフェンアミドを形成する。」英語原文："Esomeprazole belongs to a class of antisecretory compounds, the substituted benzimidazoles, that suppress gastric acid secretion by specific inhibition of the H+/K+ ATPase enzyme system at the secretory surface of the gastric parietal cell. Esomeprazole is protonated and converted in the acidic compartment of the parietal cell forming the active inhibitor, the achiral sulphenamide."（[DailyMed: Nexium (esomeprazole magnesium) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f4853677-1622-4037-688b-fdf533a11d96)、版 2025-12-19、参照日 2026-11-19）。エソメプラゾールはプロトンポンプ阻害薬に分類され、胃酸分泌を抑える薬です。
 
 胃酸の抑制は、十二指腸潰瘍のような酸が関与する病態では役立ちます。しかし十二指腸閉塞は、腸管が物理的にふさがる病態です。酸分泌の抑制が閉塞そのものに作用する機序は確立していません。この予測は、十二指腸潰瘍に近い位置づけにあることから出た可能性が高く、機序の裏付けは乏しいと考えられます。
 
@@ -102,6 +102,19 @@ TxGNN モデルは**十二指腸閉塞 (duodenal obstruction)** に有効であ�
 - 詳細な作用機序データ（MOA）の取得
 - 添付文書の警告・禁忌の確認（PMDA 公開情報の取得）
 - 投与経路の適合性の評価
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Nexium (esomeprazole magnesium) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f4853677-1622-4037-688b-fdf533a11d96) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

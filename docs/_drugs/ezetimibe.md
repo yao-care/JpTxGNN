@@ -55,7 +55,7 @@ TxGNN モデルは**コレステロールエステル転送蛋白欠損症 (chol
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報では、エゼチミブは NPC1L1 を介した小腸でのコレステロール吸収を阻害し、LDL-C を低下させる薬剤です。
+米国 FDA が承認した Ezetimibe の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「エゼチミブは小腸におけるコレステロールの吸収を阻害することにより血中コレステロールを低下させる。エゼチミブの分子標的は、コレステロール及び植物ステロールの腸管からの取り込みに関与するステロールトランスポーターであるNiemann-Pick C1-Like 1（NPC1L1）であることが示されている。」英語原文："Ezetimibe reduces blood cholesterol by inhibiting the absorption of cholesterol by the small intestine. The molecular target of ezetimibe has been shown to be the sterol transporter, Niemann-Pick C1-Like 1 (NPC1L1), which is involved in the intestinal uptake of cholesterol and phytosterols."（[DailyMed: ezetimibe prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c37c695b-fb40-423c-9b73-d1aa58a34db9)、版 2026-10-08、参照日 2026-11-19）。既知の情報では、エゼチミブは NPC1L1 を介した小腸でのコレステロール吸収を阻害し、LDL-C を低下させる薬剤です。
 
 一方、コレステロールエステル転送蛋白（CETP）欠損症は、HDL-C 高値と CETP を介した脂質転送の低下を特徴とします。エゼチミブをこの疾患に使う確立した機序的根拠や臨床的必要性は見当たりません。スコアが高いのは、脂質代謝ネットワーク上で近い位置にあることを反映しているにすぎないと考えられます。
 
@@ -99,6 +99,19 @@ TxGNN モデルは**コレステロールエステル転送蛋白欠損症 (chol
 - 詳細な作用機序データ（MOA）と、CETP 欠損症との機序的関連の検証
 - この疾患を直接対象とした前臨床・臨床研究
 - 添付文書の警告・禁忌の確認（安全性スクリーニング前に必須）
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: ezetimibe prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c37c695b-fb40-423c-9b73-d1aa58a34db9) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

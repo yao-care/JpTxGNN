@@ -56,7 +56,7 @@ TxGNN モデルは**原因が不明確な多因子性の肺高血圧症 (pulmona
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、リシノプリルは ACE 阻害薬に分類され、レニン・アンジオテンシン系（RAS）を抑えることで血圧を下げる薬です。
+米国 FDA が承認した Lisinopril の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「リシノプリルはヒト及び動物においてアンジオテンシン変換酵素（ACE）を阻害する。ACEはペプチジルジペプチダーゼであり、アンジオテンシンIから血管収縮物質であるアンジオテンシンIIへの変換を触媒する。アンジオテンシンIIはまた、副腎皮質によるアルドステロン分泌を刺激する。」英語原文："Lisinopril inhibits angiotensin-converting enzyme (ACE) in human subjects and animals. ACE is a peptidyl dipeptidase that catalyzes the conversion of angiotensin I to the vasoconstrictor substance, angiotensin II. Angiotensin II also stimulates aldosterone secretion by the adrenal cortex."（[DailyMed: Qbrelis (lisinopril) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9f6e4e57-a489-4b36-b093-b93865d3717c)、版 2025-12-16、参照日 2026-11-19）。既知の情報によると、リシノプリルは ACE 阻害薬に分類され、レニン・アンジオテンシン系（RAS）を抑えることで血圧を下げる薬です。
 
 RAS を遮断すると、アンジオテンシン II による血管収縮や血管リモデリングが弱まる可能性があります。肺循環でも同様の作用が働けば、肺高血圧症に関与する血管の緊張や構造変化を和らげる可能性があると考えられます。
 
@@ -92,6 +92,19 @@ RAS を遮断すると、アンジオテンシン II による血管収縮や血
 - 詳細な薬物作用機序データ（MOA）の補充
 - 添付文書の警告・禁忌情報の確認
 - 肺高血圧症患者における低血圧・腎機能・カリウム値への影響の評価計画
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Qbrelis (lisinopril) prescribing information, Azurity Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9f6e4e57-a489-4b36-b093-b93865d3717c) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

@@ -55,7 +55,7 @@ TxGNN モデルは**フコシル化欠損を伴う先天性グリコシル化異
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、ハロペリドールはブチロフェノン系の神経遮断薬で、ドパミン D2 受容体を拮抗します。統合失調症や躁病など、ドパミン系の過活動が関わる精神疾患で有効性が確認されています。
+米国 FDA が承認した Haloperidol の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「成人の統合失調症の治療におけるハロペリドールデカン酸エステルの作用機序は明らかではない。しかし、統合失調症におけるその効果は、中枢のドパミン2型受容体に対する拮抗薬としての作用を介している可能性がある。」英語原文："The mechanism of action of haloperidol decanoate for the treatment of schizophrenia in adults is unclear. However, its effect in schizophrenia could be mediated through its activity as an antagonist at central dopamine type 2 receptors."（[DailyMed: haloperidol decanoate prescribing information, BluePoint Laboratories](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3d011250-a517-4c27-8ce3-d59d441ea61c)、版 2026-11-03、参照日 2026-11-19）。既知の情報によると、ハロペリドールはブチロフェノン系の神経遮断薬で、ドパミン D2 受容体を拮抗します。統合失調症や躁病など、ドパミン系の過活動が関わる精神疾患で有効性が確認されています。
 
 一方、糖鎖修飾（フコシル化）の異常を本態とする先天性グリコシル化異常症は、ドパミン D2 遮断との間に妥当な機序的関連が見当たりません。今回のデータでは、この予測を裏付ける試験や文献もありません。TxGNN のスコアは非常に高いものの、現時点ではモデル出力にとどまり、機序的な妥当性は確認できていません。
 
@@ -133,11 +133,12 @@ TxGNN モデルは**フコシル化欠損を伴う先天性グリコシル化異
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「承認整理済み」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: haloperidol decanoate prescribing information, BluePoint Laboratories](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3d011250-a517-4c27-8ce3-d59d441ea61c) |
 
 <!-- review:end log -->
 

@@ -55,7 +55,7 @@ TxGNN モデルは **focal stiff limb syndrome（局所性スティフ・リム�
 
 ## この予測が妥当である理由
 
-エンパグリフロジンは SGLT2 阻害薬で、腎臓でのグルコース再吸収を抑えて血糖を下げます。ただし、現在、詳細な作用機序データはありません。
+エンパグリフロジンは SGLT2 阻害薬で、腎臓でのグルコース再吸収を抑えて血糖を下げます。米国 FDA が承認した Empagliflozin の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「エンパグリフロジンは、糸球体ろ液から循環血中へのグルコース再吸収を担う主要なトランスポーターであるSGLT2の阻害薬である。SGLT2を阻害することにより、エンパグリフロジンはろ過されたグルコースの腎再吸収を減少させるとともにグルコースの腎閾値を低下させ、それにより尿中グルコース排泄を増加させる。」英語原文："Empagliflozin is an inhibitor of SGLT2, the predominant transporter responsible for reabsorption of glucose from the glomerular filtrate back into the circulation. By inhibiting SGLT2, empagliflozin reduces renal reabsorption of filtered glucose and lowers the renal threshold for glucose, and thereby increases urinary glucose excretion."（[DailyMed: Jardiance (empagliflozin) prescribing information, Boehringer Ingelheim Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=faf3dd6a-9cd0-39c2-0d2e-232cb3f67565)、版 2026-11-10、参照日 2026-11-19）。
 
 focal stiff limb syndrome は、スティフパーソン症候群の仲間に属する自己免疫関連の疾患です。糖尿病や SGLT2 阻害との間に、確立した機序上のつながりは見当たりません。既存適応症との類似性の評価も未実施です。この予測は TxGNN のスコアのみに基づいており、妥当性を裏付ける根拠は現時点でありません。
 
@@ -113,12 +113,13 @@ focal stiff limb syndrome は、スティフパーソン症候群の仲間に属
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-10-31 | 削除：「日本での承認は取消済みのみで」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-06 | 削除：「日本での承認状況（取消の経緯と現行の流通状況）の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Jardiance (empagliflozin) prescribing information, Boehringer Ingelheim Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=faf3dd6a-9cd0-39c2-0d2e-232cb3f67565) |
 
 <!-- review:end log -->
 

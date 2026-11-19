@@ -55,7 +55,7 @@ TxGNN モデルは**皮膚炎 (Dermatitis)** に有効である可能性を予�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データは本レポート用に集約されたデータにはありません。一般に知られている情報では、ウステキヌマブは IL-12 と IL-23 に共通する p40 サブユニットを阻害し、Th1 および Th17/Th22 経路の活性化を抑える抗体です。
+米国 FDA が承認した Ustekinumab の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「ウステキヌマブ製剤は、IL-12及びIL-23の両サイトカインに共通して用いられるp40タンパク質サブユニットに特異的に結合するヒトIgG1κモノクローナル抗体である。IL-12及びIL-23は天然に存在するサイトカインであり、ナチュラルキラー細胞の活性化並びにCD4+ T細胞の分化及び活性化などの炎症反応及び免疫応答に関与している。」英語原文："Ustekinumab products are human IgG1κ monoclonal antibodies that bind with specificity to the p40 protein subunit used by both the IL-12 and IL-23 cytokines. IL-12 and IL-23 are naturally occurring cytokines that are involved in inflammatory and immune responses, such as natural killer cell activation and CD4+ T-cell differentiation and activation."（[DailyMed: Selarsdi (ustekinumab-aekn) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=87f75b59-e48b-47c7-a4c0-5fe5965660e7)、版 2026-11-11、参照日 2026-11-19）。一般に知られている情報では、ウステキヌマブは IL-12 と IL-23 に共通する p40 サブユニットを阻害し、Th1 および Th17/Th22 経路の活性化を抑える抗体です。
 
 乾癬はこれらの経路が関与する炎症性皮膚疾患であり、一部の皮膚炎のサブタイプにも同じ経路が関わっています。そのため、皮膚炎への適用には機序的な根拠があります。
 
@@ -136,12 +136,13 @@ TxGNN モデルは**皮膚炎 (Dermatitis)** に有効である可能性を予�
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「日本での承認は 2 件とも取り消し済みで、警告・禁忌情報も不足しているため、安全性評価に進める状態ではありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-06 | 削除：「承認の取り消し理由と、代替販売名の有無」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Selarsdi (ustekinumab-aekn) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=87f75b59-e48b-47c7-a4c0-5fe5965660e7) |
 
 <!-- review:end log -->
 

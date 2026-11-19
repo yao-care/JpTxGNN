@@ -21,11 +21,12 @@
   "items_current": 1552
  },
  "reviews": {
-  "records": 295,
-  "pages": 171,
-  "public_pages_with_records": 170,
+  "records": 544,
+  "pages": 286,
+  "public_pages_with_records": 285,
   "by_action": {
-   "correct": 295
+   "correct": 295,
+   "mechanism": 249
   }
  },
  "fhir": {
@@ -48,7 +49,7 @@
    "l": "L5",
    "lt": 20,
    "lv": 20,
-   "r": 0,
+   "r": 1,
    "i": "尾骨過可動症"
   },
   {
@@ -84,7 +85,7 @@
    "l": "L5",
    "lt": 19,
    "lv": 19,
-   "r": 0,
+   "r": 1,
    "i": "アンブラス型先天性全身性多毛症"
   },
   {
@@ -102,7 +103,7 @@
    "l": "L5",
    "lt": 19,
    "lv": 18,
-   "r": 2,
+   "r": 3,
    "i": "Rasmussen 亜急性脳炎"
   }
  ],
@@ -125,7 +126,7 @@
    "l": "L4",
    "lt": 12,
    "lv": 9,
-   "r": 5,
+   "r": 6,
    "i": "alopecia mucinosa"
   },
   {
@@ -134,8 +135,26 @@
    "l": "L5",
    "lt": 12,
    "lv": 6,
-   "r": 4,
+   "r": 5,
    "i": "腎性不適切抗利尿症候群"
+  },
+  {
+   "t": "Bosentan",
+   "u": "/drugs/bosentan/",
+   "l": "L4",
+   "lt": 8,
+   "lv": 7,
+   "r": 5,
+   "i": "rheumatoid arthritis"
+  },
+  {
+   "t": "Bimatoprost",
+   "u": "/drugs/bimatoprost/",
+   "l": "L5",
+   "lt": 8,
+   "lv": 7,
+   "r": 4,
+   "i": "malformation syndrome with odontal and/or periodontal component"
   },
   {
    "t": "Biperiden",
@@ -147,31 +166,13 @@
    "i": "Rasmussen 亜急性脳炎"
   },
   {
-   "t": "Bosentan",
-   "u": "/drugs/bosentan/",
-   "l": "L4",
-   "lt": 8,
-   "lv": 7,
-   "r": 4,
-   "i": "rheumatoid arthritis"
-  },
-  {
-   "t": "Lorazepam",
-   "u": "/drugs/lorazepam/",
+   "t": "Bromperidol",
+   "u": "/drugs/bromperidol/",
    "l": "L5",
-   "lt": 7,
-   "lv": 4,
+   "lt": 9,
+   "lv": 9,
    "r": 4,
-   "i": "三叉神経腫瘍"
-  },
-  {
-   "t": "Bimatoprost",
-   "u": "/drugs/bimatoprost/",
-   "l": "L5",
-   "lt": 8,
-   "lv": 7,
-   "r": 3,
-   "i": "malformation syndrome with odontal and/or periodontal component"
+   "i": "insomnia (disease)"
   }
  ],
  "example": {
@@ -180,7 +181,7 @@
   "l": "L1",
   "lt": 8,
   "lv": 8,
-  "r": 0,
+  "r": 1,
   "i": "ユーイング肉腫"
  },
  "recent_reviews": [

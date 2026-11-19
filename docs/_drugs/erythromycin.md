@@ -55,7 +55,7 @@ TxGNN モデルは**点状表層角結膜炎 (Punctate Epithelial Keratoconjunct
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、エリスロマイシンはマクロライド系抗生物質で、細菌の 50S リボソームサブユニットに結合してタンパク質合成を阻害します。
+米国 FDA が承認した Erythromycin の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「エリスロマイシンは感受性菌の50Sリボソームサブユニットに結合してタンパク質合成を阻害することにより作用する。核酸合成には影響を及ぼさない。」英語原文："Erythromycin acts by inhibition of protein synthesis by binding 50S ribosomal subunits of susceptible organisms. It does not affect nucleic acid synthesis."（[DailyMed: Ery-Tab (erythromycin) prescribing information, Arbor Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fda44eb6-7901-4b80-ba0b-216f6cacf3fd)、版 2018-12-04、参照日 2026-11-19）。既知の情報によると、エリスロマイシンはマクロライド系抗生物質で、細菌の 50S リボソームサブユニットに結合してタンパク質合成を阻害します。
 
 予測された疾患は、小児の慢性眼瞼角結膜炎などブドウ球菌が関与する眼表面の炎症と関連します。エリスロマイシンには抗菌作用に加えて抗炎症作用があるとされ、こうした炎症の抑制に役立つ可能性があります。
 
@@ -109,18 +109,25 @@ TxGNN モデルは**点状表層角結膜炎 (Punctate Epithelial Keratoconjunct
 - 点状表層角結膜炎に対するエリスロマイシン（特に点眼・眼軟膏）の有効性を評価した臨床研究の調査
 - 眼科用剤形の入手可能性と投与経路の適合性の確認
 - QT延長リスクや主要な相互作用を含む患者集団別の安全性モニタリング計画の策定
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Ery-Tab (erythromycin) prescribing information, Arbor Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fda44eb6-7901-4b80-ba0b-216f6cacf3fd) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。
 臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-
-
-
-
 
 <!-- brand-names:start -->
 ## 日本での販売名

@@ -55,7 +55,7 @@ TxGNN モデルは**尾骨過可動症 (hypermobility of coccyx)** に有効で�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。ゴリムマブは TNF-α を阻害する抗体医薬として知られ、炎症性の関節疾患や腸疾患で使われる薬剤です。
+米国 FDA が承認した Golimumab の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「ゴリムマブは、ヒトTNFαの可溶型及び膜結合型の両方の生物活性型に結合するヒトモノクローナル抗体である。この相互作用によりTNFαのその受容体への結合が阻止され、それによってTNFα（サイトカインタンパク質）の生物学的活性が阻害される。」英語原文："Golimumab is a human monoclonal antibody that binds to both the soluble and transmembrane bioactive forms of human TNFα. This interaction prevents the binding of TNFα to its receptors, thereby inhibiting the biological activity of TNFα (a cytokine protein)."（[DailyMed: Simponi (golimumab) prescribing information, Janssen Biotech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f86cb4a7-c358-4136-ae57-b32bda9bba00)、版 2026-11-02、参照日 2026-11-19）。ゴリムマブは TNF-α を阻害する抗体医薬として知られ、炎症性の関節疾患や腸疾患で使われる薬剤です。
 
 一方、尾骨過可動症は主に力学的・外傷性の病態であり、TNF-α 阻害との明確な機序的関連は確認されていません。この予測を支持する根拠は、現時点では TxGNN の予測のみです。既存薬との類似性評価も未実施です。
 
@@ -87,6 +87,19 @@ TxGNN モデルは**尾骨過可動症 (hypermobility of coccyx)** に有効で�
 - 詳細な作用機序データ（MOA）の補充
 - 尾骨過可動症における TNF-α の関与を示す前臨床・機序研究
 - 投与経路の適合性評価と、既存適応症との類似性評価
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Simponi (golimumab) prescribing information, Janssen Biotech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f86cb4a7-c358-4136-ae57-b32bda9bba00) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

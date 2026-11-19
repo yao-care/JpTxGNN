@@ -60,7 +60,7 @@ TxGNN モデルは**点状表層角結膜炎 (punctate epithelial keratoconjunct
 
 ## この予測が妥当である理由
 
-詳細な作用機序データは、現在ありません。既知の情報によると、リドカインはナトリウムチャネル遮断薬に分類され、局所麻酔と抗不整脈の用途で有効性が確立しています。
+米国 FDA が承認した Lidocaine の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「リドカイン塩酸塩は、拡張期における心室の電気刺激閾値を上昇させることにより抗不整脈作用を発揮する。通常の治療用量では、リドカイン塩酸塩は心筋収縮力、体動脈圧又は絶対不応期に変化をもたらさない。」英語原文："Lidocaine hydrochloride exerts an antiarrhythmic effect by increasing the electrical stimulation threshold of the ventricle during diastole. In usual therapeutic doses, lidocaine hydrochloride produces no change in myocardial contractility, in systemic arterial pressure, or in absolute refractory period."（[DailyMed: Lidocaine Hydrochloride And Dextrose (lidocaine hydrochloride) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f21512ea-c7c3-4766-b976-b2c0b5616bf0)、版 2026-02-20、参照日 2026-11-19）。既知の情報によると、リドカインはナトリウムチャネル遮断薬に分類され、局所麻酔と抗不整脈の用途で有効性が確立しています。
 
 点状表層角結膜炎に対しては、電位依存性ナトリウムチャネルの遮断により、角膜・結膜の痛覚神経の信号伝達が弱まる可能性があります。ただしこれは症状の緩和にとどまり、病態そのものを改善する根拠はありません。この疾患に関する臨床試験も文献もなく、支持材料は TxGNN の予測だけです。
 
@@ -143,6 +143,19 @@ TxGNN モデルは**点状表層角結膜炎 (punctate epithelial keratoconjunct
 - 添付文書にもとづく警告・禁忌の確認
 - 眼科用剤形（点眼など）と投与経路の適合性評価
 - 眼表面への繰り返し投与における安全性評価
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Lidocaine Hydrochloride And Dextrose (lidocaine hydrochloride) prescribing information, Baxter Healthcare Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f21512ea-c7c3-4766-b976-b2c0b5616bf0) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

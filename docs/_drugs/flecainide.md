@@ -56,7 +56,7 @@ TxGNN モデルは**脳卒中 (stroke disorder)** に有効である可能性を
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、フレカイニドはクラス 1C のナトリウムチャネル遮断薬で、心房細動における洞調律の維持に用いられます。
+米国 FDA が承認した Flecainide の添付文書（Prescribing Information）の「Clinical Pharmacology」の項によると（非公式訳）、「フレカイニドは局所麻酔作用を有し、膜安定化作用を有する（クラス1）抗不整脈薬群に属する。フレカイニドはIC群抗不整脈薬に特徴的な電気生理学的作用を有する。電気生理学 ヒトにおいて、フレカイニドは心臓のすべての部位において用量依存的な心内伝導の低下をもたらし、その作用はヒス-プルキンエ系（H-V伝導）で最も大きい。」英語原文："Flecainide has local anesthetic activity and belongs to the membrane stabilizing (Class 1) group of antiarrhythmic agents; it has electrophysiologic effects characteristic of the IC class of antiarrhythmics. Electrophysiology In man, flecainide produces a dose-related decrease in intracardiac conduction in all parts of the heart with the greatest effect on the His-Purkinje system (H-V conduction)."（[DailyMed: flecainide acetate prescribing information, Amneal Pharmaceuticals of New York LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ee9595d5-08a1-4529-9215-ddc3c7f929c4)、版 2026-06-11、参照日 2026-11-19）。既知の情報によると、フレカイニドはクラス 1C のナトリウムチャネル遮断薬で、心房細動における洞調律の維持に用いられます。
 
 心房細動は心原性塞栓による脳卒中の主要な危険因子です。そのため、リズムコントロールを通じて脳卒中リスクが間接的に下がる可能性は考えられます。ただし、フレカイニドに直接的な神経保護作用や脳卒中治療の機序はありません。
 
@@ -115,18 +115,24 @@ TxGNN モデルは**脳卒中 (stroke disorder)** に有効である可能性を
 - 添付文書に基づく警告・禁忌の整理
 - 対象集団の安全性評価（構造的心疾患、虚血性心疾患、腎・肝機能障害）
 
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: flecainide acetate prescribing information, Amneal Pharmaceuticals of New York LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ee9595d5-08a1-4529-9215-ddc3c7f929c4) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。
 臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-
-
-
-
 
 <!-- brand-names:start -->
 ## 日本での販売名

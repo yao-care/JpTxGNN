@@ -56,7 +56,7 @@ TxGNN モデルは**心因性運動障害 (Psychogenic Movement Disorders)** に
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、ガランタミンはアセチルコリンエステラーゼ阻害薬であり、ニコチン性受容体の正のアロステリックモジュレーターでもあります。認知症での有効性が確認されており、コリン作動性の調節を介して運動回路に作用する可能性があります。
+米国 FDA が承認した Galantamine の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「アルツハイマー病（AD）における認知機能障害の病因は完全には解明されていないが、アルツハイマー病患者の脳ではアセチルコリン産生ニューロンが変性することが報告されている。このコリン作動性神経の脱落の程度は、認知機能障害の程度及びアミロイド斑（アルツハイマー病の神経病理学的特徴）の密度と相関することが示されている。[…] 3級アルカロイドであるガランタミンは、アセチルコリンエステラーゼの競合的かつ可逆的な阻害薬である。」英語原文："Although the etiology of cognitive impairment in Alzheimer’s disease (AD) is not fully understood, it has been reported that acetylcholine-producing neurons degenerate in the brains of patients with Alzheimer’s disease. The degree of this cholinergic loss has been correlated with degree of cognitive impairment and density of amyloid plaques (a neuropathological hallmark of Alzheimer’s disease). […] Galantamine, a tertiary alkaloid, is a competitive and reversible inhibitor of acetylcholinesterase."（[DailyMed: galantamine prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=261889d3-41c8-4655-98f7-41317778e7a1)、版 2026-07-02、参照日 2026-11-19）。既知の情報によると、ガランタミンはアセチルコリンエステラーゼ阻害薬であり、ニコチン性受容体の正のアロステリックモジュレーターでもあります。認知症での有効性が確認されており、コリン作動性の調節を介して運動回路に作用する可能性があります。
 
 心因性運動障害への関連は、コリン作動性による運動回路の調節という推測の域を出ません。認知症と機能性運動障害は病態が大きく異なり、予測の根拠は TxGNN のネットワーク予測のみです。
 
@@ -146,11 +146,12 @@ TxGNN モデルは**心因性運動障害 (Psychogenic Movement Disorders)** に
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「現在有効な承認はなく、20 件すべてが取消済みです」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: galantamine prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=261889d3-41c8-4655-98f7-41317778e7a1) |
 
 <!-- review:end log -->
 

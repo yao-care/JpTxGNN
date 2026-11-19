@@ -56,7 +56,7 @@ TxGNN モデルは**変異プロテアーゼ感受性プリオノパチー (Vari
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、ドロキシドパは芳香族 L-アミノ酸脱炭酸酵素によってノルアドレナリンに変換されるプロドラッグで、神経原性起立性低血圧や自律神経障害の治療に用いられてきました。
+米国 FDA が承認した Droxidopa の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「神経原性起立性低血圧の治療におけるNORTHERAの正確な作用機序は不明である。NORTHERAは合成アミノ酸類似体であり、全身に広く分布するドパ脱炭酸酵素によって直接ノルエピネフリンに代謝される。」英語原文："The exact mechanism of action of NORTHERA in the treatment of neurogenic orthostatic hypotension is unknown. NORTHERA is a synthetic amino acid analog that is directly metabolized to norepinephrine by dopa­-decarboxylase, which is extensively distributed throughout the body."（[DailyMed: Northera (droxidopa) prescribing information, Lundbeck Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2179f02c-48d7-48eb-8007-5ae43d8d16bc)、版 2019-07-01、参照日 2026-11-19）。既知の情報によると、ドロキシドパは芳香族 L-アミノ酸脱炭酸酵素によってノルアドレナリンに変換されるプロドラッグで、神経原性起立性低血圧や自律神経障害の治療に用いられてきました。
 
 変異プロテアーゼ感受性プリオノパチーは、稀で致死的な神経変性プリオン病です。ノルアドレナリン補充という機序と、この疾患の病態との間に、確立した機序的なつながりはありません。関連があるとしても、自律神経症状に対する対症的な支持にとどまります。
 
@@ -117,13 +117,14 @@ TxGNN のスコアは高いものの、この予測を支持する臨床試験�
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「現在は国内で市販されておらず、警告・禁忌の情報も不足しているため、現時点で進めるのは適切ではありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-12 | 削除：「市販が整理済みである点を踏まえた、供給・剤形面の実現可能性の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Northera (droxidopa) prescribing information, Lundbeck Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2179f02c-48d7-48eb-8007-5ae43d8d16bc) |
 
 <!-- review:end log -->
 

@@ -55,7 +55,7 @@ TxGNN モデルは **colobomatous microphthalmia-rhizomelic dysplasia syndrome�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、ウパダシチニブは選択的 JAK1 阻害薬であり、関節リウマチでの有効性が知られています。
+米国 FDA が承認した Upadacitinib の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「ウパダシチニブはヤヌスキナーゼ(JAK)阻害剤である。JAKは細胞内酵素であり、細胞膜上のサイトカイン又は増殖因子と受容体との相互作用から生じるシグナルを伝達し、造血及び免疫細胞機能の細胞内過程に影響を及ぼす。」英語原文："Upadacitinib is a Janus kinase (JAK) inhibitor. JAKs are intracellular enzymes which transmit signals arising from cytokine or growth factor-receptor interactions on the cellular membrane to influence cellular processes of hematopoiesis and immune cell function."（[DailyMed: Rinvoq (upadacitinib) prescribing information, AbbVie Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2966aec7-2ef0-923c-d8ff-fe1a957bf095)、版 2026-06-30、参照日 2026-11-19）。既知の情報によると、ウパダシチニブは選択的 JAK1 阻害薬であり、関節リウマチでの有効性が知られています。
 
 一方で、予測された新規適応症は、眼のコロボーマ、小眼球症、根幹部の骨格異形成を特徴とするまれな発生異常症候群です。今回まとめたデータの範囲では、JAK-STAT シグナルとこの疾患を結ぶ妥当な機序的関連は確認できません。高い予測スコアはモデル計算による予測にすぎず、機序的な裏付けは現時点で不十分です。
 
@@ -102,11 +102,12 @@ TxGNN モデルは **colobomatous microphthalmia-rhizomelic dysplasia syndrome�
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「日本での承認取り消しの経緯と現在の供給状況の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Rinvoq (upadacitinib) prescribing information, AbbVie Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2966aec7-2ef0-923c-d8ff-fe1a957bf095) |
 
 <!-- review:end log -->
 

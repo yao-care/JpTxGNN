@@ -56,7 +56,7 @@ TxGNN モデルは**点状表層角結膜炎 (punctate epithelial keratoconjunct
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。ただし、レボフロキサシンは細菌の DNA ジャイレースとトポイソメラーゼ IV を阻害する抗菌薬です。日本では点眼剤を含む複数の剤形が市販されており、眼科領域での使用実績があります。この点が、眼表面の疾患にも適用できるのではないかというモデル予測の背景と考えられます。
+米国 FDA が承認した Levofloxacin の添付文書（Prescribing Information）の「Mechanism of Action」および「Microbiology」の項によると（非公式訳）、「レボフロキサシンはフルオロキノロン系抗菌薬の一つである。[…] レボフロキサシンは、キノロン系抗菌薬であるラセミ体オフロキサシンのL-異性体である。オフロキサシンの抗菌活性は主にL-異性体に存在する。レボフロキサシン及び他のフルオロキノロン系抗菌薬の作用機序には、DNAの複製、転写、修復及び組換えに必要な酵素である細菌のトポイソメラーゼIV及びDNAジャイレース（いずれもII型トポイソメラーゼ）の阻害が関与している。」英語原文："Levofloxacin is a member of the fluoroquinolone class of antibacterial agents. […] Levofloxacin is the L-isomer of the racemate, ofloxacin, a quinolone antimicrobial agent. The antibacterial activity of ofloxacin resides primarily in the L-isomer. The mechanism of action of levofloxacin and other fluoroquinolone antimicrobials involves inhibition of bacterial topoisomerase IV and DNA gyrase (both of which are type II topoisomerases), enzymes required for DNA replication, transcription, repair and recombination."（[DailyMed: levofloxacin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=814450ae-439e-4a5d-8c60-9b21b6f14be5)、版 2026-11-05、参照日 2026-11-19）。ただし、レボフロキサシンは細菌の DNA ジャイレースとトポイソメラーゼ IV を阻害する抗菌薬です。日本では点眼剤を含む複数の剤形が市販されており、眼科領域での使用実績があります。この点が、眼表面の疾患にも適用できるのではないかというモデル予測の背景と考えられます。
 
 一方で、関連づけられた唯一の報告はマイクロスポリジウム（真核生物）による角結膜炎です。この病原体は、レボフロキサシンの標的である細菌酵素を持ちません。したがって、機序面での裏付けは弱いと判断します。点状表層角結膜炎は、ウイルス、微生物、眼表面の障害など原因が多様です。細菌性の病態に限って、抗菌作用が意味を持つ可能性があります。
 
@@ -103,18 +103,24 @@ TxGNN モデルは**点状表層角結膜炎 (punctate epithelial keratoconjunct
 - 詳細な作用機序データ（MOA）の補充
 - 添付文書の警告・禁忌の確認（安全性スクリーニング用）
 
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: levofloxacin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=814450ae-439e-4a5d-8c60-9b21b6f14be5) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。
 臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-
-
-
-
 
 <!-- brand-names:start -->
 ## 日本での販売名

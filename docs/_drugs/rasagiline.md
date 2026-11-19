@@ -56,7 +56,7 @@ TxGNN モデルは **PLA2G6 関連神経変性症 (PLA2G6-associated neurodegene
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、ラサギリンは MAO-B 阻害薬として、脳内ドパミンの分解を抑えてドパミン利用率を高め、パーキンソン病に使用されてきました。神経保護作用も提唱されています。
+米国 FDA が承認した Rasagiline の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「AZILECTは、特発性パーキンソン病の治療に適応を有する選択的かつ不可逆的なMAO-B阻害薬である。推奨用量のAZILECT投与中に、漸増用量のチラミンと併用した際の血圧に対するAZILECTの影響を検討するために計画された臨床試験の結果から、健康被験者が推奨用量のAZILECTを投与されている間に大量のチラミンを摂取した場合、機能的選択性が不完全となる可能性が示されている。[…] 脳、肝臓及び腸管組織を用いたex vivo動物試験において、ラサギリンは強力かつ不可逆的なモノアミン酸化酵素B型(MAO-B)選択的阻害薬であることが示された。」英語原文："AZILECT is a selective, irreversible MAO-B inhibitor indicated for the treatment of idiopathic Parkinson’s disease. The results of a clinical trial designed to examine the effects of AZILECT on blood pressure when it is administered with increasing doses of tyramine indicates the functional selectivity can be incomplete when healthy subjects ingest large amounts of tyramine while receiving recommended doses of AZILECT. […] In ex vivo animal studies in brain, liver, and intestinal tissues, rasagiline was shown to be a potent, irreversible monoamine oxidase type B (MAO-B) selective inhibitor."（[DailyMed: Azilect (rasagiline mesylate) prescribing information, Teva Neuroscience, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a40d0e73-3f9f-4b01-979d-402c9cdaeb60)、版 2020-06-30、参照日 2026-11-19）。既知の情報によると、ラサギリンは MAO-B 阻害薬として、脳内ドパミンの分解を抑えてドパミン利用率を高め、パーキンソン病に使用されてきました。神経保護作用も提唱されています。
 
 PLA2G6 関連神経変性症にはパーキンソニズム（PARK14）を呈する病型があります。そのため、パーキンソン病との症候の重なりが、予測の背景にあると考えられます。
 
@@ -119,12 +119,13 @@ PLA2G6 関連神経変性症にはパーキンソニズム（PARK14）を呈す�
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「日本の承認も取消済みで、作用機序データと添付文書の安全性情報も不足しています」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-06 | 削除：「日本での承認取消の経緯の確認と、投与経路の適合性評価」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Azilect (rasagiline mesylate) prescribing information, Teva Neuroscience, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a40d0e73-3f9f-4b01-979d-402c9cdaeb60) |
 
 <!-- review:end log -->
 

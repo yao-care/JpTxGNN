@@ -55,7 +55,7 @@ TxGNN モデルは**高アミラーゼ血症 (Hyperamylasemia)** に有効であ
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、アジスロマイシンは細菌の 50S リボソームサブユニットに作用してタンパク質合成を阻害するマクロライド系抗生物質です。歯周組織炎や結膜炎などの細菌感染症での有効性が確立されています。
+米国 FDA が承認した Azithromycin の添付文書（Prescribing Information）の「Mechanism of Action」および「Microbiology」の項によると（非公式訳）、「アジスロマイシンはマクロライド系抗菌薬である。[…] アジスロマイシンは、感受性微生物の50Sリボソームサブユニットの23S rRNAに結合して細菌のタンパク質合成を阻害し、50Sリボソームサブユニットの組み立てを妨げることにより作用する。」英語原文："Azithromycin is a macrolide antibacterial drug. […] Azithromycin acts by binding to the 23S rRNA of the 50S ribosomal subunit of susceptible microorganisms inhibiting bacterial protein synthesis and impeding the assembly of the 50S ribosomal subunit."（[DailyMed: Zithromax (azithromycin dihydrate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d24bacb-feff-4c6a-b8df-625e1435387a)、版 2026-09-09、参照日 2026-11-19）。既知の情報によると、アジスロマイシンは細菌の 50S リボソームサブユニットに作用してタンパク質合成を阻害するマクロライド系抗生物質です。歯周組織炎や結膜炎などの細菌感染症での有効性が確立されています。
 
 一方、高アミラーゼ血症は血清アミラーゼが上昇する状態で、膵臓や唾液腺の障害などに伴って起こります。タンパク質合成阻害という作用との間に、確立した機序的な関連は見つかっていません。今回の予測は、TxGNN モデル（深層学習）による計算上のものにとどまります。
 
@@ -113,11 +113,12 @@ TxGNN モデルは**高アミラーゼ血症 (Hyperamylasemia)** に有効であ
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「日本での承認状況（失効扱いの理由、現在の流通状況）の再確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Zithromax (azithromycin dihydrate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d24bacb-feff-4c6a-b8df-625e1435387a) |
 
 <!-- review:end log -->
 

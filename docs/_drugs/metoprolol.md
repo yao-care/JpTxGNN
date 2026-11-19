@@ -55,7 +55,7 @@ TxGNN モデルは**悪性高血圧性腎疾患 (malignant hypertensive renal di
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、メトプロロールはβ1選択的遮断薬で、心拍数と交感神経活動を抑えて血圧を下げ、レニン分泌も抑制します。
+米国 FDA が承認した Metoprolol の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「メトプロロールはβ 1選択性（心臓選択性）のアドレナリン受容体遮断薬である。ただし、この選択的作用は絶対的なものではなく、高い血漿中濃度では、メトプロロールは主に気管支及び血管の筋組織に存在するβ 2アドレナリン受容体も阻害する。」英語原文："Metoprolol is a beta 1 -selective (cardioselective) adrenergic receptor blocking agent. This preferential effect is not absolute, however, and at higher plasma concentrations, metoprolol also inhibits beta 2 -adrenoreceptors, chiefly located in the bronchial and vascular musculature."（[DailyMed: Toprol Xl (metoprolol succinate) prescribing information, Melinta Therapeutics, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=496ddfaa-7c9c-4888-b747-a210249b367a)、版 2026-03-03、参照日 2026-11-19）。既知の情報によると、メトプロロールはβ1選択的遮断薬で、心拍数と交感神経活動を抑えて血圧を下げ、レニン分泌も抑制します。
 
 腎障害を伴う重症高血圧では血圧とレニン-アンジオテンシン系の制御が重要であり、機序的には適用可能である可能性があります。ただし、これは機序からの推測にとどまり、この疾患での有効性を示す研究は提示されていません。また、悪性高血圧では静注薬を含む迅速な降圧が必要になることが多く、経口β遮断薬の位置づけは不明です。
 
@@ -108,11 +108,12 @@ TxGNN モデルは**悪性高血圧性腎疾患 (malignant hypertensive renal di
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Toprol Xl (metoprolol succinate) prescribing information, Melinta Therapeutics, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=496ddfaa-7c9c-4888-b747-a210249b367a) |
 
 <!-- review:end log -->
 

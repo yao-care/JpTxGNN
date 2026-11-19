@@ -56,7 +56,7 @@ TxGNN モデルは**直腸粘液腺癌 (rectum mucinous adenocarcinoma)** に有
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。一般に、カルボプラチンは白金系薬剤として DNA 鎖間・鎖内に架橋を作り、細胞の複製を妨げてアポトーシスを誘導します。この細胞傷害作用は、増殖の速い腺癌であれば原理的に働きうると考えられます。
+米国 FDA が承認した Carboplatin の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「カルボプラチンは白金系薬剤であり、DNAに結合してDNA架橋を形成する。これらの架橋はDNAの複製及び転写を阻害し、細胞死に至る細胞傷害過程を誘発する。」英語原文："Carboplatin is a platinum-based drug that binds to DNA and forms DNA cross-links. These crosslinks inhibit DNA replication and transcription and trigger cytotoxic processes that lead to cell death."（[DailyMed: Kyxata (carboplatin) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f91c48da-68d1-4aa7-89b8-d84a3e8b629b)、版 2026-11-09、参照日 2026-11-19）。一般に、カルボプラチンは白金系薬剤として DNA 鎖間・鎖内に架橋を作り、細胞の複製を妨げてアポトーシスを誘導します。この細胞傷害作用は、増殖の速い腺癌であれば原理的に働きうると考えられます。
 
 一方で、粘液性の組織型は一般に化学療法への感受性が低いとされています。そのため、機序上は成り立つとしても、実際の効果は未確認です。直腸粘液腺癌でのカルボプラチンの有効性を示す臨床データは、今回のデータにはありません。
 
@@ -109,6 +109,19 @@ TxGNN モデルは**直腸粘液腺癌 (rectum mucinous adenocarcinoma)** に有
 - 添付文書の警告・禁忌の確認（今回のデータでは未取得）
 - 詳細な作用機序データの整備
 - 既存の標準治療に対する位置づけの検討と、対象集団の安全性モニタリング計画の策定
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Kyxata (carboplatin) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f91c48da-68d1-4aa7-89b8-d84a3e8b629b) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

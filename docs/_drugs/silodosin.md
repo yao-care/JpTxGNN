@@ -56,7 +56,7 @@ TxGNN モデルは **Ambras 型先天性汎発性多毛症 (Ambras type hypertri
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、シロドシンはα1A アドレナリン受容体を選択的に遮断する薬剤で、排尿障害の改善に用いられてきました。
+米国 FDA が承認した Silodosin の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「シロドシンは、ヒトの前立腺、膀胱底部、膀胱頸部、前立腺被膜及び前立腺部尿道に存在するシナプス後α-1アドレナリン受容体の選択的拮抗薬である。これらのα-1アドレナリン受容体を遮断することにより、これらの組織の平滑筋が弛緩し、その結果、尿流が改善し、BPH症状が軽減する。」英語原文："Silodosin is a selective antagonist of post-synaptic alpha-1 adrenoreceptors, which are located in the human prostate, bladder base, bladder neck, prostatic capsule, and prostatic urethra. Blockade of these alpha-1 adrenoreceptors can cause smooth muscle in these tissues to relax, resulting in an improvement in urine flow and a reduction in BPH symptoms."（[DailyMed: silodosin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=94bca72c-c74a-4181-8b6a-a0a2f654a0a7)、版 2026-10-30、参照日 2026-11-19）。既知の情報によると、シロドシンはα1A アドレナリン受容体を選択的に遮断する薬剤で、排尿障害の改善に用いられてきました。
 
 一方、予測された多毛症について、α1A 遮断と毛包の調節を結びつける確立した機序はありません。多毛症はむしろ血管拡張薬の副作用として知られており、α遮断薬の作用とは異なります。今回の予測は、ネットワーク上の関連性に基づく計算上のものと考えられ、機序面での裏付けは現時点で確認できません。
 
@@ -115,11 +115,12 @@ TxGNN モデルは **Ambras 型先天性汎発性多毛症 (Ambras type hypertri
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「販売承認が取消済みである点を踏まえた、供給・開発の見通しの確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: silodosin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=94bca72c-c74a-4181-8b6a-a0a2f654a0a7) |
 
 <!-- review:end log -->
 

@@ -55,7 +55,7 @@ TxGNN モデルの予測順位 1 位は**腱炎 (Tendinitis)** ですが、実�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。ただし確立された薬理学によると、プレガバリンは電位依存性カルシウムチャネルの α2δ サブユニットに結合し、グルタミン酸、サブスタンス P、CGRP などの興奮性伝達物質の放出を抑えます。この作用が神経障害性疼痛と線維筋痛症での効果の基盤です。
+米国 FDA が承認した Pregabalin の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「プレガバリンは中枢神経系組織においてα 2 -δ部位（電位依存性カルシウムチャネルの補助サブユニット）に高い親和性で結合する。プレガバリンの作用機序は完全には解明されていないが、遺伝子改変マウス及びプレガバリンと構造的に関連する化合物（ガバペンチン等）を用いた結果から、α 2 -δサブユニットへの結合が動物におけるプレガバリンの抗侵害受容作用及び抗痙攣作用に関与している可能性が示唆されている。」英語原文："Pregabalin binds with high affinity to the alpha 2 ‑delta site (an auxiliary subunit of voltage‑gated calcium channels) in central nervous system tissues. Although the mechanism of action of pregabalin has not been fully elucidated, results with genetically modified mice and with compounds structurally related to pregabalin (such as gabapentin) suggest that binding to the alpha 2 ‑delta subunit may be involved in pregabalin’s anti‑nociceptive and antiseizure effects in animals."（[DailyMed: Lyrica Cr (pregabalin) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f280bbd8-2af2-444a-bd96-e409337ca6dd)、版 2026-03-12、参照日 2026-11-19）。ただし確立された薬理学によると、プレガバリンは電位依存性カルシウムチャネルの α2δ サブユニットに結合し、グルタミン酸、サブスタンス P、CGRP などの興奮性伝達物質の放出を抑えます。この作用が神経障害性疼痛と線維筋痛症での効果の基盤です。
 
 腱炎については、腱手術後の周術期疼痛でのデータがあるだけで、腱炎そのものを対象にした研究はありません。
 
@@ -133,18 +133,25 @@ TxGNN モデルの予測順位 1 位は**腱炎 (Tendinitis)** ですが、実�
 - DrugBank からの作用機序データの補完
 - 腱炎そのものを対象とした臨床試験または観察研究の有無の確認
 - 中枢神経抑制（オピオイド併用）、依存・乱用、腎機能低下例での用量調整に関する安全性モニタリング計画
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Lyrica Cr (pregabalin) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f280bbd8-2af2-444a-bd96-e409337ca6dd) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。
 臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-
-
-
-
 
 <!-- brand-names:start -->
 ## 日本での販売名

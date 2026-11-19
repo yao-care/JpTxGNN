@@ -56,7 +56,7 @@ TxGNN モデルは**喉頭炎 (Laryngitis)** に有効である可能性を予�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。一般的には、アンピシリンはペニシリン結合タンパク質に結合して細菌の細胞壁（ペプチドグリカン）合成を阻害します。この点は、今回の評価で参照した機序の整理とも一致します。
+米国 FDA が承認した Ampicillin の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「アンピシリンは、活発な増殖期にある感受性菌に対してペニシリンと同様の殺菌作用を示す。細胞壁生合成を阻害することにより作用し、細菌を死滅させる。」英語原文："Ampicillin is similar to penicillin in its bactericidal action against susceptible bacteria during the stage of active multiplication. It acts through the inhibition of cell wall biosynthesis that leads to the death of the bacteria."（[DailyMed: ampicillin prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4134cd79-c895-4e6e-b1d5-8e01c38bf2d1)、版 2026-07-27、参照日 2026-11-19）。一般的には、アンピシリンはペニシリン結合タンパク質に結合して細菌の細胞壁（ペプチドグリカン）合成を阻害します。この点は、今回の評価で参照した機序の整理とも一致します。
 
 喉頭炎の大半はウイルス性で、抗菌薬の適応にはなりません。一方、急性喉頭蓋炎や喉頭膿瘍など、細菌が原因となる喉頭・声門上部の感染症では、アンピシリンが使われてきた経緯があります。そのため、機序的には細菌性の病態に限って適用できる可能性があります。ただし、支持する文献は間接的です。
 
@@ -126,18 +126,24 @@ TxGNN モデルは**喉頭炎 (Laryngitis)** に有効である可能性を予�
 | 結膜炎 | 0.9904 | L4 | Hold | 病原体・感受性の調査が中心です |
 | 歯冠周囲炎 | 0.9904 | L4 | Research Question | 小規模な臨床評価による間接的な裏付けです |
 
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: ampicillin prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4134cd79-c895-4e6e-b1d5-8e01c38bf2d1) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。
 臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-
-
-
-
 
 <!-- brand-names:start -->
 ## 日本での販売名

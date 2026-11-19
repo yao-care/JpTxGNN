@@ -56,7 +56,7 @@ TxGNN モデルは**慢性肉芽腫症、常染色体劣性 (granulomatous disea
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、シクロスポリンはカルシニューリン阻害薬で、T 細胞の活性化を抑制します。
+米国 FDA が承認した Cyclosporine の添付文書（Prescribing Information）の「Clinical Pharmacology」の項によると（非公式訳）、「シクロスポリンは強力な免疫抑制薬であり、動物において皮膚、腎臓、肝臓、心臓、膵臓、骨髄、小腸および肺の同種移植片の生着期間を延長する。シクロスポリンは、多くの動物種において様々な臓器について、一部の体液性免疫を抑制し、さらにそれ以上に、同種移植片拒絶反応、遅延型過敏症、実験的アレルギー性脳脊髄炎、フロイントアジュバント関節炎および移植片対宿主病などの細胞性免疫反応を抑制することが示されている。」英語原文："Cyclosporine is a potent immunosuppressive agent that in animals prolongs survival of allogeneic transplants involving skin, kidney, liver, heart, pancreas, bone marrow, small intestine, and lung. Cyclosporine has been demonstrated to suppress some humoral immunity and to a greater extent, cell-mediated immune reactions such as allograft rejection, delayed hypersensitivity, experimental allergic encephalomyelitis, Freund’s adjuvant arthritis, and graft versus host disease in many animal species for a variety of organs."（[DailyMed: Cyclosporine, Modfied (cyclosporine) prescribing information, Apotex Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5baaf78c-90f6-abcf-52c8-814490f3cf9f)、版 2026-09-10、参照日 2026-11-19）。既知の情報によると、シクロスポリンはカルシニューリン阻害薬で、T 細胞の活性化を抑制します。
 
 慢性肉芽腫症は食細胞の機能不全を本態とする疾患です。シクロスポリンがこの基礎的欠陥を治療する根拠は示されていません。関連が考えられるのは造血幹細胞移植の場面で、移植片対宿主病（GVHD）の予防に用いられる可能性があるという点に限られます。つまり、疾患そのものへの効果というより、移植を支える補助的な役割と考えられます。
 
@@ -102,6 +102,19 @@ TxGNN モデルは**慢性肉芽腫症、常染色体劣性 (granulomatous disea
 - 詳細な作用機序データ（MOA）
 - 添付文書に基づく警告・禁忌情報の確認
 - 承認適応症を含む国内承認情報の補完
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Cyclosporine, Modfied (cyclosporine) prescribing information, Apotex Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5baaf78c-90f6-abcf-52c8-814490f3cf9f) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

@@ -56,7 +56,7 @@ TxGNN モデルは**隆起性皮膚線維肉腫 (Dermatofibrosarcoma protuberans
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。ただし、ニロチニブは BCR-ABL に加えて PDGFR や KIT も阻害するチロシンキナーゼ阻害薬として知られており、慢性骨髄性白血病での有効性が確認されています。
+米国 FDA が承認した Nilotinib の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「ニロチニブはBCR-ABLキナーゼの阻害剤である。ニロチニブはABLタンパク質のキナーゼドメインの不活性型コンホメーションに結合し、これを安定化させる。in vitroにおいて、ニロチニブはマウス白血病細胞株及びPh+ CML患者由来のヒト細胞株のBCR-ABLを介した増殖を阻害した。」英語原文："Nilotinib is an inhibitor of the BCR-ABL kinase. Nilotinib binds to and stabilizes the inactive conformation of the kinase domain of ABL protein. In vitro, nilotinib inhibited BCR-ABL mediated proliferation of murine leukemic cell lines and human cell lines derived from patients with Ph+ CML."（[DailyMed: Cavhanza (nilotinib) prescribing information, Cycle Pharmaceuticals Ltd](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98b197ea-bca4-427e-8737-97f70a3262bc)、版 2026-07-20、参照日 2026-11-19）。ただし、ニロチニブは BCR-ABL に加えて PDGFR や KIT も阻害するチロシンキナーゼ阻害薬として知られており、慢性骨髄性白血病での有効性が確認されています。
 
 隆起性皮膚線維肉腫は、COL1A1-PDGFB 融合遺伝子により PDGFR-β が恒常的に活性化されることで発生します。ニロチニブが PDGFR を阻害するのであれば、この異常なシグナル伝達を遮断できる可能性があります。この考え方は、今回収集された PDGFR 阻害薬に関する総説（Roskoski, 2018）の内容とも一致します。
 
@@ -127,12 +127,13 @@ TxGNN の予測スコアは高いものの、裏付けは PDGFR 阻害薬に関�
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「また、日本での承認は取り消されており、添付文書ベースの安全性情報も確認できていません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-06 | 削除：「日本での承認取り消しの経緯の確認と、再導入の可能性の検討」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Cavhanza (nilotinib) prescribing information, Cycle Pharmaceuticals Ltd](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98b197ea-bca4-427e-8737-97f70a3262bc) |
 
 <!-- review:end log -->
 

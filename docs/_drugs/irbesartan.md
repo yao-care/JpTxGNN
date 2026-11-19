@@ -55,7 +55,7 @@ TxGNN モデルは **悪性高血圧性腎疾患 (malignant hypertensive renal d
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データは、今回まとめたデータにはありません。イルベサルタンはアンジオテンシンII受容体拮抗薬のクラスに属し、AT1 受容体を遮断します。
+米国 FDA が承認した Irbesartan の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「アンジオテンシンIIは、アンジオテンシン変換酵素（ACE、キニナーゼII）が触媒する反応によりアンジオテンシンIから生成される強力な血管収縮物質である。アンジオテンシンIIはレニン-アンジオテンシン系の主要な血管作動性ホルモンであり、高血圧の病態生理における重要な構成要素である。[…] イルベサルタンは、多くの組織（例えば血管平滑筋、副腎）に存在するAT 1アンジオテンシンII受容体に選択的に結合することにより、アンジオテンシンIIの血管収縮作用及びアルドステロン分泌作用を阻害する。」英語原文："Angiotensin II is a potent vasoconstrictor formed from angiotensin I in a reaction catalyzed by angiotensin-converting enzyme (ACE, kininase II). Angiotensin II is the primary vasoactive hormone of the renin-angiotensin system, and an important component in the pathophysiology of hypertension. […] Irbesartan blocks the vasoconstrictor and aldosterone-secreting effects of angiotensin II by selectively binding to the AT 1 angiotensin II receptor found in many tissues (e.g., vascular smooth muscle, adrenal gland)."（[DailyMed: Avapro (irbesartan) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7885b2a8-be4e-48ab-8113-4e6ab791eb98)、版 2026-08-24、参照日 2026-11-19）。イルベサルタンはアンジオテンシンII受容体拮抗薬のクラスに属し、AT1 受容体を遮断します。
 
 AT1 受容体の遮断は、血圧を下げるだけでなく、アンジオテンシンIIが引き起こす糸球体や血管の障害を軽減すると考えられます。そのため、高血圧による腎障害に機序的に適用できる可能性があります。ただし、この関連は理論上の推定にとどまります。直接の臨床的・文献的な裏付けは提供されておらず、予測スコアのみが根拠です。
 
@@ -101,6 +101,19 @@ AT1 受容体の遮断は、血圧を下げるだけでなく、アンジオテ�
 - 添付文書（PMDA）の警告・禁忌の取得と安全性スクリーニング
 - 詳細な作用機序データの補充
 - 既存の高血圧管理との位置づけ、および対象患者（腎機能、カリウム値など）の整理
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Avapro (irbesartan) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7885b2a8-be4e-48ab-8113-4e6ab791eb98) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

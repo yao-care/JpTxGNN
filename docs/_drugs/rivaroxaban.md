@@ -55,7 +55,7 @@ TxGNN モデルは**関節リウマチ (Rheumatoid Arthritis)** に有効であ�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、リバーロキサバンは第Xa因子を阻害する抗凝固薬であり、血栓症の予防・治療で用いられてきました。
+米国 FDA が承認した Rivaroxaban の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「XARELTOはFXaの選択的阻害薬である。その活性発現に補因子(アンチトロンビンIIIなど)を必要としない。リバーロキサバンは遊離FXa及びプロトロンビナーゼ活性を阻害する。リバーロキサバンは血小板凝集に対する直接的な作用を有しないが、トロンビンにより誘発される血小板凝集を間接的に阻害する。」英語原文："XARELTO is a selective inhibitor of FXa. It does not require a cofactor (such as Anti-thrombin III) for activity. Rivaroxaban inhibits free FXa and prothrombinase activity. Rivaroxaban has no direct effect on platelet aggregation, but indirectly inhibits platelet aggregation induced by thrombin."（[DailyMed: Xarelto (rivaroxaban) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10db92f9-2300-4a80-836b-673e1ae91610)、版 2026-09-10、参照日 2026-11-19）。既知の情報によると、リバーロキサバンは第Xa因子を阻害する抗凝固薬であり、血栓症の予防・治療で用いられてきました。
 
 関節リウマチを含む自己免疫疾患では血液凝固が亢進しやすく、トロンビンが炎症に関与することが知られています。第Xa因子阻害によりトロンビン介在性の炎症を多少弱める可能性はあります。ただし、関節リウマチに対する疾患修飾作用を示す直接的な証拠はなく、機序的な関連は仮説の域を出ません。
 
@@ -122,11 +122,12 @@ TxGNN モデルは**関節リウマチ (Rheumatoid Arthritis)** に有効であ�
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「現在有効な承認はなく、20 件すべてが取消済みです」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Xarelto (rivaroxaban) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10db92f9-2300-4a80-836b-673e1ae91610) |
 
 <!-- review:end log -->
 

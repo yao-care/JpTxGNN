@@ -55,7 +55,7 @@ TxGNN モデルは**腎性低尿酸血症 (hypouricemia, renal)** に有効で�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、フェブキソスタットは尿酸生合成抑制薬（キサンチンオキシダーゼ阻害薬）に分類され、痛風での有効性が確立しています。
+米国 FDA が承認した Febuxostat の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「キサンチンオキシダーゼ阻害薬であるULORICは、血清尿酸値を低下させることにより治療効果を発揮する。ULORICは治療濃度において、プリン及びピリミジンの合成及び代謝に関与する他の酵素を阻害しないと考えられる。」英語原文："ULORIC, a xanthine oxidase inhibitor, achieves its therapeutic effect by decreasing serum uric acid. ULORIC is not expected to inhibit other enzymes involved in purine and pyrimidine synthesis and metabolism at therapeutic concentrations."（[DailyMed: Uloric (febuxostat) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=54de10ef-fe5f-4930-b91d-6bbb04c664bd)、版 2025-12-24、参照日 2026-11-19）。既知の情報によると、フェブキソスタットは尿酸生合成抑制薬（キサンチンオキシダーゼ阻害薬）に分類され、痛風での有効性が確立しています。
 
 ただし、腎性低尿酸血症は URAT1 や GLUT9 などの尿酸トランスポーターの異常により、血清尿酸値がもともと低い疾患です。尿酸をさらに下げる薬は、機序的には治療上の意味がありません。
 
@@ -116,11 +116,12 @@ TxGNN モデルは**腎性低尿酸血症 (hypouricemia, renal)** に有効で�
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「日本では現在有効な承認がなく、添付文書の警告・禁忌情報も未取得のため、安全性評価を進められません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Uloric (febuxostat) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=54de10ef-fe5f-4930-b91d-6bbb04c664bd) |
 
 <!-- review:end log -->
 

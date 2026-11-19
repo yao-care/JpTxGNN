@@ -55,7 +55,7 @@ TxGNN モデルは**肢端中間異形成症 Hunter-Thompson 型 (acromesomelic 
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、ケトプロフェンはシクロオキシゲナーゼ（COX）阻害作用を持つ NSAID で、プロスタグランジン合成を抑えることで鎮痛・抗炎症・解熱作用を示します。
+米国 FDA が承認した Ketoprofen の添付文書（Prescribing Information）の「Clinical Pharmacology」の項によると（非公式訳）、「抗炎症モデルにおいて、ケトプロフェンはプロスタグランジン及びロイコトリエンの合成に対する阻害作用、抗ブラジキニン活性、並びにリソソーム膜安定化作用を有することが示されている。しかしながら、その作用機序は、他の非ステロイド性抗炎症薬と同様に、完全には解明されていない。」英語原文："In anti-inflammatory models ketoprofen has been shown to have inhibitory effects on prostaglandin and leukotriene synthesis, to have antibradykinin activity, as well as to have lysosomal membrane-stabilizing action. However, its mode of action, like that of other non-steroidal anti-inflammatory drugs, is not fully understood."（[DailyMed: Orudis (ketoprofen) prescribing information, Allegis Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=47d0b808-7142-c7a9-e063-6394a90a6e0d)、版 2026-01-07、参照日 2026-11-19）。既知の情報によると、ケトプロフェンはシクロオキシゲナーゼ（COX）阻害作用を持つ NSAID で、プロスタグランジン合成を抑えることで鎮痛・抗炎症・解熱作用を示します。
 
 一方、Hunter-Thompson 型の先端中肢異形成は、GDF5 の異常による骨格形成異常です。COX 阻害との間に妥当な機序的関連は見つかっておらず、このスコアは TxGNN モデル（深層学習）が出力したもので、モデルが学習した関連疾患間の類似性を反映している可能性があるものの、生物学的な証拠ではありません。仮に使用するとしても、関節痛への対症的な効果にとどまると考えられます。
 
@@ -95,18 +95,25 @@ TxGNN モデルは**肢端中間異形成症 Hunter-Thompson 型 (acromesomelic 
 - 添付文書の警告・禁忌情報の確認（PMDA）
 - 機序的妥当性が比較的高い候補（脊椎関節症など）への優先順位の見直しと、文献・試験の調査
 - 前臨床での機序検証と、剤形・投与経路の適合性評価
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Orudis (ketoprofen) prescribing information, Allegis Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=47d0b808-7142-c7a9-e063-6394a90a6e0d) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。
 臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-
-
-
-
 
 <!-- brand-names:start -->
 ## 日本での販売名

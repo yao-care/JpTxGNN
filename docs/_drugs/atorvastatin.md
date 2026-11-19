@@ -56,7 +56,7 @@ TxGNN モデルは **HIV感染症 (HIV infectious disease)** に有効である�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、スタチンは LDL コレステロールを下げるだけでなく、単球・マクロファージの活性化を抑えるなど、抗炎症的な作用を持つことが知られています。
+米国 FDA が承認した Atorvastatin の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「LIPITORは、HMG-CoA還元酵素の選択的かつ競合的な阻害剤である。HMG-CoA還元酵素は、3-ヒドロキシ-3-メチルグルタリル-補酵素Aを、コレステロールを含むステロールの前駆体であるメバロン酸に変換する律速酵素である。動物モデルにおいて、LIPITORは肝臓におけるHMG-CoA還元酵素およびコレステロール合成を阻害するとともに、細胞表面の肝LDL受容体数を増加させてLDLの取り込みおよび異化を促進することにより、血漿コレステロールおよびリポタンパク質濃度を低下させる。また、LIPITORはLDL産生およびLDL粒子数も減少させる。」英語原文："LIPITOR is a selective, competitive inhibitor of HMG-CoA reductase, the rate-limiting enzyme that converts 3-hydroxy-3-methylglutaryl-coenzyme A to mevalonate, a precursor of sterols, including cholesterol. In animal models, LIPITOR lowers plasma cholesterol and lipoprotein levels by inhibiting HMG-CoA reductase and cholesterol synthesis in the liver and by increasing the number of hepatic LDL receptors on the cell surface to enhance uptake and catabolism of LDL; LIPITOR also reduces LDL production and the number of LDL particles."（[DailyMed: Lipitor (atorvastatin calcium) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a60cc18b-0631-4cf0-b021-9f52224ece65)、版 2024-04-15、参照日 2026-11-19）。既知の情報によると、スタチンは LDL コレステロールを下げるだけでなく、単球・マクロファージの活性化を抑えるなど、抗炎症的な作用を持つことが知られています。
 
 HIV 感染症では、抗レトロウイルス療法（特にプロテアーゼ阻害薬）による脂質異常と、治療後も続く慢性的な免疫活性化・炎症が問題になります。スタチンは、この二つに働きかける可能性があります。実際に、脂質管理と免疫活性化の抑制を目的とした試験が複数行われています。
 
@@ -115,6 +115,19 @@ HIV 陽性者を対象に、完了した Phase 3 RCT と Phase 2 のプラセボ
 - プロテアーゼ阻害薬など抗 HIV 薬との併用に関する、用量設定と安全性モニタリング計画
 - 添付文書の警告・禁忌の確認（今回のデータでは取得できていません）
 - 詳細な作用機序データの補充
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Lipitor (atorvastatin calcium) prescribing information, Viatris Specialty LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a60cc18b-0631-4cf0-b021-9f52224ece65) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

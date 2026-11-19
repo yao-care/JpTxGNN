@@ -55,7 +55,7 @@ TxGNN モデルは**三叉神経腫瘍 (Trigeminal Nerve Neoplasm)** に有効�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報では、トピラマートは電位依存性ナトリウムチャネル遮断、GABA-A 活性の増強、AMPA/カイニン酸受容体拮抗によって神経の過興奮を抑える抗てんかん薬です。
+米国 FDA が承認した Topiramate の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「トピラマートが抗痙攣作用及び片頭痛の予防効果を発揮する正確な機序は不明である。しかし、非臨床試験により、てんかん及び片頭痛の予防治療におけるトピラマートの有効性に寄与する可能性のある4つの特性が明らかにされている。」英語原文："The precise mechanisms by which topiramate exerts its anticonvulsant and preventive migraine effects are unknown; however, preclinical studies have revealed four properties that may contribute to topiramate's efficacy for epilepsy and the preventive treatment of migraine."（[DailyMed: Trokendi Xr (topiramate) prescribing information, Supernus Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2dc7957e-a3e5-46bb-aa66-f3250f872f5e)、版 2026-10-05、参照日 2026-11-19）。既知の情報では、トピラマートは電位依存性ナトリウムチャネル遮断、GABA-A 活性の増強、AMPA/カイニン酸受容体拮抗によって神経の過興奮を抑える抗てんかん薬です。
 
 一方で、これらの機序から抗腫瘍作用を導く根拠は確立されていません。腫瘍生物学に基づく予測とは言えません。
 
@@ -117,11 +117,12 @@ TxGNN モデルは**三叉神経腫瘍 (Trigeminal Nerve Neoplasm)** に有効�
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「日本では現在有効な承認がなく、すぐに進められる状況ではありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Trokendi Xr (topiramate) prescribing information, Supernus Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2dc7957e-a3e5-46bb-aa66-f3250f872f5e) |
 
 <!-- review:end log -->
 

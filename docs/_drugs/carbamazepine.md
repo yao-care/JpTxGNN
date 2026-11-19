@@ -55,7 +55,7 @@ TxGNN モデルは**三叉神経腫瘍 (trigeminal nerve neoplasm)** に有効�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。ただし、カルバマゼピンは電位依存性ナトリウムチャネルを遮断する抗てんかん薬として知られています。三叉神経痛の標準的な第一選択薬でもあります。
+米国 FDA が承認した Carbamazepine の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「Tegretolは、電気的及び化学的に誘発した痙攣を有するラット及びマウスにおいて抗痙攣作用を示した。本剤は多シナプス性反応を減弱させ、テタヌス後増強を遮断することにより作用すると考えられる。[…] Tegretolの主代謝物であるカルバマゼピン-10,11-エポキシドは、いくつかの生体内痙攣動物モデルで示されたとおり、抗痙攣作用を有する。」英語原文："Tegretol has demonstrated anticonvulsant properties in rats and mice with electrically and chemically induced seizures. It appears to act by reducing polysynaptic responses and blocking the post-tetanic potentiation. […] The principal metabolite of Tegretol, carbamazepine-10,11-epoxide, has anticonvulsant activity as demonstrated in several in vivo animal models of seizures."（[DailyMed: Tegretol (carbamazepine) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d409411-aa9f-4f3a-a52c-fbcb0c3ec053)、版 2026-08-20、参照日 2026-11-19）。ただし、カルバマゼピンは電位依存性ナトリウムチャネルを遮断する抗てんかん薬として知られています。三叉神経痛の標準的な第一選択薬でもあります。
 
 三叉神経腫瘍では、腫瘍による神経の圧迫や浸潤で二次性の三叉神経痛が起こることがあります。ナトリウムチャネル遮断により、この神経痛を症状として和らげる可能性があります。文献でも、腫瘍に伴う三叉神経痛の患者にカルバマゼピンが処方された例が複数報告されています。
 
@@ -128,12 +128,13 @@ TxGNN モデルは**三叉神経腫瘍 (trigeminal nerve neoplasm)** に有効�
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「また、日本では現在、有効な承認がありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Tegretol (carbamazepine) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d409411-aa9f-4f3a-a52c-fbcb0c3ec053) |
 
 <!-- review:end log -->
 

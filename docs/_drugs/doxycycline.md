@@ -56,7 +56,7 @@ TxGNN モデルは**点状表層角結膜炎 (Punctate Epithelial Keratoconjunct
 
 ## この予測が妥当である理由
 
-ドキシサイクリンは細菌の 30S リボソームに作用してタンパク質合成を阻害する、広域スペクトルの静菌性抗菌薬です。なお、今回まとめたデータには詳細な作用機序の記載がないため、ここでは一般的な薬理作用に基づいて説明します。
+ドキシサイクリンは細菌の 30S リボソームに作用してタンパク質合成を阻害する、広域スペクトルの静菌性抗菌薬です。米国 FDA が承認した Doxycycline の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「ドキシサイクリンは30Sリボソームサブユニットに結合することにより細菌のタンパク質合成を阻害する。ドキシサイクリンは広範囲のグラム陽性菌及びグラム陰性菌に対して静菌作用を有する。」英語原文："Doxycycline inhibits bacterial protein synthesis by binding to the 30S ribosomal subunit. Doxycycline has bacteriostatic activity against a broad range of Gram-positive and Gram-negative bacteria."（[DailyMed: Doxycyclate Hyclate (doxycycline hyclate) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4dc319c1-b7ef-40e4-9e66-fb24cfdefea8)、版 2026-07-09、参照日 2026-11-19）。
 
 既存適応症にはクラミジアなどの細胞内寄生菌による感染症が含まれます。クラミジア性濾胞性結膜炎の後に点状表層角膜炎が続くことがあり、ここが予測の接点になります。ドキシサイクリンには、マトリックスメタロプロテアーゼ (MMP) 阻害作用と抗炎症作用もあります。この作用が眼表面の炎症を和らげる可能性があります。
 
@@ -115,11 +115,12 @@ TxGNN モデルは**点状表層角結膜炎 (Punctate Epithelial Keratoconjunct
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「日本では現在有効な承認もないため、再利用の判断に進める段階ではありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Doxycyclate Hyclate (doxycycline hyclate) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4dc319c1-b7ef-40e4-9e66-fb24cfdefea8) |
 
 <!-- review:end log -->
 

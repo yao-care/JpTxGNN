@@ -57,7 +57,7 @@ TxGNN モデルは **コロボーマ性小眼球症-根性肢異形成症候群 
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報では、バリシチニブは JAK1/JAK2 阻害薬であり、関節リウマチでの有効性が知られています。ただし、今回まとめたデータでは、この薬の作用経路と予測された希少な発生異常症候群を結ぶ根拠は確認できていません。
+米国 FDA が承認した Baricitinib の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「バリシチニブはヤヌスキナーゼ（JAK）阻害薬である。JAKは細胞内酵素であり、細胞膜上のサイトカイン又は成長因子と受容体との相互作用から生じるシグナルを伝達し、造血及び免疫細胞機能の細胞プロセスに影響を及ぼす。」英語原文："Baricitinib is a Janus kinase (JAK) inhibitor. JAKs are intracellular enzymes which transmit signals arising from cytokine or growth factor-receptor interactions on the cellular membrane to influence cellular processes of hematopoiesis and immune cell function."（[DailyMed: Olumiant (baricitinib) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=866e9f35-9035-4581-a4b1-75a621ab55cf)、版 2026-10-09、参照日 2026-11-19）。既知の情報では、バリシチニブは JAK1/JAK2 阻害薬であり、関節リウマチでの有効性が知られています。ただし、今回まとめたデータでは、この薬の作用経路と予測された希少な発生異常症候群を結ぶ根拠は確認できていません。
 
 関節リウマチは自己免疫性の炎症性疾患です。一方、予測された疾患は先天性の発生異常で、病態の性質が大きく異なります。既存適応症との類似性は評価できていません。
 
@@ -103,11 +103,12 @@ TxGNN のスコアは高い値ですが、これは計算上の予測にすぎ�
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「日本での承認取消の経緯と現在の供給状況を確認する」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Olumiant (baricitinib) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=866e9f35-9035-4581-a4b1-75a621ab55cf) |
 
 <!-- review:end log -->
 

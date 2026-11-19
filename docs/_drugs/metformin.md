@@ -55,7 +55,7 @@ TxGNN モデルは**焦点性スティッフリム症候群 (focal stiff limb sy
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、メトホルミンは AMPK 活性化を介して肝での糖新生を抑え、インスリン感受性を改善するビグアナイド系血糖降下薬です。
+米国 FDA が承認した Metformin の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「メトホルミンは2型糖尿病患者の耐糖能を改善し、基礎血漿グルコース及び食後血漿グルコースの両方を低下させる抗高血糖薬である。メトホルミンは肝臓での糖産生を減少させ、腸管からのグルコース吸収を減少させるとともに、末梢でのグルコースの取り込み及び利用を増加させることによりインスリン感受性を改善する。」英語原文："Metformin is an antihyperglycemic agent which improves glucose tolerance in patients with type 2 diabetes mellitus, lowering both basal and postprandial plasma glucose. Metformin decreases hepatic glucose production, decreases intestinal absorption of glucose, and improves insulin sensitivity by increasing peripheral glucose uptake and utilization."（[DailyMed: Metformin Hydrochloride Er (metformin hydrochloride) prescribing information, Leading Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3dca884d-ec44-496f-9eeb-31fd8fa3f574)、版 2026-09-21、参照日 2026-11-19）。既知の情報によると、メトホルミンは AMPK 活性化を介して肝での糖新生を抑え、インスリン感受性を改善するビグアナイド系血糖降下薬です。
 
 しかし、焦点性スティッフリム症候群は、自己免疫性または GABA 作動性の機能異常が背景にあると考えられる神経疾患です。メトホルミンの代謝作用がこの病態に対処するという確立した根拠はありません。この予測を支える材料は TxGNN のスコアだけです。
 
@@ -120,12 +120,13 @@ TxGNN モデルは**焦点性スティッフリム症候群 (focal stiff limb sy
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「現在、有効な承認はなく、20 件すべてが取り消し済みです」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-06 | 削除：「日本では現在有効な承認がなく、添付文書の安全性情報も未確認です」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Metformin Hydrochloride Er (metformin hydrochloride) prescribing information, Leading Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3dca884d-ec44-496f-9eeb-31fd8fa3f574) |
 
 <!-- review:end log -->
 

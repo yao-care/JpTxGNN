@@ -56,7 +56,7 @@ TxGNN モデルは**注意欠如・多動症 (Attention Deficit-Hyperactivity Di
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、ロピニロールは D2/D3 ドパミン受容体作動薬に分類され、パーキンソン病での有効性が確立されています。ADHD にはドパミン系の機能異常が関与しているため、機序的に適用可能である可能性があります。
+米国 FDA が承認した Ropinirole の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「ロピニロールは非麦角系ドパミン作動薬である。パーキンソン病の治療薬としてのロピニロールの正確な作用機序は不明であるが、脳内の尾状核-被殻におけるドパミンD 2 受容体を刺激する能力に関連すると考えられている。」英語原文："Ropinirole is a non-ergoline dopamine agonist. The precise mechanism of action of ropinirole as a treatment for Parkinson’s disease is unknown, although it is thought to be related to its ability to stimulate dopamine D 2 receptors within the caudate-putamen in the brain."（[DailyMed: ropinirole prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e9ba4108-7095-4771-840e-bf1e08b5f4da)、版 2026-11-06、参照日 2026-11-19）。既知の情報によると、ロピニロールは D2/D3 ドパミン受容体作動薬に分類され、パーキンソン病での有効性が確立されています。ADHD にはドパミン系の機能異常が関与しているため、機序的に適用可能である可能性があります。
 
 ロピニロールはレストレスレッグス症候群 (RLS) でも使われています。RLS は ADHD にしばしば合併し、両者にドパミン経路が共通すると考えられています。6 歳の ADHD・RLS 合併例では、メチルフェニデートで効果が限定的でしたが、ロピニロールで ADHD 症状と睡眠障害の両方が改善したと報告されています。
 
@@ -131,11 +131,12 @@ TxGNN モデルは**注意欠如・多動症 (Attention Deficit-Hyperactivity Di
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「および日本で販売承認が取り消された経緯の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: ropinirole prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e9ba4108-7095-4771-840e-bf1e08b5f4da) |
 
 <!-- review:end log -->
 

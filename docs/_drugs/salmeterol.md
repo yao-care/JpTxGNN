@@ -55,7 +55,7 @@ TxGNN モデルは**呼吸器奇形 (respiratory malformation)** に有効であ
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、サルメテロールはβ2アドレナリン受容体を刺激する長時間作用型の気管支拡張薬です。
+米国 FDA が承認した Salmeterol の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「サルメテロールは選択的LABAである。in vitro試験において、サルメテロールはβ 2 -アドレナリン受容体に対してアルブテロールよりも少なくとも50倍高い選択性を示す。β 2 -アドレナリン受容体は気管支平滑筋における主要なアドレナリン受容体であり、β 1 -アドレナリン受容体は心臓における主要な受容体であるが、ヒトの心臓にもβ 2 -アドレナリン受容体が存在し、β-アドレナリン受容体全体の10%～50%を占める。」英語原文："Salmeterol is a selective LABA. In vitro studies show salmeterol to be at least 50 times more selective for beta 2 -adrenoceptors than albuterol. Although beta 2 -adrenoceptors are the predominant adrenergic receptors in bronchial smooth muscle and beta 1 -adrenoceptors are the predominant receptors in the heart, there are also beta 2 -adrenoceptors in the human heart comprising 10% to 50% of the total beta-adrenoceptors."（[DailyMed: Serevent Diskus (salmeterol xinafoate) prescribing information, GlaxoSmithKline LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=12d9728e-6b5c-4aee-bfb0-745e542ed2e4)、版 2022-10-10、参照日 2026-11-19）。既知の情報によると、サルメテロールはβ2アドレナリン受容体を刺激する長時間作用型の気管支拡張薬です。
 
 β2刺激には、気道平滑筋の弛緩と線毛運動の促進が期待できます。そのため、線毛機能異常や気道クリアランスの低下を伴う先天性の気道疾患（嚢胞性線維症、原発性線毛運動異常症など）で、症状緩和につながる可能性があります。
 
@@ -106,18 +106,24 @@ TxGNN モデルは**呼吸器奇形 (respiratory malformation)** に有効であ
 - 詳細な作用機序データ (MOA) の補完
 - 添付文書に基づく警告・禁忌の確認と安全性評価
 
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Serevent Diskus (salmeterol xinafoate) prescribing information, GlaxoSmithKline LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=12d9728e-6b5c-4aee-bfb0-745e542ed2e4) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。
 臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-
-
-
-
 
 <!-- brand-names:start -->
 ## 日本での販売名

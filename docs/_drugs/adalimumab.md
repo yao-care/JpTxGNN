@@ -55,7 +55,7 @@ TxGNN モデルは**尾骨過可動症 (hypermobility of coccyx)** に有効で�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、アダリムマブは TNF-α を阻害して炎症を抑える抗体医薬です。
+米国 FDA が承認した Adalimumab の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「アダリムマブ製剤はTNF-αに特異的に結合し、TNF-αと細胞表面のTNF受容体p55およびp75との相互作用を阻害する。また、アダリムマブ製剤はin vitroにおいて、補体存在下で膜型TNF発現細胞を溶解する。」英語原文："Adalimumab products bind specifically to TNF-alpha and block its interaction with the p55 and p75 cell surface TNF receptors. Adalimumab products also lyse surface TNF expressing cells in vitro in the presence of complement."（[DailyMed: Simlandi (adalimumab-ryvk) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=12f609c9-2088-bb05-e063-6394a90a9ecc)、版 2026-11-11、参照日 2026-11-19）。既知の情報によると、アダリムマブは TNF-α を阻害して炎症を抑える抗体医薬です。
 
 ただし、尾骨過可動症は主に力学的な問題（靭帯や関節の不安定性）です。TNF-α を介した炎症が主因とは言えず、TNF-α 阻害との機序的な関連は確立していません。現時点で、この予測を支える根拠は TxGNN のスコアだけです。したがって、機序面からの妥当性は十分に示せていません。
 
@@ -107,6 +107,19 @@ TxGNN モデルは**尾骨過可動症 (hypermobility of coccyx)** に有効で�
 - 作用機序データの補完
 - 添付文書の警告・禁忌情報の整理（安全性スクリーニングの前提）
 - 症例報告や観察研究など、対象疾患を直接扱う臨床的知見の収集
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Simlandi (adalimumab-ryvk) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=12f609c9-2088-bb05-e063-6394a90a9ecc) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

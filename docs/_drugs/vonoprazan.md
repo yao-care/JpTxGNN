@@ -55,7 +55,7 @@ description: "Vonoprazan：予測新適応症はPeptic ulcer perforation（エ�
 
 ## この予測が妥当である理由
 
-ボノプラザンは胃のプロトンポンプ（H+/K+-ATPase）を可逆的に阻害し、強力で持続的な胃酸抑制をもたらします。プロトンポンプ阻害薬（PPI）と異なり、酸による活性化を必要としません。現在、詳細な作用機序データはありませんが、上記の薬理作用は文献から確認できます。
+ボノプラザンは胃のプロトンポンプ（H+/K+-ATPase）を可逆的に阻害し、強力で持続的な胃酸抑制をもたらします。プロトンポンプ阻害薬（PPI）と異なり、酸による活性化を必要としません。米国 FDA が承認した Vonoprazan の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「ボノプラザンは、胃壁細胞の分泌面においてH+,K+-ATPase酵素系をカリウム競合的に阻害することにより、基礎胃酸分泌及び刺激による胃酸分泌を抑制する。この酵素は壁細胞内の酸(プロトン)ポンプとみなされていることから、ボノプラザンは酸産生の最終段階を遮断するという点で、胃プロトンポンプ阻害剤の一種として特徴づけられている。」英語原文："Vonoprazan suppresses basal and stimulated gastric acid secretion at the secretory surface of the gastric parietal cell through inhibition of the H +, K + -ATPase enzyme system in a potassium-competitive manner. Because this enzyme is regarded as the acid (proton) pump within the parietal cell, vonoprazan has been characterized as a type of gastric proton-pump inhibitor, in that it blocks the final step of acid production."（[DailyMed: Voquezna (vonoprazan fumarate) prescribing information, Phathom Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0cc52ac5-77ec-4d66-a770-762a1a960914)、版 2026-07-16、参照日 2026-11-19）。
 
 そのため、胃酸抑制による治癒促進や H. pylori 除菌療法での併用という機序が共通して適用できます。
 
@@ -131,12 +131,13 @@ description: "Vonoprazan：予測新適応症はPeptic ulcer perforation（エ�
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「日本の承認は取り消し済みで」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-06 | 削除：「日本での承認取り消しの経緯と現在の販売状況の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Voquezna (vonoprazan fumarate) prescribing information, Phathom Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0cc52ac5-77ec-4d66-a770-762a1a960914) |
 
 <!-- review:end log -->
 

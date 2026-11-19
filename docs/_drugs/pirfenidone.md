@@ -55,7 +55,7 @@ TxGNN モデルの予測スコア第 1 位は**肥満細胞腫（extracutaneous 
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。ただし文献によると、ピルフェニドンは TGF-β、PDGF、FGF、EGF などの増殖因子シグナルを抑え、線維芽細胞の増殖とコラーゲン産生を減らす非細胞毒性の経口抗線維化薬とされています。
+米国 FDA が承認した Pirfenidone の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「IPF の治療におけるピルフェニドンの作用機序は確立されていない。」英語原文："The mechanism of action of pirfenidone in the treatment of IPF has not been established."（[DailyMed: Esbriet (pirfenidone) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2e8c3537-36d7-4de5-9b5c-7a624b9a9e6e)、版 2025-12-05、参照日 2026-11-19）。ただし文献によると、ピルフェニドンは TGF-β、PDGF、FGF、EGF などの増殖因子シグナルを抑え、線維芽細胞の増殖とコラーゲン産生を減らす非細胞毒性の経口抗線維化薬とされています。
 
 第 1 位の肥満細胞腫、第 3 位の侵攻性全身性肥満細胞症は、KIT 変異が主な原因とされます。ピルフェニドンの機序との関連を示す根拠はなく、予測はモデルのスコアだけに基づいています。
 
@@ -109,18 +109,25 @@ TxGNN モデルの予測スコア第 1 位は**肥満細胞腫（extracutaneous 
 - 線維芽細胞性腫瘍およびデスモイド腫瘍での前臨床データ（腫瘍細胞株、動物モデル）の追加
 - 腫瘍発生リスクに関する安全性の精査
 - 剤形・投与経路の適合性評価（現在は経口錠のみ）
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Esbriet (pirfenidone) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2e8c3537-36d7-4de5-9b5c-7a624b9a9e6e) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。
 臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-
-
-
-
 
 <!-- brand-names:start -->
 ## 日本での販売名

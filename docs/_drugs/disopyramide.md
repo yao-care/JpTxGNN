@@ -55,7 +55,7 @@ TxGNN モデルは**トゥレット症候群 (Tourette syndrome)** に有効で�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、ジソピラミドはクラスIA群の抗不整脈薬で、ナトリウムチャネル遮断作用と抗コリン作用を持ちます。
+米国 FDA が承認した Disopyramide の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「Norpace（リン酸ジソピラミド）は1群抗不整脈薬（すなわち、プロカインアミド及びキニジンと類似）である。動物試験において、Norpaceは自動能が亢進した細胞における拡張期脱分極（第4相）の速度を低下させ、正常心筋細胞の立ち上がり速度（第0相）を低下させるとともに活動電位持続時間を延長させ、梗塞心筋と隣接する正常灌流心筋との間の不応期の不均一性を減少させ、α及びβアドレナリン受容体には影響を及ぼさない。」英語原文："Norpace (disopyramide phosphate) is a Type 1 antiarrhythmic drug (i.e., similar to procainamide and quinidine). In animal studies Norpace decreases the rate of diastolic depolarization (phase 4) in cells with augmented automaticity, decreases the upstroke velocity (phase 0) and increases the action potential duration of normal cardiac cells, decreases the disparity in refractoriness between infarcted and adjacent normally perfused myocardium, and has no effect on alpha- or beta-adrenergic receptors."（[DailyMed: Norpace (disopyramide phosphate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e2aa1642-d262-4520-bc6a-9fd3ad795677)、版 2026-08-24、参照日 2026-11-19）。既知の情報によると、ジソピラミドはクラスIA群の抗不整脈薬で、ナトリウムチャネル遮断作用と抗コリン作用を持ちます。
 
 一方、トゥレット症候群は線条体のドパミン系を中心とした神経回路の異常が関わる疾患です。ジソピラミドの薬理作用とこの回路との間に、確立した機序上の関連は見つかっていません。したがって、この予測スコアはTxGNNモデル(ディープラーニング)が出力したもので、関連する疾患間でモデルが学習した類似性を反映している可能性があり、生物学的な根拠ではありません。妥当性を裏付ける根拠は現時点でありません。
 
@@ -139,13 +139,14 @@ TxGNN モデルは**トゥレット症候群 (Tourette syndrome)** に有効で�
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 | 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 | 2026-11-17 | 表：620004782 は有効ではなく薬価基準から削除済み | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Norpace (disopyramide phosphate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e2aa1642-d262-4520-bc6a-9fd3ad795677) |
 
 <!-- review:end log -->
 

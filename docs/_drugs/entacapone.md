@@ -56,7 +56,7 @@ TxGNN モデルは **PLA2G6 関連神経変性症 (PLA2G6-associated neurodegene
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報では、エンタカポンは COMT（カテコール-O-メチルトランスフェラーゼ）阻害薬で、レボドパやドパミンの利用可能時間を延ばすことでパーキンソン病を治療します。
+米国 FDA が承認した Entacapone の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「エンタカポンはCOMTの選択的かつ可逆的な阻害薬である。哺乳類において、COMTは様々な臓器に分布しており、肝臓及び腎臓で最も高い活性を示す。COMTは心臓、肺、平滑筋及び骨格筋、腸管、生殖器、各種腺組織、脂肪組織、皮膚、血液細胞、並びに神経組織、特にグリア細胞にも存在する。」英語原文："Entacapone is a selective and reversible inhibitor of COMT. In mammals, COMT is distributed throughout various organs with the highest activities in the liver and kidney. COMT also occurs in the heart, lung, smooth and skeletal muscles, intestinal tract, reproductive organs, various glands, adipose tissue, skin, blood cells, and neuronal tissues, especially in glial cells."（[DailyMed: entacapone prescribing information, Rising Pharma Holdings, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ee02a04a-4b42-4cfa-8d9d-b1459c0ee9fd)、版 2026-02-16、参照日 2026-11-19）。既知の情報では、エンタカポンは COMT（カテコール-O-メチルトランスフェラーゼ）阻害薬で、レボドパやドパミンの利用可能時間を延ばすことでパーキンソン病を治療します。
 
 PLA2G6 関連神経変性症にはジストニア・パーキンソニズムの表現型が含まれ、ドパミン系の機能障害が関与します。そのため、ドパミンを補う治療との概念的な関連はあります。ただし、この関連は推測の域を出ず、TxGNN の予測のみに基づいています。
 
@@ -122,11 +122,12 @@ PLA2G6 関連神経変性症にはジストニア・パーキンソニズムの�
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「承認番号 622498501、取消」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: entacapone prescribing information, Rising Pharma Holdings, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ee02a04a-4b42-4cfa-8d9d-b1459c0ee9fd) |
 
 <!-- review:end log -->
 

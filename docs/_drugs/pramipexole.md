@@ -56,7 +56,7 @@ TxGNN モデルは**注意欠如・多動症 (attention deficit-hyperactivity di
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、プラミペキソールは D2/D3 ドパミン受容体作動薬で、パーキンソン病とレストレスレッグス症候群での有効性が確立されています。
+米国 FDA が承認した Pramipexole の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「プラミペキソールは非麦角系ドパミン作動薬であり、in vitro においてドパミン受容体の D 2 サブファミリーに対して比較的高い特異性と完全な内活性を有し、D 2 又は D 4 受容体サブタイプよりも D 3 受容体サブタイプに高い親和性で結合する。パーキンソン病 パーキンソン病の治療におけるプラミペキソールの正確な作用機序は不明であるが、線条体のドパミン受容体を刺激する作用に関連すると考えられている。」英語原文："Pramipexole is a non-ergot dopamine agonist with high relative in vitro specificity and full intrinsic activity at the D 2 subfamily of dopamine receptors, binding with higher affinity to D 3 than to D 2 or D 4 receptor subtypes. Parkinson’s Disease The precise mechanism of action of pramipexole as a treatment for Parkinson's disease is unknown, although it is believed to be related to its ability to stimulate dopamine receptors in the striatum."（[DailyMed: pramipexole dihydrochloride prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=29b639e3-25a5-4c2f-b4ea-a119db79fe0c)、版 2026-09-09、参照日 2026-11-19）。既知の情報によると、プラミペキソールは D2/D3 ドパミン受容体作動薬で、パーキンソン病とレストレスレッグス症候群での有効性が確立されています。
 
 ADHD ではドパミン系の調節異常が関与すると考えられており、ドパミン受容体を介した作用は機序的に関連し得ます。ただし、根拠は間接的です。ADHD を直接検証した試験はなく、トゥレット症候群を対象とした RCT、症例報告、受容体レベルの研究にとどまります。
 
@@ -111,18 +111,25 @@ ADHD の予測スコアは非常に高いものの、直接の臨床試験はな
 - ADHD を直接対象とした臨床試験または系統的な文献調査
 - 国内で入手可能な製剤・流通状況の確認
 - **より有望な候補：** 統合失調症（予測 9 位、L2）。Phase 3 試験 1 件（NCT01320982、状態不明、400 例）と、2022 年のプラセボ対照 RCT（PMID: 35921506）があります。ただし精神病症状の悪化リスクがあるため、別途評価を推奨します。
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: pramipexole dihydrochloride prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=29b639e3-25a5-4c2f-b4ea-a119db79fe0c) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。
 臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-
-
-
-
 
 <!-- brand-names:start -->
 ## 日本での販売名

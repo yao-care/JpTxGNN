@@ -56,7 +56,7 @@ TxGNN モデルは**関節リウマチ (Rheumatoid Arthritis)** に有効であ�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、レボセチリジンは選択的 H1 受容体拮抗薬であり、アレルギー性鼻炎での有効性が確立されています。
+米国 FDA が承認した Levocetirizine の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「レボセチリジンは、セチリジンの活性エナンチオマーであり、抗ヒスタミン薬である。その主な作用はH 1受容体の選択的阻害を介して発現する。レボセチリジンの抗ヒスタミン活性は、様々な動物モデル及びヒトモデルにおいて確認されている。」英語原文："Levocetirizine, the active enantiomer of cetirizine, is an antihistamine; its principal effects are mediated via selective inhibition of H 1 receptors. The antihistaminic activity of levocetirizine has been documented in a variety of animal and human models."（[DailyMed: Xyzal (levocetirizine dihydrochloride) prescribing information, Chattem, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1673f7ff-0c7c-4403-86cf-c05eb1475222)、版 2025-07-22、参照日 2026-11-19）。既知の情報によると、レボセチリジンは選択的 H1 受容体拮抗薬であり、アレルギー性鼻炎での有効性が確立されています。
 
 ヒスタミンのシグナルは、関節リウマチにおける滑膜の炎症や血管透過性に関与する可能性があり、H1 受容体の遮断が機序的に関連する可能性はあります。ただし、この関連性は推測の域を出ません。
 
@@ -123,12 +123,13 @@ TxGNN の予測が唯一の根拠であり、臨床試験も文献も存在し�
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「現在、有効な承認はなく、20 件すべてが失効・取消となっています」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-06 | 削除：「失効の理由を含む」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Xyzal (levocetirizine dihydrochloride) prescribing information, Chattem, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1673f7ff-0c7c-4403-86cf-c05eb1475222) |
 
 <!-- review:end log -->
 

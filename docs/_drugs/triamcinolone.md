@@ -56,7 +56,7 @@ TxGNN モデルは**脱毛性粘液症 (Alopecia Mucinosa)** に有効である�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。ただし、トリアムシノロンはグルココルチコイド受容体作動薬に分類され、抗炎症作用と免疫抑制作用を持つことが知られています。
+米国 FDA が承認した Triamcinolone の添付文書（Prescribing Information）の「Clinical Pharmacology」の項によると（非公式訳）、「試験により、トリアムシノロンアセトニド60 mg～100 mgを単回筋肉内投与した後、24～48時間以内に副腎抑制が生じ、その後徐々に正常に回復し、通常30～40日で回復することが示されている。この所見は、本剤で得られる治療作用の持続時間が長いことと密接に相関している。」英語原文："Studies indicate that following a single intramuscular dose of 60 mg to 100 mg of triamcinolone acetonide, adrenal suppression occurs within 24 to 48 hours and then gradually returns to normal, usually in 30 to 40 days. This finding correlates closely with the extended duration of therapeutic action achieved with the drug."（[DailyMed: Kenalog-40 (triamcinolone acetonide) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4ce116aa-b330-4da9-9cdd-ba8e6be0c4ad)、版 2026-01-05、参照日 2026-11-19）。ただし、トリアムシノロンはグルココルチコイド受容体作動薬に分類され、抗炎症作用と免疫抑制作用を持つことが知られています。
 
 脱毛性粘液症（毛包性ムチン沈着症）では、毛包周囲に炎症性細胞浸潤がみられます。グルココルチコイドの抗炎症作用でこの浸潤が抑えられる可能性があり、機序的には適用できると考えられます。ただし、この関連は薬物クラスからの推論です。
 
@@ -154,7 +154,7 @@ TxGNN は他にも予測しています。ただし、エビデンスは限定�
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
@@ -163,6 +163,7 @@ TxGNN は他にも予測しています。ただし、エビデンスは限定�
 | 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 | 2026-11-17 | 表：620610201 は有効ではなく薬価基準から削除済み | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 | 2026-11-17 | 表：620609601 は有効ではなく薬価基準から削除済み | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Kenalog-40 (triamcinolone acetonide) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4ce116aa-b330-4da9-9cdd-ba8e6be0c4ad) |
 
 <!-- review:end log -->
 

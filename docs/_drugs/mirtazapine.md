@@ -57,7 +57,7 @@ TxGNN モデルの予測スコア第 1 位は **Ohdo 症候群および関連型
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。ただし、ミルタザピンは中枢のα2 自己受容体・ヘテロ受容体の遮断と、5-HT2/5-HT3/H1 受容体拮抗を通じて、ノルアドレナリンとセロトニンの神経伝達を高める抗うつ薬と整理されています。
+米国 FDA が承認した Mirtazapine の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「大うつ病性障害の治療におけるミルタザピンの作用機序は明らかではない。しかしながら、その有効性は、中枢のシナプス前α 2アドレナリン抑制性自己受容体及びヘテロ受容体に対する拮抗作用、並びに中枢のノルアドレナリン作動性及びセロトニン作動性活性の増強を介している可能性がある。」英語原文："The mechanism of action of mirtazapine for the treatment of major depressive disorder, is unclear. However, its efficacy could be mediated through its activity as an antagonist at central presynaptic α 2 -adrenergic inhibitory autoreceptors and heteroreceptors and enhancing central noradrenergic and serotonergic activity."（[DailyMed: Remeronsoltab (mirtazapine) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98ad1917-a094-44f5-a28f-a64a8cfcd887)、版 2025-08-06、参照日 2026-11-19）。ただし、ミルタザピンは中枢のα2 自己受容体・ヘテロ受容体の遮断と、5-HT2/5-HT3/H1 受容体拮抗を通じて、ノルアドレナリンとセロトニンの神経伝達を高める抗うつ薬と整理されています。
 
 第 1 位の Ohdo 症候群（KAT6B 関連の遺伝性神経発達障害）には、この受容体薬理との機序的なつながりが見当たりません。予測は TxGNN モデルのシグナルのみに基づいています。第 2 位（Ohdo 型眼瞼狭小・知的障害症候群）、第 4 位（木質性結膜炎：プラスミノーゲン欠損が原因）、第 5 位（小児発語失行）も同様です。第 3 位（乳児良性発作性斜頸）は片頭痛の類縁としてセロトニン調節が推測されますが、裏付けとなる研究はなく、小児での安全性も未検討です。
 
@@ -138,12 +138,13 @@ TxGNN モデルの予測スコア第 1 位は **Ohdo 症候群および関連型
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「さらに日本では販売中の承認がありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-06 | 削除：「日本での販売承認が整理済みである点を踏まえた、再申請または他国の承認状況の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Remeronsoltab (mirtazapine) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98ad1917-a094-44f5-a28f-a64a8cfcd887) |
 
 <!-- review:end log -->
 

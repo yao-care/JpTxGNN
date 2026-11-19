@@ -56,7 +56,7 @@ TxGNN モデルは**関節リウマチ (Rheumatoid Arthritis)** に有効であ�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、ボセンタンはエンドセリン ET-A/ET-B 受容体の二重拮抗薬で、肺動脈性肺高血圧症と全身性強皮症で使用されてきました。
+米国 FDA が承認した Bosentan の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「ボセンタンはエンドセリン受容体ET A及びET Bの特異的かつ競合的拮抗薬である。ボセンタンはET B受容体よりもET A受容体に対してわずかに高い親和性を有する。エンドセリン二重遮断の臨床的影響は不明である。」英語原文："Bosentan is a specific and competitive antagonist at endothelin receptor types ET A and ET B. Bosentan has a slightly higher affinity for ET A receptors than for ET B receptors. The clinical impact of dual endothelin blockage is unknown."（[DailyMed: Tracleer (bosentan) prescribing information, Actelion Pharmaceuticals US, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=749e42fb-2fe0-45dd-9268-b43bb3f4081c)、版 2025-11-17、参照日 2026-11-19）。既知の情報によると、ボセンタンはエンドセリン ET-A/ET-B 受容体の二重拮抗薬で、肺動脈性肺高血圧症と全身性強皮症で使用されてきました。
 
 関節リウマチでは、エンドセリン-1 が滑膜の炎症や血管障害に関与すると考えられています。マウスのコラーゲン誘発関節炎モデルでは、ボセンタンが TNF-α を介した炎症と関節の痛覚過敏を軽減しました。また、ザイモサン誘発関節炎モデルでも、エンドセリン受容体の遮断により好中球の集積や浮腫が抑えられています。
 
@@ -143,7 +143,7 @@ TxGNN モデルは**関節リウマチ (Rheumatoid Arthritis)** に有効であ�
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
@@ -151,6 +151,7 @@ TxGNN モデルは**関節リウマチ (Rheumatoid Arthritis)** に有効であ�
 | 2026-11-06 | 削除：「日本での有効な承認は現在なく」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-06 | 削除：「日本での承認状況（取消の経緯）と供給可否の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-17 | 表：622512801 は有効ではなく薬価基準から削除済み | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Tracleer (bosentan) prescribing information, Actelion Pharmaceuticals US, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=749e42fb-2fe0-45dd-9268-b43bb3f4081c) |
 
 <!-- review:end log -->
 

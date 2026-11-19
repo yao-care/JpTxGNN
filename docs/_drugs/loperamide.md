@@ -55,7 +55,7 @@ TxGNN モデルは**急性伝染性結膜炎 (Acute Contagious Conjunctivitis)**
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。ロペラミドは末梢性μオピオイド受容体作動薬として消化管の蠕動を抑え、下痢症状を和らげる薬です。
+米国 FDA が承認した Loperamide の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「in vitro試験及び動物試験において、ロペラミド塩酸塩カプセルは腸管運動を抑制し、腸管を通過する水及び電解質の移動に影響を及ぼすことにより作用することが示されている。ロペラミドは腸管壁のオピオイド受容体に結合する。」英語原文："In vitro and animal studies show that loperamide hydrochloride capsules act by slowing intestinal motility and by affecting water and electrolyte movement through the bowel. Loperamide binds to the opiate receptor in the gut wall."（[DailyMed: loperamide hydrochloride prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=74b9893a-18c3-4117-85c2-edab8e7b3b3b)、版 2026-07-09、参照日 2026-11-19）。ロペラミドは末梢性μオピオイド受容体作動薬として消化管の蠕動を抑え、下痢症状を和らげる薬です。
 
 一方、急性伝染性結膜炎は眼の感染性炎症であり、腸管運動を標的とするロペラミドの作用とは結びつきません。眼への作用も、抗菌・抗ウイルス・抗寄生虫活性も知られていません。このスコアは TxGNN モデル（ディープラーニング）によるもので、モデルが学習した関連疾患間の類似性を反映している可能性があり、生物学的な根拠ではありません。
 
@@ -123,12 +123,13 @@ TxGNN モデルは**急性伝染性結膜炎 (Acute Contagious Conjunctivitis)**
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「日本では現在、販売中の承認はなく、8 件すべてが取消済みです」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-06 | 削除：「日本では販売中の承認がなく、安全性情報も不足しています」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: loperamide hydrochloride prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=74b9893a-18c3-4117-85c2-edab8e7b3b3b) |
 
 <!-- review:end log -->
 

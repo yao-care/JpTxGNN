@@ -55,7 +55,7 @@ TxGNN モデルは**肢中間部異形成症 Hunter-Thompson 型 (acromesomelic 
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、メロキシカムは COX-2 を優先的に阻害する非ステロイド性抗炎症薬（NSAID）で、プロスタグランジンを介した炎症と疼痛を抑えます。関節リウマチでの使用が既存適応症です。
+米国 FDA が承認した Meloxicam の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「メロキシカムは鎮痛作用、抗炎症作用及び解熱作用を有する。Zybic™の作用機序は、他のNSAIDsと同様に完全には解明されていないが、シクロオキシゲナーゼ（COX-1及びCOX-2）の阻害が関与している。」英語原文："Meloxicam has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of Zybic™, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2)."（[DailyMed: Zybic (meloxicam) prescribing information, Redmont Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a1c2d65f-ebb1-48bf-8fa1-c216f7d570ec)、版 2026-09-25、参照日 2026-11-19）。既知の情報によると、メロキシカムは COX-2 を優先的に阻害する非ステロイド性抗炎症薬（NSAID）で、プロスタグランジンを介した炎症と疼痛を抑えます。関節リウマチでの使用が既存適応症です。
 
 一方、予測された疾患は CDMP1/GDF5 の異常による遺伝性の骨格形成異常で、COX-2 を介した炎症が主な病態とは考えられていません。そのため、機序面からこの予測を裏付ける根拠は乏しく、TxGNN のスコアは高いものの生物学的な裏付けは弱いといえます。
 
@@ -129,12 +129,13 @@ TxGNN モデルは**肢中間部異形成症 Hunter-Thompson 型 (acromesomelic 
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「現在有効な承認はなく、20 件すべてが取消済みです」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-06 | 削除：「日本で承認が取り消されている経緯の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Zybic (meloxicam) prescribing information, Redmont Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a1c2d65f-ebb1-48bf-8fa1-c216f7d570ec) |
 
 <!-- review:end log -->
 

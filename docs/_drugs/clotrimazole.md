@@ -56,7 +56,7 @@ TxGNN モデルは**尋常性ざ瘡 (acne (disease))** に有効である可能�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、クロトリマゾールは真菌の CYP51（エルゴステロール合成に関わる酵素）を阻害する抗真菌薬です。
+米国 FDA が承認した Clotrimazole の添付文書（Prescribing Information）の「Clinical Pharmacology」の項によると（非公式訳）、「クロトリマゾールは広域スペクトルの抗真菌薬であり、細胞膜の透過性を変化させることにより病原性酵母の増殖を阻害する。クロトリマゾールの作用は薬物濃度20 mcg/mLまでは静真菌的であり、より高濃度ではin vitroにおいてCandida albicansおよびその他のCandida属菌種に対して殺真菌的である可能性がある。」英語原文："Clotrimazole is a broad-spectrum antifungal agent that inhibits the growth of pathogenic yeasts by altering the permeability of cell membranes. The action of clotrimazole is fungistatic at concentrations of drug up to 20 mcg/mL and may be fungicidal in vitro against Candida albicans and other species of the genus Candida at higher concentrations."（[DailyMed: clotrimazole prescribing information, Rising Pharma Holdings, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=980736aa-751a-4642-ab85-a309435fd02f)、版 2025-03-27、参照日 2026-11-19）。既知の情報によると、クロトリマゾールは真菌の CYP51（エルゴステロール合成に関わる酵素）を阻害する抗真菌薬です。
 
 ざ瘡では Malassezia（マラセチア）などの皮膚常在真菌が炎症に関与する可能性が議論されており、真菌の定着や局所炎症を抑えることで間接的に作用する可能性があります。ただし、ざ瘡への直接的な作用は推測の域を出ません。
 
@@ -96,18 +96,24 @@ TxGNN モデルは**尋常性ざ瘡 (acne (disease))** に有効である可能�
 - 添付文書の警告・禁忌の確認と、安全性スクリーニングの実施
 - 外用での適用を想定した剤形・投与経路の適合性評価
 
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: clotrimazole prescribing information, Rising Pharma Holdings, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=980736aa-751a-4642-ab85-a309435fd02f) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。
 臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-
-
-
-
 
 <!-- brand-names:start -->
 ## 日本での販売名

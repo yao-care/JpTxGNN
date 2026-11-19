@@ -56,7 +56,7 @@ TxGNN モデルは **HIV感染症 (HIV infectious disease)** に有効である�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報では、プラバスタチンは HMG-CoA 還元酵素阻害薬（スタチン）に属する脂質低下薬です。
+米国 FDA が承認した Pravastatin の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「プラバスタチンは、コレステロールの前駆体であるメバロン酸へのHMG-CoAの変換を触媒する律速酵素であるHMG-CoA還元酵素の可逆的阻害剤である。」英語原文："Pravastatin is a reversible inhibitor of HMG-CoA reductase, the rate-limiting enzyme that converts HMG-CoA to mevalonate, a precursor of cholesterol."（[DailyMed: pravastatin sodium prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=be592e98-8a17-4c18-99b8-0f3a67000e2d)、版 2026-10-23、参照日 2026-11-19）。既知の情報では、プラバスタチンは HMG-CoA 還元酵素阻害薬（スタチン）に属する脂質低下薬です。
 
 抗ウイルス作用が直接の根拠になるとは考えにくく、関連は代謝面・心血管面にあると見られます。HIV 患者では、プロテアーゼ阻害薬などの抗レトロウイルス療法に伴う脂質異常症がよく見られます。慢性的な免疫活性化や血管内皮機能障害により、心血管リスクも高まります。プラバスタチンは LDL コレステロールを下げ、炎症や内皮機能障害を和らげる可能性があります。
 
@@ -127,18 +127,24 @@ TxGNN モデルは **HIV感染症 (HIV infectious disease)** に有効である�
 - 抗レトロウイルス薬、特にプロテアーゼ阻害薬との併用時の相互作用管理計画
 - HIV 感染そのものの転帰（ウイルス量、免疫活性化など）を評価するエンドポイントの設定
 
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: pravastatin sodium prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=be592e98-8a17-4c18-99b8-0f3a67000e2d) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。
 臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-
-
-
-
 
 <!-- brand-names:start -->
 ## 日本での販売名

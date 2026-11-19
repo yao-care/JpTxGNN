@@ -56,7 +56,7 @@ TxGNN モデルは **Rasmussen 亜急性脳炎 (Rasmussen subacute encephalitis)
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、アマンタジンは NMDA 受容体拮抗作用、ドパミン作動性の調節作用、M2 チャネル阻害作用を持つ薬剤です。パーキンソン症候群と A 型インフルエンザでの使用実績があります。
+米国 FDA が承認した Amantadine の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「パーキンソン病患者におけるジスキネジアの治療、またはパーキンソン病患者で「オフ」エピソードを呈する患者に対するレボドパ/カルビドパとの併用療法において、アマンタジンが有効性を発揮する機序は不明である。アマンタジンはNMDA受容体の弱い不競合的拮抗薬である。」英語原文："The mechanism by which amantadine exerts efficacy in the treatment of dyskinesia in patients with Parkinson's disease or as adjunctive treatment to levodopa/carbidopa in patients with Parkinson's disease experiencing 'off' episodes is unknown. Amantadine is a weak uncompetitive antagonist of the NMDA receptor."（[DailyMed: Gocovri (amantadine) prescribing information, Adamas Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=82ff865f-78f3-4c94-b6a9-727a54944b28)、版 2026-10-05、参照日 2026-11-19）。既知の情報によると、アマンタジンは NMDA 受容体拮抗作用、ドパミン作動性の調節作用、M2 チャネル阻害作用を持つ薬剤です。パーキンソン症候群と A 型インフルエンザでの使用実績があります。
 
 Rasmussen 脳炎では、グルタミン酸による興奮毒性が病態に関与すると考えられています。アマンタジンの NMDA 拮抗作用が、理論上はこの興奮毒性を弱める可能性があります。ただし、これは推測の域を出ません。臨床・文献の裏付けはなく、根拠は TxGNN の予測のみです。
 
@@ -138,12 +138,13 @@ PLA2G6 関連神経変性症については、[31366412](https://pubmed.ncbi.nlm
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 | 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Gocovri (amantadine) prescribing information, Adamas Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=82ff865f-78f3-4c94-b6a9-727a54944b28) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ TxGNN モデルは**鼻腔疾患 (nasal cavity disease)** に有効である可�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、クロルフェニラミンは H1 受容体拮抗薬に分類される抗アレルギー薬です。
+米国 FDA が承認した codeine phosphate and chlorpheniramine maleate（Chlorpheniramineを含む配合剤） の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「クロルフェニラミン　クロルフェニラミンはアルキルアミン系のプロピルアミン誘導体の抗ヒスタミン薬（H 1 受容体拮抗薬）であり、抗コリン作用および鎮静作用も有する。」英語原文："Chlorpheniramine Chlorpheniramine is a propylamine derivative antihistamine (H 1 -receptor antagonist) of the alkylamine class that also possesses anticholinergic and sedative activity."（[DailyMed: Tuxarin (codeine phosphate and chlorpheniramine maleate) prescribing information, Mainpointe Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a7cfab67-6087-4ab4-b7cd-4f9295413180)、版 2024-01-10、参照日 2026-11-19）。既知の情報によると、クロルフェニラミンは H1 受容体拮抗薬に分類される抗アレルギー薬です。
 
 H1 受容体を遮断すると、ヒスタミンによる鼻の血管透過性亢進、分泌亢進、鼻閉が抑えられると考えられます。動物モデルの研究には、H1 拮抗薬としてクロルフェニラミンを用い、肥満細胞の脱顆粒で誘発した鼻閉への影響を調べたものがあります。
 
@@ -109,6 +109,19 @@ H1 受容体を遮断すると、ヒスタミンによる鼻の血管透過性�
 - 添付文書の警告・禁忌の確認（現状は未取得）
 - 詳細な作用機序データ
 - 剤形・投与経路の適合性の評価
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Tuxarin (codeine phosphate and chlorpheniramine maleate) prescribing information, Mainpointe Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a7cfab67-6087-4ab4-b7cd-4f9295413180) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

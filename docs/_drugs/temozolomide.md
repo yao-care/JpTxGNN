@@ -58,7 +58,7 @@ TxGNN モデルは**馬尾腫瘍 (Cauda equina neoplasm)** に有効である可
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。ただし一般に、テモゾロミドは O6 位・N7 位のグアニンをメチル化する DNA アルキル化薬で、腫瘍細胞に DNA 損傷とアポトーシスを引き起こし、中枢神経系にも移行します。
+米国 FDA が承認した Temozolomide の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「テモゾロミドはそれ自体には直接的な活性はないが、生理的pHにおいて速やかに非酵素的に変換され、反応性化合物である5-(3-メチルトリアゼン-1-イル)-イミダゾール-4-カルボキサミド（MTIC）となる。MTICの細胞傷害作用は、主にDNAのアルキル化、主としてグアニンのO 6位及びN 7位のアルキル化によるものと考えられており、これによりDNA二本鎖切断が引き起こされ、プログラム細胞死に至る。」英語原文："Temozolomide is not directly active but undergoes rapid nonenzymatic conversion at physiologic pH to the reactive compound 5-(3-methyltriazen-1-yl)-imidazole-4-carboxamide (MTIC). The cytotoxicity of MTIC is thought to be primarily due to DNA alkylation, mainly at the O 6 and N 7 positions of guanine, which causes DNA double strand breaks and results in programmed cell death."（[DailyMed: Temodar (temozolomide) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=046a9011-3911-4d3f-a15f-fbb56d5aad56)、版 2026-02-20、参照日 2026-11-19）。ただし一般に、テモゾロミドは O6 位・N7 位のグアニンをメチル化する DNA アルキル化薬で、腫瘍細胞に DNA 損傷とアポトーシスを引き起こし、中枢神経系にも移行します。
 
 馬尾部は脊髄末端の神経上皮系腫瘍が生じる部位で、粘液乳頭状上衣腫などが代表的です。中枢神経系腫瘍で用いられてきた薬理特性から、機序的には馬尾・脊髄領域の腫瘍にも活性を示す可能性があります。
 
@@ -116,12 +116,13 @@ TxGNN の予測スコアは高いものの、馬尾腫瘍を直接検討した�
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「日本では市販されておらず、承認も取得されていないため、現時点では研究課題として位置づけるのが適切です」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-06 | 削除：「現在は市販なし」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Temodar (temozolomide) prescribing information, Merck Sharp & Dohme LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=046a9011-3911-4d3f-a15f-fbb56d5aad56) |
 
 <!-- review:end log -->
 

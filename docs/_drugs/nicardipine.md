@@ -56,7 +56,7 @@ TxGNN モデルは**原因不明の多因子性肺高血圧症 (pulmonary hypert
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、ニカルジピンはジヒドロピリジン系の L 型カルシウムチャネル遮断薬で、血管平滑筋を弛緩させて血管抵抗を下げます。
+米国 FDA が承認した Nicardipine の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「ニカルジピンは、血清カルシウム濃度を変化させることなく、心筋及び平滑筋へのカルシウムイオンの膜貫通流入を阻害する。心筋及び血管平滑筋の収縮過程は、特異的なイオンチャネルを介した細胞外カルシウムイオンのこれらの細胞内への移動に依存している。」英語原文："Nicardipine inhibits the transmembrane influx of calcium ions into cardiac muscle and smooth muscle without changing serum calcium concentrations. The contractile processes of cardiac muscle and vascular smooth muscle are dependent upon the movement of extracellular calcium ions into these cells through specific ion channels."（[DailyMed: Nicardipine Hydrochloride In Sodium Chloride (nicardipine hydrochloride) prescribing information, WG Critical Care, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9ffe6b6f-b8bc-413f-9bec-7639e9d71d3d)、版 2026-07-31、参照日 2026-11-19）。既知の情報によると、ニカルジピンはジヒドロピリジン系の L 型カルシウムチャネル遮断薬で、血管平滑筋を弛緩させて血管抵抗を下げます。
 
 肺高血圧症は肺血管の緊張と抵抗の上昇を特徴とするため、血管拡張作用という点で既存適応症（高血圧）と理論上の接点があります。ただし、これは機序からの推測であり、肺高血圧症に対する直接的な裏付けはありません。
 
@@ -127,12 +127,13 @@ TxGNN モデルは**原因不明の多因子性肺高血圧症 (pulmonary hypert
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「日本で承認が取消されている経緯と、現在の供給状況の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Nicardipine Hydrochloride In Sodium Chloride (nicardipine hydrochloride) prescribing information, WG Critical Care, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9ffe6b6f-b8bc-413f-9bec-7639e9d71d3d) |
 
 <!-- review:end log -->
 

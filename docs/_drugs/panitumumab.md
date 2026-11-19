@@ -56,7 +56,7 @@ TxGNN モデルは**薬剤性骨粗鬆症 (Drug-induced Osteoporosis)** に有�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、パニツムマブは抗 EGFR モノクローナル抗体であり、転移性結腸癌での使用が知られています。
+米国 FDA が承認した Panitumumab の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「EGFR は膜貫通型糖タンパク質であり、EGFR、HER2、HER3 及び HER4 を含む I 型受容体チロシンキナーゼのサブファミリーの一員である。EGFR は、皮膚及び毛包を含む正常上皮組織において恒常的に発現している。[…] パニツムマブは正常細胞及び腫瘍細胞の両方の EGFR に特異的に結合し、EGFR に対するリガンドの結合を競合的に阻害する。」英語原文："The EGFR is a transmembrane glycoprotein that is a member of a subfamily of type I receptor tyrosine kinases, including EGFR, HER2, HER3, and HER4. EGFR is constitutively expressed in normal epithelial tissues, including the skin and hair follicle. […] Panitumumab binds specifically to EGFR on both normal and tumor cells, and competitively inhibits the binding of ligands for EGFR."（[DailyMed: Vectibix (panitumumab) prescribing information, Amgen, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e0fa4bca-f245-4d92-ae29-b0c630a315c2)、版 2026-06-23、参照日 2026-11-19）。既知の情報によると、パニツムマブは抗 EGFR モノクローナル抗体であり、転移性結腸癌での使用が知られています。
 
 EGFR シグナルは骨芽細胞の分化や骨リモデリングに関与するとされますが、この関連は間接的で推測の域を出ません。むしろ EGFR 阻害により、低マグネシウム血症や低カルシウム血症が生じ、骨の健康を悪化させる可能性も考えられます。
 
@@ -110,18 +110,25 @@ EGFR シグナルは骨芽細胞の分化や骨リモデリングに関与する
 - EGFR 経路と骨代謝の関連を示す前臨床・機序研究
 - 薬剤性骨粗鬆症に対する観察研究または臨床試験の有無の確認
 - 既存の注射剤の日本での再供給可否の確認
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Vectibix (panitumumab) prescribing information, Amgen, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e0fa4bca-f245-4d92-ae29-b0c630a315c2) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。
 臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-
-
-
-
 
 <!-- brand-names:start -->
 ## 日本での販売名

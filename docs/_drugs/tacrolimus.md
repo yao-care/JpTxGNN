@@ -57,7 +57,7 @@ TxGNN モデルは**脂漏性皮膚炎 (Seborrheic Dermatitis)** に有効であ
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、タクロリムスはカルシニューリン阻害薬に分類される免疫抑制薬です。FKBP12 に結合してカルシニューリンを阻害し、NFAT を介した T 細胞の活性化と IL-2 などのサイトカイン産生を抑えます。
+米国 FDA が承認した Tacrolimus の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「タクロリムスは細胞内タンパク質であるFKBP-12に結合する。次いで、タクロリムス-FKBP-12、カルシウム、カルモジュリン及びカルシニューリン（哺乳類の細胞内に普遍的に存在する酵素）からなる複合体が形成され、カルシニューリンのホスファターゼ活性が阻害される。」英語原文："Tacrolimus binds to an intracellular protein, FKBP-12. A complex of tacrolimus-FKBP-12, calcium, calmodulin, and calcineurin (an ubiquitous mammalian intracellular enzyme) is then formed and the phosphatase activity of calcineurin inhibited."（[DailyMed: Envarsus Xr (tacrolimus) prescribing information, Veloxis Pharmaceuticals, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de2315b0-6344-43ac-9aea-3e3b68d828e7)、版 2025-02-26、参照日 2026-11-19）。既知の情報によると、タクロリムスはカルシニューリン阻害薬に分類される免疫抑制薬です。FKBP12 に結合してカルシニューリンを阻害し、NFAT を介した T 細胞の活性化と IL-2 などのサイトカイン産生を抑えます。
 
 脂漏性皮膚炎は、皮脂分泌の多い部位に生じる慢性の炎症性皮膚疾患です。*Malassezia* 属真菌に対する異常な炎症反応が関与すると考えられています。タクロリムスは既にアトピー性皮膚炎（外用）で承認されており、皮膚の T 細胞性炎症を抑える作用が確立されています。この点で、脂漏性皮膚炎の炎症成分にも機序的に適用できると考えられます。
 
@@ -146,12 +146,13 @@ TxGNN モデルは**脂漏性皮膚炎 (Seborrheic Dermatitis)** に有効であ
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「日本では脂漏性皮膚炎の適応がなく、現在有効な承認もありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-06 | 削除：「承認取消の経緯と」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Envarsus Xr (tacrolimus) prescribing information, Veloxis Pharmaceuticals, Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de2315b0-6344-43ac-9aea-3e3b68d828e7) |
 
 <!-- review:end log -->
 

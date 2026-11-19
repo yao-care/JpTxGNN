@@ -56,7 +56,7 @@ TxGNN モデルは **HIV感染症 (HIV infectious disease)** に有効である�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。フルバスタチンは HMG-CoA 還元酵素を阻害して LDL コレステロールを下げるスタチンです。スタチンには抗炎症作用や免疫調節作用があるとされ、慢性 HIV 感染で見られる炎症や免疫活性化に影響する可能性が考えられます。
+米国 FDA が承認した Fluvastatin の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「フルバスタチンは、コレステロールの前駆体であるメバロン酸への3-ヒドロキシ-3-メチルグルタリル補酵素A（HMG-CoA）の変換を触媒する律速酵素であるHMG-CoA還元酵素の競合阻害薬である。」英語原文："Fluvastatin is a competitive inhibitor of HMG-CoA reductase, the rate limiting enzyme that converts 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) to mevalonate, a precursor of cholesterol."（[DailyMed: Fluvastatin Sodium Er (fluvastatin sodium) prescribing information, Sandoz Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5ab4296c-87c2-4c64-b218-d620eef51310)、版 2024-01-31、参照日 2026-11-19）。フルバスタチンは HMG-CoA 還元酵素を阻害して LDL コレステロールを下げるスタチンです。スタチンには抗炎症作用や免疫調節作用があるとされ、慢性 HIV 感染で見られる炎症や免疫活性化に影響する可能性が考えられます。
 
 また、フルバスタチンは CYP3A4 の基質ではないため、プロテアーゼ阻害薬との相互作用が比較的少ないとされています。このため HIV 患者での使用が研究されてきました。
 
@@ -124,11 +124,12 @@ HIV 感染症そのものを直接の対象とした臨床試験や文献が確�
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Fluvastatin Sodium Er (fluvastatin sodium) prescribing information, Sandoz Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5ab4296c-87c2-4c64-b218-d620eef51310) |
 
 <!-- review:end log -->
 

@@ -57,10 +57,9 @@ TxGNN モデルは**血管疾患 (Vascular Disease)** に有効である可能�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、トラボプロストは FP 受容体作動薬（プロドラッグ）で、緑内障での眼圧下降効果が確認されています。
+米国 FDA が承認した Travoprost の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「プロスタグランジン類縁体であるトラボプロスト遊離酸は選択的FPプロスタノイド受容体作動薬であり、ぶどう膜強膜流出を増加させることによりIOPを低下させると考えられている。正確な作用機序は現時点では不明である。」英語原文："Travoprost free acid, a prostaglandin analog is a selective FP prostanoid receptor agonist, which is believed to reduce IOP by increasing uveoscleral outflow. The exact mechanism of action is unknown at this time."（[DailyMed: Travoprost Ophthalmic Soluton (travoprost) prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=498a376e-a74e-48d8-a022-ad15a1ecadb5)、版 2026-09-28、参照日 2026-11-19）。既知の情報によると、トラボプロストは FP 受容体作動薬（プロドラッグ）で、緑内障での眼圧下降効果が確認されています。
 
 血管疾患との関連としては、眼組織での血管作用（結膜充血、脈絡膜血流や網膜血管径への影響の可能性）が観察されています。ただし、これらは緑内障患者における間接的な所見であり、血管疾患の治療効果を示すものではありません。
-
 
 ## 臨床試験エビデンス
 
@@ -104,7 +103,6 @@ TxGNN モデルは**血管疾患 (Vascular Disease)** に有効である可能�
 | 670005833 | トラバタンズ点眼液０．００４％（選） | 点眼液 0.004%（選） | 緑内障 ※有効 |
 | 622640001 | トラボプロスト点眼液０．００４％「ニットー」 | 点眼液 0.004%「ニットー」 | 緑内障 ※有効 |
 
-
 ## 安全性に関する考慮事項
 
 - **知識グラフ上の禁忌関連疾患**（添付文書の記載ではなく、TxGNN 知識グラフに基づく）：ぶどう膜炎、虹彩疾患、毛様体疾患、汎ぶどう膜炎、虹彩炎、嚢胞様黄斑浮腫、黄斑網膜浮腫
@@ -126,18 +124,25 @@ TxGNN モデルは**血管疾患 (Vascular Disease)** に有効である可能�
 - FP 受容体作動と血管病態（血管緊張、リンパ管機能など）との機序的関連の前臨床検証
 - 点眼剤形から対象疾患への投与経路の適合性評価（全身投与の必要性を含む）
 - 対象疾患の絞り込み（具体的な疾患ごとの文献・試験の再調査）
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Travoprost Ophthalmic Soluton (travoprost) prescribing information, Sagent Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=498a376e-a74e-48d8-a022-ad15a1ecadb5) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。
 臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-
-
-
-
 
 <!-- brand-names:start -->
 ## 日本での販売名

@@ -56,7 +56,7 @@ TxGNN モデルは **アンブラス型先天性全身性多毛症 (Ambras type 
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、デュタステリドは 5α還元酵素（1型・2型）を阻害してジヒドロテストステロン (DHT) を低下させる薬剤で、前立腺肥大症での有効性が確立されています。
+米国 FDA が承認した Dutasteride の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「デュタステリドはテストステロンからDHTへの変換を阻害する。DHTは前立腺の初期発達及びその後の肥大に主として関与するアンドロゲンである。テストステロンは5α還元酵素によりDHTに変換され、この酵素には1型及び2型の2つのアイソフォームが存在する。」英語原文："Dutasteride inhibits the conversion of testosterone to DHT. DHT is the androgen primarily responsible for the initial development and subsequent enlargement of the prostate gland. Testosterone is converted to DHT by the enzyme 5 alpha-reductase, which exists as 2 isoforms, type 1 and type 2."（[DailyMed: dutasteride prescribing information, Strides Pharma Science Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c78d18cf-05df-4154-b2f9-39cc374ca9e3)、版 2026-08-27、参照日 2026-11-19）。既知の情報によると、デュタステリドは 5α還元酵素（1型・2型）を阻害してジヒドロテストステロン (DHT) を低下させる薬剤で、前立腺肥大症での有効性が確立されています。
 
 DHT の抑制は理論上、アンドロゲン依存性の毛髪成長に影響し得ます。実際、男性型脱毛症では適応外で使用されることがあります。ただし、アンブラス症候群は染色体・調節領域の遺伝的変化による先天性の毛髪成長異常です。DHT 抑制との関連を示す臨床的・機序的な根拠はなく、今回のスコアは TxGNN モデル(ディープラーニング)によるもので、モデルが学習した関連疾患間の類似性を反映している可能性があり、生物学的な根拠ではありません。機序的な妥当性は弱いと考えられます。
 
@@ -106,18 +106,25 @@ DHT の抑制は理論上、アンドロゲン依存性の毛髪成長に影響�
 - DHT 抑制と多毛症・毛幹異常との関連を示す前臨床・機序研究
 - より機序的に妥当な予測候補（毛髪関連の適応症など）の再評価
 - 妊娠・胎児への影響を踏まえた対象集団の安全性評価
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: dutasteride prescribing information, Strides Pharma Science Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c78d18cf-05df-4154-b2f9-39cc374ca9e3) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。
 臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-
-
-
-
 
 <!-- brand-names:start -->
 ## 日本での販売名

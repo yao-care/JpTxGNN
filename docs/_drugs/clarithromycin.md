@@ -55,7 +55,7 @@ TxGNN モデルは**多クローン性高粘稠度症候群 (polyclonal hypervis
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、クラリスロマイシンはマクロライド系抗生物質で、細菌のタンパク質合成を阻害することで抗菌作用を示します。マクロライド系には抗炎症・免疫調節作用も知られています。
+米国 FDA が承認した Clarithromycin の添付文書（Prescribing Information）の「Mechanism of Action」および「Microbiology」の項によると（非公式訳）、「クラリスロマイシンはマクロライド系抗菌薬である。[…] クラリスロマイシンは感受性菌の50Sリボソームサブユニットに結合し、タンパク質合成を阻害することにより抗菌作用を示す。」英語原文："Clarithromycin is a macrolide antimicrobial drug. […] Clarithromycin exerts its antibacterial action by binding to the 50S ribosomal subunit of susceptible bacteria resulting in inhibition of protein synthesis."（[DailyMed: clarithromycin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ba216276-b0bd-420a-9e0d-090bdfcc2460)、版 2026-11-12、参照日 2026-11-19）。既知の情報によると、クラリスロマイシンはマクロライド系抗生物質で、細菌のタンパク質合成を阻害することで抗菌作用を示します。マクロライド系には抗炎症・免疫調節作用も知られています。
 
 しかし、多クローン性高粘稠度症候群との間に、今回まとめたデータから妥当な機序的関連を示すことはできません。TxGNN のスコアは計算上の予測にすぎず、既存適応症との関連性も現時点では未検証です。
 
@@ -106,6 +106,19 @@ TxGNN モデルは**多クローン性高粘稠度症候群 (polyclonal hypervis
 - 詳細な作用機序データ（MOA）の補充
 - PMDA の添付文書（警告・禁忌）の取得と安全性確認
 - 他の予測疾患（特に点状表層角膜炎など、間接的な機序がありうるもの）を優先候補として再評価すること
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: clarithromycin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ba216276-b0bd-420a-9e0d-090bdfcc2460) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

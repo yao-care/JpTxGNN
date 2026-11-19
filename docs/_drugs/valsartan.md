@@ -55,12 +55,11 @@ TxGNN モデルは**悪性高血圧性腎疾患 (malignant hypertensive renal di
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、バルサルタンは AT1 受容体を遮断する ARB に分類され、高血圧症での有効性が確立されています。
+米国 FDA が承認した Valsartan の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「アンジオテンシンIIは、アンジオテンシン変換酵素（ACE、キニナーゼII）により触媒される反応によってアンジオテンシンIから生成される。アンジオテンシンIIはレニン-アンジオテンシン系の主要な昇圧物質であり、その作用には血管収縮、アルドステロンの合成及び分泌の刺激、心臓刺激並びにナトリウムの腎再吸収が含まれる。[…] Diovan（バルサルタン）は、血管平滑筋や副腎など多くの組織において、アンジオテンシンIIのAT 1受容体への結合を選択的に遮断することにより、アンジオテンシンIIの血管収縮作用及びアルドステロン分泌作用を遮断する。」英語原文："Angiotensin II is formed from angiotensin I in a reaction catalyzed by angiotensin-converting enzyme (ACE, kininase II). Angiotensin II is the principal pressor agent of the renin-angiotensin system, with effects that include vasoconstriction, stimulation of synthesis and release of aldosterone, cardiac stimulation, and renal reabsorption of sodium. […] Diovan (valsartan) blocks the vasoconstrictor and aldosterone-secreting effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT 1 receptor in many tissues, such as vascular smooth muscle and the adrenal gland."（[DailyMed: Diovan (valsartan) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5ddba454-f3e6-43c2-a7a6-58365d297213)、版 2026-08-11、参照日 2026-11-19）。既知の情報によると、バルサルタンは AT1 受容体を遮断する ARB に分類され、高血圧症での有効性が確立されています。
 
 悪性高血圧では、アンジオテンシンII の上昇が腎血管障害の一因になると考えられています。AT1 受容体遮断により、血圧とは別に腎血管の傷害や炎症を抑える可能性があり、機序的には適用可能と考えられます。
 
 ただし、裏付けとなる論文（PMID 24368192）はエンドセリン拮抗薬アボセンタンの動物試験で、バルサルタン自体の直接的なエビデンスではありません。
-
 
 ## 臨床試験エビデンス
 
@@ -106,18 +105,25 @@ TxGNN モデルは**悪性高血圧性腎疾患 (malignant hypertensive renal di
 - PMDA 添付文書の警告・禁忌の取得と解析（安全性スクリーニングの前提）
 - 市販状況の確認（現行の承認・供給状況）
 - 次点候補として、悪性腎血管性高血圧（ARB クラスの動物データあり）や、慢性肺性心（観察研究が多数）の評価も検討
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Diovan (valsartan) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5ddba454-f3e6-43c2-a7a6-58365d297213) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。
 臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-
-
-
-
 
 <!-- brand-names:start -->
 ## 日本での販売名

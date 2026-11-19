@@ -55,7 +55,7 @@ TxGNN モデルは **β-ケトチオラーゼ欠損症 (beta-ketothiolase defici
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。
+米国 FDA が承認した Levetiracetam の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「レベチラセタムが抗てんかん作用を発揮する正確な機序は不明である。ラット脳組織において、レベチラセタムの飽和性かつ立体選択的な神経結合部位が報告されている。実験データから、この結合部位は小胞エキソサイトーシスの調節に関与すると考えられているシナプス小胞タンパク質SV2Aであることが示されている。」英語原文："The precise mechanism(s) by which levetiracetam exerts its antiepileptic effect is unknown. A saturable and stereoselective neuronal binding site in rat brain tissue has been described for levetiracetam. Experimental data indicate that this binding site is the synaptic vesicle protein SV2A, thought to be involved in the regulation of vesicle exocytosis."（[DailyMed: Keppra (levetiracetam) prescribing information, UCB, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c6d5784d-abf9-45fe-ac5a-d5c53bd50f7e)、版 2026-11-11、参照日 2026-11-19）。
 
 β-ケトチオラーゼ欠損症は、イソロイシンとケトン体の代謝に関わる先天代謝異常症です。レベチラセタムとの間に既知の機序的なつながりはなく、症候性のてんかん発作に対する間接的な役割が考えられる程度です。
 
@@ -90,6 +90,19 @@ TxGNN モデルは **β-ケトチオラーゼ欠損症 (beta-ketothiolase defici
 - 詳細な薬物作用機序データ（MOA）の取得
 - 添付文書の警告・禁忌情報の確認
 - β-ケトチオラーゼ欠損症との機序的関連を示す前臨床または臨床研究の有無の調査
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Keppra (levetiracetam) prescribing information, UCB, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c6d5784d-abf9-45fe-ac5a-d5c53bd50f7e) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

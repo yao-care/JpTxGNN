@@ -56,7 +56,7 @@ TxGNN モデルは**馬尾症候群 (Cauda Equina Syndrome)** に有効である
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。ただし薬理データでは、トロピカミドはムスカリン受容体（M2、M3、M4、M5）に作用する合成低分子で、眼の検査で水晶体、硝子体、網膜を観察しやすくするための短時間作用型散瞳薬として使われています。
+米国 FDA が承認した Tropicamide の添付文書（Prescribing Information）の「Clinical Pharmacology」の項によると（非公式訳）、「本抗コリン製剤は、コリン作動性刺激に対する虹彩括約筋及び毛様体筋の反応を遮断し、瞳孔を散大させる(散瞳)。高濃度製剤(1%)は調節麻痺も引き起こす。」英語原文："This anticholinergic preparation blocks the responses of the sphincter muscle of the iris and the ciliary muscle to cholinergic stimulation, dilating the pupil (mydriasis). The stronger preparation (1%) also paralyzes accommodation."（[DailyMed: Mydriacyl (tropicamide) prescribing information, Alcon Laboratories, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0d4f4a2e-eb00-4c65-b3fa-baf5738d468d)、版 2023-02-15、参照日 2026-11-19）。ただし薬理データでは、トロピカミドはムスカリン受容体（M2、M3、M4、M5）に作用する合成低分子で、眼の検査で水晶体、硝子体、網膜を観察しやすくするための短時間作用型散瞳薬として使われています。
 
 馬尾症候群では膀胱機能障害が起こることがあります。抗ムスカリン作用により、排尿筋の過活動を抑えられる可能性が理論上は考えられます。ただし、神経圧迫という根本原因には働きません。また、トロピカミドは点眼剤であり、全身投与での使用実績はありません。この関連性は TxGNN の予測のみに基づいています。
 
@@ -116,12 +116,13 @@ TxGNN モデルは**馬尾症候群 (Cauda Equina Syndrome)** に有効である
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「点眼剤として販売終了となっており」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Mydriacyl (tropicamide) prescribing information, Alcon Laboratories, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0d4f4a2e-eb00-4c65-b3fa-baf5738d468d) |
 
 <!-- review:end log -->
 

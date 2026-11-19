@@ -56,7 +56,7 @@ TxGNN モデルは**三叉神経腫瘍 (Trigeminal Nerve Neoplasm)** に有効�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。バルプロ酸は抗けいれん薬・抗てんかん薬・躁状態治療薬として使われてきた薬で、GABA 作動性の抑制増強、ナトリウムチャネルおよび T 型カルシウムチャネルの遮断が知られています。また、ヒストン脱アセチル化酵素（HDAC）を阻害することから、理論上は腫瘍に対する抗増殖作用も考えられます。
+米国 FDA が承認した Valproic Acid の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「バルプロ酸は消化管内でバルプロ酸イオンに解離する。バルプロ酸が抗てんかん作用を発揮する機序は確立されていない。てんかんにおけるその作用は、脳内のγ-アミノ酪酸(GABA)濃度の上昇に関連することが示唆されている。」英語原文："Valproic acid dissociates to the valproate ion in the gastrointestinal tract. The mechanisms by which valproate exerts its antiepileptic effects have not been established. It has been suggested that its activity in epilepsy is related to increased brain concentrations of gamma-aminobutyric acid (GABA)."（[DailyMed: Valproic (valproic acid) prescribing information, Aphena Pharma Solutions - Tennessee, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=34a0d45a-4388-7d8b-e063-6394a90a6c3f)、版 2025-05-23、参照日 2026-11-19）。バルプロ酸は抗けいれん薬・抗てんかん薬・躁状態治療薬として使われてきた薬で、GABA 作動性の抑制増強、ナトリウムチャネルおよび T 型カルシウムチャネルの遮断が知られています。また、ヒストン脱アセチル化酵素（HDAC）を阻害することから、理論上は腫瘍に対する抗増殖作用も考えられます。
 
 ただし、三叉神経腫瘍に特異的な証拠はなく、この予測の根拠は TxGNN のスコアだけです。取得された文献（Sturge-Weber 症候群の症例報告）も、バルプロ酸の効果を直接示すものではありません。
 
@@ -142,13 +142,14 @@ TxGNN モデルは**三叉神経腫瘍 (Trigeminal Nerve Neoplasm)** に有効�
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「また、日本で有効な承認がなく、添付文書の安全性情報も未確認のため、現時点では先に進めません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-06 | 削除：「日本で承認が失効している経緯の確認（現行の承認状況の再確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Valproic (valproic acid) prescribing information, Aphena Pharma Solutions - Tennessee, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=34a0d45a-4388-7d8b-e063-6394a90a6c3f) |
 
 <!-- review:end log -->
 

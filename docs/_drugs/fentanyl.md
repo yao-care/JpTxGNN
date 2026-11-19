@@ -55,7 +55,7 @@ TxGNN モデルは**腎性抗利尿ホルモン不適切分泌症候群 (Nephrog
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、フェンタニルはμオピオイド受容体作動薬で、中枢性の鎮痛作用を持ちます。
+米国 FDA が承認した Fentanyl の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「フェンタニルクエン酸塩注射液はオピオイド作動薬であり、治療上価値のある主な作用は鎮痛及び鎮静である。」英語原文："Fentanyl Citrate Injection is an opioid agonist, whose principal actions of therapeutic value are analgesia and sedation."（[DailyMed: fentanyl citrate prescribing information, Phlow Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=58dcd3f7-e3d8-4929-a186-8f680a51ff11)、版 2026-10-23、参照日 2026-11-19）。既知の情報によると、フェンタニルはμオピオイド受容体作動薬で、中枢性の鎮痛作用を持ちます。
 
 この予測は、機序面からは**妥当とは言い難い**と判断します。この疾患は、バソプレシン V2 受容体の機能獲得型変異によって起こります。フェンタニルにはこの受容体の異常を是正する機序が知られていません。むしろオピオイドは抗利尿ホルモンの放出を促す可能性があるため、病態を悪化させる方向に働くおそれもあります。
 
@@ -118,11 +118,12 @@ TxGNN モデルは**腎性抗利尿ホルモン不適切分泌症候群 (Nephrog
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「日本では有効な承認もなく、現時点で再利用を進める根拠はありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: fentanyl citrate prescribing information, Phlow Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=58dcd3f7-e3d8-4929-a186-8f680a51ff11) |
 
 <!-- review:end log -->
 

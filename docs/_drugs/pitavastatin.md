@@ -55,7 +55,7 @@ TxGNN モデルは**コレステロールエステル転送蛋白欠損症 (chol
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報では、ピタバスタチンは HMG-CoA 還元酵素阻害薬に分類され、肝臓でのコレステロール合成を抑えて LDL コレステロールを下げることで脂質異常症に使用されています。
+米国 FDA が承認した Pitavastatin の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「ピタバスタチンは、コレステロール生合成経路の律速段階である HMG-CoA からメバロン酸への変換を触媒する酵素、3-ヒドロキシ-3-メチルグルタリル補酵素 A（HMG-CoA）還元酵素の阻害薬である。その結果、LDL 受容体の発現とそれに続く血中から肝臓への LDL の取り込みが促進され、血漿 TC が低下する。」英語原文："Pitavastatin is an inhibitor of 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase, the enzyme that catalyzes the conversion of HMG-CoA to mevalonate, a rate-limiting step in the biosynthetic pathway for cholesterol. As a result, the expression of LDL-receptors followed by the uptake of LDL from blood to liver is accelerated and then the plasma TC decreases."（[DailyMed: Livalo (pitavastatin calcium) prescribing information, Kowa Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=44dcbf97-99ec-427c-ba50-207e0069d6d2)、版 2026-03-31、参照日 2026-11-19）。既知の情報では、ピタバスタチンは HMG-CoA 還元酵素阻害薬に分類され、肝臓でのコレステロール合成を抑えて LDL コレステロールを下げることで脂質異常症に使用されています。
 
 CETP 欠損症は、コレステロールエステル転送蛋白の機能低下により、主に HDL コレステロールが著しく高くなる脂質代謝異常です。どちらも脂質代謝に関わる疾患という点では関連があります。しかし、スタチンの主作用は LDL-C の低下であり、HDL-C 高値を特徴とする本疾患で治療上の利益が得られるという直接の機序的根拠も臨床的根拠もありません。したがって現時点では、モデルによる予測の域を出ません。
 
@@ -102,6 +102,19 @@ CETP 欠損症は、コレステロールエステル転送蛋白の機能低下
 - 添付文書の警告・禁忌の確認（安全性スクリーニングの前提）
 
 **参考（別の予測候補）：** 同じデータには、HIV 感染症に関する予測もあります。第 3 相 RCT の REPRIEVE 試験などがあり、評価は Proceed with Guardrails（L1）です。ただしこれは抗ウイルス効果ではなく、HIV 感染者の心血管疾患予防に関するエビデンスです。別途、独立した評価が必要です。
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Livalo (pitavastatin calcium) prescribing information, Kowa Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=44dcbf97-99ec-427c-ba50-207e0069d6d2) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

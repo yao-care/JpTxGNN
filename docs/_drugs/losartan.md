@@ -55,7 +55,7 @@ TxGNN モデルは**悪性高血圧性腎疾患 (Malignant Hypertensive Renal Di
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。ただしロサルタンは AT1 受容体を遮断する ARB として知られています。この作用により、アンジオテンシンII が引き起こす NF-κB の活性化や腎血管の障害が抑えられると考えられます。
+米国 FDA が承認した Losartan の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「アンジオテンシンII［アンジオテンシン変換酵素（ACE、キニナーゼII）が触媒する反応によりアンジオテンシンIから生成される］は強力な血管収縮物質であり、レニン・アンジオテンシン系の主要な血管作動性ホルモンであって、高血圧の病態生理における重要な構成要素である。アンジオテンシンIIはまた、副腎皮質によるアルドステロン分泌を刺激する。[…] ロサルタン及びその主要活性代謝物は、多くの組織（例：血管平滑筋、副腎）に存在するAT 1受容体へのアンジオテンシンIIの結合を選択的に遮断することにより、アンジオテンシンIIの血管収縮作用及びアルドステロン分泌作用を遮断する。」英語原文："Angiotensin II [formed from angiotensin I in a reaction catalyzed by angiotensin converting enzyme (ACE, kininase II)] is a potent vasoconstrictor, the primary vasoactive hormone of the renin-angiotensin system, and an important component in the pathophysiology of hypertension. It also stimulates aldosterone secretion by the adrenal cortex. […] Losartan and its principal active metabolite block the vasoconstrictor and aldosterone-secreting effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT 1 receptor found in many tissues, (e.g., vascular smooth muscle, adrenal gland)."（[DailyMed: Losartan Potassium 50 Mg (losartan potassium) prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=498f26a1-5030-4f9b-9599-07d50e912d41)、版 2026-09-15、参照日 2026-11-19）。ただしロサルタンは AT1 受容体を遮断する ARB として知られています。この作用により、アンジオテンシンII が引き起こす NF-κB の活性化や腎血管の障害が抑えられると考えられます。
 
 高血圧症と悪性高血圧性腎疾患は、どちらもレニン・アンジオテンシン系の過剰な活性化が関わる点で共通しています。悪性高血圧性腎硬化症のラットモデルでも、アンジオテンシンII と NF-κB 系の関与が報告されています。そのため、機序的には適用できる可能性があります。
 
@@ -124,12 +124,13 @@ TxGNN モデルは**悪性高血圧性腎疾患 (Malignant Hypertensive Renal Di
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「日本では、ロサルタンの承認 20 件はすべて承認整理済みで、現在販売中のものはありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-06 | 削除：「日本では現在販売中の承認がないため、再利用を進める場合の薬事上の位置づけの確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Losartan Potassium 50 Mg (losartan potassium) prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=498f26a1-5030-4f9b-9599-07d50e912d41) |
 
 <!-- review:end log -->
 

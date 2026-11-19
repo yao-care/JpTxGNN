@@ -56,7 +56,7 @@ TxGNN モデルは**子宮靭帯腺癌 (uterine ligament adenocarcinoma)** に�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。アテゾリズマブは PD-L1 を阻害する抗体医薬であり、PD-L1 を発現する腫瘍で T 細胞の抗腫瘍活性を回復させる可能性があります。
+米国 FDA が承認した Atezolizumab の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「PD L1は腫瘍細胞および/または腫瘍浸潤免疫細胞に発現することがあり、腫瘍微小環境において抗腫瘍免疫応答の抑制に寄与しうる。PD L1がT細胞および抗原提示細胞上に存在するPD 1受容体およびB7.1受容体に結合すると、細胞傷害性T細胞の活性、T細胞の増殖およびサイトカイン産生が抑制される。[…] アテゾリズマブはPD L1に結合し、PD L1とPD 1受容体およびB7.1受容体の両方との相互作用を阻害するモノクローナル抗体である。」英語原文："PD L1 may be expressed on tumor cells and/or tumor infiltrating immune cells and can contribute to the inhibition of the anti-tumor immune response in the tumor microenvironment. Binding of PD L1 to the PD 1 and B7.1 receptors found on T cells and antigen presenting cells suppresses cytotoxic T-cell activity, T-cell proliferation and cytokine production. […] Atezolizumab is a monoclonal antibody that binds to PD L1 and blocks its interactions with both PD 1 and B7.1 receptors."（[DailyMed: Tecentriq (atezolizumab) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6fa682c9-a312-4932-9831-f286908660ee)、版 2026-10-13、参照日 2026-11-19）。アテゾリズマブは PD-L1 を阻害する抗体医薬であり、PD-L1 を発現する腫瘍で T 細胞の抗腫瘍活性を回復させる可能性があります。
 
 移行上皮癌は、ナレッジグラフに記録された関係にすぎません。子宮靭帯腺癌は、PD-L1 を発現する腺癌という点で機序的な接点が想定できます。ただし、この疾患に対する臨床的・文献的な裏づけはなく、現時点の妥当性はモデル予測に依存しています。
 
@@ -112,6 +112,19 @@ TxGNN モデルは**子宮靭帯腺癌 (uterine ligament adenocarcinoma)** に�
 - 添付文書（PMDA）にもとづく警告・禁忌の整理と安全性評価
 - 詳細な作用機序データの補完
 - 投与経路や剤形の適合性の確認
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Tecentriq (atezolizumab) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6fa682c9-a312-4932-9831-f286908660ee) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

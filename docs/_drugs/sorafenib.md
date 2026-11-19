@@ -56,7 +56,7 @@ TxGNN モデルは**脂肪肉腫 (liposarcoma)** に有効である可能性を�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。ソラフェニブは RAF、VEGFR、PDGFR、KIT を阻害するマルチキナーゼ阻害薬として知られています。腫瘍の血管新生と MAPK シグナルを抑える可能性があり、軟部肉腫でも同様の経路が関与すると考えられます。
+米国 FDA が承認した Sorafenib の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「ソラフェニブはin vitroにおいて腫瘍細胞の増殖を抑制するキナーゼ阻害剤である。ソラフェニブは複数の細胞内キナーゼ（c-CRAF、BRAF及び変異型BRAF）及び細胞表面キナーゼ（KIT、FLT- 3、RET、RET/PTC、VEGFR-1、VEGFR- 2、VEGFR- 3及びPDGFR-ß）を阻害することが示された。」英語原文："Sorafenib is a kinase inhibitor that decreases tumor cell proliferation in vitro. Sorafenib was shown to inhibit multiple intracellular (c-CRAF, BRAF and mutant BRAF) and cell surface kinases (KIT, FLT- 3, RET, RET/PTC, VEGFR-1, VEGFR- 2, VEGFR- 3, and PDGFR-ß)."（[DailyMed: Nexavar (sorafenib) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b50667e4-5ebc-4968-a646-d605058dbef0)、版 2023-08-28、参照日 2026-11-19）。ソラフェニブは RAF、VEGFR、PDGFR、KIT を阻害するマルチキナーゼ阻害薬として知られています。腫瘍の血管新生と MAPK シグナルを抑える可能性があり、軟部肉腫でも同様の経路が関与すると考えられます。
 
 脂肪肉腫は軟部肉腫の一種です。研究室レベルでは、脱分化型脂肪肉腫の細胞株でソラフェニブによる MAPK シグナルの抑制や増殖抑制が検討されています。ただし、これは脂肪肉腫の細胞株を含む前臨床研究であり、患者での有効性を示すものではありません。軟部肉腫に対する臨床的な活性は限定的で、組織型によって差があるとみられます。
 
@@ -114,18 +114,24 @@ TxGNN モデルは**脂肪肉腫 (liposarcoma)** に有効である可能性を�
 - 詳細な作用機序データの補充
 - 添付文書の警告・禁忌・注意事項の確認と安全性評価
 
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Nexavar (sorafenib) prescribing information, Bayer HealthCare Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b50667e4-5ebc-4968-a646-d605058dbef0) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。
 臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-
-
-
-
 
 <!-- brand-names:start -->
 ## 日本での販売名

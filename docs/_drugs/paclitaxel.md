@@ -55,7 +55,7 @@ description: "Paclitaxel：予測新適応症はParameningeal embryonal rhabdomy
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、パクリタキセルはタキサン系の微小管脱重合阻害薬です。微小管を安定化させて有糸分裂を停止させ、増殖の速い腫瘍細胞をアポトーシスに導きます。
+米国 FDA が承認した Paclitaxel の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「パクリタキセル（アルブミン懸濁型）注射用懸濁液は微小管阻害薬であり、チューブリン二量体からの微小管の重合を促進し、脱重合を阻止することにより微小管を安定化させる。この安定化により、間期及び有糸分裂期の細胞機能に不可欠な微小管ネットワークの正常な動的再構成が阻害される。」英語原文："Paclitaxel protein-bound particles for injectable suspension (albumin-bound) is a microtubule inhibitor that promotes the assembly of microtubules from tubulin dimers and stabilizes microtubules by preventing depolymerization. This stability results in the inhibition of the normal dynamic reorganization of the microtubule network that is essential for vital interphase and mitotic cellular functions."（[DailyMed: Paclitaxel Protein-Bound Particles For Injectable Suspension (Albumin-Bound) (paclitaxel) prescribing information, NorthStar Rx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e9d5093-fbfc-470a-8520-811c46a8870c)、版 2025-09-17、参照日 2026-11-19）。既知の情報によると、パクリタキセルはタキサン系の微小管脱重合阻害薬です。微小管を安定化させて有糸分裂を停止させ、増殖の速い腫瘍細胞をアポトーシスに導きます。
 
 作用が内分泌シグナルに依存しないため、ホルモン受容体陰性例、ホルモン抵抗性例、トリプルネガティブ乳癌でも基本となる化学療法薬として使われています。
 
@@ -161,12 +161,13 @@ description: "Paclitaxel：予測新適応症はParameningeal embryonal rhabdomy
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-10-31 | 削除：「現状は整理済みのみ」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-06 | 削除：「また、日本での有効な承認は現在ありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Paclitaxel Protein-Bound Particles For Injectable Suspension (Albumin-Bound) (paclitaxel) prescribing information, NorthStar Rx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e9d5093-fbfc-470a-8520-811c46a8870c) |
 
 <!-- review:end log -->
 

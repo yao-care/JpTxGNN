@@ -55,7 +55,7 @@ TxGNN モデルは **Ambras 型汎発性先天性多毛症 (Ambras type hypertri
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、タムスロシンは α1 アドレナリン受容体拮抗薬で、排尿障害の改善に使われる薬です。
+米国 FDA が承認した Tamsulosin の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「前立腺肥大症（BPH）に伴う症状は膀胱出口部閉塞に関連しており、膀胱出口部閉塞は静的要素と動的要素の2つの基礎的要素から構成される。静的要素は、一部は前立腺間質における平滑筋細胞の増殖により引き起こされる前立腺の腫大に関連している。[…] α1アドレナリン受容体遮断薬であるタムスロシンは、ヒト前立腺のα1受容体に対して選択性を示す。」英語原文："The symptoms associated with benign prostatic hyperplasia (BPH) are related to bladder outlet obstruction, which is comprised of two underlying components: static and dynamic. The static component is related to an increase in prostate size caused, in part, by a proliferation of smooth muscle cells in the prostatic stroma. […] Tamsulosin, an alpha 1 adrenoceptor blocking agent, exhibits selectivity for alpha 1 receptors in the human prostate."（[DailyMed: tamsulosin hydrochloride prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f6b6aeab-bedd-4254-8811-4f65cf8a351f)、版 2026-11-12、参照日 2026-11-19）。既知の情報によると、タムスロシンは α1 アドレナリン受容体拮抗薬で、排尿障害の改善に使われる薬です。
 
 Ambras 型多毛症は、TRPS1 遺伝子の制御に影響する染色体再配列に由来する遺伝性疾患です。α1 アドレナリン遮断がこの遺伝的な原因に作用する経路は知られていません。**この予測はモデル由来であり、機序面での裏付けは現時点でありません。**
 
@@ -119,11 +119,12 @@ Ambras 型多毛症に関する文献はありません。参考として、予�
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「取消済み」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: tamsulosin hydrochloride prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f6b6aeab-bedd-4254-8811-4f65cf8a351f) |
 
 <!-- review:end log -->
 

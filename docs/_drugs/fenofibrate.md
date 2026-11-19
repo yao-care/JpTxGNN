@@ -55,7 +55,7 @@ TxGNN モデルは**コレステロールエステル転送蛋白欠損症 (chol
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、フェノフィブラートはペルオキシソーム増殖因子活性化受容体α（PPARα）作動薬、かつトリグリセリド合成阻害薬に分類され、脂質異常症での有効性が確立されています。
+米国 FDA が承認した Fenofibrate の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「Antaraの活性本体はフェノフィブリン酸である。動物及びヒトにおけるフェノフィブリン酸の薬理作用は、フェノフィブラートの経口投与により検討されている。臨床で認められるフェノフィブリン酸の脂質改善作用は、in vivoではトランスジェニックマウスにおいて、in vitroではヒト肝細胞培養において、PPARα受容体の活性化により説明されている。」英語原文："The active moiety of Antara is fenofibric acid. The pharmacological effects of fenofibric acid in both animals and humans have been studied through oral administration of fenofibrate. The lipid-modifying effects of fenofibric acid seen in clinical practice have been explained in vivo in transgenic mice and in vitro in human hepatocyte cultures by the activation of PPAR alpha receptor."（[DailyMed: Antara (fenofibrate) prescribing information, Lupin Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=24790a18-0291-4b88-a724-acac43b616ce)、版 2025-10-01、参照日 2026-11-19）。既知の情報によると、フェノフィブラートはペルオキシソーム増殖因子活性化受容体α（PPARα）作動薬、かつトリグリセリド合成阻害薬に分類され、脂質異常症での有効性が確立されています。
 
 データ上の機序的な手がかりとして、PPARα の活性化は HDL コレステロールを上昇させ、リン脂質転送蛋白（PLTP）の遺伝子発現を誘導し、CETP 経路と重なる形でリポ蛋白代謝に影響すると考えられています。ただしこれは間接的な裏付けにとどまります。
 
@@ -106,6 +106,19 @@ CETP 欠損症は HDL コレステロールが高値となる稀な遺伝性疾�
 - 詳細な作用機序データ（DrugBank 等）の補充
 - CETP 欠損症における治療上の必要性と目標アウトカムの整理
 - ヒトでの症例報告や観察研究などの直接的エビデンスの探索
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Antara (fenofibrate) prescribing information, Lupin Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=24790a18-0291-4b88-a724-acac43b616ce) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

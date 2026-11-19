@@ -56,7 +56,7 @@ TxGNN モデルは**びまん性強皮症 (diffuse scleroderma)** に有効で�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。シプロフロキサシンは細菌の DNA ジャイレースとトポイソメラーゼ IV を阻害するフルオロキノロン系抗菌薬として知られています。
+米国 FDA が承認した Ciprofloxacin の添付文書（Prescribing Information）の「Mechanism of Action」および「Microbiology」の項によると（非公式訳）、「シプロフロキサシンはフルオロキノロン系抗菌薬に属する。[…] シプロフロキサシンの殺菌作用は、細菌のDNA複製、転写、修復および組換えに必要な酵素であるトポイソメラーゼII（DNAジャイレース）およびトポイソメラーゼIV（いずれもII型トポイソメラーゼ）の阻害によるものである。」英語原文："Ciprofloxacin is a member of the fluoroquinolone class of antibacterial agents. […] The bactericidal action of ciprofloxacin results from inhibition of the enzymes topoisomerase II (DNA gyrase) and topoisomerase IV (both Type II topoisomerases), which are required for bacterial DNA replication, transcription, repair, and recombination."（[DailyMed: Ciprofloxacin In Dextrose (ciprofloxacin) prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cbbbf939-3219-4515-a48e-ca264daa4d07)、版 2025-11-04、参照日 2026-11-19）。シプロフロキサシンは細菌の DNA ジャイレースとトポイソメラーゼ IV を阻害するフルオロキノロン系抗菌薬として知られています。
 
 強皮症との関連については、2 つの間接的な経路が報告されています。1 つは、強皮症患者由来の皮膚細胞で線維芽細胞のコラーゲン産生を低下させる抗線維化シグナルです。もう 1 つは、全身性強皮症に合併しやすい小腸細菌過剰増殖の治療です。
 
@@ -102,6 +102,18 @@ TxGNN モデルは**びまん性強皮症 (diffuse scleroderma)** に有効で�
 - 抗線維化作用の機序を裏付ける前臨床・機序データ
 - 添付文書の警告・禁忌の確認と、安全性の評価
 - 強皮症で併用されることの多い副腎皮質ステロイドとの相互作用の確認
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Ciprofloxacin In Dextrose (ciprofloxacin) prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cbbbf939-3219-4515-a48e-ca264daa4d07) |
+
+<!-- review:end log -->
 
 ## 免責事項
 

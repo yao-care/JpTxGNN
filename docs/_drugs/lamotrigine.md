@@ -55,7 +55,7 @@ TxGNN モデルは**三叉神経腫瘍 (Trigeminal Nerve Neoplasm)** に有効�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。一般的な知見では、ラモトリギンは電位依存性ナトリウムチャネルを遮断し、グルタミン酸の放出を抑えます。この作用で神経の異常な興奮が鎮まり、てんかんや双極性障害に効果を示します。
+米国 FDA が承認した Lamotrigine の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「ラモトリギンが抗痙攣作用を発揮する正確な機序は不明である。抗痙攣活性を検出するために設計された動物モデルにおいて、ラモトリギンは最大電撃痙攣（MES）試験及びペンチレンテトラゾール（scMet）試験において発作の伝播の抑制に有効であり、また抗てんかん活性に関する視覚及び電気誘発後発射（EEAD）試験において発作を抑制した。」英語原文："The precise mechanism(s) by which lamotrigine exerts its anticonvulsant action are unknown. In animal models designed to detect anticonvulsant activity, lamotrigine was effective in preventing seizure spread in the maximum electroshock (MES) and pentylenetetrazol (scMet) tests, and prevented seizures in the visually and electrically evoked after-discharge (EEAD) tests for antiepileptic activity."（[DailyMed: Lamotrigine Kit (lamotrigine) prescribing information, OWP Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=474fb321-575c-4b97-9dbe-080061652ee4)、版 2026-10-12、参照日 2026-11-19）。一般的な知見では、ラモトリギンは電位依存性ナトリウムチャネルを遮断し、グルタミン酸の放出を抑えます。この作用で神経の異常な興奮が鎮まり、てんかんや双極性障害に効果を示します。
 
 ただしこの機序は抗腫瘍作用ではありません。ラモトリギンに既知の抗腫瘍作用はなく、三叉神経腫瘍に適用できる機序的な根拠は確認できません。スコアが高い主な理由は、ラモトリギンが三叉神経痛（神経障害性の顔面痛）と関連していることだと考えられます。この予測は腫瘍そのものの治療効果を示すものとは言えません。
 
@@ -127,18 +127,25 @@ TxGNN モデルは**三叉神経腫瘍 (Trigeminal Nerve Neoplasm)** に有効�
 - 添付文書の警告・禁忌の確認（安全性スクリーニングに必須）
 - 現在日本で販売中の製剤の確認（有効な承認は 20 件）
 - 評価対象の見直し：三叉神経痛（L2、Proceed with Guardrails）を優先候補として検討する
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Lamotrigine Kit (lamotrigine) prescribing information, OWP Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=474fb321-575c-4b97-9dbe-080061652ee4) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。
 臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-
-
-
-
 
 <!-- brand-names:start -->
 ## 日本での販売名

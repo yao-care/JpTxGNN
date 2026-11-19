@@ -56,7 +56,7 @@ TxGNN モデルは**悪性高血圧性腎疾患 (malignant hypertensive renal di
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、カルベジロールは α1 遮断作用と β 遮断作用を併せ持つ血圧降下薬で、本態性高血圧症などで使用されてきました。
+米国 FDA が承認した Carvedilol の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「COREGはラセミ混合物であり、非選択的β-アドレナリン受容体遮断作用はS(-)エナンチオマーに存在し、α1-アドレナリン遮断作用はR(+)およびS(-)の両エナンチオマーに同等の強さで存在する。COREGは内因性交感神経刺激作用を有さない。」英語原文："COREG is a racemic mixture in which nonselective β-adrenoreceptor blocking activity is present in the S(-) enantiomer and α1-adrenergic blocking activity is present in both R(+) and S(-) enantiomers at equal potency. COREG has no intrinsic sympathomimetic activity."（[DailyMed: Coreg (carvedilol) prescribing information, Waylis Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=07c619c6-4a0c-445e-94fa-664a54f68a39)、版 2026-07-31、参照日 2026-11-19）。既知の情報によると、カルベジロールは α1 遮断作用と β 遮断作用を併せ持つ血圧降下薬で、本態性高血圧症などで使用されてきました。
 
 悪性高血圧性腎疾患は、重度の高血圧による腎障害です。カルベジロールの血圧低下作用と血管抵抗の低下作用は、機序的にはこの病態に関連し得ます。ただし、これは推測の域を出ず、裏付けとなる臨床・文献データはありません。
 
@@ -132,11 +132,12 @@ TxGNN モデルは**悪性高血圧性腎疾患 (malignant hypertensive renal di
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「日本でも現在有効な承認がなく、添付文書の安全性情報も未確認のため、先に進める根拠が不足しています」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Coreg (carvedilol) prescribing information, Waylis Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=07c619c6-4a0c-445e-94fa-664a54f68a39) |
 
 <!-- review:end log -->
 

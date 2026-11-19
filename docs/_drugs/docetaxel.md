@@ -55,7 +55,7 @@ TxGNN モデルは**ユーイング肉腫 (Ewing sarcoma)** に有効である�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。一般的な薬理知識として、ドセタキセルは微小管の脱重合を抑え、有糸分裂の停止を引き起こすことで、増殖の速い腫瘍細胞に細胞傷害性を示します。
+米国 FDA が承認した Docetaxel の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「ドセタキセルは、有糸分裂期及び間期の細胞機能に必須である細胞内の微小管ネットワークを破綻させることにより作用する抗悪性腫瘍薬である。ドセタキセルは遊離チューブリンに結合し、チューブリンの重合による安定な微小管の形成を促進すると同時に、その脱重合を阻害する。」英語原文："Docetaxel is an antineoplastic agent that acts by disrupting the microtubular network in cells that is essential for mitotic and interphase cellular functions. Docetaxel binds to free tubulin and promotes the assembly of tubulin into stable microtubules while simultaneously inhibiting their disassembly."（[DailyMed: Beizray (docetaxel) prescribing information, Zydus Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8fb7d980-d6c7-468b-a9f0-adff16101a4b)、版 2025-12-17、参照日 2026-11-19）。一般的な薬理知識として、ドセタキセルは微小管の脱重合を抑え、有糸分裂の停止を引き起こすことで、増殖の速い腫瘍細胞に細胞傷害性を示します。
 
 ユーイング肉腫は増殖が速い小児・若年成人の骨・軟部腫瘍であり、抗有糸分裂薬の作用が及ぶ可能性があります。前臨床研究では、ゲムシタビンの後にドセタキセルを投与する逐次投与で相乗的な細胞傷害性が示唆されています。
 
@@ -129,6 +129,19 @@ TxGNN モデルは**ユーイング肉腫 (Ewing sarcoma)** に有効である�
 - 詳細な作用機序データの補充
 - 単剤と併用レジメンの有効性を切り分ける比較データ
 - 骨髄抑制、好中球減少、末梢神経障害に対する安全性モニタリング計画
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Beizray (docetaxel) prescribing information, Zydus Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8fb7d980-d6c7-468b-a9f0-adff16101a4b) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

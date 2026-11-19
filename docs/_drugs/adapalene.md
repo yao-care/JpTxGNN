@@ -56,7 +56,7 @@ TxGNN モデルは **血漿亜鉛高値 (zinc, elevated plasma)** に有効で�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、アダパレンは RAR（β/γ 選択性）作動薬で、尋常性ざ瘡の治療薬として使用されてきました。
+米国 FDA が承認した Adapalene の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「アダパレンは特定のレチノイン酸核内受容体に結合するが、細胞質内の受容体タンパク質には結合しない。生化学的および薬理学的プロファイル試験により、アダパレンは細胞分化、角化および炎症過程の調節作用を有することが示されている。」英語原文："Adapalene binds to specific retinoic acid nuclear receptors but does not bind to cytosolic receptor protein. Biochemical and pharmacological profile studies have demonstrated that adapalene is a modulator of cellular differentiation, keratinization, and inflammatory processes."（[DailyMed: Differin (adapalene) prescribing information, Galderma Laboratories, L.P.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a0031324-92a6-4c11-90e2-c2818f7278ec)、版 2023-12-27、参照日 2026-11-19）。既知の情報によると、アダパレンは RAR（β/γ 選択性）作動薬で、尋常性ざ瘡の治療薬として使用されてきました。
 
 ただし、RAR 作動作用と血漿亜鉛値の調節を結びつける確立した機序は見当たりません。ざ瘡と血漿亜鉛高値の間にも、明確な病態上の関連性は確認できません。
 
@@ -105,11 +105,12 @@ TxGNN のスコアは高いものの（0.9951）、ネットワークに基づ�
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「日本では有効な承認が残っておらず、添付文書の警告・禁忌情報も未取得です」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Differin (adapalene) prescribing information, Galderma Laboratories, L.P.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a0031324-92a6-4c11-90e2-c2818f7278ec) |
 
 <!-- review:end log -->
 

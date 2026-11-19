@@ -55,7 +55,7 @@ description: "Tiotropium：予測新適応症はRespiratory malformation（エ�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。一般的な薬理学の知見では、チオトロピウムは長時間作用型ムスカリン拮抗薬（LAMA）です。気道平滑筋の M3 受容体を遮断して持続的な気管支拡張をもたらし、コリン作動性の気管支収縮tone を弱めます。文献でも、M3 受容体からの解離が遅く、1 日 1 回の投与が可能であることが報告されています。
+米国 FDA が承認した Tiotropium の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「チオトロピウムは長時間作用型の抗ムスカリン薬であり、しばしば抗コリン薬とも呼ばれる。チオトロピウムはムスカリン受容体のサブタイプM 1～M 5に対して同程度の親和性を有する。気道においては、平滑筋のM 3受容体を阻害することにより薬理作用を示し、気管支拡張をもたらす。」英語原文："Tiotropium is a long-acting, antimuscarinic agent, which is often referred to as an anticholinergic. It has similar affinity to the subtypes of muscarinic receptors, M 1 to M 5. In the airways, it exhibits pharmacological effects through inhibition of M 3 -receptors at the smooth muscle leading to bronchodilation."（[DailyMed: Spiriva Handihaler (tiotropium bromide) prescribing information, Boehringer Ingelheim Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=820839ef-e53d-47e8-a3b9-d911ff92e6a9)、版 2025-11-10、参照日 2026-11-19）。一般的な薬理学の知見では、チオトロピウムは長時間作用型ムスカリン拮抗薬（LAMA）です。気道平滑筋の M3 受容体を遮断して持続的な気管支拡張をもたらし、コリン作動性の気管支収縮tone を弱めます。文献でも、M3 受容体からの解離が遅く、1 日 1 回の投与が可能であることが報告されています。
 
 既存適応症（気管支炎、喘息、肺気腫）はいずれも気道閉塞を伴う疾患で、閉塞性肺疾患と病態が大きく重なります。そのため機序的には自然な適用です。
 
@@ -153,12 +153,13 @@ TxGNN のスコアはいずれも ≥ 0.99 ですが、以下は実質的な根�
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「日本での承認も取消済みで、作用機序と添付文書の安全性データも不足しています」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-06 | 削除：「販売承認の取消理由の確認と、現在の供給状況の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Spiriva Handihaler (tiotropium bromide) prescribing information, Boehringer Ingelheim Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=820839ef-e53d-47e8-a3b9-d911ff92e6a9) |
 
 <!-- review:end log -->
 

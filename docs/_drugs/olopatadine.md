@@ -56,7 +56,7 @@ TxGNN モデルは**酒さ性結膜炎 (Rosacea Conjunctivitis)** に有効で�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、オロパタジンは H1 受容体拮抗作用とマスト細胞安定化作用を持つ抗アレルギー薬で、アレルギー性結膜炎などヒスタミン関連の疾患で使用されてきました。そのため、ヒスタミンが関与する眼表面の炎症を和らげる可能性があります。
+米国 FDA が承認した Olopatadine の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「オロパタジンはヒスタミン H 1 受容体拮抗薬である。オロパタジンの抗ヒスタミン作用は、摘出組織、動物モデル及びヒトにおいて確認されている。」英語原文："Olopatadine is a histamine H 1 receptor antagonist. The antihistaminic activity of olopatadine has been documented in isolated tissues, animal models, and humans."（[DailyMed: olopatadine hydrochloride prescribing information, Apotex Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3aa27224-7b72-38eb-0c21-b8d73525ee85)、版 2026-09-15、参照日 2026-11-19）。既知の情報によると、オロパタジンは H1 受容体拮抗作用とマスト細胞安定化作用を持つ抗アレルギー薬で、アレルギー性結膜炎などヒスタミン関連の疾患で使用されてきました。そのため、ヒスタミンが関与する眼表面の炎症を和らげる可能性があります。
 
 一方で、酒さに伴う眼の炎症は、主にマイボーム腺機能不全や涙液層の不安定化、ヒスタミン以外の経路によって生じます。アレルギー性疾患との機序的な重なりは限定的で、効果は一部の症状に限られる可能性があります。
 
@@ -111,12 +111,13 @@ TxGNN の高いスコア（0.9941）は予測値にすぎません。これを�
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「主要な承認（いずれも取消済み）：」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-06 | 削除：「取消済み承認の経緯の確認と」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: olopatadine hydrochloride prescribing information, Apotex Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3aa27224-7b72-38eb-0c21-b8d73525ee85) |
 
 <!-- review:end log -->
 

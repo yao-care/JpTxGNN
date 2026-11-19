@@ -56,7 +56,7 @@ TxGNN モデルは**鼻腔疾患 (nasal cavity disease)** に有効である可�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。ただし、セチリジンは H1 受容体拮抗薬であり、ヒスタミンによる鼻閉、鼻汁、かゆみを抑える作用が知られています。この点は、アレルギー性の鼻の症状と機序的に整合します。
+米国 FDA が承認した Cetirizine の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「セチリジン塩酸塩はヒドロキシジンのヒトにおける代謝物であり、抗ヒスタミン薬である。その主な作用は末梢H 1 受容体の選択的阻害を介して発現する。セチリジン塩酸塩の抗ヒスタミン作用は、様々な動物モデルおよびヒトモデルにおいて明確に実証されている。」英語原文："Cetirizine hydrochloride, a human metabolite of hydroxyzine, is an antihistamine; its principal effects are mediated via selective inhibition of peripheral H 1 -receptors. The antihistaminic activity of cetirizine hydrochloride has been clearly documented in a variety of animal and human models."（[DailyMed: Quzyttir (cetirizine hydrochloride) prescribing information, ESTEVE PHARMACEUTICALS, S.A.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=573770f6-b76e-f6ba-e063-6294a90aa54d)、版 2026-09-22、参照日 2026-11-19）。ただし、セチリジンは H1 受容体拮抗薬であり、ヒスタミンによる鼻閉、鼻汁、かゆみを抑える作用が知られています。この点は、アレルギー性の鼻の症状と機序的に整合します。
 
 一方、「鼻腔疾患」は非常に広い概念です。アレルギー性以外のタイプ（感染性、構造的な原因など）では、H1 遮断による効果は期待しにくいと考えられます。したがって、効果が見込めるのはヒスタミンが関与する病態に限られる可能性が高いです。
 
@@ -106,6 +106,19 @@ TxGNN モデルは**鼻腔疾患 (nasal cavity disease)** に有効である可�
 - その病態を直接検討した臨床試験または文献の収集
 - 詳細な作用機序データ（MOA）
 - 添付文書に基づく警告・禁忌情報の確認
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Quzyttir (cetirizine hydrochloride) prescribing information, ESTEVE PHARMACEUTICALS, S.A.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=573770f6-b76e-f6ba-e063-6294a90aa54d) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

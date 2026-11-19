@@ -56,7 +56,7 @@ TxGNN モデルは**ラスムッセン亜急性脳炎 (Rasmussen subacute enceph
 
 ## この予測が妥当である理由
 
-詳細な作用機序データは、今回まとめたデータには含まれていません。ただし、サフィナミドは可逆的 MAO-B 阻害薬であり、電位依存性ナトリウムチャネルの遮断とグルタミン酸放出の調節作用も知られています。これらの作用は、神経の過興奮や興奮毒性を抑える可能性が理論上あります。
+米国 FDA が承認した Safinamide の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「XADAGOがPDにおいて治療効果を発揮する正確な機序は不明である。XADAGOはモノアミン酸化酵素B（MAO-B）の阻害剤である。MAO-B活性の阻害は、ドパミンの異化を遮断することにより、脳内のドパミン濃度の上昇及びそれに続くドパミン作動性活性の増加をもたらすと考えられている。」英語原文："The precise mechanism by which XADAGO exerts its therapeutic effects in PD is unknown. XADAGO is an inhibitor of monoamine oxidase B (MAO-B). Inhibition of MAO-B activity, by blocking the catabolism of dopamine, is thought to result in an increase in dopamine levels and a subsequent increase in dopaminergic activity in the brain."（[DailyMed: Xadago (safinamide mesylate) prescribing information, MDD US Operations LLC, a subsidiary of Supernus Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c4d65f28-983f-42b4-bb23-023ae0fe81b2)、版 2026-10-05、参照日 2026-11-19）。ただし、サフィナミドは可逆的 MAO-B 阻害薬であり、電位依存性ナトリウムチャネルの遮断とグルタミン酸放出の調節作用も知られています。これらの作用は、神経の過興奮や興奮毒性を抑える可能性が理論上あります。
 
 ラスムッセン脳炎は、てんかん発作と進行性の神経障害を特徴とする疾患です。パーキンソン病は神経変性疾患であり、病態は異なりますが、神経の過興奮の抑制という点で理論的な接点はあります。
 
@@ -112,11 +112,12 @@ TxGNN モデルは**ラスムッセン亜急性脳炎 (Rasmussen subacute enceph
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「日本では承認が整理されており、現在は市販されていません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Xadago (safinamide mesylate) prescribing information, MDD US Operations LLC, a subsidiary of Supernus Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c4d65f28-983f-42b4-bb23-023ae0fe81b2) |
 
 <!-- review:end log -->
 

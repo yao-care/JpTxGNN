@@ -56,7 +56,7 @@ TxGNN モデルは**尋常性ざ瘡 (acne)** に有効である可能性を予�
 
 ## この予測が妥当である理由
 
-ケトコナゾールは真菌のエルゴステロール合成を阻害するアゾール系抗真菌薬です。現在、詳細な作用機序データは、今回まとめたデータには含まれていません。ただし、既知の薬理学的知見として、全身投与ではステロイド合成酵素（CYP17A1 など）も阻害し、皮脂産生を促すアンドロゲンを低下させる可能性があります。
+ケトコナゾールは真菌のエルゴステロール合成を阻害するアゾール系抗真菌薬です。米国 FDA が承認した Ketoconazole の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「ケトコナゾールは、真菌細胞膜においてラノステロールからエルゴステロールへの変換を担うチトクロムP-450依存性酵素ラノステロール14α-脱メチル化酵素を阻害することにより、真菌細胞膜の主要構成成分であるエルゴステロールの合成を阻害する。その結果、メチル化ステロール前駆体が蓄積するとともに細胞膜内のエルゴステロールが枯渇し、真菌細胞膜の構造及び機能が脆弱化する。」英語原文："Ketoconazole blocks the synthesis of ergosterol, a key component of the fungal cell membrane, through the inhibition of cytochrome P-450 dependent enzyme lanosterol 14α-demethylase responsible for the conversion of lanosterol to ergosterol in the fungal cell membrane. This results in an accumulation of methylated sterol precursors and a depletion of ergosterol within the cell membrane thus weakening the structure and function of the fungal cell membrane."（[DailyMed: ketoconazole prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4baebcab-a237-42c0-9183-6f447a44e371)、版 2025-11-18、参照日 2026-11-19）。ただし、既知の薬理学的知見として、全身投与ではステロイド合成酵素（CYP17A1 など）も阻害し、皮脂産生を促すアンドロゲンを低下させる可能性があります。
 
 既存適応症の脂漏性皮膚炎は、マラセチア（Malassezia）属の酵母が関与する疾患です。ざ瘡に似た毛包炎（マラセチア毛包炎）もこの酵母が原因で、ざ瘡と誤診されることがあります。そのため、抗真菌作用が毛包の炎症を抑える可能性があります。
 
@@ -133,12 +133,13 @@ TxGNN モデルは**尋常性ざ瘡 (acne)** に有効である可能性を予�
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「また、日本では現在市販中の承認がなく、添付文書に基づく安全性評価も未完了です」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: ketoconazole prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4baebcab-a237-42c0-9183-6f447a44e371) |
 
 <!-- review:end log -->
 

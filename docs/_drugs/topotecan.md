@@ -56,7 +56,7 @@ TxGNN モデルは**女性乳癌 (female breast carcinoma)** に有効である�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。ただし、トポテカンはトポイソメラーゼ I 阻害薬として知られ、DNA 鎖切断を誘導して増殖の速い腫瘍細胞を傷害する細胞毒性薬です。
+米国 FDA が承認した Topotecan の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「トポイソメラーゼIは、可逆的な一本鎖切断を誘導することによりDNAのねじれひずみを解消する。トポテカンはトポイソメラーゼI-DNA複合体に結合し、これらの一本鎖切断の再結合を阻害する。トポテカンの細胞傷害作用は、DNA合成中に複製酵素がトポテカン、トポイソメラーゼI及びDNAにより形成される三者複合体と相互作用する際に生じる二本鎖DNA損傷によるものと考えられている。」英語原文："Topoisomerase I relieves torsional strain in DNA by inducing reversible single-strand breaks. Topotecan binds to the topoisomerase I-DNA complex and prevents re-ligation of these single-strand breaks. The cytotoxicity of topotecan is thought to be due to double-strand DNA damage produced during DNA synthesis, when replication enzymes interact with the ternary complex formed by topotecan, topoisomerase I, and DNA."（[DailyMed: Hycamtin (topotecan) prescribing information, Sandoz Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b23b46f5-c276-47f5-8bbd-940680b3f579)、版 2023-09-18、参照日 2026-11-19）。ただし、トポテカンはトポイソメラーゼ I 阻害薬として知られ、DNA 鎖切断を誘導して増殖の速い腫瘍細胞を傷害する細胞毒性薬です。
 
 この作用は乳癌にも機序的に適用できる可能性があります。特に MYC 駆動型やトリプルネガティブ乳癌では、トポイソメラーゼ I 阻害が合成致死を誘導することを示す前臨床研究（PMID 37987734）があります。
 
@@ -120,6 +120,19 @@ TxGNN モデルは**女性乳癌 (female breast carcinoma)** に有効である�
 - 詳細な作用機序データ（MOA）
 - 添付文書に基づく警告・禁忌の確認
 - 骨髄抑制を中心とした安全性モニタリング計画
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Hycamtin (topotecan) prescribing information, Sandoz Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b23b46f5-c276-47f5-8bbd-940680b3f579) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

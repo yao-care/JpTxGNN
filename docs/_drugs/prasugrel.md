@@ -56,7 +56,7 @@ TxGNN モデルは**肺高血圧症 (Pulmonary Hypertension)** に有効であ�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、プラスグレルは P2Y12 受容体を不可逆的に阻害するチエノピリジン系薬剤で、狭心症・心筋梗塞での有効性が確認されています。
+米国 FDA が承認した Prasugrel の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「プラスグレルは、その活性代謝物が血小板上のADP受容体のP2Y 12 クラスに不可逆的に結合することにより、血小板の活性化及び凝集を阻害する。」英語原文："Prasugrel is an inhibitor of platelet activation and aggregation through the irreversible binding of its active metabolite to the P2Y 12 class of ADP receptors on platelets."（[DailyMed: Effient (prasugrel hydrochloride) prescribing information, Cosette Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=69ea2d58-5353-4222-b61f-cab976fa7e5e)、版 2022-09-07、参照日 2026-11-19）。既知の情報によると、プラスグレルは P2Y12 受容体を不可逆的に阻害するチエノピリジン系薬剤で、狭心症・心筋梗塞での有効性が確認されています。
 
 肺高血圧症との関連は、血小板活性化が肺血管の血栓形成やリモデリングに関与し得るという仮説に基づきます。ただしこれは推測の域を出ず、今回取得した 2 編の文献はいずれもプラスグレルを肺高血圧症で検証したものではありません（1 編はクロピドグレルの使用・服薬継続性に関するコホート研究、もう 1 編は COVID-19 患者の背景治療に関するレジストリ解析です）。
 
@@ -136,11 +136,12 @@ TxGNN モデルは**肺高血圧症 (Pulmonary Hypertension)** に有効であ�
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「日本で承認が取消されている経緯の確認と、供給体制の検討」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Effient (prasugrel hydrochloride) prescribing information, Cosette Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=69ea2d58-5353-4222-b61f-cab976fa7e5e) |
 
 <!-- review:end log -->
 

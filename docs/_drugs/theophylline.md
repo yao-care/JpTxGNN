@@ -55,7 +55,7 @@ TxGNN モデルは**血栓性疾患 (thrombotic disease)** に有効である可
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。ただし一般的な薬理学的知見として、テオフィリンはホスホジエステラーゼ（PDE）阻害作用とアデノシン受容体拮抗作用を持つ薬剤です。
+米国 FDA が承認した Theophylline の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「テオフィリンは、可逆性の気道閉塞を有する患者の気道において2つの異なる作用を有する:平滑筋弛緩(すなわち気管支拡張)、及び刺激に対する気道反応の抑制(すなわち気管支拡張以外の予防的作用)である。」英語原文："Theophylline has two distinct actions in the airways of patients with reversible obstruction: smooth muscle relaxation (i.e., bronchodilation) and suppression of the response of the airways to stimuli (i.e., non-bronchodilator prophylactic effects)."（[DailyMed: Theo-24 (theophylline anhydrous) prescribing information, ENDO USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7a108fa0-c230-475f-be93-6f864b98a410)、版 2024-07-08、参照日 2026-11-19）。ただし一般的な薬理学的知見として、テオフィリンはホスホジエステラーゼ（PDE）阻害作用とアデノシン受容体拮抗作用を持つ薬剤です。
 
 PDE を阻害すると血小板内の cAMP が上昇し、理論上は血小板凝集が抑えられる可能性があります。これが、気道疾患向けの薬が血栓性疾患と結び付けられた機序的な背景と考えられます。
 
@@ -126,6 +126,19 @@ PDE を阻害すると血小板内の cAMP が上昇し、理論上は血小板�
 | 6 | 急性喉頭咽頭炎 (acute laryngopharyngitis) | 0.9935 | L5 | 研究なし |
 
 上記の評価は、データ上のスコアリング結果をそのまま記載したものです。
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Theo-24 (theophylline anhydrous) prescribing information, ENDO USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7a108fa0-c230-475f-be93-6f864b98a410) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

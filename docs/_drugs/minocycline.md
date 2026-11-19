@@ -56,7 +56,7 @@ TxGNN モデルは**点状表層角結膜炎 (Punctate Epithelial Keratoconjunct
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、ミノサイクリンはテトラサイクリン系抗菌薬で、細菌感染症やざ瘡での使用実績があります。
+米国 FDA が承認した Minocycline の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「成人歯周炎患者における歯周ポケット深さの減少を目的としたスケーリング・ルートプレーニング処置の補助療法としてのARESTINの作用機序は不明である。」英語原文："The mechanism of action of ARESTIN as an adjunct to scaling and root planing procedures for reduction of pocket depth in patients with adult periodontitis is unknown."（[DailyMed: Arestin (minocycline hydrochloride) prescribing information, OraPharma, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8515df41-1936-4f3b-86ba-d2bb2a8441fb)、版 2024-05-31、参照日 2026-11-19）。既知の情報によると、ミノサイクリンはテトラサイクリン系抗菌薬で、細菌感染症やざ瘡での使用実績があります。
 
 ミノサイクリンには抗炎症作用とマトリックスメタロプロテアーゼ (MMP) 阻害作用があることが知られており、理論上は眼表面の炎症や角膜上皮の障害を抑える可能性があります。ざ瘡や歯周炎のように炎症が関わる疾患で使われてきた点も、この仮説と整合します。
 
@@ -103,11 +103,12 @@ TxGNN モデルは**点状表層角結膜炎 (Punctate Epithelial Keratoconjunct
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「日本での承認整理の経緯と、再導入の可能性を確認する」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Arestin (minocycline hydrochloride) prescribing information, OraPharma, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8515df41-1936-4f3b-86ba-d2bb2a8441fb) |
 
 <!-- review:end log -->
 

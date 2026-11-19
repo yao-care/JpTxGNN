@@ -56,7 +56,7 @@ TxGNN モデルは**脳幹梗塞 (Brain Stem Infarction)** に有効である可
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、アムロジピンは L型カルシウムチャネルを遮断して血管平滑筋を弛緩させ、末梢血管抵抗と血圧を下げます。高血圧はこの機序でコントロールされ、脳血管イベントの主要な危険因子でもあります。
+米国 FDA が承認した Amlodipine の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「アムロジピンはジヒドロピリジン系カルシウム拮抗薬（カルシウムイオン拮抗薬またはスローチャネル遮断薬）であり、血管平滑筋および心筋へのカルシウムイオンの膜貫通流入を阻害する。実験データから、アムロジピンはジヒドロピリジン結合部位および非ジヒドロピリジン結合部位の両方に結合することが示唆されている。」英語原文："Amlodipine is a dihydropyridine calcium antagonist (calcium ion antagonist or slow-channel blocker) that inhibits the transmembrane influx of calcium ions into vascular smooth muscle and cardiac muscle. Experimental data suggest that amlodipine binds to both dihydropyridine and nondihydropyridine binding sites."（[DailyMed: Sdamlo (amlodipine) prescribing information, Pangea Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=886a7f97-60a4-4206-a6c7-5206069ed487)、版 2026-09-28、参照日 2026-11-19）。既知の情報によると、アムロジピンは L型カルシウムチャネルを遮断して血管平滑筋を弛緩させ、末梢血管抵抗と血圧を下げます。高血圧はこの機序でコントロールされ、脳血管イベントの主要な危険因子でもあります。
 
 血圧管理は脳卒中の予防・再発抑制の中心的な戦略です。そのため、血圧降下作用により脳血管リスクを下げる可能性は、機序的にもっともらしいと考えられます。
 
@@ -130,11 +130,12 @@ TxGNN モデルは**脳幹梗塞 (Brain Stem Infarction)** に有効である可
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「日本で有効な承認がない現状を踏まえた、販売・承認面の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Sdamlo (amlodipine) prescribing information, Pangea Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=886a7f97-60a4-4206-a6c7-5206069ed487) |
 
 <!-- review:end log -->
 

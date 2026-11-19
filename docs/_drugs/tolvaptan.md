@@ -55,7 +55,7 @@ TxGNN モデルは**多発性嚢胞腎 3 型（多発性嚢胞肝を伴う場合
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。ただし、既知の情報によると、トルバプタンは集合管細胞のバソプレシン V2 受容体を遮断し、細胞内 cAMP を低下させます。これにより嚢胞液の分泌と嚢胞の増大が抑えられると考えられています。
+米国 FDA が承認した Tolvaptan の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「トルバプタンは選択的バソプレシンV2受容体拮抗薬であり、V2受容体に対する親和性は天然のアルギニンバソプレシン(AVP)の1.8倍である。トルバプタンのV2受容体に対する親和性は、V1a受容体に対する親和性の29倍である。」英語原文："Tolvaptan is a selective vasopressin V 2 -receptor antagonist with an affinity for the V 2 -receptor that is 1.8 times that of native arginine vasopressin (AVP). Tolvaptan affinity for the V 2 -receptor is 29 times that for the V 1a -receptor."（[DailyMed: Jynarque (tolvaptan) prescribing information, Otsuka America Pharmaceutical, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3febc0a1-9e5a-4ce0-843d-210f21d862c4)、版 2026-09-30、参照日 2026-11-19）。ただし、既知の情報によると、トルバプタンは集合管細胞のバソプレシン V2 受容体を遮断し、細胞内 cAMP を低下させます。これにより嚢胞液の分泌と嚢胞の増大が抑えられると考えられています。
 
 既存適応症（SIADH）は V2 受容体を介した水代謝の異常です。多発性嚢胞腎でも、同じ V2 受容体–cAMP 経路が嚢胞形成を促します。そのため機序的に適用可能です。
 
@@ -134,11 +134,12 @@ ADPKD に対しては大規模な第 3 相 RCT があり、トルバプタンの
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「なく、日本の有効な承認も現在」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Jynarque (tolvaptan) prescribing information, Otsuka America Pharmaceutical, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3febc0a1-9e5a-4ce0-843d-210f21d862c4) |
 
 <!-- review:end log -->
 

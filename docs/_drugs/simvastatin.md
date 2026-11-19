@@ -56,7 +56,7 @@ description: "Simvastatin：予測新適応症はBrain stem infarction（エビ�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、シンバスタチンは HMG-CoA 還元酵素阻害薬に分類され、肝臓でのコレステロール合成を抑え、LDL 受容体の発現を高めて LDL コレステロールを下げます。
+米国 FDA が承認した Simvastatin の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「シンバスタチンはプロドラッグであり、投与後に活性型のβ-ヒドロキシ酸体であるシンバスタチン酸に加水分解される。シンバスタチン酸及びその代謝物は、コレステロールの前駆体であるメバロン酸へのHMG-CoAの変換を触媒する律速酵素であるHMG-CoA還元酵素の阻害剤である。」英語原文："Simvastatin is a prodrug and is hydrolyzed to its active β-hydroxyacid form, simvastatin acid, after administration. Simvastatin acid and its metabolites are inhibitors of HMG-CoA reductase, the rate-limiting enzyme that converts HMG-CoA to mevalonate, a precursor of cholesterol."（[DailyMed: Zocor (simvastatin) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8f55d5de-5a4f-4a39-8c84-c53976dd6af9)、版 2025-03-28、参照日 2026-11-19）。既知の情報によると、シンバスタチンは HMG-CoA 還元酵素阻害薬に分類され、肝臓でのコレステロール合成を抑え、LDL 受容体の発現を高めて LDL コレステロールを下げます。
 
 そのため今回の予測は、新しい疾患への展開というより、既存適応症をモデルが再現したものと考えるのが妥当です。
 
@@ -137,11 +137,12 @@ description: "Simvastatin：予測新適応症はBrain stem infarction（エビ�
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「取消済みのため」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Zocor (simvastatin) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8f55d5de-5a4f-4a39-8c84-c53976dd6af9) |
 
 <!-- review:end log -->
 

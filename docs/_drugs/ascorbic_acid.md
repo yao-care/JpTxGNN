@@ -56,7 +56,7 @@ TxGNN モデルは**非症候性食道奇形 (non-syndromic esophageal malformat
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。アスコルビン酸は必須ビタミンで、コラーゲン合成に関わる水酸化酵素の補因子として働き、抗酸化物質でもあります。欠乏症である壊血病に対する有効性は確立しています。
+米国 FDA が承認した Ascorbic Acid の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「壊血病（ビタミンCの重度欠乏により生じる疾患）の症状および徴候の治療におけるアスコルビン酸の正確な作用機序は不明であるが、壊血病患者へのアスコルビン酸の投与により、体内のアスコルビン酸プールが回復すると考えられている。」英語原文："The exact mechanism of action of ascorbic acid for the treatment of symptoms and signs of scurvy (a disorder caused by severe deficiency in vitamin C) is unknown; however, administration of ascorbic acid in patients with scurvy is thought to restore the body pool of ascorbic acid."（[DailyMed: ascorbic acid prescribing information, Zydus Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f0b683f8-189b-4a3f-9ffe-f91df6d798b6)、版 2026-09-03、参照日 2026-11-19）。アスコルビン酸は必須ビタミンで、コラーゲン合成に関わる水酸化酵素の補因子として働き、抗酸化物質でもあります。欠乏症である壊血病に対する有効性は確立しています。
 
 一方、非症候性食道奇形は、食道が先天的に構造異常を起こす疾患です。アスコルビン酸との機序的な接点は見当たりません。栄養素の補充や抗酸化作用で、胎生期に決まる構造異常を是正できるとは考えにくいです。
 
@@ -109,17 +109,25 @@ TxGNN モデルは**非症候性食道奇形 (non-syndromic esophageal malformat
 - 「食道疾患」：文献は多いものの、ラットの逆流モデルで発がん促進が示唆されるなど、安全性上の懸念があります。
 
 優先的に検討するなら、これらの候補のほうが現実的です。
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: ascorbic acid prescribing information, Zydus Pharmaceuticals USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f0b683f8-189b-4a3f-9ffe-f91df6d798b6) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。
 臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-
-
-
 
 <!-- brand-names:start -->
 ## 日本での販売名

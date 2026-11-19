@@ -60,7 +60,7 @@ TxGNN モデルは**躁病性双極性感情障害 (manic bipolar affective diso
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、グラニセトロンは選択的 5-HT3 受容体拮抗薬です。
+米国 FDA が承認した Granisetron の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「グラニセトロンは選択的5-ヒドロキシトリプタミン3（5-HT 3 ）受容体拮抗薬であり、5-HT 1、5-HT 1A、5-HT 1B/C、5-HT 2を含む他のセロトニン受容体、α 1-、α 2-又はβ-アドレナリン受容体、ドパミンD 2受容体、あるいはヒスタミンH 1受容体、ベンゾジアゼピン受容体、ピクロトキシン受容体又はオピオイド受容体に対してはほとんど又は全く親和性を示さない。5-HT 3型のセロトニン受容体は、末梢では迷走神経終末に、中枢では最後野の化学受容器引き金帯に存在する。」英語原文："Granisetron is a selective 5-hydroxytryptamine 3 (5-HT 3 ) receptor antagonist with little or no affinity for other serotonin receptors, including 5-HT 1, 5-HT 1A, 5-HT 1B/C, 5-HT 2; for alpha 1-, alpha 2-, or beta-adrenoreceptors; for dopamine-D 2; or for histamine-H 1; benzodiazepine; picrotoxin or opioid receptors. Serotonin receptors of the 5-HT 3 type are located peripherally on vagal nerve terminals and centrally in the chemoreceptor trigger zone of the area postrema."（[DailyMed: Sustol (granisetron) prescribing information, Heron Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f7c7ffdd-8270-4030-bc1e-a1cb28a6de56)、版 2026-04-30、参照日 2026-11-19）。既知の情報によると、グラニセトロンは選択的 5-HT3 受容体拮抗薬です。
 
 5-HT3 の調節がセロトニン系・ドパミン系のシグナルを介して気分調節に影響する、という仮説はあります。ただし、これは推測の域を出ません。臨床試験も文献もなく、根拠は TxGNN の予測だけです。既存適応症との類似性の評価も未実施です。
 
@@ -113,12 +113,13 @@ QT 延長リスクに関わる薬剤（アミオダロン、アミスルプリ�
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「グラニセトロンは選択的 5-HT3 受容体拮抗薬で、日本では注射剤・錠剤・内服ゼリーとして承認されていましたが、現在は 20 件すべての承認が整理（取消）済みです」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-06 | 削除：「また、日本の承認は全件が取消済みで、添付文書の警告・禁忌も確認できていません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Sustol (granisetron) prescribing information, Heron Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f7c7ffdd-8270-4030-bc1e-a1cb28a6de56) |
 
 <!-- review:end log -->
 

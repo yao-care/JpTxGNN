@@ -55,7 +55,7 @@ TxGNN モデルは**点状表層角結膜炎 (Punctate Epithelial Keratoconjunct
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、フルコナゾールは真菌の CYP51（ラノステロール 14α-デメチラーゼ）を阻害してエルゴステロール合成を遮断するアゾール系抗真菌薬で、カンジダ症やクリプトコッカス症での有効性が確立しています。
+米国 FDA が承認した Fluconazole の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「フルコナゾールは真菌のチトクロムP450依存性酵素であるラノステロール14-α-脱メチル化酵素の高選択的阻害薬である。この酵素はラノステロールをエルゴステロールに変換する働きを持つ。その結果生じる正常ステロールの消失は真菌における14-α-メチルステロールの蓄積と相関しており、フルコナゾールの静真菌作用の原因である可能性がある。」英語原文："Fluconazole is a highly selective inhibitor of fungal cytochrome P450 dependent enzyme lanosterol 14-α-demethylase. This enzyme functions to convert lanosterol to ergosterol. The subsequent loss of normal sterols correlates with the accumulation of 14-α-methyl sterols in fungi and may be responsible for the fungistatic activity of fluconazole."（[DailyMed: Diflucan (fluconazole) prescribing information, Roerig](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f694c617-3383-416c-91b6-b94fda371204)、版 2026-04-02、参照日 2026-11-19）。既知の情報によると、フルコナゾールは真菌の CYP51（ラノステロール 14α-デメチラーゼ）を阻害してエルゴステロール合成を遮断するアゾール系抗真菌薬で、カンジダ症やクリプトコッカス症での有効性が確立しています。
 
 ただし、この機序が関与するのは真菌が原因の病態に限られます。点状表層角結膜炎は、通常ウイルス性（アデノウイルスなど）または中毒性・炎症性であり、抗真菌作用が有効に働く機序的根拠は確立していません。TxGNN の高スコア（0.9924）は、現時点では裏付けのない計算上の予測と考えるべきです。真菌性の症例に限れば、限定的に妥当性を検討する余地はあります。
 
@@ -95,18 +95,25 @@ TxGNN モデルは**点状表層角結膜炎 (Punctate Epithelial Keratoconjunct
 - 前臨床・観察研究・症例報告などの文献調査
 - 眼科用途に適した投与経路・剤形の検討（現状は経口・注射のみ）
 - QT延長や肝腎機能に関する安全性評価、併用薬の相互作用の確認
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Diflucan (fluconazole) prescribing information, Roerig](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f694c617-3383-416c-91b6-b94fda371204) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。
 臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-
-
-
-
 
 <!-- brand-names:start -->
 ## 日本での販売名

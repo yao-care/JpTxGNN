@@ -56,7 +56,7 @@ TxGNN モデルは**カテコラミン誘発性多形性心室頻拍 (catecholam
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。アミオダロンは K⁺・Na⁺・Ca²⁺ チャネルを複数遮断し、抗アドレナリン作用も持つ薬剤として知られています。
+米国 FDA が承認した Amiodarone の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「アミオダロンはクラスIII抗不整脈薬とされているが、Vaughan Williams分類の4つのクラスすべての電気生理学的特性を有する。アミオダロンは、クラスI薬と同様に高頻度ペーシング時にナトリウムチャネルを遮断し、クラスII薬と同様に非競合的な抗交感神経作用を示す。」英語原文："Amiodarone is considered a class III antiarrhythmic drug, but it possesses electrophysiologic characteristics of all four Vaughan Williams classes. Like class I drugs, amiodarone blocks sodium channels at rapid pacing frequencies, and like class II drugs, amiodarone exerts a noncompetitive antisympathetic action."（[DailyMed: Pacerone (amiodarone hydrochloride) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dcadce9c-d0a0-4235-8ff8-dd93c09e03b3)、版 2025-11-05、参照日 2026-11-19）。アミオダロンは K⁺・Na⁺・Ca²⁺ チャネルを複数遮断し、抗アドレナリン作用も持つ薬剤として知られています。
 
 この疾患は、交感神経刺激で誘発される RyR2 などのカルシウム調節異常による不整脈です。理論上は、アミオダロンのカテコラミン刺激を抑える作用が不整脈の抑制に働く可能性があります。
 
@@ -130,18 +130,24 @@ TxGNN モデルは**カテコラミン誘発性多形性心室頻拍 (catecholam
 - 標準治療との位置づけの比較
 - QT 延長を起こしうる併用薬を考慮した、相互作用の管理方針
 
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Pacerone (amiodarone hydrochloride) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dcadce9c-d0a0-4235-8ff8-dd93c09e03b3) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。
 臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-
-
-
-
 
 <!-- brand-names:start -->
 ## 日本での販売名

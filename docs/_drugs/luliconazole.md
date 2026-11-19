@@ -55,7 +55,7 @@ TxGNN モデルは**毛内菌感染症 (endothrix infectious disease)** に有�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。ルリコナゾールはアゾール系の抗真菌薬に分類され、皮膚糸状菌に対する外用薬として用いられています。アゾール系は一般に真菌の細胞膜合成を阻害することで抗真菌作用を示します。
+米国 FDA が承認した Luliconazole の添付文書（Prescribing Information）の「Mechanism of Action」および「Microbiology」の項によると（非公式訳）、「LUZUクリーム1%はアゾール系抗真菌薬である。[…] ルリコナゾールはアゾール系に属する抗真菌薬である。皮膚糸状菌に対する正確な作用機序は不明であるが、ルリコナゾールはラノステロール脱メチル化酵素を阻害することによりエルゴステロール合成を阻害すると考えられる。」英語原文："LUZU Cream, 1% is an azole antifungal. […] Luliconazole is an antifungal that belongs to the azole class. Although the exact mechanism of action against dermatophytes is unknown, luliconazole appears to inhibit ergosterol synthesis by inhibiting the enzyme lanosterol demethylase."（[DailyMed: Luzu (luliconazole) prescribing information, Bausch Health US, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a7016010-ce43-4c09-8d21-aeb697ffed31)、版 2020-04-01、参照日 2026-11-19）。ルリコナゾールはアゾール系の抗真菌薬に分類され、皮膚糸状菌に対する外用薬として用いられています。アゾール系は一般に真菌の細胞膜合成を阻害することで抗真菌作用を示します。
 
 毛内菌感染症は、Trichophyton tonsurans などの皮膚糸状菌が毛幹の内部で増殖する感染症です。原因菌がアゾール系薬剤に感受性を示す可能性があるため、機序的には適用可能と考えられます。
 
@@ -84,18 +84,24 @@ TxGNN モデルは**毛内菌感染症 (endothrix infectious disease)** に有�
 - 添付文書の警告・禁忌情報の確認
 - 外用剤の毛包内への浸透性と投与経路の適合性の評価
 
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Luzu (luliconazole) prescribing information, Bausch Health US, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a7016010-ce43-4c09-8d21-aeb697ffed31) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。
 臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-
-
-
-
 
 <!-- brand-names:start -->
 ## 日本での販売名

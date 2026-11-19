@@ -57,7 +57,7 @@ TxGNN モデルは**乳頭結膜炎 (Papillary Conjunctivitis)** に有効であ
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、サルブタモールはβ2アドレナリン受容体作動薬で、気道平滑筋を弛緩させて喘息や気管支疾患の症状を和らげる薬剤です。
+米国 FDA が承認した Salbutamol の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「サルブタモール硫酸塩はβ2アドレナリン受容体作動薬である。サルブタモール硫酸塩の薬理作用は、気道平滑筋のβ2アドレナリン受容体の活性化に起因する。β2アドレナリン受容体の活性化は、アデニル酸シクラーゼの活性化及び細胞内のサイクリック3',5'-アデノシン一リン酸(サイクリックAMP)濃度の上昇をもたらす。」英語原文："Albuterol sulfate is a beta 2 -adrenergic agonist. The pharmacologic effects of albuterol sulfate are attributable to activation of beta 2 -adrenergic receptors on airway smooth muscle. Activation of beta 2 -adrenergic receptors leads to the activation of adenylcyclase and to an increase in the intracellular concentration of cyclic-3', 5’-adenosine monophosphate (cyclic AMP)."（[DailyMed: Albuterol Sulfate Inhalation (albuterol sulfate) prescribing information, Amneal Pharmaceuticals NY LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2e449282-ee58-4e36-b983-85c4e6f0864d)、版 2024-12-20、参照日 2026-11-19）。既知の情報によると、サルブタモールはβ2アドレナリン受容体作動薬で、気道平滑筋を弛緩させて喘息や気管支疾患の症状を和らげる薬剤です。
 
 結膜にもβ2受容体が存在し、マスト細胞が関与する炎症反応を調節する可能性があります。乳頭結膜炎はアレルギー性の炎症が関わる疾患のため、機序の上では理論的に関連づけられます。
 
@@ -120,11 +120,12 @@ TxGNN モデルは**乳頭結膜炎 (Papillary Conjunctivitis)** に有効であ
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「日本の承認も取り消し済みで、結膜への適用に向けた剤形（点眼など）も整っていません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Albuterol Sulfate Inhalation (albuterol sulfate) prescribing information, Amneal Pharmaceuticals NY LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2e449282-ee58-4e36-b983-85c4e6f0864d) |
 
 <!-- review:end log -->
 

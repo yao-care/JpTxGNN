@@ -55,7 +55,7 @@ TxGNN モデルは**ヘモグロビン異常症 (hemoglobinopathy)** に有効�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、イコサペント酸エチルは精製 EPA エチルエステルで、抗炎症作用、血小板凝集抑制作用、中性脂肪低下作用を持つことが知られています。
+米国 FDA が承認した Icosapent Ethyl の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「EPAは肝臓における超低比重リポタンパク質トリグリセリド（VLDL-TG）の合成及び/又は分泌を低下させ、循環血中のVLDL粒子からのTGクリアランスを亢進させることが試験により示唆されている。考えられる作用機序には、β酸化の亢進、アシルCoA:1,2-ジアシルグリセロールアシルトランスフェラーゼ（DGAT）の阻害、肝臓における脂肪生成の低下、及び血漿リポタンパク質リパーゼ活性の上昇が含まれる。」英語原文："Studies suggest that EPA reduces hepatic very low-density lipoprotein triglycerides (VLDL-TG) synthesis and/or secretion and enhances TG clearance from circulating VLDL particles. Potential mechanisms of action include increased β-oxidation; inhibition of acyl-CoA:1,2-diacylglycerol acyltransferase (DGAT); decreased lipogenesis in the liver; and increased plasma lipoprotein lipase activity."（[DailyMed: Icosapent (icosapent ethyl) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cc28828d-beab-45cc-a3b6-151c5fee3924)、版 2026-08-10、参照日 2026-11-19）。既知の情報によると、イコサペント酸エチルは精製 EPA エチルエステルで、抗炎症作用、血小板凝集抑制作用、中性脂肪低下作用を持つことが知られています。
 
 鎌状赤血球症などのヘモグロビン異常症では、慢性炎症、血管内皮の活性化、血管閉塞が病態の中心にあります。EPA の抗炎症作用と血小板凝集抑制作用は、理論上これらを和らげる可能性があります。閉塞性動脈硬化症という血流障害の既存適応症とも、血管の閉塞や血小板機能という点で関連があります。
 
@@ -101,11 +101,12 @@ TxGNN モデルは**ヘモグロビン異常症 (hemoglobinopathy)** に有効�
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「取消済み承認との関係」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Icosapent (icosapent ethyl) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cc28828d-beab-45cc-a3b6-151c5fee3924) |
 
 <!-- review:end log -->
 

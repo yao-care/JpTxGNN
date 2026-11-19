@@ -56,7 +56,7 @@ TxGNN モデルは**毛包性ムチン沈着症 (alopecia mucinosa)** に有効�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。ベタメタゾンはグルココルチコイド受容体作動薬に分類され、強い抗炎症作用と免疫抑制作用を持つ薬物です。
+米国 FDA が承認した Betamethasone の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「副腎皮質ステロイドは細胞シグナル伝達、免疫機能、炎症及びタンパク質調節に関与するが、乾癬におけるSERNIVO Sprayの正確な作用機序は不明である。」英語原文："Corticosteroids play a role in cellular signaling, immune function, inflammation, and protein regulation; however, the precise mechanism of action of SERNIVO Spray in psoriasis is unknown."（[DailyMed: Sernivo (betamethasone dipropionate) prescribing information, Primus Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b1b3d1b0-da9b-11eb-ad76-0800200c9a66)、版 2026-04-22、参照日 2026-11-19）。ベタメタゾンはグルココルチコイド受容体作動薬に分類され、強い抗炎症作用と免疫抑制作用を持つ薬物です。
 
 毛包性ムチン沈着症は、毛包周囲の炎症細胞浸潤とムチン（粘液様物質）の沈着を特徴とします。そのため、炎症を抑えるグルココルチコイドが効く可能性には機序的な合理性があります。
 
@@ -107,18 +107,24 @@ TxGNN モデルは**毛包性ムチン沈着症 (alopecia mucinosa)** に有効�
 - 投与経路（外用、局所注射、全身投与）と用量の検討
 - 探索的な臨床研究の設計可否の検討
 
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Sernivo (betamethasone dipropionate) prescribing information, Primus Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b1b3d1b0-da9b-11eb-ad76-0800200c9a66) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。
 臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-
-
-
-
 
 <!-- brand-names:start -->
 ## 日本での販売名

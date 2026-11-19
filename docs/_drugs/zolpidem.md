@@ -55,7 +55,7 @@ description: "Zolpidem：予測新適応症はBenign paroxysmal torticollis of i
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、ゾルピデムはベンゾジアゼピン結合部位に作用する非ベンゾジアゼピン系の催眠薬です。α1 サブユニットを含む GABA-A 受容体を正に調節し、抑制性神経伝達を高めることで、入眠と睡眠維持を促します。
+米国 FDA が承認した Zolpidem の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「ゾルピデムはGABAA受容体陽性モジュレーターであり、α1サブユニットを含むGABAA受容体のベンゾジアゼピン結合部位に結合し、塩化物イオンチャネルの開口頻度を増加させ、その結果神経細胞の興奮を抑制することにより、不眠症の短期治療における治療効果を発揮すると推定される。」英語原文："Zolpidem is a GABA A receptor positive modulator presumed to exert its therapeutic effects in the short-term treatment of insomnia through binding to the benzodiazepine site of α1 subunit containing GABA A receptors, increasing the frequency of chloride channel opening resulting in the inhibition of neuronal excitation."（[DailyMed: Ambien (zolpidem tartrate) prescribing information, Cosette Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=747949c5-2c91-4909-8a07-71b6826f8e97)、版 2025-02-07、参照日 2026-11-19）。既知の情報によると、ゾルピデムはベンゾジアゼピン結合部位に作用する非ベンゾジアゼピン系の催眠薬です。α1 サブユニットを含む GABA-A 受容体を正に調節し、抑制性神経伝達を高めることで、入眠と睡眠維持を促します。
 
 そのため、これは新規適応症の発見というより、既存適応症の再確認に近いものです。再利用としての新規性は限定的です。
 
@@ -132,11 +132,12 @@ TxGNN は他にも候補を予測していますが、いずれも直接の支�
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「取消の理由を含む」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Ambien (zolpidem tartrate) prescribing information, Cosette Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=747949c5-2c91-4909-8a07-71b6826f8e97) |
 
 <!-- review:end log -->
 

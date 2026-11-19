@@ -55,7 +55,7 @@ TxGNN モデルは **Ambras 型汎発性先天性多毛症 (Ambras type hypertri
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、タダラフィルは PDE5 阻害薬で、cGMP を上昇させて血管拡張を促します。この作用により肺動脈性肺高血圧症や勃起不全で有効性が確認されています。
+米国 FDA が承認した Tadalafil の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「性的刺激時の陰茎勃起は、陰茎動脈及び陰茎海綿体平滑筋の弛緩に起因する陰茎血流量の増加によって引き起こされる。この反応は、神経終末及び内皮細胞からの一酸化窒素(NO)の放出により媒介され、NOは平滑筋細胞内でのcGMPの合成を促進する。[…] タダラフィルはPDE5を阻害する。」英語原文："Penile erection during sexual stimulation is caused by increased penile blood flow resulting from the relaxation of penile arteries and corpus cavernosal smooth muscle. This response is mediated by the release of nitric oxide (NO) from nerve terminals and endothelial cells, which stimulates the synthesis of cGMP in smooth muscle cells. […] Tadalafil inhibits PDE5."（[DailyMed: Cialis (tadalafil) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bcd8f8ab-81a2-4891-83db-24a0b0e25895)、版 2026-06-03、参照日 2026-11-19）。既知の情報によると、タダラフィルは PDE5 阻害薬で、cGMP を上昇させて血管拡張を促します。この作用により肺動脈性肺高血圧症や勃起不全で有効性が確認されています。
 
 一方、Ambras 症候群は 8 番染色体の調節領域の異常に起因する遺伝性疾患で、PDE5 阻害との機序的な関連は確立していません。したがって、この予測の妥当性は現時点では**支持されていません**。
 
@@ -110,11 +110,12 @@ TxGNN モデルは **Ambras 型汎発性先天性多毛症 (Ambras type hypertri
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「日本ではすべての承認が整理済みで、市販中の製品がありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Cialis (tadalafil) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=bcd8f8ab-81a2-4891-83db-24a0b0e25895) |
 
 <!-- review:end log -->
 

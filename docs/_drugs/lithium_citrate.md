@@ -55,7 +55,7 @@ TxGNN モデルは **Malan 過成長症候群 (Malan overgrowth syndrome)** に�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。ただし、リチウムは一般に GSK-3 とイノシトールモノホスファターゼを阻害し、PI3K/AKT/mTOR シグナルにも影響することが知られています。これらの経路は過成長を伴う疾患と概念的に関連します。
+米国 FDA が承認した Lithium Citrate の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「気分安定薬としてのリチウムの作用機序は不明である。」英語原文："The mechanism of action of lithium as a mood stabilizing agent is unknown."（[DailyMed: lithium prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=be1346df-4a39-45e8-874b-e2a496847fd5)、版 2026-10-23、参照日 2026-11-19）。ただし、リチウムは一般に GSK-3 とイノシトールモノホスファターゼを阻害し、PI3K/AKT/mTOR シグナルにも影響することが知られています。これらの経路は過成長を伴う疾患と概念的に関連します。
 
 Malan 症候群は NFIX 関連の疾患で、躁病とは病態が大きく異なります。両者の関連は機序面の推測にとどまり、臨床的な裏付けはありません。
 
@@ -120,12 +120,13 @@ Malan 過成長症候群について、関連する文献は現在ありませ�
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「日本での承認取消の理由の確認と、経路適合性（投与経路）の検討」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: lithium prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=be1346df-4a39-45e8-874b-e2a496847fd5) |
 
 <!-- review:end log -->
 

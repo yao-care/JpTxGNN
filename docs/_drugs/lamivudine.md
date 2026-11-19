@@ -56,7 +56,7 @@ TxGNN モデルは**サル免疫不全ウイルス感染症 (simian immunodefici
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報として、ラミブジンはヌクレオシド系逆転写酵素阻害薬であり、レトロウイルスの逆転写酵素を阻害します。SIV の逆転写酵素も阻害するため、マカクモデルで活性が確認されています。
+米国 FDA が承認した Lamivudine の添付文書（Prescribing Information）の「Mechanism of Action」および「Microbiology」の項によると（非公式訳）、「ラミブジンは抗レトロウイルス薬である。[…] ラミブジンは合成ヌクレオシド類似体である。ラミブジンは細胞内でリン酸化され、活性代謝物である5′-三リン酸体、ラミブジン三リン酸（3TC-TP）となる。3TC-TPの主な作用機序は、ヌクレオチド類似体の取り込み後のDNA鎖伸長停止によるHIV-1逆転写酵素（RT）の阻害である。」英語原文："Lamivudine is an antiretroviral agent. […] Lamivudine is a synthetic nucleoside analogue. Intracellularly, lamivudine is phosphorylated to its active 5′-triphosphate metabolite, lamivudine triphosphate (3TC-TP). The principal mode of action of 3TC-TP is inhibition of HIV-1 reverse transcriptase (RT) via DNA chain termination after incorporation of the nucleotide analogue."（[DailyMed: Epivir (lamivudine) prescribing information, ViiV Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=89226149-47fa-4f7d-bb1f-1aa7034486b8)、版 2024-08-15、参照日 2026-11-19）。既知の情報として、ラミブジンはヌクレオシド系逆転写酵素阻害薬であり、レトロウイルスの逆転写酵素を阻害します。SIV の逆転写酵素も阻害するため、マカクモデルで活性が確認されています。
 
 SIV はヒト免疫不全ウイルス (HIV) の動物モデルとして用いられるウイルスです。逆転写酵素の構造が似ているため、機序的には適用可能と考えられます。ただし、SIV はヒトの疾患ではなく、このエビデンスはヒトへの再利用には間接的です。
 
@@ -109,6 +109,19 @@ SIV は動物のウイルスであり、ヒトの疾患に対する再利用と�
 - 詳細な作用機序データ（DrugBank など）
 - ヒトへの再利用としての意義の整理（SIV は動物モデルであり、ヒトでの対象疾患の再定義が必要）
 - ラミブジン単剤の日本での承認・市販状況の確認
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Epivir (lamivudine) prescribing information, ViiV Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=89226149-47fa-4f7d-bb1f-1aa7034486b8) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

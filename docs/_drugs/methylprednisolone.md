@@ -55,7 +55,7 @@ TxGNN モデルは**ムチン沈着性脱毛症 (alopecia mucinosa)** に有効�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。一般にグルココルチコイドは、炎症性サイトカインの産生を抑え、リンパ球などの免疫細胞の活動を抑制する薬剤群です。
+米国 FDA が承認した Methylprednisolone の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「天然に存在する糖質コルチコイド（ヒドロコルチゾン及びコルチゾン）は、塩類貯留作用も有しており、副腎皮質機能不全状態における補充療法に用いられる。それらの合成類似体は、主として多くの器官系の疾患における強力な抗炎症作用を目的として用いられる。」英語原文："Naturally occurring glucocorticoids (hydrocortisone and cortisone), which also have salt-retaining properties, are used as replacement therapy in adrenocortical deficiency states. Their synthetic analogs are primarily used for their potent anti-inflammatory effects in disorders of many organ systems."（[DailyMed: methylprednisolone prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=97256c7e-5694-4148-926f-594b9d5c34f4)、版 2026-07-01、参照日 2026-11-19）。一般にグルココルチコイドは、炎症性サイトカインの産生を抑え、リンパ球などの免疫細胞の活動を抑制する薬剤群です。
 
 ムチン沈着性脱毛症は、毛包にムチンが沈着し、炎症を伴う疾患です。そのため、グルココルチコイドの抗炎症作用が炎症反応を和らげる可能性は、機序的には考えられます。ただし、これは推論の域を出ません。この疾患に対する臨床データは今回の調査では確認できず、根拠はモデルの予測のみです。
 
@@ -102,18 +102,24 @@ TxGNN モデルは**ムチン沈着性脱毛症 (alopecia mucinosa)** に有効�
 - 添付文書の警告・禁忌情報の取得と、局所投与を含む投与経路の適合性評価
 - 小規模な探索的研究の可否の検討
 
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: methylprednisolone prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=97256c7e-5694-4148-926f-594b9d5c34f4) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。
 臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-
-
-
-
 
 <!-- brand-names:start -->
 ## 日本での販売名

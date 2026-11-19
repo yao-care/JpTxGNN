@@ -56,7 +56,7 @@ TxGNN モデルは**歯肉線維腫症 (Fibromatosis, gingival)** に有効で�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、セリチニブは ALK・IGF-1R・ROS1 を阻害するチロシンキナーゼ阻害薬で、ALK 陽性非小細胞肺癌での有効性が確立されています。
+米国 FDA が承認した Ceritinib の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「セリチニブはキナーゼ阻害薬である。臨床的に意義のある濃度において生化学的アッセイまたは細胞アッセイで同定されたセリチニブの阻害標的には、ALK、インスリン様成長因子1受容体（IGF-1R）、インスリン受容体（InsR）およびROS1が含まれる。」英語原文："Ceritinib is a kinase inhibitor. Targets of ceritinib inhibition identified in either biochemical or cellular assays at clinically relevant concentrations include ALK, insulin-like growth factor 1 receptor (IGF-1R), insulin receptor (InsR), and ROS1."（[DailyMed: Zykadia (ceritinib) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fff5d805-4ffd-4e8e-8e63-6f129697563e)、版 2026-10-28、参照日 2026-11-19）。既知の情報によると、セリチニブは ALK・IGF-1R・ROS1 を阻害するチロシンキナーゼ阻害薬で、ALK 陽性非小細胞肺癌での有効性が確立されています。
 
 一方、ALK シグナルと歯肉線維腫症との間に確立された関連は見当たりません。この予測は TxGNN モデルのスコアのみに基づいており、機序的な裏付けは現時点で確認できません。
 
@@ -130,12 +130,13 @@ TxGNN モデルは**歯肉線維腫症 (Fibromatosis, gingival)** に有効で�
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「さらに、日本での販売承認は取消済みです」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-06 | 削除：「日本での承認取消の経緯の確認と、投与経路の適合性評価」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Zykadia (ceritinib) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fff5d805-4ffd-4e8e-8e63-6f129697563e) |
 
 <!-- review:end log -->
 

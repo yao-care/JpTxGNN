@@ -55,7 +55,7 @@ TxGNN モデルは**片頭痛 (migraine disorder)** に有効である可能性�
 
 ## この予測が妥当である理由
 
-詳細な作用機序データは、現在ありません。既知の情報によると、チザニジンは中枢性のα2アドレナリン受容体作動薬で、脊髄での反射亢進や筋緊張を抑える薬剤です。
+米国 FDA が承認した Tizanidine の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「チザニジンは中枢性α2アドレナリン受容体作動薬であり、運動ニューロンのシナプス前抑制を増強することにより痙縮を軽減すると推定される。チザニジンの作用は多シナプス経路において最も大きい。これらの作用の全体的な効果として、脊髄運動ニューロンの促通が減少すると考えられている。」英語原文："Tizanidine is a central alpha-2-adrenergic receptor agonist and presumably reduces spasticity by increasing presynaptic inhibition of motor neurons. The effects of tizanidine are greatest on polysynaptic pathways. The overall effect of these actions is thought to reduce facilitation of spinal motor neurons."（[DailyMed: Zanaflex (tizanidine hydrochloride) prescribing information, Legacy Pharma USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=60c27d35-7349-4fc6-86ad-70fffdbe3e08)、版 2026-01-02、参照日 2026-11-19）。既知の情報によると、チザニジンは中枢性のα2アドレナリン受容体作動薬で、脊髄での反射亢進や筋緊張を抑える薬剤です。
 
 片頭痛と痙縮は一見異なる疾患です。ただし、チザニジンは三叉神経系や脳幹での痛み伝達を抑え、筋緊張を和らげる可能性があります。この点が、頭痛や片頭痛の予防に役立つと考えられています。
 
@@ -140,11 +140,12 @@ TxGNN モデルは**片頭痛 (migraine disorder)** に有効である可能性�
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Zanaflex (tizanidine hydrochloride) prescribing information, Legacy Pharma USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=60c27d35-7349-4fc6-86ad-70fffdbe3e08) |
 
 <!-- review:end log -->
 

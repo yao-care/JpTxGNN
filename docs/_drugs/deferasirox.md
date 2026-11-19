@@ -56,7 +56,7 @@ TxGNN モデルは **HIV感染症 (HIV infectious disease)** に有効である�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。デフェラシロクスは鉄キレート剤であり、体内の過剰な鉄を結合して排出を促す薬剤です。
+米国 FDA が承認した Deferasirox の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「Exjade（デフェラシロクス）は、鉄（Fe 3+ として）に選択的な経口活性キレート剤である。鉄と2:1の比率で高い親和性をもって結合する三座配位子である。デフェラシロクスは亜鉛及び銅に対する親和性が非常に低いものの、デフェラシロクス投与後にはこれらの微量金属の血清中濃度にさまざまな程度の低下がみられる。」英語原文："Exjade (deferasirox) is an orally active chelator that is selective for iron (as Fe 3+ ). It is a tridentate ligand that binds iron with high affinity in a 2:1 ratio. Although deferasirox has very low affinity for zinc and copper there are variable decreases in the serum concentration of these trace metals after the administration of deferasirox."（[DailyMed: Exjade (deferasirox) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3495a70c-870c-4968-940e-8baea152cf85)、版 2026-01-28、参照日 2026-11-19）。デフェラシロクスは鉄キレート剤であり、体内の過剰な鉄を結合して排出を促す薬剤です。
 
 HIV-1 の複製は、感染者の鉄の状態に影響されることが知られています。収集された in vitro 研究（2021 年）では、エンドリソソーム内の鉄が制限されると、HIV-1 Tat 蛋白の多量体化と β-カテニン発現が高まり、Tat による HIV-1 LTR の転写活性化が抑えられると報告されています。この点から、鉄キレートが HIV に影響し得るという間接的な機序の示唆はあります。
 
@@ -101,6 +101,19 @@ HIV を直接検討した臨床試験や文献がなく、根拠は間接的な 
 - 添付文書の警告・禁忌の確認（現在未取得）
 - デフェラシロクス自体の抗 HIV 活性を調べる前臨床（in vitro）研究
 - HIV 感染者における鉄代謝とキレート療法の安全性・有効性を検討する研究計画
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Exjade (deferasirox) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3495a70c-870c-4968-940e-8baea152cf85) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

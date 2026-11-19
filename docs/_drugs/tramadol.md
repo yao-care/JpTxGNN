@@ -56,7 +56,7 @@ TxGNN モデルは **先端中節骨異形成症 Hunter-Thompson 型 (acromesome
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報では、トラマドールはμオピオイド受容体作動作用とセロトニン・ノルアドレナリン再取り込み阻害作用を併せ持つ鎮痛薬です。
+米国 FDA が承認した Tramadol の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「トラマドール塩酸塩徐放性カプセルは、オピオイド作動薬であり、ノルエピネフリン及びセロトニンの再取り込み阻害薬であるトラマドールを含有する。その作用様式は完全には解明されていないが、動物試験から、少なくとも2つの相補的な機序、すなわち未変化体及び代謝物M1のμオピオイド受容体への結合、並びにノルエピネフリン及びセロトニンの再取り込みの弱い阻害が該当すると考えられる。」英語原文："Tramadol Hydrochloride Extended-Release Capsules contain tramadol, an opioid agonist, and an inhibitor of reuptake of norepinephrine and serotonin. Although its mode of action is not completely understood, from animal tests, at least two complementary mechanisms appear applicable: binding of parent and M1 metabolite to mu-opioid receptors and weak inhibition of reuptake of norepinephrine and serotonin."（[DailyMed: Tramadol Hydrochloride Extended-Release (tramadol hydrochloride) prescribing information, Trigen Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c0bc7218-3fd0-4646-96f4-25355fc84aa9)、版 2026-01-23、参照日 2026-11-19）。既知の情報では、トラマドールはμオピオイド受容体作動作用とセロトニン・ノルアドレナリン再取り込み阻害作用を併せ持つ鎮痛薬です。
 
 一方、Hunter-Thompson 型の先端中節骨異形成症は、CDMP1/GDF5 シグナルの異常が原因の遺伝性骨格異形成症です。トラマドールの鎮痛作用はこの経路に関与せず、機序的な結びつきは見いだせません。
 
@@ -120,18 +120,25 @@ TxGNN モデルは **先端中節骨異形成症 Hunter-Thompson 型 (acromesome
 - 添付文書の警告・禁忌の取得と確認
 - 予測疾患に対する機序的根拠、または前臨床・臨床データの提示
 - 対症的な鎮痛用途を検討する場合は、その用途に絞った別評価（骨・関節疾患での疼痛管理）
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Tramadol Hydrochloride Extended-Release (tramadol hydrochloride) prescribing information, Trigen Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c0bc7218-3fd0-4646-96f4-25355fc84aa9) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。
 臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-
-
-
-
 
 <!-- brand-names:start -->
 ## 日本での販売名

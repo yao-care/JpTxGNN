@@ -56,7 +56,7 @@ TxGNN モデルは **三叉神経腫瘍 (trigeminal nerve neoplasm)** に有効�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報では、プリミドンは代謝物のフェノバルビタールと PEMA を介して作用する抗てんかん薬です。主に GABA-A を介した抑制の増強により、神経の過剰興奮を抑えると考えられます。
+米国 FDA が承認した Primidone の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「MYSOLINE は、実験動物において電気ショック又は化学ショックによる痙攣閾値を上昇させる、又は痙攣パターンを変化させる。プリミドンの抗てんかん作用の機序は不明である。プリミドン自体が抗痙攣作用を有し、その 2 つの代謝物であるフェノバルビタール及びフェニルエチルマロンアミド（PEMA）も同様に抗痙攣作用を有する。」英語原文："MYSOLINE raises electro- or chemoshock seizure thresholds or alters seizure patterns in experimental animals. The mechanism(s) of primidone’s antiepileptic action is not known. Primidone per se has anticonvulsant activity as do its two metabolites, phenobarbital and phenylethylmalonamide (PEMA)."（[DailyMed: Mysoline (primidone) prescribing information, Bausch Health US, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=af593171-dabb-4ea3-b44c-89ed457b2c46)、版 2026-09-10、参照日 2026-11-19）。既知の情報では、プリミドンは代謝物のフェノバルビタールと PEMA を介して作用する抗てんかん薬です。主に GABA-A を介した抑制の増強により、神経の過剰興奮を抑えると考えられます。
 
 一方、三叉神経腫瘍は腫瘍性疾患です。プリミドンには抗腫瘍作用の知見がなく、既存適応症との機序的な関連も見いだせません。この予測は臨床的にも機序的にも裏付けがなく、妥当性は低いと判断します。
 
@@ -116,18 +116,25 @@ TxGNN モデルは **三叉神経腫瘍 (trigeminal nerve neoplasm)** に有効�
 - DrugBank からの作用機序データの補充
 - 再検討するなら、抗腫瘍の見込みが薄い第 1 位ではなく、てんかん関連（反射てんかンなど）や三叉神経痛を優先し、プリミドン固有の臨床データを調査する
 - 日本での販売再開や供給の可否の確認
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Mysoline (primidone) prescribing information, Bausch Health US, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=af593171-dabb-4ea3-b44c-89ed457b2c46) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。
 臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-
-
-
-
 
 <!-- brand-names:start -->
 ## 日本での販売名

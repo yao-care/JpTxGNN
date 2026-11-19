@@ -55,7 +55,7 @@ TxGNN モデルは**骨髄性白血病 (Myeloid Leukemia)** に有効である�
 
 ## この予測が妥当である理由
 
-レナリドミドはサリドマイド誘導体で、セレブロン (CRL4-CRBN E3 ユビキチンリガーゼ) に結合し、IKZF1/IKZF3 や CSNK1A1 の分解を促します。さらに NK 細胞・T 細胞の免疫調節作用と TNF-α 阻害作用を持ちます。なお、今回まとめたデータには詳細な作用機序の記載がないため、ここでの機序説明は予測の根拠としてまとめられた情報に基づきます。
+レナリドミドはサリドマイド誘導体で、セレブロン (CRL4-CRBN E3 ユビキチンリガーゼ) に結合し、IKZF1/IKZF3 や CSNK1A1 の分解を促します。さらに NK 細胞・T 細胞の免疫調節作用と TNF-α 阻害作用を持ちます。米国 FDA が承認した Lenalidomide の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「レナリドミドは、免疫調節作用、血管新生阻害作用及び抗腫瘍作用を有するサリドマイドの類似体である。レナリドミドの細胞における作用は、カリン・リングE3ユビキチンリガーゼ酵素複合体の構成要素であるその標的セレブロンを介して発現する。」英語原文："Lenalidomide is an analogue of thalidomide with immunomodulatory, antiangiogenic, and antineoplastic properties. Cellular activities of lenalidomide are mediated through its target cereblon, a component of a cullin ring E3 ubiquitin ligase enzyme complex."（[DailyMed: Revlimid (lenalidomide) prescribing information, Celgene Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5fa97bf5-28a2-48f1-8955-f56012d296be)、版 2023-03-24、参照日 2026-11-19）。
 
 既存適応症の 5q 欠失 MDS は、骨髄系の腫瘍性疾患で、急性骨髄性白血病 (AML) へ移行することがあります。骨髄性白血病は MDS と病態が近く、del(5q) 細胞では CSNK1A1 の片アレル欠失により、レナリドミドによる分解に特に感受性が高まります。この点は、5q 異常を伴う AML でも機序的に適用できる可能性を示します。
 
@@ -159,12 +159,13 @@ TxGNN モデルは**骨髄性白血病 (Myeloid Leukemia)** に有効である�
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「日本の承認は全件が取消済みで、添付文書の警告・禁忌データも欠けているため、安全性面のガードレールが必要です」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-06 | 削除：「日本での承認取消の経緯の確認と、供給体制の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Revlimid (lenalidomide) prescribing information, Celgene Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5fa97bf5-28a2-48f1-8955-f56012d296be) |
 
 <!-- review:end log -->
 

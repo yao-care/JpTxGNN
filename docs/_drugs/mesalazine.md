@@ -56,7 +56,7 @@ TxGNN モデルは**若年性黄斑ジストロフィーを伴う先天性乏毛
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、メサラジンは COX／リポキシゲナーゼ阻害や PPAR-γ 活性化を介した抗炎症作用を持つ薬剤で、潰瘍性大腸炎とクローン病での有効性が確立しています。
+米国 FDA が承認した Mesalazine の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「メサラミンの作用機序は完全には解明されていないが、結腸上皮細胞に対して局所的な抗炎症作用を示すと考えられる。潰瘍性大腸炎患者では、シクロオキシゲナーゼ経路及びリポキシゲナーゼ経路の両方を介した粘膜におけるアラキドン酸代謝物の産生が増加しており、メサラミンはシクロオキシゲナーゼを遮断し、結腸におけるプロスタグランジン産生を阻害することにより炎症を軽減する可能性がある。」英語原文："The mechanism of action of mesalamine is not fully understood, but it appears to have a topical anti-inflammatory effect on the colonic epithelial cells. Mucosal production of arachidonic acid metabolites, both through the cyclooxygenase and lipoxygenase pathways, is increased in patients with ulcerative colitis, and it is possible that mesalamine diminishes inflammation by blocking cyclooxygenase and inhibiting prostaglandin production in the colon."（[DailyMed: Lialda (mesalamine) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3098a080-be86-4265-9818-7fc4beab77b7)、版 2026-10-26、参照日 2026-11-19）。既知の情報によると、メサラジンは COX／リポキシゲナーゼ阻害や PPAR-γ 活性化を介した抗炎症作用を持つ薬剤で、潰瘍性大腸炎とクローン病での有効性が確立しています。
 
 一方、予測された疾患は CDH3 遺伝子に関連する遺伝性疾患です。メサラジンの抗炎症作用との間に妥当な機序的関連は見当たりません。高い TxGNN スコアは TxGNN モデル（深層学習）が出力したもので、関連する疾患間でモデルが学習した類似性を反映している可能性があり、生物学的な根拠ではありません。
 既存適応症（腸管の炎症性疾患）との類似性も未評価です。現時点では、機序的に適用可能とは言えません。
@@ -120,12 +120,13 @@ TxGNN モデルは**若年性黄斑ジストロフィーを伴う先天性乏毛
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「日本で現在有効な承認がないため、販売・供給状況の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Lialda (mesalamine) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3098a080-be86-4265-9818-7fc4beab77b7) |
 
 <!-- review:end log -->
 

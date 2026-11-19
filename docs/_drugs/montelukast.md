@@ -55,7 +55,7 @@ TxGNN モデルは**気管支炎 (Bronchitis)** に有効である可能性を�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、モンテルカストはシステイニルロイコトリエン1型 (CysLT1) 受容体を選択的に遮断します。これにより、ロイコトリエン性の気管支収縮、粘液分泌、好酸球浸潤を抑えると考えられます。この機序は、すでに承認されている喘息への効果の根拠でもあります。
+米国 FDA が承認した Montelukast の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「システイニルロイコトリエン（LTC 4、LTD 4、LTE 4）はアラキドン酸代謝産物であり、肥満細胞及び好酸球を含む様々な細胞から放出される。これらのエイコサノイドはシステイニルロイコトリエン（CysLT）受容体に結合する。[…] モンテルカストは経口活性を有する化合物であり、CysLT 1受容体に（プロスタノイド受容体、コリン受容体又はβアドレナリン受容体等の、他の薬理学的に重要な気道受容体よりも優先的に）高い親和性及び選択性で結合する。」英語原文："The cysteinyl leukotrienes (LTC 4, LTD 4, LTE 4 ) are products of arachidonic acid metabolism and are released from various cells, including mast cells and eosinophils. These eicosanoids bind to cysteinyl leukotriene (CysLT) receptors. […] Montelukast is an orally active compound that binds with high affinity and selectivity to the CysLT 1 receptor (in preference to other pharmacologically important airway receptors, such as the prostanoid, cholinergic, or β-adrenergic receptor)."（[DailyMed: Singulair (montelukast sodium) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=482dcc92-b47f-4ea6-854a-f5ac2aea7842)、版 2025-04-30、参照日 2026-11-19）。既知の情報によると、モンテルカストはシステイニルロイコトリエン1型 (CysLT1) 受容体を選択的に遮断します。これにより、ロイコトリエン性の気管支収縮、粘液分泌、好酸球浸潤を抑えると考えられます。この機序は、すでに承認されている喘息への効果の根拠でもあります。
 
 気管支喘息と気管支炎は、どちらも下気道の炎症性疾患です。CysLT1 の遮断でウイルス感染後の喘鳴や気道炎症を和らげられる可能性があり、予測には機序上の整合性があります。
 
@@ -124,18 +124,25 @@ TxGNN モデルは**気管支炎 (Bronchitis)** に有効である可能性を�
 - 日本での承認状況と供給状況の確認
 - 詳細な作用機序データの補完
 - 参考として、同じ薬物の予測のうち、気管支喘息（L1）とアトピー性湿疹（L2）はエビデンスが強いため、優先度の再検討が考えられます。
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Singulair (montelukast sodium) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=482dcc92-b47f-4ea6-854a-f5ac2aea7842) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。
 臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-
-
-
-
 
 <!-- brand-names:start -->
 ## 日本での販売名

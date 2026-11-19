@@ -56,7 +56,7 @@ TxGNN モデルは**神経芽腫 (neuroblastoma)** に有効である可能性�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。日本の承認情報では、アナストロゾールは「エストロゲン生合成阻害薬」に分類されています。
+米国 FDA が承認した Anastrozole の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「多くの乳癌の増殖は、エストロゲンにより促進または維持される。閉経後女性では、エストロゲンは主にアロマターゼ酵素の作用により生成され、この酵素は副腎由来のアンドロゲン（主にアンドロステンジオンおよびテストステロン）をエストロンおよびエストラジオールに変換する。[…] アナストロゾールは選択的非ステロイド性アロマターゼ阻害剤である。」英語原文："The growth of many cancers of the breast is stimulated or maintained by estrogens. In postmenopausal women, estrogens are mainly derived from the action of the aromatase enzyme, which converts adrenal androgens (primarily androstenedione and testosterone) to estrone and estradiol. […] Anastrozole is a selective non-steroidal aromatase inhibitor."（[DailyMed: Arimidex (anastrozole) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=acbfaaa9-503c-4691-9828-76a7146ed6de)、版 2026-03-02、参照日 2026-11-19）。日本の承認情報では、アナストロゾールは「エストロゲン生合成阻害薬」に分類されています。
 
 一方で、アロマターゼ阻害と神経芽腫の生物学との間に確立した関連は、今回のデータでは確認できません。神経芽腫は神経堤由来の小児に多い腫瘍で、エストロゲンシグナルへの依存性は示されていません。この予測は、高いモデルスコアのみに基づく仮説の段階です。
 
@@ -113,6 +113,19 @@ TxGNN モデルは**神経芽腫 (neuroblastoma)** に有効である可能性�
 - 詳細な作用機序データ（MOA）の取得
 - 添付文書（PMDA）の警告・禁忌の取得と、安全性評価
 - 小児患者への適用を想定した安全性・投与量の検討
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Arimidex (anastrozole) prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=acbfaaa9-503c-4691-9828-76a7146ed6de) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

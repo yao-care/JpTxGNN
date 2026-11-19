@@ -56,7 +56,7 @@ TxGNN モデルは**先端中間異形成 Hunter-Thompson 型 (acromesomelic dys
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、イブプロフェンは COX 阻害により、プロスタグランジン合成を抑えて鎮痛・抗炎症・解熱作用を示す薬剤です。
+米国 FDA が承認した Ibuprofen の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「イブプロフェンは鎮痛、抗炎症及び解熱作用を有する。CALDOLORの作用機序は、他のNSAIDsと同様に完全には解明されていないが、シクロオキシゲナーゼ（COX-1及びCOX-2）の阻害が関与している。」英語原文："Ibuprofen has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of CALDOLOR, like that of other NSAIDs, is not completely understood but involves inhibition of cyclooxygenase (COX-1 and COX-2)."（[DailyMed: Caldolor (ibuprofen) prescribing information, Cumberland Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1eaa7790-f1a1-4f51-b10a-cbbaf033f684)、版 2026-01-29、参照日 2026-11-19）。既知の情報によると、イブプロフェンは COX 阻害により、プロスタグランジン合成を抑えて鎮痛・抗炎症・解熱作用を示す薬剤です。
 
 一方、先端中間異形成 Hunter-Thompson 型は、CDMP1/GDF5 に関連する遺伝性の骨格異形成症です。COX 阻害とこの疾患の病態との間に、確立した機序的関連はありません。既存適応症である関節リウマチとの類似性も未評価です。
 
@@ -117,12 +117,13 @@ TxGNN モデルは**先端中間異形成 Hunter-Thompson 型 (acromesomelic dys
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「取消済み」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Caldolor (ibuprofen) prescribing information, Cumberland Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1eaa7790-f1a1-4f51-b10a-cbbaf033f684) |
 
 <!-- review:end log -->
 

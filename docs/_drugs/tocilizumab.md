@@ -56,7 +56,7 @@ TxGNN モデルは**強直性脊椎炎 (Ankylosing Spondylitis)** に有効で�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、トシリズマブは IL-6 受容体のシグナルを遮断するヒト化モノクローナル抗体です。IL-6 は体軸性脊椎関節炎の炎症に関与するサイトカインと考えられており、関節リウマチなど既存の適応症と共通する炎症経路を持ちます。
+米国 FDA が承認した Tocilizumab の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「トシリズマブ製剤は可溶性及び膜結合型IL-6受容体（sIL-6R及びmIL-6R）の両方に結合し、これらの受容体を介したIL-6介在性シグナル伝達を阻害することが示されている。IL-6は、T細胞及びB細胞、リンパ球、単球並びに線維芽細胞を含む様々な種類の細胞により産生される多面的な炎症性サイトカインである。」英語原文："Tocilizumab products bind to both soluble and membrane-bound IL-6 receptors (sIL-6R and mIL-6R), and have been shown to inhibit IL-6-mediated signaling through these receptors. IL-6 is a pleiotropic pro-inflammatory cytokine produced by a variety of cell types including T- and B-cells, lymphocytes, monocytes and fibroblasts."（[DailyMed: Avtozma (tocilizumab) prescribing information, CELLTRION USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=581c288f-8015-40ef-a4c3-683c96db193d)、版 2026-10-20、参照日 2026-11-19）。既知の情報によると、トシリズマブは IL-6 受容体のシグナルを遮断するヒト化モノクローナル抗体です。IL-6 は体軸性脊椎関節炎の炎症に関与するサイトカインと考えられており、関節リウマチなど既存の適応症と共通する炎症経路を持ちます。
 
 強直性脊椎炎は関節リウマチと同じ慢性炎症性リウマチ性疾患で、機序の面では適用可能性があります。ただし、専用の Phase 3 試験（BUILDER-1/2）では症状改善効果が明確には示されませんでした。そのため、機序上の根拠は臨床的に確認されていません。
 
@@ -147,12 +147,13 @@ TxGNN モデルは**強直性脊椎炎 (Ankylosing Spondylitis)** に有効で�
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「日本での現行の承認・販売状況（取消の背景を含む）の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-12 | 訂正：620006804・629936801・629936601 は「取消済み」ではなく有効 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Avtozma (tocilizumab) prescribing information, CELLTRION USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=581c288f-8015-40ef-a4c3-683c96db193d) |
 
 <!-- review:end log -->
 

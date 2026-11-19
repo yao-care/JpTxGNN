@@ -56,7 +56,7 @@ TxGNN モデルは **早老症・低身長・色素性母斑症候群 (progeria-
 
 ## この予測が妥当かどうか
 
-現在、詳細な作用機序データはありません。カベルゴリンはドパミンD2受容体作動薬に分類され、D2受容体を介してホルモン分泌を抑える薬です。
+米国 FDA が承認した Cabergoline の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「カベルゴリンは麦角誘導体であり、D2受容体に高い親和性を有するドパミン受容体作動薬である。in vitro試験の結果から、カベルゴリンはラット下垂体プロラクチン産生細胞によるプロラクチン分泌に対して直接的な抑制作用を示すことが示されている。」英語原文："Cabergoline is an ergot derivative and dopamine receptor agonist with a high affinity for D2 receptors. Results of in vitro studies demonstrate that cabergoline exerts a direct inhibitory effect on the secretion of prolactin by rat pituitary lactotrophs."（[DailyMed: cabergoline prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e497366b-a124-4d7f-bd45-a883c392d4bb)、版 2026-06-30、参照日 2026-11-19）。カベルゴリンはドパミンD2受容体作動薬に分類され、D2受容体を介してホルモン分泌を抑える薬です。
 
 今回の予測疾患とD2受容体作動作用を結びつける機序は、現時点で見いだせていません。この疾患に対する臨床試験や文献による裏付けもないため、予測の妥当性は確認できていません。スコアは高い値ですが、実際の研究で支持されたものではありません。
 
@@ -93,6 +93,19 @@ TxGNN モデルは **早老症・低身長・色素性母斑症候群 (progeria-
 - 詳細な作用機序データ (MOA) の補充
 - 添付文書の警告と禁忌の確認 (現時点では未取得)
 - 当該疾患の患者を対象とした症例報告や小規模な探索的研究の有無の調査
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: cabergoline prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e497366b-a124-4d7f-bd45-a883c392d4bb) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

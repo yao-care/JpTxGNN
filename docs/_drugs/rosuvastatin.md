@@ -55,7 +55,7 @@ TxGNN モデルは**コレステロールエステル転送蛋白欠損症 (chol
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、ロスバスタチンは肝臓の HMG-CoA 還元酵素を阻害してコレステロール合成を抑え、LDL 受容体を介した LDL-C のクリアランスを高めるスタチンです。高コレステロール血症と家族性高コレステロール血症での有効性は確立しています。
+米国 FDA が承認した Rosuvastatin の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「CRESTORは、3-ヒドロキシ-3-メチルグルタリル補酵素Aをコレステロールの前駆体であるメバロン酸に変換する律速酵素であるHMG-CoA還元酵素の阻害薬である。」英語原文："CRESTOR is an inhibitor of HMG‑CoA reductase, the rate-limiting enzyme that converts 3‑hydroxy‑3‑methylglutaryl coenzyme A to mevalonate, a precursor of cholesterol."（[DailyMed: Crestor (rosuvastatin) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=325a5d0e-9a72-4015-9fcd-1655fb504cee)、版 2026-09-23、参照日 2026-11-19）。既知の情報によると、ロスバスタチンは肝臓の HMG-CoA 還元酵素を阻害してコレステロール合成を抑え、LDL 受容体を介した LDL-C のクリアランスを高めるスタチンです。高コレステロール血症と家族性高コレステロール血症での有効性は確立しています。
 
 一方、CETP 欠損症は主に **HDL-C が著しく高くなる**疾患です。ロスバスタチンの主な作用は LDL-C 低下であり、この疾患の中心的な病態を直接標的にするわけではありません。どちらも脂質代謝の異常という点では共通しますが、機序面のつながりは弱く、この予測は TxGNN モデルの出力だけに依存しています。
 
@@ -103,18 +103,25 @@ TxGNN モデルは**コレステロールエステル転送蛋白欠損症 (chol
 - 日本での現在の販売状況の再確認（収載された承認 20 件は有効）
 
 **参考：**同じ予測リストでは、HIV 感染症が L2 のエビデンスで、Proceed with Guardrails と判定されています。
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Crestor (rosuvastatin) prescribing information, AstraZeneca Pharmaceuticals LP](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=325a5d0e-9a72-4015-9fcd-1655fb504cee) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。
 臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-
-
-
-
 
 <!-- brand-names:start -->
 ## 日本での販売名

@@ -56,7 +56,7 @@ TxGNN モデルは**歯肉線維腫症 (Fibromatosis, Gingival)** に有効で�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。ポナチニブは BCR-ABL、FGFR、PDGFR、VEGFR、SRC を標的とする多標的チロシンキナーゼ阻害薬として知られており、慢性骨髄性白血病での有効性が示されています。
+米国 FDA が承認した Ponatinib の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「ポナチニブはキナーゼ阻害薬である。ポナチニブは in vitro において ABL 及び T315I 変異型 ABL のチロシンキナーゼ活性を阻害し、その IC 50 値はそれぞれ 0.4 nM 及び 2.0 nM であった。ポナチニブは、VEGFR、PDGFR、FGFR、EPH 受容体及び SRC キナーゼファミリーのメンバー、並びに KIT、RET、TIE2 及び FLT3 を含む他のキナーゼの in vitro 活性も、0.1 nM から 20 nM の IC 50 値で阻害した。」英語原文："Ponatinib is a kinase inhibitor. Ponatinib inhibited the in vitro tyrosine kinase activity of ABL and T315I mutant ABL with IC 50 concentrations of 0.4 nM and 2.0 nM, respectively. Ponatinib inhibited the in vitro activity of additional kinases with IC 50 concentrations between 0.1 nM and 20 nM, including members of the VEGFR, PDGFR, FGFR, EPH receptors and SRC families of kinases, and KIT, RET, TIE2, and FLT3."（[DailyMed: Iclusig (ponatinib hydrochloride) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=16d804b6-4957-43ee-b18c-3b36ec37c5ac)、版 2026-08-14、参照日 2026-11-19）。ポナチニブは BCR-ABL、FGFR、PDGFR、VEGFR、SRC を標的とする多標的チロシンキナーゼ阻害薬として知られており、慢性骨髄性白血病での有効性が示されています。
 
 これらのキナーゼは線維芽細胞の増殖や細胞外マトリックスの沈着にも関与するため、理論上は歯肉線維腫症の病態に影響し得ます。ただし、この関連付けは TxGNN の予測に基づくもので、臨床・文献による裏付けはありません。
 
@@ -115,11 +115,12 @@ TxGNN モデルは**歯肉線維腫症 (Fibromatosis, Gingival)** に有効で�
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「歯肉線維腫症への適用は TxGNN の予測のみで、臨床試験も文献もなく（L5）、日本での承認も整理済みです」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Iclusig (ponatinib hydrochloride) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=16d804b6-4957-43ee-b18c-3b36ec37c5ac) |
 
 <!-- review:end log -->
 

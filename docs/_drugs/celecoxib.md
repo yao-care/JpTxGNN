@@ -55,7 +55,7 @@ TxGNN モデルは**先端中間肢異形成症 Hunter-Thompson 型 (acromesomel
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。公知の情報では、セレコキシブは選択的 COX-2 阻害薬で、プロスタグランジンを介した炎症を抑える薬剤です。
+米国 FDA が承認した Celecoxib の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「セレコキシブは鎮痛作用、抗炎症作用および解熱作用を有する。セレコキシブの作用機序は、主としてCOX-2の阻害を介したプロスタグランジン合成の阻害によるものと考えられている。セレコキシブはin vitroにおいてプロスタグランジン合成の強力な阻害薬である。」英語原文："Celecoxib has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of celecoxib is believed to be due to inhibition of prostaglandin synthesis, primarily via inhibition of COX-2. Celecoxib is a potent inhibitor of prostaglandin synthesis in vitro."（[DailyMed: Vyscoxa (celecoxib) prescribing information, Carwin Pharmaceutical Associates, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5094d47e-f791-4190-9397-b7500143a74d)、版 2025-07-31、参照日 2026-11-19）。公知の情報では、セレコキシブは選択的 COX-2 阻害薬で、プロスタグランジンを介した炎症を抑える薬剤です。
 
 一方、この疾患は CDMP1/GDF5 に関連する遺伝性の骨格異形成で、炎症性の要素はほとんどありません。COX-2 阻害との機序的なつながりは見当たらず、今回のスコアはデータ上の関連性に基づくもので、生物学的な裏付けは乏しいと考えられます。
 
@@ -79,6 +79,19 @@ TxGNN モデルは**先端中間肢異形成症 Hunter-Thompson 型 (acromesomel
 - 疾患の病態と COX-2 経路の関連を示す前臨床研究・機序研究
 - 詳細な作用機序データ（MOA）の補完
 - 添付文書の警告・禁忌情報の確認（PMDA）
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Vyscoxa (celecoxib) prescribing information, Carwin Pharmaceutical Associates, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5094d47e-f791-4190-9397-b7500143a74d) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

@@ -55,7 +55,7 @@ TxGNN モデルは**光線性口唇炎 (Actinic Cheilitis)** に有効である�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、ビダラビンはアデニンヌクレオシド類似体で、ウイルスの DNA ポリメラーゼを阻害する外用抗ウイルス薬です。帯状疱疹や単純疱疹での使用実績があります。
+ChEMBL（EMBL-EBI）に登録されている Vidarabine の作用機序（非公式訳）：「ヒトヘルペスウイルス1 DNAポリメラーゼ阻害薬」英語原文："Human herpesvirus 1 DNA polymerase inhibitor"（[ChEMBL CHEMBL1090 (vidarabine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1090)、CC BY-SA 3.0、参照日 2026-11-19）。既知の情報によると、ビダラビンはアデニンヌクレオシド類似体で、ウイルスの DNA ポリメラーゼを阻害する外用抗ウイルス薬です。帯状疱疹や単純疱疹での使用実績があります。
 
 一方、光線性口唇炎は紫外線によって生じる前癌性病変で、ウイルス性疾患ではありません。そのため、ビダラビンの抗ウイルス作用と直接結びつく機序は確認できません。この予測は、TxGNN の高スコアのみに基づいています。
 
@@ -125,12 +125,13 @@ TxGNN モデルは**光線性口唇炎 (Actinic Cheilitis)** に有効である�
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 | 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [ChEMBL CHEMBL1090 (vidarabine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1090) |
 
 <!-- review:end log -->
 

@@ -55,7 +55,7 @@ TxGNN モデルは**十二指腸閉塞 (duodenal obstruction)** に有効であ�
 
 ## この予測が妥当である理由
 
-ファモチジンは H2 受容体を遮断して胃酸分泌を抑える薬です。詳細な作用機序データは、現在、このレポート用に集めたデータにはありません。
+ファモチジンは H2 受容体を遮断して胃酸分泌を抑える薬です。米国 FDA が承認した Famotidine の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「ファモチジンはヒスタミン2（H2）受容体の競合的阻害薬である。ファモチジンの臨床的に重要な主な薬理作用は胃液分泌の抑制である。ファモチジンにより胃液分泌の酸濃度及び分泌量はいずれも抑制され、一方、ペプシン分泌の変化は分泌量に比例する。」英語原文："Famotidine is a competitive inhibitor of histamine-2 (H2) receptors. The primary clinically important pharmacologic activity of famotidine is inhibition of gastric secretion. Both the acid concentration and volume of gastric secretion are suppressed by famotidine, while changes in pepsin secretion are proportional to volume output."（[DailyMed: Pepcid (famotidine) prescribing information, Bausch Health US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a06502d9-7903-4f37-833e-e5763d502def)、版 2024-06-01、参照日 2026-11-19）。
 
 十二指腸閉塞そのものは機械的な通過障害であり、胃酸抑制では閉塞を解除できません。ただし、吻合部潰瘍などの潰瘍性合併症を伴う場合には、酸抑制が間接的に役立つ可能性があります。予測スコアが高いのは、承認されている酸関連疾患との近さを反映している可能性が高く、機序的な裏付けは間接的です。
 
@@ -102,6 +102,19 @@ TxGNN モデルは**十二指腸閉塞 (duodenal obstruction)** に有効であ�
 - 詳細な作用機序データ
 - 添付文書の警告・禁忌情報の確認
 - 対象を絞った適応の定義（閉塞に伴う潰瘍や症状への対症的使用に限るかどうかなど）
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Pepcid (famotidine) prescribing information, Bausch Health US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a06502d9-7903-4f37-833e-e5763d502def) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

@@ -56,7 +56,7 @@ TxGNN モデルは **むずむず脚症候群 (restless legs syndrome)** に有�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。ただし、クロナゼパムはベンゾジアゼピン系薬として GABA-A 受容体を介した抑制性神経伝達を増強することが知られています。これにより、感覚運動系の覚醒を抑え、睡眠の分断を減らす可能性があります。
+米国 FDA が承認した Clonazepam の添付文書（Prescribing Information）の「Clinical Pharmacology」の項によると（非公式訳）、「クロナゼパムが抗てんかん作用および抗パニック作用を示す正確な機序は不明であるが、中枢神経系における主要な抑制性神経伝達物質であるγ-アミノ酪酸（GABA）の作用を増強する能力に関連していると考えられている。」英語原文："The precise mechanism by which clonazepam exerts its antiseizure and antipanic effects is unknown, although it is believed to be related to its ability to enhance the activity of gamma aminobutyric acid (GABA), the major inhibitory neurotransmitter in the central nervous system."（[DailyMed: Klonopin (clonazepam) prescribing information, H2-Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cfa0d79a-843c-4b88-95a1-e9511d649ca1)、版 2025-12-01、参照日 2026-11-19）。ただし、クロナゼパムはベンゾジアゼピン系薬として GABA-A 受容体を介した抑制性神経伝達を増強することが知られています。これにより、感覚運動系の覚醒を抑え、睡眠の分断を減らす可能性があります。
 
 むずむず脚症候群は、夜間の下肢不快感と動かしたい衝動により入眠や睡眠維持が妨げられる疾患です。そのため、睡眠を誘導・維持するベンゾジアゼピン系薬は、機序的に症状緩和に寄与し得ると考えられます。実際に文献では、クロナゼパムが本症の治療に使われてきたことが報告されています。
 
@@ -103,6 +103,19 @@ TxGNN モデルは **むずむず脚症候群 (restless legs syndrome)** に有�
 - 詳細な作用機序データ（MOA）の補充
 - 既存の第一選択薬との比較、またはその併用を評価する臨床試験の設計
 - 依存性や長期使用に関するリスク評価と、特定集団（高齢者など）の安全性モニタリング計画
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Klonopin (clonazepam) prescribing information, H2-Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cfa0d79a-843c-4b88-95a1-e9511d649ca1) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

@@ -57,7 +57,7 @@ TxGNN モデルの最上位予測は乳房パジェット病 (Mammary Paget Dise
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、タモキシフェンは抗悪性腫瘍薬に分類されるエストロゲン受容体調節薬で、ER 陽性乳癌での有効性が確立しています。
+米国 FDA が承認した Tamoxifen の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「タモキシフェンはエストロゲンアゴニスト／アンタゴニストである。タモキシフェンはエストロゲン受容体への結合においてエストロゲンと競合し、その結果、乳腺組織におけるエストロゲン受容体シグナル伝達依存性の増殖が低下する可能性がある。タモキシフェンは、マウスに異種移植したヒト乳癌細胞株に対して抗腫瘍活性を示した。」英語原文："Tamoxifen is an estrogen agonist/antagonist. Tamoxifen competes with estrogen for binding to the estrogen receptor, which can result in a decrease in estrogen receptor signaling-dependent growth in breast tissue. Tamoxifen has demonstrated antitumor activity against human breast cancer cell lines xenografted in mice."（[DailyMed: Soltamox (tamoxifen citrate) prescribing information, Mayne Pharma](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e6ff055-590c-41e6-9530-1fdf04cdbd02)、版 2021-11-29、参照日 2026-11-19）。既知の情報によると、タモキシフェンは抗悪性腫瘍薬に分類されるエストロゲン受容体調節薬で、ER 陽性乳癌での有効性が確立しています。
 
 乳腺上皮内癌（DCIS など）は浸潤性乳癌の前駆病変であり、ER 陽性例ではエストロゲン刺激で増殖します。タモキシフェンは ER シグナルを遮断するため、同側・対側の再発を抑える機序的な根拠があります。
 
@@ -162,11 +162,12 @@ TxGNN モデルの最上位予測は乳房パジェット病 (Mammary Paget Dise
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「現在は承認が整理済み」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Soltamox (tamoxifen citrate) prescribing information, Mayne Pharma](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e6ff055-590c-41e6-9530-1fdf04cdbd02) |
 
 <!-- review:end log -->
 

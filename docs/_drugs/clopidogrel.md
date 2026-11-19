@@ -57,7 +57,7 @@ TxGNN モデルは、上位予測の一つである**片頭痛 (Migraine Disorde
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、クロピドグレルは P2Y12 阻害薬に分類され、血小板凝集抑制薬として有効性が確立されています。
+米国 FDA が承認した Clopidogrel の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「クロピドグレルは、その活性代謝物が血小板上のADP受容体P2Y 12 クラスに不可逆的に結合することにより、血小板の活性化および凝集を阻害する。」英語原文："Clopidogrel is an inhibitor of platelet activation and aggregation through the irreversible binding of its active metabolite to the P2Y 12 class of ADP receptors on platelets."（[DailyMed: Plavix (clopidogrel) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de8b0b67-eb25-4684-83b5-7ad785314227)、版 2025-05-30、参照日 2026-11-19）。既知の情報によると、クロピドグレルは P2Y12 阻害薬に分類され、血小板凝集抑制薬として有効性が確立されています。
 
 片頭痛、特に前兆を伴う片頭痛は、右左シャント（卵円孔開存：PFO など）との関連が知られています。P2Y12 阻害による血小板活性化の抑制と、血小板由来の血管作動性物質（セロトニンなど）の放出抑制が、片頭痛の頻度を下げる可能性があります。また、シャントを介した微小塞栓の抑制も、仮説として挙げられています。
 
@@ -137,11 +137,12 @@ TxGNN モデルは、上位予測の一つである**片頭痛 (Migraine Disorde
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「日本での承認が全件整理済みであるため、供給・承認状況の再確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Plavix (clopidogrel) prescribing information, Sanofi-Aventis U.S. LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=de8b0b67-eb25-4684-83b5-7ad785314227) |
 
 <!-- review:end log -->
 

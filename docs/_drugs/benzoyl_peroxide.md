@@ -56,7 +56,7 @@ TxGNN モデルは**外陰逆性毛包性角化症 (vulvar inverted follicular k
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。ベンゾイルパーオキサイドは角質溶解作用、抗菌作用、面皰溶解作用を併せもつことが知られており、毛包の角化に影響しうると考えられます。
+米国 FDA が承認した Benzoyl Peroxide の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「過酸化ベンゾイルは殺菌作用及び角質溶解作用を有する酸化剤であるが、酒さの治療における正確な作用機序は不明である。」英語原文："Benzoyl peroxide is an oxidizing agent with bactericidal and keratolytic effects but the precise mechanism of action in the treatment of rosacea is unknown."（[DailyMed: Epsolay (benzoyl peroxide) prescribing information, Mayne Pharma Commercial LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=641981e6-460b-44dd-8146-306c47e5367c)、版 2025-08-11、参照日 2026-11-19）。ベンゾイルパーオキサイドは角質溶解作用、抗菌作用、面皰溶解作用を併せもつことが知られており、毛包の角化に影響しうると考えられます。
 
 逆性毛包性角化症は毛包に関連した角化性病変であるため、毛包角化への作用という点で機序的な接点が想定されます。ただし、この関連は推測の域を出ず、TxGNN の予測のみに基づいています。臨床的・文献的な裏付けはありません。
 
@@ -92,6 +92,19 @@ TxGNN モデルは**外陰逆性毛包性角化症 (vulvar inverted follicular k
 - 添付文書（PMDA）の警告・禁忌・相互作用情報の取得と確認
 - 作用機序データの補充と、本疾患の病態との機序的関連の検討
 - 外陰部など粘膜に近い部位への外用の安全性（刺激性・感作性）評価
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Epsolay (benzoyl peroxide) prescribing information, Mayne Pharma Commercial LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=641981e6-460b-44dd-8146-306c47e5367c) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

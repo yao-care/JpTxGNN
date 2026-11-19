@@ -57,7 +57,7 @@ description: "Trastuzumab：予測新適応症はMalignant cutaneous granular ce
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、トラスツズマブは HER2 の細胞外ドメインに結合するヒト化抗体です。HER2 を介した PI3K/AKT や MAPK のシグナルを阻害し、抗体依存性細胞傷害 (ADCC) も誘導します。
+米国 FDA が承認した Trastuzumab の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「HER2(又はc-erbB2)がん原遺伝子は、上皮成長因子受容体と構造的に類似した185 kDaの膜貫通型受容体タンパク質をコードする。トラスツズマブ製剤は、in vitro試験及び動物のいずれにおいても、HER2を過剰発現するヒト腫瘍細胞の増殖を阻害することが示されている。」英語原文："The HER2 (or c-erbB2) proto-oncogene encodes a transmembrane receptor protein of 185 kDa, which is structurally related to the epidermal growth factor receptor. Trastuzumab products have been shown, in both in vitro assays and in animals, to inhibit the proliferation of human tumor cells that overexpress HER2."（[DailyMed: Ogivri (trastuzumab-dkst) prescribing information, Biocon Biologics Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b6465b44-a6dd-f99c-d009-6851cf05169c)、版 2026-06-26、参照日 2026-11-19）。既知の情報によると、トラスツズマブは HER2 の細胞外ドメインに結合するヒト化抗体です。HER2 を介した PI3K/AKT や MAPK のシグナルを阻害し、抗体依存性細胞傷害 (ADCC) も誘導します。
 
 乳癌の約 5〜10% は ER 陽性・PR 陽性・HER2 陽性のトリプルポジティブです。このサブグループでは、HER2 経路とホルモン受容体経路の相互作用があるため、トラスツズマブに内分泌療法や CDK4/6 阻害薬を併用する治療が研究されています。そのため、機序的には PR 陽性乳癌のうち **HER2 陽性の症例**に適用できる可能性があります。
 
@@ -152,12 +152,13 @@ description: "Trastuzumab：予測新適応症はMalignant cutaneous granular ce
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「日本の承認も現在は取り消されています」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-06 | 削除：「日本での承認取消の経緯と、現在入手可能な製剤の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Ogivri (trastuzumab-dkst) prescribing information, Biocon Biologics Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b6465b44-a6dd-f99c-d009-6851cf05169c) |
 
 <!-- review:end log -->
 

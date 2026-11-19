@@ -55,7 +55,7 @@ TxGNN モデルは**片頭痛 (Migraine Disorder)** に有効である可能性�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、フルチカゾンは抗炎症作用をもつグルココルチコイドです。アレルギー性炎症に対する局所ステロイドとして広く使われています。
+米国 FDA が承認した Fluticasone の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「フルチカゾンプロピオン酸エステルは、抗炎症作用を有する合成3フッ素化副腎皮質ステロイドである。フルチカゾンプロピオン酸エステルは、in vitroにおいて、ヒトグルココルチコイド受容体に対し、デキサメタゾンの18倍、ベクロメタゾンプロピオン酸エステルの活性代謝物であるベクロメタゾン-17-モノプロピオネート（BMP）のほぼ2倍、ブデソニドの3倍超の結合親和性を示すことが示されている。」英語原文："Fluticasone propionate is a synthetic trifluorinated corticosteroid with anti-inflammatory activity. Fluticasone propionate has been shown in vitro to exhibit a binding affinity for the human glucocorticoid receptor that is 18 times that of dexamethasone, almost twice that of beclomethasone-17-monopropionate (BMP), the active metabolite of beclomethasone dipropionate, and over 3 times that of budesonide."（[DailyMed: Xhance (fluticasone propionate) prescribing information, Paratek Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=44fcea33-8cfa-3a5c-e063-6394a90aafb2)、版 2026-10-23、参照日 2026-11-19）。既知の情報によると、フルチカゾンは抗炎症作用をもつグルココルチコイドです。アレルギー性炎症に対する局所ステロイドとして広く使われています。
 
 片頭痛では神経原性炎症の関与が提唱されており、グルココルチコイドの抗炎症作用が理論上は関わり得ます。ただし、これは推測の域を出ません。唯一紐づく文献は、点鼻ステロイドの神経精神系の有害事象をまとめたものです。片頭痛への有効性を示すものではなく、予測の根拠は実質的に TxGNN スコアだけです。
 
@@ -101,18 +101,24 @@ TxGNN モデルは**片頭痛 (Migraine Disorder)** に有効である可能性�
 - 添付文書の警告・禁忌の確認（安全性スクリーニングの前提）
 - 日本で販売されており有効な承認が 20 件ある点を踏まえた、製剤・投与経路の再検討
 
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Xhance (fluticasone propionate) prescribing information, Paratek Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=44fcea33-8cfa-3a5c-e063-6394a90aafb2) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。
 臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-
-
-
-
 
 <!-- brand-names:start -->
 ## 日本での販売名

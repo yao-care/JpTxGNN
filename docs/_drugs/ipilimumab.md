@@ -55,7 +55,7 @@ TxGNN モデルは**脈絡膜欠損症 (choroideremia)** に有効である可�
 
 ## この予測が妥当である理由
 
-詳細な作用機序データは、現在ありません。イピリムマブは抗CTLA-4抗体であり、T細胞の活性化を促進して抗腫瘍免疫を高める薬剤です。
+米国 FDA が承認した Ipilimumab の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「CTLA-4はT細胞活性の負の調節因子である。イピリムマブはCTLA-4に結合し、CTLA-4とそのリガンドであるCD80/CD86との相互作用を阻害するモノクローナル抗体である。CTLA-4の阻害により、腫瘍浸潤エフェクターT細胞の活性化及び増殖を含め、T細胞の活性化及び増殖が増強されることが示されている。」英語原文："CTLA-4 is a negative regulator of T-cell activity. Ipilimumab is a monoclonal antibody that binds to CTLA-4 and blocks the interaction of CTLA-4 with its ligands, CD80/CD86. Blockade of CTLA-4 has been shown to augment T-cell activation and proliferation, including the activation and proliferation of tumor infiltrating T-effector cells."（[DailyMed: Yervoy (ipilimumab) prescribing information, E.R. Squibb & Sons, L.L.C.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2265ef30-253e-11df-8a39-0800200c9a66)、版 2026-08-20、参照日 2026-11-19）。イピリムマブは抗CTLA-4抗体であり、T細胞の活性化を促進して抗腫瘍免疫を高める薬剤です。
 
 一方、脈絡膜欠損症は CHM/REP1 遺伝子の変異による単一遺伝子性の遺伝性網膜変性症です。免疫活性化を主作用とするイピリムマブとの間に、機序上の妥当な接点は見いだせません。
 
@@ -100,6 +100,19 @@ TxGNN のスコアは高い値ですが、これを裏付ける臨床試験や�
 - 詳細な作用機序データ（MOA）
 - 添付文書の警告・禁忌情報の取得と安全性評価
 - 眼科領域への投与経路の適合性の検討
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Yervoy (ipilimumab) prescribing information, E.R. Squibb & Sons, L.L.C.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2265ef30-253e-11df-8a39-0800200c9a66) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

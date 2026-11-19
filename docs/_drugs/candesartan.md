@@ -57,7 +57,7 @@ TxGNN モデルは**片頭痛 (migraine disorder)** に有効である可能性�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データは薬物データベース上にありません。ただし薬理学的には、カンデサルタンはアンジオテンシンII 1 型（AT1）受容体を遮断し、血管収縮を抑えて血圧を下げる薬です。
+米国 FDA が承認した Candesartan の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「アンジオテンシンIIは、アンジオテンシン変換酵素（ACE、キニナーゼII）により触媒される反応でアンジオテンシンIから生成される。アンジオテンシンIIはレニン-アンジオテンシン系の主要な昇圧物質であり、血管収縮、アルドステロンの合成及び放出の刺激、心臓刺激並びに腎臓におけるナトリウム再吸収等の作用を有する。[…] カンデサルタンは、血管平滑筋及び副腎等の多くの組織において、アンジオテンシンIIのAT 1受容体への結合を選択的に遮断することにより、アンジオテンシンIIの血管収縮作用及びアルドステロン分泌作用を遮断する。」英語原文："Angiotensin II is formed from angiotensin I in a reaction catalyzed by angiotensin-converting enzyme (ACE, kininase II). Angiotensin II is the principal pressor agent of the renin-angiotensin system, with effects that include vasoconstriction, stimulation of synthesis and release of aldosterone, cardiac stimulation, and renal reabsorption of sodium. […] Candesartan blocks the vasoconstrictor and aldosterone-secreting effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT 1 receptor in many tissues, such as vascular smooth muscle and the adrenal gland."（[DailyMed: candesartan prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7eb297cb-ef1b-44e0-a49d-03727100579e)、版 2026-02-05、参照日 2026-11-19）。ただし薬理学的には、カンデサルタンはアンジオテンシンII 1 型（AT1）受容体を遮断し、血管収縮を抑えて血圧を下げる薬です。
 
 アンジオテンシンII の作用は、血管収縮、酸化ストレス、三叉神経血管系の感作を介して片頭痛の病態に関与すると考えられています。AT1 受容体を遮断することで、これらの経路が抑えられる可能性があります。
 
@@ -136,12 +136,13 @@ TxGNN モデルは**片頭痛 (migraine disorder)** に有効である可能性�
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「現在有効な承認はなく、以下は整理済み（承認整理）の主な承認です」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-06 | 削除：「一方で、完了した Phase 3 試験はなく、日本では現在有効な承認がなく、添付文書の安全性情報も未確認です」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: candesartan prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7eb297cb-ef1b-44e0-a49d-03727100579e) |
 
 <!-- review:end log -->
 

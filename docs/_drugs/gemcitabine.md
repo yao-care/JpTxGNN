@@ -56,7 +56,7 @@ TxGNN モデルは**直腸粘液腺癌 (rectum mucinous adenocarcinoma)** に有
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序（MOA）データはありません。ゲムシタビンは、DNA 合成を阻害するヌクレオシドアナログ系の代謝拮抗薬に分類されます。リボヌクレオチドレダクターゼの阻害を含め、増殖の盛んな細胞に作用する細胞傷害性の機序が知られています。
+米国 FDA が承認した Gemcitabine の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「ゲムシタビンはDNA合成期にある細胞を死滅させ、G1/S期境界を通過する細胞の進行を阻止する。ゲムシタビンはヌクレオシドキナーゼにより二リン酸（dFdCDP）及び三リン酸（dFdCTP）ヌクレオシドに代謝される。」英語原文："Gemcitabine kills cells undergoing DNA synthesis and blocks the progression of cells through the G1/S-phase boundary. Gemcitabine is metabolized by nucleoside kinases to diphosphate (dFdCDP) and triphosphate (dFdCTP) nucleosides."（[DailyMed: Avgemsi (gemcitabine) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e11eeff7-bcaf-4bf1-8da8-88138e01af84)、版 2026-07-27、参照日 2026-11-19）。ゲムシタビンは、DNA 合成を阻害するヌクレオシドアナログ系の代謝拮抗薬に分類されます。リボヌクレオチドレダクターゼの阻害を含め、増殖の盛んな細胞に作用する細胞傷害性の機序が知られています。
 
 直腸の粘液腺癌は、増殖する腺癌細胞から成る消化管腫瘍です。DNA 合成を標的とする薬剤が作用する可能性は、機序の面からは考えられます。
 
@@ -117,6 +117,19 @@ TxGNN モデルは**直腸粘液腺癌 (rectum mucinous adenocarcinoma)** に有
 - PMDA 添付文書の警告・禁忌の取得と解析
 - 詳細な作用機序（MOA）データの補完
 - 併用療法を想定した場合の安全性とモニタリング計画の策定
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Avgemsi (gemcitabine) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e11eeff7-bcaf-4bf1-8da8-88138e01af84) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

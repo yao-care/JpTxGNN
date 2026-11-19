@@ -55,7 +55,7 @@ TxGNN モデルは**ラスムッセン亜急性脳炎 (Rasmussen subacute enceph
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。レボドパはドパミン前駆体として脳内でドパミンに変換され、ドパミン作動性の経路に作用する薬剤として知られています。
+米国 FDA が承認した Levodopa の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「ドパミンの代謝前駆物質であるレボドパは、血液脳関門を通過し、脳内でドパミンに変換されると推定されている。これが、レボドパがパーキンソン病の症状を軽減する機序であると考えられている。」英語原文："Levodopa, the metabolic precursor of dopamine, crosses the blood-brain barrier and presumably is converted to dopamine in the brain. This is thought to be the mechanism whereby levodopa relieves symptoms of Parkinson's disease."（[DailyMed: Inbrija (levodopa) prescribing information, Merz Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=077c0f39-a3a2-4b2b-a184-09131889dcfb)、版 2026-07-20、参照日 2026-11-19）。レボドパはドパミン前駆体として脳内でドパミンに変換され、ドパミン作動性の経路に作用する薬剤として知られています。
 
 一方、ラスムッセン脳炎は、片側大脳皮質の炎症と難治性てんかんを特徴とする免疫介在性の慢性局所性脳炎です。レボドパのドパミン作動性の作用と、この疾患の病態との間に、確立された機序的なつながりは認められていません。
 
@@ -94,6 +94,19 @@ TxGNN の予測スコア 0.9906 は計算上の予測値にすぎず、機序面
 - ラスムッセン脳炎に対する前臨床研究や症例報告の調査
 - 添付文書（PMDA）に基づく警告・禁忌の確認と安全性評価
 - 投与経路の適合性の確認
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Inbrija (levodopa) prescribing information, Merz Pharmaceuticals, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=077c0f39-a3a2-4b2b-a184-09131889dcfb) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

@@ -56,7 +56,7 @@ TxGNN モデルが最上位に挙げた予測は希少な先天性脳奇形で�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。ただし予測の根拠として、セレギリンは MAO-B を不可逆的に阻害してドパミンの利用可能性を高めることが知られています。
+米国 FDA が承認した Selegiline の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「セレギリンは、中枢神経系及び末梢組織においてカテコールアミン及びセロトニンの代謝的分解を調節するモノアミン酸化酵素(MAO)の不可逆的阻害薬である。推奨用量において、セレギリンは脳内の主要な分子種であるMAO B型(MAO-B)に選択的である。」英語原文："Selegiline is an irreversible inhibitor of monoamine oxidase (MAO), which regulates the metabolic degradation of catecholamines and serotonin in the central nervous system and peripheral tissues. At recommended doses, selegiline is selective for MAO type B (MAO-B), the major form in the brain."（[DailyMed: Zelapar (selegiline hydrochloride) prescribing information, Bausch Health US, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=380d7717-2a79-42f3-a712-efe5e7696ba0)、版 2021-06-01、参照日 2026-11-19）。ただし予測の根拠として、セレギリンは MAO-B を不可逆的に阻害してドパミンの利用可能性を高めることが知られています。
 
 統合失調症の陰性症状は、前頭前野のドパミン機能低下と関連すると考えられています。パーキンソン病でドパミン系を補う作用が、抗精神病薬への上乗せ療法として陰性症状の改善に結びつく可能性があります。
 
@@ -116,18 +116,25 @@ TxGNN モデルが最上位に挙げた予測は希少な先天性脳奇形で�
 - 詳細な作用機序（MOA）データの補充
 - 精神病性障害が禁忌関連に挙がっている点の精査と、抗精神病薬との併用時の相互作用モニタリング計画
 - 検証的な Phase 2/3 試験（用量、MAO-A 阻害が生じる高用量での安全性を含む）
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Zelapar (selegiline hydrochloride) prescribing information, Bausch Health US, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=380d7717-2a79-42f3-a712-efe5e7696ba0) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。
 臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-
-
-
-
 
 <!-- brand-names:start -->
 ## 日本での販売名

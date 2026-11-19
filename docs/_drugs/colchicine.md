@@ -55,7 +55,7 @@ TxGNN モデルは**熱帯熱マラリア (Plasmodium falciparum malaria)** に�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。ただし、コルヒチンは微小管重合阻害薬かつ白血球（好中球）遊走阻害薬に分類されており、この分類に基づく機序的な関連性は考えられます。
+米国 FDA が承認した Colchicine の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「コルヒチンの痛風治療薬としての有効性は、滑液中の尿酸一ナトリウム結晶により誘発される好中球介在性の炎症反応を遮断する能力によるものと推定されている。コルヒチンはβ-チューブリンの微小管への重合を阻害し、それにより好中球の活性化、脱顆粒および炎症部位への遊走を阻止する。」英語原文："Colchicine’s effectiveness as a treatment for gout has been postulated to be due to its ability to block neutrophil-mediated inflammatory responses induced by monosodium urate crystals in synovial fluid. Colchicine disrupts the polymerization of β-tubulin into microtubules, thereby preventing the activation, degranulation, and migration of neutrophils to sites of inflammation."（[DailyMed: Mitigare (colchicine) prescribing information, Hikma Specialty USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cb5f9d85-6b81-49f8-bcd6-17b7bfbc10f2)、版 2026-10-16、参照日 2026-11-19）。ただし、コルヒチンは微小管重合阻害薬かつ白血球（好中球）遊走阻害薬に分類されており、この分類に基づく機序的な関連性は考えられます。
 
 熱帯熱マラリア原虫は、分裂や形態維持に微小管を利用します。そのため、微小管を標的とする薬が原虫の増殖に影響する可能性が理論上あります。
 
@@ -119,11 +119,12 @@ TxGNN モデルは**熱帯熱マラリア (Plasmodium falciparum malaria)** に�
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「日本では有効な承認もなく、添付文書の安全性情報も未確認です」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Mitigare (colchicine) prescribing information, Hikma Specialty USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cb5f9d85-6b81-49f8-bcd6-17b7bfbc10f2) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ TxGNN モデルは**アトピー性皮膚炎 (atopic eczema)** に有効であ�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。一般的な薬理学の知見によると、ベクロメタゾンジプロピオン酸エステルはグルココルチコイド受容体作動薬であり、Th2 型の炎症反応を抑える作用が知られています。
+米国 FDA が承認した Beclomethasone Dipropionate の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「ベクロメタゾンプロピオン酸エステルはプロドラッグであり、活性代謝物であるベクロメタゾン-17-モノプロピオン酸エステルに広範に変換される。ベクロメタゾンプロピオン酸エステルが鼻炎症状に作用する正確な機序は不明である。」英語原文："Beclomethasone dipropionate is a prodrug that is extensively converted to the active metabolite, beclomethasone-17-monopropionate. The precise mechanism through which beclomethasone dipropionate affects rhinitis symptoms is unknown."（[DailyMed: Qnasl (beclomethasone dipropionate) prescribing information, Teva Respiratory, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4b8d8e84-b5d2-4e56-97ec-4f72971465c5)、版 2020-02-29、参照日 2026-11-19）。一般的な薬理学の知見によると、ベクロメタゾンジプロピオン酸エステルはグルココルチコイド受容体作動薬であり、Th2 型の炎症反応を抑える作用が知られています。
 
 アトピー性皮膚炎は Th2 優位の皮膚炎症を特徴とするため、局所ステロイドの抗炎症作用は機序的に適用可能と考えられます。小児の重症アトピー性皮膚炎に対する経口ベクロメタゾンの検討など、古い小規模研究がこの方向性を示しています。
 
@@ -111,6 +111,19 @@ TxGNN モデルは**アトピー性皮膚炎 (atopic eczema)** に有効であ�
 - 詳細な作用機序データ（MOA）
 - 剤形・投与経路の適合性評価（現在の国内製剤は点鼻液と吸入パウダーのみ）
 - 副腎機能や成長に関する安全性モニタリング計画
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Qnasl (beclomethasone dipropionate) prescribing information, Teva Respiratory, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4b8d8e84-b5d2-4e56-97ec-4f72971465c5) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

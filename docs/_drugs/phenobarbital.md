@@ -56,7 +56,7 @@ TxGNN モデルは**三叉神経腫瘍 (Trigeminal Nerve Neoplasm)** に有効�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、フェノバルビタールはバルビツール酸系の抗けいれん薬・催眠鎮静薬で、GABA-A 受容体のクロライド電流を増強し、神経の興奮を抑える作用があると考えられています。
+米国 FDA が承認した Phenobarbital の添付文書（Prescribing Information）の「Clinical Pharmacology」の項によると（非公式訳）、「新生児発作の治療におけるフェノバルビタールの正確な作用機序は完全には解明されていないが、GABA A 受容体への作用を介したシナプス抑制の増強が関与すると考えられている。」英語原文："The precise mechanism of action for phenobarbital for the treatment of neonatal seizures is not fully understood, but it is thought to involve potentiation of synaptic inhibition through an action on the GABA A receptor."（[DailyMed: Sezaby (phenobarbital sodium) prescribing information, Sun Pharmaceutical Industries, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8c7d0402-4977-4c25-bc4b-11db91339e9a)、版 2026-10-23、参照日 2026-11-19）。既知の情報によると、フェノバルビタールはバルビツール酸系の抗けいれん薬・催眠鎮静薬で、GABA-A 受容体のクロライド電流を増強し、神経の興奮を抑える作用があると考えられています。
 
 ただし、この作用は腫瘍そのものを抑えるものではありません。三叉神経腫瘍に対して抗腫瘍効果を示す根拠はなく、腫瘍に伴うけいれん発作を抑える程度の効果にとどまると考えられます。そのため、この予測は機序的には支持されていません。
 
@@ -127,11 +127,12 @@ TxGNN モデルは**三叉神経腫瘍 (Trigeminal Nerve Neoplasm)** に有効�
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「日本では現在、有効な承認はなく、9 件すべてが取消済みです」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Sezaby (phenobarbital sodium) prescribing information, Sun Pharmaceutical Industries, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8c7d0402-4977-4c25-bc4b-11db91339e9a) |
 
 <!-- review:end log -->
 

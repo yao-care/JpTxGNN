@@ -56,7 +56,7 @@ TxGNN モデルは**高分化型胎児型肺腺癌 (well-differentiated fetal ad
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。エトポシドは一般に、トポイソメラーゼIIを阻害して DNA 二本鎖切断を起こし、増殖の盛んな腫瘍細胞にアポトーシスを誘導する細胞毒性薬と理解されています。
+米国 FDA が承認した Etoposide の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「エトポシドはDNAトポイソメラーゼIIとの相互作用又はフリーラジカルの生成によりDNA鎖切断を誘導し、主に細胞周期のG2期での細胞周期停止及び細胞死をもたらす。」英語原文："Etoposide causes the induction of DNA strand breaks by an interaction with DNA-topoisomerase II or the formation of free radicals, leading to cell cycle arrest, primarily at the G2 stage of the cell cycle, and cell death."（[DailyMed: Avopef (etoposide) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=acc1e443-ef7b-486f-a638-710a20e81059)、版 2026-10-07、参照日 2026-11-19）。エトポシドは一般に、トポイソメラーゼIIを阻害して DNA 二本鎖切断を起こし、増殖の盛んな腫瘍細胞にアポトーシスを誘導する細胞毒性薬と理解されています。
 
 高分化型胎児型腺癌は、まれな肺悪性腫瘍である肺芽腫の一型として分類されます。増殖の速い上皮性腫瘍であるため、細胞毒性薬が機序的に作用しうるという推論は成り立ちます。ただしこれは間接的な推論にすぎず、この疾患でエトポシドの効果を示したデータは、今回まとめたデータには含まれていません。
 
@@ -109,6 +109,19 @@ TxGNN モデルは**高分化型胎児型肺腺癌 (well-differentiated fetal ad
 - 高分化型胎児型肺腺癌、または肺芽腫でのエトポシド含有レジメンの症例集積や後ろ向き研究
 - 詳細な作用機序データ（MOA）の整備
 - 添付文書の警告・禁忌の確認と、骨髄抑制を含む安全性モニタリング計画
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Avopef (etoposide) prescribing information, AVYXA Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=acc1e443-ef7b-486f-a638-710a20e81059) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

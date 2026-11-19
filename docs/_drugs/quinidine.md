@@ -56,7 +56,7 @@ TxGNN モデルは **腎性抗利尿ホルモン不適合分泌症候群 (nephro
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、キニジンはクラス IA 抗不整脈薬に分類されるナトリウムチャネル遮断薬で、期外収縮や心房細動などの不整脈で使用されてきました。
+米国 FDA が承認した Quinidine の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「マラリア患者において、キニジンは主として赤血球内シゾント殺滅薬として作用し、スポロゾイト又は赤血球前期の原虫に対してはほとんど作用しない。キニジンは三日熱マラリア原虫（Plasmodium vivax）及び四日熱マラリア原虫（P. malariae）に対して生殖母体殺滅作用を示すが、熱帯熱マラリア原虫（P. falciparum）に対しては示さない。」英語原文："In patients with malaria, quinidine acts primarily as an intra-erythrocytic schizonticide, with little effect upon sporozites or upon pre-erythrocytic parasites. Quinidine is gametocidal to Plasmodium vivax and P. malariae, but not to P. falciparum."（[DailyMed: quinidine gluconate prescribing information, Golden State Medical Supply](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ad2ad985-cca2-25b5-e053-2995a90a402f)、版 2024-08-27、参照日 2026-11-19）。既知の情報によると、キニジンはクラス IA 抗不整脈薬に分類されるナトリウムチャネル遮断薬で、期外収縮や心房細動などの不整脈で使用されてきました。
 
 腎性抗利尿ホルモン不適合分泌症候群は、バソプレシン V2 受容体（AVPR2）の機能獲得型変異により、水の再吸収が過剰になる疾患です。キニジンの作用（ナトリウムチャネル遮断）とこの受容体シグナルとの間に、確立した機序的なつながりは確認されていません。腎での水の扱いへの関与は推測にとどまり、この予測の根拠は現時点では TxGNN のモデル予測のみです。既存適応症との類似性についても、評価は未了です。
 
@@ -108,11 +108,12 @@ TxGNN モデルは **腎性抗利尿ホルモン不適合分泌症候群 (nephro
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「承認が取り消されているため」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: quinidine gluconate prescribing information, Golden State Medical Supply](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ad2ad985-cca2-25b5-e053-2995a90a402f) |
 
 <!-- review:end log -->
 

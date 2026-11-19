@@ -57,7 +57,7 @@ TxGNN モデルは**ユーイング肉腫 (Ewing sarcoma)** に有効である�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データ（DrugBank 由来）はありません。ただし、ドキソルビシンは DNA にインターカレートし、トポイソメラーゼIIを阻害して DNA 二本鎖切断を起こす抗悪性腫瘍薬として知られています。急速に増殖するユーイング肉腫細胞に対して細胞毒性を示すと考えられます。
+米国 FDA が承認した Doxorubicin の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「悪性細胞に対するドキソルビシン塩酸塩の細胞傷害作用及び各種臓器に対する毒性作用は、ドキソルビシンのヌクレオチド塩基へのインターカレーション作用及び細胞膜脂質結合作用に関連すると考えられている。インターカレーションは、ヌクレオチドの複製並びにDNAポリメラーゼ及びRNAポリメラーゼの作用を阻害する。」英語原文："The cytotoxic effect of doxorubicin hydrochloride on malignant cells and its toxic effects on various organs are thought to be related to nucleotide base intercalation and cell membrane lipid binding activities of doxorubicin. Intercalation inhibits nucleotide replication and action of DNA and RNA polymerases."（[DailyMed: Oxderys (doxorubicin hydrochloride) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f280fb2e-5070-46e1-a4ed-ba191359cedd)、版 2026-11-12、参照日 2026-11-19）。ただし、ドキソルビシンは DNA にインターカレートし、トポイソメラーゼIIを阻害して DNA 二本鎖切断を起こす抗悪性腫瘍薬として知られています。急速に増殖するユーイング肉腫細胞に対して細胞毒性を示すと考えられます。
 
 ユーイング肉腫の標準的な多剤化学療法（VDC/IE 療法：ビンクリスチン・ドキソルビシン・シクロホスファミドとイホスファミド・エトポシドの交替療法）では、ドキソルビシンが中核薬剤です。さらに、日本の承認適応症にも「ユーイング肉腫ファミリー腫瘍」が含まれており、機序面でも臨床面でも予測と整合します。
 
@@ -158,18 +158,24 @@ TxGNN モデルは**ユーイング肉腫 (Ewing sarcoma)** に有効である�
 | 9 | 横紋筋肉腫 | L2 | Proceed with Guardrails |
 | 10 | 神経節芽腫 | L4 | Research Question |
 
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Oxderys (doxorubicin hydrochloride) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f280fb2e-5070-46e1-a4ed-ba191359cedd) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。
 臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-
-
-
-
 
 <!-- brand-names:start -->
 ## 日本での販売名

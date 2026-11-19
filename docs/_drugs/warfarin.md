@@ -58,7 +58,7 @@ TxGNN モデルは複数の血栓性疾患、とくに**血栓性素因 (Thrombo
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。ただし既知の情報では、ワルファリンは VKORC1 を阻害し、ビタミンK依存性凝固因子（II、VII、IX、X）の機能を低下させてトロンビン産生を抑えます。
+米国 FDA が承認した Warfarin の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「ワルファリンは、第II、VII、IX及びX因子並びに抗凝固タンパク質であるプロテインC及びプロテインSを含むビタミンK依存性凝固因子の合成を阻害することにより作用する。ビタミンKは、ビタミンK依存性凝固因子のリボソーム後合成に必須の補因子である。ビタミンKは、これらのタンパク質の生物学的活性に必須であるγ-カルボキシグルタミン酸残基の生合成を促進する。」英語原文："Warfarin acts by inhibiting the synthesis of vitamin K-dependent clotting factors, which include Factors II, VII, IX, and X, and the anticoagulant proteins C and S. Vitamin K is an essential cofactor for the post ribosomal synthesis of the vitamin K-dependent clotting factors. Vitamin K promotes the biosynthesis of γ-carboxyglutamic acid residues in the proteins that are essential for biological activity."（[DailyMed: Jantoven (warfarin sodium) prescribing information, Upsher-Smith Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=19a69a72-ac5d-45d5-a94d-a5aaecbe4730)、版 2026-10-28、参照日 2026-11-19）。ただし既知の情報では、ワルファリンは VKORC1 を阻害し、ビタミンK依存性凝固因子（II、VII、IX、X）の機能を低下させてトロンビン産生を抑えます。
 
 血栓性素因は、遺伝性・後天性の過凝固状態により血栓ができやすくなる病態です。ワルファリンの凝固因子低下作用はこの過凝固状態を和らげるため、機序的に適用可能と考えられます。ビタミンK拮抗薬は静脈血栓塞栓症の二次予防で確立した選択肢でもあります。
 
@@ -123,18 +123,25 @@ TxGNN モデルは複数の血栓性疾患、とくに**血栓性素因 (Thrombo
 **その他の予測適応症の扱い：**
 - 第V因子過剰症：TxGNN 予測のみ（L5）で保留です。
 - 関節リウマチ、乳腺線維嚢胞症、良性乳腺異形成、乳腺アポクリン腺症、乳腺鈍性導管腺症：機序的根拠がなく、関連資料も相互作用情報にとどまるため保留です。
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Jantoven (warfarin sodium) prescribing information, Upsher-Smith Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=19a69a72-ac5d-45d5-a94d-a5aaecbe4730) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。
 臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-
-
-
-
 
 <!-- brand-names:start -->
 ## 日本での販売名

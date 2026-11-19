@@ -55,7 +55,7 @@ TxGNN モデルは**無月経 (Amenorrhea)** に有効である可能性を予�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、ゴセレリンは GnRH アゴニストであり、下垂体の GnRH 受容体をダウンレギュレーションして LH/FSH を抑制し、卵巣のエストロゲン産生を低下させます。この作用により、低エストロゲン状態での無月経が確実に誘導されます。
+米国 FDA が承認した Goserelin の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「ZOLADEXはGnRHの合成デカペプチドアナログである。ZOLADEXは、生分解性製剤として投与された場合、下垂体からのゴナドトロピン分泌の阻害薬として作用する。動物試験及びin vitro試験において、ゴセレリンの投与により、ホルモン感受性のジメチルベンズアントラセン（DMBA）誘発ラット乳腺腫瘍及びDunning R3327前立腺腫瘍の退縮又は増殖抑制が認められた。」英語原文："ZOLADEX is a synthetic decapeptide analogue of GnRH. ZOLADEX acts as an inhibitor of pituitary gonadotropin secretion when administered in the biodegradable formulation. In animal and in vitro studies, administration of goserelin resulted in the regression or inhibition of growth of the hormonally sensitive dimethylbenzanthracene (DMBA)-induced rat mammary tumor and Dunning R3327 prostate tumor."（[DailyMed: Zoladex (goserelin) prescribing information, TerSera Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=294b168b-6e5f-4db9-bf70-d599271458b3)、版 2026-03-24、参照日 2026-11-19）。既知の情報によると、ゴセレリンは GnRH アゴニストであり、下垂体の GnRH 受容体をダウンレギュレーションして LH/FSH を抑制し、卵巣のエストロゲン産生を低下させます。この作用により、低エストロゲン状態での無月経が確実に誘導されます。
 
 子宮内膜症は、エストロゲン依存性の病変であるため、この卵巣抑制作用が治療に結びつきます。無月経との関連も同じ作用軸にあります。
 
@@ -124,11 +124,12 @@ TxGNN モデルは**無月経 (Amenorrhea)** に有効である可能性を予�
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「日本での販売・承認状況（取消の経緯）の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Zoladex (goserelin) prescribing information, TerSera Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=294b168b-6e5f-4db9-bf70-d599271458b3) |
 
 <!-- review:end log -->
 

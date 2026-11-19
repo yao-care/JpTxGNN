@@ -55,7 +55,7 @@ TxGNN モデルは**不安障害 (Anxiety Disorder)** に有効である可能�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。一般的な薬理学的知見によると、クロミプラミンは強力なセロトニン再取り込み阻害薬です。活性代謝物のデスメチルクロミプラミンはノルアドレナリン再取り込みも阻害します。
+米国 FDA が承認した Clomipramine の添付文書（Prescribing Information）の「Clinical Pharmacology」の項によると（非公式訳）、「クロミプラミン（CMI）は、セロトニン作動性神経伝達に対する作用を介して強迫行為および強迫観念に影響を及ぼすと推定されている。実際の神経化学的機序は不明であるが、CMIのセロトニン（5-HT）再取り込み阻害能が重要であると考えられている。」英語原文："Clomipramine (CMI) is presumed to influence obsessive and compulsive behaviors through its effects on serotonergic neuronal transmission. The actual neurochemical mechanism is unknown, but CMI's capacity to inhibit the reuptake of serotonin (5-HT) is thought to be important."（[DailyMed: Anafranil (clomipramine hydrochloride) prescribing information, SpecGx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4074b555-7635-41a9-809d-fae3b3610059)、版 2024-11-26、参照日 2026-11-19）。一般的な薬理学的知見によると、クロミプラミンは強力なセロトニン再取り込み阻害薬です。活性代謝物のデスメチルクロミプラミンはノルアドレナリン再取り込みも阻害します。
 
 OCD は不安スペクトラムの疾患と位置づけられることが多く、セロトニン系の調節はパニックや不安症状にも関連します。
 
@@ -139,12 +139,13 @@ OCD は不安スペクトラムの疾患と位置づけられることが多く�
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「一方、日本では承認が取消されており、安全性の公式情報も未整備です」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-06 | 削除：「日本での承認取消の経緯と、再導入の可否の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Anafranil (clomipramine hydrochloride) prescribing information, SpecGx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4074b555-7635-41a9-809d-fae3b3610059) |
 
 <!-- review:end log -->
 

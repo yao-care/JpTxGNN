@@ -55,7 +55,7 @@ TxGNN モデルは**円形脱毛症 (alopecia areata)** に有効である可能
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、プレドニゾロンはグルココルチコイド受容体作動薬で、抗炎症・免疫抑制作用を持ち、多数の自己免疫疾患・炎症性疾患で有効性が確立されています。
+米国 FDA が承認した Prednisolone の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「プレドニゾロンは、主として糖質コルチコイド作用を有する合成副腎皮質ステロイド薬である。これらの作用の一部は内因性糖質コルチコステロイドの生理作用を再現するが、その他の作用は必ずしも副腎ホルモンの正常な機能を反映するものではなく、本剤の高用量の治療量を投与した後にのみ認められる。」英語原文："Prednisolone is a synthetic adrenocortical steroid drug with predominantly glucocorticoid properties. Some of these properties reproduce the physiological actions of endogenous glucocorticosteroids, but others do not necessarily reflect any of the adrenal hormones' normal functions; they are seen only after administration of large therapeutic doses of the drug."（[DailyMed: Orapred Odt (prednisolone sodium phosphate) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e379543-c4cf-4e72-953b-db15b7f0c2a1)、版 2025-06-03、参照日 2026-11-19）。既知の情報によると、プレドニゾロンはグルココルチコイド受容体作動薬で、抗炎症・免疫抑制作用を持ち、多数の自己免疫疾患・炎症性疾患で有効性が確立されています。
 
 円形脱毛症は、T 細胞が毛包を攻撃する自己免疫性の非瘢痕性脱毛症です。グルココルチコイドは T 細胞性の自己免疫攻撃を抑え、毛包の免疫特権の破綻に伴う炎症を鎮めると考えられます。そのため、既存の自己免疫疾患への適応と機序的に整合します。
 
@@ -139,12 +139,13 @@ TxGNN モデルは**円形脱毛症 (alopecia areata)** に有効である可能
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「現在、市販中の承認はなく、20 件すべてが取り消し済みです」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-06 | 削除：「日本では現在市販中の承認がないため」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Orapred Odt (prednisolone sodium phosphate) prescribing information, Advanz Pharma (US) Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e379543-c4cf-4e72-953b-db15b7f0c2a1) |
 
 <!-- review:end log -->
 

@@ -55,7 +55,7 @@ TxGNN モデルは**緑内障 (Glaucoma)** に有効である可能性を予測�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、リバスチグミンはアセチルコリンエステラーゼおよびブチリルコリンエステラーゼを阻害し、コリン作動性の働きを高める薬剤です。アルツハイマー型認知症での使用が確立しており、この作用は眼組織でも機序的に応用できる可能性があります。
+米国 FDA が承認した Rivastigmine の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「リバスチグミンの正確な作用機序は不明であるが、コリン作動性機能を増強することにより治療効果を発揮すると考えられている。これは、コリンエステラーゼによるアセチルコリンの加水分解を可逆的に阻害し、アセチルコリン濃度を上昇させることによって達成される。」英語原文："Although the precise mechanism of action of rivastigmine is unknown, it is thought to exert its therapeutic effect by enhancing cholinergic function. This is accomplished by increasing the concentration of acetylcholine through reversible inhibition of its hydrolysis by cholinesterase."（[DailyMed: rivastigmine tartrate prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=52781229-ee82-43f9-a113-4419a611978d)、版 2025-11-11、参照日 2026-11-19）。既知の情報によると、リバスチグミンはアセチルコリンエステラーゼおよびブチリルコリンエステラーゼを阻害し、コリン作動性の働きを高める薬剤です。アルツハイマー型認知症での使用が確立しており、この作用は眼組織でも機序的に応用できる可能性があります。
 
 眼では、コリン作動性の亢進により毛様体筋が収縮し、線維柱帯からの房水流出が促進されて眼圧が下がると考えられます。これは他のコリン作動薬で知られている作用です。緑内障の主要な管理目標は眼圧低下であるため、機序的なつながりは理解できます。
 
@@ -109,18 +109,25 @@ TxGNN モデルは**緑内障 (Glaucoma)** に有効である可能性を予測�
 - ヒトでの探索的試験（眼圧への影響）の計画
 - 心伝導障害、喘息・COPD、てんかんなどの併存疾患を持つ緑内障患者でのリスク評価
 - 上記の知識グラフ上の禁忌関連疾患について、添付文書との照合
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: rivastigmine tartrate prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=52781229-ee82-43f9-a113-4419a611978d) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。
 臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-
-
-
-
 
 <!-- brand-names:start -->
 ## 日本での販売名

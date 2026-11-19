@@ -55,7 +55,7 @@ TxGNN モデルは**甲状腺ホルモンβ受容体変異による甲状腺ホ�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報では、PTU は甲状腺ペルオキシダーゼを阻害して甲状腺ホルモンの合成を抑え、末梢での T4 から T3 への変換も抑える薬剤です。
+米国 FDA が承認した Propylthiouracil の添付文書（Prescribing Information）の「Clinical Pharmacology」の項によると（非公式訳）、「プロピルチオウラシルは甲状腺ホルモンの合成を阻害し、それにより甲状腺機能亢進症の治療に有効である。本剤は、甲状腺内に貯蔵されている又は血中を循環している既存のチロキシン及びトリヨードチロニンを不活化せず、また経口又は注射により投与された甲状腺ホルモンの有効性を妨げることもない。」英語原文："Propylthiouracil inhibits the synthesis of thyroid hormones and thus is effective in the treatment of hyperthyroidism. The drug does not inactivate existing thyroxine and triiodothyronine that are stored in the thyroid or circulating in the blood, nor does it interfere with the effectiveness of thyroid hormones given by mouth or by injection."（[DailyMed: propylthiouracil prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d819e532-09ac-434a-84a6-636c4204c7aa)、版 2026-08-27、参照日 2026-11-19）。既知の情報では、PTU は甲状腺ペルオキシダーゼを阻害して甲状腺ホルモンの合成を抑え、末梢での T4 から T3 への変換も抑える薬剤です。
 
 ただし、機序面での適合性には大きな疑問があります。甲状腺ホルモン不応症では、異常は受容体側にあります。ホルモン合成を抑えると TSH がさらに上昇し、甲状腺腫を悪化させる可能性があります。実際に、PTU で治療された不応症患者で甲状腺腫が増大した症例報告がありますが、これは別の予測疾患（高サイロキシン血症）に付随する文献で、本疾患の根拠ではありません。そのため、TxGNN の高スコアは機序的な裏付けにはなっていません。
 
@@ -120,12 +120,13 @@ TxGNN モデルは**甲状腺ホルモンβ受容体変異による甲状腺ホ�
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「日本の販売承認はすでに取り消されています」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-06 | 削除：「日本で販売承認が取り消された経緯と、現在の入手経路の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: propylthiouracil prescribing information, American Health Packaging](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=d819e532-09ac-434a-84a6-636c4204c7aa) |
 
 <!-- review:end log -->
 

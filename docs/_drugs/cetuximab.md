@@ -56,7 +56,7 @@ TxGNN モデルは、予測スコア上位に**軟骨様過誤腫 (Chondroid Ham
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、セツキシマブは上皮成長因子受容体 (EGFR) を標的とする抗体医薬で、EGFR を発現する転移性結腸直腸癌や、放射線療法併用の頭頸部扁平上皮癌で使用されてきました。
+米国 FDA が承認した Cetuximab の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「上皮成長因子受容体（EGFR、HER1、c-ErbB-1）は膜貫通型糖タンパク質であり、EGFR、HER2、HER3およびHER4を含むI型受容体チロシンキナーゼのサブファミリーの一員である。EGFRは、皮膚および毛包を含む多くの正常上皮組織において恒常的に発現している。[…] セツキシマブは正常細胞および腫瘍細胞の両方のEGFRに特異的に結合し、上皮成長因子（EGF）およびトランスフォーミング増殖因子αなどのその他のリガンドの結合を競合的に阻害する。」英語原文："The epidermal growth factor receptor (EGFR, HER1, c-ErbB-1) is a transmembrane glycoprotein that is a member of a subfamily of type I receptor tyrosine kinases including EGFR, HER2, HER3, and HER4. The EGFR is constitutively expressed in many normal epithelial tissues, including the skin and hair follicle. […] Cetuximab binds specifically to the EGFR on both normal and tumor cells, and competitively inhibits the binding of epidermal growth factor (EGF) and other ligands, such as transforming growth factor-alpha."（[DailyMed: Erbitux (cetuximab) prescribing information, ImClone LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8bc6397e-4bd8-4d37-a007-a327e4da34d9)、版 2026-04-16、参照日 2026-11-19）。既知の情報によると、セツキシマブは上皮成長因子受容体 (EGFR) を標的とする抗体医薬で、EGFR を発現する転移性結腸直腸癌や、放射線療法併用の頭頸部扁平上皮癌で使用されてきました。
 
 ただし、軟骨様過誤腫に EGFR 依存性があることを示す根拠は確認されていません。この予測は TxGNN モデル(ディープラーニング)のスコアに基づくもので、モデルが関連疾患間で学習した類似性を反映している可能性があり、生物学的な根拠ではありません。
 
@@ -144,12 +144,13 @@ TxGNN モデルは、予測スコア上位に**軟骨様過誤腫 (Chondroid Ham
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「また、日本での承認は 2 件とも取消済みです」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-06 | 削除：「承認取消の経緯を含む」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Erbitux (cetuximab) prescribing information, ImClone LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8bc6397e-4bd8-4d37-a007-a327e4da34d9) |
 
 <!-- review:end log -->
 

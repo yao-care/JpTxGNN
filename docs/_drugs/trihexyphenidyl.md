@@ -56,7 +56,7 @@ ADHD への直接的なエビデンスはなく、現時点ではモデル予測
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、トリヘキシフェニジルは中枢性のムスカリン受容体拮抗薬で、大脳基底核のコリン作動性の過活動を抑える薬剤です。パーキンソン病に加え、ジストニアやチックにも使われます。
+米国 FDA が承認した Trihexyphenidyl の添付文書（Prescribing Information）の「Clinical Pharmacology」の項によると（非公式訳）、「塩酸トリヘキシフェニジルは、置換ピペリジン塩である3-(1-ピペリジル)-1-フェニルシクロヘキシル-1-プロパノール塩酸塩であり、副交感神経系に対して直接的な抑制作用を示す。また、平滑筋に対して弛緩作用を有し、この作用は筋組織そのものへの直接作用と、副交感神経系に対する抑制作用を介した間接作用の両方によって発揮される。」英語原文："Trihexyphenidyl Hydrochloride is the substituted piperidine salt, 3-(1-piperidyl)- 1-phenylcyclohexyl-1-propanol hydrochloride, which exerts a direct inhibitory effect upon the parasympathetic nervous system. It also has a relaxing effect on smooth musculature; exerted both directly upon the muscle tissue itself and indirectly through an inhibitory effect upon the parasympathetic nervous system."（[DailyMed: trihexyphenidyl hydrochloride prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b60ef86c-b8b6-4530-baaf-d4671ce961af)、版 2026-07-23、参照日 2026-11-19）。既知の情報によると、トリヘキシフェニジルは中枢性のムスカリン受容体拮抗薬で、大脳基底核のコリン作動性の過活動を抑える薬剤です。パーキンソン病に加え、ジストニアやチックにも使われます。
 
 ADHD との関連は間接的です。チックやジストニアを併発する病態を介した関連が想定されるにすぎず、ADHD の症状そのものを改善する直接的な証拠はありません。理論上は、中枢性の抗コリン作用がコリン作動系とドパミン系のバランスに影響する可能性があります。一方で、注意力や認知機能をかえって悪化させるおそれもあります。
 
@@ -133,12 +133,13 @@ ADHD に対する臨床試験はなく、文献もチックとジストニアの
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「さらに、日本では現在有効な承認がありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: trihexyphenidyl hydrochloride prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b60ef86c-b8b6-4530-baaf-d4671ce961af) |
 
 <!-- review:end log -->
 

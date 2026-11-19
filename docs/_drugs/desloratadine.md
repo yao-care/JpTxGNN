@@ -56,7 +56,7 @@ TxGNN モデルは**鼻腔疾患 (nasal cavity disease)** に有効である可�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。ただし、デスロラタジンは H1 受容体を遮断する抗ヒスタミン薬です。ヒスタミンによる鼻閉、鼻汁、粘膜の炎症を抑える作用が機序的に想定されます。
+米国 FDA が承認した Desloratadine の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「デスロラタジンは、選択的なヒスタミンH1受容体拮抗作用を有する長時間作用型の三環系ヒスタミン拮抗薬である。受容体結合データから、2-3 ng/mL（7ナノモーラー）の濃度において、デスロラタジンはヒトヒスタミンH1受容体と顕著な相互作用を示すことが示されている。」英語原文："Desloratadine is a long-acting tricyclic histamine antagonist with selective H1-receptor histamine antagonist activity. Receptor binding data indicates that at a concentration of 2-3 ng/mL (7 nanomolar), desloratadine shows significant interaction with the human histamine H1-receptor."（[DailyMed: Desloratadine Oral Solution (desloratadine) prescribing information, INA Pharmaceutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41d5e0d4-6188-847b-e063-6294a90a2e2f)、版 2025-10-23、参照日 2026-11-19）。ただし、デスロラタジンは H1 受容体を遮断する抗ヒスタミン薬です。ヒスタミンによる鼻閉、鼻汁、粘膜の炎症を抑える作用が機序的に想定されます。
 
 鼻腔疾患は非常に広い概念で、ヒスタミンが関与する病態もあれば、関与しない病態もあります。そのため、機序面の裏付けは間接的で、どの病態に効くかは特定できません。
 
@@ -99,6 +99,19 @@ TxGNN モデルは**鼻腔疾患 (nasal cavity disease)** に有効である可�
 - 詳細な作用機序データ（MOA）の補充
 - 添付文書（PMDA）の警告・禁忌の確認と、安全性評価の実施
 - 相互作用の重要度分類の確認
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Desloratadine Oral Solution (desloratadine) prescribing information, INA Pharmaceutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=41d5e0d4-6188-847b-e063-6294a90a2e2f) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

@@ -56,7 +56,7 @@ TxGNN モデルは**内臓カルシフィラキシス (visceral calciphylaxis)**
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。ラタノプロストはプロスタグランジンF受容体（FP受容体）を刺激する薬剤で、点眼による局所投与が前提です。
+米国 FDA が承認した Latanoprost の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「ラタノプロストはプロスタグランジンF 2α類似体であり、房水流出を増加させることにより眼圧（IOP）を低下させると考えられている。動物及びヒトにおける試験から、主な作用機序はぶどう膜強膜流出の増加であることが示唆されている。」英語原文："Latanoprost is a prostaglandin F 2α analogue that is believed to reduce the intraocular pressure (IOP) by increasing the outflow of aqueous humor. Studies in animals and man suggest that the main mechanism of action is increased uveoscleral outflow."（[DailyMed: Xelpros (latanoprost) prescribing information, Sun Pharmaceutical Industries, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=34ad5cf6-4df0-4104-bddd-4c7631133ded)、版 2025-12-18、参照日 2026-11-19）。ラタノプロストはプロスタグランジンF受容体（FP受容体）を刺激する薬剤で、点眼による局所投与が前提です。
 
 内臓カルシフィラキシスは、血管の石灰化と微小血管の血栓性閉塞を特徴とする疾患です。FP受容体作動作用との間に明確な機序的つながりは確認できません。今回の予測は、モデル内での血管関連の類似性に基づくものと考えられます。
 
@@ -103,6 +103,19 @@ TxGNN モデルは**内臓カルシフィラキシス (visceral calciphylaxis)**
 - 詳細な作用機序データ（MOA）の補充
 - 全身投与を想定する場合の投与経路と安全性の検討
 - 添付文書の警告・禁忌情報の取得と整理
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Xelpros (latanoprost) prescribing information, Sun Pharmaceutical Industries, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=34ad5cf6-4df0-4104-bddd-4c7631133ded) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

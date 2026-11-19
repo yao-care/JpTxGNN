@@ -55,7 +55,7 @@ TxGNN モデルは**網膜ジストロフィー（retinal dystrophy with or with
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。一般に知られているクエチアピンの薬理は、ドパミン D2、セロトニン 5-HT2A、ヒスタミン H1、α1 受容体に対する拮抗作用です。これらは精神症状の制御に関わる経路で、統合失調症と双極性障害のうつ症状での有効性が確認されています。
+米国 FDA が承認した Quetiapine の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「記載された適応症におけるクエチアピンの作用機序は明らかではない。しかし、これらの適応症におけるクエチアピンの有効性は、ドパミン 2 型（D 2 ）受容体拮抗作用とセロトニン 2A 型（5HT 2A ）受容体拮抗作用の組み合わせを介している可能性がある。」英語原文："The mechanism of action of quetiapine in the listed indications is unclear. However, the efficacy of quetiapine in these indications could be mediated through a combination of dopamine type 2 (D 2 ) and serotonin type 2A (5HT 2A ) antagonism."（[DailyMed: Quetiapine Extended Release (quetiapine) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6953175c-78ec-442c-b91d-97dfb57db933)、版 2026-10-08、参照日 2026-11-19）。一般に知られているクエチアピンの薬理は、ドパミン D2、セロトニン 5-HT2A、ヒスタミン H1、α1 受容体に対する拮抗作用です。これらは精神症状の制御に関わる経路で、統合失調症と双極性障害のうつ症状での有効性が確認されています。
 
 一方、遺伝性網膜変性の病態は、これらの受容体経路とは直接結びつきません。既存適応症との関連性も、機序の面から見て確立されていません。現時点で予測を支えているのは TxGNN のスコアだけで、機序的な裏付けは見当たりません。このため、予測は仮説の域を出ず、妥当性を裏付ける根拠は不足しています。
 
@@ -117,11 +117,12 @@ TxGNN モデルは**網膜ジストロフィー（retinal dystrophy with or with
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「日本での有効な承認もありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Quetiapine Extended Release (quetiapine) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6953175c-78ec-442c-b91d-97dfb57db933) |
 
 <!-- review:end log -->
 

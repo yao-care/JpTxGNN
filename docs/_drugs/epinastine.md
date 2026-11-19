@@ -56,7 +56,7 @@ TxGNN モデルは**酒さ性結膜炎 (Rosacea Conjunctivitis)** に有効で�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、エピナスチンは H1 受容体拮抗作用を持つ第二世代の抗アレルギー薬で、肥満細胞の安定化作用も併せ持つとされています。ヒスタミンが関与する眼表面の炎症を和らげる可能性があります。
+米国 FDA が承認した Epinastine の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「エピナスチンは局所で作用する直接的なH 1 -受容体拮抗薬であり、肥満細胞からのヒスタミン遊離の阻害薬である。エピナスチンはヒスタミンH 1 -受容体に選択的であり、ヒスタミンH 2 -受容体に対しても親和性を有する。」英語原文："Epinastine is a topically active, direct H 1 -receptor antagonist and an inhibitor of the release of histamine from the mast cell. Epinastine is selective for the histamine H 1 -receptor and has affinity for the histamine H 2 -receptor."（[DailyMed: epinastine hydrochloride prescribing information, Somerset Therapeutics, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0d4ee45c-e58f-4b7c-b389-898f5c27f54d)、版 2025-03-22、参照日 2026-11-19）。既知の情報によると、エピナスチンは H1 受容体拮抗作用を持つ第二世代の抗アレルギー薬で、肥満細胞の安定化作用も併せ持つとされています。ヒスタミンが関与する眼表面の炎症を和らげる可能性があります。
 
 既存適応症（喘息、アレルギー性鼻炎、乾癬）はいずれも免疫・炎症が関わる疾患で、ヒスタミン関連の炎症経路という点で酒さ性結膜炎と部分的に重なります。
 
@@ -109,18 +109,25 @@ TxGNN モデルは**酒さ性結膜炎 (Rosacea Conjunctivitis)** に有効で�
 - 酒さ性結膜炎に関する前臨床・臨床研究の網羅的な文献調査
 - 点眼剤形の再承認・入手可能性の確認
 - 代替候補のアレルギー性蕁麻疹は、L3（推奨：Research Question）として別途検討可能。ただし根拠は主にヒスタミン誘発皮膚反応モデルとレビューで、蕁麻疹患者での試験はありません。
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: epinastine hydrochloride prescribing information, Somerset Therapeutics, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0d4ee45c-e58f-4b7c-b389-898f5c27f54d) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。
 臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-
-
-
-
 
 <!-- brand-names:start -->
 ## 日本での販売名

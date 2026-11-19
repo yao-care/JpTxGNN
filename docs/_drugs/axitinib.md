@@ -56,7 +56,7 @@ TxGNN モデルは**脂肪肉腫 (liposarcoma)** に有効である可能性を�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。ただし、アキシチニブは血管内皮増殖因子受容体（VEGFR）を阻害し、抗血管新生作用を示す薬剤として知られています。
+米国 FDA が承認した Axitinib の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「アキシチニブは、治療域の血漿中濃度において、血管内皮増殖因子受容体（VEGFR）-1、VEGFR-2およびVEGFR-3を含む受容体型チロシンキナーゼを阻害することが示されている。これらの受容体は、病的血管新生、腫瘍増殖および癌の進行に関与している。」英語原文："Axitinib has been shown to inhibit receptor tyrosine kinases including vascular endothelial growth factor receptors (VEGFR)-1, VEGFR-2, and VEGFR-3 at therapeutic plasma concentrations. These receptors are implicated in pathologic angiogenesis, tumor growth, and cancer progression."（[DailyMed: Inlyta (axitinib) prescribing information, U.S. Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8a903e31-936e-4ed7-8a59-59f32374f338)、版 2026-03-12、参照日 2026-11-19）。ただし、アキシチニブは血管内皮増殖因子受容体（VEGFR）を阻害し、抗血管新生作用を示す薬剤として知られています。
 
 粘液型脂肪肉腫の細胞株を用いた研究（2016 年）では、血管新生を標的とする薬剤が抗腫瘍活性を示し、アキシチニブにも抗血管新生・抗腫瘍作用が報告されています。このため、機序的には脂肪肉腫への適用可能性が考えられます。
 
@@ -111,6 +111,19 @@ TxGNN モデルは**脂肪肉腫 (liposarcoma)** に有効である可能性を�
 - 添付文書に基づく警告・禁忌の確認（日本での安全性情報の取得）
 - 強い相互作用を示す薬剤（クラリスロマイシン、デキサメタゾンなど）の併用管理計画
 - 日本での承認状況（現在の承認適応症と各承認番号の状態）の再確認
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Inlyta (axitinib) prescribing information, U.S. Pharmaceuticals](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8a903e31-936e-4ed7-8a59-59f32374f338) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

@@ -56,7 +56,7 @@ TxGNN モデルは**多クローン性過粘稠度症候群 (polyclonal hypervis
 
 ## この予測が妥当である理由
 
-今回まとめたデータには、詳細な作用機序（MOA）の記載がありません。一般的な薬理学的知見では、セフトリアキソンは細菌の細胞壁合成を阻害するセフェム系抗生物質です。
+米国 FDA が承認した Ceftriaxone の添付文書（Prescribing Information）の「Mechanism of Action」および「Microbiology」の項によると（非公式訳）、「セフトリアキソンは抗菌薬である。[…] セフトリアキソンは殺菌性の薬剤であり、細菌の細胞壁合成を阻害することにより作用する。セフトリアキソンは、グラム陰性菌およびグラム陽性菌の一部のβ-ラクタマーゼ（ペニシリナーゼおよびセファロスポリナーゼの両方）の存在下でも活性を有する。」英語原文："Ceftriaxone is an antibacterial drug. […] Ceftriaxone is a bactericidal agent that acts by inhibition of bacterial cell wall synthesis. Ceftriaxone has activity in the presence of some beta-lactamases, both penicillinases and cephalosporinases, of Gram-negative and Gram-positive bacteria."（[DailyMed: Ceftriaxone And Dextrose (ceftriaxone) prescribing information, B. Braun Medical Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=67153914-16bc-490d-82d7-638061618467)、版 2022-01-13、参照日 2026-11-19）。一般的な薬理学的知見では、セフトリアキソンは細菌の細胞壁合成を阻害するセフェム系抗生物質です。
 
 多クローン性過粘稠度症候群は、免疫グロブリンの増加によって血液の粘稠度が上がる疾患です。細菌の細胞壁合成阻害という作用機序と、この病態との間に、現時点で妥当な機序的関連は見いだせません。今回の予測は TxGNN モデルのスコアだけに基づいており、機序面の裏付けはありません。
 
@@ -100,18 +100,24 @@ TxGNN モデルは**多クローン性過粘稠度症候群 (polyclonal hypervis
 - この疾患とセフトリアキソンの関連を示す前臨床または臨床データ
 - 添付文書の警告・禁忌情報の取得と安全性の確認
 
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Ceftriaxone And Dextrose (ceftriaxone) prescribing information, B. Braun Medical Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=67153914-16bc-490d-82d7-638061618467) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。
 臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-
-
-
-
 
 <!-- brand-names:start -->
 ## 日本での販売名

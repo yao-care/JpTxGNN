@@ -55,7 +55,7 @@ description: "Rizatriptan：予測新適応症はAtrophoderma vermiculata（エ�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、リザトリプタンは 5-HT1B/1D 受容体作動薬（トリプタン系）に分類されます。頭蓋内血管を収縮させ、三叉神経からの CGRP 放出を抑えることで、片頭痛の急性期症状を和らげると考えられています。
+米国 FDA が承認した Rizatriptan の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「リザトリプタンはヒトクローン化5-HT 1B/1D 受容体に高い親和性で結合する。リザトリプタンは、頭蓋内血管及び三叉神経系の感覚神経に存在する5-HT 1B/1D 受容体に結合することにより、片頭痛の治療において治療効果を発揮すると推定される。」英語原文："Rizatriptan binds with high affinity to human cloned 5-HT 1B/1D receptors. Rizatriptan presumably exerts its therapeutic effects in the treatment of migraine headache by binding to 5-HT 1B/1D receptors located on intracranial blood vessels and sensory nerves of the trigeminal system."（[DailyMed: rizatriptan prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f000d96c-42a0-4aac-96ca-8cef289979ce)、版 2025-11-26、参照日 2026-11-19）。既知の情報によると、リザトリプタンは 5-HT1B/1D 受容体作動薬（トリプタン系）に分類されます。頭蓋内血管を収縮させ、三叉神経からの CGRP 放出を抑えることで、片頭痛の急性期症状を和らげると考えられています。
 
 既存の適応症は片頭痛であり、予測された新規適応症も片頭痛の一つの亜型です。そのため、疾患領域としては近く、機序的に適用できる可能性はあります。
 
@@ -138,11 +138,12 @@ description: "Rizatriptan：予測新適応症はAtrophoderma vermiculata（エ�
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「現在有効な日本の承認がないため、再承認または供給体制の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: rizatriptan prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f000d96c-42a0-4aac-96ca-8cef289979ce) |
 
 <!-- review:end log -->
 

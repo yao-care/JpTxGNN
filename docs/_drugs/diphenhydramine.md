@@ -56,7 +56,7 @@ TxGNN モデルは**酒さ性結膜炎 (Rosacea Conjunctivitis)** に有効で�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、ジフェンヒドラミンは第一世代の H1 受容体拮抗薬で、アレルギー性鼻炎での使用実績があります。ヒスタミンが関与する目のかゆみや充血を和らげる可能性があるため、眼の症状には一定の適用可能性があります。
+米国 FDA が承認した Diphenhydramine の添付文書（Prescribing Information）の「Clinical Pharmacology」の項によると（非公式訳）、「ジフェンヒドラミン塩酸塩は、抗コリン作用（乾燥作用）及び鎮静作用の副作用を有する抗ヒスタミン薬である。抗ヒスタミン薬は、効果器細胞上の細胞受容体部位においてヒスタミンと競合すると考えられる。注射剤のジフェンヒドラミン塩酸塩は作用発現が速い。」英語原文："Diphenhydramine hydrochloride is an antihistamine with anticholinergic (drying) and sedative side effects. Antihistamines appear to compete with histamine for cell receptor sites on effector cells. Diphenhydramine hydrochloride in the injectable form has a rapid onset of action."（[DailyMed: diphenhydramine hydrochloride prescribing information, Henry Schein, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=af972e71-62ab-40c6-925a-cbcb4d6720a4)、版 2026-10-28、参照日 2026-11-19）。既知の情報によると、ジフェンヒドラミンは第一世代の H1 受容体拮抗薬で、アレルギー性鼻炎での使用実績があります。ヒスタミンが関与する目のかゆみや充血を和らげる可能性があるため、眼の症状には一定の適用可能性があります。
 
 ただし、酒さ性結膜炎（眼型酒さ）の主な原因は、マイボーム腺機能不全、自然免疫の活性化、炎症です。ヒスタミン経路との関連は間接的にとどまります。今回の予測は TxGNN のスコア（0.992）に基づくもので、臨床的・文献的な裏付けはありません。
 
@@ -117,13 +117,14 @@ TxGNN モデルは**酒さ性結膜炎 (Rosacea Conjunctivitis)** に有効で�
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「さらに、日本では現在有効な承認がありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-06 | 削除：「現在有効な承認がないことを踏まえた、開発・導入方針の整理」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: diphenhydramine hydrochloride prescribing information, Henry Schein, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=af972e71-62ab-40c6-925a-cbcb4d6720a4) |
 
 <!-- review:end log -->
 

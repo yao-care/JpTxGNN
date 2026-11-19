@@ -56,7 +56,7 @@ TxGNN モデルは**常染色体劣性プロテインC欠損による血栓性�
 
 ## この予測が妥当である理由
 
-詳細な作用機序データは、現在ありません。ただし、ヘパリンはアンチトロンビンを介してトロンビンなどの凝固因子を阻害する抗凝固薬として広く知られています。
+米国 FDA が承認した Heparin の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「ヘパリンは天然に存在する血漿タンパク質であるアンチトロンビンIIIと相互作用して立体構造変化を誘導し、アンチトロンビンIIIのセリンプロテアーゼ（阻害）活性を著しく増強することにより、凝固カスケードの最終段階に関与する活性化凝固因子、特にXa及びIIaを阻害する。少量のヘパリンは第Xa因子を阻害し、より多量のヘパリンはトロンビン（第IIa因子）を阻害する。」英語原文："Heparin interacts with the naturally occurring plasma protein, antithrombin III, to induce a conformational change, which markedly enhances the serine protease activity of antithrombin III, thereby inhibiting the activated coagulation factors involved in the closing sequence, particularly Xa and IIa. Small amounts of heparin inhibit Factor Xa, and larger amounts inhibit thrombin (Factor IIa)."（[DailyMed: Heparin Sodium And Dextrose (heparin sodium) prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eede8a0c-5ae6-4166-84b3-12081405f08e)、版 2026-05-25、参照日 2026-11-19）。ただし、ヘパリンはアンチトロンビンを介してトロンビンなどの凝固因子を阻害する抗凝固薬として広く知られています。
 
 プロテインC欠損症では、凝固を抑える生体内の仕組みが弱まり、血栓ができやすい状態になります。ヘパリンはアンチトロンビン経路で凝固を抑えるため、この過凝固状態に対して生物学的にはもっともらしいと考えられます。
 
@@ -101,6 +101,19 @@ TxGNN モデルは**常染色体劣性プロテインC欠損による血栓性�
 - 添付文書（PMDA）の警告・禁忌の取得と安全性評価
 - 詳細な作用機序データ（MOA）の補完
 - 出血リスクや相互作用を踏まえた、対象患者集団の安全性モニタリング計画
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Heparin Sodium And Dextrose (heparin sodium) prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=eede8a0c-5ae6-4166-84b3-12081405f08e) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

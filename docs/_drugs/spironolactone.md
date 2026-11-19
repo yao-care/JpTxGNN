@@ -56,7 +56,7 @@ description: "Spironolactone：予測新適応症はHypotrichosis simplex of the
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、スピロノラクトンはアルドステロン（ミネラルコルチコイド）受容体拮抗薬に分類され、高血圧症と原発性アルドステロン症での有効性が確立されています。
+米国 FDA が承認した Spironolactone の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「スピロノラクトン及びその活性代謝物はアルドステロンの特異的な薬理学的拮抗薬であり、主に腎遠位曲尿細管のアルドステロン依存性ナトリウム-カリウム交換部位において受容体に競合的に結合することにより作用する。スピロノラクトンはナトリウム及び水の排泄量を増加させる一方、カリウムは保持される。」英語原文："Spironolactone and its active metabolites are specific pharmacologic antagonists of aldosterone, acting primarily through competitive binding of receptors at the aldosterone-dependent sodium-potassium exchange site in the distal convoluted renal tubule. Spironolactone causes increased amounts of sodium and water to be excreted, while potassium is retained."（[DailyMed: Aldactone (spironolactone) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0fed2822-3a03-4b64-9857-c682fcd462bc)、版 2025-11-28、参照日 2026-11-19）。既知の情報によると、スピロノラクトンはアルドステロン（ミネラルコルチコイド）受容体拮抗薬に分類され、高血圧症と原発性アルドステロン症での有効性が確立されています。
 
 加えて、スピロノラクトンには抗アンドロゲン作用があります。アンドロゲン受容体を遮断し、アンドロゲン合成も弱く抑制するため、アンドロゲン依存性の毛包ミニチュア化を抑える可能性があります。
 
@@ -129,12 +129,13 @@ description: "Spironolactone：予測新適応症はHypotrichosis simplex of the
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「なく、日本では有効な承認が現在」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-17 | 表：620266148 は有効ではなく薬価基準から削除済み | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Aldactone (spironolactone) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0fed2822-3a03-4b64-9857-c682fcd462bc) |
 
 <!-- review:end log -->
 

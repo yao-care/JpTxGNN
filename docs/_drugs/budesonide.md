@@ -58,7 +58,7 @@ TxGNN モデルは**アトピー性湿疹 (atopic eczema)** に有効である�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、ブデソニドはグルココルチコイド受容体作動薬で、抗炎症薬に分類されます。気管支喘息や炎症性腸疾患など、粘膜の炎症性疾患で使われてきました。
+米国 FDA が承認した Budesonide の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「ブデソニドは抗炎症作用を有する副腎皮質ステロイドであり、強力な糖質コルチコイド作用及び弱い鉱質コルチコイド作用を示す。標準的なin vitro試験及び動物モデルにおいて、ブデソニドはコルチゾールと比較して、糖質コルチコイド受容体に対して約200倍高い親和性を有し、局所抗炎症作用は1000倍強力である（ラットクロトン油耳浮腫試験）。」英語原文："Budesonide is an anti-inflammatory corticosteroid that exhibits potent glucocorticoid activity and weak mineralocorticoid activity. In standard in vitro and animal models, budesonide has approximately a 200-fold higher affinity for the glucocorticoid receptor and a 1000-fold higher topical anti-inflammatory potency than cortisol (rat croton oil ear edema assay)."（[DailyMed: Budesonide Inhalation Suspension (budesonide) prescribing information, Cipla USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c52c5382-1400-44b9-95be-a30e1cf706da)、版 2026-06-10、参照日 2026-11-19）。既知の情報によると、ブデソニドはグルココルチコイド受容体作動薬で、抗炎症薬に分類されます。気管支喘息や炎症性腸疾患など、粘膜の炎症性疾患で使われてきました。
 
 アトピー性湿疹は Th2 型の皮膚炎症を特徴とします。グルココルチコイドは NF-κB を介した炎症性サイトカインの産生を抑えるため、クラスとしての抗炎症効果は理論上期待できます。既存適応症とは、アレルギー性・好酸球性の炎症という共通点があります。
 
@@ -133,11 +133,12 @@ TxGNN モデルは**アトピー性湿疹 (atopic eczema)** に有効である�
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「日本では現在有効な承認がなく、添付文書の安全性情報も未取得のため、安全性の評価も完了していません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Budesonide Inhalation Suspension (budesonide) prescribing information, Cipla USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c52c5382-1400-44b9-95be-a30e1cf706da) |
 
 <!-- review:end log -->
 

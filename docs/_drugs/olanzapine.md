@@ -58,7 +58,7 @@ TxGNN モデルは**良性乳児発作性斜頸 (benign paroxysmal torticollis o
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報では、オランザピンはドパミン D2 受容体とセロトニン 5-HT2A 受容体に拮抗する非定型抗精神病薬で、統合失調症と双極性障害での有効性が確立しています。
+米国 FDA が承認した Olanzapine の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「記載された適応症におけるオランザピンの作用機序は明らかではない。しかしながら、統合失調症におけるオランザピンの有効性は、ドパミン及びセロトニン2型（5HT 2 ）拮抗作用の組み合わせを介している可能性がある。」英語原文："The mechanism of action of olanzapine, in the listed indications, is unclear. However, the efficacy of olanzapine in schizophrenia could be mediated through a combination of dopamine and serotonin type 2 (5HT 2 ) antagonism."（[DailyMed: Weltruza (olanzapine) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a23e99c7-fb76-46d2-95af-e03d5a4d1f2c)、版 2026-10-26、参照日 2026-11-19）。既知の情報では、オランザピンはドパミン D2 受容体とセロトニン 5-HT2A 受容体に拮抗する非定型抗精神病薬で、統合失調症と双極性障害での有効性が確立しています。
 
 一方、良性乳児発作性斜頸は、小児期のチャネル病（CACNA1A 関連が多い）に関連する運動障害です。オランザピンの D2/5-HT2A 拮抗作用が、この疾患の病態に関与するという根拠は確認できません。既存適応症との機序的な関連性も乏しく、支持材料は TxGNN の予測のみです。
 
@@ -132,12 +132,13 @@ TxGNN の上位 10 件のうち、エビデンスに差があります。参考�
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「販売中の承認はなく、20 件すべてが整理済み（取消）です」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-06 | 削除：「国内で販売中の製剤がないため」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Weltruza (olanzapine) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a23e99c7-fb76-46d2-95af-e03d5a4d1f2c) |
 
 <!-- review:end log -->
 

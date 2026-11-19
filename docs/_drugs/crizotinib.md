@@ -55,7 +55,7 @@ TxGNN モデルは**歯肉線維腫症 (fibromatosis, gingival)** に有効で�
 
 ## この予測が妥当である理由
 
-詳細な作用機序データは、本レポート用に集めたデータには含まれていません。クリゾチニブは ALK、ROS1、MET の各チロシンキナーゼを阻害する薬剤として知られています。
+米国 FDA が承認した Crizotinib の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「クリゾチニブは、ALK、肝細胞増殖因子受容体（HGFR、c-Met）、ROS1（c-ros）およびRecepteur d'Origine Nantais（RON）を含む受容体チロシンキナーゼの阻害薬である。転座がALK遺伝子に影響を及ぼし、その結果、発がん性融合タンパク質が発現することがある。」英語原文："Crizotinib is an inhibitor of receptor tyrosine kinases including ALK, Hepatocyte Growth Factor Receptor (HGFR, c-Met), ROS1 (c-ros), and Recepteur d'Origine Nantais (RON). Translocations can affect the ALK gene resulting in the expression of oncogenic fusion proteins."（[DailyMed: Xalkori (crizotinib) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2a51b0de-47d6-455e-a94c-d2c737b04ff7)、版 2026-10-29、参照日 2026-11-19）。クリゾチニブは ALK、ROS1、MET の各チロシンキナーゼを阻害する薬剤として知られています。
 
 歯肉線維腫症とこれらの標的との間に、確立した関連はありません。したがって、機序面の裏付けは現時点では乏しく、この予測はモデルによるスコアに基づくものにとどまります。
 
@@ -104,6 +104,19 @@ TxGNN モデルは**歯肉線維腫症 (fibromatosis, gingival)** に有効で�
 - 詳細な作用機序データ（MOA）
 - 添付文書（PMDA）の警告・禁忌情報の取得と安全性評価
 - 非腫瘍性疾患に対する抗腫瘍性キナーゼ阻害薬の利益・リスク評価
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Xalkori (crizotinib) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2a51b0de-47d6-455e-a94c-d2c737b04ff7) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

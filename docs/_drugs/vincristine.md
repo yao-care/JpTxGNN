@@ -55,7 +55,7 @@ TxGNN モデルは **椎骨異常を伴う内分泌・T細胞機能異常症候�
 
 ## この予測が妥当である理由
 
-ビンクリスチンは、チューブリンに結合して微小管の重合を阻害し、分裂中の細胞を有糸分裂期で停止させるビンカアルカロイドです。詳細な作用機序データは、今回まとめたデータには含まれていません。
+ビンクリスチンは、チューブリンに結合して微小管の重合を阻害し、分裂中の細胞を有糸分裂期で停止させるビンカアルカロイドです。米国 FDA が承認した Vincristine の添付文書（Prescribing Information）の「Clinical Pharmacology」の項によると（非公式訳）、「ビンクリスチン硫酸塩の作用機序は現在も研究中である。ビンクリスチン硫酸塩の作用機序は、有糸分裂紡錘体における微小管形成の阻害に関連しており、その結果、分裂細胞が中期で停止するとされている。」英語原文："The mechanisms of action of vincristine sulfate remain under investigation. The mechanism of action of vincristine sulfate has been related to the inhibition of microtubule formation in mitotic spindle, resulting in an arrest of dividing cells at the metaphase stage."（[DailyMed: vincristine sulfate prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b22e4c8e-dbe1-4d4b-a026-e1812974071c)、版 2026-02-17、参照日 2026-11-19）。
 
 ナレッジグラフ上の既知用途は、リンパ系腫瘍や組織球症など増殖の速い血液・免疫系の疾患が中心です。一方、予測された疾患は、椎骨の発生異常に内分泌異常と T 細胞機能不全が加わる稀な発生・免疫症候群です。
 
@@ -120,6 +120,19 @@ TxGNN モデルは **椎骨異常を伴う内分泌・T細胞機能異常症候�
 - 詳細な作用機序データ（MOA）の補充
 - 添付文書（警告・禁忌・適応症）の取得と確認
 - 次点候補（後腹膜腫瘍）について、ビンクリスチンを含む併用療法での寄与を検証する追加調査
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: vincristine sulfate prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b22e4c8e-dbe1-4d4b-a026-e1812974071c) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

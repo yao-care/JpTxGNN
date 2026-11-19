@@ -55,7 +55,7 @@ TxGNN モデルは**鼻腔疾患 (Nasal Cavity Disease)** に有効である可�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、フェニレフリンは α1 アドレナリン受容体作動薬で、粘膜血管を収縮させ、鼻づまりや粘膜出血を軽減します。
+米国 FDA が承認した Phenylephrine の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「フェニレフリン塩酸塩はα-1アドレナリン受容体作動薬である。」英語原文："Phenylephrine hydrochloride is an α-1 adrenergic receptor agonist."（[DailyMed: Biorphen (phenylephrine hydrochloride) prescribing information, Dr. Reddy's Laboratories Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2f715e4e-b269-b935-d2c9-003cb29770be)、版 2026-03-31、参照日 2026-11-19）。既知の情報によると、フェニレフリンは α1 アドレナリン受容体作動薬で、粘膜血管を収縮させ、鼻づまりや粘膜出血を軽減します。
 
 既存の適応症（鼻炎、風邪、咽頭炎）はいずれも鼻・上気道粘膜の充血や浮腫を伴う疾患です。そのため、血管収縮作用が鼻腔疾患全般にも適用できる可能性があります。
 
@@ -116,11 +116,12 @@ TxGNN モデルは**鼻腔疾患 (Nasal Cavity Disease)** に有効である可�
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「日本で承認が取り消された経緯を確認する」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Biorphen (phenylephrine hydrochloride) prescribing information, Dr. Reddy's Laboratories Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2f715e4e-b269-b935-d2c9-003cb29770be) |
 
 <!-- review:end log -->
 

@@ -58,7 +58,7 @@ TxGNN モデルは**悪性胸膜中皮腫 (Malignant Pleural Mesothelioma)** に
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、オキサリプラチンは第三世代の白金系抗がん剤で、DNA 付加体と架橋を形成し、複製と転写を阻害してアポトーシスを誘導します。
+米国 FDA が承認した Oxaliplatin の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「オキサリプラチンは生理的溶液中で、不安定なオキサラート配位子の置換により、非酵素的に活性誘導体へと変換される。モノアクオDACH白金及びジアクオDACH白金を含む数種の一過性の反応性分子種が生成され、これらは高分子と共有結合する。」英語原文："Oxaliplatin undergoes nonenzymatic conversion in physiologic solutions to active derivatives via displacement of the labile oxalate ligand. Several transient reactive species are formed, including monoaquo and diaquo DACH platinum, which covalently bind with macromolecules."（[DailyMed: oxaliplatin prescribing information, Gland Pharma Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a6f89dc3-a594-4b5b-8728-272e20c1ecb5)、版 2026-08-24、参照日 2026-11-19）。既知の情報によると、オキサリプラチンは第三世代の白金系抗がん剤で、DNA 付加体と架橋を形成し、複製と転写を阻害してアポトーシスを誘導します。
 
 結腸癌と中皮腫は組織型こそ異なりますが、どちらも白金系薬剤を含む化学療法に反応しうる腫瘍です。中皮腫は白金感受性があるとされ、オキサリプラチンをゲムシタビン、ラルチトレキセド、ビノレルビンなどと併用した第 II 相試験で活性が報告されています。
 
@@ -150,12 +150,13 @@ TxGNN モデルは**悪性胸膜中皮腫 (Malignant Pleural Mesothelioma)** に
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「日本ではすべての承認が取消となっており、添付文書の警告・禁忌データも未確認のため、安全性評価に進める状態ではありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-17 | 表：671932301 は有効ではなく薬価基準から削除済み | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: oxaliplatin prescribing information, Gland Pharma Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a6f89dc3-a594-4b5b-8728-272e20c1ecb5) |
 
 <!-- review:end log -->
 

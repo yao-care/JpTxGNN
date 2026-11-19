@@ -56,7 +56,7 @@ TxGNN モデルは **CMM7** に有効である可能性を予測しています�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、カルフィルゾミブは不可逆的プロテアソーム阻害薬であり、多発性骨髄腫での使用が知られています。プロテアソーム阻害は腫瘍細胞の生存経路を妨げるため、他の腫瘍にも理論上は適用可能です。
+米国 FDA が承認した Carfilzomib の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「カルフィルゾミブはテトラペプチドエポキシケトン系プロテアソーム阻害薬であり、26Sプロテアソーム内のタンパク質分解コア粒子である20SプロテアソームのN末端スレオニン含有活性部位に不可逆的に結合する。カルフィルゾミブは、in vitroにおいて固形腫瘍細胞及び血液腫瘍細胞に対して増殖抑制作用及びアポトーシス促進作用を示した。」英語原文："Carfilzomib is a tetrapeptide epoxyketone proteasome inhibitor that irreversibly binds to the N-terminal threonine-containing active sites of the 20S proteasome, the proteolytic core particle within the 26S proteasome. Carfilzomib had antiproliferative and proapoptotic activities in vitro in solid and hematologic tumor cells."（[DailyMed: Kyprolis (carfilzomib) prescribing information, Onyx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ea66eb30-e665-4693-99a1-a9d3b4bbe2d6)、版 2025-06-18、参照日 2026-11-19）。既知の情報によると、カルフィルゾミブは不可逆的プロテアソーム阻害薬であり、多発性骨髄腫での使用が知られています。プロテアソーム阻害は腫瘍細胞の生存経路を妨げるため、他の腫瘍にも理論上は適用可能です。
 
 ただし、CMM7 に対して機序的な関連を裏付ける具体的な根拠は、今回のデータにはありません。高い予測スコアはモデル上の予測にとどまります。
 
@@ -138,12 +138,13 @@ CMM7 に関する文献はありません。以下は、予測第 5 位のメラ
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「さらに、日本の販売承認はすでに取り消されており、添付文書の安全性情報も確認できていません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-06 | 削除：「日本での販売承認取り消しの経緯の確認（他剤形・他社での提供状況を含む」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Kyprolis (carfilzomib) prescribing information, Onyx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ea66eb30-e665-4693-99a1-a9d3b4bbe2d6) |
 
 <!-- review:end log -->
 

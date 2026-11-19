@@ -56,7 +56,7 @@ TxGNN モデルは**心臓線維肉腫 (heart fibrosarcoma)** に有効である
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。ただし、イマチニブは BCR-ABL、KIT、PDGFR のチロシンキナーゼ阻害薬として広く知られており、慢性骨髄性白血病や KIT 陽性の消化管間質腫瘍で有効性が確立しています。
+米国 FDA が承認した Imatinib の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「イマチニブメシル酸塩はプロテインチロシンキナーゼ阻害薬であり、CMLにおけるフィラデルフィア染色体異常によって生じる恒常的に活性化した異常チロシンキナーゼであるBCR-ABLチロシンキナーゼを阻害する。イマチニブは、BCR-ABL陽性細胞株及びフィラデルフィア染色体陽性慢性骨髄性白血病由来の新鮮白血病細胞において、増殖を抑制し、アポトーシスを誘導する。」英語原文："Imatinib mesylate is a protein-tyrosine kinase inhibitor that inhibits the BCR-ABL tyrosine kinase, the constitutive abnormal tyrosine kinase created by the Philadelphia chromosome abnormality in CML. Imatinib inhibits proliferation and induces apoptosis in BCR-ABL positive cell lines as well as fresh leukemic cells from Philadelphia chromosome positive chronic myeloid leukemia."（[DailyMed: Gleevec (imatinib mesylate) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=211ef2da-2868-4a77-8055-1cb2cd78e24b)、版 2026-07-13、参照日 2026-11-19）。ただし、イマチニブは BCR-ABL、KIT、PDGFR のチロシンキナーゼ阻害薬として広く知られており、慢性骨髄性白血病や KIT 陽性の消化管間質腫瘍で有効性が確立しています。
 
 予測上位には、線維芽細胞性腫瘍が多く含まれます。たとえば隆起性皮膚線維肉腫 (DFSP) は COL1A1-PDGFB 融合により PDGFRB シグナルが活性化する腫瘍で、イマチニブが標準的な薬物療法の一つです。総説やガイドラインもこの点を支持しています。
 
@@ -134,18 +134,25 @@ TxGNN モデルは**心臓線維肉腫 (heart fibrosarcoma)** に有効である
 - 近縁の予測疾患（隆起性皮膚線維肉腫を含む線維芽細胞性腫瘍、エビデンスレベル L4）を優先的な研究課題として検討する
 - 心疾患・心膜液貯留を持つ患者への使用リスクを評価する
 - 日本での承認状況の再確認（現在、有効な承認が20件あります）
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Gleevec (imatinib mesylate) prescribing information, Novartis Pharmaceuticals Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=211ef2da-2868-4a77-8055-1cb2cd78e24b) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。
 臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-
-
-
-
 
 <!-- brand-names:start -->
 ## 日本での販売名

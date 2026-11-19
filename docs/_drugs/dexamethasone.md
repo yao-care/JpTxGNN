@@ -56,7 +56,7 @@ TxGNN モデルは**毛包性ムチン沈着症 (alopecia mucinosa)** に有効�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、デキサメタゾンはグルココルチコイド受容体作動薬に分類され、強い抗炎症作用・免疫抑制作用を持つ薬剤です。
+米国 FDA が承認した Dexamethasone の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「デキサメタゾンは、抗炎症作用を有し、鉱質コルチコイド作用の弱い副腎皮質ステロイドである。多発性骨髄腫における正確な作用機序は不明である。デキサメタゾンは多発性骨髄腫細胞のアポトーシスを誘導する。」英語原文："Dexamethasone is a corticosteroid with anti-inflammatory effects and low mineralocorticoid activity. The precise mechanism of action in multiple myeloma is unknown. Dexamethasone induces apoptosis of multiple myeloma cells."（[DailyMed: Hemady (dexamethasone) prescribing information, Edenbridge Pharmaceuticals LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6b9cf32c-6d60-4853-bbfd-2304ffc2c129)、版 2026-01-09、参照日 2026-11-19）。既知の情報によると、デキサメタゾンはグルココルチコイド受容体作動薬に分類され、強い抗炎症作用・免疫抑制作用を持つ薬剤です。
 
 毛包性ムチン沈着症は、毛包周囲に炎症性細胞浸潤を伴う疾患です。グルココルチコイドの抗炎症作用がこの浸潤に働く可能性は、機序的には考えられます。
 
@@ -106,18 +106,24 @@ TxGNN モデルは**毛包性ムチン沈着症 (alopecia mucinosa)** に有効�
 - 投与経路（外用または全身）の適合性の検討
 - 小規模な探索的臨床試験の計画
 
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Hemady (dexamethasone) prescribing information, Edenbridge Pharmaceuticals LLC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6b9cf32c-6d60-4853-bbfd-2304ffc2c129) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。
 臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-
-
-
-
 
 <!-- brand-names:start -->
 ## 日本での販売名

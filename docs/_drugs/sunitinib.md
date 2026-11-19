@@ -55,7 +55,7 @@ TxGNN モデルは**脂肪肉腫 (Liposarcoma)** に有効である可能性を�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、スニチニブは VEGFR、PDGFR、KIT を標的とする多標的チロシンキナーゼ阻害薬で、血管新生を抑える抗腫瘍作用があります。この作用は固形腫瘍に広く関わるため、軟部肉腫にも機序的に適用できる可能性があります。
+米国 FDA が承認した Sunitinib の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「スニチニブは複数の受容体型チロシンキナーゼ（RTK）を阻害する低分子化合物であり、これらのRTKの一部は腫瘍増殖、病的血管新生及びがんの転移進行に関与している。」英語原文："Sunitinib is a small molecule that inhibits multiple receptor tyrosine kinases (RTKs), some of which are implicated in tumor growth, pathologic angiogenesis, and metastatic progression of cancer."（[DailyMed: Sutent (sunitinib malate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=43a4d7f8-48ae-4a63-9108-2fa8e3ea9d9c)、版 2026-02-20、参照日 2026-11-19）。既知の情報によると、スニチニブは VEGFR、PDGFR、KIT を標的とする多標的チロシンキナーゼ阻害薬で、血管新生を抑える抗腫瘍作用があります。この作用は固形腫瘍に広く関わるため、軟部肉腫にも機序的に適用できる可能性があります。
 
 既存の用途は抗悪性腫瘍薬としての使用で、脂肪肉腫も悪性腫瘍です。血管新生や増殖シグナルを抑える戦略は、軟部肉腫の標的治療でも検討されています。ただし、脂肪肉腫での個別の機序的根拠は、今回のデータでは確認できていません。
 
@@ -117,18 +117,25 @@ TxGNN モデルは**脂肪肉腫 (Liposarcoma)** に有効である可能性を�
 - 脂肪肉腫サブタイプ別の有効性データの確認（NCT00474994、NCT00400569 の結果の精査）
 - 脂肪肉腫を対象とした前向き試験の検討
 - QT 延長、肝機能、心機能に関する安全性モニタリング計画と、相互作用の高い併用薬の確認
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Sutent (sunitinib malate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=43a4d7f8-48ae-4a63-9108-2fa8e3ea9d9c) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。
 臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-
-
-
-
 
 <!-- brand-names:start -->
 ## 日本での販売名

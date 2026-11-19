@@ -56,7 +56,7 @@ TxGNN モデルは**胃腺癌・胃近位部ポリポーシス (gastric adenocar
 
 ## この予測が妥当である理由
 
-詳細な作用機序データは、今回まとめたデータには含まれていません。一般に、カペシタビンは経口プロドラッグとして 5-FU に変換され、チミジル酸合成酵素を阻害して増殖細胞の DNA 合成を妨げます。
+米国 FDA が承認した Capecitabine の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「カペシタビンは生体内でフルオロウラシルに代謝される。正常細胞及び腫瘍細胞はいずれも、フルオロウラシルを5-フルオロ-2'-デオキシウリジン一リン酸（FdUMP）及び5-フルオロウリジン三リン酸（FUTP）に代謝する。これらの代謝物は2つの異なる機序により細胞傷害を引き起こす。」英語原文："Capecitabine is metabolized to fluorouracil in vivo. Both normal and tumor cells metabolize fluorouracil to 5-fluoro-2'-deoxyuridine monophosphate (FdUMP) and 5-fluorouridine triphosphate (FUTP). These metabolites cause cell injury by two different mechanisms."（[DailyMed: Xeloda (capecitabine) prescribing information, H2-Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e702d84d-7162-4751-bf37-d724cc7e45a5)、版 2026-02-05、参照日 2026-11-19）。一般に、カペシタビンは経口プロドラッグとして 5-FU に変換され、チミジル酸合成酵素を阻害して増殖細胞の DNA 合成を妨げます。
 
 予測された疾患は GAPPS と呼ばれる遺伝性症候群で、APC 遺伝子のプロモーター 1B の変異との関連が知られています。胃の腫瘍性病変という点では、カペシタビンが既に使われている消化管の癌と近い領域にあります。
 
@@ -109,6 +109,19 @@ TxGNN モデルは**胃腺癌・胃近位部ポリポーシス (gastric adenocar
 - 作用機序データ（MOA）の補充
 - PMDA 添付文書の警告・禁忌の取得と安全性スクリーニング
 - APC 変異を伴う遺伝性胃腫瘍に対する、治療上の位置づけの専門家評価
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Xeloda (capecitabine) prescribing information, H2-Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e702d84d-7162-4751-bf37-d724cc7e45a5) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

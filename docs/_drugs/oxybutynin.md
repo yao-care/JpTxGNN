@@ -56,7 +56,7 @@ TxGNN モデルは**下肢静止不能症候群 (Restless Legs Syndrome)** に�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、オキシブチニンはムスカリン受容体拮抗薬に分類され、過活動膀胱や頻尿での使用実績があります。
+米国 FDA が承認した Oxybutynin の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「オキシブチニンは膀胱平滑筋を弛緩させる。オキシブチニン塩酸塩は平滑筋に対して直接的な鎮痙作用を示し、平滑筋に対するアセチルコリンのムスカリン様作用を阻害する。骨格筋の神経筋接合部又は自律神経節における遮断作用（抗ニコチン作用）は認められない。」英語原文："Oxybutynin relaxes bladder smooth muscle. Oxybutynin chloride exerts a direct antispasmodic effect on smooth muscle and inhibits the muscarinic action of acetylcholine on smooth muscle. No blocking effects occur at skeletal neuromuscular junctions or autonomic ganglia (antinicotinic effects)."（[DailyMed: Oxybutynin Chloride Extended Release (oxybutynin chloride) prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b5653b7e-1e3b-4da3-b3a2-33318f448c67)、版 2026-11-11、参照日 2026-11-19）。既知の情報によると、オキシブチニンはムスカリン受容体拮抗薬に分類され、過活動膀胱や頻尿での使用実績があります。
 
 一方、下肢静止不能症候群は、主にドパミン系の機能異常や鉄代謝の異常が関わる疾患とされています。オキシブチニンにはこれらの経路への作用が知られていません。そのため、既存適応症との機序的な関連性は確認できません。
 
@@ -121,12 +121,13 @@ TxGNN モデル（深層学習）のスコアは非常に高い（0.9974）も�
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「日本での承認が全て整理済みである点を踏まえた、供給・開発方針の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Oxybutynin Chloride Extended Release (oxybutynin chloride) prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b5653b7e-1e3b-4da3-b3a2-33318f448c67) |
 
 <!-- review:end log -->
 

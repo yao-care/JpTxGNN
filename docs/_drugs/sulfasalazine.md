@@ -56,7 +56,7 @@ TxGNN モデルは、先天性の発生異常である**合指（趾）症を伴
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報では、サラゾスルファピリジンは炎症性腸疾患や関節炎で有効性が示されている抗炎症薬です。作用は NF-κB 抑制やプロスタグランジン・ロイコトリエンの産生抑制によると考えられています。
+米国 FDA が承認した Sulfasalazine の添付文書（Prescribing Information）の「Clinical Pharmacology」の項によると（非公式訳）、「スルファサラジン（SSZ）又はその代謝物である5-アミノサリチル酸（5-ASA）及びスルファピリジン（SP）の作用機序は、動物及びin vitroモデルで認められている抗炎症作用及び／又は免疫調節作用、結合組織に対する親和性、並びに／又は動物における オートラジオグラフィー試験で示されたように、漿液、肝臓及び腸壁において比較的高濃度に達することに関連している可能性がある。潰瘍性大腸炎において、SSZ、SP及び5-ASAの直腸内投与を用いた臨床試験により、主たる治療作用は5-ASA部分に存在する可能性が示されている。」英語原文："The mode of action of sulfasalazine (SSZ) or its metabolites, 5-aminosalicylic acid (5-ASA) and sulfapyridine (SP), may be related to the anti-inflammatory and/or immunomodulatory properties that have been observed in animal and in vitro models, to its affinity for connective tissue, and/or to the relatively high concentration it reaches in serous fluids, the liver and intestinal walls, as demonstrated in autoradiographic studies in animals. In ulcerative colitis, clinical studies utilizing rectal administration of SSZ, SP and 5-ASA have indicated that the major therapeutic action may reside in the 5-ASA moiety."（[DailyMed: Azulfidine En-Tabs (sulfasalazine) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b9ef541a-93c8-4428-ba45-398aa0b327d1)、版 2026-10-27、参照日 2026-11-19）。既知の情報では、サラゾスルファピリジンは炎症性腸疾患や関節炎で有効性が示されている抗炎症薬です。作用は NF-κB 抑制やプロスタグランジン・ロイコトリエンの産生抑制によると考えられています。
 
 一方、合指（趾）症を伴う短指症候群は、四肢の形成異常を特徴とする発生性の疾患です。上記の抗炎症作用との間に、確立した機序上の関連は見つかっていません。
 
@@ -121,12 +121,13 @@ TxGNN モデルは、先天性の発生異常である**合指（趾）症を伴
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「日本では現在有効な承認がなく、国内での開発・使用の前提も整っていません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Azulfidine En-Tabs (sulfasalazine) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b9ef541a-93c8-4428-ba45-398aa0b327d1) |
 
 <!-- review:end log -->
 

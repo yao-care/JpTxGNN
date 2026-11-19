@@ -56,7 +56,7 @@ TxGNN モデルは**脂肪肉腫 (liposarcoma)** に有効である可能性を�
 
 ## この予測が妥当である理由
 
-詳細な作用機序データは、現在ありません。ただし、本剤は VEGFR1-3、FGFR1-4、PDGFRα、KIT、RET を阻害することが知られており、腫瘍の血管新生を抑える作用が軟部肉腫でも期待されます。
+米国 FDA が承認した Lenvatinib の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「レンバチニブは、血管内皮増殖因子（VEGF）受容体VEGFR1（FLT1）、VEGFR2（KDR）及びVEGFR3（FLT4）のキナーゼ活性を阻害するキナーゼ阻害剤である。レンバチニブは、正常な細胞機能に加えて病的血管新生、腫瘍増殖及びがんの進行に関与するとされる他のキナーゼ、すなわち線維芽細胞増殖因子（FGF）受容体FGFR1、2、3及び4、血小板由来増殖因子受容体α（PDGFRA）、KIT並びにRETも阻害する。」英語原文："Lenvatinib is a kinase inhibitor that inhibits the kinase activities of vascular endothelial growth factor (VEGF) receptors VEGFR1 (FLT1), VEGFR2 (KDR), and VEGFR3 (FLT4). Lenvatinib inhibits other kinases that have been implicated in pathogenic angiogenesis, tumor growth, and cancer progression in addition to their normal cellular functions, including fibroblast growth factor (FGF) receptors FGFR1, 2, 3, and 4; platelet derived growth factor receptor alpha (PDGFRA), KIT, and RET."（[DailyMed: Lenvima (lenvatinib) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f4bedd21-efde-44c6-9d9c-b48b78d7ed1e)、版 2026-10-14、参照日 2026-11-19）。ただし、本剤は VEGFR1-3、FGFR1-4、PDGFRα、KIT、RET を阻害することが知られており、腫瘍の血管新生を抑える作用が軟部肉腫でも期待されます。
 
 脂肪肉腫は血管新生に依存して増殖する軟部肉腫の一つであり、血管新生阻害という機序は理論的に適用可能です。ただし、これまでの臨床知見はエリブリンとの併用によるもので、レンバチニブ単独の寄与は明確ではありません。
 
@@ -112,6 +112,18 @@ TxGNN モデルは**脂肪肉腫 (liposarcoma)** に有効である可能性を�
 - レンバチニブ単独の寄与を評価できる比較試験データ
 - 詳細な作用機序データ（MOA）
 - 添付文書（警告・禁忌）の確認と、併用薬を考慮した安全性モニタリング計画
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Lenvima (lenvatinib) prescribing information, Eisai Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=f4bedd21-efde-44c6-9d9c-b48b78d7ed1e) |
+
+<!-- review:end log -->
 
 ## 免責事項
 

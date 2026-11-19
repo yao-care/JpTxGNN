@@ -56,7 +56,7 @@ TxGNN モデルは **前立腺平滑筋腫 (prostate leiomyoma)** に有効で�
 
 ## この予測が妥当である理由
 
-エンザルタミドは AR シグナルを阻害します。詳細な作用機序データは、今回まとめたデータには含まれていません。
+エンザルタミドは AR シグナルを阻害します。米国 FDA が承認した Enzalutamide の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「エンザルタミドはアンドロゲン受容体シグナル伝達経路の異なる段階に作用するアンドロゲン受容体阻害薬である。エンザルタミドはアンドロゲンのアンドロゲン受容体への結合を競合的に阻害し、その結果、アンドロゲン受容体の核内移行及びアンドロゲン受容体とDNAとの相互作用を阻害することが示されている。」英語原文："Enzalutamide is an androgen receptor inhibitor that acts on different steps in the androgen receptor signaling pathway. Enzalutamide has been shown to competitively inhibit androgen binding to androgen receptors; and consequently, inhibits nuclear translocation of androgen receptors and their interaction with DNA."（[DailyMed: Xtandi (enzalutamide) prescribing information, Astellas Pharma US, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b129fdc9-1d8e-425c-a5a9-8a2ed36dfbdf)、版 2026-07-28、参照日 2026-11-19）。
 
 前立腺の間質組織や平滑筋組織は AR を発現しうるため、AR 阻害が理論上これらの病変に影響する可能性があります。ただし、これは推測の域を出ません。この疾患に対する臨床試験や文献による裏付けはなく、機序的な妥当性も未検証です。
 
@@ -101,6 +101,19 @@ TxGNN モデルは **前立腺平滑筋腫 (prostate leiomyoma)** に有効で�
 - 前立腺平滑筋腫における AR 発現と AR 依存性を示す前臨床・病理学的研究の調査
 - 症例報告や観察研究を含む、この疾患に特化した文献の再検索
 - 主要な相互作用（Major 該当薬）を踏まえた安全性モニタリング計画の策定
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Xtandi (enzalutamide) prescribing information, Astellas Pharma US, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b129fdc9-1d8e-425c-a5a9-8a2ed36dfbdf) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

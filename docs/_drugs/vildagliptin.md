@@ -56,7 +56,7 @@ TxGNN モデルは**限局性硬直肢症候群 (Focal Stiff Limb Syndrome)** �
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、ビルダグリプチンは DPP-4 阻害薬に分類され、2型糖尿病での有効性が確立されています。DPP-4 を阻害して活性型 GLP-1/GIP を高め、グルカゴン分泌を抑えることで血糖を下げると考えられます。
+ChEMBL（EMBL-EBI）に登録されている Vildagliptin の作用機序（非公式訳）：「ジペプチジルペプチダーゼIV阻害薬」英語原文："Dipeptidyl peptidase IV inhibitor"（[ChEMBL CHEMBL142703 (vildagliptin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL142703)、CC BY-SA 3.0、参照日 2026-11-19）。既知の情報によると、ビルダグリプチンは DPP-4 阻害薬に分類され、2型糖尿病での有効性が確立されています。DPP-4 を阻害して活性型 GLP-1/GIP を高め、グルカゴン分泌を抑えることで血糖を下げると考えられます。
 
 一方、限局性硬直肢症候群は、GABA 作動性・グリシン作動性の神経伝達の異常と、それに伴う自己免疫性の過興奮が関わる神経疾患です。この病態と DPP-4 阻害・インクレチン経路との間に、確立した機序的なつながりは見当たりません。
 
@@ -116,12 +116,13 @@ TxGNN モデルは**限局性硬直肢症候群 (Focal Stiff Limb Syndrome)** �
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「日本では現在有効な承認がなく、新規適応症を進める基盤も弱い状態です」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-06 | 削除：「承認整理の経緯」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [ChEMBL CHEMBL142703 (vildagliptin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL142703) |
 
 <!-- review:end log -->
 

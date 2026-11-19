@@ -59,7 +59,7 @@ TxGNN モデルは**頭皮の単純性乏毛症 (hypotrichosis simplex of the sc
 
 ## この予測が妥当かどうか
 
-現在、詳細な作用機序データはありません。ドルゾラミドは炭酸脱水酵素（CA1、CA7、CA12、CA14 など）を標的とする薬理作用が確認されています。点眼液として使用される薬剤で、全身への曝露は少ないと考えられます。
+米国 FDA が承認した Dorzolamide の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「炭酸脱水酵素（CA）は、眼を含む体内の多くの組織に存在する酵素である。CAは二酸化炭素の水和及び炭酸の脱水を伴う可逆反応を触媒する。[…] ドルゾラミド塩酸塩点眼液は、ヒト炭酸脱水酵素IIの阻害薬であるドルゾラミド塩酸塩を含有する。」英語原文："Carbonic anhydrase (CA) is an enzyme found in many tissues of the body including the eye. It catalyzes the reversible reaction involving the hydration of carbon dioxide and the dehydration of carbonic acid. […] Dorzolamide hydrochloride ophthalmic solution contains dorzolamide hydrochloride, an inhibitor of human carbonic anhydrase II."（[DailyMed: Dorzolamide Hydrochloride Ophthalmic Solution (dorzolamide hydrochloride) prescribing information, Micro Labs Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4698e4e1-c5f6-4db1-9328-74464a85afea)、版 2026-11-14、参照日 2026-11-19）。ドルゾラミドは炭酸脱水酵素（CA1、CA7、CA12、CA14 など）を標的とする薬理作用が確認されています。点眼液として使用される薬剤で、全身への曝露は少ないと考えられます。
 
 一方、頭皮の単純性乏毛症は毛包の遺伝性疾患です。炭酸脱水酵素の阻害と毛包生物学との間に、現時点で明確な機序的関連は見当たりません。この予測は TxGNN モデルの出力のみに基づいており、機序面の裏付けはありません。
 
@@ -108,6 +108,19 @@ TxGNN モデルは**頭皮の単純性乏毛症 (hypotrichosis simplex of the sc
 - 詳細な作用機序データ（MOA）の整備
 - 炭酸脱水酵素と毛包の関連を検討する前臨床研究
 - 点眼薬から頭皮への適用に向けた投与経路・剤形の検討
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Dorzolamide Hydrochloride Ophthalmic Solution (dorzolamide hydrochloride) prescribing information, Micro Labs Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4698e4e1-c5f6-4db1-9328-74464a85afea) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

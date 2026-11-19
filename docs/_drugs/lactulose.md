@@ -55,7 +55,7 @@ TxGNN モデルは**急性尿酸性腎症 (acute urate nephropathy)** に有効�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。一般に、ラクツロースは大腸で腸内細菌に分解されて浸透圧作用と腸内の酸性化をもたらし、アンモニアの吸収を抑えると考えられています。
+米国 FDA が承認した Lactulose の添付文書（Prescribing Information）の「Clinical Pharmacology」の項によると（非公式訳）、「ラクツロースは血中アンモニア濃度を低下させ、門脈大循環性脳症の程度を軽減する。これらの作用は以下によるものと考えられている：結腸内でのラクツロースの細菌による分解により結腸内容物が酸性化される。」英語原文："Lactulose causes a decrease in blood ammonia concentration and reduces the degree of portalsystemic encephalopathy. These actions are considered to be results of the following: Bacterial degradation of lactulose in the colon acidifies the colonic contents."（[DailyMed: Enulose (lactulose) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fa3aae7c-6f98-4fbb-85dc-32affe9874d5)、版 2024-12-18、参照日 2026-11-19）。一般に、ラクツロースは大腸で腸内細菌に分解されて浸透圧作用と腸内の酸性化をもたらし、アンモニアの吸収を抑えると考えられています。
 
 急性尿酸性腎症は、尿酸が腎尿細管に沈着して起こる急性の腎障害です。この病態とラクツロースの作用（浸透圧性の腸管作用、腸内アンモニアの捕捉）の間に、直接的で妥当な機序的つながりは見当たりません。今回のスコアは、モデル上の関連性を示すだけで、機序や臨床データで裏付けられたものではありません。
 
@@ -109,6 +109,19 @@ TxGNN モデルは**急性尿酸性腎症 (acute urate nephropathy)** に有効�
 - 詳細な作用機序データ（MOA）の補充
 - 添付文書の警告・禁忌の確認（安全性評価を進めるための必須情報）
 - 上記で関連性が示された場合に限り、小規模な探索的研究の検討
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Enulose (lactulose) prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=fa3aae7c-6f98-4fbb-85dc-32affe9874d5) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

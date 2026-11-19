@@ -55,7 +55,7 @@ description: "Vilanterol：予測新適応症はHyperlucent lung（エビデン�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、ビランテロールは吸入ステロイド（フルチカゾンフランカルボン酸エステル）やウメクリジニウムとの配合剤として使われる長時間作用型β2刺激薬です。気道平滑筋のβ2受容体を介して cAMP を増加させ、気管支拡張を起こすと考えられています。
+米国 FDA が承認した fluticasone furoate and vilanterol（Vilanterolを含む配合剤） の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「ビランテロールを含むβ2アドレナリン受容体作動薬の薬理作用は、少なくとも部分的には、アデノシン三リン酸(ATP)からサイクリック-3′,5′-アデノシン一リン酸(サイクリックAMP)への変換を触媒する酵素である細胞内アデニルシクラーゼの刺激に起因する。」英語原文："The pharmacologic effects of beta 2 -adrenergic agonist drugs, including vilanterol, are at least in part attributable to stimulation of intracellular adenyl cyclase, the enzyme that catalyzes the conversion of adenosine triphosphate (ATP) to cyclic-3′,5′-adenosine monophosphate (cyclic AMP)."（[DailyMed: fluticasone furoate and vilanterol prescribing information, Prasco Laboratories](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3a761487-c300-451a-8537-3196c00c11b5)、版 2024-11-21、参照日 2026-11-19）。既知の情報によると、ビランテロールは吸入ステロイド（フルチカゾンフランカルボン酸エステル）やウメクリジニウムとの配合剤として使われる長時間作用型β2刺激薬です。気道平滑筋のβ2受容体を介して cAMP を増加させ、気管支拡張を起こすと考えられています。
 
 COPD や喘息はいずれも気流閉塞を特徴とする疾患で、「閉塞性肺疾患」はこれらを含む上位概念です。そのため、予測は機序的に自然です。
 
@@ -141,11 +141,12 @@ COPD や喘息はいずれも気流閉塞を特徴とする疾患で、「閉塞
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「承認取消の経緯」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: fluticasone furoate and vilanterol prescribing information, Prasco Laboratories](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3a761487-c300-451a-8537-3196c00c11b5) |
 
 <!-- review:end log -->
 

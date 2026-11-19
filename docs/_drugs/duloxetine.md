@@ -55,7 +55,7 @@ TxGNN モデルは**乳児良性発作性斜頸 (Benign Paroxysmal Torticollis o
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、デュロキセチンはセロトニンとノルアドレナリンの再取り込みを阻害する SNRI で、抗うつ薬としての有効性が確立されています。
+米国 FDA が承認した Duloxetine の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「ヒトにおけるデュロキセチンの抗うつ作用、中枢性疼痛抑制作用及び抗不安作用の正確な機序は不明であるが、これらの作用はCNSにおけるセロトニン作動性及びノルアドレナリン作動性活性の増強に関連すると考えられている。」英語原文："Although the exact mechanisms of the antidepressant, central pain inhibitory and anxiolytic actions of duloxetine in humans are unknown, these actions are believed to be related to its potentiation of serotonergic and noradrenergic activity in the CNS."（[DailyMed: Duloxetine Delayed-Release (duloxetine hydrochloride) prescribing information, Golden State Medical Supply, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=00628e5e-4c5b-2573-e063-6294a90a0e3b)、版 2026-08-20、参照日 2026-11-19）。既知の情報によると、デュロキセチンはセロトニンとノルアドレナリンの再取り込みを阻害する SNRI で、抗うつ薬としての有効性が確立されています。
 
 この疾患が片頭痛関連の病態（片頭痛等価症）である場合に限り、モノアミン系への作用が理論上関与し得ます。ただしこの関連づけは推測の域を出ません。対象は乳児で、支持する臨床データもありません。そのため、機序的な妥当性は低〜限定的と評価します。
 
@@ -127,11 +127,12 @@ TxGNN モデルは**乳児良性発作性斜頸 (Benign Paroxysmal Torticollis o
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「対象が乳児であることや、日本で現在有効な承認がないことも、進めにくい要因です」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Duloxetine Delayed-Release (duloxetine hydrochloride) prescribing information, Golden State Medical Supply, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=00628e5e-4c5b-2573-e063-6294a90a0e3b) |
 
 <!-- review:end log -->
 

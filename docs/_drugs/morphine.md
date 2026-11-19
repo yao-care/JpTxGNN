@@ -55,7 +55,7 @@ TxGNN モデルは**筋筋膜性疼痛症候群 (myofascial pain syndrome)** に
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。一般に、モルヒネは μ オピオイド受容体を刺激して痛みの伝達を抑える薬です。この作用により、筋筋膜性疼痛の症状を一時的に和らげる可能性は考えられます。
+米国 FDA が承認した Morphine の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「モルヒネは完全オピオイド作動薬であり、μオピオイド受容体に比較的選択的であるが、高用量では他のオピオイド受容体にも結合し得る。モルヒネの主な治療作用は鎮痛である。すべての完全オピオイド作動薬と同様に、モルヒネの鎮痛作用には天井効果はない。」英語原文："Morphine is a full opioid agonist and is relatively selective for the mu-opioid receptor, although it can bind to other opioid receptors at higher doses. The principal therapeutic action of morphine is analgesia. Like all full opioid agonists, there is no ceiling effect for analgesia with morphine."（[DailyMed: Ms Contin (morphine sulfate) prescribing information, Rhodes Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c354b3bf-86c0-4bb8-8b1f-be2164942698)、版 2026-08-14、参照日 2026-11-19）。一般に、モルヒネは μ オピオイド受容体を刺激して痛みの伝達を抑える薬です。この作用により、筋筋膜性疼痛の症状を一時的に和らげる可能性は考えられます。
 
 ただし、モルヒネはトリガーポイント（筋肉の痛みの発生点）という病態そのものには作用しません。集計された文献も、構造化ストレッチ運動と麻薬使用に関する後ろ向きコホート研究、手術時の筋膜浸潤麻酔にモルヒネを併用した試験、側頭下顎関節症など近縁の痛みを扱う総説が中心です。筋筋膜性疼痛症候群そのものにモルヒネを用いた直接的な研究は見当たらず、証拠は間接的です。そのため、エビデンスレベルは L5（モデル予測が中心）と判定しました。
 
@@ -106,6 +106,19 @@ TxGNN モデルは**筋筋膜性疼痛症候群 (myofascial pain syndrome)** に
 - 詳細な作用機序データ
 - 添付文書に基づく警告・禁忌の整理
 - 依存、用量漸増、呼吸抑制を含む安全性管理計画
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Ms Contin (morphine sulfate) prescribing information, Rhodes Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c354b3bf-86c0-4bb8-8b1f-be2164942698) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

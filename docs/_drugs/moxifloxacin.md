@@ -55,7 +55,7 @@ TxGNN モデルは**多クローン性高粘稠度症候群 (polyclonal hypervis
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、モキシフロキサシンはフルオロキノロン系抗菌薬で、細菌の DNA ジャイレースとトポイソメラーゼ IV を阻害します。
+米国 FDA が承認した Moxifloxacin の添付文書（Prescribing Information）の「Mechanism of Action」および「Microbiology」の項によると（非公式訳）、「モキシフロキサシン錠はフルオロキノロン系抗菌薬に属する。[…] モキシフロキサシンの殺菌作用は、細菌のDNAの複製、転写、修復及び組換えに必要なトポイソメラーゼII（DNAジャイレース）及びトポイソメラーゼIVの阻害によるものである。」英語原文："Moxifloxacin Tablet is a member of the fluoroquinolone class of antibacterial agents. […] The bactericidal action of moxifloxacin results from inhibition of the topoisomerase II (DNA gyrase) and topoisomerase IV required for bacterial DNA replication, transcription, repair, and recombination."（[DailyMed: Moxifloxacin (moxifloxacin hydrochloride) prescribing information, Kesin Pharma Corportation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5a6d3ff1-e853-a3d8-e063-6394a90a18f5)、版 2026-11-06、参照日 2026-11-19）。既知の情報によると、モキシフロキサシンはフルオロキノロン系抗菌薬で、細菌の DNA ジャイレースとトポイソメラーゼ IV を阻害します。
 
 この作用は細菌感染症に対するものです。多クローン性高粘稠度症候群は、免疫グロブリンの多クローン性増加による血清粘度上昇が本態であり、感染症を治療する薬との機序的な関連は見当たりません。したがって、現時点でこの予測を支持する根拠はありません。
 
@@ -101,6 +101,19 @@ TxGNN モデルは**多クローン性高粘稠度症候群 (polyclonal hypervis
 - 作用機序データの補充（DrugBank）
 - 多クローン性高粘稠度症候群に対する機序仮説の提示と前臨床での検証
 - 予測疾患を直接対象とした臨床試験・文献の確認
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Moxifloxacin (moxifloxacin hydrochloride) prescribing information, Kesin Pharma Corportation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5a6d3ff1-e853-a3d8-e063-6394a90a18f5) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

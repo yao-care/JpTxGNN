@@ -55,7 +55,7 @@ TxGNN モデルは**腎性抗利尿ホルモン不適合分泌症候群 (Nephrog
 
 ## この予測が妥当である理由
 
-エトスクシミドは T 型カルシウムチャネルを阻害し、欠神てんかんの治療に用いられてきました。ただし、現在、詳細な作用機序データはありません。
+エトスクシミドは T 型カルシウムチャネルを阻害し、欠神てんかんの治療に用いられてきました。米国 FDA が承認した Ethosuximide の添付文書（Prescribing Information）の「Clinical Pharmacology」の項によると（非公式訳）、「エトスクシミドは、欠神（小発作）発作によくみられる意識消失に伴う、発作性の毎秒3サイクルの棘徐波活動を抑制する。てんかん様発作の頻度は、運動皮質の抑制及び痙攣誘発刺激に対する中枢神経系の閾値の上昇によると考えられる機序により減少する。」英語原文："Ethosuximide suppresses the paroxysmal three cycle per second spike and wave activity associated with lapses of consciousness which is common in absence (petit mal) seizures. The frequency of epileptiform attacks is reduced, apparently by depression of the motor cortex and elevation of the threshold of the central nervous system to convulsive stimuli."（[DailyMed: Zarontin (ethosuximide) prescribing information, Parke-Davis Div of Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0e008f33-70a1-4bc6-b3a0-d45214418ab6)、版 2026-05-25、参照日 2026-11-19）。
 
 腎性抗利尿ホルモン不適合分泌症候群は、バソプレシン V2 受容体 (AVPR2) の機能獲得型変異、まれに GNAS の変異により、腎集合管で受容体シグナルが持続的に活性化して起こります。
 
@@ -113,12 +113,13 @@ T 型カルシウムチャネル阻害から V2 受容体経路へつながる�
 
 ## 確認記録
 
-以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「日本では承認が失効しており、現時点でこの方向性を進める根拠は不十分です」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-12 | 表：620006918 は「失効」ではなく有効 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Zarontin (ethosuximide) prescribing information, Parke-Davis Div of Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0e008f33-70a1-4bc6-b3a0-d45214418ab6) |
 
 <!-- review:end log -->
 

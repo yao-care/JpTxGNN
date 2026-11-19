@@ -56,7 +56,7 @@ TxGNN モデルは **手の障害を伴う中等度マルチミニコア病 (mod
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。ただし、ダントロレンは RyR1 を介した小胞体からのカルシウム放出を抑える薬剤として知られています。
+米国 FDA が承認した Dantrolene の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「単離神経筋標本において、ダントロレンは神経筋接合部より先の部位で筋の収縮反応に影響を及ぼすことにより弛緩をもたらすことが示されている。骨格筋において、ダントロレンはおそらく筋小胞体からのCa ++ の放出を妨げることにより、興奮収縮連関を解離させる。」英語原文："In isolated nerve-muscle preparation, dantrolene has been shown to produce relaxation by affecting the contractile response of the muscle at a site beyond the myoneural junction. In skeletal muscle, dantrolene dissociates the excitation-contraction coupling, probably by interfering with the release of Ca ++ from the sarcoplasmic reticulum."（[DailyMed: Ryanodex Dantrolene Sodium (dantrolene sodium) prescribing information, Eagle Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8f7b3ac0-604d-4c78-b545-5e0f8ea3d698)、版 2024-10-30、参照日 2026-11-19）。ただし、ダントロレンは RyR1 を介した小胞体からのカルシウム放出を抑える薬剤として知られています。
 
 マルチミニコア病は、RYR1 または SEPN1 の変異と関連することが多い先天性ミオパチーです。RYR1 の異常があるタイプでは、カルシウム放出の調節障害が病態に関わると考えられます。このため、RyR1 を阻害するダントロレンには機序的に検討する余地があります。
 
@@ -98,6 +98,19 @@ TxGNN モデルは **手の障害を伴う中等度マルチミニコア病 (mod
 - 詳細な作用機序 (MOA) データの整備
 - 添付文書の警告・禁忌の確認と、安全性評価（肝機能、筋力低下、併用薬との相互作用）
 - 対象疾患の患者数と、既存製剤の剤形・投与経路の適合性の評価
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Ryanodex Dantrolene Sodium (dantrolene sodium) prescribing information, Eagle Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8f7b3ac0-604d-4c78-b545-5e0f8ea3d698) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。

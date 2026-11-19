@@ -56,7 +56,7 @@ TxGNN モデルは**原発性肺リンパ腫 (primary pulmonary lymphoma)** に�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データ（MOA）はありません。エピルビシンはアントラサイクリン系の抗悪性腫瘍薬で、トポイソメラーゼIIの阻害と DNA への結合（インターカレーション）によって細胞増殖を抑えます。
+米国 FDA が承認した Epirubicin の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「エピルビシンはアントラサイクリン系の細胞傷害性薬剤である。アントラサイクリン系薬剤が真核細胞内の多くの生化学的及び生物学的機能を阻害し得ることは知られているが、エピルビシンの細胞傷害作用及び/又は抗増殖作用の正確な機序は完全には解明されていない。」英語原文："Epirubicin is an anthracycline cytotoxic agent. Although it is known that anthracyclines can interfere with a number of biochemical and biological functions within eukaryotic cells, the precise mechanisms of epirubicin's cytotoxic and/or antiproliferative properties have not been completely elucidated."（[DailyMed: Ellence (epirubicin hydrochloride) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0a03c798-a652-4895-b29c-3b521a89ba42)、版 2026-07-24、参照日 2026-11-19）。エピルビシンはアントラサイクリン系の抗悪性腫瘍薬で、トポイソメラーゼIIの阻害と DNA への結合（インターカレーション）によって細胞増殖を抑えます。
 
 リンパ腫の治療では、アントラサイクリンを含む多剤併用療法（CHOP 様レジメンなど）が広く使われています。原発性肺リンパ腫もリンパ系腫瘍であり、この機序が働く可能性は考えられます。
 
@@ -121,18 +121,24 @@ TxGNN モデルは**原発性肺リンパ腫 (primary pulmonary lymphoma)** に�
 - 詳細な作用機序データ（MOA）の補充
 - 添付文書の警告・禁忌の確認と、心毒性・骨髄抑制を含む安全性モニタリング計画
 
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Ellence (epirubicin hydrochloride) prescribing information, Pharmacia & Upjohn Company LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0a03c798-a652-4895-b29c-3b521a89ba42) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。
 臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-
-
-
-
 
 <!-- brand-names:start -->
 ## 日本での販売名

@@ -56,7 +56,7 @@ TxGNN モデルは**肝性ポルフィリン症 (Hepatic Porphyria)** に有効�
 
 ## この予測が妥当である理由
 
-現在、詳細な作用機序データはありません。既知の情報によると、アロプリノールはキサンチンオキシダーゼを阻害して尿酸の生成を抑える薬で、痛風での使用が確立しています。
+米国 FDA が承認した Allopurinol の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「アロプリノールは天然のプリン塩基であるヒポキサンチンの構造類似体である。アロプリノールおよびその代謝物であるオキシプリノールは、キサンチンオキシダーゼを阻害する。キサンチンオキシダーゼは、ヒトにおけるプリン代謝の最終産物である尿酸への変換、すなわちヒポキサンチンからキサンチンへの変換およびキサンチンから尿酸への変換を担う酵素である。」英語原文："Allopurinol is a structural analogue of the natural purine base, hypoxanthine. Allopurinol and its oxypurinol metabolite inhibitor xanthine oxidase, the enzyme responsible for the conversion of hypoxanthine to xanthine and of xanthine to uric acid, the end product of purine metabolism in humans."（[DailyMed: Aloprim (allopurinol) prescribing information, Mylan Institutional LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10cc918f-aa44-415b-932d-2404695ac449)、版 2022-02-18、参照日 2026-11-19）。既知の情報によると、アロプリノールはキサンチンオキシダーゼを阻害して尿酸の生成を抑える薬で、痛風での使用が確立しています。
 
 古い動物研究では、アロプリノールが肝臓のヘム代謝や ALAS1（ヘム合成の律速酵素）の調節に影響を与える可能性が報告されています。ただし間接的な知見にとどまります。さらに、アロプリノールはポルフィリン症を誘発しうる薬剤としても知られており、予測された方向とは逆の作用が懸念されます。
 
@@ -112,6 +112,19 @@ TxGNN モデルは**肝性ポルフィリン症 (Hepatic Porphyria)** に有効�
 - 肝性ポルフィリン症患者を対象とした安全性・有効性データ
 
 なお、2 位以下の予測（肝門脈硬化症、肝肺症候群など）も、いずれも臨床試験・文献による裏付けがなく、現時点では Hold が妥当です。
+
+<!-- review:begin log -->
+
+## 確認記録
+
+以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+
+| 確認日 | 項目 | 対応 | 出典 |
+|------|------|------|------|
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Aloprim (allopurinol) prescribing information, Mylan Institutional LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=10cc918f-aa44-415b-932d-2404695ac449) |
+
+<!-- review:end log -->
+
 ## 免責事項
 
 本コンテンツは研究目的のみであり、医療アドバイスを構成するものではありません。
