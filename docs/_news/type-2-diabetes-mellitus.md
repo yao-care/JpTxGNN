@@ -3,9 +3,9 @@ layout: default
 title: "2型糖尿病 (type 2 diabetes mellitus) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "2型糖尿病 (type 2 diabetes mellitus) に関する健康ニュース。ニュース 1 件、関連医薬品 5 件。"
+description: "2型糖尿病 (type 2 diabetes mellitus) に関する健康ニュース。ニュース 2 件、関連医薬品 5 件。"
 permalink: /news/type-2-diabetes-mellitus/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-19
 ---
 
 # 2型糖尿病 (type 2 diabetes mellitus) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="2型糖尿病 (type 2 diabetes mellitus) に関するニュースは？">
-<strong>2型糖尿病 (type 2 diabetes mellitus)</strong> には現在 <strong>1 件</strong>の関連ニュースと 5 件の関連医薬品があります。
+<strong>2型糖尿病 (type 2 diabetes mellitus)</strong> には現在 <strong>2 件</strong>の関連ニュースと 5 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,15 @@ last_modified_at: 2026-11-18
 </ul>
 </div>
 
-## 関連ニュース（1 件）
+## 関連ニュース（2 件）
+
+### [2型糖尿病患者の厳格な降圧が主要心血管イベントを抑制せず ブラジル・OPTIMAL-DIABETES試験](https://news.google.com/rss/articles/CBMia0FVX3lxTE5XeFJYUF92Y0t1aDFDRUhTVXpLamlFTUY0dW5VZm5WUGtncG9BeVltZEFqVG12YV9odFdCM2hiSTV4WlBtOXF2OURTN2RuX3k3UjhKR1o4NTA5VG8wcHpjRERvVGRwaXBTQlhR?oc=5)
+
+2026-11-19
+
+出典: [糖尿病リソースガイド](https://news.google.com/rss/articles/CBMia0FVX3lxTE5XeFJYUF92Y0t1aDFDRUhTVXpLamlFTUY0dW5VZm5WUGtncG9BeVltZEFqVG12YV9odFdCM2hiSTV4WlBtOXF2OURTN2RuX3k3UjhKR1o4NTA5VG8wcHpjRERvVGRwaXBTQlhR?oc=5)
+
+---
 
 ### [2型糖尿病の強化降圧、認知症・軽度認知障害の発生に有意差なし](https://news.google.com/rss/articles/CBMiggFBVV95cUxOTko2Sy1sTGtGLWY0SVA5dmFmRGhZYm03Vk9TZ3QzU0VhVzdaeG9DUXRzT0RIZnJsYWk5SThidVZGTXNyTUtTTDFDSXZ6TDdXaHh6WDgyNDJuM1dOMU5Yc3Rka2ljUUxQeERPVFBKUUNmZnlUYjc0TGZ6TTliWmNUSllR?oc=5)
 

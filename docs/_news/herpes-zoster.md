@@ -3,9 +3,9 @@ layout: default
 title: "帯状疱疹 (herpes zoster) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "帯状疱疹 (herpes zoster) に関する健康ニュース。ニュース 2 件、関連医薬品 3 件。"
+description: "帯状疱疹 (herpes zoster) に関する健康ニュース。ニュース 3 件、関連医薬品 3 件。"
 permalink: /news/herpes-zoster/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-19
 ---
 
 # 帯状疱疹 (herpes zoster) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="帯状疱疹 (herpes zoster) に関するニュースは？">
-<strong>帯状疱疹 (herpes zoster)</strong> には現在 <strong>2 件</strong>の関連ニュースと 3 件の関連医薬品があります。
+<strong>帯状疱疹 (herpes zoster)</strong> には現在 <strong>3 件</strong>の関連ニュースと 3 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,15 @@ last_modified_at: 2026-11-18
 </ul>
 </div>
 
-## 関連ニュース（2 件）
+## 関連ニュース（3 件）
+
+### [夫婦で「帯状疱疹ワクチン」を打ったら、70歳の妻は「2回で2万2000円」なのに、69歳の私は「4万4000円」！ たった“1歳違い”で「倍になる」のはなぜ？「定期接種の対象年齢」を確認（ファイナンシャルフィールド）](https://news.google.com/rss/articles/CBMif0FVX3lxTE1wZk11ZEdDcEpxcG1oWHhaMjFKUmduZXlzaXpSVlZ3S0UyNm1URGJpRUVwdlIyeElFamdKUWMzTkpLWlBmNllOMkd5QThYRktvZktmTXRpVWQ2Nkl1SU13NmxpcjY5VWpraGJFUkxkSzFVUi1yRUZoOVhmaVA4dlE?oc=5)
+
+2026-11-14
+
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE1wZk11ZEdDcEpxcG1oWHhaMjFKUmduZXlzaXpSVlZ3S0UyNm1URGJpRUVwdlIyeElFamdKUWMzTkpLWlBmNllOMkd5QThYRktvZktmTXRpVWQ2Nkl1SU13NmxpcjY5VWpraGJFUkxkSzFVUi1yRUZoOVhmaVA4dlE?oc=5)
+
+---
 
 ### [夫婦で「帯状疱疹ワクチン」を打ったら、70歳の妻は「2回で2万2000円」なのに、69歳の私は「4万4000円」！ たった“1歳違い”で「倍になる」のはなぜ？「定期接種の対象年齢」を確認 - Ameba News [アメーバニュース]](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GN096YTBhODVkaERRcXV4alA2MWxsUllXenptOVFQNFlnUG9tWUd5c2JpbWFya2duZlMzSE0yX2VuRDA5ZEFpVXpvRzFOaEd3UjFFTUJZSzB4dw?oc=5)
 

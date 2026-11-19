@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "ジスロマック細粒小児用１０％　１００ｍｇ（選） に関する健康ニュース。予測適応症 10 件。"
 permalink: /news/azithromycin/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-19
 ---
 
 # ジスロマック細粒小児用１０％　１００ｍｇ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="ジスロマック細粒小児用１０％　１００ｍｇ（選） に関するニュースは？">
-<strong>ジスロマック細粒小児用１０％　１００ｍｇ（選）</strong> には現在 <strong>28 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>ジスロマック細粒小児用１０％　１００ｍｇ（選）</strong> には現在 <strong>32 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,39 @@ last_modified_at: 2026-11-18
 <p><a href="{{ '/drugs/azithromycin/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（28 件）
+## 関連ニュース（32 件）
+
+### [医療ニュース速報（11月19日）：放射線治療機器の不足により、がん患者の治療遅延のリスクが高まっている。](https://news.google.com/rss/articles/CBMitAFBVV95cUxOano2V011TXZUOThPS1FKNGh5WnQ1aG5feGo5YXdwbndFWmNjdEpWM004R3RrOXZ1NEdRdVNDSUxDUDRQMmRqdkl6NmdJb3J1V0dlNldqUEJOcVUyaVdwLURPT1duS2VoR3VwNmhGVTBWMm9wNVlZZGhzNjRVWTBPa3RkZzVnN21HMkcyQ295T3JYTEhlRzQyeHVKYjZHLW5mQVl4MW55X0ZSQXMxUE9DZzVxWnU?oc=5)
+
+2026-11-19 <span class="news-indication-tag">がん</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMitAFBVV95cUxOano2V011TXZUOThPS1FKNGh5WnQ1aG5feGo5YXdwbndFWmNjdEpWM004R3RrOXZ1NEdRdVNDSUxDUDRQMmRqdkl6NmdJb3J1V0dlNldqUEJOcVUyaVdwLURPT1duS2VoR3VwNmhGVTBWMm9wNVlZZGhzNjRVWTBPa3RkZzVnN21HMkcyQ295T3JYTEhlRzQyeHVKYjZHLW5mQVl4MW55X0ZSQXMxUE9DZzVxWnU?oc=5)
+
+---
+
+### [「痛みのない血尿」は”膀胱腫瘍”のサイン？見逃したくない症状と原因を解説【医師監修】 (2026年11月19日掲載)](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UdVJTLWVINnJiWmI2OHdPZHR4eVR1QnVXRXNXLXRsOEQxMVFhTWlHandab3hoVUZHNFdWVWF0OVlHUVQ3SGlsQnZJUF9qaHoxM2k0bzQwRFJTM2hhZWc?oc=5)
+
+2026-11-19 <span class="news-indication-tag">腫瘍</span>
+
+出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UdVJTLWVINnJiWmI2OHdPZHR4eVR1QnVXRXNXLXRsOEQxMVFhTWlHandab3hoVUZHNFdWVWF0OVlHUVQ3SGlsQnZJUF9qaHoxM2k0bzQwRFJTM2hhZWc?oc=5)
+
+---
+
+### [【訃報】「木綿のハンカチーフ」歌手・太田裕美さん死去 「乳がん」の原因や予防法を医師が解説(メディカルドック)](https://news.yahoo.co.jp/articles/0d987e330d1d2fed181f7a5afc271454faefe127?source=rss)
+
+2026-11-19 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
+
+出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/0d987e330d1d2fed181f7a5afc271454faefe127?source=rss)
+
+---
+
+### [心臓病患者に尋ねるべき4つのワクチン](https://news.google.com/rss/articles/CBMiUkFVX3lxTE91WENLdXZTV0pFQ3ZLdjNFbnY5QlZHTnE3Qk1sY2JkMmF0STVjRkMwSHJvWEhhWUp4VFd1MzNyczlnUEdodlJwNXZudGRhcHBKNlE?oc=5)
+
+2026-11-19 <span class="news-indication-tag">心臓病</span>
+
+出典: [m3.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTE91WENLdXZTV0pFQ3ZLdjNFbnY5QlZHTnE3Qk1sY2JkMmF0STVjRkMwSHJvWEhhWUp4VFd1MzNyczlnUEdodlJwNXZudGRhcHBKNlE?oc=5)
+
+---
 
 ### [野菜ジュースでもサプリでもない…医師が｢認知症リスクが約3割下がる｣と勧めるスーパーで買える身近な食材(プレジデントオンライン)](https://news.yahoo.co.jp/articles/a66442e81cb0fd1c4df1d9a65e9a6a6843412d91?source=rss)
 
@@ -52,17 +84,9 @@ last_modified_at: 2026-11-18
 
 ---
 
-### [心臓病患者に尋ねるべき4つのワクチン](https://news.google.com/rss/articles/CBMiUkFVX3lxTE91WENLdXZTV0pFQ3ZLdjNFbnY5QlZHTnE3Qk1sY2JkMmF0STVjRkMwSHJvWEhhWUp4VFd1MzNyczlnUEdodlJwNXZudGRhcHBKNlE?oc=5)
-
-2026-11-18 <span class="news-indication-tag">心臓病</span>
-
-出典: [m3.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTE91WENLdXZTV0pFQ3ZLdjNFbnY5QlZHTnE3Qk1sY2JkMmF0STVjRkMwSHJvWEhhWUp4VFd1MzNyczlnUEdodlJwNXZudGRhcHBKNlE?oc=5)
-
----
-
 ### [がん死者数が21年比2.4倍に、早期発見を](https://news.google.com/rss/articles/CBMiRkFVX3lxTFB2WkIzOGhnMk94ZkZ1X093NTM5LTlUc0JrU21YcVhVakt1cklxM01WaWJoLUNqQVBLZmE2ZVdJX19Gc0xwQkE?oc=5)
 
-2026-11-18 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾患</span>
+2026-11-18 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">脳卒中</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾患</span>
 
 出典: [NNAアジア](https://news.google.com/rss/articles/CBMiRkFVX3lxTFB2WkIzOGhnMk94ZkZ1X093NTM5LTlUc0JrU21YcVhVakt1cklxM01WaWJoLUNqQVBLZmE2ZVdJX19Gc0xwQkE?oc=5)
 
@@ -153,6 +177,14 @@ last_modified_at: 2026-11-18
 2026-11-15 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">膵臓がん</span>
 
 出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/e71c4aff7d3bddd4e2ee8084a5ce74126815f1d3?source=rss)
+
+---
+
+### [夫婦で「帯状疱疹ワクチン」を打ったら、70歳の妻は「2回で2万2000円」なのに、69歳の私は「4万4000円」！ たった“1歳違い”で「倍になる」のはなぜ？「定期接種の対象年齢」を確認（ファイナンシャルフィールド）](https://news.google.com/rss/articles/CBMif0FVX3lxTE1wZk11ZEdDcEpxcG1oWHhaMjFKUmduZXlzaXpSVlZ3S0UyNm1URGJpRUVwdlIyeElFamdKUWMzTkpLWlBmNllOMkd5QThYRktvZktmTXRpVWQ2Nkl1SU13NmxpcjY5VWpraGJFUkxkSzFVUi1yRUZoOVhmaVA4dlE?oc=5)
+
+2026-11-14 <span class="news-indication-tag">帯状疱疹</span>
+
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE1wZk11ZEdDcEpxcG1oWHhaMjFKUmduZXlzaXpSVlZ3S0UyNm1URGJpRUVwdlIyeElFamdKUWMzTkpLWlBmNllOMkd5QThYRktvZktmTXRpVWQ2Nkl1SU13NmxpcjY5VWpraGJFUkxkSzFVUi1yRUZoOVhmaVA4dlE?oc=5)
 
 ---
 

@@ -3,9 +3,9 @@ layout: default
 title: "認知症 (dementia) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "認知症 (dementia) に関する健康ニュース。ニュース 23 件、関連医薬品 2 件。"
+description: "認知症 (dementia) に関する健康ニュース。ニュース 25 件、関連医薬品 2 件。"
 permalink: /news/dementia/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-19
 ---
 
 # 認知症 (dementia) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="認知症 (dementia) に関するニュースは？">
-<strong>認知症 (dementia)</strong> には現在 <strong>23 件</strong>の関連ニュースと 2 件の関連医薬品があります。
+<strong>認知症 (dementia)</strong> には現在 <strong>25 件</strong>の関連ニュースと 2 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,7 @@ last_modified_at: 2026-11-18
 </ul>
 </div>
 
-## 関連ニュース（23 件）
+## 関連ニュース（25 件）
 
 ### [野菜ジュースでもサプリでもない…医師が｢認知症リスクが約3割下がる｣と勧めるスーパーで買える身近な食材(プレジデントオンライン)](https://news.yahoo.co.jp/articles/a66442e81cb0fd1c4df1d9a65e9a6a6843412d91?source=rss)
 
@@ -57,11 +57,27 @@ last_modified_at: 2026-11-18
 
 ---
 
+### [100歳以上の長寿者の腸内に共通点、健康長寿のカギは腸内細菌？](https://news.google.com/rss/articles/CBMiR0FVX3lxTE5Ga1dTdWd5VHZfcDI4OUNyTm5qWjB5bzQ4UXcwM0FQVkZvSnZ6ZjQyM2M1WnZBQWx2VkNBLUNUNDBEWWNTdjA0?oc=5)
+
+2026-11-18
+
+出典: [フロントロウ](https://news.google.com/rss/articles/CBMiR0FVX3lxTE5Ga1dTdWd5VHZfcDI4OUNyTm5qWjB5bzQ4UXcwM0FQVkZvSnZ6ZjQyM2M1WnZBQWx2VkNBLUNUNDBEWWNTdjA0?oc=5)
+
+---
+
 ### [現役を引退すると増える…もの忘れ外来の医師が診察室で真っ先に見抜く"服装"に表われた｢認知症の兆し｣](https://news.google.com/rss/articles/CBMihwFBVV95cUxOQlJvMExtQ0trektYc3A4S051UXBkakZZX2pWRW42TjVwb2F0c1Q3WlhzdF9paVpURWFldW5aaTM0bERPY3Zhd2JUS0FLVDJOZXZENFgyaDlKaHdvX1BRR19IMXRvSTlaVzZRQkhVejBEX2RoZ2pUMFVZVGFCN044VE1oTVNPNU0?oc=5)
 
 2026-11-17
 
 出典: [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxOQlJvMExtQ0trektYc3A4S051UXBkakZZX2pWRW42TjVwb2F0c1Q3WlhzdF9paVpURWFldW5aaTM0bERPY3Zhd2JUS0FLVDJOZXZENFgyaDlKaHdvX1BRR19IMXRvSTlaVzZRQkhVejBEX2RoZ2pUMFVZVGFCN044VE1oTVNPNU0?oc=5)
+
+---
+
+### [現役を引退すると増える…もの忘れ外来の医師が診察室で真っ先に見抜く"服装"に表われた｢認知症の兆し｣ - PRESIDENT Online（プレジデントオンライン）](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5wbEJ2dklCeEhLSVJNenNQU1pKNHlGVUNKZXR3LVAzZ1JzSUZ4cDMxbFdBbGRuYmM2VDNGZlZra3drUDFWUVVDSlJFVC1LNkc5VXEtSWtwajg?oc=5)
+
+2026-11-17
+
+出典: [PRESIDENT Online（プレジデントオンライン）](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5wbEJ2dklCeEhLSVJNenNQU1pKNHlGVUNKZXR3LVAzZ1JzSUZ4cDMxbFdBbGRuYmM2VDNGZlZra3drUDFWUVVDSlJFVC1LNkc5VXEtSWtwajg?oc=5)
 
 ---
 
