@@ -801,6 +801,9 @@ errors += _review_errors()
 # 證據包漏收 DL 預測（2026-11-16；沒有 data/ 就略過，說明見 scripts/check_dl_coverage.py）
 from check_dl_coverage import check_errors as _dl_cov_errors  # noqa: E402
 errors += _dl_cov_errors()
+# 公開藥物頁的預測要在 search-index.json、有 drugbank_id 的要有 FHIR MedicationKnowledge（2026-11-19；說明見 scripts/check_search_index_coverage.py）
+from check_search_index_coverage import check_errors as _si_cov_errors  # noqa: E402
+errors += _si_cov_errors()
 _lic_errs = _Lic.site_problems()
 if _lic_errs:
     errors.append(f"許可證資訊跟快照不一致 {len(_lic_errs)} 項：{'；'.join(_lic_errs[:5])}")
