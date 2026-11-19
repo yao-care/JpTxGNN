@@ -448,6 +448,12 @@ SCOPE_CANCELLED = {
     # 2026-11-17（用戶要求確認 AU 新資料查不到的代碼）：AU 的來源是 PBS Schedule（pbs_code＝給付品項代碼，不是 ARTG 號碼），
     # 代碼消失＝no longer listed on the PBS Schedule，不等於 TGA 註冊失效；全部不在當期清單的頁只陳述資料範圍
     "AuTxGNN": "Not on the current PBS Schedule ({n} of {n} PBS items in this data no longer listed) – TGA (ARTG) registration status is not included in this data",
+    # 2026-11-19（用戶以 NPRA QUEST3+ 人工查核 MY 狀態未知的登記號）：兩份 data.gov.my 資料集與 QUEST3+ 都不列的號算非有效，
+    # 但 NPRA 沒有公開撤銷；全部非有效的頁不寫成全部 dibatalkan，照撤銷、到期、已不在現行註冊三種情形一起寫
+    "MyTxGNN": "Tidak dipasarkan (tiada pendaftaran semasa: {n} daripada {n} dibatalkan, tamat tempoh atau tidak lagi tersenarai dalam daftar NPRA)",
+    # 2026-11-17（用戶要求查證 Za 只在 MPR 有、SAHPRA 查不到的號碼）：SAHPRA 匯出沒有、現行 MPR 已 Discontinued（或不列）的號碼算非有效，
+    # 但不是 SAHPRA 撤銷；全部非有效的頁照兩種情形一起寫
+    "ZaTxGNN": "Not marketed (no current registration: {n} of {n} cancelled by SAHPRA, or not on the SAHPRA register and discontinued in or absent from the current Medicine Price Registry)",
 }
 # 只陳述資料範圍的站（NO_CENTRAL／SCOPE_CANCELLED），事實是查無或全部註銷時，正文斷言「在本國／歐盟沒有上市、買不到」超出資料範圍（2026-11-06，Sg、Eu）
 SCOPE_NOMKT = {
@@ -546,11 +552,12 @@ ONLY_CANCEL = re.compile(
     r"\bendast\b[^.\n]{0,30}(avregistrer|återkall)|\bkun\b[^.\n]{0,30}(avregistrer|afregistrer|tilbakekall|tilbagekald)|"
     r"\bvain\b[^.\n]{0,30}perut|(取消|整理|失効)(済み|された承認)?のみ|취소된 허가(만|뿐)|(僅有|只有|僅存)已?(註銷|撤銷)|"
     r"\bhanya\b[^.\n]{0,30}dibatalkan|فقط[^.\n]{0,30}(ملغا|ملغى|ملغية)|มีเพียง[^.\n]{0,30}ยกเลิก", re.I)
+# 「temporalmente no comercializad…」是 CO「Temp. no comerc - Vigente」（法律上仍有效）的寫法，不算未上市說法（2026-11-19，CO rivastigmine 誤報）
 NOT_MKT_CLAIM = re.compile(
     r"\bnot (currently )?marketed\b|\bno longer (marketed|available|has any valid)|\bno longer on the market|"
     r"\bno (longer has any |currently )?valid licen|\bdoes not have any valid|\bhas no valid|"
     r"\bnone of\b[^.\n]{0,40}\b(is|are) (currently )?(valid|active|marketed)|未上市|未在.{0,8}上市|不在.{0,8}上市|"
-    r"ikke markedsført|ikke på markedet|nicht im Handel|nicht (mehr )?vermarktet|keine gültige|no (está )?comercializad|"
+    r"ikke markedsført|ikke på markedet|nicht im Handel|nicht (mehr )?vermarktet|keine gültige|(?<!temporalmente )no (está )?comercializad|"
     r"no se comercializa|não (é |está )?comercializad|non commercialis|n'est pas commercialis|non (è )?in commercio|non commercializzat|"
     r"niet in de handel|inte marknadsförd|ei markkinoilla|tidak dipasarkan|غير مسوق|لا يُسوَّق|ไม่มีจำหน่าย|ไม่ได้วางจำหน่าย|미시판|"
     r"시판되지 않|販売されていない|販売なし|未承認|aucune autorisation valide|ningún registro vigente|nenhum registro (ativo|válido|vigente)|"
