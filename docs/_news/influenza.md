@@ -3,9 +3,9 @@ layout: default
 title: "インフルエンザ (influenza) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 4 件、関連医薬品 1 件。"
+description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 5 件、関連医薬品 1 件。"
 permalink: /news/influenza/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-19
 ---
 
 # インフルエンザ (influenza) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="インフルエンザ (influenza) に関するニュースは？">
-<strong>インフルエンザ (influenza)</strong> には現在 <strong>4 件</strong>の関連ニュースと 1 件の関連医薬品があります。
+<strong>インフルエンザ (influenza)</strong> には現在 <strong>5 件</strong>の関連ニュースと 1 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ last_modified_at: 2026-11-18
 </ul>
 </div>
 
-## 関連ニュース（4 件）
+## 関連ニュース（5 件）
+
+### [マガモの死がいから高病原性鳥インフルエンザウイルス検出 県内の野鳥では今季2例目 秋田・由利本荘市 - 日テレNEWS NNN](https://news.google.com/rss/articles/CBMihwFBVV95cUxQVVFEajhYZWhIRFlfUnFHV0NSaUxnaVRUNUdVSlYtTURGUkNtaE5nWVkwbWNNaXA2M3BLYXU4X2RrcmtYSTRRbzlyVHc4all3ZjFBOGVNSW1iU3ZoUmJBQkpRdEpBVjBwOEg1WjA2clp3WXZpRnUxSTM1VzN0aXBfdHJrQ1NVajA?oc=5)
+
+2026-11-19
+
+出典: [日テレNEWS NNN](https://news.google.com/rss/articles/CBMihwFBVV95cUxQVVFEajhYZWhIRFlfUnFHV0NSaUxnaVRUNUdVSlYtTURGUkNtaE5nWVkwbWNNaXA2M3BLYXU4X2RrcmtYSTRRbzlyVHc4all3ZjFBOGVNSW1iU3ZoUmJBQkpRdEpBVjBwOEg1WjA2clp3WXZpRnUxSTM1VzN0aXBfdHJrQ1NVajA?oc=5)
+
+---
 
 ### [「インフルエンザの熱」が下がらない理由はご存知ですか？再診の目安となる症状も解説！](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNQl9JTUdYMHhBb2pIMzFaUkVNZUVEekNWZEs5NkhIQmhwYWlXUjdjbEx2X3dncnFrRUIyeVd3b3A3M3prckVWSTZoTDNza3BRd2NrNms4ZEJkTlZHX1Fr?oc=5)
 

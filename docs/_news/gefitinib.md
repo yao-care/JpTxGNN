@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="イレッサ錠２５０　２５０ｍｇ（選） に関するニュースは？">
-<strong>イレッサ錠２５０　２５０ｍｇ（選）</strong> には現在 <strong>52 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
+<strong>イレッサ錠２５０　２５０ｍｇ（選）</strong> には現在 <strong>60 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,39 @@ last_modified_at: 2026-11-19
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（52 件）
+## 関連ニュース（60 件）
+
+### [タマネギやリンゴに含まれる化合物には、がん細胞の増殖を抑制する可能性がある。](https://news.google.com/rss/articles/CBMikgFBVV95cUxQNDV6dHVUM0NoM29Ed1dfdVlFOV9qN3VRMFlZeXhHRERXR3p1NTZKdnZ2Vm1WVkJmX3pOckduMUhldmNPTEh3blpKMWdKVjFZUWYxb0txdkR2YWcyVnlJc1VjTFFMWndnQWd5MVdHeGNTLWJyT1M0SW1RR2dCdkNTYnpWel92RV96SDZCU1JJRlNxUQ?oc=5)
+
+2026-11-19 <span class="news-indication-tag">がん</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMikgFBVV95cUxQNDV6dHVUM0NoM29Ed1dfdVlFOV9qN3VRMFlZeXhHRERXR3p1NTZKdnZ2Vm1WVkJmX3pOckduMUhldmNPTEh3blpKMWdKVjFZUWYxb0txdkR2YWcyVnlJc1VjTFFMWndnQWd5MVdHeGNTLWJyT1M0SW1RR2dCdkNTYnpWel92RV96SDZCU1JJRlNxUQ?oc=5)
+
+---
+
+### [スーパーモデルのズオン・イェン・ゴックさんはがんを患っている。](https://news.google.com/rss/articles/CBMibEFVX3lxTE10amJXZzcxUnhPbjlWeWdwcE5qanZDdFNXcXU1ZUpwQTQwa01IcjNJQmc0WVZEb3U3UWNYd2dTendnV2xmbmZFRUVoZXkxYTVhTUdVa2NFOWNVUDk2aXlwUno0VDdzTUFDQi1pbw?oc=5)
+
+2026-11-19 <span class="news-indication-tag">がん</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMibEFVX3lxTE10amJXZzcxUnhPbjlWeWdwcE5qanZDdFNXcXU1ZUpwQTQwa01IcjNJQmc0WVZEb3U3UWNYd2dTendnV2xmbmZFRUVoZXkxYTVhTUdVa2NFOWNVUDk2aXlwUno0VDdzTUFDQi1pbw?oc=5)
+
+---
+
+### [「余命6ヶ月」と宣告された女性患者は、幹細胞療法のおかげで癌を克服した。](https://news.google.com/rss/articles/CBMisAFBVV95cUxOYXN5bnhCN21sWm1mNTR0dE9Jc1ZRNGx1VE45R0lKbmxiYkp0ZjdrZ25COHEyV0ZFa3RyNHliXzVTT0Z6VDZ4S1M2bjJTbkxrSHRWdGQ0bkY4NGVNejF5OVFKWVIyQ2pWVWtCVEJuRXBSd3BPMXdnVnhydmJrNUxCMUNYcGhPVHBQdWFfdDZMVmxldy00U2pKb2xoZWtGUzhZOTQ2akZ0aHpiWUwxZ2Nweg?oc=5)
+
+2026-11-19 <span class="news-indication-tag">癌</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMisAFBVV95cUxOYXN5bnhCN21sWm1mNTR0dE9Jc1ZRNGx1VE45R0lKbmxiYkp0ZjdrZ25COHEyV0ZFa3RyNHliXzVTT0Z6VDZ4S1M2bjJTbkxrSHRWdGQ0bkY4NGVNejF5OVFKWVIyQ2pWVWtCVEJuRXBSd3BPMXdnVnhydmJrNUxCMUNYcGhPVHBQdWFfdDZMVmxldy00U2pKb2xoZWtGUzhZOTQ2akZ0aHpiWUwxZ2Nweg?oc=5)
+
+---
+
+### [胎内の一卵性双生児間でがんが転移、胎児の細胞共有と免疫の仕組み(Forbes JAPAN)](https://news.yahoo.co.jp/articles/77639b82499a45bc91bc6a78bd418ca06b1fcf5f?source=rss)
+
+2026-11-19 <span class="news-indication-tag">がん</span>
+
+出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/77639b82499a45bc91bc6a78bd418ca06b1fcf5f?source=rss)
+
+---
 
 ### [医療ニュース速報（11月19日）：放射線治療機器の不足により、がん患者の治療遅延のリスクが高まっている。](https://news.google.com/rss/articles/CBMitAFBVV95cUxOano2V011TXZUOThPS1FKNGh5WnQ1aG5feGo5YXdwbndFWmNjdEpWM004R3RrOXZ1NEdRdVNDSUxDUDRQMmRqdkl6NmdJb3J1V0dlNldqUEJOcVUyaVdwLURPT1duS2VoR3VwNmhGVTBWMm9wNVlZZGhzNjRVWTBPa3RkZzVnN21HMkcyQ295T3JYTEhlRzQyeHVKYjZHLW5mQVl4MW55X0ZSQXMxUE9DZzVxWnU?oc=5)
 
@@ -56,6 +88,14 @@ last_modified_at: 2026-11-19
 2026-11-19 <span class="news-indication-tag">腫瘍</span>
 
 出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UdVJTLWVINnJiWmI2OHdPZHR4eVR1QnVXRXNXLXRsOEQxMVFhTWlHandab3hoVUZHNFdWVWF0OVlHUVQ3SGlsQnZJUF9qaHoxM2k0bzQwRFJTM2hhZWc?oc=5)
+
+---
+
+### [68歳の男性が排尿困難で死亡した。医師らは、見過ごしてはならない3つの兆候を指摘している。](https://news.google.com/rss/articles/CBMirAFBVV95cUxOdmVUQy1qbm1GVXRscDdGVFNXOURLTkN6NDA5WGNBR3pDZkdWTkVDV2tWVUxJZWVMa3lmaUp0Q0M4NDQtT1c0WUU5TzZsX1FSWTVEUVJrd2dlZVIwc2g5YnlmM0VvVGsxcTZvelNJbHNQQlc2RU9KSWRsNE8xRmtrbDJkaTNIdkpxSGt5N2NHY00xMmp1QXhBYVg2NFhva3FXYnM2ZHVDVnZFOWpG?oc=5)
+
+2026-11-19 <span class="news-indication-tag">腫瘍</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMirAFBVV95cUxOdmVUQy1qbm1GVXRscDdGVFNXOURLTkN6NDA5WGNBR3pDZkdWTkVDV2tWVUxJZWVMa3lmaUp0Q0M4NDQtT1c0WUU5TzZsX1FSWTVEUVJrd2dlZVIwc2g5YnlmM0VvVGsxcTZvelNJbHNQQlc2RU9KSWRsNE8xRmtrbDJkaTNIdkpxSGt5N2NHY00xMmp1QXhBYVg2NFhva3FXYnM2ZHVDVnZFOWpG?oc=5)
 
 ---
 
@@ -80,6 +120,22 @@ last_modified_at: 2026-11-19
 2026-11-18 <span class="news-indication-tag">認知症</span> <span class="news-indication-tag">白血病</span> <span class="news-indication-tag">骨髄性白血病</span>
 
 出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/3963013d84a9926c681f71a96d5cbec62050a231?source=rss)
+
+---
+
+### [｢あえて坂道を選ぶ｣認知症になりにくい"スーパーエイジャー"の実態→｢質の高い人間関係｣と｢程よいストレス｣がポイント](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GWmt3QmJkMjg0ZXdqQW8yMkVGa3o5cERjclAtYWxGWUtvM01uUGc5YTU0MUxIMVd0bHVBTW42Xy1ENE1tbWZBYlViVW5lenRRSnhaSVRiSXhXR28?oc=5)
+
+2026-11-18 <span class="news-indication-tag">認知症</span>
+
+出典: [東洋経済オンライン](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GWmt3QmJkMjg0ZXdqQW8yMkVGa3o5cERjclAtYWxGWUtvM01uUGc5YTU0MUxIMVd0bHVBTW42Xy1ENE1tbWZBYlViVW5lenRRSnhaSVRiSXhXR28?oc=5)
+
+---
+
+### [「うっかり昼寝」は認知症の前ぶれ？ 記憶の衰えより先に現れる「サイン」 | 10年間の追跡研究が示唆すること](https://news.google.com/rss/articles/CBMiU0FVX3lxTE03clVxWlBwQWc5ZElyMEo4RHl2NjBtVEFQRllSUmJKWjRGUlBzLVFxcFZ2NUdPSGRZNDdoZlcyRlIxLWZvY3RqUC00Uzc4cG1iZkJv?oc=5)
+
+2026-11-18 <span class="news-indication-tag">認知症</span>
+
+出典: [クーリエ・ジャポン](https://news.google.com/rss/articles/CBMiU0FVX3lxTE03clVxWlBwQWc5ZElyMEo4RHl2NjBtVEFQRllSUmJKWjRGUlBzLVFxcFZ2NUdPSGRZNDdoZlcyRlIxLWZvY3RqUC00Uzc4cG1iZkJv?oc=5)
 
 ---
 
@@ -120,6 +176,14 @@ last_modified_at: 2026-11-19
 2026-11-18 <span class="news-indication-tag">認知症</span> <span class="news-indication-tag">心筋梗塞</span> <span class="news-indication-tag">脳梗塞</span>
 
 出典: [フロントロウ](https://news.google.com/rss/articles/CBMiR0FVX3lxTE5Ga1dTdWd5VHZfcDI4OUNyTm5qWjB5bzQ4UXcwM0FQVkZvSnZ6ZjQyM2M1WnZBQWx2VkNBLUNUNDBEWWNTdjA0?oc=5)
+
+---
+
+### [酒･タバコと同じくらい危険…10年続けると｢大腸がん｣発症率が2倍に跳ね上がる､職場で毎日やっている習慣【健康リスク3選】](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzTExtQ05ha2M0aTZPOV8zUEhnUkJGM0lCZHBRa29SWENnb2Zia2dNMXo5dkxMUnhRaWpldXJaSE1UdFhSR1RkNF9NWk1uM1djQVIyMlQ0aGREcTNlVEpQUVMtTQ?oc=5)
+
+2026-11-18 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
+
+出典: [Infoseek](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzTExtQ05ha2M0aTZPOV8zUEhnUkJGM0lCZHBRa29SWENnb2Zia2dNMXo5dkxMUnhRaWpldXJaSE1UdFhSR1RkNF9NWk1uM1djQVIyMlQ0aGREcTNlVEpQUVMtTQ?oc=5)
 
 ---
 

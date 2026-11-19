@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="リンデロン−Ｖ軟膏０．１２％（選） に関するニュースは？">
-<strong>リンデロン−Ｖ軟膏０．１２％（選）</strong> には現在 <strong>29 件</strong>の関連ニュースがあり、予測適応症は 7 件です。
+<strong>リンデロン−Ｖ軟膏０．１２％（選）</strong> には現在 <strong>35 件</strong>の関連ニュースがあり、予測適応症は 7 件です。
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,39 @@ last_modified_at: 2026-11-19
 <p><a href="{{ '/drugs/betamethasone/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（29 件）
+## 関連ニュース（35 件）
+
+### [タマネギやリンゴに含まれる化合物には、がん細胞の増殖を抑制する可能性がある。](https://news.google.com/rss/articles/CBMikgFBVV95cUxQNDV6dHVUM0NoM29Ed1dfdVlFOV9qN3VRMFlZeXhHRERXR3p1NTZKdnZ2Vm1WVkJmX3pOckduMUhldmNPTEh3blpKMWdKVjFZUWYxb0txdkR2YWcyVnlJc1VjTFFMWndnQWd5MVdHeGNTLWJyT1M0SW1RR2dCdkNTYnpWel92RV96SDZCU1JJRlNxUQ?oc=5)
+
+2026-11-19 <span class="news-indication-tag">がん</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMikgFBVV95cUxQNDV6dHVUM0NoM29Ed1dfdVlFOV9qN3VRMFlZeXhHRERXR3p1NTZKdnZ2Vm1WVkJmX3pOckduMUhldmNPTEh3blpKMWdKVjFZUWYxb0txdkR2YWcyVnlJc1VjTFFMWndnQWd5MVdHeGNTLWJyT1M0SW1RR2dCdkNTYnpWel92RV96SDZCU1JJRlNxUQ?oc=5)
+
+---
+
+### [スーパーモデルのズオン・イェン・ゴックさんはがんを患っている。](https://news.google.com/rss/articles/CBMibEFVX3lxTE10amJXZzcxUnhPbjlWeWdwcE5qanZDdFNXcXU1ZUpwQTQwa01IcjNJQmc0WVZEb3U3UWNYd2dTendnV2xmbmZFRUVoZXkxYTVhTUdVa2NFOWNVUDk2aXlwUno0VDdzTUFDQi1pbw?oc=5)
+
+2026-11-19 <span class="news-indication-tag">がん</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMibEFVX3lxTE10amJXZzcxUnhPbjlWeWdwcE5qanZDdFNXcXU1ZUpwQTQwa01IcjNJQmc0WVZEb3U3UWNYd2dTendnV2xmbmZFRUVoZXkxYTVhTUdVa2NFOWNVUDk2aXlwUno0VDdzTUFDQi1pbw?oc=5)
+
+---
+
+### [「余命6ヶ月」と宣告された女性患者は、幹細胞療法のおかげで癌を克服した。](https://news.google.com/rss/articles/CBMisAFBVV95cUxOYXN5bnhCN21sWm1mNTR0dE9Jc1ZRNGx1VE45R0lKbmxiYkp0ZjdrZ25COHEyV0ZFa3RyNHliXzVTT0Z6VDZ4S1M2bjJTbkxrSHRWdGQ0bkY4NGVNejF5OVFKWVIyQ2pWVWtCVEJuRXBSd3BPMXdnVnhydmJrNUxCMUNYcGhPVHBQdWFfdDZMVmxldy00U2pKb2xoZWtGUzhZOTQ2akZ0aHpiWUwxZ2Nweg?oc=5)
+
+2026-11-19 <span class="news-indication-tag">癌</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMisAFBVV95cUxOYXN5bnhCN21sWm1mNTR0dE9Jc1ZRNGx1VE45R0lKbmxiYkp0ZjdrZ25COHEyV0ZFa3RyNHliXzVTT0Z6VDZ4S1M2bjJTbkxrSHRWdGQ0bkY4NGVNejF5OVFKWVIyQ2pWVWtCVEJuRXBSd3BPMXdnVnhydmJrNUxCMUNYcGhPVHBQdWFfdDZMVmxldy00U2pKb2xoZWtGUzhZOTQ2akZ0aHpiWUwxZ2Nweg?oc=5)
+
+---
+
+### [胎内の一卵性双生児間でがんが転移、胎児の細胞共有と免疫の仕組み(Forbes JAPAN)](https://news.yahoo.co.jp/articles/77639b82499a45bc91bc6a78bd418ca06b1fcf5f?source=rss)
+
+2026-11-19 <span class="news-indication-tag">がん</span>
+
+出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/77639b82499a45bc91bc6a78bd418ca06b1fcf5f?source=rss)
+
+---
 
 ### [医療ニュース速報（11月19日）：放射線治療機器の不足により、がん患者の治療遅延のリスクが高まっている。](https://news.google.com/rss/articles/CBMitAFBVV95cUxOano2V011TXZUOThPS1FKNGh5WnQ1aG5feGo5YXdwbndFWmNjdEpWM004R3RrOXZ1NEdRdVNDSUxDUDRQMmRqdkl6NmdJb3J1V0dlNldqUEJOcVUyaVdwLURPT1duS2VoR3VwNmhGVTBWMm9wNVlZZGhzNjRVWTBPa3RkZzVnN21HMkcyQ295T3JYTEhlRzQyeHVKYjZHLW5mQVl4MW55X0ZSQXMxUE9DZzVxWnU?oc=5)
 
@@ -54,6 +86,14 @@ last_modified_at: 2026-11-19
 2026-11-19 <span class="news-indication-tag">腫瘍</span>
 
 出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UdVJTLWVINnJiWmI2OHdPZHR4eVR1QnVXRXNXLXRsOEQxMVFhTWlHandab3hoVUZHNFdWVWF0OVlHUVQ3SGlsQnZJUF9qaHoxM2k0bzQwRFJTM2hhZWc?oc=5)
+
+---
+
+### [68歳の男性が排尿困難で死亡した。医師らは、見過ごしてはならない3つの兆候を指摘している。](https://news.google.com/rss/articles/CBMirAFBVV95cUxOdmVUQy1qbm1GVXRscDdGVFNXOURLTkN6NDA5WGNBR3pDZkdWTkVDV2tWVUxJZWVMa3lmaUp0Q0M4NDQtT1c0WUU5TzZsX1FSWTVEUVJrd2dlZVIwc2g5YnlmM0VvVGsxcTZvelNJbHNQQlc2RU9KSWRsNE8xRmtrbDJkaTNIdkpxSGt5N2NHY00xMmp1QXhBYVg2NFhva3FXYnM2ZHVDVnZFOWpG?oc=5)
+
+2026-11-19 <span class="news-indication-tag">腫瘍</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMirAFBVV95cUxOdmVUQy1qbm1GVXRscDdGVFNXOURLTkN6NDA5WGNBR3pDZkdWTkVDV2tWVUxJZWVMa3lmaUp0Q0M4NDQtT1c0WUU5TzZsX1FSWTVEUVJrd2dlZVIwc2g5YnlmM0VvVGsxcTZvelNJbHNQQlc2RU9KSWRsNE8xRmtrbDJkaTNIdkpxSGt5N2NHY00xMmp1QXhBYVg2NFhva3FXYnM2ZHVDVnZFOWpG?oc=5)
 
 ---
 
@@ -102,6 +142,14 @@ last_modified_at: 2026-11-19
 2026-11-18 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
 
 出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/ba64c886d61bd94504c678b79478d8263d85d463?source=rss)
+
+---
+
+### [酒･タバコと同じくらい危険…10年続けると｢大腸がん｣発症率が2倍に跳ね上がる､職場で毎日やっている習慣【健康リスク3選】](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzTExtQ05ha2M0aTZPOV8zUEhnUkJGM0lCZHBRa29SWENnb2Zia2dNMXo5dkxMUnhRaWpldXJaSE1UdFhSR1RkNF9NWk1uM1djQVIyMlQ0aGREcTNlVEpQUVMtTQ?oc=5)
+
+2026-11-18 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
+
+出典: [Infoseek](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzTExtQ05ha2M0aTZPOV8zUEhnUkJGM0lCZHBRa29SWENnb2Zia2dNMXo5dkxMUnhRaWpldXJaSE1UdFhSR1RkNF9NWk1uM1djQVIyMlQ0aGREcTNlVEpQUVMtTQ?oc=5)
 
 ---
 

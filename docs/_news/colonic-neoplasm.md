@@ -3,9 +3,9 @@ layout: default
 title: "大腸がん (colonic neoplasm) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "大腸がん (colonic neoplasm) に関する健康ニュース。ニュース 3 件、関連医薬品 1 件。"
+description: "大腸がん (colonic neoplasm) に関する健康ニュース。ニュース 4 件、関連医薬品 1 件。"
 permalink: /news/colonic-neoplasm/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-19
 ---
 
 # 大腸がん (colonic neoplasm) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-16
 ---
 
 <p class="key-answer" data-question="大腸がん (colonic neoplasm) に関するニュースは？">
-<strong>大腸がん (colonic neoplasm)</strong> には現在 <strong>3 件</strong>の関連ニュースと 1 件の関連医薬品があります。
+<strong>大腸がん (colonic neoplasm)</strong> には現在 <strong>4 件</strong>の関連ニュースと 1 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ last_modified_at: 2026-11-16
 </ul>
 </div>
 
-## 関連ニュース（3 件）
+## 関連ニュース（4 件）
+
+### [酒･タバコと同じくらい危険…10年続けると｢大腸がん｣発症率が2倍に跳ね上がる､職場で毎日やっている習慣【健康リスク3選】](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzTExtQ05ha2M0aTZPOV8zUEhnUkJGM0lCZHBRa29SWENnb2Zia2dNMXo5dkxMUnhRaWpldXJaSE1UdFhSR1RkNF9NWk1uM1djQVIyMlQ0aGREcTNlVEpQUVMtTQ?oc=5)
+
+2026-11-18
+
+出典: [Infoseek](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzTExtQ05ha2M0aTZPOV8zUEhnUkJGM0lCZHBRa29SWENnb2Zia2dNMXo5dkxMUnhRaWpldXJaSE1UdFhSR1RkNF9NWk1uM1djQVIyMlQ0aGREcTNlVEpQUVMtTQ?oc=5)
+
+---
 
 ### [【闘病】「手術不可」から一転…『大腸がん』永久人工肛門を受け入れた16時間の大手術(メディカルドック)](https://news.yahoo.co.jp/articles/88a4c1fa77a78697670eb7dcf3e00ed0fd317ef6?source=rss)
 

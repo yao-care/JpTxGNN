@@ -3,7 +3,7 @@ layout: default
 title: "認知症 (dementia) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "認知症 (dementia) に関する健康ニュース。ニュース 25 件、関連医薬品 2 件。"
+description: "認知症 (dementia) に関する健康ニュース。ニュース 27 件、関連医薬品 2 件。"
 permalink: /news/dementia/
 last_modified_at: 2026-11-19
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="認知症 (dementia) に関するニュースは？">
-<strong>認知症 (dementia)</strong> には現在 <strong>25 件</strong>の関連ニュースと 2 件の関連医薬品があります。
+<strong>認知症 (dementia)</strong> には現在 <strong>27 件</strong>の関連ニュースと 2 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,7 @@ last_modified_at: 2026-11-19
 </ul>
 </div>
 
-## 関連ニュース（25 件）
+## 関連ニュース（27 件）
 
 ### [野菜ジュースでもサプリでもない…医師が｢認知症リスクが約3割下がる｣と勧めるスーパーで買える身近な食材(プレジデントオンライン)](https://news.yahoo.co.jp/articles/a66442e81cb0fd1c4df1d9a65e9a6a6843412d91?source=rss)
 
@@ -46,6 +46,22 @@ last_modified_at: 2026-11-19
 2026-11-18
 
 出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/3963013d84a9926c681f71a96d5cbec62050a231?source=rss)
+
+---
+
+### [｢あえて坂道を選ぶ｣認知症になりにくい"スーパーエイジャー"の実態→｢質の高い人間関係｣と｢程よいストレス｣がポイント](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GWmt3QmJkMjg0ZXdqQW8yMkVGa3o5cERjclAtYWxGWUtvM01uUGc5YTU0MUxIMVd0bHVBTW42Xy1ENE1tbWZBYlViVW5lenRRSnhaSVRiSXhXR28?oc=5)
+
+2026-11-18
+
+出典: [東洋経済オンライン](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GWmt3QmJkMjg0ZXdqQW8yMkVGa3o5cERjclAtYWxGWUtvM01uUGc5YTU0MUxIMVd0bHVBTW42Xy1ENE1tbWZBYlViVW5lenRRSnhaSVRiSXhXR28?oc=5)
+
+---
+
+### [「うっかり昼寝」は認知症の前ぶれ？ 記憶の衰えより先に現れる「サイン」 | 10年間の追跡研究が示唆すること](https://news.google.com/rss/articles/CBMiU0FVX3lxTE03clVxWlBwQWc5ZElyMEo4RHl2NjBtVEFQRllSUmJKWjRGUlBzLVFxcFZ2NUdPSGRZNDdoZlcyRlIxLWZvY3RqUC00Uzc4cG1iZkJv?oc=5)
+
+2026-11-18
+
+出典: [クーリエ・ジャポン](https://news.google.com/rss/articles/CBMiU0FVX3lxTE03clVxWlBwQWc5ZElyMEo4RHl2NjBtVEFQRllSUmJKWjRGUlBzLVFxcFZ2NUdPSGRZNDdoZlcyRlIxLWZvY3RqUC00Uzc4cG1iZkJv?oc=5)
 
 ---
 

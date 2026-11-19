@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "心筋梗塞 (myocardial infarction) 関連ニュース"
+title: "心臓発作 (myocardial infarction) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "心筋梗塞 (myocardial infarction) に関する健康ニュース。ニュース 2 件、関連医薬品 7 件。"
+description: "心臓発作 (myocardial infarction) に関する健康ニュース。ニュース 2 件、関連医薬品 7 件。"
 permalink: /news/myocardial-infarction/
 last_modified_at: 2026-11-19
 ---
 
-# 心筋梗塞 (myocardial infarction) 関連ニュース
+# 心臓発作 (myocardial infarction) 関連ニュース
 
 [← ニュース一覧に戻る]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="心筋梗塞 (myocardial infarction) に関するニュースは？">
-<strong>心筋梗塞 (myocardial infarction)</strong> には現在 <strong>2 件</strong>の関連ニュースと 7 件の関連医薬品があります。
+<p class="key-answer" data-question="心臓発作 (myocardial infarction) に関するニュースは？">
+<strong>心臓発作 (myocardial infarction)</strong> には現在 <strong>2 件</strong>の関連ニュースと 7 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
-このページは「心筋梗塞」に関する最新の健康ニュースをまとめ、JpTxGNN データベースで予測適応症にこの疾患を含む医薬品を一覧表示します。
+このページは「心臓発作」に関する最新の健康ニュースをまとめ、JpTxGNN データベースで予測適応症にこの疾患を含む医薬品を一覧表示します。
 </div>
 
 <div class="related-drugs-card">

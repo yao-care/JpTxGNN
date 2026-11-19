@@ -3,9 +3,9 @@ layout: default
 title: "更年期 (menopause) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "更年期 (menopause) に関する健康ニュース。ニュース 2 件、関連医薬品 2 件。"
+description: "更年期 (menopause) に関する健康ニュース。ニュース 3 件、関連医薬品 2 件。"
 permalink: /news/menopause/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-19
 ---
 
 # 更年期 (menopause) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-18
 ---
 
 <p class="key-answer" data-question="更年期 (menopause) に関するニュースは？">
-<strong>更年期 (menopause)</strong> には現在 <strong>2 件</strong>の関連ニュースと 2 件の関連医薬品があります。
+<strong>更年期 (menopause)</strong> には現在 <strong>3 件</strong>の関連ニュースと 2 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,15 @@ last_modified_at: 2026-11-18
 </ul>
 </div>
 
-## 関連ニュース（2 件）
+## 関連ニュース（3 件）
+
+### [更年期は人生の“更新”期。閉経前後の「SOS」を見逃さないために、今知っておくべき3つの健康リスク(メディカルドック)](https://news.yahoo.co.jp/articles/d812eb2e29135e8ab186fc9323b7b14d3ba2356b?source=rss)
+
+2026-11-19
+
+出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/d812eb2e29135e8ab186fc9323b7b14d3ba2356b?source=rss)
+
+---
 
 ### [その「疲れ」、男性更年期かも？ 寿命とも関わる男性ホルモン「テストステロン」とは 【医師解説】(Medical Note)](https://news.yahoo.co.jp/articles/18f76eca860d6ff632ab3d15a6282a6dabd4afeb?source=rss)
 

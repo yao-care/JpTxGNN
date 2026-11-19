@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="アトーゼット配合錠ＨＤ（選） に関するニュースは？">
-<strong>アトーゼット配合錠ＨＤ（選）</strong> には現在 <strong>37 件</strong>の関連ニュースがあり、予測適応症は 4 件です。
+<strong>アトーゼット配合錠ＨＤ（選）</strong> には現在 <strong>43 件</strong>の関連ニュースがあり、予測適応症は 4 件です。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,39 @@ last_modified_at: 2026-11-19
 <p><a href="{{ '/drugs/atorvastatin/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（37 件）
+## 関連ニュース（43 件）
+
+### [タマネギやリンゴに含まれる化合物には、がん細胞の増殖を抑制する可能性がある。](https://news.google.com/rss/articles/CBMikgFBVV95cUxQNDV6dHVUM0NoM29Ed1dfdVlFOV9qN3VRMFlZeXhHRERXR3p1NTZKdnZ2Vm1WVkJmX3pOckduMUhldmNPTEh3blpKMWdKVjFZUWYxb0txdkR2YWcyVnlJc1VjTFFMWndnQWd5MVdHeGNTLWJyT1M0SW1RR2dCdkNTYnpWel92RV96SDZCU1JJRlNxUQ?oc=5)
+
+2026-11-19 <span class="news-indication-tag">がん</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMikgFBVV95cUxQNDV6dHVUM0NoM29Ed1dfdVlFOV9qN3VRMFlZeXhHRERXR3p1NTZKdnZ2Vm1WVkJmX3pOckduMUhldmNPTEh3blpKMWdKVjFZUWYxb0txdkR2YWcyVnlJc1VjTFFMWndnQWd5MVdHeGNTLWJyT1M0SW1RR2dCdkNTYnpWel92RV96SDZCU1JJRlNxUQ?oc=5)
+
+---
+
+### [スーパーモデルのズオン・イェン・ゴックさんはがんを患っている。](https://news.google.com/rss/articles/CBMibEFVX3lxTE10amJXZzcxUnhPbjlWeWdwcE5qanZDdFNXcXU1ZUpwQTQwa01IcjNJQmc0WVZEb3U3UWNYd2dTendnV2xmbmZFRUVoZXkxYTVhTUdVa2NFOWNVUDk2aXlwUno0VDdzTUFDQi1pbw?oc=5)
+
+2026-11-19 <span class="news-indication-tag">がん</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMibEFVX3lxTE10amJXZzcxUnhPbjlWeWdwcE5qanZDdFNXcXU1ZUpwQTQwa01IcjNJQmc0WVZEb3U3UWNYd2dTendnV2xmbmZFRUVoZXkxYTVhTUdVa2NFOWNVUDk2aXlwUno0VDdzTUFDQi1pbw?oc=5)
+
+---
+
+### [「余命6ヶ月」と宣告された女性患者は、幹細胞療法のおかげで癌を克服した。](https://news.google.com/rss/articles/CBMisAFBVV95cUxOYXN5bnhCN21sWm1mNTR0dE9Jc1ZRNGx1VE45R0lKbmxiYkp0ZjdrZ25COHEyV0ZFa3RyNHliXzVTT0Z6VDZ4S1M2bjJTbkxrSHRWdGQ0bkY4NGVNejF5OVFKWVIyQ2pWVWtCVEJuRXBSd3BPMXdnVnhydmJrNUxCMUNYcGhPVHBQdWFfdDZMVmxldy00U2pKb2xoZWtGUzhZOTQ2akZ0aHpiWUwxZ2Nweg?oc=5)
+
+2026-11-19 <span class="news-indication-tag">癌</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMisAFBVV95cUxOYXN5bnhCN21sWm1mNTR0dE9Jc1ZRNGx1VE45R0lKbmxiYkp0ZjdrZ25COHEyV0ZFa3RyNHliXzVTT0Z6VDZ4S1M2bjJTbkxrSHRWdGQ0bkY4NGVNejF5OVFKWVIyQ2pWVWtCVEJuRXBSd3BPMXdnVnhydmJrNUxCMUNYcGhPVHBQdWFfdDZMVmxldy00U2pKb2xoZWtGUzhZOTQ2akZ0aHpiWUwxZ2Nweg?oc=5)
+
+---
+
+### [胎内の一卵性双生児間でがんが転移、胎児の細胞共有と免疫の仕組み(Forbes JAPAN)](https://news.yahoo.co.jp/articles/77639b82499a45bc91bc6a78bd418ca06b1fcf5f?source=rss)
+
+2026-11-19 <span class="news-indication-tag">がん</span>
+
+出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/77639b82499a45bc91bc6a78bd418ca06b1fcf5f?source=rss)
+
+---
 
 ### [脳出血で重篤な状態となった38歳の男性：多くの若者が軽視しがちな病気から学ぶ教訓。](https://news.google.com/rss/articles/CBMixgFBVV95cUxNckZIcG9HZHdXT3JYVmlQalJ0Vm1EaTA4Y3BLU1NlSExXYkMyWVJ5clV4VFNHVzFIdU81NkJhbjBsamgwMTR4U3d2blpQdGtzZzRfeVJCMjlFZkdkVHJSemx1NE9sLXRZWDdQSmNKNnpxbGdJeWRfN3RPdTVaOFlPMFktZzdxdkVZTkVhem5PQklxMDlHdlVyUlRGUzVkUmFaa0VWY3lKNzRYeFh6UkcyTWtDSTZmNjEzdlNQbWhRMWtpTVlGdUE?oc=5)
 
@@ -67,6 +99,14 @@ last_modified_at: 2026-11-19
 2026-11-19 <span class="news-indication-tag">腫瘍</span>
 
 出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UdVJTLWVINnJiWmI2OHdPZHR4eVR1QnVXRXNXLXRsOEQxMVFhTWlHandab3hoVUZHNFdWVWF0OVlHUVQ3SGlsQnZJUF9qaHoxM2k0bzQwRFJTM2hhZWc?oc=5)
+
+---
+
+### [68歳の男性が排尿困難で死亡した。医師らは、見過ごしてはならない3つの兆候を指摘している。](https://news.google.com/rss/articles/CBMirAFBVV95cUxOdmVUQy1qbm1GVXRscDdGVFNXOURLTkN6NDA5WGNBR3pDZkdWTkVDV2tWVUxJZWVMa3lmaUp0Q0M4NDQtT1c0WUU5TzZsX1FSWTVEUVJrd2dlZVIwc2g5YnlmM0VvVGsxcTZvelNJbHNQQlc2RU9KSWRsNE8xRmtrbDJkaTNIdkpxSGt5N2NHY00xMmp1QXhBYVg2NFhva3FXYnM2ZHVDVnZFOWpG?oc=5)
+
+2026-11-19 <span class="news-indication-tag">腫瘍</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMirAFBVV95cUxOdmVUQy1qbm1GVXRscDdGVFNXOURLTkN6NDA5WGNBR3pDZkdWTkVDV2tWVUxJZWVMa3lmaUp0Q0M4NDQtT1c0WUU5TzZsX1FSWTVEUVJrd2dlZVIwc2g5YnlmM0VvVGsxcTZvelNJbHNQQlc2RU9KSWRsNE8xRmtrbDJkaTNIdkpxSGt5N2NHY00xMmp1QXhBYVg2NFhva3FXYnM2ZHVDVnZFOWpG?oc=5)
 
 ---
 
@@ -131,6 +171,14 @@ last_modified_at: 2026-11-19
 2026-11-18 <span class="news-indication-tag">認知症</span> <span class="news-indication-tag">心筋梗塞</span> <span class="news-indication-tag">脳梗塞</span>
 
 出典: [フロントロウ](https://news.google.com/rss/articles/CBMiR0FVX3lxTE5Ga1dTdWd5VHZfcDI4OUNyTm5qWjB5bzQ4UXcwM0FQVkZvSnZ6ZjQyM2M1WnZBQWx2VkNBLUNUNDBEWWNTdjA0?oc=5)
+
+---
+
+### [酒･タバコと同じくらい危険…10年続けると｢大腸がん｣発症率が2倍に跳ね上がる､職場で毎日やっている習慣【健康リスク3選】](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzTExtQ05ha2M0aTZPOV8zUEhnUkJGM0lCZHBRa29SWENnb2Zia2dNMXo5dkxMUnhRaWpldXJaSE1UdFhSR1RkNF9NWk1uM1djQVIyMlQ0aGREcTNlVEpQUVMtTQ?oc=5)
+
+2026-11-18 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
+
+出典: [Infoseek](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzTExtQ05ha2M0aTZPOV8zUEhnUkJGM0lCZHBRa29SWENnb2Zia2dNMXo5dkxMUnhRaWpldXJaSE1UdFhSR1RkNF9NWk1uM1djQVIyMlQ0aGREcTNlVEpQUVMtTQ?oc=5)
 
 ---
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="サインバルタカプセル３０ｍｇ（選） に関するニュースは？">
-<strong>サインバルタカプセル３０ｍｇ（選）</strong> には現在 <strong>6 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>サインバルタカプセル３０ｍｇ（選）</strong> には現在 <strong>7 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ last_modified_at: 2026-11-19
 <p><a href="{{ '/drugs/duloxetine/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（6 件）
+## 関連ニュース（7 件）
 
 ### [2型糖尿病患者の厳格な降圧が主要心血管イベントを抑制せず ブラジル・OPTIMAL-DIABETES試験](https://news.google.com/rss/articles/CBMia0FVX3lxTE5XeFJYUF92Y0t1aDFDRUhTVXpLamlFTUY0dW5VZm5WUGtncG9BeVltZEFqVG12YV9odFdCM2hiSTV4WlBtOXF2OURTN2RuX3k3UjhKR1o4NTA5VG8wcHpjRERvVGRwaXBTQlhR?oc=5)
 
@@ -57,6 +57,14 @@ last_modified_at: 2026-11-19
 2026-11-18 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">脳卒中</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾患</span>
 
 出典: [NNAアジア](https://news.google.com/rss/articles/CBMiRkFVX3lxTFB2WkIzOGhnMk94ZkZ1X093NTM5LTlUc0JrU21YcVhVakt1cklxM01WaWJoLUNqQVBLZmE2ZVdJX19Gc0xwQkE?oc=5)
+
+---
+
+### [ネアンデルタール人から受け継いだ遺伝子が現代人の脳や統合失調症リスクに影響している可能性](https://news.google.com/rss/articles/CBMihwFBVV95cUxPaVQ0dWJCUDVFUVh1bmhXZ1VqVlg4T1psbExTYjFnbnpmeGtNVEZ1YUxPblExSmV5U0pqWVd1NkJnXzF5TDJyNTZ6dkllU09MRjc4UVROUmxLMzJkUDNvUlRXZHBCaEN2V3BuSUdQakZMQzJVNWJtOU5QT0Q0b252dXI4TFZHUms?oc=5)
+
+2026-11-17 <span class="news-indication-tag">統合失調症</span>
+
+出典: [GIGAZINE](https://news.google.com/rss/articles/CBMihwFBVV95cUxPaVQ0dWJCUDVFUVh1bmhXZ1VqVlg4T1psbExTYjFnbnpmeGtNVEZ1YUxPblExSmV5U0pqWVd1NkJnXzF5TDJyNTZ6dkllU09MRjc4UVROUmxLMzJkUDNvUlRXZHBCaEN2V3BuSUdQakZMQzJVNWJtOU5QT0Q0b252dXI4TFZHUms?oc=5)
 
 ---
 
