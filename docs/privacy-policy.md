@@ -82,6 +82,35 @@ JpTxGNN（以下「本サービス」）は、ユーザーのプライバシー�
 
 本サービスは、13歳未満の子どもから意図的に個人情報を収集しません。
 
+<!-- privacy-law:start（母目錄 .claude/gen_local_pages_20261119.py 產生，勿手改；法規與連結見 .claude/privacy_text_20261119.py）-->
+## 適用される法律
+
+日本の利用者には[個人情報の保護に関する法律（個人情報保護法）](https://laws.e-gov.go.jp/law/415AC0000000057)が適用され、[個人情報保護委員会](https://www.ppc.go.jp/)が所管しています。本サイトは氏名・メールアドレス・診療記録を取得しません。関係する個人関連情報は、Google Analytics 4 が分析 Cookie で収集する閲覧統計のみで、Google が日本国外で処理します。
+
+## あなたの権利と行使方法
+
+- 保有個人データの開示請求（第 33 条）。
+- 訂正・追加・削除の請求（第 34 条）。
+- 利用停止・消去の請求（第 35 条）。分析 Cookie をブロックすれば収集も止まります。
+- 個人情報保護委員会の相談窓口への相談。
+
+請求・お問い合わせ：service@yao.care。本サイトにはアカウントがないため、Google Analytics が保有するデータについては、訪問日やページなど特定できる情報をお知らせいただいた場合に限り対応できます。分析 Cookie はブラウザでいつでもブロック・削除できます。
+
+## 著作権とデータの出典
+
+本サイトの文章は[著作権法](https://laws.e-gov.go.jp/law/345AC0000000048)で保護されています。 本サイトのプログラムは [GitHub リポジトリ](https://github.com/yao-care/JpTxGNN) で MIT ライセンスにより公開しています。レポート本文の著作権は藥提醒科技有限公司 (yao.care)に帰属します。
+
+本サイトが使うデータの出典と利用条件：
+
+- **TxGNN** の予測データ（Harvard Dataverse）：CC0 1.0（パブリックドメイン提供）。引用時は Huang et al., *Nature Medicine* 2024 を明記してください。
+- **ClinicalTrials.gov**・**PubMed**：米国国立医学図書館。[ClinicalTrials.gov の利用条件](https://clinicaltrials.gov/about-site/terms-conditions)と [NCBI のポリシー](https://www.ncbi.nlm.nih.gov/home/about/policies/)を参照（PubMed の抄録には出版社の著作権が残るものがあります）。
+- **DrugBank** の識別子とデータ：[DrugBank](https://go.drugbank.com/) のライセンス条件（非商用）に従います。
+- **国内データセット**：[社会保険診療報酬支払基金 医薬品マスター](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html), 社会保険診療報酬支払基金 が公開しているデータで、再利用には公開者の利用条件が適用されます。本サイトが追加の権利を許諾することはありません。
+
+<!-- privacy-law:end -->
+
+---
+
 ## ポリシーの変更
 
 本ポリシーは予告なく変更される場合があります。

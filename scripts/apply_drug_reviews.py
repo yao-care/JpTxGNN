@@ -402,6 +402,9 @@ def check_errors():
 
 
 if __name__ == "__main__":
+    # 2026-11-19：說明頁／證據等級頁的資料檔跟著重算（scripts/local_facts.py；--check 時不跑）
+    import atexit as _lf_ax, os as _lf_os, subprocess as _lf_sp, sys as _lf_sys
+    _lf_ax.register(lambda: "--check" in _lf_sys.argv or _lf_sp.run([_lf_sys.executable, _lf_os.path.join(_lf_os.path.dirname(_lf_os.path.abspath(__file__)), "local_facts.py"), "--write"]))
     check = "--check" in sys.argv
     only = {a if a.endswith(".md") else a + ".md" for a in sys.argv[1:] if not a.startswith("--")} or None
     problems, changed = run(check=check, only=only, touch_date="--touch" in sys.argv)

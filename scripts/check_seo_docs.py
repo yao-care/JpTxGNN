@@ -804,6 +804,11 @@ errors += _dl_cov_errors()
 # 公開藥物頁的預測要在 search-index.json、有 drugbank_id 的要有 FHIR MedicationKnowledge（2026-11-19；說明見 scripts/check_search_index_coverage.py）
 from check_search_index_coverage import check_errors as _si_cov_errors  # noqa: E402
 errors += _si_cov_errors()
+# 說明頁／證據等級頁的在地資料檔（2026-11-19；docs/_data/local_facts.json、evidence_tier_facts.json，說明見 scripts/local_facts.py）
+import subprocess as _lf_sp  # noqa: E402
+_lf = _lf_sp.run([sys.executable, str(DOCS.parent / "scripts/local_facts.py"), "--check"], capture_output=True, text=True)
+if _lf.returncode:
+    errors.append("說明頁／證據等級頁資料檔：" + (_lf.stdout + _lf.stderr).strip()[:400])
 _lic_errs = _Lic.site_problems()
 if _lic_errs:
     errors.append(f"許可證資訊跟快照不一致 {len(_lic_errs)} 項：{'；'.join(_lic_errs[:5])}")

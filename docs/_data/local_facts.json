@@ -1,0 +1,438 @@
+{
+ "_about": "本檔由 scripts/local_facts.py 產生（母目錄 .claude/local_facts_lib.py），勿手改；cross 欄位由母目錄 .claude/gen_local_pages_20261119.py 更新",
+ "drugs_total": 385,
+ "level_counts": {
+  "L1": 2,
+  "L2": 15,
+  "L3": 10,
+  "L4": 14,
+  "L5": 255
+ },
+ "level_na": 89,
+ "public_pages": 385,
+ "licence_snapshot": "jp_licenses.json.gz",
+ "licence": {
+  "drugs_with_data": 252,
+  "drugs_with_current": 251,
+  "drugs_none_current": 1,
+  "drugs_without_data": 133,
+  "drugs_partial": 0,
+  "items_total": 1715,
+  "items_current": 1552
+ },
+ "reviews": {
+  "records": 295,
+  "pages": 171,
+  "public_pages_with_records": 170,
+  "by_action": {
+   "correct": 295
+  }
+ },
+ "fhir": {
+  "medication_knowledge": 385,
+  "clinical_use_definition": 1633
+ },
+ "top_licensed": [
+  {
+   "t": "Isosorbide Dinitrate",
+   "u": "/drugs/isosorbide-dinitrate/",
+   "l": "N/A",
+   "lt": 26,
+   "lv": 26,
+   "r": 0,
+   "i": ""
+  },
+  {
+   "t": "Adalimumab",
+   "u": "/drugs/adalimumab/",
+   "l": "L5",
+   "lt": 20,
+   "lv": 20,
+   "r": 0,
+   "i": "尾骨過可動症"
+  },
+  {
+   "t": "Alprostadil",
+   "u": "/drugs/alprostadil/",
+   "l": "N/A",
+   "lt": 20,
+   "lv": 20,
+   "r": 0,
+   "i": ""
+  },
+  {
+   "t": "Oxycodone",
+   "u": "/drugs/oxycodone/",
+   "l": "N/A",
+   "lt": 20,
+   "lv": 20,
+   "r": 0,
+   "i": ""
+  },
+  {
+   "t": "Zinc",
+   "u": "/drugs/zinc/",
+   "l": "N/A",
+   "lt": 20,
+   "lv": 20,
+   "r": 0,
+   "i": ""
+  },
+  {
+   "t": "Dutasteride",
+   "u": "/drugs/dutasteride/",
+   "l": "L5",
+   "lt": 19,
+   "lv": 19,
+   "r": 0,
+   "i": "アンブラス型先天性全身性多毛症"
+  },
+  {
+   "t": "Gentamicin",
+   "u": "/drugs/gentamicin/",
+   "l": "N/A",
+   "lt": 19,
+   "lv": 19,
+   "r": 0,
+   "i": ""
+  },
+  {
+   "t": "Amantadine",
+   "u": "/drugs/amantadine/",
+   "l": "L5",
+   "lt": 19,
+   "lv": 18,
+   "r": 2,
+   "i": "Rasmussen 亜急性脳炎"
+  }
+ ],
+ "no_current": [
+  {
+   "t": "Troxipide",
+   "u": "/drugs/troxipide/",
+   "l": "L5",
+   "lt": 1,
+   "lv": 0,
+   "r": 2,
+   "i": "esophagitis (disease)"
+  }
+ ],
+ "no_current_more": 0,
+ "most_reviewed": [
+  {
+   "t": "Triamcinolone",
+   "u": "/drugs/triamcinolone/",
+   "l": "L4",
+   "lt": 12,
+   "lv": 9,
+   "r": 5,
+   "i": "alopecia mucinosa"
+  },
+  {
+   "t": "Aprepitant",
+   "u": "/drugs/aprepitant/",
+   "l": "L5",
+   "lt": 12,
+   "lv": 6,
+   "r": 4,
+   "i": "腎性不適切抗利尿症候群"
+  },
+  {
+   "t": "Biperiden",
+   "u": "/drugs/biperiden/",
+   "l": "L5",
+   "lt": 9,
+   "lv": 9,
+   "r": 4,
+   "i": "Rasmussen 亜急性脳炎"
+  },
+  {
+   "t": "Bosentan",
+   "u": "/drugs/bosentan/",
+   "l": "L4",
+   "lt": 8,
+   "lv": 7,
+   "r": 4,
+   "i": "rheumatoid arthritis"
+  },
+  {
+   "t": "Lorazepam",
+   "u": "/drugs/lorazepam/",
+   "l": "L5",
+   "lt": 7,
+   "lv": 4,
+   "r": 4,
+   "i": "三叉神経腫瘍"
+  },
+  {
+   "t": "Bimatoprost",
+   "u": "/drugs/bimatoprost/",
+   "l": "L5",
+   "lt": 8,
+   "lv": 7,
+   "r": 3,
+   "i": "malformation syndrome with odontal and/or periodontal component"
+  }
+ ],
+ "example": {
+  "t": "Doxorubicin",
+  "u": "/drugs/doxorubicin/",
+  "l": "L1",
+  "lt": 8,
+  "lv": 8,
+  "r": 0,
+  "i": "ユーイング肉腫"
+ },
+ "recent_reviews": [
+  {
+   "t": "Troxipide",
+   "u": "/drugs/troxipide/",
+   "s": "表：621371211 は「取消」ではなく薬価基準から削除",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Triamcinolone",
+   "u": "/drugs/triamcinolone/",
+   "s": "表：620609601 は有効ではなく薬価基準から削除済み",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Spironolactone",
+   "u": "/drugs/spironolactone/",
+   "s": "表：620266148 は有効ではなく薬価基準から削除済み",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Oxaliplatin",
+   "u": "/drugs/oxaliplatin/",
+   "s": "表：671932301 は有効ではなく薬価基準から削除済み",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Lorazepam",
+   "u": "/drugs/lorazepam/",
+   "s": "表：671170471 は有効ではなく薬価基準から削除済み",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Disopyramide",
+   "u": "/drugs/disopyramide/",
+   "s": "表：620004782 は有効ではなく薬価基準から削除済み",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Bosentan",
+   "u": "/drugs/bosentan/",
+   "s": "表：622512801 は有効ではなく薬価基準から削除済み",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Aprepitant",
+   "u": "/drugs/aprepitant/",
+   "s": "表：621970901 は有効ではなく薬価基準から削除済み",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Zaltoprofen",
+   "u": "/drugs/zaltoprofen/",
+   "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Vidarabine",
+   "u": "/drugs/vidarabine/",
+   "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Valproic Acid",
+   "u": "/drugs/valproic-acid/",
+   "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Tropicamide",
+   "u": "/drugs/tropicamide/",
+   "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Trihexyphenidyl",
+   "u": "/drugs/trihexyphenidyl/",
+   "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Tranilast",
+   "u": "/drugs/tranilast/",
+   "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Tizanidine",
+   "u": "/drugs/tizanidine/",
+   "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Thiamine",
+   "u": "/drugs/thiamine/",
+   "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Sulfasalazine",
+   "u": "/drugs/sulfasalazine/",
+   "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Sucralfate",
+   "u": "/drugs/sucralfate/",
+   "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Sennosides",
+   "u": "/drugs/sennosides/",
+   "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Propranolol",
+   "u": "/drugs/propranolol/",
+   "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Propafenone",
+   "u": "/drugs/propafenone/",
+   "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Pergolide",
+   "u": "/drugs/pergolide/",
+   "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Oxybutynin",
+   "u": "/drugs/oxybutynin/",
+   "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Nicardipine",
+   "u": "/drugs/nicardipine/",
+   "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
+   "d": "2026-11-17"
+  }
+ ],
+ "recent_licence_reviews": [
+  {
+   "t": "Troxipide",
+   "u": "/drugs/troxipide/",
+   "s": "表：621371211 は「取消」ではなく薬価基準から削除",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Triamcinolone",
+   "u": "/drugs/triamcinolone/",
+   "s": "表：620609601 は有効ではなく薬価基準から削除済み",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Spironolactone",
+   "u": "/drugs/spironolactone/",
+   "s": "表：620266148 は有効ではなく薬価基準から削除済み",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Oxaliplatin",
+   "u": "/drugs/oxaliplatin/",
+   "s": "表：671932301 は有効ではなく薬価基準から削除済み",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Lorazepam",
+   "u": "/drugs/lorazepam/",
+   "s": "表：671170471 は有効ではなく薬価基準から削除済み",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Disopyramide",
+   "u": "/drugs/disopyramide/",
+   "s": "表：620004782 は有効ではなく薬価基準から削除済み",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Bosentan",
+   "u": "/drugs/bosentan/",
+   "s": "表：622512801 は有効ではなく薬価基準から削除済み",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Aprepitant",
+   "u": "/drugs/aprepitant/",
+   "s": "表：621970901 は有効ではなく薬価基準から削除済み",
+   "d": "2026-11-17"
+  }
+ ],
+ "files": {
+  "search_index": 385,
+  "drugs_json": 385
+ },
+ "by_level": {
+  "L1": {
+   "n": 2,
+   "current": 2
+  },
+  "L2": {
+   "n": 15,
+   "current": 15
+  },
+  "L3": {
+   "n": 10,
+   "current": 10
+  },
+  "L4": {
+   "n": 14,
+   "current": 14
+  },
+  "L5": {
+   "n": 255,
+   "current": 254
+  }
+ },
+ "cross": {
+  "unique_pairs": 40,
+  "unique_examples": [
+   {
+    "t": "Ipragliflozin",
+    "u": "/drugs/ipragliflozin/",
+    "i": "opsismodysplasia"
+   },
+   {
+    "t": "Limaprost",
+    "u": "/drugs/limaprost/",
+    "i": "遺伝性フォンヴィレブランド病"
+   },
+   {
+    "t": "Menatetrenone",
+    "u": "/drugs/menatetrenone/",
+    "i": "結膜脂肪腫"
+   },
+   {
+    "t": "Pergolide",
+    "u": "/drugs/pergolide/",
+    "i": "congenital disorder of glycosylation with defective fucosylation"
+   },
+   {
+    "t": "Tofogliflozin",
+    "u": "/drugs/tofogliflozin/",
+    "i": "opsismodysplasia"
+   }
+  ]
+ }
+}
