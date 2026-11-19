@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Ezetimibe"
 predicted_indications: ["cholesterol-ester transfer protein deficiency"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-20
 description: "Ezetimibe：予測新適応症はコレステロールエステル転送蛋白欠損症 (cholesterol-ester transfer protein deficiency)（エビデンスレベル L5）。薬価基準の品目：20 件以上"
 ---
 

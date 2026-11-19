@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Esomeprazole"
 predicted_indications: ["duodenal obstruction"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-20
 description: "Esomeprazole：予測新適応症は十二指腸閉塞 (duodenal obstruction)（エビデンスレベル L5）。薬価基準の品目：20 件以上"
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Flutamide"
 predicted_indications: ["fibroma of prostate", "Brenner tumor", "benign reproductive system neoplasm", "prostate leiomyoma", "benign prostate phyllodes tumor", "HIV infectious disease", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-20
 description: "Flutamide：予測新適応症は前立腺線維腫 (fibroma of prostate)（エビデンスレベル L5）。薬価基準の品目：4 件（現在収載 3 件）"
 ---
 

@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 79
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Colchicine：予測新適応症は熱帯熱マラリア (Plasmodium falciparum malaria)（エビデンスレベル L5）。既存適応症：痛風発作、家族性地中海熱"
 monitor_inn: "Colchicine"
 predicted_indications: ["Plasmodium falciparum malaria", "dermatofibrosarcoma protuberans"]

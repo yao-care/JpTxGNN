@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Selegiline"
 predicted_indications: ["polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "schizophrenia", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-20
 description: "Selegiline：予測新適応症はPolymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis（エビデンスレベル L5）。薬価基準の品目：4 件（現在収載 4 件）"
 ---
 

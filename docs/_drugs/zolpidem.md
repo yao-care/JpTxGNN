@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 346
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-20
 monitor_inn: "Zolpidem"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia"]
 description: "Zolpidem：予測新適応症はBenign paroxysmal torticollis of infancy（エビデンスレベル L5）。薬価基準の品目：20 件以上"

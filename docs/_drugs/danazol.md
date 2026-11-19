@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Danazol"
 predicted_indications: ["amenorrhea (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast", "breast abscess", "fat necrosis of breast", "lactation disease", "breast adenosis", "vulvovaginitis", "vulvitis"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-20
 description: "Danazol：予測新適応症は無月経 (amenorrhea (disease))（エビデンスレベル L5）。薬価基準の品目：2 件（現在収載 2 件）"
 ---
 

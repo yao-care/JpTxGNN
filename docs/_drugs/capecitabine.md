@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Capecitabine"
 predicted_indications: ["gastric adenocarcinoma and proximal polyposis of the stomach"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-20
 description: "Capecitabine：予測新適応症は胃腺癌・胃近位部ポリポーシス (gastric adenocarcinoma and proximal polyposis of the stomach)（エビデンスレベル L5）。薬価基準の品目：9 件（現在収載 9 件）"
 ---
 

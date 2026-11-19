@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 321
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "Trastuzumab"
 predicted_indications: ["malignant cutaneous granular cell skin tumor", "ectomesenchymoma", "human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "kidney pelvis sarcomatoid transitional cell carcinoma", "prostatic urethra urothelial carcinoma"]
 description: "Trastuzumab：予測新適応症はMalignant cutaneous granular cell skin tumor（エビデンスレベル L5）。薬価基準の品目：2 件（現在収載 2 件）"

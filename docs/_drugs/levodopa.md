@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Levodopa"
 predicted_indications: ["Rasmussen subacute encephalitis"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-20
 description: "Levodopa：予測新適応症はラスムッセン亜急性脳炎 (Rasmussen subacute encephalitis)（エビデンスレベル L5）。薬価基準の品目：5 件（現在収載 4 件）"
 ---
 

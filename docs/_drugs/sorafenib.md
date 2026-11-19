@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 284
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-20
 monitor_inn: "Sorafenib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "female breast carcinoma", "renal pelvis carcinoma", "vulva sarcoma", "dermatofibrosarcoma protuberans"]
 description: "Sorafenib：予測新適応症は脂肪肉腫 (liposarcoma)（エビデンスレベル L5）。薬価基準の品目：1 件（現在収載 1 件）"

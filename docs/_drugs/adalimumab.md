@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Adalimumab"
 predicted_indications: ["hypermobility of coccyx", "Kummell disease", "vertebral disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-20
 description: "Adalimumab：予測新適応症は尾骨過可動症 (hypermobility of coccyx)（エビデンスレベル L5）。薬価基準の品目：20 件（現在収載 20 件）"
 ---
 

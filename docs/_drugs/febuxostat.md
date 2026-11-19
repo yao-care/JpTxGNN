@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 3
 monitor_inn: "Febuxostat"
 predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "Lesch-Nyhan syndrome"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Febuxostat：予測新適応症は腎性低尿酸血症 (hypouricemia, renal)（エビデンスレベル L4）。既存適応症：痛風"
 ---
 

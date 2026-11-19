@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 7
 monitor_inn: "docetaxel"
 predicted_indications: ["Ewing sarcoma", "primary pulmonary lymphoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "pulmonary blastoma", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-20
 description: "Docetaxel：予測新適応症はユーイング肉腫 (Ewing sarcoma)（エビデンスレベル L2）。薬価基準の品目：20 件以上"
 ---
 

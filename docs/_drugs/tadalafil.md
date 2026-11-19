@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Tadalafil"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly", "kyphoscoliotic heart disease", "migraine with brainstem aura"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Tadalafil：予測新適応症はAmbras 型汎発性先天性多毛症 (Ambras type hypertrichosis universalis congenita)（エビデンスレベル L5）。薬価基準の品目：20 件以上"
 ---
 

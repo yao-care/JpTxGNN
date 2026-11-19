@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 241
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "Pertuzumab"
 predicted_indications: ["ectomesenchymoma", "malignant cutaneous granular cell skin tumor", "human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "prostatic urethra urothelial carcinoma", "kidney pelvis sarcomatoid transitional cell carcinoma"]
 description: "Pertuzumab：予測新適応症はEctomesenchymoma（エビデンスレベル L5）。薬価基準の品目：1 件（現在収載 1 件）"

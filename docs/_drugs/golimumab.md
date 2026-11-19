@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Golimumab"
 predicted_indications: ["hypermobility of coccyx", "Kummell disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-20
 description: "Golimumab：予測新適応症は尾骨過可動症 (hypermobility of coccyx)（エビデンスレベル L5）。薬価基準の品目：2 件（現在収載 2 件）"
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Domperidone"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-20
 description: "Domperidone：予測新適応症は腎性抗利尿ホルモン不適合分泌症候群 (nephrogenic syndrome of inappropriate antidiuresis)（エビデンスレベル L5）。薬価基準の品目：21 件以上"
 ---
 

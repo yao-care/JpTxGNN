@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Safinamide"
 predicted_indications: ["Rasmussen subacute encephalitis", "myelitis", "PLA2G6-associated neurodegeneration"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Safinamide：予測新適応症はラスムッセン亜急性脳炎 (Rasmussen subacute encephalitis)（エビデンスレベル L5）。既存適応症：パーキンソン病（承認適応症の記載データはなし）"
 ---
 

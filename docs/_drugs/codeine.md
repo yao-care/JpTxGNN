@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 78
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-20
 monitor_inn: "Codeine"
 predicted_indications: ["nasal cavity disease", "trigeminal autonomic cephalalgia", "allergic urticaria"]
 description: "Codeine：予測新適応症は鼻腔疾患 (nasal cavity disease)（エビデンスレベル L5）。薬価基準の品目：20 件以上"

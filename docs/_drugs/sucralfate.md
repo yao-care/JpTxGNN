@@ -5,7 +5,7 @@ parent: 高エビデンスレベル
 nav_order: 287
 evidence_level: L2
 indication_count: 2
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-20
 monitor_inn: "Sucralfate"
 predicted_indications: ["duodenogastric reflux", "duodenal obstruction"]
 description: "Sucralfate：予測新適応症は十二指腸胃逆流 (duodenogastric reflux)（エビデンスレベル L2）。薬価基準の品目：7 件（現在収載 5 件）"

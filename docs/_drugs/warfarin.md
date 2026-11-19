@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 342
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-20
 monitor_inn: "Warfarin"
 predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombophilia", "rheumatoid arthritis", "breast fibrocystic disease", "benign mammary dysplasia"]
 description: "Warfarin：予測新適応症はHeparin cofactor 2 deficiency（エビデンスレベル L5）。薬価基準の品目：18 件（現在収載 17 件）"

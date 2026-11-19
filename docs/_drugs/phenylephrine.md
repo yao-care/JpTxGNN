@@ -5,7 +5,7 @@ parent: 中エビデンスレベル
 nav_order: 243
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "Phenylephrine"
 predicted_indications: ["nasal cavity disease", "trigeminal autonomic cephalalgia"]
 description: "Phenylephrine：予測新適応症は鼻腔疾患 (nasal cavity disease)（エビデンスレベル L4）。薬価基準の品目：3 件（現在収載 3 件）"

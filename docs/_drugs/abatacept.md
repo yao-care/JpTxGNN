@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 7
 monitor_inn: "Abatacept"
 predicted_indications: ["ankylosing spondylitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "vertebral disease", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-20
 description: "Abatacept：予測新適応症は強直性脊椎炎 (ankylosing spondylitis)（エビデンスレベル L3）。薬価基準の品目：3 件（現在収載 3 件）"
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Metoclopramide"
 predicted_indications: ["gastroduodenitis", "peptic ulcer perforation"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-20
 description: "Metoclopramide：予測新適応症は胃十二指腸炎 (gastroduodenitis)（エビデンスレベル L5）。薬価基準の品目：13 件（現在収載 12 件）"
 ---
 

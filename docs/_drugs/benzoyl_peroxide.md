@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Benzoyl peroxide"
 predicted_indications: ["vulvar inverted follicular keratosis", "2-hydroxyethyl methacrylate sensitization", "acrodermatitis chronica atrophicans", "acne keloid"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-20
 description: "Benzoyl Peroxide：予測新適応症は外陰逆性毛包性角化症 (vulvar inverted follicular keratosis)（エビデンスレベル L5）。薬価基準の品目：3 件（現在収載 3 件）"
 ---
 

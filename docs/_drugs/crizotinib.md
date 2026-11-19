@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Crizotinib"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "pulmonary sulcus neoplasm", "lung germ cell tumor", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "junctional epidermolysis bullosa", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-20
 description: "Crizotinib：予測新適応症は歯肉線維腫症 (fibromatosis, gingival)（エビデンスレベル L5）。薬価基準の品目：2 件（現在収載 2 件）"
 ---
 

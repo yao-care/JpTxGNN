@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Amiodarone"
 predicted_indications: ["catecholaminergic polymorphic ventricular tachycardia", "incessant infant ventricular tachycardia", "obsolete bundle branch block", "rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "heparin cofactor 2 deficiency", "trichotillomania", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "gout"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-20
 description: "Amiodarone：予測新適応症はカテコラミン誘発性多形性心室頻拍 (catecholaminergic polymorphic ventricular tachycardia)（エビデンスレベル L5）。薬価基準の品目：11 件（現在収載 10 件）"
 ---
 

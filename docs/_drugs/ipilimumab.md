@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Ipilimumab"
 predicted_indications: ["choroideremia"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-20
 description: "Ipilimumab：予測新適応症は脈絡膜欠損症 (choroideremia)（エビデンスレベル L5）。薬価基準の品目：2 件（現在収載 2 件）"
 ---
 

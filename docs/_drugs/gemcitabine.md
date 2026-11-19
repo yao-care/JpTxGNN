@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "gemcitabine"
 predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "endometrial mixed adenocarcinoma", "endometrial mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "mucin-rich endometrial endometrioid adenocarcinoma"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-20
 description: "Gemcitabine：予測新適応症は直腸粘液腺癌 (rectum mucinous adenocarcinoma)（エビデンスレベル L5）。薬価基準の品目：14 件（現在収載 10 件）"
 ---
 

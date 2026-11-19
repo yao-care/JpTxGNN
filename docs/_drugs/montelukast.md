@@ -5,7 +5,7 @@ parent: 中エビデンスレベル
 nav_order: 214
 evidence_level: L3
 indication_count: 2
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-20
 monitor_inn: "Montelukast"
 predicted_indications: ["bronchitis", "atopic eczema"]
 description: "Montelukast：予測新適応症は気管支炎 (bronchitis)（エビデンスレベル L3）。薬価基準の品目：21 件以上"

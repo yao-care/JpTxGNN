@@ -5,7 +5,7 @@ parent: 高エビデンスレベル
 nav_order: 293
 evidence_level: L1
 indication_count: 2
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "Tacrolimus"
 predicted_indications: ["seborrheic dermatitis", "parapsoriasis"]
 description: "Tacrolimus：予測新適応症は脂漏性皮膚炎 (seborrheic dermatitis)（エビデンスレベル L1）。薬価基準の品目：20 件以上"

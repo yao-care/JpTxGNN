@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Ceftriaxone"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "chronic otitis media"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-20
 description: "Ceftriaxone：予測新適応症は多クローン性過粘稠度症候群 (polyclonal hyperviscosity syndrome)（エビデンスレベル L5）。薬価基準の品目：17 件（現在収載 17 件）"
 ---
 

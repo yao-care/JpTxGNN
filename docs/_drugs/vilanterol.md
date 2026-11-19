@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 336
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "Vilanterol"
 predicted_indications: ["hyperlucent lung", "tracheal stenosis", "bronchial neoplasm (disease)", "respiratory malformation", "tracheal calcification", "laryngotracheitis"]
 description: "Vilanterol：予測新適応症はHyperlucent lung（エビデンスレベル L5）。薬価基準の品目：6 件（現在収載 6 件）"

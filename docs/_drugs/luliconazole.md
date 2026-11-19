@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 198
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-20
 monitor_inn: "Luliconazole"
 predicted_indications: ["endothrix infectious disease", "ectothrix infectious disease"]
 description: "Luliconazole：予測新適応症は毛内菌感染症 (endothrix infectious disease)（エビデンスレベル L5）。薬価基準の品目：1 件（現在収載 1 件）"

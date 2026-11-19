@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 3
 monitor_inn: "Clonazepam"
 predicted_indications: ["restless legs syndrome", "insomnia (disease)", "trigeminal nerve neoplasm"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-20
 description: "Clonazepam：予測新適応症はむずむず脚症候群 (restless legs syndrome)（エビデンスレベル L3）。薬価基準の品目：10 件（現在収載 10 件）"
 ---
 

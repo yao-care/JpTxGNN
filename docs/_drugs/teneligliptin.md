@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Teneligliptin"
 predicted_indications: ["opsismodysplasia", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Teneligliptin：予測新適応症はOpsismodysplasia（オプシスモ異形成症）（エビデンスレベル L5）。既存適応症：2 型糖尿病"
 ---
 

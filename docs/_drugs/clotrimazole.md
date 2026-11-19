@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 77
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-20
 monitor_inn: "Clotrimazole"
 predicted_indications: ["acne (disease)", "postmenopausal atrophic vaginitis"]
 description: "Clotrimazole：予測新適応症は尋常性ざ瘡 (acne (disease))（エビデンスレベル L5）。薬価基準の品目：4 件（現在収載 4 件）"

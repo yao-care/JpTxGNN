@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 138
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-20
 monitor_inn: "Flurbiprofen"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "hypermobility of coccyx"]
 description: "Flurbiprofen：予測新適応症は先端中間肢異形成症 ハンター・トンプソン型 (acromesomelic dysplasia, Hunter-Thompson type)（エビデンスレベル L5）。薬価基準の品目：10 件（現在収載 6 件）"

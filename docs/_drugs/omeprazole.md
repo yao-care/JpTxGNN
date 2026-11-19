@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 227
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-20
 monitor_inn: "Omeprazole"
 predicted_indications: ["duodenal obstruction"]
 description: "Omeprazole：予測新適応症はDuodenal obstruction（エビデンスレベル L5）。薬価基準の品目：20 件以上"
