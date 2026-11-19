@@ -1,0 +1,1555 @@
+{
+  "_note": "藥物頁 front matter description 句尾「原適應症：本地資料未記載」換成本站許可證快照事實層品項數的紀錄（母目錄 .claude/drug_meta_description.py --apply，2026-11-19 起）。pages＝目前產生的句尾（tail）與被換掉的原字樣（original）；entries＝每次改動的前後整行（from／to，可還原：把第一筆的 from 寫回該頁 description）。",
+  "pages": {
+    "abatacept": {
+      "tail": "薬価基準の品目：3 件（現在収載 3 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "adalimumab": {
+      "tail": "薬価基準の品目：20 件（現在収載 20 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "alimemazine": {
+      "tail": "薬価基準の品目：1 件（現在収載 1 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "alprazolam": {
+      "tail": "薬価基準の品目：14 件（現在収載 12 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "amiodarone": {
+      "tail": "薬価基準の品目：11 件（現在収載 10 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "anastrozole": {
+      "tail": "薬価基準の品目：11 件（現在収載 11 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "aripiprazole": {
+      "tail": "薬価基準の品目：20 件以上",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "atorvastatin": {
+      "tail": "薬価基準の品目：20 件以上",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "axitinib": {
+      "tail": "薬価基準の品目：2 件（現在収載 2 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "beclomethasone_dipropionate": {
+      "tail": "薬価基準の品目：4 件（現在収載 4 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "benzoyl_peroxide": {
+      "tail": "薬価基準の品目：3 件（現在収載 3 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "betamethasone": {
+      "tail": "薬価基準の品目：20 件以上",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "bisoprolol": {
+      "tail": "薬価基準の品目：22 件以上",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "cabergoline": {
+      "tail": "薬価基準の品目：2 件（現在収載 2 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "cabozantinib": {
+      "tail": "薬価基準の品目：2 件（現在収載 2 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "capecitabine": {
+      "tail": "薬価基準の品目：9 件（現在収載 9 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "carboplatin": {
+      "tail": "薬価基準の品目：20 件以上",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "ceftriaxone": {
+      "tail": "薬価基準の品目：17 件（現在収載 17 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "celecoxib": {
+      "tail": "薬価基準の品目：20 件以上",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "cetirizine": {
+      "tail": "薬価基準の品目：21 件以上",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "chlorpheniramine": {
+      "tail": "薬価基準の品目：20 件以上",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "ciprofloxacin": {
+      "tail": "薬価基準の品目：4 件（現在収載 2 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "clindamycin": {
+      "tail": "薬価基準の品目：5 件（現在収載 5 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "clobazam": {
+      "tail": "薬価基準の品目：3 件（現在収載 3 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "clonazepam": {
+      "tail": "薬価基準の品目：10 件（現在収載 10 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "clotrimazole": {
+      "tail": "薬価基準の品目：4 件（現在収載 4 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "codeine": {
+      "tail": "薬価基準の品目：20 件以上",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "crizotinib": {
+      "tail": "薬価基準の品目：2 件（現在収載 2 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "cyclosporine": {
+      "tail": "薬価基準の品目：20 件以上",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "danazol": {
+      "tail": "薬価基準の品目：2 件（現在収載 2 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "dantrolene": {
+      "tail": "薬価基準の品目：2 件（現在収載 2 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "deferasirox": {
+      "tail": "薬価基準の品目：8 件（現在収載 7 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "desloratadine": {
+      "tail": "薬価基準の品目：1 件（現在収載 1 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "dexamethasone": {
+      "tail": "薬価基準の品目：20 件以上",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "diazepam": {
+      "tail": "薬価基準の品目：20 件以上",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "docetaxel": {
+      "tail": "薬価基準の品目：20 件以上",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "domperidone": {
+      "tail": "薬価基準の品目：21 件以上",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "donepezil": {
+      "tail": "薬価基準の品目：20 件以上",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "dorzolamide": {
+      "tail": "薬価基準の品目：2 件（現在収載 2 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "durvalumab": {
+      "tail": "薬価基準の品目：2 件（現在収載 2 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "enzalutamide": {
+      "tail": "薬価基準の品目：2 件（現在収載 2 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "epirubicin": {
+      "tail": "薬価基準の品目：8 件（現在収載 4 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "esomeprazole": {
+      "tail": "薬価基準の品目：20 件以上",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "estazolam": {
+      "tail": "薬価基準の品目：4 件（現在収載 3 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "etanercept": {
+      "tail": "薬価基準の品目：20 件以上",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "etoposide": {
+      "tail": "薬価基準の品目：4 件（現在収載 3 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "ezetimibe": {
+      "tail": "薬価基準の品目：20 件以上",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "famotidine": {
+      "tail": "薬価基準の品目：20 件以上",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "fentanyl": {
+      "tail": "薬価基準の品目：20 件以上",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "flecainide": {
+      "tail": "薬価基準の品目：12 件（現在収載 10 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "flurbiprofen": {
+      "tail": "薬価基準の品目：10 件（現在収載 6 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "flutamide": {
+      "tail": "薬価基準の品目：4 件（現在収載 3 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "fluvastatin": {
+      "tail": "薬価基準の品目：18 件（現在収載 12 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "fusidic_acid": {
+      "tail": "薬価基準の品目：1 件（現在収載 1 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "gemcitabine": {
+      "tail": "薬価基準の品目：14 件（現在収載 10 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "golimumab": {
+      "tail": "薬価基準の品目：2 件（現在収載 2 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "haloperidol": {
+      "tail": "薬価基準の品目：20 件以上",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "heparin": {
+      "tail": "薬価基準の品目：20 件以上",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "hydrocortisone": {
+      "tail": "薬価基準の品目：14 件（現在収載 14 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "ibuprofen": {
+      "tail": "薬価基準の品目：10 件（現在収載 8 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "imipenem": {
+      "tail": "薬価基準の品目：1 件（現在収載 1 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "ipilimumab": {
+      "tail": "薬価基準の品目：2 件（現在収載 2 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "irbesartan": {
+      "tail": "薬価基準の品目：20 件以上",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "iron": {
+      "tail": "薬価基準の品目：7 件（現在収載 7 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "lactulose": {
+      "tail": "薬価基準の品目：7 件（現在収載 5 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "lamivudine": {
+      "tail": "薬価基準の品目：3 件（現在収載 3 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "lansoprazole": {
+      "tail": "薬価基準の品目：20 件以上",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "latanoprost": {
+      "tail": "薬価基準の品目：20 件以上",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "leflunomide": {
+      "tail": "薬価基準の品目：3 件（現在収載 3 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "lenvatinib": {
+      "tail": "薬価基準の品目：2 件（現在収載 2 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "levetiracetam": {
+      "tail": "薬価基準の品目：20 件以上",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "levodopa": {
+      "tail": "薬価基準の品目：5 件（現在収載 4 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "levofloxacin": {
+      "tail": "薬価基準の品目：20 件以上",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "lisinopril": {
+      "tail": "薬価基準の品目：18 件（現在収載 17 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "lornoxicam": {
+      "tail": "薬価基準の品目：6 件（現在収載 4 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "luliconazole": {
+      "tail": "薬価基準の品目：1 件（現在収載 1 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "meropenem": {
+      "tail": "薬価基準の品目：3 件（現在収載 3 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "methylprednisolone": {
+      "tail": "薬価基準の品目：9 件（現在収載 9 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "metoclopramide": {
+      "tail": "薬価基準の品目：13 件（現在収載 12 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "metoprolol": {
+      "tail": "薬価基準の品目：14 件（現在収載 11 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "mirtazapine": {
+      "tail": "薬価基準の品目：20 件以上",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "montelukast": {
+      "tail": "薬価基準の品目：21 件以上",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "morphine": {
+      "tail": "薬価基準の品目：20 件以上",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "naratriptan": {
+      "tail": "薬価基準の品目：3 件（現在収載 3 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "nitrazepam": {
+      "tail": "薬価基準の品目：20 件（現在収載 16 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "omeprazole": {
+      "tail": "薬価基準の品目：20 件以上",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "oxaliplatin": {
+      "tail": "薬価基準の品目：6 件（現在収載 4 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "paclitaxel": {
+      "tail": "薬価基準の品目：12 件（現在収載 6 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "paroxetine": {
+      "tail": "薬価基準の品目：22 件以上",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "pazopanib": {
+      "tail": "薬価基準の品目：1 件（現在収載 1 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "pembrolizumab": {
+      "tail": "薬価基準の品目：1 件（現在収載 1 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "perampanel": {
+      "tail": "薬価基準の品目：4 件（現在収載 4 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "pertuzumab": {
+      "tail": "薬価基準の品目：1 件（現在収載 1 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "phenylephrine": {
+      "tail": "薬価基準の品目：3 件（現在収載 3 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "pravastatin": {
+      "tail": "薬価基準の品目：20 件以上",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "pregabalin": {
+      "tail": "薬価基準の品目：20 件以上",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "risperidone": {
+      "tail": "薬価基準の品目：20 件以上",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "rizatriptan": {
+      "tail": "薬価基準の品目：7 件（現在収載 6 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "rosuvastatin": {
+      "tail": "薬価基準の品目：20 件以上",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "salmeterol": {
+      "tail": "薬価基準の品目：1 件（現在収載 1 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "selegiline": {
+      "tail": "薬価基準の品目：4 件（現在収載 4 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "sertraline": {
+      "tail": "薬価基準の品目：23 件以上",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "simvastatin": {
+      "tail": "薬価基準の品目：22 件以上",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "sorafenib": {
+      "tail": "薬価基準の品目：1 件（現在収載 1 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "sotalol": {
+      "tail": "薬価基準の品目：7 件（現在収載 2 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "spironolactone": {
+      "tail": "薬価基準の品目：14 件（現在収載 11 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "sucralfate": {
+      "tail": "薬価基準の品目：7 件（現在収載 5 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "sulfasalazine": {
+      "tail": "薬価基準の品目：11 件（現在収載 6 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "tacrolimus": {
+      "tail": "薬価基準の品目：20 件以上",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "tadalafil": {
+      "tail": "薬価基準の品目：20 件以上",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "tamoxifen": {
+      "tail": "薬価基準の品目：13 件（現在収載 13 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "tegafur": {
+      "tail": "薬価基準の品目：6 件（現在収載 6 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "tiotropium": {
+      "tail": "薬価基準の品目：3 件（現在収載 3 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "tolvaptan": {
+      "tail": "薬価基準の品目：20 件以上",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "topiramate": {
+      "tail": "薬価基準の品目：10 件（現在収載 10 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "topotecan": {
+      "tail": "薬価基準の品目：2 件（現在収載 2 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "tramadol": {
+      "tail": "薬価基準の品目：6 件（現在収載 6 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "trastuzumab": {
+      "tail": "薬価基準の品目：2 件（現在収載 2 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "travoprost": {
+      "tail": "薬価基準の品目：3 件（現在収載 3 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "ustekinumab": {
+      "tail": "薬価基準の品目：2 件（現在収載 2 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "venetoclax": {
+      "tail": "薬価基準の品目：3 件（現在収載 3 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "verapamil": {
+      "tail": "薬価基準の品目：10 件（現在収載 9 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "vilanterol": {
+      "tail": "薬価基準の品目：6 件（現在収載 6 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "voglibose": {
+      "tail": "薬価基準の品目：21 件以上",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "vonoprazan": {
+      "tail": "薬価基準の品目：4 件（現在収載 4 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "warfarin": {
+      "tail": "薬価基準の品目：18 件（現在収載 17 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "zaltoprofen": {
+      "tail": "薬価基準の品目：8 件（現在収載 7 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "zolmitriptan": {
+      "tail": "薬価基準の品目：11 件（現在収載 11 件）",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    },
+    "zolpidem": {
+      "tail": "薬価基準の品目：20 件以上",
+      "original": "既存適応症：日本の承認情報に適応症の記載なし",
+      "date": "2026-11-19"
+    }
+  },
+  "entries": [
+    {
+      "page": "docs/_drugs/abatacept.md",
+      "date": "2026-11-19",
+      "from": "\"Abatacept：予測新適応症は強直性脊椎炎 (ankylosing spondylitis)（エビデンスレベル L3）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Abatacept：予測新適応症は強直性脊椎炎 (ankylosing spondylitis)（エビデンスレベル L3）。薬価基準の品目：3 件（現在収載 3 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/adalimumab.md",
+      "date": "2026-11-19",
+      "from": "\"Adalimumab：予測新適応症は尾骨過可動症 (hypermobility of coccyx)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Adalimumab：予測新適応症は尾骨過可動症 (hypermobility of coccyx)（エビデンスレベル L5）。薬価基準の品目：20 件（現在収載 20 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/alimemazine.md",
+      "date": "2026-11-19",
+      "from": "\"Alimemazine：予測新適応症はアトピー性 IgE 反応性 (IgE responsiveness, atopic)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし。ナレッジグラフ上の記録された関係：血管性浮腫、アレルギー性鼻炎、血管運動性鼻炎、咽頭炎、かぜ…\"",
+      "to": "\"Alimemazine：予測新適応症はアトピー性 IgE 反応性 (IgE responsiveness, atopic)（エビデンスレベル L5）。薬価基準の品目：1 件（現在収載 1 件）。ナレッジグラフ上の記録された関係：血管性浮腫、アレルギー性鼻炎、血管運動性鼻炎、咽頭炎、かぜ…\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/alprazolam.md",
+      "date": "2026-11-19",
+      "from": "\"Alprazolam：予測新適応症は不眠症 (insomnia (disease))（エビデンスレベル L3）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Alprazolam：予測新適応症は不眠症 (insomnia (disease))（エビデンスレベル L3）。薬価基準の品目：14 件（現在収載 12 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/amiodarone.md",
+      "date": "2026-11-19",
+      "from": "\"Amiodarone：予測新適応症はカテコラミン誘発性多形性心室頻拍 (catecholaminergic polymorphic ventricular tachycardia)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Amiodarone：予測新適応症はカテコラミン誘発性多形性心室頻拍 (catecholaminergic polymorphic ventricular tachycardia)（エビデンスレベル L5）。薬価基準の品目：11 件（現在収載 10 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/anastrozole.md",
+      "date": "2026-11-19",
+      "from": "\"Anastrozole：予測新適応症は神経芽腫 (neuroblastoma)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Anastrozole：予測新適応症は神経芽腫 (neuroblastoma)（エビデンスレベル L5）。薬価基準の品目：11 件（現在収載 11 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/aripiprazole.md",
+      "date": "2026-11-19",
+      "from": "\"Aripiprazole：予測新適応症はGaze palsy, familial horizontal, with progressive scoliosis（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Aripiprazole：予測新適応症はGaze palsy, familial horizontal, with progressive scoliosis（エビデンスレベル L5）。薬価基準の品目：20 件以上\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/atorvastatin.md",
+      "date": "2026-11-19",
+      "from": "\"Atorvastatin：予測新適応症はHIV感染症 (HIV infectious disease)（エビデンスレベル L2）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Atorvastatin：予測新適応症はHIV感染症 (HIV infectious disease)（エビデンスレベル L2）。薬価基準の品目：20 件以上\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/axitinib.md",
+      "date": "2026-11-19",
+      "from": "\"Axitinib：予測新適応症は脂肪肉腫 (liposarcoma)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Axitinib：予測新適応症は脂肪肉腫 (liposarcoma)（エビデンスレベル L5）。薬価基準の品目：2 件（現在収載 2 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/beclomethasone_dipropionate.md",
+      "date": "2026-11-19",
+      "from": "\"Beclomethasone Dipropionate：予測新適応症はアトピー性皮膚炎 (atopic eczema)（エビデンスレベル L3）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Beclomethasone Dipropionate：予測新適応症はアトピー性皮膚炎 (atopic eczema)（エビデンスレベル L3）。薬価基準の品目：4 件（現在収載 4 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/benzoyl_peroxide.md",
+      "date": "2026-11-19",
+      "from": "\"Benzoyl Peroxide：予測新適応症は外陰逆性毛包性角化症 (vulvar inverted follicular keratosis)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Benzoyl Peroxide：予測新適応症は外陰逆性毛包性角化症 (vulvar inverted follicular keratosis)（エビデンスレベル L5）。薬価基準の品目：3 件（現在収載 3 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/betamethasone.md",
+      "date": "2026-11-19",
+      "from": "\"Betamethasone：予測新適応症は毛包性ムチン沈着症 (alopecia mucinosa)（エビデンスレベル L4）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Betamethasone：予測新適応症は毛包性ムチン沈着症 (alopecia mucinosa)（エビデンスレベル L4）。薬価基準の品目：20 件以上\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/bisoprolol.md",
+      "date": "2026-11-19",
+      "from": "\"Bisoprolol：予測新適応症は悪性高血圧性腎疾患 (malignant hypertensive renal disease)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Bisoprolol：予測新適応症は悪性高血圧性腎疾患 (malignant hypertensive renal disease)（エビデンスレベル L5）。薬価基準の品目：22 件以上\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/cabergoline.md",
+      "date": "2026-11-19",
+      "from": "\"Cabergoline：予測新適応症は早老症・低身長・色素性母斑症候群 (progeria-short stature-pigmented nevi syndrome)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Cabergoline：予測新適応症は早老症・低身長・色素性母斑症候群 (progeria-short stature-pigmented nevi syndrome)（エビデンスレベル L5）。薬価基準の品目：2 件（現在収載 2 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/cabozantinib.md",
+      "date": "2026-11-19",
+      "from": "\"Cabozantinib：予測新適応症は脂肪肉腫 (liposarcoma)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Cabozantinib：予測新適応症は脂肪肉腫 (liposarcoma)（エビデンスレベル L5）。薬価基準の品目：2 件（現在収載 2 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/capecitabine.md",
+      "date": "2026-11-19",
+      "from": "\"Capecitabine：予測新適応症は胃腺癌・胃近位部ポリポーシス (gastric adenocarcinoma and proximal polyposis of the stomach)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Capecitabine：予測新適応症は胃腺癌・胃近位部ポリポーシス (gastric adenocarcinoma and proximal polyposis of the stomach)（エビデンスレベル L5）。薬価基準の品目：9 件（現在収載 9 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/carboplatin.md",
+      "date": "2026-11-19",
+      "from": "\"Carboplatin：予測新適応症は直腸粘液腺癌 (rectum mucinous adenocarcinoma)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Carboplatin：予測新適応症は直腸粘液腺癌 (rectum mucinous adenocarcinoma)（エビデンスレベル L5）。薬価基準の品目：20 件以上\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/ceftriaxone.md",
+      "date": "2026-11-19",
+      "from": "\"Ceftriaxone：予測新適応症は多クローン性過粘稠度症候群 (polyclonal hyperviscosity syndrome)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Ceftriaxone：予測新適応症は多クローン性過粘稠度症候群 (polyclonal hyperviscosity syndrome)（エビデンスレベル L5）。薬価基準の品目：17 件（現在収載 17 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/celecoxib.md",
+      "date": "2026-11-19",
+      "from": "\"Celecoxib：予測新適応症は先端中間肢異形成症 Hunter-Thompson 型 (acromesomelic dysplasia, Hunter-Thompson type)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Celecoxib：予測新適応症は先端中間肢異形成症 Hunter-Thompson 型 (acromesomelic dysplasia, Hunter-Thompson type)（エビデンスレベル L5）。薬価基準の品目：20 件以上\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/cetirizine.md",
+      "date": "2026-11-19",
+      "from": "\"Cetirizine：予測新適応症は鼻腔疾患 (nasal cavity disease)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Cetirizine：予測新適応症は鼻腔疾患 (nasal cavity disease)（エビデンスレベル L5）。薬価基準の品目：21 件以上\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/chlorpheniramine.md",
+      "date": "2026-11-19",
+      "from": "\"Chlorpheniramine：予測新適応症は鼻腔疾患 (nasal cavity disease)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Chlorpheniramine：予測新適応症は鼻腔疾患 (nasal cavity disease)（エビデンスレベル L5）。薬価基準の品目：20 件以上\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/ciprofloxacin.md",
+      "date": "2026-11-19",
+      "from": "\"Ciprofloxacin：予測新適応症はびまん性強皮症 (diffuse scleroderma)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Ciprofloxacin：予測新適応症はびまん性強皮症 (diffuse scleroderma)（エビデンスレベル L5）。薬価基準の品目：4 件（現在収載 2 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/clindamycin.md",
+      "date": "2026-11-19",
+      "from": "\"Clindamycin：予測新適応症は点状表層角結膜炎 (punctate epithelial keratoconjunctivitis)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Clindamycin：予測新適応症は点状表層角結膜炎 (punctate epithelial keratoconjunctivitis)（エビデンスレベル L5）。薬価基準の品目：5 件（現在収載 5 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/clobazam.md",
+      "date": "2026-11-19",
+      "from": "\"Clobazam：予測新適応症は熱性感染症関連てんかん症候群 (febrile infection-related epilepsy syndrome)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Clobazam：予測新適応症は熱性感染症関連てんかん症候群 (febrile infection-related epilepsy syndrome)（エビデンスレベル L5）。薬価基準の品目：3 件（現在収載 3 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/clonazepam.md",
+      "date": "2026-11-19",
+      "from": "\"Clonazepam：予測新適応症はむずむず脚症候群 (restless legs syndrome)（エビデンスレベル L3）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Clonazepam：予測新適応症はむずむず脚症候群 (restless legs syndrome)（エビデンスレベル L3）。薬価基準の品目：10 件（現在収載 10 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/clotrimazole.md",
+      "date": "2026-11-19",
+      "from": "\"Clotrimazole：予測新適応症は尋常性ざ瘡 (acne (disease))（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Clotrimazole：予測新適応症は尋常性ざ瘡 (acne (disease))（エビデンスレベル L5）。薬価基準の品目：4 件（現在収載 4 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/codeine.md",
+      "date": "2026-11-19",
+      "from": "\"Codeine：予測新適応症は鼻腔疾患 (nasal cavity disease)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Codeine：予測新適応症は鼻腔疾患 (nasal cavity disease)（エビデンスレベル L5）。薬価基準の品目：20 件以上\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/crizotinib.md",
+      "date": "2026-11-19",
+      "from": "\"Crizotinib：予測新適応症は歯肉線維腫症 (fibromatosis, gingival)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Crizotinib：予測新適応症は歯肉線維腫症 (fibromatosis, gingival)（エビデンスレベル L5）。薬価基準の品目：2 件（現在収載 2 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/cyclosporine.md",
+      "date": "2026-11-19",
+      "from": "\"Cyclosporine：予測新適応症は慢性肉芽腫症、常染色体劣性 (granulomatous disease, chronic, autosomal recessive)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Cyclosporine：予測新適応症は慢性肉芽腫症、常染色体劣性 (granulomatous disease, chronic, autosomal recessive)（エビデンスレベル L5）。薬価基準の品目：20 件以上\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/danazol.md",
+      "date": "2026-11-19",
+      "from": "\"Danazol：予測新適応症は無月経 (amenorrhea (disease))（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Danazol：予測新適応症は無月経 (amenorrhea (disease))（エビデンスレベル L5）。薬価基準の品目：2 件（現在収載 2 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/dantrolene.md",
+      "date": "2026-11-19",
+      "from": "\"Dantrolene：予測新適応症は手の障害を伴う中等度マルチミニコア病 (moderate multiminicore disease with hand involvement)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Dantrolene：予測新適応症は手の障害を伴う中等度マルチミニコア病 (moderate multiminicore disease with hand involvement)（エビデンスレベル L5）。薬価基準の品目：2 件（現在収載 2 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/deferasirox.md",
+      "date": "2026-11-19",
+      "from": "\"Deferasirox：予測新適応症はHIV感染症 (HIV infectious disease)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Deferasirox：予測新適応症はHIV感染症 (HIV infectious disease)（エビデンスレベル L5）。薬価基準の品目：8 件（現在収載 7 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/desloratadine.md",
+      "date": "2026-11-19",
+      "from": "\"Desloratadine：予測新適応症は鼻腔疾患 (nasal cavity disease)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Desloratadine：予測新適応症は鼻腔疾患 (nasal cavity disease)（エビデンスレベル L5）。薬価基準の品目：1 件（現在収載 1 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/dexamethasone.md",
+      "date": "2026-11-19",
+      "from": "\"Dexamethasone：予測新適応症は毛包性ムチン沈着症 (alopecia mucinosa)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Dexamethasone：予測新適応症は毛包性ムチン沈着症 (alopecia mucinosa)（エビデンスレベル L5）。薬価基準の品目：20 件以上\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/diazepam.md",
+      "date": "2026-11-19",
+      "from": "\"Diazepam：予測新適応症は不眠症 (insomnia (disease))（エビデンスレベル L2）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Diazepam：予測新適応症は不眠症 (insomnia (disease))（エビデンスレベル L2）。薬価基準の品目：20 件以上\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/docetaxel.md",
+      "date": "2026-11-19",
+      "from": "\"Docetaxel：予測新適応症はユーイング肉腫 (Ewing sarcoma)（エビデンスレベル L2）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Docetaxel：予測新適応症はユーイング肉腫 (Ewing sarcoma)（エビデンスレベル L2）。薬価基準の品目：20 件以上\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/domperidone.md",
+      "date": "2026-11-19",
+      "from": "\"Domperidone：予測新適応症は腎性抗利尿ホルモン不適合分泌症候群 (nephrogenic syndrome of inappropriate antidiuresis)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Domperidone：予測新適応症は腎性抗利尿ホルモン不適合分泌症候群 (nephrogenic syndrome of inappropriate antidiuresis)（エビデンスレベル L5）。薬価基準の品目：21 件以上\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/donepezil.md",
+      "date": "2026-11-19",
+      "from": "\"Donepezil：予測新適応症は心因性運動障害 (psychogenic movement disorders)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Donepezil：予測新適応症は心因性運動障害 (psychogenic movement disorders)（エビデンスレベル L5）。薬価基準の品目：20 件以上\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/dorzolamide.md",
+      "date": "2026-11-19",
+      "from": "\"Dorzolamide：予測新適応症は頭皮の単純性乏毛症 (hypotrichosis simplex of the scalp)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Dorzolamide：予測新適応症は頭皮の単純性乏毛症 (hypotrichosis simplex of the scalp)（エビデンスレベル L5）。薬価基準の品目：2 件（現在収載 2 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/durvalumab.md",
+      "date": "2026-11-19",
+      "from": "\"Durvalumab：予測新適応症は子宮靭帯腺癌 (uterine ligament adenocarcinoma)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Durvalumab：予測新適応症は子宮靭帯腺癌 (uterine ligament adenocarcinoma)（エビデンスレベル L5）。薬価基準の品目：2 件（現在収載 2 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/enzalutamide.md",
+      "date": "2026-11-19",
+      "from": "\"Enzalutamide：予測新適応症は前立腺平滑筋腫 (prostate leiomyoma)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Enzalutamide：予測新適応症は前立腺平滑筋腫 (prostate leiomyoma)（エビデンスレベル L5）。薬価基準の品目：2 件（現在収載 2 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/epirubicin.md",
+      "date": "2026-11-19",
+      "from": "\"Epirubicin：予測新適応症は原発性肺リンパ腫 (primary pulmonary lymphoma)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Epirubicin：予測新適応症は原発性肺リンパ腫 (primary pulmonary lymphoma)（エビデンスレベル L5）。薬価基準の品目：8 件（現在収載 4 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/esomeprazole.md",
+      "date": "2026-11-19",
+      "from": "\"Esomeprazole：予測新適応症は十二指腸閉塞 (duodenal obstruction)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Esomeprazole：予測新適応症は十二指腸閉塞 (duodenal obstruction)（エビデンスレベル L5）。薬価基準の品目：20 件以上\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/estazolam.md",
+      "date": "2026-11-19",
+      "from": "\"Estazolam：予測新適応症は視覚性てんかん (visual epilepsy)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Estazolam：予測新適応症は視覚性てんかん (visual epilepsy)（エビデンスレベル L5）。薬価基準の品目：4 件（現在収載 3 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/etanercept.md",
+      "date": "2026-11-19",
+      "from": "\"Etanercept：予測新適応症は尾骨過可動性 (hypermobility of coccyx)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Etanercept：予測新適応症は尾骨過可動性 (hypermobility of coccyx)（エビデンスレベル L5）。薬価基準の品目：20 件以上\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/etoposide.md",
+      "date": "2026-11-19",
+      "from": "\"Etoposide：予測新適応症は高分化型胎児型肺腺癌 (well-differentiated fetal adenocarcinoma of the lung)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Etoposide：予測新適応症は高分化型胎児型肺腺癌 (well-differentiated fetal adenocarcinoma of the lung)（エビデンスレベル L5）。薬価基準の品目：4 件（現在収載 3 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/ezetimibe.md",
+      "date": "2026-11-19",
+      "from": "\"Ezetimibe：予測新適応症はコレステロールエステル転送蛋白欠損症 (cholesterol-ester transfer protein deficiency)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Ezetimibe：予測新適応症はコレステロールエステル転送蛋白欠損症 (cholesterol-ester transfer protein deficiency)（エビデンスレベル L5）。薬価基準の品目：20 件以上\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/famotidine.md",
+      "date": "2026-11-19",
+      "from": "\"Famotidine：予測新適応症は十二指腸閉塞 (duodenal obstruction)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Famotidine：予測新適応症は十二指腸閉塞 (duodenal obstruction)（エビデンスレベル L5）。薬価基準の品目：20 件以上\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/fentanyl.md",
+      "date": "2026-11-19",
+      "from": "\"Fentanyl：予測新適応症は腎性抗利尿ホルモン不適切分泌症候群 (nephrogenic syndrome of inappropriate antidiuresis)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Fentanyl：予測新適応症は腎性抗利尿ホルモン不適切分泌症候群 (nephrogenic syndrome of inappropriate antidiuresis)（エビデンスレベル L5）。薬価基準の品目：20 件以上\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/flecainide.md",
+      "date": "2026-11-19",
+      "from": "\"Flecainide：予測新適応症は脳卒中 (stroke disorder)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Flecainide：予測新適応症は脳卒中 (stroke disorder)（エビデンスレベル L5）。薬価基準の品目：12 件（現在収載 10 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/flurbiprofen.md",
+      "date": "2026-11-19",
+      "from": "\"Flurbiprofen：予測新適応症は先端中間肢異形成症 ハンター・トンプソン型 (acromesomelic dysplasia, Hunter-Thompson type)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Flurbiprofen：予測新適応症は先端中間肢異形成症 ハンター・トンプソン型 (acromesomelic dysplasia, Hunter-Thompson type)（エビデンスレベル L5）。薬価基準の品目：10 件（現在収載 6 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/flutamide.md",
+      "date": "2026-11-19",
+      "from": "\"Flutamide：予測新適応症は前立腺線維腫 (fibroma of prostate)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Flutamide：予測新適応症は前立腺線維腫 (fibroma of prostate)（エビデンスレベル L5）。薬価基準の品目：4 件（現在収載 3 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/fluvastatin.md",
+      "date": "2026-11-19",
+      "from": "\"Fluvastatin：予測新適応症はHIV感染症 (HIV infectious disease)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Fluvastatin：予測新適応症はHIV感染症 (HIV infectious disease)（エビデンスレベル L5）。薬価基準の品目：18 件（現在収載 12 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/fusidic_acid.md",
+      "date": "2026-11-19",
+      "from": "\"Fusidic Acid：予測新適応症は露出性角膜炎 (exposure keratitis)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Fusidic Acid：予測新適応症は露出性角膜炎 (exposure keratitis)（エビデンスレベル L5）。薬価基準の品目：1 件（現在収載 1 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/gemcitabine.md",
+      "date": "2026-11-19",
+      "from": "\"Gemcitabine：予測新適応症は直腸粘液腺癌 (rectum mucinous adenocarcinoma)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Gemcitabine：予測新適応症は直腸粘液腺癌 (rectum mucinous adenocarcinoma)（エビデンスレベル L5）。薬価基準の品目：14 件（現在収載 10 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/golimumab.md",
+      "date": "2026-11-19",
+      "from": "\"Golimumab：予測新適応症は尾骨過可動症 (hypermobility of coccyx)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Golimumab：予測新適応症は尾骨過可動症 (hypermobility of coccyx)（エビデンスレベル L5）。薬価基準の品目：2 件（現在収載 2 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/haloperidol.md",
+      "date": "2026-11-19",
+      "from": "\"Haloperidol：予測新適応症はフコシル化欠損を伴う先天性グリコシル化異常症 (congenital disorder of glycosylation with defective fucosylation)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Haloperidol：予測新適応症はフコシル化欠損を伴う先天性グリコシル化異常症 (congenital disorder of glycosylation with defective fucosylation)（エビデンスレベル L5）。薬価基準の品目：20 件以上\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/heparin.md",
+      "date": "2026-11-19",
+      "from": "\"Heparin：予測新適応症は常染色体劣性プロテインC欠損による血栓性素因 (thrombophilia due to protein C deficiency, autosomal recessive)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Heparin：予測新適応症は常染色体劣性プロテインC欠損による血栓性素因 (thrombophilia due to protein C deficiency, autosomal recessive)（エビデンスレベル L5）。薬価基準の品目：20 件以上\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/hydrocortisone.md",
+      "date": "2026-11-19",
+      "from": "\"Hydrocortisone：予測新適応症は円形脱毛症 (alopecia areata)（エビデンスレベル L3）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Hydrocortisone：予測新適応症は円形脱毛症 (alopecia areata)（エビデンスレベル L3）。薬価基準の品目：14 件（現在収載 14 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/ibuprofen.md",
+      "date": "2026-11-19",
+      "from": "\"Ibuprofen：予測新適応症は先端中間異形成 Hunter-Thompson 型 (acromesomelic dysplasia, Hunter-Thompson type)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Ibuprofen：予測新適応症は先端中間異形成 Hunter-Thompson 型 (acromesomelic dysplasia, Hunter-Thompson type)（エビデンスレベル L5）。薬価基準の品目：10 件（現在収載 8 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/imipenem.md",
+      "date": "2026-11-19",
+      "from": "\"Imipenem：予測新適応症はびまん性強皮症 (diffuse scleroderma)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Imipenem：予測新適応症はびまん性強皮症 (diffuse scleroderma)（エビデンスレベル L5）。薬価基準の品目：1 件（現在収載 1 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/ipilimumab.md",
+      "date": "2026-11-19",
+      "from": "\"Ipilimumab：予測新適応症は脈絡膜欠損症 (choroideremia)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Ipilimumab：予測新適応症は脈絡膜欠損症 (choroideremia)（エビデンスレベル L5）。薬価基準の品目：2 件（現在収載 2 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/irbesartan.md",
+      "date": "2026-11-19",
+      "from": "\"Irbesartan：予測新適応症は悪性高血圧性腎疾患 (malignant hypertensive renal disease)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Irbesartan：予測新適応症は悪性高血圧性腎疾患 (malignant hypertensive renal disease)（エビデンスレベル L5）。薬価基準の品目：20 件以上\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/iron.md",
+      "date": "2026-11-19",
+      "from": "\"Iron：予測新適応症はVitamin B12- and folate-independent constitutional megaloblastic anemia（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Iron：予測新適応症はVitamin B12- and folate-independent constitutional megaloblastic anemia（エビデンスレベル L5）。薬価基準の品目：7 件（現在収載 7 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/lactulose.md",
+      "date": "2026-11-19",
+      "from": "\"Lactulose：予測新適応症は急性尿酸性腎症 (acute urate nephropathy)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Lactulose：予測新適応症は急性尿酸性腎症 (acute urate nephropathy)（エビデンスレベル L5）。薬価基準の品目：7 件（現在収載 5 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/lamivudine.md",
+      "date": "2026-11-19",
+      "from": "\"Lamivudine：予測新適応症はサル免疫不全ウイルス感染症 (simian immunodeficiency virus infection)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Lamivudine：予測新適応症はサル免疫不全ウイルス感染症 (simian immunodeficiency virus infection)（エビデンスレベル L5）。薬価基準の品目：3 件（現在収載 3 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/lansoprazole.md",
+      "date": "2026-11-19",
+      "from": "\"Lansoprazole：予測新適応症は十二指腸閉塞 (duodenal obstruction)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Lansoprazole：予測新適応症は十二指腸閉塞 (duodenal obstruction)（エビデンスレベル L5）。薬価基準の品目：20 件以上\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/latanoprost.md",
+      "date": "2026-11-19",
+      "from": "\"Latanoprost：予測新適応症は内臓カルシフィラキシス (visceral calciphylaxis)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Latanoprost：予測新適応症は内臓カルシフィラキシス (visceral calciphylaxis)（エビデンスレベル L5）。薬価基準の品目：20 件以上\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/leflunomide.md",
+      "date": "2026-11-19",
+      "from": "\"Leflunomide：予測新適応症は短指症・合指症症候群 (brachydactyly-syndactyly syndrome)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Leflunomide：予測新適応症は短指症・合指症症候群 (brachydactyly-syndactyly syndrome)（エビデンスレベル L5）。薬価基準の品目：3 件（現在収載 3 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/lenvatinib.md",
+      "date": "2026-11-19",
+      "from": "\"Lenvatinib：予測新適応症は脂肪肉腫 (liposarcoma)（エビデンスレベル L3）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Lenvatinib：予測新適応症は脂肪肉腫 (liposarcoma)（エビデンスレベル L3）。薬価基準の品目：2 件（現在収載 2 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/levetiracetam.md",
+      "date": "2026-11-19",
+      "from": "\"Levetiracetam：予測新適応症はβ-ケトチオラーゼ欠損症 (beta-ketothiolase deficiency)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Levetiracetam：予測新適応症はβ-ケトチオラーゼ欠損症 (beta-ketothiolase deficiency)（エビデンスレベル L5）。薬価基準の品目：20 件以上\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/levodopa.md",
+      "date": "2026-11-19",
+      "from": "\"Levodopa：予測新適応症はラスムッセン亜急性脳炎 (Rasmussen subacute encephalitis)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Levodopa：予測新適応症はラスムッセン亜急性脳炎 (Rasmussen subacute encephalitis)（エビデンスレベル L5）。薬価基準の品目：5 件（現在収載 4 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/levofloxacin.md",
+      "date": "2026-11-19",
+      "from": "\"Levofloxacin：予測新適応症は点状表層角結膜炎 (punctate epithelial keratoconjunctivitis)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Levofloxacin：予測新適応症は点状表層角結膜炎 (punctate epithelial keratoconjunctivitis)（エビデンスレベル L5）。薬価基準の品目：20 件以上\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/lisinopril.md",
+      "date": "2026-11-19",
+      "from": "\"Lisinopril：予測新適応症は原因が不明確な多因子性の肺高血圧症 (pulmonary hypertension with unclear multifactorial mechanism)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Lisinopril：予測新適応症は原因が不明確な多因子性の肺高血圧症 (pulmonary hypertension with unclear multifactorial mechanism)（エビデンスレベル L5）。薬価基準の品目：18 件（現在収載 17 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/lornoxicam.md",
+      "date": "2026-11-19",
+      "from": "\"Lornoxicam：予測新適応症は片頭痛 (migraine disorder)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Lornoxicam：予測新適応症は片頭痛 (migraine disorder)（エビデンスレベル L5）。薬価基準の品目：6 件（現在収載 4 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/luliconazole.md",
+      "date": "2026-11-19",
+      "from": "\"Luliconazole：予測新適応症は毛内菌感染症 (endothrix infectious disease)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Luliconazole：予測新適応症は毛内菌感染症 (endothrix infectious disease)（エビデンスレベル L5）。薬価基準の品目：1 件（現在収載 1 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/meropenem.md",
+      "date": "2026-11-19",
+      "from": "\"Meropenem：予測新適応症は細菌性関節炎 (bacterial arthritis)（エビデンスレベル L3）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Meropenem：予測新適応症は細菌性関節炎 (bacterial arthritis)（エビデンスレベル L3）。薬価基準の品目：3 件（現在収載 3 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/methylprednisolone.md",
+      "date": "2026-11-19",
+      "from": "\"Methylprednisolone：予測新適応症はムチン沈着性脱毛症 (alopecia mucinosa)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Methylprednisolone：予測新適応症はムチン沈着性脱毛症 (alopecia mucinosa)（エビデンスレベル L5）。薬価基準の品目：9 件（現在収載 9 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/metoclopramide.md",
+      "date": "2026-11-19",
+      "from": "\"Metoclopramide：予測新適応症は胃十二指腸炎 (gastroduodenitis)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Metoclopramide：予測新適応症は胃十二指腸炎 (gastroduodenitis)（エビデンスレベル L5）。薬価基準の品目：13 件（現在収載 12 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/metoprolol.md",
+      "date": "2026-11-19",
+      "from": "\"Metoprolol：予測新適応症は悪性高血圧性腎疾患 (malignant hypertensive renal disease)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Metoprolol：予測新適応症は悪性高血圧性腎疾患 (malignant hypertensive renal disease)（エビデンスレベル L5）。薬価基準の品目：14 件（現在収載 11 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/mirtazapine.md",
+      "date": "2026-11-19",
+      "from": "\"Mirtazapine：予測新適応症はOhdo 症候群および関連型 (Ohdo syndrome and variants)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Mirtazapine：予測新適応症はOhdo 症候群および関連型 (Ohdo syndrome and variants)（エビデンスレベル L5）。薬価基準の品目：20 件以上\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/montelukast.md",
+      "date": "2026-11-19",
+      "from": "\"Montelukast：予測新適応症は気管支炎 (bronchitis)（エビデンスレベル L3）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Montelukast：予測新適応症は気管支炎 (bronchitis)（エビデンスレベル L3）。薬価基準の品目：21 件以上\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/morphine.md",
+      "date": "2026-11-19",
+      "from": "\"Morphine：予測新適応症は筋筋膜性疼痛症候群 (myofascial pain syndrome)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Morphine：予測新適応症は筋筋膜性疼痛症候群 (myofascial pain syndrome)（エビデンスレベル L5）。薬価基準の品目：20 件以上\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/naratriptan.md",
+      "date": "2026-11-19",
+      "from": "\"Naratriptan：予測新適応症はAtrophoderma vermiculata（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Naratriptan：予測新適応症はAtrophoderma vermiculata（エビデンスレベル L5）。薬価基準の品目：3 件（現在収載 3 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/nitrazepam.md",
+      "date": "2026-11-19",
+      "from": "\"Nitrazepam：予測新適応症はWernicke-Korsakoff syndrome（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Nitrazepam：予測新適応症はWernicke-Korsakoff syndrome（エビデンスレベル L5）。薬価基準の品目：20 件（現在収載 16 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/omeprazole.md",
+      "date": "2026-11-19",
+      "from": "\"Omeprazole：予測新適応症はDuodenal obstruction（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Omeprazole：予測新適応症はDuodenal obstruction（エビデンスレベル L5）。薬価基準の品目：20 件以上\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/oxaliplatin.md",
+      "date": "2026-11-19",
+      "from": "\"Oxaliplatin：予測新適応症は悪性胸膜中皮腫 (malignant pleural mesothelioma)（エビデンスレベル L3）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Oxaliplatin：予測新適応症は悪性胸膜中皮腫 (malignant pleural mesothelioma)（エビデンスレベル L3）。薬価基準の品目：6 件（現在収載 4 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/paclitaxel.md",
+      "date": "2026-11-19",
+      "from": "\"Paclitaxel：予測新適応症はParameningeal embryonal rhabdomyosarcoma（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Paclitaxel：予測新適応症はParameningeal embryonal rhabdomyosarcoma（エビデンスレベル L5）。薬価基準の品目：12 件（現在収載 6 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/paroxetine.md",
+      "date": "2026-11-19",
+      "from": "\"Paroxetine：予測新適応症はOhdo 症候群および類縁疾患 (Ohdo syndrome and variants)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Paroxetine：予測新適応症はOhdo 症候群および類縁疾患 (Ohdo syndrome and variants)（エビデンスレベル L5）。薬価基準の品目：22 件以上\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/pazopanib.md",
+      "date": "2026-11-19",
+      "from": "\"Pazopanib：予測新適応症は脂肪肉腫 (liposarcoma)（エビデンスレベル L2）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Pazopanib：予測新適応症は脂肪肉腫 (liposarcoma)（エビデンスレベル L2）。薬価基準の品目：1 件（現在収載 1 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/pembrolizumab.md",
+      "date": "2026-11-19",
+      "from": "\"Pembrolizumab：予測新適応症は歯肉線維腫症 (fibromatosis, gingival)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Pembrolizumab：予測新適応症は歯肉線維腫症 (fibromatosis, gingival)（エビデンスレベル L5）。薬価基準の品目：1 件（現在収載 1 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/perampanel.md",
+      "date": "2026-11-19",
+      "from": "\"Perampanel：予測新適応症はBeta-ketothiolase deficiency（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Perampanel：予測新適応症はBeta-ketothiolase deficiency（エビデンスレベル L5）。薬価基準の品目：4 件（現在収載 4 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/pertuzumab.md",
+      "date": "2026-11-19",
+      "from": "\"Pertuzumab：予測新適応症はEctomesenchymoma（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Pertuzumab：予測新適応症はEctomesenchymoma（エビデンスレベル L5）。薬価基準の品目：1 件（現在収載 1 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/phenylephrine.md",
+      "date": "2026-11-19",
+      "from": "\"Phenylephrine：予測新適応症は鼻腔疾患 (nasal cavity disease)（エビデンスレベル L4）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Phenylephrine：予測新適応症は鼻腔疾患 (nasal cavity disease)（エビデンスレベル L4）。薬価基準の品目：3 件（現在収載 3 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/pravastatin.md",
+      "date": "2026-11-19",
+      "from": "\"Pravastatin：予測新適応症はHIV感染症 (HIV infectious disease)（エビデンスレベル L4）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Pravastatin：予測新適応症はHIV感染症 (HIV infectious disease)（エビデンスレベル L4）。薬価基準の品目：20 件以上\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/pregabalin.md",
+      "date": "2026-11-19",
+      "from": "\"Pregabalin：予測新適応症は腱炎 (Tendinitis)（最上位予測）。エビデンスが最も豊富な候補は変形性関節症 (tendinitis)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Pregabalin：予測新適応症は腱炎 (Tendinitis)（最上位予測）。エビデンスが最も豊富な候補は変形性関節症 (tendinitis)（エビデンスレベル L5）。薬価基準の品目：20 件以上\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/risperidone.md",
+      "date": "2026-11-19",
+      "from": "\"Risperidone：予測新適応症は進行性側弯を伴う家族性水平注視麻痺 (gaze palsy, familial horizontal, with progressive scoliosis)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Risperidone：予測新適応症は進行性側弯を伴う家族性水平注視麻痺 (gaze palsy, familial horizontal, with progressive scoliosis)（エビデンスレベル L5）。薬価基準の品目：20 件以上\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/rizatriptan.md",
+      "date": "2026-11-19",
+      "from": "\"Rizatriptan：予測新適応症はAtrophoderma vermiculata（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Rizatriptan：予測新適応症はAtrophoderma vermiculata（エビデンスレベル L5）。薬価基準の品目：7 件（現在収載 6 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/rosuvastatin.md",
+      "date": "2026-11-19",
+      "from": "\"Rosuvastatin：予測新適応症はコレステロールエステル転送蛋白欠損症 (cholesterol-ester transfer protein deficiency)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Rosuvastatin：予測新適応症はコレステロールエステル転送蛋白欠損症 (cholesterol-ester transfer protein deficiency)（エビデンスレベル L5）。薬価基準の品目：20 件以上\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/salmeterol.md",
+      "date": "2026-11-19",
+      "from": "\"Salmeterol：予測新適応症は呼吸器奇形 (respiratory malformation)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Salmeterol：予測新適応症は呼吸器奇形 (respiratory malformation)（エビデンスレベル L5）。薬価基準の品目：1 件（現在収載 1 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/selegiline.md",
+      "date": "2026-11-19",
+      "from": "\"Selegiline：予測新適応症はPolymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Selegiline：予測新適応症はPolymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis（エビデンスレベル L5）。薬価基準の品目：4 件（現在収載 4 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/sertraline.md",
+      "date": "2026-11-19",
+      "from": "\"Sertraline：予測新適応症はシゾイドパーソナリティ障害 (schizoid personality disorder)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Sertraline：予測新適応症はシゾイドパーソナリティ障害 (schizoid personality disorder)（エビデンスレベル L5）。薬価基準の品目：23 件以上\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/simvastatin.md",
+      "date": "2026-11-19",
+      "from": "\"Simvastatin：予測新適応症はBrain stem infarction（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Simvastatin：予測新適応症はBrain stem infarction（エビデンスレベル L5）。薬価基準の品目：22 件以上\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/sorafenib.md",
+      "date": "2026-11-19",
+      "from": "\"Sorafenib：予測新適応症は脂肪肉腫 (liposarcoma)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Sorafenib：予測新適応症は脂肪肉腫 (liposarcoma)（エビデンスレベル L5）。薬価基準の品目：1 件（現在収載 1 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/sotalol.md",
+      "date": "2026-11-19",
+      "from": "\"Sotalol：予測新適応症は洞不全症候群 2 型、常染色体優性 (sick sinus syndrome 2, autosomal dominant) (sick sinus syndrome 2, autosomal dominant)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Sotalol：予測新適応症は洞不全症候群 2 型、常染色体優性 (sick sinus syndrome 2, autosomal dominant) (sick sinus syndrome 2, autosomal dominant)（エビデンスレベル L5）。薬価基準の品目：7 件（現在収載 2 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/spironolactone.md",
+      "date": "2026-11-19",
+      "from": "\"Spironolactone：予測新適応症はHypotrichosis simplex of the scalp（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Spironolactone：予測新適応症はHypotrichosis simplex of the scalp（エビデンスレベル L5）。薬価基準の品目：14 件（現在収載 11 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/sucralfate.md",
+      "date": "2026-11-19",
+      "from": "\"Sucralfate：予測新適応症は十二指腸胃逆流 (duodenogastric reflux)（エビデンスレベル L2）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Sucralfate：予測新適応症は十二指腸胃逆流 (duodenogastric reflux)（エビデンスレベル L2）。薬価基準の品目：7 件（現在収載 5 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/sulfasalazine.md",
+      "date": "2026-11-19",
+      "from": "\"Sulfasalazine：予測新適応症は合指（趾）症を伴う短指症候群 (brachydactyly-syndactyly syndrome)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Sulfasalazine：予測新適応症は合指（趾）症を伴う短指症候群 (brachydactyly-syndactyly syndrome)（エビデンスレベル L5）。薬価基準の品目：11 件（現在収載 6 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/tacrolimus.md",
+      "date": "2026-11-19",
+      "from": "\"Tacrolimus：予測新適応症は脂漏性皮膚炎 (seborrheic dermatitis)（エビデンスレベル L1）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Tacrolimus：予測新適応症は脂漏性皮膚炎 (seborrheic dermatitis)（エビデンスレベル L1）。薬価基準の品目：20 件以上\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/tadalafil.md",
+      "date": "2026-11-19",
+      "from": "\"Tadalafil：予測新適応症はAmbras 型汎発性先天性多毛症 (Ambras type hypertrichosis universalis congenita)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Tadalafil：予測新適応症はAmbras 型汎発性先天性多毛症 (Ambras type hypertrichosis universalis congenita)（エビデンスレベル L5）。薬価基準の品目：20 件以上\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/tamoxifen.md",
+      "date": "2026-11-19",
+      "from": "\"Tamoxifen：予測新適応症はMammary Paget disease（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Tamoxifen：予測新適応症はMammary Paget disease（エビデンスレベル L5）。薬価基準の品目：13 件（現在収載 13 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/tegafur.md",
+      "date": "2026-11-19",
+      "from": "\"Tegafur：予測新適応症はCecum villous adenoma（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Tegafur：予測新適応症はCecum villous adenoma（エビデンスレベル L5）。薬価基準の品目：6 件（現在収載 6 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/tiotropium.md",
+      "date": "2026-11-19",
+      "from": "\"Tiotropium：予測新適応症はRespiratory malformation（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Tiotropium：予測新適応症はRespiratory malformation（エビデンスレベル L5）。薬価基準の品目：3 件（現在収載 3 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/tolvaptan.md",
+      "date": "2026-11-19",
+      "from": "\"Tolvaptan：予測新適応症はRenal-hepatic-pancreatic dysplasia（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Tolvaptan：予測新適応症はRenal-hepatic-pancreatic dysplasia（エビデンスレベル L5）。薬価基準の品目：20 件以上\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/topiramate.md",
+      "date": "2026-11-19",
+      "from": "\"Topiramate：予測新適応症は三叉神経腫瘍 (trigeminal nerve neoplasm)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Topiramate：予測新適応症は三叉神経腫瘍 (trigeminal nerve neoplasm)（エビデンスレベル L5）。薬価基準の品目：10 件（現在収載 10 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/topotecan.md",
+      "date": "2026-11-19",
+      "from": "\"Topotecan：予測新適応症は女性乳癌 (female breast carcinoma)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Topotecan：予測新適応症は女性乳癌 (female breast carcinoma)（エビデンスレベル L5）。薬価基準の品目：2 件（現在収載 2 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/tramadol.md",
+      "date": "2026-11-19",
+      "from": "\"Tramadol：予測新適応症は先端中節骨異形成症 Hunter-Thompson 型 (acromesomelic dysplasia, Hunter-Thompson type)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Tramadol：予測新適応症は先端中節骨異形成症 Hunter-Thompson 型 (acromesomelic dysplasia, Hunter-Thompson type)（エビデンスレベル L5）。薬価基準の品目：6 件（現在収載 6 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/trastuzumab.md",
+      "date": "2026-11-19",
+      "from": "\"Trastuzumab：予測新適応症はMalignant cutaneous granular cell skin tumor（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Trastuzumab：予測新適応症はMalignant cutaneous granular cell skin tumor（エビデンスレベル L5）。薬価基準の品目：2 件（現在収載 2 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/travoprost.md",
+      "date": "2026-11-19",
+      "from": "\"Travoprost：予測新適応症はVisceral calciphylaxis（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Travoprost：予測新適応症はVisceral calciphylaxis（エビデンスレベル L5）。薬価基準の品目：3 件（現在収載 3 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/ustekinumab.md",
+      "date": "2026-11-19",
+      "from": "\"Ustekinumab：予測新適応症は皮膚炎 (dermatitis)（エビデンスレベル L2）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Ustekinumab：予測新適応症は皮膚炎 (dermatitis)（エビデンスレベル L2）。薬価基準の品目：2 件（現在収載 2 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/venetoclax.md",
+      "date": "2026-11-19",
+      "from": "\"Venetoclax：予測新適応症はHodgkins lymphoma（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Venetoclax：予測新適応症はHodgkins lymphoma（エビデンスレベル L5）。薬価基準の品目：3 件（現在収載 3 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/verapamil.md",
+      "date": "2026-11-19",
+      "from": "\"Verapamil：予測新適応症は閉塞性脚ブロック (obsolete bundle branch block)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Verapamil：予測新適応症は閉塞性脚ブロック (obsolete bundle branch block)（エビデンスレベル L5）。薬価基準の品目：10 件（現在収載 9 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/vilanterol.md",
+      "date": "2026-11-19",
+      "from": "\"Vilanterol：予測新適応症はHyperlucent lung（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Vilanterol：予測新適応症はHyperlucent lung（エビデンスレベル L5）。薬価基準の品目：6 件（現在収載 6 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/voglibose.md",
+      "date": "2026-11-19",
+      "from": "\"Voglibose：予測新適応症は頭皮の単純性乏毛症 (hypotrichosis simplex of the scalp)（スコア第1位）。エビデンスのある代表候補は1型糖尿病 (hypotrichosis simplex of the scalp)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Voglibose：予測新適応症は頭皮の単純性乏毛症 (hypotrichosis simplex of the scalp)（スコア第1位）。エビデンスのある代表候補は1型糖尿病 (hypotrichosis simplex of the scalp)（エビデンスレベル L5）。薬価基準の品目：21 件以上\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/vonoprazan.md",
+      "date": "2026-11-19",
+      "from": "\"Vonoprazan：予測新適応症はPeptic ulcer perforation（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Vonoprazan：予測新適応症はPeptic ulcer perforation（エビデンスレベル L5）。薬価基準の品目：4 件（現在収載 4 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/warfarin.md",
+      "date": "2026-11-19",
+      "from": "\"Warfarin：予測新適応症はHeparin cofactor 2 deficiency（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Warfarin：予測新適応症はHeparin cofactor 2 deficiency（エビデンスレベル L5）。薬価基準の品目：18 件（現在収載 17 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/zaltoprofen.md",
+      "date": "2026-11-19",
+      "from": "\"Zaltoprofen：予測新適応症は片頭痛 (migraine disorder)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Zaltoprofen：予測新適応症は片頭痛 (migraine disorder)（エビデンスレベル L5）。薬価基準の品目：8 件（現在収載 7 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/zolmitriptan.md",
+      "date": "2026-11-19",
+      "from": "\"Zolmitriptan：予測新適応症はAtrophoderma vermiculata（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Zolmitriptan：予測新適応症はAtrophoderma vermiculata（エビデンスレベル L5）。薬価基準の品目：11 件（現在収載 11 件）\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    },
+    {
+      "page": "docs/_drugs/zolpidem.md",
+      "date": "2026-11-19",
+      "from": "\"Zolpidem：予測新適応症はBenign paroxysmal torticollis of infancy（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし\"",
+      "to": "\"Zolpidem：予測新適応症はBenign paroxysmal torticollis of infancy（エビデンスレベル L5）。薬価基準の品目：20 件以上\"",
+      "tool": ".claude/drug_meta_description.py --apply"
+    }
+  ]
+}

@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "Ciprofloxacin"
 predicted_indications: ["diffuse scleroderma", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "punctate epithelial keratoconjunctivitis", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy"]
 last_modified_at: 2026-11-17
-description: "Ciprofloxacin：予測新適応症はびまん性強皮症 (diffuse scleroderma)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
+description: "Ciprofloxacin：予測新適応症はびまん性強皮症 (diffuse scleroderma)（エビデンスレベル L5）。薬価基準の品目：4 件（現在収載 2 件）"
 ---
 
 # Ciprofloxacin

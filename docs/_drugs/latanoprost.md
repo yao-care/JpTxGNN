@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "Latanoprost"
 predicted_indications: ["visceral calciphylaxis", "hypotrichosis simplex of the scalp", "venous thoracic outlet syndrome", "arterial thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "congenital hypotrichosis milia", "angiodysplasia of stomach", "blue toe syndrome", "lymphangiectasis"]
 last_modified_at: 2026-11-17
-description: "Latanoprost：予測新適応症は内臓カルシフィラキシス (visceral calciphylaxis)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
+description: "Latanoprost：予測新適応症は内臓カルシフィラキシス (visceral calciphylaxis)（エビデンスレベル L5）。薬価基準の品目：20 件以上"
 ---
 
 # Latanoprost

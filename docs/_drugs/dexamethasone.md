@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "Dexamethasone"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo", "prolapse of lacrimal gland"]
 last_modified_at: 2026-11-17
-description: "Dexamethasone：予測新適応症は毛包性ムチン沈着症 (alopecia mucinosa)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
+description: "Dexamethasone：予測新適応症は毛包性ムチン沈着症 (alopecia mucinosa)（エビデンスレベル L5）。薬価基準の品目：20 件以上"
 ---
 
 # Dexamethasone

@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "Famotidine"
 predicted_indications: ["duodenal obstruction", "abnormality of glucagon secretion", "multiple endocrine neoplasia", "acne (disease)"]
 last_modified_at: 2026-11-17
-description: "Famotidine：予測新適応症は十二指腸閉塞 (duodenal obstruction)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
+description: "Famotidine：予測新適応症は十二指腸閉塞 (duodenal obstruction)（エビデンスレベル L5）。薬価基準の品目：20 件以上"
 ---
 
 # Famotidine

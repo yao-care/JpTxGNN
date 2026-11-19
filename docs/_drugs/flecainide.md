@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "Flecainide"
 predicted_indications: ["stroke disorder", "sick sinus syndrome 2, autosomal dominant", "ABri amyloidosis", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "duodenal obstruction", "cerebrovascular disorder", "nephrogenic syndrome of inappropriate antidiuresis"]
 last_modified_at: 2026-11-17
-description: "Flecainide：予測新適応症は脳卒中 (stroke disorder)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
+description: "Flecainide：予測新適応症は脳卒中 (stroke disorder)（エビデンスレベル L5）。薬価基準の品目：12 件（現在収載 10 件）"
 ---
 
 # Flecainide

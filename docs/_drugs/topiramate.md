@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "Topiramate"
 predicted_indications: ["trigeminal nerve neoplasm"]
-description: "Topiramate：予測新適応症は三叉神経腫瘍 (trigeminal nerve neoplasm)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
+description: "Topiramate：予測新適応症は三叉神経腫瘍 (trigeminal nerve neoplasm)（エビデンスレベル L5）。薬価基準の品目：10 件（現在収載 10 件）"
 ---
 
 # Topiramate

@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-17
 monitor_inn: "Paroxetine"
 predicted_indications: ["Ohdo syndrome and variants"]
-description: "Paroxetine：予測新適応症はOhdo 症候群および類縁疾患 (Ohdo syndrome and variants)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
+description: "Paroxetine：予測新適応症はOhdo 症候群および類縁疾患 (Ohdo syndrome and variants)（エビデンスレベル L5）。薬価基準の品目：22 件以上"
 ---
 
 # Paroxetine

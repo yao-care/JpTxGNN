@@ -809,6 +809,12 @@ import subprocess as _lf_sp  # noqa: E402
 _lf = _lf_sp.run([sys.executable, str(DOCS.parent / "scripts/local_facts.py"), "--check"], capture_output=True, text=True)
 if _lf.returncode:
     errors.append("說明頁／證據等級頁資料檔：" + (_lf.stdout + _lf.stderr).strip()[:400])
+# 藥物頁 description 句尾在地化（2026-11-19；母目錄 .claude/drug_meta_description.py，站上用 tools/txgnn 複本；紀錄 docs/_data/description_local_log.json）
+_dl_p = DOCS.parent / "tools/txgnn/.claude/drug_meta_description.py"
+if _dl_p.exists():
+    _dl = _lf_sp.run([sys.executable, str(_dl_p), "--check", "--root", str(DOCS.parent)], capture_output=True, text=True)
+    if _dl.returncode:
+        errors.append("藥物頁 description 句尾在地化：" + (_dl.stdout + _dl.stderr).strip()[:400])
 _lic_errs = _Lic.site_problems()
 if _lic_errs:
     errors.append(f"許可證資訊跟快照不一致 {len(_lic_errs)} 項：{'；'.join(_lic_errs[:5])}")

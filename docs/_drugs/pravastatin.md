@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-11-17
 monitor_inn: "Pravastatin"
 predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "hypoalphalipoproteinemia", "cholesterol-ester transfer protein deficiency"]
-description: "Pravastatin：予測新適応症はHIV感染症 (HIV infectious disease)（エビデンスレベル L4）。既存適応症：日本の承認情報に適応症の記載なし"
+description: "Pravastatin：予測新適応症はHIV感染症 (HIV infectious disease)（エビデンスレベル L4）。薬価基準の品目：20 件以上"
 ---
 
 # Pravastatin

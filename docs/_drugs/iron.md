@@ -8,7 +8,7 @@ indication_count: 5
 monitor_inn: "Iron"
 predicted_indications: ["vitamin B12- and folate-independent constitutional megaloblastic anemia", "non-syndromic esophageal malformation", "biotin metabolic disease", "vitamin deficiency disorder", "esophageal disease"]
 last_modified_at: 2026-11-03
-description: "Iron：予測新適応症はVitamin B12- and folate-independent constitutional megaloblastic anemia（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
+description: "Iron：予測新適応症はVitamin B12- and folate-independent constitutional megaloblastic anemia（エビデンスレベル L5）。薬価基準の品目：7 件（現在収載 7 件）"
 ---
 
 # Iron

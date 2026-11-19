@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-11-04
 monitor_inn: "Pazopanib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "heart fibrosarcoma", "fibroblastic neoplasm", "kidney fibrosarcoma", "dermatofibrosarcoma protuberans"]
-description: "Pazopanib：予測新適応症は脂肪肉腫 (liposarcoma)（エビデンスレベル L2）。既存適応症：日本の承認情報に適応症の記載なし"
+description: "Pazopanib：予測新適応症は脂肪肉腫 (liposarcoma)（エビデンスレベル L2）。薬価基準の品目：1 件（現在収載 1 件）"
 ---
 
 # Pazopanib

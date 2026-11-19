@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-17
 monitor_inn: "Sucralfate"
 predicted_indications: ["duodenogastric reflux", "duodenal obstruction"]
-description: "Sucralfate：予測新適応症は十二指腸胃逆流 (duodenogastric reflux)（エビデンスレベル L2）。既存適応症：日本の承認情報に適応症の記載なし"
+description: "Sucralfate：予測新適応症は十二指腸胃逆流 (duodenogastric reflux)（エビデンスレベル L2）。薬価基準の品目：7 件（現在収載 5 件）"
 ---
 
 # Sucralfate

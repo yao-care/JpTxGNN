@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-12
 monitor_inn: "Tacrolimus"
 predicted_indications: ["seborrheic dermatitis", "parapsoriasis"]
-description: "Tacrolimus：予測新適応症は脂漏性皮膚炎 (seborrheic dermatitis)（エビデンスレベル L1）。既存適応症：日本の承認情報に適応症の記載なし"
+description: "Tacrolimus：予測新適応症は脂漏性皮膚炎 (seborrheic dermatitis)（エビデンスレベル L1）。薬価基準の品目：20 件以上"
 ---
 
 # Tacrolimus

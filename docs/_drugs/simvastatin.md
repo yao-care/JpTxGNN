@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-11-17
 monitor_inn: "Simvastatin"
 predicted_indications: ["brain stem infarction", "cholesterol-ester transfer protein deficiency", "HIV infectious disease", "ABri amyloidosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-description: "Simvastatin：予測新適応症はBrain stem infarction（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
+description: "Simvastatin：予測新適応症はBrain stem infarction（エビデンスレベル L5）。薬価基準の品目：22 件以上"
 ---
 
 # Simvastatin

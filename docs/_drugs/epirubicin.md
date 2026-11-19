@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-11-17
 monitor_inn: "Epirubicin"
 predicted_indications: ["primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "small cell lung carcinoma", "pulmonary blastoma", "lung mixed small cell and squamous cell carcinoma", "myeloid leukemia", "upper aerodigestive tract neoplasm"]
-description: "Epirubicin：予測新適応症は原発性肺リンパ腫 (primary pulmonary lymphoma)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
+description: "Epirubicin：予測新適応症は原発性肺リンパ腫 (primary pulmonary lymphoma)（エビデンスレベル L5）。薬価基準の品目：8 件（現在収載 4 件）"
 ---
 
 # Epirubicin

@@ -8,7 +8,7 @@ indication_count: 6
 monitor_inn: "Clindamycin"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis", "non-human animal disease", "neurotrophic keratopathy", "epidemic keratoconjunctivitis", "postmenopausal atrophic vaginitis"]
 last_modified_at: 2026-10-28
-description: "Clindamycin：予測新適応症は点状表層角結膜炎 (punctate epithelial keratoconjunctivitis)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
+description: "Clindamycin：予測新適応症は点状表層角結膜炎 (punctate epithelial keratoconjunctivitis)（エビデンスレベル L5）。薬価基準の品目：5 件（現在収載 5 件）"
 ---
 
 # Clindamycin

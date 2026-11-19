@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "Oxaliplatin"
 predicted_indications: ["malignant pleural mesothelioma", "malignant epithelioid mesothelioma", "sarcomatoid mesothelioma", "malignant visceral pleura tumor"]
 last_modified_at: 2026-11-17
-description: "Oxaliplatin：予測新適応症は悪性胸膜中皮腫 (malignant pleural mesothelioma)（エビデンスレベル L3）。既存適応症：日本の承認情報に適応症の記載なし"
+description: "Oxaliplatin：予測新適応症は悪性胸膜中皮腫 (malignant pleural mesothelioma)（エビデンスレベル L3）。薬価基準の品目：6 件（現在収載 4 件）"
 ---
 
 # Oxaliplatin

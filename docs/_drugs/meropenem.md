@@ -8,7 +8,7 @@ indication_count: 7
 monitor_inn: "Meropenem"
 predicted_indications: ["bacterial arthritis", "epiglottitis", "laryngitis", "paratyphoid fever", "Lyme disease", "gonococcal urethritis", "Ureaplasma urethritis"]
 last_modified_at: 2026-11-03
-description: "Meropenem：予測新適応症は細菌性関節炎 (bacterial arthritis)（エビデンスレベル L3）。既存適応症：日本の承認情報に適応症の記載なし"
+description: "Meropenem：予測新適応症は細菌性関節炎 (bacterial arthritis)（エビデンスレベル L3）。薬価基準の品目：3 件（現在収載 3 件）"
 ---
 
 # Meropenem

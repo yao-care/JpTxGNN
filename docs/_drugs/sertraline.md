@@ -8,7 +8,7 @@ indication_count: 7
 monitor_inn: "Sertraline"
 predicted_indications: ["schizoid personality disorder", "schizotypal personality disorder", "paranoid personality disorder", "histrionic personality disorder (disease)", "benign paroxysmal torticollis of infancy", "dependent personality disorder", "narcissistic personality disorder"]
 last_modified_at: 2026-11-17
-description: "Sertraline：予測新適応症はシゾイドパーソナリティ障害 (schizoid personality disorder)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
+description: "Sertraline：予測新適応症はシゾイドパーソナリティ障害 (schizoid personality disorder)（エビデンスレベル L5）。薬価基準の品目：23 件以上"
 ---
 
 # Sertraline

@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-12
 monitor_inn: "tolvaptan"
 predicted_indications: ["renal-hepatic-pancreatic dysplasia", "karyomegalic interstitial nephritis", "thoracic malformation", "Joubert syndrome with renal defect", "adult familial nephronophthisis-spastic quadriparesia syndrome", "Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature"]
-description: "Tolvaptan：予測新適応症はRenal-hepatic-pancreatic dysplasia（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
+description: "Tolvaptan：予測新適応症はRenal-hepatic-pancreatic dysplasia（エビデンスレベル L5）。薬価基準の品目：20 件以上"
 ---
 
 # Tolvaptan

@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "zaltoprofen"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "headache disorder", "trigeminal autonomic cephalalgia", "tendinitis", "idiopathic granulomatous myositis"]
 last_modified_at: 2026-11-17
-description: "Zaltoprofen：予測新適応症は片頭痛 (migraine disorder)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
+description: "Zaltoprofen：予測新適応症は片頭痛 (migraine disorder)（エビデンスレベル L5）。薬価基準の品目：8 件（現在収載 7 件）"
 ---
 
 # Zaltoprofen

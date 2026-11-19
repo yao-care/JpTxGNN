@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-17
 monitor_inn: "Omeprazole"
 predicted_indications: ["duodenal obstruction"]
-description: "Omeprazole：予測新適応症はDuodenal obstruction（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
+description: "Omeprazole：予測新適応症はDuodenal obstruction（エビデンスレベル L5）。薬価基準の品目：20 件以上"
 ---
 
 # Omeprazole

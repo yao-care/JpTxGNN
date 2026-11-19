@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-11-17
 monitor_inn: "Sulfasalazine"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "WHIM syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis"]
-description: "Sulfasalazine：予測新適応症は合指（趾）症を伴う短指症候群 (brachydactyly-syndactyly syndrome)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
+description: "Sulfasalazine：予測新適応症は合指（趾）症を伴う短指症候群 (brachydactyly-syndactyly syndrome)（エビデンスレベル L5）。薬価基準の品目：11 件（現在収載 6 件）"
 ---
 
 # Sulfasalazine

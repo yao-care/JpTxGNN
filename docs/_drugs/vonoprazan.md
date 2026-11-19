@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-11-12
 monitor_inn: "vonoprazan"
 predicted_indications: ["peptic ulcer perforation", "hiatus hernia (disease)", "achlorhydria", "Dieulafoy lesion", "pylorospasm", "gastric dilatation", "cascade stomach", "hemorrhagic duodenitis"]
-description: "Vonoprazan：予測新適応症はPeptic ulcer perforation（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
+description: "Vonoprazan：予測新適応症はPeptic ulcer perforation（エビデンスレベル L5）。薬価基準の品目：4 件（現在収載 4 件）"
 ---
 
 # Vonoprazan

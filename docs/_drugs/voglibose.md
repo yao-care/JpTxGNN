@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-17
 monitor_inn: "Voglibose"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "autoimmune oophoritis", "diffuse alopecia areata", "IDDM 1", "Wolman disease with hypolipoproteinemia and acanthocytosis", "familial apolipoprotein C-II deficiency", "cholesteryl ester storage disease", "opsismodysplasia"]
-description: "Voglibose：予測新適応症は頭皮の単純性乏毛症 (hypotrichosis simplex of the scalp)（スコア第1位）。エビデンスのある代表候補は1型糖尿病 (hypotrichosis simplex of the scalp)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
+description: "Voglibose：予測新適応症は頭皮の単純性乏毛症 (hypotrichosis simplex of the scalp)（スコア第1位）。エビデンスのある代表候補は1型糖尿病 (hypotrichosis simplex of the scalp)（エビデンスレベル L5）。薬価基準の品目：21 件以上"
 ---
 
 # Voglibose

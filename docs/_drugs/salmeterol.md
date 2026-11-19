@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-11-03
 monitor_inn: "Salmeterol"
 predicted_indications: ["respiratory malformation", "Rienhoff syndrome", "atopic eczema"]
-description: "Salmeterol：予測新適応症は呼吸器奇形 (respiratory malformation)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
+description: "Salmeterol：予測新適応症は呼吸器奇形 (respiratory malformation)（エビデンスレベル L5）。薬価基準の品目：1 件（現在収載 1 件）"
 ---
 
 # Salmeterol

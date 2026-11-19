@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "carboplatin"
 predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "adult germ cell tumor", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "endometrial mucinous adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "endometrial mixed adenocarcinoma", "extrahepatic bile duct mucinous adenocarcinoma"]
 last_modified_at: 2026-11-17
-description: "Carboplatin：予測新適応症は直腸粘液腺癌 (rectum mucinous adenocarcinoma)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
+description: "Carboplatin：予測新適応症は直腸粘液腺癌 (rectum mucinous adenocarcinoma)（エビデンスレベル L5）。薬価基準の品目：20 件以上"
 ---
 
 # Carboplatin

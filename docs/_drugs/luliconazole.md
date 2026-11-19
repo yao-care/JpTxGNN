@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-03
 monitor_inn: "Luliconazole"
 predicted_indications: ["endothrix infectious disease", "ectothrix infectious disease"]
-description: "Luliconazole：予測新適応症は毛内菌感染症 (endothrix infectious disease)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
+description: "Luliconazole：予測新適応症は毛内菌感染症 (endothrix infectious disease)（エビデンスレベル L5）。薬価基準の品目：1 件（現在収載 1 件）"
 ---
 
 # Luliconazole

@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-17
 monitor_inn: "Spironolactone"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia"]
-description: "Spironolactone：予測新適応症はHypotrichosis simplex of the scalp（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
+description: "Spironolactone：予測新適応症はHypotrichosis simplex of the scalp（エビデンスレベル L5）。薬価基準の品目：14 件（現在収載 11 件）"
 ---
 
 # Spironolactone

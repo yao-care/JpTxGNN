@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-11-12
 monitor_inn: "Mirtazapine"
 predicted_indications: ["Ohdo syndrome and variants", "blepharophimosis - intellectual disability syndrome, Ohdo type", "benign paroxysmal torticollis of infancy"]
-description: "Mirtazapine：予測新適応症はOhdo 症候群および関連型 (Ohdo syndrome and variants)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
+description: "Mirtazapine：予測新適応症はOhdo 症候群および関連型 (Ohdo syndrome and variants)（エビデンスレベル L5）。薬価基準の品目：20 件以上"
 ---
 
 # Mirtazapine

@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "Cabergoline"
 predicted_indications: ["progeria-short stature-pigmented nevi syndrome", "pituitary cancer", "cerebral palsy, spastic quadriplegic", "glaucoma"]
 last_modified_at: 2026-10-28
-description: "Cabergoline：予測新適応症は早老症・低身長・色素性母斑症候群 (progeria-short stature-pigmented nevi syndrome)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
+description: "Cabergoline：予測新適応症は早老症・低身長・色素性母斑症候群 (progeria-short stature-pigmented nevi syndrome)（エビデンスレベル L5）。薬価基準の品目：2 件（現在収載 2 件）"
 ---
 
 # Cabergoline

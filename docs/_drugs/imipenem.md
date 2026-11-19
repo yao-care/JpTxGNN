@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "Imipenem"
 predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "sinusitis", "chronic rhinosinusitis", "typhoid fever", "chronic ethmoidal sinusitis", "paranasal sinus neoplasm (disease)", "eosinophilia-myalgia syndrome"]
 last_modified_at: 2026-11-03
-description: "Imipenem：予測新適応症はびまん性強皮症 (diffuse scleroderma)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
+description: "Imipenem：予測新適応症はびまん性強皮症 (diffuse scleroderma)（エビデンスレベル L5）。薬価基準の品目：1 件（現在収載 1 件）"
 ---
 
 # Imipenem

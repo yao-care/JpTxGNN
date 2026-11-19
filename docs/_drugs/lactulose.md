@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "Lactulose"
 predicted_indications: ["acute urate nephropathy", "nephrolithiasis", "obstructive jaundice", "bile duct disease", "biliary tract disease", "hyperphosphatemia (disease)", "exercise-induced malignant hyperthermia", "bile duct neoplasm"]
 last_modified_at: 2026-11-17
-description: "Lactulose：予測新適応症は急性尿酸性腎症 (acute urate nephropathy)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
+description: "Lactulose：予測新適応症は急性尿酸性腎症 (acute urate nephropathy)（エビデンスレベル L5）。薬価基準の品目：7 件（現在収載 5 件）"
 ---
 
 # Lactulose

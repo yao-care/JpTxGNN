@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-17
 monitor_inn: "Paclitaxel"
 predicted_indications: ["parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
-description: "Paclitaxel：予測新適応症はParameningeal embryonal rhabdomyosarcoma（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
+description: "Paclitaxel：予測新適応症はParameningeal embryonal rhabdomyosarcoma（エビデンスレベル L5）。薬価基準の品目：12 件（現在収載 6 件）"
 ---
 
 # Paclitaxel

@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-11-12
 monitor_inn: "Tiotropium"
 predicted_indications: ["respiratory malformation", "Rienhoff syndrome", "hyperlucent lung", "tracheal stenosis"]
-description: "Tiotropium：予測新適応症はRespiratory malformation（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
+description: "Tiotropium：予測新適応症はRespiratory malformation（エビデンスレベル L5）。薬価基準の品目：3 件（現在収載 3 件）"
 ---
 
 # Tiotropium

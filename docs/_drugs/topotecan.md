@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "Topotecan"
 predicted_indications: ["female breast carcinoma", "adult germ cell tumor"]
 last_modified_at: 2026-10-28
-description: "Topotecan：予測新適応症は女性乳癌 (female breast carcinoma)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
+description: "Topotecan：予測新適応症は女性乳癌 (female breast carcinoma)（エビデンスレベル L5）。薬価基準の品目：2 件（現在収載 2 件）"
 ---
 
 # Topotecan

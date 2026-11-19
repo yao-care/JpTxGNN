@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-17
 monitor_inn: "nitrazepam"
 predicted_indications: ["Wernicke-Korsakoff syndrome"]
-description: "Nitrazepam：予測新適応症はWernicke-Korsakoff syndrome（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
+description: "Nitrazepam：予測新適応症はWernicke-Korsakoff syndrome（エビデンスレベル L5）。薬価基準の品目：20 件（現在収載 16 件）"
 ---
 
 # Nitrazepam

@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-12
 monitor_inn: "naratriptan"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
-description: "Naratriptan：予測新適応症はAtrophoderma vermiculata（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
+description: "Naratriptan：予測新適応症はAtrophoderma vermiculata（エビデンスレベル L5）。薬価基準の品目：3 件（現在収載 3 件）"
 ---
 
 # Naratriptan

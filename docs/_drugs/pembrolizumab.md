@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-12
 monitor_inn: "Pembrolizumab"
 predicted_indications: ["fibromatosis, gingival", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "hamartoma of lung", "fibroma of lung", "lung benign neoplasm", "ovarioleukodystrophy", "lung germ cell tumor", "pulmonary sulcus neoplasm", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
-description: "Pembrolizumab：予測新適応症は歯肉線維腫症 (fibromatosis, gingival)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
+description: "Pembrolizumab：予測新適応症は歯肉線維腫症 (fibromatosis, gingival)（エビデンスレベル L5）。薬価基準の品目：1 件（現在収載 1 件）"
 ---
 
 # Pembrolizumab

@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "Donepezil"
 predicted_indications: ["psychogenic movement disorders", "chronic tic disorder", "primary orthostatic tremor", "benign shuddering attacks", "extrapyramidal and movement disease", "tremor-nystagmus-duodenal ulcer syndrome", "benign paroxysmal tonic upgaze of childhood with ataxia", "lingual-facial-buccal dyskinesia"]
 last_modified_at: 2026-11-17
-description: "Donepezil：予測新適応症は心因性運動障害 (psychogenic movement disorders)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
+description: "Donepezil：予測新適応症は心因性運動障害 (psychogenic movement disorders)（エビデンスレベル L5）。薬価基準の品目：20 件以上"
 ---
 
 # Donepezil

@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-11-03
 monitor_inn: "Risperidone"
 predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania"]
-description: "Risperidone：予測新適応症は進行性側弯を伴う家族性水平注視麻痺 (gaze palsy, familial horizontal, with progressive scoliosis)（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
+description: "Risperidone：予測新適応症は進行性側弯を伴う家族性水平注視麻痺 (gaze palsy, familial horizontal, with progressive scoliosis)（エビデンスレベル L5）。薬価基準の品目：20 件以上"
 ---
 
 # Risperidone

@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-11-12
 monitor_inn: "Vilanterol"
 predicted_indications: ["hyperlucent lung", "tracheal stenosis", "bronchial neoplasm (disease)", "respiratory malformation", "tracheal calcification", "laryngotracheitis"]
-description: "Vilanterol：予測新適応症はHyperlucent lung（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載なし"
+description: "Vilanterol：予測新適応症はHyperlucent lung（エビデンスレベル L5）。薬価基準の品目：6 件（現在収載 6 件）"
 ---
 
 # Vilanterol
