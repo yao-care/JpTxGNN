@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="レダコート軟膏０．１％（選） に関するニュースは？">
-<strong>レダコート軟膏０．１％（選）</strong> には現在 <strong>40 件</strong>の関連ニュースがあり、予測適応症は 8 件です。
+<strong>レダコート軟膏０．１％（選）</strong> には現在 <strong>43 件</strong>の関連ニュースがあり、予測適応症は 8 件です。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,31 @@ last_modified_at: 2026-11-20
 <p><a href="{{ '/drugs/triamcinolone/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（40 件）
+## 関連ニュース（43 件）
+
+### [定期健康診断を受けていた若い男性が、何の症状もなかったにもかかわらず、稀な縦隔腫瘍が見つかった。](https://news.google.com/rss/articles/CBMiugFBVV95cUxQTk5LLXlKMlYwWUFqQU12OHpGajJUWjR6cWJvc0FuYkZ2dVo1T0wwcGtoR2haZ19mWmVJajlmRTdvVHhOdDZPckpOemkxbWdJLVNTTkNDRTFnTEhiZEpFM096V2pOMHJaLThKclQzY25nSGtnZUVtQlNzOVV4cDlkMDNHSTVQcXpSVWlFR3RHdkFEX3M2MEpWcTVobGsxeHlkQjhja1hKelBFYU1DYS1kQmotUHprak1nTkE?oc=5)
+
+2026-11-20 <span class="news-indication-tag">腫瘍</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMiugFBVV95cUxQTk5LLXlKMlYwWUFqQU12OHpGajJUWjR6cWJvc0FuYkZ2dVo1T0wwcGtoR2haZ19mWmVJajlmRTdvVHhOdDZPckpOemkxbWdJLVNTTkNDRTFnTEhiZEpFM096V2pOMHJaLThKclQzY25nSGtnZUVtQlNzOVV4cDlkMDNHSTVQcXpSVWlFR3RHdkFEX3M2MEpWcTVobGsxeHlkQjhja1hKelBFYU1DYS1kQmotUHprak1nTkE?oc=5)
+
+---
+
+### [がんの兆候となる3つの皮膚の変化](https://news.google.com/rss/articles/CBMifkFVX3lxTE5sUm1vUWhuVE80NnZxYy1WamF6eWlya1pRZlZIZy01RkRBc2gzMDZVZ1NvRG0yaU1oQzNaLTBJZ3FzZ0pFb0NWRDczNjZHdWJ0MGp0NDR1X1gxSDZhZXBndUtYYzNoaEczU0FxWERHanAyMnRQc2lTeUgtcDJsUQ?oc=5)
+
+2026-11-20 <span class="news-indication-tag">がん</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMifkFVX3lxTE5sUm1vUWhuVE80NnZxYy1WamF6eWlya1pRZlZIZy01RkRBc2gzMDZVZ1NvRG0yaU1oQzNaLTBJZ3FzZ0pFb0NWRDczNjZHdWJ0MGp0NDR1X1gxSDZhZXBndUtYYzNoaEczU0FxWERHanAyMnRQc2lTeUgtcDJsUQ?oc=5)
+
+---
+
+### [NECら、血液の糖ペプチドをAI解析 がん早期発見技術を開発](https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xdWZYZFRfYV9YN3BoRFhPSUpVdmdSS3FaTTg4N2ZjdkNnSmNDQWkxdkpta0pySXViNm9ycEhLUmRrN0Q0LUl6WVgxNkREd1hSaXotNnhjSU9JRThLa01BUGFtZw?oc=5)
+
+2026-11-20 <span class="news-indication-tag">がん</span>
+
+出典: [株式会社インプレス](https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xdWZYZFRfYV9YN3BoRFhPSUpVdmdSS3FaTTg4N2ZjdkNnSmNDQWkxdkpta0pySXViNm9ycEhLUmRrN0Q0LUl6WVgxNkREd1hSaXotNnhjSU9JRThLa01BUGFtZw?oc=5)
+
+---
 
 ### [【闘病】「絶対に死なない」 健康診断で見つかった『乳がん』 抗がん剤8回と全摘手術へ](https://news.google.com/rss/articles/CBMiekFVX3lxTFBhVENPa09KbHBiTWpWaWlJMHN3MV81aTRXNS1YOUdKS2JwaHJpNmQzUnpfMkZXQWhBQzVMVWJnRkFQbkVZNGowdFdNRVZ3TEZtY3ZuTlpCckI2M2dhQ3JxQ3NOcVN1SS1IaVlKODl1VkU3ZzRMZlVROGx3?oc=5)
 
@@ -87,6 +111,14 @@ last_modified_at: 2026-11-20
 2026-11-19 <span class="news-indication-tag">癌</span>
 
 出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMisAFBVV95cUxOYXN5bnhCN21sWm1mNTR0dE9Jc1ZRNGx1VE45R0lKbmxiYkp0ZjdrZ25COHEyV0ZFa3RyNHliXzVTT0Z6VDZ4S1M2bjJTbkxrSHRWdGQ0bkY4NGVNejF5OVFKWVIyQ2pWVWtCVEJuRXBSd3BPMXdnVnhydmJrNUxCMUNYcGhPVHBQdWFfdDZMVmxldy00U2pKb2xoZWtGUzhZOTQ2akZ0aHpiWUwxZ2Nweg?oc=5)
+
+---
+
+### [生活習慣と健康・慢性疾患をつなぐ腸内細菌の「対照的な2つの媒介軸」を発見 ― 日本人約6,800人の大規模解析から「腸活」のエビデンスを提示 ｜関連資料・リリース](https://news.google.com/rss/articles/CBMic0FVX3lxTFBtQnZTTWRFc3pWVWJxb3FJdWE0WDhTSVJjM01CaW1TR3FkYjdIWDlmdTlIejBpdmRLWG1fcDVuaU92QVE1VWx2dXBwSXUyc29RMFZhcXhOVEQtWWlPY3JCQ1VBS3JCRGhDT1NLYTUxN1M5RHc?oc=5)
+
+2026-11-19 <span class="news-indication-tag">がん</span>
+
+出典: [保健指導リソースガイド](https://news.google.com/rss/articles/CBMic0FVX3lxTFBtQnZTTWRFc3pWVWJxb3FJdWE0WDhTSVJjM01CaW1TR3FkYjdIWDlmdTlIejBpdmRLWG1fcDVuaU92QVE1VWx2dXBwSXUyc29RMFZhcXhOVEQtWWlPY3JCQ1VBS3JCRGhDT1NLYTUxN1M5RHc?oc=5)
 
 ---
 
@@ -231,14 +263,6 @@ last_modified_at: 2026-11-20
 2026-11-16 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
 
 出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/88a4c1fa77a78697670eb7dcf3e00ed0fd317ef6?source=rss)
-
----
-
-### [HPVワクチン接種率、高１相当女子・全国1位の山形県も危機感](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKLXJObUdMR2hLNlFMLUprNUlvczVaeENyM05vMkdxeThtNWJRYmdYWDl1LU1wOVRqamRzYkhKNHVtOHg3ZzVhU3l4MjRNTnk2Wk1r?oc=5)
-
-2026-11-15 <span class="news-indication-tag">がん</span>
-
-出典: [m3.com](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKLXJObUdMR2hLNlFMLUprNUlvczVaeENyM05vMkdxeThtNWJRYmdYWDl1LU1wOVRqamRzYkhKNHVtOHg3ZzVhU3l4MjRNTnk2Wk1r?oc=5)
 
 ---
 

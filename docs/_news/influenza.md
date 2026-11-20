@@ -3,7 +3,7 @@ layout: default
 title: "インフルエンザ (influenza) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 7 件、関連医薬品 1 件。"
+description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 8 件、関連医薬品 1 件。"
 permalink: /news/influenza/
 last_modified_at: 2026-11-20
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="インフルエンザ (influenza) に関するニュースは？">
-<strong>インフルエンザ (influenza)</strong> には現在 <strong>7 件</strong>の関連ニュースと 1 件の関連医薬品があります。
+<strong>インフルエンザ (influenza)</strong> には現在 <strong>8 件</strong>の関連ニュースと 1 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ last_modified_at: 2026-11-20
 </ul>
 </div>
 
-## 関連ニュース（7 件）
+## 関連ニュース（8 件）
 
 ### [小児および成人におけるRSウイルス感染症、インフルエンザ、肺炎、その他の呼吸器疾患を予防します。](https://news.google.com/rss/articles/CBMilAFBVV95cUxQVG5rckJMcWU5Q3RiMVQ1YWlnQkxJemVKVGtOZC1ucWljSUo3VjNnalJITmdwNngyczJQV2k5WXdmSEExM0N5RzlYV1liU0dKaTRTeUJ6R2ttekpaTU9fWUVTVmc4NWtBWHQzUEozWmFqdW9GV1NlZVZwU0tBS01HNnhSaVZhNUkxcVpPcTdiZzlwSmRk?oc=5)
 
@@ -61,6 +61,14 @@ last_modified_at: 2026-11-20
 2026-11-18
 
 出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNQl9JTUdYMHhBb2pIMzFaUkVNZUVEekNWZEs5NkhIQmhwYWlXUjdjbEx2X3dncnFrRUIyeVd3b3A3M3prckVWSTZoTDNza3BRd2NrNms4ZEJkTlZHX1Fr?oc=5)
+
+---
+
+### [もうインフルエンザに罹ってしまった、それでもワクチン接種は必要](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GSHBMRElYZUlHN2F0TkxmTzVaOGZmVVduaG0zMFpkTzdhWUtUb0V0WnowYTZtZHc1WTE0U1B0SE5wcm5lN0s0OU9HU3N4Z0tsRWNxeVBoME1LQUVUNml4bEpSVlA?oc=5)
+
+2026-11-16
+
+出典: [hicbc.com](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GSHBMRElYZUlHN2F0TkxmTzVaOGZmVVduaG0zMFpkTzdhWUtUb0V0WnowYTZtZHc1WTE0U1B0SE5wcm5lN0s0OU9HU3N4Z0tsRWNxeVBoME1LQUVUNml4bEpSVlA?oc=5)
 
 ---
 

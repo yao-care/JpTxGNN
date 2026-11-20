@@ -3,7 +3,7 @@ layout: default
 title: "脳梗塞 (stroke) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "脳梗塞 (stroke) に関する健康ニュース。ニュース 8 件、関連医薬品 16 件。"
+description: "脳梗塞 (stroke) に関する健康ニュース。ニュース 9 件、関連医薬品 16 件。"
 permalink: /news/stroke/
 last_modified_at: 2026-11-20
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="脳梗塞 (stroke) に関するニュースは？">
-<strong>脳梗塞 (stroke)</strong> には現在 <strong>8 件</strong>の関連ニュースと 16 件の関連医薬品があります。
+<strong>脳梗塞 (stroke)</strong> には現在 <strong>9 件</strong>の関連ニュースと 16 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -45,13 +45,21 @@ last_modified_at: 2026-11-20
 </ul>
 </div>
 
-## 関連ニュース（8 件）
+## 関連ニュース（9 件）
 
 ### [脳梗塞後SBP＜120試験「＜130否定の結果ではない」――国循・古賀氏コメント【時流◆AHA2026ピックアップ】](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FSlJDNVpYaEFWY2RDQXBpR0F0cTQtTmliSm9LNkkwdkxqUm9yY2pSVW9xS0RTZDNpeWFia2h4eEhWU180TVhlc3psX0lIQlFLSlE?oc=5)
 
 2026-11-19
 
 出典: [m3.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FSlJDNVpYaEFWY2RDQXBpR0F0cTQtTmliSm9LNkkwdkxqUm9yY2pSVW9xS0RTZDNpeWFia2h4eEhWU180TVhlc3psX0lIQlFLSlE?oc=5)
+
+---
+
+### [レモン果汁や酢で～血糖値の急上昇を抑制（同志社大生命医科学部　八木雅之博士）～](https://news.google.com/rss/articles/CBMiTEFVX3lxTFBtelNJc1cyTmFKS1cxdHZ1Y3k2OGJETmwxRzdKR1NNbnF5R21BdHZGN3NhaF8xMElzVTJIbzZtNGJ1RHRKdm41a004UULSAVJBVV95cUxQcVJyR1Y1VC01UnlvT1UyakwzcXp6TUlnX2h0ZE5tZ0l4RXNrZlA2b0ZxaFNCcTAtYVIxTUI2OGJvcUFUN3R6ZFZxZDJCWGJWZnNR?oc=5)
+
+2026-11-19
+
+出典: [時事メディカル](https://news.google.com/rss/articles/CBMiTEFVX3lxTFBtelNJc1cyTmFKS1cxdHZ1Y3k2OGJETmwxRzdKR1NNbnF5R21BdHZGN3NhaF8xMElzVTJIbzZtNGJ1RHRKdm41a004UULSAVJBVV95cUxQcVJyR1Y1VC01UnlvT1UyakwzcXp6TUlnX2h0ZE5tZ0l4RXNrZlA2b0ZxaFNCcTAtYVIxTUI2OGJvcUFUN3R6ZFZxZDJCWGJWZnNR?oc=5)
 
 ---
 

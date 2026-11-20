@@ -3,7 +3,7 @@ layout: default
 title: "認知症 (dementia) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "認知症 (dementia) に関する健康ニュース。ニュース 32 件、関連医薬品 2 件。"
+description: "認知症 (dementia) に関する健康ニュース。ニュース 35 件、関連医薬品 2 件。"
 permalink: /news/dementia/
 last_modified_at: 2026-11-20
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="認知症 (dementia) に関するニュースは？">
-<strong>認知症 (dementia)</strong> には現在 <strong>32 件</strong>の関連ニュースと 2 件の関連医薬品があります。
+<strong>認知症 (dementia)</strong> には現在 <strong>35 件</strong>の関連ニュースと 2 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,15 @@ last_modified_at: 2026-11-20
 </ul>
 </div>
 
-## 関連ニュース（32 件）
+## 関連ニュース（35 件）
+
+### [「友人が少ない」「家族同居でも孤独感」 一人時間が長い人でも無理なくできる認知症予防のコツ（All About）](https://news.google.com/rss/articles/CBMif0FVX3lxTFBpVmpIbE9feTNQZmFzaEpITXUyTWllYkJpUE91MEY0ZUF5QWhrekJOdUstQkxkaW8wdWRxV21ITWNUQWRGLUxRTXRlZXpmcGZGQXh4aTFGc2tHWm5kSDZRelRxS1F1M1IweV9TNEVQNUZUbDZyMVdpYkZkRDRobnM?oc=5)
+
+2026-11-20
+
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBpVmpIbE9feTNQZmFzaEpITXUyTWllYkJpUE91MEY0ZUF5QWhrekJOdUstQkxkaW8wdWRxV21ITWNUQWRGLUxRTXRlZXpmcGZGQXh4aTFGc2tHWm5kSDZRelRxS1F1M1IweV9TNEVQNUZUbDZyMVdpYkZkRDRobnM?oc=5)
+
+---
 
 ### [｢AIに頼ると認知症になる｣は大間違い…医師が｢中高年こそオススメ｣という思考のヨボヨボ化を回避する習慣(プレジデントオンライン)](https://news.yahoo.co.jp/articles/b39e0af18922967dca9d6c283b077d9957da83be?source=rss)
 
@@ -46,6 +54,22 @@ last_modified_at: 2026-11-20
 2026-11-19
 
 出典: [ナショナルジオグラフィック日本版](https://news.google.com/rss/articles/CBMiY0FVX3lxTE53QVpGbzhQVnZRUWxpb2F6azlvODN3dUdHeF93N1B4Vl9Hdm5KdmpyM2lLSjRhdkhmTFZWMkxqRnFtRDIxTXVhZEgyOU1xUFctYmNsc1daR0xxeWIxUVpuTDJyWQ?oc=5)
+
+---
+
+### [レモン果汁や酢で～血糖値の急上昇を抑制（同志社大生命医科学部　八木雅之博士）～](https://news.google.com/rss/articles/CBMiTEFVX3lxTFBtelNJc1cyTmFKS1cxdHZ1Y3k2OGJETmwxRzdKR1NNbnF5R21BdHZGN3NhaF8xMElzVTJIbzZtNGJ1RHRKdm41a004UULSAVJBVV95cUxQcVJyR1Y1VC01UnlvT1UyakwzcXp6TUlnX2h0ZE5tZ0l4RXNrZlA2b0ZxaFNCcTAtYVIxTUI2OGJvcUFUN3R6ZFZxZDJCWGJWZnNR?oc=5)
+
+2026-11-19
+
+出典: [時事メディカル](https://news.google.com/rss/articles/CBMiTEFVX3lxTFBtelNJc1cyTmFKS1cxdHZ1Y3k2OGJETmwxRzdKR1NNbnF5R21BdHZGN3NhaF8xMElzVTJIbzZtNGJ1RHRKdm41a004UULSAVJBVV95cUxQcVJyR1Y1VC01UnlvT1UyakwzcXp6TUlnX2h0ZE5tZ0l4RXNrZlA2b0ZxaFNCcTAtYVIxTUI2OGJvcUFUN3R6ZFZxZDJCWGJWZnNR?oc=5)
+
+---
+
+### [「うっかり昼寝」が続くのは認知症の前ぶれ？ 記憶の衰えより先に現れる「サイン」（クーリエ・ジャポン）](https://news.google.com/rss/articles/CBMif0FVX3lxTE82djNHcWxsRl9RM1NmUXdhSkdtbTBqUlJyRngyb1NaY01SSVRFMC1IRjdVTFFrTkhmY0txZGJMYmY4MVJBYXZQb2thZGI1TjY1X09vMzIwaEZlSkRsZDk4TzhkU0VPZWlIVkxCOGFtc0RaUGxtNVZsMmtZTGpsVzQ?oc=5)
+
+2026-11-19
+
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE82djNHcWxsRl9RM1NmUXdhSkdtbTBqUlJyRngyb1NaY01SSVRFMC1IRjdVTFFrTkhmY0txZGJMYmY4MVJBYXZQb2thZGI1TjY1X09vMzIwaEZlSkRsZDk4TzhkU0VPZWlIVkxCOGFtc0RaUGxtNVZsMmtZTGpsVzQ?oc=5)
 
 ---
 

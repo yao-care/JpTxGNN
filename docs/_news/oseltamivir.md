@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="タミフルドライシロップ３％（選） に関するニュースは？">
-<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>9 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>10 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ last_modified_at: 2026-11-20
 <p><a href="{{ '/drugs/oseltamivir/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（9 件）
+## 関連ニュース（10 件）
 
 ### [小児および成人におけるRSウイルス感染症、インフルエンザ、肺炎、その他の呼吸器疾患を予防します。](https://news.google.com/rss/articles/CBMilAFBVV95cUxQVG5rckJMcWU5Q3RiMVQ1YWlnQkxJemVKVGtOZC1ucWljSUo3VjNnalJITmdwNngyczJQV2k5WXdmSEExM0N5RzlYV1liU0dKaTRTeUJ6R2ttekpaTU9fWUVTVmc4NWtBWHQzUEozWmFqdW9GV1NlZVZwU0tBS01HNnhSaVZhNUkxcVpPcTdiZzlwSmRk?oc=5)
 
@@ -69,6 +69,14 @@ last_modified_at: 2026-11-20
 2026-11-18 <span class="news-indication-tag">肺炎</span>
 
 出典: [厚生労働省](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfMHhDRXhOSU1ZTmxjdGl6ai1rT0ZGdWhJejBLbHRtWTd5UWlzdkJmVFF6MXFFWXZoU1pCNXR1eW52YmpINk11OVRyRi1oR25XREQ4ejEtT3Y?oc=5)
+
+---
+
+### [もうインフルエンザに罹ってしまった、それでもワクチン接種は必要](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GSHBMRElYZUlHN2F0TkxmTzVaOGZmVVduaG0zMFpkTzdhWUtUb0V0WnowYTZtZHc1WTE0U1B0SE5wcm5lN0s0OU9HU3N4Z0tsRWNxeVBoME1LQUVUNml4bEpSVlA?oc=5)
+
+2026-11-16 <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [hicbc.com](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GSHBMRElYZUlHN2F0TkxmTzVaOGZmVVduaG0zMFpkTzdhWUtUb0V0WnowYTZtZHc1WTE0U1B0SE5wcm5lN0s0OU9HU3N4Z0tsRWNxeVBoME1LQUVUNml4bEpSVlA?oc=5)
 
 ---
 

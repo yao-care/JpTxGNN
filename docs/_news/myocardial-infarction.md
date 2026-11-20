@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "心臓発作 (myocardial infarction) 関連ニュース"
+title: "心筋梗塞 (myocardial infarction) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "心臓発作 (myocardial infarction) に関する健康ニュース。ニュース 2 件、関連医薬品 7 件。"
+description: "心筋梗塞 (myocardial infarction) に関する健康ニュース。ニュース 3 件、関連医薬品 7 件。"
 permalink: /news/myocardial-infarction/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
-# 心臓発作 (myocardial infarction) 関連ニュース
+# 心筋梗塞 (myocardial infarction) 関連ニュース
 
 [← ニュース一覧に戻る]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="心臓発作 (myocardial infarction) に関するニュースは？">
-<strong>心臓発作 (myocardial infarction)</strong> には現在 <strong>2 件</strong>の関連ニュースと 7 件の関連医薬品があります。
+<p class="key-answer" data-question="心筋梗塞 (myocardial infarction) に関するニュースは？">
+<strong>心筋梗塞 (myocardial infarction)</strong> には現在 <strong>3 件</strong>の関連ニュースと 7 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
-このページは「心臓発作」に関する最新の健康ニュースをまとめ、JpTxGNN データベースで予測適応症にこの疾患を含む医薬品を一覧表示します。
+このページは「心筋梗塞」に関する最新の健康ニュースをまとめ、JpTxGNN データベースで予測適応症にこの疾患を含む医薬品を一覧表示します。
 </div>
 
 <div class="related-drugs-card">
@@ -36,7 +36,15 @@ last_modified_at: 2026-11-19
 </ul>
 </div>
 
-## 関連ニュース（2 件）
+## 関連ニュース（3 件）
+
+### [レモン果汁や酢で～血糖値の急上昇を抑制（同志社大生命医科学部　八木雅之博士）～](https://news.google.com/rss/articles/CBMiTEFVX3lxTFBtelNJc1cyTmFKS1cxdHZ1Y3k2OGJETmwxRzdKR1NNbnF5R21BdHZGN3NhaF8xMElzVTJIbzZtNGJ1RHRKdm41a004UULSAVJBVV95cUxQcVJyR1Y1VC01UnlvT1UyakwzcXp6TUlnX2h0ZE5tZ0l4RXNrZlA2b0ZxaFNCcTAtYVIxTUI2OGJvcUFUN3R6ZFZxZDJCWGJWZnNR?oc=5)
+
+2026-11-19
+
+出典: [時事メディカル](https://news.google.com/rss/articles/CBMiTEFVX3lxTFBtelNJc1cyTmFKS1cxdHZ1Y3k2OGJETmwxRzdKR1NNbnF5R21BdHZGN3NhaF8xMElzVTJIbzZtNGJ1RHRKdm41a004UULSAVJBVV95cUxQcVJyR1Y1VC01UnlvT1UyakwzcXp6TUlnX2h0ZE5tZ0l4RXNrZlA2b0ZxaFNCcTAtYVIxTUI2OGJvcUFUN3R6ZFZxZDJCWGJWZnNR?oc=5)
+
+---
 
 ### [100歳以上の長寿者の腸内に共通点、健康長寿のカギは腸内細菌？](https://news.google.com/rss/articles/CBMiR0FVX3lxTE5Ga1dTdWd5VHZfcDI4OUNyTm5qWjB5bzQ4UXcwM0FQVkZvSnZ6ZjQyM2M1WnZBQWx2VkNBLUNUNDBEWWNTdjA0?oc=5)
 
