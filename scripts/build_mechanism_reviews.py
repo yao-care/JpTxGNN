@@ -99,7 +99,7 @@ def is_na(sentence):
     return bool(KW.search(s) and DATA.search(s) and NEG.search(s))
 
 
-def find_claim(text):
+def find_claim(text, protect=()):
     """回傳 (claim, tail)：claim 是頁面上要換掉的原文（整句；英文站句首子句＋連接詞），tail 是 replacement 要接回的後半句開頭。
     只看正文章節（排除結論／下一步、安全性、摘要、總覽表、查核紀錄、免責聲明等，見 L["EXCL"]）、不看表格列與查核框。"""
     body = text.split("---", 2)[2] if text.startswith("---") else text
@@ -116,6 +116,8 @@ def find_claim(text):
             s = re.sub(r"^(?:[-*+]\s+|\d+\.\s+)", "", s)
             if not is_na(s):
                 continue
+            if any(s in x or (x and x in s) for x in protect):
+                continue  # 句子是別筆查核紀錄的更正文字或錨點，不動
             if LANG == "en":
                 m = NA_SENTENCE_EN.match(s)
                 if m:
@@ -138,6 +140,18 @@ def find_claim(text):
 def front(fm, key):
     m = re.search(rf'^{key}:\s*"?([^"\n]+)"?', fm, re.M)
     return m.group(1).strip() if m else ""
+
+
+def protected(records, fname):
+    """同頁別筆紀錄（非 mechanism）的更正文字與錨點：這些句子由那些紀錄管，作用機轉紀錄不碰。"""
+    out = []
+    for r in records:
+        if r.get("file") == fname and r.get("action") != "mechanism":
+            for k in ("replacement", "anchor"):
+                v = (r.get(k) or "").strip()
+                if len(v) >= 8:
+                    out.append(v)
+    return out
 
 
 def http_json(url, cache, key, tries=4):
@@ -540,7 +554,7 @@ def gate_errors():
     unc = unc.get("items", []) if isinstance(unc, dict) else unc
     covered = {r["file"] for r in rev if r.get("action") == "mechanism"}
     covered |= {i.get("file") for i in unc if i.get("source") == UNCERTAIN_SOURCE and i.get("status") in ("open", "unresolvable")}
-    bad = [p.name for p, t, _ in public_pages() if p.name not in covered and find_claim(t)[0]]
+    bad = [p.name for p, t, _ in public_pages() if p.name not in covered and find_claim(t, protected(rev, p.name))[0]]
     if not bad:
         return []
     return [f"公開藥物頁寫「作用機轉資料不可得」、沒有附出處的作用機轉紀錄也沒列待查 {len(bad)} 頁：{'、'.join(bad[:8])}"
@@ -566,11 +580,13 @@ def main():
     ap.add_argument("--out", help="--dry-run 時把全部新紀錄寫到這個檔")
     ap.add_argument("drugs", nargs="*")
     a = ap.parse_args()
+    rev0 = load_json(REVIEWS, {"records": []})
+    rev0 = rev0["records"] if isinstance(rev0, dict) else rev0
     targets = []
     for p, t, fm in public_pages():
         if a.drugs and p.stem not in a.drugs:
             continue
-        claim, tail = find_claim(t)
+        claim, tail = find_claim(t, protected(rev0, p.name))
         if claim:
             targets.append((p, fm, claim, tail))
     if a.list:
