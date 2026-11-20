@@ -13170,9 +13170,9 @@
    "drug": "sulpiride",
    "file": "sulpiride.md",
    "action": "mechanism",
-   "claim": "今回まとめたデータには、詳細な作用機序の記載はありません。",
-   "replacement": "ChEMBL（EMBL-EBI）に登録されている Sulpiride の作用機序（非公式訳）：「ドパミンD2受容体拮抗薬」。英語原文：\"Dopamine D2 receptor antagonist\"（[ChEMBL CHEMBL26 (sulpiride): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL26)、CC BY-SA 3.0、参照日 2026-11-19）。",
-   "summary": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
+   "claim": "今回まとめたデータには、詳細な作用機序の記載はありません。ここでの説明は薬理学的な標的情報に基づきます。",
+   "replacement": "ここでの説明は薬理学的な標的情報に基づきます。ChEMBL（EMBL-EBI）に登録されている Sulpiride の作用機序（非公式訳）：「ドパミンD2受容体拮抗薬」。英語原文：\"Dopamine D2 receptor antagonist\"（[ChEMBL CHEMBL26 (sulpiride): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL26)、CC BY-SA 3.0、参照日 2026-11-19）。",
+   "summary": "\"今回まとめたデータには、詳細な作用機序の記載はありません。ここでの説明は薬理学的な標的情報に基づきます。\" replaced with a sourced mechanism-of-action statement",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
     {
@@ -13187,13 +13187,40 @@
      "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
     }
    ],
-   "checked": "2026-11-19",
+   "checked": "2026-11-20",
    "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
    "history": [
     {
      "retired": "2026-11-20",
      "reason": "ChEMBL 譯文後補句號",
      "replacement": "ChEMBL（EMBL-EBI）に登録されている Sulpiride の作用機序（非公式訳）：「ドパミンD2受容体拮抗薬」英語原文：\"Dopamine D2 receptor antagonist\"（[ChEMBL CHEMBL26 (sulpiride): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL26)、CC BY-SA 3.0、参照日 2026-11-19）。"
+    },
+    {
+     "id": "jp-moa-20261119-sulpiride-1",
+     "drug": "sulpiride",
+     "file": "sulpiride.md",
+     "action": "mechanism",
+     "claim": "今回まとめたデータには、詳細な作用機序の記載はありません。",
+     "replacement": "ChEMBL（EMBL-EBI）に登録されている Sulpiride の作用機序（非公式訳）：「ドパミンD2受容体拮抗薬」。英語原文：\"Dopamine D2 receptor antagonist\"（[ChEMBL CHEMBL26 (sulpiride): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL26)、CC BY-SA 3.0、参照日 2026-11-19）。",
+     "summary": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
+     "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
+     "sources": [
+      {
+       "title": "ChEMBL CHEMBL26 (sulpiride): drug mechanism",
+       "url": "https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL26",
+       "accessed": "2026-11-19",
+       "excerpt": "Dopamine D2 receptor antagonist",
+       "via": "ChEMBL web services (https://www.ebi.ac.uk/chembl/api/data/docs), CC BY-SA 3.0",
+       "chembl_id": "CHEMBL26",
+       "translation": "ドパミンD2受容体拮抗薬",
+       "translation_lang": "ja",
+       "translation_note": "unofficial translation of the English excerpt (machine-assisted, 2026-11-19); the English original quoted on the page is authoritative"
+      }
+     ],
+     "checked": "2026-11-19",
+     "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+     "retired": "2026-11-20",
+     "reason": "節錄後面接著 AI 說明「上面描述的依據」的句子，會讀成美國仿單的出處；那句移到節錄前面（原文不改，只換順序）"
     }
    ]
   },

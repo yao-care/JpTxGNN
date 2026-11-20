@@ -56,7 +56,7 @@ TxGNN モデルは**網膜ジストロフィー（retinal dystrophy with or with
 
 ## この予測が妥当である理由
 
-スルピリドはドパミン D2 および D3 受容体に選択的な拮抗薬です。D4 受容体への親和性は低いとされています。ChEMBL（EMBL-EBI）に登録されている Sulpiride の作用機序（非公式訳）：「ドパミンD2受容体拮抗薬」。英語原文："Dopamine D2 receptor antagonist"（[ChEMBL CHEMBL26 (sulpiride): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL26)、CC BY-SA 3.0、参照日 2026-11-19）。ここでの説明は薬理学的な標的情報に基づきます。
+スルピリドはドパミン D2 および D3 受容体に選択的な拮抗薬です。D4 受容体への親和性は低いとされています。ここでの説明は薬理学的な標的情報に基づきます。ChEMBL（EMBL-EBI）に登録されている Sulpiride の作用機序（非公式訳）：「ドパミンD2受容体拮抗薬」。英語原文："Dopamine D2 receptor antagonist"（[ChEMBL CHEMBL26 (sulpiride): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL26)、CC BY-SA 3.0、参照日 2026-11-19）。
 
 網膜ではドパミン D2 様受容体の信号が神経節細胞の光応答を調節しています。網膜色素変性のモデルであるP23Hラットでは、スルピリドなどの D2 拮抗薬が、神経節細胞の光感受性を高める可能性が示されています。また、異常な長潜時の ON 型細胞を OFF 型細胞に変える可能性も示されています。
 
@@ -127,7 +127,7 @@ TxGNN モデルは**網膜ジストロフィー（retinal dystrophy with or with
 |------|------|------|------|
 | 2026-11-06 | 削除：「現在、有効な承認はなく、20 件すべてが承認整理済みです」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-06 | 削除：「承認整理済みの経緯を含む」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え（2026-11-20 改訂、旧版は記録に保存） | [ChEMBL CHEMBL26 (sulpiride): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL26) |
+| 2026-11-20 | "今回まとめたデータには、詳細な作用機序の記載はありません。ここでの説明は薬理学的な標的情報に基づきます。" replaced with a sourced mechanism-of-action statement | 作用機序データがないとする記述を、出典付きの抜粋に置き換え（2026-11-20 改訂、旧版は記録に保存） | [ChEMBL CHEMBL26 (sulpiride): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL26) |
 
 <!-- review:end log -->
 
