@@ -73,11 +73,18 @@ if __name__ == "__main__":
     # 2026-11-19：說明頁／證據等級頁的資料檔跟著重算（scripts/local_facts.py；--check 時不跑）
     import atexit as _lf_ax, os as _lf_os, subprocess as _lf_sp, sys as _lf_sys
     _lf_here = _lf_os.path.dirname(_lf_os.path.abspath(__file__))  # 先算好：atexit 時 __main__ 的 __file__ 已不在（NameError，2026-11-19 修）
-    _lf_ax.register(lambda: "--check" in _lf_sys.argv or _lf_sp.run([_lf_sys.executable, _lf_os.path.join(_lf_here, "local_facts.py"), "--write"]))
+    _lf_fail = []  # 2026-11-20：結尾自動重算的回傳值以前被丟掉，失敗不會被發現；現在失敗會印 ✗ 並讓整支 exit 1
+    def _lf_chk(r, what):
+        if r.returncode:
+            print(f"  ✗ 結尾自動重算失敗：{what}（exit {r.returncode}）", file=_lf_sys.stderr)
+            _lf_fail.append(what)
+        return r
+    _lf_ax.register(lambda: _lf_fail and (_lf_sys.stdout.flush(), _lf_os._exit(1)))  # 最先註冊＝最後執行
+    _lf_ax.register(lambda: "--check" in _lf_sys.argv or _lf_chk(_lf_sp.run([_lf_sys.executable, _lf_os.path.join(_lf_here, "local_facts.py"), "--write"]), "local_facts.py --write"))
     # 2026-11-19：藥物頁 description 句尾依許可證快照事實層重算（tools/txgnn/.claude/drug_meta_description.py；--check 時不跑）
     _dl_root = _lf_os.path.dirname(_lf_os.path.dirname(_lf_os.path.abspath(__file__)))
     _dl_p = _lf_os.path.join(_dl_root, "tools", "txgnn", ".claude", "drug_meta_description.py")
-    _lf_ax.register(lambda: "--check" in _lf_sys.argv or not _lf_os.path.exists(_dl_p) or _lf_sp.run([_lf_sys.executable, _dl_p, "--apply", "--root", _dl_root]))
+    _lf_ax.register(lambda: "--check" in _lf_sys.argv or not _lf_os.path.exists(_dl_p) or _lf_chk(_lf_sp.run([_lf_sys.executable, _dl_p, "--apply", "--root", _dl_root]), "drug_meta_description.py --apply"))
     a = sys.argv[1:]
     ws = a[a.index("--ws") + 1]
     tag = a[a.index("--release-tag") + 1] if "--release-tag" in a else ""

@@ -129,8 +129,8 @@ def extract_indication_count(content: str, bundle_path: Path) -> int:
                             _KNOWN_USE_FILTER = importlib.util.module_from_spec(kspec); kspec.loader.exec_module(_KNOWN_USE_FILTER)
                         names = _KNOWN_USE_FILTER.kept_predictions(bundle_path.parents[3], bundle)  # 含 0.99 門檻
                     return len(names)
-        except Exception:
-            pass
+        except (OSError, json.JSONDecodeError) as e:  # 2026-11-20：以前靜默回 0，讀壞的證據包會被當成沒有預測
+            raise SystemExit(f"✗ 證據包讀不到：{bundle_path}（{e}）")
     return 0
 
 
@@ -143,8 +143,8 @@ def extra_front_matter(bundle_path: Path, evidence_level: str, indication_count:
         try:
             with open(bundle_path, encoding="utf-8") as f:
                 bundle = json.load(f)
-        except Exception:
-            bundle = None
+        except (OSError, json.JSONDecodeError) as e:  # 2026-11-20：以前靜默當成沒有證據包，頁面會被改成 noindex
+            raise SystemExit(f"✗ 證據包讀不到：{bundle_path}（{e}）")
     drug = (bundle or {}).get("drug") or {}
     names = [p.get("disease_name", "").strip() for p in (drug.get("predicted_indications") or [])]
     names = [n for n in names if n][:10]

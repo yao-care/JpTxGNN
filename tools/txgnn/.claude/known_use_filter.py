@@ -341,8 +341,8 @@ def build_license_cache():
         for b in proj.glob("data/bundles/*/drug_bundle.json"):
             try:
                 bd = json.loads(b.read_text(encoding="utf-8"))
-            except Exception:
-                continue
+            except (OSError, ValueError) as e:  # 2026-11-20：以前靜默略過，讀壞的證據包的許可證適應症會從已知用途少掉
+                raise SystemExit(f"✗ 證據包讀不到：{b}（{e}）")
             db = (bd.get("drug") or {}).get("drugbank_id")
             if db:
                 out.setdefault(db, set()).update(license_terms(proj, bd))
