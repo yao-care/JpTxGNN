@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "リリカＯＤ錠１５０ｍｇ（選） に関する健康ニュース。予測適応症 6 件。"
 permalink: /news/pregabalin/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
 # リリカＯＤ錠１５０ｍｇ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="リリカＯＤ錠１５０ｍｇ（選） に関するニュースは？">
-<strong>リリカＯＤ錠１５０ｍｇ（選）</strong> には現在 <strong>3 件</strong>の関連ニュースがあり、予測適応症は 6 件です。
+<strong>リリカＯＤ錠１５０ｍｇ（選）</strong> には現在 <strong>4 件</strong>の関連ニュースがあり、予測適応症は 6 件です。
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,7 @@ last_modified_at: 2026-11-19
 <p><a href="{{ '/drugs/pregabalin/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（3 件）
+## 関連ニュース（4 件）
 
 ### [心臓病患者に尋ねるべき4つのワクチン](https://news.google.com/rss/articles/CBMiUkFVX3lxTE91WENLdXZTV0pFQ3ZLdjNFbnY5QlZHTnE3Qk1sY2JkMmF0STVjRkMwSHJvWEhhWUp4VFd1MzNyczlnUEdodlJwNXZudGRhcHBKNlE?oc=5)
 
@@ -61,6 +61,14 @@ last_modified_at: 2026-11-19
 2026-11-17 <span class="news-indication-tag">関節リウマチ</span> <span class="news-indication-tag">リウマチ</span>
 
 出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/8aa3c3bf7bf8dcb48de1751161a3a05be59b6f21?source=rss)
+
+---
+
+### [421: 研究の挫折を受けて、心臓病治療薬研究の未来はどうなるか｜The Readout Loud - BigGo ファイナンス](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sNTl5U1pZankyUklwVnB6TUpSXzBxcnFhUFBscng5QVBBVUlqV1pKb2VLSVlrY2xlaFhxaHN5QWpDWGZNQl9tTUJhUU53WjRfczZ0em5kbzhSN19FUkE?oc=5)
+
+2026-11-14 <span class="news-indication-tag">心臓病</span>
+
+出典: [BigGo ファイナンス](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sNTl5U1pZankyUklwVnB6TUpSXzBxcnFhUFBscng5QVBBVUlqV1pKb2VLSVlrY2xlaFhxaHN5QWpDWGZNQl9tTUJhUU53WjRfczZ0em5kbzhSN19FUkE?oc=5)
 
 ---
 

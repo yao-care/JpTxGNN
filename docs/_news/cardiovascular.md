@@ -3,9 +3,9 @@ layout: default
 title: "心血管 (cardiovascular) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "心血管 (cardiovascular) に関する健康ニュース。ニュース 4 件、関連医薬品 17 件。"
+description: "心血管 (cardiovascular) に関する健康ニュース。ニュース 5 件、関連医薬品 17 件。"
 permalink: /news/cardiovascular/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
 # 心血管 (cardiovascular) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="心血管 (cardiovascular) に関するニュースは？">
-<strong>心血管 (cardiovascular)</strong> には現在 <strong>4 件</strong>の関連ニュースと 17 件の関連医薬品があります。
+<strong>心血管 (cardiovascular)</strong> には現在 <strong>5 件</strong>の関連ニュースと 17 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -46,7 +46,15 @@ last_modified_at: 2026-11-19
 </ul>
 </div>
 
-## 関連ニュース（4 件）
+## 関連ニュース（5 件）
+
+### [脳梗塞後SBP＜120試験「＜130否定の結果ではない」――国循・古賀氏コメント【時流◆AHA2026ピックアップ】](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FSlJDNVpYaEFWY2RDQXBpR0F0cTQtTmliSm9LNkkwdkxqUm9yY2pSVW9xS0RTZDNpeWFia2h4eEhWU180TVhlc3psX0lIQlFLSlE?oc=5)
+
+2026-11-19
+
+出典: [m3.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FSlJDNVpYaEFWY2RDQXBpR0F0cTQtTmliSm9LNkkwdkxqUm9yY2pSVW9xS0RTZDNpeWFia2h4eEhWU180TVhlc3psX0lIQlFLSlE?oc=5)
+
+---
 
 ### [2型糖尿病患者の厳格な降圧が主要心血管イベントを抑制せず ブラジル・OPTIMAL-DIABETES試験](https://news.google.com/rss/articles/CBMia0FVX3lxTE5XeFJYUF92Y0t1aDFDRUhTVXpLamlFTUY0dW5VZm5WUGtncG9BeVltZEFqVG12YV9odFdCM2hiSTV4WlBtOXF2OURTN2RuX3k3UjhKR1o4NTA5VG8wcHpjRERvVGRwaXBTQlhR?oc=5)
 

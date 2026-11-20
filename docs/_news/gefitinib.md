@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "イレッサ錠２５０　２５０ｍｇ（選） に関する健康ニュース。予測適応症 9 件。"
 permalink: /news/gefitinib/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
 # イレッサ錠２５０　２５０ｍｇ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="イレッサ錠２５０　２５０ｍｇ（選） に関するニュースは？">
-<strong>イレッサ錠２５０　２５０ｍｇ（選）</strong> には現在 <strong>60 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
+<strong>イレッサ錠２５０　２５０ｍｇ（選）</strong> には現在 <strong>66 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,39 @@ last_modified_at: 2026-11-19
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（60 件）
+## 関連ニュース（66 件）
+
+### [｢AIに頼ると認知症になる｣は大間違い…医師が｢中高年こそオススメ｣という思考のヨボヨボ化を回避する習慣(プレジデントオンライン)](https://news.yahoo.co.jp/articles/b39e0af18922967dca9d6c283b077d9957da83be?source=rss)
+
+2026-11-19 <span class="news-indication-tag">認知症</span>
+
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/b39e0af18922967dca9d6c283b077d9957da83be?source=rss)
+
+---
+
+### [【実話】鼻の不調を放置→まさかの鼻腔がん？！眼球摘出のおそれまで…！体験者が強く訴える早期発見の重要性(ウォーカープラス)](https://news.yahoo.co.jp/articles/117a8c08c64e293bea05971bbbc0ae818c0f3ec7?source=rss)
+
+2026-11-19 <span class="news-indication-tag">がん</span>
+
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/117a8c08c64e293bea05971bbbc0ae818c0f3ec7?source=rss)
+
+---
+
+### [歯の喪失は認知症リスクと関連、噛む習慣や入れ歯で変わる？](https://news.google.com/rss/articles/CBMiY0FVX3lxTE53QVpGbzhQVnZRUWxpb2F6azlvODN3dUdHeF93N1B4Vl9Hdm5KdmpyM2lLSjRhdkhmTFZWMkxqRnFtRDIxTXVhZEgyOU1xUFctYmNsc1daR0xxeWIxUVpuTDJyWQ?oc=5)
+
+2026-11-19 <span class="news-indication-tag">認知症</span>
+
+出典: [ナショナルジオグラフィック日本版](https://news.google.com/rss/articles/CBMiY0FVX3lxTE53QVpGbzhQVnZRUWxpb2F6azlvODN3dUdHeF93N1B4Vl9Hdm5KdmpyM2lLSjRhdkhmTFZWMkxqRnFtRDIxTXVhZEgyOU1xUFctYmNsc1daR0xxeWIxUVpuTDJyWQ?oc=5)
+
+---
+
+### [集中力低下の症状から、グレード4の脳腫瘍が発見された。](https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZVWdIUUp0MmhDRWFhNXg2dVdkUmt1TG1lSVJQXy1lUW8zamtzOFF4WWxFbm5RTHlDQjlkSnpmcDBRMHpzRENHUHd3bzNRSjJLZEM1dWxUajlqSUxYZmo5ME1Td2E2a21jNjBoSWxrMk9tTUszZ3JyT1htZ0Y4Zw?oc=5)
+
+2026-11-19 <span class="news-indication-tag">腫瘍</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZVWdIUUp0MmhDRWFhNXg2dVdkUmt1TG1lSVJQXy1lUW8zamtzOFF4WWxFbm5RTHlDQjlkSnpmcDBRMHpzRENHUHd3bzNRSjJLZEM1dWxUajlqSUxYZmo5ME1Td2E2a21jNjBoSWxrMk9tTUszZ3JyT1htZ0Y4Zw?oc=5)
+
+---
 
 ### [タマネギやリンゴに含まれる化合物には、がん細胞の増殖を抑制する可能性がある。](https://news.google.com/rss/articles/CBMikgFBVV95cUxQNDV6dHVUM0NoM29Ed1dfdVlFOV9qN3VRMFlZeXhHRERXR3p1NTZKdnZ2Vm1WVkJmX3pOckduMUhldmNPTEh3blpKMWdKVjFZUWYxb0txdkR2YWcyVnlJc1VjTFFMWndnQWd5MVdHeGNTLWJyT1M0SW1RR2dCdkNTYnpWel92RV96SDZCU1JJRlNxUQ?oc=5)
 
@@ -120,6 +152,14 @@ last_modified_at: 2026-11-19
 2026-11-18 <span class="news-indication-tag">認知症</span> <span class="news-indication-tag">白血病</span> <span class="news-indication-tag">骨髄性白血病</span>
 
 出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/3963013d84a9926c681f71a96d5cbec62050a231?source=rss)
+
+---
+
+### [「あえて坂道を選ぶ」認知症になりにくい“スーパーエイジャー”の実態→「質の高い人間関係」と「程よいストレス」がポイント](https://news.google.com/rss/articles/CBMihwFBVV95cUxQc2o2Vkk3NHBpajBWSHVkdmhRZXBtT2ZEUXJGZTZMQWhwSjBqZThKbGNwYnR5NVlmQ2tjNjU4VFExdEZYRjhQSG4xWEU4ek96NC1Kd29kMEtRTnF6ZzR6WUJfQWFvMDQyRHIyWXJYbTFiNXRXM1d3eXRVOWtJRXpIcmZfVUpLSDQ?oc=5)
+
+2026-11-18 <span class="news-indication-tag">認知症</span>
+
+出典: [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxQc2o2Vkk3NHBpajBWSHVkdmhRZXBtT2ZEUXJGZTZMQWhwSjBqZThKbGNwYnR5NVlmQ2tjNjU4VFExdEZYRjhQSG4xWEU4ek96NC1Kd29kMEtRTnF6ZzR6WUJfQWFvMDQyRHIyWXJYbTFiNXRXM1d3eXRVOWtJRXpIcmZfVUpLSDQ?oc=5)
 
 ---
 
@@ -320,6 +360,14 @@ last_modified_at: 2026-11-19
 2026-11-15 <span class="news-indication-tag">認知症</span>
 
 出典: [JIJICO](https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxWGYzblZ1XzdRQlJ5SlpuWVJtakFWakVGU1F0R0pra0FLanRubjU3dXJWd3JDR0RCRFB0cTNJdWpQci1Pb1RwV3lROFl0eFFDMjlWMTNaTWdQdmZFd05nMkFFdUkya1Rl?oc=5)
+
+---
+
+### [80歳になった認知症研究の権威が実践する「脳の健康を保つ5つの習慣」](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MZHU0cV9FUGN5c3F5b1RxYVVUTFNLSEZwMElkNjBoajBma21LbUJzQzNTbDNaVUVVSGFvY3BUdUl3bTRpS0owbmNLa2J3ZTliMVVF?oc=5)
+
+2026-11-14 <span class="news-indication-tag">認知症</span>
+
+出典: [クーリエ・ジャポン](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MZHU0cV9FUGN5c3F5b1RxYVVUTFNLSEZwMElkNjBoajBma21LbUJzQzNTbDNaVUVVSGFvY3BUdUl3bTRpS0owbmNLa2J3ZTliMVVF?oc=5)
 
 ---
 

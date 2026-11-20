@@ -3,9 +3,9 @@ layout: default
 title: "更年期 (menopause) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "更年期 (menopause) に関する健康ニュース。ニュース 3 件、関連医薬品 2 件。"
+description: "更年期 (menopause) に関する健康ニュース。ニュース 4 件、関連医薬品 2 件。"
 permalink: /news/menopause/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
 # 更年期 (menopause) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="更年期 (menopause) に関するニュースは？">
-<strong>更年期 (menopause)</strong> には現在 <strong>3 件</strong>の関連ニュースと 2 件の関連医薬品があります。
+<strong>更年期 (menopause)</strong> には現在 <strong>4 件</strong>の関連ニュースと 2 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,15 @@ last_modified_at: 2026-11-19
 </ul>
 </div>
 
-## 関連ニュース（3 件）
+## 関連ニュース（4 件）
+
+### [朝、手がこわばる、指がギシギシする…更年期に増える「メノポハンド」。専門医が教える「温める・引っ張る・さする」ケア(婦人公論.jp)](https://news.yahoo.co.jp/articles/e09e2d330d8d1ce03500c03fb00eeaf4f8912172?source=rss)
+
+2026-11-19
+
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/e09e2d330d8d1ce03500c03fb00eeaf4f8912172?source=rss)
+
+---
 
 ### [更年期は人生の“更新”期。閉経前後の「SOS」を見逃さないために、今知っておくべき3つの健康リスク(メディカルドック)](https://news.yahoo.co.jp/articles/d812eb2e29135e8ab186fc9323b7b14d3ba2356b?source=rss)
 

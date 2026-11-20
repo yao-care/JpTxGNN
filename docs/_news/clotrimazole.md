@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "エンペシドクリーム１％（選） に関する健康ニュース。予測適応症 2 件。"
 permalink: /news/clotrimazole/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
 # エンペシドクリーム１％（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="エンペシドクリーム１％（選） に関するニュースは？">
-<strong>エンペシドクリーム１％（選）</strong> には現在 <strong>36 件</strong>の関連ニュースがあり、予測適応症は 2 件です。
+<strong>エンペシドクリーム１％（選）</strong> には現在 <strong>39 件</strong>の関連ニュースがあり、予測適応症は 2 件です。
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,31 @@ last_modified_at: 2026-11-19
 <p><a href="{{ '/drugs/clotrimazole/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（36 件）
+## 関連ニュース（39 件）
+
+### [朝、手がこわばる、指がギシギシする…更年期に増える「メノポハンド」。専門医が教える「温める・引っ張る・さする」ケア(婦人公論.jp)](https://news.yahoo.co.jp/articles/e09e2d330d8d1ce03500c03fb00eeaf4f8912172?source=rss)
+
+2026-11-19 <span class="news-indication-tag">更年期</span>
+
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/e09e2d330d8d1ce03500c03fb00eeaf4f8912172?source=rss)
+
+---
+
+### [【実話】鼻の不調を放置→まさかの鼻腔がん？！眼球摘出のおそれまで…！体験者が強く訴える早期発見の重要性(ウォーカープラス)](https://news.yahoo.co.jp/articles/117a8c08c64e293bea05971bbbc0ae818c0f3ec7?source=rss)
+
+2026-11-19 <span class="news-indication-tag">がん</span>
+
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/117a8c08c64e293bea05971bbbc0ae818c0f3ec7?source=rss)
+
+---
+
+### [集中力低下の症状から、グレード4の脳腫瘍が発見された。](https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZVWdIUUp0MmhDRWFhNXg2dVdkUmt1TG1lSVJQXy1lUW8zamtzOFF4WWxFbm5RTHlDQjlkSnpmcDBRMHpzRENHUHd3bzNRSjJLZEM1dWxUajlqSUxYZmo5ME1Td2E2a21jNjBoSWxrMk9tTUszZ3JyT1htZ0Y4Zw?oc=5)
+
+2026-11-19 <span class="news-indication-tag">腫瘍</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZVWdIUUp0MmhDRWFhNXg2dVdkUmt1TG1lSVJQXy1lUW8zamtzOFF4WWxFbm5RTHlDQjlkSnpmcDBRMHpzRENHUHd3bzNRSjJLZEM1dWxUajlqSUxYZmo5ME1Td2E2a21jNjBoSWxrMk9tTUszZ3JyT1htZ0Y4Zw?oc=5)
+
+---
 
 ### [タマネギやリンゴに含まれる化合物には、がん細胞の増殖を抑制する可能性がある。](https://news.google.com/rss/articles/CBMikgFBVV95cUxQNDV6dHVUM0NoM29Ed1dfdVlFOV9qN3VRMFlZeXhHRERXR3p1NTZKdnZ2Vm1WVkJmX3pOckduMUhldmNPTEh3blpKMWdKVjFZUWYxb0txdkR2YWcyVnlJc1VjTFFMWndnQWd5MVdHeGNTLWJyT1M0SW1RR2dCdkNTYnpWel92RV96SDZCU1JJRlNxUQ?oc=5)
 
