@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="レニベース錠１０　１０ｍｇ（選） に関するニュースは？">
-<strong>レニベース錠１０　１０ｍｇ（選）</strong> には現在 <strong>45 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>レニベース錠１０　１０ｍｇ（選）</strong> には現在 <strong>48 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ last_modified_at: 2026-11-20
 <p><a href="{{ '/drugs/enalapril/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（45 件）
+## 関連ニュース（48 件）
+
+### [【闘病】「絶対に死なない」 健康診断で見つかった『乳がん』 抗がん剤8回と全摘手術へ](https://news.google.com/rss/articles/CBMiekFVX3lxTFBhVENPa09KbHBiTWpWaWlJMHN3MV81aTRXNS1YOUdKS2JwaHJpNmQzUnpfMkZXQWhBQzVMVWJnRkFQbkVZNGowdFdNRVZ3TEZtY3ZuTlpCckI2M2dhQ3JxQ3NOcVN1SS1IaVlKODl1VkU3ZzRMZlVROGx3?oc=5)
+
+2026-11-20 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
+
+出典: [メディカルドック](https://news.google.com/rss/articles/CBMiekFVX3lxTFBhVENPa09KbHBiTWpWaWlJMHN3MV81aTRXNS1YOUdKS2JwaHJpNmQzUnpfMkZXQWhBQzVMVWJnRkFQbkVZNGowdFdNRVZ3TEZtY3ZuTlpCckI2M2dhQ3JxQ3NOcVN1SS1IaVlKODl1VkU3ZzRMZlVROGx3?oc=5)
+
+---
 
 ### [【実話】鼻の不調を放置→まさかの鼻腔がん？！眼球摘出のおそれまで…！体験者が強く訴える早期発見の重要性(ウォーカープラス)](https://news.yahoo.co.jp/articles/117a8c08c64e293bea05971bbbc0ae818c0f3ec7?source=rss)
 
@@ -88,6 +96,14 @@ last_modified_at: 2026-11-20
 
 ---
 
+### [大腸がん：医師たちがこの予期せぬ要因に注目。](https://news.google.com/rss/articles/CBMikAFBVV95cUxNWmFsTUtmMDJnWWtXSHZKeTYxN185WVZWRTgwa0lzWXh6RUFtMDBhSi1fMm93T1hhcUVQa0p5OFQ3aXRTRDZHUEJPcDl4M3lRY3hIV2Q3VlpRT0kyZHFiMnduUllOWXNCTjdPWnNBNzVCQ3hWZEVCdU1ZcVNYOHRneWl3SXRMb0dHc2lPRG5mTDg?oc=5)
+
+2026-11-19 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMikAFBVV95cUxNWmFsTUtmMDJnWWtXSHZKeTYxN185WVZWRTgwa0lzWXh6RUFtMDBhSi1fMm93T1hhcUVQa0p5OFQ3aXRTRDZHUEJPcDl4M3lRY3hIV2Q3VlpRT0kyZHFiMnduUllOWXNCTjdPWnNBNzVCQ3hWZEVCdU1ZcVNYOHRneWl3SXRMb0dHc2lPRG5mTDg?oc=5)
+
+---
+
 ### [脳出血で重篤な状態となった38歳の男性：多くの若者が軽視しがちな病気から学ぶ教訓。](https://news.google.com/rss/articles/CBMixgFBVV95cUxNckZIcG9HZHdXT3JYVmlQalJ0Vm1EaTA4Y3BLU1NlSExXYkMyWVJ5clV4VFNHVzFIdU81NkJhbjBsamgwMTR4U3d2blpQdGtzZzRfeVJCMjlFZkdkVHJSemx1NE9sLXRZWDdQSmNKNnpxbGdJeWRfN3RPdTVaOFlPMFktZzdxdkVZTkVhem5PQklxMDlHdlVyUlRGUzVkUmFaa0VWY3lKNzRYeFh6UkcyTWtDSTZmNjEzdlNQbWhRMWtpTVlGdUE?oc=5)
 
 2026-11-19 <span class="news-indication-tag">高血圧</span> <span class="news-indication-tag">脳卒中</span> <span class="news-indication-tag">脳出血</span>
@@ -141,6 +157,14 @@ last_modified_at: 2026-11-20
 2026-11-19 <span class="news-indication-tag">心臓病</span>
 
 出典: [m3.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTE91WENLdXZTV0pFQ3ZLdjNFbnY5QlZHTnE3Qk1sY2JkMmF0STVjRkMwSHJvWEhhWUp4VFd1MzNyczlnUEdodlJwNXZudGRhcHBKNlE?oc=5)
+
+---
+
+### [タバコ1日15本分に匹敵する…研究で判明した｢脳卒中リスク｣を3割超も高める定年後の"快適すぎる過ごし方" - PRESIDENT Online（プレジデントオンライン）](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fdENsUkhzcXdlbHUyWkxzVGlCU3ROZFFDSDFjZ3dPVTk3SWh5ZGpuMkIwZXlIclcySXplTldacFFxMTBQZlVKLXIyUVI0NEdIUEQtTWFzNHI?oc=5)
+
+2026-11-19 <span class="news-indication-tag">脳卒中</span>
+
+出典: [PRESIDENT Online（プレジデントオンライン）](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fdENsUkhzcXdlbHUyWkxzVGlCU3ROZFFDSDFjZ3dPVTk3SWh5ZGpuMkIwZXlIclcySXplTldacFFxMTBQZlVKLXIyUVI0NEdIUEQtTWFzNHI?oc=5)
 
 ---
 

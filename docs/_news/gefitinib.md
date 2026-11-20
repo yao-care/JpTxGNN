@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="イレッサ錠２５０　２５０ｍｇ（選） に関するニュースは？">
-<strong>イレッサ錠２５０　２５０ｍｇ（選）</strong> には現在 <strong>66 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
+<strong>イレッサ錠２５０　２５０ｍｇ（選）</strong> には現在 <strong>69 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ last_modified_at: 2026-11-20
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（66 件）
+## 関連ニュース（69 件）
+
+### [【闘病】「絶対に死なない」 健康診断で見つかった『乳がん』 抗がん剤8回と全摘手術へ](https://news.google.com/rss/articles/CBMiekFVX3lxTFBhVENPa09KbHBiTWpWaWlJMHN3MV81aTRXNS1YOUdKS2JwaHJpNmQzUnpfMkZXQWhBQzVMVWJnRkFQbkVZNGowdFdNRVZ3TEZtY3ZuTlpCckI2M2dhQ3JxQ3NOcVN1SS1IaVlKODl1VkU3ZzRMZlVROGx3?oc=5)
+
+2026-11-20 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
+
+出典: [メディカルドック](https://news.google.com/rss/articles/CBMiekFVX3lxTFBhVENPa09KbHBiTWpWaWlJMHN3MV81aTRXNS1YOUdKS2JwaHJpNmQzUnpfMkZXQWhBQzVMVWJnRkFQbkVZNGowdFdNRVZ3TEZtY3ZuTlpCckI2M2dhQ3JxQ3NOcVN1SS1IaVlKODl1VkU3ZzRMZlVROGx3?oc=5)
+
+---
 
 ### [｢AIに頼ると認知症になる｣は大間違い…医師が｢中高年こそオススメ｣という思考のヨボヨボ化を回避する習慣(プレジデントオンライン)](https://news.yahoo.co.jp/articles/b39e0af18922967dca9d6c283b077d9957da83be?source=rss)
 
@@ -107,6 +115,14 @@ last_modified_at: 2026-11-20
 
 ---
 
+### [大腸がん：医師たちがこの予期せぬ要因に注目。](https://news.google.com/rss/articles/CBMikAFBVV95cUxNWmFsTUtmMDJnWWtXSHZKeTYxN185WVZWRTgwa0lzWXh6RUFtMDBhSi1fMm93T1hhcUVQa0p5OFQ3aXRTRDZHUEJPcDl4M3lRY3hIV2Q3VlpRT0kyZHFiMnduUllOWXNCTjdPWnNBNzVCQ3hWZEVCdU1ZcVNYOHRneWl3SXRMb0dHc2lPRG5mTDg?oc=5)
+
+2026-11-19 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMikAFBVV95cUxNWmFsTUtmMDJnWWtXSHZKeTYxN185WVZWRTgwa0lzWXh6RUFtMDBhSi1fMm93T1hhcUVQa0p5OFQ3aXRTRDZHUEJPcDl4M3lRY3hIV2Q3VlpRT0kyZHFiMnduUllOWXNCTjdPWnNBNzVCQ3hWZEVCdU1ZcVNYOHRneWl3SXRMb0dHc2lPRG5mTDg?oc=5)
+
+---
+
 ### [医療ニュース速報（11月19日）：放射線治療機器の不足により、がん患者の治療遅延のリスクが高まっている。](https://news.google.com/rss/articles/CBMitAFBVV95cUxOano2V011TXZUOThPS1FKNGh5WnQ1aG5feGo5YXdwbndFWmNjdEpWM004R3RrOXZ1NEdRdVNDSUxDUDRQMmRqdkl6NmdJb3J1V0dlNldqUEJOcVUyaVdwLURPT1duS2VoR3VwNmhGVTBWMm9wNVlZZGhzNjRVWTBPa3RkZzVnN21HMkcyQ295T3JYTEhlRzQyeHVKYjZHLW5mQVl4MW55X0ZSQXMxUE9DZzVxWnU?oc=5)
 
 2026-11-19 <span class="news-indication-tag">がん</span>
@@ -168,6 +184,14 @@ last_modified_at: 2026-11-20
 2026-11-18 <span class="news-indication-tag">認知症</span>
 
 出典: [東洋経済オンライン](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GWmt3QmJkMjg0ZXdqQW8yMkVGa3o5cERjclAtYWxGWUtvM01uUGc5YTU0MUxIMVd0bHVBTW42Xy1ENE1tbWZBYlViVW5lenRRSnhaSVRiSXhXR28?oc=5)
+
+---
+
+### [「うっかり昼寝」は認知症の前ぶれ？ 記憶の衰えより先に現れる「サイン」](https://news.google.com/rss/articles/CBMiugFBVV95cUxNeGpzWm15ekVMVmNfa2FnQ3c5TVd0bmtPQkttcG9ZY3pVTTlvT1JSV0Q4NFR6cWJEVUVFLW0zRUpVbFE2MUxqcnRPT2NmdWs3MDI0Y2dkT0VOOWNPYUlQMEJVSjA1clI3Zjc5a0haQWdUWGQwNnhsTFgxdW9YX2xrdi1MMmloNmZJT01NLVhSUXBSaDRjSGsydk1kRFh5NWZUeDFyQ1Q1T3puZmI5MFk0d1ROOEE0cC1qRHc?oc=5)
+
+2026-11-18 <span class="news-indication-tag">認知症</span>
+
+出典: [クーリエ・ジャポン](https://news.google.com/rss/articles/CBMiugFBVV95cUxNeGpzWm15ekVMVmNfa2FnQ3c5TVd0bmtPQkttcG9ZY3pVTTlvT1JSV0Q4NFR6cWJEVUVFLW0zRUpVbFE2MUxqcnRPT2NmdWs3MDI0Y2dkT0VOOWNPYUlQMEJVSjA1clI3Zjc5a0haQWdUWGQwNnhsTFgxdW9YX2xrdi1MMmloNmZJT01NLVhSUXBSaDRjSGsydk1kRFh5NWZUeDFyQ1Q1T3puZmI5MFk0d1ROOEE0cC1qRHc?oc=5)
 
 ---
 

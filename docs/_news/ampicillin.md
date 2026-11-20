@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="ビクシリンＳ配合錠　（２５０ｍｇ） に関するニュースは？">
-<strong>ビクシリンＳ配合錠　（２５０ｍｇ）</strong> には現在 <strong>36 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
+<strong>ビクシリンＳ配合錠　（２５０ｍｇ）</strong> には現在 <strong>40 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,23 @@ last_modified_at: 2026-11-20
 <p><a href="{{ '/drugs/ampicillin/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（36 件）
+## 関連ニュース（40 件）
+
+### [【闘病】「絶対に死なない」 健康診断で見つかった『乳がん』 抗がん剤8回と全摘手術へ](https://news.google.com/rss/articles/CBMiekFVX3lxTFBhVENPa09KbHBiTWpWaWlJMHN3MV81aTRXNS1YOUdKS2JwaHJpNmQzUnpfMkZXQWhBQzVMVWJnRkFQbkVZNGowdFdNRVZ3TEZtY3ZuTlpCckI2M2dhQ3JxQ3NOcVN1SS1IaVlKODl1VkU3ZzRMZlVROGx3?oc=5)
+
+2026-11-20 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
+
+出典: [メディカルドック](https://news.google.com/rss/articles/CBMiekFVX3lxTFBhVENPa09KbHBiTWpWaWlJMHN3MV81aTRXNS1YOUdKS2JwaHJpNmQzUnpfMkZXQWhBQzVMVWJnRkFQbkVZNGowdFdNRVZ3TEZtY3ZuTlpCckI2M2dhQ3JxQ3NOcVN1SS1IaVlKODl1VkU3ZzRMZlVROGx3?oc=5)
+
+---
+
+### [小児および成人におけるRSウイルス感染症、インフルエンザ、肺炎、その他の呼吸器疾患を予防します。](https://news.google.com/rss/articles/CBMilAFBVV95cUxQVG5rckJMcWU5Q3RiMVQ1YWlnQkxJemVKVGtOZC1ucWljSUo3VjNnalJITmdwNngyczJQV2k5WXdmSEExM0N5RzlYV1liU0dKaTRTeUJ6R2ttekpaTU9fWUVTVmc4NWtBWHQzUEozWmFqdW9GV1NlZVZwU0tBS01HNnhSaVZhNUkxcVpPcTdiZzlwSmRk?oc=5)
+
+2026-11-20 <span class="news-indication-tag">肺炎</span> <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMilAFBVV95cUxQVG5rckJMcWU5Q3RiMVQ1YWlnQkxJemVKVGtOZC1ucWljSUo3VjNnalJITmdwNngyczJQV2k5WXdmSEExM0N5RzlYV1liU0dKaTRTeUJ6R2ttekpaTU9fWUVTVmc4NWtBWHQzUEozWmFqdW9GV1NlZVZwU0tBS01HNnhSaVZhNUkxcVpPcTdiZzlwSmRk?oc=5)
+
+---
 
 ### [【実話】鼻の不調を放置→まさかの鼻腔がん？！眼球摘出のおそれまで…！体験者が強く訴える早期発見の重要性(ウォーカープラス)](https://news.yahoo.co.jp/articles/117a8c08c64e293bea05971bbbc0ae818c0f3ec7?source=rss)
 
@@ -88,6 +104,14 @@ last_modified_at: 2026-11-20
 2026-11-19 <span class="news-indication-tag">がん</span>
 
 出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/77639b82499a45bc91bc6a78bd418ca06b1fcf5f?source=rss)
+
+---
+
+### [大腸がん：医師たちがこの予期せぬ要因に注目。](https://news.google.com/rss/articles/CBMikAFBVV95cUxNWmFsTUtmMDJnWWtXSHZKeTYxN185WVZWRTgwa0lzWXh6RUFtMDBhSi1fMm93T1hhcUVQa0p5OFQ3aXRTRDZHUEJPcDl4M3lRY3hIV2Q3VlpRT0kyZHFiMnduUllOWXNCTjdPWnNBNzVCQ3hWZEVCdU1ZcVNYOHRneWl3SXRMb0dHc2lPRG5mTDg?oc=5)
+
+2026-11-19 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMikAFBVV95cUxNWmFsTUtmMDJnWWtXSHZKeTYxN185WVZWRTgwa0lzWXh6RUFtMDBhSi1fMm93T1hhcUVQa0p5OFQ3aXRTRDZHUEJPcDl4M3lRY3hIV2Q3VlpRT0kyZHFiMnduUllOWXNCTjdPWnNBNzVCQ3hWZEVCdU1ZcVNYOHRneWl3SXRMb0dHc2lPRG5mTDg?oc=5)
 
 ---
 
@@ -192,6 +216,14 @@ last_modified_at: 2026-11-20
 2026-11-16 <span class="news-indication-tag">がん</span>
 
 出典: [日経バイオテクONLINE](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jMEVmWmtBZVFSVXQwMnozZUF5bWJfX1FVWWxUVmdIM0t4cTdmM21ORklaRzl1ZlJYNThGcFdrbEFkYmotNnVyX3NGd3FiWDlnM3pUNFdKRmdzNVhRN25YN0ZvRVdtQQ?oc=5)
+
+---
+
+### [コロナで入院きっかけに「寝たきり」も 冬に流行、高齢者は高リスク](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yTndUMHBTWDFuVm5IRjltenhJaENrNVdHSDU1ZF9qMFloWU5SS1ZHMVNybDFVcHVyQ0FCUWtvTENocTIwRlptMktzaXVmZ0dUaFFqeXA3aTFKZw?oc=5)
+
+2026-11-16 <span class="news-indication-tag">肺炎</span>
+
+出典: [北海道新聞デジタル](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yTndUMHBTWDFuVm5IRjltenhJaENrNVdHSDU1ZF9qMFloWU5SS1ZHMVNybDFVcHVyQ0FCUWtvTENocTIwRlptMktzaXVmZ0dUaFFqeXA3aTFKZw?oc=5)
 
 ---
 

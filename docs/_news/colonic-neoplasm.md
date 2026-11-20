@@ -3,9 +3,9 @@ layout: default
 title: "大腸がん (colonic neoplasm) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "大腸がん (colonic neoplasm) に関する健康ニュース。ニュース 4 件、関連医薬品 1 件。"
+description: "大腸がん (colonic neoplasm) に関する健康ニュース。ニュース 5 件、関連医薬品 1 件。"
 permalink: /news/colonic-neoplasm/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
 # 大腸がん (colonic neoplasm) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="大腸がん (colonic neoplasm) に関するニュースは？">
-<strong>大腸がん (colonic neoplasm)</strong> には現在 <strong>4 件</strong>の関連ニュースと 1 件の関連医薬品があります。
+<strong>大腸がん (colonic neoplasm)</strong> には現在 <strong>5 件</strong>の関連ニュースと 1 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ last_modified_at: 2026-11-19
 </ul>
 </div>
 
-## 関連ニュース（4 件）
+## 関連ニュース（5 件）
+
+### [大腸がん：医師たちがこの予期せぬ要因に注目。](https://news.google.com/rss/articles/CBMikAFBVV95cUxNWmFsTUtmMDJnWWtXSHZKeTYxN185WVZWRTgwa0lzWXh6RUFtMDBhSi1fMm93T1hhcUVQa0p5OFQ3aXRTRDZHUEJPcDl4M3lRY3hIV2Q3VlpRT0kyZHFiMnduUllOWXNCTjdPWnNBNzVCQ3hWZEVCdU1ZcVNYOHRneWl3SXRMb0dHc2lPRG5mTDg?oc=5)
+
+2026-11-19
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMikAFBVV95cUxNWmFsTUtmMDJnWWtXSHZKeTYxN185WVZWRTgwa0lzWXh6RUFtMDBhSi1fMm93T1hhcUVQa0p5OFQ3aXRTRDZHUEJPcDl4M3lRY3hIV2Q3VlpRT0kyZHFiMnduUllOWXNCTjdPWnNBNzVCQ3hWZEVCdU1ZcVNYOHRneWl3SXRMb0dHc2lPRG5mTDg?oc=5)
+
+---
 
 ### [酒･タバコと同じくらい危険…10年続けると｢大腸がん｣発症率が2倍に跳ね上がる､職場で毎日やっている習慣【健康リスク3選】](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBzTExtQ05ha2M0aTZPOV8zUEhnUkJGM0lCZHBRa29SWENnb2Zia2dNMXo5dkxMUnhRaWpldXJaSE1UdFhSR1RkNF9NWk1uM1djQVIyMlQ0aGREcTNlVEpQUVMtTQ?oc=5)
 

@@ -3,7 +3,7 @@ layout: default
 title: "認知症 (dementia) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "認知症 (dementia) に関する健康ニュース。ニュース 31 件、関連医薬品 2 件。"
+description: "認知症 (dementia) に関する健康ニュース。ニュース 32 件、関連医薬品 2 件。"
 permalink: /news/dementia/
 last_modified_at: 2026-11-20
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="認知症 (dementia) に関するニュースは？">
-<strong>認知症 (dementia)</strong> には現在 <strong>31 件</strong>の関連ニュースと 2 件の関連医薬品があります。
+<strong>認知症 (dementia)</strong> には現在 <strong>32 件</strong>の関連ニュースと 2 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,7 @@ last_modified_at: 2026-11-20
 </ul>
 </div>
 
-## 関連ニュース（31 件）
+## 関連ニュース（32 件）
 
 ### [｢AIに頼ると認知症になる｣は大間違い…医師が｢中高年こそオススメ｣という思考のヨボヨボ化を回避する習慣(プレジデントオンライン)](https://news.yahoo.co.jp/articles/b39e0af18922967dca9d6c283b077d9957da83be?source=rss)
 
@@ -78,6 +78,14 @@ last_modified_at: 2026-11-20
 2026-11-18
 
 出典: [東洋経済オンライン](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GWmt3QmJkMjg0ZXdqQW8yMkVGa3o5cERjclAtYWxGWUtvM01uUGc5YTU0MUxIMVd0bHVBTW42Xy1ENE1tbWZBYlViVW5lenRRSnhaSVRiSXhXR28?oc=5)
+
+---
+
+### [「うっかり昼寝」は認知症の前ぶれ？ 記憶の衰えより先に現れる「サイン」](https://news.google.com/rss/articles/CBMiugFBVV95cUxNeGpzWm15ekVMVmNfa2FnQ3c5TVd0bmtPQkttcG9ZY3pVTTlvT1JSV0Q4NFR6cWJEVUVFLW0zRUpVbFE2MUxqcnRPT2NmdWs3MDI0Y2dkT0VOOWNPYUlQMEJVSjA1clI3Zjc5a0haQWdUWGQwNnhsTFgxdW9YX2xrdi1MMmloNmZJT01NLVhSUXBSaDRjSGsydk1kRFh5NWZUeDFyQ1Q1T3puZmI5MFk0d1ROOEE0cC1qRHc?oc=5)
+
+2026-11-18
+
+出典: [クーリエ・ジャポン](https://news.google.com/rss/articles/CBMiugFBVV95cUxNeGpzWm15ekVMVmNfa2FnQ3c5TVd0bmtPQkttcG9ZY3pVTTlvT1JSV0Q4NFR6cWJEVUVFLW0zRUpVbFE2MUxqcnRPT2NmdWs3MDI0Y2dkT0VOOWNPYUlQMEJVSjA1clI3Zjc5a0haQWdUWGQwNnhsTFgxdW9YX2xrdi1MMmloNmZJT01NLVhSUXBSaDRjSGsydk1kRFh5NWZUeDFyQ1Q1T3puZmI5MFk0d1ROOEE0cC1qRHc?oc=5)
 
 ---
 
