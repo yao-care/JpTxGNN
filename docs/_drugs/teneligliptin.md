@@ -56,7 +56,7 @@ TxGNN モデルは **Opsismodysplasia（オプシスモ異形成症）** に有�
 
 ## この予測が妥当である理由
 
-ChEMBL（EMBL-EBI）に登録されている Teneligliptin の作用機序（非公式訳）：「ジペプチジルペプチダーゼIV阻害薬」英語原文："Dipeptidyl peptidase IV inhibitor"（[ChEMBL CHEMBL2147777 (teneligliptin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2147777)、CC BY-SA 3.0、参照日 2026-11-19）。既知の情報によると、テネリグリプチンは DPP-4 阻害薬で、インクレチンシグナルを増強することで 2 型糖尿病の血糖コントロールを改善します。DPP-4 のほか、DPP8 や DPP9 にも作用することが示されています。
+ChEMBL（EMBL-EBI）に登録されている Teneligliptin の作用機序（非公式訳）：「ジペプチジルペプチダーゼIV阻害薬」。英語原文："Dipeptidyl peptidase IV inhibitor"（[ChEMBL CHEMBL2147777 (teneligliptin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2147777)、CC BY-SA 3.0、参照日 2026-11-19）。既知の情報によると、テネリグリプチンは DPP-4 阻害薬で、インクレチンシグナルを増強することで 2 型糖尿病の血糖コントロールを改善します。DPP-4 のほか、DPP8 や DPP9 にも作用することが示されています。
 
 一方、Opsismodysplasia は INPPL1 (SHIP2) 変異による骨格異形成症です。DPP-4 阻害とこの経路との間に、確立した関連は見当たりません。この予測は TxGNN モデルの出力のみに基づいており、機序的な裏付けは現時点で弱いと考えられます。
 
@@ -114,7 +114,7 @@ ChEMBL（EMBL-EBI）に登録されている Teneligliptin の作用機序（非
 |------|------|------|------|
 | 2026-11-06 | 削除：「また、日本での承認は全て取消済みで、現在市販されていません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-06 | 削除：「取消済み承認の経緯の確認（再申請や他国での承認状況を含む」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [ChEMBL CHEMBL2147777 (teneligliptin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2147777) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え（2026-11-20 改訂、旧版は記録に保存） | [ChEMBL CHEMBL2147777 (teneligliptin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2147777) |
 
 <!-- review:end log -->
 

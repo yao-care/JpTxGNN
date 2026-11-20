@@ -55,7 +55,7 @@ TxGNN モデルは**腎性抗利尿ホルモン不適合分泌症候群 (nephrog
 
 ## この予測が妥当である理由
 
-ChEMBL（EMBL-EBI）に登録されている Domperidone の作用機序（非公式訳）：「ドパミンD2受容体拮抗薬」英語原文："Dopamine D2 receptor antagonist"（[ChEMBL CHEMBL219916 (domperidone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL219916)、CC BY-SA 3.0、参照日 2026-11-19）。ドンペリドンは末梢性のドパミンD2受容体拮抗薬で、D2およびD3受容体に作用することが確認されています。
+ChEMBL（EMBL-EBI）に登録されている Domperidone の作用機序（非公式訳）：「ドパミンD2受容体拮抗薬」。英語原文："Dopamine D2 receptor antagonist"（[ChEMBL CHEMBL219916 (domperidone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL219916)、CC BY-SA 3.0、参照日 2026-11-19）。ドンペリドンは末梢性のドパミンD2受容体拮抗薬で、D2およびD3受容体に作用することが確認されています。
 
 一方、この疾患は抗利尿ホルモン受容体（AVPR2）の機能獲得型の異常が原因とされています。ドンペリドンの作用とこの異常との間に、妥当と言える機序的な関連は確立されていません。したがって、今回の予測は機序面からは裏付けられておらず、慎重な解釈が必要です。
 
@@ -106,7 +106,7 @@ ChEMBL（EMBL-EBI）に登録されている Domperidone の作用機序（非�
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [ChEMBL CHEMBL219916 (domperidone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL219916) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え（2026-11-20 改訂、旧版は記録に保存） | [ChEMBL CHEMBL219916 (domperidone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL219916) |
 
 <!-- review:end log -->
 

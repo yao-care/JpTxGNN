@@ -55,7 +55,7 @@ TxGNN モデルは**頭蓋顔面円錐異形成 (craniofacial conodysplasia)** �
 
 ## この予測が妥当である理由
 
-アルファカルシドールは肝臓で水酸化されて活性型ビタミン D（カルシトリオール）になるプロドラッグです。カルシトリオールはカルシウムとリン酸の恒常性、および骨のミネラル化を調節します。ChEMBL（EMBL-EBI）に登録されている Alfacalcidol の作用機序（非公式訳）：「ビタミンD受容体作動薬」英語原文："Vitamin D receptor agonist"（[ChEMBL CHEMBL1601669 (alfacalcidol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1601669)、CC BY-SA 3.0、参照日 2026-11-19）。
+アルファカルシドールは肝臓で水酸化されて活性型ビタミン D（カルシトリオール）になるプロドラッグです。カルシトリオールはカルシウムとリン酸の恒常性、および骨のミネラル化を調節します。ChEMBL（EMBL-EBI）に登録されている Alfacalcidol の作用機序（非公式訳）：「ビタミンD受容体作動薬」。英語原文："Vitamin D receptor agonist"（[ChEMBL CHEMBL1601669 (alfacalcidol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1601669)、CC BY-SA 3.0、参照日 2026-11-19）。
 
 予測された疾患は希少な骨格形成異常症です。骨代謝を支える薬剤という点で関連づけることはできますが、この関連は TxGNN の予測にもとづく推測にとどまります。ビタミン D の補充が骨格異形成の根本的な原因を改善するとは考えにくく、機序面での裏付けは現時点では弱いといえます。
 
@@ -115,7 +115,7 @@ TxGNN モデルは**頭蓋顔面円錐異形成 (craniofacial conodysplasia)** �
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [ChEMBL CHEMBL1601669 (alfacalcidol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1601669) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え（2026-11-20 改訂、旧版は記録に保存） | [ChEMBL CHEMBL1601669 (alfacalcidol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1601669) |
 
 <!-- review:end log -->
 

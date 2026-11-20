@@ -54,7 +54,7 @@ description: "Tegafur：予測新適応症はCecum villous adenoma（エビデ�
 
 ## この予測が妥当である理由
 
-ChEMBL（EMBL-EBI）に登録されている Tegafur の作用機序（非公式訳）：「RNA阻害薬;チミジル酸合成酵素阻害薬;DNA阻害薬」英語原文："RNA inhibitor; Thymidylate synthase inhibitor; DNA inhibitor"（[ChEMBL CHEMBL20883 (tegafur): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL20883)、CC BY-SA 3.0、参照日 2026-11-19）。既知の薬理情報によると、テガフールは主に CYP2A6 で活性化される経口 5-FU プロドラッグです。代謝物がチミジル酸合成酵素を阻害し、RNA/DNA にも取り込まれます。なお、この説明はテガフールの既知の薬理に基づく推定です。
+ChEMBL（EMBL-EBI）に登録されている Tegafur の作用機序（非公式訳）：「RNA阻害薬;チミジル酸合成酵素阻害薬;DNA阻害薬」。英語原文："RNA inhibitor; Thymidylate synthase inhibitor; DNA inhibitor"（[ChEMBL CHEMBL20883 (tegafur): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL20883)、CC BY-SA 3.0、参照日 2026-11-19）。既知の薬理情報によると、テガフールは主に CYP2A6 で活性化される経口 5-FU プロドラッグです。代謝物がチミジル酸合成酵素を阻害し、RNA/DNA にも取り込まれます。なお、この説明はテガフールの既知の薬理に基づく推定です。
 
 胃癌と大腸腫瘍はどちらも消化管の腺癌で、5-FU 系の治療が標準的な基盤となっています。そのため、機序的に大腸腫瘍にも適用できる可能性があります。
 
@@ -154,7 +154,7 @@ ChEMBL（EMBL-EBI）に登録されている Tegafur の作用機序（非公式
 |------|------|------|------|
 | 2026-11-06 | 削除：「また、日本の承認は全て取消済みで、添付文書の安全性情報も取得できていません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-06 | 削除：「単剤か配合剤か、既存の承認状況（取消済み）を踏まえた開発形態の整理」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [ChEMBL CHEMBL20883 (tegafur): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL20883) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え（2026-11-20 改訂、旧版は記録に保存） | [ChEMBL CHEMBL20883 (tegafur): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL20883) |
 
 <!-- review:end log -->
 

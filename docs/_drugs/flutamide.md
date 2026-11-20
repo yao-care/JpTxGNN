@@ -56,7 +56,7 @@ TxGNN モデルは**前立腺線維腫 (fibroma of prostate)** に有効であ�
 
 ## この予測が妥当である理由
 
-ChEMBL（EMBL-EBI）に登録されている Flutamide の作用機序（非公式訳）：「アンドロゲン受容体拮抗薬」英語原文："Androgen Receptor antagonist"（[ChEMBL CHEMBL806 (flutamide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL806)、CC BY-SA 3.0、参照日 2026-11-19）。既知の情報では、フルタミドはアンドロゲン受容体を競合的に阻害する薬剤です。
+ChEMBL（EMBL-EBI）に登録されている Flutamide の作用機序（非公式訳）：「アンドロゲン受容体拮抗薬」。英語原文："Androgen Receptor antagonist"（[ChEMBL CHEMBL806 (flutamide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL806)、CC BY-SA 3.0、参照日 2026-11-19）。既知の情報では、フルタミドはアンドロゲン受容体を競合的に阻害する薬剤です。
 
 前立腺の間質組織はアンドロゲンの影響を受けるため、受容体遮断が間質由来の増殖性病変に作用する可能性は考えられます。これは機序面からの推測にすぎません。この疾患での有効性を示す臨床データや文献は、今回のデータには含まれていません。
 
@@ -120,7 +120,7 @@ ChEMBL（EMBL-EBI）に登録されている Flutamide の作用機序（非公�
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [ChEMBL CHEMBL806 (flutamide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL806) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え（2026-11-20 改訂、旧版は記録に保存） | [ChEMBL CHEMBL806 (flutamide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL806) |
 
 <!-- review:end log -->
 

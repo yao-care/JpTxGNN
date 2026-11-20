@@ -56,7 +56,7 @@ TxGNN モデルは**点状表層角結膜炎 (Punctate Epithelial Keratoconjunct
 
 ## この予測が妥当である理由
 
-ChEMBL（EMBL-EBI）に登録されている Tetracycline の作用機序（非公式訳）：「細菌70Sリボソーム阻害薬」英語原文："Bacterial 70S ribosome inhibitor"（[ChEMBL CHEMBL1440 (tetracycline): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1440)、CC BY-SA 3.0、参照日 2026-11-19）。既知の情報では、テトラサイクリンは細菌の 30S リボソームサブユニットに作用してタンパク質合成を阻害する抗生物質です。クラミジアにも活性があり、既存適応症にも結膜炎や眼瞼炎が含まれます。
+ChEMBL（EMBL-EBI）に登録されている Tetracycline の作用機序（非公式訳）：「細菌70Sリボソーム阻害薬」。英語原文："Bacterial 70S ribosome inhibitor"（[ChEMBL CHEMBL1440 (tetracycline): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1440)、CC BY-SA 3.0、参照日 2026-11-19）。既知の情報では、テトラサイクリンは細菌の 30S リボソームサブユニットに作用してタンパク質合成を阻害する抗生物質です。クラミジアにも活性があり、既存適応症にも結膜炎や眼瞼炎が含まれます。
 
 点状表層角結膜炎は、クラミジア性の濾胞性結膜炎の後に生じる例が報告されています。テトラサイクリンには抗炎症作用やマトリックスメタロプロテイナーゼ (MMP) 阻害作用もあり、眼表面の炎症に有益な可能性があります。ただし、これらは機序上の仮説であり、直接の臨床的な裏付けはまだありません。
 
@@ -128,7 +128,7 @@ ChEMBL（EMBL-EBI）に登録されている Tetracycline の作用機序（非�
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「いずれも承認は取消済みです。ほかに歯科用軟膏（承認番号 620002329）も取消済みです」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [ChEMBL CHEMBL1440 (tetracycline): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1440) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え（2026-11-20 改訂、旧版は記録に保存） | [ChEMBL CHEMBL1440 (tetracycline): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1440) |
 
 <!-- review:end log -->
 

@@ -7529,7 +7529,7 @@
    "file": "alfacalcidol.md",
    "action": "mechanism",
    "claim": "現在、詳細な作用機序データは、今回まとめたデータには含まれていません。",
-   "replacement": "ChEMBL（EMBL-EBI）に登録されている Alfacalcidol の作用機序（非公式訳）：「ビタミンD受容体作動薬」英語原文：\"Vitamin D receptor agonist\"（[ChEMBL CHEMBL1601669 (alfacalcidol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1601669)、CC BY-SA 3.0、参照日 2026-11-19）。",
+   "replacement": "ChEMBL（EMBL-EBI）に登録されている Alfacalcidol の作用機序（非公式訳）：「ビタミンD受容体作動薬」。英語原文：\"Vitamin D receptor agonist\"（[ChEMBL CHEMBL1601669 (alfacalcidol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1601669)、CC BY-SA 3.0、参照日 2026-11-19）。",
    "summary": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -7546,7 +7546,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "ChEMBL（EMBL-EBI）に登録されている Alfacalcidol の作用機序（非公式訳）：「ビタミンD受容体作動薬」英語原文：\"Vitamin D receptor agonist\"（[ChEMBL CHEMBL1601669 (alfacalcidol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1601669)、CC BY-SA 3.0、参照日 2026-11-19）。"
+    }
+   ]
   },
   {
    "id": "jp-moa-20261119-allopurinol-1",
@@ -7932,7 +7939,7 @@
    "file": "azathioprine.md",
    "action": "mechanism",
    "claim": "現在、詳細な作用機序データはありません。",
-   "replacement": "ChEMBL（EMBL-EBI）に登録されている Azathioprine の作用機序（非公式訳）：「アミドホスホリボシルトランスフェラーゼ阻害薬；DNA阻害薬」英語原文：\"Amidophosphoribosyltransferase inhibitor; DNA inhibitor\"（[ChEMBL CHEMBL1542 (azathioprine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1542)、CC BY-SA 3.0、参照日 2026-11-19）。",
+   "replacement": "ChEMBL（EMBL-EBI）に登録されている Azathioprine の作用機序（非公式訳）：「アミドホスホリボシルトランスフェラーゼ阻害薬；DNA阻害薬」。英語原文：\"Amidophosphoribosyltransferase inhibitor; DNA inhibitor\"（[ChEMBL CHEMBL1542 (azathioprine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1542)、CC BY-SA 3.0、参照日 2026-11-19）。",
    "summary": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -7949,7 +7956,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "ChEMBL（EMBL-EBI）に登録されている Azathioprine の作用機序（非公式訳）：「アミドホスホリボシルトランスフェラーゼ阻害薬；DNA阻害薬」英語原文：\"Amidophosphoribosyltransferase inhibitor; DNA inhibitor\"（[ChEMBL CHEMBL1542 (azathioprine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1542)、CC BY-SA 3.0、参照日 2026-11-19）。"
+    }
+   ]
   },
   {
    "id": "jp-moa-20261119-azithromycin-1",
@@ -8038,7 +8052,7 @@
    "file": "benzbromarone.md",
    "action": "mechanism",
    "claim": "現在、詳細な作用機序データはありません。",
-   "replacement": "ChEMBL（EMBL-EBI）に登録されている Benzbromarone の作用機序（非公式訳）：「溶質輸送体ファミリー22メンバー12阻害薬」英語原文：\"Solute carrier family 22 member 12 inhibitor\"（[ChEMBL CHEMBL388590 (benzbromarone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL388590)、CC BY-SA 3.0、参照日 2026-11-19）。",
+   "replacement": "ChEMBL（EMBL-EBI）に登録されている Benzbromarone の作用機序（非公式訳）：「溶質輸送体ファミリー22メンバー12阻害薬」。英語原文：\"Solute carrier family 22 member 12 inhibitor\"（[ChEMBL CHEMBL388590 (benzbromarone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL388590)、CC BY-SA 3.0、参照日 2026-11-19）。",
    "summary": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -8055,7 +8069,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "ChEMBL（EMBL-EBI）に登録されている Benzbromarone の作用機序（非公式訳）：「溶質輸送体ファミリー22メンバー12阻害薬」英語原文：\"Solute carrier family 22 member 12 inhibitor\"（[ChEMBL CHEMBL388590 (benzbromarone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL388590)、CC BY-SA 3.0、参照日 2026-11-19）。"
+    }
+   ]
   },
   {
    "id": "jp-moa-20261119-benzoyl_peroxide-1",
@@ -8171,7 +8192,7 @@
    "file": "blonanserin.md",
    "action": "mechanism",
    "claim": "現在、詳細な作用機序データは今回まとめたデータにはありません。",
-   "replacement": "ChEMBL（EMBL-EBI）に登録されている Blonanserin の作用機序（非公式訳）：「セロトニン2a（5-HT2a）受容体拮抗薬；ドパミンD2受容体拮抗薬；ドパミンD3受容体拮抗薬」英語原文：\"Serotonin 2a (5-HT2a) receptor antagonist; Dopamine D2 receptor antagonist; Dopamine D3 receptor antagonist\"（[ChEMBL CHEMBL178803 (blonanserin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL178803)、CC BY-SA 3.0、参照日 2026-11-19）。",
+   "replacement": "ChEMBL（EMBL-EBI）に登録されている Blonanserin の作用機序（非公式訳）：「セロトニン2a（5-HT2a）受容体拮抗薬；ドパミンD2受容体拮抗薬；ドパミンD3受容体拮抗薬」。英語原文：\"Serotonin 2a (5-HT2a) receptor antagonist; Dopamine D2 receptor antagonist; Dopamine D3 receptor antagonist\"（[ChEMBL CHEMBL178803 (blonanserin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL178803)、CC BY-SA 3.0、参照日 2026-11-19）。",
    "summary": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -8188,7 +8209,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "ChEMBL（EMBL-EBI）に登録されている Blonanserin の作用機序（非公式訳）：「セロトニン2a（5-HT2a）受容体拮抗薬；ドパミンD2受容体拮抗薬；ドパミンD3受容体拮抗薬」英語原文：\"Serotonin 2a (5-HT2a) receptor antagonist; Dopamine D2 receptor antagonist; Dopamine D3 receptor antagonist\"（[ChEMBL CHEMBL178803 (blonanserin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL178803)、CC BY-SA 3.0、参照日 2026-11-19）。"
+    }
+   ]
   },
   {
    "id": "jp-moa-20261119-bosentan-1",
@@ -8223,7 +8251,7 @@
    "file": "bromazepam.md",
    "action": "mechanism",
    "claim": "現在、詳細な作用機序データはありません。",
-   "replacement": "ChEMBL（EMBL-EBI）に登録されている Bromazepam の作用機序（非公式訳）：「GABA受容体α2サブユニット正のアロステリックモジュレーター」英語原文：\"GABA receptor alpha-2 subunit positive allosteric modulator\"（[ChEMBL CHEMBL277062 (bromazepam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL277062)、CC BY-SA 3.0、参照日 2026-11-19）。",
+   "replacement": "ChEMBL（EMBL-EBI）に登録されている Bromazepam の作用機序（非公式訳）：「GABA受容体α2サブユニット正のアロステリックモジュレーター」。英語原文：\"GABA receptor alpha-2 subunit positive allosteric modulator\"（[ChEMBL CHEMBL277062 (bromazepam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL277062)、CC BY-SA 3.0、参照日 2026-11-19）。",
    "summary": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -8240,7 +8268,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "ChEMBL（EMBL-EBI）に登録されている Bromazepam の作用機序（非公式訳）：「GABA受容体α2サブユニット正のアロステリックモジュレーター」英語原文：\"GABA receptor alpha-2 subunit positive allosteric modulator\"（[ChEMBL CHEMBL277062 (bromazepam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL277062)、CC BY-SA 3.0、参照日 2026-11-19）。"
+    }
+   ]
   },
   {
    "id": "jp-moa-20261119-bromperidol-1",
@@ -8248,7 +8283,7 @@
    "file": "bromperidol.md",
    "action": "mechanism",
    "claim": "現在、詳細な作用機序データはありません。",
-   "replacement": "ChEMBL（EMBL-EBI）に登録されている Bromperidol の作用機序（非公式訳）：「ドパミンD2受容体拮抗薬」英語原文：\"Dopamine D2 receptor antagonist\"（[ChEMBL CHEMBL28218 (bromperidol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL28218)、CC BY-SA 3.0、参照日 2026-11-19）。",
+   "replacement": "ChEMBL（EMBL-EBI）に登録されている Bromperidol の作用機序（非公式訳）：「ドパミンD2受容体拮抗薬」。英語原文：\"Dopamine D2 receptor antagonist\"（[ChEMBL CHEMBL28218 (bromperidol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL28218)、CC BY-SA 3.0、参照日 2026-11-19）。",
    "summary": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -8265,7 +8300,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "ChEMBL（EMBL-EBI）に登録されている Bromperidol の作用機序（非公式訳）：「ドパミンD2受容体拮抗薬」英語原文：\"Dopamine D2 receptor antagonist\"（[ChEMBL CHEMBL28218 (bromperidol): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL28218)、CC BY-SA 3.0、参照日 2026-11-19）。"
+    }
+   ]
   },
   {
    "id": "jp-moa-20261119-budesonide-1",
@@ -9272,7 +9314,7 @@
    "file": "domperidone.md",
    "action": "mechanism",
    "claim": "現在、詳細な作用機序データはありません。",
-   "replacement": "ChEMBL（EMBL-EBI）に登録されている Domperidone の作用機序（非公式訳）：「ドパミンD2受容体拮抗薬」英語原文：\"Dopamine D2 receptor antagonist\"（[ChEMBL CHEMBL219916 (domperidone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL219916)、CC BY-SA 3.0、参照日 2026-11-19）。",
+   "replacement": "ChEMBL（EMBL-EBI）に登録されている Domperidone の作用機序（非公式訳）：「ドパミンD2受容体拮抗薬」。英語原文：\"Dopamine D2 receptor antagonist\"（[ChEMBL CHEMBL219916 (domperidone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL219916)、CC BY-SA 3.0、参照日 2026-11-19）。",
    "summary": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -9289,7 +9331,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "ChEMBL（EMBL-EBI）に登録されている Domperidone の作用機序（非公式訳）：「ドパミンD2受容体拮抗薬」英語原文：\"Dopamine D2 receptor antagonist\"（[ChEMBL CHEMBL219916 (domperidone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL219916)、CC BY-SA 3.0、参照日 2026-11-19）。"
+    }
+   ]
   },
   {
    "id": "jp-moa-20261119-donepezil-1",
@@ -9513,7 +9562,7 @@
    "file": "ebastine.md",
    "action": "mechanism",
    "claim": "現在、詳細な作用機序データはありません。",
-   "replacement": "ChEMBL（EMBL-EBI）に登録されている Ebastine の作用機序（非公式訳）：「ヒスタミンH1受容体インバースアゴニスト」英語原文：\"Histamine H1 receptor inverse agonist\"（[ChEMBL CHEMBL305660 (ebastine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL305660)、CC BY-SA 3.0、参照日 2026-11-19）。",
+   "replacement": "ChEMBL（EMBL-EBI）に登録されている Ebastine の作用機序（非公式訳）：「ヒスタミンH1受容体インバースアゴニスト」。英語原文：\"Histamine H1 receptor inverse agonist\"（[ChEMBL CHEMBL305660 (ebastine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL305660)、CC BY-SA 3.0、参照日 2026-11-19）。",
    "summary": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -9530,7 +9579,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "ChEMBL（EMBL-EBI）に登録されている Ebastine の作用機序（非公式訳）：「ヒスタミンH1受容体インバースアゴニスト」英語原文：\"Histamine H1 receptor inverse agonist\"（[ChEMBL CHEMBL305660 (ebastine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL305660)、CC BY-SA 3.0、参照日 2026-11-19）。"
+    }
+   ]
   },
   {
    "id": "jp-moa-20261119-empagliflozin-1",
@@ -9754,7 +9810,7 @@
    "file": "estazolam.md",
    "action": "mechanism",
    "claim": "現在、詳細な作用機序データはありません。",
-   "replacement": "ChEMBL（EMBL-EBI）に登録されている Estazolam の作用機序（非公式訳）：「GABA-A受容体；陰イオンチャネル正のアロステリック調節薬」英語原文：\"GABA-A receptor; anion channel positive allosteric modulator\"（[ChEMBL CHEMBL285674 (estazolam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL285674)、CC BY-SA 3.0、参照日 2026-11-19）。",
+   "replacement": "ChEMBL（EMBL-EBI）に登録されている Estazolam の作用機序（非公式訳）：「GABA-A受容体；陰イオンチャネル正のアロステリック調節薬」。英語原文：\"GABA-A receptor; anion channel positive allosteric modulator\"（[ChEMBL CHEMBL285674 (estazolam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL285674)、CC BY-SA 3.0、参照日 2026-11-19）。",
    "summary": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -9771,7 +9827,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "ChEMBL（EMBL-EBI）に登録されている Estazolam の作用機序（非公式訳）：「GABA-A受容体；陰イオンチャネル正のアロステリック調節薬」英語原文：\"GABA-A receptor; anion channel positive allosteric modulator\"（[ChEMBL CHEMBL285674 (estazolam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL285674)、CC BY-SA 3.0、参照日 2026-11-19）。"
+    }
+   ]
   },
   {
    "id": "jp-moa-20261119-etanercept-1",
@@ -10157,7 +10220,7 @@
    "file": "flutamide.md",
    "action": "mechanism",
    "claim": "現在、詳細な作用機序データはありません。",
-   "replacement": "ChEMBL（EMBL-EBI）に登録されている Flutamide の作用機序（非公式訳）：「アンドロゲン受容体拮抗薬」英語原文：\"Androgen Receptor antagonist\"（[ChEMBL CHEMBL806 (flutamide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL806)、CC BY-SA 3.0、参照日 2026-11-19）。",
+   "replacement": "ChEMBL（EMBL-EBI）に登録されている Flutamide の作用機序（非公式訳）：「アンドロゲン受容体拮抗薬」。英語原文：\"Androgen Receptor antagonist\"（[ChEMBL CHEMBL806 (flutamide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL806)、CC BY-SA 3.0、参照日 2026-11-19）。",
    "summary": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -10174,7 +10237,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "ChEMBL（EMBL-EBI）に登録されている Flutamide の作用機序（非公式訳）：「アンドロゲン受容体拮抗薬」英語原文：\"Androgen Receptor antagonist\"（[ChEMBL CHEMBL806 (flutamide): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL806)、CC BY-SA 3.0、参照日 2026-11-19）。"
+    }
+   ]
   },
   {
    "id": "jp-moa-20261119-fluticasone-1",
@@ -10236,7 +10306,7 @@
    "file": "fusidic_acid.md",
    "action": "mechanism",
    "claim": "現在、詳細な作用機序データはありません。",
-   "replacement": "ChEMBL（EMBL-EBI）に登録されている Fusidic Acid の作用機序（非公式訳）：「伸長因子G阻害薬」英語原文：\"Elongation factor G inhibitor\"（[ChEMBL CHEMBL374975 (fusidic acid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL374975)、CC BY-SA 3.0、参照日 2026-11-19）。",
+   "replacement": "ChEMBL（EMBL-EBI）に登録されている Fusidic Acid の作用機序（非公式訳）：「伸長因子G阻害薬」。英語原文：\"Elongation factor G inhibitor\"（[ChEMBL CHEMBL374975 (fusidic acid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL374975)、CC BY-SA 3.0、参照日 2026-11-19）。",
    "summary": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -10253,7 +10323,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "ChEMBL（EMBL-EBI）に登録されている Fusidic Acid の作用機序（非公式訳）：「伸長因子G阻害薬」英語原文：\"Elongation factor G inhibitor\"（[ChEMBL CHEMBL374975 (fusidic acid): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL374975)、CC BY-SA 3.0、参照日 2026-11-19）。"
+    }
+   ]
   },
   {
    "id": "jp-moa-20261119-galantamine-1",
@@ -10612,7 +10689,7 @@
    "file": "imipenem.md",
    "action": "mechanism",
    "claim": "現在、詳細な作用機序データはありません。",
-   "replacement": "ChEMBL（EMBL-EBI）に登録されている Imipenem の作用機序（非公式訳）：「細菌のペニシリン結合タンパク質阻害薬」英語原文：\"Bacterial penicillin-binding protein inhibitor\"（[ChEMBL CHEMBL43708 (imipenem): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL43708)、CC BY-SA 3.0、参照日 2026-11-19）。",
+   "replacement": "ChEMBL（EMBL-EBI）に登録されている Imipenem の作用機序（非公式訳）：「細菌のペニシリン結合タンパク質阻害薬」。英語原文：\"Bacterial penicillin-binding protein inhibitor\"（[ChEMBL CHEMBL43708 (imipenem): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL43708)、CC BY-SA 3.0、参照日 2026-11-19）。",
    "summary": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -10629,7 +10706,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "ChEMBL（EMBL-EBI）に登録されている Imipenem の作用機序（非公式訳）：「細菌のペニシリン結合タンパク質阻害薬」英語原文：\"Bacterial penicillin-binding protein inhibitor\"（[ChEMBL CHEMBL43708 (imipenem): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL43708)、CC BY-SA 3.0、参照日 2026-11-19）。"
+    }
+   ]
   },
   {
    "id": "jp-moa-20261119-indomethacin-1",
@@ -10691,7 +10775,7 @@
    "file": "ipragliflozin.md",
    "action": "mechanism",
    "claim": "現在、詳細な作用機序データはありません。",
-   "replacement": "ChEMBL（EMBL-EBI）に登録されている Ipragliflozin の作用機序（非公式訳）：「ナトリウム/グルコース共輸送体2阻害剤」英語原文：\"Sodium/glucose cotransporter 2 inhibitor\"（[ChEMBL CHEMBL2018096 (ipragliflozin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2018096)、CC BY-SA 3.0、参照日 2026-11-19）。",
+   "replacement": "ChEMBL（EMBL-EBI）に登録されている Ipragliflozin の作用機序（非公式訳）：「ナトリウム/グルコース共輸送体2阻害剤」。英語原文：\"Sodium/glucose cotransporter 2 inhibitor\"（[ChEMBL CHEMBL2018096 (ipragliflozin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2018096)、CC BY-SA 3.0、参照日 2026-11-19）。",
    "summary": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -10708,7 +10792,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "ChEMBL（EMBL-EBI）に登録されている Ipragliflozin の作用機序（非公式訳）：「ナトリウム/グルコース共輸送体2阻害剤」英語原文：\"Sodium/glucose cotransporter 2 inhibitor\"（[ChEMBL CHEMBL2018096 (ipragliflozin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2018096)、CC BY-SA 3.0、参照日 2026-11-19）。"
+    }
+   ]
   },
   {
    "id": "jp-moa-20261119-irbesartan-1",
@@ -11283,7 +11374,7 @@
    "file": "loxoprofen.md",
    "action": "mechanism",
    "claim": "現在、詳細な作用機序データはありません。",
-   "replacement": "ChEMBL（EMBL-EBI）に登録されている Loxoprofen の作用機序（非公式訳）：「シクロオキシゲナーゼ阻害薬」英語原文：\"Cyclooxygenase inhibitor\"（[ChEMBL CHEMBL19299 (loxoprofen): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL19299)、CC BY-SA 3.0、参照日 2026-11-19）。",
+   "replacement": "ChEMBL（EMBL-EBI）に登録されている Loxoprofen の作用機序（非公式訳）：「シクロオキシゲナーゼ阻害薬」。英語原文：\"Cyclooxygenase inhibitor\"（[ChEMBL CHEMBL19299 (loxoprofen): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL19299)、CC BY-SA 3.0、参照日 2026-11-19）。",
    "summary": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -11300,7 +11391,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "ChEMBL（EMBL-EBI）に登録されている Loxoprofen の作用機序（非公式訳）：「シクロオキシゲナーゼ阻害薬」英語原文：\"Cyclooxygenase inhibitor\"（[ChEMBL CHEMBL19299 (loxoprofen): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL19299)、CC BY-SA 3.0、参照日 2026-11-19）。"
+    }
+   ]
   },
   {
    "id": "jp-moa-20261119-luliconazole-1",
@@ -11713,7 +11811,7 @@
    "file": "naftopidil.md",
    "action": "mechanism",
    "claim": "現在、詳細な作用機序データはありません。",
-   "replacement": "ChEMBL（EMBL-EBI）に登録されている Naftopidil の作用機序（非公式訳）：「α1d アドレナリン受容体拮抗薬」英語原文：\"Alpha-1d adrenergic receptor antagonist\"（[ChEMBL CHEMBL142635 (naftopidil): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL142635)、CC BY-SA 3.0、参照日 2026-11-19）。",
+   "replacement": "ChEMBL（EMBL-EBI）に登録されている Naftopidil の作用機序（非公式訳）：「α1d アドレナリン受容体拮抗薬」。英語原文：\"Alpha-1d adrenergic receptor antagonist\"（[ChEMBL CHEMBL142635 (naftopidil): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL142635)、CC BY-SA 3.0、参照日 2026-11-19）。",
    "summary": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -11730,7 +11828,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "ChEMBL（EMBL-EBI）に登録されている Naftopidil の作用機序（非公式訳）：「α1d アドレナリン受容体拮抗薬」英語原文：\"Alpha-1d adrenergic receptor antagonist\"（[ChEMBL CHEMBL142635 (naftopidil): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL142635)、CC BY-SA 3.0、参照日 2026-11-19）。"
+    }
+   ]
   },
   {
    "id": "jp-moa-20261119-naratriptan-1",
@@ -11954,7 +12059,7 @@
    "file": "ozenoxacin.md",
    "action": "mechanism",
    "claim": "現在、詳細な作用機序データはありません。",
-   "replacement": "ChEMBL（EMBL-EBI）に登録されている Ozenoxacin の作用機序（非公式訳）：「DNAジャイレース阻害剤；トポイソメラーゼIV阻害剤；DNAトポイソメラーゼIV阻害剤」英語原文：\"DNA gyrase inhibitor; Topoisomerase IV inhibitor; DNA topoisomerase IV inhibitor\"（[ChEMBL CHEMBL3990047 (ozenoxacin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3990047)、CC BY-SA 3.0、参照日 2026-11-19）。",
+   "replacement": "ChEMBL（EMBL-EBI）に登録されている Ozenoxacin の作用機序（非公式訳）：「DNAジャイレース阻害剤；トポイソメラーゼIV阻害剤；DNAトポイソメラーゼIV阻害剤」。英語原文：\"DNA gyrase inhibitor; Topoisomerase IV inhibitor; DNA topoisomerase IV inhibitor\"（[ChEMBL CHEMBL3990047 (ozenoxacin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3990047)、CC BY-SA 3.0、参照日 2026-11-19）。",
    "summary": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -11971,7 +12076,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "ChEMBL（EMBL-EBI）に登録されている Ozenoxacin の作用機序（非公式訳）：「DNAジャイレース阻害剤；トポイソメラーゼIV阻害剤；DNAトポイソメラーゼIV阻害剤」英語原文：\"DNA gyrase inhibitor; Topoisomerase IV inhibitor; DNA topoisomerase IV inhibitor\"（[ChEMBL CHEMBL3990047 (ozenoxacin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3990047)、CC BY-SA 3.0、参照日 2026-11-19）。"
+    }
+   ]
   },
   {
    "id": "jp-moa-20261119-paclitaxel-1",
@@ -13059,7 +13171,7 @@
    "file": "sulpiride.md",
    "action": "mechanism",
    "claim": "今回まとめたデータには、詳細な作用機序の記載はありません。",
-   "replacement": "ChEMBL（EMBL-EBI）に登録されている Sulpiride の作用機序（非公式訳）：「ドパミンD2受容体拮抗薬」英語原文：\"Dopamine D2 receptor antagonist\"（[ChEMBL CHEMBL26 (sulpiride): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL26)、CC BY-SA 3.0、参照日 2026-11-19）。",
+   "replacement": "ChEMBL（EMBL-EBI）に登録されている Sulpiride の作用機序（非公式訳）：「ドパミンD2受容体拮抗薬」。英語原文：\"Dopamine D2 receptor antagonist\"（[ChEMBL CHEMBL26 (sulpiride): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL26)、CC BY-SA 3.0、参照日 2026-11-19）。",
    "summary": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -13076,7 +13188,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "ChEMBL（EMBL-EBI）に登録されている Sulpiride の作用機序（非公式訳）：「ドパミンD2受容体拮抗薬」英語原文：\"Dopamine D2 receptor antagonist\"（[ChEMBL CHEMBL26 (sulpiride): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL26)、CC BY-SA 3.0、参照日 2026-11-19）。"
+    }
+   ]
   },
   {
    "id": "jp-moa-20261119-sunitinib-1",
@@ -13219,7 +13338,7 @@
    "file": "tegafur.md",
    "action": "mechanism",
    "claim": "現在、詳細な作用機序データはありません。",
-   "replacement": "ChEMBL（EMBL-EBI）に登録されている Tegafur の作用機序（非公式訳）：「RNA阻害薬;チミジル酸合成酵素阻害薬;DNA阻害薬」英語原文：\"RNA inhibitor; Thymidylate synthase inhibitor; DNA inhibitor\"（[ChEMBL CHEMBL20883 (tegafur): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL20883)、CC BY-SA 3.0、参照日 2026-11-19）。",
+   "replacement": "ChEMBL（EMBL-EBI）に登録されている Tegafur の作用機序（非公式訳）：「RNA阻害薬;チミジル酸合成酵素阻害薬;DNA阻害薬」。英語原文：\"RNA inhibitor; Thymidylate synthase inhibitor; DNA inhibitor\"（[ChEMBL CHEMBL20883 (tegafur): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL20883)、CC BY-SA 3.0、参照日 2026-11-19）。",
    "summary": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -13236,7 +13355,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "ChEMBL（EMBL-EBI）に登録されている Tegafur の作用機序（非公式訳）：「RNA阻害薬;チミジル酸合成酵素阻害薬;DNA阻害薬」英語原文：\"RNA inhibitor; Thymidylate synthase inhibitor; DNA inhibitor\"（[ChEMBL CHEMBL20883 (tegafur): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL20883)、CC BY-SA 3.0、参照日 2026-11-19）。"
+    }
+   ]
   },
   {
    "id": "jp-moa-20261119-telmisartan-1",
@@ -13298,7 +13424,7 @@
    "file": "teneligliptin.md",
    "action": "mechanism",
    "claim": "現在、詳細な作用機序データはありません。",
-   "replacement": "ChEMBL（EMBL-EBI）に登録されている Teneligliptin の作用機序（非公式訳）：「ジペプチジルペプチダーゼIV阻害薬」英語原文：\"Dipeptidyl peptidase IV inhibitor\"（[ChEMBL CHEMBL2147777 (teneligliptin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2147777)、CC BY-SA 3.0、参照日 2026-11-19）。",
+   "replacement": "ChEMBL（EMBL-EBI）に登録されている Teneligliptin の作用機序（非公式訳）：「ジペプチジルペプチダーゼIV阻害薬」。英語原文：\"Dipeptidyl peptidase IV inhibitor\"（[ChEMBL CHEMBL2147777 (teneligliptin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2147777)、CC BY-SA 3.0、参照日 2026-11-19）。",
    "summary": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -13315,7 +13441,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "ChEMBL（EMBL-EBI）に登録されている Teneligliptin の作用機序（非公式訳）：「ジペプチジルペプチダーゼIV阻害薬」英語原文：\"Dipeptidyl peptidase IV inhibitor\"（[ChEMBL CHEMBL2147777 (teneligliptin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2147777)、CC BY-SA 3.0、参照日 2026-11-19）。"
+    }
+   ]
   },
   {
    "id": "jp-moa-20261119-tetracycline-1",
@@ -13323,7 +13456,7 @@
    "file": "tetracycline.md",
    "action": "mechanism",
    "claim": "現在、詳細な作用機序データはありません。",
-   "replacement": "ChEMBL（EMBL-EBI）に登録されている Tetracycline の作用機序（非公式訳）：「細菌70Sリボソーム阻害薬」英語原文：\"Bacterial 70S ribosome inhibitor\"（[ChEMBL CHEMBL1440 (tetracycline): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1440)、CC BY-SA 3.0、参照日 2026-11-19）。",
+   "replacement": "ChEMBL（EMBL-EBI）に登録されている Tetracycline の作用機序（非公式訳）：「細菌70Sリボソーム阻害薬」。英語原文：\"Bacterial 70S ribosome inhibitor\"（[ChEMBL CHEMBL1440 (tetracycline): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1440)、CC BY-SA 3.0、参照日 2026-11-19）。",
    "summary": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -13340,7 +13473,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "ChEMBL（EMBL-EBI）に登録されている Tetracycline の作用機序（非公式訳）：「細菌70Sリボソーム阻害薬」英語原文：\"Bacterial 70S ribosome inhibitor\"（[ChEMBL CHEMBL1440 (tetracycline): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1440)、CC BY-SA 3.0、参照日 2026-11-19）。"
+    }
+   ]
   },
   {
    "id": "jp-moa-20261119-theophylline-1",
@@ -13861,7 +14001,7 @@
    "file": "vidarabine.md",
    "action": "mechanism",
    "claim": "現在、詳細な作用機序データはありません。",
-   "replacement": "ChEMBL（EMBL-EBI）に登録されている Vidarabine の作用機序（非公式訳）：「ヒトヘルペスウイルス1 DNAポリメラーゼ阻害薬」英語原文：\"Human herpesvirus 1 DNA polymerase inhibitor\"（[ChEMBL CHEMBL1090 (vidarabine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1090)、CC BY-SA 3.0、参照日 2026-11-19）。",
+   "replacement": "ChEMBL（EMBL-EBI）に登録されている Vidarabine の作用機序（非公式訳）：「ヒトヘルペスウイルス1 DNAポリメラーゼ阻害薬」。英語原文：\"Human herpesvirus 1 DNA polymerase inhibitor\"（[ChEMBL CHEMBL1090 (vidarabine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1090)、CC BY-SA 3.0、参照日 2026-11-19）。",
    "summary": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -13878,7 +14018,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "ChEMBL（EMBL-EBI）に登録されている Vidarabine の作用機序（非公式訳）：「ヒトヘルペスウイルス1 DNAポリメラーゼ阻害薬」英語原文：\"Human herpesvirus 1 DNA polymerase inhibitor\"（[ChEMBL CHEMBL1090 (vidarabine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1090)、CC BY-SA 3.0、参照日 2026-11-19）。"
+    }
+   ]
   },
   {
    "id": "jp-moa-20261119-vilanterol-1",
@@ -13913,7 +14060,7 @@
    "file": "vildagliptin.md",
    "action": "mechanism",
    "claim": "現在、詳細な作用機序データはありません。",
-   "replacement": "ChEMBL（EMBL-EBI）に登録されている Vildagliptin の作用機序（非公式訳）：「ジペプチジルペプチダーゼIV阻害薬」英語原文：\"Dipeptidyl peptidase IV inhibitor\"（[ChEMBL CHEMBL142703 (vildagliptin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL142703)、CC BY-SA 3.0、参照日 2026-11-19）。",
+   "replacement": "ChEMBL（EMBL-EBI）に登録されている Vildagliptin の作用機序（非公式訳）：「ジペプチジルペプチダーゼIV阻害薬」。英語原文：\"Dipeptidyl peptidase IV inhibitor\"（[ChEMBL CHEMBL142703 (vildagliptin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL142703)、CC BY-SA 3.0、参照日 2026-11-19）。",
    "summary": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -13930,7 +14077,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "ChEMBL（EMBL-EBI）に登録されている Vildagliptin の作用機序（非公式訳）：「ジペプチジルペプチダーゼIV阻害薬」英語原文：\"Dipeptidyl peptidase IV inhibitor\"（[ChEMBL CHEMBL142703 (vildagliptin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL142703)、CC BY-SA 3.0、参照日 2026-11-19）。"
+    }
+   ]
   },
   {
    "id": "jp-moa-20261119-vincristine-1",
@@ -13965,7 +14119,7 @@
    "file": "voglibose.md",
    "action": "mechanism",
    "claim": "現在、詳細な作用機序データはありません。",
-   "replacement": "ChEMBL（EMBL-EBI）に登録されている Voglibose の作用機序（非公式訳）：「α-グルコシダーゼ阻害薬」英語原文：\"Alpha glucosidase inhibitor\"（[ChEMBL CHEMBL476960 (voglibose): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL476960)、CC BY-SA 3.0、参照日 2026-11-19）。",
+   "replacement": "ChEMBL（EMBL-EBI）に登録されている Voglibose の作用機序（非公式訳）：「α-グルコシダーゼ阻害薬」。英語原文：\"Alpha glucosidase inhibitor\"（[ChEMBL CHEMBL476960 (voglibose): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL476960)、CC BY-SA 3.0、参照日 2026-11-19）。",
    "summary": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
    "finding": "頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，依 ChEMBL drug mechanism 表 原文節錄補上（附非官方翻譯，英文原文為準），模型預測與其他正文不動。",
    "sources": [
@@ -13982,7 +14136,14 @@
     }
    ],
    "checked": "2026-11-19",
-   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）"
+   "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+   "history": [
+    {
+     "retired": "2026-11-20",
+     "reason": "ChEMBL 譯文後補句號",
+     "replacement": "ChEMBL（EMBL-EBI）に登録されている Voglibose の作用機序（非公式訳）：「α-グルコシダーゼ阻害薬」英語原文：\"Alpha glucosidase inhibitor\"（[ChEMBL CHEMBL476960 (voglibose): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL476960)、CC BY-SA 3.0、参照日 2026-11-19）。"
+    }
+   ]
   },
   {
    "id": "jp-moa-20261119-vonoprazan-1",

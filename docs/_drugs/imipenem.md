@@ -56,7 +56,7 @@ TxGNN モデルは**びまん性強皮症 (diffuse scleroderma)** に有効で�
 
 ## この予測が妥当である理由
 
-ChEMBL（EMBL-EBI）に登録されている Imipenem の作用機序（非公式訳）：「細菌のペニシリン結合タンパク質阻害薬」英語原文："Bacterial penicillin-binding protein inhibitor"（[ChEMBL CHEMBL43708 (imipenem): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL43708)、CC BY-SA 3.0、参照日 2026-11-19）。既知の情報によると、イミペネムはペニシリン結合タンパク質に結合して細菌の細胞壁合成を阻害するカルバペネム系抗菌薬です。
+ChEMBL（EMBL-EBI）に登録されている Imipenem の作用機序（非公式訳）：「細菌のペニシリン結合タンパク質阻害薬」。英語原文："Bacterial penicillin-binding protein inhibitor"（[ChEMBL CHEMBL43708 (imipenem): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL43708)、CC BY-SA 3.0、参照日 2026-11-19）。既知の情報によると、イミペネムはペニシリン結合タンパク質に結合して細菌の細胞壁合成を阻害するカルバペネム系抗菌薬です。
 
 びまん性強皮症は、線維化と免疫異常を特徴とする自己免疫性の疾患です。イミペネムには、抗線維化作用や免疫調節作用など、強皮症に関連する既知の作用がありません。そのため、機序面から今回の予測を裏付ける根拠は見つかっていません。
 
@@ -108,7 +108,7 @@ TxGNN のスコアは高い値を示していますが、裏付けとなる研�
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [ChEMBL CHEMBL43708 (imipenem): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL43708) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え（2026-11-20 改訂、旧版は記録に保存） | [ChEMBL CHEMBL43708 (imipenem): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL43708) |
 
 <!-- review:end log -->
 

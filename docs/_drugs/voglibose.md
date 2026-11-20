@@ -56,7 +56,7 @@ TxGNN モデルの予測スコア第1位は**頭皮の単純性乏毛症 (hypotr
 
 ## この予測が妥当である理由
 
-ChEMBL（EMBL-EBI）に登録されている Voglibose の作用機序（非公式訳）：「α-グルコシダーゼ阻害薬」英語原文："Alpha glucosidase inhibitor"（[ChEMBL CHEMBL476960 (voglibose): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL476960)、CC BY-SA 3.0、参照日 2026-11-19）。既知の情報によると、ボグリボースは小腸の α-グルコシダーゼを阻害して糖質の吸収を遅らせ、食後の血糖上昇を抑える薬剤です。
+ChEMBL（EMBL-EBI）に登録されている Voglibose の作用機序（非公式訳）：「α-グルコシダーゼ阻害薬」。英語原文："Alpha glucosidase inhibitor"（[ChEMBL CHEMBL476960 (voglibose): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL476960)、CC BY-SA 3.0、参照日 2026-11-19）。既知の情報によると、ボグリボースは小腸の α-グルコシダーゼを阻害して糖質の吸収を遅らせ、食後の血糖上昇を抑える薬剤です。
 
 **第1位の乏毛症**：遺伝性の毛包疾患と α-グルコシダーゼ阻害との間に、妥当な機序的関連は見つかっていません。このスコアは TxGNN モデル（深層学習）によるもので、関連疾患間でモデルが学習した類似性を反映している可能性があり、生物学的な証拠ではありません。臨床試験も文献もありません。第3位以降の先天性乏毛症・稗粒腫、自己免疫性卵巣炎、びまん性円形脱毛症、リソソーム病や脂質代謝異常、骨異形成症なども同様で、機序的な裏づけはありません。
 
@@ -138,7 +138,7 @@ ChEMBL（EMBL-EBI）に登録されている Voglibose の作用機序（非公�
 | 2026-11-06 | 削除：「現在、有効な承認は残っておらず、20 件すべてが整理済み（取り消し・失効）です」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-06 | 削除：「日本では現行の有効な承認がなく、添付文書の警告・禁忌も未確認です」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-06 | 削除：「承認が整理済みのため」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [ChEMBL CHEMBL476960 (voglibose): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL476960) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え（2026-11-20 改訂、旧版は記録に保存） | [ChEMBL CHEMBL476960 (voglibose): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL476960) |
 
 <!-- review:end log -->
 

@@ -56,7 +56,7 @@ TxGNN モデルは**視覚性てんかん (visual epilepsy)** に有効である
 
 ## この予測が妥当である理由
 
-ChEMBL（EMBL-EBI）に登録されている Estazolam の作用機序（非公式訳）：「GABA-A受容体；陰イオンチャネル正のアロステリック調節薬」英語原文："GABA-A receptor; anion channel positive allosteric modulator"（[ChEMBL CHEMBL285674 (estazolam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL285674)、CC BY-SA 3.0、参照日 2026-11-19）。一般にベンゾジアゼピン系薬は GABA-A 受容体を介した抑制性神経伝達を増強します。この作用が、光刺激で誘発される発作（光感受性発作）の抑制にもつながる可能性があります。
+ChEMBL（EMBL-EBI）に登録されている Estazolam の作用機序（非公式訳）：「GABA-A受容体；陰イオンチャネル正のアロステリック調節薬」。英語原文："GABA-A receptor; anion channel positive allosteric modulator"（[ChEMBL CHEMBL285674 (estazolam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL285674)、CC BY-SA 3.0、参照日 2026-11-19）。一般にベンゾジアゼピン系薬は GABA-A 受容体を介した抑制性神経伝達を増強します。この作用が、光刺激で誘発される発作（光感受性発作）の抑制にもつながる可能性があります。
 
 エスタゾラムについては、動物の電撃痙攣やペンチレンテトラゾール誘発痙攣に対する抗痙攣作用を調べた研究があります。いずれもヒトでのデータではなく、視覚性てんかんそのものを対象とした研究でもありません。したがって、機序的な妥当性は推測の域にとどまります。
 
@@ -115,7 +115,7 @@ ChEMBL（EMBL-EBI）に登録されている Estazolam の作用機序（非公�
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [ChEMBL CHEMBL285674 (estazolam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL285674) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え（2026-11-20 改訂、旧版は記録に保存） | [ChEMBL CHEMBL285674 (estazolam): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL285674) |
 
 <!-- review:end log -->
 

@@ -55,7 +55,7 @@ TxGNN モデルは**コロボーマ性小眼球症－根肢近位型異形成症
 
 ## この予測が妥当である理由
 
-ChEMBL（EMBL-EBI）に登録されている Loxoprofen の作用機序（非公式訳）：「シクロオキシゲナーゼ阻害薬」英語原文："Cyclooxygenase inhibitor"（[ChEMBL CHEMBL19299 (loxoprofen): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL19299)、CC BY-SA 3.0、参照日 2026-11-19）。既知の情報によると、ロキソプロフェンは活性代謝物（trans-アルコール体）を介して COX を非選択的に阻害する NSAID です。関節リウマチでは、プロスタグランジン産生を抑えることで炎症と痛みを和らげます。
+ChEMBL（EMBL-EBI）に登録されている Loxoprofen の作用機序（非公式訳）：「シクロオキシゲナーゼ阻害薬」。英語原文："Cyclooxygenase inhibitor"（[ChEMBL CHEMBL19299 (loxoprofen): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL19299)、CC BY-SA 3.0、参照日 2026-11-19）。既知の情報によると、ロキソプロフェンは活性代謝物（trans-アルコール体）を介して COX を非選択的に阻害する NSAID です。関節リウマチでは、プロスタグランジン産生を抑えることで炎症と痛みを和らげます。
 
 一方、予測された症候群は発生過程の遺伝的異常による先天性疾患です。COX 阻害との既知の関連はなく、今回のスコアは TxGNN モデル（ディープラーニング）に由来するもので、関連する疾患間でモデルが学習した類似性を反映している可能性があり、生物学的な証拠ではありません。機序面での裏付けは現時点で確認できず、妥当性は限定的と考えます。
 
@@ -94,7 +94,7 @@ ChEMBL（EMBL-EBI）に登録されている Loxoprofen の作用機序（非公
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [ChEMBL CHEMBL19299 (loxoprofen): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL19299) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え（2026-11-20 改訂、旧版は記録に保存） | [ChEMBL CHEMBL19299 (loxoprofen): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL19299) |
 
 <!-- review:end log -->
 

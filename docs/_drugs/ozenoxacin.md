@@ -55,7 +55,7 @@ TxGNN モデルは**マラリア (Malaria)** に有効である可能性を予�
 
 ## この予測が妥当である理由
 
-ChEMBL（EMBL-EBI）に登録されている Ozenoxacin の作用機序（非公式訳）：「DNAジャイレース阻害剤；トポイソメラーゼIV阻害剤；DNAトポイソメラーゼIV阻害剤」英語原文："DNA gyrase inhibitor; Topoisomerase IV inhibitor; DNA topoisomerase IV inhibitor"（[ChEMBL CHEMBL3990047 (ozenoxacin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3990047)、CC BY-SA 3.0、参照日 2026-11-19）。既知の情報によると、オゼノキサシンは非フッ素化キノロン系の外用抗菌薬で、細菌の DNA ジャイレースとトポイソメラーゼ IV を阻害するとされています。ざ瘡での使用実績があります。
+ChEMBL（EMBL-EBI）に登録されている Ozenoxacin の作用機序（非公式訳）：「DNAジャイレース阻害剤；トポイソメラーゼIV阻害剤；DNAトポイソメラーゼIV阻害剤」。英語原文："DNA gyrase inhibitor; Topoisomerase IV inhibitor; DNA topoisomerase IV inhibitor"（[ChEMBL CHEMBL3990047 (ozenoxacin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3990047)、CC BY-SA 3.0、参照日 2026-11-19）。既知の情報によると、オゼノキサシンは非フッ素化キノロン系の外用抗菌薬で、細菌の DNA ジャイレースとトポイソメラーゼ IV を阻害するとされています。ざ瘡での使用実績があります。
 
 マラリア原虫はアピコプラスト（原核生物に似た小器官）を持ち、そこにジャイレース様の酵素があります。そのため、キノロン系という分類から機序的な関連は理論上考えられます。
 
@@ -94,7 +94,7 @@ ChEMBL（EMBL-EBI）に登録されている Ozenoxacin の作用機序（非公
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [ChEMBL CHEMBL3990047 (ozenoxacin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3990047) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え（2026-11-20 改訂、旧版は記録に保存） | [ChEMBL CHEMBL3990047 (ozenoxacin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL3990047) |
 
 <!-- review:end log -->
 

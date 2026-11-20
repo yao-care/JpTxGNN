@@ -55,7 +55,7 @@ TxGNN モデルは **Ambras 型先天性汎発性多毛症 (Ambras type hypertri
 
 ## この予測が妥当である理由
 
-ChEMBL（EMBL-EBI）に登録されている Naftopidil の作用機序（非公式訳）：「α1d アドレナリン受容体拮抗薬」英語原文："Alpha-1d adrenergic receptor antagonist"（[ChEMBL CHEMBL142635 (naftopidil): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL142635)、CC BY-SA 3.0、参照日 2026-11-19）。既知の情報によると、ナフトピジルは α1 アドレナリン受容体拮抗薬（α1D/α1A 選択的）で、排尿障害の改善に使われてきました。
+ChEMBL（EMBL-EBI）に登録されている Naftopidil の作用機序（非公式訳）：「α1d アドレナリン受容体拮抗薬」。英語原文："Alpha-1d adrenergic receptor antagonist"（[ChEMBL CHEMBL142635 (naftopidil): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL142635)、CC BY-SA 3.0、参照日 2026-11-19）。既知の情報によると、ナフトピジルは α1 アドレナリン受容体拮抗薬（α1D/α1A 選択的）で、排尿障害の改善に使われてきました。
 
 一方、Ambras 症候群は、8q22 領域の染色体再編成により TRPS1 の制御が変化することで生じる発生異常です。α1 受容体遮断との間に確立された機序的関連は見つかっていません。今回のスコアは TxGNN モデル（ディープラーニング）によるもので、モデルが学習した関連疾患間の類似性を反映している可能性があり、生物学的な根拠ではありません。
 
@@ -114,7 +114,7 @@ ChEMBL（EMBL-EBI）に登録されている Naftopidil の作用機序（非公
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「現在有効な承認はなく、20 件すべてが整理済みです」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [ChEMBL CHEMBL142635 (naftopidil): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL142635) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え（2026-11-20 改訂、旧版は記録に保存） | [ChEMBL CHEMBL142635 (naftopidil): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL142635) |
 
 <!-- review:end log -->
 

@@ -63,7 +63,7 @@ L = {'KW': '作用機序',
  'intro_add': '作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。',
  'summary': '「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え',
  'lang_name': '日本語',
- 'chembl_tpl': 'ChEMBL（EMBL-EBI）に登録されている {name} の作用機序（非公式訳）：{qo}{tr}{qc}英語原文："{ex}"（[{title}]({url})、CC BY-SA 3.0、参照日 {acc}）。'}
+ 'chembl_tpl': 'ChEMBL（EMBL-EBI）に登録されている {name} の作用機序（非公式訳）：{qo}{tr}{qc}。英語原文："{ex}"（[{title}]({url})、CC BY-SA 3.0、参照日 {acc}）。'}
 REGULATOR_LOCAL = False  # True＝本站就是美國（寫「FDA-approved」，不加「US」）
 
 KW = re.compile(L["KW"], re.I)
@@ -143,10 +143,10 @@ def front(fm, key):
 
 
 def protected(records, fname):
-    """同頁別筆紀錄（非 mechanism）的更正文字與錨點：這些句子由那些紀錄管，作用機轉紀錄不碰。"""
+    """同頁紀錄的更正文字與錨點（含已套上的作用機轉節錄）：這些句子由那些紀錄管，不再當成「不可得」句。"""
     out = []
     for r in records:
-        if r.get("file") == fname and r.get("action") != "mechanism":
+        if r.get("file") == fname:
             for k in ("replacement", "anchor"):
                 v = (r.get(k) or "").strip()
                 if len(v) >= 8:
@@ -554,7 +554,8 @@ def gate_errors():
     unc = unc.get("items", []) if isinstance(unc, dict) else unc
     covered = {r["file"] for r in rev if r.get("action") == "mechanism"}
     covered |= {i.get("file") for i in unc if i.get("source") == UNCERTAIN_SOURCE and i.get("status") in ("open", "unresolvable")}
-    bad = [p.name for p, t, _ in public_pages() if p.name not in covered and find_claim(t, protected(rev, p.name))[0]]
+    listed = {i.get("file") for i in unc if i.get("source") == UNCERTAIN_SOURCE and i.get("status") in ("open", "unresolvable")}
+    bad = [p.name for p, t, _ in public_pages() if p.name not in listed and find_claim(t, protected(rev, p.name))[0]]
     if not bad:
         return []
     return [f"公開藥物頁寫「作用機轉資料不可得」、沒有附出處的作用機轉紀錄也沒列待查 {len(bad)} 頁：{'、'.join(bad[:8])}"
@@ -588,9 +589,9 @@ def main():
             continue
         claim, tail = find_claim(t, protected(rev0, p.name))
         if claim:
-            targets.append((p, fm, claim, tail))
+            targets.append((p, fm, claim, tail, t))
     if a.list:
-        for p, _, claim, _ in targets:
+        for p, _, claim, _, _ in targets:
             print(f"{p.name}\t{claim}")
         print(f"公開頁仍寫「作用機轉資料不可得」：{len(targets)} 頁")
         return 0
@@ -604,11 +605,16 @@ def main():
     records = rev["records"] if isinstance(rev, dict) else rev
     unc = load_json(UNCERTAIN, {"items": []})
     have = {r["file"] for r in records if r.get("action") == "mechanism"}
+    nmech = {}
+    for r in records:
+        if r.get("action") == "mechanism":
+            nmech[r["file"]] = nmech.get(r["file"], 0) + 1
     listed = {i.get("file") for i in (unc.get("items", []) if isinstance(unc, dict) else unc)
               if i.get("source") == UNCERTAIN_SOURCE and i.get("status") in ("open", "unresolvable")}
     added, missing, need = [], [], {}
-    for p, fm, claim, tail in targets:
-        if p.name in have or p.name in listed:
+    for p, fm, claim, tail, page_text in targets:
+        # 已有紀錄的頁：只處理還留著的「不可得」句（同頁第二句起）；已列待查的頁不重抓
+        if p.name in listed and p.name not in have:
             continue
         name = front(fm, "title") or p.stem.replace("_", " ")
         inn = front(fm, "monitor_inn") or name
@@ -629,7 +635,8 @@ def main():
             except Exception as e:
                 src, why2 = None, f"ChEMBL fetch failed ({e})"
         if not src:
-            missing.append({"file": p.name, "drug": p.stem, "reason": f"{why}; {why2}"})
+            if p.name not in have:
+                missing.append({"file": p.name, "drug": p.stem, "reason": f"{why}; {why2}"})
             continue
         translation = None
         if LANG != "en":
@@ -638,7 +645,6 @@ def main():
             if not translation:
                 need[k] = {"lang": LANG, "excerpt": src["excerpt"], "drug": p.stem}
                 continue
-        rep = replacement_text(name, src, a.date, translation) + (" " + tail if tail else "")
         s = {k: v for k, v in {
             "title": src["title"], "url": src["url"], "accessed": a.date, "excerpt": src["excerpt"],
             "label_version": src.get("label_version"), "section": src.get("section"), "via": src["via"],
@@ -648,22 +654,34 @@ def main():
             s["translation_lang"] = LANG
             s["translation_note"] = ("unofficial translation of the English excerpt (machine-assisted, 2026-11-19); "
                                      "the English original quoted on the page is authoritative")
-        rec = {
-            "id": f"{PREFIX}-{a.date.replace('-', '')}-{p.stem}-1",
-            "drug": p.stem,
-            "file": p.name,
-            "action": "mechanism",
-            "claim": claim,
-            "replacement": rep,
-            "summary": L.get("summary") or f"\"{claim.rstrip('.,;: ').strip()}\" replaced with a sourced mechanism-of-action statement",
-            "finding": ("頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，"
-                        f"依 {'美國 FDA 仿單 ' + src['section'] if src['kind'] == 'us_label' else 'ChEMBL drug mechanism 表'} 原文節錄補上"
-                        f"{'（附非官方翻譯，英文原文為準）' if translation else ''}，模型預測與其他正文不動。"),
-            "sources": [s],
-            "checked": a.date,
-            "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
-        }
-        added.append(rec)
+        # 同一頁可能有不只一句「不可得」：每句各一筆紀錄（-1、-2…），換掉一句再找下一句
+        n, text_local, prot = nmech.get(p.name, 0), page_text, protected(rev0, p.name)
+        while n < 8:
+            if text_local is not page_text or n > nmech.get(p.name, 0):
+                claim, tail = find_claim(text_local, prot)
+                if not claim:
+                    break
+            rep = replacement_text(name, src, a.date, translation) + (" " + tail if tail else "")
+            rec = {
+                "id": f"{PREFIX}-{a.date.replace('-', '')}-{p.stem}-{n + 1}",
+                "drug": p.stem,
+                "file": p.name,
+                "action": "mechanism",
+                "claim": claim,
+                "replacement": rep,
+                "summary": L.get("summary") or f"\"{claim.rstrip('.,;: ').strip()}\" replaced with a sourced mechanism-of-action statement",
+                "finding": ("頁面寫作用機轉資料不可得（證據包 drugbank.source＝vocab_only）；作用機轉是藥物本身的藥理事實，"
+                            f"依 {'美國 FDA 仿單 ' + src['section'] if src['kind'] == 'us_label' else 'ChEMBL drug mechanism 表'} 原文節錄補上"
+                            f"{'（附非官方翻譯，英文原文為準）' if translation else ''}，模型預測與其他正文不動。"),
+                "sources": [s],
+                "checked": a.date,
+                "method": "scripts/build_mechanism_reviews.py（2026-11-19 建）",
+            }
+            added.append(rec)
+            j = text_local.find(claim)
+            text_local = text_local[:j] + rep + text_local[j + len(claim):] if j >= 0 else text_local + "\n"
+            prot = prot + [rep]
+            n += 1
     print(f"目標 {len(targets)} 頁；新紀錄 {len(added)}（仿單 {sum(r['sources'][0].get('set_id') is not None for r in added)}、"
           f"ChEMBL {sum('chembl_id' in r['sources'][0] for r in added)}）；找不到來源 {len(missing)}；待翻譯 {len(need)}")
     if a.need:

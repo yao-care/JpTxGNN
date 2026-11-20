@@ -56,7 +56,7 @@ TxGNN モデルは**オプシスモ異形成症 (Opsismodysplasia)** に有効�
 
 ## この予測が妥当である理由
 
-ChEMBL（EMBL-EBI）に登録されている Ipragliflozin の作用機序（非公式訳）：「ナトリウム/グルコース共輸送体2阻害剤」英語原文："Sodium/glucose cotransporter 2 inhibitor"（[ChEMBL CHEMBL2018096 (ipragliflozin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2018096)、CC BY-SA 3.0、参照日 2026-11-19）。既知の情報によると、イプラグリフロジンは SGLT2 阻害薬で、腎臓でのグルコース再吸収を抑えて血糖を下げます。日本、韓国、タイで 2 型糖尿病の治療薬として承認されています。薬理学データ上の標的は SGLT2 (SLC5A2) と SGLT1 (SLC5A1) です。
+ChEMBL（EMBL-EBI）に登録されている Ipragliflozin の作用機序（非公式訳）：「ナトリウム/グルコース共輸送体2阻害剤」。英語原文："Sodium/glucose cotransporter 2 inhibitor"（[ChEMBL CHEMBL2018096 (ipragliflozin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2018096)、CC BY-SA 3.0、参照日 2026-11-19）。既知の情報によると、イプラグリフロジンは SGLT2 阻害薬で、腎臓でのグルコース再吸収を抑えて血糖を下げます。日本、韓国、タイで 2 型糖尿病の治療薬として承認されています。薬理学データ上の標的は SGLT2 (SLC5A2) と SGLT1 (SLC5A1) です。
 
 オプシスモ異形成症は INPPL1 遺伝子に関連する骨格異形成症です。SGLT2 阻害による糖排泄の仕組みと、この疾患の経路との間に、明確な機序的つながりは確認できていません。
 
@@ -107,7 +107,7 @@ ChEMBL（EMBL-EBI）に登録されている Ipragliflozin の作用機序（非
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-06 | 削除：「取消の経緯」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [ChEMBL CHEMBL2018096 (ipragliflozin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2018096) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え（2026-11-20 改訂、旧版は記録に保存） | [ChEMBL CHEMBL2018096 (ipragliflozin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2018096) |
 
 <!-- review:end log -->
 

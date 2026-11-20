@@ -56,7 +56,7 @@ TxGNN モデルは**腎性低尿酸血症 (Hypouricemia, Renal)** に有効で�
 
 ## この予測が妥当でない可能性が高い理由
 
-ChEMBL（EMBL-EBI）に登録されている Benzbromarone の作用機序（非公式訳）：「溶質輸送体ファミリー22メンバー12阻害薬」英語原文："Solute carrier family 22 member 12 inhibitor"（[ChEMBL CHEMBL388590 (benzbromarone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL388590)、CC BY-SA 3.0、参照日 2026-11-19）。ただし、ベンズブロマロンは URAT1 (SLC22A12) を阻害して腎臓での尿酸排泄を高める尿酸排泄促進薬として知られています。
+ChEMBL（EMBL-EBI）に登録されている Benzbromarone の作用機序（非公式訳）：「溶質輸送体ファミリー22メンバー12阻害薬」。英語原文："Solute carrier family 22 member 12 inhibitor"（[ChEMBL CHEMBL388590 (benzbromarone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL388590)、CC BY-SA 3.0、参照日 2026-11-19）。ただし、ベンズブロマロンは URAT1 (SLC22A12) を阻害して腎臓での尿酸排泄を高める尿酸排泄促進薬として知られています。
 
 遺伝性の腎性低尿酸血症は、URAT1 の機能喪失型変異により、尿酸が尿中に過剰に失われることで起こります。ベンズブロマロンの作用はこの病態をさらに悪化させる方向であり、治療薬としては機序的に不整合です。
 
@@ -118,7 +118,7 @@ TxGNN の高スコアは、薬物・標的・疾患の関連性を反映した�
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [ChEMBL CHEMBL388590 (benzbromarone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL388590) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え（2026-11-20 改訂、旧版は記録に保存） | [ChEMBL CHEMBL388590 (benzbromarone): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL388590) |
 
 <!-- review:end log -->
 

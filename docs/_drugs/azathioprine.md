@@ -55,7 +55,7 @@ TxGNN モデルは**コロボーマ性小眼球症-根幹肢異形成症候群 (
 
 ## この予測が妥当である理由
 
-ChEMBL（EMBL-EBI）に登録されている Azathioprine の作用機序（非公式訳）：「アミドホスホリボシルトランスフェラーゼ阻害薬；DNA阻害薬」英語原文："Amidophosphoribosyltransferase inhibitor; DNA inhibitor"（[ChEMBL CHEMBL1542 (azathioprine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1542)、CC BY-SA 3.0、参照日 2026-11-19）。既知の情報によると、アザチオプリンは 6-メルカプトプリンを経てチオグアニンヌクレオチドに変換され、プリン合成を阻害して免疫細胞の増殖を抑える免疫抑制薬です。臓器移植や自己免疫疾患では、この作用が有効性の根拠になっています。
+ChEMBL（EMBL-EBI）に登録されている Azathioprine の作用機序（非公式訳）：「アミドホスホリボシルトランスフェラーゼ阻害薬；DNA阻害薬」。英語原文："Amidophosphoribosyltransferase inhibitor; DNA inhibitor"（[ChEMBL CHEMBL1542 (azathioprine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1542)、CC BY-SA 3.0、参照日 2026-11-19）。既知の情報によると、アザチオプリンは 6-メルカプトプリンを経てチオグアニンヌクレオチドに変換され、プリン合成を阻害して免疫細胞の増殖を抑える免疫抑制薬です。臓器移植や自己免疫疾患では、この作用が有効性の根拠になっています。
 
 一方、この予測疾患は眼と骨格に生じる先天性の発生異常で、免疫が関与する機序は知られていません。そのため、アザチオプリンのプリン合成阻害や免疫抑制がこの疾患を標的にするという妥当な機序的関連は見出せませんでした。このスコアは TxGNN モデル（深層学習）が出したもので、モデルが学習した関連疾患間の類似性を反映している可能性があり、生物学的な証拠ではありません。臨床的にも機序的にも裏付けがありません。スコアが高くても、妥当性が支持されたとは言えません。
 
@@ -119,7 +119,7 @@ ChEMBL（EMBL-EBI）に登録されている Azathioprine の作用機序（非�
 |------|------|------|------|
 | 2026-11-06 | 削除：「3 件の承認はいずれも失効しており、現在有効な単剤・配合剤の承認はありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-06 | 削除：「日本での承認が全て失効している点の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [ChEMBL CHEMBL1542 (azathioprine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1542) |
+| 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え（2026-11-20 改訂、旧版は記録に保存） | [ChEMBL CHEMBL1542 (azathioprine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1542) |
 
 <!-- review:end log -->
 
