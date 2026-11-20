@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "アダラートＣＲ錠４０ｍｇ（選） に関する健康ニュース。予測適応症 0 件。"
 permalink: /news/nifedipine/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
 # アダラートＣＲ錠４０ｍｇ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="アダラートＣＲ錠４０ｍｇ（選） に関するニュースは？">
-<strong>アダラートＣＲ錠４０ｍｇ（選）</strong> には現在 <strong>4 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>アダラートＣＲ錠４０ｍｇ（選）</strong> には現在 <strong>5 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ last_modified_at: 2026-11-19
 <p><a href="{{ '/drugs/nifedipine/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（4 件）
+## 関連ニュース（5 件）
 
 ### [脳出血で重篤な状態となった38歳の男性：多くの若者が軽視しがちな病気から学ぶ教訓。](https://news.google.com/rss/articles/CBMixgFBVV95cUxNckZIcG9HZHdXT3JYVmlQalJ0Vm1EaTA4Y3BLU1NlSExXYkMyWVJ5clV4VFNHVzFIdU81NkJhbjBsamgwMTR4U3d2blpQdGtzZzRfeVJCMjlFZkdkVHJSemx1NE9sLXRZWDdQSmNKNnpxbGdJeWRfN3RPdTVaOFlPMFktZzdxdkVZTkVhem5PQklxMDlHdlVyUlRGUzVkUmFaa0VWY3lKNzRYeFh6UkcyTWtDSTZmNjEzdlNQbWhRMWtpTVlGdUE?oc=5)
 
@@ -61,6 +61,14 @@ last_modified_at: 2026-11-19
 2026-11-17 <span class="news-indication-tag">高血圧</span>
 
 出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/455f821abb778835d7d18b787e87a7ebd160a5c0?source=rss)
+
+---
+
+### [421: 研究の挫折を受けて、心臓病治療薬研究の未来はどうなるか｜The Readout Loud - BigGo ファイナンス](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sNTl5U1pZankyUklwVnB6TUpSXzBxcnFhUFBscng5QVBBVUlqV1pKb2VLSVlrY2xlaFhxaHN5QWpDWGZNQl9tTUJhUU53WjRfczZ0em5kbzhSN19FUkE?oc=5)
+
+2026-11-14 <span class="news-indication-tag">心臓病</span>
+
+出典: [BigGo ファイナンス](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sNTl5U1pZankyUklwVnB6TUpSXzBxcnFhUFBscng5QVBBVUlqV1pKb2VLSVlrY2xlaFhxaHN5QWpDWGZNQl9tTUJhUU53WjRfczZ0em5kbzhSN19FUkE?oc=5)
 
 ---
 

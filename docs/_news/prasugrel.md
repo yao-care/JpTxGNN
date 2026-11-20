@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "プラスグレル錠５ｍｇ「ＤＳＥＰ」 に関する健康ニュース。予測適応症 9 件。"
 permalink: /news/prasugrel/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
 # プラスグレル錠５ｍｇ「ＤＳＥＰ」 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="プラスグレル錠５ｍｇ「ＤＳＥＰ」 に関するニュースは？">
-<strong>プラスグレル錠５ｍｇ「ＤＳＥＰ」</strong> には現在 <strong>45 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
+<strong>プラスグレル錠５ｍｇ「ＤＳＥＰ」</strong> には現在 <strong>49 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,31 @@ last_modified_at: 2026-11-19
 <p><a href="{{ '/drugs/prasugrel/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（45 件）
+## 関連ニュース（49 件）
+
+### [【実話】鼻の不調を放置→まさかの鼻腔がん？！眼球摘出のおそれまで…！体験者が強く訴える早期発見の重要性(ウォーカープラス)](https://news.yahoo.co.jp/articles/117a8c08c64e293bea05971bbbc0ae818c0f3ec7?source=rss)
+
+2026-11-19 <span class="news-indication-tag">がん</span>
+
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/117a8c08c64e293bea05971bbbc0ae818c0f3ec7?source=rss)
+
+---
+
+### [脳梗塞後SBP＜120試験「＜130否定の結果ではない」――国循・古賀氏コメント【時流◆AHA2026ピックアップ】](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FSlJDNVpYaEFWY2RDQXBpR0F0cTQtTmliSm9LNkkwdkxqUm9yY2pSVW9xS0RTZDNpeWFia2h4eEhWU180TVhlc3psX0lIQlFLSlE?oc=5)
+
+2026-11-19 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">2型糖尿病</span> <span class="news-indication-tag">脳梗塞</span>
+
+出典: [m3.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FSlJDNVpYaEFWY2RDQXBpR0F0cTQtTmliSm9LNkkwdkxqUm9yY2pSVW9xS0RTZDNpeWFia2h4eEhWU180TVhlc3psX0lIQlFLSlE?oc=5)
+
+---
+
+### [集中力低下の症状から、グレード4の脳腫瘍が発見された。](https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZVWdIUUp0MmhDRWFhNXg2dVdkUmt1TG1lSVJQXy1lUW8zamtzOFF4WWxFbm5RTHlDQjlkSnpmcDBRMHpzRENHUHd3bzNRSjJLZEM1dWxUajlqSUxYZmo5ME1Td2E2a21jNjBoSWxrMk9tTUszZ3JyT1htZ0Y4Zw?oc=5)
+
+2026-11-19 <span class="news-indication-tag">腫瘍</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZVWdIUUp0MmhDRWFhNXg2dVdkUmt1TG1lSVJQXy1lUW8zamtzOFF4WWxFbm5RTHlDQjlkSnpmcDBRMHpzRENHUHd3bzNRSjJLZEM1dWxUajlqSUxYZmo5ME1Td2E2a21jNjBoSWxrMk9tTUszZ3JyT1htZ0Y4Zw?oc=5)
+
+---
 
 ### [タマネギやリンゴに含まれる化合物には、がん細胞の増殖を抑制する可能性がある。](https://news.google.com/rss/articles/CBMikgFBVV95cUxQNDV6dHVUM0NoM29Ed1dfdVlFOV9qN3VRMFlZeXhHRERXR3p1NTZKdnZ2Vm1WVkJmX3pOckduMUhldmNPTEh3blpKMWdKVjFZUWYxb0txdkR2YWcyVnlJc1VjTFFMWndnQWd5MVdHeGNTLWJyT1M0SW1RR2dCdkNTYnpWel92RV96SDZCU1JJRlNxUQ?oc=5)
 
@@ -280,6 +304,14 @@ last_modified_at: 2026-11-19
 2026-11-15 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">膵臓がん</span>
 
 出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/e71c4aff7d3bddd4e2ee8084a5ce74126815f1d3?source=rss)
+
+---
+
+### [421: 研究の挫折を受けて、心臓病治療薬研究の未来はどうなるか｜The Readout Loud - BigGo ファイナンス](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sNTl5U1pZankyUklwVnB6TUpSXzBxcnFhUFBscng5QVBBVUlqV1pKb2VLSVlrY2xlaFhxaHN5QWpDWGZNQl9tTUJhUU53WjRfczZ0em5kbzhSN19FUkE?oc=5)
+
+2026-11-14 <span class="news-indication-tag">心臓病</span>
+
+出典: [BigGo ファイナンス](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sNTl5U1pZankyUklwVnB6TUpSXzBxcnFhUFBscng5QVBBVUlqV1pKb2VLSVlrY2xlaFhxaHN5QWpDWGZNQl9tTUJhUU53WjRfczZ0em5kbzhSN19FUkE?oc=5)
 
 ---
 

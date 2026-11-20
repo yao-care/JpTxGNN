@@ -3,9 +3,9 @@ layout: default
 title: "心臓病 (heart_disease) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "心臓病 (heart_disease) に関する健康ニュース。ニュース 2 件、関連医薬品 41 件。"
+description: "心臓病 (heart_disease) に関する健康ニュース。ニュース 3 件、関連医薬品 41 件。"
 permalink: /news/heart-disease/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
 # 心臓病 (heart_disease) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="心臓病 (heart_disease) に関するニュースは？">
-<strong>心臓病 (heart_disease)</strong> には現在 <strong>2 件</strong>の関連ニュースと 41 件の関連医薬品があります。
+<strong>心臓病 (heart_disease)</strong> には現在 <strong>3 件</strong>の関連ニュースと 41 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -69,7 +69,7 @@ last_modified_at: 2026-11-19
 </ul>
 </div>
 
-## 関連ニュース（2 件）
+## 関連ニュース（3 件）
 
 ### [心臓病患者に尋ねるべき4つのワクチン](https://news.google.com/rss/articles/CBMiUkFVX3lxTE91WENLdXZTV0pFQ3ZLdjNFbnY5QlZHTnE3Qk1sY2JkMmF0STVjRkMwSHJvWEhhWUp4VFd1MzNyczlnUEdodlJwNXZudGRhcHBKNlE?oc=5)
 
@@ -84,6 +84,14 @@ last_modified_at: 2026-11-19
 2026-11-18
 
 出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/a66442e81cb0fd1c4df1d9a65e9a6a6843412d91?source=rss)
+
+---
+
+### [421: 研究の挫折を受けて、心臓病治療薬研究の未来はどうなるか｜The Readout Loud - BigGo ファイナンス](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sNTl5U1pZankyUklwVnB6TUpSXzBxcnFhUFBscng5QVBBVUlqV1pKb2VLSVlrY2xlaFhxaHN5QWpDWGZNQl9tTUJhUU53WjRfczZ0em5kbzhSN19FUkE?oc=5)
+
+2026-11-14
+
+出典: [BigGo ファイナンス](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sNTl5U1pZankyUklwVnB6TUpSXzBxcnFhUFBscng5QVBBVUlqV1pKb2VLSVlrY2xlaFhxaHN5QWpDWGZNQl9tTUJhUU53WjRfczZ0em5kbzhSN19FUkE?oc=5)
 
 ---
 

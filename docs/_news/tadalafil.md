@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "ザルティア錠５ｍｇ（選） に関する健康ニュース。予測適応症 8 件。"
 permalink: /news/tadalafil/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
 # ザルティア錠５ｍｇ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="ザルティア錠５ｍｇ（選） に関するニュースは？">
-<strong>ザルティア錠５ｍｇ（選）</strong> には現在 <strong>11 件</strong>の関連ニュースがあり、予測適応症は 8 件です。
+<strong>ザルティア錠５ｍｇ（選）</strong> には現在 <strong>13 件</strong>の関連ニュースがあり、予測適応症は 8 件です。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ last_modified_at: 2026-11-19
 <p><a href="{{ '/drugs/tadalafil/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（11 件）
+## 関連ニュース（13 件）
+
+### [脳梗塞後SBP＜120試験「＜130否定の結果ではない」――国循・古賀氏コメント【時流◆AHA2026ピックアップ】](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FSlJDNVpYaEFWY2RDQXBpR0F0cTQtTmliSm9LNkkwdkxqUm9yY2pSVW9xS0RTZDNpeWFia2h4eEhWU180TVhlc3psX0lIQlFLSlE?oc=5)
+
+2026-11-19 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">2型糖尿病</span> <span class="news-indication-tag">脳梗塞</span>
+
+出典: [m3.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FSlJDNVpYaEFWY2RDQXBpR0F0cTQtTmliSm9LNkkwdkxqUm9yY2pSVW9xS0RTZDNpeWFia2h4eEhWU180TVhlc3psX0lIQlFLSlE?oc=5)
+
+---
 
 ### [脳出血で重篤な状態となった38歳の男性：多くの若者が軽視しがちな病気から学ぶ教訓。](https://news.google.com/rss/articles/CBMixgFBVV95cUxNckZIcG9HZHdXT3JYVmlQalJ0Vm1EaTA4Y3BLU1NlSExXYkMyWVJ5clV4VFNHVzFIdU81NkJhbjBsamgwMTR4U3d2blpQdGtzZzRfeVJCMjlFZkdkVHJSemx1NE9sLXRZWDdQSmNKNnpxbGdJeWRfN3RPdTVaOFlPMFktZzdxdkVZTkVhem5PQklxMDlHdlVyUlRGUzVkUmFaa0VWY3lKNzRYeFh6UkcyTWtDSTZmNjEzdlNQbWhRMWtpTVlGdUE?oc=5)
 
@@ -103,6 +111,14 @@ last_modified_at: 2026-11-19
 2026-11-15 <span class="news-indication-tag">脳梗塞</span>
 
 出典: [FNNプライムオンライン](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBXa0M3WmNsSzlpdjY2Y21BRkxuZW5iN3ZZT19qOGxDVk14ZHhhYWQ1NnJRQjNTLTJFSm5SbFA5aUphSGFZMFVCT0pOQVQ3UQ?oc=5)
+
+---
+
+### [421: 研究の挫折を受けて、心臓病治療薬研究の未来はどうなるか｜The Readout Loud - BigGo ファイナンス](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sNTl5U1pZankyUklwVnB6TUpSXzBxcnFhUFBscng5QVBBVUlqV1pKb2VLSVlrY2xlaFhxaHN5QWpDWGZNQl9tTUJhUU53WjRfczZ0em5kbzhSN19FUkE?oc=5)
+
+2026-11-14 <span class="news-indication-tag">心臓病</span>
+
+出典: [BigGo ファイナンス](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sNTl5U1pZankyUklwVnB6TUpSXzBxcnFhUFBscng5QVBBVUlqV1pKb2VLSVlrY2xlaFhxaHN5QWpDWGZNQl9tTUJhUU53WjRfczZ0em5kbzhSN19FUkE?oc=5)
 
 ---
 

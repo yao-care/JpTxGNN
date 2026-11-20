@@ -3,9 +3,9 @@ layout: default
 title: "認知症 (dementia) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "認知症 (dementia) に関する健康ニュース。ニュース 27 件、関連医薬品 2 件。"
+description: "認知症 (dementia) に関する健康ニュース。ニュース 31 件、関連医薬品 2 件。"
 permalink: /news/dementia/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
 # 認知症 (dementia) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="認知症 (dementia) に関するニュースは？">
-<strong>認知症 (dementia)</strong> には現在 <strong>27 件</strong>の関連ニュースと 2 件の関連医薬品があります。
+<strong>認知症 (dementia)</strong> には現在 <strong>31 件</strong>の関連ニュースと 2 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,23 @@ last_modified_at: 2026-11-19
 </ul>
 </div>
 
-## 関連ニュース（27 件）
+## 関連ニュース（31 件）
+
+### [｢AIに頼ると認知症になる｣は大間違い…医師が｢中高年こそオススメ｣という思考のヨボヨボ化を回避する習慣(プレジデントオンライン)](https://news.yahoo.co.jp/articles/b39e0af18922967dca9d6c283b077d9957da83be?source=rss)
+
+2026-11-19
+
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/b39e0af18922967dca9d6c283b077d9957da83be?source=rss)
+
+---
+
+### [歯の喪失は認知症リスクと関連、噛む習慣や入れ歯で変わる？](https://news.google.com/rss/articles/CBMiY0FVX3lxTE53QVpGbzhQVnZRUWxpb2F6azlvODN3dUdHeF93N1B4Vl9Hdm5KdmpyM2lLSjRhdkhmTFZWMkxqRnFtRDIxTXVhZEgyOU1xUFctYmNsc1daR0xxeWIxUVpuTDJyWQ?oc=5)
+
+2026-11-19
+
+出典: [ナショナルジオグラフィック日本版](https://news.google.com/rss/articles/CBMiY0FVX3lxTE53QVpGbzhQVnZRUWxpb2F6azlvODN3dUdHeF93N1B4Vl9Hdm5KdmpyM2lLSjRhdkhmTFZWMkxqRnFtRDIxTXVhZEgyOU1xUFctYmNsc1daR0xxeWIxUVpuTDJyWQ?oc=5)
+
+---
 
 ### [野菜ジュースでもサプリでもない…医師が｢認知症リスクが約3割下がる｣と勧めるスーパーで買える身近な食材(プレジデントオンライン)](https://news.yahoo.co.jp/articles/a66442e81cb0fd1c4df1d9a65e9a6a6843412d91?source=rss)
 
@@ -46,6 +62,14 @@ last_modified_at: 2026-11-19
 2026-11-18
 
 出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/3963013d84a9926c681f71a96d5cbec62050a231?source=rss)
+
+---
+
+### [「あえて坂道を選ぶ」認知症になりにくい“スーパーエイジャー”の実態→「質の高い人間関係」と「程よいストレス」がポイント](https://news.google.com/rss/articles/CBMihwFBVV95cUxQc2o2Vkk3NHBpajBWSHVkdmhRZXBtT2ZEUXJGZTZMQWhwSjBqZThKbGNwYnR5NVlmQ2tjNjU4VFExdEZYRjhQSG4xWEU4ek96NC1Kd29kMEtRTnF6ZzR6WUJfQWFvMDQyRHIyWXJYbTFiNXRXM1d3eXRVOWtJRXpIcmZfVUpLSDQ?oc=5)
+
+2026-11-18
+
+出典: [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxQc2o2Vkk3NHBpajBWSHVkdmhRZXBtT2ZEUXJGZTZMQWhwSjBqZThKbGNwYnR5NVlmQ2tjNjU4VFExdEZYRjhQSG4xWEU4ek96NC1Kd29kMEtRTnF6ZzR6WUJfQWFvMDQyRHIyWXJYbTFiNXRXM1d3eXRVOWtJRXpIcmZfVUpLSDQ?oc=5)
 
 ---
 
@@ -142,6 +166,14 @@ last_modified_at: 2026-11-19
 2026-11-15
 
 出典: [JIJICO](https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxWGYzblZ1XzdRQlJ5SlpuWVJtakFWakVGU1F0R0pra0FLanRubjU3dXJWd3JDR0RCRFB0cTNJdWpQci1Pb1RwV3lROFl0eFFDMjlWMTNaTWdQdmZFd05nMkFFdUkya1Rl?oc=5)
+
+---
+
+### [80歳になった認知症研究の権威が実践する「脳の健康を保つ5つの習慣」](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MZHU0cV9FUGN5c3F5b1RxYVVUTFNLSEZwMElkNjBoajBma21LbUJzQzNTbDNaVUVVSGFvY3BUdUl3bTRpS0owbmNLa2J3ZTliMVVF?oc=5)
+
+2026-11-14
+
+出典: [クーリエ・ジャポン](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MZHU0cV9FUGN5c3F5b1RxYVVUTFNLSEZwMElkNjBoajBma21LbUJzQzNTbDNaVUVVSGFvY3BUdUl3bTRpS0owbmNLa2J3ZTliMVVF?oc=5)
 
 ---
 
