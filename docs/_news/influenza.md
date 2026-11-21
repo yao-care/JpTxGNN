@@ -3,9 +3,9 @@ layout: default
 title: "インフルエンザ (influenza) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 8 件、関連医薬品 1 件。"
+description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 11 件、関連医薬品 1 件。"
 permalink: /news/influenza/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-21
 ---
 
 # インフルエンザ (influenza) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="インフルエンザ (influenza) に関するニュースは？">
-<strong>インフルエンザ (influenza)</strong> には現在 <strong>8 件</strong>の関連ニュースと 1 件の関連医薬品があります。
+<strong>インフルエンザ (influenza)</strong> には現在 <strong>11 件</strong>の関連ニュースと 1 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,29 @@ last_modified_at: 2026-11-20
 </ul>
 </div>
 
-## 関連ニュース（8 件）
+## 関連ニュース（11 件）
+
+### [県内で今シーズン2例目の鳥インフルエンザ 由利本荘市で発見のマガモ死骸から高病原性ウイルス検出 秋田（秋田テレビ）](https://news.google.com/rss/articles/CBMif0FVX3lxTE1ISS1GZ1FsTmZfdkJ6cFdSV2RrbC1KdFI3Y1dGcXBFdFJ1cUNUdXZzeEUtUFE2eE96dVNKaWhkR0VXV2J4RnNxay14UmJlMVZzbXh1cWF4dUloem14WHhLS2I2M2NpMUItUmE5UXJFa3JyUUJ5Q0dLSzctYVFpTWc?oc=5)
+
+2026-11-20
+
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE1ISS1GZ1FsTmZfdkJ6cFdSV2RrbC1KdFI3Y1dGcXBFdFJ1cUNUdXZzeEUtUFE2eE96dVNKaWhkR0VXV2J4RnNxay14UmJlMVZzbXh1cWF4dUloem14WHhLS2I2M2NpMUItUmE5UXJFa3JyUUJ5Q0dLSzctYVFpTWc?oc=5)
+
+---
 
 ### [小児および成人におけるRSウイルス感染症、インフルエンザ、肺炎、その他の呼吸器疾患を予防します。](https://news.google.com/rss/articles/CBMilAFBVV95cUxQVG5rckJMcWU5Q3RiMVQ1YWlnQkxJemVKVGtOZC1ucWljSUo3VjNnalJITmdwNngyczJQV2k5WXdmSEExM0N5RzlYV1liU0dKaTRTeUJ6R2ttekpaTU9fWUVTVmc4NWtBWHQzUEozWmFqdW9GV1NlZVZwU0tBS01HNnhSaVZhNUkxcVpPcTdiZzlwSmRk?oc=5)
 
 2026-11-20
 
 出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMilAFBVV95cUxQVG5rckJMcWU5Q3RiMVQ1YWlnQkxJemVKVGtOZC1ucWljSUo3VjNnalJITmdwNngyczJQV2k5WXdmSEExM0N5RzlYV1liU0dKaTRTeUJ6R2ttekpaTU9fWUVTVmc4NWtBWHQzUEozWmFqdW9GV1NlZVZwU0tBS01HNnhSaVZhNUkxcVpPcTdiZzlwSmRk?oc=5)
+
+---
+
+### [なぜ学級閉鎖にするの？ インフルエンザ広げないため 症状なくうつすことも せきエチケット大事](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EVV9LMGJCaE0xUmoteXEzYlo1ZGFCNGRJNlVJNmdWdG1nQXF2UHNYZXEwa1p4MERwVi1EZHVwMGZuTjhEb19aRnJLc1RCa1VKLTh2MDBsX3dhZw?oc=5)
+
+2026-11-19
+
+出典: [北海道新聞デジタル](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EVV9LMGJCaE0xUmoteXEzYlo1ZGFCNGRJNlVJNmdWdG1nQXF2UHNYZXEwa1p4MERwVi1EZHVwMGZuTjhEb19aRnJLc1RCa1VKLTh2MDBsX3dhZw?oc=5)
 
 ---
 
@@ -53,6 +69,14 @@ last_modified_at: 2026-11-20
 2026-11-19
 
 出典: [日テレNEWS NNN](https://news.google.com/rss/articles/CBMihwFBVV95cUxQVVFEajhYZWhIRFlfUnFHV0NSaUxnaVRUNUdVSlYtTURGUkNtaE5nWVkwbWNNaXA2M3BLYXU4X2RrcmtYSTRRbzlyVHc4all3ZjFBOGVNSW1iU3ZoUmJBQkpRdEpBVjBwOEg1WjA2clp3WXZpRnUxSTM1VzN0aXBfdHJrQ1NVajA?oc=5)
+
+---
+
+### [全国的に早期流行中のインフルエンザ…目に現れる意外な症状【一生見える目をつくる】](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9abGJ1NjJVWHhqSFR5M2RsZ1l4WGJmU0RLY0FlU2ZNMHM0YlNXQmRqTjViZ2pIUTFKd0pLUmk5TzNFcXBydmNrRms1TmdCZllmbk1GcHA5ZUh4WEtxNXZMREtBdw?oc=5)
+
+2026-11-19
+
+出典: [Infoseek](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9abGJ1NjJVWHhqSFR5M2RsZ1l4WGJmU0RLY0FlU2ZNMHM0YlNXQmRqTjViZ2pIUTFKd0pLUmk5TzNFcXBydmNrRms1TmdCZllmbk1GcHA5ZUh4WEtxNXZMREtBdw?oc=5)
 
 ---
 

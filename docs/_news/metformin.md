@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "メホビル配合錠ＨＤ「トーワ」 に関する健康ニュース。予測適応症 5 件。"
 permalink: /news/metformin/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-21
 ---
 
 # メホビル配合錠ＨＤ「トーワ」 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="メホビル配合錠ＨＤ「トーワ」 に関するニュースは？">
-<strong>メホビル配合錠ＨＤ「トーワ」</strong> には現在 <strong>3 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>メホビル配合錠ＨＤ「トーワ」</strong> には現在 <strong>4 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,7 @@ last_modified_at: 2026-11-20
 <p><a href="{{ '/drugs/metformin/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（3 件）
+## 関連ニュース（4 件）
 
 ### [脳梗塞後SBP＜120試験「＜130否定の結果ではない」――国循・古賀氏コメント【時流◆AHA2026ピックアップ】](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FSlJDNVpYaEFWY2RDQXBpR0F0cTQtTmliSm9LNkkwdkxqUm9yY2pSVW9xS0RTZDNpeWFia2h4eEhWU180TVhlc3psX0lIQlFLSlE?oc=5)
 
@@ -52,6 +52,14 @@ last_modified_at: 2026-11-20
 2026-11-19 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">2型糖尿病</span>
 
 出典: [糖尿病リソースガイド](https://news.google.com/rss/articles/CBMia0FVX3lxTE5XeFJYUF92Y0t1aDFDRUhTVXpLamlFTUY0dW5VZm5WUGtncG9BeVltZEFqVG12YV9odFdCM2hiSTV4WlBtOXF2OURTN2RuX3k3UjhKR1o4NTA5VG8wcHpjRERvVGRwaXBTQlhR?oc=5)
+
+---
+
+### [連続血糖測定器を通じて、自分の食生活習慣と血糖の変化を持続的に観察することができる。 アイセンス](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93Y3o2UEFOSFprcmJhN2NsWFhBUWozRVlIM3I2em9hbHl6N0RjSjFaUWZrNVJJRGItN01lZ0JDQkJjdUEtRHo1LVNSOA?oc=5)
+
+2026-11-17 <span class="news-indication-tag">2型糖尿病</span>
+
+出典: [매일경제](https://news.google.com/rss/articles/CBMiS0FVX3lxTE93Y3o2UEFOSFprcmJhN2NsWFhBUWozRVlIM3I2em9hbHl6N0RjSjFaUWZrNVJJRGItN01lZ0JDQkJjdUEtRHo1LVNSOA?oc=5)
 
 ---
 

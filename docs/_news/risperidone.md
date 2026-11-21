@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "リスパダール錠２ｍｇ（選） に関する健康ニュース。予測適応症 4 件。"
 permalink: /news/risperidone/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-21
 ---
 
 # リスパダール錠２ｍｇ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="リスパダール錠２ｍｇ（選） に関するニュースは？">
-<strong>リスパダール錠２ｍｇ（選）</strong> には現在 <strong>43 件</strong>の関連ニュースがあり、予測適応症は 4 件です。
+<strong>リスパダール錠２ｍｇ（選）</strong> には現在 <strong>47 件</strong>の関連ニュースがあり、予測適応症は 4 件です。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,31 @@ last_modified_at: 2026-11-20
 <p><a href="{{ '/drugs/risperidone/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（43 件）
+## 関連ニュース（47 件）
+
+### [【闘病】婦人科の病気だとは考えもしなかった…胃腸の不調だと思っていた症状は『卵巣がん』(メディカルドック)](https://news.yahoo.co.jp/articles/825c5e5202247f645d2a8fd554907e26f6a0f0df?source=rss)
+
+2026-11-21 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">腫瘍</span> <span class="news-indication-tag">悪性腫瘍</span>
+
+出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/825c5e5202247f645d2a8fd554907e26f6a0f0df?source=rss)
+
+---
+
+### [欧米化した食生活では説明できない「若年発症大腸がん」はなぜ増えているのか 最新研究から判明「がんを引き起こす腸内細菌」と「抗生物質過剰使用」の危険性 #谷内田真一](https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5RWtkLTQ4Nm1lS05mWGpkaS0tYlBlQ01YbHVCUm1HMmRJYzZCNVFrcE85ck5IazVMXzZ3Vk41S0tCRGR1VHJnZ1FBV1hDT1Zj?oc=5)
+
+2026-11-20 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
+
+出典: [新潮QUE](https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5RWtkLTQ4Nm1lS05mWGpkaS0tYlBlQ01YbHVCUm1HMmRJYzZCNVFrcE85ck5IazVMXzZ3Vk41S0tCRGR1VHJnZ1FBV1hDT1Zj?oc=5)
+
+---
+
+### [性交渉で感染するがん化ウイルス「尖圭コンジローマ」…男性ではゆるやかに増加している｜Dr.中川 がんサバイバーの知恵](https://news.google.com/rss/articles/CBMiaEFVX3lxTE56bVE1NnJPLVRFZ3ZnbFFyc3lVdXNkUVc4ci1iT3BVLXNEbGcyRjFIUGlaQ01YWDJMd0hfeUZjLThiVDVHWmxaRzVvZldlc3BvU3ZNYVlEUzZLS1BkMWVpN0pmVFUya0NJ?oc=5)
+
+2026-11-20 <span class="news-indication-tag">がん</span>
+
+出典: [日刊ゲンダイDIGITAL](https://news.google.com/rss/articles/CBMiaEFVX3lxTE56bVE1NnJPLVRFZ3ZnbFFyc3lVdXNkUVc4ci1iT3BVLXNEbGcyRjFIUGlaQ01YWDJMd0hfeUZjLThiVDVHWmxaRzVvZldlc3BvU3ZNYVlEUzZLS1BkMWVpN0pmVFUya0NJ?oc=5)
+
+---
 
 ### [定期健康診断を受けていた若い男性が、何の症状もなかったにもかかわらず、稀な縦隔腫瘍が見つかった。](https://news.google.com/rss/articles/CBMiugFBVV95cUxQTk5LLXlKMlYwWUFqQU12OHpGajJUWjR6cWJvc0FuYkZ2dVo1T0wwcGtoR2haZ19mWmVJajlmRTdvVHhOdDZPckpOemkxbWdJLVNTTkNDRTFnTEhiZEpFM096V2pOMHJaLThKclQzY25nSGtnZUVtQlNzOVV4cDlkMDNHSTVQcXpSVWlFR3RHdkFEX3M2MEpWcTVobGsxeHlkQjhja1hKelBFYU1DYS1kQmotUHprak1nTkE?oc=5)
 
@@ -59,6 +83,14 @@ last_modified_at: 2026-11-20
 2026-11-20 <span class="news-indication-tag">がん</span>
 
 出典: [株式会社インプレス](https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xdWZYZFRfYV9YN3BoRFhPSUpVdmdSS3FaTTg4N2ZjdkNnSmNDQWkxdkpta0pySXViNm9ycEhLUmRrN0Q0LUl6WVgxNkREd1hSaXotNnhjSU9JRThLa01BUGFtZw?oc=5)
+
+---
+
+### [【腸内細菌治療の最前線】腸内細菌が「飲み薬」に？　潰瘍性大腸炎の患者を対象にカプセル型製剤の治験が進む　乳児期のアレルギー予防にも広がる研究【前後編の後編】](https://news.google.com/rss/articles/CBMiZEFVX3lxTE50V05sbU15aUotQVRGWGx4NXI4R2YwSVZQb202TkVXLXRObU02V0U4RTZ1bzFmSVlTX29BRERDNERHV0dYWnFzOFZMSFdWMlZ5VmJjRmVJNWUzS0pQeGVCdFJfSXjSAWpBVV95cUxPQ0JGT0Y2M3IyM0xESnY5OEdMQXozVE5KcU90dklJMDk3OXVaTUpJS3lGY2kyRjdISGVrd3BvZlVTNVZHM0dicUxBX1g5MHVwNnoxN0ctLTRmelBfcHJQV1Q3dnRaZEpBR0RR?oc=5)
+
+2026-11-20 <span class="news-indication-tag">がん</span>
+
+出典: [Infoseek](https://news.google.com/rss/articles/CBMiZEFVX3lxTE50V05sbU15aUotQVRGWGx4NXI4R2YwSVZQb202TkVXLXRObU02V0U4RTZ1bzFmSVlTX29BRERDNERHV0dYWnFzOFZMSFdWMlZ5VmJjRmVJNWUzS0pQeGVCdFJfSXjSAWpBVV95cUxPQ0JGT0Y2M3IyM0xESnY5OEdMQXozVE5KcU90dklJMDk3OXVaTUpJS3lGY2kyRjdISGVrd3BvZlVTNVZHM0dicUxBX1g5MHVwNnoxN0ctLTRmelBfcHJQV1Q3dnRaZEpBR0RR?oc=5)
 
 ---
 

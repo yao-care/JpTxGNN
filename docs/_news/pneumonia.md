@@ -3,9 +3,9 @@ layout: default
 title: "肺炎 (pneumonia) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "肺炎 (pneumonia) に関する健康ニュース。ニュース 3 件、関連医薬品 3 件。"
+description: "肺炎 (pneumonia) に関する健康ニュース。ニュース 4 件、関連医薬品 3 件。"
 permalink: /news/pneumonia/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-21
 ---
 
 # 肺炎 (pneumonia) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="肺炎 (pneumonia) に関するニュースは？">
-<strong>肺炎 (pneumonia)</strong> には現在 <strong>3 件</strong>の関連ニュースと 3 件の関連医薬品があります。
+<strong>肺炎 (pneumonia)</strong> には現在 <strong>4 件</strong>の関連ニュースと 3 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -32,13 +32,21 @@ last_modified_at: 2026-11-20
 </ul>
 </div>
 
-## 関連ニュース（3 件）
+## 関連ニュース（4 件）
 
 ### [小児および成人におけるRSウイルス感染症、インフルエンザ、肺炎、その他の呼吸器疾患を予防します。](https://news.google.com/rss/articles/CBMilAFBVV95cUxQVG5rckJMcWU5Q3RiMVQ1YWlnQkxJemVKVGtOZC1ucWljSUo3VjNnalJITmdwNngyczJQV2k5WXdmSEExM0N5RzlYV1liU0dKaTRTeUJ6R2ttekpaTU9fWUVTVmc4NWtBWHQzUEozWmFqdW9GV1NlZVZwU0tBS01HNnhSaVZhNUkxcVpPcTdiZzlwSmRk?oc=5)
 
 2026-11-20
 
 出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMilAFBVV95cUxQVG5rckJMcWU5Q3RiMVQ1YWlnQkxJemVKVGtOZC1ucWljSUo3VjNnalJITmdwNngyczJQV2k5WXdmSEExM0N5RzlYV1liU0dKaTRTeUJ6R2ttekpaTU9fWUVTVmc4NWtBWHQzUEozWmFqdW9GV1NlZVZwU0tBS01HNnhSaVZhNUkxcVpPcTdiZzlwSmRk?oc=5)
+
+---
+
+### [高齢者の肺炎は無症状（発熱がない）の場合があり、見過ごされやすい。](https://news.google.com/rss/articles/CBMiigFBVV95cUxQYVpROVdVVFpCVW54WnBwbUJYZkh3a054cnI5dXNycDdHOU5pMlZlcWN3QzN3NjA1aG9LTFl6d2FRQ3FaQUdwak1ZT3JCeUVfaVRrRGZ3d1I5V0RZTkRURXlhQzVvRkh2UzR4MmFfc20wSHIzZ2NIWHh1eFV6SEk1RFd3UHp4ZTNCVXc?oc=5)
+
+2026-11-20
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMiigFBVV95cUxQYVpROVdVVFpCVW54WnBwbUJYZkh3a054cnI5dXNycDdHOU5pMlZlcWN3QzN3NjA1aG9LTFl6d2FRQ3FaQUdwak1ZT3JCeUVfaVRrRGZ3d1I5V0RZTkRURXlhQzVvRkh2UzR4MmFfc20wSHIzZ2NIWHh1eFV6SEk1RFd3UHp4ZTNCVXc?oc=5)
 
 ---
 

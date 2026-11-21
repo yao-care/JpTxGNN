@@ -3,9 +3,9 @@ layout: default
 title: "大腸がん (colonic neoplasm) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "大腸がん (colonic neoplasm) に関する健康ニュース。ニュース 5 件、関連医薬品 1 件。"
+description: "大腸がん (colonic neoplasm) に関する健康ニュース。ニュース 6 件、関連医薬品 1 件。"
 permalink: /news/colonic-neoplasm/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-21
 ---
 
 # 大腸がん (colonic neoplasm) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="大腸がん (colonic neoplasm) に関するニュースは？">
-<strong>大腸がん (colonic neoplasm)</strong> には現在 <strong>5 件</strong>の関連ニュースと 1 件の関連医薬品があります。
+<strong>大腸がん (colonic neoplasm)</strong> には現在 <strong>6 件</strong>の関連ニュースと 1 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ last_modified_at: 2026-11-20
 </ul>
 </div>
 
-## 関連ニュース（5 件）
+## 関連ニュース（6 件）
+
+### [欧米化した食生活では説明できない「若年発症大腸がん」はなぜ増えているのか 最新研究から判明「がんを引き起こす腸内細菌」と「抗生物質過剰使用」の危険性 #谷内田真一](https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5RWtkLTQ4Nm1lS05mWGpkaS0tYlBlQ01YbHVCUm1HMmRJYzZCNVFrcE85ck5IazVMXzZ3Vk41S0tCRGR1VHJnZ1FBV1hDT1Zj?oc=5)
+
+2026-11-20
+
+出典: [新潮QUE](https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5RWtkLTQ4Nm1lS05mWGpkaS0tYlBlQ01YbHVCUm1HMmRJYzZCNVFrcE85ck5IazVMXzZ3Vk41S0tCRGR1VHJnZ1FBV1hDT1Zj?oc=5)
+
+---
 
 ### [大腸がん：医師たちがこの予期せぬ要因に注目。](https://news.google.com/rss/articles/CBMikAFBVV95cUxNWmFsTUtmMDJnWWtXSHZKeTYxN185WVZWRTgwa0lzWXh6RUFtMDBhSi1fMm93T1hhcUVQa0p5OFQ3aXRTRDZHUEJPcDl4M3lRY3hIV2Q3VlpRT0kyZHFiMnduUllOWXNCTjdPWnNBNzVCQ3hWZEVCdU1ZcVNYOHRneWl3SXRMb0dHc2lPRG5mTDg?oc=5)
 

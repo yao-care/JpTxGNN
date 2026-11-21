@@ -3,9 +3,9 @@ layout: default
 title: "認知症 (dementia) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "認知症 (dementia) に関する健康ニュース。ニュース 35 件、関連医薬品 2 件。"
+description: "認知症 (dementia) に関する健康ニュース。ニュース 37 件、関連医薬品 2 件。"
 permalink: /news/dementia/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-21
 ---
 
 # 認知症 (dementia) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="認知症 (dementia) に関するニュースは？">
-<strong>認知症 (dementia)</strong> には現在 <strong>35 件</strong>の関連ニュースと 2 件の関連医薬品があります。
+<strong>認知症 (dementia)</strong> には現在 <strong>37 件</strong>の関連ニュースと 2 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,15 @@ last_modified_at: 2026-11-20
 </ul>
 </div>
 
-## 関連ニュース（35 件）
+## 関連ニュース（37 件）
+
+### [孤独感が認知症リスクを上昇させる？　仏で20年間調査](https://news.google.com/rss/articles/CBMid0FVX3lxTE5FdVpsWDJQOW5oOU9GZ3g2YUtyam9EOEtPdjBGY2s2c2Nld281cnFrOVE1VDVlZ042WXRpdGhNZnJkbXN5TlFJVDgwLUhxckp4eGdNeXFtTTRTcWl1MkNtQk9ReWRBVFNzblNtVEg1WUtaRlgyUXdJ0gF8QVVfeXFMT0dpaC15QUl2eVVpMjNJa0FlZ3l5QURNYmw4NTVwUGRuNnowYi1oa0NHOWl2QXR4b1ZQOTNTZWh1c3NsNFpKaTBYZGh4WnpvZC11WEZpTlhENmJYWS1TbTFXWkRaTGg1cEZZVUxtYW9ZYUJFRWlqTzNvQWdGaQ?oc=5)
+
+2026-11-21
+
+出典: [Infoseek](https://news.google.com/rss/articles/CBMid0FVX3lxTE5FdVpsWDJQOW5oOU9GZ3g2YUtyam9EOEtPdjBGY2s2c2Nld281cnFrOVE1VDVlZ042WXRpdGhNZnJkbXN5TlFJVDgwLUhxckp4eGdNeXFtTTRTcWl1MkNtQk9ReWRBVFNzblNtVEg1WUtaRlgyUXdJ0gF8QVVfeXFMT0dpaC15QUl2eVVpMjNJa0FlZ3l5QURNYmw4NTVwUGRuNnowYi1oa0NHOWl2QXR4b1ZQOTNTZWh1c3NsNFpKaTBYZGh4WnpvZC11WEZpTlhENmJYWS1TbTFXWkRaTGg1cEZZVUxtYW9ZYUJFRWlqTzNvQWdGaQ?oc=5)
+
+---
 
 ### [「友人が少ない」「家族同居でも孤独感」 一人時間が長い人でも無理なくできる認知症予防のコツ（All About）](https://news.google.com/rss/articles/CBMif0FVX3lxTFBpVmpIbE9feTNQZmFzaEpITXUyTWllYkJpUE91MEY0ZUF5QWhrekJOdUstQkxkaW8wdWRxV21ITWNUQWRGLUxRTXRlZXpmcGZGQXh4aTFGc2tHWm5kSDZRelRxS1F1M1IweV9TNEVQNUZUbDZyMVdpYkZkRDRobnM?oc=5)
 
@@ -86,6 +94,14 @@ last_modified_at: 2026-11-20
 2026-11-18
 
 出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/3963013d84a9926c681f71a96d5cbec62050a231?source=rss)
+
+---
+
+### [「あえて坂道を選ぶ」認知症になりにくい“スーパーエイジャー”の実態→「質の高い人間関係」と「程よいストレス」がポイント](https://news.google.com/rss/articles/CBMif0FVX3lxTE4xWWl5N3Z6UmZWQlhhcE43U2pITGo0eHZRNWpMaWFST2ZfXzlIakI4QWVSS0pwb3h2dTluWEpTTE1raC1saGRGYXFmN0xmclRuLUFVb21LMmpkazZYT3dUNWlZRE91VktxVVpkd1ZMc1I1aWVuZURGQjNZS0htekk?oc=5)
+
+2026-11-18
+
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE4xWWl5N3Z6UmZWQlhhcE43U2pITGo0eHZRNWpMaWFST2ZfXzlIakI4QWVSS0pwb3h2dTluWEpTTE1raC1saGRGYXFmN0xmclRuLUFVb21LMmpkazZYT3dUNWlZRE91VktxVVpkd1ZMc1I1aWVuZURGQjNZS0htekk?oc=5)
 
 ---
 
@@ -201,7 +217,7 @@ last_modified_at: 2026-11-20
 
 ---
 
-### [80歳になった認知症研究の権威が実践する「脳の健康を保つ5つの習慣」](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MZHU0cV9FUGN5c3F5b1RxYVVUTFNLSEZwMElkNjBoajBma21LbUJzQzNTbDNaVUVVSGFvY3BUdUl3bTRpS0owbmNLa2J3ZTliMVVF?oc=5)
+### [80歳になった認知症研究の権威が実践する「脳の健康を保つ5つの習慣」 | 誰にでもできるシンプルなこと](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MZHU0cV9FUGN5c3F5b1RxYVVUTFNLSEZwMElkNjBoajBma21LbUJzQzNTbDNaVUVVSGFvY3BUdUl3bTRpS0owbmNLa2J3ZTliMVVF?oc=5)
 
 2026-11-14
 

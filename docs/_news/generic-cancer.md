@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "腫瘍 (generic_cancer) 関連ニュース"
+title: "がん (generic_cancer) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "腫瘍 (generic_cancer) に関する健康ニュース。ニュース 40 件、関連医薬品 67 件。"
+description: "がん (generic_cancer) に関する健康ニュース。ニュース 44 件、関連医薬品 67 件。"
 permalink: /news/generic-cancer/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-21
 ---
 
-# 腫瘍 (generic_cancer) 関連ニュース
+# がん (generic_cancer) 関連ニュース
 
 [← ニュース一覧に戻る]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="腫瘍 (generic_cancer) に関するニュースは？">
-<strong>腫瘍 (generic_cancer)</strong> には現在 <strong>40 件</strong>の関連ニュースと 67 件の関連医薬品があります。
+<p class="key-answer" data-question="がん (generic_cancer) に関するニュースは？">
+<strong>がん (generic_cancer)</strong> には現在 <strong>44 件</strong>の関連ニュースと 67 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
-このページは「腫瘍」に関する最新の健康ニュースをまとめ、JpTxGNN データベースで予測適応症にこの疾患を含む医薬品を一覧表示します。
+このページは「がん」に関する最新の健康ニュースをまとめ、JpTxGNN データベースで予測適応症にこの疾患を含む医薬品を一覧表示します。
 </div>
 
 <div class="related-drugs-card">
@@ -94,7 +94,31 @@ last_modified_at: 2026-11-20
 </ul>
 </div>
 
-## 関連ニュース（40 件）
+## 関連ニュース（44 件）
+
+### [【闘病】婦人科の病気だとは考えもしなかった…胃腸の不調だと思っていた症状は『卵巣がん』(メディカルドック)](https://news.yahoo.co.jp/articles/825c5e5202247f645d2a8fd554907e26f6a0f0df?source=rss)
+
+2026-11-21
+
+出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/825c5e5202247f645d2a8fd554907e26f6a0f0df?source=rss)
+
+---
+
+### [欧米化した食生活では説明できない「若年発症大腸がん」はなぜ増えているのか 最新研究から判明「がんを引き起こす腸内細菌」と「抗生物質過剰使用」の危険性 #谷内田真一](https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5RWtkLTQ4Nm1lS05mWGpkaS0tYlBlQ01YbHVCUm1HMmRJYzZCNVFrcE85ck5IazVMXzZ3Vk41S0tCRGR1VHJnZ1FBV1hDT1Zj?oc=5)
+
+2026-11-20
+
+出典: [新潮QUE](https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5RWtkLTQ4Nm1lS05mWGpkaS0tYlBlQ01YbHVCUm1HMmRJYzZCNVFrcE85ck5IazVMXzZ3Vk41S0tCRGR1VHJnZ1FBV1hDT1Zj?oc=5)
+
+---
+
+### [性交渉で感染するがん化ウイルス「尖圭コンジローマ」…男性ではゆるやかに増加している｜Dr.中川 がんサバイバーの知恵](https://news.google.com/rss/articles/CBMiaEFVX3lxTE56bVE1NnJPLVRFZ3ZnbFFyc3lVdXNkUVc4ci1iT3BVLXNEbGcyRjFIUGlaQ01YWDJMd0hfeUZjLThiVDVHWmxaRzVvZldlc3BvU3ZNYVlEUzZLS1BkMWVpN0pmVFUya0NJ?oc=5)
+
+2026-11-20
+
+出典: [日刊ゲンダイDIGITAL](https://news.google.com/rss/articles/CBMiaEFVX3lxTE56bVE1NnJPLVRFZ3ZnbFFyc3lVdXNkUVc4ci1iT3BVLXNEbGcyRjFIUGlaQ01YWDJMd0hfeUZjLThiVDVHWmxaRzVvZldlc3BvU3ZNYVlEUzZLS1BkMWVpN0pmVFUya0NJ?oc=5)
+
+---
 
 ### [定期健康診断を受けていた若い男性が、何の症状もなかったにもかかわらず、稀な縦隔腫瘍が見つかった。](https://news.google.com/rss/articles/CBMiugFBVV95cUxQTk5LLXlKMlYwWUFqQU12OHpGajJUWjR6cWJvc0FuYkZ2dVo1T0wwcGtoR2haZ19mWmVJajlmRTdvVHhOdDZPckpOemkxbWdJLVNTTkNDRTFnTEhiZEpFM096V2pOMHJaLThKclQzY25nSGtnZUVtQlNzOVV4cDlkMDNHSTVQcXpSVWlFR3RHdkFEX3M2MEpWcTVobGsxeHlkQjhja1hKelBFYU1DYS1kQmotUHprak1nTkE?oc=5)
 
@@ -117,6 +141,14 @@ last_modified_at: 2026-11-20
 2026-11-20
 
 出典: [株式会社インプレス](https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xdWZYZFRfYV9YN3BoRFhPSUpVdmdSS3FaTTg4N2ZjdkNnSmNDQWkxdkpta0pySXViNm9ycEhLUmRrN0Q0LUl6WVgxNkREd1hSaXotNnhjSU9JRThLa01BUGFtZw?oc=5)
+
+---
+
+### [【腸内細菌治療の最前線】腸内細菌が「飲み薬」に？　潰瘍性大腸炎の患者を対象にカプセル型製剤の治験が進む　乳児期のアレルギー予防にも広がる研究【前後編の後編】](https://news.google.com/rss/articles/CBMiZEFVX3lxTE50V05sbU15aUotQVRGWGx4NXI4R2YwSVZQb202TkVXLXRObU02V0U4RTZ1bzFmSVlTX29BRERDNERHV0dYWnFzOFZMSFdWMlZ5VmJjRmVJNWUzS0pQeGVCdFJfSXjSAWpBVV95cUxPQ0JGT0Y2M3IyM0xESnY5OEdMQXozVE5KcU90dklJMDk3OXVaTUpJS3lGY2kyRjdISGVrd3BvZlVTNVZHM0dicUxBX1g5MHVwNnoxN0ctLTRmelBfcHJQV1Q3dnRaZEpBR0RR?oc=5)
+
+2026-11-20
+
+出典: [Infoseek](https://news.google.com/rss/articles/CBMiZEFVX3lxTE50V05sbU15aUotQVRGWGx4NXI4R2YwSVZQb202TkVXLXRObU02V0U4RTZ1bzFmSVlTX29BRERDNERHV0dYWnFzOFZMSFdWMlZ5VmJjRmVJNWUzS0pQeGVCdFJfSXjSAWpBVV95cUxPQ0JGT0Y2M3IyM0xESnY5OEdMQXozVE5KcU90dklJMDk3OXVaTUpJS3lGY2kyRjdISGVrd3BvZlVTNVZHM0dicUxBX1g5MHVwNnoxN0ctLTRmelBfcHJQV1Q3dnRaZEpBR0RR?oc=5)
 
 ---
 
