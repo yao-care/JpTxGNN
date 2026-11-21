@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="イレッサ錠２５０　２５０ｍｇ（選） に関するニュースは？">
-<strong>イレッサ錠２５０　２５０ｍｇ（選）</strong> には現在 <strong>83 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
+<strong>イレッサ錠２５０　２５０ｍｇ（選）</strong> には現在 <strong>86 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,7 @@ last_modified_at: 2026-11-21
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（83 件）
+## 関連ニュース（86 件）
 
 ### [【新刊案内】認知症にはスイッチがある。 専門医がやさしく解説する人生100年時代の脳活習慣『認知症スイッチの切り方』が11月20日発売！](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMeFdrSFFFZEZtLWFKRGhkRXpjRXd1eXRIQ3RDc0NrZkg3aDVFRS1MYm1SNmRtT2R0WlhXUjhHS2FHaG85MXZJSjJwNkJRcWJjQTRfNmg4Ml9rNGJBbVE?oc=5)
 
@@ -104,6 +104,14 @@ last_modified_at: 2026-11-21
 2026-11-20 <span class="news-indication-tag">がん</span>
 
 出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMifkFVX3lxTE5sUm1vUWhuVE80NnZxYy1WamF6eWlya1pRZlZIZy01RkRBc2gzMDZVZ1NvRG0yaU1oQzNaLTBJZ3FzZ0pFb0NWRDczNjZHdWJ0MGp0NDR1X1gxSDZhZXBndUtYYzNoaEczU0FxWERHanAyMnRQc2lTeUgtcDJsUQ?oc=5)
+
+---
+
+### [「食後の眠気」は危険！糖尿病や認知症リスクにつながる「血糖値スパイク」を防ぐ毎日の習慣とは](https://news.google.com/rss/articles/CBMihgFBVV95cUxNN2prcUw2UWxfeHBqYWNsVFVYcmFyZVA0NTF0cGl3NzdWYnN2THdHU25pUURBSlRFWUVTaHE3VmtQVVdpRk5rU2pEb1c2NkFfUkhlbGYtQjNaSUNQZ2JFTnVJQjBCcmxVVkNBZXVvZHRyUHJqblU3dEJZNlBmZUlLTDJPdmo2Z9IBggFBVV95cUxORGhpWjBFQTFERFZiSHV4TlhvSk9UX0tDZGYtQTVrQ1hwZmpCU3RKRmR5cFNPQU8zNXhkVmxKZHQxbTJfVXprS0lSQ3ZhUXpvaXNzdEt2SWtWT0kxbVFyTC1iZ1pNdVNfdGtHU3AzRE5ITkc4ZVRnMjF2X3RFWmNyc1p3?oc=5)
+
+2026-11-20 <span class="news-indication-tag">認知症</span> <span class="news-indication-tag">心筋梗塞</span> <span class="news-indication-tag">脳梗塞</span>
+
+出典: [ｄメニューニュース](https://news.google.com/rss/articles/CBMihgFBVV95cUxNN2prcUw2UWxfeHBqYWNsVFVYcmFyZVA0NTF0cGl3NzdWYnN2THdHU25pUURBSlRFWUVTaHE3VmtQVVdpRk5rU2pEb1c2NkFfUkhlbGYtQjNaSUNQZ2JFTnVJQjBCcmxVVkNBZXVvZHRyUHJqblU3dEJZNlBmZUlLTDJPdmo2Z9IBggFBVV95cUxORGhpWjBFQTFERFZiSHV4TlhvSk9UX0tDZGYtQTVrQ1hwZmpCU3RKRmR5cFNPQU8zNXhkVmxKZHQxbTJfVXprS0lSQ3ZhUXpvaXNzdEt2SWtWT0kxbVFyTC1iZ1pNdVNfdGtHU3AzRE5ITkc4ZVRnMjF2X3RFWmNyc1p3?oc=5)
 
 ---
 
@@ -275,6 +283,14 @@ last_modified_at: 2026-11-21
 
 ---
 
+### [｢あえて坂道を選ぶ｣認知症になりにくい"スーパーエイジャー"の実態→｢質の高い人間関係｣と｢程よいストレス｣がポイント](https://news.google.com/rss/articles/CBMicEFVX3lxTFBDSEhkQ09YMFRVeWRUblFhX3pXaFJDUllNZDZXd1FLQlhwVVM5R1A3aWsxZGRnNFVDb3hPQVhaRnVkc2puVUp3WHE2a0VUS3dZUVkyS3hHRFA3a0h2bG16OEZGN0Frc1NOM1dydVF1WnI?oc=5)
+
+2026-11-18 <span class="news-indication-tag">認知症</span>
+
+出典: [Infoseek](https://news.google.com/rss/articles/CBMicEFVX3lxTFBDSEhkQ09YMFRVeWRUblFhX3pXaFJDUllNZDZXd1FLQlhwVVM5R1A3aWsxZGRnNFVDb3hPQVhaRnVkc2puVUp3WHE2a0VUS3dZUVkyS3hHRFA3a0h2bG16OEZGN0Frc1NOM1dydVF1WnI?oc=5) · [Yahoo!ニュース](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRUN4eXU3dDA3SlpTOFRSZlB1VVdnODhzTWE2WjRmdWxMcE10dlFrcW1lREF0WEQzRTN3b2I3LVpKM3U0QUN3S0U4RWxDVExqY0xFRi1oSlJqLXo4S2E4NmZDcENTcEZOaFc3cDhKS2l5dXBDQnNUa1lzUnh4YnVfOUMyX0NzM3A2?oc=5)
+
+---
+
 ### [「あえて坂道を選ぶ」認知症になりにくい“スーパーエイジャー”の実態→「質の高い人間関係」と「程よいストレス」がポイント](https://news.google.com/rss/articles/CBMif0FVX3lxTE4xWWl5N3Z6UmZWQlhhcE43U2pITGo0eHZRNWpMaWFST2ZfXzlIakI4QWVSS0pwb3h2dTluWEpTTE1raC1saGRGYXFmN0xmclRuLUFVb21LMmpkazZYT3dUNWlZRE91VktxVVpkd1ZMc1I1aWVuZURGQjNZS0htekk?oc=5)
 
 2026-11-18 <span class="news-indication-tag">認知症</span>
@@ -328,6 +344,14 @@ last_modified_at: 2026-11-21
 2026-11-18 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">脳卒中</span> <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾患</span>
 
 出典: [NNAアジア](https://news.google.com/rss/articles/CBMiRkFVX3lxTFB2WkIzOGhnMk94ZkZ1X093NTM5LTlUc0JrU21YcVhVakt1cklxM01WaWJoLUNqQVBLZmE2ZVdJX19Gc0xwQkE?oc=5)
+
+---
+
+### [メイヨー・クリニックの研究、血液マーカーが認知機能低下リスクの推定に役立つ可能性を示す](https://news.google.com/rss/articles/CBMimAFBVV95cUxQdW5nSWZ4YlEwN25KS0NKblY0djJDQXhleE9keXNGUm9leWVZSXE4YkU5X2h5c1dhdGFlVEFDcmZEejJqZ3ZGU2hjX2ppRXBMdjRDSElobXV2U0NZWjhBa2s1NXlVTjFfaVhMQWZmZWtvNDRJMDhIdmlqdVpUbHZzZF93TnBjaktqV2haZl9qalgycGpZOVRWRw?oc=5)
+
+2026-11-18 <span class="news-indication-tag">認知症</span>
+
+出典: [Mezha.net](https://news.google.com/rss/articles/CBMimAFBVV95cUxQdW5nSWZ4YlEwN25KS0NKblY0djJDQXhleE9keXNGUm9leWVZSXE4YkU5X2h5c1dhdGFlVEFDcmZEejJqZ3ZGU2hjX2ppRXBMdjRDSElobXV2U0NZWjhBa2s1NXlVTjFfaVhMQWZmZWtvNDRJMDhIdmlqdVpUbHZzZF93TnBjaktqV2haZl9qalgycGpZOVRWRw?oc=5)
 
 ---
 

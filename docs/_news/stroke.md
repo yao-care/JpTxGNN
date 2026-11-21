@@ -3,7 +3,7 @@ layout: default
 title: "脳卒中 (stroke) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "脳卒中 (stroke) に関する健康ニュース。ニュース 11 件、関連医薬品 16 件。"
+description: "脳卒中 (stroke) に関する健康ニュース。ニュース 12 件、関連医薬品 16 件。"
 permalink: /news/stroke/
 last_modified_at: 2026-11-21
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="脳卒中 (stroke) に関するニュースは？">
-<strong>脳卒中 (stroke)</strong> には現在 <strong>11 件</strong>の関連ニュースと 16 件の関連医薬品があります。
+<strong>脳卒中 (stroke)</strong> には現在 <strong>12 件</strong>の関連ニュースと 16 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -45,13 +45,21 @@ last_modified_at: 2026-11-21
 </ul>
 </div>
 
-## 関連ニュース（11 件）
+## 関連ニュース（12 件）
 
 ### [何の症状もなかったにもかかわらず、その男性は突然脳卒中の危険に直面した。](https://news.google.com/rss/articles/CBMimgFBVV95cUxOazdLLWJIdkRqNU14bi1BUU1hU3ZfeENTeW15d25jODVnSFdDNEN6QTcxdVl1LTZzTlNwMlBuazFndjhDOE0tTmI0SEVXYUZjb3JudHZEdldMX1AtdjhpVUVxaVd4aFA1djh0NEhKZmxUd2hlZUd5ay1SbnA5VWtMTDI2dkZoMlltSm94X09UOHVEemxqdmk5UUZn?oc=5)
 
 2026-11-21
 
 出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMimgFBVV95cUxOazdLLWJIdkRqNU14bi1BUU1hU3ZfeENTeW15d25jODVnSFdDNEN6QTcxdVl1LTZzTlNwMlBuazFndjhDOE0tTmI0SEVXYUZjb3JudHZEdldMX1AtdjhpVUVxaVd4aFA1djh0NEhKZmxUd2hlZUd5ay1SbnA5VWtMTDI2dkZoMlltSm94X09UOHVEemxqdmk5UUZn?oc=5)
+
+---
+
+### [「食後の眠気」は危険！糖尿病や認知症リスクにつながる「血糖値スパイク」を防ぐ毎日の習慣とは](https://news.google.com/rss/articles/CBMihgFBVV95cUxNN2prcUw2UWxfeHBqYWNsVFVYcmFyZVA0NTF0cGl3NzdWYnN2THdHU25pUURBSlRFWUVTaHE3VmtQVVdpRk5rU2pEb1c2NkFfUkhlbGYtQjNaSUNQZ2JFTnVJQjBCcmxVVkNBZXVvZHRyUHJqblU3dEJZNlBmZUlLTDJPdmo2Z9IBggFBVV95cUxORGhpWjBFQTFERFZiSHV4TlhvSk9UX0tDZGYtQTVrQ1hwZmpCU3RKRmR5cFNPQU8zNXhkVmxKZHQxbTJfVXprS0lSQ3ZhUXpvaXNzdEt2SWtWT0kxbVFyTC1iZ1pNdVNfdGtHU3AzRE5ITkc4ZVRnMjF2X3RFWmNyc1p3?oc=5)
+
+2026-11-20
+
+出典: [ｄメニューニュース](https://news.google.com/rss/articles/CBMihgFBVV95cUxNN2prcUw2UWxfeHBqYWNsVFVYcmFyZVA0NTF0cGl3NzdWYnN2THdHU25pUURBSlRFWUVTaHE3VmtQVVdpRk5rU2pEb1c2NkFfUkhlbGYtQjNaSUNQZ2JFTnVJQjBCcmxVVkNBZXVvZHRyUHJqblU3dEJZNlBmZUlLTDJPdmo2Z9IBggFBVV95cUxORGhpWjBFQTFERFZiSHV4TlhvSk9UX0tDZGYtQTVrQ1hwZmpCU3RKRmR5cFNPQU8zNXhkVmxKZHQxbTJfVXprS0lSQ3ZhUXpvaXNzdEt2SWtWT0kxbVFyTC1iZ1pNdVNfdGtHU3AzRE5ITkc4ZVRnMjF2X3RFWmNyc1p3?oc=5)
 
 ---
 

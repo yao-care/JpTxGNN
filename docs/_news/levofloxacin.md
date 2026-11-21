@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="クラビット点眼液１．５％（選） に関するニュースは？">
-<strong>クラビット点眼液１．５％（選）</strong> には現在 <strong>52 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
+<strong>クラビット点眼液１．５％（選）</strong> には現在 <strong>53 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,21 @@ last_modified_at: 2026-11-21
 <p><a href="{{ '/drugs/levofloxacin/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（52 件）
+## 関連ニュース（53 件）
 
 ### [がん遺伝子検査：早期発見の機会。](https://news.google.com/rss/articles/CBMihgFBVV95cUxQZmpSb1JUYTFyN1ljX2V6NER6MTUxcnR1V0gxUnJ0Vmt4bS00bHppRy0xMnl0aF9VRDRpMm9YaENrSmpTdUxHcVFQbTdxRkYzeF9hX2sydFJtWGFwTmx1bnEyVm9vR3dLWllwYXF4V09ZV2RBWUx6aXA1YXRiMW9hb0hCdFNiQQ?oc=5)
 
 2026-11-21 <span class="news-indication-tag">がん</span>
 
 出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMihgFBVV95cUxQZmpSb1JUYTFyN1ljX2V6NER6MTUxcnR1V0gxUnJ0Vmt4bS00bHppRy0xMnl0aF9VRDRpMm9YaENrSmpTdUxHcVFQbTdxRkYzeF9hX2sydFJtWGFwTmx1bnEyVm9vR3dLWllwYXF4V09ZV2RBWUx6aXA1YXRiMW9hb0hCdFNiQQ?oc=5)
+
+---
+
+### [気温が下がるにつれて、非典型的な症状を伴う肺炎に注意してください。](https://news.google.com/rss/articles/CBMimgFBVV95cUxONUFGZkZMUXBHMFRqX0tRRlFxU1A5UE9CX1dsYWt3V2lNV1JqRmF0T2dIeWktdTJVb3dXbkxYOGJQUkVCVEZpUmtuZjdtNEV3RTU1OUJ6NTdvN3E1blF4a21rTFhFWjlhY1U0ZXg1N1ZGNFdzUFpfUVdsNGRBQi1zRFl4RnY0N2k0NElTdm1oeGhrNXdwNFZYM3VR?oc=5)
+
+2026-11-21 <span class="news-indication-tag">肺炎</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMimgFBVV95cUxONUFGZkZMUXBHMFRqX0tRRlFxU1A5UE9CX1dsYWt3V2lNV1JqRmF0T2dIeWktdTJVb3dXbkxYOGJQUkVCVEZpUmtuZjdtNEV3RTU1OUJ6NTdvN3E1blF4a21rTFhFWjlhY1U0ZXg1N1ZGNFdzUFpfUVdsNGRBQi1zRFl4RnY0N2k0NElTdm1oeGhrNXdwNFZYM3VR?oc=5)
 
 ---
 

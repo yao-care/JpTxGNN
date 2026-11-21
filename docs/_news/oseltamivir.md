@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="タミフルドライシロップ３％（選） に関するニュースは？">
-<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>16 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>18 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,21 @@ last_modified_at: 2026-11-21
 <p><a href="{{ '/drugs/oseltamivir/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（16 件）
+## 関連ニュース（18 件）
 
 ### [季節性インフルエンザの患者数が急速に増加しており、さらなる感染拡大のリスクが懸念されている。](https://news.google.com/rss/articles/CBMihgFBVV95cUxPUFNfcnRFS2lBTzdmcjhFMHFJZktwZDJJZWE0U1A0eUI1MzlSSTVWbkRQOW9xMjVMWTdDWHZTM3NYYjJhbTdsd1Fhb29KeXI0b2RxSVJFWEptS2hHTjNxcGZZSHFMVnR4NWVmT00zRF9LV1lYYzcySUJ3VjExcENwTHplOUJnZw?oc=5)
 
 2026-11-21 <span class="news-indication-tag">インフルエンザ</span>
 
 出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMihgFBVV95cUxPUFNfcnRFS2lBTzdmcjhFMHFJZktwZDJJZWE0U1A0eUI1MzlSSTVWbkRQOW9xMjVMWTdDWHZTM3NYYjJhbTdsd1Fhb29KeXI0b2RxSVJFWEptS2hHTjNxcGZZSHFMVnR4NWVmT00zRF9LV1lYYzcySUJ3VjExcENwTHplOUJnZw?oc=5)
+
+---
+
+### [気温が下がるにつれて、非典型的な症状を伴う肺炎に注意してください。](https://news.google.com/rss/articles/CBMimgFBVV95cUxONUFGZkZMUXBHMFRqX0tRRlFxU1A5UE9CX1dsYWt3V2lNV1JqRmF0T2dIeWktdTJVb3dXbkxYOGJQUkVCVEZpUmtuZjdtNEV3RTU1OUJ6NTdvN3E1blF4a21rTFhFWjlhY1U0ZXg1N1ZGNFdzUFpfUVdsNGRBQi1zRFl4RnY0N2k0NElTdm1oeGhrNXdwNFZYM3VR?oc=5)
+
+2026-11-21 <span class="news-indication-tag">肺炎</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMimgFBVV95cUxONUFGZkZMUXBHMFRqX0tRRlFxU1A5UE9CX1dsYWt3V2lNV1JqRmF0T2dIeWktdTJVb3dXbkxYOGJQUkVCVEZpUmtuZjdtNEV3RTU1OUJ6NTdvN3E1blF4a21rTFhFWjlhY1U0ZXg1N1ZGNFdzUFpfUVdsNGRBQi1zRFl4RnY0N2k0NElTdm1oeGhrNXdwNFZYM3VR?oc=5)
 
 ---
 
@@ -117,6 +125,14 @@ last_modified_at: 2026-11-21
 2026-11-18 <span class="news-indication-tag">肺炎</span>
 
 出典: [厚生労働省](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfMHhDRXhOSU1ZTmxjdGl6ai1rT0ZGdWhJejBLbHRtWTd5UWlzdkJmVFF6MXFFWXZoU1pCNXR1eW52YmpINk11OVRyRi1oR25XREQ4ejEtT3Y?oc=5)
+
+---
+
+### [もうインフルエンザに罹ってしまった、それでもワクチン接種は必要](https://news.google.com/rss/articles/CBMiekFVX3lxTE1nZUxwYUxtTVlKcGJ4aTlYeGRTbmprRjJ4NzA0V1dvVm9wcmZtMlNjUmo5QXVCMzZnaEtJUUJqbGhOSXU4dm1ldC1TYnFqTm9sZnBhR1h6VGVoS3dicGh1YXhuQ0luOTRudWQwQ1hidzZnbEpwQ0V1Skh30gF_QVVfeXFMTncwdFJrWEZJMTROSzhJTFotNVB4SW9yMU0wLUwyWFJtcjJWdUNmOE16emxkZEllaGVJYkRjMEl3YXBMcTgwMmtnWWVhdUdQNzROcWR4cGlJeXBLZ3NkbWNnZUU4ZVJxVXNoWWFxQWpLLWtoOWFMRTRsVERuQ2M2WQ?oc=5)
+
+2026-11-16 <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [ｄメニューニュース](https://news.google.com/rss/articles/CBMiekFVX3lxTE1nZUxwYUxtTVlKcGJ4aTlYeGRTbmprRjJ4NzA0V1dvVm9wcmZtMlNjUmo5QXVCMzZnaEtJUUJqbGhOSXU4dm1ldC1TYnFqTm9sZnBhR1h6VGVoS3dicGh1YXhuQ0luOTRudWQwQ1hidzZnbEpwQ0V1Skh30gF_QVVfeXFMTncwdFJrWEZJMTROSzhJTFotNVB4SW9yMU0wLUwyWFJtcjJWdUNmOE16emxkZEllaGVJYkRjMEl3YXBMcTgwMmtnWWVhdUdQNzROcWR4cGlJeXBLZ3NkbWNnZUU4ZVJxVXNoWWFxQWpLLWtoOWFMRTRsVERuQ2M2WQ?oc=5)
 
 ---
 

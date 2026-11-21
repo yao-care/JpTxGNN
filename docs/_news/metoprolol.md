@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="ロプレソール錠４０ｍｇ（選） に関するニュースは？">
-<strong>ロプレソール錠４０ｍｇ（選）</strong> には現在 <strong>56 件</strong>の関連ニュースがあり、予測適応症は 6 件です。
+<strong>ロプレソール錠４０ｍｇ（選）</strong> には現在 <strong>57 件</strong>の関連ニュースがあり、予測適応症は 6 件です。
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,7 @@ last_modified_at: 2026-11-21
 <p><a href="{{ '/drugs/metoprolol/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（56 件）
+## 関連ニュース（57 件）
 
 ### [がん遺伝子検査：早期発見の機会。](https://news.google.com/rss/articles/CBMihgFBVV95cUxQZmpSb1JUYTFyN1ljX2V6NER6MTUxcnR1V0gxUnJ0Vmt4bS00bHppRy0xMnl0aF9VRDRpMm9YaENrSmpTdUxHcVFQbTdxRkYzeF9hX2sydFJtWGFwTmx1bnEyVm9vR3dLWllwYXF4V09ZV2RBWUx6aXA1YXRiMW9hb0hCdFNiQQ?oc=5)
 
@@ -85,6 +85,14 @@ last_modified_at: 2026-11-21
 2026-11-20 <span class="news-indication-tag">がん</span>
 
 出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMifkFVX3lxTE5sUm1vUWhuVE80NnZxYy1WamF6eWlya1pRZlZIZy01RkRBc2gzMDZVZ1NvRG0yaU1oQzNaLTBJZ3FzZ0pFb0NWRDczNjZHdWJ0MGp0NDR1X1gxSDZhZXBndUtYYzNoaEczU0FxWERHanAyMnRQc2lTeUgtcDJsUQ?oc=5)
+
+---
+
+### [「食後の眠気」は危険！糖尿病や認知症リスクにつながる「血糖値スパイク」を防ぐ毎日の習慣とは](https://news.google.com/rss/articles/CBMihgFBVV95cUxNN2prcUw2UWxfeHBqYWNsVFVYcmFyZVA0NTF0cGl3NzdWYnN2THdHU25pUURBSlRFWUVTaHE3VmtQVVdpRk5rU2pEb1c2NkFfUkhlbGYtQjNaSUNQZ2JFTnVJQjBCcmxVVkNBZXVvZHRyUHJqblU3dEJZNlBmZUlLTDJPdmo2Z9IBggFBVV95cUxORGhpWjBFQTFERFZiSHV4TlhvSk9UX0tDZGYtQTVrQ1hwZmpCU3RKRmR5cFNPQU8zNXhkVmxKZHQxbTJfVXprS0lSQ3ZhUXpvaXNzdEt2SWtWT0kxbVFyTC1iZ1pNdVNfdGtHU3AzRE5ITkc4ZVRnMjF2X3RFWmNyc1p3?oc=5)
+
+2026-11-20 <span class="news-indication-tag">認知症</span> <span class="news-indication-tag">心筋梗塞</span> <span class="news-indication-tag">脳梗塞</span>
+
+出典: [ｄメニューニュース](https://news.google.com/rss/articles/CBMihgFBVV95cUxNN2prcUw2UWxfeHBqYWNsVFVYcmFyZVA0NTF0cGl3NzdWYnN2THdHU25pUURBSlRFWUVTaHE3VmtQVVdpRk5rU2pEb1c2NkFfUkhlbGYtQjNaSUNQZ2JFTnVJQjBCcmxVVkNBZXVvZHRyUHJqblU3dEJZNlBmZUlLTDJPdmo2Z9IBggFBVV95cUxORGhpWjBFQTFERFZiSHV4TlhvSk9UX0tDZGYtQTVrQ1hwZmpCU3RKRmR5cFNPQU8zNXhkVmxKZHQxbTJfVXprS0lSQ3ZhUXpvaXNzdEt2SWtWT0kxbVFyTC1iZ1pNdVNfdGtHU3AzRE5ITkc4ZVRnMjF2X3RFWmNyc1p3?oc=5)
 
 ---
 

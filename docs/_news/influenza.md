@@ -3,7 +3,7 @@ layout: default
 title: "インフルエンザ (influenza) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 13 件、関連医薬品 1 件。"
+description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 14 件、関連医薬品 1 件。"
 permalink: /news/influenza/
 last_modified_at: 2026-11-21
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="インフルエンザ (influenza) に関するニュースは？">
-<strong>インフルエンザ (influenza)</strong> には現在 <strong>13 件</strong>の関連ニュースと 1 件の関連医薬品があります。
+<strong>インフルエンザ (influenza)</strong> には現在 <strong>14 件</strong>の関連ニュースと 1 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ last_modified_at: 2026-11-21
 </ul>
 </div>
 
-## 関連ニュース（13 件）
+## 関連ニュース（14 件）
 
 ### [季節性インフルエンザの患者数が急速に増加しており、さらなる感染拡大のリスクが懸念されている。](https://news.google.com/rss/articles/CBMihgFBVV95cUxPUFNfcnRFS2lBTzdmcjhFMHFJZktwZDJJZWE0U1A0eUI1MzlSSTVWbkRQOW9xMjVMWTdDWHZTM3NYYjJhbTdsd1Fhb29KeXI0b2RxSVJFWEptS2hHTjNxcGZZSHFMVnR4NWVmT00zRF9LV1lYYzcySUJ3VjExcENwTHplOUJnZw?oc=5)
 
@@ -101,6 +101,14 @@ last_modified_at: 2026-11-21
 2026-11-18
 
 出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNQl9JTUdYMHhBb2pIMzFaUkVNZUVEekNWZEs5NkhIQmhwYWlXUjdjbEx2X3dncnFrRUIyeVd3b3A3M3prckVWSTZoTDNza3BRd2NrNms4ZEJkTlZHX1Fr?oc=5)
+
+---
+
+### [もうインフルエンザに罹ってしまった、それでもワクチン接種は必要](https://news.google.com/rss/articles/CBMiekFVX3lxTE1nZUxwYUxtTVlKcGJ4aTlYeGRTbmprRjJ4NzA0V1dvVm9wcmZtMlNjUmo5QXVCMzZnaEtJUUJqbGhOSXU4dm1ldC1TYnFqTm9sZnBhR1h6VGVoS3dicGh1YXhuQ0luOTRudWQwQ1hidzZnbEpwQ0V1Skh30gF_QVVfeXFMTncwdFJrWEZJMTROSzhJTFotNVB4SW9yMU0wLUwyWFJtcjJWdUNmOE16emxkZEllaGVJYkRjMEl3YXBMcTgwMmtnWWVhdUdQNzROcWR4cGlJeXBLZ3NkbWNnZUU4ZVJxVXNoWWFxQWpLLWtoOWFMRTRsVERuQ2M2WQ?oc=5)
+
+2026-11-16
+
+出典: [ｄメニューニュース](https://news.google.com/rss/articles/CBMiekFVX3lxTE1nZUxwYUxtTVlKcGJ4aTlYeGRTbmprRjJ4NzA0V1dvVm9wcmZtMlNjUmo5QXVCMzZnaEtJUUJqbGhOSXU4dm1ldC1TYnFqTm9sZnBhR1h6VGVoS3dicGh1YXhuQ0luOTRudWQwQ1hidzZnbEpwQ0V1Skh30gF_QVVfeXFMTncwdFJrWEZJMTROSzhJTFotNVB4SW9yMU0wLUwyWFJtcjJWdUNmOE16emxkZEllaGVJYkRjMEl3YXBMcTgwMmtnWWVhdUdQNzROcWR4cGlJeXBLZ3NkbWNnZUU4ZVJxVXNoWWFxQWpLLWtoOWFMRTRsVERuQ2M2WQ?oc=5)
 
 ---
 

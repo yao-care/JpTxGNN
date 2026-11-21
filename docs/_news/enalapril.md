@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="レニベース錠１０　１０ｍｇ（選） に関するニュースは？">
-<strong>レニベース錠１０　１０ｍｇ（選）</strong> には現在 <strong>59 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>レニベース錠１０　１０ｍｇ（選）</strong> には現在 <strong>60 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ last_modified_at: 2026-11-21
 <p><a href="{{ '/drugs/enalapril/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（59 件）
+## 関連ニュース（60 件）
 
 ### [何の症状もなかったにもかかわらず、その男性は突然脳卒中の危険に直面した。](https://news.google.com/rss/articles/CBMimgFBVV95cUxOazdLLWJIdkRqNU14bi1BUU1hU3ZfeENTeW15d25jODVnSFdDNEN6QTcxdVl1LTZzTlNwMlBuazFndjhDOE0tTmI0SEVXYUZjb3JudHZEdldMX1AtdjhpVUVxaVd4aFA1djh0NEhKZmxUd2hlZUd5ay1SbnA5VWtMTDI2dkZoMlltSm94X09UOHVEemxqdmk5UUZn?oc=5)
 
@@ -85,6 +85,14 @@ last_modified_at: 2026-11-21
 2026-11-20 <span class="news-indication-tag">がん</span>
 
 出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMifkFVX3lxTE5sUm1vUWhuVE80NnZxYy1WamF6eWlya1pRZlZIZy01RkRBc2gzMDZVZ1NvRG0yaU1oQzNaLTBJZ3FzZ0pFb0NWRDczNjZHdWJ0MGp0NDR1X1gxSDZhZXBndUtYYzNoaEczU0FxWERHanAyMnRQc2lTeUgtcDJsUQ?oc=5)
+
+---
+
+### [「食後の眠気」は危険！糖尿病や認知症リスクにつながる「血糖値スパイク」を防ぐ毎日の習慣とは](https://news.google.com/rss/articles/CBMihgFBVV95cUxNN2prcUw2UWxfeHBqYWNsVFVYcmFyZVA0NTF0cGl3NzdWYnN2THdHU25pUURBSlRFWUVTaHE3VmtQVVdpRk5rU2pEb1c2NkFfUkhlbGYtQjNaSUNQZ2JFTnVJQjBCcmxVVkNBZXVvZHRyUHJqblU3dEJZNlBmZUlLTDJPdmo2Z9IBggFBVV95cUxORGhpWjBFQTFERFZiSHV4TlhvSk9UX0tDZGYtQTVrQ1hwZmpCU3RKRmR5cFNPQU8zNXhkVmxKZHQxbTJfVXprS0lSQ3ZhUXpvaXNzdEt2SWtWT0kxbVFyTC1iZ1pNdVNfdGtHU3AzRE5ITkc4ZVRnMjF2X3RFWmNyc1p3?oc=5)
+
+2026-11-20 <span class="news-indication-tag">認知症</span> <span class="news-indication-tag">心筋梗塞</span> <span class="news-indication-tag">脳梗塞</span>
+
+出典: [ｄメニューニュース](https://news.google.com/rss/articles/CBMihgFBVV95cUxNN2prcUw2UWxfeHBqYWNsVFVYcmFyZVA0NTF0cGl3NzdWYnN2THdHU25pUURBSlRFWUVTaHE3VmtQVVdpRk5rU2pEb1c2NkFfUkhlbGYtQjNaSUNQZ2JFTnVJQjBCcmxVVkNBZXVvZHRyUHJqblU3dEJZNlBmZUlLTDJPdmo2Z9IBggFBVV95cUxORGhpWjBFQTFERFZiSHV4TlhvSk9UX0tDZGYtQTVrQ1hwZmpCU3RKRmR5cFNPQU8zNXhkVmxKZHQxbTJfVXprS0lSQ3ZhUXpvaXNzdEt2SWtWT0kxbVFyTC1iZ1pNdVNfdGtHU3AzRE5ITkc4ZVRnMjF2X3RFWmNyc1p3?oc=5)
 
 ---
 
