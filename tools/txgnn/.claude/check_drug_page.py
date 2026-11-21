@@ -2156,6 +2156,23 @@ def published_withdrawn(site):
     return _PUBWD[site]
 
 
+_DESC_LOCAL = {}
+
+
+def desc_local_stripped(site, stem, desc):
+    """M3 不看 description 的在地化句尾（2026-11-21）：句尾是 drug_meta_description.py 依許可證快照產生的程式文字
+    （docs/_data/description_local_log.json 的 pages[頁].tail），數字由各站 gate 的 drug_meta_description --check 對快照把關。
+    每週許可證排程在 checker 之後才重算快照與句尾，checker 若照舊比對，張數一變就會把整批擋下。只拿掉跟紀錄一字不差的句尾，其他文字照查。"""
+    if site not in _DESC_LOCAL:
+        p = BASE / site / "docs/_data/description_local_log.json"
+        try:
+            _DESC_LOCAL[site] = {k: v.get("tail") or "" for k, v in json.loads(p.read_text(encoding="utf-8")).get("pages", {}).items()} if p.exists() else {}
+        except (OSError, ValueError) as e:
+            raise SystemExit(f"✗ 讀不到 {p}（{e}）")
+    tail = _DESC_LOCAL[site].get(stem)
+    return desc.replace(tail, "") if tail and tail in desc else desc
+
+
 def check_page(site, f, cls, want_noindex):
     errs = []
     E = lambda code, detail="": errs.append((code, detail))
@@ -2488,7 +2505,7 @@ def check_page(site, f, cls, want_noindex):
     # M3（pm C1）：正文市場說法與事實矛盾
     if fc:
         ms, v = fc.get("market_status"), fc.get("valid") or 0
-        for line in strip_managed(body).split("\n") + [desc]:
+        for line in strip_managed(body).split("\n") + [desc_local_stripped(site, f.stem, desc)]:
             if line.startswith("|") or line.startswith("#"):
                 continue
             for s in sentences(line):
