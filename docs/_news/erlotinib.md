@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="エルロチニブ錠１５０ｍｇ「ＮＫ」 に関するニュースは？">
-<strong>エルロチニブ錠１５０ｍｇ「ＮＫ」</strong> には現在 <strong>81 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>エルロチニブ錠１５０ｍｇ「ＮＫ」</strong> には現在 <strong>83 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,23 @@ last_modified_at: 2026-11-21
 <p><a href="{{ '/drugs/erlotinib/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（81 件）
+## 関連ニュース（83 件）
+
+### [【新刊案内】認知症にはスイッチがある。 専門医がやさしく解説する人生100年時代の脳活習慣『認知症スイッチの切り方』が11月20日発売！](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMeFdrSFFFZEZtLWFKRGhkRXpjRXd1eXRIQ3RDc0NrZkg3aDVFRS1MYm1SNmRtT2R0WlhXUjhHS2FHaG85MXZJSjJwNkJRcWJjQTRfNmg4Ml9rNGJBbVE?oc=5)
+
+2026-11-21 <span class="news-indication-tag">認知症</span>
+
+出典: [valuepress](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMeFdrSFFFZEZtLWFKRGhkRXpjRXd1eXRIQ3RDc0NrZkg3aDVFRS1MYm1SNmRtT2R0WlhXUjhHS2FHaG85MXZJSjJwNkJRcWJjQTRfNmg4Ml9rNGJBbVE?oc=5)
+
+---
+
+### [がん遺伝子検査：早期発見の機会。](https://news.google.com/rss/articles/CBMihgFBVV95cUxQZmpSb1JUYTFyN1ljX2V6NER6MTUxcnR1V0gxUnJ0Vmt4bS00bHppRy0xMnl0aF9VRDRpMm9YaENrSmpTdUxHcVFQbTdxRkYzeF9hX2sydFJtWGFwTmx1bnEyVm9vR3dLWllwYXF4V09ZV2RBWUx6aXA1YXRiMW9hb0hCdFNiQQ?oc=5)
+
+2026-11-21 <span class="news-indication-tag">がん</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMihgFBVV95cUxQZmpSb1JUYTFyN1ljX2V6NER6MTUxcnR1V0gxUnJ0Vmt4bS00bHppRy0xMnl0aF9VRDRpMm9YaENrSmpTdUxHcVFQbTdxRkYzeF9hX2sydFJtWGFwTmx1bnEyVm9vR3dLWllwYXF4V09ZV2RBWUx6aXA1YXRiMW9hb0hCdFNiQQ?oc=5)
+
+---
 
 ### [孤独感が認知症リスクを上昇させる？　仏で20年間調査](https://news.google.com/rss/articles/CBMid0FVX3lxTE5FdVpsWDJQOW5oOU9GZ3g2YUtyam9EOEtPdjBGY2s2c2Nld281cnFrOVE1VDVlZ042WXRpdGhNZnJkbXN5TlFJVDgwLUhxckp4eGdNeXFtTTRTcWl1MkNtQk9ReWRBVFNzblNtVEg1WUtaRlgyUXdJ0gF8QVVfeXFMT0dpaC15QUl2eVVpMjNJa0FlZ3l5QURNYmw4NTVwUGRuNnowYi1oa0NHOWl2QXR4b1ZQOTNTZWh1c3NsNFpKaTBYZGh4WnpvZC11WEZpTlhENmJYWS1TbTFXWkRaTGg1cEZZVUxtYW9ZYUJFRWlqTzNvQWdGaQ?oc=5)
 
@@ -48,7 +64,7 @@ last_modified_at: 2026-11-21
 
 ---
 
-### [欧米化した食生活では説明できない「若年発症大腸がん」はなぜ増えているのか 最新研究から判明「がんを引き起こす腸内細菌」と「抗生物質過剰使用」の危険性 #谷内田真一](https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5RWtkLTQ4Nm1lS05mWGpkaS0tYlBlQ01YbHVCUm1HMmRJYzZCNVFrcE85ck5IazVMXzZ3Vk41S0tCRGR1VHJnZ1FBV1hDT1Zj?oc=5)
+### [欧米化した食生活では説明できない「若年発症大腸がん」増加の事実 最新研究から判明「がんを引き起こす腸内細菌」と「抗生物質過剰使用」の危険性](https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5RWtkLTQ4Nm1lS05mWGpkaS0tYlBlQ01YbHVCUm1HMmRJYzZCNVFrcE85ck5IazVMXzZ3Vk41S0tCRGR1VHJnZ1FBV1hDT1Zj?oc=5)
 
 2026-11-20 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
 
@@ -208,14 +224,6 @@ last_modified_at: 2026-11-21
 
 ---
 
-### [「痛みのない血尿」は”膀胱腫瘍”のサイン？見逃したくない症状と原因を解説【医師監修】 (2026年11月19日掲載)](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UdVJTLWVINnJiWmI2OHdPZHR4eVR1QnVXRXNXLXRsOEQxMVFhTWlHandab3hoVUZHNFdWVWF0OVlHUVQ3SGlsQnZJUF9qaHoxM2k0bzQwRFJTM2hhZWc?oc=5)
-
-2026-11-19 <span class="news-indication-tag">腫瘍</span>
-
-出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UdVJTLWVINnJiWmI2OHdPZHR4eVR1QnVXRXNXLXRsOEQxMVFhTWlHandab3hoVUZHNFdWVWF0OVlHUVQ3SGlsQnZJUF9qaHoxM2k0bzQwRFJTM2hhZWc?oc=5)
-
----
-
 ### [68歳の男性が排尿困難で死亡した。医師らは、見過ごしてはならない3つの兆候を指摘している。](https://news.google.com/rss/articles/CBMirAFBVV95cUxOdmVUQy1qbm1GVXRscDdGVFNXOURLTkN6NDA5WGNBR3pDZkdWTkVDV2tWVUxJZWVMa3lmaUp0Q0M4NDQtT1c0WUU5TzZsX1FSWTVEUVJrd2dlZVIwc2g5YnlmM0VvVGsxcTZvelNJbHNQQlc2RU9KSWRsNE8xRmtrbDJkaTNIdkpxSGt5N2NHY00xMmp1QXhBYVg2NFhva3FXYnM2ZHVDVnZFOWpG?oc=5)
 
 2026-11-19 <span class="news-indication-tag">腫瘍</span>
@@ -293,6 +301,14 @@ last_modified_at: 2026-11-21
 2026-11-18 <span class="news-indication-tag">認知症</span>
 
 出典: [クーリエ・ジャポン](https://news.google.com/rss/articles/CBMiU0FVX3lxTE03clVxWlBwQWc5ZElyMEo4RHl2NjBtVEFQRllSUmJKWjRGUlBzLVFxcFZ2NUdPSGRZNDdoZlcyRlIxLWZvY3RqUC00Uzc4cG1iZkJv?oc=5)
+
+---
+
+### [「痛みのない血尿」は”膀胱腫瘍”のサイン？見逃したくない症状と原因を解説【医師監修】 (2026年11月19日掲載)](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UdVJTLWVINnJiWmI2OHdPZHR4eVR1QnVXRXNXLXRsOEQxMVFhTWlHandab3hoVUZHNFdWVWF0OVlHUVQ3SGlsQnZJUF9qaHoxM2k0bzQwRFJTM2hhZWc?oc=5)
+
+2026-11-18 <span class="news-indication-tag">腫瘍</span>
+
+出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UdVJTLWVINnJiWmI2OHdPZHR4eVR1QnVXRXNXLXRsOEQxMVFhTWlHandab3hoVUZHNFdWVWF0OVlHUVQ3SGlsQnZJUF9qaHoxM2k0bzQwRFJTM2hhZWc?oc=5)
 
 ---
 

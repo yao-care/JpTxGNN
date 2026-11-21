@@ -3,7 +3,7 @@ layout: default
 title: "認知症 (dementia) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "認知症 (dementia) に関する健康ニュース。ニュース 37 件、関連医薬品 2 件。"
+description: "認知症 (dementia) に関する健康ニュース。ニュース 38 件、関連医薬品 2 件。"
 permalink: /news/dementia/
 last_modified_at: 2026-11-21
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="認知症 (dementia) に関するニュースは？">
-<strong>認知症 (dementia)</strong> には現在 <strong>37 件</strong>の関連ニュースと 2 件の関連医薬品があります。
+<strong>認知症 (dementia)</strong> には現在 <strong>38 件</strong>の関連ニュースと 2 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,15 @@ last_modified_at: 2026-11-21
 </ul>
 </div>
 
-## 関連ニュース（37 件）
+## 関連ニュース（38 件）
+
+### [【新刊案内】認知症にはスイッチがある。 専門医がやさしく解説する人生100年時代の脳活習慣『認知症スイッチの切り方』が11月20日発売！](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMeFdrSFFFZEZtLWFKRGhkRXpjRXd1eXRIQ3RDc0NrZkg3aDVFRS1MYm1SNmRtT2R0WlhXUjhHS2FHaG85MXZJSjJwNkJRcWJjQTRfNmg4Ml9rNGJBbVE?oc=5)
+
+2026-11-21
+
+出典: [valuepress](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMeFdrSFFFZEZtLWFKRGhkRXpjRXd1eXRIQ3RDc0NrZkg3aDVFRS1MYm1SNmRtT2R0WlhXUjhHS2FHaG85MXZJSjJwNkJRcWJjQTRfNmg4Ml9rNGJBbVE?oc=5)
+
+---
 
 ### [孤独感が認知症リスクを上昇させる？　仏で20年間調査](https://news.google.com/rss/articles/CBMid0FVX3lxTE5FdVpsWDJQOW5oOU9GZ3g2YUtyam9EOEtPdjBGY2s2c2Nld281cnFrOVE1VDVlZ042WXRpdGhNZnJkbXN5TlFJVDgwLUhxckp4eGdNeXFtTTRTcWl1MkNtQk9ReWRBVFNzblNtVEg1WUtaRlgyUXdJ0gF8QVVfeXFMT0dpaC15QUl2eVVpMjNJa0FlZ3l5QURNYmw4NTVwUGRuNnowYi1oa0NHOWl2QXR4b1ZQOTNTZWh1c3NsNFpKaTBYZGh4WnpvZC11WEZpTlhENmJYWS1TbTFXWkRaTGg1cEZZVUxtYW9ZYUJFRWlqTzNvQWdGaQ?oc=5)
 

@@ -32,7 +32,7 @@ last_modified_at: 2026-11-21
 
 ## 関連ニュース（6 件）
 
-### [欧米化した食生活では説明できない「若年発症大腸がん」はなぜ増えているのか 最新研究から判明「がんを引き起こす腸内細菌」と「抗生物質過剰使用」の危険性 #谷内田真一](https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5RWtkLTQ4Nm1lS05mWGpkaS0tYlBlQ01YbHVCUm1HMmRJYzZCNVFrcE85ck5IazVMXzZ3Vk41S0tCRGR1VHJnZ1FBV1hDT1Zj?oc=5)
+### [欧米化した食生活では説明できない「若年発症大腸がん」増加の事実 最新研究から判明「がんを引き起こす腸内細菌」と「抗生物質過剰使用」の危険性](https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5RWtkLTQ4Nm1lS05mWGpkaS0tYlBlQ01YbHVCUm1HMmRJYzZCNVFrcE85ck5IazVMXzZ3Vk41S0tCRGR1VHJnZ1FBV1hDT1Zj?oc=5)
 
 2026-11-20
 

@@ -3,7 +3,7 @@ layout: default
 title: "インフルエンザ (influenza) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 11 件、関連医薬品 1 件。"
+description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 13 件、関連医薬品 1 件。"
 permalink: /news/influenza/
 last_modified_at: 2026-11-21
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="インフルエンザ (influenza) に関するニュースは？">
-<strong>インフルエンザ (influenza)</strong> には現在 <strong>11 件</strong>の関連ニュースと 1 件の関連医薬品があります。
+<strong>インフルエンザ (influenza)</strong> には現在 <strong>13 件</strong>の関連ニュースと 1 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ last_modified_at: 2026-11-21
 </ul>
 </div>
 
-## 関連ニュース（11 件）
+## 関連ニュース（13 件）
+
+### [季節性インフルエンザの患者数が急速に増加しており、さらなる感染拡大のリスクが懸念されている。](https://news.google.com/rss/articles/CBMihgFBVV95cUxPUFNfcnRFS2lBTzdmcjhFMHFJZktwZDJJZWE0U1A0eUI1MzlSSTVWbkRQOW9xMjVMWTdDWHZTM3NYYjJhbTdsd1Fhb29KeXI0b2RxSVJFWEptS2hHTjNxcGZZSHFMVnR4NWVmT00zRF9LV1lYYzcySUJ3VjExcENwTHplOUJnZw?oc=5)
+
+2026-11-21
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMihgFBVV95cUxPUFNfcnRFS2lBTzdmcjhFMHFJZktwZDJJZWE0U1A0eUI1MzlSSTVWbkRQOW9xMjVMWTdDWHZTM3NYYjJhbTdsd1Fhb29KeXI0b2RxSVJFWEptS2hHTjNxcGZZSHFMVnR4NWVmT00zRF9LV1lYYzcySUJ3VjExcENwTHplOUJnZw?oc=5)
+
+---
 
 ### [県内で今シーズン2例目の鳥インフルエンザ 由利本荘市で発見のマガモ死骸から高病原性ウイルス検出 秋田（秋田テレビ）](https://news.google.com/rss/articles/CBMif0FVX3lxTE1ISS1GZ1FsTmZfdkJ6cFdSV2RrbC1KdFI3Y1dGcXBFdFJ1cUNUdXZzeEUtUFE2eE96dVNKaWhkR0VXV2J4RnNxay14UmJlMVZzbXh1cWF4dUloem14WHhLS2I2M2NpMUItUmE5UXJFa3JyUUJ5Q0dLSzctYVFpTWc?oc=5)
 
@@ -77,6 +85,14 @@ last_modified_at: 2026-11-21
 2026-11-19
 
 出典: [Infoseek](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9abGJ1NjJVWHhqSFR5M2RsZ1l4WGJmU0RLY0FlU2ZNMHM0YlNXQmRqTjViZ2pIUTFKd0pLUmk5TzNFcXBydmNrRms1TmdCZllmbk1GcHA5ZUh4WEtxNXZMREtBdw?oc=5)
+
+---
+
+### [全国的に早期流行中のインフルエンザ…目に現れる意外な症状｜一生見える目をつくる](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oU1VqRnJHdzhIUE1DeDQ0d3laS3MxQnBSdjBsckRDQXFoTC1tSHJJcmdacU1CNzUyYThTdzVxVXZncFpiTW96UXlOdEJXWkNoMXZEaXU3LThCMko1dHZlODFSYnd2MTdG?oc=5)
+
+2026-11-18
+
+出典: [日刊ゲンダイDIGITAL](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oU1VqRnJHdzhIUE1DeDQ0d3laS3MxQnBSdjBsckRDQXFoTC1tSHJJcmdacU1CNzUyYThTdzVxVXZncFpiTW96UXlOdEJXWkNoMXZEaXU3LThCMko1dHZlODFSYnd2MTdG?oc=5)
 
 ---
 

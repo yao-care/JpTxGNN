@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="シングレアＯＤ錠１０ｍｇ（選） に関するニュースは？">
-<strong>シングレアＯＤ錠１０ｍｇ（選）</strong> には現在 <strong>48 件</strong>の関連ニュースがあり、予測適応症は 2 件です。
+<strong>シングレアＯＤ錠１０ｍｇ（選）</strong> には現在 <strong>50 件</strong>の関連ニュースがあり、予測適応症は 2 件です。
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,23 @@ last_modified_at: 2026-11-21
 <p><a href="{{ '/drugs/montelukast/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（48 件）
+## 関連ニュース（50 件）
+
+### [重度の喘息発作により、患者は呼吸不全と敗血症を発症した。](https://news.google.com/rss/articles/CBMingFBVV95cUxPcXA1dHh5OTRZeklleE5WMnFBeHFIYTk3WTJoclc4cm1VYmdIWDJsYzVpOEV6dDVqNVhSQTQ4em9MRFgxZnpaNzZEZnhHaXVHaFFORFpkSTlYMElDb0w5eHhTVHd4NXNhLVZMZFBqMzNkY054aDBjQWxEdkVWYlpTUjdxdnJLMmt4aUVpUFRIYmFPcTZWSnRNdngweXoyQQ?oc=5)
+
+2026-11-21 <span class="news-indication-tag">喘息</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMingFBVV95cUxPcXA1dHh5OTRZeklleE5WMnFBeHFIYTk3WTJoclc4cm1VYmdIWDJsYzVpOEV6dDVqNVhSQTQ4em9MRFgxZnpaNzZEZnhHaXVHaFFORFpkSTlYMElDb0w5eHhTVHd4NXNhLVZMZFBqMzNkY054aDBjQWxEdkVWYlpTUjdxdnJLMmt4aUVpUFRIYmFPcTZWSnRNdngweXoyQQ?oc=5)
+
+---
+
+### [がん遺伝子検査：早期発見の機会。](https://news.google.com/rss/articles/CBMihgFBVV95cUxQZmpSb1JUYTFyN1ljX2V6NER6MTUxcnR1V0gxUnJ0Vmt4bS00bHppRy0xMnl0aF9VRDRpMm9YaENrSmpTdUxHcVFQbTdxRkYzeF9hX2sydFJtWGFwTmx1bnEyVm9vR3dLWllwYXF4V09ZV2RBWUx6aXA1YXRiMW9hb0hCdFNiQQ?oc=5)
+
+2026-11-21 <span class="news-indication-tag">がん</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMihgFBVV95cUxQZmpSb1JUYTFyN1ljX2V6NER6MTUxcnR1V0gxUnJ0Vmt4bS00bHppRy0xMnl0aF9VRDRpMm9YaENrSmpTdUxHcVFQbTdxRkYzeF9hX2sydFJtWGFwTmx1bnEyVm9vR3dLWllwYXF4V09ZV2RBWUx6aXA1YXRiMW9hb0hCdFNiQQ?oc=5)
+
+---
 
 ### [【闘病】婦人科の病気だとは考えもしなかった…胃腸の不調だと思っていた症状は『卵巣がん』(メディカルドック)](https://news.yahoo.co.jp/articles/825c5e5202247f645d2a8fd554907e26f6a0f0df?source=rss)
 
@@ -44,7 +60,7 @@ last_modified_at: 2026-11-21
 
 ---
 
-### [欧米化した食生活では説明できない「若年発症大腸がん」はなぜ増えているのか 最新研究から判明「がんを引き起こす腸内細菌」と「抗生物質過剰使用」の危険性 #谷内田真一](https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5RWtkLTQ4Nm1lS05mWGpkaS0tYlBlQ01YbHVCUm1HMmRJYzZCNVFrcE85ck5IazVMXzZ3Vk41S0tCRGR1VHJnZ1FBV1hDT1Zj?oc=5)
+### [欧米化した食生活では説明できない「若年発症大腸がん」増加の事実 最新研究から判明「がんを引き起こす腸内細菌」と「抗生物質過剰使用」の危険性](https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5RWtkLTQ4Nm1lS05mWGpkaS0tYlBlQ01YbHVCUm1HMmRJYzZCNVFrcE85ck5IazVMXzZ3Vk41S0tCRGR1VHJnZ1FBV1hDT1Zj?oc=5)
 
 2026-11-20 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
 
@@ -172,14 +188,6 @@ last_modified_at: 2026-11-21
 
 ---
 
-### [「痛みのない血尿」は”膀胱腫瘍”のサイン？見逃したくない症状と原因を解説【医師監修】 (2026年11月19日掲載)](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UdVJTLWVINnJiWmI2OHdPZHR4eVR1QnVXRXNXLXRsOEQxMVFhTWlHandab3hoVUZHNFdWVWF0OVlHUVQ3SGlsQnZJUF9qaHoxM2k0bzQwRFJTM2hhZWc?oc=5)
-
-2026-11-19 <span class="news-indication-tag">腫瘍</span>
-
-出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UdVJTLWVINnJiWmI2OHdPZHR4eVR1QnVXRXNXLXRsOEQxMVFhTWlHandab3hoVUZHNFdWVWF0OVlHUVQ3SGlsQnZJUF9qaHoxM2k0bzQwRFJTM2hhZWc?oc=5)
-
----
-
 ### [68歳の男性が排尿困難で死亡した。医師らは、見過ごしてはならない3つの兆候を指摘している。](https://news.google.com/rss/articles/CBMirAFBVV95cUxOdmVUQy1qbm1GVXRscDdGVFNXOURLTkN6NDA5WGNBR3pDZkdWTkVDV2tWVUxJZWVMa3lmaUp0Q0M4NDQtT1c0WUU5TzZsX1FSWTVEUVJrd2dlZVIwc2g5YnlmM0VvVGsxcTZvelNJbHNQQlc2RU9KSWRsNE8xRmtrbDJkaTNIdkpxSGt5N2NHY00xMmp1QXhBYVg2NFhva3FXYnM2ZHVDVnZFOWpG?oc=5)
 
 2026-11-19 <span class="news-indication-tag">腫瘍</span>
@@ -209,6 +217,14 @@ last_modified_at: 2026-11-21
 2026-11-18 <span class="news-indication-tag">心臓病</span> <span class="news-indication-tag">認知症</span>
 
 出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/a66442e81cb0fd1c4df1d9a65e9a6a6843412d91?source=rss)
+
+---
+
+### [「痛みのない血尿」は”膀胱腫瘍”のサイン？見逃したくない症状と原因を解説【医師監修】 (2026年11月19日掲載)](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UdVJTLWVINnJiWmI2OHdPZHR4eVR1QnVXRXNXLXRsOEQxMVFhTWlHandab3hoVUZHNFdWVWF0OVlHUVQ3SGlsQnZJUF9qaHoxM2k0bzQwRFJTM2hhZWc?oc=5)
+
+2026-11-18 <span class="news-indication-tag">腫瘍</span>
+
+出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UdVJTLWVINnJiWmI2OHdPZHR4eVR1QnVXRXNXLXRsOEQxMVFhTWlHandab3hoVUZHNFdWVWF0OVlHUVQ3SGlsQnZJUF9qaHoxM2k0bzQwRFJTM2hhZWc?oc=5)
 
 ---
 

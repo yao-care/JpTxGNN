@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="ザルティア錠５ｍｇ（選） に関するニュースは？">
-<strong>ザルティア錠５ｍｇ（選）</strong> には現在 <strong>16 件</strong>の関連ニュースがあり、予測適応症は 8 件です。
+<strong>ザルティア錠５ｍｇ（選）</strong> には現在 <strong>17 件</strong>の関連ニュースがあり、予測適応症は 8 件です。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ last_modified_at: 2026-11-21
 <p><a href="{{ '/drugs/tadalafil/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（16 件）
+## 関連ニュース（17 件）
+
+### [何の症状もなかったにもかかわらず、その男性は突然脳卒中の危険に直面した。](https://news.google.com/rss/articles/CBMimgFBVV95cUxOazdLLWJIdkRqNU14bi1BUU1hU3ZfeENTeW15d25jODVnSFdDNEN6QTcxdVl1LTZzTlNwMlBuazFndjhDOE0tTmI0SEVXYUZjb3JudHZEdldMX1AtdjhpVUVxaVd4aFA1djh0NEhKZmxUd2hlZUd5ay1SbnA5VWtMTDI2dkZoMlltSm94X09UOHVEemxqdmk5UUZn?oc=5)
+
+2026-11-21 <span class="news-indication-tag">脳卒中</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMimgFBVV95cUxOazdLLWJIdkRqNU14bi1BUU1hU3ZfeENTeW15d25jODVnSFdDNEN6QTcxdVl1LTZzTlNwMlBuazFndjhDOE0tTmI0SEVXYUZjb3JudHZEdldMX1AtdjhpVUVxaVd4aFA1djh0NEhKZmxUd2hlZUd5ay1SbnA5VWtMTDI2dkZoMlltSm94X09UOHVEemxqdmk5UUZn?oc=5)
+
+---
 
 ### [今朝、「脳卒中は若者を襲う」と題したパネルディスカッションをライブ配信しました。](https://news.google.com/rss/articles/CBMijAFBVV95cUxPLVpjYTRYazRKcVRObFZLb2pWaE55eWFVZEE3a1ZQX3B2ZEtmUTRLNzROSUFOQXl2RkpfUjdzOGVERTNFc2p0MURSZUg2di1xd3I0VkloOXZNSXl5cDR5X3hlOGVjd3NLZEVvdXV2eDA2ZFhGRWxoZ0ZmWGhvWFYxcUFWdG5JNlBDdUVNUQ?oc=5)
 
