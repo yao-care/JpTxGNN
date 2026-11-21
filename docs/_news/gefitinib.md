@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "イレッサ錠２５０　２５０ｍｇ（選） に関する健康ニュース。予測適応症 9 件。"
 permalink: /news/gefitinib/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-21
 ---
 
 # イレッサ錠２５０　２５０ｍｇ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="イレッサ錠２５０　２５０ｍｇ（選） に関するニュースは？">
-<strong>イレッサ錠２５０　２５０ｍｇ（選）</strong> には現在 <strong>66 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
+<strong>イレッサ錠２５０　２５０ｍｇ（選）</strong> には現在 <strong>81 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,87 @@ last_modified_at: 2026-11-20
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（66 件）
+## 関連ニュース（81 件）
+
+### [孤独感が認知症リスクを上昇させる？　仏で20年間調査](https://news.google.com/rss/articles/CBMid0FVX3lxTE5FdVpsWDJQOW5oOU9GZ3g2YUtyam9EOEtPdjBGY2s2c2Nld281cnFrOVE1VDVlZ042WXRpdGhNZnJkbXN5TlFJVDgwLUhxckp4eGdNeXFtTTRTcWl1MkNtQk9ReWRBVFNzblNtVEg1WUtaRlgyUXdJ0gF8QVVfeXFMT0dpaC15QUl2eVVpMjNJa0FlZ3l5QURNYmw4NTVwUGRuNnowYi1oa0NHOWl2QXR4b1ZQOTNTZWh1c3NsNFpKaTBYZGh4WnpvZC11WEZpTlhENmJYWS1TbTFXWkRaTGg1cEZZVUxtYW9ZYUJFRWlqTzNvQWdGaQ?oc=5)
+
+2026-11-21 <span class="news-indication-tag">認知症</span>
+
+出典: [Infoseek](https://news.google.com/rss/articles/CBMid0FVX3lxTE5FdVpsWDJQOW5oOU9GZ3g2YUtyam9EOEtPdjBGY2s2c2Nld281cnFrOVE1VDVlZ042WXRpdGhNZnJkbXN5TlFJVDgwLUhxckp4eGdNeXFtTTRTcWl1MkNtQk9ReWRBVFNzblNtVEg1WUtaRlgyUXdJ0gF8QVVfeXFMT0dpaC15QUl2eVVpMjNJa0FlZ3l5QURNYmw4NTVwUGRuNnowYi1oa0NHOWl2QXR4b1ZQOTNTZWh1c3NsNFpKaTBYZGh4WnpvZC11WEZpTlhENmJYWS1TbTFXWkRaTGg1cEZZVUxtYW9ZYUJFRWlqTzNvQWdGaQ?oc=5)
+
+---
+
+### [【闘病】婦人科の病気だとは考えもしなかった…胃腸の不調だと思っていた症状は『卵巣がん』(メディカルドック)](https://news.yahoo.co.jp/articles/825c5e5202247f645d2a8fd554907e26f6a0f0df?source=rss)
+
+2026-11-21 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">腫瘍</span> <span class="news-indication-tag">悪性腫瘍</span>
+
+出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/825c5e5202247f645d2a8fd554907e26f6a0f0df?source=rss)
+
+---
+
+### [欧米化した食生活では説明できない「若年発症大腸がん」はなぜ増えているのか 最新研究から判明「がんを引き起こす腸内細菌」と「抗生物質過剰使用」の危険性 #谷内田真一](https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5RWtkLTQ4Nm1lS05mWGpkaS0tYlBlQ01YbHVCUm1HMmRJYzZCNVFrcE85ck5IazVMXzZ3Vk41S0tCRGR1VHJnZ1FBV1hDT1Zj?oc=5)
+
+2026-11-20 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
+
+出典: [新潮QUE](https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5RWtkLTQ4Nm1lS05mWGpkaS0tYlBlQ01YbHVCUm1HMmRJYzZCNVFrcE85ck5IazVMXzZ3Vk41S0tCRGR1VHJnZ1FBV1hDT1Zj?oc=5)
+
+---
+
+### [性交渉で感染するがん化ウイルス「尖圭コンジローマ」…男性ではゆるやかに増加している｜Dr.中川 がんサバイバーの知恵](https://news.google.com/rss/articles/CBMiaEFVX3lxTE56bVE1NnJPLVRFZ3ZnbFFyc3lVdXNkUVc4ci1iT3BVLXNEbGcyRjFIUGlaQ01YWDJMd0hfeUZjLThiVDVHWmxaRzVvZldlc3BvU3ZNYVlEUzZLS1BkMWVpN0pmVFUya0NJ?oc=5)
+
+2026-11-20 <span class="news-indication-tag">がん</span>
+
+出典: [日刊ゲンダイDIGITAL](https://news.google.com/rss/articles/CBMiaEFVX3lxTE56bVE1NnJPLVRFZ3ZnbFFyc3lVdXNkUVc4ci1iT3BVLXNEbGcyRjFIUGlaQ01YWDJMd0hfeUZjLThiVDVHWmxaRzVvZldlc3BvU3ZNYVlEUzZLS1BkMWVpN0pmVFUya0NJ?oc=5)
+
+---
+
+### [定期健康診断を受けていた若い男性が、何の症状もなかったにもかかわらず、稀な縦隔腫瘍が見つかった。](https://news.google.com/rss/articles/CBMiugFBVV95cUxQTk5LLXlKMlYwWUFqQU12OHpGajJUWjR6cWJvc0FuYkZ2dVo1T0wwcGtoR2haZ19mWmVJajlmRTdvVHhOdDZPckpOemkxbWdJLVNTTkNDRTFnTEhiZEpFM096V2pOMHJaLThKclQzY25nSGtnZUVtQlNzOVV4cDlkMDNHSTVQcXpSVWlFR3RHdkFEX3M2MEpWcTVobGsxeHlkQjhja1hKelBFYU1DYS1kQmotUHprak1nTkE?oc=5)
+
+2026-11-20 <span class="news-indication-tag">腫瘍</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMiugFBVV95cUxQTk5LLXlKMlYwWUFqQU12OHpGajJUWjR6cWJvc0FuYkZ2dVo1T0wwcGtoR2haZ19mWmVJajlmRTdvVHhOdDZPckpOemkxbWdJLVNTTkNDRTFnTEhiZEpFM096V2pOMHJaLThKclQzY25nSGtnZUVtQlNzOVV4cDlkMDNHSTVQcXpSVWlFR3RHdkFEX3M2MEpWcTVobGsxeHlkQjhja1hKelBFYU1DYS1kQmotUHprak1nTkE?oc=5)
+
+---
+
+### [がんの兆候となる3つの皮膚の変化](https://news.google.com/rss/articles/CBMifkFVX3lxTE5sUm1vUWhuVE80NnZxYy1WamF6eWlya1pRZlZIZy01RkRBc2gzMDZVZ1NvRG0yaU1oQzNaLTBJZ3FzZ0pFb0NWRDczNjZHdWJ0MGp0NDR1X1gxSDZhZXBndUtYYzNoaEczU0FxWERHanAyMnRQc2lTeUgtcDJsUQ?oc=5)
+
+2026-11-20 <span class="news-indication-tag">がん</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMifkFVX3lxTE5sUm1vUWhuVE80NnZxYy1WamF6eWlya1pRZlZIZy01RkRBc2gzMDZVZ1NvRG0yaU1oQzNaLTBJZ3FzZ0pFb0NWRDczNjZHdWJ0MGp0NDR1X1gxSDZhZXBndUtYYzNoaEczU0FxWERHanAyMnRQc2lTeUgtcDJsUQ?oc=5)
+
+---
+
+### [「友人が少ない」「家族同居でも孤独感」 一人時間が長い人でも無理なくできる認知症予防のコツ（All About）](https://news.google.com/rss/articles/CBMif0FVX3lxTFBpVmpIbE9feTNQZmFzaEpITXUyTWllYkJpUE91MEY0ZUF5QWhrekJOdUstQkxkaW8wdWRxV21ITWNUQWRGLUxRTXRlZXpmcGZGQXh4aTFGc2tHWm5kSDZRelRxS1F1M1IweV9TNEVQNUZUbDZyMVdpYkZkRDRobnM?oc=5)
+
+2026-11-20 <span class="news-indication-tag">認知症</span>
+
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBpVmpIbE9feTNQZmFzaEpITXUyTWllYkJpUE91MEY0ZUF5QWhrekJOdUstQkxkaW8wdWRxV21ITWNUQWRGLUxRTXRlZXpmcGZGQXh4aTFGc2tHWm5kSDZRelRxS1F1M1IweV9TNEVQNUZUbDZyMVdpYkZkRDRobnM?oc=5)
+
+---
+
+### [NECら、血液の糖ペプチドをAI解析 がん早期発見技術を開発](https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xdWZYZFRfYV9YN3BoRFhPSUpVdmdSS3FaTTg4N2ZjdkNnSmNDQWkxdkpta0pySXViNm9ycEhLUmRrN0Q0LUl6WVgxNkREd1hSaXotNnhjSU9JRThLa01BUGFtZw?oc=5)
+
+2026-11-20 <span class="news-indication-tag">がん</span>
+
+出典: [株式会社インプレス](https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xdWZYZFRfYV9YN3BoRFhPSUpVdmdSS3FaTTg4N2ZjdkNnSmNDQWkxdkpta0pySXViNm9ycEhLUmRrN0Q0LUl6WVgxNkREd1hSaXotNnhjSU9JRThLa01BUGFtZw?oc=5)
+
+---
+
+### [【腸内細菌治療の最前線】腸内細菌が「飲み薬」に？　潰瘍性大腸炎の患者を対象にカプセル型製剤の治験が進む　乳児期のアレルギー予防にも広がる研究【前後編の後編】](https://news.google.com/rss/articles/CBMiZEFVX3lxTE50V05sbU15aUotQVRGWGx4NXI4R2YwSVZQb202TkVXLXRObU02V0U4RTZ1bzFmSVlTX29BRERDNERHV0dYWnFzOFZMSFdWMlZ5VmJjRmVJNWUzS0pQeGVCdFJfSXjSAWpBVV95cUxPQ0JGT0Y2M3IyM0xESnY5OEdMQXozVE5KcU90dklJMDk3OXVaTUpJS3lGY2kyRjdISGVrd3BvZlVTNVZHM0dicUxBX1g5MHVwNnoxN0ctLTRmelBfcHJQV1Q3dnRaZEpBR0RR?oc=5)
+
+2026-11-20 <span class="news-indication-tag">がん</span>
+
+出典: [Infoseek](https://news.google.com/rss/articles/CBMiZEFVX3lxTE50V05sbU15aUotQVRGWGx4NXI4R2YwSVZQb202TkVXLXRObU02V0U4RTZ1bzFmSVlTX29BRERDNERHV0dYWnFzOFZMSFdWMlZ5VmJjRmVJNWUzS0pQeGVCdFJfSXjSAWpBVV95cUxPQ0JGT0Y2M3IyM0xESnY5OEdMQXozVE5KcU90dklJMDk3OXVaTUpJS3lGY2kyRjdISGVrd3BvZlVTNVZHM0dicUxBX1g5MHVwNnoxN0ctLTRmelBfcHJQV1Q3dnRaZEpBR0RR?oc=5)
+
+---
+
+### [【闘病】「絶対に死なない」 健康診断で見つかった『乳がん』 抗がん剤8回と全摘手術へ](https://news.google.com/rss/articles/CBMiekFVX3lxTFBhVENPa09KbHBiTWpWaWlJMHN3MV81aTRXNS1YOUdKS2JwaHJpNmQzUnpfMkZXQWhBQzVMVWJnRkFQbkVZNGowdFdNRVZ3TEZtY3ZuTlpCckI2M2dhQ3JxQ3NOcVN1SS1IaVlKODl1VkU3ZzRMZlVROGx3?oc=5)
+
+2026-11-20 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
+
+出典: [メディカルドック](https://news.google.com/rss/articles/CBMiekFVX3lxTFBhVENPa09KbHBiTWpWaWlJMHN3MV81aTRXNS1YOUdKS2JwaHJpNmQzUnpfMkZXQWhBQzVMVWJnRkFQbkVZNGowdFdNRVZ3TEZtY3ZuTlpCckI2M2dhQ3JxQ3NOcVN1SS1IaVlKODl1VkU3ZzRMZlVROGx3?oc=5)
+
+---
 
 ### [｢AIに頼ると認知症になる｣は大間違い…医師が｢中高年こそオススメ｣という思考のヨボヨボ化を回避する習慣(プレジデントオンライン)](https://news.yahoo.co.jp/articles/b39e0af18922967dca9d6c283b077d9957da83be?source=rss)
 
@@ -64,6 +144,14 @@ last_modified_at: 2026-11-20
 2026-11-19 <span class="news-indication-tag">認知症</span>
 
 出典: [ナショナルジオグラフィック日本版](https://news.google.com/rss/articles/CBMiY0FVX3lxTE53QVpGbzhQVnZRUWxpb2F6azlvODN3dUdHeF93N1B4Vl9Hdm5KdmpyM2lLSjRhdkhmTFZWMkxqRnFtRDIxTXVhZEgyOU1xUFctYmNsc1daR0xxeWIxUVpuTDJyWQ?oc=5)
+
+---
+
+### [レモン果汁や酢で～血糖値の急上昇を抑制（同志社大生命医科学部　八木雅之博士）～](https://news.google.com/rss/articles/CBMiTEFVX3lxTFBtelNJc1cyTmFKS1cxdHZ1Y3k2OGJETmwxRzdKR1NNbnF5R21BdHZGN3NhaF8xMElzVTJIbzZtNGJ1RHRKdm41a004UULSAVJBVV95cUxQcVJyR1Y1VC01UnlvT1UyakwzcXp6TUlnX2h0ZE5tZ0l4RXNrZlA2b0ZxaFNCcTAtYVIxTUI2OGJvcUFUN3R6ZFZxZDJCWGJWZnNR?oc=5)
+
+2026-11-19 <span class="news-indication-tag">認知症</span> <span class="news-indication-tag">心筋梗塞</span> <span class="news-indication-tag">脳梗塞</span>
+
+出典: [時事メディカル](https://news.google.com/rss/articles/CBMiTEFVX3lxTFBtelNJc1cyTmFKS1cxdHZ1Y3k2OGJETmwxRzdKR1NNbnF5R21BdHZGN3NhaF8xMElzVTJIbzZtNGJ1RHRKdm41a004UULSAVJBVV95cUxQcVJyR1Y1VC01UnlvT1UyakwzcXp6TUlnX2h0ZE5tZ0l4RXNrZlA2b0ZxaFNCcTAtYVIxTUI2OGJvcUFUN3R6ZFZxZDJCWGJWZnNR?oc=5)
 
 ---
 
@@ -99,11 +187,27 @@ last_modified_at: 2026-11-20
 
 ---
 
+### [生活習慣と健康・慢性疾患をつなぐ腸内細菌の「対照的な2つの媒介軸」を発見 ― 日本人約6,800人の大規模解析から「腸活」のエビデンスを提示 ｜関連資料・リリース](https://news.google.com/rss/articles/CBMic0FVX3lxTFBtQnZTTWRFc3pWVWJxb3FJdWE0WDhTSVJjM01CaW1TR3FkYjdIWDlmdTlIejBpdmRLWG1fcDVuaU92QVE1VWx2dXBwSXUyc29RMFZhcXhOVEQtWWlPY3JCQ1VBS3JCRGhDT1NLYTUxN1M5RHc?oc=5)
+
+2026-11-19 <span class="news-indication-tag">がん</span>
+
+出典: [保健指導リソースガイド](https://news.google.com/rss/articles/CBMic0FVX3lxTFBtQnZTTWRFc3pWVWJxb3FJdWE0WDhTSVJjM01CaW1TR3FkYjdIWDlmdTlIejBpdmRLWG1fcDVuaU92QVE1VWx2dXBwSXUyc29RMFZhcXhOVEQtWWlPY3JCQ1VBS3JCRGhDT1NLYTUxN1M5RHc?oc=5)
+
+---
+
 ### [胎内の一卵性双生児間でがんが転移、胎児の細胞共有と免疫の仕組み(Forbes JAPAN)](https://news.yahoo.co.jp/articles/77639b82499a45bc91bc6a78bd418ca06b1fcf5f?source=rss)
 
 2026-11-19 <span class="news-indication-tag">がん</span>
 
 出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/77639b82499a45bc91bc6a78bd418ca06b1fcf5f?source=rss)
+
+---
+
+### [大腸がん：医師たちがこの予期せぬ要因に注目。](https://news.google.com/rss/articles/CBMikAFBVV95cUxNWmFsTUtmMDJnWWtXSHZKeTYxN185WVZWRTgwa0lzWXh6RUFtMDBhSi1fMm93T1hhcUVQa0p5OFQ3aXRTRDZHUEJPcDl4M3lRY3hIV2Q3VlpRT0kyZHFiMnduUllOWXNCTjdPWnNBNzVCQ3hWZEVCdU1ZcVNYOHRneWl3SXRMb0dHc2lPRG5mTDg?oc=5)
+
+2026-11-19 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMikAFBVV95cUxNWmFsTUtmMDJnWWtXSHZKeTYxN185WVZWRTgwa0lzWXh6RUFtMDBhSi1fMm93T1hhcUVQa0p5OFQ3aXRTRDZHUEJPcDl4M3lRY3hIV2Q3VlpRT0kyZHFiMnduUllOWXNCTjdPWnNBNzVCQ3hWZEVCdU1ZcVNYOHRneWl3SXRMb0dHc2lPRG5mTDg?oc=5)
 
 ---
 
@@ -131,6 +235,14 @@ last_modified_at: 2026-11-20
 
 ---
 
+### [「うっかり昼寝」が続くのは認知症の前ぶれ？ 記憶の衰えより先に現れる「サイン」（クーリエ・ジャポン）](https://news.google.com/rss/articles/CBMif0FVX3lxTE82djNHcWxsRl9RM1NmUXdhSkdtbTBqUlJyRngyb1NaY01SSVRFMC1IRjdVTFFrTkhmY0txZGJMYmY4MVJBYXZQb2thZGI1TjY1X09vMzIwaEZlSkRsZDk4TzhkU0VPZWlIVkxCOGFtc0RaUGxtNVZsMmtZTGpsVzQ?oc=5)
+
+2026-11-19 <span class="news-indication-tag">認知症</span>
+
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE82djNHcWxsRl9RM1NmUXdhSkdtbTBqUlJyRngyb1NaY01SSVRFMC1IRjdVTFFrTkhmY0txZGJMYmY4MVJBYXZQb2thZGI1TjY1X09vMzIwaEZlSkRsZDk4TzhkU0VPZWlIVkxCOGFtc0RaUGxtNVZsMmtZTGpsVzQ?oc=5)
+
+---
+
 ### [【訃報】「木綿のハンカチーフ」歌手・太田裕美さん死去 「乳がん」の原因や予防法を医師が解説(メディカルドック)](https://news.yahoo.co.jp/articles/0d987e330d1d2fed181f7a5afc271454faefe127?source=rss)
 
 2026-11-19 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
@@ -155,6 +267,14 @@ last_modified_at: 2026-11-20
 
 ---
 
+### [「あえて坂道を選ぶ」認知症になりにくい“スーパーエイジャー”の実態→「質の高い人間関係」と「程よいストレス」がポイント](https://news.google.com/rss/articles/CBMif0FVX3lxTE4xWWl5N3Z6UmZWQlhhcE43U2pITGo0eHZRNWpMaWFST2ZfXzlIakI4QWVSS0pwb3h2dTluWEpTTE1raC1saGRGYXFmN0xmclRuLUFVb21LMmpkazZYT3dUNWlZRE91VktxVVpkd1ZMc1I1aWVuZURGQjNZS0htekk?oc=5)
+
+2026-11-18 <span class="news-indication-tag">認知症</span>
+
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE4xWWl5N3Z6UmZWQlhhcE43U2pITGo0eHZRNWpMaWFST2ZfXzlIakI4QWVSS0pwb3h2dTluWEpTTE1raC1saGRGYXFmN0xmclRuLUFVb21LMmpkazZYT3dUNWlZRE91VktxVVpkd1ZMc1I1aWVuZURGQjNZS0htekk?oc=5)
+
+---
+
 ### [「あえて坂道を選ぶ」認知症になりにくい“スーパーエイジャー”の実態→「質の高い人間関係」と「程よいストレス」がポイント](https://news.google.com/rss/articles/CBMihwFBVV95cUxQc2o2Vkk3NHBpajBWSHVkdmhRZXBtT2ZEUXJGZTZMQWhwSjBqZThKbGNwYnR5NVlmQ2tjNjU4VFExdEZYRjhQSG4xWEU4ek96NC1Kd29kMEtRTnF6ZzR6WUJfQWFvMDQyRHIyWXJYbTFiNXRXM1d3eXRVOWtJRXpIcmZfVUpLSDQ?oc=5)
 
 2026-11-18 <span class="news-indication-tag">認知症</span>
@@ -168,6 +288,14 @@ last_modified_at: 2026-11-20
 2026-11-18 <span class="news-indication-tag">認知症</span>
 
 出典: [東洋経済オンライン](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GWmt3QmJkMjg0ZXdqQW8yMkVGa3o5cERjclAtYWxGWUtvM01uUGc5YTU0MUxIMVd0bHVBTW42Xy1ENE1tbWZBYlViVW5lenRRSnhaSVRiSXhXR28?oc=5)
+
+---
+
+### [「うっかり昼寝」は認知症の前ぶれ？ 記憶の衰えより先に現れる「サイン」](https://news.google.com/rss/articles/CBMiugFBVV95cUxNeGpzWm15ekVMVmNfa2FnQ3c5TVd0bmtPQkttcG9ZY3pVTTlvT1JSV0Q4NFR6cWJEVUVFLW0zRUpVbFE2MUxqcnRPT2NmdWs3MDI0Y2dkT0VOOWNPYUlQMEJVSjA1clI3Zjc5a0haQWdUWGQwNnhsTFgxdW9YX2xrdi1MMmloNmZJT01NLVhSUXBSaDRjSGsydk1kRFh5NWZUeDFyQ1Q1T3puZmI5MFk0d1ROOEE0cC1qRHc?oc=5)
+
+2026-11-18 <span class="news-indication-tag">認知症</span>
+
+出典: [クーリエ・ジャポン](https://news.google.com/rss/articles/CBMiugFBVV95cUxNeGpzWm15ekVMVmNfa2FnQ3c5TVd0bmtPQkttcG9ZY3pVTTlvT1JSV0Q4NFR6cWJEVUVFLW0zRUpVbFE2MUxqcnRPT2NmdWs3MDI0Y2dkT0VOOWNPYUlQMEJVSjA1clI3Zjc5a0haQWdUWGQwNnhsTFgxdW9YX2xrdi1MMmloNmZJT01NLVhSUXBSaDRjSGsydk1kRFh5NWZUeDFyQ1Q1T3puZmI5MFk0d1ROOEE0cC1qRHc?oc=5)
 
 ---
 
@@ -331,14 +459,6 @@ last_modified_at: 2026-11-20
 
 ---
 
-### [HPVワクチン接種率、高１相当女子・全国1位の山形県も危機感](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKLXJObUdMR2hLNlFMLUprNUlvczVaeENyM05vMkdxeThtNWJRYmdYWDl1LU1wOVRqamRzYkhKNHVtOHg3ZzVhU3l4MjRNTnk2Wk1r?oc=5)
-
-2026-11-15 <span class="news-indication-tag">がん</span>
-
-出典: [m3.com](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKLXJObUdMR2hLNlFMLUprNUlvczVaeENyM05vMkdxeThtNWJRYmdYWDl1LU1wOVRqamRzYkhKNHVtOHg3ZzVhU3l4MjRNTnk2Wk1r?oc=5)
-
----
-
 ### [子宮頸がん死50年に4割増 米ワシントン大推計、世界の格差深刻](https://news.google.com/rss/articles/CBMibEFVX3lxTE4teWo3TzI3MU9PS3hWMFQtNGhrX1ZkVjdUeHhCaWY4dUlpb2QwU05jUWVGTHRYdWpyVzJFUXpwdHFwOTBiV0xDaUwtUlpKelBodllkLUF2aHFpMDVWaXNGUTJnTGYyQlpOU3JzOA?oc=5)
 
 2026-11-15 <span class="news-indication-tag">がん</span>
@@ -363,7 +483,7 @@ last_modified_at: 2026-11-20
 
 ---
 
-### [80歳になった認知症研究の権威が実践する「脳の健康を保つ5つの習慣」](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MZHU0cV9FUGN5c3F5b1RxYVVUTFNLSEZwMElkNjBoajBma21LbUJzQzNTbDNaVUVVSGFvY3BUdUl3bTRpS0owbmNLa2J3ZTliMVVF?oc=5)
+### [80歳になった認知症研究の権威が実践する「脳の健康を保つ5つの習慣」 | 誰にでもできるシンプルなこと](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9MZHU0cV9FUGN5c3F5b1RxYVVUTFNLSEZwMElkNjBoajBma21LbUJzQzNTbDNaVUVVSGFvY3BUdUl3bTRpS0owbmNLa2J3ZTliMVVF?oc=5)
 
 2026-11-14 <span class="news-indication-tag">認知症</span>
 

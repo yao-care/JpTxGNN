@@ -3,9 +3,9 @@ layout: default
 title: "乳がん (female breast carcinoma) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "乳がん (female breast carcinoma) に関する健康ニュース。ニュース 6 件、関連医薬品 7 件。"
+description: "乳がん (female breast carcinoma) に関する健康ニュース。ニュース 7 件、関連医薬品 7 件。"
 permalink: /news/female-breast-carcinoma/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
 # 乳がん (female breast carcinoma) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="乳がん (female breast carcinoma) に関するニュースは？">
-<strong>乳がん (female breast carcinoma)</strong> には現在 <strong>6 件</strong>の関連ニュースと 7 件の関連医薬品があります。
+<strong>乳がん (female breast carcinoma)</strong> には現在 <strong>7 件</strong>の関連ニュースと 7 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,15 @@ last_modified_at: 2026-11-19
 </ul>
 </div>
 
-## 関連ニュース（6 件）
+## 関連ニュース（7 件）
+
+### [【闘病】「絶対に死なない」 健康診断で見つかった『乳がん』 抗がん剤8回と全摘手術へ](https://news.google.com/rss/articles/CBMiekFVX3lxTFBhVENPa09KbHBiTWpWaWlJMHN3MV81aTRXNS1YOUdKS2JwaHJpNmQzUnpfMkZXQWhBQzVMVWJnRkFQbkVZNGowdFdNRVZ3TEZtY3ZuTlpCckI2M2dhQ3JxQ3NOcVN1SS1IaVlKODl1VkU3ZzRMZlVROGx3?oc=5)
+
+2026-11-20
+
+出典: [メディカルドック](https://news.google.com/rss/articles/CBMiekFVX3lxTFBhVENPa09KbHBiTWpWaWlJMHN3MV81aTRXNS1YOUdKS2JwaHJpNmQzUnpfMkZXQWhBQzVMVWJnRkFQbkVZNGowdFdNRVZ3TEZtY3ZuTlpCckI2M2dhQ3JxQ3NOcVN1SS1IaVlKODl1VkU3ZzRMZlVROGx3?oc=5)
+
+---
 
 ### [【訃報】「木綿のハンカチーフ」歌手・太田裕美さん死去 「乳がん」の原因や予防法を医師が解説(メディカルドック)](https://news.yahoo.co.jp/articles/0d987e330d1d2fed181f7a5afc271454faefe127?source=rss)
 

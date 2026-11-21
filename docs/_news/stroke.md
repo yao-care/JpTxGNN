@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "脳梗塞 (stroke) 関連ニュース"
+title: "脳卒中 (stroke) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "脳梗塞 (stroke) に関する健康ニュース。ニュース 7 件、関連医薬品 16 件。"
+description: "脳卒中 (stroke) に関する健康ニュース。ニュース 10 件、関連医薬品 16 件。"
 permalink: /news/stroke/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-21
 ---
 
-# 脳梗塞 (stroke) 関連ニュース
+# 脳卒中 (stroke) 関連ニュース
 
 [← ニュース一覧に戻る]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="脳梗塞 (stroke) に関するニュースは？">
-<strong>脳梗塞 (stroke)</strong> には現在 <strong>7 件</strong>の関連ニュースと 16 件の関連医薬品があります。
+<p class="key-answer" data-question="脳卒中 (stroke) に関するニュースは？">
+<strong>脳卒中 (stroke)</strong> には現在 <strong>10 件</strong>の関連ニュースと 16 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
-このページは「脳梗塞」に関する最新の健康ニュースをまとめ、JpTxGNN データベースで予測適応症にこの疾患を含む医薬品を一覧表示します。
+このページは「脳卒中」に関する最新の健康ニュースをまとめ、JpTxGNN データベースで予測適応症にこの疾患を含む医薬品を一覧表示します。
 </div>
 
 <div class="related-drugs-card">
@@ -45,13 +45,29 @@ last_modified_at: 2026-11-20
 </ul>
 </div>
 
-## 関連ニュース（7 件）
+## 関連ニュース（10 件）
+
+### [今朝、「脳卒中は若者を襲う」と題したパネルディスカッションをライブ配信しました。](https://news.google.com/rss/articles/CBMijAFBVV95cUxPLVpjYTRYazRKcVRObFZLb2pWaE55eWFVZEE3a1ZQX3B2ZEtmUTRLNzROSUFOQXl2RkpfUjdzOGVERTNFc2p0MURSZUg2di1xd3I0VkloOXZNSXl5cDR5X3hlOGVjd3NLZEVvdXV2eDA2ZFhGRWxoZ0ZmWGhvWFYxcUFWdG5JNlBDdUVNUQ?oc=5)
+
+2026-11-20
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMijAFBVV95cUxPLVpjYTRYazRKcVRObFZLb2pWaE55eWFVZEE3a1ZQX3B2ZEtmUTRLNzROSUFOQXl2RkpfUjdzOGVERTNFc2p0MURSZUg2di1xd3I0VkloOXZNSXl5cDR5X3hlOGVjd3NLZEVvdXV2eDA2ZFhGRWxoZ0ZmWGhvWFYxcUFWdG5JNlBDdUVNUQ?oc=5)
+
+---
 
 ### [脳梗塞後SBP＜120試験「＜130否定の結果ではない」――国循・古賀氏コメント【時流◆AHA2026ピックアップ】](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FSlJDNVpYaEFWY2RDQXBpR0F0cTQtTmliSm9LNkkwdkxqUm9yY2pSVW9xS0RTZDNpeWFia2h4eEhWU180TVhlc3psX0lIQlFLSlE?oc=5)
 
 2026-11-19
 
 出典: [m3.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FSlJDNVpYaEFWY2RDQXBpR0F0cTQtTmliSm9LNkkwdkxqUm9yY2pSVW9xS0RTZDNpeWFia2h4eEhWU180TVhlc3psX0lIQlFLSlE?oc=5)
+
+---
+
+### [レモン果汁や酢で～血糖値の急上昇を抑制（同志社大生命医科学部　八木雅之博士）～](https://news.google.com/rss/articles/CBMiTEFVX3lxTFBtelNJc1cyTmFKS1cxdHZ1Y3k2OGJETmwxRzdKR1NNbnF5R21BdHZGN3NhaF8xMElzVTJIbzZtNGJ1RHRKdm41a004UULSAVJBVV95cUxQcVJyR1Y1VC01UnlvT1UyakwzcXp6TUlnX2h0ZE5tZ0l4RXNrZlA2b0ZxaFNCcTAtYVIxTUI2OGJvcUFUN3R6ZFZxZDJCWGJWZnNR?oc=5)
+
+2026-11-19
+
+出典: [時事メディカル](https://news.google.com/rss/articles/CBMiTEFVX3lxTFBtelNJc1cyTmFKS1cxdHZ1Y3k2OGJETmwxRzdKR1NNbnF5R21BdHZGN3NhaF8xMElzVTJIbzZtNGJ1RHRKdm41a004UULSAVJBVV95cUxQcVJyR1Y1VC01UnlvT1UyakwzcXp6TUlnX2h0ZE5tZ0l4RXNrZlA2b0ZxaFNCcTAtYVIxTUI2OGJvcUFUN3R6ZFZxZDJCWGJWZnNR?oc=5)
 
 ---
 
@@ -68,6 +84,14 @@ last_modified_at: 2026-11-20
 2026-11-19
 
 出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMif0FVX3lxTE8wQXdtU3c3RnRxUlN4NUZwQkZFc1luakpFS2MtYzFjekhQZUxLVzV3U19YSjhtZEZZUF9vblhiUk0zaFB2WldHTm1mQTBWZjBkQmRzMUhoOF9Nc2h6bTctM2s5Q25KSmdwUnc5NzZwRHBQaGVLRkZUanBTcVFjSjA?oc=5)
+
+---
+
+### [タバコ1日15本分に匹敵する…研究で判明した｢脳卒中リスク｣を3割超も高める定年後の"快適すぎる過ごし方" - PRESIDENT Online（プレジデントオンライン）](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fdENsUkhzcXdlbHUyWkxzVGlCU3ROZFFDSDFjZ3dPVTk3SWh5ZGpuMkIwZXlIclcySXplTldacFFxMTBQZlVKLXIyUVI0NEdIUEQtTWFzNHI?oc=5)
+
+2026-11-19
+
+出典: [PRESIDENT Online（プレジデントオンライン）](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fdENsUkhzcXdlbHUyWkxzVGlCU3ROZFFDSDFjZ3dPVTk3SWh5ZGpuMkIwZXlIclcySXplTldacFFxMTBQZlVKLXIyUVI0NEdIUEQtTWFzNHI?oc=5)
 
 ---
 

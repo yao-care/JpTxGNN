@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "リポバス錠５　５ｍｇ（選） に関する健康ニュース。予測適応症 5 件。"
 permalink: /news/simvastatin/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-21
 ---
 
 # リポバス錠５　５ｍｇ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="リポバス錠５　５ｍｇ（選） に関するニュースは？">
-<strong>リポバス錠５　５ｍｇ（選）</strong> には現在 <strong>47 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>リポバス錠５　５ｍｇ（選）</strong> には現在 <strong>59 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,79 @@ last_modified_at: 2026-11-20
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（47 件）
+## 関連ニュース（59 件）
+
+### [【闘病】婦人科の病気だとは考えもしなかった…胃腸の不調だと思っていた症状は『卵巣がん』(メディカルドック)](https://news.yahoo.co.jp/articles/825c5e5202247f645d2a8fd554907e26f6a0f0df?source=rss)
+
+2026-11-21 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">腫瘍</span> <span class="news-indication-tag">悪性腫瘍</span>
+
+出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/825c5e5202247f645d2a8fd554907e26f6a0f0df?source=rss)
+
+---
+
+### [欧米化した食生活では説明できない「若年発症大腸がん」はなぜ増えているのか 最新研究から判明「がんを引き起こす腸内細菌」と「抗生物質過剰使用」の危険性 #谷内田真一](https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5RWtkLTQ4Nm1lS05mWGpkaS0tYlBlQ01YbHVCUm1HMmRJYzZCNVFrcE85ck5IazVMXzZ3Vk41S0tCRGR1VHJnZ1FBV1hDT1Zj?oc=5)
+
+2026-11-20 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
+
+出典: [新潮QUE](https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5RWtkLTQ4Nm1lS05mWGpkaS0tYlBlQ01YbHVCUm1HMmRJYzZCNVFrcE85ck5IazVMXzZ3Vk41S0tCRGR1VHJnZ1FBV1hDT1Zj?oc=5)
+
+---
+
+### [性交渉で感染するがん化ウイルス「尖圭コンジローマ」…男性ではゆるやかに増加している｜Dr.中川 がんサバイバーの知恵](https://news.google.com/rss/articles/CBMiaEFVX3lxTE56bVE1NnJPLVRFZ3ZnbFFyc3lVdXNkUVc4ci1iT3BVLXNEbGcyRjFIUGlaQ01YWDJMd0hfeUZjLThiVDVHWmxaRzVvZldlc3BvU3ZNYVlEUzZLS1BkMWVpN0pmVFUya0NJ?oc=5)
+
+2026-11-20 <span class="news-indication-tag">がん</span>
+
+出典: [日刊ゲンダイDIGITAL](https://news.google.com/rss/articles/CBMiaEFVX3lxTE56bVE1NnJPLVRFZ3ZnbFFyc3lVdXNkUVc4ci1iT3BVLXNEbGcyRjFIUGlaQ01YWDJMd0hfeUZjLThiVDVHWmxaRzVvZldlc3BvU3ZNYVlEUzZLS1BkMWVpN0pmVFUya0NJ?oc=5)
+
+---
+
+### [定期健康診断を受けていた若い男性が、何の症状もなかったにもかかわらず、稀な縦隔腫瘍が見つかった。](https://news.google.com/rss/articles/CBMiugFBVV95cUxQTk5LLXlKMlYwWUFqQU12OHpGajJUWjR6cWJvc0FuYkZ2dVo1T0wwcGtoR2haZ19mWmVJajlmRTdvVHhOdDZPckpOemkxbWdJLVNTTkNDRTFnTEhiZEpFM096V2pOMHJaLThKclQzY25nSGtnZUVtQlNzOVV4cDlkMDNHSTVQcXpSVWlFR3RHdkFEX3M2MEpWcTVobGsxeHlkQjhja1hKelBFYU1DYS1kQmotUHprak1nTkE?oc=5)
+
+2026-11-20 <span class="news-indication-tag">腫瘍</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMiugFBVV95cUxQTk5LLXlKMlYwWUFqQU12OHpGajJUWjR6cWJvc0FuYkZ2dVo1T0wwcGtoR2haZ19mWmVJajlmRTdvVHhOdDZPckpOemkxbWdJLVNTTkNDRTFnTEhiZEpFM096V2pOMHJaLThKclQzY25nSGtnZUVtQlNzOVV4cDlkMDNHSTVQcXpSVWlFR3RHdkFEX3M2MEpWcTVobGsxeHlkQjhja1hKelBFYU1DYS1kQmotUHprak1nTkE?oc=5)
+
+---
+
+### [がんの兆候となる3つの皮膚の変化](https://news.google.com/rss/articles/CBMifkFVX3lxTE5sUm1vUWhuVE80NnZxYy1WamF6eWlya1pRZlZIZy01RkRBc2gzMDZVZ1NvRG0yaU1oQzNaLTBJZ3FzZ0pFb0NWRDczNjZHdWJ0MGp0NDR1X1gxSDZhZXBndUtYYzNoaEczU0FxWERHanAyMnRQc2lTeUgtcDJsUQ?oc=5)
+
+2026-11-20 <span class="news-indication-tag">がん</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMifkFVX3lxTE5sUm1vUWhuVE80NnZxYy1WamF6eWlya1pRZlZIZy01RkRBc2gzMDZVZ1NvRG0yaU1oQzNaLTBJZ3FzZ0pFb0NWRDczNjZHdWJ0MGp0NDR1X1gxSDZhZXBndUtYYzNoaEczU0FxWERHanAyMnRQc2lTeUgtcDJsUQ?oc=5)
+
+---
+
+### [NECら、血液の糖ペプチドをAI解析 がん早期発見技術を開発](https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xdWZYZFRfYV9YN3BoRFhPSUpVdmdSS3FaTTg4N2ZjdkNnSmNDQWkxdkpta0pySXViNm9ycEhLUmRrN0Q0LUl6WVgxNkREd1hSaXotNnhjSU9JRThLa01BUGFtZw?oc=5)
+
+2026-11-20 <span class="news-indication-tag">がん</span>
+
+出典: [株式会社インプレス](https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xdWZYZFRfYV9YN3BoRFhPSUpVdmdSS3FaTTg4N2ZjdkNnSmNDQWkxdkpta0pySXViNm9ycEhLUmRrN0Q0LUl6WVgxNkREd1hSaXotNnhjSU9JRThLa01BUGFtZw?oc=5)
+
+---
+
+### [【腸内細菌治療の最前線】腸内細菌が「飲み薬」に？　潰瘍性大腸炎の患者を対象にカプセル型製剤の治験が進む　乳児期のアレルギー予防にも広がる研究【前後編の後編】](https://news.google.com/rss/articles/CBMiZEFVX3lxTE50V05sbU15aUotQVRGWGx4NXI4R2YwSVZQb202TkVXLXRObU02V0U4RTZ1bzFmSVlTX29BRERDNERHV0dYWnFzOFZMSFdWMlZ5VmJjRmVJNWUzS0pQeGVCdFJfSXjSAWpBVV95cUxPQ0JGT0Y2M3IyM0xESnY5OEdMQXozVE5KcU90dklJMDk3OXVaTUpJS3lGY2kyRjdISGVrd3BvZlVTNVZHM0dicUxBX1g5MHVwNnoxN0ctLTRmelBfcHJQV1Q3dnRaZEpBR0RR?oc=5)
+
+2026-11-20 <span class="news-indication-tag">がん</span>
+
+出典: [Infoseek](https://news.google.com/rss/articles/CBMiZEFVX3lxTE50V05sbU15aUotQVRGWGx4NXI4R2YwSVZQb202TkVXLXRObU02V0U4RTZ1bzFmSVlTX29BRERDNERHV0dYWnFzOFZMSFdWMlZ5VmJjRmVJNWUzS0pQeGVCdFJfSXjSAWpBVV95cUxPQ0JGT0Y2M3IyM0xESnY5OEdMQXozVE5KcU90dklJMDk3OXVaTUpJS3lGY2kyRjdISGVrd3BvZlVTNVZHM0dicUxBX1g5MHVwNnoxN0ctLTRmelBfcHJQV1Q3dnRaZEpBR0RR?oc=5)
+
+---
+
+### [【闘病】「絶対に死なない」 健康診断で見つかった『乳がん』 抗がん剤8回と全摘手術へ](https://news.google.com/rss/articles/CBMiekFVX3lxTFBhVENPa09KbHBiTWpWaWlJMHN3MV81aTRXNS1YOUdKS2JwaHJpNmQzUnpfMkZXQWhBQzVMVWJnRkFQbkVZNGowdFdNRVZ3TEZtY3ZuTlpCckI2M2dhQ3JxQ3NOcVN1SS1IaVlKODl1VkU3ZzRMZlVROGx3?oc=5)
+
+2026-11-20 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
+
+出典: [メディカルドック](https://news.google.com/rss/articles/CBMiekFVX3lxTFBhVENPa09KbHBiTWpWaWlJMHN3MV81aTRXNS1YOUdKS2JwaHJpNmQzUnpfMkZXQWhBQzVMVWJnRkFQbkVZNGowdFdNRVZ3TEZtY3ZuTlpCckI2M2dhQ3JxQ3NOcVN1SS1IaVlKODl1VkU3ZzRMZlVROGx3?oc=5)
+
+---
+
+### [今朝、「脳卒中は若者を襲う」と題したパネルディスカッションをライブ配信しました。](https://news.google.com/rss/articles/CBMijAFBVV95cUxPLVpjYTRYazRKcVRObFZLb2pWaE55eWFVZEE3a1ZQX3B2ZEtmUTRLNzROSUFOQXl2RkpfUjdzOGVERTNFc2p0MURSZUg2di1xd3I0VkloOXZNSXl5cDR5X3hlOGVjd3NLZEVvdXV2eDA2ZFhGRWxoZ0ZmWGhvWFYxcUFWdG5JNlBDdUVNUQ?oc=5)
+
+2026-11-20 <span class="news-indication-tag">心臓発作</span> <span class="news-indication-tag">脳卒中</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMijAFBVV95cUxPLVpjYTRYazRKcVRObFZLb2pWaE55eWFVZEE3a1ZQX3B2ZEtmUTRLNzROSUFOQXl2RkpfUjdzOGVERTNFc2p0MURSZUg2di1xd3I0VkloOXZNSXl5cDR5X3hlOGVjd3NLZEVvdXV2eDA2ZFhGRWxoZ0ZmWGhvWFYxcUFWdG5JNlBDdUVNUQ?oc=5)
+
+---
 
 ### [【実話】鼻の不調を放置→まさかの鼻腔がん？！眼球摘出のおそれまで…！体験者が強く訴える早期発見の重要性(ウォーカープラス)](https://news.yahoo.co.jp/articles/117a8c08c64e293bea05971bbbc0ae818c0f3ec7?source=rss)
 
@@ -52,6 +124,14 @@ last_modified_at: 2026-11-20
 2026-11-19 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">2型糖尿病</span> <span class="news-indication-tag">脳梗塞</span>
 
 出典: [m3.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FSlJDNVpYaEFWY2RDQXBpR0F0cTQtTmliSm9LNkkwdkxqUm9yY2pSVW9xS0RTZDNpeWFia2h4eEhWU180TVhlc3psX0lIQlFLSlE?oc=5)
+
+---
+
+### [レモン果汁や酢で～血糖値の急上昇を抑制（同志社大生命医科学部　八木雅之博士）～](https://news.google.com/rss/articles/CBMiTEFVX3lxTFBtelNJc1cyTmFKS1cxdHZ1Y3k2OGJETmwxRzdKR1NNbnF5R21BdHZGN3NhaF8xMElzVTJIbzZtNGJ1RHRKdm41a004UULSAVJBVV95cUxQcVJyR1Y1VC01UnlvT1UyakwzcXp6TUlnX2h0ZE5tZ0l4RXNrZlA2b0ZxaFNCcTAtYVIxTUI2OGJvcUFUN3R6ZFZxZDJCWGJWZnNR?oc=5)
+
+2026-11-19 <span class="news-indication-tag">認知症</span> <span class="news-indication-tag">心筋梗塞</span> <span class="news-indication-tag">脳梗塞</span>
+
+出典: [時事メディカル](https://news.google.com/rss/articles/CBMiTEFVX3lxTFBtelNJc1cyTmFKS1cxdHZ1Y3k2OGJETmwxRzdKR1NNbnF5R21BdHZGN3NhaF8xMElzVTJIbzZtNGJ1RHRKdm41a004UULSAVJBVV95cUxQcVJyR1Y1VC01UnlvT1UyakwzcXp6TUlnX2h0ZE5tZ0l4RXNrZlA2b0ZxaFNCcTAtYVIxTUI2OGJvcUFUN3R6ZFZxZDJCWGJWZnNR?oc=5)
 
 ---
 
@@ -87,11 +167,27 @@ last_modified_at: 2026-11-20
 
 ---
 
+### [生活習慣と健康・慢性疾患をつなぐ腸内細菌の「対照的な2つの媒介軸」を発見 ― 日本人約6,800人の大規模解析から「腸活」のエビデンスを提示 ｜関連資料・リリース](https://news.google.com/rss/articles/CBMic0FVX3lxTFBtQnZTTWRFc3pWVWJxb3FJdWE0WDhTSVJjM01CaW1TR3FkYjdIWDlmdTlIejBpdmRLWG1fcDVuaU92QVE1VWx2dXBwSXUyc29RMFZhcXhOVEQtWWlPY3JCQ1VBS3JCRGhDT1NLYTUxN1M5RHc?oc=5)
+
+2026-11-19 <span class="news-indication-tag">がん</span>
+
+出典: [保健指導リソースガイド](https://news.google.com/rss/articles/CBMic0FVX3lxTFBtQnZTTWRFc3pWVWJxb3FJdWE0WDhTSVJjM01CaW1TR3FkYjdIWDlmdTlIejBpdmRLWG1fcDVuaU92QVE1VWx2dXBwSXUyc29RMFZhcXhOVEQtWWlPY3JCQ1VBS3JCRGhDT1NLYTUxN1M5RHc?oc=5)
+
+---
+
 ### [胎内の一卵性双生児間でがんが転移、胎児の細胞共有と免疫の仕組み(Forbes JAPAN)](https://news.yahoo.co.jp/articles/77639b82499a45bc91bc6a78bd418ca06b1fcf5f?source=rss)
 
 2026-11-19 <span class="news-indication-tag">がん</span>
 
 出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/77639b82499a45bc91bc6a78bd418ca06b1fcf5f?source=rss)
+
+---
+
+### [大腸がん：医師たちがこの予期せぬ要因に注目。](https://news.google.com/rss/articles/CBMikAFBVV95cUxNWmFsTUtmMDJnWWtXSHZKeTYxN185WVZWRTgwa0lzWXh6RUFtMDBhSi1fMm93T1hhcUVQa0p5OFQ3aXRTRDZHUEJPcDl4M3lRY3hIV2Q3VlpRT0kyZHFiMnduUllOWXNCTjdPWnNBNzVCQ3hWZEVCdU1ZcVNYOHRneWl3SXRMb0dHc2lPRG5mTDg?oc=5)
+
+2026-11-19 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMikAFBVV95cUxNWmFsTUtmMDJnWWtXSHZKeTYxN185WVZWRTgwa0lzWXh6RUFtMDBhSi1fMm93T1hhcUVQa0p5OFQ3aXRTRDZHUEJPcDl4M3lRY3hIV2Q3VlpRT0kyZHFiMnduUllOWXNCTjdPWnNBNzVCQ3hWZEVCdU1ZcVNYOHRneWl3SXRMb0dHc2lPRG5mTDg?oc=5)
 
 ---
 
@@ -156,6 +252,14 @@ last_modified_at: 2026-11-20
 2026-11-19 <span class="news-indication-tag">心臓病</span>
 
 出典: [m3.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTE91WENLdXZTV0pFQ3ZLdjNFbnY5QlZHTnE3Qk1sY2JkMmF0STVjRkMwSHJvWEhhWUp4VFd1MzNyczlnUEdodlJwNXZudGRhcHBKNlE?oc=5)
+
+---
+
+### [タバコ1日15本分に匹敵する…研究で判明した｢脳卒中リスク｣を3割超も高める定年後の"快適すぎる過ごし方" - PRESIDENT Online（プレジデントオンライン）](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fdENsUkhzcXdlbHUyWkxzVGlCU3ROZFFDSDFjZ3dPVTk3SWh5ZGpuMkIwZXlIclcySXplTldacFFxMTBQZlVKLXIyUVI0NEdIUEQtTWFzNHI?oc=5)
+
+2026-11-19 <span class="news-indication-tag">脳卒中</span>
+
+出典: [PRESIDENT Online（プレジデントオンライン）](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fdENsUkhzcXdlbHUyWkxzVGlCU3ROZFFDSDFjZ3dPVTk3SWh5ZGpuMkIwZXlIclcySXplTldacFFxMTBQZlVKLXIyUVI0NEdIUEQtTWFzNHI?oc=5)
 
 ---
 
@@ -252,14 +356,6 @@ last_modified_at: 2026-11-20
 2026-11-16 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
 
 出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/88a4c1fa77a78697670eb7dcf3e00ed0fd317ef6?source=rss)
-
----
-
-### [HPVワクチン接種率、高１相当女子・全国1位の山形県も危機感](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKLXJObUdMR2hLNlFMLUprNUlvczVaeENyM05vMkdxeThtNWJRYmdYWDl1LU1wOVRqamRzYkhKNHVtOHg3ZzVhU3l4MjRNTnk2Wk1r?oc=5)
-
-2026-11-15 <span class="news-indication-tag">がん</span>
-
-出典: [m3.com](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKLXJObUdMR2hLNlFMLUprNUlvczVaeENyM05vMkdxeThtNWJRYmdYWDl1LU1wOVRqamRzYkhKNHVtOHg3ZzVhU3l4MjRNTnk2Wk1r?oc=5)
 
 ---
 

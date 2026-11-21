@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "タミフルドライシロップ３％（選） に関する健康ニュース。予測適応症 0 件。"
 permalink: /news/oseltamivir/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-21
 ---
 
 # タミフルドライシロップ３％（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="タミフルドライシロップ３％（選） に関するニュースは？">
-<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>6 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>14 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,61 @@ last_modified_at: 2026-11-20
 <p><a href="{{ '/drugs/oseltamivir/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（6 件）
+## 関連ニュース（14 件）
+
+### [県内で今シーズン2例目の鳥インフルエンザ 由利本荘市で発見のマガモ死骸から高病原性ウイルス検出 秋田（秋田テレビ）](https://news.google.com/rss/articles/CBMif0FVX3lxTE1ISS1GZ1FsTmZfdkJ6cFdSV2RrbC1KdFI3Y1dGcXBFdFJ1cUNUdXZzeEUtUFE2eE96dVNKaWhkR0VXV2J4RnNxay14UmJlMVZzbXh1cWF4dUloem14WHhLS2I2M2NpMUItUmE5UXJFa3JyUUJ5Q0dLSzctYVFpTWc?oc=5)
+
+2026-11-20 <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE1ISS1GZ1FsTmZfdkJ6cFdSV2RrbC1KdFI3Y1dGcXBFdFJ1cUNUdXZzeEUtUFE2eE96dVNKaWhkR0VXV2J4RnNxay14UmJlMVZzbXh1cWF4dUloem14WHhLS2I2M2NpMUItUmE5UXJFa3JyUUJ5Q0dLSzctYVFpTWc?oc=5)
+
+---
+
+### [小児および成人におけるRSウイルス感染症、インフルエンザ、肺炎、その他の呼吸器疾患を予防します。](https://news.google.com/rss/articles/CBMilAFBVV95cUxQVG5rckJMcWU5Q3RiMVQ1YWlnQkxJemVKVGtOZC1ucWljSUo3VjNnalJITmdwNngyczJQV2k5WXdmSEExM0N5RzlYV1liU0dKaTRTeUJ6R2ttekpaTU9fWUVTVmc4NWtBWHQzUEozWmFqdW9GV1NlZVZwU0tBS01HNnhSaVZhNUkxcVpPcTdiZzlwSmRk?oc=5)
+
+2026-11-20 <span class="news-indication-tag">肺炎</span> <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMilAFBVV95cUxQVG5rckJMcWU5Q3RiMVQ1YWlnQkxJemVKVGtOZC1ucWljSUo3VjNnalJITmdwNngyczJQV2k5WXdmSEExM0N5RzlYV1liU0dKaTRTeUJ6R2ttekpaTU9fWUVTVmc4NWtBWHQzUEozWmFqdW9GV1NlZVZwU0tBS01HNnhSaVZhNUkxcVpPcTdiZzlwSmRk?oc=5)
+
+---
+
+### [高齢者の肺炎は無症状（発熱がない）の場合があり、見過ごされやすい。](https://news.google.com/rss/articles/CBMiigFBVV95cUxQYVpROVdVVFpCVW54WnBwbUJYZkh3a054cnI5dXNycDdHOU5pMlZlcWN3QzN3NjA1aG9LTFl6d2FRQ3FaQUdwak1ZT3JCeUVfaVRrRGZ3d1I5V0RZTkRURXlhQzVvRkh2UzR4MmFfc20wSHIzZ2NIWHh1eFV6SEk1RFd3UHp4ZTNCVXc?oc=5)
+
+2026-11-20 <span class="news-indication-tag">肺炎</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMiigFBVV95cUxQYVpROVdVVFpCVW54WnBwbUJYZkh3a054cnI5dXNycDdHOU5pMlZlcWN3QzN3NjA1aG9LTFl6d2FRQ3FaQUdwak1ZT3JCeUVfaVRrRGZ3d1I5V0RZTkRURXlhQzVvRkh2UzR4MmFfc20wSHIzZ2NIWHh1eFV6SEk1RFd3UHp4ZTNCVXc?oc=5)
+
+---
+
+### [なぜ学級閉鎖にするの？ インフルエンザ広げないため 症状なくうつすことも せきエチケット大事](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EVV9LMGJCaE0xUmoteXEzYlo1ZGFCNGRJNlVJNmdWdG1nQXF2UHNYZXEwa1p4MERwVi1EZHVwMGZuTjhEb19aRnJLc1RCa1VKLTh2MDBsX3dhZw?oc=5)
+
+2026-11-19 <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [北海道新聞デジタル](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EVV9LMGJCaE0xUmoteXEzYlo1ZGFCNGRJNlVJNmdWdG1nQXF2UHNYZXEwa1p4MERwVi1EZHVwMGZuTjhEb19aRnJLc1RCa1VKLTh2MDBsX3dhZw?oc=5)
+
+---
+
+### [2026年シーズン2例目の鳥インフルエンザ 由利本荘市でマガモが感染 秋田県](https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ZZnlPeGUybE44ZFhCVXdhTW9hT1VTRi1LWmpaY3RsN05OUnUwaG9LOE5iYUx2UndUZG5Eb2pYemdGeDhWVXd0MzdpRkJfUQ?oc=5)
+
+2026-11-19 <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [FNNプライムオンライン](https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ZZnlPeGUybE44ZFhCVXdhTW9hT1VTRi1LWmpaY3RsN05OUnUwaG9LOE5iYUx2UndUZG5Eb2pYemdGeDhWVXd0MzdpRkJfUQ?oc=5)
+
+---
 
 ### [マガモの死がいから高病原性鳥インフルエンザウイルス検出 県内の野鳥では今季2例目 秋田・由利本荘市 - 日テレNEWS NNN](https://news.google.com/rss/articles/CBMihwFBVV95cUxQVVFEajhYZWhIRFlfUnFHV0NSaUxnaVRUNUdVSlYtTURGUkNtaE5nWVkwbWNNaXA2M3BLYXU4X2RrcmtYSTRRbzlyVHc4all3ZjFBOGVNSW1iU3ZoUmJBQkpRdEpBVjBwOEg1WjA2clp3WXZpRnUxSTM1VzN0aXBfdHJrQ1NVajA?oc=5)
 
 2026-11-19 <span class="news-indication-tag">インフルエンザ</span>
 
 出典: [日テレNEWS NNN](https://news.google.com/rss/articles/CBMihwFBVV95cUxQVVFEajhYZWhIRFlfUnFHV0NSaUxnaVRUNUdVSlYtTURGUkNtaE5nWVkwbWNNaXA2M3BLYXU4X2RrcmtYSTRRbzlyVHc4all3ZjFBOGVNSW1iU3ZoUmJBQkpRdEpBVjBwOEg1WjA2clp3WXZpRnUxSTM1VzN0aXBfdHJrQ1NVajA?oc=5)
+
+---
+
+### [全国的に早期流行中のインフルエンザ…目に現れる意外な症状【一生見える目をつくる】](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9abGJ1NjJVWHhqSFR5M2RsZ1l4WGJmU0RLY0FlU2ZNMHM0YlNXQmRqTjViZ2pIUTFKd0pLUmk5TzNFcXBydmNrRms1TmdCZllmbk1GcHA5ZUh4WEtxNXZMREtBdw?oc=5)
+
+2026-11-19 <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [Infoseek](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9abGJ1NjJVWHhqSFR5M2RsZ1l4WGJmU0RLY0FlU2ZNMHM0YlNXQmRqTjViZ2pIUTFKd0pLUmk5TzNFcXBydmNrRms1TmdCZllmbk1GcHA5ZUh4WEtxNXZMREtBdw?oc=5)
 
 ---
 
@@ -56,11 +104,27 @@ last_modified_at: 2026-11-20
 
 ---
 
+### [もうインフルエンザに罹ってしまった、それでもワクチン接種は必要](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GSHBMRElYZUlHN2F0TkxmTzVaOGZmVVduaG0zMFpkTzdhWUtUb0V0WnowYTZtZHc1WTE0U1B0SE5wcm5lN0s0OU9HU3N4Z0tsRWNxeVBoME1LQUVUNml4bEpSVlA?oc=5)
+
+2026-11-16 <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [hicbc.com](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GSHBMRElYZUlHN2F0TkxmTzVaOGZmVVduaG0zMFpkTzdhWUtUb0V0WnowYTZtZHc1WTE0U1B0SE5wcm5lN0s0OU9HU3N4Z0tsRWNxeVBoME1LQUVUNml4bEpSVlA?oc=5)
+
+---
+
 ### [抗インフルエンザ薬の使い分け、耐性リスクは？](https://news.google.com/rss/articles/CBMif0FVX3lxTE5QNHBEelpRVy1admhWNGtJZ1Zhc3JyU2RubXNnNFJwUjNsbkxOUjJ1Zy1jMXlJeW1KVVh2M0MtVHJLT05MSFFUam9Kd1RZS083cTYxVnFJcFhON2VrZ01nVHlnc0t3eVNxUlB3aXl2elp0bVJGdUcyckRzV2Nsa1k?oc=5)
 
 2026-11-16 <span class="news-indication-tag">インフルエンザ</span>
 
 出典: [日経メディカル](https://news.google.com/rss/articles/CBMif0FVX3lxTE5QNHBEelpRVy1admhWNGtJZ1Zhc3JyU2RubXNnNFJwUjNsbkxOUjJ1Zy1jMXlJeW1KVVh2M0MtVHJLT05MSFFUam9Kd1RZS083cTYxVnFJcFhON2VrZ01nVHlnc0t3eVNxUlB3aXl2elp0bVJGdUcyckRzV2Nsa1k?oc=5)
+
+---
+
+### [コロナで入院きっかけに「寝たきり」も 冬に流行、高齢者は高リスク](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yTndUMHBTWDFuVm5IRjltenhJaENrNVdHSDU1ZF9qMFloWU5SS1ZHMVNybDFVcHVyQ0FCUWtvTENocTIwRlptMktzaXVmZ0dUaFFqeXA3aTFKZw?oc=5)
+
+2026-11-16 <span class="news-indication-tag">肺炎</span>
+
+出典: [北海道新聞デジタル](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yTndUMHBTWDFuVm5IRjltenhJaENrNVdHSDU1ZF9qMFloWU5SS1ZHMVNybDFVcHVyQ0FCUWtvTENocTIwRlptMktzaXVmZ0dUaFFqeXA3aTFKZw?oc=5)
 
 ---
 

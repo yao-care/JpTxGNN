@@ -3,9 +3,9 @@ layout: default
 title: "心臓発作 (myocardial infarction) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "心臓発作 (myocardial infarction) に関する健康ニュース。ニュース 2 件、関連医薬品 7 件。"
+description: "心臓発作 (myocardial infarction) に関する健康ニュース。ニュース 4 件、関連医薬品 7 件。"
 permalink: /news/myocardial-infarction/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-21
 ---
 
 # 心臓発作 (myocardial infarction) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="心臓発作 (myocardial infarction) に関するニュースは？">
-<strong>心臓発作 (myocardial infarction)</strong> には現在 <strong>2 件</strong>の関連ニュースと 7 件の関連医薬品があります。
+<strong>心臓発作 (myocardial infarction)</strong> には現在 <strong>4 件</strong>の関連ニュースと 7 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,23 @@ last_modified_at: 2026-11-19
 </ul>
 </div>
 
-## 関連ニュース（2 件）
+## 関連ニュース（4 件）
+
+### [今朝、「脳卒中は若者を襲う」と題したパネルディスカッションをライブ配信しました。](https://news.google.com/rss/articles/CBMijAFBVV95cUxPLVpjYTRYazRKcVRObFZLb2pWaE55eWFVZEE3a1ZQX3B2ZEtmUTRLNzROSUFOQXl2RkpfUjdzOGVERTNFc2p0MURSZUg2di1xd3I0VkloOXZNSXl5cDR5X3hlOGVjd3NLZEVvdXV2eDA2ZFhGRWxoZ0ZmWGhvWFYxcUFWdG5JNlBDdUVNUQ?oc=5)
+
+2026-11-20
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMijAFBVV95cUxPLVpjYTRYazRKcVRObFZLb2pWaE55eWFVZEE3a1ZQX3B2ZEtmUTRLNzROSUFOQXl2RkpfUjdzOGVERTNFc2p0MURSZUg2di1xd3I0VkloOXZNSXl5cDR5X3hlOGVjd3NLZEVvdXV2eDA2ZFhGRWxoZ0ZmWGhvWFYxcUFWdG5JNlBDdUVNUQ?oc=5)
+
+---
+
+### [レモン果汁や酢で～血糖値の急上昇を抑制（同志社大生命医科学部　八木雅之博士）～](https://news.google.com/rss/articles/CBMiTEFVX3lxTFBtelNJc1cyTmFKS1cxdHZ1Y3k2OGJETmwxRzdKR1NNbnF5R21BdHZGN3NhaF8xMElzVTJIbzZtNGJ1RHRKdm41a004UULSAVJBVV95cUxQcVJyR1Y1VC01UnlvT1UyakwzcXp6TUlnX2h0ZE5tZ0l4RXNrZlA2b0ZxaFNCcTAtYVIxTUI2OGJvcUFUN3R6ZFZxZDJCWGJWZnNR?oc=5)
+
+2026-11-19
+
+出典: [時事メディカル](https://news.google.com/rss/articles/CBMiTEFVX3lxTFBtelNJc1cyTmFKS1cxdHZ1Y3k2OGJETmwxRzdKR1NNbnF5R21BdHZGN3NhaF8xMElzVTJIbzZtNGJ1RHRKdm41a004UULSAVJBVV95cUxQcVJyR1Y1VC01UnlvT1UyakwzcXp6TUlnX2h0ZE5tZ0l4RXNrZlA2b0ZxaFNCcTAtYVIxTUI2OGJvcUFUN3R6ZFZxZDJCWGJWZnNR?oc=5)
+
+---
 
 ### [100歳以上の長寿者の腸内に共通点、健康長寿のカギは腸内細菌？](https://news.google.com/rss/articles/CBMiR0FVX3lxTE5Ga1dTdWd5VHZfcDI4OUNyTm5qWjB5bzQ4UXcwM0FQVkZvSnZ6ZjQyM2M1WnZBQWx2VkNBLUNUNDBEWWNTdjA0?oc=5)
 
