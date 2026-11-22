@@ -264,6 +264,9 @@ def main(argv):
         for line in body.split("\n"):
             if line.startswith(("|", "#")):
                 continue
+            if line.startswith("description:") and hasattr(ckm, "desc_local_stripped"):
+                # 2026-11-22：description 的在地化句尾是程式依快照產生、這一步之後才重算（同 check_drug_page 的 M3），不當成正文句子
+                line = ckm.desc_local_stripped(site, pf.stem, line)
             for s in ckm.sentences(line):
                 if (hasattr(ckm, "m3x") and ckm.m3x(lang_now, s, fcp)) or \
                         (lang_now not in ("en", "en-us") and re.search(r"\d", s) and re.search(ckm._LIC, s, re.I)):
