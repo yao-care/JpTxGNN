@@ -3,9 +3,9 @@ layout: default
 title: "喘息 (asthma) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "喘息 (asthma) に関する健康ニュース。ニュース 1 件、関連医薬品 3 件。"
+description: "喘息 (asthma) に関する健康ニュース。ニュース 2 件、関連医薬品 3 件。"
 permalink: /news/asthma/
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-22
 ---
 
 # 喘息 (asthma) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="喘息 (asthma) に関するニュースは？">
-<strong>喘息 (asthma)</strong> には現在 <strong>1 件</strong>の関連ニュースと 3 件の関連医薬品があります。
+<strong>喘息 (asthma)</strong> には現在 <strong>2 件</strong>の関連ニュースと 3 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,15 @@ last_modified_at: 2026-11-21
 </ul>
 </div>
 
-## 関連ニュース（1 件）
+## 関連ニュース（2 件）
+
+### [頑張って掃除してもホコリが溜まる。そんな時に見直したい「空気の通り道」(ライフハッカー・ジャパン)](https://news.yahoo.co.jp/articles/ad4816660ace446cb5f1e1bb02c2532f528eec50?source=rss)
+
+2026-11-22
+
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/ad4816660ace446cb5f1e1bb02c2532f528eec50?source=rss)
+
+---
 
 ### [重度の喘息発作により、患者は呼吸不全と敗血症を発症した。](https://news.google.com/rss/articles/CBMingFBVV95cUxPcXA1dHh5OTRZeklleE5WMnFBeHFIYTk3WTJoclc4cm1VYmdIWDJsYzVpOEV6dDVqNVhSQTQ4em9MRFgxZnpaNzZEZnhHaXVHaFFORFpkSTlYMElDb0w5eHhTVHd4NXNhLVZMZFBqMzNkY054aDBjQWxEdkVWYlpTUjdxdnJLMmt4aUVpUFRIYmFPcTZWSnRNdngweXoyQQ?oc=5)
 

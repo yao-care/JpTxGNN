@@ -3,7 +3,7 @@ layout: default
 title: "がん (generic_cancer) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "がん (generic_cancer) に関する健康ニュース。ニュース 48 件、関連医薬品 67 件。"
+description: "がん (generic_cancer) に関する健康ニュース。ニュース 49 件、関連医薬品 67 件。"
 permalink: /news/generic-cancer/
 last_modified_at: 2026-11-22
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="がん (generic_cancer) に関するニュースは？">
-<strong>がん (generic_cancer)</strong> には現在 <strong>48 件</strong>の関連ニュースと 67 件の関連医薬品があります。
+<strong>がん (generic_cancer)</strong> には現在 <strong>49 件</strong>の関連ニュースと 67 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -94,7 +94,15 @@ last_modified_at: 2026-11-22
 </ul>
 </div>
 
-## 関連ニュース（48 件）
+## 関連ニュース（49 件）
+
+### [彼女は18歳の時、インフルエンザA型に感染した後、思いがけず肺がんと診断された。](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQejFYbXFKWXAxdmdkSDdobE1UNHI5QXFoa2s5Uk5LZklUbFVxZVpHa2ZkdmFDbG5kUzBxQUNIcjl1dS1BZXN1cWF4RFRxZ0x6STNHWUhqNjFTV1lNdnhvOTVfNUVacVRweDVhTjREeXZZZFhueVJSNkNmc3dRNENtZU1vUFA5WGUy?oc=5)
+
+2026-11-22
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQejFYbXFKWXAxdmdkSDdobE1UNHI5QXFoa2s5Uk5LZklUbFVxZVpHa2ZkdmFDbG5kUzBxQUNIcjl1dS1BZXN1cWF4RFRxZ0x6STNHWUhqNjFTV1lNdnhvOTVfNUVacVRweDVhTjREeXZZZFhueVJSNkNmc3dRNENtZU1vUFA5WGUy?oc=5)
+
+---
 
 ### [〈論説〉大腸がん体験記 検便からダビンチへ](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lTkM2MmFhT0tiMURfSTJDbGRzV01HRzRxVXpZMmNOOXBSODUtWUVXY2dvbnRZRUlVa2EyZ0drdW1CM0xjTzhQZ0p4elRkMmJ6QXpN?oc=5)
 

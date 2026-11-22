@@ -3,7 +3,7 @@ layout: default
 title: "心臓発作 (myocardial infarction) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "心臓発作 (myocardial infarction) に関する健康ニュース。ニュース 6 件、関連医薬品 7 件。"
+description: "心臓発作 (myocardial infarction) に関する健康ニュース。ニュース 7 件、関連医薬品 7 件。"
 permalink: /news/myocardial-infarction/
 last_modified_at: 2026-11-22
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="心臓発作 (myocardial infarction) に関するニュースは？">
-<strong>心臓発作 (myocardial infarction)</strong> には現在 <strong>6 件</strong>の関連ニュースと 7 件の関連医薬品があります。
+<strong>心臓発作 (myocardial infarction)</strong> には現在 <strong>7 件</strong>の関連ニュースと 7 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ last_modified_at: 2026-11-22
 </ul>
 </div>
 
-## 関連ニュース（6 件）
+## 関連ニュース（7 件）
 
 ### [「食後の眠気」は危険！糖尿病や認知症リスクにつながる「血糖値スパイク」を防ぐ毎日の習慣とは](https://news.google.com/rss/articles/CBMihgFBVV95cUxNN2prcUw2UWxfeHBqYWNsVFVYcmFyZVA0NTF0cGl3NzdWYnN2THdHU25pUURBSlRFWUVTaHE3VmtQVVdpRk5rU2pEb1c2NkFfUkhlbGYtQjNaSUNQZ2JFTnVJQjBCcmxVVkNBZXVvZHRyUHJqblU3dEJZNlBmZUlLTDJPdmo2Z9IBggFBVV95cUxORGhpWjBFQTFERFZiSHV4TlhvSk9UX0tDZGYtQTVrQ1hwZmpCU3RKRmR5cFNPQU8zNXhkVmxKZHQxbTJfVXprS0lSQ3ZhUXpvaXNzdEt2SWtWT0kxbVFyTC1iZ1pNdVNfdGtHU3AzRE5ITkc4ZVRnMjF2X3RFWmNyc1p3?oc=5)
 
@@ -75,6 +75,14 @@ last_modified_at: 2026-11-22
 2026-11-17
 
 出典: [CNN](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1PVUxraTRwWjR6bkQzbzdvcjhETGNQWVJMMkJLQTB6c25wQTZzSW9sSldwVlFWVHV0LUtNa0ZyYWxYVlpoYjhnRDZyVy16aURvRkRPQg?oc=5)
+
+---
+
+### [食後の血糖値スパイクを抑える「オイルファースト」 心筋梗塞や脳梗塞など血管の疾患の予防に期待 「オリーブオイル」「菜種油」「えごま油」…最強の油はどれか (1/2)](https://news.google.com/rss/articles/CBMiOEFVX3lxTE9EX3RGUVY0OFdYNjcyelVhUThkczRZeURDMDM1aG81S1pFWlR6V0JnN05PcXJaY1d5?oc=5)
+
+2026-11-17
+
+出典: [女性セブンプラス](https://news.google.com/rss/articles/CBMiOEFVX3lxTE9EX3RGUVY0OFdYNjcyelVhUThkczRZeURDMDM1aG81S1pFWlR6V0JnN05PcXJaY1d5?oc=5)
 
 ---
 

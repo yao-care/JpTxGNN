@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="シングレアＯＤ錠１０ｍｇ（選） に関するニュースは？">
-<strong>シングレアＯＤ錠１０ｍｇ（選）</strong> には現在 <strong>53 件</strong>の関連ニュースがあり、予測適応症は 2 件です。
+<strong>シングレアＯＤ錠１０ｍｇ（選）</strong> には現在 <strong>55 件</strong>の関連ニュースがあり、予測適応症は 2 件です。
 </p>
 
 <div class="key-takeaway">
@@ -34,7 +34,23 @@ last_modified_at: 2026-11-22
 <p><a href="{{ '/drugs/montelukast/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（53 件）
+## 関連ニュース（55 件）
+
+### [頑張って掃除してもホコリが溜まる。そんな時に見直したい「空気の通り道」(ライフハッカー・ジャパン)](https://news.yahoo.co.jp/articles/ad4816660ace446cb5f1e1bb02c2532f528eec50?source=rss)
+
+2026-11-22 <span class="news-indication-tag">喘息</span>
+
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/ad4816660ace446cb5f1e1bb02c2532f528eec50?source=rss)
+
+---
+
+### [彼女は18歳の時、インフルエンザA型に感染した後、思いがけず肺がんと診断された。](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQejFYbXFKWXAxdmdkSDdobE1UNHI5QXFoa2s5Uk5LZklUbFVxZVpHa2ZkdmFDbG5kUzBxQUNIcjl1dS1BZXN1cWF4RFRxZ0x6STNHWUhqNjFTV1lNdnhvOTVfNUVacVRweDVhTjREeXZZZFhueVJSNkNmc3dRNENtZU1vUFA5WGUy?oc=5)
+
+2026-11-22 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">肺がん</span> <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQejFYbXFKWXAxdmdkSDdobE1UNHI5QXFoa2s5Uk5LZklUbFVxZVpHa2ZkdmFDbG5kUzBxQUNIcjl1dS1BZXN1cWF4RFRxZ0x6STNHWUhqNjFTV1lNdnhvOTVfNUVacVRweDVhTjREeXZZZFhueVJSNkNmc3dRNENtZU1vUFA5WGUy?oc=5)
+
+---
 
 ### [〈論説〉大腸がん体験記 検便からダビンチへ](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lTkM2MmFhT0tiMURfSTJDbGRzV01HRzRxVXpZMmNOOXBSODUtWUVXY2dvbnRZRUlVa2EyZ0drdW1CM0xjTzhQZ0p4elRkMmJ6QXpN?oc=5)
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="タミフルドライシロップ３％（選） に関するニュースは？">
-<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>24 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>27 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ last_modified_at: 2026-11-22
 <p><a href="{{ '/drugs/oseltamivir/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（24 件）
+## 関連ニュース（27 件）
+
+### [彼女は18歳の時、インフルエンザA型に感染した後、思いがけず肺がんと診断された。](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQejFYbXFKWXAxdmdkSDdobE1UNHI5QXFoa2s5Uk5LZklUbFVxZVpHa2ZkdmFDbG5kUzBxQUNIcjl1dS1BZXN1cWF4RFRxZ0x6STNHWUhqNjFTV1lNdnhvOTVfNUVacVRweDVhTjREeXZZZFhueVJSNkNmc3dRNENtZU1vUFA5WGUy?oc=5)
+
+2026-11-22 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">肺がん</span> <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQejFYbXFKWXAxdmdkSDdobE1UNHI5QXFoa2s5Uk5LZklUbFVxZVpHa2ZkdmFDbG5kUzBxQUNIcjl1dS1BZXN1cWF4RFRxZ0x6STNHWUhqNjFTV1lNdnhvOTVfNUVacVRweDVhTjREeXZZZFhueVJSNkNmc3dRNENtZU1vUFA5WGUy?oc=5)
+
+---
 
 ### [季節の変わり目には疾病の発生が増加するため、重篤な合併症を予防することが重要です。](https://news.google.com/rss/articles/CBMijwFBVV95cUxOR3VWVFF0bjhDOUhwcnotT1p4SjdVc1FVTjU0SG5fbnJKOUkzcjQ3bXJvWFU4N0Z4eWVLVi03OTVjYjllVWcwQnFyRlBzMVJTRHRNRU0wVl80dlFUUG9QQzFlOXJGSl9oekU4UFBQc3R4M0JMeFI3U2pRQ0dIbWdkWHJ6Vlh4cVkyUl9QODRqNA?oc=5)
 
@@ -53,6 +61,14 @@ last_modified_at: 2026-11-22
 2026-11-22 <span class="news-indication-tag">インフルエンザ</span>
 
 出典: [The Macau Shimbun](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PMHV6SkdiS05ONFBfRXZiR0FCN1JBemtnZGpZNlZJQkVvMmNjZFluTzcyMWdzcFgzV19SSUhnRk1LZVBxU01iVTdqTzFLSmhlVVQ4YzJB?oc=5)
+
+---
+
+### [RSウイルス感染症から子どもを守るための対策は、妊娠中から始めるべきです。](https://news.google.com/rss/articles/CBMieEFVX3lxTE4yWFJ1NWUxVWpRSy1qUkJEcGlGWHVTMUw3RXBIckNRbkZHUFhuSVRUSmVxY3pJR1pEanRxSE0tV1VqTVprUFdNbTJaQ181Zl95czUwX2hyQlItOG91VkVtaEdycXF3aHZraFpFZkkybURQS1RHU1ZWTQ?oc=5)
+
+2026-11-22 <span class="news-indication-tag">肺炎</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMieEFVX3lxTE4yWFJ1NWUxVWpRSy1qUkJEcGlGWHVTMUw3RXBIckNRbkZHUFhuSVRUSmVxY3pJR1pEanRxSE0tV1VqTVprUFdNbTJaQ181Zl95czUwX2hyQlItOG91VkVtaEdycXF3aHZraFpFZkkybURQS1RHU1ZWTQ?oc=5)
 
 ---
 
@@ -168,6 +184,14 @@ last_modified_at: 2026-11-22
 
 ---
 
+### [【報道発表資料】 「今、何の病気が流行しているか！」の情報提供について（令和8年第46週）](https://news.google.com/rss/articles/CBMib0FVX3lxTE5rUlVKZGIxWk1PcEZvVzF1d1hFUXctQWEyOW9yOWsyQmlTTXpOdTNzajRaLTExZjhqaXlKOXJmLXRLVEJ2NkNjWEpUbzJTbS1UdERWazJOczJwdzY4RkdySHlqZDhkOTF3bU9OcERlNA?oc=5)
+
+2026-11-18 <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [川崎市](https://news.google.com/rss/articles/CBMib0FVX3lxTE5rUlVKZGIxWk1PcEZvVzF1d1hFUXctQWEyOW9yOWsyQmlTTXpOdTNzajRaLTExZjhqaXlKOXJmLXRLVEJ2NkNjWEpUbzJTbS1UdERWazJOczJwdzY4RkdySHlqZDhkOTF3bU9OcERlNA?oc=5)
+
+---
+
 ### [「在宅勤務」で備えても現実は「有休」… 子どものインフルエンザ対策〔保護者195人に聞いた〕 - コクリコ｜講談社](https://news.google.com/rss/articles/CBMib0FVX3lxTE9KcDd4NG93Rks0YmhmV1d1RGN4ZFlWTjJrU3NBRmFhcGdWZlhDWjVyR21ZYzNZblVLeUVYUTZ2T19tMHd3SmNkVDdDby00WS1HUjVQQmlTTEZHN1FaXzVNR2Vvb0s4M3c1LWgyV2N4QQ?oc=5)
 
 2026-11-17 <span class="news-indication-tag">インフルエンザ</span>
@@ -176,19 +200,19 @@ last_modified_at: 2026-11-22
 
 ---
 
-### [もうインフルエンザに罹ってしまった、それでもワクチン接種は必要](https://news.google.com/rss/articles/CBMiekFVX3lxTE1nZUxwYUxtTVlKcGJ4aTlYeGRTbmprRjJ4NzA0V1dvVm9wcmZtMlNjUmo5QXVCMzZnaEtJUUJqbGhOSXU4dm1ldC1TYnFqTm9sZnBhR1h6VGVoS3dicGh1YXhuQ0luOTRudWQwQ1hidzZnbEpwQ0V1Skh30gF_QVVfeXFMTncwdFJrWEZJMTROSzhJTFotNVB4SW9yMU0wLUwyWFJtcjJWdUNmOE16emxkZEllaGVJYkRjMEl3YXBMcTgwMmtnWWVhdUdQNzROcWR4cGlJeXBLZ3NkbWNnZUU4ZVJxVXNoWWFxQWpLLWtoOWFMRTRsVERuQ2M2WQ?oc=5)
-
-2026-11-16 <span class="news-indication-tag">インフルエンザ</span>
-
-出典: [ｄメニューニュース](https://news.google.com/rss/articles/CBMiekFVX3lxTE1nZUxwYUxtTVlKcGJ4aTlYeGRTbmprRjJ4NzA0V1dvVm9wcmZtMlNjUmo5QXVCMzZnaEtJUUJqbGhOSXU4dm1ldC1TYnFqTm9sZnBhR1h6VGVoS3dicGh1YXhuQ0luOTRudWQwQ1hidzZnbEpwQ0V1Skh30gF_QVVfeXFMTncwdFJrWEZJMTROSzhJTFotNVB4SW9yMU0wLUwyWFJtcjJWdUNmOE16emxkZEllaGVJYkRjMEl3YXBMcTgwMmtnWWVhdUdQNzROcWR4cGlJeXBLZ3NkbWNnZUU4ZVJxVXNoWWFxQWpLLWtoOWFMRTRsVERuQ2M2WQ?oc=5)
-
----
-
 ### [もうインフルエンザに罹ってしまった、それでもワクチン接種は必要](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GSHBMRElYZUlHN2F0TkxmTzVaOGZmVVduaG0zMFpkTzdhWUtUb0V0WnowYTZtZHc1WTE0U1B0SE5wcm5lN0s0OU9HU3N4Z0tsRWNxeVBoME1LQUVUNml4bEpSVlA?oc=5)
 
 2026-11-16 <span class="news-indication-tag">インフルエンザ</span>
 
 出典: [hicbc.com](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GSHBMRElYZUlHN2F0TkxmTzVaOGZmVVduaG0zMFpkTzdhWUtUb0V0WnowYTZtZHc1WTE0U1B0SE5wcm5lN0s0OU9HU3N4Z0tsRWNxeVBoME1LQUVUNml4bEpSVlA?oc=5)
+
+---
+
+### [もうインフルエンザに罹ってしまった、それでもワクチン接種は必要](https://news.google.com/rss/articles/CBMiekFVX3lxTE1nZUxwYUxtTVlKcGJ4aTlYeGRTbmprRjJ4NzA0V1dvVm9wcmZtMlNjUmo5QXVCMzZnaEtJUUJqbGhOSXU4dm1ldC1TYnFqTm9sZnBhR1h6VGVoS3dicGh1YXhuQ0luOTRudWQwQ1hidzZnbEpwQ0V1Skh30gF_QVVfeXFMTncwdFJrWEZJMTROSzhJTFotNVB4SW9yMU0wLUwyWFJtcjJWdUNmOE16emxkZEllaGVJYkRjMEl3YXBMcTgwMmtnWWVhdUdQNzROcWR4cGlJeXBLZ3NkbWNnZUU4ZVJxVXNoWWFxQWpLLWtoOWFMRTRsVERuQ2M2WQ?oc=5)
+
+2026-11-16 <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [ｄメニューニュース](https://news.google.com/rss/articles/CBMiekFVX3lxTE1nZUxwYUxtTVlKcGJ4aTlYeGRTbmprRjJ4NzA0V1dvVm9wcmZtMlNjUmo5QXVCMzZnaEtJUUJqbGhOSXU4dm1ldC1TYnFqTm9sZnBhR1h6VGVoS3dicGh1YXhuQ0luOTRudWQwQ1hidzZnbEpwQ0V1Skh30gF_QVVfeXFMTncwdFJrWEZJMTROSzhJTFotNVB4SW9yMU0wLUwyWFJtcjJWdUNmOE16emxkZEllaGVJYkRjMEl3YXBMcTgwMmtnWWVhdUdQNzROcWR4cGlJeXBLZ3NkbWNnZUU4ZVJxVXNoWWFxQWpLLWtoOWFMRTRsVERuQ2M2WQ?oc=5)
 
 ---
 

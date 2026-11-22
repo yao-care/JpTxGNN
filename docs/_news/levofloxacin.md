@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="クラビット点眼液１．５％（選） に関するニュースは？">
-<strong>クラビット点眼液１．５％（選）</strong> には現在 <strong>57 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
+<strong>クラビット点眼液１．５％（選）</strong> には現在 <strong>59 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ last_modified_at: 2026-11-22
 <p><a href="{{ '/drugs/levofloxacin/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（57 件）
+## 関連ニュース（59 件）
+
+### [彼女は18歳の時、インフルエンザA型に感染した後、思いがけず肺がんと診断された。](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQejFYbXFKWXAxdmdkSDdobE1UNHI5QXFoa2s5Uk5LZklUbFVxZVpHa2ZkdmFDbG5kUzBxQUNIcjl1dS1BZXN1cWF4RFRxZ0x6STNHWUhqNjFTV1lNdnhvOTVfNUVacVRweDVhTjREeXZZZFhueVJSNkNmc3dRNENtZU1vUFA5WGUy?oc=5)
+
+2026-11-22 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">肺がん</span> <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQejFYbXFKWXAxdmdkSDdobE1UNHI5QXFoa2s5Uk5LZklUbFVxZVpHa2ZkdmFDbG5kUzBxQUNIcjl1dS1BZXN1cWF4RFRxZ0x6STNHWUhqNjFTV1lNdnhvOTVfNUVacVRweDVhTjREeXZZZFhueVJSNkNmc3dRNENtZU1vUFA5WGUy?oc=5)
+
+---
 
 ### [〈論説〉大腸がん体験記 検便からダビンチへ](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lTkM2MmFhT0tiMURfSTJDbGRzV01HRzRxVXpZMmNOOXBSODUtWUVXY2dvbnRZRUlVa2EyZ0drdW1CM0xjTzhQZ0p4elRkMmJ6QXpN?oc=5)
 
@@ -64,6 +72,14 @@ last_modified_at: 2026-11-22
 2026-11-22 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
 
 出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTHBWVlJ6R2ZvNGgzMUtPRlNoZkhnTk9PNE5WR3EwZ2x5aVBmcFlna1RsZnlRRzdiWXJwXy1UbUVDY195aXJOZzAwdnZma2p5NmZlM2RLbU5nWC1TS0N2MlJlZXl5Wks1TmVmaExVdzFEbFQtXzJBa1pzMkl3X1EzY3pMR2xSemUz?oc=5) · [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/32e402eb9ac912b2796ab72e88bc6ce7cd7ec6f3?source=rss)
+
+---
+
+### [RSウイルス感染症から子どもを守るための対策は、妊娠中から始めるべきです。](https://news.google.com/rss/articles/CBMieEFVX3lxTE4yWFJ1NWUxVWpRSy1qUkJEcGlGWHVTMUw3RXBIckNRbkZHUFhuSVRUSmVxY3pJR1pEanRxSE0tV1VqTVprUFdNbTJaQ181Zl95czUwX2hyQlItOG91VkVtaEdycXF3aHZraFpFZkkybURQS1RHU1ZWTQ?oc=5)
+
+2026-11-22 <span class="news-indication-tag">肺炎</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMieEFVX3lxTE4yWFJ1NWUxVWpRSy1qUkJEcGlGWHVTMUw3RXBIckNRbkZHUFhuSVRUSmVxY3pJR1pEanRxSE0tV1VqTVprUFdNbTJaQ181Zl95czUwX2hyQlItOG91VkVtaEdycXF3aHZraFpFZkkybURQS1RHU1ZWTQ?oc=5)
 
 ---
 

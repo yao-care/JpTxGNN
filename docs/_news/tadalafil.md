@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="ザルティア錠５ｍｇ（選） に関するニュースは？">
-<strong>ザルティア錠５ｍｇ（選）</strong> には現在 <strong>20 件</strong>の関連ニュースがあり、予測適応症は 8 件です。
+<strong>ザルティア錠５ｍｇ（選）</strong> には現在 <strong>22 件</strong>の関連ニュースがあり、予測適応症は 8 件です。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ last_modified_at: 2026-11-22
 <p><a href="{{ '/drugs/tadalafil/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（20 件）
+## 関連ニュース（22 件）
 
 ### [何の症状もなかったにもかかわらず、その男性は突然脳卒中の危険に直面した。](https://news.google.com/rss/articles/CBMimgFBVV95cUxOazdLLWJIdkRqNU14bi1BUU1hU3ZfeENTeW15d25jODVnSFdDNEN6QTcxdVl1LTZzTlNwMlBuazFndjhDOE0tTmI0SEVXYUZjb3JudHZEdldMX1AtdjhpVUVxaVd4aFA1djh0NEhKZmxUd2hlZUd5ay1SbnA5VWtMTDI2dkZoMlltSm94X09UOHVEemxqdmk5UUZn?oc=5)
 
@@ -130,6 +130,14 @@ last_modified_at: 2026-11-22
 
 ---
 
+### [野菜ジュースでもサプリでもない…医師が｢認知症リスクが約3割下がる｣と勧めるスーパーで買える身近な食材](https://news.google.com/rss/articles/CBMif0FVX3lxTE94aTV3RUxFS1hxcnZVa3FkTHV2cERGN1Z4R25SOWFxeThLTXVfcWhxSW11cXpHMDhGNmk0QUhodE81endZazRadHlsXzhkcVJ5YU1rYkFFVmdWY1M3ajV6VC14bG1YY0VSSGVKaFJYT2ViMXBiUjNwNWxBbTJPNjQ?oc=5)
+
+2026-11-18 <span class="news-indication-tag">認知症</span> <span class="news-indication-tag">脳卒中</span>
+
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE94aTV3RUxFS1hxcnZVa3FkTHV2cERGN1Z4R25SOWFxeThLTXVfcWhxSW11cXpHMDhGNmk0QUhodE81endZazRadHlsXzhkcVJ5YU1rYkFFVmdWY1M3ajV6VC14bG1YY0VSSGVKaFJYT2ViMXBiUjNwNWxBbTJPNjQ?oc=5)
+
+---
+
 ### [野菜ジュースでもサプリでもない…医師が｢認知症リスクが約3割下がる｣と勧めるスーパーで買える身近な食材(プレジデントオンライン)](https://news.yahoo.co.jp/articles/a66442e81cb0fd1c4df1d9a65e9a6a6843412d91?source=rss)
 
 2026-11-18 <span class="news-indication-tag">心臓病</span> <span class="news-indication-tag">認知症</span>
@@ -151,6 +159,14 @@ last_modified_at: 2026-11-22
 2026-11-18 <span class="news-indication-tag">認知症</span> <span class="news-indication-tag">心筋梗塞</span> <span class="news-indication-tag">脳梗塞</span>
 
 出典: [フロントロウ](https://news.google.com/rss/articles/CBMiR0FVX3lxTE5Ga1dTdWd5VHZfcDI4OUNyTm5qWjB5bzQ4UXcwM0FQVkZvSnZ6ZjQyM2M1WnZBQWx2VkNBLUNUNDBEWWNTdjA0?oc=5)
+
+---
+
+### [食後の血糖値スパイクを抑える「オイルファースト」 心筋梗塞や脳梗塞など血管の疾患の予防に期待 「オリーブオイル」「菜種油」「えごま油」…最強の油はどれか (1/2)](https://news.google.com/rss/articles/CBMiOEFVX3lxTE9EX3RGUVY0OFdYNjcyelVhUThkczRZeURDMDM1aG81S1pFWlR6V0JnN05PcXJaY1d5?oc=5)
+
+2026-11-17 <span class="news-indication-tag">心筋梗塞</span> <span class="news-indication-tag">脳梗塞</span>
+
+出典: [女性セブンプラス](https://news.google.com/rss/articles/CBMiOEFVX3lxTE9EX3RGUVY0OFdYNjcyelVhUThkczRZeURDMDM1aG81S1pFWlR6V0JnN05PcXJaY1d5?oc=5)
 
 ---
 

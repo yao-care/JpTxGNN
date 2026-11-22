@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="ロプレソール錠４０ｍｇ（選） に関するニュースは？">
-<strong>ロプレソール錠４０ｍｇ（選）</strong> には現在 <strong>61 件</strong>の関連ニュースがあり、予測適応症は 6 件です。
+<strong>ロプレソール錠４０ｍｇ（選）</strong> には現在 <strong>63 件</strong>の関連ニュースがあり、予測適応症は 6 件です。
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,15 @@ last_modified_at: 2026-11-22
 <p><a href="{{ '/drugs/metoprolol/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（61 件）
+## 関連ニュース（63 件）
+
+### [彼女は18歳の時、インフルエンザA型に感染した後、思いがけず肺がんと診断された。](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQejFYbXFKWXAxdmdkSDdobE1UNHI5QXFoa2s5Uk5LZklUbFVxZVpHa2ZkdmFDbG5kUzBxQUNIcjl1dS1BZXN1cWF4RFRxZ0x6STNHWUhqNjFTV1lNdnhvOTVfNUVacVRweDVhTjREeXZZZFhueVJSNkNmc3dRNENtZU1vUFA5WGUy?oc=5)
+
+2026-11-22 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">肺がん</span> <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQejFYbXFKWXAxdmdkSDdobE1UNHI5QXFoa2s5Uk5LZklUbFVxZVpHa2ZkdmFDbG5kUzBxQUNIcjl1dS1BZXN1cWF4RFRxZ0x6STNHWUhqNjFTV1lNdnhvOTVfNUVacVRweDVhTjREeXZZZFhueVJSNkNmc3dRNENtZU1vUFA5WGUy?oc=5)
+
+---
 
 ### [〈論説〉大腸がん体験記 検便からダビンチへ](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lTkM2MmFhT0tiMURfSTJDbGRzV01HRzRxVXpZMmNOOXBSODUtWUVXY2dvbnRZRUlVa2EyZ0drdW1CM0xjTzhQZ0p4elRkMmJ6QXpN?oc=5)
 
@@ -349,6 +357,14 @@ last_modified_at: 2026-11-22
 2026-11-17 <span class="news-indication-tag">がん</span>
 
 出典: [産経ニュース](https://news.google.com/rss/articles/CBMijAFBVV95cUxOcWNMU2czbi1maHFGbEprRmpCeEJnYjdkX1dYWGtaUWpJTUQ2UUQwSnZaNzBHOFJPZDhOeXI2cEd1YUxNbmhMTjFiVXB2WnZid3ZLcC1xOW42anhsR1NISThra0NRY1V5Wk1NbDA1UDZTZ0JkdVFvSEFNZERPaFVOYnlUQ2xHQS0xcHFCSg?oc=5)
+
+---
+
+### [食後の血糖値スパイクを抑える「オイルファースト」 心筋梗塞や脳梗塞など血管の疾患の予防に期待 「オリーブオイル」「菜種油」「えごま油」…最強の油はどれか (1/2)](https://news.google.com/rss/articles/CBMiOEFVX3lxTE9EX3RGUVY0OFdYNjcyelVhUThkczRZeURDMDM1aG81S1pFWlR6V0JnN05PcXJaY1d5?oc=5)
+
+2026-11-17 <span class="news-indication-tag">心筋梗塞</span> <span class="news-indication-tag">脳梗塞</span>
+
+出典: [女性セブンプラス](https://news.google.com/rss/articles/CBMiOEFVX3lxTE9EX3RGUVY0OFdYNjcyelVhUThkczRZeURDMDM1aG81S1pFWlR6V0JnN05PcXJaY1d5?oc=5)
 
 ---
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="プレミネント配合錠ＨＤ（選） に関するニュースは？">
-<strong>プレミネント配合錠ＨＤ（選）</strong> には現在 <strong>54 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>プレミネント配合錠ＨＤ（選）</strong> には現在 <strong>55 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ last_modified_at: 2026-11-22
 <p><a href="{{ '/drugs/hydrochlorothiazide/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（54 件）
+## 関連ニュース（55 件）
+
+### [彼女は18歳の時、インフルエンザA型に感染した後、思いがけず肺がんと診断された。](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQejFYbXFKWXAxdmdkSDdobE1UNHI5QXFoa2s5Uk5LZklUbFVxZVpHa2ZkdmFDbG5kUzBxQUNIcjl1dS1BZXN1cWF4RFRxZ0x6STNHWUhqNjFTV1lNdnhvOTVfNUVacVRweDVhTjREeXZZZFhueVJSNkNmc3dRNENtZU1vUFA5WGUy?oc=5)
+
+2026-11-22 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">肺がん</span> <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQejFYbXFKWXAxdmdkSDdobE1UNHI5QXFoa2s5Uk5LZklUbFVxZVpHa2ZkdmFDbG5kUzBxQUNIcjl1dS1BZXN1cWF4RFRxZ0x6STNHWUhqNjFTV1lNdnhvOTVfNUVacVRweDVhTjREeXZZZFhueVJSNkNmc3dRNENtZU1vUFA5WGUy?oc=5)
+
+---
 
 ### [高血圧、高コレステロール、糖尿病：年齢のせいにしてはいけない。](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeHBEd2tWTGtFbzBSYWFnQy1VdmtsWFRPQlBIX3ZxanNDWVRIaGc0QmZkSVVDSFNfMnN4UzVhN05qMXA5bHV6UjFLMTRKWV94ZDhhUVJMeFhoYTh4eDJPSnZpYlhzakNPa3ZsUW1mdzQwcTJIQUxaTUF2Z3JmdFpZY3BVOF9HZzlP?oc=5)
 

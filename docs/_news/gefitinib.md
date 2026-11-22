@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="イレッサ錠２５０　２５０ｍｇ（選） に関するニュースは？">
-<strong>イレッサ錠２５０　２５０ｍｇ（選）</strong> には現在 <strong>91 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
+<strong>イレッサ錠２５０　２５０ｍｇ（選）</strong> には現在 <strong>94 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ last_modified_at: 2026-11-22
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（91 件）
+## 関連ニュース（94 件）
+
+### [彼女は18歳の時、インフルエンザA型に感染した後、思いがけず肺がんと診断された。](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQejFYbXFKWXAxdmdkSDdobE1UNHI5QXFoa2s5Uk5LZklUbFVxZVpHa2ZkdmFDbG5kUzBxQUNIcjl1dS1BZXN1cWF4RFRxZ0x6STNHWUhqNjFTV1lNdnhvOTVfNUVacVRweDVhTjREeXZZZFhueVJSNkNmc3dRNENtZU1vUFA5WGUy?oc=5)
+
+2026-11-22 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">肺がん</span> <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQejFYbXFKWXAxdmdkSDdobE1UNHI5QXFoa2s5Uk5LZklUbFVxZVpHa2ZkdmFDbG5kUzBxQUNIcjl1dS1BZXN1cWF4RFRxZ0x6STNHWUhqNjFTV1lNdnhvOTVfNUVacVRweDVhTjREeXZZZFhueVJSNkNmc3dRNENtZU1vUFA5WGUy?oc=5)
+
+---
 
 ### [〈論説〉大腸がん体験記 検便からダビンチへ](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lTkM2MmFhT0tiMURfSTJDbGRzV01HRzRxVXpZMmNOOXBSODUtWUVXY2dvbnRZRUlVa2EyZ0drdW1CM0xjTzhQZ0p4elRkMmJ6QXpN?oc=5)
 
@@ -64,6 +72,14 @@ last_modified_at: 2026-11-22
 2026-11-21 <span class="news-indication-tag">がん</span>
 
 出典: [Infoseek](https://news.google.com/rss/articles/CBMiZEFVX3lxTE90ZXVNdHZSNXJVa3RGeWRBMG5YRE9nWnVnYmRnaUVRajJlXzVISmU0MUwxcW9tVTF3cGJIVk5FbXU2bUlXWTNUb2szYS1DRzIxclZPdGp3TDM1UFBXUVVFeFNMSWY?oc=5)
+
+---
+
+### [【新刊案内】認知症にはスイッチがある。 専門医がやさしく解説する人生100年時代の脳活習慣『認知症スイッチの切り方』が11月20日発売！](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vYl9fdTRUMHc1Z0QtVHh6UnpkZmNqVUFOc3FFQkVZOWFnN2dDcDY2VjlIT0JlZEY4emM0U2trZV9BejdwLXZlWjQzb1JkUTJqMkRLdlliMFNGOU0?oc=5)
+
+2026-11-21 <span class="news-indication-tag">認知症</span>
+
+出典: [valuepress](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vYl9fdTRUMHc1Z0QtVHh6UnpkZmNqVUFOc3FFQkVZOWFnN2dDcDY2VjlIT0JlZEY4emM0U2trZV9BejdwLXZlWjQzb1JkUTJqMkRLdlliMFNGOU0?oc=5)
 
 ---
 
@@ -301,7 +317,7 @@ last_modified_at: 2026-11-22
 
 ### [野菜ジュースでもサプリでもない…医師が｢認知症リスクが約3割下がる｣と勧めるスーパーで買える身近な食材](https://news.google.com/rss/articles/CBMif0FVX3lxTE94aTV3RUxFS1hxcnZVa3FkTHV2cERGN1Z4R25SOWFxeThLTXVfcWhxSW11cXpHMDhGNmk0QUhodE81endZazRadHlsXzhkcVJ5YU1rYkFFVmdWY1M3ajV6VC14bG1YY0VSSGVKaFJYT2ViMXBiUjNwNWxBbTJPNjQ?oc=5)
 
-2026-11-18 <span class="news-indication-tag">認知症</span>
+2026-11-18 <span class="news-indication-tag">認知症</span> <span class="news-indication-tag">脳卒中</span>
 
 出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE94aTV3RUxFS1hxcnZVa3FkTHV2cERGN1Z4R25SOWFxeThLTXVfcWhxSW11cXpHMDhGNmk0QUhodE81endZazRadHlsXzhkcVJ5YU1rYkFFVmdWY1M3ajV6VC14bG1YY0VSSGVKaFJYT2ViMXBiUjNwNWxBbTJPNjQ?oc=5)
 
@@ -448,6 +464,14 @@ last_modified_at: 2026-11-22
 2026-11-17 <span class="news-indication-tag">認知症</span>
 
 出典: [PRESIDENT Online（プレジデントオンライン）](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5wbEJ2dklCeEhLSVJNenNQU1pKNHlGVUNKZXR3LVAzZ1JzSUZ4cDMxbFdBbGRuYmM2VDNGZlZra3drUDFWUVVDSlJFVC1LNkc5VXEtSWtwajg?oc=5)
+
+---
+
+### [80歳になった認知症研究の権威が実践する「脳の健康を保つシンプルな習慣」（クーリエ・ジャポン）](https://news.google.com/rss/articles/CBMif0FVX3lxTE4wU1pEZGpTUGRuaWRIVHd6SmcyeXdYQklvcl9ESVdGdkplWERDU3RSSkRTREZpMXFtVkRxazRZWU1MSkpjb3VITk9uQzdzMVhJaE5WY0s4U21CYXlwanRpa1JEMDR5Zkw5NXhzLUNxRjB0MGVMUEdZLW9zUXVXN00?oc=5)
+
+2026-11-17 <span class="news-indication-tag">認知症</span>
+
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE4wU1pEZGpTUGRuaWRIVHd6SmcyeXdYQklvcl9ESVdGdkplWERDU3RSSkRTREZpMXFtVkRxazRZWU1MSkpjb3VITk9uQzdzMVhJaE5WY0s4U21CYXlwanRpa1JEMDR5Zkw5NXhzLUNxRjB0MGVMUEdZLW9zUXVXN00?oc=5)
 
 ---
 

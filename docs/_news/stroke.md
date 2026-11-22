@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "脳梗塞 (stroke) 関連ニュース"
+title: "脳卒中 (stroke) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "脳梗塞 (stroke) に関する健康ニュース。ニュース 14 件、関連医薬品 16 件。"
+description: "脳卒中 (stroke) に関する健康ニュース。ニュース 16 件、関連医薬品 16 件。"
 permalink: /news/stroke/
 last_modified_at: 2026-11-22
 ---
 
-# 脳梗塞 (stroke) 関連ニュース
+# 脳卒中 (stroke) 関連ニュース
 
 [← ニュース一覧に戻る]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="脳梗塞 (stroke) に関するニュースは？">
-<strong>脳梗塞 (stroke)</strong> には現在 <strong>14 件</strong>の関連ニュースと 16 件の関連医薬品があります。
+<p class="key-answer" data-question="脳卒中 (stroke) に関するニュースは？">
+<strong>脳卒中 (stroke)</strong> には現在 <strong>16 件</strong>の関連ニュースと 16 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
-このページは「脳梗塞」に関する最新の健康ニュースをまとめ、JpTxGNN データベースで予測適応症にこの疾患を含む医薬品を一覧表示します。
+このページは「脳卒中」に関する最新の健康ニュースをまとめ、JpTxGNN データベースで予測適応症にこの疾患を含む医薬品を一覧表示します。
 </div>
 
 <div class="related-drugs-card">
@@ -45,7 +45,7 @@ last_modified_at: 2026-11-22
 </ul>
 </div>
 
-## 関連ニュース（14 件）
+## 関連ニュース（16 件）
 
 ### [何の症状もなかったにもかかわらず、その男性は突然脳卒中の危険に直面した。](https://news.google.com/rss/articles/CBMimgFBVV95cUxOazdLLWJIdkRqNU14bi1BUU1hU3ZfeENTeW15d25jODVnSFdDNEN6QTcxdVl1LTZzTlNwMlBuazFndjhDOE0tTmI0SEVXYUZjb3JudHZEdldMX1AtdjhpVUVxaVd4aFA1djh0NEhKZmxUd2hlZUd5ay1SbnA5VWtMTDI2dkZoMlltSm94X09UOHVEemxqdmk5UUZn?oc=5)
 
@@ -119,6 +119,14 @@ last_modified_at: 2026-11-22
 
 ---
 
+### [野菜ジュースでもサプリでもない…医師が｢認知症リスクが約3割下がる｣と勧めるスーパーで買える身近な食材](https://news.google.com/rss/articles/CBMif0FVX3lxTE94aTV3RUxFS1hxcnZVa3FkTHV2cERGN1Z4R25SOWFxeThLTXVfcWhxSW11cXpHMDhGNmk0QUhodE81endZazRadHlsXzhkcVJ5YU1rYkFFVmdWY1M3ajV6VC14bG1YY0VSSGVKaFJYT2ViMXBiUjNwNWxBbTJPNjQ?oc=5)
+
+2026-11-18
+
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE94aTV3RUxFS1hxcnZVa3FkTHV2cERGN1Z4R25SOWFxeThLTXVfcWhxSW11cXpHMDhGNmk0QUhodE81endZazRadHlsXzhkcVJ5YU1rYkFFVmdWY1M3ajV6VC14bG1YY0VSSGVKaFJYT2ViMXBiUjNwNWxBbTJPNjQ?oc=5)
+
+---
+
 ### [がん死者数が21年比2.4倍に、早期発見を](https://news.google.com/rss/articles/CBMiRkFVX3lxTFB2WkIzOGhnMk94ZkZ1X093NTM5LTlUc0JrU21YcVhVakt1cklxM01WaWJoLUNqQVBLZmE2ZVdJX19Gc0xwQkE?oc=5)
 
 2026-11-18
@@ -132,6 +140,14 @@ last_modified_at: 2026-11-22
 2026-11-18
 
 出典: [フロントロウ](https://news.google.com/rss/articles/CBMiR0FVX3lxTE5Ga1dTdWd5VHZfcDI4OUNyTm5qWjB5bzQ4UXcwM0FQVkZvSnZ6ZjQyM2M1WnZBQWx2VkNBLUNUNDBEWWNTdjA0?oc=5)
+
+---
+
+### [食後の血糖値スパイクを抑える「オイルファースト」 心筋梗塞や脳梗塞など血管の疾患の予防に期待 「オリーブオイル」「菜種油」「えごま油」…最強の油はどれか (1/2)](https://news.google.com/rss/articles/CBMiOEFVX3lxTE9EX3RGUVY0OFdYNjcyelVhUThkczRZeURDMDM1aG81S1pFWlR6V0JnN05PcXJaY1d5?oc=5)
+
+2026-11-17
+
+出典: [女性セブンプラス](https://news.google.com/rss/articles/CBMiOEFVX3lxTE9EX3RGUVY0OFdYNjcyelVhUThkczRZeURDMDM1aG81S1pFWlR6V0JnN05PcXJaY1d5?oc=5)
 
 ---
 
