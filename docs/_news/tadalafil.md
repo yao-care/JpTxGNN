@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "ザルティア錠５ｍｇ（選） に関する健康ニュース。予測適応症 8 件。"
 permalink: /news/tadalafil/
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-22
 ---
 
 # ザルティア錠５ｍｇ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="ザルティア錠５ｍｇ（選） に関するニュースは？">
-<strong>ザルティア錠５ｍｇ（選）</strong> には現在 <strong>16 件</strong>の関連ニュースがあり、予測適応症は 8 件です。
+<strong>ザルティア錠５ｍｇ（選）</strong> には現在 <strong>19 件</strong>の関連ニュースがあり、予測適応症は 8 件です。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,31 @@ last_modified_at: 2026-11-21
 <p><a href="{{ '/drugs/tadalafil/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（16 件）
+## 関連ニュース（19 件）
+
+### [何の症状もなかったにもかかわらず、その男性は突然脳卒中の危険に直面した。](https://news.google.com/rss/articles/CBMimgFBVV95cUxOazdLLWJIdkRqNU14bi1BUU1hU3ZfeENTeW15d25jODVnSFdDNEN6QTcxdVl1LTZzTlNwMlBuazFndjhDOE0tTmI0SEVXYUZjb3JudHZEdldMX1AtdjhpVUVxaVd4aFA1djh0NEhKZmxUd2hlZUd5ay1SbnA5VWtMTDI2dkZoMlltSm94X09UOHVEemxqdmk5UUZn?oc=5)
+
+2026-11-21 <span class="news-indication-tag">脳卒中</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMimgFBVV95cUxOazdLLWJIdkRqNU14bi1BUU1hU3ZfeENTeW15d25jODVnSFdDNEN6QTcxdVl1LTZzTlNwMlBuazFndjhDOE0tTmI0SEVXYUZjb3JudHZEdldMX1AtdjhpVUVxaVd4aFA1djh0NEhKZmxUd2hlZUd5ay1SbnA5VWtMTDI2dkZoMlltSm94X09UOHVEemxqdmk5UUZn?oc=5)
+
+---
+
+### [科学会議「ゲアン省における脳卒中救急医療・治療能力の向上」](https://news.google.com/rss/articles/CBMiowFBVV95cUxPMTMtUEtEYk9kQndEblJ4b2MwRjY5aFE4VEUtMF9tUm5Ed3JNVnhUTHIzdzJ4NENKeV9tb2ZRTFFNNjlzMDRKVDBjQ3BHQXpyZXUwVnpodGx0a0lFZTZ1RXZsSHMtRjJqakRyU2pYVHgxUG5GWk12bFhxcVlXT2pLQ0FFbE82b1NicWhhMUtnSjdiMm5ubFJGNjBTcUVkdFZwVjVN?oc=5)
+
+2026-11-21 <span class="news-indication-tag">脳卒中</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMiowFBVV95cUxPMTMtUEtEYk9kQndEblJ4b2MwRjY5aFE4VEUtMF9tUm5Ed3JNVnhUTHIzdzJ4NENKeV9tb2ZRTFFNNjlzMDRKVDBjQ3BHQXpyZXUwVnpodGx0a0lFZTZ1RXZsSHMtRjJqakRyU2pYVHgxUG5GWk12bFhxcVlXT2pLQ0FFbE82b1NicWhhMUtnSjdiMm5ubFJGNjBTcUVkdFZwVjVN?oc=5)
+
+---
+
+### [「食後の眠気」は危険！糖尿病や認知症リスクにつながる「血糖値スパイク」を防ぐ毎日の習慣とは](https://news.google.com/rss/articles/CBMihgFBVV95cUxNN2prcUw2UWxfeHBqYWNsVFVYcmFyZVA0NTF0cGl3NzdWYnN2THdHU25pUURBSlRFWUVTaHE3VmtQVVdpRk5rU2pEb1c2NkFfUkhlbGYtQjNaSUNQZ2JFTnVJQjBCcmxVVkNBZXVvZHRyUHJqblU3dEJZNlBmZUlLTDJPdmo2Z9IBggFBVV95cUxORGhpWjBFQTFERFZiSHV4TlhvSk9UX0tDZGYtQTVrQ1hwZmpCU3RKRmR5cFNPQU8zNXhkVmxKZHQxbTJfVXprS0lSQ3ZhUXpvaXNzdEt2SWtWT0kxbVFyTC1iZ1pNdVNfdGtHU3AzRE5ITkc4ZVRnMjF2X3RFWmNyc1p3?oc=5)
+
+2026-11-20 <span class="news-indication-tag">認知症</span> <span class="news-indication-tag">心筋梗塞</span> <span class="news-indication-tag">脳梗塞</span>
+
+出典: [ｄメニューニュース](https://news.google.com/rss/articles/CBMihgFBVV95cUxNN2prcUw2UWxfeHBqYWNsVFVYcmFyZVA0NTF0cGl3NzdWYnN2THdHU25pUURBSlRFWUVTaHE3VmtQVVdpRk5rU2pEb1c2NkFfUkhlbGYtQjNaSUNQZ2JFTnVJQjBCcmxVVkNBZXVvZHRyUHJqblU3dEJZNlBmZUlLTDJPdmo2Z9IBggFBVV95cUxORGhpWjBFQTFERFZiSHV4TlhvSk9UX0tDZGYtQTVrQ1hwZmpCU3RKRmR5cFNPQU8zNXhkVmxKZHQxbTJfVXprS0lSQ3ZhUXpvaXNzdEt2SWtWT0kxbVFyTC1iZ1pNdVNfdGtHU3AzRE5ITkc4ZVRnMjF2X3RFWmNyc1p3?oc=5)
+
+---
 
 ### [今朝、「脳卒中は若者を襲う」と題したパネルディスカッションをライブ配信しました。](https://news.google.com/rss/articles/CBMijAFBVV95cUxPLVpjYTRYazRKcVRObFZLb2pWaE55eWFVZEE3a1ZQX3B2ZEtmUTRLNzROSUFOQXl2RkpfUjdzOGVERTNFc2p0MURSZUg2di1xd3I0VkloOXZNSXl5cDR5X3hlOGVjd3NLZEVvdXV2eDA2ZFhGRWxoZ0ZmWGhvWFYxcUFWdG5JNlBDdUVNUQ?oc=5)
 

@@ -3,9 +3,9 @@ layout: default
 title: "インフルエンザ (influenza) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 11 件、関連医薬品 1 件。"
+description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 16 件、関連医薬品 1 件。"
 permalink: /news/influenza/
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-22
 ---
 
 # インフルエンザ (influenza) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="インフルエンザ (influenza) に関するニュースは？">
-<strong>インフルエンザ (influenza)</strong> には現在 <strong>11 件</strong>の関連ニュースと 1 件の関連医薬品があります。
+<strong>インフルエンザ (influenza)</strong> には現在 <strong>16 件</strong>の関連ニュースと 1 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,31 @@ last_modified_at: 2026-11-21
 </ul>
 </div>
 
-## 関連ニュース（11 件）
+## 関連ニュース（16 件）
+
+### [インフルエンザ感染中、突然「意味の通らないこと」を言いだした……インフルエンザ脳症の初期症状と正しい対応](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hdHhudkl6dVYxak9aQ25PWGRFYlRjbGJjQWhsUXdhdDkxZEV2eU41emZMakU0N3pXdlBEbXg3eV9saWFWcXh0LWdHb1dmM1BjSUVmMTNZb2UwaF9CMHc?oc=5)
+
+2026-11-21
+
+出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hdHhudkl6dVYxak9aQ25PWGRFYlRjbGJjQWhsUXdhdDkxZEV2eU41emZMakU0N3pXdlBEbXg3eV9saWFWcXh0LWdHb1dmM1BjSUVmMTNZb2UwaF9CMHc?oc=5)
+
+---
+
+### [感染症の増加は、学校における感染拡大のリスクに対する懸念を高めている。](https://news.google.com/rss/articles/CBMioAFBVV95cUxOYWJ6UmZiZlJjM1NybWpHTE5hWEp4ZWg2V1NxMFBkTmJyV0VmUkdGbk5SQkw5cVVudlg4Y2Roc0FoTzhkZ2twNWdXcDVyY3NpLU9TREZMWU0xOXliV3V4RllyMkFqd3hnZGhCSmdyczJySXdOMkY1UVJGWmFYR0xNUWdrOWdmYW1BR3hrQ09MUEJiOW5FZWg0OHkzODNCbUVQ?oc=5)
+
+2026-11-21
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMioAFBVV95cUxOYWJ6UmZiZlJjM1NybWpHTE5hWEp4ZWg2V1NxMFBkTmJyV0VmUkdGbk5SQkw5cVVudlg4Y2Roc0FoTzhkZ2twNWdXcDVyY3NpLU9TREZMWU0xOXliV3V4RllyMkFqd3hnZGhCSmdyczJySXdOMkY1UVJGWmFYR0xNUWdrOWdmYW1BR3hrQ09MUEJiOW5FZWg0OHkzODNCbUVQ?oc=5)
+
+---
+
+### [季節性インフルエンザの患者数が急速に増加しており、さらなる感染拡大のリスクが懸念されている。](https://news.google.com/rss/articles/CBMihgFBVV95cUxPUFNfcnRFS2lBTzdmcjhFMHFJZktwZDJJZWE0U1A0eUI1MzlSSTVWbkRQOW9xMjVMWTdDWHZTM3NYYjJhbTdsd1Fhb29KeXI0b2RxSVJFWEptS2hHTjNxcGZZSHFMVnR4NWVmT00zRF9LV1lYYzcySUJ3VjExcENwTHplOUJnZw?oc=5)
+
+2026-11-21
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMihgFBVV95cUxPUFNfcnRFS2lBTzdmcjhFMHFJZktwZDJJZWE0U1A0eUI1MzlSSTVWbkRQOW9xMjVMWTdDWHZTM3NYYjJhbTdsd1Fhb29KeXI0b2RxSVJFWEptS2hHTjNxcGZZSHFMVnR4NWVmT00zRF9LV1lYYzcySUJ3VjExcENwTHplOUJnZw?oc=5)
+
+---
 
 ### [県内で今シーズン2例目の鳥インフルエンザ 由利本荘市で発見のマガモ死骸から高病原性ウイルス検出 秋田（秋田テレビ）](https://news.google.com/rss/articles/CBMif0FVX3lxTE1ISS1GZ1FsTmZfdkJ6cFdSV2RrbC1KdFI3Y1dGcXBFdFJ1cUNUdXZzeEUtUFE2eE96dVNKaWhkR0VXV2J4RnNxay14UmJlMVZzbXh1cWF4dUloem14WHhLS2I2M2NpMUItUmE5UXJFa3JyUUJ5Q0dLSzctYVFpTWc?oc=5)
 
@@ -80,11 +104,27 @@ last_modified_at: 2026-11-21
 
 ---
 
+### [全国的に早期流行中のインフルエンザ…目に現れる意外な症状｜一生見える目をつくる](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oU1VqRnJHdzhIUE1DeDQ0d3laS3MxQnBSdjBsckRDQXFoTC1tSHJJcmdacU1CNzUyYThTdzVxVXZncFpiTW96UXlOdEJXWkNoMXZEaXU3LThCMko1dHZlODFSYnd2MTdG?oc=5)
+
+2026-11-18
+
+出典: [日刊ゲンダイDIGITAL](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oU1VqRnJHdzhIUE1DeDQ0d3laS3MxQnBSdjBsckRDQXFoTC1tSHJJcmdacU1CNzUyYThTdzVxVXZncFpiTW96UXlOdEJXWkNoMXZEaXU3LThCMko1dHZlODFSYnd2MTdG?oc=5)
+
+---
+
 ### [「インフルエンザの熱」が下がらない理由はご存知ですか？再診の目安となる症状も解説！](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNQl9JTUdYMHhBb2pIMzFaUkVNZUVEekNWZEs5NkhIQmhwYWlXUjdjbEx2X3dncnFrRUIyeVd3b3A3M3prckVWSTZoTDNza3BRd2NrNms4ZEJkTlZHX1Fr?oc=5)
 
 2026-11-18
 
 出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNQl9JTUdYMHhBb2pIMzFaUkVNZUVEekNWZEs5NkhIQmhwYWlXUjdjbEx2X3dncnFrRUIyeVd3b3A3M3prckVWSTZoTDNza3BRd2NrNms4ZEJkTlZHX1Fr?oc=5)
+
+---
+
+### [もうインフルエンザに罹ってしまった、それでもワクチン接種は必要](https://news.google.com/rss/articles/CBMiekFVX3lxTE1nZUxwYUxtTVlKcGJ4aTlYeGRTbmprRjJ4NzA0V1dvVm9wcmZtMlNjUmo5QXVCMzZnaEtJUUJqbGhOSXU4dm1ldC1TYnFqTm9sZnBhR1h6VGVoS3dicGh1YXhuQ0luOTRudWQwQ1hidzZnbEpwQ0V1Skh30gF_QVVfeXFMTncwdFJrWEZJMTROSzhJTFotNVB4SW9yMU0wLUwyWFJtcjJWdUNmOE16emxkZEllaGVJYkRjMEl3YXBMcTgwMmtnWWVhdUdQNzROcWR4cGlJeXBLZ3NkbWNnZUU4ZVJxVXNoWWFxQWpLLWtoOWFMRTRsVERuQ2M2WQ?oc=5)
+
+2026-11-16
+
+出典: [ｄメニューニュース](https://news.google.com/rss/articles/CBMiekFVX3lxTE1nZUxwYUxtTVlKcGJ4aTlYeGRTbmprRjJ4NzA0V1dvVm9wcmZtMlNjUmo5QXVCMzZnaEtJUUJqbGhOSXU4dm1ldC1TYnFqTm9sZnBhR1h6VGVoS3dicGh1YXhuQ0luOTRudWQwQ1hidzZnbEpwQ0V1Skh30gF_QVVfeXFMTncwdFJrWEZJMTROSzhJTFotNVB4SW9yMU0wLUwyWFJtcjJWdUNmOE16emxkZEllaGVJYkRjMEl3YXBMcTgwMmtnWWVhdUdQNzROcWR4cGlJeXBLZ3NkbWNnZUU4ZVJxVXNoWWFxQWpLLWtoOWFMRTRsVERuQ2M2WQ?oc=5)
 
 ---
 

@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "タミフルドライシロップ３％（選） に関する健康ニュース。予測適応症 0 件。"
 permalink: /news/oseltamivir/
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-22
 ---
 
 # タミフルドライシロップ３％（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="タミフルドライシロップ３％（選） に関するニュースは？">
-<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>14 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>20 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,39 @@ last_modified_at: 2026-11-21
 <p><a href="{{ '/drugs/oseltamivir/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（14 件）
+## 関連ニュース（20 件）
+
+### [インフルエンザ感染中、突然「意味の通らないこと」を言いだした……インフルエンザ脳症の初期症状と正しい対応](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hdHhudkl6dVYxak9aQ25PWGRFYlRjbGJjQWhsUXdhdDkxZEV2eU41emZMakU0N3pXdlBEbXg3eV9saWFWcXh0LWdHb1dmM1BjSUVmMTNZb2UwaF9CMHc?oc=5)
+
+2026-11-21 <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hdHhudkl6dVYxak9aQ25PWGRFYlRjbGJjQWhsUXdhdDkxZEV2eU41emZMakU0N3pXdlBEbXg3eV9saWFWcXh0LWdHb1dmM1BjSUVmMTNZb2UwaF9CMHc?oc=5)
+
+---
+
+### [感染症の増加は、学校における感染拡大のリスクに対する懸念を高めている。](https://news.google.com/rss/articles/CBMioAFBVV95cUxOYWJ6UmZiZlJjM1NybWpHTE5hWEp4ZWg2V1NxMFBkTmJyV0VmUkdGbk5SQkw5cVVudlg4Y2Roc0FoTzhkZ2twNWdXcDVyY3NpLU9TREZMWU0xOXliV3V4RllyMkFqd3hnZGhCSmdyczJySXdOMkY1UVJGWmFYR0xNUWdrOWdmYW1BR3hrQ09MUEJiOW5FZWg0OHkzODNCbUVQ?oc=5)
+
+2026-11-21 <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMioAFBVV95cUxOYWJ6UmZiZlJjM1NybWpHTE5hWEp4ZWg2V1NxMFBkTmJyV0VmUkdGbk5SQkw5cVVudlg4Y2Roc0FoTzhkZ2twNWdXcDVyY3NpLU9TREZMWU0xOXliV3V4RllyMkFqd3hnZGhCSmdyczJySXdOMkY1UVJGWmFYR0xNUWdrOWdmYW1BR3hrQ09MUEJiOW5FZWg0OHkzODNCbUVQ?oc=5)
+
+---
+
+### [季節性インフルエンザの患者数が急速に増加しており、さらなる感染拡大のリスクが懸念されている。](https://news.google.com/rss/articles/CBMihgFBVV95cUxPUFNfcnRFS2lBTzdmcjhFMHFJZktwZDJJZWE0U1A0eUI1MzlSSTVWbkRQOW9xMjVMWTdDWHZTM3NYYjJhbTdsd1Fhb29KeXI0b2RxSVJFWEptS2hHTjNxcGZZSHFMVnR4NWVmT00zRF9LV1lYYzcySUJ3VjExcENwTHplOUJnZw?oc=5)
+
+2026-11-21 <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMihgFBVV95cUxPUFNfcnRFS2lBTzdmcjhFMHFJZktwZDJJZWE0U1A0eUI1MzlSSTVWbkRQOW9xMjVMWTdDWHZTM3NYYjJhbTdsd1Fhb29KeXI0b2RxSVJFWEptS2hHTjNxcGZZSHFMVnR4NWVmT00zRF9LV1lYYzcySUJ3VjExcENwTHplOUJnZw?oc=5)
+
+---
+
+### [気温が下がるにつれて、非典型的な症状を伴う肺炎に注意してください。](https://news.google.com/rss/articles/CBMimgFBVV95cUxONUFGZkZMUXBHMFRqX0tRRlFxU1A5UE9CX1dsYWt3V2lNV1JqRmF0T2dIeWktdTJVb3dXbkxYOGJQUkVCVEZpUmtuZjdtNEV3RTU1OUJ6NTdvN3E1blF4a21rTFhFWjlhY1U0ZXg1N1ZGNFdzUFpfUVdsNGRBQi1zRFl4RnY0N2k0NElTdm1oeGhrNXdwNFZYM3VR?oc=5)
+
+2026-11-21 <span class="news-indication-tag">肺炎</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMimgFBVV95cUxONUFGZkZMUXBHMFRqX0tRRlFxU1A5UE9CX1dsYWt3V2lNV1JqRmF0T2dIeWktdTJVb3dXbkxYOGJQUkVCVEZpUmtuZjdtNEV3RTU1OUJ6NTdvN3E1blF4a21rTFhFWjlhY1U0ZXg1N1ZGNFdzUFpfUVdsNGRBQi1zRFl4RnY0N2k0NElTdm1oeGhrNXdwNFZYM3VR?oc=5)
+
+---
 
 ### [県内で今シーズン2例目の鳥インフルエンザ 由利本荘市で発見のマガモ死骸から高病原性ウイルス検出 秋田（秋田テレビ）](https://news.google.com/rss/articles/CBMif0FVX3lxTE1ISS1GZ1FsTmZfdkJ6cFdSV2RrbC1KdFI3Y1dGcXBFdFJ1cUNUdXZzeEUtUFE2eE96dVNKaWhkR0VXV2J4RnNxay14UmJlMVZzbXh1cWF4dUloem14WHhLS2I2M2NpMUItUmE5UXJFa3JyUUJ5Q0dLSzctYVFpTWc?oc=5)
 
@@ -88,6 +120,14 @@ last_modified_at: 2026-11-21
 
 ---
 
+### [全国的に早期流行中のインフルエンザ…目に現れる意外な症状｜一生見える目をつくる](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oU1VqRnJHdzhIUE1DeDQ0d3laS3MxQnBSdjBsckRDQXFoTC1tSHJJcmdacU1CNzUyYThTdzVxVXZncFpiTW96UXlOdEJXWkNoMXZEaXU3LThCMko1dHZlODFSYnd2MTdG?oc=5)
+
+2026-11-18 <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [日刊ゲンダイDIGITAL](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oU1VqRnJHdzhIUE1DeDQ0d3laS3MxQnBSdjBsckRDQXFoTC1tSHJJcmdacU1CNzUyYThTdzVxVXZncFpiTW96UXlOdEJXWkNoMXZEaXU3LThCMko1dHZlODFSYnd2MTdG?oc=5)
+
+---
+
 ### [「インフルエンザの熱」が下がらない理由はご存知ですか？再診の目安となる症状も解説！](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNQl9JTUdYMHhBb2pIMzFaUkVNZUVEekNWZEs5NkhIQmhwYWlXUjdjbEx2X3dncnFrRUIyeVd3b3A3M3prckVWSTZoTDNza3BRd2NrNms4ZEJkTlZHX1Fr?oc=5)
 
 2026-11-18 <span class="news-indication-tag">インフルエンザ</span>
@@ -101,6 +141,14 @@ last_modified_at: 2026-11-21
 2026-11-18 <span class="news-indication-tag">肺炎</span>
 
 出典: [厚生労働省](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfMHhDRXhOSU1ZTmxjdGl6ai1rT0ZGdWhJejBLbHRtWTd5UWlzdkJmVFF6MXFFWXZoU1pCNXR1eW52YmpINk11OVRyRi1oR25XREQ4ejEtT3Y?oc=5)
+
+---
+
+### [もうインフルエンザに罹ってしまった、それでもワクチン接種は必要](https://news.google.com/rss/articles/CBMiekFVX3lxTE1nZUxwYUxtTVlKcGJ4aTlYeGRTbmprRjJ4NzA0V1dvVm9wcmZtMlNjUmo5QXVCMzZnaEtJUUJqbGhOSXU4dm1ldC1TYnFqTm9sZnBhR1h6VGVoS3dicGh1YXhuQ0luOTRudWQwQ1hidzZnbEpwQ0V1Skh30gF_QVVfeXFMTncwdFJrWEZJMTROSzhJTFotNVB4SW9yMU0wLUwyWFJtcjJWdUNmOE16emxkZEllaGVJYkRjMEl3YXBMcTgwMmtnWWVhdUdQNzROcWR4cGlJeXBLZ3NkbWNnZUU4ZVJxVXNoWWFxQWpLLWtoOWFMRTRsVERuQ2M2WQ?oc=5)
+
+2026-11-16 <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [ｄメニューニュース](https://news.google.com/rss/articles/CBMiekFVX3lxTE1nZUxwYUxtTVlKcGJ4aTlYeGRTbmprRjJ4NzA0V1dvVm9wcmZtMlNjUmo5QXVCMzZnaEtJUUJqbGhOSXU4dm1ldC1TYnFqTm9sZnBhR1h6VGVoS3dicGh1YXhuQ0luOTRudWQwQ1hidzZnbEpwQ0V1Skh30gF_QVVfeXFMTncwdFJrWEZJMTROSzhJTFotNVB4SW9yMU0wLUwyWFJtcjJWdUNmOE16emxkZEllaGVJYkRjMEl3YXBMcTgwMmtnWWVhdUdQNzROcWR4cGlJeXBLZ3NkbWNnZUU4ZVJxVXNoWWFxQWpLLWtoOWFMRTRsVERuQ2M2WQ?oc=5)
 
 ---
 
