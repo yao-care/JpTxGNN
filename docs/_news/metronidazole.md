@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "メトロニダゾールゲル０．７５％「マルイシ」 に関する健康ニュース。予測適応症 10 件。"
 permalink: /news/metronidazole/
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-22
 ---
 
 # メトロニダゾールゲル０．７５％「マルイシ」 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="メトロニダゾールゲル０．７５％「マルイシ」 に関するニュースは？">
-<strong>メトロニダゾールゲル０．７５％「マルイシ」</strong> には現在 <strong>54 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>メトロニダゾールゲル０．７５％「マルイシ」</strong> には現在 <strong>56 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ last_modified_at: 2026-11-21
 <p><a href="{{ '/drugs/metronidazole/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（54 件）
+## 関連ニュース（56 件）
+
+### [【闘病】朝4時、胸が焼けるような痛みで目が覚めた…小4と小2の母に告げられた『乳がん』（メディカルドック）](https://news.google.com/rss/articles/CBMif0FVX3lxTFBtUzlVNWMwd3pyR3lJVGxjd1Q5RUZmNmYxNGZJTG9aOEN6RjJSbl9BSFFNRm1ObFZkOFZyY2RhZFJxMjg1VHZHSnkzRW9HczRjRTBrY1BYbElISXNRNnd1TVVnN2E1VVAtOXJRdEtTOXlxZUp5emNXSDBaMkVFakE?oc=5)
+
+2026-11-22 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
+
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBtUzlVNWMwd3pyR3lJVGxjd1Q5RUZmNmYxNGZJTG9aOEN6RjJSbl9BSFFNRm1ObFZkOFZyY2RhZFJxMjg1VHZHSnkzRW9HczRjRTBrY1BYbElISXNRNnd1TVVnN2E1VVAtOXJRdEtTOXlxZUp5emNXSDBaMkVFakE?oc=5) · [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/32e402eb9ac912b2796ab72e88bc6ce7cd7ec6f3?source=rss)
+
+---
+
+### [性交渉で感染するがん化ウイルス「尖圭コンジローマ」…男性ではゆるやかに増加している【中川恵一 がんサバイバーの知恵】](https://news.google.com/rss/articles/CBMiZEFVX3lxTE90ZXVNdHZSNXJVa3RGeWRBMG5YRE9nWnVnYmRnaUVRajJlXzVISmU0MUwxcW9tVTF3cGJIVk5FbXU2bUlXWTNUb2szYS1DRzIxclZPdGp3TDM1UFBXUVVFeFNMSWY?oc=5)
+
+2026-11-21 <span class="news-indication-tag">がん</span>
+
+出典: [Infoseek](https://news.google.com/rss/articles/CBMiZEFVX3lxTE90ZXVNdHZSNXJVa3RGeWRBMG5YRE9nWnVnYmRnaUVRajJlXzVISmU0MUwxcW9tVTF3cGJIVk5FbXU2bUlXWTNUb2szYS1DRzIxclZPdGp3TDM1UFBXUVVFeFNMSWY?oc=5)
+
+---
 
 ### [米国の婦人科医が教える「50歳以上の女性が健康のために毎日すべきこと」（クーリエ・ジャポン）](https://news.google.com/rss/articles/CBMif0FVX3lxTE1MREh0QlBOdnlkT2hIMlVZcnMtZjMxSURaYm4yT1cteXdzZFY3N2tQdmdDSkVJcE9jWHB3ZGJuSWdKRTZMdE5VSEZkWkc1VndSbDRFeGNMcnFWMTNjTUVrc3huUFdCMDY1SnJLNnBpamJMNzJLam9sV0NEWlpWejg?oc=5)
 

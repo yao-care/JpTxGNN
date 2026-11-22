@@ -3,9 +3,9 @@ layout: default
 title: "がん (generic_cancer) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "がん (generic_cancer) に関する健康ニュース。ニュース 45 件、関連医薬品 67 件。"
+description: "がん (generic_cancer) に関する健康ニュース。ニュース 47 件、関連医薬品 67 件。"
 permalink: /news/generic-cancer/
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-22
 ---
 
 # がん (generic_cancer) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="がん (generic_cancer) に関するニュースは？">
-<strong>がん (generic_cancer)</strong> には現在 <strong>45 件</strong>の関連ニュースと 67 件の関連医薬品があります。
+<strong>がん (generic_cancer)</strong> には現在 <strong>47 件</strong>の関連ニュースと 67 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -94,7 +94,23 @@ last_modified_at: 2026-11-21
 </ul>
 </div>
 
-## 関連ニュース（45 件）
+## 関連ニュース（47 件）
+
+### [【闘病】朝4時、胸が焼けるような痛みで目が覚めた…小4と小2の母に告げられた『乳がん』（メディカルドック）](https://news.google.com/rss/articles/CBMif0FVX3lxTFBtUzlVNWMwd3pyR3lJVGxjd1Q5RUZmNmYxNGZJTG9aOEN6RjJSbl9BSFFNRm1ObFZkOFZyY2RhZFJxMjg1VHZHSnkzRW9HczRjRTBrY1BYbElISXNRNnd1TVVnN2E1VVAtOXJRdEtTOXlxZUp5emNXSDBaMkVFakE?oc=5)
+
+2026-11-22
+
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBtUzlVNWMwd3pyR3lJVGxjd1Q5RUZmNmYxNGZJTG9aOEN6RjJSbl9BSFFNRm1ObFZkOFZyY2RhZFJxMjg1VHZHSnkzRW9HczRjRTBrY1BYbElISXNRNnd1TVVnN2E1VVAtOXJRdEtTOXlxZUp5emNXSDBaMkVFakE?oc=5) · [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/32e402eb9ac912b2796ab72e88bc6ce7cd7ec6f3?source=rss)
+
+---
+
+### [性交渉で感染するがん化ウイルス「尖圭コンジローマ」…男性ではゆるやかに増加している【中川恵一 がんサバイバーの知恵】](https://news.google.com/rss/articles/CBMiZEFVX3lxTE90ZXVNdHZSNXJVa3RGeWRBMG5YRE9nWnVnYmRnaUVRajJlXzVISmU0MUwxcW9tVTF3cGJIVk5FbXU2bUlXWTNUb2szYS1DRzIxclZPdGp3TDM1UFBXUVVFeFNMSWY?oc=5)
+
+2026-11-21
+
+出典: [Infoseek](https://news.google.com/rss/articles/CBMiZEFVX3lxTE90ZXVNdHZSNXJVa3RGeWRBMG5YRE9nWnVnYmRnaUVRajJlXzVISmU0MUwxcW9tVTF3cGJIVk5FbXU2bUlXWTNUb2szYS1DRzIxclZPdGp3TDM1UFBXUVVFeFNMSWY?oc=5)
+
+---
 
 ### [がん遺伝子検査：早期発見の機会。](https://news.google.com/rss/articles/CBMihgFBVV95cUxQZmpSb1JUYTFyN1ljX2V6NER6MTUxcnR1V0gxUnJ0Vmt4bS00bHppRy0xMnl0aF9VRDRpMm9YaENrSmpTdUxHcVFQbTdxRkYzeF9hX2sydFJtWGFwTmx1bnEyVm9vR3dLWllwYXF4V09ZV2RBWUx6aXA1YXRiMW9hb0hCdFNiQQ?oc=5)
 

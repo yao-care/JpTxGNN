@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "イレッサ錠２５０　２５０ｍｇ（選） に関する健康ニュース。予測適応症 9 件。"
 permalink: /news/gefitinib/
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-22
 ---
 
 # イレッサ錠２５０　２５０ｍｇ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="イレッサ錠２５０　２５０ｍｇ（選） に関するニュースは？">
-<strong>イレッサ錠２５０　２５０ｍｇ（選）</strong> には現在 <strong>86 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
+<strong>イレッサ錠２５０　２５０ｍｇ（選）</strong> には現在 <strong>89 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,23 @@ last_modified_at: 2026-11-21
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（86 件）
+## 関連ニュース（89 件）
+
+### [【闘病】朝4時、胸が焼けるような痛みで目が覚めた…小4と小2の母に告げられた『乳がん』（メディカルドック）](https://news.google.com/rss/articles/CBMif0FVX3lxTFBtUzlVNWMwd3pyR3lJVGxjd1Q5RUZmNmYxNGZJTG9aOEN6RjJSbl9BSFFNRm1ObFZkOFZyY2RhZFJxMjg1VHZHSnkzRW9HczRjRTBrY1BYbElISXNRNnd1TVVnN2E1VVAtOXJRdEtTOXlxZUp5emNXSDBaMkVFakE?oc=5)
+
+2026-11-22 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
+
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBtUzlVNWMwd3pyR3lJVGxjd1Q5RUZmNmYxNGZJTG9aOEN6RjJSbl9BSFFNRm1ObFZkOFZyY2RhZFJxMjg1VHZHSnkzRW9HczRjRTBrY1BYbElISXNRNnd1TVVnN2E1VVAtOXJRdEtTOXlxZUp5emNXSDBaMkVFakE?oc=5) · [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/32e402eb9ac912b2796ab72e88bc6ce7cd7ec6f3?source=rss)
+
+---
+
+### [性交渉で感染するがん化ウイルス「尖圭コンジローマ」…男性ではゆるやかに増加している【中川恵一 がんサバイバーの知恵】](https://news.google.com/rss/articles/CBMiZEFVX3lxTE90ZXVNdHZSNXJVa3RGeWRBMG5YRE9nWnVnYmRnaUVRajJlXzVISmU0MUwxcW9tVTF3cGJIVk5FbXU2bUlXWTNUb2szYS1DRzIxclZPdGp3TDM1UFBXUVVFeFNMSWY?oc=5)
+
+2026-11-21 <span class="news-indication-tag">がん</span>
+
+出典: [Infoseek](https://news.google.com/rss/articles/CBMiZEFVX3lxTE90ZXVNdHZSNXJVa3RGeWRBMG5YRE9nWnVnYmRnaUVRajJlXzVISmU0MUwxcW9tVTF3cGJIVk5FbXU2bUlXWTNUb2szYS1DRzIxclZPdGp3TDM1UFBXUVVFeFNMSWY?oc=5)
+
+---
 
 ### [【新刊案内】認知症にはスイッチがある。 専門医がやさしく解説する人生100年時代の脳活習慣『認知症スイッチの切り方』が11月20日発売！](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMeFdrSFFFZEZtLWFKRGhkRXpjRXd1eXRIQ3RDc0NrZkg3aDVFRS1MYm1SNmRtT2R0WlhXUjhHS2FHaG85MXZJSjJwNkJRcWJjQTRfNmg4Ml9rNGJBbVE?oc=5)
 
@@ -267,6 +283,14 @@ last_modified_at: 2026-11-21
 
 ---
 
+### [｢あえて坂道を選ぶ｣認知症になりにくい"スーパーエイジャー"の実態→｢質の高い人間関係｣と｢程よいストレス｣がポイント](https://news.google.com/rss/articles/CBMicEFVX3lxTFBDSEhkQ09YMFRVeWRUblFhX3pXaFJDUllNZDZXd1FLQlhwVVM5R1A3aWsxZGRnNFVDb3hPQVhaRnVkc2puVUp3WHE2a0VUS3dZUVkyS3hHRFA3a0h2bG16OEZGN0Frc1NOM1dydVF1WnI?oc=5)
+
+2026-11-18 <span class="news-indication-tag">認知症</span>
+
+出典: [Infoseek](https://news.google.com/rss/articles/CBMicEFVX3lxTFBDSEhkQ09YMFRVeWRUblFhX3pXaFJDUllNZDZXd1FLQlhwVVM5R1A3aWsxZGRnNFVDb3hPQVhaRnVkc2puVUp3WHE2a0VUS3dZUVkyS3hHRFA3a0h2bG16OEZGN0Frc1NOM1dydVF1WnI?oc=5)
+
+---
+
 ### [野菜ジュースでもサプリでもない…医師が｢認知症リスクが約3割下がる｣と勧めるスーパーで買える身近な食材(プレジデントオンライン)](https://news.yahoo.co.jp/articles/a66442e81cb0fd1c4df1d9a65e9a6a6843412d91?source=rss)
 
 2026-11-18 <span class="news-indication-tag">心臓病</span> <span class="news-indication-tag">認知症</span>
@@ -280,14 +304,6 @@ last_modified_at: 2026-11-21
 2026-11-18 <span class="news-indication-tag">認知症</span> <span class="news-indication-tag">白血病</span> <span class="news-indication-tag">骨髄性白血病</span>
 
 出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/3963013d84a9926c681f71a96d5cbec62050a231?source=rss)
-
----
-
-### [｢あえて坂道を選ぶ｣認知症になりにくい"スーパーエイジャー"の実態→｢質の高い人間関係｣と｢程よいストレス｣がポイント](https://news.google.com/rss/articles/CBMicEFVX3lxTFBDSEhkQ09YMFRVeWRUblFhX3pXaFJDUllNZDZXd1FLQlhwVVM5R1A3aWsxZGRnNFVDb3hPQVhaRnVkc2puVUp3WHE2a0VUS3dZUVkyS3hHRFA3a0h2bG16OEZGN0Frc1NOM1dydVF1WnI?oc=5)
-
-2026-11-18 <span class="news-indication-tag">認知症</span>
-
-出典: [Infoseek](https://news.google.com/rss/articles/CBMicEFVX3lxTFBDSEhkQ09YMFRVeWRUblFhX3pXaFJDUllNZDZXd1FLQlhwVVM5R1A3aWsxZGRnNFVDb3hPQVhaRnVkc2puVUp3WHE2a0VUS3dZUVkyS3hHRFA3a0h2bG16OEZGN0Frc1NOM1dydVF1WnI?oc=5) · [Yahoo!ニュース](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRUN4eXU3dDA3SlpTOFRSZlB1VVdnODhzTWE2WjRmdWxMcE10dlFrcW1lREF0WEQzRTN3b2I3LVpKM3U0QUN3S0U4RWxDVExqY0xFRi1oSlJqLXo4S2E4NmZDcENTcEZOaFc3cDhKS2l5dXBDQnNUa1lzUnh4YnVfOUMyX0NzM3A2?oc=5)
 
 ---
 
@@ -488,6 +504,14 @@ last_modified_at: 2026-11-21
 2026-11-16 <span class="news-indication-tag">認知症</span>
 
 出典: [西日本新聞me](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBORnkyQlhQcEp1TlZkbGFkYmFHR3dTbE9RcklxSlFodjVUa3BIRlFjWHQ4N1lzVGR2TFB2NGNoSUlKS3d5aDcyWE5jTW1FaE9uV2lIaEdR?oc=5)
+
+---
+
+### [大きないびきや夜間の呼吸停止は、アルツハイマー病患者にとって危険な兆候である。](https://news.google.com/rss/articles/CBMiowFBVV95cUxNUTR1MVlwQm9Tb3IybGtsUVBHQ1M0bXhHcXF4QTRGVGczQ3NLaEJqX3Y1SmFrN0poMmxmYTBUcEtTS2JkR05TN2JUOGtpVWd2M0UxNHFoUlBTWjZiX3dPcTJHRUo2QllpVXctcG9YV3ZRdXFHWGtXQXM3RkpHbHBqMWFHSi1BdU5hSnRSaGl6dW9UMWVkdHBWWEVTQXM5bkFBcTBj?oc=5)
+
+2026-11-16 <span class="news-indication-tag">認知症</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMiowFBVV95cUxNUTR1MVlwQm9Tb3IybGtsUVBHQ1M0bXhHcXF4QTRGVGczQ3NLaEJqX3Y1SmFrN0poMmxmYTBUcEtTS2JkR05TN2JUOGtpVWd2M0UxNHFoUlBTWjZiX3dPcTJHRUo2QllpVXctcG9YV3ZRdXFHWGtXQXM3RkpHbHBqMWFHSi1BdU5hSnRSaGl6dW9UMWVkdHBWWEVTQXM5bkFBcTBj?oc=5)
 
 ---
 

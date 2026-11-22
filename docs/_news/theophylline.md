@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "ユニコン錠１００　１００ｍｇ（選） に関する健康ニュース。予測適応症 6 件。"
 permalink: /news/theophylline/
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-22
 ---
 
 # ユニコン錠１００　１００ｍｇ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="ユニコン錠１００　１００ｍｇ（選） に関するニュースは？">
-<strong>ユニコン錠１００　１００ｍｇ（選）</strong> には現在 <strong>47 件</strong>の関連ニュースがあり、予測適応症は 6 件です。
+<strong>ユニコン錠１００　１００ｍｇ（選）</strong> には現在 <strong>49 件</strong>の関連ニュースがあり、予測適応症は 6 件です。
 </p>
 
 <div class="key-takeaway">
@@ -38,13 +38,29 @@ last_modified_at: 2026-11-21
 <p><a href="{{ '/drugs/theophylline/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（47 件）
+## 関連ニュース（49 件）
+
+### [【闘病】朝4時、胸が焼けるような痛みで目が覚めた…小4と小2の母に告げられた『乳がん』（メディカルドック）](https://news.google.com/rss/articles/CBMif0FVX3lxTFBtUzlVNWMwd3pyR3lJVGxjd1Q5RUZmNmYxNGZJTG9aOEN6RjJSbl9BSFFNRm1ObFZkOFZyY2RhZFJxMjg1VHZHSnkzRW9HczRjRTBrY1BYbElISXNRNnd1TVVnN2E1VVAtOXJRdEtTOXlxZUp5emNXSDBaMkVFakE?oc=5)
+
+2026-11-22 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
+
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBtUzlVNWMwd3pyR3lJVGxjd1Q5RUZmNmYxNGZJTG9aOEN6RjJSbl9BSFFNRm1ObFZkOFZyY2RhZFJxMjg1VHZHSnkzRW9HczRjRTBrY1BYbElISXNRNnd1TVVnN2E1VVAtOXJRdEtTOXlxZUp5emNXSDBaMkVFakE?oc=5) · [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/32e402eb9ac912b2796ab72e88bc6ce7cd7ec6f3?source=rss)
+
+---
 
 ### [重度の喘息発作により、患者は呼吸不全と敗血症を発症した。](https://news.google.com/rss/articles/CBMingFBVV95cUxPcXA1dHh5OTRZeklleE5WMnFBeHFIYTk3WTJoclc4cm1VYmdIWDJsYzVpOEV6dDVqNVhSQTQ4em9MRFgxZnpaNzZEZnhHaXVHaFFORFpkSTlYMElDb0w5eHhTVHd4NXNhLVZMZFBqMzNkY054aDBjQWxEdkVWYlpTUjdxdnJLMmt4aUVpUFRIYmFPcTZWSnRNdngweXoyQQ?oc=5)
 
 2026-11-21 <span class="news-indication-tag">喘息</span>
 
 出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMingFBVV95cUxPcXA1dHh5OTRZeklleE5WMnFBeHFIYTk3WTJoclc4cm1VYmdIWDJsYzVpOEV6dDVqNVhSQTQ4em9MRFgxZnpaNzZEZnhHaXVHaFFORFpkSTlYMElDb0w5eHhTVHd4NXNhLVZMZFBqMzNkY054aDBjQWxEdkVWYlpTUjdxdnJLMmt4aUVpUFRIYmFPcTZWSnRNdngweXoyQQ?oc=5)
+
+---
+
+### [性交渉で感染するがん化ウイルス「尖圭コンジローマ」…男性ではゆるやかに増加している【中川恵一 がんサバイバーの知恵】](https://news.google.com/rss/articles/CBMiZEFVX3lxTE90ZXVNdHZSNXJVa3RGeWRBMG5YRE9nWnVnYmRnaUVRajJlXzVISmU0MUwxcW9tVTF3cGJIVk5FbXU2bUlXWTNUb2szYS1DRzIxclZPdGp3TDM1UFBXUVVFeFNMSWY?oc=5)
+
+2026-11-21 <span class="news-indication-tag">がん</span>
+
+出典: [Infoseek](https://news.google.com/rss/articles/CBMiZEFVX3lxTE90ZXVNdHZSNXJVa3RGeWRBMG5YRE9nWnVnYmRnaUVRajJlXzVISmU0MUwxcW9tVTF3cGJIVk5FbXU2bUlXWTNUb2szYS1DRzIxclZPdGp3TDM1UFBXUVVFeFNMSWY?oc=5)
 
 ---
 

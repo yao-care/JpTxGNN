@@ -3,9 +3,9 @@ layout: default
 title: "認知症 (dementia) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "認知症 (dementia) に関する健康ニュース。ニュース 41 件、関連医薬品 2 件。"
+description: "認知症 (dementia) に関する健康ニュース。ニュース 42 件、関連医薬品 2 件。"
 permalink: /news/dementia/
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-22
 ---
 
 # 認知症 (dementia) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="認知症 (dementia) に関するニュースは？">
-<strong>認知症 (dementia)</strong> には現在 <strong>41 件</strong>の関連ニュースと 2 件の関連医薬品があります。
+<strong>認知症 (dementia)</strong> には現在 <strong>42 件</strong>の関連ニュースと 2 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,7 @@ last_modified_at: 2026-11-21
 </ul>
 </div>
 
-## 関連ニュース（41 件）
+## 関連ニュース（42 件）
 
 ### [【新刊案内】認知症にはスイッチがある。 専門医がやさしく解説する人生100年時代の脳活習慣『認知症スイッチの切り方』が11月20日発売！](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMeFdrSFFFZEZtLWFKRGhkRXpjRXd1eXRIQ3RDc0NrZkg3aDVFRS1MYm1SNmRtT2R0WlhXUjhHS2FHaG85MXZJSjJwNkJRcWJjQTRfNmg4Ml9rNGJBbVE?oc=5)
 
@@ -97,6 +97,14 @@ last_modified_at: 2026-11-21
 
 ---
 
+### [｢あえて坂道を選ぶ｣認知症になりにくい"スーパーエイジャー"の実態→｢質の高い人間関係｣と｢程よいストレス｣がポイント](https://news.google.com/rss/articles/CBMicEFVX3lxTFBDSEhkQ09YMFRVeWRUblFhX3pXaFJDUllNZDZXd1FLQlhwVVM5R1A3aWsxZGRnNFVDb3hPQVhaRnVkc2puVUp3WHE2a0VUS3dZUVkyS3hHRFA3a0h2bG16OEZGN0Frc1NOM1dydVF1WnI?oc=5)
+
+2026-11-18
+
+出典: [Infoseek](https://news.google.com/rss/articles/CBMicEFVX3lxTFBDSEhkQ09YMFRVeWRUblFhX3pXaFJDUllNZDZXd1FLQlhwVVM5R1A3aWsxZGRnNFVDb3hPQVhaRnVkc2puVUp3WHE2a0VUS3dZUVkyS3hHRFA3a0h2bG16OEZGN0Frc1NOM1dydVF1WnI?oc=5)
+
+---
+
 ### [野菜ジュースでもサプリでもない…医師が｢認知症リスクが約3割下がる｣と勧めるスーパーで買える身近な食材(プレジデントオンライン)](https://news.yahoo.co.jp/articles/a66442e81cb0fd1c4df1d9a65e9a6a6843412d91?source=rss)
 
 2026-11-18
@@ -110,14 +118,6 @@ last_modified_at: 2026-11-21
 2026-11-18
 
 出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/3963013d84a9926c681f71a96d5cbec62050a231?source=rss)
-
----
-
-### [｢あえて坂道を選ぶ｣認知症になりにくい"スーパーエイジャー"の実態→｢質の高い人間関係｣と｢程よいストレス｣がポイント](https://news.google.com/rss/articles/CBMicEFVX3lxTFBDSEhkQ09YMFRVeWRUblFhX3pXaFJDUllNZDZXd1FLQlhwVVM5R1A3aWsxZGRnNFVDb3hPQVhaRnVkc2puVUp3WHE2a0VUS3dZUVkyS3hHRFA3a0h2bG16OEZGN0Frc1NOM1dydVF1WnI?oc=5)
-
-2026-11-18
-
-出典: [Infoseek](https://news.google.com/rss/articles/CBMicEFVX3lxTFBDSEhkQ09YMFRVeWRUblFhX3pXaFJDUllNZDZXd1FLQlhwVVM5R1A3aWsxZGRnNFVDb3hPQVhaRnVkc2puVUp3WHE2a0VUS3dZUVkyS3hHRFA3a0h2bG16OEZGN0Frc1NOM1dydVF1WnI?oc=5) · [Yahoo!ニュース](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRUN4eXU3dDA3SlpTOFRSZlB1VVdnODhzTWE2WjRmdWxMcE10dlFrcW1lREF0WEQzRTN3b2I3LVpKM3U0QUN3S0U4RWxDVExqY0xFRi1oSlJqLXo4S2E4NmZDcENTcEZOaFc3cDhKS2l5dXBDQnNUa1lzUnh4YnVfOUMyX0NzM3A2?oc=5)
 
 ---
 
@@ -238,6 +238,14 @@ last_modified_at: 2026-11-21
 2026-11-16
 
 出典: [西日本新聞me](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBORnkyQlhQcEp1TlZkbGFkYmFHR3dTbE9RcklxSlFodjVUa3BIRlFjWHQ4N1lzVGR2TFB2NGNoSUlKS3d5aDcyWE5jTW1FaE9uV2lIaEdR?oc=5)
+
+---
+
+### [大きないびきや夜間の呼吸停止は、アルツハイマー病患者にとって危険な兆候である。](https://news.google.com/rss/articles/CBMiowFBVV95cUxNUTR1MVlwQm9Tb3IybGtsUVBHQ1M0bXhHcXF4QTRGVGczQ3NLaEJqX3Y1SmFrN0poMmxmYTBUcEtTS2JkR05TN2JUOGtpVWd2M0UxNHFoUlBTWjZiX3dPcTJHRUo2QllpVXctcG9YV3ZRdXFHWGtXQXM3RkpHbHBqMWFHSi1BdU5hSnRSaGl6dW9UMWVkdHBWWEVTQXM5bkFBcTBj?oc=5)
+
+2026-11-16
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMiowFBVV95cUxNUTR1MVlwQm9Tb3IybGtsUVBHQ1M0bXhHcXF4QTRGVGczQ3NLaEJqX3Y1SmFrN0poMmxmYTBUcEtTS2JkR05TN2JUOGtpVWd2M0UxNHFoUlBTWjZiX3dPcTJHRUo2QllpVXctcG9YV3ZRdXFHWGtXQXM3RkpHbHBqMWFHSi1BdU5hSnRSaGl6dW9UMWVkdHBWWEVTQXM5bkFBcTBj?oc=5)
 
 ---
 
