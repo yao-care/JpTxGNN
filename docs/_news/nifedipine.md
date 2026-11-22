@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "アダラートＣＲ錠４０ｍｇ（選） に関する健康ニュース。予測適応症 0 件。"
 permalink: /news/nifedipine/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-22
 ---
 
 # アダラートＣＲ錠４０ｍｇ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="アダラートＣＲ錠４０ｍｇ（選） に関するニュースは？">
-<strong>アダラートＣＲ錠４０ｍｇ（選）</strong> には現在 <strong>5 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>アダラートＣＲ錠４０ｍｇ（選）</strong> には現在 <strong>6 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ last_modified_at: 2026-11-20
 <p><a href="{{ '/drugs/nifedipine/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（5 件）
+## 関連ニュース（6 件）
+
+### [高血圧、高コレステロール、糖尿病：年齢のせいにしてはいけない。](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeHBEd2tWTGtFbzBSYWFnQy1VdmtsWFRPQlBIX3ZxanNDWVRIaGc0QmZkSVVDSFNfMnN4UzVhN05qMXA5bHV6UjFLMTRKWV94ZDhhUVJMeFhoYTh4eDJPSnZpYlhzakNPa3ZsUW1mdzQwcTJIQUxaTUF2Z3JmdFpZY3BVOF9HZzlP?oc=5)
+
+2026-11-22 <span class="news-indication-tag">高血圧</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeHBEd2tWTGtFbzBSYWFnQy1VdmtsWFRPQlBIX3ZxanNDWVRIaGc0QmZkSVVDSFNfMnN4UzVhN05qMXA5bHV6UjFLMTRKWV94ZDhhUVJMeFhoYTh4eDJPSnZpYlhzakNPa3ZsUW1mdzQwcTJIQUxaTUF2Z3JmdFpZY3BVOF9HZzlP?oc=5)
+
+---
 
 ### [脳出血で重篤な状態となった38歳の男性：多くの若者が軽視しがちな病気から学ぶ教訓。](https://news.google.com/rss/articles/CBMixgFBVV95cUxNckZIcG9HZHdXT3JYVmlQalJ0Vm1EaTA4Y3BLU1NlSExXYkMyWVJ5clV4VFNHVzFIdU81NkJhbjBsamgwMTR4U3d2blpQdGtzZzRfeVJCMjlFZkdkVHJSemx1NE9sLXRZWDdQSmNKNnpxbGdJeWRfN3RPdTVaOFlPMFktZzdxdkVZTkVhem5PQklxMDlHdlVyUlRGUzVkUmFaa0VWY3lKNzRYeFh6UkcyTWtDSTZmNjEzdlNQbWhRMWtpTVlGdUE?oc=5)
 

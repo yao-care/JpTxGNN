@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="ビクシリンＳ配合錠　（２５０ｍｇ） に関するニュースは？">
-<strong>ビクシリンＳ配合錠　（２５０ｍｇ）</strong> には現在 <strong>52 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
+<strong>ビクシリンＳ配合錠　（２５０ｍｇ）</strong> には現在 <strong>54 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
 </p>
 
 <div class="key-takeaway">
@@ -41,13 +41,29 @@ last_modified_at: 2026-11-22
 <p><a href="{{ '/drugs/ampicillin/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（52 件）
+## 関連ニュース（54 件）
 
-### [【闘病】朝4時、胸が焼けるような痛みで目が覚めた…小4と小2の母に告げられた『乳がん』（メディカルドック）](https://news.google.com/rss/articles/CBMif0FVX3lxTFBtUzlVNWMwd3pyR3lJVGxjd1Q5RUZmNmYxNGZJTG9aOEN6RjJSbl9BSFFNRm1ObFZkOFZyY2RhZFJxMjg1VHZHSnkzRW9HczRjRTBrY1BYbElISXNRNnd1TVVnN2E1VVAtOXJRdEtTOXlxZUp5emNXSDBaMkVFakE?oc=5)
+### [〈論説〉大腸がん体験記 検便からダビンチへ](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lTkM2MmFhT0tiMURfSTJDbGRzV01HRzRxVXpZMmNOOXBSODUtWUVXY2dvbnRZRUlVa2EyZ0drdW1CM0xjTzhQZ0p4elRkMmJ6QXpN?oc=5)
+
+2026-11-22 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
+
+出典: [福祉新聞Web](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lTkM2MmFhT0tiMURfSTJDbGRzV01HRzRxVXpZMmNOOXBSODUtWUVXY2dvbnRZRUlVa2EyZ0drdW1CM0xjTzhQZ0p4elRkMmJ6QXpN?oc=5)
+
+---
+
+### [生後3ヶ月未満の乳児は重症RSウイルス感染症にかかりやすく、専門家は早期予防を推奨している。](https://news.google.com/rss/articles/CBMiowFBVV95cUxNdWxlMlJZcTFyM1hrRlBNMDFkbmlSTXNBZHktLUxjdThHekU0Zi1QQzZ3elAzOTFHV0dCYjlhcGJYc3gtUHg4QUxwUTlxRFFSczQwM2ZMZmctc0lWSW5vX2FyYUlFaXFwd0ZWMk9wODh1X1dEYmZXVV8yOGJORFJSdGttOHZZZWFaT3JDU1dUaG9ObmRxcURBYkRXbFVNRDJPa3Fr?oc=5)
+
+2026-11-22 <span class="news-indication-tag">肺炎</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMiowFBVV95cUxNdWxlMlJZcTFyM1hrRlBNMDFkbmlSTXNBZHktLUxjdThHekU0Zi1QQzZ3elAzOTFHV0dCYjlhcGJYc3gtUHg4QUxwUTlxRFFSczQwM2ZMZmctc0lWSW5vX2FyYUlFaXFwd0ZWMk9wODh1X1dEYmZXVV8yOGJORFJSdGttOHZZZWFaT3JDU1dUaG9ObmRxcURBYkRXbFVNRDJPa3Fr?oc=5)
+
+---
+
+### [【闘病】朝4時、胸が焼けるような痛みで目が覚めた…小4と小2の母に告げられた『乳がん』（メディカルドック）](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTHBWVlJ6R2ZvNGgzMUtPRlNoZkhnTk9PNE5WR3EwZ2x5aVBmcFlna1RsZnlRRzdiWXJwXy1UbUVDY195aXJOZzAwdnZma2p5NmZlM2RLbU5nWC1TS0N2MlJlZXl5Wks1TmVmaExVdzFEbFQtXzJBa1pzMkl3X1EzY3pMR2xSemUz?oc=5)
 
 2026-11-22 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
 
-出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBtUzlVNWMwd3pyR3lJVGxjd1Q5RUZmNmYxNGZJTG9aOEN6RjJSbl9BSFFNRm1ObFZkOFZyY2RhZFJxMjg1VHZHSnkzRW9HczRjRTBrY1BYbElISXNRNnd1TVVnN2E1VVAtOXJRdEtTOXlxZUp5emNXSDBaMkVFakE?oc=5) · [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/32e402eb9ac912b2796ab72e88bc6ce7cd7ec6f3?source=rss)
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTHBWVlJ6R2ZvNGgzMUtPRlNoZkhnTk9PNE5WR3EwZ2x5aVBmcFlna1RsZnlRRzdiWXJwXy1UbUVDY195aXJOZzAwdnZma2p5NmZlM2RLbU5nWC1TS0N2MlJlZXl5Wks1TmVmaExVdzFEbFQtXzJBa1pzMkl3X1EzY3pMR2xSemUz?oc=5) · [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/32e402eb9ac912b2796ab72e88bc6ce7cd7ec6f3?source=rss)
 
 ---
 

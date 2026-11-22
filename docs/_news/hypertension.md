@@ -3,9 +3,9 @@ layout: default
 title: "高血圧 (hypertension) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "高血圧 (hypertension) に関する健康ニュース。ニュース 2 件、関連医薬品 9 件。"
+description: "高血圧 (hypertension) に関する健康ニュース。ニュース 3 件、関連医薬品 9 件。"
 permalink: /news/hypertension/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-22
 ---
 
 # 高血圧 (hypertension) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="高血圧 (hypertension) に関するニュースは？">
-<strong>高血圧 (hypertension)</strong> には現在 <strong>2 件</strong>の関連ニュースと 9 件の関連医薬品があります。
+<strong>高血圧 (hypertension)</strong> には現在 <strong>3 件</strong>の関連ニュースと 9 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,15 @@ last_modified_at: 2026-11-19
 </ul>
 </div>
 
-## 関連ニュース（2 件）
+## 関連ニュース（3 件）
+
+### [高血圧、高コレステロール、糖尿病：年齢のせいにしてはいけない。](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeHBEd2tWTGtFbzBSYWFnQy1VdmtsWFRPQlBIX3ZxanNDWVRIaGc0QmZkSVVDSFNfMnN4UzVhN05qMXA5bHV6UjFLMTRKWV94ZDhhUVJMeFhoYTh4eDJPSnZpYlhzakNPa3ZsUW1mdzQwcTJIQUxaTUF2Z3JmdFpZY3BVOF9HZzlP?oc=5)
+
+2026-11-22
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeHBEd2tWTGtFbzBSYWFnQy1VdmtsWFRPQlBIX3ZxanNDWVRIaGc0QmZkSVVDSFNfMnN4UzVhN05qMXA5bHV6UjFLMTRKWV94ZDhhUVJMeFhoYTh4eDJPSnZpYlhzakNPa3ZsUW1mdzQwcTJIQUxaTUF2Z3JmdFpZY3BVOF9HZzlP?oc=5)
+
+---
 
 ### [脳出血で重篤な状態となった38歳の男性：多くの若者が軽視しがちな病気から学ぶ教訓。](https://news.google.com/rss/articles/CBMixgFBVV95cUxNckZIcG9HZHdXT3JYVmlQalJ0Vm1EaTA4Y3BLU1NlSExXYkMyWVJ5clV4VFNHVzFIdU81NkJhbjBsamgwMTR4U3d2blpQdGtzZzRfeVJCMjlFZkdkVHJSemx1NE9sLXRZWDdQSmNKNnpxbGdJeWRfN3RPdTVaOFlPMFktZzdxdkVZTkVhem5PQklxMDlHdlVyUlRGUzVkUmFaa0VWY3lKNzRYeFh6UkcyTWtDSTZmNjEzdlNQbWhRMWtpTVlGdUE?oc=5)
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="タミフルドライシロップ３％（選） に関するニュースは？">
-<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>20 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>24 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,31 @@ last_modified_at: 2026-11-22
 <p><a href="{{ '/drugs/oseltamivir/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（20 件）
+## 関連ニュース（24 件）
+
+### [季節の変わり目には疾病の発生が増加するため、重篤な合併症を予防することが重要です。](https://news.google.com/rss/articles/CBMijwFBVV95cUxOR3VWVFF0bjhDOUhwcnotT1p4SjdVc1FVTjU0SG5fbnJKOUkzcjQ3bXJvWFU4N0Z4eWVLVi03OTVjYjllVWcwQnFyRlBzMVJTRHRNRU0wVl80dlFUUG9QQzFlOXJGSl9oekU4UFBQc3R4M0JMeFI3U2pRQ0dIbWdkWHJ6Vlh4cVkyUl9QODRqNA?oc=5)
+
+2026-11-22 <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMijwFBVV95cUxOR3VWVFF0bjhDOUhwcnotT1p4SjdVc1FVTjU0SG5fbnJKOUkzcjQ3bXJvWFU4N0Z4eWVLVi03OTVjYjllVWcwQnFyRlBzMVJTRHRNRU0wVl80dlFUUG9QQzFlOXJGSl9oekU4UFBQc3R4M0JMeFI3U2pRQ0dIbWdkWHJ6Vlh4cVkyUl9QODRqNA?oc=5)
+
+---
+
+### [生後3ヶ月未満の乳児は重症RSウイルス感染症にかかりやすく、専門家は早期予防を推奨している。](https://news.google.com/rss/articles/CBMiowFBVV95cUxNdWxlMlJZcTFyM1hrRlBNMDFkbmlSTXNBZHktLUxjdThHekU0Zi1QQzZ3elAzOTFHV0dCYjlhcGJYc3gtUHg4QUxwUTlxRFFSczQwM2ZMZmctc0lWSW5vX2FyYUlFaXFwd0ZWMk9wODh1X1dEYmZXVV8yOGJORFJSdGttOHZZZWFaT3JDU1dUaG9ObmRxcURBYkRXbFVNRDJPa3Fr?oc=5)
+
+2026-11-22 <span class="news-indication-tag">肺炎</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMiowFBVV95cUxNdWxlMlJZcTFyM1hrRlBNMDFkbmlSTXNBZHktLUxjdThHekU0Zi1QQzZ3elAzOTFHV0dCYjlhcGJYc3gtUHg4QUxwUTlxRFFSczQwM2ZMZmctc0lWSW5vX2FyYUlFaXFwd0ZWMk9wODh1X1dEYmZXVV8yOGJORFJSdGttOHZZZWFaT3JDU1dUaG9ObmRxcURBYkRXbFVNRDJPa3Fr?oc=5)
+
+---
+
+### [マカオ、2026年10月のインフルエンザ感染症例数が前月比23.9%減 - The Macau Shimbun](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PMHV6SkdiS05ONFBfRXZiR0FCN1JBemtnZGpZNlZJQkVvMmNjZFluTzcyMWdzcFgzV19SSUhnRk1LZVBxU01iVTdqTzFLSmhlVVQ4YzJB?oc=5)
+
+2026-11-22 <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [The Macau Shimbun](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PMHV6SkdiS05ONFBfRXZiR0FCN1JBemtnZGpZNlZJQkVvMmNjZFluTzcyMWdzcFgzV19SSUhnRk1LZVBxU01iVTdqTzFLSmhlVVQ4YzJB?oc=5)
+
+---
 
 ### [インフルエンザ感染中、突然「意味の通らないこと」を言いだした……インフルエンザ脳症の初期症状と正しい対応](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hdHhudkl6dVYxak9aQ25PWGRFYlRjbGJjQWhsUXdhdDkxZEV2eU41emZMakU0N3pXdlBEbXg3eV9saWFWcXh0LWdHb1dmM1BjSUVmMTNZb2UwaF9CMHc?oc=5)
 
@@ -141,6 +165,14 @@ last_modified_at: 2026-11-22
 2026-11-18 <span class="news-indication-tag">肺炎</span>
 
 出典: [厚生労働省](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBfMHhDRXhOSU1ZTmxjdGl6ai1rT0ZGdWhJejBLbHRtWTd5UWlzdkJmVFF6MXFFWXZoU1pCNXR1eW52YmpINk11OVRyRi1oR25XREQ4ejEtT3Y?oc=5)
+
+---
+
+### [「在宅勤務」で備えても現実は「有休」… 子どものインフルエンザ対策〔保護者195人に聞いた〕 - コクリコ｜講談社](https://news.google.com/rss/articles/CBMib0FVX3lxTE9KcDd4NG93Rks0YmhmV1d1RGN4ZFlWTjJrU3NBRmFhcGdWZlhDWjVyR21ZYzNZblVLeUVYUTZ2T19tMHd3SmNkVDdDby00WS1HUjVQQmlTTEZHN1FaXzVNR2Vvb0s4M3c1LWgyV2N4QQ?oc=5)
+
+2026-11-17 <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [講談社コクリコ](https://news.google.com/rss/articles/CBMib0FVX3lxTE9KcDd4NG93Rks0YmhmV1d1RGN4ZFlWTjJrU3NBRmFhcGdWZlhDWjVyR21ZYzNZblVLeUVYUTZ2T19tMHd3SmNkVDdDby00WS1HUjVQQmlTTEZHN1FaXzVNR2Vvb0s4M3c1LWgyV2N4QQ?oc=5)
 
 ---
 

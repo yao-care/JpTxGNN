@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="インデラル錠１０ｍｇ（選） に関するニュースは？">
-<strong>インデラル錠１０ｍｇ（選）</strong> には現在 <strong>50 件</strong>の関連ニュースがあり、予測適応症は 4 件です。
+<strong>インデラル錠１０ｍｇ（選）</strong> には現在 <strong>51 件</strong>の関連ニュースがあり、予測適応症は 4 件です。
 </p>
 
 <div class="key-takeaway">
@@ -36,13 +36,21 @@ last_modified_at: 2026-11-22
 <p><a href="{{ '/drugs/propranolol/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（50 件）
+## 関連ニュース（51 件）
 
-### [【闘病】朝4時、胸が焼けるような痛みで目が覚めた…小4と小2の母に告げられた『乳がん』（メディカルドック）](https://news.google.com/rss/articles/CBMif0FVX3lxTFBtUzlVNWMwd3pyR3lJVGxjd1Q5RUZmNmYxNGZJTG9aOEN6RjJSbl9BSFFNRm1ObFZkOFZyY2RhZFJxMjg1VHZHSnkzRW9HczRjRTBrY1BYbElISXNRNnd1TVVnN2E1VVAtOXJRdEtTOXlxZUp5emNXSDBaMkVFakE?oc=5)
+### [〈論説〉大腸がん体験記 検便からダビンチへ](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lTkM2MmFhT0tiMURfSTJDbGRzV01HRzRxVXpZMmNOOXBSODUtWUVXY2dvbnRZRUlVa2EyZ0drdW1CM0xjTzhQZ0p4elRkMmJ6QXpN?oc=5)
+
+2026-11-22 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
+
+出典: [福祉新聞Web](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lTkM2MmFhT0tiMURfSTJDbGRzV01HRzRxVXpZMmNOOXBSODUtWUVXY2dvbnRZRUlVa2EyZ0drdW1CM0xjTzhQZ0p4elRkMmJ6QXpN?oc=5)
+
+---
+
+### [【闘病】朝4時、胸が焼けるような痛みで目が覚めた…小4と小2の母に告げられた『乳がん』（メディカルドック）](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTHBWVlJ6R2ZvNGgzMUtPRlNoZkhnTk9PNE5WR3EwZ2x5aVBmcFlna1RsZnlRRzdiWXJwXy1UbUVDY195aXJOZzAwdnZma2p5NmZlM2RLbU5nWC1TS0N2MlJlZXl5Wks1TmVmaExVdzFEbFQtXzJBa1pzMkl3X1EzY3pMR2xSemUz?oc=5)
 
 2026-11-22 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
 
-出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBtUzlVNWMwd3pyR3lJVGxjd1Q5RUZmNmYxNGZJTG9aOEN6RjJSbl9BSFFNRm1ObFZkOFZyY2RhZFJxMjg1VHZHSnkzRW9HczRjRTBrY1BYbElISXNRNnd1TVVnN2E1VVAtOXJRdEtTOXlxZUp5emNXSDBaMkVFakE?oc=5) · [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/32e402eb9ac912b2796ab72e88bc6ce7cd7ec6f3?source=rss)
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTHBWVlJ6R2ZvNGgzMUtPRlNoZkhnTk9PNE5WR3EwZ2x5aVBmcFlna1RsZnlRRzdiWXJwXy1UbUVDY195aXJOZzAwdnZma2p5NmZlM2RLbU5nWC1TS0N2MlJlZXl5Wks1TmVmaExVdzFEbFQtXzJBa1pzMkl3X1EzY3pMR2xSemUz?oc=5) · [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/32e402eb9ac912b2796ab72e88bc6ce7cd7ec6f3?source=rss)
 
 ---
 

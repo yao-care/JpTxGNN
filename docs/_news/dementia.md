@@ -3,7 +3,7 @@ layout: default
 title: "認知症 (dementia) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "認知症 (dementia) に関する健康ニュース。ニュース 42 件、関連医薬品 2 件。"
+description: "認知症 (dementia) に関する健康ニュース。ニュース 43 件、関連医薬品 2 件。"
 permalink: /news/dementia/
 last_modified_at: 2026-11-22
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="認知症 (dementia) に関するニュースは？">
-<strong>認知症 (dementia)</strong> には現在 <strong>42 件</strong>の関連ニュースと 2 件の関連医薬品があります。
+<strong>認知症 (dementia)</strong> には現在 <strong>43 件</strong>の関連ニュースと 2 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,7 @@ last_modified_at: 2026-11-22
 </ul>
 </div>
 
-## 関連ニュース（42 件）
+## 関連ニュース（43 件）
 
 ### [【新刊案内】認知症にはスイッチがある。 専門医がやさしく解説する人生100年時代の脳活習慣『認知症スイッチの切り方』が11月20日発売！](https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMeFdrSFFFZEZtLWFKRGhkRXpjRXd1eXRIQ3RDc0NrZkg3aDVFRS1MYm1SNmRtT2R0WlhXUjhHS2FHaG85MXZJSjJwNkJRcWJjQTRfNmg4Ml9rNGJBbVE?oc=5)
 
@@ -102,6 +102,14 @@ last_modified_at: 2026-11-22
 2026-11-18
 
 出典: [Infoseek](https://news.google.com/rss/articles/CBMicEFVX3lxTFBDSEhkQ09YMFRVeWRUblFhX3pXaFJDUllNZDZXd1FLQlhwVVM5R1A3aWsxZGRnNFVDb3hPQVhaRnVkc2puVUp3WHE2a0VUS3dZUVkyS3hHRFA3a0h2bG16OEZGN0Frc1NOM1dydVF1WnI?oc=5)
+
+---
+
+### [野菜ジュースでもサプリでもない…医師が｢認知症リスクが約3割下がる｣と勧めるスーパーで買える身近な食材](https://news.google.com/rss/articles/CBMif0FVX3lxTE94aTV3RUxFS1hxcnZVa3FkTHV2cERGN1Z4R25SOWFxeThLTXVfcWhxSW11cXpHMDhGNmk0QUhodE81endZazRadHlsXzhkcVJ5YU1rYkFFVmdWY1M3ajV6VC14bG1YY0VSSGVKaFJYT2ViMXBiUjNwNWxBbTJPNjQ?oc=5)
+
+2026-11-18
+
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE94aTV3RUxFS1hxcnZVa3FkTHV2cERGN1Z4R25SOWFxeThLTXVfcWhxSW11cXpHMDhGNmk0QUhodE81endZazRadHlsXzhkcVJ5YU1rYkFFVmdWY1M3ajV6VC14bG1YY0VSSGVKaFJYT2ViMXBiUjNwNWxBbTJPNjQ?oc=5)
 
 ---
 

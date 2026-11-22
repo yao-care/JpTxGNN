@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="ザルティア錠５ｍｇ（選） に関するニュースは？">
-<strong>ザルティア錠５ｍｇ（選）</strong> には現在 <strong>19 件</strong>の関連ニュースがあり、予測適応症は 8 件です。
+<strong>ザルティア錠５ｍｇ（選）</strong> には現在 <strong>20 件</strong>の関連ニュースがあり、予測適応症は 8 件です。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ last_modified_at: 2026-11-22
 <p><a href="{{ '/drugs/tadalafil/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（19 件）
+## 関連ニュース（20 件）
 
 ### [何の症状もなかったにもかかわらず、その男性は突然脳卒中の危険に直面した。](https://news.google.com/rss/articles/CBMimgFBVV95cUxOazdLLWJIdkRqNU14bi1BUU1hU3ZfeENTeW15d25jODVnSFdDNEN6QTcxdVl1LTZzTlNwMlBuazFndjhDOE0tTmI0SEVXYUZjb3JudHZEdldMX1AtdjhpVUVxaVd4aFA1djh0NEhKZmxUd2hlZUd5ay1SbnA5VWtMTDI2dkZoMlltSm94X09UOHVEemxqdmk5UUZn?oc=5)
 
@@ -151,6 +151,14 @@ last_modified_at: 2026-11-22
 2026-11-18 <span class="news-indication-tag">認知症</span> <span class="news-indication-tag">心筋梗塞</span> <span class="news-indication-tag">脳梗塞</span>
 
 出典: [フロントロウ](https://news.google.com/rss/articles/CBMiR0FVX3lxTE5Ga1dTdWd5VHZfcDI4OUNyTm5qWjB5bzQ4UXcwM0FQVkZvSnZ6ZjQyM2M1WnZBQWx2VkNBLUNUNDBEWWNTdjA0?oc=5)
+
+---
+
+### [食後の血糖値スパイクを抑える「オイルファースト」　心筋梗塞や脳梗塞など血管の疾患の予防に期待　「オリーブオイル」「菜種油」「えごま油」…最強の油はどれか](https://news.google.com/rss/articles/CBMia0FVX3lxTFBsb2RDOXBPNE83aFNlUGN6YmRlN2E0WWlDNWdocmk2cDNGazJuZmVpdUp3UXJZa1pab0h3ZVNmdDZ2dWl6WW43RWFTcmVJSE41aTdVQlVKVDNJVWRMblBvMjkzWVhTWGViNEp30gFwQVVfeXFMUDlwdlVkYzBlbGc0dC1UTllDVkNsWkMtelAwSklHdVl4ODVpUWFublJSTDVPRkhxZy1CMVdWWm9ZR3Atb0xaU09sVjB6aEUzQmsxaWpVOGo3Ung2SUQxV0J1QV9ZSkJxN2VsRHZjTGpPWA?oc=5)
+
+2026-11-17 <span class="news-indication-tag">心筋梗塞</span> <span class="news-indication-tag">脳梗塞</span>
+
+出典: [ｄメニューニュース](https://news.google.com/rss/articles/CBMia0FVX3lxTFBsb2RDOXBPNE83aFNlUGN6YmRlN2E0WWlDNWdocmk2cDNGazJuZmVpdUp3UXJZa1pab0h3ZVNmdDZ2dWl6WW43RWFTcmVJSE41aTdVQlVKVDNJVWRMblBvMjkzWVhTWGViNEp30gFwQVVfeXFMUDlwdlVkYzBlbGc0dC1UTllDVkNsWkMtelAwSklHdVl4ODVpUWFublJSTDVPRkhxZy1CMVdWWm9ZR3Atb0xaU09sVjB6aEUzQmsxaWpVOGo3Ung2SUQxV0J1QV9ZSkJxN2VsRHZjTGpPWA?oc=5)
 
 ---
 

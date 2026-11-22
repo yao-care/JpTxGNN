@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "心筋梗塞 (myocardial infarction) 関連ニュース"
+title: "心臓発作 (myocardial infarction) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "心筋梗塞 (myocardial infarction) に関する健康ニュース。ニュース 5 件、関連医薬品 7 件。"
+description: "心臓発作 (myocardial infarction) に関する健康ニュース。ニュース 6 件、関連医薬品 7 件。"
 permalink: /news/myocardial-infarction/
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-22
 ---
 
-# 心筋梗塞 (myocardial infarction) 関連ニュース
+# 心臓発作 (myocardial infarction) 関連ニュース
 
 [← ニュース一覧に戻る]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="心筋梗塞 (myocardial infarction) に関するニュースは？">
-<strong>心筋梗塞 (myocardial infarction)</strong> には現在 <strong>5 件</strong>の関連ニュースと 7 件の関連医薬品があります。
+<p class="key-answer" data-question="心臓発作 (myocardial infarction) に関するニュースは？">
+<strong>心臓発作 (myocardial infarction)</strong> には現在 <strong>6 件</strong>の関連ニュースと 7 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
-このページは「心筋梗塞」に関する最新の健康ニュースをまとめ、JpTxGNN データベースで予測適応症にこの疾患を含む医薬品を一覧表示します。
+このページは「心臓発作」に関する最新の健康ニュースをまとめ、JpTxGNN データベースで予測適応症にこの疾患を含む医薬品を一覧表示します。
 </div>
 
 <div class="related-drugs-card">
@@ -36,7 +36,7 @@ last_modified_at: 2026-11-21
 </ul>
 </div>
 
-## 関連ニュース（5 件）
+## 関連ニュース（6 件）
 
 ### [「食後の眠気」は危険！糖尿病や認知症リスクにつながる「血糖値スパイク」を防ぐ毎日の習慣とは](https://news.google.com/rss/articles/CBMihgFBVV95cUxNN2prcUw2UWxfeHBqYWNsVFVYcmFyZVA0NTF0cGl3NzdWYnN2THdHU25pUURBSlRFWUVTaHE3VmtQVVdpRk5rU2pEb1c2NkFfUkhlbGYtQjNaSUNQZ2JFTnVJQjBCcmxVVkNBZXVvZHRyUHJqblU3dEJZNlBmZUlLTDJPdmo2Z9IBggFBVV95cUxORGhpWjBFQTFERFZiSHV4TlhvSk9UX0tDZGYtQTVrQ1hwZmpCU3RKRmR5cFNPQU8zNXhkVmxKZHQxbTJfVXprS0lSQ3ZhUXpvaXNzdEt2SWtWT0kxbVFyTC1iZ1pNdVNfdGtHU3AzRE5ITkc4ZVRnMjF2X3RFWmNyc1p3?oc=5)
 
@@ -75,6 +75,14 @@ last_modified_at: 2026-11-21
 2026-11-17
 
 出典: [CNN](https://news.google.com/rss/articles/CBMiVEFVX3lxTE1PVUxraTRwWjR6bkQzbzdvcjhETGNQWVJMMkJLQTB6c25wQTZzSW9sSldwVlFWVHV0LUtNa0ZyYWxYVlpoYjhnRDZyVy16aURvRkRPQg?oc=5)
+
+---
+
+### [食後の血糖値スパイクを抑える「オイルファースト」　心筋梗塞や脳梗塞など血管の疾患の予防に期待　「オリーブオイル」「菜種油」「えごま油」…最強の油はどれか](https://news.google.com/rss/articles/CBMia0FVX3lxTFBsb2RDOXBPNE83aFNlUGN6YmRlN2E0WWlDNWdocmk2cDNGazJuZmVpdUp3UXJZa1pab0h3ZVNmdDZ2dWl6WW43RWFTcmVJSE41aTdVQlVKVDNJVWRMblBvMjkzWVhTWGViNEp30gFwQVVfeXFMUDlwdlVkYzBlbGc0dC1UTllDVkNsWkMtelAwSklHdVl4ODVpUWFublJSTDVPRkhxZy1CMVdWWm9ZR3Atb0xaU09sVjB6aEUzQmsxaWpVOGo3Ung2SUQxV0J1QV9ZSkJxN2VsRHZjTGpPWA?oc=5)
+
+2026-11-17
+
+出典: [ｄメニューニュース](https://news.google.com/rss/articles/CBMia0FVX3lxTFBsb2RDOXBPNE83aFNlUGN6YmRlN2E0WWlDNWdocmk2cDNGazJuZmVpdUp3UXJZa1pab0h3ZVNmdDZ2dWl6WW43RWFTcmVJSE41aTdVQlVKVDNJVWRMblBvMjkzWVhTWGViNEp30gFwQVVfeXFMUDlwdlVkYzBlbGc0dC1UTllDVkNsWkMtelAwSklHdVl4ODVpUWFublJSTDVPRkhxZy1CMVdWWm9ZR3Atb0xaU09sVjB6aEUzQmsxaWpVOGo3Ung2SUQxV0J1QV9ZSkJxN2VsRHZjTGpPWA?oc=5)
 
 ---
 

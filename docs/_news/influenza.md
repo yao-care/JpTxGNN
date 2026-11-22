@@ -3,7 +3,7 @@ layout: default
 title: "インフルエンザ (influenza) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 16 件、関連医薬品 1 件。"
+description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 19 件、関連医薬品 1 件。"
 permalink: /news/influenza/
 last_modified_at: 2026-11-22
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="インフルエンザ (influenza) に関するニュースは？">
-<strong>インフルエンザ (influenza)</strong> には現在 <strong>16 件</strong>の関連ニュースと 1 件の関連医薬品があります。
+<strong>インフルエンザ (influenza)</strong> には現在 <strong>19 件</strong>の関連ニュースと 1 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,23 @@ last_modified_at: 2026-11-22
 </ul>
 </div>
 
-## 関連ニュース（16 件）
+## 関連ニュース（19 件）
+
+### [季節の変わり目には疾病の発生が増加するため、重篤な合併症を予防することが重要です。](https://news.google.com/rss/articles/CBMijwFBVV95cUxOR3VWVFF0bjhDOUhwcnotT1p4SjdVc1FVTjU0SG5fbnJKOUkzcjQ3bXJvWFU4N0Z4eWVLVi03OTVjYjllVWcwQnFyRlBzMVJTRHRNRU0wVl80dlFUUG9QQzFlOXJGSl9oekU4UFBQc3R4M0JMeFI3U2pRQ0dIbWdkWHJ6Vlh4cVkyUl9QODRqNA?oc=5)
+
+2026-11-22
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMijwFBVV95cUxOR3VWVFF0bjhDOUhwcnotT1p4SjdVc1FVTjU0SG5fbnJKOUkzcjQ3bXJvWFU4N0Z4eWVLVi03OTVjYjllVWcwQnFyRlBzMVJTRHRNRU0wVl80dlFUUG9QQzFlOXJGSl9oekU4UFBQc3R4M0JMeFI3U2pRQ0dIbWdkWHJ6Vlh4cVkyUl9QODRqNA?oc=5)
+
+---
+
+### [マカオ、2026年10月のインフルエンザ感染症例数が前月比23.9%減 - The Macau Shimbun](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PMHV6SkdiS05ONFBfRXZiR0FCN1JBemtnZGpZNlZJQkVvMmNjZFluTzcyMWdzcFgzV19SSUhnRk1LZVBxU01iVTdqTzFLSmhlVVQ4YzJB?oc=5)
+
+2026-11-22
+
+出典: [The Macau Shimbun](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PMHV6SkdiS05ONFBfRXZiR0FCN1JBemtnZGpZNlZJQkVvMmNjZFluTzcyMWdzcFgzV19SSUhnRk1LZVBxU01iVTdqTzFLSmhlVVQ4YzJB?oc=5)
+
+---
 
 ### [インフルエンザ感染中、突然「意味の通らないこと」を言いだした……インフルエンザ脳症の初期症状と正しい対応](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hdHhudkl6dVYxak9aQ25PWGRFYlRjbGJjQWhsUXdhdDkxZEV2eU41emZMakU0N3pXdlBEbXg3eV9saWFWcXh0LWdHb1dmM1BjSUVmMTNZb2UwaF9CMHc?oc=5)
 
@@ -117,6 +133,14 @@ last_modified_at: 2026-11-22
 2026-11-18
 
 出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNQl9JTUdYMHhBb2pIMzFaUkVNZUVEekNWZEs5NkhIQmhwYWlXUjdjbEx2X3dncnFrRUIyeVd3b3A3M3prckVWSTZoTDNza3BRd2NrNms4ZEJkTlZHX1Fr?oc=5)
+
+---
+
+### [「在宅勤務」で備えても現実は「有休」… 子どものインフルエンザ対策〔保護者195人に聞いた〕 - コクリコ｜講談社](https://news.google.com/rss/articles/CBMib0FVX3lxTE9KcDd4NG93Rks0YmhmV1d1RGN4ZFlWTjJrU3NBRmFhcGdWZlhDWjVyR21ZYzNZblVLeUVYUTZ2T19tMHd3SmNkVDdDby00WS1HUjVQQmlTTEZHN1FaXzVNR2Vvb0s4M3c1LWgyV2N4QQ?oc=5)
+
+2026-11-17
+
+出典: [講談社コクリコ](https://news.google.com/rss/articles/CBMib0FVX3lxTE9KcDd4NG93Rks0YmhmV1d1RGN4ZFlWTjJrU3NBRmFhcGdWZlhDWjVyR21ZYzNZblVLeUVYUTZ2T19tMHd3SmNkVDdDby00WS1HUjVQQmlTTEZHN1FaXzVNR2Vvb0s4M3c1LWgyV2N4QQ?oc=5)
 
 ---
 

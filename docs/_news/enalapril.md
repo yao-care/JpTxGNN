@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="レニベース錠１０　１０ｍｇ（選） に関するニュースは？">
-<strong>レニベース錠１０　１０ｍｇ（選）</strong> には現在 <strong>63 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>レニベース錠１０　１０ｍｇ（選）</strong> には現在 <strong>65 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,21 @@ last_modified_at: 2026-11-22
 <p><a href="{{ '/drugs/enalapril/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（63 件）
+## 関連ニュース（65 件）
 
-### [【闘病】朝4時、胸が焼けるような痛みで目が覚めた…小4と小2の母に告げられた『乳がん』（メディカルドック）](https://news.google.com/rss/articles/CBMif0FVX3lxTFBtUzlVNWMwd3pyR3lJVGxjd1Q5RUZmNmYxNGZJTG9aOEN6RjJSbl9BSFFNRm1ObFZkOFZyY2RhZFJxMjg1VHZHSnkzRW9HczRjRTBrY1BYbElISXNRNnd1TVVnN2E1VVAtOXJRdEtTOXlxZUp5emNXSDBaMkVFakE?oc=5)
+### [〈論説〉大腸がん体験記 検便からダビンチへ](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lTkM2MmFhT0tiMURfSTJDbGRzV01HRzRxVXpZMmNOOXBSODUtWUVXY2dvbnRZRUlVa2EyZ0drdW1CM0xjTzhQZ0p4elRkMmJ6QXpN?oc=5)
+
+2026-11-22 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
+
+出典: [福祉新聞Web](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lTkM2MmFhT0tiMURfSTJDbGRzV01HRzRxVXpZMmNOOXBSODUtWUVXY2dvbnRZRUlVa2EyZ0drdW1CM0xjTzhQZ0p4elRkMmJ6QXpN?oc=5)
+
+---
+
+### [【闘病】朝4時、胸が焼けるような痛みで目が覚めた…小4と小2の母に告げられた『乳がん』（メディカルドック）](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTHBWVlJ6R2ZvNGgzMUtPRlNoZkhnTk9PNE5WR3EwZ2x5aVBmcFlna1RsZnlRRzdiWXJwXy1UbUVDY195aXJOZzAwdnZma2p5NmZlM2RLbU5nWC1TS0N2MlJlZXl5Wks1TmVmaExVdzFEbFQtXzJBa1pzMkl3X1EzY3pMR2xSemUz?oc=5)
 
 2026-11-22 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
 
-出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFBtUzlVNWMwd3pyR3lJVGxjd1Q5RUZmNmYxNGZJTG9aOEN6RjJSbl9BSFFNRm1ObFZkOFZyY2RhZFJxMjg1VHZHSnkzRW9HczRjRTBrY1BYbElISXNRNnd1TVVnN2E1VVAtOXJRdEtTOXlxZUp5emNXSDBaMkVFakE?oc=5) · [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/32e402eb9ac912b2796ab72e88bc6ce7cd7ec6f3?source=rss)
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTHBWVlJ6R2ZvNGgzMUtPRlNoZkhnTk9PNE5WR3EwZ2x5aVBmcFlna1RsZnlRRzdiWXJwXy1UbUVDY195aXJOZzAwdnZma2p5NmZlM2RLbU5nWC1TS0N2MlJlZXl5Wks1TmVmaExVdzFEbFQtXzJBa1pzMkl3X1EzY3pMR2xSemUz?oc=5) · [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/32e402eb9ac912b2796ab72e88bc6ce7cd7ec6f3?source=rss)
 
 ---
 
@@ -365,6 +373,14 @@ last_modified_at: 2026-11-22
 2026-11-17 <span class="news-indication-tag">がん</span>
 
 出典: [産経ニュース](https://news.google.com/rss/articles/CBMijAFBVV95cUxOcWNMU2czbi1maHFGbEprRmpCeEJnYjdkX1dYWGtaUWpJTUQ2UUQwSnZaNzBHOFJPZDhOeXI2cEd1YUxNbmhMTjFiVXB2WnZid3ZLcC1xOW42anhsR1NISThra0NRY1V5Wk1NbDA1UDZTZ0JkdVFvSEFNZERPaFVOYnlUQ2xHQS0xcHFCSg?oc=5)
+
+---
+
+### [食後の血糖値スパイクを抑える「オイルファースト」　心筋梗塞や脳梗塞など血管の疾患の予防に期待　「オリーブオイル」「菜種油」「えごま油」…最強の油はどれか](https://news.google.com/rss/articles/CBMia0FVX3lxTFBsb2RDOXBPNE83aFNlUGN6YmRlN2E0WWlDNWdocmk2cDNGazJuZmVpdUp3UXJZa1pab0h3ZVNmdDZ2dWl6WW43RWFTcmVJSE41aTdVQlVKVDNJVWRMblBvMjkzWVhTWGViNEp30gFwQVVfeXFMUDlwdlVkYzBlbGc0dC1UTllDVkNsWkMtelAwSklHdVl4ODVpUWFublJSTDVPRkhxZy1CMVdWWm9ZR3Atb0xaU09sVjB6aEUzQmsxaWpVOGo3Ung2SUQxV0J1QV9ZSkJxN2VsRHZjTGpPWA?oc=5)
+
+2026-11-17 <span class="news-indication-tag">心筋梗塞</span> <span class="news-indication-tag">脳梗塞</span>
+
+出典: [ｄメニューニュース](https://news.google.com/rss/articles/CBMia0FVX3lxTFBsb2RDOXBPNE83aFNlUGN6YmRlN2E0WWlDNWdocmk2cDNGazJuZmVpdUp3UXJZa1pab0h3ZVNmdDZ2dWl6WW43RWFTcmVJSE41aTdVQlVKVDNJVWRMblBvMjkzWVhTWGViNEp30gFwQVVfeXFMUDlwdlVkYzBlbGc0dC1UTllDVkNsWkMtelAwSklHdVl4ODVpUWFublJSTDVPRkhxZy1CMVdWWm9ZR3Atb0xaU09sVjB6aEUzQmsxaWpVOGo3Ung2SUQxV0J1QV9ZSkJxN2VsRHZjTGpPWA?oc=5)
 
 ---
 

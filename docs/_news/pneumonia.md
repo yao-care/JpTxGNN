@@ -3,9 +3,9 @@ layout: default
 title: "肺炎 (pneumonia) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "肺炎 (pneumonia) に関する健康ニュース。ニュース 5 件、関連医薬品 3 件。"
+description: "肺炎 (pneumonia) に関する健康ニュース。ニュース 6 件、関連医薬品 3 件。"
 permalink: /news/pneumonia/
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-22
 ---
 
 # 肺炎 (pneumonia) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="肺炎 (pneumonia) に関するニュースは？">
-<strong>肺炎 (pneumonia)</strong> には現在 <strong>5 件</strong>の関連ニュースと 3 件の関連医薬品があります。
+<strong>肺炎 (pneumonia)</strong> には現在 <strong>6 件</strong>の関連ニュースと 3 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,15 @@ last_modified_at: 2026-11-21
 </ul>
 </div>
 
-## 関連ニュース（5 件）
+## 関連ニュース（6 件）
+
+### [生後3ヶ月未満の乳児は重症RSウイルス感染症にかかりやすく、専門家は早期予防を推奨している。](https://news.google.com/rss/articles/CBMiowFBVV95cUxNdWxlMlJZcTFyM1hrRlBNMDFkbmlSTXNBZHktLUxjdThHekU0Zi1QQzZ3elAzOTFHV0dCYjlhcGJYc3gtUHg4QUxwUTlxRFFSczQwM2ZMZmctc0lWSW5vX2FyYUlFaXFwd0ZWMk9wODh1X1dEYmZXVV8yOGJORFJSdGttOHZZZWFaT3JDU1dUaG9ObmRxcURBYkRXbFVNRDJPa3Fr?oc=5)
+
+2026-11-22
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMiowFBVV95cUxNdWxlMlJZcTFyM1hrRlBNMDFkbmlSTXNBZHktLUxjdThHekU0Zi1QQzZ3elAzOTFHV0dCYjlhcGJYc3gtUHg4QUxwUTlxRFFSczQwM2ZMZmctc0lWSW5vX2FyYUlFaXFwd0ZWMk9wODh1X1dEYmZXVV8yOGJORFJSdGttOHZZZWFaT3JDU1dUaG9ObmRxcURBYkRXbFVNRDJPa3Fr?oc=5)
+
+---
 
 ### [気温が下がるにつれて、非典型的な症状を伴う肺炎に注意してください。](https://news.google.com/rss/articles/CBMimgFBVV95cUxONUFGZkZMUXBHMFRqX0tRRlFxU1A5UE9CX1dsYWt3V2lNV1JqRmF0T2dIeWktdTJVb3dXbkxYOGJQUkVCVEZpUmtuZjdtNEV3RTU1OUJ6NTdvN3E1blF4a21rTFhFWjlhY1U0ZXg1N1ZGNFdzUFpfUVdsNGRBQi1zRFl4RnY0N2k0NElTdm1oeGhrNXdwNFZYM3VR?oc=5)
 
