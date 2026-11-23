@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "クレストールＯＤ錠５ｍｇ（選） に関する健康ニュース。予測適応症 6 件。"
 permalink: /news/rosuvastatin/
-last_modified_at: 2026-11-22
+last_modified_at: 2026-11-23
 ---
 
 # クレストールＯＤ錠５ｍｇ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="クレストールＯＤ錠５ｍｇ（選） に関するニュースは？">
-<strong>クレストールＯＤ錠５ｍｇ（選）</strong> には現在 <strong>70 件</strong>の関連ニュースがあり、予測適応症は 6 件です。
+<strong>クレストールＯＤ錠５ｍｇ（選）</strong> には現在 <strong>76 件</strong>の関連ニュースがあり、予測適応症は 6 件です。
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,31 @@ last_modified_at: 2026-11-22
 <p><a href="{{ '/drugs/rosuvastatin/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（70 件）
+## 関連ニュース（76 件）
+
+### [大腸がんが見つかるピークは70代、それでも「40歳になったら一度大腸内視鏡検査を」と医師が言うワケ（読売新聞（ヨミドクター））](https://news.google.com/rss/articles/CBMif0FVX3lxTE9PVll4Sjlvd1ZkeHMyNkw5aWhBWGZnTkJJYUNFNXEzRTNsSVR6WHJxSEVLYzdEaWc4S3Q5blVuTFBNb0ZyLWpCVnM3YkI5dUd1anFsN0tiOTg1MVNLQ21FMDg3eE1BN0dhY1VmODJJVWRCeWhnaXBTUllPVzdpeW8?oc=5)
+
+2026-11-23 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
+
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE9PVll4Sjlvd1ZkeHMyNkw5aWhBWGZnTkJJYUNFNXEzRTNsSVR6WHJxSEVLYzdEaWc4S3Q5blVuTFBNb0ZyLWpCVnM3YkI5dUd1anFsN0tiOTg1MVNLQ21FMDg3eE1BN0dhY1VmODJJVWRCeWhnaXBTUllPVzdpeW8?oc=5)
+
+---
+
+### [【闘病】子どもの成人まで生きられないのか…痔の受診で『大腸がん』ステージ3b(メディカルドック)](https://news.yahoo.co.jp/articles/07fc80c13d2875de483921f8eabfa4f63517654a?source=rss)
+
+2026-11-23 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
+
+出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/07fc80c13d2875de483921f8eabfa4f63517654a?source=rss)
+
+---
+
+### [働くママに乳がん、幼い子たちにどう伝えれば 髪も眉毛も抜けて…「普通に接してもらえて救われた」 - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE1FX3lJNDY0bnc1VkZ3ZVFpMzRvbHpoQmV0QTFwbHhjcFNMLWN3SHJkVXBGSU9kQ0kyNzk2WTFMQkx0aVhnRURuemZodFZHVWM3Vkw1MXQ0cVcwS0E0dkg3SHVuX0tKaEp5eGpzcVFn?oc=5)
+
+2026-11-22 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
+
+出典: [au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE1FX3lJNDY0bnc1VkZ3ZVFpMzRvbHpoQmV0QTFwbHhjcFNMLWN3SHJkVXBGSU9kQ0kyNzk2WTFMQkx0aVhnRURuemZodFZHVWM3Vkw1MXQ0cVcwS0E0dkg3SHVuX0tKaEp5eGpzcVFn?oc=5)
+
+---
 
 ### [彼女は18歳の時、インフルエンザA型に感染した後、思いがけず肺がんと診断された。](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQejFYbXFKWXAxdmdkSDdobE1UNHI5QXFoa2s5Uk5LZklUbFVxZVpHa2ZkdmFDbG5kUzBxQUNIcjl1dS1BZXN1cWF4RFRxZ0x6STNHWUhqNjFTV1lNdnhvOTVfNUVacVRweDVhTjREeXZZZFhueVJSNkNmc3dRNENtZU1vUFA5WGUy?oc=5)
 
@@ -56,11 +80,11 @@ last_modified_at: 2026-11-22
 
 ---
 
-### [【闘病】朝4時、胸が焼けるような痛みで目が覚めた…小4と小2の母に告げられた『乳がん』（メディカルドック）](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTHBWVlJ6R2ZvNGgzMUtPRlNoZkhnTk9PNE5WR3EwZ2x5aVBmcFlna1RsZnlRRzdiWXJwXy1UbUVDY195aXJOZzAwdnZma2p5NmZlM2RLbU5nWC1TS0N2MlJlZXl5Wks1TmVmaExVdzFEbFQtXzJBa1pzMkl3X1EzY3pMR2xSemUz?oc=5)
+### [【闘病】朝4時、胸が焼けるような痛みで目が覚めた…小4と小2の母に告げられた『乳がん』(メディカルドック)](https://news.yahoo.co.jp/articles/32e402eb9ac912b2796ab72e88bc6ce7cd7ec6f3?source=rss)
 
-2026-11-22 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
+2026-11-22 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">腫瘍</span> <span class="news-indication-tag">悪性腫瘍</span> <span class="news-indication-tag">乳がん</span>
 
-出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTHBWVlJ6R2ZvNGgzMUtPRlNoZkhnTk9PNE5WR3EwZ2x5aVBmcFlna1RsZnlRRzdiWXJwXy1UbUVDY195aXJOZzAwdnZma2p5NmZlM2RLbU5nWC1TS0N2MlJlZXl5Wks1TmVmaExVdzFEbFQtXzJBa1pzMkl3X1EzY3pMR2xSemUz?oc=5) · [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/32e402eb9ac912b2796ab72e88bc6ce7cd7ec6f3?source=rss)
+出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/32e402eb9ac912b2796ab72e88bc6ce7cd7ec6f3?source=rss)
 
 ---
 
@@ -69,6 +93,14 @@ last_modified_at: 2026-11-22
 2026-11-21 <span class="news-indication-tag">脳卒中</span>
 
 出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMimgFBVV95cUxOazdLLWJIdkRqNU14bi1BUU1hU3ZfeENTeW15d25jODVnSFdDNEN6QTcxdVl1LTZzTlNwMlBuazFndjhDOE0tTmI0SEVXYUZjb3JudHZEdldMX1AtdjhpVUVxaVd4aFA1djh0NEhKZmxUd2hlZUd5ay1SbnA5VWtMTDI2dkZoMlltSm94X09UOHVEemxqdmk5UUZn?oc=5)
+
+---
+
+### [ロシアが結腸直腸がん治療用ワクチンの臨床試験を開始した。](https://news.google.com/rss/articles/CBMimwFBVV95cUxPUWhySndjMjZtRzZGT1UwNmgxcUtPTHgzRElscm9mbGViSFdpWHR6dEZycTFXY1J5eU9ObFJjYVpaemkyUGRmM19yaE55V01BZVQyUUQwcEFkLVdOakI5a1JHUUpSX3lnM3ktVE1zU19RQlFzZ2dMRXd0ZC1QSHN6TWl6U3VDM3BxbXFLTVJFcnNLNGNzNGV1bTVoMA?oc=5)
+
+2026-11-21 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">直腸がん</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMimwFBVV95cUxPUWhySndjMjZtRzZGT1UwNmgxcUtPTHgzRElscm9mbGViSFdpWHR6dEZycTFXY1J5eU9ObFJjYVpaemkyUGRmM19yaE55V01BZVQyUUQwcEFkLVdOakI5a1JHUUpSX3lnM3ktVE1zU19RQlFzZ2dMRXd0ZC1QSHN6TWl6U3VDM3BxbXFLTVJFcnNLNGNzNGV1bTVoMA?oc=5)
 
 ---
 
@@ -157,6 +189,14 @@ last_modified_at: 2026-11-22
 2026-11-20 <span class="news-indication-tag">がん</span>
 
 出典: [Infoseek](https://news.google.com/rss/articles/CBMiZEFVX3lxTE50V05sbU15aUotQVRGWGx4NXI4R2YwSVZQb202TkVXLXRObU02V0U4RTZ1bzFmSVlTX29BRERDNERHV0dYWnFzOFZMSFdWMlZ5VmJjRmVJNWUzS0pQeGVCdFJfSXjSAWpBVV95cUxPQ0JGT0Y2M3IyM0xESnY5OEdMQXozVE5KcU90dklJMDk3OXVaTUpJS3lGY2kyRjdISGVrd3BvZlVTNVZHM0dicUxBX1g5MHVwNnoxN0ctLTRmelBfcHJQV1Q3dnRaZEpBR0RR?oc=5)
+
+---
+
+### [タバコ1日15本分に匹敵する…研究で判明した｢脳卒中リスク｣を3割超も高める定年後の"快適すぎる過ごし方"](https://news.google.com/rss/articles/CBMif0FVX3lxTE12SEZESjkzYy1laXExMDF6Y3NoMmw0ZUVPMnRueXdqdXRZMUh0MDNzRWZSMUFETmNaT1ZuTVVUQTlQTUZxaElPS1VxRU5rWUkzdzVzOWVldXhnR0pwdlpSMnRCdUVVWDRhaVhPZVVCbGRXbE1sblc4NHRZNGJEcE0?oc=5)
+
+2026-11-20 <span class="news-indication-tag">脳卒中</span>
+
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE12SEZESjkzYy1laXExMDF6Y3NoMmw0ZUVPMnRueXdqdXRZMUh0MDNzRWZSMUFETmNaT1ZuTVVUQTlQTUZxaElPS1VxRU5rWUkzdzVzOWVldXhnR0pwdlpSMnRCdUVVWDRhaVhPZVVCbGRXbE1sblc4NHRZNGJEcE0?oc=5)
 
 ---
 
@@ -429,6 +469,14 @@ last_modified_at: 2026-11-22
 2026-11-16 <span class="news-indication-tag">がん</span>
 
 出典: [日経バイオテクONLINE](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jMEVmWmtBZVFSVXQwMnozZUF5bWJfX1FVWWxUVmdIM0t4cTdmM21ORklaRzl1ZlJYNThGcFdrbEFkYmotNnVyX3NGd3FiWDlnM3pUNFdKRmdzNVhRN25YN0ZvRVdtQQ?oc=5)
+
+---
+
+### [〝厄介〟な性感染症、尖圭コンジローマの男性患者が増加　HPVワクチンでの予防呼び掛け](https://news.google.com/rss/articles/CBMinAFBVV95cUxPcTFuSExsOFF1SG51MW5WUGJaMEhURThNZ3ZXemNLeHpQMVZuTDJqYVVwNDBLQkxwXzZ2OTlDTEhJM2VwbDVMTEw0ME9vOFo4LUo0X2xCSkpCbi1RdjNkdEVZY24tdXhtVzNxdVR6VG9PTXRXV3QxNTVsUmQ3OXZ3YXpNSVZNajVBZWI2ckE1cVc2RWwxdEpDeVcxcTDSAaIBQVVfeXFMT0xRaTRyc0lQXzRxdHhPRUxsRnhyS05pc2xxREtrZ0Fqc0V3WUcxdWtzb21sSTM3dWFFMW50ZVh6VjdVaklrOUE5T2R0NUlPYjNMbTVuX1ZXMjlZeVVyb3h6MFFXTkhuTWx5VDgwSThCR2k4WnFBZUdRMmxWM2JabE1PWmFPNWRMTVBURjhvbUZ3Smw1aFdoLXZqLUZINkNKdENn?oc=5)
+
+2026-11-16 <span class="news-indication-tag">がん</span>
+
+出典: [ｄメニューニュース](https://news.google.com/rss/articles/CBMinAFBVV95cUxPcTFuSExsOFF1SG51MW5WUGJaMEhURThNZ3ZXemNLeHpQMVZuTDJqYVVwNDBLQkxwXzZ2OTlDTEhJM2VwbDVMTEw0ME9vOFo4LUo0X2xCSkpCbi1RdjNkdEVZY24tdXhtVzNxdVR6VG9PTXRXV3QxNTVsUmQ3OXZ3YXpNSVZNajVBZWI2ckE1cVc2RWwxdEpDeVcxcTDSAaIBQVVfeXFMT0xRaTRyc0lQXzRxdHhPRUxsRnhyS05pc2xxREtrZ0Fqc0V3WUcxdWtzb21sSTM3dWFFMW50ZVh6VjdVaklrOUE5T2R0NUlPYjNMbTVuX1ZXMjlZeVVyb3h6MFFXTkhuTWx5VDgwSThCR2k4WnFBZUdRMmxWM2JabE1PWmFPNWRMTVBURjhvbUZ3Smw1aFdoLXZqLUZINkNKdENn?oc=5)
 
 ---
 

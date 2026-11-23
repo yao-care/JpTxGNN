@@ -3,9 +3,9 @@ layout: default
 title: "認知症 (dementia) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "認知症 (dementia) に関する健康ニュース。ニュース 45 件、関連医薬品 2 件。"
+description: "認知症 (dementia) に関する健康ニュース。ニュース 47 件、関連医薬品 2 件。"
 permalink: /news/dementia/
-last_modified_at: 2026-11-22
+last_modified_at: 2026-11-23
 ---
 
 # 認知症 (dementia) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="認知症 (dementia) に関するニュースは？">
-<strong>認知症 (dementia)</strong> には現在 <strong>45 件</strong>の関連ニュースと 2 件の関連医薬品があります。
+<strong>認知症 (dementia)</strong> には現在 <strong>47 件</strong>の関連ニュースと 2 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,15 @@ last_modified_at: 2026-11-22
 </ul>
 </div>
 
-## 関連ニュース（45 件）
+## 関連ニュース（47 件）
+
+### [【新刊案内】認知症にはスイッチがある。 専門医がやさしく解説する人生100年時代の脳活習慣『認知症スイッチの切り方』が11月20日発売！ | 投資信託最新情報](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nVURBcjdzZDZ4WENsVER4R0hnUFJlM3g4aHBBaXlhUGI3YjBpenFWLVZPUzVqV0ZxeHdzcVlTYTBjNmZDNEw1SVhGZ0VpbHBrZHB3MkVYZFFFcm1R?oc=5)
+
+2026-11-21
+
+出典: [社長のための経済ニュース](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nVURBcjdzZDZ4WENsVER4R0hnUFJlM3g4aHBBaXlhUGI3YjBpenFWLVZPUzVqV0ZxeHdzcVlTYTBjNmZDNEw1SVhGZ0VpbHBrZHB3MkVYZFFFcm1R?oc=5)
+
+---
 
 ### [【新刊案内】認知症にはスイッチがある。 専門医がやさしく解説する人生100年時代の脳活習慣『認知症スイッチの切り方』が11月20日発売！](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vYl9fdTRUMHc1Z0QtVHh6UnpkZmNqVUFOc3FFQkVZOWFnN2dDcDY2VjlIT0JlZEY4emM0U2trZV9BejdwLXZlWjQzb1JkUTJqMkRLdlliMFNGOU0?oc=5)
 
@@ -134,6 +142,14 @@ last_modified_at: 2026-11-22
 2026-11-18
 
 出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/3963013d84a9926c681f71a96d5cbec62050a231?source=rss)
+
+---
+
+### [野菜ジュースでもサプリでもない…医師が｢認知症リスクが約3割下がる｣と勧めるスーパーで買える身近な食材 - PRESIDENT Online（プレジデントオンライン）](https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwdm15MlJPNE54amZXcWVkTzRKSFBQQ0U0MWh2MFU1UUN3X1pvVXZTWFFkN0YtdGJOQU5NejVXTG1WRGpNcHpEbzB3bHBCV0FUS3Mta1h4N3k?oc=5)
+
+2026-11-18
+
+出典: [PRESIDENT Online（プレジデントオンライン）](https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwdm15MlJPNE54amZXcWVkTzRKSFBQQ0U0MWh2MFU1UUN3X1pvVXZTWFFkN0YtdGJOQU5NejVXTG1WRGpNcHpEbzB3bHBCV0FUS3Mta1h4N3k?oc=5)
 
 ---
 

@@ -3,9 +3,9 @@ layout: default
 title: "大腸がん (colonic neoplasm) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "大腸がん (colonic neoplasm) に関する健康ニュース。ニュース 7 件、関連医薬品 1 件。"
+description: "大腸がん (colonic neoplasm) に関する健康ニュース。ニュース 10 件、関連医薬品 1 件。"
 permalink: /news/colonic-neoplasm/
-last_modified_at: 2026-11-22
+last_modified_at: 2026-11-23
 ---
 
 # 大腸がん (colonic neoplasm) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="大腸がん (colonic neoplasm) に関するニュースは？">
-<strong>大腸がん (colonic neoplasm)</strong> には現在 <strong>7 件</strong>の関連ニュースと 1 件の関連医薬品があります。
+<strong>大腸がん (colonic neoplasm)</strong> には現在 <strong>10 件</strong>の関連ニュースと 1 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -30,13 +30,37 @@ last_modified_at: 2026-11-22
 </ul>
 </div>
 
-## 関連ニュース（7 件）
+## 関連ニュース（10 件）
+
+### [大腸がんが見つかるピークは70代、それでも「40歳になったら一度大腸内視鏡検査を」と医師が言うワケ（読売新聞（ヨミドクター））](https://news.google.com/rss/articles/CBMif0FVX3lxTE9PVll4Sjlvd1ZkeHMyNkw5aWhBWGZnTkJJYUNFNXEzRTNsSVR6WHJxSEVLYzdEaWc4S3Q5blVuTFBNb0ZyLWpCVnM3YkI5dUd1anFsN0tiOTg1MVNLQ21FMDg3eE1BN0dhY1VmODJJVWRCeWhnaXBTUllPVzdpeW8?oc=5)
+
+2026-11-23
+
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE9PVll4Sjlvd1ZkeHMyNkw5aWhBWGZnTkJJYUNFNXEzRTNsSVR6WHJxSEVLYzdEaWc4S3Q5blVuTFBNb0ZyLWpCVnM3YkI5dUd1anFsN0tiOTg1MVNLQ21FMDg3eE1BN0dhY1VmODJJVWRCeWhnaXBTUllPVzdpeW8?oc=5)
+
+---
+
+### [【闘病】子どもの成人まで生きられないのか…痔の受診で『大腸がん』ステージ3b(メディカルドック)](https://news.yahoo.co.jp/articles/07fc80c13d2875de483921f8eabfa4f63517654a?source=rss)
+
+2026-11-23
+
+出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/07fc80c13d2875de483921f8eabfa4f63517654a?source=rss)
+
+---
 
 ### [〈論説〉大腸がん体験記 検便からダビンチへ](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lTkM2MmFhT0tiMURfSTJDbGRzV01HRzRxVXpZMmNOOXBSODUtWUVXY2dvbnRZRUlVa2EyZ0drdW1CM0xjTzhQZ0p4elRkMmJ6QXpN?oc=5)
 
 2026-11-22
 
 出典: [福祉新聞Web](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1lTkM2MmFhT0tiMURfSTJDbGRzV01HRzRxVXpZMmNOOXBSODUtWUVXY2dvbnRZRUlVa2EyZ0drdW1CM0xjTzhQZ0p4elRkMmJ6QXpN?oc=5)
+
+---
+
+### [ロシアが結腸直腸がん治療用ワクチンの臨床試験を開始した。](https://news.google.com/rss/articles/CBMimwFBVV95cUxPUWhySndjMjZtRzZGT1UwNmgxcUtPTHgzRElscm9mbGViSFdpWHR6dEZycTFXY1J5eU9ObFJjYVpaemkyUGRmM19yaE55V01BZVQyUUQwcEFkLVdOakI5a1JHUUpSX3lnM3ktVE1zU19RQlFzZ2dMRXd0ZC1QSHN6TWl6U3VDM3BxbXFLTVJFcnNLNGNzNGV1bTVoMA?oc=5)
+
+2026-11-21
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMimwFBVV95cUxPUWhySndjMjZtRzZGT1UwNmgxcUtPTHgzRElscm9mbGViSFdpWHR6dEZycTFXY1J5eU9ObFJjYVpaemkyUGRmM19yaE55V01BZVQyUUQwcEFkLVdOakI5a1JHUUpSX3lnM3ktVE1zU19RQlFzZ2dMRXd0ZC1QSHN6TWl6U3VDM3BxbXFLTVJFcnNLNGNzNGV1bTVoMA?oc=5)
 
 ---
 

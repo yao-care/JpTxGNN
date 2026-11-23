@@ -3,9 +3,9 @@ layout: default
 title: "乳がん (female breast carcinoma) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "乳がん (female breast carcinoma) に関する健康ニュース。ニュース 8 件、関連医薬品 7 件。"
+description: "乳がん (female breast carcinoma) に関する健康ニュース。ニュース 9 件、関連医薬品 7 件。"
 permalink: /news/female-breast-carcinoma/
-last_modified_at: 2026-11-22
+last_modified_at: 2026-11-23
 ---
 
 # 乳がん (female breast carcinoma) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="乳がん (female breast carcinoma) に関するニュースは？">
-<strong>乳がん (female breast carcinoma)</strong> には現在 <strong>8 件</strong>の関連ニュースと 7 件の関連医薬品があります。
+<strong>乳がん (female breast carcinoma)</strong> には現在 <strong>9 件</strong>の関連ニュースと 7 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -36,13 +36,21 @@ last_modified_at: 2026-11-22
 </ul>
 </div>
 
-## 関連ニュース（8 件）
+## 関連ニュース（9 件）
 
-### [【闘病】朝4時、胸が焼けるような痛みで目が覚めた…小4と小2の母に告げられた『乳がん』（メディカルドック）](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTHBWVlJ6R2ZvNGgzMUtPRlNoZkhnTk9PNE5WR3EwZ2x5aVBmcFlna1RsZnlRRzdiWXJwXy1UbUVDY195aXJOZzAwdnZma2p5NmZlM2RLbU5nWC1TS0N2MlJlZXl5Wks1TmVmaExVdzFEbFQtXzJBa1pzMkl3X1EzY3pMR2xSemUz?oc=5)
+### [働くママに乳がん、幼い子たちにどう伝えれば 髪も眉毛も抜けて…「普通に接してもらえて救われた」 - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE1FX3lJNDY0bnc1VkZ3ZVFpMzRvbHpoQmV0QTFwbHhjcFNMLWN3SHJkVXBGSU9kQ0kyNzk2WTFMQkx0aVhnRURuemZodFZHVWM3Vkw1MXQ0cVcwS0E0dkg3SHVuX0tKaEp5eGpzcVFn?oc=5)
 
 2026-11-22
 
-出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTHBWVlJ6R2ZvNGgzMUtPRlNoZkhnTk9PNE5WR3EwZ2x5aVBmcFlna1RsZnlRRzdiWXJwXy1UbUVDY195aXJOZzAwdnZma2p5NmZlM2RLbU5nWC1TS0N2MlJlZXl5Wks1TmVmaExVdzFEbFQtXzJBa1pzMkl3X1EzY3pMR2xSemUz?oc=5) · [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/32e402eb9ac912b2796ab72e88bc6ce7cd7ec6f3?source=rss)
+出典: [au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE1FX3lJNDY0bnc1VkZ3ZVFpMzRvbHpoQmV0QTFwbHhjcFNMLWN3SHJkVXBGSU9kQ0kyNzk2WTFMQkx0aVhnRURuemZodFZHVWM3Vkw1MXQ0cVcwS0E0dkg3SHVuX0tKaEp5eGpzcVFn?oc=5)
+
+---
+
+### [【闘病】朝4時、胸が焼けるような痛みで目が覚めた…小4と小2の母に告げられた『乳がん』(メディカルドック)](https://news.yahoo.co.jp/articles/32e402eb9ac912b2796ab72e88bc6ce7cd7ec6f3?source=rss)
+
+2026-11-22
+
+出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/32e402eb9ac912b2796ab72e88bc6ce7cd7ec6f3?source=rss)
 
 ---
 
