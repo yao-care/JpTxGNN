@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="リスパダール錠２ｍｇ（選） に関するニュースは？">
-<strong>リスパダール錠２ｍｇ（選）</strong> には現在 <strong>57 件</strong>の関連ニュースがあり、予測適応症は 4 件です。
+<strong>リスパダール錠２ｍｇ（選）</strong> には現在 <strong>59 件</strong>の関連ニュースがあり、予測適応症は 4 件です。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,15 @@ last_modified_at: 2026-11-23
 <p><a href="{{ '/drugs/risperidone/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（57 件）
+## 関連ニュース（59 件）
+
+### [HPVを制御することで、地域社会におけるがんの負担を軽減できる。](https://news.google.com/rss/articles/CBMihAFBVV95cUxNR1RGYWRMcmxWcGMtbTJGWThEclozZDhyMVB5bGhsZVFsSFNXdEFjd01mRExhUXJNcjlDTmlmbjhiMm1QcVpXODhwekNHazM4ejZVaXZnN0pHSklJbldKSXFHbnZwZ2RFNUswcVZKdzFuRHBSaE9fTXlOSTNUMFU2OG1KQ3k?oc=5)
+
+2026-11-23 <span class="news-indication-tag">がん</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMihAFBVV95cUxNR1RGYWRMcmxWcGMtbTJGWThEclozZDhyMVB5bGhsZVFsSFNXdEFjd01mRExhUXJNcjlDTmlmbjhiMm1QcVpXODhwekNHazM4ejZVaXZnN0pHSklJbldKSXFHbnZwZ2RFNUswcVZKdzFuRHBSaE9fTXlOSTNUMFU2OG1KQ3k?oc=5)
+
+---
 
 ### [大腸がんが見つかるピークは70代、それでも「40歳になったら一度大腸内視鏡検査を」と医師が言うワケ（読売新聞（ヨミドクター））](https://news.google.com/rss/articles/CBMif0FVX3lxTE9PVll4Sjlvd1ZkeHMyNkw5aWhBWGZnTkJJYUNFNXEzRTNsSVR6WHJxSEVLYzdEaWc4S3Q5blVuTFBNb0ZyLWpCVnM3YkI5dUd1anFsN0tiOTg1MVNLQ21FMDg3eE1BN0dhY1VmODJJVWRCeWhnaXBTUllPVzdpeW8?oc=5)
 
@@ -339,6 +347,14 @@ last_modified_at: 2026-11-23
 2026-11-17 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
 
 出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/54156e5ae6e1214292f277dc7de5bc210ec74aa1?source=rss)
+
+---
+
+### [ネアンデルタール由来変異が後頭葉縮小と統合失調症リスク低下示す](https://news.google.com/rss/articles/CBMigAFBVV95cUxOLWdUcUhUS29ZcE1TSnFFS2MtTUgtVFFWN1VUSEJvS3BKcjVneXpXc2FKMVBrY2lNY2IzNkJqaG0yb0hHcWtKZGxnWUszLWxRZi1NcWVIUkJyNmpuT21YcGthUXppcnNZODNuamlmbFhuNGVlZ3lRWnF1QlN2czNJetIBlAFBVV95cUxPQUU3TDlMUXB3OXZiZXlpZTN1QVFyR3Z4NE9qQWNPa3BYQ0V1Z0E3SWo2OXo2RkRxdWhuVkxOWDR6Rk01OW9FYjl6TjRMQmlpX0lmYzlzSFNVc29CM2g0TTlPQlpvSnpLa0Y3bXJrMmZUTEVqdkVjQmNSX0htOHBha0FtWkZmaURxX0dPalBJRDRPaVNr?oc=5)
+
+2026-11-16 <span class="news-indication-tag">統合失調症</span>
+
+出典: [Chosunbiz](https://news.google.com/rss/articles/CBMigAFBVV95cUxOLWdUcUhUS29ZcE1TSnFFS2MtTUgtVFFWN1VUSEJvS3BKcjVneXpXc2FKMVBrY2lNY2IzNkJqaG0yb0hHcWtKZGxnWUszLWxRZi1NcWVIUkJyNmpuT21YcGthUXppcnNZODNuamlmbFhuNGVlZ3lRWnF1QlN2czNJetIBlAFBVV95cUxPQUU3TDlMUXB3OXZiZXlpZTN1QVFyR3Z4NE9qQWNPa3BYQ0V1Z0E3SWo2OXo2RkRxdWhuVkxOWDR6Rk01OW9FYjl6TjRMQmlpX0lmYzlzSFNVc29CM2g0TTlPQlpvSnpLa0Y3bXJrMmZUTEVqdkVjQmNSX0htOHBha0FtWkZmaURxX0dPalBJRDRPaVNr?oc=5)
 
 ---
 

@@ -3,9 +3,9 @@ layout: default
 title: "統合失調症 (schizophrenia) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "統合失調症 (schizophrenia) に関する健康ニュース。ニュース 3 件、関連医薬品 7 件。"
+description: "統合失調症 (schizophrenia) に関する健康ニュース。ニュース 4 件、関連医薬品 7 件。"
 permalink: /news/schizophrenia/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-23
 ---
 
 # 統合失調症 (schizophrenia) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="統合失調症 (schizophrenia) に関するニュースは？">
-<strong>統合失調症 (schizophrenia)</strong> には現在 <strong>3 件</strong>の関連ニュースと 7 件の関連医薬品があります。
+<strong>統合失調症 (schizophrenia)</strong> には現在 <strong>4 件</strong>の関連ニュースと 7 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,7 @@ last_modified_at: 2026-11-19
 </ul>
 </div>
 
-## 関連ニュース（3 件）
+## 関連ニュース（4 件）
 
 ### [ネアンデルタール人から受け継いだ遺伝子が現代人の脳や統合失調症リスクに影響している可能性](https://news.google.com/rss/articles/CBMihwFBVV95cUxPaVQ0dWJCUDVFUVh1bmhXZ1VqVlg4T1psbExTYjFnbnpmeGtNVEZ1YUxPblExSmV5U0pqWVd1NkJnXzF5TDJyNTZ6dkllU09MRjc4UVROUmxLMzJkUDNvUlRXZHBCaEN2V3BuSUdQakZMQzJVNWJtOU5QT0Q0b252dXI4TFZHUms?oc=5)
 
@@ -51,6 +51,14 @@ last_modified_at: 2026-11-19
 2026-11-17
 
 出典: [au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE5HYkg3LXVWLUR0VVQ0UTlmdjVtb0pHakpwLTJVWE1XcEdyN3hwYzZDc19PR2dJZGFtZGs5dFNZbHJmQTdOSG5veHFPZXZBa29QUVRkWlVSWTIxT01kMlZPamNQd2xyWVYwX0pxS0ln?oc=5)
+
+---
+
+### [ネアンデルタール由来変異が後頭葉縮小と統合失調症リスク低下示す](https://news.google.com/rss/articles/CBMigAFBVV95cUxOLWdUcUhUS29ZcE1TSnFFS2MtTUgtVFFWN1VUSEJvS3BKcjVneXpXc2FKMVBrY2lNY2IzNkJqaG0yb0hHcWtKZGxnWUszLWxRZi1NcWVIUkJyNmpuT21YcGthUXppcnNZODNuamlmbFhuNGVlZ3lRWnF1QlN2czNJetIBlAFBVV95cUxPQUU3TDlMUXB3OXZiZXlpZTN1QVFyR3Z4NE9qQWNPa3BYQ0V1Z0E3SWo2OXo2RkRxdWhuVkxOWDR6Rk01OW9FYjl6TjRMQmlpX0lmYzlzSFNVc29CM2g0TTlPQlpvSnpLa0Y3bXJrMmZUTEVqdkVjQmNSX0htOHBha0FtWkZmaURxX0dPalBJRDRPaVNr?oc=5)
+
+2026-11-16
+
+出典: [Chosunbiz](https://news.google.com/rss/articles/CBMigAFBVV95cUxOLWdUcUhUS29ZcE1TSnFFS2MtTUgtVFFWN1VUSEJvS3BKcjVneXpXc2FKMVBrY2lNY2IzNkJqaG0yb0hHcWtKZGxnWUszLWxRZi1NcWVIUkJyNmpuT21YcGthUXppcnNZODNuamlmbFhuNGVlZ3lRWnF1QlN2czNJetIBlAFBVV95cUxPQUU3TDlMUXB3OXZiZXlpZTN1QVFyR3Z4NE9qQWNPa3BYQ0V1Z0E3SWo2OXo2RkRxdWhuVkxOWDR6Rk01OW9FYjl6TjRMQmlpX0lmYzlzSFNVc29CM2g0TTlPQlpvSnpLa0Y3bXJrMmZUTEVqdkVjQmNSX0htOHBha0FtWkZmaURxX0dPalBJRDRPaVNr?oc=5)
 
 ---
 

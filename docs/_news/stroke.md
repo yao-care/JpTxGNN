@@ -3,7 +3,7 @@ layout: default
 title: "脳卒中 (stroke) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "脳卒中 (stroke) に関する健康ニュース。ニュース 17 件、関連医薬品 16 件。"
+description: "脳卒中 (stroke) に関する健康ニュース。ニュース 18 件、関連医薬品 16 件。"
 permalink: /news/stroke/
 last_modified_at: 2026-11-23
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="脳卒中 (stroke) に関するニュースは？">
-<strong>脳卒中 (stroke)</strong> には現在 <strong>17 件</strong>の関連ニュースと 16 件の関連医薬品があります。
+<strong>脳卒中 (stroke)</strong> には現在 <strong>18 件</strong>の関連ニュースと 16 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -45,7 +45,7 @@ last_modified_at: 2026-11-23
 </ul>
 </div>
 
-## 関連ニュース（17 件）
+## 関連ニュース（18 件）
 
 ### [何の症状もなかったにもかかわらず、その男性は突然脳卒中の危険に直面した。](https://news.google.com/rss/articles/CBMimgFBVV95cUxOazdLLWJIdkRqNU14bi1BUU1hU3ZfeENTeW15d25jODVnSFdDNEN6QTcxdVl1LTZzTlNwMlBuazFndjhDOE0tTmI0SEVXYUZjb3JudHZEdldMX1AtdjhpVUVxaVd4aFA1djh0NEhKZmxUd2hlZUd5ay1SbnA5VWtMTDI2dkZoMlltSm94X09UOHVEemxqdmk5UUZn?oc=5)
 
@@ -100,6 +100,14 @@ last_modified_at: 2026-11-23
 2026-11-19
 
 出典: [時事メディカル](https://news.google.com/rss/articles/CBMiTEFVX3lxTFBtelNJc1cyTmFKS1cxdHZ1Y3k2OGJETmwxRzdKR1NNbnF5R21BdHZGN3NhaF8xMElzVTJIbzZtNGJ1RHRKdm41a004UULSAVJBVV95cUxQcVJyR1Y1VC01UnlvT1UyakwzcXp6TUlnX2h0ZE5tZ0l4RXNrZlA2b0ZxaFNCcTAtYVIxTUI2OGJvcUFUN3R6ZFZxZDJCWGJWZnNR?oc=5)
+
+---
+
+### [脳卒中治療薬：市場シェア分析、業界動向と統計、成長予測（2026年～2031年）](https://news.google.com/rss/articles/CBMiT0FVX3lxTE90MVQtT1RyekI4c0pFbjgwTm9VUXlFOXUxdGdiY3p2QU9FNHpYQXBFdF9OS3ZIdThCSS02TERKZllDMTk5WGluT2ZoTHBtTzg?oc=5)
+
+2026-11-19
+
+出典: [アットプレス](https://news.google.com/rss/articles/CBMiT0FVX3lxTE90MVQtT1RyekI4c0pFbjgwTm9VUXlFOXUxdGdiY3p2QU9FNHpYQXBFdF9OS3ZIdThCSS02TERKZllDMTk5WGluT2ZoTHBtTzg?oc=5)
 
 ---
 

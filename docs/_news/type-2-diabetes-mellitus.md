@@ -3,9 +3,9 @@ layout: default
 title: "2型糖尿病 (type 2 diabetes mellitus) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "2型糖尿病 (type 2 diabetes mellitus) に関する健康ニュース。ニュース 4 件、関連医薬品 5 件。"
+description: "2型糖尿病 (type 2 diabetes mellitus) に関する健康ニュース。ニュース 5 件、関連医薬品 5 件。"
 permalink: /news/type-2-diabetes-mellitus/
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-23
 ---
 
 # 2型糖尿病 (type 2 diabetes mellitus) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="2型糖尿病 (type 2 diabetes mellitus) に関するニュースは？">
-<strong>2型糖尿病 (type 2 diabetes mellitus)</strong> には現在 <strong>4 件</strong>の関連ニュースと 5 件の関連医薬品があります。
+<strong>2型糖尿病 (type 2 diabetes mellitus)</strong> には現在 <strong>5 件</strong>の関連ニュースと 5 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,15 @@ last_modified_at: 2026-11-21
 </ul>
 </div>
 
-## 関連ニュース（4 件）
+## 関連ニュース（5 件）
+
+### [【闘病】「将来、後悔するよ」 健診で『2型糖尿病』とわかった男性が悔やむ“体重管理” (2026年11月23日掲載)](https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2UzU5Zk9RYmtveXBhSEM5N1FwMGNCLWJ0M0I3X1EtWTg2UnFZeVBzbFF1a0NFeE1yc0RZWUtKaTlYVHduSjhHV29iRzdaYm9EVGl3RkV2d0cxQTZVQWc?oc=5)
+
+2026-11-23
+
+出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2UzU5Zk9RYmtveXBhSEM5N1FwMGNCLWJ0M0I3X1EtWTg2UnFZeVBzbFF1a0NFeE1yc0RZWUtKaTlYVHduSjhHV29iRzdaYm9EVGl3RkV2d0cxQTZVQWc?oc=5)
+
+---
 
 ### [脳梗塞後SBP＜120試験「＜130否定の結果ではない」――国循・古賀氏コメント【時流◆AHA2026ピックアップ】](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FSlJDNVpYaEFWY2RDQXBpR0F0cTQtTmliSm9LNkkwdkxqUm9yY2pSVW9xS0RTZDNpeWFia2h4eEhWU180TVhlc3psX0lIQlFLSlE?oc=5)
 

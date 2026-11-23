@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="メインテート錠５ｍｇ（選） に関するニュースは？">
-<strong>メインテート錠５ｍｇ（選）</strong> には現在 <strong>57 件</strong>の関連ニュースがあり、予測適応症は 4 件です。
+<strong>メインテート錠５ｍｇ（選）</strong> には現在 <strong>58 件</strong>の関連ニュースがあり、予測適応症は 4 件です。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,15 @@ last_modified_at: 2026-11-23
 <p><a href="{{ '/drugs/bisoprolol/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（57 件）
+## 関連ニュース（58 件）
+
+### [HPVを制御することで、地域社会におけるがんの負担を軽減できる。](https://news.google.com/rss/articles/CBMihAFBVV95cUxNR1RGYWRMcmxWcGMtbTJGWThEclozZDhyMVB5bGhsZVFsSFNXdEFjd01mRExhUXJNcjlDTmlmbjhiMm1QcVpXODhwekNHazM4ejZVaXZnN0pHSklJbldKSXFHbnZwZ2RFNUswcVZKdzFuRHBSaE9fTXlOSTNUMFU2OG1KQ3k?oc=5)
+
+2026-11-23 <span class="news-indication-tag">がん</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMihAFBVV95cUxNR1RGYWRMcmxWcGMtbTJGWThEclozZDhyMVB5bGhsZVFsSFNXdEFjd01mRExhUXJNcjlDTmlmbjhiMm1QcVpXODhwekNHazM4ejZVaXZnN0pHSklJbldKSXFHbnZwZ2RFNUswcVZKdzFuRHBSaE9fTXlOSTNUMFU2OG1KQ3k?oc=5)
+
+---
 
 ### [大腸がんが見つかるピークは70代、それでも「40歳になったら一度大腸内視鏡検査を」と医師が言うワケ（読売新聞（ヨミドクター））](https://news.google.com/rss/articles/CBMif0FVX3lxTE9PVll4Sjlvd1ZkeHMyNkw5aWhBWGZnTkJJYUNFNXEzRTNsSVR6WHJxSEVLYzdEaWc4S3Q5blVuTFBNb0ZyLWpCVnM3YkI5dUd1anFsN0tiOTg1MVNLQ21FMDg3eE1BN0dhY1VmODJJVWRCeWhnaXBTUllPVzdpeW8?oc=5)
 

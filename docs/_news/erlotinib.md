@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="エルロチニブ錠１５０ｍｇ「ＮＫ」 に関するニュースは？">
-<strong>エルロチニブ錠１５０ｍｇ「ＮＫ」</strong> には現在 <strong>101 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>エルロチニブ錠１５０ｍｇ「ＮＫ」</strong> には現在 <strong>103 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,23 @@ last_modified_at: 2026-11-23
 <p><a href="{{ '/drugs/erlotinib/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（101 件）
+## 関連ニュース（103 件）
+
+### [HPVを制御することで、地域社会におけるがんの負担を軽減できる。](https://news.google.com/rss/articles/CBMihAFBVV95cUxNR1RGYWRMcmxWcGMtbTJGWThEclozZDhyMVB5bGhsZVFsSFNXdEFjd01mRExhUXJNcjlDTmlmbjhiMm1QcVpXODhwekNHazM4ejZVaXZnN0pHSklJbldKSXFHbnZwZ2RFNUswcVZKdzFuRHBSaE9fTXlOSTNUMFU2OG1KQ3k?oc=5)
+
+2026-11-23 <span class="news-indication-tag">がん</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMihAFBVV95cUxNR1RGYWRMcmxWcGMtbTJGWThEclozZDhyMVB5bGhsZVFsSFNXdEFjd01mRExhUXJNcjlDTmlmbjhiMm1QcVpXODhwekNHazM4ejZVaXZnN0pHSklJbldKSXFHbnZwZ2RFNUswcVZKdzFuRHBSaE9fTXlOSTNUMFU2OG1KQ3k?oc=5)
+
+---
+
+### [孤独が長く続く人ほど認知症のリスクが38%高いと判明](https://news.google.com/rss/articles/CBMiekFVX3lxTE1HLXhvc2VudkxjcXY0eWcwX3lRLVgybjRiQTVaai1ER1NYeE5FbXp0SWRCNlBTcEJUbzg1MmdLVWR6NWNKblpNTGZNT3laWkpxVlgyOHB1dlN1NW1nQ2R4T3Yxa1FZN2V0eVpHTDdWZ1htcW84UXExNkhR0gF_QVVfeXFMTThpcUFCSEV0bVl5UGM5NjUza294alNFTUQyQ3VwQ0tuSzlRMXFiTWYyRmhPaTBCUHFUMGJuNnZ5QUVHVGNCamJLZ1VfdTI2ellFYnlwRF9weFNXMDRaaFZZbzJmMEhEcE5TMDBWNXNTVy05eGx4YXBSQWlSdV9tUQ?oc=5)
+
+2026-11-23 <span class="news-indication-tag">認知症</span>
+
+出典: [ｄメニューニュース](https://news.google.com/rss/articles/CBMiekFVX3lxTE1HLXhvc2VudkxjcXY0eWcwX3lRLVgybjRiQTVaai1ER1NYeE5FbXp0SWRCNlBTcEJUbzg1MmdLVWR6NWNKblpNTGZNT3laWkpxVlgyOHB1dlN1NW1nQ2R4T3Yxa1FZN2V0eVpHTDdWZ1htcW84UXExNkhR0gF_QVVfeXFMTThpcUFCSEV0bVl5UGM5NjUza294alNFTUQyQ3VwQ0tuSzlRMXFiTWYyRmhPaTBCUHFUMGJuNnZ5QUVHVGNCamJLZ1VfdTI2ellFYnlwRF9weFNXMDRaaFZZbzJmMEhEcE5TMDBWNXNTVy05eGx4YXBSQWlSdV9tUQ?oc=5)
+
+---
 
 ### [大腸がんが見つかるピークは70代、それでも「40歳になったら一度大腸内視鏡検査を」と医師が言うワケ（読売新聞（ヨミドクター））](https://news.google.com/rss/articles/CBMif0FVX3lxTE9PVll4Sjlvd1ZkeHMyNkw5aWhBWGZnTkJJYUNFNXEzRTNsSVR6WHJxSEVLYzdEaWc4S3Q5blVuTFBNb0ZyLWpCVnM3YkI5dUd1anFsN0tiOTg1MVNLQ21FMDg3eE1BN0dhY1VmODJJVWRCeWhnaXBTUllPVzdpeW8?oc=5)
 

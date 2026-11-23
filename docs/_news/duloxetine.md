@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "サインバルタカプセル３０ｍｇ（選） に関する健康ニュース。予測適応症 10 件。"
 permalink: /news/duloxetine/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-23
 ---
 
 # サインバルタカプセル３０ｍｇ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="サインバルタカプセル３０ｍｇ（選） に関するニュースは？">
-<strong>サインバルタカプセル３０ｍｇ（選）</strong> には現在 <strong>8 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>サインバルタカプセル３０ｍｇ（選）</strong> には現在 <strong>9 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,7 @@ last_modified_at: 2026-11-20
 <p><a href="{{ '/drugs/duloxetine/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（8 件）
+## 関連ニュース（9 件）
 
 ### [脳梗塞後SBP＜120試験「＜130否定の結果ではない」――国循・古賀氏コメント【時流◆AHA2026ピックアップ】](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FSlJDNVpYaEFWY2RDQXBpR0F0cTQtTmliSm9LNkkwdkxqUm9yY2pSVW9xS0RTZDNpeWFia2h4eEhWU180TVhlc3psX0lIQlFLSlE?oc=5)
 
@@ -81,6 +81,14 @@ last_modified_at: 2026-11-20
 2026-11-17 <span class="news-indication-tag">統合失調症</span>
 
 出典: [au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE5HYkg3LXVWLUR0VVQ0UTlmdjVtb0pHakpwLTJVWE1XcEdyN3hwYzZDc19PR2dJZGFtZGs5dFNZbHJmQTdOSG5veHFPZXZBa29QUVRkWlVSWTIxT01kMlZPamNQd2xyWVYwX0pxS0ln?oc=5)
+
+---
+
+### [ネアンデルタール由来変異が後頭葉縮小と統合失調症リスク低下示す](https://news.google.com/rss/articles/CBMigAFBVV95cUxOLWdUcUhUS29ZcE1TSnFFS2MtTUgtVFFWN1VUSEJvS3BKcjVneXpXc2FKMVBrY2lNY2IzNkJqaG0yb0hHcWtKZGxnWUszLWxRZi1NcWVIUkJyNmpuT21YcGthUXppcnNZODNuamlmbFhuNGVlZ3lRWnF1QlN2czNJetIBlAFBVV95cUxPQUU3TDlMUXB3OXZiZXlpZTN1QVFyR3Z4NE9qQWNPa3BYQ0V1Z0E3SWo2OXo2RkRxdWhuVkxOWDR6Rk01OW9FYjl6TjRMQmlpX0lmYzlzSFNVc29CM2g0TTlPQlpvSnpLa0Y3bXJrMmZUTEVqdkVjQmNSX0htOHBha0FtWkZmaURxX0dPalBJRDRPaVNr?oc=5)
+
+2026-11-16 <span class="news-indication-tag">統合失調症</span>
+
+出典: [Chosunbiz](https://news.google.com/rss/articles/CBMigAFBVV95cUxOLWdUcUhUS29ZcE1TSnFFS2MtTUgtVFFWN1VUSEJvS3BKcjVneXpXc2FKMVBrY2lNY2IzNkJqaG0yb0hHcWtKZGxnWUszLWxRZi1NcWVIUkJyNmpuT21YcGthUXppcnNZODNuamlmbFhuNGVlZ3lRWnF1QlN2czNJetIBlAFBVV95cUxPQUU3TDlMUXB3OXZiZXlpZTN1QVFyR3Z4NE9qQWNPa3BYQ0V1Z0E3SWo2OXo2RkRxdWhuVkxOWDR6Rk01OW9FYjl6TjRMQmlpX0lmYzlzSFNVc29CM2g0TTlPQlpvSnpLa0Y3bXJrMmZUTEVqdkVjQmNSX0htOHBha0FtWkZmaURxX0dPalBJRDRPaVNr?oc=5)
 
 ---
 

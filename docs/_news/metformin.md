@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "メホビル配合錠ＨＤ「トーワ」 に関する健康ニュース。予測適応症 5 件。"
 permalink: /news/metformin/
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-23
 ---
 
 # メホビル配合錠ＨＤ「トーワ」 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="メホビル配合錠ＨＤ「トーワ」 に関するニュースは？">
-<strong>メホビル配合錠ＨＤ「トーワ」</strong> には現在 <strong>4 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>メホビル配合錠ＨＤ「トーワ」</strong> には現在 <strong>5 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,15 @@ last_modified_at: 2026-11-21
 <p><a href="{{ '/drugs/metformin/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（4 件）
+## 関連ニュース（5 件）
+
+### [【闘病】「将来、後悔するよ」 健診で『2型糖尿病』とわかった男性が悔やむ“体重管理” (2026年11月23日掲載)](https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2UzU5Zk9RYmtveXBhSEM5N1FwMGNCLWJ0M0I3X1EtWTg2UnFZeVBzbFF1a0NFeE1yc0RZWUtKaTlYVHduSjhHV29iRzdaYm9EVGl3RkV2d0cxQTZVQWc?oc=5)
+
+2026-11-23 <span class="news-indication-tag">2型糖尿病</span>
+
+出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2UzU5Zk9RYmtveXBhSEM5N1FwMGNCLWJ0M0I3X1EtWTg2UnFZeVBzbFF1a0NFeE1yc0RZWUtKaTlYVHduSjhHV29iRzdaYm9EVGl3RkV2d0cxQTZVQWc?oc=5)
+
+---
 
 ### [脳梗塞後SBP＜120試験「＜130否定の結果ではない」――国循・古賀氏コメント【時流◆AHA2026ピックアップ】](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FSlJDNVpYaEFWY2RDQXBpR0F0cTQtTmliSm9LNkkwdkxqUm9yY2pSVW9xS0RTZDNpeWFia2h4eEhWU180TVhlc3psX0lIQlFLSlE?oc=5)
 

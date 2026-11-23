@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "タミフルドライシロップ３％（選） に関する健康ニュース。予測適応症 0 件。"
 permalink: /news/oseltamivir/
-last_modified_at: 2026-11-22
+last_modified_at: 2026-11-23
 ---
 
 # タミフルドライシロップ３％（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="タミフルドライシロップ３％（選） に関するニュースは？">
-<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>27 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>28 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ last_modified_at: 2026-11-22
 <p><a href="{{ '/drugs/oseltamivir/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（27 件）
+## 関連ニュース（28 件）
+
+### [79歳の患者がインフルエンザに感染後、昏睡状態に陥り、意識障害を起こしている。](https://news.google.com/rss/articles/CBMihAFBVV95cUxQWVk2NmdqVVlhYm0xYzNfMVFadE5ibENCSHBsV2xRR1JnS3g3Z280cXZ0LXZMY2RnT3RwQ1VJdFc3OFg1YVZLWGtaNlhNeG5rLUR1WXFvbmZUZVlwRDVnRWlkUTM5dEJ1YUlmT2U4cFU4ME1JNFo5c2FtbF9BaWwyZnlGcFY?oc=5)
+
+2026-11-23 <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMihAFBVV95cUxQWVk2NmdqVVlhYm0xYzNfMVFadE5ibENCSHBsV2xRR1JnS3g3Z280cXZ0LXZMY2RnT3RwQ1VJdFc3OFg1YVZLWGtaNlhNeG5rLUR1WXFvbmZUZVlwRDVnRWlkUTM5dEJ1YUlmT2U4cFU4ME1JNFo5c2FtbF9BaWwyZnlGcFY?oc=5)
+
+---
 
 ### [彼女は18歳の時、インフルエンザA型に感染した後、思いがけず肺がんと診断された。](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQejFYbXFKWXAxdmdkSDdobE1UNHI5QXFoa2s5Uk5LZklUbFVxZVpHa2ZkdmFDbG5kUzBxQUNIcjl1dS1BZXN1cWF4RFRxZ0x6STNHWUhqNjFTV1lNdnhvOTVfNUVacVRweDVhTjREeXZZZFhueVJSNkNmc3dRNENtZU1vUFA5WGUy?oc=5)
 
