@@ -7,7 +7,7 @@ gem "jekyll-sitemap", "~> 1.4"
 
 # GitHub Pages compatibility
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.17"
+  gem "jekyll-feed", "~> 0.18"
   gem "jekyll-remote-theme", "~> 0.4"
 end
 
