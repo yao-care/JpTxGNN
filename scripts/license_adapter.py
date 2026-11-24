@@ -248,8 +248,9 @@ def update(rec, new):
 # 2026-11-24（用戶決定）：「日本市販情報」的許可證表改由 scripts/sync_license_tables.py 依證據包產生（程式區塊 <!-- licenses:begin/end -->）。
 # 每週排程（license_refresh_20261029.py 的 sync_tables 掛鉤）全站重排：薬価削除、後継コード補收（preprocess）讓排序與表下說明句跟著變；
 # 只重排表格內容，表以外的正文不動（正文張數由 build_license_snapshot.py／apply_drug_reviews.py 結尾的 rewrite_license_counts.py 依快照改寫）。
-# PAGE_NOTE：表格列以外、程式寫的行（說明句、區塊標記、沒有任何品目時的一句）。
-PAGE_NOTE = (r"^(上表はデータ上の \d+ 件のうち \d+ 件です。|データには承認の一部のみが含まれています。上表はそのうち \d+ 件です。|"
+# PAGE_NOTE：表格列以外、程式寫的行（說明句、區塊標記、沒有任何品目時的一句；2026-11-24 第二輪起另有公開頁補的「## 日本市販情報」標題，
+# 與 config/license_caption_trims.json 的表件數說明句改寫——後者只在頁面整頁重產後才會再出現）。
+PAGE_NOTE = (r"^(## 日本市販情報|上表はデータ上の \d+ 件のうち \d+ 件です。|データには承認の一部のみが含まれています。上表はそのうち \d+ 件です。|"
              r"<!-- licenses:(begin|end) -->|医薬品マスター（薬価基準収載品目、本レポートで使用したデータ）には本薬の成分を含む品目がありません。)$")
 
 

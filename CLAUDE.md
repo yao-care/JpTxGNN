@@ -693,3 +693,22 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
   單剤／配合剤標籤：正文說「すべて単剤」而依品名有配合剤的 0 句。site.py 的 FIGURES（reviews_from_edits 寫紀錄說明用）改成不寫件數。
   獨立寬偵測（數字不等於事實層總數／有效／削除、程式表列數、紀錄數任一者，或「すべて有効」而有效≠總數）：剩 3 句，都是「他に N 件」「このほかに N 件」的相對數，數字正確。checker 前後都是 P5 1（sulfasalazine，原有、無關）；gate exit 0。
 - 已知問題：lithium_citrate 的證據包收的是炭酸リチウム產品，概覽與程式表都列 4 件，正文寫「クエン酸リチウムの承認は確認できません」，原本就矛盾（證據包對照問題，未處理）。checker 的 ja 列狀態字（ROW_WORDS）不認得「薬価削除…」，程式表的削除列 checker 判不出狀態（排程照證據包原文寫，不影響同步）。
+
+## 第二輪：表件數說明句、劑型說法、缺表頁（2026-11-24）
+
+用戶 2026-11-24 第二輪決定（處理第一輪剩下的事）。待查清單裡 11-24 第一輪新增的 open 項目 0 筆（第一輪列待查 0 句），所以這輪處理的是派工點名的句子與全站掃描。
+- 表件數說明句：AI 正文裡只講舊表列了幾筆的句子（「上記は 8 件のうち主要な 5 件です」「主要な承認 5 件を示します」「（主要な 5 件を記載）」），跟程式表下的「上表はデータ上の M 件のうち N 件です。」重複、件數也會過期；
+  另有舊 AI 表有承認適応症欄時寫的「適応症の記載がある主な承認は次のとおり」（程式表沒有適応症欄）。逐句列在 `config/license_caption_trims.json`（52 頁 52 組 [原文, 改寫後]，空＝整句刪），
+  `scripts/sync_license_tables.py` 的 process／carry_block 套用（trim_captions；比照 FR 的 --captions，不寫查核框），gate 第 18 項（caption_problems）擋原文仍在頁面。
+  查核紀錄更正文字所在的句子不列：atenolol 只拿掉後面的「以下は主要な 5 件です。」，`jp-lic-20261117-atenolol-1` 同 id 重發補句尾；losartan 的同類句是 `jp-lic-20261106-losartan-1` 的更正文字，同 id 重發改寫。
+- 劑型說法：全站掃「すべて／いずれも／のみ／として市販」＋劑形字樣的句子，逐句對照證據包全部品項與医薬品マスター 2026-11-12 全件ファイル（同成分依品名、一般名處方名、YJ 碼前 7 碼）。
+  不成立的 10 句寫紀錄（`jp-lic-20261124b-*`：bisoprolol（另有ビソノテープ）、flurbiprofen 2 句（另有フロベン錠・パップ）、beclomethasone_dipropionate（點鼻粉末＋キュバール吸入エアゾール）、budesonide（另有ゼンタコート、コレチメント、レクタブル）、
+  cromoglicic_acid（另有吸入液）、menatetrenone（另有ケイツーシロップ・Ｎ静注）、vidarabine（另有點滴静注用）、moxifloxacin（另有アベロックス錠）；另 `jp-lic-20261117-flurbiprofen-1`、`jp-lic-20261106-cromoglicic_acid-1` 同 id 重發、`-2` 改錨）。
+  下一步條目只改括號裡的前提。成立而保留：anastrozole、fluconazole、fluvastatin、galantamine、naftopidil、pirfenidone、sennosides、allopurinol、flutamide、lorlatinib、nadifloxacin、sertraline、alimemazine、methylprednisolone、danazol、lornoxicam、pazopanib、lamivudine／levodopa（表上都是配合錠）等。
+  多數不成立的原因是證據包（drug_mapping.csv 依一般名對 DrugBank ID）沒收到同成分的其他劑型品目，頁面上的「上表」只是部分品目。
+- 缺表頁：公開頁沒有「## 日本市販情報」段落、證據包卻有紀錄的 32 頁（已知用途頁 27、預測頁 5）補段落與程式表（sync_license_tables.add_section：放在「安全性に関する考慮事項」→「結論と次のステップ」→「免責事項」之前；noindex 不補），gate 擋公開頁缺段落；
+  已有表的頁正文說「別途提示される許諾情報を参照」「表はサイト側のプログラムが掲載します」的 3 句（cabergoline、carboplatin、etanercept）寫紀錄改成指向上表。
+- lithium_citrate：證據包 4 張全是炭酸リチウム錠（drug_mapping.csv 以 drugbank_synonym「LITHIUM」把炭酸リチウム錠對到 DB14507 Lithium citrate；炭酸リチウムは DB14509），医薬品マスターにクエン酸リチウム製剤はない。
+  正文「クエン酸リチウムの承認は確認できません」成立，「炭酸リチウム製剤は含めていません」跟表相反，以 `jp-lic-20261124b-lithium_citrate-1` 只改括號；`jp-lic-20261117-lithium_citrate-1`（「日本では販売中」）同 id 重發。證據包對照沒改（要母目錄決定）。
+- 張數樣板：site.py 的 FIGURES 第一輪已改成不寫件數；有效紀錄的 replacement／note 裡寫死件數的 0 筆。
+- 正文有變的 96 頁 last_modified_at 改 2026-11-24。checker 前後都是 P5 1（sulfasalazine，原有）；gate exit 0。

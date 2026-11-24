@@ -22,6 +22,9 @@ program_rows 給 scripts/build_license_snapshot.py（快照存最多 20 列可�
 carry_block 給 scripts/sync_notes_to_docs.py 重寫整頁時移植舊頁的程式區塊；run 給 scripts/license_adapter.py 的 sync_tables。
 用法（repo 根目錄，先還原 data/）：python3 scripts/sync_license_tables.py [--dry-run] [頁 ...]
   --pin：從目前頁面的市場段落表格記下原表選列到 config/license_table_pins.json（只在換表前跑一次；已有的頁不覆蓋）
+表件數說明句（2026-11-24 第二輪，用戶決定）：AI 正文裡只講舊表列了幾筆的句子（「上記は主要な 5 件です」「主要な承認 5 件を示します」），
+跟程式表下的說明句重複、件數也會過期；逐句列在 config/license_caption_trims.json（[原文, 改寫後]，改寫後為空＝整句刪除），
+process／carry_block 套用（trim_captions），gate 第 18 項（caption_problems）擋原文仍在頁面。比照 FRTxGNN 的 --captions。
 """
 import json
 import re
@@ -83,6 +86,34 @@ def mix(recs):
 
 PINS_FILE = ROOT / "config" / "license_table_pins.json"
 _PINS = None
+TRIMS_FILE = ROOT / "config/license_caption_trims.json"
+_TRIMS = None
+
+
+def trims_for(stem):
+    global _TRIMS
+    if _TRIMS is None:
+        _TRIMS = json.loads(TRIMS_FILE.read_text(encoding="utf-8")).get("trims", {}) if TRIMS_FILE.exists() else {}
+    return _TRIMS.get(stem) or []
+
+
+def trim_captions(text, stem):
+    """config/license_caption_trims.json 的表件數說明句拿掉或改寫；整行變空就連行拿掉。回傳新內容（沒變原樣）"""
+    for old, new in trims_for(stem):
+        i = text.find(old)
+        if i < 0:
+            continue
+        a = text.rfind("\n", 0, i) + 1
+        b = text.find("\n", i)
+        b = len(text) if b < 0 else b
+        line = text[a:b].replace(old, new, 1)
+        line = re.sub(r"(?<=。) +", "", line).strip() if not new else line
+        text = text[:a] + line + text[b:] if line.strip() else text[:a] + text[b + 1:]
+    return re.sub(r"\n{3,}", "\n\n", text)
+
+
+def caption_problems(stem, text):
+    return [f"表件數說明句仍在頁面（跑 python3 scripts/sync_license_tables.py）：{old[:30]}" for old, _ in trims_for(stem) if old in text]
 
 
 def pins_for(stem):
@@ -165,12 +196,16 @@ def _is_prog(l):
     return bool(SHOW_RX.match(s)) or s in (NONE_LINE, OLD_PART)
 
 
-def process(text, tf, pins=()):
+def process(text, tf, pins=(), stem=None):
     """回傳新內容（沒變回 None）"""
+    orig = text
+    if stem:
+        text = trim_captions(text, stem)
     lines = strip_marks(text.split("\n"))
     a, b = bounds(lines)
     if a is None:
-        return None
+        t2 = add_section(text, tf, pins)
+        return t2 if t2 and t2 != orig else (text if text != orig else None)
     x, y = _first_table(lines, a, b)
     if x is None:
         lines = lines[:a] + [""] + wrap(block_for(tf, None, pins)) + [""] + [l for l in lines[a:] if l.strip() != NONE_LINE]
@@ -179,10 +214,29 @@ def process(text, tf, pins=()):
         rest = [l for l in lines[y + 1:b] if not _is_prog(l)]
         lines = lines[:x] + ([""] if lines[x - 1].strip() else []) + wrap(block_for(tf, n, pins)) + [""] + rest + lines[b:]
     t2 = re.sub(r"\n{3,}", "\n\n", "\n".join(lines))
-    return t2 if t2 != text else None
+    return t2 if t2 != orig else None
 
 
-def carry_block(old_text, new_text):
+# 2026-11-24 第二輪（用戶決定）：公開頁沒有「## 日本市販情報」段落、但證據包有紀錄的，補一個段落放程式表。
+# 位置：「## 安全性に関する考慮事項」之前（預測頁的固定順序）；沒有就「## 結論と次のステップ」之前；再沒有（已知用途頁）就「## 免責事項」之前。
+# noindex 頁與證據包沒有紀錄的頁不補。
+ADD_BEFORE = ("安全性に関する考慮事項", "結論と次のステップ", "免責事項")
+
+
+def add_section(text, tf, pins=()):
+    fm = text.split("---", 2)[1] if text.startswith("---") else ""
+    if re.search(r"^noindex:\s*true", fm, re.M) or not uniq(tf.get("records") or []):
+        return None
+    lines = text.split("\n")
+    heads = {m.group(1): i for i, l in enumerate(lines) for m in [re.match(r"^## (.+?)\s*$", l)] if m}
+    at = next((heads[h] for h in ADD_BEFORE if h in heads), None)
+    if at is None:
+        return None
+    sec = ["## " + SECS[0], ""] + wrap(block_for(tf, None, pins)) + [""]
+    return re.sub(r"\n{3,}", "\n\n", "\n".join(lines[:at] + sec + lines[at:]))
+
+
+def carry_block(old_text, new_text, stem=None):
     """sync_notes_to_docs.py 重寫整頁時用：舊頁的程式區塊移植到新頁的市場段落，取代新頁模型寫的第一張表；
     新頁段落沒有表時接在標題下。舊頁沒有程式區塊就原樣回傳新頁。"""
     old = old_text.replace("\r\n", "\n").split("\n")
@@ -199,7 +253,8 @@ def carry_block(old_text, new_text):
     else:
         rest = [l for l in lines[y + 1:b] if not _is_prog(l)]
         out = lines[:x] + [""] + blk + [""] + rest + lines[b:]
-    return re.sub(r"\n{3,}", "\n\n", "\n".join(out))
+    out = re.sub(r"\n{3,}", "\n\n", "\n".join(out))
+    return trim_captions(out, stem) if stem else out
 
 
 def bundle_file(stem):
@@ -267,7 +322,7 @@ def run(only=None, dry=False):
             continue
         crlf = "\r\n" in raw[:500]
         tf = json.loads(bf.read_text(encoding="utf-8")).get("pmda") or {}
-        new = process(raw.replace("\r\n", "\n"), tf, pins_for(page.stem))
+        new = process(raw.replace("\r\n", "\n"), tf, pins_for(page.stem), page.stem)
         if new is None:
             continue
         changed.append(page.stem)
