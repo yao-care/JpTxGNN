@@ -414,6 +414,14 @@ def run(check=False, only=None, touch_date=False):
             changed.append(fname)
             if not check:
                 path.write_text(touch(new) if touch_date else new, encoding="utf-8")
+    if not check:
+        # 2026-11-24：正文許可證張數依快照事實層改寫（scripts/rewrite_license_counts.py；全頁，不只有紀錄的頁；比照 Hk／Kr／My）
+        import importlib.util as _ilu
+        _spec = _ilu.spec_from_file_location("rewrite_license_counts", Path(__file__).resolve().parent / "rewrite_license_counts.py")
+        _rlc = _ilu.module_from_spec(_spec)
+        _spec.loader.exec_module(_rlc)
+        _cc, _ = _rlc.run(only=only, touch_date=touch_date)
+        changed += [f for f in _cc if f not in changed]
     return problems, changed
 
 

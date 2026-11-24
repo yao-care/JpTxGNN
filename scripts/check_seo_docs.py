@@ -25,13 +25,16 @@
   17. docs/_data/drug_reviews.json 的查核紀錄（更正／加註／待重審／重審結果）都還套在藥物頁上
       （頁面被產線或排程改寫會蓋掉；修法：python3 scripts/apply_drug_reviews.py）（2026-11-12，本站查核機制）。
   18. 藥物頁的許可證資訊＝snapshots/jp_licenses.json.gz：市場段落表格的許可證號屬於本藥、狀態列與張數列＝事實層寫法、
-      表格列狀態不跟事實相反（src/jptxgnn/regulatory/licenses.py）（2026-11-12）。
+      表格列狀態不跟事實相反（src/jptxgnn/regulatory/licenses.py）（2026-11-12）；市場段落的程式許可證表（<!-- licenses:begin/end -->，
+      scripts/sync_license_tables.py）＝快照重算的結果、段落裡沒有程式區塊以外的許可證表（2026-11-24）。
   19. 藥物頁頁首等級＝快速總覽等級格的等級（規則見 src/jptxgnn/regulatory/site.py 的 HEADER_RULE；主預測撤回時為其他預測表最高
       等級或 N/A），parent 對應列表頁（src/jptxgnn/regulatory/page_format.py）（2026-11-12）。
   20. 查核紀錄裡重審撤回（verdict=withdraw）的預測，不出現在 search-index.json、FHIR ClinicalUseDefinition、
       證據監測清單 scripts/drug_list.json（src/jptxgnn/regulatory/withdrawn.py）（2026-11-12）。
   21. 公開藥物頁寫「作用機轉資料不可得」的，有附出處的作用機轉紀錄（drug_reviews.json action=mechanism）
       或列在待查清單（source＝mechanism of action，附補不到的原因）（scripts/build_mechanism_reviews.py）（2026-11-19）。
+  22. 正文許可證張數＝程式依快照事實層改寫的結果（scripts/rewrite_license_counts.py、src/jptxgnn/regulatory/count_prose.py；
+      再跑一次不會變）（2026-11-24）。
 
 Tw 專屬的檢查（TFDA 許可證表、docs/_data/drug_reviews.json 人工查核紀錄、drug_stats.json）沒有移植；
 本站之後若建立同類機制，再把對應檢查加回來。
@@ -836,6 +839,8 @@ if _hdr:
 _left = _Wd.published_withdrawn(DOCS)
 if _left:
     errors.append(f"重審撤回的預測仍對外發布 {len(_left)} 處：{'；'.join(_left[:5])}")
+from rewrite_license_counts import check_errors as _count_errors  # noqa: E402
+errors += _count_errors()  # 22) 正文許可證張數＝程式改寫結果（2026-11-24）
 
 if errors:
     print(f"docs SEO 守門：✗ {len(errors)} 項")

@@ -367,6 +367,15 @@ indication_count: {indication_count}
 """
 
         full_content = front_matter + demote_body_h1(content) + disclaimer + "\n---\n\n"
+        # 2026-11-24：舊頁的程式許可證區塊（<!-- licenses:begin/end -->）移植到新頁，notes 裡模型寫的許可證表不得蓋回
+        # （規則見 scripts/sync_license_tables.py carry_block；比照 HkTxGNN／SgTxGNN）
+        _page = docs_drugs_dir / f"{drug_name}.md"
+        if _page.exists():
+            import importlib.util as _ilu_s
+            _sp = _ilu_s.spec_from_file_location("sync_license_tables", Path(__file__).resolve().parent / "sync_license_tables.py")
+            _slt = _ilu_s.module_from_spec(_sp)
+            _sp.loader.exec_module(_slt)
+            full_content = _slt.carry_block(_page.read_text(encoding="utf-8"), full_content)
         full_content = finalize_front_matter(docs_drugs_dir / f"{drug_name}.md", full_content, base_dir)
         (docs_drugs_dir / f"{drug_name}.md").write_text(full_content, encoding="utf-8")
         synced += 1
@@ -392,6 +401,9 @@ indication_count: {indication_count}
     if synced_names:
         import sys as _sys2
         _sys2.path.insert(0, str(Path(__file__).resolve().parent))
+        # 2026-11-24：市場段落的許可證表依證據包重排成程式表（新頁、或舊頁沒有程式區塊時；scripts/sync_license_tables.py）
+        import sync_license_tables as _slt2
+        print(f"程式許可證表：{len(_slt2.run(set(synced_names)))} 頁")
         import apply_drug_reviews as _adr
         _probs, _chg = _adr.run(only={f"{n}.md" for n in synced_names})
         print(f"查核紀錄重套：{len(_chg)} 頁、問題 {len(_probs)} 項")

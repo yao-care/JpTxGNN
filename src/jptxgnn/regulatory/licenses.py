@@ -5,8 +5,10 @@
   2. 概覽表的狀態列與張數列＝事實層的寫法：本站 tools/txgnn/.claude/check_drug_page.py 的 M1／M4 同一套函式
      （marketed_text／not_marketed_text／unknown_status_text／not_reg_text／NO_CENTRAL、count_text）。
   3. 表格列寫的狀態不跟事實相反（checker：有效許可證寫成註銷、row_status_conflicts）。
-本站的許可證表是報告裡的表格（沒有程式產生的許可證表），所以不驗表格列內容；事實層只涵蓋部分來源時（checker X_SCOPE），
-跟 checker 一樣只驗資料能證明的部分。
+  4. 程式產生的許可證表（2026-11-24 起，scripts/sync_license_tables.py）：市場段落的 <!-- licenses:begin --> … <!-- licenses:end -->
+     內＝依快照重算的結果（表頭＝程式表頭；狀態欄以外逐列＝快照 rows 的前 N 列，狀態欄由第 3 項驗）；表下說明句＝程式寫法；標記成對；
+     市場段落裡不得有程式區塊以外的許可證表（報告寫的表會蓋回時，sync_notes_to_docs.py 用 carry_block 移植程式區塊）。
+事實層只涵蓋部分來源時（checker X_SCOPE），跟 checker 一樣只驗資料能證明的部分。
 修法：資料變了→跑每週排程（重排狀態格、狀態列、張數列並重建快照）；正文或表格寫錯→寫查核紀錄（docs/_data/drug_reviews.json）
 再跑 scripts/apply_drug_reviews.py。
 """
@@ -34,6 +36,58 @@ def CK():
     m = importlib.util.module_from_spec(s)
     s.loader.exec_module(m)
     return m
+
+
+@lru_cache(maxsize=None)
+def S():
+    """本站的程式許可證表模組（scripts/sync_license_tables.py）"""
+    p = ROOT / "scripts" / "sync_license_tables.py"
+    if not p.exists():
+        return None
+    s = importlib.util.spec_from_file_location(f"{SITE}_sync_license_tables", p)
+    m = importlib.util.module_from_spec(s)
+    s.loader.exec_module(m)
+    return m
+
+
+def _nostatus(row):
+    """程式表一列去掉最後一欄（狀態）：狀態由每週排程依事實層改寫，另由 row_status_conflicts 驗；其他欄要跟快照一樣"""
+    return row.strip().strip("|").rsplit("|", 1)[0].strip()
+
+
+def program_block_problems(e, lines):
+    s = S()
+    if s is None or "rows" not in e:
+        return []
+    errs = []
+    for a, b in _sections(lines)[:1]:
+        sec = lines[a:b]
+        has_b, has_e = s.BEGIN in sec, s.END in sec
+        if has_b != has_e or sec.count(s.BEGIN) > 1:
+            return ["市場段落的程式區塊標記不成對或不只一組"]
+        if not has_b:
+            return ["市場段落沒有程式許可證表（跑 python3 scripts/sync_license_tables.py）"]
+        i, j = sec.index(s.BEGIN), sec.index(s.END)
+        blk = [x for x in sec[i + 1:j] if x.strip()]
+        tb = [x for x in blk if x.startswith("|")]
+        rest = [x.strip() for x in blk if not x.startswith("|")]
+        n = len(tb) - 2
+        nrows = e.get("nrows", 0)
+        want = ([s.PART.format(n=n)] if e.get("tpart") else [s.SHOW.format(n=n, m=nrows)] if nrows > n else [])
+        if not e["rows"]:
+            if tb or rest != [s.NONE_LINE]:
+                errs.append("快照沒有任何許可證，程式區塊應只有「" + s.NONE_LINE + "」")
+        elif not tb or tb[0].strip() != s.HEAD[0]:
+            errs.append("程式區塊的表頭不是程式表頭")
+        elif n < 1 or [_nostatus(x) for x in tb[2:]] != [_nostatus(x) for x in e["rows"][:n]]:
+            k = next((k for k, (x, y) in enumerate(zip(tb[2:], e["rows"])) if _nostatus(x) != _nostatus(y)), min(n, len(e["rows"])))
+            errs.append(f"程式表第 {k + 1} 列跟快照重算的結果不同（程式表被手改或資料已更新：跑 scripts/sync_license_tables.py）")
+        elif rest != want:
+            errs.append(f"程式區塊表格下方的程式文字應為「{'／'.join(want) or '（無）'}」")
+        outside = [k for k, x in enumerate(sec) if x.startswith("|") and not (i < k < j)]
+        if outside:
+            errs.append(f"市場段落有程式區塊以外的表格：{sec[outside[0]][:40]}")
+    return errs
 
 
 @lru_cache(maxsize=None)
@@ -109,6 +163,7 @@ def page_problems(stem: str, text: str) -> list[str]:
                     k = ck.mv2.norm_id(_id_token(cells[0])) if cells else ""
                     if k and re.search(r"\d", k) and k not in own and len(k) >= 4:
                         errs.append(f"市場段落表格的許可證號不屬於本藥：{cells[0][:30]}")
+    errs += program_block_problems(e, lines)
     fc = e.get("facts")
     if not fc:
         return errs

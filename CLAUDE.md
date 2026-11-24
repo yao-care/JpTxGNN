@@ -675,3 +675,21 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
 例：abatacept「既存適応症：日本の承認情報に適応症の記載なし」→「薬価基準の品目：3 件（現在収載 3 件）」；2026-11-19 改了 129 頁。
 由母目錄 `.claude/drug_meta_description.py --apply --site JpTxGNN` 產生（站上複本 `tools/txgnn/.claude/drug_meta_description.py --apply --root .`），改動記在 `docs/_data/description_local_log.json`（pages＝目前句尾與原字樣、entries＝每次改動前後整行，可還原）。快照數字變了重跑會換新數字；`apply_drug_reviews.py`、`build_license_snapshot.py` 結尾會自動 --apply，`check_seo_docs.py` 跑 --check 擋「還是未記載句尾」或「數字跟快照不符」。只改 front matter，lastmod_fix 不算正文改動、last_modified_at 不動。
 同日修：`apply_drug_reviews.py`、`build_license_snapshot.py` 結尾重算 local_facts 的 atexit 掛鉤在結束時取不到 `__file__`（NameError，之前其實沒跑成），改成先算好路徑。
+
+## 許可證表與正文件數由程式維護（2026-11-24）
+
+用戶 2026-11-24 決定（各站同日，第二波）：每週許可證排程只改得到概覽表狀態列／張數列，市場段落 AI 寫的自由格式許可證表（「| 承認番号 | 商品名 | 剤形 | 承認適応症 |」；號碼其實是医薬品マスターの医薬品コード，適応症欄是 AI 依 KEGG 寫的）與正文寫死的件數跟著医薬品マスター（薬価削除）過期、checker 擋頁；改成程式產生、每週自動同步。
+- A. `scripts/sync_license_tables.py`：「## 日本市販情報」段落的第一張表換成程式依證據包 pmda.records 產生的表「| 医薬品コード | 医薬品名・規格名 | 状態 |」（欄位照医薬品マスター原文，名稱＝漢字名称；狀態＝有効／薬価削除（YYYY-MM-DD[、後継コード N]），照證據包 status，不寫取消）。
+  選列照換表當時原表依序列出的医薬品コード（`config/license_table_pins.json`，327 頁；正文「上記は主要な 5 件」「残りの…」才對得上），其餘有効在前；列數＝原表列數（最多 20），沒有表的頁補 min(5, 總數) 列；
+  總數多於列數時表下「上表はデータ上の M 件のうち N 件です。」，證據包只收一部分時「データには承認の一部のみが含まれています。上表はそのうち N 件です。」；known_use_pages 舊程式表的部分紀錄註記一併拿掉。
+  前後 `<!-- licenses:begin/end -->`；快照存 rows／nrows／tpart／mix（單剤／配合剤依品名「配合」，事實層 single_total 每張都算單剤）；gate 第 18 項（licenses.py program_block_problems）擋程式區塊≠快照重算、市場段落有程式區塊以外的表。
+  接上：`scripts/license_adapter.py` 的 `sync_tables`＋`PAGE_NOTE`（每週排程重排、3b 放行說明句）、`scripts/build_license_snapshot.py` 結尾（不帶 --ws 也能跑；`--no-rewrite` 不跑）、`scripts/sync_notes_to_docs.py`（carry_block 移植程式區塊、新頁重排）。
+- B. `scripts/rewrite_license_counts.py`＋`src/jptxgnn/regulatory/count_prose.py`（照 Kr／My／Hk 移植，日文句型：「X 件の承認のうち Y 件が有効」「承認 X 件中、有効なものは Y 件」「有効な承認は N 件」「Z 件は薬価基準から削除済み」）；
+  有保留（少なくとも、以上、一部、可能性、他に、残り）、劑型或廠商子集、顯示筆數（上記は主要な N 件）、partial 頁不動；「有効な承認は合計 N 件」checker 讀成總數，不當有效數改；單剤／配合剤只驗不改；同一行有判斷不了的整行不動。
+  `apply_drug_reviews.py`（非 --check）與 `build_license_snapshot.py` 結尾自動跑；gate 第 22 項擋「再跑一次會變」。
+- 2026-11-24 套用（資料 data-20261117-111616）：程式表 333 頁（公開頁有市場段落 326 頁全部＋noindex；原有 AI 表 327 頁取代、沒有表的 6 頁補表）；正文件數程式改寫 4 句（amantadine 19→18、cephalexin うち有効 12→11、ibuprofen 10→8、nicardipine 12→11）；判斷不了而列待查 0 句。
+  錨在舊表列上的 12 筆 `jp-row-*` 標 superseded。查核紀錄更正文字裡的件數（用戶同日決定）：65 筆 replacement 改成不寫件數的寫法（「有効なものと薬価基準から削除済みのものがあります（件數はクイック概要を参照）」；只講舊表筆數的 bosentan、bromperidol 刪掉），
+  223 筆 note 拿掉「データ上の収載は N 件、うち有効 M 件です。」與「データ上の X 件のうち有効（収載中）は Y 件で、」，哪幾張薬価削除照留；同 id 重發，前版存 history。`jp-lic-20261112-bimatoprost-1`（「残りの 3 件も有効」）依新事實改寫：「わかもと」2026-03-31 薬価削除。
+  單剤／配合剤標籤：正文說「すべて単剤」而依品名有配合剤的 0 句。site.py 的 FIGURES（reviews_from_edits 寫紀錄說明用）改成不寫件數。
+  獨立寬偵測（數字不等於事實層總數／有效／削除、程式表列數、紀錄數任一者，或「すべて有効」而有效≠總數）：剩 3 句，都是「他に N 件」「このほかに N 件」的相對數，數字正確。checker 前後都是 P5 1（sulfasalazine，原有、無關）；gate exit 0。
+- 已知問題：lithium_citrate 的證據包收的是炭酸リチウム產品，概覽與程式表都列 4 件，正文寫「クエン酸リチウムの承認は確認できません」，原本就矛盾（證據包對照問題，未處理）。checker 的 ja 列狀態字（ROW_WORDS）不認得「薬価削除…」，程式表的削除列 checker 判不出狀態（排程照證據包原文寫，不影響同步）。
