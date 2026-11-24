@@ -355,6 +355,28 @@ def main(argv):
     S["steps"].append(f"概覽表狀態／張數列改 {sum(len(v) for v in rows.values())} 格（{len(rows)} 頁）；許可證表狀態格改 {len(tch)} 格"
                       + (f"；本站沒有對應寫法、未改 {len(unsynced)} 格" if unsynced else ""))
     S["unsynced"] = unsynced[:200]
+    # 3a'（2026-11-24，用戶決定「正文張數自動改寫推到各站」）：站上有正文張數改寫（scripts/rewrite_license_counts.py）的站，
+    #     先建新快照（build_license_snapshot.py 寫完快照會用新事實重排程式表、改寫正文張數），再進 3b／3c；
+    #     以前這步在 4b，checker 會先因舊張數句擋下該頁、等不到改寫（DE 2026-11-24 回報）。
+    #     改寫器改到的正文行記進 prose_ok，3b 只放行這些行（其他非表格改動照舊整批還原）。4b 會再跑一次（冪等）。
+    prose_ok = set()
+    if (BASE / site / "scripts/rewrite_license_counts.py").exists() and (BASE / site / "scripts/build_license_snapshot.py").exists():
+        import difflib
+        dd = BASE / site / "docs/_drugs"
+        pre = {p.name: p.read_text(encoding="utf-8").replace("\r\n", "\n") for p in dd.glob("*.md")}
+        r = run([PY, "scripts/build_license_snapshot.py", "--ws", str(BASE)], cwd=BASE / site, check=False)
+        if r.returncode != 0:
+            git(site, "checkout", "--", "docs", *(["snapshots"] if (BASE / site / "snapshots").exists() else []))
+            finish(4, f"scripts/build_license_snapshot.py（正文張數改寫前）失敗，頁面已還原：{(r.stdout + r.stderr)[-300:]}")
+        n_lines = 0
+        for p in dd.glob("*.md"):
+            post = p.read_text(encoding="utf-8").replace("\r\n", "\n")
+            if pre.get(p.name) is None or pre[p.name] == post:
+                continue
+            for l in difflib.unified_diff(pre[p.name].split("\n"), post.split("\n"), lineterm="", n=0):
+                if l[:1] in "+-" and not l.startswith(("+++", "---")) and not l[1:].startswith("|"):
+                    prose_ok.add((f"docs/_drugs/{p.name}", l)); n_lines += 1
+        S["steps"].append(f"正文張數改寫（build_license_snapshot.py，先於 checker）：改到 {n_lines} 行（不含表格列）")
     if not changed_drug_pages(site):
         finish(0, "頁面上的許可證欄位已與最新資料一致，不改頁")
 
@@ -366,7 +388,8 @@ def main(argv):
         note = getattr(ad, "PAGE_NOTE", None)
         bad_l = [l for l in difflib.unified_diff(old_t, new_t, lineterm="", n=0)
                  if l[:1] in "+-" and not l.startswith(("+++", "---")) and not l[1:].startswith("|")
-                 and not (note and (not l[1:].strip() or re.match(note, l[1:].strip())))]
+                 and not (note and (not l[1:].strip() or re.match(note, l[1:].strip())))
+                 and (rel, l) not in prose_ok]
         if bad_l:
             S["pages"] = [rel]
             git(site, "checkout", "--", "docs")
