@@ -67,7 +67,7 @@ jobs:
           set -e
           echo "code=$code" >> "$GITHUB_OUTPUT"
           cat .license_refresh/summary.md >> "$GITHUB_STEP_SUMMARY"
-          python3 -c "import json;s=json.load(open('.license_refresh/summary.json'));print('records=%d' % (len(s.get('license_changes',[]))+len(s.get('pack_changes',[]))));print('held=%d' % len(s.get('held',[])));print('unsynced=%d' % len(s.get('unsynced',[])));print('missing=%d' % (1 if s.get('missing_alert') else 0));print('verify=%d' % len(s.get('to_verify',[])))" >> "$GITHUB_OUTPUT"
+          python3 -c "import json;s=json.load(open('.license_refresh/summary.json'));print('records=%d' % (len(s.get('license_changes',[]))+len(s.get('pack_changes',[]))));print('held=%d' % len(s.get('held',[])));print('unsynced=%d' % len(s.get('unsynced',[])));print('missing=%d' % (1 if s.get('missing_alert') else 0));print('verify=%d' % len(s.get('to_verify',[])));print('flipflop=%d' % len(s.get('flipflop',[])))" >> "$GITHUB_OUTPUT"
 
       - name: Commit and push pages
         if: steps.refresh.outputs.code == '0' && inputs.dry_run != 'true'
@@ -107,7 +107,7 @@ jobs:
           include-hidden-files: true
 
       - name: Open issue on stop
-        if: (steps.refresh.outputs.code != '0' || steps.refresh.outputs.held != '0' || steps.refresh.outputs.unsynced != '0' || steps.refresh.outputs.missing != '0' || steps.refresh.outputs.verify != '0') && inputs.dry_run != 'true'
+        if: (steps.refresh.outputs.code != '0' || steps.refresh.outputs.held != '0' || steps.refresh.outputs.unsynced != '0' || steps.refresh.outputs.missing != '0' || steps.refresh.outputs.verify != '0' || steps.refresh.outputs.flipflop != '0') && inputs.dry_run != 'true'
         run: |
           title="許可證排程／來源監看需要人看（exit ${{ steps.refresh.outputs.code }}，擋下 ${{ steps.refresh.outputs.held }} 頁，未同步 ${{ steps.refresh.outputs.unsynced }} 格）"
           n=$(gh issue list --label license-refresh --state open --json number -q 'length')

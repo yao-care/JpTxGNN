@@ -12,6 +12,7 @@
 結果寫 <站>/.license_refresh/summary.json 與 summary.md（workflow 拿來開 issue／寫 run summary）。
 用法（工作目錄）：python3 .claude/license_refresh_20261029.py 站 [--dry-run]
 """
+import copy
 import importlib.util
 import json
 import os
@@ -86,6 +87,47 @@ def fix_lastmod(site, today):
     return n_body
 
 
+HIST = "snapshots/license_status_history.json.gz"
+FLIP_DAYS = 28
+
+
+def load_history(site):
+    """每站 snapshots/license_status_history.json.gz：{許可證號: [[日期, 前狀態, 後狀態(, "confirmed")], ...]}，排程寫回的狀態變更（2026-11-24 起記）"""
+    p = BASE / site / HIST
+    if not p.exists():
+        return {}
+    import gzip
+    return json.loads(gzip.decompress(p.read_bytes()).decode("utf-8"))
+
+
+def save_history(site, hist, logged, date):
+    import gzip
+    for rid, a, b in sorted(logged, key=str):
+        e = [date, a, b]
+        if e not in hist.setdefault(rid, []):
+            hist[rid].append(e)
+    p = BASE / site / HIST
+    p.parent.mkdir(parents=True, exist_ok=True)
+    p.write_bytes(gzip.compress(json.dumps(hist, ensure_ascii=False, sort_keys=True).encode("utf-8"), mtime=0))
+
+
+def flip_back(hist, rid, cur, new, today):
+    """這次要把 cur 改成 new；若 28 天內有一筆 new→cur 的變更（＝剛變過、現在又翻回去）回傳該筆的說明，否則 None。
+    人工確認過的變更（第 4 欄 "confirmed"）不算。2026-11-24 用戶決定（FR BDPM 11-13 一度把 11-12 已 archivée／abrogée 的 AMM
+    列回 active，排程照單全收，頁面與查核紀錄跟著翻來覆去）"""
+    t0 = datetime.strptime(today, "%Y-%m-%d")
+    for e in reversed(hist.get(rid, [])):
+        if len(e) > 3 and e[3] == "confirmed":
+            continue
+        try:
+            days = (t0 - datetime.strptime(e[0], "%Y-%m-%d")).days
+        except ValueError:
+            continue
+        if 0 <= days <= FLIP_DAYS and e[1] == new and e[2] == cur:
+            return f"{e[0]} 才由「{new}」改成「{cur}」"
+    return None
+
+
 def main(argv):
     site = next(a for a in argv if a.endswith("TxGNN"))
     dry = "--dry-run" in argv
@@ -105,6 +147,12 @@ def main(argv):
             md += ["", "### checker 非 0 的頁", ""] + [f"- `{x}`" for x in S["checker_bad"]]
         if S.get("to_verify"):
             md += ["", f"### 狀態列變成全部註銷／查無、要對全量來源依成分確認的頁（{len(S['to_verify'])}）", ""] + [f"- `{x}`" for x in S["to_verify"]]
+        if S.get("flipflop"):
+            md += ["", f"### 反覆跳動、擋下等人確認的許可證（{len(S['flipflop'])}）", "",
+                   "28 天內剛變過一次、這次的新資料又要翻回去；疑似來源資料暫時性錯誤，排程不寫回。請對主管機關的單張查詢頁確認後，"
+                   "在 `snapshots/license_status_history.json.gz` 該號那一筆變更的第 4 欄加 `\"confirmed\"`（表示這次翻回去是真的；或等下一輪資料穩定）再重跑。", "",
+                   "| 證據包 | 許可證 | 現狀 → 新資料 | 28 天內的變更 |", "|---|---|---|---|"] + \
+                  ["| " + x.replace("｜", " | ", 3) + " |" for x in S["flipflop"]]
         if S.get("merged"):
             md += ["", f"### 合併同號紀錄（{len(S['merged'])}）", ""] + [f"- {x}" for x in S["merged"]]
         if S.get("unsynced"):
@@ -198,6 +246,8 @@ def main(argv):
 
     # 2b. 寫回證據包（下載不到的許可證保留原狀態）
     n_rec, n_bundle, changes, merges = 0, 0, [], []
+    hist = load_history(site)
+    flips, flip_ok, logged = set(), set(), set()
     for f in bundles:
         b = json.loads(f.read_text(encoding="utf-8"))
         ch = bool(getattr(ad, "preprocess", None) and ad.preprocess(b))  # 站專屬的前處理（例：EMA 獸用許可移出）
@@ -210,12 +260,32 @@ def main(argv):
             nv = idx.get(ad.record_id(r))
             if nv is not None:
                 before = r.get("status")
+                rid = ad.record_id(r)
+                # 2026-11-24 反覆跳動防呆：這次的變更若正好把 28 天內記過的一次變更翻回去，先擋下（見 flip_back）
+                probe = copy.deepcopy(r)
+                if ad.update(probe, nv) and probe.get("status") != before:
+                    fb = flip_back(hist, rid, before, probe.get("status"), S["date"])
+                    if fb:
+                        v = ad.verify(rid) if hasattr(ad, "verify") else None
+                        if v is None or v != probe.get("status"):
+                            flips.add((f.parent.name, rid, before, probe.get("status"), fb, v))
+                            continue
+                        flip_ok.add(rid)
                 if ad.update(r, nv):
-                    ch = True; n_rec += 1; changes.append(f"{f.parent.name} {ad.record_id(r)} {before}→{r.get('status')}")
+                    ch = True; n_rec += 1; changes.append(f"{f.parent.name} {rid} {before}→{r.get('status')}")
+                    if before != r.get("status"):
+                        logged.add((rid, before, r.get("status")))
         if ch:
             n_bundle += 1
             if not dry:
                 f.write_text(json.dumps(b, ensure_ascii=False, indent=2), encoding="utf-8")
+    if flips:
+        S["flipflop"] = [f"{pk}｜{rid}｜{a} → {b_}｜{fb}" + (f"｜線上查核：{v}" if v is not None else "") for pk, rid, a, b_, fb, v in sorted(flips, key=str)][:300]
+        S["steps"].append(f"反覆跳動擋下 {len({x[1] for x in flips})} 張許可證（{len(flips)} 筆紀錄）：28 天內剛變過、這次又要翻回去，保留現狀等人確認")
+    if flip_ok:
+        S["steps"].append(f"反覆跳動但線上查核確認新狀態的 {len(flip_ok)} 張照常更新")
+    if not dry and logged:
+        save_history(site, hist, logged, S["date"])
     mset = set(merges)  # 合併同號紀錄另列（2026-11-06 用戶決定），不算進狀態變動與停損比例
     n_id = len({c.split(" ")[1] for c in changes if " preprocess " not in c and c not in mset})  # 同一張許可證在證據包裡可能重複多筆（例如 CO 每個包裝一筆）
     S["steps"].append(f"許可證狀態有變 {n_rec} 筆（{n_id} 張不重複許可證）、{n_bundle} 個藥"
