@@ -2311,7 +2311,9 @@ def check_page(site, f, cls, want_noindex):
     for m in re.finditer(r"([A-Za-z][A-Za-z' \-]{3,80}?)\s*\(([A-Z][A-Z0-9-]{1,6})\)", body):
         abbr.setdefault(norm_name(m.group(1).split(",")[-1]), set()).add(m.group(2))
     if removed:
-        for line in body.split("\n") + [desc]:
+        # 2026-11-24（用戶決定）：查核框是另外維護的內容，框裡會引用被更正的原句；同 M3／P5（2026-10-29）先拿掉再查，
+        # 否則已更正掉的「已移除預測」原文會一直被當成正文（Hk regorafenib 每週被擋）
+        for line in strip_managed(body).split("\n") + [desc]:
             if line.startswith("|") and not score_tokens(line):
                 continue  # 表格只看帶分數的列（已知用途表、原適應症列不算）
             if line.startswith("#"):
