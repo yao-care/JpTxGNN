@@ -3,7 +3,7 @@ layout: default
 title: Brivaracetam
 parent: 既知の用途のみ（新規予測なし）
 nav_order: 63
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Brivaracetam: 日本における既知の用途と市場状況。現時点で新たな候補適応症はありません"
 predicted_indications: []
 indication_count: 0
@@ -68,6 +68,18 @@ Brivaracetam(ブリバラセタム)について、TxGNNモデルのスコア0.99
 |------|
 | 部分てんかん (partial epilepsy) |
 | 部分運動てんかん (partial motor epilepsy) |
+
+## 日本市販情報
+
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622954701 | ブリィビアクト錠25mg | 有効 |
+| 622954801 | ブリィビアクト錠50mg | 有効 |
+| 622955201 | ブリィビアクト静注25mg 2.5mL | 有効 |
+
+<!-- licenses:end -->
 
 ## 免責事項
 

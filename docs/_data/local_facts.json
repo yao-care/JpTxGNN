@@ -21,11 +21,11 @@
   "items_current": 1552
  },
  "reviews": {
-  "records": 544,
+  "records": 557,
   "pages": 286,
   "public_pages_with_records": 285,
   "by_action": {
-   "correct": 295,
+   "correct": 308,
    "mechanism": 249
   }
  },
@@ -186,14 +186,80 @@
  },
  "recent_reviews": [
   {
-   "t": "Zaltoprofen",
-   "u": "/drugs/zaltoprofen/",
-   "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
-   "d": "2026-11-17"
-  },
-  {
    "t": "Vidarabine",
    "u": "/drugs/vidarabine/",
+   "s": "訂正：ビダラビンの剤形は外用剤だけではない（点滴静注用もある）",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Moxifloxacin",
+   "u": "/drugs/moxifloxacin/",
+   "s": "訂正：日本の製剤は点眼薬だけではない（経口錠もある）",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Menatetrenone",
+   "u": "/drugs/menatetrenone/",
+   "s": "訂正：メナテトレノンの国内製剤は経口カプセルだけではない",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Lithium Citrate",
+   "u": "/drugs/lithium-citrate/",
+   "s": "訂正：上表の品目は炭酸リチウム製剤（「含めていません」ではない）",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Flurbiprofen",
+   "u": "/drugs/flurbiprofen/",
+   "s": "訂正：日本の剤形はテープ剤だけではない（パップ剤・経口錠もある）",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Etanercept",
+   "u": "/drugs/etanercept/",
+   "s": "訂正：品目一覧は「別途提示」ではなく本ページの表に掲載",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Cromoglicic Acid",
+   "u": "/drugs/cromoglicic-acid/",
+   "s": "訂正：日本の製剤は「点眼液のみ」ではない（吸入液もある）",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Carboplatin",
+   "u": "/drugs/carboplatin/",
+   "s": "訂正：品目の表は本ページに掲載済み",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Cabergoline",
+   "u": "/drugs/cabergoline/",
+   "s": "訂正：品目一覧は「別途提示」ではなく本ページの表に掲載",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Budesonide",
+   "u": "/drugs/budesonide/",
+   "s": "訂正：ブデソニドの国内製剤は吸入剤だけではない",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Bisoprolol",
+   "u": "/drugs/bisoprolol/",
+   "s": "訂正：ビソプロロールの剤形は経口錠だけではない（貼付剤もある）",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Beclomethasone Dipropionate",
+   "u": "/drugs/beclomethasone-dipropionate/",
+   "s": "訂正：国内製剤は「点鼻液と吸入パウダーのみ」ではない",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Zaltoprofen",
+   "u": "/drugs/zaltoprofen/",
    "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
    "d": "2026-11-17"
   },
@@ -262,122 +328,56 @@
    "u": "/drugs/propranolol/",
    "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
    "d": "2026-11-17"
-  },
-  {
-   "t": "Propafenone",
-   "u": "/drugs/propafenone/",
-   "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
-   "d": "2026-11-17"
-  },
-  {
-   "t": "Pergolide",
-   "u": "/drugs/pergolide/",
-   "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
-   "d": "2026-11-17"
-  },
-  {
-   "t": "Oxybutynin",
-   "u": "/drugs/oxybutynin/",
-   "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
-   "d": "2026-11-17"
-  },
-  {
-   "t": "Nicardipine",
-   "u": "/drugs/nicardipine/",
-   "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
-   "d": "2026-11-17"
-  },
-  {
-   "t": "Metoprolol",
-   "u": "/drugs/metoprolol/",
-   "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
-   "d": "2026-11-17"
-  },
-  {
-   "t": "Methotrexate",
-   "u": "/drugs/methotrexate/",
-   "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
-   "d": "2026-11-17"
-  },
-  {
-   "t": "Mesalazine",
-   "u": "/drugs/mesalazine/",
-   "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
-   "d": "2026-11-17"
-  },
-  {
-   "t": "Menatetrenone",
-   "u": "/drugs/menatetrenone/",
-   "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
-   "d": "2026-11-17"
-  },
-  {
-   "t": "Lorazepam",
-   "u": "/drugs/lorazepam/",
-   "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
-   "d": "2026-11-17"
-  },
-  {
-   "t": "Lithium Citrate",
-   "u": "/drugs/lithium-citrate/",
-   "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
-   "d": "2026-11-17"
-  },
-  {
-   "t": "Limaprost",
-   "u": "/drugs/limaprost/",
-   "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
-   "d": "2026-11-17"
   }
  ],
  "recent_licence_reviews": [
   {
-   "t": "Zaltoprofen",
-   "u": "/drugs/zaltoprofen/",
-   "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
-   "d": "2026-11-17"
-  },
-  {
    "t": "Vidarabine",
    "u": "/drugs/vidarabine/",
-   "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
-   "d": "2026-11-17"
+   "s": "訂正：ビダラビンの剤形は外用剤だけではない（点滴静注用もある）",
+   "d": "2026-11-24"
   },
   {
-   "t": "Valproic Acid",
-   "u": "/drugs/valproic-acid/",
-   "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
-   "d": "2026-11-17"
+   "t": "Moxifloxacin",
+   "u": "/drugs/moxifloxacin/",
+   "s": "訂正：日本の製剤は点眼薬だけではない（経口錠もある）",
+   "d": "2026-11-24"
   },
   {
-   "t": "Tropicamide",
-   "u": "/drugs/tropicamide/",
-   "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
-   "d": "2026-11-17"
+   "t": "Menatetrenone",
+   "u": "/drugs/menatetrenone/",
+   "s": "訂正：メナテトレノンの国内製剤は経口カプセルだけではない",
+   "d": "2026-11-24"
   },
   {
-   "t": "Trihexyphenidyl",
-   "u": "/drugs/trihexyphenidyl/",
-   "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
-   "d": "2026-11-17"
+   "t": "Lithium Citrate",
+   "u": "/drugs/lithium-citrate/",
+   "s": "訂正：上表の品目は炭酸リチウム製剤（「含めていません」ではない）",
+   "d": "2026-11-24"
   },
   {
-   "t": "Triamcinolone",
-   "u": "/drugs/triamcinolone/",
-   "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
-   "d": "2026-11-17"
+   "t": "Flurbiprofen",
+   "u": "/drugs/flurbiprofen/",
+   "s": "訂正：日本の剤形はテープ剤だけではない（パップ剤・経口錠もある）",
+   "d": "2026-11-24"
   },
   {
-   "t": "Tranilast",
-   "u": "/drugs/tranilast/",
-   "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
-   "d": "2026-11-17"
+   "t": "Etanercept",
+   "u": "/drugs/etanercept/",
+   "s": "訂正：品目一覧は「別途提示」ではなく本ページの表に掲載",
+   "d": "2026-11-24"
   },
   {
-   "t": "Tizanidine",
-   "u": "/drugs/tizanidine/",
-   "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
-   "d": "2026-11-17"
+   "t": "Cromoglicic Acid",
+   "u": "/drugs/cromoglicic-acid/",
+   "s": "訂正：日本の製剤は「点眼液のみ」ではない（吸入液もある）",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Carboplatin",
+   "u": "/drugs/carboplatin/",
+   "s": "訂正：品目の表は本ページに掲載済み",
+   "d": "2026-11-24"
   }
  ],
  "files": {

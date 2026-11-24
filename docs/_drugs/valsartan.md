@@ -87,7 +87,7 @@ TxGNN モデルは**悪性高血圧性腎疾患 (malignant hypertensive renal di
 
 <!-- licenses:end -->
 
-上記 5 件を含む 20 件の承認が現在有効です。
+上記を含む 20 件の承認が現在有効です。
 
 ## 安全性に関する考慮事項
 

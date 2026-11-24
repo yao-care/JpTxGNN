@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Celecoxib"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "hypermobility of coccyx", "brachyolmia", "rheumatoid nodulosis", "WHIM syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Celecoxib：予測新適応症は先端中間肢異形成症 Hunter-Thompson 型 (acromesomelic dysplasia, Hunter-Thompson type)（エビデンスレベル L5）。薬価基準の品目：20 件以上"
 ---
 
@@ -58,6 +58,22 @@ TxGNN モデルは**先端中間肢異形成症 Hunter-Thompson 型 (acromesomel
 米国 FDA が承認した Celecoxib の添付文書（Prescribing Information）の「Mechanism of Action」の項によると（非公式訳）、「セレコキシブは鎮痛作用、抗炎症作用および解熱作用を有する。セレコキシブの作用機序は、主としてCOX-2の阻害を介したプロスタグランジン合成の阻害によるものと考えられている。セレコキシブはin vitroにおいてプロスタグランジン合成の強力な阻害薬である。」英語原文："Celecoxib has analgesic, anti-inflammatory, and antipyretic properties. The mechanism of action of celecoxib is believed to be due to inhibition of prostaglandin synthesis, primarily via inhibition of COX-2. Celecoxib is a potent inhibitor of prostaglandin synthesis in vitro."（[DailyMed: Vyscoxa (celecoxib) prescribing information, Carwin Pharmaceutical Associates, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5094d47e-f791-4190-9397-b7500143a74d)、版 2025-07-31、参照日 2026-11-19）。公知の情報では、セレコキシブは選択的 COX-2 阻害薬で、プロスタグランジンを介した炎症を抑える薬剤です。
 
 一方、この疾患は CDMP1/GDF5 に関連する遺伝性の骨格異形成で、炎症性の要素はほとんどありません。COX-2 阻害との機序的なつながりは見当たらず、今回のスコアはデータ上の関連性に基づくもので、生物学的な裏付けは乏しいと考えられます。
+
+## 日本市販情報
+
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622704301 | セレコキシブ錠２００ｍｇ「フェルゼン」 | 有効 |
+| 622785001 | セレコキシブ錠１００ｍｇ「ケミファ」 | 有効 |
+| 622785101 | セレコキシブ錠２００ｍｇ「ケミファ」 | 有効 |
+| 622787601 | セレコキシブ錠１００ｍｇ「日医工」 | 有効 |
+| 622787701 | セレコキシブ錠２００ｍｇ「日医工」 | 有効 |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

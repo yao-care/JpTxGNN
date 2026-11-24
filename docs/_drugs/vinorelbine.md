@@ -3,7 +3,7 @@ layout: default
 title: Vinorelbine
 parent: 既知の用途のみ（新規予測なし）
 nav_order: 388
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Vinorelbine: 日本における既知の用途と市場状況。現時点で新たな候補適応症はありません"
 predicted_indications: []
 indication_count: 0
@@ -68,6 +68,17 @@ TxGNN モデルでは、ビノレルビン（Vinorelbine）についてスコア
 |------|
 | 肺がん (lung cancer) |
 | 非小細胞肺がん (non-small cell lung carcinoma) |
+
+## 日本市販情報
+
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 621954401 | ロゼウス静注液10mg 1mL | 有効 |
+| 621954501 | ロゼウス静注液40mg 4mL | 有効 |
+
+<!-- licenses:end -->
 
 ## 免責事項
 

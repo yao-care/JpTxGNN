@@ -130,10 +130,16 @@ TxGNN モデルは**アトピー性湿疹 (atopic eczema)** に有効である�
 **進める場合に必要なもの：**
 - 添付文書の警告・禁忌の取得（PMDA）
 - 作用機序データの補完（DrugBank）
-- 皮膚外用の剤形・投与経路の適合性の評価（現在の承認は吸入剤のみ）
+- 皮膚外用の剤形・投与経路の適合性の評価（現在の国内製剤は吸入剤のほか、経口のカプセル・錠と注腸フォーム）
 - 既存の外用ステロイドとの比較による優位性の検討
 - 小児での全身曝露、副腎抑制、接触感作のリスク評価
 - 前臨床の製剤研究から、探索的な臨床試験への展開の検討
+
+<!-- review:begin jp-lic-20261124b-budesonide-1 -->
+
+> **確認による訂正（2026-11-24）**：元の記載は「（現在の承認は吸入剤のみ）」でした。訂正：医薬品マスター（薬価基準収載品目）には、吸入剤（パルミコート、シムビコートなど）のほか、経口剤（ゼンタコートカプセル３ｍｇ、コレチメント錠９ｍｇ）と注腸フォーム（レクタブル２ｍｇ注腸フォーム）が収載されています（本ページのデータには吸入剤のみが含まれています）。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)。
+
+<!-- review:end jp-lic-20261124b-budesonide-1 -->
 
 <!-- review:begin log -->
 
@@ -145,6 +151,7 @@ TxGNN モデルは**アトピー性湿疹 (atopic eczema)** に有効である�
 |------|------|------|------|
 | 2026-11-06 | 削除：「日本では現在有効な承認がなく、添付文書の安全性情報も未取得のため、安全性の評価も完了していません」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Budesonide Inhalation Suspension (budesonide) prescribing information, Cipla USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c52c5382-1400-44b9-95be-a30e1cf706da) |
+| 2026-11-24 | 訂正：ブデソニドの国内製剤は吸入剤だけではない | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html) |
 
 <!-- review:end log -->
 

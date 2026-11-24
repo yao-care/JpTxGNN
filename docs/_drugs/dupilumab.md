@@ -3,7 +3,7 @@ layout: default
 title: Dupilumab
 parent: 既知の用途のみ（新規予測なし）
 nav_order: 123
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Dupilumab: 日本における既知の用途と市場状況。現時点で新たな候補適応症はありません"
 predicted_indications: []
 indication_count: 0
@@ -74,6 +74,19 @@ TxGNNモデルでは、Dupilumab(デュピルマブ)についてスコア0.99以
 |------|
 | アトピー性湿疹 (atopic eczema) |
 | アトピー性皮膚炎 (dermatitis, atopic) |
+
+## 日本市販情報
+
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622608101 | デュピクセント皮下注300mgシリンジ 2mL | 有効 |
+| 629911101 | デュピクセント皮下注300mgペン 2mL | 有効 |
+| 629925501 | デュピクセント皮下注200mgシリンジ 1.14mL | 有効 |
+| 629937701 | デュピクセント皮下注200mgペン 1.14mL | 有効 |
+
+<!-- licenses:end -->
 
 ## 免責事項
 

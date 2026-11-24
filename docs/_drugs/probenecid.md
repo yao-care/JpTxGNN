@@ -3,7 +3,7 @@ layout: default
 title: Probenecid
 parent: 既知の用途のみ（新規予測なし）
 nav_order: 287
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Probenecid: 日本における既知の用途と市場状況。現時点で新たな候補適応症はありません"
 predicted_indications: []
 indication_count: 0
@@ -68,6 +68,17 @@ Probenecid(プロベネシド)については、TxGNN深層学習モデルでス
 |------|
 | 痛風 (gout) |
 | 廃止された高尿酸血症 (obsolete hyperuricemia) |
+
+## 日本市販情報
+
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 613940032 | プロベネシド錠 250mg | 有効 |
+| 620006600 | ベネシッド錠250mg | 有効 |
+
+<!-- licenses:end -->
 
 ## 免責事項
 

@@ -107,7 +107,7 @@ TxGNN モデルは**結膜脂肪腫 (lipoma of the conjunctiva)** に有効で�
 - 添付文書（PMDA）の警告・禁忌情報の取得と安全性スクリーニング
 - 詳細な薬物作用機序データ（MOA）の取得（DrugBank など）
 - 結膜脂肪腫との機序的関連を示す前臨床研究や文献の調査
-- 投与経路の適合性評価（現在は経口カプセルのみで、結膜局所への適用の可否が未確認）
+- 投与経路の適合性評価（現在の国内製剤は経口剤（カプセル、シロップ）と静注で、結膜局所への適用の可否が未確認）
 - 現在の市販状況の確認
 
 <!-- review:begin jp-lic-20261106-menatetrenone-2 -->
@@ -115,6 +115,12 @@ TxGNN モデルは**結膜脂肪腫 (lipoma of the conjunctiva)** に有効で�
 > **確認による訂正（2026-11-06）**：元の記載は「現在の市販状況（承認整理の経緯）の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-menatetrenone-2 -->
+
+<!-- review:begin jp-lic-20261124b-menatetrenone-1 -->
+
+> **確認による訂正（2026-11-24）**：元の記載は「（現在は経口カプセルのみで、」でした。訂正：医薬品マスター（薬価基準収載品目）には、カプセル（グラケーカプセル１５ｍｇ、ケイツーカプセル５ｍｇなど）のほか、シロップ（ケイツーシロップ０．２％）と静注（ケイツーＮ静注１０ｍｇ）も収載されています（本ページのデータにはカプセルのみが含まれています）。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)。
+
+<!-- review:end jp-lic-20261124b-menatetrenone-1 -->
 
 <!-- review:begin log -->
 
@@ -127,6 +133,7 @@ TxGNN モデルは**結膜脂肪腫 (lipoma of the conjunctiva)** に有効で�
 | 2026-11-06 | 削除：「また、日本では現在有効な承認がなく、添付文書に基づく安全性評価もできていません」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-06 | 削除：「承認整理の経緯」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-24 | 訂正：メナテトレノンの国内製剤は経口カプセルだけではない | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html) |
 
 <!-- review:end log -->
 

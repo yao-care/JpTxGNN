@@ -99,7 +99,13 @@ ChEMBL（EMBL-EBI）に登録されている Vidarabine の作用機序（非公
 
 <!-- licenses:end -->
 
-剤形は外用の軟膏とクリームです。
+上表を含む本ページのデータ上の剤形は、外用の軟膏とクリームです。
+
+<!-- review:begin jp-lic-20261124b-vidarabine-1 -->
+
+> **確認による訂正（2026-11-24）**：元の記載は「剤形は外用の軟膏とクリームです。」でした。訂正：医薬品マスター（薬価基準収載品目）には、軟膏・クリームのほか、点滴静注用製剤（アラセナ－Ａ点滴静注用３００ｍｇ）も収載されています（本ページのデータには含まれていません）。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)。
+
+<!-- review:end jp-lic-20261124b-vidarabine-1 -->
 
 ## 安全性に関する考慮事項
 
@@ -138,6 +144,7 @@ ChEMBL（EMBL-EBI）に登録されている Vidarabine の作用機序（非公
 | 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 | 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え（2026-11-20 改訂、旧版は記録に保存） | [ChEMBL CHEMBL1090 (vidarabine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1090) |
+| 2026-11-24 | 訂正：ビダラビンの剤形は外用剤だけではない（点滴静注用もある） | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html) |
 
 <!-- review:end log -->
 

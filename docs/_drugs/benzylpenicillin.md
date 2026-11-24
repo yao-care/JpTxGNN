@@ -3,7 +3,7 @@ layout: default
 title: Benzylpenicillin
 parent: 既知の用途のみ（新規予測なし）
 nav_order: 53
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Benzylpenicillin: 日本における既知の用途と市場状況。現時点で新たな候補適応症はありません"
 predicted_indications: []
 indication_count: 0
@@ -80,6 +80,17 @@ TxGNNモデルでは、ベンジルペニシリン(Benzylpenicillin)について
 | ボツリヌス症 (botulism) |
 | 頸部顔面放線菌症 (cervicofacial actinomycosis) |
 | 軟性下疳 (chancroid) |
+
+## 日本市販情報
+
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622876201 | ステルイズ水性懸濁筋注60万単位シリンジ | 有効 |
+| 622876301 | ステルイズ水性懸濁筋注240万単位シリンジ | 有効 |
+
+<!-- licenses:end -->
 
 ## 免責事項
 

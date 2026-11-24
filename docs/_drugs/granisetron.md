@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Granisetron"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "acute contagious conjunctivitis", "angioedema", "allergic urticaria", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania", "bronchitis", "cold urticaria", "conjunctivitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Granisetron：予測新適応症は躁病性双極性感情障害 (manic bipolar affective disorder)（エビデンスレベル L5）。既存適応症：承認書のデータに記載なし"
 ---
 
@@ -79,6 +79,22 @@ TxGNN モデルは**躁病性双極性感情障害 (manic bipolar affective diso
 | 8 | 気管支炎 | 0.9918 | 迷走神経求心路を介した咳反射への影響は理論上あるが間接的 |
 | 9 | 寒冷蕁麻疹 | 0.9910 | 肥満細胞の脱顆粒との関連は弱い理論的link |
 | 10 | 結膜炎 | 0.9909 | 機序的根拠は見当たらない |
+
+## 日本市販情報
+
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 610421323 | カイトリル錠２ｍｇ | 有効 |
+| 620002573 | カイトリル注１ｍｇ １ｍＬ | 有効 |
+| 620005666 | グラニセトロン静注液３ｍｇ「Ｆ」 ３ｍＬ | 有効 |
+| 620005670 | グラニセトロン静注液３ｍｇ「トーワ」 ３ｍＬ | 有効 |
+| 620008012 | グラニセトロン内服ゼリー２ｍｇ「ケミファ」 | 有効 |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 3
 monitor_inn: "Clonazepam"
 predicted_indications: ["restless legs syndrome", "insomnia (disease)", "trigeminal nerve neoplasm"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Clonazepam：予測新適応症はむずむず脚症候群 (restless legs syndrome)（エビデンスレベル L3）。薬価基準の品目：10 件（現在収載 10 件）"
 ---
 
@@ -80,6 +80,22 @@ TxGNN モデルは **むずむず脚症候群 (restless legs syndrome)** に有�
 | [24363103](https://pubmed.ncbi.nlm.nih.gov/24363103/) | 2014 | Review | Neurotherapeutics | むずむず脚症候群の治療の変遷と薬剤クラスの概説 |
 | [26874840](https://pubmed.ncbi.nlm.nih.gov/26874840/) | 2016 | Review | Curr Treat Options Neurol | 難治性むずむず脚症候群の治療選択肢 |
 | [3510520](https://pubmed.ncbi.nlm.nih.gov/3510520/) | 1986 | Review | Am Fam Physician | むずむず脚症候群の臨床像と治療の概説 |
+
+## 日本市販情報
+
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620003652 | リボトリール細粒０．１％ | 有効 |
+| 620003653 | リボトリール細粒０．５％ | 有効 |
+| 620003654 | リボトリール錠０．５ｍｇ | 有効 |
+| 620003655 | リボトリール錠１ｍｇ | 有効 |
+| 620003656 | リボトリール錠２ｍｇ | 有効 |
+
+上表はデータ上の 10 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

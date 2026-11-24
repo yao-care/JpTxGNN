@@ -3,7 +3,7 @@ layout: default
 title: Aluminum Hydroxide
 parent: 既知の用途のみ（新規予測なし）
 nav_order: 28
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Aluminum Hydroxide: 日本における既知の用途と市場状況。現時点で新たな候補適応症はありません"
 predicted_indications: []
 indication_count: 0
@@ -74,6 +74,22 @@ Aluminum Hydroxide(水酸化アルミニウム)について、TxGNNモデルで�
 | 胃食道逆流症 (gastresophageal reflux disease) |
 | 消化性食道炎 (peptic esophagitis) |
 | 消化性潰瘍 (peptic ulcer disease) |
+
+## 日本市販情報
+
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 612340021 | 乾燥水酸化アルミニウムゲル | 有効 |
+| 612340022 | 乾燥水酸化アルミニウムゲル細粒 | 有効 |
+| 620475405 | 乾燥水酸化アルミニウムゲル「ニッコー」 | 有効 |
+| 620478801 | リタロクス懸濁用配合顆粒 | 有効 |
+| 620479001 | マーレッジ懸濁用配合DS | 有効 |
+
+上表はデータ上の 7 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 免責事項
 

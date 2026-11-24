@@ -3,7 +3,7 @@ layout: default
 title: Riluzole
 parent: 既知の用途のみ（新規予測なし）
 nav_order: 301
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Riluzole: 日本における既知の用途と市場状況。現時点で新たな候補適応症はありません"
 predicted_indications: []
 indication_count: 0
@@ -68,6 +68,19 @@ TxGNN モデルでは、Riluzole（リルゾール）についてスコア 0.99 
 | 適応症 |
 |------|
 | なし |
+
+## 日本市販情報
+
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 610421351 | リルテック錠50 50mg | 有効 |
+| 622266901 | リルゾール錠50mg「AA」 | 有効 |
+| 622527702 | リルゾール錠50mg「ニプロ」 | 有効 |
+| 670421351 | リルテック錠50 50mg(選) | 有効 |
+
+<!-- licenses:end -->
 
 ## 免責事項
 

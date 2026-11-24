@@ -3,7 +3,7 @@ layout: default
 title: Hydroxyurea
 parent: 既知の用途のみ（新規予測なし）
 nav_order: 180
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Hydroxyurea: 日本における既知の用途と市場状況。現時点で新たな候補適応症はありません"
 predicted_indications: []
 indication_count: 0
@@ -80,6 +80,16 @@ TxGNN モデルでは、Hydroxyurea(ヒドロキシウレア)についてスコ�
 | 卵巣悪性胚細胞腫瘍 (malignant germ cell tumor of ovary) |
 | 卵巣悪性非ディスジャーミノーマ型胚細胞腫瘍 (malignant non-dysgerminomatous germ cell tumor of ovary) |
 | 卵巣悪性セルトリ・ライディッヒ細胞腫瘍 (malignant sertoli-leydig cell tumor of ovary) |
+
+## 日本市販情報
+
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 614220010 | ハイドレアカプセル500mg | 有効 |
+
+<!-- licenses:end -->
 
 ## 免責事項
 

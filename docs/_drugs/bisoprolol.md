@@ -88,7 +88,13 @@ TxGNN モデルは**悪性高血圧性腎疾患 (malignant hypertensive renal di
 
 <!-- licenses:end -->
 
-承認記録は一部のみの可能性があり、上記は主要なものに限っています。剤形はすべて経口錠です。
+承認記録は一部のみの可能性があり、上記は主要なものに限っています。上表の品目はいずれも経口錠です。
+
+<!-- review:begin jp-lic-20261124b-bisoprolol-1 -->
+
+> **確認による訂正（2026-11-24）**：元の記載は「剤形はすべて経口錠です。」でした。訂正：医薬品マスター（薬価基準収載品目）には、経口錠のほか、ビソプロロールの貼付剤（ビソノテープ２ｍｇ・４ｍｇ・８ｍｇ）も収載されています（本ページのデータには含まれていません）。上表の品目はいずれも経口錠です。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)。
+
+<!-- review:end jp-lic-20261124b-bisoprolol-1 -->
 
 ## 安全性に関する考慮事項
 
@@ -115,11 +121,12 @@ TxGNN モデルは**悪性高血圧性腎疾患 (malignant hypertensive renal di
 
 ## 確認記録
 
-以下はこのページの確認記録です。作用機序データがないとする記述を、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。モデルの予測、エビデンスレベル、結論は書き換えていません。
+以下はこのページの確認記録です。内容は医薬品マスター（薬価基準収載品目）の収載情報と照合しました。訂正は基本的な事実の記載に限り、モデルの予測、エビデンスレベル、結論は書き換えていません。作用機序データがないとする記述は、引用した公式の添付文書の抜粋（非公式訳つき）に置き換えました。
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: bisoprolol fumarate prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6517d564-ea55-4084-a8ab-34fea548c24e) |
+| 2026-11-24 | 訂正：ビソプロロールの剤形は経口錠だけではない（貼付剤もある） | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html) |
 
 <!-- review:end log -->
 

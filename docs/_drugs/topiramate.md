@@ -71,8 +71,6 @@ TxGNN モデルは**三叉神経腫瘍 (Trigeminal Nerve Neoplasm)** に有効�
 
 ## 日本市販情報
 
-主な承認 5 件を示します。
-
 <!-- licenses:begin -->
 
 | 医薬品コード | 医薬品名・規格名 | 状態 |

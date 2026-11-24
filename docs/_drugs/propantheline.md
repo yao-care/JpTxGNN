@@ -3,7 +3,7 @@ layout: default
 title: Propantheline
 parent: 既知の用途のみ（新規予測なし）
 nav_order: 294
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Propantheline: 日本における既知の用途と市場状況。現時点で新たな候補適応症はありません"
 predicted_indications: []
 indication_count: 0
@@ -72,6 +72,16 @@ TxGNN深層学習モデルでは、Propantheline(プロパンテリン)につい
 | 適応症 |
 |------|
 | 消化性潰瘍 (peptic ulcer disease) |
+
+## 日本市販情報
+
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620008709 | プロ・バンサイン錠15mg | 有効 |
+
+<!-- licenses:end -->
 
 ## 免責事項
 

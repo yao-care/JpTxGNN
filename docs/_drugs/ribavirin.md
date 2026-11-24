@@ -3,7 +3,7 @@ layout: default
 title: Ribavirin
 parent: 既知の用途のみ（新規予測なし）
 nav_order: 303
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Ribavirin: 日本における既知の用途と市場状況。現時点で新たな候補適応症はありません"
 predicted_indications: []
 indication_count: 0
@@ -71,6 +71,16 @@ TxGNNモデルでは、Ribavirin(リバビリン)についてスコア0.99以上
 | 慢性C型肝炎ウイルス感染症 (chronic hepatitis c virus infection) |
 | C型肝炎ウイルス感染症 (hepatitis c virus infection) |
 | 呼吸器合胞体ウイルス感染症 (respiratory syncytial virus infectious disease) |
+
+## 日本市販情報
+
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 610451031 | レベトールカプセル200mg | 有効 |
+
+<!-- licenses:end -->
 
 ## 免責事項
 

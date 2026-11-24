@@ -3,7 +3,7 @@ layout: default
 title: Omalizumab
 parent: 既知の用途のみ（新規予測なし）
 nav_order: 257
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Omalizumab: 日本における既知の用途と市場状況。現時点で新たな候補適応症はありません"
 predicted_indications: []
 indication_count: 0
@@ -72,6 +72,22 @@ TxGNN深層学習モデルは、Omalizumab(オマリズマブ)についてスコ
 | アレルギー性喘息 (allergic asthma) |
 | 特発性蕁麻疹 (idiopathic urticaria) |
 | 内因性喘息 (intrinsic asthma) |
+
+## 日本市販情報
+
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 621894701 | ゾレア皮下注用150mg | 有効 |
+| 622680501 | ゾレア皮下注75mgシリンジ 0.5mL | 有効 |
+| 622680601 | ゾレア皮下注150mgシリンジ 1mL | 有効 |
+| 629928801 | ゾレア皮下注75mgペン 0.5mL | 有効 |
+| 629928901 | ゾレア皮下注150mgペン 1mL | 有効 |
+
+上表はデータ上の 10 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 免責事項
 

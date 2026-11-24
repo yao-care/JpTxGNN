@@ -3,7 +3,7 @@ layout: default
 title: Brodalumab
 parent: 既知の用途のみ（新規予測なし）
 nav_order: 64
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Brodalumab: 日本における既知の用途と市場状況。現時点で新たな候補適応症はありません"
 predicted_indications: []
 indication_count: 0
@@ -68,6 +68,17 @@ evidence_level: N/A
 | 適応症 |
 |------|
 | なし |
+
+## 日本市販情報
+
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622510201 | ルミセフ皮下注210mgシリンジ 1.5mL | 有効 |
+| 629937601 | ルミセフ皮下注210mgペン 1.5mL | 有効 |
+
+<!-- licenses:end -->
 
 ## 免責事項
 

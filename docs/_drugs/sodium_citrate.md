@@ -3,7 +3,7 @@ layout: default
 title: Sodium Citrate
 parent: 既知の用途のみ（新規予測なし）
 nav_order: 321
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Sodium Citrate: 日本における既知の用途と市場状況。現時点で新たな候補適応症はありません"
 predicted_indications: []
 indication_count: 0
@@ -75,6 +75,19 @@ Sodium Citrate(クエン酸ナトリウム)について、TxGNNモデルでス�
 | 消化性潰瘍 (peptic ulcer disease) |
 | 咽頭炎 (pharyngitis) |
 | 鼻炎 (rhinitis) |
+
+## 日本市販情報
+
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620002252 | チトラミン液「フソー」-4% 500mL | 有効 |
+| 620811405 | クエン酸ナトリウム水和物原末「ニッコー」 | 有効 |
+| 620811406 | クエン酸ナトリウム水和物「コザカイ」原末 | 有効 |
+| 663330001 | クエン酸ナトリウム水和物 | 有効 |
+
+<!-- licenses:end -->
 
 ## 免責事項
 

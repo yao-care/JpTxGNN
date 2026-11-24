@@ -3,7 +3,7 @@ layout: default
 title: Icatibant
 parent: 既知の用途のみ（新規予測なし）
 nav_order: 182
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Icatibant: 日本における既知の用途と市場状況。現時点で新たな候補適応症はありません"
 predicted_indications: []
 indication_count: 0
@@ -68,6 +68,16 @@ TxGNNモデルでは、Icatibant(イカチバント)についてスコア0.99以
 |------|
 | 遺伝性血管性浮腫 (hereditary angioedema) |
 | C1インヒビター欠損を伴う遺伝性血管性浮腫 (hereditary angioedema with c1inh deficiency) |
+
+## 日本市販情報
+
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622657901 | フィラジル皮下注30mgシリンジ 3mL | 有効 |
+
+<!-- licenses:end -->
 
 ## 免責事項
 

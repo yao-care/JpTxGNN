@@ -3,7 +3,7 @@ layout: default
 title: Belimumab
 parent: 既知の用途のみ（新規予測なし）
 nav_order: 49
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Belimumab: 日本における既知の用途と市場状況。現時点で新たな候補適応症はありません"
 predicted_indications: []
 indication_count: 0
@@ -67,6 +67,19 @@ Belimumab(ベリムマブ)については、TxGNNモデルでスコア0.99以上
 | 適応症 |
 |------|
 | 小児全身性エリテマトーデス (pediatric systemic lupus erythematosus) |
+
+## 日本市販情報
+
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622587101 | ベンリスタ皮下注200mgオートインジェクター 1mL | 有効 |
+| 622587201 | ベンリスタ皮下注200mgシリンジ 1mL | 有効 |
+| 622587301 | ベンリスタ点滴静注用400mg | 有効 |
+| 622587401 | ベンリスタ点滴静注用120mg | 有効 |
+
+<!-- licenses:end -->
 
 ## 免責事項
 

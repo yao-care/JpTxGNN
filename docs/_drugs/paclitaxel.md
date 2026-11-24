@@ -109,8 +109,6 @@ description: "Paclitaxel：予測新適応症はParameningeal embryonal rhabdomy
 
 <!-- licenses:end -->
 
-上記は主要な 5 件です。
-
 ## 細胞毒性
 
 | 項目 | 内容 |

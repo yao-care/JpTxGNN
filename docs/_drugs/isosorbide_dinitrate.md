@@ -3,7 +3,7 @@ layout: default
 title: Isosorbide Dinitrate
 parent: 既知の用途のみ（新規予測なし）
 nav_order: 191
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Isosorbide Dinitrate: 日本における既知の用途と市場状況。現時点で新たな候補適応症はありません"
 predicted_indications: []
 indication_count: 0
@@ -71,6 +71,22 @@ TxGNN モデルには、Isosorbide Dinitrate（イソソルビドジニトレー
 | 適応症 |
 |------|
 | なし |
+
+## 日本市販情報
+
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 612170264 | ニトロールRカプセル20mg | 有効 |
+| 612170432 | 硝酸イソソルビド錠 5mg | 有効 |
+| 620004821 | フランドルテープ40mg | 有効 |
+| 620005194 | ニトロール持続静注25mgシリンジ 50mL | 有効 |
+| 620005195 | ニトロール注5mgシリンジ 10mL | 有効 |
+
+上表はデータ上の 26 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 免責事項
 

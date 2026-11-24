@@ -5,7 +5,7 @@ parent: 既知の用途のみ（新規予測なし）
 nav_order: 370
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Treprostinil: 日本における既知の用途と市販状況。現時点で新たな候補適応症はありません"
 predicted_indications: []
 ---
@@ -69,6 +69,20 @@ Treprostinil(トレプロスチニル)について、TxGNNモデルはスコア0
 | 適応症 |
 |------|
 | 肺動脈性肺高血圧症 (pulmonary arterial hypertension) |
+
+## 日本市販情報
+
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622349401 | トレプロスト注射液20mg 20mL | 有効 |
+| 622349501 | トレプロスト注射液50mg 20mL | 有効 |
+| 622349601 | トレプロスト注射液100mg 20mL | 有効 |
+| 622349701 | トレプロスト注射液200mg 20mL | 有効 |
+| 622938401 | トレプロスト吸入液1.74mg 2.9mL | 有効 |
+
+<!-- licenses:end -->
 
 ## 免責事項
 

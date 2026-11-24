@@ -5,7 +5,7 @@ parent: 既知の用途のみ（新規予測なし）
 nav_order: 282
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Pralatrexate: 日本における既知の用途と市販状況。現時点で新たな候補適応症はありません"
 predicted_indications: []
 ---
@@ -74,6 +74,16 @@ Pralatrexate(プララトレキサート)について、TxGNN深層学習モデ�
 | 原発性皮膚CD4陽性小・中細胞型多形T細胞リンパ腫 (primary cutaneous cd4+ small/medium-sized pleomorphic t-cell lymphoma) |
 | 原発性皮膚γδ T細胞リンパ腫 (primary cutaneous gamma/delta-positive t-cell lymphoma) |
 | 原発性皮膚末梢性T細胞リンパ腫・非特定型 (primary cutaneous peripheral t-cell lymphoma not otherwise specified) |
+
+## 日本市販情報
+
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622573401 | ジフォルタ注射液20mg 1mL | 有効 |
+
+<!-- licenses:end -->
 
 ## 免責事項
 

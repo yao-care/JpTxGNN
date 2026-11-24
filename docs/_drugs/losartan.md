@@ -73,7 +73,7 @@ TxGNN モデルは**悪性高血圧性腎疾患 (Malignant Hypertensive Renal Di
 
 ## 日本市販情報
 
-承認適応症のテキストが登録されている主な承認を以下に示します。
+主な承認を以下に示します。
 
 <!-- review:begin jp-lic-20261106-losartan-1 -->
 
@@ -134,7 +134,7 @@ TxGNN モデルは**悪性高血圧性腎疾患 (Malignant Hypertensive Renal Di
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「日本では、ロサルタンの承認 20 件はすべて承認整理済みで、現在販売中のものはありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本では、ロサルタンの承認 20 件はすべて承認整理済みで、現在販売中のものはありません」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-06 | 削除：「日本では現在販売中の承認がないため、再利用を進める場合の薬事上の位置づけの確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Losartan Potassium 50 Mg (losartan potassium) prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=498f26a1-5030-4f9b-9599-07d50e912d41) |
 

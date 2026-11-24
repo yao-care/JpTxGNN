@@ -91,7 +91,13 @@ Malan 過成長症候群について、関連する文献は現在ありませ�
 
 <!-- licenses:end -->
 
-本サイトのデータでは、日本でのクエン酸リチウムの承認は確認できません（炭酸リチウム製剤は別成分のため含めていません）。
+本サイトのデータでは、日本でのクエン酸リチウムの承認は確認できません（上表とクイック概要の件数は、本サイトのデータがリチウム製剤として収載している炭酸リチウム製剤のものです）。
+
+<!-- review:begin jp-lic-20261124b-lithium_citrate-1 -->
+
+> **確認による訂正（2026-11-24）**：元の記載は「（炭酸リチウム製剤は別成分のため含めていません）」でした。訂正：上表とクイック概要に挙げている品目（リーマス錠２００、炭酸リチウム錠２００ｍｇ「フジナガ」「大正」など）は、いずれも炭酸リチウム製剤です。本サイトのデータは成分名「リチウム」でクエン酸リチウムの項目に対応づけているため、炭酸リチウム製剤が本ページに収載されています。医薬品マスター（薬価基準収載品目）には、クエン酸リチウムを成分とする品目はありません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)。
+
+<!-- review:end jp-lic-20261124b-lithium_citrate-1 -->
 
 ## 安全性に関する考慮事項
 
@@ -106,11 +112,11 @@ Malan 過成長症候群について、関連する文献は現在ありませ�
 
 **理由：**
 - 予測は TxGNN モデルのみに基づき（L5）、Malan 過成長症候群での臨床試験・文献がありません。
-- 日本では販売中で、有効な承認がありますが（薬価基準から削除済みのものもあり、件数はクイック概要を参照）、安全性の確認は不足しています。
+- 日本ではクエン酸リチウム製剤の薬価基準収載はなく、本ページのデータに含まれる炭酸リチウム製剤には有効なものと薬価基準から削除済みのものがあり（件数はクイック概要を参照）、安全性の確認は不足しています。
 
 <!-- review:begin jp-lic-20261117-lithium_citrate-1 -->
 
-> **確認による訂正（2026-11-17）**：元の記載は「日本では販売中で、承認 4件のうち 4件が有効ですが、」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、次の承認が経過措置期間満了などにより薬価基準から削除されています（670454091（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+> **確認による訂正（2026-11-17）**：元の記載は「日本では販売中で、承認 4件のうち 4件が有効ですが、」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、次の承認が経過措置期間満了などにより薬価基準から削除されています（670454091（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。なお、本ページのデータの品目はいずれも炭酸リチウム製剤で、医薬品マスターにクエン酸リチウムを成分とする品目はありません（2026-11-24 確認）。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
 
 <!-- review:end jp-lic-20261117-lithium_citrate-1 -->
 
@@ -138,6 +144,7 @@ Malan 過成長症候群について、関連する文献は現在ありませ�
 | 2026-11-06 | 削除：「日本での承認取消の理由の確認と、経路適合性（投与経路）の検討」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: lithium prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=be1346df-4a39-45e8-874b-e2a496847fd5) |
+| 2026-11-24 | 訂正：上表の品目は炭酸リチウム製剤（「含めていません」ではない） | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html) |
 
 <!-- review:end log -->
 

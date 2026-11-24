@@ -3,7 +3,7 @@ layout: default
 title: Buprenorphine
 parent: 既知の用途のみ（新規予測なし）
 nav_order: 68
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Buprenorphine: 日本における既知の用途と市場状況。現時点で新たな候補適応症はありません"
 predicted_indications: []
 indication_count: 0
@@ -68,6 +68,22 @@ TxGNN ディープラーニングモデルには、Buprenorphine(ブプレノル
 |------|
 | モルヒネ依存 (morphine dependence) |
 | オピエート依存 (opiate dependence) |
+
+## 日本市販情報
+
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620003245 | レペタン注0.2mg | 有効 |
+| 620003246 | レペタン注0.3mg | 有効 |
+| 620109902 | ブプレノルフィン注0.2mg「日新」 | 有効 |
+| 620110202 | ブプレノルフィン注0.3mg「日新」 | 有効 |
+| 622057601 | ノルスパンテープ5mg | 有効 |
+
+上表はデータ上の 9 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 免責事項
 

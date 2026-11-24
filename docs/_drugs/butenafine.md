@@ -3,7 +3,7 @@ layout: default
 title: Butenafine
 parent: 既知の用途のみ（新規予測なし）
 nav_order: 69
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Butenafine: 日本における既知の用途と市場状況。現時点で新たな候補適応症はありません"
 predicted_indications: []
 indication_count: 0
@@ -70,6 +70,22 @@ TxGNNディープラーニングモデルでは、Butenafine(ブテナフィン)
 | 癜風 (pityriasis versicolor) |
 | 体部白癬 (tinea corporis) |
 | 白癬 (tinea infection) |
+
+## 日本市販情報
+
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620006526 | ボレー外用液1% | 有効 |
+| 620006527 | ボレークリーム1% | 有効 |
+| 620006528 | ボレースプレー1% | 有効 |
+| 620007802 | メンタックスクリーム1% | 有効 |
+| 621707301 | ブテナフィン塩酸塩液1%「トーワ」 | 有効 |
+
+上表はデータ上の 12 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 免責事項
 

@@ -3,7 +3,7 @@ layout: default
 title: Prednisolone Acetate
 parent: 既知の用途のみ（新規予測なし）
 nav_order: 287
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Prednisolone Acetate: 日本における既知の用途と市場状況。現時点で新たな候補適応症はありません"
 predicted_indications: []
 indication_count: 0
@@ -79,6 +79,17 @@ Prednisolone Acetate(プレドニゾロン酢酸エステル)について、TxGN
 | 虹彩疾患 (iris disease) |
 | 汎ぶどう膜炎 (panuveitis) |
 | ぶどう膜炎 (uveitis) |
+
+## 日本市販情報
+
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 612450118 | プレドニン錠5mg | 有効 |
+| 661310130 | プレドニン眼軟膏 0.25% | 有効 |
+
+<!-- licenses:end -->
 
 ## 免責事項
 

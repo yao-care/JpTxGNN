@@ -3,7 +3,7 @@ layout: default
 title: Acetazolamide
 parent: 既知の用途のみ（新規予測なし）
 nav_order: 14
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Acetazolamide: 日本における既知の用途と市場状況。現時点で新たな候補適応症はありません"
 predicted_indications: []
 indication_count: 0
@@ -74,6 +74,19 @@ Acetazolamide(アセタゾラミド)について、TxGNNモデルはスコア0.9
 | 閉塞隅角緑内障 (closed-angle glaucoma) |
 | うっ血性心不全 (congestive heart failure) |
 | 開放隅角緑内障 (open-angle glaucoma) |
+
+## 日本市販情報
+
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 612130019 | アセタゾラミド | 有効 |
+| 612130346 | ダイアモックス末 | 有効 |
+| 620004518 | ダイアモックス錠250mg | 有効 |
+| 620004694 | ダイアモックス注射用500mg | 有効 |
+
+<!-- licenses:end -->
 
 ## 免責事項
 

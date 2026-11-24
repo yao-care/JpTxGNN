@@ -93,8 +93,6 @@ description: "Simvastatin：予測新適応症はBrain stem infarction（エビ�
 
 ## 日本市販情報
 
-代表的な 5 件を示します。
-
 <!-- licenses:begin -->
 
 | 医薬品コード | 医薬品名・規格名 | 状態 |

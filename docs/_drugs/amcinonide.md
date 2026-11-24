@@ -3,7 +3,7 @@ layout: default
 title: Amcinonide
 parent: 既知の用途のみ（新規予測なし）
 nav_order: 30
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-24
 description: "Amcinonide: 日本における既知の用途と市場状況。現時点で新たな候補適応症はありません"
 predicted_indications: []
 indication_count: 0
@@ -80,6 +80,17 @@ TxGNNモデルでは、アムシノニド (Amcinonide) についてスコア0.99
 | エリテマトーデス (lupus erythematosus) |
 | 神経皮膚炎 (neurodermatitis) |
 | 職業性皮膚炎 (occupational dermatitis) |
+
+## 日本市販情報
+
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620007740 | ビスダームクリーム0.1% | 有効 |
+| 620007741 | ビスダーム軟膏0.1% | 有効 |
+
+<!-- licenses:end -->
 
 ## 免責事項
 
