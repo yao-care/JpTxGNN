@@ -1265,7 +1265,7 @@ X_LOCAL = {
         mkt=re.compile(r"\bcomercializad[oa]s? en (Españ|Colombi)|\b(est[aá]|se encuentra|queda) (ya |actualmente )?comercializad|"
                        r"\bse comercializan? (en|como)\b|\bya est[aá] comercializad|\bautorizad[oa] y comercializad", re.I),
         noreg=re.compile(r"\bno (tiene|cuenta con|dispone de|hay|posee)\b[^.;]{0,30}\b(registros?|autorizaci\w+|productos?)\b[^.;]{0,30}(vigente|activ|en (Españ|Colombi))|"
-                         r"\bsin (ning[uú]n )?registros? (sanitarios? )?(vigentes?|activos?)|\bning[uú]n registro (sanitario )?(vigente|activo)|"
+                         r"\bsin (ning[uú]n )?registros? (sanitarios? )?(vigentes?|activos?)|\bning[uú]n registro (sanitario )?((est[aá]|se encuentra|figura|sigue)\s+(actualmente\s+|ya\s+)?)?(vigente|activo)|\bninguno de (los|sus) registros(\s+sanitarios)?\s+(est[aá]|se encuentra|figura|sigue)\s+(actualmente\s+)?(vigente|activo)|"
                          r"\bno figura con ning[uú]n registro|\b0 licencias\b|"
                          r"\b(registros?|autorizaci\w+)\b[^.;]{0,70}?\b(est[aá]n?|figuran?|son|es|fue|fueron|consta[n]?)\s+(tod[oa]s\s+|actualmente\s+|también\s+|como\s+)*(cancelad|anulad|revocad)|"
                          r"\b(tod[oa]s|ambos|ambas|el único|la única|su único|su única)\b[^.;]{0,70}?\b(cancelad|anulad|revocad)|"
