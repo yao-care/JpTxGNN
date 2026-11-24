@@ -224,7 +224,7 @@ def transform(site, f, cls, pmap):
         elif ms == "Approved, not marketed":
             want = ck.not_marketed_text(site, lang, fc)
         elif ms == "Cancelled only":
-            want = ck.cancelled_text(site, lang, n)
+            want = ck.cancelled_text(site, lang, n, fc)
         elif ms == "Not marketed":
             want = ck.not_reg_text(site, lang, fc)
         if want and st[1] != want:

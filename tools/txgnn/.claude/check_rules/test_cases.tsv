@@ -545,3 +545,22 @@ ROW_STATUS	x	NZTxGNN|| 378038 | Ziagen | Abacavir sulphate | Tab 300 mg | No |	m
 ROW_STATUS	x	UkTxGNN|| 0503010E0AAABAB | Abacavir 20mg/ml oral solution | Cancelled |	miss	0503010E0AAABAB=valid
 ROW_STATUS	x	TwTxGNN|| 衛署藥製字第055116號 | X | 已註銷 |	miss	衛署藥製字第055116號=valid
 M3V	ms	Jumlah keseluruhan ialah 314 lesen (304 sah).	miss	site=MyTxGNN;ms=Marketed;valid=303;not_marketed=0;cancelled=11
+M3V	sv	Dessutom saknas giltiga godkännanden i Sverige.	hit	site=SETxGNN;ms=Marketed;valid=5;cancelled=0
+M3V	sv	Dessutom saknas aktiva godkännanden i Sverige och produktresumédata om säkerhet.	hit	site=SETxGNN;ms=Marketed;valid=11;cancelled=0
+M3V	sv	Tetrakain har dessutom inga aktiva godkännanden i Sverige i dag.	hit	site=SETxGNN;ms=Marketed;valid=3;cancelled=0
+M3V	sv	Utreda marknads- och regulatoriska förutsättningar, eftersom inga godkännanden är aktiva i Sverige.	hit	site=SETxGNN;ms=Marketed;valid=8;cancelled=0
+M3V	sv	Klargöra varför godkännandena dragits in och om det finns någon aktuell marknadsföring.	hit	site=SETxGNN;ms=Marketed;valid=3;cancelled=0
+M3V	sv	Dessutom har alla svenska godkännanden för telmisartan dragits in.	hit	site=SETxGNN;ms=Marketed;valid=12;cancelled=0
+M3V	sv	Bedömning av beredningsform och administreringsväg, eftersom de tidigare godkända produkterna är rektallösningar.	hit	site=SETxGNN;ms=Marketed;valid=2;cancelled=0
+M3V	sv	Klargöra marknadsläget, eftersom det för närvarande inte finns något giltigt svenskt godkännande.	hit	site=SETxGNN;ms=Marketed;valid=17;cancelled=0
+M3V	sv	Dessutom saknas giltiga godkännanden i Sverige.	miss	site=SETxGNN;ms=Cancelled only;valid=0;cancelled=4
+M3V	sv	Det finns inga kliniska prövningar och inga aktiva studier.	miss	site=SETxGNN;ms=Marketed;valid=5;cancelled=0
+M3V	sv	Två av godkännandena har dragits in och tre är giltiga.	miss	site=SETxGNN;ms=Marketed;valid=3;cancelled=2
+M3V	sv	De indragna godkännandena omfattar inhalationsberedningar.	miss	site=SETxGNN;ms=Marketed;valid=18;cancelled=2
+M3V	sv	Prövningen NCT01234567 har dragits tillbaka.	miss	site=SETxGNN;ms=Marketed;valid=5;cancelled=0
+M3V	es	Cabozantinib se presenta en cápsulas duras COMETRIQ (autorizada, no comercializada) y comprimidos CABOMETYX.	miss	site=ESTxGNN;ms=Marketed;valid=3;not_marketed=3;cancelled=0
+M3V	es	Las autorizaciones 113890004 (no comercializada) y 113890005 siguen vigentes.	miss	site=ESTxGNN;ms=Marketed;valid=3;not_marketed=3;cancelled=0
+M3V	es	Cometriq 20 mg (autorizada, no comercializada) y Cabometyx 40 mg (comercializado).	miss	site=ESTxGNN;ms=Marketed;valid=3;not_marketed=3;cancelled=0
+M3V	es	Hay presentaciones Cometriq (autorizada, no comercializada) y Duomox (autorizada, no comercializada).	miss	site=ESTxGNN;ms=Marketed;valid=3;not_marketed=3;cancelled=0
+M3V	es	Cabozantinib está autorizado (no comercializado) en España.	hit	site=ESTxGNN;ms=Marketed;valid=3;not_marketed=3;cancelled=0
+M3V	es	El medicamento no está comercializado en España.	hit	site=ESTxGNN;ms=Marketed;valid=3;not_marketed=3;cancelled=0

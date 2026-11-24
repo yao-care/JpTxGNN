@@ -271,7 +271,7 @@ def status_value(site, fc):
     if ms == "Approved, not marketed":
         return ck.not_marketed_text(site, lang, fc)
     if ms == "Cancelled only":
-        return ck.cancelled_text(site, lang, n)
+        return ck.cancelled_text(site, lang, n, fc)
     if ms == "Not marketed":
         return ck.not_reg_text(site, lang, fc)
     return None

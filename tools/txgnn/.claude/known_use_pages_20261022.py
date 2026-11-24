@@ -265,7 +265,7 @@ def license_section(site, page, bundle, fa, heading):
                 # 格子用 mt.cell：劑型等欄位帶換行（Kr「[다회용] …\n[1회용」）會把表格從中間拆斷（2026-11-03）
                 rows.append(f"| {mt.cell(lid)} | {mt.cell(name, 60)} | {mt.cell(form, 40)} | {word.get(st, sv)} |")
     out = [heading, "", f"| {h1} | {h2} | {h3} | {h4} |", "|------|------|------|------|"] + rows[:30]
-    if fa.get("partial") or len(rows) > 30:
+    if fa.get("partial"):  # 2026-11-24：部分紀錄提示句只在 partial 頁加（原本超過 30 列也加，Za 6 頁、Us 1 頁誤加；張數列已寫總數）
         out += ["", note]
     return "\n".join(out) if rows else ""
 

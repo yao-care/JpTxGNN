@@ -24,11 +24,15 @@ for f in sorted(glob.glob("data/bundles/*/drug_bundle.json")):
     lic = {x["license_number"]: x["status"] for x in lr.get("licenses", [])}
     _raw = json.load(open(f, encoding="utf-8"))  # 獸用許可（Dk 2026-11-05：veterinary_records，不算人用）
     vet = sum(len(x.get("veterinary_records") or []) for x in _raw.values() if isinstance(x, dict) and "records" in x)
+    # EMA 申請被拒（Medicine status「Refused」，從未核准；2026-11-24 DE iloperidone）：狀態列另寫（check_drug_page.SCOPE_REFUSED）
+    ref = {r.get("license_id") for x in _raw.values() if isinstance(x, dict) and isinstance(x.get("records"), list)
+           for r in x["records"] if isinstance(r, dict) and str(r.get("status") or "").strip().lower() == "refused"}
+    ref = sum(1 for k in ref if lic.get(k) == "cancelled")
     v = sum(1 for s in lic.values() if s == "valid")
     nm = sum(1 for s in lic.values() if s == "not_marketed")
     out[Path(f).parent.name] = {"market_status": lr.get("market_status"), "total": lr.get("total_licenses") if not lr.get("partial_list") else None,
                                 "valid": v, "not_marketed": nm, "cancelled": sum(1 for s in lic.values() if s == "cancelled"),
-                                **({"unknown": sum(1 for s in lic.values() if s == "unknown")} if "unknown" in lic.values() else {}), **({"unconfirmed": lr["unconfirmed"]} if lr.get("unconfirmed") else {}), **({"unconfirmed_ids": sorted(x["license_number"] for x in lr.get("licenses", []) if x.get("status_unconfirmed"))} if lr.get("unconfirmed") else {}), "partial": bool(lr.get("partial_list")), "licenses": lic, **({"veterinary": vet} if vet else {}),
+                                **({"unknown": sum(1 for s in lic.values() if s == "unknown")} if "unknown" in lic.values() else {}), **({"unconfirmed": lr["unconfirmed"]} if lr.get("unconfirmed") else {}), **({"unconfirmed_ids": sorted(x["license_number"] for x in lr.get("licenses", []) if x.get("status_unconfirmed"))} if lr.get("unconfirmed") else {}), "partial": bool(lr.get("partial_list")), "licenses": lic, **({"veterinary": vet} if vet else {}), **({"refused": ref} if ref else {}),
                                 **({"listed": lr["listed_products"]} if lr.get("listed_products") else {}),
                                 **({"valid_single": sum(1 for x in lr.get("licenses", []) if x.get("kind") == "single" and x.get("status") == "valid"),
                                     "single_total": sum(1 for x in lr.get("licenses", []) if x.get("kind") == "single")}
