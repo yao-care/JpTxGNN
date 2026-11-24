@@ -130,7 +130,8 @@ def review_counts(root):
     f = root / "docs/_data/drug_reviews.json"
     if not f.exists():
         return [], {}, {}
-    recs = json.loads(f.read_text(encoding="utf-8")).get("records", [])
+    # 撤回的紀錄（status withdrawn）頁面不顯示框、也不是一次有效的查核，不算進筆數（2026-11-24，Au lurasidone 回報）
+    recs = [r for r in json.loads(f.read_text(encoding="utf-8")).get("records", []) if r.get("status") != "withdrawn"]
     per, last = {}, {}
     for r in recs:
         d = (r.get("drug") or "").lower()

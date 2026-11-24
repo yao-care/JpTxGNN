@@ -564,3 +564,5 @@ M3V	es	Cometriq 20 mg (autorizada, no comercializada) y Cabometyx 40 mg (comerci
 M3V	es	Hay presentaciones Cometriq (autorizada, no comercializada) y Duomox (autorizada, no comercializada).	miss	site=ESTxGNN;ms=Marketed;valid=3;not_marketed=3;cancelled=0
 M3V	es	Cabozantinib está autorizado (no comercializado) en España.	hit	site=ESTxGNN;ms=Marketed;valid=3;not_marketed=3;cancelled=0
 M3V	es	El medicamento no está comercializado en España.	hit	site=ESTxGNN;ms=Marketed;valid=3;not_marketed=3;cancelled=0
+M3V	es	De las 12 autorizaciones, 8 están comercializadas y 4 figuran sin comercializar o revocadas.	miss	site=ESTxGNN;ms=Marketed;valid=8;cancelled=4
+M3V	es	Las 12 autorizaciones figuran en CIMA, sin autorizaciones revocadas.	hit	site=ESTxGNN;ms=Marketed;valid=8;cancelled=4

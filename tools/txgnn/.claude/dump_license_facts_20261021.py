@@ -36,7 +36,10 @@ for f in sorted(glob.glob("data/bundles/*/drug_bundle.json")):
                                 **({"listed": lr["listed_products"]} if lr.get("listed_products") else {}),
                                 **({"valid_single": sum(1 for x in lr.get("licenses", []) if x.get("kind") == "single" and x.get("status") == "valid"),
                                     "single_total": sum(1 for x in lr.get("licenses", []) if x.get("kind") == "single")}
-                                   if any(x.get("kind") for x in lr.get("licenses", [])) else {}),  # 2026-11-06：單方有效張數（checker 的有效張數說法「N valid single-ingredient …」）
+                                   if any(x.get("kind") for x in lr.get("licenses", [])) and not lr.get("kind_undeterminable") else {}),  # 2026-11-06：單方有效張數（checker 的有效張數說法「N valid single-ingredient …」）
+                                # 2026-11-24：單方／複方依各站成分欄切分（各站 reviewer 的 kind）；證據包成分欄不完整、判斷不了的站（Kr）reviewer 標
+                                # kind_undeterminable，這裡不給 single_total／valid_single，另標 single_undeterminable（checker、正文張數改寫遇到單方說法不判、列待查）
+                                **({"single_undeterminable": True} if lr.get("kind_undeterminable") else {}),
                                 **{k: lr[k] for k in ("export_only", "export_total", "export_valid", "domestic_total") if lr.get("export_only")}}
 json.dump(out, sys.stdout, ensure_ascii=False)
 '''

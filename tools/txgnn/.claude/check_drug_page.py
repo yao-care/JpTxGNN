@@ -1314,7 +1314,9 @@ X_LOCAL = {
                          r"\b(registros?|autorizaci\w+)\b[^.;]{0,70}?\b(est[aá]n?|figuran?|son|es|fue|fueron|consta[n]?)\s+(tod[oa]s\s+|actualmente\s+|también\s+|como\s+)*(cancelad|anulad|revocad)|"
                          r"\b(tod[oa]s|ambos|ambas|el único|la única|su único|su única)\b[^.;]{0,70}?\b(cancelad|anulad|revocad)|"
                          r"\bno hay (un )?productos? vigentes?|\bno hay registros? (sanitarios? )?vigentes?", re.I),
-        none_cancel=re.compile(r"\bning[uú]n[oa]? (\w+ ){0,3}(est[aá] )?(cancelad|anulad|revocad)|\bsin (\w+ ){0,2}(cancelad|anulad|revocad|cancelaciones|anulaciones)|"
+        none_cancel=re.compile(r"\bning[uú]n[oa]? (\w+ ){0,3}(est[aá] )?(cancelad|anulad|revocad)|"
+                               # 「sin comercializar o revocadas」＝未上市或已撤銷（有註銷），不是「沒有註銷」：中間字不准是 o／y 或 comercializ*（2026-11-24）
+                               r"\bsin (?:(?!(?:o|y|u|comercializ\w*)\b)\w+ ){0,2}(cancelad|anulad|revocad|cancelaciones|anulaciones)|"
                                r"\bno hay (\w+ ){0,3}(cancelad|anulad|revocad)", re.I),
         all_valid=re.compile(r"\btod[oa]s\b[^.;]{0,60}?\b(est[aá]n|son|figuran)\s+(\w+\s+){0,2}vigentes?|\btod[oa]s (\w+ ){0,3}vigentes\b|"
                              r"\b(ambas|ambos) (autorizaciones|registros)[^.;]{0,40}vigentes", re.I),
