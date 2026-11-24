@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="イレッサ錠２５０　２５０ｍｇ（選） に関するニュースは？">
-<strong>イレッサ錠２５０　２５０ｍｇ（選）</strong> には現在 <strong>106 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
+<strong>イレッサ錠２５０　２５０ｍｇ（選）</strong> には現在 <strong>111 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,31 @@ last_modified_at: 2026-11-24
 <p><a href="{{ '/drugs/gefitinib/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（106 件）
+## 関連ニュース（111 件）
+
+### [近江を要とする「原倭国論」提唱　弥生時代研究の第一人者、森岡秀人さん　死惜しむ声　(産経新聞)](https://news.yahoo.co.jp/articles/34d9cb76e2fe9c5604f2ca8bacc63fd78505bdaf?source=rss)
+
+2026-11-24 <span class="news-indication-tag">がん</span>
+
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/34d9cb76e2fe9c5604f2ca8bacc63fd78505bdaf?source=rss)
+
+---
+
+### [鹿沼 松井市長へ要望書て提出「HPVワクチン 男性への独自助成と子宮頸がん撲滅」に向けて](https://news.google.com/rss/articles/CBMi7AJBVV95cUxQcWZPbHV2amJfblkzYXMxOG9QQ25DZzY3a21WT0NLa0dmRzAxR1ZRQWo0bk1rWlNDZWp2NDg3ZGk1SXcwdmZjTU9rMmJaMldmY0Mya2t3VnlQT3k2OTNzOTVqdWxmUkp1QVExWnBhZDBLVlJaSUE5YkNCdUx6czBPWFFiclpyRzhXVlFud25Ba2Nob2ctZVpKREliR2dNWExaOUtBcThpRE9GcGdtVm9wNm1vSXVfbldraTllQ0tVZmZ0QmtUTXl4ajg0UTdBZmp3ZTdHbGl1THVnajkwSDZTSFFxS19XNmZ2WkQ0U2VoQ1ZMaWlnTTdrVFM5SkE4bmpoMXh6SjFRWml0a2FyUnJWRmMzNXl0NTdrTUZiVmgtUVdBMkc1akNrRGhmSE5MV1FveEZPTHpLRGJlUUpYcXZyNUR2N1NWa1lRS1pJSWR3MkV5T1FheWRFRUtvVzMyZEg3bUdLLW0tRWRMem94?oc=5)
+
+2026-11-24 <span class="news-indication-tag">がん</span>
+
+出典: [公明党](https://news.google.com/rss/articles/CBMi7AJBVV95cUxQcWZPbHV2amJfblkzYXMxOG9QQ25DZzY3a21WT0NLa0dmRzAxR1ZRQWo0bk1rWlNDZWp2NDg3ZGk1SXcwdmZjTU9rMmJaMldmY0Mya2t3VnlQT3k2OTNzOTVqdWxmUkp1QVExWnBhZDBLVlJaSUE5YkNCdUx6czBPWFFiclpyRzhXVlFud25Ba2Nob2ctZVpKREliR2dNWExaOUtBcThpRE9GcGdtVm9wNm1vSXVfbldraTllQ0tVZmZ0QmtUTXl4ajg0UTdBZmp3ZTdHbGl1THVnajkwSDZTSFFxS19XNmZ2WkQ0U2VoQ1ZMaWlnTTdrVFM5SkE4bmpoMXh6SjFRWml0a2FyUnJWRmMzNXl0NTdrTUZiVmgtUVdBMkc1akNrRGhmSE5MV1FveEZPTHpLRGJlUUpYcXZyNUR2N1NWa1lRS1pJSWR3MkV5T1FheWRFRUtvVzMyZEg3bUdLLW0tRWRMem94?oc=5)
+
+---
+
+### [【訃報】元横浜FCのシュナイダー潤之介さん 公表していた「前立腺がん」とは？ 症状などを医師が解説(メディカルドック)](https://news.yahoo.co.jp/articles/4ba9d978b603173c6ad86243f1d7e65339d4a067?source=rss)
+
+2026-11-24 <span class="news-indication-tag">がん</span>
+
+出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/4ba9d978b603173c6ad86243f1d7e65339d4a067?source=rss)
+
+---
 
 ### [《初期症状がほとんどない》女優・中村ゆりさんを襲った「直腸がん」、血便や細い便は危険サイン？専門医が明かす早期発見法と予防習慣 - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTFBFVkZCdkZYMElVMzVVdUxwb3E0YU9oSDlrck1rTDBWWGU2bzVpRzREM2NyRXZPb2xJVkpJYi1wQ3o4aTdBLWRfS0FrMFVILUFJYU1nc201VmlRWHNIV3RkTE9WRDJhWVN3RVAzbEN3?oc=5)
 
@@ -363,6 +387,14 @@ last_modified_at: 2026-11-24
 
 ---
 
+### [脳の健康、早期に意識を 認知症予防へイベント イーライリリー](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qbXVvMklndExveElzM2haUXJ3dmdXRFBQRHdHdk5aUnB4SkFhaHU3UHFEWTRPSlpQZFV3NGw3ZWZLQ1lpeldwblpiS0NiaGZpdjRPM0Zvck9YMzUxWnh2X1dMZTA?oc=5)
+
+2026-11-19 <span class="news-indication-tag">認知症</span>
+
+出典: [十勝毎日新聞](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qbXVvMklndExveElzM2haUXJ3dmdXRFBQRHdHdk5aUnB4SkFhaHU3UHFEWTRPSlpQZFV3NGw3ZWZLQ1lpeldwblpiS0NiaGZpdjRPM0Zvck9YMzUxWnh2X1dMZTA?oc=5)
+
+---
+
 ### [68歳の男性が排尿困難で死亡した。医師らは、見過ごしてはならない3つの兆候を指摘している。](https://news.google.com/rss/articles/CBMirAFBVV95cUxOdmVUQy1qbm1GVXRscDdGVFNXOURLTkN6NDA5WGNBR3pDZkdWTkVDV2tWVUxJZWVMa3lmaUp0Q0M4NDQtT1c0WUU5TzZsX1FSWTVEUVJrd2dlZVIwc2g5YnlmM0VvVGsxcTZvelNJbHNQQlc2RU9KSWRsNE8xRmtrbDJkaTNIdkpxSGt5N2NHY00xMmp1QXhBYVg2NFhva3FXYnM2ZHVDVnZFOWpG?oc=5)
 
 2026-11-19 <span class="news-indication-tag">腫瘍</span>
@@ -392,6 +424,14 @@ last_modified_at: 2026-11-24
 2026-11-18 <span class="news-indication-tag">認知症</span>
 
 出典: [Infoseek](https://news.google.com/rss/articles/CBMicEFVX3lxTFBDSEhkQ09YMFRVeWRUblFhX3pXaFJDUllNZDZXd1FLQlhwVVM5R1A3aWsxZGRnNFVDb3hPQVhaRnVkc2puVUp3WHE2a0VUS3dZUVkyS3hHRFA3a0h2bG16OEZGN0Frc1NOM1dydVF1WnI?oc=5)
+
+---
+
+### [野菜ジュースでもサプリでもない…医師が｢認知症リスクが約3割下がる｣と勧めるスーパーで買える身近な食材](https://news.google.com/rss/articles/CBMickFVX3lxTE1oWDV4c0JzZVNST3pLbnFHdDVabzFTZkY4Q25GcGFQcFJpc3IwMXVfWkdCWGFmUUd1TzdNQ25HVnh5NUZNLVR0Tld3TnljN3hGX1BYNGZaQkJEM3FJZy1WYXdCZnJzalFnSi1laFZMS2ZrZw?oc=5)
+
+2026-11-18 <span class="news-indication-tag">認知症</span>
+
+出典: [ニコニコニュース](https://news.google.com/rss/articles/CBMickFVX3lxTE1oWDV4c0JzZVNST3pLbnFHdDVabzFTZkY4Q25GcGFQcFJpc3IwMXVfWkdCWGFmUUd1TzdNQ25HVnh5NUZNLVR0Tld3TnljN3hGX1BYNGZaQkJEM3FJZy1WYXdCZnJzalFnSi1laFZMS2ZrZw?oc=5)
 
 ---
 

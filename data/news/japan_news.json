@@ -1,19 +1,283 @@
 {
   "source": "japan_news",
-  "fetched_at": "2026-11-24T03:36:46.052906+00:00",
-  "total_fetched": 145,
-  "unique_count": 145,
-  "health_related_count": 58,
+  "fetched_at": "2026-11-24T16:42:17.059960+00:00",
+  "total_fetched": 156,
+  "unique_count": 156,
+  "health_related_count": 69,
   "news": [
     {
-      "id": "a6a8db1854e0",
-      "title": "老化細胞を減らす、悪影響を抑え込むなど、最先端の研究と注目の技術が結集！革新的エイジングケアクリーム5選(婦人公論.jp)",
-      "published": "2026-11-24T03:30:36+00:00",
-      "summary": "くすんだ肌色や険しい印象に見せるシワ、もたつく輪郭……など、悩み多き成熟世代。最先端の細胞研究と最新技術を取り入れ、老化の根本に深く切り込む革新的なエイジングケアクリーム＆美容液で“肌年齢を巻き戻す”",
+      "id": "3023c81cd9d5",
+      "title": "新Rome V診断基準：中枢性腹痛症候群（CAPS） - 日経メディカル",
+      "published": "2026-11-24T14:45:14+00:00",
+      "summary": "新Rome V診断基準：中枢性腹痛症候群（CAPS）&nbsp;&nbsp;日経メディカル",
+      "sources": [
+        {
+          "name": "日経メディカル",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeDRYTmZIYl8wYmJjczNSQnJCZ2pxWTZlSzV5amdHUWFfYnlHcTNzVGdBUmlDR1RIQnRraDJSUnhncWxwTzlucmlrcFdLdXh4TGZtbHg1UUItU2Q0UGg2T3lybVk1ZHpfSmpWd0ZuNHdoZFNTRWsyWGd2V0phUlZ6UW0waw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0b06a22e40d0",
+      "title": "近江を要とする「原倭国論」提唱　弥生時代研究の第一人者、森岡秀人さん　死惜しむ声　(産経新聞)",
+      "published": "2026-11-24T12:41:43+00:00",
+      "summary": "19日に膵臓（すいぞう）がんのため74歳で死去した奈良県立橿原考古学研究所特別指導研究員の森岡秀人（ひでと）さん。弥生時代研究の第一人者である森岡さんが、とりわけ注目したのが滋賀県の弥生遺跡だった。纒",
       "sources": [
         {
           "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/43e07eeebdc36c55f3bb0d8e50ff0d182d3536d9?source=rss"
+          "link": "https://news.yahoo.co.jp/articles/34d9cb76e2fe9c5604f2ca8bacc63fd78505bdaf?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "a31b587ac22f",
+      "title": "＜独自＞ドクターヘリ選定基準「間断なく」削除　救急医療の安定供給に懸念も　厚労省検討(産経新聞)",
+      "published": "2026-11-24T12:41:14+00:00",
+      "summary": "救急患者を搬送するドクターヘリを巡り、厚生労働省が運航会社の選定基準で、「年間を通して間断なく運航することが可能な台数保有すること」のうち「間断なく」の文言の削除を検討していることが24日、分かった。",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Life",
+          "link": "https://news.yahoo.co.jp/articles/9fbddc90cdc8d1a741470377b6c9e856469f4ba5?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "6085626b2441",
+      "title": "脳卒中患者の数は増加傾向にある。 - Vietnam.vn",
+      "published": "2026-11-24T12:22:58+00:00",
+      "summary": "脳卒中患者の数は増加傾向にある。&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aLWQ4OWxkZmNJRmNHRXdqdmVzaFZ5Rk1vVnZiNWVPbGdYYlhzMHVTSHRQaXM1emh3aFJiWUNWdWNTUktMV2o2cDM1M0ZnRDhwZlkxRi1SUGNqR0VaYkgwQ0NJQi01VjJkbFVXWQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "a34b8d7c4e79",
+      "title": "風疹ウイルスの「侵入口」を特定 母子感染経路解明に期待 - 日本経済新聞",
+      "published": "2026-11-24T11:19:00+00:00",
+      "summary": "風疹ウイルスの「侵入口」を特定 母子感染経路解明に期待&nbsp;&nbsp;日本経済新聞Google ニュースで見出しと意見をもっと見る",
+      "sources": [
+        {
+          "name": "日本経済新聞",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HcEp5LTRtNDk4R3FIZkJWTEtXR3hHSE1jLTlKeFdtcDNzYkxPWmIydHVVMk5waGxTeEdlbFZtcUJFSjYwRDF4NWlIRGJJVk1MQnU4Tk9UZzRIQXEyTDFBeVFVQlA4REZGSWtncQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "f4016f2ba7e1",
+      "title": "ライオンズ研究室の研究、ミエリンの腫れは可逆的と判明―ナトリウムチャネルが生死を左右する可能性 - BigGo ファイナンス",
+      "published": "2026-11-24T11:09:00+00:00",
+      "summary": "ライオンズ研究室の研究、ミエリンの腫れは可逆的と判明―ナトリウムチャネルが生死を左右する可能性&nbsp;&nbsp;BigGo ファイナンス",
+      "sources": [
+        {
+          "name": "BigGo ファイナンス",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sUzRfSGRBWWFaMFRtWVM5aG9UdU1Ia3JFSlZWVUExRHR4Smt4X2J5R2NxcmpXUjI2T3kzUXJsSUt3QXdiay02WndJVnZMRWp5eGdKUlBSLUlQdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "444b8331e408",
+      "title": "【体内の \"良い脂肪\" が不安やうつを抑制する？】大規模分析で見えた関連性（ヨガジャーナルオンライン） - Yahoo!ニュース",
+      "published": "2026-11-24T10:45:00+00:00",
+      "summary": "【体内の \"良い脂肪\" が不安やうつを抑制する？】大規模分析で見えた関連性（ヨガジャーナルオンライン）&nbsp;&nbsp;Yahoo!ニュース",
+      "sources": [
+        {
+          "name": "Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10YkxCUEdjT1JjaHFsdzlGZzdLbWc5eW1wNE1sSk5WZFpUX0JyTDROUGxuZWJ1WXRXWU0xU1pYT2kzVDQ2SUlrSnh2Ny1PdVB2TjNSRGlRS2lWLV9JeW9OSElSc0pDMGw5dUpzeDR6X1JlblJ4ZUJVTHF3WEJhOXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "bbe95c839cb1",
+      "title": "深海生物「シェンロン」の体内から「ドラゴンボール」を発見(ギズモード・ジャパン)",
+      "published": "2026-11-24T10:00:02+00:00",
+      "summary": "シェンロンからドラゴンボールです。マンガの話かと思いますよね。でも、これは実在する深海生物の研究です。【全画像をみる】深海生物「シェンロン」の体内から「ドラゴンボール」を発見ミミズのような姿をした生物",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/2ba153079ad58611c4462fca4806a034bd0f946b?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "72f0ebdd4c75",
+      "title": "クビアカツヤカミキリの被害樹木、短期間で確認　島津製作所が民間初の検査サービス開始(産経新聞)",
+      "published": "2026-11-24T09:44:33+00:00",
+      "summary": "分析機器メーカーの島津製作所は24日、樹木への被害が問題となっている特定外来生物「クビアカツヤカミキリ」の幼虫を早期発見する民間初の検査サービスを始めた。幼虫が出す物質を分析し、従来より短期間で寄生の",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/1d2cc764450f300ee4ba670348f6d6a04e6c647a?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "84a4cb6e7b53",
+      "title": "保健省は、COVID-19のPJ.2.1変異株に関する情報を提供しています。 - Vietnam.vn",
+      "published": "2026-11-24T09:43:30+00:00",
+      "summary": "保健省は、COVID-19のPJ.2.1変異株に関する情報を提供しています。&nbsp;&nbsp;Vietnam.vn保健省は、新たな変異株の発生を踏まえ、新型コロナウイルス感染症の予防と抑制を積極的に行うことを推奨する。&nbsp;&nbsp;Vietnam.vn新型コロナウイルスの新たな変異株は感染力が強いものの、既存のワクチンによって依然として「中和」される。&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVlpvbDFSNFQ5ckZrdVl6a0tGTzFNZUJHZTk1ZXpmc1Z5b3Y3akJxU3kzckVYSmo2OGlhRUJIc2JGUzdRRU51S1haajdDd0RfZkQyOGJIZnVhdzRKeWdjX0oxVUUxN2JfVmJkY29QY0dDTWUzTTJmX01xX1M0WFlZUUhIS045amM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "4010d8fcff14",
+      "title": "腎臓病の既往歴のある66歳の男性は、2日間の息切れの後、重度の呼吸不全と血中カリウム値の急上昇を起こした。 - Vietnam.vn",
+      "published": "2026-11-24T09:41:26+00:00",
+      "summary": "腎臓病の既往歴のある66歳の男性は、2日間の息切れの後、重度の呼吸不全と血中カリウム値の急上昇を起こした。&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMFpKQ250Q3g2MzhUb2xkckNxb0RCWkVYOXZVUURYZWRGLXpEOFl4QVFZMlNHWGlIQ2NuWG9rN0FSMjF4dEdCVm9IS2gycmNtYXYtMlRQTWxZaVpZVGNPQWEweDBQeGNfaTNQTDhWUlpqa1dLQmxjeHZXZFVuTGRQbnhiTWFES2tLZnA0Q0ZPWWswdU9tcDRac1lRUmIzdFh1UkUtdm42N1JHc1NjYWpJUGpOMlV5YkgxSW53di15Qy11N3M?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "ecb161debe78",
+      "title": "カイロスロケット4号機、27年1月22日に打ち上げ　日本の民間初の衛星軌道投入目指す(産経新聞)",
+      "published": "2026-11-24T09:36:30+00:00",
+      "summary": "宇宙事業会社のスペースワン（東京都港区）は24日、開発中の小型固体燃料ロケット「カイロス」4号機を来年1月22日、和歌山県串本町のロケット発射場「スペースポート紀伊」から打ち上げると発表した。打ち上げ",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/23c69100adf4f4486ce82b2140b79689ffa9c1a6?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "38326c0bf74b",
+      "title": "皮膚細菌感染症診療の分かれ目と落とし穴 AIには書けない!?〈14の論点〉 - 日本医事新報社",
+      "published": "2026-11-24T09:36:14+00:00",
+      "summary": "皮膚細菌感染症診療の分かれ目と落とし穴 AIには書けない!?〈14の論点〉&nbsp;&nbsp;日本医事新報社",
+      "sources": [
+        {
+          "name": "日本医事新報社",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4xbUI3TlNkb290NDFJVU5DOUwxLXVxUjdGYlRqNTRKbmhuMW1qcXFYck1hYXFPLWhPalpZdDNQbGlldTF6RGpRbEx3a01OQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "38613e879e46",
+      "title": "鹿沼 松井市長へ要望書て提出「HPVワクチン 男性への独自助成と子宮頸がん撲滅」に向けて - 公明党",
+      "published": "2026-11-24T09:12:38+00:00",
+      "summary": "鹿沼 松井市長へ要望書て提出「HPVワクチン 男性への独自助成と子宮頸がん撲滅」に向けて&nbsp;&nbsp;公明党",
+      "sources": [
+        {
+          "name": "公明党",
+          "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQcWZPbHV2amJfblkzYXMxOG9QQ25DZzY3a21WT0NLa0dmRzAxR1ZRQWo0bk1rWlNDZWp2NDg3ZGk1SXcwdmZjTU9rMmJaMldmY0Mya2t3VnlQT3k2OTNzOTVqdWxmUkp1QVExWnBhZDBLVlJaSUE5YkNCdUx6czBPWFFiclpyRzhXVlFud25Ba2Nob2ctZVpKREliR2dNWExaOUtBcThpRE9GcGdtVm9wNm1vSXVfbldraTllQ0tVZmZ0QmtUTXl4ajg0UTdBZmp3ZTdHbGl1THVnajkwSDZTSFFxS19XNmZ2WkQ0U2VoQ1ZMaWlnTTdrVFM5SkE4bmpoMXh6SjFRWml0a2FyUnJWRmMzNXl0NTdrTUZiVmgtUVdBMkc1akNrRGhmSE5MV1FveEZPTHpLRGJlUUpYcXZyNUR2N1NWa1lRS1pJSWR3MkV5T1FheWRFRUtvVzMyZEg3bUdLLW0tRWRMem94?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "3e8d5b413e07",
+      "title": "熱中症リスクは暑さだけで決まらない？持病や生活習慣との関連が明らかに｜ニュース - 保健指導リソースガイド",
+      "published": "2026-11-24T07:29:57+00:00",
+      "summary": "熱中症リスクは暑さだけで決まらない？持病や生活習慣との関連が明らかに｜ニュース&nbsp;&nbsp;保健指導リソースガイド",
+      "sources": [
+        {
+          "name": "保健指導リソースガイド",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBORVg4N1U4czR3WlJYVUk5NmhWR2FBZGdvcjQxNXBhR0pOV3F4OGxKSGNTeDVKY0k3dnIyU0hpeW9FSDh1c2FXNVV5VF9FSlBQSkI5dDJvSTl4aURsT3BVOVBJWUNMQ2E3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "0f0c93bebfc4",
+      "title": "ワクチン接種の推奨「小児科医として当たり前」- HPVワクチン「山形モデル」 を検証◆Vol.2 - m3.com",
+      "published": "2026-11-24T06:21:51+00:00",
+      "summary": "ワクチン接種の推奨「小児科医として当たり前」- HPVワクチン「山形モデル」 を検証◆Vol.2&nbsp;&nbsp;m3.comGoogle ニュースで見出しと意見をもっと見る",
+      "sources": [
+        {
+          "name": "m3.com",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tWXRLazVMN2VTU3JsTGQ0QzVKOFVBUW1iNV9TZVhNSjFDMmVFLXVBU24zVVQ2eU9MVjloMndncl9tNVlOZ3YxOG4ybHdSNnRMWS1YNmtvRHpDVjRHeXc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8ea9d2a62e3a",
+      "title": "需要拡大「リチウム」…東北大学、鉱石から低温抽出する技術開発(ニュースイッチ)",
+      "published": "2026-11-24T06:10:01+00:00",
+      "summary": "東北大学の王佳婕助教と木村唯乃学部生（研究当時）、渡邉則昭教授は、鉱石からリチウムを低温で抽出する技術を開発した。水熱反応を利用してリチウムを溶出させる。プロセス温度を1000度Cから300度Cに低減",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/d456501731f2b9058ffb8d9601ad905c2e229c2c?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "0b8c266d7cfc",
+      "title": "バクマイ病院の医師たちは、いびき、夢遊病、日中の眠気など、多くの人が見過ごしがちな6つの睡眠障害を指摘している。 - Vietnam.vn",
+      "published": "2026-11-24T05:46:58+00:00",
+      "summary": "バクマイ病院の医師たちは、いびき、夢遊病、日中の眠気など、多くの人が見過ごしがちな6つの睡眠障害を指摘している。&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTUpKdFJneVh1ZmpuamFGOUlFMlRTcTA1S0t5bzlobTR0RGNtN2xTbHl6ejdtTC12SEN0NEN4N2xMUGJoVG50SUYwR0lOSGN0QnRuMVhvdXFfRUlpZDJoS21pcFVDOUtkUkZ1U3NMMGJWTmlTQmpYbjVaX3g5aU5CQUtkZkRRNjVfYTAzVmU0T0NlTllfUTcybzRXMElHMWZEV2dmaFFZNjFxRHlJY1hUZEhKc0FlUHMwQ2Z3c3ZveUpjb0h1?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "8986380741e7",
+      "title": "感染症ワクチンに関する誤解を解く。 - Vietnam.vn",
+      "published": "2026-11-24T05:40:36+00:00",
+      "summary": "感染症ワクチンに関する誤解を解く。&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSVdyNmVZaFlHbklRTDRHX1NSLXRubG9pQndGcmkxWGdmQjhlcXI2akxaSnBJUXBGRjdyZEVRck90SUVRQnNSZnA2MkVycDFPWjMtcElYOWhIR3ltY0IwMHFQOU56bF9UX3pjdlg1MjBuTV9OTThZX0J0Q3R3YVFzcDVuN3l2Z1J6Mzl0TA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "e23c1e5febab",
+      "title": "【訃報】元横浜FCのシュナイダー潤之介さん 公表していた「前立腺がん」とは？ 症状などを医師が解説(メディカルドック)",
+      "published": "2026-11-24T05:03:23+00:00",
+      "summary": "横浜FCは11月22日、2010年から2013年まで同クラブに所属していた元GKのシュナイダー潤之介さんが、10月3日に亡くなったと発表しました。49歳でした。シュナイダーさんは2024年11月、ステ",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/4ba9d978b603173c6ad86243f1d7e65339d4a067?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "a75e4c54c50f",
+      "title": "「よく眠れない」を放置しないで――不眠は“心の不調のサイン”かもしれない(Medical Note)",
+      "published": "2026-11-24T04:50:39+00:00",
+      "summary": "「たかが睡眠」と考えて、眠れない日々をやり過ごしてはいないだろうか。しかし、睡眠の乱れは、うつ病などの心の不調に先立って現れることも少なくない。睡眠と心のクリニック 院長の合田 廷大（ごうだ たかひろ",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/5ce9d5dfebd5bee06ed6bb8386f2c7b81d5cd655?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "0ae036217d6d",
+      "title": "「人の手で再現するのは難しい」魚の剥製で失われる色　防止に効果的な液体、中学生が突き止め最高賞(西日本新聞me)",
+      "published": "2026-11-24T04:27:24+00:00",
+      "summary": "佐賀大教育学部付属中の3年生、古藤田れあるさん（15）が、魚の剥製の退色防止に緑茶が効果的であることを突き止めた。「お茶には消臭・殺菌作用もあり、剥製にぴったり」。こんな発想から研究を深め、50匹以上",
+      "sources": [
+        {
+          "name": "Yahoo! Japan Science",
+          "link": "https://news.yahoo.co.jp/articles/d0fda588f2621a2600c51921bbc48dacf7207962?source=rss"
+        }
+      ]
+    },
+    {
+      "id": "b8d815072a5e",
+      "title": "バクマイ病院ニンビン分院は、膵仮性嚢胞を胃へ排出する内視鏡的超音波ドレナージを世界で初めて実施した。 - Vietnam.vn",
+      "published": "2026-11-24T04:17:54+00:00",
+      "summary": "バクマイ病院ニンビン分院は、膵仮性嚢胞を胃へ排出する内視鏡的超音波ドレナージを世界で初めて実施した。&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNHJGREs0TkQzWlNYRVRZdTg1QjNDNjRFTzdYVWplNm93ZllnQmtPRzNFMXFNRjRxemNmck52VnlaRkhLRkRsN0hqdHJPZ0RIQTRRaGU5d0lub1dXOEpESUNINmlyZmg4dTVKeTU2RGs0SXpmTDNIMTZWdEZQa3JYZ1l2LTlITnZPT2Z6QTJoTWlkd0tjV29FSU1JOHM5eE9qYUxueWZJWnZFOFh3QlAyMEdzNXJsUUk?oc=5"
         }
       ]
     },
@@ -21,7 +285,7 @@
       "id": "feaf1864bc8e",
       "title": "「おしっこの色」がサインになることも―未治療だと将来透析に至ることもあるIgA腎症、治療はどう変わる？（メディカルドック） - Yahoo!ニュース",
       "published": "2026-11-24T03:02:05+00:00",
-      "summary": "「おしっこの色」がサインになることも―未治療だと将来透析に至ることもあるIgA腎症、治療はどう変わる？（メディカルドック）&nbsp;&nbsp;Yahoo!ニュースIgA腎症治療における完全寛解への期待（解説：浦 信行 氏）－2182｜CareNet.com&nbsp;&nbsp;CareNet.com",
+      "summary": "「おしっこの色」がサインになることも―未治療だと将来透析に至ることもあるIgA腎症、治療はどう変わる？（メディカルドック）&nbsp;&nbsp;Yahoo!ニュースGoogle ニュースで見出しと意見をもっと見る",
       "sources": [
         {
           "name": "Yahoo!ニュース",
@@ -42,18 +306,6 @@
       ]
     },
     {
-      "id": "457725196168",
-      "title": "なぜ「書き出す」だけで頭がスッキリするのか　今日から試したい2つの習慣(PHPオンライン)",
-      "published": "2026-11-24T02:53:35+00:00",
-      "summary": "仕事のことが頭から離れず、目の前の作業に集中できない。相手からの返信が遅いだけで、悪い想像ばかりしてしまう......。こうした悩みを解消するには、「気になることを書く」「不安を整理する」の2つが効果",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Life",
-          "link": "https://news.yahoo.co.jp/articles/a771b4020f10e094adf93bfb1fe2bf5d14286384?source=rss"
-        }
-      ]
-    },
-    {
       "id": "418146289a81",
       "title": "「もうお歳だから」で済ませない――高齢者救急と地域医療構想、民間病院グループの挑戦(Medical Note)",
       "published": "2026-11-24T02:50:16+00:00",
@@ -66,14 +318,14 @@
       ]
     },
     {
-      "id": "f4cf8045bf18",
-      "title": "「子どもが触るものは全部消毒」は逆効果？ 小児科医が考える、除菌のしすぎと「免疫を育てる」視点 - UQライフ",
-      "published": "2026-11-24T02:50:00+00:00",
-      "summary": "「子どもが触るものは全部消毒」は逆効果？ 小児科医が考える、除菌のしすぎと「免疫を育てる」視点&nbsp;&nbsp;UQライフ",
+      "id": "4514aa1ba53f",
+      "title": "視神経細胞をシート化 東北大ｉＰＳ活用 緑内障新治療へ - 福島民報デジタル",
+      "published": "2026-11-24T02:00:00+00:00",
+      "summary": "視神経細胞をシート化 東北大ｉＰＳ活用 緑内障新治療へ&nbsp;&nbsp;福島民報デジタル視神経細胞をシート化 東北大開発&nbsp;&nbsp;Yahoo!ニュース写真：視神経細胞のシート化技術を開発 ｉＰＳ細胞を活用、新治療に期待&nbsp;&nbsp;沖縄タイムス社視神経細胞のシート化技術を開発 ｉＰＳ細胞を活用、新治療に期待&nbsp;&nbsp;岩手日報iPS細胞を使った視力再生の課題とシート化技術 - 視神経細胞のシート化技術を開発 iPS細胞を活用、新治療に期待 - 写真・画像(1/1)&nbsp;&nbsp;西日本新聞me",
       "sources": [
         {
-          "name": "UQライフ",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTXloY3NkMno2eGMyd2xZd0dBYjRHVWlkcEZxbHg2QlRJdmhBUXY3UFpOM3d6N05vbVI1TWo4N0ZxRDJzbkplbGVRR2E5Y1ZRQ3N2Y1ZhS3RSQmdoaHZEWDdveExocHJtaE1MeU5jUl9aMjVXalN5TDBvUE5reUN5cQ?oc=5"
+          "name": "福島民報デジタル",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9tam5VNWJwUVprSldhRGNNUHpLb0pWbjFQcnF5WHItUjBBRXFFR2V6UEtQZ2I2dHA5amFKWnd4Q0NxQy1IVk5oZGwxVWMyT0k?oc=5"
         }
       ]
     },
@@ -102,18 +354,6 @@
       ]
     },
     {
-      "id": "1e50bab6a8c7",
-      "title": "【ヤフコメで話題】「iPS細胞による視神経再生研究に期待」「緑内障患者にとって希望の光」 - 新技術開発に寄せられる切実な声 - Yahoo!ニュース",
-      "published": "2026-11-24T00:22:36+00:00",
-      "summary": "【ヤフコメで話題】「iPS細胞による視神経再生研究に期待」「緑内障患者にとって希望の光」 - 新技術開発に寄せられる切実な声&nbsp;&nbsp;Yahoo!ニュース視神経細胞をシート化 東北大開発&nbsp;&nbsp;Yahoo!ニュース写真：視神経細胞のシート化技術を開発 ｉＰＳ細胞を活用、新治療に期待&nbsp;&nbsp;沖縄タイムス社視神経細胞のシート化技術を開発 ｉＰＳ細胞を活用、新治療に期待&nbsp;&nbsp;岩手日報iPS細胞を使った視力再生の課題とシート化技術 - 視神経細胞のシート化技術を開発 iPS細胞を活用、新治療に期待 - 写真・画像(1/1)&nbsp;&nbsp;西日本新聞me",
-      "sources": [
-        {
-          "name": "Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zdVpJRjF4UVJKdXF3UTg2aE5wNnNXN1IyM1c2Tk9jUHU4NzBrakZvMmtobV9Za2hYUy1PaGZuRzRTV1dsanl3dElRSnJVb2JLQU81WkZfR0FOem83SXRRYUlmVlhFdllXU0NBTUlPNmFRM0o3UW0xMHhQSUxNLTQ?oc=5"
-        }
-      ]
-    },
-    {
       "id": "a612117ad4b9",
       "title": "「マツタケ」は優秀な健康食材？ キノコ類でトップクラスの“栄養素”とは【医師に聞く】（オトナンサー） - Yahoo!ニュース",
       "published": "2026-11-24T00:15:00+00:00",
@@ -138,18 +378,6 @@
       ]
     },
     {
-      "id": "b2f50eeb9576",
-      "title": "｢一人が気楽｣でも孤立は危険――医師･鎌田實が警鐘を鳴らす《健康長寿を遠ざける意外なリスク》 - 東洋経済オンライン",
-      "published": "2026-11-24T00:00:00+00:00",
-      "summary": "｢一人が気楽｣でも孤立は危険――医師･鎌田實が警鐘を鳴らす《健康長寿を遠ざける意外なリスク》&nbsp;&nbsp;東洋経済オンラインGoogle ニュースで見出しと意見をもっと見る",
-      "sources": [
-        {
-          "name": "東洋経済オンライン",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5OQkNjX1pxRzhvQjFFM2twVFh4NmVqQkRacjhyOTRkOHJ3WUtnX2Z4ZjZzZ2VmcWdzSjA5WFNHREdPaHJrQ1pIRGw5SFJFZEpzX0ZaOS1HQVRiMFdZUW1V?oc=5"
-        }
-      ]
-    },
-    {
       "id": "5a2989fe6021",
       "title": "Ⅱ期前立腺がんの70代男性、抗凝固剤を服用中で放射線療法の合併症が心配 がん電話相談から - 産経ニュース",
       "published": "2026-11-23T23:40:00+00:00",
@@ -170,18 +398,6 @@
         {
           "name": "Yahoo! Japan Science",
           "link": "https://news.yahoo.co.jp/articles/bad952b06f524bb23bec7414a19bf9cc84c27442?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "e02943ec6208",
-      "title": "ワクチン接種の推奨「小児科医として当たり前」- HPVワクチン「山形モデル」 を検証◆Vol.2 - m3.com",
-      "published": "2026-11-23T21:47:47+00:00",
-      "summary": "ワクチン接種の推奨「小児科医として当たり前」- HPVワクチン「山形モデル」 を検証◆Vol.2&nbsp;&nbsp;m3.comGoogle ニュースで見出しと意見をもっと見る",
-      "sources": [
-        {
-          "name": "m3.com",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5CVHhld3N0VEl1Y2hqXzVmWmFaVHc2S08xa2tjQ01sOWhGcXBHVEtqYzc3NTlSemVsT0EyT3lWWFJ1dnluSHNnZEZlUUpCVW1ZNktB?oc=5"
         }
       ]
     },
@@ -234,14 +450,14 @@
       ]
     },
     {
-      "id": "38326c0bf74b",
-      "title": "皮膚細菌感染症診療の分かれ目と落とし穴 AIには書けない!?〈14の論点〉 - 日本医事新報社",
-      "published": "2026-11-23T09:55:02+00:00",
-      "summary": "皮膚細菌感染症診療の分かれ目と落とし穴 AIには書けない!?〈14の論点〉&nbsp;&nbsp;日本医事新報社",
+      "id": "b040a0502b9f",
+      "title": "9万9000円の高級クリームVS美容医療！たるみ・ハリ不足にどう使い分ける？同じ予算で得られる効果の違いを解説（VOCE） - Yahoo!ニュース",
+      "published": "2026-11-23T09:00:50+00:00",
+      "summary": "9万9000円の高級クリームVS美容医療！たるみ・ハリ不足にどう使い分ける？同じ予算で得られる効果の違いを解説（VOCE）&nbsp;&nbsp;Yahoo!ニュース",
       "sources": [
         {
-          "name": "日本医事新報社",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4xbUI3TlNkb290NDFJVU5DOUwxLXVxUjdGYlRqNTRKbmhuMW1qcXFYck1hYXFPLWhPalpZdDNQbGlldTF6RGpRbEx3a01OQQ?oc=5"
+          "name": "Yahoo!ニュース",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBZR3ktVUZpM0t4Mk04S201NHlwMU8yNWpWV0hsYkFsX1lOck0yb2swWTg4T0hrNDltTTNWRk9JcUVSbVVNS1JvY21hLW5DenZWaXZpeS1uYklSQ0o5X2RpTE5jbnVKdWdpcXdwZExUUGozNDRzeXZ4ZDFoUEcxZ0E?oc=5"
         }
       ]
     },
@@ -357,7 +573,7 @@
       "id": "7fb3b1c78033",
       "title": "備える感染症＝世界エイズデー　県内で無料抗体検査実施｜四国新聞WEB朝刊 - 四国新聞",
       "published": "2026-11-22T19:00:56+00:00",
-      "summary": "備える感染症＝世界エイズデー 県内で無料抗体検査実施｜四国新聞WEB朝刊&nbsp;&nbsp;四国新聞１２月１日は「世界エイズデー」です&nbsp;&nbsp;福岡県庁ホームページHIV/エイズ啓発イベント「RED RIBBON LIVE NAGOYA 2026」11月23日（月・祝）アスナル金山にて開催！&nbsp;&nbsp;Mantan Web",
+      "summary": "備える感染症＝世界エイズデー 県内で無料抗体検査実施｜四国新聞WEB朝刊&nbsp;&nbsp;四国新聞【医療機関の皆様へ】HIV検査の協力依頼について&nbsp;&nbsp;札幌市１２月１日は「世界エイズデー」です&nbsp;&nbsp;福岡県庁ホームページHIV/エイズ啓発イベント「RED RIBBON LIVE NAGOYA 2026」11月23日（月・祝）アスナル金山にて開催！&nbsp;&nbsp;Mantan Web",
       "sources": [
         {
           "name": "四国新聞",
@@ -366,14 +582,14 @@
       ]
     },
     {
-      "id": "7e3eb6936e88",
-      "title": "RSVは生後3ヶ月未満の乳幼児にとって危険です。早期予防が必要です。 - Vietnam.vn",
-      "published": "2026-11-22T12:09:28+00:00",
-      "summary": "RSVは生後3ヶ月未満の乳幼児にとって危険です。早期予防が必要です。&nbsp;&nbsp;Vietnam.vnRSウイルス抗体製剤、定期接種化を検討中…厚労省・議論まとめ（リセマム）&nbsp;&nbsp;Yahoo!ニュース定期接種化へ「優先順位」議論 厚労省部会、おたふくワクチン推す声多く | 日刊薬業 - 医薬品産業の総合情報サイト&nbsp;&nbsp;日刊薬業ＲＳウイルス抗体薬で重症化予防 定期接種化へ議論&nbsp;&nbsp;中日新聞WebRSウイルス抗体製剤、定期接種化を検討中…厚労省・議論まとめ&nbsp;&nbsp;リセマム",
+      "id": "ebc7138d779d",
+      "title": "季節性呼吸器合胞体ウイルス：胎児期からお子様を守る。 - Vietnam.vn",
+      "published": "2026-11-22T17:05:55+00:00",
+      "summary": "季節性呼吸器合胞体ウイルス：胎児期からお子様を守る。&nbsp;&nbsp;Vietnam.vnRSウイルス抗体製剤、定期接種化を検討中…厚労省・議論まとめ（リセマム）&nbsp;&nbsp;Yahoo!ニュース定期接種化へ「優先順位」議論 厚労省部会、おたふくワクチン推す声多く | 日刊薬業 - 医薬品産業の総合情報サイト&nbsp;&nbsp;日刊薬業RSウイルス抗体製剤、定期接種化を検討中…厚労省・議論まとめ&nbsp;&nbsp;リセマム高齢者に対する肺炎球菌ワクチン及び小児におけるRSウイルス感染症の予防についての議論のまとめ&nbsp;&nbsp;厚生労働省",
       "sources": [
         {
           "name": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWEM2R2U0Rk9GU3d4SEQ1N2E3aElYQzFnMHdmMXg4ZC1rV3lBNHQ4V2RycDhfT09wRmJ2M21lMGpTcFVyNUVvLXAtWlo0Rlk3UVhfalZCVmxDS0lYWUVhVGV5ankxRTl3eU5KaDJpOVBRV1ZRVjVIYlJVSEFGYWg0S0tiRmdiSWt0VFl4VWkydWc?oc=5"
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTUZJaWkxVlluRC1FS0RIa2JmdEdEaXRycjhmUnY2ZHNKOFRWZTBDZ2VXUlg5N01sUktlT2tpcTFQMlJWZG5oTTR1YWlEYklxM09ILVllQms1RmROUlkzRXhhMGpQVnRZMHljWjBraTh0UGp1U3U5eUhWNDkwdExndE5mbTY5VkRaanUw?oc=5"
         }
       ]
     },
@@ -386,30 +602,6 @@
         {
           "name": "Yahoo!ニュース",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUi0wbEgyekY5V1l6S0tVUU10UUpxN1VnRzk3U24tU2VzR2RjYkdNZjB5TDRubHprbGVseGpVMl94ZGt0VDhCNGV1S1dQTnAyNTlOZnhkMXpBRE9FRkJST1QxX1NIQ2pOdV9BMi1ld082UFJHMXZuNVE2LVRRNmpQb3lrVEZnR2Qx?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "a0b67d236618",
-      "title": "季節の変わり目には疾病の発生が増加するため、重篤な合併症を予防することが重要です。 - Vietnam.vn",
-      "published": "2026-11-22T11:39:19+00:00",
-      "summary": "季節の変わり目には疾病の発生が増加するため、重篤な合併症を予防することが重要です。&nbsp;&nbsp;Vietnam.vn感染症の増加は、学校における感染拡大のリスクに対する懸念を高めている。&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOR3VWVFF0bjhDOUhwcnotT1p4SjdVc1FVTjU0SG5fbnJKOUkzcjQ3bXJvWFU4N0Z4eWVLVi03OTVjYjllVWcwQnFyRlBzMVJTRHRNRU0wVl80dlFUUG9QQzFlOXJGSl9oekU4UFBQc3R4M0JMeFI3U2pRQ0dIbWdkWHJ6Vlh4cVkyUl9QODRqNA?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "681687313c5f",
-      "title": "新型コロナウイルスの新たな、感染力の強い変異株が確認された。 - Vietnam.vn",
-      "published": "2026-11-22T11:12:32+00:00",
-      "summary": "新型コロナウイルスの新たな、感染力の強い変異株が確認された。&nbsp;&nbsp;Vietnam.vn細胞への侵入能力が優れており、急速に広がる新型COVID-19変異株を発見&nbsp;&nbsp;Laodong.vn",
-      "sources": [
-        {
-          "name": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeUVkLXh2NXpHZWU0YUtubGtJRUJydnMxUjMwaUJsQjB4QWI1SG5yUFJZTWdPR0lfS3BKX2ZsUVpvcWRDSHR6cmpxTlJXanFPVVZZWXZEN0FuOEdsTlA4UndpX1FzRlVrNGlRcUZwc3FnTkhpaWtqc2RISGJRZ0EwRGY0dEp1OE00MGhEdQ?oc=5"
         }
       ]
     },
@@ -474,14 +666,14 @@
       ]
     },
     {
-      "id": "eb1ee3fb0ab0",
-      "title": "チェンマイでエムポックス感染予防を呼びかけ、観光警察と保健当局が繁華街を訪問 - タイランドハイパーリンクス",
-      "published": "2026-11-21T10:34:46+00:00",
-      "summary": "チェンマイでエムポックス感染予防を呼びかけ、観光警察と保健当局が繁華街を訪問&nbsp;&nbsp;タイランドハイパーリンクス",
+      "id": "22914d2d55bb",
+      "title": "【衝撃データ】48.8％の人が花粉症の症状が軽減！「今から始めてほしい」ワンコイン以下で始められる対策とは - Infoseek",
+      "published": "2026-11-21T11:56:17+00:00",
+      "summary": "【衝撃データ】48.8％の人が花粉症の症状が軽減！「今から始めてほしい」ワンコイン以下で始められる対策とは&nbsp;&nbsp;Infoseekインフル予防に歯磨きが効く理由 唾液の抗体IgAと歯周病菌の真実&nbsp;&nbsp;Forbes JAPAN",
       "sources": [
         {
-          "name": "タイランドハイパーリンクス",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBsVGpycnFBNElMWlc2ZGc0aUlwS1E4aDVWMDFJcVFMTXVJdkJ5Uk5hZnRWX3B6dzBiQzR2dFhocE5vY3hsV0JDbkJrRzRHQXNzNkJWNg?oc=5"
+          "name": "Infoseek",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBmeDFxcFltaHphdlE3UHR6alFFZVRVTS16TEdPQVdCd2RyUGNfTjc0a0YyeThzMFp4c29Rbll6UVlFUlZLOE95TktWMWMxd3NoTU5Cd1ROZW9pdzh5UkN2VmY4aFpmUm8?oc=5"
         }
       ]
     },
@@ -498,6 +690,18 @@
       ]
     },
     {
+      "id": "be667e74de1b",
+      "title": "【新刊案内】認知症にはスイッチがある。 専門医がやさしく解説する人生100年時代の脳活習慣『認知症スイッチの切り方』が11月20日発売！ - valuepress",
+      "published": "2026-11-21T09:00:00+00:00",
+      "summary": "【新刊案内】認知症にはスイッチがある。 専門医がやさしく解説する人生100年時代の脳活習慣『認知症スイッチの切り方』が11月20日発売！&nbsp;&nbsp;valuepress",
+      "sources": [
+        {
+          "name": "valuepress",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vYl9fdTRUMHc1Z0QtVHh6UnpkZmNqVUFOc3FFQkVZOWFnN2dDcDY2VjlIT0JlZEY4emM0U2trZV9BejdwLXZlWjQzb1JkUTJqMkRLdlliMFNGOU0?oc=5"
+        }
+      ]
+    },
+    {
       "id": "ed9d824f052c",
       "title": "ベトナム人は脳卒中を発症する年齢が平均で約10歳早く、男性患者数は女性患者の2倍に達している。 - Vietnam.vn",
       "published": "2026-11-21T03:44:06+00:00",
@@ -506,66 +710,6 @@
         {
           "name": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMXYxUXozV2xWRTN5X1pLdEhkRWVMYXljbGZOd2Q4cXhrR25TVm5wUXJpZEJ1UmlnRXVJT0pUdHB4YkNmd1Z4LWcxT19tMHU1d1lkZTNOUGZ6eGZBZFZoeW8ybkxvNHQybkRpUGZGaV9HWmZmV0VicGNqa19rSXU4U0xQS19jaVZ1c3ZpbmNMMjU3ZjJ5OW1fdU80LVRjdw?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "3015193510d9",
-      "title": "【闘病】婦人科の病気だとは考えもしなかった…胃腸の不調だと思っていた症状は『卵巣がん』(メディカルドック)",
-      "published": "2026-11-21T02:00:39+00:00",
-      "summary": "片山さんが卵巣がん（卵巣にできる悪性腫瘍）と診断されたのは、2026年のことでした。【本人提供】片山 貴子さん闘病中の写真最初の異変は、食事の直後に襲われた急な腹痛。その後もおなかの張りや違和感が続い",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/825c5e5202247f645d2a8fd554907e26f6a0f0df?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "d684eea1badd",
-      "title": "29年前に亡くなった男性が発掘した化石、実は新属新種の海洋生物だった　白亜紀では世界初の発見(withnews by 朝日新聞)",
-      "published": "2026-11-20T22:00:00+00:00",
-      "summary": "29年前、化石をこよなく愛した病院職員の男性が亡くなりました。遺族のもとに残された大量の化石を専門家が調べたところ、その中の一つが新属新種の海洋生物の化石だったことが分かりました。白亜紀の地層からこの",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/f826444fc0782f0703a260eacb413b9c8d533ac3?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "85fc46c63f72",
-      "title": "【腸内細菌治療の最前線】腸内細菌が「飲み薬」に？　潰瘍性大腸炎の患者を対象にカプセル型製剤の治験が進む　乳児期のアレルギー予防にも広がる研究【前後編の後編】 - Infoseek",
-      "published": "2026-11-20T07:02:00+00:00",
-      "summary": "【腸内細菌治療の最前線】腸内細菌が「飲み薬」に？ 潰瘍性大腸炎の患者を対象にカプセル型製剤の治験が進む 乳児期のアレルギー予防にも広がる研究【前後編の後編】&nbsp;&nbsp;Infoseek老化を防ぐカギは腸にある!?腸内細菌と病気の深い関係を専門医が解説（HALMEK up）&nbsp;&nbsp;Yahoo!ニュース糞便移植治療の世界市場（2026年～2032年）、市場規模（経結腸的移植、経鼻経腸チューブ灌流、経口カプセル）・分析レポートを発表&nbsp;&nbsp;アットプレス生活習慣と健康・慢性疾患をつなぐ腸内細菌の「対照的な2つの媒介軸」を発見 ― 日本人約6,800人の大規模解析から「腸活」のエビデンスを提示 ｜関連資料・リリース&nbsp;&nbsp;保健指導リソースガイド",
-      "sources": [
-        {
-          "name": "Infoseek",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50V05sbU15aUotQVRGWGx4NXI4R2YwSVZQb202TkVXLXRObU02V0U4RTZ1bzFmSVlTX29BRERDNERHV0dYWnFzOFZMSFdWMlZ5VmJjRmVJNWUzS0pQeGVCdFJfSXjSAWpBVV95cUxPQ0JGT0Y2M3IyM0xESnY5OEdMQXozVE5KcU90dklJMDk3OXVaTUpJS3lGY2kyRjdISGVrd3BvZlVTNVZHM0dicUxBX1g5MHVwNnoxN0ctLTRmelBfcHJQV1Q3dnRaZEpBR0RR?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "e2ecde65b4db",
-      "title": "東日本大震災の震源プレート間固着が回復、エネルギー蓄積再開(Science Portal)",
-      "published": "2026-11-20T06:50:13+00:00",
-      "summary": "2011年にマグニチュード（M）9.0の東北地方太平洋沖地震（東日本大震災）を起こした日本海溝で、地震を引き起こすプレート（岩板）境界の固着が回復したことが分かった。東北大学などの国際研究グループが、",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/881476f6795106bd705de18d3b541e1a2c61283f?source=rss"
-        }
-      ]
-    },
-    {
-      "id": "c5f68daef079",
-      "title": "グーグルがAIで「創薬」を加速、薬が効かない薬剤耐性菌との戦い(Forbes JAPAN)",
-      "published": "2026-11-20T06:00:00+00:00",
-      "summary": "一般的には「薬物耐性（drug resistance）」とも呼ばれる「抗微生物薬耐性（AMR：Antimicrobial resistance）」は、医療現場で頻繁に起きる懸念すべき問題だ。人間社会は",
-      "sources": [
-        {
-          "name": "Yahoo! Japan Science",
-          "link": "https://news.yahoo.co.jp/articles/5048bf96ba574743f8bfbfec4cd574dd287f15e4?source=rss"
         }
       ]
     },
@@ -582,14 +726,26 @@
       ]
     },
     {
-      "id": "90851870957d",
-      "title": "画像 | 特急｢はるか｣でもリムジンでもない…関空→京都を\"25分･2万円\"で結ぶ､世界の富裕層御用達の乗り物の正体 - PRESIDENT Online（プレジデントオンライン）",
-      "published": "2026-11-19T13:18:28+00:00",
-      "summary": "画像 | 特急｢はるか｣でもリムジンでもない…関空→京都を\"25分･2万円\"で結ぶ､世界の富裕層御用達の乗り物の正体&nbsp;&nbsp;PRESIDENT Online（プレジデントオンライン）野菜ジュースでもサプリでもない…医師が｢認知症リスクが約3割下がる｣と勧めるスーパーで買える身近な食材&nbsp;&nbsp;Yahoo!ニュース",
+      "id": "09dd1d1fcb51",
+      "title": "2型糖尿病患者の厳格な降圧が主要心血管イベントを抑制せず ブラジル・OPTIMAL-DIABETES試験 - 糖尿病リソースガイド",
+      "published": "2026-11-19T04:00:23+00:00",
+      "summary": "2型糖尿病患者の厳格な降圧が主要心血管イベントを抑制せず ブラジル・OPTIMAL-DIABETES試験&nbsp;&nbsp;糖尿病リソースガイド2型糖尿病、強化降圧でも心血管イベントに有意な減少なし／NEJM｜CareNet.com&nbsp;&nbsp;CareNet.com",
       "sources": [
         {
-          "name": "PRESIDENT Online（プレジデントオンライン）",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBERkNjeFBpbkNwN0M0TjFXR0Frc3lLbVU4OWtUYlBNNUt2MjBEcU1wMnk0RW00MnRNMDNyYnBQZVFTY3FkNjVqcGY3cjhkSDBvTWY0SQ?oc=5"
+          "name": "糖尿病リソースガイド",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5XeFJYUF92Y0t1aDFDRUhTVXpLamlFTUY0dW5VZm5WUGtncG9BeVltZEFqVG12YV9odFdCM2hiSTV4WlBtOXF2OURTN2RuX3k3UjhKR1o4NTA5VG8wcHpjRERvVGRwaXBTQlhR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": "aa04e1c96a96",
+      "title": "脳の健康、早期に意識を 認知症予防へイベント イーライリリー - 十勝毎日新聞",
+      "published": "2026-11-19T03:54:00+00:00",
+      "summary": "脳の健康、早期に意識を 認知症予防へイベント イーライリリー&nbsp;&nbsp;十勝毎日新聞",
+      "sources": [
+        {
+          "name": "十勝毎日新聞",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qbXVvMklndExveElzM2haUXJ3dmdXRFBQRHdHdk5aUnB4SkFhaHU3UHFEWTRPSlpQZFV3NGw3ZWZLQ1lpeldwblpiS0NiaGZpdjRPM0Zvck9YMzUxWnh2X1dMZTA?oc=5"
         }
       ]
     },
@@ -606,50 +762,50 @@
       ]
     },
     {
-      "id": "b98b859e8c79",
-      "title": "「あえて坂道を選ぶ」認知症になりにくい“スーパーエイジャー”の実態→「質の高い人間関係」と「程よいストレス」がポイント - Yahoo!ニュース",
-      "published": "2026-11-18T21:46:15+00:00",
-      "summary": "「あえて坂道を選ぶ」認知症になりにくい“スーパーエイジャー”の実態→「質の高い人間関係」と「程よいストレス」がポイント&nbsp;&nbsp;Yahoo!ニュース",
+      "id": "ef74b20bba2b",
+      "title": "タバコ1日15本分に匹敵する…研究で判明した｢脳卒中リスク｣を3割超も高める定年後の\"快適すぎる過ごし方\" - ｄメニューニュース",
+      "published": "2026-11-19T01:15:00+00:00",
+      "summary": "タバコ1日15本分に匹敵する…研究で判明した｢脳卒中リスク｣を3割超も高める定年後の\"快適すぎる過ごし方\"&nbsp;&nbsp;ｄメニューニュースGoogle ニュースで見出しと意見をもっと見る",
       "sources": [
         {
-          "name": "Yahoo!ニュース",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xWWl5N3Z6UmZWQlhhcE43U2pITGo0eHZRNWpMaWFST2ZfXzlIakI4QWVSS0pwb3h2dTluWEpTTE1raC1saGRGYXFmN0xmclRuLUFVb21LMmpkazZYT3dUNWlZRE91VktxVVpkd1ZMc1I1aWVuZURGQjNZS0htekk?oc=5"
+          "name": "ｄメニューニュース",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVDFwandQcFYtdFRNclFNLXZrY3BBZS1KYUhPX3VzTkFneTAtNWFXU1VOMXo1ZW9rd2p4SmQ1MGc2WHNrUFNMSWVxX1pocFRjR3FsLTUxWDJzZmZnNmNJckJ4eGc2S29INlV5YzNSVWVmM0w1SjlOMjN0MUQtVGNsXzVwYklmdWZDR3BicHpaR1pfX21ySVIyaVUzcTh3NThPc3IyVGJ1WE5HU05vTnZhTmdtaW9JRnlIdllxSTYwcmxLaGpCSlE?oc=5"
         }
       ]
     },
     {
-      "id": "79b954e94e79",
-      "title": "全国的に早期流行中のインフルエンザ…目に現れる意外な症状｜一生見える目をつくる - 日刊ゲンダイDIGITAL",
-      "published": "2026-11-18T21:00:00+00:00",
-      "summary": "全国的に早期流行中のインフルエンザ…目に現れる意外な症状｜一生見える目をつくる&nbsp;&nbsp;日刊ゲンダイDIGITAL",
+      "id": "134733de4d11",
+      "title": "野菜ジュースでもサプリでもない…医師が｢認知症リスクが約3割下がる｣と勧めるスーパーで買える身近な食材 - ニコニコニュース",
+      "published": "2026-11-18T23:18:10+00:00",
+      "summary": "野菜ジュースでもサプリでもない…医師が｢認知症リスクが約3割下がる｣と勧めるスーパーで買える身近な食材&nbsp;&nbsp;ニコニコニュースGoogle ニュースで見出しと意見をもっと見る",
       "sources": [
         {
-          "name": "日刊ゲンダイDIGITAL",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oU1VqRnJHdzhIUE1DeDQ0d3laS3MxQnBSdjBsckRDQXFoTC1tSHJJcmdacU1CNzUyYThTdzVxVXZncFpiTW96UXlOdEJXWkNoMXZEaXU3LThCMko1dHZlODFSYnd2MTdG?oc=5"
+          "name": "ニコニコニュース",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1oWDV4c0JzZVNST3pLbnFHdDVabzFTZkY4Q25GcGFQcFJpc3IwMXVfWkdCWGFmUUd1TzdNQ25HVnh5NUZNLVR0Tld3TnljN3hGX1BYNGZaQkJEM3FJZy1WYXdCZnJzalFnSi1laFZMS2ZrZw?oc=5"
         }
       ]
     },
     {
-      "id": "261e4a010ec9",
-      "title": "はしかの感染が拡大 米国等、排除認定を失う ユニセフ、予防接種の強化を訴える 【プレスリリース】 - Infoseek",
-      "published": "2026-11-18T19:45:22+00:00",
-      "summary": "はしかの感染が拡大 米国等、排除認定を失う ユニセフ、予防接種の強化を訴える 【プレスリリース】&nbsp;&nbsp;Infoseek麻疹（はしか）は予防接種によってかからないようにすべき病気（紙谷聡） - エキスパート&nbsp;&nbsp;Yahoo!ニュースアメリカの「はしか排除国」認定、26年ぶり取り消し 2年連続の記録的症例数を受け&nbsp;&nbsp;BBC「薬は患者に買ってきてもらう」 世界に広がる米国第一の余波&nbsp;&nbsp;毎日新聞はしかの感染が拡大 米国等、排除認定を失う ユニセフ、予防接種の強化を訴える｜日本ユニセフ協会｜プレスリリース&nbsp;&nbsp;日本ユニセフ協会",
+      "id": "c77dc01406ff",
+      "title": "感染症情報（１１月９～１５日） - 福井新聞社",
+      "published": "2026-11-18T20:00:00+00:00",
+      "summary": "感染症情報（１１月９～１５日）&nbsp;&nbsp;福井新聞社感染症の流行状況 2026年 第46週&nbsp;&nbsp;埼玉県福岡市のインフルエンザ流行状況 第46週（11/9〜11/15）定点当たり9.33&nbsp;&nbsp;ひろつ内科クリニック",
       "sources": [
         {
-          "name": "Infoseek",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lUnVGdWNwa1JkdXotSzJmQjRCaXJQWHhIY2tMTUVlR0VpRVFrQ2VTZkJtcHZKU1U4X1h2d19ocnJRNUN3ZHVkTEM2NVQzUlhnQnltenRpVlFwTW9aOW5FLVExbDBTakhhN3UxdTZUWDVrdw?oc=5"
+          "name": "福井新聞社",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwLV9lMlJkSkU3bWdveExZTGp0dnZTQjdYLTl1Zk9KSlBENS1jSnB3bEFSal9RS3NyQlhjRDNNWjhDRGNnNWJ2UklBbVlid1hudUhOTHM1ZnF5VGdrMkE?oc=5"
         }
       ]
     },
     {
-      "id": "1e25dd734201",
-      "title": "【報道発表資料】 「今、何の病気が流行しているか！」の情報提供について（令和8年第46週） - 川崎市",
-      "published": "2026-11-18T05:21:48+00:00",
-      "summary": "【報道発表資料】 「今、何の病気が流行しているか！」の情報提供について（令和8年第46週）&nbsp;&nbsp;川崎市2026年 第46週(令和8年11月9日から令和8年11月15日)&nbsp;&nbsp;堺市感染症の流行状況 2026年 第46週&nbsp;&nbsp;埼玉県",
+      "id": "09e3793844d7",
+      "title": "はしかの感染が拡大 米国等、排除認定を失う ユニセフ、予防接種の強化を訴える 【プレスリリース】 - PR TIMES",
+      "published": "2026-11-18T07:19:57+00:00",
+      "summary": "はしかの感染が拡大 米国等、排除認定を失う ユニセフ、予防接種の強化を訴える 【プレスリリース】&nbsp;&nbsp;PR TIMES麻疹（はしか）は予防接種によってかからないようにすべき病気（紙谷聡） - エキスパート&nbsp;&nbsp;Yahoo!ニュースアメリカの「はしか排除国」認定、26年ぶり取り消し 2年連続の記録的症例数を受け&nbsp;&nbsp;BBC「薬は患者に買ってきてもらう」 世界に広がる米国第一の余波&nbsp;&nbsp;毎日新聞はしかの感染が拡大 米国等、排除認定を失う ユニセフ、予防接種の強化を訴える｜日本ユニセフ協会｜プレスリリース&nbsp;&nbsp;日本ユニセフ協会",
       "sources": [
         {
-          "name": "川崎市",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rUlVKZGIxWk1PcEZvVzF1d1hFUXctQWEyOW9yOWsyQmlTTXpOdTNzajRaLTExZjhqaXlKOXJmLXRLVEJ2NkNjWEpUbzJTbS1UdERWazJOczJwdzY4RkdySHlqZDhkOTF3bU9OcERlNA?oc=5"
+          "name": "PR TIMES",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CUEZSWEE4MWhwNzBTc2YzcHNIejlQVVVmOHE4bmZLQkp4QVBMWGJBc2pVWS1SektKRHNpbE1vam9mSnB6RERidnlHR2RyWWlXMFpNX2dBeXJGT09mSGVERGo0bUJ0aWZITFE?oc=5"
         }
       ]
     },
@@ -674,30 +830,6 @@
         {
           "name": "講談社コクリコ",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KcDd4NG93Rks0YmhmV1d1RGN4ZFlWTjJrU3NBRmFhcGdWZlhDWjVyR21ZYzNZblVLeUVYUTZ2T19tMHd3SmNkVDdDby00WS1HUjVQQmlTTEZHN1FaXzVNR2Vvb0s4M3c1LWgyV2N4QQ?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "de4191b1c956",
-      "title": "ゼロカロリー甘味料で血栓リスク2倍超、心臓発作のリスク増大 24年研究 - CNN",
-      "published": "2026-11-17T08:54:00+00:00",
-      "summary": "ゼロカロリー甘味料で血栓リスク2倍超、心臓発作のリスク増大 24年研究&nbsp;&nbsp;CNN",
-      "sources": [
-        {
-          "name": "CNN",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1PVUxraTRwWjR6bkQzbzdvcjhETGNQWVJMMkJLQTB6c25wQTZzSW9sSldwVlFWVHV0LUtNa0ZyYWxYVlpoYjhnRDZyVy16aURvRkRPQg?oc=5"
-        }
-      ]
-    },
-    {
-      "id": "7233a924ead7",
-      "title": "ホーチミン市のパスツール研究所は、HIVの発見から新型コロナウイルス感染症のパンデミックに至るまで、目覚ましい進歩を遂げてきた。 - Vietnam.vn",
-      "published": "2026-11-17T05:08:29+00:00",
-      "summary": "ホーチミン市のパスツール研究所は、HIVの発見から新型コロナウイルス感染症のパンデミックに至るまで、目覚ましい進歩を遂げてきた。&nbsp;&nbsp;Vietnam.vn疾病監視における技術の研究と応用を促進する。&nbsp;&nbsp;Vietnam.vn保健副大臣：ホーチミン市のパスツール研究所は、伝染病の監視、警報、および制御において重要な基盤を提供している。&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQam5UMEdLV0FfaWQ4NGdIWGRBVURUZXpCOTg5ODNZSnFGekVzOFRIN0EwbmpyYS1IclpkSTVHV2l0S3k5amNPOGE4bXZZZ0FmbGtfbXBLemRQVFlWMHVQS2FzS1hodU5UMnVYSVBaN1ltYTFMaV8zeHdEQV8zR2tPekg1NGhraHRLOW9aUjRTSHNCWlo5YjVV?oc=5"
         }
       ]
     }

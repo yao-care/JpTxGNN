@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="メトロニダゾールゲル０．７５％「マルイシ」 に関するニュースは？">
-<strong>メトロニダゾールゲル０．７５％「マルイシ」</strong> には現在 <strong>66 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>メトロニダゾールゲル０．７５％「マルイシ」</strong> には現在 <strong>69 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,31 @@ last_modified_at: 2026-11-24
 <p><a href="{{ '/drugs/metronidazole/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（66 件）
+## 関連ニュース（69 件）
+
+### [近江を要とする「原倭国論」提唱　弥生時代研究の第一人者、森岡秀人さん　死惜しむ声　(産経新聞)](https://news.yahoo.co.jp/articles/34d9cb76e2fe9c5604f2ca8bacc63fd78505bdaf?source=rss)
+
+2026-11-24 <span class="news-indication-tag">がん</span>
+
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/34d9cb76e2fe9c5604f2ca8bacc63fd78505bdaf?source=rss)
+
+---
+
+### [鹿沼 松井市長へ要望書て提出「HPVワクチン 男性への独自助成と子宮頸がん撲滅」に向けて](https://news.google.com/rss/articles/CBMi7AJBVV95cUxQcWZPbHV2amJfblkzYXMxOG9QQ25DZzY3a21WT0NLa0dmRzAxR1ZRQWo0bk1rWlNDZWp2NDg3ZGk1SXcwdmZjTU9rMmJaMldmY0Mya2t3VnlQT3k2OTNzOTVqdWxmUkp1QVExWnBhZDBLVlJaSUE5YkNCdUx6czBPWFFiclpyRzhXVlFud25Ba2Nob2ctZVpKREliR2dNWExaOUtBcThpRE9GcGdtVm9wNm1vSXVfbldraTllQ0tVZmZ0QmtUTXl4ajg0UTdBZmp3ZTdHbGl1THVnajkwSDZTSFFxS19XNmZ2WkQ0U2VoQ1ZMaWlnTTdrVFM5SkE4bmpoMXh6SjFRWml0a2FyUnJWRmMzNXl0NTdrTUZiVmgtUVdBMkc1akNrRGhmSE5MV1FveEZPTHpLRGJlUUpYcXZyNUR2N1NWa1lRS1pJSWR3MkV5T1FheWRFRUtvVzMyZEg3bUdLLW0tRWRMem94?oc=5)
+
+2026-11-24 <span class="news-indication-tag">がん</span>
+
+出典: [公明党](https://news.google.com/rss/articles/CBMi7AJBVV95cUxQcWZPbHV2amJfblkzYXMxOG9QQ25DZzY3a21WT0NLa0dmRzAxR1ZRQWo0bk1rWlNDZWp2NDg3ZGk1SXcwdmZjTU9rMmJaMldmY0Mya2t3VnlQT3k2OTNzOTVqdWxmUkp1QVExWnBhZDBLVlJaSUE5YkNCdUx6czBPWFFiclpyRzhXVlFud25Ba2Nob2ctZVpKREliR2dNWExaOUtBcThpRE9GcGdtVm9wNm1vSXVfbldraTllQ0tVZmZ0QmtUTXl4ajg0UTdBZmp3ZTdHbGl1THVnajkwSDZTSFFxS19XNmZ2WkQ0U2VoQ1ZMaWlnTTdrVFM5SkE4bmpoMXh6SjFRWml0a2FyUnJWRmMzNXl0NTdrTUZiVmgtUVdBMkc1akNrRGhmSE5MV1FveEZPTHpLRGJlUUpYcXZyNUR2N1NWa1lRS1pJSWR3MkV5T1FheWRFRUtvVzMyZEg3bUdLLW0tRWRMem94?oc=5)
+
+---
+
+### [【訃報】元横浜FCのシュナイダー潤之介さん 公表していた「前立腺がん」とは？ 症状などを医師が解説(メディカルドック)](https://news.yahoo.co.jp/articles/4ba9d978b603173c6ad86243f1d7e65339d4a067?source=rss)
+
+2026-11-24 <span class="news-indication-tag">がん</span>
+
+出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/4ba9d978b603173c6ad86243f1d7e65339d4a067?source=rss)
+
+---
 
 ### [《初期症状がほとんどない》女優・中村ゆりさんを襲った「直腸がん」、血便や細い便は危険サイン？専門医が明かす早期発見法と予防習慣 - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTFBFVkZCdkZYMElVMzVVdUxwb3E0YU9oSDlrck1rTDBWWGU2bzVpRzREM2NyRXZPb2xJVkpJYi1wQ3o4aTdBLWRfS0FrMFVILUFJYU1nc201VmlRWHNIV3RkTE9WRDJhWVN3RVAzbEN3?oc=5)
 

@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "タミフルドライシロップ３％（選） に関する健康ニュース。予測適応症 0 件。"
 permalink: /news/oseltamivir/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-24
 ---
 
 # タミフルドライシロップ３％（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="タミフルドライシロップ３％（選） に関するニュースは？">
-<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>28 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>30 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ last_modified_at: 2026-11-23
 <p><a href="{{ '/drugs/oseltamivir/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（28 件）
+## 関連ニュース（30 件）
 
 ### [79歳の患者がインフルエンザに感染後、昏睡状態に陥り、意識障害を起こしている。](https://news.google.com/rss/articles/CBMihAFBVV95cUxQWVk2NmdqVVlhYm0xYzNfMVFadE5ibENCSHBsV2xRR1JnS3g3Z280cXZ0LXZMY2RnT3RwQ1VJdFc3OFg1YVZLWGtaNlhNeG5rLUR1WXFvbmZUZVlwRDVnRWlkUTM5dEJ1YUlmT2U4cFU4ME1JNFo5c2FtbF9BaWwyZnlGcFY?oc=5)
 
@@ -45,6 +45,14 @@ last_modified_at: 2026-11-23
 2026-11-22 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">肺がん</span> <span class="news-indication-tag">インフルエンザ</span>
 
 出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQejFYbXFKWXAxdmdkSDdobE1UNHI5QXFoa2s5Uk5LZklUbFVxZVpHa2ZkdmFDbG5kUzBxQUNIcjl1dS1BZXN1cWF4RFRxZ0x6STNHWUhqNjFTV1lNdnhvOTVfNUVacVRweDVhTjREeXZZZFhueVJSNkNmc3dRNENtZU1vUFA5WGUy?oc=5)
+
+---
+
+### [季節性呼吸器合胞体ウイルス：胎児期からお子様を守る。](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTUZJaWkxVlluRC1FS0RIa2JmdEdEaXRycjhmUnY2ZHNKOFRWZTBDZ2VXUlg5N01sUktlT2tpcTFQMlJWZG5oTTR1YWlEYklxM09ILVllQms1RmROUlkzRXhhMGpQVnRZMHljWjBraTh0UGp1U3U5eUhWNDkwdExndE5mbTY5VkRaanUw?oc=5)
+
+2026-11-22 <span class="news-indication-tag">肺炎</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTUZJaWkxVlluRC1FS0RIa2JmdEdEaXRycjhmUnY2ZHNKOFRWZTBDZ2VXUlg5N01sUktlT2tpcTFQMlJWZG5oTTR1YWlEYklxM09ILVllQms1RmROUlkzRXhhMGpQVnRZMHljWjBraTh0UGp1U3U5eUhWNDkwdExndE5mbTY5VkRaanUw?oc=5)
 
 ---
 
@@ -173,6 +181,14 @@ last_modified_at: 2026-11-23
 2026-11-18 <span class="news-indication-tag">インフルエンザ</span>
 
 出典: [日刊ゲンダイDIGITAL](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oU1VqRnJHdzhIUE1DeDQ0d3laS3MxQnBSdjBsckRDQXFoTC1tSHJJcmdacU1CNzUyYThTdzVxVXZncFpiTW96UXlOdEJXWkNoMXZEaXU3LThCMko1dHZlODFSYnd2MTdG?oc=5)
+
+---
+
+### [感染症情報（１１月９～１５日）](https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwLV9lMlJkSkU3bWdveExZTGp0dnZTQjdYLTl1Zk9KSlBENS1jSnB3bEFSal9RS3NyQlhjRDNNWjhDRGNnNWJ2UklBbVlid1hudUhOTHM1ZnF5VGdrMkE?oc=5)
+
+2026-11-18 <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [福井新聞社](https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwLV9lMlJkSkU3bWdveExZTGp0dnZTQjdYLTl1Zk9KSlBENS1jSnB3bEFSal9RS3NyQlhjRDNNWjhDRGNnNWJ2UklBbVlid1hudUhOTHM1ZnF5VGdrMkE?oc=5)
 
 ---
 

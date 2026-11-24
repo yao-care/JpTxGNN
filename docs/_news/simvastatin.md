@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="リポバス錠５　５ｍｇ（選） に関するニュースは？">
-<strong>リポバス錠５　５ｍｇ（選）</strong> には現在 <strong>83 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>リポバス錠５　５ｍｇ（選）</strong> には現在 <strong>89 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,47 @@ last_modified_at: 2026-11-24
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（83 件）
+## 関連ニュース（89 件）
+
+### [近江を要とする「原倭国論」提唱　弥生時代研究の第一人者、森岡秀人さん　死惜しむ声　(産経新聞)](https://news.yahoo.co.jp/articles/34d9cb76e2fe9c5604f2ca8bacc63fd78505bdaf?source=rss)
+
+2026-11-24 <span class="news-indication-tag">がん</span>
+
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/34d9cb76e2fe9c5604f2ca8bacc63fd78505bdaf?source=rss)
+
+---
+
+### [脳卒中患者の数は増加傾向にある。](https://news.google.com/rss/articles/CBMibEFVX3lxTE1aLWQ4OWxkZmNJRmNHRXdqdmVzaFZ5Rk1vVnZiNWVPbGdYYlhzMHVTSHRQaXM1emh3aFJiWUNWdWNTUktMV2o2cDM1M0ZnRDhwZlkxRi1SUGNqR0VaYkgwQ0NJQi01VjJkbFVXWQ?oc=5)
+
+2026-11-24 <span class="news-indication-tag">脳卒中</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMibEFVX3lxTE1aLWQ4OWxkZmNJRmNHRXdqdmVzaFZ5Rk1vVnZiNWVPbGdYYlhzMHVTSHRQaXM1emh3aFJiWUNWdWNTUktMV2o2cDM1M0ZnRDhwZlkxRi1SUGNqR0VaYkgwQ0NJQi01VjJkbFVXWQ?oc=5)
+
+---
+
+### [鹿沼 松井市長へ要望書て提出「HPVワクチン 男性への独自助成と子宮頸がん撲滅」に向けて](https://news.google.com/rss/articles/CBMi7AJBVV95cUxQcWZPbHV2amJfblkzYXMxOG9QQ25DZzY3a21WT0NLa0dmRzAxR1ZRQWo0bk1rWlNDZWp2NDg3ZGk1SXcwdmZjTU9rMmJaMldmY0Mya2t3VnlQT3k2OTNzOTVqdWxmUkp1QVExWnBhZDBLVlJaSUE5YkNCdUx6czBPWFFiclpyRzhXVlFud25Ba2Nob2ctZVpKREliR2dNWExaOUtBcThpRE9GcGdtVm9wNm1vSXVfbldraTllQ0tVZmZ0QmtUTXl4ajg0UTdBZmp3ZTdHbGl1THVnajkwSDZTSFFxS19XNmZ2WkQ0U2VoQ1ZMaWlnTTdrVFM5SkE4bmpoMXh6SjFRWml0a2FyUnJWRmMzNXl0NTdrTUZiVmgtUVdBMkc1akNrRGhmSE5MV1FveEZPTHpLRGJlUUpYcXZyNUR2N1NWa1lRS1pJSWR3MkV5T1FheWRFRUtvVzMyZEg3bUdLLW0tRWRMem94?oc=5)
+
+2026-11-24 <span class="news-indication-tag">がん</span>
+
+出典: [公明党](https://news.google.com/rss/articles/CBMi7AJBVV95cUxQcWZPbHV2amJfblkzYXMxOG9QQ25DZzY3a21WT0NLa0dmRzAxR1ZRQWo0bk1rWlNDZWp2NDg3ZGk1SXcwdmZjTU9rMmJaMldmY0Mya2t3VnlQT3k2OTNzOTVqdWxmUkp1QVExWnBhZDBLVlJaSUE5YkNCdUx6czBPWFFiclpyRzhXVlFud25Ba2Nob2ctZVpKREliR2dNWExaOUtBcThpRE9GcGdtVm9wNm1vSXVfbldraTllQ0tVZmZ0QmtUTXl4ajg0UTdBZmp3ZTdHbGl1THVnajkwSDZTSFFxS19XNmZ2WkQ0U2VoQ1ZMaWlnTTdrVFM5SkE4bmpoMXh6SjFRWml0a2FyUnJWRmMzNXl0NTdrTUZiVmgtUVdBMkc1akNrRGhmSE5MV1FveEZPTHpLRGJlUUpYcXZyNUR2N1NWa1lRS1pJSWR3MkV5T1FheWRFRUtvVzMyZEg3bUdLLW0tRWRMem94?oc=5)
+
+---
+
+### [【訃報】元横浜FCのシュナイダー潤之介さん 公表していた「前立腺がん」とは？ 症状などを医師が解説(メディカルドック)](https://news.yahoo.co.jp/articles/4ba9d978b603173c6ad86243f1d7e65339d4a067?source=rss)
+
+2026-11-24 <span class="news-indication-tag">がん</span>
+
+出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/4ba9d978b603173c6ad86243f1d7e65339d4a067?source=rss)
+
+---
+
+### [視神経細胞をシート化 東北大ｉＰＳ活用 緑内障新治療へ](https://news.google.com/rss/articles/CBMiT0FVX3lxTE9tam5VNWJwUVprSldhRGNNUHpLb0pWbjFQcnF5WHItUjBBRXFFR2V6UEtQZ2I2dHA5amFKWnd4Q0NxQy1IVk5oZGwxVWMyT0k?oc=5)
+
+2026-11-24 <span class="news-indication-tag">緑内障</span>
+
+出典: [福島民報デジタル](https://news.google.com/rss/articles/CBMiT0FVX3lxTE9tam5VNWJwUVprSldhRGNNUHpLb0pWbjFQcnF5WHItUjBBRXFFR2V6UEtQZ2I2dHA5amFKWnd4Q0NxQy1IVk5oZGwxVWMyT0k?oc=5)
+
+---
 
 ### [【ヤフコメで話題】「iPS細胞による視神経再生研究に期待」「緑内障患者にとって希望の光」 - 新技術開発に寄せられる切実な声](https://news.google.com/rss/articles/CBMif0FVX3lxTE1zdVpJRjF4UVJKdXF3UTg2aE5wNnNXN1IyM1c2Tk9jUHU4NzBrakZvMmtobV9Za2hYUy1PaGZuRzRTV1dsanl3dElRSnJVb2JLQU81WkZfR0FOem83SXRRYUlmVlhFdllXU0NBTUlPNmFRM0o3UW0xMHhQSUxNLTQ?oc=5)
 
@@ -404,6 +444,14 @@ last_modified_at: 2026-11-24
 2026-11-19 <span class="news-indication-tag">心臓病</span>
 
 出典: [m3.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTE91WENLdXZTV0pFQ3ZLdjNFbnY5QlZHTnE3Qk1sY2JkMmF0STVjRkMwSHJvWEhhWUp4VFd1MzNyczlnUEdodlJwNXZudGRhcHBKNlE?oc=5)
+
+---
+
+### [タバコ1日15本分に匹敵する…研究で判明した｢脳卒中リスク｣を3割超も高める定年後の"快適すぎる過ごし方"](https://news.google.com/rss/articles/CBMixgFBVV95cUxPVDFwandQcFYtdFRNclFNLXZrY3BBZS1KYUhPX3VzTkFneTAtNWFXU1VOMXo1ZW9rd2p4SmQ1MGc2WHNrUFNMSWVxX1pocFRjR3FsLTUxWDJzZmZnNmNJckJ4eGc2S29INlV5YzNSVWVmM0w1SjlOMjN0MUQtVGNsXzVwYklmdWZDR3BicHpaR1pfX21ySVIyaVUzcTh3NThPc3IyVGJ1WE5HU05vTnZhTmdtaW9JRnlIdllxSTYwcmxLaGpCSlE?oc=5)
+
+2026-11-19 <span class="news-indication-tag">脳卒中</span>
+
+出典: [ｄメニューニュース](https://news.google.com/rss/articles/CBMixgFBVV95cUxPVDFwandQcFYtdFRNclFNLXZrY3BBZS1KYUhPX3VzTkFneTAtNWFXU1VOMXo1ZW9rd2p4SmQ1MGc2WHNrUFNMSWVxX1pocFRjR3FsLTUxWDJzZmZnNmNJckJ4eGc2S29INlV5YzNSVWVmM0w1SjlOMjN0MUQtVGNsXzVwYklmdWZDR3BicHpaR1pfX21ySVIyaVUzcTh3NThPc3IyVGJ1WE5HU05vTnZhTmdtaW9JRnlIdllxSTYwcmxLaGpCSlE?oc=5)
 
 ---
 

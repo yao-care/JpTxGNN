@@ -3,7 +3,7 @@ layout: default
 title: "認知症 (dementia) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "認知症 (dementia) に関する健康ニュース。ニュース 49 件、関連医薬品 2 件。"
+description: "認知症 (dementia) に関する健康ニュース。ニュース 51 件、関連医薬品 2 件。"
 permalink: /news/dementia/
 last_modified_at: 2026-11-24
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="認知症 (dementia) に関するニュースは？">
-<strong>認知症 (dementia)</strong> には現在 <strong>49 件</strong>の関連ニュースと 2 件の関連医薬品があります。
+<strong>認知症 (dementia)</strong> には現在 <strong>51 件</strong>の関連ニュースと 2 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,7 @@ last_modified_at: 2026-11-24
 </ul>
 </div>
 
-## 関連ニュース（49 件）
+## 関連ニュース（51 件）
 
 ### [孤独が長く続く人ほど認知症のリスクが38%高いと判明](https://news.google.com/rss/articles/CBMiekFVX3lxTE1HLXhvc2VudkxjcXY0eWcwX3lRLVgybjRiQTVaai1ER1NYeE5FbXp0SWRCNlBTcEJUbzg1MmdLVWR6NWNKblpNTGZNT3laWkpxVlgyOHB1dlN1NW1nQ2R4T3Yxa1FZN2V0eVpHTDdWZ1htcW84UXExNkhR0gF_QVVfeXFMTThpcUFCSEV0bVl5UGM5NjUza294alNFTUQyQ3VwQ0tuSzlRMXFiTWYyRmhPaTBCUHFUMGJuNnZ5QUVHVGNCamJLZ1VfdTI2ellFYnlwRF9weFNXMDRaaFZZbzJmMEhEcE5TMDBWNXNTVy05eGx4YXBSQWlSdV9tUQ?oc=5)
 
@@ -121,6 +121,14 @@ last_modified_at: 2026-11-24
 
 ---
 
+### [脳の健康、早期に意識を 認知症予防へイベント イーライリリー](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qbXVvMklndExveElzM2haUXJ3dmdXRFBQRHdHdk5aUnB4SkFhaHU3UHFEWTRPSlpQZFV3NGw3ZWZLQ1lpeldwblpiS0NiaGZpdjRPM0Zvck9YMzUxWnh2X1dMZTA?oc=5)
+
+2026-11-19
+
+出典: [十勝毎日新聞](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qbXVvMklndExveElzM2haUXJ3dmdXRFBQRHdHdk5aUnB4SkFhaHU3UHFEWTRPSlpQZFV3NGw3ZWZLQ1lpeldwblpiS0NiaGZpdjRPM0Zvck9YMzUxWnh2X1dMZTA?oc=5)
+
+---
+
 ### [「うっかり昼寝」が続くのは認知症の前ぶれ？ 記憶の衰えより先に現れる「サイン」（クーリエ・ジャポン）](https://news.google.com/rss/articles/CBMif0FVX3lxTE82djNHcWxsRl9RM1NmUXdhSkdtbTBqUlJyRngyb1NaY01SSVRFMC1IRjdVTFFrTkhmY0txZGJMYmY4MVJBYXZQb2thZGI1TjY1X09vMzIwaEZlSkRsZDk4TzhkU0VPZWlIVkxCOGFtc0RaUGxtNVZsMmtZTGpsVzQ?oc=5)
 
 2026-11-19
@@ -134,6 +142,14 @@ last_modified_at: 2026-11-24
 2026-11-18
 
 出典: [Infoseek](https://news.google.com/rss/articles/CBMicEFVX3lxTFBDSEhkQ09YMFRVeWRUblFhX3pXaFJDUllNZDZXd1FLQlhwVVM5R1A3aWsxZGRnNFVDb3hPQVhaRnVkc2puVUp3WHE2a0VUS3dZUVkyS3hHRFA3a0h2bG16OEZGN0Frc1NOM1dydVF1WnI?oc=5)
+
+---
+
+### [野菜ジュースでもサプリでもない…医師が｢認知症リスクが約3割下がる｣と勧めるスーパーで買える身近な食材](https://news.google.com/rss/articles/CBMickFVX3lxTE1oWDV4c0JzZVNST3pLbnFHdDVabzFTZkY4Q25GcGFQcFJpc3IwMXVfWkdCWGFmUUd1TzdNQ25HVnh5NUZNLVR0Tld3TnljN3hGX1BYNGZaQkJEM3FJZy1WYXdCZnJzalFnSi1laFZMS2ZrZw?oc=5)
+
+2026-11-18
+
+出典: [ニコニコニュース](https://news.google.com/rss/articles/CBMickFVX3lxTE1oWDV4c0JzZVNST3pLbnFHdDVabzFTZkY4Q25GcGFQcFJpc3IwMXVfWkdCWGFmUUd1TzdNQ25HVnh5NUZNLVR0Tld3TnljN3hGX1BYNGZaQkJEM3FJZy1WYXdCZnJzalFnSi1laFZMS2ZrZw?oc=5)
 
 ---
 

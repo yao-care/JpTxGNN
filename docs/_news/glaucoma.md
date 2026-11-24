@@ -3,7 +3,7 @@ layout: default
 title: "緑内障 (glaucoma) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "緑内障 (glaucoma) に関する健康ニュース。ニュース 1 件、関連医薬品 4 件。"
+description: "緑内障 (glaucoma) に関する健康ニュース。ニュース 2 件、関連医薬品 4 件。"
 permalink: /news/glaucoma/
 last_modified_at: 2026-11-24
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="緑内障 (glaucoma) に関するニュースは？">
-<strong>緑内障 (glaucoma)</strong> には現在 <strong>1 件</strong>の関連ニュースと 4 件の関連医薬品があります。
+<strong>緑内障 (glaucoma)</strong> には現在 <strong>2 件</strong>の関連ニュースと 4 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,15 @@ last_modified_at: 2026-11-24
 </ul>
 </div>
 
-## 関連ニュース（1 件）
+## 関連ニュース（2 件）
+
+### [視神経細胞をシート化 東北大ｉＰＳ活用 緑内障新治療へ](https://news.google.com/rss/articles/CBMiT0FVX3lxTE9tam5VNWJwUVprSldhRGNNUHpLb0pWbjFQcnF5WHItUjBBRXFFR2V6UEtQZ2I2dHA5amFKWnd4Q0NxQy1IVk5oZGwxVWMyT0k?oc=5)
+
+2026-11-24
+
+出典: [福島民報デジタル](https://news.google.com/rss/articles/CBMiT0FVX3lxTE9tam5VNWJwUVprSldhRGNNUHpLb0pWbjFQcnF5WHItUjBBRXFFR2V6UEtQZ2I2dHA5amFKWnd4Q0NxQy1IVk5oZGwxVWMyT0k?oc=5)
+
+---
 
 ### [【ヤフコメで話題】「iPS細胞による視神経再生研究に期待」「緑内障患者にとって希望の光」 - 新技術開発に寄せられる切実な声](https://news.google.com/rss/articles/CBMif0FVX3lxTE1zdVpJRjF4UVJKdXF3UTg2aE5wNnNXN1IyM1c2Tk9jUHU4NzBrakZvMmtobV9Za2hYUy1PaGZuRzRTV1dsanl3dElRSnJVb2JLQU81WkZfR0FOem83SXRRYUlmVlhFdllXU0NBTUlPNmFRM0o3UW0xMHhQSUxNLTQ?oc=5)
 

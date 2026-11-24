@@ -3,7 +3,7 @@ layout: default
 title: "脳卒中 (stroke) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "脳卒中 (stroke) に関する健康ニュース。ニュース 19 件、関連医薬品 16 件。"
+description: "脳卒中 (stroke) に関する健康ニュース。ニュース 21 件、関連医薬品 16 件。"
 permalink: /news/stroke/
 last_modified_at: 2026-11-24
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="脳卒中 (stroke) に関するニュースは？">
-<strong>脳卒中 (stroke)</strong> には現在 <strong>19 件</strong>の関連ニュースと 16 件の関連医薬品があります。
+<strong>脳卒中 (stroke)</strong> には現在 <strong>21 件</strong>の関連ニュースと 16 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -45,7 +45,15 @@ last_modified_at: 2026-11-24
 </ul>
 </div>
 
-## 関連ニュース（19 件）
+## 関連ニュース（21 件）
+
+### [脳卒中患者の数は増加傾向にある。](https://news.google.com/rss/articles/CBMibEFVX3lxTE1aLWQ4OWxkZmNJRmNHRXdqdmVzaFZ5Rk1vVnZiNWVPbGdYYlhzMHVTSHRQaXM1emh3aFJiWUNWdWNTUktMV2o2cDM1M0ZnRDhwZlkxRi1SUGNqR0VaYkgwQ0NJQi01VjJkbFVXWQ?oc=5)
+
+2026-11-24
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMibEFVX3lxTE1aLWQ4OWxkZmNJRmNHRXdqdmVzaFZ5Rk1vVnZiNWVPbGdYYlhzMHVTSHRQaXM1emh3aFJiWUNWdWNTUktMV2o2cDM1M0ZnRDhwZlkxRi1SUGNqR0VaYkgwQ0NJQi01VjJkbFVXWQ?oc=5)
+
+---
 
 ### [何の症状もなかったにもかかわらず、その男性は突然脳卒中の危険に直面した。](https://news.google.com/rss/articles/CBMimgFBVV95cUxOazdLLWJIdkRqNU14bi1BUU1hU3ZfeENTeW15d25jODVnSFdDNEN6QTcxdVl1LTZzTlNwMlBuazFndjhDOE0tTmI0SEVXYUZjb3JudHZEdldMX1AtdjhpVUVxaVd4aFA1djh0NEhKZmxUd2hlZUd5ay1SbnA5VWtMTDI2dkZoMlltSm94X09UOHVEemxqdmk5UUZn?oc=5)
 
@@ -132,6 +140,14 @@ last_modified_at: 2026-11-24
 2026-11-19
 
 出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMif0FVX3lxTE8wQXdtU3c3RnRxUlN4NUZwQkZFc1luakpFS2MtYzFjekhQZUxLVzV3U19YSjhtZEZZUF9vblhiUk0zaFB2WldHTm1mQTBWZjBkQmRzMUhoOF9Nc2h6bTctM2s5Q25KSmdwUnc5NzZwRHBQaGVLRkZUanBTcVFjSjA?oc=5)
+
+---
+
+### [タバコ1日15本分に匹敵する…研究で判明した｢脳卒中リスク｣を3割超も高める定年後の"快適すぎる過ごし方"](https://news.google.com/rss/articles/CBMixgFBVV95cUxPVDFwandQcFYtdFRNclFNLXZrY3BBZS1KYUhPX3VzTkFneTAtNWFXU1VOMXo1ZW9rd2p4SmQ1MGc2WHNrUFNMSWVxX1pocFRjR3FsLTUxWDJzZmZnNmNJckJ4eGc2S29INlV5YzNSVWVmM0w1SjlOMjN0MUQtVGNsXzVwYklmdWZDR3BicHpaR1pfX21ySVIyaVUzcTh3NThPc3IyVGJ1WE5HU05vTnZhTmdtaW9JRnlIdllxSTYwcmxLaGpCSlE?oc=5)
+
+2026-11-19
+
+出典: [ｄメニューニュース](https://news.google.com/rss/articles/CBMixgFBVV95cUxPVDFwandQcFYtdFRNclFNLXZrY3BBZS1KYUhPX3VzTkFneTAtNWFXU1VOMXo1ZW9rd2p4SmQ1MGc2WHNrUFNMSWVxX1pocFRjR3FsLTUxWDJzZmZnNmNJckJ4eGc2S29INlV5YzNSVWVmM0w1SjlOMjN0MUQtVGNsXzVwYklmdWZDR3BicHpaR1pfX21ySVIyaVUzcTh3NThPc3IyVGJ1WE5HU05vTnZhTmdtaW9JRnlIdllxSTYwcmxLaGpCSlE?oc=5)
 
 ---
 

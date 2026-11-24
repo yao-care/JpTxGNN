@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="ザルティア錠５ｍｇ（選） に関するニュースは？">
-<strong>ザルティア錠５ｍｇ（選）</strong> には現在 <strong>26 件</strong>の関連ニュースがあり、予測適応症は 8 件です。
+<strong>ザルティア錠５ｍｇ（選）</strong> には現在 <strong>28 件</strong>の関連ニュースがあり、予測適応症は 8 件です。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ last_modified_at: 2026-11-24
 <p><a href="{{ '/drugs/tadalafil/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（26 件）
+## 関連ニュース（28 件）
+
+### [脳卒中患者の数は増加傾向にある。](https://news.google.com/rss/articles/CBMibEFVX3lxTE1aLWQ4OWxkZmNJRmNHRXdqdmVzaFZ5Rk1vVnZiNWVPbGdYYlhzMHVTSHRQaXM1emh3aFJiWUNWdWNTUktMV2o2cDM1M0ZnRDhwZlkxRi1SUGNqR0VaYkgwQ0NJQi01VjJkbFVXWQ?oc=5)
+
+2026-11-24 <span class="news-indication-tag">脳卒中</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMibEFVX3lxTE1aLWQ4OWxkZmNJRmNHRXdqdmVzaFZ5Rk1vVnZiNWVPbGdYYlhzMHVTSHRQaXM1emh3aFJiWUNWdWNTUktMV2o2cDM1M0ZnRDhwZlkxRi1SUGNqR0VaYkgwQ0NJQi01VjJkbFVXWQ?oc=5)
+
+---
 
 ### [何の症状もなかったにもかかわらず、その男性は突然脳卒中の危険に直面した。](https://news.google.com/rss/articles/CBMimgFBVV95cUxOazdLLWJIdkRqNU14bi1BUU1hU3ZfeENTeW15d25jODVnSFdDNEN6QTcxdVl1LTZzTlNwMlBuazFndjhDOE0tTmI0SEVXYUZjb3JudHZEdldMX1AtdjhpVUVxaVd4aFA1djh0NEhKZmxUd2hlZUd5ay1SbnA5VWtMTDI2dkZoMlltSm94X09UOHVEemxqdmk5UUZn?oc=5)
 
@@ -151,6 +159,14 @@ last_modified_at: 2026-11-24
 2026-11-19 <span class="news-indication-tag">心臓病</span>
 
 出典: [m3.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTE91WENLdXZTV0pFQ3ZLdjNFbnY5QlZHTnE3Qk1sY2JkMmF0STVjRkMwSHJvWEhhWUp4VFd1MzNyczlnUEdodlJwNXZudGRhcHBKNlE?oc=5)
+
+---
+
+### [タバコ1日15本分に匹敵する…研究で判明した｢脳卒中リスク｣を3割超も高める定年後の"快適すぎる過ごし方"](https://news.google.com/rss/articles/CBMixgFBVV95cUxPVDFwandQcFYtdFRNclFNLXZrY3BBZS1KYUhPX3VzTkFneTAtNWFXU1VOMXo1ZW9rd2p4SmQ1MGc2WHNrUFNMSWVxX1pocFRjR3FsLTUxWDJzZmZnNmNJckJ4eGc2S29INlV5YzNSVWVmM0w1SjlOMjN0MUQtVGNsXzVwYklmdWZDR3BicHpaR1pfX21ySVIyaVUzcTh3NThPc3IyVGJ1WE5HU05vTnZhTmdtaW9JRnlIdllxSTYwcmxLaGpCSlE?oc=5)
+
+2026-11-19 <span class="news-indication-tag">脳卒中</span>
+
+出典: [ｄメニューニュース](https://news.google.com/rss/articles/CBMixgFBVV95cUxPVDFwandQcFYtdFRNclFNLXZrY3BBZS1KYUhPX3VzTkFneTAtNWFXU1VOMXo1ZW9rd2p4SmQ1MGc2WHNrUFNMSWVxX1pocFRjR3FsLTUxWDJzZmZnNmNJckJ4eGc2S29INlV5YzNSVWVmM0w1SjlOMjN0MUQtVGNsXzVwYklmdWZDR3BicHpaR1pfX21ySVIyaVUzcTh3NThPc3IyVGJ1WE5HU05vTnZhTmdtaW9JRnlIdllxSTYwcmxLaGpCSlE?oc=5)
 
 ---
 

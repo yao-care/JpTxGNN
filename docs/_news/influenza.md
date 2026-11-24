@@ -3,9 +3,9 @@ layout: default
 title: "インフルエンザ (influenza) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 22 件、関連医薬品 1 件。"
+description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 23 件、関連医薬品 1 件。"
 permalink: /news/influenza/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-24
 ---
 
 # インフルエンザ (influenza) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="インフルエンザ (influenza) に関するニュースは？">
-<strong>インフルエンザ (influenza)</strong> には現在 <strong>22 件</strong>の関連ニュースと 1 件の関連医薬品があります。
+<strong>インフルエンザ (influenza)</strong> には現在 <strong>23 件</strong>の関連ニュースと 1 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ last_modified_at: 2026-11-23
 </ul>
 </div>
 
-## 関連ニュース（22 件）
+## 関連ニュース（23 件）
 
 ### [79歳の患者がインフルエンザに感染後、昏睡状態に陥り、意識障害を起こしている。](https://news.google.com/rss/articles/CBMihAFBVV95cUxQWVk2NmdqVVlhYm0xYzNfMVFadE5ibENCSHBsV2xRR1JnS3g3Z280cXZ0LXZMY2RnT3RwQ1VJdFc3OFg1YVZLWGtaNlhNeG5rLUR1WXFvbmZUZVlwRDVnRWlkUTM5dEJ1YUlmT2U4cFU4ME1JNFo5c2FtbF9BaWwyZnlGcFY?oc=5)
 
@@ -141,6 +141,14 @@ last_modified_at: 2026-11-23
 2026-11-18
 
 出典: [日刊ゲンダイDIGITAL](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oU1VqRnJHdzhIUE1DeDQ0d3laS3MxQnBSdjBsckRDQXFoTC1tSHJJcmdacU1CNzUyYThTdzVxVXZncFpiTW96UXlOdEJXWkNoMXZEaXU3LThCMko1dHZlODFSYnd2MTdG?oc=5)
+
+---
+
+### [感染症情報（１１月９～１５日）](https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwLV9lMlJkSkU3bWdveExZTGp0dnZTQjdYLTl1Zk9KSlBENS1jSnB3bEFSal9RS3NyQlhjRDNNWjhDRGNnNWJ2UklBbVlid1hudUhOTHM1ZnF5VGdrMkE?oc=5)
+
+2026-11-18
+
+出典: [福井新聞社](https://news.google.com/rss/articles/CBMiXkFVX3lxTFAwLV9lMlJkSkU3bWdveExZTGp0dnZTQjdYLTl1Zk9KSlBENS1jSnB3bEFSal9RS3NyQlhjRDNNWjhDRGNnNWJ2UklBbVlid1hudUhOTHM1ZnF5VGdrMkE?oc=5)
 
 ---
 
