@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Golimumab"
 predicted_indications: ["hypermobility of coccyx", "Kummell disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Golimumab：予測新適応症は尾骨過可動症 (hypermobility of coccyx)（エビデンスレベル L5）。薬価基準の品目：2 件（現在収載 2 件）"
 ---
 
@@ -61,10 +61,14 @@ TxGNN モデルは**尾骨過可動症 (hypermobility of coccyx)** に有効で�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 622675801 | シンポニー皮下注５０ｍｇオートインジェクター　０．５ｍＬ | 注５０ｍｇオートインジェクター　０．５ｍＬ | 記載なし |
-| 622070002 | シンポニー皮下注５０ｍｇシリンジ　０．５ｍＬ | 注５０ｍｇシリンジ　０．５ｍＬ | 記載なし |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622675801 | シンポニー皮下注５０ｍｇオートインジェクター ０．５ｍＬ | 有効 |
+| 622070002 | シンポニー皮下注５０ｍｇシリンジ ０．５ｍＬ | 有効 |
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

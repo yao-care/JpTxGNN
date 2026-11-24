@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Flecainide"
 predicted_indications: ["stroke disorder", "sick sinus syndrome 2, autosomal dominant", "ABri amyloidosis", "sarcoglycanopathy", "Wildervanck syndrome", "macrocephaly, dysmorphic facies, and psychomotor retardation", "duodenal obstruction", "cerebrovascular disorder", "nephrogenic syndrome of inappropriate antidiuresis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Flecainide：予測新適応症は脳卒中 (stroke disorder)（エビデンスレベル L5）。薬価基準の品目：12 件（現在収載 10 件）"
 ---
 
@@ -83,13 +83,19 @@ TxGNN モデルは**脳卒中 (stroke disorder)** に有効である可能性を
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 612120303 | タンボコール錠５０ｍｇ | 錠５０ｍｇ | 発作性心房細動・粗動、期外収縮 |
-| 612120304 | タンボコール錠１００ｍｇ | 錠１００ｍｇ | 発作性心房細動・粗動、期外収縮 |
-| 622694101 | フレカイニド酢酸塩錠５０ｍｇ「ＴＥ」 | 錠５０ｍｇ「ＴＥ」 | 発作性心房細動・粗動、期外収縮 |
-| 622644101 | フレカイニド酢酸塩錠５０ｍｇ「ＫＯ」 | 錠５０ｍｇ「ＫＯ」 | 発作性心房細動・粗動、期外収縮 |
-| 622633003 | フレカイニド酢酸塩錠５０ｍｇ「ＶＴＲＳ」 | 錠５０ｍｇ「ＶＴＲＳ」 | 発作性心房細動・粗動、期外収縮 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 612120303 | タンボコール錠５０ｍｇ | 有効 |
+| 612120304 | タンボコール錠１００ｍｇ | 有効 |
+| 622694101 | フレカイニド酢酸塩錠５０ｍｇ「ＴＥ」 | 薬価削除（2026-03-31） |
+| 622644101 | フレカイニド酢酸塩錠５０ｍｇ「ＫＯ」 | 有効 |
+| 622633003 | フレカイニド酢酸塩錠５０ｍｇ「ＶＴＲＳ」 | 有効 |
+
+上表はデータ上の 12 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 承認は全 12 件で、細粒、錠剤、静注剤があります。
 

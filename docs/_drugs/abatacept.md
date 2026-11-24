@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 7
 monitor_inn: "Abatacept"
 predicted_indications: ["ankylosing spondylitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "vertebral disease", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Abatacept：予測新適応症は強直性脊椎炎 (ankylosing spondylitis)（エビデンスレベル L3）。薬価基準の品目：3 件（現在収載 3 件）"
 ---
 
@@ -94,11 +94,15 @@ TxGNN モデルは**強直性脊椎炎 (ankylosing spondylitis)** に有効で�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 622265701 | オレンシア皮下注１２５ｍｇシリンジ１ｍＬ | 注１２５ｍｇシリンジ１ｍＬ | 記載なし |
-| 622002901 | オレンシア点滴静注用２５０ｍｇ | 注用２５０ｍｇ | 記載なし |
-| 622491601 | オレンシア皮下注１２５ｍｇオートインジェクター１ｍＬ | 注１２５ｍｇオートインジェクター１ｍＬ | 記載なし |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622265701 | オレンシア皮下注１２５ｍｇシリンジ１ｍＬ | 有効 |
+| 622002901 | オレンシア点滴静注用２５０ｍｇ | 有効 |
+| 622491601 | オレンシア皮下注１２５ｍｇオートインジェクター１ｍＬ | 有効 |
+
+<!-- licenses:end -->
 
 ---
 

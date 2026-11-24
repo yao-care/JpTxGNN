@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "durvalumab"
 predicted_indications: ["uterine ligament adenocarcinoma", "endocervical carcinoma", "adenoid cystic carcinoma of the cervix uteri", "uterine ligament serous adenocarcinoma", "signet ring cell variant cervical mucinous adenocarcinoma", "intestinal variant cervical mucinous adenocarcinoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Durvalumab：予測新適応症は子宮靭帯腺癌 (uterine ligament adenocarcinoma)（エビデンスレベル L5）。薬価基準の品目：2 件（現在収載 2 件）"
 ---
 
@@ -61,10 +61,14 @@ TxGNN モデルは**子宮靭帯腺癌 (uterine ligament adenocarcinoma)** に�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 622633201 | イミフィンジ点滴静注１２０ｍｇ　２．４ｍＬ | 注１２０ｍｇ　２．４ｍＬ | 記載なし |
-| 622633301 | イミフィンジ点滴静注５００ｍｇ　１０ｍＬ | 注５００ｍｇ　１０ｍＬ | 記載なし |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622633201 | イミフィンジ点滴静注１２０ｍｇ ２．４ｍＬ | 有効 |
+| 622633301 | イミフィンジ点滴静注５００ｍｇ １０ｍＬ | 有効 |
+
+<!-- licenses:end -->
 
 ## 細胞毒性
 

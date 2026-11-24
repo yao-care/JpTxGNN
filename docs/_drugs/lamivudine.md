@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Lamivudine"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "chronic hepatitis C virus infection"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lamivudine：予測新適応症はサル免疫不全ウイルス感染症 (simian immunodeficiency virus infection)（エビデンスレベル L5）。薬価基準の品目：3 件（現在収載 3 件）"
 ---
 
@@ -83,11 +83,15 @@ SIV はヒト免疫不全ウイルス (HIV) の動物モデルとして用いら
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 622699101 | ラバミコム配合錠「アメル」 | 錠「アメル」 | 記載なし |
-| 671657001 | エプジコム配合錠（選） | 錠（選） | 記載なし |
-| 621657001 | エプジコム配合錠 | 錠 | 記載なし |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622699101 | ラバミコム配合錠「アメル」 | 有効 |
+| 671657001 | エプジコム配合錠（選） | 有効 |
+| 621657001 | エプジコム配合錠 | 有効 |
+
+<!-- licenses:end -->
 
 上記はいずれも配合錠の承認です。ラミブジン単剤の承認状況を示すものではありません。
 

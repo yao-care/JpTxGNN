@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 223
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 monitor_inn: "nitrazepam"
 predicted_indications: ["Wernicke-Korsakoff syndrome"]
 description: "Nitrazepam：予測新適応症はWernicke-Korsakoff syndrome（エビデンスレベル L5）。薬価基準の品目：20 件（現在収載 16 件）"
@@ -86,17 +86,23 @@ description: "Nitrazepam：予測新適応症はWernicke-Korsakoff syndrome（�
 
 <!-- review:begin jp-lic-20261106-nitrazepam-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「すべての承認が取消済みです。主なものを示します。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 20 件、うち有効 20 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「すべての承認が取消済みです。主なものを示します。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-nitrazepam-1 -->
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 670454053 | ネルボン錠５ｍｇ（選） | 錠５ｍｇ | 不眠症、点頭てんかん（抗けいれん薬、催眠鎮静薬） |
-| 620003588 | ニトラゼパム錠５ｍｇ「トーワ」 | 錠５ｍｇ | 不眠症、点頭てんかん（抗けいれん薬、催眠鎮静薬） |
-| 670453117 | ベンザリン錠５　５ｍｇ（選） | 錠５ｍｇ | 不眠症、点頭てんかん（抗けいれん薬、催眠鎮静薬） |
-| 620004589 | ベンザリン細粒１％ | 細粒１％ | 不眠症、点頭てんかん（抗けいれん薬、催眠鎮静薬） |
-| 622887100 | ニトラゼパム５ｍｇ錠 | 錠 | 不眠症、点頭てんかん（抗けいれん薬、催眠鎮静薬） |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 670454053 | ネルボン錠５ｍｇ（選） | 薬価削除（2026-03-31） |
+| 620003588 | ニトラゼパム錠５ｍｇ「トーワ」 | 有効 |
+| 670453117 | ベンザリン錠５ ５ｍｇ（選） | 有効 |
+| 620004589 | ベンザリン細粒１％ | 有効 |
+| 622887100 | ニトラゼパム５ｍｇ錠 | 有効 |
+
+上表はデータ上の 20 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 
@@ -121,7 +127,7 @@ description: "Nitrazepam：予測新適応症はWernicke-Korsakoff syndrome（�
 
 <!-- review:begin jp-lic-20261106-nitrazepam-2 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「現在の市販・供給状況と取消の経緯の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 20 件、うち有効 20 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「現在の市販・供給状況と取消の経緯の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-nitrazepam-2 -->
 
@@ -141,8 +147,8 @@ description: "Nitrazepam：予測新適応症はWernicke-Korsakoff syndrome（�
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「すべての承認が取消済みです」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-06 | 削除：「と取消の経緯」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「すべての承認が取消済みです」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「と取消の経緯」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 
 <!-- review:end log -->
 

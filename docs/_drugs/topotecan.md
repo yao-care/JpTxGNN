@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Topotecan"
 predicted_indications: ["female breast carcinoma", "adult germ cell tumor"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Topotecan：予測新適応症は女性乳癌 (female breast carcinoma)（エビデンスレベル L5）。薬価基準の品目：2 件（現在収載 2 件）"
 ---
 
@@ -84,10 +84,14 @@ TxGNN モデルは**女性乳癌 (female breast carcinoma)** に有効である�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620919701 | トポテシン点滴静注１００ｍｇ　５ｍＬ | 注射剤（100 mg/5 mL） | 記載なし |
-| 620919501 | トポテシン点滴静注４０ｍｇ　２ｍＬ | 注射剤（40 mg/2 mL） | 記載なし |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620919701 | トポテシン点滴静注１００ｍｇ ５ｍＬ | 有効 |
+| 620919501 | トポテシン点滴静注４０ｍｇ ２ｍＬ | 有効 |
+
+<!-- licenses:end -->
 
 ## 細胞毒性
 

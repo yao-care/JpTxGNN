@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 35
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Azathioprine：予測新適応症はコロボーマ性小眼球症-根幹肢異形成症候群 (colobomatous microphthalmia-rhizomelic dysplasi…（エビデンスレベル L5）。既存適応症：臓器移植における拒絶反応、ステロイド依存性のクローン病・潰瘍性大腸炎、顕微鏡的多発血管炎、多発血管炎性肉芽腫症、全身性エリテマトーデス…"
 monitor_inn: "Azathioprine"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "WHIM syndrome", "granulomatous disease, chronic, autosomal recessive, 5", "osteoarthritis", "granulomatous disease with defect in neutrophil chemotaxis", "acromesomelic dysplasia, Hunter-Thompson type"]
@@ -69,17 +69,21 @@ ChEMBL（EMBL-EBI）に登録されている Azathioprine の作用機序（非�
 
 <!-- review:begin jp-lic-20261106-azathioprine-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「3 件の承認はいずれも失効しており、現在有効な単剤・配合剤の承認はありません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 3 件、うち有効 3 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「3 件の承認はいずれも失効しており、現在有効な単剤・配合剤の承認はありません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-azathioprine-1 -->
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620006560 | イムラン錠50mg | 錠 50mg | — |
-| 613990075 | アザチオプリン錠 50mg | 錠 50mg | 臓器移植における拒絶反応、ステロイド依存性のクローン病・潰瘍性大腸炎、顕微鏡的多発血管炎、多発血管炎性肉芽腫症、結節性多発動脈炎、好酸球性多発血管炎性肉芽腫症、高安動脈炎、全身性エリテマトーデス... |
-| 620004279 | アザニン錠50mg | 錠 50mg | — |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620006560 | イムラン錠５０ｍｇ | 有効 |
+| 613990075 | アザチオプリン錠 ５０ｍｇ | 有効 |
+| 620004279 | アザニン錠５０ｍｇ | 有効 |
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 
@@ -105,7 +109,7 @@ ChEMBL（EMBL-EBI）に登録されている Azathioprine の作用機序（非�
 
 <!-- review:begin jp-lic-20261106-azathioprine-2 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「添付文書（警告・禁忌）の取得による安全性評価／日本での承認が全て失効している点の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 3 件、うち有効 3 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「添付文書（警告・禁忌）の取得による安全性評価／日本での承認が全て失効している点の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-azathioprine-2 -->
 
@@ -117,8 +121,8 @@ ChEMBL（EMBL-EBI）に登録されている Azathioprine の作用機序（非�
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「3 件の承認はいずれも失効しており、現在有効な単剤・配合剤の承認はありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-06 | 削除：「日本での承認が全て失効している点の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「3 件の承認はいずれも失効しており、現在有効な単剤・配合剤の承認はありません」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本での承認が全て失効している点の確認」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え（2026-11-20 改訂、旧版は記録に保存） | [ChEMBL CHEMBL1542 (azathioprine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1542) |
 
 <!-- review:end log -->

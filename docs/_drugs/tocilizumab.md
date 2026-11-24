@@ -5,7 +5,7 @@ parent: 高エビデンスレベル
 nav_order: 310
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tocilizumab：予測新適応症は強直性脊椎炎 (Ankylosing Spondylitis)（エビデンスレベル L2）。既存適応症：関節リウマチ、若年性特発性関節炎、側頭動脈炎、キャッスルマン病など（日本の承認適応症テキストは未登録）"
 monitor_inn: "Tocilizumab"
 predicted_indications: ["ankylosing spondylitis", "hypermobility of coccyx", "inflammatory spondylopathy", "Kummell disease", "vertebral disease"]
@@ -85,19 +85,25 @@ TxGNN モデルは**強直性脊椎炎 (Ankylosing Spondylitis)** に有効で�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 622242201 | アクテムラ皮下注１６２ｍｇシリンジ　０．９ｍＬ | 注射剤（シリンジ） | 有効（適応症テキストなし） |
-| 622242301 | アクテムラ皮下注１６２ｍｇオートインジェクター　０．９ｍＬ | 注射剤（オートインジェクター） | 有効（適応症テキストなし） |
-| 620006805 | アクテムラ点滴静注用４００ｍｇ　２０ｍＬ | 注射剤（点滴静注用） | 有効（適応症テキストなし） |
-| 620006184 | アクテムラ点滴静注用２００ｍｇ　１０ｍＬ | 注射剤（点滴静注用） | 有効（適応症テキストなし） |
-| 629936701 | トシリズマブＢＳ点滴静注２００ｍｇ「ＣＴ」　１０ｍＬ | 注射剤（点滴静注） | 有効（適応症テキストなし） |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622242201 | アクテムラ皮下注１６２ｍｇシリンジ ０．９ｍＬ | 有効 |
+| 622242301 | アクテムラ皮下注１６２ｍｇオートインジェクター ０．９ｍＬ | 有効 |
+| 620006805 | アクテムラ点滴静注用４００ｍｇ ２０ｍＬ | 有効 |
+| 620006184 | アクテムラ点滴静注用２００ｍｇ １０ｍＬ | 有効 |
+| 629936701 | トシリズマブＢＳ点滴静注２００ｍｇ「ＣＴ」 １０ｍＬ | 有効 |
+
+上表はデータ上の 8 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 このほか、アクテムラ点滴静注用８０ｍｇ（620006804）、トシリズマブＢＳ点滴静注４００ｍｇ「ＣＴ」（629936801）、同８０ｍｇ「ＣＴ」（629936601）も有効です。
 
 <!-- review:begin jp-lic-20261112-tocilizumab-1 -->
 
-> **確認による訂正（2026-11-12）**：元の記載は「同８０ｍｇ「ＣＴ」（629936601）も取消済みです。」でした。訂正：医薬品マスター（薬価基準収載品目）では、アクテムラ点滴静注用８０ｍｇ（620006804）、トシリズマブＢＳ点滴静注４００ｍｇ「ＣＴ」（629936801）、同８０ｍｇ「ＣＴ」（629936601）は有効です（2026-11-05 のデータ）。データ上の収載は 8 件、うち有効 8 件です。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-12）**：元の記載は「同８０ｍｇ「ＣＴ」（629936601）も取消済みです。」でした。訂正：医薬品マスター（薬価基準収載品目）では、アクテムラ点滴静注用８０ｍｇ（620006804）、トシリズマブＢＳ点滴静注４００ｍｇ「ＣＴ」（629936801）、同８０ｍｇ「ＣＴ」（629936601）は有効です（2026-11-05 のデータ）。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261112-tocilizumab-1 -->
 
@@ -125,7 +131,7 @@ TxGNN モデルは**強直性脊椎炎 (Ankylosing Spondylitis)** に有効で�
 
 <!-- review:begin jp-lic-20261106-tocilizumab-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「詳細な作用機序データ（MOA）の補充／日本での現行の承認・販売状況（取消の背景を含む）の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 8 件、うち有効 8 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「詳細な作用機序データ（MOA）の補充／日本での現行の承認・販売状況（取消の背景を含む）の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-tocilizumab-1 -->
 
@@ -151,8 +157,8 @@ TxGNN モデルは**強直性脊椎炎 (Ankylosing Spondylitis)** に有効で�
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「日本での現行の承認・販売状況（取消の背景を含む）の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-12 | 訂正：620006804・629936801・629936601 は「取消済み」ではなく有効 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本での現行の承認・販売状況（取消の背景を含む）の確認」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-12 | 訂正：620006804・629936801・629936601 は「取消済み」ではなく有効 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Avtozma (tocilizumab) prescribing information, CELLTRION USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=581c288f-8015-40ef-a4c3-683c96db193d) |
 
 <!-- review:end log -->

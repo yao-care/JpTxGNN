@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Ibuprofen"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ibuprofen：予測新適応症は先端中間異形成 Hunter-Thompson 型 (acromesomelic dysplasia, Hunter-Thompson type)（エビデンスレベル L5）。薬価基準の品目：10 件（現在収載 8 件）"
 ---
 
@@ -66,15 +66,21 @@ TxGNN モデルは**先端中間異形成 Hunter-Thompson 型 (acromesomelic dys
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620007068 | ブルフェン顆粒２０％ | 顆粒２０％ | 鎮痛薬、抗炎症薬、解熱薬、シクロオキシゲナーゼ阻害薬（関節リウマチ） |
-| 622058203 | イブプロフェン錠２００ｍｇ「ＮＩＧ」 | 錠２００ｍｇ | 鎮痛薬、抗炎症薬、解熱薬、シクロオキシゲナーゼ阻害薬（関節リウマチ） |
-| 622066702 | イブプロフェン錠２００ｍｇ「ＴＣＫ」 | 錠２００ｍｇ | 鎮痛薬、抗炎症薬、解熱薬、シクロオキシゲナーゼ阻害薬（関節リウマチ） |
-| 620088902 | イブプロフェン顆粒２０％「ツルハラ」 | 顆粒２０％ | 鎮痛薬、抗炎症薬、解熱薬、シクロオキシゲナーゼ阻害薬（関節リウマチ） |
-| 620090604 | イブプロフェン錠１００ｍｇ「ＮＩＧ」 | 錠１００ｍｇ | 鎮痛薬、抗炎症薬、解熱薬、シクロオキシゲナーゼ阻害薬（関節リウマチ） |
+<!-- licenses:begin -->
 
-※ 上記を含む 10 件のうち、10 件が有効な承認です。
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620007068 | ブルフェン顆粒２０％ | 有効 |
+| 622058203 | イブプロフェン錠２００ｍｇ「ＮＩＧ」 | 有効 |
+| 622066702 | イブプロフェン錠２００ｍｇ「ＴＣＫ」 | 有効 |
+| 620088902 | イブプロフェン顆粒２０％「ツルハラ」 | 有効 |
+| 620090604 | イブプロフェン錠１００ｍｇ「ＮＩＧ」 | 有効 |
+
+上表はデータ上の 10 件のうち 5 件です。
+
+<!-- licenses:end -->
+
+※ 上記を含む 10 件のうち、8 件が有効な承認です。
 
 ## 安全性に関する考慮事項
 
@@ -91,11 +97,11 @@ TxGNN モデルは**先端中間異形成 Hunter-Thompson 型 (acromesomelic dys
 **決定：Hold**
 
 **理由：**
-予測は TxGNN モデルのスコアのみに基づいており、臨床試験も文献もありません。COX 阻害との機序的関連も確認できていません。日本では販売されており、10 件の承認のうち 8 件が有効です（2 件は薬価基準から削除済み）。
+予測は TxGNN モデルのスコアのみに基づいており、臨床試験も文献もありません。COX 阻害との機序的関連も確認できていません。日本では販売されており、承認には有効なものと薬価基準から削除済みのものがあります（件数はクイック概要を参照）。
 
 <!-- review:begin jp-lic-20261117-ibuprofen-1 -->
 
-> **確認による訂正（2026-11-17）**：元の記載は「日本では販売されており、10 件の承認のうち 10 件が有効です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 10 件のうち有効（収載中）は 8 件で、2 件は経過措置期間満了などにより薬価基準から削除されています（670007068（廃止年月日 2026-03-31）、622709600（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+> **確認による訂正（2026-11-17）**：元の記載は「日本では販売されており、10 件の承認のうち 10 件が有効です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、次の承認が経過措置期間満了などにより薬価基準から削除されています（670007068（廃止年月日 2026-03-31）、622709600（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
 
 <!-- review:end jp-lic-20261117-ibuprofen-1 -->
 
@@ -109,7 +115,7 @@ TxGNN モデルは**先端中間異形成 Hunter-Thompson 型 (acromesomelic dys
 
 <!-- review:begin jp-lic-20261106-ibuprofen-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「現在の販売状況（取消済み）を踏まえた供給・開発戦略の検討」でした。削除：医薬品マスター（薬価基準収載品目）の収載情報と一致しない記載でした（2026-11-06）。データ上の収載は 10 件、うち有効 10 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「現在の販売状況（取消済み）を踏まえた供給・開発戦略の検討」でした。削除：医薬品マスター（薬価基準収載品目）の収載情報と一致しない記載でした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-ibuprofen-1 -->
 
@@ -121,8 +127,8 @@ TxGNN モデルは**先端中間異形成 Hunter-Thompson 型 (acromesomelic dys
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「取消済み」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-06 | 削除：「取消済み」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Caldolor (ibuprofen) prescribing information, Cumberland Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1eaa7790-f1a1-4f51-b10a-cbbaf033f684) |
 
 <!-- review:end log -->

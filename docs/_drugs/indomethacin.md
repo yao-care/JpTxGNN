@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 162
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Indomethacin：予測新適応症は短指症候群 (Brachydactyly-Syndactyly Syndrome)（エビデンスレベル L5）。既存適応症：関節リウマチ、痛風発作（鎮痛薬・抗炎症薬・解熱薬）"
 monitor_inn: "Indomethacin"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "WHIM syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "brachyolmia", "myosclerosis", "juvenile idiopathic arthritis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "rheumatoid nodulosis"]
@@ -71,21 +71,27 @@ TxGNN モデルは、先天性の肢形成異常である**短指症候群 (Brac
 
 ## 日本市販情報
 
-承認 15 件のうち 13 件が有効で（2 件は薬価基準から削除済み）、現在日本で市販されています。主な承認は以下のとおりです。
+承認には有効なものと薬価基準から削除済みのものがあり（件数はクイック概要を参照）、現在日本で市販されています。主な承認は以下のとおりです。
 
 <!-- review:begin jp-lic-20261117-indomethacin-1 -->
 
-> **確認による訂正（2026-11-17）**：元の記載は「承認 15 件のうち 15 件が有効で、現在日本で市販されています。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 15 件のうち有効（収載中）は 13 件で、2 件は経過措置期間満了などにより薬価基準から削除されています（621293403（廃止年月日 2026-03-31）、620639002（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+> **確認による訂正（2026-11-17）**：元の記載は「承認 15 件のうち 15 件が有効で、現在日本で市販されています。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、次の承認が経過措置期間満了などにより薬価基準から削除されています（621293403（廃止年月日 2026-03-31）、620639002（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
 
 <!-- review:end jp-lic-20261117-indomethacin-1 -->
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 611140098 | インドメタシンカプセル 25mg | カプセル | 関節リウマチ、痛風発作（鎮痛・抗炎症・解熱、COX 阻害薬） |
-| 620078653 | インドメタシン坐剤50「NP」 50mg | 坐剤 | 関節リウマチ、痛風発作（鎮痛・抗炎症・解熱、COX 阻害薬） |
-| 620078542 | インドメタシン坐剤25mg「JG」 | 坐剤 | 関節リウマチ、痛風発作（鎮痛・抗炎症・解熱、COX 阻害薬） |
-| 621293403 | インドメタシンパップ70mg「BMD」 10cm×14cm | パップ | 関節リウマチ、痛風発作（鎮痛・抗炎症・解熱、COX 阻害薬） |
-| 620007603 | インドメタシンパップ70mg「日医工」 10cm×14cm | パップ | 関節リウマチ、痛風発作（鎮痛・抗炎症・解熱、COX 阻害薬） |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 611140098 | インドメタシンカプセル ２５ｍｇ | 有効 |
+| 620078653 | インドメタシン坐剤５０「ＮＰ」 ５０ｍｇ | 有効 |
+| 620078542 | インドメタシン坐剤２５ｍｇ「ＪＧ」 | 有効 |
+| 621293403 | インドメタシンパップ７０ｍｇ「ＢＭＤ」 １０ｃｍ×１４ｃｍ | 薬価削除（2026-03-31） |
+| 620007603 | インドメタシンパップ７０ｍｇ「日医工」 １０ｃｍ×１４ｃｍ | 有効 |
+
+上表はデータ上の 15 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 
@@ -116,11 +122,11 @@ TxGNN モデルは、先天性の肢形成異常である**短指症候群 (Brac
 
 **理由：**
 - 予測される短指症候群は遺伝性の発生異常で、COX 阻害による機序的な裏付けも、臨床試験・文献もなく、モデル予測のみ（L5）です。
-- 日本では承認 15 件のうち 13 件が有効で、市販されています。
+- 日本では有効な承認があり（件数はクイック概要を参照）、市販されています。
 
 <!-- review:begin jp-lic-20261117-indomethacin-2 -->
 
-> **確認による訂正（2026-11-17）**：元の記載は「日本では承認 15 件のうち 15 件が有効で、市販されています。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 15 件のうち有効（収載中）は 13 件で、2 件は経過措置期間満了などにより薬価基準から削除されています（621293403（廃止年月日 2026-03-31）、620639002（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+> **確認による訂正（2026-11-17）**：元の記載は「日本では承認 15 件のうち 15 件が有効で、市販されています。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、次の承認が経過措置期間満了などにより薬価基準から削除されています（621293403（廃止年月日 2026-03-31）、620639002（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
 
 <!-- review:end jp-lic-20261117-indomethacin-2 -->
 
@@ -135,7 +141,7 @@ TxGNN モデルは、先天性の肢形成異常である**短指症候群 (Brac
 
 <!-- review:begin jp-lic-20261106-indomethacin-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「現在市販中の製剤がないため、製剤・供給面の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 15 件、うち有効 15 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「現在市販中の製剤がないため、製剤・供給面の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-indomethacin-1 -->
 
@@ -147,9 +153,9 @@ TxGNN モデルは、先天性の肢形成異常である**短指症候群 (Brac
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「現在市販中の製剤がないため」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
-| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-06 | 削除：「現在市販中の製剤がないため」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Indocin (indomethacin) prescribing information, Zyla Life Sciences US LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=73878376-1d24-423b-9f37-3666e83c95da) |
 
 <!-- review:end log -->

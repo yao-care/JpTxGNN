@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 239
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "Perampanel"
 predicted_indications: ["beta-ketothiolase deficiency"]
 description: "Perampanel：予測新適応症はBeta-ketothiolase deficiency（エビデンスレベル L5）。薬価基準の品目：4 件（現在収載 4 件）"
@@ -88,12 +88,16 @@ description: "Perampanel：予測新適応症はBeta-ketothiolase deficiency（�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 622484601 | フィコンパ錠２ｍｇ | 錠２ｍｇ | 有効 |
-| 622484701 | フィコンパ錠４ｍｇ | 錠４ｍｇ | 有効 |
-| 622703001 | フィコンパ細粒１％ | 細粒１％ | 有効 |
-| 622955101 | フィコンパ点滴静注用２ｍｇ | 注用２ｍｇ | 有効 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622484601 | フィコンパ錠２ｍｇ | 有効 |
+| 622484701 | フィコンパ錠４ｍｇ | 有効 |
+| 622703001 | フィコンパ細粒１％ | 有効 |
+| 622955101 | フィコンパ点滴静注用２ｍｇ | 有効 |
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 
@@ -118,7 +122,7 @@ description: "Perampanel：予測新適応症はBeta-ketothiolase deficiency（�
 
 <!-- review:begin jp-lic-20261106-perampanel-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「日本での承認状況の再確認（取り消しの経緯を含む）／ただし、関連試験は小規模・中止・募集中で、有効性は未確立です。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 4 件、うち有効 4 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「日本での承認状況の再確認（取り消しの経緯を含む）／ただし、関連試験は小規模・中止・募集中で、有効性は未確立です。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-perampanel-1 -->
 
@@ -130,7 +134,7 @@ description: "Perampanel：予測新適応症はBeta-ketothiolase deficiency（�
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「日本での承認状況の再確認（取り消しの経緯を含む」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本での承認状況の再確認（取り消しの経緯を含む」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 
 <!-- review:end log -->
 

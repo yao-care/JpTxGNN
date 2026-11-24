@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 194
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Lorlatinib：予測新適応症は遺伝性歯肉線維腫症 (fibromatosis, gingival)（エビデンスレベル L5）。既存適応症：非小細胞肺癌（ALK 陽性）"
 monitor_inn: "Lorlatinib"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "lung germ cell tumor", "pulmonary sulcus neoplasm", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "junctional epidermolysis bullosa", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
@@ -74,10 +74,14 @@ TxGNN モデルは**遺伝性歯肉線維腫症 (fibromatosis, gingival)** に�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 622653201 | ローブレナ錠25mg | 錠25mg（経口） | 記載なし（有効） |
-| 622653301 | ローブレナ錠100mg | 錠100mg（経口） | 記載なし（有効） |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622653201 | ローブレナ錠２５ｍｇ | 有効 |
+| 622653301 | ローブレナ錠１００ｍｇ | 有効 |
+
+<!-- licenses:end -->
 
 ## 細胞毒性
 
@@ -107,7 +111,7 @@ TxGNN モデルは**遺伝性歯肉線維腫症 (fibromatosis, gingival)** に�
 
 <!-- review:begin jp-lic-20261106-lorlatinib-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「予測スコアは高いものの、遺伝性歯肉線維腫症に対する臨床試験・文献がなく、ALK/ROS1 阻害との機序的関連も確立されていません（L5）。／日本の承認は失効しており、添付文書の警告・禁忌も未確認です。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 2 件、うち有効 2 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「予測スコアは高いものの、遺伝性歯肉線維腫症に対する臨床試験・文献がなく、ALK/ROS1 阻害との機序的関連も確立されていません（L5）。／日本の承認は失効しており、添付文書の警告・禁忌も未確認です。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-lorlatinib-1 -->
 
@@ -126,7 +130,7 @@ TxGNN モデルは**遺伝性歯肉線維腫症 (fibromatosis, gingival)** に�
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「日本の承認は失効しており、添付文書の警告・禁忌も未確認です」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本の承認は失効しており、添付文書の警告・禁忌も未確認です」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 
 <!-- review:end log -->
 

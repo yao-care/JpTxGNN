@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "anastrozole"
 predicted_indications: ["neuroblastoma", "vertebral anomalies and variable endocrine and T-cell dysfunction", "ganglioneuroblastoma (disease)", "retroperitoneal neoplasm", "monocytic leukemia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Anastrozole：予測新適応症は神経芽腫 (neuroblastoma)（エビデンスレベル L5）。薬価基準の品目：11 件（現在収載 11 件）"
 ---
 
@@ -74,13 +74,19 @@ TxGNN モデルは**神経芽腫 (neuroblastoma)** に有効である可能性�
 
 主要な承認 5 件を示します。
 
-| 承認番号 | 商品名 | 剤形 |
-|---------|------|------|
-| 620003507 | アリミデックス錠１ｍｇ | 錠１ｍｇ |
-| 622211201 | アナストロゾール錠１ｍｇ「ＮＰ」 | 錠１ｍｇ「ＮＰ」 |
-| 622218301 | アナストロゾール錠１ｍｇ「サワイ」 | 錠１ｍｇ「サワイ」 |
-| 622671101 | アナストロゾール錠１ｍｇ「ＤＳＥＰ」 | 錠１ｍｇ「ＤＳＥＰ」 |
-| 622208701 | アナストロゾール錠１ｍｇ「ＮＫ」 | 錠１ｍｇ「ＮＫ」 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620003507 | アリミデックス錠１ｍｇ | 有効 |
+| 622211201 | アナストロゾール錠１ｍｇ「ＮＰ」 | 有効 |
+| 622218301 | アナストロゾール錠１ｍｇ「サワイ」 | 有効 |
+| 622671101 | アナストロゾール錠１ｍｇ「ＤＳＥＰ」 | 有効 |
+| 622208701 | アナストロゾール錠１ｍｇ「ＮＫ」 | 有効 |
+
+上表はデータ上の 11 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 承認はすべて単剤で、経口の錠剤です。承認は他に 6 件あり、上の表は一部のみです。
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Bisoprolol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Bisoprolol：予測新適応症は悪性高血圧性腎疾患 (malignant hypertensive renal disease)（エビデンスレベル L5）。薬価基準の品目：22 件以上"
 ---
 
@@ -74,13 +74,19 @@ TxGNN モデルは**悪性高血圧性腎疾患 (malignant hypertensive renal di
 
 日本では単剤の承認が複数あり、市販中です。主な承認は以下のとおりです。
 
-| 承認番号 | 商品名 | 剤形 |
-|---------|------|------|
-| 620256101 | メインテート錠２．５ｍｇ | 錠２．５ｍｇ |
-| 670256101 | メインテート錠２．５ｍｇ（選） | 錠２．５ｍｇ（選） |
-| 620001875 | ビソプロロールフマル酸塩５ｍｇ錠 | 錠 |
-| 621400001 | ビソプロロールフマル酸塩錠５ｍｇ「トーワ」 | 錠５ｍｇ「トーワ」 |
-| 621399501 | ビソプロロールフマル酸塩錠２．５ｍｇ「サンド」 | 錠２．５ｍｇ「サンド」 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620256101 | メインテート錠２．５ｍｇ | 有効 |
+| 670256101 | メインテート錠２．５ｍｇ（選） | 有効 |
+| 620001875 | ビソプロロールフマル酸塩５ｍｇ錠 | 有効 |
+| 621400001 | ビソプロロールフマル酸塩錠５ｍｇ「トーワ」 | 有効 |
+| 621399501 | ビソプロロールフマル酸塩錠２．５ｍｇ「サンド」 | 薬価削除（2026-09-30、後継コード 622719200） |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 承認記録は一部のみの可能性があり、上記は主要なものに限っています。剤形はすべて経口錠です。
 

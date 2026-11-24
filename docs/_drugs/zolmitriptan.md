@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 345
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "zolmitriptan"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
 description: "Zolmitriptan：予測新適応症はAtrophoderma vermiculata（エビデンスレベル L5）。薬価基準の品目：11 件（現在収載 11 件）"
@@ -82,13 +82,19 @@ description: "Zolmitriptan：予測新適応症はAtrophoderma vermiculata（エ
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 610451019 | ゾーミッグ錠２．５ｍｇ | 錠 | 抗片頭痛薬、血管収縮薬、セロトニン受容体作動薬 |
-| 610462009 | ゾーミッグＲＭ錠２．５ｍｇ | 錠 | （記載なし） |
-| 670462009 | ゾーミッグＲＭ錠２．５ｍｇ（選） | 錠 | （記載なし） |
-| 622846500 | ゾルミトリプタン２．５ｍｇ口腔内崩壊錠 | 錠 | （記載なし） |
-| 622418101 | ゾルミトリプタンＯＤ錠２．５ｍｇ「ＪＧ」 | 錠 | （記載なし） |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 610451019 | ゾーミッグ錠２．５ｍｇ | 有効 |
+| 610462009 | ゾーミッグＲＭ錠２．５ｍｇ | 有効 |
+| 670462009 | ゾーミッグＲＭ錠２．５ｍｇ（選） | 有効 |
+| 622846500 | ゾルミトリプタン２．５ｍｇ口腔内崩壊錠 | 有効 |
+| 622418101 | ゾルミトリプタンＯＤ錠２．５ｍｇ「ＪＧ」 | 有効 |
+
+上表はデータ上の 11 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 
@@ -111,7 +117,7 @@ description: "Zolmitriptan：予測新適応症はAtrophoderma vermiculata（エ
 
 <!-- review:begin jp-lic-20261106-zolmitriptan-2 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「さらに、血管収縮作用による虚血リスクがあり、日本では有効な承認もありません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 11 件、うち有効 11 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「さらに、血管収縮作用による虚血リスクがあり、日本では有効な承認もありません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-zolmitriptan-2 -->
 
@@ -124,7 +130,7 @@ description: "Zolmitriptan：予測新適応症はAtrophoderma vermiculata（エ
 
 <!-- review:begin jp-lic-20261031-zolmitriptan-1 -->
 
-> **確認による訂正（2026-10-31）**：元の記載は「日本での承認状況の再確認（現在は取消のみ）」でした。削除：医薬品マスター（薬価基準収載品目）の収載情報と一致しない記載でした（2026-10-31）。データ上の収載は 11 件、うち有効 11 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-10-31）**：元の記載は「日本での承認状況の再確認（現在は取消のみ）」でした。削除：医薬品マスター（薬価基準収載品目）の収載情報と一致しない記載でした（2026-10-31）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261031-zolmitriptan-1 -->
 
@@ -140,8 +146,8 @@ description: "Zolmitriptan：予測新適応症はAtrophoderma vermiculata（エ
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-10-31 | 削除：「現在は取消のみ」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-06 | 削除：「があり、日本では有効な承認もありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-10-31 | 削除：「現在は取消のみ」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「があり、日本では有効な承認もありません」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 
 <!-- review:end log -->
 

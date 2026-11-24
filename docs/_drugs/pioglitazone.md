@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Pioglitazone"
 predicted_indications: ["opsismodysplasia", "focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Pioglitazone：予測新適応症はオプシスモ異形成症 (Opsismodysplasia)（エビデンスレベル L5）。既存適応症：2型糖尿病（PPARγ 作動薬）"
 ---
 
@@ -97,13 +97,19 @@ TxGNN モデルは **オプシスモ異形成症 (Opsismodysplasia)** に有効�
 
 日本の承認 20 件はすべて有効で、現在販売されています。主な承認は以下のとおりです。
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 610432041 | アクトス錠30 30mg | 錠 | 2型糖尿病（PPARγ 作動薬） |
-| 610432040 | アクトス錠15 15mg | 錠 | 2型糖尿病（PPARγ 作動薬） |
-| 622053101 | ピオグリタゾン錠15mg「サワイ」 | 錠 | 2型糖尿病（PPARγ 作動薬） |
-| 622055801 | ピオグリタゾン錠15mg「トーワ」 | 錠 | 2型糖尿病（PPARγ 作動薬） |
-| 622164401 | ピオグリタゾン錠30mg「TSU」 | 錠 | 2型糖尿病（PPARγ 作動薬） |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 610432041 | アクトス錠３０ ３０ｍｇ | 有効 |
+| 610432040 | アクトス錠１５ １５ｍｇ | 有効 |
+| 622053101 | ピオグリタゾン錠１５ｍｇ「サワイ」 | 有効 |
+| 622055801 | ピオグリタゾン錠１５ｍｇ「トーワ」 | 有効 |
+| 622164401 | ピオグリタゾン錠３０ｍｇ「ＴＳＵ」 | 有効 |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

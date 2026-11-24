@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Sotalol"
 predicted_indications: ["sick sinus syndrome 2, autosomal dominant", "Wildervanck syndrome", "sarcoglycanopathy", "stroke disorder", "manic bipolar affective disorder", "macrocephaly, dysmorphic facies, and psychomotor retardation"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Sotalol：予測新適応症は洞不全症候群 2 型、常染色体優性 (sick sinus syndrome 2, autosomal dominant) (sick sinus syndrome 2, autosomal dominant)（エビデンスレベル L5）。薬価基準の品目：7 件（現在収載 2 件）"
 ---
 
@@ -92,19 +92,25 @@ TxGNN モデルの予測上位は洞不全症候群 2 型（常染色体優性�
 
 <!-- review:begin jp-lic-20261106-sotalol-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「現在、日本で有効な承認はなく、7 件すべてが取消となっています。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 7 件、うち有効 7 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「現在、日本で有効な承認はなく、7 件すべてが取消となっています。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-sotalol-1 -->
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 622878601 | ソタロール塩酸塩錠８０ｍｇ「ＴＥ」 | 錠 80 mg | 抗不整脈薬、β遮断薬、カリウムチャネル遮断薬 |
-| 610421340 | ソタコール錠８０ｍｇ | 錠 80 mg | 抗不整脈薬、β遮断薬、カリウムチャネル遮断薬 |
-| 622981400 | ソタロール塩酸塩８０ｍｇ錠 | 錠 | 抗不整脈薬、β遮断薬、カリウムチャネル遮断薬 |
-| 670421340 | ソタコール錠８０ｍｇ（選） | 錠 80 mg | 抗不整脈薬、β遮断薬、カリウムチャネル遮断薬 |
-| 622878501 | ソタロール塩酸塩錠４０ｍｇ「ＴＥ」 | 錠 40 mg | 抗不整脈薬、β遮断薬、カリウムチャネル遮断薬 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622878601 | ソタロール塩酸塩錠８０ｍｇ「ＴＥ」 | 有効 |
+| 610421340 | ソタコール錠８０ｍｇ | 薬価削除（2026-03-31） |
+| 622981400 | ソタロール塩酸塩８０ｍｇ錠 | 薬価削除（2026-03-31） |
+| 670421340 | ソタコール錠８０ｍｇ（選） | 薬価削除（2026-03-31） |
+| 622878501 | ソタロール塩酸塩錠４０ｍｇ「ＴＥ」 | 有効 |
+
+上表はデータ上の 7 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 
@@ -128,7 +134,7 @@ TxGNN モデルの予測上位は洞不全症候群 2 型（常染色体優性�
 
 <!-- review:begin jp-lic-20261106-sotalol-2 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「脳卒中については心房細動治療を介した間接的な関連しかなく、ソタロール単独で脳卒中を減らす証拠もありません。さらに日本では現在有効な承認がありません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 7 件、うち有効 7 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「脳卒中については心房細動治療を介した間接的な関連しかなく、ソタロール単独で脳卒中を減らす証拠もありません。さらに日本では現在有効な承認がありません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-sotalol-2 -->
 
@@ -141,7 +147,7 @@ TxGNN モデルの予測上位は洞不全症候群 2 型（常染色体優性�
 
 <!-- review:begin jp-lic-20261106-sotalol-3 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「日本での販売状況（承認取消の経緯）と供給可能性の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 7 件、うち有効 7 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「日本での販売状況（承認取消の経緯）と供給可能性の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-sotalol-3 -->
 
@@ -153,9 +159,9 @@ TxGNN モデルの予測上位は洞不全症候群 2 型（常染色体優性�
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「現在、日本で有効な承認はなく、7 件すべてが取消となっています」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-06 | 削除：「さらに日本では現在有効な承認がありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-06 | 削除：「承認取消の経緯」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「現在、日本で有効な承認はなく、7 件すべてが取消となっています」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「さらに日本では現在有効な承認がありません」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「承認取消の経緯」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Betapace (sotalol hydrochloride) prescribing information, Legacy Pharma USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a6a7702f-36c9-45db-b640-453dc324baee) |
 
 <!-- review:end log -->

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Allopurinol"
 predicted_indications: ["hepatic porphyria", "hepatoportal sclerosis", "hepatopulmonary syndrome", "early-onset familial noncirrhotic portal hypertension", "idiopathic copper-associated cirrhosis", "primitive portal vein thrombosis", "disorder of phenylalanine metabolism", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "inflammatory myopathy with abundant macrophages"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Allopurinol：予測新適応症は肝性ポルフィリン症（エビデンスレベル L5）。既存適応症：痛風（尿酸生合成抑制薬、キサンチンオキシダーゼ阻害薬）"
 ---
 
@@ -77,13 +77,19 @@ TxGNN モデルは**肝性ポルフィリン症 (Hepatic Porphyria)** に有効�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620856211 | アロプリノール錠100mg「TCK」 | 錠 100mg | 痛風治療薬、尿酸生合成抑制薬、キサンチンオキシダーゼ阻害薬（痛風） |
-| 622001501 | アロプリノール錠50mg「アメル」 | 錠 50mg | 痛風治療薬、尿酸生合成抑制薬、キサンチンオキシダーゼ阻害薬（痛風） |
-| 620856210 | アロプリノール錠100mg「タカタ」 | 錠 100mg | 痛風治療薬、尿酸生合成抑制薬、キサンチンオキシダーゼ阻害薬（痛風） |
-| 670463077 | ザイロリック錠100 100mg（選） | 錠 100mg | 痛風治療薬、尿酸生合成抑制薬、キサンチンオキシダーゼ阻害薬（痛風） |
-| 610463077 | ザイロリック錠100 100mg | 錠 100mg | 痛風治療薬、尿酸生合成抑制薬、キサンチンオキシダーゼ阻害薬（痛風） |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620856211 | アロプリノール錠１００ｍｇ「ＴＣＫ」 | 有効 |
+| 622001501 | アロプリノール錠５０ｍｇ「アメル」 | 有効 |
+| 620856210 | アロプリノール錠１００ｍｇ「タカタ」 | 有効 |
+| 670463077 | ザイロリック錠１００ １００ｍｇ（選） | 薬価削除（2026-03-31） |
+| 610463077 | ザイロリック錠１００ １００ｍｇ | 薬価削除（2026-03-31） |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 承認は少なくとも 20 件で、上の表は一部です。すべて単剤の経口錠剤です。
 

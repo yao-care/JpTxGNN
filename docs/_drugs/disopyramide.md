@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Disopyramide"
 predicted_indications: ["Tourette syndrome", "attention deficit-hyperactivity disorder", "trichotillomania", "attention deficit hyperactivity disorder, inattentive type", "faciodigitogenital syndrome", "specific developmental disorder", "idiopathic neonatal atrial flutter", "chondromyxoid fibroma", "multifocal atrial tachycardia (disease)", "trigeminal nerve neoplasm"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Disopyramide：予測新適応症はトゥレット症候群 (Tourette syndrome)（エビデンスレベル L5）。既存適応症：記載なし（日本の承認情報に適応症テキストが含まれていません）"
 ---
 
@@ -71,25 +71,25 @@ TxGNN モデルは**トゥレット症候群 (Tourette syndrome)** に有効で�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 610463213 | リスモダンＲ錠１５０ｍｇ | 錠１５０ｍｇ | 記載なし（有効） |
-| 610463214 | リスモダンカプセル５０ｍｇ | カプセル５０ｍｇ | 記載なし（有効） |
-| 610463215 | リスモダンカプセル１００ｍｇ | カプセル１００ｍｇ | 記載なし（有効） |
-| 620004782 | リスモダンＰ静注５０ｍｇ　５ｍＬ | 注５０ｍｇ　５ｍＬ | 記載なし（薬価削除：2026-03-31） |
-| 620259505 | ジソピラミド徐放錠１５０ｍｇ「ＶＴＲＳ」 | 錠１５０ｍｇ「ＶＴＲＳ」 | 記載なし（有効） |
+<!-- licenses:begin -->
 
-<!-- review:begin jp-row-20261117-disopyramide-1 -->
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 610463213 | リスモダンＲ錠１５０ｍｇ | 有効 |
+| 610463214 | リスモダンカプセル５０ｍｇ | 有効 |
+| 610463215 | リスモダンカプセル１００ｍｇ | 有効 |
+| 620004782 | リスモダンＰ静注５０ｍｇ ５ｍＬ | 薬価削除（2026-03-31） |
+| 620259505 | ジソピラミド徐放錠１５０ｍｇ「ＶＴＲＳ」 | 有効 |
 
-> **確認による訂正（2026-11-17）**：元の記載は「620004782／リスモダンＰ静注５０ｍｇ　５ｍＬ／注５０ｍｇ　５ｍＬ／記載なし（有効）」でした。訂正：医薬品マスター（薬価基準収載品目）では 620004782 は廃止年月日 2026-03-31 で薬価基準から削除され、2026-11-12 の全件ファイルに収載されていません。表の状態の記載だけを直しました。承認の取消しを意味するものではありません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+上表はデータ上の 9 件のうち 5 件です。
 
-<!-- review:end jp-row-20261117-disopyramide-1 -->
+<!-- licenses:end -->
 
-9 件のうち 8 件が有効な承認です（1 件は薬価基準から削除済み）。上記は主要な 5 件です。
+承認には有効なものと薬価基準から削除済みのものがあります（件数はクイック概要を参照）。上記は主要な 5 件です。
 
 <!-- review:begin jp-lic-20261117-disopyramide-1 -->
 
-> **確認による訂正（2026-11-17）**：元の記載は「9 件すべてが有効な承認です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 9 件のうち有効（収載中）は 8 件で、1 件は経過措置期間満了などにより薬価基準から削除されています（620004782（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+> **確認による訂正（2026-11-17）**：元の記載は「9 件すべてが有効な承認です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、次の承認が経過措置期間満了などにより薬価基準から削除されています（620004782（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
 
 <!-- review:end jp-lic-20261117-disopyramide-1 -->
 
@@ -121,11 +121,11 @@ TxGNN モデルは**トゥレット症候群 (Tourette syndrome)** に有効で�
 
 **理由：**
 - トゥレット症候群に対する臨床試験・文献がなく、機序的な関連も確認できないため、予測はモデル出力のみ（L5）です。
-- 日本では 9 件の承認のうち 8 件が有効ですが、添付文書上の安全性情報は未取得のため、安全性評価に進めません。
+- 日本では有効な承認がありますが（件数はクイック概要を参照）、添付文書上の安全性情報は未取得のため、安全性評価に進めません。
 
 <!-- review:begin jp-lic-20261117-disopyramide-2 -->
 
-> **確認による訂正（2026-11-17）**：元の記載は「日本では 9 件の承認がすべて有効ですが、」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 9 件のうち有効（収載中）は 8 件で、1 件は経過措置期間満了などにより薬価基準から削除されています（620004782（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+> **確認による訂正（2026-11-17）**：元の記載は「日本では 9 件の承認がすべて有効ですが、」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、次の承認が経過措置期間満了などにより薬価基準から削除されています（620004782（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
 
 <!-- review:end jp-lic-20261117-disopyramide-2 -->
 
@@ -143,9 +143,9 @@ TxGNN モデルは**トゥレット症候群 (Tourette syndrome)** に有効で�
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
-| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
-| 2026-11-17 | 表：620004782 は有効ではなく薬価基準から削除済み | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-17 | 表：620004782 は有効ではなく薬価基準から削除済み | プログラム生成の承認情報表に置き換え（元の対応：訂正） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Norpace (disopyramide phosphate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=e2aa1642-d262-4520-bc6a-9fd3ad795677) |
 
 <!-- review:end log -->

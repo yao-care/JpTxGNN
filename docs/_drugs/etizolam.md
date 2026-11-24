@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 1
 monitor_inn: "Etizolam"
 predicted_indications: ["insomnia (disease)"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Etizolam：予測新適応症は不眠症 (insomnia)（エビデンスレベル L4）。既存適応症：不安（anxiety）"
 ---
 
@@ -77,9 +77,13 @@ GABA-A 受容体を介した鎮静・催眠作用は、不安の緩和だけで�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 610463116 | デパス細粒１％ | 細粒１％ | （記載なし）。この承認は有効済み |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 610463116 | デパス細粒１％ | 有効 |
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 
@@ -103,7 +107,7 @@ TxGNN の予測スコアは高いものの、不眠症に対する臨床試験�
 
 <!-- review:begin jp-lic-20261106-etizolam-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「現在の日本での承認状況（失効済みの承認のみ）を確認し、製品の現状を把握する」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 1 件、うち有効 1 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「現在の日本での承認状況（失効済みの承認のみ）を確認し、製品の現状を把握する」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-etizolam-1 -->
 
@@ -115,7 +119,7 @@ TxGNN の予測スコアは高いものの、不眠症に対する臨床試験�
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「失効済みの承認のみ」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「失効済みの承認のみ」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 
 <!-- review:end log -->
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Lactulose"
 predicted_indications: ["acute urate nephropathy", "nephrolithiasis", "obstructive jaundice", "bile duct disease", "biliary tract disease", "hyperphosphatemia (disease)", "exercise-induced malignant hyperthermia", "bile duct neoplasm"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lactulose：予測新適応症は急性尿酸性腎症 (acute urate nephropathy)（エビデンスレベル L5）。薬価基準の品目：7 件（現在収載 5 件）"
 ---
 
@@ -69,13 +69,19 @@ TxGNN モデルは**急性尿酸性腎症 (acute urate nephropathy)** に有効�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 |
-|---------|------|------|
-| 622654601 | ラグノスＮＦ経口ゼリー分包１２ｇ　５４．１６７％ | 経口ゼリー |
-| 622741500 | ラクツロース６５％シロップ | シロップ |
-| 622498401 | ラクツロース・シロップ６０％分包１５ｍＬ「コーワ」 | シロップ |
-| 620007126 | ラクツロース・シロップ６０％「コーワ」 | シロップ |
-| 620881402 | ラクツロースシロップ６５％「タカタ」 | シロップ |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622654601 | ラグノスＮＦ経口ゼリー分包１２ｇ ５４．１６７％ | 有効 |
+| 622741500 | ラクツロース６５％シロップ | 有効 |
+| 622498401 | ラクツロース・シロップ６０％分包１５ｍＬ「コーワ」 | 薬価削除（2026-03-31） |
+| 620007126 | ラクツロース・シロップ６０％「コーワ」 | 有効 |
+| 620881402 | ラクツロースシロップ６５％「タカタ」 | 有効 |
+
+上表はデータ上の 7 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 承認は単剤のものです。上記は主要な 5 件で、他にも承認があります。
 

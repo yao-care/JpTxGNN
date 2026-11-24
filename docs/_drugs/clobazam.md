@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Clobazam"
 predicted_indications: ["febrile infection-related epilepsy syndrome", "perioral myoclonia with absences", "atypical childhood epilepsy with centrotemporal spikes", "photosensitive occipital lobe epilepsy", "cryptogenic late-onset epileptic spasms", "childhood onset epileptic encephalopathy", "benign occipital epilepsy", "early-onset epileptic encephalopathy and intellectual disability due to GRIN2A mutation", "restless legs syndrome", "polymicrogyria with optic nerve hypoplasia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Clobazam：予測新適応症は熱性感染症関連てんかん症候群 (febrile infection-related epilepsy syndrome)（エビデンスレベル L5）。薬価基準の品目：3 件（現在収載 3 件）"
 ---
 
@@ -75,11 +75,15 @@ TxGNN モデルは**熱性感染症関連てんかん症候群 (febrile infectio
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620000139 | マイスタン細粒１％ | 細粒１％ | 記載なし |
-| 610443012 | マイスタン錠１０ｍｇ | 錠１０ｍｇ | 記載なし |
-| 610443011 | マイスタン錠５ｍｇ | 錠５ｍｇ | 記載なし |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620000139 | マイスタン細粒１％ | 有効 |
+| 610443012 | マイスタン錠１０ｍｇ | 有効 |
+| 610443011 | マイスタン錠５ｍｇ | 有効 |
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

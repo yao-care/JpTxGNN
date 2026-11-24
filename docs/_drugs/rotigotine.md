@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "rotigotine"
 predicted_indications: ["attention deficit-hyperactivity disorder", "schizophrenia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "faciodigitogenital syndrome", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "myopia X-linked", "atypical glycine encephalopathy", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Rotigotine：予測新適応症は注意欠如・多動症 (attention deficit-hyperactivity disorder)（エビデンスレベル L5）。既存適応症：パーキンソン病、むずむず脚症候群"
 ---
 
@@ -75,13 +75,17 @@ ADHD ではドパミンおよびノルアドレナリン系の調節異常が関
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 622163801 | ニュープロパッチ13.5mg | 記載なし | 記載なし（有効） |
-| 622478301 | ニュープロパッチ18mg | 記載なし | 記載なし（有効） |
-| 622163601 | ニュープロパッチ4.5mg | 記載なし | 記載なし（有効） |
-| 622163501 | ニュープロパッチ2.25mg | 記載なし | 記載なし（有効） |
-| 622163701 | ニュープロパッチ9mg | 記載なし | 記載なし（有効） |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622163801 | ニュープロパッチ１３．５ｍｇ | 有効 |
+| 622478301 | ニュープロパッチ１８ｍｇ | 有効 |
+| 622163601 | ニュープロパッチ４．５ｍｇ | 有効 |
+| 622163501 | ニュープロパッチ２．２５ｍｇ | 有効 |
+| 622163701 | ニュープロパッチ９ｍｇ | 有効 |
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 
@@ -103,7 +107,7 @@ ADHD ではドパミンおよびノルアドレナリン系の調節異常が関
 
 <!-- review:begin jp-lic-20261106-rotigotine-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「機序面の仮説と高い予測スコアはあるものの、ADHD に対するロチゴチンの臨床試験はなく、文献も間接的なもの（総説・in vitro）にとどまります。／日本の販売承認も全件取消済みで、すぐに進められる状況ではありません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 5 件、うち有効 5 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「機序面の仮説と高い予測スコアはあるものの、ADHD に対するロチゴチンの臨床試験はなく、文献も間接的なもの（総説・in vitro）にとどまります。／日本の販売承認も全件取消済みで、すぐに進められる状況ではありません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-rotigotine-1 -->
 
@@ -115,7 +119,7 @@ ADHD ではドパミンおよびノルアドレナリン系の調節異常が関
 
 <!-- review:begin jp-lic-20261106-rotigotine-2 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「経皮吸収型製剤（パッチ）の ADHD への適用可能性と、小児での安全性の検討／取消済みの承認状況を踏まえた、国内での開発・再承認の方針整理」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 5 件、うち有効 5 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「経皮吸収型製剤（パッチ）の ADHD への適用可能性と、小児での安全性の検討／取消済みの承認状況を踏まえた、国内での開発・再承認の方針整理」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-rotigotine-2 -->
 
@@ -131,8 +135,8 @@ ADHD 以外では、統合失調症（スコア 1.0000、L4、Hold）にドパ�
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「日本の販売承認も全件取消済みで、すぐに進められる状況ではありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-06 | 削除：「取消済みの承認状況を踏まえた、国内での開発・再承認の方針整理」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本の販売承認も全件取消済みで、すぐに進められる状況ではありません」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「取消済みの承認状況を踏まえた、国内での開発・再承認の方針整理」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 
 <!-- review:end log -->
 

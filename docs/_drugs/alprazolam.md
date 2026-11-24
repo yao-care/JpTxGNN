@@ -5,7 +5,7 @@ parent: 中エビデンスレベル
 nav_order: 21
 evidence_level: L3
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Alprazolam"
 predicted_indications: ["insomnia (disease)", "benign paroxysmal torticollis of infancy"]
 description: "Alprazolam：予測新適応症は不眠症 (insomnia (disease))（エビデンスレベル L3）。薬価基準の品目：14 件（現在収載 12 件）"
@@ -77,21 +77,27 @@ TxGNN モデルは**不眠症 (insomnia (disease))** に有効である可能性
 
 ## 日本市販情報
 
-有効な承認は 12 件（ほかに 2 件が薬価基準から削除済み）で、いずれも単剤製剤です。主なものを示します。
+承認には有効なものと薬価基準から削除済みのものがあり（件数はクイック概要を参照）、いずれも単剤製剤です。主なものを示します。
 
 <!-- review:begin jp-lic-20261117-alprazolam-1 -->
 
-> **確認による訂正（2026-11-17）**：元の記載は「有効な承認は 14 件で、すべて単剤製剤です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 14 件のうち有効（収載中）は 12 件で、2 件は経過措置期間満了などにより薬価基準から削除されています（671170508（廃止年月日 2026-03-31）、671170499（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+> **確認による訂正（2026-11-17）**：元の記載は「有効な承認は 14 件で、すべて単剤製剤です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、次の承認が経過措置期間満了などにより薬価基準から削除されています（671170508（廃止年月日 2026-03-31）、671170499（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
 
 <!-- review:end jp-lic-20261117-alprazolam-1 -->
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 611170508 | ソラナックス0.4mg錠 | 錠 | 抗不安薬、マイナートランキライザー、催眠鎮静薬 |
-| 611170509 | ソラナックス0.8mg錠 | 錠 | 抗不安薬、マイナートランキライザー、催眠鎮静薬 |
-| 611170499 | コンスタン0.4mg錠 | 錠 | 抗不安薬、マイナートランキライザー、催眠鎮静薬 |
-| 620006836 | アルプラゾラム錠0.4mg「トーワ」 | 錠 | 抗不安薬、マイナートランキライザー、催眠鎮静薬 |
-| 620049901 | アルプラゾラム錠0.4mg「サワイ」 | 錠 | 抗不安薬、マイナートランキライザー、催眠鎮静薬 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 611170508 | ソラナックス０．４ｍｇ錠 | 有効 |
+| 611170509 | ソラナックス０．８ｍｇ錠 | 有効 |
+| 611170499 | コンスタン０．４ｍｇ錠 | 有効 |
+| 620006836 | アルプラゾラム錠０．４ｍｇ「トーワ」 | 有効 |
+| 620049901 | アルプラゾラム錠０．４ｍｇ「サワイ」 | 有効 |
+
+上表はデータ上の 14 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 
@@ -124,7 +130,7 @@ TxGNN モデルは**不眠症 (insomnia (disease))** に有効である可能性
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Alprazolam Xr (alprazolam) prescribing information, Mylan Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1338d1c9-7c75-42ed-95f3-9eb1b6fc51d3) |
 
 <!-- review:end log -->

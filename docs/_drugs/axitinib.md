@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Axitinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipoma", "familial spontaneous pneumothorax"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Axitinib：予測新適応症は脂肪肉腫 (liposarcoma)（エビデンスレベル L5）。薬価基準の品目：2 件（現在収載 2 件）"
 ---
 
@@ -74,10 +74,14 @@ TxGNN モデルは**脂肪肉腫 (liposarcoma)** に有効である可能性を�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 622183401 | インライタ錠５ｍｇ | 錠５ｍｇ（経口） | 記載なし |
-| 622183301 | インライタ錠１ｍｇ | 錠１ｍｇ（経口） | 記載なし |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622183401 | インライタ錠５ｍｇ | 有効 |
+| 622183301 | インライタ錠１ｍｇ | 有効 |
+
+<!-- licenses:end -->
 
 ## 細胞毒性
 

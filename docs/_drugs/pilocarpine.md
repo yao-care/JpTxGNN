@@ -3,7 +3,7 @@ layout: default
 title: Pilocarpine
 parent: 既知の用途のみ（新規予測なし）
 nav_order: 277
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Pilocarpine: 日本における既知の用途と市場状況。現時点で新たな候補適応症はありません"
 predicted_indications: []
 indication_count: 0
@@ -71,9 +71,13 @@ Pilocarpine（ピロカルピン）についてTxGNNモデル（スコア0.99以
 
 ## 日本市販情報
 
-| 承認番号 | 販売名 | 剤形 | 状態 |
-|------|------|------|------|
-| 661310149 | ピロカルピン塩酸塩 |  | 有効 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 661310149 | ピロカルピン塩酸塩 | 有効 |
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

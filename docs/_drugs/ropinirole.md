@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 10
 monitor_inn: "ropinirole"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "retinal dystrophy with or without extraocular anomalies", "schizophrenia", "myopia X-linked", "congenital disorder of glycosylation with defective fucosylation", "atypical glycine encephalopathy", "myopia 26, X-linked, female-limited", "Charcot-Marie-Tooth disease, demyelinating, type 1G"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ropinirole：予測新適応症は注意欠如・多動症 (Attention Deficit-Hyperactivity Disorder)（エビデンスレベル L2）。既存適応症：パーキンソン病"
 ---
 
@@ -83,13 +83,19 @@ TxGNN モデルは**注意欠如・多動症 (Attention Deficit-Hyperactivity Di
 
 日本では有効な承認が 20 件あり、販売されています。以下は主な承認です。
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620004415 | レキップ錠0.25mg | 錠 0.25mg | パーキンソン病治療薬、ドパミン受容体作動薬（パーキンソン病） |
-| 620004416 | レキップ錠1mg | 錠 1mg | パーキンソン病治療薬、ドパミン受容体作動薬（パーキンソン病） |
-| 620004417 | レキップ錠2mg | 錠 2mg | パーキンソン病治療薬、ドパミン受容体作動薬（パーキンソン病） |
-| 622492401 | ロピニロール錠0.25mg「JG」 | 錠 0.25mg「JG」 | パーキンソン病治療薬、ドパミン受容体作動薬（パーキンソン病） |
-| 622492301 | ロピニロール錠2mg「JG」 | 錠 2mg「JG」 | パーキンソン病治療薬、ドパミン受容体作動薬（パーキンソン病） |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620004415 | レキップ錠０．２５ｍｇ | 有効 |
+| 620004416 | レキップ錠１ｍｇ | 有効 |
+| 620004417 | レキップ錠２ｍｇ | 有効 |
+| 622492401 | ロピニロール錠０．２５ｍｇ「ＪＧ」 | 有効 |
+| 622492301 | ロピニロール錠２ｍｇ「ＪＧ」 | 有効 |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

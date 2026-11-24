@@ -5,7 +5,7 @@ parent: 高エビデンスレベル
 nav_order: 237
 evidence_level: L2
 indication_count: 6
-last_modified_at: 2026-11-04
+last_modified_at: 2026-11-24
 monitor_inn: "Pazopanib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "heart fibrosarcoma", "fibroblastic neoplasm", "kidney fibrosarcoma", "dermatofibrosarcoma protuberans"]
 description: "Pazopanib：予測新適応症は脂肪肉腫 (liposarcoma)（エビデンスレベル L2）。薬価基準の品目：1 件（現在収載 1 件）"
@@ -90,9 +90,13 @@ TxGNN モデルは**脂肪肉腫 (liposarcoma)** に有効である可能性を�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 622201801 | ヴォトリエント錠200mg | 錠200mg（経口） | 記載なし（承認は有効） |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622201801 | ヴォトリエント錠２００ｍｇ | 有効 |
+
+<!-- licenses:end -->
 
 ## 細胞毒性
 
@@ -134,12 +138,6 @@ TxGNN モデルは**脂肪肉腫 (liposarcoma)** に有効である可能性を�
 臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-
-
-
-
 
 <!-- brand-names:start -->
 ## 日本での販売名

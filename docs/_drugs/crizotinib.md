@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Crizotinib"
 predicted_indications: ["fibromatosis, gingival", "fibroma of lung", "hamartoma of lung", "lung benign neoplasm", "pulmonary sulcus neoplasm", "lung germ cell tumor", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "junctional epidermolysis bullosa", "Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Crizotinib：予測新適応症は歯肉線維腫症 (fibromatosis, gingival)（エビデンスレベル L5）。薬価基準の品目：2 件（現在収載 2 件）"
 ---
 
@@ -69,10 +69,14 @@ TxGNN モデルは**歯肉線維腫症 (fibromatosis, gingival)** に有効で�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 |
-|---------|------|------|
-| 622149601 | ザーコリカプセル２００ｍｇ | カプセル２００ｍｇ |
-| 622149701 | ザーコリカプセル２５０ｍｇ | カプセル２５０ｍｇ |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622149601 | ザーコリカプセル２００ｍｇ | 有効 |
+| 622149701 | ザーコリカプセル２５０ｍｇ | 有効 |
+
+<!-- licenses:end -->
 
 ## 細胞毒性
 

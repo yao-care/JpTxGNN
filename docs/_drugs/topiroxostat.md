@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Topiroxostat"
 predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "Lesch-Nyhan syndrome"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Topiroxostat：予測新適応症は腎性低尿酸血症 (hypouricemia, renal)（エビデンスレベル L5）。既存適応症：高尿酸血症、痛風"
 ---
 
@@ -73,13 +73,19 @@ TxGNN モデルは**腎性低尿酸血症 (hypouricemia, renal)** に有効で�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 622266401 | トピロリック錠６０ｍｇ | 錠６０ｍｇ（経口） | 有効 |
-| 622266301 | トピロリック錠４０ｍｇ | 錠４０ｍｇ（経口） | 有効 |
-| 622266201 | トピロリック錠２０ｍｇ | 錠２０ｍｇ（経口） | 有効 |
-| 622266001 | ウリアデック錠６０ｍｇ | 錠６０ｍｇ（経口） | 有効 |
-| 622265901 | ウリアデック錠４０ｍｇ | 錠４０ｍｇ（経口） | 有効 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622266401 | トピロリック錠６０ｍｇ | 有効 |
+| 622266301 | トピロリック錠４０ｍｇ | 有効 |
+| 622266201 | トピロリック錠２０ｍｇ | 有効 |
+| 622266001 | ウリアデック錠６０ｍｇ | 有効 |
+| 622265901 | ウリアデック錠４０ｍｇ | 有効 |
+
+上表はデータ上の 6 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 このほか、ウリアデック錠２０ｍｇ（622265801）も有効な承認です。計 6 件の承認のうち 6 件が有効です。
 
@@ -99,7 +105,7 @@ TxGNN モデルは**腎性低尿酸血症 (hypouricemia, renal)** に有効で�
 
 <!-- review:begin jp-lic-20261106-topiroxostat-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「支持するエビデンスはマウスの動物実験 1 編のみで、臨床試験はありません。／日本ではすべての承認が整理済みで、有効な承認がありません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 6 件、うち有効 6 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「支持するエビデンスはマウスの動物実験 1 編のみで、臨床試験はありません。／日本ではすべての承認が整理済みで、有効な承認がありません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-topiroxostat-1 -->
 
@@ -117,7 +123,7 @@ TxGNN モデルは**腎性低尿酸血症 (hypouricemia, renal)** に有効で�
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「日本ではすべての承認が整理済みで、有効な承認がありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本ではすべての承認が整理済みで、有効な承認がありません」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 
 <!-- review:end log -->
 

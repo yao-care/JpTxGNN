@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 315
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Topiramate"
 predicted_indications: ["trigeminal nerve neoplasm"]
 description: "Topiramate：予測新適応症は三叉神経腫瘍 (trigeminal nerve neoplasm)（エビデンスレベル L5）。薬価基準の品目：10 件（現在収載 10 件）"
@@ -73,13 +73,19 @@ TxGNN モデルは**三叉神経腫瘍 (Trigeminal Nerve Neoplasm)** に有効�
 
 主な承認 5 件を示します。
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620005828 | トピナ錠１００ｍｇ | 錠１００ｍｇ | 抗けいれん薬、抗てんかん薬、抗片頭痛薬、AMPA 受容体拮抗薬 |
-| 670005828 | トピナ錠１００ｍｇ（選） | 錠１００ｍｇ（選） | 抗けいれん薬、抗てんかん薬、抗片頭痛薬、AMPA 受容体拮抗薬 |
-| 670005827 | トピナ錠５０ｍｇ（選） | 錠５０ｍｇ（選） | 抗けいれん薬、抗てんかん薬、抗片頭痛薬、AMPA 受容体拮抗薬 |
-| 622529901 | トピラマート錠１００ｍｇ「アメル」 | 錠１００ｍｇ「アメル」 | 抗けいれん薬、抗てんかん薬、抗片頭痛薬、AMPA 受容体拮抗薬 |
-| 622013901 | トピナ錠２５ｍｇ | 錠２５ｍｇ | 抗けいれん薬、抗てんかん薬、抗片頭痛薬、AMPA 受容体拮抗薬 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620005828 | トピナ錠１００ｍｇ | 有効 |
+| 670005828 | トピナ錠１００ｍｇ（選） | 有効 |
+| 670005827 | トピナ錠５０ｍｇ（選） | 有効 |
+| 622529901 | トピラマート錠１００ｍｇ「アメル」 | 有効 |
+| 622013901 | トピナ錠２５ｍｇ | 有効 |
+
+上表はデータ上の 10 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 
@@ -99,7 +105,7 @@ TxGNN モデルは**三叉神経腫瘍 (Trigeminal Nerve Neoplasm)** に有効�
 
 <!-- review:begin jp-lic-20261106-topiramate-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「抗腫瘍作用を裏付ける機序もありません。／日本では現在有効な承認がなく、すぐに進められる状況ではありません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 10 件、うち有効 10 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「抗腫瘍作用を裏付ける機序もありません。／日本では現在有効な承認がなく、すぐに進められる状況ではありません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-topiramate-1 -->
 
@@ -121,7 +127,7 @@ TxGNN モデルは**三叉神経腫瘍 (Trigeminal Nerve Neoplasm)** に有効�
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「日本では現在有効な承認がなく、すぐに進められる状況ではありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本では現在有効な承認がなく、すぐに進められる状況ではありません」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Trokendi Xr (topiramate) prescribing information, Supernus Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2dc7957e-a3e5-46bb-aa66-f3250f872f5e) |
 
 <!-- review:end log -->

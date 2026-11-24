@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Dutasteride"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "migraine with brainstem aura", "familial isolated trichomegaly"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dutasteride：予測新適応症はアンブラス型先天性全身性多毛症 (Ambras type hypertrichosis universalis congenita)（エビデンスレベル L5）。既存適応症：前立腺肥大症治療薬、抗アンドロゲン薬、5α還元酵素阻害薬"
 ---
 
@@ -74,13 +74,19 @@ DHT の抑制は理論上、アンドロゲン依存性の毛髪成長に影響�
 
 日本では承認 19 件のうち 19 件が有効です。主な承認は以下のとおりです。
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 621927601 | アボルブカプセル0.5mg | カプセル | 前立腺肥大症治療薬, 抗アンドロゲン薬, 5α還元酵素阻害薬 |
-| 671927601 | アボルブカプセル0.5mg（選） | カプセル | 前立腺肥大症治療薬, 抗アンドロゲン薬, 5α還元酵素阻害薬 |
-| 622800101 | デュタステリドカプセル0.5mg AV「杏林」 | カプセル | 前立腺肥大症治療薬, 抗アンドロゲン薬, 5α還元酵素阻害薬 |
-| 622786601 | デュタステリド錠0.5mg AV「YD」 | 錠 | 前立腺肥大症治療薬, 抗アンドロゲン薬, 5α還元酵素阻害薬 |
-| 622808801 | デュタステリドカプセル0.5mg AV「フソー」 | カプセル | 前立腺肥大症治療薬, 抗アンドロゲン薬, 5α還元酵素阻害薬 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 621927601 | アボルブカプセル０．５ｍｇ | 有効 |
+| 671927601 | アボルブカプセル０．５ｍｇ（選） | 有効 |
+| 622800101 | デュタステリドカプセル０．５ｍｇＡＶ「杏林」 | 有効 |
+| 622786601 | デュタステリド錠０．５ｍｇＡＶ「ＹＤ」 | 有効 |
+| 622808801 | デュタステリドカプセル０．５ｍｇＡＶ「フソー」 | 有効 |
+
+上表はデータ上の 19 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

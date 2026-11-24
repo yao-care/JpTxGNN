@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "mesalazine"
 predicted_indications: ["congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "rheumatoid arthritis", "seborrheic keratosis", "vulvar inverted follicular keratosis", "pseudoachondroplasia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Mesalazine：予測新適応症は若年性黄斑ジストロフィーを伴う先天性乏毛症 (Congenital Hypotrichosis with Juvenile Macular…（エビデンスレベル L5）。既存適応症：潰瘍性大腸炎、クローン病（抗炎症薬）"
 ---
 
@@ -71,19 +71,25 @@ TxGNN モデルは**若年性黄斑ジストロフィーを伴う先天性乏毛
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620506801 | ペンタサ錠２５０ｍｇ | 錠２５０ｍｇ | 抗炎症薬。潰瘍性大腸炎、クローン病 |
-| 621867201 | ペンタサ錠５００ｍｇ | 錠５００ｍｇ | 抗炎症薬。潰瘍性大腸炎、クローン病 |
-| 660470002 | ペンタサ注腸１ｇ | 注腸１ｇ | 抗炎症薬。潰瘍性大腸炎、クローン病 |
-| 622924101 | メサラジン徐放錠２５０ｍｇ「トーワ」 | 錠２５０ｍｇ「トーワ」 | 抗炎症薬。潰瘍性大腸炎、クローン病 |
-| 622065002 | メサラジン錠５００ｍｇ「ケミファ」 | 錠５００ｍｇ「ケミファ」 | 抗炎症薬。潰瘍性大腸炎、クローン病 |
+<!-- licenses:begin -->
 
-登録されている承認 13 件のうち 12 件が有効です（1 件は薬価基準から削除済み）。上記は主要な 5 件のみを記載しています。
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620506801 | ペンタサ錠２５０ｍｇ | 有効 |
+| 621867201 | ペンタサ錠５００ｍｇ | 有効 |
+| 660470002 | ペンタサ注腸１ｇ | 有効 |
+| 622924101 | メサラジン徐放錠２５０ｍｇ「トーワ」 | 有効 |
+| 622065002 | メサラジン錠５００ｍｇ「ケミファ」 | 有効 |
+
+上表はデータ上の 13 件のうち 5 件です。
+
+<!-- licenses:end -->
+
+登録されている承認には有効なものと薬価基準から削除済みのものがあります（件数はクイック概要を参照）。上記は主要な 5 件のみを記載しています。
 
 <!-- review:begin jp-lic-20261117-mesalazine-1 -->
 
-> **確認による訂正（2026-11-17）**：元の記載は「登録されている承認 13 件はすべて有効です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 13 件のうち有効（収載中）は 12 件で、1 件は経過措置期間満了などにより薬価基準から削除されています（622167101（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+> **確認による訂正（2026-11-17）**：元の記載は「登録されている承認 13 件はすべて有効です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、次の承認が経過措置期間満了などにより薬価基準から削除されています（622167101（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
 
 <!-- review:end jp-lic-20261117-mesalazine-1 -->
 
@@ -110,7 +116,7 @@ TxGNN モデルは**若年性黄斑ジストロフィーを伴う先天性乏毛
 
 <!-- review:begin jp-lic-20261106-mesalazine-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「添付文書（警告・禁忌）の確認と安全性評価／日本で現在有効な承認がないため、販売・供給状況の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 13 件、うち有効 13 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「添付文書（警告・禁忌）の確認と安全性評価／日本で現在有効な承認がないため、販売・供給状況の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-mesalazine-1 -->
 
@@ -124,8 +130,8 @@ TxGNN モデルは**若年性黄斑ジストロフィーを伴う先天性乏毛
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「日本で現在有効な承認がないため、販売・供給状況の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-06 | 削除：「日本で現在有効な承認がないため、販売・供給状況の確認」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Lialda (mesalamine) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3098a080-be86-4265-9818-7fc4beab77b7) |
 
 <!-- review:end log -->

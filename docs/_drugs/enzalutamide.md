@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Enzalutamide"
 predicted_indications: ["prostate leiomyoma", "Brenner tumor", "fibroma of prostate", "benign reproductive system neoplasm", "benign prostate phyllodes tumor"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Enzalutamide：予測新適応症は前立腺平滑筋腫 (prostate leiomyoma)（エビデンスレベル L5）。薬価基準の品目：2 件（現在収載 2 件）"
 ---
 
@@ -70,10 +70,14 @@ TxGNN モデルは **前立腺平滑筋腫 (prostate leiomyoma)** に有効で�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 622623001 | イクスタンジ錠４０ｍｇ | 錠４０ｍｇ（経口） | 日本のデータに記載なし |
-| 622623101 | イクスタンジ錠８０ｍｇ | 錠８０ｍｇ（経口） | 日本のデータに記載なし |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622623001 | イクスタンジ錠４０ｍｇ | 有効 |
+| 622623101 | イクスタンジ錠８０ｍｇ | 有効 |
+
+<!-- licenses:end -->
 
 ## 細胞毒性
 

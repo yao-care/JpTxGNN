@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 30
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ascorbic Acid：予測新適応症は非症候性食道奇形 (Non-syndromic esophageal malformation)（エビデンスレベル L5）。既存適応症：アスコルビン酸欠乏症、壊血病"
 monitor_inn: "Ascorbic acid"
 predicted_indications: ["non-syndromic esophageal malformation", "esophageal disease", "congenital prothrombin deficiency", "injury", "biotin metabolic disease", "segmental odontomaxillary dysplasia", "perinatal disease", "florid cemento-osseous dysplasia", "disease by subcellular system affected"]
@@ -72,10 +72,14 @@ TxGNN モデルは**非症候性食道奇形 (non-syndromic esophageal malformat
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 状態 |
-|---------|------|------|------|
-| 620721001 | シーピー配合顆粒 | 顆粒 | 有効 |
-| 620720901 | シナール配合顆粒 | 顆粒 | 有効 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620721001 | シーピー配合顆粒 | 有効 |
+| 620720901 | シナール配合顆粒 | 有効 |
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

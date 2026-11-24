@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Pitavastatin"
 predicted_indications: ["cholesterol-ester transfer protein deficiency", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "simian immunodeficiency virus infection"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Pitavastatin：予測新適応症はコレステロールエステル転送蛋白欠損症 (cholesterol-ester transfer protein deficiency)（エビデンスレベル L5）。既存適応症：脂質異常症（HMG-CoA 還元酵素阻害薬）"
 ---
 
@@ -71,13 +71,19 @@ CETP 欠損症は、コレステロールエステル転送蛋白の機能低下
 
 日本では多数の後発品とリバロ（先発品）が承認されており、いずれも単一成分製剤で、すべて有効な承認です。以下は主要な 5 件で、一覧は一部のみの可能性があります。
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 622604101 | ピタバスタチンカルシウム錠２ｍｇ「ＫＯＧ」 | 錠２ｍｇ | 脂質異常症治療薬、HMG-CoA 還元酵素阻害薬 |
-| 620000422 | リバロ錠１ｍｇ | 錠１ｍｇ | — |
-| 622239301 | リバロＯＤ錠２ｍｇ | 錠２ｍｇ（口腔内崩壊錠） | — |
-| 622299101 | ピタバスタチンＣａ錠２ｍｇ「科研」 | 錠２ｍｇ | — |
-| 622457801 | ピタバスタチンＣａ・ＯＤ錠２ｍｇ「サワイ」 | 錠２ｍｇ | — |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622604101 | ピタバスタチンカルシウム錠２ｍｇ「ＫＯＧ」 | 有効 |
+| 620000422 | リバロ錠１ｍｇ | 有効 |
+| 622239301 | リバロＯＤ錠２ｍｇ | 有効 |
+| 622299101 | ピタバスタチンＣａ錠２ｍｇ「科研」 | 有効 |
+| 622457801 | ピタバスタチンＣａ・ＯＤ錠２ｍｇ「サワイ」 | 有効 |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

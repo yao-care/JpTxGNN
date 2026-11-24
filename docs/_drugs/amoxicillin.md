@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Amoxicillin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Amoxicillin：予測新適応症はポリクローナル高粘稠度症候群 (polyclonal hyperviscosity syndrome)（エビデンスレベル L5）。既存適応症：淋菌感染症、梅毒、歯周組織炎、猩紅熱、ヘリコバクター・ピロリ感染症"
 ---
 
@@ -71,19 +71,25 @@ TxGNN モデルは**ポリクローナル高粘稠度症候群 (polyclonal hyper
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 616130132 | サワシリン錠２５０ | 錠 250 mg | （記載なし） |
-| 620006920 | サワシリン細粒１０％ | 細粒 10％ | （記載なし） |
-| 622066602 | アモキシシリン細粒１０％「ＴＣＫ」 | 細粒 10％ | 淋菌感染症、梅毒、歯周組織炎、猩紅熱、ヘリコバクター・ピロリ感染症 |
-| 621073001 | ワイドシリン細粒２０％ | 細粒 20％ | 淋菌感染症、梅毒、歯周組織炎、猩紅熱、ヘリコバクター・ピロリ感染症 |
-| 622066502 | アモキシシリンカプセル１２５ｍｇ「ＴＣＫ」 | カプセル 125 mg | 淋菌感染症、梅毒、歯周組織炎、猩紅熱、ヘリコバクター・ピロリ感染症 |
+<!-- licenses:begin -->
 
-承認は合計 15 件で、すべて単剤です。うち有効は 13 件です（2 件は薬価基準から削除済み）。上記は主要な 5 件を記載しています。
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 616130132 | サワシリン錠２５０ ２５０ｍｇ | 有効 |
+| 620006920 | サワシリン細粒１０％ １００ｍｇ | 有効 |
+| 622066602 | アモキシシリン細粒１０％「ＴＣＫ」 １００ｍｇ | 有効 |
+| 621073001 | ワイドシリン細粒２０％ ２００ｍｇ | 有効 |
+| 622066502 | アモキシシリンカプセル１２５ｍｇ「ＴＣＫ」 | 有効 |
+
+上表はデータ上の 15 件のうち 5 件です。
+
+<!-- licenses:end -->
+
+承認は単剤のみで、有効なものと薬価基準から削除済みのものがあります（件数はクイック概要を参照）。上記は主要な 5 件を記載しています。
 
 <!-- review:begin jp-lic-20261117-amoxicillin-1 -->
 
-> **確認による訂正（2026-11-17）**：元の記載は「承認は合計 15 件で、すべて単剤、有効な承認です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 15 件のうち有効（収載中）は 13 件で、2 件は経過措置期間満了などにより薬価基準から削除されています（622899900（廃止年月日 2026-03-31）、622745300（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+> **確認による訂正（2026-11-17）**：元の記載は「承認は合計 15 件で、すべて単剤、有効な承認です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、次の承認が経過措置期間満了などにより薬価基準から削除されています（622899900（廃止年月日 2026-03-31）、622745300（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
 
 <!-- review:end jp-lic-20261117-amoxicillin-1 -->
 
@@ -117,7 +123,7 @@ TxGNN モデルは**ポリクローナル高粘稠度症候群 (polyclonal hyper
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: amoxicillin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98e9274c-c02e-44d9-8cc5-17536ef03a77) |
 
 <!-- review:end log -->

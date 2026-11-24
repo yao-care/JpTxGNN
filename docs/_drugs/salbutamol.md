@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 275
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Salbutamol：予測新適応症は乳頭結膜炎 (Papillary Conjunctivitis)（エビデンスレベル L5）。既存適応症：喘息、気管支疾患"
 monitor_inn: "Salbutamol"
 predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "anaphylaxis", "common cold", "atopic conjunctivitis", "anorectal stricture"]
@@ -73,10 +73,14 @@ TxGNN モデルは**乳頭結膜炎 (Papillary Conjunctivitis)** に有効であ
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620009062 | ベネトリン吸入液０．５％ | 液０．５％ | 記載なし（承認有効） |
-| 620008714 | ベネトリンシロップ０．０４％ | シロップ０．０４％ | 記載なし（承認有効） |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620009062 | ベネトリン吸入液０．５％ | 有効 |
+| 620008714 | ベネトリンシロップ０．０４％ | 有効 |
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 
@@ -105,7 +109,7 @@ TxGNN モデルは**乳頭結膜炎 (Papillary Conjunctivitis)** に有効であ
 
 <!-- review:begin jp-lic-20261106-salbutamol-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「乳頭結膜炎については、TxGNN の予測スコアは非常に高いものの、臨床試験も文献も存在せず、エビデンスは L5（モデル予測のみ）です。／日本の承認も取り消し済みで、結膜への適用に向けた剤形（点眼など）も整っていません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 2 件、うち有効 2 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「乳頭結膜炎については、TxGNN の予測スコアは非常に高いものの、臨床試験も文献も存在せず、エビデンスは L5（モデル予測のみ）です。／日本の承認も取り消し済みで、結膜への適用に向けた剤形（点眼など）も整っていません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-salbutamol-1 -->
 
@@ -124,7 +128,7 @@ TxGNN モデルは**乳頭結膜炎 (Papillary Conjunctivitis)** に有効であ
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「日本の承認も取り消し済みで、結膜への適用に向けた剤形（点眼など）も整っていません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本の承認も取り消し済みで、結膜への適用に向けた剤形（点眼など）も整っていません」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Albuterol Sulfate Inhalation (albuterol sulfate) prescribing information, Amneal Pharmaceuticals NY LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2e449282-ee58-4e36-b983-85c4e6f0864d) |
 
 <!-- review:end log -->

@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 63
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Carvedilol：予測新適応症は悪性高血圧性腎疾患 (malignant hypertensive renal disease)（エビデンスレベル L5）。既存適応症：本態性高血圧症、狭心症、拡張型心筋症、頻脈性心房細動（血圧降下薬、α1β遮断薬）"
 monitor_inn: "Carvedilol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome"]
@@ -89,13 +89,19 @@ TxGNN モデルは**悪性高血圧性腎疾患 (malignant hypertensive renal di
 
 日本ではカルベジロールの有効な承認が 20 件あり、販売されています。以下は主な承認です。
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 612140703 | アーチスト錠２０ｍｇ | 錠 | 本態性高血圧症、狭心症、拡張型心筋症、頻脈性心房細動 |
-| 670462040 | アーチスト錠２．５ｍｇ（選） | 錠 | 本態性高血圧症、狭心症、拡張型心筋症、頻脈性心房細動 |
-| 672140702 | アーチスト錠１０ｍｇ（選） | 錠 | 本態性高血圧症、狭心症、拡張型心筋症、頻脈性心房細動 |
-| 622095602 | カルベジロール錠２０ｍｇ「ニプロ」 | 錠 | 本態性高血圧症、狭心症、拡張型心筋症、頻脈性心房細動 |
-| 621470201 | カルベジロール錠１０ｍｇ「トーワ」 | 錠 | 本態性高血圧症、狭心症、拡張型心筋症、頻脈性心房細動 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 612140703 | アーチスト錠２０ｍｇ | 有効 |
+| 670462040 | アーチスト錠２．５ｍｇ（選） | 薬価削除（2026-03-31） |
+| 672140702 | アーチスト錠１０ｍｇ（選） | 有効 |
+| 622095602 | カルベジロール錠２０ｍｇ「ニプロ」 | 有効 |
+| 621470201 | カルベジロール錠１０ｍｇ「トーワ」 | 有効 |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 314
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "tolvaptan"
 predicted_indications: ["renal-hepatic-pancreatic dysplasia", "karyomegalic interstitial nephritis", "thoracic malformation", "Joubert syndrome with renal defect", "adult familial nephronophthisis-spastic quadriparesia syndrome", "Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature"]
 description: "Tolvaptan：予測新適応症はRenal-hepatic-pancreatic dysplasia（エビデンスレベル L5）。薬価基準の品目：20 件以上"
@@ -80,13 +80,19 @@ TxGNN モデルは**多発性嚢胞腎 3 型（多発性嚢胞肝を伴う場合
 
 主な承認は以下のとおりです。
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 622694301 | サムスカＯＤ錠７．５ｍｇ | 錠７．５ｍｇ | （記載なし） |
-| 622694401 | サムスカＯＤ錠１５ｍｇ | 錠１５ｍｇ | （記載なし） |
-| 622537701 | サムスカ顆粒１％ | 顆粒１％ | 利尿薬、バソプレシンV2受容体拮抗薬（抗利尿ホルモン不適合分泌症候群） |
-| 622925901 | トルバプタン顆粒１％「サワイ」 | 顆粒１％ | 利尿薬、バソプレシンV2受容体拮抗薬（抗利尿ホルモン不適合分泌症候群） |
-| 622913201 | トルバプタン顆粒１％「トーワ」 | 顆粒１％ | 利尿薬、バソプレシンV2受容体拮抗薬（抗利尿ホルモン不適合分泌症候群） |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622694301 | サムスカＯＤ錠７．５ｍｇ | 有効 |
+| 622694401 | サムスカＯＤ錠１５ｍｇ | 有効 |
+| 622537701 | サムスカ顆粒１％ | 有効 |
+| 622925901 | トルバプタン顆粒１％「サワイ」 | 有効 |
+| 622913201 | トルバプタン顆粒１％「トーワ」 | 有効 |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

@@ -5,7 +5,7 @@ parent: 高エビデンスレベル
 nav_order: 253
 evidence_level: L2
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Prednisolone：予測新適応症は円形脱毛症 (Alopecia Areata)（エビデンスレベル L2）。既存適応症：乾癬、掌蹠膿疱症（外用製剤）／関節リウマチ、全身性エリテマトーデス、ネフローゼ症候群、気管支喘息など多数（内服製剤）"
 monitor_inn: "Prednisolone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia antibody deficiency", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "prolapse of lacrimal gland"]
@@ -86,13 +86,19 @@ TxGNN モデルは**円形脱毛症 (alopecia areata)** に有効である可能
 
 <!-- review:end jp-lic-20261106-prednisolone-1 -->
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 612450051 | プレドニゾロン錠 5mg | 錠 | 慢性副腎皮質機能不全、亜急性甲状腺炎、甲状腺中毒症、ACTH単独欠損症、関節リウマチ、若年性関節リウマチ、リウマチ性多発筋痛、エリテマ... |
-| 620000125 | プレドニゾロン錠 2.5mg | 錠 | 慢性副腎皮質機能不全、亜急性甲状腺炎、甲状腺中毒症、ACTH単独欠損症、関節リウマチ、若年性関節リウマチ、リウマチ性多発筋痛、エリテマ... |
-| 610454071 | プレドニゾロン散「タケダ」1% | 散 | 慢性副腎皮質機能不全、亜急性甲状腺炎、甲状腺中毒症、ACTH単独欠損症、関節リウマチ、若年性関節リウマチ、リウマチ性多発筋痛、エリテマ... |
-| 620620901 | リドメックスコーワ軟膏 0.3% | 軟膏 | 乾癬、掌蹠膿疱症 |
-| 620615602 | プレドニゾロンクリーム 0.5%「テイコク」 | クリーム | 慢性副腎皮質機能不全、亜急性甲状腺炎、甲状腺中毒症、ACTH単独欠損症、関節リウマチ、若年性関節リウマチ、リウマチ性多発筋痛、エリテマ... |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 612450051 | プレドニゾロン錠 ５ｍｇ | 有効 |
+| 620000125 | プレドニゾロン錠 ２．５ｍｇ | 有効 |
+| 610454071 | プレドニゾロン散「タケダ」１％ | 有効 |
+| 620620901 | リドメックスコーワ軟膏０．３％ | 有効 |
+| 620615602 | プレドニゾロンクリーム０．５％「テイコク」 | 有効 |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

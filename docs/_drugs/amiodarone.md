@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Amiodarone"
 predicted_indications: ["catecholaminergic polymorphic ventricular tachycardia", "incessant infant ventricular tachycardia", "obsolete bundle branch block", "rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "heparin cofactor 2 deficiency", "trichotillomania", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "gout"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Amiodarone：予測新適応症はカテコラミン誘発性多形性心室頻拍 (catecholaminergic polymorphic ventricular tachycardia)（エビデンスレベル L5）。薬価基準の品目：11 件（現在収載 10 件）"
 ---
 
@@ -81,13 +81,19 @@ TxGNN モデルは**カテコラミン誘発性多形性心室頻拍 (catecholam
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 672120358 | アンカロン錠100（選） | 錠 100 mg | 抗不整脈薬、カリウムチャネル遮断薬（肥大型心筋症、心房細動） |
-| 612120358 | アンカロン錠100 | 錠 100 mg | 抗不整脈薬、カリウムチャネル遮断薬（肥大型心筋症、心房細動） |
-| 620003885 | アミオダロン塩酸塩錠100mg「サワイ」 | 錠 100 mg | 抗不整脈薬、カリウムチャネル遮断薬（肥大型心筋症、心房細動） |
-| 620004876 | アンカロン注150 | 注射 150 mg/3 mL | 記載なし |
-| 622609302 | アミオダロン塩酸塩静注150mg「TE」 | 注射 150 mg/3 mL | 記載なし |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 672120358 | アンカロン錠１００ １００ｍｇ（選） | 薬価削除（2026-03-31） |
+| 612120358 | アンカロン錠１００ １００ｍｇ | 有効 |
+| 620003885 | アミオダロン塩酸塩錠１００ｍｇ「サワイ」 | 有効 |
+| 620004876 | アンカロン注１５０ １５０ｍｇ３ｍＬ | 有効 |
+| 622609302 | アミオダロン塩酸塩静注１５０ｍｇ「ＴＥ」 ３ｍＬ | 有効 |
+
+上表はデータ上の 11 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 主要な承認のみを掲載しています。有効な承認は合計 11 件で、錠剤と注射剤があります。
 

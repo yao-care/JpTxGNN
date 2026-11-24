@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 24
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Amlodipine：予測新適応症は脳幹梗塞 (Brain Stem Infarction)（エビデンスレベル L5）。既存適応症：血圧降下薬、血管拡張薬、カルシウムチャネル遮断薬"
 monitor_inn: "Amlodipine"
 predicted_indications: ["brain stem infarction", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "cerebral artery occlusion", "Braddock syndrome", "MRI defined brain infarct", "ABri amyloidosis", "intracerebral hemorrhage"]
@@ -84,13 +84,19 @@ TxGNN モデルは**脳幹梗塞 (Brain Stem Infarction)** に有効である可
 
 日本では現在販売されており、有効な承認は 20 件あります。適応症の記載がある主な承認は次のとおりです。
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 612170709 | ノルバスク錠２．５ｍｇ | 錠２．５ｍｇ | 血圧降下薬、血管拡張薬、カルシウムチャネル遮断薬 |
-| 672170710 | ノルバスク錠５ｍｇ（選） | 錠５ｍｇ（選） | 血圧降下薬、血管拡張薬、カルシウムチャネル遮断薬 |
-| 620007831 | アムロジピン錠２．５ｍｇ「科研」 | 錠２．５ｍｇ「科研」 | 血圧降下薬、血管拡張薬、カルシウムチャネル遮断薬 |
-| 622143001 | アムロジピン錠１０ｍｇ「トーワ」 | 錠１０ｍｇ「トーワ」 | 血圧降下薬、血管拡張薬、カルシウムチャネル遮断薬 |
-| 621852402 | アムロジピン錠５ｍｇ「ＤＳＥＰ」 | 錠５ｍｇ「ＤＳＥＰ」 | 血圧降下薬、血管拡張薬、カルシウムチャネル遮断薬 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 612170709 | ノルバスク錠２．５ｍｇ | 有効 |
+| 672170710 | ノルバスク錠５ｍｇ（選） | 薬価削除（2026-03-31） |
+| 620007831 | アムロジピン錠２．５ｍｇ「科研」 | 有効 |
+| 622143001 | アムロジピン錠１０ｍｇ「トーワ」 | 有効 |
+| 621852402 | アムロジピン錠５ｍｇ「ＤＳＥＰ」 | 有効 |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

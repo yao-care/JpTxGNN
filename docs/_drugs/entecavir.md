@@ -5,7 +5,7 @@ parent: 中エビデンスレベル
 nav_order: 111
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Entecavir：予測新適応症は慢性C型肝炎ウイルス感染 (chronic hepatitis C virus infection)（エビデンスレベル L4）。既存適応症：B型肝炎（抗ウイルス薬、逆転写酵素阻害薬）"
 monitor_inn: "entecavir"
 predicted_indications: ["chronic hepatitis C virus infection", "HIV infectious disease", "hepatitis C virus infection", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "hepatitis, viral, animal", "hepatitis E virus infection", "hepatitis A virus infection"]
@@ -81,21 +81,27 @@ HCV は NS5B RNA 依存性 RNA ポリメラーゼで複製する RNA ウイル�
 
 ## 日本市販情報
 
-承認 14 件中、現在有効なものは 11 件です（3 件は薬価基準から削除済み）。下記は代表的な 5 件です。
+承認には現在有効なものと薬価基準から削除済みのものがあります（件数はクイック概要を参照）。下記は代表的な 5 件です。
 
 <!-- review:begin jp-lic-20261117-entecavir-1 -->
 
-> **確認による訂正（2026-11-17）**：元の記載は「現在有効な承認は 14 件中 14 件です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 14 件のうち有効（収載中）は 11 件で、3 件は経過措置期間満了などにより薬価基準から削除されています（622539701（廃止年月日 2026-03-31）、622690000（廃止年月日 2026-03-31）、622562603（廃止年月日 2026-09-30、後継コード 622611200））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+> **確認による訂正（2026-11-17）**：元の記載は「現在有効な承認は 14 件中 14 件です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、次の承認が経過措置期間満了などにより薬価基準から削除されています（622539701（廃止年月日 2026-03-31）、622690000（廃止年月日 2026-03-31）、622562603（廃止年月日 2026-09-30、後継コード 622611200））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
 
 <!-- review:end jp-lic-20261117-entecavir-1 -->
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620004355 | バラクルード錠０．５ｍｇ | 錠 | B型肝炎（抗ウイルス薬、逆転写酵素阻害薬） |
-| 670004355 | バラクルード錠０．５ｍｇ（選） | 錠 | B型肝炎（抗ウイルス薬、逆転写酵素阻害薬） |
-| 622545901 | エンテカビル錠０．５ｍｇ「ＹＤ」 | 錠 | B型肝炎（抗ウイルス薬、逆転写酵素阻害薬） |
-| 622547802 | エンテカビル錠０．５ｍｇ「ＮＩＧ」 | 錠 | B型肝炎（抗ウイルス薬、逆転写酵素阻害薬） |
-| 622564401 | エンテカビル錠０．５ｍｇ「サンド」 | 錠 | B型肝炎（抗ウイルス薬、逆転写酵素阻害薬） |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620004355 | バラクルード錠０．５ｍｇ | 有効 |
+| 670004355 | バラクルード錠０．５ｍｇ（選） | 有効 |
+| 622545901 | エンテカビル錠０．５ｍｇ「ＹＤ」 | 有効 |
+| 622547802 | エンテカビル錠０．５ｍｇ「ＮＩＧ」 | 有効 |
+| 622564401 | エンテカビル錠０．５ｍｇ「サンド」 | 有効 |
+
+上表はデータ上の 14 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 
@@ -131,7 +137,7 @@ HCV は NS5B RNA 依存性 RNA ポリメラーゼで複製する RNA ウイル�
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Baraclude (entecavir) prescribing information, E.R. Squibb & Sons, L.L.C.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=046e61c9-9298-4b2e-b76e-b26b81fecd20) |
 
 <!-- review:end log -->

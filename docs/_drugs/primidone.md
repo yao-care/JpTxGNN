@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 255
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Primidone：予測新適応症は三叉神経腫瘍 (trigeminal nerve neoplasm)（エビデンスレベル L5）。既存適応症：点頭てんかん（抗てんかん薬）"
 monitor_inn: "Primidone"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
@@ -82,10 +82,14 @@ TxGNN モデルは **三叉神経腫瘍 (trigeminal nerve neoplasm)** に有効�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 621639203 | プリミドン細粒９９．５％「日医工」（有効） | 細粒 | 抗てんかん薬、点頭てんかん |
-| 621639303 | プリミドン錠２５０ｍｇ「日医工」（有効） | 錠 | 抗てんかん薬、点頭てんかん |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 621639203 | プリミドン細粒９９．５％「日医工」 | 有効 |
+| 621639303 | プリミドン錠２５０ｍｇ「日医工」 | 有効 |
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

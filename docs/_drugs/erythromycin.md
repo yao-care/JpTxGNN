@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 117
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Erythromycin：予測新適応症は点状表層角結膜炎 (Punctate Epithelial Keratoconjunctivitis)（エビデンスレベル L5）。既存適応症：抗生物質（タンパク質合成阻害薬）：淋菌感染症、軟性下疳、梅毒、性病性リンパ肉芽腫、猩紅熱、ジフテリア、百日咳、破傷風、ガス壊疽、アメーバ赤痢"
 monitor_inn: "Erythromycin"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis", "lymphogranuloma venereum", "necrotizing ulcerative gingivitis"]
@@ -81,11 +81,17 @@ TxGNN モデルは**点状表層角結膜炎 (Punctate Epithelial Keratoconjunct
 
 日本では販売されており、7 件の承認のうち 7 件が有効です。
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620004463 | エリスロマイシン錠２００ｍｇ「サワイ」 | 錠 | 淋菌感染症、軟性下疳、梅毒、性病性リンパ肉芽腫、猩紅熱、ジフテリア、百日咳、破傷風、ガス壊疽、アメーバ赤痢 |
-| 620000020 | エリスロシン錠１００ｍｇ | 錠 | 診断薬 |
-| 620000021 | エリスロシン錠２００ｍｇ | 錠 | 診断薬 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620004463 | エリスロマイシン錠２００ｍｇ「サワイ」 | 有効 |
+| 620000020 | エリスロシン錠１００ｍｇ | 有効 |
+| 620000021 | エリスロシン錠２００ｍｇ | 有効 |
+
+上表はデータ上の 7 件のうち 3 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

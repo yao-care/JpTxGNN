@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 36
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Azithromycin：予測新適応症は高アミラーゼ血症 (Hyperamylasemia)（エビデンスレベル L5）。既存適応症：歯周組織炎、MAC症、結膜炎、眼瞼炎"
 monitor_inn: "Azithromycin"
 predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "punctate epithelial keratoconjunctivitis", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder"]
@@ -71,13 +71,19 @@ TxGNN モデルは**高アミラーゼ血症 (Hyperamylasemia)** に有効であ
 
 データ上、承認 15 件はすべて有効です。主要な 5 件を示します。
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 622274501 | アジスロマイシン小児用細粒10%「タカタ」100mg | 細粒 | 抗生物質、タンパク質合成阻害薬（歯周組織炎、MAC症、結膜炎、眼瞼炎） |
-| 622274601 | アジスロマイシン小児用錠100mg「タカタ」 | 錠 | 抗生物質、タンパク質合成阻害薬（歯周組織炎、MAC症、結膜炎、眼瞼炎） |
-| 622411501 | アジスロマイシン細粒小児用10%「トーワ」100mg | 細粒 | 抗生物質、タンパク質合成阻害薬（歯周組織炎、MAC症、結膜炎、眼瞼炎） |
-| 670443026 | ジスロマック錠250mg（選） | 錠 | 抗生物質、タンパク質合成阻害薬（歯周組織炎、MAC症、結膜炎、眼瞼炎） |
-| 622295401 | アジスロマイシン錠250mg「サワイ」 | 錠 | 抗生物質、タンパク質合成阻害薬（歯周組織炎、MAC症、結膜炎、眼瞼炎） |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622274501 | アジスロマイシン小児用細粒１０％「タカタ」 １００ｍｇ | 有効 |
+| 622274601 | アジスロマイシン小児用錠１００ｍｇ「タカタ」 | 有効 |
+| 622411501 | アジスロマイシン細粒小児用１０％「トーワ」 １００ｍｇ | 有効 |
+| 670443026 | ジスロマック錠２５０ｍｇ（選） | 有効 |
+| 622295401 | アジスロマイシン錠２５０ｍｇ「サワイ」 | 有効 |
+
+上表はデータ上の 15 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 
@@ -105,7 +111,7 @@ TxGNN モデルは**高アミラーゼ血症 (Hyperamylasemia)** に有効であ
 
 <!-- review:begin jp-lic-20261106-azithromycin-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「日本での承認状況（失効扱いの理由、現在の流通状況）の再確認／高アミラーゼ血症に関する前臨床または観察研究の探索」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 15 件、うち有効 15 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「日本での承認状況（失効扱いの理由、現在の流通状況）の再確認／高アミラーゼ血症に関する前臨床または観察研究の探索」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-azithromycin-1 -->
 
@@ -117,7 +123,7 @@ TxGNN モデルは**高アミラーゼ血症 (Hyperamylasemia)** に有効であ
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「日本での承認状況（失効扱いの理由、現在の流通状況）の再確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本での承認状況（失効扱いの理由、現在の流通状況）の再確認」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Zithromax (azithromycin dihydrate) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8d24bacb-feff-4c6a-b8df-625e1435387a) |
 
 <!-- review:end log -->

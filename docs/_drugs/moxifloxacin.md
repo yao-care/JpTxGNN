@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Moxifloxacin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder", "hematopoietic and lymphoid system neoplasm"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Moxifloxacin：予測新適応症は多クローン性高粘稠度症候群 (polyclonal hyperviscosity syndrome)（エビデンスレベル L5）。既存適応症：眼瞼炎、結膜炎（点眼液の承認適応症）"
 ---
 
@@ -71,13 +71,19 @@ TxGNN モデルは**多クローン性高粘稠度症候群 (polyclonal hypervis
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 622808501 | モキシフロキサシン点眼液０．５％「ニットー」 | 点眼液 0.5% | 眼瞼炎、結膜炎 |
-| 622784801 | モキシフロキサシン点眼液０．５％「日点」 | 点眼液 0.5% | 眼瞼炎、結膜炎 |
-| 622871301 | モキシフロキサシン点眼液０．５％「サンド」 | 点眼液 0.5% | 眼瞼炎、結膜炎 |
-| 620004368 | ベガモックス点眼液０．５％ | 点眼液 0.5% | 眼瞼炎、結膜炎 |
-| 620003125 | アベロックス錠４００ｍｇ | 錠 400 mg（経口） | （記載なし） |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622808501 | モキシフロキサシン点眼液０．５％「ニットー」 | 有効 |
+| 622784801 | モキシフロキサシン点眼液０．５％「日点」 | 有効 |
+| 622871301 | モキシフロキサシン点眼液０．５％「サンド」 | 有効 |
+| 620004368 | ベガモックス点眼液０．５％ | 有効 |
+| 620003125 | アベロックス錠４００ｍｇ | 有効 |
+
+上表はデータ上の 6 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 ほかに「ベガモックス点眼液０．５％（選）」（670004368）があり、合計 6 件です。
 

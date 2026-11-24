@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 5
 monitor_inn: "Lenvatinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "angiolipoma", "familial spontaneous pneumothorax", "endocrine-cerebro-osteodysplasia syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lenvatinib：予測新適応症は脂肪肉腫 (liposarcoma)（エビデンスレベル L3）。薬価基準の品目：2 件（現在収載 2 件）"
 ---
 
@@ -77,10 +77,14 @@ TxGNN モデルは**脂肪肉腫 (liposarcoma)** に有効である可能性を�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 622416001 | レンビマカプセル４ｍｇ | カプセル４ｍｇ | 記載なし |
-| 622416101 | レンビマカプセル１０ｍｇ | カプセル１０ｍｇ | 記載なし |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622416001 | レンビマカプセル４ｍｇ | 有効 |
+| 622416101 | レンビマカプセル１０ｍｇ | 有効 |
+
+<!-- licenses:end -->
 
 ## 細胞毒性
 

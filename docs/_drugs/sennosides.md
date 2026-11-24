@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Sennosides"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "open-angle glaucoma", "primary hereditary glaucoma", "alopecia"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Sennosides：予測新適応症は頭皮の単純性乏毛症 (hypotrichosis simplex of the scalp)（エビデンスレベル L5）。既存適応症：下剤"
 ---
 
@@ -64,19 +64,25 @@ TxGNN モデルは**頭皮の単純性乏毛症 (hypotrichosis simplex of the sc
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620480708 | センノシド錠１２ｍｇ「ＮＩＧ」 | 錠 | 下剤（有効） |
-| 620480504 | センノシド錠１２ｍｇ「ＹＤ」 | 錠 | 下剤（有効） |
-| 620480205 | センノシド錠１２ｍｇ「セイコー」 | 錠 | 下剤（有効） |
-| 620481301 | プルゼニド錠１２ｍｇ | 錠 | 下剤（有効） |
-| 620480601 | センノシド錠１２ｍｇ「サワイ」 | 錠 | 下剤（有効） |
+<!-- licenses:begin -->
 
-全 15 件はすべて単剤で、うち 14 件が現在有効な承認です（1 件は薬価基準から削除済み）。上記は主要な 5 件のみを記載しています。
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620480708 | センノシド錠１２ｍｇ「ＮＩＧ」 | 有効 |
+| 620480504 | センノシド錠１２ｍｇ「ＹＤ」 | 有効 |
+| 620480205 | センノシド錠１２ｍｇ「セイコー」 | 有効 |
+| 620481301 | プルゼニド錠１２ｍｇ | 有効 |
+| 620480601 | センノシド錠１２ｍｇ「サワイ」 | 有効 |
+
+上表はデータ上の 15 件のうち 5 件です。
+
+<!-- licenses:end -->
+
+承認は単剤のみで、現在有効なものと薬価基準から削除済みのものがあります（件数はクイック概要を参照）。上記は主要な 5 件のみを記載しています。
 
 <!-- review:begin jp-lic-20261117-sennosides-1 -->
 
-> **確認による訂正（2026-11-17）**：元の記載は「全 15 件はすべて単剤で、15 件すべてが現在有効な承認です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 15 件のうち有効（収載中）は 14 件で、1 件は経過措置期間満了などにより薬価基準から削除されています（620481503（廃止年月日 2026-09-30、後継コード 622895100））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+> **確認による訂正（2026-11-17）**：元の記載は「全 15 件はすべて単剤で、15 件すべてが現在有効な承認です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、次の承認が経過措置期間満了などにより薬価基準から削除されています（620481503（廃止年月日 2026-09-30、後継コード 622895100））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
 
 <!-- review:end jp-lic-20261117-sennosides-1 -->
 
@@ -106,7 +112,7 @@ TxGNN モデルは**頭皮の単純性乏毛症 (hypotrichosis simplex of the sc
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 
 <!-- review:end log -->
 

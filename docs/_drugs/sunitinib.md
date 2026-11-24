@@ -5,7 +5,7 @@ parent: 高エビデンスレベル
 nav_order: 291
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Sunitinib：予測新適応症は脂肪肉腫 (Liposarcoma)（エビデンスレベル L2）。既存適応症：抗悪性腫瘍薬、血管新生阻害薬、受容体型チロシンキナーゼ阻害薬"
 monitor_inn: "Sunitinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "dermatofibrosarcoma protuberans", "angiolipoma", "heart fibrosarcoma"]
@@ -79,10 +79,14 @@ TxGNN モデルは**脂肪肉腫 (Liposarcoma)** に有効である可能性を�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 622972201（取消） | スニチニブ錠12.5mg「NK」 | 錠 12.5mg | 抗悪性腫瘍薬, 血管新生阻害薬, 受容体型チロシンキナーゼ阻害薬 |
-| 620006801（取消） | スーテントカプセル12.5mg | カプセル 12.5mg | 抗悪性腫瘍薬, 血管新生阻害薬, 受容体型チロシンキナーゼ阻害薬 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622972201 | スニチニブ錠１２．５ｍｇ「ＮＫ」 | 有効 |
+| 620006801 | スーテントカプセル１２．５ｍｇ | 有効 |
+
+<!-- licenses:end -->
 
 ## 細胞毒性
 

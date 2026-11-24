@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 241
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Pertuzumab"
 predicted_indications: ["ectomesenchymoma", "malignant cutaneous granular cell skin tumor", "human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "prostatic urethra urothelial carcinoma", "kidney pelvis sarcomatoid transitional cell carcinoma"]
 description: "Pertuzumab：予測新適応症はEctomesenchymoma（エビデンスレベル L5）。薬価基準の品目：1 件（現在収載 1 件）"
@@ -84,9 +84,13 @@ description: "Pertuzumab：予測新適応症はEctomesenchymoma（エビデン�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 622255101 | パージェタ点滴静注420mg/14mL | 注射剤（420mg/14mL） | 記載なし（承認は有効） |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622255101 | パージェタ点滴静注４２０ｍｇ／１４ｍＬ | 有効 |
+
+<!-- licenses:end -->
 
 ## 細胞毒性
 
@@ -120,7 +124,7 @@ HR 陽性/HER2 陽性の乳癌では、完了した第 3 相 RCT を含む複数
 
 <!-- review:begin jp-lic-20261106-pertuzumab-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「日本での販売承認が整理済みであるため、現在の供給状況と再承認の要否の確認／心機能モニタリング計画の策定」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 1 件、うち有効 1 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「日本での販売承認が整理済みであるため、現在の供給状況と再承認の要否の確認／心機能モニタリング計画の策定」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-pertuzumab-1 -->
 
@@ -132,7 +136,7 @@ HR 陽性/HER2 陽性の乳癌では、完了した第 3 相 RCT を含む複数
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「日本での販売承認が整理済みであるため、現在の供給状況と再承認の要否の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本での販売承認が整理済みであるため、現在の供給状況と再承認の要否の確認」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Perjeta (pertuzumab) prescribing information, Genentech, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=17f85d17-ab71-4f5b-9fe3-0b8c822f69ff) |
 
 <!-- review:end log -->

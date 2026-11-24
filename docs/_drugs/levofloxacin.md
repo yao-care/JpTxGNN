@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 185
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Levofloxacin"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder"]
 description: "Levofloxacin：予測新適応症は点状表層角結膜炎 (punctate epithelial keratoconjunctivitis)（エビデンスレベル L5）。薬価基準の品目：20 件以上"
@@ -74,13 +74,19 @@ TxGNN モデルは**点状表層角結膜炎 (punctate epithelial keratoconjunct
 
 日本では、レボフロキサシンを有効成分とする錠剤、点眼液、点滴静注製剤が市販されています。以下は主要な承認の抜粋で、一覧は一部のみです。
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 621925701 | クラビット錠250mg | 錠 | 抗菌薬、核酸合成阻害薬。眼瞼炎、結膜炎、肺炎マイコプラズマ、胆嚢炎、腸チフス、パラチフス、コレラ... |
-| 672061301 | クラビット点眼液1.5%（選） | 点眼液 | 抗菌薬、核酸合成阻害薬。眼瞼炎、結膜炎、肺炎マイコプラズマ、胆嚢炎、腸チフス、パラチフス、コレラ... |
-| 622260401 | レボフロキサシン点眼液1.5%「科研」 | 点眼液 | 抗菌薬、核酸合成阻害薬。眼瞼炎、結膜炎、肺炎マイコプラズマ、胆嚢炎、腸チフス、パラチフス、コレラ... |
-| 622388901 | レボフロキサシン錠500mg「ケミファ」 | 錠 | 抗菌薬、核酸合成阻害薬。眼瞼炎、結膜炎、肺炎マイコプラズマ、胆嚢炎、腸チフス、パラチフス、コレラ... |
-| 622096701 | レボフロキサシン点眼液0.5%「TS」 | 点眼液 | 抗菌薬、核酸合成阻害薬。眼瞼炎、結膜炎、肺炎マイコプラズマ、胆嚢炎、腸チフス、パラチフス、コレラ... |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 621925701 | クラビット錠２５０ｍｇ （レボフロキサシンとして） | 有効 |
+| 672061301 | クラビット点眼液１．５％（選） | 有効 |
+| 622260401 | レボフロキサシン点眼液１．５％「科研」 | 薬価削除（2026-03-31） |
+| 622388901 | レボフロキサシン錠５００ｍｇ「ケミファ」 レボフロキサシンとして | 有効 |
+| 622096701 | レボフロキサシン点眼液０．５％「ＴＳ」 | 有効 |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

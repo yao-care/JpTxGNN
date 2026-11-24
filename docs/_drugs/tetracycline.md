@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 303
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tetracycline：予測新適応症は点状表層角結膜炎 (Punctate Epithelial Keratoconjunctivitis)（エビデンスレベル L5）。既存適応症：淋菌感染症、軟性下疳、性病性リンパ肉芽腫、猩紅熱、炭疽、ブルセラ症、百日咳、野兎病、ガス壊疽、回帰熱、ワイル病、発疹チフス、つつが虫病…"
 monitor_inn: "Tetracycline"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "chronic ethmoidal sinusitis", "chronic rhinosinusitis", "paranasal sinus neoplasm (disease)"]
@@ -66,7 +66,7 @@ ChEMBL（EMBL-EBI）に登録されている Tetracycline の作用機序（非�
 
 <!-- review:begin jp-lic-20261106-tetracycline-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「いずれも承認は取消済みです。ほかに歯科用軟膏（承認番号 620002329）も取消済みです。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 6 件、うち有効 6 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「いずれも承認は取消済みです。ほかに歯科用軟膏（承認番号 620002329）も取消済みです。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-tetracycline-1 -->
 
@@ -78,13 +78,19 @@ ChEMBL（EMBL-EBI）に登録されている Tetracycline の作用機序（非�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 662630037 | テトラサイクリン塩酸塩 | 記載なし | 抗生物質、抗アメーバ薬、抗リケッチア薬。淋菌感染症、軟性下疳、性病性リンパ肉芽腫、猩紅熱、炭疽、ブルセラ症、百日咳、野兎病、ガス壊疽、回帰熱、ワイル病... |
-| 630010078 | テトラサイクリン・プレステロン歯科用軟膏（２／３顎） | 軟膏 | 記載なし |
-| 630010079 | テトラサイクリン・プレステロン歯科用軟膏（１顎） | 軟膏 | 記載なし |
-| 630010076 | テトラサイクリン・プレステロン歯科用軟膏（１歯） | 軟膏 | 記載なし |
-| 630010077 | テトラサイクリン・プレステロン歯科用軟膏（１／３顎） | 軟膏 | 記載なし |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 662630037 | テトラサイクリン塩酸塩 | 有効 |
+| 630010078 | テトラサイクリン・プレステロン歯科用軟膏（２／３顎） | 有効 |
+| 630010079 | テトラサイクリン・プレステロン歯科用軟膏（１顎） | 有効 |
+| 630010076 | テトラサイクリン・プレステロン歯科用軟膏（１歯） | 有効 |
+| 630010077 | テトラサイクリン・プレステロン歯科用軟膏（１／３顎） | 有効 |
+
+上表はデータ上の 6 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 
@@ -127,7 +133,7 @@ ChEMBL（EMBL-EBI）に登録されている Tetracycline の作用機序（非�
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「いずれも承認は取消済みです。ほかに歯科用軟膏（承認番号 620002329）も取消済みです」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「いずれも承認は取消済みです。ほかに歯科用軟膏（承認番号 620002329）も取消済みです」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え（2026-11-20 改訂、旧版は記録に保存） | [ChEMBL CHEMBL1440 (tetracycline): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1440) |
 
 <!-- review:end log -->

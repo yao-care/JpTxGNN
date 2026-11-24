@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Cyclosporine"
 predicted_indications: ["granulomatous disease, chronic, autosomal recessive", "brain aneurysm", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congenital ichthyosiform erythroderma", "fetal erythroblastosis", "brachydactyly-syndactyly syndrome", "prolapse of lacrimal gland"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cyclosporine：予測新適応症は慢性肉芽腫症、常染色体劣性 (granulomatous disease, chronic, autosomal recessive)（エビデンスレベル L5）。薬価基準の品目：20 件以上"
 ---
 
@@ -74,13 +74,19 @@ TxGNN モデルは**慢性肉芽腫症、常染色体劣性 (granulomatous disea
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 621674801 | シクロスポリンカプセル５０ｍｇ「日医工」 | カプセル | 記載なし |
-| 622056201 | シクロスポリンカプセル１０ｍｇ「トーワ」 | カプセル | 記載なし |
-| 610443018 | ネオーラル１０ｍｇカプセル | カプセル | 記載なし |
-| 621326201 | ネオーラル内用液１０％ | 内用液 | 記載なし |
-| 622879201 | シクロスポリンカプセル２５ｍｇ「サンド」 | カプセル | 記載なし |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 621674801 | シクロスポリンカプセル５０ｍｇ「日医工」 | 有効 |
+| 622056201 | シクロスポリンカプセル１０ｍｇ「トーワ」 | 有効 |
+| 610443018 | ネオーラル１０ｍｇカプセル | 有効 |
+| 621326201 | ネオーラル内用液１０％ | 有効 |
+| 622879201 | シクロスポリンカプセル２５ｍｇ「サンド」 | 有効 |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 承認記録は少なくとも 20 件ありますが、一覧は一部のみの可能性があります。
 

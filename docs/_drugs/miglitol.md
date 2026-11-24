@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 210
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Miglitol：予測新適応症は巣状スティフリム症候群 (Focal Stiff Limb Syndrome)（エビデンスレベル L5）。既存適応症：糖尿病（α-グルコシダーゼ阻害薬）"
 monitor_inn: "Miglitol"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pancreatic agenesis", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy"]
@@ -72,13 +72,19 @@ TxGNN モデルは**巣状スティフリム症候群 (focal stiff limb syndrome
 
 承認は 20 件あり、現在有効です。主なものは次のとおりです。
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 622544301 | ミグリトール錠２５ｍｇ「トーワ」 | 錠 | 糖尿病治療薬、α-グルコシダーゼ阻害薬（糖尿病） |
-| 622935100 | ミグリトール２５ｍｇ錠 | 錠 | 糖尿病治療薬、α-グルコシダーゼ阻害薬（糖尿病） |
-| 622664201 | ミグリトール錠５０ｍｇ「ＪＧ」 | 錠 | 糖尿病治療薬、α-グルコシダーゼ阻害薬（糖尿病） |
-| 622544501 | ミグリトール錠７５ｍｇ「トーワ」 | 錠 | 糖尿病治療薬、α-グルコシダーゼ阻害薬（糖尿病） |
-| 620003129 | セイブル錠７５ｍｇ | 錠 | 糖尿病治療薬、α-グルコシダーゼ阻害薬（糖尿病） |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622544301 | ミグリトール錠２５ｍｇ「トーワ」 | 有効 |
+| 622935100 | ミグリトール２５ｍｇ錠 | 有効 |
+| 622664201 | ミグリトール錠５０ｍｇ「ＪＧ」 | 有効 |
+| 622544501 | ミグリトール錠７５ｍｇ「トーワ」 | 有効 |
+| 620003129 | セイブル錠７５ｍｇ | 有効 |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

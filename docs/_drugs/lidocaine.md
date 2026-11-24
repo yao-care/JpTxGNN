@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Lidocaine"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "papillary conjunctivitis", "rosacea conjunctivitis", "exposure keratitis", "atopic conjunctivitis", "conjunctival disorder", "nephrotic syndrome", "non-human animal disease", "tinea corporis", "sporadic idiopathic steroid-resistant nephrotic syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lidocaine：予測新適応症は点状表層角結膜炎 (punctate epithelial keratoconjunctivitis)（エビデンスレベル L5）。既存適応症：表面麻酔薬、抗不整脈薬、ナトリウムチャネル遮断薬（局所麻酔薬としての記載もあり）"
 ---
 
@@ -107,13 +107,19 @@ TxGNN モデルは**点状表層角結膜炎 (punctate epithelial keratoconjunct
 
 日本でリドカインの単剤として有効な承認が、少なくとも 20 件あります（一覧は一部のみの可能性があります）。以下は主なものです。
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 641210093 | キシロカイン注射液 0.5% | 注射液 | 記載なし |
-| 621395101 | リドカインポンプスプレー 8%「日新」 | スプレー | 記載なし |
-| 620003539 | キシロカインビスカス 2% | 粘稠液 | 記載なし |
-| 622770600 | リドカイン 18mg 貼付剤 | 貼付剤 | 表面麻酔薬、抗不整脈薬、ナトリウムチャネル遮断薬 |
-| 621537304 | リドカイン塩酸塩注射液 2%「VTRS」 | 注射液 | 局所麻酔薬、抗不整脈薬、ナトリウムチャネル遮断薬 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 641210093 | キシロカイン注射液０．５％ | 有効 |
+| 621395101 | リドカインポンプスプレー８％「日新」 | 有効 |
+| 620003539 | キシロカインビスカス２％ | 有効 |
+| 622770600 | リドカイン（１８ｍｇ）３０．５ｍｍ×５０．０ｍｍ貼付剤 | 薬価削除（2026-03-31） |
+| 621537304 | リドカイン塩酸塩注射液２％「ＶＴＲＳ」 ５ｍＬ | 有効 |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 ---
 

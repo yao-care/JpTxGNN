@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Haloperidol"
 predicted_indications: ["congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia 26, X-linked, female-limited", "syndromic myopia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "atypical glycine encephalopathy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Haloperidol：予測新適応症はフコシル化欠損を伴う先天性グリコシル化異常症 (congenital disorder of glycosylation with defective fucosylation)（エビデンスレベル L5）。薬価基準の品目：20 件以上"
 ---
 
@@ -78,13 +78,19 @@ TxGNN モデルは**フコシル化欠損を伴う先天性グリコシル化異
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 611170192 | セレネース錠１ｍｇ | 錠１ｍｇ | 統合失調症、躁病 |
-| 610453064 | セレネース錠１．５ｍｇ | 錠１．５ｍｇ | 統合失調症、躁病 |
-| 621508801 | ハロペリドール錠１．５ｍｇ「アメル」 | 錠１．５ｍｇ「アメル」 | 統合失調症、躁病 |
-| 622888700 | ハロペリドール０．７５ｍｇ錠 | 錠 | 統合失調症、躁病 |
-| 610461209 | ハロペリドール１％細粒 | 細粒 | 統合失調症、躁病 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 611170192 | セレネース錠１ｍｇ | 有効 |
+| 610453064 | セレネース錠１．５ｍｇ | 有効 |
+| 621508801 | ハロペリドール錠１．５ｍｇ「アメル」 | 有効 |
+| 622888700 | ハロペリドール０．７５ｍｇ錠 | 有効 |
+| 610461209 | ハロペリドール１％細粒 | 有効 |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 上記を含む 20 件の承認が有効です。
 

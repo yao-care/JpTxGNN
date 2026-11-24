@@ -5,7 +5,7 @@ parent: 中エビデンスレベル
 nav_order: 252
 evidence_level: L4
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Pravastatin"
 predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "hypoalphalipoproteinemia", "cholesterol-ester transfer protein deficiency"]
 description: "Pravastatin：予測新適応症はHIV感染症 (HIV infectious disease)（エビデンスレベル L4）。薬価基準の品目：20 件以上"
@@ -96,13 +96,19 @@ TxGNN モデルは **HIV感染症 (HIV infectious disease)** に有効である�
 
 日本では現在、有効な承認が 20 件あり、市販中です。主な承認は次のとおりです。
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 612180265 | メバロチン錠１０ | 錠 10 mg | （記載なし） |
-| 670454085 | メバロチン錠５（選） | 錠 5 mg | （記載なし） |
-| 621528501 | プラバスタチンナトリウム錠１０ｍｇ「ＹＤ」 | 錠 10 mg | 高脂血症、家族性高コレステロール血症 |
-| 620002800 | プラバスタチンナトリウム錠５ｍｇ「ツルハラ」 | 錠 5 mg | 高脂血症、家族性高コレステロール血症 |
-| 620000160 | メバレクト錠１０ｍｇ | 錠 10 mg | （記載なし） |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 612180265 | メバロチン錠１０ １０ｍｇ | 有効 |
+| 670454085 | メバロチン錠５ ５ｍｇ（選） | 薬価削除（2026-03-31） |
+| 621528501 | プラバスタチンナトリウム錠１０ｍｇ「ＹＤ」 | 有効 |
+| 620002800 | プラバスタチンナトリウム錠５ｍｇ「ツルハラ」 | 有効 |
+| 620000160 | メバレクト錠１０ｍｇ | 有効 |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

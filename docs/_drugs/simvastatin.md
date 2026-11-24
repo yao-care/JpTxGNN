@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 282
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Simvastatin"
 predicted_indications: ["brain stem infarction", "cholesterol-ester transfer protein deficiency", "HIV infectious disease", "ABri amyloidosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 description: "Simvastatin：予測新適応症はBrain stem infarction（エビデンスレベル L5）。薬価基準の品目：22 件以上"
@@ -95,13 +95,19 @@ description: "Simvastatin：予測新適応症はBrain stem infarction（エビ�
 
 代表的な 5 件を示します。
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 610462015 | リポバス錠10 | 錠 10 mg | 高脂血症、家族性高コレステロール血症 |
-| 610462016 | リポバス錠20 | 錠 20 mg | 高脂血症、家族性高コレステロール血症 |
-| 612180263 | リポバス錠5 | 錠 5 mg | 高脂血症、家族性高コレステロール血症 |
-| 621635202 | シンバスタチン錠10mg「オーハラ」 | 錠 10 mg | 高脂血症、家族性高コレステロール血症 |
-| 622052801 | シンバスタチン錠20mg「SW」 | 錠 20 mg | 高脂血症、家族性高コレステロール血症 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 610462015 | リポバス錠１０ １０ｍｇ | 有効 |
+| 610462016 | リポバス錠２０ ２０ｍｇ | 有効 |
+| 612180263 | リポバス錠５ ５ｍｇ | 有効 |
+| 621635202 | シンバスタチン錠１０ｍｇ「オーハラ」 | 薬価削除（2026-09-30、後継コード 622315500） |
+| 622052801 | シンバスタチン錠２０ｍｇ「ＳＷ」 | 有効 |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

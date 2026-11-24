@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 10
 monitor_inn: "Pramipexole"
 predicted_indications: ["attention deficit-hyperactivity disorder", "faciodigitogenital syndrome", "attention deficit hyperactivity disorder, inattentive type", "specific developmental disorder", "chondromyxoid fibroma", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "schizophrenia", "atypical glycine encephalopathy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Pramipexole：予測新適応症は注意欠如・多動症 (attention deficit-hyperactivity disorder)（エビデンスレベル L4）。既存適応症：パーキンソン病、レストレスレッグス症候群"
 ---
 
@@ -80,13 +80,19 @@ ADHD ではドパミン系の調節異常が関与すると考えられており
 
 日本では販売されており、有効な承認が 20 件あります。代表的な承認は以下のとおりです。
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620000435 | ビ・シフロール錠０．１２５ｍｇ | 錠 0.125 mg | パーキンソン病、レストレスレッグス症候群 |
-| 620000436 | ビ・シフロール錠０．５ｍｇ | 錠 0.5 mg | パーキンソン病、レストレスレッグス症候群 |
-| 622069601 | ミラペックスＬＡ錠０．３７５ｍｇ | 錠 0.375 mg（徐放） | — |
-| 622257501 | プラミペキソール塩酸塩錠０．５ｍｇ「ＪＧ」 | 錠 0.5 mg | パーキンソン病、レストレスレッグス症候群 |
-| 622239701 | プラミペキソール塩酸塩錠０．５ｍｇ「ＤＳＥＰ」 | 錠 0.5 mg | パーキンソン病、レストレスレッグス症候群 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620000435 | ビ・シフロール錠０．１２５ｍｇ | 有効 |
+| 620000436 | ビ・シフロール錠０．５ｍｇ | 有効 |
+| 622069601 | ミラペックスＬＡ錠０．３７５ｍｇ | 有効 |
+| 622257501 | プラミペキソール塩酸塩錠０．５ｍｇ「ＪＧ」 | 有効 |
+| 622239701 | プラミペキソール塩酸塩錠０．５ｍｇ「ＤＳＥＰ」 | 有効 |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

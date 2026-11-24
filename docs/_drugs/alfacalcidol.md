@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "alfacalcidol"
 predicted_indications: ["craniofacial conodysplasia", "acromesomelic dysplasia, Campailla Martinelli type", "renal tubular acidosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Alfacalcidol：予測新適応症は頭蓋顔面円錐異形成（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載がなく、確認できません。スコアはTxGNNモデル（ディープラーニング）によるもので、関連疾患間でモデルが学習した類似性を反映している可能性があり、生物学的エビデンスではありません。"
 ---
 
@@ -85,10 +85,14 @@ TxGNN モデルは**頭蓋顔面円錐異形成 (craniofacial conodysplasia)** �
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620003509 | アルファロール内用液０．５μｇ／ｍＬ | 内用液（０．５μｇ／ｍＬ） | 添付文書を参照してください |
-| 620003508 | アルファロール散１μｇ／ｇ | 散（１μｇ／ｇ） | 添付文書を参照してください |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620003509 | アルファロール内用液０．５μｇ／ｍＬ | 有効 |
+| 620003508 | アルファロール散１μｇ／ｇ | 有効 |
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

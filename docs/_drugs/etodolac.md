@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 125
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Etodolac：予測新適応症は肢端中間部異形成症 Hunter-Thompson 型 (acromesomelic dysplasia…（エビデンスレベル L5）。既存適応症：鎮痛薬、抗炎症薬、シクロオキシゲナーゼ2阻害薬（関節リウマチ）"
 monitor_inn: "Etodolac"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "hypermobility of coccyx"]
@@ -82,21 +82,27 @@ TxGNN モデルは **肢端中間部異形成症 Hunter-Thompson 型 (acromesome
 
 ## 日本市販情報
 
-現在、承認 12 件中で有効なものは 5 件です（7 件は薬価基準から削除済み。主要 5 件を記載）。
+現在、承認には有効なものと薬価基準から削除済みのものがあります（件数はクイック概要を参照）。
 
 <!-- review:begin jp-lic-20261117-etodolac-1 -->
 
-> **確認による訂正（2026-11-17）**：元の記載は「現在、有効な承認は 12 件中 12 件です（主要 5 件を記載）。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 12 件のうち有効（収載中）は 5 件で、7 件は経過措置期間満了などにより薬価基準から削除されています（622710600（廃止年月日 2026-03-31）、670406388（廃止年月日 2026-03-31）、670406383（廃止年月日 2026-03-31）、610406383（廃止年月日 2026-03-31）、610406382（廃止年月日 2026-03-31）、670406382（廃止年月日 2026-03-31）ほか）。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+> **確認による訂正（2026-11-17）**：元の記載は「現在、有効な承認は 12 件中 12 件です（主要 5 件を記載）。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、次の承認が経過措置期間満了などにより薬価基準から削除されています（622710600（廃止年月日 2026-03-31）、670406388（廃止年月日 2026-03-31）、670406383（廃止年月日 2026-03-31）、610406383（廃止年月日 2026-03-31）、610406382（廃止年月日 2026-03-31）、670406382（廃止年月日 2026-03-31）ほか）。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
 
 <!-- review:end jp-lic-20261117-etodolac-1 -->
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 670406387 | ハイペン錠100mg（選） | 錠 | 鎮痛薬、抗炎症薬、シクロオキシゲナーゼ2阻害薬（関節リウマチ） |
-| 622710600 | エトドラク200mg錠 | 錠 | 鎮痛薬、抗炎症薬、シクロオキシゲナーゼ2阻害薬（関節リウマチ） |
-| 621466202 | エトドラク錠200mg「SW」 | 錠 | 鎮痛薬、抗炎症薬、シクロオキシゲナーゼ2阻害薬（関節リウマチ） |
-| 622011102 | エトドラク錠100mg「SW」 | 錠 | 鎮痛薬、抗炎症薬、シクロオキシゲナーゼ2阻害薬（関節リウマチ） |
-| 670406383 | オステラック錠200 200mg（選） | 錠 | 鎮痛薬、抗炎症薬、シクロオキシゲナーゼ2阻害薬（関節リウマチ） |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 670406387 | ハイペン錠１００ｍｇ（選） | 有効 |
+| 622710600 | エトドラク２００ｍｇ錠 | 薬価削除（2026-03-31） |
+| 621466202 | エトドラク錠２００ｍｇ「ＳＷ」 | 有効 |
+| 622011102 | エトドラク錠１００ｍｇ「ＳＷ」 | 有効 |
+| 670406383 | オステラック錠２００ ２００ｍｇ（選） | 薬価削除（2026-03-31） |
+
+上表はデータ上の 12 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 
@@ -112,22 +118,22 @@ TxGNN モデルは **肢端中間部異形成症 Hunter-Thompson 型 (acromesome
 **決定：Hold**
 
 **理由：**
-予測 1 位の疾患は炎症が主因ではない遺伝性骨格異形成症で、臨床試験も文献もなく、モデル予測のみ（L5）です。日本では販売されており（承認 12 件中、有効なものは 5 件）、添付文書ベースの安全性情報は未確認です。
+予測 1 位の疾患は炎症が主因ではない遺伝性骨格異形成症で、臨床試験も文献もなく、モデル予測のみ（L5）です。日本では販売されており（有効な承認あり、件数はクイック概要を参照）、添付文書ベースの安全性情報は未確認です。
 
 <!-- review:begin jp-lic-20261117-etodolac-2 -->
 
-> **確認による訂正（2026-11-17）**：元の記載は「日本では販売されており（有効な承認は 12 件中 12 件）、」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 12 件のうち有効（収載中）は 5 件で、7 件は経過措置期間満了などにより薬価基準から削除されています（622710600（廃止年月日 2026-03-31）、670406388（廃止年月日 2026-03-31）、670406383（廃止年月日 2026-03-31）、610406383（廃止年月日 2026-03-31）、610406382（廃止年月日 2026-03-31）、670406382（廃止年月日 2026-03-31）ほか）。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+> **確認による訂正（2026-11-17）**：元の記載は「日本では販売されており（有効な承認は 12 件中 12 件）、」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、次の承認が経過措置期間満了などにより薬価基準から削除されています（622710600（廃止年月日 2026-03-31）、670406388（廃止年月日 2026-03-31）、670406383（廃止年月日 2026-03-31）、610406383（廃止年月日 2026-03-31）、610406382（廃止年月日 2026-03-31）、670406382（廃止年月日 2026-03-31）ほか）。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
 
 <!-- review:end jp-lic-20261117-etodolac-2 -->
 
 **進める場合に必要なもの：**
 - 添付文書（警告・禁忌）の取得と安全性スクリーニング
 - 詳細な作用機序（MOA）データの補充
-- 日本での承認状況の確認（現在、承認 12 件中で有効なものは 5 件）
+- 日本での承認状況の確認（有効な承認と薬価基準から削除済みの承認があり、件数はクイック概要を参照）
 
 <!-- review:begin jp-lic-20261117-etodolac-3 -->
 
-> **確認による訂正（2026-11-17）**：元の記載は「日本での承認状況の確認（現在、有効な承認は 12 件中 12 件）」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 12 件のうち有効（収載中）は 5 件で、7 件は経過措置期間満了などにより薬価基準から削除されています（622710600（廃止年月日 2026-03-31）、670406388（廃止年月日 2026-03-31）、670406383（廃止年月日 2026-03-31）、610406383（廃止年月日 2026-03-31）、610406382（廃止年月日 2026-03-31）、670406382（廃止年月日 2026-03-31）ほか）。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+> **確認による訂正（2026-11-17）**：元の記載は「日本での承認状況の確認（現在、有効な承認は 12 件中 12 件）」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、次の承認が経過措置期間満了などにより薬価基準から削除されています（622710600（廃止年月日 2026-03-31）、670406388（廃止年月日 2026-03-31）、670406383（廃止年月日 2026-03-31）、610406383（廃止年月日 2026-03-31）、610406382（廃止年月日 2026-03-31）、670406382（廃止年月日 2026-03-31）ほか）。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
 
 <!-- review:end jp-lic-20261117-etodolac-3 -->
 
@@ -139,9 +145,9 @@ TxGNN モデルは **肢端中間部異形成症 Hunter-Thompson 型 (acromesome
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
-| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
-| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Etodolac Er (etodolac) prescribing information, Advanced Rx Pharmacy of Tennessee, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=baebdfb2-17f6-9081-e053-2a95a90ab331) |
 
 <!-- review:end log -->

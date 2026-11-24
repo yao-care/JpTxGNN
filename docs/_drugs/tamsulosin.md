@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Tamsulosin"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "migraine with brainstem aura"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tamsulosin：予測新適応症はAmbras 型汎発性先天性多毛症 (Ambras type hypertrichosis universalis congenita)（エビデンスレベル L5）。既存適応症：排尿障害改善薬、α1 アドレナリン受容体拮抗薬"
 ---
 
@@ -78,10 +78,16 @@ Ambras 型多毛症に関する文献はありません。参考として、予�
 
 日本の承認 20 件は有効で、現在販売されています。承認適応症の記載があるのは以下の 2 件のみです。
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 621668104 | タムスロシン塩酸塩カプセル0.2mg「NIG」 | カプセル | 排尿障害改善薬、α1 アドレナリン受容体拮抗薬 |
-| 621668004 | タムスロシン塩酸塩カプセル0.1mg「NIG」 | カプセル | 排尿障害改善薬、α1 アドレナリン受容体拮抗薬 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 621668104 | タムスロシン塩酸塩カプセル０．２ｍｇ「ＮＩＧ」 | 有効 |
+| 621668004 | タムスロシン塩酸塩カプセル０．１ｍｇ「ＮＩＧ」 | 有効 |
+
+データには承認の一部のみが含まれています。上表はそのうち 2 件です。
+
+<!-- licenses:end -->
 
 他の主な承認には、ハルナールD錠（0.1mg、0.2mg）や各社の OD 錠（日医工、サワイ、トーワ、ケミファ、明治、日新、あすか など）があります。
 

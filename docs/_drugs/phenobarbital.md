@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 242
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Phenobarbital：予測新適応症は三叉神経腫瘍 (Trigeminal Nerve Neoplasm)（エビデンスレベル L5）。既存適応症：不眠症（抗不安薬、抗けいれん薬、催眠鎮静薬）"
 monitor_inn: "Phenobarbital"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
@@ -72,7 +72,7 @@ TxGNN モデルは**三叉神経腫瘍 (Trigeminal Nerve Neoplasm)** に有効�
 
 <!-- review:begin jp-lic-20261106-phenobarbital-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「日本では現在、有効な承認はなく、9 件すべてが取消済みです。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 9 件、うち有効 9 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「日本では現在、有効な承認はなく、9 件すべてが取消済みです。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-phenobarbital-1 -->
 
@@ -82,13 +82,19 @@ TxGNN モデルは**三叉神経腫瘍 (Trigeminal Nerve Neoplasm)** に有効�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 611120064 | フェノバルビタール | — | 抗不安薬、抗けいれん薬、催眠鎮静薬（不眠症） |
-| 610462033 | フェノバルビタール散１０％ | 散１０％ | 抗不安薬、抗けいれん薬、催眠鎮静薬（不眠症） |
-| 611120159 | フェノバルビタール散１０％「ホエイ」 | 散１０％「ホエイ」 | 抗不安薬、抗けいれん薬、催眠鎮静薬（不眠症） |
-| 611120063 | フェノバール錠３０ｍｇ | 錠３０ｍｇ | — |
-| 620003795 | フェノバール注射液１００ｍｇ　１０％１ｍＬ | 注射液 | — |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 611120064 | フェノバルビタール | 有効 |
+| 610462033 | フェノバルビタール散１０％ | 有効 |
+| 611120159 | フェノバルビタール散１０％「ホエイ」 | 有効 |
+| 611120063 | フェノバール錠３０ｍｇ | 有効 |
+| 620003795 | フェノバール注射液１００ｍｇ １０％１ｍＬ | 有効 |
+
+上表はデータ上の 9 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 
@@ -131,7 +137,7 @@ TxGNN モデルは**三叉神経腫瘍 (Trigeminal Nerve Neoplasm)** に有効�
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「日本では現在、有効な承認はなく、9 件すべてが取消済みです」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本では現在、有効な承認はなく、9 件すべてが取消済みです」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Sezaby (phenobarbital sodium) prescribing information, Sun Pharmaceutical Industries, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=8c7d0402-4977-4c25-bc4b-11db91339e9a) |
 
 <!-- review:end log -->

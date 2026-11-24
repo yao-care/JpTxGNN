@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Acyclovir"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "common wart", "post-infectious neuralgia", "hepatitis C induced liver cirrhosis", "eosinophilic pustular folliculitis", "sequela of COVID-19", "vulvovaginal candidiasis", "papular urticaria", "disease of orbital region", "epidemic keratoconjunctivitis"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Acyclovir：予測新適応症は点状表層角結膜炎 (Punctate Epithelial Keratoconjunctivitis)（エビデンスレベル L5）。既存適応症：単純疱疹、単純ヘルペスウイルス感染症、帯状疱疹、性器ヘルペス、水痘、単純ヘルペスウイルスに起因する角膜炎"
 ---
 
@@ -76,13 +76,19 @@ TxGNN モデルは**点状表層角結膜炎 (Punctate Epithelial Keratoconjunct
 
 日本では販売されており、有効な承認が20件あります。
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 621444601 | アシクロビル顆粒４０％「トーワ」 | 顆粒 | 単純疱疹、単純ヘルペスウイルス感染症、帯状疱疹、性器ヘルペス、水痘、HSV 角膜炎 |
-| 621353901 | アシクロビル錠４００ｍｇ「サワイ」 | 錠剤 | 単純疱疹、単純ヘルペスウイルス感染症、帯状疱疹、性器ヘルペス、水痘、HSV 角膜炎 |
-| 610406386 | ゾビラックス顆粒４０％ | 顆粒 | 単純疱疹、単純ヘルペスウイルス感染症、帯状疱疹、性器ヘルペス、水痘、HSV 角膜炎 |
-| 666250002 | ゾビラックス軟膏５％ | 軟膏 | 単純疱疹、単純ヘルペスウイルス感染症、帯状疱疹、性器ヘルペス、水痘、HSV 角膜炎 |
-| 622619000 | アシクロビル３％眼軟膏 | 眼軟膏 | 単純疱疹、単純ヘルペスウイルス感染症、帯状疱疹、性器ヘルペス、水痘、HSV 角膜炎 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 621444601 | アシクロビル顆粒４０％「トーワ」 | 有効 |
+| 621353901 | アシクロビル錠４００ｍｇ「サワイ」 | 有効 |
+| 610406386 | ゾビラックス顆粒４０％ | 有効 |
+| 666250002 | ゾビラックス軟膏５％ | 有効 |
+| 622619000 | アシクロビル３％眼軟膏 | 有効 |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

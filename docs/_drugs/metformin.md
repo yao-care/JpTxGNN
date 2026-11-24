@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Metformin"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Metformin：予測新適応症は焦点性スティッフリム症候群 (focal stiff limb syndrome)（エビデンスレベル L5）。既存適応症：2型糖尿病、多嚢胞性卵巣症候群"
 ---
 
@@ -79,13 +79,19 @@ TxGNN モデルは**焦点性スティッフリム症候群 (focal stiff limb sy
 
 <!-- review:end jp-lic-20261106-metformin-1 -->
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620004480 | グリコラン錠250mg | 錠 250mg | 糖尿病治療薬、血糖降下薬、AMPキナーゼ活性化薬（2型糖尿病、多嚢胞性卵巣症候群） |
-| 621974701 | メトグルコ錠250mg | 錠 250mg | 記載なし |
-| 621676001 | メトホルミン塩酸塩錠250mg「SN」 | 錠 250mg | 糖尿病治療薬、血糖降下薬、AMPキナーゼ活性化薬（2型糖尿病、多嚢胞性卵巣症候群） |
-| 622822401 | メトホルミン塩酸塩錠250mgMT「明治」 | 錠 250mg | 糖尿病治療薬、血糖降下薬、AMPキナーゼ活性化薬（2型糖尿病、多嚢胞性卵巣症候群） |
-| 622822501 | メトホルミン塩酸塩錠500mgMT「明治」 | 錠 500mg | 糖尿病治療薬、血糖降下薬、AMPキナーゼ活性化薬（2型糖尿病、多嚢胞性卵巣症候群） |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620004480 | グリコラン錠２５０ｍｇ | 有効 |
+| 621974701 | メトグルコ錠２５０ｍｇ | 有効 |
+| 621676001 | メトホルミン塩酸塩錠２５０ｍｇ「ＳＮ」 | 有効 |
+| 622822401 | メトホルミン塩酸塩錠２５０ｍｇＭＴ「明治」 | 有効 |
+| 622822501 | メトホルミン塩酸塩錠５００ｍｇＭＴ「明治」 | 有効 |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

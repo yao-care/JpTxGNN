@@ -6,7 +6,7 @@ title: Dapagliflozin
 parent: 既知の用途のみ（新規予測なし）
 nav_order: 86
 monitor_inn: "Dapagliflozin"
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Dapagliflozin: 日本における既知の用途と市場状況。現時点で新たな候補適応症はありません"
 predicted_indications: []
 indication_count: 0
@@ -48,19 +48,25 @@ evidence_level: N/A
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 | 状態 |
-|---------|------|------|-----------|------|
-| 622342001 | フォシーガ錠10mg | 錠10mg | 2型糖尿病 | 有効 |
-| 622341901 | フォシーガ錠5mg | 錠5mg | 2型糖尿病 | 有効 |
-| 622997301 | ダパグリフロジン錠10mg「サワイ」 | 錠10mg「サワイ」 | 2型糖尿病 | 有効 |
-| 622997201 | ダパグリフロジン錠5mg「サワイ」 | 錠5mg「サワイ」 | 2型糖尿病 | 有効 |
-| 622994901 | ダパグリフロジン錠10mg「TSP」 | 錠10mg「TSP」 | 2型糖尿病 | 有効 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622342001 | フォシーガ錠１０ｍｇ | 有効 |
+| 622341901 | フォシーガ錠５ｍｇ | 有効 |
+| 622997301 | ダパグリフロジン錠１０ｍｇ「サワイ」 | 有効 |
+| 622997201 | ダパグリフロジン錠５ｍｇ「サワイ」 | 有効 |
+| 622994901 | ダパグリフロジン錠１０ｍｇ「ＴＳＰ」 | 有効 |
+
+上表はデータ上の 6 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 他に、ダパグリフロジン錠5mg「TSP」（622994801）も有効です。
 
 <!-- review:begin jp-lic-20261112-dapagliflozin-1 -->
 
-> **確認による訂正（2026-11-12）**：元の記載は「他に、ダパグリフロジン錠5mg「TSP」（622994801）も取消済みです。」でした。訂正：医薬品マスター（薬価基準収載品目）では、ダパグリフロジン錠5mg「TSP」（622994801）は有効です（2026-11-05 のデータ）。データ上の収載は 6 件、うち有効 6 件です。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-12）**：元の記載は「他に、ダパグリフロジン錠5mg「TSP」（622994801）も取消済みです。」でした。訂正：医薬品マスター（薬価基準収載品目）では、ダパグリフロジン錠5mg「TSP」（622994801）は有効です（2026-11-05 のデータ）。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261112-dapagliflozin-1 -->
 
@@ -83,7 +89,7 @@ evidence_level: N/A
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-12 | 訂正：622994801 は「取消済み」ではなく有効 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-12 | 訂正：622994801 は「取消済み」ではなく有効 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 
 <!-- review:end log -->
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Latanoprost"
 predicted_indications: ["visceral calciphylaxis", "hypotrichosis simplex of the scalp", "venous thoracic outlet syndrome", "arterial thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "congenital hypotrichosis milia", "angiodysplasia of stomach", "blue toe syndrome", "lymphangiectasis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Latanoprost：予測新適応症は内臓カルシフィラキシス (visceral calciphylaxis)（エビデンスレベル L5）。薬価基準の品目：20 件以上"
 ---
 
@@ -74,13 +74,19 @@ TxGNN モデルは**内臓カルシフィラキシス (visceral calciphylaxis)**
 
 日本では単一成分製剤として多数の製品が承認されています。主なものは以下のとおりです。
 
-| 承認番号 | 商品名 | 剤形 |
-|---------|------|------|
-| 622962100 | ラタノプロスト0.005% 1mL点眼液 | 点眼液 |
-| 621990401 | ラタノプロスト点眼液0.005%「ニットー」 | 点眼液 |
-| 622017801 | ラタノプロスト点眼液0.005%「NP」 | 点眼液 |
-| 670224801 | キサラタン点眼液0.005%（選） | 点眼液 |
-| 621990201 | ラタノプロスト点眼液0.005%「ケミファ」 | 点眼液 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622962100 | ラタノプロスト０．００５％１ｍＬ点眼液 | 有効 |
+| 621990401 | ラタノプロスト点眼液０．００５％「ニットー」 | 有効 |
+| 622017801 | ラタノプロスト点眼液０．００５％「ＮＰ」 | 有効 |
+| 670224801 | キサラタン点眼液０．００５％（選） | 薬価削除（2026-03-31） |
+| 621990201 | ラタノプロスト点眼液０．００５％「ケミファ」 | 有効 |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 ※ 承認記録は一部のみの可能性があり、上記は主要な5件です。
 

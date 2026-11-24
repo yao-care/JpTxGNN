@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Fusidic acid"
 predicted_indications: ["exposure keratitis", "non-human animal disease", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "parasitic eyelid infestation"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fusidic Acid：予測新適応症は露出性角膜炎 (exposure keratitis)（エビデンスレベル L5）。薬価基準の品目：1 件（現在収載 1 件）"
 ---
 
@@ -73,9 +73,13 @@ ChEMBL（EMBL-EBI）に登録されている Fusidic Acid の作用機序（非�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620007752 | フシジンレオ軟膏２％　２０ｍｇ | 軟膏２％　２０ｍｇ（外用） | 記載なし |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620007752 | フシジンレオ軟膏２％ ２０ｍｇ | 有効 |
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 131
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Felodipine：予測新適応症は肺疾患・低酸素に伴う肺高血圧症 (Pulmonary hypertension owing to lung disease and/or…（エビデンスレベル L5）。既存適応症：高血圧症（血圧降下薬・血管拡張薬・カルシウムチャネル遮断薬）"
 monitor_inn: "Felodipine"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease"]
@@ -82,21 +82,27 @@ TxGNN モデルは**肺疾患・低酸素に伴う肺高血圧症 (Pulmonary hyp
 
 ## 日本市販情報
 
-主要な承認 5 件を示します。8 件の承認のうち 5 件が有効です（3 件は薬価基準から削除済み）。
+主要な承認 5 件を示します。承認には有効なものと薬価基準から削除済みのものがあります（件数はクイック概要を参照）。
 
 <!-- review:begin jp-lic-20261117-felodipine-1 -->
 
-> **確認による訂正（2026-11-17）**：元の記載は「8 件の承認はすべて有効です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 8 件のうち有効（収載中）は 5 件で、3 件は経過措置期間満了などにより薬価基準から削除されています（670407003（廃止年月日 2026-03-31）、622725500（廃止年月日 2026-03-31）、622725600（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+> **確認による訂正（2026-11-17）**：元の記載は「8 件の承認はすべて有効です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、次の承認が経過措置期間満了などにより薬価基準から削除されています（670407003（廃止年月日 2026-03-31）、622725500（廃止年月日 2026-03-31）、622725600（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
 
 <!-- review:end jp-lic-20261117-felodipine-1 -->
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 610407003 | スプレンジール錠2.5mg | 錠 2.5mg | 高血圧症（血圧降下薬・血管拡張薬・カルシウムチャネル遮断薬） |
-| 610407004 | スプレンジール錠5mg | 錠 5mg | 高血圧症（血圧降下薬・血管拡張薬・カルシウムチャネル遮断薬） |
-| 621671803 | フェロジピン錠5mg「NIG」 | 錠 5mg | 高血圧症（血圧降下薬・血管拡張薬・カルシウムチャネル遮断薬） |
-| 621671703 | フェロジピン錠2.5mg「NIG」 | 錠 2.5mg | 高血圧症（血圧降下薬・血管拡張薬・カルシウムチャネル遮断薬） |
-| 622725500 | フェロジピン2.5mg錠 | 錠 | 高血圧症（血圧降下薬・血管拡張薬・カルシウムチャネル遮断薬） |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 610407003 | スプレンジール錠２．５ｍｇ | 有効 |
+| 610407004 | スプレンジール錠５ｍｇ | 有効 |
+| 621671803 | フェロジピン錠５ｍｇ「ＮＩＧ」 | 有効 |
+| 621671703 | フェロジピン錠２．５ｍｇ「ＮＩＧ」 | 有効 |
+| 622725500 | フェロジピン２．５ｍｇ錠 | 薬価削除（2026-03-31） |
+
+上表はデータ上の 8 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 
@@ -117,11 +123,11 @@ TxGNN モデルは**肺疾患・低酸素に伴う肺高血圧症 (Pulmonary hyp
 
 **理由：**
 - 肺高血圧症に対する臨床試験はなく、文献もすべて in vitro・動物の間接的な研究です（L4）。TxGNN の予測スコアは高いものの、現時点で臨床開発に進める根拠はありません。
-- 日本では 8 件の承認のうち 5 件が有効で、市販されています。
+- 日本では有効な承認があり（件数はクイック概要を参照）、市販されています。
 
 <!-- review:begin jp-lic-20261117-felodipine-2 -->
 
-> **確認による訂正（2026-11-17）**：元の記載は「日本では 8 件の承認のうち 8 件が有効で、市販されています。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 8 件のうち有効（収載中）は 5 件で、3 件は経過措置期間満了などにより薬価基準から削除されています（670407003（廃止年月日 2026-03-31）、622725500（廃止年月日 2026-03-31）、622725600（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+> **確認による訂正（2026-11-17）**：元の記載は「日本では 8 件の承認のうち 8 件が有効で、市販されています。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、次の承認が経過措置期間満了などにより薬価基準から削除されています（670407003（廃止年月日 2026-03-31）、622725500（廃止年月日 2026-03-31）、622725600（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
 
 <!-- review:end jp-lic-20261117-felodipine-2 -->
 
@@ -140,8 +146,8 @@ TxGNN モデルは**肺疾患・低酸素に伴う肺高血圧症 (Pulmonary hyp
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
-| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Felopdipine (felodipine) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=129c48eb-29f2-462b-ad8a-b3bf1b193115) |
 
 <!-- review:end log -->

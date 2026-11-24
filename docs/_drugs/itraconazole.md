@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 169
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Itraconazole：予測新適応症はニューモシスチス症 (pneumocystosis)（エビデンスレベル L5）。既存適応症：抗真菌薬（エルゴステロール合成阻害薬）：スポロトリコーシス、クロモミコーシス、白癬、カンジダ症、慢性皮膚粘膜カンジダ症、癜風、爪白癬…"
 monitor_inn: "Itraconazole"
 predicted_indications: ["pneumocystosis"]
@@ -83,21 +83,27 @@ TxGNN モデルは**ニューモシスチス症 (pneumocystosis)** に有効で�
 
 ## 日本市販情報
 
-現在、日本で承認9件のうち7件が有効です（2件は薬価基準から削除済み）。
+現在、日本の承認には有効なものと薬価基準から削除済みのものがあります（件数はクイック概要を参照）。
 
 <!-- review:begin jp-lic-20261117-itraconazole-1 -->
 
-> **確認による訂正（2026-11-17）**：元の記載は「現在、日本で承認9件のうち9件が有効です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 9 件のうち有効（収載中）は 7 件で、2 件は経過措置期間満了などにより薬価基準から削除されています（622747700（廃止年月日 2026-03-31）、622747400（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+> **確認による訂正（2026-11-17）**：元の記載は「現在、日本で承認9件のうち9件が有効です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、次の承認が経過措置期間満了などにより薬価基準から削除されています（622747700（廃止年月日 2026-03-31）、622747400（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
 
 <!-- review:end jp-lic-20261117-itraconazole-1 -->
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 616290177 | イトリゾールカプセル５０ | カプセル | 抗真菌薬、エルゴステロール合成阻害薬。スポロトリコーシス、クロモミコーシス、白癬、カンジダ症... |
-| 676290177 | イトリゾールカプセル５０（選） | カプセル | 抗真菌薬、エルゴステロール合成阻害薬。スポロトリコーシス、クロモミコーシス、白癬、カンジダ症... |
-| 621746701 | イトラコナゾール錠１００ｍｇ「日医工」 | 錠 | 抗真菌薬、エルゴステロール合成阻害薬。スポロトリコーシス、クロモミコーシス、白癬、カンジダ症... |
-| 620007914 | イトラコナゾール錠５０ｍｇ「科研」 | 錠 | 抗真菌薬、エルゴステロール合成阻害薬。スポロトリコーシス、クロモミコーシス、白癬、カンジダ症... |
-| 621629201 | イトラコナゾールカプセル５０ｍｇ「ＳＷ」 | カプセル | 抗真菌薬、エルゴステロール合成阻害薬。スポロトリコーシス、クロモミコーシス、白癬、カンジダ症... |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 616290177 | イトリゾールカプセル５０ ５０ｍｇ | 有効 |
+| 676290177 | イトリゾールカプセル５０ ５０ｍｇ（選） | 有効 |
+| 621746701 | イトラコナゾール錠１００ｍｇ「日医工」 | 有効 |
+| 620007914 | イトラコナゾール錠５０ｍｇ「科研」 | 有効 |
+| 621629201 | イトラコナゾールカプセル５０ｍｇ「ＳＷ」 | 有効 |
+
+上表はデータ上の 9 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 
@@ -118,7 +124,7 @@ TxGNN モデルは**ニューモシスチス症 (pneumocystosis)** に有効で�
 
 <!-- review:begin jp-lic-20261106-itraconazole-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「さらに、ニューモシスチスはエルゴステロールが乏しく、機序的な裏付けも弱いため、現時点で開発を進める根拠は不十分です。また、日本では現在有効な承認がありません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 9 件、うち有効 9 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「さらに、ニューモシスチスはエルゴステロールが乏しく、機序的な裏付けも弱いため、現時点で開発を進める根拠は不十分です。また、日本では現在有効な承認がありません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-itraconazole-1 -->
 
@@ -139,8 +145,8 @@ TxGNN モデルは**ニューモシスチス症 (pneumocystosis)** に有効で�
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「また、日本では現在有効な承認がありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-06 | 削除：「また、日本では現在有効な承認がありません」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Sporanox (itraconazole) prescribing information, Janssen Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a4d555fa-787c-40fb-bb7d-b0d4f7318fd0) |
 
 <!-- review:end log -->

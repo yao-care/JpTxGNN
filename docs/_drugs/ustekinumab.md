@@ -5,7 +5,7 @@ parent: 高エビデンスレベル
 nav_order: 329
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Ustekinumab"
 predicted_indications: ["dermatitis", "neonatal dermatomyositis", "acne keloid", "acrodermatitis chronica atrophicans", "amyopathic dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy", "pityriasis lichenoides", "acute lichenoid pityriasis"]
 description: "Ustekinumab：予測新適応症は皮膚炎 (dermatitis)（エビデンスレベル L2）。薬価基準の品目：2 件（現在収載 2 件）"
@@ -89,10 +89,14 @@ TxGNN モデルは**皮膚炎 (Dermatitis)** に有効である可能性を予�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 622046501 | ステラーラ皮下注45mgシリンジ 0.5mL | 注射剤（シリンジ） | （記載なし）／ 承認状況：有効 |
-| 622554701 | ステラーラ点滴静注130mg 26mL | 注射剤（点滴静注） | （記載なし）／ 承認状況：有効 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622046501 | ステラーラ皮下注４５ｍｇシリンジ ０．５ｍＬ | 有効 |
+| 622554701 | ステラーラ点滴静注１３０ｍｇ ２６ｍＬ | 有効 |
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 
@@ -115,7 +119,7 @@ TxGNN モデルは**皮膚炎 (Dermatitis)** に有効である可能性を予�
 
 <!-- review:begin jp-lic-20261106-ustekinumab-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「皮膚炎は主に Th2 優位であり、IL-12/23 阻害との機序的整合性にも限界があります。／日本での承認は 2 件とも取り消し済みで、警告・禁忌情報も不足しているため、安全性評価に進める状態ではありません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 2 件、うち有効 2 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「皮膚炎は主に Th2 優位であり、IL-12/23 阻害との機序的整合性にも限界があります。／日本での承認は 2 件とも取り消し済みで、警告・禁忌情報も不足しているため、安全性評価に進める状態ではありません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-ustekinumab-1 -->
 
@@ -128,7 +132,7 @@ TxGNN モデルは**皮膚炎 (Dermatitis)** に有効である可能性を予�
 
 <!-- review:begin jp-lic-20261106-ustekinumab-2 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「日本での現在の販売状況（承認の取り消し理由と、代替販売名の有無）の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 2 件、うち有効 2 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「日本での現在の販売状況（承認の取り消し理由と、代替販売名の有無）の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-ustekinumab-2 -->
 
@@ -140,8 +144,8 @@ TxGNN モデルは**皮膚炎 (Dermatitis)** に有効である可能性を予�
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「日本での承認は 2 件とも取り消し済みで、警告・禁忌情報も不足しているため、安全性評価に進める状態ではありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-06 | 削除：「承認の取り消し理由と、代替販売名の有無」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本での承認は 2 件とも取り消し済みで、警告・禁忌情報も不足しているため、安全性評価に進める状態ではありません」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「承認の取り消し理由と、代替販売名の有無」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Selarsdi (ustekinumab-aekn) prescribing information, Teva Pharmaceuticals USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=87f75b59-e48b-47c7-a4c0-5fe5965660e7) |
 
 <!-- review:end log -->

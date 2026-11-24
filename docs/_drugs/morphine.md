@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Morphine"
 predicted_indications: ["myofascial pain syndrome", "manic bipolar affective disorder", "Tourette syndrome", "restless legs syndrome", "attention deficit hyperactivity disorder, inattentive type", "migraine disorder", "trichotillomania", "methemoglobinemia", "migraine with brainstem aura", "specific developmental disorder"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Morphine：予測新適応症は筋筋膜性疼痛症候群 (myofascial pain syndrome)（エビデンスレベル L5）。薬価基準の品目：20 件以上"
 ---
 
@@ -75,13 +75,19 @@ TxGNN モデルは**筋筋膜性疼痛症候群 (myofascial pain syndrome)** に
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 628505102 | モルヒネ塩酸塩注射液２００ｍｇ「シオノギ」　４％５ｍＬ | 注射液 | 麻薬性鎮痛薬, オピオイド受容体作動薬 |
-| 628513501 | モルヒネ塩酸塩注射液２００ｍｇ「テルモ」　４％５ｍＬ | 注射液 | 麻薬性鎮痛薬, オピオイド受容体作動薬 |
-| 628504000 | モルヒネ塩酸塩注射液１０ｍｇ「第一三共」　１％１ｍＬ | 注射液 | 麻薬性鎮痛薬, オピオイド受容体作動薬 |
-| 620009255 | モルヒネ塩酸塩錠１０ｍｇ「ＤＳＰ」 | 錠 | 麻薬性鎮痛薬, オピオイド受容体作動薬 |
-| 610453130 | モルペス細粒２％ | 細粒 | 記載なし |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 628505102 | モルヒネ塩酸塩注射液２００ｍｇ「シオノギ」 ４％５ｍＬ | 有効 |
+| 628513501 | モルヒネ塩酸塩注射液２００ｍｇ「テルモ」 ４％５ｍＬ | 有効 |
+| 628504000 | モルヒネ塩酸塩注射液１０ｍｇ「第一三共」 １％１ｍＬ | 有効 |
+| 620009255 | モルヒネ塩酸塩錠１０ｍｇ「ＤＳＰ」 | 有効 |
+| 610453130 | モルペス細粒２％ | 薬価削除（2026-03-31） |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 細胞毒性
 

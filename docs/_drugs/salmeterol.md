@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 276
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Salmeterol"
 predicted_indications: ["respiratory malformation", "Rienhoff syndrome", "atopic eczema"]
 description: "Salmeterol：予測新適応症は呼吸器奇形 (respiratory malformation)（エビデンスレベル L5）。薬価基準の品目：1 件（現在収載 1 件）"
@@ -79,9 +79,13 @@ TxGNN モデルは**呼吸器奇形 (respiratory malformation)** に有効であ
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620001944 | セレベント５０ディスカス　５０μｇ６０ブリスター | 記載なし | 記載なし（有効） |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620001944 | セレベント５０ディスカス ５０μｇ６０ブリスター | 有効 |
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

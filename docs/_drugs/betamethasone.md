@@ -5,7 +5,7 @@ parent: 中エビデンスレベル
 nav_order: 43
 evidence_level: L4
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Betamethasone"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions"]
 description: "Betamethasone：予測新適応症は毛包性ムチン沈着症 (alopecia mucinosa)（エビデンスレベル L4）。薬価基準の品目：20 件以上"
@@ -76,13 +76,19 @@ TxGNN モデルは**毛包性ムチン沈着症 (alopecia mucinosa)** に有効�
 
 日本では現在、有効な承認が確認されています。以下は主な製品です（一部のみ掲載）。
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 622775800 | ベタメタゾンジプロピオン酸エステル 0.064% 軟膏 | 軟膏 | 乾癬、掌蹠膿疱症、慢性円板状エリテマトーデス、毛孔性紅色粃糠疹、菌状息肉症、天疱瘡群... |
-| 620606101 | ベトネベートクリーム 0.12% | クリーム | 乾癬、掌蹠膿疱症、扁平苔癬、毛孔性紅色粃糠疹、ジベルバラ色粃糠疹、慢性円板状エリテマトーデス... |
-| 620004578 | ベタメタゾン錠 0.5mg「サワイ」 | 錠剤 | 潰瘍性大腸炎、慢性副腎皮質機能不全、亜急性甲状腺炎、関節リウマチ、全身性エリテマトーデス、気管支喘息... |
-| 622070501 | ベタメタゾン酪酸エステルプロピオン酸エステル軟膏 0.05% JG | 軟膏 | 脂漏性皮膚炎、乾癬、ジベル薔薇色粃糠疹、掌蹠膿疱症、慢性円板状エリテマトーデス... |
-| 662640415 | リンデロン-DP 軟膏 0.064% | 軟膏 | 乾癬、掌蹠膿疱症、慢性円板状エリテマトーデス、毛孔性紅色粃糠疹、菌状息肉症、天疱瘡群... |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622775800 | ベタメタゾンジプロピオン酸エステル０．０６４％軟膏 | 有効 |
+| 620606101 | ベトネベートクリーム０．１２％ | 有効 |
+| 620004578 | ベタメタゾン錠０．５ｍｇ「サワイ」 | 有効 |
+| 622070501 | ベタメタゾン酪酸エステルプロピオン酸エステル軟膏０．０５％ＪＧ | 有効 |
+| 662640415 | リンデロン−ＤＰ軟膏 ０．０６４％ | 有効 |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

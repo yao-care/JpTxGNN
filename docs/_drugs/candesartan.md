@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 9
 monitor_inn: "Candesartan"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "pulmonary hypertension", "Prinzmetal angina", "kyphoscoliotic heart disease", "atrophoderma vermiculata", "ulerythema ophryogenesis", "benign prostatic hyperplasia (disease)", "alopecia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Candesartan：予測新適応症は片頭痛 (migraine disorder)（エビデンスレベル L2）。既存適応症：血圧降下薬、アンジオテンシンII受容体拮抗薬"
 ---
 
@@ -95,13 +95,19 @@ TxGNN モデルは**片頭痛 (migraine disorder)** に有効である可能性�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 622876701 | カンデサルタン錠４ｍｇ「武田テバ」 | 錠 | 血圧降下薬, アンジオテンシンII受容体拮抗薬 |
-| 622386701 | カンデサルタン錠１２ｍｇ「ＴＣＫ」 | 錠 | 血圧降下薬, アンジオテンシンII受容体拮抗薬 |
-| 670432011 | ブロプレス錠２　２ｍｇ（選） | 錠 | 血圧降下薬, アンジオテンシンII受容体拮抗薬 |
-| 622369801 | カンデサルタン錠８ｍｇ「ＪＧ」 | 錠 | 血圧降下薬, アンジオテンシンII受容体拮抗薬 |
-| 622390601 | カンデサルタン錠２ｍｇ「サワイ」 | 錠 | 血圧降下薬, アンジオテンシンII受容体拮抗薬 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622876701 | カンデサルタン錠４ｍｇ「武田テバ」 | 有効 |
+| 622386701 | カンデサルタン錠１２ｍｇ「ＴＣＫ」 | 有効 |
+| 670432011 | ブロプレス錠２ ２ｍｇ（選） | 有効 |
+| 622369801 | カンデサルタン錠８ｍｇ「ＪＧ」 | 有効 |
+| 622390601 | カンデサルタン錠２ｍｇ「サワイ」 | 有効 |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

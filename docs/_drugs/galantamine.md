@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Galantamine"
 predicted_indications: ["psychogenic movement disorders", "chronic tic disorder", "primary orthostatic tremor", "extrapyramidal and movement disease", "benign shuddering attacks", "tremor-nystagmus-duodenal ulcer syndrome", "lingual-facial-buccal dyskinesia", "benign paroxysmal tonic upgaze of childhood with ataxia", "acute intermittent porphyria"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Galantamine：予測新適応症は心因性運動障害 (Psychogenic Movement Disorders)（エビデンスレベル L5）。既存適応症：認知症治療薬、アセチルコリンエステラーゼ阻害薬"
 ---
 
@@ -106,13 +106,19 @@ TxGNN モデルは**心因性運動障害 (Psychogenic Movement Disorders)** に
 
 <!-- review:end jp-lic-20261106-galantamine-1 -->
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 622045801 | レミニール錠４ｍｇ（有効） | 錠 4 mg | 認知症治療薬、アセチルコリンエステラーゼ阻害薬 |
-| 622045901 | レミニール錠８ｍｇ（有効） | 錠 8 mg | 認知症治療薬、アセチルコリンエステラーゼ阻害薬 |
-| 622046101 | レミニールＯＤ錠４ｍｇ（有効） | 口腔内崩壊錠 4 mg | － |
-| 622046301 | レミニールＯＤ錠１２ｍｇ（有効） | 口腔内崩壊錠 12 mg | － |
-| 622812501 | ガランタミンＯＤ錠４ｍｇ「サワイ」（有効） | 口腔内崩壊錠 4 mg | － |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622045801 | レミニール錠４ｍｇ | 有効 |
+| 622045901 | レミニール錠８ｍｇ | 有効 |
+| 622046101 | レミニールＯＤ錠４ｍｇ | 有効 |
+| 622046301 | レミニールＯＤ錠１２ｍｇ | 有効 |
+| 622812501 | ガランタミンＯＤ錠４ｍｇ「サワイ」 | 有効 |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 剤形はすべて経口剤です。
 

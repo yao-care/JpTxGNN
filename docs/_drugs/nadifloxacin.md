@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Nadifloxacin"
 predicted_indications: ["malaria"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Nadifloxacin：予測新適応症はマラリア (Malaria)（エビデンスレベル L5）。既存適応症：ざ瘡 (acne)"
 ---
 
@@ -63,9 +63,13 @@ TxGNN モデルは**マラリア (Malaria)** に有効である可能性を予�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620000348 | アクアチム軟膏１％（承認有効） | 軟膏１％ | 記載なし |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620000348 | アクアチム軟膏１％ | 有効 |
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 
@@ -80,7 +84,7 @@ TxGNN モデルは**マラリア (Malaria)** に有効である可能性を予�
 
 <!-- review:begin jp-lic-20261106-nadifloxacin-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「マラリアに対する臨床試験も文献もなく、エビデンスはモデル予測のみ（L5）です。／本剤は外用剤で、日本の承認も整理済みのため、全身性疾患への再利用には大きな課題があります。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 1 件、うち有効 1 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「マラリアに対する臨床試験も文献もなく、エビデンスはモデル予測のみ（L5）です。／本剤は外用剤で、日本の承認も整理済みのため、全身性疾患への再利用には大きな課題があります。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-nadifloxacin-1 -->
 
@@ -99,7 +103,7 @@ TxGNN モデルは**マラリア (Malaria)** に有効である可能性を予�
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「本剤は外用剤で、日本の承認も整理済みのため、全身性疾患への再利用には大きな課題があります」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「本剤は外用剤で、日本の承認も整理済みのため、全身性疾患への再利用には大きな課題があります」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 
 <!-- review:end log -->
 

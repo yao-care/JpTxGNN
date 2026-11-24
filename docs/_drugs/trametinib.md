@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 319
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Trametinib：予測新適応症は脈絡膜欠損症 (Choroideremia)（エビデンスレベル L5）。既存適応症：転移性悪性黒色腫"
 monitor_inn: "Trametinib"
 predicted_indications: ["choroideremia"]
@@ -72,11 +72,15 @@ TxGNN モデルは**脈絡膜欠損症 (Choroideremia)** に有効である可�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 状態 |
-|---------|------|------|------|
-| 622485201 | メキニスト錠2mg | 錠 2mg | 承認有効 |
-| 622485101 | メキニスト錠0.5mg | 錠 0.5mg | 承認有効 |
-| 622974701 | メキニスト小児用ドライシロップ4.7mg | シロップ 4.7mg | 承認有効 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622485201 | メキニスト錠２ｍｇ | 有効 |
+| 622485101 | メキニスト錠０．５ｍｇ | 有効 |
+| 622974701 | メキニスト小児用ドライシロップ４．７ｍｇ | 有効 |
+
+<!-- licenses:end -->
 
 ## 細胞毒性
 
@@ -116,7 +120,7 @@ TxGNN モデルは**脈絡膜欠損症 (Choroideremia)** に有効である可�
 
 <!-- review:begin jp-lic-20261106-trametinib-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「日本では承認が整理済みのため、現在の供給・承認状況の確認／優先度の高い黒色腫亜型（非皮膚黒色腫など）を並行して検討すること」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 3 件、うち有効 3 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「日本では承認が整理済みのため、現在の供給・承認状況の確認／優先度の高い黒色腫亜型（非皮膚黒色腫など）を並行して検討すること」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-trametinib-1 -->
 
@@ -128,7 +132,7 @@ TxGNN モデルは**脈絡膜欠損症 (Choroideremia)** に有効である可�
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「日本では承認が整理済みのため、現在の供給・承認状況の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本では承認が整理済みのため、現在の供給・承認状況の確認」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 
 <!-- review:end log -->
 

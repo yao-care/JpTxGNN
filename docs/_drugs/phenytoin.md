@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 244
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Phenytoin：予測新適応症は三叉神経腫瘍 (Trigeminal Nerve Neoplasm)（エビデンスレベル L5）。既存適応症：抗てんかん薬"
 monitor_inn: "Phenytoin"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
@@ -74,13 +74,19 @@ TxGNN モデルは**三叉神経腫瘍 (Trigeminal Nerve Neoplasm)** に有効�
 
 国内では販売されており、8件の承認のうち8件が有効です。
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 610421006 | アレビアチン散１０％ | 散１０％ | 記載なし |
-| 611130079 | フェニトイン散　１０％ | 散　１０％ | 抗てんかん薬 |
-| 611130046 | フェニトイン錠　２５ｍｇ | 錠　２５ｍｇ | 抗てんかん薬 |
-| 610421009 | アレビアチン錠２５ｍｇ | 錠２５ｍｇ | 記載なし |
-| 620000188 | アレビアチン注２５０ｍｇ　５％５ｍＬ | 注２５０ｍｇ　５％５ｍＬ | 記載なし |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 610421006 | アレビアチン散１０％ | 有効 |
+| 611130079 | フェニトイン散 １０％ | 有効 |
+| 611130046 | フェニトイン錠 ２５ｍｇ | 有効 |
+| 610421009 | アレビアチン錠２５ｍｇ | 有効 |
+| 620000188 | アレビアチン注２５０ｍｇ ５％５ｍＬ | 有効 |
+
+上表はデータ上の 8 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 
@@ -98,7 +104,7 @@ TxGNN モデルは**三叉神経腫瘍 (Trigeminal Nerve Neoplasm)** に有効�
 
 <!-- review:begin jp-lic-20261106-phenytoin-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「三叉神経腫瘍に対しては臨床試験・直接的な文献がなく、機序的にも抗腫瘍効果を支持する根拠がありません。エビデンスはモデル予測のみ（L5）で、日本ではすべての承認が整理済みです。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 8 件、うち有効 8 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「三叉神経腫瘍に対しては臨床試験・直接的な文献がなく、機序的にも抗腫瘍効果を支持する根拠がありません。エビデンスはモデル予測のみ（L5）で、日本ではすべての承認が整理済みです。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-phenytoin-1 -->
 
@@ -116,7 +122,7 @@ TxGNN モデルは**三叉神経腫瘍 (Trigeminal Nerve Neoplasm)** に有効�
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「エビデンスはモデル予測のみ（L5）で、日本ではすべての承認が整理済みです」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「エビデンスはモデル予測のみ（L5）で、日本ではすべての承認が整理済みです」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Extended Phenytoin Sodium (phenytoin sodium) prescribing information, REMEDYREPACK INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=363cd347-d25e-42b9-9ce7-30642f3cb353) |
 
 <!-- review:end log -->

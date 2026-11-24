@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 171
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ketoprofen：予測新適応症は肢端中間異形成症 Hunter-Thompson 型 (acromesomelic dysplasia…（エビデンスレベル L5）。既存適応症：鎮痛薬・抗炎症薬・解熱薬（痛風発作、関節リウマチ）"
 monitor_inn: "Ketoprofen"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "WHIM syndrome", "juvenile arthritis due to defect in LACC1"]
@@ -65,13 +65,19 @@ TxGNN モデルは**肢端中間異形成症 Hunter-Thompson 型 (acromesomelic 
 
 日本では、ケトプロフェンは販売されており、20 件の承認が有効です。主な承認は以下のとおりです。
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620007796 | ミルタックスパップ30mg 10cm×14cm | パップ剤 | 鎮痛薬、抗炎症薬、解熱薬、シクロオキシゲナーゼ阻害薬（痛風発作、関節リウマチ） |
-| 620007804 | モーラステープL40mg 10cm×14cm | テープ剤 | 鎮痛薬、抗炎症薬、解熱薬、シクロオキシゲナーゼ阻害薬（痛風発作、関節リウマチ） |
-| 622906000 | ケトプロフェン50mg坐剤 | 坐剤 | 鎮痛薬、抗炎症薬、解熱薬、シクロオキシゲナーゼ阻害薬（痛風発作、関節リウマチ） |
-| 622748900 | ケトプロフェン50mg注射液 | 注射液 | （記載なし） |
-| 620114603 | ケトプロフェン坐剤50mg「日新」 | 坐剤 | 鎮痛薬、抗炎症薬、解熱薬、シクロオキシゲナーゼ阻害薬（痛風発作、関節リウマチ） |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620007796 | ミルタックスパップ３０ｍｇ １０ｃｍ×１４ｃｍ | 薬価削除（2026-03-31） |
+| 620007804 | モーラステープＬ４０ｍｇ １０ｃｍ×１４ｃｍ | 有効 |
+| 622906000 | ケトプロフェン５０ｍｇ坐剤 | 有効 |
+| 622748900 | ケトプロフェン５０ｍｇ注射液 | 薬価削除（2026-03-31） |
+| 620114603 | ケトプロフェン坐剤５０ｍｇ「日新」 | 有効 |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

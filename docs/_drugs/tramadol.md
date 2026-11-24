@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 318
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Tramadol"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "juvenile idiopathic arthritis", "juvenile arthritis due to defect in LACC1", "rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis"]
 description: "Tramadol：予測新適応症は先端中節骨異形成症 Hunter-Thompson 型 (acromesomelic dysplasia, Hunter-Thompson type)（エビデンスレベル L5）。薬価基準の品目：6 件（現在収載 6 件）"
@@ -68,13 +68,19 @@ TxGNN モデルは **先端中節骨異形成症 Hunter-Thompson 型 (acromesome
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 622914201 | トラマドール塩酸塩ＯＤ錠５０ｍｇ「ＫＯ」 | 錠５０ｍｇ「ＫＯ」 | 記載なし（有効） |
-| 672366101 | トラマールＯＤ錠２５ｍｇ（選） | 錠２５ｍｇ（選） | 記載なし（有効） |
-| 622366201 | トラマールＯＤ錠５０ｍｇ | 錠５０ｍｇ | 記載なし（有効） |
-| 672366201 | トラマールＯＤ錠５０ｍｇ（選） | 錠５０ｍｇ（選） | 記載なし（有効） |
-| 622914101 | トラマドール塩酸塩ＯＤ錠２５ｍｇ「ＫＯ」 | 錠２５ｍｇ「ＫＯ」 | 記載なし（有効） |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622914201 | トラマドール塩酸塩ＯＤ錠５０ｍｇ「ＫＯ」 | 有効 |
+| 672366101 | トラマールＯＤ錠２５ｍｇ（選） | 有効 |
+| 622366201 | トラマールＯＤ錠５０ｍｇ | 有効 |
+| 672366201 | トラマールＯＤ錠５０ｍｇ（選） | 有効 |
+| 622914101 | トラマドール塩酸塩ＯＤ錠２５ｍｇ「ＫＯ」 | 有効 |
+
+上表はデータ上の 6 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 130
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Felbinac：予測新適応症はbrachyolmia-amelogenesis imperfecta syndrome（エビデンスレベル L5）。既存適応症：鎮痛薬、抗炎症薬、シクロオキシゲナーゼ阻害薬"
 monitor_inn: "felbinac"
 predicted_indications: ["brachyolmia-amelogenesis imperfecta syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "rheumatoid nodulosis", "combined immunodeficiency due to moesin deficiency", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "juvenile idiopathic arthritis"]
@@ -63,19 +63,25 @@ TxGNN モデルは **brachyolmia-amelogenesis imperfecta syndrome** に有効で
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 621521801 | フェルビナクテープ70mg「久光」 10cm×14cm | テープ | 鎮痛薬、抗炎症薬、シクロオキシゲナーゼ阻害薬 |
-| 622036801 | セルタッチテープ70 10cm×14cm | テープ | 鎮痛薬、抗炎症薬、シクロオキシゲナーゼ阻害薬 |
-| 621478701 | フェルビナクテープ35mg「三笠」 7cm×10cm | テープ | 鎮痛薬、抗炎症薬、シクロオキシゲナーゼ阻害薬 |
-| 621981802 | フェルビナクテープ35mg「NP」 7cm×10cm | テープ | 鎮痛薬、抗炎症薬、シクロオキシゲナーゼ阻害薬 |
-| 620646303 | フェルビナクテープ70mg「NP」 10cm×14cm | テープ | 鎮痛薬、抗炎症薬、シクロオキシゲナーゼ阻害薬 |
+<!-- licenses:begin -->
 
-上記を含む 9 件の承認のうち 8 件が有効です（1 件は薬価基準から削除済み）。
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 621521801 | フェルビナクテープ７０ｍｇ「久光」 １０ｃｍ×１４ｃｍ | 有効 |
+| 622036801 | セルタッチテープ７０ １０ｃｍ×１４ｃｍ | 有効 |
+| 621478701 | フェルビナクテープ３５ｍｇ「三笠」 ７ｃｍ×１０ｃｍ | 有効 |
+| 621981802 | フェルビナクテープ３５ｍｇ「ＮＰ」 ７ｃｍ×１０ｃｍ | 有効 |
+| 620646303 | フェルビナクテープ７０ｍｇ「ＮＰ」 １０ｃｍ×１４ｃｍ | 有効 |
+
+上表はデータ上の 9 件のうち 5 件です。
+
+<!-- licenses:end -->
+
+上記を含む承認には有効なものと薬価基準から削除済みのものがあります（件数はクイック概要を参照）。
 
 <!-- review:begin jp-lic-20261117-felbinac-1 -->
 
-> **確認による訂正（2026-11-17）**：元の記載は「上記を含む 9 件の承認はすべて有効です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 9 件のうち有効（収載中）は 8 件で、1 件は経過措置期間満了などにより薬価基準から削除されています（672036801（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+> **確認による訂正（2026-11-17）**：元の記載は「上記を含む 9 件の承認はすべて有効です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、次の承認が経過措置期間満了などにより薬価基準から削除されています（672036801（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
 
 <!-- review:end jp-lic-20261117-felbinac-1 -->
 
@@ -90,11 +96,11 @@ TxGNN モデルは **brachyolmia-amelogenesis imperfecta syndrome** に有効で
 **理由：**
 - 予測はモデルスコアのみに基づき、臨床試験も文献もありません（L5）。
 - 上位候補は遺伝性骨格異形成で、COX 阻害との機序的関連が認められません。
-- 国内で販売されており、9 件の承認のうち 8 件が有効です。
+- 国内で販売されており、有効な承認があります（件数はクイック概要を参照）。
 
 <!-- review:begin jp-lic-20261117-felbinac-2 -->
 
-> **確認による訂正（2026-11-17）**：元の記載は「国内で販売されており、9 件の承認すべてが有効です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 9 件のうち有効（収載中）は 8 件で、1 件は経過措置期間満了などにより薬価基準から削除されています（672036801（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+> **確認による訂正（2026-11-17）**：元の記載は「国内で販売されており、9 件の承認すべてが有効です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、次の承認が経過措置期間満了などにより薬価基準から削除されています（672036801（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
 
 <!-- review:end jp-lic-20261117-felbinac-2 -->
 
@@ -113,8 +119,8 @@ TxGNN モデルは **brachyolmia-amelogenesis imperfecta syndrome** に有効で
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
-| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 
 <!-- review:end log -->
 

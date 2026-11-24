@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 327
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Troxipide：予測新適応症は食道炎 (Esophagitis)（エビデンスレベル L5）。既存適応症：消化性潰瘍薬（胃潰瘍）"
 monitor_inn: "troxipide"
 predicted_indications: ["esophagitis (disease)", "hiatus hernia (disease)", "achlorhydria", "gastric dilatation", "Dieulafoy lesion", "pylorospasm", "cascade stomach"]
@@ -86,15 +86,13 @@ TxGNN は食道炎のほかにも、次の疾患を上位候補として予測�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 621371211（薬価削除：2026-03-31） | トロキシピド錠１００ｍｇ「オーハラ」 | 錠剤（経口） | 消化性潰瘍薬（胃潰瘍） |
+<!-- licenses:begin -->
 
-<!-- review:begin jp-row-20261117-troxipide-1 -->
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 621371211 | トロキシピド錠１００ｍｇ「オーハラ」 | 薬価削除（2026-03-31） |
 
-> **確認による訂正（2026-11-17）**：元の記載は「621371211（取消）／トロキシピド錠１００ｍｇ「オーハラ」／錠剤（経口）／消化性潰瘍薬（胃潰瘍）」でした。訂正：医薬品マスター（薬価基準収載品目）では 621371211 は廃止年月日 2026-03-31（経過措置期間満了）で薬価基準から削除され、2026-11-12 の全件ファイルに収載されていません。承認が取り消されたことはこのデータでは確認できないため、「取消」を「薬価削除」に直しました。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
-
-<!-- review:end jp-row-20261117-troxipide-1 -->
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 
@@ -109,7 +107,7 @@ TxGNN は食道炎のほかにも、次の疾患を上位候補として予測�
 
 <!-- review:begin jp-lic-20261106-troxipide-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「食道炎については TxGNN の予測スコアが高いものの、臨床試験も文献もなく、エビデンスは L5（モデル予測のみ）です。また、日本の承認は取消済みで、現在市販されている製品はありません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 1 件、うち有効 1 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「食道炎については TxGNN の予測スコアが高いものの、臨床試験も文献もなく、エビデンスは L5（モデル予測のみ）です。また、日本の承認は取消済みで、現在市販されている製品はありません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-troxipide-1 -->
 
@@ -128,8 +126,8 @@ TxGNN は食道炎のほかにも、次の疾患を上位候補として予測�
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「また、日本の承認は取消済みで、現在市販されている製品はありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-17 | 表：621371211 は「取消」ではなく薬価基準から削除 | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-06 | 削除：「また、日本の承認は取消済みで、現在市販されている製品はありません」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-17 | 表：621371211 は「取消」ではなく薬価基準から削除 | プログラム生成の承認情報表に置き換え（元の対応：訂正） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 
 <!-- review:end log -->
 

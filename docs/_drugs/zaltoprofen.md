@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "zaltoprofen"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "headache disorder", "trigeminal autonomic cephalalgia", "tendinitis", "idiopathic granulomatous myositis"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Zaltoprofen：予測新適応症は片頭痛 (migraine disorder)（エビデンスレベル L5）。薬価基準の品目：8 件（現在収載 7 件）"
 ---
 
@@ -72,21 +72,27 @@ TxGNN モデルは**片頭痛 (migraine disorder)** に有効である可能性�
 
 ## 日本市販情報
 
-承認は全 8 件で、いずれも単剤です。うち 7 件が有効です（1 件は薬価基準から削除済み）。以下は主要な 5 件です。
+承認は単剤のみで、有効なものと薬価基準から削除済みのものがあります（件数はクイック概要を参照）。以下は主要な 5 件です。
 
 <!-- review:begin jp-lic-20261117-zaltoprofen-1 -->
 
-> **確認による訂正（2026-11-17）**：元の記載は「承認は全 8 件で、いずれも単剤・有効です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 8 件のうち有効（収載中）は 7 件で、1 件は経過措置期間満了などにより薬価基準から削除されています（671140845（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+> **確認による訂正（2026-11-17）**：元の記載は「承認は全 8 件で、いずれも単剤・有効です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、次の承認が経過措置期間満了などにより薬価基準から削除されています（671140845（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
 
 <!-- review:end jp-lic-20261117-zaltoprofen-1 -->
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 611140845 | ペオン錠80 80mg | 錠 80mg | 鎮痛薬・抗炎症薬・COX-2 阻害薬／関節リウマチ |
-| 611140844 | ソレトン錠80 80mg | 錠 80mg | 鎮痛薬・抗炎症薬・COX-2 阻害薬／関節リウマチ |
-| 621634301 | ザルトプロフェン錠80mg「サワイ」 | 錠 80mg | 鎮痛薬・抗炎症薬・COX-2 阻害薬／関節リウマチ |
-| 621640501 | ザルトプロフェン錠80mg「YD」 | 錠 80mg | 鎮痛薬・抗炎症薬・COX-2 阻害薬／関節リウマチ |
-| 620002516 | ザルトプロフェン錠80mg「日医工」 | 錠 80mg | 鎮痛薬・抗炎症薬・COX-2 阻害薬／関節リウマチ |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 611140845 | ペオン錠８０ ８０ｍｇ | 有効 |
+| 611140844 | ソレトン錠８０ ８０ｍｇ | 有効 |
+| 621634301 | ザルトプロフェン錠８０ｍｇ「サワイ」 | 有効 |
+| 621640501 | ザルトプロフェン錠８０ｍｇ「ＹＤ」 | 有効 |
+| 620002516 | ザルトプロフェン錠８０ｍｇ「日医工」 | 有効 |
+
+上表はデータ上の 8 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 
@@ -117,7 +123,7 @@ TxGNN モデルは**片頭痛 (migraine disorder)** に有効である可能性�
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 
 <!-- review:end log -->
 

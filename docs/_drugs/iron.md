@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Iron"
 predicted_indications: ["vitamin B12- and folate-independent constitutional megaloblastic anemia", "non-syndromic esophageal malformation", "biotin metabolic disease", "vitamin deficiency disorder", "esophageal disease"]
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 description: "Iron：予測新適応症はVitamin B12- and folate-independent constitutional megaloblastic anemia（エビデンスレベル L5）。薬価基準の品目：7 件（現在収載 7 件）"
 ---
 
@@ -69,13 +69,19 @@ TxGNN モデルは**ビタミン B12・葉酸非依存性体質性巨赤芽球�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620730404 | クエン酸第一鉄Ｎａ錠５０ｍｇ「ＮＩＧ」　鉄５０ｍｇ | 錠 | 貧血治療薬, 造血薬, 鉄補充薬 |
-| 620730201 | クエン酸第一鉄Ｎａ錠５０ｍｇ「サワイ」　鉄５０ｍｇ | 錠 | 貧血治療薬, 造血薬, 鉄補充薬 |
-| 622288601 | クエン酸第一鉄Ｎａ錠５０ｍｇ「ＪＧ」　鉄５０ｍｇ | 錠 | 貧血治療薬, 造血薬, 鉄補充薬 |
-| 620005924 | インクレミンシロップ５％ | シロップ | 貧血治療薬, 造血薬, 鉄補充薬 |
-| 613220039 | フェロミア錠５０ｍｇ　鉄５０ｍｇ | 錠 | 貧血治療薬, 造血薬, 鉄補充薬 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620730404 | クエン酸第一鉄Ｎａ錠５０ｍｇ「ＮＩＧ」 鉄５０ｍｇ | 有効 |
+| 620730201 | クエン酸第一鉄Ｎａ錠５０ｍｇ「サワイ」 鉄５０ｍｇ | 有効 |
+| 622288601 | クエン酸第一鉄Ｎａ錠５０ｍｇ「ＪＧ」 鉄５０ｍｇ | 有効 |
+| 620005924 | インクレミンシロップ５％ | 有効 |
+| 613220039 | フェロミア錠５０ｍｇ 鉄５０ｍｇ | 有効 |
+
+上表はデータ上の 7 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

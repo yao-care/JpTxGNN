@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 212
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Mirtazapine"
 predicted_indications: ["Ohdo syndrome and variants", "blepharophimosis - intellectual disability syndrome, Ohdo type", "benign paroxysmal torticollis of infancy"]
 description: "Mirtazapine：予測新適応症はOhdo 症候群および関連型 (Ohdo syndrome and variants)（エビデンスレベル L5）。薬価基準の品目：20 件以上"
@@ -91,13 +91,19 @@ TxGNN モデルの予測スコア第 1 位は **Ohdo 症候群および関連型
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 672482601 | レメロン錠30mg（選） | 錠 | 抗うつ薬、セロトニン受容体拮抗薬（有効） |
-| 672497001 | リフレックス錠30mg（選） | 錠 | 抗うつ薬、セロトニン受容体拮抗薬（有効） |
-| 622656101 | ミルタザピン錠30mg「サワイ」 | 錠 | 抗うつ薬、セロトニン受容体拮抗薬（有効） |
-| 622660302 | ミルタザピン錠15mg「KMP」 | 錠 | 抗うつ薬、セロトニン受容体拮抗薬（有効） |
-| 622667901 | ミルタザピン錠30mg「明治」 | 錠 | 抗うつ薬、セロトニン受容体拮抗薬（有効） |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 672482601 | レメロン錠３０ｍｇ（選） | 有効 |
+| 672497001 | リフレックス錠３０ｍｇ（選） | 有効 |
+| 622656101 | ミルタザピン錠３０ｍｇ「サワイ」 | 有効 |
+| 622660302 | ミルタザピン錠１５ｍｇ「ＫＭＰ」 | 有効 |
+| 622667901 | ミルタザピン錠３０ｍｇ「明治」 | 有効 |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

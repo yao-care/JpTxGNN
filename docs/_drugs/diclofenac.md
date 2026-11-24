@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 93
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Diclofenac：予測新適応症は頭皮の単純性乏毛症 (hypotrichosis simplex of the scalp)（エビデンスレベル L5）。既存適応症：鎮痛薬、抗炎症薬、解熱薬、シクロオキシゲナーゼ阻害薬"
 monitor_inn: "Diclofenac"
 predicted_indications: ["hypotrichosis simplex of the scalp", "acromesomelic dysplasia, Hunter-Thompson type", "pseudoachondroplasia", "brachyolmia", "brachyolmia-amelogenesis imperfecta syndrome", "congenital hypotrichosis milia", "myosclerosis", "diffuse alopecia areata", "juvenile idiopathic arthritis", "WHIM syndrome"]
@@ -71,13 +71,19 @@ TxGNN モデルは**頭皮の単純性乏毛症 (hypotrichosis simplex of the sc
 
 日本で販売されており、有効な承認が 20 件あります。下表は主な 5 件です。
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 622780100 | ジクロフェナクナトリウム１％クリーム | クリーム | 鎮痛薬、抗炎症薬、解熱薬、シクロオキシゲナーゼ阻害薬 |
-| 621939701 | ジクロフェナクナトリウム坐剤５０ｍｇ「ＪＧ」 | 坐剤 | 鎮痛薬、抗炎症薬、解熱薬、シクロオキシゲナーゼ阻害薬 |
-| 622772200 | ジクロフェナクナトリウム０．１％１ｍＬ点眼液 | 液 | 鎮痛薬、抗炎症薬、解熱薬、シクロオキシゲナーゼ阻害薬 |
-| 620084701 | ジクロフェナクナトリウム坐剤５０ｍｇ「ゼリア」 | 坐剤 | 鎮痛薬、抗炎症薬、解熱薬、シクロオキシゲナーゼ阻害薬 |
-| 620079311 | ジクロフェナクＮａ錠２５ｍｇ「ＴＣＫ」 | 錠 | 記載なし |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622780100 | ジクロフェナクナトリウム１％クリーム | 有効 |
+| 621939701 | ジクロフェナクナトリウム坐剤５０ｍｇ「ＪＧ」 | 有効 |
+| 622772200 | ジクロフェナクナトリウム０．１％１ｍＬ点眼液 | 有効 |
+| 620084701 | ジクロフェナクナトリウム坐剤５０ｍｇ「ゼリア」 | 有効 |
+| 620079311 | ジクロフェナクＮａ錠２５ｍｇ「ＴＣＫ」 | 有効 |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

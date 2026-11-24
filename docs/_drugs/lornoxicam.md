@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "lornoxicam"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "headache disorder", "trigeminal autonomic cephalalgia", "tendinitis", "idiopathic granulomatous myositis"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Lornoxicam：予測新適応症は片頭痛 (migraine disorder)（エビデンスレベル L5）。薬価基準の品目：6 件（現在収載 4 件）"
 ---
 
@@ -77,13 +77,19 @@ TxGNN モデルは**片頭痛 (migraine disorder)** に有効である可能性�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 610443080 | ロルカム錠４ｍｇ | 錠４ｍｇ | 鎮痛薬, 抗炎症薬, シクロオキシゲナーゼ2阻害薬 疾患 関節リウマチ [DS:H00630] |
-| 610443079 | ロルカム錠２ｍｇ | 錠２ｍｇ | 鎮痛薬, 抗炎症薬, シクロオキシゲナーゼ2阻害薬 疾患 関節リウマチ [DS:H00630] |
-| 670443080 | ロルカム錠４ｍｇ（選） | 錠４ｍｇ（選） | 鎮痛薬, 抗炎症薬, シクロオキシゲナーゼ2阻害薬 疾患 関節リウマチ [DS:H00630] |
-| 622665801 | ロルノキシカム錠４ｍｇ「ＫＯ」 | 錠４ｍｇ「ＫＯ」 | 鎮痛薬, 抗炎症薬, シクロオキシゲナーゼ2阻害薬 疾患 関節リウマチ [DS:H00630] |
-| 622665701 | ロルノキシカム錠２ｍｇ「ＫＯ」 | 錠２ｍｇ「ＫＯ」 | 鎮痛薬, 抗炎症薬, シクロオキシゲナーゼ2阻害薬 疾患 関節リウマチ [DS:H00630] |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 610443080 | ロルカム錠４ｍｇ | 有効 |
+| 610443079 | ロルカム錠２ｍｇ | 有効 |
+| 670443080 | ロルカム錠４ｍｇ（選） | 薬価削除（2026-03-31） |
+| 622665801 | ロルノキシカム錠４ｍｇ「ＫＯ」 | 有効 |
+| 622665701 | ロルノキシカム錠２ｍｇ「ＫＯ」 | 有効 |
+
+上表はデータ上の 6 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

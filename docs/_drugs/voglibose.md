@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 339
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Voglibose"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "autoimmune oophoritis", "diffuse alopecia areata", "IDDM 1", "Wolman disease with hypolipoproteinemia and acanthocytosis", "familial apolipoprotein C-II deficiency", "cholesteryl ester storage disease", "opsismodysplasia"]
 description: "Voglibose：予測新適応症は頭皮の単純性乏毛症 (hypotrichosis simplex of the scalp)（スコア第1位）。エビデンスのある代表候補は1型糖尿病 (hypotrichosis simplex of the scalp)（エビデンスレベル L5）。薬価基準の品目：21 件以上"
@@ -86,13 +86,19 @@ ChEMBL（EMBL-EBI）に登録されている Voglibose の作用機序（非公�
 
 <!-- review:end jp-lic-20261106-voglibose-1 -->
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 670406390 | ベイスン錠0.2（0.2 mg） | 錠 | 糖尿病治療薬、α-グルコシダーゼ阻害薬、2型糖尿病 |
-| 622662801 | ボグリボース錠0.3 mg「武田テバ」 | 錠 | 糖尿病治療薬、α-グルコシダーゼ阻害薬、2型糖尿病 |
-| 621689001 | ボグリボース錠0.2 mg「YD」 | 錠 | 糖尿病治療薬、α-グルコシダーゼ阻害薬、2型糖尿病 |
-| 621690402 | ボグリボース錠0.2 mg「杏林」 | 錠 | 糖尿病治療薬、α-グルコシダーゼ阻害薬、2型糖尿病 |
-| 621673601 | ボグリボース錠0.3 mg「日医工」 | 錠 | 糖尿病治療薬、α-グルコシダーゼ阻害薬、2型糖尿病 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 670406390 | ベイスン錠０．２ ０．２ｍｇ（選） | 有効 |
+| 622662801 | ボグリボース錠０．３ｍｇ「武田テバ」 | 有効 |
+| 621689001 | ボグリボース錠０．２ｍｇ「ＹＤ」 | 有効 |
+| 621690402 | ボグリボース錠０．２ｍｇ「杏林」 | 有効 |
+| 621673601 | ボグリボース錠０．３ｍｇ「日医工」 | 有効 |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

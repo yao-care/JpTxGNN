@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "alimemazine"
 predicted_indications: ["IgE responsiveness, atopic", "nasal cavity disease", "recalcitrant atopic dermatitis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Alimemazine：予測新適応症はアトピー性 IgE 反応性 (IgE responsiveness, atopic)（エビデンスレベル L5）。薬価基準の品目：1 件（現在収載 1 件）。ナレッジグラフ上の記録された関係：血管性浮腫、アレルギー性鼻炎、血管運動性鼻炎、咽頭炎、かぜ…"
 ---
 
@@ -66,9 +66,13 @@ TxGNN は他に次の候補も挙げています（いずれもエビデンス�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620006831 | アリメジンシロップ０．０５％ | シロップ０．０５％ | 今回のデータに記載なし |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620006831 | アリメジンシロップ０．０５％ | 有効 |
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Etoposide"
 predicted_indications: ["well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "Ewing sarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Etoposide：予測新適応症は高分化型胎児型肺腺癌 (well-differentiated fetal adenocarcinoma of the lung)（エビデンスレベル L5）。薬価基準の品目：4 件（現在収載 3 件）"
 ---
 
@@ -72,12 +72,16 @@ TxGNN モデルは**高分化型胎児型肺腺癌 (well-differentiated fetal ad
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 |
-|---------|------|------|
-| 622101703 | エトポシド点滴静注１００ｍｇ「ＮＩＧ」　５ｍＬ | 注１００ｍｇ「ＮＩＧ」　５ｍＬ |
-| 622903600 | エトポシド１００ｍｇ５ｍＬ注射液 | 注射液 |
-| 620008173 | エトポシド点滴静注液１００ｍｇ「サンド」　５ｍＬ | 注液１００ｍｇ「サンド」　５ｍＬ |
-| 622220501 | エトポシド点滴静注液１００ｍｇ「ＳＮ」　５ｍＬ | 注液１００ｍｇ「ＳＮ」　５ｍＬ |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622101703 | エトポシド点滴静注１００ｍｇ「ＮＩＧ」 ５ｍＬ | 有効 |
+| 622903600 | エトポシド１００ｍｇ５ｍＬ注射液 | 薬価削除（2026-03-31） |
+| 620008173 | エトポシド点滴静注液１００ｍｇ「サンド」 ５ｍＬ | 有効 |
+| 622220501 | エトポシド点滴静注液１００ｍｇ「ＳＮ」 ５ｍＬ | 有効 |
+
+<!-- licenses:end -->
 
 ## 細胞毒性
 

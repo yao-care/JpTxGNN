@@ -5,7 +5,7 @@ parent: 中エビデンスレベル
 nav_order: 170
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ketoconazole：予測新適応症は尋常性ざ瘡 (acne)（エビデンスレベル L4）。既存適応症：白癬、カンジダ症、癜風、脂漏性皮膚炎"
 monitor_inn: "ketoconazole"
 predicted_indications: ["acne (disease)"]
@@ -83,21 +83,27 @@ TxGNN モデルは**尋常性ざ瘡 (acne)** に有効である可能性を予�
 
 ## 日本市販情報
 
-現在、日本国内で市販されており、7件の承認のうち6件が有効です（1件は薬価基準から削除済み）。
+現在、日本国内で市販されており、承認には有効なものと薬価基準から削除済みのものがあります（件数はクイック概要を参照）。
 
 <!-- review:begin jp-lic-20261117-ketoconazole-1 -->
 
-> **確認による訂正（2026-11-17）**：元の記載は「7件の承認のうち7件が有効です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 7 件のうち有効（収載中）は 6 件で、1 件は経過措置期間満了などにより薬価基準から削除されています（622781200（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+> **確認による訂正（2026-11-17）**：元の記載は「7件の承認のうち7件が有効です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、次の承認が経過措置期間満了などにより薬価基準から削除されています（622781200（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
 
 <!-- review:end jp-lic-20261117-ketoconazole-1 -->
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 622781200 | ケトコナゾール２％クリーム | クリーム | 白癬、カンジダ症、癜風、脂漏性皮膚炎 |
-| 670005277 | ニゾラールクリーム２％（選） | クリーム | 白癬、カンジダ症、癜風、脂漏性皮膚炎 |
-| 622024501 | ケトコナゾールクリーム２％「ＪＧ」 | クリーム | 白癬、カンジダ症、癜風、脂漏性皮膚炎 |
-| 620005277 | ニゾラールクリーム２％ | クリーム | 白癬、カンジダ症、癜風、脂漏性皮膚炎 |
-| 621654304 | ケトコナゾールクリーム２％「ＮＲ」 | クリーム | 白癬、カンジダ症、癜風、脂漏性皮膚炎 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622781200 | ケトコナゾール２％クリーム | 薬価削除（2026-03-31） |
+| 670005277 | ニゾラールクリーム２％（選） | 有効 |
+| 622024501 | ケトコナゾールクリーム２％「ＪＧ」 | 有効 |
+| 620005277 | ニゾラールクリーム２％ | 有効 |
+| 621654304 | ケトコナゾールクリーム２％「ＮＲ」 | 有効 |
+
+上表はデータ上の 7 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 
@@ -118,7 +124,7 @@ TxGNN モデルは**尋常性ざ瘡 (acne)** に有効である可能性を予�
 
 <!-- review:begin jp-lic-20261106-ketoconazole-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「予測スコアは高いものの、エビデンスは前臨床研究と、結果未報告の小規模試験 1 件（52 例）にとどまります（L4）。また、日本では現在市販中の承認がなく、添付文書に基づく安全性評価も未完了です。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 7 件、うち有効 7 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「予測スコアは高いものの、エビデンスは前臨床研究と、結果未報告の小規模試験 1 件（52 例）にとどまります（L4）。また、日本では現在市販中の承認がなく、添付文書に基づく安全性評価も未完了です。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-ketoconazole-1 -->
 
@@ -137,8 +143,8 @@ TxGNN モデルは**尋常性ざ瘡 (acne)** に有効である可能性を予�
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「また、日本では現在市販中の承認がなく、添付文書に基づく安全性評価も未完了です」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-06 | 削除：「また、日本では現在市販中の承認がなく、添付文書に基づく安全性評価も未完了です」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: ketoconazole prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4baebcab-a237-42c0-9183-6f447a44e371) |
 
 <!-- review:end log -->

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Carfilzomib"
 predicted_indications: ["CMM7", "pediatric leptomeningeal melanoma", "epithelioid cell uveal melanoma", "vulvar melanoma (disease)", "melanoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Carfilzomib：予測新適応症はCMM7（エビデンスレベル L5）。既存適応症：形質細胞性骨髄腫（多発性骨髄腫）"
 ---
 
@@ -88,10 +88,14 @@ CMM7 に関する文献はありません。以下は、予測第 5 位のメラ
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 622509601 | カイプロリス点滴静注用４０ｍｇ（有効） | 注用４０ｍｇ | 記載なし |
-| 622509501 | カイプロリス点滴静注用１０ｍｇ（有効） | 注用１０ｍｇ | 記載なし |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622509601 | カイプロリス点滴静注用４０ｍｇ | 有効 |
+| 622509501 | カイプロリス点滴静注用１０ｍｇ | 有効 |
+
+<!-- licenses:end -->
 
 ## 細胞毒性
 
@@ -118,7 +122,7 @@ CMM7 に関する文献はありません。以下は、予測第 5 位のメラ
 
 <!-- review:begin jp-lic-20261106-carfilzomib-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「CMM7 に至っては機序的根拠もないため、現時点では評価を進める根拠が不十分です。さらに、日本の販売承認はすでに取り消されており、添付文書の安全性情報も確認できていません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 2 件、うち有効 2 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「CMM7 に至っては機序的根拠もないため、現時点では評価を進める根拠が不十分です。さらに、日本の販売承認はすでに取り消されており、添付文書の安全性情報も確認できていません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-carfilzomib-1 -->
 
@@ -130,7 +134,7 @@ CMM7 に関する文献はありません。以下は、予測第 5 位のメラ
 
 <!-- review:begin jp-lic-20261106-carfilzomib-2 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「メラノーマ（特にぶどう膜型など亜型）での追加の前臨床試験（in vivo など）／日本での販売承認取り消しの経緯の確認（他剤形・他社での提供状況を含む）」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 2 件、うち有効 2 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「メラノーマ（特にぶどう膜型など亜型）での追加の前臨床試験（in vivo など）／日本での販売承認取り消しの経緯の確認（他剤形・他社での提供状況を含む）」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-carfilzomib-2 -->
 
@@ -142,8 +146,8 @@ CMM7 に関する文献はありません。以下は、予測第 5 位のメラ
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「さらに、日本の販売承認はすでに取り消されており、添付文書の安全性情報も確認できていません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-06 | 削除：「日本での販売承認取り消しの経緯の確認（他剤形・他社での提供状況を含む」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「さらに、日本の販売承認はすでに取り消されており、添付文書の安全性情報も確認できていません」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本での販売承認取り消しの経緯の確認（他剤形・他社での提供状況を含む」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Kyprolis (carfilzomib) prescribing information, Onyx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ea66eb30-e665-4693-99a1-a9d3b4bbe2d6) |
 
 <!-- review:end log -->

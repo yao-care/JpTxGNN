@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Cabozantinib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "amyotrophic lateral sclerosis", "bilateral parasagittal parieto-occipital polymicrogyria", "angiolipoma"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Cabozantinib：予測新適応症は脂肪肉腫 (liposarcoma)（エビデンスレベル L5）。薬価基準の品目：2 件（現在収載 2 件）"
 ---
 
@@ -74,10 +74,14 @@ TxGNN モデルは**脂肪肉腫 (liposarcoma)** に有効である可能性を�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 622797001 | カボメティクス錠６０ｍｇ | 錠６０ｍｇ | 記載なし |
-| 622796901 | カボメティクス錠２０ｍｇ | 錠２０ｍｇ | 記載なし |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622797001 | カボメティクス錠６０ｍｇ | 有効 |
+| 622796901 | カボメティクス錠２０ｍｇ | 有効 |
+
+<!-- licenses:end -->
 
 ## 細胞毒性
 

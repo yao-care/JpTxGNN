@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Imipenem"
 predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "sinusitis", "chronic rhinosinusitis", "typhoid fever", "chronic ethmoidal sinusitis", "paranasal sinus neoplasm (disease)", "eosinophilia-myalgia syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Imipenem：予測新適応症はびまん性強皮症 (diffuse scleroderma)（エビデンスレベル L5）。薬価基準の品目：1 件（現在収載 1 件）"
 ---
 
@@ -72,9 +72,13 @@ TxGNN のスコアは高い値を示していますが、裏付けとなる研�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 |
-|---------|------|------|
-| 620007365 | チエナム点滴静注用０．５ｇ | 注用 ０．５ｇ（５００ｍｇ） |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620007365 | チエナム点滴静注用０．５ｇ ５００ｍｇ | 有効 |
+
+<!-- licenses:end -->
 
 市販状況：有効な承認が 1 件あり、市販中です。
 

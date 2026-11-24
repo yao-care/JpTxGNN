@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Prasugrel"
 predicted_indications: ["pulmonary hypertension", "migraine disorder", "migraine with brainstem aura", "kyphoscoliotic heart disease", "rheumatoid arthritis", "homozygous familial hypercholesterolemia", "hypoalphalipoproteinemia", "brachydactyly-syndactyly syndrome", "leprosy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Prasugrel：予測新適応症は肺高血圧症 (Pulmonary Hypertension)（エビデンスレベル L5）。既存適応症：狭心症、心筋梗塞（血小板凝集抑制薬、P2Y12 阻害薬）"
 ---
 
@@ -94,13 +94,19 @@ TxGNN モデルは**肺高血圧症 (Pulmonary Hypertension)** に有効であ�
 
 販売承認は 12 件すべてが有効です。主な承認：
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 622336701 | エフィエント錠５ｍｇ | 錠５ｍｇ | 狭心症、心筋梗塞（血小板凝集抑制薬、P2Y12 阻害薬） |
-| 622336601 | エフィエント錠３．７５ｍｇ | 錠３．７５ｍｇ | 狭心症、心筋梗塞（血小板凝集抑制薬、P2Y12 阻害薬） |
-| 622452301 | エフィエント錠２．５ｍｇ | 錠２．５ｍｇ | 狭心症、心筋梗塞（血小板凝集抑制薬、P2Y12 阻害薬） |
-| 623000001 | プラスグレル錠５ｍｇ「トーワ」 | 錠５ｍｇ「トーワ」 | 狭心症、心筋梗塞（血小板凝集抑制薬、P2Y12 阻害薬） |
-| 623001501 | プラスグレル錠５ｍｇ「ＤＳＥＰ」 | 錠５ｍｇ「ＤＳＥＰ」 | 狭心症、心筋梗塞（血小板凝集抑制薬、P2Y12 阻害薬） |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622336701 | エフィエント錠５ｍｇ | 有効 |
+| 622336601 | エフィエント錠３．７５ｍｇ | 有効 |
+| 622452301 | エフィエント錠２．５ｍｇ | 有効 |
+| 623000001 | プラスグレル錠５ｍｇ「トーワ」 | 有効 |
+| 623001501 | プラスグレル錠５ｍｇ「ＤＳＥＰ」 | 有効 |
+
+上表はデータ上の 12 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 
@@ -128,7 +134,7 @@ TxGNN モデルは**肺高血圧症 (Pulmonary Hypertension)** に有効であ�
 
 <!-- review:begin jp-lic-20261106-prasugrel-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「片頭痛（PFO 合併）を優先候補とする場合は、プラスグレルを直接評価するランダム化試験の確認と、出血リスクを含む安全性評価計画／日本で承認が取消されている経緯の確認と、供給体制の検討」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 12 件、うち有効 12 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「片頭痛（PFO 合併）を優先候補とする場合は、プラスグレルを直接評価するランダム化試験の確認と、出血リスクを含む安全性評価計画／日本で承認が取消されている経緯の確認と、供給体制の検討」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-prasugrel-1 -->
 
@@ -140,7 +146,7 @@ TxGNN モデルは**肺高血圧症 (Pulmonary Hypertension)** に有効であ�
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「日本で承認が取消されている経緯の確認と、供給体制の検討」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本で承認が取消されている経緯の確認と、供給体制の検討」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Effient (prasugrel hydrochloride) prescribing information, Cosette Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=69ea2d58-5353-4222-b61f-cab976fa7e5e) |
 
 <!-- review:end log -->

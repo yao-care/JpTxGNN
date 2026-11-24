@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 10
 monitor_inn: "Diazepam"
 predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "sleep disorder, initiating and maintaining sleep", "attention deficit hyperactivity disorder, inattentive type", "barbiturate abuse", "hallucinogen abuse", "antidepressant type abuse", "specific developmental disorder", "attention deficit-hyperactivity disorder", "obsolete neurogenic bladder (disease)"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Diazepam：予測新適応症は不眠症 (insomnia (disease))（エビデンスレベル L2）。薬価基準の品目：20 件以上"
 ---
 
@@ -83,13 +83,19 @@ TxGNN モデルは**不眠症 (insomnia (disease))** に有効である可能性
 
 日本では有効な承認が 20 件(単剤)あり、市販中です。承認一覧は一部のみの可能性があります。主な承認は以下のとおりです。
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 611170003 | 10mg セルシン錠 | 錠 | 抗不安薬、抗てんかん薬、マイナートランキライザー、催眠鎮静薬（神経症における不安、うつ病、熱性けいれん） |
-| 611170373 | ホリゾン錠 2mg | 錠 | 抗不安薬、抗てんかん薬、マイナートランキライザー、催眠鎮静薬（神経症における不安、うつ病、熱性けいれん） |
-| 611170374 | ホリゾン錠 5mg | 錠 | 抗不安薬、抗てんかん薬、マイナートランキライザー、催眠鎮静薬（神経症における不安、うつ病、熱性けいれん） |
-| 620055604 | ジアゼパム注射液 10mg「NIG」 | 注射液 | 抗不安薬、抗てんかん薬、マイナートランキライザー、催眠鎮静薬（神経症における不安、うつ病、熱性けいれん） |
-| 620043101 | ジアゼパム錠 2mg「タイホウ」 | 錠 | 抗不安薬、抗てんかん薬、マイナートランキライザー、催眠鎮静薬（神経症における不安、うつ病、熱性けいれん） |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 611170003 | １０ｍｇセルシン錠 | 有効 |
+| 611170373 | ホリゾン錠２ｍｇ | 有効 |
+| 611170374 | ホリゾン錠５ｍｇ | 有効 |
+| 620055604 | ジアゼパム注射液１０ｍｇ「ＮＩＧ」 | 有効 |
+| 620043101 | ジアゼパム錠２ｍｇ「タイホウ」 | 有効 |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 注射液(セルシン注射液、ジアゼパム注射液「NIG」)と散剤(セルシン散1%)の承認もあります。
 
@@ -122,12 +128,6 @@ TxGNN モデルは**不眠症 (insomnia (disease))** に有効である可能性
 臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-
-
-
-
 
 <!-- brand-names:start -->
 ## 日本での販売名

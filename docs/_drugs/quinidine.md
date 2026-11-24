@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Quinidine"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Quinidine：予測新適応症は腎性抗利尿ホルモン不適合分泌症候群 (nephrogenic syndrome of inappropriate antidiuresis)（エビデンスレベル L5）。既存適応症：期外収縮、新鮮心房細動、発作性心房細動、心房粗動"
 ---
 
@@ -62,11 +62,15 @@ TxGNN モデルは **腎性抗利尿ホルモン不適合分泌症候群 (nephro
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 612120143 | キニジン硫酸塩水和物 | － | 抗不整脈薬、ナトリウムチャネル遮断薬。期外収縮、新鮮心房細動、発作性心房細動、心房粗動 |
-| 620249804 | キニジン硫酸塩錠100mg「VTRS」 | 錠100mg「VTRS」 | 抗不整脈薬、ナトリウムチャネル遮断薬。期外収縮、新鮮心房細動、発作性心房細動、心房粗動 |
-| 620249604 | キニジン硫酸塩「VTRS」原末 | － | － |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 612120143 | キニジン硫酸塩水和物 | 有効 |
+| 620249804 | キニジン硫酸塩錠１００ｍｇ「ＶＴＲＳ」 | 有効 |
+| 620249604 | キニジン硫酸塩「ＶＴＲＳ」原末 | 有効 |
+
+<!-- licenses:end -->
 
 3 件の承認はいずれも有効で、現在、日本で販売されています。
 
@@ -100,7 +104,7 @@ TxGNN モデルは **腎性抗利尿ホルモン不適合分泌症候群 (nephro
 
 <!-- review:begin jp-lic-20261106-quinidine-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「日本での供給状況の確認（承認が取り消されているため）」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 3 件、うち有効 3 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「日本での供給状況の確認（承認が取り消されているため）」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-quinidine-1 -->
 
@@ -112,7 +116,7 @@ TxGNN モデルは **腎性抗利尿ホルモン不適合分泌症候群 (nephro
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「承認が取り消されているため」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「承認が取り消されているため」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: quinidine gluconate prescribing information, Golden State Medical Supply](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ad2ad985-cca2-25b5-e053-2995a90a402f) |
 
 <!-- review:end log -->

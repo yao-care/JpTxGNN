@@ -5,7 +5,7 @@ parent: 中エビデンスレベル
 nav_order: 331
 evidence_level: L4
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Valsartan：予測新適応症は悪性高血圧性腎疾患 (malignant hypertensive renal disease)（エビデンスレベル L4）。既存適応症：高血圧症"
 monitor_inn: "Valsartan"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease", "Prinzmetal angina"]
@@ -73,13 +73,19 @@ TxGNN モデルは**悪性高血圧性腎疾患 (malignant hypertensive renal di
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 622348201 | バルサルタン錠80mg「JG」 | 錠80mg | 高血圧症（降圧薬、ARB） |
-| 622346601 | バルサルタン錠80mg「FFP」 | 錠80mg | 高血圧症（降圧薬、ARB） |
-| 670443044 | ディオバン錠80mg（選） | 錠80mg | 高血圧症（降圧薬、ARB） |
-| 610443042 | ディオバン錠20mg | 錠20mg | 高血圧症（降圧薬、ARB） |
-| 622359601 | バルサルタン錠80mg「日医工」 | 錠80mg | 高血圧症（降圧薬、ARB） |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622348201 | バルサルタン錠８０ｍｇ「ＪＧ」 | 有効 |
+| 622346601 | バルサルタン錠８０ｍｇ「ＦＦＰ」 | 有効 |
+| 670443044 | ディオバン錠８０ｍｇ（選） | 有効 |
+| 610443042 | ディオバン錠２０ｍｇ | 有効 |
+| 622359601 | バルサルタン錠８０ｍｇ「日医工」 | 有効 |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 上記 5 件を含む 20 件の承認が現在有効です。
 

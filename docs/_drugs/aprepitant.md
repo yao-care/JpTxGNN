@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "aprepitant"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "hypertrichosis (disease)", "pulmonary hypertension", "leprosy", "Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "kyphoscoliotic heart disease", "syndrome with a Dandy-Walker malformation as major feature", "subarachnoid hemorrhage (disease)", "isolated genetic hair shaft abnormality"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Aprepitant：予測新適応症は腎性不適切抗利尿症候群 (nephrogenic syndrome of inappropriate antidiuresis)（エビデンスレベル L5）。既存適応症：制吐薬、抗うつ薬、統合失調症治療薬、NK1受容体拮抗薬"
 ---
 
@@ -61,25 +61,19 @@ NSIAD は V2 受容体の活性化変異によって起こる疾患です。サ�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 622698301 | アプレピタントカプセルセット「サワイ」 | カプセルセット | 制吐薬, 抗うつ薬, 統合失調症治療薬, NK1受容体拮抗薬（有効） |
-| 622695701 | アプレピタントカプセルセット「NK」 | カプセルセット | 制吐薬, 抗うつ薬, 統合失調症治療薬, NK1受容体拮抗薬（有効） |
-| 621971101 | イメンドカプセルセット | カプセルセット | 制吐薬, 抗うつ薬, 統合失調症治療薬, NK1受容体拮抗薬（薬価削除：2026-03-31） |
-| 622698101 | アプレピタントカプセル80mg「サワイ」 | カプセル | 制吐薬, 抗うつ薬, 統合失調症治療薬, NK1受容体拮抗薬（有効） |
-| 621970901 | イメンドカプセル80mg | カプセル | 制吐薬, 抗うつ薬, 統合失調症治療薬, NK1受容体拮抗薬（薬価削除：2026-03-31） |
+<!-- licenses:begin -->
 
-<!-- review:begin jp-row-20261117-aprepitant-1 -->
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622698301 | アプレピタントカプセルセット「サワイ」 | 有効 |
+| 622695701 | アプレピタントカプセルセット「ＮＫ」 | 有効 |
+| 621971101 | イメンドカプセルセット | 薬価削除（2026-03-31） |
+| 622698101 | アプレピタントカプセル８０ｍｇ「サワイ」 | 有効 |
+| 621970901 | イメンドカプセル８０ｍｇ | 薬価削除（2026-03-31） |
 
-> **確認による訂正（2026-11-17）**：元の記載は「621971101／イメンドカプセルセット／カプセルセット／制吐薬, 抗うつ薬, 統合失調症治療薬, NK1受容体拮抗薬（有効）」でした。訂正：医薬品マスター（薬価基準収載品目）では 621971101 は廃止年月日 2026-03-31 で薬価基準から削除され、2026-11-12 の全件ファイルに収載されていません。表の状態の記載だけを直しました。承認の取消しを意味するものではありません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+上表はデータ上の 12 件のうち 5 件です。
 
-<!-- review:end jp-row-20261117-aprepitant-1 -->
-
-<!-- review:begin jp-row-20261117-aprepitant-2 -->
-
-> **確認による訂正（2026-11-17）**：元の記載は「621970901／イメンドカプセル80mg／カプセル／制吐薬, 抗うつ薬, 統合失調症治療薬, NK1受容体拮抗薬（有効）」でした。訂正：医薬品マスター（薬価基準収載品目）では 621970901 は廃止年月日 2026-03-31 で薬価基準から削除され、2026-11-12 の全件ファイルに収載されていません。表の状態の記載だけを直しました。承認の取消しを意味するものではありません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
-
-<!-- review:end jp-row-20261117-aprepitant-2 -->
+<!-- licenses:end -->
 
 ※ 12 件の承認がありますが、上記は主要な 5 件です。
 
@@ -97,11 +91,11 @@ NSIAD は V2 受容体の活性化変異によって起こる疾患です。サ�
 **決定：Hold**
 
 **理由：**
-予測スコアは高いものの、臨床試験も文献もなく、機序上の裏付けも乏しいため、モデル予測のみの段階（L5）です。日本では販売されており（有効な承認6件/12件、6件は薬価基準から削除済み）、現時点で開発を進める根拠は不足しています。
+予測スコアは高いものの、臨床試験も文献もなく、機序上の裏付けも乏しいため、モデル予測のみの段階（L5）です。日本では販売されており（有効な承認と薬価基準から削除済みの承認があり、件数はクイック概要を参照）、現時点で開発を進める根拠は不足しています。
 
 <!-- review:begin jp-lic-20261117-aprepitant-1 -->
 
-> **確認による訂正（2026-11-17）**：元の記載は「日本では販売されており（有効な承認12件/12件）、」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 12 件のうち有効（収載中）は 6 件で、6 件は経過措置期間満了などにより薬価基準から削除されています（621971101（廃止年月日 2026-03-31）、671971001（廃止年月日 2026-03-31）、671970901（廃止年月日 2026-03-31）、671971101（廃止年月日 2026-03-31）、621970901（廃止年月日 2026-03-31）、621971001（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+> **確認による訂正（2026-11-17）**：元の記載は「日本では販売されており（有効な承認12件/12件）、」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、次の承認が経過措置期間満了などにより薬価基準から削除されています（621971101（廃止年月日 2026-03-31）、671971001（廃止年月日 2026-03-31）、671970901（廃止年月日 2026-03-31）、671971101（廃止年月日 2026-03-31）、621970901（廃止年月日 2026-03-31）、621971001（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
 
 <!-- review:end jp-lic-20261117-aprepitant-1 -->
 
@@ -114,7 +108,7 @@ NSIAD は V2 受容体の活性化変異によって起こる疾患です。サ�
 
 <!-- review:begin jp-lic-20261106-aprepitant-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「日本での供給状況（承認取消）の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 12 件、うち有効 12 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「日本での供給状況（承認取消）の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-aprepitant-1 -->
 
@@ -126,10 +120,10 @@ NSIAD は V2 受容体の活性化変異によって起こる疾患です。サ�
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「承認取消」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
-| 2026-11-17 | 表：621971101 は有効ではなく薬価基準から削除済み | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
-| 2026-11-17 | 表：621970901 は有効ではなく薬価基準から削除済み | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-06 | 削除：「承認取消」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-17 | 表：621971101 は有効ではなく薬価基準から削除済み | プログラム生成の承認情報表に置き換え（元の対応：訂正） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-17 | 表：621970901 は有効ではなく薬価基準から削除済み | プログラム生成の承認情報表に置き換え（元の対応：訂正） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Cinvanti (aprepitant) prescribing information, Heron Therapeutics, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4c218d3a-a508-4abc-9ed8-a6e8e191d1b4) |
 
 <!-- review:end log -->

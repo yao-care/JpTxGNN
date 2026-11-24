@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 330
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Valproic Acid：予測新適応症は三叉神経腫瘍 (Trigeminal Nerve Neoplasm)（エビデンスレベル L5）。既存適応症：躁病および躁うつ病の躁状態"
 monitor_inn: "Valproic acid"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
@@ -89,21 +89,27 @@ TxGNN モデルは**三叉神経腫瘍 (Trigeminal Nerve Neoplasm)** に有効�
 
 ## 日本市販情報
 
-日本では、バルプロ酸は販売されており、承認 16 件のうち 14 件が有効です(有効な承認 14 件/全 16 件、2 件は薬価基準から削除済み)。主な承認は以下のとおりです。
+日本では、バルプロ酸は販売されており、承認には有効なものと薬価基準から削除済みのものがあります（件数はクイック概要を参照）。主な承認は以下のとおりです。
 
 <!-- review:begin jp-lic-20261117-valproic_acid-1 -->
 
-> **確認による訂正（2026-11-17）**：元の記載は「承認 16 件はすべて有効です(有効な承認 16 件/全 16 件)。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 16 件のうち有効（収載中）は 14 件で、2 件は経過措置期間満了などにより薬価基準から削除されています（622845200（廃止年月日 2026-03-31）、670003156（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+> **確認による訂正（2026-11-17）**：元の記載は「承認 16 件はすべて有効です(有効な承認 16 件/全 16 件)。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、次の承認が経過措置期間満了などにより薬価基準から削除されています（622845200（廃止年月日 2026-03-31）、670003156（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
 
 <!-- review:end jp-lic-20261117-valproic_acid-1 -->
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620066201 | デパケンＲ錠２００ｍｇ | 錠２００ｍｇ | （記載なし） |
-| 620065701 | デパケン錠２００ｍｇ | 錠２００ｍｇ | （記載なし） |
-| 610412139 | バルプロ酸ナトリウム細粒２０％「ＥＭＥＣ」 | 細粒２０％ | 抗けいれん薬、躁状態治療薬、抗片頭痛薬、抗てんかん薬／躁病および躁うつ病の躁状態 |
-| 621210704 | バルプロ酸ナトリウムシロップ５％「日医工」 | シロップ５％ | 抗けいれん薬、躁状態治療薬、抗片頭痛薬、抗てんかん薬／躁病および躁うつ病の躁状態 |
-| 620006033 | デパケンシロップ５％ | シロップ５％ | （記載なし） |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620066201 | デパケンＲ錠２００ｍｇ | 有効 |
+| 620065701 | デパケン錠２００ｍｇ | 有効 |
+| 610412139 | バルプロ酸ナトリウム細粒２０％「ＥＭＥＣ」 | 有効 |
+| 621210704 | バルプロ酸ナトリウムシロップ５％「日医工」 | 有効 |
+| 620006033 | デパケンシロップ５％ | 有効 |
+
+上表はデータ上の 16 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 
@@ -122,7 +128,7 @@ TxGNN モデルは**三叉神経腫瘍 (Trigeminal Nerve Neoplasm)** に有効�
 
 <!-- review:begin jp-lic-20261106-valproic_acid-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「最上位の予測（三叉神経腫瘍）は、臨床試験も腫瘍に特異的な文献もなく、TxGNN のスコアだけに頼っています（L5）。また、日本で有効な承認がなく、添付文書の安全性情報も未確認のため、現時点では先に進めません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 16 件、うち有効 16 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「最上位の予測（三叉神経腫瘍）は、臨床試験も腫瘍に特異的な文献もなく、TxGNN のスコアだけに頼っています（L5）。また、日本で有効な承認がなく、添付文書の安全性情報も未確認のため、現時点では先に進めません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-valproic_acid-1 -->
 
@@ -134,7 +140,7 @@ TxGNN モデルは**三叉神経腫瘍 (Trigeminal Nerve Neoplasm)** に有効�
 
 <!-- review:begin jp-lic-20261106-valproic_acid-2 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「検討対象の再設定：L4 で比較的根拠のある三叉神経痛や驚愕てんかんを、優先的な研究課題として検討する／日本で承認が失効している経緯の確認（現行の承認状況の再確認）」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 16 件、うち有効 16 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「検討対象の再設定：L4 で比較的根拠のある三叉神経痛や驚愕てんかんを、優先的な研究課題として検討する／日本で承認が失効している経緯の確認（現行の承認状況の再確認）」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-valproic_acid-2 -->
 
@@ -146,9 +152,9 @@ TxGNN モデルは**三叉神経腫瘍 (Trigeminal Nerve Neoplasm)** に有効�
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「また、日本で有効な承認がなく、添付文書の安全性情報も未確認のため、現時点では先に進めません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-06 | 削除：「日本で承認が失効している経緯の確認（現行の承認状況の再確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-06 | 削除：「また、日本で有効な承認がなく、添付文書の安全性情報も未確認のため、現時点では先に進めません」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本で承認が失効している経緯の確認（現行の承認状況の再確認」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Valproic (valproic acid) prescribing information, Aphena Pharma Solutions - Tennessee, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=34a0d45a-4388-7d8b-e063-6394a90a6c3f) |
 
 <!-- review:end log -->

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Lisinopril"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lisinopril：予測新適応症は原因が不明確な多因子性の肺高血圧症 (pulmonary hypertension with unclear multifactorial mechanism)（エビデンスレベル L5）。薬価基準の品目：18 件（現在収載 17 件）"
 ---
 
@@ -64,13 +64,19 @@ RAS を遮断すると、アンジオテンシン II による血管収縮や血
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620006158 | リシノプリル錠１０ｍｇ「トーワ」 | 錠 | 高血圧症 |
-| 672140651 | ロンゲス錠１０ｍｇ（選） | 錠 | 高血圧症 |
-| 622102303 | リシノプリル錠２０ｍｇ「ＮＩＧ」 | 錠 | 高血圧症 |
-| 622325000 | リシノプリル２０ｍｇ錠 | 錠 | 高血圧症 |
-| 621945501 | リシノプリル錠２０ｍｇ「トーワ」 | 錠 | 高血圧症 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620006158 | リシノプリル錠１０ｍｇ「トーワ」 | 有効 |
+| 672140651 | ロンゲス錠１０ｍｇ（選） | 有効 |
+| 622102303 | リシノプリル錠２０ｍｇ「ＮＩＧ」 | 有効 |
+| 622325000 | リシノプリル２０ｍｇ錠 | 薬価削除（2026-03-31） |
+| 621945501 | リシノプリル錠２０ｍｇ「トーワ」 | 有効 |
+
+上表はデータ上の 18 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 ほかにも同一成分の承認が複数あり、上記は主要な 5 件のみです。
 

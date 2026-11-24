@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "deferasirox"
 predicted_indications: ["HIV infectious disease", "chronic hepatitis C virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "dermatofibrosarcoma protuberans"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Deferasirox：予測新適応症はHIV感染症 (HIV infectious disease)（エビデンスレベル L5）。薬価基準の品目：8 件（現在収載 7 件）"
 ---
 
@@ -75,13 +75,19 @@ HIV-1 の複製は、感染者の鉄の状態に影響されることが知ら�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 622868401 | デフェラシロクス顆粒分包３６０ｍｇ「サワイ」 | 顆粒分包 | 解毒薬 (鉄過剰蓄積), キレート剤 |
-| 622573201 | ジャドニュ顆粒分包９０ｍｇ | 顆粒分包 | 解毒薬 (鉄過剰蓄積), キレート剤 |
-| 622816001 | デフェラシロクス顆粒分包３６０ｍｇ「サンド」 | 顆粒分包 | 解毒薬 (鉄過剰蓄積), キレート剤 |
-| 622868301 | デフェラシロクス顆粒分包９０ｍｇ「サワイ」 | 顆粒分包 | 解毒薬 (鉄過剰蓄積), キレート剤 |
-| 622573301 | ジャドニュ顆粒分包３６０ｍｇ | 顆粒分包 | 解毒薬 (鉄過剰蓄積), キレート剤 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622868401 | デフェラシロクス顆粒分包３６０ｍｇ「サワイ」 | 有効 |
+| 622573201 | ジャドニュ顆粒分包９０ｍｇ | 有効 |
+| 622816001 | デフェラシロクス顆粒分包３６０ｍｇ「サンド」 | 有効 |
+| 622868301 | デフェラシロクス顆粒分包９０ｍｇ「サワイ」 | 有効 |
+| 622573301 | ジャドニュ顆粒分包３６０ｍｇ | 有効 |
+
+上表はデータ上の 8 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

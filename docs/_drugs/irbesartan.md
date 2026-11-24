@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "irbesartan"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Irbesartan：予測新適応症は悪性高血圧性腎疾患 (malignant hypertensive renal disease)（エビデンスレベル L5）。薬価基準の品目：20 件以上"
 ---
 
@@ -71,13 +71,19 @@ AT1 受容体の遮断は、血圧を下げるだけでなく、アンジオテ�
 
 日本では、イルベサルタンを有効成分とする単剤の製剤が複数承認されています。主な製品は次のとおりです（承認記録は一部のみの可能性があります）。
 
-| 承認番号 | 商品名 | 剤形 |
-|---------|------|------|
-| 622249501 | イルベタン錠２００ｍｇ | 錠２００ｍｇ |
-| 672242401 | アバプロ錠２００ｍｇ（選） | 錠２００ｍｇ（選） |
-| 670006794 | アバプロ錠１００ｍｇ（選） | 錠１００ｍｇ（選） |
-| 622586801 | イルベサルタン錠５０ｍｇ「ＤＳＰＢ」 | 錠５０ｍｇ「ＤＳＰＢ」 |
-| 622579801 | イルベサルタン錠２００ｍｇ「トーワ」 | 錠２００ｍｇ「トーワ」 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622249501 | イルベタン錠２００ｍｇ | 有効 |
+| 672242401 | アバプロ錠２００ｍｇ（選） | 有効 |
+| 670006794 | アバプロ錠１００ｍｇ（選） | 有効 |
+| 622586801 | イルベサルタン錠５０ｍｇ「ＤＳＰＢ」 | 有効 |
+| 622579801 | イルベサルタン錠２００ｍｇ「トーワ」 | 有効 |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

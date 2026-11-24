@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Teneligliptin"
 predicted_indications: ["opsismodysplasia", "thiamine-responsive dysfunction syndrome", "classic stiff person syndrome", "focal stiff limb syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Teneligliptin：予測新適応症はOpsismodysplasia（オプシスモ異形成症）（エビデンスレベル L5）。既存適応症：2 型糖尿病"
 ---
 
@@ -64,12 +64,16 @@ ChEMBL（EMBL-EBI）に登録されている Teneligliptin の作用機序（非
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 622182601 | テネリア錠２０ｍｇ | 錠２０ｍｇ（経口） | 有効 |
-| 622861201 | テネリアＯＤ錠２０ｍｇ | 錠２０ｍｇ（経口） | 有効 |
-| 622660601 | テネリア錠４０ｍｇ | 錠４０ｍｇ（経口） | 有効 |
-| 622861301 | テネリアＯＤ錠４０ｍｇ | 錠４０ｍｇ（経口） | 有効 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622182601 | テネリア錠２０ｍｇ | 有効 |
+| 622861201 | テネリアＯＤ錠２０ｍｇ | 有効 |
+| 622660601 | テネリア錠４０ｍｇ | 有効 |
+| 622861301 | テネリアＯＤ錠４０ｍｇ | 有効 |
+
+<!-- licenses:end -->
 
 4 件すべてが有効な承認です。
 
@@ -88,7 +92,7 @@ ChEMBL（EMBL-EBI）に登録されている Teneligliptin の作用機序（非
 
 <!-- review:begin jp-lic-20261106-teneligliptin-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「予測新規適応症にはモデル予測以外の根拠（臨床試験、文献、機序的関連）がなく、エビデンスレベルは L5 です。また、日本での承認は全て取消済みで、現在市販されていません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 4 件、うち有効 4 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「予測新規適応症にはモデル予測以外の根拠（臨床試験、文献、機序的関連）がなく、エビデンスレベルは L5 です。また、日本での承認は全て取消済みで、現在市販されていません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-teneligliptin-1 -->
 
@@ -100,7 +104,7 @@ ChEMBL（EMBL-EBI）に登録されている Teneligliptin の作用機序（非
 
 <!-- review:begin jp-lic-20261106-teneligliptin-2 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「取消済み承認の経緯の確認（再申請や他国での承認状況を含む）／他の上位候補（stiff person 症候群など）を含めた優先順位の再検討」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 4 件、うち有効 4 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「取消済み承認の経緯の確認（再申請や他国での承認状況を含む）／他の上位候補（stiff person 症候群など）を含めた優先順位の再検討」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-teneligliptin-2 -->
 
@@ -112,8 +116,8 @@ ChEMBL（EMBL-EBI）に登録されている Teneligliptin の作用機序（非
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「また、日本での承認は全て取消済みで、現在市販されていません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-06 | 削除：「取消済み承認の経緯の確認（再申請や他国での承認状況を含む」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「また、日本での承認は全て取消済みで、現在市販されていません」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「取消済み承認の経緯の確認（再申請や他国での承認状況を含む」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え（2026-11-20 改訂、旧版は記録に保存） | [ChEMBL CHEMBL2147777 (teneligliptin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL2147777) |
 
 <!-- review:end log -->

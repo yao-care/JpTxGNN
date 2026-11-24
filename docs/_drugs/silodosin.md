@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Silodosin"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Silodosin：予測新適応症はAmbras 型先天性汎発性多毛症 (Ambras type hypertrichosis universalis congenita)（エビデンスレベル L5）。既存適応症：排尿障害改善薬、α1アドレナリン受容体拮抗薬"
 ---
 
@@ -74,13 +74,19 @@ TxGNN モデルは **Ambras 型先天性汎発性多毛症 (Ambras type hypertri
 
 有効な販売承認 20 件があります。代表的なものを示します。
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620008570 | ユリーフ錠２ｍｇ | 錠２ｍｇ | 排尿障害改善薬, α1アドレナリン受容体拮抗薬 |
-| 620008571 | ユリーフ錠４ｍｇ | 錠４ｍｇ | 排尿障害改善薬, α1アドレナリン受容体拮抗薬 |
-| 622673801 | シロドシン錠４ｍｇ「ＹＤ」 | 錠４ｍｇ「ＹＤ」 | 排尿障害改善薬, α1アドレナリン受容体拮抗薬 |
-| 622683101 | シロドシン錠４ｍｇ「ニプロ」 | 錠４ｍｇ「ニプロ」 | 排尿障害改善薬, α1アドレナリン受容体拮抗薬 |
-| 622790001 | シロドシン錠２ｍｇ「トーワ」 | 錠２ｍｇ「トーワ」 | 排尿障害改善薬, α1アドレナリン受容体拮抗薬 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620008570 | ユリーフ錠２ｍｇ | 有効 |
+| 620008571 | ユリーフ錠４ｍｇ | 有効 |
+| 622673801 | シロドシン錠４ｍｇ「ＹＤ」 | 有効 |
+| 622683101 | シロドシン錠４ｍｇ「ニプロ」 | 有効 |
+| 622790001 | シロドシン錠２ｍｇ「トーワ」 | 有効 |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 7
 monitor_inn: "Meropenem"
 predicted_indications: ["bacterial arthritis", "epiglottitis", "laryngitis", "paratyphoid fever", "Lyme disease", "gonococcal urethritis", "Ureaplasma urethritis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Meropenem：予測新適応症は細菌性関節炎 (bacterial arthritis)（エビデンスレベル L3）。薬価基準の品目：3 件（現在収載 3 件）"
 ---
 
@@ -83,11 +83,15 @@ TxGNN モデルは**細菌性関節炎 (bacterial arthritis)** に有効であ�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620007518 | メロペン点滴用キット０．５ｇ　５００ｍｇ生理食塩液１００ｍＬ付 | 液１００ｍＬ付 | 記載なし |
-| 620007520 | メロペン点滴用バイアル０．５ｇ　５００ｍｇ | 記載なし | 記載なし |
-| 620007519 | メロペン点滴用バイアル０．２５ｇ　２５０ｍｇ | 記載なし | 記載なし |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620007518 | メロペン点滴用キット０．５ｇ ５００ｍｇ生理食塩液１００ｍＬ付 | 有効 |
+| 620007520 | メロペン点滴用バイアル０．５ｇ ５００ｍｇ | 有効 |
+| 620007519 | メロペン点滴用バイアル０．２５ｇ ２５０ｍｇ | 有効 |
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

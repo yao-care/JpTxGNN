@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "pirfenidone"
 predicted_indications: ["extracutaneous mastocytoma", "dermatofibrosarcoma protuberans", "aggressive systemic mastocytosis", "heart fibrosarcoma", "conventional fibrosarcoma", "autosomal recessive familial Mediterranean fever", "kidney fibrosarcoma", "hepatic infarction", "fibroblastic neoplasm", "low grade fibromyxoid sarcoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Pirfenidone：予測新適応症は肥満細胞腫 (Extracutaneous mastocytoma)（予測スコア第 1 位）。文献で裏付けが得られた候補は線維芽細胞性腫瘍…（エビデンスレベル L5）。既存適応症：特発性肺線維症"
 ---
 
@@ -78,11 +78,15 @@ TxGNN モデルの予測スコア第 1 位は**肥満細胞腫（extracutaneous 
 
 3 件の承認はすべて有効で、日本で販売されています。
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620008559 | ピレスパ錠200mg | 錠200mg（経口） | 特発性肺線維症 |
-| 670008559 | ピレスパ錠200mg（選） | 錠200mg（選）（経口） | 特発性肺線維症 |
-| 622788201 | ピルフェニドン錠200mg「日医工」 | 錠200mg「日医工」（経口） | 特発性肺線維症 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620008559 | ピレスパ錠２００ｍｇ | 有効 |
+| 670008559 | ピレスパ錠２００ｍｇ（選） | 有効 |
+| 622788201 | ピルフェニドン錠２００ｍｇ「日医工」 | 有効 |
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

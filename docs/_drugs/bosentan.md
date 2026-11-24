@@ -5,7 +5,7 @@ parent: 中エビデンスレベル
 nav_order: 49
 evidence_level: L4
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Bosentan：予測新適応症は関節リウマチ (Rheumatoid Arthritis)（エビデンスレベル L4）。既存適応症：肺動脈性肺高血圧症、全身性強皮症（血圧降下薬、エンドセリン受容体拮抗薬）"
 monitor_inn: "bosentan"
 predicted_indications: ["rheumatoid arthritis", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "pseudoxanthoma elasticum, forme fruste", "kyphoscoliotic heart disease", "elastoma", "gout", "hypertrichosis (disease)"]
@@ -79,25 +79,23 @@ TxGNN モデルは**関節リウマチ (Rheumatoid Arthritis)** に有効であ�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 622512303 | ボセンタン錠62.5mg「VTRS」 | 錠 62.5mg | 肺動脈性肺高血圧症、全身性強皮症（承認有効） |
-| 620002492 | トラクリア錠62.5mg | 錠 62.5mg | 肺動脈性肺高血圧症、全身性強皮症（承認有効） |
-| 622525001 | ボセンタン錠62.5mg「JG」 | 錠 62.5mg | 肺動脈性肺高血圧症、全身性強皮症（承認有効） |
-| 670002492 | トラクリア錠62.5mg（選） | 錠 62.5mg | 肺動脈性肺高血圧症、全身性強皮症（承認有効） |
-| 622512801 | ボセンタン錠62.5mg「モチダ」 | 錠 62.5mg | 肺動脈性肺高血圧症、全身性強皮症（薬価削除：2026-09-30、後継コード 622692200） |
+<!-- licenses:begin -->
 
-<!-- review:begin jp-row-20261117-bosentan-1 -->
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622512303 | ボセンタン錠６２．５ｍｇ「ＶＴＲＳ」 | 有効 |
+| 620002492 | トラクリア錠６２．５ｍｇ | 有効 |
+| 622525001 | ボセンタン錠６２．５ｍｇ「ＪＧ」 | 有効 |
+| 670002492 | トラクリア錠６２．５ｍｇ（選） | 有効 |
+| 622512801 | ボセンタン錠６２．５ｍｇ「モチダ」 | 薬価削除（2026-09-30、後継コード 622692200） |
 
-> **確認による訂正（2026-11-17）**：元の記載は「622512801／ボセンタン錠62.5mg「モチダ」／錠 62.5mg／肺動脈性肺高血圧症、全身性強皮症（承認有効）」でした。訂正：医薬品マスター（薬価基準収載品目）では 622512801 は廃止年月日 2026-09-30 で薬価基準から削除され、2026-11-12 の全件ファイルに収載されていません（後継コード 622692200 は収載中）。表の状態の記載だけを直しました。承認の取消しを意味するものではありません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+上表はデータ上の 8 件のうち 5 件です。
 
-<!-- review:end jp-row-20261117-bosentan-1 -->
-
-上記は主要な 5 件を記載しています。
+<!-- licenses:end -->
 
 <!-- review:begin jp-lic-20261106-bosentan-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「※ 8 件すべてが取消・整理済みの状態です。上記は主要な 5 件を記載しています。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 8 件、うち有効 8 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「※ 8 件すべてが取消・整理済みの状態です。上記は主要な 5 件を記載しています。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-bosentan-1 -->
 
@@ -121,7 +119,7 @@ TxGNN モデルは**関節リウマチ (Rheumatoid Arthritis)** に有効であ�
 
 <!-- review:begin jp-lic-20261106-bosentan-2 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「さらに日本での有効な承認は現在なく、添付文書の安全性情報も未取得のため、先に進める段階ではありません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 8 件、うち有効 8 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「さらに日本での有効な承認は現在なく、添付文書の安全性情報も未取得のため、先に進める段階ではありません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-bosentan-2 -->
 
@@ -132,7 +130,7 @@ TxGNN モデルは**関節リウマチ (Rheumatoid Arthritis)** に有効であ�
 
 <!-- review:begin jp-lic-20261106-bosentan-3 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「関節リウマチ患者を対象とした探索的臨床試験の設計（肝機能障害リスクへの対応を含む）／日本での承認状況（取消の経緯）と供給可否の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 8 件、うち有効 8 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「関節リウマチ患者を対象とした探索的臨床試験の設計（肝機能障害リスクへの対応を含む）／日本での承認状況（取消の経緯）と供給可否の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-bosentan-3 -->
 
@@ -147,10 +145,10 @@ TxGNN モデルは**関節リウマチ (Rheumatoid Arthritis)** に有効であ�
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「※ 8 件すべてが取消・整理済みの状態です」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-06 | 削除：「日本での有効な承認は現在なく」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-06 | 削除：「日本での承認状況（取消の経緯）と供給可否の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-17 | 表：622512801 は有効ではなく薬価基準から削除済み | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-06 | 削除：「※ 8 件すべてが取消・整理済みの状態です」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本での有効な承認は現在なく」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本での承認状況（取消の経緯）と供給可否の確認」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-17 | 表：622512801 は有効ではなく薬価基準から削除済み | プログラム生成の承認情報表に置き換え（元の対応：訂正） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Tracleer (bosentan) prescribing information, Actelion Pharmaceuticals US, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=749e42fb-2fe0-45dd-9268-b43bb3f4081c) |
 
 <!-- review:end log -->

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Metoprolol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease", "trichotillomania"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Metoprolol：予測新適応症は悪性高血圧性腎疾患 (malignant hypertensive renal disease)（エビデンスレベル L5）。薬価基準の品目：14 件（現在収載 11 件）"
 ---
 
@@ -69,19 +69,25 @@ TxGNN モデルは**悪性高血圧性腎疾患 (malignant hypertensive renal di
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 612140128 | セロケン錠２０ｍｇ | 錠２０ｍｇ | 抗不整脈薬, 血圧降下薬, 血管拡張薬, β1遮断薬 疾患 本態性高血圧症 [DS:H01633] 狭心症 [DS:H01632] |
-| 612140328 | ロプレソール錠４０ｍｇ | 錠４０ｍｇ | 抗不整脈薬, 血圧降下薬, 血管拡張薬, β1遮断薬 疾患 本態性高血圧症 [DS:H01633] 狭心症 [DS:H01632] |
-| 612140327 | ロプレソール錠２０ｍｇ | 錠２０ｍｇ | 抗不整脈薬, 血圧降下薬, 血管拡張薬, β1遮断薬 疾患 本態性高血圧症 [DS:H01633] 狭心症 [DS:H01632] |
-| 621366706 | メトプロロール酒石酸塩錠４０ｍｇ「トーワ」 | 錠４０ｍｇ「トーワ」 | 抗不整脈薬, 血圧降下薬, 血管拡張薬, β1遮断薬 疾患 本態性高血圧症 [DS:H01633] 狭心症 [DS:H01632] |
-| 621965402 | メトプロロール酒石酸塩錠２０ｍｇ「サワイ」 | 錠２０ｍｇ「サワイ」 | 抗不整脈薬, 血圧降下薬, 血管拡張薬, β1遮断薬 疾患 本態性高血圧症 [DS:H01633] 狭心症 [DS:H01632] |
+<!-- licenses:begin -->
 
-リストの他にも承認があり、合計 14 件のうち 11 件が有効です（3 件は薬価基準から削除済み。上記は主要な 5 件）。
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 612140128 | セロケン錠２０ｍｇ | 有効 |
+| 612140328 | ロプレソール錠４０ｍｇ | 有効 |
+| 612140327 | ロプレソール錠２０ｍｇ | 有効 |
+| 621366706 | メトプロロール酒石酸塩錠４０ｍｇ「トーワ」 | 有効 |
+| 621965402 | メトプロロール酒石酸塩錠２０ｍｇ「サワイ」 | 有効 |
+
+上表はデータ上の 14 件のうち 5 件です。
+
+<!-- licenses:end -->
+
+上表以外にも承認があり、有効なものと薬価基準から削除済みのものがあります（件数はクイック概要を参照）。
 
 <!-- review:begin jp-lic-20261117-metoprolol-1 -->
 
-> **確認による訂正（2026-11-17）**：元の記載は「リストの他にも有効な承認があり、合計 14 件がすべて有効です（上記は主要な 5 件）。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 14 件のうち有効（収載中）は 11 件で、3 件は経過措置期間満了などにより薬価基準から削除されています（672140328（廃止年月日 2026-03-31）、672140128（廃止年月日 2026-03-31）、672140327（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+> **確認による訂正（2026-11-17）**：元の記載は「リストの他にも有効な承認があり、合計 14 件がすべて有効です（上記は主要な 5 件）。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、次の承認が経過措置期間満了などにより薬価基準から削除されています（672140328（廃止年月日 2026-03-31）、672140128（廃止年月日 2026-03-31）、672140327（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
 
 <!-- review:end jp-lic-20261117-metoprolol-1 -->
 
@@ -112,7 +118,7 @@ TxGNN モデルは**悪性高血圧性腎疾患 (malignant hypertensive renal di
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Toprol Xl (metoprolol succinate) prescribing information, Melinta Therapeutics, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=496ddfaa-7c9c-4888-b747-a210249b367a) |
 
 <!-- review:end log -->

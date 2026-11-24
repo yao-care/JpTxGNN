@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 4
 monitor_inn: "Atorvastatin"
 predicted_indications: ["HIV infectious disease", "brain stem infarction", "cholesterol-ester transfer protein deficiency", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Atorvastatin：予測新適応症はHIV感染症 (HIV infectious disease)（エビデンスレベル L2）。薬価基準の品目：20 件以上"
 ---
 
@@ -93,6 +93,20 @@ HIV 感染症では、抗レトロウイルス療法（特にプロテアーゼ�
 | [41774493](https://pubmed.ncbi.nlm.nih.gov/41774493/) | 2026 | 動物実験 | JCI Insight | HIV／抗レトロウイルス薬で誘発されるマウスの心臓線維化・機能障害を、アトルバスタチンが血小板 TGF-β1 シグナルの遮断により抑制 |
 
 ## 日本市販情報
+
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 621932801 | カデュエット配合錠２番 | 有効 |
+| 622110501 | アトルバスタチン錠１０ｍｇ「トーワ」 | 有効 |
+| 622152101 | アトルバスタチン錠１０ｍｇ「ＺＥ」 | 有効 |
+| 622167701 | アトルバスタチン錠１０ｍｇ「日医工」 | 有効 |
+| 622170201 | アトルバスタチン錠１０ｍｇ「ＤＳＥＰ」 | 有効 |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 日本では複数のアトルバスタチン製剤が市販されており、経口の錠剤が中心です。
 

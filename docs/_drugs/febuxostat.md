@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 3
 monitor_inn: "Febuxostat"
 predicted_indications: ["hypouricemia, renal", "hypoxanthine guanine phosphoribosyltransferase partial deficiency", "Lesch-Nyhan syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Febuxostat：予測新適応症は腎性低尿酸血症 (hypouricemia, renal)（エビデンスレベル L4）。既存適応症：痛風"
 ---
 
@@ -78,13 +78,19 @@ TxGNN モデルは**腎性低尿酸血症 (hypouricemia, renal)** に有効で�
 
 現在、日本国内で有効な承認が20件あり、販売されています。
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 622908001 | フェブキソスタット錠20mg「DSEP」 | 錠 | 痛風 |
-| 622912601 | フェブキソスタット錠40mg「杏林」 | 錠 | 痛風 |
-| 672057201 | フェブリク錠10mg（選） | 錠 | 痛風 |
-| 622913301 | フェブキソスタット錠10mg「トーワ」 | 錠 | 痛風 |
-| 672057401 | フェブリク錠40mg（選） | 錠 | 痛風 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622908001 | フェブキソスタット錠２０ｍｇ「ＤＳＥＰ」 | 有効 |
+| 622912601 | フェブキソスタット錠４０ｍｇ「杏林」 | 有効 |
+| 672057201 | フェブリク錠１０ｍｇ（選） | 有効 |
+| 622913301 | フェブキソスタット錠１０ｍｇ「トーワ」 | 有効 |
+| 672057401 | フェブリク錠４０ｍｇ（選） | 有効 |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

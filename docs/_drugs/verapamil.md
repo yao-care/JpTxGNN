@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 334
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Verapamil"
 predicted_indications: ["obsolete bundle branch block", "malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "periodic paralysis with transient compartment-like syndrome"]
 description: "Verapamil：予測新適応症は閉塞性脚ブロック (obsolete bundle branch block)（エビデンスレベル L5）。薬価基準の品目：10 件（現在収載 9 件）"
@@ -112,17 +112,23 @@ TxGNN モデルは **閉塞性脚ブロック (obsolete bundle branch block)** �
 
 <!-- review:begin jp-lic-20261106-verapamil-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「現在有効な承認はなく、10 件すべてが取消済みです。主なもの：」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 10 件、うち有効 10 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「現在有効な承認はなく、10 件すべてが取消済みです。主なもの：」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-verapamil-1 -->
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620004629 | ワソラン錠40mg | 錠 | 抗不整脈薬、血管拡張薬、カルシウムチャネル遮断薬（心房細動、狭心症、心筋梗塞） |
-| 620309102 | ベラパミル塩酸塩錠40mg「ツルハラ」 | 錠 | 同上 |
-| 622750600 | ベラパミル塩酸塩0.25％2mL注射液 | 注射液 | 同上 |
-| 620005243 | ワソラン静注5mg 0.25％2mL | 注射 | （記載なし） |
-| 620007085 | ベラパミル塩酸塩錠40mg「タイヨー」 | 錠 | 同上 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620004629 | ワソラン錠４０ｍｇ | 有効 |
+| 620309102 | ベラパミル塩酸塩錠４０ｍｇ「ツルハラ」 | 有効 |
+| 622750600 | ベラパミル塩酸塩０．２５％２ｍＬ注射液 | 薬価削除（2026-03-31） |
+| 620005243 | ワソラン静注５ｍｇ ０．２５％２ｍＬ | 有効 |
+| 620007085 | ベラパミル塩酸塩錠４０ｍｇ「タイヨー」 | 有効 |
+
+上表はデータ上の 10 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 
@@ -143,7 +149,7 @@ TxGNN モデルは **閉塞性脚ブロック (obsolete bundle branch block)** �
 
 <!-- review:begin jp-lic-20261106-verapamil-2 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「予測 1 位の閉塞性脚ブロックには臨床試験も文献もなく、機序的にも支持されず、ベラパミルが伝導障害を悪化させる懸念があります。／日本では現在有効な承認がなく、添付文書の安全性情報も未取得のため、先に進める根拠が不足しています。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 10 件、うち有効 10 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「予測 1 位の閉塞性脚ブロックには臨床試験も文献もなく、機序的にも支持されず、ベラパミルが伝導障害を悪化させる懸念があります。／日本では現在有効な承認がなく、添付文書の安全性情報も未取得のため、先に進める根拠が不足しています。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-verapamil-2 -->
 
@@ -155,7 +161,7 @@ TxGNN モデルは **閉塞性脚ブロック (obsolete bundle branch block)** �
 
 <!-- review:begin jp-lic-20261106-verapamil-3 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「房室ブロック・心不全など伝導障害や心機能低下のある集団に対するリスク評価／日本での承認取消の経緯の確認と、投与経路・剤形の適合性評価」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 10 件、うち有効 10 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「房室ブロック・心不全など伝導障害や心機能低下のある集団に対するリスク評価／日本での承認取消の経緯の確認と、投与経路・剤形の適合性評価」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-verapamil-3 -->
 
@@ -167,9 +173,9 @@ TxGNN モデルは **閉塞性脚ブロック (obsolete bundle branch block)** �
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「現在有効な承認はなく、10 件すべてが取消済みです」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-06 | 削除：「日本では現在有効な承認がなく、添付文書の安全性情報も未取得のため、先に進める根拠が不足しています」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-06 | 削除：「日本での承認取消の経緯の確認と、投与経路・剤形の適合性評価」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「現在有効な承認はなく、10 件すべてが取消済みです」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本では現在有効な承認がなく、添付文書の安全性情報も未取得のため、先に進める根拠が不足しています」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本での承認取消の経緯の確認と、投与経路・剤形の適合性評価」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: verapamil hydrochloride prescribing information, Preferred Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c7a54ee0-80c0-4c7e-a6a3-cb60142f860c) |
 
 <!-- review:end log -->

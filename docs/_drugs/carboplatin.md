@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "carboplatin"
 predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "adult germ cell tumor", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "endometrial mucinous adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "endometrial mixed adenocarcinoma", "extrahepatic bile duct mucinous adenocarcinoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Carboplatin：予測新適応症は直腸粘液腺癌 (rectum mucinous adenocarcinoma)（エビデンスレベル L5）。薬価基準の品目：20 件以上"
 ---
 
@@ -69,6 +69,20 @@ TxGNN モデルは**直腸粘液腺癌 (rectum mucinous adenocarcinoma)** に有
 現在、関連する文献はありません。
 
 ## 日本市販情報
+
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620004118 | カルボプラチン点滴静注液５０ｍｇ「サンド」 ５ｍＬ | 有効 |
+| 620004120 | カルボプラチン点滴静注液１５０ｍｇ「サンド」 １５ｍＬ | 有効 |
+| 620004122 | カルボプラチン点滴静注液４５０ｍｇ「サンド」 ４５ｍＬ | 有効 |
+| 620004732 | パラプラチン注射液５０ｍｇ ５ｍＬ | 有効 |
+| 620004733 | パラプラチン注射液１５０ｍｇ １５ｍＬ | 有効 |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 日本では、カルボプラチンの単剤注射剤が複数の製造販売業者から承認されており、市販中です。承認一覧は 20 件が有効として記録されていますが、記録が一部のみの可能性があります。個別の承認番号・商品名・剤形の表はサイト側のプログラムが掲載します。
 

@@ -5,7 +5,7 @@ parent: 中エビデンスレベル
 nav_order: 26
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ampicillin：予測新適応症は喉頭炎 (Laryngitis)（エビデンスレベル L4）。既存適応症：抗生物質"
 monitor_inn: "Ampicillin"
 predicted_indications: ["laryngitis", "Ureaplasma urethritis", "chronic rhinosinusitis", "chronic ethmoidal sinusitis", "gingivitis", "paranasal sinus neoplasm (disease)", "bacterial arthritis", "conjunctivitis", "pericoronitis"]
@@ -82,13 +82,19 @@ TxGNN モデルは**喉頭炎 (Laryngitis)** に有効である可能性を予�
 
 日本では10件の承認のうち10件が有効で、販売されています。
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 621077501 | ビクシリン注射用２ｇ | 注射用２ｇ | 抗生物質（有効） |
-| 621076801 | ビクシリン注射用０．５ｇ | 注射用０．５ｇ | 抗生物質（有効） |
-| 622764800 | アンピシリンナトリウム・スルバクタムナトリウム３ｇ静注用 | 注用 | 抗生物質（有効） |
-| 621130301 | ビクシリンＳ配合錠（２５０ｍｇ） | 錠 | 抗生物質（有効） |
-| 622764700 | アンピシリンナトリウム・スルバクタムナトリウム１．５ｇ静注用 | 注用 | 抗生物質（有効） |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 621077501 | ビクシリン注射用２ｇ | 有効 |
+| 621076801 | ビクシリン注射用０．５ｇ ５００ｍｇ | 有効 |
+| 622764800 | アンピシリンナトリウム・スルバクタムナトリウム３ｇ静注用 | 有効 |
+| 621130301 | ビクシリンＳ配合錠 （２５０ｍｇ） | 有効 |
+| 622764700 | アンピシリンナトリウム・スルバクタムナトリウム１．５ｇ静注用 | 有効 |
+
+上表はデータ上の 10 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 5
 monitor_inn: "Tizanidine"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "Tourette syndrome", "ulerythema ophryogenesis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tizanidine：予測新適応症は片頭痛 (migraine disorder)（エビデンスレベル L2）。既存適応症：脊髄小脳変性症、多発性硬化症、筋萎縮性側索硬化症（鎮痙薬・筋弛緩薬）"
 ---
 
@@ -85,19 +85,25 @@ TxGNN モデルは**片頭痛 (migraine disorder)** に有効である可能性�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 611240378 | テルネリン錠１ｍｇ | 錠 | 脊髄小脳変性症、多発性硬化症、筋萎縮性側索硬化症（鎮痙薬・筋弛緩薬） ※有効 |
-| 611240463 | テルネリン顆粒０．２％ | 顆粒 | 記載なし ※有効 |
-| 620194001 | チザニジン錠１ｍｇ「サワイ」 | 錠 | 脊髄小脳変性症、多発性硬化症、筋萎縮性側索硬化症（鎮痙薬・筋弛緩薬） ※有効 |
-| 620194201 | チザニジン錠１ｍｇ「テバ」 | 錠 | 脊髄小脳変性症、多発性硬化症、筋萎縮性側索硬化症（鎮痙薬・筋弛緩薬） ※有効 |
-| 621228112 | チザニジン錠１ｍｇ「日医工」 | 錠 | 脊髄小脳変性症、多発性硬化症、筋萎縮性側索硬化症（鎮痙薬・筋弛緩薬） ※有効 |
+<!-- licenses:begin -->
 
-承認は全 10 件で、うち 9 件が有効です（1 件は薬価基準から削除済み）。
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 611240378 | テルネリン錠１ｍｇ | 有効 |
+| 611240463 | テルネリン顆粒０．２％ | 有効 |
+| 620194001 | チザニジン錠１ｍｇ「サワイ」 | 有効 |
+| 620194201 | チザニジン錠１ｍｇ「テバ」 | 薬価削除（2026-09-30、後継コード 622717500） |
+| 621228112 | チザニジン錠１ｍｇ「日医工」 | 有効 |
+
+上表はデータ上の 10 件のうち 5 件です。
+
+<!-- licenses:end -->
+
+承認には有効なものと薬価基準から削除済みのものがあります（件数はクイック概要を参照）。
 
 <!-- review:begin jp-lic-20261117-tizanidine-1 -->
 
-> **確認による訂正（2026-11-17）**：元の記載は「承認は全 10 件で、10 件すべてが有効です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 10 件のうち有効（収載中）は 9 件で、1 件は経過措置期間満了などにより薬価基準から削除されています（620194201（廃止年月日 2026-09-30、後継コード 622717500））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+> **確認による訂正（2026-11-17）**：元の記載は「承認は全 10 件で、10 件すべてが有効です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、次の承認が経過措置期間満了などにより薬価基準から削除されています（620194201（廃止年月日 2026-09-30、後継コード 622717500））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
 
 <!-- review:end jp-lic-20261117-tizanidine-1 -->
 
@@ -144,7 +150,7 @@ TxGNN モデルは**片頭痛 (migraine disorder)** に有効である可能性�
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Zanaflex (tizanidine hydrochloride) prescribing information, Legacy Pharma USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=60c27d35-7349-4fc6-86ad-70fffdbe3e08) |
 
 <!-- review:end log -->

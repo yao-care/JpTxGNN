@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Panitumumab"
 predicted_indications: ["drug-induced osteoporosis", "severe nonproliferative diabetic retinopathy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Panitumumab：予測新適応症は薬剤性骨粗鬆症 (Drug-induced Osteoporosis)（エビデンスレベル L5）。既存適応症：転移性結腸癌"
 ---
 
@@ -74,10 +74,14 @@ EGFR シグナルは骨芽細胞の分化や骨リモデリングに関与する
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 622086201（取消） | ベクティビックス点滴静注400mg 20mL | 注射剤 400mg 20mL | 記載なし |
-| 621985901（取消） | ベクティビックス点滴静注100mg 5mL | 注射剤 100mg 5mL | 記載なし |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622086201 | ベクティビックス点滴静注４００ｍｇ ２０ｍＬ | 有効 |
+| 621985901 | ベクティビックス点滴静注１００ｍｇ ５ｍＬ | 有効 |
+
+<!-- licenses:end -->
 
 ## 細胞毒性
 

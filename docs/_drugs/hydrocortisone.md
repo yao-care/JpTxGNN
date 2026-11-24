@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 9
 monitor_inn: "Hydrocortisone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Hydrocortisone：予測新適応症は円形脱毛症 (alopecia areata)（エビデンスレベル L3）。薬価基準の品目：14 件（現在収載 14 件）"
 ---
 
@@ -80,13 +80,19 @@ TxGNN モデルは**円形脱毛症 (alopecia areata)** に有効である可能
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620006903 | コートリル錠１０ｍｇ | 錠 | 適応症テキストの記載なし |
-| 620519503 | ヒドロコルチゾンリン酸エステルＮａ静注１００ｍｇＡＦＰ　２ｍＬ | 注射剤 | 適応症テキストの記載なし |
-| 620519603 | ヒドロコルチゾンリン酸エステルＮａ静注５００ｍｇＡＦＰ　１０ｍＬ | 注射剤 | 適応症テキストの記載なし |
-| 620009077 | ロコイドクリーム０．１％ | クリーム | 適応症テキストの記載なし |
-| 662640163 | テラ・コートリル軟膏 | 軟膏 | 適応症テキストの記載なし |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620006903 | コートリル錠１０ｍｇ | 有効 |
+| 620519503 | ヒドロコルチゾンリン酸エステルＮａ静注１００ｍｇＡＦＰ ２ｍＬ | 有効 |
+| 620519603 | ヒドロコルチゾンリン酸エステルＮａ静注５００ｍｇＡＦＰ １０ｍＬ | 有効 |
+| 620009077 | ロコイドクリーム０．１％ | 有効 |
+| 662640163 | テラ・コートリル軟膏 | 有効 |
+
+上表はデータ上の 14 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

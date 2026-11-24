@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Rivaroxaban"
 predicted_indications: ["rheumatoid arthritis", "gout", "HIV infectious disease", "brachydactyly-syndactyly syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Rivaroxaban：予測新適応症は関節リウマチ (Rheumatoid Arthritis)（エビデンスレベル L5）。既存適応症：抗血栓薬、第Xa因子阻害薬"
 ---
 
@@ -80,13 +80,19 @@ TxGNN モデルは**関節リウマチ (Rheumatoid Arthritis)** に有効であ�
 
 <!-- review:end jp-lic-20261106-rivaroxaban-1 -->
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 622068301 | イグザレルト錠10mg | 錠10mg | 抗血栓薬, 第Xa因子阻害薬 |
-| 622068401 | イグザレルト錠15mg | 錠15mg | 抗血栓薬, 第Xa因子阻害薬 |
-| 622972701 | リバーロキサバン錠10mg「バイエル」 | 錠10mg「バイエル」 | 抗血栓薬, 第Xa因子阻害薬 |
-| 622972801 | リバーロキサバン錠15mg「バイエル」 | 錠15mg「バイエル」 | 抗血栓薬, 第Xa因子阻害薬 |
-| 622973701 | リバーロキサバン錠10mg「サワイ」 | 錠10mg「サワイ」 | 抗血栓薬, 第Xa因子阻害薬 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622068301 | イグザレルト錠１０ｍｇ | 有効 |
+| 622068401 | イグザレルト錠１５ｍｇ | 有効 |
+| 622972701 | リバーロキサバン錠１０ｍｇ「バイエル」 | 有効 |
+| 622972801 | リバーロキサバン錠１５ｍｇ「バイエル」 | 有効 |
+| 622973701 | リバーロキサバン錠１０ｍｇ「サワイ」 | 有効 |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

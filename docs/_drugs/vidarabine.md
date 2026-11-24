@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "vidarabine"
 predicted_indications: ["actinic cheilitis", "angular cheilitis", "drug-induced osteoporosis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Vidarabine：予測新適応症は光線性口唇炎 (Actinic Cheilitis)（エビデンスレベル L5）。既存適応症：帯状疱疹、単純疱疹、単純ヘルペス脳炎（抗ウイルス薬、DNA ポリメラーゼ阻害薬）"
 ---
 
@@ -77,21 +77,27 @@ ChEMBL（EMBL-EBI）に登録されている Vidarabine の作用機序（非公
 
 ## 日本市販情報
 
-12 件の承認のうち 10 件が有効です（2 件は薬価基準から削除済み）。主なものを示します。
+承認には有効なものと薬価基準から削除済みのものがあります（件数はクイック概要を参照）。主なものを示します。
 
 <!-- review:begin jp-lic-20261117-vidarabine-1 -->
 
-> **確認による訂正（2026-11-17）**：元の記載は「12 件の承認はすべて有効です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 12 件のうち有効（収載中）は 10 件で、2 件は経過措置期間満了などにより薬価基準から削除されています（621995901（廃止年月日 2026-09-30、後継コード 622782300）、622782400（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+> **確認による訂正（2026-11-17）**：元の記載は「12 件の承認はすべて有効です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、次の承認が経過措置期間満了などにより薬価基準から削除されています（621995901（廃止年月日 2026-09-30、後継コード 622782300）、622782400（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
 
 <!-- review:end jp-lic-20261117-vidarabine-1 -->
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 670008961 | アラセナ−Ａ軟膏３％（選） | 軟膏 | 帯状疱疹、単純疱疹、単純ヘルペス脳炎（抗ウイルス薬、DNA ポリメラーゼ阻害薬） |
-| 620008961 | アラセナ−Ａ軟膏３％ | 軟膏 | 帯状疱疹、単純疱疹、単純ヘルペス脳炎 |
-| 670453001 | アラセナ−Ａクリーム３％（選） | クリーム | 帯状疱疹、単純疱疹、単純ヘルペス脳炎 |
-| 621355001 | ビダラビンクリーム３％「マルホ」 | クリーム | 帯状疱疹、単純疱疹、単純ヘルペス脳炎 |
-| 621146701 | ビダラビン軟膏３％「Ｆ」 | 軟膏 | 帯状疱疹、単純疱疹、単純ヘルペス脳炎 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 670008961 | アラセナ−Ａ軟膏３％（選） | 有効 |
+| 620008961 | アラセナ−Ａ軟膏３％ | 有効 |
+| 670453001 | アラセナ−Ａクリーム３％（選） | 有効 |
+| 621355001 | ビダラビンクリーム３％「マルホ」 | 有効 |
+| 621146701 | ビダラビン軟膏３％「Ｆ」 | 有効 |
+
+上表はデータ上の 12 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 剤形は外用の軟膏とクリームです。
 
@@ -105,12 +111,12 @@ ChEMBL（EMBL-EBI）に登録されている Vidarabine の作用機序（非公
 
 **理由：**
 - 予測は TxGNN の高スコアのみに基づき、臨床試験も文献もなく、機序的な裏付けもありません。
-- 日本では現在販売されており、12 件の承認のうち 10 件が有効です。
+- 日本では現在販売されており、有効な承認があります（件数はクイック概要を参照）。
 - 口角炎に関する唯一の文献では、ビダラビンは無効でした。
 
 <!-- review:begin jp-lic-20261117-vidarabine-2 -->
 
-> **確認による訂正（2026-11-17）**：元の記載は「日本では現在販売されており、12 件の承認のうち 12 件が有効です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 12 件のうち有効（収載中）は 10 件で、2 件は経過措置期間満了などにより薬価基準から削除されています（621995901（廃止年月日 2026-09-30、後継コード 622782300）、622782400（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+> **確認による訂正（2026-11-17）**：元の記載は「日本では現在販売されており、12 件の承認のうち 12 件が有効です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、次の承認が経過措置期間満了などにより薬価基準から削除されています（621995901（廃止年月日 2026-09-30、後継コード 622782300）、622782400（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
 
 <!-- review:end jp-lic-20261117-vidarabine-2 -->
 
@@ -129,8 +135,8 @@ ChEMBL（EMBL-EBI）に登録されている Vidarabine の作用機序（非公
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
-| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え（2026-11-20 改訂、旧版は記録に保存） | [ChEMBL CHEMBL1090 (vidarabine): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL1090) |
 
 <!-- review:end log -->

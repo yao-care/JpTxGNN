@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Tegafur"
 predicted_indications: ["cecum villous adenoma", "cecum neuroendocrine tumor G1", "lipoma of colon", "cecal disease", "colon leiomyoma", "benign neoplasm of cecum", "colonic lymphangioma", "cavernous hemangioma of colon"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tegafur：予測新適応症はCecum villous adenoma（エビデンスレベル L5）。薬価基準の品目：6 件（現在収載 6 件）"
 ---
 
@@ -94,13 +94,19 @@ ChEMBL（EMBL-EBI）に登録されている Tegafur の作用機序（非公式
 
 日本国内で販売されており、6件の承認すべてが有効です。承認適応症のテキストデータもありません。
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620009353 | ティーエスワン配合顆粒T20 | 顆粒（テガフール相当量 20 mg） | 記載なし（有効） |
-| 620009354 | ティーエスワン配合顆粒T25 | 顆粒（テガフール相当量 25 mg） | 記載なし（有効） |
-| 621929901 | ユーエフティE配合顆粒T100 | 顆粒（テガフール相当量 100 mg） | 記載なし（有効） |
-| 620915001 | ユーエフティ配合カプセルT100 | カプセル（テガフール相当量 100 mg） | 記載なし（有効） |
-| 621930001 | ユーエフティE配合顆粒T150 | 顆粒（テガフール相当量 150 mg） | 記載なし（有効） |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620009353 | ティーエスワン配合顆粒Ｔ２０ ２０ｍｇ（テガフール相当量） | 有効 |
+| 620009354 | ティーエスワン配合顆粒Ｔ２５ ２５ｍｇ（テガフール相当量） | 有効 |
+| 621929901 | ユーエフティＥ配合顆粒Ｔ１００ １００ｍｇ（テガフール相当量） | 有効 |
+| 620915001 | ユーエフティ配合カプセルＴ１００ １００ｍｇ（テガフール相当量） | 有効 |
+| 621930001 | ユーエフティＥ配合顆粒Ｔ１５０ １５０ｍｇ（テガフール相当量） | 有効 |
+
+上表はデータ上の 6 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 細胞毒性
 
@@ -127,7 +133,7 @@ ChEMBL（EMBL-EBI）に登録されている Tegafur の作用機序（非公式
 
 <!-- review:begin jp-lic-20261106-tegafur-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「ただし、これらは配合剤での試験であり、テガフール単剤の試験ではありません。また、日本の承認は全て取消済みで、添付文書の安全性情報も取得できていません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 6 件、うち有効 6 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「ただし、これらは配合剤での試験であり、テガフール単剤の試験ではありません。また、日本の承認は全て取消済みで、添付文書の安全性情報も取得できていません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-tegafur-1 -->
 
@@ -138,7 +144,7 @@ ChEMBL（EMBL-EBI）に登録されている Tegafur の作用機序（非公式
 
 <!-- review:begin jp-lic-20261106-tegafur-2 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「単剤か配合剤か、既存の承認状況（取消済み）を踏まえた開発形態の整理／特定集団（高齢者、腎機能低下者など）の安全性モニタリング計画」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 6 件、うち有効 6 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「単剤か配合剤か、既存の承認状況（取消済み）を踏まえた開発形態の整理／特定集団（高齢者、腎機能低下者など）の安全性モニタリング計画」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-tegafur-2 -->
 
@@ -152,8 +158,8 @@ ChEMBL（EMBL-EBI）に登録されている Tegafur の作用機序（非公式
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「また、日本の承認は全て取消済みで、添付文書の安全性情報も取得できていません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-06 | 削除：「単剤か配合剤か、既存の承認状況（取消済み）を踏まえた開発形態の整理」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「また、日本の承認は全て取消済みで、添付文書の安全性情報も取得できていません」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「単剤か配合剤か、既存の承認状況（取消済み）を踏まえた開発形態の整理」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え（2026-11-20 改訂、旧版は記録に保存） | [ChEMBL CHEMBL20883 (tegafur): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL20883) |
 
 <!-- review:end log -->

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Ciprofloxacin"
 predicted_indications: ["diffuse scleroderma", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "punctate epithelial keratoconjunctivitis", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ciprofloxacin：予測新適応症はびまん性強皮症 (diffuse scleroderma)（エビデンスレベル L5）。薬価基準の品目：4 件（現在収載 2 件）"
 ---
 
@@ -75,12 +75,16 @@ TxGNN モデルは**びまん性強皮症 (diffuse scleroderma)** に有効で�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620009552 | シプロフロキサシン点滴静注液２００ｍｇ「ＮＰ」　１００ｍＬ | 注液 | 局所データに記載なし |
-| 622605501 | シプロフロキサシン点滴静注液４００ｍｇ「ニプロ」　２００ｍＬ | 注液 | 局所データに記載なし |
-| 622905400 | シプロフロキサシン４００ｍｇ２００ｍＬ注射液 | 注射液 | 局所データに記載なし |
-| 622905200 | シプロフロキサシン２００ｍｇ１００ｍＬ注射液 | 注射液 | 局所データに記載なし |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620009552 | シプロフロキサシン点滴静注液２００ｍｇ「ＮＰ」 １００ｍＬ | 有効 |
+| 622605501 | シプロフロキサシン点滴静注液４００ｍｇ「ニプロ」 ２００ｍＬ | 有効 |
+| 622905400 | シプロフロキサシン４００ｍｇ２００ｍＬ注射液 | 薬価削除（2026-03-31） |
+| 622905200 | シプロフロキサシン２００ｍｇ１００ｍＬ注射液 | 薬価削除（2026-03-31） |
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

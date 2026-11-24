@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Flutamide"
 predicted_indications: ["fibroma of prostate", "Brenner tumor", "benign reproductive system neoplasm", "prostate leiomyoma", "benign prostate phyllodes tumor", "HIV infectious disease", "feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Flutamide：予測新適応症は前立腺線維腫 (fibroma of prostate)（エビデンスレベル L5）。薬価基準の品目：4 件（現在収載 3 件）"
 ---
 
@@ -70,12 +70,16 @@ ChEMBL（EMBL-EBI）に登録されている Flutamide の作用機序（非公�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 |
-|---------|------|------|
-| 670006876 | オダイン錠１２５ｍｇ（選） | 錠１２５ｍｇ（選） |
-| 622742500 | フルタミド１２５ｍｇ錠 | 錠 |
-| 620006876 | オダイン錠１２５ｍｇ | 錠１２５ｍｇ |
-| 621484705 | フルタミド錠１２５ｍｇ「ＶＴＲＳ」 | 錠１２５ｍｇ「ＶＴＲＳ」 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 670006876 | オダイン錠１２５ｍｇ（選） | 有効 |
+| 622742500 | フルタミド１２５ｍｇ錠 | 薬価削除（2026-03-31） |
+| 620006876 | オダイン錠１２５ｍｇ | 有効 |
+| 621484705 | フルタミド錠１２５ｍｇ「ＶＴＲＳ」 | 有効 |
+
+<!-- licenses:end -->
 
 いずれも経口の単剤です。
 

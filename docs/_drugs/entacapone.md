@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 110
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Entacapone：予測新適応症はPLA2G6 関連神経変性症 (PLA2G6-associated neurodegeneration)（エビデンスレベル L5）。既存適応症：パーキンソン病（COMT 阻害薬、抗ジスキネジア）"
 monitor_inn: "Entacapone"
 predicted_indications: ["PLA2G6-associated neurodegeneration", "Rasmussen subacute encephalitis", "myelitis", "paralysis agitans, juvenile, of Hunt", "transaldolase deficiency", "lethal infantile mitochondrial myopathy", "Lewy body dementia", "fructose-1,6-bisphosphatase deficiency", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "progressive supranuclear palsy-corticobasal syndrome"]
@@ -70,19 +70,25 @@ PLA2G6 関連神経変性症にはジストニア・パーキンソニズムの�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 | 状態 |
-|---------|------|------|-----------|------|
-| 622478401 | エンタカポン錠１００ｍｇ「トーワ」 | 錠100mg | パーキンソン病治療薬、抗ジスキネジア、COMT阻害薬 | 有効 |
-| 622878901 | エンタカポン錠１００ｍｇ「サンド」 | 錠100mg | パーキンソン病治療薬、抗ジスキネジア、COMT阻害薬 | 有効 |
-| 622490101 | エンタカポン錠１００ｍｇ「ＪＧ」 | 錠100mg | パーキンソン病治療薬、抗ジスキネジア、COMT阻害薬 | 有効 |
-| 670004853 | コムタン錠１００ｍｇ（選） | 錠100mg | パーキンソン病治療薬、抗ジスキネジア、COMT阻害薬 | 有効 |
-| 620004853 | コムタン錠１００ｍｇ | 錠100mg | パーキンソン病治療薬、抗ジスキネジア、COMT阻害薬 | 有効 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622478401 | エンタカポン錠１００ｍｇ「トーワ」 | 有効 |
+| 622878901 | エンタカポン錠１００ｍｇ「サンド」 | 有効 |
+| 622490101 | エンタカポン錠１００ｍｇ「ＪＧ」 | 有効 |
+| 670004853 | コムタン錠１００ｍｇ（選） | 有効 |
+| 620004853 | コムタン錠１００ｍｇ | 有効 |
+
+上表はデータ上の 6 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 他に「エンタカポン錠１００ｍｇ「アメル」」があります。
 
 <!-- review:begin jp-lic-20261106-entacapone-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「他に「エンタカポン錠１００ｍｇ「アメル」」（承認番号 622498501、取消）があります。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 6 件、うち有効 6 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「他に「エンタカポン錠１００ｍｇ「アメル」」（承認番号 622498501、取消）があります。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-entacapone-1 -->
 
@@ -126,7 +132,7 @@ PLA2G6 関連神経変性症にはジストニア・パーキンソニズムの�
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「承認番号 622498501、取消」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「承認番号 622498501、取消」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: entacapone prescribing information, Rising Pharma Holdings, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ee02a04a-4b42-4cfa-8d9d-b1459c0ee9fd) |
 
 <!-- review:end log -->

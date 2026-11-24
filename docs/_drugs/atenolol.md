@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Atenolol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Atenolol：予測新適応症は悪性高血圧性腎疾患（エビデンスレベル L5）。既存適応症：本態性高血圧症、狭心症、期外収縮"
 ---
 
@@ -73,21 +73,27 @@ TxGNN モデルは**悪性高血圧性腎疾患 (malignant hypertensive renal di
 
 ## 日本市販情報
 
-日本では 20 件の単剤の承認（うち有効 18 件、2 件は薬価基準から削除済み）があり、以下は主要な 5 件です。
+日本では単剤の承認（有効なものと薬価基準から削除済みのものがあり、件数はクイック概要を参照）があり、以下は主要な 5 件です。
 
 <!-- review:begin jp-lic-20261117-atenolol-1 -->
 
-> **確認による訂正（2026-11-17）**：元の記載は「日本では 20 件の単剤の承認（すべて有効）があり、」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 20 件のうち有効（収載中）は 18 件で、2 件は経過措置期間満了などにより薬価基準から削除されています（620254560（廃止年月日 2026-09-30、後継コード 610461003）、620254424（廃止年月日 2026-09-30、後継コード 610461002））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+> **確認による訂正（2026-11-17）**：元の記載は「日本では 20 件の単剤の承認（すべて有効）があり、」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、次の承認が経過措置期間満了などにより薬価基準から削除されています（620254560（廃止年月日 2026-09-30、後継コード 610461003）、620254424（廃止年月日 2026-09-30、後継コード 610461002））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
 
 <!-- review:end jp-lic-20261117-atenolol-1 -->
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620002066 | テノーミン錠25 25mg | 錠 | 抗不整脈薬、血圧降下薬、血管拡張薬、β1遮断薬。本態性高血圧症、狭心症、期外収縮 |
-| 620002067 | テノーミン錠50 50mg | 錠 | 抗不整脈薬、血圧降下薬、血管拡張薬、β1遮断薬。本態性高血圧症、狭心症、期外収縮 |
-| 612120318 | アルセノール錠25 25mg | 錠 | 抗不整脈薬、血圧降下薬、血管拡張薬、β1遮断薬。本態性高血圧症、狭心症、期外収縮 |
-| 620254411 | アテノロール錠25mg「サワイ」 | 錠 | 抗不整脈薬、血圧降下薬、血管拡張薬、β1遮断薬。本態性高血圧症、狭心症、期外収縮 |
-| 620254560 | アテノロール錠50mg「JG」 | 錠 | 抗不整脈薬、血圧降下薬、血管拡張薬、β1遮断薬。本態性高血圧症、狭心症、期外収縮 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620002066 | テノーミン錠２５ ２５ｍｇ | 有効 |
+| 620002067 | テノーミン錠５０ ５０ｍｇ | 有効 |
+| 612120318 | アルセノール錠２５ ２５ｍｇ | 有効 |
+| 620254411 | アテノロール錠２５ｍｇ「サワイ」 | 有効 |
+| 620254560 | アテノロール錠５０ｍｇ「ＪＧ」 | 薬価削除（2026-09-30、後継コード 610461003） |
+
+上表はデータ上の 20 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 
@@ -120,7 +126,7 @@ TxGNN モデルは**悪性高血圧性腎疾患 (malignant hypertensive renal di
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Tenormin (atenolol) prescribing information, Upsher-Smith Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6e850b1e-28a4-4ff8-8ed7-bb0b29faa28a) |
 
 <!-- review:end log -->

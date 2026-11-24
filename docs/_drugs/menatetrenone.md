@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Menatetrenone"
 predicted_indications: ["lipoma of the conjunctiva", "bronchial adenomas/carcinoids childhood", "chondroid hamartoma", "ductal or ductular proliferation", "non-seminomatous lesion", "tumor of testis and paratestis", "benign neoplasm of tongue", "thyroglossal duct cyst", "mesenchymoma", "cystic neoplasm"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Menatetrenone：予測新適応症は結膜脂肪腫 (lipoma of the conjunctiva)（エビデンスレベル L5）。既存適応症：骨粗鬆症"
 ---
 
@@ -64,19 +64,25 @@ TxGNN モデルは**結膜脂肪腫 (lipoma of the conjunctiva)** に有効で�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 621804203 | メナテトレノンカプセル１５ｍｇ「ＣＨ」 | カプセル | 止血薬、骨粗鬆症治療薬（骨粗鬆症） |
-| 670407141 | グラケーカプセル１５ｍｇ（選） | カプセル | 止血薬、骨粗鬆症治療薬（骨粗鬆症） |
-| 620005573 | メナテトレノンカプセル１５ｍｇ「科研」 | カプセル | 止血薬、骨粗鬆症治療薬（骨粗鬆症） |
-| 620008109 | メナテトレノンカプセル１５ｍｇ「トーワ」 | カプセル | 止血薬、骨粗鬆症治療薬（骨粗鬆症） |
-| 622958100 | メナテトレノン１５ｍｇカプセル | カプセル | 止血薬、骨粗鬆症治療薬（骨粗鬆症） |
+<!-- licenses:begin -->
 
-上記を含む 7 件の承認のうち 5 件が有効です（2 件は薬価基準から削除済み）。
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 621804203 | メナテトレノンカプセル１５ｍｇ「ＣＨ」 | 薬価削除（2026-09-30、後継コード 622958100） |
+| 670407141 | グラケーカプセル１５ｍｇ（選） | 有効 |
+| 620005573 | メナテトレノンカプセル１５ｍｇ「科研」 | 薬価削除（2026-09-30、後継コード 622958100） |
+| 620008109 | メナテトレノンカプセル１５ｍｇ「トーワ」 | 有効 |
+| 622958100 | メナテトレノン１５ｍｇカプセル | 有効 |
+
+上表はデータ上の 7 件のうち 5 件です。
+
+<!-- licenses:end -->
+
+上記を含む承認には有効なものと薬価基準から削除済みのものがあります（件数はクイック概要を参照）。
 
 <!-- review:begin jp-lic-20261117-menatetrenone-1 -->
 
-> **確認による訂正（2026-11-17）**：元の記載は「上記を含む 7 件の承認はすべて有効です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 7 件のうち有効（収載中）は 5 件で、2 件は経過措置期間満了などにより薬価基準から削除されています（621804203（廃止年月日 2026-09-30、後継コード 622958100）、620005573（廃止年月日 2026-09-30、後継コード 622958100））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+> **確認による訂正（2026-11-17）**：元の記載は「上記を含む 7 件の承認はすべて有効です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、次の承認が経過措置期間満了などにより薬価基準から削除されています（621804203（廃止年月日 2026-09-30、後継コード 622958100）、620005573（廃止年月日 2026-09-30、後継コード 622958100））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
 
 <!-- review:end jp-lic-20261117-menatetrenone-1 -->
 
@@ -93,7 +99,7 @@ TxGNN モデルは**結膜脂肪腫 (lipoma of the conjunctiva)** に有効で�
 
 <!-- review:begin jp-lic-20261106-menatetrenone-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「予測スコアは高いものの、臨床試験・文献が一件もなく、機序的な裏付けもないため、エビデンスレベルは L5（モデル予測のみ）です。また、日本では現在有効な承認がなく、添付文書に基づく安全性評価もできていません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 7 件、うち有効 7 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「予測スコアは高いものの、臨床試験・文献が一件もなく、機序的な裏付けもないため、エビデンスレベルは L5（モデル予測のみ）です。また、日本では現在有効な承認がなく、添付文書に基づく安全性評価もできていません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-menatetrenone-1 -->
 
@@ -106,7 +112,7 @@ TxGNN モデルは**結膜脂肪腫 (lipoma of the conjunctiva)** に有効で�
 
 <!-- review:begin jp-lic-20261106-menatetrenone-2 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「現在の市販状況（承認整理の経緯）の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 7 件、うち有効 7 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「現在の市販状況（承認整理の経緯）の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-menatetrenone-2 -->
 
@@ -118,9 +124,9 @@ TxGNN モデルは**結膜脂肪腫 (lipoma of the conjunctiva)** に有効で�
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「また、日本では現在有効な承認がなく、添付文書に基づく安全性評価もできていません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-06 | 削除：「承認整理の経緯」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-06 | 削除：「また、日本では現在有効な承認がなく、添付文書に基づく安全性評価もできていません」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「承認整理の経緯」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 
 <!-- review:end log -->
 

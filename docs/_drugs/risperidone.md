@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 267
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-24
 monitor_inn: "Risperidone"
 predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania"]
 description: "Risperidone：予測新適応症は進行性側弯を伴う家族性水平注視麻痺 (gaze palsy, familial horizontal, with progressive scoliosis)（エビデンスレベル L5）。薬価基準の品目：20 件以上"
@@ -72,13 +72,19 @@ TxGNN モデルは **進行性側弯を伴う家族性水平注視麻痺 (gaze p
 
 主要な承認を 5 件記載します。承認記録は一部のみの可能性があります。
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620000170 | リスパダール錠３ｍｇ | 錠 | 統合失調症 |
-| 670409339 | リスパダール細粒１％（選） | 細粒 | 統合失調症 |
-| 610462014 | リスパダール内用液１ｍｇ／ｍＬ　０．１％ | 内用液 | （記載なし） |
-| 621905201 | リスパダール　コンスタ筋注用２５ｍｇ　（懸濁用液付） | 筋注用 | （記載なし） |
-| 620005588 | リスペリドン細粒１％「アメル」 | 細粒 | 統合失調症 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620000170 | リスパダール錠３ｍｇ | 有効 |
+| 670409339 | リスパダール細粒１％（選） | 有効 |
+| 610462014 | リスパダール内用液１ｍｇ／ｍＬ ０．１％ | 有効 |
+| 621905201 | リスパダール コンスタ筋注用２５ｍｇ （懸濁用液付） | 有効 |
+| 620005588 | リスペリドン細粒１％「アメル」 | 有効 |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 
@@ -108,12 +114,6 @@ TxGNN モデルは **進行性側弯を伴う家族性水平注視麻痺 (gaze p
 臨床応用の前に臨床的検証が必要です。
 
 ---
-
-
-
-
-
-
 
 <!-- brand-names:start -->
 ## 日本での販売名

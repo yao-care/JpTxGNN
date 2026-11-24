@@ -5,7 +5,7 @@ parent: 中エビデンスレベル
 nav_order: 243
 evidence_level: L4
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Phenylephrine"
 predicted_indications: ["nasal cavity disease", "trigeminal autonomic cephalalgia"]
 description: "Phenylephrine：予測新適応症は鼻腔疾患 (nasal cavity disease)（エビデンスレベル L4）。薬価基準の品目：3 件（現在収載 3 件）"
@@ -77,11 +77,15 @@ TxGNN モデルは**鼻腔疾患 (Nasal Cavity Disease)** に有効である可�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620002594 | ネオシネジンコーワ注５ｍｇ　０．５％１ｍＬ | 注射剤 | （記載なし）／有効 |
-| 620002593 | ネオシネジンコーワ注１ｍｇ　０．１％１ｍＬ | 注射剤 | （記載なし）／有効 |
-| 661310098 | ネオシネジンコーワ５％点眼液 | 点眼液 | （記載なし）／有効 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620002594 | ネオシネジンコーワ注５ｍｇ ０．５％１ｍＬ | 有効 |
+| 620002593 | ネオシネジンコーワ注１ｍｇ ０．１％１ｍＬ | 有効 |
+| 661310098 | ネオシネジンコーワ５％点眼液 | 有効 |
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 
@@ -108,7 +112,7 @@ TxGNN モデルは**鼻腔疾患 (Nasal Cavity Disease)** に有効である可�
 
 <!-- review:begin jp-lic-20261106-phenylephrine-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「剤形・投与経路（点鼻など）の適合性を確認する／日本で承認が取り消された経緯を確認する」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 3 件、うち有効 3 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「剤形・投与経路（点鼻など）の適合性を確認する／日本で承認が取り消された経緯を確認する」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-phenylephrine-1 -->
 
@@ -120,7 +124,7 @@ TxGNN モデルは**鼻腔疾患 (Nasal Cavity Disease)** に有効である可�
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「日本で承認が取り消された経緯を確認する」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本で承認が取り消された経緯を確認する」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Biorphen (phenylephrine hydrochloride) prescribing information, Dr. Reddy's Laboratories Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2f715e4e-b269-b935-d2c9-003cb29770be) |
 
 <!-- review:end log -->

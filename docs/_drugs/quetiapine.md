@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Quetiapine"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "hydranencephaly (disease)", "distal 17p13.3 microdeletion syndrome", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "myopia X-linked", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "trichotillomania", "syndromic myopia", "myopia 26, X-linked, female-limited"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Quetiapine：予測新適応症は網膜ジストロフィー（眼外異常を伴う、または伴わない）（エビデンスレベル L5）。既存適応症：統合失調症、双極性障害におけるうつ症状"
 ---
 
@@ -71,13 +71,19 @@ TxGNN モデルは**網膜ジストロフィー（retinal dystrophy with or with
 
 日本で取得された承認 20 件は現在有効で、国内で販売されています。下表は主要な 5 件です。
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 610443072 | セロクエル25mg錠 | 錠 | 統合失調症、双極性障害におけるうつ症状 |
-| 610443073 | セロクエル100mg錠 | 錠 | 統合失調症、双極性障害におけるうつ症状 |
-| 621955701 | セロクエル200mg錠 | 錠 | 統合失調症、双極性障害におけるうつ症状 |
-| 620001928 | セロクエル細粒50% | 細粒50% | 統合失調症、双極性障害におけるうつ症状 |
-| 622180001 | クエチアピン錠25mg「明治」 | 錠25mg「明治」 | 統合失調症、双極性障害におけるうつ症状 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 610443072 | セロクエル２５ｍｇ錠 | 有効 |
+| 610443073 | セロクエル１００ｍｇ錠 | 有効 |
+| 621955701 | セロクエル２００ｍｇ錠 | 有効 |
+| 620001928 | セロクエル細粒５０％ | 有効 |
+| 622180001 | クエチアピン錠２５ｍｇ「明治」 | 有効 |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

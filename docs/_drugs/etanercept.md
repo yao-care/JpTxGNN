@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Etanercept"
 predicted_indications: ["hypermobility of coccyx", "Kummell disease", "vertebral disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Etanercept：予測新適応症は尾骨過可動性 (hypermobility of coccyx)（エビデンスレベル L5）。薬価基準の品目：20 件以上"
 ---
 
@@ -69,6 +69,20 @@ TxGNN モデルは**尾骨過可動性 (hypermobility of coccyx)** に有効で�
 現在、関連する文献はありません。
 
 ## 日本市販情報
+
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620002479 | エンブレル皮下注用２５ｍｇ | 有効 |
+| 620007231 | エンブレル皮下注２５ｍｇシリンジ０．５ｍＬ | 有効 |
+| 621934101 | エンブレル皮下注用１０ｍｇ | 有効 |
+| 622003901 | エンブレル皮下注５０ｍｇシリンジ１．０ｍＬ １ｍＬ | 有効 |
+| 622242701 | エンブレル皮下注５０ｍｇペン１．０ｍＬ １ｍＬ | 有効 |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 日本では市販中です。このレポートの元データには、各製品の承認適応症の記載がありません。製品ごとの承認情報は、別途プログラムが提示する承認一覧を参照してください。
 

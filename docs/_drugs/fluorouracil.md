@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Fluorouracil"
 predicted_indications: ["botryoid-type embryonal rhabdomyosarcoma of the vagina", "rhabdomyosarcoma (disease)", "parameningeal embryonal rhabdomyosarcoma", "embryonal extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "liver sarcoma", "sickle cell-hemoglobin d disease syndrome", "sickle cell-beta-thalassemia disease syndrome", "hereditary persistence of fetal hemoglobin-sickle cell disease syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fluorouracil：予測新適応症は膣のブドウ状型胚性横紋筋肉腫 (botryoid-type embryonal rhabdomyosarcoma of the vagin…（エビデンスレベル L5）。既存適応症：胃癌、肝癌、結腸・直腸癌、乳癌、膵癌、子宮頸癌、子宮体癌、卵巣癌、食道癌、肺癌、頭頸部癌、有棘細胞癌、基底細胞癌"
 ---
 
@@ -79,10 +79,14 @@ TxGNN モデルは**胚性横紋筋肉腫（膣のブドウ状型）(botryoid-ty
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 622412501 | フルオロウラシル注２５０ｍｇ「トーワ」（有効） | 注射剤 | 抗悪性腫瘍薬、代謝拮抗薬。胃癌、肝癌、結腸・直腸癌、乳癌、膵癌、子宮頸癌、子宮体癌、卵巣癌、食道癌、肺癌... |
-| 622412601 | フルオロウラシル注１０００ｍｇ「トーワ」（有効） | 注射剤 | 抗悪性腫瘍薬、代謝拮抗薬。胃癌、肝癌、結腸・直腸癌、乳癌、膵癌、子宮頸癌、子宮体癌、卵巣癌、食道癌、肺癌... |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622412501 | フルオロウラシル注２５０ｍｇ「トーワ」 | 有効 |
+| 622412601 | フルオロウラシル注１０００ｍｇ「トーワ」 １，０００ｍｇ | 有効 |
+
+<!-- licenses:end -->
 
 ## 細胞毒性
 
@@ -125,7 +129,7 @@ TxGNN モデルは**胚性横紋筋肉腫（膣のブドウ状型）(botryoid-ty
 
 <!-- review:begin jp-lic-20261106-fluorouracil-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「日本での販売状況（取り消し後の供給状況）の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 2 件、うち有効 2 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「日本での販売状況（取り消し後の供給状況）の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-fluorouracil-1 -->
 
@@ -137,7 +141,7 @@ TxGNN モデルは**胚性横紋筋肉腫（膣のブドウ状型）(botryoid-ty
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「取り消し後の供給状況」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「取り消し後の供給状況」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Favlyxa (fluorouracil) prescribing information, Avyxa Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1daf714b-704c-4bcc-b6e0-6f0eb2bfe66b) |
 
 <!-- review:end log -->

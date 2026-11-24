@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Cabergoline"
 predicted_indications: ["progeria-short stature-pigmented nevi syndrome", "pituitary cancer", "cerebral palsy, spastic quadriplegic", "glaucoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Cabergoline：予測新適応症は早老症・低身長・色素性母斑症候群 (progeria-short stature-pigmented nevi syndrome)（エビデンスレベル L5）。薬価基準の品目：2 件（現在収載 2 件）"
 ---
 
@@ -69,6 +69,15 @@ TxGNN モデルは **早老症・低身長・色素性母斑症候群 (progeria-
 現在、関連する文献はありません。
 
 ## 日本市販情報
+
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 610432023 | カバサール錠０．２５ｍｇ | 有効 |
+| 610432024 | カバサール錠１．０ｍｇ １ｍｇ | 有効 |
+
+<!-- licenses:end -->
 
 日本では「カバサール錠」(0.25 mg、1.0 mg の経口錠) として販売されています。承認番号と承認の詳細は、別途提示される許諾情報を参照してください。
 

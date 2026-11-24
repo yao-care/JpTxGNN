@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 298
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Telmisartan：予測新適応症はPrinzmetal 狭心症 (Prinzmetal angina)（エビデンスレベル L5）。既存適応症：高血圧症（血圧降下薬、アンジオテンシンII受容体拮抗薬）"
 monitor_inn: "Telmisartan"
 predicted_indications: ["Prinzmetal angina", "brain stem infarction", "ABri amyloidosis", "cerebral artery occlusion", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "intracerebral hemorrhage", "Braddock syndrome"]
@@ -100,13 +100,19 @@ TxGNN モデルは **Prinzmetal 狭心症 (Prinzmetal angina)** に有効であ�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620002430 | ミカルディス錠４０ｍｇ | 錠 | 高血圧症（血圧降下薬、アンジオテンシンII受容体拮抗薬） |
-| 621999101 | ミカルディス錠８０ｍｇ | 錠 | 高血圧症（血圧降下薬、アンジオテンシンII受容体拮抗薬） |
-| 622558401 | テルミサルタン錠４０ｍｇ「サワイ」 | 錠 | 高血圧症 |
-| 622569001 | テルミサルタン錠８０ｍｇ「日医工」 | 錠 | 高血圧症 |
-| 622570501 | テルミサルタン錠２０ｍｇ「ニプロ」 | 錠 | 高血圧症 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620002430 | ミカルディス錠４０ｍｇ | 有効 |
+| 621999101 | ミカルディス錠８０ｍｇ | 有効 |
+| 622558401 | テルミサルタン錠４０ｍｇ「サワイ」 | 有効 |
+| 622569001 | テルミサルタン錠８０ｍｇ「日医工」 | 有効 |
+| 622570501 | テルミサルタン錠２０ｍｇ「ニプロ」 | 有効 |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 20 件の承認が有効で、現在販売されています。
 

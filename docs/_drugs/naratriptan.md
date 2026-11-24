@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 219
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "naratriptan"
 predicted_indications: ["atrophoderma vermiculata", "ulerythema ophryogenesis"]
 description: "Naratriptan：予測新適応症はAtrophoderma vermiculata（エビデンスレベル L5）。薬価基準の品目：3 件（現在収載 3 件）"
@@ -82,11 +82,15 @@ description: "Naratriptan：予測新適応症はAtrophoderma vermiculata（エ�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620006771 | アマージ錠２．５ｍｇ | 錠２．５ｍｇ | 抗片頭痛薬、血管収縮薬、セロトニン受容体作動薬（承認有効） |
-| 622794201 | ナラトリプタン錠２．５ｍｇ「ＫＯ」 | 錠２．５ｍｇ「ＫＯ」 | 抗片頭痛薬、血管収縮薬、セロトニン受容体作動薬（承認有効） |
-| 670006771 | アマージ錠２．５ｍｇ（選） | 錠２．５ｍｇ（選） | 抗片頭痛薬、血管収縮薬、セロトニン受容体作動薬（承認有効） |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620006771 | アマージ錠２．５ｍｇ | 有効 |
+| 622794201 | ナラトリプタン錠２．５ｍｇ「ＫＯ」 | 有効 |
+| 670006771 | アマージ錠２．５ｍｇ（選） | 有効 |
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 
@@ -110,7 +114,7 @@ description: "Naratriptan：予測新適応症はAtrophoderma vermiculata（エ�
 
 <!-- review:begin jp-lic-20261106-naratriptan-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「さらに、知識グラフ上でも片麻痺性片頭痛が禁忌関連疾患に挙がっています。加えて、日本国内では現在販売中の承認がありません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 3 件、うち有効 3 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「さらに、知識グラフ上でも片麻痺性片頭痛が禁忌関連疾患に挙がっています。加えて、日本国内では現在販売中の承認がありません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-naratriptan-1 -->
 
@@ -135,7 +139,7 @@ description: "Naratriptan：予測新適応症はAtrophoderma vermiculata（エ�
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「加えて、日本国内では現在販売中の承認がありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「加えて、日本国内では現在販売中の承認がありません」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: naratriptan prescribing information, ASCLEMED USA INC.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=63ea356f-0895-4540-b242-8e611eacd938) |
 
 <!-- review:end log -->

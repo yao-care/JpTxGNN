@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Tropicamide"
 predicted_indications: ["cauda equina syndrome", "obsolete neurogenic bladder (disease)", "irritable bowel syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tropicamide：予測新適応症は馬尾症候群 (Cauda Equina Syndrome)（エビデンスレベル L5）。既存適応症：散瞳薬、ムスカリン受容体拮抗薬"
 ---
 
@@ -69,18 +69,22 @@ TxGNN モデルは**馬尾症候群 (Cauda Equina Syndrome)** に有効である
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620003871 | ミドリンＭ点眼液０．４％ | 点眼液 | （記載なし） |
-| 670003871 | ミドリンＭ点眼液０．４％（選） | 点眼液 | （記載なし） |
-| 620003872 | ミドリンＰ点眼液 | 点眼液 | （記載なし） |
-| 620196401 | トロピカミド点眼液０．４％「日点」 | 点眼液 | 散瞳薬、ムスカリン受容体拮抗薬 |
+<!-- licenses:begin -->
 
-4 件の承認のうち 3 件が有効で（1 件は薬価基準から削除済み）、国内で販売されています。
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620003871 | ミドリンＭ点眼液０．４％ | 有効 |
+| 670003871 | ミドリンＭ点眼液０．４％（選） | 薬価削除（2026-03-31） |
+| 620003872 | ミドリンＰ点眼液 | 有効 |
+| 620196401 | トロピカミド点眼液０．４％「日点」 | 有効 |
+
+<!-- licenses:end -->
+
+承認には有効なものと薬価基準から削除済みのものがあり（件数はクイック概要を参照）、国内で販売されています。
 
 <!-- review:begin jp-lic-20261117-tropicamide-1 -->
 
-> **確認による訂正（2026-11-17）**：元の記載は「4 件の承認のうち 4 件が有効で、国内で販売されています。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 4 件のうち有効（収載中）は 3 件で、1 件は経過措置期間満了などにより薬価基準から削除されています（670003871（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+> **確認による訂正（2026-11-17）**：元の記載は「4 件の承認のうち 4 件が有効で、国内で販売されています。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、次の承認が経過措置期間満了などにより薬価基準から削除されています（670003871（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
 
 <!-- review:end jp-lic-20261117-tropicamide-1 -->
 
@@ -100,7 +104,7 @@ TxGNN モデルは**馬尾症候群 (Cauda Equina Syndrome)** に有効である
 
 <!-- review:begin jp-lic-20261106-tropicamide-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「点眼剤として販売終了となっており、全身投与の安全性・薬物動態データもないため、現時点で先に進める根拠は不足しています。」でした。削除：医薬品マスター（薬価基準収載品目）の収載情報と一致しない記載でした（2026-11-06）。データ上の収載は 4 件、うち有効 4 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「点眼剤として販売終了となっており、全身投与の安全性・薬物動態データもないため、現時点で先に進める根拠は不足しています。」でした。削除：医薬品マスター（薬価基準収載品目）の収載情報と一致しない記載でした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-tropicamide-1 -->
 
@@ -120,8 +124,8 @@ TxGNN モデルは**馬尾症候群 (Cauda Equina Syndrome)** に有効である
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「点眼剤として販売終了となっており」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-06 | 削除：「点眼剤として販売終了となっており」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Mydriacyl (tropicamide) prescribing information, Alcon Laboratories, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0d4f4a2e-eb00-4c65-b3fa-baf5738d468d) |
 
 <!-- review:end log -->

@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 342
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Warfarin"
 predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombophilia", "rheumatoid arthritis", "breast fibrocystic disease", "benign mammary dysplasia"]
 description: "Warfarin：予測新適応症はHeparin cofactor 2 deficiency（エビデンスレベル L5）。薬価基準の品目：18 件（現在収載 17 件）"
@@ -89,13 +89,19 @@ TxGNN モデルは複数の血栓性疾患、とくに**血栓性素因 (Thrombo
 
 以下は代表的な5件です。
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 610463228 | ワルファリンカリウム錠　２ｍｇ | 錠　２ｍｇ | 抗凝固薬、ビタミンK拮抗薬 |
-| 610463227 | ワルファリンカリウム錠　０．５ｍｇ | 錠　０．５ｍｇ | 抗凝固薬、ビタミンK拮抗薬 |
-| 613330001 | ワルファリンカリウム錠　１ｍｇ | 錠　１ｍｇ | 抗凝固薬、ビタミンK拮抗薬 |
-| 613330002 | ワルファリンカリウム錠　５ｍｇ | 錠　５ｍｇ | 抗凝固薬、ビタミンK拮抗薬 |
-| 613330004 | ワーファリン錠５ｍｇ | 錠５ｍｇ | － |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 610463228 | ワルファリンカリウム錠 ２ｍｇ | 有効 |
+| 610463227 | ワルファリンカリウム錠 ０．５ｍｇ | 有効 |
+| 613330001 | ワルファリンカリウム錠 １ｍｇ | 有効 |
+| 613330002 | ワルファリンカリウム錠 ５ｍｇ | 有効 |
+| 613330004 | ワーファリン錠５ｍｇ | 有効 |
+
+上表はデータ上の 18 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

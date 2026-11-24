@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 7
 monitor_inn: "docetaxel"
 predicted_indications: ["Ewing sarcoma", "primary pulmonary lymphoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "pulmonary blastoma", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Docetaxel：予測新適応症はユーイング肉腫 (Ewing sarcoma)（エビデンスレベル L2）。薬価基準の品目：20 件以上"
 ---
 
@@ -91,13 +91,19 @@ TxGNN モデルは**ユーイング肉腫 (Ewing sarcoma)** に有効である�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 622356401 | ドセタキセル点滴静注液２０ｍｇ／１ｍＬ「サワイ」 | 注液 | 記載なし |
-| 670919901 | タキソテール点滴静注用８０ｍｇ　２ｍＬ（溶解液付）（選） | 注用 | 記載なし |
-| 622285201 | ドセタキセル点滴静注液２０ｍｇ／２ｍＬ「ホスピーラ」 | 注液 | 記載なし |
-| 622215401 | ドセタキセル点滴静注液８０ｍｇ／８ｍＬ「サンド」 | 注液 | 記載なし |
-| 622435002 | ドセタキセル点滴静注２０ｍｇ／１ｍＬ「ニプロ」 | 注 | 記載なし |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622356401 | ドセタキセル点滴静注液２０ｍｇ／１ｍＬ「サワイ」 | 薬価削除（2026-03-31） |
+| 670919901 | タキソテール点滴静注用８０ｍｇ ２ｍＬ（溶解液付）（選） | 薬価削除（2026-03-31） |
+| 622285201 | ドセタキセル点滴静注液２０ｍｇ／２ｍＬ「ホスピーラ」 | 有効 |
+| 622215401 | ドセタキセル点滴静注液８０ｍｇ／８ｍＬ「サンド」 | 有効 |
+| 622435002 | ドセタキセル点滴静注２０ｍｇ／１ｍＬ「ニプロ」 | 有効 |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 承認の一部のみを記載しています（記録は一部のみの可能性があります）。
 

@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 200
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Meloxicam：予測新適応症は肢中間部異形成症 Hunter-Thompson 型 (acromesomelic dysplasia…（エビデンスレベル L5）。既存適応症：関節リウマチ（鎮痛薬、抗炎症薬、シクロオキシゲナーゼ2阻害薬）"
 monitor_inn: "Meloxicam"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "rheumatoid nodulosis", "WHIM syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
@@ -85,13 +85,19 @@ TxGNN モデルは**肢中間部異形成症 Hunter-Thompson 型 (acromesomelic 
 
 <!-- review:end jp-lic-20261106-meloxicam-1 -->
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620002431 | モービック錠５ｍｇ | 錠５ｍｇ | 関節リウマチ（鎮痛薬、抗炎症薬、シクロオキシゲナーゼ2阻害薬） |
-| 620002432 | モービック錠１０ｍｇ | 錠１０ｍｇ | 関節リウマチ（鎮痛薬、抗炎症薬、シクロオキシゲナーゼ2阻害薬） |
-| 620008124 | メロキシカム錠５ｍｇ「タカタ」 | 錠５ｍｇ「タカタ」 | 関節リウマチ（鎮痛薬、抗炎症薬、シクロオキシゲナーゼ2阻害薬） |
-| 620008139 | メロキシカム錠１０ｍｇ「サワイ」 | 錠１０ｍｇ「サワイ」 | 関節リウマチ（鎮痛薬、抗炎症薬、シクロオキシゲナーゼ2阻害薬） |
-| 620008147 | メロキシカム錠１０ｍｇ「日医工」 | 錠１０ｍｇ「日医工」 | 関節リウマチ（鎮痛薬、抗炎症薬、シクロオキシゲナーゼ2阻害薬） |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620002431 | モービック錠５ｍｇ | 有効 |
+| 620002432 | モービック錠１０ｍｇ | 有効 |
+| 620008124 | メロキシカム錠５ｍｇ「タカタ」 | 薬価削除（2026-03-31） |
+| 620008139 | メロキシカム錠１０ｍｇ「サワイ」 | 有効 |
+| 620008147 | メロキシカム錠１０ｍｇ「日医工」 | 有効 |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

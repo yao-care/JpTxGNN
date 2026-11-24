@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Tadalafil"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly", "kyphoscoliotic heart disease", "migraine with brainstem aura"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tadalafil：予測新適応症はAmbras 型汎発性先天性多毛症 (Ambras type hypertrichosis universalis congenita)（エビデンスレベル L5）。薬価基準の品目：20 件以上"
 ---
 
@@ -65,13 +65,19 @@ TxGNN モデルは **Ambras 型汎発性先天性多毛症 (Ambras type hypertri
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 621954301 | アドシルカ錠20mg | 錠 20mg | 血圧降下薬, 勃起不全治療薬, ホスホジエステラーゼV阻害薬 疾患 肺動脈性肺高血圧症 [DS:H01621] |
-| 671954301 | アドシルカ錠20mg（選） | 錠 20mg（選） | 血圧降下薬, 勃起不全治療薬, ホスホジエステラーゼV阻害薬 疾患 肺動脈性肺高血圧症 [DS:H01621] |
-| 672306501 | ザルティア錠5mg（選） | 錠 5mg（選） | 血圧降下薬, 勃起不全治療薬, ホスホジエステラーゼV阻害薬 疾患 肺動脈性肺高血圧症 [DS:H01621] |
-| 628711002 | シアリス錠20mg | 錠 20mg | （記載なし） |
-| 628710902 | シアリス錠10mg | 錠 10mg | （記載なし） |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 621954301 | アドシルカ錠２０ｍｇ | 有効 |
+| 671954301 | アドシルカ錠２０ｍｇ（選） | 有効 |
+| 672306501 | ザルティア錠５ｍｇ（選） | 有効 |
+| 628711002 | シアリス錠２０ｍｇ | 有効 |
+| 628710902 | シアリス錠１０ｍｇ | 有効 |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 上記を含む 20 件の承認が有効な状態で、国内で販売されています。
 

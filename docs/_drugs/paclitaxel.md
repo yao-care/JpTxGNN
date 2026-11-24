@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 234
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Paclitaxel"
 predicted_indications: ["parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 description: "Paclitaxel：予測新適応症はParameningeal embryonal rhabdomyosarcoma（エビデンスレベル L5）。薬価基準の品目：12 件（現在収載 6 件）"
@@ -95,13 +95,19 @@ description: "Paclitaxel：予測新適応症はParameningeal embryonal rhabdomy
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620005688 | パクリタキセル注射液30mg「サワイ」 5mL | 注射液 | 乳癌、胃癌、非小細胞肺癌、膵癌、卵巣癌、子宮体癌、頭頸部癌、食道癌... |
-| 620005689 | パクリタキセル注射液100mg「サワイ」 16.7mL | 注射液 | 乳癌、胃癌、非小細胞肺癌、膵癌、卵巣癌、子宮体癌、頭頸部癌、食道癌... |
-| 620005690 | パクリタキセル注射液150mg「サワイ」 25mL | 注射液 | 乳癌、胃癌、非小細胞肺癌、膵癌、卵巣癌、子宮体癌、頭頸部癌、食道癌... |
-| 622259201 | パクリタキセル注射液100mg「NP」 16.7mL | 注射液 | 乳癌、胃癌、非小細胞肺癌、膵癌、卵巣癌、子宮体癌、頭頸部癌、食道癌... |
-| 620004170 | パクリタキセル注30mg/5mL「NK」 | 注射液 | 乳癌、胃癌、非小細胞肺癌、膵癌、卵巣癌、子宮体癌、頭頸部癌、食道癌... |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620005688 | パクリタキセル注射液３０ｍｇ「サワイ」 ５ｍＬ | 薬価削除（2026-03-31） |
+| 620005689 | パクリタキセル注射液１００ｍｇ「サワイ」 １６．７ｍＬ | 薬価削除（2026-03-31） |
+| 620005690 | パクリタキセル注射液１５０ｍｇ「サワイ」 ２５ｍＬ | 薬価削除（2026-03-31） |
+| 622259201 | パクリタキセル注射液１００ｍｇ「ＮＰ」 １６．７ｍＬ | 有効 |
+| 620004170 | パクリタキセル注３０ｍｇ／５ｍＬ「ＮＫ」 | 有効 |
+
+上表はデータ上の 12 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 上記は主要な 5 件です。
 
@@ -134,7 +140,7 @@ description: "Paclitaxel：予測新適応症はParameningeal embryonal rhabdomy
 
 <!-- review:begin jp-lic-20261106-paclitaxel-2 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「ただし、これらの多くはパクリタキセルを併用基盤とする試験です。また、日本での有効な承認は現在ありません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 12 件、うち有効 12 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「ただし、これらの多くはパクリタキセルを併用基盤とする試験です。また、日本での有効な承認は現在ありません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-paclitaxel-2 -->
 
@@ -147,7 +153,7 @@ description: "Paclitaxel：予測新適応症はParameningeal embryonal rhabdomy
 
 <!-- review:begin jp-lic-20261031-paclitaxel-1 -->
 
-> **確認による訂正（2026-10-31）**：元の記載は「有効な販売承認の有無の確認（現状は整理済みのみ）」でした。削除：医薬品マスター（薬価基準収載品目）の収載情報と一致しない記載でした（2026-10-31）。データ上の収載は 12 件、うち有効 12 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-10-31）**：元の記載は「有効な販売承認の有無の確認（現状は整理済みのみ）」でした。削除：医薬品マスター（薬価基準収載品目）の収載情報と一致しない記載でした（2026-10-31）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261031-paclitaxel-1 -->
 
@@ -165,8 +171,8 @@ description: "Paclitaxel：予測新適応症はParameningeal embryonal rhabdomy
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-10-31 | 削除：「現状は整理済みのみ」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-06 | 削除：「また、日本での有効な承認は現在ありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-10-31 | 削除：「現状は整理済みのみ」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「また、日本での有効な承認は現在ありません」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Paclitaxel Protein-Bound Particles For Injectable Suspension (Albumin-Bound) (paclitaxel) prescribing information, NorthStar Rx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e9d5093-fbfc-470a-8520-811c46a8870c) |
 
 <!-- review:end log -->

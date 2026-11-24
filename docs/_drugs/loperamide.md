@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 191
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Loperamide：予測新適応症は急性伝染性結膜炎 (Acute Contagious Conjunctivitis)（エビデンスレベル L5）。既存適応症：止瀉薬、蠕動抑制薬、オピオイド受容体作動薬"
 monitor_inn: "Loperamide"
 predicted_indications: ["acute contagious conjunctivitis", "amebic dysentery", "conjunctivitis", "gastroduodenitis", "pseudomembranous conjunctivitis", "parasitic conjunctivitis", "chronic follicular conjunctivitis", "conjunctival folliculosis", "serous conjunctivitis except viral", "Angelucci syndrome"]
@@ -71,7 +71,7 @@ TxGNN モデルは**急性伝染性結膜炎 (Acute Contagious Conjunctivitis)**
 
 <!-- review:begin jp-lic-20261106-loperamide-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「日本では現在、販売中の承認はなく、8 件すべてが取消済みです。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 8 件、うち有効 8 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「日本では現在、販売中の承認はなく、8 件すべてが取消済みです。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-loperamide-1 -->
 
@@ -83,13 +83,19 @@ TxGNN モデルは**急性伝染性結膜炎 (Acute Contagious Conjunctivitis)**
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 621370110 | ロペラミド塩酸塩細粒小児用0.05%「NIG」 | 細粒 | 止瀉薬、蠕動抑制薬、オピオイド受容体作動薬 |
-| 670003665 | ロペミンカプセル1mg（選） | カプセル | 止瀉薬、蠕動抑制薬、オピオイド受容体作動薬 |
-| 610461100 | ロペラミド塩酸塩1mgカプセル | カプセル | 止瀉薬、蠕動抑制薬、オピオイド受容体作動薬 |
-| 620425137 | ロペラミド塩酸塩カプセル1mg「NIG」 | カプセル | 止瀉薬、蠕動抑制薬、オピオイド受容体作動薬 |
-| 622311700 | ロペラミド塩酸塩1mg錠 | 錠 | 止瀉薬、蠕動抑制薬、オピオイド受容体作動薬 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 621370110 | ロペラミド塩酸塩細粒小児用０．０５％「ＮＩＧ」 | 有効 |
+| 670003665 | ロペミンカプセル１ｍｇ（選） | 有効 |
+| 610461100 | ロペラミド塩酸塩１ｍｇカプセル | 有効 |
+| 620425137 | ロペラミド塩酸塩カプセル１ｍｇ「ＮＩＧ」 | 有効 |
+| 622311700 | ロペラミド塩酸塩１ｍｇ錠 | 薬価削除（2026-03-31） |
+
+上表はデータ上の 8 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 
@@ -108,7 +114,7 @@ TxGNN モデルは**急性伝染性結膜炎 (Acute Contagious Conjunctivitis)**
 
 <!-- review:begin jp-lic-20261106-loperamide-2 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「急性伝染性結膜炎に対する臨床試験・文献はなく、機序的な関連も見いだせないため、モデル予測のみの L5 です。／日本では販売中の承認がなく、安全性情報も不足しています。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 8 件、うち有効 8 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「急性伝染性結膜炎に対する臨床試験・文献はなく、機序的な関連も見いだせないため、モデル予測のみの L5 です。／日本では販売中の承認がなく、安全性情報も不足しています。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-loperamide-2 -->
 
@@ -127,8 +133,8 @@ TxGNN モデルは**急性伝染性結膜炎 (Acute Contagious Conjunctivitis)**
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「日本では現在、販売中の承認はなく、8 件すべてが取消済みです」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-06 | 削除：「日本では販売中の承認がなく、安全性情報も不足しています」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本では現在、販売中の承認はなく、8 件すべてが取消済みです」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本では販売中の承認がなく、安全性情報も不足しています」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: loperamide hydrochloride prescribing information, Cardinal Health 107, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=74b9893a-18c3-4117-85c2-edab8e7b3b3b) |
 
 <!-- review:end log -->

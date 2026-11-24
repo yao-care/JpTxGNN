@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 257
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Propafenone：予測新適応症は躁病性双極性障害。TxGNN モデル（深層学習）のスコアは 0.9980（エビデンスレベル L5）。既存適応症：抗不整脈薬、ナトリウムチャネル遮断薬"
 monitor_inn: "Propafenone"
 predicted_indications: ["manic bipolar affective disorder", "periodic paralysis with transient compartment-like syndrome", "Prinzmetal angina", "arrhythmogenic right ventricular cardiomyopathy", "nephrogenic syndrome of inappropriate antidiuresis", "trichotillomania"]
@@ -101,7 +101,7 @@ CPVT 以外の候補では、乳児の持続性心室頻拍に対する経口プ
 
 <!-- review:begin jp-lic-20261106-propafenone-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「日本のすべての承認が整理済みで、現在市販中の承認はありません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 7 件、うち有効 7 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「日本のすべての承認が整理済みで、現在市販中の承認はありません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-propafenone-1 -->
 
@@ -109,13 +109,19 @@ CPVT 以外の候補では、乳児の持続性心室頻拍に対する経口プ
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 612120244 | プロノン錠１５０ｍｇ | 錠 | 抗不整脈薬、ナトリウムチャネル遮断薬 |
-| 612120300 | プロノン錠１００ｍｇ | 錠 | 抗不整脈薬、ナトリウムチャネル遮断薬 |
-| 620260002 | プロパフェノン塩酸塩錠１５０ｍｇ「オーハラ」 | 錠 | 抗不整脈薬、ナトリウムチャネル遮断薬 |
-| 622006902 | プロパフェノン塩酸塩錠１００ｍｇ「オーハラ」 | 錠 | 抗不整脈薬、ナトリウムチャネル遮断薬 |
-| 622720100 | プロパフェノン塩酸塩１５０ｍｇ錠 | 錠 | 抗不整脈薬、ナトリウムチャネル遮断薬 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 612120244 | プロノン錠１５０ｍｇ | 有効 |
+| 612120300 | プロノン錠１００ｍｇ | 有効 |
+| 620260002 | プロパフェノン塩酸塩錠１５０ｍｇ「オーハラ」 | 有効 |
+| 622006902 | プロパフェノン塩酸塩錠１００ｍｇ「オーハラ」 | 有効 |
+| 622720100 | プロパフェノン塩酸塩１５０ｍｇ錠 | 薬価削除（2026-03-31） |
+
+上表はデータ上の 7 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 ---
 
@@ -136,11 +142,11 @@ PMDA の添付文書にある警告・禁忌は、今回のデータには含ま
 **理由：**
 - CPVT には RyR2 阻害という機序的根拠と症例報告がありますが、臨床試験がなく、エビデンスは L4 にとどまります。
 - TxGNN 最上位の躁病性双極性障害は、文献が副作用の報告にとどまっており、支持されません。
-- 日本では承認 7 件中、有効なものが 6 件あり、市販されています。添付文書の警告・禁忌も未確認です。
+- 日本では有効な承認があり（件数はクイック概要を参照）、市販されています。添付文書の警告・禁忌も未確認です。
 
 <!-- review:begin jp-lic-20261117-propafenone-1 -->
 
-> **確認による訂正（2026-11-17）**：元の記載は「日本では有効な承認が 7 件中 7 件あり、市販されています。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 7 件のうち有効（収載中）は 6 件で、1 件は経過措置期間満了などにより薬価基準から削除されています（622720100（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+> **確認による訂正（2026-11-17）**：元の記載は「日本では有効な承認が 7 件中 7 件あり、市販されています。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、次の承認が経過措置期間満了などにより薬価基準から削除されています（622720100（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
 
 <!-- review:end jp-lic-20261117-propafenone-1 -->
 
@@ -159,8 +165,8 @@ PMDA の添付文書にある警告・禁忌は、今回のデータには含ま
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「日本のすべての承認が整理済みで、現在市販中の承認はありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-06 | 削除：「日本のすべての承認が整理済みで、現在市販中の承認はありません」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: propafenone hydrochloride prescribing information, Northstar Rx LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2ecd6452-ccc3-493f-9a4a-69f0fbf67a42) |
 
 <!-- review:end log -->

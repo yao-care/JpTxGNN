@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Leflunomide"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Leflunomide：予測新適応症は短指症・合指症症候群 (brachydactyly-syndactyly syndrome)（エビデンスレベル L5）。薬価基準の品目：3 件（現在収載 3 件）"
 ---
 
@@ -63,11 +63,15 @@ TxGNN モデルは**短指症・合指症症候群 (brachydactyly-syndactyly syn
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620000417 | アラバ錠２０ｍｇ | 錠２０ｍｇ（経口） | 記載なし |
-| 620000418 | アラバ錠１００ｍｇ | 錠１００ｍｇ（経口） | 記載なし |
-| 620000416 | アラバ錠１０ｍｇ | 錠１０ｍｇ（経口） | 記載なし |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620000417 | アラバ錠２０ｍｇ | 有効 |
+| 620000418 | アラバ錠１００ｍｇ | 有効 |
+| 620000416 | アラバ錠１０ｍｇ | 有効 |
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

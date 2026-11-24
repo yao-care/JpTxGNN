@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Fluvastatin"
 predicted_indications: ["HIV infectious disease", "cholesterol-ester transfer protein deficiency", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "fibroma of prostate"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Fluvastatin：予測新適応症はHIV感染症 (HIV infectious disease)（エビデンスレベル L5）。薬価基準の品目：18 件（現在収載 12 件）"
 ---
 
@@ -85,19 +85,25 @@ HIV 感染症そのものを対象に有効性を評価した研究は確認で�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 621964501 | フルバスタチン錠３０ｍｇ「サワイ」 | 錠３０ｍｇ「サワイ」 | 脂質異常症治療薬, HMG-CoA還元酵素阻害薬 疾患 高コレステロール血症 [DS:H01635] 家族性高コレステロール血症 [DS:H00155] |
-| 622015301 | フルバスタチン錠３０ｍｇ「ＪＧ」 | 錠３０ｍｇ「ＪＧ」 | 脂質異常症治療薬, HMG-CoA還元酵素阻害薬 疾患 高コレステロール血症 [DS:H01635] 家族性高コレステロール血症 [DS:H00155] |
-| 610470012 | ローコール錠１０ｍｇ | 錠１０ｍｇ | 脂質異常症治療薬, HMG-CoA還元酵素阻害薬 疾患 高コレステロール血症 [DS:H01635] 家族性高コレステロール血症 [DS:H00155] |
-| 610470014 | ローコール錠３０ｍｇ | 錠３０ｍｇ | 脂質異常症治療薬, HMG-CoA還元酵素阻害薬 疾患 高コレステロール血症 [DS:H01635] 家族性高コレステロール血症 [DS:H00155] |
-| 621935003 | フルバスタチン錠３０ｍｇ「ＮＩＧ」 | 錠３０ｍｇ「ＮＩＧ」 | 脂質異常症治療薬, HMG-CoA還元酵素阻害薬 疾患 高コレステロール血症 [DS:H01635] 家族性高コレステロール血症 [DS:H00155] |
+<!-- licenses:begin -->
 
-18 件はすべて経口の錠剤で、うち 12 件が有効です（6 件は薬価基準から削除済み）。上記は主要な 5 件のみを記載しています。
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 621964501 | フルバスタチン錠３０ｍｇ「サワイ」 | 有効 |
+| 622015301 | フルバスタチン錠３０ｍｇ「ＪＧ」 | 薬価削除（2026-03-31） |
+| 610470012 | ローコール錠１０ｍｇ | 有効 |
+| 610470014 | ローコール錠３０ｍｇ | 有効 |
+| 621935003 | フルバスタチン錠３０ｍｇ「ＮＩＧ」 | 有効 |
+
+上表はデータ上の 18 件のうち 5 件です。
+
+<!-- licenses:end -->
+
+承認は経口の錠剤のみで、有効なものと薬価基準から削除済みのものがあります（件数はクイック概要を参照）。上記は主要な 5 件のみを記載しています。
 
 <!-- review:begin jp-lic-20261117-fluvastatin-1 -->
 
-> **確認による訂正（2026-11-17）**：元の記載は「18 件すべてが有効で、すべて経口の錠剤です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 18 件のうち有効（収載中）は 12 件で、6 件は経過措置期間満了などにより薬価基準から削除されています（622015301（廃止年月日 2026-03-31）、622015201（廃止年月日 2026-03-31）、622015101（廃止年月日 2026-03-31）、622892700（廃止年月日 2026-03-31）、622892600（廃止年月日 2026-03-31）、622892800（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+> **確認による訂正（2026-11-17）**：元の記載は「18 件すべてが有効で、すべて経口の錠剤です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、次の承認が経過措置期間満了などにより薬価基準から削除されています（622015301（廃止年月日 2026-03-31）、622015201（廃止年月日 2026-03-31）、622015101（廃止年月日 2026-03-31）、622892700（廃止年月日 2026-03-31）、622892600（廃止年月日 2026-03-31）、622892800（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
 
 <!-- review:end jp-lic-20261117-fluvastatin-1 -->
 
@@ -128,7 +134,7 @@ HIV 感染症そのものを直接の対象とした臨床試験や文献が確�
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Fluvastatin Sodium Er (fluvastatin sodium) prescribing information, Sandoz Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5ab4296c-87c2-4c64-b218-d620eef51310) |
 
 <!-- review:end log -->

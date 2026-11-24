@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 138
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Flurbiprofen"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "hypermobility of coccyx"]
 description: "Flurbiprofen：予測新適応症は先端中間肢異形成症 ハンター・トンプソン型 (acromesomelic dysplasia, Hunter-Thompson type)（エビデンスレベル L5）。薬価基準の品目：10 件（現在収載 6 件）"
@@ -69,21 +69,27 @@ TxGNN モデルは **先端中間肢異形成症 ハンター・トンプソン�
 
 ## 日本市販情報
 
-承認 10 件はすべて単剤のテープ剤（外用）で、うち有効は 6 件です（4 件は薬価基準から削除済み）。主要なものを示します。
+承認はすべて単剤のテープ剤（外用）で、有効なものと薬価基準から削除済みのものがあります（件数はクイック概要を参照）。主要なものを示します。
 
 <!-- review:begin jp-lic-20261117-flurbiprofen-1 -->
 
-> **確認による訂正（2026-11-17）**：元の記載は「有効な承認は 10 件で、すべて単剤のテープ剤（外用）です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 10 件のうち有効（収載中）は 6 件で、4 件は経過措置期間満了などにより薬価基準から削除されています（670008249（廃止年月日 2026-03-31）、670647301（廃止年月日 2026-03-31）、670008250（廃止年月日 2026-03-31）、671415301（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+> **確認による訂正（2026-11-17）**：元の記載は「有効な承認は 10 件で、すべて単剤のテープ剤（外用）です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、次の承認が経過措置期間満了などにより薬価基準から削除されています（670008249（廃止年月日 2026-03-31）、670647301（廃止年月日 2026-03-31）、670008250（廃止年月日 2026-03-31）、671415301（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
 
 <!-- review:end jp-lic-20261117-flurbiprofen-1 -->
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620008249 | ゼポラステープ２０ｍｇ　７ｃｍ×１０ｃｍ | テープ | 関節リウマチ（鎮痛・抗炎症） |
-| 620008250 | ゼポラステープ４０ｍｇ　１０ｃｍ×１４ｃｍ | テープ | 関節リウマチ（鎮痛・抗炎症） |
-| 621415301 | ヤクバンテープ２０ｍｇ　７ｃｍ×１０ｃｍ | テープ | 関節リウマチ（鎮痛・抗炎症） |
-| 620647301 | ヤクバンテープ４０ｍｇ　１０ｃｍ×１４ｃｍ | テープ | 関節リウマチ（鎮痛・抗炎症） |
-| 622082902 | フルルビプロフェンテープ２０ｍｇ「ＱＱ」　７ｃｍ×１０ｃｍ | テープ | 関節リウマチ（鎮痛・抗炎症） |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620008249 | ゼポラステープ２０ｍｇ ７ｃｍ×１０ｃｍ | 有効 |
+| 620008250 | ゼポラステープ４０ｍｇ １０ｃｍ×１４ｃｍ | 有効 |
+| 621415301 | ヤクバンテープ２０ｍｇ ７ｃｍ×１０ｃｍ | 有効 |
+| 620647301 | ヤクバンテープ４０ｍｇ １０ｃｍ×１４ｃｍ | 有効 |
+| 622082902 | フルルビプロフェンテープ２０ｍｇ「ＱＱ」 ７ｃｍ×１０ｃｍ | 有効 |
+
+上表はデータ上の 10 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 全承認の剤形がテープ剤であるため、全身性の骨格疾患に使う場合は投与経路の適合性を別途検討する必要があります。
 
@@ -115,7 +121,7 @@ TxGNN モデルは **先端中間肢異形成症 ハンター・トンプソン�
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Lurbiro (flurbiprofen) prescribing information, IPG Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7ebf7427-eaae-4035-a6b2-0ea6381e8763) |
 
 <!-- review:end log -->

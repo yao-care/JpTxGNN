@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Oxybutynin"
 predicted_indications: ["restless legs syndrome", "gastroduodenitis", "peptic ulcer disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Oxybutynin：予測新適応症は下肢静止不能症候群 (Restless Legs Syndrome)（エビデンスレベル L5）。既存適応症：頻尿治療薬、過活動膀胱用薬、ムスカリン受容体拮抗薬"
 ---
 
@@ -64,21 +64,27 @@ TxGNN モデル（深層学習）のスコアは非常に高い（0.9974）も�
 
 ## 日本市販情報
 
-12 件の承認のうち 9 件が有効です（3 件は薬価基準から削除済み）。主な承認は以下のとおりです（最大 5 件を記載）。
+承認には有効なものと薬価基準から削除済みのものがあります（件数はクイック概要を参照）。主な承認は以下のとおりです（最大 5 件を記載）。
 
 <!-- review:begin jp-lic-20261117-oxybutynin-1 -->
 
-> **確認による訂正（2026-11-17）**：元の記載は「12 件の承認はすべて有効です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 12 件のうち有効（収載中）は 9 件で、3 件は経過措置期間満了などにより薬価基準から削除されています（622737100（廃止年月日 2026-03-31）、622736900（廃止年月日 2026-03-31）、622737000（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+> **確認による訂正（2026-11-17）**：元の記載は「12 件の承認はすべて有効です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、次の承認が経過措置期間満了などにより薬価基準から削除されています（622737100（廃止年月日 2026-03-31）、622736900（廃止年月日 2026-03-31）、622737000（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
 
 <!-- review:end jp-lic-20261117-oxybutynin-1 -->
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620567705 | オキシブチニン塩酸塩錠３ｍｇ「サワイ」 | 錠３ｍｇ「サワイ」 | 頻尿治療薬、過活動膀胱用薬、ムスカリン受容体拮抗薬 |
-| 622737100 | オキシブチニン塩酸塩１ｍｇ錠 | 錠 | 頻尿治療薬、過活動膀胱用薬、ムスカリン受容体拮抗薬 |
-| 672590050 | ポラキス錠１　１ｍｇ（選） | 錠１　１ｍｇ（選） | 頻尿治療薬、過活動膀胱用薬、ムスカリン受容体拮抗薬 |
-| 672590043 | ポラキス錠２　２ｍｇ（選） | 錠２　２ｍｇ（選） | 頻尿治療薬、過活動膀胱用薬、ムスカリン受容体拮抗薬 |
-| 622736900 | オキシブチニン塩酸塩２ｍｇ錠 | 錠 | 頻尿治療薬、過活動膀胱用薬、ムスカリン受容体拮抗薬 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620567705 | オキシブチニン塩酸塩錠３ｍｇ「サワイ」 | 有効 |
+| 622737100 | オキシブチニン塩酸塩１ｍｇ錠 | 薬価削除（2026-03-31） |
+| 672590050 | ポラキス錠１ １ｍｇ（選） | 有効 |
+| 672590043 | ポラキス錠２ ２ｍｇ（選） | 有効 |
+| 622736900 | オキシブチニン塩酸塩２ｍｇ錠 | 薬価削除（2026-03-31） |
+
+上表はデータ上の 12 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 
@@ -110,7 +116,7 @@ TxGNN モデル（深層学習）のスコアは非常に高い（0.9974）も�
 
 <!-- review:begin jp-lic-20261106-oxybutynin-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「詳細な薬物作用機序データの補充／日本での承認が全て整理済みである点を踏まえた、供給・開発方針の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 12 件、うち有効 12 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「詳細な薬物作用機序データの補充／日本での承認が全て整理済みである点を踏まえた、供給・開発方針の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-oxybutynin-1 -->
 
@@ -125,8 +131,8 @@ TxGNN モデル（深層学習）のスコアは非常に高い（0.9974）も�
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「日本での承認が全て整理済みである点を踏まえた、供給・開発方針の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-06 | 削除：「日本での承認が全て整理済みである点を踏まえた、供給・開発方針の確認」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Oxybutynin Chloride Extended Release (oxybutynin chloride) prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b5653b7e-1e3b-4da3-b3a2-33318f448c67) |
 
 <!-- review:end log -->

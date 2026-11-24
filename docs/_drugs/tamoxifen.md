@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 295
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Tamoxifen"
 predicted_indications: ["mammary Paget disease", "Ehrlich tumor carcinoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
 description: "Tamoxifen：予測新適応症はMammary Paget disease（エビデンスレベル L5）。薬価基準の品目：13 件（現在収載 13 件）"
@@ -99,13 +99,19 @@ TxGNN モデルの最上位予測は乳房パジェット病 (Mammary Paget Dise
 
 主なものは以下のとおりです。
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620003594 | ノルバデックス錠２０ｍｇ | 錠２０ｍｇ | 乳癌（抗悪性腫瘍薬、エストロゲン受容体調節薬） |
-| 620003593 | ノルバデックス錠１０ｍｇ | 錠１０ｍｇ | 乳癌（抗悪性腫瘍薬、エストロゲン受容体調節薬） |
-| 622041701 | タモキシフェン錠２０ｍｇ「明治」 | 錠２０ｍｇ「明治」 | 乳癌（抗悪性腫瘍薬、エストロゲン受容体調節薬） |
-| 622053001 | タモキシフェン錠２０ｍｇ「サワイ」 | 錠２０ｍｇ「サワイ」 | 乳癌（抗悪性腫瘍薬、エストロゲン受容体調節薬） |
-| 620921905 | タモキシフェン錠２０ｍｇ「ＭＹＬ」 | 錠２０ｍｇ「ＭＹＬ」 | 乳癌（抗悪性腫瘍薬、エストロゲン受容体調節薬） |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620003594 | ノルバデックス錠２０ｍｇ | 有効 |
+| 620003593 | ノルバデックス錠１０ｍｇ | 有効 |
+| 622041701 | タモキシフェン錠２０ｍｇ「明治」 | 有効 |
+| 622053001 | タモキシフェン錠２０ｍｇ「サワイ」 | 有効 |
+| 620921905 | タモキシフェン錠２０ｍｇ「ＭＹＬ」 | 有効 |
+
+上表はデータ上の 13 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 細胞毒性
 
@@ -139,7 +145,7 @@ TxGNN モデルの最上位予測は乳房パジェット病 (Mammary Paget Dise
 
 <!-- review:begin jp-lic-20261106-tamoxifen-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「日本国内での製品入手可否の確認（現在は承認が整理済み）」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 13 件、うち有効 13 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「日本国内での製品入手可否の確認（現在は承認が整理済み）」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-tamoxifen-1 -->
 
@@ -166,7 +172,7 @@ TxGNN モデルの最上位予測は乳房パジェット病 (Mammary Paget Dise
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「現在は承認が整理済み」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「現在は承認が整理済み」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Soltamox (tamoxifen citrate) prescribing information, Mayne Pharma](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e6ff055-590c-41e6-9530-1fdf04cdbd02) |
 
 <!-- review:end log -->

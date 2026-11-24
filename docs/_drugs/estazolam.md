@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "estazolam"
 predicted_indications: ["visual epilepsy", "alcohol withdrawal delirium", "restless legs syndrome", "myofascial pain syndrome", "audiogenic seizures", "startle epilepsy", "thinking seizures", "micturation-induced seizures", "eating seizures"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Estazolam：予測新適応症は視覚性てんかん (visual epilepsy)（エビデンスレベル L5）。薬価基準の品目：4 件（現在収載 3 件）"
 ---
 
@@ -78,12 +78,16 @@ ChEMBL（EMBL-EBI）に登録されている Estazolam の作用機序（非公�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 |
-|---------|------|------|
-| 622705800 | エスタゾラム２ｍｇ錠 | 錠 |
-| 671120081 | ユーロジン２ｍｇ錠（選） | 錠（選） |
-| 611120081 | ユーロジン２ｍｇ錠 | 錠 |
-| 610453023 | エスタゾラム錠２ｍｇ「アメル」 | 錠２ｍｇ「アメル」 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622705800 | エスタゾラム２ｍｇ錠 | 薬価削除（2026-03-31） |
+| 671120081 | ユーロジン２ｍｇ錠（選） | 有効 |
+| 611120081 | ユーロジン２ｍｇ錠 | 有効 |
+| 610453023 | エスタゾラム錠２ｍｇ「アメル」 | 有効 |
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

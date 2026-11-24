@@ -186,54 +186,6 @@
  },
  "recent_reviews": [
   {
-   "t": "Troxipide",
-   "u": "/drugs/troxipide/",
-   "s": "表：621371211 は「取消」ではなく薬価基準から削除",
-   "d": "2026-11-17"
-  },
-  {
-   "t": "Triamcinolone",
-   "u": "/drugs/triamcinolone/",
-   "s": "表：620609601 は有効ではなく薬価基準から削除済み",
-   "d": "2026-11-17"
-  },
-  {
-   "t": "Spironolactone",
-   "u": "/drugs/spironolactone/",
-   "s": "表：620266148 は有効ではなく薬価基準から削除済み",
-   "d": "2026-11-17"
-  },
-  {
-   "t": "Oxaliplatin",
-   "u": "/drugs/oxaliplatin/",
-   "s": "表：671932301 は有効ではなく薬価基準から削除済み",
-   "d": "2026-11-17"
-  },
-  {
-   "t": "Lorazepam",
-   "u": "/drugs/lorazepam/",
-   "s": "表：671170471 は有効ではなく薬価基準から削除済み",
-   "d": "2026-11-17"
-  },
-  {
-   "t": "Disopyramide",
-   "u": "/drugs/disopyramide/",
-   "s": "表：620004782 は有効ではなく薬価基準から削除済み",
-   "d": "2026-11-17"
-  },
-  {
-   "t": "Bosentan",
-   "u": "/drugs/bosentan/",
-   "s": "表：622512801 は有効ではなく薬価基準から削除済み",
-   "d": "2026-11-17"
-  },
-  {
-   "t": "Aprepitant",
-   "u": "/drugs/aprepitant/",
-   "s": "表：621970901 は有効ではなく薬価基準から削除済み",
-   "d": "2026-11-17"
-  },
-  {
    "t": "Zaltoprofen",
    "u": "/drugs/zaltoprofen/",
    "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
@@ -260,6 +212,12 @@
   {
    "t": "Trihexyphenidyl",
    "u": "/drugs/trihexyphenidyl/",
+   "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Triamcinolone",
+   "u": "/drugs/triamcinolone/",
    "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
    "d": "2026-11-17"
   },
@@ -328,55 +286,97 @@
    "u": "/drugs/nicardipine/",
    "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
    "d": "2026-11-17"
-  }
- ],
- "recent_licence_reviews": [
+  },
   {
-   "t": "Troxipide",
-   "u": "/drugs/troxipide/",
-   "s": "表：621371211 は「取消」ではなく薬価基準から削除",
+   "t": "Metoprolol",
+   "u": "/drugs/metoprolol/",
+   "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
    "d": "2026-11-17"
   },
   {
-   "t": "Triamcinolone",
-   "u": "/drugs/triamcinolone/",
-   "s": "表：620609601 は有効ではなく薬価基準から削除済み",
+   "t": "Methotrexate",
+   "u": "/drugs/methotrexate/",
+   "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
    "d": "2026-11-17"
   },
   {
-   "t": "Spironolactone",
-   "u": "/drugs/spironolactone/",
-   "s": "表：620266148 は有効ではなく薬価基準から削除済み",
+   "t": "Mesalazine",
+   "u": "/drugs/mesalazine/",
+   "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
    "d": "2026-11-17"
   },
   {
-   "t": "Oxaliplatin",
-   "u": "/drugs/oxaliplatin/",
-   "s": "表：671932301 は有効ではなく薬価基準から削除済み",
+   "t": "Menatetrenone",
+   "u": "/drugs/menatetrenone/",
+   "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
    "d": "2026-11-17"
   },
   {
    "t": "Lorazepam",
    "u": "/drugs/lorazepam/",
-   "s": "表：671170471 は有効ではなく薬価基準から削除済み",
+   "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
    "d": "2026-11-17"
   },
   {
-   "t": "Disopyramide",
-   "u": "/drugs/disopyramide/",
-   "s": "表：620004782 は有効ではなく薬価基準から削除済み",
+   "t": "Lithium Citrate",
+   "u": "/drugs/lithium-citrate/",
+   "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
    "d": "2026-11-17"
   },
   {
-   "t": "Bosentan",
-   "u": "/drugs/bosentan/",
-   "s": "表：622512801 は有効ではなく薬価基準から削除済み",
+   "t": "Limaprost",
+   "u": "/drugs/limaprost/",
+   "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
+   "d": "2026-11-17"
+  }
+ ],
+ "recent_licence_reviews": [
+  {
+   "t": "Zaltoprofen",
+   "u": "/drugs/zaltoprofen/",
+   "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
    "d": "2026-11-17"
   },
   {
-   "t": "Aprepitant",
-   "u": "/drugs/aprepitant/",
-   "s": "表：621970901 は有効ではなく薬価基準から削除済み",
+   "t": "Vidarabine",
+   "u": "/drugs/vidarabine/",
+   "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Valproic Acid",
+   "u": "/drugs/valproic-acid/",
+   "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Tropicamide",
+   "u": "/drugs/tropicamide/",
+   "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Trihexyphenidyl",
+   "u": "/drugs/trihexyphenidyl/",
+   "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Triamcinolone",
+   "u": "/drugs/triamcinolone/",
+   "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Tranilast",
+   "u": "/drugs/tranilast/",
+   "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
+   "d": "2026-11-17"
+  },
+  {
+   "t": "Tizanidine",
+   "u": "/drugs/tizanidine/",
+   "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
    "d": "2026-11-17"
   }
  ],

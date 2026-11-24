@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Dexamethasone"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo", "prolapse of lacrimal gland"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dexamethasone：予測新適応症は毛包性ムチン沈着症 (alopecia mucinosa)（エビデンスレベル L5）。薬価基準の品目：20 件以上"
 ---
 
@@ -74,13 +74,19 @@ TxGNN モデルは**毛包性ムチン沈着症 (alopecia mucinosa)** に有効�
 
 日本では有効な承認が 20 件あり、内服・注射・点眼・外用など複数の剤形があります。主な承認は以下のとおりです。
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 622359901 | デカドロン錠4mg | 錠 | （記載なし） |
-| 620525001 | デカドロン注射液1.65mg 0.5mL | 注射液 | （記載なし） |
-| 661310074 | サンテゾーン点眼液（0.1%） | 点眼液 | （記載なし） |
-| 622777700 | デキサメタゾンプロピオン酸エステル0.1%クリーム | クリーム | 乾癬、掌蹠膿疱症、慢性円板状エリテマトーデス、毛孔性紅色粃糠疹、菌状息肉症... |
-| 620004793 | オイラゾンクリーム0.1% | クリーム | 慢性副腎皮質機能不全、亜急性甲状腺炎、甲状腺中毒症、ACTH単独欠損症、関節リウマチ... |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622359901 | デカドロン錠４ｍｇ | 有効 |
+| 620525001 | デカドロン注射液１．６５ｍｇ ０．５ｍＬ | 有効 |
+| 661310074 | サンテゾーン点眼液（０．１％） | 有効 |
+| 622777700 | デキサメタゾンプロピオン酸エステル０．１％クリーム | 有効 |
+| 620004793 | オイラゾンクリーム０．１％ | 有効 |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

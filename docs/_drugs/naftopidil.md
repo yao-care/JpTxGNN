@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Naftopidil"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Naftopidil：予測新適応症はAmbras 型先天性汎発性多毛症 (Ambras type hypertrichosis universalis congenita)（エビデンスレベル L5）。既存適応症：排尿障害改善薬、α1アドレナリン受容体拮抗薬"
 ---
 
@@ -82,13 +82,19 @@ ChEMBL（EMBL-EBI）に登録されている Naftopidil の作用機序（非公
 
 <!-- review:end jp-lic-20261106-naftopidil-1 -->
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620002803 | フリバス錠75mg | 錠 75mg | 排尿障害改善薬、α1アドレナリン受容体拮抗薬 |
-| 622475200 | ナフトピジル75mg錠 | 錠 | 排尿障害改善薬、α1アドレナリン受容体拮抗薬 |
-| 670421350 | フリバス錠50mg（選） | 錠 50mg | 排尿障害改善薬、α1アドレナリン受容体拮抗薬 |
-| 622420801 | ナフトピジル錠25mg「JG」 | 錠 25mg | 排尿障害改善薬、α1アドレナリン受容体拮抗薬 |
-| 622435801 | ナフトピジル錠50mg「日医工」 | 錠 50mg | 排尿障害改善薬、α1アドレナリン受容体拮抗薬 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620002803 | フリバス錠７５ｍｇ | 有効 |
+| 622475200 | ナフトピジル７５ｍｇ錠 | 薬価削除（2026-03-31） |
+| 670421350 | フリバス錠５０ｍｇ（選） | 有効 |
+| 622420801 | ナフトピジル錠２５ｍｇ「ＪＧ」 | 薬価削除（2026-03-31） |
+| 622435801 | ナフトピジル錠５０ｍｇ「日医工」 | 有効 |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 結論と次のステップ
 

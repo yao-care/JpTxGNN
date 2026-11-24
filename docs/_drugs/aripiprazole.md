@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 29
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 monitor_inn: "Aripiprazole"
 predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
 description: "Aripiprazole：予測新適応症はGaze palsy, familial horizontal, with progressive scoliosis（エビデンスレベル L5）。薬価基準の品目：20 件以上"
@@ -97,13 +97,19 @@ description: "Aripiprazole：予測新適応症はGaze palsy, familial horizonta
 
 日本では販売されており、有効な承認が 20 件あります。主な承認は以下のとおりです。
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620003479 | エビリファイ錠3mg | 錠 | 統合失調症、双極性障害における躁症状、うつ病・うつ状態 |
-| 622559301 | アリピプラゾール錠24mg「サワイ」 | 錠 | 統合失調症、双極性障害における躁症状、うつ病・うつ状態 |
-| 622561701 | アリピプラゾール錠6mg「アメル」 | 錠 | 統合失調症、双極性障害における躁症状、うつ病・うつ状態 |
-| 622562001 | アリピプラゾール散1%「アメル」 | 散 | 統合失調症、双極性障害における躁症状、うつ病・うつ状態 |
-| 622556401 | アリピプラゾール散1%「明治」 | 散 | 統合失調症、双極性障害における躁症状、うつ病・うつ状態 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620003479 | エビリファイ錠３ｍｇ | 有効 |
+| 622559301 | アリピプラゾール錠２４ｍｇ「サワイ」 | 有効 |
+| 622561701 | アリピプラゾール錠６ｍｇ「アメル」 | 有効 |
+| 622562001 | アリピプラゾール散１％「アメル」 | 有効 |
+| 622556401 | アリピプラゾール散１％「明治」 | 薬価削除（2026-03-31） |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

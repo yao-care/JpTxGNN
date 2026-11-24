@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 321
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Trastuzumab"
 predicted_indications: ["malignant cutaneous granular cell skin tumor", "ectomesenchymoma", "human herpesvirus 8-related tumor", "middle ear neuroendocrine tumor", "kidney pelvis sarcomatoid transitional cell carcinoma", "prostatic urethra urothelial carcinoma"]
 description: "Trastuzumab：予測新適応症はMalignant cutaneous granular cell skin tumor（エビデンスレベル L5）。薬価基準の品目：2 件（現在収載 2 件）"
@@ -95,10 +95,14 @@ description: "Trastuzumab：予測新適応症はMalignant cutaneous granular ce
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 | 状態 |
-|---------|------|------|-----------|------|
-| 629921901 | ハーセプチン注射用60 60mg | 注射剤 | 記載なし | 有効 |
-| 629922001 | ハーセプチン注射用150 150mg | 注射剤 | 記載なし | 有効 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 629921901 | ハーセプチン注射用６０ ６０ｍｇ | 有効 |
+| 629922001 | ハーセプチン注射用１５０ １５０ｍｇ | 有効 |
+
+<!-- licenses:end -->
 
 ## 細胞毒性
 
@@ -129,7 +133,7 @@ description: "Trastuzumab：予測新適応症はMalignant cutaneous granular ce
 
 <!-- review:begin jp-lic-20261106-trastuzumab-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「ただし、PR 陽性乳癌全体への一律の適応拡大ではなく、**HER2 陽性症例に限定する**必要があります。日本の承認も現在は取り消されています。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 2 件、うち有効 2 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「ただし、PR 陽性乳癌全体への一律の適応拡大ではなく、**HER2 陽性症例に限定する**必要があります。日本の承認も現在は取り消されています。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-trastuzumab-1 -->
 
@@ -142,7 +146,7 @@ description: "Trastuzumab：予測新適応症はMalignant cutaneous granular ce
 
 <!-- review:begin jp-lic-20261106-trastuzumab-2 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「日本での承認取消の経緯と、現在入手可能な製剤の確認／一部の試験（NCT04629846 など）は他剤が主眼であるため、トラスツズマブ自体の寄与を示すデータの精査」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 2 件、うち有効 2 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「日本での承認取消の経緯と、現在入手可能な製剤の確認／一部の試験（NCT04629846 など）は他剤が主眼であるため、トラスツズマブ自体の寄与を示すデータの精査」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-trastuzumab-2 -->
 
@@ -156,8 +160,8 @@ description: "Trastuzumab：予測新適応症はMalignant cutaneous granular ce
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「日本の承認も現在は取り消されています」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-06 | 削除：「日本での承認取消の経緯と、現在入手可能な製剤の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本の承認も現在は取り消されています」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本での承認取消の経緯と、現在入手可能な製剤の確認」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Ogivri (trastuzumab-dkst) prescribing information, Biocon Biologics Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b6465b44-a6dd-f99c-d009-6851cf05169c) |
 
 <!-- review:end log -->

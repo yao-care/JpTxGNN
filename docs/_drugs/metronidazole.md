@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 209
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Metronidazole：予測新適応症はニューモシスチス症 (Pneumocystosis)（エビデンスレベル L5）。既存適応症：抗菌薬、抗原虫薬、DNA合成阻害薬"
 monitor_inn: "Metronidazole"
 predicted_indications: ["pneumocystosis", "punctate epithelial keratoconjunctivitis", "ulcerative proctosigmoiditis", "nocardiosis", "postmenopausal atrophic vaginitis", "Cryptococcal meningitis", "papillary conjunctivitis", "myiasis", "cap polyposis", "ulceration of vulva"]
@@ -83,12 +83,16 @@ TxGNN モデルは **ニューモシスチス症 (Pneumocystosis)** に有効で
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620007756 | フラジール腟錠250mg（有効） | 錠250mg | 記載なし |
-| 622405101 | ロゼックスゲル0.75%（有効） | ゲル0.75% | 抗菌薬, 抗原虫薬, DNA合成阻害薬 |
-| 622979501 | メトロニダゾールゲル0.75%「マルイシ」（有効） | ゲル0.75% | 抗菌薬, 抗原虫薬, DNA合成阻害薬 |
-| 620007057 | フラジール内服錠250mg（有効） | 錠250mg | 記載なし |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620007756 | フラジール腟錠２５０ｍｇ | 有効 |
+| 622405101 | ロゼックスゲル０．７５％ | 有効 |
+| 622979501 | メトロニダゾールゲル０．７５％「マルイシ」 | 有効 |
+| 620007057 | フラジール内服錠２５０ｍｇ | 有効 |
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "azosemide"
 predicted_indications: ["idiopathic copper-associated cirrhosis", "hepatopulmonary syndrome", "hepatoportal sclerosis", "early-onset familial noncirrhotic portal hypertension", "primitive portal vein thrombosis", "hepatic porphyria"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Azosemide：予測新適応症は特発性銅関連肝硬変 (idiopathic copper-associated cirrhosis)（エビデンスレベル L5）。既存適応症：利尿薬、Na-K-Cl共輸送体阻害薬"
 ---
 
@@ -76,19 +76,25 @@ TxGNN は以下の疾患も、ほぼ同等の高スコアで予測していま�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 622161502 | アゾセミド錠３０ｍｇ「ＪＧ」 | 錠 30 mg | 利尿薬、Na-K-Cl共輸送体阻害薬（有効） |
-| 610454048 | ダイアート錠６０ｍｇ | 錠 60 mg | 利尿薬、Na-K-Cl共輸送体阻害薬（有効） |
-| 622879801 | アゾセミド錠６０ｍｇ「ＤＳＥＰ」 | 錠 60 mg | 利尿薬、Na-K-Cl共輸送体阻害薬（有効） |
-| 612130353 | ダイアート錠３０ｍｇ | 錠 30 mg | 利尿薬、Na-K-Cl共輸送体阻害薬（有効） |
-| 622879701 | アゾセミド錠３０ｍｇ「ＤＳＥＰ」 | 錠 30 mg | 利尿薬、Na-K-Cl共輸送体阻害薬（有効） |
+<!-- licenses:begin -->
 
-主要な 5 件を記載しました。日本では 10 件の承認のうち 9 件が有効で（1 件は薬価基準から削除済み）、販売されています。
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622161502 | アゾセミド錠３０ｍｇ「ＪＧ」 | 有効 |
+| 610454048 | ダイアート錠６０ｍｇ | 有効 |
+| 622879801 | アゾセミド錠６０ｍｇ「ＤＳＥＰ」 | 有効 |
+| 612130353 | ダイアート錠３０ｍｇ | 有効 |
+| 622879701 | アゾセミド錠３０ｍｇ「ＤＳＥＰ」 | 有効 |
+
+上表はデータ上の 10 件のうち 5 件です。
+
+<!-- licenses:end -->
+
+日本では有効な承認と薬価基準から削除済みの承認があり（件数はクイック概要を参照）、販売されています。
 
 <!-- review:begin jp-lic-20261117-azosemide-1 -->
 
-> **確認による訂正（2026-11-17）**：元の記載は「主要な 5 件を記載しました。日本では 10 件の承認のうち 10 件が有効で、販売されています。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 10 件のうち有効（収載中）は 9 件で、1 件は経過措置期間満了などにより薬価基準から削除されています（672130353（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+> **確認による訂正（2026-11-17）**：元の記載は「主要な 5 件を記載しました。日本では 10 件の承認のうち 10 件が有効で、販売されています。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、次の承認が経過措置期間満了などにより薬価基準から削除されています（672130353（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
 
 <!-- review:end jp-lic-20261117-azosemide-1 -->
 
@@ -103,11 +109,11 @@ TxGNN は以下の疾患も、ほぼ同等の高スコアで予測していま�
 **決定：Hold**
 
 **理由：**
-予測を支持する臨床試験・文献が一切なく、機序的な関連も確認できません。なお、日本では 10 件の承認のうち 9 件が有効で（1 件は薬価基準から削除済み）、販売されています。
+予測を支持する臨床試験・文献が一切なく、機序的な関連も確認できません。なお、日本では有効な承認と薬価基準から削除済みの承認があり（件数はクイック概要を参照）、販売されています。
 
 <!-- review:begin jp-lic-20261117-azosemide-2 -->
 
-> **確認による訂正（2026-11-17）**：元の記載は「なお、日本では 10 件の承認のうち 10 件が有効で、販売されています。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 10 件のうち有効（収載中）は 9 件で、1 件は経過措置期間満了などにより薬価基準から削除されています（672130353（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+> **確認による訂正（2026-11-17）**：元の記載は「なお、日本では 10 件の承認のうち 10 件が有効で、販売されています。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、次の承認が経過措置期間満了などにより薬価基準から削除されています（672130353（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
 
 <!-- review:end jp-lic-20261117-azosemide-2 -->
 
@@ -126,8 +132,8 @@ TxGNN は以下の疾患も、ほぼ同等の高スコアで予測していま�
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
-| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 
 <!-- review:end log -->
 

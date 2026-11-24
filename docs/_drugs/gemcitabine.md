@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "gemcitabine"
 predicted_indications: ["rectum mucinous adenocarcinoma", "colon mucinous adenocarcinoma", "villoglandular endometrial endometrioid adenocarcinoma", "endometrial mixed adenocarcinoma", "endometrial mucinous adenocarcinoma", "cervical mucinous adenocarcinoma", "gallbladder mucinous adenocarcinoma", "mucin-rich endometrial endometrioid adenocarcinoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Gemcitabine：予測新適応症は直腸粘液腺癌 (rectum mucinous adenocarcinoma)（エビデンスレベル L5）。薬価基準の品目：14 件（現在収載 10 件）"
 ---
 
@@ -74,13 +74,19 @@ TxGNN モデルは**直腸粘液腺癌 (rectum mucinous adenocarcinoma)** に有
 
 国内では、以下を含む複数のゲムシタビン単剤製剤に承認番号があり、市販中です（主要な 5 件を記載）。
 
-| 承認番号 | 商品名 | 剤形 |
-|---------|------|------|
-| 640454012 | ジェムザール注射用１ｇ | 注射用 |
-| 640454013 | ジェムザール注射用２００ｍｇ | 注射用 |
-| 622202501 | ゲムシタビン点滴静注液１ｇ／２５ｍＬ「サンド」 | 注液 |
-| 621973501 | ゲムシタビン点滴静注用１ｇ「ヤクルト」 | 注用 |
-| 622487801 | ゲムシタビン点滴静注液１ｇ／２５ｍＬ「ＮＫ」 | 注液 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 640454012 | ジェムザール注射用１ｇ | 薬価削除（2026-03-31） |
+| 640454013 | ジェムザール注射用２００ｍｇ | 薬価削除（2026-03-31） |
+| 622202501 | ゲムシタビン点滴静注液１ｇ／２５ｍＬ「サンド」 | 有効 |
+| 621973501 | ゲムシタビン点滴静注用１ｇ「ヤクルト」 | 有効 |
+| 622487801 | ゲムシタビン点滴静注液１ｇ／２５ｍＬ「ＮＫ」 | 有効 |
+
+上表はデータ上の 14 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 細胞毒性
 

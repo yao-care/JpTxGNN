@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Sertraline"
 predicted_indications: ["schizoid personality disorder", "schizotypal personality disorder", "paranoid personality disorder", "histrionic personality disorder (disease)", "benign paroxysmal torticollis of infancy", "dependent personality disorder", "narcissistic personality disorder"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Sertraline：予測新適応症はシゾイドパーソナリティ障害 (schizoid personality disorder)（エビデンスレベル L5）。薬価基準の品目：23 件以上"
 ---
 
@@ -72,13 +72,19 @@ TxGNN モデルは**シゾイドパーソナリティ障害 (Schizoid Personalit
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 622446702 | セルトラリン錠25mg「NP」 | 錠25mg | うつ病・うつ状態、パニック障害 |
-| 622504402 | セルトラリン錠100mg「NP」 | 錠100mg | うつ病・うつ状態、パニック障害 |
-| 622457601 | セルトラリン錠50mg「サワイ」 | 錠50mg | うつ病・うつ状態、パニック障害 |
-| 622442801 | セルトラリン錠25mg「杏林」 | 錠25mg | うつ病・うつ状態、パニック障害 |
-| 670003481 | ジェイゾロフト錠25mg（選） | 錠25mg | うつ病・うつ状態、パニック障害 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622446702 | セルトラリン錠２５ｍｇ「ＮＰ」 | 薬価削除（2026-09-30、後継コード 622610900） |
+| 622504402 | セルトラリン錠１００ｍｇ「ＮＰ」 | 薬価削除（2026-09-30、後継コード 622611100） |
+| 622457601 | セルトラリン錠５０ｍｇ「サワイ」 | 有効 |
+| 622442801 | セルトラリン錠２５ｍｇ「杏林」 | 有効 |
+| 670003481 | ジェイゾロフト錠２５ｍｇ（選） | 有効 |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 承認番号は 20 件以上あり、上記は一部です。いずれも単剤で、経口剤です。
 

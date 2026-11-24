@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 286
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Spironolactone"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia"]
 description: "Spironolactone：予測新適応症はHypotrichosis simplex of the scalp（エビデンスレベル L5）。薬価基準の品目：14 件（現在収載 11 件）"
@@ -84,19 +84,19 @@ description: "Spironolactone：予測新適応症はHypotrichosis simplex of the
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620004915 | アルダクトンＡ錠２５ｍｇ | 錠２５ｍｇ | 高血圧症、原発性アルドステロン症（有効） |
-| 612130039 | アルダクトンＡ錠５０ｍｇ | 錠５０ｍｇ | 高血圧症、原発性アルドステロン症（有効） |
-| 620266305 | スピロノラクトン錠２５ｍｇ「ＣＨ」 | 錠２５ｍｇ「ＣＨ」 | 高血圧症、原発性アルドステロン症（有効） |
-| 620266132 | スピロノラクトン錠２５ｍｇ「日医工」 | 錠２５ｍｇ「日医工」 | 高血圧症、原発性アルドステロン症（有効） |
-| 620266148 | スピロノラクトン錠２５ｍｇ「杏林」 | 錠２５ｍｇ「杏林」 | 高血圧症、原発性アルドステロン症（薬価削除：2026-09-30、後継コード 622315800） |
+<!-- licenses:begin -->
 
-<!-- review:begin jp-row-20261117-spironolactone-1 -->
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620004915 | アルダクトンＡ錠２５ｍｇ | 有効 |
+| 612130039 | アルダクトンＡ錠５０ｍｇ | 有効 |
+| 620266305 | スピロノラクトン錠２５ｍｇ「ＣＨ」 | 有効 |
+| 620266132 | スピロノラクトン錠２５ｍｇ「日医工」 | 有効 |
+| 620266148 | スピロノラクトン錠２５ｍｇ「杏林」 | 薬価削除（2026-09-30、後継コード 622315800） |
 
-> **確認による訂正（2026-11-17）**：元の記載は「620266148／スピロノラクトン錠２５ｍｇ「杏林」／錠２５ｍｇ「杏林」／高血圧症、原発性アルドステロン症（有効）」でした。訂正：医薬品マスター（薬価基準収載品目）では 620266148 は廃止年月日 2026-09-30 で薬価基準から削除され、2026-11-12 の全件ファイルに収載されていません（後継コード 622315800 は収載中）。表の状態の記載だけを直しました。承認の取消しを意味するものではありません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+上表はデータ上の 14 件のうち 5 件です。
 
-<!-- review:end jp-row-20261117-spironolactone-1 -->
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 
@@ -113,7 +113,7 @@ description: "Spironolactone：予測新適応症はHypotrichosis simplex of the
 
 <!-- review:begin jp-lic-20261106-spironolactone-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「ただし、Phase 3 の確証試験がなく、日本では有効な承認が現在ありません。」でした。削除：承認・収載の件数または状態の記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 14 件、うち有効 14 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「ただし、Phase 3 の確証試験がなく、日本では有効な承認が現在ありません。」でした。削除：承認・収載の件数または状態の記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-spironolactone-1 -->
 
@@ -133,8 +133,8 @@ description: "Spironolactone：予測新適応症はHypotrichosis simplex of the
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「なく、日本では有効な承認が現在」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-17 | 表：620266148 は有効ではなく薬価基準から削除済み | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-06 | 削除：「なく、日本では有効な承認が現在」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-17 | 表：620266148 は有効ではなく薬価基準から削除済み | プログラム生成の承認情報表に置き換え（元の対応：訂正） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Aldactone (spironolactone) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0fed2822-3a03-4b64-9857-c682fcd462bc) |
 
 <!-- review:end log -->

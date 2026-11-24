@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Ethosuximide"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ethosuximide：予測新適応症は腎性抗利尿ホルモン不適合分泌症候群 (Nephrogenic Syndrome of Inappropriate Antidiuresis)（エビデンスレベル L5）。既存適応症：欠神てんかん"
 ---
 
@@ -63,15 +63,13 @@ T 型カルシウムチャネル阻害から V2 受容体経路へつながる�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620006918 | ザロンチンシロップ５％ | シロップ | 記載なし |
+<!-- licenses:begin -->
 
-<!-- review:begin jp-row-20261112-ethosuximide-1 -->
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620006918 | ザロンチンシロップ５％ | 有効 |
 
-> **確認による訂正（2026-11-12）**：元の記載は「620006918（失効）／ザロンチンシロップ５％／シロップ／記載なし」でした。訂正：医薬品マスター（薬価基準収載品目）では 620006918 は有効です（2026-11-05 のデータ）。表の状態の記載だけを直しました。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
-
-<!-- review:end jp-row-20261112-ethosuximide-1 -->
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 
@@ -98,7 +96,7 @@ T 型カルシウムチャネル阻害から V2 受容体経路へつながる�
 
 <!-- review:begin jp-lic-20261106-ethosuximide-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「予測スコアは高いものの、臨床試験・文献が一切なく、機序的な裏付けも確認できません。日本では承認が失効しており、現時点でこの方向性を進める根拠は不十分です。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 1 件、うち有効 1 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「予測スコアは高いものの、臨床試験・文献が一切なく、機序的な裏付けも確認できません。日本では承認が失効しており、現時点でこの方向性を進める根拠は不十分です。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-ethosuximide-1 -->
 
@@ -117,8 +115,8 @@ T 型カルシウムチャネル阻害から V2 受容体経路へつながる�
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「日本では承認が失効しており、現時点でこの方向性を進める根拠は不十分です」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-12 | 表：620006918 は「失効」ではなく有効 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本では承認が失効しており、現時点でこの方向性を進める根拠は不十分です」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-12 | 表：620006918 は「失効」ではなく有効 | プログラム生成の承認情報表に置き換え（元の対応：訂正） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Zarontin (ethosuximide) prescribing information, Parke-Davis Div of Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0e008f33-70a1-4bc6-b3a0-d45214418ab6) |
 
 <!-- review:end log -->

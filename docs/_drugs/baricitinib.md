@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Baricitinib"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Baricitinib：予測新適応症はコロボーマ性小眼球症-根性肢異形成症候群 (colobomatous microphthalmia-rhizomelic dysplasi…（エビデンスレベル L5）。既存適応症：関節リウマチ"
 ---
 
@@ -65,11 +65,15 @@ TxGNN のスコアは高い値ですが、これは計算上の予測にすぎ�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 622964801 | オルミエント錠１ｍｇ | 錠 1 mg（経口） | （記載なし）／有効 |
-| 622573701 | オルミエント錠４ｍｇ | 錠 4 mg（経口） | （記載なし）／有効 |
-| 622573801 | オルミエント錠２ｍｇ | 錠 2 mg（経口） | （記載なし）／有効 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622964801 | オルミエント錠１ｍｇ | 有効 |
+| 622573701 | オルミエント錠４ｍｇ | 有効 |
+| 622573801 | オルミエント錠２ｍｇ | 有効 |
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 
@@ -95,7 +99,7 @@ TxGNN のスコアは高い値ですが、これは計算上の予測にすぎ�
 
 <!-- review:begin jp-lic-20261106-baricitinib-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「投与経路の適合性（経口剤での適用可否）を確認する／日本での承認取消の経緯と現在の供給状況を確認する」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 3 件、うち有効 3 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「投与経路の適合性（経口剤での適用可否）を確認する／日本での承認取消の経緯と現在の供給状況を確認する」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-baricitinib-1 -->
 
@@ -107,7 +111,7 @@ TxGNN のスコアは高い値ですが、これは計算上の予測にすぎ�
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「日本での承認取消の経緯と現在の供給状況を確認する」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本での承認取消の経緯と現在の供給状況を確認する」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Olumiant (baricitinib) prescribing information, Eli Lilly and Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=866e9f35-9035-4581-a4b1-75a621ab55cf) |
 
 <!-- review:end log -->

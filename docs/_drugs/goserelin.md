@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 3
 monitor_inn: "Goserelin"
 predicted_indications: ["amenorrhea (disease)", "renal hypoplasia (disease)", "renal hypoplasia, bilateral"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Goserelin：予測新適応症は無月経 (Amenorrhea)（エビデンスレベル L3）。既存適応症：子宮内膜症"
 ---
 
@@ -84,11 +84,15 @@ TxGNN モデルは**無月経 (Amenorrhea)** に有効である可能性を予�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 642490105 | ゾラデックス3.6mgデポ（ゴセレリンとして） | 記載なし | 記載なし（有効） |
-| 640443027 | ゾラデックス1.8mgデポ（ゴセレリンとして） | 記載なし | 記載なし（有効） |
-| 640462004 | ゾラデックスLA10.8mgデポ（ゴセレリンとして） | 記載なし | 記載なし（有効） |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 642490105 | ゾラデックス３．６ｍｇデポ （ゴセレリンとして） | 有効 |
+| 640443027 | ゾラデックス１．８ｍｇデポ （ゴセレリンとして） | 有効 |
+| 640462004 | ゾラデックスＬＡ１０．８ｍｇデポ （ゴセレリンとして） | 有効 |
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 
@@ -114,7 +118,7 @@ TxGNN モデルは**無月経 (Amenorrhea)** に有効である可能性を予�
 
 <!-- review:begin jp-lic-20261106-goserelin-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「「無月経の治療」ではなく「卵巣抑制・卵巣保護」を目的とした用途に再定義し、その方向で臨床試験・文献を再評価すること／日本での販売・承認状況（取消の経緯）の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 3 件、うち有効 3 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「「無月経の治療」ではなく「卵巣抑制・卵巣保護」を目的とした用途に再定義し、その方向で臨床試験・文献を再評価すること／日本での販売・承認状況（取消の経緯）の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-goserelin-1 -->
 
@@ -128,7 +132,7 @@ TxGNN モデルは**無月経 (Amenorrhea)** に有効である可能性を予�
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「日本での販売・承認状況（取消の経緯）の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本での販売・承認状況（取消の経緯）の確認」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Zoladex (goserelin) prescribing information, TerSera Therapeutics LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=294b168b-6e5f-4db9-bf70-d599271458b3) |
 
 <!-- review:end log -->

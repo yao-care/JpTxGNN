@@ -5,7 +5,7 @@ parent: 高エビデンスレベル
 nav_order: 287
 evidence_level: L2
 indication_count: 2
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Sucralfate"
 predicted_indications: ["duodenogastric reflux", "duodenal obstruction"]
 description: "Sucralfate：予測新適応症は十二指腸胃逆流 (duodenogastric reflux)（エビデンスレベル L2）。薬価基準の品目：7 件（現在収載 5 件）"
@@ -82,21 +82,27 @@ TxGNN モデルは**十二指腸胃逆流 (duodenogastric reflux)** に有効で
 
 ## 日本市販情報
 
-日本では、7件の承認のうち5件が有効で（2件は薬価基準から削除済み）、現在販売されています。
+日本では、有効な承認と薬価基準から削除済みの承認があり（件数はクイック概要を参照）、現在販売されています。
 
 <!-- review:begin jp-lic-20261117-sucralfate-1 -->
 
-> **確認による訂正（2026-11-17）**：元の記載は「日本では、7件の承認のうち7件が有効で、現在販売されています。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 7 件のうち有効（収載中）は 5 件で、2 件は経過措置期間満了などにより薬価基準から削除されています（622733700（廃止年月日 2026-03-31）、670006833（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+> **確認による訂正（2026-11-17）**：元の記載は「日本では、7件の承認のうち7件が有効で、現在販売されています。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、次の承認が経過措置期間満了などにより薬価基準から削除されています（622733700（廃止年月日 2026-03-31）、670006833（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
 
 <!-- review:end jp-lic-20261117-sucralfate-1 -->
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620441301 | スクラルファート細粒９０％「ツルハラ」 | 細粒 | 胃潰瘍、十二指腸潰瘍（消化性潰瘍薬、抗ペプシン薬） |
-| 622733700 | スクラルファート１０％液 | 液 | 胃潰瘍、十二指腸潰瘍（消化性潰瘍薬、抗ペプシン薬） |
-| 620006833 | アルサルミン細粒９０％ | 細粒 | 胃潰瘍、十二指腸潰瘍（消化性潰瘍薬、抗ペプシン薬） |
-| 670006833 | アルサルミン細粒９０％（選） | 細粒 | 胃潰瘍、十二指腸潰瘍（消化性潰瘍薬、抗ペプシン薬） |
-| 620006834 | アルサルミン内用液１０％ | 液 | （記載なし） |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620441301 | スクラルファート細粒９０％「ツルハラ」 | 有効 |
+| 622733700 | スクラルファート１０％液 | 薬価削除（2026-03-31） |
+| 620006833 | アルサルミン細粒９０％ | 有効 |
+| 670006833 | アルサルミン細粒９０％（選） | 薬価削除（2026-03-31） |
+| 620006834 | アルサルミン内用液１０％ | 有効 |
+
+上表はデータ上の 7 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 
@@ -114,11 +120,11 @@ TxGNN モデルは**十二指腸胃逆流 (duodenogastric reflux)** に有効で
 
 **理由：**
 - アルカリ逆流性胃炎を対象とした小規模 RCT が 2 件あり、直接的な支持はありますが、症例数が少なく、年代も古いです。登録された臨床試験もありません。
-- 日本の承認は7件のうち5件が有効で、現在市販されています。
+- 日本には有効な承認があり（件数はクイック概要を参照）、現在市販されています。
 
 <!-- review:begin jp-lic-20261117-sucralfate-2 -->
 
-> **確認による訂正（2026-11-17）**：元の記載は「日本の承認は7件すべてが有効で、現在市販されています。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 7 件のうち有効（収載中）は 5 件で、2 件は経過措置期間満了などにより薬価基準から削除されています（622733700（廃止年月日 2026-03-31）、670006833（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+> **確認による訂正（2026-11-17）**：元の記載は「日本の承認は7件すべてが有効で、現在市販されています。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、次の承認が経過措置期間満了などにより薬価基準から削除されています（622733700（廃止年月日 2026-03-31）、670006833（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
 
 <!-- review:end jp-lic-20261117-sucralfate-2 -->
 
@@ -149,8 +155,8 @@ TxGNN モデルは**十二指腸胃逆流 (duodenogastric reflux)** に有効で
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
-| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Sucralfate Oral Suspension (sucralfate) prescribing information, Glenmark Pharmaceuticals Inc., USA](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1e595c2a-edd0-43f7-a2db-69553b9557d9) |
 
 <!-- review:end log -->

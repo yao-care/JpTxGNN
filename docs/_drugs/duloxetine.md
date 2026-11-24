@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 104
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Duloxetine：予測新適応症は乳児良性発作性斜頸 (Benign Paroxysmal Torticollis of Infancy)（エビデンスレベル L5）。既存適応症：抗うつ薬、セロトニン・ノルアドレナリン再取り込み阻害薬"
 monitor_inn: "Duloxetine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "obsessive-compulsive disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "paranoid personality disorder", "schizotypal personality disorder", "Ohdo syndrome and variants", "ligneous conjunctivitis", "blepharophimosis - intellectual disability syndrome, Ohdo type"]
@@ -71,13 +71,19 @@ TxGNN モデルは**乳児良性発作性斜頸 (Benign Paroxysmal Torticollis o
 
 日本では販売されており、有効な承認が 20 件あります。主なものは以下のとおりです。
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 671978201 | サインバルタカプセル20mg（選） | カプセル | 抗うつ薬、セロトニン・ノルアドレナリン再取り込み阻害薬 |
-| 622850101 | デュロキセチンカプセル20mg「KMP」 | カプセル | 抗うつ薬、セロトニン・ノルアドレナリン再取り込み阻害薬 |
-| 622856001 | デュロキセチンカプセル30mg「三笠」 | カプセル | 抗うつ薬、セロトニン・ノルアドレナリン再取り込み阻害薬 |
-| 622851901 | デュロキセチン錠20mg「トーワ」 | 錠剤 | 抗うつ薬、セロトニン・ノルアドレナリン再取り込み阻害薬 |
-| 622859801 | デュロキセチンカプセル30mg「サワイ」 | カプセル | 抗うつ薬、セロトニン・ノルアドレナリン再取り込み阻害薬 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 671978201 | サインバルタカプセル２０ｍｇ（選） | 有効 |
+| 622850101 | デュロキセチンカプセル２０ｍｇ「ＫＭＰ」 | 有効 |
+| 622856001 | デュロキセチンカプセル３０ｍｇ「三笠」 | 有効 |
+| 622851901 | デュロキセチン錠２０ｍｇ「トーワ」 | 有効 |
+| 622859801 | デュロキセチンカプセル３０ｍｇ「サワイ」 | 有効 |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

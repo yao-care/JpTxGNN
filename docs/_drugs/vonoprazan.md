@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 340
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "vonoprazan"
 predicted_indications: ["peptic ulcer perforation", "hiatus hernia (disease)", "achlorhydria", "Dieulafoy lesion", "pylorospasm", "gastric dilatation", "cascade stomach", "hemorrhagic duodenitis"]
 description: "Vonoprazan：予測新適応症はPeptic ulcer perforation（エビデンスレベル L5）。薬価基準の品目：4 件（現在収載 4 件）"
@@ -84,12 +84,16 @@ description: "Vonoprazan：予測新適応症はPeptic ulcer perforation（エ�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 622944301 | タケキャブＯＤ錠１０ｍｇ | 錠１０ｍｇ | 有効 |
-| 622404501 | タケキャブ錠２０ｍｇ | 錠２０ｍｇ | 有効 |
-| 622404401 | タケキャブ錠１０ｍｇ | 錠１０ｍｇ | 有効 |
-| 622944401 | タケキャブＯＤ錠２０ｍｇ | 錠２０ｍｇ | 有効 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622944301 | タケキャブＯＤ錠１０ｍｇ | 有効 |
+| 622404501 | タケキャブ錠２０ｍｇ | 有効 |
+| 622404401 | タケキャブ錠１０ｍｇ | 有効 |
+| 622944401 | タケキャブＯＤ錠２０ｍｇ | 有効 |
+
+<!-- licenses:end -->
 
 有効な承認は確認できていません。
 
@@ -109,7 +113,7 @@ description: "Vonoprazan：予測新適応症はPeptic ulcer perforation（エ�
 
 <!-- review:begin jp-lic-20261106-vonoprazan-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「一方、このレポートの範囲では臨床試験登録がなく、日本の承認は取り消し済みで、安全性の一次情報も不足しているため、条件付きの推進が妥当です。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 4 件、うち有効 4 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「一方、このレポートの範囲では臨床試験登録がなく、日本の承認は取り消し済みで、安全性の一次情報も不足しているため、条件付きの推進が妥当です。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-vonoprazan-1 -->
 
@@ -121,7 +125,7 @@ description: "Vonoprazan：予測新適応症はPeptic ulcer perforation（エ�
 
 <!-- review:begin jp-lic-20261106-vonoprazan-2 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「日本での承認取り消しの経緯と現在の販売状況の確認／活動性消化性潰瘍を対象とした臨床試験デザインの検討」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 4 件、うち有効 4 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「日本での承認取り消しの経緯と現在の販売状況の確認／活動性消化性潰瘍を対象とした臨床試験デザインの検討」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-vonoprazan-2 -->
 
@@ -135,8 +139,8 @@ description: "Vonoprazan：予測新適応症はPeptic ulcer perforation（エ�
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「日本の承認は取り消し済みで」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-06 | 削除：「日本での承認取り消しの経緯と現在の販売状況の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本の承認は取り消し済みで」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本での承認取り消しの経緯と現在の販売状況の確認」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Voquezna (vonoprazan fumarate) prescribing information, Phathom Pharmaceuticals Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0cc52ac5-77ec-4d66-a770-762a1a960914) |
 
 <!-- review:end log -->

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Clopidogrel"
 predicted_indications: ["migraine with brainstem aura", "migraine disorder", "osteoarthritis", "tendinitis", "idiopathic granulomatous myositis", "myositis fibrosa", "rheumatoid arthritis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Clopidogrel：予測新適応症は片頭痛 (Migraine Disorder)。順位 1 位は脳幹性前兆を伴う片頭痛 (Migraine with Brainstem A…（エビデンスレベル L5）。既存適応症：抗凝固薬、血小板凝集抑制薬、P2Y12阻害薬"
 ---
 
@@ -93,13 +93,19 @@ TxGNN モデルは、上位予測の一つである**片頭痛 (Migraine Disorde
 
 日本ではクロピドグレルは市販されており、有効な承認が20件あります。
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620003469 | プラビックス錠75mg | 錠75mg | 抗凝固薬、血小板凝集抑制薬、P2Y12阻害薬 |
-| 622435501 | クロピドグレル錠25mg「科研」 | 錠25mg | 抗凝固薬、血小板凝集抑制薬、P2Y12阻害薬 |
-| 622435601 | クロピドグレル錠75mg「科研」 | 錠75mg | 抗凝固薬、血小板凝集抑制薬、P2Y12阻害薬 |
-| 622641801 | クロピドグレル錠75mg「フェルゼン」 | 錠75mg | 抗凝固薬、血小板凝集抑制薬、P2Y12阻害薬 |
-| 622420301 | クロピドグレル錠75mg「明治」 | 錠75mg | 抗凝固薬、血小板凝集抑制薬、P2Y12阻害薬 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620003469 | プラビックス錠７５ｍｇ | 有効 |
+| 622435501 | クロピドグレル錠２５ｍｇ「科研」 | 有効 |
+| 622435601 | クロピドグレル錠７５ｍｇ「科研」 | 有効 |
+| 622641801 | クロピドグレル錠７５ｍｇ「フェルゼン」 | 有効 |
+| 622420301 | クロピドグレル錠７５ｍｇ「明治」 | 有効 |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

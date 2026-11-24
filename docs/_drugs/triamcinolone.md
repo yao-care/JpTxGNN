@@ -5,7 +5,7 @@ parent: 中エビデンスレベル
 nav_order: 323
 evidence_level: L4
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Triamcinolone：予測新適応症は脱毛性粘液症 (Alopecia Mucinosa)（エビデンスレベル L4）。既存適応症：慢性副腎皮質機能不全、関節リウマチ、気管支喘息、ネフローゼ症候群、アトピー皮膚炎…"
 monitor_inn: "Triamcinolone"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
@@ -75,31 +75,25 @@ TxGNN モデルは**脱毛性粘液症 (Alopecia Mucinosa)** に有効である�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620610201 | トリアムシノロンアセトニドクリーム０．１％「ＴＫ」 | クリーム | 喘息治療薬、抗炎症薬、抗リウマチ薬、グルココルチコイド受容体作動薬 慢性副腎皮質機能不全...（薬価削除：2026-03-31） |
-| 662640430 | レダコートクリーム０．１％ | クリーム | 喘息治療薬、抗炎症薬、抗リウマチ薬、グルココルチコイド受容体作動薬 慢性副腎皮質機能不全...（有効） |
-| 620006758 | トリアムシノロンアセトニド０．１％軟膏 | 軟膏 | 喘息治療薬、抗炎症薬、抗リウマチ薬、グルココルチコイド受容体作動薬 慢性副腎皮質機能不全...（有効） |
-| 620609601 | トリアムシノロンアセトニドゲル０．１％「ＴＫ」 | ゲル | 喘息治療薬、抗炎症薬、抗リウマチ薬、グルココルチコイド受容体作動薬 慢性副腎皮質機能不全...（薬価削除：2026-03-31） |
-| 620004660 | ケナコルト−Ａ筋注用関節腔内用水懸注４０ｍｇ／１ｍＬ | 注射（筋注・関節腔内） | （記載なし）（有効） |
+<!-- licenses:begin -->
 
-<!-- review:begin jp-row-20261117-triamcinolone-1 -->
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620610201 | トリアムシノロンアセトニドクリーム０．１％「ＴＫ」 | 薬価削除（2026-03-31） |
+| 662640430 | レダコートクリーム０．１％ | 有効 |
+| 620006758 | トリアムシノロンアセトニド０．１％軟膏 | 有効 |
+| 620609601 | トリアムシノロンアセトニドゲル０．１％「ＴＫ」 | 薬価削除（2026-03-31） |
+| 620004660 | ケナコルト−Ａ筋注用関節腔内用水懸注４０ｍｇ／１ｍＬ | 有効 |
 
-> **確認による訂正（2026-11-17）**：元の記載は「620610201／トリアムシノロンアセトニドクリーム０．１％「ＴＫ」／クリーム／喘息治療薬、抗炎症薬、抗リウマチ薬、グルココルチコイド受容体作動薬 慢性副腎皮質機能不全...（有効）」でした。訂正：医薬品マスター（薬価基準収載品目）では 620610201 は廃止年月日 2026-03-31 で薬価基準から削除され、2026-11-12 の全件ファイルに収載されていません。表の状態の記載だけを直しました。承認の取消しを意味するものではありません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+上表はデータ上の 12 件のうち 5 件です。
 
-<!-- review:end jp-row-20261117-triamcinolone-1 -->
+<!-- licenses:end -->
 
-<!-- review:begin jp-row-20261117-triamcinolone-2 -->
-
-> **確認による訂正（2026-11-17）**：元の記載は「620609601／トリアムシノロンアセトニドゲル０．１％「ＴＫ」／ゲル／喘息治療薬、抗炎症薬、抗リウマチ薬、グルココルチコイド受容体作動薬 慢性副腎皮質機能不全...（有効）」でした。訂正：医薬品マスター（薬価基準収載品目）では 620609601 は廃止年月日 2026-03-31 で薬価基準から削除され、2026-11-12 の全件ファイルに収載されていません。表の状態の記載だけを直しました。承認の取消しを意味するものではありません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
-
-<!-- review:end jp-row-20261117-triamcinolone-2 -->
-
-上記は 12 件のうち主要な 5 件です。12 件のうち 9 件が有効な承認です（3 件は薬価基準から削除済み）。
+上記は 12 件のうち主要な 5 件です。承認には有効なものと薬価基準から削除済みのものがあります（件数はクイック概要を参照）。
 
 <!-- review:begin jp-lic-20261117-triamcinolone-1 -->
 
-> **確認による訂正（2026-11-17）**：元の記載は「12 件すべてが有効な承認です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 12 件のうち有効（収載中）は 9 件で、3 件は経過措置期間満了などにより薬価基準から削除されています（620610201（廃止年月日 2026-03-31）、620609601（廃止年月日 2026-03-31）、672640430（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+> **確認による訂正（2026-11-17）**：元の記載は「12 件すべてが有効な承認です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、次の承認が経過措置期間満了などにより薬価基準から削除されています（620610201（廃止年月日 2026-03-31）、620609601（廃止年月日 2026-03-31）、672640430（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
 
 <!-- review:end jp-lic-20261117-triamcinolone-1 -->
 
@@ -122,7 +116,7 @@ TxGNN モデルは**脱毛性粘液症 (Alopecia Mucinosa)** に有効である�
 
 <!-- review:begin jp-lic-20261106-triamcinolone-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「脱毛性粘液症に対する支持根拠は症例報告 2 編のみで、いずれもトリアムシノロンを検証していません。また、現在日本で有効な承認はなく、添付文書の安全性情報も未確認です。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 12 件、うち有効 12 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「脱毛性粘液症に対する支持根拠は症例報告 2 編のみで、いずれもトリアムシノロンを検証していません。また、現在日本で有効な承認はなく、添付文書の安全性情報も未確認です。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-triamcinolone-1 -->
 
@@ -134,7 +128,7 @@ TxGNN モデルは**脱毛性粘液症 (Alopecia Mucinosa)** に有効である�
 
 <!-- review:begin jp-lic-20261106-triamcinolone-2 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「剤形・投与経路の適合性の確認／販売承認が取消されている状況での供給・再承認の可能性の検討」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 12 件、うち有効 12 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「剤形・投与経路の適合性の確認／販売承認が取消されている状況での供給・再承認の可能性の検討」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-triamcinolone-2 -->
 
@@ -158,11 +152,11 @@ TxGNN は他にも予測しています。ただし、エビデンスは限定�
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「また、現在日本で有効な承認はなく、添付文書の安全性情報も未確認です」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-06 | 削除：「販売承認が取消されている状況での供給・再承認の可能性の検討」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
-| 2026-11-17 | 表：620610201 は有効ではなく薬価基準から削除済み | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
-| 2026-11-17 | 表：620609601 は有効ではなく薬価基準から削除済み | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-06 | 削除：「また、現在日本で有効な承認はなく、添付文書の安全性情報も未確認です」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「販売承認が取消されている状況での供給・再承認の可能性の検討」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-17 | 表：620610201 は有効ではなく薬価基準から削除済み | プログラム生成の承認情報表に置き換え（元の対応：訂正） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-17 | 表：620609601 は有効ではなく薬価基準から削除済み | プログラム生成の承認情報表に置き換え（元の対応：訂正） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Kenalog-40 (triamcinolone acetonide) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=4ce116aa-b330-4da9-9cdd-ba8e6be0c4ad) |
 
 <!-- review:end log -->

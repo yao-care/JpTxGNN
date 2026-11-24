@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Danazol"
 predicted_indications: ["amenorrhea (disease)", "blunt duct adenosis of breast", "apocrine adenosis of breast", "breast abscess", "fat necrosis of breast", "lactation disease", "breast adenosis", "vulvovaginitis", "vulvitis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Danazol：予測新適応症は無月経 (amenorrhea (disease))（エビデンスレベル L5）。薬価基準の品目：2 件（現在収載 2 件）"
 ---
 
@@ -81,10 +81,14 @@ TxGNN モデルは **無月経 (amenorrhea (disease))** を最上位の予測と
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 610407430 | ボンゾール錠２００ｍｇ | 錠２００ｍｇ | 記載なし |
-| 610407429 | ボンゾール錠１００ｍｇ | 錠１００ｍｇ | 記載なし |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 610407430 | ボンゾール錠２００ｍｇ | 有効 |
+| 610407429 | ボンゾール錠１００ｍｇ | 有効 |
+
+<!-- licenses:end -->
 
 いずれも単剤で、現在有効な承認です。
 

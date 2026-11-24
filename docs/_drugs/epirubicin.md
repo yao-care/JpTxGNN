@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 115
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Epirubicin"
 predicted_indications: ["primary pulmonary lymphoma", "well-differentiated fetal adenocarcinoma of the lung", "small cell lung carcinoma", "pulmonary blastoma", "lung mixed small cell and squamous cell carcinoma", "myeloid leukemia", "upper aerodigestive tract neoplasm"]
 description: "Epirubicin：予測新適応症は原発性肺リンパ腫 (primary pulmonary lymphoma)（エビデンスレベル L5）。薬価基準の品目：8 件（現在収載 4 件）"
@@ -81,13 +81,19 @@ TxGNN モデルは**原発性肺リンパ腫 (primary pulmonary lymphoma)** に�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620007224 | エピルビシン塩酸塩注射用１０ｍｇ「ＮＫ」 | 注射用 | 急性白血病、悪性リンパ腫、乳癌、卵巣癌、胃癌、肝癌、膀胱癌 |
-| 621966601 | エピルビシン塩酸塩注射液５０ｍｇ／２５ｍＬ「サワイ」 | 注射液 | 急性白血病、悪性リンパ腫、乳癌、卵巣癌、胃癌、肝癌、膀胱癌 |
-| 620008174 | エピルビシン塩酸塩注射用１０ｍｇ「サワイ」 | 注射用 | 急性白血病、悪性リンパ腫、乳癌、卵巣癌、胃癌、肝癌、膀胱癌 |
-| 620009523 | エピルビシン塩酸塩注射液１０ｍｇ／５ｍＬ「ＮＫ」 | 注射液 | 急性白血病、悪性リンパ腫、乳癌、卵巣癌、胃癌、肝癌、膀胱癌 |
-| 620008175 | エピルビシン塩酸塩注射用５０ｍｇ「サワイ」 | 注射用 | 急性白血病、悪性リンパ腫、乳癌、卵巣癌、胃癌、肝癌、膀胱癌 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620007224 | エピルビシン塩酸塩注射用１０ｍｇ「ＮＫ」 | 有効 |
+| 621966601 | エピルビシン塩酸塩注射液５０ｍｇ／２５ｍＬ「サワイ」 | 薬価削除（2026-03-31） |
+| 620008174 | エピルビシン塩酸塩注射用１０ｍｇ「サワイ」 | 薬価削除（2026-03-31） |
+| 620009523 | エピルビシン塩酸塩注射液１０ｍｇ／５ｍＬ「ＮＫ」 | 有効 |
+| 620008175 | エピルビシン塩酸塩注射用５０ｍｇ「サワイ」 | 薬価削除（2026-03-31） |
+
+上表はデータ上の 8 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 細胞毒性
 

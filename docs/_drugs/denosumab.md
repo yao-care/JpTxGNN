@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Denosumab"
 predicted_indications: ["severe nonproliferative diabetic retinopathy", "diabetic retinopathy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Denosumab：予測新適応症は重症非増殖性糖尿病網膜症 (Severe Nonproliferative Diabetic Retinopathy)（エビデンスレベル L5）。既存適応症：骨粗鬆症（閉経後骨粗鬆症、薬剤性骨粗鬆症）"
 ---
 
@@ -77,10 +77,14 @@ RANKL/RANK シグナルは、糖尿病における炎症や血管病変との関
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 629934601 | プラリアＨＩ皮下注６０ｍｇシリンジ０．５ｍＬ | 注射剤（シリンジ 0.5 mL） | 有効 |
-| 622239101 | プラリア皮下注６０ｍｇシリンジ　１ｍＬ | 注射剤（シリンジ 1 mL） | 有効 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 629934601 | プラリアＨＩ皮下注６０ｍｇシリンジ０．５ｍＬ | 有効 |
+| 622239101 | プラリア皮下注６０ｍｇシリンジ １ｍＬ | 有効 |
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 
@@ -107,7 +111,7 @@ RANKL/RANK シグナルは、糖尿病における炎症や血管病変との関
 
 <!-- review:begin jp-lic-20261106-denosumab-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「日本での承認状況（取り消しの経緯と現行製品の有無）の再確認／投与経路の適合性（眼科領域への適用可否）の評価」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 2 件、うち有効 2 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「日本での承認状況（取り消しの経緯と現行製品の有無）の再確認／投与経路の適合性（眼科領域への適用可否）の評価」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-denosumab-1 -->
 
@@ -119,7 +123,7 @@ RANKL/RANK シグナルは、糖尿病における炎症や血管病変との関
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「日本での承認状況（取り消しの経緯と現行製品の有無）の再確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本での承認状況（取り消しの経緯と現行製品の有無）の再確認」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Conexxence (denosumab) prescribing information, Fresenius Kabi USA, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=39a0a789-778f-4695-b3a9-61643e6396cd) |
 
 <!-- review:end log -->

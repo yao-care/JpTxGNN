@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 4
 monitor_inn: "Oxaliplatin"
 predicted_indications: ["malignant pleural mesothelioma", "malignant epithelioid mesothelioma", "sarcomatoid mesothelioma", "malignant visceral pleura tumor"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Oxaliplatin：予測新適応症は悪性胸膜中皮腫 (malignant pleural mesothelioma)（エビデンスレベル L3）。薬価基準の品目：6 件（現在収載 4 件）"
 ---
 
@@ -89,19 +89,19 @@ TxGNN モデルは**悪性胸膜中皮腫 (Malignant Pleural Mesothelioma)** に
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 621932301 | エルプラット点滴静注液１００ｍｇ　２０ｍＬ | 注射液 | （記載なし）有効 |
-| 671932301 | エルプラット点滴静注液１００ｍｇ　２０ｍＬ（選） | 注射液 | （記載なし）薬価削除（2026-03-31） |
-| 672189401 | エルプラット点滴静注液２００ｍｇ　４０ｍＬ（選） | 注射液 | （記載なし）有効 |
-| 621932201 | エルプラット点滴静注液５０ｍｇ　１０ｍＬ | 注射液 | （記載なし）有効 |
-| 622189401 | エルプラット点滴静注液２００ｍｇ　４０ｍＬ | 注射液 | （記載なし）有効 |
+<!-- licenses:begin -->
 
-<!-- review:begin jp-row-20261117-oxaliplatin-1 -->
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 621932301 | エルプラット点滴静注液１００ｍｇ ２０ｍＬ | 有効 |
+| 671932301 | エルプラット点滴静注液１００ｍｇ ２０ｍＬ（選） | 薬価削除（2026-03-31） |
+| 672189401 | エルプラット点滴静注液２００ｍｇ ４０ｍＬ（選） | 有効 |
+| 621932201 | エルプラット点滴静注液５０ｍｇ １０ｍＬ | 有効 |
+| 622189401 | エルプラット点滴静注液２００ｍｇ ４０ｍＬ | 有効 |
 
-> **確認による訂正（2026-11-17）**：元の記載は「671932301／エルプラット点滴静注液１００ｍｇ　２０ｍＬ（選）／注射液／（記載なし）有効」でした。訂正：医薬品マスター（薬価基準収載品目）では 671932301 は廃止年月日 2026-03-31 で薬価基準から削除され、2026-11-12 の全件ファイルに収載されていません。表の状態の記載だけを直しました。承認の取消しを意味するものではありません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+上表はデータ上の 6 件のうち 5 件です。
 
-<!-- review:end jp-row-20261117-oxaliplatin-1 -->
+<!-- licenses:end -->
 
 ## 細胞毒性
 
@@ -133,7 +133,7 @@ TxGNN モデルは**悪性胸膜中皮腫 (Malignant Pleural Mesothelioma)** に
 
 <!-- review:begin jp-lic-20261106-oxaliplatin-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「中皮腫に対する第 II 相試験や観察研究は複数ありますが、完了したランダム化比較試験や第 III 相試験はなく、既存の標準治療と比べた優位性は示されていません。／日本ではすべての承認が取消となっており、添付文書の警告・禁忌データも未確認のため、安全性評価に進める状態ではありません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 6 件、うち有効 6 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「中皮腫に対する第 II 相試験や観察研究は複数ありますが、完了したランダム化比較試験や第 III 相試験はなく、既存の標準治療と比べた優位性は示されていません。／日本ではすべての承認が取消となっており、添付文書の警告・禁忌データも未確認のため、安全性評価に進める状態ではありません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-oxaliplatin-1 -->
 
@@ -154,8 +154,8 @@ TxGNN モデルは**悪性胸膜中皮腫 (Malignant Pleural Mesothelioma)** に
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「日本ではすべての承認が取消となっており、添付文書の警告・禁忌データも未確認のため、安全性評価に進める状態ではありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-17 | 表：671932301 は有効ではなく薬価基準から削除済み | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-06 | 削除：「日本ではすべての承認が取消となっており、添付文書の警告・禁忌データも未確認のため、安全性評価に進める状態ではありません」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-17 | 表：671932301 は有効ではなく薬価基準から削除済み | プログラム生成の承認情報表に置き換え（元の対応：訂正） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: oxaliplatin prescribing information, Gland Pharma Limited](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a6f89dc3-a594-4b5b-8728-272e20c1ecb5) |
 
 <!-- review:end log -->

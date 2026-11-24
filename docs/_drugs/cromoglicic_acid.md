@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 81
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Cromoglicic Acid：予測新適応症は潰瘍性直腸S状結腸炎 (Ulcerative Proctosigmoiditis)（エビデンスレベル L5）。既存適応症：気管支喘息、アレルギー性鼻炎、アレルギー性結膜炎、肥満細胞症など（日本の承認適応症テキストはデータなし）"
 monitor_inn: "Cromoglicic acid"
 predicted_indications: ["ulcerative proctosigmoiditis", "nocardiosis", "rosacea conjunctivitis", "cap polyposis", "cutaneous photosensitivity-lethal colitis syndrome", "undetermined colitis", "pneumocystosis", "osteoarthritis", "allergic urticaria", "neonatal inflammatory skin and bowel disease"]
@@ -76,23 +76,29 @@ TxGNN モデルは**潰瘍性直腸S状結腸炎 (Ulcerative Proctosigmoiditis)*
 
 <!-- review:begin jp-lic-20261106-cromoglicic_acid-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「すべて承認整理済みで、現在市販中の製品はありません。いずれも点眼液2%（100 mg/5 mL）の単剤です。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 12 件、うち有効 12 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「すべて承認整理済みで、現在市販中の製品はありません。いずれも点眼液2%（100 mg/5 mL）の単剤です。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-cromoglicic_acid-1 -->
 
 <!-- review:begin jp-lic-20261106-cromoglicic_acid-2 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「※上記は主要5件で、ほかに7件の整理済み承認があります（合計12件）。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 12 件、うち有効 12 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「※上記は主要5件で、ほかに7件の整理済み承認があります（合計12件）。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-cromoglicic_acid-2 -->
 
-| 承認番号 | 商品名 | 剤形 | 状態 |
-|---------|------|------|------|
-| 621719301 | クロモグリク酸Na・PF点眼液2%「日点」 | 点眼液 | 有効 |
-| 621229301 | クロモグリク酸Na点眼液2%「トーワ」 | 点眼液 | 薬価削除（2026-03-31） |
-| 620216401 | クロモグリク酸Na点眼液2%「センジュ」 | 点眼液 | 有効 |
-| 620215402 | クロモグリク酸Na点眼液2%「タカタ」 | 点眼液 | 有効 |
-| 620215501 | クロモグリク酸Na点眼液2%「TS」 | 点眼液 | 有効 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 621719301 | クロモグリク酸Ｎａ・ＰＦ点眼液２％「日点」 １００ｍｇ５ｍＬ | 有効 |
+| 621229301 | クロモグリク酸Ｎａ点眼液２％「トーワ」 １００ｍｇ５ｍＬ | 薬価削除（2026-03-31） |
+| 620216401 | クロモグリク酸Ｎａ点眼液２％「センジュ」 １００ｍｇ５ｍＬ | 有効 |
+| 620215402 | クロモグリク酸Ｎａ点眼液２％「タカタ」 １００ｍｇ５ｍＬ | 有効 |
+| 620215501 | クロモグリク酸Ｎａ点眼液２％「ＴＳ」 １００ｍｇ５ｍＬ | 有効 |
+
+上表はデータ上の 12 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 
@@ -110,7 +116,7 @@ TxGNN モデルは**潰瘍性直腸S状結腸炎 (Ulcerative Proctosigmoiditis)*
 
 <!-- review:begin jp-lic-20261106-cromoglicic_acid-3 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「予測スコアは高い（0.9999）ものの、臨床試験も文献もなく、モデル予測のみに基づくエビデンスレベル L5 です。日本では現在市販中の製品もなく、添付文書の警告・禁忌データも未取得のため、現時点では先に進められません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 12 件、うち有効 12 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「予測スコアは高い（0.9999）ものの、臨床試験も文献もなく、モデル予測のみに基づくエビデンスレベル L5 です。日本では現在市販中の製品もなく、添付文書の警告・禁忌データも未取得のため、現時点では先に進められません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-cromoglicic_acid-3 -->
 
@@ -129,9 +135,9 @@ TxGNN モデルは**潰瘍性直腸S状結腸炎 (Ulcerative Proctosigmoiditis)*
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「すべて承認整理済みで、現在市販中の製品はありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-06 | 削除：「※上記は主要5件で、ほかに7件の整理済み承認があります（合計12件」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-06 | 削除：「日本では現在市販中の製品もなく、添付文書の警告・禁忌データも未取得のため、現時点では先に進められません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「すべて承認整理済みで、現在市販中の製品はありません」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「※上記は主要5件で、ほかに7件の整理済み承認があります（合計12件」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本では現在市販中の製品もなく、添付文書の警告・禁忌データも未取得のため、現時点では先に進められません」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 
 <!-- review:end log -->
 

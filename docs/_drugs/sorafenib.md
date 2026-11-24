@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 284
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Sorafenib"
 predicted_indications: ["liposarcoma", "ovarian myxoid liposarcoma", "female breast carcinoma", "renal pelvis carcinoma", "vulva sarcoma", "dermatofibrosarcoma protuberans"]
 description: "Sorafenib：予測新適応症は脂肪肉腫 (liposarcoma)（エビデンスレベル L5）。薬価基準の品目：1 件（現在収載 1 件）"
@@ -80,9 +80,13 @@ TxGNN モデルは**脂肪肉腫 (liposarcoma)** に有効である可能性を�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620006778 | ネクサバール錠２００ｍｇ | 錠２００ｍｇ（経口） | 記載なし（現在は販売中止） |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620006778 | ネクサバール錠２００ｍｇ | 有効 |
+
+<!-- licenses:end -->
 
 ## 細胞毒性
 

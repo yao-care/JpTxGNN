@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Dantrolene"
 predicted_indications: ["moderate multiminicore disease with hand involvement", "King-Denborough syndrome", "congenital multicore myopathy with external ophthalmoplegia", "central core myopathy", "hypokalemic periodic paralysis", "thyrotoxic periodic paralysis", "myopathy, centronuclear"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Dantrolene：予測新適応症は手の障害を伴う中等度マルチミニコア病 (moderate multiminicore disease with hand involvement)（エビデンスレベル L5）。薬価基準の品目：2 件（現在収載 2 件）"
 ---
 
@@ -72,10 +72,14 @@ TxGNN モデルは **手の障害を伴う中等度マルチミニコア病 (mod
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 |
-|---------|------|------|
-| 620003574 | ダントリウムカプセル２５ｍｇ | カプセル２５ｍｇ |
-| 620003753 | ダントリウム静注用２０ｍｇ | 注用２０ｍｇ |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620003574 | ダントリウムカプセル２５ｍｇ | 有効 |
+| 620003753 | ダントリウム静注用２０ｍｇ | 有効 |
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

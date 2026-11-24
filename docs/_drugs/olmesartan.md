@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "olmesartan"
 predicted_indications: ["Prinzmetal angina", "hypotrichosis simplex of the scalp", "migraine disorder", "alopecia", "pulmonary hypertension", "congenital hypotrichosis milia", "diffuse alopecia areata", "migraine with brainstem aura", "kyphoscoliotic heart disease", "open-angle glaucoma"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Olmesartan：予測新適応症は異型狭心症 (Prinzmetal angina)（TxGNN 最上位）／エビデンス最多：片頭痛 (migraine disorder)（エビデンスレベル L5）。既存適応症：血圧降下薬、アンジオテンシンII受容体拮抗薬（高血圧）"
 ---
 
@@ -91,13 +91,19 @@ TxGNN モデルの予測スコア最上位は**異型狭心症 (Prinzmetal angin
 
 <!-- review:end jp-lic-20261106-olmesartan-1 -->
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 672454201 | オルメテックOD錠40mg（選） | 錠 40mg | （記載なし） |
-| 622597601 | オルメサルタン錠5mg「日医工」 | 錠 5mg | 血圧降下薬、アンジオテンシンII受容体拮抗薬 |
-| 622574901 | オルメサルタン錠20mg「YD」 | 錠 20mg | 血圧降下薬、アンジオテンシンII受容体拮抗薬 |
-| 622577501 | オルメサルタン錠5mg「ケミファ」 | 錠 5mg | 血圧降下薬、アンジオテンシンII受容体拮抗薬 |
-| 622595201 | オルメサルタン錠40mg「日新」 | 錠 40mg | 血圧降下薬、アンジオテンシンII受容体拮抗薬 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 672454201 | オルメテックＯＤ錠４０ｍｇ（選） | 有効 |
+| 622597601 | オルメサルタン錠５ｍｇ「日医工」 | 有効 |
+| 622574901 | オルメサルタン錠２０ｍｇ「ＹＤ」 | 有効 |
+| 622577501 | オルメサルタン錠５ｍｇ「ケミファ」 | 有効 |
+| 622595201 | オルメサルタン錠４０ｍｇ「日新」 | 有効 |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

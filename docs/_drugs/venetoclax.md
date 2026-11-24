@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 333
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 monitor_inn: "Venetoclax"
 predicted_indications: ["Hodgkins lymphoma", "chronic myelogenous leukemia, BCR-ABL1 positive", "Ewing sarcoma", "follicular lymphoma", "metastatic neoplasm", "malignant spiradenoma"]
 description: "Venetoclax：予測新適応症はHodgkins lymphoma（エビデンスレベル L5）。薬価基準の品目：3 件（現在収載 3 件）"
@@ -72,11 +72,15 @@ description: "Venetoclax：予測新適応症はHodgkins lymphoma（エビデン
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 状態 |
-|---------|------|------|------|
-| 622696301 | ベネクレクスタ錠５０ｍｇ | 錠５０ｍｇ | 承認有効 |
-| 622696201 | ベネクレクスタ錠１０ｍｇ | 錠１０ｍｇ | 承認有効 |
-| 622696401 | ベネクレクスタ錠１００ｍｇ | 錠１００ｍｇ | 承認有効 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622696301 | ベネクレクスタ錠５０ｍｇ | 有効 |
+| 622696201 | ベネクレクスタ錠１０ｍｇ | 有効 |
+| 622696401 | ベネクレクスタ錠１００ｍｇ | 有効 |
+
+<!-- licenses:end -->
 
 ## 細胞毒性
 
@@ -127,7 +131,7 @@ description: "Venetoclax：予測新適応症はHodgkins lymphoma（エビデン
 
 <!-- review:begin jp-lic-20261106-venetoclax-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「日本での承認整理の経緯と現在の供給・承認状況の確認／CYP3A 関連の併用薬管理と、腫瘍崩壊症候群に対するモニタリング計画の策定」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 3 件、うち有効 3 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「日本での承認整理の経緯と現在の供給・承認状況の確認／CYP3A 関連の併用薬管理と、腫瘍崩壊症候群に対するモニタリング計画の策定」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-venetoclax-1 -->
 
@@ -139,7 +143,7 @@ description: "Venetoclax：予測新適応症はHodgkins lymphoma（エビデン
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「日本での承認整理の経緯と現在の供給・承認状況の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本での承認整理の経緯と現在の供給・承認状況の確認」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 
 <!-- review:end log -->
 

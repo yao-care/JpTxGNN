@@ -5,7 +5,7 @@ parent: 中エビデンスレベル
 nav_order: 196
 evidence_level: L4
 indication_count: 7
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Losartan：予測新適応症は悪性高血圧性腎疾患 (Malignant Hypertensive Renal Disease)（エビデンスレベル L4）。既存適応症：高血圧症、糖尿病性腎症"
 monitor_inn: "Losartan"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "Prinzmetal angina", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies"]
@@ -81,13 +81,19 @@ TxGNN モデルは**悪性高血圧性腎疾患 (Malignant Hypertensive Renal Di
 
 <!-- review:end jp-lic-20261106-losartan-1 -->
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 622152501 | ロサルタンカリウム錠５０ｍｇ「ＺＥ」 | 錠５０ｍｇ「ＺＥ」 | 血圧降下薬、アンジオテンシンII受容体拮抗薬。高血圧症、糖尿病性腎症 |
-| 622168701 | ロサルタンカリウム錠５０ｍｇ「サワイ」 | 錠５０ｍｇ「サワイ」 | 血圧降下薬、アンジオテンシンII受容体拮抗薬。高血圧症、糖尿病性腎症 |
-| 622174701 | ロサルタンカリウム錠５０ｍｇ「ＤＫ」 | 錠５０ｍｇ「ＤＫ」 | 血圧降下薬、アンジオテンシンII受容体拮抗薬。高血圧症、糖尿病性腎症 |
-| 622174801 | ロサルタンカリウム錠１００ｍｇ「ＤＫ」 | 錠１００ｍｇ「ＤＫ」 | 血圧降下薬、アンジオテンシンII受容体拮抗薬。高血圧症、糖尿病性腎症 |
-| 622156801 | ロサルタンカリウム錠１００ｍｇ「ＴＣＫ」 | 錠１００ｍｇ「ＴＣＫ」 | 血圧降下薬、アンジオテンシンII受容体拮抗薬。高血圧症、糖尿病性腎症 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622152501 | ロサルタンカリウム錠５０ｍｇ「ＺＥ」 | 有効 |
+| 622168701 | ロサルタンカリウム錠５０ｍｇ「サワイ」 | 有効 |
+| 622174701 | ロサルタンカリウム錠５０ｍｇ「ＤＫ」 | 有効 |
+| 622174801 | ロサルタンカリウム錠１００ｍｇ「ＤＫ」 | 有効 |
+| 622156801 | ロサルタンカリウム錠１００ｍｇ「ＴＣＫ」 | 薬価削除（2026-03-31） |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

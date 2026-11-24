@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Limaprost"
 predicted_indications: ["hereditary von Willebrand disease", "small bowel Crohn disease", "gastritis", "Von Willebrand disease, X-linked form", "venous insufficiency (disease)"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Limaprost：予測新適応症は遺伝性フォンヴィレブランド病 (hereditary von Willebrand disease)（エビデンスレベル L5）。既存適応症：閉塞性血栓血管炎、腰部脊柱管狭窄症（血小板凝集抑制薬・血管拡張薬・プロスタグランジンE1受容体作動薬）"
 ---
 
@@ -72,19 +72,25 @@ TxGNN モデルは**遺伝性フォンヴィレブランド病 (hereditary von W
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 622738800 | リマプロスト アルファデクス5μg錠 | 錠 | 閉塞性血栓血管炎、腰部脊柱管狭窄症（有効） |
-| 621522101 | リマプロストアルファデクス錠5μg「日医工」 | 錠5μg「日医工」 | 閉塞性血栓血管炎、腰部脊柱管狭窄症（有効） |
-| 621694101 | リマプロスト アルファデクス錠5μg「サワイ」 | 錠5μg「サワイ」 | 閉塞性血栓血管炎、腰部脊柱管狭窄症（有効） |
-| 620002509 | オパルモン錠5μg | 錠5μg | 閉塞性血栓血管炎、腰部脊柱管狭窄症（有効） |
-| 621418905 | リマプロストアルファデクス錠5μg「SN」 | 錠5μg「SN」 | 閉塞性血栓血管炎、腰部脊柱管狭窄症（有効） |
+<!-- licenses:begin -->
 
-上記は主要な 5 件です。日本では 8 件の承認のうち 7 件が有効です（1 件は薬価基準から削除済み）。
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622738800 | リマプロスト アルファデクス５μｇ錠 | 有効 |
+| 621522101 | リマプロストアルファデクス錠５μｇ「日医工」 | 有効 |
+| 621694101 | リマプロスト アルファデクス錠５μｇ「サワイ」 | 有効 |
+| 620002509 | オパルモン錠５μｇ | 有効 |
+| 621418905 | リマプロストアルファデクス錠５μｇ「ＳＮ」 | 有効 |
+
+上表はデータ上の 8 件のうち 5 件です。
+
+<!-- licenses:end -->
+
+上記は主要な 5 件です。日本の承認には有効なものと薬価基準から削除済みのものがあります（件数はクイック概要を参照）。
 
 <!-- review:begin jp-lic-20261117-limaprost-1 -->
 
-> **確認による訂正（2026-11-17）**：元の記載は「日本では 8 件の承認のうち 8 件が有効です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 8 件のうち有効（収載中）は 7 件で、1 件は経過措置期間満了などにより薬価基準から削除されています（670002509（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+> **確認による訂正（2026-11-17）**：元の記載は「日本では 8 件の承認のうち 8 件が有効です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、次の承認が経過措置期間満了などにより薬価基準から削除されています（670002509（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
 
 <!-- review:end jp-lic-20261117-limaprost-1 -->
 
@@ -101,11 +107,11 @@ TxGNN モデルは**遺伝性フォンヴィレブランド病 (hereditary von W
 **理由：**
 - 臨床試験・文献がなく、エビデンスはモデル予測のみ（L5）です。
 - 最上位の予測疾患（フォンヴィレブランド病）は、薬理作用と相反し安全性上の懸念があります。
-- 日本では販売されており、承認 8 件中、有効なものが 7 件あります。
+- 日本では販売されており、有効な承認があります（件数はクイック概要を参照）。
 
 <!-- review:begin jp-lic-20261117-limaprost-2 -->
 
-> **確認による訂正（2026-11-17）**：元の記載は「日本では販売されており、有効な承認が 8 件中 8 件あります。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 8 件のうち有効（収載中）は 7 件で、1 件は経過措置期間満了などにより薬価基準から削除されています（670002509（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+> **確認による訂正（2026-11-17）**：元の記載は「日本では販売されており、有効な承認が 8 件中 8 件あります。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、次の承認が経過措置期間満了などにより薬価基準から削除されています（670002509（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
 
 <!-- review:end jp-lic-20261117-limaprost-2 -->
 
@@ -117,7 +123,7 @@ TxGNN モデルは**遺伝性フォンヴィレブランド病 (hereditary von W
 
 <!-- review:begin jp-lic-20261106-limaprost-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「投与経路の適合性の評価／日本での承認取消の経緯の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 8 件、うち有効 8 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「投与経路の適合性の評価／日本での承認取消の経緯の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-limaprost-1 -->
 
@@ -129,9 +135,9 @@ TxGNN モデルは**遺伝性フォンヴィレブランド病 (hereditary von W
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「日本での承認取消の経緯の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
-| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-06 | 削除：「日本での承認取消の経緯の確認」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 
 <!-- review:end log -->
 

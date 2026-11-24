@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 45
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Bimatoprost：予測新適応症は歯・歯周組織の異常を伴う奇形症候群 (malformation syndrome with odontal and/or periodon…（エビデンスレベル L5）。既存適応症：緑内障（抗緑内障薬、睫毛発毛薬）"
 monitor_inn: "bimatoprost"
 predicted_indications: ["malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "Ambras type hypertrichosis universalis congenita", "hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "genetic alopecia", "pulmonary arteriovenous malformation (disease)"]
@@ -69,19 +69,25 @@ TxGNN モデルは、最上位の予測として**歯・歯周組織の異常を
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 | 状態 |
-|---------|------|------|-----------|------|
-| 622658601 | ビマトプロスト点眼液0.03%「日新」 | 点眼液 | 緑内障（抗緑内障薬、睫毛発毛薬） | 有効 |
-| 621933101 | ルミガン点眼液0.03% | 点眼液 | 緑内障（抗緑内障薬、睫毛発毛薬） | 有効 |
-| 622646901 | ビマトプロスト点眼液0.03%「SEC」 | 点眼液 | 緑内障（抗緑内障薬、睫毛発毛薬） | 有効 |
-| 622663401 | ビマトプロスト点眼液0.03%「ニットー」 | 点眼液 | 緑内障（抗緑内障薬、睫毛発毛薬） | 有効 |
-| 622938601 | ビマトプロスト点眼液0.03%「日点」 | 点眼液 | 緑内障（抗緑内障薬、睫毛発毛薬） | 有効 |
+<!-- licenses:begin -->
 
-上記は 8 件のうち主要な 5 件です。残りの 3 件（「TS」「わかもと」、ルミガン（選））も有効です。
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622658601 | ビマトプロスト点眼液０．０３％「日新」 | 有効 |
+| 621933101 | ルミガン点眼液０．０３％ | 有効 |
+| 622646901 | ビマトプロスト点眼液０．０３％「ＳＥＣ」 | 有効 |
+| 622663401 | ビマトプロスト点眼液０．０３％「ニットー」 | 有効 |
+| 622938601 | ビマトプロスト点眼液０．０３％「日点」 | 有効 |
+
+上表はデータ上の 8 件のうち 5 件です。
+
+<!-- licenses:end -->
+
+上記は 8 件のうち主要な 5 件です。上表にない「TS」とルミガン（選）も有効です。「わかもと」は 2026-03-31 に薬価基準から削除されています。
 
 <!-- review:begin jp-lic-20261112-bimatoprost-1 -->
 
-> **確認による訂正（2026-11-12）**：元の記載は「残りの 3 件（「TS」「わかもと」、ルミガン（選））も取消済みです。」でした。訂正：医薬品マスター（薬価基準収載品目）では、残りの 3 件（622661201「TS」、622650401「わかもと」、671933101 ルミガン（選））も有効です（2026-11-05 のデータ）。データ上の収載は 8 件、うち有効 8 件です。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-12）**：元の記載は「残りの 3 件（「TS」「わかもと」、ルミガン（選））も取消済みです。」でした。訂正：医薬品マスター（薬価基準収載品目）では、上表にない「TS」（622661201）とルミガン（選）（671933101）は有効（収載中）です。「わかもと」（622650401）は 2026-11-05 のデータでは有効でしたが、2026-11-12 の全件ファイルでは廃止年月日 2026-03-31 で薬価基準から削除されています（薬価基準からの削除は承認の取消しを意味するものではありません）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261112-bimatoprost-1 -->
 
@@ -125,11 +131,11 @@ TxGNN モデルは、最上位の予測として**歯・歯周組織の異常を
 
 **理由：**
 - 最上位の予測（歯・歯周組織の異常を伴う奇形症候群）には、臨床試験も文献もありません。ビマトプロストの作用機序とのつながりも見いだせず、モデル予測のみの L5 です。
-- 日本の販売承認は 8 件のうち 7 件が有効で（1 件は薬価基準から削除済み）、現在市販されています。
+- 日本の販売承認には有効なものと薬価基準から削除済みのものがあり（件数はクイック概要を参照）、現在市販されています。
 
 <!-- review:begin jp-lic-20261117-bimatoprost-1 -->
 
-> **確認による訂正（2026-11-17）**：元の記載は「日本の販売承認は 8 件すべてが有効で、現在市販されています。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 8 件のうち有効（収載中）は 7 件で、1 件は経過措置期間満了などにより薬価基準から削除されています（622650401（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+> **確認による訂正（2026-11-17）**：元の記載は「日本の販売承認は 8 件すべてが有効で、現在市販されています。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、次の承認が経過措置期間満了などにより薬価基準から削除されています（622650401（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
 
 <!-- review:end jp-lic-20261117-bimatoprost-1 -->
 
@@ -140,7 +146,7 @@ TxGNN モデルは、最上位の予測として**歯・歯周組織の異常を
 
 <!-- review:begin jp-lic-20261106-bimatoprost-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「添付文書の警告・禁忌の確認（PMDA の添付文書を取得して解析）。／外用（頭皮）剤形での開発可否の検討：日本で現在有効な承認がなく、剤形・投与経路の適合性も未評価です。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 8 件、うち有効 8 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「添付文書の警告・禁忌の確認（PMDA の添付文書を取得して解析）。／外用（頭皮）剤形での開発可否の検討：日本で現在有効な承認がなく、剤形・投与経路の適合性も未評価です。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-bimatoprost-1 -->
 
@@ -152,9 +158,9 @@ TxGNN モデルは、最上位の予測として**歯・歯周組織の異常を
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「外用（頭皮）剤形での開発可否の検討：日本で現在有効な承認がなく、剤形・投与経路の適合性も未評価です」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-12 | 訂正：残りの 3 件は「取消済み」ではなく有効 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-06 | 削除：「外用（頭皮）剤形での開発可否の検討：日本で現在有効な承認がなく、剤形・投与経路の適合性も未評価です」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-12 | 訂正：「TS」「わかもと」、ルミガン（選）は「取消済み」ではない（「わかもと」はのちに薬価基準から削除） | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Durysta (bimatoprost) prescribing information, Allergan, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=3f59da84-0bcc-4c84-b3e2-e215681ef341) |
 
 <!-- review:end log -->

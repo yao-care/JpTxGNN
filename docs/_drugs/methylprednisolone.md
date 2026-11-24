@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 206
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Methylprednisolone"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
 description: "Methylprednisolone：予測新適応症はムチン沈着性脱毛症 (alopecia mucinosa)（エビデンスレベル L5）。薬価基準の品目：9 件（現在収載 9 件）"
@@ -67,13 +67,19 @@ TxGNN モデルは**ムチン沈着性脱毛症 (alopecia mucinosa)** に有効�
 
 日本では 9 件の承認がすべて有効で、市販中です。主な製品は次のとおりです。
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620007358 | ソル・メドロール静注用500mg（溶解液付） | 注射用 | 記載なし（承認有効） |
-| 620007357 | ソル・メドロール静注用125mg（溶解液付） | 注射用 | 記載なし（承認有効） |
-| 620007356 | ソル・メドロール静注用40mg（溶解液付） | 注射用 | 記載なし（承認有効） |
-| 620005125 | メドロール錠2mg | 錠剤 | 記載なし（承認有効） |
-| 620007382 | デポ・メドロール水懸注40mg 1mL | 注射剤 | 記載なし（承認有効） |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620007358 | ソル・メドロール静注用５００ｍｇ （溶解液付） | 有効 |
+| 620007357 | ソル・メドロール静注用１２５ｍｇ （溶解液付） | 有効 |
+| 620007356 | ソル・メドロール静注用４０ｍｇ （溶解液付） | 有効 |
+| 620005125 | メドロール錠２ｍｇ | 有効 |
+| 620007382 | デポ・メドロール水懸注４０ｍｇ １ｍＬ | 有効 |
+
+上表はデータ上の 9 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 局所投与が想定される疾患のため、軟膏や局所注射剤などの剤形が既に存在する点は、今後の検討で有利になり得ます。ただし、投与経路の適合性はまだ評価されていません。
 

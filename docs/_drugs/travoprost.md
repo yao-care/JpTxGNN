@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "travoprost"
 predicted_indications: ["visceral calciphylaxis", "arterial thoracic outlet syndrome", "venous thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "vascular disease", "angiodysplasia of stomach", "blue toe syndrome", "lymphangiectasis", "idiopathic spontaneous coronary artery dissection", "hemangioendothelioma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Travoprost：予測新適応症はVisceral calciphylaxis（エビデンスレベル L5）。薬価基準の品目：3 件（現在収載 3 件）"
 ---
 
@@ -97,11 +97,15 @@ TxGNN モデルは**血管疾患 (Vascular Disease)** に有効である可能�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620005833 | トラバタンズ点眼液０．００４％ | 点眼液 0.004% | 緑内障（抗緑内障薬、プロスタグランジン F 受容体作動薬）※有効 |
-| 670005833 | トラバタンズ点眼液０．００４％（選） | 点眼液 0.004%（選） | 緑内障 ※有効 |
-| 622640001 | トラボプロスト点眼液０．００４％「ニットー」 | 点眼液 0.004%「ニットー」 | 緑内障 ※有効 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620005833 | トラバタンズ点眼液０．００４％ | 有効 |
+| 670005833 | トラバタンズ点眼液０．００４％（選） | 有効 |
+| 622640001 | トラボプロスト点眼液０．００４％「ニットー」 | 有効 |
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

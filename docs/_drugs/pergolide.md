@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Pergolide"
 predicted_indications: ["congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies", "schizophrenia", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia X-linked", "atypical glycine encephalopathy", "myopia 26, X-linked, female-limited", "hydranencephaly (disease)", "syndromic myopia"]
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Pergolide：予測新適応症はフコシル化欠損を伴う先天性糖鎖修飾異常症（エビデンスレベル L5）。既存適応症：パーキンソン病"
 ---
 
@@ -86,19 +86,25 @@ description: "Pergolide：予測新適応症はフコシル化欠損を伴う先
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 610406393 | ペルマックス錠250μg | 錠 250μg | パーキンソン病治療薬、ドパミン受容体作動薬 |
-| 610406392 | ペルマックス錠50μg | 錠 50μg | パーキンソン病治療薬、ドパミン受容体作動薬 |
-| 620004068 | ペルゴリド錠250μg「サワイ」 | 錠 250μg | パーキンソン病治療薬、ドパミン受容体作動薬 |
-| 620004067 | ペルゴリド錠50μg「サワイ」 | 錠 50μg | パーキンソン病治療薬、ドパミン受容体作動薬 |
-| 622711200 | ペルゴリドメシル酸塩250μg錠 | 錠 | パーキンソン病治療薬、ドパミン受容体作動薬 |
+<!-- licenses:begin -->
 
-上記を含む承認 8 件のうち 6 件が有効で（2 件は薬価基準から削除済み）、現在市販されています。
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 610406393 | ペルマックス錠２５０μｇ | 有効 |
+| 610406392 | ペルマックス錠５０μｇ | 有効 |
+| 620004068 | ペルゴリド錠２５０μｇ「サワイ」 | 有効 |
+| 620004067 | ペルゴリド錠５０μｇ「サワイ」 | 有効 |
+| 622711200 | ペルゴリドメシル酸塩２５０μｇ錠 | 薬価削除（2026-03-31） |
+
+上表はデータ上の 8 件のうち 5 件です。
+
+<!-- licenses:end -->
+
+上記を含む承認には有効なものと薬価基準から削除済みのものがあり（件数はクイック概要を参照）、現在市販されています。
 
 <!-- review:begin jp-lic-20261117-pergolide-1 -->
 
-> **確認による訂正（2026-11-17）**：元の記載は「上記を含む承認 8 件はすべて有効で、現在市販されています。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 8 件のうち有効（収載中）は 6 件で、2 件は経過措置期間満了などにより薬価基準から削除されています（622711100（廃止年月日 2026-03-31）、622711200（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+> **確認による訂正（2026-11-17）**：元の記載は「上記を含む承認 8 件はすべて有効で、現在市販されています。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、次の承認が経過措置期間満了などにより薬価基準から削除されています（622711100（廃止年月日 2026-03-31）、622711200（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
 
 <!-- review:end jp-lic-20261117-pergolide-1 -->
 
@@ -127,7 +133,7 @@ description: "Pergolide：予測新適応症はフコシル化欠損を伴う先
 
 <!-- review:begin jp-lic-20261106-pergolide-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「統合失調症で進める場合は、心臓弁膜症リスクの評価計画と、より大規模な対照試験の設計／日本ではすべての承認が整理済みのため、再導入の可否と規制上の経路の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 8 件、うち有効 8 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「統合失調症で進める場合は、心臓弁膜症リスクの評価計画と、より大規模な対照試験の設計／日本ではすべての承認が整理済みのため、再導入の可否と規制上の経路の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-pergolide-1 -->
 
@@ -139,8 +145,8 @@ description: "Pergolide：予測新適応症はフコシル化欠損を伴う先
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「日本ではすべての承認が整理済みのため、再導入の可否と規制上の経路の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-06 | 削除：「日本ではすべての承認が整理済みのため、再導入の可否と規制上の経路の確認」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 
 <!-- review:end log -->
 

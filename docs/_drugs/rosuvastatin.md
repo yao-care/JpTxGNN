@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 272
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Rosuvastatin"
 predicted_indications: ["cholesterol-ester transfer protein deficiency", "brain stem infarction", "HIV infectious disease", "hypoalphalipoproteinemia", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "ABri amyloidosis"]
 description: "Rosuvastatin：予測新適応症はコレステロールエステル転送蛋白欠損症 (cholesterol-ester transfer protein deficiency)（エビデンスレベル L5）。薬価基準の品目：20 件以上"
@@ -71,13 +71,19 @@ TxGNN モデルは**コレステロールエステル転送蛋白欠損症 (chol
 
 収載されている承認 20 件はいずれも有効で、日本で販売されています。以下は主な 5 件です。
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 622582502 | ロスバスタチン錠２．５ｍｇ「ＫＭＰ」 | 錠 | 高コレステロール血症、家族性高コレステロール血症（脂質異常症治療薬、HMG-CoA 還元酵素阻害薬） |
-| 622640901 | ロスバスタチン錠５ｍｇ「ツルハラ」 | 錠 | 高コレステロール血症、家族性高コレステロール血症 |
-| 622660101 | ロスバスタチン錠５ｍｇ「フェルゼン」 | 錠 | 高コレステロール血症、家族性高コレステロール血症 |
-| 622595301 | ロスバスタチン錠２．５ｍｇ「日新」 | 錠 | 高コレステロール血症、家族性高コレステロール血症 |
-| 622598401 | ロスバスタチン錠５ｍｇ「日医工」 | 錠 | 高コレステロール血症、家族性高コレステロール血症 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622582502 | ロスバスタチン錠２．５ｍｇ「ＫＭＰ」 | 有効 |
+| 622640901 | ロスバスタチン錠５ｍｇ「ツルハラ」 | 有効 |
+| 622660101 | ロスバスタチン錠５ｍｇ「フェルゼン」 | 薬価削除（2026-09-30、後継コード 622692600） |
+| 622595301 | ロスバスタチン錠２．５ｍｇ「日新」 | 有効 |
+| 622598401 | ロスバスタチン錠５ｍｇ「日医工」 | 有効 |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

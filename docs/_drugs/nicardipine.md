@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 220
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Nicardipine：予測新適応症は原因不明の多因子性肺高血圧症 (pulmonary hypertension with unclear multifactorial me…（エビデンスレベル L5）。既存適応症：高血圧性緊急症、急性心不全、本態性高血圧症"
 monitor_inn: "Nicardipine"
 predicted_indications: ["pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "Braddock syndrome"]
@@ -79,15 +79,21 @@ TxGNN モデルは**原因不明の多因子性肺高血圧症 (pulmonary hypert
 
 ## 日本市販情報
 
-承認12件のうち12件が現在有効です。以下は主な承認です。
+承認12件のうち11件が現在有効です。以下は主な承認です。
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 621402901 | ニカルジピン塩酸塩注射液１０ｍｇ「日医工」　１０ｍＬ | 注射液 | 高血圧性緊急症、急性心不全、本態性高血圧症 |
-| 620303501 | ニカルジピン塩酸塩注射液１０ｍｇ「サワイ」　１０ｍＬ | 注射液 | 高血圧性緊急症、急性心不全、本態性高血圧症 |
-| 610454081 | ペルジピン錠２０ｍｇ | 錠剤 | 高血圧性緊急症、急性心不全、本態性高血圧症 |
-| 620349302 | ニカルジピン塩酸塩錠２０ｍｇ「ツルハラ」 | 錠剤 | 高血圧性緊急症、急性心不全、本態性高血圧症 |
-| 622010502 | ニカルジピン塩酸塩注射液２５ｍｇ「サワイ」　２５ｍＬ | 注射液 | 高血圧性緊急症、急性心不全、本態性高血圧症 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 621402901 | ニカルジピン塩酸塩注射液１０ｍｇ「日医工」 １０ｍＬ | 有効 |
+| 620303501 | ニカルジピン塩酸塩注射液１０ｍｇ「サワイ」 １０ｍＬ | 有効 |
+| 610454081 | ペルジピン錠２０ｍｇ | 有効 |
+| 620349302 | ニカルジピン塩酸塩錠２０ｍｇ「ツルハラ」 | 有効 |
+| 622010502 | ニカルジピン塩酸塩注射液２５ｍｇ「サワイ」 ２５ｍＬ | 有効 |
+
+上表はデータ上の 12 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 
@@ -103,11 +109,11 @@ TxGNN モデルは**原因不明の多因子性肺高血圧症 (pulmonary hypert
 **決定：Hold**
 
 **理由：**
-根拠は TxGNN の予測のみ（L5）で、この適応症に対する臨床試験も文献もありません。また、日本では販売されており、承認12件のうち11件が有効ですが（1件は薬価基準から削除済み）、添付文書の安全性情報は未取得です。機序上の仮説はありますが、全身性血管拡張が肺の換気血流バランスを悪化させる懸念もあります。
+根拠は TxGNN の予測のみ（L5）で、この適応症に対する臨床試験も文献もありません。また、日本では販売されており、有効な承認がありますが（薬価基準から削除済みのものもあり、件数はクイック概要を参照）、添付文書の安全性情報は未取得です。機序上の仮説はありますが、全身性血管拡張が肺の換気血流バランスを悪化させる懸念もあります。
 
 <!-- review:begin jp-lic-20261117-nicardipine-1 -->
 
-> **確認による訂正（2026-11-17）**：元の記載は「承認12件のうち12件が有効ですが、」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 12 件のうち有効（収載中）は 11 件で、1 件は経過措置期間満了などにより薬価基準から削除されています（670454081（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+> **確認による訂正（2026-11-17）**：元の記載は「承認12件のうち12件が有効ですが、」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、次の承認が経過措置期間満了などにより薬価基準から削除されています（670454081（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
 
 <!-- review:end jp-lic-20261117-nicardipine-1 -->
 
@@ -119,7 +125,7 @@ TxGNN モデルは**原因不明の多因子性肺高血圧症 (pulmonary hypert
 
 <!-- review:begin jp-lic-20261106-nicardipine-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「肺血行動態への影響（肺血管抵抗、換気血流比）の評価／日本で承認が取消されている経緯と、現在の供給状況の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 12 件、うち有効 12 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「肺血行動態への影響（肺血管抵抗、換気血流比）の評価／日本で承認が取消されている経緯と、現在の供給状況の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-nicardipine-1 -->
 
@@ -131,8 +137,8 @@ TxGNN モデルは**原因不明の多因子性肺高血圧症 (pulmonary hypert
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「日本で承認が取消されている経緯と、現在の供給状況の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-06 | 削除：「日本で承認が取消されている経緯と、現在の供給状況の確認」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Nicardipine Hydrochloride In Sodium Chloride (nicardipine hydrochloride) prescribing information, WG Critical Care, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=9ffe6b6f-b8bc-413f-9bec-7639e9d71d3d) |
 
 <!-- review:end log -->

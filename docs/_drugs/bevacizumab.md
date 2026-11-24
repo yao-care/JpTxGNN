@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "bevacizumab"
 predicted_indications: ["epiglottis neoplasm", "benign neoplasm of tongue", "tumor of testis and paratestis", "benign neoplasm of hypopharynx", "benign neoplasm of floor of mouth", "cervical neuroblastoma", "cystic neoplasm", "nasal cavity inverting papilloma", "mesenchymoma", "schwannoma of jugular foramen"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Bevacizumab：予測新適応症は喉頭蓋腫瘍 (Epiglottis Neoplasm)（第 1 位）／嚢胞性腫瘍 (Cystic Neoplasm)（エビデンス最多）（エビデンスレベル L5）。既存適応症：腹膜癌、原発性腹膜癌、卵巣悪性上皮性腫瘍、乳癌、結腸の転移性腫瘍、膠芽腫など（日本の承認適応症の記載はなし）"
 ---
 
@@ -92,10 +92,14 @@ TxGNN モデルの予測順位第 1 位は**喉頭蓋腫瘍 (Epiglottis Neoplasm
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620004873 | アバスチン点滴静注用400mg/16mL | 注用 400mg/16mL | 記載なし（有効） |
-| 620004872 | アバスチン点滴静注用100mg/4mL | 注用 100mg/4mL | 記載なし（有効） |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620004873 | アバスチン点滴静注用４００ｍｇ／１６ｍＬ | 有効 |
+| 620004872 | アバスチン点滴静注用１００ｍｇ／４ｍＬ | 有効 |
+
+<!-- licenses:end -->
 
 ## 細胞毒性
 
@@ -125,7 +129,7 @@ TxGNN モデルの予測順位第 1 位は**喉頭蓋腫瘍 (Epiglottis Neoplasm
 
 <!-- review:begin jp-lic-20261106-bevacizumab-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「嚢胞性腫瘍は L2 相当のデータがありますが、卵巣癌という既存用途の延長で、対象疾患との直接性が低いため、現時点での推進は難しい状況です。／日本ではアバスチンの承認が 2 件とも取消済みで、市販品がありません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 2 件、うち有効 2 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「嚢胞性腫瘍は L2 相当のデータがありますが、卵巣癌という既存用途の延長で、対象疾患との直接性が低いため、現時点での推進は難しい状況です。／日本ではアバスチンの承認が 2 件とも取消済みで、市販品がありません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-bevacizumab-1 -->
 
@@ -138,7 +142,7 @@ TxGNN モデルの予測順位第 1 位は**喉頭蓋腫瘍 (Epiglottis Neoplasm
 
 <!-- review:begin jp-lic-20261106-bevacizumab-2 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「日本の現行の販売状況と承認適応症を確認する（取消の理由、他社製品や後続品の有無を含む）」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 2 件、うち有効 2 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「日本の現行の販売状況と承認適応症を確認する（取消の理由、他社製品や後続品の有無を含む）」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-bevacizumab-2 -->
 
@@ -150,8 +154,8 @@ TxGNN モデルの予測順位第 1 位は**喉頭蓋腫瘍 (Epiglottis Neoplasm
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「日本ではアバスチンの承認が 2 件とも取消済みで、市販品がありません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-06 | 削除：「取消の理由」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本ではアバスチンの承認が 2 件とも取消済みで、市販品がありません」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「取消の理由」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 
 <!-- review:end log -->
 

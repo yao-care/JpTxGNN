@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "sulpiride"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "myopia X-linked", "congenital disorder of glycosylation with defective fucosylation", "myopia 26, X-linked, female-limited", "syndromic myopia", "atypical glycine encephalopathy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Sulpiride：予測新適応症は網膜ジストロフィー（retinal dystrophy with or without extraocular anomalies）（エビデンスレベル L5）。既存適応症：統合失調症、うつ病・うつ状態、胃・十二指腸潰瘍"
 ---
 
@@ -81,13 +81,19 @@ TxGNN モデルは**網膜ジストロフィー（retinal dystrophy with or with
 
 <!-- review:end jp-lic-20261106-sulpiride-1 -->
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620002520 | スルピリド細粒１０％「アメル」 | 細粒 | 統合失調症、うつ病・うつ状態、胃・十二指腸潰瘍 |
-| 620009328 | スルピリド錠１００ｍｇ「トーワ」 | 錠 | 統合失調症、うつ病・うつ状態、胃・十二指腸潰瘍 |
-| 671170249 | ドグマチール錠１００ｍｇ（選） | 錠 | 統合失調症、うつ病・うつ状態、胃・十二指腸潰瘍 |
-| 612320199 | ドグマチール細粒１０％ | 細粒 | 統合失調症、うつ病・うつ状態、胃・十二指腸潰瘍 |
-| 622734000 | スルピリド５０ｍｇ錠 | 錠 | 統合失調症、うつ病・うつ状態、胃・十二指腸潰瘍 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620002520 | スルピリド細粒１０％「アメル」 | 薬価削除（2026-03-31） |
+| 620009328 | スルピリド錠１００ｍｇ「トーワ」 | 有効 |
+| 671170249 | ドグマチール錠１００ｍｇ（選） | 薬価削除（2026-03-31） |
+| 612320199 | ドグマチール細粒１０％ | 有効 |
+| 622734000 | スルピリド５０ｍｇ錠 | 有効 |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

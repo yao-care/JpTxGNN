@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "atezolizumab"
 predicted_indications: ["uterine ligament adenocarcinoma", "endocervical carcinoma", "adenoid cystic carcinoma of the cervix uteri", "uterine ligament serous adenocarcinoma", "signet ring cell variant cervical mucinous adenocarcinoma", "intestinal variant cervical mucinous adenocarcinoma"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Atezolizumab：予測新適応症は子宮靭帯腺癌（エビデンスレベル L5）。既存適応症：ナレッジグラフ上で記録されている関係：移行上皮癌（承認適応症としては、ライセンス情報から確認できませんでした）"
 ---
 
@@ -76,10 +76,14 @@ TxGNN モデルは**子宮靭帯腺癌 (uterine ligament adenocarcinoma)** に�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 |
-|---------|------|------|
-| 622594601 | テセントリク点滴静注1200mg（1,200mg/20mL） | 注射剤 |
-| 629900601 | テセントリク点滴静注840mg（840mg/14mL） | 注射剤 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 622594601 | テセントリク点滴静注１２００ｍｇ １，２００ｍｇ２０ｍＬ | 有効 |
+| 629900601 | テセントリク点滴静注８４０ｍｇ １４ｍＬ | 有効 |
+
+<!-- licenses:end -->
 
 いずれも単一成分製剤で、有効な承認です。承認適応症の文言は、今回の情報では確認できていません。
 

@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 320
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-24
 description: "Tranilast：予測新適応症は脂漏性角化症 (Seborrheic Keratosis)（エビデンスレベル L5）。既存適応症：気管支喘息、アレルギー性鼻炎、アトピー性皮膚炎（抗アレルギー薬・喘息治療薬・メディエーター遊離抑制薬）"
 monitor_inn: "Tranilast"
 predicted_indications: ["seborrheic keratosis", "seborrheic dermatitis", "polyp of vocal cord", "polyp of middle ear", "polyp of frontal sinus", "polyp of external auditory canal", "epulis", "fibroepithelial polyp", "polyp of ureter", "polyp of vulva"]
@@ -78,21 +78,27 @@ TxGNN モデルは**脂漏性角化症 (Seborrheic Keratosis)** に有効であ�
 
 ## 日本市販情報
 
-トラニラストを含む製品は国内で販売されており、承認20件のうち17件が有効です（3件は薬価基準から削除済み）。主な承認は以下のとおりです。
+トラニラストを含む製品は国内で販売されており、承認には有効なものと薬価基準から削除済みのものがあります（件数はクイック概要を参照）。主な承認は以下のとおりです。
 
 <!-- review:begin jp-lic-20261117-tranilast-1 -->
 
-> **確認による訂正（2026-11-17）**：元の記載は「承認20件のうち20件が有効です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 20 件のうち有効（収載中）は 17 件で、3 件は経過措置期間満了などにより薬価基準から削除されています（622024401（廃止年月日 2026-09-30、後継コード 622772500）、670002549（廃止年月日 2026-03-31）、622743500（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+> **確認による訂正（2026-11-17）**：元の記載は「承認20件のうち20件が有効です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、次の承認が経過措置期間満了などにより薬価基準から削除されています（622024401（廃止年月日 2026-09-30、後継コード 622772500）、670002549（廃止年月日 2026-03-31）、622743500（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
 
 <!-- review:end jp-lic-20261117-tranilast-1 -->
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620002549 | リザベンカプセル100mg | カプセル | 気管支喘息、アレルギー性鼻炎、アトピー性皮膚炎（抗アレルギー薬） |
-| 620003649 | リザベンドライシロップ5% | シロップ | 気管支喘息、アレルギー性鼻炎、アトピー性皮膚炎（抗アレルギー薬） |
-| 620005309 | リザベン点眼液0.5% | 点眼液 | 気管支喘息、アレルギー性鼻炎、アトピー性皮膚炎（抗アレルギー薬） |
-| 620944215 | トラニラストカプセル100mg「トーワ」 | カプセル | 気管支喘息、アレルギー性鼻炎、アトピー性皮膚炎（抗アレルギー薬） |
-| 620006458 | トラメラス点眼液0.5% | 点眼液 | 気管支喘息、アレルギー性鼻炎、アトピー性皮膚炎（抗アレルギー薬） |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620002549 | リザベンカプセル１００ｍｇ | 有効 |
+| 620003649 | リザベンドライシロップ５％ | 有効 |
+| 620005309 | リザベン点眼液０．５％ ２５ｍｇ５ｍＬ | 有効 |
+| 620944215 | トラニラストカプセル１００ｍｇ「トーワ」 | 有効 |
+| 620006458 | トラメラス点眼液０．５％ ２５ｍｇ５ｍＬ | 有効 |
+
+上表はデータ上の 20 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 
@@ -109,7 +115,7 @@ TxGNN モデルは**脂漏性角化症 (Seborrheic Keratosis)** に有効であ�
 
 <!-- review:begin jp-lic-20261106-tranilast-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「脂漏性角化症に対する臨床試験も文献もなく、予測はモデルのスコアのみに基づいています。日本での有効な承認もなく、安全性情報（警告・禁忌）も未確認のため、現時点では開発を進められません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 20 件、うち有効 20 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「脂漏性角化症に対する臨床試験も文献もなく、予測はモデルのスコアのみに基づいています。日本での有効な承認もなく、安全性情報（警告・禁忌）も未確認のため、現時点では開発を進められません。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-tranilast-1 -->
 
@@ -122,7 +128,7 @@ TxGNN モデルは**脂漏性角化症 (Seborrheic Keratosis)** に有効であ�
 
 <!-- review:begin jp-lic-20261106-tranilast-2 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「現在有効な承認がないため、製造販売の再開や開発主体に関する規制面の確認／エビデンスのより強い候補（例：エプーリスなど線維化関連疾患）との優先順位比較」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 20 件、うち有効 20 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「現在有効な承認がないため、製造販売の再開や開発主体に関する規制面の確認／エビデンスのより強い候補（例：エプーリスなど線維化関連疾患）との優先順位比較」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-tranilast-2 -->
 
@@ -134,9 +140,9 @@ TxGNN モデルは**脂漏性角化症 (Seborrheic Keratosis)** に有効であ�
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「日本での有効な承認もなく、安全性情報（警告・禁忌）も未確認のため、現時点では開発を進められません」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-06 | 削除：「現在有効な承認がないため、製造販売の再開や開発主体に関する規制面の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-06 | 削除：「日本での有効な承認もなく、安全性情報（警告・禁忌）も未確認のため、現時点では開発を進められません」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「現在有効な承認がないため、製造販売の再開や開発主体に関する規制面の確認」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 
 <!-- review:end log -->
 

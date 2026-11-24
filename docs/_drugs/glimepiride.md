@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Glimepiride"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Glimepiride：予測新適応症はfocal stiff limb syndrome（局所性スティフ・リム症候群）（エビデンスレベル L5）。既存適応症：2 型糖尿病（糖尿病治療薬、血糖降下薬、スルホニル尿素受容体作動薬）"
 ---
 
@@ -75,13 +75,19 @@ focal stiff limb syndrome は、GABA 作動性・グリシン作動性の神経�
 
 日本では単一成分製剤として多数の承認があり、いずれも有効な承認です。下表は主要な 5 件です。
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 670443003 | アマリール3mg錠（選） | 錠 | 2型糖尿病（糖尿病治療薬、血糖降下薬、スルホニル尿素受容体作動薬） |
-| 671982701 | アマリール0.5mg錠（選） | 錠 | 2型糖尿病（糖尿病治療薬、血糖降下薬、スルホニル尿素受容体作動薬） |
-| 622985901 | グリメピリド錠3mg「NC」 | 錠 | 2型糖尿病（糖尿病治療薬、血糖降下薬、スルホニル尿素受容体作動薬） |
-| 622631401 | グリメピリド錠0.5mg「フェルゼン」 | 錠 | 2型糖尿病（糖尿病治療薬、血糖降下薬、スルホニル尿素受容体作動薬） |
-| 622127301 | グリメピリド錠0.5mg「サンド」 | 錠 | 2型糖尿病（糖尿病治療薬、血糖降下薬、スルホニル尿素受容体作動薬） |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 670443003 | アマリール３ｍｇ錠（選） | 有効 |
+| 671982701 | アマリール０．５ｍｇ錠（選） | 有効 |
+| 622985901 | グリメピリド錠３ｍｇ「ＮＣ」 | 有効 |
+| 622631401 | グリメピリド錠０．５ｍｇ「フェルゼン」 | 有効 |
+| 622127301 | グリメピリド錠０．５ｍｇ「サンド」 | 有効 |
+
+データには承認の一部のみが含まれています。上表はそのうち 5 件です。
+
+<!-- licenses:end -->
 
 承認番号は少なくとも 20 件ありますが、この一覧は一部である可能性があります。
 

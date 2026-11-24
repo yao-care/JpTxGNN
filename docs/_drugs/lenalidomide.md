@@ -5,7 +5,7 @@ parent: 高エビデンスレベル
 nav_order: 179
 evidence_level: L2
 indication_count: 4
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lenalidomide：予測新適応症は骨髄性白血病 (Myeloid Leukemia)（エビデンスレベル L2）。既存適応症：多発性骨髄腫、骨髄異形成症候群（5番染色体長腕部欠失）"
 monitor_inn: "Lenalidomide"
 predicted_indications: ["myeloid leukemia", "refractory cytopenia of childhood", "aregenerative anemia", "severe congenital hypochromic anemia with ringed sideroblasts"]
@@ -96,13 +96,19 @@ TxGNN モデルは**骨髄性白血病 (Myeloid Leukemia)** に有効である�
 
 日本の承認はジェネリックを含め 12 件あり、そのすべてが有効で、現在販売されています。主なものを示します。
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 621927401 | レブラミドカプセル５ｍｇ | カプセル | 多発性骨髄腫、骨髄異形成症候群（5番染色体長腕部欠失）（有効） |
-| 622456401 | レブラミドカプセル２．５ｍｇ | カプセル | 多発性骨髄腫、骨髄異形成症候群（5番染色体長腕部欠失）（有効） |
-| 622940201 | レナリドミドカプセル２．５ｍｇ「サワイ」 | カプセル | 多発性骨髄腫、骨髄異形成症候群（5番染色体長腕部欠失）（有効） |
-| 622953601 | レナリドミドカプセル５ｍｇ「ＢＭＳＨ」 | カプセル | 多発性骨髄腫、骨髄異形成症候群（5番染色体長腕部欠失）（有効） |
-| 622978001 | レナリドミドカプセル５ｍｇ「トーワ」 | カプセル | 多発性骨髄腫、骨髄異形成症候群（5番染色体長腕部欠失）（有効） |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 621927401 | レブラミドカプセル５ｍｇ | 有効 |
+| 622456401 | レブラミドカプセル２．５ｍｇ | 有効 |
+| 622940201 | レナリドミドカプセル２．５ｍｇ「サワイ」 | 有効 |
+| 622953601 | レナリドミドカプセル５ｍｇ「ＢＭＳＨ」 | 有効 |
+| 622978001 | レナリドミドカプセル５ｍｇ「トーワ」 | 有効 |
+
+上表はデータ上の 12 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 細胞毒性
 
@@ -131,7 +137,7 @@ TxGNN モデルは**骨髄性白血病 (Myeloid Leukemia)** に有効である�
 
 <!-- review:begin jp-lic-20261106-lenalidomide-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「ただし、確証的な Phase 3 試験の結果はなく、各試験の規模も小さいです。／日本の承認は全件が取消済みで、添付文書の警告・禁忌データも欠けているため、安全性面のガードレールが必要です。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 12 件、うち有効 12 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「ただし、確証的な Phase 3 試験の結果はなく、各試験の規模も小さいです。／日本の承認は全件が取消済みで、添付文書の警告・禁忌データも欠けているため、安全性面のガードレールが必要です。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-lenalidomide-1 -->
 
@@ -143,7 +149,7 @@ TxGNN モデルは**骨髄性白血病 (Myeloid Leukemia)** に有効である�
 
 <!-- review:begin jp-lic-20261106-lenalidomide-2 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「骨髄抑制、血栓塞栓症、催奇形性（胎児毒性）に対するモニタリング計画／日本での承認取消の経緯の確認と、供給体制の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 12 件、うち有効 12 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「骨髄抑制、血栓塞栓症、催奇形性（胎児毒性）に対するモニタリング計画／日本での承認取消の経緯の確認と、供給体制の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-lenalidomide-2 -->
 
@@ -163,8 +169,8 @@ TxGNN モデルは**骨髄性白血病 (Myeloid Leukemia)** に有効である�
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「日本の承認は全件が取消済みで、添付文書の警告・禁忌データも欠けているため、安全性面のガードレールが必要です」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-06 | 削除：「日本での承認取消の経緯の確認と、供給体制の確認」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本の承認は全件が取消済みで、添付文書の警告・禁忌データも欠けているため、安全性面のガードレールが必要です」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本での承認取消の経緯の確認と、供給体制の確認」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Revlimid (lenalidomide) prescribing information, Celgene Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5fa97bf5-28a2-48f1-8955-f56012d296be) |
 
 <!-- review:end log -->

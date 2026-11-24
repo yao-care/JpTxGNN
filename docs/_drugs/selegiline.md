@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Selegiline"
 predicted_indications: ["polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "schizophrenia", "congenital disorder of glycosylation with defective fucosylation", "retinal dystrophy with or without extraocular anomalies"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Selegiline：予測新適応症はPolymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis（エビデンスレベル L5）。薬価基準の品目：4 件（現在収載 4 件）"
 ---
 
@@ -87,12 +87,16 @@ TxGNN モデルが最上位に挙げた予測は希少な先天性脳奇形で�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620005364 | エフピーＯＤ錠２．５ | 錠 2.5 mg | （記載なし）／有効 |
-| 620005511 | セレギリン塩酸塩錠２．５ｍｇ「タイヨー」 | 錠 2.5 mg | パーキンソン病治療薬、抗ジスキネジア、MAO-B 阻害薬／有効 |
-| 622711300 | セレギリン塩酸塩２．５ｍｇ錠 | 錠 | パーキンソン病治療薬、抗ジスキネジア、MAO-B 阻害薬／有効 |
-| 620003975 | セレギリン塩酸塩錠２．５ｍｇ「アメル」 | 錠 2.5 mg | パーキンソン病治療薬、抗ジスキネジア、MAO-B 阻害薬／有効 |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620005364 | エフピーＯＤ錠２．５ ２．５ｍｇ | 有効 |
+| 620005511 | セレギリン塩酸塩錠２．５ｍｇ「タイヨー」 | 有効 |
+| 622711300 | セレギリン塩酸塩２．５ｍｇ錠 | 有効 |
+| 620003975 | セレギリン塩酸塩錠２．５ｍｇ「アメル」 | 有効 |
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 

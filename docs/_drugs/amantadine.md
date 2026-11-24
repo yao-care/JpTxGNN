@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Amantadine"
 predicted_indications: ["Rasmussen subacute encephalitis", "transaldolase deficiency", "myelitis", "PLA2G6-associated neurodegeneration"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Amantadine：予測新適応症はRasmussen 亜急性脳炎 (Rasmussen subacute encephalitis)（エビデンスレベル L5）。既存適応症：パーキンソン症候群、A型インフルエンザウイルス感染症"
 ---
 
@@ -70,21 +70,27 @@ Rasmussen 亜急性脳炎に関する文献は、現在ありません。
 
 ## 日本市販情報
 
-販売承認 19 件のうち 18 件が有効です（1 件は薬価基準から削除済み）。代表的な 5 件を示します。
+販売承認には有効なものと薬価基準から削除済みのものがあります（件数はクイック概要を参照）。代表的な 5 件を示します。
 
 <!-- review:begin jp-lic-20261117-amantadine-1 -->
 
-> **確認による訂正（2026-11-17）**：元の記載は「販売承認 19 件はすべて有効です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 19 件のうち有効（収載中）は 18 件で、1 件は経過措置期間満了などにより薬価基準から削除されています（671240079（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+> **確認による訂正（2026-11-17）**：元の記載は「販売承認 19 件はすべて有効です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、次の承認が経過措置期間満了などにより薬価基準から削除されています（671240079（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
 
 <!-- review:end jp-lic-20261117-amantadine-1 -->
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 611240080 | シンメトレル錠５０ｍｇ | 錠５０ｍｇ | パーキンソン症候群、A型インフルエンザウイルス感染症（有効） |
-| 611240079 | シンメトレル錠１００ｍｇ | 錠１００ｍｇ | パーキンソン症候群、A型インフルエンザウイルス感染症（有効） |
-| 620117103 | アマンタジン塩酸塩錠５０ｍｇ「サワイ」 | 錠５０ｍｇ「サワイ」 | パーキンソン症候群、A型インフルエンザウイルス感染症（有効） |
-| 620117413 | アマンタジン塩酸塩錠１００ｍｇ「日医工」 | 錠１００ｍｇ「日医工」 | パーキンソン症候群、A型インフルエンザウイルス感染症（有効） |
-| 620116802 | アマンタジン塩酸塩細粒１０％「サワイ」 | 細粒１０％「サワイ」 | パーキンソン症候群、A型インフルエンザウイルス感染症（有効） |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 611240080 | シンメトレル錠５０ｍｇ | 有効 |
+| 611240079 | シンメトレル錠１００ｍｇ | 有効 |
+| 620117103 | アマンタジン塩酸塩錠５０ｍｇ「サワイ」 | 有効 |
+| 620117413 | アマンタジン塩酸塩錠１００ｍｇ「日医工」 | 有効 |
+| 620116802 | アマンタジン塩酸塩細粒１０％「サワイ」 | 有効 |
+
+上表はデータ上の 19 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 
@@ -100,17 +106,17 @@ Rasmussen 亜急性脳炎に関する文献は、現在ありません。
 **決定：Hold**
 
 **理由：**
-Rasmussen 亜急性脳炎については、臨床試験も文献もなく、根拠は TxGNN の予測のみ (L5) です。日本では現在販売されており（有効な販売承認 19 件）、既存の製品情報を踏まえた確認が必要です。
+Rasmussen 亜急性脳炎については、臨床試験も文献もなく、根拠は TxGNN の予測のみ (L5) です。日本では現在販売されており（有効な販売承認 18 件）、既存の製品情報を踏まえた確認が必要です。
 
 **進める場合に必要なもの：**
 - 添付文書（警告・禁忌）の取得と安全性評価
 - 作用機序データ（MOA）の補充
 - Rasmussen 脳炎に対する前臨床研究または症例報告の調査
-- 日本での供給・承認状況の再確認（現在は有効な承認 18 件あり）
+- 日本での供給・承認状況の再確認（有効な承認あり、件数はクイック概要を参照）
 
 <!-- review:begin jp-lic-20261117-amantadine-2 -->
 
-> **確認による訂正（2026-11-17）**：元の記載は「日本での供給・承認状況の再確認（現在は有効な承認 19 件あり）」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、データ上の 19 件のうち有効（収載中）は 18 件で、1 件は経過措置期間満了などにより薬価基準から削除されています（671240079（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+> **確認による訂正（2026-11-17）**：元の記載は「日本での供給・承認状況の再確認（現在は有効な承認 19 件あり）」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、次の承認が経過措置期間満了などにより薬価基準から削除されています（671240079（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
 
 <!-- review:end jp-lic-20261117-amantadine-2 -->
 
@@ -142,8 +148,8 @@ PLA2G6 関連神経変性症については、[31366412](https://pubmed.ncbi.nlm
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
-| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Gocovri (amantadine) prescribing information, Adamas Pharma, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=82ff865f-78f3-4c94-b6a9-727a54944b28) |
 
 <!-- review:end log -->

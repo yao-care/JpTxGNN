@@ -5,7 +5,7 @@ parent: モデル予測のみ
 nav_order: 337
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Vildagliptin：予測新適応症は限局性硬直肢症候群 (Focal Stiff Limb Syndrome)（エビデンスレベル L5）。既存適応症：2型糖尿病（DPP-4 阻害薬）"
 monitor_inn: "Vildagliptin"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
@@ -74,13 +74,19 @@ ChEMBL（EMBL-EBI）に登録されている Vildagliptin の作用機序（非�
 
 日本では16件の承認のうち16件が有効です。主な単剤承認は以下のとおりです。
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 621980701 | エクア錠50mg | 錠50mg | 糖尿病治療薬、DPP-4阻害薬（2型糖尿病） |
-| 622976301 | ビルダグリプチン錠50mg「TCK」 | 錠50mg | 糖尿病治療薬、DPP-4阻害薬（2型糖尿病） |
-| 622978701 | ビルダグリプチン錠50mg「ニプロ」 | 錠50mg | 糖尿病治療薬、DPP-4阻害薬（2型糖尿病） |
-| 622973901 | ビルダグリプチン錠50mg「サワイ」 | 錠50mg | 糖尿病治療薬、DPP-4阻害薬（2型糖尿病） |
-| 622973001 | ビルダグリプチン錠50mg「トーワ」 | 錠50mg | 糖尿病治療薬、DPP-4阻害薬（2型糖尿病） |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 621980701 | エクア錠５０ｍｇ | 有効 |
+| 622976301 | ビルダグリプチン錠５０ｍｇ「ＴＣＫ」 | 有効 |
+| 622978701 | ビルダグリプチン錠５０ｍｇ「ニプロ」 | 有効 |
+| 622973901 | ビルダグリプチン錠５０ｍｇ「サワイ」 | 有効 |
+| 622973001 | ビルダグリプチン錠５０ｍｇ「トーワ」 | 有効 |
+
+上表はデータ上の 16 件のうち 5 件です。
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 
@@ -96,7 +102,7 @@ ChEMBL（EMBL-EBI）に登録されている Vildagliptin の作用機序（非�
 
 <!-- review:begin jp-lic-20261106-vildagliptin-1 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「作用機序の面でも、この神経疾患との関連は確認できません。／日本では現在有効な承認がなく、新規適応症を進める基盤も弱い状態です。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 16 件、うち有効 16 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「作用機序の面でも、この神経疾患との関連は確認できません。／日本では現在有効な承認がなく、新規適応症を進める基盤も弱い状態です。」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-vildagliptin-1 -->
 
@@ -108,7 +114,7 @@ ChEMBL（EMBL-EBI）に登録されている Vildagliptin の作用機序（非�
 
 <!-- review:begin jp-lic-20261106-vildagliptin-2 -->
 
-> **確認による訂正（2026-11-06）**：元の記載は「日本での販売状況（承認整理の経緯）の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。データ上の収載は 16 件、うち有効 16 件です。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
+> **確認による訂正（2026-11-06）**：元の記載は「日本での販売状況（承認整理の経緯）の確認」でした。削除：国内未承認・未収載、または承認が取り消されたという記載が、医薬品マスター（薬価基準収載品目）の収載情報と一致しませんでした（2026-11-06）。最新の件数はクイック概要と日本市販情報にあります。出典：[医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/)。
 
 <!-- review:end jp-lic-20261106-vildagliptin-2 -->
 
@@ -120,8 +126,8 @@ ChEMBL（EMBL-EBI）に登録されている Vildagliptin の作用機序（非�
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-06 | 削除：「日本では現在有効な承認がなく、新規適応症を進める基盤も弱い状態です」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
-| 2026-11-06 | 削除：「承認整理の経緯」 | 訂正 | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「日本では現在有効な承認がなく、新規適応症を進める基盤も弱い状態です」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
+| 2026-11-06 | 削除：「承認整理の経緯」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え（2026-11-20 改訂、旧版は記録に保存） | [ChEMBL CHEMBL142703 (vildagliptin): drug mechanism](https://www.ebi.ac.uk/chembl/explore/compound/CHEMBL142703) |
 
 <!-- review:end log -->

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Vincristine"
 predicted_indications: ["vertebral anomalies and variable endocrine and T-cell dysfunction", "retroperitoneal neoplasm"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Vincristine：予測新適応症は椎骨異常を伴う内分泌・T細胞機能異常症候群（エビデンスレベル L5）。既存適応症：日本の承認情報に適応症の記載はありません。"
 ---
 
@@ -71,9 +71,13 @@ TxGNN モデルは **椎骨異常を伴う内分泌・T細胞機能異常症候�
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 |
-|---------|------|------|
-| 640454006 | オンコビン注射用1mg | 注射用 1mg（注射剤） |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 640454006 | オンコビン注射用１ｍｇ | 有効 |
+
+<!-- licenses:end -->
 
 この承認の適応症テキストは、今回まとめたデータには含まれていません。
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Clindamycin"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis", "non-human animal disease", "neurotrophic keratopathy", "epidemic keratoconjunctivitis", "postmenopausal atrophic vaginitis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-11-24
 description: "Clindamycin：予測新適応症は点状表層角結膜炎 (punctate epithelial keratoconjunctivitis)（エビデンスレベル L5）。薬価基準の品目：5 件（現在収載 5 件）"
 ---
 
@@ -61,13 +61,17 @@ TxGNN モデルは **点状表層角結膜炎 (punctate epithelial keratoconjunc
 
 ## 日本市販情報
 
-| 承認番号 | 商品名 | 剤形 | 承認適応症 |
-|---------|------|------|-----------|
-| 620006026 | ダラシンカプセル７５ｍｇ | カプセル７５ｍｇ | 記載なし |
-| 620006027 | ダラシンカプセル１５０ｍｇ | カプセル１５０ｍｇ | 記載なし |
-| 620006261 | ダラシンＳ注射液３００ｍｇ | 注射液３００ｍｇ | 記載なし |
-| 620006262 | ダラシンＳ注射液６００ｍｇ | 注射液６００ｍｇ | 記載なし |
-| 621995801 | ダラシンＴローション１％ | ローション１％ | 記載なし |
+<!-- licenses:begin -->
+
+| 医薬品コード | 医薬品名・規格名 | 状態 |
+|------|------|------|
+| 620006026 | ダラシンカプセル７５ｍｇ | 有効 |
+| 620006027 | ダラシンカプセル１５０ｍｇ | 有効 |
+| 620006261 | ダラシンＳ注射液３００ｍｇ | 有効 |
+| 620006262 | ダラシンＳ注射液６００ｍｇ | 有効 |
+| 621995801 | ダラシンＴローション１％ | 有効 |
+
+<!-- licenses:end -->
 
 ## 安全性に関する考慮事項
 
