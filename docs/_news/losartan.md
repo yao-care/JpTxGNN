@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "ニューロタン錠５０ｍｇ（選） に関する健康ニュース。予測適応症 7 件。"
 permalink: /news/losartan/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-24
 ---
 
 # ニューロタン錠５０ｍｇ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="ニューロタン錠５０ｍｇ（選） に関するニュースは？">
-<strong>ニューロタン錠５０ｍｇ（選）</strong> には現在 <strong>77 件</strong>の関連ニュースがあり、予測適応症は 7 件です。
+<strong>ニューロタン錠５０ｍｇ（選）</strong> には現在 <strong>80 件</strong>の関連ニュースがあり、予測適応症は 7 件です。
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,23 @@ last_modified_at: 2026-11-23
 <p><a href="{{ '/drugs/losartan/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（77 件）
+## 関連ニュース（80 件）
+
+### [《初期症状がほとんどない》女優・中村ゆりさんを襲った「直腸がん」、血便や細い便は危険サイン？専門医が明かす早期発見法と予防習慣 - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTFBFVkZCdkZYMElVMzVVdUxwb3E0YU9oSDlrck1rTDBWWGU2bzVpRzREM2NyRXZPb2xJVkpJYi1wQ3o4aTdBLWRfS0FrMFVILUFJYU1nc201VmlRWHNIV3RkTE9WRDJhWVN3RVAzbEN3?oc=5)
+
+2026-11-24 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">直腸がん</span>
+
+出典: [au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTFBFVkZCdkZYMElVMzVVdUxwb3E0YU9oSDlrck1rTDBWWGU2bzVpRzREM2NyRXZPb2xJVkpJYi1wQ3o4aTdBLWRfS0FrMFVILUFJYU1nc201VmlRWHNIV3RkTE9WRDJhWVN3RVAzbEN3?oc=5)
+
+---
+
+### [Ⅱ期前立腺がんの70代男性、抗凝固剤を服用中で放射線療法の合併症が心配 がん電話相談から](https://news.google.com/rss/articles/CBMijAFBVV95cUxQeEhEMXJfUFdFUXFOd3dPamp6bTVwSTNIc2JZYlBNektYZFZ0OTdEay1Ud1ZMN2NkOHNYWTVpY0prczktVFdWX2dwRE96NHpQdUxLUHdDTHdRNzhTY21ySmptSWJkQXUwcmI2U2hSc09lTUNGNkJZRlNoajZYUU4xVkhTRnlMcUZ6VXU0Ug?oc=5)
+
+2026-11-23 <span class="news-indication-tag">がん</span>
+
+出典: [産経ニュース](https://news.google.com/rss/articles/CBMijAFBVV95cUxQeEhEMXJfUFdFUXFOd3dPamp6bTVwSTNIc2JZYlBNektYZFZ0OTdEay1Ud1ZMN2NkOHNYWTVpY0prczktVFdWX2dwRE96NHpQdUxLUHdDTHdRNzhTY21ySmptSWJkQXUwcmI2U2hSc09lTUNGNkJZRlNoajZYUU4xVkhTRnlMcUZ6VXU0Ug?oc=5)
+
+---
 
 ### [HPVを制御することで、地域社会におけるがんの負担を軽減できる。](https://news.google.com/rss/articles/CBMihAFBVV95cUxNR1RGYWRMcmxWcGMtbTJGWThEclozZDhyMVB5bGhsZVFsSFNXdEFjd01mRExhUXJNcjlDTmlmbjhiMm1QcVpXODhwekNHazM4ejZVaXZnN0pHSklJbldKSXFHbnZwZ2RFNUswcVZKdzFuRHBSaE9fTXlOSTNUMFU2OG1KQ3k?oc=5)
 
@@ -142,6 +158,14 @@ last_modified_at: 2026-11-23
 2026-11-21 <span class="news-indication-tag">がん</span>
 
 出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMihgFBVV95cUxQZmpSb1JUYTFyN1ljX2V6NER6MTUxcnR1V0gxUnJ0Vmt4bS00bHppRy0xMnl0aF9VRDRpMm9YaENrSmpTdUxHcVFQbTdxRkYzeF9hX2sydFJtWGFwTmx1bnEyVm9vR3dLWllwYXF4V09ZV2RBWUx6aXA1YXRiMW9hb0hCdFNiQQ?oc=5)
+
+---
+
+### [ベトナム人は脳卒中を発症する年齢が平均で約10歳早く、男性患者数は女性患者の2倍に達している。](https://news.google.com/rss/articles/CBMingFBVV95cUxOMXYxUXozV2xWRTN5X1pLdEhkRWVMYXljbGZOd2Q4cXhrR25TVm5wUXJpZEJ1UmlnRXVJT0pUdHB4YkNmd1Z4LWcxT19tMHU1d1lkZTNOUGZ6eGZBZFZoeW8ybkxvNHQybkRpUGZGaV9HWmZmV0VicGNqa19rSXU4U0xQS19jaVZ1c3ZpbmNMMjU3ZjJ5OW1fdU80LVRjdw?oc=5)
+
+2026-11-21 <span class="news-indication-tag">脳卒中</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMingFBVV95cUxOMXYxUXozV2xWRTN5X1pLdEhkRWVMYXljbGZOd2Q4cXhrR25TVm5wUXJpZEJ1UmlnRXVJT0pUdHB4YkNmd1Z4LWcxT19tMHU1d1lkZTNOUGZ6eGZBZFZoeW8ybkxvNHQybkRpUGZGaV9HWmZmV0VicGNqa19rSXU4U0xQS19jaVZ1c3ZpbmNMMjU3ZjJ5OW1fdU80LVRjdw?oc=5)
 
 ---
 

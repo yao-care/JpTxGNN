@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "ザルティア錠５ｍｇ（選） に関する健康ニュース。予測適応症 8 件。"
 permalink: /news/tadalafil/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-24
 ---
 
 # ザルティア錠５ｍｇ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="ザルティア錠５ｍｇ（選） に関するニュースは？">
-<strong>ザルティア錠５ｍｇ（選）</strong> には現在 <strong>24 件</strong>の関連ニュースがあり、予測適応症は 8 件です。
+<strong>ザルティア錠５ｍｇ（選）</strong> には現在 <strong>26 件</strong>の関連ニュースがあり、予測適応症は 8 件です。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ last_modified_at: 2026-11-23
 <p><a href="{{ '/drugs/tadalafil/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（24 件）
+## 関連ニュース（26 件）
 
 ### [何の症状もなかったにもかかわらず、その男性は突然脳卒中の危険に直面した。](https://news.google.com/rss/articles/CBMimgFBVV95cUxOazdLLWJIdkRqNU14bi1BUU1hU3ZfeENTeW15d25jODVnSFdDNEN6QTcxdVl1LTZzTlNwMlBuazFndjhDOE0tTmI0SEVXYUZjb3JudHZEdldMX1AtdjhpVUVxaVd4aFA1djh0NEhKZmxUd2hlZUd5ay1SbnA5VWtMTDI2dkZoMlltSm94X09UOHVEemxqdmk5UUZn?oc=5)
 
@@ -55,6 +55,14 @@ last_modified_at: 2026-11-23
 2026-11-21 <span class="news-indication-tag">脳卒中</span>
 
 出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMiowFBVV95cUxPMTMtUEtEYk9kQndEblJ4b2MwRjY5aFE4VEUtMF9tUm5Ed3JNVnhUTHIzdzJ4NENKeV9tb2ZRTFFNNjlzMDRKVDBjQ3BHQXpyZXUwVnpodGx0a0lFZTZ1RXZsSHMtRjJqakRyU2pYVHgxUG5GWk12bFhxcVlXT2pLQ0FFbE82b1NicWhhMUtnSjdiMm5ubFJGNjBTcUVkdFZwVjVN?oc=5)
+
+---
+
+### [ベトナム人は脳卒中を発症する年齢が平均で約10歳早く、男性患者数は女性患者の2倍に達している。](https://news.google.com/rss/articles/CBMingFBVV95cUxOMXYxUXozV2xWRTN5X1pLdEhkRWVMYXljbGZOd2Q4cXhrR25TVm5wUXJpZEJ1UmlnRXVJT0pUdHB4YkNmd1Z4LWcxT19tMHU1d1lkZTNOUGZ6eGZBZFZoeW8ybkxvNHQybkRpUGZGaV9HWmZmV0VicGNqa19rSXU4U0xQS19jaVZ1c3ZpbmNMMjU3ZjJ5OW1fdU80LVRjdw?oc=5)
+
+2026-11-21 <span class="news-indication-tag">脳卒中</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMingFBVV95cUxOMXYxUXozV2xWRTN5X1pLdEhkRWVMYXljbGZOd2Q4cXhrR25TVm5wUXJpZEJ1UmlnRXVJT0pUdHB4YkNmd1Z4LWcxT19tMHU1d1lkZTNOUGZ6eGZBZFZoeW8ybkxvNHQybkRpUGZGaV9HWmZmV0VicGNqa19rSXU4U0xQS19jaVZ1c3ZpbmNMMjU3ZjJ5OW1fdU80LVRjdw?oc=5)
 
 ---
 
@@ -87,6 +95,14 @@ last_modified_at: 2026-11-23
 2026-11-19 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">2型糖尿病</span> <span class="news-indication-tag">脳梗塞</span>
 
 出典: [m3.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FSlJDNVpYaEFWY2RDQXBpR0F0cTQtTmliSm9LNkkwdkxqUm9yY2pSVW9xS0RTZDNpeWFia2h4eEhWU180TVhlc3psX0lIQlFLSlE?oc=5)
+
+---
+
+### [老化血管内皮細胞から分泌される酵素「SULF2」が動脈硬化に深く関与、新たな予防・治療法に期待—都健康長寿医療センター研究所 | GemMed | データが拓く新時代医療](https://news.google.com/rss/articles/CBMiSEFVX3lxTE8wQTBjVG1qdnhfcnZCYVRUalR2RGtfRXBVOTN0NldMbVBMVzlPUEozYXAxcWVVMGl4REVONDBOXzZXem04aUlCQw?oc=5)
+
+2026-11-19 <span class="news-indication-tag">動脈硬化</span>
+
+出典: [GemMed](https://news.google.com/rss/articles/CBMiSEFVX3lxTE8wQTBjVG1qdnhfcnZCYVRUalR2RGtfRXBVOTN0NldMbVBMVzlPUEozYXAxcWVVMGl4REVONDBOXzZXem04aUlCQw?oc=5)
 
 ---
 

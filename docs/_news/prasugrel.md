@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "プラスグレル錠５ｍｇ「ＤＳＥＰ」 に関する健康ニュース。予測適応症 9 件。"
 permalink: /news/prasugrel/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-24
 ---
 
 # プラスグレル錠５ｍｇ「ＤＳＥＰ」 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="プラスグレル錠５ｍｇ「ＤＳＥＰ」 に関するニュースは？">
-<strong>プラスグレル錠５ｍｇ「ＤＳＥＰ」</strong> には現在 <strong>80 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
+<strong>プラスグレル錠５ｍｇ「ＤＳＥＰ」</strong> には現在 <strong>84 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,23 @@ last_modified_at: 2026-11-23
 <p><a href="{{ '/drugs/prasugrel/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（80 件）
+## 関連ニュース（84 件）
+
+### [《初期症状がほとんどない》女優・中村ゆりさんを襲った「直腸がん」、血便や細い便は危険サイン？専門医が明かす早期発見法と予防習慣 - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTFBFVkZCdkZYMElVMzVVdUxwb3E0YU9oSDlrck1rTDBWWGU2bzVpRzREM2NyRXZPb2xJVkpJYi1wQ3o4aTdBLWRfS0FrMFVILUFJYU1nc201VmlRWHNIV3RkTE9WRDJhWVN3RVAzbEN3?oc=5)
+
+2026-11-24 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">直腸がん</span>
+
+出典: [au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTFBFVkZCdkZYMElVMzVVdUxwb3E0YU9oSDlrck1rTDBWWGU2bzVpRzREM2NyRXZPb2xJVkpJYi1wQ3o4aTdBLWRfS0FrMFVILUFJYU1nc201VmlRWHNIV3RkTE9WRDJhWVN3RVAzbEN3?oc=5)
+
+---
+
+### [Ⅱ期前立腺がんの70代男性、抗凝固剤を服用中で放射線療法の合併症が心配 がん電話相談から](https://news.google.com/rss/articles/CBMijAFBVV95cUxQeEhEMXJfUFdFUXFOd3dPamp6bTVwSTNIc2JZYlBNektYZFZ0OTdEay1Ud1ZMN2NkOHNYWTVpY0prczktVFdWX2dwRE96NHpQdUxLUHdDTHdRNzhTY21ySmptSWJkQXUwcmI2U2hSc09lTUNGNkJZRlNoajZYUU4xVkhTRnlMcUZ6VXU0Ug?oc=5)
+
+2026-11-23 <span class="news-indication-tag">がん</span>
+
+出典: [産経ニュース](https://news.google.com/rss/articles/CBMijAFBVV95cUxQeEhEMXJfUFdFUXFOd3dPamp6bTVwSTNIc2JZYlBNektYZFZ0OTdEay1Ud1ZMN2NkOHNYWTVpY0prczktVFdWX2dwRE96NHpQdUxLUHdDTHdRNzhTY21ySmptSWJkQXUwcmI2U2hSc09lTUNGNkJZRlNoajZYUU4xVkhTRnlMcUZ6VXU0Ug?oc=5)
+
+---
 
 ### [HPVを制御することで、地域社会におけるがんの負担を軽減できる。](https://news.google.com/rss/articles/CBMihAFBVV95cUxNR1RGYWRMcmxWcGMtbTJGWThEclozZDhyMVB5bGhsZVFsSFNXdEFjd01mRExhUXJNcjlDTmlmbjhiMm1QcVpXODhwekNHazM4ejZVaXZnN0pHSklJbldKSXFHbnZwZ2RFNUswcVZKdzFuRHBSaE9fTXlOSTNUMFU2OG1KQ3k?oc=5)
 
@@ -136,6 +152,14 @@ last_modified_at: 2026-11-23
 2026-11-21 <span class="news-indication-tag">がん</span>
 
 出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMihgFBVV95cUxQZmpSb1JUYTFyN1ljX2V6NER6MTUxcnR1V0gxUnJ0Vmt4bS00bHppRy0xMnl0aF9VRDRpMm9YaENrSmpTdUxHcVFQbTdxRkYzeF9hX2sydFJtWGFwTmx1bnEyVm9vR3dLWllwYXF4V09ZV2RBWUx6aXA1YXRiMW9hb0hCdFNiQQ?oc=5)
+
+---
+
+### [ベトナム人は脳卒中を発症する年齢が平均で約10歳早く、男性患者数は女性患者の2倍に達している。](https://news.google.com/rss/articles/CBMingFBVV95cUxOMXYxUXozV2xWRTN5X1pLdEhkRWVMYXljbGZOd2Q4cXhrR25TVm5wUXJpZEJ1UmlnRXVJT0pUdHB4YkNmd1Z4LWcxT19tMHU1d1lkZTNOUGZ6eGZBZFZoeW8ybkxvNHQybkRpUGZGaV9HWmZmV0VicGNqa19rSXU4U0xQS19jaVZ1c3ZpbmNMMjU3ZjJ5OW1fdU80LVRjdw?oc=5)
+
+2026-11-21 <span class="news-indication-tag">脳卒中</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMingFBVV95cUxOMXYxUXozV2xWRTN5X1pLdEhkRWVMYXljbGZOd2Q4cXhrR25TVm5wUXJpZEJ1UmlnRXVJT0pUdHB4YkNmd1Z4LWcxT19tMHU1d1lkZTNOUGZ6eGZBZFZoeW8ybkxvNHQybkRpUGZGaV9HWmZmV0VicGNqa19rSXU4U0xQS19jaVZ1c3ZpbmNMMjU3ZjJ5OW1fdU80LVRjdw?oc=5)
 
 ---
 
@@ -240,6 +264,14 @@ last_modified_at: 2026-11-23
 2026-11-19 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">2型糖尿病</span> <span class="news-indication-tag">脳梗塞</span>
 
 出典: [m3.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FSlJDNVpYaEFWY2RDQXBpR0F0cTQtTmliSm9LNkkwdkxqUm9yY2pSVW9xS0RTZDNpeWFia2h4eEhWU180TVhlc3psX0lIQlFLSlE?oc=5)
+
+---
+
+### [老化血管内皮細胞から分泌される酵素「SULF2」が動脈硬化に深く関与、新たな予防・治療法に期待—都健康長寿医療センター研究所 | GemMed | データが拓く新時代医療](https://news.google.com/rss/articles/CBMiSEFVX3lxTE8wQTBjVG1qdnhfcnZCYVRUalR2RGtfRXBVOTN0NldMbVBMVzlPUEozYXAxcWVVMGl4REVONDBOXzZXem04aUlCQw?oc=5)
+
+2026-11-19 <span class="news-indication-tag">動脈硬化</span>
+
+出典: [GemMed](https://news.google.com/rss/articles/CBMiSEFVX3lxTE8wQTBjVG1qdnhfcnZCYVRUalR2RGtfRXBVOTN0NldMbVBMVzlPUEozYXAxcWVVMGl4REVONDBOXzZXem04aUlCQw?oc=5)
 
 ---
 

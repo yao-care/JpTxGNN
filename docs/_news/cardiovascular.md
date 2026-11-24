@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "心血管 (cardiovascular) 関連ニュース"
+title: "動脈硬化 (cardiovascular) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "心血管 (cardiovascular) に関する健康ニュース。ニュース 5 件、関連医薬品 17 件。"
+description: "動脈硬化 (cardiovascular) に関する健康ニュース。ニュース 6 件、関連医薬品 17 件。"
 permalink: /news/cardiovascular/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 ---
 
-# 心血管 (cardiovascular) 関連ニュース
+# 動脈硬化 (cardiovascular) 関連ニュース
 
 [← ニュース一覧に戻る]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="心血管 (cardiovascular) に関するニュースは？">
-<strong>心血管 (cardiovascular)</strong> には現在 <strong>5 件</strong>の関連ニュースと 17 件の関連医薬品があります。
+<p class="key-answer" data-question="動脈硬化 (cardiovascular) に関するニュースは？">
+<strong>動脈硬化 (cardiovascular)</strong> には現在 <strong>6 件</strong>の関連ニュースと 17 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
-このページは「心血管」に関する最新の健康ニュースをまとめ、JpTxGNN データベースで予測適応症にこの疾患を含む医薬品を一覧表示します。
+このページは「動脈硬化」に関する最新の健康ニュースをまとめ、JpTxGNN データベースで予測適応症にこの疾患を含む医薬品を一覧表示します。
 </div>
 
 <div class="related-drugs-card">
@@ -46,13 +46,21 @@ last_modified_at: 2026-11-20
 </ul>
 </div>
 
-## 関連ニュース（5 件）
+## 関連ニュース（6 件）
 
 ### [脳梗塞後SBP＜120試験「＜130否定の結果ではない」――国循・古賀氏コメント【時流◆AHA2026ピックアップ】](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FSlJDNVpYaEFWY2RDQXBpR0F0cTQtTmliSm9LNkkwdkxqUm9yY2pSVW9xS0RTZDNpeWFia2h4eEhWU180TVhlc3psX0lIQlFLSlE?oc=5)
 
 2026-11-19
 
 出典: [m3.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FSlJDNVpYaEFWY2RDQXBpR0F0cTQtTmliSm9LNkkwdkxqUm9yY2pSVW9xS0RTZDNpeWFia2h4eEhWU180TVhlc3psX0lIQlFLSlE?oc=5)
+
+---
+
+### [老化血管内皮細胞から分泌される酵素「SULF2」が動脈硬化に深く関与、新たな予防・治療法に期待—都健康長寿医療センター研究所 | GemMed | データが拓く新時代医療](https://news.google.com/rss/articles/CBMiSEFVX3lxTE8wQTBjVG1qdnhfcnZCYVRUalR2RGtfRXBVOTN0NldMbVBMVzlPUEozYXAxcWVVMGl4REVONDBOXzZXem04aUlCQw?oc=5)
+
+2026-11-19
+
+出典: [GemMed](https://news.google.com/rss/articles/CBMiSEFVX3lxTE8wQTBjVG1qdnhfcnZCYVRUalR2RGtfRXBVOTN0NldMbVBMVzlPUEozYXAxcWVVMGl4REVONDBOXzZXem04aUlCQw?oc=5)
 
 ---
 
