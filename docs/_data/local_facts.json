@@ -12,20 +12,20 @@
  "public_pages": 385,
  "licence_snapshot": "jp_licenses.json.gz",
  "licence": {
-  "drugs_with_data": 252,
-  "drugs_with_current": 251,
+  "drugs_with_data": 251,
+  "drugs_with_current": 250,
   "drugs_none_current": 1,
-  "drugs_without_data": 133,
+  "drugs_without_data": 134,
   "drugs_partial": 0,
-  "items_total": 1715,
-  "items_current": 1552
+  "items_total": 2193,
+  "items_current": 2031
  },
  "reviews": {
-  "records": 557,
+  "records": 558,
   "pages": 286,
   "public_pages_with_records": 285,
   "by_action": {
-   "correct": 308,
+   "correct": 309,
    "mechanism": 249
   }
  },
@@ -34,6 +34,60 @@
   "clinical_use_definition": 1633
  },
  "top_licensed": [
+  {
+   "t": "Etizolam",
+   "u": "/drugs/etizolam/",
+   "l": "L4",
+   "lt": 46,
+   "lv": 46,
+   "r": 1,
+   "i": "insomnia (disease)"
+  },
+  {
+   "t": "Indomethacin",
+   "u": "/drugs/indomethacin/",
+   "l": "L5",
+   "lt": 48,
+   "lv": 46,
+   "r": 4,
+   "i": "brachydactyly-syndactyly syndrome"
+  },
+  {
+   "t": "Felbinac",
+   "u": "/drugs/felbinac/",
+   "l": "L5",
+   "lt": 42,
+   "lv": 41,
+   "r": 2,
+   "i": "brachyolmia-amelogenesis imperfecta syndrome"
+  },
+  {
+   "t": "Alfacalcidol",
+   "u": "/drugs/alfacalcidol/",
+   "l": "L5",
+   "lt": 36,
+   "lv": 36,
+   "r": 1,
+   "i": "craniofacial conodysplasia"
+  },
+  {
+   "t": "Oxycodone",
+   "u": "/drugs/oxycodone/",
+   "l": "N/A",
+   "lt": 32,
+   "lv": 32,
+   "r": 0,
+   "i": ""
+  },
+  {
+   "t": "Valproic Acid",
+   "u": "/drugs/valproic-acid/",
+   "l": "L5",
+   "lt": 31,
+   "lv": 29,
+   "r": 4,
+   "i": "trigeminal nerve neoplasm"
+  },
   {
    "t": "Isosorbide Dinitrate",
    "u": "/drugs/isosorbide-dinitrate/",
@@ -44,67 +98,13 @@
    "i": ""
   },
   {
-   "t": "Adalimumab",
-   "u": "/drugs/adalimumab/",
-   "l": "L5",
-   "lt": 20,
-   "lv": 20,
-   "r": 1,
-   "i": "尾骨過可動症"
-  },
-  {
-   "t": "Alprostadil",
-   "u": "/drugs/alprostadil/",
-   "l": "N/A",
-   "lt": 20,
-   "lv": 20,
-   "r": 0,
-   "i": ""
-  },
-  {
-   "t": "Oxycodone",
-   "u": "/drugs/oxycodone/",
-   "l": "N/A",
-   "lt": 20,
-   "lv": 20,
-   "r": 0,
-   "i": ""
-  },
-  {
-   "t": "Zinc",
-   "u": "/drugs/zinc/",
-   "l": "N/A",
-   "lt": 20,
-   "lv": 20,
-   "r": 0,
-   "i": ""
-  },
-  {
-   "t": "Dutasteride",
-   "u": "/drugs/dutasteride/",
-   "l": "L5",
-   "lt": 19,
-   "lv": 19,
-   "r": 1,
-   "i": "アンブラス型先天性全身性多毛症"
-  },
-  {
-   "t": "Gentamicin",
-   "u": "/drugs/gentamicin/",
-   "l": "N/A",
-   "lt": 19,
-   "lv": 19,
-   "r": 0,
-   "i": ""
-  },
-  {
-   "t": "Amantadine",
-   "u": "/drugs/amantadine/",
-   "l": "L5",
-   "lt": 19,
-   "lv": 18,
+   "t": "Oxaliplatin",
+   "u": "/drugs/oxaliplatin/",
+   "l": "L3",
+   "lt": 26,
+   "lv": 24,
    "r": 3,
-   "i": "Rasmussen 亜急性脳炎"
+   "i": "悪性胸膜中皮腫"
   }
  ],
  "no_current": [
@@ -124,8 +124,8 @@
    "t": "Triamcinolone",
    "u": "/drugs/triamcinolone/",
    "l": "L4",
-   "lt": 12,
-   "lv": 9,
+   "lt": 18,
+   "lv": 15,
    "r": 6,
    "i": "alopecia mucinosa"
   },
@@ -142,8 +142,8 @@
    "t": "Bosentan",
    "u": "/drugs/bosentan/",
    "l": "L4",
-   "lt": 8,
-   "lv": 7,
+   "lt": 10,
+   "lv": 9,
    "r": 5,
    "i": "rheumatoid arthritis"
   },
@@ -160,8 +160,8 @@
    "t": "Biperiden",
    "u": "/drugs/biperiden/",
    "l": "L5",
-   "lt": 9,
-   "lv": 9,
+   "lt": 11,
+   "lv": 11,
    "r": 4,
    "i": "Rasmussen 亜急性脳炎"
   },
@@ -169,8 +169,8 @@
    "t": "Bromperidol",
    "u": "/drugs/bromperidol/",
    "l": "L5",
-   "lt": 9,
-   "lv": 9,
+   "lt": 10,
+   "lv": 10,
    "r": 4,
    "i": "insomnia (disease)"
   }
@@ -179,12 +179,18 @@
   "t": "Doxorubicin",
   "u": "/drugs/doxorubicin/",
   "l": "L1",
-  "lt": 8,
-  "lv": 8,
+  "lt": 9,
+  "lv": 9,
   "r": 1,
   "i": "ユーイング肉腫"
  },
  "recent_reviews": [
+  {
+   "t": "Lenalidomide",
+   "u": "/drugs/lenalidomide/",
+   "s": "訂正：承認の件数を医薬品マスターの収載状況に合わせました",
+   "d": "2026-11-24"
+  },
   {
    "t": "Vidarabine",
    "u": "/drugs/vidarabine/",
@@ -201,12 +207,6 @@
    "t": "Menatetrenone",
    "u": "/drugs/menatetrenone/",
    "s": "訂正：メナテトレノンの国内製剤は経口カプセルだけではない",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Lithium Citrate",
-   "u": "/drugs/lithium-citrate/",
-   "s": "訂正：上表の品目は炭酸リチウム製剤（「含めていません」ではない）",
    "d": "2026-11-24"
   },
   {
@@ -255,6 +255,12 @@
    "t": "Beclomethasone Dipropionate",
    "u": "/drugs/beclomethasone-dipropionate/",
    "s": "訂正：国内製剤は「点鼻液と吸入パウダーのみ」ではない",
+   "d": "2026-11-24"
+  },
+  {
+   "t": "Lithium Citrate",
+   "u": "/drugs/lithium-citrate/",
+   "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
    "d": "2026-11-24"
   },
   {
@@ -322,15 +328,15 @@
    "u": "/drugs/sennosides/",
    "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
    "d": "2026-11-17"
-  },
-  {
-   "t": "Propranolol",
-   "u": "/drugs/propranolol/",
-   "s": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
-   "d": "2026-11-17"
   }
  ],
  "recent_licence_reviews": [
+  {
+   "t": "Lenalidomide",
+   "u": "/drugs/lenalidomide/",
+   "s": "訂正：承認の件数を医薬品マスターの収載状況に合わせました",
+   "d": "2026-11-24"
+  },
   {
    "t": "Vidarabine",
    "u": "/drugs/vidarabine/",
@@ -347,12 +353,6 @@
    "t": "Menatetrenone",
    "u": "/drugs/menatetrenone/",
    "s": "訂正：メナテトレノンの国内製剤は経口カプセルだけではない",
-   "d": "2026-11-24"
-  },
-  {
-   "t": "Lithium Citrate",
-   "u": "/drugs/lithium-citrate/",
-   "s": "訂正：上表の品目は炭酸リチウム製剤（「含めていません」ではない）",
    "d": "2026-11-24"
   },
   {
@@ -403,7 +403,7 @@
   },
   "L5": {
    "n": 255,
-   "current": 254
+   "current": 253
   }
  },
  "cross": {

@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-24
 monitor_inn: "nitrazepam"
 predicted_indications: ["Wernicke-Korsakoff syndrome"]
-description: "Nitrazepam：予測新適応症はWernicke-Korsakoff syndrome（エビデンスレベル L5）。薬価基準の品目：20 件（現在収載 16 件）"
+description: "Nitrazepam：予測新適応症はWernicke-Korsakoff syndrome（エビデンスレベル L5）。薬価基準の品目：22 件（現在収載 18 件）"
 ---
 
 # Nitrazepam
@@ -49,8 +49,8 @@ description: "Nitrazepam：予測新適応症はWernicke-Korsakoff syndrome（�
 | 予測新規適応症 | Wernicke-Korsakoff syndrome |
 | TxGNN 予測スコア | 0.9931 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 16 件／全 20 件） |
-| 承認番号数 | 20 件（有効 16 件） |
+| 日本市販状況 | 販売中（有効な承認 18 件／全 22 件） |
+| 承認番号数 | 22 件（有効 18 件） |
 | 推奨決定 | Proceed with Guardrails |
 
 ## この予測が妥当である理由
@@ -100,7 +100,7 @@ description: "Nitrazepam：予測新適応症はWernicke-Korsakoff syndrome（�
 | 620004589 | ベンザリン細粒１％ | 有効 |
 | 622887100 | ニトラゼパム５ｍｇ錠 | 有効 |
 
-上表はデータ上の 20 件のうち 5 件です。
+上表はデータ上の 22 件のうち 5 件です。
 
 <!-- licenses:end -->
 

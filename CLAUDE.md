@@ -712,3 +712,23 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
   正文「クエン酸リチウムの承認は確認できません」成立，「炭酸リチウム製剤は含めていません」跟表相反，以 `jp-lic-20261124b-lithium_citrate-1` 只改括號；`jp-lic-20261117-lithium_citrate-1`（「日本では販売中」）同 id 重發。證據包對照沒改（要母目錄決定）。
 - 張數樣板：site.py 的 FIGURES 第一輪已改成不寫件數；有效紀錄的 replacement／note 裡寫死件數的 0 筆。
 - 正文有變的 96 頁 last_modified_at 改 2026-11-24。checker 前後都是 P5 1（sulfasalazine，原有）；gate exit 0。
+
+## 第三輪：證據包依成分補收、排除對照錯的品目（2026-11-24）
+
+用戶 2026-11-24 第三輪決定（A：證據包成分對照修正）。證據包 pmda 區塊是 collectors/jpfda.py 依 data/processed/drug_mapping.csv（品目的一般名或カナ名→DrugBank ID）收的：沒有一般名處方名、カナ名只是商品名的品目對照失敗就收不到（ビソノテープ、フロベン錠、ゼンタコート、ケイツーＮ静注、アラセナ－Ａ点滴、カベルゴリン錠「サワイ」…），カナ轉英文偶爾對錯成分。
+- `scripts/add_current_ingredient_items.py [--master y_ALL*.zip] [--dry-run] [--report]`：医薬品マスター最新全件ファイルの YJ コード前 7 碼（薬効分類＋投与経路・成分＝同一成分群）為單位。
+  R1：群內有 drug_mapping 對照、且群內只對到一個 DrugBank ID＝本藥的，群內現行品目不在證據包（也不是原收集器已算進 total_matches）的補一筆；
+  R2：drug_mapping 完全沒對照的群，群內每個品目的漢字名稱都以本藥的先發商品名（jp_fda_drugs.json「商品名一覧」裡「後発品」之前、三字以上）或一般名基本名開頭（後面不是片假名或是劑形字），而且只對得到一個證據包，整群補；
+  人工對照 `config/ingredient_groups.json`（每筆附依據；drugbank_id null＝不屬本站任何證據包）優先，也覆寫 drug_mapping.csv 對該群的列；證據包裡屬於人工對照群、DrugBank ID 不是本藥的紀錄移到 pmda.excluded_records（附 reason），原收集器算進 total_matches 卻沒存成紀錄的同類品目從 total_matches 扣掉。
+  離子類證據包（calcium、magnesium、zinc、iron）不處理；只處理有藥物頁（非轉址）的證據包；紀錄欄位同後継コード補收（另記 yj_group、source、added），不設筆數上限，total_matches 同步加；只加不刪、可重複執行。
+  `.github/workflows/license-refresh.yml` 在 license_refresh 前先跑（下載失敗不擋排程），有補收／排除／覆寫就照常發新 Release。
+- 人工對照（2026-11-24）：炭酸リチウム（YJ 1179017）DB14507→DB14509（lithium_citrate 證據包的 4 張炭酸リチウム錠移到 excluded_records，頁面概覽與程式表變 0 件；本站沒有 lithium carbonate 的頁或證據包，所以沒有移過去）；
+  トポテシン（YJ 4240404，イリノテカン塩酸塩）DB01030→DB00762（topotecan 證據包的 2 張排除；本站沒有 irinotecan 頁），ハイカムチン（YJ 4240408，ノギテカン＝topotecan）補進 topotecan；
+  レミフェンタニル（YJ 8219401）DB00813→DB00899（fentanyl 證據包 total_matches 扣 2）；ヘパリン類似物質（ヒルドイド等，YJ 3339950、2649950、2649865）原對到 heparin，改成不屬任何證據包（heparin 證據包排除 15 張、total_matches 扣 27）；
+  ビソノテープ（2149700）→bisoprolol、ケイツーＮ静注（3160401）→menatetrenone。drug_mapping.csv 覆寫 76 列。
+- 2026-11-24 套用（資料 data-20261117-111616＋全件ファイル y_ALL20261112）：126 個證據包補 987 筆（R1 907、R2 74、人工對照 6）、排除 21 筆；第二次跑 0 筆。
+  證據包 local_regulatory 重算（refresh_pack_regulatory）126 個有變；概覽表狀態列／張數列 126 頁 267 格由程式同步（sync_market_rows）；程式表 90 頁重排；正文件數由 B 改寫 21 頁；description 句尾 38 頁；docs/_data/brand_names.json 3 頁（bisoprolol 加ビソノ、menatetrenone 加ケイツーＮ、topotecan トポテシン→ハイカムチン）與搜尋索引照重產。
+  正文跟新事實矛盾的：`jp-lic-20261124b-lithium_citrate-1` 撤回（原句「炭酸リチウム製剤は別成分のため含めていません」又成立，頁面還原原句），`jp-lic-20261117-lithium_citrate-1`、`jp-lic-20261106-lithium_citrate-1`、`jp-lic-20261117-flurbiprofen-1` 與第二輪劑型紀錄 6 筆（bisoprolol、vidarabine、budesonide、menatetrenone、flurbiprofen-1／-2；說明裡「本ページのデータには含まれていない」不再成立）同 id 重發（前版存 history），
+  新紀錄 `jp-lic-20261124c-lenalidomide-1`（「ジェネリックを含め 12 件あり、そのすべてが有効」→不寫件數，B 的句型認不得）。
+  獨立寬偵測（補收證據包的頁，數字不等於事實層總數／有效／削除或程式表列數，或劑形全稱句）：剩下的都是查核框裡的原文引用、臨床試驗件數、或仍成立的「上表の品目はいずれも…」。checker 前後都是 P5 1（sulfasalazine，原有）；gate exit 0。正文有變的 127 頁 last_modified_at 改 2026-11-24。
+- 沒處理：R1 會放大 drug_mapping 既有的群對照（群整個對錯時）——這次逐群看過 128 群，錯的只有上面幾個；チアミンジスルフィド（バイオゲン等）照本站既有對照算 thiamine，沒改。

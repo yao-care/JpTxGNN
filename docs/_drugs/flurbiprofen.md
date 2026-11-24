@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-11-24
 monitor_inn: "Flurbiprofen"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "hypermobility of coccyx"]
-description: "Flurbiprofen：予測新適応症は先端中間肢異形成症 ハンター・トンプソン型 (acromesomelic dysplasia, Hunter-Thompson type)（エビデンスレベル L5）。薬価基準の品目：10 件（現在収載 6 件）"
+description: "Flurbiprofen：予測新適応症は先端中間肢異形成症 ハンター・トンプソン型 (acromesomelic dysplasia, Hunter-Thompson type)（エビデンスレベル L5）。薬価基準の品目：14 件（現在収載 10 件）"
 ---
 
 # Flurbiprofen
@@ -43,7 +43,7 @@ TxGNN モデルは **先端中間肢異形成症 ハンター・トンプソン�
 
 <!-- review:begin jp-lic-20261124b-flurbiprofen-2 -->
 
-> **確認による訂正（2026-11-24）**：元の記載は「日本ではテープ剤として市販されています。」でした。訂正：医薬品マスター（薬価基準収載品目）には、テープ剤（ゼポラステープ、ヤクバンテープなど）のほか、パップ剤（アドフィードパップ４０ｍｇ、ゼポラスパップ４０ｍｇ）と経口錠（フロベン錠４０）が収載されています（本ページのデータにはテープ剤のみが含まれています）。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)。
+> **確認による訂正（2026-11-24）**：元の記載は「日本ではテープ剤として市販されています。」でした。訂正：医薬品マスター（薬価基準収載品目）には、テープ剤（ゼポラステープ、ヤクバンテープなど）のほか、パップ剤（アドフィードパップ４０ｍｇ、ゼポラスパップ４０ｍｇ）と経口錠（フロベン錠４０）が収載されています。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)。
 
 <!-- review:end jp-lic-20261124b-flurbiprofen-2 -->
 
@@ -55,8 +55,8 @@ TxGNN モデルは **先端中間肢異形成症 ハンター・トンプソン�
 | 予測新規適応症 | 先端中間肢異形成症 ハンター・トンプソン型 (acromesomelic dysplasia, Hunter-Thompson type) |
 | TxGNN 予測スコア | 0.9999 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 6 件／全 10 件） |
-| 承認番号数 | 10 件（有効 6 件） |
+| 日本市販状況 | 販売中（有効な承認 10 件／全 14 件） |
+| 承認番号数 | 14 件（有効 10 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -75,11 +75,11 @@ TxGNN モデルは **先端中間肢異形成症 ハンター・トンプソン�
 
 ## 日本市販情報
 
-本ページのデータ上の承認は、いずれも単剤のテープ剤（外用）で、有効なものと薬価基準から削除済みのものがあります（件数はクイック概要を参照）。主要なものを示します。
+本ページのデータ上の承認は、いずれも単剤で、テープ剤・パップ剤（外用）と経口錠（フロベン錠４０）があり、有効なものと薬価基準から削除済みのものがあります（件数はクイック概要を参照）。主要なものを示します。
 
 <!-- review:begin jp-lic-20261117-flurbiprofen-1 -->
 
-> **確認による訂正（2026-11-17）**：元の記載は「有効な承認は 10 件で、すべて単剤のテープ剤（外用）です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、次の承認が経過措置期間満了などにより薬価基準から削除されています（670008249（廃止年月日 2026-03-31）、670647301（廃止年月日 2026-03-31）、670008250（廃止年月日 2026-03-31）、671415301（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。また、医薬品マスターにはこのほかフルルビプロフェンの経口錠（フロベン錠４０）とパップ剤（アドフィードパップ４０ｍｇ、ゼポラスパップ４０ｍｇ）も収載されています（本ページのデータには含まれていません；2026-11-24 確認）。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
+> **確認による訂正（2026-11-24）**：元の記載は「有効な承認は 10 件で、すべて単剤のテープ剤（外用）です。」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、次の承認が経過措置期間満了などにより薬価基準から削除されています（670008249（廃止年月日 2026-03-31）、670647301（廃止年月日 2026-03-31）、670008250（廃止年月日 2026-03-31）、671415301（廃止年月日 2026-03-31））。薬価基準からの削除は承認の取消しを意味するものではなく、承認状況はこのデータでは確認できません。また、医薬品マスターにはこのほかフルルビプロフェンの経口錠（フロベン錠４０）とパップ剤（アドフィードパップ４０ｍｇ、ゼポラスパップ４０ｍｇ）も収載されています（2026-11-24 確認）。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx)。
 
 <!-- review:end jp-lic-20261117-flurbiprofen-1 -->
 
@@ -93,7 +93,7 @@ TxGNN モデルは **先端中間肢異形成症 ハンター・トンプソン�
 | 620647301 | ヤクバンテープ４０ｍｇ １０ｃｍ×１４ｃｍ | 有効 |
 | 622082902 | フルルビプロフェンテープ２０ｍｇ「ＱＱ」 ７ｃｍ×１０ｃｍ | 有効 |
 
-上表はデータ上の 10 件のうち 5 件です。
+上表はデータ上の 14 件のうち 5 件です。
 
 <!-- licenses:end -->
 
@@ -101,7 +101,7 @@ TxGNN モデルは **先端中間肢異形成症 ハンター・トンプソン�
 
 <!-- review:begin jp-lic-20261124b-flurbiprofen-1 -->
 
-> **確認による訂正（2026-11-24）**：元の記載は「全承認の剤形がテープ剤であるため、」でした。訂正：医薬品マスター（薬価基準収載品目）には、テープ剤のほか、経口錠（フロベン錠４０）とパップ剤（アドフィードパップ４０ｍｇ、ゼポラスパップ４０ｍｇ）も収載されています。上表（本ページのデータ）の品目はいずれもテープ剤です。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)。
+> **確認による訂正（2026-11-24）**：元の記載は「全承認の剤形がテープ剤であるため、」でした。訂正：医薬品マスター（薬価基準収載品目）には、テープ剤のほか、経口錠（フロベン錠４０）とパップ剤（アドフィードパップ４０ｍｇ、ゼポラスパップ４０ｍｇ）も収載されています。上表の品目はいずれもテープ剤です。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)。
 
 <!-- review:end jp-lic-20261124b-flurbiprofen-1 -->
 
@@ -133,10 +133,10 @@ TxGNN モデルは **先端中間肢異形成症 ハンター・トンプソン�
 
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
-| 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
+| 2026-11-24 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Lurbiro (flurbiprofen) prescribing information, IPG Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=7ebf7427-eaae-4035-a6b2-0ea6381e8763) |
-| 2026-11-24 | 訂正：フルルビプロフェンの承認はテープ剤だけではない | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html) |
-| 2026-11-24 | 訂正：日本の剤形はテープ剤だけではない（パップ剤・経口錠もある） | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html) |
+| 2026-11-24 | 訂正：フルルビプロフェンの承認はテープ剤だけではない | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html) |
+| 2026-11-24 | 訂正：日本の剤形はテープ剤だけではない（パップ剤・経口錠もある） | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html) |
 
 <!-- review:end log -->
 

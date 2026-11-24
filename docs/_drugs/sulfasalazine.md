@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-11-24
 monitor_inn: "Sulfasalazine"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congenital hypotrichosis with juvenile macular dystrophy", "osteoarthritis", "WHIM syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis"]
-description: "Sulfasalazine：予測新適応症は合指（趾）症を伴う短指症候群 (brachydactyly-syndactyly syndrome)（エビデンスレベル L5）。薬価基準の品目：11 件（現在収載 6 件）"
+description: "Sulfasalazine：予測新適応症は合指（趾）症を伴う短指症候群 (brachydactyly-syndactyly syndrome)（エビデンスレベル L5）。薬価基準の品目：12 件（現在収載 7 件）"
 ---
 
 # Sulfasalazine
@@ -50,8 +50,8 @@ TxGNN モデルは、先天性の発生異常である**合指（趾）症を伴
 | 予測新規適応症 | 合指（趾）症を伴う短指症候群 (brachydactyly-syndactyly syndrome) |
 | TxGNN 予測スコア | 0.9994 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 6 件／全 11 件） |
-| 承認番号数 | 11 件（有効 6 件） |
+| 日本市販状況 | 販売中（有効な承認 7 件／全 12 件） |
+| 承認番号数 | 12 件（有効 7 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -90,7 +90,7 @@ TxGNN モデルは、先天性の発生異常である**合指（趾）症を伴
 | 622161402 | サラゾスルファピリジン腸溶錠２５０ｍｇ「ＣＨ」 | 有効 |
 | 621442905 | サラゾスルファピリジン腸溶錠５００ｍｇ「ＣＨ」 | 有効 |
 
-上表はデータ上の 11 件のうち 5 件です。
+上表はデータ上の 12 件のうち 5 件です。
 
 <!-- licenses:end -->
 

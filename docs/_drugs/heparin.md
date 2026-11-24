@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "Heparin"
 predicted_indications: ["thrombophilia due to protein C deficiency, autosomal recessive", "primary release disorder of platelets"]
 last_modified_at: 2026-11-24
-description: "Heparin：予測新適応症は常染色体劣性プロテインC欠損による血栓性素因 (thrombophilia due to protein C deficiency, autosomal recessive)（エビデンスレベル L5）。薬価基準の品目：20 件以上"
+description: "Heparin：予測新適応症は常染色体劣性プロテインC欠損による血栓性素因 (thrombophilia due to protein C deficiency, autosomal recessive)（エビデンスレベル L5）。薬価基準の品目：18 件以上"
 ---
 
 # Heparin
@@ -50,8 +50,8 @@ TxGNN モデルは**常染色体劣性プロテインC欠損による血栓性�
 | 予測新規適応症 | 常染色体劣性プロテインC欠損による血栓性素因 (thrombophilia due to protein C deficiency, autosomal recessive) |
 | TxGNN 予測スコア | 0.9929 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 20 件以上） |
-| 承認番号数 | 20 件以上 |
+| 日本市販状況 | 販売中（有効な承認 18 件以上） |
+| 承認番号数 | 18 件以上 |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -79,8 +79,8 @@ TxGNN モデルは**常染色体劣性プロテインC欠損による血栓性�
 | 620006734 | ヘパリンナトリウム注射液 ５０，０００単位５０ｍＬ | 有効 |
 | 621826402 | ヘパリンナトリウム注１０万単位／１００ｍＬ「ＡＹ」 １０万単位 | 有効 |
 | 620006725 | ヘパリンナトリウム注射液 ５，０００単位５ｍＬ | 有効 |
-| 620009047 | ヒルドイドゲル０．３％ | 有効 |
-| 620009048 | ヒルドイドソフト軟膏０．３％ | 有効 |
+| 620002282 | ヘパフラッシュ１０単位／ｍＬシリンジ５ｍＬ ５０単位 | 有効 |
+| 620002283 | ヘパフラッシュ１０単位／ｍＬシリンジ１０ｍＬ １００単位 | 有効 |
 
 データには承認の一部のみが含まれています。上表はそのうち 5 件です。
 

@@ -51,6 +51,18 @@ jobs:
       - name: Restore data from Release
         run: bash scripts/restore_data.sh
 
+      # 2026-11-24（用戶決定「證據包成分對照修正」）：先依医薬品マスター最新全件ファイルの YJ コード前 7 碼（同成分群）補收證據包漏收的品目、
+      # 排除 config/ingredient_groups.json 人工對照判定為別的成分的品目（scripts/add_current_ingredient_items.py，全程不用 AI），再跑 license_refresh
+      - name: Add same-ingredient items
+        id: additems
+        run: |
+          set -euo pipefail
+          # 下載或格式有問題時這步不補收、不擋後面的排程（補收程式自己會在全件ファイル少於 15,000 列時停）
+          out=$("$GITHUB_WORKSPACE/.venv/bin/python" scripts/add_current_ingredient_items.py 2>&1) || { echo "$out"; out="依成分補收失敗，這次略過"; }
+          echo "$out"; echo "$out" >> "$GITHUB_STEP_SUMMARY"
+          a=$(echo "$out" | sed -n 's/.*補收 \([0-9]*\) 筆.*/\1/p'); b=$(echo "$out" | sed -n 's/.*排除 \([0-9]*\) 筆.*/\1/p'); c=$(echo "$out" | sed -n 's/.*覆寫 \([0-9]*\) 列.*/\1/p')
+          echo "changed=$(( ${a:-0} + ${b:-0} + ${c:-0} ))" >> "$GITHUB_OUTPUT"
+
       - name: Refresh licenses
         id: refresh
         env:
@@ -82,7 +94,7 @@ jobs:
           gh workflow run pages.yml --ref main
 
       - name: Publish updated data to Release   # records＝許可證狀態變動＋證據包重算有變（2026-11-12）
-        if: (steps.refresh.outputs.code == '0' || steps.refresh.outputs.code == '6') && steps.refresh.outputs.records != '0' && inputs.dry_run != 'true'
+        if: (steps.refresh.outputs.code == '0' || steps.refresh.outputs.code == '6') && (steps.refresh.outputs.records != '0' || steps.additems.outputs.changed != '0') && inputs.dry_run != 'true'
         run: |
           SITE=$(cat tools/txgnn/SITE)
           TAG="data-$(date -u +%Y%m%d-%H%M%S)"   # 每次新 tag，舊 tag 一律不覆蓋（pm 2026-10-30 第 3 點）

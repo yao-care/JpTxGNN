@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "Chlorpheniramine"
 predicted_indications: ["nasal cavity disease"]
 last_modified_at: 2026-11-24
-description: "Chlorpheniramine：予測新適応症は鼻腔疾患 (nasal cavity disease)（エビデンスレベル L5）。薬価基準の品目：20 件以上"
+description: "Chlorpheniramine：予測新適応症は鼻腔疾患 (nasal cavity disease)（エビデンスレベル L5）。薬価基準の品目：22 件以上"
 ---
 
 # Chlorpheniramine
@@ -50,8 +50,8 @@ TxGNN モデルは**鼻腔疾患 (nasal cavity disease)** に有効である可�
 | 予測新規適応症 | 鼻腔疾患 (nasal cavity disease) |
 | TxGNN 予測スコア | 0.9953 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 19 件以上） |
-| 承認番号数 | 20 件以上 |
+| 日本市販状況 | 販売中（有効な承認 21 件以上） |
+| 承認番号数 | 22 件以上 |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由

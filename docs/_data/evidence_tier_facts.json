@@ -16,8 +16,8 @@
     "u": "/drugs/doxorubicin/",
     "l": "L1",
     "i": "ユーイング肉腫",
-    "lt": 8,
-    "lv": 8,
+    "lt": 9,
+    "lv": 9,
     "r": 1,
     "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
     "x": 0
@@ -28,7 +28,7 @@
     "l": "L1",
     "i": "脂漏性皮膚炎",
     "lt": 0,
-    "lv": 20,
+    "lv": 33,
     "r": 3,
     "rs": "削除：「承認取消の経緯と」",
     "x": 0
@@ -72,7 +72,7 @@
     "l": "L2",
     "i": "不眠症",
     "lt": 0,
-    "lv": 19,
+    "lv": 27,
     "r": 0,
     "rs": "",
     "x": 0
@@ -93,10 +93,10 @@
     "u": "/drugs/lenalidomide/",
     "l": "L2",
     "i": "myeloid leukemia",
-    "lt": 12,
-    "lv": 12,
-    "r": 3,
-    "rs": "削除：「日本での承認取消の経緯の確認と、供給体制の確認」",
+    "lt": 14,
+    "lv": 14,
+    "r": 4,
+    "rs": "訂正：承認の件数を医薬品マスターの収載状況に合わせました",
     "x": 0
    },
    {
@@ -116,7 +116,7 @@
     "l": "L2",
     "i": "alopecia areata",
     "lt": 0,
-    "lv": 19,
+    "lv": 38,
     "r": 3,
     "rs": "削除：「日本では現在市販中の承認がないため」",
     "x": 0
@@ -138,7 +138,7 @@
     "l": "L2",
     "i": "attention deficit-hyperactivity disorder",
     "lt": 0,
-    "lv": 20,
+    "lv": 25,
     "r": 2,
     "rs": "削除：「および日本で販売承認が取り消された経緯の確認」",
     "x": 0
@@ -181,8 +181,8 @@
     "u": "/drugs/tocilizumab/",
     "l": "L2",
     "i": "ankylosing spondylitis",
-    "lt": 8,
-    "lv": 8,
+    "lt": 13,
+    "lv": 13,
     "r": 3,
     "rs": "訂正：620006804・629936801・629936601 は「取消済み」ではなく有効",
     "x": 0
@@ -192,8 +192,8 @@
     "u": "/drugs/ustekinumab/",
     "l": "L2",
     "i": "皮膚炎",
-    "lt": 2,
-    "lv": 2,
+    "lt": 3,
+    "lv": 3,
     "r": 3,
     "rs": "削除：「承認の取り消し理由と、代替販売名の有無」",
     "x": 0
@@ -280,8 +280,8 @@
     "u": "/drugs/hydrocortisone/",
     "l": "L3",
     "i": "円形脱毛症",
-    "lt": 14,
-    "lv": 14,
+    "lt": 19,
+    "lv": 19,
     "r": 1,
     "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
     "x": 0
@@ -302,8 +302,8 @@
     "u": "/drugs/meropenem/",
     "l": "L3",
     "i": "細菌性関節炎",
-    "lt": 3,
-    "lv": 3,
+    "lt": 19,
+    "lv": 19,
     "r": 1,
     "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
     "x": 0
@@ -324,8 +324,8 @@
     "u": "/drugs/oxaliplatin/",
     "l": "L3",
     "i": "悪性胸膜中皮腫",
-    "lt": 6,
-    "lv": 4,
+    "lt": 26,
+    "lv": 24,
     "r": 3,
     "rs": "削除：「日本ではすべての承認が取消となっており、添付文書の警告・禁忌データも未確認のため、安全性評価に進める状態ではありません」",
     "x": 0
@@ -335,8 +335,8 @@
     "u": "/drugs/ampicillin/",
     "l": "L4",
     "i": "laryngitis",
-    "lt": 10,
-    "lv": 10,
+    "lt": 21,
+    "lv": 21,
     "r": 1,
     "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
     "x": 0
@@ -347,7 +347,7 @@
     "l": "L4",
     "i": "毛包性ムチン沈着症",
     "lt": 0,
-    "lv": 18,
+    "lv": 45,
     "r": 1,
     "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
     "x": 0
@@ -357,8 +357,8 @@
     "u": "/drugs/bosentan/",
     "l": "L4",
     "i": "rheumatoid arthritis",
-    "lt": 8,
-    "lv": 7,
+    "lt": 10,
+    "lv": 9,
     "r": 5,
     "rs": "削除：「日本での承認状況（取消の経緯）と供給可否の確認」",
     "x": 0
@@ -368,8 +368,8 @@
     "u": "/drugs/carbamazepine/",
     "l": "L4",
     "i": "三叉神経腫瘍",
-    "lt": 11,
-    "lv": 10,
+    "lt": 12,
+    "lv": 11,
     "r": 3,
     "rs": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
     "x": 0
@@ -390,8 +390,8 @@
     "u": "/drugs/etizolam/",
     "l": "L4",
     "i": "insomnia (disease)",
-    "lt": 1,
-    "lv": 1,
+    "lt": 46,
+    "lv": 46,
     "r": 1,
     "rs": "削除：「失効済みの承認のみ」",
     "x": 0
@@ -412,8 +412,8 @@
     "u": "/drugs/ketoconazole/",
     "l": "L4",
     "i": "acne (disease)",
-    "lt": 7,
-    "lv": 6,
+    "lt": 13,
+    "lv": 12,
     "r": 3,
     "rs": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
     "x": 0
@@ -467,8 +467,8 @@
     "u": "/drugs/triamcinolone/",
     "l": "L4",
     "i": "alopecia mucinosa",
-    "lt": 12,
-    "lv": 9,
+    "lt": 18,
+    "lv": 15,
     "r": 6,
     "rs": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
     "x": 0
@@ -500,11 +500,297 @@
   "by_level": {
    "L5": 255
   },
-  "with_current": 254,
+  "with_current": 253,
   "none_current": 1,
-  "without_data": 76,
+  "without_data": 77,
   "with_reviews": 246,
   "rows": [
+   {
+    "t": "Loxoprofen",
+    "u": "/drugs/loxoprofen/",
+    "l": "L5",
+    "i": "colobomatous microphthalmia-rhizomelic dysplasia syndrome",
+    "lt": 0,
+    "lv": 99,
+    "r": 1,
+    "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
+    "x": 0
+   },
+   {
+    "t": "Epinastine",
+    "u": "/drugs/epinastine/",
+    "l": "L5",
+    "i": "rosacea conjunctivitis",
+    "lt": 0,
+    "lv": 70,
+    "r": 1,
+    "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
+    "x": 0
+   },
+   {
+    "t": "Fexofenadine",
+    "u": "/drugs/fexofenadine/",
+    "l": "L5",
+    "i": "rosacea conjunctivitis",
+    "lt": 0,
+    "lv": 61,
+    "r": 0,
+    "rs": "",
+    "x": 0
+   },
+   {
+    "t": "Diclofenac",
+    "u": "/drugs/diclofenac/",
+    "l": "L5",
+    "i": "頭皮の単純性乏毛症",
+    "lt": 0,
+    "lv": 51,
+    "r": 1,
+    "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
+    "x": 0
+   },
+   {
+    "t": "Indomethacin",
+    "u": "/drugs/indomethacin/",
+    "l": "L5",
+    "i": "brachydactyly-syndactyly syndrome",
+    "lt": 48,
+    "lv": 46,
+    "r": 4,
+    "rs": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
+    "x": 0
+   },
+   {
+    "t": "Felbinac",
+    "u": "/drugs/felbinac/",
+    "l": "L5",
+    "i": "brachyolmia-amelogenesis imperfecta syndrome",
+    "lt": 42,
+    "lv": 41,
+    "r": 2,
+    "rs": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
+    "x": 0
+   },
+   {
+    "t": "Alfacalcidol",
+    "u": "/drugs/alfacalcidol/",
+    "l": "L5",
+    "i": "craniofacial conodysplasia",
+    "lt": 36,
+    "lv": 36,
+    "r": 1,
+    "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
+    "x": 0
+   },
+   {
+    "t": "Fentanyl",
+    "u": "/drugs/fentanyl/",
+    "l": "L5",
+    "i": "腎性抗利尿ホルモン不適切分泌症候群",
+    "lt": 0,
+    "lv": 35,
+    "r": 2,
+    "rs": "削除：「日本では有効な承認もなく、現時点で再利用を進める根拠はありません」",
+    "x": 0
+   },
+   {
+    "t": "Dexamethasone",
+    "u": "/drugs/dexamethasone/",
+    "l": "L5",
+    "i": "毛包性ムチン沈着症",
+    "lt": 0,
+    "lv": 34,
+    "r": 1,
+    "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
+    "x": 0
+   },
+   {
+    "t": "Fluticasone",
+    "u": "/drugs/fluticasone/",
+    "l": "L5",
+    "i": "migraine disorder",
+    "lt": 0,
+    "lv": 32,
+    "r": 1,
+    "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
+    "x": 0
+   },
+   {
+    "t": "Morphine",
+    "u": "/drugs/morphine/",
+    "l": "L5",
+    "i": "筋筋膜性疼痛症候群",
+    "lt": 0,
+    "lv": 32,
+    "r": 1,
+    "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
+    "x": 0
+   },
+   {
+    "t": "Acyclovir",
+    "u": "/drugs/acyclovir/",
+    "l": "L5",
+    "i": "punctate epithelial keratoconjunctivitis",
+    "lt": 0,
+    "lv": 29,
+    "r": 1,
+    "rs": "削除：「現在、日本で販売中の承認はなし」",
+    "x": 0
+   },
+   {
+    "t": "Rivaroxaban",
+    "u": "/drugs/rivaroxaban/",
+    "l": "L5",
+    "i": "rheumatoid arthritis",
+    "lt": 0,
+    "lv": 29,
+    "r": 2,
+    "rs": "削除：「現在有効な承認はなく、20 件すべてが取消済みです」",
+    "x": 0
+   },
+   {
+    "t": "Valproic Acid",
+    "u": "/drugs/valproic-acid/",
+    "l": "L5",
+    "i": "trigeminal nerve neoplasm",
+    "lt": 31,
+    "lv": 29,
+    "r": 4,
+    "rs": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
+    "x": 0
+   },
+   {
+    "t": "Bisoprolol",
+    "u": "/drugs/bisoprolol/",
+    "l": "L5",
+    "i": "悪性高血圧性腎疾患",
+    "lt": 0,
+    "lv": 23,
+    "r": 2,
+    "rs": "訂正：ビソプロロールの剤形は経口錠だけではない（貼付剤もある）",
+    "x": 0
+   },
+   {
+    "t": "Clindamycin",
+    "u": "/drugs/clindamycin/",
+    "l": "L5",
+    "i": "点状表層角結膜炎",
+    "lt": 23,
+    "lv": 23,
+    "r": 0,
+    "rs": "",
+    "x": 0
+   },
+   {
+    "t": "Lidocaine",
+    "u": "/drugs/lidocaine/",
+    "l": "L5",
+    "i": "点状表層角結膜炎",
+    "lt": 0,
+    "lv": 23,
+    "r": 1,
+    "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
+    "x": 0
+   },
+   {
+    "t": "Budesonide",
+    "u": "/drugs/budesonide/",
+    "l": "L5",
+    "i": "アトピー性湿疹",
+    "lt": 22,
+    "lv": 22,
+    "r": 3,
+    "rs": "訂正：ブデソニドの国内製剤は吸入剤だけではない",
+    "x": 0
+   },
+   {
+    "t": "Ketoprofen",
+    "u": "/drugs/ketoprofen/",
+    "l": "L5",
+    "i": "acromesomelic dysplasia, Hunter-Thompson type",
+    "lt": 0,
+    "lv": 22,
+    "r": 1,
+    "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
+    "x": 0
+   },
+   {
+    "t": "Methotrexate",
+    "u": "/drugs/methotrexate/",
+    "l": "L5",
+    "i": "肺芽腫",
+    "lt": 24,
+    "lv": 22,
+    "r": 4,
+    "rs": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
+    "x": 0
+   },
+   {
+    "t": "Quetiapine",
+    "u": "/drugs/quetiapine/",
+    "l": "L5",
+    "i": "retinal dystrophy with or without extraocular anomalies",
+    "lt": 0,
+    "lv": 22,
+    "r": 2,
+    "rs": "削除：「日本での有効な承認もありません」",
+    "x": 0
+   },
+   {
+    "t": "Thiamine",
+    "u": "/drugs/thiamine/",
+    "l": "L5",
+    "i": "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta",
+    "lt": 24,
+    "lv": 22,
+    "r": 1,
+    "rs": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
+    "x": 0
+   },
+   {
+    "t": "Tolvaptan",
+    "u": "/drugs/tolvaptan/",
+    "l": "L5",
+    "i": "renal-hepatic-pancreatic dysplasia",
+    "lt": 0,
+    "lv": 22,
+    "r": 2,
+    "rs": "削除：「なく、日本の有効な承認も現在」",
+    "x": 0
+   },
+   {
+    "t": "Aripiprazole",
+    "u": "/drugs/aripiprazole/",
+    "l": "L5",
+    "i": "gaze palsy, familial horizontal, with progressive scoliosis",
+    "lt": 0,
+    "lv": 21,
+    "r": 1,
+    "rs": "削除：「現在有効な日本の承認がないため、販売状況と承認の現状を確認すること」",
+    "x": 0
+   },
+   {
+    "t": "Chlorpheniramine",
+    "u": "/drugs/chlorpheniramine/",
+    "l": "L5",
+    "i": "鼻腔疾患",
+    "lt": 0,
+    "lv": 21,
+    "r": 1,
+    "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
+    "x": 0
+   },
+   {
+    "t": "Granisetron",
+    "u": "/drugs/granisetron/",
+    "l": "L5",
+    "i": "躁病性双極性感情障害",
+    "lt": 0,
+    "lv": 21,
+    "r": 3,
+    "rs": "削除：「また、日本の承認は全件が取消済みで、添付文書の警告・禁忌も確認できていません」",
+    "x": 0
+   },
    {
     "t": "Adalimumab",
     "u": "/drugs/adalimumab/",
@@ -517,14 +803,14 @@
     "x": 0
    },
    {
-    "t": "Bisoprolol",
-    "u": "/drugs/bisoprolol/",
+    "t": "Carvedilol",
+    "u": "/drugs/carvedilol/",
     "l": "L5",
     "i": "悪性高血圧性腎疾患",
     "lt": 0,
     "lv": 20,
     "r": 2,
-    "rs": "訂正：ビソプロロールの剤形は経口錠だけではない（貼付剤もある）",
+    "rs": "削除：「日本でも現在有効な承認がなく、添付文書の安全性情報も未確認のため、先に進める根拠が不足しています」",
     "x": 0
    },
    {
@@ -605,10 +891,10 @@
     "x": 0
    },
    {
-    "t": "Heparin",
-    "u": "/drugs/heparin/",
+    "t": "Irbesartan",
+    "u": "/drugs/irbesartan/",
     "l": "L5",
-    "i": "常染色体劣性プロテインC欠損による血栓性素因",
+    "i": "悪性高血圧性腎疾患",
     "lt": 0,
     "lv": 20,
     "r": 1,
@@ -616,10 +902,10 @@
     "x": 0
    },
    {
-    "t": "Irbesartan",
-    "u": "/drugs/irbesartan/",
+    "t": "Lamotrigine",
+    "u": "/drugs/lamotrigine/",
     "l": "L5",
-    "i": "悪性高血圧性腎疾患",
+    "i": "trigeminal nerve neoplasm",
     "lt": 0,
     "lv": 20,
     "r": 1,
@@ -646,6 +932,17 @@
     "lv": 20,
     "r": 3,
     "rs": "削除：「日本では現在有効な承認がなく、添付文書の安全性情報も未確認です」",
+    "x": 0
+   },
+   {
+    "t": "Miglitol",
+    "u": "/drugs/miglitol/",
+    "l": "L5",
+    "i": "focal stiff limb syndrome",
+    "lt": 0,
+    "lv": 20,
+    "r": 1,
+    "rs": "削除：「日本では全承認が整理済みで、現在市販されている製剤もありません」",
     "x": 0
    },
    {
@@ -693,21 +990,21 @@
     "x": 0
    },
    {
-    "t": "Rivaroxaban",
-    "u": "/drugs/rivaroxaban/",
-    "l": "L5",
-    "i": "rheumatoid arthritis",
-    "lt": 0,
-    "lv": 20,
-    "r": 2,
-    "rs": "削除：「現在有効な承認はなく、20 件すべてが取消済みです」",
-    "x": 0
-   },
-   {
     "t": "Rivastigmine",
     "u": "/drugs/rivastigmine/",
     "l": "L5",
     "i": "glaucoma",
+    "lt": 0,
+    "lv": 20,
+    "r": 1,
+    "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
+    "x": 0
+   },
+   {
+    "t": "Rosuvastatin",
+    "u": "/drugs/rosuvastatin/",
+    "l": "L5",
+    "i": "コレステロールエステル転送蛋白欠損症",
     "lt": 0,
     "lv": 20,
     "r": 1,
@@ -737,54 +1034,10 @@
     "x": 0
    },
    {
-    "t": "Tolvaptan",
-    "u": "/drugs/tolvaptan/",
-    "l": "L5",
-    "i": "renal-hepatic-pancreatic dysplasia",
-    "lt": 0,
-    "lv": 20,
-    "r": 2,
-    "rs": "削除：「なく、日本の有効な承認も現在」",
-    "x": 0
-   },
-   {
-    "t": "Aripiprazole",
-    "u": "/drugs/aripiprazole/",
-    "l": "L5",
-    "i": "gaze palsy, familial horizontal, with progressive scoliosis",
-    "lt": 0,
-    "lv": 19,
-    "r": 1,
-    "rs": "削除：「現在有効な日本の承認がないため、販売状況と承認の現状を確認すること」",
-    "x": 0
-   },
-   {
-    "t": "Carvedilol",
-    "u": "/drugs/carvedilol/",
-    "l": "L5",
-    "i": "悪性高血圧性腎疾患",
-    "lt": 0,
-    "lv": 19,
-    "r": 2,
-    "rs": "削除：「日本でも現在有効な承認がなく、添付文書の安全性情報も未確認のため、先に進める根拠が不足しています」",
-    "x": 0
-   },
-   {
     "t": "Celecoxib",
     "u": "/drugs/celecoxib/",
     "l": "L5",
     "i": "先端中間肢異形成症 Hunter-Thompson 型",
-    "lt": 0,
-    "lv": 19,
-    "r": 1,
-    "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
-    "x": 0
-   },
-   {
-    "t": "Chlorpheniramine",
-    "u": "/drugs/chlorpheniramine/",
-    "l": "L5",
-    "i": "鼻腔疾患",
     "lt": 0,
     "lv": 19,
     "r": 1,
@@ -814,17 +1067,6 @@
     "x": 0
    },
    {
-    "t": "Dexamethasone",
-    "u": "/drugs/dexamethasone/",
-    "l": "L5",
-    "i": "毛包性ムチン沈着症",
-    "lt": 0,
-    "lv": 19,
-    "r": 1,
-    "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
-    "x": 0
-   },
-   {
     "t": "Dutasteride",
     "u": "/drugs/dutasteride/",
     "l": "L5",
@@ -836,43 +1078,10 @@
     "x": 0
    },
    {
-    "t": "Epinastine",
-    "u": "/drugs/epinastine/",
-    "l": "L5",
-    "i": "rosacea conjunctivitis",
-    "lt": 0,
-    "lv": 19,
-    "r": 1,
-    "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
-    "x": 0
-   },
-   {
     "t": "Ezetimibe",
     "u": "/drugs/ezetimibe/",
     "l": "L5",
     "i": "コレステロールエステル転送蛋白欠損症",
-    "lt": 0,
-    "lv": 19,
-    "r": 1,
-    "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
-    "x": 0
-   },
-   {
-    "t": "Fentanyl",
-    "u": "/drugs/fentanyl/",
-    "l": "L5",
-    "i": "腎性抗利尿ホルモン不適切分泌症候群",
-    "lt": 0,
-    "lv": 19,
-    "r": 2,
-    "rs": "削除：「日本では有効な承認もなく、現時点で再利用を進める根拠はありません」",
-    "x": 0
-   },
-   {
-    "t": "Fluticasone",
-    "u": "/drugs/fluticasone/",
-    "l": "L5",
-    "i": "migraine disorder",
     "lt": 0,
     "lv": 19,
     "r": 1,
@@ -891,10 +1100,10 @@
     "x": 0
    },
    {
-    "t": "Lamotrigine",
-    "u": "/drugs/lamotrigine/",
+    "t": "Imatinib",
+    "u": "/drugs/imatinib/",
     "l": "L5",
-    "i": "trigeminal nerve neoplasm",
+    "i": "心臓線維肉腫",
     "lt": 0,
     "lv": 19,
     "r": 1,
@@ -910,6 +1119,39 @@
     "lv": 19,
     "r": 1,
     "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
+    "x": 0
+   },
+   {
+    "t": "Levofloxacin",
+    "u": "/drugs/levofloxacin/",
+    "l": "L5",
+    "i": "点状表層角結膜炎",
+    "lt": 0,
+    "lv": 19,
+    "r": 1,
+    "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
+    "x": 0
+   },
+   {
+    "t": "Mesalazine",
+    "u": "/drugs/mesalazine/",
+    "l": "L5",
+    "i": "congenital hypotrichosis with juvenile macular dystrophy",
+    "lt": 20,
+    "lv": 19,
+    "r": 3,
+    "rs": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
+    "x": 0
+   },
+   {
+    "t": "Nicardipine",
+    "u": "/drugs/nicardipine/",
+    "l": "L5",
+    "i": "pulmonary hypertension with unclear multifactorial mechanism",
+    "lt": 20,
+    "lv": 19,
+    "r": 3,
+    "rs": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
     "x": 0
    },
    {
@@ -957,14 +1199,36 @@
     "x": 0
    },
    {
-    "t": "Quetiapine",
-    "u": "/drugs/quetiapine/",
+    "t": "Theophylline",
+    "u": "/drugs/theophylline/",
     "l": "L5",
-    "i": "retinal dystrophy with or without extraocular anomalies",
+    "i": "血栓性疾患",
     "lt": 0,
     "lv": 19,
-    "r": 2,
-    "rs": "削除：「日本での有効な承認もありません」",
+    "r": 1,
+    "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
+    "x": 0
+   },
+   {
+    "t": "Vidarabine",
+    "u": "/drugs/vidarabine/",
+    "l": "L5",
+    "i": "actinic cheilitis",
+    "lt": 21,
+    "lv": 19,
+    "r": 4,
+    "rs": "訂正：ビダラビンの剤形は外用剤だけではない（点滴静注用もある）",
+    "x": 0
+   },
+   {
+    "t": "Vildagliptin",
+    "u": "/drugs/vildagliptin/",
+    "l": "L5",
+    "i": "focal stiff limb syndrome",
+    "lt": 19,
+    "lv": 19,
+    "r": 3,
+    "rs": "削除：「承認整理の経緯」",
     "x": 0
    },
    {
@@ -976,17 +1240,6 @@
     "lv": 19,
     "r": 2,
     "rs": "削除：「取消の理由を含む」",
-    "x": 0
-   },
-   {
-    "t": "Acyclovir",
-    "u": "/drugs/acyclovir/",
-    "l": "L5",
-    "i": "punctate epithelial keratoconjunctivitis",
-    "lt": 0,
-    "lv": 18,
-    "r": 1,
-    "rs": "削除：「現在、日本で販売中の承認はなし」",
     "x": 0
    },
    {
@@ -1045,17 +1298,6 @@
     "x": 0
    },
    {
-    "t": "Fexofenadine",
-    "u": "/drugs/fexofenadine/",
-    "l": "L5",
-    "i": "rosacea conjunctivitis",
-    "lt": 0,
-    "lv": 18,
-    "r": 0,
-    "rs": "",
-    "x": 0
-   },
-   {
     "t": "Fluconazole",
     "u": "/drugs/fluconazole/",
     "l": "L5",
@@ -1078,14 +1320,25 @@
     "x": 0
    },
    {
-    "t": "Imatinib",
-    "u": "/drugs/imatinib/",
+    "t": "Heparin",
+    "u": "/drugs/heparin/",
     "l": "L5",
-    "i": "心臓線維肉腫",
+    "i": "常染色体劣性プロテインC欠損による血栓性素因",
     "lt": 0,
     "lv": 18,
     "r": 1,
     "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
+    "x": 0
+   },
+   {
+    "t": "Ibuprofen",
+    "u": "/drugs/ibuprofen/",
+    "l": "L5",
+    "i": "先端中間異形成 Hunter-Thompson 型",
+    "lt": 20,
+    "lv": 18,
+    "r": 3,
+    "rs": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
     "x": 0
    },
    {
@@ -1100,50 +1353,6 @@
     "x": 0
    },
    {
-    "t": "Levofloxacin",
-    "u": "/drugs/levofloxacin/",
-    "l": "L5",
-    "i": "点状表層角結膜炎",
-    "lt": 0,
-    "lv": 18,
-    "r": 1,
-    "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
-    "x": 0
-   },
-   {
-    "t": "Lidocaine",
-    "u": "/drugs/lidocaine/",
-    "l": "L5",
-    "i": "点状表層角結膜炎",
-    "lt": 0,
-    "lv": 18,
-    "r": 1,
-    "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
-    "x": 0
-   },
-   {
-    "t": "Miglitol",
-    "u": "/drugs/miglitol/",
-    "l": "L5",
-    "i": "focal stiff limb syndrome",
-    "lt": 0,
-    "lv": 18,
-    "r": 1,
-    "rs": "削除：「日本では全承認が整理済みで、現在市販されている製剤もありません」",
-    "x": 0
-   },
-   {
-    "t": "Morphine",
-    "u": "/drugs/morphine/",
-    "l": "L5",
-    "i": "筋筋膜性疼痛症候群",
-    "lt": 0,
-    "lv": 18,
-    "r": 1,
-    "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
-    "x": 0
-   },
-   {
     "t": "Naftopidil",
     "u": "/drugs/naftopidil/",
     "l": "L5",
@@ -1152,6 +1361,17 @@
     "lv": 18,
     "r": 2,
     "rs": "削除：「現在有効な承認はなく、20 件すべてが整理済みです」",
+    "x": 0
+   },
+   {
+    "t": "Nitrazepam",
+    "u": "/drugs/nitrazepam/",
+    "l": "L5",
+    "i": "Wernicke-Korsakoff syndrome",
+    "lt": 22,
+    "lv": 18,
+    "r": 2,
+    "rs": "削除：「と取消の経緯」",
     "x": 0
    },
    {
@@ -1177,17 +1397,6 @@
     "x": 0
    },
    {
-    "t": "Rosuvastatin",
-    "u": "/drugs/rosuvastatin/",
-    "l": "L5",
-    "i": "コレステロールエステル転送蛋白欠損症",
-    "lt": 0,
-    "lv": 18,
-    "r": 1,
-    "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
-    "x": 0
-   },
-   {
     "t": "Tamsulosin",
     "u": "/drugs/tamsulosin/",
     "l": "L5",
@@ -1210,14 +1419,14 @@
     "x": 0
    },
    {
-    "t": "Theophylline",
-    "u": "/drugs/theophylline/",
+    "t": "Tranilast",
+    "u": "/drugs/tranilast/",
     "l": "L5",
-    "i": "血栓性疾患",
-    "lt": 0,
+    "i": "seborrheic keratosis",
+    "lt": 21,
     "lv": 18,
-    "r": 1,
-    "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
+    "r": 3,
+    "rs": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
     "x": 0
    },
    {
@@ -1236,17 +1445,6 @@
     "u": "/drugs/cetirizine/",
     "l": "L5",
     "i": "鼻腔疾患",
-    "lt": 0,
-    "lv": 17,
-    "r": 1,
-    "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
-    "x": 0
-   },
-   {
-    "t": "Diclofenac",
-    "u": "/drugs/diclofenac/",
-    "l": "L5",
-    "i": "頭皮の単純性乏毛症",
     "lt": 0,
     "lv": 17,
     "r": 1,
@@ -1276,28 +1474,6 @@
     "x": 0
    },
    {
-    "t": "Granisetron",
-    "u": "/drugs/granisetron/",
-    "l": "L5",
-    "i": "躁病性双極性感情障害",
-    "lt": 0,
-    "lv": 17,
-    "r": 3,
-    "rs": "削除：「また、日本の承認は全件が取消済みで、添付文書の警告・禁忌も確認できていません」",
-    "x": 0
-   },
-   {
-    "t": "Ketoprofen",
-    "u": "/drugs/ketoprofen/",
-    "l": "L5",
-    "i": "acromesomelic dysplasia, Hunter-Thompson type",
-    "lt": 0,
-    "lv": 17,
-    "r": 1,
-    "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
-    "x": 0
-   },
-   {
     "t": "Lansoprazole",
     "u": "/drugs/lansoprazole/",
     "l": "L5",
@@ -1314,17 +1490,6 @@
     "l": "L5",
     "i": "原因が不明確な多因子性の肺高血圧症",
     "lt": 18,
-    "lv": 17,
-    "r": 1,
-    "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
-    "x": 0
-   },
-   {
-    "t": "Loxoprofen",
-    "u": "/drugs/loxoprofen/",
-    "l": "L5",
-    "i": "colobomatous microphthalmia-rhizomelic dysplasia syndrome",
-    "lt": 0,
     "lv": 17,
     "r": 1,
     "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
@@ -1364,28 +1529,6 @@
     "x": 0
    },
    {
-    "t": "Thiamine",
-    "u": "/drugs/thiamine/",
-    "l": "L5",
-    "i": "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta",
-    "lt": 19,
-    "lv": 17,
-    "r": 1,
-    "rs": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
-    "x": 0
-   },
-   {
-    "t": "Tranilast",
-    "u": "/drugs/tranilast/",
-    "l": "L5",
-    "i": "seborrheic keratosis",
-    "lt": 20,
-    "lv": 17,
-    "r": 3,
-    "rs": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
-    "x": 0
-   },
-   {
     "t": "Voglibose",
     "u": "/drugs/voglibose/",
     "l": "L5",
@@ -1419,14 +1562,14 @@
     "x": 0
    },
    {
-    "t": "Budesonide",
-    "u": "/drugs/budesonide/",
+    "t": "Azithromycin",
+    "u": "/drugs/azithromycin/",
     "l": "L5",
-    "i": "アトピー性湿疹",
+    "i": "hyperamylasemia",
     "lt": 16,
     "lv": 16,
-    "r": 3,
-    "rs": "訂正：ブデソニドの国内製剤は吸入剤だけではない",
+    "r": 2,
+    "rs": "削除：「日本での承認状況（失効扱いの理由、現在の流通状況）の再確認」",
     "x": 0
    },
    {
@@ -1441,17 +1584,6 @@
     "x": 0
    },
    {
-    "t": "Nitrazepam",
-    "u": "/drugs/nitrazepam/",
-    "l": "L5",
-    "i": "Wernicke-Korsakoff syndrome",
-    "lt": 20,
-    "lv": 16,
-    "r": 2,
-    "rs": "削除：「と取消の経緯」",
-    "x": 0
-   },
-   {
     "t": "Simvastatin",
     "u": "/drugs/simvastatin/",
     "l": "L5",
@@ -1463,25 +1595,36 @@
     "x": 0
    },
    {
-    "t": "Vildagliptin",
-    "u": "/drugs/vildagliptin/",
+    "t": "Prasugrel",
+    "u": "/drugs/prasugrel/",
     "l": "L5",
-    "i": "focal stiff limb syndrome",
-    "lt": 16,
-    "lv": 16,
-    "r": 3,
-    "rs": "削除：「承認整理の経緯」",
-    "x": 0
-   },
-   {
-    "t": "Azithromycin",
-    "u": "/drugs/azithromycin/",
-    "l": "L5",
-    "i": "hyperamylasemia",
+    "i": "pulmonary hypertension",
     "lt": 15,
     "lv": 15,
     "r": 2,
-    "rs": "削除：「日本での承認状況（失効扱いの理由、現在の流通状況）の再確認」",
+    "rs": "削除：「日本で承認が取消されている経緯の確認と、供給体制の検討」",
+    "x": 0
+   },
+   {
+    "t": "Sulpiride",
+    "u": "/drugs/sulpiride/",
+    "l": "L5",
+    "i": "網膜ジストロフィー",
+    "lt": 0,
+    "lv": 15,
+    "r": 3,
+    "rs": "削除：「承認整理済みの経緯を含む」",
+    "x": 0
+   },
+   {
+    "t": "Vancomycin",
+    "u": "/drugs/vancomycin/",
+    "l": "L5",
+    "i": "diffuse scleroderma",
+    "lt": 15,
+    "lv": 15,
+    "r": 1,
+    "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
     "x": 0
    },
    {
@@ -1496,11 +1639,33 @@
     "x": 0
    },
    {
+    "t": "Amoxicillin",
+    "u": "/drugs/amoxicillin/",
+    "l": "L5",
+    "i": "ポリクローナル高粘稠度症候群",
+    "lt": 16,
+    "lv": 14,
+    "r": 2,
+    "rs": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
+    "x": 0
+   },
+   {
     "t": "Levothyroxine",
     "u": "/drugs/levothyroxine/",
     "l": "L5",
     "i": "腎低形成/無形成",
     "lt": 14,
+    "lv": 14,
+    "r": 1,
+    "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
+    "x": 0
+   },
+   {
+    "t": "Metoclopramide",
+    "u": "/drugs/metoclopramide/",
+    "l": "L5",
+    "i": "胃十二指腸炎",
+    "lt": 15,
     "lv": 14,
     "r": 1,
     "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
@@ -1518,58 +1683,25 @@
     "x": 0
    },
    {
-    "t": "Valproic Acid",
-    "u": "/drugs/valproic-acid/",
+    "t": "Metoprolol",
+    "u": "/drugs/metoprolol/",
     "l": "L5",
-    "i": "trigeminal nerve neoplasm",
+    "i": "悪性高血圧性腎疾患",
     "lt": 16,
-    "lv": 14,
-    "r": 4,
-    "rs": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
-    "x": 0
-   },
-   {
-    "t": "Amoxicillin",
-    "u": "/drugs/amoxicillin/",
-    "l": "L5",
-    "i": "ポリクローナル高粘稠度症候群",
-    "lt": 15,
     "lv": 13,
     "r": 2,
     "rs": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
     "x": 0
    },
    {
-    "t": "Indomethacin",
-    "u": "/drugs/indomethacin/",
+    "t": "Phenytoin",
+    "u": "/drugs/phenytoin/",
     "l": "L5",
-    "i": "brachydactyly-syndactyly syndrome",
-    "lt": 15,
+    "i": "trigeminal nerve neoplasm",
+    "lt": 13,
     "lv": 13,
-    "r": 4,
-    "rs": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
-    "x": 0
-   },
-   {
-    "t": "Methotrexate",
-    "u": "/drugs/methotrexate/",
-    "l": "L5",
-    "i": "肺芽腫",
-    "lt": 15,
-    "lv": 13,
-    "r": 4,
-    "rs": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
-    "x": 0
-   },
-   {
-    "t": "Sulpiride",
-    "u": "/drugs/sulpiride/",
-    "l": "L5",
-    "i": "網膜ジストロフィー",
-    "lt": 0,
-    "lv": 13,
-    "r": 3,
-    "rs": "削除：「承認整理済みの経緯を含む」",
+    "r": 2,
+    "rs": "削除：「エビデンスはモデル予測のみ（L5）で、日本ではすべての承認が整理済みです」",
     "x": 0
    },
    {
@@ -1606,50 +1738,6 @@
     "x": 0
    },
    {
-    "t": "Mesalazine",
-    "u": "/drugs/mesalazine/",
-    "l": "L5",
-    "i": "congenital hypotrichosis with juvenile macular dystrophy",
-    "lt": 13,
-    "lv": 12,
-    "r": 3,
-    "rs": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
-    "x": 0
-   },
-   {
-    "t": "Metoclopramide",
-    "u": "/drugs/metoclopramide/",
-    "l": "L5",
-    "i": "胃十二指腸炎",
-    "lt": 13,
-    "lv": 12,
-    "r": 1,
-    "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
-    "x": 0
-   },
-   {
-    "t": "Prasugrel",
-    "u": "/drugs/prasugrel/",
-    "l": "L5",
-    "i": "pulmonary hypertension",
-    "lt": 12,
-    "lv": 12,
-    "r": 2,
-    "rs": "削除：「日本で承認が取消されている経緯の確認と、供給体制の検討」",
-    "x": 0
-   },
-   {
-    "t": "Vancomycin",
-    "u": "/drugs/vancomycin/",
-    "l": "L5",
-    "i": "diffuse scleroderma",
-    "lt": 12,
-    "lv": 12,
-    "r": 1,
-    "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
-    "x": 0
-   },
-   {
     "t": "Anastrozole",
     "u": "/drugs/anastrozole/",
     "l": "L5",
@@ -1658,6 +1746,17 @@
     "lv": 11,
     "r": 1,
     "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
+    "x": 0
+   },
+   {
+    "t": "Biperiden",
+    "u": "/drugs/biperiden/",
+    "l": "L5",
+    "i": "Rasmussen 亜急性脳炎",
+    "lt": 11,
+    "lv": 11,
+    "r": 4,
+    "rs": "削除：「日本での承認状況（取消の経緯、再承認の可能性）の確認」",
     "x": 0
    },
    {
@@ -1672,22 +1771,22 @@
     "x": 0
    },
    {
-    "t": "Metoprolol",
-    "u": "/drugs/metoprolol/",
+    "t": "Nadifloxacin",
+    "u": "/drugs/nadifloxacin/",
     "l": "L5",
-    "i": "悪性高血圧性腎疾患",
-    "lt": 14,
+    "i": "malaria",
+    "lt": 11,
     "lv": 11,
-    "r": 2,
-    "rs": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
+    "r": 1,
+    "rs": "削除：「本剤は外用剤で、日本の承認も整理済みのため、全身性疾患への再利用には大きな課題があります」",
     "x": 0
    },
    {
-    "t": "Nicardipine",
-    "u": "/drugs/nicardipine/",
+    "t": "Oxybutynin",
+    "u": "/drugs/oxybutynin/",
     "l": "L5",
-    "i": "pulmonary hypertension with unclear multifactorial mechanism",
-    "lt": 12,
+    "i": "restless legs syndrome",
+    "lt": 14,
     "lv": 11,
     "r": 3,
     "rs": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
@@ -1702,6 +1801,28 @@
     "lv": 11,
     "r": 3,
     "rs": "削除：「なく、日本では有効な承認が現在」",
+    "x": 0
+   },
+   {
+    "t": "Tramadol",
+    "u": "/drugs/tramadol/",
+    "l": "L5",
+    "i": "先端中節骨異形成症 Hunter-Thompson 型",
+    "lt": 11,
+    "lv": 11,
+    "r": 1,
+    "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
+    "x": 0
+   },
+   {
+    "t": "Trihexyphenidyl",
+    "u": "/drugs/trihexyphenidyl/",
+    "l": "L5",
+    "i": "注意欠如・多動症",
+    "lt": 12,
+    "lv": 11,
+    "r": 3,
+    "rs": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
     "x": 0
    },
    {
@@ -1738,6 +1859,28 @@
     "x": 0
    },
    {
+    "t": "Bromazepam",
+    "u": "/drugs/bromazepam/",
+    "l": "L5",
+    "i": "migraine disorder",
+    "lt": 13,
+    "lv": 10,
+    "r": 3,
+    "rs": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
+    "x": 0
+   },
+   {
+    "t": "Bromperidol",
+    "u": "/drugs/bromperidol/",
+    "l": "L5",
+    "i": "insomnia (disease)",
+    "lt": 10,
+    "lv": 10,
+    "r": 4,
+    "rs": "削除：「販売中の製剤がない現状を踏まえ」",
+    "x": 0
+   },
+   {
     "t": "Fenofibrate",
     "u": "/drugs/fenofibrate/",
     "l": "L5",
@@ -1760,6 +1903,17 @@
     "x": 0
    },
    {
+    "t": "Flurbiprofen",
+    "u": "/drugs/flurbiprofen/",
+    "l": "L5",
+    "i": "先端中間肢異形成症 ハンター・トンプソン型",
+    "lt": 14,
+    "lv": 10,
+    "r": 4,
+    "rs": "訂正：日本の剤形はテープ剤だけではない（パップ剤・経口錠もある）",
+    "x": 0
+   },
+   {
     "t": "Gemcitabine",
     "u": "/drugs/gemcitabine/",
     "l": "L5",
@@ -1768,6 +1922,28 @@
     "lv": 10,
     "r": 1,
     "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
+    "x": 0
+   },
+   {
+    "t": "Perampanel",
+    "u": "/drugs/perampanel/",
+    "l": "L5",
+    "i": "beta-ketothiolase deficiency",
+    "lt": 10,
+    "lv": 10,
+    "r": 1,
+    "rs": "削除：「日本での承認状況の再確認（取り消しの経緯を含む」",
+    "x": 0
+   },
+   {
+    "t": "Tetracycline",
+    "u": "/drugs/tetracycline/",
+    "l": "L5",
+    "i": "punctate epithelial keratoconjunctivitis",
+    "lt": 10,
+    "lv": 10,
+    "r": 2,
+    "rs": "削除：「いずれも承認は取消済みです。ほかに歯科用軟膏（承認番号 620002329）も取消済みです」",
     "x": 0
    },
    {
@@ -1782,17 +1958,6 @@
     "x": 0
    },
    {
-    "t": "Vidarabine",
-    "u": "/drugs/vidarabine/",
-    "l": "L5",
-    "i": "actinic cheilitis",
-    "lt": 12,
-    "lv": 10,
-    "r": 4,
-    "rs": "訂正：ビダラビンの剤形は外用剤だけではない（点滴静注用もある）",
-    "x": 0
-   },
-   {
     "t": "Azosemide",
     "u": "/drugs/azosemide/",
     "l": "L5",
@@ -1801,28 +1966,6 @@
     "lv": 9,
     "r": 2,
     "rs": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
-    "x": 0
-   },
-   {
-    "t": "Biperiden",
-    "u": "/drugs/biperiden/",
-    "l": "L5",
-    "i": "Rasmussen 亜急性脳炎",
-    "lt": 9,
-    "lv": 9,
-    "r": 4,
-    "rs": "削除：「日本での承認状況（取消の経緯、再承認の可能性）の確認」",
-    "x": 0
-   },
-   {
-    "t": "Bromperidol",
-    "u": "/drugs/bromperidol/",
-    "l": "L5",
-    "i": "insomnia (disease)",
-    "lt": 9,
-    "lv": 9,
-    "r": 4,
-    "rs": "削除：「販売中の製剤がない現状を踏まえ」",
     "x": 0
    },
    {
@@ -1837,6 +1980,17 @@
     "x": 0
    },
    {
+    "t": "Loperamide",
+    "u": "/drugs/loperamide/",
+    "l": "L5",
+    "i": "acute contagious conjunctivitis",
+    "lt": 10,
+    "lv": 9,
+    "r": 3,
+    "rs": "削除：「日本では販売中の承認がなく、安全性情報も不足しています」",
+    "x": 0
+   },
+   {
     "t": "Methylprednisolone",
     "u": "/drugs/methylprednisolone/",
     "l": "L5",
@@ -1848,14 +2002,14 @@
     "x": 0
    },
    {
-    "t": "Oxybutynin",
-    "u": "/drugs/oxybutynin/",
+    "t": "Minocycline",
+    "u": "/drugs/minocycline/",
     "l": "L5",
-    "i": "restless legs syndrome",
-    "lt": 12,
+    "i": "punctate epithelial keratoconjunctivitis",
+    "lt": 9,
     "lv": 9,
-    "r": 3,
-    "rs": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
+    "r": 2,
+    "rs": "削除：「日本での承認整理の経緯と、再導入の可能性を確認する」",
     "x": 0
    },
    {
@@ -1867,17 +2021,6 @@
     "lv": 9,
     "r": 2,
     "rs": "削除：「日本では現在、有効な承認はなく、9 件すべてが取消済みです」",
-    "x": 0
-   },
-   {
-    "t": "Trihexyphenidyl",
-    "u": "/drugs/trihexyphenidyl/",
-    "l": "L5",
-    "i": "注意欠如・多動症",
-    "lt": 10,
-    "lv": 9,
-    "r": 3,
-    "rs": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
     "x": 0
    },
    {
@@ -1903,36 +2046,36 @@
     "x": 0
    },
    {
-    "t": "Felbinac",
-    "u": "/drugs/felbinac/",
+    "t": "Menatetrenone",
+    "u": "/drugs/menatetrenone/",
     "l": "L5",
-    "i": "brachyolmia-amelogenesis imperfecta syndrome",
-    "lt": 9,
-    "lv": 8,
-    "r": 2,
-    "rs": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
-    "x": 0
-   },
-   {
-    "t": "Ibuprofen",
-    "u": "/drugs/ibuprofen/",
-    "l": "L5",
-    "i": "先端中間異形成 Hunter-Thompson 型",
+    "i": "結膜脂肪腫",
     "lt": 10,
     "lv": 8,
-    "r": 3,
+    "r": 4,
+    "rs": "訂正：メナテトレノンの国内製剤は経口カプセルだけではない",
+    "x": 10
+   },
+   {
+    "t": "Propranolol",
+    "u": "/drugs/propranolol/",
+    "l": "L5",
+    "i": "遠位型ミオパチー・舘山型",
+    "lt": 9,
+    "lv": 8,
+    "r": 4,
     "rs": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
     "x": 0
    },
    {
-    "t": "Phenytoin",
-    "u": "/drugs/phenytoin/",
+    "t": "Teriparatide",
+    "u": "/drugs/teriparatide/",
     "l": "L5",
-    "i": "trigeminal nerve neoplasm",
+    "i": "duodenal ulcer (disease)",
     "lt": 8,
     "lv": 8,
-    "r": 2,
-    "rs": "削除：「エビデンスはモデル予測のみ（L5）で、日本ではすべての承認が整理済みです」",
+    "r": 1,
+    "rs": "削除：「日本では現在有効な承認がなく、市販状況の面でも制約があります」",
     "x": 0
    },
    {
@@ -1944,6 +2087,17 @@
     "lv": 7,
     "r": 4,
     "rs": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
+    "x": 0
+   },
+   {
+    "t": "Clotrimazole",
+    "u": "/drugs/clotrimazole/",
+    "l": "L5",
+    "i": "尋常性ざ瘡",
+    "lt": 7,
+    "lv": 7,
+    "r": 1,
+    "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
     "x": 0
    },
    {
@@ -2035,24 +2189,24 @@
     "x": 5
    },
    {
-    "t": "Loperamide",
-    "u": "/drugs/loperamide/",
+    "t": "Paclitaxel",
+    "u": "/drugs/paclitaxel/",
     "l": "L5",
-    "i": "acute contagious conjunctivitis",
-    "lt": 8,
+    "i": "parameningeal embryonal rhabdomyosarcoma",
+    "lt": 13,
     "lv": 7,
     "r": 3,
-    "rs": "削除：「日本では販売中の承認がなく、安全性情報も不足しています」",
+    "rs": "削除：「また、日本での有効な承認は現在ありません」",
     "x": 0
    },
    {
-    "t": "Propranolol",
-    "u": "/drugs/propranolol/",
+    "t": "Sulfasalazine",
+    "u": "/drugs/sulfasalazine/",
     "l": "L5",
-    "i": "遠位型ミオパチー・舘山型",
-    "lt": 8,
+    "i": "合指（趾）症を伴う短指症候群",
+    "lt": 12,
     "lv": 7,
-    "r": 4,
+    "r": 3,
     "rs": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
     "x": 0
    },
@@ -2090,14 +2244,47 @@
     "x": 0
    },
    {
-    "t": "Flurbiprofen",
-    "u": "/drugs/flurbiprofen/",
+    "t": "Estazolam",
+    "u": "/drugs/estazolam/",
     "l": "L5",
-    "i": "先端中間肢異形成症 ハンター・トンプソン型",
-    "lt": 10,
+    "i": "視覚性てんかん",
+    "lt": 7,
     "lv": 6,
-    "r": 4,
-    "rs": "訂正：日本の剤形はテープ剤だけではない（パップ剤・経口錠もある）",
+    "r": 1,
+    "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
+    "x": 0
+   },
+   {
+    "t": "Etoposide",
+    "u": "/drugs/etoposide/",
+    "l": "L5",
+    "i": "高分化型胎児型肺腺癌",
+    "lt": 7,
+    "lv": 6,
+    "r": 1,
+    "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
+    "x": 0
+   },
+   {
+    "t": "Lactulose",
+    "u": "/drugs/lactulose/",
+    "l": "L5",
+    "i": "急性尿酸性腎症",
+    "lt": 8,
+    "lv": 6,
+    "r": 1,
+    "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
+    "x": 0
+   },
+   {
+    "t": "Levodopa",
+    "u": "/drugs/levodopa/",
+    "l": "L5",
+    "i": "ラスムッセン亜急性脳炎",
+    "lt": 7,
+    "lv": 6,
+    "r": 1,
+    "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
     "x": 0
    },
    {
@@ -2109,17 +2296,6 @@
     "lv": 6,
     "r": 2,
     "rs": "訂正：日本の製剤は点眼薬だけではない（経口錠もある）",
-    "x": 0
-   },
-   {
-    "t": "Paclitaxel",
-    "u": "/drugs/paclitaxel/",
-    "l": "L5",
-    "i": "parameningeal embryonal rhabdomyosarcoma",
-    "lt": 12,
-    "lv": 6,
-    "r": 3,
-    "rs": "削除：「また、日本での有効な承認は現在ありません」",
     "x": 0
    },
    {
@@ -2156,17 +2332,6 @@
     "x": 0
    },
    {
-    "t": "Sulfasalazine",
-    "u": "/drugs/sulfasalazine/",
-    "l": "L5",
-    "i": "合指（趾）症を伴う短指症候群",
-    "lt": 11,
-    "lv": 6,
-    "r": 3,
-    "rs": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
-    "x": 0
-   },
-   {
     "t": "Tegafur",
     "u": "/drugs/tegafur/",
     "l": "L5",
@@ -2175,17 +2340,6 @@
     "lv": 6,
     "r": 3,
     "rs": "削除：「単剤か配合剤か、既存の承認状況（取消済み）を踏まえた開発形態の整理」",
-    "x": 0
-   },
-   {
-    "t": "Tetracycline",
-    "u": "/drugs/tetracycline/",
-    "l": "L5",
-    "i": "punctate epithelial keratoconjunctivitis",
-    "lt": 6,
-    "lv": 6,
-    "r": 2,
-    "rs": "削除：「いずれも承認は取消済みです。ほかに歯科用軟膏（承認番号 620002329）も取消済みです」",
     "x": 0
    },
    {
@@ -2211,14 +2365,14 @@
     "x": 0
    },
    {
-    "t": "Tramadol",
-    "u": "/drugs/tramadol/",
+    "t": "Tropicamide",
+    "u": "/drugs/tropicamide/",
     "l": "L5",
-    "i": "先端中節骨異形成症 Hunter-Thompson 型",
-    "lt": 6,
+    "i": "cauda equina syndrome",
+    "lt": 7,
     "lv": 6,
-    "r": 1,
-    "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
+    "r": 3,
+    "rs": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
     "x": 0
    },
    {
@@ -2230,28 +2384,6 @@
     "lv": 6,
     "r": 2,
     "rs": "削除：「承認取消の経緯」",
-    "x": 0
-   },
-   {
-    "t": "Bromazepam",
-    "u": "/drugs/bromazepam/",
-    "l": "L5",
-    "i": "migraine disorder",
-    "lt": 8,
-    "lv": 5,
-    "r": 3,
-    "rs": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
-    "x": 0
-   },
-   {
-    "t": "Clindamycin",
-    "u": "/drugs/clindamycin/",
-    "l": "L5",
-    "i": "点状表層角結膜炎",
-    "lt": 5,
-    "lv": 5,
-    "r": 0,
-    "rs": "",
     "x": 0
    },
    {
@@ -2277,26 +2409,37 @@
     "x": 0
    },
    {
-    "t": "Lactulose",
-    "u": "/drugs/lactulose/",
+    "t": "Itopride",
+    "u": "/drugs/itopride/",
     "l": "L5",
-    "i": "急性尿酸性腎症",
-    "lt": 7,
+    "i": "小腸クローン病",
+    "lt": 6,
     "lv": 5,
-    "r": 1,
-    "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
+    "r": 3,
+    "rs": "削除：「承認取り消しの経緯の確認と、剤形・投与経路の適合性評価」",
     "x": 0
    },
    {
-    "t": "Menatetrenone",
-    "u": "/drugs/menatetrenone/",
+    "t": "Lorazepam",
+    "u": "/drugs/lorazepam/",
     "l": "L5",
-    "i": "結膜脂肪腫",
-    "lt": 7,
+    "i": "三叉神経腫瘍",
+    "lt": 8,
     "lv": 5,
     "r": 4,
-    "rs": "訂正：メナテトレノンの国内製剤は経口カプセルだけではない",
-    "x": 10
+    "rs": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
+    "x": 0
+   },
+   {
+    "t": "Nilotinib",
+    "u": "/drugs/nilotinib/",
+    "l": "L5",
+    "i": "dermatofibrosarcoma protuberans",
+    "lt": 5,
+    "lv": 5,
+    "r": 3,
+    "rs": "削除：「日本での承認取り消しの経緯の確認と、再導入の可能性の検討」",
+    "x": 0
    },
    {
     "t": "Rotigotine",
@@ -2321,14 +2464,14 @@
     "x": 0
    },
    {
-    "t": "Teriparatide",
-    "u": "/drugs/teriparatide/",
+    "t": "Upadacitinib",
+    "u": "/drugs/upadacitinib/",
     "l": "L5",
-    "i": "duodenal ulcer (disease)",
+    "i": "colobomatous microphthalmia-rhizomelic dysplasia syndrome",
     "lt": 5,
     "lv": 5,
-    "r": 1,
-    "rs": "削除：「日本では現在有効な承認がなく、市販状況の面でも制約があります」",
+    "r": 2,
+    "rs": "削除：「日本での承認取り消しの経緯と現在の供給状況の確認」",
     "x": 0
    },
    {
@@ -2343,10 +2486,54 @@
     "x": 0
    },
    {
-    "t": "Clotrimazole",
-    "u": "/drugs/clotrimazole/",
+    "t": "Baricitinib",
+    "u": "/drugs/baricitinib/",
     "l": "L5",
-    "i": "尋常性ざ瘡",
+    "i": "colobomatous microphthalmia-rhizomelic dysplasia syndrome",
+    "lt": 4,
+    "lv": 4,
+    "r": 2,
+    "rs": "削除：「日本での承認取消の経緯と現在の供給状況を確認する」",
+    "x": 0
+   },
+   {
+    "t": "Cabergoline",
+    "u": "/drugs/cabergoline/",
+    "l": "L5",
+    "i": "早老症・低身長・色素性母斑症候群",
+    "lt": 4,
+    "lv": 4,
+    "r": 2,
+    "rs": "訂正：品目一覧は「別途提示」ではなく本ページの表に掲載",
+    "x": 0
+   },
+   {
+    "t": "Ciprofloxacin",
+    "u": "/drugs/ciprofloxacin/",
+    "l": "L5",
+    "i": "びまん性強皮症",
+    "lt": 6,
+    "lv": 4,
+    "r": 1,
+    "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
+    "x": 0
+   },
+   {
+    "t": "Denosumab",
+    "u": "/drugs/denosumab/",
+    "l": "L5",
+    "i": "severe nonproliferative diabetic retinopathy",
+    "lt": 4,
+    "lv": 4,
+    "r": 2,
+    "rs": "削除：「日本での承認状況（取り消しの経緯と現行製品の有無）の再確認」",
+    "x": 0
+   },
+   {
+    "t": "Desloratadine",
+    "u": "/drugs/desloratadine/",
+    "l": "L5",
+    "i": "鼻腔疾患",
     "lt": 4,
     "lv": 4,
     "r": 1,
@@ -2376,25 +2563,14 @@
     "x": 0
    },
    {
-    "t": "Levodopa",
-    "u": "/drugs/levodopa/",
+    "t": "Fluorouracil",
+    "u": "/drugs/fluorouracil/",
     "l": "L5",
-    "i": "ラスムッセン亜急性脳炎",
-    "lt": 5,
+    "i": "botryoid-type embryonal rhabdomyosarcoma of the vagina",
+    "lt": 4,
     "lv": 4,
-    "r": 1,
-    "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
-    "x": 0
-   },
-   {
-    "t": "Lorazepam",
-    "u": "/drugs/lorazepam/",
-    "l": "L5",
-    "i": "三叉神経腫瘍",
-    "lt": 7,
-    "lv": 4,
-    "r": 4,
-    "rs": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
+    "r": 2,
+    "rs": "削除：「取り消し後の供給状況」",
     "x": 0
    },
    {
@@ -2420,14 +2596,14 @@
     "x": 0
    },
    {
-    "t": "Perampanel",
-    "u": "/drugs/perampanel/",
+    "t": "Salbutamol",
+    "u": "/drugs/salbutamol/",
     "l": "L5",
-    "i": "beta-ketothiolase deficiency",
+    "i": "papillary conjunctivitis",
     "lt": 4,
     "lv": 4,
-    "r": 1,
-    "rs": "削除：「日本での承認状況の再確認（取り消しの経緯を含む」",
+    "r": 2,
+    "rs": "削除：「日本の承認も取り消し済みで、結膜への適用に向けた剤形（点眼など）も整っていません」",
     "x": 0
    },
    {
@@ -2453,17 +2629,6 @@
     "x": 0
    },
    {
-    "t": "Upadacitinib",
-    "u": "/drugs/upadacitinib/",
-    "l": "L5",
-    "i": "colobomatous microphthalmia-rhizomelic dysplasia syndrome",
-    "lt": 4,
-    "lv": 4,
-    "r": 2,
-    "rs": "削除：「日本での承認取り消しの経緯と現在の供給状況の確認」",
-    "x": 0
-   },
-   {
     "t": "Vonoprazan",
     "u": "/drugs/vonoprazan/",
     "l": "L5",
@@ -2475,6 +2640,17 @@
     "x": 0
    },
    {
+    "t": "Ascorbic Acid",
+    "u": "/drugs/ascorbic-acid/",
+    "l": "L5",
+    "i": "non-syndromic esophageal malformation",
+    "lt": 3,
+    "lv": 3,
+    "r": 1,
+    "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
+    "x": 0
+   },
+   {
     "t": "Azathioprine",
     "u": "/drugs/azathioprine/",
     "l": "L5",
@@ -2483,17 +2659,6 @@
     "lv": 3,
     "r": 3,
     "rs": "削除：「日本での承認が全て失効している点の確認」",
-    "x": 0
-   },
-   {
-    "t": "Baricitinib",
-    "u": "/drugs/baricitinib/",
-    "l": "L5",
-    "i": "colobomatous microphthalmia-rhizomelic dysplasia syndrome",
-    "lt": 3,
-    "lv": 3,
-    "r": 2,
-    "rs": "削除：「日本での承認取消の経緯と現在の供給状況を確認する」",
     "x": 0
    },
    {
@@ -2530,28 +2695,6 @@
     "x": 0
    },
    {
-    "t": "Estazolam",
-    "u": "/drugs/estazolam/",
-    "l": "L5",
-    "i": "視覚性てんかん",
-    "lt": 4,
-    "lv": 3,
-    "r": 1,
-    "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
-    "x": 0
-   },
-   {
-    "t": "Etoposide",
-    "u": "/drugs/etoposide/",
-    "l": "L5",
-    "i": "高分化型胎児型肺腺癌",
-    "lt": 4,
-    "lv": 3,
-    "r": 1,
-    "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
-    "x": 0
-   },
-   {
     "t": "Flutamide",
     "u": "/drugs/flutamide/",
     "l": "L5",
@@ -2563,14 +2706,14 @@
     "x": 0
    },
    {
-    "t": "Itopride",
-    "u": "/drugs/itopride/",
+    "t": "Golimumab",
+    "u": "/drugs/golimumab/",
     "l": "L5",
-    "i": "小腸クローン病",
-    "lt": 4,
+    "i": "尾骨過可動症",
+    "lt": 3,
     "lv": 3,
-    "r": 3,
-    "rs": "削除：「承認取り消しの経緯の確認と、剤形・投与経路の適合性評価」",
+    "r": 1,
+    "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
     "x": 0
    },
    {
@@ -2596,28 +2739,6 @@
     "x": 0
    },
    {
-    "t": "Lithium Citrate",
-    "u": "/drugs/lithium-citrate/",
-    "l": "L5",
-    "i": "Malan 過成長症候群",
-    "lt": 4,
-    "lv": 3,
-    "r": 4,
-    "rs": "訂正：上表の品目は炭酸リチウム製剤（「含めていません」ではない）",
-    "x": 0
-   },
-   {
-    "t": "Minocycline",
-    "u": "/drugs/minocycline/",
-    "l": "L5",
-    "i": "punctate epithelial keratoconjunctivitis",
-    "lt": 3,
-    "lv": 3,
-    "r": 2,
-    "rs": "削除：「日本での承認整理の経緯と、再導入の可能性を確認する」",
-    "x": 0
-   },
-   {
     "t": "Naratriptan",
     "u": "/drugs/naratriptan/",
     "l": "L5",
@@ -2637,6 +2758,17 @@
     "lv": 3,
     "r": 1,
     "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
+    "x": 0
+   },
+   {
+    "t": "Propylthiouracil",
+    "u": "/drugs/propylthiouracil/",
+    "l": "L5",
+    "i": "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta",
+    "lt": 3,
+    "lv": 3,
+    "r": 3,
+    "rs": "削除：「日本で販売承認が取り消された経緯と、現在の入手経路の確認」",
     "x": 0
    },
    {
@@ -2684,17 +2816,6 @@
     "x": 0
    },
    {
-    "t": "Tropicamide",
-    "u": "/drugs/tropicamide/",
-    "l": "L5",
-    "i": "cauda equina syndrome",
-    "lt": 4,
-    "lv": 3,
-    "r": 3,
-    "rs": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
-    "x": 0
-   },
-   {
     "t": "Venetoclax",
     "u": "/drugs/venetoclax/",
     "l": "L5",
@@ -2703,28 +2824,6 @@
     "lv": 3,
     "r": 1,
     "rs": "削除：「日本での承認整理の経緯と現在の供給・承認状況の確認」",
-    "x": 0
-   },
-   {
-    "t": "Alfacalcidol",
-    "u": "/drugs/alfacalcidol/",
-    "l": "L5",
-    "i": "craniofacial conodysplasia",
-    "lt": 2,
-    "lv": 2,
-    "r": 1,
-    "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
-    "x": 0
-   },
-   {
-    "t": "Ascorbic Acid",
-    "u": "/drugs/ascorbic-acid/",
-    "l": "L5",
-    "i": "non-syndromic esophageal malformation",
-    "lt": 2,
-    "lv": 2,
-    "r": 1,
-    "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
     "x": 0
    },
    {
@@ -2761,17 +2860,6 @@
     "x": 0
    },
    {
-    "t": "Cabergoline",
-    "u": "/drugs/cabergoline/",
-    "l": "L5",
-    "i": "早老症・低身長・色素性母斑症候群",
-    "lt": 2,
-    "lv": 2,
-    "r": 2,
-    "rs": "訂正：品目一覧は「別途提示」ではなく本ページの表に掲載",
-    "x": 0
-   },
-   {
     "t": "Cabozantinib",
     "u": "/drugs/cabozantinib/",
     "l": "L5",
@@ -2805,17 +2893,6 @@
     "x": 0
    },
    {
-    "t": "Ciprofloxacin",
-    "u": "/drugs/ciprofloxacin/",
-    "l": "L5",
-    "i": "びまん性強皮症",
-    "lt": 4,
-    "lv": 2,
-    "r": 1,
-    "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
-    "x": 0
-   },
-   {
     "t": "Crizotinib",
     "u": "/drugs/crizotinib/",
     "l": "L5",
@@ -2846,17 +2923,6 @@
     "lv": 2,
     "r": 1,
     "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
-    "x": 0
-   },
-   {
-    "t": "Denosumab",
-    "u": "/drugs/denosumab/",
-    "l": "L5",
-    "i": "severe nonproliferative diabetic retinopathy",
-    "lt": 2,
-    "lv": 2,
-    "r": 2,
-    "rs": "削除：「日本での承認状況（取り消しの経緯と現行製品の有無）の再確認」",
     "x": 0
    },
    {
@@ -2915,21 +2981,21 @@
     "x": 0
    },
    {
-    "t": "Fluorouracil",
-    "u": "/drugs/fluorouracil/",
+    "t": "Ethosuximide",
+    "u": "/drugs/ethosuximide/",
     "l": "L5",
-    "i": "botryoid-type embryonal rhabdomyosarcoma of the vagina",
+    "i": "nephrogenic syndrome of inappropriate antidiuresis",
     "lt": 2,
     "lv": 2,
-    "r": 2,
-    "rs": "削除：「取り消し後の供給状況」",
+    "r": 3,
+    "rs": "削除：「日本では承認が失効しており、現時点でこの方向性を進める根拠は不十分です」",
     "x": 0
    },
    {
-    "t": "Golimumab",
-    "u": "/drugs/golimumab/",
+    "t": "Imipenem",
+    "u": "/drugs/imipenem/",
     "l": "L5",
-    "i": "尾骨過可動症",
+    "i": "びまん性強皮症",
     "lt": 2,
     "lv": 2,
     "r": 1,
@@ -2970,6 +3036,17 @@
     "x": 0
    },
    {
+    "t": "Luliconazole",
+    "u": "/drugs/luliconazole/",
+    "l": "L5",
+    "i": "毛内菌感染症",
+    "lt": 2,
+    "lv": 2,
+    "r": 1,
+    "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
+    "x": 0
+   },
+   {
     "t": "Ozenoxacin",
     "u": "/drugs/ozenoxacin/",
     "l": "L5",
@@ -3003,17 +3080,6 @@
     "x": 0
    },
    {
-    "t": "Propylthiouracil",
-    "u": "/drugs/propylthiouracil/",
-    "l": "L5",
-    "i": "resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta",
-    "lt": 2,
-    "lv": 2,
-    "r": 3,
-    "rs": "削除：「日本で販売承認が取り消された経緯と、現在の入手経路の確認」",
-    "x": 0
-   },
-   {
     "t": "Rasagiline",
     "u": "/drugs/rasagiline/",
     "l": "L5",
@@ -3022,17 +3088,6 @@
     "lv": 2,
     "r": 3,
     "rs": "削除：「日本での承認取消の経緯の確認と、投与経路の適合性評価」",
-    "x": 0
-   },
-   {
-    "t": "Salbutamol",
-    "u": "/drugs/salbutamol/",
-    "l": "L5",
-    "i": "papillary conjunctivitis",
-    "lt": 2,
-    "lv": 2,
-    "r": 2,
-    "rs": "削除：「日本の承認も取り消し済みで、結膜への適用に向けた剤形（点眼など）も整っていません」",
     "x": 0
    },
    {
@@ -3113,43 +3168,10 @@
     "x": 0
    },
    {
-    "t": "Desloratadine",
-    "u": "/drugs/desloratadine/",
-    "l": "L5",
-    "i": "鼻腔疾患",
-    "lt": 1,
-    "lv": 1,
-    "r": 1,
-    "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
-    "x": 0
-   },
-   {
-    "t": "Ethosuximide",
-    "u": "/drugs/ethosuximide/",
-    "l": "L5",
-    "i": "nephrogenic syndrome of inappropriate antidiuresis",
-    "lt": 1,
-    "lv": 1,
-    "r": 3,
-    "rs": "削除：「日本では承認が失効しており、現時点でこの方向性を進める根拠は不十分です」",
-    "x": 0
-   },
-   {
     "t": "Fusidic Acid",
     "u": "/drugs/fusidic-acid/",
     "l": "L5",
     "i": "露出性角膜炎",
-    "lt": 1,
-    "lv": 1,
-    "r": 1,
-    "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
-    "x": 0
-   },
-   {
-    "t": "Imipenem",
-    "u": "/drugs/imipenem/",
-    "l": "L5",
-    "i": "びまん性強皮症",
     "lt": 1,
     "lv": 1,
     "r": 1,
@@ -3176,39 +3198,6 @@
     "lv": 1,
     "r": 2,
     "rs": "削除：「さらに、日本では承認が取消済みで、全身曝露が得られる剤形もないため、現時点では開発を進める根拠が不十分です」",
-    "x": 0
-   },
-   {
-    "t": "Luliconazole",
-    "u": "/drugs/luliconazole/",
-    "l": "L5",
-    "i": "毛内菌感染症",
-    "lt": 1,
-    "lv": 1,
-    "r": 1,
-    "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
-    "x": 0
-   },
-   {
-    "t": "Nadifloxacin",
-    "u": "/drugs/nadifloxacin/",
-    "l": "L5",
-    "i": "malaria",
-    "lt": 1,
-    "lv": 1,
-    "r": 1,
-    "rs": "削除：「本剤は外用剤で、日本の承認も整理済みのため、全身性疾患への再利用には大きな課題があります」",
-    "x": 0
-   },
-   {
-    "t": "Nilotinib",
-    "u": "/drugs/nilotinib/",
-    "l": "L5",
-    "i": "dermatofibrosarcoma protuberans",
-    "lt": 1,
-    "lv": 1,
-    "r": 3,
-    "rs": "削除：「日本での承認取り消しの経緯の確認と、再導入の可能性の検討」",
     "x": 0
    },
    {
@@ -3297,6 +3286,17 @@
     "lv": 1,
     "r": 1,
     "rs": "「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え",
+    "x": 0
+   },
+   {
+    "t": "Lithium Citrate",
+    "u": "/drugs/lithium-citrate/",
+    "l": "L5",
+    "i": "Malan 過成長症候群",
+    "lt": 0,
+    "lv": 0,
+    "r": 4,
+    "rs": "訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました",
     "x": 0
    },
    {

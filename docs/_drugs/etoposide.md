@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "Etoposide"
 predicted_indications: ["well-differentiated fetal adenocarcinoma of the lung", "primary pulmonary lymphoma", "pulmonary blastoma", "Ewing sarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina", "rhabdomyosarcoma (disease)", "embryonal extrahepatic bile duct rhabdomyosarcoma", "parameningeal embryonal rhabdomyosarcoma", "extrahepatic bile duct rhabdomyosarcoma", "prostate embryonal rhabdomyosarcoma"]
 last_modified_at: 2026-11-24
-description: "Etoposide：予測新適応症は高分化型胎児型肺腺癌 (well-differentiated fetal adenocarcinoma of the lung)（エビデンスレベル L5）。薬価基準の品目：4 件（現在収載 3 件）"
+description: "Etoposide：予測新適応症は高分化型胎児型肺腺癌 (well-differentiated fetal adenocarcinoma of the lung)（エビデンスレベル L5）。薬価基準の品目：7 件（現在収載 6 件）"
 ---
 
 # Etoposide
@@ -50,8 +50,8 @@ TxGNN モデルは**高分化型胎児型肺腺癌 (well-differentiated fetal ad
 | 予測新規適応症 | 高分化型胎児型肺腺癌 (well-differentiated fetal adenocarcinoma of the lung) |
 | TxGNN 予測スコア | 0.9994 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 3 件／全 4 件） |
-| 承認番号数 | 4 件（有効 3 件） |
+| 日本市販状況 | 販売中（有効な承認 6 件／全 7 件） |
+| 承認番号数 | 7 件（有効 6 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -80,6 +80,8 @@ TxGNN モデルは**高分化型胎児型肺腺癌 (well-differentiated fetal ad
 | 622903600 | エトポシド１００ｍｇ５ｍＬ注射液 | 薬価削除（2026-03-31） |
 | 620008173 | エトポシド点滴静注液１００ｍｇ「サンド」 ５ｍＬ | 有効 |
 | 622220501 | エトポシド点滴静注液１００ｍｇ「ＳＮ」 ５ｍＬ | 有効 |
+
+上表はデータ上の 7 件のうち 4 件です。
 
 <!-- licenses:end -->
 

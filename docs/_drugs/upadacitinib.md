@@ -49,8 +49,8 @@ TxGNN モデルは **colobomatous microphthalmia-rhizomelic dysplasia syndrome�
 | 予測新規適応症 | colobomatous microphthalmia-rhizomelic dysplasia syndrome |
 | TxGNN 予測スコア | 0.9961 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 4 件／全 4 件） |
-| 承認番号数 | 4 件（有効 4 件） |
+| 日本市販状況 | 販売中（有効な承認 5 件／全 5 件） |
+| 承認番号数 | 5 件（有効 5 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -72,6 +72,8 @@ TxGNN モデルは **colobomatous microphthalmia-rhizomelic dysplasia syndrome�
 | 622875101 | リンヴォック錠３０ｍｇ | 有効 |
 | 622793901 | リンヴォック錠１５ｍｇ | 有効 |
 
+上表はデータ上の 5 件のうち 4 件です。
+
 <!-- licenses:end -->
 
 ## 安全性に関する考慮事項
@@ -88,7 +90,7 @@ TxGNN モデルは **colobomatous microphthalmia-rhizomelic dysplasia syndrome�
 **決定：Hold**
 
 **理由：**
-予測はモデル計算のみで、臨床試験も文献もなく（L5）、JAK1 阻害と対象疾患を結ぶ機序的根拠も確認できません。また、日本では承認 4 件すべてが有効で販売されていますが、添付文書の警告・禁忌は未確認です。
+予測はモデル計算のみで、臨床試験も文献もなく（L5）、JAK1 阻害と対象疾患を結ぶ機序的根拠も確認できません。また、日本では承認 5 件すべてが有効で販売されていますが、添付文書の警告・禁忌は未確認です。
 
 **進める場合に必要なもの：**
 - PMDA 添付文書の警告・禁忌の取得と解析（安全性スクリーニングの前提となる必須項目）

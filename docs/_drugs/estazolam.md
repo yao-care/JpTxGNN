@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "estazolam"
 predicted_indications: ["visual epilepsy", "alcohol withdrawal delirium", "restless legs syndrome", "myofascial pain syndrome", "audiogenic seizures", "startle epilepsy", "thinking seizures", "micturation-induced seizures", "eating seizures"]
 last_modified_at: 2026-11-24
-description: "Estazolam：予測新適応症は視覚性てんかん (visual epilepsy)（エビデンスレベル L5）。薬価基準の品目：4 件（現在収載 3 件）"
+description: "Estazolam：予測新適応症は視覚性てんかん (visual epilepsy)（エビデンスレベル L5）。薬価基準の品目：7 件（現在収載 6 件）"
 ---
 
 # Estazolam
@@ -50,8 +50,8 @@ TxGNN モデルは**視覚性てんかん (visual epilepsy)** に有効である
 | 予測新規適応症 | 視覚性てんかん (visual epilepsy) |
 | TxGNN 予測スコア | 0.9947 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 3 件／全 4 件） |
-| 承認番号数 | 4 件（有効 3 件） |
+| 日本市販状況 | 販売中（有効な承認 6 件／全 7 件） |
+| 承認番号数 | 7 件（有効 6 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -86,6 +86,8 @@ ChEMBL（EMBL-EBI）に登録されている Estazolam の作用機序（非公�
 | 671120081 | ユーロジン２ｍｇ錠（選） | 有効 |
 | 611120081 | ユーロジン２ｍｇ錠 | 有効 |
 | 610453023 | エスタゾラム錠２ｍｇ「アメル」 | 有効 |
+
+上表はデータ上の 7 件のうち 4 件です。
 
 <!-- licenses:end -->
 

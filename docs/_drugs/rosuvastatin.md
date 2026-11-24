@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-11-24
 monitor_inn: "Rosuvastatin"
 predicted_indications: ["cholesterol-ester transfer protein deficiency", "brain stem infarction", "HIV infectious disease", "hypoalphalipoproteinemia", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "ABri amyloidosis"]
-description: "Rosuvastatin：予測新適応症はコレステロールエステル転送蛋白欠損症 (cholesterol-ester transfer protein deficiency)（エビデンスレベル L5）。薬価基準の品目：20 件以上"
+description: "Rosuvastatin：予測新適応症はコレステロールエステル転送蛋白欠損症 (cholesterol-ester transfer protein deficiency)（エビデンスレベル L5）。薬価基準の品目：22 件以上"
 ---
 
 # Rosuvastatin
@@ -49,8 +49,8 @@ TxGNN モデルは**コレステロールエステル転送蛋白欠損症 (chol
 | 予測新規適応症 | コレステロールエステル転送蛋白欠損症 (cholesterol-ester transfer protein deficiency) |
 | TxGNN 予測スコア | 0.9954 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 18 件以上） |
-| 承認番号数 | 20 件以上 |
+| 日本市販状況 | 販売中（有効な承認 20 件以上） |
+| 承認番号数 | 22 件以上 |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由

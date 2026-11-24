@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "Lactulose"
 predicted_indications: ["acute urate nephropathy", "nephrolithiasis", "obstructive jaundice", "bile duct disease", "biliary tract disease", "hyperphosphatemia (disease)", "exercise-induced malignant hyperthermia", "bile duct neoplasm"]
 last_modified_at: 2026-11-24
-description: "Lactulose：予測新適応症は急性尿酸性腎症 (acute urate nephropathy)（エビデンスレベル L5）。薬価基準の品目：7 件（現在収載 5 件）"
+description: "Lactulose：予測新適応症は急性尿酸性腎症 (acute urate nephropathy)（エビデンスレベル L5）。薬価基準の品目：8 件（現在収載 6 件）"
 ---
 
 # Lactulose
@@ -49,8 +49,8 @@ TxGNN モデルは**急性尿酸性腎症 (acute urate nephropathy)** に有効�
 | 予測新規適応症 | 急性尿酸性腎症 (acute urate nephropathy) |
 | TxGNN 予測スコア | 0.9989 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 5 件／全 7 件） |
-| 承認番号数 | 7 件（有効 5 件） |
+| 日本市販状況 | 販売中（有効な承認 6 件／全 8 件） |
+| 承認番号数 | 8 件（有効 6 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -79,7 +79,7 @@ TxGNN モデルは**急性尿酸性腎症 (acute urate nephropathy)** に有効�
 | 620007126 | ラクツロース・シロップ６０％「コーワ」 | 有効 |
 | 620881402 | ラクツロースシロップ６５％「タカタ」 | 有効 |
 
-上表はデータ上の 7 件のうち 5 件です。
+上表はデータ上の 8 件のうち 5 件です。
 
 <!-- licenses:end -->
 

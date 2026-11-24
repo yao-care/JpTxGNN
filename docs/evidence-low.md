@@ -3,7 +3,7 @@ layout: default
 title: モデル予測のみ
 parent: 医薬品レポート
 nav_order: 3
-description: "本サイト（日本）のエビデンスレベル L5 の 255 品目（例：Adalimumab, Bisoprolol, Cyclosporine）。各品目の主な予測新適応症、医薬品コード（薬価基準収載品目）の件数、確認記録を掲載。"
+description: "本サイト（日本）のエビデンスレベル L5 の 255 品目（例：Loxoprofen, Epinastine, Fexofenadine）。各品目の主な予測新適応症、医薬品コード（薬価基準収載品目）の件数、確認記録を掲載。"
 permalink: /evidence-low/
 ---
 

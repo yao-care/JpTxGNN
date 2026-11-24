@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "Morphine"
 predicted_indications: ["myofascial pain syndrome", "manic bipolar affective disorder", "Tourette syndrome", "restless legs syndrome", "attention deficit hyperactivity disorder, inattentive type", "migraine disorder", "trichotillomania", "methemoglobinemia", "migraine with brainstem aura", "specific developmental disorder"]
 last_modified_at: 2026-11-24
-description: "Morphine：予測新適応症は筋筋膜性疼痛症候群 (myofascial pain syndrome)（エビデンスレベル L5）。薬価基準の品目：20 件以上"
+description: "Morphine：予測新適応症は筋筋膜性疼痛症候群 (myofascial pain syndrome)（エビデンスレベル L5）。薬価基準の品目：34 件以上"
 ---
 
 # Morphine
@@ -49,8 +49,8 @@ TxGNN モデルは**筋筋膜性疼痛症候群 (myofascial pain syndrome)** に
 | 予測新規適応症 | 筋筋膜性疼痛症候群 (myofascial pain syndrome) |
 | TxGNN 予測スコア | 0.9975 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 18 件以上） |
-| 承認番号数 | 20 件以上 |
+| 日本市販状況 | 販売中（有効な承認 32 件以上） |
+| 承認番号数 | 34 件以上 |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由

@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-24
 monitor_inn: "Clotrimazole"
 predicted_indications: ["acne (disease)", "postmenopausal atrophic vaginitis"]
-description: "Clotrimazole：予測新適応症は尋常性ざ瘡 (acne (disease))（エビデンスレベル L5）。薬価基準の品目：4 件（現在収載 4 件）"
+description: "Clotrimazole：予測新適応症は尋常性ざ瘡 (acne (disease))（エビデンスレベル L5）。薬価基準の品目：7 件（現在収載 7 件）"
 ---
 
 # Clotrimazole
@@ -50,8 +50,8 @@ TxGNN モデルは**尋常性ざ瘡 (acne (disease))** に有効である可能�
 | 予測新規適応症 | 尋常性ざ瘡 (acne (disease)) |
 | TxGNN 予測スコア | 0.9986 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 4 件／全 4 件） |
-| 承認番号数 | 4 件（有効 4 件） |
+| 日本市販状況 | 販売中（有効な承認 7 件／全 7 件） |
+| 承認番号数 | 7 件（有効 7 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -78,6 +78,8 @@ TxGNN モデルは**尋常性ざ瘡 (acne (disease))** に有効である可能�
 | 670656601 | エンペシドクリーム１％（選） | 有効 |
 | 620656601 | エンペシドクリーム１％ | 有効 |
 | 620557901 | クロトリマゾール腟錠１００ｍｇ「Ｆ」 | 有効 |
+
+上表はデータ上の 7 件のうち 4 件です。
 
 <!-- licenses:end -->
 

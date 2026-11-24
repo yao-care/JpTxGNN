@@ -50,8 +50,8 @@ TxGNN モデルは**網膜ジストロフィー（retinal dystrophy with or with
 | 予測新規適応症 | 網膜ジストロフィー（retinal dystrophy with or without extraocular anomalies） |
 | TxGNN 予測スコア | 0.9995 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 13 件以上） |
-| 承認番号数 | 20 件以上 |
+| 日本市販状況 | 販売中（有効な承認 15 件以上） |
+| 承認番号数 | 22 件以上 |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由

@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "Imipenem"
 predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "sinusitis", "chronic rhinosinusitis", "typhoid fever", "chronic ethmoidal sinusitis", "paranasal sinus neoplasm (disease)", "eosinophilia-myalgia syndrome"]
 last_modified_at: 2026-11-24
-description: "Imipenem：予測新適応症はびまん性強皮症 (diffuse scleroderma)（エビデンスレベル L5）。薬価基準の品目：1 件（現在収載 1 件）"
+description: "Imipenem：予測新適応症はびまん性強皮症 (diffuse scleroderma)（エビデンスレベル L5）。薬価基準の品目：2 件（現在収載 2 件）"
 ---
 
 # Imipenem
@@ -50,8 +50,8 @@ TxGNN モデルは**びまん性強皮症 (diffuse scleroderma)** に有効で�
 | 予測新規適応症 | びまん性強皮症 (diffuse scleroderma) |
 | TxGNN 予測スコア | 0.9999 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 1 件／全 1 件） |
-| 承認番号数 | 1 件（有効 1 件） |
+| 日本市販状況 | 販売中（有効な承認 2 件／全 2 件） |
+| 承認番号数 | 2 件（有効 2 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -78,9 +78,11 @@ TxGNN のスコアは高い値を示していますが、裏付けとなる研�
 |------|------|------|
 | 620007365 | チエナム点滴静注用０．５ｇ ５００ｍｇ | 有効 |
 
+上表はデータ上の 2 件のうち 1 件です。
+
 <!-- licenses:end -->
 
-市販状況：有効な承認が 1 件あり、市販中です。
+市販状況：有効な承認が 2 件あり、市販中です。
 
 ## 安全性に関する考慮事項
 

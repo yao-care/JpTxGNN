@@ -49,8 +49,8 @@ TxGNN モデルは**骨髄性白血病 (Myeloid Leukemia)** に有効である�
 | 予測新規適応症 | 骨髄性白血病 (Myeloid Leukemia) |
 | TxGNN 予測スコア | 0.9949 |
 | エビデンスレベル | L2 |
-| 日本市販状況 | 販売中（有効な承認 12 件／全 12 件） |
-| 承認番号数 | 12 件（有効 12 件） |
+| 日本市販状況 | 販売中（有効な承認 14 件／全 14 件） |
+| 承認番号数 | 14 件（有効 14 件） |
 | 推奨決定 | Proceed with Guardrails |
 
 ## この予測が妥当である理由
@@ -94,7 +94,13 @@ TxGNN モデルは**骨髄性白血病 (Myeloid Leukemia)** に有効である�
 
 ## 日本市販情報
 
-日本の承認はジェネリックを含め 12 件あり、そのすべてが有効で、現在販売されています。主なものを示します。
+日本の承認はジェネリックを含めいずれも有効で（件数はクイック概要を参照）、現在販売されています。主なものを示します。
+
+<!-- review:begin jp-lic-20261124c-lenalidomide-1 -->
+
+> **確認による訂正（2026-11-24）**：元の記載は「日本の承認はジェネリックを含め 12 件あり、そのすべてが有効で、」でした。訂正：医薬品マスター（薬価基準収載品目）の 2026-11-12 全件ファイルでは、レナリドミドの品目（レブラミドカプセル、レナリドミドカプセル各社、（選）コードを含む）はいずれも収載中（有効）です。件数はクイック概要と上表の説明に記載しています。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)。
+
+<!-- review:end jp-lic-20261124c-lenalidomide-1 -->
 
 <!-- licenses:begin -->
 
@@ -106,7 +112,7 @@ TxGNN モデルは**骨髄性白血病 (Myeloid Leukemia)** に有効である�
 | 622953601 | レナリドミドカプセル５ｍｇ「ＢＭＳＨ」 | 有効 |
 | 622978001 | レナリドミドカプセル５ｍｇ「トーワ」 | 有効 |
 
-上表はデータ上の 12 件のうち 5 件です。
+上表はデータ上の 14 件のうち 5 件です。
 
 <!-- licenses:end -->
 
@@ -172,6 +178,7 @@ TxGNN モデルは**骨髄性白血病 (Myeloid Leukemia)** に有効である�
 | 2026-11-06 | 削除：「日本の承認は全件が取消済みで、添付文書の警告・禁忌データも欠けているため、安全性面のガードレールが必要です」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-06 | 削除：「日本での承認取消の経緯の確認と、供給体制の確認」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Revlimid (lenalidomide) prescribing information, Celgene Corporation](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5fa97bf5-28a2-48f1-8955-f56012d296be) |
+| 2026-11-24 | 訂正：承認の件数を医薬品マスターの収載状況に合わせました | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html) |
 
 <!-- review:end log -->
 

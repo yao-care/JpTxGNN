@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "Desloratadine"
 predicted_indications: ["nasal cavity disease", "recalcitrant atopic dermatitis", "IgE responsiveness, atopic", "rosacea conjunctivitis"]
 last_modified_at: 2026-11-24
-description: "Desloratadine：予測新適応症は鼻腔疾患 (nasal cavity disease)（エビデンスレベル L5）。薬価基準の品目：1 件（現在収載 1 件）"
+description: "Desloratadine：予測新適応症は鼻腔疾患 (nasal cavity disease)（エビデンスレベル L5）。薬価基準の品目：4 件（現在収載 4 件）"
 ---
 
 # Desloratadine
@@ -50,8 +50,8 @@ TxGNN モデルは**鼻腔疾患 (nasal cavity disease)** に有効である可�
 | 予測新規適応症 | 鼻腔疾患 (nasal cavity disease) |
 | TxGNN 予測スコア | 0.9987 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 1 件／全 1 件） |
-| 承認番号数 | 1 件（有効 1 件） |
+| 日本市販状況 | 販売中（有効な承認 4 件／全 4 件） |
+| 承認番号数 | 4 件（有効 4 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -80,6 +80,8 @@ TxGNN モデルは**鼻腔疾患 (nasal cavity disease)** に有効である可�
 | 医薬品コード | 医薬品名・規格名 | 状態 |
 |------|------|------|
 | 622514901 | デザレックス錠５ｍｇ | 有効 |
+
+上表はデータ上の 4 件のうち 1 件です。
 
 <!-- licenses:end -->
 

@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-24
 monitor_inn: "Paclitaxel"
 predicted_indications: ["parameningeal embryonal rhabdomyosarcoma", "botryoid-type embryonal rhabdomyosarcoma of the vagina"]
-description: "Paclitaxel：予測新適応症はParameningeal embryonal rhabdomyosarcoma（エビデンスレベル L5）。薬価基準の品目：12 件（現在収載 6 件）"
+description: "Paclitaxel：予測新適応症はParameningeal embryonal rhabdomyosarcoma（エビデンスレベル L5）。薬価基準の品目：13 件（現在収載 7 件）"
 ---
 
 # Paclitaxel
@@ -49,8 +49,8 @@ description: "Paclitaxel：予測新適応症はParameningeal embryonal rhabdomy
 | 予測新規適応症 | Parameningeal embryonal rhabdomyosarcoma |
 | TxGNN 予測スコア | 0.9973 |
 | エビデンスレベル | L5（完了した Phase 3 試験が複数あるため。ただし後述のとおり、パクリタキセルを併用する試験が中心） |
-| 日本市販状況 | 販売中（有効な承認 6 件／全 12 件） |
-| 承認番号数 | 12 件（有効 6 件） |
+| 日本市販状況 | 販売中（有効な承認 7 件／全 13 件） |
+| 承認番号数 | 13 件（有効 7 件） |
 | 推奨決定 | Proceed with Guardrails |
 
 ## この予測が妥当である理由
@@ -105,7 +105,7 @@ description: "Paclitaxel：予測新適応症はParameningeal embryonal rhabdomy
 | 622259201 | パクリタキセル注射液１００ｍｇ「ＮＰ」 １６．７ｍＬ | 有効 |
 | 620004170 | パクリタキセル注３０ｍｇ／５ｍＬ「ＮＫ」 | 有効 |
 
-上表はデータ上の 12 件のうち 5 件です。
+上表はデータ上の 13 件のうち 5 件です。
 
 <!-- licenses:end -->
 

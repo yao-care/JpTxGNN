@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "Levodopa"
 predicted_indications: ["Rasmussen subacute encephalitis"]
 last_modified_at: 2026-11-24
-description: "Levodopa：予測新適応症はラスムッセン亜急性脳炎 (Rasmussen subacute encephalitis)（エビデンスレベル L5）。薬価基準の品目：5 件（現在収載 4 件）"
+description: "Levodopa：予測新適応症はラスムッセン亜急性脳炎 (Rasmussen subacute encephalitis)（エビデンスレベル L5）。薬価基準の品目：7 件（現在収載 6 件）"
 ---
 
 # Levodopa
@@ -49,8 +49,8 @@ TxGNN モデルは**ラスムッセン亜急性脳炎 (Rasmussen subacute enceph
 | 予測新規適応症 | ラスムッセン亜急性脳炎 (Rasmussen subacute encephalitis) |
 | TxGNN 予測スコア | 0.9906 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 4 件／全 5 件） |
-| 承認番号数 | 5 件（有効 4 件） |
+| 日本市販状況 | 販売中（有効な承認 6 件／全 7 件） |
+| 承認番号数 | 7 件（有効 6 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -72,6 +72,8 @@ TxGNN の予測スコア 0.9906 は計算上の予測値にすぎず、機序面
 | 622375701 | スタレボ配合錠Ｌ５０ | 有効 |
 | 622953701 | マドパー配合錠Ｌ５０ | 有効 |
 | 620123803 | マドパー配合錠Ｌ１００ | 有効 |
+
+上表はデータ上の 7 件のうち 5 件です。
 
 <!-- licenses:end -->
 

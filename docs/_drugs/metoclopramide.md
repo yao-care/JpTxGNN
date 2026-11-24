@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "Metoclopramide"
 predicted_indications: ["gastroduodenitis", "peptic ulcer perforation"]
 last_modified_at: 2026-11-24
-description: "Metoclopramide：予測新適応症は胃十二指腸炎 (gastroduodenitis)（エビデンスレベル L5）。薬価基準の品目：13 件（現在収載 12 件）"
+description: "Metoclopramide：予測新適応症は胃十二指腸炎 (gastroduodenitis)（エビデンスレベル L5）。薬価基準の品目：15 件（現在収載 14 件）"
 ---
 
 # Metoclopramide
@@ -50,8 +50,8 @@ TxGNN モデルは**胃十二指腸炎 (gastroduodenitis)** に有効である�
 | 予測新規適応症 | 胃十二指腸炎 (gastroduodenitis) |
 | TxGNN 予測スコア | 0.9990 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 12 件／全 13 件） |
-| 承認番号数 | 13 件（有効 12 件） |
+| 日本市販状況 | 販売中（有効な承認 14 件／全 15 件） |
+| 承認番号数 | 15 件（有効 14 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -91,7 +91,7 @@ TxGNN モデルは**胃十二指腸炎 (gastroduodenitis)** に有効である�
 | 620006101 | プリンペランシロップ０．１％ | 有効 |
 | 621279401 | メトクロプラミド錠５ｍｇ「トーワ」 | 有効 |
 
-上表はデータ上の 13 件のうち 5 件です。
+上表はデータ上の 15 件のうち 5 件です。
 
 <!-- licenses:end -->
 

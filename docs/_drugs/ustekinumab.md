@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-11-24
 monitor_inn: "Ustekinumab"
 predicted_indications: ["dermatitis", "neonatal dermatomyositis", "acne keloid", "acrodermatitis chronica atrophicans", "amyopathic dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "hydroa vacciniforme, familial", "severe nonproliferative diabetic retinopathy", "pityriasis lichenoides", "acute lichenoid pityriasis"]
-description: "Ustekinumab：予測新適応症は皮膚炎 (dermatitis)（エビデンスレベル L2）。薬価基準の品目：2 件（現在収載 2 件）"
+description: "Ustekinumab：予測新適応症は皮膚炎 (dermatitis)（エビデンスレベル L2）。薬価基準の品目：3 件（現在収載 3 件）"
 ---
 
 # Ustekinumab
@@ -49,8 +49,8 @@ TxGNN モデルは**皮膚炎 (Dermatitis)** に有効である可能性を予�
 | 予測新規適応症 | 皮膚炎 (dermatitis) |
 | TxGNN 予測スコア | 0.9999 |
 | エビデンスレベル | L2 |
-| 日本市販状況 | 販売中（有効な承認 2 件／全 2 件） |
-| 承認番号数 | 2 件（有効 2 件） |
+| 日本市販状況 | 販売中（有効な承認 3 件／全 3 件） |
+| 承認番号数 | 3 件（有効 3 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -95,6 +95,8 @@ TxGNN モデルは**皮膚炎 (Dermatitis)** に有効である可能性を予�
 |------|------|------|
 | 622046501 | ステラーラ皮下注４５ｍｇシリンジ ０．５ｍＬ | 有効 |
 | 622554701 | ステラーラ点滴静注１３０ｍｇ ２６ｍＬ | 有効 |
+
+上表はデータ上の 3 件のうち 2 件です。
 
 <!-- licenses:end -->
 

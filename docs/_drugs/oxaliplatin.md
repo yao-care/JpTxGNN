@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "Oxaliplatin"
 predicted_indications: ["malignant pleural mesothelioma", "malignant epithelioid mesothelioma", "sarcomatoid mesothelioma", "malignant visceral pleura tumor"]
 last_modified_at: 2026-11-24
-description: "Oxaliplatin：予測新適応症は悪性胸膜中皮腫 (malignant pleural mesothelioma)（エビデンスレベル L3）。薬価基準の品目：6 件（現在収載 4 件）"
+description: "Oxaliplatin：予測新適応症は悪性胸膜中皮腫 (malignant pleural mesothelioma)（エビデンスレベル L3）。薬価基準の品目：26 件（現在収載 24 件）"
 ---
 
 # Oxaliplatin
@@ -50,8 +50,8 @@ TxGNN モデルは**悪性胸膜中皮腫 (Malignant Pleural Mesothelioma)** に
 | 予測新規適応症 | 悪性胸膜中皮腫 (malignant pleural mesothelioma) |
 | TxGNN 予測スコア | 0.9968 |
 | エビデンスレベル | L3 |
-| 日本市販状況 | 販売中（有効な承認 4 件／全 6 件） |
-| 承認番号数 | 6 件（有効 4 件） |
+| 日本市販状況 | 販売中（有効な承認 24 件／全 26 件） |
+| 承認番号数 | 26 件（有効 24 件） |
 | 推奨決定 | Hold |
 
 ※エビデンスレベルは、判定ルールに基づき L3 としました。完了した RCT はなく、第 II 相の単群試験と観察研究・レビューが中心です。データ上のスコアリングは L2 ですが、完了した Phase 2/3 の RCT は確認できないため、より保守的に判定しています。
@@ -99,7 +99,7 @@ TxGNN モデルは**悪性胸膜中皮腫 (Malignant Pleural Mesothelioma)** に
 | 621932201 | エルプラット点滴静注液５０ｍｇ １０ｍＬ | 有効 |
 | 622189401 | エルプラット点滴静注液２００ｍｇ ４０ｍＬ | 有効 |
 
-上表はデータ上の 6 件のうち 5 件です。
+上表はデータ上の 26 件のうち 5 件です。
 
 <!-- licenses:end -->
 

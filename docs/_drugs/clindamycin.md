@@ -8,7 +8,7 @@ indication_count: 6
 monitor_inn: "Clindamycin"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis", "non-human animal disease", "neurotrophic keratopathy", "epidemic keratoconjunctivitis", "postmenopausal atrophic vaginitis"]
 last_modified_at: 2026-11-24
-description: "Clindamycin：予測新適応症は点状表層角結膜炎 (punctate epithelial keratoconjunctivitis)（エビデンスレベル L5）。薬価基準の品目：5 件（現在収載 5 件）"
+description: "Clindamycin：予測新適応症は点状表層角結膜炎 (punctate epithelial keratoconjunctivitis)（エビデンスレベル L5）。薬価基準の品目：23 件（現在収載 23 件）"
 ---
 
 # Clindamycin
@@ -49,8 +49,8 @@ TxGNN モデルは **点状表層角結膜炎 (punctate epithelial keratoconjunc
 | 予測新規適応症 | 点状表層角結膜炎 (punctate epithelial keratoconjunctivitis) |
 | TxGNN 予測スコア | 0.9997 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 5 件／全 5 件） |
-| 承認番号数 | 5 件（有効 5 件） |
+| 日本市販状況 | 販売中（有効な承認 23 件／全 23 件） |
+| 承認番号数 | 23 件（有効 23 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -70,6 +70,8 @@ TxGNN モデルは **点状表層角結膜炎 (punctate epithelial keratoconjunc
 | 620006261 | ダラシンＳ注射液３００ｍｇ | 有効 |
 | 620006262 | ダラシンＳ注射液６００ｍｇ | 有効 |
 | 621995801 | ダラシンＴローション１％ | 有効 |
+
+上表はデータ上の 23 件のうち 5 件です。
 
 <!-- licenses:end -->
 

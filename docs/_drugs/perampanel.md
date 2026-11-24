@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-24
 monitor_inn: "Perampanel"
 predicted_indications: ["beta-ketothiolase deficiency"]
-description: "Perampanel：予測新適応症はBeta-ketothiolase deficiency（エビデンスレベル L5）。薬価基準の品目：4 件（現在収載 4 件）"
+description: "Perampanel：予測新適応症はBeta-ketothiolase deficiency（エビデンスレベル L5）。薬価基準の品目：10 件（現在収載 10 件）"
 ---
 
 # Perampanel
@@ -48,8 +48,8 @@ description: "Perampanel：予測新適応症はBeta-ketothiolase deficiency（�
 | 予測新規適応症 | Beta-ketothiolase deficiency |
 | TxGNN 予測スコア | 0.9979 |
 | エビデンスレベル | L5（機序的な根拠と一般的なてんかん文献のみ） |
-| 日本市販状況 | 販売中（有効な承認 4 件／全 4 件） |
-| 承認番号数 | 4 件（有効 4 件） |
+| 日本市販状況 | 販売中（有効な承認 10 件／全 10 件） |
+| 承認番号数 | 10 件（有効 10 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -96,6 +96,8 @@ description: "Perampanel：予測新適応症はBeta-ketothiolase deficiency（�
 | 622484701 | フィコンパ錠４ｍｇ | 有効 |
 | 622703001 | フィコンパ細粒１％ | 有効 |
 | 622955101 | フィコンパ点滴静注用２ｍｇ | 有効 |
+
+上表はデータ上の 10 件のうち 4 件です。
 
 <!-- licenses:end -->
 

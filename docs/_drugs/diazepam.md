@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "Diazepam"
 predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "sleep disorder, initiating and maintaining sleep", "attention deficit hyperactivity disorder, inattentive type", "barbiturate abuse", "hallucinogen abuse", "antidepressant type abuse", "specific developmental disorder", "attention deficit-hyperactivity disorder", "obsolete neurogenic bladder (disease)"]
 last_modified_at: 2026-11-24
-description: "Diazepam：予測新適応症は不眠症 (insomnia (disease))（エビデンスレベル L2）。薬価基準の品目：20 件以上"
+description: "Diazepam：予測新適応症は不眠症 (insomnia (disease))（エビデンスレベル L2）。薬価基準の品目：28 件以上"
 ---
 
 # Diazepam
@@ -50,8 +50,8 @@ TxGNN モデルは**不眠症 (insomnia (disease))** に有効である可能性
 | 予測新規適応症 | 不眠症 (insomnia (disease)) |
 | TxGNN 予測スコア | 1.0000 |
 | エビデンスレベル | L2 |
-| 日本市販状況 | 販売中（有効な承認 19 件以上） |
-| 承認番号数 | 20 件以上 |
+| 日本市販状況 | 販売中（有効な承認 27 件以上） |
+| 承認番号数 | 28 件以上 |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由

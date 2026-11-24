@@ -50,8 +50,8 @@ TxGNN モデルは**アトピー性湿疹 (atopic eczema)** に有効である�
 | 予測新規適応症 | アトピー性湿疹 (atopic eczema) |
 | TxGNN 予測スコア | 0.9996 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 16 件／全 16 件） |
-| 承認番号数 | 16 件（有効 16 件） |
+| 日本市販状況 | 販売中（有効な承認 22 件／全 22 件） |
+| 承認番号数 | 22 件（有効 22 件） |
 | 推奨決定 | Hold |
 
 > 補足：予測の上位 2 位の気管支炎 (bronchitis) は、関連する臨床試験 10 件があり L3 と評価されています。新規適応症としての優先度は気管支炎のほうが高いと考えられます。ただし、本レポートは 1 位のアトピー性湿疹を中心に記載します。
@@ -87,7 +87,7 @@ TxGNN モデルは**アトピー性湿疹 (atopic eczema)** に有効である�
 
 ## 日本市販情報
 
-16 件の承認のうち 16 件が有効です。代表的なものを示します。
+22 件の承認のうち 22 件が有効です。代表的なものを示します。
 
 <!-- licenses:begin -->
 
@@ -99,7 +99,7 @@ TxGNN モデルは**アトピー性湿疹 (atopic eczema)** に有効である�
 | 622701801 | ブデソニド吸入液０．２５ｍｇ「武田テバ」 ２ｍＬ | 有効 |
 | 621950701 | シムビコートタービュヘイラー３０吸入 | 有効 |
 
-上表はデータ上の 16 件のうち 5 件です。
+上表はデータ上の 22 件のうち 5 件です。
 
 <!-- licenses:end -->
 
@@ -137,7 +137,7 @@ TxGNN モデルは**アトピー性湿疹 (atopic eczema)** に有効である�
 
 <!-- review:begin jp-lic-20261124b-budesonide-1 -->
 
-> **確認による訂正（2026-11-24）**：元の記載は「（現在の承認は吸入剤のみ）」でした。訂正：医薬品マスター（薬価基準収載品目）には、吸入剤（パルミコート、シムビコートなど）のほか、経口剤（ゼンタコートカプセル３ｍｇ、コレチメント錠９ｍｇ）と注腸フォーム（レクタブル２ｍｇ注腸フォーム）が収載されています（本ページのデータには吸入剤のみが含まれています）。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)。
+> **確認による訂正（2026-11-24）**：元の記載は「（現在の承認は吸入剤のみ）」でした。訂正：医薬品マスター（薬価基準収載品目）には、吸入剤（パルミコート、シムビコートなど）のほか、経口剤（ゼンタコートカプセル３ｍｇ、コレチメント錠９ｍｇ）と注腸フォーム（レクタブル２ｍｇ注腸フォーム）が収載されています。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)。
 
 <!-- review:end jp-lic-20261124b-budesonide-1 -->
 
@@ -151,7 +151,7 @@ TxGNN モデルは**アトピー性湿疹 (atopic eczema)** に有効である�
 |------|------|------|------|
 | 2026-11-06 | 削除：「日本では現在有効な承認がなく、添付文書の安全性情報も未取得のため、安全性の評価も完了していません」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: Budesonide Inhalation Suspension (budesonide) prescribing information, Cipla USA Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c52c5382-1400-44b9-95be-a30e1cf706da) |
-| 2026-11-24 | 訂正：ブデソニドの国内製剤は吸入剤だけではない | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html) |
+| 2026-11-24 | 訂正：ブデソニドの国内製剤は吸入剤だけではない | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html) |
 
 <!-- review:end log -->
 

@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "Bisoprolol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome"]
 last_modified_at: 2026-11-24
-description: "Bisoprolol：予測新適応症は悪性高血圧性腎疾患 (malignant hypertensive renal disease)（エビデンスレベル L5）。薬価基準の品目：22 件以上"
+description: "Bisoprolol：予測新適応症は悪性高血圧性腎疾患 (malignant hypertensive renal disease)（エビデンスレベル L5）。薬価基準の品目：25 件以上"
 ---
 
 # Bisoprolol
@@ -50,8 +50,8 @@ TxGNN モデルは**悪性高血圧性腎疾患 (malignant hypertensive renal di
 | 予測新規適応症 | 悪性高血圧性腎疾患 (malignant hypertensive renal disease) |
 | TxGNN 予測スコア | 0.9994 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 20 件以上） |
-| 承認番号数 | 22 件以上 |
+| 日本市販状況 | 販売中（有効な承認 23 件以上） |
+| 承認番号数 | 25 件以上 |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -92,7 +92,7 @@ TxGNN モデルは**悪性高血圧性腎疾患 (malignant hypertensive renal di
 
 <!-- review:begin jp-lic-20261124b-bisoprolol-1 -->
 
-> **確認による訂正（2026-11-24）**：元の記載は「剤形はすべて経口錠です。」でした。訂正：医薬品マスター（薬価基準収載品目）には、経口錠のほか、ビソプロロールの貼付剤（ビソノテープ２ｍｇ・４ｍｇ・８ｍｇ）も収載されています（本ページのデータには含まれていません）。上表の品目はいずれも経口錠です。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)。
+> **確認による訂正（2026-11-24）**：元の記載は「剤形はすべて経口錠です。」でした。訂正：医薬品マスター（薬価基準収載品目）には、経口錠のほか、ビソプロロールの貼付剤（ビソノテープ２ｍｇ・４ｍｇ・８ｍｇ）も収載されています。上表の品目はいずれも経口錠です。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)。
 
 <!-- review:end jp-lic-20261124b-bisoprolol-1 -->
 
@@ -126,7 +126,7 @@ TxGNN モデルは**悪性高血圧性腎疾患 (malignant hypertensive renal di
 | 確認日 | 項目 | 対応 | 出典 |
 |------|------|------|------|
 | 2026-11-19 | 「作用機序データはありません」の記述を米国添付文書の抜粋に置き換え | 作用機序データがないとする記述を、出典付きの抜粋に置き換え | [DailyMed: bisoprolol fumarate prescribing information, ANI Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6517d564-ea55-4084-a8ab-34fea548c24e) |
-| 2026-11-24 | 訂正：ビソプロロールの剤形は経口錠だけではない（貼付剤もある） | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html) |
+| 2026-11-24 | 訂正：ビソプロロールの剤形は経口錠だけではない（貼付剤もある） | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html) |
 
 <!-- review:end log -->
 
@@ -142,8 +142,8 @@ TxGNN モデルは**悪性高血圧性腎疾患 (malignant hypertensive renal di
 
 同じ成分を含む日本の医薬品です。以下の名称でも検索できます。
 
-**商品名**：メインテート
+**商品名**：ビソノ、メインテート
 
-**販売名（規格別）**：ビソプロロールフマル酸塩0.625mg錠、ビソプロロールフマル酸塩2.5mg錠、ビソプロロールフマル酸塩5mg錠、ビソプロロールフマル酸塩錠0.625mg、ビソプロロールフマル酸塩錠2.5mg、ビソプロロールフマル酸塩錠5mg、メインテート錠0.625mg、メインテート錠2.5mg、メインテート錠5mg
+**販売名（規格別）**：ビソノテープ2mg、ビソノテープ4mg、ビソノテープ8mg、ビソプロロールフマル酸塩0.625mg錠、ビソプロロールフマル酸塩2.5mg錠、ビソプロロールフマル酸塩5mg錠、ビソプロロールフマル酸塩錠0.625mg、ビソプロロールフマル酸塩錠2.5mg、ビソプロロールフマル酸塩錠5mg、メインテート錠0.625mg、メインテート錠2.5mg、メインテート錠5mg
 <!-- brand-names:end -->
 

@@ -8,7 +8,7 @@ indication_count: 6
 monitor_inn: "Metoprolol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease", "trichotillomania"]
 last_modified_at: 2026-11-24
-description: "Metoprolol：予測新適応症は悪性高血圧性腎疾患 (malignant hypertensive renal disease)（エビデンスレベル L5）。薬価基準の品目：14 件（現在収載 11 件）"
+description: "Metoprolol：予測新適応症は悪性高血圧性腎疾患 (malignant hypertensive renal disease)（エビデンスレベル L5）。薬価基準の品目：16 件（現在収載 13 件）"
 ---
 
 # Metoprolol
@@ -49,8 +49,8 @@ TxGNN モデルは**悪性高血圧性腎疾患 (malignant hypertensive renal di
 | 予測新規適応症 | 悪性高血圧性腎疾患 (malignant hypertensive renal disease) |
 | TxGNN 予測スコア | 0.9991 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 11 件／全 14 件） |
-| 承認番号数 | 14 件（有効 11 件） |
+| 日本市販状況 | 販売中（有効な承認 13 件／全 16 件） |
+| 承認番号数 | 16 件（有効 13 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -79,7 +79,7 @@ TxGNN モデルは**悪性高血圧性腎疾患 (malignant hypertensive renal di
 | 621366706 | メトプロロール酒石酸塩錠４０ｍｇ「トーワ」 | 有効 |
 | 621965402 | メトプロロール酒石酸塩錠２０ｍｇ「サワイ」 | 有効 |
 
-上表はデータ上の 14 件のうち 5 件です。
+上表はデータ上の 16 件のうち 5 件です。
 
 <!-- licenses:end -->
 

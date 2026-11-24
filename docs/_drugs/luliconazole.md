@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-24
 monitor_inn: "Luliconazole"
 predicted_indications: ["endothrix infectious disease", "ectothrix infectious disease"]
-description: "Luliconazole：予測新適応症は毛内菌感染症 (endothrix infectious disease)（エビデンスレベル L5）。薬価基準の品目：1 件（現在収載 1 件）"
+description: "Luliconazole：予測新適応症は毛内菌感染症 (endothrix infectious disease)（エビデンスレベル L5）。薬価基準の品目：2 件（現在収載 2 件）"
 ---
 
 # Luliconazole
@@ -49,8 +49,8 @@ TxGNN モデルは**毛内菌感染症 (endothrix infectious disease)** に有�
 | 予測新規適応症 | 毛内菌感染症 (endothrix infectious disease) |
 | TxGNN 予測スコア | 0.9910 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 1 件／全 1 件） |
-| 承認番号数 | 1 件（有効 1 件） |
+| 日本市販状況 | 販売中（有効な承認 2 件／全 2 件） |
+| 承認番号数 | 2 件（有効 2 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -68,6 +68,8 @@ TxGNN モデルは**毛内菌感染症 (endothrix infectious disease)** に有�
 | 医薬品コード | 医薬品名・規格名 | 状態 |
 |------|------|------|
 | 620002498 | ルリコン液１％ | 有効 |
+
+上表はデータ上の 2 件のうち 1 件です。
 
 <!-- licenses:end -->
 

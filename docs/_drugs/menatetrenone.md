@@ -50,8 +50,8 @@ TxGNN モデルは**結膜脂肪腫 (lipoma of the conjunctiva)** に有効で�
 | 予測新規適応症 | 結膜脂肪腫 (lipoma of the conjunctiva) |
 | TxGNN 予測スコア | 0.9991 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 5 件／全 7 件） |
-| 承認番号数 | 7 件（有効 5 件） |
+| 日本市販状況 | 販売中（有効な承認 8 件／全 10 件） |
+| 承認番号数 | 10 件（有効 8 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -74,7 +74,7 @@ TxGNN モデルは**結膜脂肪腫 (lipoma of the conjunctiva)** に有効で�
 | 620008109 | メナテトレノンカプセル１５ｍｇ「トーワ」 | 有効 |
 | 622958100 | メナテトレノン１５ｍｇカプセル | 有効 |
 
-上表はデータ上の 7 件のうち 5 件です。
+上表はデータ上の 10 件のうち 5 件です。
 
 <!-- licenses:end -->
 
@@ -118,7 +118,7 @@ TxGNN モデルは**結膜脂肪腫 (lipoma of the conjunctiva)** に有効で�
 
 <!-- review:begin jp-lic-20261124b-menatetrenone-1 -->
 
-> **確認による訂正（2026-11-24）**：元の記載は「（現在は経口カプセルのみで、」でした。訂正：医薬品マスター（薬価基準収載品目）には、カプセル（グラケーカプセル１５ｍｇ、ケイツーカプセル５ｍｇなど）のほか、シロップ（ケイツーシロップ０．２％）と静注（ケイツーＮ静注１０ｍｇ）も収載されています（本ページのデータにはカプセルのみが含まれています）。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)。
+> **確認による訂正（2026-11-24）**：元の記載は「（現在は経口カプセルのみで、」でした。訂正：医薬品マスター（薬価基準収載品目）には、カプセル（グラケーカプセル１５ｍｇ、ケイツーカプセル５ｍｇなど）のほか、シロップ（ケイツーシロップ０．２％）と静注（ケイツーＮ静注１０ｍｇ）も収載されています。出典：[医薬品マスター（全件ファイル y_ALL20261112.zip）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)。
 
 <!-- review:end jp-lic-20261124b-menatetrenone-1 -->
 
@@ -133,7 +133,7 @@ TxGNN モデルは**結膜脂肪腫 (lipoma of the conjunctiva)** に有効で�
 | 2026-11-06 | 削除：「また、日本では現在有効な承認がなく、添付文書に基づく安全性評価もできていません」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-06 | 削除：「承認整理の経緯」 | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター ダウンロードページ](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[医薬品医療機器総合機構（PMDA）](https://www.pmda.go.jp/) |
 | 2026-11-17 | 訂正：承認の件数・状態を医薬品マスターの最新収載状況に合わせました | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip・改定分ファイル）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html)；[経過措置年月日又は商品名医薬品コード使用期限一覧（令和8年度分）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.files/keikasoti_R08_20261112.xlsx) |
-| 2026-11-24 | 訂正：メナテトレノンの国内製剤は経口カプセルだけではない | 訂正 | [医薬品マスター（全件ファイル y_ALL20261112.zip）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html) |
+| 2026-11-24 | 訂正：メナテトレノンの国内製剤は経口カプセルだけではない | 訂正（2026-11-24 改訂、旧版は記録に保存） | [医薬品マスター（全件ファイル y_ALL20261112.zip）](https://www.hpdx.or.jp/seikyushiharai/tensuhyo/kihonmasta/kihonmasta_04.html) |
 
 <!-- review:end log -->
 
@@ -151,6 +151,6 @@ TxGNN モデルは**結膜脂肪腫 (lipoma of the conjunctiva)** に有効で�
 
 **商品名**：グラケー、ケイツー
 
-**販売名（規格別）**：グラケーカプセル15mg、メナテトレノン15mgカプセル、メナテトレノンカプセル15mg
+**販売名（規格別）**：グラケーカプセル15mg、ケイツーN静注10mg、メナテトレノン15mgカプセル、メナテトレノンカプセル15mg
 <!-- brand-names:end -->
 

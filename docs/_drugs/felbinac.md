@@ -49,8 +49,8 @@ TxGNN モデルは **brachyolmia-amelogenesis imperfecta syndrome** に有効で
 | 予測新規適応症 | brachyolmia-amelogenesis imperfecta syndrome |
 | TxGNN 予測スコア | 0.9999 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 8 件／全 9 件） |
-| 承認番号数 | 9 件（有効 8 件） |
+| 日本市販状況 | 販売中（有効な承認 41 件／全 42 件） |
+| 承認番号数 | 42 件（有効 41 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -73,7 +73,7 @@ TxGNN モデルは **brachyolmia-amelogenesis imperfecta syndrome** に有効で
 | 621981802 | フェルビナクテープ３５ｍｇ「ＮＰ」 ７ｃｍ×１０ｃｍ | 有効 |
 | 620646303 | フェルビナクテープ７０ｍｇ「ＮＰ」 １０ｃｍ×１４ｃｍ | 有効 |
 
-上表はデータ上の 9 件のうち 5 件です。
+上表はデータ上の 42 件のうち 5 件です。
 
 <!-- licenses:end -->
 

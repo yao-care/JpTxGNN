@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "Dexamethasone"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo", "prolapse of lacrimal gland"]
 last_modified_at: 2026-11-24
-description: "Dexamethasone：予測新適応症は毛包性ムチン沈着症 (alopecia mucinosa)（エビデンスレベル L5）。薬価基準の品目：20 件以上"
+description: "Dexamethasone：予測新適応症は毛包性ムチン沈着症 (alopecia mucinosa)（エビデンスレベル L5）。薬価基準の品目：35 件以上"
 ---
 
 # Dexamethasone
@@ -50,8 +50,8 @@ TxGNN モデルは**毛包性ムチン沈着症 (alopecia mucinosa)** に有効�
 | 予測新規適応症 | 毛包性ムチン沈着症 (alopecia mucinosa) |
 | TxGNN 予測スコア | 0.9999 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 19 件以上） |
-| 承認番号数 | 20 件以上 |
+| 日本市販状況 | 販売中（有効な承認 34 件以上） |
+| 承認番号数 | 35 件以上 |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由

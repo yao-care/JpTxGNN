@@ -8,7 +8,7 @@ indication_count: 9
 monitor_inn: "Hydrocortisone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo"]
 last_modified_at: 2026-11-24
-description: "Hydrocortisone：予測新適応症は円形脱毛症 (alopecia areata)（エビデンスレベル L3）。薬価基準の品目：14 件（現在収載 14 件）"
+description: "Hydrocortisone：予測新適応症は円形脱毛症 (alopecia areata)（エビデンスレベル L3）。薬価基準の品目：19 件（現在収載 19 件）"
 ---
 
 # Hydrocortisone
@@ -49,8 +49,8 @@ TxGNN モデルは**円形脱毛症 (alopecia areata)** に有効である可能
 | 予測新規適応症 | 円形脱毛症 (alopecia areata) |
 | TxGNN 予測スコア | 0.9997 |
 | エビデンスレベル | L3 |
-| 日本市販状況 | 販売中（有効な承認 14 件／全 14 件） |
-| 承認番号数 | 14 件（有効 14 件） |
+| 日本市販状況 | 販売中（有効な承認 19 件／全 19 件） |
+| 承認番号数 | 19 件（有効 19 件） |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
@@ -90,7 +90,7 @@ TxGNN モデルは**円形脱毛症 (alopecia areata)** に有効である可能
 | 620009077 | ロコイドクリーム０．１％ | 有効 |
 | 662640163 | テラ・コートリル軟膏 | 有効 |
 
-上表はデータ上の 14 件のうち 5 件です。
+上表はデータ上の 19 件のうち 5 件です。
 
 <!-- licenses:end -->
 

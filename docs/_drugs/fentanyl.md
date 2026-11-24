@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "Fentanyl"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome"]
 last_modified_at: 2026-11-24
-description: "Fentanyl：予測新適応症は腎性抗利尿ホルモン不適切分泌症候群 (nephrogenic syndrome of inappropriate antidiuresis)（エビデンスレベル L5）。薬価基準の品目：20 件以上"
+description: "Fentanyl：予測新適応症は腎性抗利尿ホルモン不適切分泌症候群 (nephrogenic syndrome of inappropriate antidiuresis)（エビデンスレベル L5）。薬価基準の品目：36 件以上"
 ---
 
 # Fentanyl
@@ -49,8 +49,8 @@ TxGNN モデルは**腎性抗利尿ホルモン不適切分泌症候群 (Nephrog
 | 予測新規適応症 | 腎性抗利尿ホルモン不適切分泌症候群 (nephrogenic syndrome of inappropriate antidiuresis) |
 | TxGNN 予測スコア | 0.9946 |
 | エビデンスレベル | L5 |
-| 日本市販状況 | 販売中（有効な承認 19 件以上） |
-| 承認番号数 | 20 件以上 |
+| 日本市販状況 | 販売中（有効な承認 35 件以上） |
+| 承認番号数 | 36 件以上 |
 | 推奨決定 | Hold |
 
 ## この予測が妥当である理由
