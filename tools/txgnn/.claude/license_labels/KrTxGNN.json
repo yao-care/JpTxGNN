@@ -1,8 +1,13 @@
 {
- "labels": {
-  "유효": "valid"
- },
- "preferred": {
-  "valid": "유효"
- }
+  "labels": {
+    "유효": "valid",
+    "취하": "cancelled",
+    "유효기간만료": "cancelled",
+    "행정(취소)": "cancelled",
+    "폐업": "cancelled"
+  },
+  "preferred": {
+    "valid": "유효",
+    "cancelled": "취하"
+  }
 }

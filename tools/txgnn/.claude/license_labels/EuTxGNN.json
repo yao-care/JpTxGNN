@@ -1,8 +1,14 @@
 {
- "labels": {
-  "Valid": "valid"
- },
- "preferred": {
-  "valid": "Valid"
- }
+  "labels": {
+    "Valid": "valid",
+    "Withdrawn": "cancelled",
+    "Lapsed": "cancelled",
+    "Expired": "cancelled",
+    "Revoked": "cancelled",
+    "Refused": "cancelled"
+  },
+  "preferred": {
+    "valid": "Valid",
+    "cancelled": "Withdrawn"
+  }
 }

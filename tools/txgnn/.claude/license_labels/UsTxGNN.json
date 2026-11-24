@@ -1,8 +1,11 @@
 {
- "labels": {
-  "Valid": "valid"
- },
- "preferred": {
-  "valid": "Valid"
- }
+  "labels": {
+    "Valid": "valid",
+    "Discontinued in Drugs@FDA": "cancelled",
+    "License revoked in Purple Book": "cancelled"
+  },
+  "preferred": {
+    "valid": "Valid",
+    "cancelled": "Discontinued in Drugs@FDA"
+  }
 }

@@ -1,10 +1,14 @@
 {
- "labels": {
-  "คงอยู่": "valid",
-  "ปลด SMP": "valid"
- },
- "preferred": {
-  "valid": "คงอยู่"
- },
- "_note": "2026-10-31：許可證表狀態格用 Thai FDA pertento 原文；註銷沒有固定寫法（ยกเลิก(日期)），由證據包的官方原文帶入"
+  "labels": {
+    "คงอยู่": "valid",
+    "ปลด SMP": "valid",
+    "ยกเลิก": "cancelled",
+    "เพิกถอน": "cancelled",
+    "หมดอายุ": "cancelled"
+  },
+  "preferred": {
+    "valid": "คงอยู่",
+    "cancelled": "ยกเลิก"
+  },
+  "_note": "2026-10-31：許可證表狀態格用 Thai FDA pertento 原文；註銷沒有固定寫法（ยกเลิก(日期)），由證據包的官方原文帶入"
 }

@@ -1,13 +1,17 @@
 {
- "labels": {
-  "Vigente": "valid",
-  "Cancelado": "cancelled",
-  "Autorizado, no comercializado": "not_marketed",
-  "Cancelada": "cancelled"
- },
- "preferred": {
-  "valid": "Vigente",
-  "not_marketed": "Autorizado, no comercializado",
-  "cancelled": "Cancelado"
- }
+  "labels": {
+    "Vigente": "valid",
+    "Cancelado": "cancelled",
+    "Autorizado, no comercializado": "not_marketed",
+    "Cancelada": "cancelled",
+    "Comercializada": "valid",
+    "Autorizada, no comercializada": "not_marketed",
+    "Revocada": "cancelled",
+    "Suspendida": "cancelled"
+  },
+  "preferred": {
+    "valid": "Vigente",
+    "not_marketed": "Autorizado, no comercializado",
+    "cancelled": "Cancelado"
+  }
 }

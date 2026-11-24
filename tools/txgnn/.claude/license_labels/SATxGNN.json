@@ -1,9 +1,11 @@
 {
- "labels": {
-  "ساري": "valid",
-  "مُلغى": "valid"
- },
- "preferred": {
-  "valid": "ساري"
- }
+  "labels": {
+    "ساري": "valid",
+    "مُلغى": "cancelled",
+    "ملغى": "cancelled"
+  },
+  "preferred": {
+    "valid": "ساري",
+    "cancelled": "مُلغى"
+  }
 }

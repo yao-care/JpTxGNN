@@ -1,10 +1,17 @@
 {
- "labels": {
-  "Godkjent": "valid",
-  "Gyldig": "valid",
-  "Kansellert": "valid"
- },
- "preferred": {
-  "valid": "Gyldig"
- }
+  "labels": {
+    "Godkjent": "valid",
+    "Gyldig": "valid",
+    "Trukket tilbake": "cancelled",
+    "Bortfalt": "cancelled",
+    "Utløpt": "cancelled",
+    "Tilbakekalt": "cancelled",
+    "Suspendert": "cancelled",
+    "Avslått": "cancelled",
+    "Ikke godkjent": "cancelled"
+  },
+  "preferred": {
+    "valid": "Gyldig",
+    "cancelled": "Trukket tilbake"
+  }
 }

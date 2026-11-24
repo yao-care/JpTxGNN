@@ -1,8 +1,10 @@
 {
- "labels": {
-  "Vigente": "valid"
- },
- "preferred": {
-  "valid": "Vigente"
- }
+  "labels": {
+    "Vigente": "valid",
+    "Ya no figura en el listado de PAMI": "cancelled"
+  },
+  "preferred": {
+    "valid": "Vigente",
+    "cancelled": "Ya no figura en el listado de PAMI"
+  }
 }

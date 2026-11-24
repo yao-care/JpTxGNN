@@ -1,10 +1,13 @@
 {
- "labels": {
-  "Sah": "valid",
-  "Dibatalkan Pendaftaran": "cancelled"
- },
- "preferred": {
-  "valid": "Sah",
-  "cancelled": "Dibatalkan Pendaftaran"
- }
+  "labels": {
+    "Sah": "valid",
+    "Dibatalkan Pendaftaran": "cancelled",
+    "Sah (pendaftaran bersyarat)": "valid",
+    "Tamat tempoh (tiada dalam daftar semasa NPRA)": "cancelled",
+    "Tidak lagi tersenarai dalam daftar semasa NPRA (disemak 2026-11-19)": "cancelled"
+  },
+  "preferred": {
+    "valid": "Sah",
+    "cancelled": "Dibatalkan Pendaftaran"
+  }
 }

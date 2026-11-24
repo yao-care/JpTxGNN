@@ -1,9 +1,11 @@
 {
- "labels": {
-  "Voimassa": "valid",
-  "Peruutettu": "valid"
- },
- "preferred": {
-  "valid": "Voimassa"
- }
+  "labels": {
+    "Voimassa": "valid",
+    "Peruutettu": "cancelled",
+    "Peruttu": "cancelled"
+  },
+  "preferred": {
+    "valid": "Voimassa",
+    "cancelled": "Peruttu"
+  }
 }

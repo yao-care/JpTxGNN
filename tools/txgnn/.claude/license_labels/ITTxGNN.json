@@ -1,8 +1,13 @@
 {
- "labels": {
-  "Valida": "valid"
- },
- "preferred": {
-  "valid": "Valida"
- }
+  "labels": {
+    "Valida": "valid",
+    "Autorizzata": "valid",
+    "Non più autorizzata": "cancelled",
+    "Sospesa": "cancelled",
+    "Revocata": "cancelled"
+  },
+  "preferred": {
+    "valid": "Valida",
+    "cancelled": "Non più autorizzata"
+  }
 }

@@ -1,9 +1,14 @@
 {
- "labels": {
-  "Valid": "valid",
-  "Valid (single-ingredient)": "valid"
- },
- "preferred": {
-  "valid": "Valid"
- }
+  "labels": {
+    "Valid": "valid",
+    "Valid (single-ingredient)": "valid",
+    "Marketed": "valid",
+    "Dormant": "not_marketed",
+    "Cancelled post market": "cancelled"
+  },
+  "preferred": {
+    "valid": "Valid",
+    "not_marketed": "Dormant",
+    "cancelled": "Cancelled post market"
+  }
 }

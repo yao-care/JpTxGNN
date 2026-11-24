@@ -104,6 +104,7 @@ _rows = list(csv.DictReader(open(RULES / "k_findings_patterns.tsv", encoding="ut
 KG_WORD = re.compile(next(r["pattern"] for r in _rows if r["lang"] == "any").replace("(?i)", "") +
                      r"|\bgraph(?:s|e|es|en)?\b|\bGraph-|\bgrafo(?:s)?\b|\bgrafi\b|\bgraf(?:en|et)?\b|\bgraaf\b|圖譜|图谱|グラフ|그래프|กราฟ|الرسم البياني|رسم بياني", re.I)
 KG_ABBR = re.compile(r"(?<![A-Za-z])(?<!Co\. )(?<!Co )(?<!& )KG(?![A-Za-z])")  # 2026-10-29：「GmbH & Co. KG」是公司型態，不是知識圖譜
+COMPANY_KG = re.compile(r"\b(GmbH|Ges\.?\s?m\.?\s?b\.?\s?H\.?)\b[^|\n;:]{0,40}?KG(?![A-Za-z])(?=\s*(\||$|\)|,|\.\s*$))", re.M)  # 2026-11-24：「Heumann Pharma GmbH & Co. Generica KG」「EBEWE Pharma Ges.m.b.H.Nfg.KG」等公司全名
 # GNN 的說法不是知識圖譜（「graph neural network」等）：判斷 KG 詞前先拿掉
 GNN_PHRASE = re.compile(r"graph[- ]?neural[- ]?network\w*|graph[- ]based neural|\bGNN\b|graphbasiert\w* neuronal\w*|Graph-Neuronal\w*|"
                         r"graphbaserede? neurale|graafineuroverk\w*|grafneural\w*|grafnevral\w*|grafbaserade? neurala|"
@@ -176,6 +177,7 @@ def p5_hits(text, lang, section=""):
 
 def _p5_line(line, pats, section):
     out = []
+    line = COMPANY_KG.sub(" ", line)  # 公司全名裡的 KG 不是知識圖譜（句子切分會在「Co.」斷開，所以整行先拿掉）
     for s0 in sentences(line):
         s = re.sub(r"(\d)[.,](\d)", r"\1\2", s0)  # 句型裡的 [^.\n] 不該被分數的小數點截斷
         if any(p.search(s) for p in pats) or KG_AS_PRED.search(s):
@@ -2590,7 +2592,7 @@ ROW_WORDS = {
            r"(?:godkännandet|tillståndet) är (?:indraget|återkallat|upphört)|indraget godkännande"),
     "nl": (r"geldig|ingeschreven|actief", r"ingetrokken|doorgehaald|vervallen|geschorst|niet geldig|ongeldig"),
     "zh": (r"有效|已註冊|現行", r"已?註銷|已?撤銷|已?取消|已?失效|已?廢止"),
-    "ja": (r"有効|承認有効|承認済み?", r"承認取消し?|取消し?済み?|取り消し済み|失効|販売中止|整理済み?|削除"),
+    "ja": (r"有効|承認有効|承認済み?", r"承認取消し?|取消し?済み?|取り消し済み|失効|販売中止|整理済み?|薬価削除|削除"),
     "ko": (r"유효|정상", r"취소|취하|허가취소|품목취하|유효기간\s*만료|만료|폐지"),
     "ms": (r"sah|aktif|berdaftar", r"dibatalkan(?:\s+pendaftaran)?|batal|ditarik balik|tamat tempoh|digantung|tidak sah"),
     "ar": (r"ساري|سارٍ|سار|فعال|نشط", r"ملغى|ملغي|ملغاة|منتهي|منتهية|موقوف|مسحوب|غير ساري"),

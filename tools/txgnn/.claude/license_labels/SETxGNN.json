@@ -1,12 +1,16 @@
 {
- "labels": {
-  "Giltigt": "valid",
-  "Godkänd": "valid",
-  "Indraget": "valid",
-  "Indragen": "valid",
-  "Godkänt": "valid"
- },
- "preferred": {
-  "valid": "Godkänd"
- }
+  "labels": {
+    "Giltigt": "valid",
+    "Godkänd": "valid",
+    "Indraget": "valid",
+    "Indragen": "valid",
+    "Godkänt": "valid",
+    "Avregistrerad": "cancelled",
+    "Tillfälligt återkallad": "cancelled",
+    "Registrerad": "valid"
+  },
+  "preferred": {
+    "valid": "Godkänd",
+    "cancelled": "Avregistrerad"
+  }
 }

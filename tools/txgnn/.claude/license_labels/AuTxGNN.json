@@ -1,8 +1,10 @@
 {
- "labels": {
-  "Valid": "valid"
- },
- "preferred": {
-  "valid": "Valid"
- }
+  "labels": {
+    "Valid": "valid",
+    "No longer listed on the PBS Schedule": "cancelled"
+  },
+  "preferred": {
+    "valid": "Valid",
+    "cancelled": "No longer listed on the PBS Schedule"
+  }
 }

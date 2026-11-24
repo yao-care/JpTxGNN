@@ -1,8 +1,11 @@
 {
- "labels": {
-  "Gyldig": "valid"
- },
- "preferred": {
-  "valid": "Gyldig"
- }
+  "labels": {
+    "Gyldig": "valid",
+    "Afregistreret": "cancelled",
+    "Suspenderet (EMA)": "not_marketed"
+  },
+  "preferred": {
+    "valid": "Gyldig",
+    "cancelled": "Afregistreret"
+  }
 }
