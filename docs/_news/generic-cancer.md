@@ -3,9 +3,9 @@ layout: default
 title: "がん (generic_cancer) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "がん (generic_cancer) に関する健康ニュース。ニュース 60 件、関連医薬品 67 件。"
+description: "がん (generic_cancer) に関する健康ニュース。ニュース 61 件、関連医薬品 67 件。"
 permalink: /news/generic-cancer/
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 ---
 
 # がん (generic_cancer) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="がん (generic_cancer) に関するニュースは？">
-<strong>がん (generic_cancer)</strong> には現在 <strong>60 件</strong>の関連ニュースと 67 件の関連医薬品があります。
+<strong>がん (generic_cancer)</strong> には現在 <strong>61 件</strong>の関連ニュースと 67 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -94,7 +94,7 @@ last_modified_at: 2026-11-24
 </ul>
 </div>
 
-## 関連ニュース（60 件）
+## 関連ニュース（61 件）
 
 ### [近江を要とする「原倭国論」提唱　弥生時代研究の第一人者、森岡秀人さん　死惜しむ声　(産経新聞)](https://news.yahoo.co.jp/articles/34d9cb76e2fe9c5604f2ca8bacc63fd78505bdaf?source=rss)
 
@@ -141,6 +141,14 @@ last_modified_at: 2026-11-24
 2026-11-23
 
 出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMihAFBVV95cUxNR1RGYWRMcmxWcGMtbTJGWThEclozZDhyMVB5bGhsZVFsSFNXdEFjd01mRExhUXJNcjlDTmlmbjhiMm1QcVpXODhwekNHazM4ejZVaXZnN0pHSklJbldKSXFHbnZwZ2RFNUswcVZKdzFuRHBSaE9fTXlOSTNUMFU2OG1KQ3k?oc=5)
+
+---
+
+### [働くママに乳がん、幼い子たちにどう伝えれば 髪も眉毛も抜けて…「普通に接してもらえて救われた」](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9EQXVvOHlfN0o2RjNWRVdYY2dlYm93b0hEWV9wTllXNVZPTGZIVlVvczN5bl9IejVnWG92M3NGN3BpZmRxOFItRWs2dHNocHoxWHRN?oc=5)
+
+2026-11-23
+
+出典: [ENCOUNT](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9EQXVvOHlfN0o2RjNWRVdYY2dlYm93b0hEWV9wTllXNVZPTGZIVlVvczN5bl9IejVnWG92M3NGN3BpZmRxOFItRWs2dHNocHoxWHRN?oc=5)
 
 ---
 

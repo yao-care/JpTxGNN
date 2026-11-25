@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "タミフルドライシロップ３％（選） に関する健康ニュース。予測適応症 0 件。"
 permalink: /news/oseltamivir/
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 ---
 
 # タミフルドライシロップ３％（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="タミフルドライシロップ３％（選） に関するニュースは？">
-<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>30 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>32 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ last_modified_at: 2026-11-24
 <p><a href="{{ '/drugs/oseltamivir/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（30 件）
+## 関連ニュース（32 件）
 
 ### [79歳の患者がインフルエンザに感染後、昏睡状態に陥り、意識障害を起こしている。](https://news.google.com/rss/articles/CBMihAFBVV95cUxQWVk2NmdqVVlhYm0xYzNfMVFadE5ibENCSHBsV2xRR1JnS3g3Z280cXZ0LXZMY2RnT3RwQ1VJdFc3OFg1YVZLWGtaNlhNeG5rLUR1WXFvbmZUZVlwRDVnRWlkUTM5dEJ1YUlmT2U4cFU4ME1JNFo5c2FtbF9BaWwyZnlGcFY?oc=5)
 
@@ -93,6 +93,14 @@ last_modified_at: 2026-11-24
 2026-11-21 <span class="news-indication-tag">インフルエンザ</span>
 
 出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hdHhudkl6dVYxak9aQ25PWGRFYlRjbGJjQWhsUXdhdDkxZEV2eU41emZMakU0N3pXdlBEbXg3eV9saWFWcXh0LWdHb1dmM1BjSUVmMTNZb2UwaF9CMHc?oc=5)
+
+---
+
+### [インフルエンザや風邪の症状が４割減？1日30分、一度に2、3個食べるとよいものとは【専門家が解説】](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sbmwzd2dueU1qSGNDZU45UzFqbjRRMFFBNVMxdkxDdkpyajZOT1JEQlBDZndpemVaUk4zRU0wRUk3UndnQ2FYV0QzZ01TSjZBVGJZNUkwN2tNWWZueldEMGpKVVlDeVU?oc=5)
+
+2026-11-21 <span class="news-indication-tag">インフルエンザ</span> <span class="news-indication-tag">風邪</span>
+
+出典: [Infoseek](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sbmwzd2dueU1qSGNDZU45UzFqbjRRMFFBNVMxdkxDdkpyajZOT1JEQlBDZndpemVaUk4zRU0wRUk3UndnQ2FYV0QzZ01TSjZBVGJZNUkwN2tNWWZueldEMGpKVVlDeVU?oc=5)
 
 ---
 
@@ -176,6 +184,14 @@ last_modified_at: 2026-11-24
 
 ---
 
+### [子どもがインフルエンザ、仕事はどうする？ 予防対策と仕事・家庭の備え - OVO [オーヴォ]](https://news.google.com/rss/articles/CBMiVkFVX3lxTE41TmlaQnQ5aWtHbTBXTVZBM2pPV0VtYkRya3pGNXRWX3F5XzBHclUxM3BXV2VNUFlzSHEyYVdGcnpmQjRUUXhqRVoya0RmUWxfc3lQelNB?oc=5)
+
+2026-11-18 <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [OVO [オーヴォ]](https://news.google.com/rss/articles/CBMiVkFVX3lxTE41TmlaQnQ5aWtHbTBXTVZBM2pPV0VtYkRya3pGNXRWX3F5XzBHclUxM3BXV2VNUFlzSHEyYVdGcnpmQjRUUXhqRVoya0RmUWxfc3lQelNB?oc=5)
+
+---
+
 ### [全国的に早期流行中のインフルエンザ…目に現れる意外な症状｜一生見える目をつくる](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oU1VqRnJHdzhIUE1DeDQ0d3laS3MxQnBSdjBsckRDQXFoTC1tSHJJcmdacU1CNzUyYThTdzVxVXZncFpiTW96UXlOdEJXWkNoMXZEaXU3LThCMko1dHZlODFSYnd2MTdG?oc=5)
 
 2026-11-18 <span class="news-indication-tag">インフルエンザ</span>
@@ -194,7 +210,7 @@ last_modified_at: 2026-11-24
 
 ### [「インフルエンザの熱」が下がらない理由はご存知ですか？再診の目安となる症状も解説！](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNQl9JTUdYMHhBb2pIMzFaUkVNZUVEekNWZEs5NkhIQmhwYWlXUjdjbEx2X3dncnFrRUIyeVd3b3A3M3prckVWSTZoTDNza3BRd2NrNms4ZEJkTlZHX1Fr?oc=5)
 
-2026-11-18 <span class="news-indication-tag">インフルエンザ</span>
+2026-11-18 <span class="news-indication-tag">インフルエンザ</span> <span class="news-indication-tag">風邪</span> <span class="news-indication-tag">かぜ</span>
 
 出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNQl9JTUdYMHhBb2pIMzFaUkVNZUVEekNWZEs5NkhIQmhwYWlXUjdjbEx2X3dncnFrRUIyeVd3b3A3M3prckVWSTZoTDNza3BRd2NrNms4ZEJkTlZHX1Fr?oc=5)
 
