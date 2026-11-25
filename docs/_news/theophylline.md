@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "ユニコン錠１００　１００ｍｇ（選） に関する健康ニュース。予測適応症 6 件。"
 permalink: /news/theophylline/
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 ---
 
 # ユニコン錠１００　１００ｍｇ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="ユニコン錠１００　１００ｍｇ（選） に関するニュースは？">
-<strong>ユニコン錠１００　１００ｍｇ（選）</strong> には現在 <strong>63 件</strong>の関連ニュースがあり、予測適応症は 6 件です。
+<strong>ユニコン錠１００　１００ｍｇ（選）</strong> には現在 <strong>66 件</strong>の関連ニュースがあり、予測適応症は 6 件です。
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,7 @@ last_modified_at: 2026-11-24
 <p><a href="{{ '/drugs/theophylline/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（63 件）
+## 関連ニュース（66 件）
 
 ### [近江を要とする「原倭国論」提唱　弥生時代研究の第一人者、森岡秀人さん　死惜しむ声　(産経新聞)](https://news.yahoo.co.jp/articles/34d9cb76e2fe9c5604f2ca8bacc63fd78505bdaf?source=rss)
 
@@ -85,6 +85,14 @@ last_modified_at: 2026-11-24
 2026-11-23 <span class="news-indication-tag">がん</span>
 
 出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMihAFBVV95cUxNR1RGYWRMcmxWcGMtbTJGWThEclozZDhyMVB5bGhsZVFsSFNXdEFjd01mRExhUXJNcjlDTmlmbjhiMm1QcVpXODhwekNHazM4ejZVaXZnN0pHSklJbldKSXFHbnZwZ2RFNUswcVZKdzFuRHBSaE9fTXlOSTNUMFU2OG1KQ3k?oc=5)
+
+---
+
+### [働くママに乳がん、幼い子たちにどう伝えれば 髪も眉毛も抜けて…「普通に接してもらえて救われた」](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9EQXVvOHlfN0o2RjNWRVdYY2dlYm93b0hEWV9wTllXNVZPTGZIVlVvczN5bl9IejVnWG92M3NGN3BpZmRxOFItRWs2dHNocHoxWHRN?oc=5)
+
+2026-11-23 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
+
+出典: [ENCOUNT](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9EQXVvOHlfN0o2RjNWRVdYY2dlYm93b0hEWV9wTllXNVZPTGZIVlVvczN5bl9IejVnWG92M3NGN3BpZmRxOFItRWs2dHNocHoxWHRN?oc=5)
 
 ---
 
@@ -141,6 +149,14 @@ last_modified_at: 2026-11-24
 2026-11-22 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">腫瘍</span> <span class="news-indication-tag">悪性腫瘍</span> <span class="news-indication-tag">乳がん</span>
 
 出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/32e402eb9ac912b2796ab72e88bc6ce7cd7ec6f3?source=rss)
+
+---
+
+### [インフルエンザや風邪の症状が４割減？1日30分、一度に2、3個食べるとよいものとは【専門家が解説】](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sbmwzd2dueU1qSGNDZU45UzFqbjRRMFFBNVMxdkxDdkpyajZOT1JEQlBDZndpemVaUk4zRU0wRUk3UndnQ2FYV0QzZ01TSjZBVGJZNUkwN2tNWWZueldEMGpKVVlDeVU?oc=5)
+
+2026-11-21 <span class="news-indication-tag">インフルエンザ</span> <span class="news-indication-tag">風邪</span>
+
+出典: [Infoseek](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sbmwzd2dueU1qSGNDZU45UzFqbjRRMFFBNVMxdkxDdkpyajZOT1JEQlBDZndpemVaUk4zRU0wRUk3UndnQ2FYV0QzZ01TSjZBVGJZNUkwN2tNWWZueldEMGpKVVlDeVU?oc=5)
 
 ---
 
@@ -357,6 +373,14 @@ last_modified_at: 2026-11-24
 2026-11-18 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
 
 出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/ba64c886d61bd94504c678b79478d8263d85d463?source=rss)
+
+---
+
+### [「インフルエンザの熱」が下がらない理由はご存知ですか？再診の目安となる症状も解説！](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNQl9JTUdYMHhBb2pIMzFaUkVNZUVEekNWZEs5NkhIQmhwYWlXUjdjbEx2X3dncnFrRUIyeVd3b3A3M3prckVWSTZoTDNza3BRd2NrNms4ZEJkTlZHX1Fr?oc=5)
+
+2026-11-18 <span class="news-indication-tag">インフルエンザ</span> <span class="news-indication-tag">風邪</span> <span class="news-indication-tag">かぜ</span>
+
+出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNQl9JTUdYMHhBb2pIMzFaUkVNZUVEekNWZEs5NkhIQmhwYWlXUjdjbEx2X3dncnFrRUIyeVd3b3A3M3prckVWSTZoTDNza3BRd2NrNms4ZEJkTlZHX1Fr?oc=5)
 
 ---
 

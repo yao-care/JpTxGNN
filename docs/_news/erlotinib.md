@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "エルロチニブ錠１５０ｍｇ「ＮＫ」 に関する健康ニュース。予測適応症 0 件。"
 permalink: /news/erlotinib/
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 ---
 
 # エルロチニブ錠１５０ｍｇ「ＮＫ」 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="エルロチニブ錠１５０ｍｇ「ＮＫ」 に関するニュースは？">
-<strong>エルロチニブ錠１５０ｍｇ「ＮＫ」</strong> には現在 <strong>111 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>エルロチニブ錠１５０ｍｇ「ＮＫ」</strong> には現在 <strong>112 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ last_modified_at: 2026-11-24
 <p><a href="{{ '/drugs/erlotinib/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（111 件）
+## 関連ニュース（112 件）
 
 ### [近江を要とする「原倭国論」提唱　弥生時代研究の第一人者、森岡秀人さん　死惜しむ声　(産経新聞)](https://news.yahoo.co.jp/articles/34d9cb76e2fe9c5604f2ca8bacc63fd78505bdaf?source=rss)
 
@@ -85,6 +85,14 @@ last_modified_at: 2026-11-24
 2026-11-23 <span class="news-indication-tag">認知症</span>
 
 出典: [ｄメニューニュース](https://news.google.com/rss/articles/CBMiekFVX3lxTE1HLXhvc2VudkxjcXY0eWcwX3lRLVgybjRiQTVaai1ER1NYeE5FbXp0SWRCNlBTcEJUbzg1MmdLVWR6NWNKblpNTGZNT3laWkpxVlgyOHB1dlN1NW1nQ2R4T3Yxa1FZN2V0eVpHTDdWZ1htcW84UXExNkhR0gF_QVVfeXFMTThpcUFCSEV0bVl5UGM5NjUza294alNFTUQyQ3VwQ0tuSzlRMXFiTWYyRmhPaTBCUHFUMGJuNnZ5QUVHVGNCamJLZ1VfdTI2ellFYnlwRF9weFNXMDRaaFZZbzJmMEhEcE5TMDBWNXNTVy05eGx4YXBSQWlSdV9tUQ?oc=5)
+
+---
+
+### [働くママに乳がん、幼い子たちにどう伝えれば 髪も眉毛も抜けて…「普通に接してもらえて救われた」](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9EQXVvOHlfN0o2RjNWRVdYY2dlYm93b0hEWV9wTllXNVZPTGZIVlVvczN5bl9IejVnWG92M3NGN3BpZmRxOFItRWs2dHNocHoxWHRN?oc=5)
+
+2026-11-23 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
+
+出典: [ENCOUNT](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9EQXVvOHlfN0o2RjNWRVdYY2dlYm93b0hEWV9wTllXNVZPTGZIVlVvczN5bl9IejVnWG92M3NGN3BpZmRxOFItRWs2dHNocHoxWHRN?oc=5)
 
 ---
 

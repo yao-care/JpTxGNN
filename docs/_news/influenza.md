@@ -3,9 +3,9 @@ layout: default
 title: "インフルエンザ (influenza) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 23 件、関連医薬品 1 件。"
+description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 25 件、関連医薬品 1 件。"
 permalink: /news/influenza/
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 ---
 
 # インフルエンザ (influenza) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="インフルエンザ (influenza) に関するニュースは？">
-<strong>インフルエンザ (influenza)</strong> には現在 <strong>23 件</strong>の関連ニュースと 1 件の関連医薬品があります。
+<strong>インフルエンザ (influenza)</strong> には現在 <strong>25 件</strong>の関連ニュースと 1 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ last_modified_at: 2026-11-24
 </ul>
 </div>
 
-## 関連ニュース（23 件）
+## 関連ニュース（25 件）
 
 ### [79歳の患者がインフルエンザに感染後、昏睡状態に陥り、意識障害を起こしている。](https://news.google.com/rss/articles/CBMihAFBVV95cUxQWVk2NmdqVVlhYm0xYzNfMVFadE5ibENCSHBsV2xRR1JnS3g3Z280cXZ0LXZMY2RnT3RwQ1VJdFc3OFg1YVZLWGtaNlhNeG5rLUR1WXFvbmZUZVlwRDVnRWlkUTM5dEJ1YUlmT2U4cFU4ME1JNFo5c2FtbF9BaWwyZnlGcFY?oc=5)
 
@@ -69,6 +69,14 @@ last_modified_at: 2026-11-24
 2026-11-21
 
 出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hdHhudkl6dVYxak9aQ25PWGRFYlRjbGJjQWhsUXdhdDkxZEV2eU41emZMakU0N3pXdlBEbXg3eV9saWFWcXh0LWdHb1dmM1BjSUVmMTNZb2UwaF9CMHc?oc=5)
+
+---
+
+### [インフルエンザや風邪の症状が４割減？1日30分、一度に2、3個食べるとよいものとは【専門家が解説】](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sbmwzd2dueU1qSGNDZU45UzFqbjRRMFFBNVMxdkxDdkpyajZOT1JEQlBDZndpemVaUk4zRU0wRUk3UndnQ2FYV0QzZ01TSjZBVGJZNUkwN2tNWWZueldEMGpKVVlDeVU?oc=5)
+
+2026-11-21
+
+出典: [Infoseek](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sbmwzd2dueU1qSGNDZU45UzFqbjRRMFFBNVMxdkxDdkpyajZOT1JEQlBDZndpemVaUk4zRU0wRUk3UndnQ2FYV0QzZ01TSjZBVGJZNUkwN2tNWWZueldEMGpKVVlDeVU?oc=5)
 
 ---
 
@@ -133,6 +141,14 @@ last_modified_at: 2026-11-24
 2026-11-19
 
 出典: [Infoseek](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9abGJ1NjJVWHhqSFR5M2RsZ1l4WGJmU0RLY0FlU2ZNMHM0YlNXQmRqTjViZ2pIUTFKd0pLUmk5TzNFcXBydmNrRms1TmdCZllmbk1GcHA5ZUh4WEtxNXZMREtBdw?oc=5)
+
+---
+
+### [子どもがインフルエンザ、仕事はどうする？ 予防対策と仕事・家庭の備え - OVO [オーヴォ]](https://news.google.com/rss/articles/CBMiVkFVX3lxTE41TmlaQnQ5aWtHbTBXTVZBM2pPV0VtYkRya3pGNXRWX3F5XzBHclUxM3BXV2VNUFlzSHEyYVdGcnpmQjRUUXhqRVoya0RmUWxfc3lQelNB?oc=5)
+
+2026-11-18
+
+出典: [OVO [オーヴォ]](https://news.google.com/rss/articles/CBMiVkFVX3lxTE41TmlaQnQ5aWtHbTBXTVZBM2pPV0VtYkRya3pGNXRWX3F5XzBHclUxM3BXV2VNUFlzSHEyYVdGcnpmQjRUUXhqRVoya0RmUWxfc3lQelNB?oc=5)
 
 ---
 

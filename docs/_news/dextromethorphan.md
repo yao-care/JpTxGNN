@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "デキストロメトルファン臭化水素酸塩細粒１０％「ツルハラ」 に関する健康ニュース。予測適応症 5 件。"
 permalink: /news/dextromethorphan/
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-25
 ---
 
 # デキストロメトルファン臭化水素酸塩細粒１０％「ツルハラ」 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-14
 ---
 
 <p class="key-answer" data-question="デキストロメトルファン臭化水素酸塩細粒１０％「ツルハラ」 に関するニュースは？">
-<strong>デキストロメトルファン臭化水素酸塩細粒１０％「ツルハラ」</strong> には現在 <strong>1 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>デキストロメトルファン臭化水素酸塩細粒１０％「ツルハラ」</strong> には現在 <strong>3 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,23 @@ last_modified_at: 2026-11-14
 <p><a href="{{ '/drugs/dextromethorphan/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（1 件）
+## 関連ニュース（3 件）
+
+### [インフルエンザや風邪の症状が４割減？1日30分、一度に2、3個食べるとよいものとは【専門家が解説】](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sbmwzd2dueU1qSGNDZU45UzFqbjRRMFFBNVMxdkxDdkpyajZOT1JEQlBDZndpemVaUk4zRU0wRUk3UndnQ2FYV0QzZ01TSjZBVGJZNUkwN2tNWWZueldEMGpKVVlDeVU?oc=5)
+
+2026-11-21 <span class="news-indication-tag">インフルエンザ</span> <span class="news-indication-tag">風邪</span>
+
+出典: [Infoseek](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sbmwzd2dueU1qSGNDZU45UzFqbjRRMFFBNVMxdkxDdkpyajZOT1JEQlBDZndpemVaUk4zRU0wRUk3UndnQ2FYV0QzZ01TSjZBVGJZNUkwN2tNWWZueldEMGpKVVlDeVU?oc=5)
+
+---
+
+### [「インフルエンザの熱」が下がらない理由はご存知ですか？再診の目安となる症状も解説！](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNQl9JTUdYMHhBb2pIMzFaUkVNZUVEekNWZEs5NkhIQmhwYWlXUjdjbEx2X3dncnFrRUIyeVd3b3A3M3prckVWSTZoTDNza3BRd2NrNms4ZEJkTlZHX1Fr?oc=5)
+
+2026-11-18 <span class="news-indication-tag">インフルエンザ</span> <span class="news-indication-tag">風邪</span> <span class="news-indication-tag">かぜ</span>
+
+出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBNQl9JTUdYMHhBb2pIMzFaUkVNZUVEekNWZEs5NkhIQmhwYWlXUjdjbEx2X3dncnFrRUIyeVd3b3A3M3prckVWSTZoTDNza3BRd2NrNms4ZEJkTlZHX1Fr?oc=5)
+
+---
 
 ### [感染性腸炎・かぜに、経口補水液の備えを - 日本教育新聞電子版 NIKKYOWEB](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBEN25fNno5WDh6Ym42UFQ0VUlKdmdjUVBSaE8tTkltT2x1al9YODZ5eTdWb1NhM3N0WUhZNXp4SXUxdHNuMzNoNUxaTjZLcnJ4dlgw?oc=5)
 
