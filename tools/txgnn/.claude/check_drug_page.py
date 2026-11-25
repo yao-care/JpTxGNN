@@ -221,6 +221,9 @@ SCORE_CTX = re.compile(SCORE_HDR.pattern + r"|TxGNN", re.I)
 #   德文「50%ige(n)／50%iger」是「50% 的」形容詞（IC50 的 50%igen Hemmkonzentration），不是分數。
 NOT_SCORE_CTX = re.compile(r"\w*ascor(?:b\w*|(?=…))", re.I)  # 程式表截斷的「ASCOR…」也算
 PCT_ADJ = re.compile(r"(?<![\d.,])\d{1,3}(?:[.,]\d+)?\s?%ig(?:e[nrms]?)?\b", re.I)
+# 2026-11-25（第八輪，30 站全資料重跑）：同樣另成一組——數字後面緊接濃度／劑量單位（0,92 nM、5 mg、10 IU）是量測值、不是分數
+#   （DE selpercatinib 的 FDA 仿單節錄「IC 50-Werten im Bereich von 0,92 nM」：「Werten」命中 SCORE_CTX 的 Wert，0,92 被當成分數）。
+NUM_UNIT = re.compile(r"(?<![\d.,])\d+(?:[.,]\d+)?\s?(?:[nµμmp]M|[nµμmp]mol(?:/l)?|[nµμm]g(?:/(?:m[lL]|kg|d|dL))?|m[lL]|IE|IU|U/m[lL])(?![A-Za-z])")
 
 
 def score_ctx(s):
@@ -2423,7 +2426,7 @@ def check_page(site, f, cls, want_noindex):
         for s in sentences(line):
             if not score_ctx(s):
                 continue
-            toks = [x for x in score_tokens(PCT_ADJ.sub(" ", s)) if x[0] >= 0.5]
+            toks = [x for x in score_tokens(NUM_UNIT.sub(" ", PCT_ADJ.sub(" ", s))) if x[0] >= 0.5]
             if not toks:
                 continue
             if data_ok and any(not matches_kept(v, kept_sc) for v, _, _ in toks):
