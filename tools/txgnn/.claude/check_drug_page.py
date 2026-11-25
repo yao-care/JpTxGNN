@@ -118,6 +118,10 @@ GNN_PHRASE = re.compile(r"graph[- ]?neural[- ]?network\w*|graph[- ]based neural|
                         r"red(es)? neuronal(es)? de grafos|rede(s)? neura(l|is) de grafos|réseaux? de neurones sur graphes|reti neurali a grafo|"
                         r"graph neural|圖神經網路|图神经网络|グラフニューラルネットワーク|그래프 신경망|rangkaian neural graf|الشبكة العصبية البيانية|"
                         r"الشبكات العصبية الرسومية|شبكة عصبية رسومية|โครงข่ายประสาทเทียมแบบกราฟ|Graph Neural Network", re.I)
+# 2026-11-25（第七輪，用戶決定）：不是「圖」的字另成一組排除，判斷 KG 詞前跟 GNN 說法一樣先拿掉（原本的條件不動）：
+#   片假名「〜グラフィー」是 -graphy（オートラジオグラフィー＝autoradiography、クロマトグラフィー），不是グラフ（graph）；
+#   馬來文「graf lawan perumah」是 graft-versus-host（移植物抗宿主），graf＝graft。
+NOT_KG_PHRASE = re.compile(r"[ァ-ヶー]*グラフィ[ァ-ヶー]*|\bgraf[- ]lawan[- ]perumah\b", re.I)
 OK_EXEMPT = re.compile(next(r["pattern"] for r in _rows if r["lang"] == "ok_exempt"))
 KPAT = defaultdict(list)
 for r in _rows:
@@ -189,7 +193,7 @@ def _p5_line(line, pats, section):
         s = re.sub(r"(\d)[.,](\d)", r"\1\2", s0)  # 句型裡的 [^.\n] 不該被分數的小數點截斷
         if any(p.search(s) for p in pats) or KG_AS_PRED.search(s):
             out.append(s0); continue
-        s2 = GNN_PHRASE.sub(" ", s0)
+        s2 = NOT_KG_PHRASE.sub(" ", GNN_PHRASE.sub(" ", s0))
         if not (KG_WORD.search(s2) or KG_ABBR.search(s2)):
             continue
         num = bool(score_tokens(s0))
@@ -212,6 +216,15 @@ CONF = re.compile(r"confiden|confianza|confiança|confiance|confidenza|fiducia|K
 SCORE_HDR = re.compile(r"scor\w*|\bpunt\w*|\bpontua\w*|\bpunteggi\w*|\bpistem\w*|\bpoäng\w*|\bpoeng\w*|\bskor\w*|Wert|"
                        r"分數|分数|スコア|점수|درجة|คะแนน", re.I)
 SCORE_CTX = re.compile(SCORE_HDR.pattern + r"|TxGNN", re.I)
+# 2026-11-25（第七輪，用戶決定）：本文分數判斷的誤判另成一組排除（原本的條件不動）：
+#   SCORE_CTX 的 scor 沒有字界，ASCORBIC ACID（維生素 C，程式表截斷成「ASCOR…」也是）會被當成 score，Tw 程式許可證表（HTML）的成分含量（50%、98%）就被當成分數；
+#   德文「50%ige(n)／50%iger」是「50% 的」形容詞（IC50 的 50%igen Hemmkonzentration），不是分數。
+NOT_SCORE_CTX = re.compile(r"\w*ascor(?:b\w*|(?=…))", re.I)  # 程式表截斷的「ASCOR…」也算
+PCT_ADJ = re.compile(r"(?<![\d.,])\d{1,3}(?:[.,]\d+)?\s?%ig(?:e[nrms]?)?\b", re.I)
+
+
+def score_ctx(s):
+    return SCORE_CTX.search(NOT_SCORE_CTX.sub(" ", s))
 
 
 THRESHOLD = re.compile(r"(≥|≧|>=|>|⩾|at least|no less than|mindestens|au moins|al menos|pelo menos|almeno|vähintään|minst|mindst|"
@@ -2408,9 +2421,9 @@ def check_page(site, f, cls, want_noindex):
         if line.startswith("|"):
             continue
         for s in sentences(line):
-            if not SCORE_CTX.search(s):
+            if not score_ctx(s):
                 continue
-            toks = [x for x in score_tokens(s) if x[0] >= 0.5]
+            toks = [x for x in score_tokens(PCT_ADJ.sub(" ", s)) if x[0] >= 0.5]
             if not toks:
                 continue
             if data_ok and any(not matches_kept(v, kept_sc) for v, _, _ in toks):
@@ -2423,7 +2436,7 @@ def check_page(site, f, cls, want_noindex):
     #     都是分數寫成百分比；臨床數據（95.9% 治癒率、一位小數）不算。表格列（快速總覽以外）也查。
     for line in body.split("\n"):
         for s in (sentences(line) if not line.startswith("|") else [line]):
-            if SCORE_CTX.search(s) and not line.startswith("|"):
+            if score_ctx(s) and not line.startswith("|"):
                 continue  # 上面已判
             if PCT_SCORE.search(norm_digits(s)):
                 E("P6", f"本文分數寫成百分比：{s[:60]}")
