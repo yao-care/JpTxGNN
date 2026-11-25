@@ -1,9 +1,19 @@
 {
  "labels": {
   "Gültig": "valid",
-  "gültig": "valid"
+  "gültig": "valid",
+  "Zurückgezogen": "cancelled",
+  "Erloschen": "cancelled",
+  "Abgelaufen": "cancelled",
+  "Widerrufen": "cancelled",
+  "Ruhend (suspendiert)": "cancelled",
+  "Abgelehnt": "cancelled",
+  "Nicht zugelassen": "cancelled",
+  "Noch nicht zugelassen (positives CHMP-Gutachten)": "cancelled",
+  "Noch nicht zugelassen (CHMP-Gutachten in Überprüfung)": "cancelled"
  },
  "preferred": {
-  "valid": "Gültig"
+  "valid": "Gültig",
+  "cancelled": "Zurückgezogen"
  }
 }
