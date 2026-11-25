@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "ザルティア錠５ｍｇ（選） に関する健康ニュース。予測適応症 8 件。"
 permalink: /news/tadalafil/
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 ---
 
 # ザルティア錠５ｍｇ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="ザルティア錠５ｍｇ（選） に関するニュースは？">
-<strong>ザルティア錠５ｍｇ（選）</strong> には現在 <strong>28 件</strong>の関連ニュースがあり、予測適応症は 8 件です。
+<strong>ザルティア錠５ｍｇ（選）</strong> には現在 <strong>30 件</strong>の関連ニュースがあり、予測適応症は 8 件です。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ last_modified_at: 2026-11-24
 <p><a href="{{ '/drugs/tadalafil/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（28 件）
+## 関連ニュース（30 件）
+
+### [カロリーゼロの甘味料：脳卒中のリスクに注意しましょう。](https://news.google.com/rss/articles/CBMihwFBVV95cUxOSUJJQjNIbjJDaDRqOVM4b2JpSXVyQTk4YVpGemQ4TnpUSmFaSXc5MERNaHVacG1EaDRmeEQyc1pYemZYeHNYck1vcDlsMGJnZ0Zyb09FQmZ5LWl3UFFMMEc2WWFZcGE0QnQteHVhZ0V4dTRaV3NTRHZHSlpIM05TZlZQbG82ODg?oc=5)
+
+2026-11-25 <span class="news-indication-tag">脳卒中</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMihwFBVV95cUxOSUJJQjNIbjJDaDRqOVM4b2JpSXVyQTk4YVpGemQ4TnpUSmFaSXc5MERNaHVacG1EaDRmeEQyc1pYemZYeHNYck1vcDlsMGJnZ0Zyb09FQmZ5LWl3UFFMMEc2WWFZcGE0QnQteHVhZ0V4dTRaV3NTRHZHSlpIM05TZlZQbG82ODg?oc=5)
+
+---
 
 ### [脳卒中患者の数は増加傾向にある。](https://news.google.com/rss/articles/CBMibEFVX3lxTE1aLWQ4OWxkZmNJRmNHRXdqdmVzaFZ5Rk1vVnZiNWVPbGdYYlhzMHVTSHRQaXM1emh3aFJiWUNWdWNTUktMV2o2cDM1M0ZnRDhwZlkxRi1SUGNqR0VaYkgwQ0NJQi01VjJkbFVXWQ?oc=5)
 
@@ -119,6 +127,14 @@ last_modified_at: 2026-11-24
 2026-11-19 <span class="news-indication-tag">認知症</span> <span class="news-indication-tag">心筋梗塞</span> <span class="news-indication-tag">脳梗塞</span>
 
 出典: [時事メディカル](https://news.google.com/rss/articles/CBMiTEFVX3lxTFBtelNJc1cyTmFKS1cxdHZ1Y3k2OGJETmwxRzdKR1NNbnF5R21BdHZGN3NhaF8xMElzVTJIbzZtNGJ1RHRKdm41a004UULSAVJBVV95cUxQcVJyR1Y1VC01UnlvT1UyakwzcXp6TUlnX2h0ZE5tZ0l4RXNrZlA2b0ZxaFNCcTAtYVIxTUI2OGJvcUFUN3R6ZFZxZDJCWGJWZnNR?oc=5)
+
+---
+
+### [脳卒中治療薬：市場シェア分析、業界動向と統計、成長予測（2026年～2031年）](https://news.google.com/rss/articles/CBMiT0FVX3lxTE16WmpIQlNjYjFzZXotakN0ZldWajZpWjVia3FYTTdrUjU0QXRSSG85OWRFOXpLbl80NnBSVzlhUm5RN2Rvc0MxUUZUZlhQb1E?oc=5)
+
+2026-11-19 <span class="news-indication-tag">脳卒中</span>
+
+出典: [Newscast.jp](https://news.google.com/rss/articles/CBMiT0FVX3lxTE16WmpIQlNjYjFzZXotakN0ZldWajZpWjVia3FYTTdrUjU0QXRSSG85OWRFOXpLbl80NnBSVzlhUm5RN2Rvc0MxUUZUZlhQb1E?oc=5)
 
 ---
 

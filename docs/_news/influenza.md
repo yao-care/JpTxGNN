@@ -3,7 +3,7 @@ layout: default
 title: "インフルエンザ (influenza) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 25 件、関連医薬品 1 件。"
+description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 27 件、関連医薬品 1 件。"
 permalink: /news/influenza/
 last_modified_at: 2026-11-25
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="インフルエンザ (influenza) に関するニュースは？">
-<strong>インフルエンザ (influenza)</strong> には現在 <strong>25 件</strong>の関連ニュースと 1 件の関連医薬品があります。
+<strong>インフルエンザ (influenza)</strong> には現在 <strong>27 件</strong>の関連ニュースと 1 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,23 @@ last_modified_at: 2026-11-25
 </ul>
 </div>
 
-## 関連ニュース（25 件）
+## 関連ニュース（27 件）
+
+### [米 牧場で働く3人が鳥インフルエンザウイルス感染 1人死亡 WHO](https://news.google.com/rss/articles/CBMiX0FVX3lxTE03UFR1UXVOSGpVYkQyTGZvTk14RTctYnRzNHFXWVowTjh6cm9lSWtYbk9mU1NGVzRiX3ljdHFGXzRWc09nUklFcjktNTZqWEltLXlHWDlSR3RZZm1PcExZ?oc=5)
+
+2026-11-25
+
+出典: [NHKニュース](https://news.google.com/rss/articles/CBMiX0FVX3lxTE03UFR1UXVOSGpVYkQyTGZvTk14RTctYnRzNHFXWVowTjh6cm9lSWtYbk9mU1NGVzRiX3ljdHFGXzRWc09nUklFcjktNTZqWEltLXlHWDlSR3RZZm1PcExZ?oc=5)
+
+---
+
+### [2025/26シーズンのインフルエンザ分離株の解析](https://news.google.com/rss/articles/CBMiggFBVV95cUxQUmtlRGtHV3ZYdFpjU2FuRVVLbEdVSTItbXJfamdFdUdyOUVTNzBMeTF5eEUySU9pNndtY1Q3eFVwLVkwRzRMVm9IcUhValdHaE5LZm9vMlJOc0EzQS1Fc2NtSDNBSGhldFRuVkJzTU9UVkNFVzJYRkV6SDJaaG41WkVn?oc=5)
+
+2026-11-25
+
+出典: [国立健康危機管理研究機構](https://news.google.com/rss/articles/CBMiggFBVV95cUxQUmtlRGtHV3ZYdFpjU2FuRVVLbEdVSTItbXJfamdFdUdyOUVTNzBMeTF5eEUySU9pNndtY1Q3eFVwLVkwRzRMVm9IcUhValdHaE5LZm9vMlJOc0EzQS1Fc2NtSDNBSGhldFRuVkJzTU9UVkNFVzJYRkV6SDJaaG41WkVn?oc=5)
+
+---
 
 ### [79歳の患者がインフルエンザに感染後、昏睡状態に陥り、意識障害を起こしている。](https://news.google.com/rss/articles/CBMihAFBVV95cUxQWVk2NmdqVVlhYm0xYzNfMVFadE5ibENCSHBsV2xRR1JnS3g3Z280cXZ0LXZMY2RnT3RwQ1VJdFc3OFg1YVZLWGtaNlhNeG5rLUR1WXFvbmZUZVlwRDVnRWlkUTM5dEJ1YUlmT2U4cFU4ME1JNFo5c2FtbF9BaWwyZnlGcFY?oc=5)
 

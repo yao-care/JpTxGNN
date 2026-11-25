@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="ニューロタン錠５０ｍｇ（選） に関するニュースは？">
-<strong>ニューロタン錠５０ｍｇ（選）</strong> には現在 <strong>86 件</strong>の関連ニュースがあり、予測適応症は 7 件です。
+<strong>ニューロタン錠５０ｍｇ（選）</strong> には現在 <strong>90 件</strong>の関連ニュースがあり、予測適応症は 7 件です。
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,23 @@ last_modified_at: 2026-11-25
 <p><a href="{{ '/drugs/losartan/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（86 件）
+## 関連ニュース（90 件）
+
+### [職域等がん検診受診状況調査ご協力のお願い｜行政情報](https://news.google.com/rss/articles/CBMiakFVX3lxTFBLTFU4ZDluSGROVEZBSURYVjN6Y1RQZkxiMVNSekJmOWU0dVJ4VVJ2TnIxVFFDLUx5Yk9yb01ZNmdnNHhsazBxWU9KNzVLdlRrOGF6OEJjaC11VERXYWJGbHBWeE5jMFppX3c?oc=5)
+
+2026-11-25 <span class="news-indication-tag">がん</span>
+
+出典: [伊那谷ねっと](https://news.google.com/rss/articles/CBMiakFVX3lxTFBLTFU4ZDluSGROVEZBSURYVjN6Y1RQZkxiMVNSekJmOWU0dVJ4VVJ2TnIxVFFDLUx5Yk9yb01ZNmdnNHhsazBxWU9KNzVLdlRrOGF6OEJjaC11VERXYWJGbHBWeE5jMFppX3c?oc=5)
+
+---
+
+### [カロリーゼロの甘味料：脳卒中のリスクに注意しましょう。](https://news.google.com/rss/articles/CBMihwFBVV95cUxOSUJJQjNIbjJDaDRqOVM4b2JpSXVyQTk4YVpGemQ4TnpUSmFaSXc5MERNaHVacG1EaDRmeEQyc1pYemZYeHNYck1vcDlsMGJnZ0Zyb09FQmZ5LWl3UFFMMEc2WWFZcGE0QnQteHVhZ0V4dTRaV3NTRHZHSlpIM05TZlZQbG82ODg?oc=5)
+
+2026-11-25 <span class="news-indication-tag">脳卒中</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMihwFBVV95cUxOSUJJQjNIbjJDaDRqOVM4b2JpSXVyQTk4YVpGemQ4TnpUSmFaSXc5MERNaHVacG1EaDRmeEQyc1pYemZYeHNYck1vcDlsMGJnZ0Zyb09FQmZ5LWl3UFFMMEc2WWFZcGE0QnQteHVhZ0V4dTRaV3NTRHZHSlpIM05TZlZQbG82ODg?oc=5)
+
+---
 
 ### [近江を要とする「原倭国論」提唱　弥生時代研究の第一人者、森岡秀人さん　死惜しむ声　(産経新聞)](https://news.yahoo.co.jp/articles/34d9cb76e2fe9c5604f2ca8bacc63fd78505bdaf?source=rss)
 
@@ -54,6 +70,14 @@ last_modified_at: 2026-11-25
 2026-11-24 <span class="news-indication-tag">脳卒中</span>
 
 出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMibEFVX3lxTE1aLWQ4OWxkZmNJRmNHRXdqdmVzaFZ5Rk1vVnZiNWVPbGdYYlhzMHVTSHRQaXM1emh3aFJiWUNWdWNTUktMV2o2cDM1M0ZnRDhwZlkxRi1SUGNqR0VaYkgwQ0NJQi01VjJkbFVXWQ?oc=5)
+
+---
+
+### [働くママに乳がん、幼い子たちにどう伝えれば 髪も眉毛も抜けて…「普通に接してもらえて救われた」（ENCOUNT）](https://news.google.com/rss/articles/CBMif0FVX3lxTE91c2pzTmpBd2RsSFgxcl93dlowY2VuREw3X0JBRmszbHMyREJLcXZkUTlkV0RjTERtb1ozQ2pDOUNBU0VLN1NneGRvckZ1M0U2T2FiZjVMNUNjaHBidy1NWjdjYTQ3SlA4X3VuUDBraWdYMWRxQ181M3pqVk0zbFE?oc=5)
+
+2026-11-24 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">乳がん</span>
+
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE91c2pzTmpBd2RsSFgxcl93dlowY2VuREw3X0JBRmszbHMyREJLcXZkUTlkV0RjTERtb1ozQ2pDOUNBU0VLN1NneGRvckZ1M0U2T2FiZjVMNUNjaHBidy1NWjdjYTQ3SlA4X3VuUDBraWdYMWRxQ181M3pqVk0zbFE?oc=5)
 
 ---
 
@@ -358,6 +382,14 @@ last_modified_at: 2026-11-25
 2026-11-19 <span class="news-indication-tag">がん</span>
 
 出典: [保健指導リソースガイド](https://news.google.com/rss/articles/CBMic0FVX3lxTFBtQnZTTWRFc3pWVWJxb3FJdWE0WDhTSVJjM01CaW1TR3FkYjdIWDlmdTlIejBpdmRLWG1fcDVuaU92QVE1VWx2dXBwSXUyc29RMFZhcXhOVEQtWWlPY3JCQ1VBS3JCRGhDT1NLYTUxN1M5RHc?oc=5)
+
+---
+
+### [脳卒中治療薬：市場シェア分析、業界動向と統計、成長予測（2026年～2031年）](https://news.google.com/rss/articles/CBMiT0FVX3lxTE16WmpIQlNjYjFzZXotakN0ZldWajZpWjVia3FYTTdrUjU0QXRSSG85OWRFOXpLbl80NnBSVzlhUm5RN2Rvc0MxUUZUZlhQb1E?oc=5)
+
+2026-11-19 <span class="news-indication-tag">脳卒中</span>
+
+出典: [Newscast.jp](https://news.google.com/rss/articles/CBMiT0FVX3lxTE16WmpIQlNjYjFzZXotakN0ZldWajZpWjVia3FYTTdrUjU0QXRSSG85OWRFOXpLbl80NnBSVzlhUm5RN2Rvc0MxUUZUZlhQb1E?oc=5)
 
 ---
 

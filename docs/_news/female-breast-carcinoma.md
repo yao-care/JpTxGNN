@@ -3,7 +3,7 @@ layout: default
 title: "乳がん (female breast carcinoma) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "乳がん (female breast carcinoma) に関する健康ニュース。ニュース 10 件、関連医薬品 7 件。"
+description: "乳がん (female breast carcinoma) に関する健康ニュース。ニュース 11 件、関連医薬品 7 件。"
 permalink: /news/female-breast-carcinoma/
 last_modified_at: 2026-11-25
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="乳がん (female breast carcinoma) に関するニュースは？">
-<strong>乳がん (female breast carcinoma)</strong> には現在 <strong>10 件</strong>の関連ニュースと 7 件の関連医薬品があります。
+<strong>乳がん (female breast carcinoma)</strong> には現在 <strong>11 件</strong>の関連ニュースと 7 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,15 @@ last_modified_at: 2026-11-25
 </ul>
 </div>
 
-## 関連ニュース（10 件）
+## 関連ニュース（11 件）
+
+### [働くママに乳がん、幼い子たちにどう伝えれば 髪も眉毛も抜けて…「普通に接してもらえて救われた」（ENCOUNT）](https://news.google.com/rss/articles/CBMif0FVX3lxTE91c2pzTmpBd2RsSFgxcl93dlowY2VuREw3X0JBRmszbHMyREJLcXZkUTlkV0RjTERtb1ozQ2pDOUNBU0VLN1NneGRvckZ1M0U2T2FiZjVMNUNjaHBidy1NWjdjYTQ3SlA4X3VuUDBraWdYMWRxQ181M3pqVk0zbFE?oc=5)
+
+2026-11-24
+
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE91c2pzTmpBd2RsSFgxcl93dlowY2VuREw3X0JBRmszbHMyREJLcXZkUTlkV0RjTERtb1ozQ2pDOUNBU0VLN1NneGRvckZ1M0U2T2FiZjVMNUNjaHBidy1NWjdjYTQ3SlA4X3VuUDBraWdYMWRxQ181M3pqVk0zbFE?oc=5)
+
+---
 
 ### [働くママに乳がん、幼い子たちにどう伝えれば 髪も眉毛も抜けて…「普通に接してもらえて救われた」](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9EQXVvOHlfN0o2RjNWRVdYY2dlYm93b0hEWV9wTllXNVZPTGZIVlVvczN5bl9IejVnWG92M3NGN3BpZmRxOFItRWs2dHNocHoxWHRN?oc=5)
 

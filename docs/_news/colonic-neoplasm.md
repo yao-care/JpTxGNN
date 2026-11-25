@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "直腸がん (colonic neoplasm) 関連ニュース"
+title: "大腸がん (colonic neoplasm) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "直腸がん (colonic neoplasm) に関する健康ニュース。ニュース 11 件、関連医薬品 1 件。"
+description: "大腸がん (colonic neoplasm) に関する健康ニュース。ニュース 11 件、関連医薬品 1 件。"
 permalink: /news/colonic-neoplasm/
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 ---
 
-# 直腸がん (colonic neoplasm) 関連ニュース
+# 大腸がん (colonic neoplasm) 関連ニュース
 
 [← ニュース一覧に戻る]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="直腸がん (colonic neoplasm) に関するニュースは？">
-<strong>直腸がん (colonic neoplasm)</strong> には現在 <strong>11 件</strong>の関連ニュースと 1 件の関連医薬品があります。
+<p class="key-answer" data-question="大腸がん (colonic neoplasm) に関するニュースは？">
+<strong>大腸がん (colonic neoplasm)</strong> には現在 <strong>11 件</strong>の関連ニュースと 1 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
-このページは「直腸がん」に関する最新の健康ニュースをまとめ、JpTxGNN データベースで予測適応症にこの疾患を含む医薬品を一覧表示します。
+このページは「大腸がん」に関する最新の健康ニュースをまとめ、JpTxGNN データベースで予測適応症にこの疾患を含む医薬品を一覧表示します。
 </div>
 
 <div class="related-drugs-card">
