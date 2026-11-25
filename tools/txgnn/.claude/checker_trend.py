@@ -3,7 +3,10 @@
 範圍＝所有非轉址的藥物頁（2026-10-29 起；之前只算稽核分類表）；P7（FHIR／search-index 衍生檔）不算。
 每筆：{date, site, nonzero, total, by_rule:{P2,P3,...}}。主機巡檢每天用 gh api 讀這個檔畫趨勢，連續 2 天沒下降就告警。
 逐頁結果另寫 .claude/audit_20261016/checker_full/<date>.tsv（不進 git）。
-用法（母目錄）：python3 .claude/checker_trend.py [--no-append] [站 ...]
+用法（母目錄）：python3 .claude/checker_trend.py [--no-append] [--allow-missing-data] [站 ...]
+2026-11-25：跑之前同 check_drug_page.prepare_sites（站上快照比事實快取新就更新快取；查 data/bundles、drug_disease_relations.csv、
+txgnn_dl_predictions.csv.gz 齊不齊）。缺資料時印「✗ … 缺資料」、不印「非 0」那行、exit 2（排程 license_refresh 會停）；
+--allow-missing-data 時照跑，資料檢查（check_drug_page.DATA_CHECKS）標 skipped，不算通過。
 """
 import sys as _sys, pathlib as _pl; _sys.path.insert(0, str(_pl.Path(__file__).resolve().parent)); import site_registry as _site_registry  # noqa: E402  # 30 站名單（不含 CnTxGNN）
 import csv
@@ -25,8 +28,9 @@ def _ck():
 
 
 def run_site(args):
-    site, pages = args
+    site, pages, allow = args
     ck = _ck()
+    ck.ALLOW_MISSING = allow
     cl = ck.classification()
     out = []
     for p in pages:
@@ -36,6 +40,8 @@ def run_site(args):
         try:
             errs = sorted({e[0] for e in ck.check_page(site, f, cl.get((site, p), "keep"), False) if e[0] != "P7"})
         except Exception as e:
+            if type(e).__name__ == "MissingData":
+                raise
             errs = ["EXC"]
         out.append((site, p, cl.get((site, p), "keep"), ",".join(errs)))
     return out
@@ -53,8 +59,15 @@ def main(argv):
             if 'http-equiv="refresh"' in head or "layout: id_redirect" in head:
                 continue
             by_site[d.name].append(f.stem)
+    ALLOW = "--allow-missing-data" in argv
+    ck = _ck()
+    missing = ck.prepare_sites(sorted(by_site), allow_missing=ALLOW)
+    if missing and not ALLOW:
+        print(f"✗ checker 缺資料，沒有檢查（{', '.join(sorted(missing))}）：" +
+              "；".join(f"{s}：{'、'.join(m)}" for s, m in sorted(missing.items())))
+        sys.exit(2)
     with Pool(6) as pool:
-        res = [x for chunk in pool.map(run_site, sorted(by_site.items())) for x in chunk]
+        res = [x for chunk in pool.map(run_site, [(s, pg, ALLOW) for s, pg in sorted(by_site.items())]) for x in chunk]
     now = datetime.now(timezone(timedelta(hours=8)))
     day = now.strftime("%Y-%m-%d")
     detail = BASE / ".claude/audit_20261016/checker_full" / f"{now.strftime('%Y%m%d_%H%M')}.tsv"
@@ -66,7 +79,8 @@ def main(argv):
         rows = [r for r in res if r[0] == site]
         nz = [r for r in rows if r[3]]
         recs.append({"date": day, "time": now.strftime("%H:%M"), "site": site, "nonzero": len(nz), "total": len(rows),
-                     "by_rule": dict(sorted(Counter(c for r in nz for c in r[3].split(",")).items()))})
+                     "by_rule": dict(sorted(Counter(c for r in nz for c in r[3].split(",")).items())),
+                     **({"skipped": list(ck.DATA_CHECKS)} if site in missing else {})})
     if "--no-append" not in argv:
         TREND.parent.mkdir(parents=True, exist_ok=True)
         old = json.loads(TREND.read_text(encoding="utf-8")) if TREND.exists() else []
@@ -74,7 +88,7 @@ def main(argv):
     tot = sum(r["nonzero"] for r in recs)
     print(f"全部 {sum(r['total'] for r in recs)} 頁，非 0 {tot}；明細 {detail.relative_to(BASE)}")
     for r in recs:
-        print(f"  {r['site']}\t{r['nonzero']}/{r['total']}\t{r['by_rule']}")
+        print(f"  {r['site']}\t{r['nonzero']}/{r['total']}\t{r['by_rule']}" + (f"\t（缺資料，{'／'.join(r['skipped'])} skipped、不算通過）" if r.get("skipped") else ""))
 
 
 if __name__ == "__main__":

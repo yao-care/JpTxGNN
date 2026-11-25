@@ -42,7 +42,11 @@
 D1 一頁只能有一份報告（2026-11-03 用戶決定）：報告標題＝H2 後一行是「{: .text-alpha }」；兩個以上就錯
    （過去產生時殘留的第二份舊報告、或模型自己「更正標題」留下的第二個標題；修法見 drop_duplicate_reports_20261103.py）
 N1 noindex（--noindex 時才查）：no_pred_noindex 的頁、站上 docs/_data/force_noindex.json 列的頁要有 noindex: true，其他頁不得有
-用法（母目錄）：python3 .claude/check_drug_page.py [--selftest] [--row-status] [--noindex] [--pages site:page,...] [站 ...]
+用法（母目錄）：python3 .claude/check_drug_page.py [--selftest] [--row-status] [--noindex] [--allow-missing-data] [--pages site:page,...] [站 ...]
+跑之前（2026-11-25）：站上快照 snapshots/*_licenses.json.gz 比 .claude/cache/license_facts/<站>.json 新就自動更新快取（印 ↻）；
+站上缺 data/bundles、data/external/drug_disease_relations.csv、data/processed/txgnn_dl_predictions.csv.gz 任一份（或讀不到）時，
+P1／P2／P3／P4／P7／K1 不跑（印 ✗，exit 2）；--allow-missing-data（或 CK_ALLOW_MISSING_DATA=1）時這些檢查標 skipped、照其他結果決定 exit。
+D1、P5、P6、M1–M5、N1 不需要那些資料，照常跑。
 輸出 .claude/audit_20261016/check/results.tsv（site, page, code, detail）；有錯 exit 1。
 """
 import sys as _sys, pathlib as _pl; _sys.path.insert(0, str(_pl.Path(__file__).resolve().parent)); import site_registry as _site_registry  # noqa: E402  # 30 站名單（不含 CnTxGNN）
@@ -1992,6 +1996,71 @@ def classification():
     return out
 
 
+# ---------- 本機資料齊不齊（2026-11-25 用戶決定：缺資料就停，不輸出假的結果）----------
+# 證據包與兩份資料檔決定 kept（已知用途排除）：缺了 P1／P2／P3／P4／P7／K1 會整批誤判（CO 本機實測 P1 220、P3 92、P7 218）。
+# D1、P5、P6、M1–M5、N1 只看頁面、快照事實快取與分類表，照常跑。
+# 缺資料時 check_page 丟 MissingData；main／checker_trend 印 ✗ 並 exit 非 0。
+# 明知缺資料時用 --allow-missing-data（或環境變數 CK_ALLOW_MISSING_DATA=1）：只跳過上述檢查、標 skipped，不算通過。
+DATA_CHECKS = ("P1", "P2", "P3", "P4", "P7", "K1")
+ALLOW_MISSING = os.environ.get("CK_ALLOW_MISSING_DATA") == "1"
+SKIPPED = Counter()  # 站 → 跳過資料檢查的頁數
+
+
+class MissingData(RuntimeError):
+    def __init__(self, site, miss):
+        super().__init__(f"{site} 缺資料：{'；'.join(miss)}")
+        self.site, self.miss = site, miss
+
+
+@lru_cache(maxsize=None)
+def missing_data(site):
+    """回傳缺少或讀不到的資料（空 tuple＝齊全）。路徑同 add_monitor_fields.load_bundle、known_use_filter（_known、_dl_dbid）。"""
+    import gzip
+    root = BASE / site / "data"
+    miss = []
+    if not next((root / "bundles").glob("*/drug_bundle.json"), None):
+        miss.append("data/bundles/*/drug_bundle.json（證據包）")
+    rel = root / "external/drug_disease_relations.csv"
+    try:
+        with open(rel, encoding="utf-8") as fh:
+            if "relation" not in fh.readline():
+                miss.append(f"{rel.relative_to(BASE / site)}（表頭沒有 relation 欄）")
+    except OSError:
+        miss.append(f"{rel.relative_to(BASE / site)}（已知用途關係）")
+    dl = root / "processed/txgnn_dl_predictions.csv.gz"
+    try:
+        with gzip.open(dl, "rt", encoding="utf-8-sig") as fh:
+            fh.readline()
+    except (OSError, EOFError):
+        miss.append(f"{dl.relative_to(BASE / site)}（DL 預測，補證據包缺的 DrugBank ID）")
+    return tuple(miss)
+
+
+def prepare_sites(sites, allow_missing=False, quiet=False):
+    """跑 checker 前：(1) 站上快照比事實快取新就更新快取（共用 noindex_reopen_20261116/refresh_cache.py）；
+    (2) 查資料齊不齊。回傳 {站: 缺的資料}（只含缺資料的站）。refresh_cache.py 不存在（舊的站上複本）時只印提醒。"""
+    rc_path = BASE / ".claude/noindex_reopen_20261116/refresh_cache.py"
+    rc = _load("refresh_cache", rc_path) if rc_path.exists() else None
+    out = {}
+    for s in sites:
+        if rc is None:
+            print(f"⚠ {s} 沒有 {rc_path.relative_to(BASE)}，事實快取沒有自動更新", flush=True)
+        else:
+            st, n = rc.refresh(s, only_if_newer=True)
+            if st == "updated":
+                facts.cache_clear()
+                print(f"↻ {s} 站上快照比事實快取新，已更新快取（{n} 筆不同）", flush=True)
+            elif st == "no_snapshot" and not quiet:
+                print(f"⚠ {s} 沒有 snapshots/*_licenses.json.gz，事實快取照舊", flush=True)
+        miss = missing_data(s)
+        if miss:
+            out[s] = miss
+            mark = "⚠ 跳過" if allow_missing else "✗"
+            print(f"{mark} {s} 缺資料：{'；'.join(miss)}" + (f"——{'／'.join(DATA_CHECKS)} 標 skipped（不算通過）" if allow_missing
+                  else "（要跳過這些檢查用 --allow-missing-data）"), flush=True)
+    return out
+
+
 @lru_cache(maxsize=None)
 def facts(site):
     p = BASE / ".claude/cache/license_facts" / f"{site}.json"
@@ -2274,9 +2343,17 @@ def check_page(site, f, cls, want_noindex):
     rt = report_titles(body)
     if len(rt) > 1:  # D1：不需要證據包，先查
         E("D1", f"一頁 {len(rt)} 份報告標題，第二個：{rt[1][:60]}")
-    b = amf.load_bundle(BASE / site, f.stem)
-    if b is None:
-        return errs + [("P1", "找不到證據包")]
+    miss = missing_data(site)
+    if miss and not ALLOW_MISSING:
+        raise MissingData(site, miss)
+    data_ok = not miss  # 缺資料（--allow-missing-data）：P1／P2／P3／P4／P7／K1 跳過，其餘照跑
+    if data_ok:
+        b = amf.load_bundle(BASE / site, f.stem)
+        if b is None:
+            return errs + [("P1", "找不到證據包")]
+    else:
+        SKIPPED[site] += 1
+        b = {}
     d = b.get("drug") or {}
     preds = {norm_name(p["disease_name"]): p for p in d.get("predicted_indications") or [] if p.get("disease_name")}
     top = [p["disease_name"] for p in d.get("predicted_indications") or [] if (p.get("txgnn_score") or 0) >= kf.SCORE_MIN][:10]
@@ -2292,13 +2369,13 @@ def check_page(site, f, cls, want_noindex):
 
     # P1
     shown = parse_fm_list(fm, "predicted_indications")
-    if [norm_name(x) for x in shown] != [norm_name(x) for x in kept]:
+    if data_ok and [norm_name(x) for x in shown] != [norm_name(x) for x in kept]:
         E("P1", f"front matter {len(shown)} 項≠kept {len(kept)} 項")
     cnt = re.search(r"^indication_count:\s*(\d+)", fm, re.M)
-    if not cnt or int(cnt.group(1)) != len(kept):
+    if data_ok and (not cnt or int(cnt.group(1)) != len(kept)):
         E("P1", f"indication_count={cnt.group(1) if cnt else None}≠{len(kept)}")
     lvl = (re.search(r"^evidence_level:\s*(\S+)", fm, re.M) or [None, ""])[1]
-    if cls in ("known_use", "no_pred_keep", "no_pred_noindex"):
+    if data_ok and cls in ("known_use", "no_pred_keep", "no_pred_noindex"):
         if kept:
             E("P1", "已知用途／無預測頁但 kept 不是空的")
         if lvl != "N/A":
@@ -2320,7 +2397,7 @@ def check_page(site, f, cls, want_noindex):
     # P2、P6（表格）
     for cells, line, cell in score_rows:
         toks = score_tokens(cell)
-        if any(not matches_kept(v, kept_sc) for v, _, _ in toks):
+        if data_ok and any(not matches_kept(v, kept_sc) for v, _, _ in toks):
             E("P2", f"分數「{cell[:20]}」不屬於 kept 或 <0.99")
         if any(pct for _, pct, _ in toks):
             E("P6", f"分數寫成百分比：{cell[:20]}")
@@ -2336,7 +2413,7 @@ def check_page(site, f, cls, want_noindex):
             toks = [x for x in score_tokens(s) if x[0] >= 0.5]
             if not toks:
                 continue
-            if any(not matches_kept(v, kept_sc) for v, _, _ in toks):
+            if data_ok and any(not matches_kept(v, kept_sc) for v, _, _ in toks):
                 E("P2", f"本文分數不屬於 kept 或 <0.99：{s[:60]}")
             if any(pct for _, pct, _ in toks):
                 E("P6", f"本文分數寫成百分比：{s[:60]}")
@@ -2351,6 +2428,34 @@ def check_page(site, f, cls, want_noindex):
             if PCT_SCORE.search(norm_digits(s)):
                 E("P6", f"本文分數寫成百分比：{s[:60]}")
 
+    if data_ok:
+        errs.extend(_data_checks(site, f, cls, fm, body, b, d, preds, kept, keptn, excluded, tbs, ov_rows, pred_row, lvl_row, score_rows))
+
+    # P5
+    for s in p5_hits(strip_managed(body) + "\n" + desc_of(fm), lang):
+        E("P5", s[:80])
+
+    # M1／M2
+    _market_checks(site, f, lang, fm, body, tbs, E)
+    # N1
+    if want_noindex:
+        has = bool(re.search(r"^noindex:\s*true", fm, re.M))
+        # 站上 docs/_data/force_noindex.json 列的頁（用戶核准、附依據；Us 2026-11-06 PEG 3500）一律 noindex
+        _ff = BASE / site / "docs/_data/force_noindex.json"
+        forced = _ff.exists() and f.stem in json.loads(_ff.read_text(encoding="utf-8")).get("pages", {})
+        if (cls == "no_pred_noindex" or forced) != has:
+            E("N1", f"class={cls} noindex={has}")
+    return errs
+
+
+def desc_of(fm):
+    return (re.search(r"^description:\s*(.*)$", fm, re.M) or [None, ""])[1]
+
+
+def _data_checks(site, f, cls, fm, body, b, d, preds, kept, keptn, excluded, tbs, ov_rows, pred_row, lvl_row, score_rows):
+    """P3、P4、P7、K1（需要證據包與已知用途資料；2026-11-25 從 check_page 抽出，缺資料時整段跳過）"""
+    errs = []
+    E = lambda code, detail="": errs.append((code, detail))
     # P3
     # 報告標題：`# ` 開頭，或 2026-10-27 起降級後的「`## ` ＋下一行 {: .text-alpha }」（每頁只留一個 h1）
     _bl = body.split("\n")
@@ -2476,10 +2581,6 @@ def check_page(site, f, cls, want_noindex):
         if p is not None and not rr.direct_evidence(p["disease_name"], evidence_titles(p)):
             E("P4", f"{lv} 但證據包沒有直接研究「{p['disease_name']}」")
 
-    # P5
-    for s in p5_hits(strip_managed(body) + "\n" + desc, lang):
-        E("P5", s[:80])
-
     # P7
     cud, mk = fhir(site)
     keys = {norm_name(f.stem), norm_name(f.stem.replace("_", "-")), norm_name(f.stem.replace("-", "_")),
@@ -2530,6 +2631,12 @@ def check_page(site, f, cls, want_noindex):
                         if not z or not z[0].startswith("approved"):
                             E("K1", f"「{xn}」出處是 {z[0] if z else '無'}，卻放在核准區")
 
+    return errs
+
+
+def _market_checks(site, f, lang, fm, body, tbs, E):
+    """M1–M5（只需要頁面與事實快取 license_facts）"""
+    desc = desc_of(fm)
     # M1／M2
     fc = facts(site).get(f.stem) or facts(site).get(f.stem.replace("-", "_")) or facts(site).get(f.stem.replace("_", "-"))
     all_rows = [r for _, rows, _, _ in tbs for r in rows]
@@ -2611,15 +2718,6 @@ def check_page(site, f, cls, want_noindex):
             for line in strip_managed(body).split("\n"):
                 if tw_left(site, line) and not any(k in line for k in license_keep(site).get(f.stem, ())):
                     E("M5", f"殘留台灣模板：{line.strip()[:60]}")
-    # N1
-    if want_noindex:
-        has = bool(re.search(r"^noindex:\s*true", fm, re.M))
-        # 站上 docs/_data/force_noindex.json 列的頁（用戶核准、附依據；Us 2026-11-06 PEG 3500）一律 noindex
-        _ff = BASE / site / "docs/_data/force_noindex.json"
-        forced = _ff.exists() and f.stem in json.loads(_ff.read_text(encoding="utf-8")).get("pages", {})
-        if (cls == "no_pred_noindex" or forced) != has:
-            E("N1", f"class={cls} noindex={has}")
-    return errs
 
 
 # ---------- 自我測試 ----------
@@ -2896,6 +2994,12 @@ def main(argv):
     if "--pages" in argv:
         pages = {tuple(x.split(":", 1)) for x in argv[argv.index("--pages") + 1].split(",")}
     sites = [a for a in argv if a.endswith("TxGNN")] or sorted({p[0] for p in pages} if pages else (p.name for p in _site_registry.glob_sites(BASE)))
+    # 2026-11-25：先依站上快照更新事實快取、查資料齊不齊。缺資料的站只跑不需要資料的檢查，資料檢查標 skipped；
+    # 沒給 --allow-missing-data 時最後 exit 2（不當成通過）
+    global ALLOW_MISSING
+    allow = "--allow-missing-data" in argv or ALLOW_MISSING
+    missing = prepare_sites(sites, allow_missing=allow)
+    ALLOW_MISSING = True  # 本次執行內 check_page 不丟例外，由這裡統一決定 exit code
     OUT.mkdir(parents=True, exist_ok=True)
     cl = classification()
     rows, per = [], Counter()
@@ -2909,6 +3013,8 @@ def main(argv):
             for code, detail in check_page(s, f, cls, want_noindex):
                 rows.append((s, f.stem, code, detail)); per[(s, code)] += 1
         print(s, {c: per[(s, c)] for c in sorted({c for (x, c) in per if x == s})}, flush=True)
+        if SKIPPED[s]:
+            print(f"  {s} {'／'.join(DATA_CHECKS)} skipped {SKIPPED[s]} 頁（缺資料，未檢查、不算通過）", flush=True)
     with open(OUT / "results.tsv", "w", encoding="utf-8") as fh:
         w = csv.writer(fh, delimiter="\t")
         w.writerow(["site", "page", "code", "detail"]); w.writerows(rows)
@@ -2917,6 +3023,11 @@ def main(argv):
         w.writerow(["site", "page", "overview_cell", "kept0"]); w.writerows(MAIN_BY_SCORE)
     tot = Counter(r[2] for r in rows)
     print("合計", dict(tot), "頁數", len({(r[0], r[1]) for r in rows}), "主預測靠分數放行", len(MAIN_BY_SCORE))
+    if missing:
+        print(("⚠" if allow else "✗") + f" 缺資料 {len(missing)} 站（{', '.join(sorted(missing))}）：{'／'.join(DATA_CHECKS)} skipped {sum(SKIPPED.values())} 頁"
+              + ("" if allow else "；要補資料（scripts/restore_data.sh 或母目錄 restore）再跑，或明知缺資料時加 --allow-missing-data"))
+        if not allow:
+            sys.exit(2)
     sys.exit(1 if rows else 0)
 
 

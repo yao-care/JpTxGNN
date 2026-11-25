@@ -399,6 +399,10 @@ def main(argv):
     ck = run([PY, ".claude/checker_trend.py", "--no-append", site], check=False).stdout
     m = re.search(r"非 0 (\d+)", ck)
     S["steps"].append("checker 全量：" + (ck.strip().split("\n")[0] if ck.strip() else "沒有輸出"))
+    if "✗ checker 缺資料" in ck:  # 2026-11-25：證據包或已知用途資料不在（restore_data.sh 沒還原到），checker 不輸出假結果、不檢查
+        S["pages"] = changed_drug_pages(site)
+        git(site, "checkout", "--", "docs")
+        finish(4, "checker 缺資料（" + next(l for l in ck.split("\n") if "缺資料" in l)[:300] + "），頁面已還原、不 merge")
     if not m or m.group(1) != "0":
         # 非 0 的頁單獨擋下（還原、列進 held，workflow 另開 issue 等人看），其餘頁照常；擋下後必須歸零
         det = re.search(r"明細 (\S+)", ck)
