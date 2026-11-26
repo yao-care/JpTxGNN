@@ -3,9 +3,9 @@ layout: default
 title: "がん (generic_cancer) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "がん (generic_cancer) に関する健康ニュース。ニュース 63 件、関連医薬品 67 件。"
+description: "がん (generic_cancer) に関する健康ニュース。ニュース 65 件、関連医薬品 67 件。"
 permalink: /news/generic-cancer/
-last_modified_at: 2026-11-25
+last_modified_at: 2026-11-26
 ---
 
 # がん (generic_cancer) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="がん (generic_cancer) に関するニュースは？">
-<strong>がん (generic_cancer)</strong> には現在 <strong>63 件</strong>の関連ニュースと 67 件の関連医薬品があります。
+<strong>がん (generic_cancer)</strong> には現在 <strong>65 件</strong>の関連ニュースと 67 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -94,7 +94,23 @@ last_modified_at: 2026-11-25
 </ul>
 </div>
 
-## 関連ニュース（63 件）
+## 関連ニュース（65 件）
+
+### [HPVワクチンの男性定期接種、目下のハードルは費用対効果 「エビデンス」固執に懸念も](https://news.google.com/rss/articles/CBMidkFVX3lxTE5rdWpzOWwydlN1UmZJaWR3MlJXQ29VUzQ0aTFpZy1VNW5TdXlaUnRvUnF1b01JenhLcWFobXllM1VabUFjS2hTVThkS0t3anM3cmdRR0RIQlktbERnMmU0T2xDRllyTnBNQnNiZXJ3S3FZYVZqREE?oc=5)
+
+2026-11-25
+
+出典: [産経ニュース](https://news.google.com/rss/articles/CBMidkFVX3lxTE5rdWpzOWwydlN1UmZJaWR3MlJXQ29VUzQ0aTFpZy1VNW5TdXlaUnRvUnF1b01JenhLcWFobXllM1VabUFjS2hTVThkS0t3anM3cmdRR0RIQlktbERnMmU0T2xDRllyTnBNQnNiZXJ3S3FZYVZqREE?oc=5)
+
+---
+
+### [ピロリ除菌 お早めに 医師呼びかけ 胃がん発症リスクが減](https://news.google.com/rss/articles/CBMiXkFVX3lxTE52dUc3NzRONmZRVk9UNTNreXVxdVRrRG1MNjJHUTl5dHppQ3BGbHRaby1jYm9kOGxLbWRYeFZrc09JcUl3bnlya25abm9KOUhBNkZwZVlReUowWVVBWlE?oc=5)
+
+2026-11-25
+
+出典: [福井新聞社](https://news.google.com/rss/articles/CBMiXkFVX3lxTE52dUc3NzRONmZRVk9UNTNreXVxdVRrRG1MNjJHUTl5dHppQ3BGbHRaby1jYm9kOGxLbWRYeFZrc09JcUl3bnlya25abm9KOUhBNkZwZVlReUowWVVBWlE?oc=5)
+
+---
 
 ### [職域等がん検診受診状況調査ご協力のお願い｜行政情報](https://news.google.com/rss/articles/CBMiakFVX3lxTFBLTFU4ZDluSGROVEZBSURYVjN6Y1RQZkxiMVNSekJmOWU0dVJ4VVJ2TnIxVFFDLUx5Yk9yb01ZNmdnNHhsazBxWU9KNzVLdlRrOGF6OEJjaC11VERXYWJGbHBWeE5jMFppX3c?oc=5)
 

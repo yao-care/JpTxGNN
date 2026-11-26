@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "ザルティア錠５ｍｇ（選） に関する健康ニュース。予測適応症 8 件。"
 permalink: /news/tadalafil/
-last_modified_at: 2026-11-25
+last_modified_at: 2026-11-26
 ---
 
 # ザルティア錠５ｍｇ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="ザルティア錠５ｍｇ（選） に関するニュースは？">
-<strong>ザルティア錠５ｍｇ（選）</strong> には現在 <strong>30 件</strong>の関連ニュースがあり、予測適応症は 8 件です。
+<strong>ザルティア錠５ｍｇ（選）</strong> には現在 <strong>31 件</strong>の関連ニュースがあり、予測適応症は 8 件です。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,7 @@ last_modified_at: 2026-11-25
 <p><a href="{{ '/drugs/tadalafil/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（30 件）
+## 関連ニュース（31 件）
 
 ### [カロリーゼロの甘味料：脳卒中のリスクに注意しましょう。](https://news.google.com/rss/articles/CBMihwFBVV95cUxOSUJJQjNIbjJDaDRqOVM4b2JpSXVyQTk4YVpGemQ4TnpUSmFaSXc5MERNaHVacG1EaDRmeEQyc1pYemZYeHNYck1vcDlsMGJnZ0Zyb09FQmZ5LWl3UFFMMEc2WWFZcGE0QnQteHVhZ0V4dTRaV3NTRHZHSlpIM05TZlZQbG82ODg?oc=5)
 
@@ -175,6 +175,14 @@ last_modified_at: 2026-11-25
 2026-11-19 <span class="news-indication-tag">心臓病</span>
 
 出典: [m3.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTE91WENLdXZTV0pFQ3ZLdjNFbnY5QlZHTnE3Qk1sY2JkMmF0STVjRkMwSHJvWEhhWUp4VFd1MzNyczlnUEdodlJwNXZudGRhcHBKNlE?oc=5)
+
+---
+
+### [タバコ1日15本分に匹敵する…研究で判明した｢脳卒中リスク｣を3割超も高める定年後の"快適すぎる過ごし方"](https://news.google.com/rss/articles/CBMihAFBVV95cUxNa2FFN0x0em10TDNEM1BmVW5neXVucktORU44UHhHQkl2MEllTi1tMWlkOHF5bVJyM2t6em9vR2w4aVdhcG55Wk80ZUZKeEJfWkdLZFRlNzhKMjRtZTFPMk9abWVQelNrazJMb2x6dmp0dUd0bkJVdTh6bEkwcVBCN3lwNkM?oc=5)
+
+2026-11-19 <span class="news-indication-tag">脳卒中</span>
+
+出典: [ｄメニューニュース](https://news.google.com/rss/articles/CBMihAFBVV95cUxNa2FFN0x0em10TDNEM1BmVW5neXVucktORU44UHhHQkl2MEllTi1tMWlkOHF5bVJyM2t6em9vR2w4aVdhcG55Wk80ZUZKeEJfWkdLZFRlNzhKMjRtZTFPMk9abWVQelNrazJMb2x6dmp0dUd0bkJVdTh6bEkwcVBCN3lwNkM?oc=5)
 
 ---
 

@@ -3,9 +3,9 @@ layout: default
 title: "脳卒中 (stroke) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "脳卒中 (stroke) に関する健康ニュース。ニュース 23 件、関連医薬品 16 件。"
+description: "脳卒中 (stroke) に関する健康ニュース。ニュース 24 件、関連医薬品 16 件。"
 permalink: /news/stroke/
-last_modified_at: 2026-11-25
+last_modified_at: 2026-11-26
 ---
 
 # 脳卒中 (stroke) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="脳卒中 (stroke) に関するニュースは？">
-<strong>脳卒中 (stroke)</strong> には現在 <strong>23 件</strong>の関連ニュースと 16 件の関連医薬品があります。
+<strong>脳卒中 (stroke)</strong> には現在 <strong>24 件</strong>の関連ニュースと 16 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -45,7 +45,7 @@ last_modified_at: 2026-11-25
 </ul>
 </div>
 
-## 関連ニュース（23 件）
+## 関連ニュース（24 件）
 
 ### [カロリーゼロの甘味料：脳卒中のリスクに注意しましょう。](https://news.google.com/rss/articles/CBMihwFBVV95cUxOSUJJQjNIbjJDaDRqOVM4b2JpSXVyQTk4YVpGemQ4TnpUSmFaSXc5MERNaHVacG1EaDRmeEQyc1pYemZYeHNYck1vcDlsMGJnZ0Zyb09FQmZ5LWl3UFFMMEc2WWFZcGE0QnQteHVhZ0V4dTRaV3NTRHZHSlpIM05TZlZQbG82ODg?oc=5)
 
@@ -156,6 +156,14 @@ last_modified_at: 2026-11-25
 2026-11-19
 
 出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMif0FVX3lxTE8wQXdtU3c3RnRxUlN4NUZwQkZFc1luakpFS2MtYzFjekhQZUxLVzV3U19YSjhtZEZZUF9vblhiUk0zaFB2WldHTm1mQTBWZjBkQmRzMUhoOF9Nc2h6bTctM2s5Q25KSmdwUnc5NzZwRHBQaGVLRkZUanBTcVFjSjA?oc=5)
+
+---
+
+### [タバコ1日15本分に匹敵する…研究で判明した｢脳卒中リスク｣を3割超も高める定年後の"快適すぎる過ごし方"](https://news.google.com/rss/articles/CBMihAFBVV95cUxNa2FFN0x0em10TDNEM1BmVW5neXVucktORU44UHhHQkl2MEllTi1tMWlkOHF5bVJyM2t6em9vR2w4aVdhcG55Wk80ZUZKeEJfWkdLZFRlNzhKMjRtZTFPMk9abWVQelNrazJMb2x6dmp0dUd0bkJVdTh6bEkwcVBCN3lwNkM?oc=5)
+
+2026-11-19
+
+出典: [ｄメニューニュース](https://news.google.com/rss/articles/CBMihAFBVV95cUxNa2FFN0x0em10TDNEM1BmVW5neXVucktORU44UHhHQkl2MEllTi1tMWlkOHF5bVJyM2t6em9vR2w4aVdhcG55Wk80ZUZKeEJfWkdLZFRlNzhKMjRtZTFPMk9abWVQelNrazJMb2x6dmp0dUd0bkJVdTh6bEkwcVBCN3lwNkM?oc=5)
 
 ---
 

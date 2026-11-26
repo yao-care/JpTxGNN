@@ -3,9 +3,9 @@ layout: default
 title: "インフルエンザ (influenza) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 27 件、関連医薬品 1 件。"
+description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 29 件、関連医薬品 1 件。"
 permalink: /news/influenza/
-last_modified_at: 2026-11-25
+last_modified_at: 2026-11-26
 ---
 
 # インフルエンザ (influenza) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="インフルエンザ (influenza) に関するニュースは？">
-<strong>インフルエンザ (influenza)</strong> には現在 <strong>27 件</strong>の関連ニュースと 1 件の関連医薬品があります。
+<strong>インフルエンザ (influenza)</strong> には現在 <strong>29 件</strong>の関連ニュースと 1 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,23 @@ last_modified_at: 2026-11-25
 </ul>
 </div>
 
-## 関連ニュース（27 件）
+## 関連ニュース（29 件）
+
+### [米で鳥インフル３人感染 ワシントン州の酪農場](https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wOWtZdV9Zc0dIUFgzYjEtejlnY0xxdEwtNHdrck14MjBaN0Q2SHQ1endQV0Z3b2JZMGhDUDdnWlQ2QmZhV2pDNVlFOHptaXFwZDRtYkswaw?oc=5)
+
+2026-11-25
+
+出典: [日本農業新聞](https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wOWtZdV9Zc0dIUFgzYjEtejlnY0xxdEwtNHdrck14MjBaN0Q2SHQ1endQV0Z3b2JZMGhDUDdnWlQ2QmZhV2pDNVlFOHptaXFwZDRtYkswaw?oc=5)
+
+---
+
+### [季節性インフルエンザワクチン：既存ワクチンが鳥インフル抑制 牛由来](https://news.google.com/rss/articles/CBMiaEFVX3lxTE02WlYtanFCUDhnSzVUUC1CbDhqX2lYWnpheTZVeEdrR3FiUzhJWFR3UGwzV19NTDJQWmo1S0tpXzZuZWJSbzlhS3VBZGtjOFc3UVYySklxbVZNQ3pLWFZmelFtRDI3MmxI?oc=5)
+
+2026-11-25
+
+出典: [毎日新聞](https://news.google.com/rss/articles/CBMiaEFVX3lxTE02WlYtanFCUDhnSzVUUC1CbDhqX2lYWnpheTZVeEdrR3FiUzhJWFR3UGwzV19NTDJQWmo1S0tpXzZuZWJSbzlhS3VBZGtjOFc3UVYySklxbVZNQ3pLWFZmelFtRDI3MmxI?oc=5)
+
+---
 
 ### [米 牧場で働く3人が鳥インフルエンザウイルス感染 1人死亡 WHO](https://news.google.com/rss/articles/CBMiX0FVX3lxTE03UFR1UXVOSGpVYkQyTGZvTk14RTctYnRzNHFXWVowTjh6cm9lSWtYbk9mU1NGVzRiX3ljdHFGXzRWc09nUklFcjktNTZqWEltLXlHWDlSR3RZZm1PcExZ?oc=5)
 

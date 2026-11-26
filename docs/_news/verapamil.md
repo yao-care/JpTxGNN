@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "ワソラン錠４０ｍｇ（選） に関する健康ニュース。予測適応症 6 件。"
 permalink: /news/verapamil/
-last_modified_at: 2026-11-25
+last_modified_at: 2026-11-26
 ---
 
 # ワソラン錠４０ｍｇ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="ワソラン錠４０ｍｇ（選） に関するニュースは？">
-<strong>ワソラン錠４０ｍｇ（選）</strong> には現在 <strong>94 件</strong>の関連ニュースがあり、予測適応症は 6 件です。
+<strong>ワソラン錠４０ｍｇ（選）</strong> には現在 <strong>97 件</strong>の関連ニュースがあり、予測適応症は 6 件です。
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,23 @@ last_modified_at: 2026-11-25
 <p><a href="{{ '/drugs/verapamil/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（94 件）
+## 関連ニュース（97 件）
+
+### [HPVワクチンの男性定期接種、目下のハードルは費用対効果 「エビデンス」固執に懸念も](https://news.google.com/rss/articles/CBMidkFVX3lxTE5rdWpzOWwydlN1UmZJaWR3MlJXQ29VUzQ0aTFpZy1VNW5TdXlaUnRvUnF1b01JenhLcWFobXllM1VabUFjS2hTVThkS0t3anM3cmdRR0RIQlktbERnMmU0T2xDRllyTnBNQnNiZXJ3S3FZYVZqREE?oc=5)
+
+2026-11-25 <span class="news-indication-tag">がん</span>
+
+出典: [産経ニュース](https://news.google.com/rss/articles/CBMidkFVX3lxTE5rdWpzOWwydlN1UmZJaWR3MlJXQ29VUzQ0aTFpZy1VNW5TdXlaUnRvUnF1b01JenhLcWFobXllM1VabUFjS2hTVThkS0t3anM3cmdRR0RIQlktbERnMmU0T2xDRllyTnBNQnNiZXJ3S3FZYVZqREE?oc=5)
+
+---
+
+### [ピロリ除菌 お早めに 医師呼びかけ 胃がん発症リスクが減](https://news.google.com/rss/articles/CBMiXkFVX3lxTE52dUc3NzRONmZRVk9UNTNreXVxdVRrRG1MNjJHUTl5dHppQ3BGbHRaby1jYm9kOGxLbWRYeFZrc09JcUl3bnlya25abm9KOUhBNkZwZVlReUowWVVBWlE?oc=5)
+
+2026-11-25 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">胃がん</span>
+
+出典: [福井新聞社](https://news.google.com/rss/articles/CBMiXkFVX3lxTE52dUc3NzRONmZRVk9UNTNreXVxdVRrRG1MNjJHUTl5dHppQ3BGbHRaby1jYm9kOGxLbWRYeFZrc09JcUl3bnlya25abm9KOUhBNkZwZVlReUowWVVBWlE?oc=5)
+
+---
 
 ### [職域等がん検診受診状況調査ご協力のお願い｜行政情報](https://news.google.com/rss/articles/CBMiakFVX3lxTFBLTFU4ZDluSGROVEZBSURYVjN6Y1RQZkxiMVNSekJmOWU0dVJ4VVJ2TnIxVFFDLUx5Yk9yb01ZNmdnNHhsazBxWU9KNzVLdlRrOGF6OEJjaC11VERXYWJGbHBWeE5jMFppX3c?oc=5)
 
@@ -477,6 +493,14 @@ last_modified_at: 2026-11-25
 2026-11-19 <span class="news-indication-tag">心臓病</span>
 
 出典: [m3.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTE91WENLdXZTV0pFQ3ZLdjNFbnY5QlZHTnE3Qk1sY2JkMmF0STVjRkMwSHJvWEhhWUp4VFd1MzNyczlnUEdodlJwNXZudGRhcHBKNlE?oc=5)
+
+---
+
+### [タバコ1日15本分に匹敵する…研究で判明した｢脳卒中リスク｣を3割超も高める定年後の"快適すぎる過ごし方"](https://news.google.com/rss/articles/CBMihAFBVV95cUxNa2FFN0x0em10TDNEM1BmVW5neXVucktORU44UHhHQkl2MEllTi1tMWlkOHF5bVJyM2t6em9vR2w4aVdhcG55Wk80ZUZKeEJfWkdLZFRlNzhKMjRtZTFPMk9abWVQelNrazJMb2x6dmp0dUd0bkJVdTh6bEkwcVBCN3lwNkM?oc=5)
+
+2026-11-19 <span class="news-indication-tag">脳卒中</span>
+
+出典: [ｄメニューニュース](https://news.google.com/rss/articles/CBMihAFBVV95cUxNa2FFN0x0em10TDNEM1BmVW5neXVucktORU44UHhHQkl2MEllTi1tMWlkOHF5bVJyM2t6em9vR2w4aVdhcG55Wk80ZUZKeEJfWkdLZFRlNzhKMjRtZTFPMk9abWVQelNrazJMb2x6dmp0dUd0bkJVdTh6bEkwcVBCN3lwNkM?oc=5)
 
 ---
 

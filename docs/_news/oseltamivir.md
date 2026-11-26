@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "タミフルドライシロップ３％（選） に関する健康ニュース。予測適応症 0 件。"
 permalink: /news/oseltamivir/
-last_modified_at: 2026-11-25
+last_modified_at: 2026-11-26
 ---
 
 # タミフルドライシロップ３％（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="タミフルドライシロップ３％（選） に関するニュースは？">
-<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>34 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>36 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,23 @@ last_modified_at: 2026-11-25
 <p><a href="{{ '/drugs/oseltamivir/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（34 件）
+## 関連ニュース（36 件）
+
+### [米で鳥インフル３人感染 ワシントン州の酪農場](https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wOWtZdV9Zc0dIUFgzYjEtejlnY0xxdEwtNHdrck14MjBaN0Q2SHQ1endQV0Z3b2JZMGhDUDdnWlQ2QmZhV2pDNVlFOHptaXFwZDRtYkswaw?oc=5)
+
+2026-11-25 <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [日本農業新聞](https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wOWtZdV9Zc0dIUFgzYjEtejlnY0xxdEwtNHdrck14MjBaN0Q2SHQ1endQV0Z3b2JZMGhDUDdnWlQ2QmZhV2pDNVlFOHptaXFwZDRtYkswaw?oc=5)
+
+---
+
+### [季節性インフルエンザワクチン：既存ワクチンが鳥インフル抑制 牛由来](https://news.google.com/rss/articles/CBMiaEFVX3lxTE02WlYtanFCUDhnSzVUUC1CbDhqX2lYWnpheTZVeEdrR3FiUzhJWFR3UGwzV19NTDJQWmo1S0tpXzZuZWJSbzlhS3VBZGtjOFc3UVYySklxbVZNQ3pLWFZmelFtRDI3MmxI?oc=5)
+
+2026-11-25 <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [毎日新聞](https://news.google.com/rss/articles/CBMiaEFVX3lxTE02WlYtanFCUDhnSzVUUC1CbDhqX2lYWnpheTZVeEdrR3FiUzhJWFR3UGwzV19NTDJQWmo1S0tpXzZuZWJSbzlhS3VBZGtjOFc3UVYySklxbVZNQ3pLWFZmelFtRDI3MmxI?oc=5)
+
+---
 
 ### [米 牧場で働く3人が鳥インフルエンザウイルス感染 1人死亡 WHO](https://news.google.com/rss/articles/CBMiX0FVX3lxTE03UFR1UXVOSGpVYkQyTGZvTk14RTctYnRzNHFXWVowTjh6cm9lSWtYbk9mU1NGVzRiX3ljdHFGXzRWc09nUklFcjktNTZqWEltLXlHWDlSR3RZZm1PcExZ?oc=5)
 

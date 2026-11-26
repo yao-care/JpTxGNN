@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "動脈硬化 (cardiovascular) 関連ニュース"
+title: "心血管 (cardiovascular) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "動脈硬化 (cardiovascular) に関する健康ニュース。ニュース 6 件、関連医薬品 17 件。"
+description: "心血管 (cardiovascular) に関する健康ニュース。ニュース 6 件、関連医薬品 17 件。"
 permalink: /news/cardiovascular/
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-26
 ---
 
-# 動脈硬化 (cardiovascular) 関連ニュース
+# 心血管 (cardiovascular) 関連ニュース
 
 [← ニュース一覧に戻る]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="動脈硬化 (cardiovascular) に関するニュースは？">
-<strong>動脈硬化 (cardiovascular)</strong> には現在 <strong>6 件</strong>の関連ニュースと 17 件の関連医薬品があります。
+<p class="key-answer" data-question="心血管 (cardiovascular) に関するニュースは？">
+<strong>心血管 (cardiovascular)</strong> には現在 <strong>6 件</strong>の関連ニュースと 17 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
-このページは「動脈硬化」に関する最新の健康ニュースをまとめ、JpTxGNN データベースで予測適応症にこの疾患を含む医薬品を一覧表示します。
+このページは「心血管」に関する最新の健康ニュースをまとめ、JpTxGNN データベースで予測適応症にこの疾患を含む医薬品を一覧表示します。
 </div>
 
 <div class="related-drugs-card">

@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "ゾビラックス軟膏５％（選） に関する健康ニュース。予測適応症 10 件。"
 permalink: /news/acyclovir/
-last_modified_at: 2026-11-25
+last_modified_at: 2026-11-26
 ---
 
 # ゾビラックス軟膏５％（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="ゾビラックス軟膏５％（選） に関するニュースは？">
-<strong>ゾビラックス軟膏５％（選）</strong> には現在 <strong>72 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>ゾビラックス軟膏５％（選）</strong> には現在 <strong>74 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,23 @@ last_modified_at: 2026-11-25
 <p><a href="{{ '/drugs/acyclovir/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（72 件）
+## 関連ニュース（74 件）
+
+### [HPVワクチンの男性定期接種、目下のハードルは費用対効果 「エビデンス」固執に懸念も](https://news.google.com/rss/articles/CBMidkFVX3lxTE5rdWpzOWwydlN1UmZJaWR3MlJXQ29VUzQ0aTFpZy1VNW5TdXlaUnRvUnF1b01JenhLcWFobXllM1VabUFjS2hTVThkS0t3anM3cmdRR0RIQlktbERnMmU0T2xDRllyTnBNQnNiZXJ3S3FZYVZqREE?oc=5)
+
+2026-11-25 <span class="news-indication-tag">がん</span>
+
+出典: [産経ニュース](https://news.google.com/rss/articles/CBMidkFVX3lxTE5rdWpzOWwydlN1UmZJaWR3MlJXQ29VUzQ0aTFpZy1VNW5TdXlaUnRvUnF1b01JenhLcWFobXllM1VabUFjS2hTVThkS0t3anM3cmdRR0RIQlktbERnMmU0T2xDRllyTnBNQnNiZXJ3S3FZYVZqREE?oc=5)
+
+---
+
+### [ピロリ除菌 お早めに 医師呼びかけ 胃がん発症リスクが減](https://news.google.com/rss/articles/CBMiXkFVX3lxTE52dUc3NzRONmZRVk9UNTNreXVxdVRrRG1MNjJHUTl5dHppQ3BGbHRaby1jYm9kOGxLbWRYeFZrc09JcUl3bnlya25abm9KOUhBNkZwZVlReUowWVVBWlE?oc=5)
+
+2026-11-25 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">胃がん</span>
+
+出典: [福井新聞社](https://news.google.com/rss/articles/CBMiXkFVX3lxTE52dUc3NzRONmZRVk9UNTNreXVxdVRrRG1MNjJHUTl5dHppQ3BGbHRaby1jYm9kOGxLbWRYeFZrc09JcUl3bnlya25abm9KOUhBNkZwZVlReUowWVVBWlE?oc=5)
+
+---
 
 ### [職域等がん検診受診状況調査ご協力のお願い｜行政情報](https://news.google.com/rss/articles/CBMiakFVX3lxTFBLTFU4ZDluSGROVEZBSURYVjN6Y1RQZkxiMVNSekJmOWU0dVJ4VVJ2TnIxVFFDLUx5Yk9yb01ZNmdnNHhsazBxWU9KNzVLdlRrOGF6OEJjaC11VERXYWJGbHBWeE5jMFppX3c?oc=5)
 
