@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "ムコブロチン配合シロップ に関する健康ニュース。予測適応症 3 件。"
 permalink: /news/codeine/
-last_modified_at: 2026-11-25
+last_modified_at: 2026-11-26
 ---
 
 # ムコブロチン配合シロップ 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="ムコブロチン配合シロップ に関するニュースは？">
-<strong>ムコブロチン配合シロップ</strong> には現在 <strong>3 件</strong>の関連ニュースがあり、予測適応症は 3 件です。
+<strong>ムコブロチン配合シロップ</strong> には現在 <strong>5 件</strong>の関連ニュースがあり、予測適応症は 3 件です。
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,23 @@ last_modified_at: 2026-11-25
 <p><a href="{{ '/drugs/codeine/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（3 件）
+## 関連ニュース（5 件）
+
+### [猫を苦しめる『猫風邪』の症状5選 命を落とす可能性も…治療法や予防法も解説 (2026年11月26日掲載)](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YOHU2cWlXby01VVB4OU9nSVJBYko5bHFiSWZHMW8tN3YyY2MtZ1VEclM1WExRVXBGTTZaa29zaUU4TENlNFVSWk9mWXl1UHd1YVMxNWpnMF85LVdiQmc?oc=5)
+
+2026-11-26 <span class="news-indication-tag">風邪</span>
+
+出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YOHU2cWlXby01VVB4OU9nSVJBYko5bHFiSWZHMW8tN3YyY2MtZ1VEclM1WExRVXBGTTZaa29zaUU4TENlNFVSWk9mWXl1UHd1YVMxNWpnMF85LVdiQmc?oc=5)
+
+---
+
+### [子どものかぜはすぐケアするのに⋯子育て層の85.1%が「自分の健康管理」を後回しに - 第一三共ヘルスケア調査 - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTFAyRWR2Q2d2R0R1Wk10QTg0TG0zVktleFo1VC1DSE9GX1hPNDRfYzM1cWcyQ1FmaVhPaEI1ZHd1d2xtWGgzaTF2SkZiZDRlX2RJUkhhVFBGT3cxLWpPY0Z4clczOHpqZnRDUndGUjBB?oc=5)
+
+2026-11-26 <span class="news-indication-tag">風邪</span> <span class="news-indication-tag">かぜ</span>
+
+出典: [au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTFAyRWR2Q2d2R0R1Wk10QTg0TG0zVktleFo1VC1DSE9GX1hPNDRfYzM1cWcyQ1FmaVhPaEI1ZHd1d2xtWGgzaTF2SkZiZDRlX2RJUkhhVFBGT3cxLWpPY0Z4clczOHpqZnRDUndGUjBB?oc=5)
+
+---
 
 ### [インフルエンザや風邪の症状が４割減？1日30分、一度に2、3個食べるとよいものとは【専門家が解説】](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sbmwzd2dueU1qSGNDZU45UzFqbjRRMFFBNVMxdkxDdkpyajZOT1JEQlBDZndpemVaUk4zRU0wRUk3UndnQ2FYV0QzZ01TSjZBVGJZNUkwN2tNWWZueldEMGpKVVlDeVU?oc=5)
 

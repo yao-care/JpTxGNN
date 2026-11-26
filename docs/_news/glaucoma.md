@@ -3,9 +3,9 @@ layout: default
 title: "緑内障 (glaucoma) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "緑内障 (glaucoma) に関する健康ニュース。ニュース 3 件、関連医薬品 4 件。"
+description: "緑内障 (glaucoma) に関する健康ニュース。ニュース 4 件、関連医薬品 4 件。"
 permalink: /news/glaucoma/
-last_modified_at: 2026-11-25
+last_modified_at: 2026-11-26
 ---
 
 # 緑内障 (glaucoma) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="緑内障 (glaucoma) に関するニュースは？">
-<strong>緑内障 (glaucoma)</strong> には現在 <strong>3 件</strong>の関連ニュースと 4 件の関連医薬品があります。
+<strong>緑内障 (glaucoma)</strong> には現在 <strong>4 件</strong>の関連ニュースと 4 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,15 @@ last_modified_at: 2026-11-25
 </ul>
 </div>
 
-## 関連ニュース（3 件）
+## 関連ニュース（4 件）
+
+### [50代女性が《心配している病気》ランキング 5位「更年期障害」4位「白内障・緑内障」…TOP3は？（オトナンサー）](https://news.google.com/rss/articles/CBMif0FVX3lxTE1zeTUwZ0wyQThSNEI1WGFoR243TjdoZ1J4OVhRVzliTTZZbUprOHpVcThsREdvLXZTZHpkYTNtbVh4NUtFWklSblJNUnlVYWpiX3owbUFmTGZmUDg3OHFILTN4ZmdCcUdpTktRT3pnTzd0dWRzMEhJd3UyLUF3WlE?oc=5)
+
+2026-11-26
+
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE1zeTUwZ0wyQThSNEI1WGFoR243TjdoZ1J4OVhRVzliTTZZbUprOHpVcThsREdvLXZTZHpkYTNtbVh4NUtFWklSblJNUnlVYWpiX3owbUFmTGZmUDg3OHFILTN4ZmdCcUdpTktRT3pnTzd0dWRzMEhJd3UyLUF3WlE?oc=5)
+
+---
 
 ### [視神経細胞のシート化技術、iPS活用で新治療に期待 東北大チーム](https://news.google.com/rss/articles/CBMibEFVX3lxTE9DTjd0SkU3R25MN3FPOFpCU0lhbTNKcnZSUlRMdlFMaXF6bTlqYUdGeFgwazFoOU9wVkpzaTNXRnpPTVg5NmpuUDd4cUY4dHJvUTNhamhDZmtqbHVtVmoybkJEbm5sX1NvQ2xuTQ?oc=5)
 

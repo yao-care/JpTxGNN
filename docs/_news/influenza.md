@@ -3,7 +3,7 @@ layout: default
 title: "インフルエンザ (influenza) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 29 件、関連医薬品 1 件。"
+description: "インフルエンザ (influenza) に関する健康ニュース。ニュース 30 件、関連医薬品 1 件。"
 permalink: /news/influenza/
 last_modified_at: 2026-11-26
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="インフルエンザ (influenza) に関するニュースは？">
-<strong>インフルエンザ (influenza)</strong> には現在 <strong>29 件</strong>の関連ニュースと 1 件の関連医薬品があります。
+<strong>インフルエンザ (influenza)</strong> には現在 <strong>30 件</strong>の関連ニュースと 1 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ last_modified_at: 2026-11-26
 </ul>
 </div>
 
-## 関連ニュース（29 件）
+## 関連ニュース（30 件）
 
 ### [米で鳥インフル３人感染 ワシントン州の酪農場](https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wOWtZdV9Zc0dIUFgzYjEtejlnY0xxdEwtNHdrck14MjBaN0Q2SHQ1endQV0Z3b2JZMGhDUDdnWlQ2QmZhV2pDNVlFOHptaXFwZDRtYkswaw?oc=5)
 
@@ -53,6 +53,14 @@ last_modified_at: 2026-11-26
 2026-11-25
 
 出典: [NHKニュース](https://news.google.com/rss/articles/CBMiX0FVX3lxTE03UFR1UXVOSGpVYkQyTGZvTk14RTctYnRzNHFXWVowTjh6cm9lSWtYbk9mU1NGVzRiX3ljdHFGXzRWc09nUklFcjktNTZqWEltLXlHWDlSR3RZZm1PcExZ?oc=5)
+
+---
+
+### [鳥インフル、米国で3人感染1人死亡 経鼻ワクチンに一定の効果確認](https://news.google.com/rss/articles/CBMibkFVX3lxTFB4TGNPQ3JoSFZvWnM0S1RHZFR1VjlJRDNybHNJTTAyUUQ3QUMtWC1rNTAwNjRhZ1lLWUpGdjFCZmFlck5pdUtyNnNhYXVsdWhtU2s5NGlBZVI4ejFmYnRFY0hRbDAyWEh6Ymt6RlR3?oc=5)
+
+2026-11-25
+
+出典: [朝日新聞](https://news.google.com/rss/articles/CBMibkFVX3lxTFB4TGNPQ3JoSFZvWnM0S1RHZFR1VjlJRDNybHNJTTAyUUQ3QUMtWC1rNTAwNjRhZ1lLWUpGdjFCZmFlck5pdUtyNnNhYXVsdWhtU2s5NGlBZVI4ejFmYnRFY0hRbDAyWEh6Ymt6RlR3?oc=5)
 
 ---
 

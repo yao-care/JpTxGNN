@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」 に関するニュースは？">
-<strong>モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」</strong> には現在 <strong>72 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」</strong> には現在 <strong>76 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,39 @@ last_modified_at: 2026-11-26
 <p><a href="{{ '/drugs/morphine/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（72 件）
+## 関連ニュース（76 件）
+
+### [腹痛や黄疸の症状が全くなかった47歳の男性が、よくある間違いが原因で肝臓がんであることが判明した。](https://news.google.com/rss/articles/CBMiygFBVV95cUxNazlteDVJMjVGTEZYQUhsX21haF85U2pJOGFuMzZrak5WcEpNMkhpQ2JxMFNScmI4VlIwd0poR2IwaUJKRnFUMTV1dUVtVVp0aDRmekd1RnY0RldDRUNTQi1DSi1wQjJzY0xQMzVnX3NTZVZjV0tfeW1ObWhidl8wUzYtYUlJRF94QjFTd3VCbVRaZUZOaWJRekFTMFlnWS1EUUo1QXZ0QXdrNnBTNzQxZVlJWFBPeEJra1BrNk5wdjBhbXJfN3FFV05n?oc=5)
+
+2026-11-26 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">肝臓がん</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMiygFBVV95cUxNazlteDVJMjVGTEZYQUhsX21haF85U2pJOGFuMzZrak5WcEpNMkhpQ2JxMFNScmI4VlIwd0poR2IwaUJKRnFUMTV1dUVtVVp0aDRmekd1RnY0RldDRUNTQi1DSi1wQjJzY0xQMzVnX3NTZVZjV0tfeW1ObWhidl8wUzYtYUlJRF94QjFTd3VCbVRaZUZOaWJRekFTMFlnWS1EUUo1QXZ0QXdrNnBTNzQxZVlJWFBPeEJra1BrNk5wdjBhbXJfN3FFV05n?oc=5)
+
+---
+
+### [「楽しく生きることを諦めないで」3度のがん乗り越え 「1型糖尿病」と闘う磯田久美子さん 笑顔で仲間を支え続ける思い - TBS NEWS DIG](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CbDdOYmYwR21rQVUzN3NObklaVXJDQmFzamJXMGt1b3RIcGtEajBvLVRWVlFaUEl4UnFPblpFbGpnbUpaQkhZOUNaNDRKWEJwRXRLUVhpSQ?oc=5)
+
+2026-11-26 <span class="news-indication-tag">がん</span>
+
+出典: [TBS NEWS DIG](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CbDdOYmYwR21rQVUzN3NObklaVXJDQmFzamJXMGt1b3RIcGtEajBvLVRWVlFaUEl4UnFPblpFbGpnbUpaQkhZOUNaNDRKWEJwRXRLUVhpSQ?oc=5)
+
+---
+
+### [猫を苦しめる『猫風邪』の症状5選 命を落とす可能性も…治療法や予防法も解説 (2026年11月26日掲載)](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YOHU2cWlXby01VVB4OU9nSVJBYko5bHFiSWZHMW8tN3YyY2MtZ1VEclM1WExRVXBGTTZaa29zaUU4TENlNFVSWk9mWXl1UHd1YVMxNWpnMF85LVdiQmc?oc=5)
+
+2026-11-26 <span class="news-indication-tag">風邪</span>
+
+出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YOHU2cWlXby01VVB4OU9nSVJBYko5bHFiSWZHMW8tN3YyY2MtZ1VEclM1WExRVXBGTTZaa29zaUU4TENlNFVSWk9mWXl1UHd1YVMxNWpnMF85LVdiQmc?oc=5)
+
+---
+
+### [子どものかぜはすぐケアするのに⋯子育て層の85.1%が「自分の健康管理」を後回しに - 第一三共ヘルスケア調査 - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTFAyRWR2Q2d2R0R1Wk10QTg0TG0zVktleFo1VC1DSE9GX1hPNDRfYzM1cWcyQ1FmaVhPaEI1ZHd1d2xtWGgzaTF2SkZiZDRlX2RJUkhhVFBGT3cxLWpPY0Z4clczOHpqZnRDUndGUjBB?oc=5)
+
+2026-11-26 <span class="news-indication-tag">風邪</span> <span class="news-indication-tag">かぜ</span>
+
+出典: [au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTFAyRWR2Q2d2R0R1Wk10QTg0TG0zVktleFo1VC1DSE9GX1hPNDRfYzM1cWcyQ1FmaVhPaEI1ZHd1d2xtWGgzaTF2SkZiZDRlX2RJUkhhVFBGT3cxLWpPY0Z4clczOHpqZnRDUndGUjBB?oc=5)
+
+---
 
 ### [HPVワクチンの男性定期接種、目下のハードルは費用対効果 「エビデンス」固執に懸念も](https://news.google.com/rss/articles/CBMidkFVX3lxTE5rdWpzOWwydlN1UmZJaWR3MlJXQ29VUzQ0aTFpZy1VNW5TdXlaUnRvUnF1b01JenhLcWFobXllM1VabUFjS2hTVThkS0t3anM3cmdRR0RIQlktbERnMmU0T2xDRllyTnBNQnNiZXJ3S3FZYVZqREE?oc=5)
 

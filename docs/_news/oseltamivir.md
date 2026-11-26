@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="タミフルドライシロップ３％（選） に関するニュースは？">
-<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>36 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>37 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ last_modified_at: 2026-11-26
 <p><a href="{{ '/drugs/oseltamivir/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（36 件）
+## 関連ニュース（37 件）
 
 ### [米で鳥インフル３人感染 ワシントン州の酪農場](https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wOWtZdV9Zc0dIUFgzYjEtejlnY0xxdEwtNHdrck14MjBaN0Q2SHQ1endQV0Z3b2JZMGhDUDdnWlQ2QmZhV2pDNVlFOHptaXFwZDRtYkswaw?oc=5)
 
@@ -53,6 +53,14 @@ last_modified_at: 2026-11-26
 2026-11-25 <span class="news-indication-tag">インフルエンザ</span>
 
 出典: [NHKニュース](https://news.google.com/rss/articles/CBMiX0FVX3lxTE03UFR1UXVOSGpVYkQyTGZvTk14RTctYnRzNHFXWVowTjh6cm9lSWtYbk9mU1NGVzRiX3ljdHFGXzRWc09nUklFcjktNTZqWEltLXlHWDlSR3RZZm1PcExZ?oc=5)
+
+---
+
+### [鳥インフル、米国で3人感染1人死亡 経鼻ワクチンに一定の効果確認](https://news.google.com/rss/articles/CBMibkFVX3lxTFB4TGNPQ3JoSFZvWnM0S1RHZFR1VjlJRDNybHNJTTAyUUQ3QUMtWC1rNTAwNjRhZ1lLWUpGdjFCZmFlck5pdUtyNnNhYXVsdWhtU2s5NGlBZVI4ejFmYnRFY0hRbDAyWEh6Ymt6RlR3?oc=5)
+
+2026-11-25 <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [朝日新聞](https://news.google.com/rss/articles/CBMibkFVX3lxTFB4TGNPQ3JoSFZvWnM0S1RHZFR1VjlJRDNybHNJTTAyUUQ3QUMtWC1rNTAwNjRhZ1lLWUpGdjFCZmFlck5pdUtyNnNhYXVsdWhtU2s5NGlBZVI4ejFmYnRFY0hRbDAyWEh6Ymt6RlR3?oc=5)
 
 ---
 

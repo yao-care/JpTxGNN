@@ -3,9 +3,9 @@ layout: default
 title: "認知症 (dementia) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "認知症 (dementia) に関する健康ニュース。ニュース 51 件、関連医薬品 2 件。"
+description: "認知症 (dementia) に関する健康ニュース。ニュース 52 件、関連医薬品 2 件。"
 permalink: /news/dementia/
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-26
 ---
 
 # 認知症 (dementia) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="認知症 (dementia) に関するニュースは？">
-<strong>認知症 (dementia)</strong> には現在 <strong>51 件</strong>の関連ニュースと 2 件の関連医薬品があります。
+<strong>認知症 (dementia)</strong> には現在 <strong>52 件</strong>の関連ニュースと 2 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,15 @@ last_modified_at: 2026-11-24
 </ul>
 </div>
 
-## 関連ニュース（51 件）
+## 関連ニュース（52 件）
+
+### [認知症の免許取り消し 早期検査迷わせる要因に 【記者の視点】](https://news.google.com/rss/articles/CBMidEFVX3lxTE9YOW5WQXk3cUl4NUhReFdWc0w3cF9WblVWQUdHMXRBblJDQTJiVnpXQWJWb1F4bDlWUmMzUGE5SGpRRWc4Q2ZmQ3p5Sl9wNVc0eERuU2lYWnF5dTZBUkVvRDJUNi1qSHlPLXZIVkE0UWUzYTZ0?oc=5)
+
+2026-11-26
+
+出典: [世界日報DIGITAL](https://news.google.com/rss/articles/CBMidEFVX3lxTE9YOW5WQXk3cUl4NUhReFdWc0w3cF9WblVWQUdHMXRBblJDQTJiVnpXQWJWb1F4bDlWUmMzUGE5SGpRRWc4Q2ZmQ3p5Sl9wNVc0eERuU2lYWnF5dTZBUkVvRDJUNi1qSHlPLXZIVkE0UWUzYTZ0?oc=5)
+
+---
 
 ### [孤独が長く続く人ほど認知症のリスクが38%高いと判明](https://news.google.com/rss/articles/CBMiekFVX3lxTE1HLXhvc2VudkxjcXY0eWcwX3lRLVgybjRiQTVaai1ER1NYeE5FbXp0SWRCNlBTcEJUbzg1MmdLVWR6NWNKblpNTGZNT3laWkpxVlgyOHB1dlN1NW1nQ2R4T3Yxa1FZN2V0eVpHTDdWZ1htcW84UXExNkhR0gF_QVVfeXFMTThpcUFCSEV0bVl5UGM5NjUza294alNFTUQyQ3VwQ0tuSzlRMXFiTWYyRmhPaTBCUHFUMGJuNnZ5QUVHVGNCamJLZ1VfdTI2ellFYnlwRF9weFNXMDRaaFZZbzJmMEhEcE5TMDBWNXNTVy05eGx4YXBSQWlSdV9tUQ?oc=5)
 

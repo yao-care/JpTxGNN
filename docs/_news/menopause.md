@@ -3,9 +3,9 @@ layout: default
 title: "更年期 (menopause) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "更年期 (menopause) に関する健康ニュース。ニュース 5 件、関連医薬品 2 件。"
+description: "更年期 (menopause) に関する健康ニュース。ニュース 6 件、関連医薬品 2 件。"
 permalink: /news/menopause/
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-26
 ---
 
 # 更年期 (menopause) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="更年期 (menopause) に関するニュースは？">
-<strong>更年期 (menopause)</strong> には現在 <strong>5 件</strong>の関連ニュースと 2 件の関連医薬品があります。
+<strong>更年期 (menopause)</strong> には現在 <strong>6 件</strong>の関連ニュースと 2 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,15 @@ last_modified_at: 2026-11-21
 </ul>
 </div>
 
-## 関連ニュース（5 件）
+## 関連ニュース（6 件）
+
+### [50代女性が《心配している病気》ランキング 5位「更年期障害」4位「白内障・緑内障」…TOP3は？（オトナンサー）](https://news.google.com/rss/articles/CBMif0FVX3lxTE1zeTUwZ0wyQThSNEI1WGFoR243TjdoZ1J4OVhRVzliTTZZbUprOHpVcThsREdvLXZTZHpkYTNtbVh4NUtFWklSblJNUnlVYWpiX3owbUFmTGZmUDg3OHFILTN4ZmdCcUdpTktRT3pnTzd0dWRzMEhJd3UyLUF3WlE?oc=5)
+
+2026-11-26
+
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE1zeTUwZ0wyQThSNEI1WGFoR243TjdoZ1J4OVhRVzliTTZZbUprOHpVcThsREdvLXZTZHpkYTNtbVh4NUtFWklSblJNUnlVYWpiX3owbUFmTGZmUDg3OHFILTN4ZmdCcUdpTktRT3pnTzd0dWRzMEhJd3UyLUF3WlE?oc=5)
+
+---
 
 ### [米国の婦人科医が教える「50歳以上の女性が健康のために毎日すべきこと」（クーリエ・ジャポン）](https://news.google.com/rss/articles/CBMif0FVX3lxTE1MREh0QlBOdnlkT2hIMlVZcnMtZjMxSURaYm4yT1cteXdzZFY3N2tQdmdDSkVJcE9jWHB3ZGJuSWdKRTZMdE5VSEZkWkc1VndSbDRFeGNMcnFWMTNjTUVrc3huUFdCMDY1SnJLNnBpamJMNzJLam9sV0NEWlpWejg?oc=5)
 

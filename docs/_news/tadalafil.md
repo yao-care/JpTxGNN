@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="ザルティア錠５ｍｇ（選） に関するニュースは？">
-<strong>ザルティア錠５ｍｇ（選）</strong> には現在 <strong>31 件</strong>の関連ニュースがあり、予測適応症は 8 件です。
+<strong>ザルティア錠５ｍｇ（選）</strong> には現在 <strong>32 件</strong>の関連ニュースがあり、予測適応症は 8 件です。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ last_modified_at: 2026-11-26
 <p><a href="{{ '/drugs/tadalafil/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（31 件）
+## 関連ニュース（32 件）
+
+### [米国、脳卒中生存者が2050年に2000万人規模 社会経済的負担は年4000億ドル超](https://news.google.com/rss/articles/CBMiowFBVV95cUxNcmZoemQ5emt4YVVLb1R1UGlpWFN3dGYyZ3JHSWVobHNWLUZGQ2VUVE5KWTJ3ekh0MjIxV2g5eURTdWRsZVVyb0lKVlFsUElydW5nV0NsN0xqV1F1VHNBZ2ZHX0pLZlZPU2QxVkdRS0FIQXRicWptNlRyMEFNSV9WVnM5VXYycUIyaFlTTVBuRFgwdV9fcDhxekM2WFVpRmQ5Mllr?oc=5)
+
+2026-11-26 <span class="news-indication-tag">脳卒中</span>
+
+出典: [디지털투데이](https://news.google.com/rss/articles/CBMiowFBVV95cUxNcmZoemQ5emt4YVVLb1R1UGlpWFN3dGYyZ3JHSWVobHNWLUZGQ2VUVE5KWTJ3ekh0MjIxV2g5eURTdWRsZVVyb0lKVlFsUElydW5nV0NsN0xqV1F1VHNBZ2ZHX0pLZlZPU2QxVkdRS0FIQXRicWptNlRyMEFNSV9WVnM5VXYycUIyaFlTTVBuRFgwdV9fcDhxekM2WFVpRmQ5Mllr?oc=5)
+
+---
 
 ### [カロリーゼロの甘味料：脳卒中のリスクに注意しましょう。](https://news.google.com/rss/articles/CBMihwFBVV95cUxOSUJJQjNIbjJDaDRqOVM4b2JpSXVyQTk4YVpGemQ4TnpUSmFaSXc5MERNaHVacG1EaDRmeEQyc1pYemZYeHNYck1vcDlsMGJnZ0Zyb09FQmZ5LWl3UFFMMEc2WWFZcGE0QnQteHVhZ0V4dTRaV3NTRHZHSlpIM05TZlZQbG82ODg?oc=5)
 

@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="エルロチニブ錠１５０ｍｇ「ＮＫ」 に関するニュースは？">
-<strong>エルロチニブ錠１５０ｍｇ「ＮＫ」</strong> には現在 <strong>116 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>エルロチニブ錠１５０ｍｇ「ＮＫ」</strong> には現在 <strong>119 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,31 @@ last_modified_at: 2026-11-26
 <p><a href="{{ '/drugs/erlotinib/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（116 件）
+## 関連ニュース（119 件）
+
+### [腹痛や黄疸の症状が全くなかった47歳の男性が、よくある間違いが原因で肝臓がんであることが判明した。](https://news.google.com/rss/articles/CBMiygFBVV95cUxNazlteDVJMjVGTEZYQUhsX21haF85U2pJOGFuMzZrak5WcEpNMkhpQ2JxMFNScmI4VlIwd0poR2IwaUJKRnFUMTV1dUVtVVp0aDRmekd1RnY0RldDRUNTQi1DSi1wQjJzY0xQMzVnX3NTZVZjV0tfeW1ObWhidl8wUzYtYUlJRF94QjFTd3VCbVRaZUZOaWJRekFTMFlnWS1EUUo1QXZ0QXdrNnBTNzQxZVlJWFBPeEJra1BrNk5wdjBhbXJfN3FFV05n?oc=5)
+
+2026-11-26 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">肝臓がん</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMiygFBVV95cUxNazlteDVJMjVGTEZYQUhsX21haF85U2pJOGFuMzZrak5WcEpNMkhpQ2JxMFNScmI4VlIwd0poR2IwaUJKRnFUMTV1dUVtVVp0aDRmekd1RnY0RldDRUNTQi1DSi1wQjJzY0xQMzVnX3NTZVZjV0tfeW1ObWhidl8wUzYtYUlJRF94QjFTd3VCbVRaZUZOaWJRekFTMFlnWS1EUUo1QXZ0QXdrNnBTNzQxZVlJWFBPeEJra1BrNk5wdjBhbXJfN3FFV05n?oc=5)
+
+---
+
+### [「楽しく生きることを諦めないで」3度のがん乗り越え 「1型糖尿病」と闘う磯田久美子さん 笑顔で仲間を支え続ける思い - TBS NEWS DIG](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CbDdOYmYwR21rQVUzN3NObklaVXJDQmFzamJXMGt1b3RIcGtEajBvLVRWVlFaUEl4UnFPblpFbGpnbUpaQkhZOUNaNDRKWEJwRXRLUVhpSQ?oc=5)
+
+2026-11-26 <span class="news-indication-tag">がん</span>
+
+出典: [TBS NEWS DIG](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CbDdOYmYwR21rQVUzN3NObklaVXJDQmFzamJXMGt1b3RIcGtEajBvLVRWVlFaUEl4UnFPblpFbGpnbUpaQkhZOUNaNDRKWEJwRXRLUVhpSQ?oc=5)
+
+---
+
+### [認知症の免許取り消し 早期検査迷わせる要因に 【記者の視点】](https://news.google.com/rss/articles/CBMidEFVX3lxTE9YOW5WQXk3cUl4NUhReFdWc0w3cF9WblVWQUdHMXRBblJDQTJiVnpXQWJWb1F4bDlWUmMzUGE5SGpRRWc4Q2ZmQ3p5Sl9wNVc0eERuU2lYWnF5dTZBUkVvRDJUNi1qSHlPLXZIVkE0UWUzYTZ0?oc=5)
+
+2026-11-26 <span class="news-indication-tag">認知症</span>
+
+出典: [世界日報DIGITAL](https://news.google.com/rss/articles/CBMidEFVX3lxTE9YOW5WQXk3cUl4NUhReFdWc0w3cF9WblVWQUdHMXRBblJDQTJiVnpXQWJWb1F4bDlWUmMzUGE5SGpRRWc4Q2ZmQ3p5Sl9wNVc0eERuU2lYWnF5dTZBUkVvRDJUNi1qSHlPLXZIVkE0UWUzYTZ0?oc=5)
+
+---
 
 ### [HPVワクチンの男性定期接種、目下のハードルは費用対効果 「エビデンス」固執に懸念も](https://news.google.com/rss/articles/CBMidkFVX3lxTE5rdWpzOWwydlN1UmZJaWR3MlJXQ29VUzQ0aTFpZy1VNW5TdXlaUnRvUnF1b01JenhLcWFobXllM1VabUFjS2hTVThkS0t3anM3cmdRR0RIQlktbERnMmU0T2xDRllyTnBNQnNiZXJ3S3FZYVZqREE?oc=5)
 
