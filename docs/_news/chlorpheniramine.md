@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "セレスタミン配合錠（選） に関する健康ニュース。予測適応症 1 件。"
 permalink: /news/chlorpheniramine/
-last_modified_at: 2026-11-26
+last_modified_at: 2026-11-27
 ---
 
 # セレスタミン配合錠（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="セレスタミン配合錠（選） に関するニュースは？">
-<strong>セレスタミン配合錠（選）</strong> には現在 <strong>5 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
+<strong>セレスタミン配合錠（選）</strong> には現在 <strong>6 件</strong>の関連ニュースがあり、予測適応症は 1 件です。
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,15 @@ last_modified_at: 2026-11-26
 <p><a href="{{ '/drugs/chlorpheniramine/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（5 件）
+## 関連ニュース（6 件）
+
+### [インフルでも風邪でもない…子どもの発熱が続くとき見逃してはいけない｢心臓に後遺症が残りうる｣病気の名前](https://news.google.com/rss/articles/CBMihwFBVV95cUxQSkJvbWY0SmVJUW4yVFk4T2IxQ3N3eDlhYWVCcmxGUzhQQjFYTW9TT2s5YlhWZTJCdC1RV0ladW9hQjltSlM4V3JuWDdLUnRfSkV4YmJ0cENTYWRET1Z4TXZLUVNWTFFBNldrSUVBbHY4b2EwT1pHVUhkRWVfUl9wa19VX0xwdVE?oc=5)
+
+2026-11-26 <span class="news-indication-tag">風邪</span>
+
+出典: [Yahoo!ファイナンス](https://news.google.com/rss/articles/CBMihwFBVV95cUxQSkJvbWY0SmVJUW4yVFk4T2IxQ3N3eDlhYWVCcmxGUzhQQjFYTW9TT2s5YlhWZTJCdC1RV0ladW9hQjltSlM4V3JuWDdLUnRfSkV4YmJ0cENTYWRET1Z4TXZLUVNWTFFBNldrSUVBbHY4b2EwT1pHVUhkRWVfUl9wa19VX0xwdVE?oc=5)
+
+---
 
 ### [猫を苦しめる『猫風邪』の症状5選 命を落とす可能性も…治療法や予防法も解説 (2026年11月26日掲載)](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YOHU2cWlXby01VVB4OU9nSVJBYko5bHFiSWZHMW8tN3YyY2MtZ1VEclM1WExRVXBGTTZaa29zaUU4TENlNFVSWk9mWXl1UHd1YVMxNWpnMF85LVdiQmc?oc=5)
 

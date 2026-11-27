@@ -3,9 +3,9 @@ layout: default
 title: "帯状疱疹 (herpes zoster) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "帯状疱疹 (herpes zoster) に関する健康ニュース。ニュース 4 件、関連医薬品 3 件。"
+description: "帯状疱疹 (herpes zoster) に関する健康ニュース。ニュース 5 件、関連医薬品 3 件。"
 permalink: /news/herpes-zoster/
-last_modified_at: 2026-11-21
+last_modified_at: 2026-11-27
 ---
 
 # 帯状疱疹 (herpes zoster) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-21
 ---
 
 <p class="key-answer" data-question="帯状疱疹 (herpes zoster) に関するニュースは？">
-<strong>帯状疱疹 (herpes zoster)</strong> には現在 <strong>4 件</strong>の関連ニュースと 3 件の関連医薬品があります。
+<strong>帯状疱疹 (herpes zoster)</strong> には現在 <strong>5 件</strong>の関連ニュースと 3 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -32,7 +32,15 @@ last_modified_at: 2026-11-21
 </ul>
 </div>
 
-## 関連ニュース（4 件）
+## 関連ニュース（5 件）
+
+### [「72時間以内に治療しないと…」 帯状疱疹になった作家・松田美智子さんが明かす「闘病生活」 独自の対策と意外な治療法とは？](https://news.google.com/rss/articles/CBMif0FVX3lxTFA3QldCN3NpSHpwempkbnBySHB5c192N1gxR3ZlVWtSMXRKdVE0enRfQ243VTh5QUxDaE8zZnFnNDR3SkxnS3RMcVZ0RWZwYURYc3p0SUZ0TGpQeHN1VFN4eTh1ZFN3VmMwQURQZlFwVmlrOXJWcWZERkxHN3IxWEk?oc=5)
+
+2026-11-22
+
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTFA3QldCN3NpSHpwempkbnBySHB5c192N1gxR3ZlVWtSMXRKdVE0enRfQ243VTh5QUxDaE8zZnFnNDR3SkxnS3RMcVZ0RWZwYURYc3p0SUZ0TGpQeHN1VFN4eTh1ZFN3VmMwQURQZlFwVmlrOXJWcWZERkxHN3IxWEk?oc=5)
+
+---
 
 ### [帯状疱疹の症状・治療とワクチンを皮膚科医が解説](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uRFJ6UzdEZnp5eG9nWHB4aEh6Y285OHNDa2NhWVBtQ045VzJMbnZDNHU0VE9ESVZWdHRSUmEyX0s2R2tmS2xLU0xpUnA0ejBPQmJvd1ROLTlITGE0bzN5LU85eWhhTzR5?oc=5)
 

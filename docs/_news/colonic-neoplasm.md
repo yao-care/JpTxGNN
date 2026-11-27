@@ -3,9 +3,9 @@ layout: default
 title: "大腸がん (colonic neoplasm) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "大腸がん (colonic neoplasm) に関する健康ニュース。ニュース 11 件、関連医薬品 1 件。"
+description: "大腸がん (colonic neoplasm) に関する健康ニュース。ニュース 12 件、関連医薬品 1 件。"
 permalink: /news/colonic-neoplasm/
-last_modified_at: 2026-11-25
+last_modified_at: 2026-11-27
 ---
 
 # 大腸がん (colonic neoplasm) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-25
 ---
 
 <p class="key-answer" data-question="大腸がん (colonic neoplasm) に関するニュースは？">
-<strong>大腸がん (colonic neoplasm)</strong> には現在 <strong>11 件</strong>の関連ニュースと 1 件の関連医薬品があります。
+<strong>大腸がん (colonic neoplasm)</strong> には現在 <strong>12 件</strong>の関連ニュースと 1 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ last_modified_at: 2026-11-25
 </ul>
 </div>
 
-## 関連ニュース（11 件）
+## 関連ニュース（12 件）
+
+### [【闘病】30歳で『大腸がん』全摘・人工肛門に…過酷な闘病を経て掴んだ「結婚」という幸せ(メディカルドック)](https://news.yahoo.co.jp/articles/cce490a2abc43d6d2108ef2b79963e022cbbf789?source=rss)
+
+2026-11-27
+
+出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/cce490a2abc43d6d2108ef2b79963e022cbbf789?source=rss)
+
+---
 
 ### [《初期症状がほとんどない》女優・中村ゆりさんを襲った「直腸がん」、血便や細い便は危険サイン？専門医が明かす早期発見法と予防習慣 - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTFBFVkZCdkZYMElVMzVVdUxwb3E0YU9oSDlrck1rTDBWWGU2bzVpRzREM2NyRXZPb2xJVkpJYi1wQ3o4aTdBLWRfS0FrMFVILUFJYU1nc201VmlRWHNIV3RkTE9WRDJhWVN3RVAzbEN3?oc=5)
 

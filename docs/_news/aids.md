@@ -3,9 +3,9 @@ layout: default
 title: "AIDS 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "AIDS に関する健康ニュース。ニュース 3 件、関連医薬品 2 件。"
+description: "AIDS に関する健康ニュース。ニュース 4 件、関連医薬品 2 件。"
 permalink: /news/aids/
-last_modified_at: 2026-11-26
+last_modified_at: 2026-11-27
 ---
 
 # AIDS 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="AIDS に関するニュースは？">
-<strong>AIDS</strong> には現在 <strong>3 件</strong>の関連ニュースと 2 件の関連医薬品があります。
+<strong>AIDS</strong> には現在 <strong>4 件</strong>の関連ニュースと 2 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,15 @@ last_modified_at: 2026-11-26
 </ul>
 </div>
 
-## 関連ニュース（3 件）
+## 関連ニュース（4 件）
+
+### [「早期発見、早期治療を」赤い光でHIV啓発 別府市のスターバックスコーヒー３店舗](https://news.google.com/rss/articles/CBMidkFVX3lxTE9MRFlvNnJidVF2ZEdwYi02SldzSmZRRVl3UW91S3RpOFpJZTI1c1JVc2pBazdQOUl0ZXZ5TU90SlFna2F6Tk44VllXR2NJWkcwNV91UU9FWk5iRWVQaVpfRXJhVXl4Y3RZMGZhc2o4ZjZsTExXZ1E?oc=5)
+
+2026-11-27
+
+出典: [大分合同新聞](https://news.google.com/rss/articles/CBMidkFVX3lxTE9MRFlvNnJidVF2ZEdwYi02SldzSmZRRVl3UW91S3RpOFpJZTI1c1JVc2pBazdQOUl0ZXZ5TU90SlFna2F6Tk44VllXR2NJWkcwNV91UU9FWk5iRWVQaVpfRXJhVXl4Y3RZMGZhc2o4ZjZsTExXZ1E?oc=5)
+
+---
 
 ### [エイズ防止 大学祭で啓発 国際ソロプチミスト焼津](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9fcTV5cjY3S2JFQTRiUi1jZnFBaVZHQlR5ODNNQ1c3Qlp5TG9kUUpzVHg2b0xhNEFhNXdnYncyTlpRWkFqNTRCd3djRDBtUQ?oc=5)
 

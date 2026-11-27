@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="リポバス錠５　５ｍｇ（選） に関するニュースは？">
-<strong>リポバス錠５　５ｍｇ（選）</strong> には現在 <strong>106 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>リポバス錠５　５ｍｇ（選）</strong> には現在 <strong>113 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,39 @@ last_modified_at: 2026-11-27
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（106 件）
+## 関連ニュース（113 件）
+
+### [4歳娘「あんぱん食べたい」って言ったのに… ⇒ 「もういらない」〝目を疑う〟光景に「みんな同じなんだなあ」(西日本新聞me)](https://news.yahoo.co.jp/articles/016c5fac34115732522d7019baaa958e8d673daf?source=rss)
+
+2026-11-27 <span class="news-indication-tag">がん</span>
+
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/016c5fac34115732522d7019baaa958e8d673daf?source=rss)
+
+---
+
+### [がん治療における新たな期待](https://news.google.com/rss/articles/CBMie0FVX3lxTE5DODRNV3RTbWJwWGkzT0NCWUw3STR5QV81OUprTjVMWVh2UmI5QVpzQUlSUVAxdGttREJQNUpyd0hGSHVZY09NQ1B1cGNsb0JQT25sTmp1M3VaYjFYdkRSb1hMRnRGLTBtSHNwOHk4MllaWVIzdTluZ0phYw?oc=5)
+
+2026-11-27 <span class="news-indication-tag">がん</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMie0FVX3lxTE5DODRNV3RTbWJwWGkzT0NCWUw3STR5QV81OUprTjVMWVh2UmI5QVpzQUlSUVAxdGttREJQNUpyd0hGSHVZY09NQ1B1cGNsb0JQT25sTmp1M3VaYjFYdkRSb1hMRnRGLTBtSHNwOHk4MllaWVIzdTluZ0phYw?oc=5)
+
+---
+
+### [治療を遅らせると、巨大な壊死性肝腫瘍のために多くの人が重篤な状態に陥る。](https://news.google.com/rss/articles/CBMinAFBVV95cUxNNWttLXRCUTJWUzlRdFNWaUN3SEx0OXV4NUJSVjZJVHl2eTZESmZnaDFQVXZyWlNpZ0ltRGVxYlZrcUR0RDRPRHBPVnlTbDg2Q0h0U2RPUDhDbjFwRjRsVHhUR2ZHcWxOTGlaX3FicmpnRndFMXYyeEdXZS1UOEI3a3pXQzE1OHQ4MVNPZXlndkFwblRGNjltbXQ0ekM?oc=5)
+
+2026-11-27 <span class="news-indication-tag">腫瘍</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMinAFBVV95cUxNNWttLXRCUTJWUzlRdFNWaUN3SEx0OXV4NUJSVjZJVHl2eTZESmZnaDFQVXZyWlNpZ0ltRGVxYlZrcUR0RDRPRHBPVnlTbDg2Q0h0U2RPUDhDbjFwRjRsVHhUR2ZHcWxOTGlaX3FicmpnRndFMXYyeEdXZS1UOEI3a3pXQzE1OHQ4MVNPZXlndkFwblRGNjltbXQ0ekM?oc=5)
+
+---
+
+### [【闘病】30歳で『大腸がん』全摘・人工肛門に…過酷な闘病を経て掴んだ「結婚」という幸せ(メディカルドック)](https://news.yahoo.co.jp/articles/cce490a2abc43d6d2108ef2b79963e022cbbf789?source=rss)
+
+2026-11-27 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">大腸がん</span>
+
+出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/cce490a2abc43d6d2108ef2b79963e022cbbf789?source=rss)
+
+---
 
 ### [腹痛や黄疸の症状が全くなかった47歳の男性が、よくある間違いが原因で肝臓がんであることが判明した。](https://news.google.com/rss/articles/CBMiygFBVV95cUxNazlteDVJMjVGTEZYQUhsX21haF85U2pJOGFuMzZrak5WcEpNMkhpQ2JxMFNScmI4VlIwd0poR2IwaUJKRnFUMTV1dUVtVVp0aDRmekd1RnY0RldDRUNTQi1DSi1wQjJzY0xQMzVnX3NTZVZjV0tfeW1ObWhidl8wUzYtYUlJRF94QjFTd3VCbVRaZUZOaWJRekFTMFlnWS1EUUo1QXZ0QXdrNnBTNzQxZVlJWFBPeEJra1BrNk5wdjBhbXJfN3FFV05n?oc=5)
 
@@ -68,6 +100,14 @@ last_modified_at: 2026-11-27
 2026-11-26 <span class="news-indication-tag">緑内障</span> <span class="news-indication-tag">更年期</span> <span class="news-indication-tag">更年期障害</span>
 
 出典: [ニコニコニュース](https://news.google.com/rss/articles/CBMic0FVX3lxTE9fTnBUZk5JRi1raUI2TzY2LWJURy1ENzMxRC1pM2pzbklDZ3duNDlyeGV5MlZSYWFWZEdYdEZUSmdGSjBtakVGWi0xRmlGWXd4bnpISUg1X0xvcDk1NDhFdmVFdXYwQ01nMGo5MDRlSThRYWc?oc=5)
+
+---
+
+### [50代女性が《心配している病気》ランキング 5位「更年期障害」4位「白内障・緑内障」…TOP3は？ - au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE9tVDhqQ212ZmJOanpJdkRIZ2l2c1RwMDZwUmEzWWxqQXdWZk4yb1l1T2xqYmI2TjJCSFR1bzh1OWlSVllaT2hrLTZaNk84Q0xyVzZxRlFoZ1ZGTXJ5bnlHMG5mUFBWR1J4bmhqdzFB?oc=5)
+
+2026-11-26 <span class="news-indication-tag">緑内障</span> <span class="news-indication-tag">更年期</span> <span class="news-indication-tag">更年期障害</span>
+
+出典: [au Webポータル](https://news.google.com/rss/articles/CBMibkFVX3lxTE9tVDhqQ212ZmJOanpJdkRIZ2l2c1RwMDZwUmEzWWxqQXdWZk4yb1l1T2xqYmI2TjJCSFR1bzh1OWlSVllaT2hrLTZaNk84Q0xyVzZxRlFoZ1ZGTXJ5bnlHMG5mUFBWR1J4bmhqdzFB?oc=5)
 
 ---
 
@@ -108,6 +148,14 @@ last_modified_at: 2026-11-27
 2026-11-25 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">胃がん</span>
 
 出典: [福井新聞社](https://news.google.com/rss/articles/CBMiXkFVX3lxTE52dUc3NzRONmZRVk9UNTNreXVxdVRrRG1MNjJHUTl5dHppQ3BGbHRaby1jYm9kOGxLbWRYeFZrc09JcUl3bnlya25abm9KOUhBNkZwZVlReUowWVVBWlE?oc=5)
+
+---
+
+### [治療歴のない手術不能のI/II期非小細胞肺がんに対する体幹部定位放射線治療＋キイトルーダ、無イベント生存期間を改善せず](https://news.google.com/rss/articles/CBMiSEFVX3lxTFBFQm1JTmotQUVxSS1RSUFUVUtxa3lQaTFuTXBUQmZlLXRzMkI4UzAyNTlwV2QwQXF3dGdCSlZLenZtME52Z2hjZQ?oc=5)
+
+2026-11-25 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">小細胞肺がん</span> <span class="news-indication-tag">肺がん</span>
+
+出典: [がん情報サイト「オンコロ」](https://news.google.com/rss/articles/CBMiSEFVX3lxTFBFQm1JTmotQUVxSS1RSUFUVUtxa3lQaTFuTXBUQmZlLXRzMkI4UzAyNTlwV2QwQXF3dGdCSlZLenZtME52Z2hjZQ?oc=5)
 
 ---
 
@@ -180,6 +228,14 @@ last_modified_at: 2026-11-27
 2026-11-24 <span class="news-indication-tag">がん</span>
 
 出典: [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/4ba9d978b603173c6ad86243f1d7e65339d4a067?source=rss)
+
+---
+
+### [ハローキティに歓声「子宮頸がん予防を」ピューロランドで呼びかけ](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5iLVRMZGEyQllILU1zeE5GNWttS3ZFQ2lGdzVzOV9XdE5fRFJFSEp4ZW8zVGJMMUZtRzdBVk4tWlBBbDFfMUhQMW1SR1pvQkd6M05ObS1iRmxldndDY3pHclU1WWd2VW14?oc=5)
+
+2026-11-24 <span class="news-indication-tag">がん</span>
+
+出典: [読売新聞](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5iLVRMZGEyQllILU1zeE5GNWttS3ZFQ2lGdzVzOV9XdE5fRFJFSEp4ZW8zVGJMMUZtRzdBVk4tWlBBbDFfMUhQMW1SR1pvQkd6M05ObS1iRmxldndDY3pHclU1WWd2VW14?oc=5)
 
 ---
 

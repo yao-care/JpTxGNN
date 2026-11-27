@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="タミフルドライシロップ３％（選） に関するニュースは？">
-<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>38 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>40 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ last_modified_at: 2026-11-27
 <p><a href="{{ '/drugs/oseltamivir/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（38 件）
+## 関連ニュース（40 件）
+
+### [米 鳥インフル感染1人亡くなる](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VdUd2NUtZRXh6SFRQN1hjQ0R1ZEN6SFptQlhCRnFTa3FnZld6RzMtd2VjV0RXOFdRaWF0RkQzYUU2Y0hFMXE1QWo2OWllSGlSRXN2VGxwLUJ2LUh4UDRxV2lVN1BxaTBf?oc=5)
+
+2026-11-26 <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [朝日新聞](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VdUd2NUtZRXh6SFRQN1hjQ0R1ZEN6SFptQlhCRnFTa3FnZld6RzMtd2VjV0RXOFdRaWF0RkQzYUU2Y0hFMXE1QWo2OWllSGlSRXN2VGxwLUJ2LUh4UDRxV2lVN1BxaTBf?oc=5)
+
+---
 
 ### [インフルエンザA型の症例が増加しており、寒冷期における合併症のリスクに対する懸念が高まっている。](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYzRkVWVsS1Y5bjhNTU9IbmdhdC1MRFR3THVGU2xHVFFjX0dUZVZlZlMwbHRxakFxYzVUT3JwNEN0QlBHdXJoeUlOSjdpbHd1R09LaXFaemxyOFh5bzI1SDdkSGVrUzNmM3NYcERJY05xdmdNaHNDdFUycmg5bGFWSmtac0U4OWluRkI0?oc=5)
 
@@ -77,6 +85,14 @@ last_modified_at: 2026-11-27
 2026-11-25 <span class="news-indication-tag">インフルエンザ</span>
 
 出典: [国立健康危機管理研究機構](https://news.google.com/rss/articles/CBMiggFBVV95cUxQUmtlRGtHV3ZYdFpjU2FuRVVLbEdVSTItbXJfamdFdUdyOUVTNzBMeTF5eEUySU9pNndtY1Q3eFVwLVkwRzRMVm9IcUhValdHaE5LZm9vMlJOc0EzQS1Fc2NtSDNBSGhldFRuVkJzTU9UVkNFVzJYRkV6SDJaaG41WkVn?oc=5)
+
+---
+
+### [小児インフルエンザワクチンの効果（2025/26シーズン）～入院した発熱患者を対象に, 不活化・経鼻生ワクチンともA型に有効](https://news.google.com/rss/articles/CBMiggFBVV95cUxQZGRnazBPLWV5ckgtMFc4ZDc5Y2FYaFJjSmpWdnJhcUhkeTdhTl9QTGF3Z2Vjc3Y0OWo5eGtGVDlPQmpUUFBSTE9VQmhleDB5ZnptdGxBcm5FWndEVkJBNHl6aUNtVXliSHdqN0RkS3c0RnlFbTllSkJmNjdmQ1E3cjh3?oc=5)
+
+2026-11-25 <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [国立健康危機管理研究機構](https://news.google.com/rss/articles/CBMiggFBVV95cUxQZGRnazBPLWV5ckgtMFc4ZDc5Y2FYaFJjSmpWdnJhcUhkeTdhTl9QTGF3Z2Vjc3Y0OWo5eGtGVDlPQmpUUFBSTE9VQmhleDB5ZnptdGxBcm5FWndEVkJBNHl6aUNtVXliSHdqN0RkS3c0RnlFbTllSkJmNjdmQ1E3cjh3?oc=5)
 
 ---
 

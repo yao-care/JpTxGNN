@@ -3,9 +3,9 @@ layout: default
 title: "統合失調症 (schizophrenia) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "統合失調症 (schizophrenia) に関する健康ニュース。ニュース 4 件、関連医薬品 7 件。"
+description: "統合失調症 (schizophrenia) に関する健康ニュース。ニュース 5 件、関連医薬品 7 件。"
 permalink: /news/schizophrenia/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-27
 ---
 
 # 統合失調症 (schizophrenia) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="統合失調症 (schizophrenia) に関するニュースは？">
-<strong>統合失調症 (schizophrenia)</strong> には現在 <strong>4 件</strong>の関連ニュースと 7 件の関連医薬品があります。
+<strong>統合失調症 (schizophrenia)</strong> には現在 <strong>5 件</strong>の関連ニュースと 7 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,15 @@ last_modified_at: 2026-11-23
 </ul>
 </div>
 
-## 関連ニュース（4 件）
+## 関連ニュース（5 件）
+
+### [ネアンデルタール人のDNAが現代人の脳にもたらす意外なメリット、統合失調症リスクが低下（ナショナル ジオグラフィック日本版）](https://news.google.com/rss/articles/CBMif0FVX3lxTE1ST0pNbm9GbWM4dUhWNVdudWNkeUlSY3kyZGNKM3o1SUNacVc5YXhtWTBEZHpoc2FCbEpiZ0tKUzBvSDB3V05DTXBsRjZlSVlxN0o1VS15YUo1aXpuMWJ6ZzZoRWZmWlA1eXdUMlRnanNzSGVyc0xXaXF3NTNCazg?oc=5)
+
+2026-11-27
+
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE1ST0pNbm9GbWM4dUhWNVdudWNkeUlSY3kyZGNKM3o1SUNacVc5YXhtWTBEZHpoc2FCbEpiZ0tKUzBvSDB3V05DTXBsRjZlSVlxN0o1VS15YUo1aXpuMWJ6ZzZoRWZmWlA1eXdUMlRnanNzSGVyc0xXaXF3NTNCazg?oc=5) · [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/4c9ba7b329f7a4844240ae4a03d51d28bc9bf953?source=rss)
+
+---
 
 ### [ネアンデルタール人から受け継いだ遺伝子が現代人の脳や統合失調症リスクに影響している可能性](https://news.google.com/rss/articles/CBMihwFBVV95cUxPaVQ0dWJCUDVFUVh1bmhXZ1VqVlg4T1psbExTYjFnbnpmeGtNVEZ1YUxPblExSmV5U0pqWVd1NkJnXzF5TDJyNTZ6dkllU09MRjc4UVROUmxLMzJkUDNvUlRXZHBCaEN2V3BuSUdQakZMQzJVNWJtOU5QT0Q0b252dXI4TFZHUms?oc=5)
 

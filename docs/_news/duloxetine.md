@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="サインバルタカプセル３０ｍｇ（選） に関するニュースは？">
-<strong>サインバルタカプセル３０ｍｇ（選）</strong> には現在 <strong>11 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>サインバルタカプセル３０ｍｇ（選）</strong> には現在 <strong>12 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ last_modified_at: 2026-11-27
 <p><a href="{{ '/drugs/duloxetine/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（11 件）
+## 関連ニュース（12 件）
+
+### [ネアンデルタール人のDNAが現代人の脳にもたらす意外なメリット、統合失調症リスクが低下（ナショナル ジオグラフィック日本版）](https://news.google.com/rss/articles/CBMif0FVX3lxTE1ST0pNbm9GbWM4dUhWNVdudWNkeUlSY3kyZGNKM3o1SUNacVc5YXhtWTBEZHpoc2FCbEpiZ0tKUzBvSDB3V05DTXBsRjZlSVlxN0o1VS15YUo1aXpuMWJ6ZzZoRWZmWlA1eXdUMlRnanNzSGVyc0xXaXF3NTNCazg?oc=5)
+
+2026-11-27 <span class="news-indication-tag">統合失調症</span>
+
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE1ST0pNbm9GbWM4dUhWNVdudWNkeUlSY3kyZGNKM3o1SUNacVc5YXhtWTBEZHpoc2FCbEpiZ0tKUzBvSDB3V05DTXBsRjZlSVlxN0o1VS15YUo1aXpuMWJ6ZzZoRWZmWlA1eXdUMlRnanNzSGVyc0xXaXF3NTNCazg?oc=5) · [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/4c9ba7b329f7a4844240ae4a03d51d28bc9bf953?source=rss)
+
+---
 
 ### [約80名の医師の心血管疾患に関する診断・治療能力を向上させる。](https://news.google.com/rss/articles/CBMingFBVV95cUxQdUhkYTU3WlRBMU43SzVHQ0I0TDJIUkNzMElCS0gyRGFmblNVUVNvbFFXWFBJUVU5VHU1aDFaVkNrcWlOeVp0TUlwY0ZibFVZYTFyMVdmMGR3d2tMc1A2Zlk3U1lydmoxcGI5aGlyMDVjTjJpUEl0S0VrSm5obUpXUkFEc0JJRUo2QXFPOWgwbXdEWDRrMTRoM0d2YURMdw?oc=5)
 

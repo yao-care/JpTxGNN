@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "喘息 (asthma) 関連ニュース"
+title: "ぜんそく (asthma) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "喘息 (asthma) に関する健康ニュース。ニュース 2 件、関連医薬品 3 件。"
+description: "ぜんそく (asthma) に関する健康ニュース。ニュース 3 件、関連医薬品 3 件。"
 permalink: /news/asthma/
-last_modified_at: 2026-11-22
+last_modified_at: 2026-11-27
 ---
 
-# 喘息 (asthma) 関連ニュース
+# ぜんそく (asthma) 関連ニュース
 
 [← ニュース一覧に戻る]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="喘息 (asthma) に関するニュースは？">
-<strong>喘息 (asthma)</strong> には現在 <strong>2 件</strong>の関連ニュースと 3 件の関連医薬品があります。
+<p class="key-answer" data-question="ぜんそく (asthma) に関するニュースは？">
+<strong>ぜんそく (asthma)</strong> には現在 <strong>3 件</strong>の関連ニュースと 3 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
-このページは「喘息」に関する最新の健康ニュースをまとめ、JpTxGNN データベースで予測適応症にこの疾患を含む医薬品を一覧表示します。
+このページは「ぜんそく」に関する最新の健康ニュースをまとめ、JpTxGNN データベースで予測適応症にこの疾患を含む医薬品を一覧表示します。
 </div>
 
 <div class="related-drugs-card">
@@ -32,7 +32,15 @@ last_modified_at: 2026-11-22
 </ul>
 </div>
 
-## 関連ニュース（2 件）
+## 関連ニュース（3 件）
+
+### [なぜ女性のぜんそくは重くなりやすく、薬が効きにくいのか 成人患者は男性の2倍（ナショナル ジオグラフィック日本版）](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWHBMQkFyU05vd2NsV2VKV001bXVBVnZBMGJCb2ZJbnVsQnhqdGdzcU40aWR3TXZ2aUw3MDI2TkpUWFJzaWdnNHVrc2pqVVVJWERuWjZmWlB2dklZbmVIVU5GOXBxVFZiM0NydVlDalkwMllaZE1uTkJiYXRBelVabXlwWkdQR1Ix?oc=5)
+
+2026-11-27
+
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWHBMQkFyU05vd2NsV2VKV001bXVBVnZBMGJCb2ZJbnVsQnhqdGdzcU40aWR3TXZ2aUw3MDI2TkpUWFJzaWdnNHVrc2pqVVVJWERuWjZmWlB2dklZbmVIVU5GOXBxVFZiM0NydVlDalkwMllaZE1uTkJiYXRBelVabXlwWkdQR1Ix?oc=5) · [Yahoo! Japan Science](https://news.yahoo.co.jp/articles/380e9ea4fccc430f8b3efd5b74ade35a63a190a0?source=rss)
+
+---
 
 ### [頑張って掃除してもホコリが溜まる。そんな時に見直したい「空気の通り道」(ライフハッカー・ジャパン)](https://news.yahoo.co.jp/articles/ad4816660ace446cb5f1e1bb02c2532f528eec50?source=rss)
 
