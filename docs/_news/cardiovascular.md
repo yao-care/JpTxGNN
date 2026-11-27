@@ -3,9 +3,9 @@ layout: default
 title: "心血管 (cardiovascular) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "心血管 (cardiovascular) に関する健康ニュース。ニュース 6 件、関連医薬品 17 件。"
+description: "心血管 (cardiovascular) に関する健康ニュース。ニュース 7 件、関連医薬品 17 件。"
 permalink: /news/cardiovascular/
-last_modified_at: 2026-11-26
+last_modified_at: 2026-11-27
 ---
 
 # 心血管 (cardiovascular) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="心血管 (cardiovascular) に関するニュースは？">
-<strong>心血管 (cardiovascular)</strong> には現在 <strong>6 件</strong>の関連ニュースと 17 件の関連医薬品があります。
+<strong>心血管 (cardiovascular)</strong> には現在 <strong>7 件</strong>の関連ニュースと 17 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -46,7 +46,15 @@ last_modified_at: 2026-11-26
 </ul>
 </div>
 
-## 関連ニュース（6 件）
+## 関連ニュース（7 件）
+
+### [約80名の医師の心血管疾患に関する診断・治療能力を向上させる。](https://news.google.com/rss/articles/CBMingFBVV95cUxQdUhkYTU3WlRBMU43SzVHQ0I0TDJIUkNzMElCS0gyRGFmblNVUVNvbFFXWFBJUVU5VHU1aDFaVkNrcWlOeVp0TUlwY0ZibFVZYTFyMVdmMGR3d2tMc1A2Zlk3U1lydmoxcGI5aGlyMDVjTjJpUEl0S0VrSm5obUpXUkFEc0JJRUo2QXFPOWgwbXdEWDRrMTRoM0d2YURMdw?oc=5)
+
+2026-11-26
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMingFBVV95cUxQdUhkYTU3WlRBMU43SzVHQ0I0TDJIUkNzMElCS0gyRGFmblNVUVNvbFFXWFBJUVU5VHU1aDFaVkNrcWlOeVp0TUlwY0ZibFVZYTFyMVdmMGR3d2tMc1A2Zlk3U1lydmoxcGI5aGlyMDVjTjJpUEl0S0VrSm5obUpXUkFEc0JJRUo2QXFPOWgwbXdEWDRrMTRoM0d2YURMdw?oc=5)
+
+---
 
 ### [脳梗塞後SBP＜120試験「＜130否定の結果ではない」――国循・古賀氏コメント【時流◆AHA2026ピックアップ】](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FSlJDNVpYaEFWY2RDQXBpR0F0cTQtTmliSm9LNkkwdkxqUm9yY2pSVW9xS0RTZDNpeWFia2h4eEhWU180TVhlc3psX0lIQlFLSlE?oc=5)
 

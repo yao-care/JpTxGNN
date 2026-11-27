@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "タミフルドライシロップ３％（選） に関する健康ニュース。予測適応症 0 件。"
 permalink: /news/oseltamivir/
-last_modified_at: 2026-11-26
+last_modified_at: 2026-11-27
 ---
 
 # タミフルドライシロップ３％（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="タミフルドライシロップ３％（選） に関するニュースは？">
-<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>37 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>38 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ last_modified_at: 2026-11-26
 <p><a href="{{ '/drugs/oseltamivir/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（37 件）
+## 関連ニュース（38 件）
+
+### [インフルエンザA型の症例が増加しており、寒冷期における合併症のリスクに対する懸念が高まっている。](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYzRkVWVsS1Y5bjhNTU9IbmdhdC1MRFR3THVGU2xHVFFjX0dUZVZlZlMwbHRxakFxYzVUT3JwNEN0QlBHdXJoeUlOSjdpbHd1R09LaXFaemxyOFh5bzI1SDdkSGVrUzNmM3NYcERJY05xdmdNaHNDdFUycmg5bGFWSmtac0U4OWluRkI0?oc=5)
+
+2026-11-26 <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYzRkVWVsS1Y5bjhNTU9IbmdhdC1MRFR3THVGU2xHVFFjX0dUZVZlZlMwbHRxakFxYzVUT3JwNEN0QlBHdXJoeUlOSjdpbHd1R09LaXFaemxyOFh5bzI1SDdkSGVrUzNmM3NYcERJY05xdmdNaHNDdFUycmg5bGFWSmtac0U4OWluRkI0?oc=5)
+
+---
 
 ### [米で鳥インフル３人感染 ワシントン州の酪農場](https://news.google.com/rss/articles/CBMiV0FVX3lxTE0wOWtZdV9Zc0dIUFgzYjEtejlnY0xxdEwtNHdrck14MjBaN0Q2SHQ1endQV0Z3b2JZMGhDUDdnWlQ2QmZhV2pDNVlFOHptaXFwZDRtYkswaw?oc=5)
 

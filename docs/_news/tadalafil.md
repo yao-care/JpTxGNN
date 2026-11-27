@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "ザルティア錠５ｍｇ（選） に関する健康ニュース。予測適応症 8 件。"
 permalink: /news/tadalafil/
-last_modified_at: 2026-11-26
+last_modified_at: 2026-11-27
 ---
 
 # ザルティア錠５ｍｇ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="ザルティア錠５ｍｇ（選） に関するニュースは？">
-<strong>ザルティア錠５ｍｇ（選）</strong> には現在 <strong>32 件</strong>の関連ニュースがあり、予測適応症は 8 件です。
+<strong>ザルティア錠５ｍｇ（選）</strong> には現在 <strong>33 件</strong>の関連ニュースがあり、予測適応症は 8 件です。
 </p>
 
 <div class="key-takeaway">
@@ -40,7 +40,15 @@ last_modified_at: 2026-11-26
 <p><a href="{{ '/drugs/tadalafil/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（32 件）
+## 関連ニュース（33 件）
+
+### [約80名の医師の心血管疾患に関する診断・治療能力を向上させる。](https://news.google.com/rss/articles/CBMingFBVV95cUxQdUhkYTU3WlRBMU43SzVHQ0I0TDJIUkNzMElCS0gyRGFmblNVUVNvbFFXWFBJUVU5VHU1aDFaVkNrcWlOeVp0TUlwY0ZibFVZYTFyMVdmMGR3d2tMc1A2Zlk3U1lydmoxcGI5aGlyMDVjTjJpUEl0S0VrSm5obUpXUkFEc0JJRUo2QXFPOWgwbXdEWDRrMTRoM0d2YURMdw?oc=5)
+
+2026-11-26 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾患</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMingFBVV95cUxQdUhkYTU3WlRBMU43SzVHQ0I0TDJIUkNzMElCS0gyRGFmblNVUVNvbFFXWFBJUVU5VHU1aDFaVkNrcWlOeVp0TUlwY0ZibFVZYTFyMVdmMGR3d2tMc1A2Zlk3U1lydmoxcGI5aGlyMDVjTjJpUEl0S0VrSm5obUpXUkFEc0JJRUo2QXFPOWgwbXdEWDRrMTRoM0d2YURMdw?oc=5)
+
+---
 
 ### [米国、脳卒中生存者が2050年に2000万人規模 社会経済的負担は年4000億ドル超](https://news.google.com/rss/articles/CBMiowFBVV95cUxNcmZoemQ5emt4YVVLb1R1UGlpWFN3dGYyZ3JHSWVobHNWLUZGQ2VUVE5KWTJ3ekh0MjIxV2g5eURTdWRsZVVyb0lKVlFsUElydW5nV0NsN0xqV1F1VHNBZ2ZHX0pLZlZPU2QxVkdRS0FIQXRicWptNlRyMEFNSV9WVnM5VXYycUIyaFlTTVBuRFgwdV9fcDhxekM2WFVpRmQ5Mllr?oc=5)
 

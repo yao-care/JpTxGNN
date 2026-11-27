@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "アクトスＯＤ錠３０　３０ｍｇ（選） に関する健康ニュース。予測適応症 9 件。"
 permalink: /news/pioglitazone/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-27
 ---
 
 # アクトスＯＤ錠３０　３０ｍｇ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="アクトスＯＤ錠３０　３０ｍｇ（選） に関するニュースは？">
-<strong>アクトスＯＤ錠３０　３０ｍｇ（選）</strong> には現在 <strong>5 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
+<strong>アクトスＯＤ錠３０　３０ｍｇ（選）</strong> には現在 <strong>6 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ last_modified_at: 2026-11-23
 <p><a href="{{ '/drugs/pioglitazone/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（5 件）
+## 関連ニュース（6 件）
+
+### [研究で、2型糖尿病はアルツハイマー病リスクの53％上昇と関連](https://news.google.com/rss/articles/CBMijwFBVV95cUxNZWNMV3F3eFV5aHIweTRnLXVua3d3ejJGOEtsTjZfRG5IZnNwYzZLaWpCMXRGcU9tN3lJTzFlY2lQelB2UGwtUHJrMnlQVk1LTVF5eEdSSDZHUXFsNEU2dzN4Mm40SmFta2h6MjdpcTBXOGhpQkFuQng0bHZZS2dUdFplLWhtTEQtUHZscE8tbw?oc=5)
+
+2026-11-24 <span class="news-indication-tag">2型糖尿病</span>
+
+出典: [Mezha.net](https://news.google.com/rss/articles/CBMijwFBVV95cUxNZWNMV3F3eFV5aHIweTRnLXVua3d3ejJGOEtsTjZfRG5IZnNwYzZLaWpCMXRGcU9tN3lJTzFlY2lQelB2UGwtUHJrMnlQVk1LTVF5eEdSSDZHUXFsNEU2dzN4Mm40SmFta2h6MjdpcTBXOGhpQkFuQng0bHZZS2dUdFplLWhtTEQtUHZscE8tbw?oc=5)
+
+---
 
 ### [【闘病】「将来、後悔するよ」 健診で『2型糖尿病』とわかった男性が悔やむ“体重管理” (2026年11月23日掲載)](https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2UzU5Zk9RYmtveXBhSEM5N1FwMGNCLWJ0M0I3X1EtWTg2UnFZeVBzbFF1a0NFeE1yc0RZWUtKaTlYVHduSjhHV29iRzdaYm9EVGl3RkV2d0cxQTZVQWc?oc=5)
 

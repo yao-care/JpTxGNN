@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "リポバス錠５　５ｍｇ（選） に関する健康ニュース。予測適応症 5 件。"
 permalink: /news/simvastatin/
-last_modified_at: 2026-11-26
+last_modified_at: 2026-11-27
 ---
 
 # リポバス錠５　５ｍｇ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="リポバス錠５　５ｍｇ（選） に関するニュースは？">
-<strong>リポバス錠５　５ｍｇ（選）</strong> には現在 <strong>102 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>リポバス錠５　５ｍｇ（選）</strong> には現在 <strong>106 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -37,13 +37,21 @@ last_modified_at: 2026-11-26
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（102 件）
+## 関連ニュース（106 件）
 
 ### [腹痛や黄疸の症状が全くなかった47歳の男性が、よくある間違いが原因で肝臓がんであることが判明した。](https://news.google.com/rss/articles/CBMiygFBVV95cUxNazlteDVJMjVGTEZYQUhsX21haF85U2pJOGFuMzZrak5WcEpNMkhpQ2JxMFNScmI4VlIwd0poR2IwaUJKRnFUMTV1dUVtVVp0aDRmekd1RnY0RldDRUNTQi1DSi1wQjJzY0xQMzVnX3NTZVZjV0tfeW1ObWhidl8wUzYtYUlJRF94QjFTd3VCbVRaZUZOaWJRekFTMFlnWS1EUUo1QXZ0QXdrNnBTNzQxZVlJWFBPeEJra1BrNk5wdjBhbXJfN3FFV05n?oc=5)
 
 2026-11-26 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">肝臓がん</span>
 
 出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMiygFBVV95cUxNazlteDVJMjVGTEZYQUhsX21haF85U2pJOGFuMzZrak5WcEpNMkhpQ2JxMFNScmI4VlIwd0poR2IwaUJKRnFUMTV1dUVtVVp0aDRmekd1RnY0RldDRUNTQi1DSi1wQjJzY0xQMzVnX3NTZVZjV0tfeW1ObWhidl8wUzYtYUlJRF94QjFTd3VCbVRaZUZOaWJRekFTMFlnWS1EUUo1QXZ0QXdrNnBTNzQxZVlJWFBPeEJra1BrNk5wdjBhbXJfN3FFV05n?oc=5)
+
+---
+
+### [「楽しく生きることを諦めないで」3度のがん乗り越え　「1型糖尿病」と闘う磯田久美子さん　笑顔で仲間を支え続ける思い](https://news.google.com/rss/articles/CBMiggFBVV95cUxOVVhFdU1QYkhveHBsNy03YmFnLUE4bW5Wczc4eW5PdjJsUDZZdE9WREdQdTlxemdlVUpsYWEweWRiWndNRVhLRGUwTi1mbDg5dnNkVVZCcGFOa241LXp1d3RFY195N19PQjBUbmpmMVZIQzlkTTVobTcyeXQ0V2ZzNnZ30gF0QVVfeXFMTjZHQTdtZHo1SlZtVm5lUmRXZF9HaDA3bG5lZXJLNEJMR2NHaExCb2pNYnhIT3FrLXpHcnlfeVh6WFQ4N0N4ZjZaMFM1em04MG82VWh2aGVFcVEzUjlnLVRlWFBWRUVUcjBER19mS2dMdkVzTU0?oc=5)
+
+2026-11-26 <span class="news-indication-tag">がん</span>
+
+出典: [ｄメニューニュース](https://news.google.com/rss/articles/CBMiggFBVV95cUxOVVhFdU1QYkhveHBsNy03YmFnLUE4bW5Wczc4eW5PdjJsUDZZdE9WREdQdTlxemdlVUpsYWEweWRiWndNRVhLRGUwTi1mbDg5dnNkVVZCcGFOa241LXp1d3RFY195N19PQjBUbmpmMVZIQzlkTTVobTcyeXQ0V2ZzNnZ30gF0QVVfeXFMTjZHQTdtZHo1SlZtVm5lUmRXZF9HaDA3bG5lZXJLNEJMR2NHaExCb2pNYnhIT3FrLXpHcnlfeVh6WFQ4N0N4ZjZaMFM1em04MG82VWh2aGVFcVEzUjlnLVRlWFBWRUVUcjBER19mS2dMdkVzTU0?oc=5)
 
 ---
 
@@ -55,11 +63,27 @@ last_modified_at: 2026-11-26
 
 ---
 
+### [50代女性が《心配している病気》ランキング 5位「更年期障害」4位「白内障・緑内障」…TOP3は？](https://news.google.com/rss/articles/CBMic0FVX3lxTE9fTnBUZk5JRi1raUI2TzY2LWJURy1ENzMxRC1pM2pzbklDZ3duNDlyeGV5MlZSYWFWZEdYdEZUSmdGSjBtakVGWi0xRmlGWXd4bnpISUg1X0xvcDk1NDhFdmVFdXYwQ01nMGo5MDRlSThRYWc?oc=5)
+
+2026-11-26 <span class="news-indication-tag">緑内障</span> <span class="news-indication-tag">更年期</span> <span class="news-indication-tag">更年期障害</span>
+
+出典: [ニコニコニュース](https://news.google.com/rss/articles/CBMic0FVX3lxTE9fTnBUZk5JRi1raUI2TzY2LWJURy1ENzMxRC1pM2pzbklDZ3duNDlyeGV5MlZSYWFWZEdYdEZUSmdGSjBtakVGWi0xRmlGWXd4bnpISUg1X0xvcDk1NDhFdmVFdXYwQ01nMGo5MDRlSThRYWc?oc=5)
+
+---
+
 ### [50代女性が《心配している病気》ランキング 5位「更年期障害」4位「白内障・緑内障」…TOP3は？（オトナンサー）](https://news.google.com/rss/articles/CBMif0FVX3lxTE1zeTUwZ0wyQThSNEI1WGFoR243TjdoZ1J4OVhRVzliTTZZbUprOHpVcThsREdvLXZTZHpkYTNtbVh4NUtFWklSblJNUnlVYWpiX3owbUFmTGZmUDg3OHFILTN4ZmdCcUdpTktRT3pnTzd0dWRzMEhJd3UyLUF3WlE?oc=5)
 
 2026-11-26 <span class="news-indication-tag">緑内障</span> <span class="news-indication-tag">更年期</span> <span class="news-indication-tag">更年期障害</span>
 
 出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMif0FVX3lxTE1zeTUwZ0wyQThSNEI1WGFoR243TjdoZ1J4OVhRVzliTTZZbUprOHpVcThsREdvLXZTZHpkYTNtbVh4NUtFWklSblJNUnlVYWpiX3owbUFmTGZmUDg3OHFILTN4ZmdCcUdpTktRT3pnTzd0dWRzMEhJd3UyLUF3WlE?oc=5)
+
+---
+
+### [約80名の医師の心血管疾患に関する診断・治療能力を向上させる。](https://news.google.com/rss/articles/CBMingFBVV95cUxQdUhkYTU3WlRBMU43SzVHQ0I0TDJIUkNzMElCS0gyRGFmblNVUVNvbFFXWFBJUVU5VHU1aDFaVkNrcWlOeVp0TUlwY0ZibFVZYTFyMVdmMGR3d2tMc1A2Zlk3U1lydmoxcGI5aGlyMDVjTjJpUEl0S0VrSm5obUpXUkFEc0JJRUo2QXFPOWgwbXdEWDRrMTRoM0d2YURMdw?oc=5)
+
+2026-11-26 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾患</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMingFBVV95cUxQdUhkYTU3WlRBMU43SzVHQ0I0TDJIUkNzMElCS0gyRGFmblNVUVNvbFFXWFBJUVU5VHU1aDFaVkNrcWlOeVp0TUlwY0ZibFVZYTFyMVdmMGR3d2tMc1A2Zlk3U1lydmoxcGI5aGlyMDVjTjJpUEl0S0VrSm5obUpXUkFEc0JJRUo2QXFPOWgwbXdEWDRrMTRoM0d2YURMdw?oc=5)
 
 ---
 
@@ -92,6 +116,14 @@ last_modified_at: 2026-11-26
 2026-11-25 <span class="news-indication-tag">がん</span>
 
 出典: [伊那谷ねっと](https://news.google.com/rss/articles/CBMiakFVX3lxTFBLTFU4ZDluSGROVEZBSURYVjN6Y1RQZkxiMVNSekJmOWU0dVJ4VVJ2TnIxVFFDLUx5Yk9yb01ZNmdnNHhsazBxWU9KNzVLdlRrOGF6OEJjaC11VERXYWJGbHBWeE5jMFppX3c?oc=5)
+
+---
+
+### [筋層浸潤性膀胱がん治療の将来像を考える契機に【12JSUO】](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GUjZiT3ZmcmVhSDBVU0I4Mm8zc2syd2dMUTY4bjc0d2ZXVm9ZenpoTXFHVzRINjk2UkVDMmFYRXJ1UU9Oc0tzZEtmQjNOalY2R2c?oc=5)
+
+2026-11-25 <span class="news-indication-tag">がん</span> <span class="news-indication-tag">癌</span>
+
+出典: [m3.com](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GUjZiT3ZmcmVhSDBVU0I4Mm8zc2syd2dMUTY4bjc0d2ZXVm9ZenpoTXFHVzRINjk2UkVDMmFYRXJ1UU9Oc0tzZEtmQjNOalY2R2c?oc=5)
 
 ---
 

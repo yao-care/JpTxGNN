@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "サインバルタカプセル３０ｍｇ（選） に関する健康ニュース。予測適応症 10 件。"
 permalink: /news/duloxetine/
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-27
 ---
 
 # サインバルタカプセル３０ｍｇ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="サインバルタカプセル３０ｍｇ（選） に関するニュースは？">
-<strong>サインバルタカプセル３０ｍｇ（選）</strong> には現在 <strong>10 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>サインバルタカプセル３０ｍｇ（選）</strong> には現在 <strong>11 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ last_modified_at: 2026-11-24
 <p><a href="{{ '/drugs/duloxetine/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（10 件）
+## 関連ニュース（11 件）
+
+### [約80名の医師の心血管疾患に関する診断・治療能力を向上させる。](https://news.google.com/rss/articles/CBMingFBVV95cUxQdUhkYTU3WlRBMU43SzVHQ0I0TDJIUkNzMElCS0gyRGFmblNVUVNvbFFXWFBJUVU5VHU1aDFaVkNrcWlOeVp0TUlwY0ZibFVZYTFyMVdmMGR3d2tMc1A2Zlk3U1lydmoxcGI5aGlyMDVjTjJpUEl0S0VrSm5obUpXUkFEc0JJRUo2QXFPOWgwbXdEWDRrMTRoM0d2YURMdw?oc=5)
+
+2026-11-26 <span class="news-indication-tag">心血管</span> <span class="news-indication-tag">心血管疾患</span>
+
+出典: [Vietnam.vn](https://news.google.com/rss/articles/CBMingFBVV95cUxQdUhkYTU3WlRBMU43SzVHQ0I0TDJIUkNzMElCS0gyRGFmblNVUVNvbFFXWFBJUVU5VHU1aDFaVkNrcWlOeVp0TUlwY0ZibFVZYTFyMVdmMGR3d2tMc1A2Zlk3U1lydmoxcGI5aGlyMDVjTjJpUEl0S0VrSm5obUpXUkFEc0JJRUo2QXFPOWgwbXdEWDRrMTRoM0d2YURMdw?oc=5)
+
+---
 
 ### [脳梗塞後SBP＜120試験「＜130否定の結果ではない」――国循・古賀氏コメント【時流◆AHA2026ピックアップ】](https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FSlJDNVpYaEFWY2RDQXBpR0F0cTQtTmliSm9LNkkwdkxqUm9yY2pSVW9xS0RTZDNpeWFia2h4eEhWU180TVhlc3psX0lIQlFLSlE?oc=5)
 

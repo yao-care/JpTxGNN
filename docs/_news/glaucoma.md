@@ -3,9 +3,9 @@ layout: default
 title: "緑内障 (glaucoma) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "緑内障 (glaucoma) に関する健康ニュース。ニュース 4 件、関連医薬品 4 件。"
+description: "緑内障 (glaucoma) に関する健康ニュース。ニュース 5 件、関連医薬品 4 件。"
 permalink: /news/glaucoma/
-last_modified_at: 2026-11-26
+last_modified_at: 2026-11-27
 ---
 
 # 緑内障 (glaucoma) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="緑内障 (glaucoma) に関するニュースは？">
-<strong>緑内障 (glaucoma)</strong> には現在 <strong>4 件</strong>の関連ニュースと 4 件の関連医薬品があります。
+<strong>緑内障 (glaucoma)</strong> には現在 <strong>5 件</strong>の関連ニュースと 4 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,15 @@ last_modified_at: 2026-11-26
 </ul>
 </div>
 
-## 関連ニュース（4 件）
+## 関連ニュース（5 件）
+
+### [50代女性が《心配している病気》ランキング 5位「更年期障害」4位「白内障・緑内障」…TOP3は？](https://news.google.com/rss/articles/CBMic0FVX3lxTE9fTnBUZk5JRi1raUI2TzY2LWJURy1ENzMxRC1pM2pzbklDZ3duNDlyeGV5MlZSYWFWZEdYdEZUSmdGSjBtakVGWi0xRmlGWXd4bnpISUg1X0xvcDk1NDhFdmVFdXYwQ01nMGo5MDRlSThRYWc?oc=5)
+
+2026-11-26
+
+出典: [ニコニコニュース](https://news.google.com/rss/articles/CBMic0FVX3lxTE9fTnBUZk5JRi1raUI2TzY2LWJURy1ENzMxRC1pM2pzbklDZ3duNDlyeGV5MlZSYWFWZEdYdEZUSmdGSjBtakVGWi0xRmlGWXd4bnpISUg1X0xvcDk1NDhFdmVFdXYwQ01nMGo5MDRlSThRYWc?oc=5)
+
+---
 
 ### [50代女性が《心配している病気》ランキング 5位「更年期障害」4位「白内障・緑内障」…TOP3は？（オトナンサー）](https://news.google.com/rss/articles/CBMif0FVX3lxTE1zeTUwZ0wyQThSNEI1WGFoR243TjdoZ1J4OVhRVzliTTZZbUprOHpVcThsREdvLXZTZHpkYTNtbVh4NUtFWklSblJNUnlVYWpiX3owbUFmTGZmUDg3OHFILTN4ZmdCcUdpTktRT3pnTzd0dWRzMEhJd3UyLUF3WlE?oc=5)
 
