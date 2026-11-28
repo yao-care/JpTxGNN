@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "エルロチニブ錠１５０ｍｇ「ＮＫ」 に関する健康ニュース。予測適応症 0 件。"
 permalink: /news/erlotinib/
-last_modified_at: 2026-11-27
+last_modified_at: 2026-11-28
 ---
 
 # エルロチニブ錠１５０ｍｇ「ＮＫ」 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="エルロチニブ錠１５０ｍｇ「ＮＫ」 に関するニュースは？">
-<strong>エルロチニブ錠１５０ｍｇ「ＮＫ」</strong> には現在 <strong>127 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>エルロチニブ錠１５０ｍｇ「ＮＫ」</strong> には現在 <strong>128 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ last_modified_at: 2026-11-27
 <p><a href="{{ '/drugs/erlotinib/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（127 件）
+## 関連ニュース（128 件）
+
+### [親の終の棲家をどう選ぶ？｜デイサービスはどう選ぶ？(サライ.jp)](https://news.yahoo.co.jp/articles/a45933c3e3efe512df989bc046e6dcb1914e7600?source=rss)
+
+2026-11-28 <span class="news-indication-tag">認知症</span>
+
+出典: [Yahoo! Japan Life](https://news.yahoo.co.jp/articles/a45933c3e3efe512df989bc046e6dcb1914e7600?source=rss)
+
+---
 
 ### [4歳娘「あんぱん食べたい」って言ったのに… ⇒ 「もういらない」〝目を疑う〟光景に「みんな同じなんだなあ」(西日本新聞me)](https://news.yahoo.co.jp/articles/016c5fac34115732522d7019baaa958e8d673daf?source=rss)
 

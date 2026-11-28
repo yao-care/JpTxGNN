@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "タミフルドライシロップ３％（選） に関する健康ニュース。予測適応症 0 件。"
 permalink: /news/oseltamivir/
-last_modified_at: 2026-11-27
+last_modified_at: 2026-11-28
 ---
 
 # タミフルドライシロップ３％（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="タミフルドライシロップ３％（選） に関するニュースは？">
-<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>40 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>タミフルドライシロップ３％（選）</strong> には現在 <strong>43 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,23 @@ last_modified_at: 2026-11-27
 <p><a href="{{ '/drugs/oseltamivir/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（40 件）
+## 関連ニュース（43 件）
+
+### [家族同士でうつさない！【風邪・インフルエンザ対策】「一緒に使わない！」医師が教える2つのコツ (2026年11月28日掲載)](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CRnRqWHh2T3hTMnFpOV93N0QySlE0NkNNbDh4WlFwQ3dNcm5SR01JUUYzV2ZyOVRsNlEzSnNkZGx0a1dYNDBzeFh2aHFZVDZkMGozUUpYdkVKRU1QSVE?oc=5)
+
+2026-11-27 <span class="news-indication-tag">インフルエンザ</span> <span class="news-indication-tag">風邪</span>
+
+出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CRnRqWHh2T3hTMnFpOV93N0QySlE0NkNNbDh4WlFwQ3dNcm5SR01JUUYzV2ZyOVRsNlEzSnNkZGx0a1dYNDBzeFh2aHFZVDZkMGozUUpYdkVKRU1QSVE?oc=5)
+
+---
+
+### [【医師に聞くインフルエンザ対策】今すぐ始めて！喉のバリア機能の守り方（HALMEK up）](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNnpGenBwNkg1ZXVZdnhJMWtZdW1fWHJsSkltNElLQWZnaHh1Um03emNEZHdfd2g5dFdjdDZsbGpTTG5yeFJjWjdkU08taE5WSUUxRWJadUN0T1FscjBaR09SZlp5eHFWeEVNOGRYQmZGVTZYUWVfWGhwZUdvVzNnMTk3aXFIbmVR?oc=5)
+
+2026-11-27 <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [Yahoo!ニュース](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNnpGenBwNkg1ZXVZdnhJMWtZdW1fWHJsSkltNElLQWZnaHh1Um03emNEZHdfd2g5dFdjdDZsbGpTTG5yeFJjWjdkU08taE5WSUUxRWJadUN0T1FscjBaR09SZlp5eHFWeEVNOGRYQmZGVTZYUWVfWGhwZUdvVzNnMTk3aXFIbmVR?oc=5)
+
+---
 
 ### [米 鳥インフル感染1人亡くなる](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VdUd2NUtZRXh6SFRQN1hjQ0R1ZEN6SFptQlhCRnFTa3FnZld6RzMtd2VjV0RXOFdRaWF0RkQzYUU2Y0hFMXE1QWo2OWllSGlSRXN2VGxwLUJ2LUh4UDRxV2lVN1BxaTBf?oc=5)
 
@@ -69,6 +85,14 @@ last_modified_at: 2026-11-27
 2026-11-25 <span class="news-indication-tag">インフルエンザ</span>
 
 出典: [NHKニュース](https://news.google.com/rss/articles/CBMiX0FVX3lxTE03UFR1UXVOSGpVYkQyTGZvTk14RTctYnRzNHFXWVowTjh6cm9lSWtYbk9mU1NGVzRiX3ljdHFGXzRWc09nUklFcjktNTZqWEltLXlHWDlSR3RZZm1PcExZ?oc=5)
+
+---
+
+### [季節性インフルワクチン、牛由来鳥インフル抑制 経鼻で高い効果](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQcVM2a080alE4Wm42S0R0WHBsSDJRTGFqOThKdUhCd0toUVF2SHA3VlluVVNRdi1CbXI2YkkxYml3Tll2RTdCd2FSbzdqcExTWXVESEM2aFdEY2ZwVGRrMzRxSHItbFA0?oc=5)
+
+2026-11-25 <span class="news-indication-tag">インフルエンザ</span>
+
+出典: [毎日新聞](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQcVM2a080alE4Wm42S0R0WHBsSDJRTGFqOThKdUhCd0toUVF2SHA3VlluVVNRdi1CbXI2YkkxYml3Tll2RTdCd2FSbzdqcExTWXVESEM2aFdEY2ZwVGRrMzRxSHItbFA0?oc=5)
 
 ---
 

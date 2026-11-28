@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "レニベース錠１０　１０ｍｇ（選） に関する健康ニュース。予測適応症 0 件。"
 permalink: /news/enalapril/
-last_modified_at: 2026-11-27
+last_modified_at: 2026-11-28
 ---
 
 # レニベース錠１０　１０ｍｇ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="レニベース錠１０　１０ｍｇ（選） に関するニュースは？">
-<strong>レニベース錠１０　１０ｍｇ（選）</strong> には現在 <strong>104 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>レニベース錠１０　１０ｍｇ（選）</strong> には現在 <strong>105 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ last_modified_at: 2026-11-27
 <p><a href="{{ '/drugs/enalapril/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（104 件）
+## 関連ニュース（105 件）
+
+### [脳卒中になっても回復できる未来、「脳は治らない」という常識を覆す](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTWndLUXJaN2t2NWdmRkJoWUNER1ZQUk5kREUyWHNMMzJJTy1pVWljNUt2a1lSYldyLXA3djVMMDBnNDA5Z2doQXpUNUtSY3BqT3pmckx3?oc=5)
+
+2026-11-27 <span class="news-indication-tag">脳卒中</span>
+
+出典: [JBpress](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTWndLUXJaN2t2NWdmRkJoWUNER1ZQUk5kREUyWHNMMzJJTy1pVWljNUt2a1lSYldyLXA3djVMMDBnNDA5Z2doQXpUNUtSY3BqT3pmckx3?oc=5)
+
+---
 
 ### [4歳娘「あんぱん食べたい」って言ったのに… ⇒ 「もういらない」〝目を疑う〟光景に「みんな同じなんだなあ」(西日本新聞me)](https://news.yahoo.co.jp/articles/016c5fac34115732522d7019baaa958e8d673daf?source=rss)
 

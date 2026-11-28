@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "リポバス錠５　５ｍｇ（選） に関する健康ニュース。予測適応症 5 件。"
 permalink: /news/simvastatin/
-last_modified_at: 2026-11-27
+last_modified_at: 2026-11-28
 ---
 
 # リポバス錠５　５ｍｇ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="リポバス錠５　５ｍｇ（選） に関するニュースは？">
-<strong>リポバス錠５　５ｍｇ（選）</strong> には現在 <strong>113 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
+<strong>リポバス錠５　５ｍｇ（選）</strong> には現在 <strong>114 件</strong>の関連ニュースがあり、予測適応症は 5 件です。
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,15 @@ last_modified_at: 2026-11-27
 <p><a href="{{ '/drugs/simvastatin/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（113 件）
+## 関連ニュース（114 件）
+
+### [脳卒中になっても回復できる未来、「脳は治らない」という常識を覆す](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTWndLUXJaN2t2NWdmRkJoWUNER1ZQUk5kREUyWHNMMzJJTy1pVWljNUt2a1lSYldyLXA3djVMMDBnNDA5Z2doQXpUNUtSY3BqT3pmckx3?oc=5)
+
+2026-11-27 <span class="news-indication-tag">脳卒中</span>
+
+出典: [JBpress](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTWndLUXJaN2t2NWdmRkJoWUNER1ZQUk5kREUyWHNMMzJJTy1pVWljNUt2a1lSYldyLXA3djVMMDBnNDA5Z2doQXpUNUtSY3BqT3pmckx3?oc=5)
+
+---
 
 ### [4歳娘「あんぱん食べたい」って言ったのに… ⇒ 「もういらない」〝目を疑う〟光景に「みんな同じなんだなあ」(西日本新聞me)](https://news.yahoo.co.jp/articles/016c5fac34115732522d7019baaa958e8d673daf?source=rss)
 

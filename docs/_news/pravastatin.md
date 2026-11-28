@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "メバロチン錠５　５ｍｇ（選） に関する健康ニュース。予測適応症 6 件。"
 permalink: /news/pravastatin/
-last_modified_at: 2026-11-27
+last_modified_at: 2026-11-28
 ---
 
 # メバロチン錠５　５ｍｇ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="メバロチン錠５　５ｍｇ（選） に関するニュースは？">
-<strong>メバロチン錠５　５ｍｇ（選）</strong> には現在 <strong>118 件</strong>の関連ニュースがあり、予測適応症は 6 件です。
+<strong>メバロチン錠５　５ｍｇ（選）</strong> には現在 <strong>120 件</strong>の関連ニュースがあり、予測適応症は 6 件です。
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,23 @@ last_modified_at: 2026-11-27
 <p><a href="{{ '/drugs/pravastatin/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（118 件）
+## 関連ニュース（120 件）
+
+### [脳卒中になっても回復できる未来、「脳は治らない」という常識を覆す](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTWndLUXJaN2t2NWdmRkJoWUNER1ZQUk5kREUyWHNMMzJJTy1pVWljNUt2a1lSYldyLXA3djVMMDBnNDA5Z2doQXpUNUtSY3BqT3pmckx3?oc=5)
+
+2026-11-27 <span class="news-indication-tag">脳卒中</span>
+
+出典: [JBpress](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTWndLUXJaN2t2NWdmRkJoWUNER1ZQUk5kREUyWHNMMzJJTy1pVWljNUt2a1lSYldyLXA3djVMMDBnNDA5Z2doQXpUNUtSY3BqT3pmckx3?oc=5)
+
+---
+
+### [ＨＩＶ・梅毒検査５００円で １２月１日 世界エイズデー 来月２５日まで、県内６カ所](https://news.google.com/rss/articles/CBMiYEFVX3lxTE4taUZFTVhMRVh2SUwwcy1uYkc4d0llemVmSHJBZVR2aXpCY0JxOWNNTS1qNEw1MktaZWZhNTZxUTMwUlRPd2tUV0JDSkRWVEw4OG0wbi01X19Tczd0S3BOaw?oc=5)
+
+2026-11-27 <span class="news-indication-tag">AIDS</span>
+
+出典: [琉球新報デジタル](https://news.google.com/rss/articles/CBMiYEFVX3lxTE4taUZFTVhMRVh2SUwwcy1uYkc4d0llemVmSHJBZVR2aXpCY0JxOWNNTS1qNEw1MktaZWZhNTZxUTMwUlRPd2tUV0JDSkRWVEw4OG0wbi01X19Tczd0S3BOaw?oc=5)
+
+---
 
 ### [4歳娘「あんぱん食べたい」って言ったのに… ⇒ 「もういらない」〝目を疑う〟光景に「みんな同じなんだなあ」(西日本新聞me)](https://news.yahoo.co.jp/articles/016c5fac34115732522d7019baaa958e8d673daf?source=rss)
 

@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "プラスグレル錠５ｍｇ「ＤＳＥＰ」 に関する健康ニュース。予測適応症 9 件。"
 permalink: /news/prasugrel/
-last_modified_at: 2026-11-27
+last_modified_at: 2026-11-28
 ---
 
 # プラスグレル錠５ｍｇ「ＤＳＥＰ」 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="プラスグレル錠５ｍｇ「ＤＳＥＰ」 に関するニュースは？">
-<strong>プラスグレル錠５ｍｇ「ＤＳＥＰ」</strong> には現在 <strong>110 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
+<strong>プラスグレル錠５ｍｇ「ＤＳＥＰ」</strong> には現在 <strong>111 件</strong>の関連ニュースがあり、予測適応症は 9 件です。
 </p>
 
 <div class="key-takeaway">
@@ -41,7 +41,15 @@ last_modified_at: 2026-11-27
 <p><a href="{{ '/drugs/prasugrel/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（110 件）
+## 関連ニュース（111 件）
+
+### [脳卒中になっても回復できる未来、「脳は治らない」という常識を覆す](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTWndLUXJaN2t2NWdmRkJoWUNER1ZQUk5kREUyWHNMMzJJTy1pVWljNUt2a1lSYldyLXA3djVMMDBnNDA5Z2doQXpUNUtSY3BqT3pmckx3?oc=5)
+
+2026-11-27 <span class="news-indication-tag">脳卒中</span>
+
+出典: [JBpress](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTWndLUXJaN2t2NWdmRkJoWUNER1ZQUk5kREUyWHNMMzJJTy1pVWljNUt2a1lSYldyLXA3djVMMDBnNDA5Z2doQXpUNUtSY3BqT3pmckx3?oc=5)
+
+---
 
 ### [4歳娘「あんぱん食べたい」って言ったのに… ⇒ 「もういらない」〝目を疑う〟光景に「みんな同じなんだなあ」(西日本新聞me)](https://news.yahoo.co.jp/articles/016c5fac34115732522d7019baaa958e8d673daf?source=rss)
 

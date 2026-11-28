@@ -3,9 +3,9 @@ layout: default
 title: "脳卒中 (stroke) 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "脳卒中 (stroke) に関する健康ニュース。ニュース 25 件、関連医薬品 16 件。"
+description: "脳卒中 (stroke) に関する健康ニュース。ニュース 26 件、関連医薬品 16 件。"
 permalink: /news/stroke/
-last_modified_at: 2026-11-26
+last_modified_at: 2026-11-28
 ---
 
 # 脳卒中 (stroke) 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="脳卒中 (stroke) に関するニュースは？">
-<strong>脳卒中 (stroke)</strong> には現在 <strong>25 件</strong>の関連ニュースと 16 件の関連医薬品があります。
+<strong>脳卒中 (stroke)</strong> には現在 <strong>26 件</strong>の関連ニュースと 16 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -45,7 +45,15 @@ last_modified_at: 2026-11-26
 </ul>
 </div>
 
-## 関連ニュース（25 件）
+## 関連ニュース（26 件）
+
+### [脳卒中になっても回復できる未来、「脳は治らない」という常識を覆す](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTWndLUXJaN2t2NWdmRkJoWUNER1ZQUk5kREUyWHNMMzJJTy1pVWljNUt2a1lSYldyLXA3djVMMDBnNDA5Z2doQXpUNUtSY3BqT3pmckx3?oc=5)
+
+2026-11-27
+
+出典: [JBpress](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTWndLUXJaN2t2NWdmRkJoWUNER1ZQUk5kREUyWHNMMzJJTy1pVWljNUt2a1lSYldyLXA3djVMMDBnNDA5Z2doQXpUNUtSY3BqT3pmckx3?oc=5)
+
+---
 
 ### [米国、脳卒中生存者が2050年に2000万人規模 社会経済的負担は年4000億ドル超](https://news.google.com/rss/articles/CBMiowFBVV95cUxNcmZoemQ5emt4YVVLb1R1UGlpWFN3dGYyZ3JHSWVobHNWLUZGQ2VUVE5KWTJ3ekh0MjIxV2g5eURTdWRsZVVyb0lKVlFsUElydW5nV0NsN0xqV1F1VHNBZ2ZHX0pLZlZPU2QxVkdRS0FIQXRicWptNlRyMEFNSV9WVnM5VXYycUIyaFlTTVBuRFgwdV9fcDhxekM2WFVpRmQ5Mllr?oc=5)
 

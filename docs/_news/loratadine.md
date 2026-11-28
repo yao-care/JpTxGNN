@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "クラリチン錠１０ｍｇ（選） に関する健康ニュース。予測適応症 0 件。"
 permalink: /news/loratadine/
-last_modified_at: 2026-11-27
+last_modified_at: 2026-11-28
 ---
 
 # クラリチン錠１０ｍｇ（選） 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="クラリチン錠１０ｍｇ（選） に関するニュースは？">
-<strong>クラリチン錠１０ｍｇ（選）</strong> には現在 <strong>6 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
+<strong>クラリチン錠１０ｍｇ（選）</strong> には現在 <strong>7 件</strong>の関連ニュースがあり、予測適応症は 0 件です。
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ last_modified_at: 2026-11-27
 <p><a href="{{ '/drugs/loratadine/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（6 件）
+## 関連ニュース（7 件）
+
+### [家族同士でうつさない！【風邪・インフルエンザ対策】「一緒に使わない！」医師が教える2つのコツ (2026年11月28日掲載)](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CRnRqWHh2T3hTMnFpOV93N0QySlE0NkNNbDh4WlFwQ3dNcm5SR01JUUYzV2ZyOVRsNlEzSnNkZGx0a1dYNDBzeFh2aHFZVDZkMGozUUpYdkVKRU1QSVE?oc=5)
+
+2026-11-27 <span class="news-indication-tag">インフルエンザ</span> <span class="news-indication-tag">風邪</span>
+
+出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CRnRqWHh2T3hTMnFpOV93N0QySlE0NkNNbDh4WlFwQ3dNcm5SR01JUUYzV2ZyOVRsNlEzSnNkZGx0a1dYNDBzeFh2aHFZVDZkMGozUUpYdkVKRU1QSVE?oc=5)
+
+---
 
 ### [インフルでも風邪でもない…子どもの発熱が続くとき見逃してはいけない｢心臓に後遺症が残りうる｣病気の名前](https://news.google.com/rss/articles/CBMihwFBVV95cUxQSkJvbWY0SmVJUW4yVFk4T2IxQ3N3eDlhYWVCcmxGUzhQQjFYTW9TT2s5YlhWZTJCdC1RV0ladW9hQjltSlM4V3JuWDdLUnRfSkV4YmJ0cENTYWRET1Z4TXZLUVNWTFFBNldrSUVBbHY4b2EwT1pHVUhkRWVfUl9wa19VX0xwdVE?oc=5)
 

@@ -3,9 +3,9 @@ layout: default
 title: "AIDS 関連ニュース"
 parent: 健康ニュース
 nav_exclude: true
-description: "AIDS に関する健康ニュース。ニュース 4 件、関連医薬品 2 件。"
+description: "AIDS に関する健康ニュース。ニュース 5 件、関連医薬品 2 件。"
 permalink: /news/aids/
-last_modified_at: 2026-11-27
+last_modified_at: 2026-11-28
 ---
 
 # AIDS 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="AIDS に関するニュースは？">
-<strong>AIDS</strong> には現在 <strong>4 件</strong>の関連ニュースと 2 件の関連医薬品があります。
+<strong>AIDS</strong> には現在 <strong>5 件</strong>の関連ニュースと 2 件の関連医薬品があります。
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,15 @@ last_modified_at: 2026-11-27
 </ul>
 </div>
 
-## 関連ニュース（4 件）
+## 関連ニュース（5 件）
+
+### [ＨＩＶ・梅毒検査５００円で １２月１日 世界エイズデー 来月２５日まで、県内６カ所](https://news.google.com/rss/articles/CBMiYEFVX3lxTE4taUZFTVhMRVh2SUwwcy1uYkc4d0llemVmSHJBZVR2aXpCY0JxOWNNTS1qNEw1MktaZWZhNTZxUTMwUlRPd2tUV0JDSkRWVEw4OG0wbi01X19Tczd0S3BOaw?oc=5)
+
+2026-11-27
+
+出典: [琉球新報デジタル](https://news.google.com/rss/articles/CBMiYEFVX3lxTE4taUZFTVhMRVh2SUwwcy1uYkc4d0llemVmSHJBZVR2aXpCY0JxOWNNTS1qNEw1MktaZWZhNTZxUTMwUlRPd2tUV0JDSkRWVEw4OG0wbi01X19Tczd0S3BOaw?oc=5)
+
+---
 
 ### [「早期発見、早期治療を」赤い光でHIV啓発 別府市のスターバックスコーヒー３店舗](https://news.google.com/rss/articles/CBMidkFVX3lxTE9MRFlvNnJidVF2ZEdwYi02SldzSmZRRVl3UW91S3RpOFpJZTI1c1JVc2pBazdQOUl0ZXZ5TU90SlFna2F6Tk44VllXR2NJWkcwNV91UU9FWk5iRWVQaVpfRXJhVXl4Y3RZMGZhc2o4ZjZsTExXZ1E?oc=5)
 

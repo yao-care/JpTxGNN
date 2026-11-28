@@ -5,7 +5,7 @@ parent: 健康ニュース
 nav_exclude: true
 description: "モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」 に関する健康ニュース。予測適応症 10 件。"
 permalink: /news/morphine/
-last_modified_at: 2026-11-27
+last_modified_at: 2026-11-28
 ---
 
 # モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」 関連ニュース
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-27
 ---
 
 <p class="key-answer" data-question="モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」 に関するニュースは？">
-<strong>モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」</strong> には現在 <strong>86 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
+<strong>モルヒネ硫酸塩水和物徐放細粒分包３０ｍｇ「フジモト」</strong> には現在 <strong>87 件</strong>の関連ニュースがあり、予測適応症は 10 件です。
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ last_modified_at: 2026-11-27
 <p><a href="{{ '/drugs/morphine/' | relative_url }}">医薬品レポート全文を見る →</a></p>
 </div>
 
-## 関連ニュース（86 件）
+## 関連ニュース（87 件）
+
+### [家族同士でうつさない！【風邪・インフルエンザ対策】「一緒に使わない！」医師が教える2つのコツ (2026年11月28日掲載)](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CRnRqWHh2T3hTMnFpOV93N0QySlE0NkNNbDh4WlFwQ3dNcm5SR01JUUYzV2ZyOVRsNlEzSnNkZGx0a1dYNDBzeFh2aHFZVDZkMGozUUpYdkVKRU1QSVE?oc=5)
+
+2026-11-27 <span class="news-indication-tag">インフルエンザ</span> <span class="news-indication-tag">風邪</span>
+
+出典: [ライブドアニュース](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CRnRqWHh2T3hTMnFpOV93N0QySlE0NkNNbDh4WlFwQ3dNcm5SR01JUUYzV2ZyOVRsNlEzSnNkZGx0a1dYNDBzeFh2aHFZVDZkMGozUUpYdkVKRU1QSVE?oc=5)
+
+---
 
 ### [4歳娘「あんぱん食べたい」って言ったのに… ⇒ 「もういらない」〝目を疑う〟光景に「みんな同じなんだなあ」(西日本新聞me)](https://news.yahoo.co.jp/articles/016c5fac34115732522d7019baaa958e8d673daf?source=rss)
 
